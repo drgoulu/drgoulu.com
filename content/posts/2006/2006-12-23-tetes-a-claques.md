@@ -1,0 +1,18 @@
+---
+title: "Têtes à claques"
+date: 2006-12-23
+categories: 
+  - "non-classe"
+tags: 
+  - "humour"
+---
+
+[Tetesaclaques.com](http://www.tetesaclaques.tv/) fait des ravages dans la productivité de mes collègues (et un peu dans la mienne).
+
+Chaque semaine ils proposent un sketch hilarant réalisé en combinant des dessins statiques avec des expressions fimées sur les visages humains des acteurs, le tout asséné avec un puissant accent québecois.
+
+Mes préférés:
+
+1. [Le Willi Waller](http://www.tetesaclaques.tv/video.php?vid=30)
+2. Le Pilote [1](http://www.tetesaclaques.tv/video.php?vid=22) et [2](http://www.tetesaclaques.tv/video.php?vid=37)
+3. [Bonne Année 2007](http://www.tetesaclaques.tv/video.php?vid=39)

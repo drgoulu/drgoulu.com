@@ -1,0 +1,72 @@
+/* Custom Styles for Dr. Goulu */
+
+/* Wikipedia link styling */
+a.wikipedia::after {
+  content: "ⓦ";
+  font-size: 0.85em;
+  margin-left: 3px;
+  vertical-align: baseline;
+  text-decoration: none;
+  display: inline-block;
+  opacity: 0.85;
+}
+
+/* Figure alignments and captions */
+figure.alignright, figure.float-right {
+  float: right;
+  margin: 0.5rem 0 1.25rem 1.5rem;
+  max-width: 100%;
+  clear: right;
+}
+
+figure.alignleft, figure.float-left {
+  float: left;
+  margin: 0.5rem 1.5rem 1.25rem 0;
+  max-width: 100%;
+  clear: left;
+}
+
+figure.aligncenter {
+  margin: 1.5rem auto;
+  text-align: center;
+  clear: both;
+}
+
+@media (max-width: 640px) {
+  figure.alignright, figure.alignleft, figure.float-right, figure.float-left {
+    float: none !important;
+    margin: 1rem auto !important;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+}
+
+figure figcaption {
+  font-size: 0.875rem;
+  color: #4b5563;
+  margin-top: 0.35rem;
+  text-align: center;
+  line-height: 1.35;
+  font-style: italic;
+}
+
+.dark figure figcaption {
+  color: #9ca3af;
+}
+
+/* Reference citation links and anchors */
+[id^="ref-"] {
+  scroll-margin-top: 5.5rem;
+}
+
+a.ref-cite, a[href^="#ref-"] {
+  font-size: 0.8em;
+  vertical-align: super;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 0 1px;
+}
+
+a.ref-cite:hover, a[href^="#ref-"]:hover {
+  text-decoration: underline;
+}

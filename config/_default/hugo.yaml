@@ -4,8 +4,14 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: ''
-baseURL: 'https://example.com/' # Website URL
+title: 'Dr. Goulu'
+baseURL: 'https://drgoulu.com/'
+
+permalinks:
+  # Applique le format /AAAA/MM/JJ/slug/ à tous les articles du dossier content/posts/
+  posts: /:year/:month/:day/:slug/
+  blog: /:year/:month/:day/:slug/
+
 
 ############################
 ## PAGE OPTIONS
@@ -14,7 +20,7 @@ baseURL: 'https://example.com/' # Website URL
 cascade:
   # Blog post options
   - target:
-      path: /blog/**
+      path: /{posts,blog}/**
       kind: page
     pager: true
     editable: true
@@ -34,7 +40,7 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: fr
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
@@ -80,6 +86,17 @@ related:
       weight: 70
 security:
   _merge: deep
+  exec:
+    allow:
+      - '^(dart-)?sass$'
+      - '^go$'
+      - '^git$'
+      - '^node$'
+      - '^postcss$'
+      - '^tailwindcss$'
+      - '^npx$'
+      - '^pnpm$'
+
 sitemap:
   _merge: deep
 minify:

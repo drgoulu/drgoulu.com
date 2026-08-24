@@ -1,0 +1,50 @@
+{{/* Hugo shortcode for Wikipedia links: {{< wiki "article" [lang] [text] >}} or {{< wiki "lang|article|text" >}} */}}
+{{- $lang := "fr" -}}
+{{- $article := "" -}}
+{{- $text := "" -}}
+
+{{- if .IsNamedParams -}}
+  {{- $article = .Get "article" | default (.Get "title") | default (.Get "page") -}}
+  {{- $lang = .Get "lang" | default "fr" -}}
+  {{- $text = .Get "text" | default $article -}}
+{{- else -}}
+  {{- $arg0 := .Get 0 | default "" -}}
+  {{- if strings.Contains $arg0 "|" -}}
+    {{- $parts := split $arg0 "|" -}}
+    {{- if eq (len $parts) 3 -}}
+      {{- $lang = index $parts 0 -}}
+      {{- $article = index $parts 1 -}}
+      {{- $text = index $parts 2 -}}
+    {{- else if eq (len $parts) 2 -}}
+      {{- $first := index $parts 0 -}}
+      {{- if or (eq $first "en") (eq $first "de") (eq $first "es") (eq $first "it") -}}
+        {{- $lang = $first -}}
+        {{- $article = index $parts 1 -}}
+        {{- $text = $article -}}
+      {{- else -}}
+        {{- $article = $first -}}
+        {{- $text = index $parts 1 -}}
+      {{- end -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $article = $arg0 -}}
+    {{- if ge (len .Params) 3 -}}
+      {{- $lang = .Get 1 -}}
+      {{- $text = .Get 2 -}}
+    {{- else if eq (len .Params) 2 -}}
+      {{- $arg1 := .Get 1 -}}
+      {{- if or (eq $arg1 "en") (eq $arg1 "de") (eq $arg1 "es") (eq $arg1 "it") -}}
+        {{- $lang = $arg1 -}}
+        {{- $text = $article -}}
+      {{- else -}}
+        {{- $text = $arg1 -}}
+      {{- end -}}
+    {{- else -}}
+      {{- $text = $article -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $article_clean := replace (strings.TrimSpace $article) " " "_" -}}
+{{- $url := printf "https://%s.wikipedia.org/wiki/%s" $lang $article_clean -}}
+<a href="{{ $url }}" class="wikipedia" target="_blank" rel="noopener">{{ $text }}</a>

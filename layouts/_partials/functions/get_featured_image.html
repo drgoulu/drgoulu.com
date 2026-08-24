@@ -1,0 +1,59 @@
+{{/* Function to retrieve the featured image */}}
+{{/* Inputs: page context */}}
+{{/* Output: image resource, or nil if not found */}}
+
+{{/* Search for an image "*featured*" in page folder */}}
+{{ $resource := (.Resources.ByType "image").GetMatch "*featured*" }}
+{{ if not (reflect.IsResource $resource) }}
+  {{/* Otherwise fall back to the image file specified in front matter */}}
+  {{ $image_params := partial "functions/get_page_image_params.html" . }}
+  {{ $filename := $image_params.filename | default "" }}
+  {{ if not $filename }}
+    {{ if .Params.cover }}
+      {{ if reflect.IsMap .Params.cover }}
+        {{ $filename = .Params.cover.image }}
+      {{ else }}
+        {{ $filename = .Params.cover }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ if not $filename }}
+    {{ $filename = .Params.coverImage }}
+  {{ end }}
+
+  {{ if $filename }}
+    {{ if or (strings.HasPrefix $filename "http://") (strings.HasPrefix $filename "https://") }}
+      {{ with resources.GetRemote $filename }}
+        {{ if reflect.IsResource . }}
+          {{ $resource = . }}
+        {{ end }}
+      {{ end }}
+    {{ else }}
+      {{ $clean_fn := strings.TrimPrefix "./" $filename }}
+      {{/* Search in page folder */}}
+      {{ $resource = (.Resources.ByType "image").GetMatch $clean_fn }}
+      {{/* Search in posts/<year>/images/ */}}
+      {{ if not (reflect.IsResource $resource) }}
+        {{ $post_year := .Date.Format "2006" }}
+        {{ $resource = resources.Get (path.Join "posts" $post_year "images" (path.Base $clean_fn)) }}
+        {{ if not (reflect.IsResource $resource) }}
+          {{ $resource = resources.Get (path.Join "posts" $post_year $clean_fn) }}
+        {{ end }}
+      {{ end }}
+      {{/* Search in media/ folder */}}
+      {{ if not (reflect.IsResource $resource) }}
+        {{ $resource = resources.GetMatch (path.Join "media" $clean_fn) }}
+      {{ end }}
+      {{/* Search direct path in assets */}}
+      {{ if not (reflect.IsResource $resource) }}
+        {{ $resource = resources.Get $clean_fn }}
+      {{ end }}
+      {{/* Search match across assets */}}
+      {{ if not (reflect.IsResource $resource) }}
+        {{ $resource = resources.GetMatch (printf "**/%s" (path.Base $clean_fn)) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ return $resource }}

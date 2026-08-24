@@ -1,0 +1,37 @@
+{{/* Hugo Markdown render hook for links with Wikipedia shortcut and auto-styling support */}}
+{{- $dest := .Destination -}}
+{{- $text := .Text -}}
+{{- $title := .Title -}}
+{{- $is_wiki := false -}}
+
+{{- if or (strings.HasPrefix $dest "w:") (strings.HasPrefix $dest "wiki:") -}}
+  {{- $is_wiki = true -}}
+  {{- $raw := strings.TrimPrefix "wiki:" (strings.TrimPrefix "w:" $dest) -}}
+  {{- $lang := "fr" -}}
+  {{- $article := "" -}}
+  
+  {{- if strings.Contains $raw ":" -}}
+    {{- $parts := split $raw ":" -}}
+    {{- $lang = index $parts 0 -}}
+    {{- $article = delimit (after 1 $parts) ":" -}}
+  {{- else if strings.Contains $raw "/" -}}
+    {{- $parts := split $raw "/" -}}
+    {{- $lang = index $parts 0 -}}
+    {{- $article = delimit (after 1 $parts) "/" -}}
+  {{- else if or (eq $raw "en") (eq $raw "de") (eq $raw "es") (eq $raw "it") -}}
+    {{- $lang = $raw -}}
+    {{- $article = "" -}}
+  {{- else -}}
+    {{- $article = $raw -}}
+  {{- end -}}
+
+  {{- if eq $article "" -}}
+    {{- $article = .PlainText | default $text -}}
+  {{- end -}}
+  {{- $article = replace $article " " "_" -}}
+  {{- $dest = printf "https://%s.wikipedia.org/wiki/%s" $lang $article -}}
+{{- else if in $dest "wikipedia.org" -}}
+  {{- $is_wiki = true -}}
+{{- end -}}
+
+<a href="{{ $dest | safeURL }}"{{ with $title }} title="{{ . }}"{{ end }}{{ if $is_wiki }} class="wikipedia"{{ end }}{{ if strings.HasPrefix $dest "http" }} target="_blank" rel="noopener"{{ end }}>{{ $text | safeHTML }}</a>

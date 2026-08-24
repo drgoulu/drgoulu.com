@@ -1,0 +1,6 @@
+{{/* Hugo shortcode for Altmetric badges */}}
+{{- $doi := .Get "doi" | default "" -}}
+{{- $arxiv := .Get "arxiv" | default (.Get "arxiv_id") | default "" -}}
+{{- $pmid := .Get "pmid" | default "" -}}
+{{- $float := .Get "float" | default "right" -}}
+<span class="altmetric-embed" data-badge-type="donut" data-badge-popover="right"{{ with $doi }} data-doi="{{ . }}"{{ end }}{{ with $arxiv }} data-arxiv-id="{{ . }}"{{ end }}{{ with $pmid }} data-pmid="{{ . }}"{{ end }} style="float: {{ $float }}; margin: 0 0 0.5rem 0.5rem;"></span>

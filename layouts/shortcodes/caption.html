@@ -1,0 +1,56 @@
+{{/* Hugo shortcode alias: caption */}}
+{{- $src := .Get "src" | default (.Get 0) -}}
+{{- $caption := .Get "caption" | default "" -}}
+{{- $alt := .Get "alt" | default ($caption | plainify) -}}
+{{- $link := .Get "link" | default (.Get "href") | default "" -}}
+{{- $align := .Get "align" | default (.Get "class") | default "alignright" -}}
+{{- $raw_width := .Get "width" | default "" -}}
+{{- $width_style := "" -}}
+{{- if $raw_width -}}
+  {{- if not (strings.HasSuffix $raw_width "px") -}}
+    {{- $width_style = printf "max-width: %spx; width: 100%%;" $raw_width -}}
+  {{- else -}}
+    {{- $width_style = printf "max-width: %s; width: 100%%;" $raw_width -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* Resolve image */}}
+{{- $img := "" -}}
+{{- $is_remote := strings.HasPrefix $src "http" -}}
+{{- if not $is_remote -}}
+  {{- $clean_dest := strings.TrimPrefix "./" $src -}}
+  {{- $img = (.Page.Resources.ByType "image").GetMatch $clean_dest -}}
+  {{- if not $img -}}
+    {{- $post_year := .Page.Date.Format "2006" -}}
+    {{- $img = resources.Get (path.Join "posts" $post_year $clean_dest) -}}
+  {{- end -}}
+  {{- if not $img -}}
+    {{- $img = resources.Get (path.Join "media" $clean_dest) -}}
+  {{- end -}}
+  {{- if not $img -}}
+    {{- $img = resources.Get $clean_dest -}}
+  {{- end -}}
+  {{- if not $img -}}
+    {{- $img = resources.GetMatch (printf "**/%s" (path.Base $clean_dest)) -}}
+  {{- end -}}
+{{- end -}}
+
+<figure class="{{ $align }}"{{ with $width_style }} style="{{ . | safeCSS }}"{{ end }}>
+  {{- if $link -}}<a href="{{ $link }}" target="_blank" rel="noopener">{{- end -}}
+  {{- if $img -}}
+    {{- $canProcess := and (reflect.IsImageResourceProcessable $img) (ne $img.MediaType.SubType "gif") -}}
+    {{- if not $canProcess -}}
+      <img src="{{ $img.RelPermalink }}" alt="{{ $alt }}" loading="lazy" class="rounded-lg shadow-sm w-full h-auto" />
+    {{- else -}}
+      {{- $img_md := $img.Fit "760x760 webp" -}}
+      {{- $responsive := partial "functions/process_responsive_image.html" (dict "image" $img_md "mode" "responsive") -}}
+      <img src="{{ $responsive.fallback.RelPermalink }}" srcset="{{ $responsive.srcset }}" sizes="(max-width: 640px) 100vw, {{ if $raw_width }}{{ $raw_width }}px{{ else }}760px{{ end }}" alt="{{ $alt }}" loading="lazy" class="rounded-lg shadow-sm w-full h-auto" data-zoomable />
+    {{- end -}}
+  {{- else -}}
+    <img src="{{ $src | safeURL }}" alt="{{ $alt }}" loading="lazy" class="rounded-lg shadow-sm w-full h-auto" />
+  {{- end -}}
+  {{- if $link -}}</a>{{- end -}}
+  {{- with $caption -}}
+    <figcaption>{{ . | markdownify }}</figcaption>
+  {{- end -}}
+</figure>

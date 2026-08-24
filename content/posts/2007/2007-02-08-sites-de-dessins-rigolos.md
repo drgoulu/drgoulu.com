@@ -1,0 +1,10 @@
+---
+title: "Sites de dessins rigolos"
+date: 2007-02-08
+categories: 
+  - "non-classe"
+tags: 
+  - "humour"
+---
+
+Quelques très bons dessins et presse et caricatures. Je vais en ajouter au fur et à mesure...<!--more-->
