@@ -1,5 +1,6 @@
 ---
 title: "les problèmes mathématiques difficiles"
+slug: "les-problemes-mathematiques-difficiles"
 date: 2007-04-14
 categories: 
   - "cat1"
@@ -34,7 +35,7 @@ Pour commencer, l'article présente un intéressant "arbre de la complexité" de
                         - non polynomiale : l'[arithmétique de Presburger](https://fr.wikipedia.org/wiki/arithmétique_de_Presburger)
                         - polynomiale
                             
-                            - grand degré : le [test de primalité AKS](https://fr.wikipedia.org/wiki/test_de_primalité_AKS) permet de savoir avec certitude si un nombre de n chiffres est [premier](http://drgoulu.local/2007/01/20/les-nombres-premiers/) ou pas en n^12 opérations, ce qui peut être beaucoup plus court que d'effectuer les divisions
+                            - grand degré : le [test de primalité AKS](https://fr.wikipedia.org/wiki/test_de_primalité_AKS) permet de savoir avec certitude si un nombre de n chiffres est [premier](/2007/01/20/les-nombres-premiers/) ou pas en n^12 opérations, ce qui peut être beaucoup plus court que d'effectuer les divisions
                             
                             - petit degré : tous les algorithmes "classiques", par exemple le [calcul du PGCD](https://fr.wikipedia.org/wiki/algorithme_d'Euclide)
 

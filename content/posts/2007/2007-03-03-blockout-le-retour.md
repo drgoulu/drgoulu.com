@@ -1,5 +1,6 @@
 ---
 title: "Blockout : le retour !"
+slug: "blockout-le-retour"
 date: 2007-03-03
 categories: 
   - "non-classe"

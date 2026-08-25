@@ -1,5 +1,6 @@
 ---
 title: "Supernovas à antimatière"
+slug: "supernovas-a-antimatiere"
 date: 2012-06-23
 categories: 
   - "cat1"
@@ -18,7 +19,7 @@ D'abord, l'auteur et ses collègues découvrent que des étoiles "hypermassives"
 
 Ensuite ils s'aperçoivent qu'à l'endroit où ont pété [SN2005gl](http://hubblesite.org/newscenter/archive/releases/2009/13/), [SN2006gy](http://fr.wikipedia.org/wiki/SN_2006gy) ou [SN2007bi](http://fr.wikipedia.org/wiki/SN_2007bi), il ne reste qu'un gros nuage. A la place de l'étoile, il n'y a ni trou noir, ni étoile à neutrons, ni petit bout de reste d'étoile moribonde, rien.
 
-Pour rappel, les étoiles [fusionnent des éléments légers](http://drgoulu.local/2005/12/11/la-fusion-thermonucleaire/) en commençant par l'hydrogène, et quand elles en ont trop converti en hélium elles toussent, se contractent, chauffent, et démarrent la fusion de l'hélium en carbone, puis produisent de l'oxygène. A la fin de cette phase, les petites étoiles comme le Soleil ne chauffent plus assez pour continuer et s'éteignent lentement. Celles qui font plus de 10 masses solaires continuent en fusionnant l'oxygène en silicium, puis en fer. Et la [nucléosynthèse stellaire](https://fr.wikipedia.org/wiki/nucléosynthèse stellaire) s'arrête là, car la fusion du fer ne produit pas d'énergie.  L'étoile s'effondre littéralement sur elle même en fusionnant brutalement ce qu'il lui reste d'atomes légers en une magnifique supernova, laissant sur place une boule de fer qui peut se transformer en étoile à neutrons voire en trou noir.
+Pour rappel, les étoiles [fusionnent des éléments légers](/2005/12/11/la-fusion-thermonucleaire/) en commençant par l'hydrogène, et quand elles en ont trop converti en hélium elles toussent, se contractent, chauffent, et démarrent la fusion de l'hélium en carbone, puis produisent de l'oxygène. A la fin de cette phase, les petites étoiles comme le Soleil ne chauffent plus assez pour continuer et s'éteignent lentement. Celles qui font plus de 10 masses solaires continuent en fusionnant l'oxygène en silicium, puis en fer. Et la [nucléosynthèse stellaire](https://fr.wikipedia.org/wiki/nucléosynthèse stellaire) s'arrête là, car la fusion du fer ne produit pas d'énergie.  L'étoile s'effondre littéralement sur elle même en fusionnant brutalement ce qu'il lui reste d'atomes légers en une magnifique supernova, laissant sur place une boule de fer qui peut se transformer en étoile à neutrons voire en trou noir.
 
 Une évolution différente a été calculée dans les années 1960 pour des étoiles de plus de 140 masses solaires, mais comme on pensait que ces étoiles n'existaient pas, on l'avait un peu oubliée : la [supernova par production de paires](https://fr.wikipedia.org/wiki/supernova_par_production_de_paires) [[2]](#ref-2).
 

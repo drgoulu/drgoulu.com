@@ -1,5 +1,6 @@
 ---
 title: "Les jets des trous noirs"
+slug: "le-jets-des-trous-noirs"
 date: 2008-05-03
 categories: 
   - "cat1"
@@ -11,7 +12,7 @@ tags:
 coverImage: "4154321883a70f902bb2bf7e7d604d3d.jpg"
 ---
 
-Les trous noirs sont très noirs : aucune lumière ne peut en sortir. En plus ils sont très petits, ce qui empêche définitivement de les "voir" avec un télescope. Par contre les phénomènes cataclysmiques qu'ils produisent dans leur voisinage dégagent une énergie colossale qui trahit leur présence sans doute possible. Il y a d'une part le disque d'accrétion dont j'ai déjà parlé [ici](http://drgoulu.local/2007/03/13/cest-plein-de-trous-noirs/) et [là](http://drgoulu.local/2008/04/18/ca-cest-du-trou-noir-du-vrai/), et d'autre par les "jets", que l'on est en train de comprendre un peu mieux.
+Les trous noirs sont très noirs : aucune lumière ne peut en sortir. En plus ils sont très petits, ce qui empêche définitivement de les "voir" avec un télescope. Par contre les phénomènes cataclysmiques qu'ils produisent dans leur voisinage dégagent une énergie colossale qui trahit leur présence sans doute possible. Il y a d'une part le disque d'accrétion dont j'ai déjà parlé [ici](/2007/03/13/cest-plein-de-trous-noirs/) et [là](/2008/04/18/ca-cest-du-trou-noir-du-vrai/), et d'autre par les "jets", que l'on est en train de comprendre un peu mieux.
 
 ![](images/4154321883a70f902bb2bf7e7d604d3d.jpg)
 

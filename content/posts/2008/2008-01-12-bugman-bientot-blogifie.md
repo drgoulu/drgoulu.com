@@ -1,5 +1,6 @@
 ---
 title: "Bugman blogifié"
+slug: "bugman-bientot-blogifie"
 date: 2008-01-12
 categories: 
   - "cat2"

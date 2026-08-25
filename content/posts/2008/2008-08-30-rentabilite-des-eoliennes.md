@@ -1,5 +1,6 @@
 ---
 title: "Rentabilité des éoliennes"
+slug: "rentabilite-des-eoliennes"
 date: 2008-08-30
 categories: 
   - "cat3"
@@ -18,7 +19,7 @@ Selon l'article, la [plus grande éolienne de Suisse](http://www.rhoneole.ch/ind
 
 Mais surtout, l'éolienne produira 4.4 millions de kWh par an, et en divisant 850'000 Frs par ce nombre on obtient le prix de revient du kWh produit par cette merveille technologique : **19.8 centimes\*, soit le double du prix du kWh produit par les installations hydroélectriques** et le quadruple de celui des centrales thermiques, nucléaires ou à gaz !
 
-Selon les lois du marché, cette éolienne est une aberration économique car personne de sensé n'achèterait de l'électricité à ce prix là. Mais voilà, des décisions politiques ont faussé le jeu : à coups de subventions mais surtout en obligeant les distributeurs d'électricité à [acheter l'électricité éolienne (et solaire) à prix coutant](http://drgoulu.local/2007/08/26/energie-eolienne-et-solaire-a-prix-coutant/), il devient intéressant de construire des moulins à vent parce que les clients sont obligés d'acheter !
+Selon les lois du marché, cette éolienne est une aberration économique car personne de sensé n'achèterait de l'électricité à ce prix là. Mais voilà, des décisions politiques ont faussé le jeu : à coups de subventions mais surtout en obligeant les distributeurs d'électricité à [acheter l'électricité éolienne (et solaire) à prix coutant](/2007/08/26/energie-eolienne-et-solaire-a-prix-coutant/), il devient intéressant de construire des moulins à vent parce que les clients sont obligés d'acheter !
 
 Il ne faut donc pas s'y tromper : ce qui est "particulièrement rentable", ce n'est pas l'énergie éolienne, mais bien de puiser dans le porte-monnaie du contribuable-consommateur.
 

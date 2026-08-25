@@ -1,5 +1,6 @@
 ---
 title: "Y'a-t-il des trous noirs dans la mer ?"
+slug: "ya-t-il-des-trous-noirs-dans-la-mer"
 date: 2013-10-05
 categories: 
   - "cat1"

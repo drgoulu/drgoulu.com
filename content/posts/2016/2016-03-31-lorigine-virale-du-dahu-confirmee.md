@@ -1,5 +1,6 @@
 ---
 title: "L'origine virale du dahu confirmée"
+slug: "lorigine-virale-du-dahu-confirmee"
 date: 2016-03-31
 categories: 
   - "cat1"
@@ -29,7 +30,7 @@ Des travaux récents ayant montré que la maladie de Paget est vraisemblablemen
 
 Une épidémie de rougeole cause donc une mortalité juvénile très élevée, de l'ordre de 50% dans les troupeaux, les "dahus" n'échappant à la mort que grâce à l'inclinaison de leur habitat naturel. A la fin de leur article, le Dr Ittemleilgug et ses coauteurs laissent entendre que les campagnes de vaccination intensives contre la rougeole humaine pourraient avoir contribué à la réduction du nombre de dahus observée depuis quelques décennies.
 
-Cette étude est la seconde démontrant de façon convaincante l'implication de virus dans l'apparition d'animaux mythiques. En effet, il est connu depuis plusieurs années que le [papillomavirus](https://fr.wikipedia.org/wiki/papillomavirus) peut provoquer chez les lapins la formation de tumeurs en forme de cornes qui ont très certainement donné naissance à la légende du [Jackalope](https://fr.wikipedia.org/wiki/Jackalope), comme indiqué dans [l'excellent livre](http://drgoulu.local/2016/03/28/planete-de-virus/) \[openbook booknumber="ISBN:9782701197678" templatenumber="5"\]
+Cette étude est la seconde démontrant de façon convaincante l'implication de virus dans l'apparition d'animaux mythiques. En effet, il est connu depuis plusieurs années que le [papillomavirus](https://fr.wikipedia.org/wiki/papillomavirus) peut provoquer chez les lapins la formation de tumeurs en forme de cornes qui ont très certainement donné naissance à la légende du [Jackalope](https://fr.wikipedia.org/wiki/Jackalope), comme indiqué dans [l'excellent livre](/2016/03/28/planete-de-virus/) {{< openbook booknumber="ISBN:9782701197678" templatenumber="5" >}}
 
 https://www.dailymotion.com/video/x4skm6
 

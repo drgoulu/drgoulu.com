@@ -1,5 +1,6 @@
 ---
 title: "Vista Diaboli !"
+slug: "vista-diaboli"
 date: 2007-05-13
 categories: 
   - "non-classe"

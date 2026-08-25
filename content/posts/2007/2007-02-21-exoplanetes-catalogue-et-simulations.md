@@ -1,5 +1,6 @@
 ---
 title: "Exoplanètes : Catalogue et simulations"
+slug: "exoplanetes-catalogue-et-simulations"
 date: 2007-02-21
 categories: 
   - "cat1"
@@ -21,4 +22,4 @@ J'ai écrit à l'Observatoire de Paris pour leur suggérer quelques amélioratio
 
 Mais je les ai surtout félicités ainsi :
 
-Encore bravo et merci, grâce à vous je vais passer quelques heures à chercher une destination pour mon prochain [voyage interstellaire relativiste](http://drgoulu.local/2004/08/09/acceleration/) !
+Encore bravo et merci, grâce à vous je vais passer quelques heures à chercher une destination pour mon prochain [voyage interstellaire relativiste](/2004/08/09/acceleration/) !

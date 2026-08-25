@@ -1,5 +1,6 @@
 ---
 title: "Visualisation Scientifique 2007"
+slug: "visualisation-scientifique-2007"
 date: 2007-09-28
 categories: 
   - "non-classe"

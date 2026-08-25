@@ -1,5 +1,6 @@
 ---
 title: "Les Ponts d’Umberto Guglielmetti"
+slug: "umberto-guglielmetti"
 date: 2005-07-03
 categories: 
   - "cat2"
@@ -90,8 +91,8 @@ Cet ouvrage se situe à Riddes, à mi-chemin de Martigny et de Sion. Il s'agit d
 
 #### Références :
 
-- Guglielmetti, Umberto "[Ponts sur le Rhône à Riddes, Suisse](http://drgoulu.local/wp-content/uploads/2005/07/bse-re-003_1991_64_a_005_d-1.pdf)",Bridges — Interaction between construction technology and design, IABSE Symposium, Leningrad, USSR 1991  [DOI:10.5169/seals-49266](http://dx.doi.org/10.5169/seals-49266)
-- \[openbook booknumber="ISBN:8438001483" templatenumber="5"\]  pp. 468
+- Guglielmetti, Umberto "[Ponts sur le Rhône à Riddes, Suisse](/wp-content/uploads/2005/07/bse-re-003_1991_64_a_005_d-1.pdf)",Bridges — Interaction between construction technology and design, IABSE Symposium, Leningrad, USSR 1991  [DOI:10.5169/seals-49266](http://dx.doi.org/10.5169/seals-49266)
+- {{< openbook booknumber="ISBN:8438001483" templatenumber="5" >}}  pp. 468
 - [Guide des ponts de l’EPFL](http://dgcwww.epfl.ch/guide_des_ponts/valais/riddes.htm) [(format PDF)](http://drgoulu.files.wordpress.com/2007/03/riddesepfl.pdf "fichier PDF")
 - [“Ponts de Riddes”, brochure 12 pages en couleur du service des routes nationales](http://drgoulu.files.wordpress.com/2007/03/n9riddes.pdf "“Ponts de Riddes”, brochure 12 pages en couleur du service des routes nationales")
 - [fiche entreprise Evequoz](http://www.evequoz.ch/_assets/000/050/005/686/a1734071de764362824c59995ed3a373.pdf)

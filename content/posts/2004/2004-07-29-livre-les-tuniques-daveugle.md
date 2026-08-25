@@ -1,5 +1,6 @@
 ---
 title: "Les Tuniques d’Aveugle"
+slug: "livre-les-tuniques-daveugle"
 date: 2004-07-29
 categories: 
   - "cat1"
@@ -17,4 +18,4 @@ Ce qui m’a particulièrement plu, c’est l’attention scrpuleuse portée à 
 
 Lisez ce bouquin que vous soyez croyant ou pas, vous ne verrez plus la Bible de la même façon.
 
-\[openbook booknumber="ISBN:9782729105709" templatenumber="5"\]
+{{< openbook booknumber="ISBN:9782729105709" templatenumber="5" >}}

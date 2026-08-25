@@ -1,5 +1,6 @@
 ---
 title: "Noeuds et surfaces de Seifert"
+slug: "beaux-noeuds"
 date: 2009-02-02
 categories: 
   - "cat2"
@@ -23,9 +24,9 @@ En 1934  le mathématicien allemand Herbert Seifert montra comment créer une s
 
 Pour explorer cet univers surprenant, le logiciel [SeifertView](http://www.win.tue.nl/~vanwijk/seifertview/) est très simple d'emploi et ne demande aucune installation. Il permet aussi d'explorer les [tresses](http://fr.wikipedia.org/wiki/Th%C3%A9orie_des_tresses), un domaine connexe aux noeuds.
 
-[![seifertview](images/02bbfc4f7aecd75de0e5eb7aff519210.png "seifertview")](http://drgoulu.local/wp-content/uploads/HLIC/02bbfc4f7aecd75de0e5eb7aff519210.png)
+[![seifertview](images/02bbfc4f7aecd75de0e5eb7aff519210.png "seifertview")](/wp-content/uploads/HLIC/02bbfc4f7aecd75de0e5eb7aff519210.png)
 
-Bathsheba, un sculpteur [dont j'ai déjà parlé ici](http://drgoulu.local/2007/09/19/maths-et-art/) réalise même de [magnifiques oeuvres](http://www.bathsheba.com/math/borromean/) basées sur les surfaces de Seifert
+Bathsheba, un sculpteur [dont j'ai déjà parlé ici](/2007/09/19/maths-et-art/) réalise même de [magnifiques oeuvres](http://www.bathsheba.com/math/borromean/) basées sur les surfaces de Seifert
 
 ### Référence
 

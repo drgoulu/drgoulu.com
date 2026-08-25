@@ -1,5 +1,6 @@
 ---
 title: "Jeu-concours électrique"
+slug: "jeu-concours-electrique"
 date: 2010-05-17
 categories: 
   - "cat2"
@@ -17,7 +18,7 @@ La [Fédération Française des Jeux Mathématiques](http://ffjm.org/) et la [So
 
 Il s'agit de concevoir le réseau de lignes électriques nécessaires pour alimenter les villes d'un pays à partir de centrales :
 
-{{< figure src="images/76fa5e4df5077431227511a63a9e6c9c.png" alt="Concours" caption="le pays du concours, carré malgré les apparences" link="http://drgoulu.local//HLIC/76fa5e4df5077431227511a63a9e6c9c.png" align="aligncenter" width="528" >}}
+{{< figure src="images/76fa5e4df5077431227511a63a9e6c9c.png" alt="Concours" caption="le pays du concours, carré malgré les apparences" link="images/76fa5e4df5077431227511a63a9e6c9c.png" align="aligncenter" width="528" >}}
 
 Pour ne rien arranger, les centrales sont de puissances différentes et fournissent de la THT, et les villes consomment également des puissances différentes (listées dans la [donnée complète](http://www.ffjm.org/upload/fichiers/ConcoursSCM/jeu_FFJM_SCM_RTE_2010.pdf)), mais doivent être alimentées en HT via des transformateurs à placer à volonté, mais à au moins 1km des villes et pas dans les zones protégées marquées en pointillés.
 
@@ -29,4 +30,4 @@ Le vainqueur sera celui qui proposera le réseau satisfaisant à toutes ces cont
 
 Et avant de vous lancer dans de p'tits dessins ou de gros calculs, notez encore que tout ce qui précède peut être potentiellement faux et/ou incomplet (je décline toute responsabilité etc etc). Seul le [règlement officiel](http://www.ffjm.org/upload/fichiers/ConcoursSCM/jeu_FFJM_SCM_RTE_2010.pdf) fait foi.
 
-Pour la petite histoire, j'ai trouvé ce concours sur "[Au delà des lignes](http://www.audeladeslignes.com/)", un blog intéressant découvert au moment de la rédaction de ["0.01 Ohm/km"](http://drgoulu.local/2010/03/19/0-01-ohmkm/)
+Pour la petite histoire, j'ai trouvé ce concours sur "[Au delà des lignes](http://www.audeladeslignes.com/)", un blog intéressant découvert au moment de la rédaction de ["0.01 Ohm/km"](/2010/03/19/0-01-ohmkm/)

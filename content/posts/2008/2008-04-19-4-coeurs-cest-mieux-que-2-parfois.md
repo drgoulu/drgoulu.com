@@ -1,5 +1,6 @@
 ---
 title: "4 coeurs, c'est mieux que 2. parfois."
+slug: "4-coeurs-cest-mieux-que-2-parfois"
 date: 2008-04-19
 categories: 
   - "cat2"

@@ -1,5 +1,6 @@
 ---
 title: "Hubblecast : la TV de Hubble"
+slug: "hubblecast"
 date: 2008-04-26
 categories: 
   - "cat1"
@@ -10,13 +11,13 @@ tags:
 coverImage: "2a62d67153ec2834b7d7f23250a1c260-1.jpg"
 ---
 
-![](images/13552ddc28c957a77d860d0e847fdbae.jpg)Grâce à [Miro](http://drgoulu.local/2008/03/09/le-futur-de-la-television-zattoo-miro-etc/), j'ai découvert les magnifiques "vodcasts" diffusées par l'équipe du [téléscope spatial Hubble : les Hubblecast](http://www.spacetelescope.org/videos/archive/category/hubblecast/). Présentés de manière très professionnelle et réalisée en haute définition, ce sont d'excellentes émissions de vulgarisation scientifique présentant les découvertes faites à l'aide du télescope spatial Hubble.
+![](images/13552ddc28c957a77d860d0e847fdbae.jpg)Grâce à [Miro](/2008/03/09/le-futur-de-la-television-zattoo-miro-etc/), j'ai découvert les magnifiques "vodcasts" diffusées par l'équipe du [téléscope spatial Hubble : les Hubblecast](http://www.spacetelescope.org/videos/archive/category/hubblecast/). Présentés de manière très professionnelle et réalisée en haute définition, ce sont d'excellentes émissions de vulgarisation scientifique présentant les découvertes faites à l'aide du télescope spatial Hubble.
 
 Le seul problème c'est qu'elles sont en anglais... Voici quelques éléments en français pour vous aider à choisir vos épisodes et à les comprendre :
 
 ### [Episode 16: Galaxies devenues folles!](http://www.spacetelescope.org/videos/heic0810a/)
 
-Un des grands mystères de l'astronomie est comment les galaxies croissent et évoluent. On pense que les collisions de galaxies [(dont j'ai un peu parlé](http://drgoulu.local/2008/04/25/un-festival-de-galaxies/)) sont des événements clés dans leur développement. Une étonnante collection de 59 nouvelles images de galaxies en collision a été publiée à l'occasion du 18ème anniversaire du Téléscope Spatial Hubble de la NASA/ESA. Elles nous donnent une vision unique de la façon dont les galaxies interagissent pour former de plus grandes galaxies.
+Un des grands mystères de l'astronomie est comment les galaxies croissent et évoluent. On pense que les collisions de galaxies [(dont j'ai un peu parlé](/2008/04/25/un-festival-de-galaxies/)) sont des événements clés dans leur développement. Une étonnante collection de 59 nouvelles images de galaxies en collision a été publiée à l'occasion du 18ème anniversaire du Téléscope Spatial Hubble de la NASA/ESA. Elles nous donnent une vision unique de la façon dont les galaxies interagissent pour former de plus grandes galaxies.
 
 {{< youtube id="ntYYg039qXI" >}}
 
@@ -64,7 +65,7 @@ Ces objets semblent indiquer que les galaxies les plus anciennes ont peu à peu 
 
 ### [Episode 7](http://www.spacetelescope.org/videos/heic0712a/) [: Dévoilons la Nébuleuse du Voile](http://www.spacetelescope.org/videos/heic0712a/)
 
-Le télescope spatial Hubble a découvert de magnifiques sections de la Nébuleuse du Voile (déjà mentionnée [ici](http://drgoulu.local/2007/12/13/meilleures-photos-astronomiques-2007/)), les restes dispersés d'une supernova qui a explosé il y a 5 à 10'000 ans. Ces nouvelles images montrent la magnifique et délicate structure résultant de cette explosion cosmique.
+Le télescope spatial Hubble a découvert de magnifiques sections de la Nébuleuse du Voile (déjà mentionnée [ici](/2007/12/13/meilleures-photos-astronomiques-2007/)), les restes dispersés d'une supernova qui a explosé il y a 5 à 10'000 ans. Ces nouvelles images montrent la magnifique et délicate structure résultant de cette explosion cosmique.
 
 ![](images/361af1223cb009f7b7b5685d7c1863b9.jpg)
 

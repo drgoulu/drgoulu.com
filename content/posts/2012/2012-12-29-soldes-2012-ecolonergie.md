@@ -1,5 +1,6 @@
 ---
 title: "Soldes 2012 : Ecolonergie"
+slug: "soldes-2012-ecolonergie"
 date: 2012-12-29
 categories: 
   - "cat3"
@@ -31,7 +32,7 @@ Embryon d'article motivé par la collision entre:
 
 1. cette (ancienne) figure revenue sur le devant du web :
     
-    [![](images/f76b4c9b7c2f35a7aba552db5989b104.jpg)](http://drgoulu.local/wp-content/uploads/HLIC/f76b4c9b7c2f35a7aba552db5989b104.jpg)
+    [![](images/f76b4c9b7c2f35a7aba552db5989b104.jpg)](/wp-content/uploads/HLIC/f76b4c9b7c2f35a7aba552db5989b104.jpg)
     
     cliquer pour agrandir
     
@@ -47,14 +48,14 @@ Je comprends. Je suis très triste pour les 25000 indiens d'Amazonie qui perdron
 D'abord la cohérence. On nous rabâche qu'il faut des sources d'énergie propres et durables, or l'hydroélectricité représente [85% de l'électricité renouvelable](http://fr.wikipedia.org/wiki/%C3%89nergie_renouvelable#Aper.C3.A7u_g.C3.A9n.C3.A9ral) produite dans le monde, et [90% de l'électricité brésilienne](http://fr.wikipedia.org/wiki/%C3%89nergie_hydro%C3%A9lectrique#Br.C3.A9sil). Le barrage de Belo Monte produira 38600 [GWh](http://fr.wikipedia.org/wiki/Watt-heure) par an, soit l'équivalent de [tous les barrages suisses](http://fr.wikipedia.org/wiki/%C3%89nergie_en_Suisse#Installations_hydro.C3.A9lectriques) à lui tout seul. Pour produire autant d'énergie autrement, il faudrait soit:
 
 - des centrales à charbon qui balanceraient environ 38 millions de tonnes de CO2 dans l'air chaque année (le charbon dégage environ [un kilo de CO2 par KWh](http://www.greenit.fr/article/energie/combien-de-co2-degage-un-1-kwh-electrique) produit)
-- ou environ 100 km2 de cellules photovoltaïques (j'ai compté [2000 kWh/m2/an](http://jyaindia.up.seesaa.net/image/world_global_8100.png) et 20% de [rendement](http://drgoulu.local/2010/05/09/comment-on-mesure-le-rendement-des-cellules-solaires/)), mais ça c'est la surface nette des cellules. Avec les espaces pour l'entretien des panneaux et des lignes électriques, plus les inévitables obstacles naturels sur une telle surface, on devrait approcher d'une surface comparable à celle du lac du Belo Monte, soit 440 km² (on trouve parfois mention d'une surface engloutie de 6140 km2, qui le correspond à la somme des [4 barrages projetés dans la région](http://en.wikipedia.org/wiki/Belo_Monte_Dam#Redesign) )
+- ou environ 100 km2 de cellules photovoltaïques (j'ai compté [2000 kWh/m2/an](http://jyaindia.up.seesaa.net/image/world_global_8100.png) et 20% de [rendement](/2010/05/09/comment-on-mesure-le-rendement-des-cellules-solaires/)), mais ça c'est la surface nette des cellules. Avec les espaces pour l'entretien des panneaux et des lignes électriques, plus les inévitables obstacles naturels sur une telle surface, on devrait approcher d'une surface comparable à celle du lac du Belo Monte, soit 440 km² (on trouve parfois mention d'une surface engloutie de 6140 km2, qui le correspond à la somme des [4 barrages projetés dans la région](http://en.wikipedia.org/wiki/Belo_Monte_Dam#Redesign) )
 - ou 4 réacteurs nucléaires de 1 GW, mais ça les écolos n'en veulent pas même si c'est pour sauver la forêt tropicale,
 
 A part ça, la [population du Brésil](http://fr.wikipedia.org/wiki/D%C3%A9mographie_du_Br%C3%A9sil) augmente de 1% par an, et 1% de 190 millions, ça fait presque 2 millions d'emplois à créer par an  pour maintenir le [taux de chômage actuel autour de 6%](http://www.indexmundi.com/g/g.aspx?c=br&v=74&l=fr). Ce n'est pas moi, natif d'un pays qui a aussi sacrifié de beaux paysages (alpins) et au moins [un village](http://www.rts.ch/archives/tv/information/carrefour/4453043-village-englouti.html) pour obtenir l'électricité (propre!) nécessaire à son développement qui vais dire aux brésiliens "non, ne faites surtout pas comme nous".
 
 ### C'est maintenant ! (ou pas)
 
-Je n'ai pas aimé du tout \[openbook booknumber="ISBN:9782020987684" templatenumber="5"\]  Ou plutôt j'ai été très déçu par ce pamphlet politique commis par Jean-Marc Jancovici, dont je pense toujours beaucoup de bien depuis que j'ai découvert [Manicore](http://drgoulu.local/2009/02/15/manicore/).
+Je n'ai pas aimé du tout {{< openbook booknumber="ISBN:9782020987684" templatenumber="5" >}}  Ou plutôt j'ai été très déçu par ce pamphlet politique commis par Jean-Marc Jancovici, dont je pense toujours beaucoup de bien depuis que j'ai découvert [Manicore](/2009/02/15/manicore/).
 
 Je ne dis pas qu'ils ont tort sur le diagnostic : comme eux, je suis persuadé que nous avons atteint le [pic pétrolier](http://fr.wikipedia.org/wiki/Pic_p%C3%A9trolier), et que ceci causera un profond bouleversement de nos sociétés. Comme eux, j'appelle de mes voeux une classe politique dotée de compétences scientifiques minimales. Ce qui me déçoit, c'est justement le manque de rigueur scientifique de leur bouquin : très peu de chiffres, pas de graphiques, pas de références et encore moins de formules. Pourtant il y en a une géniale, justement [découverte sur le site de Jancovici](http://www.manicore.com/documentation/serre/kaya.html) qui pourrait justement guider le politique et aussi servir de base à une excellent bouquin : [l'équation de Kaya](http://fr.wikipedia.org/wiki/%C3%89quation_de_Kaya) :
 
@@ -83,4 +84,4 @@ Il y démontre plusieurs faits qui peuvent surprendre:
 
 {{< youtube id="ezVk1ahRF78" >}}
 
-A ce propos je remarque que ni l'article "[Développement durable](http://fr.wikipedia.org/wiki/D%C3%A9veloppement_durable)" ni "[Durabilité](http://fr.wikipedia.org/wiki/Durabilit%C3%A9)" de la Wikipédia ne fassent la moindre référence à la démographie... Suis-je donc je seul à me poser [la question d'un lien](http://drgoulu.local/2009/06/06/developpement-durable-et-equation-de-kaya/) ? Il me semble que tous les modèles de société "durable" considèrent le problème dans un sens unique : puisque les ressources terrestres sont limitées, il faut limiter notre consommation totale, peu importe combien nous sommes. Pourquoi ne pas limiter plutôt notre nombre ? Car en fin de compte, c'est bien ce nombre qui risque d'être limité de force...
+A ce propos je remarque que ni l'article "[Développement durable](http://fr.wikipedia.org/wiki/D%C3%A9veloppement_durable)" ni "[Durabilité](http://fr.wikipedia.org/wiki/Durabilit%C3%A9)" de la Wikipédia ne fassent la moindre référence à la démographie... Suis-je donc je seul à me poser [la question d'un lien](/2009/06/06/developpement-durable-et-equation-de-kaya/) ? Il me semble que tous les modèles de société "durable" considèrent le problème dans un sens unique : puisque les ressources terrestres sont limitées, il faut limiter notre consommation totale, peu importe combien nous sommes. Pourquoi ne pas limiter plutôt notre nombre ? Car en fin de compte, c'est bien ce nombre qui risque d'être limité de force...

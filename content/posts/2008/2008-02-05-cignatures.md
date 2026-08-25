@@ -1,5 +1,6 @@
 ---
 title: "Cignatures"
+slug: "cignatures"
 date: 2008-02-05
 categories: 
   - "cat2"
@@ -104,6 +105,6 @@ Il y en a encore plein d'autres, mais mon préféré reste cet extraordinaire pr
 
 \[code lang="C"\]int a\[52514\],b,c=52514,d,e,f=1e4,g,h;main() {for(;b=c-=14;h=printf("%04d",e+d/f)) for(e=d%=f;g=--b\*2;d/=g)d=d\*b+f\*(h?a\[b\]:f/5),a\[b\]=d%--g;}\[/code\]
 
-Que fait-il ? Je vous défie de le deviner. [La langue au chat est ici !](http://drgoulu.local/2004/06/28/pi-en-c/)
+Que fait-il ? Je vous défie de le deviner. [La langue au chat est ici !](/2004/06/28/pi-en-c/)
 
 Une description de l'algorithme utilisé est [ici .](http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/spigot.pdf)

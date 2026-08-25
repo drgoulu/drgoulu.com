@@ -1,5 +1,6 @@
 ---
 title: "Comment trouver des nombres premiers"
+slug: "comment-produire-des-nombres-premiers"
 date: 2012-04-15
 categories: 
   - "cat2"
@@ -57,7 +58,7 @@ Il existe plusieurs autres formules fournissant des candidats premiers :
 
 on voit qu'elles sont toutes des généralisations ou cas particuliers des autres, et que les repunits y jouent un  rôle important. Les [nombres premiers de Sophie Germain](https://fr.wikipedia.org/wiki/nombres_premiers_de_Sophie_Germain) (PSG) sont des nombres p tels que 2p+1 est aussi premier ([A005384](http://oeis.org/A005384)). Ce "générateur" fournit des nombres moins grands que les autres, mais soulève plein de questions intéressantes : quelle est la longueur maximale d'une [chaîne de Cunningham](https://fr.wikipedia.org/wiki/chaîne_de_Cunningham) formée par des PSG, y'a-t-il une infinité de PSG etc. Et de plus, le [théorème de Sophie Germain](https://fr.wikipedia.org/wiki/théorème_de_Sophie_Germain) établit un lien entre le "petit " théorème de Fermat susmentionné et [le grand](https://fr.wikipedia.org/wiki/Dernier_théorème_de_Fermat) qui a obsédé les matheux jusqu'en 1994. Et comme je n'ai pas compris grand chose à sa démonstration, je suis plein d'admiration pour cette dame autodidacte qui étonna les mâlethématiciens d'il y a 200 ans.
 
-Si vous voulez vous aussi devenir célèbre, mais facilement, participez à [PrimeGrid](http://www.primegrid.com/), une application de la plateforme de calcul distribuée BOINC qui chasse les records de grands nombres premiers. Avec un peu de chance le prochain grand nombre premier sera découvert sur votre ordinateur tout en [vous chauffant pous la science](http://drgoulu.local/2007/11/17/radiateurs-a-teraflops/).
+Si vous voulez vous aussi devenir célèbre, mais facilement, participez à [PrimeGrid](http://www.primegrid.com/), une application de la plateforme de calcul distribuée BOINC qui chasse les records de grands nombres premiers. Avec un peu de chance le prochain grand nombre premier sera découvert sur votre ordinateur tout en [vous chauffant pous la science](/2007/11/17/radiateurs-a-teraflops/).
 
 ## Comment trouver des nombres premiers d'une longueur donnée
 
@@ -86,5 +87,5 @@ Notes :
 ## Pour en savoir plus
 
 1. [L'algorithme RSA](http://www.siteduzero.com/tutoriel-3-2320-l-algorithme-rsa.html?all=1) sur le Site du Zéro
-2. \[openbook booknumber="ISBN:2842450175" templatenumber="5"\]
+2. {{< openbook booknumber="ISBN:2842450175" templatenumber="5" >}}
 3. [nzmath.prime](http://tnt.math.se.tmu.ac.jp/nzmath/) : une librairie Python avec les fonctions qu'il faut

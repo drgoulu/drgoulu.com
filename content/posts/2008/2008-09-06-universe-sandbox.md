@@ -1,5 +1,6 @@
 ---
 title: "Universe Sandbox"
+slug: "universe-sandbox"
 date: 2008-09-06
 categories: 
   - "cat2"

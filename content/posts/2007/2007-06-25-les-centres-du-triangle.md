@@ -1,5 +1,6 @@
 ---
 title: "Les centres du triangle"
+slug: "les-centres-du-triangle"
 date: 2007-06-25
 categories: 
   - "non-classe"

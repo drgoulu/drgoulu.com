@@ -1,5 +1,6 @@
 ---
 title: "Soluces de Noël"
+slug: "soluces-de-noel"
 date: 2009-02-22
 categories: 
   - "cat2"
@@ -10,7 +11,7 @@ tags:
 coverImage: "a4a08144f1c5337e35f952ea5b03384f.png"
 ---
 
-Voici enfin quelques solutions aux [problèmes posés à Noël](http://drgoulu.local/2008/12/23/maths-de-noel/)
+Voici enfin quelques solutions aux [problèmes posés à Noël](/2008/12/23/maths-de-noel/)
 
 ### le jeu des nénuphars
 
@@ -27,7 +28,7 @@ Pour y arriver, si on a une grenouille sur 7, il faut s'assurer que les deux aut
 
 Le début de la partie est plus compliqué, et c'est là que tout se joue. Pour comprendre pourquoi 135, 236 et 456 sont des positions gagnantes, j'ai fait ce graphe.
 
-{{< figure src="images/a4a08144f1c5337e35f952ea5b03384f.png" alt="nenuphars2" caption="(cliquer pour agrandir)" link="http://drgoulu.local/wp-content/uploads/HLIC/a4a08144f1c5337e35f952ea5b03384f.png" align="aligncenter" width="471" >}}
+{{< figure src="images/a4a08144f1c5337e35f952ea5b03384f.png" alt="nenuphars2" caption="(cliquer pour agrandir)" link="/wp-content/uploads/HLIC/a4a08144f1c5337e35f952ea5b03384f.png" align="aligncenter" width="471" >}}
 
 On y voit:
 

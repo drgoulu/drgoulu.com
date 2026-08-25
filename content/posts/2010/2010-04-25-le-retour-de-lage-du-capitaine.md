@@ -1,5 +1,6 @@
 ---
 title: "le retour de l'âge du capitaine"
+slug: "le-retour-de-lage-du-capitaine"
 date: 2010-04-25
 categories: 
   - "cat2"

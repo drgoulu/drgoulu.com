@@ -1,5 +1,6 @@
 ---
 title: "les décorateurs, ou pourquoi j'aime toujours la programmation"
+slug: "les-decorateurs-python"
 date: 2010-12-04
 categories: 
   - "cat2"
@@ -8,6 +9,9 @@ tags:
   - "programmation"
   - "python"
 coverImage: "e9451462598a3ecd58ddabd87a766503.jpg"
+
+aliases:
+  - "/2010/12/03/les-decorateurs-python/"
 ---
 
 Je programme des ordinateurs depuis 30 ans, et tous les 5 ans environ je me demande pourquoi je continue à aimer ça. Et à chaque fois je découvre quelque chose qui provoque un "éclair haha", une de ces illuminations cérébrales où l'on entrevoit le Génie dans toute sa Pureté avant de retomber sur sa chaise motivé pour les 5 ans suivants.
@@ -30,15 +34,15 @@ Un peu avant 1995, je découvre [LabView](https://fr.wikipedia.org/wiki/LabView)
 
 Vers 2000, je constate qu'on m'avait menti : C++ est beaucoup plus qu'un C amélioré. C'est un grand festival de "haha" en quelques jours : les [références](http://en.wikipedia.org/wiki/Reference_\(C%2B%2B\)), la [const-correctness](http://en.wikipedia.org/wiki/Const-correctness), l'[héritage multiple](https://fr.wikipedia.org/wiki/héritage_multiple), la [surcharge des opérateurs](http://fr.wikipedia.org/wiki/Surcharge_des_op%C3%A9rateurs), les [exceptions](http://fr.wikibooks.org/wiki/Programmation_C%2B%2B/Exceptions) , le [RTTI](http://fr.wikipedia.org/wiki/Run-time_type_information), mais surtout la [Standard Template Library](https://fr.wikipedia.org/wiki/Standard_Template_Library) (STL). Java et .NET ont des librairies de classes et fonctions à tout faire, mais C++ a une "méta-librairie", un système qui produit du code très optimisé pour chaque opération spécifique, en utilisant notamment le concept d'[itérateur](https://fr.wikipedia.org/wiki/itérateur).
 
-En 2005, je lis \[openbook booknumber="ISBN:9780201704310" templatenumber="5"\]. Flash d'illumination : c'est génial, mais j'ai pas tout compris. Je le relis: re-flash: c'est encore plus génial que je pensais. Je le lis une troisième fois (à part "Les Robots" d'Asimov je n'ai jamais lu un livre 3 fois) : ça y'est je suis converti au "[policy based design](http://en.wikipedia.org/wiki/Policy-based_design)", une approche révolutionnaire de la programmation autorisée par une exploitation transcendantale de la combinaison C++, STL, et #macros. Les C++istes trouveront un petit [tutoriel ici](http://alp.developpez.com/tutoriels/traitspolicies/) qui les convaincra à la fois de la puissance de cette approche, et de sa lourdeur d'écriture...
+En 2005, je lis {{< openbook booknumber="ISBN:9780201704310" templatenumber="5" >}}. Flash d'illumination : c'est génial, mais j'ai pas tout compris. Je le relis: re-flash: c'est encore plus génial que je pensais. Je le lis une troisième fois (à part "Les Robots" d'Asimov je n'ai jamais lu un livre 3 fois) : ça y'est je suis converti au "[policy based design](http://en.wikipedia.org/wiki/Policy-based_design)", une approche révolutionnaire de la programmation autorisée par une exploitation transcendantale de la combinaison C++, STL, et #macros. Les C++istes trouveront un petit [tutoriel ici](http://alp.developpez.com/tutoriels/traitspolicies/) qui les convaincra à la fois de la puissance de cette approche, et de sa lourdeur d'écriture...
 
-Et nous voici donc en 2010 où, poursuivant [ma découverte de Python](http://drgoulu.local/tag/python/), je tombe sur ça:
+Et nous voici donc en 2010 où, poursuivant [ma découverte de Python](/tags/python/), je tombe sur ça:
 
 \[python\]@cache() def fib(n): if n < 2: return 1 return fib(n-1) + fib(n-2)\[/python\]
 
 Même ceux qui ne parlent pas Python reconnaîtront une fonction récursive calculant le n-ième terme de la suite de Fibonacci, mais il y a une astuce : le @cache().
 
-Ca s'appelle un "décorateur" et en l’occurrence, le @cache() ajoute un comportement de [mémoization](https://fr.wikipedia.org/wiki/mémoization) (déjà mentionné [ici](http://drgoulu.local/2008/11/22/tri/)) à la fonction : si on appelle la fonction fib pour un n déjà calculé précédemment, le @cache() va renvoyer le résultat mémorisé avec un gain de vitesse appréciable plutôt que de recalculer la fonction, et ceci sans rien changer à la fonction elle-même!
+Ca s'appelle un "décorateur" et en l’occurrence, le @cache() ajoute un comportement de [mémoization](https://fr.wikipedia.org/wiki/mémoization) (déjà mentionné [ici](/2008/11/22/tri/)) à la fonction : si on appelle la fonction fib pour un n déjà calculé précédemment, le @cache() va renvoyer le résultat mémorisé avec un gain de vitesse appréciable plutôt que de recalculer la fonction, et ceci sans rien changer à la fonction elle-même!
 
 Et bien sur, le décorateur est lui-même écrit en Python : c'est [là](http://code.activestate.com/recipes/577479-simple-caching-decorator/), et c'est une version simplifiée d'un [cache plus sophistiqué fourni](http://docs.python.org/dev/library/functools.html) avec la librairie Python. Une [librairie de décorateurs](http://wiki.python.org/moin/PythonDecoratorLibrary) très variés est en train de naître (voyez par exemple les [machines d'états](http://wiki.python.org/moin/PythonDecoratorLibrary?highlight=\(\(State+Machine+via+Decorators\)\)#StateMachineImplementaion), chers collègues...), mais il me semble que les décorateurs permettent surtout de réaliser des choses ressemblant beaucoup aux "politiques" d'Alexandrescu avec une syntaxe plus simple qu'en C++. (Pythonistes, voyez [ce tutoriel](http://progmod.org/tutoriel/8/le-pattern-decorator-en-python/))
 

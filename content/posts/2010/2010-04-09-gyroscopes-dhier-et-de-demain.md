@@ -1,5 +1,6 @@
 ---
 title: "Gyroscopes d'hier et de demain"
+slug: "gyroscopes-dhier-et-de-demain"
 date: 2010-04-09
 categories: 
   - "cat2"

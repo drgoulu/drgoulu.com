@@ -1,5 +1,6 @@
 ---
 title: "La Renaissance du temps 2/2"
+slug: "la-renaissance-du-temps-22"
 date: 2015-12-31
 categories: 
   - "cat1"
@@ -10,7 +11,7 @@ tags:
 coverImage: "7284147-L.jpg"
 ---
 
-[![](images/temps-dessin-pour-Pierre-mail.jpg)](http://thema.cafe-sciences.org/articles/category/le-temps/)Beaucoup trop longtemps après [la première partie](http://drgoulu.local/2015/01/28/la-renaissance-du-temps/) publiée lors de la [semaine thématique sur le temps](http://thema.cafe-sciences.org/articles/category/le-temps/) du Café des Sciences, voici la fin du compte rendu consacré à la seconde partie du livre "grand public" de [Lee Smolin](https://fr.wikipedia.org/wiki/Lee_Smolin) sur le temps.
+[![](images/temps-dessin-pour-Pierre-mail.jpg)](http://thema.cafe-sciences.org/articles/category/le-temps/)Beaucoup trop longtemps après [la première partie](/2015/01/28/la-renaissance-du-temps/) publiée lors de la [semaine thématique sur le temps](http://thema.cafe-sciences.org/articles/category/le-temps/) du Café des Sciences, voici la fin du compte rendu consacré à la seconde partie du livre "grand public" de [Lee Smolin](https://fr.wikipedia.org/wiki/Lee_Smolin) sur le temps.
 
 Dans cette seconde partie, Smolin plaide en faveur de la réalité du temps et présente sa propre conception du temps. Petit rappel en préambule : Smolin est un cosmologiste reconnu qui a travaillé pendant des décennies avec les plus grands sur ce sujet, donc avant de le traiter d'hurluberlu aux idées délirantes, rappelez-vous qu'il peut vous asséner des [piles d'articles](https://scholar.google.com/citations?user=-_NhnG4AAAAJ) "peer reviewed" et des tableaux noirs pleins de formules pour défendre son point de vue.
 
@@ -74,7 +75,7 @@ Représentations graphiques de la triangulation dynamique causale d'un espace �
 
 Puis [Fotini Markopoulou](https://en.wikipedia.org/wiki/Fotini_Markopoulou) a proposé la  "[graphité quantique](https://en.wikipedia.org/wiki/quantum_graphity)" (sic)  [[7]](#ref-7). D'autres  théories comme les [ensembles causaux](https://en.wikipedia.org/wiki/causal_sets) et certaines variantes de la [théorie des cordes](https://fr.wikipedia.org/wiki/théorie_des_cordes)  ramènent à la même idée.
 
-Tout comme la [gravitation quantique à boucles](https://fr.wikipedia.org/wiki/gravitation_quantique_à_boucles) dont elles sont assez proches, ces théories postulent que l'espace et le temps sont discrets à l'[échelle de Planck](https://fr.wikipedia.org/wiki/échelle_de_Planck) (idée [soutenue par d'autres considérations](http://drgoulu.local/2011/08/13/selon-newton-lunivers-serait-digital)). Smolin a besoin d'une quinzaine de pages pour décrire les propriétés du graphe défini par les "arêtes" de cette discrétisation dans ces différentes théories. Je résume ce que j'en ai retenu, en quelques lignes, avec les incohérences résultant des différences entre ces théories:
+Tout comme la [gravitation quantique à boucles](https://fr.wikipedia.org/wiki/gravitation_quantique_à_boucles) dont elles sont assez proches, ces théories postulent que l'espace et le temps sont discrets à l'[échelle de Planck](https://fr.wikipedia.org/wiki/échelle_de_Planck) (idée [soutenue par d'autres considérations](/2011/08/13/selon-newton-lunivers-serait-digital/)). Smolin a besoin d'une quinzaine de pages pour décrire les propriétés du graphe défini par les "arêtes" de cette discrétisation dans ces différentes théories. Je résume ce que j'en ai retenu, en quelques lignes, avec les incohérences résultant des différences entre ces théories:
 
 - Les particules et leurs propriétés correspondent à la configuration du graphe à très petite échelle.
 - L'ensemble du graphe forme l'état quantique de l'Univers.
@@ -124,7 +125,7 @@ Smolin examine ensuite une autre hypothèse historiquement évoquée, celle dit
 
 Dans ce chapitre, Smolin poursuit sa réflexion sur l'émergence de structures organisées, apparemment en contradiction avec le [second principe de la thermodynamique](https://fr.wikipedia.org/wiki/second_principe_de_la_thermodynamique).
 
-Il commence par remarquer que, selon le principe d'identité des indiscernables évoqué au Chapitre 10, chaque instant et chaque endroit à chaque instant est distinguable d'un autre de façon unique. Ceci implique que notre univers ne peut pas avoir de symétries exactes. Toutes les symétries postulées jusqu'ici se sont avérées approchées ou rompues (voir [mon bel article à ce sujet](http://drgoulu.local/2009/04/04/miroir)).
+Il commence par remarquer que, selon le principe d'identité des indiscernables évoqué au Chapitre 10, chaque instant et chaque endroit à chaque instant est distinguable d'un autre de façon unique. Ceci implique que notre univers ne peut pas avoir de symétries exactes. Toutes les symétries postulées jusqu'ici se sont avérées approchées ou rompues (voir [mon bel article à ce sujet](/2009/04/04/miroir/)).
 
 Pour Smolin, deux types d'univers sont théoriquement possibles:
 
@@ -181,14 +182,14 @@ Maintenant que c'est fait, je dirais que ce livre est phénoménalement intére
 
 L'objectif de terminer cet article en 2015 étant atteint, je vous donne rendez-vous pour un redémarrage de ce blog en 2016. A demain !
 
-Note\* : j'ai écrit à Smolin pour lui demander comment sa théorie traitait les phénomènes quantiques cryogéniques comme l'hélium superfluide et les [Condensat de Bose-Einstein](https://fr.wikipedia.org/wiki/Condensat_de_Bose-Einstein) qui n'ont [pas de copie "naturelle"](http://drgoulu.local/2007/05/09/plus-froid-que-lespace/) dans l'univers.
+Note\* : j'ai écrit à Smolin pour lui demander comment sa théorie traitait les phénomènes quantiques cryogéniques comme l'hélium superfluide et les [Condensat de Bose-Einstein](https://fr.wikipedia.org/wiki/Condensat_de_Bose-Einstein) qui n'ont [pas de copie "naturelle"](/2007/05/09/plus-froid-que-lespace/) dans l'univers.
 
 ### Références
 
-1. <span id="ref-1"></span>\[openbook booknumber="ISBN:9782100706679" templatenumber="5"\]
-2. <span id="ref-2"></span>\[openbook booknumber="ISBN:019510837X" templatenumber="5"\]
+1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:9782100706679" templatenumber="5" >}}
+2. <span id="ref-2"></span>{{< openbook booknumber="ISBN:019510837X" templatenumber="5" >}}
 3. <span id="ref-3"></span>G. E. Brown, C.-H. Lee, and M. Rho "[Kaon Condensation, Black Holes and Cosmological Natural Selection](http://arxiv.org/pdf/0802.2997v2.pdf)", 2008, [arxiv.org/abs/0802.2997](http://arxiv.org/abs/0802.2997)
 4. <span id="ref-4"></span>Lee Smolin, "[Precedence and freedom in quantum physics](http://arxiv.org/pdf/1205.3707v1.pdf)", 2012, [arXiv:1205.3707v1](http://arxiv.org/abs/1205.3707v1) \[quant-ph\]
-5. <span id="ref-5"></span>Albert Einstein, "Remarks to the Essays Appearing in this Collective Volume", dans \[openbook booknumber="ISBN: 9780875482866" templatenumber="5"\]
+5. <span id="ref-5"></span>Albert Einstein, "Remarks to the Essays Appearing in this Collective Volume", dans {{< openbook booknumber="ISBN:9780875482866" templatenumber="5" >}}
 6. <span id="ref-6"></span>Lee Smolin, "[A real ensemble interpretation of quantum mechanics](http://arxiv.org/pdf/1104.2822v1)", 2011, [arXiv:1104.2822](http://arxiv.org/abs/1104.2822) \[quant-ph\]
 7. <span id="ref-7"></span>Tomasz Konopka, Fotini Markopoulou, Lee Smolin "Quantum Graphity", 2006, arXiv:hep-th/0611197

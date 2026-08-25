@@ -1,5 +1,6 @@
 ---
 title: "Le cadran des trois neufs"
+slug: "le-cadran-des-trois-neufs"
 date: 2014-06-03
 categories: 
   - "cat2"
@@ -10,7 +11,7 @@ tags:
 coverImage: "horloge3x9.jpg"
 ---
 
-![horloge3x9](images/horloge3x9-294x300.jpg)_(Mises à jour du 4+5 juin: Bravo à ced, Danakh et Groug dont les commentaires m'ont convaincu que j'aurais du [réutiliser mon code](http://drgoulu.local/2012/01/18/jeu-de-lannee-2012-et-autres-cest-fini/#.U48_Evn90wA)... Je me vois contraint de mettre à jour l'article avec leurs découvertes. Et j'en profite pour tester [MathJax](http://www.mathjax.org/) pour le rendu des formules. C'est nettement plus joli qu'avant, non ?)_
+![horloge3x9](images/horloge3x9-294x300.jpg)_(Mises à jour du 4+5 juin: Bravo à ced, Danakh et Groug dont les commentaires m'ont convaincu que j'aurais du [réutiliser mon code](/2012/01/18/jeu-de-lannee-2012-et-autres-cest-fini/#.U48_Evn90wA)... Je me vois contraint de mettre à jour l'article avec leurs découvertes. Et j'en profite pour tester [MathJax](http://www.mathjax.org/) pour le rendu des formules. C'est nettement plus joli qu'avant, non ?)_
 
 Emmanuel m'a envoyé la photo ci-contre en me demandant si on peut graduer ainsi un cadran d'horloge avec d'autres chiffres que le 9.
 

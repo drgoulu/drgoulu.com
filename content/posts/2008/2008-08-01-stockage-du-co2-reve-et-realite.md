@@ -1,5 +1,6 @@
 ---
 title: "Stockage du CO2 : rêve et réalité"
+slug: "stockage-du-co2-reve-et-realite"
 date: 2008-08-01
 categories: 
   - "cat2"
@@ -13,14 +14,14 @@ coverImage: "62e61ee327a7971f7c5cbf8288aed052-1.jpg"
 
 ### Réduction du CO2 : rêve et illusion
 
-![](images/62e61ee327a7971f7c5cbf8288aed052.jpg)Le [réchauffement climatique](http://drgoulu.local/2007/05/23/faq-rechauffement-global/) est du en (très) grande partie au dégagement de CO2 du aux combustibles fossiles : pétrole (42%), gaz (18%) et, ne l'oublions pas, charbon(40%).
+![](images/62e61ee327a7971f7c5cbf8288aed052.jpg)Le [réchauffement climatique](/2007/05/23/faq-rechauffement-global/) est du en (très) grande partie au dégagement de CO2 du aux combustibles fossiles : pétrole (42%), gaz (18%) et, ne l'oublions pas, charbon(40%).
 
 Espérer résoudre ce problème en limitant la consommation de ces combustibles est illusoire:
 
-- d'une part il est trop tard : des réductions de quelques pourcent du CO2 dégagé n'auront [que des effets mineurs](http://drgoulu.local/2004/06/29/on-brulera-tout/#comment-5) vu le taux de CO2 déjà présent dans l'atmosphère.
-- d'autre part [l'augmentation de la demande](http://drgoulu.local/2008/06/12/le-dessous-des-cartes-de-lenergie/) est non seulement inévitable, mais planifié.
+- d'une part il est trop tard : des réductions de quelques pourcent du CO2 dégagé n'auront [que des effets mineurs](/2004/06/29/on-brulera-tout/#comment-5) vu le taux de CO2 déjà présent dans l'atmosphère.
+- d'autre part [l'augmentation de la demande](/2008/06/12/le-dessous-des-cartes-de-lenergie/) est non seulement inévitable, mais planifié.
 
-Si on réalise que le "pic pétrolier" que nous sommes en train de traverser signifie que seule la moitié du pétrole facile à extraire a déjà été brulé, que le "pic du gaz" n'arrivera que dans quelques décennies et celui du charbon dans un siècle et que des raisons économiques font qu' [on brulera (vraiment) tout](http://drgoulu.local/2007/05/25/on-brulera-vraiment-tout/), il faut se rendre à l'évidence : la réduction du CO2 par la réduction de la consommation est une illusion.
+Si on réalise que le "pic pétrolier" que nous sommes en train de traverser signifie que seule la moitié du pétrole facile à extraire a déjà été brulé, que le "pic du gaz" n'arrivera que dans quelques décennies et celui du charbon dans un siècle et que des raisons économiques font qu' [on brulera (vraiment) tout](/2007/05/25/on-brulera-vraiment-tout/), il faut se rendre à l'évidence : la réduction du CO2 par la réduction de la consommation est une illusion.
 
 ### Captage et stockage
 
@@ -44,7 +45,7 @@ Par contre, faciliter le travail de la nature me parait une approche intéressan
 
 ### Le Captage
 
-Une partie importante du CO2 est dégagé par de grandes installations : les centrales thermiques (34%), l'industrie lourde (25%). Et si nos véhicules fonctionnaient à l'hydrogène, le CO2 qu'elles dégagent actuellement (23%) proviendrait des [usines de production d'hydrogène à partir du gaz naturel.](http://drgoulu.local/2007/09/06/lhydrogene-energie-du-futur/)
+Une partie importante du CO2 est dégagé par de grandes installations : les centrales thermiques (34%), l'industrie lourde (25%). Et si nos véhicules fonctionnaient à l'hydrogène, le CO2 qu'elles dégagent actuellement (23%) proviendrait des [usines de production d'hydrogène à partir du gaz naturel.](/2007/09/06/lhydrogene-energie-du-futur/)
 
 C'est pourquoi des entreprises comme [Alstom](http://www.enerzine.com/14/3295+Alstom-progresse-sur-le-captage-de-CO2+.html) ont développé des technologies de captage qui sont aujourd'hui en phase d'expérimentation avant d'être disponibles industriellement autour de 2014. Il y a :
 
@@ -52,13 +53,13 @@ C'est pourquoi des entreprises comme [Alstom](http://www.enerzine.com/14/3295+Al
 2. l'"oxycombusion" consiste à bruler les combustibles dans de l'oxygène pur au lieu d'air. On obtient ainsi des gaz composés uniquement de CO2 et d'eau, et après refroidissement, du CO2 pur. Le problème est alors d'obtenir de l'oxygène aussi bon marché que pur, et il existe deux voies :
     1. avec la séparation cryogénique, on distile l'air : à -185°, l'oxygène se liquéfie et l'azote reste gazeux. Refroidir pour mieux brûler ... le procédé est gourmand en énergie...
     2. la "combustion chimique en boucle" (CLC : [Chemical Looping Combustion](https://fr.wikipedia.org/wiki/Chemical_Looping_Combustion)) est un nouveau procédé utilisant un oxyde de métal alternativement oxydé par l'air et réduit par le combustible. Etonnant est prometteur.
-3. la "précombustion" consiste à ôter le carbone des combustibles fossiles avant de bruler ce qui reste, à savoir de l'hydrogène. C'est ainsi [qu'on produit l'hydrogène à partir du gaz naturel](http://drgoulu.local/2007/09/06/lhydrogene-energie-du-futur/) actuellement, mais Alstom n'a pas l'air d'y croire comme moyen industriel de produire de l'énergie car cette approche ne s'adapte pas aux centrales existantes.
+3. la "précombustion" consiste à ôter le carbone des combustibles fossiles avant de bruler ce qui reste, à savoir de l'hydrogène. C'est ainsi [qu'on produit l'hydrogène à partir du gaz naturel](/2007/09/06/lhydrogene-energie-du-futur/) actuellement, mais Alstom n'a pas l'air d'y croire comme moyen industriel de produire de l'énergie car cette approche ne s'adapte pas aux centrales existantes.
 
 ### Le stockage
 
 Une fois capté, que faire de tout ce CO2 ? Il existe déjà plusieurs [sites de stockage dans le monde](http://www.geos.ed.ac.uk/sccs/storage/storageSites.html) et de nombreux autres sont sur le point de démarrer. Fondamentalement, il existe [4 types de stockage de CO2](http://www.geos.ed.ac.uk/sccs/storage/howstored.html)
 
-- [![](images/fa91af652c3550b150a854e5a065feec.gif)](http://www.co2capture.org.uk/)le "stockage structurel" consiste à emprisonner le CO2 gazeux dans des poches géologiques. En gros, on "gonfle des trous" avec du CO2. [Depuis peu [[2]](#ref-2)](http://tempsreel.nouvelobs.com/) par exemple, 100 tonnes de CO2 provenant d'une [usine de production d'hydrogène](http://drgoulu.local/2007/09/06/lhydrogene-energie-du-futur/) sont injectées quotidiennement à 700m de profondeur dans une couche d'argile en Allemagne. Mais il subsiste le risque qu'un défaut d'étanchéité libère le gaz dans quelques années ou quelques siècles.
+- [![](images/fa91af652c3550b150a854e5a065feec.gif)](http://www.co2capture.org.uk/)le "stockage structurel" consiste à emprisonner le CO2 gazeux dans des poches géologiques. En gros, on "gonfle des trous" avec du CO2. [Depuis peu [[2]](#ref-2)](http://tempsreel.nouvelobs.com/) par exemple, 100 tonnes de CO2 provenant d'une [usine de production d'hydrogène](/2007/09/06/lhydrogene-energie-du-futur/) sont injectées quotidiennement à 700m de profondeur dans une couche d'argile en Allemagne. Mais il subsiste le risque qu'un défaut d'étanchéité libère le gaz dans quelques années ou quelques siècles.
 - le "stockage résiduel" consiste à faire absorber le CO2 à des sols "spongieux" dans lesquels des bulles de CO2 se retrouvent emprisonnées dans des cavités minuscules. On envisage injecter ainsi du CO2 gazeux dans des gisements de pétrole épuisés, mais ça pourrait marcher aussi avec du CO2 liquide dans du sable. Ce type de stockage serait plus durable et plus sur : par analogie, il faut écraser une éponge sous l'eau plusieurs fois pour qu'elle relâche l'air qu'elle contient. Dans un monde parfait, on pourrait même optimiser l'extraction de pétrole d'un puits en y injectant le CO2 produit par le reformage sur place du pétrole en hydrogène, le tout produisant un mix d'électricité, d'hydrogène, de pétrole voire d'eau ...
     
     ![](images/0282e6fba36c0c05a7a9fa19e3506ade.jpg)

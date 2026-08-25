@@ -1,5 +1,6 @@
 ---
 title: "Combien pour ce brevet ?"
+slug: "combien-pour-ce-brevet"
 date: 2009-03-08
 categories: 
   - "cat2"
@@ -24,7 +25,7 @@ Un [brevet](https://fr.wikipedia.org/wiki/brevet) garantit à un inventeur un mo
 
 Le vaisseau spatial de Volfson satisfait assez clairement les conditions 1 et 2, mais est-il "réalisable" ? Etonnament, oui. Il faut des éléments peu abondants au Bricorama du coin tels qu'une coque supraconductrice et un réacteur nucléaire, mais la Nasa devrait être capable de construire ce bidule.
 
-Notez bien que la "réalisabilité" ne suppose pas la fonctionnalité. Le brevet décerné à Volfson ne permet pas de l'attaquer en justice si d'aventure le vaisseau que vous construisez dans votre jardin en suivant scrupuleusement ses plans ne parvient pas à [atteindre la vitesse de la lumière](http://drgoulu.local/2004/08/09/acceleration/). Par contre, si ça marche, c'est Volfson qui peut vous attaquer en justice et se prévaloir du succès de l'opération...
+Notez bien que la "réalisabilité" ne suppose pas la fonctionnalité. Le brevet décerné à Volfson ne permet pas de l'attaquer en justice si d'aventure le vaisseau que vous construisez dans votre jardin en suivant scrupuleusement ses plans ne parvient pas à [atteindre la vitesse de la lumière](/2004/08/09/acceleration/). Par contre, si ça marche, c'est Volfson qui peut vous attaquer en justice et se prévaloir du succès de l'opération...
 
 A part les frais (élevés) de dépôt du brevet, Volfson n'a donc rien à perdre en déposant son invention. Le bureau d'avocats spécialisés qui l'a aidé à le rédiger a même tout à gagner. Et le bureau des brevets ? Aurait-il eu une raison de refuser ce brevet ?
 
@@ -39,7 +40,7 @@ Examiner sérieusement un tel brevet demanderait des connaissances avancées en 
 
 Bref, un office des brevets n'a aucune raison de passer un temps couteux à examiner un brevet. La preuve extrême se trouve dans le brevet australien [2001100012](http://www.tuv.com/media/germany/50_trainingandconsulting/pdf/patente/Circular_transportation_facilitation_device.pdf) de 2001 à John Keogh un pour un "appareil circulaire facilitant le transport" ("circular transportation facilitation device") dont voici les deux figures illustrant l'invention :
 
-[![roue](images/5ebfed0852b0025bfd8bc8e2dd917008.png)](http://drgoulu.local//HLIC/5ebfed0852b0025bfd8bc8e2dd917008.png) [![chariot](images/0eb35850814fc1659bdf8acff07cabeb.png)](http://drgoulu.local//HLIC/0eb35850814fc1659bdf8acff07cabeb.png)
+[![roue](images/5ebfed0852b0025bfd8bc8e2dd917008.png)](images/5ebfed0852b0025bfd8bc8e2dd917008.png) [![chariot](images/0eb35850814fc1659bdf8acff07cabeb.png)](images/0eb35850814fc1659bdf8acff07cabeb.png)
 
 On assiste donc à un formidable boum du nombre de brevets accordés, mais est-ce réellement l'image d'un boum de l'innovation ?
 

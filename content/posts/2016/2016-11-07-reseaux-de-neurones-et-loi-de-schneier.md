@@ -1,5 +1,6 @@
 ---
 title: "Réseaux de neurones et loi de Schneier"
+slug: "reseaux-de-neurones-et-loi-de-schneier"
 date: 2016-11-07
 categories: 
   - "cat2"
@@ -25,11 +26,11 @@ Ce qui pourrait faire peur, c'est qu'aucun humain ne sait vraiment quelle métho
 
 ### La loi de Schneier
 
-[Bruce Schneier](https://fr.wikipedia.org/wiki/Bruce_Schneier) est mon gourou de sécurité informatique, et de sécurité tout court. Je suis assidument [son blog](https://www.schneier.com/blog) depuis que j'ai lu son excellent bouquin "[Liars and outliers](http://drgoulu.local/2013/08/25/liars-and-outliers/)". Et à propos de la nouvelle ci-dessus, il s'est fendu d'un tout petit article [[2]](#ref-2) pour le moins critique que je vous traduis intégralement :
+[Bruce Schneier](https://fr.wikipedia.org/wiki/Bruce_Schneier) est mon gourou de sécurité informatique, et de sécurité tout court. Je suis assidument [son blog](https://www.schneier.com/blog) depuis que j'ai lu son excellent bouquin "[Liars and outliers](/2013/08/25/liars-and-outliers/)". Et à propos de la nouvelle ci-dessus, il s'est fendu d'un tout petit article [[2]](#ref-2) pour le moins critique que je vous traduis intégralement :
 
 > Cette histoire concerne plus l'intelligence artificielle et les réseaux de neurones que la cryptographie. L'algorithme ne vaut rien mais est un parfait exemple de ce que j'ai entendu nommer "la loi de Schneier": n'importe qui peut concevoir un [chiffrement](https://fr.wikipedia.org/wiki/chiffrement) qu'il n'est pas capable de casser lui-même.
 
-Son lien vers "Schneier's Law" mène à un de ses article datant de 2011 [[3]](#ref-3), où il relève que l'origine de cette idée remonte en fait au moins jusqu'à 1864, lorsque [Charles Babbage](https://fr.wikipedia.org/wiki/Charles_Babbage) (oui, celui d'[Ada Lovelace](http://drgoulu.local/2016/06/26/la-premiere-boucle/) !) écrivit dans son autobiographie [[4]](#ref-4):
+Son lien vers "Schneier's Law" mène à un de ses article datant de 2011 [[3]](#ref-3), où il relève que l'origine de cette idée remonte en fait au moins jusqu'à 1864, lorsque [Charles Babbage](https://fr.wikipedia.org/wiki/Charles_Babbage) (oui, celui d'[Ada Lovelace](/2016/06/26/la-premiere-boucle/) !) écrivit dans son autobiographie [[4]](#ref-4):
 
 > Une des caractéristiques les plus singulières dans l'art du déchiffrage est la forte conviction de chaque personne, même si elle n'est que modérément familiarisé avec cet art, qu'elle est capable de construire un chiffrement que personne d'autre ne peut décrypter.
 

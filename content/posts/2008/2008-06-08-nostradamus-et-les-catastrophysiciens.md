@@ -1,5 +1,6 @@
 ---
 title: "Nostradamus et les Catastrophysiciens"
+slug: "nostradamus-et-les-catastrophysiciens"
 date: 2008-06-08
 categories: 
   - "cat1"
@@ -12,7 +13,7 @@ tags:
 coverImage: "8c9a7b3dd416eb7f53406a60a01c0a22.jpg"
 ---
 
-Après Superman, James Bond et Georges W. Bush, de nouveaux super-héros sont en train de [sauver le monde](http://drgoulu.local/2008/04/17/on-va-tous-mourir/) de la destruction totale par les méchants.
+Après Superman, James Bond et Georges W. Bush, de nouveaux super-héros sont en train de [sauver le monde](/2008/04/17/on-va-tous-mourir/) de la destruction totale par les méchants.
 
 N'écoutant que leur courage, les Catastrophysiciens Luis Sancho et Walter Wagner ont pointé leur [Super-Arme](http://www.donotlink.com/cjq5 "http://www.lhcdefense.org/pdf/Sancho%20v%20Doe%20-%20Complaint.pdf") contre les savants fous qui se préparent à donner la Terre à avaler au micro trou noir qu'ils vont produire avec le LHC du CERN.
 

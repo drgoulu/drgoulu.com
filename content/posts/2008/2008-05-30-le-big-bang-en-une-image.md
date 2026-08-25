@@ -1,5 +1,6 @@
 ---
 title: "Le Big Bang en une image"
+slug: "le-big-bang-en-une-image"
 date: 2008-05-30
 categories: 
   - "cat1"
@@ -25,4 +26,4 @@ Le satellite représenté à gauche, c'est [WMAP ("Wilkinson Microwave Anisotrop
 
 Cette image montre qu'il y avait déjà des grumeaux dans la purée, mais sans structure claire : le Big Bang a "pété droit", mais des phénomènes survenus immédiatement ensuite ont créé une légère anisotropie.
 
-"Comment ?", c'est l'une des questions que le LHC va contribuer à résoudre, une autre étant la raison de l'accélération de l'expension de l'univers, aussi représentée sur la première figure. WMAP et d'autres mesures montrent que de "l'énergie sombre" fait que les Galaxies se repoussent. C'est comme si [la constante de la gravitation universelle variait](http://drgoulu.local/2008/01/21/perlisismes-les-dictons-informatiques-dalan-perlis/) : l'attraction faiblit au fur et à mesure que l'Univers vieillit. Tout ça devrait être éclairci très bientôt par mes voisins, au CERN.
+"Comment ?", c'est l'une des questions que le LHC va contribuer à résoudre, une autre étant la raison de l'accélération de l'expension de l'univers, aussi représentée sur la première figure. WMAP et d'autres mesures montrent que de "l'énergie sombre" fait que les Galaxies se repoussent. C'est comme si [la constante de la gravitation universelle variait](/2008/01/21/perlisismes-les-dictons-informatiques-dalan-perlis/) : l'attraction faiblit au fur et à mesure que l'Univers vieillit. Tout ça devrait être éclairci très bientôt par mes voisins, au CERN.

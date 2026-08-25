@@ -1,5 +1,6 @@
 ---
 title: "Gouttes de sable"
+slug: "gouttes-de-sable"
 date: 2009-07-01
 categories: 
   - "cat1"
@@ -25,7 +26,7 @@ Les matériaux granulaires combinent certaines propriétés des solides et des l
 
 - ceux étudiés par [l'équipe de l'Université de Chicago](http://jfi.uchicago.edu/~jaeger/group/Granular%20Streams.html)
 - les [dunes chantantes](http://fr.wikipedia.org/wiki/Chant_des_dunes), un phénomène vraiment étonnant
-- la simulation de fluides avec des [méthodes similaires](http://drgoulu.local/2008/08/22/naissance-des-etoiles-et-mecanique-des-fluides/) aux [n-corps](http://drgoulu.local/2008/11/16/le-probleme-a-n-corps/)
+- la simulation de fluides avec des [méthodes similaires](/2008/08/22/naissance-des-etoiles-et-mecanique-des-fluides/) aux [n-corps](/2008/11/16/le-probleme-a-n-corps/)
 
 Je ne sais pas comment se termine l'histoire pour la caméra haute vitesse, mais si ça vous intéresse, le [site UltraSlo](http://www.ultraslo.com/) propose de nombreux films et le [groupe "highspeed" de flickr](http://www.flickr.com/groups/highspeed/) de magnifiques photos de phénomènes rapides.
 

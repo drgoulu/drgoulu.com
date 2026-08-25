@@ -1,5 +1,6 @@
 ---
 title: "IgNobel Award Tour Show"
+slug: "ignobel-award-tour-show"
 date: 2016-04-13
 categories: 
   - "cat1"

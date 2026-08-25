@@ -1,5 +1,6 @@
 ---
 title: "Bye bye Pour la Science :-("
+slug: "bye-bye-pour-la-science"
 date: 2016-12-12
 categories: 
   - "cat1"
@@ -24,7 +25,7 @@ Le 5 juillet, sachant que mon abonnement arrivait à échéance, j'ai tenté de 
 
 Le petit smiley clin d'oeil n'a pas aidé : je n'ai jamais reçu de réponse. Alors le 22 juillet j'ai craqué et me suis abonné quand-même, avec une adresse pourrie :![capture](images/Capture.png) et j'ai envoyé cet e-mail à l'adresse indiquée pour les "questions sur votre commande" :
 
-> Bonjour, sans nouvelles de vous suite à mon mail ci-dessous, je me suis résigné à renouveler mon abonnement germanisé. Mais si vous faites figurer "Waadt" sur l'adresse d'expédition de mon journal préféré depuis, il y a des chances non négligeables qu'un postier suisse vous le renvoie pour adresse inconnue, et votre barbarisme fera à coup sur l'objet de mon premier article négatif sur votre journal (les autres sont là : [http://drgoulu.local/tag/pour-la-science](http://drgoulu.local/tag/pour-la-science/) ) Oui c'est une menace ;-) Bon été, Franzosen.
+> Bonjour, sans nouvelles de vous suite à mon mail ci-dessous, je me suis résigné à renouveler mon abonnement germanisé. Mais si vous faites figurer "Waadt" sur l'adresse d'expédition de mon journal préféré depuis, il y a des chances non négligeables qu'un postier suisse vous le renvoie pour adresse inconnue, et votre barbarisme fera à coup sur l'objet de mon premier article négatif sur votre journal (les autres sont là : [/tags/pour-la-science](/tags/pour-la-science/) ) Oui c'est une menace ;-) Bon été, Franzosen.
 
 ![capture](images/Capture-1.png)Pas de réponse non plus... Mais bon au moins j'étais réabonné. Du moins je le croyais. Car je n'ai reçu aucun numéro !
 

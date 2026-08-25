@@ -1,5 +1,6 @@
 ---
 title: "Mes 10 livres préférés (#MyTopTenBooks)"
+slug: "mes-10-livres-preferes-mytoptenbooks"
 date: 2014-04-18
 categories: 
   - "non-classe"
@@ -30,7 +31,7 @@ Avant qu'nous nous rapportions aux bouquins du savoir, citons ici un fracass
 
 ### Les puissances de dix
 
-L'univers, c'est noir. C'est ce que j'ai découvert grâce à ce livre de photographies et de dessins tirés d'un [film génial](http://drgoulu.local/2008/05/16/les-puissances-de-dix/). Il n'y a qu'à notre échelle que la réalité semble quelque peu "solide". Le cosmos est grand, très très grand, mais il y a aussi [plein de place en bas](http://drgoulu.local/2009/06/11/il-y-a-plein-de-place-en-bas-2/).
+L'univers, c'est noir. C'est ce que j'ai découvert grâce à ce livre de photographies et de dessins tirés d'un [film génial](/2008/05/16/les-puissances-de-dix/). Il n'y a qu'à notre échelle que la réalité semble quelque peu "solide". Le cosmos est grand, très très grand, mais il y a aussi [plein de place en bas](/2009/06/11/il-y-a-plein-de-place-en-bas-2/).
 
 ### Astronomie Populaire
 
@@ -56,7 +57,7 @@ Est-ce un livre scientifique ou un roman ? Je dirais les deux à la fois. Donc j
 
 ### Comment construire une machine à explorer le temps
 
-Ce livre étonnant est l'un de ceux que j'apprécie pour le vertige qu'il provoque en ouvrant à la science des horizons (potentiels) que l'on croit du domaine de la science-fiction. La [machine esquissée](http://drgoulu.local/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/) par [Paul Davies](https://fr.wikipedia.org/wiki/Paul_Davies_(physicien)) n'existera probablement jamais, du moins pas avant quelques millénaires, mais ce livre est un must pour ceux que [le temps](http://drgoulu.local/tag/temps/) intéresse.
+Ce livre étonnant est l'un de ceux que j'apprécie pour le vertige qu'il provoque en ouvrant à la science des horizons (potentiels) que l'on croit du domaine de la science-fiction. La [machine esquissée](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/) par [Paul Davies](https://fr.wikipedia.org/wiki/Paul_Davies_(physicien)) n'existera probablement jamais, du moins pas avant quelques millénaires, mais ce livre est un must pour ceux que [le temps](/tags/temps/) intéresse.
 
 ### Les Robots
 
@@ -68,13 +69,13 @@ Une BD relativiste, fantastique transposition de la guerre du Vietnam vécue par
 
 ### Toutes les références:
 
-1. \[openbook booknumber="ISBN:9782020238113" templatenumber="5"\]
-2. \[openbook booknumber="ISBN:9782070715237" templatenumber="5"\]
-3. \[openbook booknumber="ISBN:9782020059244" templatenumber="5"\]
-4. \[openbook booknumber="ISBN:9782842450045" templatenumber="5"\]
-5. \[openbook booknumber="ISBN:9782080110411" templatenumber="5"\]
-6. \[openbook booknumber="ISBN:9782100054350" templatenumber="5"\]
-7. \[openbook booknumber="ISBN:9782213026763" templatenumber="5"\]
-8. \[openbook booknumber="ISBN:978-2-86883-941-1" templatenumber="5"\]
-9. \[openbook booknumber="ISBN:9782290004531" templatenumber="5"\]
-10. \[openbook booknumber="ISBN:9782505007425" templatenumber="5"\]
+1. {{< openbook booknumber="ISBN:9782020238113" templatenumber="5" >}}
+2. {{< openbook booknumber="ISBN:9782070715237" templatenumber="5" >}}
+3. {{< openbook booknumber="ISBN:9782020059244" templatenumber="5" >}}
+4. {{< openbook booknumber="ISBN:9782842450045" templatenumber="5" >}}
+5. {{< openbook booknumber="ISBN:9782080110411" templatenumber="5" >}}
+6. {{< openbook booknumber="ISBN:9782100054350" templatenumber="5" >}}
+7. {{< openbook booknumber="ISBN:9782213026763" templatenumber="5" >}}
+8. {{< openbook booknumber="ISBN:978-2-86883-941-1" templatenumber="5" >}}
+9. {{< openbook booknumber="ISBN:9782290004531" templatenumber="5" >}}
+10. {{< openbook booknumber="ISBN:9782505007425" templatenumber="5" >}}

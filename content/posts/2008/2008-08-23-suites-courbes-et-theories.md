@@ -1,5 +1,6 @@
 ---
 title: "Suites, Courbes et Théories"
+slug: "suites-courbes-et-theories"
 date: 2008-08-23
 categories: 
   - "cat1"
@@ -51,6 +52,6 @@ Le seul moyen de les distinguer, c'est sur les résultats qu'elles **prédisent*
 
 En reprenant les théories de tout ci-dessus, certaines jouent le jeu scientifique et sont prêtes à être validées ou invalidées prochainement au CERN ou ailleurs. Celles qui postulent un avant-Big Bang ou des univers parallèles sont invérifiables à très long terme, voire définitivement. D'autres nécessitent l'expérience de la mort pour une ultime vérification, mais au moins on saura (ou pas...).
 
-Mais la palme de la démarche anti scientifique revient probablement plus aux [catastrophysiciens](http://drgoulu.local/2008/06/08/nostradamus-et-les-catastrophysiciens/) qu'aux cré(a)ti(on)nistes : en gros ils exigent de ne surtout pas faire d'expérience qui leur donnerait raison, car elle provoquerait une catastrophe définitive. Et évidemment, ils ne proposent pas d'autre expérience permettant de valider leur théorie sans danger. Ca c'est du courage.
+Mais la palme de la démarche anti scientifique revient probablement plus aux [catastrophysiciens](/2008/06/08/nostradamus-et-les-catastrophysiciens/) qu'aux cré(a)ti(on)nistes : en gros ils exigent de ne surtout pas faire d'expérience qui leur donnerait raison, car elle provoquerait une catastrophe définitive. Et évidemment, ils ne proposent pas d'autre expérience permettant de valider leur théorie sans danger. Ca c'est du courage.
 
 \*Note : il y a plusieurs manières de faire. On peut faire un "checksum" genre CRC-32 du compte rendu de leurs expériences, ou faire un très grand nombre binaire en mettant toutes les informations à la suite etc.

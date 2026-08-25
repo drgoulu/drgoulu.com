@@ -1,5 +1,6 @@
 ---
 title: "les Nombres Premiers"
+slug: "les-nombres-premiers"
 date: 2007-01-20
 categories: 
   - "cat1"
@@ -43,13 +44,13 @@ En 1878, [Edouard Lucas](http://fr.wikipedia.org/wiki/%C3%89douard_Lucas) énon�
 
 les nombres premiers suivants furent découvert dès 1952 avec des ordinateurs.
 
-Actuellement, le plus grand nombre premier connu est 232'582'657\-1. Il fait 9'808'358 décimales et à été découvert en septembre 2006 par le projet [GIMPS](http://www.gimps.org), dont je reparle dans un [article sur le calcul distribué](http://drgoulu.local/2007/01/20/calcul-distribue-avec-boinc/).
+Actuellement, le plus grand nombre premier connu est 232'582'657\-1. Il fait 9'808'358 décimales et à été découvert en septembre 2006 par le projet [GIMPS](http://www.gimps.org), dont je reparle dans un [article sur le calcul distribué](/2007/01/20/calcul-distribue-avec-boinc/).
 
 ### Nombres premiers jumeaux
 
 En examinant la différence entre des nombres premiers consécutifs, on s'aperçoit qu'elle vaut plus souvent 2 que toute autre valeur. Il existe donc des nombres premiers "jumeaux" : 5-7, 11-13, 17-19 par exemple, mais on en connait de beaucoup plus grands. En fait on pense qu'il existe une infinité de telles paires. Comment les trouver ? Par exemple en cherchant "autour" des nombres de Mersenne !
 
-Le 15 janvier 2007, des nombres premiers jumeaux de 58'711 décimales ont été [trouvés](http://www.futura-sciences.com/fr/news/t/recherche/d/record-deux-nouveaux-nombres-premiers-jumeaux-decouverts_10230/), également en utilisant le [calcul distribué](http://drgoulu.local/2007/01/20/calcul-distribue-avec-boinc/). Ce sont 2'003'663'613 × 2195'000±1
+Le 15 janvier 2007, des nombres premiers jumeaux de 58'711 décimales ont été [trouvés](http://www.futura-sciences.com/fr/news/t/recherche/d/record-deux-nouveaux-nombres-premiers-jumeaux-decouverts_10230/), également en utilisant le [calcul distribué](/2007/01/20/calcul-distribue-avec-boinc/). Ce sont 2'003'663'613 × 2195'000±1
 
 #### Curiosités
 
@@ -63,11 +64,11 @@ A sa grande surprise il a vu apparaitre des "lignes" obliques qui correspondent 
 
 En généralisant, on peut colorier les cases de la spirale d’Ulam avec une couleur représentant le nombre de facteurs premiers de chaque case. Mais ma représentation préférée est celle-ci, dans laquelle le nombre de facteurs définit le rayon de petites boules centrées à chaque case :
 
-[![Spirale d’Ulam](images/389c66e7ddab342c9a24fd6e80fd3c65.jpg)](http://drgoulu.local/wp-content/uploads/HLIC/389c66e7ddab342c9a24fd6e80fd3c65.jpg "Spirale d’Ulam")
+[![Spirale d’Ulam](images/389c66e7ddab342c9a24fd6e80fd3c65.jpg)](/wp-content/uploads/HLIC/389c66e7ddab342c9a24fd6e80fd3c65.jpg "Spirale d’Ulam")
 
 Un copain métaphysique m’a sommé de mentionner aussi la "Croix de Plichta", mais il s’agit AMHA d’une justification un peu simpliste de la théorie ésotérique un peu planante de monsieur Plichta...
 
-[![](images/7471c1315ba788e7570017ab328aa010.png)](http://drgoulu.local/wp-content/uploads/HLIC/7471c1315ba788e7570017ab328aa010.png "Croix de Plichta")
+[![](images/7471c1315ba788e7570017ab328aa010.png)](/wp-content/uploads/HLIC/7471c1315ba788e7570017ab328aa010.png "Croix de Plichta")
 
 Pourquoi simpliste :
 
@@ -80,6 +81,6 @@ Bref, ne pas se laisser impressionner par une quelconque régularité apparente 
 #### Références
 
 1. <span id="ref-1"></span>[Wikipedia](http://fr.wikipedia.org/wiki/Nombre_premier)
-2. <span id="ref-2"></span>\[openbook booknumber="ISBN:978-2842450175" templatenumber="5"\]
+2. <span id="ref-2"></span>{{< openbook booknumber="ISBN:978-2842450175" templatenumber="5" >}}
 3. <span id="ref-3"></span>articles de Jean-Paul Delahaye dans [Pour la Science](http://www.goulu.net/wordpress/pour-la-science)
 4. <span id="ref-4"></span>[Feuille Maple sur les repunits](http://www.lifl.fr/~wegrzyno/BizPrem.html)

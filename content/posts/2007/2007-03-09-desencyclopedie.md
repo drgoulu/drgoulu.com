@@ -1,5 +1,6 @@
 ---
 title: "Désencyclopédie"
+slug: "desencyclopedie"
 date: 2007-03-09
 categories: 
   - "non-classe"

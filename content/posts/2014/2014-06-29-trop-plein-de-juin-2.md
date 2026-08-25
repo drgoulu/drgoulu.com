@@ -1,5 +1,6 @@
 ---
 title: "Trop-plein de Juin"
+slug: "trop-plein-de-juin-2"
 date: 2014-06-29
 categories: 
   - "cat2"
@@ -18,7 +19,7 @@ Celui-là je l'ai fini, mais [sur Kidi'Science "pour les enfants"](http://kidisc
 
 ### Foundations of Ultraprecision Mechanisms Design
 
-Retrouvé avec délice une authentique bible de la microtechnique de précision : \[openbook booknumber="ISBN:2884490019" templatenumber="5"\]
+Retrouvé avec délice une authentique bible de la microtechnique de précision : {{< openbook booknumber="ISBN:2884490019" templatenumber="5" >}}
 
 Le chapitre le plus intéressant est le huitième, consacré à la [sélection des matériaux](https://en.wikipedia.org/wiki/Material_selection). On y montre que les caractéristiques habituelles des matériaux (densité, module d'élasticité, conduction thermique etc.) interviennent rarement seules lorsqu'on cherche un matériau adapté à la construction d'un système pointu. Beaucoup plus souvent on a besoin d'un compromis entre plusieurs de ces caractéristiques que l'on peut représenter dans un "diagramme d'[Ashby](https://fr.wikipedia.org/wiki/Michel_Ashby)" comme celui ci-dessous:
 
@@ -46,7 +47,7 @@ mais ensuite elle n'arrive pas à calculer le sinus de ça \*pi.
 
 Le seul outil que j'utilise (pas assez apparemment) qui m'ait donné la "bonne" valeur est [Wolfram Alpha](http://www.wolframalpha.com/input/?i=sin%28%28sqrt%282%29%2B1%29%5E200*pi%29) (donc Mathematica doit probablement s'en sortir aussi):
 
-[![2014-06-29\_225820](images/2014-06-29_225820.png)](http://drgoulu.local/wp-content/uploads/2014/06/2014-06-29_225820.png)
+[![2014-06-29\_225820](images/2014-06-29_225820.png)](/wp-content/uploads/2014/06/2014-06-29_225820.png)
 
 ### Requins-baleines, touristes et Rolex awards
 

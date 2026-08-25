@@ -1,5 +1,6 @@
 ---
 title: "Terrorisme"
+slug: "terrorisme"
 date: 2006-01-06
 categories: 
   - "cat2"
@@ -41,8 +42,8 @@ Un attentat sucide marque beaucoup plus les esprits qu'un attentat "normal" fais
 
 #### Références
 
-1. <span id="ref-1"></span>\[openbook booknumber="ISBN:2268044998" templatenumber="5"\]
-2. <span id="ref-2"></span>\[openbook booknumber="OLID:OL5375786M" templatenumber="5"\]
+1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:2268044998" templatenumber="5" >}}
+2. <span id="ref-2"></span>{{< openbook booknumber="OLID:OL5375786M" templatenumber="5" >}}
 3. <span id="ref-3"></span>[http://www.preventionsuicide.be/zfdcnet/textefdc/attentat.htm](http://www.preventionsuicide.be/zfdcnet/textefdc/attentat.htm)
 4. <span id="ref-4"></span>[Site israelien de statistiques de l'Intifada](http://www.ict.org.il/Articles/tabid/66/Articlsid/443/Default.aspx) retrouvé le 5/5/2013
 5. <span id="ref-5"></span>[Statistiques de B'Tselem](http://www.btselem.org/english/statistics/Casualties.asp) trouvé le 16/2/2008

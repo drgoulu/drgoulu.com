@@ -1,5 +1,6 @@
 ---
 title: "Echange 200 ans de vie contre un iPhone"
+slug: "echange-200-ans-de-vie-contre-un-iphone"
 date: 2008-09-27
 categories: 
   - "cat3"

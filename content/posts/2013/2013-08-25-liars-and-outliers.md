@@ -1,5 +1,6 @@
 ---
 title: "Liars and outliers"
+slug: "liars-and-outliers"
 date: 2013-08-25
 categories: 
   - "cat2"
@@ -32,4 +33,4 @@ Enfin, Schneier traite de la confiance et de la sécurité dans un monde évolua
 
 Ce livre n'est hélas pas (encore) traduit en français, mais ses 248 pages se lisent facilement, "comme un roman". Il y a aussi 100 pages de Notes avec de nombreuses références, citations et anecdotes qui satisferont le chercheur et montrent le sérieux avec lequel Schneier s'est documenté sur ce vaste et passionnant sujet.
 
-Référence : \[openbook booknumber="ISBN:111814330" templatenumber="5"\] ([page du livre sur le site de Schenier](http://www.schneier.com/book-lo.html))
+Référence : {{< openbook booknumber="ISBN:111814330" templatenumber="5" >}} ([page du livre sur le site de Schenier](http://www.schneier.com/book-lo.html))

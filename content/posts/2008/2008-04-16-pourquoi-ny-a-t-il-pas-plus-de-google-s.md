@@ -1,5 +1,6 @@
 ---
 title: "Pourquoi n'y a-t-il pas plus de Google s ?"
+slug: "pourquoi-ny-a-t-il-pas-plus-de-google-s"
 date: 2008-04-16
 categories: 
   - "cat3"
@@ -26,4 +27,4 @@ Paul Graham répond à ceci dans ["Why There Aren't More Googles"](http://www.pa
 
 Graham se livre ensuite à une attaque en règle du business actuel du capital-risque, montrant que leur objectif de maximiser rendement/risque les conduit à prendre le contrôle, puis à vendre une entreprise réellement innovante plutôt que de financer sa croissance sous la direction de ses fondateurs visionnaires. Graham y voit cependant une opportunité pour une nouvelle espèce d'investisseurs, un genre de super business angels qui partageraient la vision des fondateurs, mais avec des moyens leur permettant d'assurer le développement de l'entrprise, et pas seulement son lancement.
 
-Référence : \[openbook booknumber="ISBN:9782841878857" templatenumber="5"\]
+Référence : {{< openbook booknumber="ISBN:9782841878857" templatenumber="5" >}}

@@ -1,5 +1,6 @@
 ---
 title: "La mathématique du Chat"
+slug: "la-mathematique-du-chat"
 date: 2017-01-20
 categories: 
   - "cat1"
@@ -33,7 +34,7 @@ Mais l'objectif affiché de l'auteur est plutôt de transmettre ce que sont les
 
 ### Référence:
 
-1. \[openbook booknumber="ISBN:9782206013534" templatenumber="5"\]
+1. {{< openbook booknumber="ISBN:9782206013534" templatenumber="5" >}}
 
 ### Notes :
 

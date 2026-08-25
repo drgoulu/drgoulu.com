@@ -1,5 +1,6 @@
 ---
 title: "Superordinateurs de table"
+slug: "superordinateurs-de-table"
 date: 2009-03-13
 categories: 
   - "cat2"
@@ -62,7 +63,7 @@ Les logiciels scientifiques usuels commencent à tirer parti de ces librairies d
 
 Et bien d'autres applications spécifiques comme:
 
-- [OpenMM](https://simtk.org/home/openmm), une librairie de [simulation moléculaire](http://drgoulu.local/2008/05/21/si-on-jouait-a-plier-des-proteines/) utilisée dans les [clients haute performance](http://folding.stanford.edu/English/DownloadWinOther) de [Folding@home](http://folding.stanford.edu/French/Main) qui accélère les calculs jusqu'à 700x par rapport à un processeur normal.
+- [OpenMM](https://simtk.org/home/openmm), une librairie de [simulation moléculaire](/2008/05/21/si-on-jouait-a-plier-des-proteines/) utilisée dans les [clients haute performance](http://folding.stanford.edu/English/DownloadWinOther) de [Folding@home](http://folding.stanford.edu/French/Main) qui accélère les calculs jusqu'à 700x par rapport à un processeur normal.
 - Différents solveurs en [mécanique des fluides](http://www.nvidia.com/object/cuda_home_new.html).
 - Des logiciels de [traitement du signal ou d'image](http://www.nvidia.com/object/cuda_home_new.html), appliqués à l'imagerie médicale ou au marché de la sécurité. Même l'encodage de films peut désormais profiter de la puissance des GPU : [Badaboom](http://www.nvidia.fr/object/badaboom_fr.html), écrit spécialement pour GPU va extrêmement vite mais le résultat est d'une qualité inférieure à celui de  [TMPGEnc,](http://tmpgenc.pegasys-inc.com/en/product/te4xp.html#tabs) qui va de 2 à 5 fois plus vite lorsque Cuda est activé.
 
@@ -71,6 +72,6 @@ Quel que soit votre utilisation de l'ordinateur, souvenez-vous de faire bien att
 ### Liens:
 
 1. [Geeks3d.com](http://www.geeks3d.com/) le site de référence de mon gourou sur ce sujet, JegX
-2. [La montée en puissance des GPUs](http://drgoulu.local/2007/11/02/la-montee-en-puissance-des-gpus/)
-3. [Loi de Moore toujours](http://drgoulu.local/2008/06/19/moore-toujours/)
+2. [La montée en puissance des GPUs](/2007/11/02/la-montee-en-puissance-des-gpus/)
+3. [Loi de Moore toujours](/2008/06/19/moore-toujours/)
 4. Damien Triolet, "[Nvidia CUDA : aperçu](http://www.hardware.fr/articles/659-1/nvidia-cuda-apercu.html)", sur hardware.fr 2 Mars 2007

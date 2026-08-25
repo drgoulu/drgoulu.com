@@ -1,5 +1,6 @@
 ---
 title: "Le roadster Tesla disponible en Europe"
+slug: "le-roadster-tesla-disponible-en-europe"
 date: 2008-05-06
 categories: 
   - "cat3"
@@ -13,7 +14,7 @@ tags:
 coverImage: "55c1b94ac77688257c532bc578a2b1d1.jpg"
 ---
 
-La voiture de sport électrique américaine "Tesla" dont j'ai déjà causé [ici](http://drgoulu.local/2006/08/24/voitures-de-sport-electriques/) va prochainement être [disponible en Europe](http://www.teslamotors.com/eu/). Ce n'était apparemment pas prévu, mais Tesla Motors a soudain décidé de réserver 250 exemplaires à ce côté ci de l'Atlantique. Le prix de €99'000, à comparer aux $109'000 que coute la machine aux USA, explique peut-être le soudain intérêt de Tesla pour l'exportation...
+La voiture de sport électrique américaine "Tesla" dont j'ai déjà causé [ici](/2006/08/24/voitures-de-sport-electriques/) va prochainement être [disponible en Europe](http://www.teslamotors.com/eu/). Ce n'était apparemment pas prévu, mais Tesla Motors a soudain décidé de réserver 250 exemplaires à ce côté ci de l'Atlantique. Le prix de €99'000, à comparer aux $109'000 que coute la machine aux USA, explique peut-être le soudain intérêt de Tesla pour l'exportation...
 
 {{< youtube id="MQg1KUHqyZE" >}}
 

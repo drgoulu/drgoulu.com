@@ -1,5 +1,6 @@
 ---
 title: "Les géniales pendules de Marcel Bétrisey"
+slug: "les-geniales-pendules-de-marcel-betrisey"
 date: 2011-09-20
 categories: 
   - "cat2"
@@ -13,7 +14,7 @@ Cette histoire a commencé par le "buzz" de la montre qui n'avance jamais:
 
 ![](images/d8fcc71af87afbb19c7cd4fe6014f659.jpg)
 
-Le nom de l'inventeur de ce magnifique [chindogu](http://drgoulu.local/2009/12/24/initiation-au-chindogu/) ayant été perdu, j'ai utilisé [TinEye](http://tineye.com) pour retrouver l'auteur des photos originales, et c'est ainsi que j'ai découvert [Marcel Bétrisey](http://www.betrisey.ch/), mais surtout que sa "[montre valaisanne](http://www.betrisey.ch/lagreu.html)" n'est de loin pas son oeuvre la plus magistrale.
+Le nom de l'inventeur de ce magnifique [chindogu](/2009/12/24/initiation-au-chindogu/) ayant été perdu, j'ai utilisé [TinEye](http://tineye.com) pour retrouver l'auteur des photos originales, et c'est ainsi que j'ai découvert [Marcel Bétrisey](http://www.betrisey.ch/), mais surtout que sa "[montre valaisanne](http://www.betrisey.ch/lagreu.html)" n'est de loin pas son oeuvre la plus magistrale.
 
 Et après quelques contacts à distance, j'ai eu hier la chance de le rencontrer dans son atelier, où il nous a présenté ses extraordinaires pendules lors de la traditionnelle excursion du [Microclub](http://microclub.ch) du "[Lundi du Jeûne](http://fr.wikipedia.org/wiki/Je%C3%BBne_f%C3%A9d%C3%A9ral)". Pour les autres, le reportage que TF1 lui a consacré permet de se faire une idée de l'étendue des compétences que Marcel met en oeuvre dans ses créations, la modestie n'étant pas la dernière:
 

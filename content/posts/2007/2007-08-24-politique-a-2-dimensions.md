@@ -1,5 +1,6 @@
 ---
 title: "Politique à 2 dimensions"
+slug: "politique-a-2-dimensions"
 date: 2007-08-24
 categories: 
   - "cat3"
@@ -12,11 +13,11 @@ tags:
 
 De plus en plus de tests en ligne permettent de se situer sur l' "échiquier politique", voire de trouver les candidats à une élection dont les idées sont les plus proches des siennes, comme [smartvote.ch](http://www.smartvote.ch) pour les prochaines élections fédérales Suisses.
 
-Le mot important pour "[penser différemment](http://drgoulu.local/2009/03/07/pourquoi-comment-combien/)" c'est "échiquier" : ces outils représentent dorénavant la position des forces politiques sur un plan avec 2 axes X et Y, et plus vraiment dans la représentation traditionnelle linéaire droite/gauche.
+Le mot important pour "[penser différemment](/2009/03/06/pourquoi-comment-combien/)" c'est "échiquier" : ces outils représentent dorénavant la position des forces politiques sur un plan avec 2 axes X et Y, et plus vraiment dans la représentation traditionnelle linéaire droite/gauche.
 
 <!--more-->
 
-|   - [![](images/8f427bc7a54a4b8a53ad3950160ad05f.jpg)](http://www.okcupid.com/politics)[Le test politique d' okcupid](http://www.okcupid.com/politics) dont j'avais déjà parlé [ici](http://drgoulu.local/2007/01/16/test-politique/) distingue :     - X : la permissivité sociale     - Y : la permissivité économiquela vision américaine de ce plan est représentée ci-contre : grosso-modo la gauche traditionnelle est en bas à droite et la droite est en haut à gauche ...   |
+|   - [![](images/8f427bc7a54a4b8a53ad3950160ad05f.jpg)](http://www.okcupid.com/politics)[Le test politique d' okcupid](http://www.okcupid.com/politics) dont j'avais déjà parlé [ici](/2007/01/16/test-politique/) distingue :     - X : la permissivité sociale     - Y : la permissivité économiquela vision américaine de ce plan est représentée ci-contre : grosso-modo la gauche traditionnelle est en bas à droite et la droite est en haut à gauche ...   |
 | --- |
 |   - [![](images/246c3283cb22f90a69e26c56f2c1089b.gif)](http://www.politicalcompass.org/test)sur [politicalcompass.org](http://www.politicalcompass.org/test),     - l'axe gauche/droite est conservé en X     - l'axe Y va de "libertaire" en bas à "autoritaire" en haut   |
 |  |

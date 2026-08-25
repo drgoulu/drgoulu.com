@@ -1,5 +1,6 @@
 ---
 title: "Blog Bids, cuisine et StarWars"
+slug: "blog-bids-cuisine-et-starwars"
 date: 2007-04-30
 categories: 
   - "non-classe"

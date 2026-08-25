@@ -1,5 +1,6 @@
 ---
 title: "Les GapCasts : géniales vidéos sur les statistiques mondiales"
+slug: "les-gapcasts-geniales-videos-sur-les-statistiques-mondiales"
 date: 2008-03-07
 categories: 
   - "cat3"
@@ -15,7 +16,7 @@ coverImage: "b7c1f41a7b7703f80ef0f9d3f31b60ac.jpg"
 
 {{< figure src="images/b7c1f41a7b7703f80ef0f9d3f31b60ac.jpg" alt="Arab World Institute par Gwenaël Piaser" caption="&quot;Arab World Institute&quot; par Gwenaël Piaser" link="http://flickr.com/photos/22841923@N02/6121425910" align="alignright" width="333" >}}
 
-Après la magnifique présentation sur "[Les mythes sur le Tiers Monde](http://drgoulu.local/2007/08/21/les-mythes-sur-le-tiers-monde/)", Hans Rosling du "[GapMinder](http://drgoulu.local/2007/07/08/gapminderorg/)" propose régulièrement de nouvelles vidéos passionnantes sur l'analyse de statistiques mondiales : les [GapCasts](http://www.gapminder.org/videos/).
+Après la magnifique présentation sur "[Les mythes sur le Tiers Monde](/2007/08/21/les-mythes-sur-le-tiers-monde/)", Hans Rosling du "[GapMinder](/2007/07/08/gapminderorg/)" propose régulièrement de nouvelles vidéos passionnantes sur l'analyse de statistiques mondiales : les [GapCasts](http://www.gapminder.org/videos/).
 
 Comme on les [trouve aussi sur YouTube](http://www.youtube.com/results?search_query=gapcast&search_type=) je ne fais ici que de traduire la description des 10 premières, en vous encourageant vivement à les voir. Rosling parle un anglais "européen" très simple et avec ses graphiques extrêmement clairs, vous pourrez les comprendre et les apprécier même si vous n'avez que des notions d'anglais
 

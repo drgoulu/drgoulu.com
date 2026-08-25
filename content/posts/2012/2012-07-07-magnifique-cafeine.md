@@ -1,5 +1,6 @@
 ---
 title: "Magnifique caféine"
+slug: "magnifique-cafeine"
 date: 2012-07-07
 categories: 
   - "cat1"
@@ -11,7 +12,7 @@ tags:
 coverImage: "5c837c6405891a43753218d4613a49ec.png"
 ---
 
-_(article repris dans \[openbook booknumber="ISBN:978-2-89544-454-1" templatenumber="5"\])_
+_(article repris dans {{< openbook booknumber="ISBN:978-2-89544-454-1" templatenumber="5" >}})_
 
 Caféine, je t'aime. Comme l'a dit [Alfred Rényi](https://fr.wikipedia.org/wiki/Alfred_Rényi) (et pas [Paul Erdös](https://fr.wikipedia.org/wiki/Paul_Erdös)), tu es une matière première des mathématiques :
 

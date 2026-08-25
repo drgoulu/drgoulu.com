@@ -1,5 +1,6 @@
 ---
 title: "Melissa et les Captchas"
+slug: "melissa-et-les-captchas"
 date: 2007-11-09
 categories: 
   - "cat2"
@@ -8,7 +9,7 @@ tags:
 coverImage: "troyano-sexy.jpg"
 ---
 
-[Il y a peu](http://drgoulu.local/2007/10/16/recaptcha-quand-linternet-utilise-les-cerveaux-humains/) je vous expliquais ce qu'étais un captcha et comment certains avaient eu l'idée constructive d'utiliser les facultés de reconnaissance de caractères uniques du cerveau humain pour digitaliser des documents du passé.
+[Il y a peu](/2007/10/16/recaptcha-quand-linternet-utilise-les-cerveaux-humains/) je vous expliquais ce qu'étais un captcha et comment certains avaient eu l'idée constructive d'utiliser les facultés de reconnaissance de caractères uniques du cerveau humain pour digitaliser des documents du passé.
 
 Mais la créativité malice humaine est décidément sans limite. De joyeux pirates ont eu une remarquable idée pour contourner les captchas, et de ce fait continuer à générer automatiquement et en très grand nombre des adresses email du genre me28345@hotmail.com à partir desquelles, tout aussi automatiquement, ils inondent le monde de spams. ![](images/troyano-sexy.jpg)Ils ont pondu un petit jeu ou une jolie nana vous propose de se déshabiller image par image si vous résolvez un captcha ! Donc les pirates vous mettent à contribution (petits voyeurs) pour les aider à contourner une mesure très efficace.
 

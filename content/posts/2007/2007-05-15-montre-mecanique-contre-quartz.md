@@ -1,5 +1,6 @@
 ---
 title: "Montre Mécanique contre Quartz"
+slug: "montre-mecanique-contre-quartz"
 date: 2007-05-15
 categories: 
   - "cat3"

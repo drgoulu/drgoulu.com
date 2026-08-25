@@ -1,5 +1,6 @@
 ---
 title: "Pentominos"
+slug: "pentominos"
 date: 2005-09-04
 categories: 
   - "non-classe"

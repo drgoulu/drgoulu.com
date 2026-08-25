@@ -1,5 +1,6 @@
 ---
 title: "La Recherche en Simulation Physique"
+slug: "la-recherche-en-simulation-physique"
 date: 2007-12-10
 categories: 
   - "cat2"
@@ -17,7 +18,7 @@ Une de ses spécialités est l'interaction de solides, de fluides et de gaz, com
 
 {{< youtube id="KkEP_HA4X3Y" >}}
 
-Il y a également plusieurs exemples spectaculaires de [mécanique des fluides](http://drgoulu.local/2007/08/22/progres-en-mecanique-des-fluides/), comme le phare :
+Il y a également plusieurs exemples spectaculaires de [mécanique des fluides](/2007/08/22/progres-en-mecanique-des-fluides/), comme le phare :
 
 {{< youtube id="g2lsuk4rybY" >}}
 

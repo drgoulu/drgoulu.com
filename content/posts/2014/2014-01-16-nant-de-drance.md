@@ -1,5 +1,6 @@
 ---
 title: "Nant de Drance"
+slug: "nant-de-drance"
 date: 2014-01-16
 categories: 
   - "cat2"
@@ -16,7 +17,7 @@ J'ai eu la chance de visiter récemment le chantier d'un très gros projet hydro
 
 D'abord, un [tunnelier](http://fr.wikipedia.org/wiki/Tunnelier) de Ø 9.47m a percé un tunnel de 5.6 km depuis la vallée, en montant selon une pente de 12% jusqu'à l'emplacement de la future centrale, 400m sous terre, ou plutôt sous roche, entre les deux barrages. Bientôt, une des plus grande cavernes artificielles du monde (190 x 40 x 54 m = 410'000 m³) accueillera 6 [turbines Francis](http://fr.wikipedia.org/wiki/Turbine_Francis) réversibles de 150 MW chacune pour faire du [pompage-turbinage](http://fr.wikipedia.org/wiki/Pompage-turbinage) en exploitant la différence d'altitude entre les deux lacs artificiels:
 
-{{< figure src="images/e3042d9548fcac6a982fe946df4065f7.png" alt="Coupe schématique de l'installation. Cliquer pour la vue en plan \[2\]" caption="Coupe schématique de l'installation. Cliquer pour la vue en plan \[2\]" link="http://drgoulu.local//HLIC/b0765aea3424c967af063565ea6b226b.jpg" align="aligncenter" width="600" >}}
+{{< figure src="images/e3042d9548fcac6a982fe946df4065f7.png" alt="Coupe schématique de l'installation. Cliquer pour la vue en plan \[2\]" caption="Coupe schématique de l'installation. Cliquer pour la vue en plan \[2\]" link="images/b0765aea3424c967af063565ea6b226b.jpg" align="aligncenter" width="600" >}}
 
 La caverne est pratiquement terminée. Elle a été creusée de haut en bas : d'abord la voûte a été entièrement creusée et bétonnée, puis le sol a été dynamité couche par couche. En fait on n'utilise plus les bons vieux bâtons de dynamite, mais une pâte presque liquide produite en mélangeant deux composants stockés séparément juste avant de les injecter dans les trous de mine avec un bête tuyau. Puis on recouvre la zone avec un tapis formé de déchets de pneus attachés les uns aux autres pour empêcher les projections de cailloux. Et on fait péter ça sans prévenir, en faisant littéralement léviter le groupe de visiteurs qui se trouve à l'autre bout de la caverne ! J'ai vécu quelques explosions mémorables, de ma période "chimie amusante" à celle dans l'artillerie helvétique, mais cette détonation dans cette caverne, c'est l'apothéose !
 
@@ -30,13 +31,13 @@ Deux autres réalisations extraordinaires sont les deux puits verticaux de Ø 8
 
 Enfin, une plateforme du diamètre final est progressivement descendue. je n'ai pas très bien compris comment elle fragmente la roche sous elle, mais en tout cas elle fait également tomber le matériel dans le trou déjà existant, et les ouvriers travaillant sur la plate-forme peuvent bétonner les flancs du puits au cours de la descente. Et c'est là une autre de mes surprises : pas besoin de chemiser ces conduites d'acier, le béton suffit car la roche est très compacte, et une pression d'une quarantaine de bars n'est pas si énorme à l'intérieur d'une montagne.
 
-[![2014-01-16\_231548](images/2014-01-16_231548.png)](http://drgoulu.local/wp-content/uploads/2014/01/2014-01-16_231548.png)D'autres exploits techniques ont été réalisés dans ce chantier, comme la dépose des prises d'eau au fond du lac d'Emosson \[4, 5\]. Une autre est la surélévation du barrage du Vieux Emosson de 20m pour augmenter le volume du lac, qui correspond à de l'[énergie stockée](http://drgoulu.local/2012/10/07/comment-stocker-lenergie/), de 11.2 millions de m³ à 24.6 millions de m³. Ce qui est étonnant, c'est qu'on transforme un barrage "poids-voûte" de 1955 en barrage "voûte" de 2014, nettement plus élevé , sans avoir besoin de renforcer la base, comme on le voit sur la figure ci-contre \[6\]
+[![2014-01-16\_231548](images/2014-01-16_231548.png)](/wp-content/uploads/2014/01/2014-01-16_231548.png)D'autres exploits techniques ont été réalisés dans ce chantier, comme la dépose des prises d'eau au fond du lac d'Emosson \[4, 5\]. Une autre est la surélévation du barrage du Vieux Emosson de 20m pour augmenter le volume du lac, qui correspond à de l'[énergie stockée](/2012/10/06/comment-stocker-lenergie/), de 11.2 millions de m³ à 24.6 millions de m³. Ce qui est étonnant, c'est qu'on transforme un barrage "poids-voûte" de 1955 en barrage "voûte" de 2014, nettement plus élevé , sans avoir besoin de renforcer la base, comme on le voit sur la figure ci-contre \[6\]
 
 {{< figure src="images/7bc01c93e39347b84d8fba97e05e06da.jpg" alt="Chantier du Nouveau Vieux Emosson (Photo Goulu sur Flickr)" caption="Chantier du Nouveau Vieux Emosson (Photo Goulu sur Flickr)" link="http://www.flickr.com/photos/goulu/11866673415/" align="alignleft" width="240" >}}
 
 Cette partie du chantier était stoppée pour l'hiver mais néanmoins spectaculaire, avec ses énormes blocs de béton (non armé, le fer ne sert à rien dans un barrage) et la grue, capable de soulever 11 tonnes au bout de sa flèche de 80 m.
 
-Une fois tout ceci terminé, Nant de Drance pourra absorber 900 MW de [puissance produite au mauvais moment](http://drgoulu.local/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/) par des centaines d'éoliennes et la restituer quand vous en aurez besoin. Quand vous allumez la lumière, ayez une petite pensée pour ces centaines de mineurs et ouvriers qui travaillent dans l'ombre, les gaz et la poussière pour que clic! ça marche ... Et si vous passez dans la région, venez admirer ces réalisations, la vue sur le Mont-Blanc et les [traces de dinosaures](http://fr.wikipedia.org/wiki/%C3%89mosson#Traces_de_dinosaures_d.27.C3.89mosson). Un tel triopack, c'est rare !
+Une fois tout ceci terminé, Nant de Drance pourra absorber 900 MW de [puissance produite au mauvais moment](/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/) par des centaines d'éoliennes et la restituer quand vous en aurez besoin. Quand vous allumez la lumière, ayez une petite pensée pour ces centaines de mineurs et ouvriers qui travaillent dans l'ombre, les gaz et la poussière pour que clic! ça marche ... Et si vous passez dans la région, venez admirer ces réalisations, la vue sur le Mont-Blanc et les [traces de dinosaures](http://fr.wikipedia.org/wiki/%C3%89mosson#Traces_de_dinosaures_d.27.C3.89mosson). Un tel triopack, c'est rare !
 
 Merci à Philippe, Jacky et Kari d'avoir rendu cette visite possible et mémorable.
 

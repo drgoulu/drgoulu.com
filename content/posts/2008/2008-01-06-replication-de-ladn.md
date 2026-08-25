@@ -1,5 +1,6 @@
 ---
 title: "Réplication de l'ADN"
+slug: "replication-de-ladn"
 date: 2008-01-06
 categories: 
   - "cat2"

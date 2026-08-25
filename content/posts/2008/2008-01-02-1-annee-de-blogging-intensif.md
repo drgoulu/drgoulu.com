@@ -1,5 +1,6 @@
 ---
 title: "1 année de blogging &quot;intensif&quot;"
+slug: "1-annee-de-blogging-intensif"
 date: 2008-01-02
 categories: 
   - "cat3"
@@ -16,16 +17,16 @@ Il y a environ 1 an que je me suis mis à blogguer régulièrement, après avoir
     ![stats2007.png](images/d4d9ab4517296bb4b903025384896cfd.png)
     
     Les articles les plus consultés sont :
-    1. [Ceci n'est pas un corps de femme ...](http://drgoulu.local/2007/04/29/ceci-nest-pas-un-corps-de-femme/) a intéressé 1116 voyeurs
-    2. 942 lecteurs ont consulté [La prolifération nucléaire est-elle évitable ?](http://drgoulu.local/2007/09/21/la-proliferation-nucleaire-est-elle-evitable-2/)
-    3. 756 ont voulu savoir [Comment faire 4 triangles équilatéraux avec 6 allumettes ?](http://drgoulu.local/2007/01/26/comment-faire-4-triangles-equilateraux-avec-6-allumettes/)
-    4. 703 étaient intéressés par [Les roues du TGV](http://drgoulu.local/2007/04/03/les-roues-du-tgv/)
-    5. 554 ont admiré l'[Illusion pour Yeux Bridés](http://drgoulu.local/2007/06/27/illusion-pour-yeux-brides/)
-    6. 450 ont lu mon analyse [Montre Mécanique contre Quartz](http://drgoulu.local/2007/05/15/montre-mecanique-contre-quartz/)
-    7. 430 sont intéressés par le [Calcul d’un ressort spiral d'horlogerie](http://drgoulu.local/2005/12/12/calcul-dun-ressort-spiral-dhorlogerie/)
-    8. 393 voulurent connaitre des [Sites de dessins rigolos](http://drgoulu.local/2007/02/08/sites-de-dessins-rigolos/)
-    9. 306 ont parcouru le [Chapitre 4 : Algorithmes et complexité](http://drgoulu.local/2006/10/18/chapitre-4-algorithmes-et-complexite/) de mon (futur...) bouquin
-    10. et 294 ont lu [le temps, une 4ème dimension imaginaire](http://drgoulu.local/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
+    1. [Ceci n'est pas un corps de femme ...](/2007/04/29/ceci-nest-pas-un-corps-de-femme/) a intéressé 1116 voyeurs
+    2. 942 lecteurs ont consulté [La prolifération nucléaire est-elle évitable ?](/2007/09/21/la-proliferation-nucleaire-est-elle-evitable-2/)
+    3. 756 ont voulu savoir [Comment faire 4 triangles équilatéraux avec 6 allumettes ?](/2007/01/26/comment-faire-4-triangles-equilateraux-avec-6-allumettes/)
+    4. 703 étaient intéressés par [Les roues du TGV](/2007/04/03/les-roues-du-tgv/)
+    5. 554 ont admiré l'[Illusion pour Yeux Bridés](/2007/06/27/illusion-pour-yeux-brides/)
+    6. 450 ont lu mon analyse [Montre Mécanique contre Quartz](/2007/05/15/montre-mecanique-contre-quartz/)
+    7. 430 sont intéressés par le [Calcul d’un ressort spiral d'horlogerie](/2005/12/12/calcul-dun-ressort-spiral-dhorlogerie/)
+    8. 393 voulurent connaitre des [Sites de dessins rigolos](/2007/02/08/sites-de-dessins-rigolos/)
+    9. 306 ont parcouru le [Chapitre 4 : Algorithmes et complexité](/2006/10/18/chapitre-4-algorithmes-et-complexite/) de mon (futur...) bouquin
+    10. et 294 ont lu [le temps, une 4ème dimension imaginaire](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
 - [Foilers](http://foils.wordpress.com/)!, mon blog consacré à la vitesse à la voile a été consulté 26'000 fois, soit plus que Dr. Goulu, et la progression des visites est régulière.
     1. 1464 personnes ont heurté [Le mur des 50 noeuds](http://foils.wordpress.com/2007/03/09/le-mur-des-50-noeuds/)
     2. 1078 ont fait des bulles avec [La Cavitation](http://foils.wordpress.com/2007/03/10/cavitation/)

@@ -1,5 +1,6 @@
 ---
 title: "la Résurrection du Jeu de la Vie"
+slug: "la-resurrection-du-jeu-de-la-vie"
 date: 2009-03-29
 categories: 
   - "cat2"

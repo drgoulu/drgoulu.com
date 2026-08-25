@@ -1,5 +1,6 @@
 ---
 title: "Nombres Univers"
+slug: "nombres-univers"
 date: 2010-06-04
 categories: 
   - "cat1"
@@ -12,7 +13,7 @@ coverImage: "828a5513059659ba55bc1f73c1eb542b-1.gif"
 
 ![](images/828a5513059659ba55bc1f73c1eb542b.gif)Pi est un [nombre irrationnel](https://fr.wikipedia.org/wiki/nombre_irrationnel) (il est même "[transcendant](https://fr.wikipedia.org/wiki/nombre_transcendant)") : comme il ne peut pas s'écrire sous forme d'une fraction, ses décimales ne "cyclent" jamais commes celles de 22/7 = 3.142857 142857 142857 ... par exemple, et il y en a une infinité, donc a priori une infinité de séquences de décimales toutes différentes.
 
-Pas étonnant donc qu'on puisse facilement [trouver sa date de naissance dans les décimales de Pi](http://drgoulu.local/2008/01/17/pi-search/), mais est-on sur de trouver n'importe quelle séquence (finie) de chiffres dans les décimales de Pi, par exemple un million de chiffres 5 consécutifs, ou l'oeuvre complète de Shakespeare traduite en chiffres ? Pour ça, il faudrait que pi soit un "[nombre univers](https://fr.wikipedia.org/wiki/nombre_univers)". Et n'en déplaise à [certains](http://omnilogie.fr/O/Ne_calculez_pas_pi_en_binaire_!), on n'en sait rien pour l'instant\*, et il en va de même pour e, $latex \\sqrt{2}$, ln(2) et tous les nombres irrationnels usuels, et ce non seulement en base 10 mais dans n'importe quelle base [[1]](#ref-1).
+Pas étonnant donc qu'on puisse facilement [trouver sa date de naissance dans les décimales de Pi](/2008/01/17/pi-search/), mais est-on sur de trouver n'importe quelle séquence (finie) de chiffres dans les décimales de Pi, par exemple un million de chiffres 5 consécutifs, ou l'oeuvre complète de Shakespeare traduite en chiffres ? Pour ça, il faudrait que pi soit un "[nombre univers](https://fr.wikipedia.org/wiki/nombre_univers)". Et n'en déplaise à [certains](http://omnilogie.fr/O/Ne_calculez_pas_pi_en_binaire_!), on n'en sait rien pour l'instant\*, et il en va de même pour e, $latex \\sqrt{2}$, ln(2) et tous les nombres irrationnels usuels, et ce non seulement en base 10 mais dans n'importe quelle base [[1]](#ref-1).
 
 Par contre il existe une infinité de nombres univers, on sait les fabriquer, et c'est même très facile. Exemple: la [constante de Champernowne](https://fr.wikipedia.org/wiki/constante_de_Champernowne). On la forme en concaténant simplement les entiers croissants dans les décimales :
 
@@ -35,7 +36,7 @@ On voit qu'on ne gagne que quelques pourcents de décimales. Mais on peut aller 
 
 ## Les séquences de De Bruijn
 
-{{< figure src="images/88eb6be30fefb30da8faea1b72e11f69.png" alt="Une tresse de De Bruijn" caption="Une tresse de De Bruijn" link="http://drgoulu.local//HLIC/88eb6be30fefb30da8faea1b72e11f69.png" align="alignright" width="140" >}}
+{{< figure src="images/88eb6be30fefb30da8faea1b72e11f69.png" alt="Une tresse de De Bruijn" caption="Une tresse de De Bruijn" link="images/88eb6be30fefb30da8faea1b72e11f69.png" align="alignright" width="140" >}}
 
 Mais d'abord, est-ce bien malin de fabriquer un nombre univers compact en concaténant des entiers consécutifs ? Peut-on fabriquer une séquence contenant chaque nombre de n décimales et qui soit nettement plus compacte que l'énumération ? [Jean-Paul Alllouche](https://fr.wikipedia.org/wiki/Jean-Paul_Alllouche) m'a gentiment indiqué qu'une [suite de de Bruijn](https://fr.wikipedia.org/wiki/suite_de_de_Bruijn) (SDB) fait exactement ça, et même très bien puisque chaque nombre de n chiffres en base b n'est présent qu'une seule fois dans la séquence B(b,n). La [page Wikipédia sur les SDB (en anglais)](https://en.wikipedia.org/wiki/De_Bruijn_sequence) pointe sur un site étonnant : le "[Combinatorial Object Server](http://theory.cs.uvic.ca/cos.html)" qui comporte entre autres outils un [générateur de SDB](http://theory.cs.uvic.ca/gen/neck.html) permettant de générer très rapidement par exemple :
 
@@ -65,7 +66,7 @@ U=0,3 141 592 653 589 793 238 462 643 383 279 502 884 197 169 399 375 105 820 97
 
 Ben oui, comme les SDB sont cycliques, je pourrais m'arroger le droit de commencer la séquence là où commence l'infinité de décimales de Pi, par pur esprit de provocation...
 
-Mais on n'a pas le droit de faire tout ça; manipuler les infinis mathématiques nécessite des précautions dont je suis incapable. Je vais donc me contenter d'un nombre "presque" univers, tout comme l'Univers astronomique est peut-être infini, mais dont seul un volume fini nous est accessible : B(10,1'000'000). Dans ce [très très grand nombre](http://drgoulu.local/2008/11/04/tres-tres-tres-grands-nombres/), il y a une seule fois le nombre formé d'un million de chiffres 5, et l'oeuvre complète de Shakespeare s'y trouve aussi, ainsi que tous les autres livres édités et pas encore écrits, ainsi que toutes les autres informations accumulées par l'humanité puisqu'elles sont en [nombre largement inférieur quoique colossal](http://drgoulu.local/2008/04/10/le-big-bang-numerique/). De plus, comme chaque bloc d'un million de décimales de pi, de e et des autres transcendants y figure aussi, j'ai cette fois rigoureusement le droit de commencer la séquence par le premier million de décimales de pi. J'y tiens ;-)
+Mais on n'a pas le droit de faire tout ça; manipuler les infinis mathématiques nécessite des précautions dont je suis incapable. Je vais donc me contenter d'un nombre "presque" univers, tout comme l'Univers astronomique est peut-être infini, mais dont seul un volume fini nous est accessible : B(10,1'000'000). Dans ce [très très grand nombre](/2008/11/04/tres-tres-tres-grands-nombres/), il y a une seule fois le nombre formé d'un million de chiffres 5, et l'oeuvre complète de Shakespeare s'y trouve aussi, ainsi que tous les autres livres édités et pas encore écrits, ainsi que toutes les autres informations accumulées par l'humanité puisqu'elles sont en [nombre largement inférieur quoique colossal](/2008/04/10/le-big-bang-numerique/). De plus, comme chaque bloc d'un million de décimales de pi, de e et des autres transcendants y figure aussi, j'ai cette fois rigoureusement le droit de commencer la séquence par le premier million de décimales de pi. J'y tiens ;-)
 
 Note\* : en fait c'est fortement suspecté et Bailey et Crandall ont proposé en 2001 une démonstration de la normalité en base 2 de pi, e et d'autres "constantes fondamentales" basée sur une conjecture qu'il reste à prouver. [[1]](#ref-1)
 

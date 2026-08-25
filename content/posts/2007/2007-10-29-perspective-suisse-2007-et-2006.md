@@ -1,5 +1,6 @@
 ---
 title: "Perspective Suisse 2007 (et 2006)"
+slug: "perspective-suisse-2007-et-2006"
 date: 2007-10-29
 categories: 
   - "non-classe"

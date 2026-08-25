@@ -1,5 +1,6 @@
 ---
 title: "“Jet-Man” et YouTube"
+slug: "jet-man-et-youtube"
 date: 2007-01-07
 categories: 
   - "cat2"

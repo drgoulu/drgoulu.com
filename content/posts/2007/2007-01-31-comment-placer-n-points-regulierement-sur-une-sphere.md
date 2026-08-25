@@ -1,5 +1,6 @@
 ---
 title: "comment placer N points “régulièrement” sur une sphère ?"
+slug: "comment-placer-n-points-regulierement-sur-une-sphere"
 date: 2007-01-31
 categories: 
   - "cat2"
@@ -13,7 +14,7 @@ Cette question est cruciale pour la conception de balles de golf, mais aussi pou
 
 D'abord, il faut définir ce qu'on appelle "régulièrement". Plusieurs définitions sont possibles, chacune correspondant à un problème et à des méthodes distinctes pour le résoudre :
 
-- le "**covering**" consiste à recouvrir complètement la sphère par des disques de même rayon, appelé "rayon de couverture" ("covering radius" en anglais). Les disques sont donc forcés de se recouvrir partiellement. Mathématiquement on "minimise la distance maximale 'd' de tout point de la sphère à son voisin le plus proche". _(définition corrigée grâce à [Anton Sherwood](http://drgoulu.local/2007/01/31/comment-placer-n-points-regulierement-sur-une-sphere/#comment-179) )_
+- le "**covering**" consiste à recouvrir complètement la sphère par des disques de même rayon, appelé "rayon de couverture" ("covering radius" en anglais). Les disques sont donc forcés de se recouvrir partiellement. Mathématiquement on "minimise la distance maximale 'd' de tout point de la sphère à son voisin le plus proche". _(définition corrigée grâce à [Anton Sherwood](/2007/01/31/comment-placer-n-points-regulierement-sur-une-sphere/#comment-179) )_
 - le "**packing**" est une petite nuance consistant à "maximiser la distance minimale entre les points". Autrement dit, l'optimum est atteint lorsqu'on ne peut plus écarter les deux points les plus proches car l'un se rapprocherait davantage d'un troisième point.
 - le "**convex hull**" consiste à maximiser le volume du solide convexe défini par les N sommets
 - la "**minimisation de l'énergie potentielle**" consiste à minimiser la somme de l'énergie qui serait accumulée dans des ressorts liant chaque paire de points. Les ressorts peuvent être soit linéaire (d'ordre 1), soit quadratiques (ordre 2) ce qui correspond au cas de la **répulsion électrostatique** de points supposés chargés électriquement.

@@ -1,5 +1,6 @@
 ---
 title: "Video Feedback Fractals"
+slug: "video-feedback-fractals"
 date: 2008-01-12
 categories: 
   - "cat2"

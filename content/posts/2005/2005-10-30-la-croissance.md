@@ -1,5 +1,6 @@
 ---
 title: "La Croissance"
+slug: "la-croissance"
 date: 2005-10-30
 categories: 
   - "non-classe"

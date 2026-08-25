@@ -1,5 +1,6 @@
 ---
 title: "Un vent de haute technologie"
+slug: "un-vent-de-haute-technologie"
 date: 2010-01-27
 categories: 
   - "cat2"
@@ -18,9 +19,9 @@ Quand on s'intéresse à plein de choses, il arrive parfois qu'apparaisse soudai
 
 Malgré de regrettables rebondissements judiciaires sans fin, la [Coupe de l'America](http://www.tribormat.fr/) qui va se disputer prochainement à Valencia reste la "formule 1" de la voile, où des budgets énormes permettent le développement de technologies de pointe. A ce titre, l'appareil que BMW Oracle prévoit embarquer\* est proprement stupéfiant : le "[Racer's Edge](http://www.catchthewindinc.com/racers-edge)" de la startup Catch The Wind Inc. permet de mesurer la vitesse et la direction du vent jusqu'à 1000 m de distance ! La précision annoncée (2° en direction et 0.5 nœuds en vitesse) donnerait un net avantage stratégique à Oracle. On peut donc s'attendre à ce qu'Alinghi tente par tout les moyens (légaux\*...) d'empêcher son utilisation en course.
 
-Reste que la technologie existe, et vise aussi d'autres applications. Catch The Wind Inc. propose le "[Vindicator](http://www.catchthewindinc.com/products/vindicator)" pour le marché des [éoliennes](http://drgoulu.local/tag/eolienne/) : en mesurant la vitesse du vent 300m avant l'hélice, il permet d'anticiper ses variations, et d'agir sur l'incidence des pales pour extraire plus d'énergie des rafales ou éviter un ralentissement de l'hélice dans une dévente et ainsi rapprocher le rendement de la [limite de Betz](http://fr.wikipedia.org/wiki/Limite_de_Betz).
+Reste que la technologie existe, et vise aussi d'autres applications. Catch The Wind Inc. propose le "[Vindicator](http://www.catchthewindinc.com/products/vindicator)" pour le marché des [éoliennes](/tags/eolienne/) : en mesurant la vitesse du vent 300m avant l'hélice, il permet d'anticiper ses variations, et d'agir sur l'incidence des pales pour extraire plus d'énergie des rafales ou éviter un ralentissement de l'hélice dans une dévente et ainsi rapprocher le rendement de la [limite de Betz](http://fr.wikipedia.org/wiki/Limite_de_Betz).
 
-Ces appareils sont basés sur la "[vélocimétrie laser](http://fr.wikipedia.org/wiki/V%C3%A9locim%C3%A9trie_laser)", une technologie combinant [LIDAR](http://fr.wikipedia.org/wiki/Lidar) et effet Doppler. La mesure de vitesse se fait avec un interféromètre semblable à ceux utilisés pour la [détection des exoplanètes](http://drgoulu.local/2009/11/15/combien-dexoplanetes-3/) par la méthode des vitesses radiales.
+Ces appareils sont basés sur la "[vélocimétrie laser](http://fr.wikipedia.org/wiki/V%C3%A9locim%C3%A9trie_laser)", une technologie combinant [LIDAR](http://fr.wikipedia.org/wiki/Lidar) et effet Doppler. La mesure de vitesse se fait avec un interféromètre semblable à ceux utilisés pour la [détection des exoplanètes](/2009/11/15/combien-dexoplanetes-3/) par la méthode des vitesses radiales.
 
 Ce genre d'engins tenait dans une camionnette il y a 20 ans, maintenant ils sont "portables", peut-être remplaceront-ils bientôt tous ces petits anémomètres qu'on voit tourner partout avant de finir intégrés dans nos téléphones iFaitTout.
 

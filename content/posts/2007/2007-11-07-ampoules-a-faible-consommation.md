@@ -1,5 +1,6 @@
 ---
 title: "Une ampoule, ça chauffe énormément"
+slug: "ampoules-a-faible-consommation"
 date: 2007-11-07
 categories: 
   - "cat3"

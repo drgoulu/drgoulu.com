@@ -1,5 +1,6 @@
 ---
 title: "Logicomix, la révolution de la logique en BD"
+slug: "logicomix"
 date: 2011-01-06
 categories: 
   - "cat1"
@@ -23,8 +24,8 @@ ceux-là posent les bases indispensables pour permettre de futures avancées. Av
 
 ### Ref et liens
 
-1. \[openbook booknumber="ISBN:9782711743513" templatenumber="5"\]
-2. \[openbook booknumber="OLID:OL14245342M" templatenumber="5"\]  _p. 379 \*54.43 : [1+1=2](http://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?c=umhistmath&cc=umhistmath&idno=aat3201.0001.001&frm=frameset&view=image&seq=401)_
+1. {{< openbook booknumber="ISBN:9782711743513" templatenumber="5" >}}
+2. {{< openbook booknumber="OLID:OL14245342M" templatenumber="5" >}}  _p. 379 \*54.43 : [1+1=2](http://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?c=umhistmath&cc=umhistmath&idno=aat3201.0001.001&frm=frameset&view=image&seq=401)_
 
 - une autre [critique sur mathéphysique](http://math-et-physique.over-blog.com/article-logicomix-53204287.html)
 - [Logicomix sur Wikipedia](http://fr.wikipedia.org/wiki/Logicomix)

@@ -1,5 +1,6 @@
 ---
 title: "Relativité en temps réel"
+slug: "relativite-en-temps-reel-2"
 date: 2007-05-02
 categories: 
   - "cat2"

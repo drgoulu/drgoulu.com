@@ -1,5 +1,6 @@
 ---
 title: "Comment calculer le 10'000'000'000'000'000'000 ème terme de la suite de Fibonacci"
+slug: "comment-calculer-le-1e19-eme-terme-de-la-suite-de-fibonacci"
 date: 2017-04-25
 categories: 
   - "cat2"
@@ -16,7 +17,7 @@ Tombé l'autre jour sur un problème idiot [[1]](#ref-1) mais intéressant : cal
 
 ## Un nombre d'or, mais flottant
 
-Comme même les ésotéristes le savent, la suite de Fibonacci est liée au [nombre d'or.](http://drgoulu.local/2016/07/03/nombre-dor-et-abeilles/) A partir de ce fait, Moivre, Euler et Binet ont indépendamment obtenu ce qu'on appelle aujourd'hui la [formule de Binet](https://fr.wikipedia.org/wiki/Suite_de_Fibonacci#formule_de_Binet), et qui donne directement le n-ième terme de la suite:
+Comme même les ésotéristes le savent, la suite de Fibonacci est liée au [nombre d'or.](/2016/07/03/nombre-dor-et-abeilles/) A partir de ce fait, Moivre, Euler et Binet ont indépendamment obtenu ce qu'on appelle aujourd'hui la [formule de Binet](https://fr.wikipedia.org/wiki/Suite_de_Fibonacci#formule_de_Binet), et qui donne directement le n-ième terme de la suite:
 
 \[latex\]\\mathcal F\_n=\\frac1{\\sqrt5}(\\varphi^n-\\varphi'^n)\[/latex\], avec \[latex\] \\varphi=\\frac{1+\\sqrt5}2\[/latex\], et \[latex\] \\varphi'=-\\frac1\\varphi\[/latex\] .
 

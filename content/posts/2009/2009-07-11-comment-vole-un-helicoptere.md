@@ -1,5 +1,6 @@
 ---
 title: "Comment vole un hélicoptère"
+slug: "comment-vole-un-helicoptere"
 date: 2009-07-11
 categories: 
   - "cat2"

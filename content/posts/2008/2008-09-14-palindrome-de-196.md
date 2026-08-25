@@ -1,5 +1,6 @@
 ---
 title: "Palindrome de 196"
+slug: "palindrome-de-196"
 date: 2008-09-14
 categories: 
   - "cat1"
@@ -43,7 +44,7 @@ le record du monde actuel (2008) date de 2005 et concerne le nombre 1'186'060'30
 
 On voit que le nombre maximal d'itérations requises n'augmente que très lentement, ce qui rend les nombres de Lychrel encore plus intriguants et exceptionnels.
 
-A propos : j'ai commencé cet article par [mon nombre fétiche 1729 parce que celui de Zinzin, 1548](http://drgoulu.local/2008/08/24/nombres-acratopeges/) est peu intéressant : 1548+8451 = 9999. Ou alors, 30 ans plus tard, je viens de découvrir une nouvelle propriété de ce nombre ...
+A propos : j'ai commencé cet article par [mon nombre fétiche 1729 parce que celui de Zinzin, 1548](/2008/08/24/nombres-acratopeges/) est peu intéressant : 1548+8451 = 9999. Ou alors, 30 ans plus tard, je viens de découvrir une nouvelle propriété de ce nombre ...
 
 ### Références:
 

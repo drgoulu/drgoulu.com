@@ -1,5 +1,6 @@
 ---
 title: "Si vous avez des pouvoirs paranormaux …"
+slug: "si-vous-avez-des-pouvoirs-paranormaux"
 date: 2007-01-28
 categories: 
   - "cat1"

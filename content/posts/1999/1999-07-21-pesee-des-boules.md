@@ -1,5 +1,6 @@
 ---
 title: "Pesée des boules"
+slug: "pesee-des-boules"
 date: 1999-07-21
 categories: 
   - "cat2"

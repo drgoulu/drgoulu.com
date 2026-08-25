@@ -1,11 +1,14 @@
 ---
 title: "C'est Pi-Day ! Je me lave les mains avec Kate Bush..."
+slug: "cest-pi-day-je-me-lave-les-mains-avec-kate-bush"
+aliases:
+  - "/2020/03/14/cest-pi-day-je-me-lave-les-mains-avec-kate-bush.../"
 date: 2020-03-14
 categories: 
   - "non-classe"
 ---
 
-Le temps n'est pas à la fête. D'ailleurs [je ne fête plus pi le 3.14 mais tau le 6. 28](http://drgoulu.local/2016/03/14/adieu-3-14-16-le-26-juin-ce-sera-tau-day/) , et je viens de trouver une excellente raison de plus pour ça : pi est encore plus faux lorsqu'il est chanté par Kate Bush :
+Le temps n'est pas à la fête. D'ailleurs [je ne fête plus pi le 3.14 mais tau le 6. 28](/2016/03/14/adieu-3-14-16-le-26-juin-ce-sera-tau-day/) , et je viens de trouver une excellente raison de plus pour ça : pi est encore plus faux lorsqu'il est chanté par Kate Bush :
 
 <figure>
 

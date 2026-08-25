@@ -1,5 +1,6 @@
 ---
 title: "Dimmbal.ch"
+slug: "dimmbalch"
 date: 2007-01-30
 categories: 
   - "cat2"

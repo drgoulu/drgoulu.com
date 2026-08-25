@@ -1,5 +1,6 @@
 ---
 title: "L’éviteur d’axe"
+slug: "eviteur-daxe"
 date: 2005-12-29
 categories: 
   - "cat2"
@@ -13,7 +14,7 @@ L' "éviteur d’axe" ("[Shaft Passer](http://en.wikipedia.org/wiki/Shaft_passer
 
 ### Historique
 
-Tiré du livre \[openbook booknumber="ISBN:9782738107718" templatenumber="5"\]
+Tiré du livre {{< openbook booknumber="ISBN:9782738107718" templatenumber="5" >}}
 
 > A Francfort, un ingénieur en mécanique essayait toujours de concevoir des choses mais n’y arrivait jamais parfaitement. Une fois il a dessiné une boite pleine d’engrenages dont une était une grosse roue de 20 cm de diamètre munie de 6 rayons. Le gars dit tout excité "Alors, chef, qu’en dites-vous ?"
 > 

@@ -1,5 +1,6 @@
 ---
 title: "L’Hydrogène, énergie du futur ?"
+slug: "lhydrogene-energie-du-futur"
 date: 2007-09-06
 categories: 
   - "cat3"
@@ -26,7 +27,7 @@ Si 99% de l'hydrogène est produit par "reformage du gaz naturel", c'est simplem
 
 Avec cette solution, l'automobile "du futur" ne crachera effectivement que de l'eau, mais continuera à consommer des ressources non-renouvelables et délèguera le problème de l'élimination du carbone à une raffinerie d'hydrogène qui consommera 40% de l'énergie du méthane pour donner une belle conscience verte à ses consommateurs, tout en présentant des risques d'accident considérables par rapport à une raffinerie de pétrole...
 
-[M. Hayek, génie du marketing](http://drgoulu.local/2007/05/15/montre-mecanique-contre-quartz/), va probablement réussir à vendre des produits que l'on est maintenant capables de réaliser techniquement à un marché avide de solutions propres. Mais l'hydrogène n'étant qu'un vecteur, la question de la source d'énergie reste entièrement posée et, comme je l'ai déjà montré dans "[On brulera vraiment tout](http://drgoulu.local/2007/05/25/on-brulera-vraiment-tout/)", il n'y aura pas de solution tant qu'il restera du pétrole ou qu'on arrive à exploiter la [fusion thermonucléaire](http://drgoulu.local/2005/12/11/la-fusion-thermonucleaire/).
+[M. Hayek, génie du marketing](/2007/05/15/montre-mecanique-contre-quartz/), va probablement réussir à vendre des produits que l'on est maintenant capables de réaliser techniquement à un marché avide de solutions propres. Mais l'hydrogène n'étant qu'un vecteur, la question de la source d'énergie reste entièrement posée et, comme je l'ai déjà montré dans "[On brulera vraiment tout](/2007/05/25/on-brulera-vraiment-tout/)", il n'y aura pas de solution tant qu'il restera du pétrole ou qu'on arrive à exploiter la [fusion thermonucléaire](/2005/12/11/la-fusion-thermonucleaire/).
 
 ### Références:
 

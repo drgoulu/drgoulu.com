@@ -1,5 +1,6 @@
 ---
 title: "U3 : les nouvelles clés USB"
+slug: "u3-les-nouvelles-cles-usb"
 date: 2007-02-23
 categories: 
   - "non-classe"

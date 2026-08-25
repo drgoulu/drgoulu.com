@@ -1,5 +1,6 @@
 ---
 title: "Comment voir avec ses oreilles"
+slug: "comment-voir-avec-ses-oreilles"
 date: 2016-05-18
 categories: 
   - "cat2"

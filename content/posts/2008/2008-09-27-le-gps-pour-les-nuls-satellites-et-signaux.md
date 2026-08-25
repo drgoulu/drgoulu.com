@@ -1,5 +1,6 @@
 ---
 title: "Le GPS pour les nuls : Satellites et Signaux"
+slug: "le-gps-pour-les-nuls-satellites-et-signaux"
 date: 2008-09-27
 categories: 
   - "cat2"
@@ -32,7 +33,7 @@ La principale difficulté et de mesurer avec une grande précision le temps mis 
 
 Certaines pages du web prétendent que les signaux émis par les 3 satellites contiennent l'heure exacte de l'émission. C'est faux et ça serait inutile, car il faudrait aussi une horloge ultra précise au récepteur. Les satellites sont effectivement équipés d'horloges atomiques ultra précises, mais il serait beaucoup trop cher d'en mettre dans chaque récepteur.
 
-Le truc, c'est de tenir compte d'un quatrième satellite et de calculer l'intersection de 4 sphères au lieu de 3, mais dans l'[espace à 4 dimensions](http://drgoulu.local/2007/02/07/le-temps-une-4eme-dimension-imaginaire/), en tenant compte du temps : il n'existe qu'un seul endroit à un seul moment extrêmement précis où les décalages entre les bips des 4 satellites donnés peuvent correspondre aux mesures. Le GPS fournit donc non seulement la position géographique, mais aussi l'heure exacte en prime.
+Le truc, c'est de tenir compte d'un quatrième satellite et de calculer l'intersection de 4 sphères au lieu de 3, mais dans l'[espace à 4 dimensions](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/), en tenant compte du temps : il n'existe qu'un seul endroit à un seul moment extrêmement précis où les décalages entre les bips des 4 satellites donnés peuvent correspondre aux mesures. Le GPS fournit donc non seulement la position géographique, mais aussi l'heure exacte en prime.
 
 Reste encore quelques petits détails techniques à résoudre.
 
@@ -68,4 +69,4 @@ Génial, non ?
 4. <span id="ref-4"></span>["dBm" sur Answers.com](http://www.answers.com/topic/dbm)
 5. <span id="ref-5"></span>[GPS explained : Runtime measurements of the Signals](http://www.kowoma.de/en/gps/signals_runtime.htm)
 
-Note\* : pour rappel, les autres merveilles du monde technologique sont le [microprocesseur](http://drgoulu.local/tag/informatique), le télescope [Hubble](http://drgoulu.local/tag/hubble), le [LHC](http://drgoulu.local/tag/LHC) du CERN, [internet](http://drgoulu.local/tag/internet), [l'hélicoptère](http://drgoulu.local/2009/07/11/comment-vole-un-helicoptere/) et le [laser](http://drgoulu.local/tag/laser).
+Note\* : pour rappel, les autres merveilles du monde technologique sont le [microprocesseur](/tags/informatique/), le télescope [Hubble](/tags/hubble/), le [LHC](/tags/LHC/) du CERN, [internet](/tags/internet/), [l'hélicoptère](/2009/07/11/comment-vole-un-helicoptere/) et le [laser](/tags/laser/).

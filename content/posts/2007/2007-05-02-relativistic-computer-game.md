@@ -1,5 +1,6 @@
 ---
 title: "Relativistic Computer Game"
+slug: "relativistic-computer-game"
 date: 2007-05-02
 categories: 
   - "non-classe"
@@ -33,4 +34,4 @@ References:
 5. D. Weiskopf, “[Visualization of four-dimensional spacetimes](http://www.vis.uni-stuttgart.de/forschung/wissenschaftliche-visualisierung/relativistische-visualisierung/reading.html)”, Ph.D. thesis, U. Tübingen (2001).
 6. M. Bochers, “[Interactive and stereoscopic visualization in special relativity](http://tobias-lib.uni-tuebingen.de/dbt/volltexte/2005/1891/)”, Ph.D. thesis, U. Tübingen (2005).
 7. U. Kraus, “[Through the city at nearly the speed of light](http://www.spacetimetravel.org/tuebingen/tuebingen.html)”: Featured on the cover of Physics Today 58, num. 1, Jan 2005.
-8. [Philippe Guglielmetti,](http://www.cs.unc.edu/~zhangh/einstein.html) ["Accélération"](http://drgoulu.local/2004/08/09/acceleration/), 2004, short novel (in french) describing a travel at relativistic speed to Barnard star
+8. [Philippe Guglielmetti,](http://www.cs.unc.edu/~zhangh/einstein.html) ["Accélération"](/2004/08/09/acceleration/), 2004, short novel (in french) describing a travel at relativistic speed to Barnard star

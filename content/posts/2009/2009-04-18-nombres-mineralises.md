@@ -1,5 +1,6 @@
 ---
 title: "La minéralisation des nombres"
+slug: "nombres-mineralises"
 date: 2009-04-18
 categories: 
   - "cat1"
@@ -13,13 +14,13 @@ coverImage: "6fbba28d819a43e7702a341bccccd6111.png"
 
 {{< figure src="images/ad3297f8cfaf755e8d74d72a3a2de85b.jpg" alt="Dr. Goulu est (un peu) dans ce numéro de Pour la Science ! La Gloire ! (enfin...)" caption="Dr. Goulu est (un peu) dans ce numéro de &quot;Pour la Science&quot; ! La Gloire ! (enfin...)" link="http://www.pourlascience.fr/ewb_pages/f/fiche-article-mille-collections-de-nombres-21524.php" align="alignright" width="300" >}}
 
-Après mon article sur les [nombres acratopèges](http://drgoulu.local/2008/08/24/nombres-acratopeges/), j'avais contacté [Jean-Paul Delahaye](http://fr.wikipedia.org/wiki/Jean-Paul_Delahaye) pour lui demander si quelqu'un avait déjà étudié ce sujet. Il m'avait répondu qu'à sa connaissance ce n'était pas le cas, et trouvait étrange de rechercher les nombres ayant peu de propriétés plutôt que ceux en ayant beaucoup. Mais mon idée d'utiliser la [base de données](http://oeis.org/Seis.html) de l'[Encyclopédie en ligne des suites de nombres entiers](http://oeis.org/Seis.html) pour mesurer l'intérêt des nombres l'a séduit et les résultats de la petite collaboration qui s'en est suivie figurent dans l'article "Mille collections de nombres" de Jean-Paul Delahaye qui vient paraitre dans "Pour la Science" \[1\].
+Après mon article sur les [nombres acratopèges](/2008/08/24/nombres-acratopeges/), j'avais contacté [Jean-Paul Delahaye](http://fr.wikipedia.org/wiki/Jean-Paul_Delahaye) pour lui demander si quelqu'un avait déjà étudié ce sujet. Il m'avait répondu qu'à sa connaissance ce n'était pas le cas, et trouvait étrange de rechercher les nombres ayant peu de propriétés plutôt que ceux en ayant beaucoup. Mais mon idée d'utiliser la [base de données](http://oeis.org/Seis.html) de l'[Encyclopédie en ligne des suites de nombres entiers](http://oeis.org/Seis.html) pour mesurer l'intérêt des nombres l'a séduit et les résultats de la petite collaboration qui s'en est suivie figurent dans l'article "Mille collections de nombres" de Jean-Paul Delahaye qui vient paraitre dans "Pour la Science" \[1\].
 
 A l'aide de quelques lignes de Python, j'ai créé une [feuille Excel](http://www.box.net/shared/3yefxar19b) donnant le nombre de propriétés connues des nombres de 2 à 65536\*, que j'appelle "minéralisation" par analogie avec les eaux minérales riches en ions supposés apporter bienfaits et saveur comparativement à une eau "plate", voire "acratopège", sans propriété particulière.
 
 En réalisant un simple graphique de la minéralisation, j'ai remarqué un phénomène très intriguant : le graphique  présente deux bandes distinctes, nettement visibles à tous les ordres de grandeur :
 
-[![](images/6fbba28d819a43e7702a341bccccd611.png)](http://drgoulu.local//HLIC/6fbba28d819a43e7702a341bccccd611.png)
+[![](images/6fbba28d819a43e7702a341bccccd611.png)](images/6fbba28d819a43e7702a341bccccd611.png)
 
 Autrement dit, les nombres entiers se divisent assez clairement en 2 groupes : les nombres "intéressants" et les nombres "inintéressants". Il y a étonnament peu de nombres moyennement intéressants. L'article de Delahaye se termine par un appel à expliquer ce phénomène.
 
@@ -29,7 +30,7 @@ J'ai un peu profité de ma longueur d'avance en demandant à Python de colorier 
 - les nombres de la forme an en vert,
 - les nombres ayant plus de diviseurs que n'importe quel nombre inférieur en jaune :
 
-[![mineralisation1](images/7e9aacbedc2bf5b2a2b677e0fd3ba78d.png "mineralisation1")](http://drgoulu.local//HLIC/7e9aacbedc2bf5b2a2b677e0fd3ba78d.png)
+[![mineralisation1](images/7e9aacbedc2bf5b2a2b677e0fd3ba78d.png "mineralisation1")](images/7e9aacbedc2bf5b2a2b677e0fd3ba78d.png)
 
 Bingo ! On voit que ces nombres recouvrent la quasi totalité des nombres particulièrement minéralisés, ou intéressants.
 
@@ -50,4 +51,4 @@ Note\* : 65536 est un nombre bien connu des informaticiens : 2^16 donne le nombr
 
 ### Référence:
 
-1. Jean-Paul Delahaye, "[Mille collections de nombres](http://www.pourlascience.fr/ewb_pages/f/fiche-article-mille-collections-de-nombres-21524.php)", Pour la Science N°379 - mai 2009, p 88-93 ([(fair use pdf)](http://drgoulu.local/wp-content/uploads/2020/08/Mille-collections-de-nombres-.pdf)
+1. Jean-Paul Delahaye, "[Mille collections de nombres](http://www.pourlascience.fr/ewb_pages/f/fiche-article-mille-collections-de-nombres-21524.php)", Pour la Science N°379 - mai 2009, p 88-93 ([(fair use pdf)](/wp-content/uploads/2020/08/Mille-collections-de-nombres-.pdf)

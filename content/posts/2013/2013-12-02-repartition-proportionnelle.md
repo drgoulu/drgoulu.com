@@ -1,5 +1,6 @@
 ---
 title: "Répartition proportionnelle"
+slug: "repartition-proportionnelle"
 date: 2013-12-02
 categories: 
   - "cat2"
@@ -14,7 +15,7 @@ coverImage: "2013-11-18_201919.png"
 
 Le cas le plus simple apparaît souvent dans les tableurs : en calculant des pourcentages arrondis, le total ne fait parfois pas 100%. En effet, rien ne garantit que les arrondis "vers le haut" compensent ceux "vers le bas". Autrement dit, une somme d'arrondis n'est pas égale à la somme arrondie.
 
-Autre exemple assez différent en apparence. Un berger veut répartir ses [1548](http://drgoulu.local/2008/08/24/nombres-acratopeges/) moutons sur sa parcelle carrée d'un hectare où il veut faire paître a moutons, son parc rond de π hectares qui peut en accueillir b, et les c restants sur la parcelle louée à son voisin le père Néper, qui fait [e](http://fr.wikipedia.org/wiki/E_\(nombre\)) hectares, de manière à ce que chaque mouton ait la même surface à brouter. Sur les conseils de l'instituteur du village, il commence par écrire la petite équation a.(1+π+e) = 1548 pour obtenir a = 225.66 puis b=708.93 et c=613.41, mais ensuite, comment arrondir chacun de ces nombres vers le haut ou le bas de façon à obtenir exactement un total de 1548 et que les rapports b/a et c/a restent respectivement proches de π et de e ?
+Autre exemple assez différent en apparence. Un berger veut répartir ses [1548](/2008/08/24/nombres-acratopeges/) moutons sur sa parcelle carrée d'un hectare où il veut faire paître a moutons, son parc rond de π hectares qui peut en accueillir b, et les c restants sur la parcelle louée à son voisin le père Néper, qui fait [e](http://fr.wikipedia.org/wiki/E_\(nombre\)) hectares, de manière à ce que chaque mouton ait la même surface à brouter. Sur les conseils de l'instituteur du village, il commence par écrire la petite équation a.(1+π+e) = 1548 pour obtenir a = 225.66 puis b=708.93 et c=613.41, mais ensuite, comment arrondir chacun de ces nombres vers le haut ou le bas de façon à obtenir exactement un total de 1548 et que les rapports b/a et c/a restent respectivement proches de π et de e ?
 
 C'est en planchant sur un problème de ce type que m'est venue une idée : utiliser une méthode du [scrutin proportionnel plurinominal](https://fr.wikipedia.org/wiki/scrutin_proportionnel_plurinominal) !
 

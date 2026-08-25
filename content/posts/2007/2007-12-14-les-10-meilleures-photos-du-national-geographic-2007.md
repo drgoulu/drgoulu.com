@@ -1,5 +1,6 @@
 ---
 title: "les 10 meilleures photos du National Geographic 2007"
+slug: "les-10-meilleures-photos-du-national-geographic-2007"
 date: 2007-12-14
 categories: 
   - "non-classe"
@@ -15,6 +16,6 @@ C'est la saison des "Best of 2007". Après un voyage dans l'espace, retour sur T
 
 D'autres photos de cette extraordinaire grotte de cristaux géants sont [ici.](http://news.nationalgeographic.com/news/2007/04/photogalleries/giant-crystals-cave/index.html) Elle a été découverte au Mexique, attenante à une mine en exploitation.
 
-Le National Geographic prime aussi la photo scientifique dont j'ai déjà parlé [ici](http://drgoulu.local/2007/09/28/visualisation-scientifique-2007/), et des photos d'animaux comme celle ci, qui représente des poissons de plus 2m vivant réellement et maintenant dans le Mississippi :
+Le National Geographic prime aussi la photo scientifique dont j'ai déjà parlé [ici](/2007/09/28/visualisation-scientifique-2007/), et des photos d'animaux comme celle ci, qui représente des poissons de plus 2m vivant réellement et maintenant dans le Mississippi :
 
 ![](images/8_461.jpg)

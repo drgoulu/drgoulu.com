@@ -1,5 +1,6 @@
 ---
 title: "Comment dire 33 avec 3 cubes ?"
+slug: "comment-dire-33-avec-3-cubes"
 date: 2012-06-20
 categories: 
   - "cat2"
@@ -54,4 +55,4 @@ C'est énervant qu'un petit problème tout bête comme celui-ci puisse résister
 4. <span id="ref-4"></span>B. Conn and L. Vaserstein, "On sums of three integral cubes", 1994, Contemp. Math. 166, 285-294.
 5. <span id="ref-5"></span>Eric Pine, Kim Yarbrough, Wayne Tarrant and Michael Beck, Noam D. Elkies, "[Rational points near curves and small nonzero |x3\-y2| via lattice reduction](http://arxiv.org/pdf/math.NT/0005139.pdf)", 2000, ANTS IV
 6. <span id="ref-6"></span>Michael Beck, Eric Pine, Wayne Tarrant, Kim Yarbrough Jensen "New integer representations as the sum of three cubes", 2007, Math. Comp. 76, 1683-1690 ([page AMS](http://www.ams.org/journals/mcom/2007-76-259/S0025-5718-07-01947-3/))
-7. <span id="ref-7"></span>\[openbook booknumber="ISBN:978-0444866622" templatenumber="5"\] ([online](http://www.scribd.com/mdrougui/d/53093903/87-Sums-of-three-cubes))
+7. <span id="ref-7"></span>{{< openbook booknumber="ISBN:978-0444866622" templatenumber="5" >}} ([online](http://www.scribd.com/mdrougui/d/53093903/87-Sums-of-three-cubes))

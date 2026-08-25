@@ -1,5 +1,6 @@
 ---
 title: "Why Software Will Run Faster"
+slug: "why-software-will-run-faster"
 date: 2006-12-28
 categories: 
   - "cat2"

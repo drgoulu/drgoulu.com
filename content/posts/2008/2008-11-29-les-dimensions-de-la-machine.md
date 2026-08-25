@@ -1,5 +1,6 @@
 ---
 title: "Les dimensions de La Machine"
+slug: "les-dimensions-de-la-machine"
 date: 2008-11-29
 categories: 
   - "cat3"
@@ -49,7 +50,7 @@ Pour son fonctionnement, La Machine consomme approximativement 800 milliards de 
 
 Kevin Kelly insiste sur le fait qu' "_un problème que nous avons en parlant de La Machine est que ses dimensions excèdent de beaucoup celles auxquelles nous sommes habitués, donc nous n'arrivons pas à nous rendre compte de sa taille_". Par exemple, une bibliothèque très complète contient environ 10 terabytes d'information, un volume très faible pour La Machine. Ca tiendra sur votre iPod dans 10 ans et ca se transmet en une seconde à l'autre bout du monde. Comment mesurerons nous le traffic dans 15 ans ?
 
-Considérant que la puissance totale de La Machine actuelle est proche de celle d'UN cerveau humain ( et d'autres comparaisons [dont j'ai parlé ici le confirment)](http://drgoulu.local/2008/06/19/moore-toujours/), Kelly propose d'utiliser le "HB" (human brain) comme unité de mesure pour les prochaines années. Si la croissance rapide imposée (ou mesurée...) par la Loi de Moore se poursuit encore quelques décennies ([et je pense que ce sera les cas](http://drgoulu.local/2008/06/19/moore-toujours/ "Loi de Moore … toujours ?")), entre 2020 et 2040, La Machine atteindra la puissance de calcul de l'Humanité.
+Considérant que la puissance totale de La Machine actuelle est proche de celle d'UN cerveau humain ( et d'autres comparaisons [dont j'ai parlé ici le confirment)](/2008/06/19/moore-toujours/), Kelly propose d'utiliser le "HB" (human brain) comme unité de mesure pour les prochaines années. Si la croissance rapide imposée (ou mesurée...) par la Loi de Moore se poursuit encore quelques décennies ([et je pense que ce sera les cas](/2008/06/19/moore-toujours/ "Loi de Moore … toujours ?")), entre 2020 et 2040, La Machine atteindra la puissance de calcul de l'Humanité.
 
 ### Références:
 
@@ -72,6 +73,6 @@ Considérant que la puissance totale de La Machine actuelle est proche de celle 
 
 ### Autres articles sur ce thème
 
-- [Loi de Moore … toujours ?](http://drgoulu.local/2008/06/19/moore-toujours/ "Loi de Moore … toujours ?")
-- [Le Top 500 des Supercalculateurs](http://drgoulu.local/2007/11/27/le-top-500-des-supercalculateurs/)
-- [le Big Bang Numérique](http://drgoulu.local/2008/04/10/le-big-bang-numerique/ "le Big Bang Numérique") (basé sur la référence \[15\] ci dessus)
+- [Loi de Moore … toujours ?](/2008/06/19/moore-toujours/ "Loi de Moore … toujours ?")
+- [Le Top 500 des Supercalculateurs](/2007/11/27/le-top-500-des-supercalculateurs/)
+- [le Big Bang Numérique](/2008/04/10/le-big-bang-numerique/ "le Big Bang Numérique") (basé sur la référence \[15\] ci dessus)

@@ -1,5 +1,6 @@
 ---
 title: "Origami et Marketing"
+slug: "origami-et-marketing"
 date: 2007-03-03
 categories: 
   - "non-classe"
@@ -11,4 +12,4 @@ Quand un ancien art japonais est mis en scène pour promouvoir la technologie mo
 
 SolidWorks doit avoir engagé un nouveau responsable publicité japonais ou fana d'origami, parce qu'ils ont aussi mis en ligne un [jeu de simulation d'avion en papier](http://solidworkspilot.com/) qui m'énerve prodigieusement. J'étais péniblement arrivé à 40m quand ce cher Franck m'a pulvérisé à 47m, et j'ai aucune idée de comment il s'y est pris. Va falloir que je fasse un "[plan d'expérience](http://fr.wikipedia.org/wiki/Plan_d'exp%C3%A9rience)" rigoureux pour trouver les meilleurs paramètres et le battre sans y passer des heures
 
-D'autres indices me font penser qu'après le judo, les sushis et le [sudoku](http://drgoulu.local/2005/10/26/sudoku/) (qui n'est pas japonais), l'origami va (re-) devenir le truc nippon à la mode
+D'autres indices me font penser qu'après le judo, les sushis et le [sudoku](/2005/10/26/sudoku/) (qui n'est pas japonais), l'origami va (re-) devenir le truc nippon à la mode

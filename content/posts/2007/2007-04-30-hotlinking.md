@@ -1,5 +1,6 @@
 ---
 title: "Hotlinking (mea culpa...)"
+slug: "hotlinking"
 date: 2007-04-30
 categories: 
   - "cat2"

@@ -1,5 +1,6 @@
 ---
 title: "Architecture Dynamique"
+slug: "architecture-dynamique"
 date: 2007-06-03
 categories: 
   - "cat2"

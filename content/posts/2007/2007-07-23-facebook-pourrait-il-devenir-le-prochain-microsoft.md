@@ -1,5 +1,6 @@
 ---
 title: "Facebook pourrait-il devenir le prochain Microsoft?"
+slug: "facebook-pourrait-il-devenir-le-prochain-microsoft"
 date: 2007-07-23
 categories: 
   - "cat3"
@@ -15,7 +16,7 @@ L'article de [TechCrunch "Facebook pourrait-il devenir le prochain Microsoft? ch
 
 Si vous ne connaissez pas [facebook.com](http://www.facebook.com/), vous n'avez que quelques semaines de retard sur moi.
 
-En première approche c'est un [réseau social semblable à ceux déjà décrits ici](http://drgoulu.local/) : il permet de correspondre avec ses amis et connaissances, de partager ce que l'on fait avec eux et ce sur des thèmes plus larges que LinkedIn qui se borne au cadre professionnel. Sur facebook on peut montrer ses photos, draguer, vendre sa voiture etc.
+En première approche c'est un [réseau social semblable à ceux déjà décrits ici](/) : il permet de correspondre avec ses amis et connaissances, de partager ce que l'on fait avec eux et ce sur des thèmes plus larges que LinkedIn qui se borne au cadre professionnel. Sur facebook on peut montrer ses photos, draguer, vendre sa voiture etc.
 
 La force de facebook, c'est d'être construit sur un système qui exécute des "applications" qui forment une page personnelle, configurable par chaque utilisateur, constituée à partir d'informations tirées du réseau de ses connaissances, ou d'internet tout court.
 
@@ -27,7 +28,7 @@ La force de facebook, c'est d'être construit sur un système qui exécute des "
 - "Information" et "Education and Work" sont réduites, mais en cliquant sur les petites flèches les visiteurs peuvent accéder à mon CV
 - "The Wall" me permet de laisser des messages généraux à mes visiteurs
 
-A priori similaire [iGoogle](http://drgoulu.local/) ou NetVibes, la page facebook se distingue par l'interactivité qui permet le dialogue de multiples manières avec les autres utilisateurs, regroupant les fonctions de messagerie, de forums thématiques et de communautés virtuelles. Ce qui fait que facebook pourrait bien devenir un nouveau Google ou Microsoft, c'est que:
+A priori similaire [iGoogle](/) ou NetVibes, la page facebook se distingue par l'interactivité qui permet le dialogue de multiples manières avec les autres utilisateurs, regroupant les fonctions de messagerie, de forums thématiques et de communautés virtuelles. Ce qui fait que facebook pourrait bien devenir un nouveau Google ou Microsoft, c'est que:
 
 - leur système de programmation des applications est ouvert : n'importe qui peut développer sa propre application. facebook peut être vu comme un gestionnaire d'applications web générales,
 - facebook vient d'acheter [Parakey,](http://www.parakey.com/) qui développe un véritable "système d'exploitation web" qui propose un "bureau" de travail et des dossiers pour les documents, le tout hébergé sur le web

@@ -1,5 +1,6 @@
 ---
 title: "Poisson d'Avril, ou pas ?"
+slug: "poisson-davril-ou-pas"
 date: 2014-03-31
 categories: 
   - "non-classe"
@@ -8,6 +9,9 @@ tags:
   - "humour"
   - "oceans"
 coverImage: "Macropinna_microstoma_MBARI.jpg"
+
+aliases:
+  - "/2014/04/01/poisson-davril-ou-pas/"
 ---
 
 Les vrais poissons sont parfois aussi étonnants que des Poissons d'Avril. Sauras-tu faire la différence ?

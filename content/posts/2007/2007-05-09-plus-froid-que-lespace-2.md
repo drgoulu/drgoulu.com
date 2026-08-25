@@ -1,5 +1,6 @@
 ---
 title: "Plus froid que l’espace"
+slug: "plus-froid-que-lespace-2"
 date: 2007-05-09
 categories: 
   - "cat2"

@@ -1,5 +1,6 @@
 ---
 title: "Poissons d'Avril"
+slug: "poissons-davril"
 date: 2008-04-01
 categories: 
   - "non-classe"
@@ -21,4 +22,4 @@ Pas le temps d'inventer une bêtise pour vous faire marcher aujourd'hui, mais en
 A part ça:
 
 - [WindSurfJournal.com](http://www.windsurfjournal.com/news?id_papers=3476&ID_BB_LANGUAGES=1) a annoncé en temps réel 2 nouveaux records de vitesse à la voile. [Tendance Bleue a bien mordu](http://tendancebleue.canalblog.com/archives/2008/04/01/8562721.html#comments), mais pas [Foilers](http://foils.wordpress.com) !
-- le sketch "[On déménage](http://www.tetesaclaques.tv/on_demenage_vid501)" des [Têtes à Claques](http://drgoulu.local/2006/12/23/tetes-a-claques/) est excellent, pour autant que vous ayez vu les autres épisodes avec les 'tits papoutes et leur voisin...
+- le sketch "[On déménage](http://www.tetesaclaques.tv/on_demenage_vid501)" des [Têtes à Claques](/2006/12/23/tetes-a-claques/) est excellent, pour autant que vous ayez vu les autres épisodes avec les 'tits papoutes et leur voisin...

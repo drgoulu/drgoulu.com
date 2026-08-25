@@ -1,5 +1,6 @@
 ---
 title: "Combien coûte la santé"
+slug: "combien-coute-la-sante"
 date: 2009-04-23
 categories: 
   - "cat3"
@@ -15,7 +16,7 @@ A l'occasion de la réouverture du débat sur le financement de l'assurance mala
 
 ### Combien ça coûte chez les autres
 
-Selon les données extraites du rapport "[Eco-Santé OCDE 2008](http://www.oecd.org/document/56/0,3343,fr_2649_34631_32566008_1_1_1_37407,00.html)" [[1]](#ref-1) et de ses "[notes par pays](http://www.oecd.org/document/55/0,3343,fr_2649_34631_35046839_1_1_1_1,00.html)", la situation n'a pas beaucoup évolué depuis [depuis 2004](http://drgoulu.local/2007/02/09/les-couts-de-la-sante-en-suisse/) : la [Suisse](http://www.oecd.org/dataoecd/45/41/38980890.pdf) est toujours le pays de l'OCDE consacrant la plus grande part de son PIB (11.6% en 2004) à la santé, à part les [USA](http://www.oecd.org/dataoecd/46/2/38980580.pdf) (15.3%):
+Selon les données extraites du rapport "[Eco-Santé OCDE 2008](http://www.oecd.org/document/56/0,3343,fr_2649_34631_32566008_1_1_1_37407,00.html)" [[1]](#ref-1) et de ses "[notes par pays](http://www.oecd.org/document/55/0,3343,fr_2649_34631_35046839_1_1_1_1,00.html)", la situation n'a pas beaucoup évolué depuis [depuis 2004](/2007/02/09/les-couts-de-la-sante-en-suisse/) : la [Suisse](http://www.oecd.org/dataoecd/45/41/38980890.pdf) est toujours le pays de l'OCDE consacrant la plus grande part de son PIB (11.6% en 2004) à la santé, à part les [USA](http://www.oecd.org/dataoecd/46/2/38980580.pdf) (15.3%):
 
 {{< figure src="images/dc0d0a324cea1351b9c37d0cb8cd7d1e.png" alt="health9004" caption="Dépenses de santé en part du PIB, pays de l" link="http://www.oecd.org/dataoecd/5/23/36985416.pdf" align="aligncenter" width="496" >}}
 
@@ -33,9 +34,9 @@ Grâce à la médecine, on vit plus longtemps. On s'attend donc à une corrélat
 
 [![cout\_sante\_esperancevie](images/55dcdbc62c522434bbe6a9d30bd157c8.png "cout_sante_esperancevie")](http://www.nationmaster.com/plot/hea_lif_exp_at_bir_tot_pop-life-expectancy-birth-total-population/hea_per_cap_tot_exp_on_hea_in_int_dol-capita-total-expenditure-international-dollars/flag)
 
-Certains pays comme la [Jordanie](http://www.nationmaster.com/country/jo-jordan/hea-health) atteignent aussi 80 ans d'espérance de vie, mais la santé n'y coûte que $140/habitant et par an seulement (soit 9.3% du PIB jordanien tout de même...), alors que plusieurs pays africains dépensent plus alors que les nouveaux-nés ne peuvent [espérer](http://drgoulu.local/2007/06/26/statistiques-et-esperance-de-vie/) y vivre que 50 ans. Est-ce donc bien parce qu'on dépense de l'argent dans la santé qu'on vit plus vieux ? Ou est-ce parce qu'on vit vieux que la santé coûte cher ? La question est délicate à plus d'un titre, mais une chose est certaine : le cout de la santé varie énormément avec l'âge, comme le montre ce graphique tiré des statistiques suisses [[2]](#ref-2):
+Certains pays comme la [Jordanie](http://www.nationmaster.com/country/jo-jordan/hea-health) atteignent aussi 80 ans d'espérance de vie, mais la santé n'y coûte que $140/habitant et par an seulement (soit 9.3% du PIB jordanien tout de même...), alors que plusieurs pays africains dépensent plus alors que les nouveaux-nés ne peuvent [espérer](/2007/06/26/statistiques-et-esperance-de-vie/) y vivre que 50 ans. Est-ce donc bien parce qu'on dépense de l'argent dans la santé qu'on vit plus vieux ? Ou est-ce parce qu'on vit vieux que la santé coûte cher ? La question est délicate à plus d'un titre, mais une chose est certaine : le cout de la santé varie énormément avec l'âge, comme le montre ce graphique tiré des statistiques suisses [[2]](#ref-2):
 
-[![relation âge/coût de la santé](images/f4e85b5d6d1a959372a01521850ba6c0.png "relation âge/coût de la santé")](http://drgoulu.local/wp-content/uploads/HLIC/f4e85b5d6d1a959372a01521850ba6c0.png)La conséquence de ceci est qu'une petite augmentation de la part de personnes âgées dans la population correspond (dans les deux sens) à une forte augmentation des coûts de la santé. Ce n'est peut-être pas parce qu'il y a plus de médecins ou d'IRM que la santé coûte cher, mais parce qu'il y a plus de personnes (âgées) qui en ont besoin...
+[![relation âge/coût de la santé](images/f4e85b5d6d1a959372a01521850ba6c0.png "relation âge/coût de la santé")](/wp-content/uploads/HLIC/f4e85b5d6d1a959372a01521850ba6c0.png)La conséquence de ceci est qu'une petite augmentation de la part de personnes âgées dans la population correspond (dans les deux sens) à une forte augmentation des coûts de la santé. Ce n'est peut-être pas parce qu'il y a plus de médecins ou d'IRM que la santé coûte cher, mais parce qu'il y a plus de personnes (âgées) qui en ont besoin...
 
 ### Comment réduire les coûts de la santé
 

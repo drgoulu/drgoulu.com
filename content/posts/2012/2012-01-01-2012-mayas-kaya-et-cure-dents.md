@@ -1,5 +1,6 @@
 ---
 title: "2012, Mayas, Kaya et cure-dents"
+slug: "2012-mayas-kaya-et-cure-dents"
 date: 2012-01-01
 categories: 
   - "cat3"
@@ -13,11 +14,11 @@ tags:
 coverImage: "75e72f9518bb93d7d4030c08d378faca-1.jpg"
 ---
 
-Les Mayas se sont plantés : leur fin du monde n'arrivera pas en 2012 puisqu'elle a [déjà eu lieu autour de 909](http://fr.wikipedia.org/wiki/Civilisation_maya#Les_faits), et d'une façon peu hollywoodienne : abandon des villes étalé sur des décennies, dénatalité, le tout causé par une crise peu claire combinant peut-être surpopulation, surexploitation des sols et variations climatiques... Des dangers ô combien plus rationnels que "[l'ennemi interieur](http://drgoulu.local/2009/11/29/2012-et-lennemi-interieur/)".
+Les Mayas se sont plantés : leur fin du monde n'arrivera pas en 2012 puisqu'elle a [déjà eu lieu autour de 909](http://fr.wikipedia.org/wiki/Civilisation_maya#Les_faits), et d'une façon peu hollywoodienne : abandon des villes étalé sur des décennies, dénatalité, le tout causé par une crise peu claire combinant peut-être surpopulation, surexploitation des sols et variations climatiques... Des dangers ô combien plus rationnels que "[l'ennemi interieur](/2009/11/29/2012-et-lennemi-interieur/)".
 
 De ce point de vue, l'ONU semble viser juste en décrétant [2012](http://fr.wikipedia.org/wiki/2012) "[Année internationale de l’énergie durable pour tous](http://energie.24heures.ch/article/2012-ann%C3%A9e-internationale-de-l%C3%A9nergie-durable-pour-tous)", [vaste programme](http://fr.wikipedia.org/wiki/Mort_aux_cons) qui comprend trois "objectifs majeurs" à réaliser d'ici 2030:
 
-1. "Doubler la part des énergies renouvelables dans le mix énergétique mondial", ce qui signifie en clair diviser par 2 le premier facteur de la géniale [équation de Kaya](http://drgoulu.local/2009/06/06/developpement-durable-et-equation-de-kaya/) : [![](images/26034d253a9694cd4b1bfb622091fbe7.gif)](http://drgoulu.local/2009/06/06/developpement-durable-et-equation-de-kaya/)
+1. "Doubler la part des énergies renouvelables dans le mix énergétique mondial", ce qui signifie en clair diviser par 2 le premier facteur de la géniale [équation de Kaya](/2009/06/06/developpement-durable-et-equation-de-kaya/) : [![](images/26034d253a9694cd4b1bfb622091fbe7.gif)](/2009/06/06/developpement-durable-et-equation-de-kaya/)
 2. "Doubler le taux d'amélioration de l'efficacité énergétique". C'est moins clair, mais si j'ai bien compris, on veut diviser par 2 aussi le 2ème facteur.
 3. "Assurer l'accès universel aux services énergétiques modernes". Ce louable objectif est en fait un moyen d'assurer un niveau de vie équitable aux humains, et comme les Indiens, les Chinois et les Africains ont plus envie d'imiter notre mode de vie que nous le leur (et en plus ils sont démocratiquement majoritaires...),  ça revient grosso-modo à quadrupler le 3ème facteur.
 
@@ -25,7 +26,7 @@ La solution onusienne à l'équation de Kaya consiste donc, d'ici 2030, et en su
 
 1. à quadrupler le PIB mondial pour satisfaire l'objectif 3. Ca revient à une croissance économique moyenne de 8 % par an pour les prochaines 18 années. "Optimiste" diront certains.
 2. à doubler la production d'énergie TEP pour satisfaire l'objectif 2. Ca correspond pas mal aux [prévisions](http://fr.wikipedia.org/wiki/Ressources_et_consommation_%C3%A9nerg%C3%A9tiques_mondiales).
-3. à doubler cette production en ne recourant pratiquement qu'aux énergies renouvelables pour satisfaire l'objectif 1. Là on nage en plein océan [utopique](http://drgoulu.local/2009/11/08/copenhague-shut-up-and-calculate/)...
+3. à doubler cette production en ne recourant pratiquement qu'aux énergies renouvelables pour satisfaire l'objectif 1. Là on nage en plein océan [utopique](/2009/11/08/copenhague-shut-up-and-calculate/)...
 
 Rappelez-vous qu'ériger une éolienne ou poser un panneau solaire ne fait que produire un peu d'énergie de plus, mais ne réduit pas du tout les émissions de CO2. Pour diminuer les émissions de CO2 il faut supprimer des centrales à charbon, des voitures à essence ou des chauffages à gaz, et on n'en prend pas le chemin.
 
@@ -37,7 +38,7 @@ Ce qui est déjà sur, c'est qu'en 2012 il y aura [5 mercredis en février](http
 
 {{< figure src="images/75e72f9518bb93d7d4030c08d378faca.jpg" alt="Transit de Vénus de 2004 filmé dans l'UV par la NASA (cliquer pour la vidéo)" caption="Transit de Vénus de 2004 filmé dans l'UV par la NASA (cliquer pour la vidéo)" link="http://upload.wikimedia.org/wikipedia/commons/9/94/2004_Venus_transit_UV.ogg" align="aligncenter" width="600" >}}
 
-A part ça, le [nombre 2012 a 101 propriétés](http://oeis.org/search?q=seq%3A2012), ce qui le classe dans le [haut de la bande des faiblement minéralisés](http://drgoulu.local/2009/04/18/nombres-mineralises/). Parmi ces propriétés j'ai été intrigué par celle de la "[séquence des cure-dents E](http://oeis.org/A161328)". Elle est définie par le nombre de pièces en "E" disposés à chaque étape du processus itératif représenté sur la figure ci-dessous :
+A part ça, le [nombre 2012 a 101 propriétés](http://oeis.org/search?q=seq%3A2012), ce qui le classe dans le [haut de la bande des faiblement minéralisés](/2009/04/18/nombres-mineralises/). Parmi ces propriétés j'ai été intrigué par celle de la "[séquence des cure-dents E](http://oeis.org/A161328)". Elle est définie par le nombre de pièces en "E" disposés à chaque étape du processus itératif représenté sur la figure ci-dessous :
 
 {{< figure src="images/tootpickE.png" alt="tootpickE" caption="illustration des premiers termes de la séquence A161328 : 1, 4, 9, 16, 29, ... 2012 est le 42ème terme" link="http://www.polprimos.com/imagenespub/poltp120.jpg" align="aligncenter" width="579" >}}
 

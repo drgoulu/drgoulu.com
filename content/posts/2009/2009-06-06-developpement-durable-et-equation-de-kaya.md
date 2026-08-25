@@ -1,5 +1,6 @@
 ---
 title: "Développement Durable et Equation de Kaya"
+slug: "developpement-durable-et-equation-de-kaya"
 date: 2009-06-06
 categories: 
   - "cat3"
@@ -17,9 +18,9 @@ Le responsable "santé+sécurité+environnement" de mon employeur nous a présen
 
 ![](images/cf3880ab37a5ed8c29bd2c8815d2c09b.png)J'ai trouvé très judicieux d'intégrer ainsi le développement durable aux logiques économique et sociale plutôt que de le promouvoir dans un cadre purement écologiste.
 
-En y réfléchissant, je me demande s'il n'existe pas un parallèle avec la fameuse [équation de Kaya](https://fr.wikipedia.org/wiki/équation_de_Kaya) dont j'ai [déjà parlé ici](http://drgoulu.local/2009/02/15/manicore/) et que je rappelle ci-dessous :
+En y réfléchissant, je me demande s'il n'existe pas un parallèle avec la fameuse [équation de Kaya](https://fr.wikipedia.org/wiki/équation_de_Kaya) dont j'ai [déjà parlé ici](/2009/02/15/manicore/) et que je rappelle ci-dessous :
 
-[![source : Manicore](images/kaya.gif)](http://drgoulu.local/wp-content/uploads/2009/06/kaya.gif)
+[![source : Manicore](images/kaya.gif)](/wp-content/uploads/2009/06/kaya.gif)
 
 En effet, minimiser le facteur CO2/TEP représente le souci écologique de limiter la pollution. Réduire TEP/PIB est un objectif économique : rendre la production moins coûteuse en énergie. PIB/POP est lié à l'objectif social de répartir les richesses, si possible plutôt en enrichissant les pauvres que le contraire ...
 

@@ -1,5 +1,6 @@
 ---
 title: "La forme du coeur"
+slug: "la-forme-du-coeur"
 date: 2010-05-24
 categories: 
   - "cat1"
@@ -12,7 +13,7 @@ coverImage: "f71a602177448b1863800a41273dadb5.gif"
 
 Enfin une explication rationnelle de la forme du cœur. Pas celle de l'organe mais celle du symbole de l'amour, celle que les filles aiment en bijou, les  garçons en gâteau et qui ne ressemble que très vaguement à une [illustration anatomique](https://fr.wikipedia.org/wiki/coeur)
 
-{{< figure src="images/f71a602177448b1863800a41273dadb5.gif" alt="cyree_coin" caption="Symbole de l'amour : la graine de silphium sur une pièce d'argent de 700 av JC" link="http://drgoulu.local//HLIC/f71a602177448b1863800a41273dadb5.gif" align="alignright" width="200" >}}
+{{< figure src="images/f71a602177448b1863800a41273dadb5.gif" alt="cyree_coin" caption="Symbole de l'amour : la graine de silphium sur une pièce d'argent de 700 av JC" link="images/f71a602177448b1863800a41273dadb5.gif" align="alignright" width="200" >}}
 
 Une des représentations les plus anciennes de ce symbole figure sur les pièces  en argent de [Cyrène](https://fr.wikipedia.org/wiki/Cyrène) datant de 700 av JC et représente des graines de [silphium](https://fr.wikipedia.org/wiki/silphium). Cette plante de la famille de la [férule](https://fr.wikipedia.org/wiki/férule_commune) aujourd'hui disparue ne poussait que dans cette région de la Libye actuelle et était l'un de ses principaux produits, cité dans plusieurs textes anciens. Certains historiens vont jusqu'à penser que cette plante a justifié à elle seule la colonisation et la fondation de Cyrène par les Grecs.
 

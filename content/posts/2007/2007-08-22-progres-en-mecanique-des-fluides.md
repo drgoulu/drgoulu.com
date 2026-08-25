@@ -1,5 +1,6 @@
 ---
 title: "Progrès en mécanique des fluides"
+slug: "progres-en-mecanique-des-fluides"
 date: 2007-08-22
 categories: 
   - "non-classe"
@@ -25,7 +26,7 @@ Difficile parce que les [équations de Navier-Stokes](https://fr.wikipedia.org/w
     {{< youtube id="9I_gLiqLQHQ" width="480" >}}
     
     voir aussi cette [les vidéos sur cette page](http://www.liquiddragon.com/tech.php)
-2. Keenan Crane a écrit un [solveur des équations Navier-Stokes 3D tournant entièrement sur le GPU](http://www.cs.columbia.edu/~keenan/Projects/GPUFluid/) (voir « [GPUs et physique](http://drgoulu.local/2007/05/19/gpus-et-physique/)« ), permettant de réaliser des animations réalistes, basées sur la physique, d’eau et de fumée en temps réel !
+2. Keenan Crane a écrit un [solveur des équations Navier-Stokes 3D tournant entièrement sur le GPU](http://www.cs.columbia.edu/~keenan/Projects/GPUFluid/) (voir « [GPUs et physique](/2007/05/19/gpus-et-physique/)« ), permettant de réaliser des animations réalistes, basées sur la physique, d’eau et de fumée en temps réel !
     
     {{< figure src="images/teaser.png" alt="Cliquer pour une page avec vidéos" caption="Cliquer pour une page avec vidéos" link="http://www.cs.columbia.edu/~keenan/Projects/GPUFluid/" align="aligncenter" width="572" >}}
 3. [Penny Smith](http://comet.lehman.cuny.edu/sormani/others/smith.html), une mathématicienne géniale pourrait bien avoir [gagné 1 million de dollars en ayant résolu l’un des « problèmes du millénaire »](http://www.projets.ch/goulu/?p=184) : trouver une solution aux équations de Navier-Stokes ! Si quelqu’un parvient à corriger ou contourner des erreurs trouvées dans des résultats précédents sur lesquelles elle s’est basée, on pourrait bientôt voir apparaitre de nouvelles méthodes de calcul beaucoup plus rapides. Voir:

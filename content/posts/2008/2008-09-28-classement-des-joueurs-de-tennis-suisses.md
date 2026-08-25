@@ -1,5 +1,6 @@
 ---
 title: "Classement des Joueurs de Tennis (suisses)"
+slug: "classement-des-joueurs-de-tennis-suisses"
 date: 2008-09-28
 categories: 
   - "cat3"
@@ -10,7 +11,7 @@ tags:
 coverImage: "balle_de_tennis_classement-tennis.png"
 ---
 
-![](images/balle_de_tennis_classement-tennis.png)Dans les commentaire de l'article "[Le comptage des points au tennis](http://drgoulu.local/2008/05/12/le-comptage-des-points-au-tennis/)", un [jeune joueur](http://drgoulu.local/2008/05/12/le-comptage-des-points-au-tennis/#comment-2763) m'a soumis un joli casse-tête : le [règlement de swisstennis sur le classement](http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fwww.swisstennis.ch%2Fupload%2Fdocs%2Fpro_tennis%2F2010_Klassierungsrichtlinien_f.pdf) des tennis(wo)man à croix blanche. Il semblerait que ceux qui n'ont pas de bonnes bases en maths (\*) aient un peu de peine à le comprendre, et c'est vrai que c'est le premier règlement sportif dans lequel je vois des formules de ce genre :
+![](images/balle_de_tennis_classement-tennis.png)Dans les commentaire de l'article "[Le comptage des points au tennis](/2008/05/12/le-comptage-des-points-au-tennis/)", un [jeune joueur](/2008/05/12/le-comptage-des-points-au-tennis/#comment-2763) m'a soumis un joli casse-tête : le [règlement de swisstennis sur le classement](http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fwww.swisstennis.ch%2Fupload%2Fdocs%2Fpro_tennis%2F2010_Klassierungsrichtlinien_f.pdf) des tennis(wo)man à croix blanche. Il semblerait que ceux qui n'ont pas de bonnes bases en maths (\*) aient un peu de peine à le comprendre, et c'est vrai que c'est le premier règlement sportif dans lequel je vois des formules de ce genre :
 
 \[latex\]W=\\frac{1}{2}\\left(\\ln(\\sum\\limits\_{i=1}^S{e^{W\_i}+e^{W\_0}})-\\ln(\\sum\\limits\_{j=1}^N{e^{-W\_j}+e^{-W\_0}})\\right)\[/latex\]
 
@@ -30,7 +31,7 @@ en utilisant la grosse formule ci-dessus ainsi:
 
 Simplifions tout ça en imaginant que [Roger Federer](https://fr.wikipedia.org/wiki/Roger_Federer) , qui a un W=17.394 au moment de la rédaction de cet article, et notre jeune joueur qui en est à W=0.892 ne jouent qu'un seul match en 2009, dans lequel ils s'affrontent dans un duel sans pitié. Ainsi les sommes notées avec le \\(\\sum\\) ne correspondent qu'au seul adversaire affronté, soit comme vaincu soit comme vainqueur.
 
-Il est [très probable](http://drgoulu.local/2008/05/12/le-comptage-des-points-au-tennis/) que Federer gagne. Dans ce cas, selon la formule, son nouveau W vaudra \\( W = (\\ln(e^{17.394}+e^{0.892}) - \\ln(e^{-17.394}))/2 = 17.394000034 \\). La magie des fonctions exponentielles et logarithmiques permet de traduire en mathématiques le Cid : "A vaincre sans péril, on triomphe sans gloire" : le classement du no.1 ne s'améliorerait pas.
+Il est [très probable](/2008/05/12/le-comptage-des-points-au-tennis/) que Federer gagne. Dans ce cas, selon la formule, son nouveau W vaudra \\( W = (\\ln(e^{17.394}+e^{0.892}) - \\ln(e^{-17.394}))/2 = 17.394000034 \\). La magie des fonctions exponentielles et logarithmiques permet de traduire en mathématiques le Cid : "A vaincre sans péril, on triomphe sans gloire" : le classement du no.1 ne s'améliorerait pas.
 
 Quant à notre jeune joueur, après sa défaite son W passerait à \\(W=(\\ln({e^{0.892}}) - \\ln({e^{-0.892} + e^{-17.394}}))/2 = 0.891999966\\), donc resterait inchangé après arrondi au millième.
 

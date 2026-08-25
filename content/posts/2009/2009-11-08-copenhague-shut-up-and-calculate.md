@@ -1,5 +1,6 @@
 ---
 title: "Copenhague : Shut up and calculate*"
+slug: "copenhague-shut-up-and-calculate"
 date: 2009-11-08
 categories: 
   - "cat3"
@@ -15,12 +16,12 @@ coverImage: "55c1b94ac77688257c532bc578a2b1d1.jpg"
 
 {{< figure src="images/4e1db3e6637eb11d7b9da061686bee24.jpg" alt="Little Professor par draggin sur flickr" caption="Little Professor par draggin sur flickr" link="http://www.flickr.com/photos/draggin/15223525/" align="alignright" width="160" >}}
 
-Soyons fous : à [Copenhague](http://www.copenhague-2009.com/), adoptons la "[société à 2ooo watts](http://drgoulu.local/2009/05/02/pourquoi-seulement-2000-watts/)". Divisons la consommation d'énergie de l'Europe par 3, persuadons Obama de réduire celle des USA d'un facteur 6 et la Chine de stopper la croissance de la sienne pour que le monde entier se retrouve à la moyenne actuelle de sa consommation d'énergie, mais propre.
+Soyons fous : à [Copenhague](http://www.copenhague-2009.com/), adoptons la "[société à 2ooo watts](/2009/05/02/pourquoi-seulement-2000-watts/)". Divisons la consommation d'énergie de l'Europe par 3, persuadons Obama de réduire celle des USA d'un facteur 6 et la Chine de stopper la croissance de la sienne pour que le monde entier se retrouve à la moyenne actuelle de sa consommation d'énergie, mais propre.
 
 ### Un petit calcul sur la Suisse pour commencer :
 
 - 7.5 millions d'habitants à 2000 W, ça donne une puissance de 15 Gigawatt à produire en continu.
-- [15 GW x 8766 heures](http://drgoulu.local/2009/08/26/le-groupe-e-promet-2000-francs-par-kwh-de-puissance-installes/) donnent 141.5 [Terawattheure](http://fr.wikipedia.org/wiki/T%C3%A9rawattheure) (TWh) d'énergie à produire annuellement.
+- [15 GW x 8766 heures](/2009/08/26/le-groupe-e-promet-2000-francs-par-kwh-de-puissance-installes/) donnent 141.5 [Terawattheure](http://fr.wikipedia.org/wiki/T%C3%A9rawattheure) (TWh) d'énergie à produire annuellement.
 - Nos barrages produisent 42.3 TWh
 - Les plans les plus optimistes pour le solaire+éolien prévoient 10 TWh en 2050. Dans le meilleur des cas, les énergies renouvelables couvriront donc  30% de nos besoins réduits d'un facteur 3 ...
 - Heureusement, la société à 2000W nous permet tout de même 25% d'énergies fossiles, soit 36 TWh au maximum.

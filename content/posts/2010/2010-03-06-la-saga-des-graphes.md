@@ -1,5 +1,6 @@
 ---
 title: "La  saga des graphes"
+slug: "la-saga-des-graphes"
 date: 2010-03-06
 categories: 
   - "cat2"
@@ -11,7 +12,7 @@ tags:
 coverImage: "19aab911f31dc5631223df29f0afbdab.png"
 ---
 
-Découvert grâce à Patric quelques [petits jeux intelligents](http://drgoulu.local/2009/12/19/petits-jeux-intelligents/) de plus : la [saga des graphes de Neamar](http://neamar.fr/Res/Graphe/). 3 jeux en Flash attendent impatiemment vos neurones :
+Découvert grâce à Patric quelques [petits jeux intelligents](/2009/12/19/petits-jeux-intelligents/) de plus : la [saga des graphes de Neamar](http://neamar.fr/Res/Graphe/). 3 jeux en Flash attendent impatiemment vos neurones :
 
 {{< figure src="images/19aab911f31dc5631223df29f0afbdab.png" alt="AGraphe" caption="AGraphe" link="http://neamar.fr/Res/AGraphe/" align="aligncenter" width="300" >}}
 

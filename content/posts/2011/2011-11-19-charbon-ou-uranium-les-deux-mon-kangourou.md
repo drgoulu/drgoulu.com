@@ -1,5 +1,6 @@
 ---
 title: "Charbon ou Uranium ? Les deux, mon kangourou !"
+slug: "charbon-ou-uranium-les-deux-mon-kangourou"
 date: 2011-11-19
 categories: 
   - "cat3"
@@ -15,9 +16,9 @@ coverImage: "9694e8421356d58466dc97ffd670410e-1.jpg"
 
 Ainsi donc, le [gouvernement Australien vient d'instituer une taxe carbone](http://www.lefigaro.fr/flash-actu/2011/11/08/97001-20111108FILWWW00333-la-taxe-carbone-adoptee-en-australie.php). Le pays est le 16ème émetteur de CO2 de la planète, et [le 11ème par habitant](http://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita), en bonne partie car 85% de l'électricité y est produite par des centrales thermiques au charbon. Elles n'utilisent pourtant qu'une petite partie des énormes quantités de charbon extraites par l'Australie, dont 75% sont exportés en Asie, principalement au Japon, en Corée, à Taïwan, et même en Chine \[1,2\].
 
-De fait, l'Australie est le plus grand exportateur de charbon du monde, un secteur employant environ 150'000 personnes, \[3\] nombre suffisant pour que les politiques se donnent la peine de rassurer, minimisant l'impact de la taxe carbone sur les emplois. Un petit calcul : puisqu'une centrale au charbon dégage environ 1 tonne de CO2 par MWh produit \[4\], la taxe renchérira l'électricité australienne, une des [meilleur marché du monde](http://fr.wikipedia.org/wiki/Tarification_de_l'%C3%A9lectricit%C3%A9#Tarifs_entreprises), de 1,7 centimes d'euro seulement. Mais surtout, cette taxe est inférieure de moitié aux coûts des solutions de [captage du CO2](http://drgoulu.local/2008/08/01/stockage-du-co2-reve-et-realite/) \[5\] qui étaient jusqu'ici favorisées par le programme "Clean Coal" de l'Australie \[6\].
+De fait, l'Australie est le plus grand exportateur de charbon du monde, un secteur employant environ 150'000 personnes, \[3\] nombre suffisant pour que les politiques se donnent la peine de rassurer, minimisant l'impact de la taxe carbone sur les emplois. Un petit calcul : puisqu'une centrale au charbon dégage environ 1 tonne de CO2 par MWh produit \[4\], la taxe renchérira l'électricité australienne, une des [meilleur marché du monde](http://fr.wikipedia.org/wiki/Tarification_de_l'%C3%A9lectricit%C3%A9#Tarifs_entreprises), de 1,7 centimes d'euro seulement. Mais surtout, cette taxe est inférieure de moitié aux coûts des solutions de [captage du CO2](/2008/08/01/stockage-du-co2-reve-et-realite/) \[5\] qui étaient jusqu'ici favorisées par le programme "Clean Coal" de l'Australie \[6\].
 
-[Comme le montre J.M. Jancovici](http://www.manicore.com/documentation/serre/taxe_C.html) \[7\] sur [Manicore](http://drgoulu.local/2009/02/15/manicore/) (en faveur d'une taxe de l'ordre de 1500 Euros / tonne, 100 fois plus élevée que les taxes carbone introduites jusqu'ici...), une faible taxe n'a aucun effet. Je le rejoins là dessus : des taxes si faibles ne sont que des impôts qui dédouanent les émetteurs de CO2 : "Je paie pour mes émissions, pourquoi devrais-je investir plus pour les éviter ?". Même avec une taxe carbone à l'australienne, le charbon reste d'assez loin la source d'énergie la meilleur marché.
+[Comme le montre J.M. Jancovici](http://www.manicore.com/documentation/serre/taxe_C.html) \[7\] sur [Manicore](/2009/02/15/manicore/) (en faveur d'une taxe de l'ordre de 1500 Euros / tonne, 100 fois plus élevée que les taxes carbone introduites jusqu'ici...), une faible taxe n'a aucun effet. Je le rejoins là dessus : des taxes si faibles ne sont que des impôts qui dédouanent les émetteurs de CO2 : "Je paie pour mes émissions, pourquoi devrais-je investir plus pour les éviter ?". Même avec une taxe carbone à l'australienne, le charbon reste d'assez loin la source d'énergie la meilleur marché.
 
 D'après cette magnifique annonce vue il y a quelques temps déjà dans les journaux australiens \[8\], les mineurs de charbon ont une autre crainte : "l'énergie nucléaire tuera l'industrie du charbon".
 
@@ -33,7 +34,7 @@ L'avenir s'annonce donc radieux pour les mineurs australiens, qu'ils piochent da
 
 {{< youtube id="pTkmTsKLRq0" >}}
 
-Et c'est vrai que pour voir ça, j'irais volontiers une fois de plus jusqu'en Australie. Mais pour l'énergie, c'est de plus en plus certain : on [brûlera tout](http://drgoulu.local/2004/06/29/on-brulera-tout/), [vraiment tout](http://drgoulu.local/2007/05/25/on-brulera-vraiment-tout/). Uranium compris. Peut-être pas en Europe, mais d'autres le feront, et nous vendront les produits faits avec de l'énergie moins chère que chez nous.
+Et c'est vrai que pour voir ça, j'irais volontiers une fois de plus jusqu'en Australie. Mais pour l'énergie, c'est de plus en plus certain : on [brûlera tout](/2004/06/29/on-brulera-tout/), [vraiment tout](/2007/05/25/on-brulera-vraiment-tout/). Uranium compris. Peut-être pas en Europe, mais d'autres le feront, et nous vendront les produits faits avec de l'énergie moins chère que chez nous.
 
 ### Sources:
 

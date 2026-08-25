@@ -1,5 +1,6 @@
 ---
 title: "Eskimo Nebula"
+slug: "eskimo-nebula"
 date: 2007-02-18
 categories: 
   - "non-classe"

@@ -1,5 +1,6 @@
 ---
 title: "La fonction dont la réciproque est sa dérivée"
+slug: "fonction-dont-reciproque-derivee"
 date: 2018-03-11
 categories: 
   - "cat1"
@@ -28,7 +29,7 @@ Là dessus [Quentin Canu](https://fr.quora.com/profile/Quentin-Canu) passe la 
 
 $latex \\Large f (x) = \\left(\\frac{1}{\\varphi}\\right)^\\frac{1}{\\varphi} x^\\varphi$
 
-définie de $latex \\mathbb R^+$ dans $latex \\mathbb R^+$, où $latex \\varphi = \\frac{1+\\sqrt 5}{2}$ est le [fameux](http://drgoulu.local/2016/07/03/nombre-dor-et-abeilles/#.WqUeWOghKCo) [nombre d’or](https://fr.wikipedia.org/wiki/nombre_d’or) !
+définie de $latex \\mathbb R^+$ dans $latex \\mathbb R^+$, où $latex \\varphi = \\frac{1+\\sqrt 5}{2}$ est le [fameux](/2016/07/03/nombre-dor-et-abeilles/#.WqUeWOghKCo) [nombre d’or](https://fr.wikipedia.org/wiki/nombre_d’or) !
 
 On a bien $latex g(x) = \\varphi^{\\frac{1}{\\varphi}^2}y^\\frac{1}{\\varphi}$, et  $latex f'(x) = (\\frac{1}{\\varphi})^\\frac{1}{\\varphi}\\varphi x^{\\varphi-1} = \\varphi^\\frac{\\varphi-1}{\\varphi} x^{\\varphi-1}$
 

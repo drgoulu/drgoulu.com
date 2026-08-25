@@ -1,5 +1,6 @@
 ---
 title: "Photos de Science"
+slug: "photos-de-science"
 date: 2008-06-28
 categories: 
   - "non-classe"

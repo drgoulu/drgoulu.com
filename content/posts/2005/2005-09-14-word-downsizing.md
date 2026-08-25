@@ -1,5 +1,6 @@
 ---
 title: "Word Downsizing"
+slug: "word-downsizing"
 date: 2005-09-14
 categories: 
   - "non-classe"
@@ -9,7 +10,7 @@ tags:
 
 J’avais vu sur [ce super site](http://www.puzzles.com/PuzzleHelp/WordDownsizing/WordDownsizing.htm) un casse-tête intéressant : trouver un mot (anglais) de 8 lettres tel qu’en enlevant une lettre on obtienne un mot de 7 lettres correct, auquel en enlevant une lettre on tombe sur un mot anglais de 6 lettres également correct et ainsi de suite jusqu’à 1 lettre...
 
-Je me suis mis à écrire le programme [DicoLib](http://drgoulu.local/2005/09/14/dicolib/) qui m’a permis de trouver de nombreuses solutions, parmi lesquelles :
+Je me suis mis à écrire le programme [DicoLib](/2005/09/14/dicolib/) qui m’a permis de trouver de nombreuses solutions, parmi lesquelles :
 
 - replanted, replated, related, elated, elate, late, ate, at, a
 - restarted, restated, restate, estate, state, sate, ate, at, a

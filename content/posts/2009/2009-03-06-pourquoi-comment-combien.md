@@ -1,5 +1,6 @@
 ---
 title: "Pourquoi Comment Combien"
+slug: "pourquoi-comment-combien"
 date: 2009-03-06
 categories: 
   - "cat3"
@@ -9,6 +10,9 @@ tags:
   - "internet"
   - "science"
 coverImage: "66c4da1350e8b51f59951038ec838416.jpg"
+
+aliases:
+  - "/2009/03/07/pourquoi-comment-combien/"
 ---
 
 Pendant deux ans, ce blog était sous-titré "penser différemment", un peu dans le sens de cette fameuse pub d'Apple:
@@ -17,7 +21,7 @@ Pendant deux ans, ce blog était sous-titré "penser différemment", un peu dans
 
 Depuis que Dr. Goulu a rejoint le [C@fé des Sciences](http://www.cafe-sciences.org/), je cherchais un nouveau slogan de couleur plus scientifique, tout en restant dans l'esprit critique face aux idées reçues. Ce sera "Pourquoi Comment Combien", en souvenir d'un excellent prof de management qui avait dit en substance:
 
-- ![point-dinterrogation](images/8984c5d78ea06baf1cb55c60cf696400.jpg "point-dinterrogation")Les questions des scientifiques commencent par "[pourquoi](http://drgoulu.local/2009/01/04/pourquoi-pour-quoi/)",
+- ![point-dinterrogation](images/8984c5d78ea06baf1cb55c60cf696400.jpg "point-dinterrogation")Les questions des scientifiques commencent par "[pourquoi](/2009/01/04/pourquoi-pour-quoi/)",
 - les techniciens se demandent "comment",
 - les questions des managers commencent par "combien".
 - pour que tout marche bien, il faut répondre aux 3 questions.

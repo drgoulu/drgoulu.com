@@ -1,5 +1,6 @@
 ---
 title: "Eclogite et Archimède"
+slug: "eclogite-et-archimede"
 date: 2013-08-14
 categories: 
   - "cat2"
@@ -29,7 +30,7 @@ Oui mais bon, vaut-il vraiment la peine d'utiliser de la jolie éclogite à 3.2 
 
 La réponse est oui, car la [poussée d'Archimède](http://fr.wikipedia.org/wiki/Pouss%C3%A9e_d%27Archim%C3%A8de) fait fortement varier le [poids apparent](http://fr.wikipedia.org/wiki/Poids#Poids_apparent) dans l'eau des corps immergés en fonction de leur densité. Dans le cas qui nous occupe, la densité de l'éclogite supérieure de 20% à celle du granit fait qu'il en faut deux fois moins (en kg) que du granit pour exercer la même force au fond de la mer, comme le montrent un petit calcul et ce graphique [[5]](#ref-5):
 
-[![Capture](images/Capture.png)](http://drgoulu.local/wp-content/uploads/2013/08/Capture.png)
+[![Capture](images/Capture.png)](/wp-content/uploads/2013/08/Capture.png)
 
 La carrière de [Visnes](http://en.wikipedia.org/wiki/Visnes,_M%C3%B8re_og_Romsdal) ayant le bon goût de se situer non loin des importantes installations pétrolières de Norvège et de Mer du Nord, nul doute que ses quelques millions de tonnes d'éclogite se retrouveront bientôt au fond de la mer...
 

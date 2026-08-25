@@ -1,5 +1,6 @@
 ---
 title: "Fusion thermonucléaire amusante"
+slug: "fusion-thermonucleaire-amusante"
 date: 2016-03-08
 categories: 
   - "cat2"
@@ -12,7 +13,7 @@ coverImage: "2016-03-08_203842.png"
 
 {{< figure src="images/2016-03-08_203842.png" alt="2016-03-08_203842" caption="cliquez pour jouer en ligne !" link="http://dimit.me/Fe26/" align="alignleft" width="360" >}}
 
-Grâce à [cet article sur la fusion](http://www.internetactu.net/2016/03/08/contre-leffondrement-67-quel-avenir-pour-la-fusion-nucleaire/), je viens de découvrir une variante addictive et nucléaire du fameux [jeu 2048](http://drgoulu.local/2014/04/09/bits-en-vrac/) à la mode il y a deux ans : [Fe\[26\]](http://dimit.me/Fe26/).
+Grâce à [cet article sur la fusion](http://www.internetactu.net/2016/03/08/contre-leffondrement-67-quel-avenir-pour-la-fusion-nucleaire/), je viens de découvrir une variante addictive et nucléaire du fameux [jeu 2048](/2014/04/09/bits-en-vrac/) à la mode il y a deux ans : [Fe\[26\]](http://dimit.me/Fe26/).
 
 Ce jeu permet de se familiariser avec la [nucléosynthèse stellaire](https://fr.wikipedia.org/wiki/nucléosynthèse_stellaire) : il s'agit de provoquer la [fusion nucléaire](https://fr.wikipedia.org/wiki/fusion_nucléaire) d'atomes de plus en plus lourds à partir de l'Hydrogène, jusqu'à fabriquer un atome de [Fer](https://fr.wikipedia.org/wiki/Fer)
 
@@ -28,4 +29,4 @@ Comme le disent les auteurs [Dimitar Dimitrov](http://dimit.me/) et [Kevin O'C
 
 Je trouve très intéressante cette combinaison d'une interface utilisateur ultra-simple avec un processus physique pas intuitif du tout. Le résultat est vraiment prenant (je n'ai pas encore gagné ...) Je ne sais pas si les joueurs apprennent véritablement quelque chose sur la nucléosynthèse, mais peut-être que ce jeu peut générer de l'intérêt pour ce mécanisme fondamental de l'Univers.
 
-Accessoirement je vais regarder [le code](https://github.com/Newbrict/Fe26) de plus près, car j'ai toujours en réserve l'idée d'un jeu sur la [transmutation du plomb en or](http://drgoulu.local/2013/03/15/comment-transformer-le-plomb-en-or/) qui pourrait s'inspirer de Fe\[26\]. S'il y a un programmeur JavaScript intéressé à collaborer dans la salle...
+Accessoirement je vais regarder [le code](https://github.com/Newbrict/Fe26) de plus près, car j'ai toujours en réserve l'idée d'un jeu sur la [transmutation du plomb en or](/2013/03/15/comment-transformer-le-plomb-en-or/) qui pourrait s'inspirer de Fe\[26\]. S'il y a un programmeur JavaScript intéressé à collaborer dans la salle...

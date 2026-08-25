@@ -1,5 +1,6 @@
 ---
 title: "Trop-plein de Mai"
+slug: "trop-plein-de-mai"
 date: 2014-05-28
 categories: 
   - "cat3"
@@ -38,7 +39,7 @@ Autres référence trouvée sur [ce forum](http://www.chassimages.com/forum/inde
 
 - ANSES "[Systèmes d’éclairage utilisant des diodes électroluminescentes : des effets sanitaires à prendre en compte](http://www.afssa.fr/Documents/PRES2010CPA14.pdf)", 2010, Dossier de presse ANSES
 
-## [![falling cat](images/falling-cat-226x300.jpg)](http://drgoulu.local/wp-content/uploads/2014/05/falling-cat.jpg)Une explication dynamique du phénomène de la chute du chat
+## [![falling cat](images/falling-cat-226x300.jpg)](/wp-content/uploads/2014/05/falling-cat.jpg)Une explication dynamique du phénomène de la chute du chat
 
 Suite d'une discussion à la pause café, retrouvé un article de légende :
 

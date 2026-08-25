@@ -1,5 +1,6 @@
 ---
 title: "&quot;Le Groupe E promet 2000 francs par kw/h de puissance installés&quot;"
+slug: "le-groupe-e-promet-2000-francs-par-kwh-de-puissance-installes"
 date: 2009-08-26
 categories: 
   - "cat3"
@@ -21,11 +22,11 @@ Commençons par la version "_Le Groupe E promet 2000 francs par kilowattheure_" 
 
 La seconde version entendue ce matin était "_Le Groupe E promet 2000 francs par_ _kilowattheure_ _de puissance installée_". Ici nous avons affaire à la sempiternelle confusion entre [énergie et puissance](http://fr.wikipedia.org/wiki/%C3%89nergie#.C3.89nergie_et_puissance) répétée à l'envi par les journalistes qui dormaient pendant leurs cours de physique. Allez, on répète encore une fois : un moteur, un aspirateur, une turbine, une éolienne ou un panneau solaire éclairé, ça consomme ou fournit une [puissance](http://fr.wikipedia.org/wiki/Puissance_%28physique%29) électrique mesurée en [Watts](http://fr.wikipedia.org/wiki/Watt) (avec un W majuscule en l'honneur de James Watt), et cette puissance "accumulée" au cours du temps représente une énergie. L'énergie se mesure en Joules ou en [kilowattheure](http://fr.wikipedia.org/wiki/Kilowatt-heure) (noté kWh : kilo=1000, fois 1 Watt, fois 1 heure)
 
-La version écrite est la pire, puisqu'elle abrévie le [kilowattheure](http://fr.wikipedia.org/wiki/Kilowatt-heure) "kw/h". Argh! Horreur suprême démontrant la totale [inculture scientifique](http://drgoulu.local/2009/03/14/inculture-scientifique/) du journaliste : la barre oblique indique une division, or une puissance en kW divisée par une heure, ça donne une unité physique étrange, mais certainement pas une énergie! L'énergie, c'est une puissance **multipliée** par un temps.
+La version écrite est la pire, puisqu'elle abrévie le [kilowattheure](http://fr.wikipedia.org/wiki/Kilowatt-heure) "kw/h". Argh! Horreur suprême démontrant la totale [inculture scientifique](/2009/03/14/inculture-scientifique/) du journaliste : la barre oblique indique une division, or une puissance en kW divisée par une heure, ça donne une unité physique étrange, mais certainement pas une énergie! L'énergie, c'est une puissance **multipliée** par un temps.
 
 Reste la faute d'accord de "installés", puisque c'est bien la puissance installée, représentant la capacité de production instantanée de l'installation en plein soleil qui est ainsi encouragée.
 
-Mais que représente cet encouragement? Il faut grosso-modo 10 m² de panneaux pour obtenir une puissance d' 1kW à midi un jour d'été ensoleillé, et selon la [carte du rendement](http://drgoulu.local/2007/08/26/energie-eolienne-et-solaire-a-prix-coutant/), ces 10 m² produiront environ 1250  kWh d'électricité par an en Suisse. L'encouragement du groupe E correspond donc à environ 10 centimes par kWh produit pendant la durée de vie de cette installation, sachant que cette énergie est déjà [largement subventionnée](http://drgoulu.local/2007/08/26/energie-eolienne-et-solaire-a-prix-coutant/) à raison de plusieurs dizaines de centimes par kWh.
+Mais que représente cet encouragement? Il faut grosso-modo 10 m² de panneaux pour obtenir une puissance d' 1kW à midi un jour d'été ensoleillé, et selon la [carte du rendement](/2007/08/26/energie-eolienne-et-solaire-a-prix-coutant/), ces 10 m² produiront environ 1250  kWh d'électricité par an en Suisse. L'encouragement du groupe E correspond donc à environ 10 centimes par kWh produit pendant la durée de vie de cette installation, sachant que cette énergie est déjà [largement subventionnée](/2007/08/26/energie-eolienne-et-solaire-a-prix-coutant/) à raison de plusieurs dizaines de centimes par kWh.
 
 _(suite ajoutée le 27.6.2009:)_
 

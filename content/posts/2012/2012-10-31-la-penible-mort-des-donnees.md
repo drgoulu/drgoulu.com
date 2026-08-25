@@ -1,5 +1,6 @@
 ---
 title: "La pénible mort des données"
+slug: "la-penible-mort-des-donnees"
 date: 2012-10-31
 categories: 
   - "cat2"
@@ -51,7 +52,7 @@ Or tant que tous les clones d'une donnée n'ont pas été écrasés, voire broy�
 
 - En RAM, des programmes mal fichus peuvent continuer à utiliser des [pointeurs](https://fr.wikipedia.org/wiki/pointeur_(programmation)) vers des données tuées, voire les ressusciter en les copiant à un emplacement valide.
 - Sur disque, des [programmes spéciaux](http://pcsupport.about.com/od/filerecovery/tp/free-file-recovery-programs.htm) peuvent "dés-effacer" des fichiers.
-- Sur internet, on peut retrouver une page effacée dans le [cache des moteurs de recherche](http://webcache.googleusercontent.com/search?q=cache:drgoulu.com) ou sur un [site d'archives](http://wayback.archive.org/web/*/http://drgoulu.local) par exemple. Et la republier.
+- Sur internet, on peut retrouver une page effacée dans le [cache des moteurs de recherche](http://webcache.googleusercontent.com/search?q=cache:drgoulu.com) ou sur un [site d'archives](http://wayback.archive.org/web/*//) par exemple. Et la republier.
 - Et toute donnée ayant au moins une copie de sécurité (n'est-ce pas ?), une catastrophe peut paradoxalement rendre la vie à des données effacées après la création de la copie...
 
 ## L'Écran Bleu de la Mort
@@ -88,7 +89,7 @@ En RAM, l'utilisation de références adaptées et la vitesse de copie de la mé
 
 ## Les données doivent-elles mourir ?
 
-Supprimer des données est une opération dangereuse et complexe. Elle est à peu près maîtrisée en RAM, où elle est indispensable. Mais sur disque dur et dans le nuage internet où la mémoire est extrêmement bon marché, répliquée et difficilement réutilisable, la solution la plus simple, fiable et efficace consiste à ne pas tuer les données, ou du moins ne pas les écraser. En fait il suffit souvent de les laisser se momifier : lorsque toutes les références vers une donnée auront disparu ou seront elles aussi momifiées, la donnée sera perdue dans la gigantesque [mémoire de la Machine](http://drgoulu.local/2008/11/29/les-dimensions-de-la-machine/) presque aussi surement que si elle avait été effacée : il n'y aura plus moyen de la retrouver.
+Supprimer des données est une opération dangereuse et complexe. Elle est à peu près maîtrisée en RAM, où elle est indispensable. Mais sur disque dur et dans le nuage internet où la mémoire est extrêmement bon marché, répliquée et difficilement réutilisable, la solution la plus simple, fiable et efficace consiste à ne pas tuer les données, ou du moins ne pas les écraser. En fait il suffit souvent de les laisser se momifier : lorsque toutes les références vers une donnée auront disparu ou seront elles aussi momifiées, la donnée sera perdue dans la gigantesque [mémoire de la Machine](/2008/11/29/les-dimensions-de-la-machine/) presque aussi surement que si elle avait été effacée : il n'y aura plus moyen de la retrouver.
 
 C'est apparemment cette approche par momification qu'avaient choisi Facebook et Flickr pour "effacer" les photos. Selon [cet article](http://www.petapixel.com/2010/10/11/facebook-has-a-zombie-photo-problem/), il fallait entre quelques minutes et quatre mois environ pour que toutes (?) les références à une photo soient supprimées. C'est compréhensible si on considère qu'il peut y en avoir des centaines, voire des milliers sur les comptes Facebook des "amis" de l'auteur de la photo, mais aussi sur des sites externes. En supprimant une photo sur demande d'un utilisateur, Facebook ou Flickr modifient le contenu d'autres utilisateurs, voire d'autres sites, sans leur autorisation, ni même avertissement, ce qui pourrait soulever des problèmes légaux...
 

@@ -1,5 +1,6 @@
 ---
 title: "L’ingénieur est un type qui sait ce qu’il peut négliger"
+slug: "lingenieur-est-un-type-qui-sait-ce-quil-peut-negliger"
 date: 2008-05-28
 categories: 
   - "cat2"
@@ -20,4 +21,4 @@ _(Article copié le 10.3.2013 [depuis mon blog perso](http://goulu.wordpress.co
 
 ### Référence :
 
-1. \[openbook booknumber="ISBN:2880740584" templatenumber="5"\]
+1. {{< openbook booknumber="ISBN:2880740584" templatenumber="5" >}}

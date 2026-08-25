@@ -1,5 +1,6 @@
 ---
 title: "La physique des films &quot;spatiaux&quot;"
+slug: "la-physique-des-films-spatiaux"
 date: 2008-03-17
 categories: 
   - "cat2"
@@ -12,7 +13,7 @@ coverImage: "4632798e3c6dd52dbbfbe8ee82d85e7d1.gif"
 
 [Bad Astronomy](http://blogs.discovermagazine.com/badastronomy/) reprend un sujet du [blog de science fiction io9](http://io9.com/367792/bad-movie-physics-a-report-card) consacré à la physique dans les films dont l'action a lieu dans l'espace, illustré par ce tableau très incomplet des violations des lois de la physique commises dans chacun: (cliquer dessus pour l'agrandir)
 
-[![](images/4632798e3c6dd52dbbfbe8ee82d85e7d.gif)](http://drgoulu.local//HLIC/4632798e3c6dd52dbbfbe8ee82d85e7d.gif)
+[![](images/4632798e3c6dd52dbbfbe8ee82d85e7d.gif)](images/4632798e3c6dd52dbbfbe8ee82d85e7d.gif)
 
 Seuls les films "historiques" comme "Apollo 13" et "l'Etoffe des Héros" respectent parfaitement les lois de la physique spatiale
 
@@ -24,7 +25,7 @@ Deux films s'en sortent bien avec 2 problèmes de physique seulement : "Space Co
 
 L'autre est l'excellent "Contact". Là, c'est plutôt le contact trop facile avec les extra-terrestres qui dérange : après un petit casse-tête initial, Jodie Foster discute en anglais non sous-titré avec le représentant d'une civilisation avancée... Plutôt que le "bruit dans l'espace" mentionné dans le tableau, il me semble que ce film souffre plutôt du syndrome du "plus vite que la lumière".
 
-Non, on ne peut pas et on ne pourra pas aller plus vite que la lumière. Jamais. Dieu et son prophète Albert l'ont interdit. Il sera peut-être [possible de voyager dans le temps](http://drgoulu.local/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)  et d'aller [aussi vite que la lumière](http://drgoulu.local/2004/08/09/acceleration/) , mais pas plus vite.
+Non, on ne peut pas et on ne pourra pas aller plus vite que la lumière. Jamais. Dieu et son prophète Albert l'ont interdit. Il sera peut-être [possible de voyager dans le temps](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)  et d'aller [aussi vite que la lumière](/2004/08/09/acceleration/) , mais pas plus vite.
 
 D'autres films comme "Armageddon" et "Deep Impact" combinent les fautes mentionnées avec d'autres, notamment une mauvaise représentation du feu et des explosions dans le vide (rien ne peut réellement bruler dans l'espace) et le non respect de la gravité dans des champs d'astéroïdes (qui s'attirent mutuellement)
 

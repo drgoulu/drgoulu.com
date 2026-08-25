@@ -1,5 +1,6 @@
 ---
 title: "Découvertes islandaises"
+slug: "decouvertes-islandaises"
 date: 2016-08-21
 categories: 
   - "ou"
@@ -78,7 +79,7 @@ Avec tous ces volcans, pas étonnant que l'Islande soit truffée de cratères, m
 
 ### Eyjafjallajökull
 
-Vous vous souvenez certainement avoir essayé de [prononcer ce nom](https://upload.wikimedia.org/wikipedia/commons/e/ed/Is-Eyjafjallaj%C3%B6kull_%282%29.oga) en 2010 lors de l'éruption qui a [immobilisé le trafic aérien](http://drgoulu.local/2010/04/19/cendres-et-reacteurs/) transatlantique  pendant des semaines. En fait, [Eyjafjallajökull](https://fr.wikipedia.org/wiki/Eyjafjallajökull) signifie "glacier sur les montagnes proches des îles", pas "volcan à [cendres anti aériennes](http://drgoulu.local/2010/04/19/cendres-et-reacteurs/)". Le [volcan No 372020 du GVP](http://volcano.si.edu/volcano.cfm?vn=372020) est sous un glacier, et sous le volcan, il y a une grande ferme où un "[Visitor Center](http://www.icelanderupts.is/)" aussi intéressant qu'émouvant raconte cette éruption "vue du dessous".
+Vous vous souvenez certainement avoir essayé de [prononcer ce nom](https://upload.wikimedia.org/wikipedia/commons/e/ed/Is-Eyjafjallaj%C3%B6kull_%282%29.oga) en 2010 lors de l'éruption qui a [immobilisé le trafic aérien](/2010/04/19/cendres-et-reacteurs/) transatlantique  pendant des semaines. En fait, [Eyjafjallajökull](https://fr.wikipedia.org/wiki/Eyjafjallajökull) signifie "glacier sur les montagnes proches des îles", pas "volcan à [cendres anti aériennes](/2010/04/19/cendres-et-reacteurs/)". Le [volcan No 372020 du GVP](http://volcano.si.edu/volcano.cfm?vn=372020) est sous un glacier, et sous le volcan, il y a une grande ferme où un "[Visitor Center](http://www.icelanderupts.is/)" aussi intéressant qu'émouvant raconte cette éruption "vue du dessous".
 
 ### Le geyser
 
@@ -90,7 +91,7 @@ Juste à côté le [Strokkur](https://fr.wikipedia.org/wiki/Strokkur) a pris le 
 
 ### Géothermie et aluminium
 
-L'Islande tire un très bon parti de l'énergie géothermique : 80% des habitations sont chauffées grâce à la chaleur du sol. Les centrales géothermiques et l'énergie hydraulique produisent 5 fois plus d'électricité que nécessaire aux habitants. Un ambitieux "[programme hydrogène](http://drgoulu.local/2007/09/06/lhydrogene-energie-du-futur/)" prévoyait de faire fonctionner les véhicules, bateaux de pêche compris avec de l'hydrogène électrolysé, mais la crise économique de 2008 a de facto eu raison de ce rêve. Désormais, ce sont d’énormes [usines d'aluminium](https://fr.wikipedia.org/wiki/%C3%89conomie_de_l%27Islande#Aluminium) qui stockent plus de la moitié de l'électricité islandaise dans ce [métal qui coûtait plus cher que l'or](http://drgoulu.local/2014/05/28/trop-plein-de-mai) il y a 150 ans.
+L'Islande tire un très bon parti de l'énergie géothermique : 80% des habitations sont chauffées grâce à la chaleur du sol. Les centrales géothermiques et l'énergie hydraulique produisent 5 fois plus d'électricité que nécessaire aux habitants. Un ambitieux "[programme hydrogène](/2007/09/06/lhydrogene-energie-du-futur/)" prévoyait de faire fonctionner les véhicules, bateaux de pêche compris avec de l'hydrogène électrolysé, mais la crise économique de 2008 a de facto eu raison de ce rêve. Désormais, ce sont d’énormes [usines d'aluminium](https://fr.wikipedia.org/wiki/%C3%89conomie_de_l%27Islande#Aluminium) qui stockent plus de la moitié de l'électricité islandaise dans ce [métal qui coûtait plus cher que l'or](/2014/05/28/trop-plein-de-mai/) il y a 150 ans.
 
 Et le reste d'électricité et de chaleur permet de faire pousser des tomates hors sol sous serre, avec un éclairage artificiel en plein été ...
 

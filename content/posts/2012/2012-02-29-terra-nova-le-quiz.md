@@ -1,5 +1,6 @@
 ---
 title: "Terra Nova : le quiz"
+slug: "terra-nova-le-quiz"
 date: 2012-02-29
 categories: 
   - "cat1"
@@ -11,11 +12,11 @@ coverImage: "ed1389e1e3ec88cab36aea303553536d1.jpg"
 
 Une série télévisée de science-fiction basée sur un voyage dans le temps ? Et chapeautée par Steven Spielberge en plus ? Je regarde !
 
-Le pitch de [Terra Nova](https://fr.wikipedia.org/wiki/Terra_Nova_(série_télévisée)) est simple : en 2149 la planète devient invivable, mais les humains trouvent par hasard une faille temporelle, qu'il faut un peu [gonfler avec une machine](http://drgoulu.local/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/) pour envoyer des poignées de colons 85 millions d'années dans le passé, au [Crétacé](https://fr.wikipedia.org/wiki/Crétacé). Là ils tentent de fonder une nouvelle civilisation dans un monde vierge, un véritable Eden s'il n'y avait pas quelques [carnosaures](https://fr.wikipedia.org/wiki/Carnosauria) et, pire encore, certains humains assoiffés de pouvoir....
+Le pitch de [Terra Nova](https://fr.wikipedia.org/wiki/Terra_Nova_(série_télévisée)) est simple : en 2149 la planète devient invivable, mais les humains trouvent par hasard une faille temporelle, qu'il faut un peu [gonfler avec une machine](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/) pour envoyer des poignées de colons 85 millions d'années dans le passé, au [Crétacé](https://fr.wikipedia.org/wiki/Crétacé). Là ils tentent de fonder une nouvelle civilisation dans un monde vierge, un véritable Eden s'il n'y avait pas quelques [carnosaures](https://fr.wikipedia.org/wiki/Carnosauria) et, pire encore, certains humains assoiffés de pouvoir....
 
 ![](images/ed1389e1e3ec88cab36aea303553536d.jpg)
 
-Terra Nova rappelle assez vite Lost, avec ses héros isolés dans une nature hostile, leurs amours, leurs trahisons, etc. Mais autant l'univers de Lost était surnaturel, autant celui de Terra Nova se veut scientifique, avec ses dinosaures reconstitués, dominés grâce à la technologie du XXIIème siècle. Je ne m'étendrai pas sur la [machine à remonter le temps](http://drgoulu.local/2010/10/23/retours-vers-les-futurs/), dont on comprend juste qu'elle utilise un [trou noir dont l'horizon](http://drgoulu.local/2008/06/20/la-densite-des-trous-noirs/) est de quelques microns... A part ça, les auteurs se sont visiblement bien documentés, et quelques éléments surprenants du scénario se sont avérés exacts après vérification. Mais un certains nombre d'erreurs manifestes m'ont tout de même choqué.
+Terra Nova rappelle assez vite Lost, avec ses héros isolés dans une nature hostile, leurs amours, leurs trahisons, etc. Mais autant l'univers de Lost était surnaturel, autant celui de Terra Nova se veut scientifique, avec ses dinosaures reconstitués, dominés grâce à la technologie du XXIIème siècle. Je ne m'étendrai pas sur la [machine à remonter le temps](/2010/10/23/retours-vers-les-futurs/), dont on comprend juste qu'elle utilise un [trou noir dont l'horizon](/2008/06/20/la-densite-des-trous-noirs/) est de quelques microns... A part ça, les auteurs se sont visiblement bien documentés, et quelques éléments surprenants du scénario se sont avérés exacts après vérification. Mais un certains nombre d'erreurs manifestes m'ont tout de même choqué.
 
 Je vous propose un petit quiz sur quelques assertions remarquées dans les premiers épisodes:
 
@@ -41,4 +42,4 @@ Voilà pour l'instant, il y aura peut-être une suite, surtout si vous crochez a
 
 1. <span id="ref-1"></span>Joseph Gale et al. "[The high oxygen atmosphere toward the end‐Cretaceous; a possible contributing factor to the K/T boundary extinctions and to the emergence of C4 species](http://jxb.oxfordjournals.org/content/52/357/801.full)", J. Exp. Bot. (2001) 52 (357): 801-809.doi: 10.1093/jexbot/52.357.801
 2. <span id="ref-2"></span>Dudely, R. "[ATMOSPHERIC OXYGEN, GIANT PALEOZOIC INSECTS AND THE EVOLUTION OF AERIAL LOCOMOTOR PERFORMANCE](http://jeb.biologists.org/content/201/8/1043.full.pdf)", 1998, The Journal of Experimental Biology, 201, 1043–1050.
-3. <span id="ref-3"></span>\[openbook booknumber="ISBN:9780143116042" templatenumber="5"\]
+3. <span id="ref-3"></span>{{< openbook booknumber="ISBN:9780143116042" templatenumber="5" >}}

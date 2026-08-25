@@ -1,5 +1,6 @@
 ---
 title: "Perles Cosmiques"
+slug: "perles-cosmiques"
 date: 2007-03-08
 categories: 
   - "cat1"

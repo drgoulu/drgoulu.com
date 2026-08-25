@@ -1,5 +1,6 @@
 ---
 title: "I (don't) want to believe"
+slug: "i-dont-want-to-believe"
 date: 2020-07-24
 categories: 
   - "cat2"

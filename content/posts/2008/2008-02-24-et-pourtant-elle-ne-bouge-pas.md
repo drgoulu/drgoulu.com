@@ -1,5 +1,6 @@
 ---
 title: "Et pourtant elle ne bouge pas"
+slug: "et-pourtant-elle-ne-bouge-pas"
 date: 2008-02-24
 categories: 
   - "cat2"

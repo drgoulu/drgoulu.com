@@ -1,5 +1,6 @@
 ---
 title: "un &#8220;Caller ID&#8221; peut être truqué !"
+slug: "un-caller-id-peut-etre-truque"
 date: 2007-06-15
 categories: 
   - "non-classe"

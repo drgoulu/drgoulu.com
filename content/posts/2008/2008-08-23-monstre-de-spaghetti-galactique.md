@@ -1,5 +1,6 @@
 ---
 title: "Monstre de Spaghetti Galactique"
+slug: "monstre-de-spaghetti-galactique"
 date: 2008-08-23
 categories: 
   - "cat1"
@@ -17,7 +18,7 @@ NGC 1275 est la galaxie spirale bleue que vous distinguez au centre de cette pho
 
 La grande question était de savoir ce qui émet ces jets, les chauffe et maintient dans ces formes tentaculaires qui les empêche de retomber sur la galaxie.
 
-Une équipe de l'Université de Cambridge a montré que c'est le trou noir supermassif au centre de NGC 1275 qui la matière qui s'approche trop non pas sous forme de [jets bien droits](http://drgoulu.local/2008/05/03/le-jets-des-trous-noirs/), mais sous forme de "bulles" qui sont ensuite déformées et maintenues sous forme de filaments par les champs magnétiques du trou noir.
+Une équipe de l'Université de Cambridge a montré que c'est le trou noir supermassif au centre de NGC 1275 qui la matière qui s'approche trop non pas sous forme de [jets bien droits](/2008/05/03/le-jets-des-trous-noirs/), mais sous forme de "bulles" qui sont ensuite déformées et maintenues sous forme de filaments par les champs magnétiques du trou noir.
 
 Mais tant de puissance et de beauté font que certains entrevoient une [autre explication.](http://pastafari.wordpress.com/2008/08/23/34/)..
 

@@ -1,5 +1,6 @@
 ---
 title: "ThreadSpace: Hyperbol"
+slug: "threadspace-hyperbol"
 date: 2007-08-16
 categories: 
   - "non-classe"

@@ -1,5 +1,6 @@
 ---
 title: "Perlisismes : les dictons informatiques d'Alan Perlis"
+slug: "perlisismes-les-dictons-informatiques-dalan-perlis"
 date: 2008-01-21
 categories: 
   - "cat2"

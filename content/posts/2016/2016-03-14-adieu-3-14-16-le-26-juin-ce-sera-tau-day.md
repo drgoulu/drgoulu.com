@@ -1,5 +1,6 @@
 ---
 title: "Adieu 3.14.16 : le 28 juin, ce sera Tau Day"
+slug: "adieu-3-14-16-le-26-juin-ce-sera-tau-day"
 date: 2016-03-14
 categories: 
   - "cat1"
@@ -21,7 +22,7 @@ C'est ce que suggère un article de 2001, "Pi est faux!" [[1]](#ref-1). Son aute
 
 Le "Tau manifesto" [[2]](#ref-2) de Michael Hartl donne pas mal de bonnes raisons à l'introduction de τ=2π.
 
-- dans la plupart des équations\*, π apparaît accompagné d'un facteur 2. C'est le cas dans [la loi normale de Gauss et la transformée de Fourier](http://drgoulu.local/2014/03/16/17-equations-qui-ont-change-le-monde/) et beaucoup d'autres [[2]](#ref-2), y compris en physique de la troisième [loi de Képler](https://fr.wikipedia.org/wiki/loi_de_Képler) aux [équations d'Einstein](https://fr.wikipedia.org/wiki/équations_d'Einstein) en passant par la [loi de Coulomb](https://fr.wikipedia.org/wiki/loi_de Coulomb_(électrostatique))
+- dans la plupart des équations\*, π apparaît accompagné d'un facteur 2. C'est le cas dans [la loi normale de Gauss et la transformée de Fourier](/2014/03/16/17-equations-qui-ont-change-le-monde/) et beaucoup d'autres [[2]](#ref-2), y compris en physique de la troisième [loi de Képler](https://fr.wikipedia.org/wiki/loi_de_Képler) aux [équations d'Einstein](https://fr.wikipedia.org/wiki/équations_d'Einstein) en passant par la [loi de Coulomb](https://fr.wikipedia.org/wiki/loi_de Coulomb_(électrostatique))
 - c'est normal puisque [τ correspond à un tour](https://en.wikipedia.org/wiki/Turn_(geometry)#Tau_proposal), d'où le choix du τ, lettre d'origine du T comme "tour" ou "turn"
 - historiquement [[4]](#ref-4), [[5]](#ref-5) on a calculé et utilisé aussi bien τ que π :
     - [Archimède](https://fr.wikipedia.org/wiki/Archimède) détermina que π était proche de 22/7 à l'aide de polygones réguliers inscrits et circonscrits
@@ -45,4 +46,4 @@ Le "Tau manifesto" [[2]](#ref-2) de Michael Hartl donne pas mal de bonnes rai
     
 4. <span id="ref-4"></span>"[à la recherche de π](http://neamar.fr/Res/Histoire_Pi/)" sur le site de Neamar
     
-5. <span id="ref-5"></span>\[openbook booknumber="ISBN:9780880294188" templatenumber="5"\]
+5. <span id="ref-5"></span>{{< openbook booknumber="ISBN:9780880294188" templatenumber="5" >}}

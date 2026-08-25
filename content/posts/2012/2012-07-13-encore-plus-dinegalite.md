@@ -1,5 +1,6 @@
 ---
 title: "Encore plus d'inégalité ?"
+slug: "encore-plus-dinegalite"
 date: 2012-07-13
 categories: 
   - "cat3"
@@ -14,7 +15,7 @@ coverImage: "bfdf635b6744acf4d8bd701f39b3a914.png"
 
 Hier soir, lors d'un [débat à la radio Suisse entre Guillaume Mathelier et Beat Kappeler](http://www.rts.ch/la-1ere/programmes/forum/4118859-forum-du-12-07-2012.html), ce dernier a prétendu (après 09:22) que "La Suisse a la répartition des revenus la plus égalitaire en Europe continentale, aussi égalitaire qu'en Scandinavie", ce à quoi le maire PS d'Ambilly (Haute-Savoie) répond "on ne doit pas tout-à-fait voir la même Suisse". Qui a raison ?
 
-Ca tombe bien, deux nouveaux rapports de l'OCDE viennent mettre à jour les [données datant de 2008 dont j'avais causé ici](http://drgoulu.local/2009/03/21/combien-dinegalite/), et qui montraient déjà que les revenus bruts des suisses étaient les plus équilibrés de l'OCDE, et qu'après impôts les inégalités se situent au même niveau que celles de la France, un peu au dessus des modèles sociaux nordiques.
+Ca tombe bien, deux nouveaux rapports de l'OCDE viennent mettre à jour les [données datant de 2008 dont j'avais causé ici](/2009/03/21/combien-dinegalite/), et qui montraient déjà que les revenus bruts des suisses étaient les plus équilibrés de l'OCDE, et qu'après impôts les inégalités se situent au même niveau que celles de la France, un peu au dessus des modèles sociaux nordiques.
 
 Dans  "[Inégalités de revenus et croissance : le rôle des impôts et des transferts](http://www.oecd.org/dataoecd/28/27/49446673.pdf)" [[1]](#ref-1) on trouve cette phrase page 9:
 
@@ -38,7 +39,7 @@ Le document \[2.A\] relève aussi plus loin que :
 
 > Dans tous les pays de l’OCDE, les transferts publics en espèces ainsi que l’imposition du revenu et les cotisations sociales ont joué un rôle majeur dans la réduction des inégalités de revenus marchands. (...) Cet effet redistributif a été plus marqué dans les pays nordiques, en Belgique et en Allemagne, mais inférieur à la moyenne au Chili, en Corée, aux États-Unis, en Islande et en Suisse (graphique 9).
 
-Le fameux "graphique 9" montre exactement ce que j'avais découvert en 2008 sur "[l'effet des impôts](http://drgoulu.local/2009/03/21/combien-dinegalite/)": les revenus bruts suisses étant très égalitaires, l'impôt n'a pas besoin d'être très redistributif:
+Le fameux "graphique 9" montre exactement ce que j'avais découvert en 2008 sur "[l'effet des impôts](/2009/03/21/combien-dinegalite/)": les revenus bruts suisses étant très égalitaires, l'impôt n'a pas besoin d'être très redistributif:
 
 [![](images/1eeee73a4dceb35a25c0c3b2367d84e4.png "2012-07-13_194659")](http://www.oecd.org/dataoecd/51/32/49177707.pdf)
 
@@ -51,6 +52,6 @@ Ce document \[2.A\] contient une analyse poussée des effets sociaux de la fisca
 ### Références
 
 1. <span id="ref-1"></span>OCDE 2012, « [Inégalités de revenus et croissance : le rôle des impôts et des transferts](http://www.oecd.org/fr/eco/finances-publiques/49446673.pdf) », OCDE Département des Affaires Économiques, Note de politique économique, no 9, janvier 2012.
-2. <span id="ref-2"></span>\[openbook booknumber="ISBN:9789264119550" templatenumber="5"\]
+2. <span id="ref-2"></span>{{< openbook booknumber="ISBN:9789264119550" templatenumber="5" >}}
     1. "[Tour d’horizon des inégalités croissantes de revenus dans les pays de l’OCDE : principaux constats](http://www.oecd.org/fr/social/soc/49177707.pdf)" annexe pdf publique
     2. [Feuille Excel des données](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.oecd.org%2Fdataoecd%2F39%2F45%2F49170007.xls)

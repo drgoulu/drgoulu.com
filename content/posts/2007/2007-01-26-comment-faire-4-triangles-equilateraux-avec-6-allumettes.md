@@ -1,5 +1,6 @@
 ---
 title: "Comment faire 4 triangles équilatéraux avec 6 allumettes ?"
+slug: "comment-faire-4-triangles-equilateraux-avec-6-allumettes"
 date: 2007-01-26
 categories: 
   - "cat2"

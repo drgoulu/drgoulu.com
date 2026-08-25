@@ -1,5 +1,6 @@
 ---
 title: "Ce sont des \"dykes\""
+slug: "ce-sont-des-dykes"
 date: 2016-11-04
 categories: 
   - "ou"

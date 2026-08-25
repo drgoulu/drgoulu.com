@@ -1,5 +1,6 @@
 ---
 title: "Encore une sonde sur Mars..."
+slug: "encore-une-sonde-sur-mars"
 date: 2008-05-27
 categories: 
   - "cat2"

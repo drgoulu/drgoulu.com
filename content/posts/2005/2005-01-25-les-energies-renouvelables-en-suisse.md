@@ -1,5 +1,6 @@
 ---
 title: "Les énergies renouvelables en Suisse"
+slug: "les-energies-renouvelables-en-suisse"
 date: 2005-01-25
 categories: 
   - "cat3"

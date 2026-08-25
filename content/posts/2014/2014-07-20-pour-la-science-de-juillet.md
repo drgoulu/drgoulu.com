@@ -1,5 +1,6 @@
 ---
 title: "Pour la Science de Juillet"
+slug: "pour-la-science-de-juillet"
 date: 2014-07-20
 categories: 
   - "cat2"
@@ -22,7 +23,7 @@ Le passage que j'ai trouvé le plus surprenant concerne le système de [chromat
 
 ### La réionisation
 
-Dans "[la fin de l'âge sombre](http://www.pourlascience.fr/ewb_pages/a/article-la-fin-de-l-age-sombre-33029.php)", j'ai appris ce qu'est la [réionisation](https://fr.wikipedia.org/wiki/réionisation). Pourtant j'aurais du le savoir depuis "[Le Big Bang en une image](http://drgoulu.local/2008/05/30/le-big-bang-en-une-image/)" : 380'000 ans après le Big Bang, la température de l'Univers avait suffisamment baissé pour que les électrons se [recombinent](https://fr.wikipedia.org/wiki/Recombinaison_(cosmologie)) aux noyaux d'hydrogène et d'hélium, formant des atomes "neutres". Mais aujourd'hui, le [Test de Gunn-Peterson](https://fr.wikipedia.org/wiki/Test_de_Gunn-Peterson) indique que l'hydrogène disséminé dans l'espace intergalactique proche est ionisé.
+Dans "[la fin de l'âge sombre](http://www.pourlascience.fr/ewb_pages/a/article-la-fin-de-l-age-sombre-33029.php)", j'ai appris ce qu'est la [réionisation](https://fr.wikipedia.org/wiki/réionisation). Pourtant j'aurais du le savoir depuis "[Le Big Bang en une image](/2008/05/30/le-big-bang-en-une-image/)" : 380'000 ans après le Big Bang, la température de l'Univers avait suffisamment baissé pour que les électrons se [recombinent](https://fr.wikipedia.org/wiki/Recombinaison_(cosmologie)) aux noyaux d'hydrogène et d'hélium, formant des atomes "neutres". Mais aujourd'hui, le [Test de Gunn-Peterson](https://fr.wikipedia.org/wiki/Test_de_Gunn-Peterson) indique que l'hydrogène disséminé dans l'espace intergalactique proche est ionisé.
 
 Une source d'énergie a donc réionisé l'espace "assez vite", grosso-modo pendant le premier milliard d'années de l'Univers. Selon Michael Lemonick, c'est l'oeuvre du rayonnement ultraviolet des premières étoiles, 100 fois plus massives que notre Soleil et composées exclusivement d'hydrogène. Mais ce pourrait aussi être l'activité des premiers trous noirs supermassifs, les [quasars](https://fr.wikipedia.org/wiki/quasar). La prochaine génération de télescopes et de systèmes de détection des [sursauts gamma](https://fr.wikipedia.org/wiki/sursaut_gamma) est attendue avec impatience pour mieux comprendre ce qui s'est passé à la fin de l'âge sombre de l'Univers.
 
@@ -32,7 +33,7 @@ Ensuite, Daniel Wegner et Adrian Ward se demandent si notre mémoire, notre rap
 
 ### Ramanujan et les partitions
 
-[Srinivasa_Ramanujan](https://fr.wikipedia.org/wiki/Srinivasa_Ramanujan) était un génie des maths autodidacte qui a étonné le monde au début du XXème siècle. C'est lui qui est à [l'origine](https://fr.wikipedia.org/wiki/Srinivasa_Ramanujan#Nombres_de_Ramanujan) de [ma préférence pour 1729](http://drgoulu.local/2008/08/24/nombres-acratopeges/), mais il est surtout connu pour de multiples formules du genre:
+[Srinivasa_Ramanujan](https://fr.wikipedia.org/wiki/Srinivasa_Ramanujan) était un génie des maths autodidacte qui a étonné le monde au début du XXème siècle. C'est lui qui est à [l'origine](https://fr.wikipedia.org/wiki/Srinivasa_Ramanujan#Nombres_de_Ramanujan) de [ma préférence pour 1729](/2008/08/24/nombres-acratopeges/), mais il est surtout connu pour de multiples formules du genre:
 
 \[mathjax\] $$1+\\frac{1}{1\\cdot 3} + \\frac{1}{1\\cdot 3\\cdot 5} + \\frac{1}{1\\cdot 3\\cdot 5\\cdot 7} + \\frac{1}{1\\cdot 3\\cdot 5\\cdot 7\\cdot 9} + \\cdots + {{1\\over 1 + {1\\over 1 + {2\\over 1 + {3\\over 1 + {4\\over 1 + {5\\over 1 + \\cdots }}}}}}} = \\sqrt{\\frac{{\\rm e}\\pi}2}.$$
 
@@ -72,4 +73,4 @@ Par exemple, l'équipe de [Steven Chu](https://fr.wikipedia.org/wiki/Steven_Chu)
 
 Sinon j'ai été déçu par l'article "[Énergies renouvelables : l'essor sera lent](http://www.pourlascience.fr/ewb_pages/a/article-nergies-renouvelables-l-essor-sera-lent-33031.php)" de Vaclav Smil, car je n'y ai rien appris, ça correspond à 90% à mon point de vue, et d'ailleurs l'article est lui aussi un point de vue, fondé sur la réalité historique plutôt que sur les sirènes qui nous chantent un Grand Soir Vert... Les 10% de différence concernent d'ailleurs la solution entrevue par Smil : réduire la consommation d'énergie d'un tiers. Pourquoi pas ... Mais si la population ne veut pas la réduire, mais continuer de l'augmenter comme elle l'a fait depuis plus de 10'000 ans ? Faudra-t-il un Grand Timonier pour envoyer au goulag (nettoyer des panneaux solaires...) ceux qui pensent qu'on devrait plutôt continuer la transition énergétique en cours avec du thorium plutôt que de l'uranium ?
 
-Avec un numéro si bien rempli, je n'ai pas encore eu le temps de lire l'article de mon [collègue C@fetier Alexandre Moatti](http://www.maths-et-physique.net/) sur [Gaspard-Gustave Coriolis](https://fr.wikipedia.org/wiki/Gaspard-Gustave_Coriolis) ni la rubrique "Logique & Calcul" de Jean-Paul Delahaye sur les jeux de cartes et les suites de de Brujin (rencontrées [ici](http://drgoulu.local/2010/06/04/nombres-univers/)), mais comme le numéro d'août est déjà chez les abonnés, je ne peux que me dépêcher de vous dire de foncer chez votre marchand acheter cet excellent  numéro de juillet.
+Avec un numéro si bien rempli, je n'ai pas encore eu le temps de lire l'article de mon [collègue C@fetier Alexandre Moatti](http://www.maths-et-physique.net/) sur [Gaspard-Gustave Coriolis](https://fr.wikipedia.org/wiki/Gaspard-Gustave_Coriolis) ni la rubrique "Logique & Calcul" de Jean-Paul Delahaye sur les jeux de cartes et les suites de de Brujin (rencontrées [ici](/2010/06/04/nombres-univers/)), mais comme le numéro d'août est déjà chez les abonnés, je ne peux que me dépêcher de vous dire de foncer chez votre marchand acheter cet excellent  numéro de juillet.

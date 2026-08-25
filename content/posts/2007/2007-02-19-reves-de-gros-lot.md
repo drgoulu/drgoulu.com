@@ -1,5 +1,6 @@
 ---
 title: "Rêves de gros lot"
+slug: "reves-de-gros-lot"
 date: 2007-02-19
 categories: 
   - "cat3"

@@ -1,5 +1,6 @@
 ---
 title: "Discours de Robert Byrd"
+slug: "discours-de-robert-byrd"
 date: 2005-01-02
 categories: 
   - "non-classe"

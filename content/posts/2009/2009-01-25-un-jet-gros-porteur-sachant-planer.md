@@ -1,5 +1,6 @@
 ---
 title: "Un jet gros porteur sachant planer ..."
+slug: "un-jet-gros-porteur-sachant-planer"
 date: 2009-01-25
 categories: 
   - "cat2"

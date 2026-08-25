@@ -1,5 +1,6 @@
 ---
 title: "Les trous noirs : des moteurs de l'Univers ?"
+slug: "les-trous-noirs-des-moteurs-de-lunivers"
 date: 2008-09-06
 categories: 
   - "cat1"
@@ -15,8 +16,8 @@ Dans l'imaginaire collectif alimenté par les mauvais films de SF, les trous noi
 Rappelons tout d'abord que les trous noirs sont des "astres" tellement massifs que même la lumière ne peut s'en échapper. Il en a trois familles:
 
 - les trous noirs stellaires, formés à la fin de la vie d'une étoile massive. Ils pèsent comme plusieurs soleils
-- les trous noirs "supermassifs" qui siègent au centre de la plupart des galaxies, voire toutes  [y compris la notre](http://drgoulu.local/2007/06/26/le-trou-noir-central-de-la-voie-lactee-revele/ "le trou noir central de la Voie Lactée révélé").
-- c'est tout. Les minis trous noirs qui [font peur](http://drgoulu.local/2008/06/08/nostradamus-et-les-catastrophysiciens/) n'existent pas ;-)
+- les trous noirs "supermassifs" qui siègent au centre de la plupart des galaxies, voire toutes  [y compris la notre](/2007/06/26/le-trou-noir-central-de-la-voie-lactee-revele/ "le trou noir central de la Voie Lactée révélé").
+- c'est tout. Les minis trous noirs qui [font peur](/2008/06/08/nostradamus-et-les-catastrophysiciens/) n'existent pas ;-)
 
 Concentrons-nous sur les premiers en supposant que d'un coup de baguette magique, le Soleil se transforme en trou noir là, maintenant, sous nos yeux ébahis. Ca ne peut pas arriver, mais imaginons. Que se passerait-il ?
 
@@ -40,7 +41,7 @@ Les choses deviennent plus intéressantes si un trou noir traverse un nuage de g
 
 Petit à petit, comme l'eau de la baignoire qui se vide, la matière du disque d'accrétion devrait tomber peu à peu dans le trou. Mais une fois encore, ce n'est pas si simple.
 
-D'abord, les étoiles ont des champs magnétiques, et lorsqu'une étoile s'effondre, son champ devient incroyablement puissant et forme une sorte dynamo qui éjecte dans l'espace des [jets](http://drgoulu.local/2008/05/03/le-jets-des-trous-noirs/) de gaz par ses pôles nord et sud. Les trous noirs supermassifs émettent ainsi de la matière à des distances prodigieuses, recyclant de la matière depuis le centre des galaxies vers leur périphérie, comme on le voit bien sur les clichés récents de [NGC 1275.](http://drgoulu.local/2008/08/23/monstre-de-spaghetti-galactique/)
+D'abord, les étoiles ont des champs magnétiques, et lorsqu'une étoile s'effondre, son champ devient incroyablement puissant et forme une sorte dynamo qui éjecte dans l'espace des [jets](/2008/05/03/le-jets-des-trous-noirs/) de gaz par ses pôles nord et sud. Les trous noirs supermassifs émettent ainsi de la matière à des distances prodigieuses, recyclant de la matière depuis le centre des galaxies vers leur périphérie, comme on le voit bien sur les clichés récents de [NGC 1275.](/2008/08/23/monstre-de-spaghetti-galactique/)
 
 ## Générateurs d'étoiles
 

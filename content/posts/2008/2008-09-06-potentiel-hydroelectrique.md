@@ -1,5 +1,6 @@
 ---
 title: "Potentiel hydroélectrique"
+slug: "potentiel-hydroelectrique"
 date: 2008-09-06
 categories: 
   - "cat3"
@@ -17,7 +18,7 @@ coverImage: "0d139593626e193aae1677c3794e9fce1.jpg"
 
 En Suisse, les barrages alpins construits au milieu du siècle passé produisent 60% de l'électricité.  En France, ce n'est "que" 14%, mais c'était plus de 50% dans les années 1950. L'opinion générale est que le potentiel hydroélectrique a été utilisé, donc qu'il faut désormais tabler sur les "nouvelles énergies renouvelables" que sont le solaire et l'éolien, ce qui sous-entend que l'hydraulique en est une vieille, dépassée. Est-ce juste ?
 
-Selon un rapport récent du MINEFI \[2\], la France n'exploite que 70 TWh de son potentiel de 98TWh et pourrait produire 23TWh de plus simplement en développant ses installations existantes, en encore 5TWh avec de mini turbines qui produisent de l'électricité plus chère (mais on [subventionne bien les moulins à vent,](http://drgoulu.local/2008/08/30/rentabilite-des-eoliennes/) pourquoi pas ceux à eau ?  ) Pour quelques milliards, EDF pourrait donc accroitre de 5% la part d'hydroélectricité, qui offre donc un potentiel supérieur à l'éolien (2% environ) à un cout moindre.
+Selon un rapport récent du MINEFI \[2\], la France n'exploite que 70 TWh de son potentiel de 98TWh et pourrait produire 23TWh de plus simplement en développant ses installations existantes, en encore 5TWh avec de mini turbines qui produisent de l'électricité plus chère (mais on [subventionne bien les moulins à vent,](/2008/08/30/rentabilite-des-eoliennes/) pourquoi pas ceux à eau ?  ) Pour quelques milliards, EDF pourrait donc accroitre de 5% la part d'hydroélectricité, qui offre donc un potentiel supérieur à l'éolien (2% environ) à un cout moindre.
 
 {{< figure src="images/0d139593626e193aae1677c3794e9fce.jpg" alt="Le barrage dEmosson, à la frontière franco-suisse" caption="Le barrage d'Emosson, à la frontière franco-suisse. Il appartient en partie à EDF et en partie au CFF, les chemins de fers suisses, et sert de base à la future installation de turbinage-pompage &quot;Nant de Drance&quot;" link="http://www.flickr.com/photos/doozzle/46480671/" align="aligncenter" width="400" >}}
 

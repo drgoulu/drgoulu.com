@@ -1,5 +1,6 @@
 ---
 title: "Alice, Bob et l'Homme du Milieu"
+slug: "alice-bob-et-lhomme-du-milieu"
 date: 2017-11-20
 categories: 
   - "cat2"
@@ -10,7 +11,7 @@ tags:
 coverImage: "mitm.png"
 ---
 
-![](images/mitm.png)Dans [un précédent épisode](http://drgoulu.local/2017/02/15/alice-et-bob-et-les-cles-asymetriques), nous avons vu comment Alice et Bob peuvent empêcher Eve la curieuse d'écouter leurs messages secrets. Mais ils doivent encore se protéger de [Mallory](https://fr.wikipedia.org/wiki/Alice_et_Bob#Adversaires), un puissant adversaire qui, s'il se place entre Alice et Bob, peut effectuer la fameuse [attaque de l'homme du milieu](https://fr.wikipedia.org/wiki/attaque_de_l'homme_du_milieu) :
+![](images/mitm.png)Dans [un précédent épisode](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/), nous avons vu comment Alice et Bob peuvent empêcher Eve la curieuse d'écouter leurs messages secrets. Mais ils doivent encore se protéger de [Mallory](https://fr.wikipedia.org/wiki/Alice_et_Bob#Adversaires), un puissant adversaire qui, s'il se place entre Alice et Bob, peut effectuer la fameuse [attaque de l'homme du milieu](https://fr.wikipedia.org/wiki/attaque_de_l'homme_du_milieu) :
 
 1. quand Alice envoie à Bob un premier message en clair du type "Bob, donne moi stp ta clé publique que je puisse t'envoyer des messages chiffrés. La mienne est Ea. Bisous Alice", Mallory l'intercepte et envoie : "Bob, donne moi stp ta clé publique que je puisse t'envoyer des messages chiffrés. La mienne est Ema. Bisous Alice". Il a juste remplacé la clé publique d'Alice par une de ses clés publiques à lui.
 2. Bob renvoie "Chère Alice, voici ma clé publique : Eb" en l'encryptant avec ce qu'il croit être la clé publique d'Alice, mais qui est en réalité celle de Mallory ! Celui-ci n'a donc aucune peine à déchiffrer le message, et à envoyer à Alice le message "Chère Alice, voici ma clé publique : Emb", encrypté avec la vraie clé publique d'Alice Ea. Alice n'a aucun moyen de savoir que ce message n'est pas authentique !
@@ -31,11 +32,11 @@ Ou ça peut être un service que l'employeur d'Alice paie, par exemple [ZScaler]
 
 Pour débusquer l'infâme Mallory, Alice et Bob auraient du demander à leur ami Nestor de leur fournir des [certificats électroniques](https://fr.wikipedia.org/wiki/certificat_électronique).
 
-![](images/Certificat_utilisateur_contenu.png)Ils auraient envoyé à Nestor leur clé publique avec des éléments prouvant leur identité réelle. Nestor aurait encrypté ces informations avec sa clé privée (oui, privée!) à lui, exactement comme Alice et Bob avaient fait pour [créer leurs propres signatures](http://drgoulu.local/2017/02/15/alice-et-bob-et-les-cles-asymetriques/) et envoyé à Alice et Bob à chacun son certificat. Ensuite:
+![](images/Certificat_utilisateur_contenu.png)Ils auraient envoyé à Nestor leur clé publique avec des éléments prouvant leur identité réelle. Nestor aurait encrypté ces informations avec sa clé privée (oui, privée!) à lui, exactement comme Alice et Bob avaient fait pour [créer leurs propres signatures](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/) et envoyé à Alice et Bob à chacun son certificat. Ensuite:
 
 1. Alice envoie à Bob un premier en clair "Bob, donne moi stp ta clé publique que je puisse t'envoyer des messages chiffrés Bisous Alice".
 2. Bob renvoie, en clair aussi "Chère Alice, voici mon certificat Cb" en le signant  avec Sb, sa signature.
-3. Alice peut alors déchiffrer le certificat avec la clé publique de Nestor (oui.. un peu de patience...) pour obtenir la clé publique Eb de Bob. Avec Eb, elle peut alors aussi vérifier la signature Sb du message comme [expliqué la dernière fois.](http://drgoulu.local/2017/02/15/alice-et-bob-et-les-cles-asymetriques/) Si l'opération réussit, c'est que la clé Eb est bien celle de Bob, certifiée par Nestor
+3. Alice peut alors déchiffrer le certificat avec la clé publique de Nestor (oui.. un peu de patience...) pour obtenir la clé publique Eb de Bob. Avec Eb, elle peut alors aussi vérifier la signature Sb du message comme [expliqué la dernière fois.](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/) Si l'opération réussit, c'est que la clé Eb est bien celle de Bob, certifiée par Nestor
 4. Totalement rassurée, Alice peut alors lui transmettra son invitation confidentielle, chiffrée avec Eb, et contenant éventuellement son certificat Ca à elle pour que Bob soit sur qu'elle est bien l'Alice qu'elle prétend être...
 5. ... et Mallory [ne peut rien faire](https://security.stackexchange.com/a/81873/108108) car pour fabriquer un faux certificat Cmb avec une fausse clé Emb il doit disposer de la clé privée de Nestor.
 
@@ -46,7 +47,7 @@ Nestor doit donc être un [tiers de confiance](https://fr.wikipedia.org/wiki/tie
 
 ## Et voilà enfin le fameux petit cadenas vert ...
 
-Il y a depuis quelques temps une forte tendance, voire incitation à crypter toutes les communications sur internet. Je vous avais expliqué ici [pourquoi et comment drgoulu.com est passé au HTTPS](http://drgoulu.local/2017/01/11/drgoulu-com-passe-en-https/).
+Il y a depuis quelques temps une forte tendance, voire incitation à crypter toutes les communications sur internet. Je vous avais expliqué ici [pourquoi et comment drgoulu.com est passé au HTTPS](/2017/01/11/drgoulu-com-passe-en-https/).
 
 Malheureusement pour l'utilisateur lambda (vous...), ceci peut donner une fausse impression de sécurité. Le fameux petit cadenas vert rassurant à côté de votre barre d'adresse ne fait QUE de dire que le certificat utilisé est valide. Il ne garantit pas du tout que c'est bien le certificat du propriétaire du site !
 

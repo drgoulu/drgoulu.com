@@ -1,5 +1,6 @@
 ---
 title: "Le GPS pour les nuls : Cartes et Routage"
+slug: "le-gps-pour-les-nuls-cartes-et-routage"
 date: 2008-09-27
 categories: 
   - "cat3"
@@ -9,13 +10,16 @@ tags:
   - "informatique"
   - "transports"
 coverImage: "dfffb52924ac4c0757d998edc886763a-1.png"
+
+aliases:
+  - "/2008/09/28/le-gps-pour-les-nuls-cartes-et-routage/"
 ---
 
-Dans l'[article précédent](http://drgoulu.local/2008/09/27/le-gps-pour-les-nuls-satellites-et-signaux/), j'explique comment votre GPS peut déterminer la latitude et la longitude où vous vous trouvez à partir de satellites. C'est génial, mais c'est peu utile si vous n'êtes pas un marin.
+Dans l'[article précédent](/2008/09/27/le-gps-pour-les-nuls-satellites-et-signaux/), j'explique comment votre GPS peut déterminer la latitude et la longitude où vous vous trouvez à partir de satellites. C'est génial, mais c'est peu utile si vous n'êtes pas un marin.
 
 Ce qui fait l'intérêt du GPS de nos jours c'est qu'il vous dit que vous êtes sur la Route du Mandement en direction de Satigny, et qu'il faut tourner à droite 300m après le giratoire pour aller en direction de Bourdigny. Comment est-ce possible ?
 
-En plus du récepteur sophistiqué décrit dans [l'article précédent](http://drgoulu.local/2008/09/27/le-gps-pour-les-nuls-satellites-et-signaux/), un GPS contient une grosse mémoire pour stocker une carte géographique et un microprocesseur relativement puissant pour calculer votre itinéraire par une méthode qui fait l'objet de cet article.
+En plus du récepteur sophistiqué décrit dans [l'article précédent](/2008/09/27/le-gps-pour-les-nuls-satellites-et-signaux/), un GPS contient une grosse mémoire pour stocker une carte géographique et un microprocesseur relativement puissant pour calculer votre itinéraire par une méthode qui fait l'objet de cet article.
 
 La carte routière stockée dans votre GPS est bien plus qu'une digitalisation d'une carte routière en papier : elle contient le "[graphe](http://fr.wikipedia.org/wiki/Th%C3%A9orie_des_graphes)" formé par le réseau routier, à savoir tous les carrefours (ou points, ou noeuds) reliés par un réseau de chemins (ou arcs, ou arêtes).
 
@@ -26,7 +30,7 @@ Pour aller d'un point à un autre, le microprocesseur de votre GPS va détermine
 1. la distance parcourue. Dans ce cas seule la longueur de chaque route est utile
 2. le temps nécessaire. Si chaque route est caractérisée par une vitesse moyenne ou un temps de parcours habituel, le chemin optimal favorisera une autoroute de contournement qu'une traversée urbaine
 3. la consommation, le cout financier ... En fait, on peut attribuer à chaque route un "cout" selon un critère quelconque, voir même deux couts correspondant aux deux sens de parcours, ce qui permet de tenir compte des sens interdits par exemple.
-4. si une route n'existe pas, on peut même en inventer une de coût élevé pour faire de [l'humour](http://drgoulu.local/2007/05/03/humour-sur-google-maps/).
+4. si une route n'existe pas, on peut même en inventer une de coût élevé pour faire de [l'humour](/2007/05/03/humour-sur-google-maps/).
 
 Ensuite, les trajets en voiture satisfont une hypothèse importante appellée "principe d'optimalité de Bellman" qui simplifie beaucoup la résolution du problème : si le trajet optimal de A à C passe par B, alors les trajets AB et BC sont aussi optimaux, et le cout pour aller de A à C est égal à la somme des couts AB+BC.
 

@@ -1,5 +1,6 @@
 ---
 title: "Quel trématode a infecté METI ?"
+slug: "quel-trematode-a-infecte-meti"
 date: 2011-08-28
 categories: 
   - "cat1"
@@ -14,7 +15,7 @@ coverImage: "c37ed04412ed10fbd5ce026ecdffc3b51.gif"
 
 Hélas, il manque de références.
 
-Il est relativement facile de trouver des documents sur les risques de METI et l'échec de SETI (les civilisations réellement intelligentes n'émettent surtout pas de signaux permettant de les localiser), à partir de [mon vieil article](http://drgoulu.local/2008/04/24/seti-meti-mais-ou-est-donc-et/) par exemple.
+Il est relativement facile de trouver des documents sur les risques de METI et l'échec de SETI (les civilisations réellement intelligentes n'émettent surtout pas de signaux permettant de les localiser), à partir de [mon vieil article](/2008/04/24/seti-meti-mais-ou-est-donc-et/) par exemple.
 
 Mais pour trouver des références sur le trématode illustré dans le cartoon, il faut chercher plus. Le terme "[cercaria](http://fr.wikipedia.org/wiki/Cercaire)" qu'on y trouve correspond à une étape du cycle de vie des trématodes en général. Ce n'est qu'après avoir cherché "trématode poisson cerveau comportement" dans tous les sens que je suis tombé sur un cours de parasitologie [[1]](#ref-1) où sont mentionnés plusieurs trématodes qui "manipulent" le poisson en le rendant plus vulnérable aux prédateurs:
 

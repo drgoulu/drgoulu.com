@@ -1,5 +1,6 @@
 ---
 title: "Le prix de l’essence"
+slug: "le-prix-de-lessence"
 date: 2007-11-07
 categories: 
   - "cat3"
@@ -23,7 +24,7 @@ Quelques infos et idées en vrac pour commencer :
 
 A part celà j'en reviens à deux notions plus fondamentales:
 
-1. l**'essence est extraordinairement bon marché !** Comme je l'ai montré dans "[on brulera tout !](http://drgoulu.local/2004/06/29/on-brulera-tout/)", l'énergie contenue dans un litre d'essence sera au même prix que celui de l'électricité quand l'essence (taxée) coutera Frs 3.- (= €1.70). Si on ne tient pas compte des taxes, le prix de l'essence (80 cts) peut **quadrupler** avant de couter aussi cher que l'électricité (ou que l'[hydrogène](http://drgoulu.local/2004/06/29/on-brulera-tout/), en passant)
+1. l**'essence est extraordinairement bon marché !** Comme je l'ai montré dans "[on brulera tout !](/2004/06/29/on-brulera-tout/)", l'énergie contenue dans un litre d'essence sera au même prix que celui de l'électricité quand l'essence (taxée) coutera Frs 3.- (= €1.70). Si on ne tient pas compte des taxes, le prix de l'essence (80 cts) peut **quadrupler** avant de couter aussi cher que l'électricité (ou que l'[hydrogène](/2004/06/29/on-brulera-tout/), en passant)
 2. ![](images/a2adec89b6875ca564097ad77693a325.jpg)Pour savoir ce qui nous attend, il faut absolument connaitre la notion de "**[pic pétrolier](http://fr.wikipedia.org/wiki/Pic_p%C3%A9trolier)**". C'est un peu technique, mais indispensable de bien comprendre :
     1. la consommation de pétrole dans le monde s'accroit (Chine, Inde en veulent aussi)
     2. dans le temps on trouvait très facilement des gisements de pétrole. Maintenant on en trouve de nouveaux de moins en moins souvent
@@ -32,7 +33,7 @@ A part celà j'en reviens à deux notions plus fondamentales:
     5. Ces mesures montrent aussi clairement que les "réserves prouvées" de pétrole annoncées par les compagnies pétrolières sont largement surévaluées : il y a moins de pétrole dans le sol que ce que Shell prétend. Mais si elle l'avoue, ses actions chutent...
     6. la plupart des experts estiment que le pic pétrolier mondial a déjà eu lieu, ou aura lieu entre 2006 et 2015.
     7. à partir d'à peu près maintenant, la production mondiale va irrémédiablement baisser progressivement et il va être de plus en plus difficile de produire la quantité croissante de pétrole demandé : les prix vont irrémédiablement monter
-    8. Seuls les pays qui n'ont pas atteint leur "pic pétrolier" (comme l'Arabie Saoudite, encore!) auront la possibilité d'augmenter temporairement leur production pour maintenir les prix à un niveau acceptable pour eux ! Et comme il est montré dans "[on brulera vraiment tout](http://drgoulu.local/2007/05/25/on-brulera-vraiment-tout/)", le prix maximum admissible pour le producteur de pétrole est celui de la technologie de substitution la meilleur marché.
+    8. Seuls les pays qui n'ont pas atteint leur "pic pétrolier" (comme l'Arabie Saoudite, encore!) auront la possibilité d'augmenter temporairement leur production pour maintenir les prix à un niveau acceptable pour eux ! Et comme il est montré dans "[on brulera vraiment tout](/2007/05/25/on-brulera-vraiment-tout/)", le prix maximum admissible pour le producteur de pétrole est celui de la technologie de substitution la meilleur marché.
 
 **Conclusion : le prix de l'essence augmentera rapidement (en quelques années) jusqu'autour de Frs 4.- (actuels, soit ) le litre :**
 

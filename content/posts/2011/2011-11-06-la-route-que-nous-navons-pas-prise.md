@@ -1,5 +1,6 @@
 ---
 title: "La route que nous n'avons pas prise"
+slug: "la-route-que-nous-navons-pas-prise"
 date: 2011-11-06
 categories: 
   - "cat1"
@@ -38,7 +39,7 @@ Une autre raison est le [principe totalitaire](https://fr.wikipedia.org/wiki/pri
 
 Recueils contenant la nouvelle "The road not taken": ([liste complète](http://www.isfdb.org/cgi-bin/title.cgi?48609))
 
-- \[openbook booknumber="ISBN:0-812-54959-7" templatenumber="5"\]
-- \[openbook booknumber="ISBN:0-345-36477-5" templatenumber="5"\]
-- \[openbook booknumber="ISBN:0-441-01133-0" templatenumber="5"\]
-- \[openbook booknumber="ISBN:0-441-00864-X" templatenumber="5"\]
+- {{< openbook booknumber="ISBN:0-812-54959-7" templatenumber="5" >}}
+- {{< openbook booknumber="ISBN:0-345-36477-5" templatenumber="5" >}}
+- {{< openbook booknumber="ISBN:0-441-01133-0" templatenumber="5" >}}
+- {{< openbook booknumber="ISBN:0-441-00864-X" templatenumber="5" >}}

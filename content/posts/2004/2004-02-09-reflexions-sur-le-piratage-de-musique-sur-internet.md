@@ -1,5 +1,6 @@
 ---
 title: "Réflexions sur le Piratage de musique sur Internet"
+slug: "reflexions-sur-le-piratage-de-musique-sur-internet"
 date: 2004-02-09
 categories: 
   - "non-classe"

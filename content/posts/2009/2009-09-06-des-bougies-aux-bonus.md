@@ -1,5 +1,6 @@
 ---
 title: "Bougies et Bonus"
+slug: "des-bougies-aux-bonus"
 date: 2009-09-06
 categories: 
   - "cat3"

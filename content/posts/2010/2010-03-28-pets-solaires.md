@@ -1,5 +1,6 @@
 ---
 title: "Pets solaires"
+slug: "pets-solaires"
 date: 2010-03-28
 categories: 
   - "cat1"
@@ -18,4 +19,4 @@ Trouvée grâce à [Bad Astronomy](http://blogs.discovermagazine.com/badastronom
 
 Admirez aussi les magnifiques boucles de gaz ionisé qui suivent les lignes du [champ magnétique très complexe et variable](http://www.astrosurf.com/luxorion/sysol-soleil-magnetique.htm) du Soleil. Une énergie colossale est stockée dans ces boucles qui se perturbent mutuellement, fusionnent et parfois s'ouvrent en propulsant le gaz dans l'espace dans ces  éruptions qui peuvent causer momentanément des variations de 10% de la puissance émise par notre étoile.
 
-Pour fixer les idées, à l'échelle, la Terre est grande comme une des petites taches claires à la surface du Soleil. [On est peu de chose](http://drgoulu.local/2008/02/01/on-est-peu-de-chose/), mais on peut faire de sacrément jolies photos des grandes, non ?
+Pour fixer les idées, à l'échelle, la Terre est grande comme une des petites taches claires à la surface du Soleil. [On est peu de chose](/2008/02/01/on-est-peu-de-chose/), mais on peut faire de sacrément jolies photos des grandes, non ?

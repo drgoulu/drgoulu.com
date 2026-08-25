@@ -1,5 +1,6 @@
 ---
 title: "BitTorrent : du génial au pire-to-pire et au delà"
+slug: "bittorrent-du-genial-au-pire-to-pire-et-au-dela"
 date: 2007-03-03
 categories: 
   - "cat2"

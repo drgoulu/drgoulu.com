@@ -1,5 +1,6 @@
 ---
 title: "Les foils du Vendée Globe"
+slug: "les-foils-du-vendee-globe"
 date: 2016-11-20
 categories: 
   - "cat2"
@@ -23,13 +24,13 @@ Le départ du 8ème [Vendée Globe](https://fr.wikipedia.org/wiki/Vendée_Globe)
 
 \[gallery link="none" size="large" type="slideshow" ids="8666,8636,8647,8644,8654,8674"\]
 
-Pour les [amateurs de bateaux volants](https://foils.wordpress.com/) c'est assez surprenant de voir des foils ajoutés à des bateaux lestés par 3.1 tonnes de plomb et des ballasts, alors que [jusqu'ici](http://drgoulu.local/2011/05/21/voiles-et-voilers-volants) les [foilers](https://fr.wikipedia.org/wiki/foilers) étaient ultra légers afin de soulever leur(s) coque(s) hors de l'eau.
+Pour les [amateurs de bateaux volants](https://foils.wordpress.com/) c'est assez surprenant de voir des foils ajoutés à des bateaux lestés par 3.1 tonnes de plomb et des ballasts, alors que [jusqu'ici](/2011/05/21/voiles-et-voilers-volants/) les [foilers](https://fr.wikipedia.org/wiki/foilers) étaient ultra légers afin de soulever leur(s) coque(s) hors de l'eau.
 
 En fait, comme l'expliquent bien la vidéo ci-dessous, le rôle principal des foils est de créer un couple de redressement du bateau :
 
 {{< youtube id="xpgalymCbA8" width="640" >}}
 
-En prime, la [portance](http://drgoulu.local/2012/03/11/portance-pourquoi-ca-vole/) du "tip" du foil associée à celle de la quille inclinable génère une poussée verticale qui réduit notablement le [déplacement](https://fr.wikipedia.org/wiki/Déplacement_(navire)) du bateau. A 20 noeuds, cette poussée représente 60% du poids du bateau, et il décolle pratiquement dans les vagues
+En prime, la [portance](/2012/03/11/portance-pourquoi-ca-vole/) du "tip" du foil associée à celle de la quille inclinable génère une poussée verticale qui réduit notablement le [déplacement](https://fr.wikipedia.org/wiki/Déplacement_(navire)) du bateau. A 20 noeuds, cette poussée représente 60% du poids du bateau, et il décolle pratiquement dans les vagues
 
 {{< youtube id="TyPbl7FFqxU" width="640" >}}
 

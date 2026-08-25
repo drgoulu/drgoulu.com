@@ -1,5 +1,6 @@
 ---
 title: "Les Natures du Temps"
+slug: "les-natures-du-temps"
 date: 2009-03-28
 categories: 
   - "cat1"
@@ -14,7 +15,7 @@ coverImage: "3e2d028ba04d3e7947015c913bcb13a0.jpg"
 
 "Gear Work 2" par Curious Expeditions sur flickr
 
-Les résultats du concours d'essais scientifiques sur "[La Nature du Temps](http://drgoulu.local/2008/12/24/la-nature-du-temps-2/)" ont été proclamés il y a quelques semaines, sans trompettes médiatiques hélas.
+Les résultats du concours d'essais scientifiques sur "[La Nature du Temps](/2008/12/24/la-nature-du-temps-2/)" ont été proclamés il y a quelques semaines, sans trompettes médiatiques hélas.
 
 Le premier prix va a [Julian](http://fr.wikipedia.org/wiki/Julian_Barbour) [Barbour](http://www.platonia.com/) pour [“The Nature of Time”](http://fqxi.org/community/forum/topic/360)
 
@@ -34,6 +35,6 @@ On le voit, les conceptions modernes du temps en physique sont assez éloignées
 
 _Notez qu'à cause de la difficulté et la subtilité du sujet, il y a eu de nombreuses divergences au sein du jury sur pratiquement tous les essais. La remise d'un prix signifie que le jury reconnait que le gagnant est un essai intéressant et productif_ _pertinent (relevant) : quelque chose qui est bien écrit, dérangeant, stimulant, amusant, etc.  Il ne doit pas être supposé que les membres du jury ont cru que l'approche soit complète, sans faute, exempte de critique etc._
 
-[Ma propre conception du temps](http://drgoulu.local/2007/02/07/le-temps-une-4eme-dimension-imaginaire/) datant d'environ un siècle, je crois que je vais lire ou relire quelques-uns de ces essais en essayant d'y comprendre quelque chose ...
+[Ma propre conception du temps](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/) datant d'environ un siècle, je crois que je vais lire ou relire quelques-uns de ces essais en essayant d'y comprendre quelque chose ...
 
 Note\* : Les paragraphes en italique sont des traductions effectuées par votre serviteur, qui n'est pas un spécialiste... Les corrections et précisions éventuelles sont les bienvenues.

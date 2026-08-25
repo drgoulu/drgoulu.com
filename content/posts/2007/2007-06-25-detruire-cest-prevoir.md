@@ -1,5 +1,6 @@
 ---
 title: "Détruire, c&#8217;est prévoir ?"
+slug: "detruire-cest-prevoir"
 date: 2007-06-25
 categories: 
   - "non-classe"

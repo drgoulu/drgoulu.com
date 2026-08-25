@@ -1,5 +1,6 @@
 ---
 title: "Rock et science"
+slug: "rock-et-science"
 date: 2012-10-15
 categories: 
   - "cat1"
@@ -40,4 +41,4 @@ Qui osera publier le premier article scientifique sous forme de rock ?
 ### Référence:
 
 1. Van J Wedeen et al. "[In vivo imaging of fiber pathways of the human brain with ultra-high gradients](http://www.medical.siemens.com/siemens/en_INT/gg_mr_FBAs/files/MAGNETOM_World/ismrm_proceedings/ismrm_2012/1876_ISMRM2012.pdf)", Proceeding of [ISMRM 2012](http://www.ismrm.org/12/)
-2. \[openbook booknumber="ISBN:9780387777054" templatenumber="5"\]
+2. {{< openbook booknumber="ISBN:9780387777054" templatenumber="5" >}}

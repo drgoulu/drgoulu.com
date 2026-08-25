@@ -1,5 +1,6 @@
 ---
 title: "Fraudez fort, fraudez Benford"
+slug: "fraudez-benford"
 date: 2012-12-07
 categories: 
   - "cat2"
@@ -33,7 +34,7 @@ Car il est facile de fabriquer des données satisfaisant la loi de Benford, et d
 
 {{< figure src="images/4925a2c025ba625201061a1814c92483.png" alt="Une échelle logarithmique. En choisissant un point au hasard selon une loi uniforme sur cette échelle, vous avez environ une chance sur 3 qu'il corresponde à un nombre qui commence par 1. C'est exactement ce que prévoit la loi de Benford." caption="Une échelle logarithmique. En choisissant un point au hasard selon une loi uniforme sur cette échelle, vous avez environ une chance sur 3 qu'il corresponde à un nombre qui commence par 1. C'est exactement ce que prévoit la loi de Benford." align="aligncenter" width="635" >}}
 
-La formule "magique" est aussi simple que ça parce que la loi de Benford n'est pas mystérieuse [[4]](#ref-4) : elle traduit simplement le fait que  dans la nature, la taille d'un nombre a plus de "sens" que sa valeur exacte. Pour choisir un grand nombre au hasard, il faut donc surtout choisir au hasard sa taille, donnée par son [logarithme](https://fr.wikipedia.org/wiki/logarithme). Jean-Paul Delahaye clarifie ceci dans le "Pour la Science" de novembre [[5]](#ref-5). En utilisant la [complexité de Kolmogorov](https://fr.wikipedia.org/wiki/complexité_de_Kolmogorov), il relie la loi de Benford à la [loi de Zipf](https://fr.wikipedia.org/wiki/loi_de_Zipf) ([dont Xochipili a causé ici](http://webinet.cafe-sciences.org/articles/zipf-law/)) , mentionne au passage mon désormais célèbre "[nuage de Sloane](http://drgoulu.local/tag/sloane/)" et arrive à cette conclusion:
+La formule "magique" est aussi simple que ça parce que la loi de Benford n'est pas mystérieuse [[4]](#ref-4) : elle traduit simplement le fait que  dans la nature, la taille d'un nombre a plus de "sens" que sa valeur exacte. Pour choisir un grand nombre au hasard, il faut donc surtout choisir au hasard sa taille, donnée par son [logarithme](https://fr.wikipedia.org/wiki/logarithme). Jean-Paul Delahaye clarifie ceci dans le "Pour la Science" de novembre [[5]](#ref-5). En utilisant la [complexité de Kolmogorov](https://fr.wikipedia.org/wiki/complexité_de_Kolmogorov), il relie la loi de Benford à la [loi de Zipf](https://fr.wikipedia.org/wiki/loi_de_Zipf) ([dont Xochipili a causé ici](http://webinet.cafe-sciences.org/articles/zipf-law/)) , mentionne au passage mon désormais célèbre "[nuage de Sloane](/tags/sloane/)" et arrive à cette conclusion:
 
 > Le monde mathématique est déconcertant : l'infini dénombrable, le plus simple de tous, semble interdire qu'on en pioche les éléments au hasard équitablement, alors que le continu de l'intervalle \[0,1\], plus gros et plus compliqué que l'infini dénombrable, l'autorise. Heureusement, la loi de Zipf( ou de Benford, nDrG), à sa façon, joue ce rôle de probabilité uniforme sur les entiers.
 
@@ -49,7 +50,7 @@ Maintenant ça va mieux:
 - J'ai une [feuille de calcul](https://docs.google.com/spreadsheet/ccc?key=0Al_D4zS2T4QodHhjM0JxejRKZWpWTWVKUUxISVlfTnc) Google munie de [fonctions Javascript](https://gist.github.com/goulu/ecbea29f3b7959206ab8) permettant d'effectuer ce test. Et aussi un module Python. Je publierai ce code bientôt, mais en jouant avec sur des votes falsifiés par mes soins, il me semble de plus en plus que le test de Benford est compliqué et peu fiable...
 - Il existe des tests plus simples, facilement compréhensibles et rapides comme celui [dont a causé Guillaume](http://blog.science-infuse.fr/post/L-empreinte-statistique-de-la-fraude-electorale) [[7]](#ref-7)  : un simple graphique X/Y affichant un point par bureau de vote aux coordonnées participation/résultat. En voici un que j'ai fait avec les résultats d'un vote récent [[6]](#ref-6) . C'est pas plus clair  que de savoir que χ² =5.096106 ?
 
-[![](images/a0f2cd2f1122581853f48daf6d87a414.png "graphique_1 (3)")](http://drgoulu.local//HLIC/a0f2cd2f1122581853f48daf6d87a414.png)
+[![](images/a0f2cd2f1122581853f48daf6d87a414.png "graphique_1 (3)")](images/a0f2cd2f1122581853f48daf6d87a414.png)
 
 Note\*: en fait l'interprétation de la table est plus délicate que ça, et ma "sur-vulgarisation" de ce passage traduit mon inconfort avec le langage des stats... Si quelqu'un pouvait m'aider via un commentaire éclairé svp...
 

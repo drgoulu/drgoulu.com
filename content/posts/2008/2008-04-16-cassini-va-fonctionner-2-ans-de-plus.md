@@ -1,5 +1,6 @@
 ---
 title: "Cassini va fonctionner 2 ans de plus"
+slug: "cassini-va-fonctionner-2-ans-de-plus"
 date: 2008-04-16
 categories: 
   - "non-classe"
@@ -10,7 +11,7 @@ tags:
 coverImage: "fa5c9dbf427f3420cceb9f5566b91e01.jpg"
 ---
 
-Bonne nouvelle : la sonde Cassini qui nous a déjà apporté une myriade d'informations et de magnifiques photos de Saturne et de sa banlieue (voir [ici](http://drgoulu.local/2008/01/10/les-plus-belles-images-de-cassini/), [ici](http://drgoulu.local/2007/12/03/saturne-le-poster/), [là](http://drgoulu.local/2007/10/15/cassini-forever/) et encore [là)](http://drgoulu.local/2007/10/14/cassini-huygens-10-ans-de-reve/) va fonctionner encore 2 ans.
+Bonne nouvelle : la sonde Cassini qui nous a déjà apporté une myriade d'informations et de magnifiques photos de Saturne et de sa banlieue (voir [ici](/2008/01/10/les-plus-belles-images-de-cassini/), [ici](/2007/12/03/saturne-le-poster/), [là](/2007/10/15/cassini-forever/) et encore [là)](/2007/10/14/cassini-huygens-10-ans-de-reve/) va fonctionner encore 2 ans.
 
 Sa mission initiale s'achève cet été, mais elle est en tellement bon état que la NASA a décidé de la faire repasser près de Saturne et 4 de ses satellites Titan, Encelade, Dioné, Rhéa et Hélène, représentés sur le photo montage ci-dessous.
 

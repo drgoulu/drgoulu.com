@@ -1,5 +1,6 @@
 ---
 title: "Les requins sont-ils attirés par le sang ?"
+slug: "les-requins-sont-ils-attires-par-le-sang"
 date: 2014-04-19
 categories: 
   - "cat2"
@@ -10,7 +11,7 @@ tags:
 coverImage: "4ba026f75f693b56904b28c5c4899daf.jpg"
 ---
 
-Dans le [quiz sur les poissons](http://drgoulu.local/2014/04/01/poisson-davril-ou-pas/) (d'avril ou pas), une majorité des participants a répondu "vrai" à la question 6: "Les requins sont attirés par une goutte de sang humain à des kilomètres". Or la réponse, ou plutôt ma réponse puisque c'est moi qui ai proposé cette question, était "Poisson d’Avril : les requins détectent bien le sang de poisson, mais très mal le sang humain. Voici [une video](http://www.youtube.com/watch?v=gU9CQT-snIo) extraite de l’émission des [MythBusters](https://fr.wikipedia.org/wiki/MythBusters) qui le prouve."
+Dans le [quiz sur les poissons](/2014/03/31/poisson-davril-ou-pas/) (d'avril ou pas), une majorité des participants a répondu "vrai" à la question 6: "Les requins sont attirés par une goutte de sang humain à des kilomètres". Or la réponse, ou plutôt ma réponse puisque c'est moi qui ai proposé cette question, était "Poisson d’Avril : les requins détectent bien le sang de poisson, mais très mal le sang humain. Voici [une video](http://www.youtube.com/watch?v=gU9CQT-snIo) extraite de l’émission des [MythBusters](https://fr.wikipedia.org/wiki/MythBusters) qui le prouve."
 
 {{< youtube id="gU9CQT-snIo" width="640" >}}
 

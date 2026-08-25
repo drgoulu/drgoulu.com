@@ -1,5 +1,6 @@
 ---
 title: "C’est plein de Trous Noirs !"
+slug: "cest-plein-de-trous-noirs"
 date: 2007-03-13
 categories: 
   - "cat1"

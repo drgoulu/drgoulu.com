@@ -1,5 +1,6 @@
 ---
 title: "L'abstraction mathématique gravée dans le marbre"
+slug: "abstraction-mathematique-gravee-dans-le-marbre"
 date: 2016-12-02
 categories: 
   - "cat1"
@@ -45,7 +46,7 @@ Mais j'y ai quand même trouvé une figure décorant une question (intéressante
 
 A ce stade, je me suis demandé si les maths échappaient désormais à la vulgarisation, si les chercheurs avaient atteint un tel niveau d'abstraction qu'il ne leur était plus possible d'expliquer leur travail en langage humain.
 
-Comme j'avais gagné une [toute petite réputation](http://mathoverflow.net/users/88768/dr-goulu) sur MathOverflow grâce à [ma réponse](http://mathoverflow.net/questions/178139/examples-of-unexpected-mathematical-images/233385#233385) sur [le fossé de Sloane](http://drgoulu.local/2011/04/10/le-fosse-de-sloane/), j'y ai posé une question que j'ai intitulée "[Morava k-theories for dummies ?](http://mathoverflow.net/questions/255265/morava-k-theories-for-dummies)". Et à ma grande surprise j'ai reçu des réponses lisibles.
+Comme j'avais gagné une [toute petite réputation](http://mathoverflow.net/users/88768/dr-goulu) sur MathOverflow grâce à [ma réponse](http://mathoverflow.net/questions/178139/examples-of-unexpected-mathematical-images/233385#233385) sur [le fossé de Sloane](/2011/04/10/le-fosse-de-sloane/), j'y ai posé une question que j'ai intitulée "[Morava k-theories for dummies ?](http://mathoverflow.net/questions/255265/morava-k-theories-for-dummies)". Et à ma grande surprise j'ai reçu des réponses lisibles.
 
 Ce qui m'a été le plus utile est un commentaire de [Denis Nardin](http://mathoverflow.net/users/43054/denis-nardin), doctorant en [topologie algébrique](https://fr.wikipedia.org/wiki/topologie_algébrique) au MIT:
 
@@ -78,7 +79,7 @@ C'est donc du grand art mathématique. De l'art très abstrait, mais désormais 
 
 ### Références
 
-1. <span id="ref-1"></span>{{< altmetric doi="10.1007/BFb0084741" float="right" >}}Urs Würgler "[Morava K-theories-a-survey](http://drgoulu.local/wp-content/uploads/2016/11/Wurgler-Morava-K-theories-A-survey.pdf)" 2006, in Lecture Notes in Mathematics Vol. 1474 (pp. 111–138). Springer Berlin Heidelberg. DOI : [10.1007/BFb0084741](http://doi.org/10.1007/BFb0084741)
+1. <span id="ref-1"></span>{{< altmetric doi="10.1007/BFb0084741" float="right" >}}Urs Würgler "[Morava K-theories-a-survey](/wp-content/uploads/2016/11/Wurgler-Morava-K-theories-A-survey.pdf)" 2006, in Lecture Notes in Mathematics Vol. 1474 (pp. 111–138). Springer Berlin Heidelberg. DOI : [10.1007/BFb0084741](http://doi.org/10.1007/BFb0084741)
 2. <span id="ref-2"></span>{{< altmetric doi="10.1007/BF02621900" float="right" >}}Urs Würgler "Commutative ring-spectra of characteristic 2", 1986. Commentarii Mathematici Helvetici, 61(1), 33–45 DOI:[10.1007/BF02621900](http://doi.org/10.1007/BF02621900)
 
 ### Notes

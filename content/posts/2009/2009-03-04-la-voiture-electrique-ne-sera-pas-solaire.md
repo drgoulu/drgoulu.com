@@ -1,5 +1,6 @@
 ---
 title: "la voiture électrique ne sera pas solaire"
+slug: "la-voiture-electrique-ne-sera-pas-solaire"
 date: 2009-03-04
 categories: 
   - "cat3"
@@ -10,9 +11,12 @@ tags:
   - "tesla"
   - "transports"
 coverImage: "142565195b93f184c11358f0b1a0ba85.png"
+
+aliases:
+  - "/2009/03/05/la-voiture-electrique-ne-sera-pas-solaire/"
 ---
 
-S'il devient techniquement possible de réaliser des [voitures électriques performantes](http://drgoulu.local/2008/05/06/le-roadster-tesla-disponible-en-europe/), encore faudra-t-il produire proprement l'électricité pour les alimenter (ou l'hydrogène, ça revient pratiquement au même) .
+S'il devient techniquement possible de réaliser des [voitures électriques performantes](/2008/05/06/le-roadster-tesla-disponible-en-europe/), encore faudra-t-il produire proprement l'électricité pour les alimenter (ou l'hydrogène, ça revient pratiquement au même) .
 
 Certains imaginent que l'énergie solaire pourrait être une solution, mais ils oublient de tenir compte de quelques éléments essentiels:
 
@@ -20,7 +24,7 @@ Certains imaginent que l'énergie solaire pourrait être une solution, mais ils 
 
 {{< figure src="images/142565195b93f184c11358f0b1a0ba85.png" alt="powernext" caption="\]" align="aligncenter" width="462" >}}
 
-- Une installation photovoltaïque produit de l'électricité justement pendant la journée, ce qui fait que le kWh peut être vendu [autour de 60 centimes d'Euros](http://drgoulu.local/2007/08/26/energie-eolienne-et-solaire-a-prix-coutant/), soit à un prix permettant de couvrir les couts "seulement" 4 à 10 fois plus cher que le prix du marché ...
+- Une installation photovoltaïque produit de l'électricité justement pendant la journée, ce qui fait que le kWh peut être vendu [autour de 60 centimes d'Euros](/2007/08/26/energie-eolienne-et-solaire-a-prix-coutant/), soit à un prix permettant de couvrir les couts "seulement" 4 à 10 fois plus cher que le prix du marché ...
 
 {{< figure src="images/b8fee8cde0e705f223bdb535998edee0.gif" alt="Courbe de la production solaire pendant une journée sans nuages." caption=".&quot;" align="alignright" width="500" >}}
 
@@ -30,7 +34,7 @@ Certains imaginent que l'énergie solaire pourrait être une solution, mais ils 
 
 Pour minimiser le nombre de nouvelles centrales thermiques qui devront être construites, il faut combler la baisse de demande nocturne en exploitant toutes les formes de stockage d'énergie : recharger les voitures, produire de l'hydrogène, ou comprimer de l'air et pomper de l'eau dans les lacs alpins pour produire les pics du lendemain.
 
-Mais n'en déplaise à mes compatriotes de [Rinspeed](http://www.motorlegend.com/actualite-automobile/rinspeed-ichange/3039.html) et de [Belenos Clean Power](http://fr.wikipedia.org/wiki/Belenos_Clean_Power) (lancé par M.Hayek [que j'admire beaucoup par ailleurs](http://drgoulu.local/2007/05/15/montre-mecanique-contre-quartz/)), stocker de l'électricité solaire dans une bagnole est une aberration.
+Mais n'en déplaise à mes compatriotes de [Rinspeed](http://www.motorlegend.com/actualite-automobile/rinspeed-ichange/3039.html) et de [Belenos Clean Power](http://fr.wikipedia.org/wiki/Belenos_Clean_Power) (lancé par M.Hayek [que j'admire beaucoup par ailleurs](/2007/05/15/montre-mecanique-contre-quartz/)), stocker de l'électricité solaire dans une bagnole est une aberration.
 
 ### Sources:
 

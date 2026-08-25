@@ -1,5 +1,6 @@
 ---
 title: "Inventaire des Croix du Ciel."
+slug: "inventaire-des-croix-du-ciel"
 date: 2009-01-17
 categories: 
   - "cat1"
@@ -19,13 +20,13 @@ Cet article multipack regroupe deux sujets intéressants, et un qui sert juste �
 Deux constellations ont "une forme de croix" :
 
 - ![](images/SouthernCross.jpg)la [Croix du Sud](http://fr.wikipedia.org/wiki/Croix_du_Sud) permet de repérer le Sud approximatif si vous êtes perdus la nuit dans le désert australien, ou sur un voilier retourné au Cap Horn.
-- Dans l'hémisphère Nord, on appelle parfois "Croix du Nord" la constellation du [Cygne](http://fr.wikipedia.org/wiki/Cygne_\(constellation\)), une belle croix bien visible dans le ciel d'été hébergeant plusieurs nébuleuses intéressantes et faciles à observer, comme la [magnifique Voile](http://www.skyfactory.org/vela/vela.htm) dont j'ai déjà causé [ici.](http://drgoulu.local/2007/12/13/meilleures-photos-astronomiques-2007/)
+- Dans l'hémisphère Nord, on appelle parfois "Croix du Nord" la constellation du [Cygne](http://fr.wikipedia.org/wiki/Cygne_\(constellation\)), une belle croix bien visible dans le ciel d'été hébergeant plusieurs nébuleuses intéressantes et faciles à observer, comme la [magnifique Voile](http://www.skyfactory.org/vela/vela.htm) dont j'ai déjà causé [ici.](/2007/12/13/meilleures-photos-astronomiques-2007/)
 
 mais ce dont je voulais principalement parler c'est...
 
 ### Pourquoi les étoiles brillantes ont une forme de croix sur les photos astronomiques.
 
-Les étoiles sont tellement éloignées qu'à part le Soleil, elles nous apparaissent toutes comme des points. Il n'y a que les [géantes comme Bételgeuse ou Antares](http://drgoulu.local/2008/02/01/on-est-peu-de-chose/) qui apparaissent comme de vagues petites boules de quelques pixels sur les images des plus puissants télescopes. Mais alors pourquoi voit-on de grosses étoiles brillantes ornées de jolis "rayons" en forme de croix sur les photos astronomiques comme celle-ci :
+Les étoiles sont tellement éloignées qu'à part le Soleil, elles nous apparaissent toutes comme des points. Il n'y a que les [géantes comme Bételgeuse ou Antares](/2008/02/01/on-est-peu-de-chose/) qui apparaissent comme de vagues petites boules de quelques pixels sur les images des plus puissants télescopes. Mais alors pourquoi voit-on de grosses étoiles brillantes ornées de jolis "rayons" en forme de croix sur les photos astronomiques comme celle-ci :
 
 {{< figure src="images/f91fd32264ce5b96c19fb40088b76e72.jpg" alt="Grand Nuage de Magellan photographié par Hubble." caption="Grand Nuage de Magellan photographié par Hubble." link="http://www.spacetelescope.org/" align="aligncenter" width="400" >}}
 
@@ -61,7 +62,7 @@ Récemment, une équipe Suisso-Germano-Etatsunienne \[3\] a combiné des images 
 
 mais la qualité n'est pas terrible, téléchargez plutôt le film en HD directement depuis le [site de l'ESO](http://www.eso.org/public/news/eso0847/).
 
-Le résultat c'est qu'ils ont réussi à prouver que le quasar fait moins de quelques jours-lumière de diamètre, ce qui est compatible avec un [disque d'accrétion de trou noir supermassif](http://drgoulu.local/2008/04/18/ca-cest-du-trou-noir-du-vrai/). Donc cette lentille gravitationnelle nous permet de "voir" avec une résolution d'un jour lumière un objet distant de 10 milliards d'années lumière. Il suffit d'une division pour obtenir la résolution de l'instrument : 3.10^-13 radians. C'est mille fois mieux que le meilleur télescope existant. Mais moins maniable, c'est vrai.
+Le résultat c'est qu'ils ont réussi à prouver que le quasar fait moins de quelques jours-lumière de diamètre, ce qui est compatible avec un [disque d'accrétion de trou noir supermassif](/2008/04/18/ca-cest-du-trou-noir-du-vrai/). Donc cette lentille gravitationnelle nous permet de "voir" avec une résolution d'un jour lumière un objet distant de 10 milliards d'années lumière. Il suffit d'une division pour obtenir la résolution de l'instrument : 3.10^-13 radians. C'est mille fois mieux que le meilleur télescope existant. Mais moins maniable, c'est vrai.
 
 ### Sources:
 

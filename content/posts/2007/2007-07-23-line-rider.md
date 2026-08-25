@@ -1,5 +1,6 @@
 ---
 title: "Line Rider"
+slug: "line-rider"
 date: 2007-07-23
 categories: 
   - "non-classe"

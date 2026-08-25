@@ -1,5 +1,6 @@
 ---
 title: "Idées radicales sur les crèches"
+slug: "idees-radicales-sur-les-creches"
 date: 2006-06-02
 categories: 
   - "non-classe"

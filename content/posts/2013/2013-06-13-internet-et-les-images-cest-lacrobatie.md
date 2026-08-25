@@ -1,5 +1,6 @@
 ---
 title: "Internet et les images, c'est l'acrobatie"
+slug: "internet-et-les-images-cest-lacrobatie"
 date: 2013-06-13
 categories: 
   - "cat2"
@@ -48,7 +49,7 @@ En faisant des copies de ces images, le lien avec le site d'origine est rompu. S
 
 D'après ma maigre expérience, Google trouve plus d'images car il indexe plus de sites, mais TinEye retrouve des images plus fortement modifiées.
 
-En passant, comme je m'étais intéressé à [l'algorithme de Shazam](http://drgoulu.local/2009/07/11/comment-marche-shazam/) je me suis évidemment aussi posé la question pour la recherche d'images. [Sur leur forum, les gens de TinEye ne sont pas plus bavards](http://forums.tineye.com/discussion/77/does-tineye-base-on-mser-sifts/p1) que ceux de Google sur l'algorithme utilisé, et [cette discussion sur stackoverflow](http://stackoverflow.com/questions/1005115/what-algorithm-could-be-used-to-identify-if-images-are-the-same-or-similar-reg) ne permet que d'esquisser quelques pistes, parmi lesquelles:
+En passant, comme je m'étais intéressé à [l'algorithme de Shazam](/2009/07/11/comment-marche-shazam/) je me suis évidemment aussi posé la question pour la recherche d'images. [Sur leur forum, les gens de TinEye ne sont pas plus bavards](http://forums.tineye.com/discussion/77/does-tineye-base-on-mser-sifts/p1) que ceux de Google sur l'algorithme utilisé, et [cette discussion sur stackoverflow](http://stackoverflow.com/questions/1005115/what-algorithm-could-be-used-to-identify-if-images-are-the-same-or-similar-reg) ne permet que d'esquisser quelques pistes, parmi lesquelles:
 
 - L'algorithme [Scale-invariant feature transform (SIFT)](http://fr.wikipedia.org/wiki/Scale-invariant_feature_transform), breveté, mais il le mérite
 - La méthode [maximally stable extremal regions (MSER)](http://en.wikipedia.org/wiki/Maximally_stable_extremal_regions)
@@ -72,7 +73,7 @@ Un excellent [article de pixabay](http://pixabay.com/en/blog/posts/hotlinking-pr
 
 Quand j'écris un article, le hotlinking est tellement simple que je ne peux pas m'empêcher de l'utiliser pour insérer des images, et j'ai procédé ainsi pour toutes les images de cet article . copier l'adresse de l'image désirée, cliquer sur "Ajouter un média" dans [WordPress](http://fr.wordpress.org/) et coller dans "insérer à partir d'une adresse web".
 
-Mais le hotlinking c'est mal et ça peut être gênant, comme je m'en suis [aperçu il y a quelque années](http://drgoulu.local/2007/04/30/hotlinking/). Alors j'ai installé un plugin Wordpress qui s'appelle [hot-linked-image-cacher](http://wordpress.org/plugins/hot-linked-image-cacher/) qui télécharge les images hotlinkées sur drgoulu.com et remplace mon hotlink par un link local, tout ça tout seul. Il est vieux mais marche très bien, je le recommande vivement. S'il ajoutait les images proprement à la galerie de WP, il serait parfait.
+Mais le hotlinking c'est mal et ça peut être gênant, comme je m'en suis [aperçu il y a quelque années](/2007/04/30/hotlinking/). Alors j'ai installé un plugin Wordpress qui s'appelle [hot-linked-image-cacher](http://wordpress.org/plugins/hot-linked-image-cacher/) qui télécharge les images hotlinkées sur drgoulu.com et remplace mon hotlink par un link local, tout ça tout seul. Il est vieux mais marche très bien, je le recommande vivement. S'il ajoutait les images proprement à la galerie de WP, il serait parfait.
 
 J'utilise aussi [imsanity](http://wordpress.org/plugins/imsanity/), qui s'occupe de faire automatiquement des versions basse résolution de mes grosses images, ce qui est rend le surf plus rapide et me permet de garder la version haute résolution pour moi...
 

@@ -1,5 +1,6 @@
 ---
 title: "Les impossibles 1"
+slug: "les-impossibles-1"
 date: 2014-02-02
 categories: 
   - "cat1"
@@ -10,7 +11,7 @@ tags:
 coverImage: "44ffddf78bf8e6856d01686087fcd59b.png"
 ---
 
-Au moins quatre commentateurs de mon [article sur le mouvement perpétuel](http://drgoulu.local/2012/05/27/dites-non-au-mouvement-perpetuel/) m'ont sorti le même argument: des scientifiques célèbres ont dit au XIXème siècle qu’il était impossible aux avions de voler, donc les scientifiques n'ont pas le droit d'affirmer que quelque chose est impossible, en particulier violer le [premier principe de la thermodynamique](https://fr.wikipedia.org/wiki/premier_principe_de_la_thermodynamique). Donc le mouvement perpétuel est possible, CQFD.
+Au moins quatre commentateurs de mon [article sur le mouvement perpétuel](/2012/05/27/dites-non-au-mouvement-perpetuel/) m'ont sorti le même argument: des scientifiques célèbres ont dit au XIXème siècle qu’il était impossible aux avions de voler, donc les scientifiques n'ont pas le droit d'affirmer que quelque chose est impossible, en particulier violer le [premier principe de la thermodynamique](https://fr.wikipedia.org/wiki/premier_principe_de_la_thermodynamique). Donc le mouvement perpétuel est possible, CQFD.
 
 Ca pose tout de même une question intéressante : qu'est-ce que la science considère comme réellement impossible ? Mais avant de tenter de répondre à cela, j'ai d'abord vérifié ...
 
@@ -40,9 +41,9 @@ Cette impossibilité est une véritable impossibilité physique, alors que l'imp
 
 ### Les impossibilités mathématiques et logiques
 
-Les théorèmes mathématiques prouvent l'impossibilité de toutes sortes de choses : il est [impossible](https://fr.wikipedia.org/wiki/Pi#Irrationalit.C3.A9) de trouver deux nombres entiers a et b tels que a/b = π, [impossible](https://fr.wikipedia.org/wiki/Dernier_th%C3%A9or%C3%A8me_de_Fermat) que [1782¹² + 1841¹² = 1922¹²](http://drgoulu.local/2010/03/08/20-ans-de-science-simpson/) même si ça a l'air juste sur votre calculatrice, [impossible](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_Wantzel) de diviser un angle en trois angles égaux avec une règle et un compas \[4\] etc.
+Les théorèmes mathématiques prouvent l'impossibilité de toutes sortes de choses : il est [impossible](https://fr.wikipedia.org/wiki/Pi#Irrationalit.C3.A9) de trouver deux nombres entiers a et b tels que a/b = π, [impossible](https://fr.wikipedia.org/wiki/Dernier_th%C3%A9or%C3%A8me_de_Fermat) que [1782¹² + 1841¹² = 1922¹²](/2010/03/07/20-ans-de-science-simpson/) même si ça a l'air juste sur votre calculatrice, [impossible](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_Wantzel) de diviser un angle en trois angles égaux avec une règle et un compas \[4\] etc.
 
-La solidité des [démonstration](https://fr.wikipedia.org/wiki/démonstration)s des théorèmes repose sur celle de deux éléments : les [axiomes](https://fr.wikipedia.org/wiki/axiomes) et la [logique](https://fr.wikipedia.org/wiki/logique). Ces deux piliers des mathématiques ont été complètement reconstruits lors de la révolution de la [logique mathématique](https://fr.wikipedia.org/wiki/logique_mathématique)  du début du XXème siècle, vulgarisée notamment dans la BD [Logicomix](http://drgoulu.local/2011/01/06/logicomix/).
+La solidité des [démonstration](https://fr.wikipedia.org/wiki/démonstration)s des théorèmes repose sur celle de deux éléments : les [axiomes](https://fr.wikipedia.org/wiki/axiomes) et la [logique](https://fr.wikipedia.org/wiki/logique). Ces deux piliers des mathématiques ont été complètement reconstruits lors de la révolution de la [logique mathématique](https://fr.wikipedia.org/wiki/logique_mathématique)  du début du XXème siècle, vulgarisée notamment dans la BD [Logicomix](/2011/01/06/logicomix/).
 
 A cette époque, les logiciens ont formalisé mathématiquement leur propre langage. Grâce aux [calcul des prédicats](https://fr.wikipedia.org/wiki/calcul_des_prédicats), une démonstration peut s'écrire comme une grosse formule que l'on peut évaluer sans risque de commettre des erreurs liées au langage humain. Voici par exemple une partie de la démonstration formelle que 1 + 1 = 2, datant de 1910 \[3\] :
 
@@ -69,7 +70,7 @@ Et comme cet article est en train de me prendre un temps fou et qu'il est déjà
 Références
 
 1. Simon Newcomb "[Is the airship coming ?](http://invention.psychology.msstate.edu/library/Magazines/Airship_Coming.html)" McClure's Magazine, 17, September 1901, pp. 432-435 \[[pdf](http://www.unz.org/Pub/McClures-1901sep-00432)\]
-2. \[openbook booknumber="ISBN:0312279590" templatenumber="5"\]
-3. \[openbook booknumber="OLID:OL14245342M" templatenumber="5"\]  _p. 379 \*54.43 : [1+1=2](http://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?c=umhistmath&cc=umhistmath&idno=aat3201.0001.001&frm=frameset&view=image&seq=401)_
+2. {{< openbook booknumber="ISBN:0312279590" templatenumber="5" >}}
+3. {{< openbook booknumber="OLID:OL14245342M" templatenumber="5" >}}  _p. 379 \*54.43 : [1+1=2](http://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?c=umhistmath&cc=umhistmath&idno=aat3201.0001.001&frm=frameset&view=image&seq=401)_
 4. Ian Stewart, "[Les théorèmes de l’impossible](http://www.pourlascience.fr/ewb_pages/a/article-les-theoremes-de-l-impossible-27765.php)", 2000, Pour la Science, No 268, pp. 92–93
 5. J.-P. Delahaye, "[Du rêve à la réalité des preuves](http://www.pourlascience.fr/ewb_pages/a/article-du-reve-a-la-realite-des-preuves-26716.php)", 2011, Pour La Science, No. 402, p. 90, 2011 \[[texte sur interstices](https://interstices.info/jcms/int_63417/du-reve-a-la-realite-des-preuves)\]

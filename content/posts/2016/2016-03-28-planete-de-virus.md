@@ -1,5 +1,6 @@
 ---
 title: "Planète de virus"
+slug: "planete-de-virus"
 date: 2016-03-28
 categories: 
   - "cat2"
@@ -21,7 +22,7 @@ Ces sujets sont traités en marge de chapitres dévolus principalement aux vir
 
 Dans le même ordre d'idées, le chapitre sur les virus [bactériophages](https://fr.wikipedia.org/wiki/bactériophage) laisse espérer de nouveaux moyens de lutte contre les bactéries, notamment celles qui deviennent résistantes aux antibiotiques.
 
-Le chapitre sur les virus marins et leur stupéfiante abondance ("il y a plus de virus sur Terre que d'étoiles dans l'univers") m'a fait repenser à une phrase de [Richard Dawkins](https://fr.wikipedia.org/wiki/Richard_Dawkins)\* qui disait en substance "la vie est ce que l'ADN a inventé pour pouvoir se répliquer au maximum". La lecture de ce livre me conforte dans l'idée qu'il pourrait y avoir du vrai dans cette "[inversion de la pensée](http://drgoulu.local/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole)" ...
+Le chapitre sur les virus marins et leur stupéfiante abondance ("il y a plus de virus sur Terre que d'étoiles dans l'univers") m'a fait repenser à une phrase de [Richard Dawkins](https://fr.wikipedia.org/wiki/Richard_Dawkins)\* qui disait en substance "la vie est ce que l'ADN a inventé pour pouvoir se répliquer au maximum". La lecture de ce livre me conforte dans l'idée qu'il pourrait y avoir du vrai dans cette "[inversion de la pensée](/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)" ...
 
 Ce livre est un excellent livre de vulgarisation, un modèle du genre. Il me semble accessible à un très large public, sans nécessiter de connaissances scientifiques particulières. Carl Zimmer donne les clés nécessaires au moment utile et évite de noyer le lecteur dans trop de détails. Mais le curieux trouvera 6 pages de références scientifiques en fin d'ouvrage.
 
@@ -33,5 +34,5 @@ Note \* : précisé le 29.3 suite au commentaire de Thierry Caminel
 
 ### Références
 
-1. <span id="ref-1"></span>\[openbook booknumber="ISBN:9782701197678" templatenumber="5"\]
+1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:9782701197678" templatenumber="5" >}}
 2. <span id="ref-2"></span>[interview de Carl Zimmer sur PodcastScience.fm](http://www.podcastscience.fm/dossiers/2016/03/10/carl-zimmer-planet-of-viruses-in-english/) (en anglais)

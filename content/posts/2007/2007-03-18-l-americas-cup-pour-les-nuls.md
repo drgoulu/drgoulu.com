@@ -1,5 +1,6 @@
 ---
 title: "l&#8217; America&#8217;s Cup pour les Nuls"
+slug: "l-americas-cup-pour-les-nuls"
 date: 2007-03-18
 categories: 
   - "non-classe"

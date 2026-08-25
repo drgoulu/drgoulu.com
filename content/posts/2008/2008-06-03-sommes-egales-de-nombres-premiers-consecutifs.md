@@ -1,5 +1,6 @@
 ---
 title: "Sommes Egales de Nombres Premiers Consécutifs"
+slug: "sommes-egales-de-nombres-premiers-consecutifs"
 date: 2008-06-03
 categories: 
   - "cat2"
@@ -12,9 +13,9 @@ tags:
 coverImage: "0b7574cc4d97b1ba36b34b2b9797fc23.gif"
 ---
 
-![](images/389c66e7ddab342c9a24fd6e80fd3c65.jpg)Le quatrième et dernier problème de la [Google Treasure Hunt 2008](http://treasurehunt.appspot.com) mérite un article à lui tout seul. (J'ai parlé des trois autres dans [cet article et ses commentaires](http://drgoulu.local/2008/05/18/recrutement-et-casse-tete/))
+![](images/389c66e7ddab342c9a24fd6e80fd3c65.jpg)Le quatrième et dernier problème de la [Google Treasure Hunt 2008](http://treasurehunt.appspot.com) mérite un article à lui tout seul. (J'ai parlé des trois autres dans [cet article et ses commentaires](/2008/05/17/recrutement-et-casse-tete/))
 
-Il s'agit de trouver le plus petit [nombre premier](http://drgoulu.local/2007/01/20/les-nombres-premiers/) P qui soit en même temps :
+Il s'agit de trouver le plus petit [nombre premier](/2007/01/20/les-nombres-premiers/) P qui soit en même temps :
 
 - la somme de 9 nombres premiers consécutifs
 - la somme de 119 nombres premiers consécutifs

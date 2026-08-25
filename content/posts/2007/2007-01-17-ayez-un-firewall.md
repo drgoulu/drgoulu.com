@@ -1,5 +1,6 @@
 ---
 title: "Ayez un Firewall !"
+slug: "ayez-un-firewall"
 date: 2007-01-17
 categories: 
   - "non-classe"

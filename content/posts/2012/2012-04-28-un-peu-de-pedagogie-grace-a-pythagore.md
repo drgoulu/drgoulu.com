@@ -1,5 +1,6 @@
 ---
 title: "Un peu de pédagogie grâce à Pythagore"
+slug: "un-peu-de-pedagogie-grace-a-pythagore"
 date: 2012-04-28
 categories: 
   - "cat2"
@@ -19,14 +20,14 @@ En tournant autour du [triangle pédagogique](https://fr.wikipedia.org/wiki/tria
 
 ### "Réconciliez-vous avec Pythagore au point d'être capables de démontrer son Théorème à vos enfants avec du papier et des ciseaux."
 
-Pour ça j'ai pondu ce [matériel/support de cours \[pdf\]](http://drgoulu.local/wp-content/uploads/2012/04/Formateur-Dem-Pythagore.pdf)  et le petit [scénario pédagogique suivant](https://fr.wikipedia.org/wiki/scénario_pédagogique suivant), expérimenté sur mes collègues/cobayes :
+Pour ça j'ai pondu ce [matériel/support de cours \[pdf\]](/wp-content/uploads/2012/04/Formateur-Dem-Pythagore.pdf)  et le petit [scénario pédagogique suivant](https://fr.wikipedia.org/wiki/scénario_pédagogique suivant), expérimenté sur mes collègues/cobayes :
 
 1. 2 mins : méthode interrogative "qui se souvient du théorème de Pythagore ?". Faire dire aux participants qu'il concerne les triangles rectangles, qu'il s'agit de la relation entre la longueur des côtés. Faire dire la relation, ou au moins qu'elle concerne les carrés. Lequel des côtés est appelé hypothénuse ? (là surprise : un participant se souvient que l' autre s'appelle "[cathète](https://fr.wikipedia.org/wiki/cathète)", ce que j'avais oublié, car inutile :-) )
 2. ![](images/1fcb1b98d9c27cc98e59606435d05fc3.png)3 mins : méthode explicative : il y a environ 2500 ans, [Pythagore](https://fr.wikipedia.org/wiki/Pythagore) a eu l'idée géniale que la relation entre les côtés des triangles rectangles impliquait les carrés. Dessin de la figure de l'interprétation géométrique. Comment a-t-il eu cette idée ? Personnellement je pense que c'est peut-être en découvrant le [triplet pythagoricien](https://fr.wikipedia.org/wiki/triplet_pythagoricien) (3,4,5) et en remarquant que 3²=9, 4²= 16, 9+16=25=5². _Ajout du 5.5.12 : c'est bien ça ! je viens de découvrir la [corde à treize noeuds](https://fr.wikipedia.org/wiki/corde_à_treize_noeuds) des égyptiens grâce à la [vidéo d'AlgoRythmes](http://algorythmes.blogspot.com/2012/05/video-histoires-de-science-pythagore.html) !_ Mais l'existence des triplets comme (3,4,5) ne constitue pas une "démonstration". Pour démontrer Pythagore, il faut montrer que la relation a²+b²=c² est vraie pour tout triangle rectangle. Une démonstration géométrique se base sur un dessin avec un triangle quelconque, mais peut être répétée quel que soit le triangle.
-3. 5 mins : méthode découverte : donner la page A du [matériel](http://drgoulu.local/wp-content/uploads/2012/04/Formateur-Dem-Pythagore.pdf) (j'avais prédécoupé les triangles pour gagner du temps). L'idée est que les participants retrouvent par eux-mêmes  l'une des méthodes suivantes:
+3. 5 mins : méthode découverte : donner la page A du [matériel](/wp-content/uploads/2012/04/Formateur-Dem-Pythagore.pdf) (j'avais prédécoupé les triangles pour gagner du temps). L'idée est que les participants retrouvent par eux-mêmes  l'une des méthodes suivantes:
     - le puzzle de [Henry Perigal](https://fr.wikipedia.org/wiki/Henry_Perigal) animé [en GeoGebra ici](http://www.geogebra.org/m/20380) et en video: {{< youtube id="LtkAIQcACqY" >}}
     - le réarrangement {{< youtube id="gy2Y7Ld4B6U" >}}
-4. 5 mins : si on a le temps (on ne l'a pas eu parce que le point ci-dessus prend 10 mins au lieu de 5), voir cette [autre démonstration en vidéo](http://www.palais-decouverte.fr/uploads/media/pythagore_5.swf) et la reproduire à l'aide de la page B du [matériel](http://drgoulu.local/wp-content/uploads/2012/04/Formateur-Dem-Pythagore.pdf) et de carrés a² et b² à découper :
+4. 5 mins : si on a le temps (on ne l'a pas eu parce que le point ci-dessus prend 10 mins au lieu de 5), voir cette [autre démonstration en vidéo](http://www.palais-decouverte.fr/uploads/media/pythagore_5.swf) et la reproduire à l'aide de la page B du [matériel](/wp-content/uploads/2012/04/Formateur-Dem-Pythagore.pdf) et de carrés a² et b² à découper :
     
     {{< figure src="images/35439556ef0ca43984e5561836e6f148.gif" alt="La démonstration de Gougu, mon cousin chinois du IIIème siècle" caption="La démonstration de Gougu, mon cousin chinois du IIIème siècle" link="http://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_Pythagore#Par_le_puzzle_de_Gougu" align="aligncenter" width="231" >}}
 5. 6 mins ( 1 min par participant) : évaluation : chacun reproduit la démonstration sans aide.
@@ -39,7 +40,7 @@ Et je l'étais vraiment, mais la vraie raison pour laquelle j'avais mis sur pied
 
 En pensant à ça et à l'escalier, je me demande si le problème de l'apprentissage ne réside pas dans la hauteur des marches ? Pour une même pente d'apprentissage, il y a peut être des domaines (lecture, écriture, sciences humaines ?) dans lesquelles l'escalier est formée de nombreuses marches très petites, formant presque une rampe continue alors que lees maths et les sciences "dures" m’apparaissent comme de vraies marches, parfois hautes, correspondant à des notions qu'il faut intégrer, appliquer, digérer avant d'attaquer la marche suivante.
 
-Tout ça m'a aussi donné une idée à propos des [extraterrestres à qui on a envoyé le théorème de Pythagore](http://drgoulu.local/2011/09/25/comment-comptent-les-extraterrestres/) : peut-être qu'ils ne nous répondent pas parce que leur société est dirigée par des pédagogues et que leurs mathématiciens, génétiquement incapables de transmettre leur science d'une manière accessible à tous, sont relégués dans une basse caste...
+Tout ça m'a aussi donné une idée à propos des [extraterrestres à qui on a envoyé le théorème de Pythagore](/2011/09/25/comment-comptent-les-extraterrestres/) : peut-être qu'ils ne nous répondent pas parce que leur société est dirigée par des pédagogues et que leurs mathématiciens, génétiquement incapables de transmettre leur science d'une manière accessible à tous, sont relégués dans une basse caste...
 
 Ensuite j'ai du me concentrer parce qu'un autre participant nous a appris à faire une mayonnaise et je ne voulais pas rater la mienne. Parce qu'une mayonnaise, ça se mange !
 
@@ -48,4 +49,4 @@ Ensuite j'ai du me concentrer parce qu'un autre participant nous a appris à fai
 1. [Animations de démonstrations géométriques au Palais de la Découverte](http://www.palais-decouverte.fr/index.php?id=858)
 2. [D'autres animation autour de Pythagore](http://www.ies.co.jp/math/java/geo/pythagoras.html)
 3. [Histoire du théorème de Pythagore](http://www.mediamaths.net/article-histoire-du-theoreme-de-pythagore-63742847.html "Histoire du théorème de Pythagore") sur MediaMaths
-4. \[openbook booknumber="OLID:OL5597934M" templatenumber="5"\] (un [livre énumérant 370 démonstrations](http://www.scribd.com/doc/91620284) !)
+4. {{< openbook booknumber="OLID:OL5597934M" templatenumber="5" >}} (un [livre énumérant 370 démonstrations](http://www.scribd.com/doc/91620284) !)

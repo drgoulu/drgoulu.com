@@ -1,5 +1,6 @@
 ---
 title: "Mort aux Virus, Spam, Hoaxes et Popups !"
+slug: "mort-aux-virus-spam-hoaxes-et-popups"
 date: 2004-06-21
 categories: 
   - "non-classe"

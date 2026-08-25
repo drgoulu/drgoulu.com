@@ -1,5 +1,6 @@
 ---
 title: "Ce qu'Einstein n'a jamais dit"
+slug: "ce-queinstein-na-jamais-dit"
 date: 2008-11-26
 categories: 
   - "cat1"
@@ -19,7 +20,7 @@ L'autre jour, un titre de journal de boulevard a retenu mon attention : "_Ce que
 
 Commençons par la pire "citation" d'Einstein:
 
-> L’[astrologie](http://drgoulu.local/2004/06/30/astrologie/) est une science en soi illuminatrice. J’ai appris beaucoup grâce à elle, et je lui dois beaucoup. Les connaissances géophysiques mettent en relief le pouvoir des étoiles et des planètes sur le destin terrestre. A son tour, en un certain sens, l’astrologie le renforce. C’est pourquoi c’est une espèce d’élixir de vie pour l’humanité .
+> L’[astrologie](/2004/06/30/astrologie/) est une science en soi illuminatrice. J’ai appris beaucoup grâce à elle, et je lui dois beaucoup. Les connaissances géophysiques mettent en relief le pouvoir des étoiles et des planètes sur le destin terrestre. A son tour, en un certain sens, l’astrologie le renforce. C’est pourquoi c’est une espèce d’élixir de vie pour l’humanité .
 
 Qui peut ne serait-ce qu'imaginer un fondateur de la physique moderne prononcer une telle stupidité ? Pourtant cette phrase figure dans la "thèse" d'Elisabeth Teissier, sans référence d'aucune sorte et personne n'a songé à demander au "docteur" de la vérifier. En fait, il s'agit d'une "citation" non seulement totalement bidon [[1]](#ref-1), [[2]](#ref-2), mais malhonnête. Ce qu'il a vraiment écrit sur l'astrologie, c'est :
 
@@ -45,7 +46,7 @@ D'autres "citations" sont des raccourcis compressés qui trahissent la pensée d
 
 > Croire en Dieu est un superstition enfantine
 
-dont [j'ai parlé à l'époque](http://drgoulu.local/2008/05/15/le-dieu-deinstein/). Dans le même domaine :
+dont [j'ai parlé à l'époque](/2008/05/15/le-dieu-deinstein/). Dans le même domaine :
 
 > Le Mal est l'absence de Dieu
 
@@ -82,7 +83,7 @@ et enfin , la prochaine fois que vous verrez une Vérité Suprême signée Alber
 1. <span id="ref-1"></span>Jean-Paul Krivine "[Einstein et l’astrologie : une citation fausse qui a la vie dure: un jury de La Sorbonne victime d’un vieux canular d’astrologues](http://www.pseudo-sciences.org/spip.php?article644)", SPS n° 250, décembre 2001
 2. <span id="ref-2"></span>Denis Hamel "[Les grands esprits manipulés par les astrologues](http://www.sceptiques.qc.ca/assets/docs/qs57p31.pdf)", Le Québec sceptique, Numéro 57
 3. <span id="ref-3"></span>préface de  "Johannes Kepler: Life and Letters", Carola Baumgardt, New York, Philosophical Library, 1951.
-4. <span id="ref-4"></span>_(ajoutée le 3.12.2013)_  \[openbook booknumber="ISBN:2020016214 " templatenumber="5"\]: la phrase exacte est "_Le Dr Hoenikker disait volontiers qu’un scientifique incapable d’expliquer ce qu’il fait à un enfant de huit ans est un charlatan._"
+4. <span id="ref-4"></span>_(ajoutée le 3.12.2013)_  {{< openbook booknumber="ISBN:2020016214" templatenumber="5" >}}: la phrase exacte est "_Le Dr Hoenikker disait volontiers qu’un scientifique incapable d’expliquer ce qu’il fait à un enfant de huit ans est un charlatan._"
 
 ### Sources:
 

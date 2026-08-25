@@ -1,5 +1,6 @@
 ---
 title: "Einstein et les ondes gravitationnelles"
+slug: "einstein-et-les-ondes-gravitationnelles"
 date: 2016-02-14
 categories: 
   - "cat1"
@@ -34,7 +35,7 @@ Sur les résultats récents de LIGO je vous recommande:
 - L'article de Nicola Twiller dans le New-Yorker " [Gravitational waves exist : here is how scientists finally found them](http://www.newyorker.com/tech/elements/gravitational-waves-exist-heres-how-scientists-finally-found-them)" que David recommande fort justement
 - [L'article d'Eric sur "Ca se passe là-haut"](http://www.ca-se-passe-la-haut.fr/2016/02/ligo-observe-la-fusion-de-deux-trous.html) qui pose le prochain challenge : savoir si les ondes gravitationnelles se propagent à la vitesse de la lumière, ou juste un peu en dessous. Ce qui revient à déterminer si le [graviton](https://fr.wikipedia.org/wiki/graviton) a une (petite) masse, ou pas du tout.
 
-Pour ma part, j'avoue qu'en écrivant [cet article](http://drgoulu.local/2014/03/22/le-point-sur-les-ondes-gravitationnelles/) il y a pile deux ans, je ne pensais pas qu'on arriverait à détecter des ondes gravitationnelles à la surface de notre planète. Je m'attendais à ce que des instruments affranchis des vibrations parasites de notre environnement soient indispensables. Je me suis trompé.
+Pour ma part, j'avoue qu'en écrivant [cet article](/2014/03/22/le-point-sur-les-ondes-gravitationnelles/) il y a pile deux ans, je ne pensais pas qu'on arriverait à détecter des ondes gravitationnelles à la surface de notre planète. Je m'attendais à ce que des instruments affranchis des vibrations parasites de notre environnement soient indispensables. Je me suis trompé.
 
 ### Références
 

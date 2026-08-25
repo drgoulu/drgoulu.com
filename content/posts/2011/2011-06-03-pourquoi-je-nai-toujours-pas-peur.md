@@ -1,5 +1,6 @@
 ---
 title: "Pourquoi je n&#039;ai toujours pas peur de mon téléphone mobile"
+slug: "pourquoi-je-nai-toujours-pas-peur"
 date: 2011-06-03
 categories: 
   - "cat1"

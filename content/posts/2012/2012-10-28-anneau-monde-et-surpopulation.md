@@ -1,5 +1,6 @@
 ---
 title: "Anneau-Monde et surpopulation"
+slug: "anneau-monde-et-surpopulation"
 date: 2012-10-28
 categories: 
   - "cat3"
@@ -35,7 +36,7 @@ Chacune des civilisations du livre de Larry Niven a trouvé une solution différ
 
 Dans un prochain article, nous verrons que la démographie humaine du 21ème siècle est assez différente de celle que Larry Niven pouvait imaginer en pleine "explosion démographique" [[3]](#ref-3), au moment où le [Club de Rome](https://fr.wikipedia.org/wiki/Club_de_Rome) commençait à envisager des limites à la croissance [[4]](#ref-4). Néanmoins, il me semble que le choix de "société durable" qui se profile pour nous se situe quelque part entre celui des Marionnettistes végétariens entassés sur une planète surchauffée et celui des Kzintis carnivores en guerre perpétuelle.
 
-Mais si nous consacrons toutes les ressources de la planète à notre survie, nous serons irrémédiablement limités à une [civilisation de type I](https://fr.wikipedia.org/wiki/échelle_de_Kardashev) bloquée au fond de son [trou gravitationnel](http://drgoulu.local/2012/09/05/un-petit-pas-pour-lhomme/). Ne sommes-nous pas devant un choix plus fondamental encore ? Ne devrions-nous pas réduire drastiquement (mais pacifiquement, par une politique mondiale de l'enfant unique étalée sur un siècle par exemple) notre population pour disposer des énormes réserves d'énergie et de ressources nécessaires pour partir, construire des [vaisseaux-mondes](https://fr.wikipedia.org/wiki/vaisseau-mode) et essaimer dans l'espace à la conquête de plus de ressources, d'énergie et de surface ?
+Mais si nous consacrons toutes les ressources de la planète à notre survie, nous serons irrémédiablement limités à une [civilisation de type I](https://fr.wikipedia.org/wiki/échelle_de_Kardashev) bloquée au fond de son [trou gravitationnel](/2012/09/05/un-petit-pas-pour-lhomme/). Ne sommes-nous pas devant un choix plus fondamental encore ? Ne devrions-nous pas réduire drastiquement (mais pacifiquement, par une politique mondiale de l'enfant unique étalée sur un siècle par exemple) notre population pour disposer des énormes réserves d'énergie et de ressources nécessaires pour partir, construire des [vaisseaux-mondes](https://fr.wikipedia.org/wiki/vaisseau-mode) et essaimer dans l'espace à la conquête de plus de ressources, d'énergie et de surface ?
 
 {{< figure src="images/379d0d704eab862a57e1d259a74ee89d.jpg" alt="http://www.abalakin.de/" caption="The Return to Abalakin d'Alexander Preuss : un &quot;vaisseau-monde&quot; qui fait presque envie, non ?" link="http://www.abalakin.de/" align="aligncenter" width="650" >}}
 
@@ -43,7 +44,7 @@ Note\*: la chance n'étant pas un caractère héréditaire, elle ne peut pas êt
 
 ### Références:
 
-1. <span id="ref-1"></span>\[openbook booknumber="OLID:OL22747808M" templatenumber="5"\]
-2. <span id="ref-2"></span>\[openbook booknumber="ISBN:9782290339169" templatenumber="5"\]
-3. <span id="ref-3"></span>\[openbook booknumber="ISBN:9782080351630" templatenumber="5"\]
-4. <span id="ref-4"></span>\[openbook booknumber="OLID:OL22186542M" templatenumber="5"\]
+1. <span id="ref-1"></span>{{< openbook booknumber="OLID:OL22747808M" templatenumber="5" >}}
+2. <span id="ref-2"></span>{{< openbook booknumber="ISBN:9782290339169" templatenumber="5" >}}
+3. <span id="ref-3"></span>{{< openbook booknumber="ISBN:9782080351630" templatenumber="5" >}}
+4. <span id="ref-4"></span>{{< openbook booknumber="OLID:OL22186542M" templatenumber="5" >}}

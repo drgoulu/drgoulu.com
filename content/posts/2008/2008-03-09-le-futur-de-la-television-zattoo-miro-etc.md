@@ -1,5 +1,6 @@
 ---
 title: "le futur de la télévision (Zattoo, Miro etc.)"
+slug: "le-futur-de-la-television-zattoo-miro-etc"
 date: 2008-03-09
 categories: 
   - "non-classe"
@@ -28,7 +29,7 @@ Là encore, la solution est sur internet : les podcasts video, ou "vodcasts" (vo
     - les Guignols, Groland, et les Pépites sur le Net de Canal+ pour rigoler
     - Les meilleures émissions de Discovery Channel, notamment les [MythBusters](http://dsc.discovery.com/tv/mythbusters/)
     - [Wired Science](http://www.pbs.org/kcet/wiredscience/), [Science Friday](http://www.sciencefriday.com/) et [Science Channel](http://science.discovery.com/)
-    - les fabuleux [GapCasts de Gapminder](http://drgoulu.local/2008/03/07/les-gapcasts-geniales-videos-sur-les-statistiques-mondiales/)
+    - les fabuleux [GapCasts de Gapminder](/2008/03/07/les-gapcasts-geniales-videos-sur-les-statistiques-mondiales/)
     - les superbes [video spatiales de la NASA / Jet Propulsion Lab](http://www.jpl.nasa.gov/multimedia/indexPod.cfm)
 
 Il ne me reste qu'à trouver un moyen de regarder [Planète](http://www.planeteplus.com/), ma chaine préférée, sans câble ni satellite...

@@ -1,5 +1,6 @@
 ---
 title: "Acanthaspis Petax, CC et Wikipédia"
+slug: "acanthapis-petax-cc-et-wikipedia"
 date: 2013-01-26
 categories: 
   - "cat2"

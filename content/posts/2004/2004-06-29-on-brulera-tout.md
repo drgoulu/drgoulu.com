@@ -1,5 +1,6 @@
 ---
 title: "On brûlera tout !"
+slug: "on-brulera-tout"
 date: 2004-06-29
 categories: 
   - "cat3"

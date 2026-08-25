@@ -1,5 +1,6 @@
 ---
 title: "Inégalités et Croissance"
+slug: "inegalites-et-croissance"
 date: 2007-09-26
 categories: 
   - "cat3"
@@ -11,7 +12,7 @@ tags:
 coverImage: "ceff2742634f4ddd3d5251efaaf85934.png"
 ---
 
-Dans "[Le Temps](http://www.letemps.ch/)" d'aujourd'hui, un article intitulé "**L’augmentation des inégalités a un effet différencié sur la croissance des régions**" de Dirk Schumacher commence par : "_Les inégalités de revenu au sein des grands pays industrialisés augmentent depuis quelques temps_ ». Or lorsque je m'étais intéressé à [vérifer cette assertion récurrente](http://drgoulu.local/2007/01/09/les-inegalites-saccroissent-vraiment/), je n’avais trouvé de données appuyant cette assertion que pour les USA. D’après les autres sources que j’avais trouvé, les écarts de revenu diminuent en Suisse, et l’indice de Gini diminue aussi au niveau mondial.
+Dans "[Le Temps](http://www.letemps.ch/)" d'aujourd'hui, un article intitulé "**L’augmentation des inégalités a un effet différencié sur la croissance des régions**" de Dirk Schumacher commence par : "_Les inégalités de revenu au sein des grands pays industrialisés augmentent depuis quelques temps_ ». Or lorsque je m'étais intéressé à [vérifer cette assertion récurrente](/2007/01/09/les-inegalites-saccroissent-vraiment/), je n’avais trouvé de données appuyant cette assertion que pour les USA. D’après les autres sources que j’avais trouvé, les écarts de revenu diminuent en Suisse, et l’indice de Gini diminue aussi au niveau mondial.
 
 Mais le titre de l'article affirme quelque chose de plus : l'augmentation des inégalités aurait un effet sur la croissance ! Cependant, et j'aurais tendance à dire heureusement, l'article ne démontre pas cette relation de cause à effet.
 
@@ -21,7 +22,7 @@ D'autre part, l'article est illustré par un graphique ressemblant à celui-ci, 
 
 [![gini-growth.png](images/0cc8f858ee91cace96d1786059e4a32c.png)](http://www.nationmaster.com/plot/eco_gdp_rea_gro_rat-economy-gdp-real-growth-rate/eco_dis_of_fam_inc_gin_ind-distribution-family-income-gini-index/flag&id=OECD#details)
 
-La figure est censée montrer une relation entre le taux de croissance (horizontalement) et l'indice de Gini, qui traduit les inégalités de revenu, comme [déjà expliqué ici](http://drgoulu.local/2007/01/09/les-inegalites-saccroissent-vraiment/). Si les pays était disséminés le long d'une ligne bien nette, une relation serait défendable, mais ici, ce n'est pas clair du tout.
+La figure est censée montrer une relation entre le taux de croissance (horizontalement) et l'indice de Gini, qui traduit les inégalités de revenu, comme [déjà expliqué ici](/2007/01/09/les-inegalites-saccroissent-vraiment/). Si les pays était disséminés le long d'une ligne bien nette, une relation serait défendable, mais ici, ce n'est pas clair du tout.
 
 En plus et principalement, un tel graphique montrerait une corrélation qui ne suffit pas pour déduire une **relation de cause à effet** : est ce l'inégalité qui cause la croissance, ou la croissance qui cause l'inégalité ?
 

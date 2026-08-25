@@ -1,5 +1,6 @@
 ---
 title: "Periodic Table of Rock"
+slug: "periodic-table-of-rock"
 date: 2013-09-24
 categories: 
   - "cat2"
@@ -20,4 +21,4 @@ En anglais, presque ! Après recherche sur Spotify, voici ma playliste "[Periodi
 
 _(ajout du 19.12.2013 : El Jj a réalisé ce magnifique vrai tableau:)_
 
-{{< figure src="images/520337PeriodicTableofRock.png" alt="Periodic Table of Rock par El Jj (cliquer pour agrandir)" caption="Periodic Table of Rock par El Jj (cliquer pour agrandir)" link="http://drgoulu.local/wp-content/uploads/2013/09/520337PeriodicTableofRock.png" align="aligncenter" width="614" >}}
+{{< figure src="images/520337PeriodicTableofRock.png" alt="Periodic Table of Rock par El Jj (cliquer pour agrandir)" caption="Periodic Table of Rock par El Jj (cliquer pour agrandir)" link="/wp-content/uploads/2013/09/520337PeriodicTableofRock.png" align="aligncenter" width="614" >}}

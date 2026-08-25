@@ -1,5 +1,6 @@
 ---
 title: "La montée en puissance des GPUs"
+slug: "la-montee-en-puissance-des-gpus"
 date: 2007-11-02
 categories: 
   - "cat2"
@@ -43,7 +44,7 @@ Cette différence d'architecture fait qu'il n'est pas possible d'exécuter sur l
 - les échanges de données entre les ALU de GPU sont beaucoup plus limités qu'entre des coeurs de CPU
 - la structure "pipeline" des GPU fait que leurs performances sonttrès dégradées dès qu'il y a des tests dans le programme. Il faut programmer les GPU sans "if ... then .. " !
 
-La principale conséquence de ces différences hardware est que les langages de programmation usuels ne sont pas adaptés à la programmation des GPU. Des langages spécifiques ont été définis, initialement pour la programmation des "shaders", programmes réalisant tous les effets graphiques des cartes modernes. Mais ces langages permettent aussi la "programmation générale des GPU" (ou [GPGPU](http://gpgpu.org)), dont j'ai déjà parlé [ici](http://drgoulu.local/2007/05/19/gpus-et-physique/), [là](http://drgoulu.local/2007/08/22/progres-en-mecanique-des-fluides/), et [là](http://drgoulu.local/2007/05/02/relativite-en-temps-reel-2/) :
+La principale conséquence de ces différences hardware est que les langages de programmation usuels ne sont pas adaptés à la programmation des GPU. Des langages spécifiques ont été définis, initialement pour la programmation des "shaders", programmes réalisant tous les effets graphiques des cartes modernes. Mais ces langages permettent aussi la "programmation générale des GPU" (ou [GPGPU](http://gpgpu.org)), dont j'ai déjà parlé [ici](/2007/05/19/gpus-et-physique/), [là](/2007/08/22/progres-en-mecanique-des-fluides/), et [là](/2007/05/02/relativite-en-temps-reel-2/) :
 
 - nVidia a défini le langage [Cg](http://developer.nvidia.com/cg-toolkit) comme "C pour graphiques"
 - ATI a plutôt soutenu le standard [GLSL](http://www.opengl.org/documentation/glsl/) défini par le standard [OpenGL](http://www.opengl.org/)

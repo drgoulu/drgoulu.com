@@ -1,5 +1,6 @@
 ---
 title: "J'ai attrapé le bison de Higgs"
+slug: "jai-attrape-le-bison-de-higgs"
 date: 2016-04-03
 categories: 
   - "cat1"
@@ -19,4 +20,4 @@ J'ai particulièrement apprécié son approche de la recherche en maths. Comment
 
 Pour ma part j'ai appris quelques choses comme l'expérience de [Dan Ariely](https://fr.wikipedia.org/wiki/Dan_Ariely) montrant que l'ajout d'une offre absurde peut changer radicalement notre perception de la valeur d'un produit ou service. Ou l'existence du [tournoi d'Axelrod](https://fr.wikipedia.org/wiki/Coopération-réciprocité-pardon#Application) qui a montré la meilleure stratégie au [dilemme du prisonnier répété](https://fr.wikipedia.org/wiki/Dilemme_du_prisonnier#Le_dilemme_répété). Ou aussi que l'hypothèse du [boson de Higgs](https://fr.wikipedia.org/wiki/boson_de_Higgs) a été initialement proposée pour justifier que la masse des bosons W et Z ne soit pas nulle, alors qu'elle aurait du l'être selon la [théorie de jauge](https://fr.wikipedia.org/wiki/théorie_de_jauge). Oui bon, le dernier chapitre qui donne le titre au livre n'est pas le plus simple, mais il permet de terminer l'ouvrage sur une ouverture : il y a encore de l'incertitude et des choses à découvrir en sciences. Ca laisse augurer encore de nombreux articles de blog, de vidéos et de livres de vulgarisation. Continue David !
 
-Référence : \[openbook booknumber="ISBN:2081364131" templatenumber="5"\] [](http://openlibrary.org/books/OL25899641M/Mais_qui_a_attrapé_le_bison_de_Higgs)
+Référence : {{< openbook booknumber="ISBN:2081364131" templatenumber="5" >}} [](http://openlibrary.org/books/OL25899641M/Mais_qui_a_attrapé_le_bison_de_Higgs)

@@ -1,5 +1,6 @@
 ---
 title: "Grandes Images"
+slug: "grandes-images"
 date: 2007-08-19
 categories: 
   - "cat2"
@@ -11,7 +12,7 @@ coverImage: "10164660_6db65f4953_o.jpg"
 
 Exemple de découverte surprenante au cours d'un surf internet:
 
-A la base, je cherchais un logiciel permettant de visualiser un très grand graphe au format SVG, généré par [GraphViz.](http://drgoulu.local/) J'ai trouvé [ZGRViewer](http://zvtm.sourceforge.net/zgrviewer.html), qui est très bien, mais un peu lourd à mettre en oeuvre sur un site web.
+A la base, je cherchais un logiciel permettant de visualiser un très grand graphe au format SVG, généré par [GraphViz.](/) J'ai trouvé [ZGRViewer](http://zvtm.sourceforge.net/zgrviewer.html), qui est très bien, mais un peu lourd à mettre en oeuvre sur un site web.
 
 Alors je me suis demandé s'il existait quelque chose permettant de visualiser de grandes images, puisque mon graphe peut aussi tenir sur un format de 10'000 x 40'000 pixels... J'ai trouvé [Vliv (Very Large Image Viewer)](http://delhoume.frederic.free.fr/vliv.htm), un programme pour Windows qui arrive à afficher des images de 100'000 x 100'000 pixels ! Sur le site on trouve des exemples d'images gigantesques a télécharger:
 

@@ -1,5 +1,6 @@
 ---
 title: "Anticythère version suisse"
+slug: "anticythere-version-suisse"
 date: 2011-12-03
 categories: 
   - "cat2"
@@ -70,7 +71,7 @@ Ce film est également à découvrir [sur YouTube](http://www.youtube.com/user/a
 ### Notes
 
 1. la première fois que j'ai entendu parler de ce truc, ce devait être par [Jacques Bergier](http://fr.wikipedia.org/wiki/Jacques_Bergier) comme preuve de l'Atlantide...
-2. la [miniaturisation](http://drgoulu.local/2009/06/11/il-y-a-plein-de-place-en-bas-2/) rend les choses plus faciles, ne l'oublions pas....
+2. la [miniaturisation](/2009/06/11/il-y-a-plein-de-place-en-bas-2/) rend les choses plus faciles, ne l'oublions pas....
 3. à Paris avent Baselworld ??? Tout fout l' camp...
 
 \[1\] Jo Marchant "[In search of lost time](http://www.nature.com/nature/journal/v444/n7119/full/444534a.html)" Nature 2006;444;534-538

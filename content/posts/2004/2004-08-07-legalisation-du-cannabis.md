@@ -1,5 +1,6 @@
 ---
 title: "Légalisation du Cannabis"
+slug: "legalisation-du-cannabis"
 date: 2004-08-07
 categories: 
   - "cat3"

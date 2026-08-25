@@ -1,5 +1,6 @@
 ---
 title: "Bits en vrac"
+slug: "bits-en-vrac-2"
 date: 2016-08-14
 categories: 
   - "cat2"
@@ -54,7 +55,7 @@ Petit intermède sur une utilité amusante des mouchards ; le "WordPress Stats"
 
 "Rien ne sert d'écrire, il faut curer à point" dirait la tortue virtuelle au lièvre du 21ème siècle. Je découvre parfois des sites très intéressants en me demandant pourquoi je ne les ai pas trouvés plus tôt. La réponse est toujours la même : parce qu'ils sont très mal référencés, voire pas du tout, sur les moteurs de recherche et les réseaux sociaux. Etre bien référencé demande un réel travail que j'ai pour ma part intégré à mon activité de [curation de contenu](https://fr.wikipedia.org/wiki/curation_de_contenu).
 
-En 2014 j'ai commencé le [paragraphe "Curation V.3" du "Bits en Vrac](http://drgoulu.local/2014/04/09/bits-en-vrac/)" par ces mots : il n’y a toujours pas mieux pour suivre les sites intéressants que les [flux RSS](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=flux+RSS). Deux ans plus tard je maintiens, mais j'ai remplacé récemment [CommaFeed](https://www.commafeed.com/) par [InnoReader](http://www.inoreader.com/), encore meilleur pour les raisons que voici:
+En 2014 j'ai commencé le [paragraphe "Curation V.3" du "Bits en Vrac](/2014/04/09/bits-en-vrac/)" par ces mots : il n’y a toujours pas mieux pour suivre les sites intéressants que les [flux RSS](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=flux+RSS). Deux ans plus tard je maintiens, mais j'ai remplacé récemment [CommaFeed](https://www.commafeed.com/) par [InnoReader](http://www.inoreader.com/), encore meilleur pour les raisons que voici:
 
 1. il permet d'intégrer aussi des fils Twitters, qui deviennent peu à peu une alternative aux flux RSS
 2. On peut intégrer des règles pour automatiser certaines opérations comme classer les articles relatifs à un certain sujet dans un dossier spécifique, ou marquer automatiquement les publications des membres du Café des Sciences comme particulièrement intéressantes, ou encore marquer comme lus les articles qui ont le même titre qu'un autre paru moins de 24h plus tôt

@@ -1,5 +1,6 @@
 ---
 title: "Une nouvelle forme d'art ?"
+slug: "une-nouvelle-forme-dart"
 date: 2008-03-16
 categories: 
   - "non-classe"

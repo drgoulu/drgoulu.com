@@ -1,5 +1,6 @@
 ---
 title: "De quelle couleur est l'ours ?"
+slug: "de-quelle-couleur-est-lours"
 date: 2013-10-08
 categories: 
   - "cat2"
@@ -10,7 +11,7 @@ tags:
 coverImage: "teddy_bear_rainbow.png"
 ---
 
-Parfois, un membre du [C@fé des Sciences](http://www.cafe-sciences.org/) lance une "chaîne" de billets sur un thème donné. Là c'est Rock 'n' Science qui a lancé la chaîne des [blagues à caractère scientifique](http://sproutchlagrenouille.wordpress.com/2013/10/02/blagues-a-caractere-scientifique-une-chaine/), déjà complétée par plusieurs de mes estimés confrères. Ayant déjà [blogué sur ce thème](http://drgoulu.local/tag/humour/) par le passé et n'osant pas répéter les horreurs circulant sur notre forum interne, ma modeste contribution cette fois-ci se résume à ce petit problème plus mignon que drôle: [![teddy\_bear\_rainbow](images/teddy_bear_rainbow.png)](http://drgoulu.local/wp-content/uploads/2013/10/teddy_bear_rainbow.png)
+Parfois, un membre du [C@fé des Sciences](http://www.cafe-sciences.org/) lance une "chaîne" de billets sur un thème donné. Là c'est Rock 'n' Science qui a lancé la chaîne des [blagues à caractère scientifique](http://sproutchlagrenouille.wordpress.com/2013/10/02/blagues-a-caractere-scientifique-une-chaine/), déjà complétée par plusieurs de mes estimés confrères. Ayant déjà [blogué sur ce thème](/tags/humour/) par le passé et n'osant pas répéter les horreurs circulant sur notre forum interne, ma modeste contribution cette fois-ci se résume à ce petit problème plus mignon que drôle: [![teddy\_bear\_rainbow](images/teddy_bear_rainbow.png)](/wp-content/uploads/2013/10/teddy_bear_rainbow.png)
 
 > Un explorateur quitte son campement et marche 20 km plein sud, puis il tourne à angle droit et marche 20 km tout droit en direction de l'est. Puis il tourne à nouveau à angle droit et marche 20 km parfaitement vers le nord. Il arrive en plein sur son campement, où il découvre un ours en train de dévorer ses provisions. De quelle couleur est l'ours ?
 
@@ -26,7 +27,7 @@ De plus, les [coordonnées géographiques](https://fr.wikipedia.org/wiki/coordon
 
 Ce n'est qu'à partir d'un campement situé au pôle nord que notre explorateur peut réaliser le trajet décrit, donc le seul ours qui peut s'y trouver est [Ursus maritimus](https://fr.wikipedia.org/wiki/Ursus_maritimus), dit blanc.
 
-(_paragraphe corrigé le 3.1.14 suite au commentaire de Sophie_) Comme on s'en convainc en observant le dessin ci-contre, l'explorateur revient à sa base selon une direction perpendiculaire à bien différente de sa direction de départ. Tant qu'il reste près du pôle, l'angle au sommet vaut [1 radian, soit 57°](http://drgoulu.local/2010/01/16/histoire-dangles/) environ, mais si son périple descendait jusqu'à l'équateur, il décrirait un triangle équilatéral dont les 3 angles sont droits !
+(_paragraphe corrigé le 3.1.14 suite au commentaire de Sophie_) Comme on s'en convainc en observant le dessin ci-contre, l'explorateur revient à sa base selon une direction perpendiculaire à bien différente de sa direction de départ. Tant qu'il reste près du pôle, l'angle au sommet vaut [1 radian, soit 57°](/2010/01/16/histoire-dangles/) environ, mais si son périple descendait jusqu'à l'équateur, il décrirait un triangle équilatéral dont les 3 angles sont droits !
 
 Reste un détail à régler : y'a-t-il vraiment des ours polaires au pôle nord ? Apparemment oui : on en a [vu au dessus de 88°](https://fr.wikipedia.org/wiki/Coordonn%C3%A9es_g%C3%A9ographiques) de latitude nord, donc à environ 200 km de l'axe de la Terre.
 

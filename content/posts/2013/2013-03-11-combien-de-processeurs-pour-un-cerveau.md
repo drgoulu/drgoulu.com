@@ -1,5 +1,6 @@
 ---
 title: "Combien de processeurs pour un cerveau ?"
+slug: "combien-de-processeurs-pour-un-cerveau"
 date: 2013-03-11
 categories: 
   - "cat2"
@@ -18,7 +19,7 @@ Lancé par [une équipe de l'EPFL](http://bluebrain.epfl.ch/) dirigée par [Hen
 
 Les neurosciences étant traitées par des blogueurs bien plus compétents que moi en la matière, cet article se limite à la partie facile et que je connais un peu : l'informatique. D'ailleurs, Markram et son équipe poursuivent une approche "bottom-up" [[1]](#ref-1) compatible avec un grand principe de l'informatique :
 
-> Tout doit être construit de haut en bas (top-down), sauf la première fois. ([Alan Perlis](http://drgoulu.local/2008/01/21/perlisismes-les-dictons-informatiques-dalan-perlis/))
+> Tout doit être construit de haut en bas (top-down), sauf la première fois. ([Alan Perlis](/2008/01/21/perlisismes-les-dictons-informatiques-dalan-perlis/))
 
 Dès la fin des années 1950 les chercheurs ont analysé le fonctionnement de neurones vivants [[2]](#ref-2) et développé des modèles très simplifiés de neurones ayant débouché sur les [réseaux de neurones artificiels](https://fr.wikipedia.org/wiki/réseau_de_neurones_artificiels) très à la mode dans les année 1990 et qui ont permis de grand progrès dans des applications comme la [reconnaissance optique de caractères](https://fr.wikipedia.org/wiki/reconnaissance_optique_de_caractères) notamment.
 
@@ -30,7 +31,7 @@ Les modèles actuels de neurones isolés sont beaucoup plus complexes et incorpo
 
 Depuis 2006, le [projet "Blue Brain"](http://www.artificialbrains.com/blue-brain-project) de Markram a simulé non seulement le fonctionnement, mais aussi la croissance d'une [colonne néocorticale](https://fr.wikipedia.org/wiki/néocortex) (NCC), une structure d'environ 1mm³ comprenant environ 10'000 neurones fortement interconnectés, répartis sur 6 couches. Un superordinateur [BlueGene](https://fr.wikipedia.org/wiki/BlueGene) doté de 8192 processeurs pour un total d'environ 20 TeraFLOPS a été utilisé, ce qui fonde l'hypothèse de l'équipe selon laquelle la puissance et la mémoire nécessaires à la simulation augmentent linéairement avec le nombre de neurones, et heureusement pas avec le nombre de [synapses](https://fr.wikipedia.org/wiki/synapse) par exemple.
 
-![](images/6ea028259540cc1ff30e911eaa6eb4db.jpg)En extrapolant cette tendance linéaire, Markram estime qu'un ordinateur d'1 ExaFLOPS (un milliard de milliards d'opérations par seconde) doté de 100 PetaBytes de mémoire devrait être capable de simuler un cerveau humain contenant 100 milliards de neurones environ. Et en extrapolant aussi la [remarquablement exponentielle loi de Moore](http://drgoulu.local/2008/06/19/moore-toujours/), un tel superordinateur sera disponible en 2018.
+![](images/6ea028259540cc1ff30e911eaa6eb4db.jpg)En extrapolant cette tendance linéaire, Markram estime qu'un ordinateur d'1 ExaFLOPS (un milliard de milliards d'opérations par seconde) doté de 100 PetaBytes de mémoire devrait être capable de simuler un cerveau humain contenant 100 milliards de neurones environ. Et en extrapolant aussi la [remarquablement exponentielle loi de Moore](/2008/06/19/moore-toujours/), un tel superordinateur sera disponible en 2018.
 
 D'autres [projets de cerveaux artificiels](http://www.artificialbrains.com/) comme [Synapse](http://www.artificialbrains.com/darpa-synapse-program) [[7]](#ref-7), [Spaun](http://www.artificialbrains.com/spaun) [[8]](#ref-8) ou même [SpikeFun](http://www.artificialbrains.com/spikefun) qui simule 32'000 neurones sur votre PC confirment grosso-modo ces ordres de grandeur.
 
@@ -65,4 +66,4 @@ En attendant, il y a toujours moyen de fabriquer un cerveau humain parfaitement 
 7. <span id="ref-7"></span>"[IBM simulates 530 billion neurons, 100 trillion synapses on supercomputer](http://www.kurzweilai.net/ibm-simulates-530-billon-neurons-100-trillion-synapses-on-worlds-fastest-supercomputer)", Kurzweil AI, 2012
 8. <span id="ref-8"></span>Ed Yong, "[Simulated brain scores top test marks](http://www.nature.com/news/simulated-brain-scores-top-test-marks-1.11914)", Nature, 2012
 9. <span id="ref-9"></span>Ed Yong "[Will we ever… simulate the human brain?](http://www.bbc.com/future/story/20130207-will-we-ever-simulate-the-brain) " BBC Future, 8 février 2013
-10. <span id="ref-10"></span>\[openbook booknumber="ISBN:9780670025299" templatenumber="5"\] ([résumé détaillé en anglais](http://newbooksinbrief.com/2012/11/27/25-a-summary-of-how-to-create-a-mind-the-secret-of-human-thought-revealed-by-ray-kurzweil/))
+10. <span id="ref-10"></span>{{< openbook booknumber="ISBN:9780670025299" templatenumber="5" >}} ([résumé détaillé en anglais](http://newbooksinbrief.com/2012/11/27/25-a-summary-of-how-to-create-a-mind-the-secret-of-human-thought-revealed-by-ray-kurzweil/))

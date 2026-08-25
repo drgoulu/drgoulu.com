@@ -1,5 +1,6 @@
 ---
 title: "Pourquoi seulement 2000 Watts ?"
+slug: "pourquoi-seulement-2000-watts"
 date: 2009-05-02
 categories: 
   - "cat3"
@@ -25,7 +26,7 @@ Les promoteurs des énergies renouvelable nous le répètent à l'envi :
 - avec 200 m² de panneaux solaires par personne, on peut facilement produire les 17'500 KWh/an correspondant à la puissance continue de 2000W requise.
 - il suffirait d'équiper quelques pourcents de la surface de nos pays (3% de la Suisse) pour produire la  totalité de l'énergie requise au niveau national, ou de déporter cette production dans des zones désertiques comme le Sahara
 
-Le même raisonnement existe avec les éoliennes, qui pourraient fournir 5x la consommation mondiale d'énergie à elles seules [[2]](#ref-2) . Alors pourquoi ne pas tripler la surface de panneaux ou le nombre d'éoliennes et utiliser 6000W comme aujourd'hui , si on pouvait les produire proprement au même prix que l'énergie que nous consommons actuellement ? Il n'y a qu'une seule justification à la société à 2000W : c'est l'aveu qu'on n'arrivera pas à réduire le coût des énergies renouvelables au niveau des énergies fossiles et nucléaires.  On nous prépare donc à une hausse du prix de l'énergie (à vue de nez un un triplement) en tentant de nous convaincre que notre [efficacité énergétique](http://drgoulu.local/2009/02/15/manicore/) peut être améliorée d'un facteur 3 sans que notre niveau de vie n'en soit affecté.
+Le même raisonnement existe avec les éoliennes, qui pourraient fournir 5x la consommation mondiale d'énergie à elles seules [[2]](#ref-2) . Alors pourquoi ne pas tripler la surface de panneaux ou le nombre d'éoliennes et utiliser 6000W comme aujourd'hui , si on pouvait les produire proprement au même prix que l'énergie que nous consommons actuellement ? Il n'y a qu'une seule justification à la société à 2000W : c'est l'aveu qu'on n'arrivera pas à réduire le coût des énergies renouvelables au niveau des énergies fossiles et nucléaires.  On nous prépare donc à une hausse du prix de l'énergie (à vue de nez un un triplement) en tentant de nous convaincre que notre [efficacité énergétique](/2009/02/15/manicore/) peut être améliorée d'un facteur 3 sans que notre niveau de vie n'en soit affecté.
 
 ### Le paradoxe de Khazzoom-Brookes
 
@@ -49,7 +50,7 @@ En 1964, l'astronome russe [Kardashev proposa une échelle](https://fr.wikipedi
 
 $latex K = \\frac{\\log\_{10}{W}-6}{10}$
 
-Sur cette échelle, l'humanité se situe actuellement autour de K=0.7, avec un taux de croissance de 0.1 / siècle environ. D'ici 300 ans, nous devrions nous approcher du niveau I en consommant 1000x plus d'énergie qu'aujourd'hui. Pour produire autant d'énergie à une fraction du coût actuel, nous ne couvrirons pas la planète d'éoliennes ou de panneaux solaires. Nous pourrions mettre en orbite, mais la [fusion thermonucléaire](http://drgoulu.local/tag/fusion) sera plus probablement la source primaire. Comment peut-on imaginer utiliser tant d'énergie ? Peut-être en désalinisant la mer pour arroser des déserts. En construisant des tunnels intercontinentaux ou des trains circuleraient sous vide (efficacité énergétique oblige) à plus de 1000 km/h. En transformant le Lune en station touristique (mon rève depuis le 20 juillet 1969). En [allant beaucoup plus loin](http://drgoulu.local/2004/08/09/acceleration/).
+Sur cette échelle, l'humanité se situe actuellement autour de K=0.7, avec un taux de croissance de 0.1 / siècle environ. D'ici 300 ans, nous devrions nous approcher du niveau I en consommant 1000x plus d'énergie qu'aujourd'hui. Pour produire autant d'énergie à une fraction du coût actuel, nous ne couvrirons pas la planète d'éoliennes ou de panneaux solaires. Nous pourrions mettre en orbite, mais la [fusion thermonucléaire](/tags/fusion/) sera plus probablement la source primaire. Comment peut-on imaginer utiliser tant d'énergie ? Peut-être en désalinisant la mer pour arroser des déserts. En construisant des tunnels intercontinentaux ou des trains circuleraient sous vide (efficacité énergétique oblige) à plus de 1000 km/h. En transformant le Lune en station touristique (mon rève depuis le 20 juillet 1969). En [allant beaucoup plus loin](/2004/08/09/acceleration/).
 
 La société à 2 Kilowatts n'est pas un objectif, c'est l'aveu anticipé d'une défaite. Pour un objectif réaliste, ambitieux et qui fait rêver, visez la société à 2 MegaWatts !
 

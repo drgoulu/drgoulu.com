@@ -1,5 +1,6 @@
 ---
 title: "Pourquoi je kiffe la science"
+slug: "pourquoi-je-kiffe-la-science"
 date: 2013-04-28
 categories: 
   - "cat1"
@@ -14,13 +15,13 @@ Comme je le mets dans certains profils, je suis "tombé dans la science quand j
 
 {{< figure src="images/c7e574486450dc0aef7d93851a81f709.jpg" alt="Photo sciencephotolibrary. Mais mon papa en a surement de meilleures, faut que je lui demande" caption="Photo sciencephotolibrary. Mais mon papa en a surement de meilleures, faut que je lui demande" link="http://www.sciencephoto.com/media/221403/enlarge" align="alignright" width="265" >}}
 
-D'abord c'est à cause de mon papa, ingénieur en génie civil, qui faisait des trucs magiques comme calculer [ses ponts](http://drgoulu.local/2005/07/03/umberto-guglielmetti/) par [photoélasticimétrie](http://fr.wikipedia.org/wiki/Photo%C3%A9lasticim%C3%A9trie). Il s'intéressait, et s'intéresse toujours, à toutes les sciences et techniques. A la maison on avait un microscope, un télescope, un oscilloscope. Et aussi un atelier de bricolage bien outillé rempli d'appareils éventrés (souvent par mes soins) allant du réveil-matin au moteur de Solex en passant par les éléments de chaine stéréo. (Oui, "[j'ai souffert dans ma jeunesse](http://www.ina.fr/video/I07329367)" ...)
+D'abord c'est à cause de mon papa, ingénieur en génie civil, qui faisait des trucs magiques comme calculer [ses ponts](/2005/07/03/umberto-guglielmetti/) par [photoélasticimétrie](http://fr.wikipedia.org/wiki/Photo%C3%A9lasticim%C3%A9trie). Il s'intéressait, et s'intéresse toujours, à toutes les sciences et techniques. A la maison on avait un microscope, un télescope, un oscilloscope. Et aussi un atelier de bricolage bien outillé rempli d'appareils éventrés (souvent par mes soins) allant du réveil-matin au moteur de Solex en passant par les éléments de chaine stéréo. (Oui, "[j'ai souffert dans ma jeunesse](http://www.ina.fr/video/I07329367)" ...)
 
 Autre personnalité influente : mon tonton, Dr. en chimie qui m'offrait de l'équipement de chimie amusante en quantité industrielle. Le droguiste de ma ville, après m'avoir fourni du sulfate de cuivre pour faire de jolis cristaux, m'a aussi vendu des kilos de nitrates, chlorates et permanganates pour réaliser des expériences qui seraient aujourd'hui relatées en première page: "une bande d'ados inconscients tirent une fusée de 2 kg bourrée de [fulmicoton](http://fr.wikipedia.org/wiki/Nitrocellulose) par dessus le terrain de tennis...". Depuis je sais que les expériences scientifiques demandent un peu de doigté, un soupçon de prudence, et des tonnes de chance.
 
-{{< figure src="images/7fa0266d821a007ae1886d2d51be12c3.jpg" alt="Dans le champ de cette photo, il y a tous les humains sauf Michael Collins" caption="Dans le champ de cette photo, il y a tous les humains sauf Michael Collins" link="http://drgoulu.local//HLIC/7fa0266d821a007ae1886d2d51be12c3.jpg" align="alignleft" width="265" >}}
+{{< figure src="images/7fa0266d821a007ae1886d2d51be12c3.jpg" alt="Dans le champ de cette photo, il y a tous les humains sauf Michael Collins" caption="Dans le champ de cette photo, il y a tous les humains sauf Michael Collins" link="images/7fa0266d821a007ae1886d2d51be12c3.jpg" align="alignleft" width="265" >}}
 
-Sinon, quand j'avais entre 5 et 10 ans, il y a eu six événements extraordinaires : on est allés six fois [sur la Lune](http://drgoulu.local/tag/lune/) ! Vous les jeunes vous ne pouvez pas imaginer ce que ça représentait. Quand je dis "on est allés sur la Lune", je veux dire tout le monde, toute l'humanité et moi futur astronaute y compris. A cette époque, à part pour les hippies, tout était clair : la science et la technique sont toutes puissantes. Si on veut, on peut. No limits. Vers l'infini et au delà !
+Sinon, quand j'avais entre 5 et 10 ans, il y a eu six événements extraordinaires : on est allés six fois [sur la Lune](/tags/lune/) ! Vous les jeunes vous ne pouvez pas imaginer ce que ça représentait. Quand je dis "on est allés sur la Lune", je veux dire tout le monde, toute l'humanité et moi futur astronaute y compris. A cette époque, à part pour les hippies, tout était clair : la science et la technique sont toutes puissantes. Si on veut, on peut. No limits. Vers l'infini et au delà !
 
 Je n'arrive toujours pas à comprendre comment on est retombés sur Terre à cultiver bio et voter écolo en critiquant le méchant lobby agro-pharma-industriel alors qu'on vit 80 ans en bonne santé, en bossant moins que nos parents et en allant 3x plus loin en vacances qu'eux. C'est pas avec le "principe de précaution" qu'on a inventé le turboréacteur ni les chimiothérapies, que diable !
 

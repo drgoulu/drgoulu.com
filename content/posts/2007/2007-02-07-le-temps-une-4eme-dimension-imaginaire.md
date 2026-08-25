@@ -1,5 +1,6 @@
 ---
 title: "Le temps, une 4ème dimension imaginaire"
+slug: "le-temps-une-4eme-dimension-imaginaire"
 date: 2007-02-07
 categories: 
   - "cat1"
@@ -17,7 +18,7 @@ Dans "[voir en 4 dimensions](/2007/02/06/voir-en-4-dimensions/)", je montre comm
 
 Ce deuxième article explique pourquoi le temps, la 4ème dimension de l'[espace-temps](https://fr.wikipedia.org/wiki/espace-temps) dans lequel nous vivons, n'est pas une dimension spatiale comme les 3 autres, mais une dimension [imaginaire](https://fr.wikipedia.org/wiki/Nombre_imaginaire_pur), au sens mathématique du terme : un temps élevé au carré est équivalent à une surface négative !
 
-Imaginez qu'un cube de côté égal à 1 mètre surgisse du néant devant vous et disparaisse tout aussi soudainement 1 seconde plus tard. Le cube a donc été "étiré" dans la dimension du temps sur une distance de 1 seconde, et si vous êtes un "dieu" pour qui le temps est une dimension comme les autres, vous verriez cet événement comme un hypercube flottant dans un espace à 4 dimensions tel que décrit dans [l'article précédent](http://drgoulu.local/2007/02/06/voir-en-4-dimensions/).
+Imaginez qu'un cube de côté égal à 1 mètre surgisse du néant devant vous et disparaisse tout aussi soudainement 1 seconde plus tard. Le cube a donc été "étiré" dans la dimension du temps sur une distance de 1 seconde, et si vous êtes un "dieu" pour qui le temps est une dimension comme les autres, vous verriez cet événement comme un hypercube flottant dans un espace à 4 dimensions tel que décrit dans [l'article précédent](/2007/02/06/voir-en-4-dimensions/).
 
 Mais le temps est-il une dimension "comme les autres" ? Le fait qu'on mesure le temps en secondes et les distances en mètres nous met sur la piste d'une différence fondamentale, qui tient à la manière dont on mesure les distances dans un espace.
 

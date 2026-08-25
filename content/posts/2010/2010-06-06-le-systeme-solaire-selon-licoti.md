@@ -1,5 +1,6 @@
 ---
 title: "Le système solaire selon Licoti"
+slug: "le-systeme-solaire-selon-licoti"
 date: 2010-06-06
 categories: 
   - "cat2"

@@ -1,5 +1,6 @@
 ---
 title: "Inventions"
+slug: "inventions"
 date: 2008-06-30
 categories: 
   - "non-classe"

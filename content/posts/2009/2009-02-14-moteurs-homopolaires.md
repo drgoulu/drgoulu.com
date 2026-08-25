@@ -1,5 +1,6 @@
 ---
 title: "Moteurs homopolaires"
+slug: "moteurs-homopolaires"
 date: 2009-02-14
 categories: 
   - "cat2"

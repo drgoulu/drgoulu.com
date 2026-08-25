@@ -1,5 +1,6 @@
 ---
 title: "Les Robots"
+slug: "les-robots"
 date: 2007-05-26
 categories: 
   - "non-classe"

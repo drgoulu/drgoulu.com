@@ -1,5 +1,6 @@
 ---
 title: "La dette publique genevoise n’est pas un problème"
+slug: "la-dette-publique-genevoise-nest-pas-un-probleme"
 date: 2004-03-26
 categories: 
   - "cat3"

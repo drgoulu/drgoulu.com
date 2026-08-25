@@ -1,5 +1,6 @@
 ---
 title: "20 ans de Science Simpson"
+slug: "20-ans-de-science-simpson"
 date: 2010-03-07
 categories: 
   - "cat2"
@@ -12,6 +13,9 @@ tags:
   - "simpson"
   - "usa"
 coverImage: "simpson_fermat.gif"
+
+aliases:
+  - "/2010/03/08/20-ans-de-science-simpson/"
 ---
 
 Pour les 20 ans des [Simpson](http://fr.wikipedia.org/wiki/Les_Simpson) , [Marge pose dans Playboy](http://www.freshnessmag.com/2009/10/20/playboy-magazine-marge-simpson-issue-detailed-images/) alors que le sexe n'est qu'un thème très secondaire dans la meilleure série animée du monde. Par contre la science y est très présente, ce qui justifie amplement un article sur Dr. Goulu, en plus des livres existant déjà sur le sujet \[1,2,3\]
@@ -130,9 +134,9 @@ Dans les Simpson, les vrais problèmes viennent plutôt des (nombreuses) faibles
 
 ### Sources:
 
-1. \[openbook booknumber="ISBN:2711720586" templatenumber="5"\]
-2. \[openbook booknumber="ISBN:0470114606" templatenumber="5"\]
-3. \[openbook booknumber="ISBN:9781620402771" templatenumber="5"\]
+1. {{< openbook booknumber="ISBN:2711720586" templatenumber="5" >}}
+2. {{< openbook booknumber="ISBN:0470114606" templatenumber="5" >}}
+3. {{< openbook booknumber="ISBN:9781620402771" templatenumber="5" >}}
 4. "[Science on the Simpson](http://simpsonscience.blogspot.com/)" le blog de Paul Halpern
 5. [simpsonsmath.com](http://mathsci2.appstate.edu/~sjg/simpsonsmath/)
 6. "[Matheux, les Simpson ?](http://www.simpsonspark.com/infos_juin06.php)" sur [Simpsons Park](http://www.simpsonspark.com/), le site de référence en français

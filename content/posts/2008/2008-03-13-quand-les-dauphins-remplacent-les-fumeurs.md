@@ -1,5 +1,6 @@
 ---
 title: "Quand les dauphins écrasent les fumeurs"
+slug: "quand-les-dauphins-remplacent-les-fumeurs"
 date: 2008-03-13
 categories: 
   - "cat2"

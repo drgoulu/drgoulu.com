@@ -1,5 +1,6 @@
 ---
 title: "consommation et inflation US"
+slug: "consommation-et-inflation-us"
 date: 2008-05-05
 categories: 
   - "cat3"

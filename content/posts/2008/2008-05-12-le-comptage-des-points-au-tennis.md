@@ -1,5 +1,6 @@
 ---
 title: "Le comptage des points au tennis"
+slug: "le-comptage-des-points-au-tennis"
 date: 2008-05-12
 categories: 
   - "cat2"
@@ -18,7 +19,7 @@ Il y a quelques années, un article par dans "Pour la Science" \[1\] montrait qu
 
 Ceci apparait de façon limpide dans le graphique ci-dessous:
 
-[![](images/00044e0dd345f5f998f074318983f1e4.png)](http://drgoulu.local/wp-content/uploads/HLIC/00044e0dd345f5f998f074318983f1e4.png)
+[![](images/00044e0dd345f5f998f074318983f1e4.png)](/wp-content/uploads/HLIC/00044e0dd345f5f998f074318983f1e4.png)
 
 _probabilités de gain  d'un jeu, d'un set ou d'un match en fonction de la probabilité de gain d'une balle._
 
@@ -32,7 +33,7 @@ Lors du dernier [match de](http://www.eurosport.fr/tennis/ms-rome/2008/story_sto
 
 Si on gagnait au tennis en étant le premier à marquer, disons 90 points, Federer aurait gagné ce match, mais il en aurait statistiquement perdu beaucoup ces dernières années contre des joueurs qui ne perdent que 1 ou 2% de balles contre lui.
 
-Le système de comptage des points au tennis favorise donc l'apparition de "Numéros 1" et leur maintien en haut du classement. Tout [le contraire du football](http://drgoulu.local/2008/05/09/la-science-du-football/) donc.
+Le système de comptage des points au tennis favorise donc l'apparition de "Numéros 1" et leur maintien en haut du classement. Tout [le contraire du football](/2008/05/09/la-science-du-football/) donc.
 
 ### Référence :
 

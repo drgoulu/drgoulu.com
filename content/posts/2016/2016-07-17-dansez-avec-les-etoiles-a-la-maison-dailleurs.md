@@ -1,5 +1,6 @@
 ---
 title: "Dansez avec les étoiles à la Maison d'Ailleurs"
+slug: "dansez-avec-les-etoiles-a-la-maison-dailleurs"
 date: 2016-07-17
 categories: 
   - "non-classe"
@@ -43,12 +44,12 @@ Pas sur que j'aie le temps de terminer un autre article avant la "pause estivale
 
 ### Notes
 
-\*\* titre que je conteste vigoureusement : le sens absolument essentiel de la neige est de pouvoir skier dessus. \* et encore, c'était avant que j'apprenne qu'ils ont développé leur propre soft "[Millumin 2](http://millumin.com)". J'ai cru que c'était du [Processing](http://drgoulu.local/tag/proce55ing/)...
+\*\* titre que je conteste vigoureusement : le sens absolument essentiel de la neige est de pouvoir skier dessus. \* et encore, c'était avant que j'apprenne qu'ils ont développé leur propre soft "[Millumin 2](http://millumin.com)". J'ai cru que c'était du [Processing](/tags/proce55ing/)...
 
 ### Références:
 
 1. <span id="ref-1"></span>Etienne Dumont "[YVERDON/La Maison d'Ailleurs danse avec les étoiles numériques](http://www.bilan.ch/etienne-dumont/courants-dart/yverdonla-maison-dailleurs-danse-etoiles)" 1 mars 2016, Bilan.ch
 2. <span id="ref-2"></span>video "[Danse avec les étoiles la nouvelle expo de La Maison d'Ailleurs](https://www.youtube.com/watch?v=6IMEvXTIjik)" sur YouTube
-3. <span id="ref-3"></span>\[openbook booknumber="ISBN:2917689811" templatenumber="5"\]
+3. <span id="ref-3"></span>{{< openbook booknumber="ISBN:2917689811" templatenumber="5" >}}
 4. <span id="ref-4"></span>"[Project Showcase : Le mouvement de l'air](http://imimot.com/blog/project-showcase-le-mouvement-de-lair/)"
-5. <span id="ref-5"></span>\[openbook booknumber="ISBN:9782365300254" templatenumber="5"\] ([page officielle](http://www.loeildorenligne.com/fr/subjectile/99-la-neige-na-pas-de-sens-9782365300254.html#))
+5. <span id="ref-5"></span>{{< openbook booknumber="ISBN:9782365300254" templatenumber="5" >}} ([page officielle](http://www.loeildorenligne.com/fr/subjectile/99-la-neige-na-pas-de-sens-9782365300254.html#))

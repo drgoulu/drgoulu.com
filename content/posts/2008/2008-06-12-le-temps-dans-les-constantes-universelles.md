@@ -1,5 +1,6 @@
 ---
 title: "Le temps dans les constantes universelles"
+slug: "le-temps-dans-les-constantes-universelles"
 date: 2008-06-12
 categories: 
   - "cat1"
@@ -14,7 +15,7 @@ tags:
 coverImage: "0f6551a2b725cf5aff440b54b767ca4a.jpg"
 ---
 
-En répondant à un [commentaire](http://drgoulu.local/2008/06/06/la-grande-question-du-temps/#comment-2524) sur [la Grande Question du Temps](http://drgoulu.local/2008/06/06/la-grande-question-du-temps/), je me suis aperçu que le mètre et la seconde apparaissaient ensemble dans toutes les unités des [constantes universelles](http://fr.wikipedia.org/wiki/Constantes_physiques#Constantes_universelles):
+En répondant à un [commentaire](/2008/06/06/la-grande-question-du-temps/#comment-2524) sur [la Grande Question du Temps](/2008/06/06/la-grande-question-du-temps/), je me suis aperçu que le mètre et la seconde apparaissaient ensemble dans toutes les unités des [constantes universelles](http://fr.wikipedia.org/wiki/Constantes_physiques#Constantes_universelles):
 
 | Nom | Symbole | Unité |
 | --- | --- | --- |
@@ -26,7 +27,7 @@ En répondant à un [commentaire](http://drgoulu.local/2008/06/06/la-grande-ques
 
 ![](images/0f6551a2b725cf5aff440b54b767ca4a.jpg) _Albert et Max (Einstein et Planck)_
 
-Or, comme expliqué dans "[Le temps, une 4ème dimension imaginaire](http://drgoulu.local/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)", la relativité d'Albert lie le temps et l'espace par la vitesse de la lumière : actuellement, [la définition du mètre](http://fr.wikipedia.org/wiki/M%C3%A8tre) est d'ailleurs basée sur [celle de la seconde](http://fr.wikipedia.org/wiki/Seconde_\(temps\)), mais dans cet "espace-temps" ([dit de Minkowski](http://fr.wikipedia.org/wiki/Espace_de_Minkowski)) , le temps est une dimension "imaginaire" au sens mathématique du terme :
+Or, comme expliqué dans "[Le temps, une 4ème dimension imaginaire](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)", la relativité d'Albert lie le temps et l'espace par la vitesse de la lumière : actuellement, [la définition du mètre](http://fr.wikipedia.org/wiki/M%C3%A8tre) est d'ailleurs basée sur [celle de la seconde](http://fr.wikipedia.org/wiki/Seconde_\(temps\)), mais dans cet "espace-temps" ([dit de Minkowski](http://fr.wikipedia.org/wiki/Espace_de_Minkowski)) , le temps est une dimension "imaginaire" au sens mathématique du terme :
 
 1 \[s\] = i. 300'000'000 \[m\], où i est l'[unité imaginaire](http://fr.wikipedia.org/wiki/Unit%C3%A9_imaginaire) telle que i2\=-1
 

@@ -1,5 +1,6 @@
 ---
 title: "Merci Hans Rosling !"
+slug: "merci-hans-rosling"
 date: 2017-02-08
 categories: 
   - "cat3"
@@ -10,7 +11,7 @@ tags:
 coverImage: "Hans-with-bubbles.jpg"
 ---
 
-[![](images/Hans-with-bubbles.jpg)](http://drgoulu.local/wp-content/uploads/2017/02/Hans-with-bubbles.jpg)C'est avec une grande tristesse que j'ai appris le décès de [Hans Rosling](https://fr.wikipedia.org/wiki/Hans_Rosling). Si vous ne le connaissez pas encore, je vous encourage vivement à voir n'importe laquelle de [ses conférences au TED](https://www.ted.com/speakers/hans_rosling) ou [sur sa chaine YouTube](https://www.youtube.com/channel/UCMbmqUMqzerMSM48pGYMYsg). Ce professeur de statistiques suédois [changera votre vision du monde grâce à ses données](http://drgoulu.local/2009/09/19/laissez-ses-donnees-changer-votre-etat-desprit/), son charisme, son franc parler et son  génial [outil de visualisation "Gapminder"](https://www.gapminder.org/tools/#_chart-type=bubbles) aux désormais célèbres bulles multicolores.
+[![](images/Hans-with-bubbles.jpg)](/wp-content/uploads/2017/02/Hans-with-bubbles.jpg)C'est avec une grande tristesse que j'ai appris le décès de [Hans Rosling](https://fr.wikipedia.org/wiki/Hans_Rosling). Si vous ne le connaissez pas encore, je vous encourage vivement à voir n'importe laquelle de [ses conférences au TED](https://www.ted.com/speakers/hans_rosling) ou [sur sa chaine YouTube](https://www.youtube.com/channel/UCMbmqUMqzerMSM48pGYMYsg). Ce professeur de statistiques suédois [changera votre vision du monde grâce à ses données](/2009/09/19/laissez-ses-donnees-changer-votre-etat-desprit/), son charisme, son franc parler et son  génial [outil de visualisation "Gapminder"](https://www.gapminder.org/tools/#_chart-type=bubbles) aux désormais célèbres bulles multicolores.
 
 Il vous convaincra par exemple:
 

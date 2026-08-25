@@ -1,5 +1,6 @@
 ---
 title: "Le spray de briques"
+slug: "le-spray-de-briques"
 date: 2011-10-06
 categories: 
   - "cat3"

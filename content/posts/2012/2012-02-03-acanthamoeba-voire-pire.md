@@ -1,5 +1,6 @@
 ---
 title: "Acanthamoeba, voire pire"
+slug: "acanthamoeba-voire-pire"
 date: 2012-02-03
 categories: 
   - "cat1"
@@ -11,7 +12,7 @@ coverImage: "374f41da01e983d1c348bbdfee7a6737-1.png"
 
 _(article soumis au concours du 500ème article de "Strange Stuff and Funky Things", qui l'a [publié dans sa série \[Freaky Friday Parasite\]](http://ssaft.com/Blog/dotclear/index.php?post/2012/02/10/%5BFreaky-Friday-Parasite%5D-Acanthamoeba))_
 
-_(article repris dans \[openbook booknumber="9782895444541" templatenumber="5"\])_
+_(article repris dans {{< openbook booknumber="9782895444541" templatenumber="5" >}})_
 
 [Acanthamoeba](https://fr.wikipedia.org/wiki/Acanthamoeba) est un genre d'amibes extrêmement communes. On en trouve partout : dans l'eau douce y compris potable, dans le sol, et même dans l'air sous forme de kystes volants. Les Acanthamoeba mangent des bactéries et contribuent ainsi aux premières étapes de la chaîne alimentaire qui transforme le carbone dissous dans l'eau en steaks, ce qui les classe définitivement dans la catégorie "animaux utiles" de mon premier cours de catéchisme.
 
@@ -56,7 +57,7 @@ Maintenant qu'on a compris, on va aussi viser ces sales bêtes nuisibles d'amibe
 ## Références
 
 1. <span id="ref-1"></span>[Amibes et lentilles cornéennes](http://www.snof.org/maladies/amibes.html) sur le site du SNOF
-2. <span id="ref-2"></span>\[openbook booknumber="ISBN:978-1-904455-43-1" templatenumber="5"\]
+2. <span id="ref-2"></span>{{< openbook booknumber="ISBN:978-1-904455-43-1" templatenumber="5" >}}
 3. <span id="ref-3"></span>[Greffe de cornée](http://www.snof.org/encyclopedie/la-greffe-de-corn%C3%A9e-k%C3%A9ratoplastie-transfixiante) (kératoplastie transfixiante) sur le site du SNOF
 4. <span id="ref-4"></span>S. Carrette et al "[A propos d'un cas de kératite à Acanthamoeba](http://www.ophthalmologia.be/download.php?dof_id=42)", Bull. Soc. belge Ophtalmol., 275, 49-53, 2000.
 5. <span id="ref-5"></span>Cirillo JD, Falkow S, Tompkins LS "Growth of Legionella pneumophila in Acanthamoeba castellanii enhances invasion." Infect Immun. 1994 Aug;62(8):3254-61.

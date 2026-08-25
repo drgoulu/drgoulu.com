@@ -1,5 +1,6 @@
 ---
 title: "Casse-tête binaire"
+slug: "casse-tete-binaire"
 date: 2009-02-03
 categories: 
   - "cat3"

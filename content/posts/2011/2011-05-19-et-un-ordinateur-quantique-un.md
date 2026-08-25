@@ -1,5 +1,6 @@
 ---
 title: "Et un ordinateur quantique, un !"
+slug: "et-un-ordinateur-quantique-un"
 date: 2011-05-19
 categories: 
   - "cat3"

@@ -1,5 +1,6 @@
 ---
 title: "Humour sur Google Maps"
+slug: "humour-sur-google-maps"
 date: 2007-05-03
 categories: 
   - "non-classe"

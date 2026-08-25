@@ -1,5 +1,6 @@
 ---
 title: "Très très très grands nombres"
+slug: "tres-tres-tres-grands-nombres"
 date: 2008-11-04
 categories: 
   - "cat1"

@@ -1,5 +1,6 @@
 ---
 title: "Le point sur les ondes gravitationnelles"
+slug: "le-point-sur-les-ondes-gravitationnelles"
 date: 2014-03-22
 categories: 
   - "cat2"
@@ -19,7 +20,7 @@ La grosse nouvelle scientifique de la semaine, du mois ou même de l'année a é
 
 "Découverte des Premières Ondes Gravitationnelles de l'Univers et Confirmation de l'Inflation" est un bon titre, et c'est celui d'un [excellent article](http://drericsimon.blogspot.ch/2014/03/decouverte-des-premieres-ondes.html) [[1]](#ref-1) d'un autre c@fetier des sciences sur les résultats récents de l'expérience BICEP2 . Il y en a d'autres \[3,4,\*\]. Ici je vais juste essayer de faire le point sur les [ondes gravitationnelles](https://fr.wikipedia.org/wiki/ondes_gravitationnelles).
 
-Avec la [relativité générale](https://fr.wikipedia.org/wiki/relativité_générale) Albert Einstein explique la gravité par un [champ gravitationnel](https://fr.wikipedia.org/wiki/champ_gravitationnel) déformé par les masses. Lorsque des masses sont accélérées, les déformations du champ se propagent, en principe à la vitesse de la lumière, un peu comme l'accélération de charges électriques produit des ondes électromagnétiques. (_update du 15.02.2016 : cette [analogie n'est pas correcte](http://drgoulu.local/2016/02/14/einstein-et-les-ondes-gravitationnelles)_)
+Avec la [relativité générale](https://fr.wikipedia.org/wiki/relativité_générale) Albert Einstein explique la gravité par un [champ gravitationnel](https://fr.wikipedia.org/wiki/champ_gravitationnel) déformé par les masses. Lorsque des masses sont accélérées, les déformations du champ se propagent, en principe à la vitesse de la lumière, un peu comme l'accélération de charges électriques produit des ondes électromagnétiques. (_update du 15.02.2016 : cette [analogie n'est pas correcte](/2016/02/14/einstein-et-les-ondes-gravitationnelles/)_)
 
 Comme la gravitation est l' [interaction élémentaire](https://fr.wikipedia.org/wiki/interaction_élémentaire) de très loin la plus faible, cent milliards de milliards de milliards de milliards de fois plus faible que l'électromagnétisme, il faut des masses énormes soumises à des accélérations fantastiques pour que les ondes gravitationnelles émises aient une puissance suffisante pour provoquer un effet mesurable, et des instruments de mesure incroyablement sensibles pour les détecter.
 
@@ -39,7 +40,7 @@ D'après Einstein, un tel système devrait émettre des ondes gravitationnelles 
 
 De plus, selon Albert les ondes gravitationnelles emportent de l'énergie au loin, donc un astre en orbite perd peu à peu de l'énergie et "tombe" en orbitant plus vite, donc en émettant encore plus d'ondes gravitationnelles, ce qui le ralentit encore plus jusqu'à la catastrophe. Et c'est exactement ce que l'on mesure depuis 40 ans sur PSR B1913+16.
 
-Le même phénomène a été mesuré sur [mon quasar préféré, OJ 287](http://drgoulu.local/2008/04/18/ca-cest-du-trou-noir-du-vrai/) et d''autres objets astronomiques spectaculaires.
+Le même phénomène a été mesuré sur [mon quasar préféré, OJ 287](/2008/04/18/ca-cest-du-trou-noir-du-vrai/) et d''autres objets astronomiques spectaculaires.
 
 Les résultats récents de BICEP2 constituent également une détection indirecte des ondes gravitationnelles par une voie totalement différente des précédentes. Je n'ai absolument pas compris pourquoi, mais la théorie prédit que les ondes gravitationnelles produites lors de l'[inflation cosmique](https://fr.wikipedia.org/wiki/inflation_cosmique) ont du causer une polarisation "[mode B](https://en.wikipedia.org/wiki/B-modes)" du [fond diffus cosmologique](https://fr.wikipedia.org/wiki/fond_diffus_cosmologique), et c'est cette polarisation qui a été mise en évidence. Re-prix Nobel en perspective.
 

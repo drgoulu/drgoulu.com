@@ -1,5 +1,6 @@
 ---
 title: "Des p&#039;tits trous noirs"
+slug: "des-ptits-trous-noirs"
 date: 2008-04-02
 categories: 
   - "cat1"
@@ -10,7 +11,7 @@ tags:
 coverImage: "c183a5365cb5dd27cd4652865d8fd6b8.jpg"
 ---
 
-"Chuis le poinçonneur galactique ... j'fais des trous,  des trous noirs, [encore des trous noirs](http://drgoulu.local/2007/03/13/cest-plein-de-trous-noirs/) ... [des trous d'première classe](http://drgoulu.local/2007/06/26/le-trou-noir-central-de-la-voie-lactee-revele/), des trous d'seconde classe ... "
+"Chuis le poinçonneur galactique ... j'fais des trous,  des trous noirs, [encore des trous noirs](/2007/03/13/cest-plein-de-trous-noirs/) ... [des trous d'première classe](/2007/06/26/le-trou-noir-central-de-la-voie-lactee-revele/), des trous d'seconde classe ... "
 
 Le petit dernier s'appelle XTE J1650-500 et a la bonne idée de tourner autour d'une autre étoile pas trop loin dans notre Voie Lactée, ce qui a permis de déterminer sa masse : 3.6x celle du Soleil seulement, ce qui en fait le plus petit trou noir connu. C'est intéressant pour vérifier expérimentalement la [limite d'Oppenheimer-Volkoff](http://fr.wikipedia.org/wiki/Limite_d%27Oppenheimer-Volkoff) qui fixe théoriquement à 3.3 masses solaires la limite entre étoile à neutron et trou noir.
 

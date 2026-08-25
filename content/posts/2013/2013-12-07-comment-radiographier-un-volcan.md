@@ -1,5 +1,6 @@
 ---
 title: "Comment radiographier un volcan"
+slug: "comment-radiographier-un-volcan"
 date: 2013-12-07
 categories: 
   - "cat2"
@@ -15,7 +16,7 @@ Avec des muons cosmiques, pardi !
 
 Un article du "Pour la Science" de décembre m'a particulièrement scotché : une équipe a radiographié, ou plus exactement [tomographié](https://fr.wikipedia.org/wiki/Tomographie) l'intérieur du [volcan de la Soufrière](https://fr.wikipedia.org/wiki/Soufri%C3%A8re_\(Guadeloupe\)) en Guadeloupe [[1]](#ref-1). Le [projet "Diaphane" du CNRS](http://www.insu.cnrs.fr/terre-solide/experimenter-modeliser/projet-diaphane-radiographier-les-volcans-avec-les-rayons-cosmiq) a obtenu des mesures de la densité des roches comme celles ci-dessous:
 
-[![2013-12-07\_112337](images/2013-12-07_112337-1.png)](http://drgoulu.local/wp-content/uploads/2013/12/2013-12-07_112337-1.png)
+[![2013-12-07\_112337](images/2013-12-07_112337-1.png)](/wp-content/uploads/2013/12/2013-12-07_112337-1.png)
 
 On y distingue par exemple sur l'image du bas la cheminée bien verticale du cratère "sud-sud". Ces mesures sont compatibles avec celles obtenues par d'autres techniques [[2]](#ref-2), mais leur résolution de l'ordre de 30m est bien meilleure, et le système relativement peu coûteux.
 
@@ -25,7 +26,7 @@ L'idée géniale est de placer un détecteur sur le flanc de la montagne, et de 
 
 Comme ce flux n'est pas très élevé (10 à 100 muons détectés par jour), il faut plusieurs semaines pour obtenir une image complète, mais un tel système pourrait surveiller en continu certains volcans et y détecter des mouvements internes potentiellement précurseurs d'éruptions. Technique à suivre donc.[](http://www.insu.cnrs.fr/terre-solide/experimenter-modeliser/projet-diaphane-radiographier-les-volcans-avec-les-rayons-cosmiq)
 
-D'autres articles du [Pour la Science de ce mois](http://www.pourlascience.fr/ewb_pages/e/espace-numerique-detail.php?art_id=32420&num=434) valent le déplacement chez votre marchand de journaux. Outre "[L'ordre caché des écoulements chaotiques](http://www.pourlascience.fr/ewb_pages/a/article-l-ordre-cache-des-ecoulements-chaotiques-32406.php)" de Thomas Peacock et George Haller qui clarifie la méthode ayant donné lieu au buzz des "[trous noirs marins](http://drgoulu.local/2013/10/05/ya-t-il-des-trous-noirs-dans-la-mer/)" et "[Tomber plus vite qu'en chute libre](http://www.pourlascience.fr/ewb_pages/a/article-tomber-plus-vite-qu-en-chute-libre-32417.php)" de Jean-Michel Courty et Édouard Kierlik qui explique lui aussi [cette surprenante expérience](http://drgoulu.local/2013/04/20/comment-tomber-plus-vite-que-la-gravite/) mais sans vidéo, il y a des articles sur les [oiseaux migrateurs nocturnes](http://drgoulu.local/2013/04/20/comment-tomber-plus-vite-que-la-gravite/), la [structure du langage](http://www.pourlascience.fr/ewb_pages/a/article-la-structure-en-reseaux-du-langage-32404.php), d'étonnantes [fleurs de glace](http://www.pourlascience.fr/ewb_pages/a/article-les-fleurs-et-les-rubans-de-glace-32403.php) et la [cryptomonnaie Bitcoin](http://www.pourlascience.fr/ewb_pages/a/article-i-bitcoin-i-la-cryptomonnaie-32413.php), entre autres sujets passionnants. D'ailleurs j'y replonge immédiatement.
+D'autres articles du [Pour la Science de ce mois](http://www.pourlascience.fr/ewb_pages/e/espace-numerique-detail.php?art_id=32420&num=434) valent le déplacement chez votre marchand de journaux. Outre "[L'ordre caché des écoulements chaotiques](http://www.pourlascience.fr/ewb_pages/a/article-l-ordre-cache-des-ecoulements-chaotiques-32406.php)" de Thomas Peacock et George Haller qui clarifie la méthode ayant donné lieu au buzz des "[trous noirs marins](/2013/10/05/ya-t-il-des-trous-noirs-dans-la-mer/)" et "[Tomber plus vite qu'en chute libre](http://www.pourlascience.fr/ewb_pages/a/article-tomber-plus-vite-qu-en-chute-libre-32417.php)" de Jean-Michel Courty et Édouard Kierlik qui explique lui aussi [cette surprenante expérience](/2013/04/20/comment-tomber-plus-vite-que-la-gravite/) mais sans vidéo, il y a des articles sur les [oiseaux migrateurs nocturnes](/2013/04/20/comment-tomber-plus-vite-que-la-gravite/), la [structure du langage](http://www.pourlascience.fr/ewb_pages/a/article-la-structure-en-reseaux-du-langage-32404.php), d'étonnantes [fleurs de glace](http://www.pourlascience.fr/ewb_pages/a/article-les-fleurs-et-les-rubans-de-glace-32403.php) et la [cryptomonnaie Bitcoin](http://www.pourlascience.fr/ewb_pages/a/article-i-bitcoin-i-la-cryptomonnaie-32413.php), entre autres sujets passionnants. D'ailleurs j'y replonge immédiatement.
 
 ## Références
 

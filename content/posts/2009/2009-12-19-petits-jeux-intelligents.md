@@ -1,5 +1,6 @@
 ---
 title: "Petits jeux intelligents"
+slug: "petits-jeux-intelligents"
 date: 2009-12-19
 categories: 
   - "cat2"
@@ -39,7 +40,7 @@ Je vous parle d'un temps que les moins de vingt ans ne peuvent pas connaître, m
 
 Ce jeu de plateforme en noir et blanc est l'un de mes préférés. A chaque pression de la touche \[Shift\], un renversement de situation total permet de progresser vers la porte de sortie, ou de tomber dans un piège fatal. Un jeu absolument excellent.
 
-[![](images/eaf7ada28e0c2d2f94b248a475d6e422.gif "shift")](http://drgoulu.local//HLIC/eaf7ada28e0c2d2f94b248a475d6e422.gif)
+[![](images/eaf7ada28e0c2d2f94b248a475d6e422.gif "shift")](images/eaf7ada28e0c2d2f94b248a475d6e422.gif)
 
 Une fois que vous aurez fini Shift, vous pourrez vous attaquer à [Shift 2](http://armorgames.com/play/964/shift-2), [Shift 3](http://armorgames.com/play/1846/shift-3), [Shift 4](http://armorgames.com/play/3810/shift-4), ... Il existe aussi sur Android, iPhone et facebook
 

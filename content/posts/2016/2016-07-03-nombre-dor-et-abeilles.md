@@ -1,5 +1,6 @@
 ---
 title: "Nombre d'or et abeilles"
+slug: "nombre-dor-et-abeilles"
 date: 2016-07-03
 categories: 
   - "cat3"
@@ -25,7 +26,7 @@ Ce fameux "nombre d'or" Φ est défini historiquement comme le rapport de deux n
 - [BesselJ](http://mathworld.wolfram.com/BesselFunctionoftheFirstKind.html)(2,23/19)
 - et d'autres nombres encore
 
-Et avec seulement 4 décimales, 1.6180 correspond à l'arrondi de dizaines, voire de centaines d'expressions répertoriées dans l'inverseur, dont [un petit extrait peut être vu ici](http://drgoulu.local/wp-content/uploads/2016/04/2016-04-04_221513.png).
+Et avec seulement 4 décimales, 1.6180 correspond à l'arrondi de dizaines, voire de centaines d'expressions répertoriées dans l'inverseur, dont [un petit extrait peut être vu ici](/wp-content/uploads/2016/04/2016-04-04_221513.png).
 
 Bref, quand quelqu'un vous dit que le nombre d'or est présent dans une construction antérieure à Euclide (300 avant JC), ou une structure "naturelle", il faut qu'il le prouve par des mesures précises au millionième pour obtenir 6 ou 7 décimales, parce que 1.62 c'est plus proche de 6/37037 que je trouve très beau aussi, voire divin. Ou de 9/55555, nombre si magnifique que je m'empresse de le baptiser "nombre de platine" pour la postérité.
 
@@ -66,11 +67,11 @@ Alors quand Tâniel m'a parlé de son bouquin sur le nombre d'or dans les nids d
 
 Sauf que pas tout à fait. En 1964, [László Fejes Tóth](https://fr.wikipedia.org/wiki/László_Fejes_Tóth) a montré qu'il existait une forme de fond d'alvéole qui permettrait aux abeilles d'économiser 0.35% de cire. Peut-être la trouveront-elles aussi après quelques millions d'années d'évolution. En attendant, ni le nombre d'or ni l'angle d'or n'apparaissent dans la [géométrie](https://fr.wikipedia.org/wiki/Alvéole_d%27abeille#Calcul_des_angles) des alvéoles, car on n'y trouve ni pentagone, ni nombres de Fibonacci, ni rien qui ressemble à un apex.
 
-Donc la "découverte" que les nids d'abeilles elliptiques s'inscrivent dans un cadre rectangulaire dont le rapport vaut 1.6±0.4 me semble plus probablement due à une "loi inhérente du Cosmos" comme la résistance des matériaux qu'à un nombre d'or vachement moins universel que e, pi, ou [1548](http://drgoulu.local/2008/08/24/nombres-acratopeges/), désolé...
+Donc la "découverte" que les nids d'abeilles elliptiques s'inscrivent dans un cadre rectangulaire dont le rapport vaut 1.6±0.4 me semble plus probablement due à une "loi inhérente du Cosmos" comme la résistance des matériaux qu'à un nombre d'or vachement moins universel que e, pi, ou [1548](/2008/08/24/nombres-acratopeges/), désolé...
 
 ### Références
 
-1. <span id="ref-1"></span>Cyril Jaquier, Kévin Drapel "[Le nombre d’or : réalité ou interprétations douteuses ?](http://drgoulu.local/wp-content/uploads/2016/04/nombredor.pdf)" Projet STS EPFL, 25 avril 2005
+1. <span id="ref-1"></span>Cyril Jaquier, Kévin Drapel "[Le nombre d’or : réalité ou interprétations douteuses ?](/wp-content/uploads/2016/04/nombredor.pdf)" Projet STS EPFL, 25 avril 2005
 2. <span id="ref-2"></span>Jean-Paul Krivine "[Le mythe du nombre d’or](http://www.pseudo-sciences.org/spip.php?article796)", SPS n° 278, août 2007
 3. <span id="ref-3"></span>Christiane Rousseau, "[Nautile, nombre d’or et spirale dorée](http://accromath.uqam.ca/accro/wp-content/uploads/2013/04/nautile.pdf)", 2008, Accromath, Vol 3, p.8-11
 4. <span id="ref-4"></span>S. Douady et Y. Couder, La physique des spirales végétales, La Recherche, janvier 1993, p. 26

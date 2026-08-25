@@ -1,5 +1,6 @@
 ---
 title: "Les meilleures photos d’astronomie 2006"
+slug: "les-meilleures-photos-dastronomie-2006"
 date: 2006-12-29
 categories: 
   - "cat2"

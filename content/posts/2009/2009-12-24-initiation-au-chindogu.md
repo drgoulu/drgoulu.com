@@ -1,5 +1,6 @@
 ---
 title: "Initiation au Chindogu"
+slug: "initiation-au-chindogu"
 date: 2009-12-24
 categories: 
   - "cat2"
@@ -10,7 +11,7 @@ tags:
 coverImage: "325dff208fdb8165cfbd0ffd89897751.jpg"
 ---
 
-La réunion annuelle de la société secrète (dont j'ai déjà [trop parlé ici](http://drgoulu.local/2009/03/08/combien-pour-ce-brevet/)) a été partiellement consacrée au [Chindogu](http://fr.wikipedia.org/wiki/Chindogu), l'art japonais des inventions absurdes.
+La réunion annuelle de la société secrète (dont j'ai déjà [trop parlé ici](/2009/03/08/combien-pour-ce-brevet/)) a été partiellement consacrée au [Chindogu](http://fr.wikipedia.org/wiki/Chindogu), l'art japonais des inventions absurdes.
 
 Lancée par Kenji Kawakami, l '[International Chindogu Society](http://chindogu.com/) spécifie [10 règles](http://chindogu.com/tenets.html) définissant une oeuvre chindogu :
 

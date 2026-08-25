@@ -1,5 +1,6 @@
 ---
 title: "Pourquoi une loupe ne viole pas la thermodynamique"
+slug: "pourquoi-une-loupe-ne-viole-pas-la-thermodynamique"
 date: 2013-02-03
 categories: 
   - "cat1"
@@ -34,4 +35,4 @@ Il y a une loi générale de la thermodynamique qui dit qu'on ne peut jamais foc
 
 Une bonne façon de se représenter ceci est de vous imaginer vous promener à la surface du Soleil, puis de vous imaginer au foyer de la lentille. En étant dans les couches externes du Soleil, vous auriez tout autour de vous dans toutes les directions de la matière rayonnant a environ 5800 Kelvin. En conséquence vous vous retrouveriez à équilibrer cette température, en vous brûlant pour de bon. Si vous étiez au foyer d'un ensemble élaboré de miroirs et de bidules, vous seriez dans la même situation, voyant le Soleil dans toutes les directions. Et le résultat serait le même.
 
-On _sent_ qu'il pourrait y avoir un moyen de tricher, mais il n'y en a juste pas. Si vous pouviez trouver un moyen de produire une cible plus chaude que la source, vous auriez produit un [mouvement perpétuel](https://fr.wikipedia.org/wiki/mouvement_perpétuel). _(Note Dr. G : avec les mêmes chances de succès que les roues gravitationnelles et les bidules à aimants : [nulles](http://drgoulu.local/2012/05/27/dites-non-au-mouvement-perpetuel/))_
+On _sent_ qu'il pourrait y avoir un moyen de tricher, mais il n'y en a juste pas. Si vous pouviez trouver un moyen de produire une cible plus chaude que la source, vous auriez produit un [mouvement perpétuel](https://fr.wikipedia.org/wiki/mouvement_perpétuel). _(Note Dr. G : avec les mêmes chances de succès que les roues gravitationnelles et les bidules à aimants : [nulles](/2012/05/27/dites-non-au-mouvement-perpetuel/))_

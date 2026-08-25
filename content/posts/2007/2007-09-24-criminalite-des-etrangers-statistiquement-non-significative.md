@@ -1,5 +1,6 @@
 ---
 title: "Criminalité des étrangers : statistiquement non significative"
+slug: "criminalite-des-etrangers-statistiquement-non-significative"
 date: 2007-09-24
 categories: 
   - "cat3"
@@ -23,4 +24,4 @@ Ca me rappelle une petite étude sur les USA que j'avais fait sur un thème simi
 ### Plus d'infos :
 
 - [rapport final (pdf, 500 kb)](http://www.ejpd.admin.ch/content/dam/data/kriminalitaet/jugendgewalt/ber-auslaenderkriminalitaet-agak-f.pdf "bericht_auslaenderkriminalitaet_f.pdf") du Groupe de travail "Criminalité des étrangers" (AGAK) de la Conférence des chefs de départements cantonaux de justice et police (CCDJP), 5 mars 2001
-- \[openbook booknumber="ISBN:978-2-940063-66-6" templatenumber="5"\] , très bon bouquin [résumé ici](http://www.la-zone.ch/wp-content/uploads/Criminologie-r%C3%A9sum%C3%A9-de-Sommes-nous-tous-des-criminels.pdf) et en [vente pour Frs 10.- ici](http://www.lhebe.ch/description.php?SID=6e6e52b846150f1ff0ffcff2e5f13854)
+- {{< openbook booknumber="ISBN:978-2-940063-66-6" templatenumber="5" >}} , très bon bouquin [résumé ici](http://www.la-zone.ch/wp-content/uploads/Criminologie-r%C3%A9sum%C3%A9-de-Sommes-nous-tous-des-criminels.pdf) et en [vente pour Frs 10.- ici](http://www.lhebe.ch/description.php?SID=6e6e52b846150f1ff0ffcff2e5f13854)

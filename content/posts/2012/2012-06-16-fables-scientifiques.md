@@ -1,5 +1,6 @@
 ---
 title: "Fables scientifiques"
+slug: "fables-scientifiques"
 date: 2012-06-16
 categories: 
   - "cat1"
@@ -11,7 +12,7 @@ tags:
 coverImage: "c085d61e1cd5569a71dd156a56be6dcd.jpg"
 ---
 
-\[openbook booknumber="ISBN:9782916207711" templatenumber="3"\]Découvert par hasard hier, dévoré avec passion aujourd'hui et chaleureusement recommandé ici même instantanément :  \[openbook booknumber="ISBN:9782916207711" templatenumber="5"\].
+{{< openbook booknumber="ISBN:9782916207711" templatenumber="3" >}}Découvert par hasard hier, dévoré avec passion aujourd'hui et chaleureusement recommandé ici même instantanément :  {{< openbook booknumber="ISBN:9782916207711" templatenumber="5" >}}.
 
 Cette "BD documentaire" regroupe 7 démystifications parues initialement sur [le blog de Darryl Cunningham](http://darryl-cunningham.blogspot.ch/) sur:
 
@@ -33,7 +34,7 @@ En fait, le dessin ne sert que de support au texte, le rendant peut-être plus l
 
 Pour ma part, j'ai aussi appris plein de choses dans ce livre bien documenté (il y a même une liste de références à la fin... une première en BD ? ). Voici quelques faits que j'ignorais, et que vous ne pouvez ne pas lire si vous voulez préserver la surprise de la lecture:
 
-- [James Randi](http://drgoulu.local/2010/04/25/james-randi-au-ted/) a participé à la vérification des travaux de [Jacques Benveniste](https://fr.wikipedia.org/wiki/Jacques_Benveniste) sur la mémoire de l'eau
+- [James Randi](/2010/04/25/james-randi-au-ted/) a participé à la vérification des travaux de [Jacques Benveniste](https://fr.wikipedia.org/wiki/Jacques_Benveniste) sur la mémoire de l'eau
 - l'homéopathie propose un traitement préventif contre la malaria...
 - la recherche frauduleuse de Wakefield était [motivée et financée par un avocat](http://briandeer.com/mmr/lancet-summary.htm) qui souhaitait déposer une plainte collective contre les fabricants de vaccins
 - Dans notre atmosphère, la flamme d'une fusée est maintenue dans un cône par la pression atmosphérique, mais dans le vide les gaz expulsés partent dans toutes les directions. C'est pour cela que le LEM n'a expulsé qu'un peu de poussière en alunissant au lieu de créer un cralune.

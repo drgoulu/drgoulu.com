@@ -1,5 +1,6 @@
 ---
 title: "\"Contre-exemples\" au théorème de Fermat-Wiles"
+slug: "contre-exemples-au-theoreme-de-fermat-wiles"
 date: 2016-03-25
 categories: 
   - "cat2"
@@ -18,7 +19,7 @@ coverImage: "18-Homer-Simpson.jpg"
 1. il a en réalité "seulement" démontré un cas particulier du [théorème de modularité](https://fr.wikipedia.org/wiki/théorème_de_modularité) (aussi appelé conjecture de Shimura-Taniyama-Weil) dont le théorème de Fermat résulte directement
 2. quelques semaines après la publication des quelques 100 pages de la démonstration d'Andrew Wiles en 1995 [[1]](#ref-1), Homer Simpson se promène nonchalamment et en 3D devant un contre-exemple : 1782¹² + 1841¹² = 1922¹² [[2]](#ref-2)
 
-Cette égalité est due à [David X. Cohen](https://fr.wikipedia.org/wiki/David_X._Cohen), matheux et co-scénariste de cette [série pleine de références scientifiques](http://drgoulu.local/2010/03/08/20-ans-de-science-simpson/). Si on la vérifie sur une calculatrice standard, on trouve que le terme de gauche vaut 2.541210259e+39 et que celui de droite vaut... 2.541210259e+39 ! C'est un contre-exemple du Grand théorème de Fermat, et la démonstration d'Andrew Wiles ne vaut pas tripette! _<mauvaise foi=off>_ 
+Cette égalité est due à [David X. Cohen](https://fr.wikipedia.org/wiki/David_X._Cohen), matheux et co-scénariste de cette [série pleine de références scientifiques](/2010/03/07/20-ans-de-science-simpson/). Si on la vérifie sur une calculatrice standard, on trouve que le terme de gauche vaut 2.541210259e+39 et que celui de droite vaut... 2.541210259e+39 ! C'est un contre-exemple du Grand théorème de Fermat, et la démonstration d'Andrew Wiles ne vaut pas tripette! _<mauvaise foi=off>_ 
 
 Mais en fait non:
 

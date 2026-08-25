@@ -1,5 +1,6 @@
 ---
 title: "CineGlobe 2014 : films et hackathon"
+slug: "cineglobe-2014-films-et-hackathon"
 date: 2014-03-26
 categories: 
   - "non-classe"

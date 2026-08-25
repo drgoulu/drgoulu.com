@@ -17,7 +17,7 @@ Pour me contacter le plus simple est de laisser un [commentaire](#commentaires) 
 
 Depuis le début de ce blog en janvier 2004, je n'ai jamais réussi à concentrer mes articles sur un sujet particulier : informatique, astrophysique, politique, tout est lié dans mon esprit et dans mes sujets d'intérêt. J'ai créé d'autres blogs sur des sujets particuliers afin de dédier drgoulu.com uniquement à la vulgarisation scientifique, mais c'est sans espoir...
 
-Depuis 2009 j'ai sous-titré ce blog "[pourquoi comment combien](/2009/03/07/pourquoi-comment-combien/)" en tentant de définir une ligne éditoriale assez large : les relations entre sciences (pourquoi?), techniques (comment?) et économie (combien?)
+Depuis 2009 j'ai sous-titré ce blog "[pourquoi comment combien](/2009/03/06/pourquoi-comment-combien/)" en tentant de définir une ligne éditoriale assez large : les relations entre sciences (pourquoi?), techniques (comment?) et économie (combien?)
 
 ### Pourquoi je blogue ?
 
@@ -59,7 +59,7 @@ Dr. Goulu se voulant instructif, vous trouverez [plus d'infos et mes recommandat
 
 ### Un peu de technique
 
-J'ai créé mon [premier site web en 1998](http://goulus.tripod.com) sous FrontPage, puis essayé divers CMS dont SPIP et même MediaWiki avant de migrer le blog sous [drgoulu.com](https://drgoulu.com/). Fin 2010, j'ai commencé à utiliser WordPress, d'abord sur [drgoulu.wordpress.com](http://drgoulu.wordpress.com/), puis hébergé chez GoDaddy dès 2011 et depuis avril 2013 chez [Infomaniak](http://www.infomaniak.com/) suite à quelques [mésaventures](http://microclub.ch/2013/01/18/drgoulu-com-a-ete-hacke/) et des problèmes de performance, avant de migrer vers un site statique sous Hugo.
+J'ai créé mon [premier site web en 1998](http://goulus.tripod.com) sous FrontPage, puis essayé divers CMS dont SPIP et même MediaWiki avant de migrer le blog sous [drgoulu.com](/). Fin 2010, j'ai commencé à utiliser WordPress, d'abord sur [drgoulu.wordpress.com](http://drgoulu.wordpress.com/), puis hébergé chez GoDaddy dès 2011 et depuis avril 2013 chez [Infomaniak](http://www.infomaniak.com/) suite à quelques [mésaventures](http://microclub.ch/2013/01/18/drgoulu-com-a-ete-hacke/) et des problèmes de performance, avant de migrer vers un site statique sous Hugo.
 
 ### C'est quoi ces Ⓦ ?
 

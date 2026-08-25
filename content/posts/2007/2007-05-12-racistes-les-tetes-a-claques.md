@@ -1,5 +1,6 @@
 ---
 title: "Racistes, les Tetes à Claques ?"
+slug: "racistes-les-tetes-a-claques"
 date: 2007-05-12
 categories: 
   - "cat2"
@@ -51,7 +52,7 @@ envoyé cette brève réponse le 12 mai:
 
 > Merci de votre réponse Mélanie.
 > 
-> Je l’ai trouvé très intéressante et complète me suis permis de la publier sur mon blog ([http://drgoulu.local/2007/05/12/racistes-les-tetes-a-claques/](http://drgoulu.local/2007/05/12/racistes-les-tetes-a-claques/) )
+> Je l’ai trouvé très intéressante et complète me suis permis de la publier sur mon blog ([/2007/05/12/racistes-les-tetes-a-claques/](/2007/05/12/racistes-les-tetes-a-claques/) )
 > 
 > Comme je vous l’ai dit, je suis d’accord à 100% avec votre point de vue, mais vouloir restreindre la liberté d’expression des autres pour défendre la votre est contre productif.
 > 

@@ -1,5 +1,6 @@
 ---
 title: "La ruée vers l&#8217;apaisement"
+slug: "la-ruee-vers-lapaisement"
 date: 2007-03-18
 categories: 
   - "non-classe"
@@ -10,7 +11,7 @@ tags:
 
 Ma réponse à l'article "[La ruée vers l'apaisement](http://www.ludovicmonnerat.com/archives/2007/03/la_ruee_vers_la.html)" de Ludovic Monnerat, qui s'indigne que les pays européens reconnaissent le nouveau gouvernement palestinien dans lequel figure le [Hamas](http://fr.wikipedia.org/wiki/Hamas) "terroriste" qui refuse de reconnaître Israël.<!--more-->
 
-Le Hamas est peut-être "terroriste" (quelle est votre [définition](http://drgoulu.local/2006/01/06/terrorisme/) de ce terme, M. Monnerat ?), mais il demeure qu'il a été élu dans un vote régulier par la population palestinienne.
+Le Hamas est peut-être "terroriste" (quelle est votre [définition](/2006/01/06/terrorisme/) de ce terme, M. Monnerat ?), mais il demeure qu'il a été élu dans un vote régulier par la population palestinienne.
 
 L'arrêt du soutien occidental à la mise en place d'un Etat Palestinien suite à cette élection revient à définir des limites à la démocratie qu'on impose entre autres conditions pour une aide...
 

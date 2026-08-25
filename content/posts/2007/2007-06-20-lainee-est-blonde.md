@@ -1,5 +1,6 @@
 ---
 title: "L&#8217;ainée est blonde"
+slug: "lainee-est-blonde"
 date: 2007-06-20
 categories: 
   - "non-classe"
@@ -8,7 +9,7 @@ tags:
   - "maths"
 ---
 
-Un superbe problème mathématico logique que j'ai bien envie d'élever au rang de "mon préféré" à la place du "[Temple de la Logique Pure](http://drgoulu.local/2004/06/21/temple-de-la-logique-pure/)" :
+Un superbe problème mathématico logique que j'ai bien envie d'élever au rang de "mon préféré" à la place du "[Temple de la Logique Pure](/2004/06/21/temple-de-la-logique-pure/)" :
 
 - Un facteur fait la causette à un prof de maths : _"Au fait, quels âges ont vos filles ?"_
 - "_Le produit de leurs âges fait 36, et leur somme est le numéro de la maison d'en face._" répond le papa taquin.

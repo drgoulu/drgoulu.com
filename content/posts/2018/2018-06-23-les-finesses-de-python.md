@@ -1,5 +1,6 @@
 ---
 title: "Les finesses de Python"
+slug: "les-finesses-de-python"
 date: 2018-06-23
 categories: 
   - "cat2"

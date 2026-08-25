@@ -1,5 +1,6 @@
 ---
 title: "Comment tomber plus vite que la gravité"
+slug: "comment-tomber-plus-vite-que-la-gravite"
 date: 2013-04-20
 categories: 
   - "cat2"

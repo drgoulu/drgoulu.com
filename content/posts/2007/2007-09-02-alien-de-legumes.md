@@ -1,5 +1,6 @@
 ---
 title: "Alien de Légumes"
+slug: "alien-de-legumes"
 date: 2007-09-02
 categories: 
   - "non-classe"

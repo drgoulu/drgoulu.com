@@ -1,5 +1,6 @@
 ---
 title: "Loi de Moore ... toujours ?"
+slug: "moore-toujours"
 date: 2008-06-19
 categories: 
   - "cat2"
@@ -45,7 +46,7 @@ Petite anecdote à ce propos : il y a 20 ans on apprenait qu'il était assez fac
 
 Malgré ceci, en 2003 la fréquence des processeurs qui croissait rapidement s'est retrouvée rapidement limitée en dessous de 4 GHz, entre autres pour des raisons thermiques.
 
-En effet, un circuit consomme d'autant plus d'électricité qu'il fonctionne vite, ce qui fait [chauffer les ordinateurs](http://drgoulu.local/2007/11/17/radiateurs-a-teraflops/), et ils n'aiment pas ça. Les Cray 1 et XMP étaient refroidis par une circulation de liquide entre les circuits imprimés, le Cray 2 était carrément immergé dans du réfrigérant liquide, et on se demandait bien quelle serait la prochaine étape. Mais là encore, la miniaturisation a permis de faire des machines tout aussi puissantes refroidies par de simples ventilateurs assistés éventuellement de [caloducs](http://fr.wikipedia.org/wiki/Caloduc).
+En effet, un circuit consomme d'autant plus d'électricité qu'il fonctionne vite, ce qui fait [chauffer les ordinateurs](/2007/11/17/radiateurs-a-teraflops/), et ils n'aiment pas ça. Les Cray 1 et XMP étaient refroidis par une circulation de liquide entre les circuits imprimés, le Cray 2 était carrément immergé dans du réfrigérant liquide, et on se demandait bien quelle serait la prochaine étape. Mais là encore, la miniaturisation a permis de faire des machines tout aussi puissantes refroidies par de simples ventilateurs assistés éventuellement de [caloducs](http://fr.wikipedia.org/wiki/Caloduc).
 
 ### GaAs, optique, quantique ...
 
@@ -63,7 +64,7 @@ Si la densité des transistors sur une puce augmente exponentiellement, le nombr
 
 #### L'apport des GPUs
 
-Depuis quelques années on assiste à [la montée en puissance des GPUs](http://drgoulu.local/2007/11/02/la-montee-en-puissance-des-gpus/ "La montée en puissance des GPUs") (Graphics Processing Unit) : le processeur équipant une bonne carte graphique (nVidia ou ATI) effectue nettement plus de calculs que le processeur central (CPU) de votre PC :
+Depuis quelques années on assiste à [la montée en puissance des GPUs](/2007/11/02/la-montee-en-puissance-des-gpus/ "La montée en puissance des GPUs") (Graphics Processing Unit) : le processeur équipant une bonne carte graphique (nVidia ou ATI) effectue nettement plus de calculs que le processeur central (CPU) de votre PC :
 
 ![](images/92d9996311ff6934d737ff74313187d6.jpg)
 
@@ -75,17 +76,17 @@ Les GPU ne sont cependant pas (encore?) capable de faire fonctionner des program
 
 #### Vers un mix
 
-[![](images/957db4c33a0256c91cc0ac198b43d685.jpg)](http://drgoulu.local/wp-content/uploads/HLIC/957db4c33a0256c91cc0ac198b43d685.jpg)Un des processeurs les plus puissants actuellement est le "[Cell](http://fr.wikipedia.org/wiki/Cell_\(processeur\))" d'IBM qui équipe la console PlayStation 3 (voir [ici](http://drgoulu.local/2007/11/27/le-top-500-des-supercalculateurs/)) Il contient 1 coeur de processeur "classique" et 8 petits coeurs "SPE" plus inspirés de ce que l'on trouve dans les GPU. Le coeur classique fournit 20 GFlops avec des nombres en double précision, les 8 "SPE"s montent à 200 GFlop en simple précision, suffisante pour beaucoup d'applications
+[![](images/957db4c33a0256c91cc0ac198b43d685.jpg)](/wp-content/uploads/HLIC/957db4c33a0256c91cc0ac198b43d685.jpg)Un des processeurs les plus puissants actuellement est le "[Cell](http://fr.wikipedia.org/wiki/Cell_\(processeur\))" d'IBM qui équipe la console PlayStation 3 (voir [ici](/2007/11/27/le-top-500-des-supercalculateurs/)) Il contient 1 coeur de processeur "classique" et 8 petits coeurs "SPE" plus inspirés de ce que l'on trouve dans les GPU. Le coeur classique fournit 20 GFlops avec des nombres en double précision, les 8 "SPE"s montent à 200 GFlop en simple précision, suffisante pour beaucoup d'applications
 
 Depuis qu'AMD a racheté ATI et qu'intel s'est mis à (essayer de) faire des processeurs graphiques, il n'y a plus guère de doute : les futurs processeurs combineront la flexibilité des CPU actuels et la puissance brute des GPU, et cette combinaison rendue possible par la Loi de Moore continuera à faire progresser la puissance de nos ordinateurs au rythme immuable du doublement chaque 18 mois encore de nombreuses années.
 
 ### Et après ?
 
-Il y a bien un moment où les limites physiques seront atteintes : un conducteur métallique doit tout de même avoir quelques atomes de diamètre, comme [l'imaginait Richard Feynman il y a 50 ans](http://drgoulu.local/2008/06/13/il-y-a-plein-de-place-en-bas/). Actuellement les processeurs les plus fins ont des "fils" de 45nm, soit environ 200 atomes de large. Admettons qu'on peut les réduire encore d'un facteur 10, ce qui donne une densité 100x plus élevée que l'on atteindra, selon la Loi de Moore dans 13 ans environ. Que faire après ?
+Il y a bien un moment où les limites physiques seront atteintes : un conducteur métallique doit tout de même avoir quelques atomes de diamètre, comme [l'imaginait Richard Feynman il y a 50 ans](/2008/06/13/il-y-a-plein-de-place-en-bas/). Actuellement les processeurs les plus fins ont des "fils" de 45nm, soit environ 200 atomes de large. Admettons qu'on peut les réduire encore d'un facteur 10, ce qui donne une densité 100x plus élevée que l'on atteindra, selon la Loi de Moore dans 13 ans environ. Que faire après ?
 
 La meilleure réponse à cette question que j'aie entendu est celle du prof. [Jean-Daniel Nicoud](http://fr.wikipedia.org/wiki/Jean-Daniel_Nicoud) lors de sa leçon terminale. En substance il disait "jusqu'à maintenant, on ne grave les puces que sur la surface du silicium, sur des fractions de micron d'épaisseur. On pourrait déjà simplement faire de la gravure sur les deux faces du wafer pour doubler le nombre de transistors. Et puis on pourrait faire des couches multiples. Sur une épaisseur de wafer de silicium, disons 1 mm, on a de la place pour 1000 couches de 1 micron, ça laisse encore 20 ans de plus de validité à la loi de Moore."
 
-On estime que la puissance d'un cerveau humain équivaut à 10 Petaflops, soit la puissance cumulée des 500 plus puissants ordinateurs actuels, qui occument au moins 500 salles actuellement. En 2012, l'ordinateur le plus puissant fournira la même puissance dans une seule salle, et en 2020 environ vous devriez l'avoir sur votre bureau, ou dans la console de jeu familiale. Si les programmeurs travaillent aussi bien que les fabricants de processeurs, peut-être qu'enfin, [60 ans après la vision de Feynman](http://drgoulu.local/2008/06/13/il-y-a-plein-de-place-en-bas/), votre PC saura vous reconnaitre et vous appeler par votre prénom...
+On estime que la puissance d'un cerveau humain équivaut à 10 Petaflops, soit la puissance cumulée des 500 plus puissants ordinateurs actuels, qui occument au moins 500 salles actuellement. En 2012, l'ordinateur le plus puissant fournira la même puissance dans une seule salle, et en 2020 environ vous devriez l'avoir sur votre bureau, ou dans la console de jeu familiale. Si les programmeurs travaillent aussi bien que les fabricants de processeurs, peut-être qu'enfin, [60 ans après la vision de Feynman](/2008/06/13/il-y-a-plein-de-place-en-bas/), votre PC saura vous reconnaitre et vous appeler par votre prénom...
 
 ### Références:
 

@@ -1,5 +1,6 @@
 ---
 title: "Plongée dans le LHC du CERN"
+slug: "plongee-dans-le-lhc-du-cern"
 date: 2008-04-06
 categories: 
   - "cat2"

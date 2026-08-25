@@ -1,5 +1,6 @@
 ---
 title: "Comment construire une machine à explorer le temps ?"
+slug: "comment-contruire-un-machine-a-voyager-dans-le-temps"
 date: 2006-06-16
 categories: 
   - "cat1"
@@ -25,7 +26,7 @@ Une telle machine permet d'expliquer le "paradoxe de Hawking" selon lequel, si l
 
 ### Références :
 
-- \[openbook booknumber="ISBN:978-0141005348" templatenumber="5"\]
-- \[openbook booknumber="ISBN:978-2-86883-941-1" templatenumber="5"\]
+- {{< openbook booknumber="ISBN:978-0141005348" templatenumber="5" >}}
+- {{< openbook booknumber="ISBN:978-2-86883-941-1" templatenumber="5" >}}
 
 _Mis à jour le 29/2/2012  : j'avais initialement ajouté ce texte à l'article sur le [Voyage dans le temps](https://fr.wikipedia.org/wiki/Voyage_dans_le_temps) dans la Wikipedia , il a ensuite été déplacé à l'article "[Comment construire une machine à explorer le temps](https://fr.wikipedia.org/wiki/Comment_construire_une_machine_à_explorer_le_temps)". Je viens de le reprendre avec les liens et en y ajoutant la référence claire aux livres_

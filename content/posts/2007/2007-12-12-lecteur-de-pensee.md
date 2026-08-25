@@ -1,5 +1,6 @@
 ---
 title: "Lecteur de pensée"
+slug: "lecteur-de-pensee"
 date: 2007-12-12
 categories: 
   - "cat2"
@@ -9,7 +10,7 @@ tags:
 coverImage: "121d1168cefde96eb64f4428c32fea731.gif"
 ---
 
-[Ca devient une habitude](http://drgoulu.local/2007/04/18/multiplication-graphique/), je vais expliquer à Yves comment marche le truc du [Lecteur de pensée](http://www.k-netweb.net/projects/mindreader/). C'est pas pour retourner le couteau dans la plaie, mais un minimum de maths, ça aide, dans la vie. Il m'a fallu 10 secondes pour deviner à l'avance que le symbole qui allait apparaître en cliquant sur le carré serait le Ø quelque soit le nombre que j'avais choisi.
+[Ca devient une habitude](/2007/04/18/multiplication-graphique/), je vais expliquer à Yves comment marche le truc du [Lecteur de pensée](http://www.k-netweb.net/projects/mindreader/). C'est pas pour retourner le couteau dans la plaie, mais un minimum de maths, ça aide, dans la vie. Il m'a fallu 10 secondes pour deviner à l'avance que le symbole qui allait apparaître en cliquant sur le carré serait le Ø quelque soit le nombre que j'avais choisi.
 
 [![lecteur de pensée](images/2013-11-22_082320.png)](http://www.k-netweb.net/projects/mindreader/)
 

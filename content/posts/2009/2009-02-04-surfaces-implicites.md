@@ -1,5 +1,6 @@
 ---
 title: "Surfaces implicites"
+slug: "surfaces-implicites"
 date: 2009-02-04
 categories: 
   - "cat2"
@@ -25,6 +26,6 @@ Le plus avancé est "[Surfer](http://www.imaginary2008.de/surfer.php)", dévelop
 
 Surfer est disponible pour Windows et pour Linux (avec code source C++), mais aussi sous forme d'une [applet Java,  JSurfer](http://www.imaginary2008.de/jsurfer.php).
 
-[3D-XplorMath](http://3d-xplormath.org) est un logiciel plus ancien dont j'ai déjà parlé [ici](http://drgoulu.local/2007/09/19/maths-et-art/). Depuis sa récente version 10, il peut également représenter des surfaces implicites et il existe également une [applet Java aux possibilités très étendues](http://3d-xplormath.org/j/applets/fr/index.html)
+[3D-XplorMath](http://3d-xplormath.org) est un logiciel plus ancien dont j'ai déjà parlé [ici](/2007/09/19/maths-et-art/). Depuis sa récente version 10, il peut également représenter des surfaces implicites et il existe également une [applet Java aux possibilités très étendues](http://3d-xplormath.org/j/applets/fr/index.html)
 
 {{< figure src="images/00df67d596832fce74a1c9b0d3885549.png" alt="sextique" caption="Sextique de Barth faite avec 3X-XplorMath. Cette surface comporte de nombreuse singularités et est d'autant plus difficile à représenter." link="http://3d-xplormath.org/j/applets/fr/vmm-surface-implicit-BarthSextic.html" align="aligncenter" width="439" >}}

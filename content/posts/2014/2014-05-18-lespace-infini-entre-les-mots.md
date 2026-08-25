@@ -1,5 +1,6 @@
 ---
 title: "L'espace infini entre les mots"
+slug: "lespace-infini-entre-les-mots"
 date: 2014-05-18
 categories: 
   - "cat2"
@@ -71,5 +72,5 @@ Pour les ordinateurs, nous autres humains vivons dans une échelle de temps tota
 ### Références:
 
 1. <span id="ref-1"></span>Jeff Atwood, "[The Infinite Space Between Words](http://blog.codinghorror.com/the-infinite-space-between-words/)", 2014, Coding Horror
-2. <span id="ref-2"></span>\[openbook booknumber="ISBN:9780133390094" templatenumber="5"\]
+2. <span id="ref-2"></span>{{< openbook booknumber="ISBN:9780133390094" templatenumber="5" >}}
 3. <span id="ref-3"></span>Jim Gray, "[When every disk is a supercomputer, then what?](http://loci.cs.utk.edu/dsi/netstore99/docs/presentations/keynote/NetStore-keynote-Gray-JG-BC-3-linked.html)", 1999, [Netstore '99](http://loci.cs.utk.edu/dsi/netstore99/)

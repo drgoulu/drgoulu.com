@@ -1,5 +1,6 @@
 ---
 title: "L’initiative pour la “caisse unique”"
+slug: "linitiative-pour-la-caisse-unique"
 date: 2007-02-09
 categories: 
   - "cat3"
@@ -16,7 +17,7 @@ L'initiative populaire sur laquelle le peuple et moi-même voterons le 11 mars p
 
 > Art. 117, al. 3 (nouveau) La Confédération institue une caisse unique pour l'assurance obligatoire des soins. (...) La loi règle le financement de la caisse. Elle fixe les primes en fonction de la capacité économique des assurés.
 
-Dans un [article précédent](http://drgoulu.local/2007/02/09/les-couts-de-la-sante-en-suisse/), j'ai montré que les coûts de la Santé en Suisse ne sont pas disproportionnés. Voyons maintenant si on pourrait quand même réduire la charge sur les ménages en adoptant le système proposé.
+Dans un [article précédent](/2007/02/09/les-couts-de-la-sante-en-suisse/), j'ai montré que les coûts de la Santé en Suisse ne sont pas disproportionnés. Voyons maintenant si on pourrait quand même réduire la charge sur les ménages en adoptant le système proposé.
 
 Dans beaucoup de pays européens (à majorité ou tradition socialiste), les coûts sont couverts à quasi 100% par l'Etat, au travers de la "sécurité sociale". En Suisse, les coûts sont assumés:
 
@@ -29,7 +30,7 @@ Ca fait donc 75% payés par les ménages et 25% au travers des impôts. Ce sont 
 
 L'initiative "pour une caisse unique" propose 2 solutions pour les 2 aspects du problème:
 
-1. **La "caisse unique" pour maîtriser l'augmentation des coûts.** Comme on l'a vu dans l' [article précédent](http://drgoulu.local/2007/02/09/les-couts-de-la-sante-en-suisse/), la marge d'économie est faible, mais existe peut-être. Vaut-il la peine de bouleverser le système actuel pour quelques % hypothétiques, à vous de voir ...
+1. **La "caisse unique" pour maîtriser l'augmentation des coûts.** Comme on l'a vu dans l' [article précédent](/2007/02/09/les-couts-de-la-sante-en-suisse/), la marge d'économie est faible, mais existe peut-être. Vaut-il la peine de bouleverser le système actuel pour quelques % hypothétiques, à vous de voir ...
 2. **Des "primes en fonction de la capacité économique des assurés" pour le financement.** En fait c'est le point important de l'initiative et en parlant systématiquement de la "caisse unique" on occulte ceci, ce qui était probablement le but des initiants... Il faut bien réaliser que cette proposition ne réduit pas du tout les coûts : elle vise à les répartir différemment, mais **sans dire comment !** "_La loi règle le financement de la caisse"_ permet en théorie de de moduler entre la situation 75%/25% actuelle et le 0%/100% de la "sécurité sociale", puisqu'une prime dépendant du revenu, payée à une caisse unique, ça s'appelle un impôt.
 
 Et là toutes sortes de questions méritent d'être posées, mais ne le sont pas car "_La loi règle le financement de la caisse"_ donc on se les posera plus tard. Par exemple:

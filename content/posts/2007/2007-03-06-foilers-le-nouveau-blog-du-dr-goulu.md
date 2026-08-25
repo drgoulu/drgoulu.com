@@ -1,5 +1,6 @@
 ---
 title: "Foilers! le nouveau blog du Dr. Goulu"
+slug: "foilers-le-nouveau-blog-du-dr-goulu"
 date: 2007-03-06
 categories: 
   - "non-classe"

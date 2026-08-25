@@ -1,5 +1,6 @@
 ---
 title: "Icosien, le nouveau jeu de Neamar"
+slug: "icosien-le-nouveau-jeu-de-neamar"
 date: 2010-06-24
 categories: 
   - "cat2"
@@ -11,7 +12,7 @@ tags:
 coverImage: "f860cf98facccf60ba0d8705f857b25d-1.png"
 ---
 
-Il l'avait annoncé, il l'a fait : Neamar a ajouté un nouveau jeu à sa [saga des graphes](http://drgoulu.local/2010/03/06/la-saga-des-graphes/) : [Icosien](http://neamar.fr/Res/Icosien/). Et c'est un excellent jeu. En réalité il y a même deux jeux pour le prix d'un seul:
+Il l'avait annoncé, il l'a fait : Neamar a ajouté un nouveau jeu à sa [saga des graphes](/2010/03/06/la-saga-des-graphes/) : [Icosien](http://neamar.fr/Res/Icosien/). Et c'est un excellent jeu. En réalité il y a même deux jeux pour le prix d'un seul:
 
 - Dans les 10 premiers tableaux, il s'agit de reproduire le motif gris d'un seul mouvement de souris, sans repasser deux fois sur le même trait (mais les croisements de fil sont autorisés). En termes techniques, il s'agit de vérifier que ces tableaux sont des [graphes eulériens](http://fr.wikipedia.org/wiki/Graphe_eul%C3%A9rien). Pas trop difficile une fois qu'on a trouvé le truc.
 - Dans les 10 tableaux suivants, il faut passer une et une seule fois par chaque noeud, en utilisant uniquement les traits disponibles  (mais on n'est pas obligé de passer sur tous les traits). Pour les matheux, il s'agit de trouver des [circuits hamiltoniens](http://fr.wikipedia.org/wiki/Graphe_hamiltonien). Là, la difficulté passe de "petit casse-tête sympa" à "horrible arrache neurones énervant"...
@@ -20,7 +21,7 @@ Il l'avait annoncé, il l'a fait : Neamar a ajouté un nouveau jeu à sa [saga d
 
 De plus, je décerne à Icosien le titre envié de "plus beau jeu de graphes du web" pour deux raisons:
 
-- Le design de Licoti ([un de plus](http://drgoulu.local/2010/06/06/le-systeme-solaire-selon-licoti/)) est vraiment réussi. Bravo !
+- Le design de Licoti ([un de plus](/2010/06/06/le-systeme-solaire-selon-licoti/)) est vraiment réussi. Bravo !
 
 - L'interface utilisateur est tout simplement géniale. Quand Neamar avait pondu un [petit article sur le sujet](http://blog.neamar.fr/component/content/article/18-algorithmie-et-optimisation/119-mouvement-intuitif-graphe-souris), je n'avais pas compris à quel point son système est simple et efficace.  Je réalise maintenant que sans ça, ce beau jeu aurait été injouable.
 

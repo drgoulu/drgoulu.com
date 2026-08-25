@@ -1,5 +1,6 @@
 ---
 title: "Ca c'est du trou noir, du vrai !"
+slug: "ca-cest-du-trou-noir-du-vrai"
 date: 2008-04-18
 categories: 
   - "cat1"
@@ -11,11 +12,11 @@ tags:
 coverImage: "9fb2e2b5159adbeccd643a50cf599d28.jpg"
 ---
 
-Au centre de notre Galaxie, la Voie Lactée, se trouve un [trou noir](https://fr.wikipedia.org/wiki/trou_noir) qui pèse comme 2.7 millions de Soleils, et parmi les [millions d'autres](http://drgoulu.local/2007/03/13/cest-plein-de-trous-noirs/) on vient d'en trouver un [tout petit](http://drgoulu.local/2008/04/02/des-ptits-trous-noirs/), lourd comme 3.6 Soleils seulement. Avant que [celui de 10\-57 masses Solaires](http://drgoulu.local/2008/04/17/on-va-tous-mourir/) nous dévore tous (arf!) voici des nouvelles d'un vrai monstre : OJ287.
+Au centre de notre Galaxie, la Voie Lactée, se trouve un [trou noir](https://fr.wikipedia.org/wiki/trou_noir) qui pèse comme 2.7 millions de Soleils, et parmi les [millions d'autres](/2007/03/13/cest-plein-de-trous-noirs/) on vient d'en trouver un [tout petit](/2008/04/02/des-ptits-trous-noirs/), lourd comme 3.6 Soleils seulement. Avant que [celui de 10\-57 masses Solaires](/2008/04/17/on-va-tous-mourir/) nous dévore tous (arf!) voici des nouvelles d'un vrai monstre : OJ287.
 
 OJ287 est un [quasar](http://fr.wikipedia.org/wiki/Quasar), une galaxie très lointaine (3.5 milliards d'années lumière) dont le cœur est extrêmement lumineux, ce qui fait qu'on l'observe depuis plus d'un siècle. Or, approximativement tous les 12 ans, sa luminosité augmente en produisant deux flashes successifs.
 
-![](images/9fb2e2b5159adbeccd643a50cf599d28.jpg)En 1980, l'équipe finlandaise de Mauri Valtonen a proposé une explication au phénomène : OJ287 serait composé de deux trous noirs, l'un de 100 millions de masses solaires, soit 40 fois plus que [celui du centre de la Voie Lactée](http://drgoulu.local/2007/06/26/le-trou-noir-central-de-la-voie-lactee-revele/). Et celui là, ce serait le petit : il tournerait autour d'un autre, de 18 milliards de Soleils ! Les flashes se produiraient lorsque le petit traverserait par deux fois le disque d'accrétion du grand, comme illustré sur la figure ci-contre.
+![](images/9fb2e2b5159adbeccd643a50cf599d28.jpg)En 1980, l'équipe finlandaise de Mauri Valtonen a proposé une explication au phénomène : OJ287 serait composé de deux trous noirs, l'un de 100 millions de masses solaires, soit 40 fois plus que [celui du centre de la Voie Lactée](/2007/06/26/le-trou-noir-central-de-la-voie-lactee-revele/). Et celui là, ce serait le petit : il tournerait autour d'un autre, de 18 milliards de Soleils ! Les flashes se produiraient lorsque le petit traverserait par deux fois le disque d'accrétion du grand, comme illustré sur la figure ci-contre.
 
 Le disque d'accrétion, c'est de la purée de matière en orbite à la vitesse de la lumière autour du trou noir, une sorte de LHC naturel avec des étoiles à la place des protons, si vous voulez vous faire une idée ...
 

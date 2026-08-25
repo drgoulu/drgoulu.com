@@ -1,5 +1,6 @@
 ---
 title: "Mesurer la Science et la trouver belle"
+slug: "mesurer-la-science-et-la-trouver-belle"
 date: 2008-07-01
 categories: 
   - "cat2"
@@ -13,13 +14,13 @@ La [scientométrie](http://fr.wikipedia.org/wiki/Scientom%C3%A9trie) est de plus
 
 Fort heureusement, les imposantes données collectées pour la scientométrie permettent d'en faire un autre usage plus noble et beau : des graphes.
 
-Je vous avais déjà présenté une [Carte des Sciences](http://drgoulu.local/2007/06/07/carte-des-sciences/), mais le site [eigenfactor.org en propose une version modernisée](http://eigenfactor.org/map/maps.htm) utilisant 6'434'916 citations des 6128 journaux répertoriés par Thomson Scientific pour le fameux calcul du "[facteur d'impact](http://fr.wikipedia.org/wiki/Facteur_d%27impact)" des journaux :
+Je vous avais déjà présenté une [Carte des Sciences](/2007/06/07/carte-des-sciences/), mais le site [eigenfactor.org en propose une version modernisée](http://eigenfactor.org/map/maps.htm) utilisant 6'434'916 citations des 6128 journaux répertoriés par Thomson Scientific pour le fameux calcul du "[facteur d'impact](http://fr.wikipedia.org/wiki/Facteur_d%27impact)" des journaux :
 
 ![](images/0a61213cb09dc338be15be307e68c4b6.png)
 
 eigenfactor.org offre aussi un [système de navigation en ligne](http://www.eigenfactor.org/map/index.php) permettant de visualiser les domaines connexes à un domaine donné, et surtout la liste des journaux traitant de ce sujet (très utile) avec leurs statistiques (moins). Voici par exemple un graphe qui m'a fait très plaisir :
 
-[![](images/099c0683f759daaec0aca59c4e0815c9.png)](http://drgoulu.local/wp-content/uploads/HLIC/099c0683f759daaec0aca59c4e0815c9.png)
+[![](images/099c0683f759daaec0aca59c4e0815c9.png)](/wp-content/uploads/HLIC/099c0683f759daaec0aca59c4e0815c9.png)
 
 1. Il y a toujours des gens qui savent que l'informatique est une science alors que l' "IT" est une technologie ...
 2. elle est toujours bien centrale à mes sujets d'intérêt : ils sont tous là, bien en cercle, il y a même la [mécanique des fluides](http://foils.wordpress.com/) !

@@ -1,5 +1,6 @@
 ---
 title: "Il y a plein de place en bas"
+slug: "il-y-a-plein-de-place-en-bas-2"
 date: 2009-06-11
 categories: 
   - "cat2"
@@ -18,9 +19,9 @@ coverImage: "7890daf3a9aa78a370f3c8eb3902df02.jpg"
 
 {{< figure src="images/3522581edbadc8634573a141f3d3829a.png" alt="What Would Richard Feynman Do ? Une tentative de modélisation de sa pensée." caption="tentative de modélisation de la pensée de Feynman" align="alignright" width="320" >}}
 
-_Traduction de la présentation que [Richard Feynman](http://fr.wikipedia.org/wiki/Richard_Feynman) a donné le 29 décembre 1959 à la réunion annuelle de l'American Physical Society à (Caltech). Intitulé "[There's Plenty of Room at the Bottom](http://www.zyvex.com/nanotech/feynman.html)", ce discours visionnaire pose les bases de la course à la miniaturisation qui nous fournit chaque année des ordinateurs et autres gadgets plus puissants, plus fiables et moins chers, et qui nous amène vers les [nanotechnologies](http://drgoulu.local/2007/04/15/mini-micro-nano/)._
+_Traduction de la présentation que [Richard Feynman](http://fr.wikipedia.org/wiki/Richard_Feynman) a donné le 29 décembre 1959 à la réunion annuelle de l'American Physical Society à (Caltech). Intitulé "[There's Plenty of Room at the Bottom](http://www.zyvex.com/nanotech/feynman.html)", ce discours visionnaire pose les bases de la course à la miniaturisation qui nous fournit chaque année des ordinateurs et autres gadgets plus puissants, plus fiables et moins chers, et qui nous amène vers les [nanotechnologies](/2007/04/15/mini-micro-nano/)._
 
-_Traduit par Philippe Guglielmetti ([www.drgoulu.com](http://drgoulu.local/)) et Maxence Dolle\* en 2009 [(sur Google Docs)](https://docs.google.com/Doc?id=ddtwkkq9_11svn7rdc3)_
+_Traduit par Philippe Guglielmetti ([www.drgoulu.com](/)) et Maxence Dolle\* en 2009 [(sur Google Docs)](https://docs.google.com/Doc?id=ddtwkkq9_11svn7rdc3)_
 
 ### Introduction
 

@@ -1,5 +1,6 @@
 ---
 title: "Combien de marée"
+slug: "combien-de-maree"
 date: 2017-08-15
 categories: 
   - "cat3"
@@ -83,7 +84,7 @@ On voit qu'il y a très peu d’endroits  sur Terre (en noir) où les marées d
 
 La mésaventure du "débutant" de ma photo fait rigoler, mais les rois européens riaient moins lorsqu'un vaisseau revenant chargé de richesses d'une de leurs colonies se fracassait sur des rochers invisibles à cause de la marée.  Ils ont vivement encouragé leurs scientifiques à trouver une solution, mais la prédiction de la marée est un problème très difficile.
 
-Comme on l'a vu, la marée en un endroit donnée est influencée par la forme des côtes à 10'000 km de là, le relief des fonds marins qui freine les courants, la direction des vents dominants qui peut amplifier le flux et freiner le reflux ou vice-versa etc.. Pour prédire correctement la marée, on doit avoir recours à [ce barbare de Fourier](http://drgoulu.local/2010/03/06/succes-hollywoodiens-et-transformee-de-fourier/) pour obtenir le [spectre fréquentiel](https://fr.wikipedia.org/wiki/spectre_fréquentiel) de la marée à cet endroit à partir de [mesures précises](https://fr.wikipedia.org/wiki/marégraphe) sur de longues périodes.
+Comme on l'a vu, la marée en un endroit donnée est influencée par la forme des côtes à 10'000 km de là, le relief des fonds marins qui freine les courants, la direction des vents dominants qui peut amplifier le flux et freiner le reflux ou vice-versa etc.. Pour prédire correctement la marée, on doit avoir recours à [ce barbare de Fourier](/2010/03/06/succes-hollywoodiens-et-transformee-de-fourier/) pour obtenir le [spectre fréquentiel](https://fr.wikipedia.org/wiki/spectre_fréquentiel) de la marée à cet endroit à partir de [mesures précises](https://fr.wikipedia.org/wiki/marégraphe) sur de longues périodes.
 
 ![](images/image-2.png)
 
@@ -99,7 +100,7 @@ Les trains d’engrenages en bas  déplacent verticalement des poulies au ryth
 
 ## L'énergie marémotrice
 
-L'[usine marémotrice de la Rance](https://fr.wikipedia.org/wiki/usine_marémotrice_de_la_Rance) datant de 1966 et quelques nouveaux [projets d'hydroliennes](http://drgoulu.local/2008/09/07/energie-hydrolienne/) notamment  tentent d'utiliser l'[énergie marémotrice](https://fr.wikipedia.org/wiki/énergie_marémotrice) pour produire de l'électricité. C'est très bien, mais il ne faut pas oublier que les fortes marées (et leurs courants) sont produits par un phénomène de résonance qui accumule une puissance relativement faible fournie par la mécanique céleste. En absorbant de l'énergie à certains endroits on risque de modifier les marées, et à l'extrême d'amortir carrément la résonance en créant de nouveaux points amphidromiques...
+L'[usine marémotrice de la Rance](https://fr.wikipedia.org/wiki/usine_marémotrice_de_la_Rance) datant de 1966 et quelques nouveaux [projets d'hydroliennes](/2008/09/07/energie-hydrolienne/) notamment  tentent d'utiliser l'[énergie marémotrice](https://fr.wikipedia.org/wiki/énergie_marémotrice) pour produire de l'électricité. C'est très bien, mais il ne faut pas oublier que les fortes marées (et leurs courants) sont produits par un phénomène de résonance qui accumule une puissance relativement faible fournie par la mécanique céleste. En absorbant de l'énergie à certains endroits on risque de modifier les marées, et à l'extrême d'amortir carrément la résonance en créant de nouveaux points amphidromiques...
 
 Car le potentiel n'est pas aussi élevé que l'on peut croire:
 
@@ -115,7 +116,7 @@ Newton avait un peu trop simplifié les marées océaniques, mais pour le reste 
 
 - La marée ralentit la rotation des lunes et planètes. Ainsi le jour terrestre se rallonge d'environ 2.3 microsecondes par siècle. Le même effet eu le temps d'arrêter totalement la Lune par rapport à nous: elle est désormais en [rotation synchrone](https://fr.wikipedia.org/wiki/rotation_synchrone) avec la Terre. C'est le cas d'autres petites lunes du Système Solaire, mais pas de Mercure comme je le croyais. Mercure est en [résonance spin-orbite](https://fr.wikipedia.org/wiki/résonance_spin-orbite), mais je n'ai pas compris si c'est un effet de la marée du Soleil.
 
-- Mais si la rotation de la Terre ralentit, comment le [moment cinétique](https://fr.wikipedia.org/wiki/moment_cinétique) peut-il se conserver ? Et bien la Lune accélère en proportion !  Et en accélérant, elle "monte" dans le [puits gravitationnel](http://drgoulu.local/2012/09/05/un-petit-pas-pour-lhomme/) de la Terre, et donc s'éloigne de nous de 3.8 cm par an.
+- Mais si la rotation de la Terre ralentit, comment le [moment cinétique](https://fr.wikipedia.org/wiki/moment_cinétique) peut-il se conserver ? Et bien la Lune accélère en proportion !  Et en accélérant, elle "monte" dans le [puits gravitationnel](/2012/09/05/un-petit-pas-pour-lhomme/) de la Terre, et donc s'éloigne de nous de 3.8 cm par an.
 
 - La marée solide perturbe même les mesures du CERN, qui ont du en tenir compte!
 
@@ -129,7 +130,7 @@ Bonne rentrée à tous, et surtout : restez curieux !
   
 \*\* Viens de découvrir que les platistes doivent inventer des phénomènes électromagnétiques pour expliquer les marées... (arf arf arf ! ... et désespoir...)  
   
-\*\*\* Pas vraiment compris pourquoi la marée solaire est plus faible que la lunaire... d'après [mes calculs](http://drgoulu.local/2004/06/30/astrologie/) l'attraction solaire est plus forte...  
+\*\*\* Pas vraiment compris pourquoi la marée solaire est plus faible que la lunaire... d'après [mes calculs](/2004/06/30/astrologie/) l'attraction solaire est plus forte...  
   
 \*\*\*\* Voilà ce qui arrive quand votre mère vous abandonne devant l'[église Saint-Jean-le-Rond de Paris](https://fr.wikipedia.org/wiki/église_Saint-Jean-le-Rond_de_Paris) ...
 

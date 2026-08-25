@@ -1,5 +1,6 @@
 ---
 title: "Les 3 maisons"
+slug: "les-3-maisons"
 date: 2005-08-21
 categories: 
   - "cat1"

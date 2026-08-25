@@ -1,5 +1,6 @@
 ---
 title: "de Graetzel aux great cells"
+slug: "de-graetzel-aux-great-cells"
 date: 2009-09-15
 categories: 
   - "cat3"
@@ -15,11 +16,11 @@ tags:
 coverImage: "ed52a82aa703bfe4111dbdf3cb778db8.jpg"
 ---
 
-Un événement me permet de consacrer [enfin](http://drgoulu.local/2009/03/07/pourquoi-comment-combien/) un article complet aux relations complexes entre science, technique (industrielle) et économie : le professeur [Michaël Grätzel](http://fr.wikipedia.org/wiki/Michael_Gr%C3%A4tzel) de l'EPFL vient de remporter le [prix Balzan](http://fr.wikipedia.org/wiki/Prix_Balzan), presque aussi prestigieux que le Nobel, "[pour](http://www.balzan.org) ses nombreuses contributions à la Science des matériaux nouveaux et en particulier pour avoir inventé et développé un nouveau type de cellule solaire photovoltaïque, la [Dye Sensitized Solar Cell (DSSC)](http://en.wikipedia.org/wiki/Dye-sensitized_solar_cell), la cellule à pigments photosensibles, plus connue sous le nom de [cellule de Grätzel](http://fr.wikipedia.org/wiki/Cellule_Gr%C3%A4tzel)". [[1]](#ref-1), [[2]](#ref-2)
+Un événement me permet de consacrer [enfin](/2009/03/06/pourquoi-comment-combien/) un article complet aux relations complexes entre science, technique (industrielle) et économie : le professeur [Michaël Grätzel](http://fr.wikipedia.org/wiki/Michael_Gr%C3%A4tzel) de l'EPFL vient de remporter le [prix Balzan](http://fr.wikipedia.org/wiki/Prix_Balzan), presque aussi prestigieux que le Nobel, "[pour](http://www.balzan.org) ses nombreuses contributions à la Science des matériaux nouveaux et en particulier pour avoir inventé et développé un nouveau type de cellule solaire photovoltaïque, la [Dye Sensitized Solar Cell (DSSC)](http://en.wikipedia.org/wiki/Dye-sensitized_solar_cell), la cellule à pigments photosensibles, plus connue sous le nom de [cellule de Grätzel](http://fr.wikipedia.org/wiki/Cellule_Gr%C3%A4tzel)". [[1]](#ref-1), [[2]](#ref-2)
 
 Les premières cellules de Grätzel ont fonctionné au début des années 1990 alors que j'étais étudiant à l'EPFL. Pleins d'optimisme, on les surnommait déjà "great cells". J'ai suivi (de loin) leur aventure, que je considère comme un  exemple de la difficulté à transformer une magnifique avancée scientifique en produit commercial. Comme l'avait si bien dit un prof de marketing:
 
-> Les questions des scientifiques commencent par “[pourquoi](http://drgoulu.local/2009/01/04/pourquoi-pour-quoi/)“, les techniciens se demandent “comment”, et les managers “combien”. Pour que ça marche, il faut répondre aux trois.
+> Les questions des scientifiques commencent par “[pourquoi](/2009/01/04/pourquoi-pour-quoi/)“, les techniciens se demandent “comment”, et les managers “combien”. Pour que ça marche, il faut répondre aux trois.
 
 ### Pourquoi
 

@@ -1,5 +1,6 @@
 ---
 title: "Portance : pourquoi ça vole ?"
+slug: "portance-pourquoi-ca-vole"
 date: 2012-03-11
 categories: 
   - "cat2"
@@ -22,13 +23,13 @@ Ce n'est qu'au début du XXème siècle que Kutta (un allemand) et Jukowski (un 
 
 {{< youtube id="mVAA_ZYS9dk" width="600" >}}
 
-Selon Kutta et Jukowski, ce tourbillon produit la différence de vitesses entre les deux faces du profil jusqu'à ce que la "circulation" autour de l'aile s'annule comme le prévoit le [théorème de la circulation de Lord Kelvin](https://en.wikipedia.org/wiki/Kelvin's_circulation_theorem) (un anglais). Mais pour qu'une portance se crée, il faut que la [condition de Kutta](https://en.wikipedia.org/wiki/Kutta_condition) soit satisfaite, comme l'illustre cette [vidéo du génial Paul Nylander](http://nylander.wordpress.com/2007/11/08/joukowski-airfoil/) (alias [Bugman](http://drgoulu.local/2008/01/12/bugman-bientot-blogifie/), un américain), qui montre le flux et la dépression (en rouge) créée lorsqu'on varie la valeur de cette fameuse "circulation":
+Selon Kutta et Jukowski, ce tourbillon produit la différence de vitesses entre les deux faces du profil jusqu'à ce que la "circulation" autour de l'aile s'annule comme le prévoit le [théorème de la circulation de Lord Kelvin](https://en.wikipedia.org/wiki/Kelvin's_circulation_theorem) (un anglais). Mais pour qu'une portance se crée, il faut que la [condition de Kutta](https://en.wikipedia.org/wiki/Kutta_condition) soit satisfaite, comme l'illustre cette [vidéo du génial Paul Nylander](http://nylander.wordpress.com/2007/11/08/joukowski-airfoil/) (alias [Bugman](/2008/01/12/bugman-bientot-blogifie/), un américain), qui montre le flux et la dépression (en rouge) créée lorsqu'on varie la valeur de cette fameuse "circulation":
 
 {{< youtube id="PAM8YeXH2mc" width="600" >}}
 
 En prime, Jukowski nous a aussi laissé sa [tranformation conforme](https://fr.wikipedia.org/wiki/Transformation_de_Joukovsky) qui permettait de générer facilement de jolis profils d'ailes. Maintenant on peut l'utiliser en [faisant joujou avec un curseur](http://www.diam.unige.it/~irro/java/conformi1_0.html), ou utiliser des moyens de calcul beaucoup plus puissants pour obtenir des profils bien meilleurs.
 
-Tout ça est très séduisant, mais la signification physique de la "circulation" n'est pas claire pour tout le monde. Certains relèvement même qu'on a jamais vu de fluide remonter le flux après avoir passé le bord de fuite (tiens, idée : essayer à [très faible Reynolds](http://drgoulu.local/2011/03/13/la-vie-a-bas-reynold/)). De plus cette théorie n'est pas très satisfaisante pour les profils qui ont un bord d'attaque également tranchant.
+Tout ça est très séduisant, mais la signification physique de la "circulation" n'est pas claire pour tout le monde. Certains relèvement même qu'on a jamais vu de fluide remonter le flux après avoir passé le bord de fuite (tiens, idée : essayer à [très faible Reynolds](/2011/03/13/la-vie-a-bas-reynold/)). De plus cette théorie n'est pas très satisfaisante pour les profils qui ont un bord d'attaque également tranchant.
 
 [![](images/8d0bbbd2139f3c46fe17305af66b7964.jpg)](http://airtoair.net/gallery/gallery-vortices.htm)Une autre théorie "moderne" est celle de "l'écope de Newton" [[2]](#ref-2). Elle consiste à dire que le fluide est dévié vers le bas non seulement par l'intrados comme dans un bête effet ricochet, mais aussi par l'extrados. Ce "[downwash](https://en.wikipedia.org/wiki/Downwash)" est très visible à proximité d'un hélicoptère, mais aussi sur de belles photos comme celle ci contre. La portance serait simplement la force de réaction générée par la déviation de la masse de fluide. Cette théorie tout simple est considérée comme [correcte à la NASA](http://www.grc.nasa.gov/WWW/K-12/airplane/right2.html) et aussi par certains physiciens de la voile [[3]](#ref-3), [[4]](#ref-4), mais n'explique pas vraiment comment une extrados dévie l'air vers le bas, ni ne fournit de moyens de calcul ou de simulation...
 

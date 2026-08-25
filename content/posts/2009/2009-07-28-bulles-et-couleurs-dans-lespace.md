@@ -1,5 +1,6 @@
 ---
 title: "Bulles et couleurs de l'espace"
+slug: "bulles-et-couleurs-dans-lespace"
 date: 2009-07-28
 categories: 
   - "cat2"
@@ -35,11 +36,11 @@ Les clichés pris successivement avec un filtre pour H-α et un filtre O-III son
 
 L'équipe du [télescope Mayall](http://www.noao.edu/outreach/kptour/mayall.html) à Kitt Peak a choisi de combiner les clichés en attribuant une couleur orange à H-α et bleue à O-III pour faire plus joli, alors que Keith B Quattrocchi et Mel Helm \[4\] ont choisi des couleurs violettes et vertes, ajoutant même un troisième filtre pour le Soufre-II.
 
-[![](images/15c628cd28101ce2ea2739ee6a599b89.jpg)](http://www.lostvalleyobservatory.com/imagelib/sitebuilder/misc/show_image.html?linkedwidth=actual&linkpath=http://drgoulu.local/wp-content/uploads/HLIC/15c628cd28101ce2ea2739ee6a599b89.jpg&target=tlx_new)
+[![](images/15c628cd28101ce2ea2739ee6a599b89.jpg)](http://www.lostvalleyobservatory.com/imagelib/sitebuilder/misc/show_image.html?linkedwidth=actual&linkpath=/wp-content/uploads/HLIC/15c628cd28101ce2ea2739ee6a599b89.jpg&target=tlx_new)
 
 De plus ils sont plus explicites sur la technique utilisée : ils ont pris au total 21 clichés de 20 minutes d'exposition, soit 7 heures pour chacun des 3 [filtres](http://www.astrodon.com/products/filters/narrowband/). Les clichés ont été superposés avec [CCD Stack](http://www.ccdware.com/products/ccdstack/), et [MaxIm DL](http://www.cyanogen.com/maxim_main.php), puis un peu PhotoShopés quand même.
 
-Voilà, votre nouveau fond d'écran astronomique est disponible en [deux](http://www.noao.edu/image_gallery/html/im1059.html) [couleurs](http://www.lostvalleyobservatory.com/imagelib/sitebuilder/misc/show_image.html?linkedwidth=actual&linkpath=http://drgoulu.local/wp-content/uploads/HLIC/15c628cd28101ce2ea2739ee6a599b89.jpg&target=tlx_new), et vous savez pourquoi.
+Voilà, votre nouveau fond d'écran astronomique est disponible en [deux](http://www.noao.edu/image_gallery/html/im1059.html) [couleurs](http://www.lostvalleyobservatory.com/imagelib/sitebuilder/misc/show_image.html?linkedwidth=actual&linkpath=/wp-content/uploads/HLIC/15c628cd28101ce2ea2739ee6a599b89.jpg&target=tlx_new), et vous savez pourquoi.
 
 ## Sources:
 

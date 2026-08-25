@@ -6,7 +6,7 @@ draft: true
 
 ## Who we are
 
-**Suggested text:** Our website address is: http://drgoulu.local.
+**Suggested text:** Our website address is: /.
 
 ## Comments
 

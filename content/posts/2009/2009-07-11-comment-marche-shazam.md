@@ -1,5 +1,6 @@
 ---
 title: "Comment marche Shazam"
+slug: "comment-marche-shazam"
 date: 2009-07-11
 categories: 
   - "cat2"

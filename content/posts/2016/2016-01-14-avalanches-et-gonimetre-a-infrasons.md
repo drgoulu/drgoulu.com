@@ -1,5 +1,6 @@
 ---
 title: "Avalanches et goniomètre à infrasons"
+slug: "avalanches-et-gonimetre-a-infrasons"
 date: 2016-01-14
 categories: 
   - "cat3"
@@ -13,7 +14,7 @@ Dans la liste ["Réalisations" de mon CV](http://www.philippe-guglielmetti.com/c
 
 Selon [[1]](#ref-1) l'histoire a commencé par le projet militaire, mais à ce qu'on m'avait dit, ce sont plutôt des recherches sur les avalanches qui  ont lancé le projet militaire. L'idée d'un chercheur au [LEMA de l'EPFL](http://lema.epfl.ch/) était de détecter des avalanches, voire d'avertir de leur imminence en mesurant les infrasons provoqués par le tassement ou la rupture du manteau neigeux. Mais il s'est rapidement aperçu que ses mesures d'infrasons en altitude étaient polluées par beaucoup de bruits parasites : bang supersoniques, explosions, hélicoptères ...
 
-"Hélicoptères ? Votre microphone à infrasons entend des hélicoptères volant dans les vallées alpines, sous les radars ?" Ni une ni deux, l'armée suisse finance le projet et construit un système de mesure baptisé "Peiler", composé de plusieurs micros espacés de quelques dizaines de mètres près des pistes d' [Anzère](https://fr.wikipedia.org/wiki/Anzère). En mesurant le décalage temporel ([déphasage](https://fr.wikipedia.org/wiki/déphasage)) des sons captés, un logiciel de traitement des signaux ( en [LabView](https://fr.wikipedia.org/wiki/LabView), mon [langage de prédilection à l'époque](http://drgoulu.local/2010/12/03/les-decorateurs-python) ) pouvait déterminer la direction de la source.
+"Hélicoptères ? Votre microphone à infrasons entend des hélicoptères volant dans les vallées alpines, sous les radars ?" Ni une ni deux, l'armée suisse finance le projet et construit un système de mesure baptisé "Peiler", composé de plusieurs micros espacés de quelques dizaines de mètres près des pistes d' [Anzère](https://fr.wikipedia.org/wiki/Anzère). En mesurant le décalage temporel ([déphasage](https://fr.wikipedia.org/wiki/déphasage)) des sons captés, un logiciel de traitement des signaux ( en [LabView](https://fr.wikipedia.org/wiki/LabView), mon [langage de prédilection à l'époque](/2010/12/04/les-decorateurs-python/) ) pouvait déterminer la direction de la source.
 
 Par exemple dans le [spectrogramme](https://fr.wikipedia.org/wiki/spectrogramme) ci-dessous un œil entraîné ou un logiciel bien foutu peut distinguer:
 

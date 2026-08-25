@@ -1,5 +1,6 @@
 ---
 title: "Cercles pas ronds"
+slug: "cercles-pas-ronds"
 date: 2008-06-30
 categories: 
   - "non-classe"
@@ -8,7 +9,7 @@ tags:
 coverImage: "image009.jpg"
 ---
 
-Le Web regorge de magnifiques illusions d'optiques, mais sur Dr. Goulu il n'y a [que les meilleures](http://drgoulu.local/tag/culture/graphisme/illusion/), comme celle-ci :
+Le Web regorge de magnifiques illusions d'optiques, mais sur Dr. Goulu il n'y a [que les meilleures](/tag/culture/graphisme/illusion/), comme celle-ci :
 
 ![](images/image009.jpg)
 

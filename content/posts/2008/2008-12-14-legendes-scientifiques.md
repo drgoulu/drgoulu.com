@@ -1,5 +1,6 @@
 ---
 title: "Légendes scientifiques"
+slug: "legendes-scientifiques"
 date: 2008-12-14
 categories: 
   - "cat2"

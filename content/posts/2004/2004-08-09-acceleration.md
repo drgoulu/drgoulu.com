@@ -1,5 +1,6 @@
 ---
 title: "Accélération : Journal de bord d’un voyage relativiste"
+slug: "acceleration"
 date: 2004-08-09
 categories: 
   - "cat2"

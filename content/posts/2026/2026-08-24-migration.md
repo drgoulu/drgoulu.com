@@ -1,5 +1,6 @@
 ---
 title: "Migration"
+slug: "migration"
 date: 2026-08-24T16:30:48+02:00
 draft: false
 summary: "Guide des fonctionnalités de visualisation de données : graphiques Plotly, diagrammes Mermaid et tableaux CSV avec Hugo Blox."

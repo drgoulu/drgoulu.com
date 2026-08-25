@@ -1,5 +1,6 @@
 ---
 title: "On brulera vraiment tout"
+slug: "on-brulera-vraiment-tout"
 date: 2007-05-25
 categories: 
   - "cat3"
@@ -11,7 +12,7 @@ coverImage: "c736ab5918c3cd1145d9a87e57131cff.png"
 
 {{< figure src="images/b17c4350f981b95ef7b83404d93960cd.jpg" alt="Dimday of Our Time par A. Radonic sur Flicker" caption="&quot;Dimday of Our Time&quot; par A. Radonic sur Flicker" link="https://www.flickr.com/photos/radonic/83096145/" align="alignright" width="240" >}}
 
-Il y a 3 ans, j'avais publié "[On brûlera tout !](http://drgoulu.local/2004/06/29/on-brulera-tout/)", qui dit en substance que le pétrole et le charbon étant tellement bon marché par rapport à toute énergie "alternative", l'humanité consommera de toutes façons toutes les réserves disponibles.
+Il y a 3 ans, j'avais publié "[On brûlera tout !](/2004/06/29/on-brulera-tout/)", qui dit en substance que le pétrole et le charbon étant tellement bon marché par rapport à toute énergie "alternative", l'humanité consommera de toutes façons toutes les réserves disponibles.
 
 Dans le "Pour la Science" de juin 2007, Ivar Ekeland \[1\] confirme mon "intuition" par des arguments purement économiques, simples et imparables. Pour commencer, il pose que le prix maximal que peut atteindre le pétrole est celui de la solution de substitution la meilleure marché.
 

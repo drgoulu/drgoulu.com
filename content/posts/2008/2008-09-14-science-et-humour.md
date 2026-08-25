@@ -1,5 +1,6 @@
 ---
 title: "Science et Humour"
+slug: "science-et-humour"
 date: 2008-09-14
 categories: 
   - "non-classe"
@@ -23,15 +24,15 @@ Vous en trouverez de nombreuses autres de ce genre [ici.](http://www.sciences.ch
 
 ### (Auto)-Dérision
 
-Les désormais fameux [prix igNobel](http://ignobel.com/) récompensent les recherches les plus étranges, republiées dans le "[Journal of Improbable Research](http://improbable.com/)". Je vous avais [parlé ici des prix 2007](http://drgoulu.local/2007/10/19/prix-ignobel/), les 2008 ne vont pas tarder à être décernés, préparez vos zygomatiques. Ce qui me surprend le plus, c'est de voir la plupart des lauréats accepter leur prix avec le sourire et gratifier l'assistance d'une présentation en bonne et due forme de leur sujet de recherche farfelu, diffusée largement en [video](http://www.youtube.com/results?search_query=improbable+research&search_type=&aq=0&oq=improbable+re).
+Les désormais fameux [prix igNobel](http://ignobel.com/) récompensent les recherches les plus étranges, republiées dans le "[Journal of Improbable Research](http://improbable.com/)". Je vous avais [parlé ici des prix 2007](/2007/10/19/prix-ignobel/), les 2008 ne vont pas tarder à être décernés, préparez vos zygomatiques. Ce qui me surprend le plus, c'est de voir la plupart des lauréats accepter leur prix avec le sourire et gratifier l'assistance d'une présentation en bonne et due forme de leur sujet de recherche farfelu, diffusée largement en [video](http://www.youtube.com/results?search_query=improbable+research&search_type=&aq=0&oq=improbable+re).
 
 L'autodérision est également très appréciée dans la communauté scientifique. En particulier, le "[Journal of Irreproductive Results](http://www.jir.com/)" publie des articles parodiques voire délirants, mais respectant scrupuleusement le formalisme formellement formel des publications scientifiques de plus haut niveau.
 
-Dans le même ordre d'idées, quelques aménagements du [système international d'unités](http://fr.wikipedia.org/wiki/Syst%C3%A8me_international_d%27unit%C3%A9s) ont été proposés pour étendre le domaine d'application de la science tout en intégrant de quelques expressions du langage populaire dans le formalisme scientifique. Voir en particulier la norme NF UNM 00-000 dite des "unités pifométriques" [dont je vous ai déjà parlé ici](http://drgoulu.local/2007/01/20/nouvelles-unites-de-mesure/)
+Dans le même ordre d'idées, quelques aménagements du [système international d'unités](http://fr.wikipedia.org/wiki/Syst%C3%A8me_international_d%27unit%C3%A9s) ont été proposés pour étendre le domaine d'application de la science tout en intégrant de quelques expressions du langage populaire dans le formalisme scientifique. Voir en particulier la norme NF UNM 00-000 dite des "unités pifométriques" [dont je vous ai déjà parlé ici](/2007/01/20/nouvelles-unites-de-mesure/)
 
 ### Lois Universelles
 
-Un moyen assez simple de faire coller la dure réalité expérimentale aux belles théories scientifiques consiste à tenir compte de quelques lois universelles additionnelles, complétant voire supplantant occasionnellement [la logique pure](http://drgoulu.local/2004/06/21/temple-de-la-logique-pure/).
+Un moyen assez simple de faire coller la dure réalité expérimentale aux belles théories scientifiques consiste à tenir compte de quelques lois universelles additionnelles, complétant voire supplantant occasionnellement [la logique pure](/2004/06/21/temple-de-la-logique-pure/).
 
 Les [lois de Murphy](http://www.courtois.cc/murphy/murphy.html) sont les plus connues puisqu'elles sont absolument fondamentales en ingénierie et dans la plupart des sciences expérimentales
 
@@ -54,6 +55,6 @@ L'humour des informaticiens est particulièrement caustique car leur discipline 
 
 De ce fait, les informaticiens sont des mystiques assez prompts aux blagues métaphysiques, mais aussi aux blagues à connotation religieuse voire racistes visant les minorités comme les adeptes de Fortran ou les Cobolistes.
 
-L'humour informaticien est notamment très présent dans les [Perlisismes](http://drgoulu.local/2008/01/21/perlisismes-les-dictons-informatiques-dalan-perlis/), tels que "Il y a deux manières d’écrire des programmes sans erreurs. Seule la troisième marche."
+L'humour informaticien est notamment très présent dans les [Perlisismes](/2008/01/21/perlisismes-les-dictons-informatiques-dalan-perlis/), tels que "Il y a deux manières d’écrire des programmes sans erreurs. Seule la troisième marche."
 
 N'hésitez pas à mettre en commentaire d'autres références que vous pourriez connaitre!

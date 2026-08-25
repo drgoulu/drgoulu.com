@@ -1,5 +1,6 @@
 ---
 title: "Poster de vaisseaux spatiaux"
+slug: "poster-de-vaisseaux-spatiaux"
 date: 2007-01-19
 categories: 
   - "cat2"
@@ -16,7 +17,7 @@ Dans l'article "How big is your starship", Badastronomy présente une image comp
 
 A mon avis, un bon vaisseau spatial:
 
-- doit avoir la forme d'une tour pour que les passagers soient plaqués aux planchers par l'[accélération](http://drgoulu.local/2004/08/09/acceleration/) pour les vaisseaux rapides
+- doit avoir la forme d'une tour pour que les passagers soient plaqués aux planchers par l'[accélération](/2004/08/09/acceleration/) pour les vaisseaux rapides
 - les vaisseaux rapides doivent avoir un imposant bouclier à avant pour absorber le rayonnement et les chocs avec les poussières interstellaires
 - pour les vaisseaux lents, les formes en anneau ou en cylindre permettent de créer une gravité par rotation
 

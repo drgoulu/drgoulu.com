@@ -1,5 +1,6 @@
 ---
 title: "Ultrasons Anti- (et Pro-) Ados"
+slug: "ultrasons-anti-et-pro-ados"
 date: 2007-04-27
 categories: 
   - "cat2"

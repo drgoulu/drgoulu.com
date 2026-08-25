@@ -1,5 +1,6 @@
 ---
 title: "Perspective Suisse"
+slug: "perspective-suisse"
 date: 2007-02-08
 categories: 
   - "non-classe"

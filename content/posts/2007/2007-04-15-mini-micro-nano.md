@@ -1,5 +1,6 @@
 ---
 title: "Mini Micro Nano"
+slug: "mini-micro-nano"
 date: 2007-04-15
 categories: 
   - "cat2"
@@ -37,7 +38,7 @@ L'outil ultime de la miniaturisation est le [microscope à effet tunnel](http://
 
 ### [Nanotechnologie](http://fr.wikipedia.org/wiki/Nanotechnologie)
 
-Dans son article précurseur "[there is plenty of space at the bottom](http://drgoulu.local/2009/06/11/il-y-a-plein-de-place-en-bas-2/)" que j'ai traduit en français, Richard Feynman expliquait en 1960 déjà qu'il était possible d'imaginer construire une voiture plus petite que ce point -> . Ce qui manquait à l'époque, c'était les outils pour le faire.
+Dans son article précurseur "[there is plenty of space at the bottom](/2009/06/11/il-y-a-plein-de-place-en-bas-2/)" que j'ai traduit en français, Richard Feynman expliquait en 1960 déjà qu'il était possible d'imaginer construire une voiture plus petite que ce point -> . Ce qui manquait à l'époque, c'était les outils pour le faire.
 
 Or on peut désormais envisager la construction de "nano machines" constituées du nombre minimal d'atomes nécessaires à leur fonctionnement.Constituées de quelques centaines d'atomes, leur dimension de l'ordre du nanomètre, permettrait d'en aligner un million sur un milimètre! Il existe même des logiciels de CAO permettant de les concevoir, mais hélas aucune méthode rapide de les réaliser pour l'instant.
 
@@ -57,5 +58,5 @@ Dans son thriller "Prey", Michael Crichton décrit l'apparition d'une forme de v
 
 ### Références
 
-1. <span id="ref-1"></span>Richard Feynman, "[there is plenty of space at the bottom](http://drgoulu.local/2009/06/11/il-y-a-plein-de-place-en-bas-2/ "Il y a plein de place en bas")", 1960
-2. <span id="ref-2"></span>\[openbook booknumber="ISBN:2266141171" templatenumber="5"\]
+1. <span id="ref-1"></span>Richard Feynman, "[there is plenty of space at the bottom](/2009/06/11/il-y-a-plein-de-place-en-bas-2/ "Il y a plein de place en bas")", 1960
+2. <span id="ref-2"></span>{{< openbook booknumber="ISBN:2266141171" templatenumber="5" >}}

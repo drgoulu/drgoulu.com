@@ -1,5 +1,6 @@
 ---
 title: "Séismes et énergies"
+slug: "seismes-et-energies"
 date: 2011-03-16
 categories: 
   - "cat3"
@@ -41,7 +42,7 @@ Par contre pour un barrage, c'est plus compliqué car les grandes structures peu
 
 En Suisse, un document [[1]](#ref-1) spécifie que les grands barrages doivent supporter un séisme dont la probabilité d'apparition est de 1/10'000 par an, donnée par la carte suivante :
 
-{{< figure src="images/3bb9b731af9479eca85ba46e97b328ba.png" alt="seismesuisse" caption="Intensité MSK d'un tremblement de terre de probabilité 1% par siècle en Suisse" link="http://drgoulu.local//HLIC/3bb9b731af9479eca85ba46e97b328ba.png" align="aligncenter" width="593" >}}
+{{< figure src="images/3bb9b731af9479eca85ba46e97b328ba.png" alt="seismesuisse" caption="Intensité MSK d'un tremblement de terre de probabilité 1% par siècle en Suisse" link="images/3bb9b731af9479eca85ba46e97b328ba.png" align="aligncenter" width="593" >}}
 
 Comme le voient ceux qui connaissent la géographie helvétique, les barrages alpins sont tous situés dans la zone pouvant subir une intensité VIII ou plus, et quelques très grands barrages comme la [Grande-Dixence](https://fr.wikipedia.org/wiki/barrage_de_la Grande-Dixence) ou [Mauvoisin](https://fr.wikipedia.org/wiki/lac_de Mauvoisin) sont en zone IX. Ces ouvrages auraient donc résisté de justesse à la récente secousse japonaise, mais pas à Kobe ou Haïti.
 

@@ -1,5 +1,6 @@
 ---
 title: "Multiplication graphique"
+slug: "multiplication-graphique"
 date: 2007-04-18
 categories: 
   - "non-classe"

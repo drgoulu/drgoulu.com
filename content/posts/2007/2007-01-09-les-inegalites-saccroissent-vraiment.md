@@ -1,5 +1,6 @@
 ---
 title: "Les inégalités s’accroissent. Vraiment ?"
+slug: "les-inegalites-saccroissent-vraiment"
 date: 2007-01-09
 categories: 
   - "cat3"

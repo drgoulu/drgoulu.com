@@ -1,5 +1,6 @@
 ---
 title: "A303935 , ma première suite OEIS"
+slug: "a303935-ma-premiere-sequence-oeis"
 date: 2018-06-09
 categories: 
   - "cat2"
@@ -34,7 +35,7 @@ Et une référence "peer reviewed" de plus \[2\] !
 
 ## Et en Python ?
 
-Le code suivant, tiré de [Goulib/examples/oeis.py](https://github.com/goulu/Goulib/blob/master/examples/oeis.py) , implante les trois suites mentionnées en Python, à l'aide de la [classe Sequence déjà décrite ici](http://drgoulu.local/2017/06/26/series-infinies-et-oeis-en-python/).
+Le code suivant, tiré de [Goulib/examples/oeis.py](https://github.com/goulu/Goulib/blob/master/examples/oeis.py) , implante les trois suites mentionnées en Python, à l'aide de la [classe Sequence déjà décrite ici](/2017/06/26/series-infinies-et-oeis-en-python/).
 
 \[python\] def dfs(n): return sum(map(factorial,digits(n)))
 

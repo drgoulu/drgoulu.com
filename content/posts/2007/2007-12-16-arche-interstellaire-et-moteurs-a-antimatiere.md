@@ -1,5 +1,6 @@
 ---
 title: "Arche interstellaire et moteurs à antimatière"
+slug: "arche-interstellaire-et-moteurs-a-antimatiere"
 date: 2007-12-16
 categories: 
   - "cat2"
@@ -10,21 +11,21 @@ tags:
 coverImage: "8024ea2c9f9a3dec6eb648c4f6d6a34e1.jpg"
 ---
 
-En février, Gilgamesh a publié sur [Parcours Etranges](http://strangepaths.com/en/) un article culte : "[Arche interstellaire](http://strangepaths.com/?p=106&cp=4&language=fr#comments)", dont je vous ai déjà parlé [ici.](http://drgoulu.local/2007/06/06/parcours-etranges/) "Culte" parce que cet article a reçu jusqu'ici plus de 200 commentaires, presque tous constructifs et intéressants, faisant parfois plusieurs pages bien documentées, et que l'on peut suivre facilement grâce au [flux RSS de l'article](http://strangepaths.com/arche-interstellaire/2007/02/14/feed/fr/).
+En février, Gilgamesh a publié sur [Parcours Etranges](http://strangepaths.com/en/) un article culte : "[Arche interstellaire](http://strangepaths.com/?p=106&cp=4&language=fr#comments)", dont je vous ai déjà parlé [ici.](/2007/06/06/parcours-etranges/) "Culte" parce que cet article a reçu jusqu'ici plus de 200 commentaires, presque tous constructifs et intéressants, faisant parfois plusieurs pages bien documentées, et que l'on peut suivre facilement grâce au [flux RSS de l'article](http://strangepaths.com/arche-interstellaire/2007/02/14/feed/fr/).
 
 Un thème dominant dans les commentaires est celui de la propulsion interstellaire : quelle source d'énergie et quels moteurs utiliser pour atteindre les étoiles ?
 
 ![](images/8024ea2c9f9a3dec6eb648c4f6d6a34e.jpg)_(approche de Iota Horlogii vue par Christoph Kulmann, [exoplaneten.de](http://www.exoplaneten.de))_
 
-Pour illustrer la difficulté, les [sondes Voyager lancées il y a 30 ans sont actuellement à 1/2 jour lumière de nous](http://www.futura-sciences.com/fr/news/t/astronautique/d/voyager-2-les-surprises-de-lultime-frontiere_13892/), donc environ 1/4000 ème de la distance nous séparant de l'étoile la plus proche... Actuellement, seuls le [moteur ionique](http://drgoulu.local/2007/09/28/qui-veut-voyager-loin-ionise-sa-sonde/) permet d'envisager envoyer des engins plus vite et plus loin, mais sa très faible poussée limite son usage à des sondes automatiques légères.
+Pour illustrer la difficulté, les [sondes Voyager lancées il y a 30 ans sont actuellement à 1/2 jour lumière de nous](http://www.futura-sciences.com/fr/news/t/astronautique/d/voyager-2-les-surprises-de-lultime-frontiere_13892/), donc environ 1/4000 ème de la distance nous séparant de l'étoile la plus proche... Actuellement, seuls le [moteur ionique](/2007/09/28/qui-veut-voyager-loin-ionise-sa-sonde/) permet d'envisager envoyer des engins plus vite et plus loin, mais sa très faible poussée limite son usage à des sondes automatiques légères.
 
-L'Arche de Gilgamesh utiliserait la [fusion thermonucléaire](http://drgoulu.local/2005/12/11/la-fusion-thermonucleaire/) pour propulser un énorme cylindre abritant 5000 voyageurs vers une étoile proche (10 années lumière) en 700 ans.
+L'Arche de Gilgamesh utiliserait la [fusion thermonucléaire](/2005/12/11/la-fusion-thermonucleaire/) pour propulser un énorme cylindre abritant 5000 voyageurs vers une étoile proche (10 années lumière) en 700 ans.
 
-Dans "[Accélération](http://drgoulu.local/2004/08/09/acceleration/)", j'ai décrit un voyage de 10 années lumière en 11 ans seulement, mais seulement 3 pour la petite équipe de passagers d'un vaisseau "léger" accélérant jusqu'à la vitesse de la lumière. La technologie de propulsion n'est pas décrite, mais je rêvais à une sorte de réacteur à antimatière catalytique, que Gilgamesh a rapidement démonté (merci ...).
+Dans "[Accélération](/2004/08/09/acceleration/)", j'ai décrit un voyage de 10 années lumière en 11 ans seulement, mais seulement 3 pour la petite équipe de passagers d'un vaisseau "léger" accélérant jusqu'à la vitesse de la lumière. La technologie de propulsion n'est pas décrite, mais je rêvais à une sorte de réacteur à antimatière catalytique, que Gilgamesh a rapidement démonté (merci ...).
 
 Cependant, Gilgamesh vient d'indiquer dans un commentaire [ce site](http://ffden-2.phys.uaf.edu/213.web.stuff/Scott%20Kircher/antimatter.html) dédié à la propulsion par antimatière. Outre le fait d'être en anglais, ce site est graphiquement horrible, impossible à lire sur ce fond noir et bleu... J'ai fait l'effort pour vous, et voici ce qu'il en ressort:
 
-1. L'[Université de Pennsylvanie](http://www.engr.psu.edu/antimatter/) a proposé un moteur "ACMF" pour "[Antimatter Catalyzed Micro Fission/Fusion](http://ffden-2.phys.uaf.edu/213.web.stuff/Scott%20Kircher/fissionfusion.html)" consistant en gros a faire exploser de minuscules bombes H faites de pastilles d'Uranium, de Deutérium et de Tritium en les bombardant avec des antiprotons. Un vaisseau "ICAN-II" a même été projeté : il ressemblerait à ça: [![](images/d3014a6fe7ca9e36dbbaa4740ef4a1ba.jpg)](http://drgoulu.local//HLIC/d3014a6fe7ca9e36dbbaa4740ef4a1ba.jpg)
+1. L'[Université de Pennsylvanie](http://www.engr.psu.edu/antimatter/) a proposé un moteur "ACMF" pour "[Antimatter Catalyzed Micro Fission/Fusion](http://ffden-2.phys.uaf.edu/213.web.stuff/Scott%20Kircher/fissionfusion.html)" consistant en gros a faire exploser de minuscules bombes H faites de pastilles d'Uranium, de Deutérium et de Tritium en les bombardant avec des antiprotons. Un vaisseau "ICAN-II" a même été projeté : il ressemblerait à ça: [![](images/d3014a6fe7ca9e36dbbaa4740ef4a1ba.jpg)](images/d3014a6fe7ca9e36dbbaa4740ef4a1ba.jpg)
     
     Cet engin pourrait emmener quelques personnes vers Mars et retour en 120 jours seulement, en consommant 140 nanogrammes d'anti-protons (qui pourraient être produits en 1 an au CERN par exemple) et 360 tonnes de micro bombes H... Plus d'infos sur ce projet [ici](http://www.engr.psu.edu/antimatter/documents.html).
     

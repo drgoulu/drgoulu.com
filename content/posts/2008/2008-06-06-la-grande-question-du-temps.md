@@ -1,5 +1,6 @@
 ---
 title: "la Grande Question du Temps"
+slug: "la-grande-question-du-temps"
 date: 2008-06-06
 categories: 
   - "cat1"
@@ -14,7 +15,7 @@ coverImage: "0f6551a2b725cf5aff440b54b767ca4a.jpg"
 
 {{< figure src="images/adf871d124dba234f4afb0f80ebbb26f.jpg" alt="Big Bang par ToniVC sur flickr" caption="&quot;Big Bang&quot; par ToniVC sur flickr" link="http://www.flickr.com/photos/tonivc/835288945/" align="alignright" width="240" >}}
 
-Dès que l'on parle du [Big Bang à l'origine de l'Univers](http://drgoulu.local/2008/05/30/le-big-bang-en-une-image/), la première question qui se pose est "qu'y avait-il avant ?". C'est la Grande Question du Temps. La réponse de la physique actuelle est "la question n'a pas de sens". Dans cet article, je vais tenter de montrer que ce n'est de loin pas une façon de contourner la difficulté de la question.
+Dès que l'on parle du [Big Bang à l'origine de l'Univers](/2008/05/30/le-big-bang-en-une-image/), la première question qui se pose est "qu'y avait-il avant ?". C'est la Grande Question du Temps. La réponse de la physique actuelle est "la question n'a pas de sens". Dans cet article, je vais tenter de montrer que ce n'est de loin pas une façon de contourner la difficulté de la question.
 
 ### Introduction
 
@@ -22,7 +23,7 @@ Commençons par un sujet qui peut paraître éloigné. Notre intuition en rega
 
 ### La 4ème dimension
 
-Selon Einstein, [le temps est une quatrième dimension](http://drgoulu.local/2007/02/07/le-temps-une-4eme-dimension-imaginaire/) liée aux dimensions spatiales par la vitesse de la lumière. Si on admet qu'à l'instant du Big Bang, l'Univers était un point de dimensions spatiales nulles, le temps était aussi au "Temps zéro"  absolu. Autrement dit, si on mesure le temps non pas en secondes, mais en se basant sur le [rayon de l'Univers observable](http://drgoulu.local/2008/05/30/le-big-bang-en-une-image/) qui augmente depuis le BigBang, il devient clair qu'à un moment l'univers avait un rayon de 1 mètre (à 10\-32 secondes), mais que se demander quand il avait un rayon de -1m n'a pas de sens.
+Selon Einstein, [le temps est une quatrième dimension](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/) liée aux dimensions spatiales par la vitesse de la lumière. Si on admet qu'à l'instant du Big Bang, l'Univers était un point de dimensions spatiales nulles, le temps était aussi au "Temps zéro"  absolu. Autrement dit, si on mesure le temps non pas en secondes, mais en se basant sur le [rayon de l'Univers observable](/2008/05/30/le-big-bang-en-une-image/) qui augmente depuis le BigBang, il devient clair qu'à un moment l'univers avait un rayon de 1 mètre (à 10\-32 secondes), mais que se demander quand il avait un rayon de -1m n'a pas de sens.
 
 {{< figure src="images/fb7be8c54e7d6ea42f80910ce858eddd.jpg" alt="fig. 1 : relation entre la taille de l'Univers observable et son âge" caption="fig. 1 : relation entre la taille de l'Univers observable et son âge" align="aligncenter" width="450" >}}
 
@@ -34,9 +35,9 @@ Heureusement, en 1967 on a défini la seconde comme \[1\]:
 
 > la durée de 9 192 631 770 périodes de la radiation correspondant à la transition entre les niveaux hyperfins F=3 et F=4 de l’état fondamental 6S½ de l’atome de césium 133 à 0°K .
 
-C'est mieux, ça sonne bien physique. Mais [il n'existe pas d'atomes de césium à 0°K dans la nature](http://drgoulu.local/2007/05/09/plus-froid-que-lespace/), et d'ailleurs les premiers atomes sont apparus 300'000 "ans" après le Big Bang, et le césium plutôt après 1'000'000'000 d'années, avec les premières étoiles. Avec quelle horloge pouvait-on mesurer le temps avant ? Ou autrement dit, comment savoir si les secondes du début de l'Univers avaient la même durée que les secondes actuelles ?
+C'est mieux, ça sonne bien physique. Mais [il n'existe pas d'atomes de césium à 0°K dans la nature](/2007/05/09/plus-froid-que-lespace/), et d'ailleurs les premiers atomes sont apparus 300'000 "ans" après le Big Bang, et le césium plutôt après 1'000'000'000 d'années, avec les premières étoiles. Avec quelle horloge pouvait-on mesurer le temps avant ? Ou autrement dit, comment savoir si les secondes du début de l'Univers avaient la même durée que les secondes actuelles ?
 
-{{< figure src="images/34219472a867937057256c0f094f2d7e.jpg" alt="fig 2 : Histoire microscopique de l'Univers (cliquer pour la macroscopique)" caption="fig 2 : Histoire &quot;microscopique&quot; de l'Univers (cliquer pour la &quot;macroscopique&quot;)" link="http://drgoulu.local/2008/05/30/le-big-bang-en-une-image/" align="aligncenter" width="472" >}}
+{{< figure src="images/34219472a867937057256c0f094f2d7e.jpg" alt="fig 2 : Histoire microscopique de l'Univers (cliquer pour la macroscopique)" caption="fig 2 : Histoire &quot;microscopique&quot; de l'Univers (cliquer pour la &quot;macroscopique&quot;)" link="/2008/05/30/le-big-bang-en-une-image/" align="aligncenter" width="472" >}}
 
 ###  Le Grand Métronome Absolu
 
@@ -48,7 +49,7 @@ On a donc un gros problème : le Big Bang est décrit en utilisant la notion act
 
 ### Temps et Énergie
 
-Cependant, il existe un point commun entre toutes les mesures passées et actuelles du temps, c'est l'énergie : toutes les horloges sont basées sur une oscillation périodique d'un système contenant de l'énergie. Que ce soit la rotation de la Terre, le mouvement d'un balancier muni d'un [ressort spiral](http://drgoulu.local/2005/12/12/calcul-dun-ressort-spiral-dhorlogerie/) ou la fréquence d'un rayonnement électromagnétique, notre mesure du temps est étroitement liée à la notion d'énergie.
+Cependant, il existe un point commun entre toutes les mesures passées et actuelles du temps, c'est l'énergie : toutes les horloges sont basées sur une oscillation périodique d'un système contenant de l'énergie. Que ce soit la rotation de la Terre, le mouvement d'un balancier muni d'un [ressort spiral](/2005/12/12/calcul-dun-ressort-spiral-dhorlogerie/) ou la fréquence d'un rayonnement électromagnétique, notre mesure du temps est étroitement liée à la notion d'énergie.
 
 La théorie du Big Bang lie étroitement le temps et l'énergie au "début" de l'Univers, comme on le voit sur la fig.2. Les particules sont apparues à 10\-10 s, quand leur énergie correspondait à 10² Giga [electronVolt](http://fr.wikipedia.org/wiki/M%C3%A9ga%C3%A9lectron-volt) (GeV). Puis elles se sont agglomérées en atomes à 1013 secondes, quand leur énergie a baissé à 10\-11 GeV, et actuellement il est exactement  2,3.10\-13 GeV après le Big Bang.
 
@@ -64,5 +65,5 @@ L'idée selon laquelle le Big Bang a eu lieu à un "instant" précis est le rés
 
 1. ["seconde" sur Wikipedia](http://fr.wikipedia.org/wiki/Seconde_\(temps\))
 2. ["Big Bang" sur Wikipedia](http://fr.wikipedia.org/wiki/Big_Bang)
-3. Etienne Klein, "[Le temps de la physique](http://basarab.nicolescu.perso.sfr.fr/ciret/bulletin/b12/b12c5.htm)", dans \[openbook booknumber="ISBN:9782226096111" templatenumber="5"\]
+3. Etienne Klein, "[Le temps de la physique](http://basarab.nicolescu.perso.sfr.fr/ciret/bulletin/b12/b12c5.htm)", dans {{< openbook booknumber="ISBN:9782226096111" templatenumber="5" >}}
 4. "[The Observable Universe](http://universe-review.ca/F02-cosmicbg.htm)"

@@ -1,5 +1,6 @@
 ---
 title: "Interstellar"
+slug: "interstellar"
 date: 2014-11-29
 categories: 
   - "cat2"
@@ -21,6 +22,6 @@ Voilà d'ailleurs un autre aspect qui m'a dérangé dans Interstellar : j'ai eu 
 1. la survie sur une planète en ruine (mais où il y a toujours du pétrole pour les pick-ups des fermiers et de l'eau pour leur maïs)
 2. le voyage spatial, avec hibernation, trou de ver bien placé et [paradoxe des jumeaux](https://fr.wikipedia.org/wiki/paradoxe_des_jumeaux)
 3. la survie de l'espèce vs survie de l'individu. Je crois que c'est le thème que j'ai préféré, en définitive.
-4. le voyage temporel. En tant que [fan du genre](http://drgoulu.local/2010/10/23/retours-vers-les-futurs/), j'ai apprécié à sa juste valeur (univers bloc avec [paradoxe du grand-père](https://fr.wikipedia.org/wiki/paradoxe_du_grand-père) [paradoxe de l'écrivain](https://fr.wikipedia.org/wiki/paradoxe_de_l'écrivain) )
+4. le voyage temporel. En tant que [fan du genre](/2010/10/23/retours-vers-les-futurs/), j'ai apprécié à sa juste valeur (univers bloc avec [paradoxe du grand-père](https://fr.wikipedia.org/wiki/paradoxe_du_grand-père) [paradoxe de l'écrivain](https://fr.wikipedia.org/wiki/paradoxe_de_l'écrivain) )
 
 En fin de compte, il y a juste trop de sujets dans ce film, trop de sujets traités trop superficiellement, ce qui dé-sert le message optimiste que j'ai cru déceler dans "Interstellar" : "vers l'infini et au-delà !"

@@ -1,5 +1,6 @@
 ---
 title: "Le Théorème de Noether a un siècle"
+slug: "le-theoreme-de-noether-a-un-siecle"
 date: 2018-06-23
 categories: 
   - "cat1"
@@ -38,7 +39,7 @@ Ce paragraphe, mais aussi le jargon courant des physiciens, mélange allègremen
 
 ## La symétrie en physique
 
-En mathématiques, la [symétrie](https://fr.wikipedia.org/wiki/symétrie) est une notion [plus générale que la réflexion dans un miroir](http://drgoulu.local/2009/04/04/miroir/): elle inclut toutes les transformations qui préservent la "structure" d'un objet. En géométrie, les translations et rotations sont aussi des symétries, et comme l'avait pressenti [Pierre Curie](https://fr.wikipedia.org/wiki/Pierre_Curie) en 1894, cette notion peut être étendue à la physique :
+En mathématiques, la [symétrie](https://fr.wikipedia.org/wiki/symétrie) est une notion [plus générale que la réflexion dans un miroir](/2009/04/04/miroir/): elle inclut toutes les transformations qui préservent la "structure" d'un objet. En géométrie, les translations et rotations sont aussi des symétries, et comme l'avait pressenti [Pierre Curie](https://fr.wikipedia.org/wiki/Pierre_Curie) en 1894, cette notion peut être étendue à la physique :
 
 > Je pense qu’il y aurait intérêt à introduire dans l’étude des phénomènes physiques les considérations sur la symétrie familières aux cristallographes. \[…\] Les physiciens utilisent souvent les conditions données par la symétrie, mais négligent généralement de définir la symétrie dans un phénomène. \[…\] Deux milieux de même dissymétrie ont entre eux un lien particulier, dont on peut tirer des conséquences physiques.  [[2]](#ref-2)
 
@@ -48,7 +49,7 @@ Ainsi par exemple la "symétrie par translation dans le temps" est la façon sci
 
 ## Emmy et son théorème
 
-Née en 1882, [Amalie "Emmy" Noether](https://fr.wikipedia.org/wiki/Emmy_Noether) est la fille du mathématicien [Max Noether](https://fr.wikipedia.org/wiki/Max_Noether), très connu alors. Très douée, elle renonce à devenir enseignante de français ou d'anglais pour étudier les maths. Après une thèse en 1907, elle travaille bénévolement à l'Université d'Erlangen car les femmes ne peuvent y obtenir un poste. Repérée par LE [David Hilbert](https://fr.wikipedia.org/wiki/David_Hilbert) (né à [Königsberg](http://drgoulu.local/2013/11/22/le-postier-chinois-de-konigsberg/)...), elle le rejoint à l'Université de Göttingen (où là non plus, elle n'est pas acceptée comme professeur(e)...) en 1915.
+Née en 1882, [Amalie "Emmy" Noether](https://fr.wikipedia.org/wiki/Emmy_Noether) est la fille du mathématicien [Max Noether](https://fr.wikipedia.org/wiki/Max_Noether), très connu alors. Très douée, elle renonce à devenir enseignante de français ou d'anglais pour étudier les maths. Après une thèse en 1907, elle travaille bénévolement à l'Université d'Erlangen car les femmes ne peuvent y obtenir un poste. Repérée par LE [David Hilbert](https://fr.wikipedia.org/wiki/David_Hilbert) (né à [Königsberg](/2013/11/22/le-postier-chinois-de-konigsberg/)...), elle le rejoint à l'Université de Göttingen (où là non plus, elle n'est pas acceptée comme professeur(e)...) en 1915.
 
 En fait Hilbert l'a invitée pour profiter de son expertise en [théorie des invariants](https://fr.wikipedia.org/wiki/invariant) pour l'aider à éclaircir certains aspects mathématiques de la [relativité générale](https://fr.wikipedia.org/wiki/relativité_générale) d'Einstein, publiée également en 1915. Hilbert avait remarqué la relativité semblait violer le principe de la conservation de l'énergie, l'énergie gravitationnelle pouvant elle-même créer une force d'attraction\*. Noether fournit une explication de ce paradoxe, et développa à cette occasion son fameux [premier théorème](https://fr.wikipedia.org/wiki/théorème_de_Noether_(physique)) qu'elle [démontra](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_Noether_\(physique\)#D%C3%A9monstrations) en 1915, mais ne publia qu'en 1918 [[3]](#ref-3).
 
@@ -88,7 +89,7 @@ C'est que le théorème de Noether est devenu un outil fondamental de la physiqu
 
 Pour "la vie de tous les jours" la leçon à retenir est qu'Emmy Noether a démontré que [L’énergie n’est pas une chose](https://fr.quora.com/blog/drgoulu/L%E2%80%99%C3%A9nergie-n%E2%80%99est-pas-une-chose) ! "L'énergie pure", ça n'existe pas. L'[énergie](https://fr.wikipedia.org/wiki/énergie) est juste un nombre qui reste constant lors de toutes les transformations possibles d’un système, et ce nombre existe parce que les lois de la physique ne varient pas dans le temps (= “invariance par translation dans le temps”).
 
-Voilà donc une 4ème et excellente raison de [dire "Non au mouvement perpétuel"](http://drgoulu.local/2012/05/27/dites-non-au-mouvement-perpetuel/) et à tous les doux rêveurs de systèmes "surunitaires" qui produiraient (conditionnel) plus d'énergie qu'ils en consomment (présent):
+Voilà donc une 4ème et excellente raison de [dire "Non au mouvement perpétuel"](/2012/05/27/dites-non-au-mouvement-perpetuel/) et à tous les doux rêveurs de systèmes "surunitaires" qui produiraient (conditionnel) plus d'énergie qu'ils en consomment (présent):
 
 **Si ! Le [premier principe de la thermodynamique](https://fr.wikipedia.org/wiki/premier_principe_de_la_thermodynamique) est démontré depuis un siècle, et par une dame en plus !**
 

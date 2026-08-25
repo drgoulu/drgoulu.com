@@ -1,5 +1,6 @@
 ---
 title: "“Who hit who first doesn’t matter anymore.”"
+slug: "who-hit-who-first-doesnt-matter-anymore"
 date: 2007-02-18
 categories: 
   - "non-classe"

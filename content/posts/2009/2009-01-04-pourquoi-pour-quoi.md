@@ -1,5 +1,6 @@
 ---
 title: "Pourquoi / Pour Quoi ?"
+slug: "pourquoi-pour-quoi"
 date: 2009-01-04
 categories: 
   - "cat1"

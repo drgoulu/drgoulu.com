@@ -1,5 +1,6 @@
 ---
 title: "le Triangle Mystérieux"
+slug: "le-triangle-mysterieux"
 date: 2005-01-14
 categories: 
   - "non-classe"

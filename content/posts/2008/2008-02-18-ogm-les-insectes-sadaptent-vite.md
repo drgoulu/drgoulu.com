@@ -1,5 +1,6 @@
 ---
 title: "OGM : les insectes s'adaptent vite"
+slug: "ogm-les-insectes-sadaptent-vite"
 date: 2008-02-18
 categories: 
   - "cat3"

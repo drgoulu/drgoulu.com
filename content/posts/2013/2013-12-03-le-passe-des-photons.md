@@ -1,5 +1,6 @@
 ---
 title: "Ou étiez-vous, photons ?"
+slug: "le-passe-des-photons"
 date: 2013-12-03
 categories: 
   - "cat1"
@@ -10,6 +11,9 @@ tags:
   - "temps"
   - "traduction"
 coverImage: "8be2d853ade837692c2175d0d2580be8.jpg"
+
+aliases:
+  - "/2013/12/04/le-passe-des-photons/"
 ---
 
 _Je vous propose ci-dessous ma traduction d'un article récent [[1]](#ref-1) que j'ai trouvé fort bien fait sur un sujet difficile d'accès : la mécanique quantique. L'expérience décrite est géniale, et son interprétation par une symétrie du temps me titille particulièrement les neurones..._

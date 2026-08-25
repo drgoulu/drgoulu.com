@@ -1,5 +1,6 @@
 ---
 title: "Belle illusion d’optique"
+slug: "belle-illusion-doptique"
 date: 2007-03-07
 categories: 
   - "cat2"

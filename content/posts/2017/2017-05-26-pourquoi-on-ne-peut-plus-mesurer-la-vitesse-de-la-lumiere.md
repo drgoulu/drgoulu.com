@@ -1,5 +1,6 @@
 ---
 title: "Pourquoi on ne peut plus mesurer la vitesse de la lumière"
+slug: "pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere"
 date: 2017-05-26
 categories: 
   - "cat1"
@@ -13,7 +14,7 @@ coverImage: "RTEmagicC_37564_2011_08_07_Festival_ferme_etoiles_0092_txdam28638_9
 
 ![](images/RTEmagicC_37564_2011_08_07_Festival_ferme_etoiles_0092_txdam28638_9dd4e4.jpg)
 
-Sur Quora, il y a souvent des questions stupides. Par exemple, quelqu'un a récemment demandé "[Pourquoi on ne peut techniquement pas mesurer la vitesse de la lumière ?](https://www.quora.com/Why-cant-we-technically-measure-the-speed-of-light)". Au moment où j'hésitais entre "downvoter" la question ou répondre "pfff, ben bien sur qu'on peut!" en étalant ma science sur [Ole Rømer](https://fr.wikipedia.org/wiki/Ole_Christensen_Rømer)  (découvert grâce au livre "[Longitude](http://drgoulu.local/2009/10/04/longitude/)") puisque tout le monde connait déjà l'[expérience de Fizeau](https://fr.wikipedia.org/wiki/expérience_de_Fizeau), je suis tombé sur [cette réponse](https://www.quora.com/Why-cant-we-technically-measure-the-speed-of-light/answer/Gary-Novosielski?srid=pzDv) qui me colle une baffe : depuis 1983, on ne peut effectivement plus mesurer la vitesse de la lumière !
+Sur Quora, il y a souvent des questions stupides. Par exemple, quelqu'un a récemment demandé "[Pourquoi on ne peut techniquement pas mesurer la vitesse de la lumière ?](https://www.quora.com/Why-cant-we-technically-measure-the-speed-of-light)". Au moment où j'hésitais entre "downvoter" la question ou répondre "pfff, ben bien sur qu'on peut!" en étalant ma science sur [Ole Rømer](https://fr.wikipedia.org/wiki/Ole_Christensen_Rømer)  (découvert grâce au livre "[Longitude](/2009/10/04/longitude/)") puisque tout le monde connait déjà l'[expérience de Fizeau](https://fr.wikipedia.org/wiki/expérience_de_Fizeau), je suis tombé sur [cette réponse](https://www.quora.com/Why-cant-we-technically-measure-the-speed-of-light/answer/Gary-Novosielski?srid=pzDv) qui me colle une baffe : depuis 1983, on ne peut effectivement plus mesurer la vitesse de la lumière !
 
 Car en 1983, la [Conférence générale des poids et mesures](https://fr.wikipedia.org/wiki/Conférence_générale_des_poids_et_mesures) a défini le [mètre](https://fr.wikipedia.org/wiki/mètre) comme étant 1/299'792'458 ème de la distance parcourue par la lumière dans le vide en une seconde. Depuis, la vitesse de la lumière dans le vide est forcément et très exactement égale à 299'792'458 m/s, sans aucune marge d'erreur. Si une expérience donnait un résultat différent, ce serait obligatoirement à cause d'une erreur expérimentale sur la mesure de la distance et/ou du temps. La vitesse de la lumière est devenue une constante, une définition.
 

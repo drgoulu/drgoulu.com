@@ -1,5 +1,6 @@
 ---
 title: "Recrutement et Casse-Tête"
+slug: "recrutement-et-casse-tete"
 date: 2008-05-17
 categories: 
   - "cat2"
@@ -10,6 +11,9 @@ tags:
   - "maths"
   - "programmation"
 coverImage: "2b007b382f92fe7ce4fc7096c1a36864.jpg"
+
+aliases:
+  - "/2008/05/18/recrutement-et-casse-tete/"
 ---
 
 Si vous souhaitez travailler chez Google ou facebook, voici un petit tuyau : cultivez l'art de résoudre des casse-tête, et montrez vos talents sur internet.

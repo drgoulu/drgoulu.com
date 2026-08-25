@@ -1,5 +1,6 @@
 ---
 title: "Génération de polices bitmap de haute qualité"
+slug: "imagemagick"
 date: 2008-05-10
 categories: 
   - "cat2"

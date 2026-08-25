@@ -1,5 +1,6 @@
 ---
 title: "PNB des Etats désUnis"
+slug: "pnb-des-etats-desunis"
 date: 2007-06-17
 categories: 
   - "cat3"

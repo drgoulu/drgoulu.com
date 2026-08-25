@@ -1,5 +1,6 @@
 ---
 title: "Nebula Carina"
+slug: "nebula-carina"
 date: 2007-04-25
 categories: 
   - "non-classe"

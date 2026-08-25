@@ -1,5 +1,6 @@
 ---
 title: "Programmer pour le fun"
+slug: "project_euler"
 date: 2009-02-23
 categories: 
   - "cat2"
@@ -8,6 +9,9 @@ tags:
   - "maths"
   - "programmation"
 coverImage: "a9192f1b2a56a4bbaee679259c557e57.jpg"
+
+aliases:
+  - "/2009/02/24/project_euler/"
 ---
 
 ![](images/a9192f1b2a56a4bbaee679259c557e57.jpg)Amis des casse-tête mathématiques ardus et de la programmation d'algorithmes optimisés, bonjour!
@@ -34,12 +38,12 @@ Il faut dire que les premiers problèmes sont relativement simples, par exemple 
 - quel est le premier [nombre triangulaire](http://fr.wikipedia.org/wiki/Nombre_triangulaire) ayant plus de 500 diviseurs ?
 - quels sont les 10 premiers chiffres de la somme de 100 nombre de 50 chiffres donnés?
 - trouver le nombre inférieur à 1'000'000 générant la plus longue [suite de Syracuse](http://fr.wikipedia.org/wiki/Conjecture_de_Syracuse)
-- en partant d'un coin d'une grille de 20x20, combien y'a-t-il de chemins au coin opposé ? ([j'ai déjà vu ça quelque part](http://drgoulu.local/2008/05/18/recrutement-et-casse-tete/)...)
+- en partant d'un coin d'une grille de 20x20, combien y'a-t-il de chemins au coin opposé ? ([j'ai déjà vu ça quelque part](/2008/05/17/recrutement-et-casse-tete/)...)
 - quelle est la somme des chiffres de  21000?
 - quel est le premier terme supérieur à 101000 de la suite de Fibonacci ? (et si je vous disais qu'on peut le trouver sans calculer les termes précédents ?)
 - trouver la somme des chiffres de 100! (factorielle...)
 
-Certains de ces problèmes exigent de pouvoir manipuler de grands nombres, ce qui est une force du langage [Python](http://drgoulu.local/2008/10/17/pythonxy/), que j'aime de plus en plus. On peut par exemple obtenir la somme des chiffres de la factorielle de 100 en une seule ligne\* combinant la [programmation fonctionnelle](http://fr.wikipedia.org/wiki/Python_\(langage\)#Programmation_fonctionnelle) et la fonction [reduce (un des piliers de la puissance de Google):](http://drgoulu.local/2008/11/22/tri/)
+Certains de ces problèmes exigent de pouvoir manipuler de grands nombres, ce qui est une force du langage [Python](/2008/10/17/pythonxy/), que j'aime de plus en plus. On peut par exemple obtenir la somme des chiffres de la factorielle de 100 en une seule ligne\* combinant la [programmation fonctionnelle](http://fr.wikipedia.org/wiki/Python_\(langage\)#Programmation_fonctionnelle) et la fonction [reduce (un des piliers de la puissance de Google):](/2008/11/22/tri/)
 
 ```
 reduce(lambda x, y: x + y, [int(i) for i in str(reduce(lambda x, y: x * y, range(1, 100)))])
@@ -49,9 +53,9 @@ Bon, jusqu'ici j'ai fait le facile : même avec une approche un peu brutale, on 
 
 Je vois encore quelques problèmes liés à des sujets déjà abordés sur Dr.Goulu comme:
 
-- trouver le polynôme _n_² + _an_ + _b_, où|_a_| < 1000 et|_b_| < 1000 qui produit le plus de [nombres premiers consécutifs](http://drgoulu.local/2007/01/20/les-nombres-premiers/)
-- quel nombre premier inférieur à 1'000'000 est la [somme du plus de nombres premiers consécutifs](http://drgoulu.local/2008/06/03/sommes-egales-de-nombres-premiers-consecutifs/) ?
-- combien existe-t-il de [nombres de Lychrel](http://drgoulu.local/2008/09/14/palindrome-de-196/) inférieurs à 10'000 ?
+- trouver le polynôme _n_² + _an_ + _b_, où|_a_| < 1000 et|_b_| < 1000 qui produit le plus de [nombres premiers consécutifs](/2007/01/20/les-nombres-premiers/)
+- quel nombre premier inférieur à 1'000'000 est la [somme du plus de nombres premiers consécutifs](/2008/06/03/sommes-egales-de-nombres-premiers-consecutifs/) ?
+- combien existe-t-il de [nombres de Lychrel](/2008/09/14/palindrome-de-196/) inférieurs à 10'000 ?
 
 Il y a encore environ entre 20 et 50 problèmes que j'espère pouvoir résoudre à raison d'un  par soirée.
 

@@ -1,5 +1,6 @@
 ---
 title: "Cavitation"
+slug: "cavitation"
 date: 2007-03-11
 categories: 
   - "non-classe"

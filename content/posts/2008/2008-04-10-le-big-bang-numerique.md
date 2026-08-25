@@ -1,5 +1,6 @@
 ---
 title: "le Big Bang Numérique"
+slug: "le-big-bang-numerique"
 date: 2008-04-10
 categories: 
   - "cat3"
@@ -22,7 +23,7 @@ Les principales conclusion du rapport sont :
 Quelques réflexions:
 
 - Si la quantité d'information totale (2.25 x 10²¹ bits) parait colossale, il est intéressant de la mettre en perspective avec un nombre qui peut être relié à la miniaturisation : le nombre d'Avogadro. Si on était capables de stocker un bit par atome (c'est possible, ça a été fait avec quelques atomes), toute la mémoire de toute la planète pourrait être stockée dans un centième de mole de matière, par exemple un diamant de 0.13 gramme (moins d'un carat ), ou sur une surface monoatomique de 20 m2 environ.
-- Le rapport parle souvent de "création d'information", alors qu'il s'agit principalement d'information captée pour être préservée de la [destruction](http://drgoulu.local/2007/02/25/linformatique-detruit-linformation/). L'information réellement produite (par l'intelligence humaine uniquement selon moi) est beaucoup plus faible. Peut-être quelques gigas par an ...
+- Le rapport parle souvent de "création d'information", alors qu'il s'agit principalement d'information captée pour être préservée de la [destruction](/2007/02/25/linformatique-detruit-linformation/). L'information réellement produite (par l'intelligence humaine uniquement selon moi) est beaucoup plus faible. Peut-être quelques gigas par an ...
 - De plus, les quantités d'informations mentionnées incluent les copies. Par exemple, un DVD de 4Gb tiré à 10'000 exemplaires compte comme 40 Terabytes d'information.
     
     ![](images/3d320226adc97cda5ce195fcd5bfa89e.jpg)

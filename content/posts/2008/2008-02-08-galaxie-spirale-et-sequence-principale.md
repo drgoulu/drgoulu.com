@@ -1,5 +1,6 @@
 ---
 title: "Galaxie Spirale et Séquence Principale"
+slug: "galaxie-spirale-et-sequence-principale"
 date: 2008-02-08
 categories: 
   - "cat2"
@@ -12,7 +13,7 @@ tags:
 coverImage: "a470c29cf6c88b820cc608831b61f545.gif"
 ---
 
-Suite à [Galaxies, Fenêtres sur l’Univers](http://drgoulu.local/2007/07/23/galaxies/ "Galaxies, Fenêtres sur l’Univers"), je m'étais lancé dans la réalisation d'une [Simulation de Galaxie Spirale](http://3dmon.wordpress.com/2007/08/26/simulation-de-galaxie-spirale/) en temps réel basée sur [Demoniak3D](http://www.ozone3d.net/demoniak3d/).
+Suite à [Galaxies, Fenêtres sur l’Univers](/2007/07/23/galaxies/ "Galaxies, Fenêtres sur l’Univers"), je m'étais lancé dans la réalisation d'une [Simulation de Galaxie Spirale](http://3dmon.wordpress.com/2007/08/26/simulation-de-galaxie-spirale/) en temps réel basée sur [Demoniak3D](http://www.ozone3d.net/demoniak3d/).
 
 [![galaxie.jpg](images/cc55c0123f3e0926996a2a8c43f825cb.jpg)](http://drgoulu.files.wordpress.com/2008/02/galaxie.jpg "galaxie.jpg")L'idée était principalement d'illustrer le fait que les bras spiraux des galaxies ne tournent pas : se sont des "ondes de pression" dans lesquels la densité d'étoiles est plus élevée qu'ailleurs en raison du fait que les étoiles suivent "en moyenne" des orbites elliptiques décalées, comme illustré sur le graphique ci-contre, où les spirales apparaissent clairement.
 
@@ -24,7 +25,7 @@ A noter qu'à ma connaissance c'est la seule simulation de Galaxie en temps rée
 
 ### Vie et mort des étoiles
 
-Dans cette nouvelle version , j'ai commencé à implanter un autre phénomène fascinant : le cycle de vie des étoiles. Comme expliqué dans [Galaxies, Fenêtres sur l’Univers](http://drgoulu.local/2007/07/23/galaxies/ "Galaxies, Fenêtres sur l’Univers"), les étoiles naissent au rythme d'une par jour (!) dans la Voie Lactée, principalement dans les bras spiraux. Puis elles vieillissent et meurent (une par jour aussi !) après n'avoir effectué que quelques tours de la Galaxie. Pour visualiser ceci "à l'échelle" dans ma simulation, j'ai fait le calcul suivant :
+Dans cette nouvelle version , j'ai commencé à implanter un autre phénomène fascinant : le cycle de vie des étoiles. Comme expliqué dans [Galaxies, Fenêtres sur l’Univers](/2007/07/23/galaxies/ "Galaxies, Fenêtres sur l’Univers"), les étoiles naissent au rythme d'une par jour (!) dans la Voie Lactée, principalement dans les bras spiraux. Puis elles vieillissent et meurent (une par jour aussi !) après n'avoir effectué que quelques tours de la Galaxie. Pour visualiser ceci "à l'échelle" dans ma simulation, j'ai fait le calcul suivant :
 
 - ma galaxie contient environ 10^6 x moins d'étoiles qu'une galaxie spirale réelle (je veux un processeur 10'000'000 de fois plus puissant !)
 - mais elle tourne environ 10^13 x plus vite
@@ -36,7 +37,7 @@ La vie des étoiles se déroule de gauche à droite dans le diagramme ci-dessous
 
 ![rtemagicc\_hrgenericsml.jpg](images/117e7e4fff1b044c8c45263bfcd691eb.jpg)
 
-Les étoiles supergéantes ([vraiment très grosses](http://drgoulu.local/2008/02/01/on-est-peu-de-chose/)) naissent bleues. Après une vie brève passée à briller 10'000x plus que le Soleil, elles deviennent rouges et meurent brutalement en [supernovae](http://drgoulu.local/2007/03/08/perles-cosmiques/), brillant comme des millions de soleils pendant quelques heures et laissant une étoile à neutrons, un [magnetar](http://drgoulu.local/2007/09/28/magnetar/) voire un [trou noir](http://drgoulu.local/2007/06/26/le-trou-noir-central-de-la-voie-lactee-revele/) au centre d'une [nébuleuse de matériaux expulsés dans l'espace](http://drgoulu.local/2007/09/28/magnetar/)
+Les étoiles supergéantes ([vraiment très grosses](/2008/02/01/on-est-peu-de-chose/)) naissent bleues. Après une vie brève passée à briller 10'000x plus que le Soleil, elles deviennent rouges et meurent brutalement en [supernovae](/2007/03/08/perles-cosmiques/), brillant comme des millions de soleils pendant quelques heures et laissant une étoile à neutrons, un [magnetar](/2007/09/28/magnetar/) voire un [trou noir](/2007/06/26/le-trou-noir-central-de-la-voie-lactee-revele/) au centre d'une [nébuleuse de matériaux expulsés dans l'espace](/2007/09/28/magnetar/)
 
 Les étoiles naines restent toute leur longue vie bleues/blanches et jaunissent en s'éteignant lentement. 10'000x moins lumineuses que le Soleil, elles deviennent des naines brunes pratiquement invisibles.
 

@@ -1,5 +1,6 @@
 ---
 title: "La FAQ du LHC"
+slug: "la-faq-du-lhc"
 date: 2008-09-12
 categories: 
   - "cat2"
@@ -53,7 +54,7 @@ Puis, les 2808 paquets de protons sont injectés un à un dans chaque sens du LH
 
 L' [électron-volt](https://fr.wikipedia.org/wiki/électron-volt) (eV) est une unité à tout faire. A la base, c'est la minuscule énergie d'un électron accéléré par une tension de 1 Volt. Mais selon la célèbre équation d'Albert E=mc2 lue à l'envers, m=E/c2, la masse d'une particule peut aussi être mesurée en électron-volt (divisés par la vitesse de la lumière au carré, mais on laisse souvent tomber ce détail). Ainsi, un proton au repos à une masse de .938 GeV (Giga-électron-volt) et dans le LHC on l'accélère à 7 TeV (Tera-électron-volt) soit 7000 GeV.
 
-Comme Albert s'obstine à dire que l'énergie et la masse c'est la même chose à un facteur près, ça signifie qu'à la vitesse correspondant à cette énergie (99.999999% de la vitesse de la lumière, "huit neufs" comme j'appelle ça dans "[accélération](http://drgoulu.local/2004/08/09/acceleration/)"), tout se passe comme si le proton pesait plus de 7000x son poids au repos. Le choc n'en sera que plus violent.
+Comme Albert s'obstine à dire que l'énergie et la masse c'est la même chose à un facteur près, ça signifie qu'à la vitesse correspondant à cette énergie (99.999999% de la vitesse de la lumière, "huit neufs" comme j'appelle ça dans "[accélération](/2004/08/09/acceleration/)"), tout se passe comme si le proton pesait plus de 7000x son poids au repos. Le choc n'en sera que plus violent.
 
 ### Violent comme une collision de moustiques ... ou de trains ?
 

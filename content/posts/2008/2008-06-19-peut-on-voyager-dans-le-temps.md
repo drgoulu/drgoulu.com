@@ -1,5 +1,6 @@
 ---
 title: "Peut-on voyager dans le temps ?"
+slug: "peut-on-voyager-dans-le-temps"
 date: 2008-06-19
 categories: 
   - "cat1"
@@ -14,7 +15,7 @@ tags:
 coverImage: "c0a7e020479d443f49abcdc5253d7ae9.png"
 ---
 
-[![lefacteurtemps](images/lefacteurtemps-300x215.jpg)](http://drgoulu.local/wp-content/uploads/2008/06/lefacteurtemps.jpg)
+[![lefacteurtemps](images/lefacteurtemps-300x215.jpg)](/wp-content/uploads/2008/06/lefacteurtemps.jpg)
 
 C'était la question abordée dans une [conférence donnée au CERN](http://cdsweb.cern.ch/record/1115411) récemment par [Étienne Klein](https://fr.wikipedia.org/wiki/Étienne_Klein), et à laquelle il a répondu NON, trop vite à mon goût. Il faut dire qu'Etienne Klein est physicien et philosophe, et que sa conférence mêlait un peu les deux aspects de la question. De plus, le titre de son livre "Le facteur temps ne sonne jamais deux fois" [[4]](#ref-4) ne laissait que peu de doute sur son opinion sur le sujet. (Je me suis permis d'illustrer cet article avec l'image de la couverture, que je trouve excellente)
 
@@ -24,7 +25,7 @@ Klein a commencé par introduire deux conceptions philosophiques opposées du te
 
 1. le "présentisme", qui correspond à l'intuition selon laquelle seul l'instant présent "existe" alors que le passé n'existe plus et le futur pas encore.
 
-3. l' "éternalisme", ou théorie de l' "Univers-bloc", qui considère que tout ce qui existe est déterminé dans un espace comportant [le temps comme une 4ème dimension](http://drgoulu.local/2007/02/07/le-temps-une-4eme-dimension-imaginaire/) donc que le passé et le futur existent au même titre que le présent, qui n'est que la "tranche" (cônique) d'Univers que nous percevons [[1]](#ref-1), [[2]](#ref-2), [[3]](#ref-3), [[6]](#ref-6).
+3. l' "éternalisme", ou théorie de l' "Univers-bloc", qui considère que tout ce qui existe est déterminé dans un espace comportant [le temps comme une 4ème dimension](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/) donc que le passé et le futur existent au même titre que le présent, qui n'est que la "tranche" (cônique) d'Univers que nous percevons [[1]](#ref-1), [[2]](#ref-2), [[3]](#ref-3), [[6]](#ref-6).
 
 J'ai rapidement compris que j'étais éternaliste, et suspecté que Klein était présentiste [[1]](#ref-1), [[4]](#ref-4) dès qu'il a mis en garde ceux qui voudraient "se téléporter vers le futur, car peut-être qu'il n'existe pas encore".
 
@@ -36,7 +37,7 @@ Or il existe au moins 4 moyens physiquement envisageables pour voyager de maniè
 
 3. L'attente "accélérée" en orbite autour d'une grande masse. Le temps propre (donc le "vieillissement") d'un voyageur tournant autour d'un astre très massif est ralenti très légèrement, voir beaucoup à proximité d'un trou noir par exemple. C'est prouvé par les satellites GPS entre autres [[7]](#ref-7).
 
-5. A défaut de trou noir à proximité, le [voyage à vitesse relativiste](http://drgoulu.local/2004/08/09/acceleration/) produit le même effet. Il est d'une difficulté technique certaine, mais on sait déjà que ça marcherait : les horloges atomiques des GPS le prouvent aussi [[7]](#ref-7).
+5. A défaut de trou noir à proximité, le [voyage à vitesse relativiste](/2004/08/09/acceleration/) produit le même effet. Il est d'une difficulté technique certaine, mais on sait déjà que ça marcherait : les horloges atomiques des GPS le prouvent aussi [[7]](#ref-7).
 
 7. L'hibernation. Bon, on ne sait pas (encore) le faire sur des humains, mais des êtres vivants plus simples peuvent sauter un hiver, une saison sèche ou même de nombreuses années pratiquement sans vieillir.
 

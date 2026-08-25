@@ -1,5 +1,6 @@
 ---
 title: "Tourisme Spatial et Risques"
+slug: "tourisme-spatial-et-risques"
 date: 2007-03-08
 categories: 
   - "cat3"

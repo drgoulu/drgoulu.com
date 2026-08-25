@@ -1,5 +1,6 @@
 ---
 title: "Il faut s'abstenir de faire le moindre léchage de crapaud !"
+slug: "il-faut-sabstenir-de-faire-le-moindre-lechage-de-crapaud"
 date: 2007-09-28
 categories: 
   - "cat2"
@@ -15,4 +16,4 @@ Hier, le professeur [Kurt Hostettmann](http://www.unige.ch/sciences/pharm/fasie/
 
 S'il faut encore vous persuader que cette planète est vraiment pleine de surprise et ses habitants prêts à tout, [écoutez cette émission incroyable (MP3)](http://podcast.rsr.ch/media/la1ere/impatience/20070927-les-hallucinogenes-naturels.mp3)
 
-\[audio mp3="http://drgoulu.local/wp-content/uploads/2007/09/20070927-les-hallucinogenes-naturels.mp3"\]\[/audio\]
+\[audio mp3="/wp-content/uploads/2007/09/20070927-les-hallucinogenes-naturels.mp3"\]\[/audio\]

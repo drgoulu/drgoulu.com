@@ -1,5 +1,6 @@
 ---
 title: "Plongée profonde"
+slug: "plongee-profonde"
 date: 2008-01-27
 categories: 
   - "cat2"

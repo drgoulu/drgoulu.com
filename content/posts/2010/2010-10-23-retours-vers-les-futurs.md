@@ -1,5 +1,6 @@
 ---
 title: "Les voyages temporels au cinéma"
+slug: "retours-vers-les-futurs"
 date: 2010-10-23
 categories: 
   - "cat2"
@@ -15,15 +16,15 @@ Il y a [pile 25 ans](http://www.ouest-france.fr/actu/actuDet_--Retour-vers-le-fu
 
 {{< figure src="images/1e902c145a71c23577a085b67a7841c4.png" alt="Faut voir grand dans la vie, quitte à voyager à travers le temps au volant d'une voiture, autant en choisir une qui ait de la gueule!" caption="&quot;Faut voir grand dans la vie, quitte à voyager à travers le temps au volant d'une voiture, autant en choisir une qui ait de la gueule!&quot;" align="aligncenter" width="419" >}}
 
-C'est l'occasion de faire une petite revue de films montrant des machines à voyager dans le temps, dans le contexte des articles précédents sur la [possibilité du voyage dans le temps](http://drgoulu.local/2008/06/19/peut-on-voyager-dans-le-temps/) et les [natures du temps en physique](http://drgoulu.local/2009/03/28/les-natures-du-temps/).
+C'est l'occasion de faire une petite revue de films montrant des machines à voyager dans le temps, dans le contexte des articles précédents sur la [possibilité du voyage dans le temps](/2008/06/19/peut-on-voyager-dans-le-temps/) et les [natures du temps en physique](/2009/03/28/les-natures-du-temps/).
 
-Dans les "[Retour vers le futur](https://fr.wikipedia.org/wiki/Retour_vers_le_futur)" et ses suites, le "convecteur temporel" consomme une puissance de 1.21 GigOwatt (sic...), soit une fraction de la [puissance d'un éclair](http://drgoulu.local/2007/09/09/lenergie-de-la-foudre/) pour faire sauter instantanément la DeLorean et ses passagers à une date pré sélectionnée.
+Dans les "[Retour vers le futur](https://fr.wikipedia.org/wiki/Retour_vers_le_futur)" et ses suites, le "convecteur temporel" consomme une puissance de 1.21 GigOwatt (sic...), soit une fraction de la [puissance d'un éclair](/2007/09/09/lenergie-de-la-foudre/) pour faire sauter instantanément la DeLorean et ses passagers à une date pré sélectionnée.
 
-A noter que tous les voyages dans le temps au cinéma se font par "sauts", à une exception notable :  la fameuse [Machine à explorer le temps](https://fr.wikipedia.org/wiki/La_Machine_à_explorer_le_temps_(film,_1960)) de 1960 et son [remake de 2002](https://fr.wikipedia.org/wiki/La_Machine_à_explorer_le_temps_(film,_2002)), tirés du [roman de H.G. Wells](https://fr.wikipedia.org/wiki/La_Machine_à_explorer_le_temps) de 1895. Lorsque la machine se déplace dans la [4ème dimension](http://drgoulu.local/2007/02/07/le-temps-une-4eme-dimension-imaginaire/) son occupant voit le temps défiler en accéléré où à rebours à l'extérieur de son  engin, et la stoppe à la date choisie. Voyez ou revoyez cette magnifique séquence:
+A noter que tous les voyages dans le temps au cinéma se font par "sauts", à une exception notable :  la fameuse [Machine à explorer le temps](https://fr.wikipedia.org/wiki/La_Machine_à_explorer_le_temps_(film,_1960)) de 1960 et son [remake de 2002](https://fr.wikipedia.org/wiki/La_Machine_à_explorer_le_temps_(film,_2002)), tirés du [roman de H.G. Wells](https://fr.wikipedia.org/wiki/La_Machine_à_explorer_le_temps) de 1895. Lorsque la machine se déplace dans la [4ème dimension](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/) son occupant voit le temps défiler en accéléré où à rebours à l'extérieur de son  engin, et la stoppe à la date choisie. Voyez ou revoyez cette magnifique séquence:
 
 {{< youtube id="UBuLoRzhWeI" width="640" >}}
 
-Le [vaisseau spatial relativiste](http://drgoulu.local/2004/08/09/acceleration/) de [La Planète des Singes, version 1968](https://La Planète des singes (film, 1968).wikipedia.org/wiki/) effectue aussi un voyage continu et sans retour vers l'avenir, ce qui ne pose aucun problème théorique et n'est donc pas un vrai voyage dans le temps.
+Le [vaisseau spatial relativiste](/2004/08/09/acceleration/) de [La Planète des Singes, version 1968](https://La Planète des singes (film, 1968).wikipedia.org/wiki/) effectue aussi un voyage continu et sans retour vers l'avenir, ce qui ne pose aucun problème théorique et n'est donc pas un vrai voyage dans le temps.
 
 Par contre, l'excellent "[Contact](https://_Contact_ (film, 1997).wikipedia.org/wiki/)" devrait à mon sens être considéré comme un voyage dans le temps, car la capsule occupée par Jodie Foster traverse un "trou de ver" où s'écoulent quelques heures, puis elle revient exactement à l'emplacement et au moment du départ de sorte que les observateurs ne s'aperçoivent de rien, au point de contester la réalité du voyage. De plus la machine est très belle :
 

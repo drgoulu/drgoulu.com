@@ -1,5 +1,6 @@
 ---
 title: "L&#8217;America&#8217;s Cup pour les riches"
+slug: "lamericas-cup-pour-les-riches"
 date: 2007-07-06
 categories: 
   - "non-classe"

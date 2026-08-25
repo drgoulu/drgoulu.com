@@ -1,5 +1,6 @@
 ---
 title: "&quot;Fumer rend idiot, c'est prouvé!&quot;. Au contraire ..."
+slug: "fumer-rend-idiot-cest-prouve-au-contraire"
 date: 2010-02-27
 categories: 
   - "cat1"

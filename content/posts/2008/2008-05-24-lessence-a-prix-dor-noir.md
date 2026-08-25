@@ -1,5 +1,6 @@
 ---
 title: "L&#039;essence à prix d&#039;or noir"
+slug: "lessence-a-prix-dor-noir"
 date: 2008-05-24
 categories: 
   - "cat3"
@@ -25,4 +26,4 @@ D'autres pays, comme le Canada par exemple, attendent avec impatience que les pr
 
 Le prix actuel du pétrole est un peu du à la spéculation, un peu à la hausse du dollar, beaucoup à la baisse de la production russe suite à une énorme taxe à l'exportation imposée par le Kremlin. Mais à long terme il n'y a que peu de doute : le prix du pétrole augmentera encore, puis se maintiendra pendant des décennies juste en dessous des énergies favorisées par les "verts" et ceci jusqu'à épuisement des ressources.
 
-[On brulera absolument tout](http://drgoulu.local/2007/05/25/on-brulera-vraiment-tout/).
+[On brulera absolument tout](/2007/05/25/on-brulera-vraiment-tout/).

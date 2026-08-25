@@ -1,5 +1,6 @@
 ---
 title: "Sites de dessins rigolos"
+slug: "sites-de-dessins-rigolos"
 date: 2007-02-08
 categories: 
   - "non-classe"

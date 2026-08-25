@@ -1,5 +1,6 @@
 ---
 title: "La Beall's List des publications prédatrices a disparu !"
+slug: "inquietante-disparition-de-la-bealls-list-des-revues-predatrices"
 date: 2017-01-24
 categories: 
   - "cat1"

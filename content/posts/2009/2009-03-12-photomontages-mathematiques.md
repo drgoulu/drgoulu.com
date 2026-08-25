@@ -1,5 +1,6 @@
 ---
 title: "Photomontages mathématiques"
+slug: "photomontages-mathematiques"
 date: 2009-03-12
 categories: 
   - "cat2"
@@ -18,7 +19,7 @@ Comment faire des photos telles que celles-ci ?
 
 C'est l'[effet Droste](https://fr.wikipedia.org/wiki/effet_Droste), du nom de la marque de cacao hollandais qui l'utilisa sur ses publicités dès 1904. Il est très probable que le petit [Maurits Cornelis Escher](https://fr.wikipedia.org/wiki/Maurits_Cornelis_Escher) né aux Pays-Bas en 1898 l'ait remarqué puisqu'[il utilisa abondamment cet effet](http://escherdroste.math.leidenuniv.nl/index.php) dans ses oeuvres.
 
-C'est pas facile à dessiner, alors à photographier ... mais je viens de découvrir qu'un même logiciel permet de produire cet effet, mais aussi les "[planetoïdes](http://drgoulu.local/2007/05/26/planetoids/)", et bien d'autres trucages encore : [MathMap.](http://www.complang.tuwien.ac.at/schani/mathmap/)
+C'est pas facile à dessiner, alors à photographier ... mais je viens de découvrir qu'un même logiciel permet de produire cet effet, mais aussi les "[planetoïdes](/2007/05/26/planetoids/)", et bien d'autres trucages encore : [MathMap.](http://www.complang.tuwien.ac.at/schani/mathmap/)
 
 C'est un plugin pour [Gimp](http://www.gimp.org/), le "PhotoShop gratuit". MathMap est développé par Mark Probst de l'Université de Vienne pour Linux et Mac OSX, mais il existe aussi [une version Windows ici.](http://photocomix-resources.deviantart.com/art/Gimp-MathMap-1-2-4-Windows-95950939) Si vous avez un Mac, il existe une [application autononome](http://www.13thfloor.at/old/MathMap/) qui ne nécessite pas Gimp.
 

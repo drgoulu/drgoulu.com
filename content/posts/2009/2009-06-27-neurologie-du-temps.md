@@ -1,5 +1,6 @@
 ---
 title: "Neurologie du Temps"
+slug: "neurologie-du-temps"
 date: 2009-06-27
 categories: 
   - "cat1"
@@ -10,7 +11,7 @@ tags:
 coverImage: "Buckner07-fig2.jpg"
 ---
 
-Dans son excellent blog "[Cosmic Variance](http://blogs.discovermagazine.com/cosmicvariance/)", Sean Carroll aborde souvent la passionnante question de la nature du temps et m'a inspiré plusieurs [billets sur ce thème](http://drgoulu.local/tag/temps/).  Son récent article "[Remembering the Past is Like Imagining the Future](http://blogs.discovermagazine.com/cosmicvariance/2009/04/14/remembering-the-past-is-like-imagining-the-future/ "Permanent Link: Remembering the Past is Like Imagining the Future")" est  un peu moins cosmologique que d'habitude, mais tout aussi excitant.
+Dans son excellent blog "[Cosmic Variance](http://blogs.discovermagazine.com/cosmicvariance/)", Sean Carroll aborde souvent la passionnante question de la nature du temps et m'a inspiré plusieurs [billets sur ce thème](/tags/temps/).  Son récent article "[Remembering the Past is Like Imagining the Future](http://blogs.discovermagazine.com/cosmicvariance/2009/04/14/remembering-the-past-is-like-imagining-the-future/ "Permanent Link: Remembering the Past is Like Imagining the Future")" est  un peu moins cosmologique que d'habitude, mais tout aussi excitant.
 
 Grâce à l'imagerie médicale, on sait aujourd'hui que les zones du cerveau activées lorsqu'on imagine une situation future sont les mêmes que celles utilisées lorsqu'on se rappelle une situation du passé.
 

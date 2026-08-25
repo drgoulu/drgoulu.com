@@ -1,5 +1,6 @@
 ---
 title: "Amin Maalouf Immortel"
+slug: "amin-maalouf-immortel"
 date: 2011-06-25
 categories: 
   - "cat1"
@@ -34,7 +35,7 @@ Note \* Avec la loi Toubon, je n'ai pas osé "fan". Je fais un effort pour la 
 
 ### Vivements conseillés:
 
-1. \[openbook booknumber="ISBN:9782253051206" templatenumber="5"\]
-2. \[openbook booknumber="ISBN:2-7096-0493-0" templatenumber="5"\]
-3. \[openbook booknumber="ISBN:9782709608572" templatenumber="5"\]
-4. \[openbook booknumber="ISBN:2-7096-0547-3" templatenumber="5"\]
+1. {{< openbook booknumber="ISBN:9782253051206" templatenumber="5" >}}
+2. {{< openbook booknumber="ISBN:2-7096-0493-0" templatenumber="5" >}}
+3. {{< openbook booknumber="ISBN:9782709608572" templatenumber="5" >}}
+4. {{< openbook booknumber="ISBN:2-7096-0547-3" templatenumber="5" >}}

@@ -1,5 +1,6 @@
 ---
 title: "2017 et les triplets pythagoriciens"
+slug: "2017-et-les-triplets-pythagoriciens"
 date: 2017-01-02
 categories: 
   - "cat3"
@@ -11,7 +12,7 @@ tags:
 coverImage: "artmaths0202.gif"
 ---
 
-Au moment d'envoyer un mot à Franck à propos de son livre [[1]](#ref-1), je me suis rappelé qu'il était à l'origine de [ce billet](http://drgoulu.local/2012/04/28/un-peu-de-pedagogie-grace-a-pythagore/) sur la pédagogie appliquée au théorème de Pythagore (et aussi de [celui-ci](http://drgoulu.local/2013/12/15/comment-expliquer-la-relativite-aux-enfants/) sur la Relativité).  J'ai ainsi découvert celle des [453 propriétés de 2017 répertoriées dans l'OEIS](https://oeis.org/search?q=seq%3a2017&fmt=short) sur laquelle baser mes vœux pour cette nouvelle année :
+Au moment d'envoyer un mot à Franck à propos de son livre [[1]](#ref-1), je me suis rappelé qu'il était à l'origine de [ce billet](/2012/04/28/un-peu-de-pedagogie-grace-a-pythagore/) sur la pédagogie appliquée au théorème de Pythagore (et aussi de [celui-ci](/2013/12/15/comment-expliquer-la-relativite-aux-enfants/) sur la Relativité).  J'ai ainsi découvert celle des [453 propriétés de 2017 répertoriées dans l'OEIS](https://oeis.org/search?q=seq%3a2017&fmt=short) sur laquelle baser mes vœux pour cette nouvelle année :
 
 ## Bonne et Heureuse Année \[latex\]\\sqrt{792^2+1855^2}\[/latex\] !
 
@@ -23,7 +24,7 @@ Car comme on le voit dans [cette liste](http://www.tsm-resources.com/alists/trip
 
 ### Comment générer les triplets pythagoriciens
 
-Il existe plusieurs algorithmes simples pour générer des triplets pythagoriciens. Ils sont tous mauvais. Ceux qui utilisent deux boucles imbriquées voire trois sont lents, ceux qui calculent la racine carrée en nombres flottants sont imprécis, et tous sont limités par une longueur maximale des côtés recherchés.  [Mon propre code](https://gist.github.com/goulu/21c67590c5fa96d1c7b95e3c425c90f1) écrit pour résoudre [un problème facile](https://projecteuler.net/problem=9) du [Project Euler](http://drgoulu.local/2009/02/24/project_euler/) ne faisait pas exception.
+Il existe plusieurs algorithmes simples pour générer des triplets pythagoriciens. Ils sont tous mauvais. Ceux qui utilisent deux boucles imbriquées voire trois sont lents, ceux qui calculent la racine carrée en nombres flottants sont imprécis, et tous sont limités par une longueur maximale des côtés recherchés.  [Mon propre code](https://gist.github.com/goulu/21c67590c5fa96d1c7b95e3c425c90f1) écrit pour résoudre [un problème facile](https://projecteuler.net/problem=9) du [Project Euler](/2009/02/23/project_euler/) ne faisait pas exception.
 
 J'ai depuis découvert l'existence d'une méthode beaucoup plus efficace, mais pas simple. Quelques millénaires après [Pythagore](https://fr.wikipedia.org/wiki/Pythagore) et la [corde à 13 nœuds des égyptiens](https://fr.wikipedia.org/wiki/Corde à_nœuds#Composition_de_la_corde_à_13_nœuds), en 1934 pour être précis, un matheux nommé Berggren a démontré que chaque triplet primitif pouvait être généré à partir de (3,4,5) en le multipliant par une combinaison de ces 3 petites matrices [[2]](#ref-2):
 
@@ -51,13 +52,13 @@ Mes chers lecteurs, je vous souhaite à tous l'indispensable Santé, le très im
 
 ### Notes:
 
-\* C'est (4565486027761, 1061652293520, 4687298610289=21650172), découvert en 1643 par [Fermat](https://fr.wikipedia.org/wiki/Fermat). [Un autre de ses calculs](http://drgoulu.local/2012/04/15/comment-produire-des-nombres-premiers/) (edit du 9.1.2016 :) dont je n'ai aucune idée de comment il a fait à l'époque spectaculaires, d'autant que la recherche avec le générateur proposé dans cet article prend des plombes... [L'approche mathématique](https://www.ilemaths.net/sujet-une-sacree-hypotenuse-623061.html) vaut décidément bien mieux, et en plus indique [comment Fermat a fait](http://gallica.bnf.fr/ark:/12148/bpt6k62145354/f382.image) .
+\* C'est (4565486027761, 1061652293520, 4687298610289=21650172), découvert en 1643 par [Fermat](https://fr.wikipedia.org/wiki/Fermat). [Un autre de ses calculs](/2012/04/15/comment-produire-des-nombres-premiers/) (edit du 9.1.2016 :) dont je n'ai aucune idée de comment il a fait à l'époque spectaculaires, d'autant que la recherche avec le générateur proposé dans cet article prend des plombes... [L'approche mathématique](https://www.ilemaths.net/sujet-une-sacree-hypotenuse-623061.html) vaut décidément bien mieux, et en plus indique [comment Fermat a fait](http://gallica.bnf.fr/ark:/12148/bpt6k62145354/f382.image) .
 
 \*\* Excellente année aussi...
 
 ### Références:
 
-1. <span id="ref-1"></span>\[openbook booknumber="OLID:OL26208349M" templatenumber="5"\]
+1. <span id="ref-1"></span>{{< openbook booknumber="OLID:OL26208349M" templatenumber="5" >}}
 2. <span id="ref-2"></span>Berggren, "Pytagoreiska trianglar", 1934, Tidskrift för elementär matematik, fysik och kemi, vol. 17, p. 129-139.
 3. <span id="ref-3"></span>Barning, F. J. M. "Over pythagorese en bijna-pythagorese driehoeken en een generatieproces met behulp van unimodulaire matrices", 1963 Math. Centrum Amsterdam Afd. Zuivere Wisk. ZW-011: 37, ([pdf](http://oai.cwi.nl/oai/asset/7151/7151A.pdf))
 4. <span id="ref-4"></span>Spezeski, W. J. "[Rethinking Pythagorean Triples](https://www.pvamu.edu/mathematics/wp-content/uploads/sites/49/Spezeski-AAM-R50-WS-080207-Final-_9_-6-13-08.pdf)", 2008, Applications and Applied Mathematics: An International Journal, 3(1), 100–112. Retrieved from http://pvamu.edu/aam

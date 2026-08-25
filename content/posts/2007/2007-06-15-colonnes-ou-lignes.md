@@ -1,5 +1,6 @@
 ---
 title: "Colonnes ou Lignes ?"
+slug: "colonnes-ou-lignes"
 date: 2007-06-15
 categories: 
   - "cat2"
@@ -8,7 +9,7 @@ tags:
   - "psychologie"
 ---
 
-En perdant un peu de temps sur un [Sudoku](http://drgoulu.local/), je me suis rendu compte de quelque chose de bizarre. Avant de vous dire quoi, faites rapidement le Sudoku le plus facile du Net : cherchez dans le tableau ci-joint les 9 chiffres manquant de manière à ce que chaque chiffre de 1 à 9 n'apparaisse qu'une fois dans chaque ligne et dans chaque colonne.
+En perdant un peu de temps sur un [Sudoku](/), je me suis rendu compte de quelque chose de bizarre. Avant de vous dire quoi, faites rapidement le Sudoku le plus facile du Net : cherchez dans le tableau ci-joint les 9 chiffres manquant de manière à ce que chaque chiffre de 1 à 9 n'apparaisse qu'une fois dans chaque ligne et dans chaque colonne.
 
 Attention :
 

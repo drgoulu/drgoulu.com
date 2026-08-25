@@ -1,5 +1,6 @@
 ---
 title: "Calcul d’un ressort spiral d’horlogerie"
+slug: "calcul-dun-ressort-spiral-dhorlogerie"
 date: 2005-12-12
 categories: 
   - "cat2"
@@ -23,4 +24,4 @@ Si on fait un tour on a C = 2π\*M donc après simplification: s=π.E.e/L Or com
 
 Autrement dit il faut "au pif" qu'un spiral en acier ait une longueur supérieure à 1000x l'épaisseur de la lame pour qu'il puisse s'enrouler sur un tour sans dépasser la limite élastique. En fait, un spiral d'horlogerie approche de sa limite élastique plusieurs fois par seconde pendant des années, c'est donc une pièce très critique...
 
-Référence : \[openbook booknumber="ISBN:978-2940025107" templatenumber="5"\]
+Référence : {{< openbook booknumber="ISBN:978-2940025107" templatenumber="5" >}}

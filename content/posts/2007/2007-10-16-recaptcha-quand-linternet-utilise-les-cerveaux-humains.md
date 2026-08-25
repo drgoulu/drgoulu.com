@@ -1,5 +1,6 @@
 ---
 title: "ReCaptcha : quand l'internet utilise les cerveaux humains"
+slug: "recaptcha-quand-linternet-utilise-les-cerveaux-humains"
 date: 2007-10-16
 categories: 
   - "cat2"

@@ -1,5 +1,6 @@
 ---
 title: "Les ponts sur Google Earth"
+slug: "les-ponts-sur-google-earth"
 date: 2009-03-19
 categories: 
   - "cat2"
@@ -17,6 +18,6 @@ Il existe déjà une [impressionnante collection de ponts](http://sketchup.googl
 
 Remarquez un défaut difficilement évitable : en dessous des ponts, on distingue leur photo prise depuis le satellite ...
 
-Le concours est ouvert jusqu'au 15 juin. La préférence sera donnée aux modèles avec peu de polygones et beaucoup de textures, alors ne vous lancez pas tête baissée dans une structure triangulée : il vaut mieux avoir de bonnes photos. Si vous cherchez de l'inspiration, je suggère le [pont de Riddes](http://drgoulu.local/2005/07/03/umberto-guglielmetti/), je crois pouvoir obtenir quelques plans...
+Le concours est ouvert jusqu'au 15 juin. La préférence sera donnée aux modèles avec peu de polygones et beaucoup de textures, alors ne vous lancez pas tête baissée dans une structure triangulée : il vaut mieux avoir de bonnes photos. Si vous cherchez de l'inspiration, je suggère le [pont de Riddes](/2005/07/03/umberto-guglielmetti/), je crois pouvoir obtenir quelques plans...
 
 \*Note : [le règlement exclut les](http://sketchup.google.com/competitions/09bridge/rules.html) "_Residents of _Iran, Sudan, Cuba, Syria, North Korea, Myanmar (Burma), Quebec, Brazil, and Italy_". Si vous savez pourquoi, posez un petit commentaire svp..._

@@ -1,5 +1,6 @@
 ---
 title: "Comment proposer un Ig Nobel"
+slug: "proposer-ig-nobel"
 date: 2017-09-20
 categories: 
   - "cat2"
@@ -48,7 +49,7 @@ sont :
 
 1. <span id="ref-1"></span>{{< altmetric doi="10.3389/fnhum.2016.00511" float="right" >}} Royet, J.-P., Meunier, D., Torquet, N., Mouly, A.-M., & Jiang, T. (2016). The Neural Bases of Disgust for Cheese: An fMRI Study. Frontiers in Human Neuroscience, 10 (October), 1–15. [DOI>10.3389/fnhum.2016.00511](http://doi.org/10.3389/fnhum.2016.00511) \[[en ligne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5065955/)\]
 2. <span id="ref-2"></span>Milo A. Puhan, Alex Suarez, Christian Lo Cascio, Alfred Zahn, Markus Heitz and Otto Braendli, "[Didgeridoo Playing as Alternative Treatment for Obstructive Sleep Apnoea Syndrome: Randomised Controlled Trial](http://www.bmj.com/content/332/7536/266?ref=driverlayer.com),"  _BMJ_, vol. 332 December 2006.
-3. <span id="ref-3"></span>Marc-Antoine Fardin "[On the rheology of cats](http://drgoulu.local/wp-content/uploads/2017/09/Rheology-of-cats.pdf)"  _Rheology Bulletin_, vol. 83, 2, July 2014, pp. 16-17 and 30.
+3. <span id="ref-3"></span>Marc-Antoine Fardin "[On the rheology of cats](/wp-content/uploads/2017/09/Rheology-of-cats.pdf)"  _Rheology Bulletin_, vol. 83, 2, July 2014, pp. 16-17 and 30.
 4. <span id="ref-4"></span>Matthew J. Rockloff and Nancy Greer "[Never Smile at a Crocodile: Betting on Electronic Gaming Machines is Intensified by Reptile-Induced Arousal](https://link.springer.com/article/10.1007/s10899-009-9174-4)," , _Journal of Gambling Studies_, vol. 26, no. 4, December 2010, pp. 571-81.
 5. <span id="ref-5"></span>James A. Heathcote, "[Why Do Old Men Have Big Ears?](http://www.bmj.com/content/311/7021/1668.short)", _British Medical Journal_, vol. 311, 1995, p. 1668
 6. <span id="ref-6"></span>Kazunori Yoshizawa, Rodrigo L. Ferreira, Yoshitaka Kamimura, Charles Lienhard, "[Female Penis, Male Vagina and Their Correlated Evolution in a Cave Insect](http://www.sciencedirect.com/science/article/pii/S0960982214003145),"  _Current Biology_, vol. 24, no. 9, 2014, pp. 1006-1010.

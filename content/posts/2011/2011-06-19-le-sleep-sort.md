@@ -1,5 +1,6 @@
 ---
 title: "Le &quot;Sleep sort&quot;"
+slug: "le-sleep-sort"
 date: 2011-06-19
 categories: 
   - "cat2"
@@ -20,7 +21,7 @@ Depuis ce message on voit des implémentations de "Sleep sort" fleurir dans [tou
 
 Prétextant que ce programme mettrait plus de 11 jours à trier les deux nombres 1000000 et 673, certains considèrent le "sleep sort" comme un bon gag, ce qu'il est certainement à l'origine. Pour ma part j'ai [voté contre l'effacement](http://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Sleep_sort#Sleep_sort) de la [page "Sleep sort" de la Wikipedia](http://en.wikipedia.org/wiki/Sleep_sort). Voici pourquoi.
 
-D'abord, ce code est simple et fait l'éloge d'une grande qualité du programmeur : la paresse. Faire quelque chose d'utile simplement en attendant, quoi de plus beau ? A ce titre il mérite amplement sa place à côté du [Spaghetti sort](http://en.wikipedia.org/wiki/Spaghetti_sort) dont [j'ai déjà causé ici](http://drgoulu.local/2008/11/22/tri/) en français, du ["tri stupide" (Bogosort)](http://fr.wikipedia.org/wiki/Tri_stupide) ou des [Stooge sort](http://en.wikipedia.org/wiki/Stooge_sort) et [Lucky sort](http://en.wikipedia.org/wiki/Luckysort) sans intérêt, mais qui ont leur page Wikipédia.
+D'abord, ce code est simple et fait l'éloge d'une grande qualité du programmeur : la paresse. Faire quelque chose d'utile simplement en attendant, quoi de plus beau ? A ce titre il mérite amplement sa place à côté du [Spaghetti sort](http://en.wikipedia.org/wiki/Spaghetti_sort) dont [j'ai déjà causé ici](/2008/11/22/tri/) en français, du ["tri stupide" (Bogosort)](http://fr.wikipedia.org/wiki/Tri_stupide) ou des [Stooge sort](http://en.wikipedia.org/wiki/Stooge_sort) et [Lucky sort](http://en.wikipedia.org/wiki/Luckysort) sans intérêt, mais qui ont leur page Wikipédia.
 
 {{< figure src="images/3016524792_cdb7edf4c8_m-1.jpg" alt="Photo par Eben Regis sur flickr" caption="Photo par Eben Regis sur flickr" link="http://www.flickr.com/photos/30271386@N04/3016524792/in/photostream/" align="alignright" width="240" >}}
 

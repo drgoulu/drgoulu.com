@@ -1,5 +1,6 @@
 ---
 title: "E-mails légers SVP !"
+slug: "e-mails-legers-svp"
 date: 2007-01-17
 categories: 
   - "non-classe"

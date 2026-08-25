@@ -1,5 +1,6 @@
 ---
 title: "Solar machins"
+slug: "solar-machins"
 date: 2010-09-30
 categories: 
   - "cat3"
@@ -19,7 +20,7 @@ Je me demande si ces projets permettent réellement de faire avancer le [schmilb
 
 {{< figure src="images/9a440aa4e1cd0fe13d8938d79cc00f26.jpg" alt="La Jamais Contente, première voiture ayant atteint 100 km/h, en 1899. Elle était électrique, déjà ..." caption="La &quot;Jamais Contente&quot;, première voiture ayant atteint 100 km/h, en 1899. Elle était électrique, déjà ..." link="http://fr.wikipedia.org/wiki/Jamais_Contente" align="aligncenter" width="400" >}}
 
-D'abord, une évidence parfois oubliée : un véhicule "solaire" est en fait un véhicule à propulsion électrique dont la batterie est rechargée par des panneaux solaires. La propulsion électrique, on sait faire depuis assez longtemps, et ces dernières années ont permis de disposer des [panneaux à rendement acceptable](http://drgoulu.local/2010/05/09/comment-on-mesure-le-rendement-des-cellules-solaires/) et des batteries à hautes performances nécessaires.
+D'abord, une évidence parfois oubliée : un véhicule "solaire" est en fait un véhicule à propulsion électrique dont la batterie est rechargée par des panneaux solaires. La propulsion électrique, on sait faire depuis assez longtemps, et ces dernières années ont permis de disposer des [panneaux à rendement acceptable](/2010/05/09/comment-on-mesure-le-rendement-des-cellules-solaires/) et des batteries à hautes performances nécessaires.
 
 Au niveau des véhicules il n'y a pas de conception fondamentalement nouvelle : l'avion a deux ailes et des hélices, la voiture à des roues et  le bateau a des coques. C'est la faible puissance des cellules photovoltaïques qui conditionne la construction de ces engins : il faut de grandes surfaces et une extrême légèreté  car le but essentiel est d'avancer en utilisant un minimum de puissance.
 
@@ -41,6 +42,6 @@ Pourtant il existe des idées innovantes pour la navigation, comme [tracter des 
 
 {{< figure src="images/a1d66fe0e2c9fc15757efdf326ab63a4.jpg" alt="L'Hydroptère : près de 100 km/h à la voile... Ca c'est de l'innovation!" caption="L'Hydroptère : près de 100 km/h à la voile... Ca c'est de l'innovation!" link="http://www.hydroptere.com/" align="aligncenter" width="450" >}}
 
-Même si je reconnais volontiers la performance technique de réaliser des véhicules consommant très peu d'énergie et que je souhaite plein succès aux équipes dans leurs projets, j'ai de la peine à partager des "rêves" basés sur de vieilles idées additionnées de rationnement de l'énergie. Un vrai rêve pour moi, ce serait plutôt d['](http://fr.wikipedia.org/wiki/Voile_solaire)aller [vite](http://drgoulu.local/2004/08/09/acceleration/) et [loin](http://drgoulu.local/2007/09/28/qui-veut-voyager-loin-ionise-sa-sonde/), [et pourquoi pas à la voile et au solaire en même temps](http://fr.wikipedia.org/wiki/Voile_solaire) ...
+Même si je reconnais volontiers la performance technique de réaliser des véhicules consommant très peu d'énergie et que je souhaite plein succès aux équipes dans leurs projets, j'ai de la peine à partager des "rêves" basés sur de vieilles idées additionnées de rationnement de l'énergie. Un vrai rêve pour moi, ce serait plutôt d['](http://fr.wikipedia.org/wiki/Voile_solaire)aller [vite](/2004/08/09/acceleration/) et [loin](/2007/09/28/qui-veut-voyager-loin-ionise-sa-sonde/), [et pourquoi pas à la voile et au solaire en même temps](http://fr.wikipedia.org/wiki/Voile_solaire) ...
 
 {{< figure src="images/240da40634b0c8e3e5f2f834f86fa096.jpg" alt="Ikaros, la voile solaire japonaise lancée en juin" caption="Ikaros, la voile solaire japonaise lancée en juin" link="http://fr.wikipedia.org/wiki/IKAROS" align="aligncenter" width="423" >}}

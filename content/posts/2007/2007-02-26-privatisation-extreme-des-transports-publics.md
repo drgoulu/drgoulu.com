@@ -1,5 +1,6 @@
 ---
 title: "Privatisation extrême des transports publics"
+slug: "privatisation-extreme-des-transports-publics"
 date: 2007-02-26
 categories: 
   - "non-classe"

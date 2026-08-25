@@ -1,5 +1,6 @@
 ---
 title: "Le Darwinisme quantique"
+slug: "le-darwinisme-quantique"
 date: 2007-10-15
 categories: 
   - "cat1"
@@ -15,7 +16,7 @@ En gros l'article commence par un constat embêtant pour les matérialistes (dis
 
 Il y a quelques temps, la mode était aux univers parallèles, ou aux "mousses d'Univers" dans lesquels tous les Univers possibles formés par toutes les combinaisons possibles de tous les paramètres fondamentaux de la physique coexisteraient. Nous serions dès lors statistiquement "obligés d'exister". Mais cette théorie a l'inconvénient que d'être aussi impossible à prouver que l'existence du "[Monstre de Spaghetti Volant](http://pastafari.wordpress.com/)".
 
-Nos amis physiciens, dont apparemment Paul Davies qui nous a expliqué [comment construire un machine à voyager dans le temps](http://drgoulu.local/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/), ont alors proposé des idées pour le moins audacieuses, consistant à dire que les lois de la physique sont elles-mêmes soumises à la mécanique quantique, et donc "flexibles" dans le sens qu'elles seraient perturbées par l'observation. En gros, puisque le physicien cherche une explication à sa propre existence, les expériences qu'ils fait vont dans ce sens et donc les lois de la physique qu'il découvre sont "anthropomorphisées" par l'observation elle-même.
+Nos amis physiciens, dont apparemment Paul Davies qui nous a expliqué [comment construire un machine à voyager dans le temps](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/), ont alors proposé des idées pour le moins audacieuses, consistant à dire que les lois de la physique sont elles-mêmes soumises à la mécanique quantique, et donc "flexibles" dans le sens qu'elles seraient perturbées par l'observation. En gros, puisque le physicien cherche une explication à sa propre existence, les expériences qu'ils fait vont dans ce sens et donc les lois de la physique qu'il découvre sont "anthropomorphisées" par l'observation elle-même.
 
 Le "Darwinisme Quantique" essaie d'atténuer quelque peu la conséquence de ceci, qui est que c'est nous qui créons l'Univers par le fait d'exister et de l'observer (v'là que les physiciens se prennent pour Dieu maintenant...). L'idée serait que l'Univers joue lui-même le rôle d'Observateur et "sélectionne" les lois propices à l'émergence de la complexité par un mécanisme de combinaison, comme dans le darwinisme.
 

@@ -1,5 +1,6 @@
 ---
 title: "On va tous mourir !"
+slug: "on-va-tous-mourir"
 date: 2008-04-17
 categories: 
   - "cat2"
@@ -26,7 +27,7 @@ Si vous voulez vous préparer au pire, le [site des plaignants](http://www.lhcde
 
 - une véritable [caricature de pensée de cow-boy](http://www.misunderstooduniverse.com) intitulée "La France construit la machine de la Fin du Monde" dans laquelle, en plus, le CERN est soupçonné de produire assez d'antimatière pour détruire les environs (pas grave), mais surtout qu'elle pourrait être utilisée par des terroristes ! Et les commentaires sont du même niveau : lamentables.
 - [Unfication Theory](http://www.unificationtheory.com/god/CONCERN.html) propose un pavé indigeste démontrant que les gens du CERN ne connaissent rien à la physique et vont détruire le joli monde créé par Dieu Tout Puissant.
-- le site [notepad.ch](http://www.notepad.ch) (suisse!), dont l'auteur reprend par cut & paste des infos glanées sur le web et se fend même d'un commentaire sur [mon article consacré au LHC](http://drgoulu.local/2008/04/06/plongee-dans-le-lhc-du-cern/)
+- le site [notepad.ch](http://www.notepad.ch) (suisse!), dont l'auteur reprend par cut & paste des infos glanées sur le web et se fend même d'un commentaire sur [mon article consacré au LHC](/2008/04/06/plongee-dans-le-lhc-du-cern/)
 
 J'aurais du respect pour Luis Sancho, Walter L. Wagner et les courageux anonymes éditant les sites mentionnés plus haut s'ils imitaient [Paco Rabanne, qui avait promis qu'il ne ferait plus de prédiction si la Station Mir ne s'écrasait pas sur Paris le 11 août 1999](http://picoti.free.fr/findumonde/interview.htm). Depuis, on est tranquilles.
 

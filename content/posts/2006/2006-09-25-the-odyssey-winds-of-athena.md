@@ -1,5 +1,6 @@
 ---
 title: "The Odyssey Winds of Athena"
+slug: "the-odyssey-winds-of-athena"
 date: 2006-09-25
 categories: 
   - "non-classe"

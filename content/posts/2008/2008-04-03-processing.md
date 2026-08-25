@@ -1,5 +1,6 @@
 ---
 title: "Proce55ing"
+slug: "processing"
 date: 2008-04-03
 categories: 
   - "cat2"
@@ -28,11 +29,11 @@ La [variété des applications](http://processing.org/exhibition/index.html) ré
 
 Le langage Processing est fortement inspiré de Java, le système de développement est basé sur Java, et on peut exporter les applications sous forme d'applet Java. Pour commencer, on peut se débrouiller sans maitriser cette danse, juste avec des bases de programmation, mais pour faire des choses aussi sophistiquées que les exemples ci-dessus, il faut bien connaitre le graphisme 2D et 3D, voire OpenGL et les maths, mais surtout avoir un talent de graphiste pour que le résultat soit joli.
 
-Ma première application Processing est une version simplifiée et 2D de ma fameuse [Simulation 3D de Galaxie Spirale](http://drgoulu.local/2008/02/08/galaxie-spirale-et-sequence-principale/).
+Ma première application Processing est une version simplifiée et 2D de ma fameuse [Simulation 3D de Galaxie Spirale](/2008/02/08/galaxie-spirale-et-sequence-principale/).
 
 _(Mise à jour du 15.1.2011)_ : Elle était depuis longtemps sur [OpenProcessing](http://www.openprocessing.org/visuals/?visualID=699), mais je peux enfin l'intégrer directement à ce blog :
 
-\[processing width="600" height="400" file="http://drgoulu.local/wp-content/uploads/2008/04/Galaxy.jar"\]Chargement\[/processing\]
+\[processing width="600" height="400" file="/wp-content/uploads/2008/04/Galaxy.jar"\]Chargement\[/processing\]
 
 En pressant sur les touches curseur vous pourrez modifier l'ellipsité et la torsion de la galaxie en temps réel. Cette première oeuvre est assez moche, heureusement quelqu'un en a beaucoup amélioré l'esthétique [sur OpenProcessing](http://www.openprocessing.org/visuals/?visualID=700).
 

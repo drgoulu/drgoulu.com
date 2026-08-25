@@ -1,5 +1,6 @@
 ---
 title: "La science du football"
+slug: "la-science-du-football"
 date: 2008-05-09
 categories: 
   - "cat3"
@@ -13,7 +14,7 @@ coverImage: "bd9992f49c372499f1597b1a6dc9f851-1.jpg"
 
 [![La science du football](images/bd9992f49c372499f1597b1a6dc9f851.jpg "View this title in Open Library")](http://openlibrary.org/books/OL25426705M/La_science_du_football)
 
-Une blague dit que les femmes ne s'intéressent pas au football car elles ont tout compris à propos de ce jeu.  C'est mon cas aussi, surtout depuis la lecture du livre \[openbook booknumber="ISBN:2701136008" templatenumber="5"\][](http://www.worldcat.org/title/science-du-football/oclc/56084567)
+Une blague dit que les femmes ne s'intéressent pas au football car elles ont tout compris à propos de ce jeu.  C'est mon cas aussi, surtout depuis la lecture du livre {{< openbook booknumber="ISBN:2701136008" templatenumber="5" >}}[](http://www.worldcat.org/title/science-du-football/oclc/56084567)
 
 Après 4 chapitres sur les principes physiques intervenant dans le jeu (Le ballon et ses rebonds, La frappe, Têtes, dégagements, arrêts, et Quand le ballon est en l'air ), le livre aborde le jeu proprement dit.
 

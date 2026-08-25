@@ -1,5 +1,6 @@
 ---
 title: "Qui veut voyager loin ionise sa sonde"
+slug: "qui-veut-voyager-loin-ionise-sa-sonde"
 date: 2007-09-28
 categories: 
   - "cat2"
@@ -16,7 +17,7 @@ coverImage: "537638bde09a751042364a3dcdd21dda.jpg"
 
 {{< youtube id="YTbPI2PxLUE" width="640" >}}
 
-Le résultat est sans appel : à partir d'une distance de 5 millions de kilomètres, la bonne vieille fusée est battue à plate couture. Avec une accélération constante et du temps, on peut [rêver à la vitesse de la lumière](http://drgoulu.local/2004/08/09/acceleration/) ...
+Le résultat est sans appel : à partir d'une distance de 5 millions de kilomètres, la bonne vieille fusée est battue à plate couture. Avec une accélération constante et du temps, on peut [rêver à la vitesse de la lumière](/2004/08/09/acceleration/) ...
 
 Les moteurs à ions ont été imaginés dans les années 1960 : il s'agit en fait d'accélérer des noyaux d'atomes (du xénon, je ne sais pas pourquoi) dans un champ électrostatique. Le moteur fonctionne donc à l'électricité, et comme il n'utilise qu'une puissance raisonnable de l'ordre du kilowatt, des panneaux solaires suffisent.
 

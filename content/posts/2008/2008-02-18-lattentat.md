@@ -1,5 +1,6 @@
 ---
 title: "L'attentat"
+slug: "lattentat"
 date: 2008-02-18
 categories: 
   - "cat1"
@@ -11,11 +12,11 @@ tags:
 coverImage: "7237481-L.jpg"
 ---
 
-\[openbook booknumber="ISBN:2260016936" templatenumber="3"\] L'"attentat" de Yasmina Khadra \[1\] est un de ces livres dont on ne ressort pas intact. Est-ce un roman, ou une profonde analyse d'une situation désespérée et désespérante vue à travers une fiction ?
+{{< openbook booknumber="ISBN:2260016936" templatenumber="3" >}} L'"attentat" de Yasmina Khadra \[1\] est un de ces livres dont on ne ressort pas intact. Est-ce un roman, ou une profonde analyse d'une situation désespérée et désespérante vue à travers une fiction ?
 
 Khedra dépeint avec une objectivité remarquable l'horreur et la lâcheté des attentats sucides, et dans le même temps le cercle vicieux qui les rend inévitables.
 
-Un passage m'a frappé tant il rejoint ce que je disais dans [cet article](http://drgoulu.local/2006/01/06/terrorisme/), lorsqu'Amine Jaafari, chirurgien arabe israélien, retrouve le chef du groupe qui a aidé sa femme à exploser au milieu d'un groupe d'enfants juifs:
+Un passage m'a frappé tant il rejoint ce que je disais dans [cet article](/2006/01/06/terrorisme/), lorsqu'Amine Jaafari, chirurgien arabe israélien, retrouve le chef du groupe qui a aidé sa femme à exploser au milieu d'un groupe d'enfants juifs:
 
 > Ma femme, une islamiste ? (...) Elle était trop fière de ses cheveux pour les cacher sous un foulard. Que lui avez-vous raconté pour faire d'elle un monstre, une terroriste, une intégriste sucidaire ?
 
@@ -29,4 +30,4 @@ L'autre lui répond:
 
 Un très bon livre, pour comprendre. Et qui finit mal.
 
-Référence: \[openbook booknumber="ISBN:2260016936" templatenumber="5"\]
+Référence: {{< openbook booknumber="ISBN:2260016936" templatenumber="5" >}}

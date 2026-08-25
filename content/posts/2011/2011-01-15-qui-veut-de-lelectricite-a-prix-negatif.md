@@ -1,5 +1,6 @@
 ---
 title: "Qui veut de l'électricité à prix négatif ?"
+slug: "qui-veut-de-lelectricite-a-prix-negatif"
 date: 2011-01-15
 categories: 
   - "cat3"
@@ -15,7 +16,7 @@ La machine à [mouvement perpétuel](http://fr.wikipedia.org/wiki/Mouvement_per
 
 J'ai entendu parler de cette aberration il y a quelques temps, voici ce que j'ai trouvé sur le sujet : c'est grâce aux éoliennes allemandes. [[1]](#ref-1), [[2]](#ref-2), [[3]](#ref-3)
 
-Il y en a beaucoup, et elles tournent toutes en même temps pendant certaines tempêtes nocturnes, produisant des pointes dont on ne sait que faire à ce moment là. On le voit sur le graphique ci-dessous : l'Allemagne dispose de plus de 20'000 éoliennes représentant 24 GW de puissance installée, mais malgré leur [emplacement favorable](http://drgoulu.local/2007/08/26/energie-eolienne-et-solaire-a-prix-coutant/) elles produisent de manière très irrégulière, par pics au gré des vents.
+Il y en a beaucoup, et elles tournent toutes en même temps pendant certaines tempêtes nocturnes, produisant des pointes dont on ne sait que faire à ce moment là. On le voit sur le graphique ci-dessous : l'Allemagne dispose de plus de 20'000 éoliennes représentant 24 GW de puissance installée, mais malgré leur [emplacement favorable](/2007/08/26/energie-eolienne-et-solaire-a-prix-coutant/) elles produisent de manière très irrégulière, par pics au gré des vents.
 
 ![](images/9ee6cde6111881e5c5c04b15242dcb0d.jpg)
 
@@ -37,13 +38,13 @@ Tout ceci démontre un aspect très important de l'électricité mais trop souve
 
 > ## Votre prise électrique ne fournit pas de l'énergie mais de la puissance.
 
-Ce que je veux dire, c'est que lorsque vous allumez la lumière, vous la voulez tout de suite. Et ça implique que quelque part une installation de production va devoir "faire quelque chose" pour fournir cette puissance (en Watts) au moment même où vous la consommez. Ensuite si vous laissez votre ampoule allumée et consommez de l'énergie (rappel : l'énergie est une [puissance multipliée par un temps](http://drgoulu.local/2009/08/26/le-groupe-e-promet-2000-francs-par-kwh-de-puissance-installes/)), la production continue au même niveau.
+Ce que je veux dire, c'est que lorsque vous allumez la lumière, vous la voulez tout de suite. Et ça implique que quelque part une installation de production va devoir "faire quelque chose" pour fournir cette puissance (en Watts) au moment même où vous la consommez. Ensuite si vous laissez votre ampoule allumée et consommez de l'énergie (rappel : l'énergie est une [puissance multipliée par un temps](/2009/08/26/le-groupe-e-promet-2000-francs-par-kwh-de-puissance-installes/)), la production continue au même niveau.
 
 Les variations de prix de l'électricité n'ont pas grand chose à voir avec l'énergie, mais tout avec la puissance. Si la consommation augmente, il faut mettre en marche des installations qui étaient à l'arrêt, et si elle diminue il faut arrêter des turbines, et ces changements prennent du temps, demandent du travail et ont un prix fondamentalement plus élevé que de laisser tourner une centrale (nucléaire...) toute l'année à une puissance quasi-constante.
 
 C'est ce qui a piégé les producteurs d'électricité dans la nuit du 3 au 4 octobre 2009, et encore plusieurs fois depuis mais dans une proportion moindre : ça leur coûtait moins cher de payer pour se débarasser de leur surproduction que d'arrêter des turbines pendant le coup de vent. Une preuve de plus que le problème des éoliennes, c'est qu'elles produisant quand elles veulent, pas quand on a besoin d'elles.
 
-Mais alors, pourquoi les producteurs n'ont-ils pas arrêté les éoliennes ? Peut-être parce qu' ils touchent des [subventions](http://drgoulu.local/2008/08/30/rentabilite-des-eoliennes/) de l'ordre de 100€ par MWh (j'ignore le chiffre exact, si vous l'avez...) Ô surprise, la moyenne du prix négatif payé pendant les 6 heures de cata était de 100€ par MWh... Donc ils n'ont rien perdu, et ont fait payer au consommateur qui les subventionne le coût de l'exportation de leur surproduction vers les [barrages alpins](http://drgoulu.local/2008/09/06/potentiel-hydroelectrique/), qui la leur ont revendu quelques heures plus tard avec une marge énorme.
+Mais alors, pourquoi les producteurs n'ont-ils pas arrêté les éoliennes ? Peut-être parce qu' ils touchent des [subventions](/2008/08/30/rentabilite-des-eoliennes/) de l'ordre de 100€ par MWh (j'ignore le chiffre exact, si vous l'avez...) Ô surprise, la moyenne du prix négatif payé pendant les 6 heures de cata était de 100€ par MWh... Donc ils n'ont rien perdu, et ont fait payer au consommateur qui les subventionne le coût de l'exportation de leur surproduction vers les [barrages alpins](/2008/09/06/potentiel-hydroelectrique/), qui la leur ont revendu quelques heures plus tard avec une marge énorme.
 
 Je viens de changer d'avis : je suis pour les éoliennes dans l'UE, et pour que la Suisse ne s'occupe que du stockage d'énergie...
 

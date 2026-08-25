@@ -1,5 +1,6 @@
 ---
 title: "DrGoulu.com passe en HTTPS"
+slug: "drgoulu-com-passe-en-https"
 date: 2017-01-11
 categories: 
   - "cat2"
@@ -26,7 +27,7 @@ Il y a peu de temps encore, obtenir un [certificat électronique](https://fr.wik
 
 Ensuite il faut reconfigurer le site pour qu'il utilise HTTPS plutôt qu'HTTP. Suivant [ces instructions](https://www.infomaniak.com/fr/support/faq/1961/rediriger-tous-les-visiteurs-sur-le-site-avec-https-ssl) , j'ai installé le plugin WordPress [Really Simple SSL](https://fr.wordpress.org/plugins/really-simple-ssl/), et constaté qu'il était bien nommé: rien à configurer, presque tout roulait après quelques minutes. Mais seulement "presque".
 
-D'abord, mon site n'affichait pas le joli cadenas vert mais une info comme quoi mes pages avaient  du "contenu hybride", à savoir que certains objets provenaient de la version HTTP non sécurisée de drgoulu.com. A l'aide du génial inspecteur Chrome, j'ai rapidement identifié que le coupable était... mon [image de bannière](http://drgoulu.local/2008/05/30/le-big-bang-en-une-image) ! En effet, j'avais bêtement mis "http://drgoulu.local/wp-content/uploads/2013/04/drgbanner.png" comme background dans la feuille de style CSS du "[thème](http://docs.presscustomizr.com/article/24-creating-a-child-theme-for-customizr)" de ce site. Un petit coup d'éditeur après c'était résolu : le cadenas vert était là !
+D'abord, mon site n'affichait pas le joli cadenas vert mais une info comme quoi mes pages avaient  du "contenu hybride", à savoir que certains objets provenaient de la version HTTP non sécurisée de drgoulu.com. A l'aide du génial inspecteur Chrome, j'ai rapidement identifié que le coupable était... mon [image de bannière](/2008/05/30/le-big-bang-en-une-image/) ! En effet, j'avais bêtement mis "/wp-content/uploads/2013/04/drgbanner.png" comme background dans la feuille de style CSS du "[thème](http://docs.presscustomizr.com/article/24-creating-a-child-theme-for-customizr)" de ce site. Un petit coup d'éditeur après c'était résolu : le cadenas vert était là !
 
 Puis je me suis aperçu que le widget de [Scoop.it](http://www.scoop.it/t/c-fe-des-sciences) qui affiche les derniers articles de mes camarades du Café des Sciences dans la colonne de droite avait purement et simplement disparu. En découvrant que le code du widget fourni par scoop.it était dorénavant
 

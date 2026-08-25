@@ -1,5 +1,6 @@
 ---
 title: "le graphique de Minard sur la campagne de Russie"
+slug: "le-graphique-de-minard-sur-la-campagne-de-russie"
 date: 2008-01-02
 categories: 
   - "cat3"
@@ -11,7 +12,7 @@ coverImage: "aba186b29cf4b4df72d32be76f62a178.jpg"
 
 On commence l'année par une info pas très réjouissante : 400'000 français sont morts en Russie. Mais bon, c'était en hiver 1812, pendant la campagne napoléonienne... La raison d'en reparler, c'est la re-découverte de la carte/graphique statistique ci-dessous, oeuvre de M. Minard en 1869 (cliquer dessus pour l'agrandir) :
 
-[![](images/aba186b29cf4b4df72d32be76f62a178.jpg)](http://drgoulu.local/wp-content/uploads/HLIC/aba186b29cf4b4df72d32be76f62a178.jpg)
+[![](images/aba186b29cf4b4df72d32be76f62a178.jpg)](/wp-content/uploads/HLIC/aba186b29cf4b4df72d32be76f62a178.jpg)
 
 L'invasion se lit d'ouest en est, en suivant la bande colorée, dont la largeur est proportionnelle au nombre de soldats vivants à chaque étape. La retraite se lit de droite à gauche en suivant la bande noire qui rétrécit de 100'000 hommes à Moscou, puis à 20'000 avant la fameuse Bérézina où les rejoignent les 30'000 rescapés du détachement de 60'000 hommes envoyés vers Polotzk avant de se faire décimer, puisque 10'000 survivants seulement parviennent à ressortir vivants de cet enfer gelé.
 

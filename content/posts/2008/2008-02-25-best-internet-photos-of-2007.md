@@ -1,5 +1,6 @@
 ---
 title: "Best Internet Photos of 2007"
+slug: "best-internet-photos-of-2007"
 date: 2008-02-25
 categories: 
   - "cat2"

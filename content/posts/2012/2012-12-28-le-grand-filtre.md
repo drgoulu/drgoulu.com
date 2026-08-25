@@ -1,5 +1,6 @@
 ---
 title: "Le Grand Filtre"
+slug: "le-grand-filtre"
 date: 2012-12-28
 categories: 
   - "cat3"

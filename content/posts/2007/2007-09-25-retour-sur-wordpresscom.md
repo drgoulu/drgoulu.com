@@ -1,5 +1,6 @@
 ---
 title: "Retour sur Wordpress.com"
+slug: "retour-sur-wordpresscom"
 date: 2007-09-25
 categories: 
   - "non-classe"
@@ -13,6 +14,6 @@ A l'époque, le but était d'avoir plus de souplesse et de pouvoir essayer de no
 
 1. exporté tout le contenu de mon ancien blog au format XML, importé sur le nouveau.
 2. redirigé le site depuis le registrar du nom de domaine goulu.net ([godaddy.com](http://www.godaddy.com)), et, par sécurité et souci de rapidité, modifié la redirection depuis le très vieux site chez entryhost et utilisé la [même redirection par PHP](http://www.webrankinfo.com/dossiers/debutants/initiation-aux-redirections)
-3. modifié le flux [http://feeds.feedburner.com/drgoulu](http://feeds.feedburner.com/drgoulu) pour qu'il pointe sur le flux de ce blog plutôt que l'ancien. Les "Goulu News" provenant de l'[aggrégateur Xfruit](http://drgoulu.local/2007/08/13/aggregation-rss-en-ligne/) se mettent à jour toutes seules puisqu'elles prennent le flux feedburner.
+3. modifié le flux [http://feeds.feedburner.com/drgoulu](http://feeds.feedburner.com/drgoulu) pour qu'il pointe sur le flux de ce blog plutôt que l'ancien. Les "Goulu News" provenant de l'[aggrégateur Xfruit](/2007/08/13/aggregation-rss-en-ligne/) se mettent à jour toutes seules puisqu'elles prennent le flux feedburner.
 
 Total : 1h à tout casser.

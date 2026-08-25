@@ -1,5 +1,6 @@
 ---
 title: "Molécules d'été et divers"
+slug: "molecules-dete-et-divers"
 date: 2010-08-01
 categories: 
   - "cat2"
@@ -16,7 +17,7 @@ Il fait chaud et vous appréciez le goût rafraîchissant de la menthe ? Dites m
 
 Il y a quelque temps on nous annonçait l'arrivée d'un "super menthol" 200 fois plus rafraîchissant : l'[iciline](https://en.wikipedia.org/wiki/icilin).  En attendant l'apparition de crèmes glacées chaudes un de ces jours, l'iciline est utilisée dans la recherche sur les canaux TRP [[2]](#ref-2).
 
-[![](images/4e40e296398fc6ce7855580c5e4dddbe.png "TRP")](http://drgoulu.local/wp-content/uploads/HLIC/4e40e296398fc6ce7855580c5e4dddbe.png) les 6 TRP thermo sensibles
+[![](images/4e40e296398fc6ce7855580c5e4dddbe.png "TRP")](/wp-content/uploads/HLIC/4e40e296398fc6ce7855580c5e4dddbe.png) les 6 TRP thermo sensibles
 
 A l'inverse, la [capsaïcine](https://fr.wikipedia.org/wiki/capsaïcine) contenue dans les piments excite TRPV1, un canal sensible au chaud, voire [nociceptif](https://fr.wikipedia.org/wiki/nociception) : il provoque la douleur et des réactions physiologiques associées à la brûlure comme la transpiration. Evidemment, tout dépend de la concentration de capsaïcine dans les piments consommés, mesurée par l'[échelle de Scoville](https://fr.wikipedia.org/wiki/échelle_de_Scoville) qui s'applique aussi au poivre et au gingembre. Par contre, la cannelle, l'ail et le raifort de la moutarde japonaise agissent sur TRPA1, le canal du "trop froid". Etonnant non ? Pourtant on apprécie ces condiments l'été et les picotements qu'ils provoquent ne nous font pas transpirer.
 
@@ -26,9 +27,9 @@ Vous pouvez admirer la [capsaïcine en 3D ici](http://www.edinformatics.com/inte
 
 Aimez-vous les asperges ? Si oui, vous avez _peut-être_ remarqué que vous en "profitiez" une deuxième fois en urinant après en avoir consommé. L'odeur caractéristique est du [méthyl-mercaptan](https://fr.wikipedia.org/wiki/Méthanethiol#Asperges) produit par la digestion de l'[asparagine](https://fr.wikipedia.org/wiki/asparagine), un acide aminé soufré abondant dans les asperges. Ce qui est surprenant, c'est le "_peut-être_", car  il est très  possible que vous n'ayez jamais remarqué cette odeur particulière, alors que d'autres personnes  y sont extrêmement sensibles [[3]](#ref-3) car c'est un gène qui confère cette faculté particulière de l'odorat.
 
-Enfin, si vous avez une processeur à plus de 2 coeurs, vous n'avez plus aucune excuse pour ne pas [participer à BOINC](http://drgoulu.local/2007/01/20/calcul-distribue-avec-boinc/), et au projet [Rosetta@home](http://boinc.bakerlab.org/rosetta/) en particulier, qui étudie la structure en 3D de protéines. Avec un peu de chance, vous aussi vous deviendrez célèbre pendant 24 heures :
+Enfin, si vous avez une processeur à plus de 2 coeurs, vous n'avez plus aucune excuse pour ne pas [participer à BOINC](/2007/01/20/calcul-distribue-avec-boinc/), et au projet [Rosetta@home](http://boinc.bakerlab.org/rosetta/) en particulier, qui étudie la structure en 3D de protéines. Avec un peu de chance, vous aussi vous deviendrez célèbre pendant 24 heures :
 
-[![](images/6d637320ce09489dab0b2bb860345d97.png "Capture")](http://drgoulu.local/wp-content/uploads/HLIC/6d637320ce09489dab0b2bb860345d97.png)Bon, et maintenant : vacances !
+[![](images/6d637320ce09489dab0b2bb860345d97.png "Capture")](/wp-content/uploads/HLIC/6d637320ce09489dab0b2bb860345d97.png)Bon, et maintenant : vacances !
 
 ### Références
 

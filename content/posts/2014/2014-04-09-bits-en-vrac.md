@@ -1,5 +1,6 @@
 ---
 title: "Bits en vrac"
+slug: "bits-en-vrac"
 date: 2014-04-09
 categories: 
   - "cat2"
@@ -17,12 +18,12 @@ Quelques découvertes informatiques en vrac
 
 ### Les formulaires Google Drive
 
-Le [quiz sur les poissons d'avril](http://drgoulu.local/2014/04/01/poisson-davril-ou-pas/ "Poisson d’Avril, ou pas ?") m'a permis d'expérimenter la puissance et la facilité d'utilisation des [formulaires Google Drive](https://support.google.com/drive/topic/1360904) . C'est simplement génial :
+Le [quiz sur les poissons d'avril](/2014/03/31/poisson-davril-ou-pas/ "Poisson d’Avril, ou pas ?") m'a permis d'expérimenter la puissance et la facilité d'utilisation des [formulaires Google Drive](https://support.google.com/drive/topic/1360904) . C'est simplement génial :
 
 1. dans [Google Drive](https://drive.google.com/), on crée un document de type formulaire
 2. on se retrouve dans un éditeur permettant de composer le formulaire. On peut définir le type de chaque champ : texte, choix multiple, cases à cocher, échelle d'évaluation, tout y est. On peut ajouter des règles de validation et des actions à effectuer en fonction des réponses
     
-    {{< figure src="images/form-editor1.png" alt="Editeur de Formulaire Google Drive" caption="Editeur de Formulaire Google Drive" link="http://drgoulu.local/wp-content/uploads/2014/04/form-editor1.png" align="aligncenter" width="480" >}}
+    {{< figure src="images/form-editor1.png" alt="Editeur de Formulaire Google Drive" caption="Editeur de Formulaire Google Drive" link="/wp-content/uploads/2014/04/form-editor1.png" align="aligncenter" width="480" >}}
 3. En cliquant le bouton "afficher le formulaire en ligne" on peut voir à quoi ça ressemble pour les utilisateurs et même tester le système, car la collecte des réponses est immédiate : rien à faire de particulier !
 4. Lorsque le formulaire  est prêt, il suffit d'envoyer le lien disponible par "Envoyer le formulaire" à des personnes choisies, ou d'intégrer la page sur un site web dans un <iframe>. Plusieurs blogs du C@fé des sciences l'ont même fait simultanément sans aucun problème car le formulaire n'existe en réalité (virtuelle...) que chez Google.
 5. Les réponses sont automatiquement collectées dans un document "tableur" sur Google Drive : une ligne est créée pour chaque formulaire rempli, chaque colonne correspondant à un champ. Notez la colonne "horodateur" remplie automatiquement, bien utile.
@@ -58,7 +59,7 @@ Tout ça ne me demande en définitive pas plus d'efforts que de tourner les page
 
 ### NetworkX
 
-[NetworkX](http://networkx.github.io/) est une librairie Python permettant de représenter et traiter des problèmes de graphes. Je l'utilise professionnellement assez intensivement ces temps-ci pour un [problème de postiers chinois](http://drgoulu.local/2013/11/22/le-postier-chinois-de-konigsberg/), mais l'autre jour il m'a permis de résoudre le [problème 107](https://projecteuler.net/problem=107) du [Project Euler](http://drgoulu.local/2009/02/24/project_euler/) en quelques lignes seulement. En fait la plupart servent à lire le fichier des données, puis la partie intéressante tient en une seule ligne :
+[NetworkX](http://networkx.github.io/) est une librairie Python permettant de représenter et traiter des problèmes de graphes. Je l'utilise professionnellement assez intensivement ces temps-ci pour un [problème de postiers chinois](/2013/11/22/le-postier-chinois-de-konigsberg/), mais l'autre jour il m'a permis de résoudre le [problème 107](https://projecteuler.net/problem=107) du [Project Euler](/2009/02/23/project_euler/) en quelques lignes seulement. En fait la plupart servent à lire le fichier des données, puis la partie intéressante tient en une seule ligne :
 
 \[source lang="Python"\]print G.size(weight='weight') - minimum\_spanning\_tree(G, weight='weight').size(weight='weight')\[/source\]
 

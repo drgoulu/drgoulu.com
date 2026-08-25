@@ -1,5 +1,6 @@
 ---
 title: "Comment expliquer la relativité aux enfants"
+slug: "comment-expliquer-la-relativite-aux-enfants"
 date: 2013-12-15
 categories: 
   - "cat2"
@@ -18,7 +19,7 @@ Face à ce défi reçu de Franck par e-mail, j'ai commencé par me défiler en l
 
 {{< youtube id="JTaMfufMl1o" width="640" >}}
 
-Et puis je me suis rappelé cette citation attribuée à Albert :  "_Si vous ne pouvez expliquer un concept à un enfant de six ans, c'est que vous ne le comprenez pas complètement_", qui m'oblige à justifier ma dérobade. Outre le fait que cette phrase n'est [pas d'Einstein mais de Vonnegut](http://drgoulu.local/2008/11/26/ce-queinstein-na-jamais-dit/), je ne prétends d'une part pas comprendre complètement la relativité, mais surtout je ne suis pas sur qu'un enfant "normal" pourrait la comprendre même si les meilleurs vulgarisateurs du monde la lui expliquaient. Pas parce que le développement cognitif de l'enfant serait insuffisant pour comprendre, mais parce que:
+Et puis je me suis rappelé cette citation attribuée à Albert :  "_Si vous ne pouvez expliquer un concept à un enfant de six ans, c'est que vous ne le comprenez pas complètement_", qui m'oblige à justifier ma dérobade. Outre le fait que cette phrase n'est [pas d'Einstein mais de Vonnegut](/2008/11/26/ce-queinstein-na-jamais-dit/), je ne prétends d'une part pas comprendre complètement la relativité, mais surtout je ne suis pas sur qu'un enfant "normal" pourrait la comprendre même si les meilleurs vulgarisateurs du monde la lui expliquaient. Pas parce que le développement cognitif de l'enfant serait insuffisant pour comprendre, mais parce que:
 
 1. La relativité ne fait pas partie des "expériences sensibles".
 2. Les démonstrations non mathématiques de la relativité restreinte sont encore trop verbeuses.
@@ -51,13 +52,13 @@ Le paragraphe suivant est tiré d'un ouvrage fondamental de la physique:
 
 Compris ? Pourtant c'est ainsi que Newton lui-même énonce sa [deuxième loi du mouvement](https://fr.wikipedia.org/wiki/Lois_du_mouvement_de_Newton#Deuxième_loi_de_Newton_ou_principe_fondamental_de_la_dynamique_de_translation) dans ses [Principia Mathematica](https://fr.wikipedia.org/wiki/Philosophiae_Naturalis_Principia_Mathematica) en 1687 (la traduction française date de 1756 [[3]](#ref-3) ). De nos jours, on résume ceci par F = m.a
 
-[![Einstein cartoon](images/02845bf1f6f246aac9ffe33aa4576c6e.gif)](http://drgoulu.local/wp-content/uploads/2013/12/02845bf1f6f246aac9ffe33aa4576c6e.gif)Même le cancre interrogé sur "efégalema" ne parviendra pas à emberlificoter ses explications autant que le grand Newton, pour autant qu'elles soient justes. En 3 siècles, les 803 caractères de la formulation newtonienne destinée à l'élite intellectuelle de son temps ont été réduits à 5 symboles assénés à tous les ados du monde ou presque.
+[![Einstein cartoon](images/02845bf1f6f246aac9ffe33aa4576c6e.gif)](/wp-content/uploads/2013/12/02845bf1f6f246aac9ffe33aa4576c6e.gif)Même le cancre interrogé sur "efégalema" ne parviendra pas à emberlificoter ses explications autant que le grand Newton, pour autant qu'elles soient justes. En 3 siècles, les 803 caractères de la formulation newtonienne destinée à l'élite intellectuelle de son temps ont été réduits à 5 symboles assénés à tous les ados du monde ou presque.
 
 Et ce n'est pas un cas unique. Même E=m.c² est un raccourci de l'article d'Einstein [[4]](#ref-4) qui disait initialement
 
 >  Si un corps perd une énergie L sous forme de rayonnement, sa masse diminue de L/c2
 
-A mon humble avis, la relativité (qui ne se résume pas à  E=m.c²) est encore trop jeune pour avoir été formulée sous une forme assez claire, cohérente et compacte pour être transmise à - et comprise par - des enfants. Plusieurs générations de professeurs devront encore raffiner leur approche pédagogique de la relativité par des livres grand public [[5]](#ref-5), voire l'expérimentation animale [[6]](#ref-6) avant que la relativité ne soit enseignée au secondaire, puis peut-être au primaire dans les classes des [vaisseaux relativistes](http://drgoulu.local/2004/08/09/acceleration/)...
+A mon humble avis, la relativité (qui ne se résume pas à  E=m.c²) est encore trop jeune pour avoir été formulée sous une forme assez claire, cohérente et compacte pour être transmise à - et comprise par - des enfants. Plusieurs générations de professeurs devront encore raffiner leur approche pédagogique de la relativité par des livres grand public [[5]](#ref-5), voire l'expérimentation animale [[6]](#ref-6) avant que la relativité ne soit enseignée au secondaire, puis peut-être au primaire dans les classes des [vaisseaux relativistes](/2004/08/09/acceleration/)...
 
 Et avec tout ça, j'ai encore éludé la question de Franck ... je suis tenté d'y répondre par "Tu comprendras quand tu seras plus grand" mais je préfère "Cherche et tu trouveras" ;-)
 
@@ -65,7 +66,7 @@ Et avec tout ça, j'ai encore éludé la question de Franck ... je suis tenté d
 
 1. <span id="ref-1"></span>Hubert Reeves "[La théorie de la relativité](http://id.erudit.org/iderudit/59825ac)", 1961, Liberté, 3(2), 490–492. \[[pdf](http://www.erudit.org/culture/liberte1026896/liberte1430666/59825ac.pdf)\]
 2. <span id="ref-2"></span>Pierre MAGNIEN "La relativité restreinte dans le programme de TS : Cherchez l’erreur!" \[[pdf](http://acces.ens-lyon.fr/clea/lunap/Relativite/relativite-restreinte-principes-et-applications/RR_TS.pdf)\]
-3. <span id="ref-3"></span>\[openbook booknumber="ISBN:2876470705" templatenumber="5"\] ([en ligne](http://www.scribd.com/doc/8538529/Newton-Principes-mathematiques-de-la-philosophie-naturelle))
+3. <span id="ref-3"></span>{{< openbook booknumber="ISBN:2876470705" templatenumber="5" >}} ([en ligne](http://www.scribd.com/doc/8538529/Newton-Principes-mathematiques-de-la-philosophie-naturelle))
 4. <span id="ref-4"></span>Albert Einstein "[Does the Inertia of a Body Depend upon its Energy-Content?](http://www.fourmilab.ch/etexts/einstein/E_mc2/www/)" 1905
-5. <span id="ref-5"></span>\[openbook booknumber="ISBN:9781613740286" templatenumber="5"\]
-6. <span id="ref-6"></span>\[openbook booknumber="ISBN:0465023312" templatenumber="5"\]
+5. <span id="ref-5"></span>{{< openbook booknumber="ISBN:9781613740286" templatenumber="5" >}}
+6. <span id="ref-6"></span>{{< openbook booknumber="ISBN:0465023312" templatenumber="5" >}}

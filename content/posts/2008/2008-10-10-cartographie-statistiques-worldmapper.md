@@ -1,5 +1,6 @@
 ---
 title: "Cartographie + statistiques = Worldmapper"
+slug: "cartographie-statistiques-worldmapper"
 date: 2008-10-10
 categories: 
   - "cat3"

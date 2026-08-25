@@ -1,5 +1,6 @@
 ---
 title: "Selon Newton, l'univers serait discret"
+slug: "selon-newton-lunivers-serait-digital"
 date: 2011-08-13
 categories: 
   - "cat1"
@@ -14,7 +15,7 @@ coverImage: "4e33f9d9b863d16f7ddd3e4fa09660e3.jpg"
 
 {{< figure src="images/27bf5cc2da41ae4eea2abd0a531ba54f.jpg" alt="An experimental sonic black hole par E8 Album HQR Initiative sur flickr.com" caption="&quot;An experimental sonic black hole&quot; par &quot;E8 Album HQR Initiative&quot; sur flickr.com" link="http://www.flickr.com/photos/e8albumdkmatai/4279809666/" align="alignleft" width="240" >}}
 
-C'est du moins ce qu'illustre Jarmo Mäkelä dans son essai "Is Reality Digital or Analog?" [[1]](#ref-1) qui a remporté le premier [prix du concours FQXi 2011](http://www.fqxi.org/community/essay/winners/2011.1) dont [je vous ai causé](http://drgoulu.local/2011/03/30/la-realite-est-elle-digitale-ou-analogique/) il y a quelques mois.
+C'est du moins ce qu'illustre Jarmo Mäkelä dans son essai "Is Reality Digital or Analog?" [[1]](#ref-1) qui a remporté le premier [prix du concours FQXi 2011](http://www.fqxi.org/community/essay/winners/2011.1) dont [je vous ai causé](/2011/03/30/la-realite-est-elle-digitale-ou-analogique/) il y a quelques mois.
 
 Le texte commence comme une petite nouvelle de S.-F. : le narrateur rêve de rencontrer Sir Isaac Newton après lui avoir envoyé quelques livres et articles sur la physique contemporaine, et il trouve le lendemain une invitation à rencontrer le célèbre physicien le 18 novembre 1700 à Londres, à 3 PM. Ne souhaitant pas "ennuyer le lecteur avec une description détaillée de la manière dont il s'est rendu au rendez-vous", Mäkelä passe à un compte-rendu de sa rencontre avec Newton, auquel il demande sans ambages : "Alors, la réalité est-elle digitale ou analogique?". Newton répond sans hésitation "Digital, of course." - "Comment le savez-vous?" - "Parce que je l'ai calculé."
 

@@ -1,5 +1,6 @@
 ---
 title: "Comment bien brasser les cartes"
+slug: "comment-bien-brasser-les-cartes"
 date: 2013-01-19
 categories: 
   - "cat2"
@@ -13,7 +14,7 @@ coverImage: "fdd88ca55a8f211b9fc8f978d988744c.jpg"
 
 Les amateurs de jeux de cartes savent qu'il faut accorder beaucoup d'attention au brassage des cartes pour éviter la triche, mais qu'en est-il par exemple dans les jeux de poker en ligne ?
 
-Les informaticiens se sont beaucoup [cassé la tête sur le tri des données](http://drgoulu.local/tag/tri/), mais relativement peu sur les problèmes de brassage, moins fréquents et apparemment plus simples. Mais comme disait [M. Poisson](https://fr.wikipedia.org/wiki/Siméon_Denis_Poisson) : "il faut se méfier des appâts rances" ©...
+Les informaticiens se sont beaucoup [cassé la tête sur le tri des données](/tags/tri/), mais relativement peu sur les problèmes de brassage, moins fréquents et apparemment plus simples. Mais comme disait [M. Poisson](https://fr.wikipedia.org/wiki/Siméon_Denis_Poisson) : "il faut se méfier des appâts rances" ©...
 
 Examinons pour commencer un algorithme tout bête que j'avoue avoir utilisé plusieurs fois  : on échange la première carte (ou donnée) avec une autre choisie au hasard parmi les N cartes\*, puis on fait de même pour la 2ème carte, la 3ème et ainsi de suite jusqu'à la N-ième. Cette méthode semble réunir toutes les caractéristiques d'un bon algorithme : simplicité, rapidité, et efficacité.
 

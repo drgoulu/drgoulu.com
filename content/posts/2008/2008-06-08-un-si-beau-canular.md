@@ -1,5 +1,6 @@
 ---
 title: "Un si beau canular ..."
+slug: "un-si-beau-canular"
 date: 2008-06-08
 categories: 
   - "cat2"

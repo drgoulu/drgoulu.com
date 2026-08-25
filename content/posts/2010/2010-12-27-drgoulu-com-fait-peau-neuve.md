@@ -1,5 +1,6 @@
 ---
 title: "DrGoulu.com fait peau neuve"
+slug: "drgoulu-com-fait-peau-neuve"
 date: 2010-12-27
 categories: 
   - "non-classe"
@@ -13,7 +14,7 @@ Alors j'ai eu une idée : afficher sur la page d'accueil de DrGoulu.com non plus
 
 D'autre part, et je ne le cache pas, c'est aussi une tentative de "rentabiliser" un peu plus certains articles sur lesquels j'ai passé pas mal de temps et qui n'ont pas eu le succès que j'espérais. Ils reviendront ainsi périodiquement en première page pour une nouvelle jeunesse.
 
-Pour réaliser cette expérience et en préparer d'autres à venir, j'ai du changer l'hébergement du blog. L'ancien est toujours disponible (mais fermé) à [http://drgoulu.local](http://drgoulu.local/). Le nouveau tourne désormais sur un serveur loué mais toujours sous WordPress, ce qui laisse beaucoup plus de liberté pour faire un site. J'en ai profité pour faire quelques changements esthétiques et d'autres destinés à faire connaitre un peu plus Dr. Goulu sur la blogosphère (Votez pour moi!)...
+Pour réaliser cette expérience et en préparer d'autres à venir, j'ai du changer l'hébergement du blog. L'ancien est toujours disponible (mais fermé) à [/](/). Le nouveau tourne désormais sur un serveur loué mais toujours sous WordPress, ce qui laisse beaucoup plus de liberté pour faire un site. J'en ai profité pour faire quelques changements esthétiques et d'autres destinés à faire connaitre un peu plus Dr. Goulu sur la blogosphère (Votez pour moi!)...
 
 Je sais que tout n'est pas encore parfait, je fignole encore mais n'hésitez pas à me faire part de vos remarques et suggestions, surtout sur le concept des "articles annuels".
 

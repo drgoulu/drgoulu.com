@@ -1,5 +1,6 @@
 ---
 title: "2012 et l'ennemi intérieur"
+slug: "2012-et-lennemi-interieur"
 date: 2009-11-29
 categories: 
   - "cat1"
@@ -16,9 +17,9 @@ coverImage: "8fa58f898c273fb172935b26de4e6aa21.gif"
 
 D'après la [liste de prédictions de la fin du monde de la Wikipedia](http://fr.wikipedia.org/wiki/Liste_de_pr%C3%A9dictions_de_la_fin_du_monde), nous échappons à la fureur divine ou à un cataclysme cosmique définitif en moyenne tous les 3 ans. Mais en [2012](http://fr.wikipedia.org/wiki/Fin_du_monde_en_2012), c'est du sérieux. Rendez-vous compte : le calendrier Maya arrive à échéance ! Ca vaut bien un film hollywoodesque et un buzz planétaire, non ?
 
-Et si ça marche, on vous fera la fin du monde façon Papou, Tchoutchke ou Wolof, promis. Avec le nombre de calendriers, de mythologies, d'[astrologues et autres charlatans](http://drgoulu.local/2004/06/30/astrologie/) sur ou sous la surface de notre planète, on devrait arriver facilement à une fin du monde par mois, de quoi faire une série...
+Et si ça marche, on vous fera la fin du monde façon Papou, Tchoutchke ou Wolof, promis. Avec le nombre de calendriers, de mythologies, d'[astrologues et autres charlatans](/2004/06/30/astrologie/) sur ou sous la surface de notre planète, on devrait arriver facilement à une fin du monde par mois, de quoi faire une série...
 
-Mais pourquoi diable y'a-t-il toujours de gens pour se demander : "et si c'était vrai ?" En y réfléchissant, je me suis rappelé la [petite phrase sybilline d'Einstein](http://drgoulu.local/2008/11/26/ce-queinstein-na-jamais-dit/):
+Mais pourquoi diable y'a-t-il toujours de gens pour se demander : "et si c'était vrai ?" En y réfléchissant, je me suis rappelé la [petite phrase sybilline d'Einstein](/2008/11/26/ce-queinstein-na-jamais-dit/):
 
 > "Le lecteur est prié de noter les remarques sur l’astrologie. Elles démontrent que l’ennemi intérieur \[chez Kepler\], vaincu et devenu inoffensif, n’était pas encore complètement mort." ¹
 
@@ -28,9 +29,9 @@ L'[animisme](http://fr.wikipedia.org/wiki/Animiste), on voit un peu ce que c'est
 
 > Une école de pensée téléologique considère toute chose comme étant conçue dans un but, ou dirigée vers un résultat final, et qu'il y a un but inhérent, ou une [cause finale](http://fr.wikipedia.org/wiki/Cause_finale) à tout ce qui existe.
 
-Voilà un bel ennemi intérieur pour un scientifique : présupposer un but à ce qu'il observe, [confondre les "pourquoi"](http://drgoulu.local/2009/01/04/pourquoi-pour-quoi/). Il me semble que bon nombre d'erreurs de la science sont attribuables à cet ennemi intérieur qui nous incite obstinément à croire que nous occupons une place privilégiée dans l'Univers ou parmi les êtres vivants.
+Voilà un bel ennemi intérieur pour un scientifique : présupposer un but à ce qu'il observe, [confondre les "pourquoi"](/2009/01/04/pourquoi-pour-quoi/). Il me semble que bon nombre d'erreurs de la science sont attribuables à cet ennemi intérieur qui nous incite obstinément à croire que nous occupons une place privilégiée dans l'Univers ou parmi les êtres vivants.
 
-Soulignons au passage qu'  [Einstein n'était pas athée](http://drgoulu.local/2008/05/15/le-dieu-deinstein/) et ne prétendait pas que le scientifique doit nier toute finalité, mais plutôt travailler à la découvrir :
+Soulignons au passage qu'  [Einstein n'était pas athée](/2008/05/15/le-dieu-deinstein/) et ne prétendait pas que le scientifique doit nier toute finalité, mais plutôt travailler à la découvrir :
 
 > Ce qui m’intéresse vraiment c’est de savoir si Dieu avait un quelconque choix en créant le monde. (A. Einstein)
 
@@ -43,7 +44,7 @@ Voilà donc pourquoi tant de gens lisent leur horoscope et flippent en attendant
 3. Choisissez une date de référence où l'Univers a commencé un nouveau cycle par un événement d'importance. Quel meilleur choix que ma date de naissance, le 25.12.1963 ?
 4. En ajoutant le nombre de jours calculés sous 2 à la date de référence choisie sous 3, vous obtiendrez la date à laquelle les astres choisis se retrouveront dans la même configuration les uns par rapport aux autres.
 
-L'Apocalypse selon Goulu aura donc lieu [**jeudi 20 février 12262**](https://www.wolframalpha.com/input/?i=date25%2F12%2F1963%2Blcm%28225%2C%2B365%2C%2B687%29days). Si ce jour là il ne se passe rien de spécial, promis je fais [comme Paco Rabanne](http://drgoulu.local/2008/06/08/nostradamus-et-les-catastrophysiciens/) : plus de prédictions.
+L'Apocalypse selon Goulu aura donc lieu [**jeudi 20 février 12262**](https://www.wolframalpha.com/input/?i=date25%2F12%2F1963%2Blcm%28225%2C%2B365%2C%2B687%29days). Si ce jour là il ne se passe rien de spécial, promis je fais [comme Paco Rabanne](/2008/06/08/nostradamus-et-les-catastrophysiciens/) : plus de prédictions.
 
 A part ça, 2012 sera effectivement une année assez rare : [le mois de février comptera 5 mercredis](http://oeis.org/A141039), ce qui n'est plus arrivé depuis [1984](http://fr.wikipedia.org/wiki/1984_%28roman%29).
 

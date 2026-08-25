@@ -1,5 +1,6 @@
 ---
 title: "Le rapport suisse sur l'homéopathie"
+slug: "le-rapport-suisse-sur-lhomeopathie"
 date: 2012-07-17
 categories: 
   - "cat2"
@@ -15,7 +16,7 @@ tags:
 coverImage: "118d818f731430ad23daa762c4091aed.jpg"
 ---
 
-{{< figure src="images/118d818f731430ad23daa762c4091aed.jpg" alt="Rapport suisse sur l'homéopathie" caption="Jetez ce livre dans une piscine et buvez un verre de son eau : selon le principe de similitude, ça devrait vous soigner de l'inconduite scientifique..." link="http://drgoulu.local/wp-content/uploads/2012/07/Homeopathy-in-Healthcare-Bornhoft-Gudrun-9783642206375.jpg" align="alignright" width="194" >}}
+{{< figure src="images/118d818f731430ad23daa762c4091aed.jpg" alt="Rapport suisse sur l'homéopathie" caption="Jetez ce livre dans une piscine et buvez un verre de son eau : selon le principe de similitude, ça devrait vous soigner de l'inconduite scientifique..." link="/wp-content/uploads/2012/07/Homeopathy-in-Healthcare-Bornhoft-Gudrun-9783642206375.jpg" align="alignright" width="194" >}}
 
 Sous des titres comme "[Le rapport sur l'homéopathie très critiqué](http://www.24heures.ch/suisse/rapport-homeopathie-tres-critique/story/17010597)", la presse suisse a récemment mentionné un [article de David Martin Shaw publié fin mai dans la Swiss Medical Weekly](https://smw.ch/article/doi/smw.2012.13594) dans lequel il démonte point par point le rapport [[1]](#ref-1) qui a servi de justification au remboursement de l'homéopathie par l'assurances maladie obligatoire en Suisse.
 

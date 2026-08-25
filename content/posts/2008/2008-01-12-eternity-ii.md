@@ -1,5 +1,6 @@
 ---
 title: "Eternity II"
+slug: "eternity-ii"
 date: 2008-01-12
 categories: 
   - "cat2"
@@ -28,7 +29,7 @@ A l'époque, Pierre-François avait programmé un logiciel de résolution du puz
 
 J'ai recensé plusieurs logiciels de résolution d'Eternity II, qui évitent tous ces problèmes de copyright en obligeant l'utilisateur à décrire lui-même les 256 pièces du jeu qu'il est censé avoir acheté au magasin :
 
-1. [Eternity2.net](http://www.eternity2.fr/download) était le plus ambitieux : basé sur [BOINC](http://drgoulu.local/2007/01/20/calcul-distribue-avec-boinc/) , il permettait d'utiliser la puissance combinée de milliers d'ordinateurs. Le projet a été [stoppé après quelques mois](http://www.bc-team.org/viewtopic.php?p=1665), officiellement par désespoir de trouver une solution avec un algorithme "brute force" et en raison des couts du serveur. Le code source de ce programme a été rendu disponible ... sur leur serveur qui ne répond plus !
+1. [Eternity2.net](http://www.eternity2.fr/download) était le plus ambitieux : basé sur [BOINC](/2007/01/20/calcul-distribue-avec-boinc/) , il permettait d'utiliser la puissance combinée de milliers d'ordinateurs. Le projet a été [stoppé après quelques mois](http://www.bc-team.org/viewtopic.php?p=1665), officiellement par désespoir de trouver une solution avec un algorithme "brute force" et en raison des couts du serveur. Le code source de ce programme a été rendu disponible ... sur leur serveur qui ne répond plus !
 2. ![](images/7403004cbd4b0278fad6154d0aea7d67.png)[Eternity2.fr](http://www.eternity2.fr/) est aussi un solveur distribué, et le site (en français) est plein d'informations utiles, avec également un forum très actif. Le logiciel que vous téléchargez après inscription sur le site se synchronise avec le serveur pour calculer des configurations qui n'ont pas encore été évaluées. Si une solution est trouvée, l'auteur du logiciel s'engage à vous verser la moitié des $2M...
 3. [GPU Eternity](http://gpu.sourceforge.net/eternity.php) est basé sur le "[Global Processing Unit](http://gpu.sourceforge.net/)", un client peer-to-peer [Gnutella](http://fr.wikipedia.org/wiki/Gnutella) qui non seulement partage les fichiers, mais aussi le processeur... Le [code source](http://gpu.cvs.sourceforge.net/gpu/gpu_solar/src/dllbuilding/eternity2/) en Delphi de ce projet est disponible, ce qui est intéressant pour voir comment il est fait ...
 4. [Tetravex II](http://www.tetravexii.com/) est un shareware à $10 qui vous propose de garder les $2M pour vous tout seul, mais n'utilise qu'un seul processeur pour faire tourner un algorithme présenté comme mystérieusement exclusif, mais dont les résultats montrent qu'il est très "brute force" (voir ci-dessous)
@@ -37,11 +38,11 @@ J'ai recensé plusieurs logiciels de résolution d'Eternity II, qui évitent tou
 
 #### Algorithmes utilisés
 
-Tous ces programmes utilisent faute de mieux un approche "brute force" : on place des pièces correspondantes les unes à côté des autres jusqu'à ce qu'on ne puisse plus le faire, puis on fait du "backtracking" en enlevant la dernière pièce et en essayant d'en mettre une autre qui permette de continuer, et si on n'y arrive pas on enlève encore la pièce précédente etc. La [complexité](http://drgoulu.local/2006/10/18/chapitre-4-algorithmes-et-complexite/) de cet algorithme est monstrueuse : la probabilité de trouver une solution de cette manière en une année est très faible.
+Tous ces programmes utilisent faute de mieux un approche "brute force" : on place des pièces correspondantes les unes à côté des autres jusqu'à ce qu'on ne puisse plus le faire, puis on fait du "backtracking" en enlevant la dernière pièce et en essayant d'en mettre une autre qui permette de continuer, et si on n'y arrive pas on enlève encore la pièce précédente etc. La [complexité](/2006/10/18/chapitre-4-algorithmes-et-complexite/) de cet algorithme est monstrueuse : la probabilité de trouver une solution de cette manière en une année est très faible.
 
 [Eternity2.fr](http://www.eternity2.fr/) annnonce une performance de son algorithme de 15'000'000 de pièces disposées / seconde ! Une option permet de visualiser son fonctionnement dans une fenêtre graphique bougeant à toute vitesse. Une capture donne ceci :
 
-[![eternity2fr.png](images/7ef3f7351d13dcff48640b35bc898640.png)](http://drgoulu.local/wp-content/uploads/HLIC/7ef3f7351d13dcff48640b35bc898640.png "eternity2fr.png")
+[![eternity2fr.png](images/7ef3f7351d13dcff48640b35bc898640.png)](/wp-content/uploads/HLIC/7ef3f7351d13dcff48640b35bc898640.png "eternity2fr.png")
 
 On voit que, comme souvent dans ce genre de casse-tête, tout va bien presque jusqu'à la fin : ce sont les dernières pièces qui font la différence, et si on n'y arrive pas, c'est peut être les premières qui sont mal placées ...
 

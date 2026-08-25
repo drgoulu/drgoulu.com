@@ -1,5 +1,6 @@
 ---
 title: "Robot Delta"
+slug: "robot-delta"
 date: 2005-05-27
 categories: 
   - "cat2"

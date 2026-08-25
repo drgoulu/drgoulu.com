@@ -1,5 +1,6 @@
 ---
 title: "Comment être virtuellement ailleurs"
+slug: "comment-etre-virtuellement-ailleurs"
 date: 2007-05-03
 categories: 
   - "non-classe"

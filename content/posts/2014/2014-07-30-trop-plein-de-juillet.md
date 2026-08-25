@@ -1,5 +1,6 @@
 ---
 title: "Trop-plein de Juillet"
+slug: "trop-plein-de-juillet"
 date: 2014-07-30
 categories: 
   - "cat2"
@@ -30,13 +31,13 @@ Pour réaliser ces prévisions de pluie à court terme des machines extraordin
 
 ### Pas d'été sans jeux.
 
-S'il pleut, essayez de créer un système solaire stable dans [Super Planet Crash](http://www.stefanom.org/super-planet-crash/). pour un max de points, il faut mettre plusieurs planètes dans la zone habitable. J'ai essayé la [rosace de Klemperer](https://en.wikipedia.org/wiki//Klemperer_rosette) comme les Marionnettistes de [l'Anneau-Monde](http://drgoulu.local/2012/10/28/anneau-monde-et-surpopulation/), mais sans succès jusqu'ici. D'une part le je ne permet pas de placer les planètes avec une grande précision, et d'autre part j'ai des doutes sur la méthode d'intégration utilisée. Découvert les [intégrateurs symplectiques](https://en.wikipedia.org/wiki/Symplectic_integrator) et l'[intégration de Verlet](https://fr.wikipedia.org/wiki/intégration_de_Verlet) utilisées en astronomie, parce qu'elles permette de ocnserver l'énergie du système
+S'il pleut, essayez de créer un système solaire stable dans [Super Planet Crash](http://www.stefanom.org/super-planet-crash/). pour un max de points, il faut mettre plusieurs planètes dans la zone habitable. J'ai essayé la [rosace de Klemperer](https://en.wikipedia.org/wiki//Klemperer_rosette) comme les Marionnettistes de [l'Anneau-Monde](/2012/10/28/anneau-monde-et-surpopulation/), mais sans succès jusqu'ici. D'une part le je ne permet pas de placer les planètes avec une grande précision, et d'autre part j'ai des doutes sur la méthode d'intégration utilisée. Découvert les [intégrateurs symplectiques](https://en.wikipedia.org/wiki/Symplectic_integrator) et l'[intégration de Verlet](https://fr.wikipedia.org/wiki/intégration_de_Verlet) utilisées en astronomie, parce qu'elles permette de ocnserver l'énergie du système
 
 S'il fait beau, testez [Ingress](http://ingress.com), le jeu de Google pour conquérir le monde. Le concept est assez génial : il faut physiquement se déplacer aux positions GPS de "portails" disséminés sur toute la planète à des endroits un tant soit peu remarquables. J'en ai deux dans mon petit village, il y en a plein dans chaque ville et d'autres disséminés dans la campagne.
 
 Deux équipes s'affrontent pour la maîtrise de ces portails, les bleus (eux), et les verts (nous), car une fois des portails capturés on peut les "linker" à leurs voisins et les zones ainsi triangulées apportent points et ressources. Le site https://www.ingress.com/intel montre l'état des forces en présence sur toute la planète.
 
-Voici par exemple la situation actuelle autour de chez moi : j'ai contribué à trianguler la grande surface verte que je vais tenter d'étendre vers la ligne de portails verts le long du CERN, mais les bleus qui ont envahi Meyrin tentent de détruire les portails verts pour nous en empêcher. [![ingress](images/2014-07-21_132255.png)](http://drgoulu.local/wp-content/uploads/2014/07/2014-07-21_132255.png) C'est vraiment un jeu d'équipe, mais on y joue en découvrant des coins sympas juste à côté de chez soi, et en rencontrant des gens bizarres sous la pluie au petit matin, seuls avec leur téléphone face à une sculpture en bois...
+Voici par exemple la situation actuelle autour de chez moi : j'ai contribué à trianguler la grande surface verte que je vais tenter d'étendre vers la ligne de portails verts le long du CERN, mais les bleus qui ont envahi Meyrin tentent de détruire les portails verts pour nous en empêcher. [![ingress](images/2014-07-21_132255.png)](/wp-content/uploads/2014/07/2014-07-21_132255.png) C'est vraiment un jeu d'équipe, mais on y joue en découvrant des coins sympas juste à côté de chez soi, et en rencontrant des gens bizarres sous la pluie au petit matin, seuls avec leur téléphone face à une sculpture en bois...
 
 {{< youtube id="X4hY0UBAmlo" width="640" >}}
 

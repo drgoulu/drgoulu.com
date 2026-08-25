@@ -1,5 +1,6 @@
 ---
 title: "Des pistes en gallium aux JO d'hiver 2018 !"
+slug: "des-pistes-en-gallium-aux-jo-dhiver-2018"
 date: 2017-04-01
 categories: 
   - "cat2"

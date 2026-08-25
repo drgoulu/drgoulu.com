@@ -1,5 +1,6 @@
 ---
 title: "&quot;jeu de l'année&quot; 2012 et autres : c'est fini."
+slug: "jeu-de-lannee-2012-et-autres-cest-fini"
 date: 2012-01-18
 categories: 
   - "cat2"
@@ -17,7 +18,7 @@ Je m’apprêtais à passer une soirée tranquille quand je suis tombé sur un t
 
 {{< figure src="images/09a817e0eb516e6d72357bbf47b564a3.jpg" alt="Python bouffant du matheux" caption="Python bouffant du matheux" align="alignright" width="250" >}}
 
-Un seul click m'a torpillé non pas une, mais trois soirées et un certain nombre d'heures de réflexion la journée. Mais ma vengeance est terrible : ni ElJj ni aucun autre mathématicien ne passera plus jamais des heures à former les entiers de 1 à 100 en n'utilisant que les chiffres de l'année (2,0,1,2) une et une seule fois chacun, les opérations de base +,-,\*,/,^ et quelques autres. Fi-ni. Et c'est rapé aussi pour toutes les années futures ou passées, parce que j'ai fait un programme qui résout ce problème une fois pour toute. Amis [matheux de tous pays](http://mathforum.org/yeargames/), je vous fais ci-dessous économiser des milliers d'heures que vous allez pouvoir utiliser pour résoudre de [vrais problèmes](http://drgoulu.local/2007/04/14/les-problemes-mathematiques-difficiles/) (Pensez à moi si vous en résolvez un, merci...)
+Un seul click m'a torpillé non pas une, mais trois soirées et un certain nombre d'heures de réflexion la journée. Mais ma vengeance est terrible : ni ElJj ni aucun autre mathématicien ne passera plus jamais des heures à former les entiers de 1 à 100 en n'utilisant que les chiffres de l'année (2,0,1,2) une et une seule fois chacun, les opérations de base +,-,\*,/,^ et quelques autres. Fi-ni. Et c'est rapé aussi pour toutes les années futures ou passées, parce que j'ai fait un programme qui résout ce problème une fois pour toute. Amis [matheux de tous pays](http://mathforum.org/yeargames/), je vous fais ci-dessous économiser des milliers d'heures que vous allez pouvoir utiliser pour résoudre de [vrais problèmes](/2007/04/14/les-problemes-mathematiques-difficiles/) (Pensez à moi si vous en résolvez un, merci...)
 
 Pour être honnête, la première soirée a été grillée à péniblement trouver 50 formules, ce qui m'a à la fois décidé à faire autrement et inspiré beaucoup de respect pour ElJj et les autres fous qui sont parvenus à obtenir des scores de 4000 et quelques points à la main. Bravo !
 

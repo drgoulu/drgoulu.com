@@ -1,5 +1,6 @@
 ---
 title: "Quelles sont les chances ..."
+slug: "quelles-sont-les-chances"
 date: 2008-03-09
 categories: 
   - "cat1"
@@ -16,7 +17,7 @@ coverImage: "odds-in-your-favor.jpg"
 
 Quelles sont les chances que vous buviez de l'eau déjà bue à un moment précis par une personne précise, disons dans le premier café pris par le Président Abraham Lincoln après son élection ?
 
-C'est le genre de question abordée dans l'excellente émission [What Are the Odds?](http://health.discovery.com/fansites/drg/odds/odds.html) du [Dr. G (pas moi...) sur](http://health.discovery.com/fansites/drg/odds/odds.html) [Discovery Science](http://health.discovery.com/fansites/drg/odds/odds.html) que je regarde grâce à la [télévision du futur](http://drgoulu.local/2008/03/09/le-futur-de-la-television-zattoo-miro-etc/).
+C'est le genre de question abordée dans l'excellente émission [What Are the Odds?](http://health.discovery.com/fansites/drg/odds/odds.html) du [Dr. G (pas moi...) sur](http://health.discovery.com/fansites/drg/odds/odds.html) [Discovery Science](http://health.discovery.com/fansites/drg/odds/odds.html) que je regarde grâce à la [télévision du futur](/2008/03/09/le-futur-de-la-television-zattoo-miro-etc/).
 
 Alors, quelles sont les chances ? aucune ? 1% ? plus ?
 

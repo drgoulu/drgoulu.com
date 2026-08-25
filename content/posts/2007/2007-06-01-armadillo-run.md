@@ -1,5 +1,6 @@
 ---
 title: "Armadillo Run"
+slug: "armadillo-run"
 date: 2007-06-01
 categories: 
   - "cat2"
@@ -16,7 +17,7 @@ coverImage: "1ca8c0e6ff83b3adc9e8a9d8a503a6ef-1.jpg"
 
 \[youtube uH4SS2oG\_uc\]
 
-Très inspiré de TIM, Armadillo Run apporte non seulement une jolie représentation 3D mais surtout un comportement physique bien plus recherché grâce à l'utilisation de l'élasticité : tout se déforme sous l'effort et peut rompre si la fore devient trop grande. Comme on peut même précontraindre des structures, ce jeu devrait occuper un bout de la retraite de mon [papa](http://drgoulu.local/)...
+Très inspiré de TIM, Armadillo Run apporte non seulement une jolie représentation 3D mais surtout un comportement physique bien plus recherché grâce à l'utilisation de l'élasticité : tout se déforme sous l'effort et peut rompre si la fore devient trop grande. Comme on peut même précontraindre des structures, ce jeu devrait occuper un bout de la retraite de mon [papa](/)...
 
 J'allais commencer ce article en disant qu'Armadillo Run est un "petit jeu" car il n'est pas cher ($20) et disponible sur le net, mais c'est un GRAND JEU. Avant de casquer, vous pouvez télécharger une version de démo permettant d'apprendre à jouer et de passer les premiers niveaux.
 

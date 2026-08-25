@@ -1,5 +1,6 @@
 ---
 title: "La grande unification des étoiles à neutrons"
+slug: "etoiles_a_neutrons"
 date: 2010-05-16
 categories: 
   - "cat1"
@@ -22,7 +23,7 @@ Après quelques décennies d'observation notamment grâce au [télescope spatial
 
 Dans un article récent \[3\], Victoria M. Kaspi fait le ménage dans ce zoo avec un diagramme :
 
-[![](images/9859383f7f8ef4d720f08fcf229c3794.png "Pulsars")](http://drgoulu.local//HLIC/9859383f7f8ef4d720f08fcf229c3794.png)Sur ce diagramme dit P-P' montrant la période des pulsars en abscisse et leur ralentissement en ordonnée, on voit 1674 pulsars radio (points noirs) dont ceux formant un système double avec une étoile normale sont cerclés , 9 [AXP](https://fr.wikipedia.org/wiki/Pulsar_X_anormal) et 5 [SGR](https://fr.wikipedia.org/wiki/Sursauteur_gamma_mou) qui sont des variétés de magnétars et qui sont bien ceux qui ralentissent le plus, ainsi que quelques autres pulsars atypiques.
+[![](images/9859383f7f8ef4d720f08fcf229c3794.png "Pulsars")](images/9859383f7f8ef4d720f08fcf229c3794.png)Sur ce diagramme dit P-P' montrant la période des pulsars en abscisse et leur ralentissement en ordonnée, on voit 1674 pulsars radio (points noirs) dont ceux formant un système double avec une étoile normale sont cerclés , 9 [AXP](https://fr.wikipedia.org/wiki/Pulsar_X_anormal) et 5 [SGR](https://fr.wikipedia.org/wiki/Sursauteur_gamma_mou) qui sont des variétés de magnétars et qui sont bien ceux qui ralentissent le plus, ainsi que quelques autres pulsars atypiques.
 
 Les lignes en traitillés indiquent l'intensité du champ magnétique en surface en [Gauss](https://fr.wikipedia.org/wiki/Gauss_(unité)), les lignes en traits mixtes indiquent la "demi-vie de rotation", le temps après lequel la rotation sera deux fois plus lente. En haut à gauche, il n'y a pas de points car il n'y a pas eu beaucoup de supernova dans notre galaxie ces derniers siècles. En bas à droite, il y a probablement beaucoup d'étoiles à neutrons anciennes, qui  ont trop ralenti ou dont le champ magnétique est trop faible pour alimenter une émission de signaux radio. Combien y'en a-t-il ? Mystère. Pourrons-nous les détecter un jour ? Surement !
 

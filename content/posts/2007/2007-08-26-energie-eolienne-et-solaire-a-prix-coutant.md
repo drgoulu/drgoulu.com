@@ -1,5 +1,6 @@
 ---
 title: "Energie éolienne (et solaire) à prix coutant ?"
+slug: "energie-eolienne-et-solaire-a-prix-coutant"
 date: 2007-08-26
 categories: 
   - "cat3"
@@ -9,7 +10,7 @@ tags:
 coverImage: "ef6a5506f397797728fb761a007abeaf-1.gif"
 ---
 
-L'émission "Temps Présent" de cette semaine sur la société à 2000 W présente un léger progrès par rapport à la situation décrite dans [Les énergies renouvelables en Suisse](http://drgoulu.local/2005/01/25/les-energies-renouvelables-en-suisse) : le solaire et l'éolien sont désormais présentés comme de "nouvelles énergies renouvelables" alors que l'hydraulique, qui fournit 60% de l'électricité en Suisse, est une vieille énergie renouvelable, mais qui ne vaut toujours pas la peine qu'on en parle.
+L'émission "Temps Présent" de cette semaine sur la société à 2000 W présente un léger progrès par rapport à la situation décrite dans [Les énergies renouvelables en Suisse](/2005/01/25/les-energies-renouvelables-en-suisse/) : le solaire et l'éolien sont désormais présentés comme de "nouvelles énergies renouvelables" alors que l'hydraulique, qui fournit 60% de l'électricité en Suisse, est une vieille énergie renouvelable, mais qui ne vaut toujours pas la peine qu'on en parle.
 
 Et j'apprends avec stupéfaction que le Parlement Suisse a voté une loi obligeant les distributeurs d'électricité à acheter l'énergie solaire et éolienne produite en Suisse "à prix coûtant", alors que l'énergie hydraulique est soumise à 100% aux lois du marché !
 

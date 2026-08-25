@@ -1,5 +1,6 @@
 ---
 title: "Laissez ses données changer votre état d'esprit."
+slug: "laissez-ses-donnees-changer-votre-etat-desprit"
 date: 2009-09-19
 categories: 
   - "cat3"
@@ -21,7 +22,7 @@ Hans Rosling a donné une conférence au [Département d'Etat](http://fr.wikiped
 
 {{< youtube id="KVhWqwnZ1eM" width="640" >}}
 
-Cette conférence reprend le thème déjà abordés [ici](http://drgoulu.local/2007/07/08/gapminderorg/) et [là](http://drgoulu.local/2007/08/21/les-mythes-sur-le-tiers-monde/) : le Tiers-Monde n'existe plus. Sa présentation contient une remarque fracassante sur la rigidité de notre "état d'esprit" :
+Cette conférence reprend le thème déjà abordés [ici](/2007/07/08/gapminderorg/) et [là](/2007/08/21/les-mythes-sur-le-tiers-monde/) : le Tiers-Monde n'existe plus. Sa présentation contient une remarque fracassante sur la rigidité de notre "état d'esprit" :
 
 > la vision du monde de mes étudiants correspond à la réalité du monde à l'époque où leurs professeurs sont nés.
 

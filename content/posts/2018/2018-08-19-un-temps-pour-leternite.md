@@ -1,5 +1,6 @@
 ---
 title: "Un temps pour l'éternité"
+slug: "un-temps-pour-leternite"
 date: 2018-08-19
 categories: 
   - "cat1"
@@ -13,7 +14,7 @@ coverImage: "image.png"
 
 Frédéric Leclerc m'a fait parvenir un exemplaire de son livre [[1]](#ref-1) tout neuf consacré au [temps en physique](https://fr.wikipedia.org/wiki/temps_en_physique). Petit par la taille (80 pages + les 25 pages de l'article qui l'a motivé [[2]](#ref-2)), ce livre est une remarquable synthèse de l'état de la recherche sur la nature du temps, que l'auteur préfère nommer la [temporalité](https://fr.wikipedia.org/wiki/temporalité).  
 
-"Aficionado de cosmologie déguisé pour la circonstance en chroniqueur scientifique", Frédéric Leclerc s'adresse à ses amis lecteurs en les tutoyant et les emmène dans sa propre quête au travers des scientifiques contemporains qui l'ont marqué, principalement [Carlo Rovelli](https://fr.wikipedia.org/wiki/Carlo_Rovelli), [Alain Connes](https://fr.wikipedia.org/wiki/Alain_Connes), [Marc Lachièze-Rey](https://fr.wikipedia.org/wiki/Marc_Lachièze-Rey), [Etienne Klein](https://fr.wikipedia.org/wiki/Etienne_Klein) (qui a en grande partie [motivé ma propre curiosité sur le temps](http://drgoulu.local/2008/06/19/peut-on-voyager-dans-le-temps/)) [Lee Smolin](https://fr.wikipedia.org/wiki/Lee_Smolin) (dont j'ai [causé ici](http://drgoulu.local/2015/01/28/la-renaissance-du-temps/)), Sir [Roger Penrose](https://fr.wikipedia.org/wiki/Roger_Penrose) (celui des [Pavages](http://drgoulu.local/2011/10/03/pavages-aleatoires/) et d'un nombre incroyable d'autres choses), [Sean Carroll](https://fr.wikipedia.org/wiki/Sean_Carroll) ( grâce à qui j'avais découvert le concours fxQi sur [La Nature du Temps](http://drgoulu.local/2009/03/28/les-natures-du-temps/) ) et [Julian Barbour](https://fr.wikipedia.org/wiki/Julian_Barbour) (dont l'essai a gagné ce concours).  
+"Aficionado de cosmologie déguisé pour la circonstance en chroniqueur scientifique", Frédéric Leclerc s'adresse à ses amis lecteurs en les tutoyant et les emmène dans sa propre quête au travers des scientifiques contemporains qui l'ont marqué, principalement [Carlo Rovelli](https://fr.wikipedia.org/wiki/Carlo_Rovelli), [Alain Connes](https://fr.wikipedia.org/wiki/Alain_Connes), [Marc Lachièze-Rey](https://fr.wikipedia.org/wiki/Marc_Lachièze-Rey), [Etienne Klein](https://fr.wikipedia.org/wiki/Etienne_Klein) (qui a en grande partie [motivé ma propre curiosité sur le temps](/2008/06/19/peut-on-voyager-dans-le-temps/)) [Lee Smolin](https://fr.wikipedia.org/wiki/Lee_Smolin) (dont j'ai [causé ici](/2015/01/28/la-renaissance-du-temps/)), Sir [Roger Penrose](https://fr.wikipedia.org/wiki/Roger_Penrose) (celui des [Pavages](/2011/10/03/pavages-aleatoires/) et d'un nombre incroyable d'autres choses), [Sean Carroll](https://fr.wikipedia.org/wiki/Sean_Carroll) ( grâce à qui j'avais découvert le concours fxQi sur [La Nature du Temps](/2009/03/28/les-natures-du-temps/) ) et [Julian Barbour](https://fr.wikipedia.org/wiki/Julian_Barbour) (dont l'essai a gagné ce concours).  
 
 Inutile de dire que je me suis retrouvé dans la curiosité de Frédéric Leclerc pour le temps et dans certains points de vues tirés de lectures communes :  
 
@@ -21,7 +22,7 @@ Inutile de dire que je me suis retrouvé dans la curiosité de Frédéric Lecler
 
 - que la [théorie des cordes](https://fr.wikipedia.org/wiki/théorie_des_cordes) semble sans issue, et que la [gravitation quantique à boucles](https://fr.wikipedia.org/wiki/gravitation_quantique_à_boucles) devrait prendre le relais...
 
-- que des expériences comme celle du [choix retardé](https://fr.wikipedia.org/wiki/expérience_de_la_gomme_quantique_à_choix_retardé) ou celle mentionnée dans [Où étiez-vous, photons ?](http://drgoulu.local/2013/12/04/le-passe-des-photons/) montrent que le temps "microscopique" ne correspond pas à notre perception du temps à notre échelle
+- que des expériences comme celle du [choix retardé](https://fr.wikipedia.org/wiki/expérience_de_la_gomme_quantique_à_choix_retardé) ou celle mentionnée dans [Où étiez-vous, photons ?](/2013/12/03/le-passe-des-photons/) montrent que le temps "microscopique" ne correspond pas à notre perception du temps à notre échelle
 
 - que le temps "macroscopique" a un lien intime avec la [thermodynamique](https://fr.wikipedia.org/wiki/thermodynamique). Pour ma part, plus j'y pense plus je me dis que notre mesure du temps en secondes pourrait être à la "nature du temps" ce que la [température](https://fr.wikipedia.org/wiki/température) est à la [chaleur](https://fr.wikipedia.org/wiki/chaleur), et qu'il y ait un zéro absolu du temps...
 

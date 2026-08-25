@@ -1,5 +1,6 @@
 ---
 title: "Histoire d'angles"
+slug: "histoire-dangles"
 date: 2010-01-16
 categories: 
   - "cat2"
@@ -26,7 +27,7 @@ Toute cette longue introduction nous amène à une autre unité, peu connue et d
 
 Pour bien faire il faudrait environ 6283 mils par tour, mais 6400 est plus facile à diviser (25 diviseurs), et comme 6400=100 x 2^6, on peut même fabriquer un rapporteur gradué en mils en pliant un papier carré en deux par la diagonale, puis encore en deux par la bissectrice de l'angle de 45° et ainsi de suite plusieurs fois. Bref, le mil combine astucieusement la définition rigoureuse du radian, la divisibilité entière du degré (hélas pas par 3, mais par les puissances de 2 c'est bien utile aussi) et ajoute juste ce qu'il faut du système décimal. Une unité bien pratique, et pas seulement pour tirer sur ses voisins.
 
-Je voulais encore citer d'autres [unités d'angle](https://fr.wikipedia.org/wiki/unités_d'angle) découvertes en rédigeant cet article, notamment  le [Du](https://fr.wikipedia.org/wiki/Du_(unité)) chinois, qui a une définition astronomique intéressante : il correspond au déplacement angulaire moyen du Soleil sur la voûte céleste en 24h, soit 360°/ 365.25 \[jours/an\], ce qui donne un angle très proche du degré ! Les chinois avaient encore le cun, le chi et le zhang, mais c'étaient des [unités pifométriques](http://drgoulu.local/2007/01/20/nouvelles-unites-de-mesure/) dont l'utilité se limite au Scrabble.
+Je voulais encore citer d'autres [unités d'angle](https://fr.wikipedia.org/wiki/unités_d'angle) découvertes en rédigeant cet article, notamment  le [Du](https://fr.wikipedia.org/wiki/Du_(unité)) chinois, qui a une définition astronomique intéressante : il correspond au déplacement angulaire moyen du Soleil sur la voûte céleste en 24h, soit 360°/ 365.25 \[jours/an\], ce qui donne un angle très proche du degré ! Les chinois avaient encore le cun, le chi et le zhang, mais c'étaient des [unités pifométriques](/2007/01/20/nouvelles-unites-de-mesure/) dont l'utilité se limite au Scrabble.
 
 ### Références
 

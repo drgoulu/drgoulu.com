@@ -1,5 +1,6 @@
 ---
 title: "Lua, le nouveau Basic"
+slug: "lua-le-nouveau-basic"
 date: 2007-09-21
 categories: 
   - "non-classe"

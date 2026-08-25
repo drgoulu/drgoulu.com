@@ -1,5 +1,6 @@
 ---
 title: "Comment stocker l'énergie"
+slug: "comment-stocker-lenergie"
 date: 2012-10-06
 categories: 
   - "cat2"
@@ -9,6 +10,9 @@ tags:
   - "energie"
   - "hydroelectricite"
 coverImage: "5ea50d06e4ba4f1d76ceaf6139608347-1.jpg"
+
+aliases:
+  - "/2012/10/07/comment-stocker-lenergie/"
 ---
 
 Claude me demande pourquoi on ne stockerait pas la surproduction éolienne avec des volants d'inertie. Lui répondre me permet de terminer un vieux brouillon sur le stockage d'énergie en utilisant un autre brouillon sur la voiture électrique comme introduction.
@@ -23,7 +27,7 @@ La réponse est pour beaucoup liée à la faible [densité d'énergie](https://f
 
 Même si le moteur de votre voiture ne parvient à transformer qu'un tiers\* de cette énergie en mouvement, un réservoir d'essence reste au moins 20x plus léger qu'une bonne batterie équivalente. Donc un réservoir de 40 litres d'essence (~ 30 kg)  correspond à environ 600 kg de batteries. Et même si un moteur électrique est sensiblement plus petit qu'un moteur à combustion de la même puissance, les batteries restent un handicap de poids pour un véhicule.
 
-Evidemment, on peut réduire la taille de la batterie en récupérant l'énergie cinétique d'un véhicule à la descente, ou au freinage. Mais là se pose un autre problème : la [puissance](https://fr.wikipedia.org/wiki/Puissance_(physique)) de charge ou décharge des batteries est également limitée.. Il faut par exemple 3.5 heures pour recharger complètement le [Roadster Tesla](https://en.wikipedia.org/wiki/Tesla_Roadster#Battery_system) de mes rêves, ce qui nécessite une alimentation électrique d'une puissance de 4.8 kW. Or comme je l'avais calculé [ici](http://drgoulu.local/2011/07/03/srec/), une voiture qui ralentit de 36km/h à 0 en 5 secondes produit une puissance de 26 kW.  C'est pour cela que les voitures hybrides comme la [Toyota Prius](https://fr.wikipedia.org/wiki/Toyota_Prius) n'utilisent pas des batteries Li-ion, mais plutôt des [NiMH](https://fr.wikipedia.org/wiki/Accumulateur_nickel-hydrure_métallique) de densité énergétique inférieure, mais permettant des courants de charge/décharge plus élevés.
+Evidemment, on peut réduire la taille de la batterie en récupérant l'énergie cinétique d'un véhicule à la descente, ou au freinage. Mais là se pose un autre problème : la [puissance](https://fr.wikipedia.org/wiki/Puissance_(physique)) de charge ou décharge des batteries est également limitée.. Il faut par exemple 3.5 heures pour recharger complètement le [Roadster Tesla](https://en.wikipedia.org/wiki/Tesla_Roadster#Battery_system) de mes rêves, ce qui nécessite une alimentation électrique d'une puissance de 4.8 kW. Or comme je l'avais calculé [ici](/2011/07/03/srec/), une voiture qui ralentit de 36km/h à 0 en 5 secondes produit une puissance de 26 kW.  C'est pour cela que les voitures hybrides comme la [Toyota Prius](https://fr.wikipedia.org/wiki/Toyota_Prius) n'utilisent pas des batteries Li-ion, mais plutôt des [NiMH](https://fr.wikipedia.org/wiki/Accumulateur_nickel-hydrure_métallique) de densité énergétique inférieure, mais permettant des courants de charge/décharge plus élevés.
 
 ### Alors on stocke l'énergie, ou la puissance ?
 
@@ -40,7 +44,7 @@ Au dessus des batteries Li-ion, on trouve deux technologies en développement, p
 - Les "ultra-batteries" comme celles au [difluorure de xénon](https://fr.wikipedia.org/wiki/difluorure_de_xénon) [[2]](#ref-2). L'énergie électrique y est stockée directement dans la structure du matériau comme dans une supercap, mais avec une densité d'énergie bien supérieure.
 - Les "batteries métal-air". Les [accumulateurs lithium-air](https://fr.wikipedia.org/wiki/Accumulateur_lithium#Accumulateur_lithium-air) (le [lithium](https://fr.wikipedia.org/wiki/lithium) étant un métal ) sont les plus prometteuses, avec une densité d'énergie environ 10x plus élevée que le Li-ion. Avec de telles batteries, une voiture électrique atteindrait une autonomie comparable à une voiture à essence. Mais sauf progrès inattendu, il faudra toujours des heures pour la recharger.
 
-Au dessous de tous ces types de batteries, on trouve des technologies encore mieux adaptées au stockage de puissance : les supercaps et les volants d'inertie [dont j'ai déjà parlé un peu ici](http://drgoulu.local/2011/07/03/srec/) pour les véhicules.
+Au dessous de tous ces types de batteries, on trouve des technologies encore mieux adaptées au stockage de puissance : les supercaps et les volants d'inertie [dont j'ai déjà parlé un peu ici](/2011/07/03/srec/) pour les véhicules.
 
 ### Du Gyrobus au Tokamak
 
@@ -51,13 +55,13 @@ L'[énergie cinétique](https://fr.wikipedia.org/wiki/énergie_cinétique#Cas_de
 
 La raison pour laquelle le légendaire [Gyrobus](https://fr.wikipedia.org/wiki/Gyrobus) stockait son énergie dans un volant d'inertie de 1.5 tonnes plutôt que dans une masse équivalente de batteries au plomb tient à la petite phrase "_La recharge du volant prenait de 30 secondes à 3 minutes_" : les volants d'inertie stockent plutôt de la puissance que de l'énergie. Si on envisage de les utiliser dans les éoliennes [[3]](#ref-3) c'est pour lisser l'effet de rafales de vent espacées de quelques minutes, pas pour stocker une tempête nocturne pour un lendemain calme.
 
-Une fois [quelques détails réglés](http://drgoulu.local/2005/12/11/la-fusion-thermonucleaire/), les volants d'inertie pourraient jouer un rôle important dans les centrales à fusion thermonucléaire en stockant une partie de l'énergie produite pendant les courtes réactions de fusion pour alimenter les aimants et réchauffer le plasma entre deux réactions. Avec un rotor de quelques dizaines de mètres de long et quelques dizaines de tonnes, on peut stocker puis restituer 100 MW pendant 10 secondes. Tout ça pour stocker environ 70 KWh d'électricité, l'équivalent de quelques jours de votre consommation personnelle.
+Une fois [quelques détails réglés](/2005/12/11/la-fusion-thermonucleaire/), les volants d'inertie pourraient jouer un rôle important dans les centrales à fusion thermonucléaire en stockant une partie de l'énergie produite pendant les courtes réactions de fusion pour alimenter les aimants et réchauffer le plasma entre deux réactions. Avec un rotor de quelques dizaines de mètres de long et quelques dizaines de tonnes, on peut stocker puis restituer 100 MW pendant 10 secondes. Tout ça pour stocker environ 70 KWh d'électricité, l'équivalent de quelques jours de votre consommation personnelle.
 
 {{< figure src="images/73052cfebe264be7017feb1f12b10d1d.jpg" alt="Génératrice à inertie du Tokamak CRPP-EPFL. (Cliquer pour plus d'infos)" caption="Génératrice à inertie du Tokamak CRPP-EPFL. (Cliquer pour plus d'infos)" link="http://actu.epfl.ch/news/l-alternateur-tourne-rond/" align="aligncenter" width="600" >}}
 
 ### Panoramix, il nous faut de la potion magique...
 
-Si vous rêvez d'être autonome en électricité avec votre petite éolienne personnelle ou vos quelques m² de panneaux solaires, il vous suffira de stocker quelques dizaines de kWh pour les nuits ou les jours sans vent. Vous aurez besoin d'une capacité de stockage assez similaire à celle d'une voiture électrique, et quelques centaines de kg de batteries feront l'affaire. Vous pourriez être tentés d'utiliser votre voiture électrique comme stockage, mais le hic c'est que votre maison doit stocker de l'énergie pour le soir alors que votre [voiture doit en stocker pour le jour](http://drgoulu.local/2009/03/05/la-voiture-electrique-ne-sera-pas-solaire/). Pas de bol : il vous faudra donc 2 batteries.
+Si vous rêvez d'être autonome en électricité avec votre petite éolienne personnelle ou vos quelques m² de panneaux solaires, il vous suffira de stocker quelques dizaines de kWh pour les nuits ou les jours sans vent. Vous aurez besoin d'une capacité de stockage assez similaire à celle d'une voiture électrique, et quelques centaines de kg de batteries feront l'affaire. Vous pourriez être tentés d'utiliser votre voiture électrique comme stockage, mais le hic c'est que votre maison doit stocker de l'énergie pour le soir alors que votre [voiture doit en stocker pour le jour](/2009/03/04/la-voiture-electrique-ne-sera-pas-solaire/). Pas de bol : il vous faudra donc 2 batteries.
 
 Si vous êtes une petite ville isolée comme Fairbanks en Alaska, il vous faut la plus grosse batterie du monde [[4]](#ref-4) pour fournir 40 MW à vos 12'000 habitants en cas de défaillance de votre centrale thermique. Enfin, pendant 7 minutes seulement, le temps de démarrer les groupes de secours, parce qu'à Fairbanks, ils ne sont pas écolos. Et aussi parce que leurs 1300 tonnes de batteries NiCd ne stockent que 5 MWh.
 
@@ -92,7 +96,7 @@ Ca parait beaucoup comme ça, mais même pour X=3 ça ne représente pas un mill
 
 J'ai lu quelque part (je ne retrouve plus où) que toutes les batteries du monde (démarreurs de voitures + téléphone et ordinateurs portables, toutes) stockent 4 minutes de la production mondiale d'électricité. D'après les calculs ci-dessus, toutes les STEP du monde stockent environ 1.5 heures de production mondiale.
 
-C'est assez tant que des centrales thermiques produisent l'énergie "[en ruban](http://www.fmv.ch/fr/cahiers_electricite/differentes_couches_electricite.htm)", mais si on remplace ces sources d'énergie fiables et régulières par des [sources aléatoires](http://drgoulu.local/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/), qu'on tient à l' "indépendance énergétique" et que de plus on ne veuille pas créer de nouvelles lignes de transport qui permettraient de lisser la production et la consommation à l'échelle du continent, il va falloir augmenter énormément la capacité de stockage. Tellement qu'on se sait pas le faire. Il faudra faire des compromis. Ou regarder une fois encore les 3 premières lignes du [tableau des densités d'énergie](https://fr.wikipedia.org/wiki/Densité_d'énergie#Densités_d'énergie_typiques) avant de [retourner aux arbres](https://fr.wikipedia.org/wiki/pourquoi_j'ai_mangé_mon_père)...
+C'est assez tant que des centrales thermiques produisent l'énergie "[en ruban](http://www.fmv.ch/fr/cahiers_electricite/differentes_couches_electricite.htm)", mais si on remplace ces sources d'énergie fiables et régulières par des [sources aléatoires](/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/), qu'on tient à l' "indépendance énergétique" et que de plus on ne veuille pas créer de nouvelles lignes de transport qui permettraient de lisser la production et la consommation à l'échelle du continent, il va falloir augmenter énormément la capacité de stockage. Tellement qu'on se sait pas le faire. Il faudra faire des compromis. Ou regarder une fois encore les 3 premières lignes du [tableau des densités d'énergie](https://fr.wikipedia.org/wiki/Densité_d'énergie#Densités_d'énergie_typiques) avant de [retourner aux arbres](https://fr.wikipedia.org/wiki/pourquoi_j'ai_mangé_mon_père)...
 
 ### Notes:
 

@@ -1,5 +1,6 @@
 ---
 title: "Oiseaux, merveilleux oiseaux"
+slug: "oiseaux-merveilleux-oiseaux"
 date: 2007-11-09
 categories: 
   - "cat1"
@@ -33,6 +34,6 @@ Pourquoi les différentes espèces d'oiseaux migrateurs ont-elles développé de
 
 ### Références
 
-1. <span id="ref-1"></span>\[openbook booknumber="ISBN:2020310953" templatenumber="5"\]
-2. <span id="ref-2"></span>\[openbook booknumber="ISBN:202005924X" templatenumber="5"\]
-3. <span id="ref-3"></span>\[openbook booknumber="ISBN:2020191148" templatenumber="5"\]
+1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:2020310953" templatenumber="5" >}}
+2. <span id="ref-2"></span>{{< openbook booknumber="ISBN:202005924X" templatenumber="5" >}}
+3. <span id="ref-3"></span>{{< openbook booknumber="ISBN:2020191148" templatenumber="5" >}}

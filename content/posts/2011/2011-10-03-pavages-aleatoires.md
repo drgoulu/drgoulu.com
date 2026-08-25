@@ -1,5 +1,6 @@
 ---
 title: "Pavages aléatoires"
+slug: "pavages-aleatoires"
 date: 2011-10-03
 categories: 
   - "cat2"
@@ -45,7 +46,7 @@ Pour ma part, j'ai réalisé la petite application ci-dessous en [Processing](ht
 
 En pressant sur les touches 0,1,3,4,5,6 vous pouvez changer la forme des pavés à la volée, et la touche espace relance un pavage. Contrairement à Shier et Bourke, je ne pave pas un tore mais un rectangle, en prenant garde à ce que les pavés ne soient pas "coupés" par les bords. En plus je me suis amusé à implémenter les pavés en forme d'étoiles, en prévision d'une carte de Noël. Mignon, n'est-ce pas ? Bon, il reste pas mal de noir car la détection d'intersection entre étoiles est très lente, il faudrait améliorer ça.
 
-{{< figure src="images/ee578774ff1f481e54dd991d9e1d7b9e.png" alt="stars" caption="Géantes rouges et naines bleues" link="http://drgoulu.local//HLIC/ee578774ff1f481e54dd991d9e1d7b9e.png" align="aligncenter" width="600" >}}
+{{< figure src="images/ee578774ff1f481e54dd991d9e1d7b9e.png" alt="stars" caption="Géantes rouges et naines bleues" link="images/ee578774ff1f481e54dd991d9e1d7b9e.png" align="aligncenter" width="600" >}}
 
 _ajout du 8/10/11_ : j'ai présenté hier un [Tutoriel Processing](http://microclub.ch/2011/10/07/tutoriel-processing/) décrivant la conception de ce programme.
 

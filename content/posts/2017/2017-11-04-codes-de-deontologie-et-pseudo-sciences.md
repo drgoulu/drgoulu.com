@@ -1,5 +1,6 @@
 ---
 title: "Codes de déontologie et pseudo sciences"
+slug: "codes-de-deontologie-et-pseudo-sciences"
 date: 2017-11-04
 categories: 
   - "cat2"
@@ -82,7 +83,7 @@ A l’inverse, le code de déontologie des acupuncteurs du Québec ne fait aucun
 
 Les ordres professionnels ne devraient pas imposer le respect généralisé envers d’autres professions, ou alors les nommer explicitement pour éviter des conflits lors de la création de nouveaux ordres. En particulier l’article 86 du code de déontologie des pharmaciens du Québec restreint inutilement la liberté d’expression, voire le devoir des pharmaciens de travailler et s’exprimer en fonction des données de la science.
 
-La pression des acupuncteurs contre l’excellente BD d’Olivier Bernard mérite un [effet Streisand](https://fr.wikipedia.org/wiki/effet_Streisand) : partagez et republiez cet article un max svp ! Pour le texte vous avez le droit,  il est publié sous [licence Creative Commons](http://drgoulu.local/2013/01/26/acanthapis-petax-cc-et-wikipedia/). Et pour les images, récupérées de l'[Internet Archive](https://fr.wikipedia.org/wiki/Internet_Archive) sans autorisation d'Olivier Bernard, j'invoque le "[fair use](https://fr.wikipedia.org/wiki/fair_use)" :
+La pression des acupuncteurs contre l’excellente BD d’Olivier Bernard mérite un [effet Streisand](https://fr.wikipedia.org/wiki/effet_Streisand) : partagez et republiez cet article un max svp ! Pour le texte vous avez le droit,  il est publié sous [licence Creative Commons](/2013/01/26/acanthapis-petax-cc-et-wikipedia/). Et pour les images, récupérées de l'[Internet Archive](https://fr.wikipedia.org/wiki/Internet_Archive) sans autorisation d'Olivier Bernard, j'invoque le "[fair use](https://fr.wikipedia.org/wiki/fair_use)" :
 
 ![](images/acupuncture01.png) ![](images/acupuncture02.png) ![](images/acupuncture03.png) ![](images/acupuncture04.png) ![](images/acupuncture05.png)
 

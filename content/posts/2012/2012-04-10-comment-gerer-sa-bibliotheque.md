@@ -1,5 +1,6 @@
 ---
 title: "Comment gérer sa bibliothèque"
+slug: "comment-gerer-sa-bibliotheque"
 date: 2012-04-10
 categories: 
   - "cat2"
@@ -51,8 +52,8 @@ Donc il y a [OpenLibrary.org](http://openlibrary.org), la base "open" et publiq
 OpenLibrary n'est malheureusement pas assez développé pour y gérer sa bibliothèque, mais offre un petit bouton bien utile pour ajouter une référence sur Goodreads d'un seul click. Sinon, OpenLibrary est surtout utile aux gens qui publient du contenu sur le web car on peut:
 
 1. exporter des références au format [citation Wikipedia](http://en.wikipedia.org/wiki/Template:Citation), ce qui est drôlement pratique
-2. utiliser l'[extension OpenBook Book Data](http://wordpress.org/extend/plugins/openbook-book-data/) pour WordPress. Et ça c'est génial. Par exemple si je veux citer le fameux bouquin sur ce blog, il me suffit de taper \[ openbook booknumber="OLID:OL22263607M" templatenumber="5"\]  et hop, sous vos yeux émerveillés apparait : \[openbook booknumber="OLID:OL22263607M" templatenumber="5"\] , avec les liens vers les sites référençant le livre parmi ceux que j'ai choisis, et la disposition "no 5" qui n'incorpore pas d'image de la couverture, mais j'aurais pu.
+2. utiliser l'[extension OpenBook Book Data](http://wordpress.org/extend/plugins/openbook-book-data/) pour WordPress. Et ça c'est génial. Par exemple si je veux citer le fameux bouquin sur ce blog, il me suffit de taper \[ openbook booknumber="OLID:OL22263607M" templatenumber="5"\]  et hop, sous vos yeux émerveillés apparait : {{< openbook booknumber="OLID:OL22263607M" templatenumber="5" >}} , avec les liens vers les sites référençant le livre parmi ceux que j'ai choisis, et la disposition "no 5" qui n'incorpore pas d'image de la couverture, mais j'aurais pu.
 
-Bref, depuis que j'ai découvert cette extension, j'ai mis à jour tous [les articles de ce blog qui mentionnent des livres](http://drgoulu.local/tag/livres/), en ajoutant les éventuelles références inconnues sur OpenLibrary
+Bref, depuis que j'ai découvert cette extension, j'ai mis à jour tous [les articles de ce blog qui mentionnent des livres](/tags/livres/), en ajoutant les éventuelles références inconnues sur OpenLibrary
 
 Dans un prochain article, je vous causerai des solutions modernes pour maintenir une bibliographie d'articles scientifiques ou similaires. Pour les impatients, c'est [Zotero](http://www.zotero.org/) ou [Mendeley](http://www.mendeley.com/), au choix.

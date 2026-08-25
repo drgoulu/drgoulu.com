@@ -1,5 +1,6 @@
 ---
 title: "Comment fonctionnent les imprimantes jet d'encre industrielles"
+slug: "comment-fonctionnent-les-imprimantes-jet-dencre-industrielles"
 date: 2018-03-10
 categories: 
   - "cat3"

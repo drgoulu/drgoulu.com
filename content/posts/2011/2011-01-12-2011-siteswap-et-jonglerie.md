@@ -1,5 +1,6 @@
 ---
 title: "2011, siteswap et jonglerie"
+slug: "2011-siteswap-et-jonglerie"
 date: 2011-01-12
 categories: 
   - "cat2"
@@ -9,7 +10,7 @@ tags:
 coverImage: "juggling.gif"
 ---
 
-En préparant comme à [l'accoutumée](http://drgoulu.local/2010/01/01/2010/) un article sur le nombre 2011 et avant qu' [ElJi ne me devance](http://eljjdx.canalblog.com/archives/2011/01/02/20004672.html), je suis tombé sur l'étrange propriété [A071160](http://oeis.org/A071160) selon laquelle 2011 est un "mot de Lukasiewicz qui est aussi une séquence siteswap de jonglerie asynchrone valide"...
+En préparant comme à [l'accoutumée](/2010/01/01/2010-2/) un article sur le nombre 2011 et avant qu' [ElJi ne me devance](http://eljjdx.canalblog.com/archives/2011/01/02/20004672.html), je suis tombé sur l'étrange propriété [A071160](http://oeis.org/A071160) selon laquelle 2011 est un "mot de Lukasiewicz qui est aussi une séquence siteswap de jonglerie asynchrone valide"...
 
 Comme je n'y ai rien compris, j'ai cherché, en commençant par la jonglerie via un vieil article de Pour la Science \[1+2\] . On y apprend que le grand [Claude Shannon](http://fr.wikipedia.org/wiki/Claude_Shannon) en personne s'est intéressé au sujet de la notation des figures de jonglerie [[3]](#ref-3), un domaine étonnamment actif qui a abouti dans les années 1980 au "siteswap" ou "notation d'échange de position". La jonglerie "asynchrone" est le type le plus courant, dans laquelle la main gauche et la main droite jettent chacune une balle alternativement. Une séquence est définie en notation "siteswap" par un nombre dont chaque digit correspond à un temps et indique après combien de temps la balle lancée sera relancée. Donc si ce chiffre est impair la balle sera relancée par l'autre main, s'il est pair par la même main.
 

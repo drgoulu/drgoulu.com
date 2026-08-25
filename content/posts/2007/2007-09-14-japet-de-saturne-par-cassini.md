@@ -1,5 +1,6 @@
 ---
 title: "Cassini redécouvre Japet"
+slug: "japet-de-saturne-par-cassini"
 date: 2007-09-14
 categories: 
   - "cat1"
@@ -24,4 +25,4 @@ Il ne reste plus qu'à expliquer la formation de cette crête. Deux théories so
 
 ### Voir aussi :
 
-- sur "[les meilleures photos d'astronomie de 2006](http://drgoulu.local/)", l'incroyable photo de Saturne prise par Cassini où l'on voit la Terre à travers les anneaux
+- sur "[les meilleures photos d'astronomie de 2006](/)", l'incroyable photo de Saturne prise par Cassini où l'on voit la Terre à travers les anneaux

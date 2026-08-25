@@ -1,5 +1,6 @@
 ---
 title: "Adieu focale, bonjour plenoptique !"
+slug: "adieu-focale"
 date: 2010-10-07
 categories: 
   - "cat2"
@@ -9,6 +10,9 @@ tags:
   - "optique"
   - "photo"
 coverImage: "bb12ceb0a242ba8e2fd27cdd35c546e2.png"
+
+aliases:
+  - "/2010/10/06/adieu-focale/"
 ---
 
 Avez-vous vu ça ?
@@ -28,7 +32,7 @@ L'image ainsi capturée ressemble à une mosaïque de petites images partielles 
 
 Le principe d'un appareil plénoptique est similaire à celui d'un [appareil stéréoscopique](https://fr.wikipedia.org/wiki/appareil_stéréoscopique) produisant des "images 3D" ou du "[bullet time](https://fr.wikipedia.org/wiki/bullet_time)" célèbre depuis Matrix : en prenant plusieurs images simultanément, on capture le "[champ de lumière](https://en.wikipedia.org/wiki/light_field)" en 4D. Quatre dimensions parce qu'on reconstitue non seulement le point d'arrivée (x,y) des rayons sur l'image, mais aussi leur direction  (définie par deux angles).
 
-C'est cette information supplémentaire qui permet de recalculer la photo comme si elle était prise avec une focale différente, parmi beaucoup d'autres effets possibles. Ca parait un peu compliqué [[1]](#ref-1), mais en fait il s'agit d'utiliser de [barbares transformées de Fourier](http://drgoulu.local/2010/03/06/succes-hollywoodiens-et-transformee-de-fourier/) en 2D ou en 4D [[2]](#ref-2), des choses que les processeurs actuels savent faire à toute vitesse  ([Joseph](https://fr.wikipedia.org/wiki/Joseph_Fourier), tu étais décidément génial).
+C'est cette information supplémentaire qui permet de recalculer la photo comme si elle était prise avec une focale différente, parmi beaucoup d'autres effets possibles. Ca parait un peu compliqué [[1]](#ref-1), mais en fait il s'agit d'utiliser de [barbares transformées de Fourier](/2010/03/06/succes-hollywoodiens-et-transformee-de-fourier/) en 2D ou en 4D [[2]](#ref-2), des choses que les processeurs actuels savent faire à toute vitesse  ([Joseph](https://fr.wikipedia.org/wiki/Joseph_Fourier), tu étais décidément génial).
 
 Un appareil "plenoptique" n'est pas plus gros qu'un appareil normal, n'a pas besoin de mise au point, et présente un autre avantage inattendu : on peut ouvrir le diaphragme beaucoup plus qu'avec un appareil classique pour une même profondeur de champ. Donc on peut obtenir des profondeurs de champ exceptionnelles, ou alors réduire le temps de pose... Le prix à payer, car il y en a quand même un, est une diminution assez nette \*\* de la résolution. Ca tombe bien, on ne trouvait pas vraiment d'utilité pratique aux capteurs de plus de 10 Megapixels au moment où [Canon en annonce un de 120 Megapixels](http://www.pcpro.co.uk/news/360568/canon-unveils-120-megapixel-camera-sensor)... Mais il y a peut être des [solutions plus élégantes](http://www.youtube.com/watch?v=Z7SN7808ANI).
 

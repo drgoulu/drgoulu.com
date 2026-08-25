@@ -1,5 +1,6 @@
 ---
 title: "Nouvelles Unités de Mesure"
+slug: "nouvelles-unites-de-mesure"
 date: 2007-01-20
 categories: 
   - "cat3"
@@ -10,7 +11,7 @@ tags:
 coverImage: "ensip1.gif"
 ---
 
-[![ensip1](images/ensip1.gif)](http://drgoulu.local/wp-content/uploads/2007/01/ensip1.gif)Raymond m'a fait parvenir un document précieux : la [Norme des Unités Pifométriques](http://pifometrie.indriya.org/index.php) . Elle est aussi disponible au format pdf en plusieurs versions, [ici](http://www.allquality.org/doc-download/upload/9/0/Nouvelle_Norme.pdf) et [là](http://lancelot.pecquet.org/download/jokes/science/misc/norme_pifometrique.pdf) notamment.
+[![ensip1](images/ensip1.gif)](/wp-content/uploads/2007/01/ensip1.gif)Raymond m'a fait parvenir un document précieux : la [Norme des Unités Pifométriques](http://pifometrie.indriya.org/index.php) . Elle est aussi disponible au format pdf en plusieurs versions, [ici](http://www.allquality.org/doc-download/upload/9/0/Nouvelle_Norme.pdf) et [là](http://lancelot.pecquet.org/download/jokes/science/misc/norme_pifometrique.pdf) notamment.
 
 C'est en effet amusant de constater l'abondance d'expressions représentant des quantités approximatives, et le fait de les promouvoir au rang d'unité peut se défendre.
 

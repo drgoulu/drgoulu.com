@@ -1,5 +1,6 @@
 ---
 title: "Galaxy Zoo : l'astronomie collaborative"
+slug: "galaxy-zoo-lastronomie-collaborative"
 date: 2008-04-25
 categories: 
   - "cat2"
@@ -11,7 +12,7 @@ tags:
   - "internet"
 ---
 
-Le téléscope Hubble a pris en 18 ans des milliers de photos sur lesquelles figurent des millions de galaxies en arrière plan, qui n'ont pas directement été visées. Le projet [![](images/78254554bc42ae899b887b990c77bec9.png)](http://www.galaxyzoo.org/) consiste à [utiliser les facultés humaines des internautes](http://drgoulu.local/2008/03/07/les-ordinateurs-humains-des-captchas-a-peekasearch/) pour classer cette masse d'images de galaxies et repérer celles présentant des particularités méritant d'être observées de plus près.
+Le téléscope Hubble a pris en 18 ans des milliers de photos sur lesquelles figurent des millions de galaxies en arrière plan, qui n'ont pas directement été visées. Le projet [![](images/78254554bc42ae899b887b990c77bec9.png)](http://www.galaxyzoo.org/) consiste à [utiliser les facultés humaines des internautes](/2008/03/07/les-ordinateurs-humains-des-captchas-a-peekasearch/) pour classer cette masse d'images de galaxies et repérer celles présentant des particularités méritant d'être observées de plus près.
 
 Après inscription sur le site et un [petit tutoriel](http://www.galaxyzoo.org/Tutorial.aspx) de quelques minutes, vous pourrez commencer à dire de chaque image qui vous sera présentée si elle correspond à :
 

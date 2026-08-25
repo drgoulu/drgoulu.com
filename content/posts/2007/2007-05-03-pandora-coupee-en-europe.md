@@ -1,5 +1,6 @@
 ---
 title: "Pandora coupée en Europe !"
+slug: "pandora-coupee-en-europe"
 date: 2007-05-03
 categories: 
   - "non-classe"

@@ -1,5 +1,6 @@
 ---
 title: "Le Génome de Genève"
+slug: "le-genome-de-geneve"
 date: 2010-02-21
 categories: 
   - "cat2"
@@ -17,7 +18,7 @@ L'exposition tient dans un dôme de 15 m de diamètre et se visite en 30 minutes
 
 ![](images/ffb5cf8bcba4d91879242b5baec3eddd.jpg)
 
-On y voit aussi des videos, notamment [celle de la réplication de l'ADN](http://drgoulu.local/2008/01/06/replication-de-ladn/) qui m'émerveille à chaque fois que je la revois. Pour ma part, j'ai été surpris d'apprendre que le génôme de la vache est plus proche de celui du dauphin que du cheval. Etonnant, non ? Ah, et j'ai aussi soudain réalisé que [GATTACA](http://fr.wikipedia.org/wiki/Bienvenue_%C3%A0_Gattaca) pouvait s'écrire en bases d'ADN. M'étais toujours demandé d'où venait cet étrange nom de ce très bon film...
+On y voit aussi des videos, notamment [celle de la réplication de l'ADN](/2008/01/06/replication-de-ladn/) qui m'émerveille à chaque fois que je la revois. Pour ma part, j'ai été surpris d'apprendre que le génôme de la vache est plus proche de celui du dauphin que du cheval. Etonnant, non ? Ah, et j'ai aussi soudain réalisé que [GATTACA](http://fr.wikipedia.org/wiki/Bienvenue_%C3%A0_Gattaca) pouvait s'écrire en bases d'ADN. M'étais toujours demandé d'où venait cet étrange nom de ce très bon film...
 
 ### Liens
 

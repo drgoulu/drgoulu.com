@@ -1,5 +1,6 @@
 ---
 title: "L'obsolescence est-elle programmée ?"
+slug: "lobsolescence-est-elle-programmee-2"
 date: 2013-05-01
 categories: 
   - "cat3"
@@ -21,7 +22,7 @@ Pourtant, j'ai des doutes. Je sais que l'obsolescence programmée a été théor
 
 ## Références s'il vous plait.
 
-Car après avoir vu "Prêt à jeter" deux fois, analysé et compris la [raison de la limitation de la durée de vie des ampoules](http://drgoulu.local/2011/10/16/la-veritable-histoire-de-lampoule-de-livermore/) fréquemment citée comme preuve, lu et contribué à plusieurs forums et discussions sur le sujet, et entendu [Serge Latouche](https://fr.wikipedia.org/wiki/Serge_Latouche) face à [Alexandre Delaigue](http://econoclaste.org.free.fr/econoclaste/?p=7583) à la radio \[4\] je n'ai toujours trouvé aucun cas documenté d'obsolescence volontairement planifiée pour accroître la consommation.
+Car après avoir vu "Prêt à jeter" deux fois, analysé et compris la [raison de la limitation de la durée de vie des ampoules](/2011/10/16/la-veritable-histoire-de-lampoule-de-livermore/) fréquemment citée comme preuve, lu et contribué à plusieurs forums et discussions sur le sujet, et entendu [Serge Latouche](https://fr.wikipedia.org/wiki/Serge_Latouche) face à [Alexandre Delaigue](http://econoclaste.org.free.fr/econoclaste/?p=7583) à la radio \[4\] je n'ai toujours trouvé aucun cas documenté d'obsolescence volontairement planifiée pour accroître la consommation.
 
 Et je ne suis pas le seul. Dans un article récent dans "Pour La Science" \[5\], Alain Geldron de l'[ADEME](http://ademe.fr) confesse:
 
@@ -102,7 +103,7 @@ Voici maintenant quelques arguments qui me font penser que l'obsolescence progra
     
     3. le prix de revient du produit dépend fortement de la durée de fonctionnement prévue. Un moteur qui tourne 1000 heures ou 10'000 n'ont pas du tout le même prix.
 
-9. <span id="ref-9"></span>Or un nouveau produit, c'est très souvent une cible marketing définie par un prix. Il s'ensuit que la durée de vie, la réparabilité, la garantie etc. sont des conséquences du prix. Exemple spectaculaire: [la Swatch](http://drgoulu.local/2012/07/01/innovation/). Or je note que l'argument du prix apparaît très rarement dans le "débat" sur l'obsolescence programmée. Et si l'obsolescence était une conséquence de l'apparition de produits bon marché plutôt qu'une cause ?
+9. <span id="ref-9"></span>Or un nouveau produit, c'est très souvent une cible marketing définie par un prix. Il s'ensuit que la durée de vie, la réparabilité, la garantie etc. sont des conséquences du prix. Exemple spectaculaire: [la Swatch](/2012/06/30/innovation/). Or je note que l'argument du prix apparaît très rarement dans le "débat" sur l'obsolescence programmée. Et si l'obsolescence était une conséquence de l'apparition de produits bon marché plutôt qu'une cause ?
 
 Voici quelques expériences personnelles pour illustrer ces différents arguments:
 
@@ -124,7 +125,7 @@ Au début des années 1990, j'ai eu l'occasion d'acheter une chaîne hi-fi cens�
 
 ### L'Electrolux de ma maman
 
-Grâce à [ce commentaire](http://drgoulu.local/2011/10/16/la-veritable-histoire-de-lampoule-de-livermore/#comment-7987), zelectron m'a remémoré l'increvable aspirateur de ma maman, et de la sienne entre de nombreuses autres. Cet aspi Electrolux est tellement costaud qu'il a survécu jusqu'à YouTube:
+Grâce à [ce commentaire](/2011/10/16/la-veritable-histoire-de-lampoule-de-livermore/#comment-7987), zelectron m'a remémoré l'increvable aspirateur de ma maman, et de la sienne entre de nombreuses autres. Cet aspi Electrolux est tellement costaud qu'il a survécu jusqu'à YouTube:
 
 {{< youtube id="i3a6uV7Bp7Q" >}}
 
@@ -166,7 +167,7 @@ Pour le prix de deux films super-8 de mon papa, je peux acheter [une caméra ac
 
 ### La Deuch' de ma soeur
 
-Vous ne le savez pas, mais je vous épie. Je peux savoir sur quel lien vous avez cliqué pour arriver sur cette page, et aller voir ainsi qui parle de cet article. C'est ainsi que je suis remonté de [mon article sur l'ampoule de Livermore](http://drgoulu.local/2011/10/16/la-veritable-histoire-de-lampoule-de-livermore/) à [une discussion sur "Forum 2 Pattes](http://forum2pattes.forumactif.com/t77787p30-quand-on-construisait-quelque-chose-pour-que-ca-dure) intitulée "Quand on construisait quelque chose pour que ça dure..." et vantant l'indestructible 2CV.  J'y ai posté le commentaire suivant (légèrement édité ici):
+Vous ne le savez pas, mais je vous épie. Je peux savoir sur quel lien vous avez cliqué pour arriver sur cette page, et aller voir ainsi qui parle de cet article. C'est ainsi que je suis remonté de [mon article sur l'ampoule de Livermore](/2011/10/16/la-veritable-histoire-de-lampoule-de-livermore/) à [une discussion sur "Forum 2 Pattes](http://forum2pattes.forumactif.com/t77787p30-quand-on-construisait-quelque-chose-pour-que-ca-dure) intitulée "Quand on construisait quelque chose pour que ça dure..." et vantant l'indestructible 2CV.  J'y ai posté le commentaire suivant (légèrement édité ici):
 
 L'exemple de l'automobile m'intéresse. Prenons... la Charleston Bordeaux 1980 de ma sœur, qu'elle sort encore une ou deux fois par an. Selon [ce site](http://2cv-legende.com/decouvertes-2cv/prix-2cv) elle coûtait 24800 NF soit 3780 Euro soit 1853 heures de boulot au SMIC de l'époque ([2.04 Euro/h en 1980](http://fr.wikipedia.org/wiki/Salaire_minimum_interprofessionnel_de_croissance#.C3.89volution_historique_du_SMIC_horaire_brut_en_euros))
 
@@ -220,7 +221,7 @@ Personnellement, je pense qu'on attribue communément à l'obsolescence programm
 
 17. <span id="ref-17"></span>T. Iizuka, “[An Empirical Analysis of Planned Obsolescence](http://www.aeaweb.org/assa/2005/0107_1015_0616.pdf)” Journal of Economics Management Strategy, vol. 16, no. 1, pp. 191–226, 2007.
 
-19. <span id="ref-19"></span>\[openbook booknumber="ISBN:0674022033" templatenumber="5"\]
+19. <span id="ref-19"></span>{{< openbook booknumber="ISBN:0674022033" templatenumber="5" >}}
 
 21. <span id="ref-21"></span>Steven E. Landsburg "[Planning for Obsolescence- Not everything should last forever](http://www.slate.com/articles/arts/everyday_economics/1999/10/planning_for_obsolescence.single.html).", 1999, Slate
 

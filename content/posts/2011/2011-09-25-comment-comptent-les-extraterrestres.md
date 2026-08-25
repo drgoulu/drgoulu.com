@@ -1,5 +1,6 @@
 ---
 title: "Comment comptent les Extraterrestres"
+slug: "comment-comptent-les-extraterrestres"
 date: 2011-09-25
 categories: 
   - "cat1"
@@ -16,9 +17,9 @@ Nos (vaines) tentatives de communication avec les extraterrestres [[1]](#ref-1) 
 
 Et d'abord, quels sont les pré-requis mathématiques nécessaires pour reconstituer cette "image" à partir du message émis point par point ?
 
-La notion la plus élémentaire des maths est certainement celle de nombre entier. On peut difficilement imaginer un être intelligent qui ne soit pas confronté à des objets qu'il puisse compter sur ses tigods : 1, 2 3 etc. Et s'il est assez futé pour construire un radiotélescope capable de capter des femtowatts provenant de l'espace et assez naïf pour croire qu'une civilisation sera assez stupide pour lui envoyer des messages, il sait certainement additionner, soustraire et multiplier des nombres entiers, et en diviser certains. Et aux [autres](http://drgoulu.local/tag/nombres-premiers/), il leur voue une curiosité sans bornes pendant des siècles.
+La notion la plus élémentaire des maths est certainement celle de nombre entier. On peut difficilement imaginer un être intelligent qui ne soit pas confronté à des objets qu'il puisse compter sur ses tigods : 1, 2 3 etc. Et s'il est assez futé pour construire un radiotélescope capable de capter des femtowatts provenant de l'espace et assez naïf pour croire qu'une civilisation sera assez stupide pour lui envoyer des messages, il sait certainement additionner, soustraire et multiplier des nombres entiers, et en diviser certains. Et aux [autres](/tags/nombres-premiers/), il leur voue une curiosité sans bornes pendant des siècles.
 
-C'est ainsi qu'en recevant un message composé d'une séquence de 1681 signaux, il devrait rapidement avoir l'idée de les arranger en tableau de 41 negils par 41 neloncos, ou le contraire, ou [l'inverse](http://drgoulu.local/2009/04/04/miroir/).
+C'est ainsi qu'en recevant un message composé d'une séquence de 1681 signaux, il devrait rapidement avoir l'idée de les arranger en tableau de 41 negils par 41 neloncos, ou le contraire, ou [l'inverse](/2009/04/04/miroir/).
 
 Jusqu'ici nous n'avons pas eu besoin de la notion de [base](https://fr.wikipedia.org/wiki/base_(arithmétique)). Si les Shadoks, qui comptent en base 4 comme chacun sait, reçoivent [BUZOZOBUGABU](http://www.dcode.fr/shadoks-ga-bu-zo-meu) signaux, il en feront un carré de ZOZOBU par ZOZOBU [[3]](#ref-3), [[4]](#ref-4) : les nombres premiers le sont dans toutes les bases. De plus, toutes les bases sont des bases 10, ainsi que le démontre ce merveilleux cartoon traduit de l'anglais rien que pour vous [[5]](#ref-5) :
 

@@ -1,5 +1,6 @@
 ---
 title: "5 minutes de répit pour la planète"
+slug: "5-minutes-de-repit-pour-la-planete"
 date: 2007-02-01
 categories: 
   - "cat3"
@@ -37,7 +38,7 @@ En résumé:
 - l'éolien est encore plus capricieux
 - **l'hydro-électricité est la seule source d'électricité modulable à volonté et en plus capable de stocker l'énergie surproduite en raison de la faible modulabilité des autres sources d'énergie.**
 
-Dans [un autre article](http://drgoulu.local/2005/01/25/les-energies-renouvelables-en-suisse/), je montre que la Suisse, loin d'être en retard sur le plan des énergies renouvelables, est à la pointe européenne grâce à l'hydroélectricité. Avec l'Autriche, la Suisse est un maillon essentiel de l'approvisionnement électrique européen grâce à sa capacité à fournir la puissance nécesaire aux heures de pointe, et à absorber la surproduction nocturne, et cette position se renforcera encore.
+Dans [un autre article](/2005/01/25/les-energies-renouvelables-en-suisse/), je montre que la Suisse, loin d'être en retard sur le plan des énergies renouvelables, est à la pointe européenne grâce à l'hydroélectricité. Avec l'Autriche, la Suisse est un maillon essentiel de l'approvisionnement électrique européen grâce à sa capacité à fournir la puissance nécesaire aux heures de pointe, et à absorber la surproduction nocturne, et cette position se renforcera encore.
 
 Ce point ne doit pas être oublié lorsqu'on parle de l'énergie en Suisse : dire que notre pays e n'est pas autosuffisant car elle importe plus de KWh qu'elle n'exporte est un non-sens, car 1KWh exporté à midi vaut beaucoup plus que le même KWh importé à 4h du mat. Mon ami Jacky qui bosse dans ce domaine m'a parlé de certains jours de la canicule d'été 2003 ou le KWh acheté 2 cts la nuit pour pompage a été revendu plus d'un franc 12h plus tard ! Un facteur 10 est plus habituel, et se produit jour après jour, toute l'année.
 

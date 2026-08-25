@@ -1,5 +1,6 @@
 ---
 title: "Un petit pas pour l'homme ... dans un petit puits gravitationnel."
+slug: "un-petit-pas-pour-lhomme"
 date: 2012-09-05
 categories: 
   - "cat2"
@@ -86,7 +87,7 @@ En attendant, on pourrait commencer par installer de vraies bases spatiales aux 
 2. <span id="ref-2"></span>Jay Lindsay, "[New tape: JFK fretted moon program was tough sell](http://phys.org/news/2011-05-tape-jfk-fretted-moon-tough.html)", 25 Mai 2011, Associated Press
 3. <span id="ref-3"></span>Robert P. Dill, N. Brown R. L. Curtis, C. R. Herrmann, A. Trampus "[State-of-the-art reliability analysis of Saturn V propulsion systems](https://archive.org/download/nasa_techdoc_19930075105/19930075105.pdf)", June 1963, General Electric Report RM 63TMP-22 3
 4. <span id="ref-4"></span>Olivier Dessibourg "[Claude Nicollier: «Je partirais pour Mars même sans ticket-retour»](http://www.letemps.ch/Page/Uuid/35a549cc-a5b4-11e0-af99-7b83bebc6d53%7C0)", Le Temps, Lundi 4 juillet 2011
-5. <span id="ref-5"></span>\[openbook booknumber="OLID:OL421813M" templatenumber="5"\]
+5. <span id="ref-5"></span>{{< openbook booknumber="OLID:OL421813M" templatenumber="5" >}}
 6. <span id="ref-6"></span>"[L'espace, un rêve trop cher ?](http://www.sciences-et-democratie.net/dossiers-et-debats/recherche-et-innovation/lespace-un-reve-trop-cher)" 16 mai 2011 sur Sciences et Démocratie
 7. <span id="ref-7"></span>"[Puits gravitationnel et missions spatiales](http://expliquenoustout.blogspot.ch/2011/05/puits-gravitationnel-et-missions.html)", 2011 sur Explique nous tout !
 8. <span id="ref-8"></span>Randall Munroe ["Gravity Wells" sur xkcd](http://xkcd.com/681/)

@@ -1,5 +1,6 @@
 ---
 title: "Perspective Suisse 2008"
+slug: "perspective-suisse-2008"
 date: 2008-10-29
 categories: 
   - "cat3"
@@ -9,7 +10,7 @@ tags:
 coverImage: "4775e8be4ec082de33ec095c2914df7a.png"
 ---
 
-[La version 2008](http://www.vimentis.ch/umfrage/?ref2=c661989f3f) du désormais traditionnel sondage politique organisé par les principaux partis suisse est lancée. Par rapport à [l'année passée](http://drgoulu.local/2007/10/29/perspective-suisse-2007-et-2006/), les questions me semblent mieux posées et moins tendancieuses, à l'exception de “_Dans les écoles à fort taux de criminalité, la présence policière est augmentée._” qui est encore présente cette année, à ma grande stupéfaction.
+[La version 2008](http://www.vimentis.ch/umfrage/?ref2=c661989f3f) du désormais traditionnel sondage politique organisé par les principaux partis suisse est lancée. Par rapport à [l'année passée](/2007/10/29/perspective-suisse-2007-et-2006/), les questions me semblent mieux posées et moins tendancieuses, à l'exception de “_Dans les écoles à fort taux de criminalité, la présence policière est augmentée._” qui est encore présente cette année, à ma grande stupéfaction.
 
 Ce qui me frappe dans l'édition 2008, c'est la fréquence du mot "interdit". Que l'on parle de l'accès des mineurs à l'alcool, de l'achat de bagnoles gourmandes ou de nombreux autres sujets, les solutions envisagées partagent ce mot : interdit. Quand on trouve un "encouragement", il laisse un petit goût amer : _"Pour encourager l’économie d’énergie, la confédération prélève une taxe sur l’électricité d'une 20% du prix initial."_ ...
 
@@ -24,8 +25,8 @@ Un certain nombre de questions concernent la "concurrence fiscale", et sur ce su
 
 Impôts toujours : il semble qu'il y ait quelques idées dans l'air concernant la simplification des calculs et des déclarations. C'est pas trop tôt. Mais la vraie bonne idée qui manque c'est celle ci : **une déclaration unifiée pour toute la Suisse**, puis chaque canton + confédération fait son petit calcul d'apothicaire spécifique sur cette même base. Les gens qui ont un bout de chalet dans un autre canton en ont vraiment marre de remplir 3 déclarations.
 
-Bref, si vous habitez la Suisse, [participez à cet important sondage](http://www.vimentis.ch/umfrage/?ref2=c661989f3f). En prime, en indiquant votre adresse e-mail vous recevrez un petit résumé des résultats déjà disponibles avec votre positionnement [politique sur 2 dimensions](http://drgoulu.local/2007/08/24/politique-a-2-dimensions/), la meilleure manière de comprendre la politique pour un scientifique. Mon profil est là :
+Bref, si vous habitez la Suisse, [participez à cet important sondage](http://www.vimentis.ch/umfrage/?ref2=c661989f3f). En prime, en indiquant votre adresse e-mail vous recevrez un petit résumé des résultats déjà disponibles avec votre positionnement [politique sur 2 dimensions](/2007/08/24/politique-a-2-dimensions/), la meilleure manière de comprendre la politique pour un scientifique. Mon profil est là :
 
-[![](images/4775e8be4ec082de33ec095c2914df7a.png "pers2008")](http://drgoulu.local/wp-content/uploads/HLIC/4775e8be4ec082de33ec095c2914df7a.png)
+[![](images/4775e8be4ec082de33ec095c2914df7a.png "pers2008")](/wp-content/uploads/HLIC/4775e8be4ec082de33ec095c2914df7a.png)
 
 Tiens, je suis noté plus à droite que la denière fois... ça doit être parce que je m'interdis d'interdire ...

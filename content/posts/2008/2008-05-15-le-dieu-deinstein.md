@@ -1,5 +1,6 @@
 ---
 title: "Le Dieu d'Einstein"
+slug: "le-dieu-deinstein"
 date: 2008-05-15
 categories: 
   - "cat1"
@@ -32,7 +33,7 @@ D'autres sources laissent penser qu'Einstein était [agnostique](https://fr.wiki
 - "_Je ne peux pas imaginer un Dieu qui récompense et punit l'objet de sa création. Je ne peux pas me figurer un Dieu qui réglerait sa volonté sur l'expérience de la mienne. Je ne veux pas et je ne peux pas concevoir un être qui survivrait à la mort de son corps. Si de pareilles idées se développent en un esprit, je le juge faible, craintif et stupidement égoïste._" (Albert Einstein, Comment je vois le monde / 1934)
 - "_Cette conviction, liée à un sentiment profond d'une raison supérieure, se dévoilant dans le monde de l'expérience, traduit pour moi l'idée de Dieu._" (Albert Einstein, Comment je vois le monde / 1934)
 - "**_Définissez-moi d’abord ce que vous entendez par Dieu et je vous dirai si j'y crois._**"
-- "_Le hasard, c'est Dieu qui se promène incognito._" (23.6.2017 : [probablement apocryphe](http://drgoulu.local/2008/11/26/ce-queinstein-na-jamais-dit/#comment-3381871056))
+- "_Le hasard, c'est Dieu qui se promène incognito._" (23.6.2017 : [probablement apocryphe](/2008/11/26/ce-queinstein-na-jamais-dit/#comment-3381871056))
 - "_La science sans religion est boiteuse, la religion sans science est aveugle._"
 - "_Ce qui m'intéresse vraiment c'est de savoir si Dieu avait un quelconque choix en créant le monde._"
 - "_L'escalier de la science est l'échelle de Jacob, il ne s'achève qu'aux pieds de Dieu._"

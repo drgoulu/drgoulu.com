@@ -1,5 +1,6 @@
 ---
 title: "Trop-plein des Andes"
+slug: "trop-plein-des-andes"
 date: 2014-08-30
 categories: 
   - "cat3"
@@ -12,7 +13,7 @@ tags:
 coverImage: "lima_museo_de_oro.jpg"
 ---
 
-Après "[L'adaptation à l'altitude](http://drgoulu.local/2014/08/17/ladaptation-a-laltitude/ "L’adaptation à l’altitude")" que j'ai eu le temps d'écrire, mes autres idées d'articles andins finissent dans ce trop-plein d'août:
+Après "[L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/ "L’adaptation à l’altitude")" que j'ai eu le temps d'écrire, mes autres idées d'articles andins finissent dans ce trop-plein d'août:
 
 - La coca
 - Les camélidés américains
@@ -33,7 +34,7 @@ Pour les européens, la feuille de [coca](https://fr.wikipedia.org/wiki/coca) fa
 - l'[ecgonine](https://fr.wikipedia.org/wiki/ecgonine) qui agit au niveau du métabolisme des glucides, générant de l'énergie, il est un complément aux diètes.
 - l'[inuline](https://fr.wikipedia.org/wiki/inuline) rafraîchit et améliore le fonctionnement du foie, la sécrétion de la bile et son accumulation dans la vésicule ; diurétique, aide à l'élimination des substances nocives et toxiques non physiologiques. C’est un polysaccharide qui produit une augmentation des cellules sanguines.
 
-Trois substances en particulier permettent de combattre le [mal aigu des montagnes](https://fr.wikipedia.org/wiki/mal_aigu_des_montagnes) si vous n'êtes pas [génétiquement modifié](http://drgoulu.local/2014/08/17/ladaptation-a-laltitude/ "L’adaptation à l’altitude"):
+Trois substances en particulier permettent de combattre le [mal aigu des montagnes](https://fr.wikipedia.org/wiki/mal_aigu_des_montagnes) si vous n'êtes pas [génétiquement modifié](/2014/08/17/ladaptation-a-laltitude/ "L’adaptation à l’altitude"):
 
 - la [hygrine](https://fr.wikipedia.org/wiki/hygrine) qui a des vertus sur la circulation sanguine,
 - la [pyridine](https://fr.wikipedia.org/wiki/pyridine) qui stimule la circulation sanguine, facilitant l'oxygénation - particulièrement du cerveau - réduit par l'écoulement plus lent du sang, à cause de la [polyglobulie](https://fr.wikipedia.org/wiki/polyglobulie)

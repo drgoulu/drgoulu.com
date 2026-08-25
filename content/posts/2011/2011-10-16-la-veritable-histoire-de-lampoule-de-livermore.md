@@ -1,5 +1,6 @@
 ---
 title: "La véritable histoire de l'ampoule de Livermore"
+slug: "la-veritable-histoire-de-lampoule-de-livermore"
 date: 2011-10-16
 categories: 
   - "cat3"
@@ -44,6 +45,6 @@ _(paragraphe édité le 8.5.2016 après le commentaire d'Elladan)_ Alors comment
 ### Références
 
 1. <span id="ref-1"></span>"[Report on the Supply of Electric Lamps](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/235313/0287.pdf)", 1953, The Monopolies and Restrictives Practice Commission, Report 287
-2. <span id="ref-2"></span>\[openbook booknumber="ISBN:0-07020974-X" templatenumber="5"\]
+2. <span id="ref-2"></span>{{< openbook booknumber="ISBN:0-07020974-X" templatenumber="5" >}}
 3. <span id="ref-3"></span>Donald L. Klipstein (Jr), "[The Great Internet Light Bulb Book, Part I:Incandescent including halogen light bulbs](http://donklipstein.com/bulb1.html)"
 4. <span id="ref-4"></span>[A Shelby Bulbs, Annapolis Tests](http://www.centennialbulb.org/annapolis-test.htm) sur le site officiel de l'ampoule de Livermore

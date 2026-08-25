@@ -1,5 +1,6 @@
 ---
 title: "Dr. Goulu rejoint le C@fé des Sciences"
+slug: "dr-goulu-rejoint-le-cfe-des-sciences"
 date: 2008-06-10
 categories: 
   - "non-classe"
@@ -20,6 +21,6 @@ Revenons à Paul Erdös pour relever le niveau de ce billet. Ce mathématicien h
 - les 6593 cosignataires d'articles écrits avec ces 504 auteurs reçoivent un nombre d'Erdös = 2
 - et ainsi de suite. Le "[Erdös Number Project](http://www.oakland.edu/enp/)" possède actuellement un graphe de 1.9 millions d'articles publiés par 420'000 auteurs, ce qui permet d'en tirer toutes sortes de statistiques intéressantes sur la publication des mathématiciens.
 
-Des études de ce type permettent de synthétiser et visualiser la collaboration comme dans la magnifique [Carte des Sciences](http://drgoulu.local/2007/06/07/carte-des-sciences/), mais aussi pour étudier les réseaux sociaux sur le Web 2.0, ou le mécanisme de publication sur les blogs excellement étudié dans "[Généalogie (in)signifiante de mèmes](http://tomroud.owni.fr/2008/03/29/genealogie-insignifiante-de-memes/ "Généalogie (in)signifiante de mèmes")" par TomRoud.com.
+Des études de ce type permettent de synthétiser et visualiser la collaboration comme dans la magnifique [Carte des Sciences](/2007/06/07/carte-des-sciences/), mais aussi pour étudier les réseaux sociaux sur le Web 2.0, ou le mécanisme de publication sur les blogs excellement étudié dans "[Généalogie (in)signifiante de mèmes](http://tomroud.owni.fr/2008/03/29/genealogie-insignifiante-de-memes/ "Généalogie (in)signifiante de mèmes")" par TomRoud.com.
 
 C'est un membre du C@fé, la boucle est bouclée.

@@ -1,5 +1,6 @@
 ---
 title: "Maths et Art"
+slug: "maths-et-art"
 date: 2007-09-19
 categories: 
   - "cat2"
@@ -13,7 +14,7 @@ Les maths, ça peut être très beau. Si si. Il y a même des artistes qui utili
 
  [![](images/b98a6af36cbc5269e7bf566c65613be7.jpg) _Supershape Combo 5_](http://www.renderosity.com/mod/gallery/index.php?image_id=852417&member) _de [Luc Benard](http://www.renderosity.com/mod/gallery/browse.php?user_id=119539)_
 
- Cette image est une combinaison de surfaces calculées avec la géniale formule mathématique des "[supershapes 3D](http://paulbourke.net/miscellaneous/supershape3d/)" dont je reparlerai très bientôt, puisque mon projet projet "[Supershape Exporer : a first experience with DevLib](http://drgoulu.local/)" commencé en 2004 a repris avec [Hyperion.](http://drgoulu.local/)
+ Cette image est une combinaison de surfaces calculées avec la géniale formule mathématique des "[supershapes 3D](http://paulbourke.net/miscellaneous/supershape3d/)" dont je reparlerai très bientôt, puisque mon projet projet "[Supershape Exporer : a first experience with DevLib](/)" commencé en 2004 a repris avec [Hyperion.](/)
 
 En admirant les autres oeuvres de [Luc Benard](http://www.renderosity.com/mod/gallery/browse.php?user_id=119539), je suis tombé  sur celle-ci, montrant d'autres objets mathématiques intéressants :
 
@@ -30,4 +31,4 @@ le [Virtual Math Museum](http://virtualmathmuseum.org) propose également une [l
 - Brian Johnston, qui considère les maths comme un prolongement de son microscope dans [cet article extraordinaire](http://www.microscopy-uk.org.uk/mag/artjan06/bjmaths.html) où il  décrit en détail le moyen de produire des images comme celle-ci : ![](images/74f1ab9c0b077ffcff97c3da9c14de63.jpg)
 - [Paul Nylander](http://bugman123.com/), dont le site hyper surchargé et illisible cache des centaines de merveilles, à tel point que j'ai envie de lui en créer un nouveau rien que pour lui ...
 
-[](http://drgoulu.local/)
+[](/)

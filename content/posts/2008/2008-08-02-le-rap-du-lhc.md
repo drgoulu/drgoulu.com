@@ -1,5 +1,6 @@
 ---
 title: "Le rap du LHC"
+slug: "le-rap-du-lhc"
 date: 2008-08-02
 categories: 
   - "non-classe"

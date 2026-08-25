@@ -1,5 +1,6 @@
 ---
 title: "Qui joue aux jeux video ?"
+slug: "qui-joue-aux-jeux-video"
 date: 2008-04-27
 categories: 
   - "cat3"

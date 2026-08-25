@@ -1,5 +1,6 @@
 ---
 title: "Le postier chinois de Königsberg"
+slug: "le-postier-chinois-de-konigsberg"
 date: 2013-11-22
 categories: 
   - "cat1"
@@ -32,7 +33,7 @@ Ce résultat d'Euler marque le début de la [théorie des graphes](https://fr.w
 
 _(à partir de là c'est du pur Dr. Goulu)_
 
-A part dans les casse-tête, on trouve très souvent en pratique des problèmes pouvant être résolus grâce à la théorie des graphes. Par exemple, [avant de faire joli](http://drgoulu.local/2010/06/13/optimisation-de-la-joconde/) avec le [problème du voyageur de commerce](https://fr.wikipedia.org/wiki/problème_du_voyageur_de_commerce) (TSP), j'avais eu l'occasion de le rencontrer dans l'optimisation des mouvements d'une machine à percer les circuits électroniques.
+A part dans les casse-tête, on trouve très souvent en pratique des problèmes pouvant être résolus grâce à la théorie des graphes. Par exemple, [avant de faire joli](/2010/06/14/optimisation-de-la-joconde/) avec le [problème du voyageur de commerce](https://fr.wikipedia.org/wiki/problème_du_voyageur_de_commerce) (TSP), j'avais eu l'occasion de le rencontrer dans l'optimisation des mouvements d'une machine à percer les circuits électroniques.
 
 Dans le TSP, le but est de trouver le circuit (fermé) dit "[cycle hamiltonien](https://fr.wikipedia.org/wiki/cycle_hamiltonien)" passant par tous les points d'un graphe, et dont le coût soit minimum, en pratique celui dans lequel la distance totale à parcourir (ou mieux encore le temps nécessaire) est minimum. A Königsberg, un voyageur de commerce aurait l'embarras du choix d'un circuit lui permettant de visiter ses clients sur les 4 terres, mais s'il devait s'acquitter de péages différents selon les ponts, un petit calcul lui serait nécessaire. Pour des problèmes de taille réelle, trouver le minimum absolu est horriblement difficile voire impossible, mais il existe des méthodes itératives qui convergent assez rapidement vers des solutions raisonnablement proches de l'optimum.
 

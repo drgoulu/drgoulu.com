@@ -1,5 +1,6 @@
 ---
 title: "Bon anniversaire, Richard Feynman!"
+slug: "bon-anniversaire-richard-feynman"
 date: 2018-05-11
 categories: 
   - "cat1"
@@ -13,7 +14,7 @@ tags:
 
 Du projet Manhattan à la commission d'enquête sur l'accident de la navette spatiale Challenger en passant par le prix Nobel de physique en 1965, la vie de Feynman à été remplie de contributions de très haut niveau.
 
-Mais Feynman était aussi un vulgarisateur scientifique passionné et passionnant. J'ai traduit en français [la science est la croyance en l'ignorance des experts](http://drgoulu.local/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/), sa conférence sur la science et sa pédagogie, et [il y a plein de place en bas](http://drgoulu.local/2009/06/11/il-y-a-plein-de-place-en-bas-2/), sa vision prémonitoire de la miniaturisation.
+Mais Feynman était aussi un vulgarisateur scientifique passionné et passionnant. J'ai traduit en français [la science est la croyance en l'ignorance des experts](/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/), sa conférence sur la science et sa pédagogie, et [il y a plein de place en bas](/2009/06/11/il-y-a-plein-de-place-en-bas-2/), sa vision prémonitoire de la miniaturisation.
 
 Pour ses 100 ans je voulais lui+vous offrir la traduction d'un interview où il est très emprunté pour répondre à une question apparemment toute simple pour un physicien de son niveau : pourquoi deux aimants se repoussent.
 

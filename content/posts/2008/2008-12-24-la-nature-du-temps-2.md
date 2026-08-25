@@ -1,5 +1,6 @@
 ---
 title: "La Nature du Temps"
+slug: "la-nature-du-temps-2"
 date: 2008-12-24
 categories: 
   - "cat1"
@@ -14,7 +15,7 @@ L' "institut des questions fondamentales en physique et cosmologie" [fq(x)](http
 
 C'est un succès : [une bonne centaine d'articles ont été soumis](http://fqxi.org/community/forum/category/10), les forums de discussion attachés à certains article sont très animés, et le public peut [voter](http://fqxi.org/community/essay) jusqu'au 1er janvier 2009 pour désigner la meilleure contribution.
 
-La plupart des essais tentent de réconcilier les deux conceptions du temps fondamentalement différentes (déja esquissées dans "[Peut-On Voyager dans le Temps](http://drgoulu.local/2008/06/19/peut-on-voyager-dans-le-temps/)"):
+La plupart des essais tentent de réconcilier les deux conceptions du temps fondamentalement différentes (déja esquissées dans "[Peut-On Voyager dans le Temps](/2008/06/19/peut-on-voyager-dans-le-temps/)"):
 
 1. l' "[éternalisme](https://fr.wikipedia.org/wiki/éternalisme)", ou théorie de l'Univers-Bloc, qui découle logiquement de la théorie de la relativité.
 2. le "[présentisme](https://fr.wikipedia.org/wiki/présentisme)", résultant d'une vision quantique du monde.
@@ -27,7 +28,7 @@ Dans la sa version la plus simplifiée,  l'Univers-bloc ressemble à un "flipbo
 
 Si on considère le  "flipbook" comme un "univers" à 2 dimensions spatiales (où l'on dessine) + 1 temporelle (les pages qu'on feuillette) , on peut imaginer l'Univers-bloc comme ayant 3 dimensions spatiales,plus la fameuse 4ème dimension du temps.  Le "présent" ne serait alors qu'une "tranche" à 3 dimensions traversant l'Univers selon l'axe du temps à la vitesse d'une seconde par seconde.
 
-![](images/88c60e6a18c4653a5060e68e9512d470.png)L'Univers-bloc est une solution de l'[équation d'Einstein](https://fr.wikipedia.org/wiki/équation_d'Einstein), dans lequel [le temps est une 4ème dimension imaginaire](http://drgoulu.local/2007/02/07/le-temps-une-4eme-dimension-imaginaire/ "le temps, une 4ème dimension imaginaire") au sens mathématique du terme. Ceci permet de très bien décrire la relativité, au point que Ken Wharton considère dans "[Lessons from the Block Universe"](http://fqxi.org/community/forum/topic/311) ,  que
+![](images/88c60e6a18c4653a5060e68e9512d470.png)L'Univers-bloc est une solution de l'[équation d'Einstein](https://fr.wikipedia.org/wiki/équation_d'Einstein), dans lequel [le temps est une 4ème dimension imaginaire](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/ "le temps, une 4ème dimension imaginaire") au sens mathématique du terme. Ceci permet de très bien décrire la relativité, au point que Ken Wharton considère dans "[Lessons from the Block Universe"](http://fqxi.org/community/forum/topic/311) ,  que
 
 > L'univers-bloc est de loin le meilleur cadre (framework) pour les théories physiques, du fait que la relativité générale est simplement incompatible avec toute alternative
 
@@ -35,7 +36,7 @@ En effet, dans l'Univers-bloc, chaque point de l'Univers peut avoir son propre "
 
 De plus, comme non seulement la théorie d'Albert, mais aussi de nombreuses expériences montrent que le temps ne s'écoule pas partout à la même vitesse, nous sommes amenés à imaginer que le passé et le futur sont aussi des notions "locales", et que le seul moyen de rendre le passé d'un point cohérent avec le futur des autres est de considérer que tout "préexiste".
 
-Dans l'Univers-bloc, le passé existe encore et le futur existe déjà. Ils sont prédéfinis. L'Univers-bloc est déterministe, figé, et notre libre-arbitre est une magnifique illusion. Notons en passant que le [voyage dans le temps](http://drgoulu.local/2008/06/19/peut-on-voyager-dans-le-temps/) n'est pas exclu dans l'Univers-bloc, mais il est limité à des particules "tournant en rond" sur de boucles figées, ce qui exclut toute possibilité de "modifier le passé".
+Dans l'Univers-bloc, le passé existe encore et le futur existe déjà. Ils sont prédéfinis. L'Univers-bloc est déterministe, figé, et notre libre-arbitre est une magnifique illusion. Notons en passant que le [voyage dans le temps](/2008/06/19/peut-on-voyager-dans-le-temps/) n'est pas exclu dans l'Univers-bloc, mais il est limité à des particules "tournant en rond" sur de boucles figées, ce qui exclut toute possibilité de "modifier le passé".
 
 Outre une réalité difficile à accepter par les "animaux prétentieux" que nous sommes, l'Univers-bloc est totalement contradictoire avec la mécanique quantique, qui démontre par de très nombreuses expériences aussi que le hasard est fondamental en physique.
 

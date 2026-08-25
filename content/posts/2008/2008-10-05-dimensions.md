@@ -1,5 +1,6 @@
 ---
 title: "Dimensions"
+slug: "dimensions"
 date: 2008-10-05
 categories: 
   - "cat1"
@@ -19,7 +20,7 @@ Diffusé sous licence "Creative Commons" et donc disponible gratuitement, vous 
 
 - Ca [commence très simplement](http://www.dimensions-math.org/Dim_CH1.htm) avec la cartographie et la notion de projection : comment représenter la sphère terrestre sur un plan
 - On [poursuit](http://www.dimensions-math.org/Dim_CH2.htm) avec Escher, artiste géomètre ([que j'adore](http://3dmon.wordpress.com/2007/05/19/escher/)) et [FlatLand](http://fr.wikipedia.org/wiki/Flatland), qui permet d'illustrer la notion de dimension supérieure en décrivant ce que verraient des êtres à 2 dimensions si un objet à 3 dimensions traversait leur univers.
-- Les chapitres 3 et 4 présentent la 4ème dimension d'une façon plus complète et mieux illustrée que [je l'ai fait](http://drgoulu.local/2007/02/06/voir-en-4-dimensions/). J'y ai surtout appris l'existence d'un illustre compatriote de plus : [Ludwig Schläfli](http://fr.wikipedia.org/wiki/Ludwig_Schl%C3%A4fli) et découvert la puissance insoupçonnée de la projection stéréographique.
+- Les chapitres 3 et 4 présentent la 4ème dimension d'une façon plus complète et mieux illustrée que [je l'ai fait](/2007/02/06/voir-en-4-dimensions/). J'y ai surtout appris l'existence d'un illustre compatriote de plus : [Ludwig Schläfli](http://fr.wikipedia.org/wiki/Ludwig_Schl%C3%A4fli) et découvert la puissance insoupçonnée de la projection stéréographique.
 - Les nombres complexes font l'objet des [chapitres 5 et 6](http://www.dimensions-math.org/Dim_CH5.htm), peu intéressants si vous maitrisez déjà le sujet. Dans ce cas sautez au milieu du chapitre 6 ou on présente les transformations, puis la "dynamique holomorphe" qui donne naissance aux célèbres fractales de Julia et Mandelbrot, entre autres.
 - ![](images/CH78_B.JPG)Les [chapitres 7 et 8](http://www.dimensions-math.org/Dim_CH7.htm) présentent quelques notions de topologie, dont la fibration de Hopf. Là par contre, le contenu est très dense, il faudra que je revoie ce sujet au ralenti pour pouvoir prétendre avoir tout compris... Heureusement, j'ai pu me raccrocher aux [Cercles de Villarceau](http://fr.wikipedia.org/wiki/Cercles_de_Villarceau) et aux [Cyclides de Dupin](http://en.wikipedia.org/wiki/Dupin_cyclide)
 - Le [dernier chapitre](http://www.dimensions-math.org/Dim_CH9.htm) est un peu particulier : il traite de la preuve en mathématiques et démontre de façon illustrée mais rigoureuse la propriété essentielle de la projection stéréographique : elle transforme un cercle tracé sur la sphère, qui ne passe pas par le pôle nord en un cercle tracé dans le plan tangent au pôle sud.

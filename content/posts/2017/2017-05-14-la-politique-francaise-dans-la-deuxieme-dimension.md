@@ -1,5 +1,6 @@
 ---
 title: "La politique française dans la 2ème dimension ?"
+slug: "la-politique-francaise-dans-la-deuxieme-dimension"
 date: 2017-05-14
 categories: 
   - "cat1"
@@ -17,7 +18,7 @@ Parmi les questions que je me suis posées lors du traditionnel raout quinquenna
 
 ## Le deuxième axe politique
 
-J'ai découvert la "[politique à deux dimensions"](http://drgoulu.local/2007/08/24/politique-a-2-dimensions/) il y a 10 ans grâce à Smartvote.ch, dont je reparlerai plus bas : plusieurs politologues considèrent que le positionnement "[gauche / droite](https://fr.wikipedia.org/wiki/gauche_et_droite_en_politique)" n'est pas suffisant pour représenter la variété des opinions politiques et ont proposé des représentations bidimensionnelle comme le [diagramme de Nolan](https://fr.wikipedia.org/wiki/diagramme_de_Nolan) ou le [quadrant politique](https://fr.wikipedia.org/wiki/quadrant_politique).
+J'ai découvert la "[politique à deux dimensions"](/2007/08/24/politique-a-2-dimensions/) il y a 10 ans grâce à Smartvote.ch, dont je reparlerai plus bas : plusieurs politologues considèrent que le positionnement "[gauche / droite](https://fr.wikipedia.org/wiki/gauche_et_droite_en_politique)" n'est pas suffisant pour représenter la variété des opinions politiques et ont proposé des représentations bidimensionnelle comme le [diagramme de Nolan](https://fr.wikipedia.org/wiki/diagramme_de_Nolan) ou le [quadrant politique](https://fr.wikipedia.org/wiki/quadrant_politique).
 
 Mais dans ces représentations, le deuxième axe est défini a priori : "Libertarien / Populiste" pour certains, "Progressiste / Conservateur" pour d'autres, "Autoritaire / Libertaire" pour d'autres encore, le deuxième axe est moins bien défini, moins clair que l'axe gauche / droite.
 
@@ -49,7 +50,7 @@ Outre la correspondance électeur/candidat déjà mentionnée, il devient possib
 
 - De produire très facilement des cartes du "paysage politique" comme celle-ci contre
 - D'appliquer une approche similaire aux consignes de vote des partis lors des nombreux référendums en Suisse, pour obtenir une [carte animée de l'évolution](http://sotomo.ch/wp/wp-content/uploads/2014/06/polraum1_optimiert.gif) du "positionnement marketing" des partis sur 30 ans a été produite [[3]](#ref-3). On y voit en particulier le spectaculaire repositionnement de l'UDC (SVP en allemand) comme parti conservateur.
-- De vérifier que le positionnement habituel des votants de chaque circonscription ne varie pas brutalement lors d'un vote, ce qui donne une méthode de [détection de fraude électorale](http://drgoulu.local/2012/12/07/fraudez-benford/) (peu) connue sous le nom de "test du modèle binomial robuste sur-dispersé". J'ai eu l'occasion de la découvrir lors de mon passage à la Commission Electorale Centrale du Canton de Genève.
+- De vérifier que le positionnement habituel des votants de chaque circonscription ne varie pas brutalement lors d'un vote, ce qui donne une méthode de [détection de fraude électorale](/2012/12/07/fraudez-benford/) (peu) connue sous le nom de "test du modèle binomial robuste sur-dispersé". J'ai eu l'occasion de la découvrir lors de mon passage à la Commission Electorale Centrale du Canton de Genève.
 
 ## Axe principal, secondaire, et 3ème axe
 

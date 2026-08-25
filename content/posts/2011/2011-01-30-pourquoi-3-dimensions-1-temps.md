@@ -1,5 +1,6 @@
 ---
 title: "Pourquoi 3 dimensions + 1 temps ?"
+slug: "pourquoi-3-dimensions-1-temps"
 date: 2011-01-30
 categories: 
   - "cat1"
@@ -17,15 +18,15 @@ La vie dans un espace à 2 dimensions (+1 temps)  a été imaginée dès 1884 d
 
 {{< youtube id="C8oiwnNlyE4" width="640" >}}
 
-Un siècle plus tard, A.K. Dewdney a traité de manière beaucoup plus "scientifique" la physique, la chimie et la biologie dans "[Le Planivers](https://fr.wikipedia.org/wiki/Le_Planivers)" [[3]](#ref-3), répondant au passage à une objection de Dave Goldberg : oui, il est possible de croiser deux fils dans le Planivers, [comme indiqué ici](http://www-cs-faculty.stanford.edu/~eroberts/courses/soco/projects/2005-06/planiverse/designs.html), donc de réaliser des ordinateurs en 2D, comme le montre également le "[Jeu de la Vie](http://drgoulu.local/2009/03/29/la-resurrection-du-jeu-de-la-vie/)" qui est une machine "[Turing complète](https://fr.wikipedia.org/wiki/Turing_complète)"
+Un siècle plus tard, A.K. Dewdney a traité de manière beaucoup plus "scientifique" la physique, la chimie et la biologie dans "[Le Planivers](https://fr.wikipedia.org/wiki/Le_Planivers)" [[3]](#ref-3), répondant au passage à une objection de Dave Goldberg : oui, il est possible de croiser deux fils dans le Planivers, [comme indiqué ici](http://www-cs-faculty.stanford.edu/~eroberts/courses/soco/projects/2005-06/planiverse/designs.html), donc de réaliser des ordinateurs en 2D, comme le montre également le "[Jeu de la Vie](/2009/03/29/la-resurrection-du-jeu-de-la-vie/)" qui est une machine "[Turing complète](https://fr.wikipedia.org/wiki/Turing_complète)"
 
 Un univers à N=1 dimension (+1 temps) n'est pas imaginable en physique, mais du point de vue artistique j'aime beaucoup "la Linea" de mon enfance, un dessin animé minimaliste en "1½ D" avec interventions ponctuelles d'un Créateur tridimensionnel :
 
 {{< youtube id="I86bXhxkXIA" >}}
 
-A propos d'un univers à [N=4 dimensions spatiales](http://drgoulu.local/2007/02/06/voir-en-4-dimensions/) (+1 temps toujours), Dave Goldberg mentionne un fait que je n'avais pas réalisé : l'action des forces n'y diminue pas comme l'inverse du carré de la distance comme dans notre univers, mais comme l'inverse du cube de la distance. Ceci fait notamment qu'aucune planète à 4 dimensions ne peut décrire une orbite stable autour de son soleil hypersphérique. Le problème ne s'arrangeant pas en augmentant les dimensions il faut se rendre à l'évidence : un univers "fertile", où la complexité peut se développer jusqu'à permettre des formes de vie ne peut avoir que N=3 dimensions, ou à la rigueur 2.
+A propos d'un univers à [N=4 dimensions spatiales](/2007/02/06/voir-en-4-dimensions/) (+1 temps toujours), Dave Goldberg mentionne un fait que je n'avais pas réalisé : l'action des forces n'y diminue pas comme l'inverse du carré de la distance comme dans notre univers, mais comme l'inverse du cube de la distance. Ceci fait notamment qu'aucune planète à 4 dimensions ne peut décrire une orbite stable autour de son soleil hypersphérique. Le problème ne s'arrangeant pas en augmentant les dimensions il faut se rendre à l'évidence : un univers "fertile", où la complexité peut se développer jusqu'à permettre des formes de vie ne peut avoir que N=3 dimensions, ou à la rigueur 2.
 
-Plus une seule dimension de temps, toujours. Quelle que soit la "[nature du temps](http://drgoulu.local/2008/12/24/la-nature-du-temps-2/)" on n'y coupe pas : au niveau macroscopique bien décrit par la relativité d'Albert, le [temps est décrit par une dimension imaginaire](http://drgoulu.local/2007/02/07/le-temps-une-4eme-dimension-imaginaire/), au sens mathématique des nombres complexes. Evidemment, sans temps un univers serait désespérément statique et sans intérêt.
+Plus une seule dimension de temps, toujours. Quelle que soit la "[nature du temps](/2008/12/24/la-nature-du-temps-2/)" on n'y coupe pas : au niveau macroscopique bien décrit par la relativité d'Albert, le [temps est décrit par une dimension imaginaire](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/), au sens mathématique des nombres complexes. Evidemment, sans temps un univers serait désespérément statique et sans intérêt.
 
 Mais peut-on imaginer un temps à plus d'une dimension ? Mathématiquement ça ne pose pas trop de problèmes et les caractéristiques de tels univers ont été étudiées, notamment par [Max Tegmark](https://fr.wikipedia.org/wiki/Max_Tegmark). Son très intéressant article [[4]](#ref-4) soulève la difficulté majeure posée par un univers à plusieurs dimensions de temps :
 
@@ -43,7 +44,7 @@ Le tableau exhibe aussi une jolie symétrie entre entre dimensions spatiales et 
 
 ## Références:
 
-1. <span id="ref-1"></span>\[openbook booknumber="ISBN:9780470496510" templatenumber="5"\]
-2. <span id="ref-2"></span>\[openbook booknumber="OLID:OL20431791M" templatenumber="5"\] (texte intégral en [français en pdf](http://www.ebooksgratuits.com/pdf/abbot_flatland.pdf))
-3. <span id="ref-3"></span>\[openbook booknumber="ISBN:2904184201" templatenumber="5"\]
+1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:9780470496510" templatenumber="5" >}}
+2. <span id="ref-2"></span>{{< openbook booknumber="OLID:OL20431791M" templatenumber="5" >}} (texte intégral en [français en pdf](http://www.ebooksgratuits.com/pdf/abbot_flatland.pdf))
+3. <span id="ref-3"></span>{{< openbook booknumber="ISBN:2904184201" templatenumber="5" >}}
 4. <span id="ref-4"></span>{{< altmetric doi="10.1088/0264-9381/14/4/002" float="right" >}}Max Tegmark, "[On the dimensionality of spacetime](http://arxiv.org/PS_cache/gr-qc/pdf/9702/9702052v2.pdf)", 1997, [arXiv:gr-qc/9702052v2](http://arxiv.org/abs/gr-qc/9702052v2), DOI [10.1088/0264-9381/14/4/002](http://arxiv.org/ct?url=http%3A%2F%2Fdx.doi.org%2F10%252E1088%2F0264-9381%2F14%2F4%2F002&v=6f2319a0)

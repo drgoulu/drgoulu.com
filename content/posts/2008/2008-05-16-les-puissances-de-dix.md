@@ -1,5 +1,6 @@
 ---
 title: "Les puissances de dix"
+slug: "les-puissances-de-dix"
 date: 2008-05-16
 categories: 
   - "cat1"

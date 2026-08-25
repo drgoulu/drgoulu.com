@@ -1,5 +1,6 @@
 ---
 title: "Et si...? (le livre de xkcd)"
+slug: "et-si-le-livre-de-xkcd"
 date: 2016-05-08
 categories: 
   - "cat1"
@@ -13,9 +14,9 @@ tags:
 
  
 
-Je suis un fan absolu de [xkcd.com](http://xkcd.com/). [Randall Munroe](https://fr.wikipedia.org/wiki/Randall_Munroe) est connu de toute la blogosphère pour ses petits cartoons scientifiques dont certains sont devenus cultes\* et d'autres sont des merveilles de vulgarisation scientifique, comme [celui que j'ai utilisé dans cet article](http://drgoulu.local/2012/09/05/un-petit-pas-pour-lhomme/) par exemple. Randall est aussi un infatigable artiste comme le prouve ["Time", sa séquence de 3101 dessins](http://geekwagon.net/projects/xkcd1190/) faits main. Tous ses dessins étant publiés gratuitement sous licence CC-BY-NC, Randall vit de l'écriture de bouquins qui font un tabac outre-Atlantique, et qui vont faire un tabac ici puisqu'ils commencent à être traduits.
+Je suis un fan absolu de [xkcd.com](http://xkcd.com/). [Randall Munroe](https://fr.wikipedia.org/wiki/Randall_Munroe) est connu de toute la blogosphère pour ses petits cartoons scientifiques dont certains sont devenus cultes\* et d'autres sont des merveilles de vulgarisation scientifique, comme [celui que j'ai utilisé dans cet article](/2012/09/05/un-petit-pas-pour-lhomme/) par exemple. Randall est aussi un infatigable artiste comme le prouve ["Time", sa séquence de 3101 dessins](http://geekwagon.net/projects/xkcd1190/) faits main. Tous ses dessins étant publiés gratuitement sous licence CC-BY-NC, Randall vit de l'écriture de bouquins qui font un tabac outre-Atlantique, et qui vont faire un tabac ici puisqu'ils commencent à être traduits.
 
-J'ai dévoré "Et si... ?" [[1]](#ref-1). C'est un bouquin prodigieusement drôle et instructif. De la vraie bonne vulgarisation pour grands et petits de tous les niveaux. Dans ce livre Randall répond aux questions de lecteurs les plus absurdes en initiant subrepticement le lecteur à plusieurs outils utilisés dans l'analyse scientifique : les ordres de grandeur, [savoir négliger](http://drgoulu.local/2008/05/28/lingenieur-est-un-type-qui-sait-ce-quil-peut-negliger/), le raisonnement par l'absurde, l'extrapolation.
+J'ai dévoré "Et si... ?" [[1]](#ref-1). C'est un bouquin prodigieusement drôle et instructif. De la vraie bonne vulgarisation pour grands et petits de tous les niveaux. Dans ce livre Randall répond aux questions de lecteurs les plus absurdes en initiant subrepticement le lecteur à plusieurs outils utilisés dans l'analyse scientifique : les ordres de grandeur, [savoir négliger](/2008/05/28/lingenieur-est-un-type-qui-sait-ce-quil-peut-negliger/), le raisonnement par l'absurde, l'extrapolation.
 
 J'ai particulièrement apprécié son talent à identifier un problème intéressant dans une question stupide. Par exemple en répondant à la sempiternelle question "si tous les humains se réunissaient en un endroit et sautaient sur place ensemble, est-ce que la Terre bougerait ou est-ce que ça causerait un tremblement de Terre", Randall étudie plutôt ce qui se passerait si tous les humains se réunissaient en un endroit, au hasard New-York. Il montre que beaucoup mourraient de faim car il n'est pas possible d'approvisionner une telle foule avec les moyens actuels, ni même de disperser cette foule assez vite avec tous les moyens de transports disponibles.
 
@@ -33,5 +34,5 @@ Note \* si vous avez Python sur votre ordinateur, faites "import antigravity" po
 
 ### Références
 
-1. <span id="ref-1"></span>\[openbook booknumber="ISBN:9782081343016" templatenumber="5"\]
-2. <span id="ref-2"></span>\[openbook booknumber="OLID:OL7117659M" templatenumber="5"\]
+1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:9782081343016" templatenumber="5" >}}
+2. <span id="ref-2"></span>{{< openbook booknumber="OLID:OL7117659M" templatenumber="5" >}}

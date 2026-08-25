@@ -1,5 +1,6 @@
 ---
 title: "le dessous des cartes de l'énergie"
+slug: "le-dessous-des-cartes-de-lenergie"
 date: 2008-06-12
 categories: 
   - "cat3"
@@ -10,7 +11,7 @@ tags:
   - "video"
 ---
 
-S'il y a une émission francophone qui arrive au niveau des [GapCasts](http://drgoulu.local/2008/03/07/les-gapcasts-geniales-videos-sur-les-statistiques-mondiales/) pour éclairer le monde d'une synthèse rigoureuse de faits imparables, c'est [le dessous des cartes](http://www.arte.tv/fr/histoire-societe/le-dessous-des-cartes/392.html) sur Arte (le samedi à 20h). Malheureusement, elle n'est pas disponible sous forme de [vodcast](http://drgoulu.local/2008/03/09/le-futur-de-la-television-zattoo-miro-etc/), mais les [archives sont disponibles](http://www.artevod.com/detailFiche.do?ficheId=3152) au prix de 1€ le visionnement.
+S'il y a une émission francophone qui arrive au niveau des [GapCasts](/2008/03/07/les-gapcasts-geniales-videos-sur-les-statistiques-mondiales/) pour éclairer le monde d'une synthèse rigoureuse de faits imparables, c'est [le dessous des cartes](http://www.arte.tv/fr/histoire-societe/le-dessous-des-cartes/392.html) sur Arte (le samedi à 20h). Malheureusement, elle n'est pas disponible sous forme de [vodcast](/2008/03/09/le-futur-de-la-television-zattoo-miro-etc/), mais les [archives sont disponibles](http://www.artevod.com/detailFiche.do?ficheId=3152) au prix de 1€ le visionnement.
 
 C'est vraiment dommage qu'Arte espère grapiller ainsi quelques euros au lieu de mettre ces chefs-d'oeuvre au patrimoine gratuit de l'humanité en se faisant au passage un peu de pub.
 

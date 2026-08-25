@@ -1,5 +1,6 @@
 ---
 title: "Crée ou crève : l'innovation de rupture"
+slug: "innovation"
 date: 2012-06-30
 categories: 
   - "cat3"
@@ -10,13 +11,16 @@ tags:
   - "innovation"
   - "suisse"
 coverImage: "328f7398c97abb8dc01a010269c6b96c.jpg"
+
+aliases:
+  - "/2012/07/01/innovation/"
 ---
 
 {{< figure src="images/328f7398c97abb8dc01a010269c6b96c.jpg" alt="iStock_000018775492XSmall" caption="j'aime bien le logo de la conf ;-) (merci istockphoto)" link="http://www.istockphoto.com/stock-photo-18775492-goldfish-disguised-as-a-shark.php?st=c9bde31" align="alignright" width="322" >}}
 
 Assisté l'autre jour à la conférence "[Crée ou crève! : Inutile d'être génial ou savant pour être innovant!](http://www.rezonance.ch/rezo/classes/ft-first-tuesday/geneve/2012-06-19/)" d'Elmar Mock consacrée à l' "innovation de rupture".
 
-Elmar Mock est l'un des inventeurs de la [Swatch](http://fr.wikipedia.org/wiki/Swatch_\(marque\)) [[1]](#ref-1), une montre en rupture totale avec l'horlogerie suisse des années 1980. Comme il l'explique dans [la vidéo](https://vimeo.com/44659294) par une analogie assez grivoise pour capter l'attention (autour de 10:00), cette rupture a plutôt été la conséquence d'une avalanche de problèmes que le résultat d'une [vision géniale](http://drgoulu.local/2007/05/15/montre-mecanique-contre-quartz/).
+Elmar Mock est l'un des inventeurs de la [Swatch](http://fr.wikipedia.org/wiki/Swatch_\(marque\)) [[1]](#ref-1), une montre en rupture totale avec l'horlogerie suisse des années 1980. Comme il l'explique dans [la vidéo](https://vimeo.com/44659294) par une analogie assez grivoise pour capter l'attention (autour de 10:00), cette rupture a plutôt été la conséquence d'une avalanche de problèmes que le résultat d'une [vision géniale](/2007/05/15/montre-mecanique-contre-quartz/).
 
 Assez marqué par cette expérience pour en parler encore avec émotion 30 ans plus tard, Elmar Mock est devenu un "serial innovateur" et a fondé l'entreprise [Creaholic](http://creaholic.com/) pour aider les entreprises (suisses) sur le dur chemin de l'innovation (où elles sont plutôt bien placées [[2]](#ref-2))
 
@@ -65,5 +69,5 @@ A l'époque, les enseignes affichaient "tailleur", "cordonnier" ou "fruits et 
 
 1. <span id="ref-1"></span>"[Elmar Mock](http://www.worldtempus.com/fr/encyclopedie/index-encyclopedique/histoire-de-lhorlogerie/le-phenomene-swatch/les-hommes-dans-le-mouvement-swatch/elmar-mock/)" sur l'encyclopédie WorldTempus
 2. <span id="ref-2"></span>"[Innovation Indicator 2011](http://www.telekom-stiftung.de/dtag/cms/contentblob/Telekom-Stiftung/de/1720812/blobBinary/Innovationsindikator+2011.pdf)", Deutsche Telekom Stiftung
-3. <span id="ref-3"></span>\[openbook booknumber="ISBN:9782100577026" templatenumber="5"\]
+3. <span id="ref-3"></span>{{< openbook booknumber="ISBN:9782100577026" templatenumber="5" >}}
 4. <span id="ref-4"></span>[L'équipement des français en biens durables fin 1968](http://www.persee.fr/web/revues/home/prescript/article/estat_0336-1454_1969_num_3_1_1875), Economie et statistique, 1969, Vol.3, No 3, pp. 65-68

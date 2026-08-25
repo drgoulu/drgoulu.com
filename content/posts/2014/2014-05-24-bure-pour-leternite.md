@@ -1,5 +1,6 @@
 ---
 title: "Bure, plongée dans l'éternité"
+slug: "bure-pour-leternite"
 date: 2014-05-24
 categories: 
   - "cat2"
@@ -43,7 +44,7 @@ A part les produits de fission, une centrale nucléaire fabrique des "[actinide
 
 {{< figure src="images/f273d2cd56cda1d649c313aece98efc9.jpg" alt="production d'actinides par captures de neutrons dans un réacteur [[2]](#ref-2) © IN2P3" caption="production d'actinides par captures de neutrons dans un réacteur [[2]](#ref-2) © IN2P3" link="http://www.laradioactivite.com/fr/site/pages/lesactinidesmineurs.htm" align="aligncenter" width="500" >}}Ces isotopes ont de longues durées de vie, sont fissiles ou fertiles, et décroissent par [radioactivité α](https://fr.wikipedia.org/wiki/radioactivité_α) ou [émission de neutron](https://fr.wikipedia.org/wiki/émission_de_neutron) : on doit les stocker comme déchets HA-VL aussi. "Heureusement", le plutonium est apprécié par AREVA pour son [combustible MOX](https://fr.wikipedia.org/wiki/combustible_MOX) ainsi que par les militaires, donc le volume des 7 isotopes de produits de fission n'est augmenté que de 3% environ par les 8 isotopes d'actinides mineurs.
 
-Entre parenthèses, un des intérêts de la [filière "thorium"](http://drgoulu.local/2013/05/18/latome-vert-le-thorium/) est qu'elle ne produit pas beaucoup moins ces actinides.
+Entre parenthèses, un des intérêts de la [filière "thorium"](/2013/05/18/latome-vert-le-thorium/) est qu'elle ne produit pas beaucoup moins ces actinides.
 
 Tout ce qui précède est résumé dans le dessins ci-dessous :
 
@@ -63,7 +64,7 @@ Finalement, la décroissance de la radiotoxicité au cours des millénaires de c
 
 La ligne verte représente le niveau de radioactivité dans un mine d'uranium. On considère que si on est en dessous, c'est "safe". On voit que la courbe noire des produits de fission descend en quelques siècles en dessous grâce aux courtes vies du [césium 137](https://fr.wikipedia.org/wiki/césium_137) et du [strontium 90](https://fr.wikipedia.org/wiki/strontium_90), puis fait un plus long palier à cause des isotopes à vie plus longue. Pour les "actinides mineurs" il faut compter dans les 10'000 ans. Et si un jour on renonce aux diverses applications du plutonium, il faudra faire un pari sur des millions d'années...
 
-En écrivant cet article j'ai repensé à la [pierre philosophale](http://drgoulu.local/2013/03/15/comment-transformer-le-plomb-en-or/) et découvert la librairie Python [pyNE](http://pyne.io/). Ca m'a donné une idée (de plus) pour un projet (de plus) dont je vous parlerai une fois (de plus), peut-être...
+En écrivant cet article j'ai repensé à la [pierre philosophale](/2013/03/15/comment-transformer-le-plomb-en-or/) et découvert la librairie Python [pyNE](http://pyne.io/). Ca m'a donné une idée (de plus) pour un projet (de plus) dont je vous parlerai une fois (de plus), peut-être...
 
 > Les gens qui travaillent ici attrapent une sorte de "maladie scientifique" : ils ont un devoir, une tâche à accomplir. - Je crois que je ne comprends pas bien ... - Non en fait, je crois que personne ne le comprend. ("Into Eternity", 52:30)
 

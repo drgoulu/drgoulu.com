@@ -1,5 +1,6 @@
 ---
 title: "Racisme dans l’avion"
+slug: "racisme-dans-lavion"
 date: 2007-03-11
 categories: 
   - "cat2"

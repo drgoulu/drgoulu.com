@@ -1,5 +1,6 @@
 ---
 title: "Encore plus vite que le vent"
+slug: "encoreplus-vite-que-le-vent"
 date: 2012-12-16
 categories: 
   - "cat2"

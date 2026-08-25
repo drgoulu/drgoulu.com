@@ -1,5 +1,6 @@
 ---
 title: "Question à mes amis turcs"
+slug: "question-a-mes-amis-turcs"
 date: 2007-10-11
 categories: 
   - "cat1"
@@ -17,7 +18,7 @@ Ce que j’ai de la peine à comprendre, et j’ai posé plusieurs fois la quest
 
 - c’était il y a un siècle
 - les arrières grand pères des turcs actuels ont été impliqués, et ils sont tous morts
-- ça s’est passé sous l’Empire Ottoman, une monarchie absolue pour le moins répressive (lire l'excellent \[openbook booknumber="ISBN:9782253054917" templatenumber="5"\]), avant la naissance de l’état turc moderne
+- ça s’est passé sous l’Empire Ottoman, une monarchie absolue pour le moins répressive (lire l'excellent {{< openbook booknumber="ISBN:9782253054917" templatenumber="5" >}}), avant la naissance de l’état turc moderne
 - le terme "génocide" n’existait pas à l’époque dans le droit international
 
 Donc quel est le problème qui empêche la Turquie moderne, jeune, actuelle de se pencher sur cette page sombre de son histoire ? les Allemands ont pratiquement réussi à se débarrasser de la culpabilité des horreurs nazies en l’admettant et en soignant leur mémoire pendant 50 ans. Pourquoi les Turcs n’arrivent pas à en faire autant ?

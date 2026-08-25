@@ -1,5 +1,6 @@
 ---
 title: "La vie à bas Reynolds"
+slug: "la-vie-a-bas-reynold"
 date: 2011-03-13
 categories: 
   - "cat2"
@@ -29,21 +30,21 @@ D'ailleurs les très petits animaux aquatiques ne nagent pas du tout de la même
 
 Elle nage donc à 0.01 mm/s et l'écoulement est caractérisé par un nombre de Reynolds re=0.001, extrêmement faible. C'est donc un [écoulement de Stokes](https://fr.wikipedia.org/wiki/écoulement_de_Stokes) si lent que l'inertie du liquide ne joue plus aucun rôle. Qui plus est, un tel écoulement est parfaitement réversible, ce qui a un effet intéressant sur la natation : un organisme qui effectuerait un certain mouvement pour se propulser reculerait d'autant en effectuant le mouvement inverse. Par exemple, les mouvements alternés de la queue d'un poisson ne lui permettraient pas d'avancer dans un liquide beaucoup plus visqueux que l'eau, comme on le voit dans [cette video](http://www.youtube.com/watch?v=2kkfHj3LHeE).
 
-Depuis quelques années on étudie les techniques de natation à bas Reynolds, soit pour les imiter avec de futurs [nano-robots](http://drgoulu.local/2007/04/15/mini-micro-nano/), soit pour perturber les déplacements de microbes pathogènes. Un des premiers modèles proposés est le "nageur de Golestanian", qui avance en utilisant les mouvements relatifs de 3 sphères alignées [[5]](#ref-5). Un peu plus tard, A. De Simone a imaginé un "stick and donut" plus rapide pour la même puissance, mais nécessitant une déformation importante du nageur, une faculté partagée par Eutreptiella et de nombreux unicellulaires.
+Depuis quelques années on étudie les techniques de natation à bas Reynolds, soit pour les imiter avec de futurs [nano-robots](/2007/04/15/mini-micro-nano/), soit pour perturber les déplacements de microbes pathogènes. Un des premiers modèles proposés est le "nageur de Golestanian", qui avance en utilisant les mouvements relatifs de 3 sphères alignées [[5]](#ref-5). Un peu plus tard, A. De Simone a imaginé un "stick and donut" plus rapide pour la même puissance, mais nécessitant une déformation importante du nageur, une faculté partagée par Eutreptiella et de nombreux unicellulaires.
 
 {{< youtube id="aN6I9mJVuas" width="640" >}}
 
 On pourrait croire que les spermatozoïdes et autres cellules [flagellées](https://fr.wikipedia.org/wiki/flagelle) sont des contre-exemples, mais il n'en est rien car les flagelles ne font pas des mouvements d'aller/retour, mais des cycles toujours dans le même sens grâce aux seuls "roues" et moteurs rotatifs que la nature ait produit. Les flagelles sont plus des hélices que des nageoires, et les hélices, ça marche assez bien à bas Reynolds, comme on le voit dans [cette video](http://www.youtube.com/watch?v=s_5ygWhcxKk).
 
-Comme l'avait [si bien expliqué Feynman](http://drgoulu.local/2009/06/11/il-y-a-plein-de-place-en-bas-2/), beaucoup de phénomènes physiques sont plus simples et plus maîtrisables à petite échelle, et c'est le cas pour les fluides. Michel, ne t'en fais pas : la vie est bien plus simple pour une araignée au bout de son fil que pour un alpiniste pendu au bout de sa corde.
+Comme l'avait [si bien expliqué Feynman](/2009/06/11/il-y-a-plein-de-place-en-bas-2/), beaucoup de phénomènes physiques sont plus simples et plus maîtrisables à petite échelle, et c'est le cas pour les fluides. Michel, ne t'en fais pas : la vie est bien plus simple pour une araignée au bout de son fil que pour un alpiniste pendu au bout de sa corde.
 
-**Note\* :** j'ai commencé la traduction en français de cet article. La traduction en français est terminée, elle est [ici](http://drgoulu.local/2011/04/30/la-vie-a-faible-nombre-de-reynolds/)
+**Note\* :** j'ai commencé la traduction en français de cet article. La traduction en français est terminée, elle est [ici](/2011/04/30/la-vie-a-faible-nombre-de-reynolds/)
 
 ### Références
 
 1. <span id="ref-1"></span>Ko, Kawabata et al "[Engineering properties of spider silk](http://web.mit.edu/course/3/3.064/www/slides/Ko_spider_silk.pdf)"
 2. <span id="ref-2"></span>"[Pourquoi l'araignée suspendue à un fil ne tourne pas sur elle-même](http://www2.cnrs.fr/presse/communique/840.htm)", Communiqué de presse du CNRS, 30 mars 2006
 3. <span id="ref-3"></span>Olivier Emile, Albert Le Floch, Fritz Vollrath, "[Biopolymers: Shape memory in spider draglines](http://www.nature.com/nature/journal/v440/n7084/full/440621a.html)", Nature 440, 621, 30 March 2006,([graphique](http://www.nature.com/nature/journal/v440/n7084/fig_tab/440621a_F1.html))
-4. <span id="ref-4"></span>E.M. Purcell. "[Life at Low Reynolds Number](http://jila.colorado.edu/perkinsgroup/Purcell_life_at_low_reynolds_number.pdf)", 1977, American Journal of Physics vol 45, pages 3-11 ([traduction française](http://drgoulu.local/2011/04/30/la-vie-a-faible-nombre-de-reynolds/))
+4. <span id="ref-4"></span>E.M. Purcell. "[Life at Low Reynolds Number](http://jila.colorado.edu/perkinsgroup/Purcell_life_at_low_reynolds_number.pdf)", 1977, American Journal of Physics vol 45, pages 3-11 ([traduction française](/2011/04/30/la-vie-a-faible-nombre-de-reynolds/))
 5. <span id="ref-5"></span>Ali Najafi, Ramin Golestanian, "[Propulsion at low Reynolds number](http://iopscience.iop.org/0953-8984/17/14/009)", 2005 J. Phys.: Condens. Matter17 S1203
 6. <span id="ref-6"></span>[Natation a faible nombre de Reynolds](http://www.cmap.polytechnique.fr/~alouges/nage.php), Centre de Mathématiques Appliquées, Polytechnique

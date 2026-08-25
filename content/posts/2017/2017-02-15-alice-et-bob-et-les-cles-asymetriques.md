@@ -1,5 +1,6 @@
 ---
 title: "Alice et Bob et les clés asymétriques"
+slug: "alice-et-bob-et-les-cles-asymetriques"
 date: 2017-02-15
 categories: 
   - "cat2"
@@ -10,20 +11,20 @@ tags:
 coverImage: "asymmetric_key_encryption.jpg"
 ---
 
-![](images/asymmetric_key_encryption.jpg)A la fin de mon [article sur HTTPS](http://drgoulu.local/2017/01/11/drgoulu-com-passe-en-https/), j'ai promis d'expliquer pourquoi il ne faut pas trop se fier au petit cadenas vert que vous voyez de plus en plus souvent en haut de votre navigateur favori.  Mais pour éviter un article trop long, je dois d'abord expliquer comment Alice et Bob s'échangent des messages sécurisés depuis 1977.
+![](images/asymmetric_key_encryption.jpg)A la fin de mon [article sur HTTPS](/2017/01/11/drgoulu-com-passe-en-https/), j'ai promis d'expliquer pourquoi il ne faut pas trop se fier au petit cadenas vert que vous voyez de plus en plus souvent en haut de votre navigateur favori.  Mais pour éviter un article trop long, je dois d'abord expliquer comment Alice et Bob s'échangent des messages sécurisés depuis 1977.
 
 ### Petit rappel historique
 
 Depuis l'Antiquité, [Alice et Bob](https://fr.wikipedia.org/wiki/Alice et_Bob) ont utilisé des [clefs symétriques](https://fr.wikipedia.org/wiki/Cryptographie_symétrique) pour chiffrer et déchiffrer leurs messages secrets. La sécurité de leur transmission [chiffrée](https://fr.wikipedia.org/wiki/chiffrement) reposait donc sur le secret de la clé : si [Trudy l'ennemie](https://fr.wikipedia.org/wiki/Alice_et_Bob#Adversaires) arrivait à l'intercepter, c'était cuit.
 
-Pourtant, [comme nous l'avions vu](http://drgoulu.local/2013/03/09/alice-bob-coffre-xor/) dans un épisode précédent, il existe des méthodes étonnamment simples permettant à Alice et Bob de s'envoyer des messages indécryptables utilisant des clés qu'ils n'ont pas besoin de s'échanger. Mais si [Eve la curieuse](https://fr.wikipedia.org/wiki/Alice_et_Bob#Adversaires) parvient à écouter les 3 messages échangés, elle peut reconstituer les clés, et c'est cuit aussi.
+Pourtant, [comme nous l'avions vu](/2013/03/09/alice-bob-coffre-xor/) dans un épisode précédent, il existe des méthodes étonnamment simples permettant à Alice et Bob de s'envoyer des messages indécryptables utilisant des clés qu'ils n'ont pas besoin de s'échanger. Mais si [Eve la curieuse](https://fr.wikipedia.org/wiki/Alice_et_Bob#Adversaires) parvient à écouter les 3 messages échangés, elle peut reconstituer les clés, et c'est cuit aussi.
 
 ### Les géniales clés de Ronald, Adi et Leonard
 
 ![](images/rsa.jpg)Puis, en 1977, [Ronald Rivest](https://fr.wikipedia.org/wiki/Ronald_Rivest), [Adi Shamir](https://fr.wikipedia.org/wiki/Adi_Shamir) et [Leonard Adleman](https://fr.wikipedia.org/wiki/Leonard_Adleman) ont inventé quelque chose d'incroyable : le [chiffrement RSA](https://fr.wikipedia.org/wiki/chiffrement_RSA). Avec leur méthode, la clé permettant le déchiffrement\* d'un message n'est pas la même que la clé qui permet de le chiffrer : les [clés sont "asymétriques"](https://fr.wikipedia.org/wiki/cryptographie_asymétrique). En voici le principe simplifié (pour les détails, voir le T-shirt ci-contre, ou le brevet [[1]](#ref-1)) :
 
-1. Bob choisit 2 nombres premiers P et Q assez grands, disons d'environ 150 chiffres. C'est très facile, comme [je l'avais expliqué ici](http://drgoulu.local/2012/04/15/comment-produire-des-nombres-premiers/). Ces deux nombres permettent à Bob de calculer sa "clé privée" D, qu'il garde jalousement pour lui.
-2. Il calcule le produit des deux nombres N=P.Q, ainsi qu'un nombre E qui forment sa "clé publique", qu'il transmet sans crainte à Alice. En effet, si Trudy intercepte cette clé publique, ce n'est pas grave, car elle ne disposera pas avant [quelques décennies](http://drgoulu.local/2011/05/19/et-un-ordinateur-quantique-un/) d'un ordinateur assez puissant pour factoriser N et retrouver les nombres P,Q et de là le D nécessaire au déchiffrement.
+1. Bob choisit 2 nombres premiers P et Q assez grands, disons d'environ 150 chiffres. C'est très facile, comme [je l'avais expliqué ici](/2012/04/15/comment-produire-des-nombres-premiers/). Ces deux nombres permettent à Bob de calculer sa "clé privée" D, qu'il garde jalousement pour lui.
+2. Il calcule le produit des deux nombres N=P.Q, ainsi qu'un nombre E qui forment sa "clé publique", qu'il transmet sans crainte à Alice. En effet, si Trudy intercepte cette clé publique, ce n'est pas grave, car elle ne disposera pas avant [quelques décennies](/2011/05/19/et-un-ordinateur-quantique-un/) d'un ordinateur assez puissant pour factoriser N et retrouver les nombres P,Q et de là le D nécessaire au déchiffrement.
 3. Pour envoyer un message à Bob, Alice le découpe en blocs de nombres M qu'elle élève à la puissance E avant de calculer les restes C modulo N, qu'elle envoie à Bob. Si Eve écoute les messages C, elle ne peut pas reconstituer le message M, même en connaissant E et N car elle aurait besoin de quelques siècles pour qu'un ordinateur calcule le  [logarithme discret](https://fr.wikipedia.org/wiki/logarithme_discret) nécessaire.
 4. Utilisant sa clé privée, Bob élève C à la puissance D,  et le reste modulo N n'est autre que le message M d'Alice en clair, par la grâce et la beauté des maths, et l'ingéniosité de Ronald, Adi et Leonard.
 

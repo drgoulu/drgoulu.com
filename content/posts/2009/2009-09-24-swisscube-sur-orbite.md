@@ -1,5 +1,6 @@
 ---
 title: "SwissCube sur orbite"
+slug: "swisscube-sur-orbite"
 date: 2009-09-24
 categories: 
   - "cat2"
@@ -17,7 +18,7 @@ SwissCube est un [CubeSat](http://www.cubesat.org/), une norme définissant des 
 
 Malgré sa petite taille, SwissCube est un satellite scientifique complet, embarquant un système d'observation d'un phénomène peu connu : l'" [airglow](http://en.wikipedia.org/wiki/Airglow)", ou "[lumière du ciel nocturne](http://fr.wikipedia.org/wiki/Lumi%C3%A8re_du_ciel_nocturne)". Il s'agit d'une faible luminescence de la haute atmosphère, assez semblable aux aurores boréales, souvent observé par les astronautes.
 
-[![anim-airglow](images/a76b12646e9e65a904666234f8752db4.gif "anim-airglow")](http://drgoulu.local//HLIC/a76b12646e9e65a904666234f8752db4.gif)l'"airglow" est principalement du à la recombinaison nocturne de l'Oxygène dissocié par le rayonnement solaire.
+[![anim-airglow](images/a76b12646e9e65a904666234f8752db4.gif "anim-airglow")](images/a76b12646e9e65a904666234f8752db4.gif)l'"airglow" est principalement du à la recombinaison nocturne de l'Oxygène dissocié par le rayonnement solaire.
 
 Pour observer et mesurer l'airglow pendant 3 mois, voire une année si tout va bien, SwissCube emporte une caméra qui transmet ses images vers la Terre. Il emporte donc un émetteur radio dont les signaux sont reçus non seulement par l'EPFL, mais par une armée de [radio amateurs](http://swisscube-live.ch/Home/RadioAmateurs) dont [Von](http://www.hb9afo.ch/swisscube/), un copain passionné qui a contribué à la conception du système de télécommunication (Bravo ! ça marche !)
 

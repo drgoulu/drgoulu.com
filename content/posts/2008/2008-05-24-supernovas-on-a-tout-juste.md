@@ -1,5 +1,6 @@
 ---
 title: "Supernovas : on a tout juste."
+slug: "supernovas-on-a-tout-juste"
 date: 2008-05-24
 categories: 
   - "non-classe"
@@ -11,7 +12,7 @@ coverImage: "supernovaC1.jpg"
 
 De temps en temps, une étoile explose. Dans une Galaxie contenant des milliards d'étoiles, ça arrive même assez souvent, mais jusqu'à maintenant on n'avait jamais observé une explosion en direct\*, ce qui fait que toute la théorie de ce qui se passe à la mort d'une étoile était basé sur l'observation des "rémanents", les restes de [supernovas](http://fr.wikipedia.org/wiki/Supernova) passées.
 
-Cette théorie prévoit que la [fusion thermonucléaire](http://drgoulu.local/2005/12/11/la-fusion-thermonucleaire/) s'arrête dans une étoile, elle s'effondre sur elle même en quelques secondes, comprimant son centre jusqu'à ce que les protons des tous les atomes se touchent et se combinent avec les électrons pour former [une boule ultra compacte de neutrons](http://fr.wikipedia.org/wiki/%C3%89toile_%C3%A0_neutrons) sur laquelle les couches externes de l'étoile vont s'écraser en produisant quasi instantanément d'énormes quantités de fer et d'autres éléments lourds, et rebondir dans l'espace dans d'[incroyables feux d'artifice](http://drgoulu.local/2007/03/08/perles-cosmiques/). Ce processus très rapide est tellement "chaud" qu'il ne produit pas de lumière, mais des rayons X pendant quelques minutes, la lumière venant ensuite.
+Cette théorie prévoit que la [fusion thermonucléaire](/2005/12/11/la-fusion-thermonucleaire/) s'arrête dans une étoile, elle s'effondre sur elle même en quelques secondes, comprimant son centre jusqu'à ce que les protons des tous les atomes se touchent et se combinent avec les électrons pour former [une boule ultra compacte de neutrons](http://fr.wikipedia.org/wiki/%C3%89toile_%C3%A0_neutrons) sur laquelle les couches externes de l'étoile vont s'écraser en produisant quasi instantanément d'énormes quantités de fer et d'autres éléments lourds, et rebondir dans l'espace dans d'[incroyables feux d'artifice](/2007/03/08/perles-cosmiques/). Ce processus très rapide est tellement "chaud" qu'il ne produit pas de lumière, mais des rayons X pendant quelques minutes, la lumière venant ensuite.
 
 Et devinez quoi ? le 9 janvier 2008 Alicia Soderbers avait pointé le [satellite Swift](http://fr.wikipedia.org/wiki/SWIFT_\(satellite\)) sur la galaxie NGC 2770 (à 90 millions d'années lumière) pour observer les rayons X émis par les restes d'une supernova apparue en décembre 2007 quand soudain elle a observé en direct un flash de rayons X pendant plus de 3 minutes, juste à côté ! En quelques minutes de plus, elle a réussi à convaincre tous les astronomes de la planète à braquer leurs téléscopes sur le point en question et ... la lumière fut !
 

@@ -1,5 +1,6 @@
 ---
 title: "Pourquoi les fabricants de machines tirent la langue"
+slug: "pourquoi-les-fabricants-de-machines-tirent-la-langue"
 date: 2009-06-06
 categories: 
   - "cat3"
@@ -42,19 +43,19 @@ Le "Beer Game" a été inventé par Forrester au MIT dans les années 1960 pour 
 
 Chaque joueur dispose d'un stock dans lequel il puise pour honorer les commandes de ses clients, qui mettent 2 tours de jeu à lui parvenir, et qu'il réapprovisionne avec les livraisons de ses fournisseurs, qui prennent également 2 tours de jeu à lui parvenir.
 
-{{< figure src="images/226f00ab6aa152cf77a7568ed1c48180.gif" alt="la table de jeu. (cliquez dessus pour agrandir)" caption="la table de jeu. (cliquez dessus pour agrandir)" link="http://drgoulu.local//HLIC/226f00ab6aa152cf77a7568ed1c48180.gif" align="aligncenter" width="532" >}}
+{{< figure src="images/226f00ab6aa152cf77a7568ed1c48180.gif" alt="la table de jeu. (cliquez dessus pour agrandir)" caption="la table de jeu. (cliquez dessus pour agrandir)" link="images/226f00ab6aa152cf77a7568ed1c48180.gif" align="aligncenter" width="532" >}}
 
 Chaque joueur doit satisfaire son client en maintenant le coût de son stock à un niveau minimal, en évitant toute rupture de stock d'un coût encore plus élevé. Le problème est qu'il n'a pas le droit de communiquer avec son client et son fournisseur autrement que par les bulletins de commande, la seule information entrante étant la commande des clients finaux, que le détaillant doit satisfaire immédiatement. [[5]](#ref-5)
 
 Il existe plusieurs variantes du jeu, mais toutes montrent clairement l'effet fouet : plus on remonte la chaine, plus l'incertitude augmente, ce qui incite à constituer un stock plus important et à commander des quantités de bière avec des variations plus élevées:
 
-{{< figure src="images/e964c92e352125a95722234b4a0aadd0.png" alt="beergame" caption="résultats typiques du &quot;beer game&quot; : les variations de la production de bière sont beaucoup plus importantes que celles de la consommation (cliquer pour agrandir)" link="http://drgoulu.local//HLIC/e964c92e352125a95722234b4a0aadd0.png" align="aligncenter" width="402" >}}
+{{< figure src="images/e964c92e352125a95722234b4a0aadd0.png" alt="beergame" caption="résultats typiques du &quot;beer game&quot; : les variations de la production de bière sont beaucoup plus importantes que celles de la consommation (cliquer pour agrandir)" link="images/e964c92e352125a95722234b4a0aadd0.png" align="aligncenter" width="402" >}}
 
 Il existe plusieurs moyens de réduire, voire d'éliminer l'effet fouet, du moins dans une même organisation, mais il subsistera probablement toujours entre entreprises. Et en temps de crise, l'industrie des biens de production (machines) souffrira plus que celle des biens de consommation.
 
 ### Références
 
-1. <span id="ref-1"></span>\[openbook booknumber="ISBN:978-0915299881" templatenumber="5"\]
+1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:978-0915299881" templatenumber="5" >}}
 2. <span id="ref-2"></span>"[l’effet coup de fouet , une théorie économique qui explique le marasme horloger](http://archive.businessmontres.com/breve_612.htm)", 28 janvier 2009, sur Business Montres
 3. <span id="ref-3"></span>[Effet de vague ou coup de fouet](http://chohmann.free.fr/production/bullwhip_fr.htm)
 4. <span id="ref-4"></span>Claude Balié "[Comment traiter l’Effet Coup de Fouet (Bullwhip Effect) dans une chaîne logistique?](http://www.al-consulting.com/lean/dataleanxpress/lxp3/lxp3cb.htm)"

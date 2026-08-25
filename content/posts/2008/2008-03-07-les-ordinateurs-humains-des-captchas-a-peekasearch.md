@@ -1,5 +1,6 @@
 ---
 title: "les Ordinateurs Humains : des Captchas à PeekaSearch"
+slug: "les-ordinateurs-humains-des-captchas-a-peekasearch"
 date: 2008-03-07
 categories: 
   - "cat2"
@@ -14,7 +15,7 @@ coverImage: "476e8d964f6d6a08c1f2579b6745d7ad-1.png"
 
 Tombé sur un interview de [Luis Von Ahn](http://www.cs.cmu.edu/~biglou/), un chercheur qui travaille sur un sujet qui me plait beaucoup : comment utiliser (gratuitement) la puissance des cerveaux humains, interconnectés par internet, pour faire des choses dont les ordinateurs ne sont pas capables ?
 
-Von Ahn est l'inventeur des [ReCaptcha, dont j'ai déjà parlé ici](http://drgoulu.local/2007/10/16/recaptcha-quand-linternet-utilise-les-cerveaux-humains/). Dans la vidéo, il donne une information sidérante : il y a environ 200 millions de "captchas" résolus chaque jour sur internet (rappel : les captchas sont des images dans lesquelles il faut distinguer un texte déformé à taper au clavier, servant à prouver à un site internet que l'on est humain et pas un programme de spam). En comptant 10 secondes pour reconnaitre le mot et le taper, ceci correspond à 63.4 années d'activité humaine (à plein temps 7j/7, 24h/24, pas de vacances...) effectués chaque jour! Comme par définition ce travail ne peut pas être automatisé, ce serait un véritable gâchis de cervelle si Von Ahn n'avait pas eu la lumineuse idée des [ReCaptcha](http://drgoulu.local/2007/10/16/recaptcha-quand-linternet-utilise-les-cerveaux-humains/), qui permettent d'utiliser ce travail pour digitaliser de vieux livres à peine lisibles.
+Von Ahn est l'inventeur des [ReCaptcha, dont j'ai déjà parlé ici](/2007/10/16/recaptcha-quand-linternet-utilise-les-cerveaux-humains/). Dans la vidéo, il donne une information sidérante : il y a environ 200 millions de "captchas" résolus chaque jour sur internet (rappel : les captchas sont des images dans lesquelles il faut distinguer un texte déformé à taper au clavier, servant à prouver à un site internet que l'on est humain et pas un programme de spam). En comptant 10 secondes pour reconnaitre le mot et le taper, ceci correspond à 63.4 années d'activité humaine (à plein temps 7j/7, 24h/24, pas de vacances...) effectués chaque jour! Comme par définition ce travail ne peut pas être automatisé, ce serait un véritable gâchis de cervelle si Von Ahn n'avait pas eu la lumineuse idée des [ReCaptcha](/2007/10/16/recaptcha-quand-linternet-utilise-les-cerveaux-humains/), qui permettent d'utiliser ce travail pour digitaliser de vieux livres à peine lisibles.
 
 {{< youtube id="ZdaP7ZECXrw" >}}
 
@@ -36,6 +37,6 @@ Luis Von Ahn a ainsi créé [PeekaSearch](http://www.peekaboom.org), un moteur d
 
 Le résultat net de tout ceci est que [PeekaSearch](http://www.peekaboom.org) est très efficace. En cherchant ["girl with hat" dans les images Google](http://images.google.ch/images?hl=fr&q=girl+with+hat) on trouve déjà pas mal de choses, mais avec PeekaSearch c'est beaucoup plus précis : les "girls" sont encadrées en rouge, les "hat" en jaune, et même le mot "with" est signalé en bleu s'il apparait dans un texte figurant sur l'image !
 
-[![girlwithhat.png](images/b04fc46c693634f78b8aafc3d3e2641c.png)](http://drgoulu.local//HLIC/b04fc46c693634f78b8aafc3d3e2641c.png "girlwithhat.png")
+[![girlwithhat.png](images/b04fc46c693634f78b8aafc3d3e2641c.png)](images/b04fc46c693634f78b8aafc3d3e2641c.png "girlwithhat.png")
 
 C'est très fort, non ?

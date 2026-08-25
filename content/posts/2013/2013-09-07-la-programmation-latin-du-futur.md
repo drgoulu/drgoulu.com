@@ -1,5 +1,6 @@
 ---
 title: "La programmation, latin du futur ?"
+slug: "la-programmation-latin-du-futur"
 date: 2013-09-07
 categories: 
   - "cat1"
@@ -15,7 +16,7 @@ Dans un récent article [[1]](#ref-1) Anna Lietti fait le point sur une questio
 
 > Pour former des citoyens «informatiquement éclairés»\*, l’école doit-elle enseigner à tous le b. a.-ba de la programmation?
 
-Selon certains comme [Bernard Stiegler](https://fr.wikipedia.org/wiki/Bernard_Stiegler), les enfants du numérique ont une "expérience rusée" du fonctionnement des machines, mais leur approche intuitive approche vite ses limites et ne leur permet pas de dominer la machine. Or cette domination est nécessaire pour contrôler notre monde, de plus en plus automatisé, numérique et interconnecté. On le voit avec l'affaire [PRISM](https://fr.wikipedia.org/wiki/PRISM_(programme_de_surveillance)) : contrôler [La Machine](http://drgoulu.local/2008/11/29/les-dimensions-de-la-machine/), c'est avoir le pouvoir sur ses utilisateurs...
+Selon certains comme [Bernard Stiegler](https://fr.wikipedia.org/wiki/Bernard_Stiegler), les enfants du numérique ont une "expérience rusée" du fonctionnement des machines, mais leur approche intuitive approche vite ses limites et ne leur permet pas de dominer la machine. Or cette domination est nécessaire pour contrôler notre monde, de plus en plus automatisé, numérique et interconnecté. On le voit avec l'affaire [PRISM](https://fr.wikipedia.org/wiki/PRISM_(programme_de_surveillance)) : contrôler [La Machine](/2008/11/29/les-dimensions-de-la-machine/), c'est avoir le pouvoir sur ses utilisateurs...
 
 [![T-shirt "I write code"](images/651d68c2e627c996ff969aa60cb57457.jpg)](http://www.framablog.org/index.php/post/2011/12/08/code-latin-ecole)
 
@@ -78,7 +79,7 @@ Et si après [Astérix](http://www.asterix.com/la-collection/les-traductions/ast
 ### Références
 
 1. <span id="ref-1"></span>Anna Lietti "[Education: sus à l’analphabétisme informatique!](http://www.hebdo.ch/hebdo/mieux-comprendre/detail/education-sus-%C3%A0-l%E2%80%99analphab%C3%A9tisme-informatique)" 2013, L'Hebdo No 34, p. 38-41
-2. <span id="ref-2"></span>\[openbook booknumber="ISBN:978-3-03823-823-2" templatenumber="5"\] ([page officielle du livre](http://www.nzz-libro.ch/informatiqueatgymnase.html))
+2. <span id="ref-2"></span>{{< openbook booknumber="ISBN:978-3-03823-823-2" templatenumber="5" >}} ([page officielle du livre](http://www.nzz-libro.ch/informatiqueatgymnase.html))
 3. <span id="ref-3"></span>Steve Furber "[Shut down or restart? The way forward for computing in UK schools](http://royalsociety.org/uploadedFiles/Royal_Society_Content/education/policy/computing-in-schools/2012-01-12-Computing-in-Schools.pdf)" January 2012, Royal Society
 4. <span id="ref-4"></span>Académie des Sciences "[L’enseignement de l’informatique en France : Il est urgent de ne plus attendre](http://www.academie-sciences.fr/pdf/rapport/rads_0513.pdf)", Rapport de l’Académie des sciences , Mai 2013
 5. <span id="ref-5"></span>Jean-Pierre Archambault "[C’est un changement de paradigme que l’informatique devienne une discipline scolaire](http://www.letudiant.fr/educpros/entretiens/jean-pierre-archambault-president-d-enseignement-public-et-informatique-cest-un-changement.html)", 2012, l'Etudiant

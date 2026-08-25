@@ -1,5 +1,6 @@
 ---
 title: "Cartes de touristicité"
+slug: "cartes-de-touristicite"
 date: 2010-06-22
 categories: 
   - "cat3"
@@ -32,4 +33,4 @@ Grâce aux montagnes d'informations collectées par les réseaux sociaux, vous a
 
 Source : [Information is beautiful](http://www.informationisbeautiful.net/2010/fourgreat-infographics-no-8/)
 
-Note\* : comme me l'a fait remarquer kelux dans [son commentaire](http://drgoulu.local/2010/06/22/cartes-de-touristicite/#comment-4353)
+Note\* : comme me l'a fait remarquer kelux dans [son commentaire](/2010/06/22/cartes-de-touristicite/#comment-4353)

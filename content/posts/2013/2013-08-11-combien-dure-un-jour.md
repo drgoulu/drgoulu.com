@@ -1,5 +1,6 @@
 ---
 title: "Combien dure un jour"
+slug: "combien-dure-un-jour"
 date: 2013-08-11
 categories: 
   - "cat1"
@@ -18,7 +19,7 @@ Sous nos latitudes, la durée du jour est certes plus longue en été qu'en hive
 
 Ceci ne se produit qu'en Antarctique ou dans le [cercle polaire arctique](https://fr.wikipedia.org/wiki/cercle_arctique) en bleu sur la carte ci-dessous, où l'on voit que nous autres européens sommes très favorisés pour aller contempler le [soleil de minuit](https://fr.wikipedia.org/wiki/jour_polaire). Il nous suffit d'aller au nord de la Scandinavie, jusqu'au [Cap Nord](https://fr.wikipedia.org/wiki/Cap_Nord) situé à 71° de latitude nord, accessible par route ou [par bateau](https://fr.wikipedia.org/wiki/Hurtigruten).
 
-[![](images/478px-Arctic_circle.svg_.png)](http://drgoulu.local/wp-content/uploads/2015/05/478px-Arctic_circle.svg_.png)
+[![](images/478px-Arctic_circle.svg_.png)](/wp-content/uploads/2015/05/478px-Arctic_circle.svg_.png)
 
 Pourtant, quand j'y étais le 3 août, le soleil faisait déjà une sieste d'environ 4 heures, juste sous l'horizon après un coucher de soleil qui a bien duré une heure. Alors, comment connaitre les dates entre lesquelles le soleil de minuit est observable, ou la latitude à laquelle il faut se rendre à une date donnée pour l'observer ?
 
@@ -30,7 +31,7 @@ où α est l'inclinaison de l'axe terrestre ( 23.5° ), λ la latitude du sit
 
 en traçant cette fonction pour différentes latitudes, on obtient ce graphique :
 
-{{< figure src="images/Duree-du-jour-1.png" alt="Durée du jour" caption="Durée du jour en fonction de la date à différentes latitudes [[2]](#ref-2)" link="http://drgoulu.local/wp-content/uploads/2013/08/Duree-du-jour-1.png" align="aligncenter" width="614" >}}Sous nos latitudes, la durée du jour varie approximativement comme une sinusoïdale qui s’aplatit lorsqu'on se rapproche de l'équateur, où le soleil surgit perpendiculairement à l'horizon à 6h du matin et y replonge en piqué vers une nuit noire 12h plus tard.
+{{< figure src="images/Duree-du-jour-1.png" alt="Durée du jour" caption="Durée du jour en fonction de la date à différentes latitudes [[2]](#ref-2)" link="/wp-content/uploads/2013/08/Duree-du-jour-1.png" align="aligncenter" width="614" >}}Sous nos latitudes, la durée du jour varie approximativement comme une sinusoïdale qui s’aplatit lorsqu'on se rapproche de l'équateur, où le soleil surgit perpendiculairement à l'horizon à 6h du matin et y replonge en piqué vers une nuit noire 12h plus tard.
 
 La situation est assez spéciale aussi aux cercles polaires (±66.55°) : la durée de leur jour y varie linéairement toute l'année, avec un seul soleil de minuit au solstice d'été et une seule nuit de 48h au [solstice](https://fr.wikipedia.org/wiki/solstice) d'hiver.
 
@@ -42,7 +43,7 @@ Pour voir le soleil de minuit en août, il eût fallu\* aller au [Svalbard](http
 
 {{< figure src="images/79b007e03088b550495773345fe5ee61.jpg" alt="Juste penser à amener un kit fondue pour changer du saumon ..." caption="Juste penser à amener un kit fondue pour changer du saumon ..." align="aligncenter" width="740" >}}
 
-Note \* : le passé antérieur conditionnel passé 2ème forme en jette moins que l' [imparfait du subjonctif](http://drgoulu.local/?s=subjonctif), mais quand même ;-)
+Note \* : le passé antérieur conditionnel passé 2ème forme en jette moins que l' [imparfait du subjonctif](/?s=subjonctif), mais quand même ;-)
 
 ## Références et liens
 

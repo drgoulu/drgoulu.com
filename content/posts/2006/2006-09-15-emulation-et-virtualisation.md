@@ -1,5 +1,6 @@
 ---
 title: "Emulation et Virtualisation"
+slug: "emulation-et-virtualisation"
 date: 2006-09-15
 categories: 
   - "cat2"

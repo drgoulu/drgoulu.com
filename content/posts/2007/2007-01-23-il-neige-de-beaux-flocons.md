@@ -1,5 +1,6 @@
 ---
 title: "Il neige de beaux flocons !"
+slug: "il-neige-de-beaux-flocons"
 date: 2007-01-23
 categories: 
   - "cat1"

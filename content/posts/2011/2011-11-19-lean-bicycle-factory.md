@@ -1,5 +1,6 @@
 ---
 title: "Lean Bicycle Factory"
+slug: "lean-bicycle-factory"
 date: 2011-11-19
 categories: 
   - "cat3"
@@ -18,7 +19,7 @@ Une de mes tâches est d'animer des journées de formation offertes à tout le
 
 Il me manquait un moyen d'expliquer ce qu'est le lean à des gens qui ne travaillent pas du tout dans ce domaine (vous ?) d'une manière ludique. C'est mon collègue Alex qui l'a trouvée sous la forme du "[Lean Bicycle Factory Demonstration Game](http://ludosity.com/library/lean-game/)" de Ludosity, un "[serious game](http://fr.wikipedia.org/wiki/Jeu_s%C3%A9rieux)" assez fun et rapide pour devenir addictif, et même générer une petite compétition entre collègues...
 
-_(Ajout du 9.12.2013_: comme le lien de téléchargement original ne fonctionne plus, essayez [celui-ci](http://drgoulu.local/wp-content/uploads/2011/11/LeanBicycleFactory-1.zip).)
+_(Ajout du 9.12.2013_: comme le lien de téléchargement original ne fonctionne plus, essayez [celui-ci](/wp-content/uploads/2011/11/LeanBicycleFactory-1.zip).)
 
 Si j'en parle, c'est que j'ai le "high score" actuel : 68768\*. Voilà comment j'ai fait (spoiler alert ! essayez de faire mieux _avant_ de copier...) :
 

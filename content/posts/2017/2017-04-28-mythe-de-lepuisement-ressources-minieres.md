@@ -1,5 +1,6 @@
 ---
 title: "Combien reste-t-il de ressources minières ? Beaucoup."
+slug: "mythe-de-lepuisement-ressources-minieres"
 date: 2017-04-28
 categories: 
   - "cat3"
@@ -24,7 +25,7 @@ Mais l'article mentionne aussi d'autres minerais, allant du fer et l'aluminium a
 En passant, la lecture des références m'a rappelé deux choses:
 
 1. la possibilité technique d'extraire de l'Uranium de [l'eau, de mer ou du Rhône](https://fr.wikipedia.org/wiki/Uranium#Dans_l.27eau_de_mer_et_les_eaux_naturelles). Pour l'instant ça coûte 5x plus cher que de l'extraire d'une mine, mais il y en a pour des milliers d'années ...
-2. en écrivant [cet autre article](http://drgoulu.local/2017/01/08/applications-des-elements-du-tableau-periodique/),  j'avais découvert que beaucoup de "terres rares"\*\* se trouvent dans la [monazite](https://fr.wikipedia.org/wiki/monazite), le minerai du [thorium](http://drgoulu.local/2013/05/18/latome-vert-le-thorium/) ! On n'en sort pas ...
+2. en écrivant [cet autre article](/2017/01/08/applications-des-elements-du-tableau-periodique/),  j'avais découvert que beaucoup de "terres rares"\*\* se trouvent dans la [monazite](https://fr.wikipedia.org/wiki/monazite), le minerai du [thorium](/2013/05/18/latome-vert-le-thorium/) ! On n'en sort pas ...
 
 Bon, pour une fois voilà à quoi ressemble un "scoop" sur drgoulu.com : basé sur un communiqué de presse lu hier (qui sera copié/collé sans autres par de nombreux media), j'ai trouvé et lu les 4 références, un peu réfléchi, écrit cet article vite fait, et programmé sa parution pour 1 minute après la fin de l'embargo !
 
@@ -39,4 +40,4 @@ Bon, pour une fois voilà à quoi ressemble un "scoop" sur drgoulu.com : basé s
 1. <span id="ref-1"></span>{{< altmetric doi="10.7185/geochempersp.6.1" float="right" >}}Arndt, N. T., [Fontboté, L.](http://cms.unige.ch/sciences/terre/people/personal_pages/LluisFontbote/LluisFontbote.php), Hedenquist, J. W., Kesler, S. E., Thompson, J. F. H., & Wood, D. G. (2017). Future Global Mineral Resources. Geochemical Perspectives, 2017, 6(1) [DOI:10.7185/geochempersp.6.1](http://doi.org/10.7185/geochempersp.6.1) ([pdf](http://www.geochemicalperspectives.org/wp-content/uploads/2017/04/v6n1.pdf) 28Mb, 184 pages)
 2. <span id="ref-2"></span>Pierre-Alexandre Salier et [Lluis Fontboté](http://cms.unige.ch/sciences/terre/people/personal_pages/LluisFontbote/LluisFontbote.php) "Epuisement des ressources minières: aux sources du mythe", 21 juillet 2009, Le Temps ([pdf](http://cms.unige.ch/sciences/terre/people/personal_pages/LluisFontbote/LluisFontbote_files/fontbote_sallier_le_temps20090721.pdf) )
 3. <span id="ref-3"></span>Alain Cheilletz "[Y a-t-il vraiment un risque d’épuisement des ressources ?](http://www.pseudo-sciences.org/spip.php?article2185)" SPS n° 305, juillet 2013
-4. <span id="ref-4"></span>"[Ressources minérales - la pénurie n’était qu’un mythe](http://drgoulu.local/wp-content/uploads/2017/04/Ressources-minerales-la-penurie-netait-quun-mythe-.pdf)", 27 avril 2017, Communiqué de presse Université de Genève
+4. <span id="ref-4"></span>"[Ressources minérales - la pénurie n’était qu’un mythe](/wp-content/uploads/2017/04/Ressources-minerales-la-penurie-netait-quun-mythe-.pdf)", 27 avril 2017, Communiqué de presse Université de Genève

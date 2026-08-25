@@ -1,5 +1,6 @@
 ---
 title: "Cendres et réacteurs"
+slug: "cendres-et-reacteurs"
 date: 2010-04-19
 categories: 
   - "cat3"
@@ -30,7 +31,7 @@ Le pare-brise dont il est question est probablement celui du [vol KLM 867](http:
 
 La réparation de ce Boeing 747, y compris le remplacement de ses 4 moteurs, a coûté plus de 80 millions de $ ...
 
-En 1982, un autre Boeing 747, celui du [vol BA 9](http://en.wikipedia.org/wiki/British_Airways_Flight_9) de Londres vers Auckland a vu ses 4 moteurs s'arrêter en traversant le nuage du [Gallungung](http://fr.wikipedia.org/wiki/Galunggung), au dessus de Java. L'avion a [plané](http://drgoulu.local/2009/01/25/un-jet-gros-porteur-sachant-planer/) pendant 12 minutes avant de pouvoir relancer les moteurs et atterrir de justesse à Jakarta. L'incident est relaté dans un épisode ["Falling from the sky"](http://www.imdb.com/title/tt0954699/) de l'excellente série "Mayday" [disponible sur YouTube](http://www.youtube.com/watch?v=4FHvtpVr53A)
+En 1982, un autre Boeing 747, celui du [vol BA 9](http://en.wikipedia.org/wiki/British_Airways_Flight_9) de Londres vers Auckland a vu ses 4 moteurs s'arrêter en traversant le nuage du [Gallungung](http://fr.wikipedia.org/wiki/Galunggung), au dessus de Java. L'avion a [plané](/2009/01/25/un-jet-gros-porteur-sachant-planer/) pendant 12 minutes avant de pouvoir relancer les moteurs et atterrir de justesse à Jakarta. L'incident est relaté dans un épisode ["Falling from the sky"](http://www.imdb.com/title/tt0954699/) de l'excellente série "Mayday" [disponible sur YouTube](http://www.youtube.com/watch?v=4FHvtpVr53A)
 
 Selon [cet article de Libé](http://www.liberation.fr/terre/0101630421-les-cendres-volcaniques-un-risque-connu-pour-l-aviation) :
 

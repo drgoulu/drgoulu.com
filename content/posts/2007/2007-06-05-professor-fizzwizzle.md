@@ -1,5 +1,6 @@
 ---
 title: "Professor Fizzwizzle"
+slug: "professor-fizzwizzle"
 date: 2007-06-05
 categories: 
   - "non-classe"

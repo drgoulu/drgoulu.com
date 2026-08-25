@@ -1,5 +1,6 @@
 ---
 title: "On est peu de chose..."
+slug: "on-est-peu-de-chose"
 date: 2008-02-01
 categories: 
   - "cat1"

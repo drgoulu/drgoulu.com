@@ -1,5 +1,6 @@
 ---
 title: "Pour quoi retourner sur la Lune?"
+slug: "pour-quoi-retourner-sur-la-lune"
 date: 2009-07-18
 categories: 
   - "cat3"
@@ -36,11 +37,11 @@ Ce sont ces retombées technologiques qui ont permis aux contribuables d'accepte
 
 En fait c'est même pire que ça : les technologies issues du spatial ont tellement progressé qu'il est aujourd'hui difficile de justifier l'envoi d'humains dans l'espace. On peut désormais presque tout réaliser avec des missions automatiques, beaucoup moins couteuses et qui n'exigent pas de mettre le drapeau national en berne pendant 3 jours en cas d'échec.
 
-Pratiquement toutes les technologies spatiales dont nous bénéficions directement (météo, GPS, télévision etc. ) viennent de satellites artificiels et tout ce que nous savons aujourd'hui du système solaire nous a été communiqué par des dizaines de sondes comme Voyager, [Phoenix](http://drgoulu.local/2008/05/27/encore-une-sonde-sur-mars/) [Cassini](http://drgoulu.local/tag/cassini/), [Messenger](http://drgoulu.local/2008/01/19/mercure-de-mariner-a-messenger/) et toutes les autres.
+Pratiquement toutes les technologies spatiales dont nous bénéficions directement (météo, GPS, télévision etc. ) viennent de satellites artificiels et tout ce que nous savons aujourd'hui du système solaire nous a été communiqué par des dizaines de sondes comme Voyager, [Phoenix](/2008/05/27/encore-une-sonde-sur-mars/) [Cassini](/tags/cassini/), [Messenger](/2008/01/19/mercure-de-mariner-a-messenger/) et toutes les autres.
 
 Au total les missions automatiques ont couté à peu près autant que les vols habités mais en terme de résultats scientifiques et économiques, les robots sont 10 à 100 fois plus productifs que des astronautes.
 
-### Alors [pour quoi](http://drgoulu.local/2009/01/04/pourquoi-pour-quoi/) retourner sur la Lune ?
+### Alors [pour quoi](/2009/01/04/pourquoi-pour-quoi/) retourner sur la Lune ?
 
 Une enquête de la NASA [[1]](#ref-1) a répertorié [181 choses](http://www.nasa.gov/pdf/163560main_LunarExplorationObjectives.pdf) intéressantes à faire sur la Lune, réparties en [6 thèmes](http://www.nasa.gov/exploration/home/why_moon.html).
 
@@ -53,7 +54,7 @@ Une enquête de la NASA [[1]](#ref-1) a répertorié [181 choses](http://www.nas
 
 Après un survol rapide des 181 "objectifs lune", il me semble que les seuls qui demandent réellement une présence humaine sur la Lune sont ceux dont le but est de permettre une présence humaine sur la Lune... Les objectifs scientifiques et économiques représentant la grande majorité des 181 raisons d'aller sur la Lune peuvent pratiquement toutes être réalisées par des missions automatiques dès aujourd'hui.
 
-Pour justifier le coût colossal d'une base habitée sur la Lune, il faudra trouver un réel retour sur investissement économique. Outre le tourisme de milliardaires, ce sera peut-être un jour l'[Helium 3](https://fr.wikipedia.org/wiki/Helium_3) lunaire qui alimentera nos centrales à [fusion thermonucléaire](http://drgoulu.local/tag/fusion), mais cette éventualité est encore bien lointaine.
+Pour justifier le coût colossal d'une base habitée sur la Lune, il faudra trouver un réel retour sur investissement économique. Outre le tourisme de milliardaires, ce sera peut-être un jour l'[Helium 3](https://fr.wikipedia.org/wiki/Helium_3) lunaire qui alimentera nos centrales à [fusion thermonucléaire](/tags/fusion/), mais cette éventualité est encore bien lointaine.
 
 ### Références
 
