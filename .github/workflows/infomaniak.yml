@@ -1,0 +1,140 @@
+name: Deploy website to Infomaniak
+
+on:
+  push:
+    branches: ['main']
+  workflow_dispatch:
+    inputs:
+      deploy_method:
+        description: 'Méthode de déploiement (ssh ou ftp)'
+        required: false
+        default: 'ssh'
+        type: choice
+        options:
+          - ssh
+          - ftp
+
+permissions:
+  contents: read
+
+concurrency:
+  group: 'deploy-infomaniak'
+  cancel-in-progress: false
+
+env:
+  NODE_VERSION: '22'
+  DEPLOY_METHOD: ${{ inputs.deploy_method || 'ssh' }}
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Setup pnpm
+        if: hashFiles('package.json') != ''
+        uses: pnpm/action-setup@v6
+
+      - name: Get Hugo Version
+        id: hugo-version
+        run: |
+          YQ_VERSION="v4.44.1"
+          if ! wget -q --tries=3 --waitretry=1 -O /tmp/yq \
+            "https://github.com/mikefarah/yq/releases/download/${YQ_VERSION}/yq_linux_amd64"; then
+            echo "::error::Failed to download yq"
+            exit 1
+          fi
+          sudo mv /tmp/yq /usr/local/bin/yq
+          sudo chmod +x /usr/local/bin/yq
+          
+          VERSION=$(yq '.build.hugo_version // ""' hugoblox.yaml 2>/dev/null | grep -v '^null$' || true)
+          DEFAULT_VERSION="0.162.0"
+          VERSION=${VERSION:-$DEFAULT_VERSION}
+          
+          if [[ ! "$VERSION" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+            VERSION="$DEFAULT_VERSION"
+          fi
+          
+          echo "HUGO_VERSION=$VERSION" >> $GITHUB_ENV
+          echo "Using Hugo version: $VERSION"
+
+      - name: Install dependencies
+        run: |
+          if [ -f "package.json" ]; then
+            pnpm install --no-frozen-lockfile || npm install
+          fi
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: ${{ env.HUGO_VERSION }}
+          extended: true
+
+      - uses: actions/cache@v5
+        with:
+          path: |
+            /tmp/hugo_cache_runner/
+            node_modules/
+            modules/*/node_modules/
+          key: ${{ runner.os }}-hugo-deps-${{ hashFiles('**/go.mod', '**/package-lock.json', '**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-deps-
+
+      - uses: actions/cache@v5
+        with:
+          path: resources/
+          key: ${{ runner.os }}-hugo-resources-${{ hashFiles('assets/**/*', 'config/**/*', 'hugo.yaml', 'package.json') }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-resources-
+
+      - name: Build with Hugo
+        env:
+          HUGO_ENVIRONMENT: production
+          HUGO_BLOX_LICENSE: ${{ secrets.HUGO_BLOX_LICENSE }}
+        run: |
+          hugo --cleanDestinationDir --gc --minify
+
+      - name: Generate Pagefind search index
+        run: |
+          if [ -f "package.json" ] && grep -q "pagefind" package.json; then
+            pnpm run pagefind || npx pagefind --site "public"
+          fi
+
+      # -------------------------------------------------------------
+      # Déploiement Option 1 : SSH / rsync (Recommandé pour Infomaniak)
+      # -------------------------------------------------------------
+      - name: Deploy via SSH (rsync)
+        if: ${{ env.DEPLOY_METHOD == 'ssh' || (secrets.INFOMANIAK_SSH_KEY != '' && env.DEPLOY_METHOD != 'ftp') }}
+        uses: easingthemes/ssh-deploy@v5.1.0
+        with:
+          SSH_PRIVATE_KEY: ${{ secrets.INFOMANIAK_SSH_KEY }}
+          ARGS: "-rlgoDvz --delete"
+          SOURCE: "public/"
+          REMOTE_HOST: ${{ secrets.INFOMANIAK_HOST }}
+          REMOTE_PORT: ${{ secrets.INFOMANIAK_PORT || '22' }}
+          REMOTE_USER: ${{ secrets.INFOMANIAK_USER }}
+          TARGET: ${{ secrets.INFOMANIAK_TARGET_DIR || '/sites/drgoulu.com/' }}
+          EXCLUDES: "/.git/, /.github/"
+
+      # -------------------------------------------------------------
+      # Déploiement Option 2 : FTP / FTPS
+      # -------------------------------------------------------------
+      - name: Deploy via FTP / FTPS
+        if: ${{ env.DEPLOY_METHOD == 'ftp' || (secrets.INFOMANIAK_SSH_KEY == '' && secrets.INFOMANIAK_PASSWORD != '') }}
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.INFOMANIAK_HOST }}
+          username: ${{ secrets.INFOMANIAK_USER }}
+          password: ${{ secrets.INFOMANIAK_PASSWORD }}
+          server-dir: ${{ secrets.INFOMANIAK_TARGET_DIR || '/sites/drgoulu.com/' }}
+          local-dir: './public/'
+          protocol: ftps
