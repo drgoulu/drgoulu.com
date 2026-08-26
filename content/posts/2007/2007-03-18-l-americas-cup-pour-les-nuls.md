@@ -14,7 +14,7 @@ En juin aura lieu à Valence la compétition reine de la voile, la [Coupe de l'A
 
 ### un peu d'Histoire
 
-![](images/200px-America%27s_Cup.jpg)En l'an de grâce 1851, la goélette "America" eut l'outrecuidance de battre les 14 voiliers les plus rapides de sa Gracieuse Majesté, grâce à une arme technologique décisive : les voiles en coton. Les Anglais dépités refilèrent aux 'ricains une moche [aiguière](http://fr.wikipedia.org/wiki/Aigui%C3%A8re) en argent qui trainait dans un coin du Royal Yacht Club de Cowes, et les cow-boys la trouvèrent magnifique et la baptisèrent "Coupe de l'America".
+![](images/200px-Americas_Cup.jpg)En l'an de grâce 1851, la goélette "America" eut l'outrecuidance de battre les 14 voiliers les plus rapides de sa Gracieuse Majesté, grâce à une arme technologique décisive : les voiles en coton. Les Anglais dépités refilèrent aux 'ricains une moche [aiguière](http://fr.wikipedia.org/wiki/Aigui%C3%A8re) en argent qui trainait dans un coin du Royal Yacht Club de Cowes, et les cow-boys la trouvèrent magnifique et la baptisèrent "Coupe de l'America".
 
 La Coupe se disputa ensuite à un rythme irrégulier, mais toujours sur le principe du défi : un seul "challenger" est sélectionné pour affronter le "defender" titulaire de la Coupe, qui définit le lieu et les règles de la course, ce qui donne un avantage certain au "defender"
 

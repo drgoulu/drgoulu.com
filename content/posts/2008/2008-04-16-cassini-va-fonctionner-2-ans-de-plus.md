@@ -15,7 +15,7 @@ Bonne nouvelle : la sonde Cassini qui nous a déjà apporté une myriade d'infor
 
 Sa mission initiale s'achève cet été, mais elle est en tellement bon état que la NASA a décidé de la faire repasser près de Saturne et 4 de ses satellites Titan, Encelade, Dioné, Rhéa et Hélène, représentés sur le photo montage ci-dessous.
 
-![](images/image.php)
+![](images/saturn_family.jpg)
 
 Après les océans, les volcans et les geysers, les chaines montagneuses et les cratères bizarres déjà trouvés sur ces astres si lointains, quelle merveilles nous surprendront encore ? Une chose est sure, j'en parlerai ici.
 

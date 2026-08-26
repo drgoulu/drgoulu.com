@@ -2,13 +2,13 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 fr:
-  languageCode: fr-FR
-  languageName: Français
+  locale: fr-FR
+  label: Français
   params:
     locale: fr-fr
 
 en:
-  languageCode: en-US
-  languageName: English
+  locale: en-US
+  label: English
   params:
     locale: en-us

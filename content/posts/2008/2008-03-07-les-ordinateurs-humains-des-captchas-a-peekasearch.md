@@ -30,7 +30,7 @@ Luis Von Ahn a ainsi créé [PeekaSearch](http://www.peekaboom.org), un moteur d
 
 ![](images/476e8d964f6d6a08c1f2579b6745d7ad.png)
 
-![](images/esp%20game-cmu.jpg)
+![](images/esp-game-cmu.jpg)
 
 - "[Peekaboo](http://www.peekaboom.org/)" est aussi un système de reconnaissance d'image à deux joueurs, mais là un des joueurs rèvèle peu à peu l'image à l'autre, qui doit reconnaître le mot décrivant l'image. Je pense que ça sert à situer le contenu des images à partir des mots définis dans le "ESP game".
     
