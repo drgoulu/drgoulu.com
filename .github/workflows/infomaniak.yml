@@ -113,7 +113,7 @@ jobs:
       # Déploiement Option 1 : SSH / rsync (Recommandé pour Infomaniak)
       # -------------------------------------------------------------
       - name: Deploy via SSH (rsync)
-        if: ${{ env.DEPLOY_METHOD == 'ssh' || (secrets.INFOMANIAK_SSH_KEY != '' && env.DEPLOY_METHOD != 'ftp') }}
+        if: ${{ env.DEPLOY_METHOD == 'ssh' }}
         uses: easingthemes/ssh-deploy@v5.1.0
         with:
           SSH_PRIVATE_KEY: ${{ secrets.INFOMANIAK_SSH_KEY }}
@@ -129,7 +129,7 @@ jobs:
       # Déploiement Option 2 : FTP / FTPS
       # -------------------------------------------------------------
       - name: Deploy via FTP / FTPS
-        if: ${{ env.DEPLOY_METHOD == 'ftp' || (secrets.INFOMANIAK_SSH_KEY == '' && secrets.INFOMANIAK_PASSWORD != '') }}
+        if: ${{ env.DEPLOY_METHOD == 'ftp' }}
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.INFOMANIAK_HOST }}
