@@ -10,7 +10,8 @@
 public/
 
 # Hugo resources (processed assets)
-resources/
+# resources/
+# keep for speed on GitHub Actions rebuilds
 
 # Hugo build lock
 .hugo_build.lock
