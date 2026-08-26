@@ -128,7 +128,7 @@ jobs:
         HUGO_BLOX_LICENSE: ${{ secrets.HUGO_BLOX_LICENSE }}
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-        hugo --minify
+        hugo --minify --templateMetrics
 
     - name: Generate Pagefind search index (if applicable)
       run: |
@@ -137,8 +137,16 @@ jobs:
           pnpm run pagefind || npx pagefind --site "public"
         fi
 
-    - name: Upload artifact
-      id: upload
+    - name: Upload Pages artifact
+      id: upload-pages
       uses: actions/upload-pages-artifact@v4
       with:
         path: ./public
+
+    - name: Upload build artifact
+      id: upload-build
+      uses: actions/upload-artifact@v4
+      with:
+        name: public
+        path: ./public
+        retention-days: 1

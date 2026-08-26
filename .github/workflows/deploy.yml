@@ -68,11 +68,9 @@ jobs:
   deploy:
     needs: [config, build]
     if: needs.config.outputs.deploy-host == 'github-pages'
-    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
     permissions:
-      pages: write # to deploy to Pages
-      id-token: write # to verify the deployment originates from an appropriate source
-    # Deploy to the github-pages environment
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -81,3 +79,39 @@ jobs:
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v4
+
+  # Deploy website to Infomaniak (shares the same build)
+  deploy-infomaniak:
+    needs: [config, build]
+    if: ${{ secrets.INFOMANIAK_HOST != '' }}
+    runs-on: ubuntu-latest
+    steps:
+    - name: Download build artifact
+      uses: actions/download-artifact@v4
+      with:
+        name: public
+        path: public/
+
+    - name: Deploy via SSH (rsync)
+      if: ${{ secrets.INFOMANIAK_SSH_KEY != '' }}
+      uses: easingthemes/ssh-deploy@v5.1.0
+      with:
+        SSH_PRIVATE_KEY: ${{ secrets.INFOMANIAK_SSH_KEY }}
+        ARGS: "-rlgoDvz --delete"
+        SOURCE: "public/"
+        REMOTE_HOST: ${{ secrets.INFOMANIAK_HOST }}
+        REMOTE_PORT: ${{ secrets.INFOMANIAK_PORT || '22' }}
+        REMOTE_USER: ${{ secrets.INFOMANIAK_USER }}
+        TARGET: ${{ secrets.INFOMANIAK_TARGET_DIR || '/sites/drgoulu.com/' }}
+        EXCLUDES: "/.git/, /.github/"
+
+    - name: Deploy via FTP / FTPS
+      if: ${{ secrets.INFOMANIAK_SSH_KEY == '' && secrets.INFOMANIAK_PASSWORD != '' }}
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      with:
+        server: ${{ secrets.INFOMANIAK_HOST }}
+        username: ${{ secrets.INFOMANIAK_USER }}
+        password: ${{ secrets.INFOMANIAK_PASSWORD }}
+        server-dir: ${{ secrets.INFOMANIAK_TARGET_DIR || '/sites/drgoulu.com/' }}
+        local-dir: './public/'
+        protocol: ftps
