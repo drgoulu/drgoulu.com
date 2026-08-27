@@ -19,25 +19,25 @@ Tombé l'autre jour sur un problème idiot [[1]](#ref-1) mais intéressant : cal
 
 Comme même les ésotéristes le savent, la suite de Fibonacci est liée au [nombre d'or.](/2016/07/03/nombre-dor-et-abeilles/) A partir de ce fait, Moivre, Euler et Binet ont indépendamment obtenu ce qu'on appelle aujourd'hui la [formule de Binet](https://fr.wikipedia.org/wiki/Suite_de_Fibonacci#formule_de_Binet), et qui donne directement le n-ième terme de la suite:
 
-\[latex\]\\mathcal F\_n=\\frac1{\\sqrt5}(\\varphi^n-\\varphi'^n)\[/latex\], avec \[latex\] \\varphi=\\frac{1+\\sqrt5}2\[/latex\], et \[latex\] \\varphi'=-\\frac1\\varphi\[/latex\] .
+$\mathcal F_n=\frac1{\sqrt5}(\varphi^n-\varphi'^n)$, avec $ \varphi=\frac{1+\sqrt5}2$, et $ \varphi'=-\frac1\varphi$ .
 
-En pratique, le terme en \[latex\] \\varphi'\[/latex\] devient rapidement négligeable et il suffit de chercher l'entier le plus proche de \[latex\]\\frac{\\varphi^n}{\\sqrt5}\[/latex\]. Par exemple pour n=50, on peut calculer très vite \[latex\]\\mathcal F\_{50}\\approx\\frac{\\varphi^{50}}{\\sqrt5}\[/latex\] = 12586269025
+En pratique, le terme en $ \varphi'$ devient rapidement négligeable et il suffit de chercher l'entier le plus proche de $\frac{\varphi^n}{\sqrt5}$. Par exemple pour n=50, on peut calculer très vite $\mathcal F_{50}\approx\frac{\varphi^{50}}{\sqrt5}$ = 12586269025
 
-Mais on se heurte rapidement au problème de la précision de calcul en nombres flottants sur nos ordinateurs : \[latex\]\\varphi\[/latex\] étant [irrationnel](https://fr.wikipedia.org/wiki/Nombre_irrationnel) (mais pas aussi [transcendant](https://fr.wikipedia.org/wiki/Nombre_transcendant) que \[latex\]\\pi\[/latex\] ...), il faut calculer \[latex\]\\varphi^n\[/latex\] avec au moins autant de décimales que \[latex\]\\mathcal F\_n\[/latex\] comporte de chiffres. Dès n=71 on dépasse les 53 bits de la mantisse des nombres "extended precision" et les dernières décimales des termes calculés sont faux.
+Mais on se heurte rapidement au problème de la précision de calcul en nombres flottants sur nos ordinateurs : $\varphi$ étant [irrationnel](https://fr.wikipedia.org/wiki/Nombre_irrationnel) (mais pas aussi [transcendant](https://fr.wikipedia.org/wiki/Nombre_transcendant) que $\pi$ ...), il faut calculer $\varphi^n$ avec au moins autant de décimales que $\mathcal F_n$ comporte de chiffres. Dès n=71 on dépasse les 53 bits de la mantisse des nombres "extended precision" et les dernières décimales des termes calculés sont faux.
 
-Dit autrement, à partir de n=70 la division \[latex\]\\mathcal F\_n/\\mathcal F\_{n-1}\[/latex\] donne au moins autant de décimales de \[latex\] \\varphi\[/latex\] que son calcul en nombres flottants
+Dit autrement, à partir de n=70 la division $\mathcal F_n/\mathcal F_{n-1}$ donne au moins autant de décimales de $ \varphi$ que son calcul en nombres flottants
 
 ## La Matrice salvatrice
 
-Pour une méthode de calcul en nombres entiers atteignant (presque) la rapidité de la formule de Binet, il faut utiliser l'idée d'un certain Brenner : écrire la récurrence de Fibonacci sous forme matricielle [[2]](#ref-2). La matrice toute simple \[latex\]Q=\\begin{pmatrix}1&1\\\\1&0\\end{pmatrix}\[/latex\] permet d'obtenir un nouveau terme de la série de Fibonacci en la multipliant par un vecteur formé des deux termes précédents:
+Pour une méthode de calcul en nombres entiers atteignant (presque) la rapidité de la formule de Binet, il faut utiliser l'idée d'un certain Brenner : écrire la récurrence de Fibonacci sous forme matricielle [[2]](#ref-2). La matrice toute simple $Q=\begin{pmatrix}1&1\\\\1&0\end{pmatrix}$ permet d'obtenir un nouveau terme de la série de Fibonacci en la multipliant par un vecteur formé des deux termes précédents:
 
-\[latex\]\\begin{pmatrix}1&1\\\\1&0\\end{pmatrix}\\begin{pmatrix}\\mathcal F\_{n-1}\\\\\\mathcal F\_{n-2}\\end{pmatrix}=\\begin{pmatrix}\\mathcal F\_{n}\\\\\\mathcal F\_{n-1}\\end{pmatrix}\[/latex\]
+$\begin{pmatrix}1&1\\\\1&0\end{pmatrix}\begin{pmatrix}\mathcal F_{n-1}\\\\\mathcal F_{n-2}\end{pmatrix}=\begin{pmatrix}\mathcal F_{n}\\\\\mathcal F_{n-1}\end{pmatrix}$
 
 En enchaînant les multiplications matricielles, on obtient le n-ième terme à partir des deux premiers (0,1) ainsi :
 
-\[latex\]\\begin{pmatrix}1&1\\\\1&0\\end{pmatrix}^{n-1}\\begin{pmatrix}1\\\\0\\end{pmatrix}=\\begin{pmatrix}\\mathcal F\_{n}\\\\\\mathcal F\_{n-1}\\end{pmatrix}\[/latex\]
+$\begin{pmatrix}1&1\\\\1&0\end{pmatrix}^{n-1}\begin{pmatrix}1\\\\0\end{pmatrix}=\begin{pmatrix}\mathcal F_{n}\\\\\mathcal F_{n-1}\end{pmatrix}$
 
-En fait on retrouve les termes de la suite directement dans la matrice  \[latex\]Q^n = \\begin{pmatrix}\\mathcal F\_{n+1}&\\mathcal F\_{n}\\\\\\mathcal F\_{n}&\\mathcal F\_{n-1}\\end{pmatrix}\[/latex\].
+En fait on retrouve les termes de la suite directement dans la matrice  $Q^n = \begin{pmatrix}\mathcal F_{n+1}&\mathcal F_{n}\\\\\mathcal F_{n}&\mathcal F_{n-1}\end{pmatrix}$.
 
 L'algorithme de l'[exponentiation rapide](https://fr.wikipedia.org/wiki/exponentiation_rapide) permet d'élever la matrice Q à la puissance n en effectuant log2(n) multiplications de matrices 2x2, soit [environ 63](https://www.wolframalpha.com/input/?i=log\(10%5E19\)%2Flog\(2\)) pour n=1019. Ultra rapide, et facilement généralisable à d'autres formules de récurrence !
 
@@ -45,13 +45,13 @@ Malheureusement, la fonction [matrix\_power de la librairie Python numpy](https:
 
 ## Vers les pétaoctets et au delà ...
 
-Il se trouve que le 1019\-ième terme de la suite de Fibonacci est trop grand pour tenir dans le plus super des ordinateurs. En effet, la longueur du n-ième terme de la suite s'obtient facilement en prenant le log (base 10)  de la formule de Binet : \[latex\]\\mathcal L\_n=\\lceil n\\log{\\varphi}\\rceil\[/latex\] , soit grosso-modo n\*0.208987640249978733769272089237555416822459239918210953539...
+Il se trouve que le 1019\-ième terme de la suite de Fibonacci est trop grand pour tenir dans le plus super des ordinateurs. En effet, la longueur du n-ième terme de la suite s'obtient facilement en prenant le log (base 10)  de la formule de Binet : $\mathcal L_n=\lceil n\log{\varphi}\rceil$ , soit grosso-modo n\*0.208987640249978733769272089237555416822459239918210953539...
 
 Vérifions. Pour n=1000, on obtient:
 
-\[latex\]\\mathcal F\_{1000}\[/latex\]=43466557686937456435688527675040625802564660517371780402481729089536555417949051890403879840079255169295922593080322634775209689623239873322471161642996440906533187938298969649928516003704476137795166849228875 qui comporte bien pile 209 chiffres.
+$\mathcal F_{1000}$=43466557686937456435688527675040625802564660517371780402481729089536555417949051890403879840079255169295922593080322634775209689623239873322471161642996440906533187938298969649928516003704476137795166849228875 qui comporte bien pile 209 chiffres.
 
-Donc \[latex\]\\mathcal F\_{10^{19}}\[/latex\] comporte 2089876402499787337 chiffres ... Il faudrait [dans les 867](https://www.wolframalpha.com/input/?i=10%5E19*log\(\(1%2Bsqrt\(5\)\)%2F2\)%2Flog\(2\)%2F8) [péta](https://fr.wikipedia.org/wiki/péta)octets de RAM (de préférence...) pour stocker ce nombre ...
+Donc $\mathcal F_{10^{19}}$ comporte 2089876402499787337 chiffres ... Il faudrait [dans les 867](https://www.wolframalpha.com/input/?i=10%5E19*log\(\(1%2Bsqrt\(5\)\)%2F2\)%2Flog\(2\)%2F8) [péta](https://fr.wikipedia.org/wiki/péta)octets de RAM (de préférence...) pour stocker ce nombre ...
 
 {{< figure src="images/1nv66i.jpg" alt="(mon premier meme ... désolé ...)" caption="(mon premier meme ... désolé ...)" align="alignright" width="500" >}}
 

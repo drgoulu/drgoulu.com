@@ -48,7 +48,7 @@ En 1964, l'astronome russe [Kardashev proposa une échelle](https://fr.wikipedi
 
 [Carl Sagan](https://fr.wikipedia.org/wiki/Carl_Sagan) proposa la fonction suivante pour obtenir une échelle continue, W étant la consommation d'énergie en Watts :
 
-$latex K = \\frac{\\log\_{10}{W}-6}{10}$
+$K = \frac{\log_{10}{W}-6}{10}$
 
 Sur cette échelle, l'humanité se situe actuellement autour de K=0.7, avec un taux de croissance de 0.1 / siècle environ. D'ici 300 ans, nous devrions nous approcher du niveau I en consommant 1000x plus d'énergie qu'aujourd'hui. Pour produire autant d'énergie à une fraction du coût actuel, nous ne couvrirons pas la planète d'éoliennes ou de panneaux solaires. Nous pourrions mettre en orbite, mais la [fusion thermonucléaire](/tags/fusion/) sera plus probablement la source primaire. Comment peut-on imaginer utiliser tant d'énergie ? Peut-être en désalinisant la mer pour arroser des déserts. En construisant des tunnels intercontinentaux ou des trains circuleraient sous vide (efficacité énergétique oblige) à plus de 1000 km/h. En transformant le Lune en station touristique (mon rève depuis le 20 juillet 1969). En [allant beaucoup plus loin](/2004/08/09/acceleration/).
 

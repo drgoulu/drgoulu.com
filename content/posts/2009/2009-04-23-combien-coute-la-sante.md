@@ -32,7 +32,7 @@ Aux USA, moins de la moitié (46%) de la facture de la santé est couverte par l
 
 Grâce à la médecine, on vit plus longtemps. On s'attend donc à une corrélation entre les dépenses de santé et l'espérance de vie, mais elle n'est pas très nette\*:
 
-[![cout\_sante\_esperancevie](images/55dcdbc62c522434bbe6a9d30bd157c8.png "cout_sante_esperancevie")](http://www.nationmaster.com/plot/hea_lif_exp_at_bir_tot_pop-life-expectancy-birth-total-population/hea_per_cap_tot_exp_on_hea_in_int_dol-capita-total-expenditure-international-dollars/flag)
+[![cout_sante_esperancevie](images/55dcdbc62c522434bbe6a9d30bd157c8.png "cout_sante_esperancevie")](http://www.nationmaster.com/plot/hea_lif_exp_at_bir_tot_pop-life-expectancy-birth-total-population/hea_per_cap_tot_exp_on_hea_in_int_dol-capita-total-expenditure-international-dollars/flag)
 
 Certains pays comme la [Jordanie](http://www.nationmaster.com/country/jo-jordan/hea-health) atteignent aussi 80 ans d'espérance de vie, mais la santé n'y coûte que $140/habitant et par an seulement (soit 9.3% du PIB jordanien tout de même...), alors que plusieurs pays africains dépensent plus alors que les nouveaux-nés ne peuvent [espérer](/2007/06/26/statistiques-et-esperance-de-vie/) y vivre que 50 ans. Est-ce donc bien parce qu'on dépense de l'argent dans la santé qu'on vit plus vieux ? Ou est-ce parce qu'on vit vieux que la santé coûte cher ? La question est délicate à plus d'un titre, mais une chose est certaine : le cout de la santé varie énormément avec l'âge, comme le montre ce graphique tiré des statistiques suisses [[2]](#ref-2):
 

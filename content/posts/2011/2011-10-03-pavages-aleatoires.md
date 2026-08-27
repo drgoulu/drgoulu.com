@@ -26,7 +26,7 @@ En 2011, c'est John Shier, un "artiste algorithmique" qui vient d'ouvrir tout g
 
 Le problème est que si on réduit la taille des pavés trop vite on ne recouvre pas tout le plan, et si on réduit trop lentement, on risque d'être "coincé" à ne pas pouvoir placer un pavé. L'astuce consiste à attribuer au i-ème pavé une surface de A0/ic. Dans ce cas, la surface totale vaut :
 
- \[mathjax\]$$A\_{total}=A\_{0}\\sum\_{i=0}^{\\infty}i^{-c}$$
+ \[mathjax\]$$A_{total}=A_{0}\sum_{i=0}^{\infty}i^{-c}$$
 
 On reconnait en passant la [fonction zêta de Riemann](https://fr.wikipedia.org/wiki/fonction_zêta_de_Riemann), qui converge pour c>1. Grâce à cette formule, une fois choisi un c, la formule permet de calculer la surface A0 qui garantit qu'il ne restera plus un seul espace libre après avoir placé une infinité de pavés. En pratique on obtient d'excellent remplissages avec quelques milliers de pavés, un peu de patience et un bon programme. Paul Bourke décrit tout ceci en détail sur une page [[5]](#ref-5) agrémentée de magnifiques exemples:
 

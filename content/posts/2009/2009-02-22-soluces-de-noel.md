@@ -43,7 +43,7 @@ les [solutions](http://www.ffjm.org/upload/fichiers/reponsesQuartsFinIndividuel.
 
 Une pile de boulets formée sur une base rectangulaire se termine par une couche ne contenant qu'une ligne de m boulets. La couche juste inférieure contient 2 lignes de m+1 boulets, la suivante 3 lignes de m+2 boulets et ainsi de suite. La i-ème couche contient donc i.(m+i-1) boulets et le nombre de boulets d'une pile contenant c couches est de
 
-$latex n= sum\_{i=1}^{c} i.(m+i-1) = m.sum\_{i=1}^{c} i + m.sum\_{i=1}^{c} i^2 -c$
+$n= sum_{i=1}^{c} i.(m+i-1) = m.sum_{i=1}^{c} i + m.sum_{i=1}^{c} i^2 -c$
 
 En utilisant la formule de la somme des premiers entiers et celle de la [somme des premiers carrés](http://www.les-suites.fr/somme-des-n-premiers-carres.htm), on obtient n=c.(c+1).(3m+2c-2)/6, résultat que l'on retrouve déjà dans un "[Cours de mathématiques: à l'usage des écoles impériales militaires](http://books.google.ch/books?id=2NI2AAAAMAAJ&pg=RA1-PA211&lpg=RA1-PA211&dq=pile+de+boulets+de+canon&source=web&ots=MpGduIk45L&sig=8T6edoA5xMKAYbnbJSmOvlHHNrA&hl=fr&sa=X&oi=book_result&resnum=4&ct=result)" de 1813!
 

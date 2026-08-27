@@ -43,7 +43,7 @@ Ce qui fait l'intérêt d'une course apparemment simple c'est:
 
 Les bateaux de "Classe America" sont des voiliers très spécifiques, conçus spécialement non seulement pour le match-race, mais même pour les conditions météorologiques spécifiques au lieu où se dispute la Coupe. Les bateaux doivent être conforme à une "jauge" qui était à l'origine un jolie formule comme je les aime:
 
-$latex frac{L+1.25 sqrt{S} -9.8 sqrt\[3 \]{DSP} }{0.686} leq 24 m$
+$frac{L+1.25 sqrt{S} -9.8 sqrt\[3 \]{DSP} }{0.686} leq 24 m$
 
 où: L est la longueur en mètres, S la surface de voile en m² et DSP le déplacement en m³. Le déplacement c'est aussi le poids du bateau en tonnes, si vous vous souvenez d'Archimède (bon, ok, à la densité de l'eau de mer près).
 

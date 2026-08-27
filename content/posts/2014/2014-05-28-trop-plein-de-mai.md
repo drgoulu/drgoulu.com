@@ -53,7 +53,7 @@ Très intéressante [émission "Médialogues" entendue à la RTS](http://www.rt
 
 L'un des plus utilisé et le "[Gunning fog index](https://en.wikipedia.org/wiki/Gunning_fog_index)" , qui mixe le nombre moyen de mots par phrase et la proportion de "mots complexes", un mot étant "complexe" s'il contient trois syllabes ou plus. La formule de l'indice:
 
-$latex 0.4\\left\[ \\left(\\frac{\\mbox{Nmots}}{\\mbox{Nphrases}}\\right) + 100\\left(\\frac{\\mbox{Nmots complexes}}{\\mbox{Nmots}}\\right) \\right\]$
+$0.4\left[ \left(\frac{\mbox{Nmots}}{\mbox{Nphrases}}\right) + 100\left(\frac{\mbox{Nmots complexes}}{\mbox{Nmots}}\right) \right]$
 
 correspond très approximativement au nombre d'années de scolarité nécessaires à la compréhension du texte. On considère qu'un texte est largement compréhensible par l'ensemble de la population si son indice est inférieur à 8. Un texte d'indice 12 correspond au niveau de lecture courant à la fin du bac. [Cet article](http://s.billard.free.fr/referencement/?2006/09/21/287-tester-la-lisibilite-des-textes) fournit le petit tableau suivant:
 

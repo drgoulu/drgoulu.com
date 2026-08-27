@@ -265,7 +265,7 @@ En ce qui concerne le point de donnée, examinons la probabilité cumulée F(t, 
 
 Si ces probabilités sont indépendantes pour les petits volumes, le nombre attendu d'autres explosions arrivant ici jusqu'à T = l'âge de l'univers moins un million d'années est au minimum l'intégrale de F(t, dv) sur la surface du cône de lumière passé dont le sommet est un million d'années dans notre passé. En utilisant une approximation espace homogène (sans doute valide aux échelles cosmologiques), de telle sorte que F(t, dv) = F(t) \* dv, on obtient:
 
-$latex \\int\_{t=0}^{T}4\\pi F(T-t)t^2dt$
+$\int_{t=0}^{T}4\pi F(T-t)t^2dt$
 
 Notre point de donnée unique donne une forte preuve probabiliste que cette intégrale ne vaut pas beaucoup plus de un. Cela implique que F(t) est très petit! Par exemple, si F est indépendante du temps, de sorte que F(t) = 1-e\-f.t ou approximativement f.t pour f.t petit, alors f.T.(volume-moyen-par-étoile) n'est pas beaucoup plus grand que 1 / (nombre d'étoiles dans l'univers visible),soit environ 10 \-22.
 

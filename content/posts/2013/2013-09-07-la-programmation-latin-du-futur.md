@@ -66,7 +66,7 @@ Parce que combiner les deux peut donner des idées trop bizarres. Damian Conway 
 
 parfaitement valide et absolument équivalent à celui-ci:
 
-\[code lang="perl"\] print STDOUT 'maximum:'; my $maxim = ; my (@list) = (2..$maxim); while ($next = shift @list) { print STDOUT $next, "\\n"; @list = grep {$\_ % $next} @list; }\[/code\]
+\[code lang="perl"\] print STDOUT 'maximum:'; my $maxim = ; my (@list) = (2..$maxim); while ($next = shift @list) { print STDOUT $next, "\\n"; @list = grep {$_ % $next} @list; }\[/code\]
 
 Et si après [Astérix](http://www.asterix.com/la-collection/les-traductions/asterix-en-latin.html),  la programmation permettait de moderniser l'enseignement du latin ?
 

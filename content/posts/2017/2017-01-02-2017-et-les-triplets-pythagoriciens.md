@@ -14,7 +14,7 @@ coverImage: "artmaths0202.gif"
 
 Au moment d'envoyer un mot à Franck à propos de son livre [[1]](#ref-1), je me suis rappelé qu'il était à l'origine de [ce billet](/2012/04/28/un-peu-de-pedagogie-grace-a-pythagore/) sur la pédagogie appliquée au théorème de Pythagore (et aussi de [celui-ci](/2013/12/15/comment-expliquer-la-relativite-aux-enfants/) sur la Relativité).  J'ai ainsi découvert celle des [453 propriétés de 2017 répertoriées dans l'OEIS](https://oeis.org/search?q=seq%3a2017&fmt=short) sur laquelle baser mes vœux pour cette nouvelle année :
 
-## Bonne et Heureuse Année \[latex\]\\sqrt{792^2+1855^2}\[/latex\] !
+## Bonne et Heureuse Année $\sqrt{792^2+1855^2}$ !
 
 En effet, 2017 est un "nombre hypotenuse" ([A009003](https://oeis.org/A009003)), l'hypoténuse du triangle rectangle correspondant au [triplet pythagoricien](https://fr.wikipedia.org/wiki/triplet_pythagoricien) (792,1855,2017). C'est même un triplet pythagoricien "primitif" car ces 3 entiers sont [premiers entre eux](https://fr.wikipedia.org/wiki/premiers_entre_eux), donc 2017 est un "nombre hypoténuse primitif" ([A008846](https://oeis.org/A008846)).
 
@@ -28,7 +28,7 @@ Il existe plusieurs algorithmes simples pour générer des triplets pythagoricie
 
 J'ai depuis découvert l'existence d'une méthode beaucoup plus efficace, mais pas simple. Quelques millénaires après [Pythagore](https://fr.wikipedia.org/wiki/Pythagore) et la [corde à 13 nœuds des égyptiens](https://fr.wikipedia.org/wiki/Corde à_nœuds#Composition_de_la_corde_à_13_nœuds), en 1934 pour être précis, un matheux nommé Berggren a démontré que chaque triplet primitif pouvait être généré à partir de (3,4,5) en le multipliant par une combinaison de ces 3 petites matrices [[2]](#ref-2):
 
-\[latex\]R\_1 =\\begin{pmatrix} 1 & -2 & 2 \\\\ 2 & -1 & 2 \\\\ 2 & -2 & 3 \\\\ \\end{pmatrix}\[/latex\] \[latex\]R\_2 =\\begin{pmatrix} 1 & 2 & 2 \\\\ 2 & 1 & 2 \\\\ 2 & 2 & 3 \\\\ \\end{pmatrix}\[/latex\] \[latex\]R\_3 =\\begin{pmatrix} -1 & 2 & 2 \\\\ -2 & 1 & 2 \\\\ -2 & 2 & 3 \\\\ \\end{pmatrix}\[/latex\]
+$R_1 =\begin{pmatrix} 1 & -2 & 2 \\\\ 2 & -1 & 2 \\\\ 2 & -2 & 3 \\\\ \end{pmatrix}$ $R_2 =\begin{pmatrix} 1 & 2 & 2 \\\\ 2 & 1 & 2 \\\\ 2 & 2 & 3 \\\\ \end{pmatrix}$ $R_3 =\begin{pmatrix} -1 & 2 & 2 \\\\ -2 & 1 & 2 \\\\ -2 & 2 & 3 \\\\ \end{pmatrix}$
 
 Un autre matheux nommé Barning ayant montré en 1963\*\* que chaque triplet n'est ainsi produit que d'une et une seule manière [[3]](#ref-3), il suffit de parcourir l'[arbre ternaire](https://en.wikipedia.org/wiki/Tree_of_primitive_Pythagorean_triples) formé en multipliant chaque nœud par chacune de ces 3 matrices pour générer l'un après l'autre tous les triplets primitifs:
 

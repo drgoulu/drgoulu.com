@@ -40,7 +40,7 @@ J'ai alors cherché des pistes sur [MathOverflow](http://mathoverflow.net/), un
 
 On trouve aussi sur MathOverflow une [cinquantaine de questions relatives à la K-theorie de Morava](http://mathoverflow.net/search?q=Morava+K-theory), mais elles n'ont qu'une réponse, voire moins ce qui confirme qu'il s'agit là d'un domaine très très pointu...
 
-Mais j'y ai quand même trouvé une figure décorant une question (intéressante) où la K-théorie de Morava est mentionnée : [Que sait-on de la somme \[latex\]x^{n^2}/n\[/latex\] ?](http://mathoverflow.net/questions/146139/what-is-known-about-the-sum-xn2-n) . Aucune idée de ce qu'elle représente, mais comme elle est un peu colorée, elle va au moins servir à égayer un peu cet article.
+Mais j'y ai quand même trouvé une figure décorant une question (intéressante) où la K-théorie de Morava est mentionnée : [Que sait-on de la somme $x^{n^2}/n$ ?](http://mathoverflow.net/questions/146139/what-is-known-about-the-sum-xn2-n) . Aucune idée de ce qu'elle représente, mais comme elle est un peu colorée, elle va au moins servir à égayer un peu cet article.
 
 ### Les maths sont elles encore vulgarisables ?
 
@@ -61,15 +61,15 @@ Fort heureusement il y a une [page Wikipedia sur le sujet](https://en.wikipedia
 | 1 | complex K-theory | complex K-theory spectrum KU | KR-theory |
 |  | first Morava K-theory | K(1) |  |
 |  | first Morava E-theory | E(1) |  |
-| 2 | elliptic cohomology | elliptic spectrum \[latex\]Ell\_E\[/latex\] |  |
+| 2 | elliptic cohomology | elliptic spectrum $Ell_E$ |  |
 |  | second Morava K-theory | K(2) |  |
 |  | second Morava E-theory | E(2) |  |
 |  | algebraic K-theory of KU | K(KU) |  |
 | 3 …10 | K3 cohomology | K3 spectrum |  |
 | n | nth Morava K-theory | K(n) |  |
 |  | nth Morava E-theory | E(n) | BPR-theory |
-| n+1 | algebraic K-theory applied to chrom. level n | \[latex\]K(E\_n)\[/latex\] (red-shift conjecture) |  |
-| \[latex\]\\inf\[/latex\] | complex cobordism cohomology | MU | MR-theory |
+| n+1 | algebraic K-theory applied to chrom. level n | $K(E_n)$ (red-shift conjecture) |  |
+| $\inf$ | complex cobordism cohomology | MU | MR-theory |
 
 Un petit mail à [l'auteur](https://ncatlab.org/nlab/show/Urs+Schreiber) plus tard, j'avais la confirmation que cette table est bien la "tour chromatique", à l'envers car le niveau 0 est en haut, et le niveau infini en bas (aucun matheux ne peut s'arrêter au niveau n s'il peut apercevoir le niveau n+1 ...)
 

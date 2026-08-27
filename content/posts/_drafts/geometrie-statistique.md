@@ -16,11 +16,11 @@ Suite à [mon article](/2011/10/03/pavages-aleatoires/) sur ses travaux en 201
 
 J'ai ainsi reçu un exemplaire papier de son livre (non encore publié) "Fractalize That" [[1]](#ref-1), deux articles co-écrits avec [Paul Bourke](http://paulbourke.net/) [[2]](#ref-2), [[3]](#ref-3), et tout récemment un article [[4]](#ref-4) sur lequel je reviendrai plus bas.
 
-L'introduction du livre présente les [pavages](https://fr.wikipedia.org/wiki/pavage) périodiques et [de Penrose](https://fr.wikipedia.org/wiki/pavage_de_Penrose), mais aussi les pavages "fractals" comme le [Triangle de Sierpiński](https://fr.wikipedia.org/wiki/Triangle_de_Sierpiński) et les [cercles appoloniens](https://fr.wikipedia.org/wiki/Cercle_d'Apollonius) avant d'introduire le principe du pavage aléatoire ("random tiling") par des pavés d'aire \\(A\_i\\) décroissante selon la loi : \[mathjax\]$$A\_i = {A \\over \\zeta(c,N)(N+i)^{c}}$$
+L'introduction du livre présente les [pavages](https://fr.wikipedia.org/wiki/pavage) périodiques et [de Penrose](https://fr.wikipedia.org/wiki/pavage_de_Penrose), mais aussi les pavages "fractals" comme le [Triangle de Sierpiński](https://fr.wikipedia.org/wiki/Triangle_de_Sierpiński) et les [cercles appoloniens](https://fr.wikipedia.org/wiki/Cercle_d'Apollonius) avant d'introduire le principe du pavage aléatoire ("random tiling") par des pavés d'aire \\(A\_i\\) décroissante selon la loi : \[mathjax\]$$A_i = {A \over \zeta(c,N)(N+i)^{c}}$$
 
 où A est l'aire totale à recouvrir, et
 
-$$\\zeta(c,N) = \\sum\_{k=0}^\\infty (N+k)^{-c}$$ la [fonction zêta de Hurwitz](https://fr.wikipedia.org/wiki/fonction zêta_de_Hurwitz),
+$$\zeta(c,N) = \sum_{k=0}^\infty (N+k)^{-c}$$ la [fonction zêta de Hurwitz](https://fr.wikipedia.org/wiki/fonction zêta_de_Hurwitz),
 
 et c et N deux constantes.
 

@@ -25,7 +25,7 @@ Pourtant, quand j'y étais le 3 août, le soleil faisait déjà une sieste d'env
 
 En tenant compte de l'astronomie, mais pas des effets atmosphériques qui font qu'on voit encore le soleil même lorsqu'il est un peu en dessous de l'horizon, la formule approximative de la durée du jour  est [[1]](#ref-1), [[2]](#ref-2), [[3]](#ref-3) :
 
-\[latex\]D = -\\frac{24}{\\pi}.\\cos^{-1}\\left( \\tan \\lambda \\tan\\left( \\sin^{-1}\\left( \\sin \\alpha \\sin \\delta \\right)\\right)\\right)\[/latex\]
+$D = -\frac{24}{\pi}.\cos^{-1}\left( \tan \lambda \tan\left( \sin^{-1}\left( \sin \alpha \sin \delta \right)\right)\right)$
 
 où α est l'inclinaison de l'axe terrestre ( 23.5° ), λ la latitude du site et δ l'angle parcouru par la Terre sur son orbite depuis sa position à l'[équinoxe de printemps](https://fr.wikipedia.org/wiki/équinoxe_de_printemps), environ égal au nombre de jours depuis l'équinoxe x 360°/365
 

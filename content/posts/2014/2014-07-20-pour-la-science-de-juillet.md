@@ -35,7 +35,7 @@ Ensuite, Daniel Wegner et Adrian Ward se demandent si notre mémoire, notre rap
 
 [Srinivasa_Ramanujan](https://fr.wikipedia.org/wiki/Srinivasa_Ramanujan) était un génie des maths autodidacte qui a étonné le monde au début du XXème siècle. C'est lui qui est à [l'origine](https://fr.wikipedia.org/wiki/Srinivasa_Ramanujan#Nombres_de_Ramanujan) de [ma préférence pour 1729](/2008/08/24/nombres-acratopeges/), mais il est surtout connu pour de multiples formules du genre:
 
-\[mathjax\] $$1+\\frac{1}{1\\cdot 3} + \\frac{1}{1\\cdot 3\\cdot 5} + \\frac{1}{1\\cdot 3\\cdot 5\\cdot 7} + \\frac{1}{1\\cdot 3\\cdot 5\\cdot 7\\cdot 9} + \\cdots + {{1\\over 1 + {1\\over 1 + {2\\over 1 + {3\\over 1 + {4\\over 1 + {5\\over 1 + \\cdots }}}}}}} = \\sqrt{\\frac{{\\rm e}\\pi}2}.$$
+\[mathjax\] $$1+\frac{1}{1\cdot 3} + \frac{1}{1\cdot 3\cdot 5} + \frac{1}{1\cdot 3\cdot 5\cdot 7} + \frac{1}{1\cdot 3\cdot 5\cdot 7\cdot 9} + \cdots + {{1\over 1 + {1\over 1 + {2\over 1 + {3\over 1 + {4\over 1 + {5\over 1 + \cdots }}}}}}} = \sqrt{\frac{{\rm e}\pi}2}.$$
 
 données sans démonstration, du genre "mais voyons c'est évident", et que les matheux ont mis quelques décennies à démontrer après le décès de Ramanujan en 1920, à 32 ans seulement.
 

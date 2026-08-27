@@ -22,11 +22,11 @@ Si le fonctionnement d'une hélice d'avion est déjà un sujet assez complexe [[
 
 Mais dans le cas simple du "vol stationnaire" effectué par une grue volante, on peut cependant considérer que la charge est suspendue sous une hélice simple et quelques calculs [[3]](#ref-3) donnent
 
-$latex F=\\sqrt[[3]](#ref-3){2\\rho S P^2}$
+$F=\sqrt[[3]](#ref-3){2\rho S P^2}$
 
 où F est la force axiale générée, ρ la densité de l'air, S la surface balayée par l'hélice et P la puissance des moteurs. Mais une partie de cette puissance est utilisée par le rotor de queue et le fuselage de l'hélico dans le flux du rotor diminue le rendement de l'hélice ce qui fait qu'en incorporant ρ on a en pratique plutôt
 
-$latex F=\\sqrt[[3]](#ref-3){1.4 \\rho S P^2}$
+$F=\sqrt[[3]](#ref-3){1.4 \rho S P^2}$
 
 Pour le MI-26, avec S=π.16² = 804 m² et P=16.8 MW, on obtiendrait une force de levage F=681\[kN\], soit 69.5 tonnes, nettement plus que les 56 annoncées.
 

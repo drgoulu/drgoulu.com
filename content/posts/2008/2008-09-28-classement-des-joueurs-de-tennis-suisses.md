@@ -13,7 +13,7 @@ coverImage: "balle_de_tennis_classement-tennis.png"
 
 ![](images/balle_de_tennis_classement-tennis.png)Dans les commentaire de l'article "[Le comptage des points au tennis](/2008/05/12/le-comptage-des-points-au-tennis/)", un [jeune joueur](/2008/05/12/le-comptage-des-points-au-tennis/#comment-2763) m'a soumis un joli casse-tête : le [règlement de swisstennis sur le classement](http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fwww.swisstennis.ch%2Fupload%2Fdocs%2Fpro_tennis%2F2010_Klassierungsrichtlinien_f.pdf) des tennis(wo)man à croix blanche. Il semblerait que ceux qui n'ont pas de bonnes bases en maths (\*) aient un peu de peine à le comprendre, et c'est vrai que c'est le premier règlement sportif dans lequel je vois des formules de ce genre :
 
-\[latex\]W=\\frac{1}{2}\\left(\\ln(\\sum\\limits\_{i=1}^S{e^{W\_i}+e^{W\_0}})-\\ln(\\sum\\limits\_{j=1}^N{e^{-W\_j}+e^{-W\_0}})\\right)\[/latex\]
+$W=\frac{1}{2}\left(\ln(\sum\limits_{i=1}^S{e^{W_i}+e^{W_0}})-\ln(\sum\limits_{j=1}^N{e^{-W_j}+e^{-W_0}})\right)$
 
 Le principe est simple
 

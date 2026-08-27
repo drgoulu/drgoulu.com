@@ -27,23 +27,23 @@ Les 17 équations retenues par Stewart sont autant de chapitres sur des ponts é
 
 |  | titre du chapitre | [formule](http://www.vincentabry.com/wp-content/uploads/2014/03/equations.png) | auteur | date |
 | --- | --- | --- | --- | --- |
-| 1 | Le carré de l'hippopotame (le théorème de Pythagore) | $latex a^2+b^2=c^2$ | Pythagore | \-530 |
-| 2 | Ecourter les procédures (les logarithmes) | $latex \\log xy=\\log x+\\log y$ | John Napier | 1610 |
-| 3 | Fantômes de quantités disparues (le calcul infinitésimal) | $latex \\frac{df}{dt}=\\lim\\limits\_{h \\to 0}=\\frac{f(t+h)-f(t)}{h}$ | Newton | 1668 |
-| 4 | Le système du monde (la loi de la gravitation de Newton) | $latex F=G\\frac{m\_1 m\_2}{d^2}$ | Newton | 1687 |
-| 5 | Prodige du monde des idées (la racine carrée de -1) | $latex i^2=-1$ | Euler | 1750 |
-| 6 | Beaucoup de bruit pour des noeuds (la formule d'Euler pour les polyèdres) | $latex V-E+F=2$ | Euler | 1751 |
-| 7 | Les motifs du hasard (la distribution normale) | $latex \\Phi(x) = \\frac{1}{{\\sigma \\sqrt {2\\pi } }}e^\\frac {( x - \\mu)^2 } {2\\sigma ^2 }$ | C.F. Gauss | 1810 |
-| 8 | Bonnes vibrations (l'équation d'onde) | $latex \\frac{\\partial ^2 u}{\\partial t^2}=c^2\\frac{\\partial ^2 u}{\\partial x^2}$ | J. d'Alembert | 1746 |
-| 9 | Ondelettes et soubresauts (la transformée de Fourier) | $latex f(\\omega )=\\int\_{-\\infty }^{+\\infty }e^{-2\\pi ix\\omega }dx$ | J. Fourier | 1822 |
-| 10 | L'ascension de l'humanité (l'équation de Navier-Stokes) | $latex \\rho \\left(\\frac{\\partial v}{\\partial t}+v.\\nabla v \\right) = -\\nabla p + \\nabla.T+f$ | C. Navier, G. Stoker | 1845 |
-| 11 | Des vagues dans l'éther (les équations de Maxwell) | $latex \\nabla\\cdot E = \\rho / \\varepsilon\_0$ $latex \\nabla\\cdot B = 0$ \[latex\]\\nabla\\times E = - \\partial B/{\\partial t}\[/latex\] \[latex\]\\nabla\\times B = \\mu\_0 \\left( J + \\varepsilon\_0 \\partial E / {\\partial t}\\right) \[/latex\] | [James Clerk Maxwell](https://fr.wikipedia.org/wiki/James_Clerk_Maxwell) | 1865 |
-| 12 | Loi et désordre (deuxième principe de la thermodynamique) | $latex dS\\geq 0$ | [Ludwig Boltzmann](https://fr.wikipedia.org/wiki/Ludwig_Boltzmann) | 1874 |
-| 13 | Une chose est absolue (la relativité) | $latex E=mc^2$ | [Albert Einstein](https://fr.wikipedia.org/wiki/Albert_Einstein) | 1905 |
-| 14 | Bizarrerie quantique (l'équation de Schrödinger) | $latex i\\hbar \\frac{\\partial }{\\partial t} \\psi=H\\psi$ | [Erwin Schrödinger](https://fr.wikipedia.org/wiki/Erwin_Schrödinger) | 1927 |
-| 15 | Codes communication et ordinateurs (la théorie de l'information) | $latex H=-\\sum p(x)\\log p(x)$ | [Claude Shannon](https://fr.wikipedia.org/wiki/Claude_Shannon) | 1949 |
-| 16 | Le déséquilibre de la nature (la théorie du chaos) | $latex x\_{t+1}=kx\_t(1-x\_t)$ | [Robert May](https://fr.wikipedia.org/wiki/Robert_May) | 1975 |
-| 17 | La formule du roi Midas (l'équation Black-Scholes) | $latex \\frac{\\sigma ^2}{2}S^2\\frac{\\partial ^2V}{\\partial S^2}+rS\\frac{\\partial V}{\\partial S}+\\frac{\\partial V}{\\partial t}-rV$ | F. Black, M. Scholes | 1990 |
+| 1 | Le carré de l'hippopotame (le théorème de Pythagore) | $a^2+b^2=c^2$ | Pythagore | \-530 |
+| 2 | Ecourter les procédures (les logarithmes) | $\log xy=\log x+\log y$ | John Napier | 1610 |
+| 3 | Fantômes de quantités disparues (le calcul infinitésimal) | $\frac{df}{dt}=\lim\limits_{h \to 0}=\frac{f(t+h)-f(t)}{h}$ | Newton | 1668 |
+| 4 | Le système du monde (la loi de la gravitation de Newton) | $F=G\frac{m_1 m_2}{d^2}$ | Newton | 1687 |
+| 5 | Prodige du monde des idées (la racine carrée de -1) | $i^2=-1$ | Euler | 1750 |
+| 6 | Beaucoup de bruit pour des noeuds (la formule d'Euler pour les polyèdres) | $V-E+F=2$ | Euler | 1751 |
+| 7 | Les motifs du hasard (la distribution normale) | $\Phi(x) = \frac{1}{{\sigma \sqrt {2\pi } }}e^{\frac {( x - \mu)^2 } {2\sigma ^2 }$ | C.F. Gauss | 1810 |
+| 8 | Bonnes vibrations (l'équation d'onde) | $\frac{\partial ^2 u}{\partial t^2}=c^2\frac{\partial ^2 u}{\partial x^2}$ | J. d'Alembert | 1746 |
+| 9 | Ondelettes et soubresauts (la transformée de Fourier) | $f(\omega )=\int_{-\infty }^{+\infty }e^{-2\pi ix\omega }dx$ | J. Fourier | 1822 |
+| 10 | L'ascension de l'humanité (l'équation de Navier-Stokes) | $\rho \left(\frac{\partial v}{\partial t}+v.\nabla v \right) = -\nabla p + \nabla.T+f$ | C. Navier, G. Stoker | 1845 |
+| 11 | Des vagues dans l'éther (les équations de Maxwell) | $\nabla\cdot E = \rho / \varepsilon_0$ $\nabla\cdot B = 0$ $\nabla\times E = - \partial B/{\partial t}$ $\nabla\times B = \mu_0 \left( J + \varepsilon_0 \partial E / {\partial t}\right) $ | [James Clerk Maxwell](https://fr.wikipedia.org/wiki/James_Clerk_Maxwell) | 1865 |
+| 12 | Loi et désordre (deuxième principe de la thermodynamique) | $dS\geq 0$ | [Ludwig Boltzmann](https://fr.wikipedia.org/wiki/Ludwig_Boltzmann) | 1874 |
+| 13 | Une chose est absolue (la relativité) | $E=mc^2$ | [Albert Einstein](https://fr.wikipedia.org/wiki/Albert_Einstein) | 1905 |
+| 14 | Bizarrerie quantique (l'équation de Schrödinger) | $i\hbar \frac{\partial }{\partial t} \psi=H\psi$ | [Erwin Schrödinger](https://fr.wikipedia.org/wiki/Erwin_Schrödinger) | 1927 |
+| 15 | Codes communication et ordinateurs (la théorie de l'information) | $H=-\sum p(x)\log p(x)$ | [Claude Shannon](https://fr.wikipedia.org/wiki/Claude_Shannon) | 1949 |
+| 16 | Le déséquilibre de la nature (la théorie du chaos) | $x_{t+1}=kx_t(1-x_t)$ | [Robert May](https://fr.wikipedia.org/wiki/Robert_May) | 1975 |
+| 17 | La formule du roi Midas (l'équation Black-Scholes) | $\frac{\sigma ^2}{2}S^2\frac{\partial ^2V}{\partial S^2}+rS\frac{\partial V}{\partial S}+\frac{\partial V}{\partial t}-rV$ | F. Black, M. Scholes | 1990 |
 
 Chaque chapitre commence par une page de résumé présentant l'équation sous une forme que j'ai trouvé intéressante. Voici par exemple celle du chapitre 9 sur la transformée de Fourier (mais oui, vous savez, [le truc barbare](/2010/03/06/succes-hollywoodiens-et-transformee-de-fourier/)...)
 
