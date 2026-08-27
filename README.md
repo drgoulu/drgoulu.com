@@ -16,7 +16,7 @@ Après avoir évolué sur divers CMS (SPIP, WordPress), le site a été migré v
 * **Près de 800 articles** documentés, illustrés et enrichis de code, équations et diagrammes.
 * **Génération statique ultra-rapide** et sans dépendance à une base de données.
 * **Recherche intégrée côté client** avec [Pagefind](https://pagefind.app/).
-* **Intégration continue & Déploiement automatique (CI/CD)** via GitHub Actions vers l'hébergement Infomaniak et GitHub Pages.
+* **Déploiement direct** par Git push vers le serveur de production Infomaniak.
 
 ---
 
