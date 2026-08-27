@@ -13,6 +13,16 @@ imports:
 mounts:
   - source: content
     target: content
+  - source: content
+    target: assets
+    files:
+      - '**/images/**'
+      - '**/*.jpg'
+      - '**/*.jpeg'
+      - '**/*.png'
+      - '**/*.gif'
+      - '**/*.svg'
+      - '**/*.webp'
   - source: layouts
     target: layouts
   - source: assets

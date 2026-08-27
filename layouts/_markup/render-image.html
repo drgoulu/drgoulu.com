@@ -28,14 +28,12 @@
       {{- end -}}
     {{- end -}}
   {{- end -}}
-  {{/* 3. Check year section directly from site */}}
+  {{/* 3. Check posts/<year>/images/ in assets */}}
   {{- if not $img -}}
     {{- $post_year := .Page.Date.Format "2006" -}}
-    {{- with site.GetPage (printf "posts/%s" $post_year) -}}
-      {{- $img = (.Resources.ByType "image").GetMatch $clean_dest -}}
-      {{- if not $img -}}
-        {{- $img = (.Resources.ByType "image").GetMatch (printf "**/%s" (path.Base $clean_dest)) -}}
-      {{- end -}}
+    {{- $img = resources.Get (path.Join "posts" $post_year "images" (path.Base $clean_dest)) -}}
+    {{- if not $img -}}
+      {{- $img = resources.Get (path.Join "posts" $post_year $clean_dest) -}}
     {{- end -}}
   {{- end -}}
   {{/* 4. Check media/ folder in assets */}}
