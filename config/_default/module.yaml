@@ -13,10 +13,6 @@ imports:
 mounts:
   - source: content
     target: content
-  - source: content/posts
-    target: assets/posts
-  - source: content/pages
-    target: assets/pages
   - source: layouts
     target: layouts
   - source: assets

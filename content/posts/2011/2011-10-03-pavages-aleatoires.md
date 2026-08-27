@@ -1,17 +1,19 @@
 ---
-title: "Pavages aléatoires"
-slug: "pavages-aleatoires"
+title: Pavages aléatoires
+slug: pavages-aleatoires
 date: 2011-10-03
-categories: 
-  - "cat2"
-  - "cat1"
-tags: 
-  - "art"
-  - "fractales"
-  - "geometrie"
-  - "proce55ing"
-  - "programmation"
-coverImage: "400fcf9e5415a8d1b3b559ecdffe0c43.png"
+categories:
+  - cat2
+  - cat1
+tags:
+  - art
+  - fractales
+  - geometrie
+  - proce55ing
+  - programmation
+coverImage: 400fcf9e5415a8d1b3b559ecdffe0c43.png
+draft: false
+
 ---
 
 Il devient de plus en plus difficile de choisir un carrelage original pour sa salle de bains.
@@ -26,7 +28,7 @@ En 2011, c'est John Shier, un "artiste algorithmique" qui vient d'ouvrir tout g
 
 Le problème est que si on réduit la taille des pavés trop vite on ne recouvre pas tout le plan, et si on réduit trop lentement, on risque d'être "coincé" à ne pas pouvoir placer un pavé. L'astuce consiste à attribuer au i-ème pavé une surface de A0/ic. Dans ce cas, la surface totale vaut :
 
- \[mathjax\]$$A_{total}=A_{0}\sum_{i=0}^{\infty}i^{-c}$$
+ $A_{total}=A_{0}\sum_{i=0}^{\infty}i^{-c}$
 
 On reconnait en passant la [fonction zêta de Riemann](https://fr.wikipedia.org/wiki/fonction_zêta_de_Riemann), qui converge pour c>1. Grâce à cette formule, une fois choisi un c, la formule permet de calculer la surface A0 qui garantit qu'il ne restera plus un seul espace libre après avoir placé une infinité de pavés. En pratique on obtient d'excellent remplissages avec quelques milliers de pavés, un peu de patience et un bon programme. Paul Bourke décrit tout ceci en détail sur une page [[5]](#ref-5) agrémentée de magnifiques exemples:
 
@@ -36,13 +38,11 @@ Il a même étendu la méthode à la 3D :
 
 [![](images/46a8f158fcda8e8cafa12c2a7126ec07.jpg)](http://paulbourke.net/texture_colour/randomtile/)
 
-Pour ma part, j'ai réalisé la petite application ci-dessous en [Processing](http://processing.org) (disponible aussi [sur OpenProcessing](http://www.openprocessing.org/visuals/?visualID=40422) avec son code source) pour expérimenter un peu cet algorithme que je trouve spectaculaire:
+Pour ma part, j'ai réalisé la petite application ci-dessous en [Processing](http://processing.org) pour expérimenter un peu cet algorithme que je trouve spectaculaire:
 
-* * *
+<iframe src="https://openprocessing.org/sketch/40422/embed/?plusEmbedHash=e6247168&userID=573&plusEmbedTitle=true&show=sketch" width="640" height="640"></iframe>
 
-\[processing sketch="RandomTiling"\]
-
-* * *
+*(Applet p5.js disponible sur [OpenProcessing](https://openprocessing.org/@Goulu/40422) ou [GitHub Pages](https://goulu.github.io/processing/src/RandomTiling/) • Code source sur [GitHub](https://github.com/goulu/processing/tree/main/src/RandomTiling/))*  
 
 En pressant sur les touches 0,1,3,4,5,6 vous pouvez changer la forme des pavés à la volée, et la touche espace relance un pavage. Contrairement à Shier et Bourke, je ne pave pas un tore mais un rectangle, en prenant garde à ce que les pavés ne soient pas "coupés" par les bords. En plus je me suis amusé à implémenter les pavés en forme d'étoiles, en prévision d'une carte de Noël. Mignon, n'est-ce pas ? Bon, il reste pas mal de noir car la détection d'intersection entre étoiles est très lente, il faudrait améliorer ça.
 
@@ -66,3 +66,4 @@ Une autre amélioration intéressante serait de remplir l'intérieur des pavés 
 3. <span id="ref-3"></span>John Shier "[Filling Space with Random Fractal Non-Overlapping Simple Shapes](http://paulbourke.net/texture_colour/randomtile/paper.pdf)", Hyperseeing, summer 2011 issue, pp. 131-140, published by ISAMA (International Society of the Arts, Mathematics, and Architecture).
 4. <span id="ref-4"></span>John Shier "[Statistical Geometry"](http://john-art.com/stat_geom.html)
 5. <span id="ref-5"></span>Paul Bourke "[Random space filling tiling of the plane](http://paulbourke.net/texture_colour/randomtile/)", July 2011
+

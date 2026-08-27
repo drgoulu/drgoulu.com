@@ -31,11 +31,11 @@ Le langage Processing est fortement inspiré de Java, le système de développem
 
 Ma première application Processing est une version simplifiée et 2D de ma fameuse [Simulation 3D de Galaxie Spirale](/2008/02/08/galaxie-spirale-et-sequence-principale/).
 
-_(Mise à jour du 15.1.2011)_ : Elle était depuis longtemps sur [OpenProcessing](http://www.openprocessing.org/visuals/?visualID=699), mais je peux enfin l'intégrer directement à ce blog :
+_(Mise à jour du 15.1.2011)_ : Elle était depuis longtemps sur [OpenProcessing](https://openprocessing.org/@Goulu/699), mais je peux enfin l'intégrer directement à ce blog :
 
-\[processing width="600" height="400" file="/wp-content/uploads/2008/04/Galaxy.jar"\]Chargement\[/processing\]
+<iframe src="https://openprocessing.org/sketch/699/embed/?plusEmbedHash=fe02603c&userID=573&plusEmbedTitle=true&show=sketch" width="640" height="640"></iframe>
 
-En pressant sur les touches curseur vous pourrez modifier l'ellipsité et la torsion de la galaxie en temps réel. Cette première oeuvre est assez moche, heureusement quelqu'un en a beaucoup amélioré l'esthétique [sur OpenProcessing](http://www.openprocessing.org/visuals/?visualID=700).
+En pressant sur les touches curseur vous pourrez modifier l'ellipsité et la torsion de la galaxie en temps réel. Cette première oeuvre est assez moche, heureusement quelqu'un en a beaucoup amélioré l'esthétique [sur OpenProcessing](https://openprocessing.org/@Goulu/699).
 
 Pour vous mettre à Processing vous aussi :
 
@@ -43,3 +43,4 @@ Pour vous mettre à Processing vous aussi :
 2. [lisez un peut tout ça](http://processing.org/learning/index.html)
 3. lancez-vous à partir des nombreux exemples fournis
 4. consultez la liste des [processing hacks](http://wiki.processing.org/doku.php?id=hacks:contents) pour éviter de réinventer la roue et devenir un vrai gourou
+

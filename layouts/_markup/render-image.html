@@ -19,20 +19,34 @@
   {{- $clean_dest := strings.TrimPrefix "./" $destination -}}
   {{/* 1. Page bundle resources */}}
   {{- $img = (.Page.Resources.ByType "image").GetMatch $clean_dest -}}
-  {{/* 2. Check year folder in assets (e.g. posts/2013/images/...) */}}
+  {{/* 2. Check parent section (year folder in content) resources */}}
+  {{- if not $img -}}
+    {{- with .Page.Parent -}}
+      {{- $img = (.Resources.ByType "image").GetMatch $clean_dest -}}
+      {{- if not $img -}}
+        {{- $img = (.Resources.ByType "image").GetMatch (printf "**/%s" (path.Base $clean_dest)) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{/* 3. Check year section directly from site */}}
   {{- if not $img -}}
     {{- $post_year := .Page.Date.Format "2006" -}}
-    {{- $img = resources.Get (path.Join "posts" $post_year $clean_dest) -}}
+    {{- with site.GetPage (printf "posts/%s" $post_year) -}}
+      {{- $img = (.Resources.ByType "image").GetMatch $clean_dest -}}
+      {{- if not $img -}}
+        {{- $img = (.Resources.ByType "image").GetMatch (printf "**/%s" (path.Base $clean_dest)) -}}
+      {{- end -}}
+    {{- end -}}
   {{- end -}}
-  {{/* 3. Check media/ folder */}}
+  {{/* 4. Check media/ folder in assets */}}
   {{- if not $img -}}
     {{- $img = resources.Get (path.Join "media" $clean_dest) -}}
   {{- end -}}
-  {{/* 4. Check direct path in assets */}}
+  {{/* 5. Check direct path in assets */}}
   {{- if not $img -}}
     {{- $img = resources.Get $clean_dest -}}
   {{- end -}}
-  {{/* 5. Match by basename across assets */}}
+  {{/* 6. Match by basename across assets */}}
   {{- if not $img -}}
     {{- $img = resources.GetMatch (printf "**/%s" (path.Base $clean_dest)) -}}
   {{- end -}}
