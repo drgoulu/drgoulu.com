@@ -40,3 +40,8 @@ hugoblox:
       enable: true
   search:
     enable: true
+  comments:
+    enable: true
+    provider: disqus
+    disqus:
+      shortname: drgoulu

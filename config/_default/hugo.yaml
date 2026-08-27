@@ -7,6 +7,10 @@
 title: 'Dr. Goulu'
 baseURL: 'https://drgoulu.com/'
 
+services:
+  disqus:
+    shortname: 'drgoulu'
+
 permalinks:
   # Applique le format /AAAA/MM/JJ/slug/ à tous les articles du dossier content/posts/
   posts: /:year/:month/:day/:slug/
