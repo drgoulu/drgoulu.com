@@ -1,238 +1,139 @@
-# [The Technical Blog That Builds Your Reputation](https://github.com/HugoBlox/hugo-theme-data-science-blog)
+# Dr. Goulu (drgoulu.com)
 
-[![Screenshot](.github/preview.png)](https://hugoblox.com/templates/data-science-blog?utm_source=github&utm_medium=readme&utm_content=preview)
+> *Pourquoi, Comment, Combien — Blog de vulgarisation scientifique, mathématiques, informatique et curiosités par le Dr. Goulu (Philippe Guglielmetti).*
 
-<!-- TODO: Replace with a short demo video showing Hugo Chat generating a blog post -->
-<!-- https://github.com/user-attachments/assets/REPLACE_ME -->
-
-<h1 align="center">Publish Notebooks, Not Screenshots</h1>
-
-<p align="center">
-  <strong>Your analysis deserves better than a Medium post.</strong><br/>
-  Publish Jupyter notebooks, LaTeX equations, and code-heavy articles as beautiful blog posts — with proper metadata, syntax highlighting, and SEO. All from Markdown files you own.<br/>
-  Built on <a href="https://github.com/HugoBlox/kit">HugoBlox</a> — the open-source framework where AI generates your pages and you own everything as Markdown.
-</p>
-
-<p align="center">
-  <a href="https://hugoblox.com/templates/data-science-blog?utm_source=github&utm_medium=readme&utm_content=cta_top"><b>Deploy Free (60s)</b></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://hugo.chat/?utm_source=github&utm_medium=readme&utm_content=cta_top_data-science-blog"><b>Customize with AI</b></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://hugoblox.com/templates/data-science-blog?utm_source=github&utm_medium=readme&utm_content=demo">Live Demo</a>
-</p>
-
-<div align="center">
-
-  <a href="https://github.com/HugoBlox/hugo-theme-data-science-blog">
-    <img src="https://img.shields.io/github/stars/HugoBlox/hugo-theme-data-science-blog?label=Star&logo=github&style=flat-square&color=181717" alt="GitHub Stars">
-  </a>
-  <a href="https://discord.gg/z8wNYzb">
-    <img src="https://img.shields.io/discord/722225264733716590?label=Discord&logo=discord&logoColor=white&style=flat-square&color=5865F2" alt="Discord">
-  </a>
-  <a href="https://github.com/HugoBlox/kit">
-    <img src="https://img.shields.io/github/stars/HugoBlox/kit?label=HugoBlox&logo=github&style=flat-square&color=181717" alt="HugoBlox Stars">
-  </a>
-
-</div>
-
-<p align="center">
-  <sub>Part of the <a href="https://github.com/HugoBlox/kit"><strong>HugoBlox</strong></a> ecosystem · <strong>150,000+</strong> sites · Rated <strong>4.9/5</strong> (official survey) · Since <strong>2016</strong></sub>
-</p>
+Site web officiel : [drgoulu.com](https://drgoulu.com/)
 
 ---
 
-## Why This Template?
+## 📖 À propos du site
 
-Most blogging platforms butcher code formatting, strip metadata, and lock your content in a database. This is a **technical blog built for people who write code**, not just about it:
+**Dr. Goulu** est un blog personnel et technique créé en 2004, consacré à la science, aux technologies, à l'histoire des découvertes, aux énigmes mathématiques, à l'ingénierie et aux voyages.
 
-- **Data scientists & ML engineers** who want to publish Jupyter notebooks as blog posts — code, outputs, and narrative intact
-- **Technical writers** who need proper syntax highlighting, LaTeX math, and Mermaid diagrams
-- **Researchers** publishing analyses with citations, BibTeX references, and reproducible content
-- **Developers** who want a blog that loads fast, ranks well, and doesn't cost $20/month to host
+Après avoir évolué sur divers CMS (SPIP, WordPress), le site a été migré vers une architecture **statique moderne** propulsée par le générateur [Hugo](https://gohugo.io/) et le framework [Hugo Blox](https://hugoblox.com/) avec [Tailwind CSS](https://tailwindcss.com/).
 
-> *"I moved my blog from Medium to this template and my organic traffic doubled in three months. Turns out owning your own domain and having proper SEO metadata makes a difference."*
-> — **Priya Sharma**, Senior Data Scientist
-
-> *"I publish my Jupyter notebooks directly as blog posts. No screenshots of code, no copy-paste formatting disasters. Just drop the .ipynb and it renders beautifully."*
-> — **Tom Eriksson**, ML Engineer, Stockholm
-
-<p align="center">
-  <a href="https://hugoblox.com/templates/data-science-blog?utm_source=github&utm_medium=readme&utm_content=cta_mid">
-    <img src="https://img.shields.io/badge/⚡️%20Deploy%20Your%20Blog%20in%2060s-7c3aed?style=for-the-badge" alt="Deploy this template" width="400">
-  </a>
-</p>
+### Points clés :
+* **Près de 800 articles** documentés, illustrés et enrichis de code, équations et diagrammes.
+* **Génération statique ultra-rapide** et sans dépendance à une base de données.
+* **Recherche intégrée côté client** avec [Pagefind](https://pagefind.app/).
+* **Intégration continue & Déploiement automatique (CI/CD)** via GitHub Actions vers l'hébergement Infomaniak et GitHub Pages.
 
 ---
 
-## Features
+## 🛠️ Modules et Extensions
 
-| Feature | Benefit |
-| :--- | :--- |
-| **Jupyter & RMarkdown** | Publish `.ipynb` notebooks as beautiful posts — code, outputs, and narrative intact. |
-| **LaTeX math** | Native rendering for equations and technical writing. Drop in `$E=mc^2$` and it just works. |
-| **Syntax highlighting** | 100+ languages with proper code blocks. No screenshots of your IDE. |
-| **Mermaid diagrams** | Flowcharts, sequence diagrams, and architecture drawings in text. |
-| **Tags, categories & authors** | Organize posts with structured metadata. Multi-author support included. |
-| **SEO & AI-ready** | Optimized for search engines and LLMs — your work gets found and recommended. |
-| **AI page generation** | Describe what you need to [Hugo Chat](https://hugo.chat/?utm_source=github&utm_medium=readme&utm_content=features_data-science-blog) — get structured pages with correct front matter instantly. |
-| **Visual editor** | Drag-and-drop blocks in VS Code with [Ownable CMS](https://marketplace.visualstudio.com/items?itemName=ownable.ownable). No coding needed. |
-| **Plain Markdown** | Every file is human-readable. No database, no lock-in, take your content anywhere. |
-| **Free hosting** | Deploy to GitHub Pages, Netlify, Vercel, or Cloudflare — all free tier. |
+Le site intègre un ensemble d'extensions et de shortcodes personnalisés pour enrichir le contenu Markdown :
+
+### 1. Formules Mathématiques (LaTeX / KaTeX)
+Le rendu mathématique est assuré nativement par KaTeX :
+* **En ligne :** `$f(x) = ax + b$`
+* **En bloc centré :**
+  ```latex
+  $$f(x) = \left(\frac{1}{\varphi}\right)^{\frac{1}{\varphi}} x^\varphi$$
+  ```
 
 ---
 
-## 🚀 Get Started
+### 2. Reference 2 Wiki (`w:` / `wiki:`)
+Remplace et modernise l'ancien plugin WordPress *reference-2-wiki*. Tous les liens vers Wikipédia s'ouvrent dans un nouvel onglet et sont automatiquement stylisés avec le symbole **ⓦ**.
 
-### Step 1: Deploy Your Site
+* **Syntaxe Markdown recommandée :**
+  * `[fusion thermonucléaire](w:)` : article FR basé sur le texte du lien.
+  * `[Paul Davies](w:Paul_Davies_(physicien))` : article FR avec titre spécifique.
+  * `[Bigelow Aerospace](w:en)` : article Wikipédia en anglais.
+  * `[Dr. Hal E. Puthoff](w:en:Harold_E._Puthoff)` : article EN avec page spécifique.
+* **Via Shortcode :**
+  * `{{</* w "fusion thermonucléaire" */>}}`
+  * `{{</* w "Harold_E._Puthoff" "en" "Dr. Hal E. Puthoff" */>}}`
 
-**Option A: Launch in browser** (fastest — no install needed)
+---
 
-> [!TIP]
-> Deploy a live site in 60 seconds — no software to install:
-> [**Deploy Data Science Blog free**](https://hugoblox.com/templates/data-science-blog?utm_source=github&utm_medium=readme&utm_content=get_started)
+### 3. Images Flottantes et Légendes (Figure)
+Remplace les balises WordPress `[caption]` pour insérer des images flottantes avec légende, redimensionnement et adaptation responsive sur smartphone :
 
-**Option B: Use the CLI**
-
-```bash
-# Requires Hugo Extended & Node.js
-npx hugoblox create site --template data-science-blog
+```go
+{{</* figure src="images/photo.jpg" caption="Légende de l'image" alt="Description" align="alignright" width="400" link="https://..." */>}}
 ```
 
-### Step 2: Customize With AI + Visual Editing
-
-<table>
-<tr>
-<td width="50%">
-
-**✨ Hugo Chat** — AI customization
-
-Tell Hugo Chat what you want in plain English. It generates structured pages with the right front matter, shortcodes, and blocks for this template.
-
-> *"Create a blog post about fine-tuning LLMs with a code walkthrough and results section"*
-
-[**Try Hugo Chat — free**](https://hugo.chat/?utm_source=github&utm_medium=readme&utm_content=step2_data-science-blog)
-
-</td>
-<td width="50%">
-
-**Ownable CMS** — visual editing in VS Code
-
-1. Install [Ownable CMS](https://marketplace.visualstudio.com/items?itemName=ownable.ownable)
-2. Open your project in VS Code
-3. Click the Ownable icon to start editing visually
-
-</td>
-</tr>
-</table>
-
-![Ownable CMS in Action](https://raw.githubusercontent.com/HugoBlox/kit/main/.github/media/studio/slide-1.webp)
-*Ownable CMS: Drag-and-drop page builder inside VS Code.*
-
-> [!NOTE]
-> **New to Hugo?** No problem. You don't need to know Hugo — edit visually or write Markdown. Hugo is the engine under the hood that makes your site fast, secure, and free to host. [Learn more →](https://docs.ownable.dev/?utm_source=github&utm_medium=readme&utm_content=docs_data-science-blog)
+* `align` : `alignright` (flottant à droite, par défaut), `alignleft` (flottant à gauche), ou `aligncenter` (centré).
+* `width` : Largeur maximale en pixels (ex: `400` ou `400px`).
+* `caption` : Légende textuelle affichée sous l'image.
+* `link` : Lien optionnel pour rendre l'image cliquable.
 
 ---
 
-## 💎 Go Premium
+### 4. Diagrammes Mermaid
+Permet de générer des diagrammes et schémas directement à partir de texte Markdown :
 
-Love the free version? **Blog Pro** takes it further:
-
-- Premium designs that make your content stand out
-- Advanced post layouts and reading experience
-- Enhanced category and series navigation
-- Remove attribution, priority support
-
-| | **Data Science Blog** (Free) | **Blog Pro** |
-| :--- | :---: | :---: |
-| Design | Clean & professional | **Premium designs** |
-| Post layouts | Standard | **Advanced layouts** |
-| Navigation | Tags & categories | **Series & collections** |
-| Support | Community | **Priority** |
-
-<p align="center">
-  <a href="https://hugoblox.com/pricing?utm_source=github&utm_medium=readme&utm_content=premium_data-science-blog"><b>Compare plans</b></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://hugoblox.com/templates/blog-pro?utm_source=github&utm_medium=readme&utm_content=premium_deploy_data-science-blog"><b>Deploy Blog Pro</b></a>
-</p>
+* **Organigrammes (Flowcharts) :**
+  ```mermaid
+  graph TD
+  A[Début] -->|Action| B(Étape suivante)
+  B --> C{Choix}
+  C -->|Option 1| D[Résultat 1]
+  C -->|Option 2| E[Résultat 2]
+  ```
+* **Diagrammes de séquence :**
+  ```mermaid
+  sequenceDiagram
+  Alice->>Bob: Bonjour Bob !
+  Bob-->>Alice: Salut Alice !
+  ```
+* **Diagrammes de classes et d'états :** `classDiagram`, `stateDiagram`, etc.
 
 ---
 
-## 🏆 Why HugoBlox?
+### 5. Graphiques Interactifs (Plotly)
+Intègre des visualisations interactives au format JSON Plotly :
 
-> *Why not just use WordPress, Webflow, or an AI builder like Lovable?*
-
-| | **AI builders** (Lovable, v0) | **CMS platforms** (WordPress, Webflow) | **HugoBlox** |
-| :--- | :---: | :---: | :---: |
-| AI generates your pages | Yes | No | **Yes** |
-| You own the output as readable files | No — React code | No — database | **Yes — Markdown** |
-| Free to host forever | No | No | **Yes** |
-| Human-editable without the tool | Barely | No | **Yes — it's Markdown** |
-| Open source | No | No | **Yes — MIT licensed** |
-
-> [!IMPORTANT]
-> Your content is plain Markdown files. No lock-in, no database, no vendor dependency. If you ever want to leave, take your files and go.
+```go
+{{</* chart data="line-chart" */>}}
+```
+*(Le fichier de données `line-chart.json` doit être placé dans le dossier du post).*
 
 ---
 
-## FAQ
+### 6. Tableaux de Données (CSV / Data Frames)
+Permet d'importer et d'afficher un fichier CSV directement dans un article :
 
-<details>
-<summary><b>Do I need to know Hugo?</b></summary>
-No. Edit visually with Ownable CMS or write Markdown. Hugo is the build engine — you don't need to touch it.
-</details>
-
-<details>
-<summary><b>Can I publish Jupyter notebooks directly?</b></summary>
-Yes. Drop a <code>.ipynb</code> file into your content folder and it renders as a blog post with code cells, outputs, and narrative intact.
-</details>
-
-<details>
-<summary><b>Can I migrate from Medium or WordPress?</b></summary>
-Yes. Export your posts as Markdown (tools exist for both platforms) and drop them into the content folder. Your site is just Markdown files.
-</details>
-
-<details>
-<summary><b>Can I host for free?</b></summary>
-Yes. GitHub Pages, Netlify, Vercel, and Cloudflare Pages all have free tiers for static sites.
-</details>
-
-<details>
-<summary><b>What's Hugo Chat?</b></summary>
-An AI assistant trained on Hugo and HugoBlox docs. Describe what you want and it generates the right pages with correct front matter. <a href="https://hugo.chat/?utm_source=github&utm_medium=readme&utm_content=faq_data-science-blog">Free to try.</a>
-</details>
-
-<details>
-<summary><b>Can I cancel Pro anytime?</b></summary>
-Yes. No questions asked.
-</details>
+```go
+{{</* table path="results.csv" header="true" caption="Tableau des résultats" */>}}
+```
 
 ---
 
-<h2 align="center">🚀 Ready to launch?</h2>
+### 7. Vidéos YouTube
+Intégration responsive respectant la vie privée (via `youtube-nocookie.com`) :
 
-<p align="center">
-  Deploy in 60 seconds. Customize with AI. Own it as Markdown forever.
-</p>
-
-<p align="center">
-  <a href="https://hugoblox.com/templates/data-science-blog?utm_source=github&utm_medium=readme&utm_content=cta_final"><b>Deploy Data Science Blog — free</b></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://hugo.chat/?utm_source=github&utm_medium=readme&utm_content=cta_final_data-science-blog"><b>Customize with AI</b></a>
-</p>
+```go
+{{</* youtube id="yfwb39VCNcQ" width="640" */>}}
+```
 
 ---
 
-## Community & Support
+## 💻 Développement local
 
-- 💬 [**Discord**](https://discord.gg/z8wNYzb) — ask questions, share your site
-- 📚 [**Docs**](https://docs.ownable.dev/?utm_source=github&utm_medium=readme&utm_content=community_data-science-blog)
-- ⭐ [**Star HugoBlox**](https://github.com/HugoBlox/kit) — help others find it
-- 🐦 [**Follow on X**](https://x.com/GoOwnable)
+### Prérequis
+* [Hugo Extended](https://gohugo.io/installation/) (>= 0.160)
+* [Node.js](https://nodejs.org/) (>= 20) & [pnpm](https://pnpm.io/)
 
-### Sponsors
+### Commandes utiles
+```bash
+# Installer les dépendances
+pnpm install
 
-[**❤️ Sponsor on GitHub**](https://github.com/sponsors/gcushen) | [**🏢 Become a Partner**](https://github.com/sponsors/gcushen)
+# Lancer le serveur de développement local
+pnpm run dev
+# ou
+hugo server --disableFastRender
+
+# Construire le site et générer l'index de recherche
+pnpm run build
+```
 
 ---
 
-MIT © 2016-present [**Lore Labs**](https://lore.tech/?utm_source=github&utm_medium=readme)
+## 📄 Licence
+
+Contenu © [Dr. Goulu](https://drgoulu.com/) - Tous droits réservés.
+Code du site sous licence MIT.
