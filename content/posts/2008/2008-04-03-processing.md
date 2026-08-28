@@ -17,7 +17,7 @@ coverImage: "c9da324495432c95e3adfc6ab80f76b9.jpg"
 
 _["Bubble Chamber"](http://www.complexification.net/gallery/machines/bubblechamber/) de [Jared Tarbell](http://www.complexification.net/gallery/) Cliquez sur l'image pour la version interactive_
 
-\[vimeo 658158\]
+{{< vimeo id="658158" title="Bubble Chamber by Jared Tarbell" >}}
 
 _["Solar with Lyrics"](http://www.flight404.com/blog/?p=111) de [Robert Hodgin (flight404)](http://www.flight404.com/blog/?cat=1) musique "Lovely Head" de Goldfrapp_
 

@@ -21,7 +21,8 @@ Inspirés par un livre de SF de 1979 [[3]](#ref-3), le studio [Adrien M / Clair
 
 Totalement subjugué par leur travail\*, en ressortant du musée j'ai craqué pour le livre d'Adrien M / Claire B "La neige n'a pas de sens"\*\*[[5]](#ref-5) mis en relief par une application de réalité augmentée ([Android](https://play.google.com/store/apps/details?id=com.AMCB.Neige) et [Pomme](https://itunes.apple.com/fr/app/am-cb/id1096747889)) qui vous fera oublier Pokemon Go:
 
-\[video src="https://vimeo.com/161944781" width="640"\]\[/video\]
+
+{{< vimeo id="161944781" title=La neige n a pas de sens" >}}
 
 Les oeuvres d'un autre créateur vous attendent dans la dernière salle de l'exposition. [Aurélien Jeanney](http://atelierfp7.fr/) a codé, voire crypté les [voyages extraordinaires](https://fr.wikipedia.org/wiki/voyages_extraordinaires) de Jules Verne pour les transformer en [Voyages typographiques](http://atelierfp7.fr/#/voyages-typographiques/) : ses pages multicolores s'animent et sa police de caractère cryptique devient lisible par l'intermédiaire d'un iPad fourni. Très surprenant aussi, cette salle plaira autant aux plus petits qu'au plus grands amateurs de Jules Verne.
 
