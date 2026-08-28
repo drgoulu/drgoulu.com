@@ -57,5 +57,5 @@ Onur Hosten de l'Université de l'Illinois à Urbana-Champaign n'a pas particip�
 ## Références:
 
 1. <span id="ref-1"></span>Tim Wogan "[Physicists ask photons : Where have you been ?](http://physicsworld.com/cws/article/news/2013/nov/26/physicists-ask-photons-where-have-you-been)", 26 novembre 2013,  physicsworld.com
-2. <span id="ref-2"></span>[![ResearchBlogging.org](images/rb2_tiny.png)](http://www.researchblogging.org){{< altmetric arxiv_id="1304.7469" float="right" >}}Ariel Danan, Demitry Farfurnik, Shimshon Bar-Ad, & Lev Vaidman (2013). Asking photons where have they been ArXiv arXiv: [1304.7469v2](http://arxiv.org/abs/1304.7469v2) \[[pdf](http://arxiv.org/pdf/1304.7469v2.pdf)\], soumis à Physical Review Letters
+2. <span id="ref-2"></span>[![ResearchBlogging.org](images/rb2_tiny.png)](http://www.researchblogging.org){{< altmetric arxiv_id="1304.7469" float="right" >}}Ariel Danan, Demitry Farfurnik, Shimshon Bar-Ad, & Lev Vaidman (2013). Asking photons where have they been ArXiv arXiv: [1304.7469v2](http://arxiv.org/abs/1304.7469v2) [pdf](http://arxiv.org/pdf/1304.7469v2.pdf), soumis à Physical Review Letters
 3. <span id="ref-3"></span>Aephraim Steinberg, Amir Feizpour, Lee Rozema, Dylan Mahler and Alex Hayat "[In praise of weakness](http://physicsworld.com/cws/article/indepth/2013/mar/07/in-praise-of-weakness)", 7 mars 2013, physicsworld.com

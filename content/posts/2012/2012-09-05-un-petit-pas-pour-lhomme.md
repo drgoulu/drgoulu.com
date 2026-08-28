@@ -83,7 +83,7 @@ En attendant, on pourrait commencer par installer de vraies bases spatiales aux 
 
 ### Références
 
-1. <span id="ref-1"></span>Serge Brunier et Frédéric Compain. "La fin des astronautes ?" , 2012, documentaire 52' produit par [Arte](http://www.arte.tv/fr/4059444,CmC=6815884.html) France et Point du Jour \[[teaser](http://www.youtube.com/watch?v=kPI_fuUTzmI)\]
+1. <span id="ref-1"></span>Serge Brunier et Frédéric Compain. "La fin des astronautes ?" , 2012, documentaire 52' produit par [Arte](http://www.arte.tv/fr/4059444,CmC=6815884.html) France et Point du Jour [teaser](http://www.youtube.com/watch?v=kPI_fuUTzmI)
 2. <span id="ref-2"></span>Jay Lindsay, "[New tape: JFK fretted moon program was tough sell](http://phys.org/news/2011-05-tape-jfk-fretted-moon-tough.html)", 25 Mai 2011, Associated Press
 3. <span id="ref-3"></span>Robert P. Dill, N. Brown R. L. Curtis, C. R. Herrmann, A. Trampus "[State-of-the-art reliability analysis of Saturn V propulsion systems](https://archive.org/download/nasa_techdoc_19930075105/19930075105.pdf)", June 1963, General Electric Report RM 63TMP-22 3
 4. <span id="ref-4"></span>Olivier Dessibourg "[Claude Nicollier: «Je partirais pour Mars même sans ticket-retour»](http://www.letemps.ch/Page/Uuid/35a549cc-a5b4-11e0-af99-7b83bebc6d53%7C0)", Le Temps, Lundi 4 juillet 2011

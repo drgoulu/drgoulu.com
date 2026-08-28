@@ -64,8 +64,8 @@ Et avec tout ça, j'ai encore éludé la question de Franck ... je suis tenté d
 
 ### Références:
 
-1. <span id="ref-1"></span>Hubert Reeves "[La théorie de la relativité](http://id.erudit.org/iderudit/59825ac)", 1961, Liberté, 3(2), 490–492. \[[pdf](http://www.erudit.org/culture/liberte1026896/liberte1430666/59825ac.pdf)\]
-2. <span id="ref-2"></span>Pierre MAGNIEN "La relativité restreinte dans le programme de TS : Cherchez l’erreur!" \[[pdf](http://acces.ens-lyon.fr/clea/lunap/Relativite/relativite-restreinte-principes-et-applications/RR_TS.pdf)\]
+1. <span id="ref-1"></span>Hubert Reeves "[La théorie de la relativité](http://id.erudit.org/iderudit/59825ac)", 1961, Liberté, 3(2), 490–492. [pdf](http://www.erudit.org/culture/liberte1026896/liberte1430666/59825ac.pdf)
+2. <span id="ref-2"></span>Pierre MAGNIEN "La relativité restreinte dans le programme de TS : Cherchez l’erreur!" [pdf](http://acces.ens-lyon.fr/clea/lunap/Relativite/relativite-restreinte-principes-et-applications/RR_TS.pdf)
 3. <span id="ref-3"></span>{{< openbook booknumber="ISBN:2876470705" templatenumber="5" >}} ([en ligne](http://www.scribd.com/doc/8538529/Newton-Principes-mathematiques-de-la-philosophie-naturelle))
 4. <span id="ref-4"></span>Albert Einstein "[Does the Inertia of a Body Depend upon its Energy-Content?](http://www.fourmilab.ch/etexts/einstein/E_mc2/www/)" 1905
 5. <span id="ref-5"></span>{{< openbook booknumber="ISBN:9781613740286" templatenumber="5" >}}

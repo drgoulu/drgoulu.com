@@ -106,7 +106,7 @@ Car le potentiel n'est pas aussi élevé que l'on peut croire:
 
 > L'ordre de grandeur de l'énergie naturellement dissipée annuellement par les marées est évalué à 22 000 TWh soit l'équivalent de la combustion de moins de 2 [Gtep](https://fr.wikipedia.org/wiki/Tonne_d%27%C3%A9quivalent_p%C3%A9trole "Tonne d'équivalent pétrole"). Ce chiffre est à comparer à la consommation d'énergie de l'humanité, de l'ordre de 10 Gtep .
 > 
-> Seule une fraction de l'énergie des marées étant récupérable, l'énergie marémotrice ne pourra fournir, à l'avenir, qu'une faible part des besoins mondiaux. \[[Wikipedia](https://fr.wikipedia.org/wiki/%C3%89nergie_mar%C3%A9motrice#Potentiel_de_l.27.C3.A9nergie_mar.C3.A9motrice)\]
+> Seule une fraction de l'énergie des marées étant récupérable, l'énergie marémotrice ne pourra fournir, à l'avenir, qu'une faible part des besoins mondiaux. [Wikipedia](https://fr.wikipedia.org/wiki/%C3%89nergie_mar%C3%A9motrice#Potentiel_de_l.27.C3.A9nergie_mar.C3.A9motrice)
 
 ## Les marées solides
 

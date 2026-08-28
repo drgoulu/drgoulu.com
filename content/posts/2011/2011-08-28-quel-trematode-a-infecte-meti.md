@@ -39,4 +39,4 @@ C'est pas une bonne idée pour un bouquin de S.F. ou un épisode de [Fringe](htt
 
 ### Références:
 
-1. <span id="ref-1"></span>[Claude Combes](https://fr.wikipedia.org/wiki/Claude_Combes) "Concepts de base en parasitologie", 2005 \[[format PowerPoint PPT](http://www.edu.upmc.fr/sdv/desdevises/master_sduee/PDFs/Combes05.ppt)\]
+1. <span id="ref-1"></span>[Claude Combes](https://fr.wikipedia.org/wiki/Claude_Combes) "Concepts de base en parasitologie", 2005 [format PowerPoint PPT](http://www.edu.upmc.fr/sdv/desdevises/master_sduee/PDFs/Combes05.ppt)

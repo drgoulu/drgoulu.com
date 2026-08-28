@@ -69,8 +69,8 @@ Et comme cet article est en train de me prendre un temps fou et qu'il est déjà
 
 Références
 
-1. Simon Newcomb "[Is the airship coming ?](http://invention.psychology.msstate.edu/library/Magazines/Airship_Coming.html)" McClure's Magazine, 17, September 1901, pp. 432-435 \[[pdf](http://www.unz.org/Pub/McClures-1901sep-00432)\]
+1. Simon Newcomb "[Is the airship coming ?](http://invention.psychology.msstate.edu/library/Magazines/Airship_Coming.html)" McClure's Magazine, 17, September 1901, pp. 432-435 [pdf](http://www.unz.org/Pub/McClures-1901sep-00432)
 2. {{< openbook booknumber="ISBN:0312279590" templatenumber="5" >}}
 3. {{< openbook booknumber="OLID:OL14245342M" templatenumber="5" >}}  _p. 379 \*54.43 : [1+1=2](http://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?c=umhistmath&cc=umhistmath&idno=aat3201.0001.001&frm=frameset&view=image&seq=401)_
 4. Ian Stewart, "[Les théorèmes de l’impossible](http://www.pourlascience.fr/ewb_pages/a/article-les-theoremes-de-l-impossible-27765.php)", 2000, Pour la Science, No 268, pp. 92–93
-5. J.-P. Delahaye, "[Du rêve à la réalité des preuves](http://www.pourlascience.fr/ewb_pages/a/article-du-reve-a-la-realite-des-preuves-26716.php)", 2011, Pour La Science, No. 402, p. 90, 2011 \[[texte sur interstices](https://interstices.info/jcms/int_63417/du-reve-a-la-realite-des-preuves)\]
+5. J.-P. Delahaye, "[Du rêve à la réalité des preuves](http://www.pourlascience.fr/ewb_pages/a/article-du-reve-a-la-realite-des-preuves-26716.php)", 2011, Pour La Science, No. 402, p. 90, 2011 [texte sur interstices](https://interstices.info/jcms/int_63417/du-reve-a-la-realite-des-preuves)

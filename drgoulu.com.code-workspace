@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../../develop/processing"
+		},
+		{
+			"path": "../../develop/openbook4hugo"
 		}
 	],
 	"settings": {}

@@ -47,7 +47,7 @@ sont :
 
 ## Références
 
-1. <span id="ref-1"></span>{{< altmetric doi="10.3389/fnhum.2016.00511" float="right" >}} Royet, J.-P., Meunier, D., Torquet, N., Mouly, A.-M., & Jiang, T. (2016). The Neural Bases of Disgust for Cheese: An fMRI Study. Frontiers in Human Neuroscience, 10 (October), 1–15. [DOI>10.3389/fnhum.2016.00511](http://doi.org/10.3389/fnhum.2016.00511) \[[en ligne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5065955/)\]
+1. <span id="ref-1"></span>{{< altmetric doi="10.3389/fnhum.2016.00511" float="right" >}} Royet, J.-P., Meunier, D., Torquet, N., Mouly, A.-M., & Jiang, T. (2016). The Neural Bases of Disgust for Cheese: An fMRI Study. Frontiers in Human Neuroscience, 10 (October), 1–15. [DOI>10.3389/fnhum.2016.00511](http://doi.org/10.3389/fnhum.2016.00511) [en ligne](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5065955/)
 2. <span id="ref-2"></span>Milo A. Puhan, Alex Suarez, Christian Lo Cascio, Alfred Zahn, Markus Heitz and Otto Braendli, "[Didgeridoo Playing as Alternative Treatment for Obstructive Sleep Apnoea Syndrome: Randomised Controlled Trial](http://www.bmj.com/content/332/7536/266?ref=driverlayer.com),"  _BMJ_, vol. 332 December 2006.
 3. <span id="ref-3"></span>Marc-Antoine Fardin "[On the rheology of cats](/wp-content/uploads/2017/09/Rheology-of-cats.pdf)"  _Rheology Bulletin_, vol. 83, 2, July 2014, pp. 16-17 and 30.
 4. <span id="ref-4"></span>Matthew J. Rockloff and Nancy Greer "[Never Smile at a Crocodile: Betting on Electronic Gaming Machines is Intensified by Reptile-Induced Arousal](https://link.springer.com/article/10.1007/s10899-009-9174-4)," , _Journal of Gambling Studies_, vol. 26, no. 4, December 2010, pp. 571-81.

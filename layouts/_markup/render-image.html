@@ -19,21 +19,21 @@
   {{- $clean_dest := strings.TrimPrefix "./" $destination -}}
   {{/* 1. Page bundle resources */}}
   {{- $img = (.Page.Resources.ByType "image").GetMatch $clean_dest -}}
-  {{/* 2. Check parent section (year folder in content) resources */}}
+  {{/* 2. Check posts/<year>/images/ in assets */}}
+  {{- if not $img -}}
+    {{- $post_year := .Page.Date.Format "2006" -}}
+    {{- $img = resources.Get (path.Join "posts" $post_year "images" (path.Base $clean_dest)) -}}
+    {{- if not $img -}}
+      {{- $img = resources.Get (path.Join "posts" $post_year $clean_dest) -}}
+    {{- end -}}
+  {{- end -}}
+  {{/* 3. Check parent section resources */}}
   {{- if not $img -}}
     {{- with .Page.Parent -}}
       {{- $img = (.Resources.ByType "image").GetMatch $clean_dest -}}
       {{- if not $img -}}
         {{- $img = (.Resources.ByType "image").GetMatch (printf "**/%s" (path.Base $clean_dest)) -}}
       {{- end -}}
-    {{- end -}}
-  {{- end -}}
-  {{/* 3. Check posts/<year>/images/ in assets */}}
-  {{- if not $img -}}
-    {{- $post_year := .Page.Date.Format "2006" -}}
-    {{- $img = resources.Get (path.Join "posts" $post_year "images" (path.Base $clean_dest)) -}}
-    {{- if not $img -}}
-      {{- $img = resources.Get (path.Join "posts" $post_year $clean_dest) -}}
     {{- end -}}
   {{- end -}}
   {{/* 4. Check media/ folder in assets */}}
