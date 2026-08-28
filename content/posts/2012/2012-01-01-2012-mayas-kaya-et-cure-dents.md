@@ -36,11 +36,11 @@ Le futur s'avère donc passionnant, et comme disait Woody Allen : "l'avenir m'in
 
 Ce qui est déjà sur, c'est qu'en 2012 il y aura [5 mercredis en février](http://oeis.org/A141039), ce qui n'est plus arrivé depuis 1984, [3 vendredi 13](http://oeis.org/A190653) ce qui est plus fréquent et nous fait une belle jambe, mais surtout le [6 juin il y aura un transit de Vénus](http://fr.wikipedia.org/wiki/Transit_de_V%C3%A9nus_de_2012) à ne pas rater, [le prochain étant prévu pour 2117](http://oeis.org/A171467)
 
-[![Transit de Vénus de 2004 filmé dans l'UV par la NASA (cliquer pour la vidéo)](images/75e72f9518bb93d7d4030c08d378faca.jpg "Transit de Vénus de 2004 filmé dans l'UV par la NASA (cliquer pour la vidéo)")](http://upload.wikimedia.org/wikipedia/commons/9/94/2004_Venus_transit_UV.ogg)
+{{< figure src="images/75e72f9518bb93d7d4030c08d378faca.jpg" alt="Transit de Vénus de 2004 filmé dans l'UV par la NASA (cliquer pour la vidéo)" caption="Transit de Vénus de 2004 filmé dans l'UV par la NASA (cliquer pour la vidéo)" link="http://upload.wikimedia.org/wikipedia/commons/9/94/2004_Venus_transit_UV.ogg" align="aligncenter" width="600" >}}
 
 A part ça, le [nombre 2012 a 101 propriétés](http://oeis.org/search?q=seq%3A2012), ce qui le classe dans le [haut de la bande des faiblement minéralisés](/2009/04/18/nombres-mineralises/). Parmi ces propriétés j'ai été intrigué par celle de la "[séquence des cure-dents E](http://oeis.org/A161328)". Elle est définie par le nombre de pièces en "E" disposés à chaque étape du processus itératif représenté sur la figure ci-dessous :
 
-[![tootpickE](images/tootpickE.png "illustration des premiers termes de la séquence A161328 : 1, 4, 9, 16, 29, ... 2012 est le 42ème terme")](http://www.polprimos.com/imagenespub/poltp120.jpg)
+{{< figure src="images/tootpickE.png" alt="tootpickE" caption="illustration des premiers termes de la séquence A161328 : 1, 4, 9, 16, 29, ... 2012 est le 42ème terme" link="http://www.polprimos.com/imagenespub/poltp120.jpg" align="aligncenter" width="579" >}}
 
 On parle de cure-dents car il s'agit d'une des variations de plusieurs problèmes de disposition de cure-dents sur une nappe étudiés par des matheux qui ne savaient pas quoi faire d'autre \[ David Applegate, Omar E. Pol and N. J. A. Sloane, "[The Toothpick Sequence and Other Sequences from Cellular Automata](http://www.research.att.com/~njas/doc/tooth.pdf)", avril 2010, [arXiv:1004.3036v2](http://arxiv.org/abs/1004.3036v2) math.CO\] , mais nous autres informaticiens allons surement réussir à en faire quelque chose de joli, non ? Oui, c'est un challenge : celui qui fera la première représentation de 2012 en cure-dents E référencée dans les commentaires aura droit à des félicitations publiques.
 

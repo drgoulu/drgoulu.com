@@ -18,7 +18,7 @@ Au moment d'envoyer un mot à Franck à propos de son livre [[1]](#ref-1), je 
 
 En effet, 2017 est un "nombre hypotenuse" ([A009003](https://oeis.org/A009003)), l'hypoténuse du triangle rectangle correspondant au [triplet pythagoricien](https://fr.wikipedia.org/wiki/triplet_pythagoricien) (792,1855,2017). C'est même un triplet pythagoricien "primitif" car ces 3 entiers sont [premiers entre eux](https://fr.wikipedia.org/wiki/premiers_entre_eux), donc 2017 est un "nombre hypoténuse primitif" ([A008846](https://oeis.org/A008846)).
 
-![(3,4,5), le premier et le plus célèbre des triplets pythagoriciens](images/artmaths0202.gif "(3,4,5), le premier et le plus célèbre des triplets pythagoriciens")
+{{< figure src="images/artmaths0202.gif" alt="(3,4,5), le premier et le plus célèbre des triplets pythagoriciens" caption="(3,4,5), le premier et le plus célèbre des triplets pythagoriciens" align="alignright" width="312" >}}
 
 Car comme on le voit dans [cette liste](http://www.tsm-resources.com/alists/trip.html), il existe deux sortes de triplets pythagoriciens: les [primitifs](https://fr.wikipedia.org/wiki/Triplet_pythagoricien#Triplets_primitifs) et les composés, qui sont des multiples de triplets plus petits, par exemple (6,8,10) obtenu en doublant (3,4,5). Ca va avoir de l'importance plus bas.
 

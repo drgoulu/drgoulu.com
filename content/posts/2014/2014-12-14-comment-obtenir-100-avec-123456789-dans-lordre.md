@@ -10,7 +10,7 @@ tags:
 coverImage: "5a68bb5e66369fdad9b2faaddf73c871.jpg"
 ---
 
-[![Srinivasa Ramanujan est célèbre pour des formules très surprenantes du genre de celle exposée dans cet article](images/5a68bb5e66369fdad9b2faaddf73c871.jpg "Srinivasa Ramanujan est célèbre pour des formules très surprenantes du genre de celle exposée dans cet article")](https://fr.wikipedia.org/wiki/Srinivasa_Ramanujan)
+{{< figure src="images/5a68bb5e66369fdad9b2faaddf73c871.jpg" alt="Srinivasa Ramanujan est célèbre pour des formules très surprenantes du genre de celle exposée dans cet article" caption="Srinivasa Ramanujan est célèbre pour des formules très surprenantes du genre de celle exposée dans cet article" link="https://fr.wikipedia.org/wiki/Srinivasa_Ramanujan" align="alignright" width="273" >}}
 
 A la recherche d'un petit article vite fait, j'ai vu [ce problème sur Quora](https://www.quora.com/Mathematical-Puzzles/Can-you-make-100-out-of-the-digits-1-2-3-4-5-6-7-8-9-in-order) et je me suis dit : soit c'est encore un "[jeu de l'année](/2012/01/18/jeu-de-lannee-2012-et-autres-cest-fini/)" , soit il y a un piège [genre 33](/2012/06/20/comment-dire-33-avec-3-cubes/). Alors je l'ai lu, et ça n'avait pas l'air trop difficile, vu le nombre de solutions proposées:\[mathjax\]
 

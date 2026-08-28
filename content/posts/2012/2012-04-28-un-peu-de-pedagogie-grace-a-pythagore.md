@@ -29,7 +29,7 @@ Pour ça j'ai pondu ce [matériel/support de cours \[pdf\]](/wp-content/uploads
     - le réarrangement {{< youtube id="gy2Y7Ld4B6U" >}}
 4. 5 mins : si on a le temps (on ne l'a pas eu parce que le point ci-dessus prend 10 mins au lieu de 5), voir cette [autre démonstration en vidéo](http://www.palais-decouverte.fr/uploads/media/pythagore_5.swf) et la reproduire à l'aide de la page B du [matériel](/wp-content/uploads/2012/04/Formateur-Dem-Pythagore.pdf) et de carrés a² et b² à découper :
     
-    [![La démonstration de Gougu, mon cousin chinois du IIIème siècle](images/35439556ef0ca43984e5561836e6f148.gif "La démonstration de Gougu, mon cousin chinois du IIIème siècle")](http://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_Pythagore#Par_le_puzzle_de_Gougu)
+    {{< figure src="images/35439556ef0ca43984e5561836e6f148.gif" alt="La démonstration de Gougu, mon cousin chinois du IIIème siècle" caption="La démonstration de Gougu, mon cousin chinois du IIIème siècle" link="http://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_Pythagore#Par_le_puzzle_de_Gougu" align="aligncenter" width="231" >}}
 5. 6 mins ( 1 min par participant) : évaluation : chacun reproduit la démonstration sans aide.
 
 Au debriefieng, le retour des participants est assez bon, ils ont apprécié mais font remarquer que je n'ai pas parlé de l'utilité du théorème de Pythagore. Et c'est vrai. J'y avais pensé mais je ne voulais pas trop digresser sur la norme euclidienne dans un espace à 3 dimensions et ses applications dans les jeux vidéo (on ne se refait pas...) lorsqu'un participant à mentionné la longueur de la rampe d'un escalier. Effectivement, c'est simple, parlant et je n'y avais pas songé...

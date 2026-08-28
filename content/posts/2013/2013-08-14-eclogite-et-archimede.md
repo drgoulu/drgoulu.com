@@ -12,7 +12,7 @@ tags:
 coverImage: "13363399fece287c1738dcd558864284-1.jpg"
 ---
 
-[![Eclogite de Norvège](images/13363399fece287c1738dcd558864284.jpg "Eclogite de Norvège")](http://fr.wikipedia.org/wiki/%C3%89clogite)
+{{< figure src="images/13363399fece287c1738dcd558864284.jpg" alt="Eclogite de Norvège" caption="Eclogite de Norvège" link="http://fr.wikipedia.org/wiki/%C3%89clogite" align="alignright" width="320" >}}
 
 Vu en Norvège quelques trous dans une falaise de fjord dont on nous a indiqué qu'il s'agissait d'une ancienne carrière d'[éclogite](http://fr.wikipedia.org/wiki/%C3%89clogite). Qu'est-ce ?
 
@@ -34,7 +34,7 @@ La réponse est oui, car la [poussée d'Archimède](http://fr.wikipedia.org/wik
 
 La carrière de [Visnes](http://en.wikipedia.org/wiki/Visnes,_M%C3%B8re_og_Romsdal) ayant le bon goût de se situer non loin des importantes installations pétrolières de Norvège et de Mer du Nord, nul doute que ses quelques millions de tonnes d'éclogite se retrouveront bientôt au fond de la mer...
 
-![Carrière et chargement d'éclogite en Norvège](images/d8959bed02df3817d1de9a0b21907c3d.jpg "Carrière et chargement d'éclogite en Norvège")
+{{< figure src="images/d8959bed02df3817d1de9a0b21907c3d.jpg" alt="Carrière et chargement d'éclogite en Norvège" caption="Carrière et chargement d'éclogite en Norvège" align="aligncenter" width="600" >}}
 
 ### Références
 

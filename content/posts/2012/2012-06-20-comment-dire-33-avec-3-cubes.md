@@ -41,7 +41,7 @@ Il s'avère que le problème soumis par Mike Croucher est extrêmement difficile
 
 A part ça, les matheux démontrent (essayez...) que les nombres de la forme 9n+4 et 9n+5 ne peuvent pas être la somme de trois cubes, ce qui règle le cas de 4,5,13,14,22,23 etc.
 
-[![Bon... je n ai pas vraiment le droit d'utiliser ce dessin, mais il va tellement bien là que j espère que vous ne m en voudrez pas, cher Docteur G...](images/9b493f196263e591d63658b2997f5b5b.jpg "Bon... je n ai pas vraiment le droit d'utiliser ce dessin, mais il va tellement bien là que j espère que vous ne m en voudrez pas, cher Docteur G...")](http://www.geluck.com/)
+{{< figure src="images/9b493f196263e591d63658b2997f5b5b.jpg" alt="Bon... je n ai pas vraiment le droit d'utiliser ce dessin, mais il va tellement bien là que j espère que vous ne m en voudrez pas, cher Docteur G..." caption="Bon... je n ai pas vraiment le droit d'utiliser ce dessin, mais il va tellement bien là que j espère que vous ne m en voudrez pas, cher Docteur G..." link="http://www.geluck.com/" align="aligncenter" width="412" >}}
 
 Reste 33 (et 42 et beaucoup d'autres), qui résistent effrontément aux informaticiens cherchant à les obtenir, ainsi qu'aux mathématiciens essayant de prouver que c'est peine perdue...
 

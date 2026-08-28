@@ -9,7 +9,7 @@ tags:
 coverImage: "a8c41973b20f525f5ba1ba4db9a4aea2.jpg"
 ---
 
-[![vieux-bebe](images/a8c41973b20f525f5ba1ba4db9a4aea2.jpg)](/wp-content/uploads/HLIC/a8c41973b20f525f5ba1ba4db9a4aea2.jpg)
+{{< figure src="images/a8c41973b20f525f5ba1ba4db9a4aea2.jpg" alt="vieux-bebe" link="/wp-content/uploads/HLIC/a8c41973b20f525f5ba1ba4db9a4aea2.jpg" align="alignright" width="223" >}}
 
 Cette question étrange a été abordée hier par Antoine Danchin dans une séquence de l'émission scientifique "[Impatience](http://www.rts.ch/la-1ere/programmes/impatience/)" de la Radio Suisse Romande sur la "biologie synthétique".
 

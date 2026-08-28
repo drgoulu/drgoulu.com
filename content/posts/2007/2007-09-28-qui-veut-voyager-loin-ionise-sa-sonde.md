@@ -23,4 +23,4 @@ Les moteurs à ions ont été imaginés dans les années 1960 : il s'agit en fai
 
 Il y a déjà eu plusieurs tests et vols d'essai de moteurs ioniques, mais Dawn est la première mission longue distance à l'utiliser. Bon vol !
 
-[![Vue d'artiste de Dawn dans les astéroïdes. Notez le joli jet d'ions bleuté](images/537638bde09a751042364a3dcdd21dda.jpg "Vue d'artiste de Dawn dans les astéroïdes. Notez le joli jet d'ions bleuté")](http://www.techno-science.net/?onglet=news&news=4567)
+{{< figure src="images/537638bde09a751042364a3dcdd21dda.jpg" alt="Vue d'artiste de Dawn dans les astéroïdes. Notez le joli jet d'ions bleuté" caption="Vue d'artiste de Dawn dans les astéroïdes. Notez le joli jet d'ions bleuté" link="http://www.techno-science.net/?onglet=news&news=4567" align="aligncenter" width="640" >}}

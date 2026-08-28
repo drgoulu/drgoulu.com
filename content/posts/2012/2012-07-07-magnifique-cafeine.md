@@ -20,7 +20,7 @@ Caféine, je t'aime. Comme l'a dit [Alfred Rényi](https://fr.wikipedia.org/wiki
 
 mais aussi des informaticiens, ingénieurs et autres penseurs. Et tu es si belle:
 
-![Photo Annie Cavanagh et David McCarthy](images/c9b758484cf57d39e6aa03b044e875c5.jpg "Photo Annie Cavanagh et David McCarthy")
+{{< figure src="images/c9b758484cf57d39e6aa03b044e875c5.jpg" alt="Photo Annie Cavanagh et David McCarthy" caption="Photo Annie Cavanagh et David McCarthy" align="aligncenter" width="600" >}}
 
 Cette image obtenue par microscopie électronique à balayage montre environ 40 microns de la pointe de tes cristaux, en fausses couleurs. Elle vient de remporter un [concours de photographies scientifiques](http://www.wellcomeimageawards.org/#)
 

@@ -18,7 +18,7 @@ La [Fédération Française des Jeux Mathématiques](http://ffjm.org/) et la [So
 
 Il s'agit de concevoir le réseau de lignes électriques nécessaires pour alimenter les villes d'un pays à partir de centrales :
 
-[![Concours](images/76fa5e4df5077431227511a63a9e6c9c.png "le pays du concours, carré malgré les apparences")](images/76fa5e4df5077431227511a63a9e6c9c.png)
+{{< figure src="images/76fa5e4df5077431227511a63a9e6c9c.png" alt="Concours" caption="le pays du concours, carré malgré les apparences" link="images/76fa5e4df5077431227511a63a9e6c9c.png" align="aligncenter" width="528" >}}
 
 Pour ne rien arranger, les centrales sont de puissances différentes et fournissent de la THT, et les villes consomment également des puissances différentes (listées dans la [donnée complète](http://www.ffjm.org/upload/fichiers/ConcoursSCM/jeu_FFJM_SCM_RTE_2010.pdf)), mais doivent être alimentées en HT via des transformateurs à placer à volonté, mais à au moins 1km des villes et pas dans les zones protégées marquées en pointillés.
 

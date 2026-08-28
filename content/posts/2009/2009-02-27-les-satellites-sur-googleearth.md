@@ -20,7 +20,7 @@ Par exemple en ce moment je peux voir que les deux objets en orbite  les plus p
 
 Dans le même registre, le [dernier fichier](http://resources.orbitingfrog.com/google_earth_files/IridiumCosmosDebris.kmz) mis à disposition par Orbiting Frog trace un panache d'orbites rouges et blanches :
 
-[![satellites](images/66690695d4329010c715feb9ff575d3e.png "(cliquer pour agrandir)")](images/66690695d4329010c715feb9ff575d3e.png)
+{{< figure src="images/66690695d4329010c715feb9ff575d3e.png" alt="satellites" caption="(cliquer pour agrandir)" link="images/66690695d4329010c715feb9ff575d3e.png" align="aligncenter" width="440" >}}
 
 Ce sont les [orbites des débris de la collision](http://resources.orbitingfrog.com/google_earth_files/IridiumCosmosDebris.kmz) survenue le 10 février entre le Cosmos-2251 russe et le satellite Iridium-33, du moins les plus gros, qui ont pu être reprérés au radar.
 

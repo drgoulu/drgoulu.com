@@ -11,7 +11,7 @@ coverImage: "40119c41af0f937056e84674a4fc6f53.jpg"
 
 [![](images/f4419de73547bf847369e16fd3babcb5.jpg)Eternity II](http://fr.eternityii.com/) est un puzzle spécialement étudié pour être extrêmement difficile, au point que son éditeur offre [2 millions de dollars](http://fr.eternityii.com/regles-du-jeu/) au premier qui parviendra à placer correctement ses 256 pièces carrées de façon à ce que les côtés de chacune correspondent à ceux de ses 4 voisins, comme sur ce petit exemple avec 16 pièces seulement :
 
-[![(cliquer sur l'image pour jouer à la version 4x4 en ligne)](images/40119c41af0f937056e84674a4fc6f53.jpg "(cliquer sur l'image pour jouer à la version 4x4 en ligne)")](http://fr.eternityii.com/essayer-eternityii-en-ligne/)
+{{< figure src="images/40119c41af0f937056e84674a4fc6f53.jpg" alt="(cliquer sur l'image pour jouer à la version 4x4 en ligne)" caption="(cliquer sur l'image pour jouer à la version 4x4 en ligne)" link="http://fr.eternityii.com/essayer-eternityii-en-ligne/" align="aligncenter" width="340" >}}
 
 D'après l'éditeur, il existe 20'000 solutions au puzzle, et il nous "aide" en nous indiquant la position d'une pièce (la 139) , et fournit 2 indices de plus si l'on résout un puzzle 6x6 et un 12x6 avec des pièces indiquées dans la boite. Il n'est pas clair si ces indices ("hints" en anglais) facilitent réellement la résolution du puzzle, où s'ils servent à limiter le nombre de solutions admises comme victorieuses à beaucoup moins de 20'000, tout en rendant la programmation d'une solution informatique plus compliquée.
 

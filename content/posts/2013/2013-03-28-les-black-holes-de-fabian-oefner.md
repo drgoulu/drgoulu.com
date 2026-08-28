@@ -15,11 +15,11 @@ Découvert hier [grâce à io9](http://io9.com/the-physics-of-fluid-revealed-in-
 
 Sa dernière série de clichés intitulés "[Black Hole](http://www.fabianoefner.com/64838/1159918/projects/black-hole)" est magnifique et intriguante : mais qu'est-ce donc ?
 
-[![Black Hole par Fabian Oefner](images/52787512af31118dcd7349b8923a373e.jpg '"Black Hole" par Fabian Oefner')](http://www.fabianoefner.com/64838/1159918/projects/black-hole)
+{{< figure src="images/52787512af31118dcd7349b8923a373e.jpg" alt="Black Hole par Fabian Oefner" caption="&quot;Black Hole&quot; par Fabian Oefner" link="http://www.fabianoefner.com/64838/1159918/projects/black-hole" align="aligncenter" width="600" >}}
 
 La mèche est vendue par d'autres clichés pris sous un angle différent :
 
-![Black Hole par Fabian Oefner](images/7403fb23307544b4161badfe8227fae9.jpg '"Black Hole" par Fabian Oefner')
+{{< figure src="images/7403fb23307544b4161badfe8227fae9.jpg" alt="Black Hole par Fabian Oefner" caption="&quot;Black Hole&quot; par Fabian Oefner" align="aligncenter" width="600" >}}
 
 Mais oui, il s'agit bien d'une mèche de perceuse, enduite de peinture et photographiée en haute vitesse pendant sa rotation. L'artiste a même réalisé une petite vidéo décrivant le procédé:
 

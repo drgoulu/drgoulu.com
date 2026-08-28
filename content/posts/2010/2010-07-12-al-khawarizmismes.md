@@ -11,7 +11,7 @@ tags:
 coverImage: "fdd88ca55a8f211b9fc8f978d988744c.jpg"
 ---
 
-[![statue d'Al-Khawarizmi en Ousbekistan, par Heathen Dawn sur Flickr](images/5_169138578_e50f81f93c_m_d.jpg "statue d'Al-Khawarizmi en Ousbekistan, par Heathen Dawn sur Flickr")](http://www.flickr.com/photos/heathendawn/169138578/in/photostream/)
+{{< figure src="images/5_169138578_e50f81f93c_m_d.jpg" alt="%image_alt%" caption="statue d'Al-Khawarizmi en Ousbekistan, par Heathen Dawn sur Flickr" link="http://www.flickr.com/photos/heathendawn/169138578/in/photostream/" align="alignright" width="400" >}}
 
 Dans les années 800, le mathématicien perse [Abou Jafar Muhammad Ibn Mūsa al-Khuwārizmī](https://fr.wikipedia.org/wiki/Abou_Jafar_Muhammad_Ibn_Mūsa_al-Khuwārizmī) introduit le zéro (indien) dans les chiffres arabes, décrit comment résoudre les équations du second degré, et propose de résoudre certains problèmes mathématiques en répétant une séquence d'opérations jusqu'à ce qu'un "critère d'arrêt" soit satisfait. Au XIIème siècle, les moines latins nomment "algorismus" cette méthode d'Al Khuwarizmi, qui devient "algorithme" en français en 1554.
 

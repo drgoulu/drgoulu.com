@@ -11,7 +11,7 @@ tags:
 coverImage: "3-82.jpg"
 ---
 
-![Emmy Noether](images/3-82.jpg "Emmy Noether")
+{{< figure src="images/3-82.jpg" alt="Emmy Noether" caption="Emmy Noether" align="alignright" width="400" >}}
 
 Il y a pile un siècle, en 1918, la mathématicienne Emmy Noether publia un résultat si important pour la physique qu'Einstein le qualifia de "monument de la pensée mathématique".
 
@@ -83,7 +83,7 @@ Voici toutes les lois de conservation et leurs symétries correspondantes:
 
 Chassée par les nazis, Emmy Noether a poursuivi sa carrière aux Etats-Unis où elle décède en 1935 déjà, à 53 ans, des suites d'une opération. Elle n'a donc pas vu la notoriété de son résultat augmenter spectaculairement dès les années 1970. Comme souvent, il faut quelques temps aux travaux géniaux pour être reconnus :
 
-[![Nombre de mentions d'Emmy Noether dans la littérature (Google NGrams)](images/Emmy_Noether_NGrams-1.png "Nombre de mentions d'Emmy Noether dans la littérature (Google NGrams)")](https://books.google.com/ngrams/graph?content=Emmy+Noether&year_start=1918&year_end=2008&corpus=15&smoothing=10&share=&direct_url=t1%3B%2CEmmy%20Noether%3B%2Cc0)
+{{< figure src="images/Emmy_Noether_NGrams-1.png" alt="Nombre de mentions d'Emmy Noether dans la littérature (Google NGrams)" caption="Nombre de mentions d'Emmy Noether dans la littérature (Google NGrams)" link="https://books.google.com/ngrams/graph?content=Emmy+Noether&year_start=1918&year_end=2008&corpus=15&smoothing=10&share=&direct_url=t1%3B%2CEmmy%20Noether%3B%2Cc0" align="aligncenter" width="640" >}}
 
 C'est que le théorème de Noether est devenu un outil fondamental de la physique théorique, non seulement à cause de l'éclairage qu'il apporte aux lois de conservation, mais aussi comme une méthode de calcul effective. De plus, il facilite l'étude de nouvelles théories : si une telle théorie possède une symétrie, le théorème garantit l'existence d'un invariant, lequel doit être expérimentalement observable.
 

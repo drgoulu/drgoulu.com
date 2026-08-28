@@ -44,7 +44,7 @@ Bref, un office des brevets n'a aucune raison de passer un temps couteux à exam
 
 On assiste donc à un formidable boum du nombre de brevets accordés, mais est-ce réellement l'image d'un boum de l'innovation ?
 
-![brevets](images/537e55c868ddb0b2e7cfb2184225ea58.png "nombre de brevets déposés chaque année dans le monde")
+{{< figure src="images/537e55c868ddb0b2e7cfb2184225ea58.png" alt="brevets" caption="nombre de brevets déposés chaque année dans le monde" align="aligncenter" width="458" >}}
 
 En parallèle on constate un boum encore plus colossal des actions en justice sur des questions de propriété intellectuelle.
 

@@ -21,7 +21,7 @@ Avant d'attaquer la question et la réponse,  une petite introduction sur le me
 
 En imprimerie, on mesure à l'aide d'un [spectrophotomètre](https://fr.wikipedia.org/wiki/spectrophotomètre) l'ensemble des couleurs produites par une imprimante, ne serait-ce que pour la calibrer [[2]](#ref-2). Mais lorsqu'on développe une imprimante industrielle, il faut en plus mesurer l'effet sur les couleurs de nombreux paramètres (qualité des substrats, composition des encres, puissance des séchoirs etc. ) afin de maximiser le "volume" des couleurs que l'imprimante est capable de reproduire.
 
-![cube des couleurs RGB (Red Green Blue)](images/color7.gif "cube des couleurs RGB (Red Green Blue)")
+{{< figure src="images/color7.gif" alt="cube des couleurs RGB (Red Green Blue)" caption="cube des couleurs RGB (Red Green Blue)" align="alignright" width="320" >}}
 
 L'ensemble des couleurs définit un volume car il faut trois paramètres pour déterminer une couleur. La représentation la plus connue est celle basée sur les [couleurs primitives](https://fr.wikipedia.org/wiki/couleurs_primitives) rouge, vert et bleu, le "RGB". Sur votre écran, des pixels rouges, verts et bleus peuvent être allumés avec des intensités variables, habituellement codée par un entier entre 0 et 255. La [synthèse additive](https://fr.wikipedia.org/wiki/synthèse_additive) permet ainsi de vous faire percevoir 16'777'216 couleurs différentes définies par autant de points dans le cube ci-contre.
 
@@ -33,7 +33,7 @@ Les couleurs que l'on peut reproduire fidèlement se trouvent dans l'intersectio
 
 En les représentant dans un autre espace de couleurs, plus vaste, le [CIE_L\*a\*b\*](https://fr.wikipedia.org/wiki/CIE_L*a*b*). Dans cet espace, la coordonnée L\* correspond à la [luminance](https://fr.wikipedia.org/wiki/luminance) et les coordonnées a\* et b\* à des échelles entre couleurs tenant compte de la sensibilité de l'oeil humain. En LAB, le cube CMY d'une imprimante donnée devient un patatoïde comme celui représenté ci-dessous, et le cube RGB d'un écran précis devient le volume enfermé dans le treillis. Comme on le voit, l'intersection des deux est un volume compliqué, nettement plus petit que chacun des patatoïdes.
 
-[![Gamut d](images/crt_print_gamut_big.JPG "Gamut d'une imprimante (solide) et d'un moniteur (treillis). Image : Michael J. Vrhel")](http://www.viegroup.com/mvrhelweb/gamut.html)
+{{< figure src="images/crt_print_gamut_big.JPG" alt="Gamut d" caption="Gamut d'une imprimante (solide) et d'un moniteur (treillis). Image : Michael J. Vrhel" link="http://www.viegroup.com/mvrhelweb/gamut.html" align="aligncenter" width="512" >}}
 
 ### Retour au Code
 

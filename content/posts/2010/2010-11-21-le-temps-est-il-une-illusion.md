@@ -33,7 +33,7 @@ Rovelli commence par distinguer deux classes de phénomènes physiques : ceux da
 
 Cette question cruciale de la réversibilité de certains phénomènes et de l'irréversibilité d'autres est abordée par Roger Ballan dans "le paradoxe de l'irréversibilité". Il y fait le lien entre la "flèche du temps", la thermodynamique et la théorie de l'information en considérant un gaz formé de N particules confinées dans un volume A puis libérées dans un volume B double, et en montrant que l'augmentation d'entropie chère à [Boltzmann](https://fr.wikipedia.org/wiki/constante_de_Boltzmann) correspond à une  incertitude croissante sur l'état des N particules.
 
-[![Tombe de Boltzmann à Vienne par martinroell sur flickr](images/47f8a25d1963713584ffed918319132a.jpg "Tombe de Boltzmann à Vienne par martinroell sur flickr")](http://www.flickr.com/photos/martinroell/427167382/)
+{{< figure src="images/47f8a25d1963713584ffed918319132a.jpg" alt="Tombe de Boltzmann à Vienne par martinroell sur flickr" caption="Tombe de Boltzmann à Vienne par martinroell sur flickr" link="http://www.flickr.com/photos/martinroell/427167382/" align="aligncenter" width="500" >}}
 
 Je suis resté un peu sur ma faim à la fin car j'espérais un développement de ce lien pour aboutir à une véritable proposition sur la nature du temps.
 

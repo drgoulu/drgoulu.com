@@ -17,7 +17,7 @@ Ce qu'il y a de bien quand on fête un anniversaire scientifique, c'est qu'on re
 
 [la suite et fin est ici](http://www.youtube.com/watch?v=tNIFufyrMmU). Si vous ne comprenez pas l'anglais, vous pourrez quand même profiter du second cadeau publié à l'occasion de l'anniversaire de Hubble : cette image :
 
-[![La Mystic Mountain dans la nébuleuse de la Carène](images/93ee17c715ba95f81fe0646716607574.jpg 'La "Mystic Mountain" dans la nébuleuse de la Carène')](http://www.spacetelescope.org/images/heic1007a/)
+{{< figure src="images/93ee17c715ba95f81fe0646716607574.jpg" alt="La Mystic Mountain dans la nébuleuse de la Carène" caption="La &quot;Mystic Mountain&quot; dans la nébuleuse de la Carène" link="http://www.spacetelescope.org/images/heic1007a/" align="aligncenter" width="427" >}}
 
 Disponible en [résolutions variés](http://www.spacetelescope.org/images/heic1007a/) jusqu'à 4 Mega pixels, votre prochain fond d'écran montre un détail de la [Nébuleuse de la Carène,](http://fr.wikipedia.org/wiki/N%C3%A9buleuse_de_la_Car%C3%A8ne) l'une des zones les plus actives du ciel dont j'ai parlé [ici](/2007/04/25/nebula-carina/). Dans ces nuages d'hydrogène se forment de nouvelles étoiles dont le rayonnement souffle le gaz en filaments chauds. Tout en haut de l'image, une étoile cachée dans le nuage produit deux jets opposés de 5.5 milliards de km qui provoquent des ondes de choc en rencontrant le gaz diffus. Wow.
 

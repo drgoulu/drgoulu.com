@@ -40,7 +40,7 @@ Comme je l'avais remarqué lors des [deux](/2007/01/09/les-inegalites-saccroiss
 
 J'en ai tiré le graphique suivant (en enlevant le Mexique, et la Turquie, au dessus de 0.4, et en interpolant certaines valeurs pour obtenir des courbes continues):
 
-[![giniocde](images/50f842011e28dff828c795149ff107ef.png "(cliquer pour accéder aux données)")](https://docs.google.com/spreadsheet/pub?hl=fr&hl=fr&key=0Al_D4zS2T4QodFpxYzNMZnktNDdwcEwzYnoxT3cycHc&single=true&gid=1&output=html)
+{{< figure src="images/50f842011e28dff828c795149ff107ef.png" alt="giniocde" caption="(cliquer pour accéder aux données)" link="https://docs.google.com/spreadsheet/pub?hl=fr&hl=fr&key=0Al_D4zS2T4QodFpxYzNMZnktNDdwcEwzYnoxT3cycHc&single=true&gid=1&output=html" align="aligncenter" width="462" >}}
 
 Sur 23 pays, 16 ont enregistré une augmentation des inégalités internes sur la période mesurée. La tendance à l'accroissement des inégalités est claire, mais il existe d'importantes variations. Les hausses les plus marquées sont en Nouvelle-Zélande, au Royaume Uni et aux Etats Unis, qui commencent à considérer ceci comme un problème [[5]](#ref-5). L'Irlande, la Belgique, le Luxembourg, le Danemark et la Suisse [[6]](#ref-6) ont maintenu le même niveau d'inégalités. Seuls la Grèce, l'Espagne et la France ont réussi à diminuer leur coefficient de Gini. Bravo !
 

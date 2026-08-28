@@ -52,7 +52,7 @@ D'ailleurs, sur cette courbe calculé par Julien [[7]](#ref-7) avec [Scilab](ht
 
 Randall Munroe de xkcd (encore) a réalisé un [extraordinaires dessin](http://xkcd.com/681/) de tous les puits gravitationnels du système solaire, les remplissant même avec des demi-planètes à l'échelle :
 
-[![Cliquer pour agrandir](images/4fc66b2dc9502fcb12eae853dbc6dae3.png "Cliquer pour agrandir")](http://xkcd.com/681_large/)
+{{< figure src="images/4fc66b2dc9502fcb12eae853dbc6dae3.png" alt="Cliquer pour agrandir" caption="Cliquer pour agrandir" link="http://xkcd.com/681_large/" align="aligncenter" width="740" >}}
 
 Le plus important est évidemment celui du Soleil, tellement profond qu'il n'est que très partiellement représenté à gauche. Son influence est très importante pour les planètes intérieures : Mercure, Vénus, la Terre et Mars, qui sont situées à des niveaux très différents de ce puits. Pour aller vers l'une de ces planètes, il faut non seulement sortir du puits local de la Terre mais gravir ou descendre un bout du puits gravitationnel du Soleil \*\*\*.
 
@@ -71,7 +71,7 @@ Voilà pourquoi après le "petit pas pour l'homme" de Neil Armstrong en bordure 
 
 En attendant, on pourrait commencer par installer de vraies bases spatiales aux points de Lagrange, [exploiter les astéroïdes](http://www.planetaryresources.com/) et pourquoi pas, proposer quelques voyages "simple course". Je serais éventuellement tenté par [Titan](https://fr.wikipedia.org/wiki/Titan_(lune)), autour de mon 90ème anniversaire...
 
-[![Cliquer pour http://fr.wikipedia.org/wiki/Point_de_Lagrange](images/41b38c839993f9476c19c2a71806173e.jpg 'les puits du Soleil, de la Terre et de la Lune "vus de dessus", en courbes de niveau, permettent de visualiser les "points de Lagrange" L1 à L5')](http://fr.wikipedia.org/wiki/Point_de_Lagrange)
+{{< figure src="images/41b38c839993f9476c19c2a71806173e.jpg" alt="Cliquer pour http://fr.wikipedia.org/wiki/Point_de_Lagrange" caption="les puits du Soleil, de la Terre et de la Lune &quot;vus de dessus&quot;, en courbes de niveau, permettent de visualiser les &quot;points de Lagrange&quot; L1 à L5" link="http://fr.wikipedia.org/wiki/Point_de_Lagrange" align="aligncenter" width="489" >}}
 
 ### Notes:
 

@@ -11,7 +11,7 @@ tags:
 coverImage: "2cc3e5889816845798e7a5ed9bf527d2-1.jpg"
 ---
 
-![Vue d](images/2cc3e5889816845798e7a5ed9bf527d2.jpg "Vue d")
+{{< figure src="images/2cc3e5889816845798e7a5ed9bf527d2.jpg" alt="Vue d" caption="Vue d" link=\"https://www.youtube.com/watch?v=dF-KhAXbV8k\" align="alignleft" width="230" >}}
 
 Pour le public les trous noirs sont toujours des monstres dévorant inexorablement la matière qui les approche, alors que depuis les années 1970 les scientifiques savent que certains [produisent des jets](/2008/05/03/le-jets-des-trous-noirs/ "Le jets des trous noirs") qui envoient des quantités importantes de matière très loin dans l'espace à des vitesses relativistes, voire supraluminiques en apparence. Aujourd'hui certains astrophysiciens vont jusqu'à suggérer que les trous noirs géants siégeant dans le noyau actif des galaxies absorbent moins d'étoiles qu'ils n'en [produisent directement dans leur voisinage](/2008/09/06/les-trous-noirs-des-moteurs-de-lunivers/) immédiat et indirectement par [le recyclage des jets](/2009/02/04/recyclage-galactique/ "Recyclage galactique").
 
@@ -21,7 +21,7 @@ C'est pourquoi on étudie avec attention les systèmes "[binaires X](http://fr.w
 
 C'est justement une discontinuité de ce transfert qui vient d'être observée dans le système poétiquement nommé H1743-322 conjointement par le satellite [Rossi X-ray Timing Explorer (RXTE)](http://www.nasa.gov/centers/goddard/missions/rxte.html) de la NASA et le [Very Long Baseline Array (VLBA)](http://www.vlba.nrao.edu/) au sol [[2]](#ref-2), [[3]](#ref-3):
 
-[![(Cliquer pour agrandir)](images/a684d1e05d082af31c936e3fcce52cf2.jpg "(Cliquer pour agrandir)")](/wp-content/uploads/HLIC/a684d1e05d082af31c936e3fcce52cf2.jpg)
+{{< figure src="images/a684d1e05d082af31c936e3fcce52cf2.jpg" alt="(Cliquer pour agrandir)" caption="(Cliquer pour agrandir)" link="/wp-content/uploads/HLIC/a684d1e05d082af31c936e3fcce52cf2.jpg" align="aligncenter" width="563" >}}
 
 Le 28 mai 2009, "quelque chose" tournait 0.9 fois par seconde autour du trou noir, puis ce pic d'émission  dans les rayons X s'est progressivement décalé à 1.3 Hz le 30 mai et 3.5 Hz le 2 juin. Imaginez que le "quelque chose" soit un grumeau de gaz  peut-être de la masse de la Lune qui se mette à tourner 4 fois par seconde autour d'un trou noir de la taille de la Terre, pour vous faire une idée...
 

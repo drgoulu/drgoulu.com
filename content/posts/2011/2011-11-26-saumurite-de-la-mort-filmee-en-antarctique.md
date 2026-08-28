@@ -46,7 +46,7 @@ Les plongeurs spécialistes notèrent les températures afin de revenir sur zone
 
 ### Envers et contre tout
 
-![Hugh Miller filmant la saumurite avec tout son matériel (c) D. Anderson](images/f5e31d50298e7daa89df370158cca054.jpg "Hugh Miller filmant la saumurite avec tout son matériel (c) D. Anderson")
+{{< figure src="images/f5e31d50298e7daa89df370158cca054.jpg" alt="Hugh Miller filmant la saumurite avec tout son matériel (c) D. Anderson" caption="Hugh Miller filmant la saumurite avec tout son matériel (c) D. Anderson" align="aligncenter" width="624" >}}
 
 L'emplacement, sous la glace aux large des contreforts du volcan Mont Erebus, dans de l'eau à -2°C, n'était pas facile d'accès...
 

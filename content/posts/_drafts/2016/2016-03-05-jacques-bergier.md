@@ -6,7 +6,7 @@ categories:
 - non-classe
 draft: true
 ---
-![Jacques Bergier et Mik Ezdanitoff le personnage de Hergé dans Vol 714 pour Syndey](images/bergier1.jpg 'Jacques Bergier et Mik Ezdanitoff le personnage de Hergé dans "Vol 714 pour Syndey"')
+{{< figure src="images/bergier1.jpg" alt="Jacques Bergier et Mik Ezdanitoff le personnage de Hergé dans Vol 714 pour Syndey" caption="Jacques Bergier et Mik Ezdanitoff le personnage de Hergé dans &quot;Vol 714 pour Syndey&quot;" align="alignright" width="488" >}}
 
 [vidéo d' Entretiens (1978)](https://www.youtube.com/watch?v=JVIv7Kh3VgA)
 

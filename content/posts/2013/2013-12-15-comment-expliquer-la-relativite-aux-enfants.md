@@ -32,7 +32,7 @@ Hubert Reeves disait à propos de la relativité [[1]](#ref-1):
 
 > La réaction d'un esprit non préparé est normalement : "je ne comprends pas." En fait il n'y a rien à "comprendre": voilà un énoncé qui représente un fait vérifié par l'expérience. On part de là; on n'y arrive pas après raisonnement. On constate le fait, comme on constate l'existence du monde, comme on constate sa propre existence.
 
-[![L'incrédulité de St Thomas par Le Caravage, parce que je trouve qu'il va bien là.](images/1024px-The_Incredulity_of_Saint_Thomas-Caravaggio_(1601-2).jpg "L'incrédulité de St Thomas par Le Caravage, parce que je trouve qu'il va bien là.")](https://fr.wikipedia.org/wiki/L%27Incr%C3%A9dulit%C3%A9_de_saint_Thomas_%28Le_Caravage%29)
+{{< figure src="images/1024px-The_Incredulity_of_Saint_Thomas-Caravaggio_(1601-2).jpg" alt="L'incrédulité de St Thomas par Le Caravage, parce que je trouve qu'il va bien là." caption="L'incrédulité de St Thomas par Le Caravage, parce que je trouve qu'il va bien là." link="https://fr.wikipedia.org/wiki/L%27Incr%C3%A9dulit%C3%A9_de_saint_Thomas_%28Le_Caravage%29" align="alignright" width="400" >}}
 
 Malheureusement on ne constate pas la relativité comme un fait dans la vie quotidienne : il n'existe pas d'expérience permettant de visualiser un effet relativiste dans sa cuisine ou dans une classe primaire. Dans un coûteux labo de physique universitaire on peut commencer à "toucher" la relativité par l'expérience, mais dans une classe primaire on est paradoxalement forcé de travailler à un niveau d'abstraction supérieur, à partir de descriptions d'expériences réalisées par d'autres, et par raisonnement, Ce n'est pas facile, même au niveau de l'enseignement supérieur [[2]](#ref-2).
 

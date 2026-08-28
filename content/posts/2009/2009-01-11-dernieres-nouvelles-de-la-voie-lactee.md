@@ -16,7 +16,7 @@ Notre position à l'intérieur de la Voie Lactée rend impossible son observatio
 
 D'ailleurs, une image récente du centre de la Galaxie [[1]](#ref-1) montre que la zone de 300 années-lumière voisine du trou noir central (la tache blanche sur la photo) est extrêmement active, avec des nuages de gaz chaud et des étoiles massives, comme [une récente simulation](/2008/09/06/les-trous-noirs-des-moteurs-de-lunivers/) le prévoit :
 
-[![gros plan sur le centre galactique (cliquer pour agrandir)](images/8a3c8895f98903f44aa24650fdd6ec39.jpg "gros plan sur le centre galactique (cliquer pour agrandir)")](/wp-content/uploads/HLIC/8a3c8895f98903f44aa24650fdd6ec39.jpg)
+{{< figure src="images/8a3c8895f98903f44aa24650fdd6ec39.jpg" alt="gros plan sur le centre galactique (cliquer pour agrandir)" caption="gros plan sur le centre galactique (cliquer pour agrandir)" link="/wp-content/uploads/HLIC/8a3c8895f98903f44aa24650fdd6ec39.jpg" align="aligncenter" width="427" >}}
 
 En 2008, la structure de la Voie Lactée est enfin illustrée sur cette magnifique carte [[2]](#ref-2):
 

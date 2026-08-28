@@ -22,7 +22,7 @@ En effet, les [processeurs graphiques](http://fr.wikipedia.org/wiki/Processeur_g
 
 La [série 5000 d'ATI (racheté par AMD) et les nouvelles GTX 200 de nVidia](http://www.pcauthority.com.au/Review/119738,ati-radeon-hd-4000-vs-nvidia-geforce-gtx-200.aspx) offrent désormais une puissance de l'ordre du teraflops, soit 200x plus que [les plus puissants processeurs intel](http://www.intel.com/support/processors/sb/CS-023143.htm#1). D'ailleurs nVidia commercialise désormais ses derniers processeurs sur des [cartes "Tesla"](http://www.nvidia.com/object/tesla_computing_solutions.html) dédiées au calcul, et dépourvues de sortie video, un comble pour des processeurs graphiques !
 
-![ça ressemple à de la pub, mais ça n'en est pas (hélas)](images/94026009fee5d5ba9d3a9574be8e5250.jpg "ça ressemple à de la pub, mais ça n'en est pas (hélas)")
+{{< figure src="images/94026009fee5d5ba9d3a9574be8e5250.jpg" alt="ça ressemple à de la pub, mais ça n'en est pas (hélas)" caption="ça ressemple à de la pub, mais ça n'en est pas (hélas)" align="aligncenter" width="550" >}}
 
 Ainsi, la science peut bénéficier de processeurs puissants à des prix très bas grâce aux [millions de consoles](http://www.vgchartz.com/) et de PC familiaux.
 
@@ -46,7 +46,7 @@ Resté bien silencieux sur le sujet des GPU, intel prépare sa revanche en 2010 
 
 " _le PowerXcell 8i s'adresse avant tout aux scientifiques et au marché des consoles_". Cette merveilleuse [phrase](http://www.pcauthority.com.au/Review/119738,ati-radeon-hd-4000-vs-nvidia-geforce-gtx-200.aspx) s'applique également aux GPU : le marché porteur est celui des jeux video, toujours plus gourmands en qualité d'image et d'animation de scènes 3D complexes, mais aussi en capacité de simulation de phénomènes physiques. On veut de plus en plus de réalisme des chutes, collisions, explosions.
 
-[![un dinosaure s'effondre... : illustration du chapitre de GPU Gems 3 consacré à la simulation physique. Cliquez sur l'image pour accéder au texte](images/40dd712b15cbbfe9fbf94f84b24f89a7.jpg "un dinosaure s'effondre... : illustration du chapitre de GPU Gems 3 consacré à la simulation physique. Cliquez sur l'image pour accéder au texte")](http://http.developer.nvidia.com/GPUGems3/gpugems3_part05.html)
+{{< figure src="images/40dd712b15cbbfe9fbf94f84b24f89a7.jpg" alt="un dinosaure s'effondre... : illustration du chapitre de GPU Gems 3 consacré à la simulation physique. Cliquez sur l'image pour accéder au texte" caption="un dinosaure s'effondre... : illustration du chapitre de GPU Gems 3 consacré à la simulation physique. Cliquez sur l'image pour accéder au texte" link="http://http.developer.nvidia.com/GPUGems3/gpugems3_part05.html" align="aligncenter" width="500" >}}
 
 Jusqu'ici les jeux intégraient la mécanique des corps rigides, mais désormais les cheveux et les habits de nos héros virtuels suivent leurs mouvements, car il est possible de simuler la déformation élastique et la rupture. La prochaine étape est de [simuler l'écoulement de fluides en temps réel](http://3dmon.wordpress.com/2008/08/21/fluides-en-temps-reel-aussi/), on y est presque.
 

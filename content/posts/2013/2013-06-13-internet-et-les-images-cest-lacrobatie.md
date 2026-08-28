@@ -13,7 +13,7 @@ coverImage: "5f191d5b335e83fb624df1763b405414.jpg"
 
 Internet, c'est tellement facile : on voit une image qui nous plait pour illustrer un article, hop, on copie le lien vers l'image dans son propre blog :
 
-[![avions2 par Daprilli](images/8d051439297695af67728cb76d11a944.jpg "avions2 par Daprilli")](http://www.d-aprilli.net//www.d-aprilli.net/GalerieAvions/index.html)
+{{< figure src="images/8d051439297695af67728cb76d11a944.jpg" alt="avions2 par Daprilli" caption="avions2 par Daprilli" link="http://www.d-aprilli.net//www.d-aprilli.net/GalerieAvions/index.html" align="alignright" width="614" >}}
 
 Et voilà. L'auteur de cette magnifique photo, que je salue au passage, pourrait légitimement prétendre que je lui ai volé cette photo sans autorisation, à quoi je pourrais lui répondre que non ( si j'étais de mauvaise foi ) puisqu'elle est toujours sur son serveur  : je ne l'ai pas copiée, j'ai juste mis <img src="http://www.d-aprilli.net/www.d-aprilli.net/GalerieAvions/content/images/large/dAprilli\_Avion002.jpg"> dans le texte HTML de cet article...
 
@@ -63,7 +63,7 @@ Depuis le 25 janvier 2013, Google copie même les images en pleine résolution q
 
 Il y a des sites commerciaux de photos et de fonds d'écrans qui râlent sec, et il y a de quoi quand on voit par exemple la chute du trafic enregistrée chez [pixabay.com](http://pixabay.com/) à ce moment :
 
-[![trafic chez pixabay.com au moment du changement chez Google...](images/c13586da587b889ab33fbafb03b381a9.png "trafic chez pixabay.com au moment du changement chez Google...")](http://pixabay.com/)
+{{< figure src="images/c13586da587b889ab33fbafb03b381a9.png" alt="trafic chez pixabay.com au moment du changement chez Google..." caption="trafic chez pixabay.com au moment du changement chez Google..." link="http://pixabay.com/" align="aligncenter" width="640" >}}
 
 Le choix est cornélien : comment bénéficier du service d'indexation des images de Google tout en conservant es droits auquel tout créateur a droit ?
 

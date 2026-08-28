@@ -13,13 +13,13 @@ Je voulais écrire un petit article de pub pour [Kidi'Science](http://kidiscien
 
 Comme je le mets dans certains profils, je suis "tombé dans la science quand j'étais petit".
 
-[![Photo sciencephotolibrary. Mais mon papa en a surement de meilleures, faut que je lui demande](images/c7e574486450dc0aef7d93851a81f709.jpg "Photo sciencephotolibrary. Mais mon papa en a surement de meilleures, faut que je lui demande")](http://www.sciencephoto.com/media/221403/enlarge)
+{{< figure src="images/c7e574486450dc0aef7d93851a81f709.jpg" alt="Photo sciencephotolibrary. Mais mon papa en a surement de meilleures, faut que je lui demande" caption="Photo sciencephotolibrary. Mais mon papa en a surement de meilleures, faut que je lui demande" link="http://www.sciencephoto.com/media/221403/enlarge" align="alignright" width="265" >}}
 
 D'abord c'est à cause de mon papa, ingénieur en génie civil, qui faisait des trucs magiques comme calculer [ses ponts](/2005/07/03/umberto-guglielmetti/) par [photoélasticimétrie](http://fr.wikipedia.org/wiki/Photo%C3%A9lasticim%C3%A9trie). Il s'intéressait, et s'intéresse toujours, à toutes les sciences et techniques. A la maison on avait un microscope, un télescope, un oscilloscope. Et aussi un atelier de bricolage bien outillé rempli d'appareils éventrés (souvent par mes soins) allant du réveil-matin au moteur de Solex en passant par les éléments de chaine stéréo. (Oui, "[j'ai souffert dans ma jeunesse](http://www.ina.fr/video/I07329367)" ...)
 
 Autre personnalité influente : mon tonton, Dr. en chimie qui m'offrait de l'équipement de chimie amusante en quantité industrielle. Le droguiste de ma ville, après m'avoir fourni du sulfate de cuivre pour faire de jolis cristaux, m'a aussi vendu des kilos de nitrates, chlorates et permanganates pour réaliser des expériences qui seraient aujourd'hui relatées en première page: "une bande d'ados inconscients tirent une fusée de 2 kg bourrée de [fulmicoton](http://fr.wikipedia.org/wiki/Nitrocellulose) par dessus le terrain de tennis...". Depuis je sais que les expériences scientifiques demandent un peu de doigté, un soupçon de prudence, et des tonnes de chance.
 
-[![Dans le champ de cette photo, il y a tous les humains sauf Michael Collins](images/7fa0266d821a007ae1886d2d51be12c3.jpg "Dans le champ de cette photo, il y a tous les humains sauf Michael Collins")](images/7fa0266d821a007ae1886d2d51be12c3.jpg)
+{{< figure src="images/7fa0266d821a007ae1886d2d51be12c3.jpg" alt="Dans le champ de cette photo, il y a tous les humains sauf Michael Collins" caption="Dans le champ de cette photo, il y a tous les humains sauf Michael Collins" link="images/7fa0266d821a007ae1886d2d51be12c3.jpg" align="alignleft" width="265" >}}
 
 Sinon, quand j'avais entre 5 et 10 ans, il y a eu six événements extraordinaires : on est allés six fois [sur la Lune](/tags/lune/) ! Vous les jeunes vous ne pouvez pas imaginer ce que ça représentait. Quand je dis "on est allés sur la Lune", je veux dire tout le monde, toute l'humanité et moi futur astronaute y compris. A cette époque, à part pour les hippies, tout était clair : la science et la technique sont toutes puissantes. Si on veut, on peut. No limits. Vers l'infini et au delà !
 
@@ -27,7 +27,7 @@ Je n'arrive toujours pas à comprendre comment on est retombés sur Terre à cul
 
 Bref à l'âge de 12 ans tout était déjà clair : je serai ingénieur. En astronautique, génie civil, mécanique, électronique, chimie, astronautique, peu importait au fond. Mon but était de démonter le monde pour voir comment il fonctionne (la science pour moi c'est ça), d'en utiliser les pièces pour l'améliorer en repoussant les limites du possible (ça c'est la technique, et ce n'est pas la même chose que la science).
 
-[![Mon premier ordinateur. 8 bits, 1MHz, RAM 8Ko](images/6e57d14cb3895e18c0634e1712e30fdf.jpg "Mon premier ordinateur. 8 bits, 1MHz, RAM 8Ko")](http://fr.wikipedia.org/wiki/Commodore_PET)
+{{< figure src="images/6e57d14cb3895e18c0634e1712e30fdf.jpg" alt="Mon premier ordinateur. 8 bits, 1MHz, RAM 8Ko" caption="Mon premier ordinateur. 8 bits, 1MHz, RAM 8Ko" link="http://fr.wikipedia.org/wiki/Commodore_PET" align="alignright" width="240" >}}
 
 A cette époque, mon papa a amené à la maison la première calculatrice programmable  qu'il utilisait professionnellement (HP-45 si je me souviens bien), puis un des premiers ordinateurs "personnel" le [PET 2001](http://fr.wikipedia.org/wiki/Commodore_PET). Un nouveau monde s'ouvrait. Devait s'ouvrir même, car il n'existait aucun programme pour ces machines : il fallait écrire ses programmes soi-même, et ça c'était un vrai challenge.
 

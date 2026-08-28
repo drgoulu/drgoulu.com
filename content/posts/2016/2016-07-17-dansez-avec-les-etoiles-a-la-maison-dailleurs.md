@@ -13,7 +13,7 @@ tags:
 coverImage: "maisondailleurs.jpg"
 ---
 
-[![Crédits: Jean-Christophe But/Keystone](images/maisondailleurs.jpg "Crédits: Jean-Christophe But/Keystone")](http://www.bilan.ch/etienne-dumont/courants-dart/yverdonla-maison-dailleurs-danse-etoiles)
+{{< figure src="images/maisondailleurs.jpg" alt="Crédits: Jean-Christophe But/Keystone" caption="Crédits: Jean-Christophe But/Keystone" link="http://www.bilan.ch/etienne-dumont/courants-dart/yverdonla-maison-dailleurs-danse-etoiles" align="alignright" width="359" >}}
 
 La [Maison d'Ailleurs](https://fr.wikipedia.org/wiki/Maison_d'Ailleurs) au centre d'Yverdon  ([site officiel](http://www.ailleurs.ch/)) est un musée de la science-fiction reconnu par les amateurs du genre mais, il faut le dire, sa collection permanente de livres et objets est un peu... statique. Heureusement, l'exposition temporaire actuelle "Danse avec les étoiles" rend la visite beaucoup plus interactive, amusante et étonnante [[1]](#ref-1), [[2]](#ref-2). A voir avec grands et petits jusqu'au 28 août.
 

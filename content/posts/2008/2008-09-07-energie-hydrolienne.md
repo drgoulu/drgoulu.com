@@ -19,13 +19,13 @@ Quelques entreprises proposent déjà différents types d'hydroliennes:
 - l'entreprise française [Hydrohelix](http://www.sabella.fr/) propose des modules de 5 hélices de 10m produisant 1MW
 - [Tidal Stream](http://www.tidalstream.co.uk/) a axé ses développements sur un inconvénient des hydroliennes : la difficulté d'entretien. Leurs solutions permettent de remonter facilement les hélices en surface
 
-![La Pentland Firth Turbine de Tidal Stream, avec 4 hélices de 20m produisant 4MW. A coté, une éolienne de la même puissance.](images/8320a0350378cd295ac0b090eda52ebe.jpg 'La "Pentland Firth Turbine" de Tidal Stream, avec 4 hélices de 20m produisant 4MW. A coté, une éolienne de la même puissance.')
+{{< figure src="images/8320a0350378cd295ac0b090eda52ebe.jpg" alt="La Pentland Firth Turbine de Tidal Stream, avec 4 hélices de 20m produisant 4MW. A coté, une éolienne de la même puissance." caption="La &quot;Pentland Firth Turbine&quot; de Tidal Stream, avec 4 hélices de 20m produisant 4MW. A coté, une éolienne de la même puissance." align="aligncenter" width="400" >}}
 
 - [Marine Turbines](http://www.marineturbines.com/) est la plus avancée : elle a déjà réalisé deux installations pilotes en Angleterre:
     - SeaFlow fournit 300 KW à [Lynmouth dans le Devon](http://maps.google.ch/maps?f=q&hl=fr&geocode=&q=Lynmouth+&ie=UTF8&ll=51.089723,-3.619995&spn=2.25302,2.702637&z=8) depuis 2003
     - [SeaGen](http://www.seageneration.co.uk/), d'une puissance de 1.2 MW, installé cette année à [Strangford Lough](http://maps.google.ch/maps?f=q&hl=fr&geocode=&q=Strangford+Lough&sll=46.223062,6.038066&sspn=0.009694,0.010557&ie=UTF8&ll=54.335744,-5.63324&spn=1.045676,1.351318&z=9&iwloc=addr) en Irlande
 
-![le bras de SeaGen, portant 2 hélices de 15m de diamètre](images/9be8f3f8f1bd804a545c6d566e4cb6d2.jpg "le bras de SeaGen, portant 2 hélices de 15m de diamètre")
+{{< figure src="images/9be8f3f8f1bd804a545c6d566e4cb6d2.jpg" alt="le bras de SeaGen, portant 2 hélices de 15m de diamètre" caption="le bras de SeaGen, portant 2 hélices de 15m de diamètre" align="aligncenter" width="480" >}}
 
 D'autres idées émergent pour exploiter les courants marins, comme cet aileron de requin géant projeté par [BioPower systems](http://www.biopowersystems.com/) \[3\]
 

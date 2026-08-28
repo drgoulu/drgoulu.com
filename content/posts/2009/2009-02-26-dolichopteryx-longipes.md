@@ -15,7 +15,7 @@ coverImage: "9020ed842e239dc732829439968cf4fa-1.jpg"
 
 Ce poisson de 18 cm vit vers 1000m de profondeur connu depuis 1888, mais ce n'est que récemment que Hans-Joachim Wagner a réussi à en capturer un exemplaire vivant. Il a ainsi pu examiner de plus près les étranges yeux de cet animal et a fait une découverte stupéfiante :
 
-![illustration de l'article (1)](images/9020ed842e239dc732829439968cf4fa.jpg "illustration de l'article (1)")
+{{< figure src="images/9020ed842e239dc732829439968cf4fa.jpg" alt="illustration de l'article (1)" caption="illustration de l'article (1)" align="aligncenter" width="450" >}}
 
 La lumière n'est pas focalisée par réfraction par un cristallin comme tous les yeux des vertébrés connus, mais par réflexion sur un miroir concave, comme dans un télescope !
 

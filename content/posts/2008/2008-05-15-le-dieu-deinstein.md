@@ -18,7 +18,7 @@ Or il n'a jamais dit ça. Dans cette fameuse lettre, il est écrit :
 1. "_Le mot Dieu n'est pour moi rien de plus que l'expression et le produit des faiblesses humaines, la Bible un recueil de légendes, certes honorables mais primitives qui sont néanmoins assez puériles_." Notez qu'en disant "le mot Dieu" et pas "Dieu" tout court, Einstein est très clair : c'est la conception que les humains ont de Dieu qui lui semble fragile, pas Dieu lui-même.
 2. "_La religion juive, comme toutes les autres religions est l'incarnation des superstitions les plus enfantines_". La encore, Einstein ne dit pas que croire en Dieu est une superstition, il dit que les religions le sont, c'est fort différent.
 
-![La fameuse lettre, si vous arrivez à la lire ...](images/50685b75d579b4f65fdb2d1925518ebb.jpg "la fameuse lettre d'Einstein, si vous arrivez à la lire ...")
+{{< figure src="images/50685b75d579b4f65fdb2d1925518ebb.jpg" alt="La fameuse lettre, si vous arrivez à la lire ..." caption="la fameuse lettre d'Einstein, si vous arrivez à la lire ..." align="aligncenter" width="600" >}}
 
 Einstein n'était pas athée, il l'a clairement écrit dans un télégramme au rabbin Goldstein de New York, qui lui avait demandé s'il croyait en Dieu :
 

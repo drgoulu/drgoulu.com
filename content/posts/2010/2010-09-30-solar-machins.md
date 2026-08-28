@@ -18,7 +18,7 @@ Après le tour du monde de [SolarTaxi](http://www.louispalmer.ch/en/solartaxi/)
 
 Je me demande si ces projets permettent réellement de faire avancer le [schmilblick](http://fr.wikipedia.org/wiki/Schmilblick). Est-ce que ces engins préfigurent vraiment les véhicules de nos petits enfants ? J'ai des doutes...
 
-[![La Jamais Contente, première voiture ayant atteint 100 km/h, en 1899. Elle était électrique, déjà ...](images/9a440aa4e1cd0fe13d8938d79cc00f26.jpg 'La "Jamais Contente", première voiture ayant atteint 100 km/h, en 1899. Elle était électrique, déjà ...')](http://fr.wikipedia.org/wiki/Jamais_Contente)
+{{< figure src="images/9a440aa4e1cd0fe13d8938d79cc00f26.jpg" alt="La Jamais Contente, première voiture ayant atteint 100 km/h, en 1899. Elle était électrique, déjà ..." caption="La &quot;Jamais Contente&quot;, première voiture ayant atteint 100 km/h, en 1899. Elle était électrique, déjà ..." link="http://fr.wikipedia.org/wiki/Jamais_Contente" align="aligncenter" width="400" >}}
 
 D'abord, une évidence parfois oubliée : un véhicule "solaire" est en fait un véhicule à propulsion électrique dont la batterie est rechargée par des panneaux solaires. La propulsion électrique, on sait faire depuis assez longtemps, et ces dernières années ont permis de disposer des [panneaux à rendement acceptable](/2010/05/09/comment-on-mesure-le-rendement-des-cellules-solaires/) et des batteries à hautes performances nécessaires.
 
@@ -26,7 +26,7 @@ Au niveau des véhicules il n'y a pas de conception fondamentalement nouvelle :
 
 Ainsi, Solar Taxi ne consomme que 8 kWh/100 km en moyenne, soit l'équivalent de 0.8 l/100km. C'est donc une "voiture" plus proche de la classe "Urban Concept" de l'[Eco Marathon Shell](http://www.shell.com/home/content/ecomarathon/europe/media_centre/final_results/) que de la [Golf des Taylor](http://www.shell.ca/home/content/can-fr/products_services/on_the_road/fuels/fuel_stretch/world_record/).
 
-![Solar Impulse en vol](images/469c6039326fa4db357a0e57ddeea38e.jpg "Solar Impulse en vol")
+{{< figure src="images/469c6039326fa4db357a0e57ddeea38e.jpg" alt="Solar Impulse en vol" caption="Solar Impulse en vol" align="aligncenter" width="400" >}}
 
 Sur le site de Solar Impulse, on trouve [cette comparaison](http://www.solarimpulse.com/common/documents/challenge_solar.php?lang=fr&group=challenge) remarquablement honnête :
 
@@ -34,14 +34,14 @@ Sur le site de Solar Impulse, on trouve [cette comparaison](http://www.solarimpu
 
 Si Solar Impulse peut envisager un tour du monde alors que les frères Wright ne volèrent que quelques centaines de mètres, c'est grâce au progrès de l'aéronautique qui permettent de réaliser aujourd'hui un moto planeur aux performances étonnantes plus que grâce au solaire. En effet, si au lieu d'embarquer 400 kg de batteries, un "Petrol Impulse" équivalent  chargeait 400 kg de kérosène, il pourrait voler environ 1000 heures avec des moteurs de même puissance (et chauffer l'équipage et ses repas en prime...), donc également boucler un tour du monde sans escale.
 
-[![PlanetSolar](images/3c4bf620ecd687e421e57163e58e74c1.png '"Planet Solar" au large de Monaco')](http://www.planetsolar.org)
+{{< figure src="images/3c4bf620ecd687e421e57163e58e74c1.png" alt="PlanetSolar" caption="&quot;Planet Solar&quot; au large de Monaco" link="http://www.planetsolar.org" align="aligncenter" width="400" >}}
 
 Le projet que je trouve le plus incompréhensible est celui de Planet Solar. Quelle drôle d'idée de construire un bateau solaire, alors qu'on fait déjà  des [circumnavigation](https://fr.wikipedia.org/wiki/circumnavigation) à l'énergie renouvelable depuis presque 500 ans !  Des voiliers en bois ont transporté des centaines d'hommes et des tonnes de marchandises dans les eaux dangereuses des mers du sud pratiquement sans prévisions météo. Comment peut-on considérer comme un progrès de faire un tour du monde par les canaux de Panama et de Suez sur un bateau léger dont toute la surface est occupée par des panneaux ? Où est donc l'innovation dans ce projet ?
 
 Pourtant il existe des idées innovantes pour la navigation, comme [tracter des cargos avec des kites](http://www.skysails.info/index.php), ou soulever un bateau hors de l'eau [sur des hydrofoils pour qu'il aille très très vite](http://foils.wordpress.com/).
 
-[![L'Hydroptère : près de 100 km/h à la voile... Ca c'est de l'innovation!](images/a1d66fe0e2c9fc15757efdf326ab63a4.jpg "L'Hydroptère : près de 100 km/h à la voile... Ca c'est de l'innovation!")](http://www.hydroptere.com/)
+{{< figure src="images/a1d66fe0e2c9fc15757efdf326ab63a4.jpg" alt="L'Hydroptère : près de 100 km/h à la voile... Ca c'est de l'innovation!" caption="L'Hydroptère : près de 100 km/h à la voile... Ca c'est de l'innovation!" link="http://www.hydroptere.com/" align="aligncenter" width="450" >}}
 
 Même si je reconnais volontiers la performance technique de réaliser des véhicules consommant très peu d'énergie et que je souhaite plein succès aux équipes dans leurs projets, j'ai de la peine à partager des "rêves" basés sur de vieilles idées additionnées de rationnement de l'énergie. Un vrai rêve pour moi, ce serait plutôt d['](http://fr.wikipedia.org/wiki/Voile_solaire)aller [vite](/2004/08/09/acceleration/) et [loin](/2007/09/28/qui-veut-voyager-loin-ionise-sa-sonde/), [et pourquoi pas à la voile et au solaire en même temps](http://fr.wikipedia.org/wiki/Voile_solaire) ...
 
-[![Ikaros, la voile solaire japonaise lancée en juin](images/240da40634b0c8e3e5f2f834f86fa096.jpg "Ikaros, la voile solaire japonaise lancée en juin")](http://fr.wikipedia.org/wiki/IKAROS)
+{{< figure src="images/240da40634b0c8e3e5f2f834f86fa096.jpg" alt="Ikaros, la voile solaire japonaise lancée en juin" caption="Ikaros, la voile solaire japonaise lancée en juin" link="http://fr.wikipedia.org/wiki/IKAROS" align="aligncenter" width="423" >}}

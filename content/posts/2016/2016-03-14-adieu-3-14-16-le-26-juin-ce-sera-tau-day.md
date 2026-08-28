@@ -12,7 +12,7 @@ tags:
 coverImage: "1280px-Engadiner_Nusstorte2.jpg"
 ---
 
-[![3 pi/2 de Nusstorte je vous prie - Je vous en mets 3/4 de tau, ça vous ira ?](images/1280px-Engadiner_Nusstorte2.jpg "3 pi/2 de Nusstorte je vous prie - Je vous en mets 3/4 de tau, ça vous ira ?")](https://fr.wikipedia.org/wiki/Journ%C3%A9e_de_pi)
+{{< figure src="images/1280px-Engadiner_Nusstorte2.jpg" alt="3 pi/2 de Nusstorte je vous prie - Je vous en mets 3/4 de tau, ça vous ira ?" caption="3 pi/2 de Nusstorte je vous prie - Je vous en mets 3/4 de tau, ça vous ira ?" link="https://fr.wikipedia.org/wiki/Journ%C3%A9e_de_pi" align="alignright" width="320" >}}
 
 Oui je sais, certains fêtent la [journée de pi](https://fr.wikipedia.org/wiki/journée_de_pi) aujourd'hui, puisque le 14 mars se note 3.14 aux USA. Et comme nous sommes en 2016, c'est même 3.1416 . Et en prime Gilles nous a fait déguster une délicieuse [Nusstorte des Grisons](https://en.wikipedia.org/wiki/Bündner_Nusstorte) bien ronde.
 

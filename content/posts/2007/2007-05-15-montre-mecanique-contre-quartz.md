@@ -28,7 +28,7 @@ En 1983, les premières montres [Swatch](http://www.swatch.com/) sont en plastiq
 
 Mais le coup de génie c'est le marketing. Les Swatches sont de toutes les couleurs, de plus en plus fun et on en achète plusieurs alors que pour avoir l'heure une suffirait. Des collectionneurs achètent tous les modèles qui sortent. Swatch se met à produire des séries limitées de certaines montres dessinées par des designers célèbres. Toujours en plastique, elles atteignent le prix de montres en or massif.
 
-![C'est une Swatch !](images/84dcc0146312a9e1ac6b8289cfa43400.jpg "C'est une Swatch !")
+{{< figure src="images/84dcc0146312a9e1ac6b8289cfa43400.jpg" alt="C'est une Swatch !" caption="C'est une Swatch !" align="alignleft" width="420" >}}
 
 Puis Swatch se mit se proposer des montres "sans pile", présentant les bons vieux mouvements mécaniques comme une innovation auprès des jeunes ! La précision devient totalement secondaire, d'autant que lorsqu'on possède 10 montres à quartz, il faut pratiquement changer la pile chaque fois qu'on souhaite en porter une autre et la remettre à l'heure de toutes façons.
 

@@ -35,7 +35,7 @@ Depuis 2006, le [projet "Blue Brain"](http://www.artificialbrains.com/blue-brai
 
 D'autres [projets de cerveaux artificiels](http://www.artificialbrains.com/) comme [Synapse](http://www.artificialbrains.com/darpa-synapse-program) [[7]](#ref-7), [Spaun](http://www.artificialbrains.com/spaun) [[8]](#ref-8) ou même [SpikeFun](http://www.artificialbrains.com/spikefun) qui simule 32'000 neurones sur votre PC confirment grosso-modo ces ordres de grandeur.
 
-[![Performance du plus puissant ordinateur (en rouge) au cours du temps selon top500.org](images/3a2b6cf709d6fff3b048cdf55a897882.png "Performance du plus puissant ordinateur (en rouge) au cours du temps selon top500.org")](http://top500.org/statistics/perfdevel/)
+{{< figure src="images/3a2b6cf709d6fff3b048cdf55a897882.png" alt="Performance du plus puissant ordinateur (en rouge) au cours du temps selon top500.org" caption="Performance du plus puissant ordinateur (en rouge) au cours du temps selon top500.org" link="http://top500.org/statistics/perfdevel/" align="aligncenter" width="600" >}}
 
 Le lecteur attentif aura remarqué qu'on a "perdu" deux ordres de grandeur en route : 100 milliards de neurones x 1 GigaFLOPS par neurone devraient donner 100 ExaFLOPS, pas 1. L'idée est que les étapes intermédiaires, mesocircuit, puis cerveau de rat, permettront de simplifier la simulation des neurones individuels, voire de la remplacer par un modèle des NCC. Markram considère en effet qu'une NCC est "est au cerveau ce qu'un microprocesseur est à un ordinateur" [[1]](#ref-1). Si c'est le cas, alors un cerveau serait l'équivalent d'environ 10 millions de processeurs de 100 GigaFLOPS chacun "seulement" soit un bon PC actuelCependant, les marges d'erreur sont considérables comme on le voit dans la première figure:
 
@@ -51,7 +51,7 @@ Si des appareils d'imagerie médicale devenaient capables de capturer les quelqu
 
  
 
-[![Dessin Human Brain-2](images/Dessin-Human-Brain-2.jpg "dessin: Arnaud Rafaelian, membre de Strip-Science (cliquer)")](http://stripscience.cafe-sciences.org/articles/author/arnaudrafaelian/)
+{{< figure src="images/Dessin-Human-Brain-2.jpg" alt="Dessin Human Brain-2" caption="dessin: Arnaud Rafaelian, membre de Strip-Science (cliquer)" link="http://stripscience.cafe-sciences.org/articles/author/arnaudrafaelian/" align="aligncenter" width="640" >}}
 
 En attendant, il y a toujours moyen de fabriquer un cerveau humain parfaitement fonctionnel, indépendant et consommant peu d'énergie électrique en quelques minutes de conception, 9 mois de montage et quelques années de programmation ...
 

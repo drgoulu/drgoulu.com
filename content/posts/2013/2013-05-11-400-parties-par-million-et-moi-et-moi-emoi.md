@@ -26,7 +26,7 @@ Pour ma part, cette nouvelle m'a fait penser à cette chanson de Jacques Dutronc
 
 Cynique ? Egoïste ? Je préfère réaliste : cette chanson met le doigt sur deux facteurs humains essentiels:
 
-![Il y a plus de gens qui vivent dans ce cercle qu'en dehors](images/7575e88ce0fcaba1431e589d3d202e4e.jpg "Il y a plus de gens qui vivent dans ce cercle qu'en dehors")
+{{< figure src="images/7575e88ce0fcaba1431e589d3d202e4e.jpg" alt="Il y a plus de gens qui vivent dans ce cercle qu'en dehors" caption="Il y a plus de gens qui vivent dans ce cercle qu'en dehors" align="alignright" width="300" >}}
 
 1. on veut notre petit confort
 2. la démographie
@@ -53,7 +53,7 @@ L'intérêt de l'équation de Kaya, c'est que les 3 fractions qui se multiplient
 
 Et puis il y a le facteur POPulation. Or voici comment ont évolué ces 4 facteurs et leur produit (le CO2 émis donc) depuis 1971, qui est presque la date de la chanson de Dutronc (1966):
 
-[![Graphique CC Enescot, Données “CO2 Emissions From Fuel Combustion: Highlights (2011 edition) IEA](images/319c84660b9a4ba43c226a066d5474a3.png 'Graphique CC Enescot, Données “CO2 Emissions From Fuel Combustion: Highlights (2011 edition)" IEA')](https://commons.wikimedia.org/wiki/File:Changes_in_components_of_the_Kaya_identity_between_1971-2009._Includes_global_energy-related_carbon_dioxide_emissions,_world_population,_world_GDP_per_capita,_energy_intensity_of_world_GDP_and_carbon_intensity_of_world_energy_use.png)
+{{< figure src="images/319c84660b9a4ba43c226a066d5474a3.png" alt="Graphique CC Enescot, Données “CO2 Emissions From Fuel Combustion: Highlights (2011 edition) IEA" caption="Graphique CC Enescot, Données “CO2 Emissions From Fuel Combustion: Highlights (2011 edition)&quot; IEA" link="https://commons.wikimedia.org/wiki/File:Changes_in_components_of_the_Kaya_identity_between_1971-2009._Includes_global_energy-related_carbon_dioxide_emissions,_world_population,_world_GDP_per_capita,_energy_intensity_of_world_GDP_and_carbon_intensity_of_world_energy_use.png" align="aligncenter" width="640" >}}
 
 Commençons par les bonnes nouvelles, car il y en a:
 

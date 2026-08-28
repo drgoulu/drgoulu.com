@@ -14,7 +14,7 @@ coverImage: "1e902c145a71c23577a085b67a7841c4.png"
 
 Il y a [pile 25 ans](http://www.ouest-france.fr/actu/actuDet_--Retour-vers-le-futur-fete-deja-ses-25-ans-div-class=boutonVideo-img-alt=Lien-vers-video-src=-design-images-overlay-video-articleVideo.gif-div-_39382-1561033_actu.Htm) apparaissait  la plus belle machine à voyager dans le temps du cinéma, la [DeLorean DMC-12](http://fr.wikipedia.org/wiki/De_Lorean_DMC-12) [modifiée par "Doc"](http://en.wikipedia.org/wiki/DeLorean_time_machine) :
 
-![Faut voir grand dans la vie, quitte à voyager à travers le temps au volant d'une voiture, autant en choisir une qui ait de la gueule!](images/1e902c145a71c23577a085b67a7841c4.png "\"Faut voir grand dans la vie, quitte à voyager à travers le temps au volant d'une voiture, autant en choisir une qui ait de la gueule!\"")
+{{< figure src="images/1e902c145a71c23577a085b67a7841c4.png" alt="Faut voir grand dans la vie, quitte à voyager à travers le temps au volant d'une voiture, autant en choisir une qui ait de la gueule!" caption="&quot;Faut voir grand dans la vie, quitte à voyager à travers le temps au volant d'une voiture, autant en choisir une qui ait de la gueule!&quot;" align="aligncenter" width="419" >}}
 
 C'est l'occasion de faire une petite revue de films montrant des machines à voyager dans le temps, dans le contexte des articles précédents sur la [possibilité du voyage dans le temps](/2008/06/19/peut-on-voyager-dans-le-temps/) et les [natures du temps en physique](/2009/03/28/les-natures-du-temps/).
 

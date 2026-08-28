@@ -15,7 +15,7 @@ tags:
 coverImage: "wild-extrapolation.jpeg"
 ---
 
-[![(une des bannières du Guardian. A utiliser sans modération. Cliquer pour plus)](images/3e267c32-20db-41b2-afda-014285e1d91a-bestSizeAvailable.jpeg "(une des bannières du Guardian. A utiliser sans modération. Cliquer pour plus)")](https://www.theguardian.com/science/brain-flapping/2014/sep/10/wild-extrapolation-classification-system-science-media-scepticism)
+{{< figure src="images/3e267c32-20db-41b2-afda-014285e1d91a-bestSizeAvailable.jpeg" alt="(une des bannières du Guardian. A utiliser sans modération. Cliquer pour plus)" caption="(une des bannières du Guardian. A utiliser sans modération. Cliquer pour plus)" link="https://www.theguardian.com/science/brain-flapping/2014/sep/10/wild-extrapolation-classification-system-science-media-scepticism" align="alignright" width="460" >}}
 
 Si je vous dis "quel nombre vient après 1,2,3, ?" vous allez certainement dire immédiatement "4".
 

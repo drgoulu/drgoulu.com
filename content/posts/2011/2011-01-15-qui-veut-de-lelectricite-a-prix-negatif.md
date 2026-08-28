@@ -10,7 +10,7 @@ tags:
   - "eolienne"
 ---
 
-![Ca devrait tourner tout seul, pourtant ...](images/664aa0c31119f6fcf601f7d55686e981.png "Ca devrait tourner tout seul, pourtant ...")
+{{< figure src="images/664aa0c31119f6fcf601f7d55686e981.png" alt="Ca devrait tourner tout seul, pourtant ..." caption="Ca devrait tourner tout seul, pourtant ..." align="alignright" width="224" >}}
 
 La machine à [mouvement perpétuel](http://fr.wikipedia.org/wiki/Mouvement_perp%C3%A9tuel) permettant de produire de l'énergie à un prix nul est un vieux rêve de l'humanité. Mais aujourd'hui on sait faire mieux : il arrive de plus en plus souvent que l'électricité ait un prix négatif pendant quelques heures ! On vous paie pour consommer de l'électricité ! Qui en veut ?
 
@@ -24,15 +24,15 @@ La consommation, est très variable aussi, mais assez prévisible. Elle suit 3 c
 
 Le 2 octobre 2009 était un vendredi normal en Allemagne : consommation de 12 GW tôt le matin, les centrales à charbon et lignite suffisent, le prix du MWh est autour de 25€. Les gens vont au boulot, mangent etc : vers midi la consommation à augmenté à 18 GWh, il a fallu mettre en marche des centrales à gaz et faire turbiner les quelques barrages. Ces installations sont plus chères, aussi parce qu'elles apportent la flexibilité au réseau, donc leurs exploitants ne les mettent en marche que lorsque le prix du MWh passe au dessus d'un prix qui leur permet de ne pas perdre d'argent, soit environ 70€. Vers 17h il y a une petite baisse de consommation, mais comme tout le monde sait que le soir elle va ré-augmenter, on n’arrête pas les installations malgré une baisse du prix à 40€. Et effectivement le soir quand Herr Schmidt allume sa télé et sa lumière, la consommation augmente encore un peu avec le prix, jusqu'à ce qu'il aille se coucher.
 
-[![epex20091002](images/6b0f4f94e2c1fb9b49cd8ab88d5f795f.png "marché EPEX de l'électricité 2 octobre 2009 (cliquer pour jouer)")](http://www.epexspot.com/fr/donnees_de_marche/fixing/graphe/auction-chart/2009-10-02/DE)
+{{< figure src="images/6b0f4f94e2c1fb9b49cd8ab88d5f795f.png" alt="epex20091002" caption="marché EPEX de l'électricité 2 octobre 2009 (cliquer pour jouer)" link="http://www.epexspot.com/fr/donnees_de_marche/fixing/graphe/auction-chart/2009-10-02/DE" align="aligncenter" width="507" >}}
 
 Le lendemain, samedi 3 octobre 2009, Herr Schmidt ne va pas travailler, il ne se lève que pour manger, ce qui crée un pic de consommation et de prix moins élevé que la veille, mais le soir il y a le foot à la télé, donc la consommation maximale à lieu vers 21h à 19 GWh. Ensuite les exploitants arrêtent les centrales à gaz, ferment les vannes des barrages, baissent un peu la puissance des centrales thermiques car demain c'est dimanche et là ça sera vraiment calme... Mais que se passe-t-il ??? La production diminue trop peu ... et en deux heures les prix s'effondrent. Un peu avant minuit, les producteurs ne savent plus quoi faire de leurs megawatts et les donnent...
 
-[![epex20091002](images/966201625b85d2a44427d1da34fe5f3d.png "marché EPEX de l'électricité 3 octobre 2009 (cliquer pour jouer)")](http://www.epexspot.com/fr/donnees_de_marche/fixing/graphe/auction-chart/2009-10-03/DE)
+{{< figure src="images/966201625b85d2a44427d1da34fe5f3d.png" alt="epex20091002" caption="marché EPEX de l'électricité 3 octobre 2009 (cliquer pour jouer)" link="http://www.epexspot.com/fr/donnees_de_marche/fixing/graphe/auction-chart/2009-10-03/DE" align="aligncenter" width="507" >}}
 
 Peu de producteurs d'électricité allemands doivent avoir oublié le dimanche 4 octobre 2009. Une jolie tempête atteint toute l'Allemagne avec des vents juste à la bonne vitesse pour faire tourner les éoliennes au max de leur rendement. Mais à 3h du matin, personne ne sait que faire de leur jus. Donc il vont jusqu'à payer 500€ par MWh pour qu'on les débarrasse de ce truc qui fait monter la tension sur le réseau et va faire tout péter ! 500 €, c'est dix fois le prix "normal" de l'électricité, mais en négatif !!!
 
-[![epex20091002](images/d42aad3f457ad8468a326085e09311a2.png "marché EPEX de l'électricité 4 octobre 2009 (cliquer pour jouer)")](http://www.epexspot.com/fr/donnees_de_marche/fixing/graphe/auction-chart/2009-10-04/DE)
+{{< figure src="images/d42aad3f457ad8468a326085e09311a2.png" alt="epex20091002" caption="marché EPEX de l'électricité 4 octobre 2009 (cliquer pour jouer)" link="http://www.epexspot.com/fr/donnees_de_marche/fixing/graphe/auction-chart/2009-10-04/DE" align="aligncenter" width="507" >}}
 
 Tout ceci démontre un aspect très important de l'électricité mais trop souvent ignoré:
 

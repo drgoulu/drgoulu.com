@@ -13,7 +13,7 @@ tags:
 coverImage: "f8ddbd206f9330c8aded99829d972930-1.jpg"
 ---
 
-[![Human Energy par Caneles](images/f8ddbd206f9330c8aded99829d972930.jpg '"Human Energy" par Caneles')](http://flickr.com/photos/94446676@N00/4144235691)
+{{< figure src="images/f8ddbd206f9330c8aded99829d972930.jpg" alt="Human Energy par Caneles" caption="&quot;Human Energy&quot; par Caneles" link="http://flickr.com/photos/94446676@N00/4144235691" align="alignright" width="240" >}}
 
 En réfléchissant un peu sur le sujet des [ampoules fluocompactes](/2007/11/07/ampoules-a-faible-consommation/), je me demande si je ne devrais pas également remplacer mes radiateurs électriques \* par des appareils utilisant plus efficacement l'énergie.
 

@@ -13,7 +13,7 @@ tags:
 coverImage: "d_wave_one_system.jpg"
 ---
 
-![Et en plus il a de la gueule. Enfin, autant qu'une boite noire éclairée par des LED bleues...](images/d_wave_one_system.jpg "Et en plus il a de la gueule. Enfin, autant qu'une boite noire éclairée par des LED bleues...")
+{{< figure src="images/d_wave_one_system.jpg" alt="Et en plus il a de la gueule. Enfin, autant qu'une boite noire éclairée par des LED bleues..." caption="Et en plus il a de la gueule. Enfin, autant qu'une boite noire éclairée par des LED bleues..." align="alignright" width="320" >}}
 
 La vague idée de l'[ordinateur quantique](https://fr.wikipedia.org/wiki/ordinateur_quantique) est née dans les années 1970 à l'image d'une boutade de Richard Feynman:
 
@@ -25,7 +25,7 @@ Le D-Wave One est doté d'un processeur à 128 [qubits](https://fr.wikipedia.org
 
 "Rainier" n'a pas grand chose à voir avec la puce de nos PC : il utilise des [jonctions Josephson](https://fr.wikipedia.org/wiki/jonction_Josephson) supraconductrices pour générer les qubits et exploite le [théorème adiabatique](https://fr.wikipedia.org/wiki/théorème_adiabatique) pour accéder à leur état. Les qubits effectuent ensuite l'optimisation par une méthode de "[recuit simulé quantique](https://fr.wikipedia.org/wiki/recuit_simulé_quantique)". Toutes ces notions sont bien éloignées du pain quotidien des informaticiens d'aujourd'hui.... D'ailleurs un ordinateur quantique ne se "programme" pas réellement, il doit plutôt être configuré pour résoudre un problème donné, un peu à la manière des bons vieux [calculateurs analogiques](https://fr.wikipedia.org/wiki/calculateur_analogique).
 
-![Vue de Rainier, le processeur du D-Wave One](images/ordinateur-quantique-L-UAkw55.jpeg 'Vue de "Rainier", le processeur du D-Wave One')
+{{< figure src="images/ordinateur-quantique-L-UAkw55.jpeg" alt="Vue de Rainier, le processeur du D-Wave One" caption="Vue de &quot;Rainier&quot;, le processeur du D-Wave One" align="aligncenter" width="393" >}}
 
 Avec un prix catalogue de 10 millions de dollars, le D-Wave One s'adresse aux entreprises ayant un problème très particulier à résoudre. Tellement particulier qu'un ordinateur à 10 millions de dollars n'y parvient pas. J'aurais tendance à dire que le marché me semble limité, mais je m'en voudrais de répéter une erreur célèbre:
 

@@ -23,15 +23,15 @@ Le [quiz sur les poissons d'avril](/2014/03/31/poisson-davril-ou-pas/ "Poisson 
 1. dans [Google Drive](https://drive.google.com/), on crée un document de type formulaire
 2. on se retrouve dans un éditeur permettant de composer le formulaire. On peut définir le type de chaque champ : texte, choix multiple, cases à cocher, échelle d'évaluation, tout y est. On peut ajouter des règles de validation et des actions à effectuer en fonction des réponses
     
-    [![Editeur de Formulaire Google Drive](images/form-editor1.png "Editeur de Formulaire Google Drive")](/wp-content/uploads/2014/04/form-editor1.png)
+    {{< figure src="images/form-editor1.png" alt="Editeur de Formulaire Google Drive" caption="Editeur de Formulaire Google Drive" link="/wp-content/uploads/2014/04/form-editor1.png" align="aligncenter" width="480" >}}
 3. En cliquant le bouton "afficher le formulaire en ligne" on peut voir à quoi ça ressemble pour les utilisateurs et même tester le système, car la collecte des réponses est immédiate : rien à faire de particulier !
 4. Lorsque le formulaire  est prêt, il suffit d'envoyer le lien disponible par "Envoyer le formulaire" à des personnes choisies, ou d'intégrer la page sur un site web dans un <iframe>. Plusieurs blogs du C@fé des sciences l'ont même fait simultanément sans aucun problème car le formulaire n'existe en réalité (virtuelle...) que chez Google.
 5. Les réponses sont automatiquement collectées dans un document "tableur" sur Google Drive : une ligne est créée pour chaque formulaire rempli, chaque colonne correspondant à un champ. Notez la colonne "horodateur" remplie automatiquement, bien utile.
     
-    ![Table des résultats](images/googleform1.png "Table des résultats")
+    {{< figure src="images/googleform1.png" alt="Table des résultats" caption="Table des résultats" align="aligncenter" width="480" >}}
     
     Ce que j'ai trouvé assez impressionnant est que l'on peut modifier le tableau sans perturber les votes suivants. Apparemment chaque champ du formulaire est attaché à une colonne par un lien invisible, mais solide : même si on ajoute ou déplace des colonnes, les réponses suivantes restent cohérentes avec les réponses précédentes. Pour le quiz, j'ai ajouté la ligne 2 avec les bonnes réponses ainsi que la colonne D Score. Notez au passage la  géniale formule qui compte le nombre de réponses correctes avec [arrayformula](https://support.google.com/drive/answer/71291?hl=fr) et sumproduct. Elle n'est pas de moi, et il parait qu'elle est possible aussi en Excel...
-6. ![stats](images/stats.png "résumé des réponses")
+6. {{< figure src="images/stats.png" alt="stats" caption="résumé des réponses" align="alignright" width="300" >}}
     
     Une petite dernière pour la route : dans le menu "Formulaire" on peut "afficher le résumé des réponses" qui présente les résultats sous une forme graphique qui peut être bien utile.
 

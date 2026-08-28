@@ -16,7 +16,7 @@ coverImage: "2a52baf87715fa5cfd26287f7546dbb8.jpg"
 
 Si vous croyez toujours qu'une galaxie n'est qu'un disque d'étoiles qui tournent autour d'un trou noir supermassif qui les avale une à une, regardez cette image :
 
-[![la galaxie NGC 5128 et ses lobes de gaz éjectés par son trou noir central](images/2a52baf87715fa5cfd26287f7546dbb8.jpg "la galaxie NGC 5128 et ses lobes de gaz éjectés par son trou noir central")](http://www.nasa.gov/multimedia/imagegallery/image_feature_1276.html)
+{{< figure src="images/2a52baf87715fa5cfd26287f7546dbb8.jpg" alt="la galaxie NGC 5128 et ses lobes de gaz éjectés par son trou noir central" caption="la galaxie NGC 5128 et ses lobes de gaz éjectés par son trou noir central" link="http://www.nasa.gov/multimedia/imagegallery/image_feature_1276.html" align="aligncenter" width="400" >}}
 
 [NGC 5128](https://fr.wikipedia.org/wiki/NGC_5128) est une galaxie assez proche (15 millions d'années lumière), bien visible dans l'optique mais aussi dans les fréquences radio. Elle se classe donc dans les "[radiogalaxies](https://fr.wikipedia.org/wiki/radiogalaxie)" sous le nom de "Centaurus A". On savait déjà que l'émission d'ondes radio de ces galaxies, qui peut atteindre une puissance de 10^39 Watts (!!!) est provoquée par les [jets de matière expulsés par le trou noir central](/2008/05/03/le-jets-des-trous-noirs/), plus exactement par leur rencontre brutale avec le gaz très diffus qui entoure les galaxies.
 

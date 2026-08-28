@@ -11,7 +11,7 @@ tags:
 coverImage: "2016-03-08_203842.png"
 ---
 
-[![2016-03-08_203842](images/2016-03-08_203842.png "cliquez pour jouer en ligne !")](http://dimit.me/Fe26/)
+{{< figure src="images/2016-03-08_203842.png" alt="2016-03-08_203842" caption="cliquez pour jouer en ligne !" link="http://dimit.me/Fe26/" align="alignleft" width="360" >}}
 
 Grâce à [cet article sur la fusion](http://www.internetactu.net/2016/03/08/contre-leffondrement-67-quel-avenir-pour-la-fusion-nucleaire/), je viens de découvrir une variante addictive et nucléaire du fameux [jeu 2048](/2014/04/09/bits-en-vrac/) à la mode il y a deux ans : [Fe\[26\]](http://dimit.me/Fe26/).
 

@@ -15,7 +15,7 @@ coverImage: "55c1b94ac77688257c532bc578a2b1d1.jpg"
 
 Quand on s'intéresse à plein de choses, il arrive parfois qu'apparaisse soudain une nouvelle qui  relie miraculeusement des sujets très différents. C'est ce qui est m'est arrivé en lisant [cet article de Thierry Seray](http://tendancebleue.canalblog.com/archives/2010/01/27/16686735.html).
 
-![$250](images/55c1b94ac77688257c532bc578a2b1d1.jpg "$250")
+{{< figure src="images/55c1b94ac77688257c532bc578a2b1d1.jpg" alt="$250" caption="$250" align="alignright" width="300" >}}
 
 Malgré de regrettables rebondissements judiciaires sans fin, la [Coupe de l'America](http://www.tribormat.fr/) qui va se disputer prochainement à Valencia reste la "formule 1" de la voile, où des budgets énormes permettent le développement de technologies de pointe. A ce titre, l'appareil que BMW Oracle prévoit embarquer\* est proprement stupéfiant : le "[Racer's Edge](http://www.catchthewindinc.com/racers-edge)" de la startup Catch The Wind Inc. permet de mesurer la vitesse et la direction du vent jusqu'à 1000 m de distance ! La précision annoncée (2° en direction et 0.5 nœuds en vitesse) donnerait un net avantage stratégique à Oracle. On peut donc s'attendre à ce qu'Alinghi tente par tout les moyens (légaux\*...) d'empêcher son utilisation en course.
 

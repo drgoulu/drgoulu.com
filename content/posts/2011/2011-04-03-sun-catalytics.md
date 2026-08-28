@@ -13,7 +13,7 @@ tags:
 coverImage: "417f4f90e1fdeaf9409d969fd1ff52a8.jpg"
 ---
 
-[![les feuilles naturelles sont plus facile à photographier que les artificielles... et elles sont aussi plus jolies.](images/417f4f90e1fdeaf9409d969fd1ff52a8.jpg "les feuilles naturelles sont plus facile à photographier que les artificielles... et elles sont aussi plus jolies.")](http://www.ecofriend.com/entry/mit-lab-conceives-the-worlds-first-balanced-artificial-leaf/)
+{{< figure src="images/417f4f90e1fdeaf9409d969fd1ff52a8.jpg" alt="les feuilles naturelles sont plus facile à photographier que les artificielles... et elles sont aussi plus jolies." caption="les feuilles naturelles sont plus facile à photographier que les artificielles... et elles sont aussi plus jolies." link="http://www.ecofriend.com/entry/mit-lab-conceives-the-worlds-first-balanced-artificial-leaf/" align="alignright" width="300" >}}
 
 Guy m'a demandé ce que je pensais de la technologie de [Sun Catalytics](http://www.suncatalytix.com), développée par [l'équipe de Daniel Nocera au MIT](http://web.mit.edu/chemistry/dgn/www/index.shtml), avec qui le groupe indien Tata vient de signer un accord de partenariat [[1]](#ref-1). Alors voilà d'abord les faits:
 

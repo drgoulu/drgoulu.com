@@ -20,7 +20,7 @@ En Suisse, les barrages alpins construits au milieu du siècle passé produisent
 
 Selon un rapport récent du MINEFI \[2\], la France n'exploite que 70 TWh de son potentiel de 98TWh et pourrait produire 23TWh de plus simplement en développant ses installations existantes, en encore 5TWh avec de mini turbines qui produisent de l'électricité plus chère (mais on [subventionne bien les moulins à vent,](/2008/08/30/rentabilite-des-eoliennes/) pourquoi pas ceux à eau ?  ) Pour quelques milliards, EDF pourrait donc accroitre de 5% la part d'hydroélectricité, qui offre donc un potentiel supérieur à l'éolien (2% environ) à un cout moindre.
 
-[![Le barrage dEmosson, à la frontière franco-suisse](images/0d139593626e193aae1677c3794e9fce.jpg "Le barrage d'Emosson, à la frontière franco-suisse. Il appartient en partie à EDF et en partie au CFF, les chemins de fers suisses, et sert de base à la future installation de turbinage-pompage \"Nant de Drance\"")](http://www.flickr.com/photos/doozzle/46480671/)
+{{< figure src="images/0d139593626e193aae1677c3794e9fce.jpg" alt="Le barrage dEmosson, à la frontière franco-suisse" caption="Le barrage d'Emosson, à la frontière franco-suisse. Il appartient en partie à EDF et en partie au CFF, les chemins de fers suisses, et sert de base à la future installation de turbinage-pompage &quot;Nant de Drance&quot;" link="http://www.flickr.com/photos/doozzle/46480671/" align="aligncenter" width="400" >}}
 
 ### Une énergie modulable
 

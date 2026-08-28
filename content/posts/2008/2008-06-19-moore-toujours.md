@@ -30,7 +30,7 @@ L'un des facteurs essentiels est la miniaturisation de l'électronique. En 1965,
 
 [
 
-![](http://www.intel.com/content/www/us/en/silicon-innovations/moores-law-technology.html)Cliquer pour un site d'Intel consacré à la loi de Moore](images/c3ded1f5fdbc8c362d185f208bfec178.gif "](http://www.intel.com/content/www/us/en/silicon-innovations/moores-law-technology.html)Cliquer pour un site d'Intel consacré à la loi de Moore")
+{{< figure src="images/c3ded1f5fdbc8c362d185f208bfec178.gif" alt="](http://www.intel.com/content/www/us/en/silicon-innovations/moores-law-technology.html)Cliquer pour un site d'Intel consacré à la loi de Moore" caption="](http://www.intel.com/content/www/us/en/silicon-innovations/moores-law-technology.html)Cliquer pour un site d'Intel consacré à la loi de Moore" align="aligncenter" width="553" >}}
 
 Il faut bien remarquer que l'on parle ici du nombre de transistors et pas de la puissance du processeur, qui d'ailleurs double en 18 mois, soit plus vite que le nombre de transistors ! Comment est-ce possible ?
 

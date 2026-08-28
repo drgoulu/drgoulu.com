@@ -23,7 +23,7 @@ Par exemple dans le [spectrogramme](https://fr.wikipedia.org/wiki/spectrogramme)
 3. Une série d'explosions à 15h14m35s, azimut 239°, 15h16m28s, azimut 264°, et d'autres explosions à 15h12m10s,15h14m12s, 15h15m09s.
 4. Une avalanche tout de même à 15h16m36s, durant environ 1min46s.
 
-[![source : Arfang (1)](images/histogramme.jpg "source : Arfang (1)")](http://www.arfang.com/index.php?nav=home&lang=fr)
+{{< figure src="images/histogramme.jpg" alt="source : Arfang (1)" caption="source : Arfang (1)" link="http://www.arfang.com/index.php?nav=home&lang=fr" align="aligncenter" width="762" >}}
 
 Les azimuts ne sont pas très précis car le vent dévie les sons, mais on peut partiellement en tenir compte avec des données météo.
 

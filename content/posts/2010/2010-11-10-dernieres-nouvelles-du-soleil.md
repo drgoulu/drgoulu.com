@@ -24,6 +24,6 @@ Une petite [tache solaire](http://fr.wikipedia.org/wiki/Tache_solaire) photograp
 
 Avec ces instruments, on devrait pouvoir observer en détail le 24ème [cycle solaire](http://fr.wikipedia.org/wiki/Cycle_solaire), débuté en 2008, et mieux comprendre le magnifique diagramme "butterfly" qui représente le nombre de taches solaires repérées à chaque latitude du Soleil en fonction du temps. Admirez cette régularité encore mal comprise :
 
-[![diagramme papillon des taches solaires. cliquer pour agrandir](images/2c375922c38c1d33ea56a25628831025.gif 'diagramme "papillon" des taches solaires. cliquer pour agrandir')](images/2c375922c38c1d33ea56a25628831025.gif)
+{{< figure src="images/2c375922c38c1d33ea56a25628831025.gif" alt="diagramme papillon des taches solaires. cliquer pour agrandir" caption="diagramme &quot;papillon&quot; des taches solaires. cliquer pour agrandir" link="images/2c375922c38c1d33ea56a25628831025.gif" align="aligncenter" width="512" >}}
 
 Avec ces mesures de qualité, nul doute que [nos connaissances de la physique du Soleil](http://solarscience.msfc.nasa.gov/) vont progresser à pas de géant, ce d'autant que les liens avec la climatologie sont politiquement porteurs...

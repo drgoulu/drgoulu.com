@@ -14,7 +14,7 @@ coverImage: "a470c29cf6c88b820cc608831b61f545.gif"
 
 Le [Jeu de  vie](https://fr.wikipedia.org/wiki/Jeu_de _vie) imaginé par [John Conway](https://fr.wikipedia.org/wiki/John_Conway) en 1970 est un automate cellulaire célébrissime pour au moins deux raisons:
 
-1. ![Un canon à planeurs](images/a470c29cf6c88b820cc608831b61f545.gif 'Un "canon à planeurs"')
+1. {{< figure src="images/a470c29cf6c88b820cc608831b61f545.gif" alt="Un canon à planeurs" caption="Un &quot;canon à planeurs&quot;" align="alignright" width="250" >}}
     
     A partir de règles toutes simples, le jeu de la vie génère une "vie" artificielle étrangement complexe et imprévisible, posant toutes sortes de questions intéressantes
 2. Le Jeu de la Vie étant très facile à programmer, des générations d'étudiants ont codé des programmes "Life" dans tous les langages imaginables.

@@ -10,7 +10,7 @@ tags:
 coverImage: "0b1dba183e9d4e898f2774551f3890be.jpg"
 ---
 
-[![Robert Byrd](images/0b1dba183e9d4e898f2774551f3890be.jpg "Robert Byrd")](http://fr.wikipedia.org/wiki/Robert_Byrd)
+{{< figure src="images/0b1dba183e9d4e898f2774551f3890be.jpg" alt="Robert Byrd" caption="Robert Byrd" link="http://fr.wikipedia.org/wiki/Robert_Byrd" align="alignright" width="213" >}}
 
 J’ai vu dans un reportage sur les USA/Irak quelques extraits d’un extraordinaire discours de Robert Byrd, doyen du Sénat étatsunien. Il démontre que quelques personnes sont encore capable de réfléchir dans ce pays, et j’ai retrouvé le texte intégral du discours, traduit en français. Lisez ça !
 

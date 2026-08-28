@@ -15,7 +15,7 @@ coverImage: "5c837c6405891a43753218d4613a49ec.png"
 
 **Faux** parce que les notions de "force" ou de "supériorité" sont quasiment absentes du [texte intégral de l' "origine des espèces"](http://abu.cnam.fr/cgi-bin/donner_html?espece1). Darwin n'utilise ces mots qu'en relation avec la "sélection artificielle" opérée par les éleveurs de chevaux en particulier. D'ailleurs Darwin ne s'intéresse que peu aux individus, et beaucoup aux espèces, comme on le voit dans le  "Wordle" ci-dessous formé avec les mots les plus fréquents de son livre\*
 
-[![wordledarwin1](images/5c837c6405891a43753218d4613a49ec.png 'Mots les plus fréquents dans "On the Origin of Species" de Darwin, fait avec Wordle.com')](http://www.wordle.net/gallery?username=Dr.%20Goulu)
+{{< figure src="images/5c837c6405891a43753218d4613a49ec.png" alt="wordledarwin1" caption="Mots les plus fréquents dans &quot;On the Origin of Species&quot; de Darwin, fait avec Wordle.com" link="http://www.wordle.net/gallery?username=Dr.%20Goulu" align="aligncenter" width="468" >}}
 
 A part "espèces", les mots clés de l'oeuvre de Darwin concernent la variété, le nombre et la diversité des espèces, et bien sur, la "sélection naturelle". C'est cette notion clé qui est trop souvent mal comprise. Darwin la distingue de la "sélection artificielle" qui poursuit un but, et de la "sélection inconsciente" qui fait qu'on garde les chatons les plus mignons d'une portée et euthanasie les autres:
 

@@ -23,7 +23,7 @@ D'abord, les données sont défendues contre leur pire ennemi : l'homme. Il y a 
 
 Pour des raisons techniques que nous allons expliquer plus bas, l'informatique actuelle combine les 3 stratégies au point qu'effacer des données est devenu une opération redoutablement complexe.
 
-[![Dead Data par Stinging Eyes sur Flickr](images/0abc70ee659ffda517e3ff039cdf3bea.jpg '"Dead Data" par Stinging Eyes sur Flickr')](http://www.flickr.com/photos/martinlatter/299981441/)
+{{< figure src="images/0abc70ee659ffda517e3ff039cdf3bea.jpg" alt="Dead Data par Stinging Eyes sur Flickr" caption="&quot;Dead Data&quot; par Stinging Eyes sur Flickr" link="http://www.flickr.com/photos/martinlatter/299981441/" align="alignright" width="240" >}}
 
 D'abord, il faut réaliser que l'écrasement est la principale cause de mortalité des données. Il y en a un tout petit peu qui meurent d'inanition lorsque l'alimentation d'un PC flanche, un peu plus qui meurent dans un crash de disque dur mécanique ou magnétique, mais la plupart meurent écrasées par d'autres données écrites au même emplacement mémoire qu'elles.
 
@@ -61,13 +61,13 @@ Quand une donnée est tuée, il faut en informer ses proches: les références. 
 
 En RAM, les [pointeurs](https://fr.wikipedia.org/wiki/pointeur_(programmation)) vers la donnée effacée indiquent désormais une tombe. Les suivre invoque l'[Écran Bleu de la Mort](https://fr.wikipedia.org/wiki/écran_bleu_de_la_mort) ainsi nommé en raison de son apparence sous Windows, mais il se présente aussi sous forme [sonore pour les pommes](http://www.youtube.com/watch?v=4FOOmoukpJc) et [paniquée chez les pingouins](https://fr.wikipedia.org/wiki/panique_du_noyau), entre autres. Dans tous les cas, vous allez perdre un peu de temps à redémarrer votre machine, et parfois beaucoup de données saines...
 
-![Ne vous laissez pas distraire : ceci est l'Écran Bleu de la MORT !](images/72ba586f15ac6d1b1a168cebae92cd41.jpg "Ne vous laissez pas distraire : ceci est l'Écran Bleu de la MORT !")
+{{< figure src="images/72ba586f15ac6d1b1a168cebae92cd41.jpg" alt="Ne vous laissez pas distraire : ceci est l'Écran Bleu de la MORT !" caption="Ne vous laissez pas distraire : ceci est l'Écran Bleu de la MORT !" align="aligncenter" width="648" >}}
 
 Sur disque, les noms de fichiers disparus provoquent des variantes moins létales de l'Écran Bleu de la Mort,  les bien connus messages  "File not found".
 
 Mais l'Écran Bleu de la Mort envahit aussi internet, le niveau le plus bas de la hiérarchie mémoire. D'[apparence parfois plus sympa](http://images.google.com/images?q=404+error+page) l'[Erreur 404](https://fr.wikipedia.org/wiki/Erreur_HTTP_404) n'en est pas moins redoutable, et beaucoup moins bavarde. Les données à cet [URL](https://fr.wikipedia.org/wiki/Uniform_Ressource_Locator) ont-elles été effacées, déplacées ou n'ont-elles même jamais existé ? Est-ce temporaire ou définitif ? Aucun moyen de le savoir sans investigations poussées.
 
-[![Celui de JegX m'avait fait sursauter ...](images/231b61becbccde73660ad28a61ca6cac.jpg "Celui de JegX m'avait fait sursauter ...")](http://ozone3d.net/404)
+{{< figure src="images/231b61becbccde73660ad28a61ca6cac.jpg" alt="Celui de JegX m'avait fait sursauter ..." caption="Celui de JegX m'avait fait sursauter ..." link="http://ozone3d.net/404" align="alignright" width="320" >}}
 
 Pour vous qui surfez, ce problème occasionnel peut souvent se résoudre en utilisant un moteur de recherche pour retrouver une autre page avec le même contenu. Sur drgoulu.com, ça devient embêtant : malgré l'utilisation d'un [outil](http://wordpress.org/extend/plugins/broken-link-checker/) qui gère les redirections  425 liens sur 6110 se sont brisés au fil des ans. J'en répare manuellement quelques uns, parfois. Les autres apparaissent [comme ça](http://ozone3d.net/404). Mais il y a pire : de plus en plus de sites web utilisent du contenu, voire du code, stocké sur un[Content Delivery Network](https://fr.wikipedia.org/wiki/Content_Delivery_Network) (CDN). Si de tels liens se cassent, ça peut rendre indisponible des sites entiers.
 
