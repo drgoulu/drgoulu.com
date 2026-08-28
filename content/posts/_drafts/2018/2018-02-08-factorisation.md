@@ -1,0 +1,20 @@
+---
+title: Factorisation
+slug: factorisation
+date: '2018-02-08'
+categories:
+- cat2
+tags:
+- algorithmes
+- nombres-premiers
+draft: true
+---
+[Crible algébrique](https://fr.wikipedia.org/wiki/Crible_algébrique)
+
+ 
+
+[Algorithme de factorisation par crible sur les corps de nombres spécialisé](https://fr.wikipedia.org/wiki/Algorithme_de_factorisation_par_crible_sur_les_corps_de_nombres_spécialisé) https://fr.wikipedia.org/wiki/Crible\_alg%C3%A9brique
+
+ 
+
+https://pypi.python.org/pypi/primefac

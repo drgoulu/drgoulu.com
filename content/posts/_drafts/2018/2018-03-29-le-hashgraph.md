@@ -1,0 +1,18 @@
+---
+title: Le Hashgraph
+slug: le-hashgraph
+date: '2018-03-29'
+categories:
+- non-classe
+tags:
+- internet
+- securite
+draft: true
+---
+https://www.swirlds.com/whitepapers/
+
+\- pub [https://www.hederahashgraph.com/](https://www.hederahashgraph.com/) ?
+
+\- technique [https://s3.amazonaws.com/hedera-hashgraph/hh-whitepaper-v1.0-180313.pdf](https://s3.amazonaws.com/hedera-hashgraph/hh-whitepaper-v1.0-180313.pdf).
+
+https://www.journaldunet.com/solutions/dsi/1207207-la-blockchain-est-morte-vive-hashgraph/

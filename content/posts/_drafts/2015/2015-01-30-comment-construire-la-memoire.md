@@ -1,0 +1,21 @@
+---
+title: Comment "Construire la mémoire"
+slug: comment-construire-la-memoire
+date: '2015-01-30'
+categories:
+- non-classe
+tags:
+- histoire
+- nucleaire
+- societe
+draft: true
+---
+Lors de notre [visite à l'Andra](/2014/05/24/bure-pour-leternite/), nous avions posé la question de savoir comment signaler le danger des dépôts de déchets nucléaires comme [Cigéo](https://fr.wikipedia.org/wiki/Cigéo) pour des milliers de générations. On nous avait répondu en substance:
+
+- Faut-il vraiment les signaler, ou, connaissant l'attrait des humains pour les tombeaux mystérieux, plutôt les oublier ?
+- Pendant la période dangereuse, il y aura au moins une [glaciation](https://fr.wikipedia.org/wiki/glaciation) à laquelle rien ne pourra résister en surface.
+- Regardez le film [Into Eternity](https://fr.wikipedia.org/wiki/Into_Eternity_(film)) qui aborde ce sujet (et qui est vraiment très bien, à voir si vous vous intéressez au sujet)
+- Comme les dépôts vont être construits pendant un siècle, puis surveillés activement pendant quelques siècles de plus, on a le temps de bien y réfléchir, rien ne presse...
+- Une conférence internationale est agendée à Verdun fin 2014
+
+https://www.oecd-nea.org/rwm/rkm/verdun2014/

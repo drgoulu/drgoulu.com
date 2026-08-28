@@ -70,3 +70,42 @@ a.ref-cite, a[href^="#ref-"] {
 a.ref-cite:hover, a[href^="#ref-"]:hover {
   text-decoration: underline;
 }
+
+/* Forcer des couleurs standards (Hex/RGB) pour Disqus pour éviter l'erreur oklch de embed.js */
+#disqus_thread,
+#disqus_thread * {
+  color: #111827 !important;
+}
+
+#disqus_thread {
+  background-color: #ffffff !important;
+}
+
+#disqus_thread a,
+#disqus_thread a:link,
+#disqus_thread a:visited,
+#disqus_thread a:hover,
+#disqus_thread a:active,
+.dsq-brlink,
+.dsq-brlink a {
+  color: #2563eb !important;
+}
+
+.dark #disqus_thread,
+.dark #disqus_thread * {
+  color: #f8fafc !important;
+}
+
+.dark #disqus_thread {
+  background-color: #0f172a !important;
+}
+
+.dark #disqus_thread a,
+.dark #disqus_thread a:link,
+.dark #disqus_thread a:visited,
+.dark #disqus_thread a:hover,
+.dark #disqus_thread a:active,
+.dark .dsq-brlink,
+.dark .dsq-brlink a {
+  color: #60a5fa !important;
+}

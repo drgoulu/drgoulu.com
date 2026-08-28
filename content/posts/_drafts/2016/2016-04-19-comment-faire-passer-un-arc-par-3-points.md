@@ -1,0 +1,32 @@
+---
+title: Comment faire passer un Arc par 3 points
+slug: comment-faire-passer-un-arc-par-3-points
+date: '2016-04-19'
+categories:
+- cat2
+draft: true
+---
+Tombé sur ce problème tout bête en apparence : Comment faire passer un arc de cercle par 3 points ? Ou plus précisément comment définir un arc de cercle orienté entre deux points a et c, passant par un troisième point b ?
+
+La partie facile, c'est de trouver le cercle passant par 3 points, d'autant qu'il y a (au moins) deux méthodes:
+
+1. la géométrique : trouver le centre du [cercle circonscrit](https://fr.wikipedia.org/wiki/cercle_circonscrit) au triangle abc, intersection des [médiatrices](https://fr.wikipedia.org/wiki/médiatrice) de deux côtés du dit triangle, puis mesurer le rayon entre ce point et n'importe lequel des 3 points
+2. la mathématique (qui revient au même) : trouver le point (x,y) équidistant des 3 points et le rayon r en résolvant ces trois équation simultanées:
+
+\[mathjax\]$$\left\\{\begin{matrix} (x-a_x)^2+(y-a_y)^2=r^2\\\\ (x-b_x)^2+(y-b_y)^2=r^2\\\\ (x-c_x)^2+(y-c_y)^2=r^2 \end{matrix}\right.$$
+
+En soustrayant la 3ème des deux autres, on élimine r:
+
+$$\left\\{\begin{matrix} (x-a_x)^2+(y-a_y)^2-(x-c_x)^2-(y-c_y)^2=0\\\\ (x-b_x)^2+(y-b_y)^2-(x-c_x)^2-(y-c_y)^2=0 \end{matrix}\right.$$
+
+que l'on peut ramener à deux équations du premier degré en x et y:
+
+$$\left\\{\begin{matrix} 2(c_x-a_x)x+2(c_y-a_y)y=c^2-a^2\\\\ 2(c_x-b_x)x+2(c_y-b_y)y=c^2-b^2 \end{matrix}\right.$$
+
+où: $$a^2=a_x^2+a_y^2$$, $$b^2=b_x^2+b_y^2$$ et $$c^2=c_x^2+c_y^2$$
+
+et finalement en posant: $$d = 2\left( a_x(b_y-c_y) + b_x(c_y-a_y) + c_x (a_y - b_y)\right)$$ on obtient
+
+$$\left\\{\begin{matrix} x = \[ a^2 (b_y-c_y) + b^2 (c_y-a_y) + c^2 (a_y-b_y)\]/d\\\\ y = \[ a^2 (c_x-b_x) + b^2 (a_x-c_x) + c^2 (b_x-a_x) \]/d \end{matrix}\right.$$
+
+\[altmetric doi="10.1109/38.41468" float="right"\]Ian Galton, "[An efficient three-point arc algorithm](http://petrified.ucsd.edu/~ispg-adm/pubs/j_icga_89_1.pdf)", 1989, IEEE Computer Graphics and Applications , Volume 9 Issue 6, doi:[10.1109/38.41468](http://dx.doi.org/10.1109/38.41468)

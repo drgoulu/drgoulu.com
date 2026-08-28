@@ -1,0 +1,20 @@
+---
+title: La physique du libre-arbitre
+slug: la-physique-du-libre-arbitre
+date: '2012-06-21'
+categories:
+- cat1
+tags:
+- philosophie
+- physique
+- quantique
+- temps
+draft: true
+---
+[http://www.scientificamerican.com/article.cfm?id=quantum-physics-free-will](http://www.scientificamerican.com/article.cfm?id=quantum-physics-free-will)
+
+[http://blogs.discovermagazine.com/cosmicvariance/2011/07/13/free-will-is-as-real-as-baseball/](http://blogs.discovermagazine.com/cosmicvariance/2011/07/13/free-will-is-as-real-as-baseball/)
+
+[http://fr.wikipedia.org/wiki/Incompatibilisme](http://fr.wikipedia.org/wiki/Incompatibilisme)
+
+[http://en.wikipedia.org/wiki/Compatibilism](http://en.wikipedia.org/wiki/Compatibilism)

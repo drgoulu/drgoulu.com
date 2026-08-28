@@ -59,7 +59,8 @@ Dr. Goulu se voulant instructif, vous trouverez [plus d'infos et mes recommandat
 
 ### Un peu de technique
 
-J'ai créé mon [premier site web en 1998](http://goulus.tripod.com) sous FrontPage, puis essayé divers CMS dont SPIP et même MediaWiki avant de migrer le blog sous [drgoulu.com](/). Fin 2010, j'ai commencé à utiliser WordPress, d'abord sur [drgoulu.wordpress.com](http://drgoulu.wordpress.com/), puis hébergé chez GoDaddy dès 2011 et depuis avril 2013 chez [Infomaniak](http://www.infomaniak.com/) suite à quelques [mésaventures](http://microclub.ch/2013/01/18/drgoulu-com-a-ete-hacke/) et des problèmes de performance, avant de migrer vers un site statique sous Hugo.
+J'ai créé mon [premier site web en 1998](http://goulus.tripod.com) sous FrontPage, puis essayé divers CMS dont SPIP et même MediaWiki avant de migrer le blog sous [drgoulu.com](/). Fin 2010, j'ai commencé à utiliser WordPress, d'abord sur [drgoulu.wordpress.com](http://drgoulu.wordpress.com/), puis hébergé chez GoDaddy dès 2011 et depuis avril 2013 chez [Infomaniak](http://www.infomaniak.com/) suite à quelques [mésaventures](http://microclub.ch/2013/01/18/drgoulu-com-a-ete-hacke/)
+En 2026, WordPress devenait un peu lourd et je migre sous [Hugo](/2026/08/24/migration/).
 
 ### C'est quoi ces Ⓦ ?
 

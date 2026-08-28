@@ -1,18 +1,40 @@
 ---
-title: "Migration"
-slug: "migration"
+title: "Migration : de Wordpress à Hugo"
+slug: migration
 date: 2026-08-24T16:30:48+02:00
 draft: false
-summary: "Guide des fonctionnalités de visualisation de données : graphiques Plotly, diagrammes Mermaid et tableaux CSV avec Hugo Blox."
+summary: drgoulu.com ressuscite en migrant de  WordPress à Hugo
 tags:
+  - Wordpress
   - Hugo
-  - Hugo Blox
-  - Markdown
 ---
 
-Hugo Blox est conçu pour offrir aux créateurs de contenu technique une expérience fluide. Vous pouvez vous concentrer sur le contenu et Hugo Blox s'occupe du reste.
+Après plusieurs années de quasi abandon, j'ai décidé de faire revivre ce site pour plusieurs raisons :
 
-Utilisez des outils populaires tels que Plotly, Mermaid et les tableaux de données (Data Frames).
+1) il tombait en loques et c'était dommage
+2) je veux y transférer une bonne partie de l'énorme contenu que j'ai publié [sur Quora](https://fr.quora.com/profile/Dr-Goulu) ces dernières années. 
+3) j'ai du temps à perdre, et des IA pour m'aider. Ca s'est révélé indispensable.
+
+## les problèmes avec Wordpress
+Depuis 2010 ce blog était propulsé par Wordpress, qui est devenu un monstre, notamment à cause de la foison de plugins que j'utilisais. Il devenait de plus en plus difficile de gérer les versions, les conflits entre plugins, les mises à jour, et les failles de sécurité, sans compter les bugs de certains, qui ont notamment causé la perte de nombreuses images.
+
+Pourtant, devant l'ampleur de la tâche, j'étais assez réticent à changer de solution. J'ai commencé par copier le site en local sous [LocalWP](https://localwp.com/), ce qui me permettait de farfouiller dans les fichiers sans passer par FTP, et surtout de ne pas abîmer le site en production. J'ai ainsi pu remettre à jour certains plugins indispensables, notamment
+
+* [OpenBook](https://github.com/goulu/openbook) qui a été accepté comme [plugin officiel](https://wordpress.org/plugins/openbook-book-data/) (même si la bannière dit qu'il est obsolète...)
+* [Reference 2 Wiki](https://github.com/goulu/reference-2-wiki) pour gérer les milliers de liens vers Wikipédia de drgoulu.com
+* [Altmetric](https://github.com/goulu/Altmetric) qui était abandonné
+* et le thème [Customizr]( https://github.com/goulu/customizr) qui à l'air de l'être car mes "Pull Requests" qui le rendent compatible avec les dernières versions de WP sont ignorées...
+
+Mais même avec tout ça, j'étais encore insatisfait, et attiré par la curiosité : comment faire un blog moderne en 2026 ?
+
+## le choix de Hugo
+
+La tendance actuelle, est clairement au [générateur de site statique](w:) : le site est considéré comme un projet informatique qui est "compilé" en pages HTML fixes, "comme dans le temps". Plus de base de données, plus de PHP, plus de failles de sécurité potentielles, et en plus la navigation devient hyper rapide, comme vous vous en apercevez en parcourant ce site...
+
+Je suis assez rapidement tombé sur [Hugo](https://gohugo.io/) , mais par acquit de conscience j'ai aussi essayé [Quarto](https://quarto.org/) qui m'a bien tenté pour son orientation scientifique basée sur Python, Jupyter, etc. mais il est surtout utilisé dans le monde académique, et moins pour les blogs généralistes comme le mien. De plus il faut installer [Positron, un n-ième IDE](https://positron.posit.co) pour l'éditer. Ca a beau être très similaire à VS Code, j'ai préféré une solution utilisant une extension de VS Code, en l'occurence [Hugo Blox](https://gitlab.com/joomlakove/hugoblox-vscode-extension).
+
+
+Voici comment j'ai pu migrer le site de Wordpress à Hugo Blox.
 
 ## Graphiques (Charts)
 
@@ -160,13 +182,13 @@ Cette fonctionnalité remplace et modernise l'ancien plugin WordPress [reference
 
 Vous pouvez utiliser le préfixe `w:` (ou `wiki:`) directement dans la syntaxe standard des liens Markdown :
 
-| Syntaxe Markdown | Rendu HTML / Lien cible | Description |
-| :--- | :--- | :--- |
-| `[fusion thermonucléaire](w:)` | [fusion thermonucléaire](w:) | Article FR basé sur le texte du lien |
-| `[Paul Davies](w:Paul_Davies_(physicien))` | [Paul Davies](w:Paul_Davies_(physicien)) | Article FR avec texte différent |
-| `[Bigelow Aerospace](w:en)` | [Bigelow Aerospace](w:en) | Article EN basé sur le texte du lien |
-| `[Dr. Hal E. Puthoff](w:en:Harold_E._Puthoff)` | [Dr. Hal E. Puthoff](w:en:Harold_E._Puthoff) | Article EN avec texte différent |
-| `[Dr. Hal E. Puthoff](https://en.wikipedia.org/wiki/Harold_E._Puthoff)` | [Dr. Hal E. Puthoff](https://en.wikipedia.org/wiki/Harold_E._Puthoff) | URL complète (style ⓦ automatique) |
+| Syntaxe Markdown                                                        | Rendu HTML / Lien cible                                               | Description                          |
+| :---------------------------------------------------------------------- | :-------------------------------------------------------------------- | :----------------------------------- |
+| `[fusion thermonucléaire](w:)`                                          | [fusion thermonucléaire](w:)                                          | Article FR basé sur le texte du lien |
+| `[Paul Davies](w:Paul_Davies_(physicien))`                              | [Paul Davies](<w:Paul_Davies_(physicien)>)                            | Article FR avec texte différent      |
+| `[Bigelow Aerospace](w:en)`                                             | [Bigelow Aerospace](w:en)                                             | Article EN basé sur le texte du lien |
+| `[Dr. Hal E. Puthoff](w:en:Harold_E._Puthoff)`                          | [Dr. Hal E. Puthoff](w:en:Harold_E._Puthoff)                          | Article EN avec texte différent      |
+| `[Dr. Hal E. Puthoff](https://en.wikipedia.org/wiki/Harold_E._Puthoff)` | [Dr. Hal E. Puthoff](https://en.wikipedia.org/wiki/Harold_E._Puthoff) | URL complète (style ⓦ automatique)   |
 
 ### 2. Shortcodes Hugo
 
@@ -187,23 +209,25 @@ Ce shortcode remplace les anciennes balises WordPress `[caption ...]` pour insé
 {{</* figure src="images/photo.jpg" caption="Légende de l'image" alt="Description" align="alignright" width="400" link="https://..." */>}}
 ```
 
-| Paramètre | Description | Valeur par défaut |
-| :--- | :--- | :--- |
-| `src` | Chemin de l'image (`images/nom.jpg`, `media/...` ou URL externe) | *(obligatoire)* |
-| `caption` | Texte de la légende affiché en dessous de l'image | *(vide)* |
-| `alt` | Texte alternatif pour l'accessibilité | *(texte du caption)* |
-| `align` | Alignement : `alignright` (flottant à droite), `alignleft` (flottant à gauche), `aligncenter` (centré) | `alignright` |
-| `width` | Largeur maximale en pixels (ex: `400` ou `400px`) | Largeur naturelle |
-| `link` | URL optionnelle pour rendre l'image cliquable | *(aucun)* |
+| Paramètre | Description                                                                                            | Valeur par défaut    |
+| :-------- | :----------------------------------------------------------------------------------------------------- | :------------------- |
+| `src`     | Chemin de l'image (`images/nom.jpg`, `media/...` ou URL externe)                                       | _(obligatoire)_      |
+| `caption` | Texte de la légende affiché en dessous de l'image                                                      | _(vide)_             |
+| `alt`     | Texte alternatif pour l'accessibilité                                                                  | _(texte du caption)_ |
+| `align`   | Alignement : `alignright` (flottant à droite), `alignleft` (flottant à gauche), `aligncenter` (centré) | `alignright`         |
+| `width`   | Largeur maximale en pixels (ex: `400` ou `400px`)                                                      | Largeur naturelle    |
+| `link`    | URL optionnelle pour rendre l'image cliquable                                                          | _(aucun)_            |
 
 ### Exemples d'utilisation
 
 **Image flottante à droite avec largeur définie et légende :**
+
 ```go
 {{</* figure src="images/3-82.jpg" alt="Emmy Noether" caption="Emmy Noether" align="alignright" width="400" */>}}
 ```
 
 **Image cliquable centrée avec lien :**
+
 ```go
 {{</* figure src="images/diagram.png" caption="Cliquer pour agrandir" link="https://example.com" align="aligncenter" width="600" */>}}
 ```
@@ -221,11 +245,67 @@ Les vidéos YouTube peuvent être intégrées avec adaptation automatique au rat
 {{</* youtube id="yfwb39VCNcQ" width="640" */>}}
 ```
 
-| Paramètre | Description | Valeur par défaut |
-| :--- | :--- | :--- |
-| `id` | Identifiant de la vidéo YouTube (ex: `yfwb39VCNcQ`) | *(obligatoire)* |
-| `width` | Largeur maximale en pixels (ex: `640` ou `640px`) | `760px` (pleine largeur de colonne) |
-| `title` | Titre accessible de la vidéo | `YouTube video player` |
+| Paramètre | Description                                         | Valeur par défaut                   |
+| :-------- | :-------------------------------------------------- | :---------------------------------- |
+| `id`      | Identifiant de la vidéo YouTube (ex: `yfwb39VCNcQ`) | _(obligatoire)_                     |
+| `width`   | Largeur maximale en pixels (ex: `640` ou `640px`)   | `760px` (pleine largeur de colonne) |
+| `title`   | Titre accessible de la vidéo                        | `YouTube video player`              |
 
+## Commentaires Disqus
 
+L'intégration des commentaires historiques du blog repose sur [Disqus](https://disqus.com/). Lors de la migration vers Hugo Blox / Tailwind CSS, un problème d'incompatibilité est apparu :
 
+### Incompatibilité OKLCH et Disqus `embed.js`
+
+Le script d'intégration de Disqus (`embed.js`) analyse automatiquement l'environnement de la page (`getComputedStyle`) pour adapter les couleurs du fil de discussion (mode clair/sombre, couleur des liens).
+
+Or, Tailwind CSS et Hugo Blox utilisent désormais le format de couleur moderne `oklch(...)`. Le parseur interne de Disqus (`parseColor`), n'étant pas compatible avec `oklch`, échouait avec l'erreur :
+
+```text
+Uncaught Error: parseColor received unparseable color: oklch(...)
+```
+
+### Solution mise en place
+
+Pour isoler Disqus des styles `oklch` globaux, des règles CSS explicites ont été ajoutées dans `assets/css/custom.css` afin de forcer des formats de couleurs traditionnels (Hex / RGB) sur le conteneur `#disqus_thread`, son texte d'arrière-plan et ses liens internes (`#disqus_thread a`), pour les thèmes clair et sombre :
+
+```css
+/* Forcer des couleurs standards (Hex/RGB) pour Disqus */
+#disqus_thread,
+#disqus_thread * {
+  color: #111827 !important;
+}
+
+#disqus_thread {
+  background-color: #ffffff !important;
+}
+
+#disqus_thread a,
+#disqus_thread a:link,
+#disqus_thread a:visited,
+#disqus_thread a:hover,
+#disqus_thread a:active,
+.dsq-brlink,
+.dsq-brlink a {
+  color: #2563eb !important;
+}
+
+.dark #disqus_thread,
+.dark #disqus_thread * {
+  color: #f8fafc !important;
+}
+
+.dark #disqus_thread {
+  background-color: #0f172a !important;
+}
+
+.dark #disqus_thread a,
+.dark #disqus_thread a:link,
+.dark #disqus_thread a:visited,
+.dark #disqus_thread a:hover,
+.dark #disqus_thread a:active,
+.dark .dsq-brlink,
+.dark .dsq-brlink a {
+  color: #60a5fa !important;
+}
+```
