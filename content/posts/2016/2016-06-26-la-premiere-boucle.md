@@ -18,7 +18,7 @@ Une idée fondatrice de la programmation, c'est de pouvoir coder "répète 123 
 
 > Un programme sans boucle et sans structure de données ne vaut pas la peine d’être écrit.
 
-{{< figure src="images/302px-Ada_Lovelace.jpg" alt="Ada, en tenue de geek de 1836" caption="Ada, en tenue de geek de 1836" align="alignright" width="302" >}}
+![Ada, en tenue de geek de 1836](images/302px-Ada_Lovelace.jpg "Ada, en tenue de geek de 1836")
 
 Alors qui a écrit le premier programme valant la peine d'être écrit, la première boucle ? C'est [Augusta Ada King, comtesse de Lovelace](https://fr.wikipedia.org/wiki/Ada_Lovelace). Parfaitement : une femme [[3]](#ref-3). Et ceci bien avant qu'[Alan Turing](https://fr.wikipedia.org/wiki/Alan_Turing) ne propose sa [machine](https://fr.wikipedia.org/wiki/Machine_de_Turing), dont l'intérêt est surtout théorique.
 
@@ -34,7 +34,7 @@ Les boucles sont indiquées par les accolades dans les premières colonnes et p
 
 > It will be perceived that every unit added to _n_ in B2_n_\-1, entails an additional repetition of operations (13…23) for the computation of B2_n_\-1. Not only are all the _operations_ precisely the same however for every such repetition, but they require to be respectively supplied with numbers from the very_same pairs of columns_; with only the one exception of Operation 21, which will of course need B5 (from V23) instead of B3 (from V22). This identity in the _columns_ which supply the requisite numbers must not be confounded with identity in the _values_ those columns have upon them and give out to the mill. Most of those values undergo alterations during a performance of the operations (13…23), and consequently the columns present a new set of values for the _next_ performance of (13…23) to work on
 
-{{< figure src="images/ADA99-Bernouilli.png" alt="ADA99 Bernouilli" caption="fonction de calcul des nombres de Bernoulli en Javascript langage ADA, par S. Goodwin \[4)" link="https://marquisdegeek.com/code_ada99" align="alignright" width="590" >}}Et accessoirement que Madame Lovelace commentait son code en prose intelligible, une habitude qui se perd. Exemple : le code ci-contre qui calcule les nombres de Bernoulli en  [JavaScript](https://fr.wikipedia.org/wiki/JavaScript) et hélas pas en [langage ADA](https://fr.wikipedia.org/wiki/Ada_(langage)), baptisé ainsi en l'honneur de la première véritable programmeuse de l'histoire.
+[![ADA99 Bernouilli](images/ADA99-Bernouilli.png "fonction de calcul des nombres de Bernoulli en Javascript langage ADA, par S. Goodwin \[4)")](https://marquisdegeek.com/code_ada99)Et accessoirement que Madame Lovelace commentait son code en prose intelligible, une habitude qui se perd. Exemple : le code ci-contre qui calcule les nombres de Bernoulli en  [JavaScript](https://fr.wikipedia.org/wiki/JavaScript) et hélas pas en [langage ADA](https://fr.wikipedia.org/wiki/Ada_(langage)), baptisé ainsi en l'honneur de la première véritable programmeuse de l'histoire.
 
 Mais on l'a longtemps oubliée car son code n'a hélas jamais pu être exécuté : la machine analytique de Babbage avait trop de frottements, trop d'imprécisions mécaniques, elle n'a jamais fonctionné...
 
@@ -45,7 +45,7 @@ Le premier calculateur réellement programmable ayant fonctionné est, n'en dé
 
 C'est sans aucun doute Konrad Zuse qui a fait tourner la première boucle conditionnelle de l'histoire, mais hélas on ne sait plus quel était le premier programme à utiliser cette possibilité.
 
-{{< figure src="images/VonNeumannProgram.png" alt="page de programme ENIAC par Klara von Neumann" caption="page de programme ENIAC par Klara von Neumann" align="alignright" width="320" >}}
+![page de programme ENIAC par Klara von Neumann](images/VonNeumannProgram.png "page de programme ENIAC par Klara von Neumann")
 
 Comme ce sont les vainqueurs qui écrivent l'histoire, je termine en mentionnant tout de même l'[ENIAC](https://fr.wikipedia.org/wiki/ENIAC), qui fut la première machine Turing-complète électronique. Conçue par [John von Neumann](https://fr.wikipedia.org/wiki/John_von_Neumann) selon l'architecture qui est toujours celle des ordinateurs actuels. Cette machine est la première a être programmable au sens moderne du terme avec mémoire, branchements conditionnels, boucles, et femmes.
 

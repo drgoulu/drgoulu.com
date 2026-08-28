@@ -10,7 +10,7 @@ tags:
 - simpson
 draft: true
 ---
-{{< figure src="images/dechomer.jpg" alt="Stephen Hawking et Homer Simpson en pleine discussion cosmologique" caption="Stephen Hawking et Homer Simpson en pleine discussion cosmologique" align="alignright" width="480" >}}
+![Stephen Hawking et Homer Simpson en pleine discussion cosmologique](images/dechomer.jpg "Stephen Hawking et Homer Simpson en pleine discussion cosmologique")
 
 [Stephen Hawking](https://fr.wikipedia.org/wiki/Stephen_Hawking) est mort le 14 mars (3.14 en anglais), la [journée de pi](https://fr.wikipedia.org/wiki/journée_de_pi) . Normalement, les physiciens théoriciens comme lui ne sont connus que des spécialistes, mais il est devenu très médiatique à cause d'une [très grave maladie](https://fr.wikipedia.org/wiki/sclérose_latérale_amyotrophique) qui a fortement handicapé son corps pendant plus de 50 ans.
 
@@ -22,7 +22,7 @@ Par exemple dans l'épisode [Les Gros Q.I.](https://fr.wikipedia.org/wiki/Les_Gr
 
 Dans un tel univers, en allant tout droit dans une direction, on revient par la direction opposée, un peu comme dans certains jeux vidéo, mais il faut se l'imaginer en 3D, et ce n'est pas facile du tout.
 
-{{< figure src="images/main-qimg-a52e46f9119edc119a39708cc81ca97f" alt="L'univers de certains jeux video est torique : en sortant d'un côté de l'écran, on revient par le côté opposé (image [Lev Kruglyak](https://www.quora.com/profile/Lev-Kruglyak) sur Quora)" caption="L'univers de certains jeux video est torique : en sortant d'un côté de l'écran, on revient par le côté opposé (image [Lev Kruglyak](https://www.quora.com/profile/Lev-Kruglyak) sur Quora)" link="https://levsblog.quora.com/The-Topology-of-Pacman" align="alignleft" width="480" >}}
+[![L'univers de certains jeux video est torique : en sortant d'un côté de l'écran, on revient par le côté opposé (image [Lev Kruglyak](https://www.quora.com/profile/Lev-Kruglyak) sur Quora)](images/main-qimg-a52e46f9119edc119a39708cc81ca97f "L'univers de certains jeux video est torique : en sortant d'un côté de l'écran, on revient par le côté opposé (image [Lev Kruglyak](https://www.quora.com/profile/Lev-Kruglyak) sur Quora)")](https://levsblog.quora.com/The-Topology-of-Pacman)
 
 Ce sont deux russes, [Alexeï Starobinski](https://fr.wikipedia.org/wiki/Alexeï_Starobinski) et [Yakov Zeldovich](https://fr.wikipedia.org/wiki/Yakov_Zeldovich) ont proposé cette idée en 1984, et Hawking connait très bien Zeldovich car ils ont beaucoup travaillé sur le même sujet : la [thermodynamique des trous noirs](https://fr.wikipedia.org/wiki/thermodynamique_des_trous_noirs).
 
@@ -30,7 +30,7 @@ Si tu ne sais plus bien ce qu'est un trou noir, lis ou relis "[Tout savoir sur l
 
 D'abord, il a prouvé que "les trous noirs n'ont pas de cheveux". Rigolo non ? En fait c'est un autre astrophysicien, [John Wheeler](https://fr.wikipedia.org/wiki/John_Wheeler) qui a inventé cette expression pour dire que les trous noirs sont incroyablement "lisses" car il suffit de 3 nombres pour les décrire : leur masse, leur charge électrique et leur vitesse de rotation. C'est tout. Si on veut décrire une étoile comme le Soleil, il faut des millions d'informations en plus, comme sa température à plein d'endroits, sa composition chimique, la vitesse des courants qui provoquent des explosions à sa surface etc. Mais pour un trou noir, 3 informations suffisent et on sait tout. C'est Zeldovich (avec d'autres chercheurs) qui a eu cette idée qu'on appelle le [Théorème de calvitie](https://fr.wikipedia.org/wiki/Théorème_de_calvitie), mais c'est Hawking (avec d'autres chercheurs) qui a prouvé que c'était vrai.
 
-{{< figure src="images/cover-r4x3w1000-5982ec5a6f895-eit002.jpg" alt="Le Soleil a des millions de cheveux. Un trou noir n'en a que 3" caption="Le Soleil a des millions de &quot;cheveux&quot;. Un trou noir n'en a que 3" align="alignright" width="480" >}}
+![Le Soleil a des millions de cheveux. Un trou noir n'en a que 3](images/cover-r4x3w1000-5982ec5a6f895-eit002.jpg "Le Soleil a des millions de \"cheveux\". Un trou noir n'en a que 3")
 
 Mais la plus grande découverte de Hawking, c'est l'[évaporation des trous noirs](https://fr.wikipedia.org/wiki/évaporation_des_trous_noirs). Comme je l'avais écrit à la fin de "[Tout savoir sur les trous noirs](http://kidiscience.cafe-sciences.org/articles/tout-savoir-sur-les-trous-noirs/)", c'est un phénomène très spécial, parce que rien ne peut sortir d'un trou noir. Mais d'après Stephen Hawking et Zeldovich, son horizon des événements émet quand même un très faible rayonnement qui lui fait perdre du poids, très très lentement.
 

@@ -18,7 +18,7 @@ Les 300 pages soigneusement illustrées parviennent à ce but en permettant plus
 
 Ce que j'ai le plus apprécié dans "Logicomix" est le traitement de l'échec en sciences. Non, la recherche ne progresse pas de succès en succès via publications réputées et prix Nobel. Ceux qui butent sur les obstacles, les analysent, cherchent à les contourner pendant des années, effectuent un travail de fourmi pour prouver que 1+1=2 :
 
-> {{< figure src="images/112.png" alt="Démonstration formelle que 1+1=2 \[2\]" caption="Démonstration formelle que 1+1=2 \[2\]" align="aligncenter" width="566" >}}
+> ![Démonstration formelle que 1+1=2 \[2\]](images/112.png "Démonstration formelle que 1+1=2 \[2\]")
 
 ceux-là posent les bases indispensables pour permettre de futures avancées. Avec quelques jours de recul, c'est même ce que je retiendrai de ce livre : une excellente illustration de la démarche scientifique à mettre entre toutes les mains.
 

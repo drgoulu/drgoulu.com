@@ -24,7 +24,7 @@ En 1974, le [pavage de Penrose](https://fr.wikipedia.org/wiki/pavage_de_Penrose)
 
 En 2011, c'est John Shier, un "artiste algorithmique" qui vient d'ouvrir tout grand la porte à une infinité de nouveaux pavages. Sa méthode permettent de couvrir le plan avec des pavés de presque n'importe quelles formes, mais de surface décroissantes [[3]](#ref-3), [[4]](#ref-4). Le principe semble tout simple : on place le plus grand pavé au hasard, puis le suivant en taille au hasard dans une surface libre et ainsi de suite.
 
-{{< figure src="images/400fcf9e5415a8d1b3b559ecdffe0c43.png" alt="Le pavage de John Shier le plus simple" caption="Le pavage de John Shier le plus simple" link="http://john-art.com/stat_geom.html" align="aligncenter" width="420" >}}
+[![Le pavage de John Shier le plus simple](images/400fcf9e5415a8d1b3b559ecdffe0c43.png "Le pavage de John Shier le plus simple")](http://john-art.com/stat_geom.html)
 
 Le problème est que si on réduit la taille des pavés trop vite on ne recouvre pas tout le plan, et si on réduit trop lentement, on risque d'être "coincé" à ne pas pouvoir placer un pavé. L'astuce consiste à attribuer au i-ème pavé une surface de A0/ic. Dans ce cas, la surface totale vaut :
 
@@ -46,7 +46,7 @@ Pour ma part, j'ai réalisé la petite application ci-dessous en [Processing](ht
 
 En pressant sur les touches 0,1,3,4,5,6 vous pouvez changer la forme des pavés à la volée, et la touche espace relance un pavage. Contrairement à Shier et Bourke, je ne pave pas un tore mais un rectangle, en prenant garde à ce que les pavés ne soient pas "coupés" par les bords. En plus je me suis amusé à implémenter les pavés en forme d'étoiles, en prévision d'une carte de Noël. Mignon, n'est-ce pas ? Bon, il reste pas mal de noir car la détection d'intersection entre étoiles est très lente, il faudrait améliorer ça.
 
-{{< figure src="images/ee578774ff1f481e54dd991d9e1d7b9e.png" alt="stars" caption="Géantes rouges et naines bleues" link="images/ee578774ff1f481e54dd991d9e1d7b9e.png" align="aligncenter" width="600" >}}
+[![stars](images/ee578774ff1f481e54dd991d9e1d7b9e.png "Géantes rouges et naines bleues")](images/ee578774ff1f481e54dd991d9e1d7b9e.png)
 
 _ajout du 8/10/11_ : j'ai présenté hier un [Tutoriel Processing](http://microclub.ch/2011/10/07/tutoriel-processing/) décrivant la conception de ce programme.
 

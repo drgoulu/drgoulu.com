@@ -13,7 +13,7 @@ coverImage: "5f191d5b335e83fb624df1763b405414.jpg"
 
 Au début, tout était clair : un ordinateur était un assemblage de circuits électroniques formant le [hardware](http://fr.wikipedia.org/wiki/Mat%C3%A9riel_%28informatique%29), piloté par du [software](http://fr.wikipedia.org/wiki/Logiciel) définissant la séquence d'opérations à effectuer. Et puis tout est devenu compliqué.
 
-{{< figure src="images/5f191d5b335e83fb624df1763b405414.jpg" alt="Charles Babbage, inventeur de la première machine programmable, et Ada Lovelace, auteur du premier logiciel" caption="Charles Babbage, inventeur de la première machine programmable, et Ada Lovelace, auteur du premier logiciel" align="aligncenter" width="340" >}}
+![Charles Babbage, inventeur de la première machine programmable, et Ada Lovelace, auteur du premier logiciel](images/5f191d5b335e83fb624df1763b405414.jpg "Charles Babbage, inventeur de la première machine programmable, et Ada Lovelace, auteur du premier logiciel")
 
 D'une part, pour réaliser des opérations plus complexes, il est apparu plus simple de les "[microprogrammer](http://fr.wikipedia.org/wiki/Microprogrammation)" : les puces des processeurs incorporent du logiciel "figé" qui décompose chaque instruction du [langage machine](http://fr.wikipedia.org/wiki/Langage_machine) en opérations encore plus simples.
 

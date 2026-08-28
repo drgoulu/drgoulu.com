@@ -21,7 +21,7 @@ Avant qu'nous nous rapportions aux bouquins du savoir, citons ici un fracass
 
 ### Patience dans l'azur
 
-{{< figure src="images/20140418_152251-300x225.jpg" alt="20140418_152251" caption="L'autre moitié de mes bouquins préférés est chez des amis qui ne me les ont pas rendus. Je leur pardonne seulement s'ils les ont prêtés plus loin..." align="alignright" width="300" >}}
+![20140418_152251](images/20140418_152251-300x225.jpg "L'autre moitié de mes bouquins préférés est chez des amis qui ne me les ont pas rendus. Je leur pardonne seulement s'ils les ont prêtés plus loin...")
 
 > Ces jours qui te semblent vides Et perdus pour l’univers Ont des racines avides Qui travaillent les déserts \[...\] Patient, patience, Patience dans l’azur! Chaque atome de silence Est la chance d’un fruit mûr!
 > 

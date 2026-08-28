@@ -14,7 +14,7 @@ aliases:
   - "/2009/05/21/placebo-et-nocebo/"
 ---
 
-{{< figure src="images/fe628e8cff89937c9285a9079e6ae761.jpg" alt="les placebos colorés et chers ont plus deffet que du sucre blanc" caption="les placebos colorés et chers ont plus d'effet que du sucre blanc" align="alignright" width="297" >}}
+![les placebos colorés et chers ont plus deffet que du sucre blanc](images/fe628e8cff89937c9285a9079e6ae761.jpg "les placebos colorés et chers ont plus d'effet que du sucre blanc")
 
 15 à 25% des personnes qui prennent un [placebo](https://fr.wikipedia.org/wiki/placebo_(pharmacologie)) déclarent ressentir des effets bénéfiques: c'est "l'[effet placebo](https://fr.wikipedia.org/wiki/effet_placebo)" bien connu. L'importance  de cet effet dépend entre autres de la précision du diagnostic du médecin : plus le médecin explique au patient de quoi il souffre avec force détails, plus le patient sera satisfait du médicament qu'il prescrira, même si c'est un placebo.
 

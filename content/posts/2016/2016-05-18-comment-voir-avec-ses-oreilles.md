@@ -23,7 +23,7 @@ Dans un récent article du blog du cerveau [[3]](#ref-3), on apprend que Daniel 
 
 Daniel Kish a été capable d'identifier correctement 99% des situations dans lesquelles les sons avaient été enregistrés, et Brian Bushway 82% ! L'écart s'explique peut-être par le fait que Bushway, 27 ans, est devenu aveugle à 14 ans alors que Kish 43 ans est aveugle depuis l'âge de 13 mois. Outre l'écart d'expérience, les mesures IRM ont montré qu'il est probable que la plasticité du cerveau à la petite enfance a aidé Kish plus que Bushway à réaffecter pour l'écholocation des parties du cortex normalement dévolues à la vision :
 
-{{< figure src="images/journal.pone_.0020162.g002.png" alt="image de l'activité cérébrale de Kish (EB)" caption="image de l'activité cérébrale de Kish (EB) et Bushway (LB) comparée à des sujets contrôle pendant l'audition d'échos de clicks" align="aligncenter" width="2048" >}}
+![image de l'activité cérébrale de Kish (EB)](images/journal.pone_.0020162.g002.png "image de l'activité cérébrale de Kish (EB) et Bushway (LB) comparée à des sujets contrôle pendant l'audition d'échos de clicks")
 
 Le plus surprenant est arrivé lorsque les expérimentateurs ont eu l'idée saugrenue de faire écouter à Bushway des clicks de Kish et vice-versa. Kish a immédiatement dit qu'il avait l'impression d'être plus grand ... Et effectivement, Bushway est nettement plus grand que Kish, qui a réussi à percevoir cette différence dans les échos : à 300 m/s, le son de la voix met une milliseconde de plus à être réfléchi par le sol si on mesure 15 cm de plus !
 

@@ -10,7 +10,7 @@ tags:
 coverImage: "62662298.gif"
 ---
 
-{{< figure src="images/62662298.gif" alt="formule_pi_e" caption="Celle là est assez stupéfiante (cliquer pour l'article d'eljjdx)" link="http://eljjdx.canalblog.com/archives/2011/03/14/20602350.html" align="alignright" width="261" >}}
+[![formule_pi_e](images/62662298.gif "Celle là est assez stupéfiante (cliquer pour l'article d'eljjdx)")](http://eljjdx.canalblog.com/archives/2011/03/14/20602350.html)
 
 Des [coïncidences comme epi - pi = 19.999099979...](http://blogs.discovermagazine.com/badastronomy/) peuvent surprendre : y'a-t-il une relation cachée entre e et pi ? est-ce qu'on ne se serait pas légèrement trompé sur une décimale de pi et que le résultat devrait donner 20 ? Mais pourquoi 20 ?
 

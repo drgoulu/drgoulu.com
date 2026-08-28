@@ -23,7 +23,7 @@ Intuitivement on "sent" que certaines de ces méthodes devraient donner les mêm
 
 ### Solutions exactes
 
-{{< figure src="images/53b71678904e2226d5f1195d59cebfef.gif" alt="icosaèdre" caption="icosaèdre (image Wikipedia)" link="http://fr.wikipedia.org/wiki/Icosa%C3%A8dre" align="alignright" width="256" >}}
+[![icosaèdre](images/53b71678904e2226d5f1195d59cebfef.gif "icosaèdre (image Wikipedia)")](http://fr.wikipedia.org/wiki/Icosa%C3%A8dre)
 
 Le seul problème pour lequel il existe des solutions exactes est le "covering" car en 1943 (seulement....) Fejes Tóth a trouvé la borne du "rayon de couverture" d en fonction de N (voir [ici](http://mathworld.wolfram.com/SphericalCode.html)) . Il a ainsi enfin été prouvé que :
 
@@ -55,7 +55,7 @@ Pour des raisons aérodynamiques, les [balles de golf](https://fr.wikipedia.org/
 
 La plupart des balles de golf existantes sont donc construites par symétrie icosahédrale, en veillant à ce qu'il n'y ait pas de cavité le long d'une ligne pour permettre la réalisation de moules "simples". Comme on le voit ci-dessous, on peut remplir les faces triangulaires de l'icosaèdre de nombreuses façons, et même jouer sur la dimension des "dimples" pour tenter de compenser des irrégularités :
 
-{{< figure src="images/68139ea7a64d62e19fc538b844bb492c.jpg" alt="(illustration tirée du brevet US 4,560,168)" caption="(illustration tirée du brevet US 4,560,168)" align="aligncenter" width="306" >}}
+![(illustration tirée du brevet US 4,560,168)](images/68139ea7a64d62e19fc538b844bb492c.jpg "(illustration tirée du brevet US 4,560,168)")
 
 [![](images/09c6a4480c39c18397e130a3db46c1a4.gif)](http://www.gadgetsplace.com/GOLFBALLCD.htm)[Ce site](http://www.gadgetsplace.com/GOLFBALLCD.htm) vend un CD contenant plus de 800 brevets relatifs aux balles de golf, la plupart relatifs à la disposition des dimples (images ci-contre) ! Ceci prouve qu'il n'existe pas un N clairement optimal, ni une façon optimale de répartir les points.
 

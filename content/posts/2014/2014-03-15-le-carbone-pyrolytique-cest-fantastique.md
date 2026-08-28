@@ -12,7 +12,7 @@ tags:
 coverImage: "0408116c8f483e02475f15c658313033.gif"
 ---
 
-{{< figure src="images/0408116c8f483e02475f15c658313033.gif" alt="Réseaux cristallins du carbone pyrolytique (a) et du graphite (b)" caption="Réseaux cristallins du carbone pyrolytique (a) et du graphite (b)" link="http://www.onxlti.com/product-divisions/contract-manufacturing-products/on-x-pyrolytic-carbon/" align="alignright" width="300" >}}
+[![Réseaux cristallins du carbone pyrolytique (a) et du graphite (b)](images/0408116c8f483e02475f15c658313033.gif "Réseaux cristallins du carbone pyrolytique (a) et du graphite (b)")](http://www.onxlti.com/product-divisions/contract-manufacturing-products/on-x-pyrolytic-carbon/)
 
 Découvert l'existence d'une forme de carbone méconnue : le [carbone pyrolytique](https://fr.wikipedia.org/wiki/carbone_pyrolytique). C'est un empilement de couches de [graphène](https://fr.wikipedia.org/wiki/graphène) moins régulier que dans le [graphite](https://fr.wikipedia.org/wiki/graphite) \*.
 
@@ -22,7 +22,7 @@ Les propriétés de ce matériau sont vraiment étonnantes.
 
 Commençons par la plus simple : sa [conductivité thermique](https://fr.wikipedia.org/wiki/conductivité_thermique) est parmi les plus élevées qui soit, du moins dans le plan de [clivage](https://fr.wikipedia.org/wiki/clivage) défini par les couches de graphène. Et comme en plus le graphite résiste jusqu'à 3652°C, ça en fait un excellent matériau pour diffuser la chaleur, que ce soit dans des circuits électroniques ou des tuyères de missiles par exemple.
 
-{{< figure src="images/Diamagnetic_graphite_levitation.jpg" alt="Carbone pyrolytique en lévitation sur des aimants permanents" caption="Carbone pyrolytique en lévitation sur des aimants permanents" link="https://fr.wikipedia.org/wiki/L%C3%A9vitation_magn%C3%A9tique" align="alignleft" width="300" >}}
+[![Carbone pyrolytique en lévitation sur des aimants permanents](images/Diamagnetic_graphite_levitation.jpg "Carbone pyrolytique en lévitation sur des aimants permanents")](https://fr.wikipedia.org/wiki/L%C3%A9vitation_magn%C3%A9tique)
 
 Ensuite, il est [diamagnétique](https://fr.wikipedia.org/wiki/diamagnétisme) : exposé à un champ magnétique, il en génère un opposé. C'est assez courant à basse température, mais le carbone pyrolytique est le matériau le plus fortement diamagnétique à température ambiante.
 

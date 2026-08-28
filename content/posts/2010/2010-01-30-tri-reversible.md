@@ -13,7 +13,7 @@ tags:
 coverImage: "fdd88ca55a8f211b9fc8f978d988744c.jpg"
 ---
 
-{{< figure src="images/d4e5d0a778dba725091d8317e6bac939.gif" alt="animation de l'algorithme Quick Sort" caption="animation de l'algorithme Quick Sort" link="http://commons.wikimedia.org/wiki/File:Sorting_quicksort_anim.gif" align="alignright" width="280" >}}
+[![animation de l'algorithme Quick Sort](images/d4e5d0a778dba725091d8317e6bac939.gif "animation de l'algorithme Quick Sort")](http://commons.wikimedia.org/wiki/File:Sorting_quicksort_anim.gif)
 
 En informatique, le tri est une opération incontournable car il est beaucoup plus rapide de rechercher une information dans une liste triée que dans un fouillis. C'est pourquoi j'ai longtemps cru qu'une liste triée contenait plus d'information qu'une liste non triée, car je voyais le tri comme un pré-traitement permettant d'accélérer les opérations suivantes, donc un "plus" par rapport à une situation "moins" performante.
 

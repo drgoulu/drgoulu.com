@@ -11,7 +11,7 @@ tags:
 coverImage: "41fc5fd4e31c34907ca2011dbb74ed61-1.gif"
 ---
 
-{{< figure src="images/41fc5fd4e31c34907ca2011dbb74ed61.gif" alt="représentation 3D de la molécule de menthol (wikipedia)" caption="représentation 3D de la molécule de menthol (wikipedia)" link="http://fr.wikipedia.org/wiki/Menthol" align="alignright" width="256" >}}
+[![représentation 3D de la molécule de menthol (wikipedia)](images/41fc5fd4e31c34907ca2011dbb74ed61.gif "représentation 3D de la molécule de menthol (wikipedia)")](http://fr.wikipedia.org/wiki/Menthol)
 
 Il fait chaud et vous appréciez le goût rafraîchissant de la menthe ? Dites merci au [menthol](https://fr.wikipedia.org/wiki/menthol), la molécule contenue dans ces plantes, et désormais également synthétisée par l'industrie chimico-alimentaire. Le menthol a la propriété d'agir chimiquement sur les récepteurs de notre bouche normalement sensibles à la température des aliments, en particulier via un [canal ionique TRP](https://en.wikipedia.org/wiki/Transient_receptor_potential) [[1]](#ref-1), le TRPM8 qui nous signale qu'un aliment est agréablement frais.
 

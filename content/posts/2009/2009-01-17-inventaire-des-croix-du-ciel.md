@@ -28,7 +28,7 @@ mais ce dont je voulais principalement parler c'est...
 
 Les étoiles sont tellement éloignées qu'à part le Soleil, elles nous apparaissent toutes comme des points. Il n'y a que les [géantes comme Bételgeuse ou Antares](/2008/02/01/on-est-peu-de-chose/) qui apparaissent comme de vagues petites boules de quelques pixels sur les images des plus puissants télescopes. Mais alors pourquoi voit-on de grosses étoiles brillantes ornées de jolis "rayons" en forme de croix sur les photos astronomiques comme celle-ci :
 
-{{< figure src="images/f91fd32264ce5b96c19fb40088b76e72.jpg" alt="Grand Nuage de Magellan photographié par Hubble." caption="Grand Nuage de Magellan photographié par Hubble." link="http://www.spacetelescope.org/" align="aligncenter" width="400" >}}
+[![Grand Nuage de Magellan photographié par Hubble.](images/f91fd32264ce5b96c19fb40088b76e72.jpg "Grand Nuage de Magellan photographié par Hubble.")](http://www.spacetelescope.org/)
 
 C'est la faute de la [diffraction](http://fr.wikipedia.org/wiki/Diffraction), ou plutôt des inévitables imperfections optiques des instruments d'observation qui causent ce [phénomène optique compexe](http://fr.wikipedia.org/wiki/Th%C3%A9orie_de_la_diffraction).
 
@@ -50,7 +50,7 @@ Autre phénomène physique créant une croix dans notre ciel : la ["lentille gra
 
 La présence d'une masse importante entre un objet lumineux très éloigné et nous forme une gigantesque loupe naturelle, mais d'une piètre qualité : l'objet distant nous apparait fortement déformé, copié à de multiples exemplaires sur un motif en forme d'anneau dit "[anneau d'Einstein](http://en.wikipedia.org/wiki/Einstein_ring)" en l'honneur du Suisse qui [prédit](http://fr.wikipedia.org/wiki/Tests_exp%C3%A9rimentaux_de_la_relativit%C3%A9_g%C3%A9n%C3%A9rale#Pr.C3.A9diction_de_la_relativit.C3.A9_g.C3.A9n.C3.A9rale) que les rayons lumineux sont déviés par des masses, entre autres choses...
 
-{{< figure src="images/a709925b9e63a47c2b8a0a296169275d.jpg" alt="Une galaxie avec un noyau un peu bizarre ..." caption="Une galaxie avec un noyau un peu bizarre ..." link="http://www.eso.org/public/news/eso0847/" align="aligncenter" width="550" >}}
+[![Une galaxie avec un noyau un peu bizarre ...](images/a709925b9e63a47c2b8a0a296169275d.jpg "Une galaxie avec un noyau un peu bizarre ...")](http://www.eso.org/public/news/eso0847/)
 
 Dans le cas particulier ci-dessus, une galaxie se trouve pile dans l'axe d'un [quasar](http://fr.wikipedia.org/wiki/Quasar) très lointain, dont l'image se retrouve en 4 exemplaires autour du noyau de la galaxie, formant une magnifique "Croix d'Einstein"
 

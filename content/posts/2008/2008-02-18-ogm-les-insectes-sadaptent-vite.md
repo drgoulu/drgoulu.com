@@ -17,7 +17,7 @@ Lors d'un débat sur les Organismes Génétiquement Modifiés (OGM) il y a envir
 2. Les plantes modifiées n'évoluent donc plus au rythme naturel d'une génération par année, mais n'ont qu'une "génération" tous les 10 ans voire plus.
 3. Par contre, les parasites continuent d'évoluer à leur rythme habituel de plusieurs (nombreuses) générations par année. Selon le professeur, l'issue ne faisait aucun doute : en quelques années les parasites s'adapteront à la modification génétique, supprimant l'avantage des OGM mais produisant des parasites plus tenaces...
 
-{{< figure src="images/ff92808e26afd5f6edb0fdcedf274e45.jpg" alt="Helicoverpa zea" caption="Helicoverpa zea" align="alignright" width="320" >}}
+![Helicoverpa zea](images/ff92808e26afd5f6edb0fdcedf274e45.jpg "Helicoverpa zea")
 
 Il avait raison : des "Bollworms" (Helicoverpa zea) résistants au [[coton Bt](http://www.ogm.org/)](https://fr.wikipedia.org/wiki/[coton_Bt](http://www.ogm.org/)) ont été [découverts dans des champs aux USA dès 2003](http://www.sciencedaily.com/releases/2008/02/080207140803.htm). Or le coton "Bt" a précisément été développé et cultivé dès 1996 pour repousser le "Bollworm", principal parasite du coton [(et responsable d'une perte de rendement de ... 1 % !)](http://deltafarmpress.com/bollwormbudworm-still-top-cotton-pest)
 

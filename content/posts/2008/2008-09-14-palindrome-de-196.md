@@ -11,7 +11,7 @@ tags:
 coverImage: "ba5485f7dc2d3ad49c29a5e809e739641.jpg"
 ---
 
-{{< figure src="images/ba5485f7dc2d3ad49c29a5e809e73964.jpg" alt="palindrome par puja (flickr)" caption="palindrome par puja (flickr)" link="http://www.flickr.com/photos/puja/251008157/" align="alignright" width="240" >}}
+[![palindrome par puja (flickr)](images/ba5485f7dc2d3ad49c29a5e809e73964.jpg "palindrome par puja (flickr)")](http://www.flickr.com/photos/puja/251008157/)
 
 Prenons un nombre au hasard : 1729. Ecrivons-le à l'envers : 9271 et additionnons les deux nombres : 1729+9271=11000. Recommençons avec ce nombre : 11000+00011 = 11011.
 

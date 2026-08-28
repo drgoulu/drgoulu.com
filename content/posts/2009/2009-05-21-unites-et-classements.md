@@ -13,7 +13,7 @@ tags:
 coverImage: "1eb17d17e585d41b1611c3e925e355de.jpg"
 ---
 
-{{< figure src="images/1eb17d17e585d41b1611c3e925e355de.jpg" alt="Etranger, si tu ne sais pas additionner des pommes et des choux, passe ton chemin..." caption="Etranger, si tu ne sais pas additionner des pommes et des choux, passe ton chemin..." link="http://en.wikipedia.org/wiki/New_Cuyama,_California" align="alignright" width="255" >}}
+[![Etranger, si tu ne sais pas additionner des pommes et des choux, passe ton chemin...](images/1eb17d17e585d41b1611c3e925e355de.jpg "Etranger, si tu ne sais pas additionner des pommes et des choux, passe ton chemin...")](http://en.wikipedia.org/wiki/New_Cuyama,_California)
 
 En maths "pures", un nombre est "pur" aussi. Ce sont les marchands et les physiciens qui ont inventé les unités pour des besoins d'application : 3 pommes ne sont pas égales à 3 vaches, et 3 kilos pas égaux à 3 mètres
 

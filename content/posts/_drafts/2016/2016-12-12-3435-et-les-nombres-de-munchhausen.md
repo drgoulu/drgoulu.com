@@ -11,7 +11,7 @@ tags:
 coverImage: 220px-Munchhausen-AWille.jpg
 draft: true
 ---
-{{< figure src="images/220px-Munchhausen-AWille.jpg" alt="Le baron de Münchausen se déplaçait en chevauchant des boulets de canon..." caption="Le baron de Münchausen se déplaçait en chevauchant des boulets de canon..." align="alignright" width="220" >}}
+![Le baron de Münchausen se déplaçait en chevauchant des boulets de canon...](images/220px-Munchhausen-AWille.jpg "Le baron de Münchausen se déplaçait en chevauchant des boulets de canon...")
 
 8208 est un [nombre narcissique](https://fr.wikipedia.org/wiki/nombre_narcissique) parce que 8208 = 84 + 24 + 04 + 84  : il est égal à la somme de ses chiffres élevée à la puissance correspondant au nombre de ses chiffres. Il y en a beaucoup ([A005188](https://oeis.org/A005188)) mais pas une infinité : 115132219018763992565095597973971522401 est le plus grand
 

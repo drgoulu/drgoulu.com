@@ -16,9 +16,9 @@ Le logiciel [KnotPlot](http://knotplot.com/) permet d'explorer ce monde étonnan
 
 Pour certains noeuds comme notre "demi clé", on peut créer une surface délimitée par la corde, un peu comme si on la trempait amidonnée dans de l'eau savonneuse pour créer une pellicule. Dans certains cas cette surface n'a qu'une face, comme un [ruban de Moebius](http://fr.wikipedia.org/wiki/Ruban_de_M%C3%B6bius). Mais est-ce possible pour tous les noeuds ?
 
-|   {{< figure src="images/3a8cef2b324bd07209176a5a2bb277d9.jpg" alt="surface de Moebius" caption="surface de Moebius" align="aligncenter" width="180" >}} |   {{< figure src="images/fcab100e652fe95d7a29eb1c7abb7867.jpg" alt="surface de Seifert" caption="surface de Seifert" align="aligncenter" width="180" >}} |
+|   ![surface de Moebius](images/3a8cef2b324bd07209176a5a2bb277d9.jpg "surface de Moebius") |   ![surface de Seifert](images/fcab100e652fe95d7a29eb1c7abb7867.jpg "surface de Seifert") |
 | --- | --- |
-|   {{< figure src="images/1a004f41e783d4659c48ff29b1d1f22d.jpg" alt="surface de Seifert" caption="surface de Seifert" align="alignright" width="180" >}} |   {{< figure src="images/31a6d73187c8c6d7f1a9168792bdb839.jpg" alt="surface de Seifert" caption="surface de Seifert" align="alignright" width="180" >}} |
+|   ![surface de Seifert](images/1a004f41e783d4659c48ff29b1d1f22d.jpg "surface de Seifert") |   ![surface de Seifert](images/31a6d73187c8c6d7f1a9168792bdb839.jpg "surface de Seifert") |
 
 En 1934  le mathématicien allemand Herbert Seifert montra comment créer une surface à deux faces pour n'importe quel noeud. Ce résultat permet de caractériser un noeud à l'aide de sa [surface de Seifert](http://en.wikipedia.org/wiki/Seifert_surface) qui peut être déformée selon les lois de la topologie.
 

@@ -14,7 +14,7 @@ tags:
 coverImage: "55c1b94ac77688257c532bc578a2b1d1.jpg"
 ---
 
-{{< figure src="images/4e1db3e6637eb11d7b9da061686bee24.jpg" alt="Little Professor par draggin sur flickr" caption="Little Professor par draggin sur flickr" link="http://www.flickr.com/photos/draggin/15223525/" align="alignright" width="160" >}}
+[![Little Professor par draggin sur flickr](images/4e1db3e6637eb11d7b9da061686bee24.jpg "Little Professor par draggin sur flickr")](http://www.flickr.com/photos/draggin/15223525/)
 
 Soyons fous : à [Copenhague](http://www.copenhague-2009.com/), adoptons la "[société à 2ooo watts](/2009/05/02/pourquoi-seulement-2000-watts/)". Divisons la consommation d'énergie de l'Europe par 3, persuadons Obama de réduire celle des USA d'un facteur 6 et la Chine de stopper la croissance de la sienne pour que le monde entier se retrouve à la moyenne actuelle de sa consommation d'énergie, mais propre.
 
@@ -33,7 +33,7 @@ Soyons fous : à [Copenhague](http://www.copenhague-2009.com/), adoptons la "[so
 - 7 milliards d'habitants (en 2012) x 2000 watts x 8766 heures = 116'580 Terawattheures
 - 25% de pétrole, gaz, charbon : 29'145 TWh soit 2.5 milliards de [tonnes équivalent pétrole](http://fr.wikipedia.org/wiki/Tonne_d%27%C3%A9quivalent_p%C3%A9trole), le quart de la consommation actuelle de charbon+pétrole+gaz , soit celle des années 1950:
     
-    {{< figure src="images/d0b3aeb877a3e20ecb85c1d69374fdcb.jpg" alt="Evolution de la consommation mondiale d'énergie. Source : J.-M. Jancovici (Manicore)" caption="Evolution de la consommation mondiale d'énergie. Source : J.-M. Jancovici (Manicore)" link="http://www.manicore.com/documentation/articles/palais_mai2001.html" align="alignright" width="595" >}}
+    [![Evolution de la consommation mondiale d'énergie. Source : J.-M. Jancovici (Manicore)](images/d0b3aeb877a3e20ecb85c1d69374fdcb.jpg "Evolution de la consommation mondiale d'énergie. Source : J.-M. Jancovici (Manicore)")](http://www.manicore.com/documentation/articles/palais_mai2001.html)
 - 14'000 TWh de [biomasse (=bois), biocarburants et biogaz](http://www.manicore.com/documentation/part_eolien.html)
 - la production actuelle [d'électricité est de](http://www.indexmundi.com/world/electricity_production.html) [19'000 TWh](http://www.indexmundi.com/world/electricity_production.html) , dont :
     - [3000 TWh hydrauliques](http://www.planete-energies.com/fr/l-energie-demain/l-avenir-des-energies-actuelles/les-energies-renouvelables/l-eau-l-energie-de-demain-273.html)

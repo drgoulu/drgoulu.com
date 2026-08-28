@@ -21,7 +21,7 @@ La carrière de Maalouf a débuté par un essai , "[Les Croisades vues par les A
 
 J'ai aussi lu "[Le Périple de Baldassare](http://books.google.fr/books?id=MFyNNQAACAAJ)", "[Les échelles du Levant](http://books.google.fr/books?id=twKXPQAACAAJ)" et "[Le Rocher de Tanios](http://books.google.fr/books?id=rcHmQwAACAAJ)", tous bien aussi, et "[Le premier siècle après Béatrice](http://books.google.fr/books?id=Rda4QgAACAAJ)" dans un registre assez différent, mais  mon préféré reste "[Samarcande](http://books.google.fr/books?id=c5oSHAAACAAJ)".
 
-{{< figure src="images/7890daf3a9aa78a370f3c8eb3902df02.jpg" link="http://www.flickr.com/photos/rafaelgomez/4038575996/in/photostream/" align="aligncenter" width="500" >}}
+[![](images/7890daf3a9aa78a370f3c8eb3902df02.jpg)](http://www.flickr.com/photos/rafaelgomez/4038575996/in/photostream/)
 
 "Samarcande" nous plonge dans la Perse d'[Omar Khayyam](http://fr.wikipedia.org/wiki/Omar_Khayyam), poète, [mathématicien et astronome](http://fr.wikipedia.org/wiki/Omar_Khayyam#Math.C3.A9maticien_et_astronome) du XIIème siècle, qui aurait certainement des ennuis en Iran de nos jours avec ses poèmes du genre:
 

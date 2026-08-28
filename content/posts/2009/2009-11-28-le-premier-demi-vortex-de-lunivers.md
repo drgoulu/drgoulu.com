@@ -13,7 +13,7 @@ tags:
 coverImage: "916ae4300107284609b2380abd495680.jpg"
 ---
 
-{{< figure src="images/916ae4300107284609b2380abd495680.jpg" link="http://www.flickr.com/photos/vin60/2241973611/" align="alignright" width="240" >}}
+[![](images/916ae4300107284609b2380abd495680.jpg)](http://www.flickr.com/photos/vin60/2241973611/)
 
 [Konstantinos Lagoudakis](http://people.epfl.ch/konstantinos.lagoudakis), du laboratoire d'Opto-électronique Quantique de l'EPFL vient de parvenir à créer des "demi-vortex", un phénomène quantique compliqué prédit par la théorie en 1985. Je ne me risque pas à une explication, [celle-ci](http://actualites.epfl.ch/index.php?module=procontent&func=display&id=2333) me parait très bien pour ceux qui ne sont pas capables de piger [l'abstract de l'article](http://www.sciencemag.org/content/326/5955/974.abstract) paru dans Science. Vous pouvez aussi [écouter la séquence](http://podcast.rsr.ch/media/la1ere/impatience/20091127-tourbillon-de-particules.mp3) consacrée à cette découverte par l'émission Impatience de la RSR.
 

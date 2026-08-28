@@ -43,7 +43,7 @@ Comme dans beaucoup d’enquêtes policières, on n’est pas surs à 100% que �
 
 ### L’apparition des dinosaures
 
-{{< figure src="images/290px-Pristeroognathus_DB.jpg" alt="Les Therapsides viviaent un Permien. Beaucoup ont disparu pendant l’extinction T-J. Parmi les descendants de ceux qui ont survécu il y a les mammifères. Nous." caption="Les Therapsides viviaent un Permien. Beaucoup ont disparu pendant l’extinction T-J. Parmi les descendants de ceux qui ont survécu il y a les mammifères. Nous." align="alignright" width="290" >}}
+![Les Therapsides viviaent un Permien. Beaucoup ont disparu pendant l’extinction T-J. Parmi les descendants de ceux qui ont survécu il y a les mammifères. Nous.](images/290px-Pristeroognathus_DB.jpg "Les Therapsides viviaent un Permien. Beaucoup ont disparu pendant l’extinction T-J. Parmi les descendants de ceux qui ont survécu il y a les mammifères. Nous.")
 
 Avant ça, les dinosaures avaient régné sur la Terre depuis la grande extinction précédente, celle du Trias-Jurassique il y a 200 millions d’années environ. On connait l’heure du crime à quelques millions d’années près…
 
@@ -51,7 +51,7 @@ Parmi les nombreuses victimes, il y a eu une bonne partie des [Crurotarsi](https
 
 On ne sait pas exactement ce qui s’est passé mais pour comprendre, l’enquête scientifique est en cours.
 
-{{< figure src="images/250px-Pangaea_continents.svg_.png" alt="Carte dela Pangée" caption="Carte dela Pangée" align="alignleft" width="250" >}}
+![Carte dela Pangée](images/250px-Pangaea_continents.svg_.png "Carte dela Pangée")
 
  
 
@@ -61,7 +61,7 @@ Cette extinction a probablement duré beaucoup plus longtemps que celle du Crét
 
 ### La Pé-Tée
 
-{{< figure src="images/5fd599b09ed830049fe6dd90652c2c25.jpg" alt="Un fossile de trilobite, une classe (= beaucoup d’espèces) qui a disparu lors de la P-T" caption="Un fossile de trilobite, une classe (= beaucoup d’espèces) qui a disparu lors de la P-T" align="alignright" width="300" >}}
+![Un fossile de trilobite, une classe (= beaucoup d’espèces) qui a disparu lors de la P-T](images/5fd599b09ed830049fe6dd90652c2c25.jpg "Un fossile de trilobite, une classe (= beaucoup d’espèces) qui a disparu lors de la P-T")
 
 Mais il y a 252 millions d’années, la vie a bien failli disparaître pour de bon. 90% des espèces marines et 70% de celles sur terre ont été éradiquées lors de l’[extinction du Permien-Trias](https://fr.wikipedia.org/wiki/extinction_du_Permien-Trias) (P-T) qu'un paléontologue inspiré a baptisé « la mère de toutes les extinctions de masse ».
 
@@ -120,7 +120,7 @@ Et tant que nous serons là, nous ne laisserons pas d’autres bêtes prendre no
 
 ### Les extinctions du futur
 
-{{< figure src="images/bf9218905140bbd62d1bf65379810213.jpg" alt="Une BD que j’aime bien sur le futur de l’humanité. Elle est presque aussi vieille que moi (elle date de 1988) mais tu peux peut-être encore la trouver." caption="Une BD que j’aime bien sur le futur de l’humanité. Elle est presque aussi vieille que moi (elle date de 1988) mais tu peux peut-être encore la trouver." align="alignright" width="240" >}}
+![Une BD que j’aime bien sur le futur de l’humanité. Elle est presque aussi vieille que moi (elle date de 1988) mais tu peux peut-être encore la trouver.](images/bf9218905140bbd62d1bf65379810213.jpg "Une BD que j’aime bien sur le futur de l’humanité. Elle est presque aussi vieille que moi (elle date de 1988) mais tu peux peut-être encore la trouver.")
 
 Peut-être que grande extinction de l’Holocène ne s’arrêtera que quand nous disparaîtrons, parce que ça fera de la place sur la Terre pour de nouvelles espèces.
 

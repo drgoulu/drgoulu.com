@@ -13,7 +13,7 @@ tags:
 coverImage: "0f6551a2b725cf5aff440b54b767ca4a.jpg"
 ---
 
-{{< figure src="images/adf871d124dba234f4afb0f80ebbb26f.jpg" alt="Big Bang par ToniVC sur flickr" caption="&quot;Big Bang&quot; par ToniVC sur flickr" link="http://www.flickr.com/photos/tonivc/835288945/" align="alignright" width="240" >}}
+[![Big Bang par ToniVC sur flickr](images/adf871d124dba234f4afb0f80ebbb26f.jpg '"Big Bang" par ToniVC sur flickr')](http://www.flickr.com/photos/tonivc/835288945/)
 
 Dès que l'on parle du [Big Bang à l'origine de l'Univers](/2008/05/30/le-big-bang-en-une-image/), la première question qui se pose est "qu'y avait-il avant ?". C'est la Grande Question du Temps. La réponse de la physique actuelle est "la question n'a pas de sens". Dans cet article, je vais tenter de montrer que ce n'est de loin pas une façon de contourner la difficulté de la question.
 
@@ -25,7 +25,7 @@ Commençons par un sujet qui peut paraître éloigné. Notre intuition en rega
 
 Selon Einstein, [le temps est une quatrième dimension](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/) liée aux dimensions spatiales par la vitesse de la lumière. Si on admet qu'à l'instant du Big Bang, l'Univers était un point de dimensions spatiales nulles, le temps était aussi au "Temps zéro"  absolu. Autrement dit, si on mesure le temps non pas en secondes, mais en se basant sur le [rayon de l'Univers observable](/2008/05/30/le-big-bang-en-une-image/) qui augmente depuis le BigBang, il devient clair qu'à un moment l'univers avait un rayon de 1 mètre (à 10\-32 secondes), mais que se demander quand il avait un rayon de -1m n'a pas de sens.
 
-{{< figure src="images/fb7be8c54e7d6ea42f80910ce858eddd.jpg" alt="fig. 1 : relation entre la taille de l'Univers observable et son âge" caption="fig. 1 : relation entre la taille de l'Univers observable et son âge" align="aligncenter" width="450" >}}
+![fig. 1 : relation entre la taille de l'Univers observable et son âge](images/fb7be8c54e7d6ea42f80910ce858eddd.jpg "fig. 1 : relation entre la taille de l'Univers observable et son âge")
 
 ### La mesure du temps
 
@@ -37,7 +37,7 @@ Heureusement, en 1967 on a défini la seconde comme \[1\]:
 
 C'est mieux, ça sonne bien physique. Mais [il n'existe pas d'atomes de césium à 0°K dans la nature](/2007/05/09/plus-froid-que-lespace/), et d'ailleurs les premiers atomes sont apparus 300'000 "ans" après le Big Bang, et le césium plutôt après 1'000'000'000 d'années, avec les premières étoiles. Avec quelle horloge pouvait-on mesurer le temps avant ? Ou autrement dit, comment savoir si les secondes du début de l'Univers avaient la même durée que les secondes actuelles ?
 
-{{< figure src="images/34219472a867937057256c0f094f2d7e.jpg" alt="fig 2 : Histoire microscopique de l'Univers (cliquer pour la macroscopique)" caption="fig 2 : Histoire &quot;microscopique&quot; de l'Univers (cliquer pour la &quot;macroscopique&quot;)" link="/2008/05/30/le-big-bang-en-une-image/" align="aligncenter" width="472" >}}
+[![fig 2 : Histoire microscopique de l'Univers (cliquer pour la macroscopique)](images/34219472a867937057256c0f094f2d7e.jpg "fig 2 : Histoire \"microscopique\" de l'Univers (cliquer pour la \"macroscopique\")")](/2008/05/30/le-big-bang-en-une-image/)
 
 ###  Le Grand Métronome Absolu
 

@@ -18,6 +18,6 @@ Mais Sylvafilm en a tiré une vidéo disponible désormais sur YouTube grâce à
 
 C'est du travail d'artiste : les échelles ne sont pas respectées et il y a un peu de remplissage pour éviter la répétition et le noir de l'espace (sinon ça aurait ressemblé à [cette fameuse page](http://www.phrenopolis.com/perspective/solarsystem/)), mais c'est très beau et bien documenté selon des infos récentes, comme les aurores boréales de Saturne par exemple.
 
-{{< figure src="images/d711ee241f744a07689240afb06710e3.png" alt="Licoti" caption="Les fond d'écrans. Cliquez pour les obtenir" link="http://licoti.deviantart.com/#/d2ly610" align="aligncenter" width="466" >}}
+[![Licoti](images/d711ee241f744a07689240afb06710e3.png "Les fond d'écrans. Cliquez pour les obtenir")](http://licoti.deviantart.com/#/d2ly610)
 
 On peut aussi admirer l'oeuvre sous forme de [fonds d'écran](http://licoti.deviantart.com/#/d2ly610) de diverses résolution. Par contre, j'ignore sous quelle forme existe le document dans lequel les textes explicatifs seraient lisibles. Une fresque de 30m de long?

@@ -24,7 +24,7 @@ On connait aussi des [collisions de galaxies](/2008/04/25/un-festival-de-galaxie
 
 L'image ci-dessous montre "la taille au dessus" en matière de collisions. Seuls les quelques points [en forme de croix](/2009/01/17/inventaire-des-croix-du-ciel/) visibles sur cette magnifique photo sont des étoiles proches, dans notre Galaxie. Les  centaines d'autres points ou taches sont autant de galaxies formées chacune de milliards d'étoiles et regroupés en 4 [amas de galaxies](http://fr.wikipedia.org/wiki/Amas_de_galaxies) en interaction.
 
-{{< figure src="images/50720f86869bd99365f1aa97dd1469b5.jpg" alt="image de MACSJ0717.5+3745,prise par Hubble+Chandra+Keck. Credit: NASA, ESA, CXC, C. Ma, H. Ebeling, and E. Barrett (University of Hawaii/IfA), et al., and STScI." caption="image de MACSJ0717.5+3745,prise par Hubble+Chandra+Keck. Credit: NASA, ESA, CXC, C. Ma, H. Ebeling, and E. Barrett (University of Hawaii/IfA), et al., and STScI." link="http://hubblesite.org/newscenter/archive/releases/2009/17/image/a/" align="aligncenter" width="488" >}}
+[![image de MACSJ0717.5+3745,prise par Hubble+Chandra+Keck. Credit: NASA, ESA, CXC, C. Ma, H. Ebeling, and E. Barrett (University of Hawaii/IfA), et al., and STScI.](images/50720f86869bd99365f1aa97dd1469b5.jpg "image de MACSJ0717.5+3745,prise par Hubble+Chandra+Keck. Credit: NASA, ESA, CXC, C. Ma, H. Ebeling, and E. Barrett (University of Hawaii/IfA), et al., and STScI.")](http://hubblesite.org/newscenter/archive/releases/2009/17/image/a/)
 
 Les nuages bleus et mauves sont du gaz arraché aux galaxies par l'attraction de leurs voisines, sur des distances qui dépassent très largement la taille des galaxies.
 

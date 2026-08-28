@@ -28,7 +28,7 @@ Entre des pendules d'apparence baroques, Marcel poursuit également une quête d
 
 Les deux objectifs sont atteints par exemple avec "[Florence](http://www.betrisey.ch/florence.html)", propulsée une fois par heure par la chute d'une seule bille, et qui ne dévie que d'une seconde par mois !
 
-{{< figure src="images/fed0bc25222e0bcb84533ed9527198cf.jpg" alt="Le moteur de Florence : une bille par heure" caption="Le moteur de &quot;Florence&quot; : une bille par heure" link="http://www.flickr.com/photos/goulu/6166891188/in/photostream/" align="aligncenter" width="375" >}}
+[![Le moteur de Florence : une bille par heure](images/fed0bc25222e0bcb84533ed9527198cf.jpg 'Le moteur de "Florence" : une bille par heure')](http://www.flickr.com/photos/goulu/6166891188/in/photostream/)
 
 Le "[Chronolithe](http://www.betrisey.ch/cronolit.html)" et la "[Conti](http://www.betrisey.ch/conti.html)" sont les plus incroyables pendules qu'il m'ait été donné de voir. Leur long balancier n'est propulsé que par la [pression de la lumière](http://fr.wikipedia.org/wiki/Pression_de_radiation), comme le [radiomètre de Crookes](http://fr.wikipedia.org/wiki/Radiom%C3%A8tre_de_Crookes), ces petits moulins de pales argentées d'un côté et noircies de l'autre tourniquant sous vide d'air dans certaines vitrines de l'ère pré-numérique. Bouger un pendule de 4 Kg avec une force de quelques micronewtons : il l'a fait !
 
@@ -42,6 +42,6 @@ Si vous avez manqué l'[exposition de ses oeuvres à La Vilette en 2006](http:
 
 Merci Marcel pour cette visite passionnante à un passionné !
 
-{{< figure src="images/0d453317c1f56b3e641718067f99c183.jpg" alt="Outils rarement observés dans un atelier d'horlogerie, mais apparemment fort utiles..." caption="Outils rarement observés dans un atelier d'horlogerie, mais apparemment fort utiles..." align="aligncenter" width="375" >}}
+![Outils rarement observés dans un atelier d'horlogerie, mais apparemment fort utiles...](images/0d453317c1f56b3e641718067f99c183.jpg "Outils rarement observés dans un atelier d'horlogerie, mais apparemment fort utiles...")
 
 [(article aussi paru sur le blog du Microclub)](http://microclub.ch/2011/09/20/les-geniales-pendules-de-marcel-betrisey/)

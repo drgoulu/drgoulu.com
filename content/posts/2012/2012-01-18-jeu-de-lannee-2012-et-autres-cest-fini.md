@@ -16,7 +16,7 @@ _(mis à jour plusieurs foirs après correction de bugs et améliorations, cf co
 
 Je m’apprêtais à passer une soirée tranquille quand je suis tombé sur un tweet de [@ElJj](http://twitter.com/intent/user?screen_name=ElJj) disant: "Qui va me battre au "jeu de l'année" ? [http://eljjdx.canalblog.com/archives/2012/01/15/23243094.html](http://eljjdx.canalblog.com/archives/2012/01/15/23243094.html)".
 
-{{< figure src="images/09a817e0eb516e6d72357bbf47b564a3.jpg" alt="Python bouffant du matheux" caption="Python bouffant du matheux" align="alignright" width="250" >}}
+![Python bouffant du matheux](images/09a817e0eb516e6d72357bbf47b564a3.jpg "Python bouffant du matheux")
 
 Un seul click m'a torpillé non pas une, mais trois soirées et un certain nombre d'heures de réflexion la journée. Mais ma vengeance est terrible : ni ElJj ni aucun autre mathématicien ne passera plus jamais des heures à former les entiers de 1 à 100 en n'utilisant que les chiffres de l'année (2,0,1,2) une et une seule fois chacun, les opérations de base +,-,\*,/,^ et quelques autres. Fi-ni. Et c'est rapé aussi pour toutes les années futures ou passées, parce que j'ai fait un programme qui résout ce problème une fois pour toute. Amis [matheux de tous pays](http://mathforum.org/yeargames/), je vous fais ci-dessous économiser des milliers d'heures que vous allez pouvoir utiliser pour résoudre de [vrais problèmes](/2007/04/14/les-problemes-mathematiques-difficiles/) (Pensez à moi si vous en résolvez un, merci...)
 

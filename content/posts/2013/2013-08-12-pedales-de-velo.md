@@ -23,7 +23,7 @@ Comme je n'en avais pas, j'ai cherché et trouvé une première [réponse en fra
 
 Ce n'est pas en raison du [couple](https://fr.wikipedia.org/wiki/Couple_(physique)) de desserrage causé par le frottement dans les roulements à billes. C'est à cause d'un effet qui travaille en sens contraire (dans ce cas) : la [précession mécanique](http://en.wikipedia.org/wiki/Precession_\(mechanical\)):
 
-{{< figure src="images/c833a170d629dc7ab5c81f4a3cc43bb0.gif" alt="Précession mécanique (cliquer pour la Wikipédia)" caption="Précession mécanique (cliquer pour la Wikipédia)" link="http://en.wikipedia.org/wiki/Precession_%28mechanical%29" align="alignright" width="220" >}}
+[![Précession mécanique (cliquer pour la Wikipédia)](images/c833a170d629dc7ab5c81f4a3cc43bb0.gif "Précession mécanique (cliquer pour la Wikipédia)")](http://en.wikipedia.org/wiki/Precession_%28mechanical%29)
 
 > “La précession est la rotation d'une pièce circulaire dans un trou circulaire en raison du jeu entre les deux pièces sous l'action d'une force radiale tournante sur la pièce intérieure. Le sens de rotation de la pièce intérieure est inverse à celui de la rotation de la force radiale.”
 

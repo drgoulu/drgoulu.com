@@ -14,7 +14,7 @@ tags:
 coverImage: "14926563402_2c93ecebde_n.jpg"
 ---
 
-{{< figure src="images/14926563402_2c93ecebde_n.jpg" alt="Plage de Copacabana" caption="Plage de Copacabana, 3800 m d'altitude.  Si si... Cliquez si vous ne me croyez pas." link="https://www.flickr.com/photos/goulu/14926563402/in/set-72157646439326956/" align="alignright" width="320" >}}
+[![Plage de Copacabana](images/14926563402_2c93ecebde_n.jpg "Plage de Copacabana, 3800 m d'altitude.  Si si... Cliquez si vous ne me croyez pas.")](https://www.flickr.com/photos/goulu/14926563402/in/set-72157646439326956/)
 
 Comme chaque année, les Goulus ont quitté leur habitat naturel pour explorer un autre coin de cette belle planète. Cette fois nous avons visité les Andes en passant trois semaines à plus de 3000 m d'altitude, en y montant avec le mythique "[train de Tintin](http://www.visitmyperu.com/le-train-entre-lima-et-huancayo/)" qui va en 12 heures de Lima (au bord de la mer) à Huancayo à 3250 m d'altitude en passant par un col situé à 4800 m, la hauteur du Mont-Blanc.
 
@@ -29,7 +29,7 @@ Si ça ne suffit pas à rétablir une oxygénation normale, le corps va commence
 
 Car rester longtemps en altitude, ce n'est pas bon du tout pour nous autres, humains des plaines. Selon une étude [[1]](#ref-1), c'est particulièrement net pour les femmes enceintes : au dessus d'environ 2500m elles souffrent fréquemment d'hypertension, d'hémorragies voire de [Pré-éclampsie](https://fr.wikipedia.org/wiki/Pré-éclampsie) et accouchent de bébés moins gros, souvent prématurément, et toutes ces complications résultent en [morts maternelles](https://fr.wikipedia.org/wiki/mort_maternelle) nettement plus fréquentes.
 
-{{< figure src="images/a4882fc13a497c57f4705ef33a62b66f.jpg" alt="Au sommet de l'Everest. Le sherpa a donné sa dernière bouteille d'oxygène à son client 900m plus bas ..." caption="Au sommet de l'Everest. Le sherpa a donné sa dernière bouteille d'oxygène à son client 900m plus bas ..." link="http://followtheclimb.blogspot.ch/2011/05/world-record-of-altitude-in-paragliding.html" align="alignright" width="344" >}}
+[![Au sommet de l'Everest. Le sherpa a donné sa dernière bouteille d'oxygène à son client 900m plus bas ...](images/a4882fc13a497c57f4705ef33a62b66f.jpg "Au sommet de l'Everest. Le sherpa a donné sa dernière bouteille d'oxygène à son client 900m plus bas ...")](http://followtheclimb.blogspot.ch/2011/05/world-record-of-altitude-in-paragliding.html)
 
 Pourtant il y a environ 140 millions d'humains qui vivent au dessus de 2500 m principalement dans l'Himalaya, les Andes et sur les hauts plateaux de l'Ethiopie qui ne souffrent pas de ces problèmes qui auraient pu empêcher leurs ancêtres d'occuper ces régions.
 

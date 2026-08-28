@@ -16,7 +16,7 @@ tags:
 coverImage: "2e0c010b810b68fc3aea91efcdb69bdb.jpg"
 ---
 
-{{< figure src="images/2e0c010b810b68fc3aea91efcdb69bdb.jpg" alt="Hans Rosling" caption="Hans Rosling" align="alignright" width="200" >}}
+![Hans Rosling](images/2e0c010b810b68fc3aea91efcdb69bdb.jpg "Hans Rosling")
 
 Hans Rosling a donné une conférence au [Département d'Etat](http://fr.wikipedia.org/wiki/D%C3%A9partement_d%27%C3%89tat_des_%C3%89tats-Unis) des USA, conférence [reprise au TED](http://www.ted.com/talks/hans_rosling_at_state.html) tellement passionnante que je l'ai traduite en français¹. Vous pouvez la voir [ici en choisissant les sous-titres en Français](http://dotsub.com/view/a85f347f-9b20-4096-a22d-b91efafc92ab) (Canada)² et attendant que ma traduction soit validée [au TED³.](http://www.ted.com/talks/hans_rosling_at_state.html) La v.o. est sur YouTube:
 

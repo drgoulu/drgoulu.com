@@ -23,7 +23,7 @@ _(Ajout du 9.12.2013_: comme le lien de téléchargement original ne fonctionne 
 
 Si j'en parle, c'est que j'ai le "high score" actuel : 68768\*. Voilà comment j'ai fait (spoiler alert ! essayez de faire mieux _avant_ de copier...) :
 
-{{< figure src="images/Capture.png" alt="Essayez de faire mieux... ou cliquez pour le film pour tricher" caption="Essayez de faire mieux... ou cliquez pour le film pour tricher" link=\"https://www.youtube.com/watch?v=fWkBvanJoz4\" align="aligncenter" width="622" >}}
+![Essayez de faire mieux... ou cliquez pour le film pour tricher](images/Capture.png "Essayez de faire mieux... ou cliquez pour le film pour tricher")
 
 Le début du jeu sert à observer et à comprendre le flux, mais j'ai remarqué que ce n'est pas du tout évident, alors voici quelques infos utiles :
 

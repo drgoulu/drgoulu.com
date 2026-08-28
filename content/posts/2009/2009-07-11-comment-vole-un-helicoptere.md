@@ -36,7 +36,7 @@ Ceci explique pourquoi les avions à décollage vertical n'ont que peu de succè
 
 Cependant, avec un grand rotor l'extrémité des pales se déplace très vite. Les pales de 16m du MI-26 atteindraient la vitesse du son (env 300 m/s) si le rotor tournait à 3 tours par seconde. Le problème est encore pire lorsque l'hélicoptère avance : d'un côté de l'hélicoptère la vitesse de la pale s'ajoute à celle du déplacement, et de l'autre côté la vitesse de déplacement se soustrait à la vitesse de la pale. Ce phénomène limite la vitesse des hélicoptères autour de 300 km/h, car à 500 km/h une pale irait à la vitesse du son lorsque la pale opposée serait à l'arrêt par rapport à l'air, ne générant aucune portance ...
 
-{{< figure src="images/43b464f6242883e850223e466c52434b.jpg" alt="Interaction Pale-Tourbillon : visualisation du coefficient de pression sur les pales et de la vorticite dans le sillage de la pale reculante" caption="Simulation numérique d'interaction Pale-Tourbillon, document ONERA (2)" link="http://www.onera.fr/daap/aerodynamique-helicoptere/numerique.php" align="aligncenter" width="380" >}}
+[![Interaction Pale-Tourbillon : visualisation du coefficient de pression sur les pales et de la vorticite dans le sillage de la pale reculante](images/43b464f6242883e850223e466c52434b.jpg "Simulation numérique d'interaction Pale-Tourbillon, document ONERA (2)")](http://www.onera.fr/daap/aerodynamique-helicoptere/numerique.php)
 
 C'est pourquoi les rotors des hélicoptères tournent à une vitesse constante. Le pilote ne contrôle pas la vitesse du rotor, mais uniquement l'incidence des pales via un [plateau cyclique](http://fr.wikipedia.org/wiki/Plateau_cyclique), l'un des plus élégants systèmes mécaniques que l'on puisse voir.
 

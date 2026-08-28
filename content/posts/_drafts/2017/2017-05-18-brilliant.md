@@ -13,7 +13,7 @@ draft: true
 ---
 Tombé par hasard sur [Brilliant.org](https://brilliant.org/) , un site pour apprendre plein de choses en s'amusant à résoudre des casse-tête sur toutes sortes de sujets. Il est en anglais, mais très accessible.
 
-{{< figure src="images/bb2325b25bf726a6455c8078a8cca0dfa25a7b7f.png" alt="dans quel arrosoir peut-on mettre le plus d'eau ?" caption="dans quel arrosoir peut-on mettre le plus d'eau ?" align="alignright" width="300" >}}
+![dans quel arrosoir peut-on mettre le plus d'eau ?](images/bb2325b25bf726a6455c8078a8cca0dfa25a7b7f.png "dans quel arrosoir peut-on mettre le plus d'eau ?")
 
 Parmi de nombreuses activités, une liste de problèmes de difficulté croissante est proposée chaque semaine. Le plus simple de cette semaine est celui ci-contre, pour vous faire une idée. Je le trouve bien car il demande de commencer par bien observer...
 

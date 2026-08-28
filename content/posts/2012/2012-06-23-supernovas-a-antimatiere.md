@@ -11,7 +11,7 @@ tags:
   - "supernova"
 ---
 
-{{< figure src="images/pls417-216x300.png" alt="pls417" caption="à lire absolument" link="http://www.pourlascience.fr/" align="alignright" width="216" >}}
+[![pls417](images/pls417-216x300.png "à lire absolument")](http://www.pourlascience.fr/)
 
 L'article ["Super-supernovae"](http://www.pourlascience.fr/ewb_pages/f/fiche-article-super-supernovae-29926.php) d'Avishay Gal-Yam dans le ["Pour la Science"](http://www.pourlascience.fr/ewb_pages/s/sommaire_pls.php?art_id=29947&num=417) de juillet [[1]](#ref-1) raconte la séquence de découvertes surprenantes déclanchées par l'étude attentive de quelques supernovas particulièrement violentes.
 

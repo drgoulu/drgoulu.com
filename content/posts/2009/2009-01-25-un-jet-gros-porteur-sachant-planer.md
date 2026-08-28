@@ -16,11 +16,11 @@ Combien de temps ? Quelle distance a-t-il parcouru ? Comment le pilote a-t-il pu
 
 Une des caractéristiques les plus importantes d'un planeur est sa "[finesse](https://fr.wikipedia.org/wiki/finesse_(aérodynamique))" : c'est le rapport entre la distance horizontale parcourue et l'altitude perdue, dans de l'air calme. La finesse est un optimum du "taux de chute" défini comme le rapport entre la vitesse de vol et la vitesse de chute, que l'on représente dans un diagramme "polaire des vitesses" qui dépend de la construction de l'aéroplane et notamment du profil aérodynamique de son aile
 
-{{< figure src="images/322d46e9abb4177dc5a142ef1bbcd03b.jpg" alt="polaire des vitesses dun planeur des années 1960" caption="polaire des vitesses d'un planeur des années 1960" link="http://richard.ferriere.free.fr/bijave/wa30.html" align="aligncenter" width="406" >}}
+[![polaire des vitesses dun planeur des années 1960](images/322d46e9abb4177dc5a142ef1bbcd03b.jpg "polaire des vitesses d'un planeur des années 1960")](http://richard.ferriere.free.fr/bijave/wa30.html)
 
 La polaire ci-dessus montre que ce planeur ne descend que de 0.8 m/s en volant à 75 km/h, soit un taux de chute d'environ 26, mais la tangente tracée depuis l'origine indique qu'en volant à 85 km/h, le vélivole pourra parcourir 27 km en descendant de 1000m. A remarquer que la finesse ne dépend pas de la charge alaire : un planeur alourdi par des ballasts d'eau voit sa polaire décalée vers les hautes vitesses : on obtient la même finesse, mais en volant plus vite
 
-{{< figure src="images/f0b3518ed56bb4e487c2b86a038eb958.jpg" alt="Polaire dun planeur moderne" caption="Polaire d'un planeur moderne" link="http://www.planeur-stflo.net/pages/vavplaneur/finesse.php" align="aligncenter" width="350" >}}
+[![Polaire dun planeur moderne](images/f0b3518ed56bb4e487c2b86a038eb958.jpg "Polaire d'un planeur moderne")](http://www.planeur-stflo.net/pages/vavplaneur/finesse.php)
 
 Pour un lourd gros porteur, on peut donc s'attendre à ce que la vitesse optimale soit élevée. Lors de l'incident du "[Planeur de Gimli](https://fr.wikipedia.org/wiki/Planeur_de_Gimli)", un Boing 767 tombé en panne sèche en plein vol en 1983, le pilote avait trouvé expérimentalement que la vitesse optimale se situait autour de 400 km/h, et avait obtenu de son zinc une finesse proche de 12, soit l'équivalent d'un bon parapente actuel.
 

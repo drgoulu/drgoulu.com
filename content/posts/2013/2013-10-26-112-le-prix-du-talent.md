@@ -16,7 +16,7 @@ L'[initiative 1:12](http://www.admin.ch/ch/f/pore/vi/vis375.html) est extrémis
 
 Le [coefficient de Gini](https://fr.wikipedia.org/wiki/coefficient_de_Gini) mesure bien mieux les inégalités car il tient compte de tous les revenus, et c'est lui qui est utilisé pour les comparaisons internationales. Pour la Suisse il vaut 0.29 après impôts et prélèvements obligatoires, et 0.34 avant, ce qui est étonnamment faible.
 
-{{< figure src="images/1eeee73a4dceb35a25c0c3b2367d84e4.png" alt="2012-07-13_194659" caption="source OCDE \[2.A, p.11\] (cliquer pour accéder au document original)" link="http://www.oecd.org/fr/social/soc/49177707.pdf" align="aligncenter" width="640" >}}Selon le dernier rapport de l'OCDE sur les inégalités \[1, p.9\]:
+[![2012-07-13_194659](images/1eeee73a4dceb35a25c0c3b2367d84e4.png "source OCDE \[2.A, p.11\] (cliquer pour accéder au document original)")](http://www.oecd.org/fr/social/soc/49177707.pdf)Selon le dernier rapport de l'OCDE sur les inégalités \[1, p.9\]:
 
 > Les pays nordiques et la Suisse se caractérisent par une inégalité des revenus disponibles inférieure à la moyenne grâce à une faible disparité des salaires, en particulier au sommet de l’échelle.
 

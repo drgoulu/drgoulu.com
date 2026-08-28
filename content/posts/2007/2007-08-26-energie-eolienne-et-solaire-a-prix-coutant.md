@@ -27,7 +27,7 @@ Le problème n'est pas qu'elles ne tourneront pas, mais qu'elles produiront de l
 
 Le problème n'est pas très différent pour le solaire :
 
-{{< figure src="images/EU-Glob_opta_presentation.png" alt="carte du rendement photovoltaïque en Europe" caption="carte du rendement photovoltaïque en Europe" link="http://re.jrc.ec.europa.eu/pvgis/countries/countries-europe.htm" align="aligncenter" width="640" >}}
+[![carte du rendement photovoltaïque en Europe](images/EU-Glob_opta_presentation.png "carte du rendement photovoltaïque en Europe")](http://re.jrc.ec.europa.eu/pvgis/countries/countries-europe.htm)
 
 le solaire marche, mais 60% moins bien sur le Plateau qu'en Provence.
 

@@ -31,7 +31,7 @@ Mais comment obtenir une distribution statistique réaliste de salaires à parti
 
 Selon les [données de Travail Suisse](http://www.travailsuisse.ch/system/uploadedfile4s/3037/original/2014_06_23_Managerloehne_Beilagen_f.pdf?1403509913), les salaires à l'UBS par exemple s'échelonnent entre CHF 50'000 et CHF 11'430'000. Selon la page 332 du [Rapport d'Activité 2013 de l'UBS](http://www.ubs.com/global/en/about_ubs/investor_relations/annualreporting/2013/_jcr_content/par/teaserbox_6c86/teaser_acb3/linklist/link_9f50.1705024293.file/bGluay9wYXRoPS9jb250ZW50L2RhbS9zdGF0aWMvZ2xvYmFsL2ludmVzdG9yX3JlbGF0aW9ucy9hbm51YWwyMDEzL0FSMjAxMy1lbi5wZGY=/AR2013-en.pdf), l'UBS a payé au total 15.182 milliards de francs à 60205 employés, soit CHF 252'171 par employé en moyenne.
 
-{{< figure src="images/UBS_Burr.png" alt="Loi de Burr fittée sur les salaires de l'UBS" caption="Loi de Burr fittée sur les salaires de l'UBS" link="/wp-content/uploads/2014/07/UBS_Burr.png" align="aligncenter" width="380" >}}
+[![Loi de Burr fittée sur les salaires de l'UBS](images/UBS_Burr.png "Loi de Burr fittée sur les salaires de l'UBS")](/wp-content/uploads/2014/07/UBS_Burr.png)
 
 Même en tenant compte d'environ 15% de charges sociales payées par l'employeur en Suisse, cette moyenne est proche du double du salaire médian des employés des grandes banques suisses, qui est de CHF 110'000 en tenant compte des bonus, selon [ce document de l'ASEB](http://www.aseb.ch/fileadmin/user_upload/Themen/Loehne/Lohnumfrage/ASEB_Enquete-2013-sur-les-salaires-des-employes-de-banque.pdf) (p. 12)
 

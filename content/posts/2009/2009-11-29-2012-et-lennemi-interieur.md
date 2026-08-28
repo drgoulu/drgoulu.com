@@ -13,7 +13,7 @@ tags:
 coverImage: "8fa58f898c273fb172935b26de4e6aa21.gif"
 ---
 
-{{< figure src="images/8fa58f898c273fb172935b26de4e6aa2.gif" alt="article0105-astrologie-2012" caption="Astromachin de 2012. Cliquez dessus pour un ramassis d'absurdités, si vous y tenez vraiment..." link="http://www.jupitair.org/articles_gany54.htm" align="alignright" width="245" >}}
+[![article0105-astrologie-2012](images/8fa58f898c273fb172935b26de4e6aa2.gif "Astromachin de 2012. Cliquez dessus pour un ramassis d'absurdités, si vous y tenez vraiment...")](http://www.jupitair.org/articles_gany54.htm)
 
 D'après la [liste de prédictions de la fin du monde de la Wikipedia](http://fr.wikipedia.org/wiki/Liste_de_pr%C3%A9dictions_de_la_fin_du_monde), nous échappons à la fureur divine ou à un cataclysme cosmique définitif en moyenne tous les 3 ans. Mais en [2012](http://fr.wikipedia.org/wiki/Fin_du_monde_en_2012), c'est du sérieux. Rendez-vous compte : le calendrier Maya arrive à échéance ! Ca vaut bien un film hollywoodesque et un buzz planétaire, non ?
 

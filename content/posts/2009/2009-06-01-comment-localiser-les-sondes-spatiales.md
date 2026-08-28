@@ -20,7 +20,7 @@ Dans les deux autres direction requises pour obtenir une position dans l'espace,
 
 La précision du positionnement peut encore être améliorée en tenant compte de [l'attraction des corps](/2008/11/16/le-probleme-a-n-corps/) célestes : en observant l'orbite de Cassini dans le système de Saturne, la position de la sonde est connue à moins d'1 km près, ce qui n'est pas mal si l'on considère qu'elle est à plus d'un milliard de kilomètres d'ici.
 
-{{< figure src="images/00215804ecc0102f0e333984c4c7439c.png" alt="position des 4 sondes ayant dépassé lorbite de Pluton" caption="position des 4 sondes ayant dépassé l" link="http://www.heavens-above.com/SolarEscape.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=CET" align="aligncenter" width="400" >}}
+[![position des 4 sondes ayant dépassé lorbite de Pluton](images/00215804ecc0102f0e333984c4c7439c.png "position des 4 sondes ayant dépassé l")](http://www.heavens-above.com/SolarEscape.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=CET)
 
 ### Vers un GPS galactique
 

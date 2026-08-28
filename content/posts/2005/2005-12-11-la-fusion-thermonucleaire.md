@@ -66,7 +66,7 @@ Dans une étoile flottant librement dans l'espace, la zone de fusion est de form
 
 Sur Terre il faut créer un "isolant" capable de maintenir un plasma de gaz à plusieurs millions de degrés, si possible sous "pression", à quelques mètres de matériaux qui n'en supportent pas plus de quelques centaines. Il faut accessoirement chauffer ce plasma jusqu'à ce que la réaction s'amorce sans pouvoir rien "tremper" dedans, et trouver un moyen de faire revenir dans la zone de fusion des noyaux rapides qui ne pensent qu'à s'en écarter...
 
-{{< figure src="images/4327d33055d8e6632a06cc07491be23c.jpg" alt="Un tokamak avec un monsieur dedans pour donner l'échelle..." caption="Un tokamak avec un monsieur dedans pour donner l'échelle..." align="aligncenter" width="400" >}}
+![Un tokamak avec un monsieur dedans pour donner l'échelle...](images/4327d33055d8e6632a06cc07491be23c.jpg "Un tokamak avec un monsieur dedans pour donner l'échelle...")
 
 Les "tokamaks" actuels et le futur ITER confinent le plasma en forme de tore (="pneu") à l'aide de très puissants champs magnétiques dont les lignes de champ fermées permettent de satisfaire le cahier des charges ci-dessus, mais encore une fois de manière très différente de ce qui se passe dans les étoiles.
 

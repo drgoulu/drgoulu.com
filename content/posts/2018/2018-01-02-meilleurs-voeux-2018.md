@@ -48,4 +48,4 @@ Voilà, cet article parle surtout de moi, désolé, mais je ne l'aurais pas écr
 
 # Bonne Année Curieuse à tous !
 
-{{< figure src="images/25541817868_12daa63ef3_z_d.jpg" alt="Belle photo de Max Guitare sur flickr en CC (merci!)" caption="Belle photo de Max Guitare sur flickr en CC (merci!)" link="https://www.flickr.com/photos/maxguitare/25541817868/" align="aligncenter" width="420" >}}
+[![Belle photo de Max Guitare sur flickr en CC (merci!)](images/25541817868_12daa63ef3_z_d.jpg "Belle photo de Max Guitare sur flickr en CC (merci!)")](https://www.flickr.com/photos/maxguitare/25541817868/)

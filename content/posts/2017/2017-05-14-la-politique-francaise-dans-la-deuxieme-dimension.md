@@ -12,7 +12,7 @@ tags:
 coverImage: "macron-lepen.jpg"
 ---
 
-{{< figure src="images/macron-lepen.jpg" alt="Et si la photo allait dans ce sens ?" caption="Et si la photo allait dans ce sens ?" align="alignright" width="240" >}}
+![Et si la photo allait dans ce sens ?](images/macron-lepen.jpg "Et si la photo allait dans ce sens ?")
 
 Parmi les questions que je me suis posées lors du traditionnel raout quinquennal de mes voisins français, il en est une qui me turlupine d'autant plus que je n'ai pas trouvé les données permettant d'y répondre : se pourrait-il que l'axe "libéral / conservateur" \* soit devenu prépondérant par rapport au traditionnel "gauche / droite ?"
 
@@ -44,7 +44,7 @@ Smartvote réduit donc le nombres de dimensions de N à 2 , en utilisant une m�
 
 Autrement dit, les deux axes sont déterminés automatiquement à partir de réponses à des questions qui ne doivent pas être positionnées a priori sur ces axes !
 
-{{< figure src="images/smartmap-vd-2017-1.png" alt="smartmap des candidats au Grand Conseil Vaudois 2017, colorés par parti" caption="smartmap des candidats au Grand Conseil Vaudois 2017, colorés par parti" link="https://www.smartvote.ch/17_vd_leg/smartmap/candidates" align="alignright" width="400" >}}
+[![smartmap des candidats au Grand Conseil Vaudois 2017, colorés par parti](images/smartmap-vd-2017-1.png "smartmap des candidats au Grand Conseil Vaudois 2017, colorés par parti")](https://www.smartvote.ch/17_vd_leg/smartmap/candidates)
 
 Outre la correspondance électeur/candidat déjà mentionnée, il devient possible :
 

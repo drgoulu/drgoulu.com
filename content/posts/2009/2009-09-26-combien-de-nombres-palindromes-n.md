@@ -12,7 +12,7 @@ tags:
 
 Les problèmes du [Project Euler](/2009/02/23/project_euler/) devenant vraiment très ardus, j'ai été content de trouver [ici](http://delphi.about.com/od/delphichallengesexercises/qt/delphi-palindromic-numbers.htm) un petit challenge intéressant : déterminer rapidement le nombre de nombres palindromes inférieurs à un maximum donné.
 
-{{< figure src="images/37b10823a4bb4b9808e544fa55dc514d.gif" alt="17371, un nombre palindrome" caption="un nombre palindrome" align="alignright" width="148" >}}
+![17371, un nombre palindrome](images/37b10823a4bb4b9808e544fa55dc514d.gif "un nombre palindrome")
 
 Un [nombre palindrome](https://fr.wikipedia.org/wiki/nombre_palindrome) se lit indifféremment de gauche à droite ou de droite à gauche, comme 1234321 ou 567765. Outre leur aspect esthétique, ces nombres ont aussi des [propriétés étonnantes](/2008/09/14/palindrome-de-196/).
 

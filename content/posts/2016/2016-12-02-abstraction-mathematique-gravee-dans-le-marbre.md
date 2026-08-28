@@ -36,7 +36,7 @@ Toutes ces choses semblent donc connectées dans le monde abstrait des mathémat
 
 J'ai alors cherché des pistes sur [MathOverflow](http://mathoverflow.net/), un site de questions/réponses souvent pointues. Je n'y ai trouvé qu'une seule référence à Urs Würgler dans la seule et unique réponse à une question intitulée "[Morava K(n)'s are not E∞](http://mathoverflow.net/questions/179204/morava-kns-are-not-e-infty)" qui se réfère à un autre de ses articles [[2]](#ref-2).
 
-{{< figure src="images/3GhY8.jpg" alt="Une figure ayant un très lointain rapport avec la K-theorie de Morava" caption="Une figure ayant un très lointain rapport avec la K-theorie de Morava" link="http://mathoverflow.net/questions/146139/what-is-known-about-the-sum-xn2-n" align="alignright" width="420" >}}
+[![Une figure ayant un très lointain rapport avec la K-theorie de Morava](images/3GhY8.jpg "Une figure ayant un très lointain rapport avec la K-theorie de Morava")](http://mathoverflow.net/questions/146139/what-is-known-about-the-sum-xn2-n)
 
 On trouve aussi sur MathOverflow une [cinquantaine de questions relatives à la K-theorie de Morava](http://mathoverflow.net/search?q=Morava+K-theory), mais elles n'ont qu'une réponse, voire moins ce qui confirme qu'il s'agit là d'un domaine très très pointu...
 

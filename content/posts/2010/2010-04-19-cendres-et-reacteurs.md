@@ -15,7 +15,7 @@ A froid, j'imaginais que la cendre abraserait les pales des réacteurs légèrem
 
 Et puis j'ai lu quelque par que des F/A-18 de l'armée finlandaise avaient été très abimés la semaine passée. Une petite recherche mène à [ces infos en anglais](http://www.flightglobal.com/articles/2010/04/16/340727/pictures-finnish-f-18-engine-check-reveals-effects-of-volcanic.html) illustrées par la photo\* ci-dessous:
 
-{{< figure src="images/553a44242f0af401eca7123bd72b1ee6.jpg" alt="cendre volcanique islandaise fondue dans un réacteur finlandais" caption="cendre volcanique islandaise fondue dans un réacteur finlandais" align="aligncenter" width="445" >}}
+![cendre volcanique islandaise fondue dans un réacteur finlandais](images/553a44242f0af401eca7123bd72b1ee6.jpg "cendre volcanique islandaise fondue dans un réacteur finlandais")
 
 La cendre ne fait pas qu'user les pales de la turbine, elle peut y fondre dans le réacteur et s'y re-solidifier!  Sur [ce forum](http://www.ailesquebecoises.com/viewtopic.php?p=117765&sid=d8b7833eee2e4fe189701f7812de3df0), quelqu'un qui a l'air de s'y connaitre explique:
 
@@ -27,7 +27,7 @@ La cendre ne fait pas qu'user les pales de la turbine, elle peut y fondre dans l
 
 Le pare-brise dont il est question est probablement celui du [vol KLM 867](http://en.wikipedia.org/wiki/KLM_Flight_867) d'Amsterdam vers le Japon via Anchorage, qui s'est retrouvé dans le nuage du volcan Redoubt en Alaska en 1989 :
 
-{{< figure src="images/7d9d317d553be4a0e3ba3469b4cad884.jpg" alt="Pare-brise" caption="Pare-brise" link="http://gsc.nrcan.gc.ca/volcanoes/haz_f.php" align="aligncenter" width="430" >}}
+[![Pare-brise](images/7d9d317d553be4a0e3ba3469b4cad884.jpg "Pare-brise")](http://gsc.nrcan.gc.ca/volcanoes/haz_f.php)
 
 La réparation de ce Boeing 747, y compris le remplacement de ses 4 moteurs, a coûté plus de 80 millions de $ ...
 

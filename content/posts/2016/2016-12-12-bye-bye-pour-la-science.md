@@ -9,7 +9,7 @@ tags:
   - "pour-la-science"
 ---
 
-{{< figure src="images/A70538F8-18C1-45B6-84E57E55E7AA1401_cover.jpg" alt="Mon nouveau mensuel. Un point de francophonie en moins, mais au moins je le reçois..." caption="Mon nouveau mensuel. Un point de francophonie en moins, mais au moins je le reçois..." align="alignright" width="234" >}}
+![Mon nouveau mensuel. Un point de francophonie en moins, mais au moins je le reçois...](images/A70538F8-18C1-45B6-84E57E55E7AA1401_cover.jpg "Mon nouveau mensuel. Un point de francophonie en moins, mais au moins je le reçois...")
 
 > Il n'y a qu'un patron : le client. Et il peut licencier tout le personnel, depuis le directeur jusqu'à l'employé, tout simplement en allant dépenser son argent ailleurs. ([Sam Walton](https://fr.wikipedia.org/wiki/Sam_Walton))
 

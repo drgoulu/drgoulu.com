@@ -36,7 +36,7 @@ On voit qu'on ne gagne que quelques pourcents de décimales. Mais on peut aller 
 
 ## Les séquences de De Bruijn
 
-{{< figure src="images/88eb6be30fefb30da8faea1b72e11f69.png" alt="Une tresse de De Bruijn" caption="Une tresse de De Bruijn" link="images/88eb6be30fefb30da8faea1b72e11f69.png" align="alignright" width="140" >}}
+[![Une tresse de De Bruijn](images/88eb6be30fefb30da8faea1b72e11f69.png "Une tresse de De Bruijn")](images/88eb6be30fefb30da8faea1b72e11f69.png)
 
 Mais d'abord, est-ce bien malin de fabriquer un nombre univers compact en concaténant des entiers consécutifs ? Peut-on fabriquer une séquence contenant chaque nombre de n décimales et qui soit nettement plus compacte que l'énumération ? [Jean-Paul Alllouche](https://fr.wikipedia.org/wiki/Jean-Paul_Alllouche) m'a gentiment indiqué qu'une [suite de de Bruijn](https://fr.wikipedia.org/wiki/suite_de_de_Bruijn) (SDB) fait exactement ça, et même très bien puisque chaque nombre de n chiffres en base b n'est présent qu'une seule fois dans la séquence B(b,n). La [page Wikipédia sur les SDB (en anglais)](https://en.wikipedia.org/wiki/De_Bruijn_sequence) pointe sur un site étonnant : le "[Combinatorial Object Server](http://theory.cs.uvic.ca/cos.html)" qui comporte entre autres outils un [générateur de SDB](http://theory.cs.uvic.ca/gen/neck.html) permettant de générer très rapidement par exemple :
 

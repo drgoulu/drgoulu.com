@@ -28,7 +28,7 @@ Les premières tentatives de détection directe datent de la fin des années 196
 
 Pas mieux pour l'instant pour l'[interféromètre VIRGO](https://fr.wikipedia.org/wiki/interféromètre_VIRGO), [LIGO](https://fr.wikipedia.org/wiki/LIGO), [GEO 600](https://fr.wikipedia.org/wiki/GEO_600) et les autres détecteurs géants basés sur l'interférométrie. L'idée est de comparer les distances parcourues par deux faisceaux lasers sur plusieurs kilomètres dans des directions distinctes. Quand une onde gravitationnelle passe par là, elle modifie la distance parcourue par l'un des lasers d'un pouillème de nanomètre par rapport à l'autre.
 
-{{< figure src="images/1b34ee2f2e2e7d881980ef8ee308f8af.jpg" alt="LIGO, c'est grand : chaque bras fait 4 km de long, et il y a un autre interféromètre à 3000 km de là pour trianguler la source..." caption="LIGO, c'est grand : chaque bras fait 4 km de long, et il y a un autre interféromètre à 3000 km de là pour trianguler la source..." align="aligncenter" width="614" >}}
+![LIGO, c'est grand : chaque bras fait 4 km de long, et il y a un autre interféromètre à 3000 km de là pour trianguler la source...](images/1b34ee2f2e2e7d881980ef8ee308f8af.jpg "LIGO, c'est grand : chaque bras fait 4 km de long, et il y a un autre interféromètre à 3000 km de là pour trianguler la source...")
 
 Ne reste plus alors qu'à isoler cette mesure des variations thermiques, des ondes sismiques, de celles produites par les collaborateurs et les scarabées du désert qui crapahutent à côté du détecteur... Comme on n'y est pas parvenu, l'idée est désormais de faire tout ça dans l'espace avec le  [projet NGO, anciennement LISA](https://fr.wikipedia.org/wiki/New_Gravitational_wave_Observer). Lancement prévu en 2020.
 
@@ -36,7 +36,7 @@ Ne reste plus alors qu'à isoler cette mesure des variations thermiques, des ond
 
 D'après Einstein, un tel système devrait émettre des ondes gravitationnelles très puissantes "en spirale" comme dans le dessin ci-contre. Si c'est bien le cas, le signal radio émis par le pulsar avec une régularité extrême doit arriver un peu décalé dans le temps suivant la configuration des ondes gravitationnelles. Hulse et Taylor vérifient : gagné ! En 1993, ils reçoivent le prix Nobel de physique pour la première détection d'ondes gravitationnelles.
 
-{{< figure src="images/800px-PSR_B1913+16_period_shift_graph.svg.png" alt="accélération de la période de PSR B1913+16 sur 30 ans. Prévision en bleu, mesures en rouge" caption="accélération de la période de PSR B1913+16 sur 30 ans. Prévision en bleu, mesures en rouge" link="https://fr.wikipedia.org/wiki/PSR_B1913%2B16#" align="alignleft" width="300" >}}
+[![accélération de la période de PSR B1913+16 sur 30 ans. Prévision en bleu, mesures en rouge](images/800px-PSR_B1913+16_period_shift_graph.svg.png "accélération de la période de PSR B1913+16 sur 30 ans. Prévision en bleu, mesures en rouge")](https://fr.wikipedia.org/wiki/PSR_B1913%2B16#)
 
 De plus, selon Albert les ondes gravitationnelles emportent de l'énergie au loin, donc un astre en orbite perd peu à peu de l'énergie et "tombe" en orbitant plus vite, donc en émettant encore plus d'ondes gravitationnelles, ce qui le ralentit encore plus jusqu'à la catastrophe. Et c'est exactement ce que l'on mesure depuis 40 ans sur PSR B1913+16.
 

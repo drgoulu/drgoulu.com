@@ -66,7 +66,7 @@ J'aimerais vous apporter une autre preuve que les mathématiques ne sont que des
 
 J'écoutais une conversation entre deux filles, et l'une expliquait que si vous voulez faire une ligne droite, voyez-vous, vous vous déplacez d'un certain nombre de carreaux vers la droite pour chaque ligne de carreaux que vous traversez, ou autrement dit, si vous répétez le même déplacement vers la droite pour chaque ligne vers le haut, vous faites une ligne droite. Un grand principe de géométrie analytique ! J'était stupéfait. Je n'avais pas réalisé que l'esprit féminin était capable de comprendre la géométrie analytique.\*
 
-{{< figure src="images/92bc1f747296c8b698790fb3c424c13f.jpg" alt=") Application de la géométrie analytique" caption=") Application de la géométrie analytique" link="https://en.wikipedia.org/wiki/Argyle_(pattern" align="alignright" width="259" >}}
+[![) Application de la géométrie analytique](images/92bc1f747296c8b698790fb3c424c13f.jpg ") Application de la géométrie analytique")](https://en.wikipedia.org/wiki/Argyle_(pattern)
 
 Elle continua en disant "Suppose que tu as une autre ligne venant d'une autre direction et que tu cherches où elles vont se croiser. Suppose qu'une ligne va 2 à droite pour 1 en haut, et que l'autre va 3 à droite pour 1 en haut et qu'elles commencent à 20 lignes d'écart." etc. J'étais époustouflé. Elle arriva à dire où l'intersection se produisait. Et puis je compris qu'elle expliquait à l'autre comment tricoter des bas "[argyle](https://en.wikipedia.org/wiki/Argyle_\(pattern\))".
 
@@ -106,7 +106,7 @@ Afin de pouvoir nous parler, nous devons avoir des mots et c'est bien ainsi. C'e
 
 Pour rendre ce point encore plus clair, je vais critiquer défavorablement certains livres de science, ce qui n'est pas très juste car avec un peu d'ingéniosité je peux aussi trouver des aspects défavorables aux autres. Il y a un manuel de science qui, à la première leçon du niveau primaire commence de manière malheureuse à enseigner la science parce qu'il part d'une fausse idée de ce qu'est la science.  On y trouve le dessin d'un chien, un chien jouet mécanique, et une main près du remontoir, puis le chien bouge. Sous le dernier dessin il est écrit "Qu'est-ce qui le fait bouger ?". Puis il y a l'image d'un vrai chien avec la légende "Qu'est-ce qui le fait bouger ?", puis l'image d'une moto avec la question "Qu'est-ce qui le fait bouger ?" et ainsi de suite.
 
-{{< figure src="images/cdb195a132f409c438666dbb9e3e6281.jpg" alt="Qu'est-ce qui le fait bouger ?" caption="Qu'est-ce qui le fait bouger ?" align="alignright" width="300" >}}
+![Qu'est-ce qui le fait bouger ?](images/cdb195a132f409c438666dbb9e3e6281.jpg "Qu'est-ce qui le fait bouger ?")
 
 Au début j'ai pensé qu'ils se préparaient à dire ce que concerne la science : la physique, la biologie, la chimie, mais ce n'était pas ça. La réponse était dans l'édition de l'enseignant et la réponse qu'il fallait apprendre était "L'énergie le fait bouger."
 
