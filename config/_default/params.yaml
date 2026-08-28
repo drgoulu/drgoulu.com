@@ -4,7 +4,7 @@ hugoblox:
     name: Dr. Goulu
     type: person
     tagline: Pourquoi Comment Combien
-    description: ""
+    description: le blog du Dr. Goulu, tombé dans la science quand j'étais petit
   theme:
     mode: system
     pack: contrast
@@ -14,7 +14,7 @@ hugoblox:
       neutral: ""
   typography:
     font: sans
-    size: lg
+    size: md
   layout:
     radius: md
     spacing: comfortable
