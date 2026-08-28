@@ -11,7 +11,9 @@ tags:
 coverImage: "31145bf2021633c272c1f50163011983.jpg"
 ---
 
-![](images/31145bf2021633c272c1f50163011983.jpg)Le ressort spiral est utilisé en horlogerie pour entrainer le balancier dans un sens, puis dans l'autre le plus régulièrement possible. J'ai fait le petit raisonnement suivant suite à la demande d'un client qui me demandait de calculer un tel ressort, capable de s'enrouler sur un tour complet.
+{{< figure src="images/31145bf2021633c272c1f50163011983.jpg" >}}
+
+Le ressort spiral est utilisé en horlogerie pour entrainer le balancier dans un sens, puis dans l'autre le plus régulièrement possible. J'ai fait le petit raisonnement suivant suite à la demande d'un client qui me demandait de calculer un tel ressort, capable de s'enrouler sur un tour complet.
 
 Un ressort spiral peut être calculé "à la main" assez facilement à l'aide des 2 formules suivantes:
 

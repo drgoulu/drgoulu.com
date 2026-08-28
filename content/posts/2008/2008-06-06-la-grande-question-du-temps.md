@@ -13,7 +13,7 @@ tags:
 coverImage: "0f6551a2b725cf5aff440b54b767ca4a.jpg"
 ---
 
-{{< figure src="images/adf871d124dba234f4afb0f80ebbb26f.jpg" alt="Big Bang par ToniVC sur flickr" caption="&quot;Big Bang&quot; par ToniVC sur flickr" link="http://www.flickr.com/photos/tonivc/835288945/" align="alignright" width="240" >}}
+{{< figure src="images/adf871d124dba234f4afb0f80ebbb26f.jpg" alt="Big Bang par ToniVC sur flickr" caption="&quot;Big Bang&quot; par ToniVC sur flickr" link="http://www.flickr.com/photos/tonivc/835288945/" width="240" >}}
 
 Dès que l'on parle du [Big Bang à l'origine de l'Univers](/2008/05/30/le-big-bang-en-une-image/), la première question qui se pose est "qu'y avait-il avant ?". C'est la Grande Question du Temps. La réponse de la physique actuelle est "la question n'a pas de sens". Dans cet article, je vais tenter de montrer que ce n'est de loin pas une façon de contourner la difficulté de la question.
 

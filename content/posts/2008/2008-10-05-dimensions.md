@@ -12,7 +12,9 @@ tags:
 coverImage: "COVER_S.jpg"
 ---
 
-![](images/COVER_S.jpg)"[Dimensions](http://www.dimensions-math.org/Dim_fr.htm)" est un film sur la géométrie et en particulier sur la notion clé de dimension.
+{{< figure src="images/COVER_S.jpg" >}}
+
+"[Dimensions](http://www.dimensions-math.org/Dim_fr.htm)" est un film sur la géométrie et en particulier sur la notion clé de dimension.
 
 Diffusé sous licence "Creative Commons" et donc disponible gratuitement, vous pouvez soit le [télécharger](http://www.dimensions-math.org/Dim_download.htm) soit le regarder directement [en ligne](http://www.dimensions-math.org/Dim_regarder.htm).
 

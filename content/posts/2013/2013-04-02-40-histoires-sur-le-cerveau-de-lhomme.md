@@ -10,9 +10,7 @@ tags:
 coverImage: "39d9cec63b590c080d06cca8e5fafba4-1.jpg"
 ---
 
-[![Pourquoi les filles sont si bonnes en maths](images/39d9cec63b590c080d06cca8e5fafba4.jpg "View this title in Open Library")](http://openlibrary.org/books/OL25424458M/Pourquoi_les_filles_sont_si_bonnes_en_maths)
-
- 
+{{< figure src="images/39d9cec63b590c080d06cca8e5fafba4.jpg" alt="Pourquoi les filles sont si bonnes en maths" link="http://openlibrary.org/books/OL25424458M/Pourquoi_les_filles_sont_si_bonnes_en_maths" >}}
 
 L'excellent livre du neurologue Laurent Cohen que je viens de dévorer s'appelle en fait  "Pourquoi les filles sont si bonnes en maths: et 40 autres histoires sur le cerveau de l'homme" [[1]](#ref-1), mais le seul reproche que je lui ferai concerne justement ce titre marketing qui dénature l'une des 40 histoires intitulé "Les filles (ne) sont (pas) nulles en maths".
 

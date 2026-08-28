@@ -8,9 +8,12 @@ tags:
   - "cafe"
   - "graphes"
   - "internet"
+coverImage: "e146452c7467eadd3c306375a04e9aad.png"
 ---
 
-[![](images/e146452c7467eadd3c306375a04e9aad.png)](http://www.cafe-sciences.org)[Paul Erdös](http://fr.wikipedia.org/wiki/Paul_Erd%C5%91s) a établi un lien indiscutable entre le café et la Science : _Un mathématicien est une machine à transformer le café en théorèmes._ . D'autres auteurs ont reconnu les vertus du précieux nectar dans des domaines intellectuels variés, notamment : "_Le café, c'est amer et ça donne envie de faire pipi, mais ça empêche de dormir alors on peut programmer plus longtemps_" (moi).
+{{< figure src="images/e146452c7467eadd3c306375a04e9aad.png" link="http://www.cafe-sciences.org" >}}
+
+[Paul Erdös](http://fr.wikipedia.org/wiki/Paul_Erd%C5%91s) a établi un lien indiscutable entre le café et la Science : _Un mathématicien est une machine à transformer le café en théorèmes._ . D'autres auteurs ont reconnu les vertus du précieux nectar dans des domaines intellectuels variés, notamment : "_Le café, c'est amer et ça donne envie de faire pipi, mais ça empêche de dormir alors on peut programmer plus longtemps_" (moi).
 
 Je suis donc très honoré que ce blog ait été accepté comme membre du [C@fé des Sciences](http://www.cafe-sciences.org), la communauté des blogs scientifiques en français. Le C@fé est accessible depuis Dr. Goulu grâce à une icône sous "Sites liés" dans la colonne de gauche, et les titres des derniers articles des membres de la communauté sont repris dans un flux RSS juste en dessous.
 

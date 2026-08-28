@@ -10,6 +10,7 @@ tags:
   - "foils"
   - "histoire"
   - "voile"
+coverImage: "828ab78b2979a255a1efb658d3b45411.jpg"
 ---
 
 Le mensuel [Voile & Voiliers](http://www.voilesetvoiliers.com) fête ses 40 ans avec un numéro en grande partie consacré aux "voiliers volants", ces engins ultra-rapides qui se soulèvent hors de l'eau sur des hydrofoils sous la seule force du vent.

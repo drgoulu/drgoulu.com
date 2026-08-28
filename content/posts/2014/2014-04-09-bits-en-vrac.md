@@ -31,7 +31,7 @@ Le [quiz sur les poissons d'avril](/2014/03/31/poisson-davril-ou-pas/ "Poisson 
     {{< figure src="images/googleform1.png" alt="Table des résultats" caption="Table des résultats" align="aligncenter" width="480" >}}
     
     Ce que j'ai trouvé assez impressionnant est que l'on peut modifier le tableau sans perturber les votes suivants. Apparemment chaque champ du formulaire est attaché à une colonne par un lien invisible, mais solide : même si on ajoute ou déplace des colonnes, les réponses suivantes restent cohérentes avec les réponses précédentes. Pour le quiz, j'ai ajouté la ligne 2 avec les bonnes réponses ainsi que la colonne D Score. Notez au passage la  géniale formule qui compte le nombre de réponses correctes avec [arrayformula](https://support.google.com/drive/answer/71291?hl=fr) et sumproduct. Elle n'est pas de moi, et il parait qu'elle est possible aussi en Excel...
-6. {{< figure src="images/stats.png" alt="stats" caption="résumé des réponses" align="alignright" width="300" >}}
+6. {{< figure src="images/stats.png" alt="stats" caption="résumé des réponses" width="300" >}}
     
     Une petite dernière pour la route : dans le menu "Formulaire" on peut "afficher le résumé des réponses" qui présente les résultats sous une forme graphique qui peut être bien utile.
 

@@ -12,7 +12,9 @@ tags:
 coverImage: "618a24113aafda4bb6446d982c21697f.jpg"
 ---
 
-![](images/0d7c5814b183ceeeb150d62d94448609.gif)Le 20 juillet 1969, j'avais 5 ans et mes parents m'ont exceptionnellement permis de rester debout pour suivre l'alunissage d'Apollo 11 et les premiers pas d'Armstrong  et Aldrin sur la Lune. Ces images restent d'autant plus gravées dans ma mémoire qu'à l'époque, mon avenir était tout tracé : je serai astronaute!
+{{< figure src="images/0d7c5814b183ceeeb150d62d94448609.gif" >}}
+
+Le 20 juillet 1969, j'avais 5 ans et mes parents m'ont exceptionnellement permis de rester debout pour suivre l'alunissage d'Apollo 11 et les premiers pas d'Armstrong  et Aldrin sur la Lune. Ces images restent d'autant plus gravées dans ma mémoire qu'à l'époque, mon avenir était tout tracé : je serai astronaute!
 
 Les choses étaient claires : au rythme où la conquête spatiale avançait dans les années 1960, on irait en vacances sur la Lune en 2000 après avoir pris un vol stratosphérique Genève-Miami si on avait les moyens de ne pas se trainer en Concorde... Finalement, "astronaute" allait devenir une profession trop commune, alors j'ai laissé [Claude Nicollier](https://fr.wikipedia.org/wiki/Claude_Nicollier) devenir le premier astronaute suisse.
 

@@ -8,11 +8,10 @@ tags:
   - "humour"
   - "livres"
   - "science"
+coverImage: "7417007-L.jpg"
 ---
 
-[![Et si...?](images/7417007-L.jpg "View this title in Open Library")](http://openlibrary.org/books/OL25914591M/Et_si...)
-
- 
+{{< figure src="images/7417007-L.jpg" alt="Et si...?" link="http://openlibrary.org/books/OL25914591M/Et_si..." >}}
 
 Je suis un fan absolu de [xkcd.com](http://xkcd.com/). [Randall Munroe](https://fr.wikipedia.org/wiki/Randall_Munroe) est connu de toute la blogosphère pour ses petits cartoons scientifiques dont certains sont devenus cultes\* et d'autres sont des merveilles de vulgarisation scientifique, comme [celui que j'ai utilisé dans cet article](/2012/09/05/un-petit-pas-pour-lhomme/) par exemple. Randall est aussi un infatigable artiste comme le prouve ["Time", sa séquence de 3101 dessins](http://geekwagon.net/projects/xkcd1190/) faits main. Tous ses dessins étant publiés gratuitement sous licence CC-BY-NC, Randall vit de l'écriture de bouquins qui font un tabac outre-Atlantique, et qui vont faire un tabac ici puisqu'ils commencent à être traduits.
 

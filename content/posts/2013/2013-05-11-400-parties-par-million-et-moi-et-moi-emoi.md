@@ -26,7 +26,7 @@ Pour ma part, cette nouvelle m'a fait penser à cette chanson de Jacques Dutronc
 
 Cynique ? Egoïste ? Je préfère réaliste : cette chanson met le doigt sur deux facteurs humains essentiels:
 
-{{< figure src="images/7575e88ce0fcaba1431e589d3d202e4e.jpg" alt="Il y a plus de gens qui vivent dans ce cercle qu'en dehors" caption="Il y a plus de gens qui vivent dans ce cercle qu'en dehors" align="alignright" width="300" >}}
+{{< figure src="images/7575e88ce0fcaba1431e589d3d202e4e.jpg" alt="Il y a plus de gens qui vivent dans ce cercle qu'en dehors" caption="Il y a plus de gens qui vivent dans ce cercle qu'en dehors" width="300" >}}
 
 1. on veut notre petit confort
 2. la démographie

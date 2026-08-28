@@ -20,7 +20,7 @@ Beaucoup de bâtiments contiennent de l'[amiante](https://fr.wikipedia.org/wiki/
 
 ## Maladies professionnelles
 
-|   {{< figure src="images/ImageriePlaquesPleuralesRT.gif" alt="Asbestose (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux )" caption="Asbestose (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux )" align="alignright" width="377" >}} |   {{< figure src="images/ImagerieRT_Mesotheliome_02.jpg" alt="Mésothéliome (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux)" caption="Mésothéliome (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux)" align="alignright" width="303" >}} |
+|   {{< figure src="images/ImageriePlaquesPleuralesRT.gif" alt="Asbestose (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux )" caption="Asbestose (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux )" width="377" >}} |   {{< figure src="images/ImagerieRT_Mesotheliome_02.jpg" alt="Mésothéliome (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux)" caption="Mésothéliome (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux)" width="303" >}} |
 | --- | --- |
 
 Si des fibres microscopiques atteignent les poumons, elles peuvent provoquer des maladies "bénignes" (au sens médical) comme l'[asbestose](https://fr.wikipedia.org/wiki/asbestose), ou malignes.

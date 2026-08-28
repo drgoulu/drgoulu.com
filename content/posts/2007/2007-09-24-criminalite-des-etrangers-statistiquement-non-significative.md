@@ -11,7 +11,9 @@ tags:
 coverImage: "7118369-L-1.jpg"
 ---
 
-![Sommes-nous tous des criminels?](images/7118369-L-1.jpg "View this title in Open Library") A la radio ce matin j'ai entendu [André Kuhn](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=801466), prof. de criminologie à l'UNIL, donner une petite leçon de "pensée différente" à propos des statistiques de la criminalité en Suisse.
+{{< figure src="images/7118369-L-1.jpg" alt="Sommes-nous tous des criminels?" >}}
+
+A la radio ce matin j'ai entendu [André Kuhn](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=801466), prof. de criminologie à l'UNIL, donner une petite leçon de "pensée différente" à propos des statistiques de la criminalité en Suisse.
 
 En gros il disait que oui, les étrangers commettent proportionnellement plus de crimes que les citoyens suisses, mais que non, le fait d'être étranger n'était pas "statistiquement significatif".
 

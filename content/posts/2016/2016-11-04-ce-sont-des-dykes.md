@@ -10,7 +10,7 @@ tags:
 coverImage: "424-prismation-dyke-Cap-Vert-01.jpg"
 ---
 
-[![Droits réservés - © 2012 Geneviève Francon](images/424-prismation-dyke-Cap-Vert-04.jpg)](http://planet-terre.ens-lyon.fr/image-de-la-semaine/Img424-2013-05-20.xml)
+{{< figure src="images/424-prismation-dyke-Cap-Vert-04.jpg" alt="Droits réservés - © 2012 Geneviève Francon" link="http://planet-terre.ens-lyon.fr/image-de-la-semaine/Img424-2013-05-20.xml" >}}
 
 En ballade sur l'île de [São Vicente](https://fr.wikipedia.org/wiki/São_Vicente_(Cap-Vert)) au Cap-Vert j'ai remarqué des structures géologiques surprenantes : des murs de [basalte](https://fr.wikipedia.org/wiki/basalte) quasi verticaux, parfois encastrés dans des couches horizontales, parfois se détachant sur le ciel.
 

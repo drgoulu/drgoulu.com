@@ -13,7 +13,9 @@ tags:
 coverImage: "cf758b4a6ae696fabda3353e868589fe-1.jpg"
 ---
 
-[![](images/cf758b4a6ae696fabda3353e868589fe.jpg)](http://www.seti.org/ata/gallery07/images/medium/ATA_pix6.jpg)Le projet [SETI](http://www.seti.org/) (Search for ExtraTerrestrial Intelligence) écoute les signaux radio en provenance de l'espace depuis 1960, à la recherche de messages envoyés par des extra terrestres. Pourquoi ne reçoit-on rien ? Voici un petit tour des raisons possibles :
+{{< figure src="images/cf758b4a6ae696fabda3353e868589fe.jpg" link="http://www.seti.org/ata/gallery07/images/medium/ATA_pix6.jpg" >}}
+
+Le projet [SETI](http://www.seti.org/) (Search for ExtraTerrestrial Intelligence) écoute les signaux radio en provenance de l'espace depuis 1960, à la recherche de messages envoyés par des extra terrestres. Pourquoi ne reçoit-on rien ? Voici un petit tour des raisons possibles :
 
 1. La fameuse [équation de Drake](http://exobio.chez-alice.fr/drake.htm) pourrait contenir de très petits facteurs, ayant pour conséquence qu'il n'y ait qu'une civilisation intelligence dans la Voie Lactée , nous, voire quelques autres mais qu'elles sont trop loin pour les capter.
 2. Le dernier facteur de Drake est particulièrement intéressant, celui concernant la durée de vie moyenne d'une civilisation capable de communiquer à travers l'Univers. Certains pessimistes (comme [Yves](/2008/04/17/on-va-tous-mourir/#comment-2394)...) imaginent que cette durée puisse être courte en raison d'une tendance à l'autodestruction.

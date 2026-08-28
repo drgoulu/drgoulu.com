@@ -13,7 +13,7 @@ tags:
 coverImage: "7284147-L.jpg"
 ---
 
-[![](images/temps-dessin-pour-Pierre-mail.jpg)](http://thema.cafe-sciences.org/articles/category/le-temps/)
+{{< figure src="images/temps-dessin-pour-Pierre-mail.jpg" link="http://thema.cafe-sciences.org/articles/category/le-temps/" >}}
 
 A l'occasion de la [semaine thématique sur le temps](http://thema.cafe-sciences.org/articles/category/le-temps/) du C@fé des Sciences, voici un compte rendu du livre "grand public" de [Lee Smolin](https://fr.wikipedia.org/wiki/Lee_Smolin), physicien théoricien passionné par ce sujet. Je n'ai pas réussi à résumer en un seul article ce livre de 300 pages extrêmement denses en informations et idées étonnantes.
 
@@ -23,7 +23,7 @@ Un second article couvrira très bientôt la seconde partie "Lumière : la renai
 
 * * *
 
-{{< figure src="images/7284147-L.jpg" alt="La Renaissance du Temps" caption="." align="alignright" width="250" >}}
+{{< figure src="images/7284147-L.jpg" alt="La Renaissance du Temps" caption="." width="250" >}}
 
 ### 1, 2, 3 : La mort du temps
 
@@ -45,7 +45,7 @@ Le chapitre suivant traite de l' "éradication de la surprise et de la nouveaut�
 
 ### 6\. relativité et intemporalité
 
-{{< figure src="images/Relativity_of_Simultaneity_Animation.gif" alt="Animation relativiste trouvée sur la Wikipédia montrant les plans de simultanéité suivant la vitesse relative de référentiels divers par rapport à un référentiel où les événements A, B et C sont simultanés." caption="Animation relativiste trouvée sur la Wikipédia montrant les plans de simultanéité suivant la vitesse relative de référentiels divers par rapport à un référentiel où les événements A, B et C sont simultanés." link="https://fr.wikipedia.org/wiki/Simultan%C3%A9it%C3%A9" align="alignright" width="320" >}}
+{{< figure src="images/Relativity_of_Simultaneity_Animation.gif" alt="Animation relativiste trouvée sur la Wikipédia montrant les plans de simultanéité suivant la vitesse relative de référentiels divers par rapport à un référentiel où les événements A, B et C sont simultanés." caption="Animation relativiste trouvée sur la Wikipédia montrant les plans de simultanéité suivant la vitesse relative de référentiels divers par rapport à un référentiel où les événements A, B et C sont simultanés." link="https://fr.wikipedia.org/wiki/Simultan%C3%A9it%C3%A9" width="320" >}}
 
 Le chapitre 6 intitulé "relativité et intemporalité" traite de la conception du temps qui résulte des théories de la relativité (restreinte et générale) d'Einstein et dont j'ai déjà causé dans plusieurs articles : le temps est une [dimension imaginaire](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/) qui [s'ajoute aux trois dimensions spatiales](/2011/01/30/pourquoi-3-dimensions-1-temps/) pour former l'[univers-bloc](/2008/12/24/la-nature-du-temps-2/) des "éternalistes". Pour Smolin, pourtant plein d'admiration pour Einstein et ses travaux notamment son [principe d'équivalence](https://fr.wikipedia.org/wiki/principe_d'équivalence) qui traite de la chute libre, et même si la [relativité générale](https://fr.wikipedia.org/wiki/relativité_générale) parvient à mettre le temps "dans" l'Univers, cette conception du temps n'est pas satisfaisante. D'une part il y a les problèmes posés par les singularités comme les trous noirs et le Big Bang, mais surtout l'[équation d'Einstein](https://fr.wikipedia.org/wiki/équation_d'Einstein) est toujours une loi intemporelle, extérieure à l'univers, et qui ne répond toujours pas à la question de savoir pourquoi je ressens une certaine configuration de l'Univers comme "présente", et ce qui distingue le futur du passé.
 

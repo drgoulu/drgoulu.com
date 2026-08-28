@@ -16,6 +16,6 @@ Un registre de microprocesseur contient un mot de 32 bits quelconque, mais dont 
 
 Comment faire pour modifier les premiers 8 bits du mots de façon à ce qu'ils comportent autant de bits à '1' qu'il n'y en a au total dans les 24 bits suivant (soit 6 dans l'exemple ci-dessus), et ceci en une seule instruction du processeur ?
 
-{{< figure src="images/799b28c713fe0b24c23115571899f28f.jpg" alt="Binary Kite par Syntopia" link="http://www.flickr.com/photos/syntopia/2058406738/" align="alignright" width="500" >}}
+{{< figure src="images/799b28c713fe0b24c23115571899f28f.jpg" alt="Binary Kite par Syntopia" link="http://www.flickr.com/photos/syntopia/2058406738/" width="500" >}}
 
 Si vous n'êtes pas familier avec l'[assembleur](http://fr.wikipedia.org/wiki/Assembleur), disons que vous disposez des mêmes opérations qu'une calculatrice, mais en binaire : addition, soustraction, ansi que des [fonctions logiques (et, ou, ...)](http://fr.wikipedia.org/wiki/Op%C3%A9rateur_bool%C3%A9en#Fonctions_logiques). Une instruction, c'est une de ces opérations suivie d'une [opérande](http://fr.wikipedia.org/wiki/Op%C3%A9rande).

@@ -18,7 +18,9 @@ aliases:
   - "/2010/06/13/optimisation-de-la-joconde/"
 ---
 
-![](images/10c3a606506bb2299f7b51b61b0ea16f.jpg)Voici enfin l'occasion de consacrer un article marrant au célèbre mais barbant "[problème du voyageur de commerce](https://fr.wikipedia.org/wiki/problème_du_voyageur_de_commerce)". J'ai réalisé une applet en processing qui dessine Mona Lisa avec une seule ligne brisée zig-zaguant entre 100'000 points sans jamais s'entrecouper. De plus la ligne n'a ni début ni fin, elle forme un cycle. Autrement dit, on peut dessiner la Joconde comme un cercle déformé, sans lever le crayon... Voici ce que ça donne : c'est publié aussi :
+{{< figure src="images/10c3a606506bb2299f7b51b61b0ea16f.jpg" >}}
+
+Voici enfin l'occasion de consacrer un article marrant au célèbre mais barbant "[problème du voyageur de commerce](https://fr.wikipedia.org/wiki/problème_du_voyageur_de_commerce)". J'ai réalisé une applet en processing qui dessine Mona Lisa avec une seule ligne brisée zig-zaguant entre 100'000 points sans jamais s'entrecouper. De plus la ligne n'a ni début ni fin, elle forme un cycle. Autrement dit, on peut dessiner la Joconde comme un cercle déformé, sans lever le crayon... Voici ce que ça donne : c'est publié aussi :
 
 <iframe src="https://openprocessing.org/sketch/10400/embed/?plusEmbedHash=59c47346&userID=573&plusEmbedTitle=true&show=sketch" width="640" height="640"></iframe>
 

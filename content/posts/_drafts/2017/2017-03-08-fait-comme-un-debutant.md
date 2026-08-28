@@ -9,6 +9,7 @@ tags:
 - python
 - securite
 draft: true
+coverImage: "security.png"
 ---
 Je me suis fait avoir comme un débutant (que je suis). J'ai reçu un e-mail très courtois m'invitant à participer à [une étude décrite ainsi](https://userstudies.cs.uni-saarland.de/pythonstudy-explanation/) :
 

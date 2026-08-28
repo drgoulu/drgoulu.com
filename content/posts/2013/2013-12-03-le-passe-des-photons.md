@@ -24,7 +24,7 @@ Avec une nouvelle version de la fameuse expérience des [fentes de Young](https:
 
 ## L'expérience
 
-{{< figure src="images/8be2d853ade837692c2175d0d2580be8.jpg" alt="Expérience de Young version aquatique. Cliquez pour une très bonne video" caption="Expérience de Young version aquatique. Cliquez pour une très bonne video" link=\"https://www.youtube.com/watch?v=Iuv6hY6zsd0\" align="alignright" width="288" >}}
+{{< figure src="images/8be2d853ade837692c2175d0d2580be8.jpg" alt="Expérience de Young version aquatique. Cliquez pour une très bonne video" caption="Expérience de Young version aquatique. Cliquez pour une très bonne video" link=\"https://www.youtube.com/watch?v=Iuv6hY6zsd0\" width="288" >}}
 
 La démonstration la plus simple et convaincante de la [dualité onde-corpuscule](https://fr.wikipedia.org/wiki/dualité_onde-corpuscule) est probablement la fameuse expérience des fentes de Young. Des particules comme les photons ou les électrons émis un à un se comportent comme des ondes lorsqu'ils traversent deux fentes étroites rapprochées, et forment un motif d'interférence sur un écran.
 

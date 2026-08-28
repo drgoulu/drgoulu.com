@@ -7,6 +7,7 @@ categories:
 tags: 
   - "maths"
   - "nombres-premiers"
+coverImage: "0b7574cc4d97b1ba36b34b2b9797fc23.gif"
 ---
 
 _A l’occasion de la découverte de la plus grande paire de nombres premiers jumeaux, et en parallèle avec la rédaction d’un articule sur le calcul distribué, j’ai partiellement ré-écrit cet article de 2005 sur les nombres premiers._

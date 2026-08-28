@@ -11,7 +11,7 @@ tags:
 coverImage: "4432547614_68930bc76f_d.jpg"
 ---
 
-{{< figure src="images/4432547614_68930bc76f_d.jpg" link="http://www.flickr.com/photos/jorel314/4432547614/" align="alignright" width="264" >}}
+{{< figure src="images/4432547614_68930bc76f_d.jpg" link="http://www.flickr.com/photos/jorel314/4432547614/" width="264" >}}
 
 A la lecture de "[Précision mathématique ou physique ?](http://www.maths-et-physique.net/article-precision-mathematique-ou-physique-73417781.html "Précision mathématique ou physique ?")", je me suis interrogé sur le nombre de décimales de réellement π nécessaires en physique. A priori il n'est pas nécessaire de connaitre π avec une précision supérieure à celle d'autres grandeurs mesurées, alors quelles sont les expériences de haute précision faisant intervenir π explicitement ?
 

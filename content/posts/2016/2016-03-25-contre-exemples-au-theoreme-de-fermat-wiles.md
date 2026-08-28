@@ -14,7 +14,9 @@ tags:
 coverImage: "18-Homer-Simpson.jpg"
 ---
 
-![simpson\_fermat](images/simpson_fermat.gif)[Andrew Wiles](https://fr.wikipedia.org/wiki/Andrew_Wiles) vient de remporter le [Prix Abel](https://fr.wikipedia.org/wiki/Prix_Abel) pour sa démonstration du [Grand théorème de Fermat](https://fr.wikipedia.org/wiki/Grand_théorème_de_Fermat) qui dit qu’il n’existe pas de solution de l’équation an+bn\=cn pour a,b,c,n entiers et n>2. Pourtant _<mauvaise foi=on>_ :
+{{< figure src="images/simpson_fermat.gif" alt="simpson_fermat" >}}
+
+[Andrew Wiles](https://fr.wikipedia.org/wiki/Andrew_Wiles) vient de remporter le [Prix Abel](https://fr.wikipedia.org/wiki/Prix_Abel) pour sa démonstration du [Grand théorème de Fermat](https://fr.wikipedia.org/wiki/Grand_théorème_de_Fermat) qui dit qu’il n’existe pas de solution de l’équation an+bn\=cn pour a,b,c,n entiers et n>2. Pourtant _<mauvaise foi=on>_ :
 
 1. il a en réalité "seulement" démontré un cas particulier du [théorème de modularité](https://fr.wikipedia.org/wiki/théorème_de_modularité) (aussi appelé conjecture de Shimura-Taniyama-Weil) dont le théorème de Fermat résulte directement
 2. quelques semaines après la publication des quelques 100 pages de la démonstration d'Andrew Wiles en 1995 [[1]](#ref-1), Homer Simpson se promène nonchalamment et en 3D devant un contre-exemple : 1782¹² + 1841¹² = 1922¹² [[2]](#ref-2)
@@ -24,7 +26,7 @@ Cette égalité est due à [David X. Cohen](https://fr.wikipedia.org/wiki/David
 Mais en fait non:
 
 - Avec plus de décimales ou Python, on voit que le terme de gauche vaut 2541210258614589176288669958142428526657 et celui de droite 2541210259314801410819278649643651567616. Ca fait une gigantesque différence de 700212234530608691501223040959, mais comme elle représente moins d'un milliardième des nombres précédents (2.75 10\-10 pour être précis), une bête calculatrice du siècle passé qui ne calculait qu'avec 9 chiffres significatifs ou en nombres flottants sur 32 bits pouvait considérer ce chiffre comme comparativement négligeable.
-- {{< figure src="images/18-Homer-Simpson.jpg" alt="quatre grands problèmes scientifiques résolus sur un seul tableau !" caption="quatre grands problèmes scientifiques résolus sur un seul tableau !" align="alignright" width="420" >}}
+- {{< figure src="images/18-Homer-Simpson.jpg" alt="quatre grands problèmes scientifiques résolus sur un seul tableau !" caption="quatre grands problèmes scientifiques résolus sur un seul tableau !" width="420" >}}
     
     En y regardant de plus près, on voit tout de suite que l'égalité est fausse car comme 1782 est pair, 1782¹² l'est aussi et comme 1841¹² est impair pour les mêmes raisons, la somme 782¹² + 1841¹² est impaire. Or 1922¹²  est pair...
 

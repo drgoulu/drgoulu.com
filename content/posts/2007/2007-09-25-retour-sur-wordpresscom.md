@@ -6,9 +6,12 @@ categories:
   - "non-classe"
 tags: 
   - "internet"
+coverImage: "wordpress_logo_cristal.jpg"
 ---
 
-[![](images/wordpress_logo_cristal.jpg)](http://wordpress.com)Le blog "Dr. Goulu" a encore un peu changé. En fait je l'ai rapatrié sur le site [WordPress.com](http://wordpress.com) après l'en avoir sorti il y a quelques mois pour l'héberger chez [infomaniak.ch](http://www.infomaniak.com/) sur mon site "professionnel".
+{{< figure src="images/wordpress_logo_cristal.jpg" link="http://wordpress.com" >}}
+
+Le blog "Dr. Goulu" a encore un peu changé. En fait je l'ai rapatrié sur le site [WordPress.com](http://wordpress.com) après l'en avoir sorti il y a quelques mois pour l'héberger chez [infomaniak.ch](http://www.infomaniak.com/) sur mon site "professionnel".
 
 A l'époque, le but était d'avoir plus de souplesse et de pouvoir essayer de nombreux thèmes et plugins WordPress non disponibles sur le site de l'éditeur. Mais après quelques mois, je me suis aperçu que ceci se payait en terme de référencement : mes blogs restés sur WordPress.com sont beaucoup plus lus. Comme de plus l'offre de plugins et thèmes s'est bien étoffée, ma décision a été vite prise et vite exécutée. En pratique, j'ai procédé ainsi:
 

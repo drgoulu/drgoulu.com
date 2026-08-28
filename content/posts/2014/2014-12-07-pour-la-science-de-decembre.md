@@ -15,7 +15,9 @@ tags:
 coverImage: "b7dbf9fe2a9d73365aedd85e7e470e30.jpg"
 ---
 
-[![](images/b7dbf9fe2a9d73365aedd85e7e470e30.jpg)](http://www.pourlascience.fr/ewb_pages/e/espace-numerique-detail.php?art_id=33592&num=446)D'habitude je déguste mon numéro de "Pour la Science" petit à petit pendant le mois. Mais là j'ai dévoré le [numéro de décembre](http://www.pourlascience.fr/ewb_pages/a/article-le-trou-noir-a-l-apos-origine-du-big-bang-33581.php) en quelques heures de voyage en train : il est plein d'articles passionnants sur des sujets très variés.
+{{< figure src="images/b7dbf9fe2a9d73365aedd85e7e470e30.jpg" link="http://www.pourlascience.fr/ewb_pages/e/espace-numerique-detail.php?art_id=33592&num=446" >}}
+
+D'habitude je déguste mon numéro de "Pour la Science" petit à petit pendant le mois. Mais là j'ai dévoré le [numéro de décembre](http://www.pourlascience.fr/ewb_pages/a/article-le-trou-noir-a-l-apos-origine-du-big-bang-33581.php) en quelques heures de voyage en train : il est plein d'articles passionnants sur des sujets très variés.
 
 Dans "[Le trou noir à l'origine du Big Bang](http://www.pourlascience.fr/ewb_pages/a/article-le-trou-noir-a-l-apos-origine-du-big-bang-33581.php)", Niayesh Afshordi, Robert Mann et Razieh Pourhasan de l'[institut Perimètre](http://www.perimeterinstitute.ca/fr) proposent une idée assez stupéfiante : notre univers à 3 dimensions serait issu de l'effondrement d'une étoile à 4 dimensions en trou noir... Selon eux, mathématiquement du moins, l'horizon des événements d'un trou noir à 4 dimensions correspond notre univers à 3 dimensions, ce qui permet d'éliminer la "singularité" des trous noirs et du Big Bang en même temps, et de ne plus avoir besoin de postuler une [inflation cosmique](https://fr.wikipedia.org/wiki/inflation_cosmique). Je ne sais pas vraiment quoi penser de cette théorie qui me sembler [poser plus de questions](/2011/01/30/pourquoi-3-dimensions-1-temps/) qu'elle n'en résout, mais comme je suis en train de lire {{< openbook booknumber="ISBN:9782100706679" templatenumber="5" >}} qui la pousse encore plus loin, j'en reparlerai plus tard.
 

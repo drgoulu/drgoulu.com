@@ -13,7 +13,9 @@ tags:
 coverImage: "bulletina.png"
 ---
 
-![](images/b4da3f1e7ca12d8def9da7d3decb136e.png)C'est la période des élections en France et bientôt en Suisse, et l'année prochaine les Etatzuniens remplaceront ce cher Bush. (cher comme les déficits qu'il était censé réduire).
+{{< figure src="images/b4da3f1e7ca12d8def9da7d3decb136e.png" >}}
+
+C'est la période des élections en France et bientôt en Suisse, et l'année prochaine les Etatzuniens remplaceront ce cher Bush. (cher comme les déficits qu'il était censé réduire).
 
 Je ne vous dirai pas ici pour qui voter, mais je vais vous révéler l'importance décisive d'un élément qui se superpose aux idées, aux partis et aux candidats : le [système de vote](https://fr.wikipedia.org/wiki/système_de_vote), et faire de la pub pour un système de vote simple, juste et cependant utilisé (presque) nulle part : le "vote par assentiment".
 

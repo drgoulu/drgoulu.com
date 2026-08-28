@@ -19,7 +19,7 @@ Claude me demande pourquoi on ne stockerait pas la surproduction éolienne avec 
 
 ### Jamais contente
 
-{{< figure src="images/5ea50d06e4ba4f1d76ceaf6139608347.jpg" alt="la Jamais Contente" caption="la &quot;Jamais Contente&quot;" align="alignright" width="280" >}}
+{{< figure src="images/5ea50d06e4ba4f1d76ceaf6139608347.jpg" alt="la Jamais Contente" caption="la &quot;Jamais Contente&quot;" width="280" >}}
 
 La première voiture à avoir atteint la stupéfiante vitesse de 100 km/h était une voiture électrique, la "[Jamais Contente](https://fr.wikipedia.org/wiki/Jamais_Contente)", et c'était en 1899. De nos jours, la "[White Zombie](http://www.plasmaboyracing.com/whitezombie.php)" [laisse sur place une Maserati](http://www.youtube.com/watch?v=vGQSQAz9v6c) de 400 chevaux. Mais pourquoi donc nos routes ne sont-elles toujours pas envahies de voitures électriques ?
 

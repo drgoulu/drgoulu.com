@@ -6,6 +6,7 @@ categories:
   - "non-classe"
 tags: 
   - "geometrie"
+coverImage: "59b78f5a21c9891bebf154e5a1fe045b.gif"
 ---
 
 Combien de centres a un triangle ? J'en connaissais autant que les Grecs : 4 :

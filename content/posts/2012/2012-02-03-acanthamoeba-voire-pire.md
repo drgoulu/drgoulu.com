@@ -18,7 +18,7 @@ _(article repris dans {{< openbook booknumber="9782895444541" templatenumber="5
 
 De plus les biologistes cultivent des quantités de l'espèce A. Castellanii à raison d'environ 10¹² bestioles par kilo comme "[organisme modèle](https://fr.wikipedia.org/wiki/organisme_modèle)" utilisé dans toutes sortes de recherches en biochimie, biologie moléculaire etc. Catégorie "animaux inoffensifs" a priori.
 
-{{< figure src="images/374f41da01e983d1c348bbdfee7a6737.png" alt="acanthamoeba" caption="Acanthamoeba  sous microscope électronique" link="http://www.caister.com/supplementary/acanthamoeba/b14.html" align="alignright" width="336" >}}
+{{< figure src="images/374f41da01e983d1c348bbdfee7a6737.png" alt="acanthamoeba" caption="Acanthamoeba  sous microscope électronique" link="http://www.caister.com/supplementary/acanthamoeba/b14.html" width="336" >}}
 
 Mais a_canthos_ signifiant _épineux_ en grec (à ne pas confondre avec [_echinos](https://fr.wikipedia.org/wiki/Echinoidea)_, qui veut dire _épine_ en grec...) ,  vous vous attendez certainement à ce que ces microbes méritent leur place dans un article de ce blog en causant un problème. Gagné! En fait ils en causent même plusieurs.
 

@@ -12,7 +12,7 @@ tags:
 coverImage: "3f5da70683a8913f47031e11cce219721.jpg"
 ---
 
-{{< figure src="images/3f5da70683a8913f47031e11cce21972.jpg" alt="Le Vreneli, pièce de Frs 20.- en or encore utilisée comme cadeau" caption="Le &quot;Vreneli&quot;, pièce de Frs 20.- en or, émise jusqu'en 1949" link="http://fr.wikipedia.org/wiki/Vreneli" align="alignright" width="250" >}}
+{{< figure src="images/3f5da70683a8913f47031e11cce21972.jpg" alt="Le Vreneli, pièce de Frs 20.- en or encore utilisée comme cadeau" caption="Le &quot;Vreneli&quot;, pièce de Frs 20.- en or, émise jusqu'en 1949" link="http://fr.wikipedia.org/wiki/Vreneli" width="250" >}}
 
 Dans l'article "[Le jour où un franc français valait un franc suisse](/wp-content/uploads/2009/04/2009_04_01_-_Le_Temps.pdf)" de Bernard Reymond paru [dans Le Temps](http://letemps.ch/Page/SysConfig/WebPortal/letemps/jsp/paywall/error/usersession.jsp;jsessionid=D4D73B148F4A4683CBA18C69627ADAE0) du 1er avril 2009 (mais ce n'est pas un poisson...),  j'ai appris l'existence passée de l’[Union Monétaire Latine](https://fr.wikipedia.org/wiki/Union_Monétaire_Latine) (UML). Entre le 23 décembre 1865 et le 1er janvier 1927,  la France, la Suisse, l’Italie et la Belgique avaient convenu que leurs unités monétaires correspondraient au même poids d’or fin ou d’argent tout en gardant leur nom. Autrement dit, pendant cette période on avait:
 

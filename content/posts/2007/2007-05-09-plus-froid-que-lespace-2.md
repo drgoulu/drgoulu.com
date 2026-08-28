@@ -11,7 +11,9 @@ tags:
 coverImage: "superfluid-helium.jpg"
 ---
 
-![RÃ©sultat de recherche d](images/superfluid-helium.jpg)L'annonce du [refroidissement à moins de 2°K d'un bout du LHC](http://www.techno-science.net/?onglet=news&news=3853) m'a rappelé une anecdote sympa.
+{{< figure src="images/superfluid-helium.jpg" alt="RÃ©sultat de recherche d" >}}
+
+L'annonce du [refroidissement à moins de 2°K d'un bout du LHC](http://www.techno-science.net/?onglet=news&news=3853) m'a rappelé une anecdote sympa.
 
 Alors que j'étais jeune assistant à l'Institut d'Automatique, un chercheur de l'Institut de Physique débarque en demandant un coup de main pour un problème de "régulation de température".  Le prof, pensant à un simple problème du genre thermostat de chauffage central l'envoie au débutant : moi.
 

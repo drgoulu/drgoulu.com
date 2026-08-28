@@ -11,7 +11,7 @@ tags:
 coverImage: "3-82.jpg"
 ---
 
-{{< figure src="images/3-82.jpg" alt="Emmy Noether" caption="Emmy Noether" align="alignright" width="400" >}}
+{{< figure src="images/3-82.jpg" alt="Emmy Noether" caption="Emmy Noether" width="400" >}}
 
 Il y a pile un siècle, en 1918, la mathématicienne Emmy Noether publia un résultat si important pour la physique qu'Einstein le qualifia de "monument de la pensée mathématique".
 

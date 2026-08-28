@@ -6,8 +6,12 @@ categories:
 - cat2
 - cat1
 draft: true
+coverImage: "colviscon.gif"
 ---
-[![colviscon](images/colviscon.gif)](http://hyperphysics.phy-astr.gsu.edu/hbase/vision/colviscon.html)Un changement de projet professionnel me permet de m'initier au monde merveilleux des techniques d'impression en couleur, en particulier le jet d'encre
+
+{{< figure src="images/colviscon.gif" alt="colviscon" link="http://hyperphysics.phy-astr.gsu.edu/hbase/vision/colviscon.html" >}}
+
+Un changement de projet professionnel me permet de m'initier au monde merveilleux des techniques d'impression en couleur, en particulier le jet d'encre
 
 [![](images/GamutLab_ColorChecker_sRGB.gif)](http://www.brucelindbloom.com/)
 

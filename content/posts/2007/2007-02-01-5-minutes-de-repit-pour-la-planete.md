@@ -9,7 +9,9 @@ tags:
 coverImage: "4371e5bf34f1be9fab1a3cd4724ef60f.jpg"
 ---
 
-![](images/4371e5bf34f1be9fab1a3cd4724ef60f.jpg)Les associations de défense de l'environnement ont lancé une action consistant à cesser volontairement toute consommation d'énergie entre 19h55 et 20h00 le 1er février.
+{{< figure src="images/4371e5bf34f1be9fab1a3cd4724ef60f.jpg" >}}
+
+Les associations de défense de l'environnement ont lancé une action consistant à cesser volontairement toute consommation d'énergie entre 19h55 et 20h00 le 1er février.
 
 L'aspect politico-symbolique étant amplement couvert ailleurs, je me suis intéressé au conséquences de cet événement sur la production d'énergie, ce qui permet de lancer une petite réflexion sur un de ses aspects méconnus.
 

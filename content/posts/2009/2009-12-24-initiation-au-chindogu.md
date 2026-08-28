@@ -18,7 +18,7 @@ Lancée par Kenji Kawakami, l '[International Chindogu Society](http://chindogu.
 1. Un chindogu ne doit pas réellement être utilisable. Il est dans l'esprit fondamental du Chindogu que les inventions revendiquant le statut de chindogu doivent être d'un point de vue pratique (presque) complètement inutiles. Si vous inventez quelque chose qui se révèle si pratique que vous l'utilisez tout le temps, alors vous avez raté votre chindogu. Essayez l' Office des Brevets....
     
     {{< figure src="images/325dff208fdb8165cfbd0ffd89897751.jpg" alt="Un bon chindogu ..." caption="Un bon chindogu ..." align="aligncenter" width="500" >}}
-2. {{< figure src="images/c8b79f648aec0123994dd1cfce310942.jpg" alt="... n'a pas besoin ..." caption="... n'a pas besoin ..." align="alignright" width="283" >}}
+2. {{< figure src="images/c8b79f648aec0123994dd1cfce310942.jpg" alt="... n'a pas besoin ..." caption="... n'a pas besoin ..." width="283" >}}
     
     Un chindogu doit exister.  Il n'est pas permis d'utiliser un chindogu, mais il doit être fabriqué. Vous devenz pouvoir le tenir dans votre main et penser "je peux vraiment imaginer quelqu'un utilisant ceci. Enfin presque". Afin d'être inutile, il doit commencer par être.
 3. L'esprit d'anarchie est inhérent à chaque chindogu. Les chindogu sont des objets fabriqués qui se sont libérés des chaines de l'utilité. Ils représentent la liberté de pensée et d'action, la liberté de contester la domination historique et suffocante de l'utilité, la liberté d'être (presque) inutile.

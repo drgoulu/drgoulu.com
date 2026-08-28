@@ -6,6 +6,7 @@ categories:
   - "non-classe"
 tags: 
   - "economie"
+coverImage: "cantina_djerba.jpg"
 ---
 
 Créé encore un blog : "Bids" pour "Business Ideas for Sale" va contenir les nombreuses bonnes idées pour devenir riche que j'ai eues, mais pour lesquelles j'ai besoin de tellement d'aide qu'il vaut mieux tenter de les refiler à quelqu'un qui a de l'aide, mais pas d'idées ;-)

@@ -10,9 +10,12 @@ tags:
   - "statistiques"
   - "suisse"
   - "vote"
+coverImage: "7f8bedc6e4d093147c595c638acb6093.jpg"
 ---
 
-![](images/7f8bedc6e4d093147c595c638acb6093.jpg)Fabriquer des données comme des montants de fausses factures demande un certain doigté car il existe des tests statistiques permettant de mesurer leur vraisemblance. Le plus usité de ces tests consiste à vérifier que les données suivent la surprenante [loi de Benford](https://fr.wikipedia.org/wiki/loi_de_Benford), qui dit que le chiffre le plus à gauche de données statistiques est plus souvent un 1 qu'un 2, plus souvent un 2 qu'un 3 et ainsi de suite jusqu'à 9.
+{{< figure src="images/7f8bedc6e4d093147c595c638acb6093.jpg" >}}
+
+Fabriquer des données comme des montants de fausses factures demande un certain doigté car il existe des tests statistiques permettant de mesurer leur vraisemblance. Le plus usité de ces tests consiste à vérifier que les données suivent la surprenante [loi de Benford](https://fr.wikipedia.org/wiki/loi_de_Benford), qui dit que le chiffre le plus à gauche de données statistiques est plus souvent un 1 qu'un 2, plus souvent un 2 qu'un 3 et ainsi de suite jusqu'à 9.
 
 Par exemple, en examinant les données de la [population de 196 pays](https://fr.wikipedia.org/wiki/liste_des_pays_par_population), on constate que 55 pays soit 28.1% ont une population qui commence par le chiffre 1 alors qu'il n'y en a que 11 (5.6%) dont la population commence par un 9. Étonnant, non ?
 

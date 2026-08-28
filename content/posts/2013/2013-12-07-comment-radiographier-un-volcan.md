@@ -20,7 +20,7 @@ Un article du "Pour la Science" de décembre m'a particulièrement scotché : un
 
 On y distingue par exemple sur l'image du bas la cheminée bien verticale du cratère "sud-sud". Ces mesures sont compatibles avec celles obtenues par d'autres techniques [[2]](#ref-2), mais leur résolution de l'ordre de 30m est bien meilleure, et le système relativement peu coûteux.
 
-{{< figure src="images/600f310bf28c341c97b8c86369b134e8.jpg" alt="Détecteur de muons du projet Diaphane (CNRS)" caption="Détecteur de muons du projet Diaphane (CNRS)" link="http://www.insu.cnrs.fr/terre-solide/experimenter-modeliser/projet-diaphane-radiographier-les-volcans-avec-les-rayons-cosmiq" align="alignright" width="250" >}}
+{{< figure src="images/600f310bf28c341c97b8c86369b134e8.jpg" alt="Détecteur de muons du projet Diaphane (CNRS)" caption="Détecteur de muons du projet Diaphane (CNRS)" link="http://www.insu.cnrs.fr/terre-solide/experimenter-modeliser/projet-diaphane-radiographier-les-volcans-avec-les-rayons-cosmiq" width="250" >}}
 
 L'idée géniale est de placer un détecteur sur le flanc de la montagne, et de laisser les rayons cosmiques produire naturellement des [muons](https://fr.wikipedia.org/wiki/Muon) qui vont traverser la montagne et arriver au détecteur. En mesurant leur direction d'arrivée et connaissant par cartographie l'épaisseur de roche traversée, on peut déterminer la densité de la roche à partir du flux de muons détectés [[3]](#ref-3).
 

@@ -8,6 +8,7 @@ categories:
 tags: 
   - "acoustique"
   - "informatique"
+coverImage: "histogramme.jpg"
 ---
 
 Dans la liste ["Réalisations" de mon CV](http://www.philippe-guglielmetti.com/cv/jobs/liste_0) se trouve une ligne "Téléopération d’un goniomètre à infrasons" sur laquelle je ne pouvais pas être très bavard car il s'agissait d'un projet militaire top secret m'avait-on dit. Mais maintenant que je trouve des informations publiques [[1]](#ref-1), [[2]](#ref-2) sur le net concernant cette réalisation étonnante (à laquelle je n'ai contribué que 3 semaines ), j'ose en dire un peu plus.

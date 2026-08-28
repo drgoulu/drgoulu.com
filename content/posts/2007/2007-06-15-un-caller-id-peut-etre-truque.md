@@ -4,9 +4,12 @@ slug: "un-caller-id-peut-etre-truque"
 date: 2007-06-15
 categories: 
   - "non-classe"
+coverImage: "5ffc4962338a591bccd2eaa60a459db0.jpg"
 ---
 
-![](images/5ffc4962338a591bccd2eaa60a459db0.jpg)Vous vous êtes habitué à voir sur votre téléphone portable ou fixe l'identité ou le numéro de l'appellant ? Vous dites "salut ma chérie" ou "bonjour chef" au lieu de "allo ?" Vous laissez sonner les "numéro inconnu" ? Il va falloir vous déshabituer !
+{{< figure src="images/5ffc4962338a591bccd2eaa60a459db0.jpg" >}}
+
+Vous vous êtes habitué à voir sur votre téléphone portable ou fixe l'identité ou le numéro de l'appellant ? Vous dites "salut ma chérie" ou "bonjour chef" au lieu de "allo ?" Vous laissez sonner les "numéro inconnu" ? Il va falloir vous déshabituer !
 
 Dans l'article en anglais [In Security: 3 Ways To Protect Against Caller ID Spoofing,](http://authentium.blogspot.com/2007/06/3-ways-to-protect-against-caller-id.html) j'ai appris qu'il est non seulement techniquement possible de truquer son numéro appelant ("caller ID"), mais même que c'est à la portée de tout le monde "grâce" à des services payants du genre de "[Spoof Card](http://www.spoofcard.com/)" dont le slogan "Be who you want to be" et la liste des services proposés fait dresser les cheveux sur la tête:
 

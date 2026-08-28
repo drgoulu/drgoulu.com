@@ -8,6 +8,7 @@ tags:
 - monde
 - voyage
 draft: true
+coverImage: "CentralAmer_CanalMap.jpg"
 ---
 quelques aperçus de notre voyage au [Costa Rica](https://fr.wikipedia.org/wiki/Costa_Rica), magnifique destination "nature", mais pas que.
 

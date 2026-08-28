@@ -12,7 +12,7 @@ tags:
 coverImage: "2f50fa3be379ea5d67171aa270269feb.gif"
 ---
 
-{{< figure src="images/2f50fa3be379ea5d67171aa270269feb.gif" alt="Règle pour le journalisme scientifique : si votre article peut être résumé par Non, ne l'écrivez pas." caption="Règle pour le journalisme scientifique : si votre article peut être résumé par &quot;Non&quot;, ne l'écrivez pas." link="http://www.smbc-comics.com/index.php?db=comics&id=2075" align="alignright" width="270" >}}
+{{< figure src="images/2f50fa3be379ea5d67171aa270269feb.gif" alt="Règle pour le journalisme scientifique : si votre article peut être résumé par Non, ne l'écrivez pas." caption="Règle pour le journalisme scientifique : si votre article peut être résumé par &quot;Non&quot;, ne l'écrivez pas." link="http://www.smbc-comics.com/index.php?db=comics&id=2075" width="270" >}}
 
 Voici un article que je ne devrais pas écrire, en vertu de la [loi du journalisme de SNBC](http://www.smbc-comics.com/index.php?db=comics&id=2075) illustrée ci-contre.
 

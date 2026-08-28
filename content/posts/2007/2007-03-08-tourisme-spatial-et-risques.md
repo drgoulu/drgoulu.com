@@ -10,7 +10,9 @@ tags:
 coverImage: "297d5ef1055d2e7ec385b1220ac8f208.jpg"
 ---
 
-![](images/297d5ef1055d2e7ec385b1220ac8f208.jpg)Vu sur Arte l'autre jour un reportage passionnant sur [SpaceShipOne,](http://www.scaled.com/projects/tierone/) le premier vaisseau spatial privé. En 2004, ce projet financé par Paul Allen (Microsoft) et Richard Branson (Virgin) a remporté le [Ansari X-Prize](http://www.xprize.org/xprizes/ansari_x_prize.html) de $10'000'000 en effectuant 2 vols à plus de 100'000 m d'altitude en moins de 2 jours.
+{{< figure src="images/297d5ef1055d2e7ec385b1220ac8f208.jpg" >}}
+
+Vu sur Arte l'autre jour un reportage passionnant sur [SpaceShipOne,](http://www.scaled.com/projects/tierone/) le premier vaisseau spatial privé. En 2004, ce projet financé par Paul Allen (Microsoft) et Richard Branson (Virgin) a remporté le [Ansari X-Prize](http://www.xprize.org/xprizes/ansari_x_prize.html) de $10'000'000 en effectuant 2 vols à plus de 100'000 m d'altitude en moins de 2 jours.
 
 {{< youtube id="FNXahIoXMw8" >}}
 

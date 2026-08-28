@@ -6,6 +6,7 @@ categories:
   - "non-classe"
 tags: 
   - "energie"
+coverImage: "bda3e03ed6795e8227cfecf695826950.jpg"
 ---
 
 Les journaux ont parlé d'un futur bolide électrique accélérant de 0 à 100 en 4 secondes et doté d'une autonomie de 400 km : la [Tesla](http://www.teslamotors.com). Les 100 premiers exemplaires sont déjà vendus, et on peut réserver un exemplaire en versant 85% d'acompte sur le prix de $100'000...

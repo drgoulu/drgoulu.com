@@ -12,7 +12,7 @@ coverImage: "frais-km-tcs-2013.png"
 
 Suite à une discussion sur le coût des transports, j'ai étudié plus en détail l'argument de Björn, qui dit en gros que si on possède une voiture, il est avantageux de l'utiliser plutôt que de prendre les transports publics.
 
-{{< figure src="images/frais-km-tcs-2013.png" alt="Frais kilomériques TCS (2013)" caption="Frais kilomériques TCS (2013)" link="http://www.tcs.ch/fr/assets/couts-de-la-voiture/frais-kilometriques/3595_09_infotechTCS_FraisKilom--triques2013_fr.pdf" align="alignright" width="301" >}}
+{{< figure src="images/frais-km-tcs-2013.png" alt="Frais kilomériques TCS (2013)" caption="Frais kilomériques TCS (2013)" link="http://www.tcs.ch/fr/assets/couts-de-la-voiture/frais-kilometriques/3595_09_infotechTCS_FraisKilom--triques2013_fr.pdf" width="301" >}}
 
 Le coût annuel d'une voiture étant composé à 60% de frais fixes (assurances, impôts, garage), le coût au km dépend énormément du nombre de km parcourus par an. Comme on peut le voir sur les fameuses [courbes des frais kilométriques du TCS](https://www.tcs.ch/mam/Digital-Media/PDF/Booklets/Frais-kilom-triques.pdf), la voiture la moins chère du marché (Frs 12'000) vous coûtera :
 

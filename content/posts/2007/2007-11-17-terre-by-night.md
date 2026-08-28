@@ -8,6 +8,7 @@ tags:
   - "astro"
   - "energie"
   - "monde"
+coverImage: "rosetta_earth.jpg"
 ---
 
 La sonde Rosetta en route pour la comète "Churyumov-Gerasimenko" vient de repasser près de la Terre en prenant cette magnifique image de notre planète, avec ses villes illuminée :

@@ -12,7 +12,9 @@ tags:
 coverImage: "9c98d62d84360b1b799664736209bd141.jpg"
 ---
 
-![](images/9c98d62d84360b1b799664736209bd14.jpg)La spectaculaire [mise à l'eau d'Alinghi 5](http://www.20min.ch/ro/news/romandie/story/16004125) par une "grue volante" [Mil MI-26](http://fr.wikipedia.org/wiki/Mil_Mi-26) est l'occasion de parler un peu de ces merveilles technologiques.
+{{< figure src="images/9c98d62d84360b1b799664736209bd14.jpg" >}}
+
+La spectaculaire [mise à l'eau d'Alinghi 5](http://www.20min.ch/ro/news/romandie/story/16004125) par une "grue volante" [Mil MI-26](http://fr.wikipedia.org/wiki/Mil_Mi-26) est l'occasion de parler un peu de ces merveilles technologiques.
 
 Pour le bateau, visitez le [blog Foilers!](http://foils.wordpress.com/2009/07/06/alinghi-avec-ou-sans-foils/) Pour l'hélico, lisez la suite.
 

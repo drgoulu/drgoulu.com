@@ -16,7 +16,7 @@ aliases:
   - "/2012/07/01/innovation/"
 ---
 
-{{< figure src="images/328f7398c97abb8dc01a010269c6b96c.jpg" alt="iStock_000018775492XSmall" caption="j'aime bien le logo de la conf ;-) (merci istockphoto)" link="http://www.istockphoto.com/stock-photo-18775492-goldfish-disguised-as-a-shark.php?st=c9bde31" align="alignright" width="322" >}}
+{{< figure src="images/328f7398c97abb8dc01a010269c6b96c.jpg" alt="iStock_000018775492XSmall" caption="j'aime bien le logo de la conf ;-) (merci istockphoto)" link="http://www.istockphoto.com/stock-photo-18775492-goldfish-disguised-as-a-shark.php?st=c9bde31" width="322" >}}
 
 Assisté l'autre jour à la conférence "[Crée ou crève! : Inutile d'être génial ou savant pour être innovant!](http://www.rezonance.ch/rezo/classes/ft-first-tuesday/geneve/2012-06-19/)" d'Elmar Mock consacrée à l' "innovation de rupture".
 
@@ -57,7 +57,7 @@ Finalement, où est la "rupture" de la Swatch ? le prix ? l'irréparabilité ? C
 
 N'est-il pas plus "facile" d'innover dans une entreprise, voire une industrie en train de couler que dans une qui va bien ?
 
-{{< figure src="images/78503155b50ff5cc1f30663e46e02e48.gif" alt="L' Innovation à Lausanne 1935/1948 ( photos Musée Historique de Lausanne)" caption="&quot;L' Innovation&quot; à Lausanne 1935/1948 ( photos Musée Historique de Lausanne)" link="http://www.notrehistoire.ch/group/nos-grands-magasins/" align="alignright" width="320" >}}
+{{< figure src="images/78503155b50ff5cc1f30663e46e02e48.gif" alt="L' Innovation à Lausanne 1935/1948 ( photos Musée Historique de Lausanne)" caption="&quot;L' Innovation&quot; à Lausanne 1935/1948 ( photos Musée Historique de Lausanne)" link="http://www.notrehistoire.ch/group/nos-grands-magasins/" width="320" >}}
 
 Le mot "innovation" évoque pour moi encore une chaîne de ["grands magasins" de Suisse Romande](http://www.notrehistoire.ch/group/nos-grands-magasins/), aujourd'hui disparue. Dès 1935, le mot "innovation" trônait en lettres majuscules au centre de plusieurs villes. Mes parents appelait même "Sainte Innovation" un certain jour férié dans notre Valais catholique et consacré aux gros achats annuels chez nos voisins protestants.
 

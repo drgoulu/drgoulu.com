@@ -6,6 +6,7 @@ categories:
   - "cat2"
 tags: 
   - "aerospace"
+coverImage: "bc0c66f2435bbf582fe9107b57489a57.gif"
 ---
 
 La une du Matin de ce dimanche montre une photo d'un "fou volant" se lançant d'un avion avec un aile rigide propulsée par 4 mini-réacteurs!

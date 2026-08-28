@@ -8,6 +8,7 @@ tags:
 - philosophie
 - physique
 draft: true
+coverImage: "e2f973ebc3d7cbd940ca9a9e3ff9cb74.jpg"
 ---
 En 1900, le mathématicien Hilbert proposa [23 problèmes](https://fr.wikipedia.org/wiki/Problèmes_de_Hilbert) devant être résolus au XXème siècle. Les deux premiers sont liés à la "révolution de la logique" mentionnée dans la [première partie](/2014/02/02/les-impossibles-1/) de cette réflexion sur ce qui est scientifiquement impossible. Suite à ceci, les mathématiciens savent désormais qu'il leur sera toujours possible de formuler des théorèmes impossibles à démontrer quels que soient les axiomes qu'ils adoptent. Mais le [sixième problème de Hilbert](https://fr.wikipedia.org/wiki/sixième_problème_de_Hilbert) qui visait à appliquer une démarche similaire à la physique n'a toujours pas été résolu : on n'a pas réussi à définir les "axiomes de la physique". Les difficultés ont été multiples. Pour commencer, la notion de "[vérité](https://fr.wikipedia.org/wiki/V%C3%A9rit%C3%A9#Diff.C3.A9rents_sens)" diffère entre mathématiciens et physiciens. En logique, le "vrai" est purement formel : les axiomes sont admis comme "vrais" par définition, et tout ce qui en découle logiquement par les théorèmes (démontrés) est alors qualifié de "vrai".
 

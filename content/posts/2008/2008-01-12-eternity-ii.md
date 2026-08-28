@@ -9,7 +9,9 @@ tags:
 coverImage: "40119c41af0f937056e84674a4fc6f53.jpg"
 ---
 
-[![](images/f4419de73547bf847369e16fd3babcb5.jpg)Eternity II](http://fr.eternityii.com/) est un puzzle spécialement étudié pour être extrêmement difficile, au point que son éditeur offre [2 millions de dollars](http://fr.eternityii.com/regles-du-jeu/) au premier qui parviendra à placer correctement ses 256 pièces carrées de façon à ce que les côtés de chacune correspondent à ceux de ses 4 voisins, comme sur ce petit exemple avec 16 pièces seulement :
+{{< figure src="images/f4419de73547bf847369e16fd3babcb5.jpg" alt="Eternity II" link="http://fr.eternityii.com/" >}}
+
+[Eternity II](http://fr.eternityii.com/) est un puzzle spécialement étudié pour être extrêmement difficile, au point que son éditeur offre [2 millions de dollars](http://fr.eternityii.com/regles-du-jeu/) au premier qui parviendra à placer correctement ses 256 pièces carrées de façon à ce que les côtés de chacune correspondent à ceux de ses 4 voisins, comme sur ce petit exemple avec 16 pièces seulement :
 
 {{< figure src="images/40119c41af0f937056e84674a4fc6f53.jpg" alt="(cliquer sur l'image pour jouer à la version 4x4 en ligne)" caption="(cliquer sur l'image pour jouer à la version 4x4 en ligne)" link="http://fr.eternityii.com/essayer-eternityii-en-ligne/" align="aligncenter" width="340" >}}
 

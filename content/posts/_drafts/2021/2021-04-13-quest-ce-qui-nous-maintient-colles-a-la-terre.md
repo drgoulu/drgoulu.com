@@ -5,6 +5,7 @@ date: '2021-04-13'
 categories:
 - non-classe
 draft: true
+coverImage: "image-1024x358.png"
 ---
 Les modèles scientifiques expliquent nos observations :
 

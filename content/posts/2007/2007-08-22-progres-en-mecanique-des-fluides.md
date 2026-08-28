@@ -8,6 +8,7 @@ tags:
   - "jeux"
   - "physique"
   - "simulation"
+coverImage: "teaser.png"
 ---
 
 La mécanique des fluides est l’un des domaines de la physique classique les plus difficiles, et des plus utiles.

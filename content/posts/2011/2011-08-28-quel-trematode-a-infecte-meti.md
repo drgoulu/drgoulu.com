@@ -11,7 +11,9 @@ tags:
 coverImage: "c37ed04412ed10fbd5ce026ecdffc3b51.gif"
 ---
 
-[![](images/c37ed04412ed10fbd5ce026ecdffc3b5.gif)](http://www.smbc-comics.com/index.php?db=comics&id=2331)Vu l'autre jour cet excellent cartoon du "Saturday Morning Breakfast Cereal" qui associe l'émission de signaux à destination des extraterrestres ([METI](http://en.wikipedia.org/wiki/Messaging_to_Extra-Terrestrial_Intelligence)) à un comportement suicidaire de poissons infectés par des [trématodes](http://fr.wikipedia.org/wiki/Trematoda) :-)
+{{< figure src="images/c37ed04412ed10fbd5ce026ecdffc3b5.gif" link="http://www.smbc-comics.com/index.php?db=comics&id=2331" >}}
+
+Vu l'autre jour cet excellent cartoon du "Saturday Morning Breakfast Cereal" qui associe l'émission de signaux à destination des extraterrestres ([METI](http://en.wikipedia.org/wiki/Messaging_to_Extra-Terrestrial_Intelligence)) à un comportement suicidaire de poissons infectés par des [trématodes](http://fr.wikipedia.org/wiki/Trematoda) :-)
 
 Hélas, il manque de références.
 

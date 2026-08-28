@@ -11,7 +11,9 @@ tags:
 coverImage: "bb37f51f2d6d727de11a68b60653fb77.jpg"
 ---
 
-![](images/bb37f51f2d6d727de11a68b60653fb77.jpg)L'étude de texte est un art qui se perd. Un grand nombre de média papier et électronique ont récemment titré "[Croire en Dieu est un superstition enfantine, selon une lettre d'Einstein](http://www.google.ch/search?q=Croire+en+Dieu+est+une+%C2%ABsuperstition+enfantine%C2%BB%2C+selon+une+lettre+d'Einstein)".
+{{< figure src="images/bb37f51f2d6d727de11a68b60653fb77.jpg" >}}
+
+L'étude de texte est un art qui se perd. Un grand nombre de média papier et électronique ont récemment titré "[Croire en Dieu est un superstition enfantine, selon une lettre d'Einstein](http://www.google.ch/search?q=Croire+en+Dieu+est+une+%C2%ABsuperstition+enfantine%C2%BB%2C+selon+une+lettre+d'Einstein)".
 
 Or il n'a jamais dit ça. Dans cette fameuse lettre, il est écrit :
 

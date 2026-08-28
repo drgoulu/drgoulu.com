@@ -11,7 +11,9 @@ tags:
 coverImage: "2a62d67153ec2834b7d7f23250a1c260-1.jpg"
 ---
 
-![](images/13552ddc28c957a77d860d0e847fdbae.jpg)Grâce à [Miro](/2008/03/09/le-futur-de-la-television-zattoo-miro-etc/), j'ai découvert les magnifiques "vodcasts" diffusées par l'équipe du [téléscope spatial Hubble : les Hubblecast](http://www.spacetelescope.org/videos/archive/category/hubblecast/). Présentés de manière très professionnelle et réalisée en haute définition, ce sont d'excellentes émissions de vulgarisation scientifique présentant les découvertes faites à l'aide du télescope spatial Hubble.
+{{< figure src="images/13552ddc28c957a77d860d0e847fdbae.jpg" >}}
+
+Grâce à [Miro](/2008/03/09/le-futur-de-la-television-zattoo-miro-etc/), j'ai découvert les magnifiques "vodcasts" diffusées par l'équipe du [téléscope spatial Hubble : les Hubblecast](http://www.spacetelescope.org/videos/archive/category/hubblecast/). Présentés de manière très professionnelle et réalisée en haute définition, ce sont d'excellentes émissions de vulgarisation scientifique présentant les découvertes faites à l'aide du télescope spatial Hubble.
 
 Le seul problème c'est qu'elles sont en anglais... Voici quelques éléments en français pour vous aider à choisir vos épisodes et à les comprendre :
 

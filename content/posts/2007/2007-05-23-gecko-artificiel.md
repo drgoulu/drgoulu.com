@@ -7,6 +7,7 @@ categories:
 tags: 
   - "mecanique"
   - "physique"
+coverImage: "from_inside_sml.jpg"
 ---
 
 Ils l'on fait : un robot capable de grimper sur du verre en utilisant la force de Van der Waals.

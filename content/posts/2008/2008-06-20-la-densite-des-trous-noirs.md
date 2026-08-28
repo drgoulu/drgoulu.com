@@ -12,7 +12,7 @@ tags:
 coverImage: "c183a5365cb5dd27cd4652865d8fd6b8.jpg"
 ---
 
-{{< figure src="images/c183a5365cb5dd27cd4652865d8fd6b8.jpg" alt="Black hole on Earth, par Revilla sur flickr" caption="Black hole on Earth, par Revilla sur flickr" link="http://www.flickr.com/photos/revilla/515536280/" align="alignright" width="240" >}}
+{{< figure src="images/c183a5365cb5dd27cd4652865d8fd6b8.jpg" alt="Black hole on Earth, par Revilla sur flickr" caption="Black hole on Earth, par Revilla sur flickr" link="http://www.flickr.com/photos/revilla/515536280/" width="240" >}}
 
 A la fin de sa vie, une étoile s'éteint et s'effondre sur elle-même : en quelques minutes, la gravité compacte sa matière en une sphère de plus en plus dense, jusqu'à une limite qui ne dépend que de la masse  de l'étoile:
 

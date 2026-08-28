@@ -13,7 +13,9 @@ tags:
 coverImage: "7075421-L.jpg"
 ---
 
-![7075421-L](images/7075421-L.jpg)Dans ce livre [Paul Davies](https://fr.wikipedia.org/wiki/Paul_Davies_(physicien)) propose le schéma de principe d'un système permettant [le voyage dans le temps](https://fr.wikipedia.org/wiki/le_voyage_dans_le_temps) en créant un [trou de ver](https://fr.wikipedia.org/wiki/trou_de_ver):
+{{< figure src="images/7075421-L.jpg" alt="7075421-L" >}}
+
+Dans ce livre [Paul Davies](https://fr.wikipedia.org/wiki/Paul_Davies_(physicien)) propose le schéma de principe d'un système permettant [le voyage dans le temps](https://fr.wikipedia.org/wiki/le_voyage_dans_le_temps) en créant un [trou de ver](https://fr.wikipedia.org/wiki/trou_de_ver):
 
 1. un collisionneur crée un [plasma quark-gluon](https://fr.wikipedia.org/wiki/plasma_quark-gluon). Les accélérateurs d'ions lourds comme le [LHC](https://fr.wikipedia.org/wiki/Large_Hadron_Collider) du [CERN](https://fr.wikipedia.org/wiki/CERN) peuvent produire ces plasmas, à une température de 1013 [kelvin](https://fr.wikipedia.org/wiki/kelvin).
 2. un « imploseur » comprimerait ensuite ce plasma par un facteur 1019 pour atteindre la [température de Planck](https://fr.wikipedia.org/wiki/température_de_Planck), ce qui formerait éventuellement un minuscule trou de ver. L'énergie nécessaire n'est pas élevée grâce au très faible volume, mais la technologie n'est pas disponible actuellement. Davis propose d'utiliser un dispositif [Z-pinch](https://fr.wikipedia.org/wiki/Z-pinch) amélioré, en le ceinturant d'une sphère de bombes thermonucléaires.

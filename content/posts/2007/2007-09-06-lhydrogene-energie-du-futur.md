@@ -15,7 +15,9 @@ tags:
 coverImage: "ccc806a5160dee07a8e894b7daedff5b.jpg"
 ---
 
-[![](images/ccc806a5160dee07a8e894b7daedff5b.jpg)](http://www.flickr.com/photos/louisville327/243347651/)Dans la [Tribune de Genève](http://www.tdg.ch) du 4 septembre, Anne-Muriel Brouet expose un point de vue courant selon lequel "l'hydrogène est une, si ce n'est l'énergie de l'avenir". Et, bien que le mot "source" n'apparaisse nulle part dans son article, le chapeau énonce clairement que l'hydrogène serait "un espoir de ressource propre".
+{{< figure src="images/ccc806a5160dee07a8e894b7daedff5b.jpg" link="http://www.flickr.com/photos/louisville327/243347651/" >}}
+
+Dans la [Tribune de Genève](http://www.tdg.ch) du 4 septembre, Anne-Muriel Brouet expose un point de vue courant selon lequel "l'hydrogène est une, si ce n'est l'énergie de l'avenir". Et, bien que le mot "source" n'apparaisse nulle part dans son article, le chapeau énonce clairement que l'hydrogène serait "un espoir de ressource propre".
 
 Malheureusement, l'hydrogène n'est pas une "ressource", encore moins une source d'énergie. C'est un "vecteur énergétique", un moyen de stocker et de transporter de l'énergie d'un point à un autre, par exemple dans le réservoir d'un véhicule, mais l'énergie produite dans la pile à combustible ou tout autre dispositif brulant de l'hydrogène provient d'une autre source d'énergie : celle qui a permis de produire l'hydrogène.
 

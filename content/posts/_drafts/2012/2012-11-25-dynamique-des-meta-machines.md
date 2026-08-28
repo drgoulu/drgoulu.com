@@ -7,10 +7,11 @@ categories:
 tags:
 - production
 draft: true
+coverImage: "image00-199x300.jpg"
 ---
 Pour une fois, je vais vous parler un peu de mon boulot. Et vous expliquer pourquoi, après une  [thèse en robotique](http://library.epfl.ch/theses/?nr=1228) et quelques années passées à développer des commandes de machines industrielles de plus en plus productives, j'en suis arrivé à m'intéresser à la production de ces machines, domaine souvent ignoré voire méprisé par mes collègues du "R&D"\*.  Pourtant une usine de production de machines peut être vue comme une "métamachine" dont la productivité peut être améliorée en lui appliquant des principes et méthodes connus pour la "[régulation](http://fr.wikipedia.org/wiki/R%C3%A9gulation)" des machines et autres [systèmes dynamiques](http://fr.wikipedia.org/wiki/Syst%C3%A8me_dynamique).
 
-{{< figure src="images/image00-199x300.jpg" alt="image00" caption="système non holonome très dynamique" link="/wp-content/uploads/2012/11/image00.jpg" align="alignright" width="199" >}}
+{{< figure src="images/image00-199x300.jpg" alt="image00" caption="système non holonome très dynamique" link="/wp-content/uploads/2012/11/image00.jpg" width="199" >}}
 
 Je me suis tout à coup aperçu que ma première activité chez Bobst, à savoir le développement du “Power Aligner” (PA) d’Asitrade, permettait d’expliquer ou de rafraîchir un certain nombre de notions sur les systèmes dynamiques seront utiles pour comprendre la nécessité d’un APS.
 

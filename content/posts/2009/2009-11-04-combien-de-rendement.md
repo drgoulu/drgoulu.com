@@ -19,7 +19,7 @@ Votre banquier et les écolos environnementalistes vous le répètent à l'envi 
 
 Sauf que.
 
-{{< figure src="images/35ea4461be469c2aded70dd0548adf56.jpg" alt="Nuage de monoxyde de dihydrogène... Photo : Koert Michiels sur flickr" caption="Nuage de monoxyde de dihydrogène... Photo : Koert Michiels sur flickr" link="http://www.flickr.com/photos/koertmichiels/1516321778/" align="alignright" width="333" >}}
+{{< figure src="images/35ea4461be469c2aded70dd0548adf56.jpg" alt="Nuage de monoxyde de dihydrogène... Photo : Koert Michiels sur flickr" caption="Nuage de monoxyde de dihydrogène... Photo : Koert Michiels sur flickr" link="http://www.flickr.com/photos/koertmichiels/1516321778/" width="333" >}}
 
 D'abord, pour calculer un rendement, il faut tenir compte de toutes les "sorties utiles" du système, pas seulement de la plus évidente. Les 70% de "perte" d'un moteur à essence sont de la chaleur gratuite qui réchauffe votre habitacle l'hiver et surtout qui tient vos vitres dégivrées. Avec son super rendement de 90%, la [Tesla de mes rêves](/2008/05/06/le-roadster-tesla-disponible-en-europe/) (100'000 Euros...) ne permet pas de rouler en hiver! La version 2 promise l'année prochaine sacrifiera environ 3 kW de précieuse puissance électrique pour remplacer doudoune et grattoir... Le même argument s'applique aux ampoules à basse consommation : [elles n'économisent pas tant que ça](/2007/11/07/ampoules-a-faible-consommation/), et certainement pas du CO2.
 

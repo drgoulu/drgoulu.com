@@ -15,7 +15,7 @@ tags:
 coverImage: "c0a7e020479d443f49abcdc5253d7ae9.png"
 ---
 
-[![lefacteurtemps](images/lefacteurtemps-300x215.jpg)](/wp-content/uploads/2008/06/lefacteurtemps.jpg)
+{{< figure src="images/lefacteurtemps-300x215.jpg" alt="lefacteurtemps" link="/wp-content/uploads/2008/06/lefacteurtemps.jpg" >}}
 
 C'était la question abordée dans une [conférence donnée au CERN](http://cdsweb.cern.ch/record/1115411) récemment par [Étienne Klein](https://fr.wikipedia.org/wiki/Étienne_Klein), et à laquelle il a répondu NON, trop vite à mon goût. Il faut dire qu'Etienne Klein est physicien et philosophe, et que sa conférence mêlait un peu les deux aspects de la question. De plus, le titre de son livre "Le facteur temps ne sonne jamais deux fois" [[4]](#ref-4) ne laissait que peu de doute sur son opinion sur le sujet. (Je me suis permis d'illustrer cet article avec l'image de la couverture, que je trouve excellente)
 

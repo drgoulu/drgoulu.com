@@ -7,6 +7,7 @@ categories:
 tags: 
   - "maths"
   - "nombres"
+coverImage: "5b925a7a674da87b3b484f64b48890dd.png"
 ---
 
 Quel est le plus grand nombre entier que vous pouvez exprimer ? neuf milliards de milliards de milliards de (répéter quelques fois) milliards ? C'est un bon début, mais chaque "milliards de" n'ajoute que 9 zéros au nombre mais vous coute 12 lettres. Cherchez plus grand et plus court, disons en 5 caractères maximum.

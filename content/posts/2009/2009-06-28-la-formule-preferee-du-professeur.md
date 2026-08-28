@@ -12,7 +12,9 @@ tags:
 coverImage: "7010427-L.jpg"
 ---
 
-![7010427-L](images/7010427-L.jpg)Ma maman aime lire des auteurs du monde entier. Elle m'a fait découvrir [Gabriel García Márquez,](http://fr.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez) [Ismail Kadare](http://fr.wikipedia.org/wiki/Ismail_Kadare), [Amin Maalouf](http://fr.wikipedia.org/wiki/Amin_Maalouf) et bien d'autres. Je viens de dévorer le dernier roman qu'elle m'a prêté : "La formule préférée du professeur" de [Yoko Ogawa](http://fr.wikipedia.org/wiki/Ogawa_Yoko).
+{{< figure src="images/7010427-L.jpg" alt="7010427-L" >}}
+
+Ma maman aime lire des auteurs du monde entier. Elle m'a fait découvrir [Gabriel García Márquez,](http://fr.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez) [Ismail Kadare](http://fr.wikipedia.org/wiki/Ismail_Kadare), [Amin Maalouf](http://fr.wikipedia.org/wiki/Amin_Maalouf) et bien d'autres. Je viens de dévorer le dernier roman qu'elle m'a prêté : "La formule préférée du professeur" de [Yoko Ogawa](http://fr.wikipedia.org/wiki/Ogawa_Yoko).
 
 Le très bon roman combine surréalisme, cours de maths, philosophie et exotisme japonais.
 

@@ -12,7 +12,7 @@ tags:
 coverImage: "0408116c8f483e02475f15c658313033.gif"
 ---
 
-{{< figure src="images/0408116c8f483e02475f15c658313033.gif" alt="Réseaux cristallins du carbone pyrolytique (a) et du graphite (b)" caption="Réseaux cristallins du carbone pyrolytique (a) et du graphite (b)" link="http://www.onxlti.com/product-divisions/contract-manufacturing-products/on-x-pyrolytic-carbon/" align="alignright" width="300" >}}
+{{< figure src="images/0408116c8f483e02475f15c658313033.gif" alt="Réseaux cristallins du carbone pyrolytique (a) et du graphite (b)" caption="Réseaux cristallins du carbone pyrolytique (a) et du graphite (b)" link="http://www.onxlti.com/product-divisions/contract-manufacturing-products/on-x-pyrolytic-carbon/" width="300" >}}
 
 Découvert l'existence d'une forme de carbone méconnue : le [carbone pyrolytique](https://fr.wikipedia.org/wiki/carbone_pyrolytique). C'est un empilement de couches de [graphène](https://fr.wikipedia.org/wiki/graphène) moins régulier que dans le [graphite](https://fr.wikipedia.org/wiki/graphite) \*.
 

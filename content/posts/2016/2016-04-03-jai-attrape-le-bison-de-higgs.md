@@ -10,7 +10,9 @@ tags:
 coverImage: "7402058-L.jpg"
 ---
 
-![Mais qui a attrapé le bison de Higgs ?](images/7402058-L.jpg "View this title in Open Library")[David Louapre est un blogueur](https://sciencetonnante.wordpress.com/) du [Café des Sciences](http://www.cafe-sciences.org/) dont [la chaîne YouTube "Science Etonnante"](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) rencontre un succès mérité. Il vient de publier son premier livre de vulgarisation intitulé "Mais qui a attrapé le bison de Higgs ?" dont j'ai immédiatement attrapé un exemplaire. Ou le contraire car j'ai été contaminé par cet excellent bouquin au point d'en lire les 172 pages d'une traite.
+{{< figure src="images/7402058-L.jpg" alt="Mais qui a attrapé le bison de Higgs ?" >}}
+
+[David Louapre est un blogueur](https://sciencetonnante.wordpress.com/) du [Café des Sciences](http://www.cafe-sciences.org/) dont [la chaîne YouTube "Science Etonnante"](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) rencontre un succès mérité. Il vient de publier son premier livre de vulgarisation intitulé "Mais qui a attrapé le bison de Higgs ?" dont j'ai immédiatement attrapé un exemplaire. Ou le contraire car j'ai été contaminé par cet excellent bouquin au point d'en lire les 172 pages d'une traite.
 
 La variété des sujets abordés au cours des 20 chapitres peut surprendre (mais pas moi ;-) ) : maths, évolution, astronomie, physique, et même psychologie. Le format est assez proche du blog, chaque chapitre portant la date de sa rédaction. La trame du livre est définie par ses conversations avec ses jeunes filles et leurs questions aussi enfantines que profondes, relatées en bleu en introduction de chaque chapitre. David expose les réponses de la science avec un réel talent de vulgarisateur, en tenant (presque) sa promesse de l'avant-propos : "Nul besoin d'avoir fait de longues études scientifiques pour comprendre le contenu de ce livre. Vous avez une idée de ce qu'est un atome ? Un gène ? Une probabilité ? Vous en savez bien assez !"
 

@@ -13,7 +13,7 @@ coverImage: "82efd9ac4bab6fd9fa3fbebd4f5afa30.jpg"
 
 _Après une petite pause due en partie au déménagement de ce blog suite à des problèmes d'hébergement, je vous propose une traduction de l'article "[Falling faster than gravity](https://inspiringscience.wordpress.com/2013/04/15/falling-faster-than-gravity/)" de Sedeer sur [Inspiring Science](https://inspiringscience.wordpress.com/). Pour la petite histoire, ça me rappelle une question que je m'étais posé une nuit d'insomnie à bord  d' "Etoile Filante" : ma couchette pouvait-elle vraiment tomber plus vite que moi lorsque le bateau franchissait une vague ?_
 
-{{< figure src="images/82efd9ac4bab6fd9fa3fbebd4f5afa30.jpg" alt="crédit : Ruina Lab. (cliquer pour le film)" caption="crédit : Ruina Lab. (cliquer pour le film)" link="http://ruina.tam.cornell.edu/research/topics/fallingchains/index.html" align="alignright" width="328" >}}
+{{< figure src="images/82efd9ac4bab6fd9fa3fbebd4f5afa30.jpg" alt="crédit : Ruina Lab. (cliquer pour le film)" caption="crédit : Ruina Lab. (cliquer pour le film)" link="http://ruina.tam.cornell.edu/research/topics/fallingchains/index.html" width="328" >}}
 
 En 2011, une équipe de physiciens de l'Université Cornell à Ithaca (New York) a montré que lorsqu'une chaîne en chute libre heurtait quelque chose, par exemple une table, elle pouvait, contrairement à l'intuition, accélérer et tomber plus vite que si elle ne touchait rien.  En étudiant attentivement sa mécanique, ils ont montré que l'impact pouvait tirer le reste de la chaîne vers le bas.  Comme le montre la photo de leur expérience ci-contre, ils avaient raison.  Les deux chaines bizarres ont été lâchées de la même hauteur au même moment, mais celle de gauche qui tombe sur une table en formant une pile est tombée plus vite que celle de droite qui tombe à côté de la table.
 
@@ -29,7 +29,7 @@ Tout ce qui est attaché à l'extrémité libre, par exemple par une ficelle, se
 
 Ils ont aussi testé une chaîne ordinaire, qui se comporte juste comme on s'y attend. Dans ce cas, le dernier lien se déconnecte du précédent et ne lui applique donc aucune force, ce qui signifie que l'hypothèse utilisée pour résoudre le cas d'école est valide dans ce cas.
 
-{{< figure src="images/23b10ec8f705e4520e8fc1ee7b014160.jpg" alt="Falling link chain (Photo credit: Ruina lab)" caption="L'impact avec une table n'accélère pas une chaîne ordinaire car les maillons se déconnectent au moment de l'impact. (crédit : Ruina Lab.)" link="http://ruina.tam.cornell.edu/research/topics/fallingchains/videos/two_open_link_metal_chains_together_med.mov" align="alignright" width="713" >}}
+{{< figure src="images/23b10ec8f705e4520e8fc1ee7b014160.jpg" alt="Falling link chain (Photo credit: Ruina lab)" caption="L'impact avec une table n'accélère pas une chaîne ordinaire car les maillons se déconnectent au moment de l'impact. (crédit : Ruina Lab.)" link="http://ruina.tam.cornell.edu/research/topics/fallingchains/videos/two_open_link_metal_chains_together_med.mov" width="713" >}}
 
 Alors qu'on peut mesurer et comprendre les [fluctuations de l'univers primitif](http://www.esa.int/fre/ESA_in_your_country/France/Planck_revele_un_Univers_presque_parfait), il est quand même étonnant que l'on puisse encore apprendre de nouvelles choses sur quelque chose d'aussi familier qu'une chaîne tombant au sol. Je finis souvent mes articles en m'émerveillant sur l'immense richesse du monde, mais cette fois c'est notre capacité à toujours nous poser des questions et à comprendre le monde avec précision qui m'étonne.
 

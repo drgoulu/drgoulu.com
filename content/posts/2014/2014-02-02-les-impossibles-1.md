@@ -17,7 +17,7 @@ Ca pose tout de même une question intéressante : qu'est-ce que la science cons
 
 ### Qui est le c.. savant qui a dit "_Les machines volantes plus lourdes que l'air sont impossibles_"?
 
-{{< figure src="images/44ffddf78bf8e6856d01686087fcd59b.png" alt="J'ai un point commun avec Lord Kelvin ! On écrit tous les deux comme des cochons." caption="J'ai un point commun avec Lord Kelvin ! On écrit tous les deux comme des cochons." link="http://zapatopi.net/kelvin/papers/letters.html#baden-powell" align="alignright" width="224" >}}
+{{< figure src="images/44ffddf78bf8e6856d01686087fcd59b.png" alt="J'ai un point commun avec Lord Kelvin ! On écrit tous les deux comme des cochons." caption="J'ai un point commun avec Lord Kelvin ! On écrit tous les deux comme des cochons." link="http://zapatopi.net/kelvin/papers/letters.html#baden-powell" width="224" >}}
 
 Selon les sites que l'on consulte, cette bêtise est parfois attribuée à [Simon Newcomb](https://fr.wikipedia.org/wiki/Simon_Newcomb)\*, parfois à [Lord Rayleigh](https://fr.wikipedia.org/wiki/Lord_Rayleigh) et très souvent à [Lord Kelvin](https://fr.wikipedia.org/wiki/Lord_Kelvin). Après pas mal de recherches, la plus ancienne trace écrite de cette "citation" que j'ai pu trouver figure dans un bouquin de 1981 \[2\], où elle est attribuée à Kelvin. De même, sur [cette page de citations sourcées de Kelvin](http://zapatopi.net/kelvin/quotes/), l'auteur indique qu'il n'a pas trouvé de source contemporaine de Kelvin. [La wikipédia](https://fr.wikipedia.org/wiki/Liste_de_pr%C3%A9dictions_erron%C3%A9es#Avant_1940) mentionne une variante fréquente "La réalisation d’une machine volante plus lourde que l’air est impossible", que Kelvin est censé avoir dit en 1895, sans source vérifiée non plus.
 

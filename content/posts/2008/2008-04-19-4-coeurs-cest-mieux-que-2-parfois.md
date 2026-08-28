@@ -9,7 +9,9 @@ tags:
 coverImage: "Cell-big2-1.jpg"
 ---
 
-![](images/Cell-big2-1.jpg)A peine s'est-on habitués à l'idée d'avoir des processeurs à double coeur dans nos PC que les quadruple coeurs ([Intel Core 2 Quad](http://www.intel.com/cd/products/services/emea/fra/processors/core2quad/333916.htm) ou  [AMD Opteron Quad Core](http://multicore.amd.com/us-en/quadcore/)) débarquent dans les PC haut de gamme, et bientôt sur nos bureaux.
+{{< figure src="images/Cell-big2-1.jpg" >}}
+
+A peine s'est-on habitués à l'idée d'avoir des processeurs à double coeur dans nos PC que les quadruple coeurs ([Intel Core 2 Quad](http://www.intel.com/cd/products/services/emea/fra/processors/core2quad/333916.htm) ou  [AMD Opteron Quad Core](http://multicore.amd.com/us-en/quadcore/)) débarquent dans les PC haut de gamme, et bientôt sur nos bureaux.
 
 Si le double coeur apporte sans conteste un gain de confort (un coeur pour Windows, un autre pour l'application ...), il faut reconnaitre que très peu d'applications sont capables de tirer parti du gain de performance qu'apportent théoriquement deux unités de calcul. Que dire pour quatre ?
 

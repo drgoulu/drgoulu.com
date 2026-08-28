@@ -9,6 +9,7 @@ tags:
   - "politique"
   - "statistiques"
   - "suisse"
+coverImage: "8f427bc7a54a4b8a53ad3950160ad05f.jpg"
 ---
 
 De plus en plus de tests en ligne permettent de se situer sur l' "échiquier politique", voire de trouver les candidats à une élection dont les idées sont les plus proches des siennes, comme [smartvote.ch](http://www.smartvote.ch) pour les prochaines élections fédérales Suisses.

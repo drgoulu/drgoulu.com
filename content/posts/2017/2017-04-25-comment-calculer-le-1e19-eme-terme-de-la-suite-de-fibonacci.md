@@ -53,7 +53,7 @@ $\mathcal F_{1000}$=434665576869374564356885276750406258025646605173717804024817
 
 Donc $\mathcal F_{10^{19}}$ comporte 2089876402499787337 chiffres ... Il faudrait [dans les 867](https://www.wolframalpha.com/input/?i=10%5E19*log\(\(1%2Bsqrt\(5\)\)%2F2\)%2Flog\(2\)%2F8) [péta](https://fr.wikipedia.org/wiki/péta)octets de RAM (de préférence...) pour stocker ce nombre ...
 
-{{< figure src="images/1nv66i.jpg" alt="(mon premier meme ... désolé ...)" caption="(mon premier meme ... désolé ...)" align="alignright" width="500" >}}
+{{< figure src="images/1nv66i.jpg" alt="(mon premier meme ... désolé ...)" caption="(mon premier meme ... désolé ...)" width="500" >}}
 
 ## Et modulo 1000000007 ?
 

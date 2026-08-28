@@ -11,7 +11,9 @@ tags:
 coverImage: "25f276b97f979458f226485b9db25e02-1.jpg"
 ---
 
-![](images/25f276b97f979458f226485b9db25e02.jpg)Le monde se divise en deux :
+{{< figure src="images/25f276b97f979458f226485b9db25e02.jpg" >}}
+
+Le monde se divise en deux :
 
 - ceux que le titre de cet article font hurler (de rire, de honte ou de terreur).
 - les autres, qui ne voient pas le problème, et auxquels cet article s'adresse prioritairement.

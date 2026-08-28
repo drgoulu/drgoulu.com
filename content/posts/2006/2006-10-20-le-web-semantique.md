@@ -11,7 +11,9 @@ tags:
 coverImage: "fdd88ca55a8f211b9fc8f978d988744c.jpg"
 ---
 
-![](images/3f39dd5cf16a7533af8313bbcfa9707a.png)En faisant des recherches sur un sujet d'intérêt encore top secret, je suis tombé sur le concept intéressant de "web sémantique" et quelques outils s'y rapportant. Ca pourrait bien devenir quelque chose d'important bientôt...
+{{< figure src="images/3f39dd5cf16a7533af8313bbcfa9707a.png" >}}
+
+En faisant des recherches sur un sujet d'intérêt encore top secret, je suis tombé sur le concept intéressant de "web sémantique" et quelques outils s'y rapportant. Ca pourrait bien devenir quelque chose d'important bientôt...
 
 L'objectif du "web sémantique" est de créer un "web des données" dans lequel il serait possible de combiner des données disponibles depuis de multiples sources.
 

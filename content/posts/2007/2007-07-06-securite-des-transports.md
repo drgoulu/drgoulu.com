@@ -10,7 +10,9 @@ tags:
 coverImage: "montage_header2.png"
 ---
 
-![](images/montage_header2.png)Un reportage TV consacré à la survie en cas d'accident d'avion m'a fait repenser à une intéressante discussion sur le danger des différents moyens de transport.
+{{< figure src="images/montage_header2.png" >}}
+
+Un reportage TV consacré à la survie en cas d'accident d'avion m'a fait repenser à une intéressante discussion sur le danger des différents moyens de transport.
 
 Roland était inquiet à l'idée de devoir prendre l'avion alors j'avais tenté de le rassurer en lui rappelant que les [statistiques](/2007/06/26/statistiques-et-esperance-de-vie/) prouvent que l'avion est plus sur que la voiture. Mais Roland avait rétorqué que les chiffres cités par les compagnies aériennes comptent le nombre d'accidents mortels par kilomètres parcourus, mais que si on tient compte du nombre de passagers qui décèdent en cas d'accident, l'avion et la voiture sont pratiquement à égalité. C'est vrai.
 

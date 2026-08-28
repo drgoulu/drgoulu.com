@@ -8,6 +8,7 @@ tags:
 - intelligence-artificielle
 - programmation
 draft: true
+coverImage: "singularity.png"
 ---
 Alexandre a partagé sur cette vidéo montrant une Intelligence Artificielle qui fait de meilleurs diagnostics médicaux que des spécialistes :
 

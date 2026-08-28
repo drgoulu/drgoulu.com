@@ -14,7 +14,7 @@ coverImage: "Boy.jpg"
 
 Les surfaces "explicites" sont faciles à représenter graphiquement : de nombreux logiciels sont capables d'évaluer des fonctions du type {x,y,z}=f(u,v) en balayant les paramètres u et v pour obtenir très rapidement de nombreux points de la surface, et les ordinateurs actuels disposent de cartes graphiques pouvant afficher le résultat sous n'importe quel angle en temps réel ([JegX arrive même à y ajouter des poils...](http://www.ozone3d.net/benchmarks/fur/index.php?lang=1))
 
-{{< figure src="images/2336066181deafac8b8a8b928a1520d0.jpg" alt="Surface de Boy (explicite) tracée par 3D-XplorMath" caption="Surface de Boy (explicite) tracée par 3D-XplorMath. Les courbes noires correspondent à la paramétrisation {u,v}" link="http://3d-xplormath.org/TopLevel/download.html" align="alignright" width="400" >}}
+{{< figure src="images/2336066181deafac8b8a8b928a1520d0.jpg" alt="Surface de Boy (explicite) tracée par 3D-XplorMath" caption="Surface de Boy (explicite) tracée par 3D-XplorMath. Les courbes noires correspondent à la paramétrisation {u,v}" link="http://3d-xplormath.org/TopLevel/download.html" width="400" >}}
 
 Mais de nombreuses surfaces mathématiques ne peuvent pas être définies explicitement. La formulation la plus générale des surfaces, f(x,y,z)=0, est "implicite" : il faut chercher quels sont les points de l'espace à 3 dimensions appartiennent à la surface, puis "lisser" la représentation graphique de cet ensemble de points, ce qui est loin d'être simple. En fait c'est toujours un [sujet de recherche actuel](http://www.google.com/search?q=visualization+of+implicit+surfaces)
 

@@ -13,7 +13,9 @@ tags:
 coverImage: "f65aa12397b8ca72ff7da1d950d6a2032-1.jpg"
 ---
 
-[![](images/f65aa12397b8ca72ff7da1d950d6a203.jpg)](http://www.pourlascience.fr/ewb_pages/s/sommaire_pls.php?art_id=26056&num=397)C'est le thème du ["Pour la Science" No 397 de Novembre 2010](http://www.pourlascience.fr/ewb_pages/s/sommaire_pls.php?art_id=26056&num=397), qui vaut vraiment la peine que vous vous précipitiez dans le kiosque le plus proche. Vous y retrouverez des idées et auteurs déjà mentionnés sur "Dr. Goulu" ou sur "[Philosphie du Temps](http://philodutemps.free.fr/)",  plus de nombreux autres.
+{{< figure src="images/f65aa12397b8ca72ff7da1d950d6a203.jpg" link="http://www.pourlascience.fr/ewb_pages/s/sommaire_pls.php?art_id=26056&num=397" >}}
+
+C'est le thème du ["Pour la Science" No 397 de Novembre 2010](http://www.pourlascience.fr/ewb_pages/s/sommaire_pls.php?art_id=26056&num=397), qui vaut vraiment la peine que vous vous précipitiez dans le kiosque le plus proche. Vous y retrouverez des idées et auteurs déjà mentionnés sur "Dr. Goulu" ou sur "[Philosphie du Temps](http://philodutemps.free.fr/)",  plus de nombreux autres.
 
 Dans "L'instant présent, unique mais banal", Étienne Klein montre le statut très particulier du présent par rapport au passé et au futur. Physicien suivant une approche essentiellement philosophique et citant notamment "[The unreality of time](http://en.wikipedia.org/wiki/J._M._E._McTaggart#.22The_Unreality_of_Time.22_.281908.29)" de McTaggart, Klein introduit de façon assez convaincante [sa conception "présentiste"](/2008/06/19/peut-on-voyager-dans-le-temps/) du temps, selon laquelle seul le présent existe.
 

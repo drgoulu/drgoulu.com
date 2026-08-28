@@ -6,9 +6,12 @@ categories:
   - "cat1"
 tags: 
   - "maths"
+coverImage: "logo.png"
 ---
 
-![](images/logo.png)Le dossier sur "[les problèmes difficiles en mathématiques](http://www.larecherche.fr/editorial/problemes-difficiles-01-04-2007-81359)" dans le journal "[la Recherche](http://www.larecherche.fr/)" d'avril 2007 indique 7, pardon plus que 6 manières de devenir millionnaire en résolvant des problèmes de maths.
+{{< figure src="images/logo.png" >}}
+
+Le dossier sur "[les problèmes difficiles en mathématiques](http://www.larecherche.fr/editorial/problemes-difficiles-01-04-2007-81359)" dans le journal "[la Recherche](http://www.larecherche.fr/)" d'avril 2007 indique 7, pardon plus que 6 manières de devenir millionnaire en résolvant des problèmes de maths.
 
 Pour commencer, l'article présente un intéressant "arbre de la complexité" des problèmes mathématiques qui ressemble à çà:
 

@@ -6,6 +6,7 @@ categories:
   - "cat2"
 tags: 
   - "aerospace"
+coverImage: "856f7493f97f6371bebad5e3d08cf549.jpg"
 ---
 
 _Je vous propose ci-dessous une traduction de l'article "[Voyager 1 Reaches Interstellar Space. But Has It Left the Solar System? Wellllll…](http://www.slate.com/blogs/bad_astronomy/2013/09/13/voyager_1_space_probe_is_in_now_in_interstellar_space.html)" de Phil Plait le "Bad Astronomer" qui introduit une intéressante distinction entre "entrer dans l'espace interstellaire" et "quitter le système solaire"_

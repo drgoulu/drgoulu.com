@@ -13,7 +13,7 @@ tags:
 coverImage: "d_wave_one_system.jpg"
 ---
 
-{{< figure src="images/d_wave_one_system.jpg" alt="Et en plus il a de la gueule. Enfin, autant qu'une boite noire éclairée par des LED bleues..." caption="Et en plus il a de la gueule. Enfin, autant qu'une boite noire éclairée par des LED bleues..." align="alignright" width="320" >}}
+{{< figure src="images/d_wave_one_system.jpg" alt="Et en plus il a de la gueule. Enfin, autant qu'une boite noire éclairée par des LED bleues..." caption="Et en plus il a de la gueule. Enfin, autant qu'une boite noire éclairée par des LED bleues..." width="320" >}}
 
 La vague idée de l'[ordinateur quantique](https://fr.wikipedia.org/wiki/ordinateur_quantique) est née dans les années 1970 à l'image d'une boutade de Richard Feynman:
 

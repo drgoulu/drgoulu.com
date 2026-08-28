@@ -8,9 +8,10 @@ tags:
   - "economie"
   - "energie"
   - "eolienne"
+coverImage: "664aa0c31119f6fcf601f7d55686e981.png"
 ---
 
-{{< figure src="images/664aa0c31119f6fcf601f7d55686e981.png" alt="Ca devrait tourner tout seul, pourtant ..." caption="Ca devrait tourner tout seul, pourtant ..." align="alignright" width="224" >}}
+{{< figure src="images/664aa0c31119f6fcf601f7d55686e981.png" alt="Ca devrait tourner tout seul, pourtant ..." caption="Ca devrait tourner tout seul, pourtant ..." width="224" >}}
 
 La machine à [mouvement perpétuel](http://fr.wikipedia.org/wiki/Mouvement_perp%C3%A9tuel) permettant de produire de l'énergie à un prix nul est un vieux rêve de l'humanité. Mais aujourd'hui on sait faire mieux : il arrive de plus en plus souvent que l'électricité ait un prix négatif pendant quelques heures ! On vous paie pour consommer de l'électricité ! Qui en veut ?
 

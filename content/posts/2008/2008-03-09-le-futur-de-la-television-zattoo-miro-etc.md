@@ -10,6 +10,7 @@ tags:
   - "marketing"
   - "media"
   - "video"
+coverImage: "zattoo-logo-small.png"
 ---
 
 Depuis quelques temps, je regarde la télévision principalement sur mon PC. Dans un premier temps, j'avais une carte "tuner" permettant d'utiliser l'écran de l'ordinateur comme 2ème télé, voire 3ème quand les 2 postes de la maison étaient squattés par mes nanas.

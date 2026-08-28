@@ -6,6 +6,7 @@ aliases:
 date: 2020-03-14
 categories: 
   - "non-classe"
+coverImage: "5e6b90d52783c_2586182963385335808.png"
 ---
 
 Le temps n'est pas à la fête. D'ailleurs [je ne fête plus pi le 3.14 mais tau le 6. 28](/2016/03/14/adieu-3-14-16-le-26-juin-ce-sera-tau-day/) , et je viens de trouver une excellente raison de plus pour ça : pi est encore plus faux lorsqu'il est chanté par Kate Bush :

@@ -8,6 +8,7 @@ tags:
 - economie
 - suisse
 draft: true
+coverImage: "b8da3cdab9cfb3f1bba0ec4d5fc65b3a.png"
 ---
 Tombé sur le "[Global Competitiveness Report 2012–2013](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2012-13.pdf)" du World Economic Forum, je n'en aurais pas eu beaucoup plus à dire que dans [cet article sur les classements](/2009/05/21/unites-et-classements/) (d'autant qu'ici la Suisse est classée 1ère...) si je n'étais pas tombé page 8 sur cette figure qui résume la construction de l'index de compétitivité :
 

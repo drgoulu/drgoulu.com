@@ -9,7 +9,7 @@ tags:
 coverImage: "bb7bdbf4c9c46359ee0bc2eac5e91202.png"
 ---
 
-![Triangle Mystérieux](images/bb7bdbf4c9c46359ee0bc2eac5e91202.png)
+{{< figure src="images/bb7bdbf4c9c46359ee0bc2eac5e91202.png" alt="Triangle Mystérieux" >}}
 
 <!--more-->
 

@@ -8,8 +8,10 @@ tags:
 - innovation
 - livres
 draft: true
+coverImage: "7104760-L.jpg"
 ---
-[![The Lean Startup](images/7104760-L.jpg "View this title in Open Library")](http://openlibrary.org/books/OL24982481M/The_Lean_Startup) 
+
+{{< figure src="images/7104760-L.jpg" alt="The Lean Startup" link="http://openlibrary.org/books/OL24982481M/The_Lean_Startup" >}}
 
 La prochaine fois que quelqu'un trouve mon CV "atypique", je lui fais lire ce bouquin.
 

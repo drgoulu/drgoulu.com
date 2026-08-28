@@ -14,7 +14,9 @@ tags:
 coverImage: "E6fJJ.png"
 ---
 
-![](images/E6fJJ.png)Depuis que je programme en Python, j'entasse les petits bouts de code utiles ou potentiellement réutilisables dans "Goulib", ma librairie perso et néanmoins disponible en open-source (licence LGPL)  sur [Pypi](https://pypi.python.org/pypi/Goulib/), [GitHub](https://github.com/goulu/Goulib), ReadTheDocs pour [la doc](http://goulib.readthedocs.io/en/latest/), avec des [notebooks Jupyter de démo.](http://nbviewer.jupyter.org/github/Goulu/Goulib/blob/master/notebook.ipynb)
+{{< figure src="images/E6fJJ.png" >}}
+
+Depuis que je programme en Python, j'entasse les petits bouts de code utiles ou potentiellement réutilisables dans "Goulib", ma librairie perso et néanmoins disponible en open-source (licence LGPL)  sur [Pypi](https://pypi.python.org/pypi/Goulib/), [GitHub](https://github.com/goulu/Goulib), ReadTheDocs pour [la doc](http://goulib.readthedocs.io/en/latest/), avec des [notebooks Jupyter de démo.](http://nbviewer.jupyter.org/github/Goulu/Goulib/blob/master/notebook.ipynb)
 
 Comme la valeur d'un code se mesure surtout par les tests qui vérifient son bon fonctionnement, je me suis lancé dans un ambitieux projet (de plus...) : tester un maximum de fonctions de mes modules [math2](http://goulib.readthedocs.io/en/latest/modules/Goulib.math2.html) et [itertools2](http://goulib.readthedocs.io/en/latest/modules/Goulib.itertools2.html) en calculant des suites de l' [Encyclopédie en ligne des suites de nombres entiers](https://oeis.org/), plus connue sous son acronyme anglais OEIS.
 

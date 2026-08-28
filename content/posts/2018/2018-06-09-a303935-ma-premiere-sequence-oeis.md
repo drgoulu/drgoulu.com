@@ -11,7 +11,9 @@ tags:
 coverImage: "euler-level2-2.png"
 ---
 
-![](images/euler-level2-2.png)Depuis le temps que je joue avec l'['Encyclopédie en ligne des Suites de Nombres Entiers](https://oeis.org/Seis.html) ([OEIS](https://fr.wikipedia.org/wiki/OEIS)), ça a fini par arriver : j'ai réussi à y ajouter une nouvelle suite,  [A303935](https://oeis.org/A303935) !
+{{< figure src="images/euler-level2-2.png" >}}
+
+Depuis le temps que je joue avec l'['Encyclopédie en ligne des Suites de Nombres Entiers](https://oeis.org/Seis.html) ([OEIS](https://fr.wikipedia.org/wiki/OEIS)), ça a fini par arriver : j'ai réussi à y ajouter une nouvelle suite,  [A303935](https://oeis.org/A303935) !
 
 Tout a commencé avec le [Problème 74 du Project Euler](https://projecteuler.net/problem=74), qui traite de la somme des factorielles des chiffres (dfs) des nombres  ([A061602](https://oeis.org/A061602)). Seuls quatre d'entre eux appelés [factorion](https://fr.wikipedia.org/wiki/factorion) sont égaux à la somme des factorielles de leurs chiffres : 1, 2, 145 et 40585  ([A014080](https://oeis.org/A014080)).
 

@@ -7,6 +7,7 @@ summary: drgoulu.com ressuscite en migrant de  WordPress à Hugo
 tags:
   - Wordpress
   - Hugo
+coverImage: "2a62d67153ec2834b7d7f23250a1c260-1.jpg"
 ---
 Après plusieurs années de quasi abandon, j'ai décidé de faire revivre ce site pour plusieurs raisons :
 

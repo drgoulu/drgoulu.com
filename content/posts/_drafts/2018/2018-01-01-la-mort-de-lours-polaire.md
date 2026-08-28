@@ -5,6 +5,7 @@ date: '2018-01-01'
 categories:
 - non-classe
 draft: true
+coverImage: "land_mammals.png"
 ---
 C'est triste, un ours polaire qui meurt. Nous avons tué tous nos loups, nos lynx et nos ours bruns, mais les autres, il faut qu'ils gardent leurs tigres, leurs lions et leurs ours polaires. Ils sont tellement beaux sur nos photos de vacances... et leurs petits sont tellement mignons, en particuliers les oursons blancs, ils sont "trognons".
 

@@ -21,7 +21,7 @@ Avant d'attaquer la question et la réponse,  une petite introduction sur le me
 
 En imprimerie, on mesure à l'aide d'un [spectrophotomètre](https://fr.wikipedia.org/wiki/spectrophotomètre) l'ensemble des couleurs produites par une imprimante, ne serait-ce que pour la calibrer [[2]](#ref-2). Mais lorsqu'on développe une imprimante industrielle, il faut en plus mesurer l'effet sur les couleurs de nombreux paramètres (qualité des substrats, composition des encres, puissance des séchoirs etc. ) afin de maximiser le "volume" des couleurs que l'imprimante est capable de reproduire.
 
-{{< figure src="images/color7.gif" alt="cube des couleurs RGB (Red Green Blue)" caption="cube des couleurs RGB (Red Green Blue)" align="alignright" width="320" >}}
+{{< figure src="images/color7.gif" alt="cube des couleurs RGB (Red Green Blue)" caption="cube des couleurs RGB (Red Green Blue)" width="320" >}}
 
 L'ensemble des couleurs définit un volume car il faut trois paramètres pour déterminer une couleur. La représentation la plus connue est celle basée sur les [couleurs primitives](https://fr.wikipedia.org/wiki/couleurs_primitives) rouge, vert et bleu, le "RGB". Sur votre écran, des pixels rouges, verts et bleus peuvent être allumés avec des intensités variables, habituellement codée par un entier entre 0 et 255. La [synthèse additive](https://fr.wikipedia.org/wiki/synthèse_additive) permet ainsi de vous faire percevoir 16'777'216 couleurs différentes définies par autant de points dans le cube ci-contre.
 

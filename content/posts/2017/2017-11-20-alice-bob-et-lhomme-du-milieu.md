@@ -11,7 +11,9 @@ tags:
 coverImage: "mitm.png"
 ---
 
-![](images/mitm.png)Dans [un précédent épisode](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/), nous avons vu comment Alice et Bob peuvent empêcher Eve la curieuse d'écouter leurs messages secrets. Mais ils doivent encore se protéger de [Mallory](https://fr.wikipedia.org/wiki/Alice_et_Bob#Adversaires), un puissant adversaire qui, s'il se place entre Alice et Bob, peut effectuer la fameuse [attaque de l'homme du milieu](https://fr.wikipedia.org/wiki/attaque_de_l'homme_du_milieu) :
+{{< figure src="images/mitm.png" >}}
+
+Dans [un précédent épisode](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/), nous avons vu comment Alice et Bob peuvent empêcher Eve la curieuse d'écouter leurs messages secrets. Mais ils doivent encore se protéger de [Mallory](https://fr.wikipedia.org/wiki/Alice_et_Bob#Adversaires), un puissant adversaire qui, s'il se place entre Alice et Bob, peut effectuer la fameuse [attaque de l'homme du milieu](https://fr.wikipedia.org/wiki/attaque_de_l'homme_du_milieu) :
 
 1. quand Alice envoie à Bob un premier message en clair du type "Bob, donne moi stp ta clé publique que je puisse t'envoyer des messages chiffrés. La mienne est Ea. Bisous Alice", Mallory l'intercepte et envoie : "Bob, donne moi stp ta clé publique que je puisse t'envoyer des messages chiffrés. La mienne est Ema. Bisous Alice". Il a juste remplacé la clé publique d'Alice par une de ses clés publiques à lui.
 2. Bob renvoie "Chère Alice, voici ma clé publique : Eb" en l'encryptant avec ce qu'il croit être la clé publique d'Alice, mais qui est en réalité celle de Mallory ! Celui-ci n'a donc aucune peine à déchiffrer le message, et à envoyer à Alice le message "Chère Alice, voici ma clé publique : Emb", encrypté avec la vraie clé publique d'Alice Ea. Alice n'a aucun moyen de savoir que ce message n'est pas authentique !

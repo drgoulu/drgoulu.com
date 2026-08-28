@@ -13,7 +13,9 @@ tags:
 coverImage: "2eb219eeb35e739edb66cdbae7b9ad9e.jpg"
 ---
 
-[![](images/2eb219eeb35e739edb66cdbae7b9ad9e.jpg)](http://www.pourlascience.fr/ewb_pages/e/espace-numerique-detail.php?art_id=33034&num=441)L'été, il arrive que je lise Pour la Science un peu distraitement, lunettes de soleil sur le nez et bière à la main. Mais cette année c'est différent : le [numéro 441 de juillet](http://www.pourlascience.fr/ewb_pages/e/espace-numerique-detail.php?art_id=33034&num=441) est passionnant du début à la fin.
+{{< figure src="images/2eb219eeb35e739edb66cdbae7b9ad9e.jpg" link="http://www.pourlascience.fr/ewb_pages/e/espace-numerique-detail.php?art_id=33034&num=441" >}}
+
+L'été, il arrive que je lise Pour la Science un peu distraitement, lunettes de soleil sur le nez et bière à la main. Mais cette année c'est différent : le [numéro 441 de juillet](http://www.pourlascience.fr/ewb_pages/e/espace-numerique-detail.php?art_id=33034&num=441) est passionnant du début à la fin.
 
 ### L'intelligence des céphalopodes
 

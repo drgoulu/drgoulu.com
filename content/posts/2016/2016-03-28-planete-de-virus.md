@@ -10,7 +10,9 @@ tags:
 coverImage: "7401395-L.jpg"
 ---
 
-[![Planète de virus](images/7401395-L.jpg "View this title in Open Library")](http://openlibrary.org/books/OL25898302M/Planète_de_virus) Dévoré un excellent livre : "Planète de virus" de [Carl Zimmer](https://en.wikipedia.org/wiki/Carl_Zimmer)[[1]](#ref-1). En 113 pages qui se lisent comme un roman, on apprend une multitude de choses sur les [virus](https://fr.wikipedia.org/wiki/virus), bestioles, microbes, êtres  vivants, choses inconnues il y a un siècle et qui se révèlent aujourd'hui être les formes de vie bouts d'ADN les plus abondants dans la nature.
+{{< figure src="images/7401395-L.jpg" alt="Planète de virus" link="http://openlibrary.org/books/OL25898302M/Planète_de_virus" >}}
+
+Dévoré un excellent livre : "Planète de virus" de [Carl Zimmer](https://en.wikipedia.org/wiki/Carl_Zimmer)[[1]](#ref-1). En 113 pages qui se lisent comme un roman, on apprend une multitude de choses sur les [virus](https://fr.wikipedia.org/wiki/virus), bestioles, microbes, êtres  vivants, choses inconnues il y a un siècle et qui se révèlent aujourd'hui être les formes de vie bouts d'ADN les plus abondants dans la nature.
 
 C'est le problème avec les virus : les scientifiques ne sont pas encore d'accord pour dire s'ils sont vivants ou pas, si ce sont des parasites des bactéries et cellules, ou leurs précurseurs (genre [mimivirus](https://fr.wikipedia.org/wiki/mimivirus)), voire un de leurs constituants via les [retrovirus endogènes](https://fr.wikipedia.org/wiki/retrovirus_endogène),
 

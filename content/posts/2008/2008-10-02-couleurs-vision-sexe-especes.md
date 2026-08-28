@@ -6,6 +6,7 @@ categories:
   - "non-classe"
 tags: 
   - "biologie"
+coverImage: "pundamilia_pundamilia3.jpg"
 ---
 
 Les [cichlidés](http://fr.wikipedia.org/wiki/Cichlid%C3%A9s) sont une famille regroupant environ 1200 espèces de poissons d'eau douce aux formes et couleurs très variées, très appréciées des aquariophiles.

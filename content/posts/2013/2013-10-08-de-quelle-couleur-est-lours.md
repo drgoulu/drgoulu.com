@@ -35,7 +35,7 @@ Bon, il n'est pas vraiment drôle cet article, alors j'en rajoute une courte:
 
 Une logicienne rentre de congé maternité. Un collègue lui demande "ton bébé, c'est un garçon ou une fille ?" Elle : "Vrai."
 
-{{< figure src="images/bear3.jpg" alt="Le &quot;triangle&quot; qu'aurait pu parcourir l'explorateur autour du pôle Sud" caption="Le &quot;triangle&quot; qu'aurait pu parcourir l'explorateur autour du pôle Sud" link="http://www.qedcat.com/archive/theres_a_bear.html" align="alignright" width="200" >}}
+{{< figure src="images/bear3.jpg" alt="Le &quot;triangle&quot; qu'aurait pu parcourir l'explorateur autour du pôle Sud" caption="Le &quot;triangle&quot; qu'aurait pu parcourir l'explorateur autour du pôle Sud" link="http://www.qedcat.com/archive/theres_a_bear.html" width="200" >}}
 
 _Ajout du 9.10.13 :_ le commentaire d'Ysmi me plonge dans un émerveillement teinté de regrets, voire de honte. J'aurais du être plus prudent en écrivant qu'il n'y a que la solution du pôle Nord. En fait j'en ai cherché une preuve mathématique que je n'ai pas trouvée, car elle n'existe pas : il existe une solution au pôle Sud, trouvée il y a bien longtemps par Martin Gardner, [décrite en anglais là](http://www.qedcat.com/archive/theres_a_bear.html) et illustrée ci-contre.
 

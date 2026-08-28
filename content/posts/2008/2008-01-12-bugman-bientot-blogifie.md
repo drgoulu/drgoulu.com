@@ -14,6 +14,7 @@ tags:
   - "programmation"
   - "simulation"
   - "video"
+coverImage: "4a7e5de90322ed8a65ac27fcc50928fa.gif"
 ---
 
 Depuis longtemps je suis un fan du [site de Paul "Bugman" Nylander](http://bugman123.com), un incroyable ramassis de choses épatantes sur des sujets comme la physique, les maths, les fractales et les papillons, le tout illustré par de magnifiques images et animations faites avec [Mathematica](http://www.wolfram.com/) et [POV-Ray](http://www.povray.org/) principalement.

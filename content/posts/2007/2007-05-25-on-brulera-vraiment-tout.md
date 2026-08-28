@@ -10,7 +10,7 @@ tags:
 coverImage: "c736ab5918c3cd1145d9a87e57131cff.png"
 ---
 
-{{< figure src="images/b17c4350f981b95ef7b83404d93960cd.jpg" alt="Dimday of Our Time par A. Radonic sur Flicker" caption="&quot;Dimday of Our Time&quot; par A. Radonic sur Flicker" link="https://www.flickr.com/photos/radonic/83096145/" align="alignright" width="240" >}}
+{{< figure src="images/b17c4350f981b95ef7b83404d93960cd.jpg" alt="Dimday of Our Time par A. Radonic sur Flicker" caption="&quot;Dimday of Our Time&quot; par A. Radonic sur Flicker" link="https://www.flickr.com/photos/radonic/83096145/" width="240" >}}
 
 Il y a 3 ans, j'avais publié "[On brûlera tout !](/2004/06/29/on-brulera-tout/)", qui dit en substance que le pétrole et le charbon étant tellement bon marché par rapport à toute énergie "alternative", l'humanité consommera de toutes façons toutes les réserves disponibles.
 

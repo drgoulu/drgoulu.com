@@ -12,7 +12,7 @@ tags:
 coverImage: "9a440aa4e1cd0fe13d8938d79cc00f26.jpg"
 ---
 
-{{< figure src="images/272f90341f7ae9ed80c66342c04f50ee.gif" alt="illustration Wikipedia" caption="illustration Wikipedia" link="http://fr.wikipedia.org/wiki/Gyroscope" align="alignright" width="300" >}}
+{{< figure src="images/272f90341f7ae9ed80c66342c04f50ee.gif" alt="illustration Wikipedia" caption="illustration Wikipedia" link="http://fr.wikipedia.org/wiki/Gyroscope" width="300" >}}
 
 Mon premier [gyroscope](https://fr.wikipedia.org/wiki/gyroscope) était une simple toupie montée dans une cage articulée : une fois lancée à l'aide d'un bout de ficelle, l'axe de la toupie reste insensible aux mouvements du support de la cage, magique.
 

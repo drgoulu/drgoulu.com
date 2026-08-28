@@ -12,7 +12,9 @@ tags:
 coverImage: "e47ef30951dab1d02fbd45117ec61e0c-1.jpg"
 ---
 
-![](images/e47ef30951dab1d02fbd45117ec61e0c.jpg)Si vous ne connaissez pas [Shazam](http://www.shazam.com/), demandez à un propriétaire d'iPhone (eux) ou de Google Phone sous Androïd ([nous](http://microclub.ch/2009/06/21/mon-google-phone-htc-magic/)) de vous montrer cette application incroyable. Si personne dans votre entourage ne vit au 21ème siècle, vous  pouvez toujours regarder [cette démonstration en video](https://www.dailymotion.com/video/x810ll).
+{{< figure src="images/e47ef30951dab1d02fbd45117ec61e0c.jpg" >}}
+
+Si vous ne connaissez pas [Shazam](http://www.shazam.com/), demandez à un propriétaire d'iPhone (eux) ou de Google Phone sous Androïd ([nous](http://microclub.ch/2009/06/21/mon-google-phone-htc-magic/)) de vous montrer cette application incroyable. Si personne dans votre entourage ne vit au 21ème siècle, vous  pouvez toujours regarder [cette démonstration en video](https://www.dailymotion.com/video/x810ll).
 
 Vous ne rêvez pas : Shazam est capable d'identifier en quelques secondes la musique que vous êtes en train d'écouter à la radio, dans un bar bruyant, ou le générique d'une émission TV ou que sais-je. On dirige le micro du téléphone vers un haut-parleur, on clique un seul bouton et Shazam! le titre du morceau apparait, avec les liens qu'il faut pour l'acheter, évidemment. Business is business.
 

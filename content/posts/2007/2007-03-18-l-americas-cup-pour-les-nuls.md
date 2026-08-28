@@ -8,6 +8,7 @@ tags:
   - "coupe-de-lamerica"
   - "histoire"
   - "voile"
+coverImage: "200px-Americas_Cup.jpg"
 ---
 
 En juin aura lieu à Valence la compétition reine de la voile, la [Coupe de l'America](http://fr.wikipedia.org/wiki/Coupe_de_l'America). Je me suis aperçu que certaines de mes connaissances avaient besoin d'une petite introduction simple à la voile et à cette compétition pour pouvoir l'apprécier à sa juste valeur, donc voici quelques bases à connaitre quand on n'y connait rien.<!--more-->

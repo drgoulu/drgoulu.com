@@ -13,7 +13,9 @@ tags:
 coverImage: "a470c29cf6c88b820cc608831b61f545.gif"
 ---
 
-![](images/6e859a4527be41a61357a12b339ae260.jpg)J'ai découvert [Universe Sandbox](http://universesandbox.com) il y a une heure, et je viens de l'acheter (pas cher). C'est génial !
+{{< figure src="images/6e859a4527be41a61357a12b339ae260.jpg" >}}
+
+J'ai découvert [Universe Sandbox](http://universesandbox.com) il y a une heure, et je viens de l'acheter (pas cher). C'est génial !
 
 C'est un logiciel de simulation astronomique très bien fait et simple d'emploi. Il permet de visualiser en 3D de nombreux systèmes astronomiques comme notre système solaire, Saturne avec ses anneaux et ses nombreuses lunes, ou encore l'amas d'étoiles auquel appartient notre Soleil, mais aussi des Galaxies entières.
 

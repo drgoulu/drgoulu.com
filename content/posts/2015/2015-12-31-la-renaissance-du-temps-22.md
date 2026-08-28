@@ -11,7 +11,9 @@ tags:
 coverImage: "7284147-L.jpg"
 ---
 
-[![](images/temps-dessin-pour-Pierre-mail.jpg)](http://thema.cafe-sciences.org/articles/category/le-temps/)Beaucoup trop longtemps après [la première partie](/2015/01/28/la-renaissance-du-temps/) publiée lors de la [semaine thématique sur le temps](http://thema.cafe-sciences.org/articles/category/le-temps/) du Café des Sciences, voici la fin du compte rendu consacré à la seconde partie du livre "grand public" de [Lee Smolin](https://fr.wikipedia.org/wiki/Lee_Smolin) sur le temps.
+{{< figure src="images/temps-dessin-pour-Pierre-mail.jpg" link="http://thema.cafe-sciences.org/articles/category/le-temps/" >}}
+
+Beaucoup trop longtemps après [la première partie](/2015/01/28/la-renaissance-du-temps/) publiée lors de la [semaine thématique sur le temps](http://thema.cafe-sciences.org/articles/category/le-temps/) du Café des Sciences, voici la fin du compte rendu consacré à la seconde partie du livre "grand public" de [Lee Smolin](https://fr.wikipedia.org/wiki/Lee_Smolin) sur le temps.
 
 Dans cette seconde partie, Smolin plaide en faveur de la réalité du temps et présente sa propre conception du temps. Petit rappel en préambule : Smolin est un cosmologiste reconnu qui a travaillé pendant des décennies avec les plus grands sur ce sujet, donc avant de le traiter d'hurluberlu aux idées délirantes, rappelez-vous qu'il peut vous asséner des [piles d'articles](https://scholar.google.com/citations?user=-_NhnG4AAAAJ) "peer reviewed" et des tableaux noirs pleins de formules pour défendre son point de vue.
 
@@ -19,7 +21,7 @@ Mais il peut aussi se planter, et il l'admet, et ce qui en fait un scientifique.
 
 * * *
 
-{{< figure src="images/7284147-L.jpg" alt="La Renaissance du Temps" caption="." align="alignright" width="250" >}}
+{{< figure src="images/7284147-L.jpg" alt="La Renaissance du Temps" caption="." width="250" >}}
 
 ### 11\. les lois évolutives
 

@@ -5,8 +5,12 @@ date: '2017-12-18'
 categories:
 - non-classe
 draft: true
+coverImage: "logo.png"
 ---
-[![](images/logo.png)](http://isc.carma.newcastle.edu.au/)J'utilise parfois l'[Inverse Symbolic Calculator](https://en.wikipedia.org/wiki/Inverse_Symbolic_Calculator) [disponible ici](http://isc.carma.newcastle.edu.au/) et à chaque fois il me sidère. Comment fait-il pour retrouver l'expression mathématique correspondant à presque n'importe quelle valeur décimale, par exemple que ma date de naissance 1963.1225 est presque égale à $1000.\sum\limits\limits_{n=1}^{\infty}{\frac{1}{3^n.(3n^2+18n-1)}} $ ???
+
+{{< figure src="images/logo.png" link="http://isc.carma.newcastle.edu.au/" >}}
+
+J'utilise parfois l'[Inverse Symbolic Calculator](https://en.wikipedia.org/wiki/Inverse_Symbolic_Calculator) [disponible ici](http://isc.carma.newcastle.edu.au/) et à chaque fois il me sidère. Comment fait-il pour retrouver l'expression mathématique correspondant à presque n'importe quelle valeur décimale, par exemple que ma date de naissance 1963.1225 est presque égale à $1000.\sum\limits\limits_{n=1}^{\infty}{\frac{1}{3^n.(3n^2+18n-1)}} $ ???
 
 Ce n'est qu'en consultant [le  code source](http://plouffe.fr/ipgz/PlouffeInverter2017.txt) [Maple](https://fr.wikipedia.org/wiki/Maple)  de l'auteur original, [Simon Plouffe](https://fr.wikipedia.org/wiki/Simon_Plouffe), que j'ai réalisé que ce problème est proche de casse-têtes déjà abordés sur ce blog:
 

@@ -9,7 +9,9 @@ tags:
 coverImage: "electricsheep.247.06157.jpg"
 ---
 
-![](images/electricsheep.247.06157.jpg)Depuis le regretté VoodooLights qui avait illuminé mon écran pendant des années, seuls les habituels poissons virtuels et quelques balles bondissantes avaient occupé mon ordinateur lorsque je n'en faisais rien.
+{{< figure src="images/electricsheep.247.06157.jpg" >}}
+
+Depuis le regretté VoodooLights qui avait illuminé mon écran pendant des années, seuls les habituels poissons virtuels et quelques balles bondissantes avaient occupé mon ordinateur lorsque je n'en faisais rien.
 
 Mais j'ai récemment découvert ["Electric sheep" (mouton électrique)](http://electricsheep.org/), un screensaver gratuit qui a la particularité de communiquer par internet avec toutes les autres copies fonctionnant dans le monde.
 

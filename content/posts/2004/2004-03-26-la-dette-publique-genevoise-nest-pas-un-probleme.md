@@ -8,6 +8,7 @@ tags:
   - "economie"
   - "geneve"
   - "politique"
+coverImage: "926dceae57e362222e3abe2c16703fc2.gif"
 ---
 
 _![](images/926dceae57e362222e3abe2c16703fc2.gif)Paru dans le courrier des lecteurs de la [Tribune de Genève](http://www.tdg.ch) en avril 2004_

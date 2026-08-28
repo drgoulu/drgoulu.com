@@ -10,6 +10,7 @@ tags:
 - quantique
 - trou-noir
 draft: true
+coverImage: "main-qimg-3ee04a78bcfe0a40f7fa53d691f4575b-c"
 ---
 Chaque fois qu'on croit avoir compris quelque chose à propos de trous noirs, on en découvre un nouvel aspect troublant\*.
 

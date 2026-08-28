@@ -11,7 +11,7 @@ tags:
 coverImage: birch.png
 draft: true
 ---
-{{< figure src="images/birch.png" alt="Courbes elliptiques illustrant la carte d'anniversaire d'un matheux" caption="Courbes elliptiques illustrant la carte d'anniversaire d'un matheux" link="http://doc.sagemath.org/html/en/thematic_tutorials/explicit_methods_in_number_theory/elliptic_curves.html" align="alignright" width="320" >}}
+{{< figure src="images/birch.png" alt="Courbes elliptiques illustrant la carte d'anniversaire d'un matheux" caption="Courbes elliptiques illustrant la carte d'anniversaire d'un matheux" link="http://doc.sagemath.org/html/en/thematic_tutorials/explicit_methods_in_number_theory/elliptic_curves.html" width="320" >}}
 
 Ces temps je vois des "courbes elliptiques" partout : dans la démonstration du théorème de Fermat, en cryptographie, jusque dans le 4ème tome de la saga Millénium [[1]](#ref-1). Mais qu'est-ce donc que ces choses là ?
 
@@ -33,7 +33,7 @@ Oui mais y'en-a-t'il une ? Avant de vous casser le dos à perpétuité vous écr
 
 le nombre de boulets est égal à $$1+4+9+16+...+x^2 = \frac{x(x+1)(2x+1)}{6}$$ où x est le nombre de couches de la pyramide et il doit être égal à $$y^2$$ où y  est le côté du carré de boulets. Donc on cherche les nombres entiers x et y tels que : $$\frac{x(x+1)(2x+1)}{6}=y^2$$, soit $$2x^3+3x^2+x=6y^2$$ . Cette [équation diophantienne](https://fr.wikipedia.org/wiki/équation_diophantienne) n'a pas tout à fait la forme d'une courbe elliptique, mais presque.
 
-{{< figure src="images/sliderule.png" alt="la calculatrice la moins chère du monde est une courbe elliptique..." caption="la calculatrice la moins chère du monde est une courbe elliptique..." link="https://cp4space.wordpress.com/2012/08/29/elliptic-curve-calculator/" align="alignright" width="2000" >}}
+{{< figure src="images/sliderule.png" alt="la calculatrice la moins chère du monde est une courbe elliptique..." caption="la calculatrice la moins chère du monde est une courbe elliptique..." link="https://cp4space.wordpress.com/2012/08/29/elliptic-curve-calculator/" width="2000" >}}
 
  
 

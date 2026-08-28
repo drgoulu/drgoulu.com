@@ -23,7 +23,7 @@ D'abord, les données sont défendues contre leur pire ennemi : l'homme. Il y a 
 
 Pour des raisons techniques que nous allons expliquer plus bas, l'informatique actuelle combine les 3 stratégies au point qu'effacer des données est devenu une opération redoutablement complexe.
 
-{{< figure src="images/0abc70ee659ffda517e3ff039cdf3bea.jpg" alt="Dead Data par Stinging Eyes sur Flickr" caption="&quot;Dead Data&quot; par Stinging Eyes sur Flickr" link="http://www.flickr.com/photos/martinlatter/299981441/" align="alignright" width="240" >}}
+{{< figure src="images/0abc70ee659ffda517e3ff039cdf3bea.jpg" alt="Dead Data par Stinging Eyes sur Flickr" caption="&quot;Dead Data&quot; par Stinging Eyes sur Flickr" link="http://www.flickr.com/photos/martinlatter/299981441/" width="240" >}}
 
 D'abord, il faut réaliser que l'écrasement est la principale cause de mortalité des données. Il y en a un tout petit peu qui meurent d'inanition lorsque l'alimentation d'un PC flanche, un peu plus qui meurent dans un crash de disque dur mécanique ou magnétique, mais la plupart meurent écrasées par d'autres données écrites au même emplacement mémoire qu'elles.
 
@@ -67,7 +67,7 @@ Sur disque, les noms de fichiers disparus provoquent des variantes moins létal
 
 Mais l'Écran Bleu de la Mort envahit aussi internet, le niveau le plus bas de la hiérarchie mémoire. D'[apparence parfois plus sympa](http://images.google.com/images?q=404+error+page) l'[Erreur 404](https://fr.wikipedia.org/wiki/Erreur_HTTP_404) n'en est pas moins redoutable, et beaucoup moins bavarde. Les données à cet [URL](https://fr.wikipedia.org/wiki/Uniform_Ressource_Locator) ont-elles été effacées, déplacées ou n'ont-elles même jamais existé ? Est-ce temporaire ou définitif ? Aucun moyen de le savoir sans investigations poussées.
 
-{{< figure src="images/231b61becbccde73660ad28a61ca6cac.jpg" alt="Celui de JegX m'avait fait sursauter ..." caption="Celui de JegX m'avait fait sursauter ..." link="http://ozone3d.net/404" align="alignright" width="320" >}}
+{{< figure src="images/231b61becbccde73660ad28a61ca6cac.jpg" alt="Celui de JegX m'avait fait sursauter ..." caption="Celui de JegX m'avait fait sursauter ..." link="http://ozone3d.net/404" width="320" >}}
 
 Pour vous qui surfez, ce problème occasionnel peut souvent se résoudre en utilisant un moteur de recherche pour retrouver une autre page avec le même contenu. Sur drgoulu.com, ça devient embêtant : malgré l'utilisation d'un [outil](http://wordpress.org/extend/plugins/broken-link-checker/) qui gère les redirections  425 liens sur 6110 se sont brisés au fil des ans. J'en répare manuellement quelques uns, parfois. Les autres apparaissent [comme ça](http://ozone3d.net/404). Mais il y a pire : de plus en plus de sites web utilisent du contenu, voire du code, stocké sur un[Content Delivery Network](https://fr.wikipedia.org/wiki/Content_Delivery_Network) (CDN). Si de tels liens se cassent, ça peut rendre indisponible des sites entiers.
 

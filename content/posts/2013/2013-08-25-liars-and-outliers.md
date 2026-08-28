@@ -11,7 +11,7 @@ tags:
 coverImage: "7089199-L.jpg"
 ---
 
-[![Liars and Outliers](images/7089199-L.jpg "View this title in Open Library")](http://openlibrary.org/books/OL25254783M/Liars_and_Outliers)
+{{< figure src="images/7089199-L.jpg" alt="Liars and Outliers" link="http://openlibrary.org/books/OL25254783M/Liars_and_Outliers" >}}
 
 [Bruce Schneier](https://fr.wikipedia.org/wiki/Bruce_Schneier) est un expert réputé en [cryptologie](https://fr.wikipedia.org/wiki/cryptologie) et en sécurité informatique, mais il s'intéresse aussi à la sécurité dans un sens beaucoup plus large. Dans son dernier livre \[1\], il se demande dès le sous-titre comment "favoriser la confiance dont la société a besoin pour prospérer".
 

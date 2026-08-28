@@ -7,6 +7,7 @@ categories:
 tags: 
   - "science"
   - "suisse"
+coverImage: "e29b96cbdbc79b4af73b60853530d3c6.jpg"
 ---
 
 En ballade dominicale au [Signal de Bougy](http://www.signaldebougy.ch/) (un parc surplombant le Lac Léman, entre Genève et Lausanne), je suis tombé sur une excellente initiative : le "Parcours Alph@" de "[Rezoscience](http://www.rezoscience.ch/rp/index.html)".

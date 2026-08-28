@@ -9,7 +9,9 @@ tags:
 coverImage: "1970746_627732530613766_708712921_n.jpg"
 ---
 
-[![rp\_1970746\_627732530613766\_708712921\_n.jpg](images/1970746_627732530613766_708712921_n.jpg)](http://cineglobe.ch)CineGlobe est un festival international du film "inspiré par la science" qui a lieu au Globe de la Science et de l’Innovation du CERN. La quatrième édition a eu lieu la semaine passée. Plus de 3000 spectateurs dont votre serviteur y ont découvert des courts métrages ainsi que des soirées spéciales dédiées au cinéma, à la danse ou à la technologie.
+{{< figure src="images/1970746_627732530613766_708712921_n.jpg" alt="rp_1970746_627732530613766_708712921_n.jpg" link="http://cineglobe.ch" >}}
+
+CineGlobe est un festival international du film "inspiré par la science" qui a lieu au Globe de la Science et de l’Innovation du CERN. La quatrième édition a eu lieu la semaine passée. Plus de 3000 spectateurs dont votre serviteur y ont découvert des courts métrages ainsi que des soirées spéciales dédiées au cinéma, à la danse ou à la technologie.
 
 Les films suivants ont été primés cette année:
 

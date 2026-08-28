@@ -7,6 +7,7 @@ categories:
 tags: 
   - "casse-tetes"
   - "jeux"
+coverImage: "96a859b31983cf96b583a87dc120a785.png"
 ---
 
 Trop mangé ? trop dépensé ? trop dormi ? trop culpabilisé ? Prenez de bonnes résolutions et nourissez votre cerveau et celui de vos enfants avec quelques casse-tête et jeux amusants trouvés pour vous sur le Web.

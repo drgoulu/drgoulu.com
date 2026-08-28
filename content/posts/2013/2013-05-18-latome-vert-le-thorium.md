@@ -44,7 +44,7 @@ Du point de vue nucléaire, les réacteurs à sels fondus n'ont que des avantage
 
 Les difficultés et inconnues sont surtout liés à la chimie de ces sels. Il faut installer une usine chimique pour les purifier à côté de la centrale, notamment pour en enlever le [Xenon 135](https://fr.wikipedia.org/wiki/Empoisonnement_au_xénon). On ne sait pas trop bien comment un LFTR vieillira, notamment en raison de la corrosion par les sels.
 
-{{< figure src="images/1ab7b0f9763f9e8efe92ffac68d6d916.jpg" alt="ARE Thorium" caption="ARE Thorium : plus besoin de réservoirs, on va pouvoir mettre des passagers aussi dans les ailes..." align="alignright" width="339" >}}
+{{< figure src="images/1ab7b0f9763f9e8efe92ffac68d6d916.jpg" alt="ARE Thorium" caption="ARE Thorium : plus besoin de réservoirs, on va pouvoir mettre des passagers aussi dans les ailes..." width="339" >}}
 
 Au passage, j'ai découvert l'existence du projet Aircraft Reactor Experiment (ARE) qui visait la [propulsion nucléaire d'avions](https://en.wikipedia.org/wiki/Aircraft_Nuclear_Propulsion). C'était un MSR dont les sels à 850 ° chauffaient l'air dans les réacteurs, qui fonctionna 1000 heures en 1954, quand on avait peur de rien sauf peut être des rouges. Donc je ne le savais pas mais oui, il existe dans les cartons une alternative au turboréacteur.
 

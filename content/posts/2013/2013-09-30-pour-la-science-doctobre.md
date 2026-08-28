@@ -13,9 +13,12 @@ tags:
   - "physique"
   - "pour-la-science"
   - "theorique"
+coverImage: "b85da63049f95b18d65e4669bfa4c19e.jpg"
 ---
 
-[![](images/b85da63049f95b18d65e4669bfa4c19e.jpg)](http://www.pourlascience.fr/ewb_pages/e/espace-numerique-detail.php?art_id=32118&num=432)Plusieurs articles du ["Pour la Science" No 432](http://www.pourlascience.fr/ewb_pages/e/espace-numerique-detail.php?art_id=32118&num=432) de ce mois d'octobre ([encore](/2012/09/27/trous-noirs-helium-langues-etc/)) m'ont particulièrement intéressé.
+{{< figure src="images/b85da63049f95b18d65e4669bfa4c19e.jpg" link="http://www.pourlascience.fr/ewb_pages/e/espace-numerique-detail.php?art_id=32118&num=432" >}}
+
+Plusieurs articles du ["Pour la Science" No 432](http://www.pourlascience.fr/ewb_pages/e/espace-numerique-detail.php?art_id=32118&num=432) de ce mois d'octobre ([encore](/2012/09/27/trous-noirs-helium-langues-etc/)) m'ont particulièrement intéressé.
 
 "La naissance de l’écriture en Égypte" [[1]](#ref-1) décrit comment cinq "systèmes graphiques" ornant des poteries ou des sceaux ont donné naissance aux hiéroglyphes vers l'an -3250 (notez la précision). Je n'avais jamais vraiment réalisé la différence fondamentale entre des dessins et une [écriture](https://fr.wikipedia.org/wiki/%C3%89criture). Des dessins figuratifs peuvent être compris par tous, alors qu'une écriture représente les sons d'une langue qui doit être commune aux scribes aux lecteurs. Selon l'auteur de l'article, c'est la méconnaissance de la langue sous-jacente qui empêche de [déchiffrer certaines écritures](https://fr.wikipedia.org/wiki/%C3%89criture_non_d%C3%A9chiffr%C3%A9e).
 
@@ -31,7 +34,7 @@ Personnellement, j'ai découvert que mon [empirisme](https://fr.wikipedia.org/w
 
 Et je le prouve : quelle expérience permettrait-elle de vérifier si le monde est "structurellement réaliste" plutôt que quantique+relativiste ? Aucune ? Alors cette "ontologie" n'a aucun autre intérêt que de simplifier éventuellement certaines formules. C'est très bien, c'est très beau, mais est-ce suffisant pour prétendre à être plus proche de la réalité ? Pourquoi ne pas accepter que ce soit les propriétés "simples" d'entités macroscopiques comme les boules de billard et les champs vectoriels qui "émergent" des propriétés quantiques ? Enfin, le réalisme structurel ne me semble pas permettre d'avancer sur une question physico/philosophique absolument fondamentale : [la nature du temps](/2008/12/24/la-nature-du-temps-2/). Sans ça, toute [métaphysique](https://fr.wikipedia.org/wiki/Métaphysique) me semble désespérément planante...
 
-{{< figure src="images/600px-PentagonTilings.svg.png" alt="les 14 types connus de pavages pentagonaux" caption="les 14 types connus de pavages pentagonaux" link="https://fr.wikipedia.org/wiki/Pavage_pentagonal" align="alignright" width="600" >}}
+{{< figure src="images/600px-PentagonTilings.svg.png" alt="les 14 types connus de pavages pentagonaux" caption="les 14 types connus de pavages pentagonaux" link="https://fr.wikipedia.org/wiki/Pavage_pentagonal" width="600" >}}
 
 L'article de Jean-Paul Delahaye sur les pavages pentagonaux [[4]](#ref-4) remontera le moral de tous les mathématiciens célèbres qui sommeillent en nous. Imaginez qu'une brave dame nommée [Marjorie Rice, passionnée de graphisme](http://www.tessellation.info/nl/info/kunstenaars/17/Marjorie_Rice) a découvert en l'espace de 10 ans quatre manières différentes de paver le plan avec des pentagones après que des mathématiciens professionnels aient plusieurs fois démontré qu'il n'en existait pas plus que ceux déjà connus. Aujourd'hui on connait les 14 pavages ci-dessus, mais il en existe peut-être plus... Un autre amateur, Jaap Scherphuis a listé [97 pavages "2-isoédriques](http://www.jaapsch.net/tilings/)" dont on ignore si elle est complète. De plus, sa [liste de puzzles et casse-têtes](http://www.jaapsch.net/puzzles/) est une mine d'articles futurs...
 

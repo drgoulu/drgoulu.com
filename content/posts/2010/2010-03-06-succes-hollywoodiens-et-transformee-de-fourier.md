@@ -12,7 +12,9 @@ tags:
 coverImage: "74e0df9764ab035d5a99e89c42fdb0471.png"
 ---
 
-[![](images/74e0df9764ab035d5a99e89c42fdb047.png "MathsAlien")](http://goulu.net/wp-content/uploads/2010/03/mathsalien.png)Incroyable : une deuxième tentative d'article scientifique en une semaine dans le [torchon du coin café](http://www.20min.ch/ro/)! Ils ont du engager un stagiaire qui vise Science&Vie ... Cette fois c'est "Le succès des films tient à une formule de maths." Attachez vos ceintures :
+{{< figure src="images/74e0df9764ab035d5a99e89c42fdb047.png" alt="MathsAlien" link="http://goulu.net/wp-content/uploads/2010/03/mathsalien.png" >}}
+
+Incroyable : une deuxième tentative d'article scientifique en une semaine dans le [torchon du coin café](http://www.20min.ch/ro/)! Ils ont du engager un stagiaire qui vise Science&Vie ... Cette fois c'est "Le succès des films tient à une formule de maths." Attachez vos ceintures :
 
 > ... les films à succès suivent une formule mathématique. Il s'agit de la "transformée de Fourier". Derrière ce nom barbare se cache la fluctuation 1/f ...
 

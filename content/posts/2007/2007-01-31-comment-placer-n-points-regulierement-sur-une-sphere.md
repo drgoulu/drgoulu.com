@@ -23,7 +23,7 @@ Intuitivement on "sent" que certaines de ces méthodes devraient donner les mêm
 
 ### Solutions exactes
 
-{{< figure src="images/53b71678904e2226d5f1195d59cebfef.gif" alt="icosaèdre" caption="icosaèdre (image Wikipedia)" link="http://fr.wikipedia.org/wiki/Icosa%C3%A8dre" align="alignright" width="256" >}}
+{{< figure src="images/53b71678904e2226d5f1195d59cebfef.gif" alt="icosaèdre" caption="icosaèdre (image Wikipedia)" link="http://fr.wikipedia.org/wiki/Icosa%C3%A8dre" width="256" >}}
 
 Le seul problème pour lequel il existe des solutions exactes est le "covering" car en 1943 (seulement....) Fejes Tóth a trouvé la borne du "rayon de couverture" d en fonction de N (voir [ici](http://mathworld.wolfram.com/SphericalCode.html)) . Il a ainsi enfin été prouvé que :
 

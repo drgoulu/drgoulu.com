@@ -11,7 +11,9 @@ tags:
 coverImage: "4333d9e2e65f2e1e7cd12e847855fead.jpg"
 ---
 
-![](images/4333d9e2e65f2e1e7cd12e847855fead.jpg)J'avais sans trop y croire entendu parler d'une sonnerie de Natel (= "téléphone portable" pour les Gaulois) qui serait tellement aigue qu'elle serait inaudible pour les adultes, d'où son intérêt pour être joignable en classe alors que ces engins sont censés être débranchés...
+{{< figure src="images/4333d9e2e65f2e1e7cd12e847855fead.jpg" >}}
+
+J'avais sans trop y croire entendu parler d'une sonnerie de Natel (= "téléphone portable" pour les Gaulois) qui serait tellement aigue qu'elle serait inaudible pour les adultes, d'où son intérêt pour être joignable en classe alors que ces engins sont censés être débranchés...
 
 Et bien le ["Mosquitone" existe](http://www.freemosquitoringtones.org/) vraiment et fonctionne comme décrit sur le [blog "hOwGee"](http://howgee.blogspot.com/2006/06/les-vieux-nentendent-pas-cette.html), où l'on peut rapidement tester sa perception des sons aigus avec 5 sons révélant de manière imparable la [presbyacousie](http://fr.wikipedia.org/wiki/Presbyacousie).
 

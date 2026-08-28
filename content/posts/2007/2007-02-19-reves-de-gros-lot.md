@@ -7,6 +7,7 @@ categories:
 tags: 
   - "maths"
   - "psychologie"
+coverImage: "edef6b3e93db9eb98866fe56cbd7ef5d.jpg"
 ---
 
 _![](images/edef6b3e93db9eb98866fe56cbd7ef5d.jpg)Publié sur ["Virus" de la RSR](http://virus.rsr.ch/depenses-pour-un-gain-facile) le message suivant :_

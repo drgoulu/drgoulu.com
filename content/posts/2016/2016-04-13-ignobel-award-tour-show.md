@@ -10,7 +10,9 @@ tags:
 coverImage: "igNobel-Award-Tour-Show-EPFL.png"
 ---
 
-![igNobel Award Tour Show EPFL](images/igNobel-Award-Tour-Show-EPFL.png)Comme certains ne connaissent pas encore les fameux [Prix Ig Nobel](https://fr.wikipedia.org/wiki/Prix_Ig_Nobel), leur fondateur [Marc Abrahams](https://en.wikipedia.org/wiki/Marc_Abrahams) parcourt le monde pour présenter cette institution. J'ai ainsi eu la chance d'assister au "Ig Nobel Award Tour Show" organisé à l'EPFL il y a quelques semaines, et ce fut un grand moment de science poilante.
+{{< figure src="images/igNobel-Award-Tour-Show-EPFL.png" alt="igNobel Award Tour Show EPFL" >}}
+
+Comme certains ne connaissent pas encore les fameux [Prix Ig Nobel](https://fr.wikipedia.org/wiki/Prix_Ig_Nobel), leur fondateur [Marc Abrahams](https://en.wikipedia.org/wiki/Marc_Abrahams) parcourt le monde pour présenter cette institution. J'ai ainsi eu la chance d'assister au "Ig Nobel Award Tour Show" organisé à l'EPFL il y a quelques semaines, et ce fut un grand moment de science poilante.
 
 Le "Show" se déroule en deux temps. D'abord, Marc Abrahams explique le but des prix:
 

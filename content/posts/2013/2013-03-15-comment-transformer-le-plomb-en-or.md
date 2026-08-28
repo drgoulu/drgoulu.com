@@ -54,7 +54,7 @@ En consultant la carte, vous pouvez voir quels éléments peuvent raisonnablemen
 
 Mais le plomb est mal placé pour former de l'or. Par bombardement neutronique on peut le décaler vers la droite, mais les chemins des désintégrations radioactives successives de tous les isotopes ainsi formés reviennent soit au plomb, soit au bismuth.
 
-{{< figure src="images/357a09c5768d00d5a9b07c05f4f4d6ac.jpg" alt="Tout ce qu'on peut faire avec le plomb c'est de lui ajouter des neutrons (flèches blanches), mais les désintégrations naturelles le ramènent au plomb ou au bismuth." caption="Tout ce qu'on peut faire avec le plomb c'est de lui ajouter des neutrons (flèches blanches), mais les désintégrations naturelles le ramènent au plomb ou au bismuth." link="images/357a09c5768d00d5a9b07c05f4f4d6ac.jpg" align="alignright" width="540" >}}
+{{< figure src="images/357a09c5768d00d5a9b07c05f4f4d6ac.jpg" alt="Tout ce qu'on peut faire avec le plomb c'est de lui ajouter des neutrons (flèches blanches), mais les désintégrations naturelles le ramènent au plomb ou au bismuth." caption="Tout ce qu'on peut faire avec le plomb c'est de lui ajouter des neutrons (flèches blanches), mais les désintégrations naturelles le ramènent au plomb ou au bismuth." link="images/357a09c5768d00d5a9b07c05f4f4d6ac.jpg" width="540" >}}
 
 Donc en utilisant la seule et unique technique dont nous disposons, nous ne pouvons pas transformer le plomb en or. Même pas un tout petit peu. Du platine ou du mercure oui, mais du plomb non\*
 

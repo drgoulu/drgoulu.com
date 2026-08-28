@@ -13,7 +13,7 @@ Je voulais écrire un petit article de pub pour [Kidi'Science](http://kidiscien
 
 Comme je le mets dans certains profils, je suis "tombé dans la science quand j'étais petit".
 
-{{< figure src="images/c7e574486450dc0aef7d93851a81f709.jpg" alt="Photo sciencephotolibrary. Mais mon papa en a surement de meilleures, faut que je lui demande" caption="Photo sciencephotolibrary. Mais mon papa en a surement de meilleures, faut que je lui demande" link="http://www.sciencephoto.com/media/221403/enlarge" align="alignright" width="265" >}}
+{{< figure src="images/c7e574486450dc0aef7d93851a81f709.jpg" alt="Photo sciencephotolibrary. Mais mon papa en a surement de meilleures, faut que je lui demande" caption="Photo sciencephotolibrary. Mais mon papa en a surement de meilleures, faut que je lui demande" link="http://www.sciencephoto.com/media/221403/enlarge" width="265" >}}
 
 D'abord c'est à cause de mon papa, ingénieur en génie civil, qui faisait des trucs magiques comme calculer [ses ponts](/2005/07/03/umberto-guglielmetti/) par [photoélasticimétrie](http://fr.wikipedia.org/wiki/Photo%C3%A9lasticim%C3%A9trie). Il s'intéressait, et s'intéresse toujours, à toutes les sciences et techniques. A la maison on avait un microscope, un télescope, un oscilloscope. Et aussi un atelier de bricolage bien outillé rempli d'appareils éventrés (souvent par mes soins) allant du réveil-matin au moteur de Solex en passant par les éléments de chaine stéréo. (Oui, "[j'ai souffert dans ma jeunesse](http://www.ina.fr/video/I07329367)" ...)
 
@@ -27,7 +27,7 @@ Je n'arrive toujours pas à comprendre comment on est retombés sur Terre à cul
 
 Bref à l'âge de 12 ans tout était déjà clair : je serai ingénieur. En astronautique, génie civil, mécanique, électronique, chimie, astronautique, peu importait au fond. Mon but était de démonter le monde pour voir comment il fonctionne (la science pour moi c'est ça), d'en utiliser les pièces pour l'améliorer en repoussant les limites du possible (ça c'est la technique, et ce n'est pas la même chose que la science).
 
-{{< figure src="images/6e57d14cb3895e18c0634e1712e30fdf.jpg" alt="Mon premier ordinateur. 8 bits, 1MHz, RAM 8Ko" caption="Mon premier ordinateur. 8 bits, 1MHz, RAM 8Ko" link="http://fr.wikipedia.org/wiki/Commodore_PET" align="alignright" width="240" >}}
+{{< figure src="images/6e57d14cb3895e18c0634e1712e30fdf.jpg" alt="Mon premier ordinateur. 8 bits, 1MHz, RAM 8Ko" caption="Mon premier ordinateur. 8 bits, 1MHz, RAM 8Ko" link="http://fr.wikipedia.org/wiki/Commodore_PET" width="240" >}}
 
 A cette époque, mon papa a amené à la maison la première calculatrice programmable  qu'il utilisait professionnellement (HP-45 si je me souviens bien), puis un des premiers ordinateurs "personnel" le [PET 2001](http://fr.wikipedia.org/wiki/Commodore_PET). Un nouveau monde s'ouvrait. Devait s'ouvrir même, car il n'existait aucun programme pour ces machines : il fallait écrire ses programmes soi-même, et ça c'était un vrai challenge.
 

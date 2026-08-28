@@ -13,7 +13,7 @@ coverImage: "5f191d5b335e83fb624df1763b405414.jpg"
 
 Internet, c'est tellement facile : on voit une image qui nous plait pour illustrer un article, hop, on copie le lien vers l'image dans son propre blog :
 
-{{< figure src="images/8d051439297695af67728cb76d11a944.jpg" alt="avions2 par Daprilli" caption="avions2 par Daprilli" link="http://www.d-aprilli.net//www.d-aprilli.net/GalerieAvions/index.html" align="alignright" width="614" >}}
+{{< figure src="images/8d051439297695af67728cb76d11a944.jpg" alt="avions2 par Daprilli" caption="avions2 par Daprilli" link="http://www.d-aprilli.net//www.d-aprilli.net/GalerieAvions/index.html" width="614" >}}
 
 Et voilà. L'auteur de cette magnifique photo, que je salue au passage, pourrait légitimement prétendre que je lui ai volé cette photo sans autorisation, à quoi je pourrais lui répondre que non ( si j'étais de mauvaise foi ) puisqu'elle est toujours sur son serveur  : je ne l'ai pas copiée, j'ai juste mis <img src="http://www.d-aprilli.net/www.d-aprilli.net/GalerieAvions/content/images/large/dAprilli\_Avion002.jpg"> dans le texte HTML de cet article...
 

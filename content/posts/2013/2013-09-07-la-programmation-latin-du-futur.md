@@ -30,7 +30,7 @@ Plusieurs initiatives se développement également  en Suisse, notamment:
 
 - le Prof. Juraj Hromkovic avec son module "[programmer dans les écoles primaires](http://www.abz.inf.ethz.ch/)", adopté dans une trentaine d’établissements en Suisse alémanique
 - Jürg Kohlas, qui promeut l'enseignement de l’informatique comme discipline fondamentale au gymnase (=lycée) dans un livre tout récent [[2]](#ref-2), en recommandant de commencer par former les professeurs, un problème qui semble général...
-- {{< figure src="images/scratch.png" alt="un &quot;script&quot; en Scratch" caption="un &quot;script&quot; en Scratch" link="http://scratch.mit.edu/" align="alignright" width="232" >}}
+- {{< figure src="images/scratch.png" alt="un &quot;script&quot; en Scratch" caption="un &quot;script&quot; en Scratch" link="http://scratch.mit.edu/" width="232" >}}
     
     Manuela Barraud et Olivier Jorand proposent des ateliers de "[philobotique](http://www.philobotique.ch/home.html)" combinant programmation et robotique ludique dans la continuation de la "philosphie Logo", mais ils forment aussi des enseignants à leur approche. Outre Logo, ils utilisent le langage semi graphique [Scratch](http://scratch.mit.edu/) développé au MIT pour les enfants dès 7 ans.
 

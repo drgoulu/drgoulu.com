@@ -11,7 +11,9 @@ tags:
 coverImage: "1ca8c0e6ff83b3adc9e8a9d8a503a6ef-1.jpg"
 ---
 
-[![](images/1ca8c0e6ff83b3adc9e8a9d8a503a6ef.jpg)Armadillo Run](http://www.armadillorun.com/) est un jeu GENIAL. Je ne m'étais plus autant marré en me cassant la tête depuis [The Incredible Machine](http://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=214) (TIM) et Lemmings (que je viens de trouver [jouable en ligne](http://www.elizium.nu/scripts/lemmings/) ! wow !)
+{{< figure src="images/1ca8c0e6ff83b3adc9e8a9d8a503a6ef.jpg" alt="Armadillo Run" link="http://www.armadillorun.com/" >}}
+
+[Armadillo Run](http://www.armadillorun.com/) est un jeu GENIAL. Je ne m'étais plus autant marré en me cassant la tête depuis [The Incredible Machine](http://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=214) (TIM) et Lemmings (que je viens de trouver [jouable en ligne](http://www.elizium.nu/scripts/lemmings/) ! wow !)
 
 [Armadillo Run](http://www.armadillorun.com/) est à la base un casse-tête basé sur la simulation physique. Il s'agit de faire passer une balle de basket d'un point de départ à un point d'arrivée en construisant des rampes, tremplins et autres structures. Mais on peut aussi le voir comme un jeu de construction virtuel permettant de faire des mécanismes délirants comme dans cette vidéo:
 

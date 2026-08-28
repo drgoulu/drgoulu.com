@@ -5,8 +5,10 @@ date: '2026-08-23'
 categories:
 - non-classe
 draft: true
+coverImage: "8362517-L.jpg"
 ---
-![Le problÃ¨me Ã  trois corps par ](images/8362517-L.jpg)
+
+{{< figure src="images/8362517-L.jpg" alt="Le problÃ¨me Ã  trois corps par " >}}
 
 {{< openbook booknumber="ISBN:9782330070748" templatenumber="1" >}} Ca faisait longtemps que je n'avais pas lu de SF, et encore moins de bonne SF, et encore encore moins de SF chinoise. La trilogie[[1]](#ref-1), [[2]](#ref-2), [[3]](#ref-3) de [Liu Cixin](https://fr.wikipedia.org/wiki/Liu_Cixin) parue ces 3 dernières années en français est absolument remarquable à tous points de vue. C'est de la SF comme j'aime, avec beaucoup de Science, et qui fait réfléchir à un sujet intéressant. Dans le cas présent, à beaucoup de sujets intéressants et importants. De plus, l'origine chinoise de l'auteur est loin d'être anecdotique : de nombreuses références culturelles, des parallèles historiques voire un second degré politique[[4]](#ref-4).
 

@@ -7,6 +7,7 @@ categories:
 tags:
 - intelligence-artificielle
 draft: true
+coverImage: "042816_1315_Unepremirei1.png"
 ---
 https://leblogducuk.ch/2018/01/08/open-bar-de-janvier-2018/#comment-6960
 

@@ -8,6 +8,7 @@ tags:
 - philosophie
 - science
 draft: true
+coverImage: "citation-milan-kundera-54512.png"
 ---
 Je me fais parfois traiter de d' "esprit cartésien", quand ce n'est pas de "cartésien borné", incapable de saisir qu'il existe autre chose que le monde bassement matériel qui nous entoure. Pourtant le [cartésianisme](https://fr.wikipedia.org/wiki/cartésianisme) est défini comme une philosophie [rationaliste](https://fr.wikipedia.org/wiki/rationaliste) et [métaphysique](https://fr.wikipedia.org/wiki/métaphysique) :
 

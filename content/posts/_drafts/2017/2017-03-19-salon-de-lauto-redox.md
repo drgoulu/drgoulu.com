@@ -8,8 +8,12 @@ tags:
 - chimie
 - transports
 draft: true
+coverImage: "33498727545_b619d378b8_h_d.jpg"
 ---
-![](images/33498727545_b619d378b8_h_d.jpg)Je visite le [Salon International de l'Automobile de Genève](https://fr.wikipedia.org/wiki/Salon_International_de_l'Automobile_de_Genève) une fois tous les 10 ans environ, quand un neveu ou le fils d'une ami me supplie assez longtemps de l'y emmener.
+
+{{< figure src="images/33498727545_b619d378b8_h_d.jpg" >}}
+
+Je visite le [Salon International de l'Automobile de Genève](https://fr.wikipedia.org/wiki/Salon_International_de_l'Automobile_de_Genève) une fois tous les 10 ans environ, quand un neveu ou le fils d'une ami me supplie assez longtemps de l'y emmener.
 
 Cette année, les voitures avaient toujours 4 roues, les hôtesses d'accueil toujours aussi charmantes, et les badauds se pressaient toujours le plus autour des voitures les moins écolo.
 

@@ -12,7 +12,7 @@ tags:
 coverImage: "6b6e8564e18a75bb838389e2aee49068.jpg"
 ---
 
-{{< figure src="images/6b6e8564e18a75bb838389e2aee49068.jpg" alt="© Anthony Carré - CNRS 2006" caption="© Anthony Carré - CNRS 2006" align="alignright" width="215" >}}
+{{< figure src="images/6b6e8564e18a75bb838389e2aee49068.jpg" alt="© Anthony Carré - CNRS 2006" caption="© Anthony Carré - CNRS 2006" width="215" >}}
 
 Cet article est parti d'une question de Michel : "pourquoi l'araignée ne tourne pas au bout de son fil ?" .
 

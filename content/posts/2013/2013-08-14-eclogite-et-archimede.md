@@ -12,7 +12,7 @@ tags:
 coverImage: "13363399fece287c1738dcd558864284-1.jpg"
 ---
 
-{{< figure src="images/13363399fece287c1738dcd558864284.jpg" alt="Eclogite de Norvège" caption="Eclogite de Norvège" link="http://fr.wikipedia.org/wiki/%C3%89clogite" align="alignright" width="320" >}}
+{{< figure src="images/13363399fece287c1738dcd558864284.jpg" alt="Eclogite de Norvège" caption="Eclogite de Norvège" link="http://fr.wikipedia.org/wiki/%C3%89clogite" width="320" >}}
 
 Vu en Norvège quelques trous dans une falaise de fjord dont on nous a indiqué qu'il s'agissait d'une ancienne carrière d'[éclogite](http://fr.wikipedia.org/wiki/%C3%89clogite). Qu'est-ce ?
 

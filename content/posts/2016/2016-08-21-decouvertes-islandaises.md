@@ -17,7 +17,7 @@ Cet été, toute la famille Goulu a eu la chance de visiter un pays extraordinai
 
 ### La baleine à bosse
 
-{{< figure src="images/2.jpg" alt="Baleine à bosse" caption="Baleine à bosse, Reykjavik. Photo Julia G." align="alignright" width="360" >}}
+{{< figure src="images/2.jpg" alt="Baleine à bosse" caption="Baleine à bosse, Reykjavik. Photo Julia G." width="360" >}}
 
 La [baleine à bosse](https://fr.wikipedia.org/wiki/baleine_à_bosse) (humpback whale en anglais) nous a souhaité la bienvenue dès le premier jour en effectuant de spectaculaires sauts et en frappant l'eau de ses puissantes nageoires. Ou peut-être protestait-elle contre le massacre de ses congénères jusqu'en 1986 qui a failli causer leur extinction. Ou son soulagement que la population soit en augmentation depuis, passée de 20'000 à 35'000 en 30 ans.
 
@@ -41,7 +41,7 @@ Ceci explique que la production de Hákarl soit très confidentielle, limitée 
 
 ### Le rift
 
-{{< figure src="images/thingvellir_iceland_Heradsskolinn.jpg.jpg" alt="le parc national de Thingvellir" caption="le parc national de Thingvellir" link="http://www.thingvellir.is/english.aspx" align="alignright" width="360" >}}
+{{< figure src="images/thingvellir_iceland_Heradsskolinn.jpg.jpg" alt="le parc national de Thingvellir" caption="le parc national de Thingvellir" link="http://www.thingvellir.is/english.aspx" width="360" >}}
 
 L'[Islande](https://fr.wikipedia.org/wiki/Islande) est une île située pile sur la [dorsale médio-atlantique](https://fr.wikipedia.org/wiki/dorsale_médio-atlantique), là ou les plaques tectoniques nord-américaine et eurasienne s'écartent de 2 à 3 centimètres par an. Tout au long de la dorsale de nombreux volcans actifs comblent cet écartement en formant une imposante chaîne de montagnes partant du plancher océanique à environ -4000m dont les sommets sont souvent immergés, mais dépassent le niveau de l'océan de plus de 2000m en Islande, mais aussi aux [Açores](https://fr.wikipedia.org/wiki/Açores) par exemple.
 
@@ -53,7 +53,7 @@ Tout ça devient très concret en visitant le [rift](https://fr.wikipedia.org/wi
 
 Dans certaines conditions, la lave sortant d'un volcan se solidifie au contact de l'air en formant un tube solide dans lequel elle peut s'écouler en restant très chaude, fluide. Quand le flux de lave se tarit, il laisse derrière lui un tube creux, un [tunnel de lave](https://fr.wikipedia.org/wiki/tunnel_de_lave) parfois tout petit, parfois de plusieurs mètres de diamètre et de centaines de mètres de long.
 
-{{< figure src="images/19961857070_321c5aef14_z_d.jpg" alt="Photo CC Felix Haller sur Flickr" caption="Stalagmites à Vatnshellir Photo Felix Haller sur Flickr (CC BY 2.0)" link="https://www.flickr.com/photos/113254492@N04/19961857070" align="alignright" width="360" >}}
+{{< figure src="images/19961857070_321c5aef14_z_d.jpg" alt="Photo CC Felix Haller sur Flickr" caption="Stalagmites à Vatnshellir Photo Felix Haller sur Flickr (CC BY 2.0)" link="https://www.flickr.com/photos/113254492@N04/19961857070" width="360" >}}
 
 La grotte Vatnshellir est l'un des rares tunnels de lave  accessibles au public non spéléologue ([visite en video](https://www.youtube.com/watch?v=f79PS_5ERsA&))
 
@@ -73,7 +73,7 @@ Deux lacs se sont alors formés, le plus grand dans la [caldeira](https://fr.w
 
 ### Les pseudo cratères
 
-{{< figure src="images/lake-myvatn-iceland_63607_990x742.jpg" alt="Pseudo-cratères du lac Myvatn, photo Jonas Bendiksen, National Geographic" caption="Pseudo-cratères du Mývatn, photo Jonas Bendiksen, National Geographic" link="http://travel.nationalgeographic.com/travel/365-photos/lake-mvatn-iceland/" align="alignright" width="360" >}}
+{{< figure src="images/lake-myvatn-iceland_63607_990x742.jpg" alt="Pseudo-cratères du lac Myvatn, photo Jonas Bendiksen, National Geographic" caption="Pseudo-cratères du Mývatn, photo Jonas Bendiksen, National Geographic" link="http://travel.nationalgeographic.com/travel/365-photos/lake-mvatn-iceland/" width="360" >}}
 
 Avec tous ces volcans, pas étonnant que l'Islande soit truffée de cratères, mais dans la région du [Mývatn](https://fr.wikipedia.org/wiki/Mývatn)\*\* il y en a vraiment beaucoup. Trop au point d'en être louche. En fait ce sont des [pseudo-cratères](https://fr.wikipedia.org/wiki/pseudo-cratère) formés par des explosions de vapeur lorsque de la lave a coulé sur le lac.
 
@@ -83,7 +83,7 @@ Vous vous souvenez certainement avoir essayé de [prononcer ce nom](https://uplo
 
 ### Le geyser
 
-{{< figure src="images/0.gif" alt="0" caption="Strokkur, par Julia G." align="alignright" width="320" >}}
+{{< figure src="images/0.gif" alt="0" caption="Strokkur, par Julia G." width="320" >}}
 
 Un mot islandais plus facile à prononcer, c'est "[geyser](https://fr.wikipedia.org/wiki/geyser)". Il vient de "[Geysir](https://fr.wikipedia.org/wiki/Geysir)", nom propre d'un geyser particulier situé dans le [champ géothermique](https://fr.wikipedia.org/wiki/Champ_géothermique_de_Geysir) du même nom. L'activité de cette mère de tous les geysers a diminué depuis plusieurs années au point qu'il ne propulse un peu d'eau en l'air que très occasionnellement aujourd'hui.
 

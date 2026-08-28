@@ -13,7 +13,7 @@ tags:
 coverImage: "7273235-L.jpg"
 ---
 
-[![17 équations qui ont changé le monde](images/7273235-L.jpg)](http://openlibrary.org/books/OL25439324M/17_équations_qui_ont_changé_le_monde)
+{{< figure src="images/7273235-L.jpg" alt="17 équations qui ont changé le monde" link="http://openlibrary.org/books/OL25439324M/17_équations_qui_ont_changé_le_monde" >}}
 
 Ce livre [[1]](#ref-1) est l'une des raisons pour lesquelles je n'ai pas encore terminé la suite des "[impossibles](/2014/02/02/les-impossibles-1/)". [Ian Stewart](https://fr.wikipedia.org/wiki/Ian_Stewart_(mathématicien)) attaque le sujet dès la première page:
 

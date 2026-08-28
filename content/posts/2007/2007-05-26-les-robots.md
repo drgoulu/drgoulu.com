@@ -10,7 +10,9 @@ tags:
 coverImage: "103643873_ff076e7eb3_m.jpg"
 ---
 
-[![](images/103643873_ff076e7eb3_m.jpg)](http://www.flickr.com/photos/kicey/103643873/)sur le blog [Revolution 3.0: Mais où sont les robots ?](http://billaut.typepad.com/revolution3point0/2007/05/mais_o_sont_les.html#comment-70768652) Jean Michel Billaut sous-entend que l'Europe, qui n'enregistre pas de croissance du marché des robots, prend du retard sur les USA et surtout l'Asie face à la prochaine révolution annoncée de la robotique.
+{{< figure src="images/103643873_ff076e7eb3_m.jpg" link="http://www.flickr.com/photos/kicey/103643873/" >}}
+
+sur le blog [Revolution 3.0: Mais où sont les robots ?](http://billaut.typepad.com/revolution3point0/2007/05/mais_o_sont_les.html#comment-70768652) Jean Michel Billaut sous-entend que l'Europe, qui n'enregistre pas de croissance du marché des robots, prend du retard sur les USA et surtout l'Asie face à la prochaine révolution annoncée de la robotique.
 
 Je me suis permis d'y apporter le commentaire quelque peu sceptique suivant:
 

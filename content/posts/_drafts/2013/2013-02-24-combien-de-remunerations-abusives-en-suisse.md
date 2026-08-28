@@ -10,6 +10,7 @@ tags:
 - politique
 - suisse
 draft: true
+coverImage: "3b859275c96f23b5c494c801b065e63e.png"
 ---
 Le 3 mars, les suisses voteront sur l'[initiative populaire](view-source:/2009/12/13/initiatives-populaires/) lancée par M. Minder "[contre les rémunérations abusives](http://www.remunerationsabusives.ch/)". C'est l'occasion de poursuivre la [série d'articles sur les inégalités](/tags/inegalites/) en examinant particulièrement le cas suisse. Rappel des épisodes précédents:
 

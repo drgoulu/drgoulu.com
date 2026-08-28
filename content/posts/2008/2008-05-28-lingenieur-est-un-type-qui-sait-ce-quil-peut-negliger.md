@@ -7,7 +7,9 @@ categories:
 coverImage: "6852211d7663ff6a2d7ecb9701d195ef.jpg"
 ---
 
-![](images/6852211d7663ff6a2d7ecb9701d195ef.jpg)Ce dicton professionnel qui me semble plus vrai chaque année est du à E Juillard (1886-1982) est merveilleusement décrit dans l'introduction du cours de télécommunication que j'ai eu le plaisir de suivre à l'EPFL \[1\] :
+{{< figure src="images/6852211d7663ff6a2d7ecb9701d195ef.jpg" >}}
+
+Ce dicton professionnel qui me semble plus vrai chaque année est du à E Juillard (1886-1982) est merveilleusement décrit dans l'introduction du cours de télécommunication que j'ai eu le plaisir de suivre à l'EPFL \[1\] :
 
 > Pouvoir négliger est, en technique, une nécessité tout aussi impérieuse que savoir calculer. Mais savoir négliger est un art difficile et subtil qui exige à la fois une connaissance approfondie des phénomènes ainsi que des techniques, et un jugement sûr pour évaluer le degré d’approximation nécessaire, encore compatible avec les buts à atteindre.
 > 

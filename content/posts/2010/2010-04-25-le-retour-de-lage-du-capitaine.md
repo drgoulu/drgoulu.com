@@ -11,7 +11,9 @@ tags:
 coverImage: "7bdb560add4a40ac0b203a7a85fdf52e.jpg"
 ---
 
-![](images/7bdb560add4a40ac0b203a7a85fdf52e.jpg)Trouvé encore un de ces merveilleux problèmes qui semble impossible et qui est pourtant délicieusement simple :
+{{< figure src="images/7bdb560add4a40ac0b203a7a85fdf52e.jpg" >}}
+
+Trouvé encore un de ces merveilleux problèmes qui semble impossible et qui est pourtant délicieusement simple :
 
 Le Xème jour du Yème mois de l'année 1900 + Z, un bateau ayant U hélices, V cheminées et W hommes d'équipage est lancé.
 

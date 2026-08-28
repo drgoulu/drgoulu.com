@@ -8,9 +8,12 @@ categories:
 tags: 
   - "livres"
   - "physique"
+coverImage: "7389869-L.jpg"
 ---
 
-![La physique par les objets quotidiens](images/7389869-L.jpg)Pour Noël, la [Boutique Science et Vie](http://www.laboutiquescienceetvie.com/) m'a gentiment offert un exemplaire du livre {{< openbook booknumber="ISBN:9782701145525" templatenumber="5" >}} ([et chez eux](http://www.laboutiquescienceetvie.com/la-physique-par-les-objets-du-quotidien.html))
+{{< figure src="images/7389869-L.jpg" alt="La physique par les objets quotidiens" >}}
+
+Pour Noël, la [Boutique Science et Vie](http://www.laboutiquescienceetvie.com/) m'a gentiment offert un exemplaire du livre {{< openbook booknumber="ISBN:9782701145525" templatenumber="5" >}} ([et chez eux](http://www.laboutiquescienceetvie.com/la-physique-par-les-objets-du-quotidien.html))
 
 Les 16 chapitres décrivent les principes de fonctionnement d'autant d'objets du quotidien : les ampoules à incandescence, les ampoules à décharge et les tubes fluorescents, la montre à quartz, la télévision, le réfrigérateur, les détecteurs de fumée, le four à micro-ondes, les plaques électriques, le disque compact, les écrans à cristaux liquides, le disque dur, le photocopieur, le système GPS de positionnement par satellites, l'échographie médicale, le scanner à rayons x, le réacteur nucléaire.
 

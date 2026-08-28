@@ -13,7 +13,9 @@ tags:
 coverImage: "pales.jpg"
 ---
 
-[![pales](images/pales.jpg)Le Courrier](http://www.lecourrier.ch/) de ce week-end consacre [un article](http://www.lecourrier.ch/index.php?name=NewsPaper&file=article&sid=440320) à l'énergie éolienne, décrite dès les premiers mots comme "particulièrement rentable". Voyons s'il faut vraiment investir dans le vent.
+{{< figure src="images/pales.jpg" alt="pales" link="http://www.lecourrier.ch/" >}}
+
+[Le Courrier](http://www.lecourrier.ch/) de ce week-end consacre [un article](http://www.lecourrier.ch/index.php?name=NewsPaper&file=article&sid=440320) à l'énergie éolienne, décrite dès les premiers mots comme "particulièrement rentable". Voyons s'il faut vraiment investir dans le vent.
 
 Selon l'article, la [plus grande éolienne de Suisse](http://www.rhoneole.ch/index.php?option=com_content&task=view&id=15&Itemid=28), mise en service récemment à Collonges a couté 5 Millions de francs suisses et en rapportera 850'000 par an, ce qui permettra de l'amortir en 5 ans. D'abord, 5'000'000/850'000 ça fait 5.8 , donc plutôt 6 ans que 5, et seulement si on ne doit pas payer d'intérêts sur les 5 millions. Avec un taux raisonnable de 5%, c'est près de 9 ans qu'il faut pour amortir l'installation. Passe encore.
 

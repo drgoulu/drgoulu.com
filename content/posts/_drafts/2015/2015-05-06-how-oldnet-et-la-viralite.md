@@ -7,6 +7,7 @@ categories:
 tags:
 - internet
 draft: true
+coverImage: "how-old.net-PhG.png"
 ---
 [http://blog.how-old.net/](http://blog.how-old.net/)
 

@@ -11,6 +11,7 @@ tags:
   - "informatique"
   - "loi-de-moore"
   - "simulation"
+coverImage: "6ea028259540cc1ff30e911eaa6eb4db.jpg"
 ---
 
 _(article publié dans le cadre de la [semaine thématique du C@fé des Sciences sur Le Cerveau](http://thema.cafe-sciences.org/articles/category/le-cerveau/))_

@@ -11,7 +11,9 @@ tags:
 coverImage: "i-dont-want-to-believe-i-want-to-know-prints.jpg"
 ---
 
-[![I Don](images/i-dont-want-to-believe-i-want-to-know-prints.jpg)](https://society6.com/product/i-dont-want-to-believe-i-want-to-know_print)La semaine passée, l'émission "Temps Présent" de la RTS (notre "Envoyé Spécial à nous...) a diffusé le reportage [OVNIS, une affaire d'états](https://www.rts.ch/play/tv/temps-present/video/ovnis-une-affaire-detat?id=11463697) [[1]](#ref-1) qui revient sur la publication récente de vidéos de l'US Air Force montrant des interceptions d'objets volants non identifiés par des F-18 américains.
+{{< figure src="images/i-dont-want-to-believe-i-want-to-know-prints.jpg" alt="I Don" link="https://society6.com/product/i-dont-want-to-believe-i-want-to-know_print" >}}
+
+La semaine passée, l'émission "Temps Présent" de la RTS (notre "Envoyé Spécial à nous...) a diffusé le reportage [OVNIS, une affaire d'états](https://www.rts.ch/play/tv/temps-present/video/ovnis-une-affaire-detat?id=11463697) [[1]](#ref-1) qui revient sur la publication récente de vidéos de l'US Air Force montrant des interceptions d'objets volants non identifiés par des F-18 américains.
 
 Il y a plusieurs raisons pour lesquelles j'ai trouvé ce reportage mauvais, voire [fallacieux](https://fr.wiktionary.org/wiki/fallacieux) , mais la principale est le passage sur
 

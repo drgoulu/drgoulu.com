@@ -6,6 +6,7 @@ categories:
   - "cat2"
 tags: 
   - "futur"
+coverImage: "c14e7902a08802229cdbcba55f05a6ef.gif"
 ---
 
 Les millions d'ordinateurs interconnectés sour internet font à 90% la même chose : RIEN.

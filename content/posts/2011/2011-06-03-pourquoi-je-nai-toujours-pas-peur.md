@@ -11,7 +11,7 @@ tags:
 coverImage: "fe628e8cff89937c9285a9079e6ae761.jpg"
 ---
 
-[![](images/56c286d4ecad7c254a0745f9b64cee90.jpg)](http://www.flickr.com/photos/pinksherbet/2796862756/)
+{{< figure src="images/56c286d4ecad7c254a0745f9b64cee90.jpg" link="http://www.flickr.com/photos/pinksherbet/2796862756/" >}}
 
 _(l'article "[Why I’m (still) not worried about my cell phone hurting my brain](http://blogs.discovermagazine.com/badastronomy/2011/06/01/why-im-still-not-worried-about-my-cell-phone-hurting-my-brain/ "Permanent Link: Why I’m (still) not worried about my cell phone hurting my brain")" sur Bad Astronomy correspond tellement bien à mon point de vue que je ne vois pas la raison de réécrire sur ce sujet : je le traduis)_
 

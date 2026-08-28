@@ -6,6 +6,7 @@ categories:
   - "cat2"
 tags: 
   - "internet"
+coverImage: "db185f44564884575ab25d7163829c6e.gif"
 ---
 
 Voici deux problèmes qui n'ont apparemment rien en commun:

@@ -5,12 +5,13 @@ date: '2013-12-20'
 categories:
 - non-classe
 draft: true
+coverImage: "9f1bca42a6c66fb77a36ab26b320b147.gif"
 ---
 Si je lâche un caillou d'une hauteur h raisonnable, je suis absolument certain que cette hauteur va diminuer selon la loi x(t) = h-g.t²/2 et qu'il va heurter le sol après un temps $t = \sqrt{2.h/g}$ que je peux déterminer avec un bonne précision. Si j'ai mal mesuré h ou g et que j'en prends des valeurs faussées de 10%, le temps de chute ne sera faux que de 5% (à cause de la racine carrée), mais l'issue ne fait aucun doute : le caillou va tomber au sol.
 
 [![](images/9f1bca42a6c66fb77a36ab26b320b147.gif)](http://fr.wikipedia.org/wiki/Barycentre_\(physique\)#Astronomie)Si je calcule la trajectoire de deux (gros) cailloux lancés dans l'espace, je peux également déterminer de façon certaine leur trajectoire. Soit ils entreront rapidement en collision, soit ils s'éloigneront l'un de l'autre jusqu'à l'infini, soit ils se mettront à parcourir des ellipses autour de leur barycentre commun. Le "[problème à deux corps](http://fr.wikipedia.org/wiki/Probl%C3%A8me_%C3%A0_deux_corps)" est admet une solution analytique : on peut obtenir une formule  qui donnera l'orbite des deux cailloux avec une précision du même ordre que la précision avec laquelle on connait les masses, les positions et les vitesses initiales.
 
-{{< figure src="images/3e83d00d7c1be99aba4868351a69adf8.png" alt="3 bodies" caption="3 bodies" align="alignright" width="287" >}}
+{{< figure src="images/3e83d00d7c1be99aba4868351a69adf8.png" alt="3 bodies" caption="3 bodies" width="287" >}}
 
 Avec trois cailloux, ça devient très nettement plus compliqué [[1]](#ref-1). Dans certains cas les orbites
 

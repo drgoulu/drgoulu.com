@@ -6,6 +6,7 @@ categories:
   - "non-classe"
 tags: 
   - "art"
+coverImage: "decoupage1.gif"
 ---
 
 Dans l'art du découpage, je connaissais ça :

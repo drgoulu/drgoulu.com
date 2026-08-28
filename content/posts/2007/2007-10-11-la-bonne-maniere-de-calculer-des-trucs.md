@@ -11,7 +11,9 @@ tags:
 coverImage: "df243304c6b9c3dc459bb7fec074fb31-1.jpg"
 ---
 
-[![](images/df243304c6b9c3dc459bb7fec074fb31.jpg)"The Right Way to Calculate Stuff"](http://www.plunk.org/~hatch/rightway.php) est une page pour informaticiens dans mon genre : elle contient des petits "snippets" de code utile pour contourner certains pièges tendus par les maths et la géométrie.
+{{< figure src="images/df243304c6b9c3dc459bb7fec074fb31.jpg" alt="&quot;The Right Way to Calculate Stuff&quot;" link="http://www.plunk.org/~hatch/rightway.php" >}}
+
+["The Right Way to Calculate Stuff"](http://www.plunk.org/~hatch/rightway.php) est une page pour informaticiens dans mon genre : elle contient des petits "snippets" de code utile pour contourner certains pièges tendus par les maths et la géométrie.
 
 Par exemple, si on veut calculer sin(x)/x, il faut faire attention à ce qui se passe pour x=0, sinon on obtiendra une erreur de "division by zero" au lieu du résultat attendu, qui est 1. Un bon programmeur prévoira le coup en écrivant (en C++) :
 

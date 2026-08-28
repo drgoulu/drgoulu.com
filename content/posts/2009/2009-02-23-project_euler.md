@@ -14,7 +14,9 @@ aliases:
   - "/2009/02/24/project_euler/"
 ---
 
-![](images/a9192f1b2a56a4bbaee679259c557e57.jpg)Amis des casse-tête mathématiques ardus et de la programmation d'algorithmes optimisés, bonjour!
+{{< figure src="images/a9192f1b2a56a4bbaee679259c557e57.jpg" >}}
+
+Amis des casse-tête mathématiques ardus et de la programmation d'algorithmes optimisés, bonjour!
 
 Je viens de découvrir [Project Euler.net](http://projecteuler.net/), et j'ai honte de ne pas l'avoir trouvé avant. Ce site propose 233 problèmes (et environ un de plus chaque semaine environ) pouvant parfois être résolus avec un papier et un crayon propulsé par un cerveau en ébullition, mais pour la plupart requièrent  quelques lignes de code bien pensées et un stupide esclave électronique pour les exécuter.
 

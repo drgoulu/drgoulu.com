@@ -26,7 +26,7 @@ Certains imaginent que l'énergie solaire pourrait être une solution, mais ils 
 
 - Une installation photovoltaïque produit de l'électricité justement pendant la journée, ce qui fait que le kWh peut être vendu [autour de 60 centimes d'Euros](/2007/08/26/energie-eolienne-et-solaire-a-prix-coutant/), soit à un prix permettant de couvrir les couts "seulement" 4 à 10 fois plus cher que le prix du marché ...
 
-{{< figure src="images/b8fee8cde0e705f223bdb535998edee0.gif" alt="Courbe de la production solaire pendant une journée sans nuages." caption=".&quot;" align="alignright" width="500" >}}
+{{< figure src="images/b8fee8cde0e705f223bdb535998edee0.gif" alt="Courbe de la production solaire pendant une journée sans nuages." caption=".&quot;" width="500" >}}
 
 - En principe, on roule la journée avec nos voitures, et la nuit elles sont parquées. Ca tombe très bien : on rechargera les voitures électriques avec de l'électricité bon marché pendant le creux de consommation.
 

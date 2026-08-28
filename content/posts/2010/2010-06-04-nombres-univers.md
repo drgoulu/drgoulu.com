@@ -11,7 +11,9 @@ tags:
 coverImage: "828a5513059659ba55bc1f73c1eb542b-1.gif"
 ---
 
-![](images/828a5513059659ba55bc1f73c1eb542b.gif)Pi est un [nombre irrationnel](https://fr.wikipedia.org/wiki/nombre_irrationnel) (il est même "[transcendant](https://fr.wikipedia.org/wiki/nombre_transcendant)") : comme il ne peut pas s'écrire sous forme d'une fraction, ses décimales ne "cyclent" jamais commes celles de 22/7 = 3.142857 142857 142857 ... par exemple, et il y en a une infinité, donc a priori une infinité de séquences de décimales toutes différentes.
+{{< figure src="images/828a5513059659ba55bc1f73c1eb542b.gif" >}}
+
+Pi est un [nombre irrationnel](https://fr.wikipedia.org/wiki/nombre_irrationnel) (il est même "[transcendant](https://fr.wikipedia.org/wiki/nombre_transcendant)") : comme il ne peut pas s'écrire sous forme d'une fraction, ses décimales ne "cyclent" jamais commes celles de 22/7 = 3.142857 142857 142857 ... par exemple, et il y en a une infinité, donc a priori une infinité de séquences de décimales toutes différentes.
 
 Pas étonnant donc qu'on puisse facilement [trouver sa date de naissance dans les décimales de Pi](/2008/01/17/pi-search/), mais est-on sur de trouver n'importe quelle séquence (finie) de chiffres dans les décimales de Pi, par exemple un million de chiffres 5 consécutifs, ou l'oeuvre complète de Shakespeare traduite en chiffres ? Pour ça, il faudrait que pi soit un "[nombre univers](https://fr.wikipedia.org/wiki/nombre_univers)". Et n'en déplaise à [certains](http://omnilogie.fr/O/Ne_calculez_pas_pi_en_binaire_!), on n'en sait rien pour l'instant\*, et il en va de même pour e, $\sqrt{2}$, ln(2) et tous les nombres irrationnels usuels, et ce non seulement en base 10 mais dans n'importe quelle base [[1]](#ref-1).
 
@@ -36,7 +38,7 @@ On voit qu'on ne gagne que quelques pourcents de décimales. Mais on peut aller 
 
 ## Les séquences de De Bruijn
 
-{{< figure src="images/88eb6be30fefb30da8faea1b72e11f69.png" alt="Une tresse de De Bruijn" caption="Une tresse de De Bruijn" link="images/88eb6be30fefb30da8faea1b72e11f69.png" align="alignright" width="140" >}}
+{{< figure src="images/88eb6be30fefb30da8faea1b72e11f69.png" alt="Une tresse de De Bruijn" caption="Une tresse de De Bruijn" link="images/88eb6be30fefb30da8faea1b72e11f69.png" width="140" >}}
 
 Mais d'abord, est-ce bien malin de fabriquer un nombre univers compact en concaténant des entiers consécutifs ? Peut-on fabriquer une séquence contenant chaque nombre de n décimales et qui soit nettement plus compacte que l'énumération ? [Jean-Paul Alllouche](https://fr.wikipedia.org/wiki/Jean-Paul_Alllouche) m'a gentiment indiqué qu'une [suite de de Bruijn](https://fr.wikipedia.org/wiki/suite_de_de_Bruijn) (SDB) fait exactement ça, et même très bien puisque chaque nombre de n chiffres en base b n'est présent qu'une seule fois dans la séquence B(b,n). La [page Wikipédia sur les SDB (en anglais)](https://en.wikipedia.org/wiki/De_Bruijn_sequence) pointe sur un site étonnant : le "[Combinatorial Object Server](http://theory.cs.uvic.ca/cos.html)" qui comporte entre autres outils un [générateur de SDB](http://theory.cs.uvic.ca/gen/neck.html) permettant de générer très rapidement par exemple :
 

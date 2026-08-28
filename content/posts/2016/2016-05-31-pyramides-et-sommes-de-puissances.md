@@ -10,7 +10,9 @@ tags:
 coverImage: "Pyramid_of_35_spheres_animation_original.gif"
 ---
 
-![pyramid-spheres](images/pyramid-spheres.png)En essayant de comprendre quelque chose aux [courbes elliptiques](https://fr.wikipedia.org/wiki/courbe_elliptique) je suis tombé [là](https://jeremykun.com/2014/02/10/elliptic-curves-as-elementary-equations/) sur un problème d'apparence tout simple qui m'a fait découvrir les [nombre pyramidaux](https://fr.wikipedia.org/wiki/nombre_pyramidal) et l'intéressant problème du calcul des [sommes de puissances d'entiers](https://fr.wikipedia.org/wiki/sommes_de_puissances_d'entiers).
+{{< figure src="images/pyramid-spheres.png" alt="pyramid-spheres" >}}
+
+En essayant de comprendre quelque chose aux [courbes elliptiques](https://fr.wikipedia.org/wiki/courbe_elliptique) je suis tombé [là](https://jeremykun.com/2014/02/10/elliptic-curves-as-elementary-equations/) sur un problème d'apparence tout simple qui m'a fait découvrir les [nombre pyramidaux](https://fr.wikipedia.org/wiki/nombre_pyramidal) et l'intéressant problème du calcul des [sommes de puissances d'entiers](https://fr.wikipedia.org/wiki/sommes_de_puissances_d'entiers).
 
 Le problème tout simple concerne une pyramide de boulets comme celle ci-contre. Combien de boulets contient une pyramide de n étages ? Il est égal à $1+4+9+16+...+n^2 = \sum_{k=1}^{n}k^2$ , la somme des carrés des n premiers nombres entiers que nous allons noter $S_n^2$.
 
@@ -44,7 +46,7 @@ Je n'en suis pas encore là. Pour l'instant je me suis limité à immortaliser l
 
 Revenons à notre problème initial de pyramide à base carrée. Carrée ? Pourquoi se limiter à un carré ? D'ailleurs les faces de notre pyramide sont triangulaires... et même qu'elles ont 1+2+3+ ... n boulets, et revoici notre $S_n^1$ ! Pas pour rien qu'on appelle les nombres 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, ... (suite [A000217](https://oeis.org/A000217 "oeis:A000217") de l'OEIS) "[Nombres triangulaires](https://fr.wikipedia.org/wiki/Nombre_triangulaire)", ce qui est d'autant plus logique que 1, 4, 9, 16, 25, 36, ... ([A000290](https://oeis.org/A000290 "oeis:A000290")) sont les "[carrés](https://fr.wikipedia.org/wiki/Carré_parfait)".
 
-{{< figure src="images/Pyramid_of_35_spheres_animation_original.gif" alt="Image Wikimedia Commons : Rendered by Blotwell using POV-Ray" caption="Image Wikimedia Commons : Rendered by Blotwell using POV-Ray" link="https://commons.wikimedia.org/wiki/File:Pyramid_of_35_spheres_animation_original.gif" align="alignright" width="400" >}}
+{{< figure src="images/Pyramid_of_35_spheres_animation_original.gif" alt="Image Wikimedia Commons : Rendered by Blotwell using POV-Ray" caption="Image Wikimedia Commons : Rendered by Blotwell using POV-Ray" link="https://commons.wikimedia.org/wiki/File:Pyramid_of_35_spheres_animation_original.gif" width="400" >}}
 
 En empilant des boulets sur une base triangulaire, on obtient les [nombres tétraédriques](https://fr.wikipedia.org/wiki/nombre_tétraédrique) 1, 4, 10, 20, 35, 56, 84, 120, 165, 220, ...  ( [A000292](https://oeis.org/A000292 "oeis:A000292") ) donnés par la formule
 

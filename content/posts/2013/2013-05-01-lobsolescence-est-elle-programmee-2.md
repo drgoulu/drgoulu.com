@@ -12,7 +12,7 @@ tags:
 coverImage: "90ef9129e3556b64ffce4779ca947b96-1.gif"
 ---
 
-[![](images/90ef9129e3556b64ffce4779ca947b96.gif)](http://www.joyoftech.com/)
+{{< figure src="images/90ef9129e3556b64ffce4779ca947b96.gif" link="http://www.joyoftech.com/" >}}
 
 La notion d'[obsolescence programmée](https://fr.wikipedia.org/wiki/obsolescence_programmée) est à la mode. Autrefois cantonnée aux milieux "progressistes", la cause est entendue notamment depuis le documentaire "[Prêt à jeter](https://fr.wikipedia.org/wiki/Prêt_à_jeter)" : les industriels contraignent les ingénieurs à limiter la durée de vie des produits pour en vendre plus et maximiser leurs profits, ce qui provoque gaspillage, déchets et autres catastrophes. Certains vont jusqu'à qualifier cette pratique de crime contre l'humanité [[1]](#ref-1) ! Aujourd'hui les média ne prennent plus aucune précaution oratoire lorsqu'elles abordent ce sujet, et même une association de consommateurs que je considérais comme sérieuse l'affirme sans sourciller [[2]](#ref-2):
 

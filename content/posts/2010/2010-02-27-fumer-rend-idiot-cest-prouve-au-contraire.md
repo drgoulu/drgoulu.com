@@ -9,7 +9,9 @@ tags:
 coverImage: "45bfbb9960dacf8e99d7cb4d005c9d41.jpg"
 ---
 
-![](images/45bfbb9960dacf8e99d7cb4d005c9d41.jpg)Vu la semaine passée dans [le torchon du coin café](http://www.20min.ch/ro/) un article modèle, repris de partout sans la moindre analyse, ni même changer le titre : "[Fumer rend idiot, c'est prouvé !](http://www.google.ch/search?q=fumer+rend+idiot+c%27est+prouv%E9)".
+{{< figure src="images/45bfbb9960dacf8e99d7cb4d005c9d41.jpg" >}}
+
+Vu la semaine passée dans [le torchon du coin café](http://www.20min.ch/ro/) un article modèle, repris de partout sans la moindre analyse, ni même changer le titre : "[Fumer rend idiot, c'est prouvé !](http://www.google.ch/search?q=fumer+rend+idiot+c%27est+prouv%E9)".
 
 "Modèle" car exemple typique de vulgarisation scientifique totalement à côté de la plaque. L'étude \[1\] effectuée par Mark Weiser et ses collègues sur les recrues israéliennes montre bien une [corrélation](https://fr.wikipedia.org/wiki/corrélation) entre le fait de fumer et un Q.I. moins élevé.
 

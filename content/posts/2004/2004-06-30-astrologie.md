@@ -10,7 +10,9 @@ tags:
 coverImage: "173a87c6e12116b5077cecf1bcd92e6c.jpg"
 ---
 
-![](images/173a87c6e12116b5077cecf1bcd92e6c.jpg)Si les astres ont une influence sur nous, quelle peut être son importance ?
+{{< figure src="images/173a87c6e12116b5077cecf1bcd92e6c.jpg" >}}
+
+Si les astres ont une influence sur nous, quelle peut être son importance ?
 
 Tout objet physique peut "agir à distance" de plusieurs manières :
 

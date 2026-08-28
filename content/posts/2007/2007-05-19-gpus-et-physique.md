@@ -8,6 +8,7 @@ tags:
   - "3d"
   - "physique"
   - "programmation"
+coverImage: "bd4a01a19cfda0292a5e64880f721c85.jpg"
 ---
 
 Dans votre ordinateur, il y a un CPU (Central Processing Unit) de chez Intel ou AMD communément appelé "processeur", et un GPU (Graphics Processing Unit) de chez nVidia ou ATI. Il n'y a pas si longtemps, le GPU était un circuit "fermé", non programmable par le commun des mortels, entièrement dédié à la production de belles images sur votre écran. Depuis quelques années, ces circuits sont devenus programmables pour permettre de produire de très beaux effets graphiques, et leur puissance à augmenté, augmenté... A tel point qu'aujourd'hui, votre GPU contient probablement plus de transistors que votre CPU, et est certainement capable de résoudre certains problèmes plus rapidement !<!--more-->

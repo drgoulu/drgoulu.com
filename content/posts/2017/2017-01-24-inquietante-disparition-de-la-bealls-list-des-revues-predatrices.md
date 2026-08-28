@@ -7,9 +7,12 @@ categories:
 tags: 
   - "pseudo"
   - "science"
+coverImage: "bealls-list-logo.jpg"
 ---
 
-![](images/bealls-list-logo.jpg)Quelque chose d'inquiétant vient de se produire dans le monde de la publication scientifique : la "Beall's List" a été vidée par son auteur, sans explications.
+{{< figure src="images/bealls-list-logo.jpg" >}}
+
+Quelque chose d'inquiétant vient de se produire dans le monde de la publication scientifique : la "Beall's List" a été vidée par son auteur, sans explications.
 
 [Jeff Beall](https://en.wikipedia.org/wiki/Jeffrey_Beall) ([@jeffrey\_beall](https://twitter.com/jeffrey_beall)) est un "associate professor" et bibliothécaire de l'Université du Colorado connu pour avoir établi et maintenu depuis 2010 une liste de "publications prédatrices, potentielles, possibles ou probables" sur son site [Scholarly Open Access](https://scholarlyoa.com/)
 

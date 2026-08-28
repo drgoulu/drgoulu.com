@@ -10,8 +10,9 @@ tags:
 - geometrie
 - statistiques
 draft: true
+coverImage: "8d28ad8443074d72c3bab39f2584e963.jpg"
 ---
-{{< figure src="images/8d28ad8443074d72c3bab39f2584e963.jpg" alt="illustration de la couverture de Fractalize That, réalisée par Paul Bourke" caption="illustration de la couverture de &quot;Fractalize That&quot;, réalisée par Paul Bourke" link="http://www.paulbourke.net/texture_colour/randomtile/" align="alignright" width="320" >}}
+{{< figure src="images/8d28ad8443074d72c3bab39f2584e963.jpg" alt="illustration de la couverture de Fractalize That, réalisée par Paul Bourke" caption="illustration de la couverture de &quot;Fractalize That&quot;, réalisée par Paul Bourke" link="http://www.paulbourke.net/texture_colour/randomtile/" width="320" >}}
 
 Suite à [mon article](/2011/10/03/pavages-aleatoires/) sur ses travaux en 2011, [John Shier](http://www.john-art.com/) m'a tenu au courant de l'avancement de ses recherches  sur les pavages aléatoires, application esthétique de ce qu'il appelle désormais la "[géométrie statistique](http://john-art.com/stat_geom.html)":
 

@@ -11,7 +11,9 @@ tags:
 coverImage: "e9451462598a3ecd58ddabd87a766503-1.jpg"
 ---
 
-[![](images/e9451462598a3ecd58ddabd87a766503.jpg)](http://flickr.com/photos/goulu/3077977446/)C'est très facile de faire une [photomosaïque](/2007/08/19/grandes-images/) comme celle ci-contre. Des sites comme [Pictosaic juxtaposent](http://www.pictosaic.com/photo-mosaic.html) en quelques secondes des centaines d'images pour approximer une image de base.
+{{< figure src="images/e9451462598a3ecd58ddabd87a766503.jpg" link="http://flickr.com/photos/goulu/3077977446/" >}}
+
+C'est très facile de faire une [photomosaïque](/2007/08/19/grandes-images/) comme celle ci-contre. Des sites comme [Pictosaic juxtaposent](http://www.pictosaic.com/photo-mosaic.html) en quelques secondes des centaines d'images pour approximer une image de base.
 
 Par exemple, voici un détail du goulot du bécher ci-contre:
 

@@ -13,7 +13,7 @@ tags:
 coverImage: "4f1be86001109ce9c5d5834c4b6bdfa2.gif"
 ---
 
-[![](images/4f1be86001109ce9c5d5834c4b6bdfa2.gif)](images/4f1be86001109ce9c5d5834c4b6bdfa2.gif)
+{{< figure src="images/4f1be86001109ce9c5d5834c4b6bdfa2.gif" link="images/4f1be86001109ce9c5d5834c4b6bdfa2.gif" >}}
 
 Les méandres de la science et l'interconnexion des domaines me laissent souvent pantois. Hier soir par exemple, je m'intéressais à la simulation (qualitative) d'écoulement des fluides, [désormais possible en temps réel grâce à la puissance des cartes graphiques modernes](http://3dmon.wordpress.com/2008/08/21/fluides-en-temps-reel-aussi/).
 

@@ -12,7 +12,9 @@ tags:
 coverImage: "b7890bc9a5c14c872c33caa54797a9cb1.jpg"
 ---
 
-![](images/b7890bc9a5c14c872c33caa54797a9cb.jpg)En utilisant l' [Encyclopédie en ligne des suites de nombres entiers](http://oeis.org/Seis.html) pour un article précédent, j'ai découvert qu'elle pouvait m'aider pour une vieille idée : la recherche de nombres acratopèges.
+{{< figure src="images/b7890bc9a5c14c872c33caa54797a9cb.jpg" >}}
+
+En utilisant l' [Encyclopédie en ligne des suites de nombres entiers](http://oeis.org/Seis.html) pour un article précédent, j'ai découvert qu'elle pouvait m'aider pour une vieille idée : la recherche de nombres acratopèges.
 
 Le mot "[Acratopège](http://fr.wiktionary.org/wiki/acratop%C3%A8ge)" signifie "sans propriété particulière" et on ne le trouve plus que sur l'étiquette de quelques bouteilles d'eau faiblement minéralisée.
 

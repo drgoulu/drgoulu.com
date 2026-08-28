@@ -11,7 +11,9 @@ tags:
 coverImage: "7010262-L.jpg"
 ---
 
-![7010262-L](images/7010262-L.jpg)Entre le foie gras et les flocons, j'ai dévoré "Das System", un thriller technologique de l'allemand Karl Olsberg sur l'apparition d'une intelligence artificielle distribuée sur internet.
+{{< figure src="images/7010262-L.jpg" alt="7010262-L" >}}
+
+Entre le foie gras et les flocons, j'ai dévoré "Das System", un thriller technologique de l'allemand Karl Olsberg sur l'apparition d'une intelligence artificielle distribuée sur internet.
 
 Une startup (allemande) crée une sorte de [BOINC](/2007/01/20/calcul-distribue-avec-boinc/) pour prévoir la météo en utilisant la puissance de calcul des PC disséminés sur internet. Mais le truc devient un virus (un BOINC viral... idée à retenir ...), et le système devient intelligent, conscient, et dangereux...
 

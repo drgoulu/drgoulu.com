@@ -11,7 +11,9 @@ tags:
 coverImage: "asymmetric_key_encryption.jpg"
 ---
 
-![](images/asymmetric_key_encryption.jpg)A la fin de mon [article sur HTTPS](/2017/01/11/drgoulu-com-passe-en-https/), j'ai promis d'expliquer pourquoi il ne faut pas trop se fier au petit cadenas vert que vous voyez de plus en plus souvent en haut de votre navigateur favori.  Mais pour éviter un article trop long, je dois d'abord expliquer comment Alice et Bob s'échangent des messages sécurisés depuis 1977.
+{{< figure src="images/asymmetric_key_encryption.jpg" >}}
+
+A la fin de mon [article sur HTTPS](/2017/01/11/drgoulu-com-passe-en-https/), j'ai promis d'expliquer pourquoi il ne faut pas trop se fier au petit cadenas vert que vous voyez de plus en plus souvent en haut de votre navigateur favori.  Mais pour éviter un article trop long, je dois d'abord expliquer comment Alice et Bob s'échangent des messages sécurisés depuis 1977.
 
 ### Petit rappel historique
 

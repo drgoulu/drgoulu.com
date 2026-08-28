@@ -12,7 +12,9 @@ tags:
 coverImage: "185758_4c5b65586a9a4.jpg"
 ---
 
-![](images/185758_4c5b65586a9a4.jpg)Une petite oeuvre [oulipienne](https://fr.wikipedia.org/wiki/Oulipo) pour changer. Suite à un petit délire autour de la machine à café, voici la célèbre fable de La Fontaine [traduite par Google en chinois](http://translate.google.com/translate?u=http%3A%2F%2Fpoesie.webnet.fr%2Flesgrandsclassiques%2Fpoemes%2Fjean_de_la_fontaine%2Fle_corbeau_et_le_renard.html&sl=fr&tl=zh-CN&hl=fr&ie=UTF-8) et re-traduit du chinois en français :
+{{< figure src="images/185758_4c5b65586a9a4.jpg" >}}
+
+Une petite oeuvre [oulipienne](https://fr.wikipedia.org/wiki/Oulipo) pour changer. Suite à un petit délire autour de la machine à café, voici la célèbre fable de La Fontaine [traduite par Google en chinois](http://translate.google.com/translate?u=http%3A%2F%2Fpoesie.webnet.fr%2Flesgrandsclassiques%2Fpoemes%2Fjean_de_la_fontaine%2Fle_corbeau_et_le_renard.html&sl=fr&tl=zh-CN&hl=fr&ie=UTF-8) et re-traduit du chinois en français :
 
 > _Tels que Le Corbeau, L_e Renard
 > 
