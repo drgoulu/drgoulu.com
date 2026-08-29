@@ -21,7 +21,7 @@ La seule vraie surprise que j'aie eue était le stand de la marque Quant, qui pr
 
 L'avantage de ces batteries est d'utiliser des électrolytes liquides
 
-![](images/%filename%)
+![](images/Batterie_redox_vanadium.png)
 
 Batterie\_redox\_vanadium
 

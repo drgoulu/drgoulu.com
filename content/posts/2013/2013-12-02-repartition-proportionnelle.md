@@ -43,7 +43,7 @@ J'ai donc codé la méthode du plus fort reste [dans un tableur Google](https://
 
 Le "bug connu", c'est qu'en cas d'égalité des restes il se pourrait qu'on en ajoute trop, mais je ne sais pas trop comment empêcher ceci en Excel sans macro... Par contre ce problème est évité dans [la fonction Python](https://gist.github.com/goulu/7531147) que j'ai réalisée pour mon application:
 
-\[gist id="7531147"\]
+{{< gist "goulu" "7531147" >}}
 
 Si vous trouvez ce code utile ou intéressant, vous pouvez voter pour [ma réponse](http://stackoverflow.com/questions/16226991/allocate-an-array-of-integers-proportionally-compensating-for-rounding-errors/20054616#20054616) à une question sur StackOverflow, ça me fera une voix de plus en attendant un siège ...
 

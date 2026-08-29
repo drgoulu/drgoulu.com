@@ -67,7 +67,7 @@ Voici donc quelques fonctions Python tirées du [module math2 de ma librairie G
 - l'exponentiation rapide d'une matrice, optionnellement modulaire, et qui corrige le bug de numpy.matrix\_power
 - le calcul quasi instantané du n-ième terme de la série de Fibonacci, avec une option modulaire vivement recommandée pour de grands n
 
-\[gist id="f56725fa32fbb4840c855a8309662c9d"\]
+{{< gist "goulu" "f56725fa32fbb4840c855a8309662c9d" >}}
 
 Avec ça on obtient fibonacci(int(1E19),1000000007) = 647754067 ce qui nous fait une belle jambe,  mais nous a appris pas mal de choses intéressantes, non ?
 

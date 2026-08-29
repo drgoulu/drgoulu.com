@@ -40,7 +40,7 @@ $S_n^p = \sum_{k=1}{n}k^p = {1 \over p+1} \sum_{j=0}^p {p+1 \choose j} B_j n^{
 
 Je n'en suis pas encore là. Pour l'instant je me suis limité à immortaliser la formule de Faulhaber et les Nombres de Bernoulli en quelques lignes de Python qui pourraient être utile un jour, pour un [problème Euler](https://projecteuler.net/problem=545)\*\* ou l'autre
 
-\[gist id="5bbf24a3e2e25070904b79f49020448f" file="faulhaber.py"\]
+{{< gist "goulu" "5bbf24a3e2e25070904b79f49020448f" "faulhaber.py" >}}
 
 ### Du haut de ces pyramides...
 

@@ -38,7 +38,7 @@ Le nombre P recherché n'est donc peut-être pas très grand, d'autant que la so
 
 Les fonctions suivantes suffisent pour résoudre le problème posé: _(code modifié le 4/6/8 suite aux commentaires de b0z0)_
 
-\[gist id="0e35207dedf4e337c937"\]
+{{< gist "" "0e35207dedf4e337c937" >}}
 
 La fonction SCP (Sum of Consecutive Primes) renvoie la somme des n nombres premiers consécutifs en commençant par le i-ème nombre premier en utilisant la fonction prédéfinie Prime\[j\] qui renvoie directement le j-ème nombre premier.
 

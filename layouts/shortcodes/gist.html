@@ -1,0 +1,29 @@
+{{- $user := "" -}}
+{{- $id := "" -}}
+{{- $file := "" -}}
+
+{{- if .IsNamedParams -}}
+  {{- $user = .Get "user" -}}
+  {{- $id = .Get "id" -}}
+  {{- $file = .Get "file" -}}
+{{- else -}}
+  {{- if eq (len .Params) 1 -}}
+    {{- $id = .Get 0 -}}
+  {{- else if eq (len .Params) 2 -}}
+    {{- $user = .Get 0 -}}
+    {{- $id = .Get 1 -}}
+  {{- else if ge (len .Params) 3 -}}
+    {{- $user = .Get 0 -}}
+    {{- $id = .Get 1 -}}
+    {{- $file = .Get 2 -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $url := printf "https://gist.github.com/%s%s.js" (cond (ne $user "") (printf "%s/" $user) "") $id -}}
+{{- if $file -}}
+  {{- $url = printf "%s?file=%s" $url $file -}}
+{{- end -}}
+<script src="{{ $url }}"></script>
+<noscript>
+  <a href="https://gist.github.com/{{ if $user }}{{ $user }}/{{ end }}{{ $id }}{{ with $file }}#file-{{ . }}{{ end }}" target="_blank" rel="noopener">Gist {{ $id }}</a>
+</noscript>
