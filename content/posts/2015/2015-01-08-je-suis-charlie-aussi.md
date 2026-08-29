@@ -17,12 +17,17 @@ drgoulu.com se rebaptise et se décolore en attendant des jours meilleurs. (Opt
 
 CSS pour mettre le site en deuil, pour la prochaine fois :-(
 
-\[source lang="css"\]
+{{< highlight css >}}
+body, blockquote {
+color: #fafafa;
+background: #000000;
+}
 
-body, blockquote { color: #fafafa; background: #000000; }
+a, h1, h2, h3, h4, h5, h6 {
+text-shadow: 0 1px 0 #ff0000;
+}
 
-a, h1, h2, h3, h4, h5, h6 { text-shadow: 0 1px 0 #ff0000; }
-
-.round-div{ border-color: #000000; }
-
-\[/source\]
+.round-div{
+border-color: #000000;
+}
+{{< /highlight >}}

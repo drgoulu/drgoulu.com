@@ -25,14 +25,52 @@ Le programme Python est ci-dessous, il est relativement simple, à l'exception d
 
 A quoi ça sert tout ça ? Outre à tester le traitement d'image en Python avec PIL, c'est pour gagner un concours, mais je ne vous dirai pas (encore) lequel [;-)](/wp-content/uploads/2008/12/result.jpg)
 
-\[code lang="python"\]import Image; #PIL import ImageChops; import ImageStat; import math;
+{{< highlight python >}}
+import Image; #PIL
+import ImageChops;
+import ImageStat;
+import ImageOps;
+import math;
 
-im = Image.open("mosaic.jpg") smallx=40; smally=40;
+im = Image.open("mosaic.jpg")
+smallx=40; smally=40;
+border=1; #ignore border of picture
 
-border=1; #ignore border of picture print im.size\[0\],im.size\[1\] n=(im.size\[0\]/smallx)\*(im.size\[0\]/smally) nx=math.sqrt(n)
+print im.size[0],im.size[1]
+n=(im.size[0]/smallx)*(im.size[1]/smally)
+nx=math.sqrt(n)
 
-res=Image.new(im.mode,(smallx\*nx,smally\*n)) L=\[\]; jmax=0; y=0; while y&lt;im.size\[1\]: x=0; while x&lt;im.size\[0\]: box = (x+border, y+border, x+smallx-border, y+smally-border) mini = im.crop(box) mininb=ImageOps.equalize(mini.convert('L')) min=1000; for i in range(len(L)): rms=ImageStat.Stat( ImageChops.difference( mininb,L\[i\]\[0\] ) ).mean\[0\] if rms&lt;min: f=i; min=rms; if min&lt;30: #this must be tuned for each case ... j=L\[f\]\[1\] L\[f\]\[1\]=j+1 else: j=0 f=len(L) L.append(\[mininb,1\]) if j&gt;jmax: jmax=j; box = (smallx\*j+border, smally\*f+border) res.paste(mini,box); x=x+smallx print '.', y=y+smally
+res=Image.new(im.mode,(smallx*int(nx),smally*n))
+L=[]; jmax=0;
+y=0;
+while y<im.size[1]:
+    x=0;
+    while x<im.size[0]:
+        box = (x+border, y+border, x+smallx-border, y+smally-border)
+        mini = im.crop(box)
+        mininb=ImageOps.equalize(mini.convert('L'))
+        min=1000;
+        for i in range(len(L)):
+            rms=ImageStat.Stat( ImageChops.difference( mininb,L[i][0] ) ).mean[0]
+            if rms<min:
+                f=i;
+                min=rms;
+        if min<30: #this must be tuned for each case ...
+            j=L[f][1]
+            L[f][1]=j+1
+        else:
+            j=0
+            f=len(L)
+            L.append([mininb,1])
+        if j>jmax:
+            jmax=j;
+        box = (smallx*j+border, smally*f+border)
+        res.paste(mini,box);
+        x=x+smallx
+    print '.',
+    y=y+smally
 
-res.crop((0,0,(jmax+1)\*smallx,len(L)\*smally)).save('result.jpg') print 'DONE!' print len(L),'different images over',n,'max',jmax+1,'copies'
-
-res.crop((0,0,(jmax+1)\*smallx,len(L)\*smally)).save('result.jpg') print len(L),'different images over',n,'max',jmax+1,'copies'\[/code\]
+res.crop((0,0,(jmax+1)*smallx,len(L)*smally)).save('result.jpg')
+print 'DONE!'
+print len(L),'different images over',n,'max',jmax+1,'copies'
+{{< /highlight >}}

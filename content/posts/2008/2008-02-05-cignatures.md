@@ -10,7 +10,10 @@ tags:
 
 Tombé par hasard sur [cette page](http://www.iwriteiam.nl/SigProgC.html) qui liste de minuscules programmes en C utilisés comme signatures d'e-mails par des programmeurs fous, ou de génie c'est la même chose. C est un langage de programmation tellement dense qu'il peut en devenir cryptique, ce qui fait qu'il est impossible de deviner ce que font ces programmes sans les lancer. Exemples:
 
-\[code lang="C"\]main(){char\*i="L0\[B0BCA7G0BFACIW0BfRAAB0BCACAFR0\[BCAFE0LCCAFR0",j,k=0;for(;\*i; \*++i==48&&puts(""))do for(j=\*i-48>>k&7;j--;)putchar(k+32);while(k^=3);}\[/code\]
+{{< highlight c >}}
+main(){char*i="L0[B0BCA7G0BFACIW0BfRAAB0BCACAFR0[BCAFE0LCCAFR0",j,k=0;for(;*i;
+ *++i==48&&puts(""))do for(j=*i-48>>k&7;j--;)putchar(k+32);while(k^=3);}
+{{< /highlight >}}
 
 fait :
 
@@ -27,7 +30,14 @@ fait :
 
 Celui-ci fait un jeu de pendu dont la solution est le nom de l'auteur !
 
-\[code lang="C"\]main(){char s\[\]=".bg\`z\`lE)gc\`}{hD-|\\/OI:retteL>nn",k;long w=32,r,\_,y ,i,b,g,p\[\]={63l<<16,37968,15,32,896,2048,24576,37449,2,12546,3074,19138 ,3586,585,0},t;b=g=r=0;while((b&lt;7)&&(g<65278)){for(\_=16;\_+10;)putchar(\_ -->0?\_&7?g>>\_&1?s\[\_\]^9:46:w:s\[\_+w\]);while((k=getchar())<65);for(\_=15,t= g;\_;)if((s\[\_--\]^9|w)==(k|w))g|=2<<\_;if(t==g)r|=p\[b++\];for(y=9,t=0;y--;) for(\_=9;\_;)putchar(--\_?(i=p\[y+6\]>>24-3\*\_&7)?r>>t++&1?s\[i+15\]:w:w:10);}}\[/code\]
+{{< highlight c >}}
+main(){char s[]=".bg`z`lE)gc`}{hD-|\/OI:retteL>nn",k;long w=32,r,_,y
+,i,b,g,p[]={63l<<16,37968,15,32,896,2048,24576,37449,2,12546,3074,19138
+,3586,585,0},t;b=g=r=0;while((b&lt;7)&&(g<65278)){for(_=16;_+10;)putchar(_
+-->0?_&7?g>>_&1?s[_]^9:46:w:s[_+w]);while((k=getchar())<65);for(_=15,t=
+g;_;)if((s[_--]^9|w)==(k|w))g|=2<<_;if(t==g)r|=p[b++];for(y=9,t=0;y--;)
+for(_=9;_;)putchar(--_?(i=p[y+6]>>24-3*_&7)?r>>t++&1?s[i+15]:w:w:10);}}
+{{< /highlight >}}
 
 \>Letter:g---- | : | O/ | I | | ------
 
@@ -35,7 +45,11 @@ Martijn .ei.in.
 
 celui-ci
 
-\[code lang="C"\]int a\[1817\];main(){int z=5,p=5,q=5,r=5; for(p=80;q+p-80;p-=2\*a\[p\])for(z=9;z--;)q=3&(r=time(0) +r\*57)/7,q=q?q-1?q-2?1-p%79?-1:0:p%79-77?1:0:p<1659?79:0:p>158?-79:0,q?!a\[p+q\*2 \]?a\[p+=a\[p+=q\]=q\]=q:0:0;for(;q++-1817;)printf(q%79?"%c":"%cn","#"\[!a\[q-1\]\]);}\[/code\]
+{{< highlight c >}}
+int a[1817];main(){int z=5,p=5,q=5,r=5; for(p=80;q+p-80;p-=2*a[p])for(z=9;z--;)q=3&(r=time(0)
++r*57)/7,q=q?q-1?q-2?1-p%79?-1:0:p%79-77?1:0:p<1659?79:0:p>158?-79:0,q?!a[p+q*2
+]?a[p+=a[p+=q]=q]=q:0:0;for(;q++-1817;)printf(q%79?"%c":"%cn","#"[!a[q-1]]);}
+{{< /highlight >}}
 
 fait un labyrinthe dans ce genre :
 
@@ -65,7 +79,12 @@ fait un labyrinthe dans ce genre :
 
 Une discipline particulière concerne l'ensemble de Mandelbrot :
 
-\[code lang="C"\]main(){char\*c=" \_.+=#n)rezneuM drahnreB(xx.xxx@xxx";int x,t,y;float a, b,d;for(y=0;y<25;y++){for(x=0;x<80;x++){t=b=d=0;do{a=b\*b-d\*d-2.1+.035\*x ;d=2\*b\*d+.088\*y-1.1;b=a;t++;}while(t<32&&b\*b+d\*d<4);putchar(c\[x>79?6:y> 23&&x<28?34-x:t>31?0:t>>4?5:t>>3?4:t>>2?3:t>>;1?2:1\]);}}} /\*xxx@xxx.xx\*/\[/code\]
+{{< highlight c >}}
+main(){char*c=" _.+=#n)rezneuM drahnreB(xx.xxx@xxx";int x,t,y;float a,
+b,d;for(y=0;y<25;y++){for(x=0;x<80;x++){t=b=d=0;do{a=b*b-d*d-2.1+.035*x
+;d=2*b*d+.088*y-1.1;b=a;t++;}while(t<32&&b*b+d*d<4);putchar(c[x>79?6:y>
+23&&x<28?34-x:t>31?0:t>>4?5:t>>3?4:t>>2?3:t>>;1?2:1]);}}} /*xxx@xxx.xx*/
+{{< /highlight >}}
 
 donne :
 
@@ -99,11 +118,17 @@ xxx@xxx.xx(Bernhard Muenzer)..............+++++++++++++=#====+++++++............
 
 on peut même faire plus court :
 
-\[code lang="C"\]main(){int c;float t,x,y,b=-2,a=b;for(;b-=a>2?.1/(a=-2):0,b<2;putchar(30+ c),a+=.0503)for(x=y=c=0;++c<90&x\*x+y\*y<4;y=2\*x\*y+b,x=t)t=x\*x-y\*y+a;} \[/code\]
+{{< highlight c >}}
+main(){int c;float t,x,y,b=-2,a=b;for(;b-=a>2?.1/(a=-2):0,b<2;putchar(30+
+c),a+=.0503)for(x=y=c=0;++c<90&x*x+y*y<4;y=2*x*y+b,x=t)t=x*x-y*y+a;}
+{{< /highlight >}}
 
 Il y en a encore plein d'autres, mais mon préféré reste cet extraordinaire programme :
 
-\[code lang="C"\]int a\[52514\],b,c=52514,d,e,f=1e4,g,h;main() {for(;b=c-=14;h=printf("%04d",e+d/f)) for(e=d%=f;g=--b\*2;d/=g)d=d\*b+f\*(h?a\[b\]:f/5),a\[b\]=d%--g;}\[/code\]
+{{< highlight c >}}
+int a[52514],b,c=52514,d,e,f=1e4,g,h;main() {for(;b=c-=14;h=printf("%04d",e+d/f))
+for(e=d%=f;g=--b*2;d/=g)d=d*b+f*(h?a[b]:f/5),a[b]=d%--g;}
+{{< /highlight >}}
 
 Que fait-il ? Je vous défie de le deviner. [La langue au chat est ici !](/2004/06/28/pi-en-c/)
 

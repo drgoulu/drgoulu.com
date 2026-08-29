@@ -61,7 +61,9 @@ Tout ça ne me demande en définitive pas plus d'efforts que de tourner les page
 
 [NetworkX](http://networkx.github.io/) est une librairie Python permettant de représenter et traiter des problèmes de graphes. Je l'utilise professionnellement assez intensivement ces temps-ci pour un [problème de postiers chinois](/2013/11/22/le-postier-chinois-de-konigsberg/), mais l'autre jour il m'a permis de résoudre le [problème 107](https://projecteuler.net/problem=107) du [Project Euler](/2009/02/23/project_euler/) en quelques lignes seulement. En fait la plupart servent à lire le fichier des données, puis la partie intéressante tient en une seule ligne :
 
-\[source lang="Python"\]print G.size(weight='weight') - minimum\_spanning\_tree(G, weight='weight').size(weight='weight')\[/source\]
+{{< highlight python >}}
+print G.size(weight='weight') - minimum_spanning_tree(G, weight='weight').size(weight='weight')
+{{< /highlight >}}
 
 Fort non ? Hélas il me semble que peu de problèmes du Project Euler concernent les graphes, donc je ne vais pas pouvoir améliorer mon score rapidement ...
 

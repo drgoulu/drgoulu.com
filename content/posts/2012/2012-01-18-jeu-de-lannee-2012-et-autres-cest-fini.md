@@ -39,58 +39,193 @@ Enfin, les formules ne sont pas très jolies d'une part à cause d'une "surparen
 
 Comme il se fait tard je coupe/colle le programme ci-dessous, je le commenterai plus tard (comme d'hab...)
 
-\[code lang="python" collapse="true"\] # -\*- coding: utf-8 -\*- """ Created on Mon Jan 16 17:19:27 2012
+{{< highlight python >}}
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jan 16 17:19:27 2012
 
-@author: Philippe Guglielmetti solves http://eljjdx.canalblog.com/archives/2012/01/15/23243094.html """
+@author: Philippe Guglielmetti
+solves
+http://eljjdx.canalblog.com/archives/2012/01/15/23243094.html
+"""
 
 import sys
 
-from math import sqrt,pow from scipy import factorial,factorial2,factorialk from itertools import permutations
+from math import sqrt,pow
+from scipy import factorial,factorial2,factorialk
+from itertools import permutations
 
-class f: """a formula""" def \_\_init\_\_(self, m,p=0,v=None,parenthesis=False): #print m,'=', self.isdigit=isinstance(m, (int, long)) self.math=str(m) #convert to string in case it's a digit self.points=p if v is None: v=eval(self.math) self.isint=isinstance(v, (int,long)) if isinstance(v, float): #try to convert to int self.isint=abs(v-round(v))<1e-9 if self.isint: v=int(round(v)) if isinstance(v, long): #we don't want bignums, for performance if abs(v)<sys.float\_info.max: v=float(v) self.isint=True self.value=v
+class f:
+    """a formula"""
+    def __init__(self, m,p=0,v=None,parenthesis=False):
+        #print m,'=',
+        self.isdigit=isinstance(m, (int, long))
+        self.math=str(m) #convert to string in case it's a digit
+        self.points=p
+        if v is None:
+            v=eval(self.math)
+        self.isint=isinstance(v, (int,long))
+        if isinstance(v, float): #try to convert to int
+            self.isint=abs(v-round(v))<1e-9
+            if self.isint:
+                v=int(round(v))
+        if isinstance(v, long): #we don't want bignums, for performance
+            if abs(v)<sys.float_info.max:
+                v=float(v)
+            self.isint=True
+        self.value=v
 
-if parenthesis: self.math='('+self.math+')' #print self.value
+        if parenthesis:
+            self.math='('+self.math+')'
+        #print self.value
 
-def \_\_cmp\_\_(self,other): if self.value<other.value:return -1 if self.value>other.value:return +1 if self.points<other.points:return -1 if self.points>other.points:return +1 if len(self.math)<len(other.math):return -1 if len(self.math)>len(other.math):return +1 return 0
+    def __cmp__(self,other):
+        if self.value<other.value:return -1
+        if self.value>other.value:return +1
+        if self.points<other.points:return -1
+        if self.points>other.points:return +1
+        if len(self.math)<len(other.math):return -1
+        if len(self.math)>len(other.math):return +1
+        return 0
 
-def \_\_repr\_\_(self): return str(\[self.value,self.math,self.points\]);
+    def __repr__(self):
+        return str([self.value,self.math,self.points]);
 
-class results(dict): """dictionary of formulas indexed by their result. we keep only the simplest entry for each result"""
+class results(dict):
+    """dictionary of formulas indexed by their result. we keep only the simplest entry for each result"""
 
-def \_\_init\_\_(self): dict.\_\_init\_\_(self)
+    def __init__(self):
+        dict.__init__(self)
 
-def add(self, f): if f.value in self.keys() and f>self\[f.value\] : pass else: self\[f.value\]=f
+    def add(self, f):
+        if f.value in self.keys() and f>self[f.value] :
+            pass
+        else:
+            self[f.value]=f
 
-def merge(self,d): for i in d.itervalues(): self.add(i)
+    def merge(self,d):
+        for i in d.itervalues():
+            self.add(i)
 
-def score(self): return sum(map(lambda x: x.points,self.itervalues()))
+    def score(self):
+        return sum(map(lambda x: x.points,self.itervalues()))
 
-def notfound(self,p=500): return \[i for (i,v) in self.iteritems() if v.points>=p\]
+    def notfound(self,p=500):
+        return [i for (i,v) in self.iteritems() if v.points>=p]
 
-def refine(self,recurse=2): """add combinations of monadic operators""" r=results() for a in self.itervalues(): if recurse==0 and a.value<>0: r.add(f('-'+a.math,a.points,-a.value,True)) if a.isint: if a.value==0: r.add(f(a.math+'!',a.points,1)) # 0! == 1 is very useful... if a.value>1: s=f('sqrt('+a.math+")",a.points,sqrt(a.value)) if s.isint: r.add(s) if a.value>1 and a.value<19: r.add(f(a.math+'!',a.points,factorial(int(a.value),True),True)) r.add(f('Gamma('+a.math+')',a.points+30,factorial(int(a.value)-1,True),True)) if a.value>3 and a.value<29: r.add(f(a.math+'!!',a.points+5,factorial2(int(a.value),True),True)) if a.value>4 and a.value<39: r.add(f(a.math+'!!!',a.points+5,factorialk(int(a.value),3,True),True)) self.merge(r) if recurse>0: self.refine(recurse-1)
+    def refine(self,recurse=2):
+        """add combinations of monadic operators"""
+        r=results()
+        for a in self.itervalues():
+            if recurse==0 and a.value<>0:
+                r.add(f('-'+a.math,a.points,-a.value,True))
+            if a.isint:
+                if a.value==0:
+                    r.add(f(a.math+'!',a.points,1)) # 0! == 1 is very useful...
+                if a.value>1:
+                    s=f('sqrt('+a.math+")",a.points,sqrt(a.value))
+                    if s.isint:
+                        r.add(s)
+                if a.value>1 and a.value<19:
+                    r.add(f(a.math+'!',a.points,factorial(int(a.value),True),True))
+                    r.add(f('Gamma('+a.math+')',a.points+30,factorial(int(a.value)-1,True),True))
+                if a.value>3 and a.value<29:
+                    r.add(f(a.math+'!!',a.points+5,factorial2(int(a.value),True),True))
+                if a.value>4 and a.value<39:
+                    r.add(f(a.math+'!!!',a.points+5,factorialk(int(a.value),3,True),True))
+        self.merge(r)
+        if recurse>0: self.refine(recurse-1)
 
-class monadic(results): """combinations of monadic operators around a formula"""
+class monadic(results):
+    """combinations of monadic operators around a formula"""
 
-def \_\_init\_\_(self, a): results.\_\_init\_\_(self) self.add(a) if a.value!=0: if a.isdigit: self.add(f('.'+a.math,a.points+1)) if a.value<10: self.add(f('\[.'+a.math+'\]',a.points+30,a.value/9.)) self.refine();
+    def __init__(self, a):
+        results.__init__(self)
+        self.add(a)
+        if a.value!=0:
+            if a.isdigit:
+                self.add(f('.'+a.math,a.points+1))
+            if a.value<10:
+                self.add(f('[.'+a.math+']',a.points+30,a.value/9.))
+        self.refine();
 
-class diadic(results): """combinations of diadic operators of 2 operands"""
+class diadic(results):
+    """combinations of diadic operators of 2 operands"""
 
-def \_\_init\_\_(self, a,b): results.\_\_init\_\_(self) for i in a.itervalues(): for j in b.itervalues(): if i.isdigit and j.isdigit: if i.value!=0: self.add(f(int(i.math+j.math),10)) self.add(f(i.math+'.'+j.math,11)) self.add(f(i.math+'+'+j.math,i.points+j.points,i.value+j.value,True)) self.add(f(i.math+'-'+j.math,i.points+j.points,i.value-j.value,True)) self.add(f(i.math+'\*'+j.math,i.points+j.points,i.value\*j.value,True)) if j.value!=0: self.add(f(i.math+'/'+j.math,i.points+j.points,float(i.value)/float(j.value),True)) try: #so many things can go wrong with next line... self.add(f(i.math+'^'+j.math,i.points+j.points,pow(i.value,j.value),True)) except: pass if i.isint: try: #so many things can go wrong with next line... self.add(f('root('+i.math+','+j.math+')',i.points+j.points+5,pow(j.value,1./i.value),True)) except: pass if i.isint and j.isint and i.value>=0 and j.value>0 and i.value/j.value<10: try: #so many things can go wrong with next line... self.add(f(i.math+'!'+j.math,i.points+j.points+5,factorialk(i.value,j.value),True)) except: pass
+    def __init__(self, a,b):
+        results.__init__(self)
+        for i in a.itervalues():
+            for j in b.itervalues():
+                if i.isdigit and j.isdigit:
+                    if i.value!=0: self.add(f(int(i.math+j.math),10))
+                    self.add(f(i.math+'.'+j.math,11))
+                self.add(f(i.math+'+'+j.math,i.points+j.points,i.value+j.value,True))
+                self.add(f(i.math+'-'+j.math,i.points+j.points,i.value-j.value,True))
+                self.add(f(i.math+'*'+j.math,i.points+j.points,i.value*j.value,True))
+                if j.value!=0:
+                    self.add(f(i.math+'/'+j.math,i.points+j.points,float(i.value)/float(j.value),True))
+                try: #so many things can go wrong with next line...
+                    self.add(f(i.math+'^'+j.math,i.points+j.points,pow(i.value,j.value),True))
+                except:
+                    pass
+                if i.isint:
+                    try: #so many things can go wrong with next line...
+                        self.add(f('root('+i.math+','+j.math+')',i.points+j.points+5,pow(j.value,1./i.value),True))
+                    except:
+                        pass
+                if i.isint and j.isint and i.value>=0 and j.value>0 and i.value/j.value<10:
+                    try: #so many things can go wrong with next line...
+                        self.add(f(i.math+'!'+j.math,i.points+j.points+5,factorialk(i.value,j.value),True))
+                    except:
+                        pass
 
-self.refine();
+        self.refine();
 
-print 'building list of monadics' m=map(monadic,map(f,range(0,10))) #list of all monadics of digits
+print 'building list of monadics'
+m=map(monadic,map(f,range(0,10))) #list of all monadics of digits
 
-#use @Memoized here to improve performance def d(a,b): return diadic(a,b)
+#use @Memoized here to improve performance
+def d(a,b): return diadic(a,b)
 
-def year(n,display=True,verbose=True): solution=results() for i in range(1,101): solution.add(f(i,500))
+def year(n,display=True,verbose=True):
+    solution=results()
+    for i in range(1,101):
+        solution.add(f(i,500))
 
-def addresults(a,p): if verbose : print 'formulas',len(a), improved=0 found=0 for (i,v) in a.items(): if isinstance(i, (int, long)) and i>0 and i<101: v.points+=p if v<solution\[i\]: if solution\[i\].points==500: found+=1 else: improved+=1 solution\[i\]=v if verbose: print('found :'+str(found)+' improved :'+str(improved)+' score:'+str(solution.score()))
+    def addresults(a,p):
+        if verbose :
+            print 'formulas',len(a),
+        improved=0
+        found=0
+        for (i,v) in a.items():
+            if isinstance(i, (int, long)) and i>0 and i<101:
+                v.points+=p
+                if v<solution[i]:
+                    if solution[i].points==500:
+                        found+=1
+                    else:
+                        improved+=1
+                    solution[i]=v
+        if verbose:
+            print('found :'+str(found)+' improved :'+str(improved)+' score:'+str(solution.score()))
 
-def combine (a,p): m0=m\[a\[0\]\]; m1=m\[a\[1\]\]; m2=m\[a\[2\]\]; m3=m\[a\[3\]\] if solution.notfound():addresults(d(d(d(m0,m1),m2),m3),p) if solution.notfound():addresults(d(d(m0,d(m1,m2)),m3),p) if solution.notfound():addresults(d(m0,d(m1,d(m2,m3))),p) if solution.notfound():addresults(d(m0,d(d(m1,m2),m3)),p) if solution.notfound():addresults(d(d(m0,m1),d(m2,m3)),p)
+    def combine (a,p):
+        m0=m[a[0]]; m1=m[a[1]]; m2=m[a[2]]; m3=m[a[3]]
+        if solution.notfound():addresults(d(d(d(m0,m1),m2),m3),p)
+        if solution.notfound():addresults(d(d(m0,d(m1,m2)),m3),p)
+        if solution.notfound():addresults(d(m0,d(m1,d(m2,m3))),p)
+        if solution.notfound():addresults(d(m0,d(d(m1,m2),m3)),p)
+        if solution.notfound():addresults(d(d(m0,m1),d(m2,m3)),p)
 
-y=\[int(i) for i in str(n)\] combine(y,0) y.sort() for i in permutations(y): combine(i,50)
+    y=[int(i) for i in str(n)]
+    combine(y,0)
+    y.sort()
+    for i in permutations(y):
+        combine(i,50)
 
-if display: for i in solution.itervalues():print i print n,solution.score(),solution.notfound()
+    if display:
+        for i in solution.itervalues():print i
+    print n,solution.score(),solution.notfound()
 
-year(2012) \[/code\]
+year(2012)
+{{< /highlight >}}

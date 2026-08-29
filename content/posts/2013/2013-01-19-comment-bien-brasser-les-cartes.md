@@ -32,7 +32,11 @@ Signifierait-ce qu'il faut plus de N opérations pour obtenir un "bon" brassage 
 
 C'est tellement beau que j'exhibe même ici le petit bout de code Javascript qui fait ça:
 
-\[source language="javascript"\] function shuffle(array) { array.sort(function() {return Math.random() - .5}); }\[/source\]
+{{< highlight javascript >}}
+function shuffle(array) {
+array.sort(function() {return Math.random() - .5});
+}
+{{< /highlight >}}
 
 {{< figure src="images/4515a7fe42f5229307c0f50570d991ca.jpg" alt="biais sort (random comparator)" caption="biais sort (random comparator)" link="http://bost.ocks.org/mike/shuffle/compare.html" width="240" >}}
 
@@ -42,7 +46,17 @@ Cette méthode produit la matrice de biais ci-contre, dont la non-trivialité me
 
 Par contre, la variante dans laquelle on commence par générer un vecteur de nombres aléatoires, puis on "dé-trie" les données en utilisant ces nombres aléatoires pour les comparaisons donne un résultat non biaisé. (voir "sort (random order)" dans [[2]](#ref-2))
 
-Et une fois qu'on est tout content d'avoir trouvé un algorithme de brassage non biaisé de complexité N.log(N), on découvre celui de [Fisher-Yates](w:Permutation_aléatoire#Algorithme_de_Fisher-Yates) datant de 1938, non biaisé, assez simple : \[source language="javascript"\] function shuffle(array) { var j = array.length, t, i; while (j) { i = Math.floor(Math.random() \* j--); t = array\[j\]; array\[j\] = array\[i\]; array\[i\] = t; } }\[/source\] Les 3 dernières lignes échangent les cartes en i-ième et en j-ième position tout comme dans notre premier algorithme naïf, mais ici on ne choisit la carte à échanger que parmi celles qui n'ont pas encore été traitées. Et pour des raisons de simplicité du code, on mélange le tableau "depuis la fin".
+Et une fois qu'on est tout content d'avoir trouvé un algorithme de brassage non biaisé de complexité N.log(N), on découvre celui de [Fisher-Yates](w:Permutation_aléatoire#Algorithme_de_Fisher-Yates) datant de 1938, non biaisé, assez simple : {{< highlight javascript >}}
+function shuffle(array) {
+var j = array.length, t, i;
+while (j) {
+i = Math.floor(Math.random() * j--);
+t = array[j];
+array[j] = array[i];
+array[i] = t;
+}
+}
+{{< /highlight >}} Les 3 dernières lignes échangent les cartes en i-ième et en j-ième position tout comme dans notre premier algorithme naïf, mais ici on ne choisit la carte à échanger que parmi celles qui n'ont pas encore été traitées. Et pour des raisons de simplicité du code, on mélange le tableau "depuis la fin".
 
 Et le plus beau est que sa [complexité algorithmique](w:) est proportionnelle à N, ce qui est in exemple de plus de l’universalité du principe de Murphy de la thermodynamique de la tartine beurrée qui dit qu'il est toujours plus facile de générer du désordre que de l'ordre.
 

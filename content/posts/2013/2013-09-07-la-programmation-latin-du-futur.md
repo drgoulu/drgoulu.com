@@ -62,11 +62,30 @@ Donc oui, il faut enseigner la programmation aux lycéens, même si "ça ne sert
 
 Parce que combiner les deux peut donner des idées trop bizarres. Damian Conway par exemple en a été perturbé au point d'écrire un module [Perl](w:Perl_(langage)) définissant des alias latins pour tous les éléments du langage [[8]](#ref-8), ce qui permet de rendre ce code :
 
-\[code lang="perl"\] use Lingua::Romana::Perligata; maximum inquementum tum biguttam egresso scribe. meo maximo vestibulo perlegamentum da. da duo tum maximum conscribementa meis listis. dum listis decapitamentum damentum nexto fac sic nextum tum novumversum scribe egresso. lista sic hoc recidementum nextum cis vannementa da listis. cis.\[/code\]
+{{< highlight perl >}}
+use Lingua::Romana::Perligata;
+maximum inquementum tum biguttam egresso scribe.
+meo maximo vestibulo perlegamentum da.
+da duo tum maximum conscribementa meis listis.
+dum listis decapitamentum damentum nexto
+    fac sic
+        nextum tum novumversum scribe egresso.
+        lista sic hoc recidementum nextum cis vannementa da listis.
+cis.
+{{< /highlight >}}
 
 parfaitement valide et absolument équivalent à celui-ci:
 
-\[code lang="perl"\] print STDOUT 'maximum:'; my $maxim = ; my (@list) = (2..$maxim); while ($next = shift @list) { print STDOUT $next, "\\n"; @list = grep {$_ % $next} @list; }\[/code\]
+{{< highlight perl >}}
+print STDOUT 'maximum:';
+my $maxim = ;
+my (@list) = (2..$maxim);
+while ($next = shift @list)
+  {
+    print STDOUT $next, "\n";
+    @list = grep {$_ % $next} @list;
+  }
+{{< /highlight >}}
 
 Et si après [Astérix](http://www.asterix.com/la-collection/les-traductions/asterix-en-latin.html),  la programmation permettait de moderniser l'enseignement du latin ?
 

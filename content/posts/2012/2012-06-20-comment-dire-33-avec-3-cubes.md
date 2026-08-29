@@ -19,9 +19,38 @@ Le gars qui m'a pourri ma dernière soirée du printemps s'appelle Mike Crouche
 
 Comme j'ai bien vu que la solution pour 91 impliquait de grands entiers, je me suis dit que 33 demanderait probablement des nombres encore plus grands, mais j'ai quand même vite pondu le programme Python suivant pour voir:
 
-\[sourcecode lang="Python"\] res={} #dictionary of results def store(n,x,y,z): if n>=0 and n<100 and n not in res: res\[n\]=(x,y,z) print n,res\[n\]
+{{< highlight python >}}
+res={} #dictionary of results
+def store(n,x,y,z):
+    if n>=0 and n<100 and n not in res:
+        res[n]=(x,y,z)
+        print n,res[n]
 
-cube=\[\] x=0 while True: x3=x\*x\*x cube.append(x3) for y in range(x+1): y3=cube\[y\] for z in range(x+1): z3=cube\[z\] store(x3+y3+z3,x,y,z) store(x3-y3+z3,x,-y,z) store(x3+y3-z3,x,y,-z) store(x3-y3-z3,x,-y,-z) store(-x3+y3+z3,-x,y,z) store(-x3-y3+z3,-x,-y,z) store(-x3+y3-z3,-x,y,-z) # store(-x3-y3-z3,-x,-y,-z) #you're right Neamar, it's useless x+=1 if x==50: #show "small" results for n in range(100): if n in res: print n,res\[n\] else: print n,'?' \[/sourcecode\]
+cube=[]
+x=0
+while True:
+    x3=x*x*x
+    cube.append(x3)
+    for y in range(x+1):
+        y3=cube[y]
+        for z in range(x+1):
+            z3=cube[z]
+            store(x3+y3+z3,x,y,z)
+            store(x3-y3+z3,x,-y,z)
+            store(x3+y3-z3,x,y,-z)
+            store(x3-y3-z3,x,-y,-z)
+            store(-x3+y3+z3,-x,y,z)
+            store(-x3-y3+z3,-x,-y,z)
+            store(-x3+y3-z3,-x,y,-z)
+            # store(-x3-y3-z3,-x,-y,-z) #you're right Neamar, it's useless
+    x+=1
+    if x==50: #show "small" results
+        for n in range(100):
+            if n in res:
+                print n,res[n]
+            else:
+                print n,'?'
+{{< /highlight >}}
 
 En moins d'une seconde il trouve les 69 des 100 premiers entiers qui sont des sommes de cubes d'entiers inférieurs à 100. Le plus "compliqué" est 78=-55³+53³+26³ .
 
