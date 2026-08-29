@@ -23,7 +23,7 @@ coverImage: "Statistiques.gif"
 
 Le piège est qu'on a tendance à ajouter 25% au prix plutôt que de le multiplier par 1.25, donc à penser qu'il faut ensuite soustraire 25% alors qu'il faut le diviser par 1.25, soit multiplier par 0.8, donc réduire de 20%.
 
-J.-P. Delahaye montre ensuite que certaines statistiques pouvant être interprétées dans des sens contradictoires résultent du "[paradoxe de Simpson](https://fr.wikipedia.org/wiki/paradoxe_de_Simpson)" ou "effet de Yule-Simpson", comme dans cet exemple:
+J.-P. Delahaye montre ensuite que certaines statistiques pouvant être interprétées dans des sens contradictoires résultent du "[paradoxe de Simpson](w:)" ou "effet de Yule-Simpson", comme dans cet exemple:
 
 Après une restructuration d'entreprise, le syndicat reproche une diminution des salaires de 10%, mais le patron rétorque que le salaire moyen a augmenté de 24%. Et les deux ont raison:
 
@@ -32,6 +32,6 @@ Après une restructuration d'entreprise, le syndicat reproche une diminution des
 
 D'autres exemples concernant notamment les sondages montrent qu'ils faut faire très attention en combinant des statistiques provenant d'effectifs différents, ou en choisissant les populations mesurées.
 
-Le passage qui m'a le plus intéressé concerne l'[espérance de vie](https://fr.wikipedia.org/wiki/espérance_de_vie).  Comment calcule-t-on les [80.51 ans d'espérance de vie à la naissance des hommes en Suisse en 2006](http://www.indexmundi.com/fr/suisse/esperance_de_vie_a_la_naissance.html) ? Jusqu'ici, je pensais qu'on faisait la moyenne des âges des décès en 2006 et qu'on obtenait donc une mesure "retardée" d'environ 80 ans, corrigée en tenant compte de la tendance : le Suisse gagnant 1 an d'espérance de vie tous les 8 ans, on aurait pu ajouter environ 10 ans à l'âge moyen des gens décédés en 2006 pour obtenir l'espérance de vie à la naissance en 2006.
+Le passage qui m'a le plus intéressé concerne l'[espérance de vie](w:).  Comment calcule-t-on les [80.51 ans d'espérance de vie à la naissance des hommes en Suisse en 2006](http://www.indexmundi.com/fr/suisse/esperance_de_vie_a_la_naissance.html) ? Jusqu'ici, je pensais qu'on faisait la moyenne des âges des décès en 2006 et qu'on obtenait donc une mesure "retardée" d'environ 80 ans, corrigée en tenant compte de la tendance : le Suisse gagnant 1 an d'espérance de vie tous les 8 ans, on aurait pu ajouter environ 10 ans à l'âge moyen des gens décédés en 2006 pour obtenir l'espérance de vie à la naissance en 2006.
 
 En fait, c'est calculé plus subtilement : on considère une population fictive née en 2006, qui aurait chaque année de leur vie future une probabilité de mourir correspondant à celle constatée en 2006 pour cette tranche d'âge. Autrement dit, on extrapole dans le futur la distribution actuelle des décès en fonction de l'âge. Ainsi, la mortalité infantile qui ne va que peu varier l'an prochain sera parfaitement prise en compte, alors que le destin des quelques personnes extrêmement âgées n'influence effectivement l'espérance de vie qu'avec plus d'un siècle de retard.

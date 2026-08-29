@@ -19,7 +19,7 @@ coverImage: "f27bb316dce873819e14d3686b47616e.jpg"
 
 ### 1 Hubble a pris la photo la moins lumineuse\*
 
-En 2003, l'astronome Tom Brown [a pointé Hubble](http://hubblesite.org/newscenter/archive/releases/2003/15/text/) vers le bord de la Galaxie d'Andromède et a pris une photo avec un temps d'exposition de trois jours et demi. Il a ainsi détecté  les étoiles les moins lumineuses d'Andromède (de [magnitude apparente](http://fr.wikipedia.org/wiki/Magnitude_apparente) 31, 10 milliards de fois moins lumineuses que celles qu'ont distingue à l'oeil nu) mais aussi obtenu l'image optique la plus "profonde" de l'univers, que vous pouvez [downloader ici](http://hubblesite.org/newscenter/archive/releases/2003/15/image/a/warn/).
+En 2003, l'astronome Tom Brown [a pointé Hubble](http://hubblesite.org/newscenter/archive/releases/2003/15/text/) vers le bord de la Galaxie d'Andromède et a pris une photo avec un temps d'exposition de trois jours et demi. Il a ainsi détecté  les étoiles les moins lumineuses d'Andromède (de [magnitude apparente](w:) 31, 10 milliards de fois moins lumineuses que celles qu'ont distingue à l'oeil nu) mais aussi obtenu l'image optique la plus "profonde" de l'univers, que vous pouvez [downloader ici](http://hubblesite.org/newscenter/archive/releases/2003/15/image/a/warn/).
 
 ### 2 la Lune n'est pas trop claire pour Hubble.
 
@@ -43,13 +43,13 @@ Mais Glenn Schneider a exploité de manière originale un système qui utilise l
 
 ### 5 Hubble ne peut pas voir les restes d' Apollo sur la Lune
 
-Pourquoi Hubble n'a-t-il pas fait taire les adeptes de la [conspiration Apollo](http://fr.wikipedia.org/wiki/Accusation_de_canular_relative_au_programme_Apollo) en prenant des images des sites d'alunissages ? Une raison est que les astronomes ont autre chose à faire que de tenter de faire taire des illuminés qui prétendront de toutes façons que les images sont aussi truquées.
+Pourquoi Hubble n'a-t-il pas fait taire les adeptes de la [conspiration Apollo](w:Accusation_de_canular_relative_au_programme_Apollo) en prenant des images des sites d'alunissages ? Une raison est que les astronomes ont autre chose à faire que de tenter de faire taire des illuminés qui prétendront de toutes façons que les images sont aussi truquées.
 
 Mais aussi, Hubble ne peut pas voir ces objets ! Ils sont beaucoup trop petits. Ca surprend beaucoup de monde car nous sommes désormais habitués à voir des images ultra nettes de nébuleuses et de galaxies. Mais si ces objets sont très lointains, ils sont aussi très très grands : des années-lumière, ou parfois des milliers d'années lumière de diamètre.
 
-Or les restes du [LEM](http://fr.wikipedia.org/wiki/Module_lunaire) ne font que 4 mètres... Mais la Lune est beaucoup plus proche, n'est-ce pas ? Oui, mais [pas assez](http://blogs.discovermagazine.com/badastronomy/2008/08/12/moon-hoax-why-not-use-telescopes-to-look-at-the-landers/).
+Or les restes du [LEM](w:Module_lunaire) ne font que 4 mètres... Mais la Lune est beaucoup plus proche, n'est-ce pas ? Oui, mais [pas assez](http://blogs.discovermagazine.com/badastronomy/2008/08/12/moon-hoax-why-not-use-telescopes-to-look-at-the-landers/).
 
-La [résolution](http://fr.wikipedia.org/wiki/Pouvoir_de_r%C3%A9solution) de Hubble est de 0.1 [seconde d'arc](http://fr.wikipedia.org/wiki/Seconde_d%27arc), ce qui correspond à 200 mètres sur la Lune. C'est surprenant, mais il faudrait un télescope 50x plus puissant que Hubble pour voir le LEM sur un seul pixel...
+La [résolution](w:Pouvoir_de_résolution) de Hubble est de 0.1 [seconde d'arc](w:), ce qui correspond à 200 mètres sur la Lune. C'est surprenant, mais il faudrait un télescope 50x plus puissant que Hubble pour voir le LEM sur un seul pixel...
 
 ### 6 Hubble a observé toutes les planètes sauf Mercure.
 
@@ -63,13 +63,13 @@ Mercure se situe au maximum à 28° du Soleil, trop près pour que Hubble puisse
 
 19 ans après le lancement de Hubble, il n'est pas rare d'entendre parler de la "lentille de Hubble", même dans un show produit par _le  Space Telescope Science Institute_, l'agence qui exploite Hubble!
 
-Il faut dire qu'en anglais on utilise le terme "telescope" également pour une [lunette astronomique](http://fr.wikipedia.org/wiki/Lunette_astronomique) à lentilles (un "[refracting telescope](http://en.wikipedia.org/wiki/Refracting_telescope)" si on voulait être précis)
+Il faut dire qu'en anglais on utilise le terme "telescope" également pour une [lunette astronomique](w:) à lentilles (un "[refracting telescope](w:en)" si on voulait être précis)
 
-Hubble est un "[reflecting telescope](http://en.wikipedia.org/wiki/Reflecting_telescope)"  doté d'un miroir de 2.4 mètres, le plus grand jamais hissé en orbite :
+Hubble est un "[reflecting telescope](w:en)"  doté d'un miroir de 2.4 mètres, le plus grand jamais hissé en orbite :
 
 [![](images/59e26ef784a9143e893f22b5e9dbd348.jpg)](http://hubblesite.org/gallery/spacecraft/22/)
 
-En fait même les caméras utilisent des miroirs plutôt que des lentilles, qui absorberaient un peu de lumière mais surtout causeraient de l'[aberration chromatique](http://fr.wikipedia.org/wiki/Aberration_chromatique).
+En fait même les caméras utilisent des miroirs plutôt que des lentilles, qui absorberaient un peu de lumière mais surtout causeraient de l'[aberration chromatique](w:).
 
 Cependant, il y a quelques lentilles à bord : celles des [Fine Guidance Sensors](http://www.stsci.edu/hst/fgs/documents/instrumenthandbook/c02_instdesign2.html#5884), petits télescopes qui suivent des étoiles "repères" avec une incroyable précision pour maintenir Hubble pointé dans la bonne direction.
 

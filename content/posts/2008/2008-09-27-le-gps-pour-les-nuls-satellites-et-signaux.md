@@ -63,7 +63,7 @@ Génial, non ?
 
 ### Références:
 
-1. <span id="ref-1"></span>[Global Positioning System](http://fr.wikipedia.org/wiki/Global_Positioning_System) sur la Wikipedia
+1. <span id="ref-1"></span>[Global Positioning System](w:Global_Positioning_System) sur la Wikipedia
 2. <span id="ref-2"></span>le [GPS](http://www.meynet.ch/doc_GPS/gps.html), une page très complète sur le sujet
 3. <span id="ref-3"></span>le [GPS du Mathématicien](http://web.me.com/rouxjeanbernard/Site/AM/html/amch53.html), avec formules et code Matlab
 4. <span id="ref-4"></span>["dBm" sur Answers.com](http://www.answers.com/topic/dbm)

@@ -16,16 +16,16 @@ Prenez une caméra haute vitesse très chère, mettez-la en marche et laissez-la
 
 {{< youtube id="vD4PbSbxA3w" width="640" >}}
 
-Etonnant, non ? Avec un liquide, c'est la tension superficielle qui tend à former des gouttes, mais quelle force rapproche les grains pour former des "gouttes de sable" ? Selon [l'équipe de l'Université de Chicago](http://jfi.uchicago.edu/~jaeger/group/Granular%20Streams.html) qui a réalisé l'expérience \[1\], c'est la [force de van der Waals](http://fr.wikipedia.org/wiki/Force_de_van_der_Waals) qui rapproche les grains, puis des ponts de [capillarité](http://fr.wikipedia.org/wiki/Capillarit%C3%A9) nanoscopiques s'établissent entre les aspérités des grains, ce qui les maintient liés.
+Etonnant, non ? Avec un liquide, c'est la tension superficielle qui tend à former des gouttes, mais quelle force rapproche les grains pour former des "gouttes de sable" ? Selon [l'équipe de l'Université de Chicago](http://jfi.uchicago.edu/~jaeger/group/Granular%20Streams.html) qui a réalisé l'expérience \[1\], c'est la [force de van der Waals](w:) qui rapproche les grains, puis des ponts de [capillarité](w:) nanoscopiques s'établissent entre les aspérités des grains, ce qui les maintient liés.
 
 En fin de compte, le sable se comporte comme un liquide dont la tension superficielle serait 100'000 fois plus faible que celle de l'eau. La preuve en images:
 
 {{< youtube id="IsptPKzA3zQ" width="640" >}}
 
-Les matériaux granulaires combinent certaines propriétés des solides et des liquides, voire des gaz, au point que certains suggèrent de les considérer comme [état de la matière](http://fr.wikipedia.org/wiki/Phase_%28mati%C3%A8re%29). Ce domaine de recherche touche de nombreux sujets passionnants comme:
+Les matériaux granulaires combinent certaines propriétés des solides et des liquides, voire des gaz, au point que certains suggèrent de les considérer comme [état de la matière](w:Phase_(matière)). Ce domaine de recherche touche de nombreux sujets passionnants comme:
 
 - ceux étudiés par [l'équipe de l'Université de Chicago](http://jfi.uchicago.edu/~jaeger/group/Granular%20Streams.html)
-- les [dunes chantantes](http://fr.wikipedia.org/wiki/Chant_des_dunes), un phénomène vraiment étonnant
+- les [dunes chantantes](w:Chant_des_dunes), un phénomène vraiment étonnant
 - la simulation de fluides avec des [méthodes similaires](/2008/08/22/naissance-des-etoiles-et-mecanique-des-fluides/) aux [n-corps](/2008/11/16/le-probleme-a-n-corps/)
 
 Je ne sais pas comment se termine l'histoire pour la caméra haute vitesse, mais si ça vous intéresse, le [site UltraSlo](http://www.ultraslo.com/) propose de nombreux films et le [groupe "highspeed" de flickr](http://www.flickr.com/groups/highspeed/) de magnifiques photos de phénomènes rapides.

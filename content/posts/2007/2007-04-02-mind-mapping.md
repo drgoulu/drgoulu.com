@@ -9,7 +9,7 @@ tags:
 coverImage: "407f8977c1af851beb72407f6a7653e0-1.png"
 ---
 
-Les "mind maps" ou "[cartes heuristiques](https://fr.wikipedia.org/wiki/carte_heuristique)" permettent de décrire des idées, concepts et autres informations plus ou moins abstraites sous forme graphique, sous forme arborescente en partant des éléments essentiels vers les détails.
+Les "mind maps" ou "[cartes heuristiques](w:carte_heuristique)" permettent de décrire des idées, concepts et autres informations plus ou moins abstraites sous forme graphique, sous forme arborescente en partant des éléments essentiels vers les détails.
 
 On peut ainsi représenter les idées sortie d'un brainstorming, le cahier des charges d'un produit ou l'organisation d'un projet, mais aussi la structure hierarchique d'un produit, par exemple un ordinateur:
 

@@ -14,11 +14,11 @@ tags:
 coverImage: "f7deaf02011067b5f439db1fe3ab12a1.jpg"
 ---
 
-Le responsable "santé+sécurité+environnement" de mon employeur nous a présenté les 3 piliers du "[développement durable](https://fr.wikipedia.org/wiki/développement_durable)" (Ecologique, Economique et Social) avec ce joli graphique :
+Le responsable "santé+sécurité+environnement" de mon employeur nous a présenté les 3 piliers du "[développement durable](w:)" (Ecologique, Economique et Social) avec ce joli graphique :
 
 ![](images/cf3880ab37a5ed8c29bd2c8815d2c09b.png)J'ai trouvé très judicieux d'intégrer ainsi le développement durable aux logiques économique et sociale plutôt que de le promouvoir dans un cadre purement écologiste.
 
-En y réfléchissant, je me demande s'il n'existe pas un parallèle avec la fameuse [équation de Kaya](https://fr.wikipedia.org/wiki/équation_de_Kaya) dont j'ai [déjà parlé ici](/2009/02/15/manicore/) et que je rappelle ci-dessous :
+En y réfléchissant, je me demande s'il n'existe pas un parallèle avec la fameuse [équation de Kaya](w:) dont j'ai [déjà parlé ici](/2009/02/15/manicore/) et que je rappelle ci-dessous :
 
 [![source : Manicore](images/kaya.gif)](/wp-content/uploads/2009/06/kaya.gif)
 

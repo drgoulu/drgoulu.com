@@ -10,7 +10,7 @@ tags:
 coverImage: "3147d85aa10abf7b1ab15cfd988e2908.jpg"
 ---
 
-A l’origine, [BitTorrent](http://en.wikipedia.org/wiki/BitTorrent) est un protocole génial permettant la diffusion rapide de gros fichiers et la répartition de la charge sur plusieurs serveurs. Il a récemment muté en outil de piratage intensif, mais pourrait bien devenir une brique de l’internet du futur.
+A l’origine, [BitTorrent](w:en) est un protocole génial permettant la diffusion rapide de gros fichiers et la répartition de la charge sur plusieurs serveurs. Il a récemment muté en outil de piratage intensif, mais pourrait bien devenir une brique de l’internet du futur.
 
 ### Simplement Génial
 

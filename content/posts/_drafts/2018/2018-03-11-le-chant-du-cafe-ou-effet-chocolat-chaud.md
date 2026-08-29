@@ -13,7 +13,7 @@ Avez vous une tasse de café sous la main ? Si non, allez vous en faire une !  
 
 {{< youtube id="JCVaOzlOUfY" width="640" >}}
 
-Ca s'appelle l'effet allassonique, ou [effet chocolat chaud](https://en.wikipedia.org/wiki/Hot_chocolate_effect) en anglais bien que ça marche vraiment mieux avec un bon espresso qu'avec du chocolat ou du café soluble.
+Ca s'appelle l'effet allassonique, ou [effet chocolat chaud](w:en:Hot_chocolate_effect) en anglais bien que ça marche vraiment mieux avec un bon espresso qu'avec du chocolat ou du café soluble.
 
 Ce [commentaire de Bugraptor](https://leblogducuk.ch/2018/02/05/open-bar-de-fevrier-deja-2018/comment-page-1/#comment-7880)  m'a remis le nez dans une petite expérience amusante et intéressante.
 

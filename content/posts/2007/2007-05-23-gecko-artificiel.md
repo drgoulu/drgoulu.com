@@ -21,4 +21,4 @@ Depuis, il a été possible de créer des matériaux adhésifs sur le même prin
 Références:
 
 1. [Techno Science : Marcher sur les murs: le gecko au secours de la technologie](http://www.techno-science.net/?onglet=news&news=4098)
-2. ["Van de Waals force" sur Wikipedia](http://en.wikipedia.org/wiki/Van_der_Waals_force) (en anglais, la version française est totalement indigeste)
+2. ["Van de Waals force" sur Wikipedia](w:en:Van_der_Waals_force) (en anglais, la version française est totalement indigeste)

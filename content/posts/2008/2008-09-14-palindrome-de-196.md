@@ -15,16 +15,16 @@ coverImage: "ba5485f7dc2d3ad49c29a5e809e739641.jpg"
 
 Prenons un nombre au hasard : 1729. Ecrivons-le à l'envers : 9271 et additionnons les deux nombres : 1729+9271=11000. Recommençons avec ce nombre : 11000+00011 = 11011.
 
-Ce nombre est égal à lui même écrit à l'envers, c'est un nombre [palindrome](https://fr.wikipedia.org/wiki/palindrome), comme le mot "radar" ou la phrase "élu par cette crapule" si on ne tient pas compte des espaces, ou encore "[le grand palindrome](http://homepage.urbanet.ch/cruci.com/lexique/palindrome.htm)", un texte de 5566 lettres écrit par Georges Perec en 1969.
+Ce nombre est égal à lui même écrit à l'envers, c'est un nombre [palindrome](w:), comme le mot "radar" ou la phrase "élu par cette crapule" si on ne tient pas compte des espaces, ou encore "[le grand palindrome](http://homepage.urbanet.ch/cruci.com/lexique/palindrome.htm)", un texte de 5566 lettres écrit par Georges Perec en 1969.
 
 Tiens, refaisons le calcul avec 1969 pour voir : 1969+9691 = 11660 11660+06611 = 18271 18271+17281 = 35552 35552+25553 = 61105 61105+50116 = 111221 111221+122111 = 23332 : palindrome !
 
-Bizarre n'est-ce pas ? En fait on peut prendre n'importe quel nombre de départ, et la séquence d'opérations arrive inévitablement à un nombre palindrome en un nombre fini d'itérations. C'est du moins ce que l'on [conjecture](https://fr.wikipedia.org/wiki/conjecture), car il y a deux problèmes :
+Bizarre n'est-ce pas ? En fait on peut prendre n'importe quel nombre de départ, et la séquence d'opérations arrive inévitablement à un nombre palindrome en un nombre fini d'itérations. C'est du moins ce que l'on [conjecture](w:), car il y a deux problèmes :
 
 1. nos amis mathématiciens n'ont aucune idée de la raison qui fait que ça marche, entre autre parce que "écrire un nombre en base 10 à l'envers" n'a pas de signification mathématique simple.
 2. il y a un gros hic. Si on commence avec 196, on n'arrive pas à un palindrome même après 300 millions d'itérations...
 
-196 est le plus petit des "[nombres de Lychrel](https://fr.wikipedia.org/wiki/nombres_de_Lychrel)" (en l'honneur de Cheryl, la petite amie du matheux qui a proposé cette propriété) : les nombres qui n'aboutissent apparemment pas à un palindrome ... [Dans ces nombres](http://oeis.org/A023108) se trouvent évidemment [ceux produits à chaque itération à partir de 196](http://oeis.org/A006960), mais aussi quelques autres.
+196 est le plus petit des "[nombres de Lychrel](w:)" (en l'honneur de Cheryl, la petite amie du matheux qui a proposé cette propriété) : les nombres qui n'aboutissent apparemment pas à un palindrome ... [Dans ces nombres](http://oeis.org/A023108) se trouvent évidemment [ceux produits à chaque itération à partir de 196](http://oeis.org/A006960), mais aussi quelques autres.
 
 Ce qui est intéressant aussi, c'est la distribution du nombre d'itérations : très souvent, on atteint le palindrome en quelques étapes, même pour de très grands nombres, mais quelques rares nombres demandent quelques étapes de plus
 
@@ -48,5 +48,5 @@ A propos : j'ai commencé cet article par [mon nombre fétiche 1729 parce que ce
 
 ### Références:
 
-- [forum avec un bout de code Python](http://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Computing/2008_August_25) pour le calcul de palindromes
+- [forum avec un bout de code Python](w:en:Wikipedia:Reference_desk/Archives/Computing/2008_August_25) pour le calcul de palindromes
 - [196-Algorithm](http://mathworld.wolfram.com/196-Algorithm.html) sur MathWorld

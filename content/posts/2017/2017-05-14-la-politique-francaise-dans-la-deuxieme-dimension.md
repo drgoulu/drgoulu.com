@@ -18,7 +18,7 @@ Parmi les questions que je me suis posées lors du traditionnel raout quinquenna
 
 ## Le deuxième axe politique
 
-J'ai découvert la "[politique à deux dimensions"](/2007/08/24/politique-a-2-dimensions/) il y a 10 ans grâce à Smartvote.ch, dont je reparlerai plus bas : plusieurs politologues considèrent que le positionnement "[gauche / droite](https://fr.wikipedia.org/wiki/gauche_et_droite_en_politique)" n'est pas suffisant pour représenter la variété des opinions politiques et ont proposé des représentations bidimensionnelle comme le [diagramme de Nolan](https://fr.wikipedia.org/wiki/diagramme_de_Nolan) ou le [quadrant politique](https://fr.wikipedia.org/wiki/quadrant_politique).
+J'ai découvert la "[politique à deux dimensions"](/2007/08/24/politique-a-2-dimensions/) il y a 10 ans grâce à Smartvote.ch, dont je reparlerai plus bas : plusieurs politologues considèrent que le positionnement "[gauche / droite](w:gauche_et_droite_en_politique)" n'est pas suffisant pour représenter la variété des opinions politiques et ont proposé des représentations bidimensionnelle comme le [diagramme de Nolan](w:) ou le [quadrant politique](w:).
 
 Mais dans ces représentations, le deuxième axe est défini a priori : "Libertarien / Populiste" pour certains, "Progressiste / Conservateur" pour d'autres, "Autoritaire / Libertaire" pour d'autres encore, le deuxième axe est moins bien défini, moins clair que l'axe gauche / droite.
 
@@ -32,11 +32,11 @@ De plus, il paraît difficile d'éviter une certaine subjectivité lorsqu'on rep
 
 Ces problèmes ont été traités en profondeur en Suisse, je dirais même résolus par [Smartvote.ch](https://www.smartvote.ch/about/idea) grâce à une approche beaucoup plus rationnelle
 
-La plateforme Smartvote propose aux candidats à chaque élection en Suisse de remplir un questionnaire sur quelques dizaines de questions de l'actualité politique, puis permet aux électeurs de répondre aux mêmes questions pour trouver les candidats ayant les opinions les plus proches.  Smartvote doit donc pouvoir calculer  des "distances" dans un espace ayant autant de dimensions que de questions, mais comme ces questions/dimensions ne sont pas indépendantes/orthogonales, on ne peut pas utiliser valablement une simple [distance euclidienne](https://fr.wikipedia.org/wiki/distance_euclidienne) par exemple.
+La plateforme Smartvote propose aux candidats à chaque élection en Suisse de remplir un questionnaire sur quelques dizaines de questions de l'actualité politique, puis permet aux électeurs de répondre aux mêmes questions pour trouver les candidats ayant les opinions les plus proches.  Smartvote doit donc pouvoir calculer  des "distances" dans un espace ayant autant de dimensions que de questions, mais comme ces questions/dimensions ne sont pas indépendantes/orthogonales, on ne peut pas utiliser valablement une simple [distance euclidienne](w:) par exemple.
 
 Smartvote réduit donc le nombres de dimensions de N à 2 , en utilisant une méthode purement mathématique décrite dans [[2]](#ref-2), et dont voici quelques passages clé :
 
-> Le calcul du système de coordonnées politiques est effectué à l'aide d'une méthode statistique appelée « [analyse factorielle des correspondances](https://fr.wikipedia.org/wiki/analyse_factorielle_des_correspondances) », connue également sous le nom d’ « [analyse en composantes principales](https://fr.wikipedia.org/wiki/analyse_en_composantes_principales) qualitatives»
+> Le calcul du système de coordonnées politiques est effectué à l'aide d'une méthode statistique appelée « [analyse factorielle des correspondances](w:) », connue également sous le nom d’ « [analyse en composantes principales](w:) qualitatives»
 
 > En règle générale, les deux dimensions les plus importantes de l'analyse à base multidimensionnelle sont représentées. En raison de l'application de l'analyse factorielle des correspondances, **l'attribution manuelle des questions, sur les axes prédéfinis de la smartmap, est supprimée**.
 
@@ -54,7 +54,7 @@ Outre la correspondance électeur/candidat déjà mentionnée, il devient possib
 
 ## Axe principal, secondaire, et 3ème axe
 
-Un point important est que ces méthodes déterminent "toutes seules" les axes politiques "statistiquement significatifs", l'un après l'autre. Elles déterminent d'abord le principal un peu comme dans une [régression linéaire](https://fr.wikipedia.org/wiki/régression_linéaire), puis le secondaire à partir des "résidus" que l'axe principal ne modélise pas bien, et ainsi de suite. Peut-être qu'avec beaucoup de données dans un grand pays, un troisième axe (religieux, culturel, linguistique, écologiste ...) apparaîtrait comme significatif, mais à Genève en tout cas, le troisième axe est non significatif, et smartvote laisse entendre que c'est le cas en Suisse. Et dans les autres pays, il n'y a pas assez de données pour le mesurer.
+Un point important est que ces méthodes déterminent "toutes seules" les axes politiques "statistiquement significatifs", l'un après l'autre. Elles déterminent d'abord le principal un peu comme dans une [régression linéaire](w:), puis le secondaire à partir des "résidus" que l'axe principal ne modélise pas bien, et ainsi de suite. Peut-être qu'avec beaucoup de données dans un grand pays, un troisième axe (religieux, culturel, linguistique, écologiste ...) apparaîtrait comme significatif, mais à Genève en tout cas, le troisième axe est non significatif, et smartvote laisse entendre que c'est le cas en Suisse. Et dans les autres pays, il n'y a pas assez de données pour le mesurer.
 
 Car l'essentiel est là : il faut beaucoup de données pour faire de la "politique statistique"© . Les sondages sur les intentions de vote ne suffisent pas, il faut que de nombreux candidats répondent à de nombreuses questions pour pouvoir cartographier leur positionnement valablement.
 
@@ -63,14 +63,14 @@ Car l'essentiel est là : il faut beaucoup de données pour faire de la "politiq
 A ma connaissance, il n'existe pas de telles données en France, donc pas de moyen de vérifier mon hypothèse selon laquelle l'axe secondaire\* est devenu le principal, éclipsant le "gauche / droite"  lors de cette élection présidentielle. Donc voilà, je n'ai aucune preuve de ce que j'avance. Mais voici les quelques indices qui m'ont conduit à cette idée:
 
 1. Evidemment, le second tour entre 2 candidats qui n'appartiennent ni au PS ni à l'UMPRPRépublicains
-2. L'article [[5]](#ref-5) qui montre qu'il y a dix ans déjà, il fallait distinguer plusieurs droites et plusieurs gauches pour décrire le paysage politique valablement. Malheureusement les auteurs ne vont pas jusqu'à établir un positionnement 2D alors qu'ils évoquent pourtant "deux dimensions structurantes des valeurs - libéralisme économique et libéralisme culturel" qui rappellent celles du [diagramme de Nolan](https://fr.wikipedia.org/wiki/diagramme_de_Nolan)
+2. L'article [[5]](#ref-5) qui montre qu'il y a dix ans déjà, il fallait distinguer plusieurs droites et plusieurs gauches pour décrire le paysage politique valablement. Malheureusement les auteurs ne vont pas jusqu'à établir un positionnement 2D alors qu'ils évoquent pourtant "deux dimensions structurantes des valeurs - libéralisme économique et libéralisme culturel" qui rappellent celles du [diagramme de Nolan](w:)
 3. Le fait documenté par de nombreuses sources que des électeurs traditionnels de la gauche sont devenus électeurs du FN. Selon [[5]](#ref-5) ils appartiennent à la "gauche conservatrice", ce qui soutient l'idée que le FN est désormais perçu par ces électeurs comme conservateur plutôt que d'extrême droite. \*\*
 
 ### Notes:
 
 \* J'ai nommé le 2ème axe "libéral / conservateur" dans l'introduction pour qu'il ne soit pas trop abstrait, mais comme l'indique smartvote "D'autres désignations sont possibles et pertinentes". Ne voulant pas m'avancer sur le cas français par manque de données, j'en suis resté à "axe secondaire"
 
-\*\* En aucun cas je ne suggère que le FN n'est pas le parti français le plus à droite. Mais je suspecte qu'il se distingue des autres partis de droite plutôt par son conservatisme, d'une manière similaire à celle de l'[UDC suisse](https://fr.wikipedia.org/wiki/Union_démocratique_du_centre) (SVP en allemand sur la [spectaculaire carte animée](http://sotomo.ch/wp/wp-content/uploads/2014/06/polraum1_optimiert.gif) ).
+\*\* En aucun cas je ne suggère que le FN n'est pas le parti français le plus à droite. Mais je suspecte qu'il se distingue des autres partis de droite plutôt par son conservatisme, d'une manière similaire à celle de l'[UDC suisse](w:Union_démocratique_du_centre) (SVP en allemand sur la [spectaculaire carte animée](http://sotomo.ch/wp/wp-content/uploads/2014/06/polraum1_optimiert.gif) ).
 
 ### Références:
 

@@ -14,7 +14,7 @@ Houlà, je prends des risques en écrivant une page sur ce sujet sensible... La 
 1. que le "terrorisme" est une tactique communement utilisée par le belligérant faible dans le cas de conflits asymétriques
 2. que cette tactique est vieille comme le monde, et pas du tout liée aux conflits "religieux"
 3. que les attentats sucide, ou kamikaze sont liées au désespoir des auteurs, plus qu'à leur endoctrinement éventuel.
-4. que de ce fait il existe de [très nombreuses définitions incompatibles du terrorisme](http://fr.wikipedia.org/wiki/D%C3%A9finition_du_terrorisme)
+4. que de ce fait il existe de [très nombreuses définitions incompatibles du terrorisme](w:Définition_du_terrorisme)
 
 #### Les conflits asymétriques
 
@@ -38,7 +38,7 @@ Un attentat sucide marque beaucoup plus les esprits qu'un attentat "normal" fais
 
 1. que les kamikazes japonais ne sont apparus que lorsque la supériorité américaine dans le Pacifique soit devenue évidente. Dans le livre "J'étais un kamikaze" Nagatsuka explique comment l'idée de l'action sucide est apparue presque normalement dans le contexte du Japon de l'époque
 2. que le "record" des attentats sucides au XXème siècle appartient aux "Tigres de l'Elam Tamoul", qui n'est pas un mouvement religieux
-3. que de nombreuses cultures ont des "martyrs" ou "héros sucide". En Suisse nous avons [Winkelried](http://fr.wikipedia.org/wiki/Arnold_von_Winkelried) Dans le nulissime film "Independence Day", même un américain devient kamikaze contre un envahisseur extra-terrestre...
+3. que de nombreuses cultures ont des "martyrs" ou "héros sucide". En Suisse nous avons [Winkelried](w:Arnold_von_Winkelried) Dans le nulissime film "Independence Day", même un américain devient kamikaze contre un envahisseur extra-terrestre...
 
 #### Références
 

@@ -14,7 +14,7 @@ coverImage: "90ef9129e3556b64ffce4779ca947b96-1.gif"
 
 {{< figure src="images/90ef9129e3556b64ffce4779ca947b96.gif" link="http://www.joyoftech.com/" >}}
 
-La notion d'[obsolescence programmée](https://fr.wikipedia.org/wiki/obsolescence_programmée) est à la mode. Autrefois cantonnée aux milieux "progressistes", la cause est entendue notamment depuis le documentaire "[Prêt à jeter](https://fr.wikipedia.org/wiki/Prêt_à_jeter)" : les industriels contraignent les ingénieurs à limiter la durée de vie des produits pour en vendre plus et maximiser leurs profits, ce qui provoque gaspillage, déchets et autres catastrophes. Certains vont jusqu'à qualifier cette pratique de crime contre l'humanité [[1]](#ref-1) ! Aujourd'hui les média ne prennent plus aucune précaution oratoire lorsqu'elles abordent ce sujet, et même une association de consommateurs que je considérais comme sérieuse l'affirme sans sourciller [[2]](#ref-2):
+La notion d'[obsolescence programmée](w:) est à la mode. Autrefois cantonnée aux milieux "progressistes", la cause est entendue notamment depuis le documentaire "[Prêt à jeter](w:)" : les industriels contraignent les ingénieurs à limiter la durée de vie des produits pour en vendre plus et maximiser leurs profits, ce qui provoque gaspillage, déchets et autres catastrophes. Certains vont jusqu'à qualifier cette pratique de crime contre l'humanité [[1]](#ref-1) ! Aujourd'hui les média ne prennent plus aucune précaution oratoire lorsqu'elles abordent ce sujet, et même une association de consommateurs que je considérais comme sérieuse l'affirme sans sourciller [[2]](#ref-2):
 
 > L’obsolescence programmée contamine nombre de secteurs, de l’automobile en passant par l’électronique, les appareils électroménagers, les vêtements, les accessoires de mode, le mobilier, les jouets, etc., où les produits sont conçus pour une durée de vie toujours plus courte!
 
@@ -22,7 +22,7 @@ Pourtant, j'ai des doutes. Je sais que l'obsolescence programmée a été théor
 
 ## Références s'il vous plait.
 
-Car après avoir vu "Prêt à jeter" deux fois, analysé et compris la [raison de la limitation de la durée de vie des ampoules](/2011/10/16/la-veritable-histoire-de-lampoule-de-livermore/) fréquemment citée comme preuve, lu et contribué à plusieurs forums et discussions sur le sujet, et entendu [Serge Latouche](https://fr.wikipedia.org/wiki/Serge_Latouche) face à [Alexandre Delaigue](http://econoclaste.org.free.fr/econoclaste/?p=7583) à la radio \[4\] je n'ai toujours trouvé aucun cas documenté d'obsolescence volontairement planifiée pour accroître la consommation.
+Car après avoir vu "Prêt à jeter" deux fois, analysé et compris la [raison de la limitation de la durée de vie des ampoules](/2011/10/16/la-veritable-histoire-de-lampoule-de-livermore/) fréquemment citée comme preuve, lu et contribué à plusieurs forums et discussions sur le sujet, et entendu [Serge Latouche](w:) face à [Alexandre Delaigue](http://econoclaste.org.free.fr/econoclaste/?p=7583) à la radio \[4\] je n'ai toujours trouvé aucun cas documenté d'obsolescence volontairement planifiée pour accroître la consommation.
 
 Et je ne suis pas le seul. Dans un article récent dans "Pour La Science" \[5\], Alain Geldron de l'[ADEME](http://ademe.fr) confesse:
 
@@ -30,10 +30,10 @@ Et je ne suis pas le seul. Dans un article récent dans "Pour La Science" \[5\],
 
 Même la Wikipédia manque de références sérieuses sur l'obsolescence programmée :
 
-- L'article francophone "[obsolescence programmée](https://fr.wikipedia.org/wiki/obsolescence_programmée)" affiche cette bannière (qui va et vient au fil des éditions de l'article...):  
+- L'article francophone "[obsolescence programmée](w:)" affiche cette bannière (qui va et vient au fil des éditions de l'article...):  
     [![](images/d6ff6611d72c27bcdba7354b340b5159.png "2012-10-08_181438")](http://fr.wikipedia.org/wiki/Obsolescence_programm%C3%A9e)
 
-- L'article anglophone "[Planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence)" en a une aussi depuis plus de 2 ans malgré une [discussion animée](http://en.wikipedia.org/wiki/Talk:Planned_obsolescence):  
+- L'article anglophone "[Planned obsolescence](w:en)" en a une aussi depuis plus de 2 ans malgré une [discussion animée](w:en:Talk:Planned_obsolescence):  
     ![](images/93e755e507ee1728dbfab12d5d031247.png "2012-10-08_182536")
 
 Donc je me suis mis en quête de [publications scientifiques sur le sujet](http://scholar.google.ch/scholar?hl=fr&q=%22planned+obsolescence). Je confesse n'avoir pas lu tous les articles in-extenso, mais j'ai lu les abstracts des 100 plus référencés environ, et parcouru une vingtaine de ceux qui me paraissaient intéressants. Voici mes deux principaux constats après ces lectures:
@@ -44,7 +44,7 @@ Premier constat à la lecture de ces articles : le manque de consensus sur la 
 
 - Pour certains auteurs la notion est plus ou moins celle de la wikipédia francophone : "_techniques visant à réduire la durée de vie ou d'utilisation d'un produit afin d'en augmenter le taux de remplacement"_. Cette définition "stricte", suppose des actions volontaires de la part des concepteurs du produit lui-même.
 
-- Pour d'autres, la notion recouvre un domaine plus large correspondant à la définition de la wikipédia anglophone : "_policy of planning or designing a product with a limited useful life, so it will become obsolete, that is, unfashionable or no longer functional after a certain period of time_." Cette définition "large" inclut d'autres [types d'obsolescence](https://fr.wikipedia.org/wiki/Obsolescence_programm%C3%A9e#Diff.C3.A9rents_types_d.27obsolescence_programm.C3.A9e) concernant des aspects partiellement liés au comportement des consommateurs (comme l'obsolescence esthétique, la mode), au business model du produit (vendre de l'encre plutôt que des imprimantes par exemple), ou carrément aux sauts technologiques.
+- Pour d'autres, la notion recouvre un domaine plus large correspondant à la définition de la wikipédia anglophone : "_policy of planning or designing a product with a limited useful life, so it will become obsolete, that is, unfashionable or no longer functional after a certain period of time_." Cette définition "large" inclut d'autres [types d'obsolescence](w:Obsolescence_programmée#Diff.C3.A9rents_types_d.27obsolescence_programm.C3.A9e) concernant des aspects partiellement liés au comportement des consommateurs (comme l'obsolescence esthétique, la mode), au business model du produit (vendre de l'encre plutôt que des imprimantes par exemple), ou carrément aux sauts technologiques.
 
 <figure>
 
@@ -66,9 +66,9 @@ Mais cette obsolescence est-elle programmée, au sens strict ?
 
 La très grande majorité de la centaine d'articles les plus référencés sont des études théoriques analysant si l'obsolescence programmée est économiquement payante dans tel ou tel modèle de marché. En gros:
 
-- Selon \[6\], une entreprise en situation de [monopole](https://fr.wikipedia.org/wiki/monopole) a effectivement intérêt à raccourcir la vie de ses produits. Mais jusqu'à un certain optimum lié aux coûts de production
+- Selon \[6\], une entreprise en situation de [monopole](w:) a effectivement intérêt à raccourcir la vie de ses produits. Mais jusqu'à un certain optimum lié aux coûts de production
 
-- En situation d'[oligopole](https://fr.wikipedia.org/wiki/oligopole) les entreprises ont intérêt à allonger la durée de vie de leurs produits jusqu'à un autre optimum, pour éviter que les clients n'essaient le produit concurrent, juste pour voir.
+- En situation d'[oligopole](w:) les entreprises ont intérêt à allonger la durée de vie de leurs produits jusqu'à un autre optimum, pour éviter que les clients n'essaient le produit concurrent, juste pour voir.
 
 - Toutefois, \[6\] montre aussi que la meilleures stratégie en monopole et en oligopole consiste souvent à louer un produit plutôt que le vendre, et l'illustre par les données de Xerox (mono- puis oligopole des photocopieuses) et d'IBM (mono- puis oligopole des ordinateurs)
 
@@ -82,7 +82,7 @@ Très peu d'articles analysent des cas concrets. Sur 100, je n'en ai trouvé que
 
 - Deux articles analysent la fréquence de réédition des manuels de cours (textbooks).  C'est intéressant ça : un marché où des produits durables ne sont utiles qu'un an, avec une forte concurrence du marché de l'occasion. Et bien, données à l'appui, l'auteur conclut que "les révisions fréquentes par les éditeurs ne peuvent être attribuées uniquement à l'obsolescence programmée." \[9\]
 
-- plusieurs articles (concernant plus l'éthique comme \[7\] que l'économie) se réfèrent pour des exemples au livre \[10\] dont le documentaire "Prêt à jeter" [s'inspire clairement](http://en.wikipedia.org/wiki/Giles_Slade), mais ce n'est pas une publication scientifique, basée sur des données expérimentales et [évaluée par les pairs](https://fr.wikipedia.org/wiki/évaluation_par_les_pairs).
+- plusieurs articles (concernant plus l'éthique comme \[7\] que l'économie) se réfèrent pour des exemples au livre \[10\] dont le documentaire "Prêt à jeter" [s'inspire clairement](w:en:Giles_Slade), mais ce n'est pas une publication scientifique, basée sur des données expérimentales et [évaluée par les pairs](w:évaluation_par_les_pairs).
 
 Voilà, c'est tout ce que j'ai trouvé, et j'ai pourtant pas mal cherché. Mais si vous connaissez une autre étude de cas scientifique (avec données expérimentales ou mesures ) sur le sujet, je vous serais vraiment reconnaissant d'en mettre la référence en commentaire.
 
@@ -137,7 +137,7 @@ Corollaire : vous voulez une loi pour allonger les garanties et forcer les four
 
 ### La Bolex de mon papa
 
-Mon papa possède encore une caméra [Super 8](https://fr.wikipedia.org/wiki/Super_8), une [Bolex 7.5](http://www.bolexcollector.com/cameras/75macro.html) en parfait état de marche. Elle a filmé mon enfance et la vie de la famille à la fin des années 60, début des 70, puis les méchants japonais ont flanqué par terre notre belle industrie mécanique \[13\] avec leurs vidéos et autres gadgets électroniques bon marché.
+Mon papa possède encore une caméra [Super 8](w:), une [Bolex 7.5](http://www.bolexcollector.com/cameras/75macro.html) en parfait état de marche. Elle a filmé mon enfance et la vie de la famille à la fin des années 60, début des 70, puis les méchants japonais ont flanqué par terre notre belle industrie mécanique \[13\] avec leurs vidéos et autres gadgets électroniques bon marché.
 
 Dans une caméra mécanique, il y a un mécanisme qui fait avancer le film par saccades de 24 images par seconde, et un obturateur qui s'ouvre et se ferme à la même cadence. Donc des pièces qui bougent avec des accélérations assez fortes pour se déformer un peu et causer de la fatigue des matériaux, des frottements qui les usent etc.
 
@@ -159,7 +159,7 @@ dans 40 ans la pub de GoPro sera aussi kitsch que celle-ci
 
 Reste qu'avec 700h de fonctionnement de sa partie la plus délicate, l'espérance de vie d'une caméra Bolex normalement utilisée se compte en siècles! D'ailleurs le boitier est fraisé dans l'alu, recouvert de cuir, doté d'un objectif de qualité : tout est mis en oeuvre pour que les archéologues retrouvent l'engin en parfait état de marche.
 
-> "Il y a trois façons de se ruiner : le jeu, les femmes et les ingénieurs. Les deux premières sont les plus agréables, la troisième est la plus sûre" ( [Auguste Detœuf](https://fr.wikipedia.org/wiki/Auguste_Detœuf) J.M. Folz)
+> "Il y a trois façons de se ruiner : le jeu, les femmes et les ingénieurs. Les deux premières sont les plus agréables, la troisième est la plus sûre" ( [Auguste Detœuf](w:) J.M. Folz)
 
 Comme sa chère Bolex chère (sic.) était flambant neuve lorsque les modèles sonores sont apparus, mon père n'en a pas changé. Et même lorsque les premières caméra vidéo sont apparues, il n'en a pas acheté vu que sa Bolex marchait très bien. Et Bolex a coulé, tellement ses clients étaient contents de leur achat, ou sont passés à la vidéo. Certes, les premières caméra vidéo ne duraient pas 700h. Peut être 70 à tout casser, mais c'était assez pour les quelques saisons de vacances avant la HD. Et le coût de la minute de vidéo a chuté, chuté ...
 
@@ -169,7 +169,7 @@ Pour le prix de deux films super-8 de mon papa, je peux acheter [une caméra ac
 
 Vous ne le savez pas, mais je vous épie. Je peux savoir sur quel lien vous avez cliqué pour arriver sur cette page, et aller voir ainsi qui parle de cet article. C'est ainsi que je suis remonté de [mon article sur l'ampoule de Livermore](/2011/10/16/la-veritable-histoire-de-lampoule-de-livermore/) à [une discussion sur "Forum 2 Pattes](http://forum2pattes.forumactif.com/t77787p30-quand-on-construisait-quelque-chose-pour-que-ca-dure) intitulée "Quand on construisait quelque chose pour que ça dure..." et vantant l'indestructible 2CV.  J'y ai posté le commentaire suivant (légèrement édité ici):
 
-L'exemple de l'automobile m'intéresse. Prenons... la Charleston Bordeaux 1980 de ma sœur, qu'elle sort encore une ou deux fois par an. Selon [ce site](http://2cv-legende.com/decouvertes-2cv/prix-2cv) elle coûtait 24800 NF soit 3780 Euro soit 1853 heures de boulot au SMIC de l'époque ([2.04 Euro/h en 1980](http://fr.wikipedia.org/wiki/Salaire_minimum_interprofessionnel_de_croissance#.C3.89volution_historique_du_SMIC_horaire_brut_en_euros))
+L'exemple de l'automobile m'intéresse. Prenons... la Charleston Bordeaux 1980 de ma sœur, qu'elle sort encore une ou deux fois par an. Selon [ce site](http://2cv-legende.com/decouvertes-2cv/prix-2cv) elle coûtait 24800 NF soit 3780 Euro soit 1853 heures de boulot au SMIC de l'époque ([2.04 Euro/h en 1980](w:Salaire_minimum_interprofessionnel_de_croissance#.C3.89volution_historique_du_SMIC_horaire_brut_en_euros))
 
 L'équivalent de cette 2CV de l'époque serait donc une bagnole valant 1852 x 9.4 = 17418 Euros actuellement, donc dans [cette gamme](http://voiture.autoplus.fr/?page=52&sort=price). Ca m'inspire quelques remarques:
 
@@ -191,7 +191,7 @@ Personnellement, je pense qu'on attribue communément à l'obsolescence programm
 
 - Que certains produits "vendus" sont en fait loués : lorsque vous achetez une imprimante à 100 Euros, si vous enlevez la TVA, la marge du distributeur, les frais de transports etc, vous comprendrez qu'on vous la donne. Ensuite vous payez l'encre, proportionnellement au nombre de pages que vous imprimez, donc on vous empêche de les remplir ou d'acheter des cartouches de contrefaçon.  Mais c'est vrai, les fabricants n'expliquent pas le deal clairement.
 
-- Que les systèmes de production modernes se caractérisent par un écart type de plus en plus faible ([Six Sigma](https://fr.wikipedia.org/wiki/Six_Sigma)), donc des durées de fonctionnement beaucoup plus constantes que par le passé. Un produit actuel conçu pour durer 1000 heures a peu de chances de fonctionner 1200 heures, mais pas moins de 800 heures non plus. C'est vrai que dans le passé, on pouvait "tomber sur un bon numéro" qui fonctionnait très, très longtemps. Mais il ne faut pas oublier les "mauvais numéros" qu'on revendait en vitesse à la brocante de la paroisse...
+- Que les systèmes de production modernes se caractérisent par un écart type de plus en plus faible ([Six Sigma](w:)), donc des durées de fonctionnement beaucoup plus constantes que par le passé. Un produit actuel conçu pour durer 1000 heures a peu de chances de fonctionner 1200 heures, mais pas moins de 800 heures non plus. C'est vrai que dans le passé, on pouvait "tomber sur un bon numéro" qui fonctionnait très, très longtemps. Mais il ne faut pas oublier les "mauvais numéros" qu'on revendait en vitesse à la brocante de la paroisse...
 
 - Que surtout, on ne réalise pas à quel point les prix des "biens durables" ont chuté en monnaie constante: les produits de nos parents coûtaient l'équivalent du haut de gamme actuel, donc il faut comparer ce qui est comparable. Et justement, il n'y avait rien de comparable à nos produits bon marché actuels.
 

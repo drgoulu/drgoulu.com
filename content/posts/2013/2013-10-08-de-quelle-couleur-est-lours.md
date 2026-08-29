@@ -21,15 +21,15 @@ Apparemment, le trajet de l'explorateur est impossible : comme il est revenu à 
 
 {{< figure src="images/4d5f9787f67889f02c5bb6fe390d07cf.png" alt="un triangle équilatéral 3x rectangle (illustration GeoTortue)" caption="un triangle équilatéral 3x rectangle (illustration GeoTortue)" link="http://geotortue.free.fr/index.php?page=geo_intro" align="alignleft" width="192" >}}
 
-Sauf que ceci est valable sur le plan de la [géométrie euclidienne](https://fr.wikipedia.org/wiki/géométrie_euclidienne), alors que nous vivons sur une Terre approximativement sphérique où nous devrions plutôt utiliser la [géométrie sphérique](https://fr.wikipedia.org/wiki/géométrie_sphérique) dans laquelle la somme des angles d'un triangle vaut toujours plus de 180°.
+Sauf que ceci est valable sur le plan de la [géométrie euclidienne](w:), alors que nous vivons sur une Terre approximativement sphérique où nous devrions plutôt utiliser la [géométrie sphérique](w:) dans laquelle la somme des angles d'un triangle vaut toujours plus de 180°.
 
-De plus, les [coordonnées géographiques](https://fr.wikipedia.org/wiki/coordonnées_géographiques) sont bien pratiques dans nos régions, où les directions nord-sud et est-ouest sont bien définies. Mais il existe deux régions au monde où les choses se compliquent : les pôles.
+De plus, les [coordonnées géographiques](w:) sont bien pratiques dans nos régions, où les directions nord-sud et est-ouest sont bien définies. Mais il existe deux régions au monde où les choses se compliquent : les pôles.
 
-Ce n'est qu'à partir d'un campement situé au pôle nord que notre explorateur peut réaliser le trajet décrit, donc le seul ours qui peut s'y trouver est [Ursus maritimus](https://fr.wikipedia.org/wiki/Ursus_maritimus), dit blanc.
+Ce n'est qu'à partir d'un campement situé au pôle nord que notre explorateur peut réaliser le trajet décrit, donc le seul ours qui peut s'y trouver est [Ursus maritimus](w:), dit blanc.
 
 (_paragraphe corrigé le 3.1.14 suite au commentaire de Sophie_) Comme on s'en convainc en observant le dessin ci-contre, l'explorateur revient à sa base selon une direction perpendiculaire à bien différente de sa direction de départ. Tant qu'il reste près du pôle, l'angle au sommet vaut [1 radian, soit 57°](/2010/01/16/histoire-dangles/) environ, mais si son périple descendait jusqu'à l'équateur, il décrirait un triangle équilatéral dont les 3 angles sont droits !
 
-Reste un détail à régler : y'a-t-il vraiment des ours polaires au pôle nord ? Apparemment oui : on en a [vu au dessus de 88°](https://fr.wikipedia.org/wiki/Coordonn%C3%A9es_g%C3%A9ographiques) de latitude nord, donc à environ 200 km de l'axe de la Terre.
+Reste un détail à régler : y'a-t-il vraiment des ours polaires au pôle nord ? Apparemment oui : on en a [vu au dessus de 88°](w:Coordonnées_géographiques) de latitude nord, donc à environ 200 km de l'axe de la Terre.
 
 Bon, il n'est pas vraiment drôle cet article, alors j'en rajoute une courte:
 

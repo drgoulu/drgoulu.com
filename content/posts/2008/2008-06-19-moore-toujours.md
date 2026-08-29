@@ -12,7 +12,7 @@ tags:
 coverImage: "6b6e8564e18a75bb838389e2aee49068.jpg"
 ---
 
-Le premier ordinateur capable d'effectuer un million de milliards d'opérations par seconde (un petaflop) fait "bip-bip" depuis quelques jours. Le ["Roadrunner" d'IBM](http://fr.wikipedia.org/wiki/Roadrunner_\(supercalculateur\)) supplante ainsi le "BlueGene/L d'IBM aussi, vieux d'une année seulement et qui plafonnait à 0.476 petaflop.
+Le premier ordinateur capable d'effectuer un million de milliards d'opérations par seconde (un petaflop) fait "bip-bip" depuis quelques jours. Le ["Roadrunner" d'IBM](w:Roadrunner_(supercalculateur)) supplante ainsi le "BlueGene/L d'IBM aussi, vieux d'une année seulement et qui plafonnait à 0.476 petaflop.
 
 ![](images/70678f9cf3d23156fce460be5fd5572c.png)
 
@@ -26,7 +26,7 @@ La raison de cet optimisme tient au fait que la puissance des ordinateurs résul
 
 ### La loi de Moore
 
-L'un des facteurs essentiels est la miniaturisation de l'électronique. En 1965, [Gordon Moore](http://fr.wikipedia.org/wiki/Gordon_Earle_Moore), un des fondateurs d'intel, postula qu'on serait capable de doubler chaque 2 ans le nombre de transistors d'un circuit électronique à prix constant. Sa prédiction s'est extraordinairement bien vérifiée non seulement pour les microprocesseurs, mais aussi pour les mémoires RAM :
+L'un des facteurs essentiels est la miniaturisation de l'électronique. En 1965, [Gordon Moore](w:Gordon_Earle_Moore), un des fondateurs d'intel, postula qu'on serait capable de doubler chaque 2 ans le nombre de transistors d'un circuit électronique à prix constant. Sa prédiction s'est extraordinairement bien vérifiée non seulement pour les microprocesseurs, mais aussi pour les mémoires RAM :
 
 [
 
@@ -46,11 +46,11 @@ Petite anecdote à ce propos : il y a 20 ans on apprenait qu'il était assez fac
 
 Malgré ceci, en 2003 la fréquence des processeurs qui croissait rapidement s'est retrouvée rapidement limitée en dessous de 4 GHz, entre autres pour des raisons thermiques.
 
-En effet, un circuit consomme d'autant plus d'électricité qu'il fonctionne vite, ce qui fait [chauffer les ordinateurs](/2007/11/17/radiateurs-a-teraflops/), et ils n'aiment pas ça. Les Cray 1 et XMP étaient refroidis par une circulation de liquide entre les circuits imprimés, le Cray 2 était carrément immergé dans du réfrigérant liquide, et on se demandait bien quelle serait la prochaine étape. Mais là encore, la miniaturisation a permis de faire des machines tout aussi puissantes refroidies par de simples ventilateurs assistés éventuellement de [caloducs](http://fr.wikipedia.org/wiki/Caloduc).
+En effet, un circuit consomme d'autant plus d'électricité qu'il fonctionne vite, ce qui fait [chauffer les ordinateurs](/2007/11/17/radiateurs-a-teraflops/), et ils n'aiment pas ça. Les Cray 1 et XMP étaient refroidis par une circulation de liquide entre les circuits imprimés, le Cray 2 était carrément immergé dans du réfrigérant liquide, et on se demandait bien quelle serait la prochaine étape. Mais là encore, la miniaturisation a permis de faire des machines tout aussi puissantes refroidies par de simples ventilateurs assistés éventuellement de [caloducs](w:Caloduc).
 
 ### GaAs, optique, quantique ...
 
-Pour contourner les difficultés rencontrées avec l'augmentation des fréquences, on a parfois proposé des ruptures technologiques assez radicales. La plus ancienne et la moins radicale concernait l'utilisation d'[arséniure de gallium](http://fr.wikipedia.org/wiki/Ars%C3%A9niure_de_gallium) à place du silicium. En principe, les transistors à GaAs sont beaucoup plus rapides que ceux au silicium et auraient permis de fonctionner à des dizaines de GHz, mais ils souffrent aussi de problèmes tels que la mise au point de circuits GaAs pour le [Cray 3](http://en.wikipedia.org/wiki/Cray-3) a contribué à la faillite de l'entreprise Cray research.
+Pour contourner les difficultés rencontrées avec l'augmentation des fréquences, on a parfois proposé des ruptures technologiques assez radicales. La plus ancienne et la moins radicale concernait l'utilisation d'[arséniure de gallium](w:) à place du silicium. En principe, les transistors à GaAs sont beaucoup plus rapides que ceux au silicium et auraient permis de fonctionner à des dizaines de GHz, mais ils souffrent aussi de problèmes tels que la mise au point de circuits GaAs pour le [Cray 3](w:en:Cray-3) a contribué à la faillite de l'entreprise Cray research.
 
 L'optique est aussi souvent citée comme une technologie de substitution possible à l'électronique. Certains circuits optiques spécialisés très rapides ont été réalisés, mais rien qui ne puisse prétendre concurrencer un ordinateur actuel.
 
@@ -76,7 +76,7 @@ Les GPU ne sont cependant pas (encore?) capable de faire fonctionner des program
 
 #### Vers un mix
 
-[![](images/957db4c33a0256c91cc0ac198b43d685.jpg)](/wp-content/uploads/HLIC/957db4c33a0256c91cc0ac198b43d685.jpg)Un des processeurs les plus puissants actuellement est le "[Cell](http://fr.wikipedia.org/wiki/Cell_\(processeur\))" d'IBM qui équipe la console PlayStation 3 (voir [ici](/2007/11/27/le-top-500-des-supercalculateurs/)) Il contient 1 coeur de processeur "classique" et 8 petits coeurs "SPE" plus inspirés de ce que l'on trouve dans les GPU. Le coeur classique fournit 20 GFlops avec des nombres en double précision, les 8 "SPE"s montent à 200 GFlop en simple précision, suffisante pour beaucoup d'applications
+[![](images/957db4c33a0256c91cc0ac198b43d685.jpg)](/wp-content/uploads/HLIC/957db4c33a0256c91cc0ac198b43d685.jpg)Un des processeurs les plus puissants actuellement est le "[Cell](w:Cell_(processeur))" d'IBM qui équipe la console PlayStation 3 (voir [ici](/2007/11/27/le-top-500-des-supercalculateurs/)) Il contient 1 coeur de processeur "classique" et 8 petits coeurs "SPE" plus inspirés de ce que l'on trouve dans les GPU. Le coeur classique fournit 20 GFlops avec des nombres en double précision, les 8 "SPE"s montent à 200 GFlop en simple précision, suffisante pour beaucoup d'applications
 
 Depuis qu'AMD a racheté ATI et qu'intel s'est mis à (essayer de) faire des processeurs graphiques, il n'y a plus guère de doute : les futurs processeurs combineront la flexibilité des CPU actuels et la puissance brute des GPU, et cette combinaison rendue possible par la Loi de Moore continuera à faire progresser la puissance de nos ordinateurs au rythme immuable du doublement chaque 18 mois encore de nombreuses années.
 
@@ -84,7 +84,7 @@ Depuis qu'AMD a racheté ATI et qu'intel s'est mis à (essayer de) faire des pro
 
 Il y a bien un moment où les limites physiques seront atteintes : un conducteur métallique doit tout de même avoir quelques atomes de diamètre, comme [l'imaginait Richard Feynman il y a 50 ans](/2008/06/13/il-y-a-plein-de-place-en-bas/). Actuellement les processeurs les plus fins ont des "fils" de 45nm, soit environ 200 atomes de large. Admettons qu'on peut les réduire encore d'un facteur 10, ce qui donne une densité 100x plus élevée que l'on atteindra, selon la Loi de Moore dans 13 ans environ. Que faire après ?
 
-La meilleure réponse à cette question que j'aie entendu est celle du prof. [Jean-Daniel Nicoud](http://fr.wikipedia.org/wiki/Jean-Daniel_Nicoud) lors de sa leçon terminale. En substance il disait "jusqu'à maintenant, on ne grave les puces que sur la surface du silicium, sur des fractions de micron d'épaisseur. On pourrait déjà simplement faire de la gravure sur les deux faces du wafer pour doubler le nombre de transistors. Et puis on pourrait faire des couches multiples. Sur une épaisseur de wafer de silicium, disons 1 mm, on a de la place pour 1000 couches de 1 micron, ça laisse encore 20 ans de plus de validité à la loi de Moore."
+La meilleure réponse à cette question que j'aie entendu est celle du prof. [Jean-Daniel Nicoud](w:) lors de sa leçon terminale. En substance il disait "jusqu'à maintenant, on ne grave les puces que sur la surface du silicium, sur des fractions de micron d'épaisseur. On pourrait déjà simplement faire de la gravure sur les deux faces du wafer pour doubler le nombre de transistors. Et puis on pourrait faire des couches multiples. Sur une épaisseur de wafer de silicium, disons 1 mm, on a de la place pour 1000 couches de 1 micron, ça laisse encore 20 ans de plus de validité à la loi de Moore."
 
 On estime que la puissance d'un cerveau humain équivaut à 10 Petaflops, soit la puissance cumulée des 500 plus puissants ordinateurs actuels, qui occument au moins 500 salles actuellement. En 2012, l'ordinateur le plus puissant fournira la même puissance dans une seule salle, et en 2020 environ vous devriez l'avoir sur votre bureau, ou dans la console de jeu familiale. Si les programmeurs travaillent aussi bien que les fabricants de processeurs, peut-être qu'enfin, [60 ans après la vision de Feynman](/2008/06/13/il-y-a-plein-de-place-en-bas/), votre PC saura vous reconnaitre et vous appeler par votre prénom...
 

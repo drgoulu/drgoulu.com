@@ -19,11 +19,11 @@ En recherchant où et quand Einstein avait prévu l'existence des ondes gravitat
 
 En fait, Einstein s'était planté deux ans plus tôt dans un autre article [[3]](#ref-3). Il y avait développé une approximation linéaire de la solution des équations de la relativité générale en considérant la gravitation par analogie avec l'électrodynamique : il considérait alors (comme moi jusqu'à aujourd'hui...) qu'une masse accélérée générait une onde gravitationnelle comme une charge électrique génère une onde électromagnétique.
 
-Ensuite il s'est aperçu que ce n'était pas ça : il faut que "quelque chose tourne". Les ondes gravitationnelles sont produites lorsque le [moment d'inertie](https://fr.wikipedia.org/wiki/moment_d'inertie), ou plus précisément le moment du [quadrupôle gravitationnel](https://en.wikipedia.org/wiki/Quadrupole_formula) qui le généralise, varie brutalement.
+Ensuite il s'est aperçu que ce n'était pas ça : il faut que "quelque chose tourne". Les ondes gravitationnelles sont produites lorsque le [moment d'inertie](w:), ou plus précisément le moment du [quadrupôle gravitationnel](w:en:Quadrupole_formula) qui le généralise, varie brutalement.
 
 Einstein et les autres physiciens ont vite remarqué que l'amplitude de ces ondes, si elles existaient, était extraordinairement faible. A tel point qu'Einstein lui même se mit à douter de leur existence.
 
-En 1935, il soumit à "Physical Review" un article intitulé "Do gravitational waves exist ?" coécrit avec [Nathan Rosen](https://fr.wikipedia.org/wiki/Nathan_Rosen) dans lequel il exposait ce qu'il écrivit à son ami [Max Born](https://fr.wikipedia.org/wiki/Max_Born) [[4]](#ref-4):
+En 1935, il soumit à "Physical Review" un article intitulé "Do gravitational waves exist ?" coécrit avec [Nathan Rosen](w:) dans lequel il exposait ce qu'il écrivit à son ami [Max Born](w:) [[4]](#ref-4):
 
 > Avec un jeune collaborateur, je suis arrivé à un résultat intéressant : les ondes gravitationnelles n'existent pas, bien qu'elles aient été supposées certaines en première approximation. Ceci nous montre que les équations de champ de la relativité générale, non linéaires, peuvent nous en dire plus, ou plutôt nous limiter plus que nous pensions jusqu'ici.
 
@@ -33,7 +33,7 @@ Sur les résultats récents de LIGO je vous recommande:
 
 - [L'article](https://sciencetonnante.wordpress.com/2016/02/12/les-ondes-gravitationnelles/) et [la vidéo](https://www.youtube.com/watch?v=1WKWEbmaN30) de David de Science étonnante
 - L'article de Nicola Twiller dans le New-Yorker " [Gravitational waves exist : here is how scientists finally found them](http://www.newyorker.com/tech/elements/gravitational-waves-exist-heres-how-scientists-finally-found-them)" que David recommande fort justement
-- [L'article d'Eric sur "Ca se passe là-haut"](http://www.ca-se-passe-la-haut.fr/2016/02/ligo-observe-la-fusion-de-deux-trous.html) qui pose le prochain challenge : savoir si les ondes gravitationnelles se propagent à la vitesse de la lumière, ou juste un peu en dessous. Ce qui revient à déterminer si le [graviton](https://fr.wikipedia.org/wiki/graviton) a une (petite) masse, ou pas du tout.
+- [L'article d'Eric sur "Ca se passe là-haut"](http://www.ca-se-passe-la-haut.fr/2016/02/ligo-observe-la-fusion-de-deux-trous.html) qui pose le prochain challenge : savoir si les ondes gravitationnelles se propagent à la vitesse de la lumière, ou juste un peu en dessous. Ce qui revient à déterminer si le [graviton](w:) a une (petite) masse, ou pas du tout.
 
 Pour ma part, j'avoue qu'en écrivant [cet article](/2014/03/22/le-point-sur-les-ondes-gravitationnelles/) il y a pile deux ans, je ne pensais pas qu'on arriverait à détecter des ondes gravitationnelles à la surface de notre planète. Je m'attendais à ce que des instruments affranchis des vibrations parasites de notre environnement soient indispensables. Je me suis trompé.
 

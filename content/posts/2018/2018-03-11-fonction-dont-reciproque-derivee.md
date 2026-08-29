@@ -21,7 +21,7 @@ Par exemple:
 
 Puis il a posé le problème en langage mathématique :
 
-> Soit $f$ une fonction dérivable définie sur un [ouvert](https://fr.wikipedia.org/wiki/Ouvert_(topologie)) $U$ de $\mathbb R$ de [réciproque](https://fr.wikipedia.org/wiki/bijection_réciproque) $g$. Supposons que $g = f’$, on a $f’(f(x)) = x$ pour tout $x\in U$.
+> Soit $f$ une fonction dérivable définie sur un [ouvert](w:Ouvert_(topologie)) $U$ de $\mathbb R$ de [réciproque](w:bijection_réciproque) $g$. Supposons que $g = f’$, on a $f’(f(x)) = x$ pour tout $x\in U$.
 
 En développant [sa réponse](https://fr.quora.com/Est-ce-que-la-d%C3%A9riv%C3%A9e-dune-fonction-peut-%C3%AAtre-sa-r%C3%A9ciproque-Y-a-t-il-un-exemple-simple/answer/Andr%C3%A9-Harnist?share=3a8117ff&srid=3iJbP) il arrive à l'équation que doit satisfaire la fonction $f : x^3 = x^2+f'(f'(x))(f(x)-f'(x))$, mais "ne voit pas trop quelle fonction vérifie ça".
 
@@ -29,7 +29,7 @@ Là dessus [Quentin Canu](https://fr.quora.com/profile/Quentin-Canu) passe la 
 
 $$f(x) = \left(\frac{1}{\varphi}\right)^{\frac{1}{\varphi}} x^\varphi$$
 
-définie de $\mathbb R^+$ dans $\mathbb R^+$, où $\varphi = \frac{1+\sqrt 5}{2}$ est le [fameux](/2016/07/03/nombre-dor-et-abeilles/#.WqUeWOghKCo) [nombre d’or](https://fr.wikipedia.org/wiki/nombre_d’or) !
+définie de $\mathbb R^+$ dans $\mathbb R^+$, où $\varphi = \frac{1+\sqrt 5}{2}$ est le [fameux](/2016/07/03/nombre-dor-et-abeilles/#.WqUeWOghKCo) [nombre d’or](w:) !
 
 On a bien $g(x) = \varphi^{\frac{1}{\varphi^2}} x^{\frac{1}{\varphi}}$, et  $f'(x) = \left(\frac{1}{\varphi}\right)^{\frac{1}{\varphi}}\varphi x^{\varphi-1} = \varphi^{\frac{\varphi-1}{\varphi}} x^{\varphi-1}$
 
@@ -47,7 +47,7 @@ Un autre Quoriste, [Simon Labrunie](https://fr.quora.com/profile/Simon-Labrunie)
 
 On y trouve [une réponse](https://mathoverflow.net/a/256811/88768) de José Hernandez Santiago qui:
 
-1. fournit la référence du problème original : [H. L. Nelson](http://www.ucalgary.ca/lib-old/SpecColl/nelson.htm) "[Problem 2105](https://www.tandfonline.com/doi/abs/10.1080/00029890.1968.11971062) in Elementary Problems", 1968, The American Mathematical Monthly vol: 75(7) page 779 DOI>[10.1080/00029890.1968.11971062](https://doi.org/10.1080/00029890.1968.11971062) . Il semblerait que [The American Mathematical Monthly](https://fr.wikipedia.org/wiki/The_American_Mathematical_Monthly) soit une mine de jolis problèmes de maths depuis quelques décennies...
+1. fournit la référence du problème original : [H. L. Nelson](http://www.ucalgary.ca/lib-old/SpecColl/nelson.htm) "[Problem 2105](https://www.tandfonline.com/doi/abs/10.1080/00029890.1968.11971062) in Elementary Problems", 1968, The American Mathematical Monthly vol: 75(7) page 779 DOI>[10.1080/00029890.1968.11971062](https://doi.org/10.1080/00029890.1968.11971062) . Il semblerait que [The American Mathematical Monthly](w:) soit une mine de jolis problèmes de maths depuis quelques décennies...
 2. démontre qu'il n'y a pas d'autres solutions, mais la démonstration dépasse mon modeste niveau...
 
 Ce n'est pas grâce à cette question que j'ai reçu le badge  "meilleur auteur 2018" sur Quora puisque je n'y ai pas contribué, mais cette petite histoire m'a convaincu que Quora est un site "sain" et constructif. J'y retourne ...

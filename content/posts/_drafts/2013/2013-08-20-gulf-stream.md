@@ -11,11 +11,11 @@ tags:
 coverImage: 478px-Arctic_circle.svg_-1.png
 draft: true
 ---
-Sur cette carte illustrant déjà mon [article sur le cercle polaire](/2013/08/11/combien-dure-un-jour/ "Combien dure un jour") apparaît aussi en rouge [l'isotherme](http://fr.wikipedia.org/wiki/Isotherme_\(ligne\)) de température moyenne de 10°C en juillet qui délimite l'[Arctique](http://fr.wikipedia.org/wiki/Arctique) climatique plutôt que l'Arctique géographique :
+Sur cette carte illustrant déjà mon [article sur le cercle polaire](/2013/08/11/combien-dure-un-jour/ "Combien dure un jour") apparaît aussi en rouge [l'isotherme](w:Isotherme_(ligne)) de température moyenne de 10°C en juillet qui délimite l'[Arctique](w:) climatique plutôt que l'Arctique géographique :
 
 [![Arctique](images/478px-Arctic_circle.svg_-1.png)](http://fr.wikipedia.org/wiki/Arctique)
 
-[http://fr.wikipedia.org/wiki/Oc%C3%A9an\_Arctique](http://fr.wikipedia.org/wiki/Oc%C3%A9an_Arctique)
+[http://fr.wikipedia.org/wiki/Oc%C3%A9an\_Arctique](w:Océan_Arctique)
 
 ![](images/29708513aad7bafc84af200d45efdff6.gif)
 

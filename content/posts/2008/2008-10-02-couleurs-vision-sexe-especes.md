@@ -9,7 +9,7 @@ tags:
 coverImage: "pundamilia_pundamilia3.jpg"
 ---
 
-Les [cichlidés](http://fr.wikipedia.org/wiki/Cichlid%C3%A9s) sont une famille regroupant environ 1200 espèces de poissons d'eau douce aux formes et couleurs très variées, très appréciées des aquariophiles.
+Les [cichlidés](w:) sont une famille regroupant environ 1200 espèces de poissons d'eau douce aux formes et couleurs très variées, très appréciées des aquariophiles.
 
 L'équipe de Ole Seehausen, biologiste à l'Institut de recherche de l'eau [Eawag](http://www.eawag.ch/index) et à l'Université de Berne et vient de publier un article dans "Nature" \[1\] montrant que les femelles de cichlidés du lac Victoria dont les yeux perçoivent mieux le bleu recherchent plutôt des mâles bleus pour l'accouplement, et que les femelles dont les récepteurs sont plus sensibles à la partie rouge du spectre choisissent des mâles arborant une parure nuptiale à dominante rouge.
 

@@ -17,7 +17,7 @@ Après Superman, James Bond et Georges W. Bush, de nouveaux super-héros sont en
 
 N'écoutant que leur courage, les Catastrophysiciens Luis Sancho et Walter Wagner ont pointé leur [Super-Arme](http://www.donotlink.com/cjq5 "http://www.lhcdefense.org/pdf/Sancho%20v%20Doe%20-%20Complaint.pdf") contre les savants fous qui se préparent à donner la Terre à avaler au micro trou noir qu'ils vont produire avec le LHC du CERN.
 
-A l'appui de leur théorie, les amis de Catastrophysiciens citent une référence de poids : [Nostradamus](https://fr.wikipedia.org/wiki/Nostradamus)! Voici le quatrain qui annonce la catastrophe :
+A l'appui de leur théorie, les amis de Catastrophysiciens citent une référence de poids : [Nostradamus](w:)! Voici le quatrain qui annonce la catastrophe :
 
 > Migrés, migrés de Geneue trestous, Saturne d'or en fer se changera, Le contre Raypoz exteriminera tous, Auvant l'aruent le ciel signes fera.
 

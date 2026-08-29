@@ -17,7 +17,7 @@ Bien sur certains rétorqueront que ce brave restaurateur a simplement trouvé l
 
 - La Convention des Droits de l'Homme permet-elle de contourner des lois nationales limitant les libertés ?
 - Qu'est-ce qu'une religion lorsque même la Chiantologie est reconnue comme telle ?
-- Peut-on fixer des limites à la liberté d'expression pour préserver le bien public ? (penser au génial film "[Larry Flynt](http://fr.wikipedia.org/wiki/Larry_Flynt_\(film\))" à ce sujet)
+- Peut-on fixer des limites à la liberté d'expression pour préserver le bien public ? (penser au génial film "[Larry Flynt](w:Larry_Flynt_(film))" à ce sujet)
 - L'Art 18 permet-il d'interdire les minarets (en Suisse), de prier vers La Mecque dans la rue (Italie) ou d'égorger les animaux pour de la viande casher ou hallal?
 
 Sources :

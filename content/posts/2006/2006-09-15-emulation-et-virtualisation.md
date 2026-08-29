@@ -31,7 +31,7 @@ Pour introduire la virtualisation, voyons comment l'arrivée du 80386, le premie
 
 Là, Intel était au moins aussi intéressé que Microsoft à ce que les programmes écrits pour ses processeurs 16 bits précédents continuent à fonctionner.
 
-Intel a donc conçu le ["Mode virtuel 8086"](http://fr.wikipedia.org/wiki/Mode_virtuel_8086) qui permet au 80386 d'exécuter du code 16 bits à pleine vitesse dans des "machines virtuelles" gérée par un système d'exploitation 32 bits comme Windows 95
+Intel a donc conçu le ["Mode virtuel 8086"](w:Mode_virtuel_8086) qui permet au 80386 d'exécuter du code 16 bits à pleine vitesse dans des "machines virtuelles" gérée par un système d'exploitation 32 bits comme Windows 95
 
 Une "machine virtuelle" est "simplement" une zone de la mémoire qui ressemble à la mémoire d'un vieux PC, vue de l'intérieur.
 

@@ -15,7 +15,7 @@ tags:
 coverImage: "35ea4461be469c2aded70dd0548adf561.jpg"
 ---
 
-Votre banquier et les écolos environnementalistes vous le répètent à l'envi : il faut maximiser le rendement. Le moteur pétaradant de votre voiture du millénaire passé a un rendement inférieur à 30% à cause de [Carnot](https://fr.wikipedia.org/wiki/Cycle_de_Carnot), alors que le moteur électrique de votre véhicule du futur est 3x meilleur : 90% de l'énergie électrique qu'on lui donne sert à faire avancer la voiture. Y'a pas photo.
+Votre banquier et les écolos environnementalistes vous le répètent à l'envi : il faut maximiser le rendement. Le moteur pétaradant de votre voiture du millénaire passé a un rendement inférieur à 30% à cause de [Carnot](w:Cycle_de_Carnot), alors que le moteur électrique de votre véhicule du futur est 3x meilleur : 90% de l'énergie électrique qu'on lui donne sert à faire avancer la voiture. Y'a pas photo.
 
 Sauf que.
 
@@ -27,7 +27,7 @@ Ensuite, il ne faut pas oublier des éléments de la chaine : un moteur électri
 
 Mais vous pensiez peut-être produire de l'électricité absolument propre avec  ces toutes nouvelles [cellules photovoltaïques offrant 35.8% de rendement](http://www.techno-science.net/?onglet=news&news=7167) ? Pour les voitures, c'est une [mauvaise idée](/2009/03/04/la-voiture-electrique-ne-sera-pas-solaire/). Mais surtout la Terre tourne et l'éclairement maximal n'a lieu qu'au solstice d'été à midi. Sur un an, la lumière moyenne à nos latitudes n'est que 20% de ce maximum. Rendement total du photovoltaïque : 20% de 35.8% = 7%...  Idem pour l'éolien : la [Limite de Betz](/2008/09/07/energie-hydrolienne/) plafonne le rendement de l'hélice à 60%, mais à un [endroit bien choisi](/2007/08/26/energie-eolienne-et-solaire-a-prix-coutant/), la puissance moyenne du vent n'est que le quart de la puissance max exploitable. Rendement total de l'éolien : 15%.
 
-Les centrales nucléaires ont effectivement un rendement maximal limité à 30% par le [cycle de Carnot](https://fr.wikipedia.org/wiki/cycle_de_Carnot) (plus 70% de chaleur qui pourrait être utilisée en hiver), mais elles fonctionnent 90% du temps.
+Les centrales nucléaires ont effectivement un rendement maximal limité à 30% par le [cycle de Carnot](w:) (plus 70% de chaleur qui pourrait être utilisée en hiver), mais elles fonctionnent 90% du temps.
 
 On pourrait rétorquer que, comme seuls environ 5% des atomes du combustible fissionnent, le rendement électricité produite / énergie potentielle du combustible est un lamentable 1.5% à tout casser. Mais même comme ça, l'électricité nucléaire est 2 à 10 fois meilleure marché que les énergies renouvelables.
 

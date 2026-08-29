@@ -35,22 +35,22 @@ L'hydroélectricité n'est dont pas une alternative parmi d'autres : c'est un é
 
 L'eau de pluie est collectée naturellement dans les bassins versants et concentrée dans des cours d'eau que l'on peut exploiter de deux façons :
 
-- en altitude, on la capte à l'aide de barrages dans des conduites forcées et on l'injecter sous haute pression après une chute de l'ordre de 1000m  sur une [roue Pelton](http://fr.wikipedia.org/wiki/Turbine_Pelton), une antique turbine conçue en 1879 (oui, plus d'un siècle)
-- sur les fleuves, de petits barrages font tomber des masses d'eau de quelques mètres sur des [turbines Francis](http://fr.wikipedia.org/wiki/Turbine_Francis), inventées aussi au XIXème siècle.
+- en altitude, on la capte à l'aide de barrages dans des conduites forcées et on l'injecter sous haute pression après une chute de l'ordre de 1000m  sur une [roue Pelton](w:Turbine_Pelton), une antique turbine conçue en 1879 (oui, plus d'un siècle)
+- sur les fleuves, de petits barrages font tomber des masses d'eau de quelques mètres sur des [turbines Francis](w:Turbine_Francis), inventées aussi au XIXème siècle.
 
 Voici les caractéristiques de ces antiquités comparées à une éolienne et à des cellule photovoltaïques du 21ème siècle, pour ne pas dire du futur (il m'arrive de douter légèrement du progrès, pas vous ? ) :
 
 |  | Pelton | Francis | Eolienne | Photovoltaïque |
 | --- | --- | --- | --- | --- |
 | diamètre | 1-3m | 1-10m | 80m | 144m (16'000 m2) |
-| rendement | 90% | 80 - 95% | max 59% ([limite de Betz](http://fr.wikipedia.org/wiki/Limite_de_Betz)) | 10-40% |
+| rendement | 90% | 80 - 95% | max 59% ([limite de Betz](w:)) | 10-40% |
 | puissance | 60-400 MW | 1 - 100 MW | 2 MW | 2 MW |
 
 Ces chiffres montrent qu'un tout petit potentiel hydroélectrique est équivalent à un énorme potentiel éolien ou solaire grâce à l'effet d'entonnoir naturel décrit plus haut, et à la densité de l'eau.
 
 ### Conclusion:
 
-L'hydroélectricité produit 90% de l'énergie renouvelable de la planète et reste une technologie très compétitive et efficace. Construire des barrages est un travail de titan, avec des retombées humaines et écologiques non négligeables comme on l'a vu d'[Assouan](http://fr.wikipedia.org/wiki/Haut_barrage_d%27Assouan) aux [Trois Gorges](http://fr.wikipedia.org/wiki/Barrage_des_Trois-Gorges), mais il n'existe pas d'autre moyen de produire de l'électricité de façon aussi propre, flexible et efficace.
+L'hydroélectricité produit 90% de l'énergie renouvelable de la planète et reste une technologie très compétitive et efficace. Construire des barrages est un travail de titan, avec des retombées humaines et écologiques non négligeables comme on l'a vu d'[Assouan](w:Haut_barrage_d'Assouan) aux [Trois Gorges](w:Barrage_des_Trois-Gorges), mais il n'existe pas d'autre moyen de produire de l'électricité de façon aussi propre, flexible et efficace.
 
 Le potentiel de cette source d'énergie est très important dans de nombreux pays en développement, notamment en Afrique, où il peut fournir de l'électricité à un prix très bas comparé au solaire qu'on voudrait leur fourguer sous prétexte que là bas il y a du soleil.
 

@@ -11,7 +11,7 @@ tags:
 coverImage: "maxresdefault.jpg"
 ---
 
-[Nicolas Vuignier](http://www.nico.ski/) est un freerider professionnel (suisse) et un inventeur génial : en faisant tournoyer sa caméra autour de lui comme une fronde, il a réussi à réaliser un effet spectaculaire similaire au [bullet time](https://fr.wikipedia.org/wiki/bullet_time) . Séquence émotion :
+[Nicolas Vuignier](http://www.nico.ski/) est un freerider professionnel (suisse) et un inventeur génial : en faisant tournoyer sa caméra autour de lui comme une fronde, il a réussi à réaliser un effet spectaculaire similaire au [bullet time](w:) . Séquence émotion :
 
 {{< youtube id="aqncOP7OzMg" >}}
 

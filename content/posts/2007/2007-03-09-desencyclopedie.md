@@ -13,7 +13,7 @@ coverImage: "ad2321b35cfdee2a8736729eb1c9273b.png"
 
 Merci à Jean-Daniel de m'avoir indiqué la [Désencyclopédie, portail de la désinformation.](http://desencyclopedie.wikia.com/wiki/Accueil)
 
-Ce site hilarant est une parodie de la désormais célèbre [Wikipedia](http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal), une fabuleuse encyclopédie en ligne un peu victime de son succès. A l'origine, l'idée était de laisser tout un chacun contribuer à la Wikipedia, mais des dérapages ont requis d'engager des centaines de personnes pour valider les informations et éviter les conflits...
+Ce site hilarant est une parodie de la désormais célèbre [Wikipedia](w:Wikipédia:Accueil_principal), une fabuleuse encyclopédie en ligne un peu victime de son succès. A l'origine, l'idée était de laisser tout un chacun contribuer à la Wikipedia, mais des dérapages ont requis d'engager des centaines de personnes pour valider les informations et éviter les conflits...
 
 La Désencyclopédie n'est absolument pas touchée par ce problème (pour l'instant...) car elle revendique au nom de l'humour une liberté d'expression totale, donc à des années lumière du "politiquement correct"
 

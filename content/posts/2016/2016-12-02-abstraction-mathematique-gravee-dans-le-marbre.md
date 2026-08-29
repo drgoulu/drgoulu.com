@@ -17,9 +17,9 @@ Urs Würgler, ancien recteur de l'Université de Berne et ou mathématicien est
 
 Mais comme elle ne savait pas ce que ça signifie, j'ai été appelé à la rescousse par maman interposée. Ce fut l'occasion d'une intéressante plongée, ou plutôt ascension dans l'abstraction mathématique.
 
-Au début je me suis dit qu'un problème de [LaTeX](https://fr.wikipedia.org/wiki/LaTeX) avait transformé un symbole bizarre en tofu\*\*, mais même sans ça cette formule ne ressemble pas du tout à une équation d'ingénieur.
+Au début je me suis dit qu'un problème de [LaTeX](w:) avait transformé un symbole bizarre en tofu\*\*, mais même sans ça cette formule ne ressemble pas du tout à une équation d'ingénieur.
 
-En cherchant un peu dans les publications scientifiques d'Urs Würgler, j'ai découvert que sa formule est celle du Théorème 3.1 p. 121 de son (long) article [[1]](#ref-1) qui cause de [K-théorie de Morava](https://en.wikipedia.org/wiki/Morava_K-theory).
+En cherchant un peu dans les publications scientifiques d'Urs Würgler, j'ai découvert que sa formule est celle du Théorème 3.1 p. 121 de son (long) article [[1]](#ref-1) qui cause de [K-théorie de Morava](w:en:Morava_K-theory).
 
 Vous ne savez pas ce que c'est ? Moi non plus. J'ai eu beau parcourir pas mal de pages Wikipédia et d'abstracts d'articles, je n'ai absolument pas réussi à saisir de quoi il s'agissait, sauf qu'apparemment les K(n) de la formule correspondent carrément à des "théories" mathématiques.
 
@@ -28,11 +28,11 @@ Alors je me suis dit que Lê, le jeune et fringant mathématicien de [Science4Al
 > J'ai bien peur que ça me dépasse très, très, très largement. J'estime à des années le temps qu'il me faudrait pour comprendre quelques éléments de cette K-théorie de Morava...  
 > Je crois comprendre que ça a quelque chose à voir avec [cette vidéo Hardcore](https://www.youtube.com/watch?v=yHE4HC4vf3g) que j'ai faite (or cette vidéo fait déjà 1 heure et est Hardcore...).
 
-Je confirme : la vidéo est hardcore. Mais elle vaut le détour ne serait-ce que pour l'enthousiasme légendaire de Lê :-) Et aussi pour cette citation d'[Henri Poincaré](https://fr.wikipedia.org/wiki/Henri_Poincaré) qui y est mentionnée:
+Je confirme : la vidéo est hardcore. Mais elle vaut le détour ne serait-ce que pour l'enthousiasme légendaire de Lê :-) Et aussi pour cette citation d'[Henri Poincaré](w:) qui y est mentionnée:
 
 > ### la mathématique est l'art de donner le même nom à des choses différentes
 
-En effet, ce qui m'a surpris lors de cette immersion en maths inconnues, c'est d'y trouver ça et là des îlots connus au moins par leur nom (nombres premiers, [morphisme](https://fr.wikipedia.org/wiki/morphisme), [géométrie hyperbolique](https://fr.wikipedia.org/wiki/géométrie_hyperbolique)), des récifs aux noms trompeusement rassurants ([cohomologie](https://fr.wikipedia.org/wiki/cohomologie), [suite exacte](https://fr.wikipedia.org/wiki/suite_exacte)) et des monstres comme les [spectres topologiques](https://en.wikipedia.org/wiki/Spectrum_(topology)) .
+En effet, ce qui m'a surpris lors de cette immersion en maths inconnues, c'est d'y trouver ça et là des îlots connus au moins par leur nom (nombres premiers, [morphisme](w:), [géométrie hyperbolique](w:)), des récifs aux noms trompeusement rassurants ([cohomologie](w:), [suite exacte](w:)) et des monstres comme les [spectres topologiques](w:en:Spectrum_(topology)) .
 
 Toutes ces choses semblent donc connectées dans le monde abstrait des mathématiques, mais que vient donc faire la fameuse formule là-dedans ?
 
@@ -50,11 +50,11 @@ A ce stade, je me suis demandé si les maths échappaient désormais à la vulg
 
 Comme j'avais gagné une [toute petite réputation](http://mathoverflow.net/users/88768/dr-goulu) sur MathOverflow grâce à [ma réponse](http://mathoverflow.net/questions/178139/examples-of-unexpected-mathematical-images/233385#233385) sur [le fossé de Sloane](/2011/04/10/le-fosse-de-sloane/), j'y ai posé une question que j'ai intitulée "[Morava k-theories for dummies ?](http://mathoverflow.net/questions/255265/morava-k-theories-for-dummies)". Et à ma grande surprise j'ai reçu des réponses lisibles.
 
-Ce qui m'a été le plus utile est un commentaire de [Denis Nardin](http://mathoverflow.net/users/43054/denis-nardin), doctorant en [topologie algébrique](https://fr.wikipedia.org/wiki/topologie_algébrique) au MIT:
+Ce qui m'a été le plus utile est un commentaire de [Denis Nardin](http://mathoverflow.net/users/43054/denis-nardin), doctorant en [topologie algébrique](w:) au MIT:
 
-> Ici K(n) et B(n) sont des [théories d'homologie](https://fr.wikipedia.org/wiki/Catégorie:Théorie_d'homologie), et la formule dit qu'on peut calculer l'homologie B(n) de X en termes de la K(n)-homologie de X (...). En termes intuitifs, ça dit que la K(n)-homologie donne l'information nécessaire pour aller du niveau n-1 au niveau n dans la tour chromatique. Mais je ne crois pas être capable d'expliquer pourquoi c'est un résultat important sans décrire toute la "chromatic homotopy theory".
+> Ici K(n) et B(n) sont des [théories d'homologie](w:Catégorie:Théorie_d'homologie), et la formule dit qu'on peut calculer l'homologie B(n) de X en termes de la K(n)-homologie de X (...). En termes intuitifs, ça dit que la K(n)-homologie donne l'information nécessaire pour aller du niveau n-1 au niveau n dans la tour chromatique. Mais je ne crois pas être capable d'expliquer pourquoi c'est un résultat important sans décrire toute la "chromatic homotopy theory".
 
-Fort heureusement il y a une [page Wikipedia sur le sujet](https://en.wikipedia.org/wiki/chromatic_homotopy_theory) avec un lien vers [cette page-ci](https://ncatlab.org/nlab/show/chromatic+homotopy+theory) dans laquelle on trouve ce tableau:
+Fort heureusement il y a une [page Wikipedia sur le sujet](w:en:chromatic_homotopy_theory) avec un lien vers [cette page-ci](https://ncatlab.org/nlab/show/chromatic+homotopy+theory) dans laquelle on trouve ce tableau:
 
 | chromatic level | complex oriented cohomology theory | E-∞ ring / A-∞ ring | real oriented cohomology theory |
 | --- | --- | --- | --- |

@@ -13,15 +13,15 @@ coverImage: "euler-level2-2.png"
 
 {{< figure src="images/euler-level2-2.png" >}}
 
-Depuis le temps que je joue avec l'['Encyclopédie en ligne des Suites de Nombres Entiers](https://oeis.org/Seis.html) ([OEIS](https://fr.wikipedia.org/wiki/OEIS)), ça a fini par arriver : j'ai réussi à y ajouter une nouvelle suite,  [A303935](https://oeis.org/A303935) !
+Depuis le temps que je joue avec l'['Encyclopédie en ligne des Suites de Nombres Entiers](https://oeis.org/Seis.html) ([OEIS](w:)), ça a fini par arriver : j'ai réussi à y ajouter une nouvelle suite,  [A303935](https://oeis.org/A303935) !
 
-Tout a commencé avec le [Problème 74 du Project Euler](https://projecteuler.net/problem=74), qui traite de la somme des factorielles des chiffres (dfs) des nombres  ([A061602](https://oeis.org/A061602)). Seuls quatre d'entre eux appelés [factorion](https://fr.wikipedia.org/wiki/factorion) sont égaux à la somme des factorielles de leurs chiffres : 1, 2, 145 et 40585  ([A014080](https://oeis.org/A014080)).
+Tout a commencé avec le [Problème 74 du Project Euler](https://projecteuler.net/problem=74), qui traite de la somme des factorielles des chiffres (dfs) des nombres  ([A061602](https://oeis.org/A061602)). Seuls quatre d'entre eux appelés [factorion](w:) sont égaux à la somme des factorielles de leurs chiffres : 1, 2, 145 et 40585  ([A014080](https://oeis.org/A014080)).
 
 Quelqu'un a prouvé en 2004 \[1\] que l'application répétée de la fonction dfs atteint immanquablement un des 4 factorions ou l'une des trois seules et uniques "boucles" suivantes:
 
 169 → 363601 → 1454 → 169 871 → 45361 → 871 872 → 45362 → 872
 
-Ne restait plus qu'à compter la longueur de l' [orbite](https://fr.wikipedia.org/wiki/Action_de_groupe_(mathématiques)#Orbite) de dfs(n), et c'est précisément ce que liste [A303935](https://oeis.org/A303935), qui n'était pas encore répertoriée dans l'OEIS.
+Ne restait plus qu'à compter la longueur de l' [orbite](w:Action_de_groupe_(mathématiques)#Orbite) de dfs(n), et c'est précisément ce que liste [A303935](https://oeis.org/A303935), qui n'était pas encore répertoriée dans l'OEIS.
 
 ## Publier dans l'OEIS, c'est du sérieux.
 

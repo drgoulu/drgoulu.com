@@ -22,15 +22,15 @@ Les neurosciences étant traitées par des blogueurs bien plus compétents que m
 
 > Tout doit être construit de haut en bas (top-down), sauf la première fois. ([Alan Perlis](/2008/01/21/perlisismes-les-dictons-informatiques-dalan-perlis/))
 
-Dès la fin des années 1950 les chercheurs ont analysé le fonctionnement de neurones vivants [[2]](#ref-2) et développé des modèles très simplifiés de neurones ayant débouché sur les [réseaux de neurones artificiels](https://fr.wikipedia.org/wiki/réseau_de_neurones_artificiels) très à la mode dans les année 1990 et qui ont permis de grand progrès dans des applications comme la [reconnaissance optique de caractères](https://fr.wikipedia.org/wiki/reconnaissance_optique_de_caractères) notamment.
+Dès la fin des années 1950 les chercheurs ont analysé le fonctionnement de neurones vivants [[2]](#ref-2) et développé des modèles très simplifiés de neurones ayant débouché sur les [réseaux de neurones artificiels](w:réseau_de_neurones_artificiels) très à la mode dans les année 1990 et qui ont permis de grand progrès dans des applications comme la [reconnaissance optique de caractères](w:) notamment.
 
-Les modèles actuels de neurones isolés sont beaucoup plus complexes et incorporent des modèles moléculaires comme le [canal sodium](https://fr.wikipedia.org/wiki/canal_sodium)  [[3]](#ref-3) ou les [neurotransmetteurs](https://fr.wikipedia.org/wiki/neurotransmetteurs). La simulation en temps réel d'un seul neurone exige une mémoire d'environ 1 Megabyte pour stocker toutes les variables qui définissent l' "état" du neurone à chaque instant, et une puissance de calcul de 1 Giga[FLOPS](https://fr.wikipedia.org/wiki/FLOPS), ce qui correspond:
+Les modèles actuels de neurones isolés sont beaucoup plus complexes et incorporent des modèles moléculaires comme le [canal sodium](w:)  [[3]](#ref-3) ou les [neurotransmetteurs](w:). La simulation en temps réel d'un seul neurone exige une mémoire d'environ 1 Megabyte pour stocker toutes les variables qui définissent l' "état" du neurone à chaque instant, et une puissance de calcul de 1 Giga[FLOPS](w:), ce qui correspond:
 
-- au super ordinateur [Cray-2](https://fr.wikipedia.org/wiki/Cray_(entreprise)) de 1985
-- à un PC [Pentium III](https://fr.wikipedia.org/wiki/Pentium_III) de 1999
+- au super ordinateur [Cray-2](w:Cray_(entreprise)) de 1985
+- à un PC [Pentium III](w:) de 1999
 - ([presque](http://www.walkingrandomly.com/?p=3079)) un bon smartphone actuel
 
-Depuis 2006, le [projet "Blue Brain"](http://www.artificialbrains.com/blue-brain-project) de Markram a simulé non seulement le fonctionnement, mais aussi la croissance d'une [colonne néocorticale](https://fr.wikipedia.org/wiki/néocortex) (NCC), une structure d'environ 1mm³ comprenant environ 10'000 neurones fortement interconnectés, répartis sur 6 couches. Un superordinateur [BlueGene](https://fr.wikipedia.org/wiki/BlueGene) doté de 8192 processeurs pour un total d'environ 20 TeraFLOPS a été utilisé, ce qui fonde l'hypothèse de l'équipe selon laquelle la puissance et la mémoire nécessaires à la simulation augmentent linéairement avec le nombre de neurones, et heureusement pas avec le nombre de [synapses](https://fr.wikipedia.org/wiki/synapse) par exemple.
+Depuis 2006, le [projet "Blue Brain"](http://www.artificialbrains.com/blue-brain-project) de Markram a simulé non seulement le fonctionnement, mais aussi la croissance d'une [colonne néocorticale](w:néocortex) (NCC), une structure d'environ 1mm³ comprenant environ 10'000 neurones fortement interconnectés, répartis sur 6 couches. Un superordinateur [BlueGene](w:) doté de 8192 processeurs pour un total d'environ 20 TeraFLOPS a été utilisé, ce qui fonde l'hypothèse de l'équipe selon laquelle la puissance et la mémoire nécessaires à la simulation augmentent linéairement avec le nombre de neurones, et heureusement pas avec le nombre de [synapses](w:synapse) par exemple.
 
 ![](images/6ea028259540cc1ff30e911eaa6eb4db.jpg)En extrapolant cette tendance linéaire, Markram estime qu'un ordinateur d'1 ExaFLOPS (un milliard de milliards d'opérations par seconde) doté de 100 PetaBytes de mémoire devrait être capable de simuler un cerveau humain contenant 100 milliards de neurones environ. Et en extrapolant aussi la [remarquablement exponentielle loi de Moore](/2008/06/19/moore-toujours/), un tel superordinateur sera disponible en 2018.
 
@@ -40,15 +40,15 @@ D'autres [projets de cerveaux artificiels](http://www.artificialbrains.com/) com
 
 Le lecteur attentif aura remarqué qu'on a "perdu" deux ordres de grandeur en route : 100 milliards de neurones x 1 GigaFLOPS par neurone devraient donner 100 ExaFLOPS, pas 1. L'idée est que les étapes intermédiaires, mesocircuit, puis cerveau de rat, permettront de simplifier la simulation des neurones individuels, voire de la remplacer par un modèle des NCC. Markram considère en effet qu'une NCC est "est au cerveau ce qu'un microprocesseur est à un ordinateur" [[1]](#ref-1). Si c'est le cas, alors un cerveau serait l'équivalent d'environ 10 millions de processeurs de 100 GigaFLOPS chacun "seulement" soit un bon PC actuelCependant, les marges d'erreur sont considérables comme on le voit dans la première figure:
 
-- il faudra peut-être une puissance 10x supérieure pour tenir compte de la [plasticité synaptique](https://fr.wikipedia.org/wiki/plasticité_synaptique)
-- un autre facteur 10 pour tenir compte des [cellules gliales](https://fr.wikipedia.org/wiki/cellule_gliale)
-- mais surtout un facteur pouvant atteindre 1000 pour simuler la croissance des neurones, leur [morphogenèse](https://fr.wikipedia.org/wiki/morphogenèse) par [réaction-diffusion](https://fr.wikipedia.org/wiki/réaction-diffusion)
+- il faudra peut-être une puissance 10x supérieure pour tenir compte de la [plasticité synaptique](w:)
+- un autre facteur 10 pour tenir compte des [cellules gliales](w:cellule_gliale)
+- mais surtout un facteur pouvant atteindre 1000 pour simuler la croissance des neurones, leur [morphogenèse](w:) par [réaction-diffusion](w:)
 
 De plus, l'approche du "Human Brain Project" consiste à initialiser le simulateur avec un cerveau à l'état embryonnaire, puis à le "laisser pousser" en évoluant dans un monde virtuel sur lequel il peut agir par l'intermédiaire d'un corps virtuel [[1]](#ref-1), [[4]](#ref-4). Il faudra donc des années pour que la simulation converge vers un cerveau adulte si on ne parvient qu'à une simulation "temps réel". Pour pouvoir effectuer plusieurs simulations de croissance en un délai raisonnable (en "tuant" le cerveau à la fin...), il faudrait là encore gagner plusieurs ordres de grandeur.
 
-Cette approche pourrait nécessiter des millions d'ExaFLOPS (je viens d'apprendre que ça s'appelle des yotaFLOPS),  qui ne seraient disponibles que vers 2040. Ceci justifie le scepticisme de certains [[9]](#ref-9) et motive des projets concurrents qui pourraient se révéler complémentaires. Ainsi Obama vient de décider d'injecter 3 milliards de dollars sur 10 ans dans le [Brain Activity Map Project](https://fr.wikipedia.org/wiki/Brain_Activity_Map_Project) qui consiste essentiellement à cartographier le cerveau en activité au niveau cellulaire.
+Cette approche pourrait nécessiter des millions d'ExaFLOPS (je viens d'apprendre que ça s'appelle des yotaFLOPS),  qui ne seraient disponibles que vers 2040. Ceci justifie le scepticisme de certains [[9]](#ref-9) et motive des projets concurrents qui pourraient se révéler complémentaires. Ainsi Obama vient de décider d'injecter 3 milliards de dollars sur 10 ans dans le [Brain Activity Map Project](w:) qui consiste essentiellement à cartographier le cerveau en activité au niveau cellulaire.
 
-Si des appareils d'imagerie médicale devenaient capables de capturer les quelques 100 PetaBytes d'information correspondant à l'état instantané d'un cerveau vivant, on pourrait imaginer un [téléchargement de l'esprit](https://fr.wikipedia.org/wiki/téléchargement_de_l'esprit) vers un "Personal Cerveau" de bureau d'1 ExaFLOPS dès 2032 [[10]](#ref-10).
+Si des appareils d'imagerie médicale devenaient capables de capturer les quelques 100 PetaBytes d'information correspondant à l'état instantané d'un cerveau vivant, on pourrait imaginer un [téléchargement de l'esprit](w:) vers un "Personal Cerveau" de bureau d'1 ExaFLOPS dès 2032 [[10]](#ref-10).
 
  
 

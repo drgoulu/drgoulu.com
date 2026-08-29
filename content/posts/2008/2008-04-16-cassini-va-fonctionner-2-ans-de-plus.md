@@ -19,7 +19,7 @@ Sa mission initiale s'achève cet été, mais elle est en tellement bon état qu
 
 Après les océans, les volcans et les geysers, les chaines montagneuses et les cratères bizarres déjà trouvés sur ces astres si lointains, quelle merveilles nous surprendront encore ? Une chose est sure, j'en parlerai ici.
 
-Une info intéressante sur Cassini : si elle fonctionne encore, c'est entre autres grâce au [générateur thermoélectrique à radioisotope](http://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rateur_thermo%C3%A9lectrique_%C3%A0_radioisotope) qui produit de l'électricité à partir de la radioactivité "naturelle" du plutonium. Le principe est simple, et l'appareil aussi : c'est un gros thermocouple chauffé par le plutonium à un bout et refroidi (activement ?) à l'autre.
+Une info intéressante sur Cassini : si elle fonctionne encore, c'est entre autres grâce au [générateur thermoélectrique à radioisotope](w:) qui produit de l'électricité à partir de la radioactivité "naturelle" du plutonium. Le principe est simple, et l'appareil aussi : c'est un gros thermocouple chauffé par le plutonium à un bout et refroidi (activement ?) à l'autre.
 
 ![](images/fa5c9dbf427f3420cceb9f5566b91e01.jpg)
 

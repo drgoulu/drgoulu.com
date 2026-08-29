@@ -20,7 +20,7 @@ aliases:
 
 Assisté l'autre jour à la conférence "[Crée ou crève! : Inutile d'être génial ou savant pour être innovant!](http://www.rezonance.ch/rezo/classes/ft-first-tuesday/geneve/2012-06-19/)" d'Elmar Mock consacrée à l' "innovation de rupture".
 
-Elmar Mock est l'un des inventeurs de la [Swatch](http://fr.wikipedia.org/wiki/Swatch_\(marque\)) [[1]](#ref-1), une montre en rupture totale avec l'horlogerie suisse des années 1980. Comme il l'explique dans [la vidéo](https://vimeo.com/44659294) par une analogie assez grivoise pour capter l'attention (autour de 10:00), cette rupture a plutôt été la conséquence d'une avalanche de problèmes que le résultat d'une [vision géniale](/2007/05/15/montre-mecanique-contre-quartz/).
+Elmar Mock est l'un des inventeurs de la [Swatch](w:Swatch_(marque)) [[1]](#ref-1), une montre en rupture totale avec l'horlogerie suisse des années 1980. Comme il l'explique dans [la vidéo](https://vimeo.com/44659294) par une analogie assez grivoise pour capter l'attention (autour de 10:00), cette rupture a plutôt été la conséquence d'une avalanche de problèmes que le résultat d'une [vision géniale](/2007/05/15/montre-mecanique-contre-quartz/).
 
 Assez marqué par cette expérience pour en parler encore avec émotion 30 ans plus tard, Elmar Mock est devenu un "serial innovateur" et a fondé l'entreprise [Creaholic](http://creaholic.com/) pour aider les entreprises (suisses) sur le dur chemin de l'innovation (où elles sont plutôt bien placées [[2]](#ref-2))
 
@@ -37,7 +37,7 @@ Selon Mock, l'innovation est essentielle pour préserver l'emploi, car le proces
 > - l'innovation ne fait de sens que quand elle apparaît sur le marché. Un produit qui n'arrive pas sur le marché a peut-être été une invention, ou une bonne idée, mais en tout cas pas une innovation
 > - vous n'innovez pas sans le boss : les sociétés sont organisées pour la rénovation, pas pour l'innovation
 
-Comme le suggère le titre de son nouveau livre [[3]](#ref-3), Mock pense que l'innovation peut être répétée, en développant une culture d'entreprise de l'innovation, en favorisant l'émulation, et en utilisant des outils tels que la [théorie C-K](http://en.wikipedia.org/wiki/C-K_theory) [[4]](#ref-4) un formalisme développé à l'Ecole des Mines pour favoriser la combinaison des concepts et des connaissances.
+Comme le suggère le titre de son nouveau livre [[3]](#ref-3), Mock pense que l'innovation peut être répétée, en développant une culture d'entreprise de l'innovation, en favorisant l'émulation, et en utilisant des outils tels que la [théorie C-K](w:en:C-K_theory) [[4]](#ref-4) un formalisme développé à l'Ecole des Mines pour favoriser la combinaison des concepts et des connaissances.
 
 Si vous vous intéressez à la naissance de la Swatch, consacrez une demi-heure à regarder [la vidéo](https://vimeo.com/44659294), sinon parcourez au moins les slides de Mock, presque aussi minimalistes que ceux de Steve Jobs, mais beaucoup plus provocateurs :
 
@@ -49,9 +49,9 @@ Si vous vous intéressez à la naissance de la Swatch, consacrez une demi-heure 
 
 ### Quelques notes personnelles sur l'innovation
 
-Certains ressentent que l'économie "crée de nouveaux besoins", ce que Galbraith a appelé [la "filière inversée"](http://fr.wikipedia.org/wiki/John_Kenneth_Galbraith#La_fili.C3.A8re_invers.C3.A9e). Je me demande si ce n'est pas un effet de l'innovation (on se souvient tous de l'iPad), alors que la "rénovation" pourtant beaucoup plus fréquente passe quasi inaperçue (déjà l'iPad 4...)
+Certains ressentent que l'économie "crée de nouveaux besoins", ce que Galbraith a appelé [la "filière inversée"](w:John_Kenneth_Galbraith#La_fili.C3.A8re_invers.C3.A9e). Je me demande si ce n'est pas un effet de l'innovation (on se souvient tous de l'iPad), alors que la "rénovation" pourtant beaucoup plus fréquente passe quasi inaperçue (déjà l'iPad 4...)
 
-> "Si j’avais demandé à mes clients ce qu’ils auraient voulu, ils auraient dit : un cheval plus rapide." ([Henry Ford](http://fr.wikipedia.org/wiki/Henry_Ford))
+> "Si j’avais demandé à mes clients ce qu’ils auraient voulu, ils auraient dit : un cheval plus rapide." ([Henry Ford](w:))
 
 Finalement, où est la "rupture" de la Swatch ? le prix ? l'irréparabilité ? C'est plus probablement le fait de le positionner comme un article de mode. Mais alors, Mock a-t-il créé cette rupture, ou ne l'a-t-il pas plutôt provoquée en inventant une montre invendable ?
 
@@ -61,7 +61,7 @@ N'est-il pas plus "facile" d'innover dans une entreprise, voire une industrie en
 
 Le mot "innovation" évoque pour moi encore une chaîne de ["grands magasins" de Suisse Romande](http://www.notrehistoire.ch/group/nos-grands-magasins/), aujourd'hui disparue. Dès 1935, le mot "innovation" trônait en lettres majuscules au centre de plusieurs villes. Mes parents appelait même "Sainte Innovation" un certain jour férié dans notre Valais catholique et consacré aux gros achats annuels chez nos voisins protestants.
 
-A l'époque, les enseignes affichaient "tailleur", "cordonnier" ou "fruits et légumes", et depuis peu "Coop" ou "[Migros](http://fr.wikipedia.org/wiki/Migros)", et voilà des magasins qui vendaient de l' innovation, un pur produit du XXème siècle. Quel nom de chaîne de magasins caractérise le mieux le XXIème ?  "magasin de pommes Apple Store" ? "eBay"  ?
+A l'époque, les enseignes affichaient "tailleur", "cordonnier" ou "fruits et légumes", et depuis peu "Coop" ou "[Migros](w:)", et voilà des magasins qui vendaient de l' innovation, un pur produit du XXème siècle. Quel nom de chaîne de magasins caractérise le mieux le XXIème ?  "magasin de pommes Apple Store" ? "eBay"  ?
 
 \* En fait, le jour de la Sainte Innovation n'était autre que l' Immaculée Conception. Tout un symbole :-)
 

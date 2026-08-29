@@ -19,7 +19,7 @@ Dès que l'on parle du [Big Bang à l'origine de l'Univers](/2008/05/30/le-big-b
 
 ### Introduction
 
-Commençons par un sujet qui peut paraître éloigné. Notre intuition en regardant un thermomètre est qu'il peut toujours faire plus froid : 20°C, 0°, -20°, -100°, -300°C ... Et bien non. Il ne peut pas faire -300°C, parce que [la température est en fait une mesure de l'agitation des molécules](http://fr.wikipedia.org/wiki/Temp%C3%A9rature), et qu'à une certaine température appelée "zéro absolu" (-273.15°C), les molécules ou atomes ne bougent absolument plus du tout. Une fois qu'on a compris que la température mesure en fait une sorte de vitesse, il devient évident qu'il ne peut pas faire plus froid que le zéro absolu. En serait-il de même avec le temps ? Si le temps que l'on mesure en secondes était en fait relié à une autre notion qui aurait un "zéro absolu" au moment du Big Bang, la question de savoir ce qu'il y avait "avant" n'aurait effectivement pas de sens.
+Commençons par un sujet qui peut paraître éloigné. Notre intuition en regardant un thermomètre est qu'il peut toujours faire plus froid : 20°C, 0°, -20°, -100°, -300°C ... Et bien non. Il ne peut pas faire -300°C, parce que [la température est en fait une mesure de l'agitation des molécules](w:Température), et qu'à une certaine température appelée "zéro absolu" (-273.15°C), les molécules ou atomes ne bougent absolument plus du tout. Une fois qu'on a compris que la température mesure en fait une sorte de vitesse, il devient évident qu'il ne peut pas faire plus froid que le zéro absolu. En serait-il de même avec le temps ? Si le temps que l'on mesure en secondes était en fait relié à une autre notion qui aurait un "zéro absolu" au moment du Big Bang, la question de savoir ce qu'il y avait "avant" n'aurait effectivement pas de sens.
 
 ### La 4ème dimension
 
@@ -43,7 +43,7 @@ C'est mieux, ça sonne bien physique. Mais [il n'existe pas d'atomes de césium 
 
 Dans la purée de particules et de rayonnements qui composaient l'Univers pendant la première "minute" après le Big Bang, il n'existait aucun moyen de mesurer le temps. Aucun système oscillant de façon stable en conservant de l'énergie, sauf peut-être des photons dont la fréquence variait rapidement avec la dilatation de l'Univers, à condition qu'ils aient la chance de parcourir plus d'une longueur d'onde avant de heurter une autre particule. Pendant une minute, l'Univers a entièrement été gouverné par le Hasard Quantique. Même Dieu n'aurait pas pu chronométrer une seconde de cette minute là.
 
-Et encore avant cela, avant l'inflation et pire encore avant le [Temps de Planck](http://fr.wikipedia.org/wiki/Temps_de_Planck) à 10\-44 secondes, on a strictement aucune idée de ce que contenait l'Univers à part de "l'énergie pure".
+Et encore avant cela, avant l'inflation et pire encore avant le [Temps de Planck](w:) à 10\-44 secondes, on a strictement aucune idée de ce que contenait l'Univers à part de "l'énergie pure".
 
 On a donc un gros problème : le Big Bang est décrit en utilisant la notion actuelle de "seconde", mais on n'a peut être pas le droit de le faire car il n'existe pas de "Grand Métronome Absolu".
 
@@ -51,7 +51,7 @@ On a donc un gros problème : le Big Bang est décrit en utilisant la notion act
 
 Cependant, il existe un point commun entre toutes les mesures passées et actuelles du temps, c'est l'énergie : toutes les horloges sont basées sur une oscillation périodique d'un système contenant de l'énergie. Que ce soit la rotation de la Terre, le mouvement d'un balancier muni d'un [ressort spiral](/2005/12/12/calcul-dun-ressort-spiral-dhorlogerie/) ou la fréquence d'un rayonnement électromagnétique, notre mesure du temps est étroitement liée à la notion d'énergie.
 
-La théorie du Big Bang lie étroitement le temps et l'énergie au "début" de l'Univers, comme on le voit sur la fig.2. Les particules sont apparues à 10\-10 s, quand leur énergie correspondait à 10² Giga [electronVolt](http://fr.wikipedia.org/wiki/M%C3%A9ga%C3%A9lectron-volt) (GeV). Puis elles se sont agglomérées en atomes à 1013 secondes, quand leur énergie a baissé à 10\-11 GeV, et actuellement il est exactement  2,3.10\-13 GeV après le Big Bang.
+La théorie du Big Bang lie étroitement le temps et l'énergie au "début" de l'Univers, comme on le voit sur la fig.2. Les particules sont apparues à 10\-10 s, quand leur énergie correspondait à 10² Giga [electronVolt](w:Mégaélectron-volt) (GeV). Puis elles se sont agglomérées en atomes à 1013 secondes, quand leur énergie a baissé à 10\-11 GeV, et actuellement il est exactement  2,3.10\-13 GeV après le Big Bang.
 
 ### Chaud le Big Bang, chaud !
 
@@ -63,7 +63,7 @@ L'idée selon laquelle le Big Bang a eu lieu à un "instant" précis est le rés
 
 ### Sources:
 
-1. ["seconde" sur Wikipedia](http://fr.wikipedia.org/wiki/Seconde_\(temps\))
-2. ["Big Bang" sur Wikipedia](http://fr.wikipedia.org/wiki/Big_Bang)
+1. ["seconde" sur Wikipedia](w:Seconde_(temps))
+2. ["Big Bang" sur Wikipedia](w:Big_Bang)
 3. Etienne Klein, "[Le temps de la physique](http://basarab.nicolescu.perso.sfr.fr/ciret/bulletin/b12/b12c5.htm)", dans {{< openbook booknumber="ISBN:9782226096111" templatenumber="5" >}}
 4. "[The Observable Universe](http://universe-review.ca/F02-cosmicbg.htm)"

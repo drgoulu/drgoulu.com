@@ -23,7 +23,7 @@ Pierre-Alain "[Panoramix](http://www.wpanorama.com/)" m'a soumis l'intéressante
 
 Comme je n'en avais pas, j'ai cherché et trouvé une première [réponse en français](http://fr.answers.yahoo.com/question/index?qid=20090302054313AAeL2wd) qui incrimine le roulement à billes, mais qui ne m'a pas convaincu (en fait elle est fausse). Et puis j'ai trouvé une [réponse circonstanciée sur Everyday Scientist](http://blog.everydayscientist.com/?p=2655) que je vous traduis ci-dessous: La bonne réponse m'a stupéfait, probablement parce que je ne suis pas ingénieur en mécanique.
 
-Ce n'est pas en raison du [couple](https://fr.wikipedia.org/wiki/Couple_(physique)) de desserrage causé par le frottement dans les roulements à billes. C'est à cause d'un effet qui travaille en sens contraire (dans ce cas) : la [précession mécanique](http://en.wikipedia.org/wiki/Precession_\(mechanical\)):
+Ce n'est pas en raison du [couple](w:Couple_(physique)) de desserrage causé par le frottement dans les roulements à billes. C'est à cause d'un effet qui travaille en sens contraire (dans ce cas) : la [précession mécanique](w:en:Precession_(mechanical)):
 
 {{< figure src="images/c833a170d629dc7ab5c81f4a3cc43bb0.gif" alt="Précession mécanique (cliquer pour la Wikipédia)" caption="Précession mécanique (cliquer pour la Wikipédia)" link="http://en.wikipedia.org/wiki/Precession_%28mechanical%29" width="220" >}}
 

@@ -21,7 +21,7 @@ Le récent rapport de l'OCDE "Croissance et inégalités : Distribution des reve
 Il existe plusieurs manières de mesurer les inégalités [[2]](#ref-2), les plus utilisées sont :
 
 - le rapport interquantile : on compare la moyenne des 20% plus hauts revenus à celle des 20% plus bas. Ce rapport est très intuitivement compréhensible, mais ne dit rien de ce qui se passe pour 60% de la population considérée. On trouve  aussi des rapports interdéciles, basés sur le rapport entre des tranches de 10% de la population.
-- les indices de Theil et de Hoover ont une magnifique [description mathématique totalement incompréhensible](http://fr.wikipedia.org/wiki/Indice_de_Theil) pour le public.
+- les indices de Theil et de Hoover ont une magnifique [description mathématique totalement incompréhensible](w:Indice_de_Theil) pour le public.
 - L'indice de Gini traduit de manière simple [[3]](#ref-3) la distribution des revenus de toute une population en un seul nombre compris entre 0 (= égalité parfaite) et 1 (=1 seule personne touche 100% du revenu). On trouve parfois des "coefficients de Gini" variant de 0 à 100.
 
 L'indice de Gini est l'indicateur adopté par la plupart des organisations nationales et internationales. Voici par exemple les indices de Gini des pays membres de l'OCDE
@@ -61,7 +61,7 @@ Les données de l'OCDE [[4]](#ref-4) permettent d'aborder une question soulevée
 ### Références
 
 1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:9789264044203" templatenumber="5" >}} ([document complet](http://medias.lemonde.fr/mmpub/edt/doc/20081021/1109272_croissanceetinegalites.pdf), [résumé de 10 pages en ligne](http://www.oecd.org/dataoecd/48/9/41530189.pdf))
-2. <span id="ref-2"></span>"[Inégalités de revenu](http://fr.wikipedia.org/wiki/Inégalités_de_revenu)" sur Wikipedia
+2. <span id="ref-2"></span>"[Inégalités de revenu](w:)" sur Wikipedia
 3. <span id="ref-3"></span>Daniel Martin "[Inégalités : courbe de Lorenz, indice de Gini](http://www.danielmartin.eu/Cours/Gini.htm)", Medias et Democratie
 4. <span id="ref-4"></span>Version [Google Docs](https://docs.google.com/spreadsheet/pub?hl=fr&hl=fr&key=0Al_D4zS2T4QodFpxYzNMZnktNDdwcEwzYnoxT3cycHc&single=true&gid=1&output=html) de la [feuille Excel de l'OCDE](http://statlinks.oecdcode.org/812008052P1G001.XLS)
 5. <span id="ref-5"></span>Jean-Claude Péclet "[La chasse aux inégalités est relancée](http://letemps.ch/Page/SysConfig/WebPortal/letemps/jsp/paywall/error/usersession.jsp;jsessionid=7328634BAE32168A40DC9DDB4595ABDE)", Le Temps, Jeudi 19 mars 2009

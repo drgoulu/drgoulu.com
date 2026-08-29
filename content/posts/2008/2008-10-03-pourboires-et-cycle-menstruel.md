@@ -17,7 +17,7 @@ Comme ["Autour des Sciences" a été le plus rapide](http://sciences.blog.lemond
 
 {{< figure src="images/9a4b749b91985103ade9dc84ffb1c481.jpg" alt="strip-tease par puss-in-boots sur flickr" caption="&quot;strip-tease&quot; par puss-in-boots sur flickr" link="http://www.flickr.com/photos/puss_in_boots/142728242/" width="240" >}}
 
-> Pour voir si vraiment l'[œstrus](http://fr.wikipedia.org/wiki/Oestrus) a été «perdu» au cours de l'évolution humaine (comme des chercheurs le prétendent souvent), nous avons examiné les effets du cycle ovulatoire sur les pourboires de strip-teaseuses professionnelles travaillant en night-clubs.
+> Pour voir si vraiment l'[œstrus](w:Oestrus) a été «perdu» au cours de l'évolution humaine (comme des chercheurs le prétendent souvent), nous avons examiné les effets du cycle ovulatoire sur les pourboires de strip-teaseuses professionnelles travaillant en night-clubs.
 > 
 > Dix-huit danseuses ont enregistré leurs périodes menstruelles, heures de travail, et pourboires pendant 60 jours sur le site Web de l'étude. Une analyse statistique par modèle mixte (? mixed-model ?) de 296 périodes de travail (soit environ 5300 danses) a montré une interaction entre la phase du cycle et l'utilisation de contraception hormonale.
 > 

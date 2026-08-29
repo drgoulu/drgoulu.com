@@ -12,7 +12,7 @@ coverImage: "TrisectionAngle_1000.gif"
 
 {{< figure src="images/TrisectionAngle_1000.gif" >}}
 
-La [trisection de l'angles](https://fr.wikipedia.org/wiki/trisection_de_l'angles) est un de ces problèmes qui a hanté les mathématiciens, géomètre et logiciens depuis des siècles, vingt en l’occurrence : pourquoi diable est-il si difficile de diviser un angle en trois parties égales en utilisant seulement une règle (non graduée) et un compas ?
+La [trisection de l'angles](w:) est un de ces problèmes qui a hanté les mathématiciens, géomètre et logiciens depuis des siècles, vingt en l’occurrence : pourquoi diable est-il si difficile de diviser un angle en trois parties égales en utilisant seulement une règle (non graduée) et un compas ?
 
 Un certain JJ m'a adressé
 

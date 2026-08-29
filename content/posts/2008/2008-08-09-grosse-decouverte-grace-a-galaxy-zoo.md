@@ -27,7 +27,7 @@ Le "Hanny's Voorwerp" a reçu les honneurs de la NASA lorsque le grand télésco
 
 ![](images/7a406ca89ba6663cc260c46920efc777.jpg)
 
-L'hypothèse actuelle est que le Hanny's Voorwerp est une gigantesque "[nébuleuse par réflexion](http://fr.wikipedia.org/wiki/N%C3%A9buleuse_par_r%C3%A9flexion)", un nuage de gaz éclairé par le [noyau actif de la galaxie](/2008/04/18/ca-cest-du-trou-noir-du-vrai/) (qu'on appelle alors un quasar), mais qui serait désormais "éteint" depuis 100'000 ans. Si c'est le cas, il pourrait y avoir beaucoup de ces nuages de gaz extragalactique, mais ils ne deviendraient visibles que dans des conditions très particulières.
+L'hypothèse actuelle est que le Hanny's Voorwerp est une gigantesque "[nébuleuse par réflexion](w:)", un nuage de gaz éclairé par le [noyau actif de la galaxie](/2008/04/18/ca-cest-du-trou-noir-du-vrai/) (qu'on appelle alors un quasar), mais qui serait désormais "éteint" depuis 100'000 ans. Si c'est le cas, il pourrait y avoir beaucoup de ces nuages de gaz extragalactique, mais ils ne deviendraient visibles que dans des conditions très particulières.
 
 Mais quel phénomène a pu créer un nuage si énorme, et qu'est-ce qui lui donne cette forme étrange et notamment ce trou entre les "bras de la grenouille" ? Les supporters de la matière noire et de l'énergie sombre sont sur le coup, et peut-être que Hanny Van Arkel restera dans la postérité comme la découvreuse d'une nouvelle classe d'objets célestes.
 

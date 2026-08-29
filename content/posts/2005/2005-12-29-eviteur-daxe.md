@@ -10,7 +10,7 @@ tags:
 coverImage: "849e60a7d99c30c2af0480c7c5b49d71-1.jpg"
 ---
 
-L' "éviteur d’axe" ("[Shaft Passer](http://en.wikipedia.org/wiki/Shaft_passer)" en anglais) décrit par Richard Feynman dans son livre "Vous voulez rire, Mr Feynman" est il réel, ou une blague de plus ?'
+L' "éviteur d’axe" ("[Shaft Passer](w:en)" en anglais) décrit par Richard Feynman dans son livre "Vous voulez rire, Mr Feynman" est il réel, ou une blague de plus ?'
 
 ### Historique
 

@@ -10,7 +10,7 @@ tags:
 coverImage: "25f276b97f979458f226485b9db25e02-1.jpg"
 ---
 
-Les évènements d'Egypte me donnent l'occasion de parler de pyramides. Pas celles d'où quarante siècles nous contemplent, je veux parler des "[pyramides des âges](https://fr.wikipedia.org/wiki/pyramide_des_âges)" qui montrent la répartition des âges et des sexes dans les populations. Celle de l'Egypte est presque aussi parfaite et instructive que celle de Kheops:
+Les évènements d'Egypte me donnent l'occasion de parler de pyramides. Pas celles d'où quarante siècles nous contemplent, je veux parler des "[pyramides des âges](w:pyramide_des_âges)" qui montrent la répartition des âges et des sexes dans les populations. Celle de l'Egypte est presque aussi parfaite et instructive que celle de Kheops:
 
 {{< figure src="images/43aa2192906983a8dcf912ee66550c4b.png" alt="Egypt 2011" caption="Pyramide des âges de l'Egypte en 2011" link="images/43aa2192906983a8dcf912ee66550c4b.png" align="aligncenter" width="426" >}}
 
@@ -18,7 +18,7 @@ Sur 82 millions d'habitants, 60% ont moins de 30 ans, et 22% moins de 10 ans. Pa
 
 D'après les prévisions, la population égyptienne devrait se stabiliser autour de 138 millions d'habitants en 2050 [[1]](#ref-1). Loger, instruire, soigner et donner du travail à 56 millions d'habitants de plus en 40 ans, voilà un sacré défi pour les successeurs de Moubarak...
 
-Face à un problème similaire à la fin des années 70, la Chine a drastiquement limité les naissances par la "[politique de l'enfant unique](https://fr.wikipedia.org/wiki/politique_de_l'enfant_unique)", qui a causé et cause encore des perturbations assez brutales de la pyramide:
+Face à un problème similaire à la fin des années 70, la Chine a drastiquement limité les naissances par la "[politique de l'enfant unique](w:)", qui a causé et cause encore des perturbations assez brutales de la pyramide:
 
 {{< youtube id="2HxU5RT3CrI" width="600" >}}
 
@@ -32,7 +32,7 @@ La pyramide des âges révèle de façon claire les épisodes douloureux d'une p
 
 {{< figure src="images/4459ee4f75bb7fa8f8218f764e0892bd.png" alt="France 2011" caption="Pyramide des âges de la France en 2011" link="images/4459ee4f75bb7fa8f8218f764e0892bd.png" align="aligncenter" width="424" >}}
 
-Avec des [tables de mortalité](https://fr.wikipedia.org/wiki/tables_de_mortalité) et des [taux de fécondité](https://fr.wikipedia.org/wiki/taux_de_fécondité), les démographes peuvent calculer assez simplement l'évolution d'une pyramide des âges et de simuler l'effet à long terme de décisions politiques comme l'âge de la retraite [[4]](#ref-4). Du haut de sa pyramide, on comprend aussi que le remplacement du président égyptien et l'élimination de la corruption ne suffiront pas à donner à ce pays magnifique la croissance économique dont sa jeune population rêve. S'ils ne veulent pas attendre 40 ans de plus, les égyptiens comme les tunisiens et bien d'autres devront probablement passer par une étape à la chinoise...
+Avec des [tables de mortalité](w:) et des [taux de fécondité](w:), les démographes peuvent calculer assez simplement l'évolution d'une pyramide des âges et de simuler l'effet à long terme de décisions politiques comme l'âge de la retraite [[4]](#ref-4). Du haut de sa pyramide, on comprend aussi que le remplacement du président égyptien et l'élimination de la corruption ne suffiront pas à donner à ce pays magnifique la croissance économique dont sa jeune population rêve. S'ils ne veulent pas attendre 40 ans de plus, les égyptiens comme les tunisiens et bien d'autres devront probablement passer par une étape à la chinoise...
 
 ### Références:
 

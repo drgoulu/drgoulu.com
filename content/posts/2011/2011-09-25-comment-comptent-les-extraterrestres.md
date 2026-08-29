@@ -21,17 +21,17 @@ La notion la plus élémentaire des maths est certainement celle de nombre entie
 
 C'est ainsi qu'en recevant un message composé d'une séquence de 1681 signaux, il devrait rapidement avoir l'idée de les arranger en tableau de 41 negils par 41 neloncos, ou le contraire, ou [l'inverse](/2009/04/04/miroir/).
 
-Jusqu'ici nous n'avons pas eu besoin de la notion de [base](https://fr.wikipedia.org/wiki/base_(arithmétique)). Si les Shadoks, qui comptent en base 4 comme chacun sait, reçoivent [BUZOZOBUGABU](http://www.dcode.fr/shadoks-ga-bu-zo-meu) signaux, il en feront un carré de ZOZOBU par ZOZOBU [[3]](#ref-3), [[4]](#ref-4) : les nombres premiers le sont dans toutes les bases. De plus, toutes les bases sont des bases 10, ainsi que le démontre ce merveilleux cartoon traduit de l'anglais rien que pour vous [[5]](#ref-5) :
+Jusqu'ici nous n'avons pas eu besoin de la notion de [base](w:base_(arithmétique)). Si les Shadoks, qui comptent en base 4 comme chacun sait, reçoivent [BUZOZOBUGABU](http://www.dcode.fr/shadoks-ga-bu-zo-meu) signaux, il en feront un carré de ZOZOBU par ZOZOBU [[3]](#ref-3), [[4]](#ref-4) : les nombres premiers le sont dans toutes les bases. De plus, toutes les bases sont des bases 10, ainsi que le démontre ce merveilleux cartoon traduit de l'anglais rien que pour vous [[5]](#ref-5) :
 
 {{< figure src="images/67d33688baf9e90d5306e90ed88b21fb.png" alt="base10" caption="(si vous ne comprenez pas la blague, cliquez dessus)" link="http://eljjdx.canalblog.com/archives/2011/09/25/22139069.html" align="aligncenter" width="500" >}}
 
-Il y a donc 10 sortes de civilisations : celles qui connaissent le [binaire](https://fr.wikipedia.org/wiki/système binaire) et les autres. Même si certaines personnes considèrent que le [Yi King](https://fr.wikipedia.org/wiki/Yi_King) vieux de 3000 ans décrit une numération binaire, il faut bien reconnaître que de nombreuses civilisations terriennes ont traversé les millénaires sans la connaitre, alors qu'elles étaient confrontées à différents [systèmes de numération](https://fr.wikipedia.org/wiki/systèmes_de_numération) lors de leurs contacts. Mais bon, on peut raisonnablement imaginer qu'en recevant les 1681 signaux, notre E.T. s’apercevra qu'il y en a de deux types et pourra les représenter sous une forme clairement lebsilvi à ses leriosels.
+Il y a donc 10 sortes de civilisations : celles qui connaissent le [binaire](https://fr.wikipedia.org/wiki/système binaire) et les autres. Même si certaines personnes considèrent que le [Yi King](w:) vieux de 3000 ans décrit une numération binaire, il faut bien reconnaître que de nombreuses civilisations terriennes ont traversé les millénaires sans la connaitre, alors qu'elles étaient confrontées à différents [systèmes de numération](w:) lors de leurs contacts. Mais bon, on peut raisonnablement imaginer qu'en recevant les 1681 signaux, notre E.T. s’apercevra qu'il y en a de deux types et pourra les représenter sous une forme clairement lebsilvi à ses leriosels.
 
-Là il devrait pouvoir identifier les figures géométriques, mais pour comprendre les symboles il lui faudra non seulement les pages précédentes du message [[2]](#ref-2), mais aussi une notion culturellement évidente pour nous, mais qui ne l'a pas toujours été : la [notation positionnelle](https://fr.wikipedia.org/wiki/notation_positionnelle).
+Là il devrait pouvoir identifier les figures géométriques, mais pour comprendre les symboles il lui faudra non seulement les pages précédentes du message [[2]](#ref-2), mais aussi une notion culturellement évidente pour nous, mais qui ne l'a pas toujours été : la [notation positionnelle](w:).
 
 Sous toutes ces hypothèses, Alien pourra enfin comprendre le message : "ces Nocs sont tellement fiers d'avoir enfin découvert Pi qu'ils invitent toute la Galaxie à une bouffe, et d'après la [page 15](http://www.flickr.com/photos/goulu/6177685827/in/set-72157627617474131), ils ont l'air appétissants !"
 
-Poli. il rédige une réponse empreinte de [logique modale](https://fr.wikipedia.org/wiki/logique_modale) et de [nombres surréels](https://fr.wikipedia.org/wiki/nombre_surréel) [[5]](#ref-5) :
+Poli. il rédige une réponse empreinte de [logique modale](w:) et de [nombres surréels](w:nombre_surréel) [[5]](#ref-5) :
 
 [![](images/7100f864059739c02728a7d85b90c45e.jpg)](http://www.axolot.info/?p=1092)
 

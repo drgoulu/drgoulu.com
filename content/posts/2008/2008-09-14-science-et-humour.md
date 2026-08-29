@@ -28,7 +28,7 @@ Les désormais fameux [prix igNobel](http://ignobel.com/) récompensent les rech
 
 L'autodérision est également très appréciée dans la communauté scientifique. En particulier, le "[Journal of Irreproductive Results](http://www.jir.com/)" publie des articles parodiques voire délirants, mais respectant scrupuleusement le formalisme formellement formel des publications scientifiques de plus haut niveau.
 
-Dans le même ordre d'idées, quelques aménagements du [système international d'unités](http://fr.wikipedia.org/wiki/Syst%C3%A8me_international_d%27unit%C3%A9s) ont été proposés pour étendre le domaine d'application de la science tout en intégrant de quelques expressions du langage populaire dans le formalisme scientifique. Voir en particulier la norme NF UNM 00-000 dite des "unités pifométriques" [dont je vous ai déjà parlé ici](/2007/01/20/nouvelles-unites-de-mesure/)
+Dans le même ordre d'idées, quelques aménagements du [système international d'unités](w:) ont été proposés pour étendre le domaine d'application de la science tout en intégrant de quelques expressions du langage populaire dans le formalisme scientifique. Voir en particulier la norme NF UNM 00-000 dite des "unités pifométriques" [dont je vous ai déjà parlé ici](/2007/01/20/nouvelles-unites-de-mesure/)
 
 ### Lois Universelles
 

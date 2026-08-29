@@ -18,7 +18,7 @@ Comme tous les geeks j'ai essayé de temps en temps, parfois passé une heure à
 
 Robert Portner analyse cet échec dans  "[Rest in Peas: The Unrecognized Death of Speech Recognition](http://robertfortner.posterous.com/the-unrecognized-death-of-speech-recognition)", titre subtilement traduit en français dans le présent article.
 
-Le problème, c'est qu'après une phase de progrès rapides à la fin du siècle passé, le [taux d'erreur de mots](http://fr.wikipedia.org/wiki/Taux_d'erreur_de_mots) plafonne à 10% depuis 2001 , soit environ le triple du taux d'erreur d'un être humain. Et encore, c'est pour l'anglais "standard". Le taux d'erreur est bien plus élevé pour d'autres langues, et catastrophique pour une conversation entre supporters de foot à la sortie du match.
+Le problème, c'est qu'après une phase de progrès rapides à la fin du siècle passé, le [taux d'erreur de mots](w:) plafonne à 10% depuis 2001 , soit environ le triple du taux d'erreur d'un être humain. Et encore, c'est pour l'anglais "standard". Le taux d'erreur est bien plus élevé pour d'autres langues, et catastrophique pour une conversation entre supporters de foot à la sortie du match.
 
 {{< figure src="images/892b91f37608e5959549c3c4a87512f4.png" alt="NIST_Benchmarks_revised.jpg.scaled1000" caption="Source: National Institute of Standards and Technology Benchmark Test History (1)" link="http://www.itl.nist.gov/iad/mig/publications/ASRhistory/index.html" align="aligncenter" width="480" >}}
 

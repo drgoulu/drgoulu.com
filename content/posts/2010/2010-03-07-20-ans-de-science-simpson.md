@@ -18,15 +18,15 @@ aliases:
   - "/2010/03/08/20-ans-de-science-simpson/"
 ---
 
-Pour les 20 ans des [Simpson](http://fr.wikipedia.org/wiki/Les_Simpson) , [Marge pose dans Playboy](http://www.freshnessmag.com/2009/10/20/playboy-magazine-marge-simpson-issue-detailed-images/) alors que le sexe n'est qu'un thème très secondaire dans la meilleure série animée du monde. Par contre la science y est très présente, ce qui justifie amplement un article sur Dr. Goulu, en plus des livres existant déjà sur le sujet \[1,2,3\]
+Pour les 20 ans des [Simpson](w:Les_Simpson) , [Marge pose dans Playboy](http://www.freshnessmag.com/2009/10/20/playboy-magazine-marge-simpson-issue-detailed-images/) alors que le sexe n'est qu'un thème très secondaire dans la meilleure série animée du monde. Par contre la science y est très présente, ce qui justifie amplement un article sur Dr. Goulu, en plus des livres existant déjà sur le sujet \[1,2,3\]
 
 ### Maths
 
-Il faut dire que [beaucoup d'auteurs d'épisodes ont des formations scientifiques](http://mathsci2.appstate.edu/~sjg/simpsonsmath/degrees.html), comme [David X. Cohen](https://fr.wikipedia.org/wiki/David_X._Cohen) diplômé en physique de Harvard et en informatique de Berkeley \[5\].  C'est à lui qu'on doit l'égalité 1782¹² + 1841¹² = 1922¹² devant laquelle Homer passe sans sourciller en entrant dans la 3ème dimension (séquence "Homer³" de l'épisode S07E06)
+Il faut dire que [beaucoup d'auteurs d'épisodes ont des formations scientifiques](http://mathsci2.appstate.edu/~sjg/simpsonsmath/degrees.html), comme [David X. Cohen](w:) diplômé en physique de Harvard et en informatique de Berkeley \[5\].  C'est à lui qu'on doit l'égalité 1782¹² + 1841¹² = 1922¹² devant laquelle Homer passe sans sourciller en entrant dans la 3ème dimension (séquence "Homer³" de l'épisode S07E06)
 
 ![](images/ed01255774ecaa1f2fca34ada814f160.gif)
 
-Mais vous qui savez que le [dernier théorème de Fermat](https://fr.wikipedia.org/wiki/dernier théorème_de_Fermat) dit qu'il n'existe pas de solution de l'équation an+bn\=cn pour a,b,c,n entiers et n>2, vous bondissez sur votre calculatrice et, ô stupeur, vous croyez l'espace qu'il existe un contre exemple invalidant la démonstration de plusieurs centaines de pages due à [Andrew Wiles](https://fr.wikipedia.org/wiki/Andrew_Wiles) ! En réalité il s'agit d'un hommage à ce résultat impressionnant publié en 1994 quelques semaines avant l'épisode des Simpson, et il faut effectuer le calcul avec beaucoup de chiffres significatifs ou être assez observateur \[5\] pour voir que l'égalité est fausse.
+Mais vous qui savez que le [dernier théorème de Fermat](https://fr.wikipedia.org/wiki/dernier théorème_de_Fermat) dit qu'il n'existe pas de solution de l'équation an+bn\=cn pour a,b,c,n entiers et n>2, vous bondissez sur votre calculatrice et, ô stupeur, vous croyez l'espace qu'il existe un contre exemple invalidant la démonstration de plusieurs centaines de pages due à [Andrew Wiles](w:) ! En réalité il s'agit d'un hommage à ce résultat impressionnant publié en 1994 quelques semaines avant l'épisode des Simpson, et il faut effectuer le calcul avec beaucoup de chiffres significatifs ou être assez observateur \[5\] pour voir que l'égalité est fausse.
 
 ### Médecins, inventeur et vrais scientifiques
 
@@ -42,13 +42,13 @@ A part les deux médecins, le [professeur Frink](http://www.simpsonspark.com/pe
 - Evidemment, une machine à remonter le temps (S06E06, S14E01)
 - Il invente le  marteau qui fait tournevis de l'autre côté.
 - Il cryogénise son père et le refait revivre en remplaçant de nombreux organes vitaux par de l'électronique.
-- Il reçoit le Prix Nobel de Physique des mains de [Dudley Herschbach](https://fr.wikipedia.org/wiki/Dudley_Herschbach), prix Nobel de Chimie 1986 (S15E01)
+- Il reçoit le Prix Nobel de Physique des mains de [Dudley Herschbach](w:), prix Nobel de Chimie 1986 (S15E01)
 
-En effet, on trouve dans la série les avatars de véritables scientifiques, et non des moindres, qui ont de plus prêté leur voix à leur personnage. Outre Hershbach il y a le paléontologiste [Stephen Jay Gould](https://fr.wikipedia.org/wiki/Stephen_Jay_Gould) apparait dans l'épisode S09E08 consacré au créationnisme, dont nous reparlerons plus bas.
+En effet, on trouve dans la série les avatars de véritables scientifiques, et non des moindres, qui ont de plus prêté leur voix à leur personnage. Outre Hershbach il y a le paléontologiste [Stephen Jay Gould](w:) apparait dans l'épisode S09E08 consacré au créationnisme, dont nous reparlerons plus bas.
 
 ### Physique
 
-Et surtout il y a [Stephen Hawking](https://fr.wikipedia.org/wiki/Stephen_Hawking), physicien cosmologiste  a dit des Simpson que c'était la  ["meilleure chose sur la télévision américaine"](http://www.youtube.com/watch?v=ei-pKsNiINk). Il a participé à trois épisodes (S10E22, S16E16, S18E20) , notamment en utilisant sa voix synthétique lors d'une discussion avec Homer sur  la topologie en donut de l'Univers.
+Et surtout il y a [Stephen Hawking](w:), physicien cosmologiste  a dit des Simpson que c'était la  ["meilleure chose sur la télévision américaine"](http://www.youtube.com/watch?v=ei-pKsNiINk). Il a participé à trois épisodes (S10E22, S16E16, S18E20) , notamment en utilisant sa voix synthétique lors d'une discussion avec Homer sur  la topologie en donut de l'Univers.
 
 ![](images/bac742c6f317ecf5a1e39a86175dfe91.jpg)
 
@@ -78,7 +78,7 @@ Elle s'oppose aussi au pourtant très populaire et traditionnel massacre des ser
 
 Lisa se rapproche même d'un mouvement écologiste radical (S12E04) pour sauver une forêt millénaire, avant de militer contre la pollution lumineuse (S14E16) qui l'empêche d'observer les étoiles. Brave petite.
 
-Plusieurs épisodes des Simpson concernent le syndrome "[NIMBY](https://fr.wikipedia.org/wiki/NIMBY)" ("Not In My Backyard") : la société moderne requiert des infrastructures ou des services ayant des effets secondaires un peu désagréables, mais pourquoi les placer devant chez moi plutôt que chez le voisin ?
+Plusieurs épisodes des Simpson concernent le syndrome "[NIMBY](w:)" ("Not In My Backyard") : la société moderne requiert des infrastructures ou des services ayant des effets secondaires un peu désagréables, mais pourquoi les placer devant chez moi plutôt que chez le voisin ?
 
 ### Le nucléaire
 

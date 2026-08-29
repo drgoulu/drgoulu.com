@@ -59,6 +59,6 @@ envoyé cette brève réponse le 12 mai:
 > 
 > Comme je vous l’ai dit, je suis d’accord à 100% avec votre point de vue, mais vouloir restreindre la liberté d’expression des autres pour défendre la votre est contre productif.
 > 
-> J’habite à 5 km de « [Ferney Voltaire](http://fr.wikipedia.org/wiki/Ferney-Voltaire) », nommée en l’honneur de celui qui a dit "je ne suis pas d'accord avec ce que vous dites, mais je me battrai pour que vous ayez le droit de le dire." tout en critiquant clairement l’esclavage. Réfléchissez-y.
+> J’habite à 5 km de « [Ferney Voltaire](w:Ferney-Voltaire) », nommée en l’honneur de celui qui a dit "je ne suis pas d'accord avec ce que vous dites, mais je me battrai pour que vous ayez le droit de le dire." tout en critiquant clairement l’esclavage. Réfléchissez-y.
 > 
 > Amitiés transatlantiques

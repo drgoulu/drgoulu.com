@@ -59,4 +59,4 @@ A part le montage du matériel, les cinéastes ont aussi du gérer les interfér
 
 Mais les efforts de l'équipe ont été finalement récompensés par le premier film de la formation d'une saumurite.
 
-_Note\* : j'ai traduit le néologisme anglais "[brinicle](https://fr.wikipedia.org/wiki/brinicle)" par "saumurite", comme "stalactite de saumure", mais si vous avez une meilleure idée, proposez-la dans les commentaires..._
+_Note\* : j'ai traduit le néologisme anglais "[brinicle](w:)" par "saumurite", comme "stalactite de saumure", mais si vous avez une meilleure idée, proposez-la dans les commentaires..._

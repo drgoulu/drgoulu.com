@@ -17,9 +17,9 @@ coverImage: "c2ced4096aa1d71c1375fae6f102af4f.jpg"
 > 
 > le bec poussiéreux.
 
-Le premier [haïku](http://fr.wikipedia.org/wiki/Ha%C3%AFku)\* de Dr. Goulu a été inspiré par la [sonde Hayabusa](http://fr.wikipedia.org/wiki/Hayabusa_\(sonde_spatiale\)) ("faucon pèlerin" en japonais)  dont j'ai appris l'histoire mouvementée à la radio [[1]](#ref-1) l'autre jour.
+Le premier [haïku](w:)\* de Dr. Goulu a été inspiré par la [sonde Hayabusa](w:Hayabusa_(sonde_spatiale)) ("faucon pèlerin" en japonais)  dont j'ai appris l'histoire mouvementée à la radio [[1]](#ref-1) l'autre jour.
 
-Les japonais ont lancé très discrètement cette sonde en 2003, parlant de "démonstrateur technologique". Hayabusa a souffert de nombreux incidents qui la font rentrer 3 ans plus tard que prévu. Demain pourtant, elle devrait se poser en Australie après un exploit remarquable : ramener sur Terre de la matière prélevée sur un astéroïde de 600 m seulement, [Itokawa](http://fr.wikipedia.org/wiki/Ast%C3%A9ro%C3%AFde_Itokawa).
+Les japonais ont lancé très discrètement cette sonde en 2003, parlant de "démonstrateur technologique". Hayabusa a souffert de nombreux incidents qui la font rentrer 3 ans plus tard que prévu. Demain pourtant, elle devrait se poser en Australie après un exploit remarquable : ramener sur Terre de la matière prélevée sur un astéroïde de 600 m seulement, [Itokawa](w:Astéroïde_Itokawa).
 
 [![](images/6fe05186a57f0bf1c3f48a2ab1c68fa7.jpg "pct_main_hayabusa")](/wp-content/uploads/HLIC/6fe05186a57f0bf1c3f48a2ab1c68fa7.jpg)
 
@@ -29,14 +29,14 @@ Hayabusa a utilisé les fameux moteurs ioniques dont j'ai [déjà causé ici](/2
 
 Si oui, Hayabusa rejoindra le club très fermé des missions ayant ramené de la matière extraterrestre :
 
-- En 2004, "[Genesis](http://fr.wikipedia.org/wiki/Genesis_\(sonde_spatiale\))" a ramené de la poussière du vent solaire collectée au [Point de Lagrange](http://fr.wikipedia.org/wiki/Point_de_Lagrange) L1, mais au retour sur Terre, ses parachutes n'ont pas fonctionné et elle s'est bien plantée... Mais les échantillons ont survécu et les [premiers résultats d'analyse](http://www.techno-science.net/?onglet=news&news=7546) viennent d'être publiés.
+- En 2004, "[Genesis](w:Genesis_(sonde_spatiale))" a ramené de la poussière du vent solaire collectée au [Point de Lagrange](w:) L1, mais au retour sur Terre, ses parachutes n'ont pas fonctionné et elle s'est bien plantée... Mais les échantillons ont survécu et les [premiers résultats d'analyse](http://www.techno-science.net/?onglet=news&news=7546) viennent d'être publiés.
 
 [![](images/49e3832691879ba71baa294c312f96ce.jpg)](http://fr.wikipedia.org/wiki/Genesis_\(sonde_spatiale\))
 
 Genesis après son "atterrissage"...
 
-- En 2006, "[Stardust](http://fr.wikipedia.org/wiki/Stardust_\(sonde_spatiale\))" a ramené des poussières cométaires prélevées près de la comète Wild 2. Mieux : elle n'a fait que larguer sur Terre un container avec les échantillons et poursuit sa route vers la comète Tempel-1 (qui a été percutée par [Deep Impact](http://fr.wikipedia.org/wiki/Deep_Impact_\(sonde_spatiale\)) en 2005) qu'elle rencontrera à moins de 200 km le 14 février 2011. Grâce à  [Stardust@home](http://fr.wikipedia.org/wiki/Stardust@home), vous pouvez aider la science en repérant les quelques poussières interstellaires collées dans les m2 de capteurs de la sonde.
-- Sans oublier  les astronautes des missions Apollo qui ont ramené 382 kg de [roche\_lunaire](http://fr.wikipedia.org/wiki/Roche_lunaire) entre 1969 et 1972, ni les 3 sondes Luna soviétiques qui en ont ramené 326 g entre 1970 et 1976.
+- En 2006, "[Stardust](w:Stardust_(sonde_spatiale))" a ramené des poussières cométaires prélevées près de la comète Wild 2. Mieux : elle n'a fait que larguer sur Terre un container avec les échantillons et poursuit sa route vers la comète Tempel-1 (qui a été percutée par [Deep Impact](w:Deep_Impact_(sonde_spatiale)) en 2005) qu'elle rencontrera à moins de 200 km le 14 février 2011. Grâce à  [Stardust@home](w:), vous pouvez aider la science en repérant les quelques poussières interstellaires collées dans les m2 de capteurs de la sonde.
+- Sans oublier  les astronautes des missions Apollo qui ont ramené 382 kg de [roche\_lunaire](w:Roche_lunaire) entre 1969 et 1972, ni les 3 sondes Luna soviétiques qui en ont ramené 326 g entre 1970 et 1976.
 
 {{< openbook booknumber="ISBN:9782290327319" templatenumber="3" >}}A ce sujet, j'ai lu cette semaine "Poussière de Lune" [[2]](#ref-2), prêté par Stefano. Un épais roman de S-F avec beaucoup de références à toutes sortes de choses intéressantes et réussissant notamment à promouvoir la géologie au rang des sciences dignes de la science-fiction. Cependant, je n'ai pas adhéré à l'intrigue principale, un peu trop visiblement destinée aux scénaristes d'Hollywood. Mais un bon bouquin de vacances tout de même.
 

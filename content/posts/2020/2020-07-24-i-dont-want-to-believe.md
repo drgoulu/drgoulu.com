@@ -19,7 +19,7 @@ Il y a plusieurs raisons pour lesquelles j'ai trouvé ce reportage mauvais, voir
 
 ## le "méta-matériau" bismuth-magnesium.
 
-A 56:57 du reportage on voit un certain [Dr. Hal E. Puthoff](https://en.wikipedia.org/wiki/Harold_E._Puthoff) dire ceci lors d'une conférence [[2]](#ref-2):
+A 56:57 du reportage on voit un certain [Dr. Hal E. Puthoff](w:en:Harold_E._Puthoff) dire ceci lors d'une conférence [[2]](#ref-2):
 
 > C'était un échantillon multicouche de bismuth et de magnésium. Les couches de  bismuth sont moins épaisses qu'un cheveu humain. Les couches de magnésium font environ dix fois la taille d'un cheveu humain. Soi-disant récupéré lors de la récupération d'un véhicule aérospatial avancé écrasé. On dirait qu’il s’agit d’un crash. Les lignes blanches sont du bismuth; les zones les plus sombres sont les séparations de magnésium. Donc, la question était de savoir ce qu'il en était de ce matériau, alors naturellement nous avons regardé dans tous les laboratoires nationaux, nous avons parlé aux métallurgistes, nous avons passé au peigne fin toute la structure des articles publiés. Nulle part nous n'avons pu trouver la moindre preuve que quiconque ait jamais fait ceci.
 > 
@@ -33,21 +33,21 @@ L'objet dont il parle est celui-ci :
 
 [![](images/BismuthMgZnLayeredMetal1999byLMH.jpg)](https://www.earthfiles.com/bismuth/)
 
-Remarquez mon honnêteté intellectuelle : j'ai laissé les deux mentions du copyright de [Linda Moulton Howe](https://en.wikipedia.org/wiki/Linda_Moulton_Howe) , et même le lien vers son site si vous cliquez dessus.
+Remarquez mon honnêteté intellectuelle : j'ai laissé les deux mentions du copyright de [Linda Moulton Howe](w:en) , et même le lien vers son site si vous cliquez dessus.
 
 En 1996, Linda Moulton Howe (LMH) avait confié cet objet pour analyse à [Nicholas A. Reiter](https://www.coasttocoastam.com/guest/reiter-nicholas-6668/) un autre passionné d'OVNIs et de phénomènes étranges. Mais il ne trouve aucune propriété particulière à l'échantillon. La conclusion de son rapport détaillé à LMH est claire [[3]](#ref-3):
 
-> Au niveau le plus élémentaire, nous pouvons affirmer que la partie d'artefact fournie par LMH ne semble PAS être composée d'éléments ou de composés inconnus. Il n'est pas non plus composé d'alliages d'une pureté ou d'une composition dépassant le cadre de la science des matériaux actuelle . L'artefact ressemble fortement aux résidus stratifiés irréguliers souvent trouvés dans les revêtements par [dépôt physique par phase vapeur](https://fr.wikipedia.org/wiki/dépôt_physique_par_phase_vapeur) (PVD) \*.  
+> Au niveau le plus élémentaire, nous pouvons affirmer que la partie d'artefact fournie par LMH ne semble PAS être composée d'éléments ou de composés inconnus. Il n'est pas non plus composé d'alliages d'une pureté ou d'une composition dépassant le cadre de la science des matériaux actuelle . L'artefact ressemble fortement aux résidus stratifiés irréguliers souvent trouvés dans les revêtements par [dépôt physique par phase vapeur](w:) (PVD) \*.  
 > ...  
 > À mon avis, l'artefact représente probablement un curieux sous-produit industriel de l'industrie des films minces ou d'une usine de coulée de magnésium. Cependant, jusqu'à ce qu'une correspondance soit trouvée, je n'exclurai pas la possibilité d'une origine plus inhabituelle
 
 puis il trouve la correspondance en 2001 et publie une mise à jour encore plus claire [[3]](#ref-3):
 
-> La combinaison du bismuth et du magnésium nous a échappé pendant quatre ans. Mais un jour, nous avons trouvé une référence à un obscur  procédé industriel utilisé dans le raffinage du plomb. Le procédé , appelé [procédé de Betterton-Krohl](https://en.wikipedia.org/wiki/Betterton–Kroll_process), utilise du magnésium fondu flottant à la surface du plomb liquide. Le magnésium aspire ou extrait les impuretés de bismuth du plomb! 
+> La combinaison du bismuth et du magnésium nous a échappé pendant quatre ans. Mais un jour, nous avons trouvé une référence à un obscur  procédé industriel utilisé dans le raffinage du plomb. Le procédé , appelé [procédé de Betterton-Krohl](w:en:Betterton–Kroll_process), utilise du magnésium fondu flottant à la surface du plomb liquide. Le magnésium aspire ou extrait les impuretés de bismuth du plomb! 
 > 
 > Ce processus peu connu aurait-il pu être la véritable origine d'un résidu métallique d'apparence inhabituelle, qui a ensuite été promu comme une technologie extraterrestre? \*\*
 
-Cependant, LMH trouve ses conclusions peu convaincantes (she really wants to believe...), les passe sous silence et vend l'objet en 2017 pour $35'000 à [Tom DeLonge](https://fr.wikipedia.org/wiki/Tom_DeLonge), le chanteur de Blink-182 et passionné d'OVNI pour le compte de sa société [To the Stars... Academy of Arts & Sciences Inc.](https://en.wikipedia.org/wiki/To_the_Stars_(company)) qu'il a fondé... avec notre ami le Dr. Hal E. Puthoff. [[4]](#ref-4), [[5]](#ref-5)
+Cependant, LMH trouve ses conclusions peu convaincantes (she really wants to believe...), les passe sous silence et vend l'objet en 2017 pour $35'000 à [Tom DeLonge](w:), le chanteur de Blink-182 et passionné d'OVNI pour le compte de sa société [To the Stars... Academy of Arts & Sciences Inc.](w:en:To_the_Stars_(company)) qu'il a fondé... avec notre ami le Dr. Hal E. Puthoff. [[4]](#ref-4), [[5]](#ref-5)
 
 Ce qui n'empêche pas celui-ci de qualifier 2cm² du déchet industriel le plus cher de l'histoire de "méta-matériau" en 2018...
 
@@ -71,12 +71,12 @@ En écrivant l'article, je suis tombé sur une autre explication un peu plus tec
 
 ## Mais encore
 
-Je voulais encore parler de la liste des recherches chez [Bigelow Aerospace](https://en.wikipedia.org/wiki/Bigelow_Aerospace) ,  dont on nous dit deux fois dans le reportage (à 24:40 à 43:00) qu'elles sont tellement avancées qu'elles méritent vraiment 22 millions de dollars de fonds secrets. Sérieusement ? 22 millions sur 10 ans pour étudier 38 sujets tellement avancés [[8]](#ref-8) ? Même pas un million par sujet ? Ca ne finance même pas un chercheur par sujet, sur 10 ans ...
+Je voulais encore parler de la liste des recherches chez [Bigelow Aerospace](w:en) ,  dont on nous dit deux fois dans le reportage (à 24:40 à 43:00) qu'elles sont tellement avancées qu'elles méritent vraiment 22 millions de dollars de fonds secrets. Sérieusement ? 22 millions sur 10 ans pour étudier 38 sujets tellement avancés [[8]](#ref-8) ? Même pas un million par sujet ? Ca ne finance même pas un chercheur par sujet, sur 10 ans ...
 
 Qu'est-ce qui vous paraît le plus probable :
 
 - que Bigelow Aerospaces nous invente la propulsion hyperspatiale en 10 ans
-- ou que ces recherches ne donnent rien, ce qui est excusable vu leur difficulté science-fictionnesque, et que M. Bigelow finance la campagne de son copain [Harry Reid](https://fr.wikipedia.org/wiki/Harry_Reid) , visiblement ennuyé de devoir justifier ce projet mis en lumière par le président  de l'association des scientifiques américains [[9]](#ref-9) ?
+- ou que ces recherches ne donnent rien, ce qui est excusable vu leur difficulté science-fictionnesque, et que M. Bigelow finance la campagne de son copain [Harry Reid](w:) , visiblement ennuyé de devoir justifier ce projet mis en lumière par le président  de l'association des scientifiques américains [[9]](#ref-9) ?
 
 C'est là le problème principal de ce reportage : il ne donne aucune voix aux scientifiques. Pas la moindre allusion à un léger doute sur le "méta-matériau". Pourtant c'est pas dur à trouver. Ce reportage est fait par des gens qui croient aux OVNIs, donnant la parole à des gens qui croient aux OVNIs, financés par des gens qui croient aux OVNIs. 
 

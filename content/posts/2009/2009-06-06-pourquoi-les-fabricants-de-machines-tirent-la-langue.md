@@ -28,7 +28,7 @@ En 2008 : rien. Chute de 100%, chiffre d'affaires nul. Il se console en se disan
 
 Si la chute ne se poursuit pas en 2010, notre fabricant de bidules aura besoin d'une machine, et si la reprise du marché des bidules dépasse 3%, il en voudra même deux, que le fabricant aura beaucoup de peine à produire, s'il a survécu à deux ans de crise extrême.
 
-Dans cet exemple extrêmement simple, une variation de +5% à -10% de la demande en bidules a causé une variation de la demande de machines de ±100%! Cet effet d'amplification des variations au long de la chaîne client/fournisseur existe réellement et est connu sous le nom d'[effet de Forrester, ou effet fouet (](http://en.wikipedia.org/wiki/Bullwhip_effect) [bullwhip effect )](http://en.wikipedia.org/wiki/Bullwhip_effect) [[[1]](#ref-1)](http://en.wikipedia.org/wiki/Bullwhip_effect).
+Dans cet exemple extrêmement simple, une variation de +5% à -10% de la demande en bidules a causé une variation de la demande de machines de ±100%! Cet effet d'amplification des variations au long de la chaîne client/fournisseur existe réellement et est connu sous le nom d'[effet de Forrester, ou effet fouet (](w:en:Bullwhip_effect) [bullwhip effect )](w:en:Bullwhip_effect) [[[1]](#ref-1)](http://en.wikipedia.org/wiki/Bullwhip_effect).
 
 ### Le "Beer Game"
 
@@ -61,6 +61,6 @@ Il existe plusieurs moyens de réduire, voire d'éliminer l'effet fouet, du moin
 4. <span id="ref-4"></span>Claude Balié "[Comment traiter l’Effet Coup de Fouet (Bullwhip Effect) dans une chaîne logistique?](http://www.al-consulting.com/lean/dataleanxpress/lxp3/lxp3cb.htm)"
 5. <span id="ref-5"></span>"[Présentation du Beer Game](http://www.copilotes.eu/files/Livrable_WG3_BeerGame.pdf)", 2004, site "[Copilotes](http://www.copilotes.eu/1-186-Cas-du-Beer-Game.php)"
 6. <span id="ref-6"></span>John D. Sterman " [Teaching Takes Off - Flight Simulators for Management Education - The Beer Game](http://web.mit.edu/jsterman/www/SDG/beergame.html)"  OR/MS Today, October 1992, 40-4
-7. <span id="ref-7"></span>[Beer Distribution Game](http://en.wikipedia.org/wiki/Beer_Distribution_Game) sur Wikipedia
+7. <span id="ref-7"></span>[Beer Distribution Game](w:en) sur Wikipedia
 8. <span id="ref-8"></span>[BeerGame sur MIT forum](http://supplychain.mit.edu/games/beer-game) : pour jouer en ligne
 9. <span id="ref-9"></span>Mark Kimura, "[A Numerical Solution to The Beer Distribution Game with Limited Visibility Using Agent Based Models](http://beergame.mkimura.com/)"

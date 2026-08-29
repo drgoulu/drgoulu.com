@@ -43,5 +43,5 @@ La souplesse de son utilisation et d’autres avantages font de l’hydro-élect
 3. <span id="ref-3"></span>journal RSR le 25/1/2005 à 9h
 4. <span id="ref-4"></span>[http://www.energies-renouvelables.org/observer/html/inventaire/Fr/conclusion.htm](http://www.energies-renouvelables.org/observer/html/inventaire/Fr/conclusion.htm)
 5. <span id="ref-5"></span>[http://www.2100.org/Energie98.pdf](http://www.2100.org/Energie98.pdf)
-6. <span id="ref-6"></span>[Wikipedia:Energie Renouvelable](https://fr.wikipedia.org/wiki/%C3%89nergie_renouvelable)
+6. <span id="ref-6"></span>[Wikipedia:Energie Renouvelable](w:Énergie_renouvelable)
 7. <span id="ref-7"></span>[http://culturesciencesphysique.ens-lyon.fr/Entree\_par\_theme/Elec/Eau](http://culturesciencesphysique.ens-lyon.fr/search_exist?SearchableText=Elec+Eau)

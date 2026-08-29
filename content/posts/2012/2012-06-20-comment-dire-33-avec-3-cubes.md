@@ -27,7 +27,7 @@ En moins d'une seconde il trouve les 69 des 100 premiers entiers qui sont des so
 
 Ensuite il mouline pendant des heures pour trouver 51=-796³+659³+602³ et 16=1626³-1609³-511³, et pendant ce temps j'ai exploré les liens émaillant les premiers commentaires [de l'article de "Walking Randomly"](http://www.walkingrandomly.com/?p=4353).
 
-Il s'avère que le problème soumis par Mike Croucher est extrêmement difficile, voire impossible. [Cette page](http://www.asahi-net.or.jp/~KC2H-MSM/mathland/math04/matb0100.htm) liste les solutions trouvées par mon programme, et d'autres qui ont nécessité des algorithmes beaucoup plus fûtés que le mien pour résoudre cette [équation diophantienne](http://fr.wikipedia.org/wiki/%C3%89quation_diophantienne) :
+Il s'avère que le problème soumis par Mike Croucher est extrêmement difficile, voire impossible. [Cette page](http://www.asahi-net.or.jp/~KC2H-MSM/mathland/math04/matb0100.htm) liste les solutions trouvées par mon programme, et d'autres qui ont nécessité des algorithmes beaucoup plus fûtés que le mien pour résoudre cette [équation diophantienne](w:) :
 
 - 87 = 4271³ - 4126³ - 1972³ , découvert en 1964 [[1]](#ref-1)
 - 96 = -15250³ + 13139³ + 10853³

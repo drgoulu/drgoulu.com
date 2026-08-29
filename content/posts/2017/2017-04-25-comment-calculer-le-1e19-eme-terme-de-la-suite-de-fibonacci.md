@@ -13,17 +13,17 @@ tags:
 coverImage: "1nv66i.jpg"
 ---
 
-Tombé l'autre jour sur un problème idiot [[1]](#ref-1) mais intéressant : calculer le 1019 ème terme de la [suite de Fibonacci](https://fr.wikipedia.org/wiki/suite_de_Fibonacci). Idiot parce que ça ne sert à rien. Intéressant parce que ça sous-entend qu'il existe une manière de calculer le n-ième terme de cette suite définie par récurrence sans calculer tous les termes précédents. En effet, calculer les termes les uns après les autres prendrait dans les 300'000 ans à raison d'une microseconde par terme...
+Tombé l'autre jour sur un problème idiot [[1]](#ref-1) mais intéressant : calculer le 1019 ème terme de la [suite de Fibonacci](w:). Idiot parce que ça ne sert à rien. Intéressant parce que ça sous-entend qu'il existe une manière de calculer le n-ième terme de cette suite définie par récurrence sans calculer tous les termes précédents. En effet, calculer les termes les uns après les autres prendrait dans les 300'000 ans à raison d'une microseconde par terme...
 
 ## Un nombre d'or, mais flottant
 
-Comme même les ésotéristes le savent, la suite de Fibonacci est liée au [nombre d'or.](/2016/07/03/nombre-dor-et-abeilles/) A partir de ce fait, Moivre, Euler et Binet ont indépendamment obtenu ce qu'on appelle aujourd'hui la [formule de Binet](https://fr.wikipedia.org/wiki/Suite_de_Fibonacci#formule_de_Binet), et qui donne directement le n-ième terme de la suite:
+Comme même les ésotéristes le savent, la suite de Fibonacci est liée au [nombre d'or.](/2016/07/03/nombre-dor-et-abeilles/) A partir de ce fait, Moivre, Euler et Binet ont indépendamment obtenu ce qu'on appelle aujourd'hui la [formule de Binet](w:Suite_de_Fibonacci#formule_de_Binet), et qui donne directement le n-ième terme de la suite:
 
 $\mathcal F_n=\frac1{\sqrt5}(\varphi^n-\varphi'^n)$, avec $ \varphi=\frac{1+\sqrt5}2$, et $ \varphi'=-\frac1\varphi$ .
 
 En pratique, le terme en $ \varphi'$ devient rapidement négligeable et il suffit de chercher l'entier le plus proche de $\frac{\varphi^n}{\sqrt5}$. Par exemple pour n=50, on peut calculer très vite $\mathcal F_{50}\approx\frac{\varphi^{50}}{\sqrt5}$ = 12586269025
 
-Mais on se heurte rapidement au problème de la précision de calcul en nombres flottants sur nos ordinateurs : $\varphi$ étant [irrationnel](https://fr.wikipedia.org/wiki/Nombre_irrationnel) (mais pas aussi [transcendant](https://fr.wikipedia.org/wiki/Nombre_transcendant) que $\pi$ ...), il faut calculer $\varphi^n$ avec au moins autant de décimales que $\mathcal F_n$ comporte de chiffres. Dès n=71 on dépasse les 53 bits de la mantisse des nombres "extended precision" et les dernières décimales des termes calculés sont faux.
+Mais on se heurte rapidement au problème de la précision de calcul en nombres flottants sur nos ordinateurs : $\varphi$ étant [irrationnel](w:Nombre_irrationnel) (mais pas aussi [transcendant](w:Nombre_transcendant) que $\pi$ ...), il faut calculer $\varphi^n$ avec au moins autant de décimales que $\mathcal F_n$ comporte de chiffres. Dès n=71 on dépasse les 53 bits de la mantisse des nombres "extended precision" et les dernières décimales des termes calculés sont faux.
 
 Dit autrement, à partir de n=70 la division $\mathcal F_n/\mathcal F_{n-1}$ donne au moins autant de décimales de $ \varphi$ que son calcul en nombres flottants
 
@@ -39,7 +39,7 @@ $\begin{pmatrix}1&1\\\\1&0\end{pmatrix}^{n-1}\begin{pmatrix}1\\\\0\end{pmatrix}=
 
 En fait on retrouve les termes de la suite directement dans la matrice  $Q^n = \begin{pmatrix}\mathcal F_{n+1}&\mathcal F_{n}\\\\\mathcal F_{n}&\mathcal F_{n-1}\end{pmatrix}$.
 
-L'algorithme de l'[exponentiation rapide](https://fr.wikipedia.org/wiki/exponentiation_rapide) permet d'élever la matrice Q à la puissance n en effectuant log2(n) multiplications de matrices 2x2, soit [environ 63](https://www.wolframalpha.com/input/?i=log\(10%5E19\)%2Flog\(2\)) pour n=1019. Ultra rapide, et facilement généralisable à d'autres formules de récurrence !
+L'algorithme de l'[exponentiation rapide](w:) permet d'élever la matrice Q à la puissance n en effectuant log2(n) multiplications de matrices 2x2, soit [environ 63](https://www.wolframalpha.com/input/?i=log\(10%5E19\)%2Flog\(2\)) pour n=1019. Ultra rapide, et facilement généralisable à d'autres formules de récurrence !
 
 Malheureusement, la fonction [matrix\_power de la librairie Python numpy](https://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.matrix_power.html) souffre d'une [limitation, voire d'un bug](https://github.com/numpy/numpy/issues/5166) qui empêche de l'utiliser dès n=71 car elle utilise les nombres flottants. Il m'a donc fallu la réécrire, en résolvant une petite contrainte technologique au passage.
 
@@ -51,15 +51,15 @@ Vérifions. Pour n=1000, on obtient:
 
 $\mathcal F_{1000}$=43466557686937456435688527675040625802564660517371780402481729089536555417949051890403879840079255169295922593080322634775209689623239873322471161642996440906533187938298969649928516003704476137795166849228875 qui comporte bien pile 209 chiffres.
 
-Donc $\mathcal F_{10^{19}}$ comporte 2089876402499787337 chiffres ... Il faudrait [dans les 867](https://www.wolframalpha.com/input/?i=10%5E19*log\(\(1%2Bsqrt\(5\)\)%2F2\)%2Flog\(2\)%2F8) [péta](https://fr.wikipedia.org/wiki/péta)octets de RAM (de préférence...) pour stocker ce nombre ...
+Donc $\mathcal F_{10^{19}}$ comporte 2089876402499787337 chiffres ... Il faudrait [dans les 867](https://www.wolframalpha.com/input/?i=10%5E19*log\(\(1%2Bsqrt\(5\)\)%2F2\)%2Flog\(2\)%2F8) [péta](w:)octets de RAM (de préférence...) pour stocker ce nombre ...
 
 {{< figure src="images/1nv66i.jpg" alt="(mon premier meme ... désolé ...)" caption="(mon premier meme ... désolé ...)" width="500" >}}
 
 ## Et modulo 1000000007 ?
 
-Fort heureusement, le problème idiot avait un petit détail en prime : il fallait calculer le résultat [modulo](https://fr.wikipedia.org/wiki/Modulo_(opération)) 1000000007, et ça, ça change tout.
+Fort heureusement, le problème idiot avait un petit détail en prime : il fallait calculer le résultat [modulo](w:Modulo_(opération)) 1000000007, et ça, ça change tout.
 
-Ce nombre est premier (pour que ça soit plus intéressant), mais surtout il est inférieur à 230, ce qui fait que la multiplication modulo 1000000007 ne nécessite que des opérations sur des [entiers](https://fr.wikipedia.org/wiki/Entier_(informatique)) 32 bits (signés), ultra rapide.
+Ce nombre est premier (pour que ça soit plus intéressant), mais surtout il est inférieur à 230, ce qui fait que la multiplication modulo 1000000007 ne nécessite que des opérations sur des [entiers](w:Entier_(informatique)) 32 bits (signés), ultra rapide.
 
 Voici donc quelques fonctions Python tirées du [module math2 de ma librairie Goulib](https://github.com/goulu/Goulib/blob/master/Goulib/math2.py) qui effectuent:
 
@@ -71,7 +71,7 @@ Voici donc quelques fonctions Python tirées du [module math2 de ma librairie G
 
 Avec ça on obtient fibonacci(int(1E19),1000000007) = 647754067 ce qui nous fait une belle jambe,  mais nous a appris pas mal de choses intéressantes, non ?
 
-Prochaine étape : trouver la [période de Pisano](https://fr.wikipedia.org/wiki/période_de_Pisano) correspondante ...
+Prochaine étape : trouver la [période de Pisano](w:) correspondante ...
 
 ### Références
 

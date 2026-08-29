@@ -15,11 +15,11 @@ coverImage: "4432547614_68930bc76f_d.jpg"
 
 A la lecture de "[Précision mathématique ou physique ?](http://www.maths-et-physique.net/article-precision-mathematique-ou-physique-73417781.html "Précision mathématique ou physique ?")", je me suis interrogé sur le nombre de décimales de réellement π nécessaires en physique. A priori il n'est pas nécessaire de connaitre π avec une précision supérieure à celle d'autres grandeurs mesurées, alors quelles sont les expériences de haute précision faisant intervenir π explicitement ?
 
-N'en ayant aucune idée, j'en ai profité pour tester un site découvert par hasard en y [posant la question](http://physics.stackexchange.com/questions/9621/how-many-digits-of-pi-are-required-in-physics). Je n'ai pas été déçu : en quelques heures j'ai reçu des réponses de très bon niveau, dont celle de [Luboš Motl](http://fr.wikipedia.org/wiki/Lubo%C5%A1_Motl) que je vous traduis ci-dessous:
+N'en ayant aucune idée, j'en ai profité pour tester un site découvert par hasard en y [posant la question](http://physics.stackexchange.com/questions/9621/how-many-digits-of-pi-are-required-in-physics). Je n'ai pas été déçu : en quelques heures j'ai reçu des réponses de très bon niveau, dont celle de [Luboš Motl](w:) que je vous traduis ci-dessous:
 
 > Pi est très loin d'être le seul nombre dont nous ayons besoin en physique. Les prédictions théoriques typiques dépendent de nombreux autres nombres mesurés, calculés (ou les deux) que pi.
 > 
-> Cependant, il est vrai qu'on doit substituer la bonne valeur de pi pour obtenir les bonnes prédictions. Donc la bonne réponse à votre question est la prédiction théorique vérifiée avec la plus grande précision que nous ayons dans la physique à ce jour, à savoir le [moment magnétique anomal](http://fr.wikipedia.org/wiki/Moment_magn%C3%A9tique_anomal) de l'électron.
+> Cependant, il est vrai qu'on doit substituer la bonne valeur de pi pour obtenir les bonnes prédictions. Donc la bonne réponse à votre question est la prédiction théorique vérifiée avec la plus grande précision que nous ayons dans la physique à ce jour, à savoir le [moment magnétique anomal](w:Moment_magnétique_anomal) de l'électron.
 > 
 > Dans certaines unités naturelles le moment magnétique anomal de l'électron est exprimé par un facteur g qui est légèrement supérieur à 2. Expérimentalement [[1]](#ref-1):
 > 
@@ -27,11 +27,11 @@ N'en ayant aucune idée, j'en ai profité pour tester un site découvert par has
 > 
 > Theoriquement, g/2 est donné par g/2 = 1 + α/2π + …
 > 
-> où le premier terme  α/2π a été obtenu par [Schwinger](http://fr.wikipedia.org/wiki/Julian_Schwinger) en 1948, et beaucoup d'autres termes plus petits sont connus aujourd'hui. les prédictions théoriques correspondent aux mesures expérimentales dans la minuscule marge d'erreur; l'incertitude théorique contient l'effet de nouvelles espèces de [particules virtuelles](http://fr.wikipedia.org/wiki/Particule_virtuelle) dont les masses et couplages n'ont pas encore été éclaircies. Ceci nécessite, parmi beaucoup, beaucoup d'autres choses, d'introduire la bonne valeur de π dans la première correction de Schwinger α/2π. Vous avez besoin de 9 à 10 décimales de π pour que cette correction entre dans l'erreur expérimentale.
+> où le premier terme  α/2π a été obtenu par [Schwinger](w:Julian_Schwinger) en 1948, et beaucoup d'autres termes plus petits sont connus aujourd'hui. les prédictions théoriques correspondent aux mesures expérimentales dans la minuscule marge d'erreur; l'incertitude théorique contient l'effet de nouvelles espèces de [particules virtuelles](w:Particule_virtuelle) dont les masses et couplages n'ont pas encore été éclaircies. Ceci nécessite, parmi beaucoup, beaucoup d'autres choses, d'introduire la bonne valeur de π dans la première correction de Schwinger α/2π. Vous avez besoin de 9 à 10 décimales de π pour que cette correction entre dans l'erreur expérimentale.
 > 
 > Donc en pratique, π≈3.141592654 serait OK partout dans la partie testable de la physique. Cependant, les physiciens théoriciens ont évidemment besoin de faire des calculs plus précis s'ils ne peuvent le faire analytiquement, pour voir ce qui se passe avec leurs formules.
 
-Impressionnant, non ? Il faut dire que les sous-sites de [stackexchange.com](http://stackexchange.com/) utilisent un système sophistiqué de "réputation" donnant peu à peu plus de pouvoirs aux contributeurs constructifs, et écartant les [trolls](http://fr.wikipedia.org/wiki/Troll_\(Internet\)). Certains forums dont je [ne dirai pas le nom](http://www.techno-science.net/forum/viewtopic.php?t=19671) devraient s'en inspirer...
+Impressionnant, non ? Il faut dire que les sous-sites de [stackexchange.com](http://stackexchange.com/) utilisent un système sophistiqué de "réputation" donnant peu à peu plus de pouvoirs aux contributeurs constructifs, et écartant les [trolls](w:Troll_(Internet)). Certains forums dont je [ne dirai pas le nom](http://www.techno-science.net/forum/viewtopic.php?t=19671) devraient s'en inspirer...
 
 Sinon j'ai aussi reçu un petit commentaire intriguant sous la forme d'une citation (traduite par mes soins):
 

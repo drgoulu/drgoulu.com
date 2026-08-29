@@ -8,9 +8,9 @@ tags:
 - python
 draft: true
 ---
-Quand Antoine m'a proposé de lui créer une carte de visite, j'étais en train de scanner les [codes barres](http://fr.wikipedia.org/wiki/Code-barres) de mes livres avec mon smartphone, et je me suis dit qu'un [Datamatrix](http://fr.wikipedia.org/wiki/Datamatrix) serait utile et sympa pour quelqu'un qui "accompagne le changement science-société".
+Quand Antoine m'a proposé de lui créer une carte de visite, j'étais en train de scanner les [codes barres](w:Code-barres) de mes livres avec mon smartphone, et je me suis dit qu'un [Datamatrix](w:) serait utile et sympa pour quelqu'un qui "accompagne le changement science-société".
 
-Le hic, c'est que les Datamatrix sont moches. Moins que les [Code QR](http://fr.wikipedia.org/wiki/Code_QR), mais tout de même tellement laids qu'on n'en trouve que très peu, cachés dans les coins de certaines publicités, mais c'est à peu près tout.
+Le hic, c'est que les Datamatrix sont moches. Moins que les [Code QR](w:), mais tout de même tellement laids qu'on n'en trouve que très peu, cachés dans les coins de certaines publicités, mais c'est à peu près tout.
 
 Donc je me suis attelé à faire de "beaux" datamatrix, ou du moins essayer.
 

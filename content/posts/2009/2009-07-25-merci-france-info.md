@@ -18,4 +18,4 @@ Plus j'y pense, plus je crois à la complémentarité de la presse traditionnell
 
 Mesdames et messieurs les journalistes, nous sommes faits pour nous entendre...
 
-A part ça, je prépare encore un ou deux articles pour les prochains jours, puis le mois d'août sera calme pour cause de vacances. Le [stakhanovisme](http://fr.wikipedia.org/wiki/Stakhanovisme) a ses limites.
+A part ça, je prépare encore un ou deux articles pour les prochains jours, puis le mois d'août sera calme pour cause de vacances. Le [stakhanovisme](w:) a ses limites.

@@ -11,7 +11,7 @@ coverImage: "feynman-portada-principia-211x300.jpg"
 
 {{< figure src="images/feynman-portada-principia-211x300.jpg" >}}
 
-[Richard Feynman](https://fr.wikipedia.org/wiki/Richard_Feynman) aurait eu 100 ans aujourd'hui. Il aurait pu devenir un spécialiste des fourmis, un percussionniste renommé ou un peintre fameux dans les bordels californiens [[1]](#ref-1) , mais il a préféré la physique.
+[Richard Feynman](w:) aurait eu 100 ans aujourd'hui. Il aurait pu devenir un spécialiste des fourmis, un percussionniste renommé ou un peintre fameux dans les bordels californiens [[1]](#ref-1) , mais il a préféré la physique.
 
 Du projet Manhattan à la commission d'enquête sur l'accident de la navette spatiale Challenger en passant par le prix Nobel de physique en 1965, la vie de Feynman à été remplie de contributions de très haut niveau.
 

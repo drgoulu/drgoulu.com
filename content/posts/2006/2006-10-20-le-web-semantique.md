@@ -49,8 +49,8 @@ Les "Topics Maps" sont une approche similaire, proposant le format XTM
 
 ### Références
 
-- [Wikipedia : Web sémantique (français, très sommaire)](http://fr.wikipedia.org/wiki/Web_s%C3%A9mantique)
-- [Wikipedia : Semantic Web (anglais, détaillé)](http://en.wikipedia.org/wiki/Semantic_Web)
+- [Wikipedia : Web sémantique (français, très sommaire)](w:Web_sémantique)
+- [Wikipedia : Semantic Web (anglais, détaillé)](w:en:Semantic_Web)
 - [page du W3C sur le web sémantique](http://www.w3.org/2001/sw/)
 - [W3C semantic web roadmap](http://www.w3.org/DesignIssues/Semantic.html)
 - [Drive, a RDF parser for .NET](http://www.driverdf.org/)

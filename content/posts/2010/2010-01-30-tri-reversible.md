@@ -33,7 +33,7 @@ J’ai mis un moment à comprendre la profondeur de cette réponse : ma question
 
 Pour une liste contenant n éléments, on a besoin de log(n) bits\* pour stocker chaque numéro, donc de n.log(n) bits au total.
 
-Peut-on faire mieux? On pourrait se dire que beaucoup d'[algorithmes de tri](http://fr.wikipedia.org/wiki/Algorithme_de_tri) comme [QuickSort](http://fr.wikipedia.org/wiki/Tri_rapide) permutent des éléments après les avoir comparés, et qu'il suffirait donc de stocker le résultat des comparaisons effectuées, soit un bit par test, pour pouvoir ensuite "défaire le tri" en parcourant la liste des bits à l'envers. Combien faut-ils de bits ? ben ... au moins n.log(n) aussi puisque c'est justement le nombre de comparaisons qui détermine la "complexité" des algorithmes de tri, et que les bons algorithmes ont une complexité de n.log(n).
+Peut-on faire mieux? On pourrait se dire que beaucoup d'[algorithmes de tri](w:Algorithme_de_tri) comme [QuickSort](w:Tri_rapide) permutent des éléments après les avoir comparés, et qu'il suffirait donc de stocker le résultat des comparaisons effectuées, soit un bit par test, pour pouvoir ensuite "défaire le tri" en parcourant la liste des bits à l'envers. Combien faut-ils de bits ? ben ... au moins n.log(n) aussi puisque c'est justement le nombre de comparaisons qui détermine la "complexité" des algorithmes de tri, et que les bons algorithmes ont une complexité de n.log(n).
 
 Rien ne sert de se casser la tête sur "algorithme de tri réversible", il ne peut pas être plus efficace que de simplement stocker l'ordre initial des données. Etonnant non ?
 
@@ -41,4 +41,4 @@ Le problème, c'est que la donnée du concours spécifie qu'on n'a le droit de s
 
 Bref, personne n'a gagné le petit concours parce que ce n'était tout simplement pas possible.,
 
-Note\* : en informatique, log(n) dénote évidemment le [logarithme](http://fr.wikipedia.org/wiki/Logarithme) binaire ou base 2
+Note\* : en informatique, log(n) dénote évidemment le [logarithme](w:) binaire ou base 2

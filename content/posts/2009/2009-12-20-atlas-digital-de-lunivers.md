@@ -12,7 +12,7 @@ tags:
 coverImage: "3147d85aa10abf7b1ab15cfd988e2908-1.jpg"
 ---
 
-le [Planetarium Hayden de New-York](http://fr.wikipedia.org/wiki/Plan%C3%A9tarium_Hayden) a produit "L'Univers Connu", une sorte de remake des "[puissances de 10](/2008/05/16/les-puissances-de-dix/)" mais dans lequel la position des étoiles et des galaxies correspond aux mesures actuelles:
+le [Planetarium Hayden de New-York](w:Planétarium_Hayden) a produit "L'Univers Connu", une sorte de remake des "[puissances de 10](/2008/05/16/les-puissances-de-dix/)" mais dans lequel la position des étoiles et des galaxies correspond aux mesures actuelles:
 
 {{< youtube id="17jymDn0W6U" >}}
 

@@ -9,7 +9,7 @@ tags:
   - "trou-noir"
 ---
 
-Je suis certain d'en avoir déjà parlé, mais c'était il y a trop longtemps (2003) donc sur un vieux blog perdu... On avait détecté à l'époque une étoile qui se déplaçait très vite dans la région du centre de notre Galaxie, ce qui avait permis de suspecter qu'une source de rayons radio appelée [Sagittarius A\*](https://fr.wikipedia.org/wiki/Sagittarius_A*) était le trou noir (donc invisible) central de notre Galaxie.
+Je suis certain d'en avoir déjà parlé, mais c'était il y a trop longtemps (2003) donc sur un vieux blog perdu... On avait détecté à l'époque une étoile qui se déplaçait très vite dans la région du centre de notre Galaxie, ce qui avait permis de suspecter qu'une source de rayons radio appelée [Sagittarius A\*](w:Sagittarius_A*) était le trou noir (donc invisible) central de notre Galaxie.
 
 Après 10 années d'observation avec les plus puissants télescopes disponibles actuellement, on a pu réaliser cette fantastique animation de cette zone :
 

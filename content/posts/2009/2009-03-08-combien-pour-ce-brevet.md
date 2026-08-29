@@ -17,7 +17,7 @@ Je suis membre d'une société secrète dont voici le logo ci-contre.
 
 ![](images/01f99601ca764143b04d1eeeb8535122.jpg)Sur la société secrète je ne peux rien dire. Mais sur le logo je peux : c'est l'illustration du [brevet US 6,960,975](http://www.google.com/patents/US6960975) accordé le 1er novembre 2005 à Boris Volfson pour un "véhicule spatial propulsé par l'état du vide inflatoire" ("space vehicle propelled by the pressure of inflationary vacuum state")
 
-Un [brevet](https://fr.wikipedia.org/wiki/brevet) garantit à un inventeur un monopole sur l'utilisation de son invention pour une période pouvant aller jusqu'à 25 ans dans certains pays, pour autant que l'invention satisfasse trois conditions:
+Un [brevet](w:) garantit à un inventeur un monopole sur l'utilisation de son invention pour une période pouvant aller jusqu'à 25 ans dans certains pays, pour autant que l'invention satisfasse trois conditions:
 
 1. La nouveauté, évaluée par rapport à l'état de la technique au moment du dépôt.
 2. Etre le résultat d'une activité inventive, et non le résultat d'une déduction ou d'une combinaison évidente d'éléments existants.
@@ -67,7 +67,7 @@ A mon huble avis,  Boris Volfson aurait du écrire un roman décrivant son vais
 
 1. [L'Office européen des brevets en grève pour dénoncer les abus](http://www.numerama.com/magazine/10718-l-office-europeen-des-brevets-en-greve-pour-denoncer-les-abus.html) sur Numerama, 25 septembre 2008
 2. [Statistiques sur les brevets](http://www.wipo.int/ipstats/fr/statistics/patents/) au WIPO
-3. [Brevet](http://fr.wikipedia.org/wiki/Brevet) et [Droit d'auteur](http://fr.wikipedia.org/wiki/Droit_d%27auteur) sur Wikipedia
+3. [Brevet](w:) et [Droit d'auteur](w:) sur Wikipedia
 4. "[Patentabilty](http://www.uspto.gov/web/offices/pac/mpep/documents/2100.htm)" sur uspto.gov : règles de "brevetabilité" aux usa
 5. [le droit des brevets](http://www.hautehorlogerie.org/fr/fondation/fight-against-counterfeiting/propriete-intellectuelle/droit-des-brevets/) sur hautehorlogerie.org, un résumé très bien fait
 6. [page sur les mouvements perpétuels](http://www.quanthomme.info/energielibre/machines/MVP.htm) avec beaucoup d'illustrations et de références de brevets rigolos.

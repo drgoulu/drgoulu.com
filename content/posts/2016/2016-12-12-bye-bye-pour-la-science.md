@@ -12,9 +12,9 @@ coverImage: "A70538F8-18C1-45B6-84E57E55E7AA1401_cover.jpg"
 
 {{< figure src="images/A70538F8-18C1-45B6-84E57E55E7AA1401_cover.jpg" alt="Mon nouveau mensuel. Un point de francophonie en moins, mais au moins je le reçois..." caption="Mon nouveau mensuel. Un point de francophonie en moins, mais au moins je le reçois..." width="234" >}}
 
-> Il n'y a qu'un patron : le client. Et il peut licencier tout le personnel, depuis le directeur jusqu'à l'employé, tout simplement en allant dépenser son argent ailleurs. ([Sam Walton](https://fr.wikipedia.org/wiki/Sam_Walton))
+> Il n'y a qu'un patron : le client. Et il peut licencier tout le personnel, depuis le directeur jusqu'à l'employé, tout simplement en allant dépenser son argent ailleurs. ([Sam Walton](w:))
 
-[Pour la science](https://fr.wikipedia.org/wiki/Pour_la_science) a beau être un excellent journal, il a oublié ce principe essentiel au point que je n'y suis plus abonné. Je recevrai désormais [Scientific American](https://fr.wikipedia.org/wiki/Scientific_American) à la place.
+[Pour la science](w:) a beau être un excellent journal, il a oublié ce principe essentiel au point que je n'y suis plus abonné. Je recevrai désormais [Scientific American](w:) à la place.
 
 Mon père était abonné à Pour la science depuis le Numéro 2, en 1977. Grâce à eux, mon père et cet excellent journal, je suis "tombé dans la science quand j'étais petit", comme je l'écris parfois sur mes profils numériques. Vers 1988 je me suis abonné aussi et aujourd'hui, le numéro 1 est le seul qui manque à notre collection stockée avec amour dans le galetas. Mais le No 468 d'octobre 2016 sera probablement le dernier à y figurer.
 
@@ -22,7 +22,7 @@ Les lamentables services clients et abonnements de cet excellent journal font to
 
 Le 5 juillet, sachant que mon abonnement arrivait à échéance, j'ai tenté de me réabonner sur leur site, mais un truc m'a fait bondir. J'ai immédiatement envoyé l'e-mail suivant à l'adresse pourlascience@abopress.fr  indiquée sur [ce formulaire](http://boutique.pourlascience.fr/contacts/):
 
-> Bonjour, en remplissant mon adresse sous [http://boutique.pourlascience.fr/customer/address/edit/id/1957/](http://boutique.pourlascience.fr/customer/address/edit/id/1957/) je constate que vous forcez les lecteurs suisses à introduire un champ sous Etat/Region (alors que nous avons des Cantons), mais PIRE que les noms des Cantons francophones sont en allemand ! NON Madame ou Monsieur, je ne veux pas habiter le Canton du Wallis, de Genf ou de Waadt ! Né en Valais, j'ai quitté Genève pour Vaud. Et ailleurs en Suisse je me serais abonné à [Spektrum der Wissenschaft](https://de.wikipedia.org/wiki/Spektrum_der_Wissenschaft), pas à Pour la Science. Je renouvellerai mon abonnement quand vous aurez corrigé ça ;-)
+> Bonjour, en remplissant mon adresse sous [http://boutique.pourlascience.fr/customer/address/edit/id/1957/](http://boutique.pourlascience.fr/customer/address/edit/id/1957/) je constate que vous forcez les lecteurs suisses à introduire un champ sous Etat/Region (alors que nous avons des Cantons), mais PIRE que les noms des Cantons francophones sont en allemand ! NON Madame ou Monsieur, je ne veux pas habiter le Canton du Wallis, de Genf ou de Waadt ! Né en Valais, j'ai quitté Genève pour Vaud. Et ailleurs en Suisse je me serais abonné à [Spektrum der Wissenschaft](w:de), pas à Pour la Science. Je renouvellerai mon abonnement quand vous aurez corrigé ça ;-)
 
 Le petit smiley clin d'oeil n'a pas aidé : je n'ai jamais reçu de réponse. Alors le 22 juillet j'ai craqué et me suis abonné quand-même, avec une adresse pourrie :![capture](images/Capture.png) et j'ai envoyé cet e-mail à l'adresse indiquée pour les "questions sur votre commande" :
 

@@ -31,7 +31,7 @@ en utilisant la grosse formule ci-dessus ainsi:
 - les wi sont les valeurs de compétition des S joueurs battus pendant l'année
 - les wj sont les valeurs de compétition des N joueurs qui l'ont battu pendant la même période.
 
-Simplifions tout ça en imaginant que [Roger Federer](https://fr.wikipedia.org/wiki/Roger_Federer) , qui a un W=17.394 au moment de la rédaction de cet article, et notre jeune joueur qui en est à W=0.892 ne jouent qu'un seul match en 2009, dans lequel ils s'affrontent dans un duel sans pitié. Ainsi les sommes notées avec le \\(\\sum\\) ne correspondent qu'au seul adversaire affronté, soit comme vaincu soit comme vainqueur.
+Simplifions tout ça en imaginant que [Roger Federer](w:) , qui a un W=17.394 au moment de la rédaction de cet article, et notre jeune joueur qui en est à W=0.892 ne jouent qu'un seul match en 2009, dans lequel ils s'affrontent dans un duel sans pitié. Ainsi les sommes notées avec le \\(\\sum\\) ne correspondent qu'au seul adversaire affronté, soit comme vaincu soit comme vainqueur.
 
 Il est [très probable](/2008/05/12/le-comptage-des-points-au-tennis/) que Federer gagne. Dans ce cas, selon la formule, son nouveau W vaudra \\( W = (\\ln(e^{17.394}+e^{0.892}) - \\ln(e^{-17.394}))/2 = 17.394000034 \\). La magie des fonctions exponentielles et logarithmiques permet de traduire en mathématiques le Cid : "A vaincre sans péril, on triomphe sans gloire" : le classement du no.1 ne s'améliorerait pas.
 
@@ -47,6 +47,6 @@ Voilà. Le principe est le même pour le calcul de la "bonification de match" R,
 
 Note\* : Les bases de maths nécessaires pour comprendre la formule sont :
 
-- la connaissance des fonctions exponentielles : ex signifie le [nombre e](http://fr.wikipedia.org/wiki/Nombre_de_N%C3%A9per) à la puissance x. Sur une [bonne calculatrice](http://speedcrunch.org/), c'est souvent la touche \[EXP\] qui calcule ceci.
+- la connaissance des fonctions exponentielles : ex signifie le [nombre e](w:Nombre_de_Néper) à la puissance x. Sur une [bonne calculatrice](http://speedcrunch.org/), c'est souvent la touche \[EXP\] qui calcule ceci.
 - la fonction ln(x) représente le "logarithme néperien" qui est la fonction inverse de l'exponentielle : ln(ex) = eln(x) = x . Sur les calculatrices c'est \[LN\], parfois \[LOG\] mais il faut faire attention à ne pas confondre avec le log base 10 qui donne log(1000)=3
 - la somme notée par Σ permet d'additionner un nombre de termes "indicés" comme indiqué sous le Σ: i=1 indique que la variable i vaut 1, puis 2 etc jusqu'à la valeur N indiquée au dessus du Σ.

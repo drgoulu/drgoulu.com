@@ -13,7 +13,7 @@ coverImage: "csCERN2.jpg"
 
 Le [CERN ouvrait aujourd'hui ses portes](https://lhc2008.web.cern.ch/LHC2008/) au public pour lui montrer le Large Hadron Collider (LHC), le plus puissant accélérateur de particules du monde, qui sera mis en service cet été.
 
-Je souhaitais voir [ATLAS](http://public.web.cern.ch/public/fr/LHC/ATLAS-fr.html), le plus imposant détecteur de particules, destiné entre autres à découvrir le [Boson de Higgs](http://fr.wikipedia.org/wiki/Boson_de_Higgs), la particule qui permettrait de valider la théorie qui explique pourquoi certaines particules ont une masse et d'autre pas.
+Je souhaitais voir [ATLAS](http://public.web.cern.ch/public/fr/LHC/ATLAS-fr.html), le plus imposant détecteur de particules, destiné entre autres à découvrir le [Boson de Higgs](w:), la particule qui permettrait de valider la théorie qui explique pourquoi certaines particules ont une masse et d'autre pas.
 
 ![](images/85fea7a4da57502fb066809b9d1c988e.jpg)
 

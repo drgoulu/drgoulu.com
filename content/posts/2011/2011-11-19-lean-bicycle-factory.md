@@ -13,11 +13,11 @@ tags:
 coverImage: "Capture.png"
 ---
 
-Une fois n'est pas coutume, je vais causer un petit peu boulot. Depuis quelques temps je m'occupe d'un système dynamique assez complexe : une usine de production de machines. Avec quelques collègues, nous y appliquons la "philosophie" [lean](http://fr.wikipedia.org/wiki/Lean), dont je suis pour ma part assez heureux de pouvoir valider les principes par quelques calculs et simulations avant de bouleverser les habitudes de gens employés dans la boite depuis 10x plus longtemps que moi.
+Une fois n'est pas coutume, je vais causer un petit peu boulot. Depuis quelques temps je m'occupe d'un système dynamique assez complexe : une usine de production de machines. Avec quelques collègues, nous y appliquons la "philosophie" [lean](w:), dont je suis pour ma part assez heureux de pouvoir valider les principes par quelques calculs et simulations avant de bouleverser les habitudes de gens employés dans la boite depuis 10x plus longtemps que moi.
 
-Une de mes tâches est d'animer des journées de formation offertes à tout le personnel par groupes de 8 personnes, journées pendant lesquelles nous introduisons des notions "lean" comme le [juste-à-temps](http://fr.wikipedia.org/wiki/Juste-%C3%A0-temps_\(gestion\)) par un jeu dans lequel les collaborateurs construisent des modèles réduits de machines en améliorant peu à peu le système de production.
+Une de mes tâches est d'animer des journées de formation offertes à tout le personnel par groupes de 8 personnes, journées pendant lesquelles nous introduisons des notions "lean" comme le [juste-à-temps](w:Juste-à-temps_(gestion)) par un jeu dans lequel les collaborateurs construisent des modèles réduits de machines en améliorant peu à peu le système de production.
 
-Il me manquait un moyen d'expliquer ce qu'est le lean à des gens qui ne travaillent pas du tout dans ce domaine (vous ?) d'une manière ludique. C'est mon collègue Alex qui l'a trouvée sous la forme du "[Lean Bicycle Factory Demonstration Game](http://ludosity.com/library/lean-game/)" de Ludosity, un "[serious game](http://fr.wikipedia.org/wiki/Jeu_s%C3%A9rieux)" assez fun et rapide pour devenir addictif, et même générer une petite compétition entre collègues...
+Il me manquait un moyen d'expliquer ce qu'est le lean à des gens qui ne travaillent pas du tout dans ce domaine (vous ?) d'une manière ludique. C'est mon collègue Alex qui l'a trouvée sous la forme du "[Lean Bicycle Factory Demonstration Game](http://ludosity.com/library/lean-game/)" de Ludosity, un "[serious game](w:Jeu_sérieux)" assez fun et rapide pour devenir addictif, et même générer une petite compétition entre collègues...
 
 _(Ajout du 9.12.2013_: comme le lien de téléchargement original ne fonctionne plus, essayez [celui-ci](/wp-content/uploads/2011/11/LeanBicycleFactory-1.zip).)
 

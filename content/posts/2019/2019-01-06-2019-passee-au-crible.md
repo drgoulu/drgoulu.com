@@ -20,21 +20,21 @@ L'article sur l'[amiante](/2008/02/01/amiante-pas-de-panique/) a été nettement
 
 ## Bonne Chance pour 2019 !
 
-Je partage [l'avis d'ElJj : 2019 est numériquement assez quelconque](http://eljjdx.canalblog.com/archives/2019/01/01/36975652.html), mais la notion de [nombre chanceux](https://fr.wikipedia.org/wiki/nombre_chanceux) m'a plus interpellé que lui. Il faut dire que [A118130](https://oeis.org/A118130) est la seule suite de l'[OEIS](https://oeis.org/?language=french) qui contienne 2019 précédé de 1963, un nombre important pour moi. Tous deux sont non seulement des nombres chanceux, mais leurs facteurs premiers le sont aussi : 1963 = 13\*151 et 2019 = 3\*673, et 3,13,151 et 673 sont également chanceux  ([A000959](https://oeis.org/A000959)).
+Je partage [l'avis d'ElJj : 2019 est numériquement assez quelconque](http://eljjdx.canalblog.com/archives/2019/01/01/36975652.html), mais la notion de [nombre chanceux](w:) m'a plus interpellé que lui. Il faut dire que [A118130](https://oeis.org/A118130) est la seule suite de l'[OEIS](https://oeis.org/?language=french) qui contienne 2019 précédé de 1963, un nombre important pour moi. Tous deux sont non seulement des nombres chanceux, mais leurs facteurs premiers le sont aussi : 1963 = 13\*151 et 2019 = 3\*673, et 3,13,151 et 673 sont également chanceux  ([A000959](https://oeis.org/A000959)).
 
 En codant ces [suites infinies en Python](/2017/06/26/series-infinies-et-oeis-en-python/) je suis tombé sur les étonnantes similitudes entre ces nombres et les nombres premiers. Le rapport ne concerne pas les nombres eux-mêmes, car beaucoup de nombres chanceux sont composés ([A031157](https://oeis.org/A031157) liste les nombres à la fois heureux et premiers), mais les suites partagent de nombreuses propriétés:
 
 - elles sont infinies
 
-- leur [densité asymptotique](https://fr.wikipedia.org/wiki/densité_asymptotique) est la même : 1 / ln(x)
+- leur [densité asymptotique](w:) est la même : 1 / ln(x)
 
 - il existe une infinité de nombres (premiers ou chanceux) jumeaux
 
-- il existe une conjecture analogue à [celle de Goldbach](https://fr.wikipedia.org/wiki/Conjecture_de_Goldbach) : il semblerait que tout entier soit la somme de deux nombres chanceux
+- il existe une conjecture analogue à [celle de Goldbach](w:Conjecture_de_Goldbach) : il semblerait que tout entier soit la somme de deux nombres chanceux
 
-Ca commence à faire beaucoup de coïncidences, si bien qu'on commence à se demander si ces propriétés ne sont pas liées plutôt à la notion de [crible](https://fr.wikipedia.org/wiki/Crible_(mathématiques)) qu'à celle de nombre premier [[1]](#ref-1). Car les nombres chanceux n'ont rien de vraiment particulier, si ce n'est qu'ils sont produits par un crible très semblable au fameux [crible d'Ératosthène](https://fr.wikipedia.org/wiki/crible_d'Ératosthène).
+Ca commence à faire beaucoup de coïncidences, si bien qu'on commence à se demander si ces propriétés ne sont pas liées plutôt à la notion de [crible](w:Crible_(mathématiques)) qu'à celle de nombre premier [[1]](#ref-1). Car les nombres chanceux n'ont rien de vraiment particulier, si ce n'est qu'ils sont produits par un crible très semblable au fameux [crible d'Ératosthène](w:).
 
-Une bonne résolution à laquelle je me suis attaqué tout de suite consiste donc à coder en Python une classe Sieve qui implante un crible mathématique généralisé. Le [premier jet est là](https://goulib.readthedocs.io/en/develop/_modules/Goulib/math2.html#Sieve), et la suite permettra d'implanter le [crible d'Atkin](https://fr.wikipedia.org/wiki/crible_d'Atkin), voire le [crible algébrique](https://fr.wikipedia.org/wiki/crible_algébrique) si tout va bien.
+Une bonne résolution à laquelle je me suis attaqué tout de suite consiste donc à coder en Python une classe Sieve qui implante un crible mathématique généralisé. Le [premier jet est là](https://goulib.readthedocs.io/en/develop/_modules/Goulib/math2.html#Sieve), et la suite permettra d'implanter le [crible d'Atkin](w:), voire le [crible algébrique](w:) si tout va bien.
 
 Voilà mes chers lecteurs, il me reste à vous souhaiter à tous une
 

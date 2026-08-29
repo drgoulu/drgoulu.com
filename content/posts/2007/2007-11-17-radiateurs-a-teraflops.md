@@ -19,7 +19,7 @@ En réfléchissant un peu sur le sujet des [ampoules fluocompactes](/2007/11/07/
 
 Le problème est que, par définition, un radiateur électrique a un rendement de 100% : 100% de l'électricité consommée est convertie en énergie considérée comme utile, soit de la chaleur. Apparemment on ne peut pas faire mieux.
 
-Heureusement, la chaleur a la particularité d'être l'énergie de "qualité" la plus basse, celle qui en définitive résulte de tous les processus physiques normaux (frottements, combustion et oxydation, résistance électrique, induction etc), alors que l'électricité est la forme d'énergie la plus noble : on peut en faire ce qu'on veut avec un excellent rendement. C'est-ce qu'on appelle l'[exergie](https://fr.wikipedia.org/wiki/exergie).
+Heureusement, la chaleur a la particularité d'être l'énergie de "qualité" la plus basse, celle qui en définitive résulte de tous les processus physiques normaux (frottements, combustion et oxydation, résistance électrique, induction etc), alors que l'électricité est la forme d'énergie la plus noble : on peut en faire ce qu'on veut avec un excellent rendement. C'est-ce qu'on appelle l'[exergie](w:).
 
 Donc pourquoi faire de la chaleur directement en passant un courant électrique dans un corps de chauffe ? c'est un gaspillage inouï ! Autant en faire quelque chose de plus utile, qui lui-même produira de la chaleur par effet secondaire. C'est notamment le cas avec les [ampoules](/2007/11/07/ampoules-a-faible-consommation/) à incandescence, faites pour faire de la lumière, mais qui chauffent aussi.
 

@@ -19,7 +19,7 @@ Vu à la TV cette pub pour un produit censé protéger les yeux de la lumière b
 
 {{< youtube id="kauj_tWTJ8c" width="640" >}}
 
-En faisant un arrêt sur image, j'ai pu lire sur l'emballage que le produit contient de la [lutéine](https://fr.wikipedia.org/wiki/lutéine) et de la [zéaxanthine](https://fr.wikipedia.org/wiki/zéaxanthine), deux molécules effectivement présentes respectivement dans la [macula](https://fr.wikipedia.org/wiki/macula) et le [cristallin](https://fr.wikipedia.org/wiki/cristallin).
+En faisant un arrêt sur image, j'ai pu lire sur l'emballage que le produit contient de la [lutéine](w:) et de la [zéaxanthine](w:), deux molécules effectivement présentes respectivement dans la [macula](w:) et le [cristallin](w:).
 
 http://www.vitaluxvitamin.ca/fr/nutrition-and-eye-health/lutein-and-zeaxanthin.shtml
 

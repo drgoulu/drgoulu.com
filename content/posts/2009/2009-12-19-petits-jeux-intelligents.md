@@ -32,7 +32,7 @@ Les casse-têtes mécaniques d' [IceBreaker](http://www.nitrome.com/games/icebre
 
 ### Un peu de nostalgie : les Lemmings
 
-Je vous parle d'un temps que les moins de vingt ans ne peuvent pas connaître, mais devraient : le temps des [Lemmings](https://fr.wikipedia.org/wiki/Lemmings), un des jeux les plus géniaux de l'histoire. On peut jouer en ligne à la version quasi originale [ici](http://www.elizium.nu/scripts/lemmings/). D'accord, le graphisme est d'époque, mais le challenge reste actuel : amener des hordes de bestioles suicidaires à la porte du salut.
+Je vous parle d'un temps que les moins de vingt ans ne peuvent pas connaître, mais devraient : le temps des [Lemmings](w:), un des jeux les plus géniaux de l'histoire. On peut jouer en ligne à la version quasi originale [ici](http://www.elizium.nu/scripts/lemmings/). D'accord, le graphisme est d'époque, mais le challenge reste actuel : amener des hordes de bestioles suicidaires à la porte du salut.
 
 [![](images/8f8fb1141b3a22eed536ae9c35063410.png)](http://www.elizium.nu/scripts/lemmings/)(En fait c'est un [peu limite côté légal](http://crisp.home.xs4all.nl/lemmings/lemmings.html), mais la performance vaut un coup de chapeau : réécrire le [code en Javascript](http://crisp.home.xs4all.nl/lemmings/lemmings.zip) ...)
 

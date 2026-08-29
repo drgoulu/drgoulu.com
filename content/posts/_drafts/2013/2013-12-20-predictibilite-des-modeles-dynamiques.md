@@ -9,7 +9,7 @@ coverImage: "9f1bca42a6c66fb77a36ab26b320b147.gif"
 ---
 Si je lâche un caillou d'une hauteur h raisonnable, je suis absolument certain que cette hauteur va diminuer selon la loi x(t) = h-g.t²/2 et qu'il va heurter le sol après un temps $t = \sqrt{2.h/g}$ que je peux déterminer avec un bonne précision. Si j'ai mal mesuré h ou g et que j'en prends des valeurs faussées de 10%, le temps de chute ne sera faux que de 5% (à cause de la racine carrée), mais l'issue ne fait aucun doute : le caillou va tomber au sol.
 
-[![](images/9f1bca42a6c66fb77a36ab26b320b147.gif)](http://fr.wikipedia.org/wiki/Barycentre_\(physique\)#Astronomie)Si je calcule la trajectoire de deux (gros) cailloux lancés dans l'espace, je peux également déterminer de façon certaine leur trajectoire. Soit ils entreront rapidement en collision, soit ils s'éloigneront l'un de l'autre jusqu'à l'infini, soit ils se mettront à parcourir des ellipses autour de leur barycentre commun. Le "[problème à deux corps](http://fr.wikipedia.org/wiki/Probl%C3%A8me_%C3%A0_deux_corps)" est admet une solution analytique : on peut obtenir une formule  qui donnera l'orbite des deux cailloux avec une précision du même ordre que la précision avec laquelle on connait les masses, les positions et les vitesses initiales.
+[![](images/9f1bca42a6c66fb77a36ab26b320b147.gif)](http://fr.wikipedia.org/wiki/Barycentre_\(physique\)#Astronomie)Si je calcule la trajectoire de deux (gros) cailloux lancés dans l'espace, je peux également déterminer de façon certaine leur trajectoire. Soit ils entreront rapidement en collision, soit ils s'éloigneront l'un de l'autre jusqu'à l'infini, soit ils se mettront à parcourir des ellipses autour de leur barycentre commun. Le "[problème à deux corps](w:)" est admet une solution analytique : on peut obtenir une formule  qui donnera l'orbite des deux cailloux avec une précision du même ordre que la précision avec laquelle on connait les masses, les positions et les vitesses initiales.
 
 {{< figure src="images/3e83d00d7c1be99aba4868351a69adf8.png" alt="3 bodies" caption="3 bodies" width="287" >}}
 
@@ -30,7 +30,7 @@ http://aeon.co/magazine/world-views/should-we-trust-scientific-models-to-tell-us
 3. <span id="ref-3"></span>[http://news.sciencemag.org/physics/2013/03/physicists-discover-whopping-13-new-solutions-three-body-problem](http://news.sciencemag.org/physics/2013/03/physicists-discover-whopping-13-new-solutions-three-body-problem)
 4. <span id="ref-4"></span>[http://suki.ipb.ac.rs/3body/](http://suki.ipb.ac.rs/3body/)
 5. <span id="ref-5"></span>"[Chic planètes : Billard cosmique](http://www.agoravox.fr/actualites/technologies/article/chic-planetes-billard-cosmique-76393)" sur Agoravox
-6. <span id="ref-6"></span>[J. Laskar](http://fr.wikipedia.org/wiki/Jacques_Laskar) "La stabilité du système solaire", in {{< openbook booknumber="ISBN:9782020151825" templatenumber="5" >}}
+6. <span id="ref-6"></span>[J. Laskar](w:Jacques_Laskar) "La stabilité du système solaire", in {{< openbook booknumber="ISBN:9782020151825" templatenumber="5" >}}
 7. <span id="ref-7"></span>J. Laskar, "[Le Système solaire est-il stable ?](http://www.bourbaphy.fr/laskar.pdf)",2010, Séminaire Poincaré XIV, pp. 221–246.
 8. <span id="ref-8"></span>[http://www.eci.ox.ac.uk/4degrees/ppt/poster-pietsch.pdf](http://www.eci.ox.ac.uk/4degrees/ppt/poster-pietsch.pdf)
 9. <span id="ref-9"></span>[http://wulixb.iphy.ac.cn/EN/abstract/abstract54218.shtml](http://wulixb.iphy.ac.cn/EN/abstract/abstract54218.shtml)

@@ -34,19 +34,19 @@ Le problème, c'est que de nombreuses données montrent qu'une amélioration de 
 
 [![khazzoom1](images/463c13f3d56fcadfe415bea932fc698d.png "khazzoom1")](http://research.cibcwm.com/economic_public/download/snov07.pdf)
 
-L'idée est la suivante : en augmentant l'efficacité énergétique d'un produit ou d'un service, il devient moins cher, donc plus de personnes peuvent se l'offrir, donc on consomme plus que ce qu'on économise ... Parmi les nombreux exemples, on peut citer le [procédé de Bessemer](https://fr.wikipedia.org/wiki/procédé_de_Bessemer) qui permit  de réduire d'un facteur 3 la quantité de charbon cramée par tonne d'acier, ce qui sonna le début de la production en masse d'acier au début de l'ère industrielle.
+L'idée est la suivante : en augmentant l'efficacité énergétique d'un produit ou d'un service, il devient moins cher, donc plus de personnes peuvent se l'offrir, donc on consomme plus que ce qu'on économise ... Parmi les nombreux exemples, on peut citer le [procédé de Bessemer](w:) qui permit  de réduire d'un facteur 3 la quantité de charbon cramée par tonne d'acier, ce qui sonna le début de la production en masse d'acier au début de l'ère industrielle.
 
 Plus près de nous, pensez aux voyages en avion : une traversée de l'Atlantique dans un petit coucou était réservée au gratin dans les années 1950, et aux personnes aisées dans les années 1970. Après le choc pétrolier, les avions deviennent plus gros, initialement dans l'idée de réduire le nombre de vols. De ce fait, ils consomment moins par passager (dommage pour le Concorde) et aujourd'hui presque tout le monde peut se payer un voyage transatlantique. L'amélioration énergiétique de nos maisons, voitures, ampoules et ordinateurs n'est donc pas un objectif écologique, mais d'une logique purement économique qui vise à diminuer le cout des produits pour en élargir le marché. Si nous sommes capables de réduire notre consommation d'énergie, que ferons-nous avec l'argent économisé si ce n'est d'acheter d'autres produits et services, nécessitant de l'énergie ?
 
 ### En route pour la société à 2 MegaWatts !
 
-En 1964, l'astronome russe [Kardashev proposa une échelle](https://fr.wikipedia.org/wiki/échelle_de_Kardashev) de mesure du niveau technologique des civilisations terrestres et extra-terrestres par l'énergie dont elles disposent:
+En 1964, l'astronome russe [Kardashev proposa une échelle](w:échelle_de_Kardashev) de mesure du niveau technologique des civilisations terrestres et extra-terrestres par l'énergie dont elles disposent:
 
 - Niveau I : toute l'énergie solaire disponible sur leur planète  (~1016 W)
-- Niveau II : toute l'énergie de leur étoile, captée par une [sphère de Dyson](https://fr.wikipedia.org/wiki/sphère_de_Dyson) par exemple  (~1026 W)
+- Niveau II : toute l'énergie de leur étoile, captée par une [sphère de Dyson](w:) par exemple  (~1026 W)
 - Niveau III : toute l'énergie de leur galaxie (~1036 W)
 
-[Carl Sagan](https://fr.wikipedia.org/wiki/Carl_Sagan) proposa la fonction suivante pour obtenir une échelle continue, W étant la consommation d'énergie en Watts :
+[Carl Sagan](w:) proposa la fonction suivante pour obtenir une échelle continue, W étant la consommation d'énergie en Watts :
 
 $K = \frac{\log_{10}{W}-6}{10}$
 
@@ -62,7 +62,7 @@ La société à 2 Kilowatts n'est pas un objectif, c'est l'aveu anticipé d'une 
 4. <span id="ref-4"></span>[Manicore](http://www.manicore.com), Jean-Marc Jancovici, le site de référence en matière d'énergie
 5. <span id="ref-5"></span>Harry D. Saunders, "[Khazzoom-Brookes Postulate and Neoclassical Growth](http://ideas.repec.org/a/aen/journl/1992v13-04-a07.html)" , 1992, The Energy Journal, 13(4), p.130-147
 6. <span id="ref-6"></span>Jeff Rubin, "[The Efficiency Paradox](http://research.cibcwm.com/economic_public/download/snov07.pdf)", Novembre 2007, StrategEcon
-7. <span id="ref-7"></span>[Postulat de Khazzoom-Brookes](http://fr.wikipedia.org/wiki/Postulat_de_Khazzoom-Brookes)sur Wikipedia (traduit de l'anglais par Dr. Goulu)
+7. <span id="ref-7"></span>[Postulat de Khazzoom-Brookes](w:)sur Wikipedia (traduit de l'anglais par Dr. Goulu)
     
     L’énergie dans le monde :
     

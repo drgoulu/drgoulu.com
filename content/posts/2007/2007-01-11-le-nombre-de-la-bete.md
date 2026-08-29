@@ -22,4 +22,4 @@ Comprenne qui pourra ... Mais il est vrai que 666 est un nombre vraiment intére
 
 Pas mal, pour un nombre mystique !
 
-Références : [le nombre de la bête](http://fr.wikipedia.org/wiki/Nombre_de_la_b%C3%AAte) , [666](http://fr.wikipedia.org/wiki/666_%28nombre%29 "666 (nombre)") et [nombre de Smith](http://fr.wikipedia.org/wiki/Nombre_de_Smith "Nombre de Smith") sur Wikipedia
+Références : [le nombre de la bête](w:Nombre_de_la_bête) , [666](w:666_(nombre) "666 (nombre)") et [nombre de Smith](w: "Nombre de Smith") sur Wikipedia

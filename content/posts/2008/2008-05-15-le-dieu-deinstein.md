@@ -26,11 +26,11 @@ Einstein n'était pas athée, il l'a clairement écrit dans un télégramme au r
 
 > _**Je crois au Dieu de Spinoza, qui se révèle dans l'ordre harmonieux de ce qui existe, et non en un dieu qui se préoccupe du sort et des actions des êtres humains.**_
 
-Baruch [Spinoza](https://fr.wikipedia.org/wiki/Spinoza) est un philosophe juif du XVIIème qui fut excommunié pour s'être opposé à la conception transcendante du divin. Selon lui, Dieu n'est pas extérieur au monde, mais [immanent](https://fr.wikipedia.org/wiki/immanence) à la Nature, il est la Nature. Spinoza était donc un [pantheiste](https://fr.wikipedia.org/wiki/panthéisme) [matérialiste](https://fr.wikipedia.org/wiki/matérialisme), reconnu comme tel par Albert :
+Baruch [Spinoza](w:) est un philosophe juif du XVIIème qui fut excommunié pour s'être opposé à la conception transcendante du divin. Selon lui, Dieu n'est pas extérieur au monde, mais [immanent](w:immanence) à la Nature, il est la Nature. Spinoza était donc un [pantheiste](w:panthéisme) [matérialiste](w:matérialisme), reconnu comme tel par Albert :
 
 > Je suis fasciné par le panthéisme de Spinoza, mais j'admire plus encore sa contribution à la pensée moderne, parce qu'il est le premier philosophe qui traite l'esprit et le corps comme unité, et non comme deux choses séparées.
 
-D'autres sources laissent penser qu'Einstein était [agnostique](https://fr.wikipedia.org/wiki/agnostique), mais il n'était certainement pas athée au vu des nombreuses [citations](http://atheisme.free.fr/Citations/Einstein.htm) où il mentionne Dieu :
+D'autres sources laissent penser qu'Einstein était [agnostique](w:), mais il n'était certainement pas athée au vu des nombreuses [citations](http://atheisme.free.fr/Citations/Einstein.htm) où il mentionne Dieu :
 
 - "_Je ne peux pas imaginer un Dieu qui récompense et punit l'objet de sa création. Je ne peux pas me figurer un Dieu qui réglerait sa volonté sur l'expérience de la mienne. Je ne veux pas et je ne peux pas concevoir un être qui survivrait à la mort de son corps. Si de pareilles idées se développent en un esprit, je le juge faible, craintif et stupidement égoïste._" (Albert Einstein, Comment je vois le monde / 1934)
 - "_Cette conviction, liée à un sentiment profond d'une raison supérieure, se dévoilant dans le monde de l'expérience, traduit pour moi l'idée de Dieu._" (Albert Einstein, Comment je vois le monde / 1934)

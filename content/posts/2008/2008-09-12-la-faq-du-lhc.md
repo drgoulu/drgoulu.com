@@ -25,7 +25,7 @@ Quelques questions fréquemment posées à propos du LHC du CERN :
 
 ### C'est quoi, un hadron ?
 
-Logiquement, le LHC aurait pu s'appeler LPC, pour "large proton collider" parce qu'on y fracassera prochainement des protons les uns contre les autres. Mais plus tard, on va également y accélérer des noyaux de plomb, formés de protons et de neutrons. Les protons et les neutrons appartenant à la famille des [hadrons](https://fr.wikipedia.org/wiki/hadrons) (ce sont plus précisément des [baryons](https://fr.wikipedia.org/wiki/baryons)), on a trouvé que LHC, ça sonnait bien. Moi j'aurais préféré un nom plus poétique comme "tournicoton" ou "femto-banger", mais on ne m'a pas demandé mon avis.
+Logiquement, le LHC aurait pu s'appeler LPC, pour "large proton collider" parce qu'on y fracassera prochainement des protons les uns contre les autres. Mais plus tard, on va également y accélérer des noyaux de plomb, formés de protons et de neutrons. Les protons et les neutrons appartenant à la famille des [hadrons](w:) (ce sont plus précisément des [baryons](w:)), on a trouvé que LHC, ça sonnait bien. Moi j'aurais préféré un nom plus poétique comme "tournicoton" ou "femto-banger", mais on ne m'a pas demandé mon avis.
 
 ### D'où viennent les protons ?
 
@@ -53,7 +53,7 @@ Puis, les 2808 paquets de protons sont injectés un à un dans chaque sens du LH
 
 ### MeV, GeV, TeV ???
 
-L' [électron-volt](https://fr.wikipedia.org/wiki/électron-volt) (eV) est une unité à tout faire. A la base, c'est la minuscule énergie d'un électron accéléré par une tension de 1 Volt. Mais selon la célèbre équation d'Albert E=mc2 lue à l'envers, m=E/c2, la masse d'une particule peut aussi être mesurée en électron-volt (divisés par la vitesse de la lumière au carré, mais on laisse souvent tomber ce détail). Ainsi, un proton au repos à une masse de .938 GeV (Giga-électron-volt) et dans le LHC on l'accélère à 7 TeV (Tera-électron-volt) soit 7000 GeV.
+L' [électron-volt](w:) (eV) est une unité à tout faire. A la base, c'est la minuscule énergie d'un électron accéléré par une tension de 1 Volt. Mais selon la célèbre équation d'Albert E=mc2 lue à l'envers, m=E/c2, la masse d'une particule peut aussi être mesurée en électron-volt (divisés par la vitesse de la lumière au carré, mais on laisse souvent tomber ce détail). Ainsi, un proton au repos à une masse de .938 GeV (Giga-électron-volt) et dans le LHC on l'accélère à 7 TeV (Tera-électron-volt) soit 7000 GeV.
 
 Comme Albert s'obstine à dire que l'énergie et la masse c'est la même chose à un facteur près, ça signifie qu'à la vitesse correspondant à cette énergie (99.999999% de la vitesse de la lumière, "huit neufs" comme j'appelle ça dans "[accélération](/2004/08/09/acceleration/)"), tout se passe comme si le proton pesait plus de 7000x son poids au repos. Le choc n'en sera que plus violent.
 
@@ -112,7 +112,7 @@ Posez-les dans les commentaires et on tentera d'y répondre.
 1. <span id="ref-1"></span>C.E. Hill "[ION AND ELECTRON SOURCES](http://linac2.home.cern.ch/linac2/seminar/seminar.htm)" CERN, Geneva, Switzerland
 2. <span id="ref-2"></span>[LHC facts and figures](http://public.web.cern.ch/Public/en/LHC/Facts-en.html)
 3. <span id="ref-3"></span>[LHC machine outreach](http://lhc-machine-outreach.web.cern.ch/lhc-machine-outreach/lhc-machine-outreach-faq.htm)
-4. <span id="ref-4"></span>l'inévitable [Wikipedia](http://fr.wikipedia.org/wiki/Large_Hadron_Collider)
+4. <span id="ref-4"></span>l'inévitable [Wikipedia](w:Large_Hadron_Collider)
 5. <span id="ref-5"></span>[aimants et accélérateurs](http://irfu.cea.fr/Phocea/Vie_des_labos/Ast/astimg.php?voir=1280&type=theme) au cea : plein d'illustrations intéressantes
 6. <span id="ref-6"></span>[Alice et le plomb](http://www.lhc-france.fr/?article7)
 7. <span id="ref-7"></span>[Alice au CERN](http://public.web.cern.ch/Public/fr/LHC/ALICE-fr.html) et aussi [ici en anglais](http://aliceinfo.cern.ch/Public/Welcome.html)

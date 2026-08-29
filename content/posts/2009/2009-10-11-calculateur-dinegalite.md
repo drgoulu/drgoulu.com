@@ -23,7 +23,7 @@ La mesure d'(in)égalité des revenus la plus utilisée au niveau international 
 
 Le coefficient de Gini pourrait facilement être utilisé au niveau des entreprises. J'ai d'ailleurs créé une [feuille de calcul](http://www.box.net/shared/njhn3h3out) permettant de le calculer en ligne pour des entreprises de moins de 100 personnes\*. C'est tout simple : copiez/coller les montants des salaires de votre entreprise dans la première colonne, triez-la dans l'ordre croissant, et voilà !
 
-Le petit graphique associé (dont il faut changer l'échelle horizontale à la main au besoin) trace en bleu la [courbe de Lorenz](http://fr.wikipedia.org/wiki/Courbe_de_Lorenz) qui montre la progressivité des revenus. L'indice de Gini est défini par la fraction de la surface entre la courbe bleue et la droite rouge par la surface sous la droite rouge.
+Le petit graphique associé (dont il faut changer l'échelle horizontale à la main au besoin) trace en bleu la [courbe de Lorenz](w:) qui montre la progressivité des revenus. L'indice de Gini est défini par la fraction de la surface entre la courbe bleue et la droite rouge par la surface sous la droite rouge.
 
 En jouant avec cet outil, vous constaterez que l'initiative "1:12" des jeunesses socialistes n'implique pas du tout une distribution équitable des revenus. Comme le montrent les cas extrêmes ci-dessous, le coefficient de Gini peut varier énormément même si le salaire le plus élevé vaut 12x le salaire minimal:
 
@@ -35,7 +35,7 @@ Pour des revenus réellement équitables, il faudrait que le coefficient de Gini
 
 - 10% du personnel touche un salaire 6x supérieur aux 90%
 - 50% du personnel touche un salaire 4x supérieur aux autres 50%
-- [distribution uniforme](http://fr.wikipedia.org/wiki/Loi_uniforme_continue)des salaires : 10% touchent un salaire de base, 10% touchent 2x plus, 10% touchent 3x plus etc jusqu'aux 10% qui touchent 10x le salaire de base:
+- [distribution uniforme](w:Loi_uniforme_continue)des salaires : 10% touchent un salaire de base, 10% touchent 2x plus, 10% touchent 3x plus etc jusqu'aux 10% qui touchent 10x le salaire de base:
     
     {{< figure src="images/4a57146795bddaf647e74921f592a4c3.png" alt="Lorenz 1-12-3" caption="distribution uniforme des revenus : Gini = 0.33" link="/wp-content/uploads/HLIC/4a57146795bddaf647e74921f592a4c3.png" align="aligncenter" width="457" >}}
 

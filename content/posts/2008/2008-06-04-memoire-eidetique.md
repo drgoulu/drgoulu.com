@@ -9,7 +9,7 @@ tags:
   - "psychologie"
 ---
 
-Quelques personnes sont dotées d'une faculté assez incroyable : la [mémoire eidétique](https://fr.wikipedia.org/wiki/mémoire_eidétique). Elle permet de mémoriser instantanément le contenu d'une image ou une scène vue, puis de la décrire avec une grande précision. Beaucoup de personnages célèbres ont pu exploiter ce don étonnant, comme Ampère, Jacques Bergier, Kasparov, Mozart et autres.
+Quelques personnes sont dotées d'une faculté assez incroyable : la [mémoire eidétique](w:). Elle permet de mémoriser instantanément le contenu d'une image ou une scène vue, puis de la décrire avec une grande précision. Beaucoup de personnages célèbres ont pu exploiter ce don étonnant, comme Ampère, Jacques Bergier, Kasparov, Mozart et autres.
 
 Si vous voulez savoir si vous avez la mémoire eidétique, faites [ce test en ligne](http://jeuxi.com/game/27541-memoire-de-singe-jeu.fr.html#play):
 

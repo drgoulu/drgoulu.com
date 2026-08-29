@@ -12,7 +12,7 @@ tags:
 
 En cherchant des précédents à la grande catastrophe du tsunami de l’océan indien, je suis tombé sur une [liste intéressante](http://www.imminst.org/freitas.html).
 
-Voici les [événements naturels](https://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll) répertoriés ayant causé plus de 100’000 victimes :
+Voici les [événements naturels](w:en:List_of_natural_disasters_by_death_toll) répertoriés ayant causé plus de 100’000 victimes :
 
 - 1939 Débordement du fleuve Jaune (Chine) : 3,7 MILLIONS de morts
 - 1970 Typhon au Bengladesh : 1 Million
@@ -29,7 +29,7 @@ Voici les [événements naturels](https://en.wikipedia.org/wiki/List_of_natural_
 - 1911 Débordement du fleuve Yangtse(Chine) : 100’000
 - 1939 Tremblement de terre Erzingan (Turquie) : 100’000
 
-On voit que l’Asie est malheureusement une cible habituelle de grandes catastrophes, plus encore si on tient compte des [grands conflits et massacres](https://en.wikipedia.org/wiki/List_of_wars_and_anthropogenic_disasters_by_death_toll), parmi lesquels :
+On voit que l’Asie est malheureusement une cible habituelle de grandes catastrophes, plus encore si on tient compte des [grands conflits et massacres](w:en:List_of_wars_and_anthropogenic_disasters_by_death_toll), parmi lesquels :
 
 - 1853-1864 Rebellion Tai-ping (Chine) : 25 Millions de morts en 10 ans !
 - 1950-1951 Guerre de Corée : 4 Millions

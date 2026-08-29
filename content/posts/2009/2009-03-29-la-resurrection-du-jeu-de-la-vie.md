@@ -12,7 +12,7 @@ tags:
 coverImage: "a470c29cf6c88b820cc608831b61f545.gif"
 ---
 
-Le [Jeu de  vie](https://fr.wikipedia.org/wiki/Jeu_de _vie) imaginé par [John Conway](https://fr.wikipedia.org/wiki/John_Conway) en 1970 est un automate cellulaire célébrissime pour au moins deux raisons:
+Le [Jeu de  vie](https://fr.wikipedia.org/wiki/Jeu_de _vie) imaginé par [John Conway](w:) en 1970 est un automate cellulaire célébrissime pour au moins deux raisons:
 
 1. {{< figure src="images/a470c29cf6c88b820cc608831b61f545.gif" alt="Un canon à planeurs" caption="Un &quot;canon à planeurs&quot;" width="250" >}}
     
@@ -21,12 +21,12 @@ Le [Jeu de  vie](https://fr.wikipedia.org/wiki/Jeu_de _vie) imaginé par [John
 
 Après une flambée d'intérêt dans les années 1980 où on a même vu apparaitre des processeurs spécialisés dans l'exécution d'automates cellulaires, le soufflé est retombé dans la décennie suivante car la simulation de grands automates demandait beaucoup de puissance de calcul et de mémoire.
 
-Mais comme nous l'apprend Jean-Paul Delahaye dans le dernier "Pour la Science" [[1]](#ref-1), il y a du nouveau. En 2005 est apparu "[Golly](http://golly.sourceforge.net/)", un logiciel Open Source utilisant "[Hashlife](https://fr.wikipedia.org/wiki/Hashlife)", un algorithme accélérant le calcul des automates cellulaires d'une manière phénoménale. Hashlife a été imaginé en 1984 déjà par [Bill Gosper](https://fr.wikipedia.org/wiki/Bill_Gosper) [[3]](#ref-3), un des premiers "hacker" du Xerox Park de Palo Alto. Mais pour une étrange raison, ce n'est qu'en 2004 Tomas Rokicki l'a implanté en C et décrit dans un article intitulé "un algorithme pour compresser le temps et l'espace" [[2]](#ref-2).
+Mais comme nous l'apprend Jean-Paul Delahaye dans le dernier "Pour la Science" [[1]](#ref-1), il y a du nouveau. En 2005 est apparu "[Golly](http://golly.sourceforge.net/)", un logiciel Open Source utilisant "[Hashlife](w:)", un algorithme accélérant le calcul des automates cellulaires d'une manière phénoménale. Hashlife a été imaginé en 1984 déjà par [Bill Gosper](w:) [[3]](#ref-3), un des premiers "hacker" du Xerox Park de Palo Alto. Mais pour une étrange raison, ce n'est qu'en 2004 Tomas Rokicki l'a implanté en C et décrit dans un article intitulé "un algorithme pour compresser le temps et l'espace" [[2]](#ref-2).
 
 Hashlife combine en effet deux techniques de programmation :
 
 1. une partition de l'espace qui permet d'une part d'ignorer les grandes zones de cellules vides et d'autre part de reconnaitre les copies identiques de groupes de cellules
-2. la "[Mémoization](https://fr.wikipedia.org/wiki/Mémoization)", qui consiste à mémoriser des résultats précédemment calculés afin de les restituer immédiatement lorsque la même situation se représente.
+2. la "[Mémoization](w:)", qui consiste à mémoriser des résultats précédemment calculés afin de les restituer immédiatement lorsque la même situation se représente.
 
 Ainsi, hashlife ne calcule qu'une seule fois l'évolution d'un groupe de cellules qui serait présent à des milliers d'exemplaires dispersés sur un immense jeu de la vie, et n'a besoin de mémoire que pour stocker chacune des étapes d'un cycle au lieu de millions de cellules.
 
@@ -48,9 +48,9 @@ Le "Jeu de la Vie" est donc capable d'exécuter un programme jouant au "Jeu de l
 
 {{< youtube id="Rj3va_5qcM4" width="640" >}}
 
-Mais en 2000, Paul Rendell a réussi a créer une  "[Machine de Turing](https://fr.wikipedia.org/wiki/Machine_de_Turing)" en Jeu de la Vie [[3]](#ref-3), ce qui signifie que ce petit jeu aux  règles extraordinairement simple est capable, avec une astucieuse programmation, de réaliser toutes les opérations d'un ordinateur usuel.
+Mais en 2000, Paul Rendell a réussi a créer une  "[Machine de Turing](w:)" en Jeu de la Vie [[3]](#ref-3), ce qui signifie que ce petit jeu aux  règles extraordinairement simple est capable, avec une astucieuse programmation, de réaliser toutes les opérations d'un ordinateur usuel.
 
-Outre le jeu de la Vie, Golly peut exécuter d'autres automates cellulaires en utilisant le fantastique algorithme Hashlife, notamment [Wireworld](https://fr.wikipedia.org/wiki/Wireworld), un système simulant les circuits électroniques digitaux.
+Outre le jeu de la Vie, Golly peut exécuter d'autres automates cellulaires en utilisant le fantastique algorithme Hashlife, notamment [Wireworld](w:), un système simulant les circuits électroniques digitaux.
 
 "Hashlife" est bien un algorithme qui compresse l'espace et le temps, comme le dit Rokicki, et il  est même d'un usage assez général. Je ne serais pas étonné s'il trouvait prochainement des applications "sérieuses", en simulation notamment.
 

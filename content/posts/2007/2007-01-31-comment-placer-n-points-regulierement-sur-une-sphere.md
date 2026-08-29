@@ -29,8 +29,8 @@ Le seul problème pour lequel il existe des solutions exactes est le "covering" 
 
 - pour N=4, la disposition optimale correspond aux sommets d'un tétraèdre régulier
 - pour N=6, aux sommets d'un octaèdre
-- pour N=8, ce ne sont **pas les sommets d'un cube**, mais de l'[antiprisme carré](https://fr.wikipedia.org/wiki/antiprisme_carré)
-- pour N=12, ce sont les sommets d'un [icosaèdre](https://fr.wikipedia.org/wiki/icosaèdre). L'icosaèdre (ci-contre) est formé de 20 triangles équilatéraux égaux
+- pour N=8, ce ne sont **pas les sommets d'un cube**, mais de l'[antiprisme carré](w:)
+- pour N=12, ce sont les sommets d'un [icosaèdre](w:). L'icosaèdre (ci-contre) est formé de 20 triangles équilatéraux égaux
 - pour N=20, on peut donc projeter sur la sphère les centres des 20 faces de l'icosaèdre, ce qui va avoir de l'importance dans la suite
 
 de plus :
@@ -45,13 +45,13 @@ Pour toutes les autres valeurs de N, les solutions ne peuvent pas être construi
 
 ### Solutions icosahédriques
 
-![](images/7df82e7855d92248c985bbd8a4aba60a.gif)Pour certaines valeurs de N, on peut construire de "jolis" arrangements "presque" optimaux en utilisant l'intéressante propriété de l'icosaèdre d'être optimal et d'avoir des faces triangulaires équilatérales. En subdivisant une face (qui est un triangle équilatéral) en plus petits triangles équilatéraux puis en projetant les sommets sur la sphère, et en appliquant la "symétrie icosahédrale" consistant à recopier ces points pour chacune des 20 faces de l'icosahèdre, on obtient les formes en "[géode](https://fr.wikipedia.org/wiki/géode)" bien connues dans la construction
+![](images/7df82e7855d92248c985bbd8a4aba60a.gif)Pour certaines valeurs de N, on peut construire de "jolis" arrangements "presque" optimaux en utilisant l'intéressante propriété de l'icosaèdre d'être optimal et d'avoir des faces triangulaires équilatérales. En subdivisant une face (qui est un triangle équilatéral) en plus petits triangles équilatéraux puis en projetant les sommets sur la sphère, et en appliquant la "symétrie icosahédrale" consistant à recopier ces points pour chacune des 20 faces de l'icosahèdre, on obtient les formes en "[géode](w:)" bien connues dans la construction
 
 La page [Tables of Spherical Codes with Icosahedral Symmetry de R. H. Hardin, N. J. A. Sloane and W. D. Smith](http://neilsloane.com/icosahedral.codes/) fournit ce type de solutions pour N=60, 72, 80, 90 ... 78032. (l'applet n'a plus l'air de marcher, mais il y a du code C permettant de générer les solutions)
 
 ### Les balles de golf
 
-Pour des raisons aérodynamiques, les [balles de golf](https://fr.wikipedia.org/wiki/balle_de_golf) ont entre 300 et 450 petites cavités ("dimples" en anglais). C'est le règlement du golf qui impose qui doivent être réparties les plus régulièrement possible, alors que la stabilisation de la balle en vol pourrait être mieux assurée par une balle du type "polara", ayant des cavités différentes le long d'un équateur.
+Pour des raisons aérodynamiques, les [balles de golf](w:balle_de_golf) ont entre 300 et 450 petites cavités ("dimples" en anglais). C'est le règlement du golf qui impose qui doivent être réparties les plus régulièrement possible, alors que la stabilisation de la balle en vol pourrait être mieux assurée par une balle du type "polara", ayant des cavités différentes le long d'un équateur.
 
 La plupart des balles de golf existantes sont donc construites par symétrie icosahédrale, en veillant à ce qu'il n'y ait pas de cavité le long d'une ligne pour permettre la réalisation de moules "simples". Comme on le voit ci-dessous, on peut remplir les faces triangulaires de l'icosaèdre de nombreuses façons, et même jouer sur la dimension des "dimples" pour tenter de compenser des irrégularités :
 

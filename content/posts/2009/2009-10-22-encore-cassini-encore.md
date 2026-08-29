@@ -29,4 +29,4 @@ Sources:
 
 - John Spencer: "[Cassini's proposed extended-extended mission tour](http://www.planetary.org/blog/article/00001856/)"
 - Le très bon [site officiel de Cassini](http://cassini-2.jpl.nasa.gov/)
-- [La sonde Cassini-Huygens](http://fr.wikipedia.org/wiki/Cassini-Huygens_%28sonde_spatiale%29) sur Wikipedia
+- [La sonde Cassini-Huygens](w:Cassini-Huygens_(sonde_spatiale)) sur Wikipedia

@@ -11,7 +11,7 @@ coverImage: "c14e7902a08802229cdbcba55f05a6ef.gif"
 
 Les millions d'ordinateurs interconnectés sour internet font à 90% la même chose : RIEN.
 
-Utiliser la fabuleuse puissance de calcul de ces machines pendant que leur utilisateur n'y a pas recours, c'est le principe du [calcul distribué, ou calcul réparti](http://fr.wikipedia.org/wiki/Calcul_r%C3%A9parti).
+Utiliser la fabuleuse puissance de calcul de ces machines pendant que leur utilisateur n'y a pas recours, c'est le principe du [calcul distribué, ou calcul réparti](w:Calcul_réparti).
 
 Le désormais célèbre projet [SETI@Home](http://setiathome.berkeley.edu/) a été le premier a appliquer cette idée dès 1998 pour identifier des signaux extraterrestres intelligents dans les ondes recues du Cosmos, sans succès car comme je le démontre dans le "[Principe de Saturation Cubique](/1999/10/23/psc/)", des extraterrestres intelligents font très attention de ne pas émettre de signaux.
 

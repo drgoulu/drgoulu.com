@@ -29,5 +29,5 @@ L'idée de lancer des véhicules électriques dans le haut de gamme me parait ex
 ### sources:
 
 - les différents [blogs](http://www.teslamotors.com/blog) de l'entreprise.
-- [Tesla Roadster sur Wikipedia](http://en.wikipedia.org/wiki/Tesla_Roadster)
+- [Tesla Roadster sur Wikipedia](w:en:Tesla_Roadster)
 - [Riding the PCH and more in a Tesla Roadster!](http://green.autoblog.com/2007/11/17/video-riding-the-pch-and-more-in-a-tesla-roadster/) sur AutoblogGreen

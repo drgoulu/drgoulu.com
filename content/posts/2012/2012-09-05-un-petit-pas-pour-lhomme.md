@@ -18,27 +18,27 @@ coverImage: "6b2d81bb2e5470ab315f030e1f4d06cc1-1.png"
 La mort de Neil Armstrong me fait penser à plusieurs petites choses, et à une plus importante:
 
 - D'abord que la [prédiction graphique de xkcd.com](http://xkcd.com/893/) est en marche : [![](images/6b2d81bb2e5470ab315f030e1f4d06cc.png)](http://xkcd.com/893/)
-- Ensuite, un bon reportage récent intitulé "La fin des astronautes ?" (avec un point d'interrogation), passé sur Arte cet été [[1]](#ref-1). [Eugene Cernan](https://fr.wikipedia.org/wiki/Eugene_Cernan), dernier humain à avoir foulé la Lune, y explique qu'il était convaincu qu'il serait rapidement suivi par beaucoup d'autres et qu'un vol habité vers Mars aurait lieu au XXème siècle encore...
+- Ensuite, un bon reportage récent intitulé "La fin des astronautes ?" (avec un point d'interrogation), passé sur Arte cet été [[1]](#ref-1). [Eugene Cernan](w:), dernier humain à avoir foulé la Lune, y explique qu'il était convaincu qu'il serait rapidement suivi par beaucoup d'autres et qu'un vol habité vers Mars aurait lieu au XXème siècle encore...
 - Un autre reportage (pas retrouvé) passé aussi cet été dans lequel les pionniers se rappellent des années folles, et en particulier du sang-froid de Neil Armstrong. Par exemple cette fois où il s'est éjecté à la dernière seconde d'un engin d'entrainement et a failli atterrir en parachute au milieu des flammes:
 
 {{< youtube id="QDI8SQ2fmLA" width="640" >}}
 
 Après ça,  il est allé tranquillement au bureau des astronautes faire du travail administratif...
 
-- La transcription d'une conversation entre John Fitzgerald Kennedy et [James E. Webb](https://fr.wikipedia.org/wiki/James_E._Webb) en 1963 [[2]](#ref-2) révèle que le coût de la course à la Lune n'était pas facile à justifier:
+- La transcription d'une conversation entre John Fitzgerald Kennedy et [James E. Webb](w:) en 1963 [[2]](#ref-2) révèle que le coût de la course à la Lune n'était pas facile à justifier:
     - Kennedy : "_La température va continuer à monter à moins que nous ne puissions dire que ça a une justification militaire, et pas seulement du prestige_".
     - Webb : "_Je pense que ça générera la technologie qui fera la différence pour ce pays bien au delà de l'espace_" ("far beyond space", j'aime bien ;-) ).
     - Et lorsque Kennedy lui demande la Lune pourra être conquise lors de son second mandat (1965-1969 s'il n'avait pas été assassiné), Webb répond catégoriquement "_Non_". Puis "_Ca prendra juste plus longtemps que ça. C'est un sacré boulot, vraiment un sacré boulot..._"
-- Et puis Neil et les 11 autres l'ont fait. En prenant des risques fous comme le montre par exemple l'[AMDEC](https://fr.wikipedia.org/wiki/AMDEC) de la fusée Saturn V [[3]](#ref-3) : "_The total [S-IVB](https://fr.wikipedia.org/wiki/S-IVB) propulsion stage reliability for the engine. TVC, tank and feed system is: P = (.9522) (.9939) (.9940) = .938_". 6% de risque d'échec rien que pour le 3ème étage ...
-- Pourtant, pour aller sur Mars, certains sont prêts à courir un risque de 100% d'y rester. Et pas forcément des illuminés : même notre [Claude Nicollier](https://fr.wikipedia.org/wiki/Claude_Nicollier) national serait prêt à faire un voyage simple course [[4]](#ref-4) ! En fait, si on y réfléchit ce ne serait pas idiot : la grosse difficulté d'une mission humaine vers Mars, c'est d'y amener un véhicule capable de revenir. L'Australie et quelques autres contrées lointaines ont été colonisées par des prisonniers partis sans espoir de retour, pourquoi pas Mars ?
+- Et puis Neil et les 11 autres l'ont fait. En prenant des risques fous comme le montre par exemple l'[AMDEC](w:) de la fusée Saturn V [[3]](#ref-3) : "_The total [S-IVB](w:) propulsion stage reliability for the engine. TVC, tank and feed system is: P = (.9522) (.9939) (.9940) = .938_". 6% de risque d'échec rien que pour le 3ème étage ...
+- Pourtant, pour aller sur Mars, certains sont prêts à courir un risque de 100% d'y rester. Et pas forcément des illuminés : même notre [Claude Nicollier](w:) national serait prêt à faire un voyage simple course [[4]](#ref-4) ! En fait, si on y réfléchit ce ne serait pas idiot : la grosse difficulté d'une mission humaine vers Mars, c'est d'y amener un véhicule capable de revenir. L'Australie et quelques autres contrées lointaines ont été colonisées par des prisonniers partis sans espoir de retour, pourquoi pas Mars ?
 - Pour ma part, la question posée par Nikos Pranzos [[5]](#ref-5) continue de me tarabuster : après avoir dépensé tant d'énergie pour sortir de notre puits gravitationnel, pourquoi redescendre dans un autre ? Pourquoi ne pas rester dans l'espace, où tout est si léger, si accessible ?
 - Vous ne savez pas ce qu'est un puits gravitationnel ? Alors lisez la suite, vous allez comprendre pourquoi ce n'est pas demain que des hommes iront loin dans l'espace.
 
 ### Les puits gravitationnels
 
-Pour qu'une fusée décolle, il faut que ses moteurs exercent une force supérieure à F=m.g, où m est la masse de la fusée, et [g=9.81 m/s²](https://fr.wikipedia.org/wiki/Pesanteur) l'attraction à la surface de la Terre. Mais plus elle s'éloigne de la surface, plus cette force diminue car la force de [gravitation](https://fr.wikipedia.org/wiki/gravitation) diminue comme le carré de la distance\*.
+Pour qu'une fusée décolle, il faut que ses moteurs exercent une force supérieure à F=m.g, où m est la masse de la fusée, et [g=9.81 m/s²](w:Pesanteur) l'attraction à la surface de la Terre. Mais plus elle s'éloigne de la surface, plus cette force diminue car la force de [gravitation](w:) diminue comme le carré de la distance\*.
 
-Pour s'éloigner à l'infini, il faut que le [travail de la force](https://fr.wikipedia.org/wiki/travail_d'une_force) de propulsion de la fusée atteigne l'énergie de libération\*\* E=m.[G.M/R](http://www.wolframalpha.com/input/?i=Gravitational+constant+*+Mass+Earth+%2FRadius+Earth) où G est la [constante gravitationnelle](https://fr.wikipedia.org/wiki/constante_gravitationnelle), M la masse de la Terre et R son rayon [[7]](#ref-7).
+Pour s'éloigner à l'infini, il faut que le [travail de la force](w:travail_d'une_force) de propulsion de la fusée atteigne l'énergie de libération\*\* E=m.[G.M/R](http://www.wolframalpha.com/input/?i=Gravitational+constant+*+Mass+Earth+%2FRadius+Earth) où G est la [constante gravitationnelle](w:), M la masse de la Terre et R son rayon [[7]](#ref-7).
 
 La fusée doit donc produire un travail (= énergie) d'au moins E=62,5.106Joules par kg à expédier très loin.
 
@@ -48,7 +48,7 @@ Si l'énergie de la fusée n'est pas suffisante pour sortir du puits, elle retom
 
 [![](images/b9ffbad1485373d5e9006ec180f829a3.png)](http://expliquenoustout.blogspot.ch/2011/05/puits-gravitationnel-et-missions.html)
 
-D'ailleurs, sur cette courbe calculé par Julien [[7]](#ref-7) avec [Scilab](http://www.scilab.org/), on voit l'orbite de la Lune, à 360'000 km, qui creuse elle aussi un tout petit "puits gravitationnel" de 288 km seulement. Toute les missions Apollo sont là : un énorme fusée [Saturn V](https://fr.wikipedia.org/wiki/Saturn_V) pour "gravir" environ 6000 km de puits, un petit [module de service Apollo](https://fr.wikipedia.org/wiki/module_de_service Apollo) pour parcourir les 300'000 km jusqu'à la Lune en "montant" encore de 200 km dans le puits (et freiner la "descente" équivalente au retour) , et un minuscule [LEM](https://fr.wikipedia.org/wiki/module_lunaire_Apollo) 20x moins puissant (par kg) que la fusée Saturn-V pour descendre au fond de la Lune et en ressortir.
+D'ailleurs, sur cette courbe calculé par Julien [[7]](#ref-7) avec [Scilab](http://www.scilab.org/), on voit l'orbite de la Lune, à 360'000 km, qui creuse elle aussi un tout petit "puits gravitationnel" de 288 km seulement. Toute les missions Apollo sont là : un énorme fusée [Saturn V](w:) pour "gravir" environ 6000 km de puits, un petit [module de service Apollo](https://fr.wikipedia.org/wiki/module_de_service Apollo) pour parcourir les 300'000 km jusqu'à la Lune en "montant" encore de 200 km dans le puits (et freiner la "descente" équivalente au retour) , et un minuscule [LEM](w:module_lunaire_Apollo) 20x moins puissant (par kg) que la fusée Saturn-V pour descendre au fond de la Lune et en ressortir.
 
 Randall Munroe de xkcd (encore) a réalisé un [extraordinaires dessin](http://xkcd.com/681/) de tous les puits gravitationnels du système solaire, les remplissant même avec des demi-planètes à l'échelle :
 
@@ -56,20 +56,20 @@ Randall Munroe de xkcd (encore) a réalisé un [extraordinaires dessin](http:/
 
 Le plus important est évidemment celui du Soleil, tellement profond qu'il n'est que très partiellement représenté à gauche. Son influence est très importante pour les planètes intérieures : Mercure, Vénus, la Terre et Mars, qui sont situées à des niveaux très différents de ce puits. Pour aller vers l'une de ces planètes, il faut non seulement sortir du puits local de la Terre mais gravir ou descendre un bout du puits gravitationnel du Soleil \*\*\*.
 
-Par contre, une fois passée l'orbite des astéroïdes, pousser jusqu'à Jupiter, Saturne, Uranus, Neptune ou beaucoup plus loin ne nécessite pas beaucoup plus d'énergie : les sondes n'accélèrent que pour gagner du temps, et elles peuvent d'ailleurs utiliser pour ça l'[assistance gravitationnelle](https://fr.wikipedia.org/wiki/assistance_gravitationnelle) des énormes puits de Jupiter et Saturne. En passant, j'adore la représentation des anneaux de Saturne en couches dans le puits de la planète!
+Par contre, une fois passée l'orbite des astéroïdes, pousser jusqu'à Jupiter, Saturne, Uranus, Neptune ou beaucoup plus loin ne nécessite pas beaucoup plus d'énergie : les sondes n'accélèrent que pour gagner du temps, et elles peuvent d'ailleurs utiliser pour ça l'[assistance gravitationnelle](w:) des énormes puits de Jupiter et Saturne. En passant, j'adore la représentation des anneaux de Saturne en couches dans le puits de la planète!
 
 La problématique d'un vol habité vers Mars apparaît dans deux détails de ce génial dessin:
 
 | [![](images/4df50ad10de1c7c9b6a608d477aae846.png)](http://xkcd.com/681/) | [![](images/95cd209cae391212256923227b5e8a1a.jpg "Zoom sur les puits locaux")](http://xkcd.com/681/) |
 | --- | --- |
 
-L'illustration de gauche révèle que depuis Apollo, les humains sont confinés dans quelques centaines de km au fond de leur puits. La défunte navette spatiale ne permettait que de monter que de quelques centaines de km (proche de la Terre, les km de puits sont approximativement égaux à des altitudes), et assembler un vaisseau spatial au niveau de la [station spatiale internationale](https://fr.wikipedia.org/wiki/station_spatiale_internationale) n'aiderait pas beaucoup à sortir du puits. Par contre, l'[orbite géostationnaire](https://fr.wikipedia.org/wiki/orbite_géostationnaire) à 35'786 km d'altitude est toute proche de la sortie du puits, mais sauf erreur aucun véhicule habité n'est capable d'y aller.
+L'illustration de gauche révèle que depuis Apollo, les humains sont confinés dans quelques centaines de km au fond de leur puits. La défunte navette spatiale ne permettait que de monter que de quelques centaines de km (proche de la Terre, les km de puits sont approximativement égaux à des altitudes), et assembler un vaisseau spatial au niveau de la [station spatiale internationale](w:) n'aiderait pas beaucoup à sortir du puits. Par contre, l'[orbite géostationnaire](w:) à 35'786 km d'altitude est toute proche de la sortie du puits, mais sauf erreur aucun véhicule habité n'est capable d'y aller.
 
-A droite, on voit qu'un voyage vers Mars nécessiterait un véhicule beaucoup, beaucoup plus puissant que le [Module de service Apollo](https://fr.wikipedia.org/wiki/Module_de_service_Apollo) car il devra gravir le puits du Soleil entre les deux planètes, plus haut que celui de la Terre. _"This is a tough job, a real tough job."_ comme dirait James Webb.
+A droite, on voit qu'un voyage vers Mars nécessiterait un véhicule beaucoup, beaucoup plus puissant que le [Module de service Apollo](w:) car il devra gravir le puits du Soleil entre les deux planètes, plus haut que celui de la Terre. _"This is a tough job, a real tough job."_ comme dirait James Webb.
 
 Voilà pourquoi après le "petit pas pour l'homme" de Neil Armstrong en bordure de notre puits, le "grand bond pour l'humanité" devra attendre que l'on dispose de systèmes de propulsion très puissants et légers.
 
-En attendant, on pourrait commencer par installer de vraies bases spatiales aux points de Lagrange, [exploiter les astéroïdes](http://www.planetaryresources.com/) et pourquoi pas, proposer quelques voyages "simple course". Je serais éventuellement tenté par [Titan](https://fr.wikipedia.org/wiki/Titan_(lune)), autour de mon 90ème anniversaire...
+En attendant, on pourrait commencer par installer de vraies bases spatiales aux points de Lagrange, [exploiter les astéroïdes](http://www.planetaryresources.com/) et pourquoi pas, proposer quelques voyages "simple course". Je serais éventuellement tenté par [Titan](w:Titan_(lune)), autour de mon 90ème anniversaire...
 
 {{< figure src="images/41b38c839993f9476c19c2a71806173e.jpg" alt="Cliquer pour http://fr.wikipedia.org/wiki/Point_de_Lagrange" caption="les puits du Soleil, de la Terre et de la Lune &quot;vus de dessus&quot;, en courbes de niveau, permettent de visualiser les &quot;points de Lagrange&quot; L1 à L5" link="http://fr.wikipedia.org/wiki/Point_de_Lagrange" align="aligncenter" width="489" >}}
 
@@ -77,7 +77,7 @@ En attendant, on pourrait commencer par installer de vraies bases spatiales aux 
 
 \* et aussi parce que sa masse m diminue en cramant son carburant, mais ceci ne joue pas de rôle dans le calcul du puits gravitationnel car "les masses se simplifient".
 
-\*\* à ne pas confondre avec la fameuse "[vitesse de libération](https://fr.wikipedia.org/wiki/vitesse_de_libération)" de 11.2 km/s qu'une fusée n'a pas besoin d'atteindre. Cette vitesse est celle qui est nécessaire au lancement d'un projectile pour qu'il quitte l'attraction terrestre, comme l'[obus de Jules Verne](https://fr.wikipedia.org/wiki/de_la_Terre_à_la_Lune). Son énergie cinétique vaut alors E= ½.m.v². Et Ô surprise, pour v=11'200 m/s on obtient E=62.5.106 \[J/Kg\], pile poil l'énergie de libération !
+\*\* à ne pas confondre avec la fameuse "[vitesse de libération](w:)" de 11.2 km/s qu'une fusée n'a pas besoin d'atteindre. Cette vitesse est celle qui est nécessaire au lancement d'un projectile pour qu'il quitte l'attraction terrestre, comme l'[obus de Jules Verne](w:de_la_Terre_à_la_Lune). Son énergie cinétique vaut alors E= ½.m.v². Et Ô surprise, pour v=11'200 m/s on obtient E=62.5.106 \[J/Kg\], pile poil l'énergie de libération !
 
 \*\*\* descendre un puits gravitationnel dans le vide coûte autant d'énergie que le gravir, car la fusée doit "freiner" au lieu d'accélérer...
 

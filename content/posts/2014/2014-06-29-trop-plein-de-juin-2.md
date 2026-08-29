@@ -15,13 +15,13 @@ Les articles que je n'ai pas eu le temps de finir ce mois-ci.
 
 ### La disparition de la vie sur Terre
 
-Celui-là je l'ai fini, mais [sur Kidi'Science "pour les enfants"](http://kidiscience.cafe-sciences.org/articles/la-disparition-de-la-vie-sur-terre/). J'ai appris plein de choses extraordinaires sur les [extinctions massives](https://fr.wikipedia.org/wiki/extinctions_massives) en l'écrivant et je voulais en faire une version "pour les grands ici", avec des liens, des références etc. Mais finalement l'article sur Kidi'Science peut vous convenir aussi, et je vais plutôt écrire sur l'[extinction de l'Holocène](https://fr.wikipedia.org/wiki/extinction_de_l'Holocène) à l'occasion.
+Celui-là je l'ai fini, mais [sur Kidi'Science "pour les enfants"](http://kidiscience.cafe-sciences.org/articles/la-disparition-de-la-vie-sur-terre/). J'ai appris plein de choses extraordinaires sur les [extinctions massives](w:) en l'écrivant et je voulais en faire une version "pour les grands ici", avec des liens, des références etc. Mais finalement l'article sur Kidi'Science peut vous convenir aussi, et je vais plutôt écrire sur l'[extinction de l'Holocène](w:) à l'occasion.
 
 ### Foundations of Ultraprecision Mechanisms Design
 
 Retrouvé avec délice une authentique bible de la microtechnique de précision : {{< openbook booknumber="ISBN:2884490019" templatenumber="5" >}}
 
-Le chapitre le plus intéressant est le huitième, consacré à la [sélection des matériaux](https://en.wikipedia.org/wiki/Material_selection). On y montre que les caractéristiques habituelles des matériaux (densité, module d'élasticité, conduction thermique etc.) interviennent rarement seules lorsqu'on cherche un matériau adapté à la construction d'un système pointu. Beaucoup plus souvent on a besoin d'un compromis entre plusieurs de ces caractéristiques que l'on peut représenter dans un "diagramme d'[Ashby](https://fr.wikipedia.org/wiki/Michel_Ashby)" comme celui ci-dessous:
+Le chapitre le plus intéressant est le huitième, consacré à la [sélection des matériaux](w:en:Material_selection). On y montre que les caractéristiques habituelles des matériaux (densité, module d'élasticité, conduction thermique etc.) interviennent rarement seules lorsqu'on cherche un matériau adapté à la construction d'un système pointu. Beaucoup plus souvent on a besoin d'un compromis entre plusieurs de ces caractéristiques que l'on peut représenter dans un "diagramme d'[Ashby](w:Michel_Ashby)" comme celui ci-dessous:
 
 ![Material lektion 1. HT2 7,5 p halvfart Janne Carlsson - PDF Free ...](images/8-0.png)
 
@@ -53,7 +53,7 @@ Le seul outil que j'utilise (pas assez apparemment) qui m'ait donné la "bonne" 
 
 Sinon j'ai vu un reportage extraordinaire sur les requins-baleines et j'avais commencé un article en traduisant le communiqué de presse ci-dessous:
 
-En 2006, les [Rolex Awards](http://www.rolexawards.com/) ont [récompensé Brad Norman](http://www.rolexawards.com/profiles/laureates/brad_norman), un scientifique australien spécialiste de la conservation marine, des [requins baleines](https://fr.wikipedia.org/wiki/requin_baleine) en particulier. Dès 2004, il créé un système d'identification de  ces géants des mers par les photos prises par les habitants des côtes, les plongeurs, et les touristes assez chanceux pour les croiser.
+En 2006, les [Rolex Awards](http://www.rolexawards.com/) ont [récompensé Brad Norman](http://www.rolexawards.com/profiles/laureates/brad_norman), un scientifique australien spécialiste de la conservation marine, des [requins baleines](w:requin_baleine) en particulier. Dès 2004, il créé un système d'identification de  ces géants des mers par les photos prises par les habitants des côtes, les plongeurs, et les touristes assez chanceux pour les croiser.
 
 [![](images/84681bceb625f1a001980c7430cfbf1f.jpg)](http://blog.rolexawards.com/2014/02/whale-shark-research-speeds-up-with-citizen-scientists-2/)
 

@@ -22,7 +22,7 @@ Mais Alinghi a , sauf revirement au n-ième recours, le choix dans la date (pas 
 
 _photo : [Gilles Martin-Raget](http://www.martin-raget.com/)_
 
-Après Alinghi il y a quelques semaines, ça a été [au tour d'Oracle de chavirer](http://www.tribormat.fr/post/2008/05/25/Un-dessalage-en-regle-rien-a-dire/) sur un petit cata d'entrainement de 40 pieds, où Franck Cammas, un pro de la bête enseignait son métier à Russel Coutts, [LE Russel Coutts](http://fr.wikipedia.org/wiki/Russell_Coutts).
+Après Alinghi il y a quelques semaines, ça a été [au tour d'Oracle de chavirer](http://www.tribormat.fr/post/2008/05/25/Un-dessalage-en-regle-rien-a-dire/) sur un petit cata d'entrainement de 40 pieds, où Franck Cammas, un pro de la bête enseignait son métier à Russel Coutts, [LE Russel Coutts](w:Russell_Coutts).
 
 C'est pas parce que je suis un petit Suisse que je pense que cette photo préfigure le résultat du duel, mais parce que je crois qu'Oracle n'a pas compris ce qui fait la force d'Alinghi : l'équipe. Les états-uniens sont emmenés par une forte tête notoire, le patron d'Oracle Larry Ellison, qui a engagé une autre forte tête pour diriger son team à la manière habituelle sur les bateaux : je donne les ordres, vous obéissez.
 

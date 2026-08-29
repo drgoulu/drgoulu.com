@@ -12,7 +12,7 @@ tags:
 coverImage: "ImagerieRT_Mesotheliome_02.jpg"
 ---
 
-Beaucoup de bâtiments contiennent de l'[amiante](https://fr.wikipedia.org/wiki/amiante) [[1]](#ref-1). Cette fibre minérale a été utilisée jusqu'en 1990 dans des matériaux de construction très divers que l'on peut classer en 3 grandes catégories [[2]](#ref-2) :
+Beaucoup de bâtiments contiennent de l'[amiante](w:) [[1]](#ref-1). Cette fibre minérale a été utilisée jusqu'en 1990 dans des matériaux de construction très divers que l'on peut classer en 3 grandes catégories [[2]](#ref-2) :
 
 - Amiante fortement aggloméré : l'amiante représente moins de 20% du poids et est fortement lié au matériau par un liant. Exemples : plaques en fibrociment, conduites, meubles de jardin, mais aussi plaques d'embrayage de voiture et joints d'étanchéité
 - Amiante faiblement aggloméré : l'amiante représente plus de 40% du poids et est faiblement lié par un liant. C'est le cas de l'amiante "floqué" utilisé pour l'isolation et la protection contre l'incendie, ainsi que d'autres matériaux anti-feu, notamment des plaques de faux plafonds.
@@ -23,9 +23,9 @@ Beaucoup de bâtiments contiennent de l'[amiante](https://fr.wikipedia.org/wiki/
 |   {{< figure src="images/ImageriePlaquesPleuralesRT.gif" alt="Asbestose (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux )" caption="Asbestose (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux )" width="377" >}} |   {{< figure src="images/ImagerieRT_Mesotheliome_02.jpg" alt="Mésothéliome (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux)" caption="Mésothéliome (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux)" width="303" >}} |
 | --- | --- |
 
-Si des fibres microscopiques atteignent les poumons, elles peuvent provoquer des maladies "bénignes" (au sens médical) comme l'[asbestose](https://fr.wikipedia.org/wiki/asbestose), ou malignes.
+Si des fibres microscopiques atteignent les poumons, elles peuvent provoquer des maladies "bénignes" (au sens médical) comme l'[asbestose](w:), ou malignes.
 
-Deux formes de cancer sont clairement liées à l'amiante : le cancer du poumon (carcinome bronchique) et le cancer de la plèvre ([mésothéliome](https://fr.wikipedia.org/wiki/mésothéliome)). L'asbestose provoque des lésions des poumons typiques et est reconnue comme maladie professionnelle. C'est aussi le cas du mésothéliome:
+Deux formes de cancer sont clairement liées à l'amiante : le cancer du poumon (carcinome bronchique) et le cancer de la plèvre ([mésothéliome](w:)). L'asbestose provoque des lésions des poumons typiques et est reconnue comme maladie professionnelle. C'est aussi le cas du mésothéliome:
 
 > la part des cas de mésothéliome attribuable à une exposition professionnelle à l’amiante chez les hommes a été estimée à 83%.  [[3]](#ref-3)
 
@@ -83,7 +83,7 @@ Par contre, pour éviter le cancer du poumon, nous pouvons faire quelque chose d
 
 ### Références:
 
-1. <span id="ref-1"></span>[Wikipedia "Amiante" http://fr.wikipedia.org/wiki/Amiante](http://fr.wikipedia.org/wiki/Amiante)
+1. <span id="ref-1"></span>[Wikipedia "Amiante" http://fr.wikipedia.org/wiki/Amiante](w:Amiante)
 2. <span id="ref-2"></span>[Module pédagogique "Risques liés à l'amiante" de la SUVA](http://www.suva.ch/fr/asbestgefahr_theorieblock.pdf)
 3. <span id="ref-3"></span>"[Surveillance épidémiologique des effets de l’exposition à l’amiante](http://www.invs.sante.fr/beh/2007/41_42/index.htm)", Bulletin Epidémiologique Hebdomadaire BEH n°41-42 (23 octobre 2007), Institut de Veille Sanitaire
 4. <span id="ref-4"></span>"[Le cancer du poumon](http://www.liguecancer.ch/fr/a_propos_du_cancer/types_de_cancer/cancer_du_poumon/) : Causes. Symptômes. Diagnostic. Traitement. Pronostic", Ligue Suisse contre le Cancer

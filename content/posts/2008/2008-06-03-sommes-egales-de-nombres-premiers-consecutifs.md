@@ -34,7 +34,7 @@ De plus, il est fréquent qu'un même nombre premier soit égal à plusieurs SNP
 
 34421 = 269 + … + 709 (71 nombres premiers) 34421 = 1429 + … + 1571 (23 nombres premiers) 34421 = 3793 + … + 3853 (9 nombres premiers) 34421 = 4889 + … + 4937 (7 nombres premiers) 34421 = 11467 + … + 11483 (3 nombres premiers)
 
-Le nombre P recherché n'est donc peut-être pas très grand, d'autant que la somme des 675 premiers nombres premiers ne vaut que 1'578'242. Il n'y a probablement pas besoin de calculer en "bigint", les entiers sur 32 bits, voire 64 disponibles avec n'importe quel langage de programmation devraient suffire. Par contre, il est pratique de disposer de fonctions prédéfinies pour manipuler des nombres premiers, c'est pourquoi j'ai choisi d'utiliser [Mathematica](https://fr.wikipedia.org/wiki/Mathematica).
+Le nombre P recherché n'est donc peut-être pas très grand, d'autant que la somme des 675 premiers nombres premiers ne vaut que 1'578'242. Il n'y a probablement pas besoin de calculer en "bigint", les entiers sur 32 bits, voire 64 disponibles avec n'importe quel langage de programmation devraient suffire. Par contre, il est pratique de disposer de fonctions prédéfinies pour manipuler des nombres premiers, c'est pourquoi j'ai choisi d'utiliser [Mathematica](w:).
 
 Les fonctions suivantes suffisent pour résoudre le problème posé: _(code modifié le 4/6/8 suite aux commentaires de b0z0)_
 

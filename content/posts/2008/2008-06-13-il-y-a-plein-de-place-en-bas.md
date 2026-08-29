@@ -15,7 +15,7 @@ coverImage: "4f2f9839f3addc8bad647a1c0d413415-1.jpg"
 
 {{< figure src="images/4f2f9839f3addc8bad647a1c0d413415.jpg" link="http://www.dailytech.com/Intel+Reveals+4+Watt+Diamondville+Processor+Details/article10876.htm" >}}
 
-En préparant un prochain article, je suis retombé sur un texte fondateur de la technologie moderne, celui de la présentation que [Richard Feynman](http://fr.wikipedia.org/wiki/Richard_Feynman) a donné le 29 décembre 1959 à la réunion annuelle de l'American Physical Society à (Caltech).
+En préparant un prochain article, je suis retombé sur un texte fondateur de la technologie moderne, celui de la présentation que [Richard Feynman](w:) a donné le 29 décembre 1959 à la réunion annuelle de l'American Physical Society à (Caltech).
 
 Intitulé "[There's Plenty of Room at the Bottom](http://www.zyvex.com/nanotech/feynman.html)", ce discours toujours visionnaire après presque 50 ans posait les bases de la course à la miniaturisation qui nous fournit chaque année des ordinateurs et autres gadgets plus puissants, plus fiables et moins chers, et qui nous amène vers les [nanotechnologies](/2007/04/15/mini-micro-nano/).
 

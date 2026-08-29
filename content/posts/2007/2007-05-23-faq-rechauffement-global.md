@@ -41,4 +41,4 @@ Mais il est vrai que la FAQ (Frequently Asked Questions) de l'IPCC AR4 ([disponi
 18. Si les émissions de gaz à effet de serre sont réduites, à quelle vitesse leur concentration dans l'atmosphère va-t-elle décroitre ?
 19. Les changements climatiques prévus vont-ils varier de région en région?
 
-voir aussi la page ["Réchauffement climatique" de la Wikipedia](http://fr.wikipedia.org/wiki/R%C3%A9chauffement_climatique)
+voir aussi la page ["Réchauffement climatique" de la Wikipedia](w:Réchauffement_climatique)

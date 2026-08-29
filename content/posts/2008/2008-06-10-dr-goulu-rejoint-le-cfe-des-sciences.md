@@ -13,11 +13,11 @@ coverImage: "e146452c7467eadd3c306375a04e9aad.png"
 
 {{< figure src="images/e146452c7467eadd3c306375a04e9aad.png" link="http://www.cafe-sciences.org" >}}
 
-[Paul Erdös](http://fr.wikipedia.org/wiki/Paul_Erd%C5%91s) a établi un lien indiscutable entre le café et la Science : _Un mathématicien est une machine à transformer le café en théorèmes._ . D'autres auteurs ont reconnu les vertus du précieux nectar dans des domaines intellectuels variés, notamment : "_Le café, c'est amer et ça donne envie de faire pipi, mais ça empêche de dormir alors on peut programmer plus longtemps_" (moi).
+[Paul Erdös](w:Paul_Erdős) a établi un lien indiscutable entre le café et la Science : _Un mathématicien est une machine à transformer le café en théorèmes._ . D'autres auteurs ont reconnu les vertus du précieux nectar dans des domaines intellectuels variés, notamment : "_Le café, c'est amer et ça donne envie de faire pipi, mais ça empêche de dormir alors on peut programmer plus longtemps_" (moi).
 
 Je suis donc très honoré que ce blog ait été accepté comme membre du [C@fé des Sciences](http://www.cafe-sciences.org), la communauté des blogs scientifiques en français. Le C@fé est accessible depuis Dr. Goulu grâce à une icône sous "Sites liés" dans la colonne de gauche, et les titres des derniers articles des membres de la communauté sont repris dans un flux RSS juste en dessous.
 
-Revenons à Paul Erdös pour relever le niveau de ce billet. Ce mathématicien hongrois s'intéressait notamment aux graphes et a publié plus de 1500 articles en près de 60 ans de carrière. Il a très donc logiquement proposé de représenter la collaboration entre auteurs scientifiques (en mathématique essentiellement) sous forme d'un graphe qui permet de définir le "[nombre d'Erdös](http://fr.wikipedia.org/wiki/Nombre_d%27Erd%C5%91s)" de chaque chercheur :
+Revenons à Paul Erdös pour relever le niveau de ce billet. Ce mathématicien hongrois s'intéressait notamment aux graphes et a publié plus de 1500 articles en près de 60 ans de carrière. Il a très donc logiquement proposé de représenter la collaboration entre auteurs scientifiques (en mathématique essentiellement) sous forme d'un graphe qui permet de définir le "[nombre d'Erdös](w:Nombre_d'Erdős)" de chaque chercheur :
 
 - Erdös lui même a un nombre d'Erdös = 0
 - les plus de 504 qui ont co-publié au moins 1 article avec Erdös ont un nombre = 1

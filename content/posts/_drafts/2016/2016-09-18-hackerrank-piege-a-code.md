@@ -18,9 +18,9 @@ Je me suis fait avoir une fois de plus. Après avoir résolu une septantaine\* d
 
 Par exemple, j'ai attaqué le problème "[nCr](https://www.hackerrank.com/challenges/ncr)" très confiant : étant donnés deux entiers n et r, combien y'a-t-il de manières de choisir r objets parmi n ?
 
-Fâââcile : c'est le [coefficient binomial](https://fr.wikipedia.org/wiki/coefficient_binomial):$${n \choose k} = C_n^k\\, = \frac{n!}{k!(n-k)!}$$ \[mathjax\]
+Fâââcile : c'est le [coefficient binomial](w:):$${n \choose k} = C_n^k\\, = \frac{n!}{k!(n-k)!}$$ \[mathjax\]
 
-Avec l'habitude on sait qu'une formule avec des [factorielles](https://fr.wikipedia.org/wiki/factorielle) peut faire exploser n'importe quel ordinateur si on n'y prend pas garde donc on se méfie, on trouve sur [RosettaCode](http://rosettacode.org/wiki/Evaluate_binomial_coefficients#Python) ou [directement sur la Wikipédia](https://en.wikipedia.org/wiki/Binomial_coefficient#Binomial_coefficient_in_programming_languages) un bout de code Python de ce genre :
+Avec l'habitude on sait qu'une formule avec des [factorielles](w:factorielle) peut faire exploser n'importe quel ordinateur si on n'y prend pas garde donc on se méfie, on trouve sur [RosettaCode](http://rosettacode.org/wiki/Evaluate_binomial_coefficients#Python) ou [directement sur la Wikipédia](w:en:Binomial_coefficient#Binomial_coefficient_in_programming_languages) un bout de code Python de ce genre :
 
 \[python\]def binomial_coefficient(n,k): if k < 0 or k > n: return 0 if k == 0 or k == n: return 1 k = min(k, n - k) # take advantage of symmetry c = 1 for i in range(k): c = c \* (n - i) // (i + 1) # // dénote la division entière en Python return c\[/python\]
 
@@ -30,9 +30,9 @@ Et là, ça ne va plus bien du tout, parce que la donnée précise que "1 <= n
 
 Avec le code ci-dessus, binomial_coefficient(10000,5000) ne prend que 0.029 secondes sur mon PC, mais 4.16 secondes pour binomial_coefficient(10000,5000). Ca peut surprendre car la fonction semble O(k)\*\*\* , mais les multiplications et divisons sur des nombres de millions de chiffres, ça prend aussi pas mal de temps. Donc binomial_coefficient(1000000000,500000000), on oublie.
 
-Une tentation serait d'utiliser une approximation basée sur la [formule de Stirling](https://fr.wikipedia.org/wiki/formule_de_Stirling) $$\log {n\choose k} \approx (n+\frac{1}{2})\log n - (k+\frac{1}{2})\log k - (n-k+\frac{1}{2})\log (n-k) - \frac{1}{2}\log 2\pi $$ extrêmement rapide à calculer: log_binomial_coefficient(1000000000,500000000) ne met que 10 microsecondes à donner le résultat, 693147169.9725189 . Donc $${1000000000\choose 500000000} \approx e^{693147169.9725189}$$ mais en raison de l'approximation, il n'y a aucune chance que les derniers chiffres de ce nombre soient corrects, or c'est ceux qui m'intéressent, en raison du modulo 142857...
+Une tentation serait d'utiliser une approximation basée sur la [formule de Stirling](w:) $$\log {n\choose k} \approx (n+\frac{1}{2})\log n - (k+\frac{1}{2})\log k - (n-k+\frac{1}{2})\log (n-k) - \frac{1}{2}\log 2\pi $$ extrêmement rapide à calculer: log_binomial_coefficient(1000000000,500000000) ne met que 10 microsecondes à donner le résultat, 693147169.9725189 . Donc $${1000000000\choose 500000000} \approx e^{693147169.9725189}$$ mais en raison de l'approximation, il n'y a aucune chance que les derniers chiffres de ce nombre soient corrects, or c'est ceux qui m'intéressent, en raison du modulo 142857...
 
-Mais bien sur ! La ligne la plus importante de la donnée c'est "Output all answers modulo 142857." ! J'ai été piégé par l'anodin "output all answers ...". En fait c'est tout le programme qu'il faut penser en [arithmétique modulaire](https://fr.wikipedia.org/wiki/arithmétique_modulaire)!
+Mais bien sur ! La ligne la plus importante de la donnée c'est "Output all answers modulo 142857." ! J'ai été piégé par l'anodin "output all answers ...". En fait c'est tout le programme qu'il faut penser en [arithmétique modulaire](w:)!
 
 ## L'arithmétique modulaire
 
@@ -51,7 +51,7 @@ mais pour la division, dont on a besoin pour résoudre le problème, c'est plus 
 Il y a trois manières de calculer x= a / b (mod n):
 
 1. Essai et Erreur : Est-ce que 1.b = a ?, ou 2.b = a ?, ou 3.b = a ?, etc ....
-2. L'[algorithme d'Euclide](https://fr.wikipedia.org/wiki/algorithme_d'Euclide) inversé : résoudre bx + ny = a pour trouver x.
+2. L'[algorithme d'Euclide](w:) inversé : résoudre bx + ny = a pour trouver x.
 3. Multiplier par 1/b (mod n), si vous savez ce qu'est 1/b (mod n)
 
 La méthode à utiliser dépend de l’information que vous avez.
@@ -68,7 +68,7 @@ $$\frac{3}{16} = \frac{56 (=3+53)}{16} = \frac{7}{2} = \frac{60 (=7+53)}{2} = 3
 
 #### 2) Algorithme d'Euclide étendu:
 
-Si n est plus grand, vous devriez considérer l'[algorithme d'euclide étendu](https://fr.wikipedia.org/wiki/algorithme_d'euclide_étendu). Voici pourquoi: a/b = x (mod n) 11/14 = x (mod 31) a = bx (mod n) 11 = 14x (mod 31) a = bx + ny for some y. 11 = 14x + 31y for some y. This is one linear equation in 2 variables, so it is precisely the sort of equation we learned how to solve using the Backwards Euclidean Algorithm. Doing this gives us a solution for x and y, and all we care about is x. Let's try this out with the above example with 11/14 (mod 31).
+Si n est plus grand, vous devriez considérer l'[algorithme d'euclide étendu](w:). Voici pourquoi: a/b = x (mod n) 11/14 = x (mod 31) a = bx (mod n) 11 = 14x (mod 31) a = bx + ny for some y. 11 = 14x + 31y for some y. This is one linear equation in 2 variables, so it is precisely the sort of equation we learned how to solve using the Backwards Euclidean Algorithm. Doing this gives us a solution for x and y, and all we care about is x. Let's try this out with the above example with 11/14 (mod 31).
 
 To solve 11 = 14x + 31y, we first do the Euc. Alg for 14, 31.
 

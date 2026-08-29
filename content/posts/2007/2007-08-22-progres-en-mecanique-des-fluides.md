@@ -20,7 +20,7 @@ Utile parce que l’écoulement d’un fluide intervient dans de très nombreuse
 - dans les prévisions météo
 - dans les problèmes de tuyauterie, etc etc.
 
-Difficile parce que les [équations de Navier-Stokes](https://fr.wikipedia.org/wiki/équations_de_Navier-Stokes) qui permettent de calculer le mouvement des fluides sont relativement simples à écrire, mais qu’on ne savait pas les résoudre sans faire faire énormément de calculs à de gros ordinateurs jusqu’ à il y peu. Ce qu’ il y a de nouveau récemment, c’est que:
+Difficile parce que les [équations de Navier-Stokes](w:) qui permettent de calculer le mouvement des fluides sont relativement simples à écrire, mais qu’on ne savait pas les résoudre sans faire faire énormément de calculs à de gros ordinateurs jusqu’ à il y peu. Ce qu’ il y a de nouveau récemment, c’est que:
 
 1. La puissance des PC actuels permet désormais de simuler des fluides en temps réel en 2 dimensions. Après l’excellent petit jeu « [The Odyssey : Winds of Athena](http://www.projets.ch/goulu/?p=66) » qui m’avait déjà étonné, [Liquid Studios présente sa technologie « Splash »](http://www.liquiddragon.com/tech.php) par une vidéo spectaculaire, surtout après la 1ère minute: 
     

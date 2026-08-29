@@ -9,7 +9,7 @@ tags:
 - sudoku
 draft: true
 ---
-[problème SAT](https://fr.wikipedia.org/wiki/problème_SAT)
+[problème SAT](w:)
 
 http://continuum.io/blog/sudoku https://pypi.python.org/pypi/pycosat
 

@@ -11,7 +11,7 @@ tags:
 coverImage: "ef908f58fce2c26d6bb81838eb991909.jpg"
 ---
 
-L'[échelle de Richter](https://fr.wikipedia.org/wiki/échelle_de_Richter) est tellement démodée que seuls les journalistes l'utilisent encore. Datant de 1935, c'est une mesure de l'amplitude du mouvement provoqué par un tremblement de terre tel que mesuré par un sismographe. Mais elle survit car elle a pu être rebaptisée [échelle de magnitude du moment](https://fr.wikipedia.org/wiki/échelle_de_magnitude_du_moment) en 1979 en la reliant d'une part au [moment sismique](https://fr.wikipedia.org/wiki/moment_sismique), une notion liée à un modèle de rupture des roches, et d'autre part à l'énergie dégagée par le phénomène :
+L'[échelle de Richter](w:) est tellement démodée que seuls les journalistes l'utilisent encore. Datant de 1935, c'est une mesure de l'amplitude du mouvement provoqué par un tremblement de terre tel que mesuré par un sismographe. Mais elle survit car elle a pu être rebaptisée [échelle de magnitude du moment](w:) en 1979 en la reliant d'une part au [moment sismique](w:), une notion liée à un modèle de rupture des roches, et d'autre part à l'énergie dégagée par le phénomène :
 
 | Description : | Magnitude : | Energie \[J\]: | Fréquence : |
 | --- | --- | --- | --- |
@@ -26,7 +26,7 @@ L'[échelle de Richter](https://fr.wikipedia.org/wiki/échelle_de_Richter) est t
 
 L'échelle est logarithmique : une augmentation de 1 de la magnitude correspond à une multiplication par 10 de l'amplitude du mouvement, et par environ 30 (√1000 pour être précis) de l'énergie dégagée.
 
-Le séisme de magnitude 9 [qui vient de frapper le Japon](https://fr.wikipedia.org/wiki/Séisme_et_tsunami_de_Sendai_(2011)) a dégagé au moins [l'équivalent](https://fr.wikipedia.org/wiki/Ordre_de_grandeur_(énergie)) d'une bonne dizaine de [Tsar Bomba](https://fr.wikipedia.org/wiki/Tsar_Bomba), soit environ 600 mégatonnes de TNT, ou encore de la consommation annuelle d'électricité de la France, mais peut être beaucoup plus car sa durée a été exceptionnellement longue.
+Le séisme de magnitude 9 [qui vient de frapper le Japon](w:Séisme_et_tsunami_de_Sendai_(2011)) a dégagé au moins [l'équivalent](w:Ordre_de_grandeur_(énergie)) d'une bonne dizaine de [Tsar Bomba](w:), soit environ 600 mégatonnes de TNT, ou encore de la consommation annuelle d'électricité de la France, mais peut être beaucoup plus car sa durée a été exceptionnellement longue.
 
 Mieux vaut donc se trouver le plus loin possible de l'épicentre d'un tel phénomène car l'intensité (à ne pas confondre avec la magnitude définie ci-dessus) décroit rapidement avec la distance, et dépend donc de l'endroit où on se trouve. L'intensité se mesure avec l'[échelle Medvedev-Sponheuer-Karnik](https://fr.wikipedia.org/wiki/échelle Medvedev-Sponheuer-Karnik) (MSK), qui décrit le niveau des destructions provoqué, et que l'on note en chiffres romains pour la distinguer de l'échelle de magnitude à laquelle elle ressemble trop.
 
@@ -34,7 +34,7 @@ Comme on le voit sur cette carte, le terrible séisme au large du Japon n'a caus
 
 [![](images/ef908f58fce2c26d6bb81838eb991909.jpg)](http://fr.wikipedia.org/wiki/S%C3%A9isme_et_tsunami_de_Sendai_\(2011\))
 
-Je me permets d'écrire "que VII à VIII" car Kobe avait été détruite par une [intensité de IX à XI](http://pwar.info/seismes/Partie1b.htm) par un [séisme d'une magnitude de "seulement" 7.2](https://fr.wikipedia.org/wiki/séisme_de_Kobe) épicentré directement sous la ville, une [situation qui s'est répétée à Haïti](https://fr.wikipedia.org/wiki/Séisme_de_2010_à_Haïti). Dans la région de Sendai, le tremblement de terre n'a pas causé directement les destructions, les morts et la catastrophe nucléaire en cours. C'est bien le tsunami qui en est très largement responsable.
+Je me permets d'écrire "que VII à VIII" car Kobe avait été détruite par une [intensité de IX à XI](http://pwar.info/seismes/Partie1b.htm) par un [séisme d'une magnitude de "seulement" 7.2](w:séisme_de_Kobe) épicentré directement sous la ville, une [situation qui s'est répétée à Haïti](w:Séisme_de_2010_à_Haïti). Dans la région de Sendai, le tremblement de terre n'a pas causé directement les destructions, les morts et la catastrophe nucléaire en cours. C'est bien le tsunami qui en est très largement responsable.
 
 Les destructions lors d'un séisme sont essentiellement dues à l'accélération du sol a en cm/s², qui est liée à l'intensité Imsk par la relation  log a = 0.26 Imsk + 0.19 [[1]](#ref-1). Une intensité supérieure à IX provoque des accélérations supérieures à 1 G dans n'importe quelle direction, ce qui est certainement spectaculaire mais ne génère en définitive que des forces doubles de celles causées par la gravité dans l'axe vertical, et des forces horizontales du même ordre de grandeur. Il ne me semble pas trop difficile de construire une grosse cuve d'acier maintenue dans un cube de béton capable de supporter ça, et c'est très probablement ce qu'on fait les japonais pour leurs réacteurs nucléaires, et il n'y a pas de raison de se priver de faire la même chose partout ailleurs.
 
@@ -48,7 +48,7 @@ Comme le voient ceux qui connaissent la géographie helvétique, les barrages al
 
 Une risque de 1/10'000 par an peut paraître faible, mais ça signifie que la probabilité d'en subir un plus élevé est inférieure à 1% par siècle, donc non négligeable quand on a plusieurs barrages qui vont durer plus d'un siècle. Que se passerait-il si lorsque l'un d'eux cédaitera ?
 
-Le barrage du [lac de Mauvoisin](https://fr.wikipedia.org/wiki/lac_de_Mauvoisin) étant un barrage voûte, il céderait très rapidement en cas de défaillance structurelle, libérant jusqu'à 200 millions de m3 d'eau dans la vallée du Rhône située 1500 m plus bas. Energie potentielle dégagée par une telle catastrophe : 3.1015 Joules, soit environ 1 mégatonne de TNT sous la forme d'une vague de plus de 10m qui balaierait une zone habitée par environ 100'000 personnes. Un tsunami artificiel...
+Le barrage du [lac de Mauvoisin](w:) étant un barrage voûte, il céderait très rapidement en cas de défaillance structurelle, libérant jusqu'à 200 millions de m3 d'eau dans la vallée du Rhône située 1500 m plus bas. Energie potentielle dégagée par une telle catastrophe : 3.1015 Joules, soit environ 1 mégatonne de TNT sous la forme d'une vague de plus de 10m qui balaierait une zone habitée par environ 100'000 personnes. Un tsunami artificiel...
 
 ### Références
 

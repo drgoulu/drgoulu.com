@@ -20,11 +20,11 @@ Comme Alexandre est mon "+2", je me suis fait un peu mousser en commentant:
 
 S'en est suivi une intéressante discussion au coin café, et une [sur twitter](https://twitter.com/goulu/status/884485914088660992) où j'ai essayé d'exposer mon point de vue:
 
-- l'[intelligence artificielle](https://fr.wikipedia.org/wiki/intelligence_artificielle) fait des progrès fulgurants dans beaucoup de domaines qu'on pensait à l'abri de l'automatisation,
+- l'[intelligence artificielle](w:) fait des progrès fulgurants dans beaucoup de domaines qu'on pensait à l'abri de l'automatisation,
 - mais paradoxalement elle n'est que très peu utilisée en développement logiciel, notamment pour programmer, même pour "[pisser des lignes](https://fr.wiktionary.org/wiki/pisser_des_lignes_de_code)" .
 - Je pense que la programmation nécessite un haut niveau d'abstraction qu'on n'acquiert pas (seulement) en analysant du code existant,
 - et donc je parie que la programmation sera la dernière activité qu'une IA pourra effectuer.
-- Et ceci se produira précisément quelques minutes avant la [Singularité technologique](https://fr.wikipedia.org/wiki/Singularité_technologique).
+- Et ceci se produira précisément quelques minutes avant la [Singularité technologique](w:).
 
 https://www.developpez.com/actu/149278/Une-IA-cree-des-videos-factices-a-partir-d-images-d-enregistrements-audio-et-de-videos-disponibles-en-ligne-et-en-a-fait-une-avec-Obama/
 

@@ -47,7 +47,7 @@ Ce document \[2.A\] contient une analyse poussée des effets sociaux de la fisca
 
 > "Chacun peut avoir sa propre opinion, mais les faits sont les mêmes pour tous." (Michael Specter)
 
-**Note \* :** _(précision ajoutée le 14.7.12)_ : L'OCDE et d'autres organisations mesurent les inégalités par le [coefficient de Gini](https://fr.wikipedia.org/wiki/coefficient_de_Gini), une mesure qui tient compte de tous les revenus. D'autres utilisent les "rapports inter-déciles", comme par exemple sur la page Wikipédia "[inégalités de revenu en France](https://fr.wikipedia.org/wiki/inégalités_de_revenu_en_France)", qui ne comparent que les 10% de revenus les plus élevés aux 10% les moins élevés, ignorant 80% de la population. Ceci explique certaines différences entre études.
+**Note \* :** _(précision ajoutée le 14.7.12)_ : L'OCDE et d'autres organisations mesurent les inégalités par le [coefficient de Gini](w:), une mesure qui tient compte de tous les revenus. D'autres utilisent les "rapports inter-déciles", comme par exemple sur la page Wikipédia "[inégalités de revenu en France](w:)", qui ne comparent que les 10% de revenus les plus élevés aux 10% les moins élevés, ignorant 80% de la population. Ceci explique certaines différences entre études.
 
 ### Références
 

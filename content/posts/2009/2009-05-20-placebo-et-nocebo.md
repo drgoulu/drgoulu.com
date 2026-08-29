@@ -16,14 +16,14 @@ aliases:
 
 {{< figure src="images/fe628e8cff89937c9285a9079e6ae761.jpg" alt="les placebos colorés et chers ont plus deffet que du sucre blanc" caption="les placebos colorés et chers ont plus d'effet que du sucre blanc" width="297" >}}
 
-15 à 25% des personnes qui prennent un [placebo](https://fr.wikipedia.org/wiki/placebo_(pharmacologie)) déclarent ressentir des effets bénéfiques: c'est "l'[effet placebo](https://fr.wikipedia.org/wiki/effet_placebo)" bien connu. L'importance  de cet effet dépend entre autres de la précision du diagnostic du médecin : plus le médecin explique au patient de quoi il souffre avec force détails, plus le patient sera satisfait du médicament qu'il prescrira, même si c'est un placebo.
+15 à 25% des personnes qui prennent un [placebo](w:placebo_(pharmacologie)) déclarent ressentir des effets bénéfiques: c'est "l'[effet placebo](w:)" bien connu. L'importance  de cet effet dépend entre autres de la précision du diagnostic du médecin : plus le médecin explique au patient de quoi il souffre avec force détails, plus le patient sera satisfait du médicament qu'il prescrira, même si c'est un placebo.
 
 ### Pourquoi l'homéopathie marche
 
 Ce qui précède au une conséquences importantes de nos jours :
 
 - D'une part, l'homéopathie et les autres médecines "douces" reposent sur une implication forte du médecin ou du guérisseur pendant la consultation, sur sa capacité d'empathie et de persuasion qui renforce l'effet placebo du traitement qu'il prescrit. Plusieurs études ont démontré depuis la fin du XIXème siècle que les traitements homéopathiques agissent  autant que des placebo, mais pas mieux. [[1]](#ref-1)[[2]](#ref-2)
-- D'autre part, l'efficacité des médicaments conventionnels se mesure de nos jours par des [tests menés en double aveugle](https://fr.wikipedia.org/wiki/étude_randomisée_en_double_aveugle), dans des conditions relativement défavorables à l'effet placebo.
+- D'autre part, l'efficacité des médicaments conventionnels se mesure de nos jours par des [tests menés en double aveugle](w:étude_randomisée_en_double_aveugle), dans des conditions relativement défavorables à l'effet placebo.
 
 Ainsi, un médicament inefficace est moins efficace qu'un médicament homéopathique, ce qui peut peut-être expliquer l'engouement pour cette théorie médicale fumeuse à une période où beaucoup de "médicaments" étaient peu ou pas efficaces. Mais désormais seuls sont commercialisés les médicaments qui démontrent une efficacité nettement supérieure au placebo prescrit dans les mêmes conditions expérimentales.
 
@@ -39,9 +39,9 @@ Depuis quelques années, une autre interprétation, neurophysiologique se dével
 
 ### Et l'effet nocebo ?
 
-Si "placebo" signifie "je plairai" en latin, "[nocebo](https://fr.wikipedia.org/wiki/nocebo)" signifie "je nuirai". C'est le négatif du placebo : un sujet ressent souvent des effets secondaires désagréables qu'on lui a décrit en lui prescrivant une substance inactive !
+Si "placebo" signifie "je plairai" en latin, "[nocebo](w:)" signifie "je nuirai". C'est le négatif du placebo : un sujet ressent souvent des effets secondaires désagréables qu'on lui a décrit en lui prescrivant une substance inactive !
 
-L'[effet nocebo](https://fr.wikipedia.org/wiki/effet_placebo) décrit par extension des troubles induits par une conviction, même en l'absence de toute substance. En 2006, une étude [[7]](#ref-7) a montré qu'en chirurgie cardiaque, les patients qui étaient informés que leurs proches priaient pour eux développaient plus (oui plusss, + quoi ...) de complications.
+L'[effet nocebo](w:effet_placebo) décrit par extension des troubles induits par une conviction, même en l'absence de toute substance. En 2006, une étude [[7]](#ref-7) a montré qu'en chirurgie cardiaque, les patients qui étaient informés que leurs proches priaient pour eux développaient plus (oui plusss, + quoi ...) de complications.
 
 Je termine cet article en remerciant Benjamin de m'avoir fait découvrir l'effet par [son article](http://bacterioblog.over-blog.com/article-31432385.html) qui raconte l'histoire merveilleuse de riverains d'antennes de téléphonie mobile qui se sont plaints de maux de tête et autres désagréments provoqués par ces antennes... [avant qu'elles ne soient branchées](http://www.generation-nt.com/orange-antenne-relais-saint-cloud-radiofrequences-sante-mobile-actualite-269721.html)!
 

@@ -15,7 +15,7 @@ coverImage: "2016-03-08_203842.png"
 
 Grâce à [cet article sur la fusion](http://www.internetactu.net/2016/03/08/contre-leffondrement-67-quel-avenir-pour-la-fusion-nucleaire/), je viens de découvrir une variante addictive et nucléaire du fameux [jeu 2048](/2014/04/09/bits-en-vrac/) à la mode il y a deux ans : [Fe\[26\]](http://dimit.me/Fe26/).
 
-Ce jeu permet de se familiariser avec la [nucléosynthèse stellaire](https://fr.wikipedia.org/wiki/nucléosynthèse_stellaire) : il s'agit de provoquer la [fusion nucléaire](https://fr.wikipedia.org/wiki/fusion_nucléaire) d'atomes de plus en plus lourds à partir de l'Hydrogène, jusqu'à fabriquer un atome de [Fer](https://fr.wikipedia.org/wiki/Fer)
+Ce jeu permet de se familiariser avec la [nucléosynthèse stellaire](w:) : il s'agit de provoquer la [fusion nucléaire](w:) d'atomes de plus en plus lourds à partir de l'Hydrogène, jusqu'à fabriquer un atome de [Fer](w:)
 
 ![digraph G { size="4,10"; ratio = fill; node \[shape=box, style=filled, color="#f2b280"\]; H->D; H->D; H->He3; D->He3; He3->He4; He3->He4; He4->Be7; He3->Be7; He4->Be8; He4->Be8; Be8->C12; He4->C12; C12->O16; He4->O16; O16->Ne20; He4->Ne20; C12->Ne20; C12->Ne20; Ne20->Ma24; He4->Ma24; O16->Si28; O16->Si28; Si28->S32; He4->S32; S32->Ar36; He4->Ar36; Ar36->Ca40; He4->Ca40; Ca40->Ti44; He4->Ti44; Ti44->Cr48; He4->Cr48; Cr48->Fe52; He4->Fe52; Fe52->Ni56; He4->Ni56; Be7->He4; Be8->He4; Ne20->O16; Fe52->Cr48; Ni56->Fe56; }](images/2016-03-08_193933.png)
 

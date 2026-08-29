@@ -10,7 +10,7 @@ Tombé sur ce problème tout bête en apparence : Comment faire passer un arc de
 
 La partie facile, c'est de trouver le cercle passant par 3 points, d'autant qu'il y a (au moins) deux méthodes:
 
-1. la géométrique : trouver le centre du [cercle circonscrit](https://fr.wikipedia.org/wiki/cercle_circonscrit) au triangle abc, intersection des [médiatrices](https://fr.wikipedia.org/wiki/médiatrice) de deux côtés du dit triangle, puis mesurer le rayon entre ce point et n'importe lequel des 3 points
+1. la géométrique : trouver le centre du [cercle circonscrit](w:) au triangle abc, intersection des [médiatrices](w:médiatrice) de deux côtés du dit triangle, puis mesurer le rayon entre ce point et n'importe lequel des 3 points
 2. la mathématique (qui revient au même) : trouver le point (x,y) équidistant des 3 points et le rayon r en résolvant ces trois équation simultanées:
 
 \[mathjax\]$$\left\\{\begin{matrix} (x-a_x)^2+(y-a_y)^2=r^2\\\\ (x-b_x)^2+(y-b_y)^2=r^2\\\\ (x-c_x)^2+(y-c_y)^2=r^2 \end{matrix}\right.$$

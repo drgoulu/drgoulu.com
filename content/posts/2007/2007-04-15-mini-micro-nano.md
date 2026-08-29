@@ -32,11 +32,11 @@ Des raisonnements similaires expliquent pourquoi un microprocesseur contenant de
 
 le seul vrai obstacle à la miniaturisation est l'outillage permettant la production de très petits composants. La fabrication d'une montre requiert nettement plus d'outils qu'elle ne comporte de pièces, à commencer par une bonne loupe et des doigts habiles. En électronique, des technologies issues de la photographie permettent de produire des circuits incroyablement complexes en alternant attaque chimique et déposition. On arrive même aujourd'hui à appliquer ces techniques à la mécanique pour produire des pièces en silicium ou de minuscules moules, donc des outils pour produire en série des pièces encore plus petites.
 
-L'outil ultime de la miniaturisation est le [microscope à effet tunnel](http://fr.wikipedia.org/wiki/Microscope_%C3%A0_effet_tunnel), développé par une équipe d'IBM à Zürich et qui a valu le prix Nobel de physique à ses concepteurs. Non seulement il permet de distinguer chaque atome à la surface d'un objet, mis il permet dans certaines conditions d'arracher un atome à un endroit et de le déposer ailleurs. L'[équipe d'IBM](http://www.almaden.ibm.com/vis/stm/atomo.html) ainsi écrit les lettres IBM en déposant un à un 35 atomes de xenon (et pas 52) sur une surface de nickel
+L'outil ultime de la miniaturisation est le [microscope à effet tunnel](w:), développé par une équipe d'IBM à Zürich et qui a valu le prix Nobel de physique à ses concepteurs. Non seulement il permet de distinguer chaque atome à la surface d'un objet, mis il permet dans certaines conditions d'arracher un atome à un endroit et de le déposer ailleurs. L'[équipe d'IBM](http://www.almaden.ibm.com/vis/stm/atomo.html) ainsi écrit les lettres IBM en déposant un à un 35 atomes de xenon (et pas 52) sur une surface de nickel
 
 ![](images/8c2255c913532b5cc6b89d1aba3c4022.jpg)
 
-### [Nanotechnologie](http://fr.wikipedia.org/wiki/Nanotechnologie)
+### [Nanotechnologie](w:)
 
 Dans son article précurseur "[there is plenty of space at the bottom](/2009/06/11/il-y-a-plein-de-place-en-bas-2/)" que j'ai traduit en français, Richard Feynman expliquait en 1960 déjà qu'il était possible d'imaginer construire une voiture plus petite que ce point -> . Ce qui manquait à l'époque, c'était les outils pour le faire.
 
@@ -46,9 +46,9 @@ Or on peut désormais envisager la construction de "nano machines" constituées 
 
 _nano-différentiel conçu avec Nano-Engineer-1 de [Nanorex](http://www.nanoengineer-1.com/content/) et simulé avec [Nano-Hive](http://www.nanohive-1.org/atHome/), un projet [BOINC](/2007/01/20/calcul-distribue-avec-boinc/)_
 
-![](images/7361c93cd57289efa593dc16407eef21.png)Une voie pourrait être la combinaison de procédés chimiques, biologiques et informatiques : la chimie devient capable de produire des nanomatériaux comme les "[fullerènes](http://fr.wikipedia.org/wiki/Fuller%C3%A8ne)", sphères de carbone dont la découverte a stupéfait le monde.
+![](images/7361c93cd57289efa593dc16407eef21.png)Une voie pourrait être la combinaison de procédés chimiques, biologiques et informatiques : la chimie devient capable de produire des nanomatériaux comme les "[fullerènes](w:Fullerène)", sphères de carbone dont la découverte a stupéfait le monde.
 
-![](images/2914a6f2fb5cb571ebcdb207f8c522b7.gif)Actuellement, c'est la production de nanotubes de carbone qui fait l'actualité. Ce matériau incroyablement solide pourrait servir d'élément structurel à des nanomachines, mais peut être aussi concurrencer l'acier dans des applications macroscopiques. A l'autre extrême, on a réussi a construire des transistors "[CNFET](http://fr.wikipedia.org/wiki/CNFET)" à nanotubes, qui permettent d'envisager à long terme la création de nano-circuits tridimensionnels ...
+![](images/2914a6f2fb5cb571ebcdb207f8c522b7.gif)Actuellement, c'est la production de nanotubes de carbone qui fait l'actualité. Ce matériau incroyablement solide pourrait servir d'élément structurel à des nanomachines, mais peut être aussi concurrencer l'acier dans des applications macroscopiques. A l'autre extrême, on a réussi a construire des transistors "[CNFET](w:)" à nanotubes, qui permettent d'envisager à long terme la création de nano-circuits tridimensionnels ...
 
 La biologie moléculaire est elle aussi capable désormais de faire produire des molécules organiques complexes par des bactéries, en reprogrammant leur ADN.
 

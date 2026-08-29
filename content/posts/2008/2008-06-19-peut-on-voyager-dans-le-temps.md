@@ -17,7 +17,7 @@ coverImage: "c0a7e020479d443f49abcdc5253d7ae9.png"
 
 {{< figure src="images/lefacteurtemps-300x215.jpg" alt="lefacteurtemps" link="/wp-content/uploads/2008/06/lefacteurtemps.jpg" >}}
 
-C'était la question abordée dans une [conférence donnée au CERN](http://cdsweb.cern.ch/record/1115411) récemment par [Étienne Klein](https://fr.wikipedia.org/wiki/Étienne_Klein), et à laquelle il a répondu NON, trop vite à mon goût. Il faut dire qu'Etienne Klein est physicien et philosophe, et que sa conférence mêlait un peu les deux aspects de la question. De plus, le titre de son livre "Le facteur temps ne sonne jamais deux fois" [[4]](#ref-4) ne laissait que peu de doute sur son opinion sur le sujet. (Je me suis permis d'illustrer cet article avec l'image de la couverture, que je trouve excellente)
+C'était la question abordée dans une [conférence donnée au CERN](http://cdsweb.cern.ch/record/1115411) récemment par [Étienne Klein](w:), et à laquelle il a répondu NON, trop vite à mon goût. Il faut dire qu'Etienne Klein est physicien et philosophe, et que sa conférence mêlait un peu les deux aspects de la question. De plus, le titre de son livre "Le facteur temps ne sonne jamais deux fois" [[4]](#ref-4) ne laissait que peu de doute sur son opinion sur le sujet. (Je me suis permis d'illustrer cet article avec l'image de la couverture, que je trouve excellente)
 
 ### Voyage vers le futur
 
@@ -29,7 +29,7 @@ Klein a commencé par introduire deux conceptions philosophiques opposées du te
 
 J'ai rapidement compris que j'étais éternaliste, et suspecté que Klein était présentiste [[1]](#ref-1), [[4]](#ref-4) dès qu'il a mis en garde ceux qui voudraient "se téléporter vers le futur, car peut-être qu'il n'existe pas encore".
 
-Dans son avertissement, c'est surtout le mot "téléporter" qui m'a dérangé : pourquoi le voyage dans le temps supposerait-il une discontinuité, un saut "instantané" qui est par ailleurs interdit dans les déplacements spatiaux ? D'ailleurs même la première "[Machine à  Explorer le Temps](http://fr.wikipedia.org/wiki/La_Machine_%C3%A0_explorer_le_temps)" imaginée il y a plus d'un siècle par H.G. Wells ne "saute" pas : son passager parcourt le temps en accéléré, en avant ou en arrière.
+Dans son avertissement, c'est surtout le mot "téléporter" qui m'a dérangé : pourquoi le voyage dans le temps supposerait-il une discontinuité, un saut "instantané" qui est par ailleurs interdit dans les déplacements spatiaux ? D'ailleurs même la première "[Machine à  Explorer le Temps](w:La_Machine_à_explorer_le_temps)" imaginée il y a plus d'un siècle par H.G. Wells ne "saute" pas : son passager parcourt le temps en accéléré, en avant ou en arrière.
 
 Or il existe au moins 4 moyens physiquement envisageables pour voyager de manière continue vers le futur:
 
@@ -57,10 +57,10 @@ Etienne Klein place la Causalité en principe absolu de la Physique et de la Log
 
 Pourtant, l'éternalisme permet de contourner cette difficulté de plusieurs manières, et je regrette que Klein ne les ait pas abordées dans sa conférence:
 
-1. La "[boucle de genre temps](https://en.wikipedia.org/wiki/closed_timelike_curve)". Géométriquement du moins, on peut dessiner des courbes fermées dans l'[espace de Minkowski](https://fr.wikipedia.org/wiki/espace_de_Minkowski) à 4 dimensions, et conformes à la relativité d'Einstein. [Kurt Gödel](https://fr.wikipedia.org/wiki/Kurt_Gödel), le plus extraordinaire mathématicien du XXème siècle a même réussi à faire douter Einstein de la relativité en proposant son "[Univers de Gödel](https://fr.wikipedia.org/wiki/Univers_de_Gödel)", à la fois relativiste et permettant le voyage dans le temps. Ce sujet est tellement intéressant que je vais lui consacrer un article spécifique, mais à ce stade ce qu'il suffit de savoir c'est qu'une particule qui tournerait en rond sur "boucle de genre temps" ne violerait pas la causalité, tout simplement en n'interagissant pas avec le reste de l'Univers.
+1. La "[boucle de genre temps](w:en:closed_timelike_curve)". Géométriquement du moins, on peut dessiner des courbes fermées dans l'[espace de Minkowski](w:) à 4 dimensions, et conformes à la relativité d'Einstein. [Kurt Gödel](w:), le plus extraordinaire mathématicien du XXème siècle a même réussi à faire douter Einstein de la relativité en proposant son "[Univers de Gödel](w:)", à la fois relativiste et permettant le voyage dans le temps. Ce sujet est tellement intéressant que je vais lui consacrer un article spécifique, mais à ce stade ce qu'il suffit de savoir c'est qu'une particule qui tournerait en rond sur "boucle de genre temps" ne violerait pas la causalité, tout simplement en n'interagissant pas avec le reste de l'Univers.
 
 3. L'abandon du libre arbitre. Si on admet que l'Univers est un bloc dans lequel le futur existe au même titre que le présent et ne peut pas plus être altéré que le passé, alors le problème ne se pose pas car ni le voyageur, ni aucun être humain ne peut réellement influer sur l'avenir, à plus forte raison modifier le passé. C'est certainement ce qui me dérange le plus dans l'Univers-bloc (mais l'être humain à une tendance naturelle à l'anthropocentrisme, donc à se croire doté de facultés spécifiques comme le libre-arbitre, peut-être qu'un peu de modestie lui ferait du bien). Deux de mes histoires de voyage dans le temps préférées sont liées à cette question:
-    1. dans le génialissime film "[l'armée des douze singes](https://fr.wikipedia.org/wiki/l'armée_des_douze_singes)" (ne lisez pas la suite si vous ne l'avez pas vu...) un voyageur temporel est en fait la cause du problème qu'il était censé résoudre.
+    1. dans le génialissime film "[l'armée des douze singes](w:)" (ne lisez pas la suite si vous ne l'avez pas vu...) un voyageur temporel est en fait la cause du problème qu'il était censé résoudre.
     
     3. une très courte nouvelle lue il y a longtemps et dont je recherche la référence. En deux mots, l’humanité fabrique à grands frais une machine à voyager dans le temps. Un voyageur soigneusement sélectionné est envoyé 1 siècle dans le futur. A son retour (instantané) on lui demande comment c’était. Il dit "je ne sais plus!" On lui demande comment ça se fait. Il dit "je me rappelle qu’on m’a bien accueilli, tout montré et expliqué, et qu’au moment de rentrer on m’a proposé de m’effacer la mémoire…et j’ai dit oui !"
 
@@ -80,7 +80,7 @@ Donc en résumé, j'aurais bien aimé une réponse de scientifique du genre "Non
 
 3. <span id="ref-3"></span>"[Le temps existe-t-il](http://eznogood.blogspot.com/2007/04/couloirs-du-temps.html)" sur e-znogood
 
-5. <span id="ref-5"></span>"[Le Temps en Physique](http://fr.wikipedia.org/wiki/Temps_en_physique)" sur la Wikipedia
+5. <span id="ref-5"></span>"[Le Temps en Physique](w:Temps_en_physique)" sur la Wikipedia
 
 7. <span id="ref-7"></span>[Étienne Klein](https://editions.flammarion.com/Auteurs/klein-etienne), Le facteur temps ne sonne jamais deux fois, 1997, Flammarion, ISBN : 9782081205802
 

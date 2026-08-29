@@ -26,4 +26,4 @@ Sources:
 - [New York Times 13 mars 2008](http://www.nytimes.com/2008/03/13/science/12cnd-prize.html?hp)
 - Michael Heller "[Statement](http://www.templeton.org/questions/universe/pdfs/Heller_Statement_031208.pdf)", The Templeton Prize News Conference, March 12, 2008
 - [site de Michael Heller](http://www.obi.opoka.org/heller/) (sobre... et en polonais)
-- [Michael Heller sur la Wikipedia](http://en.wikipedia.org/wiki/Michael_Heller) (anglais)
+- [Michael Heller sur la Wikipedia](w:en:Michael_Heller) (anglais)

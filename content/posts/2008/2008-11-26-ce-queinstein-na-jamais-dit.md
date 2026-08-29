@@ -56,7 +56,7 @@ Enfin beaucoup de phrases attribuées à Einstein sont très similaires à des c
 
 > Tout doit être fait aussi simple que possible, mais pas plus simple
 
-qui n'est qu'une formulation du [rasoir d'Occam](http://fr.wikipedia.org/wiki/Rasoir_d%27Occam)
+qui n'est qu'une formulation du [rasoir d'Occam](w:)
 
 > Deux choses m’inspirent crainte et respect : le ciel étoilé et l’univers moral à l’intérieur de moi
 
@@ -74,7 +74,7 @@ Et pour clore ce petit survol de ce qu'Einstein n'a jamais dit, voilà ce qu'il 
 
 > Moi, on m'acclame parce que tout le monde me comprend et vous, on vous acclame parce que personne ne vous comprend.
 
-et enfin , la prochaine fois que vous verrez une Vérité Suprême signée Albert Einstein, rappelez-vous de cet aveu de [Louis "Studs" Terkel:](http://en.wikipedia.org/wiki/Studs_Terkel "Studs Terkel")
+et enfin , la prochaine fois que vous verrez une Vérité Suprême signée Albert Einstein, rappelez-vous de cet aveu de [Louis "Studs" Terkel:](w:en:Studs_Terkel "Studs Terkel")
 
 > J'aime citer Einstein. Vous savez pourquoi ? Parce que personne n'ose vous contredire.
 

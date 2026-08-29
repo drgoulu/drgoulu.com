@@ -11,7 +11,7 @@ tags:
 coverImage: "5c837c6405891a43753218d4613a49ec.png"
 ---
 
-"La raison du plus fort est toujours la meilleure" n'est pas tirée de l'oeuvre de [Charles Darwin](https://fr.wikipedia.org/wiki/Charles_Darwin). C'est dans "Le Loup et l'Agneau" de Jean de la Fontaine, écrit deux siècles et demi avant [l'Origine des Espèces](https://fr.wikipedia.org/wiki/l'Origine_des_Espèces). Pourtant le grand public et même la presse associe toujours Darwin avec l'idée que "seuls les plus forts survivent dans une nature cruelle." C'est faux. Et en plus c'est très dangereux.
+"La raison du plus fort est toujours la meilleure" n'est pas tirée de l'oeuvre de [Charles Darwin](w:). C'est dans "Le Loup et l'Agneau" de Jean de la Fontaine, écrit deux siècles et demi avant [l'Origine des Espèces](w:). Pourtant le grand public et même la presse associe toujours Darwin avec l'idée que "seuls les plus forts survivent dans une nature cruelle." C'est faux. Et en plus c'est très dangereux.
 
 **Faux** parce que les notions de "force" ou de "supériorité" sont quasiment absentes du [texte intégral de l' "origine des espèces"](http://abu.cnam.fr/cgi-bin/donner_html?espece1). Darwin n'utilise ces mots qu'en relation avec la "sélection artificielle" opérée par les éleveurs de chevaux en particulier. D'ailleurs Darwin ne s'intéresse que peu aux individus, et beaucoup aux espèces, comme on le voit dans le  "Wordle" ci-dessous formé avec les mots les plus fréquents de son livre\*
 
@@ -21,11 +21,11 @@ A part "espèces", les mots clés de l'oeuvre de Darwin concernent la variété,
 
 > J'ai donné à ce principe, en vertu duquel une variation si insignifiante qu'elle soit se conserve et se perpétue, si elle est utile, le nom de **sélection naturelle**, pour indiquer les rapports de cette sélection avec celle que l'homme peut accomplir.
 
-La [sélection naturelle](https://fr.wikipedia.org/wiki/sélection_naturelle) c'est la "_survie du plus apte_" n'est ce pas ? Encore **faux**! Cette citation est de [Herbert Spencer](https://fr.wikipedia.org/wiki/Herbert_Spencer), mais Darwin la reprend trop volontiers, inconscient du danger:
+La [sélection naturelle](w:) c'est la "_survie du plus apte_" n'est ce pas ? Encore **faux**! Cette citation est de [Herbert Spencer](w:), mais Darwin la reprend trop volontiers, inconscient du danger:
 
 > Mais l'expression qu'emploie souvent M. Herbert Spencer : "la persistance du plus apte" (survival of the fittest), est plus exacte et quelquefois tout aussi commode.
 
-Le problème est que Herbert Spencer était un disciple de [Lamarck](https://fr.wikipedia.org/wiki/Lamarck) : il croyait en l'hérédité la persistance des caractères acquis, donc que l'évolution était "dirigée" vers une amélioration des espèces. C'est en fait Spencer qui donna naissance au "[Darwinisme social](https://fr.wikipedia.org/wiki/Darwinisme_social)" dont s'inspirèrent hélas des idéologies meurtrières pour justifier l'extermination de "races inférieures". Ce désastre n'est pas terminé, quoique heureusement à une autre échelle, puisque les cré(a)ti(on)nistes n'hésitent pas à faire des [amalgames horribles](https://donotlink.it/nPXo) \*\*.
+Le problème est que Herbert Spencer était un disciple de [Lamarck](w:) : il croyait en l'hérédité la persistance des caractères acquis, donc que l'évolution était "dirigée" vers une amélioration des espèces. C'est en fait Spencer qui donna naissance au "[Darwinisme social](w:)" dont s'inspirèrent hélas des idéologies meurtrières pour justifier l'extermination de "races inférieures". Ce désastre n'est pas terminé, quoique heureusement à une autre échelle, puisque les cré(a)ti(on)nistes n'hésitent pas à faire des [amalgames horribles](https://donotlink.it/nPXo) \*\*.
 
 #### C'est pourquoi il est dangereux de résumer faussement le travail de Darwin en lui attribuant des citations de La Fontaine ou de Spencer.
 
@@ -49,4 +49,4 @@ Si "la raison du plus fort était la meilleure", il n'y aurait plus d'agneaux, p
 
 ### Notes:
 
-\* le Wordle est fait à partir à partir du [texte anglais](https://archive.org/stream/originofspecies00darwuoft/originofspecies00darwuoft_djvu.txt), parce que Wordle n'élimine pas bien les mots sans intérêt dans la  [version française](http://www.wordle.net/show/wrdl/457324/L%27Origine_des_Esp%C3%A8ces) \*\* désolé pour ce lien, mais ça pourrait devenir une [Google Bomb](https://fr.wikipedia.org/wiki/Bombardement_Google) ...
+\* le Wordle est fait à partir à partir du [texte anglais](https://archive.org/stream/originofspecies00darwuoft/originofspecies00darwuoft_djvu.txt), parce que Wordle n'élimine pas bien les mots sans intérêt dans la  [version française](http://www.wordle.net/show/wrdl/457324/L%27Origine_des_Esp%C3%A8ces) \*\* désolé pour ce lien, mais ça pourrait devenir une [Google Bomb](w:Bombardement_Google) ...

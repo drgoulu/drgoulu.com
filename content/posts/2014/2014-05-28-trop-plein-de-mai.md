@@ -15,11 +15,11 @@ _Chaque fin de mois à partir de maintenant, le "trop-plein" transformera des 
 
 ## Quand l'aluminium coûtait aussi cher que l'or
 
-[![](images/9198718b241656f85f7a4811e35e613f.jpg)](http://www.todayifoundout.com/index.php/2014/05/aluminium-cost-gold/)C'est vrai ça : comment produisait on l'[aluminium](https://fr.wikipedia.org/wiki/aluminium) avant que l'électricité soit disponible en quantité suffisante pour l'électrolyse de l'[alumine](https://fr.wikipedia.org/wiki/alumine) ?
+[![](images/9198718b241656f85f7a4811e35e613f.jpg)](http://www.todayifoundout.com/index.php/2014/05/aluminium-cost-gold/)C'est vrai ça : comment produisait on l'[aluminium](w:) avant que l'électricité soit disponible en quantité suffisante pour l'électrolyse de l'[alumine](w:) ?
 
 Bien que l'aluminium soit le troisième élément le plus abondant de la croûte terrestre (après l'oxygène et le silicium), il n'était connu que sous forme d'oxyde jusqu'en 1825 où des chimistes réussirent à en produire un peu sous forme de poudre. En 1855 le premier lingot d'aluminium, obtenu par voie chimique, est exposé à l'Exposition Universelle de Paris. Le métal coûtait alors aussi cher que l'or et était utilisé pour des bijoux et de l' "argenterie" de luxe !
 
-Ce n'est qu'à partir de 1886 que la [production de l'aluminium par électrolyse](https://fr.wikipedia.org/wiki/production_de_l'aluminium_par_électrolyse) est mise au point et que ce métal devient peu à peu suffisamment bon marché pour emballer votre sandwich.
+Ce n'est qu'à partir de 1886 que la [production de l'aluminium par électrolyse](w:) est mise au point et que ce métal devient peu à peu suffisamment bon marché pour emballer votre sandwich.
 
 source: [http://www.todayifoundout.com/index.php/2014/05/aluminium-cost-gold/](http://www.todayifoundout.com/index.php/2014/05/aluminium-cost-gold/)
 
@@ -29,9 +29,9 @@ Sur Twitter, @zeJeep\_ m'a soumis une brochure reçue avec sa facture EDF : "é
 
 > "il est recommandé d'éviter une longue exposition aux lumières froides (tirant vers le bleu) pour les personnes photosensibles."
 
-Sur le web je n'ai trouvé mention que de [photosensibilité](https://fr.wikipedia.org/wiki/photosensibilité) de la peau et d'[épilepsie photosensible](http://www.epilepsymatters.com/french/faqphotosensitive.html) induite par des lumières variables. Après un [appel sur Reddit](http://www.reddit.com/r/ScienceFr/comments/26i1k0/lumi%C3%A8re_bleue_et_personnes_photosensibles/) relayé sur twitter par @MrPourquoi j'ai obtenu des réponses intéressantes:
+Sur le web je n'ai trouvé mention que de [photosensibilité](w:) de la peau et d'[épilepsie photosensible](http://www.epilepsymatters.com/french/faqphotosensitive.html) induite par des lumières variables. Après un [appel sur Reddit](http://www.reddit.com/r/ScienceFr/comments/26i1k0/lumi%C3%A8re_bleue_et_personnes_photosensibles/) relayé sur twitter par @MrPourquoi j'ai obtenu des réponses intéressantes:
 
-- guilalune pense qu'il s'agit plutôt de [photophobie](https://fr.wikipedia.org/wiki/photophobie)
+- guilalune pense qu'il s'agit plutôt de [photophobie](w:)
 - selon @SamuelPEAN C'est plus lié à la dégénérescence maculaire ([page Inserm](http://www.inserm.fr/actualites/rubriques/actualites-recherche/dmla-quelles-sont-les-ondes-lumineuses-responsables-de-la-perte-de-la-vision)) Il existe des LEDs "warm white" pour limiter le problème
 - et @Inserm complète : A voir aussi au sujet de l'impact de la #lumière bleue sur la #santé {{< youtube id="8o5qnNzM_B0" width="640" >}}
 
@@ -49,9 +49,9 @@ Illustré par la non moins célèbre image ci-contre, on y trouve les "équation
 
 ## Indices de Lisibilité
 
-Très intéressante [émission "Médialogues" entendue à la RTS](http://www.rts.ch/la-1ere/programmes/medialogues/5712180-medialogues-du-05-04-2014.html). Eliane Ballif y a parlé des [indices de lisibilité](https://fr.wikipedia.org/wiki/test_de_lisibilité) permettant de mesurer la difficulté de lecture des textes et, partant, la proportion de la population capable de les comprendre.
+Très intéressante [émission "Médialogues" entendue à la RTS](http://www.rts.ch/la-1ere/programmes/medialogues/5712180-medialogues-du-05-04-2014.html). Eliane Ballif y a parlé des [indices de lisibilité](w:test_de_lisibilité) permettant de mesurer la difficulté de lecture des textes et, partant, la proportion de la population capable de les comprendre.
 
-L'un des plus utilisé et le "[Gunning fog index](https://en.wikipedia.org/wiki/Gunning_fog_index)" , qui mixe le nombre moyen de mots par phrase et la proportion de "mots complexes", un mot étant "complexe" s'il contient trois syllabes ou plus. La formule de l'indice:
+L'un des plus utilisé et le "[Gunning fog index](w:en)" , qui mixe le nombre moyen de mots par phrase et la proportion de "mots complexes", un mot étant "complexe" s'il contient trois syllabes ou plus. La formule de l'indice:
 
 $0.4\left[ \left(\frac{\mbox{Nmots}}{\mbox{Nphrases}}\right) + 100\left(\frac{\mbox{Nmots complexes}}{\mbox{Nmots}}\right) \right]$
 
@@ -68,7 +68,7 @@ correspond très approximativement au nombre d'années de scolarité nécessaire
 
 Le présent article analysé par [https://readable.io](https://readable.io) présente un indice Gunning fog de 11.7 à relativiser car l'anglais considère comme "mots complexes" ceux de plus de 3 syllabes, qui me semblent plus fréquents en français. Niveau bac, un peu au dessus de Télérama, ça me va très bien.
 
-Là où ça devient intéressant, c'est quand on considère la lisibilité des textes légaux. Le [code civil suisse](https://fr.wikipedia.org/wiki/code_civil_suisse) par exemple a été rédigé dans l'esprit d'être compréhensible par une majorité de la population [[1]](#ref-1). En analysant [une page au hasard](http://www.admin.ch/opc/fr/classified-compilation/20012239/index.html), j'ai obtenu un indice Gunning fog de 12.9. Plus compliqué que drgoulu.com, mais toujours compréhensible par pas mal de gens.
+Là où ça devient intéressant, c'est quand on considère la lisibilité des textes légaux. Le [code civil suisse](w:) par exemple a été rédigé dans l'esprit d'être compréhensible par une majorité de la population [[1]](#ref-1). En analysant [une page au hasard](http://www.admin.ch/opc/fr/classified-compilation/20012239/index.html), j'ai obtenu un indice Gunning fog de 12.9. Plus compliqué que drgoulu.com, mais toujours compréhensible par pas mal de gens.
 
 Mais quand on voit qu'une étude de la lisibilité des Directives Européennes [[2]](#ref-2) "a conclu que les lecteurs de ces textes doivent avoir fait des études en master en vue d’arriver à comprendre leur contenu.", on ne peut s'empêcher de se demander si elles ont vraiment été écrites pour que quelqu'un les comprenne...
 

@@ -21,8 +21,8 @@ Ce qu'il y a d'assez fort, c'est que chaque heure du cadran est obtenue avec t
 
 - les 4 opérations de base
 - la racine carré et la racine x-ième
-- la [factorielle](https://fr.wikipedia.org/wiki/factorielle) (il y a d'ailleurs une erreur : \\(5= \\sqrt{9}!-9/9\\) et pas \\(\\sqrt{9!}-9/9\\) comme sur la photo)
-- le [développement décimal périodique](https://fr.wikipedia.org/wiki/développement_décimal_périodique) noté \\(\\overline{.x}\\) et valant x/9. Et oui,  \\(\\overline{.9} = 1\\) (voir [Développement décimal de l'unité](https://fr.wikipedia.org/wiki/Développement_décimal_de_l'unité))
+- la [factorielle](w:) (il y a d'ailleurs une erreur : \\(5= \\sqrt{9}!-9/9\\) et pas \\(\\sqrt{9!}-9/9\\) comme sur la photo)
+- le [développement décimal périodique](w:) noté \\(\\overline{.x}\\) et valant x/9. Et oui,  \\(\\overline{.9} = 1\\) (voir [Développement décimal de l'unité](w:))
 - la concaténation. C'est un peu tiré par les cheveux mais on accepte xx = 11\*x
 
 Avec ceci on peut mettre au point quelques recettes pour obtenir certaines "heures" facilement:
@@ -66,7 +66,7 @@ Donc à part le cadran du 9 les seuls autres cadrans possibles avec 3 répétiti
 
 - le cadran du 4. El Jj avait d'ailleurs [remarqué la "fertilité" du quatre](http://eljjdx.canalblog.com/archives/2007/12/09/7174320.html) il y a longtemps.
 - ceux du 1 et du 6, obtenus grâce à la sagacité de Danakh. Bravo² !
-- celui du 8, brillamment terminé par Groug grâce à un [Œuf de Colomb](https://fr.wikipedia.org/wiki/Œuf_de_Colomb) de plus. Bravo !
+- celui du 8, brillamment terminé par Groug grâce à un [Œuf de Colomb](w:) de plus. Bravo !
 
 En autorisant quatre répétitions, on peut:
 

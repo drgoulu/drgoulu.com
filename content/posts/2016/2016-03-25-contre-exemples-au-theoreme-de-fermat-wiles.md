@@ -16,12 +16,12 @@ coverImage: "18-Homer-Simpson.jpg"
 
 {{< figure src="images/simpson_fermat.gif" alt="simpson_fermat" >}}
 
-[Andrew Wiles](https://fr.wikipedia.org/wiki/Andrew_Wiles) vient de remporter le [Prix Abel](https://fr.wikipedia.org/wiki/Prix_Abel) pour sa démonstration du [Grand théorème de Fermat](https://fr.wikipedia.org/wiki/Grand_théorème_de_Fermat) qui dit qu’il n’existe pas de solution de l’équation an+bn\=cn pour a,b,c,n entiers et n>2. Pourtant _<mauvaise foi=on>_ :
+[Andrew Wiles](w:) vient de remporter le [Prix Abel](w:) pour sa démonstration du [Grand théorème de Fermat](w:) qui dit qu’il n’existe pas de solution de l’équation an+bn\=cn pour a,b,c,n entiers et n>2. Pourtant _<mauvaise foi=on>_ :
 
-1. il a en réalité "seulement" démontré un cas particulier du [théorème de modularité](https://fr.wikipedia.org/wiki/théorème_de_modularité) (aussi appelé conjecture de Shimura-Taniyama-Weil) dont le théorème de Fermat résulte directement
+1. il a en réalité "seulement" démontré un cas particulier du [théorème de modularité](w:) (aussi appelé conjecture de Shimura-Taniyama-Weil) dont le théorème de Fermat résulte directement
 2. quelques semaines après la publication des quelques 100 pages de la démonstration d'Andrew Wiles en 1995 [[1]](#ref-1), Homer Simpson se promène nonchalamment et en 3D devant un contre-exemple : 1782¹² + 1841¹² = 1922¹² [[2]](#ref-2)
 
-Cette égalité est due à [David X. Cohen](https://fr.wikipedia.org/wiki/David_X._Cohen), matheux et co-scénariste de cette [série pleine de références scientifiques](/2010/03/07/20-ans-de-science-simpson/). Si on la vérifie sur une calculatrice standard, on trouve que le terme de gauche vaut 2.541210259e+39 et que celui de droite vaut... 2.541210259e+39 ! C'est un contre-exemple du Grand théorème de Fermat, et la démonstration d'Andrew Wiles ne vaut pas tripette! _<mauvaise foi=off>_ 
+Cette égalité est due à [David X. Cohen](w:), matheux et co-scénariste de cette [série pleine de références scientifiques](/2010/03/07/20-ans-de-science-simpson/). Si on la vérifie sur une calculatrice standard, on trouve que le terme de gauche vaut 2.541210259e+39 et que celui de droite vaut... 2.541210259e+39 ! C'est un contre-exemple du Grand théorème de Fermat, et la démonstration d'Andrew Wiles ne vaut pas tripette! _<mauvaise foi=off>_ 
 
 Mais en fait non:
 
@@ -54,11 +54,11 @@ Voilà Andrew, comme 99.99% de la population je n'ai rien compris à ta prodigie
 
 \* la dernière ligne du tableau concerne évidemment la topologie (et non, un donut n'est pas isomorphe à une sphère), mais quelqu'un sait-il à quoi correspondent les lignes 1 et 3 ? Je doute que Cohen ait sorti ces équations de nulle part...
 
-\*\* pourquoi Python ? entre autres parce qu'il gère l'[arithmétique multiprécision](https://fr.wikipedia.org/wiki/arithmétique_multiprécision) de façon transparente : rien de spécial à faire pour manipuler des nombres énormes.
+\*\* pourquoi Python ? entre autres parce qu'il gère l'[arithmétique multiprécision](w:) de façon transparente : rien de spécial à faire pour manipuler des nombres énormes.
 
 ### Références
 
 1. <span id="ref-1"></span>{{< altmetric doi="10.2307/2118559" float="right" >}} Andrew Wiles. "Modular elliptic curves and Fermat's Last Theorem", 1995, Annals of Mathematics 142 (3): 443–551. [doi:10.2307/2118559](http://www.jstor.org/stable/2118559). ([PDF text version](http://users.tpg.com.au/nanahcub/flt.pdf))
-2. <span id="ref-2"></span>séquence "Homer³" dans "[Les Simpson Spécial Halloween VI](https://fr.wikipedia.org/wiki/Simpson_Horror_Show_VI)", épisode 6 saison 7, 1995
-3. <span id="ref-3"></span>[La Dernière Invention d'Homer](https://fr.wikipedia.org/wiki/La_Dernière_Invention_d'Homer), Les Simpson épisode 2 saison 10, 1998
+2. <span id="ref-2"></span>séquence "Homer³" dans "[Les Simpson Spécial Halloween VI](w:Simpson_Horror_Show_VI)", épisode 6 saison 7, 1995
+3. <span id="ref-3"></span>[La Dernière Invention d'Homer](w:), Les Simpson épisode 2 saison 10, 1998
 4. <span id="ref-4"></span>video "[Homer Simpson vs Pierre de Fermat](https://www.youtube.com/watch?v=ReOQ300AcSU)" de Numberphile sur ce sujet (en anglais)

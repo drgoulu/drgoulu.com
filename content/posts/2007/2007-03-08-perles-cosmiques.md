@@ -12,7 +12,7 @@ coverImage: "b3f9fbb8d24d4bb74594978d1a6251fe.jpg"
 
 Il y a 167'020 ans, la lointaine étoile "Sanduleak -69° 202" explosa.
 
-Comme elle est à 167'000 années-lumière d'ici, ce n'est qu'en 1987 qu'on put admirer le spectacle de la [Supernova SN 1987A,](http://fr.wikipedia.org/wiki/SN_1987A) la plus proche explosion d'étoile depuis [SN 1604,](http://fr.wikipedia.org/wiki/SN_1604) qui n'avait pu être immortalisée que sur des gravures et tapisseries du Moyen-Age.
+Comme elle est à 167'000 années-lumière d'ici, ce n'est qu'en 1987 qu'on put admirer le spectacle de la [Supernova SN 1987A,](w:SN_1987A) la plus proche explosion d'étoile depuis [SN 1604,](w:SN_1604) qui n'avait pu être immortalisée que sur des gravures et tapisseries du Moyen-Age.
 
 1987A est par contre observée par de nombreux télescopes, dont Hubble qui a pris récemment cette [spectaculaire photo](http://www.nasa.gov/multimedia/imagegallery/image_feature_773.html) :
 
@@ -24,4 +24,4 @@ Par contre l'anneau d'un diamètre d'environ une année lumière formé de "perl
 
 Il y a aussi 2 anneaux rouges plus fins, sur des plans décalés symétriquement par rapport au plan des perles. Il s'agirait de l'onde de choc éclairée par le faisceau de particules émis par un pulsar ou un trou noir qui n'est apparemment pas le reste de Sanduleak, mais un voisin très proche.
 
-Toutes ces infos et bien d'autres sont soigneusement détaillées dans l'article [SN 1987A de la Wikipedia](http://fr.wikipedia.org/wiki/SN_1987A) , mais je voulais dire une chose importante en plus : c'est vachement beau !
+Toutes ces infos et bien d'autres sont soigneusement détaillées dans l'article [SN 1987A de la Wikipedia](w:SN_1987A) , mais je voulais dire une chose importante en plus : c'est vachement beau !

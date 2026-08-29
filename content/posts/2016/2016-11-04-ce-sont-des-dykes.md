@@ -12,13 +12,13 @@ coverImage: "424-prismation-dyke-Cap-Vert-01.jpg"
 
 {{< figure src="images/424-prismation-dyke-Cap-Vert-04.jpg" alt="Droits réservés - © 2012 Geneviève Francon" link="http://planet-terre.ens-lyon.fr/image-de-la-semaine/Img424-2013-05-20.xml" >}}
 
-En ballade sur l'île de [São Vicente](https://fr.wikipedia.org/wiki/São_Vicente_(Cap-Vert)) au Cap-Vert j'ai remarqué des structures géologiques surprenantes : des murs de [basalte](https://fr.wikipedia.org/wiki/basalte) quasi verticaux, parfois encastrés dans des couches horizontales, parfois se détachant sur le ciel.
+En ballade sur l'île de [São Vicente](w:São_Vicente_(Cap-Vert)) au Cap-Vert j'ai remarqué des structures géologiques surprenantes : des murs de [basalte](w:) quasi verticaux, parfois encastrés dans des couches horizontales, parfois se détachant sur le ciel.
 
 Sur beaucoup, la "prismation" du basalte est très visible mais ... horizontale [[2]](#ref-2). Et comme on en voit souvent plusieurs parallèles et que je suis très nul en géologie, je me suis demandé un moment si toute l'île n'avait pas basculé de 90° et mis ainsi à la verticale des coulées de lave horizontales...
 
 ![424-prismation-dyke-Cap-Vert-01](images/424-prismation-dyke-Cap-Vert-01.jpg) ![](images/424-prismation-dyke-Cap-Vert-08.jpg)
 
-Mais ce n'est pas ça du tout. Ce sont des "[dykes](https://fr.wikipedia.org/wiki/dyke)"\*, produits par de la lave très fluide qui s'infiltre dans des fissures que l'éruption crée dans des roches plus anciennes [[2]](#ref-2), [[3]](#ref-3). Bien isolée de l'air, la lave peut remplir des kilomètres de fissures très rapidement puis refroidir très lentement. Le basalte ainsi formé est beaucoup plus dur que les vieilles roches environnantes qui s'érodent beaucoup plus vite. Après quelques centaines de milliers d'années, d'étonnants murs naturels apparaissent.
+Mais ce n'est pas ça du tout. Ce sont des "[dykes](w:dyke)"\*, produits par de la lave très fluide qui s'infiltre dans des fissures que l'éruption crée dans des roches plus anciennes [[2]](#ref-2), [[3]](#ref-3). Bien isolée de l'air, la lave peut remplir des kilomètres de fissures très rapidement puis refroidir très lentement. Le basalte ainsi formé est beaucoup plus dur que les vieilles roches environnantes qui s'érodent beaucoup plus vite. Après quelques centaines de milliers d'années, d'étonnants murs naturels apparaissent.
 
 J'ai un peu honte, mais je n'avais pas d'appareil photo décent à portée de main alors cet article est illustré par de très bonnes photos trouvées sur [[2]](#ref-2) où vous pouvez en admirer d'autres.
 

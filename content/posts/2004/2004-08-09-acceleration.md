@@ -53,6 +53,6 @@ Je ne peux m'empêcher de penser que nous aurions pu parcourir des dizaines d'an
 
 * * *
 
-note\*(edit du 9.2.18) malheureusement ce calcul est faux. Les bonnes formules se trouvent [sur la wikipedia](https://en.wikipedia.org/wiki/Space_travel_using_constant_acceleration) et dans le commentaire de Jean Bossaert ci-dessous. je vais soit modifier ce texte (mais il ne sera plus aussi spectaculaire...) soit en écrire une version "intergalactique" ...
+note\*(edit du 9.2.18) malheureusement ce calcul est faux. Les bonnes formules se trouvent [sur la wikipedia](w:en:Space_travel_using_constant_acceleration) et dans le commentaire de Jean Bossaert ci-dessous. je vais soit modifier ce texte (mais il ne sera plus aussi spectaculaire...) soit en écrire une version "intergalactique" ...
 
 _copyright 2004 Philippe Guglielmetti, tous droits réservés. Il est interdit de copier ou de diffuser ce texte sans autorisation_

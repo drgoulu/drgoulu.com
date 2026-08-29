@@ -23,7 +23,7 @@ D'autres logiciels sont moins "scalables", essentiellement parce que les process
 
 Enfin, il y a tous les programmes qui ne sont pas parallélisés, ou qui n'ont été codés que pour 2 coeurs. Et il faut bien le reconnaitre, c'est le cas de la plupart des logiciels actuels.
 
-Reste que la tendance est lancée : les processeurs auront bientôt 4, 8, 16 coeurs ([le processeur Cell](http://fr.wikipedia.org/wiki/Cell_%28processeur%29) qui équipe déjà la Playstation III a déjà 1+8 coeurs, on les voit bien sur la photo), et les programmeurs sont en train d'apprendre à en tirer parti.
+Reste que la tendance est lancée : les processeurs auront bientôt 4, 8, 16 coeurs ([le processeur Cell](w:Cell_(processeur)) qui équipe déjà la Playstation III a déjà 1+8 coeurs, on les voit bien sur la photo), et les programmeurs sont en train d'apprendre à en tirer parti.
 
 Pour l'instant, un Quad vous apportera donc peu de gain de performance sur des applications interactives. Mais si vous encodez des videos, faites du rendu réaliste ou autres applications fonctionnant pendant des heures en tâche de fond, les 4 coeurs vous apporteront un gain de vitesse tout en laissant la machine disponible pour du travail interactif, ça peut valoir le coup.
 

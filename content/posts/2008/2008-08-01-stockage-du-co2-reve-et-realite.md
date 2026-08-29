@@ -34,7 +34,7 @@ Le problème peut être décomposé en 2 sous-problèmes :
 
 ### Le cycle du carbone
 
-Commençons par analyser le [cycle du carbone](http://fr.wikipedia.org/wiki/Cycle_du_carbone) et les phénomènes naturels qui absorbent directement le CO2 de l'atmosphère, les "[puits de carbone](http://fr.wikipedia.org/wiki/Puits_de_carbone)":
+Commençons par analyser le [cycle du carbone](w:) et les phénomènes naturels qui absorbent directement le CO2 de l'atmosphère, les "[puits de carbone](w:)":
 
 - la photosynthèse : la végétation capte chaque année 62 Milliards de tonnes de Carbone (GtC), 10 fois plus que les 6 GtC correspondant aux 22 Gt de CO2 dégagés par l'activité humaine ! Ou est le problème alors ? Et bien la biosphère rejette 60 GtC/an  pour la respiration. Il reste quand même 2 GtC/an, l'équi transformés en bois, en feuilles mortes, en aliments ou en biocarburant. Mais la déforestation actuelle dégage 1.9 GtC/an et annule donc presque totalement l'effet de la photosynthèse.
 - De même 2GtC/an se dissolvent dans l'océan, qui contient 52 fois plus de CO2 que l'atmosphère, mais seuls 0.4 GtC/an sont transormés en calcaire (et en fossiles) par le corail et autres bestioles. Petit rappel : les montagnes calcaires comme le Jura ont été formées ainsi et contiennent l'équivalent de 37'000'000 de GtC (37 millions de gigatonnes = 37 pétatonnes, ou exakilos ou encore zettagrammes de Carbone), l'équivalent de 50 millions d'années de pollution humaine ...
@@ -52,7 +52,7 @@ C'est pourquoi des entreprises comme [Alstom](http://www.enerzine.com/14/3295+Al
 1. le "captage en postcombustion" qui permet d'extraire ~90% du CO2 des gaz d'échappement de centrales à charbon à l'aide d'amoniaque réfrigéré
 2. l'"oxycombusion" consiste à bruler les combustibles dans de l'oxygène pur au lieu d'air. On obtient ainsi des gaz composés uniquement de CO2 et d'eau, et après refroidissement, du CO2 pur. Le problème est alors d'obtenir de l'oxygène aussi bon marché que pur, et il existe deux voies :
     1. avec la séparation cryogénique, on distile l'air : à -185°, l'oxygène se liquéfie et l'azote reste gazeux. Refroidir pour mieux brûler ... le procédé est gourmand en énergie...
-    2. la "combustion chimique en boucle" (CLC : [Chemical Looping Combustion](https://fr.wikipedia.org/wiki/Chemical_Looping_Combustion)) est un nouveau procédé utilisant un oxyde de métal alternativement oxydé par l'air et réduit par le combustible. Etonnant est prometteur.
+    2. la "combustion chimique en boucle" (CLC : [Chemical Looping Combustion](w:)) est un nouveau procédé utilisant un oxyde de métal alternativement oxydé par l'air et réduit par le combustible. Etonnant est prometteur.
 3. la "précombustion" consiste à ôter le carbone des combustibles fossiles avant de bruler ce qui reste, à savoir de l'hydrogène. C'est ainsi [qu'on produit l'hydrogène à partir du gaz naturel](/2007/09/06/lhydrogene-energie-du-futur/) actuellement, mais Alstom n'a pas l'air d'y croire comme moyen industriel de produire de l'énergie car cette approche ne s'adapte pas aux centrales existantes.
 
 ### Le stockage

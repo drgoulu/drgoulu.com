@@ -39,7 +39,7 @@ Les formulaires Google Drive permettent de réaliser facilement des sondages, qu
 
 ### Curation V.3.0‎
 
-Rien à faire, il n'y a toujours pas mieux pour suivre les sites intéressants que les [flux RSS](https://fr.wikipedia.org/wiki/flux_RSS). J'ai longtemps utilisé [Google Reader](https://fr.wikipedia.org/wiki/Google_Reader) avec lequel j'ai commencé à faire de la [curation de contenu](https://fr.wikipedia.org/wiki/curation_de_contenu). En effet, en cochant simplement les articles que je trouvais intéressants, Google Reader les agrégeait dans un flux RSS "de sortie" que je pouvais publier sur [ma page Facebook](http://www.facebook.com/pages/Dr-Goulu/78830919192).
+Rien à faire, il n'y a toujours pas mieux pour suivre les sites intéressants que les [flux RSS](w:). J'ai longtemps utilisé [Google Reader](w:) avec lequel j'ai commencé à faire de la [curation de contenu](w:). En effet, en cochant simplement les articles que je trouvais intéressants, Google Reader les agrégeait dans un flux RSS "de sortie" que je pouvais publier sur [ma page Facebook](http://www.facebook.com/pages/Dr-Goulu/78830919192).
 
 Puis Google a annoncé la fermeture de Reader (toujours incompréhensible pour moi) et j'ai utilisé [Scoop.it](http://www.scoop.it/u/goulu). C'était une bonne idée : Scoop.it permet d'agréger non seulement des flux RSS, mais aussi des tweets, le contenu de pages Facebook et de recherches Google. On peut créer ainsi plusieurs "topics" thématiques, et de jolis widgets comme celui ci-contre à droite. Mais le point fort de Scoop.it, c'est ses possibilités de partage : chaque contenu "scoopé" peut être partagé automatiquement sur Twitter, Facebook, Gogle+ et Tumblr, entre autres.
 

@@ -16,13 +16,13 @@ D'une part, le satellite du [Solar Dynamics Observatory](http://sdo.gsfc.nasa.go
 
 {{< youtube id="Y48zPbqCbOQ" >}}
 
-D'autre part, le télescope du [Big Bear Solar Observatory](http://www.bbso.njit.edu/) a également commencé à fournir [les images les plus détaillées](http://www.bbso.njit.edu/nst_gallery.html) jamais obtenues de la surface du Soleil, et ce depuis le sol de notre bonne vieille Terre grâce à l'utilisation de l'[optique adaptative](http://fr.wikipedia.org/wiki/Optique_adaptative).
+D'autre part, le télescope du [Big Bear Solar Observatory](http://www.bbso.njit.edu/) a également commencé à fournir [les images les plus détaillées](http://www.bbso.njit.edu/nst_gallery.html) jamais obtenues de la surface du Soleil, et ce depuis le sol de notre bonne vieille Terre grâce à l'utilisation de l'[optique adaptative](w:).
 
 ![](images/8eb518f67660c0b4a2f2b03a5001094a.jpg)
 
-Une petite [tache solaire](http://fr.wikipedia.org/wiki/Tache_solaire) photographiée par le Big Bear Solar Observatory en juillet. La résolution de l'image originale est de 100 km, les petites bulles font environ 1000 km de diamètre, et la Terre tiendrait dans la tache "noire", où la température n'est que de 3600°K, soit bien moins que les ~5800°K environnants.
+Une petite [tache solaire](w:) photographiée par le Big Bear Solar Observatory en juillet. La résolution de l'image originale est de 100 km, les petites bulles font environ 1000 km de diamètre, et la Terre tiendrait dans la tache "noire", où la température n'est que de 3600°K, soit bien moins que les ~5800°K environnants.
 
-Avec ces instruments, on devrait pouvoir observer en détail le 24ème [cycle solaire](http://fr.wikipedia.org/wiki/Cycle_solaire), débuté en 2008, et mieux comprendre le magnifique diagramme "butterfly" qui représente le nombre de taches solaires repérées à chaque latitude du Soleil en fonction du temps. Admirez cette régularité encore mal comprise :
+Avec ces instruments, on devrait pouvoir observer en détail le 24ème [cycle solaire](w:), débuté en 2008, et mieux comprendre le magnifique diagramme "butterfly" qui représente le nombre de taches solaires repérées à chaque latitude du Soleil en fonction du temps. Admirez cette régularité encore mal comprise :
 
 {{< figure src="images/2c375922c38c1d33ea56a25628831025.gif" alt="diagramme papillon des taches solaires. cliquer pour agrandir" caption="diagramme &quot;papillon&quot; des taches solaires. cliquer pour agrandir" link="images/2c375922c38c1d33ea56a25628831025.gif" align="aligncenter" width="512" >}}
 

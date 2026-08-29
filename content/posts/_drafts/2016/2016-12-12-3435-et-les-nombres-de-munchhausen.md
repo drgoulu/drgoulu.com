@@ -13,13 +13,13 @@ draft: true
 ---
 {{< figure src="images/220px-Munchhausen-AWille.jpg" alt="Le baron de Münchausen se déplaçait en chevauchant des boulets de canon..." caption="Le baron de Münchausen se déplaçait en chevauchant des boulets de canon..." width="220" >}}
 
-8208 est un [nombre narcissique](https://fr.wikipedia.org/wiki/nombre_narcissique) parce que 8208 = 84 + 24 + 04 + 84  : il est égal à la somme de ses chiffres élevée à la puissance correspondant au nombre de ses chiffres. Il y en a beaucoup ([A005188](https://oeis.org/A005188)) mais pas une infinité : 115132219018763992565095597973971522401 est le plus grand
+8208 est un [nombre narcissique](w:) parce que 8208 = 84 + 24 + 04 + 84  : il est égal à la somme de ses chiffres élevée à la puissance correspondant au nombre de ses chiffres. Il y en a beaucoup ([A005188](https://oeis.org/A005188)) mais pas une infinité : 115132219018763992565095597973971522401 est le plus grand
 
 3435 = 33 + 44 + 33 + 55  D'autres nombres possèdent-ils cette étonnante propriété ? C'est la question posée dans [cet article de John D. Cook](http://www.johndcook.com/blog/2016/09/19/munchausen-numbers/) [[1]](#ref-1)
 
 La réponse est "oui, mais ça dépend". Il y a de toutes façons le 1 parce que 11 = 1, mais il y a aussi 0 et 34664084 si on définit 00 = 0, alors que tout le monde sait que 00 = 1 . [Ou pas](http://eljjdx.canalblog.com/archives/2011/05/29/21255118.html).
 
-Et voilà, ce sont les seuls [nombres de Münchhausen](https://fr.wikipedia.org/wiki/nombre_de_Münchhausen) ([A046253](https://oeis.org/A046253)), ainsi nommés dans l'article qui les a découverts [[2]](#ref-2) par similitude avec les  ([A005188](https://oeis.org/A005188)) comme .
+Et voilà, ce sont les seuls [nombres de Münchhausen](w:nombre_de_Münchhausen) ([A046253](https://oeis.org/A046253)), ainsi nommés dans l'article qui les a découverts [[2]](#ref-2) par similitude avec les  ([A005188](https://oeis.org/A005188)) comme .
 
 Les chiffres des nombres narcissiques sont élevés à la puissance , [Baron de Münchhausen](https://fr.wikipedia.org/wiki/Baron_de Münchhausen) étant considéré comme le Narcisse ultime.
 

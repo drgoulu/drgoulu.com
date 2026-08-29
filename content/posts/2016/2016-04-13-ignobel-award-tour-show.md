@@ -12,7 +12,7 @@ coverImage: "igNobel-Award-Tour-Show-EPFL.png"
 
 {{< figure src="images/igNobel-Award-Tour-Show-EPFL.png" alt="igNobel Award Tour Show EPFL" >}}
 
-Comme certains ne connaissent pas encore les fameux [Prix Ig Nobel](https://fr.wikipedia.org/wiki/Prix_Ig_Nobel), leur fondateur [Marc Abrahams](https://en.wikipedia.org/wiki/Marc_Abrahams) parcourt le monde pour présenter cette institution. J'ai ainsi eu la chance d'assister au "Ig Nobel Award Tour Show" organisé à l'EPFL il y a quelques semaines, et ce fut un grand moment de science poilante.
+Comme certains ne connaissent pas encore les fameux [Prix Ig Nobel](w:), leur fondateur [Marc Abrahams](w:en) parcourt le monde pour présenter cette institution. J'ai ainsi eu la chance d'assister au "Ig Nobel Award Tour Show" organisé à l'EPFL il y a quelques semaines, et ce fut un grand moment de science poilante.
 
 Le "Show" se déroule en deux temps. D'abord, Marc Abrahams explique le but des prix:
 
@@ -24,7 +24,7 @@ Puis il en décrit le mécanisme de sélection, d'attribution et la célèbre�
 
 Dans un deuxième temps, des lauréats Ig Nobel des années précédentes viennent présenter leurs travaux primés. Nous avons eu droit à 3 présentations:
 
-1. Emily Baird de l'Université de Lund nous a expliqué comment elle a déterminé que "Le [bousier](https://fr.wikipedia.org/wiki/bousier) utilise la Voie lactée pour s’orienter" [[1]](#ref-1), ce qui lui a valu le Prix 2013 de biologie et astronomie. En fait, son équipe a démontré que ce scarabée ne se repère pas sur le paysage environnant pour s'éloigner en ligne droite d'une bouse bien fumante avec une petite boule d'appétissant fumier, mais qu'il garde un angle constant par rapport à la source lumineuse la plus intense : Soleil le jour, Lune la nuit, ou à défaut, la Voie Lactée, bien lumineuse dans les nuits des savanes d'Afrique australe.
+1. Emily Baird de l'Université de Lund nous a expliqué comment elle a déterminé que "Le [bousier](w:) utilise la Voie lactée pour s’orienter" [[1]](#ref-1), ce qui lui a valu le Prix 2013 de biologie et astronomie. En fait, son équipe a démontré que ce scarabée ne se repère pas sur le paysage environnant pour s'éloigner en ligne droite d'une bouse bien fumante avec une petite boule d'appétissant fumier, mais qu'il garde un angle constant par rapport à la source lumineuse la plus intense : Soleil le jour, Lune la nuit, ou à défaut, la Voie Lactée, bien lumineuse dans les nuits des savanes d'Afrique australe.
 2. Ensuite Elisabeth Oberzaucher de l'Université de Vienne, lauréate du Prix 2015 de mathématiques a calculé "Comment [Moulay Ismaïl ben Chérif](https://fr.wikipedia.org/wiki/Moulay_Ismaïl_ben Chérif), sultan du Maroc, a pu engendrer 888 enfants ?" [[2]](#ref-2) Bon, un harem de 500 femmes ça aide, mais malgré ça, compte tenu du caractère assez aléatoire de la fertilité féminine, ce sultan par ailleurs peu recommandable a du donner de sa personne...
 3. Enfin Stephan Bolliger de l'Université de Zurich a répondu à la question "Est-il préférable de se faire fracasser la tête avec une bouteille de bière pleine ou vide ?" [[3]](#ref-3) qui lui a valu le Prix 2009 de la paix. D'après les tests effectués, les deux cas sont susceptibles de provoquer une fracture du crane, mais il faut une force plus grande pour casser une bouteille vide que pleine...
 

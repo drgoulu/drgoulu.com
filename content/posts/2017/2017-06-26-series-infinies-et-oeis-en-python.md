@@ -24,9 +24,9 @@ Pour cela j'ai fait un truc dont je suis vachement fier\* :
 
 ## La classe Sequence
 
-Ce [container](https://fr.wikipedia.org/wiki/conteneur_(informatique)) ([embryon de doc](https://goulib.readthedocs.io/en/latest/modules/Goulib.container.html#Goulib.container.Sequence)) permet de représenter une [suite](https://fr.wikipedia.org/wiki/suite_(mathématiques)) (sequence en anglais) finie ou infinie de nombres\*\* à partir d''une ou plusieurs fonctions passées à [son constructeur](https://goulib.readthedocs.io/en/latest/modules/Goulib.container.html#Goulib.container.Sequence.__init__):
+Ce [container](w:conteneur_(informatique)) ([embryon de doc](https://goulib.readthedocs.io/en/latest/modules/Goulib.container.html#Goulib.container.Sequence)) permet de représenter une [suite](w:suite_(mathématiques)) (sequence en anglais) finie ou infinie de nombres\*\* à partir d''une ou plusieurs fonctions passées à [son constructeur](https://goulib.readthedocs.io/en/latest/modules/Goulib.container.html#Goulib.container.Sequence.__init__):
 
-- iterf : un [itérateur](https://fr.wikipedia.org/wiki/itérateur) ou générateur produisant les termes de la suite l'un après l'autre
+- iterf : un [itérateur](w:) ou générateur produisant les termes de la suite l'un après l'autre
 - itemf : une fonction  retournant le i-ème paramètre de la suite
 - containf : une fonction renvoyant vrai (True) si son paramètre appartient à la suite.
 
@@ -56,19 +56,19 @@ Une Sequence peut être dérivée d'une autre grâce à plusieurs méthodes:
 
 - [filter](http://goulib.readthedocs.io/en/latest/modules/Goulib.container.html#Goulib.container.Sequence.filter) renvoie une Sequence correspondant à la Sequence source filtrée par une fonction. Par exemple: [A000043](https://oeis.org/A000043)\=A000040.filter([math2.lucas\_lehmer](http://goulib.readthedocs.io/en/latest/modules/Goulib.math2.html#Goulib.math2.lucas_lehmer)) renvoie les "exposants de Mersenne", les nombres premiers p tels que $2^p - 1$ est premier.
 - [apply](http://goulib.readthedocs.io/en/latest/modules/Goulib.container.html#Goulib.container.Sequence.apply) applique une fonction à chaque terme de la Sequence source. Par exemple la série des carrés des nombres premiers peut se définir ainsi: [A001248](https://oeis.org/A001248)\=A000040.apply(lambda n:n\*n)
-- Pour éviter l'utilisation d'apply dans des cas trivialement simples, l'addition (et la soustraction) d'une Sequence et d'un entier sont définies. Par exemple: [A000215](https://oeis.org/A000215)\=[A001146](https://oeis.org/A001146)+1 définit les [nombres de Fermat](https://fr.wikipedia.org/wiki/nombre_de_Fermat) à partir des nombres de la forme $2^{2^n}$
+- Pour éviter l'utilisation d'apply dans des cas trivialement simples, l'addition (et la soustraction) d'une Sequence et d'un entier sont définies. Par exemple: [A000215](https://oeis.org/A000215)\=[A001146](https://oeis.org/A001146)+1 définit les [nombres de Fermat](w:nombre_de_Fermat) à partir des nombres de la forme $2^{2^n}$
 - [accumulate](http://goulib.readthedocs.io/en/latest/modules/Goulib.container.html#Goulib.container.Sequence.accumulate) renvoie une Sequence dont le n-ième terme est obtenu en sommant les n premiers termes de la Sequence source: [A007504](https://oeis.org/A007504)\=A000040.accumulate()
 - [pairwise](http://goulib.readthedocs.io/en/latest/modules/Goulib.container.html#Goulib.container.Sequence.pairwise) renvoie une Sequence produite en appliquant applique une fonction à chaque paire de termes consécutifs. Ainsi la suite des différences entre nombres premiers consécutifs s'écrit: [A001223](https://oeis.org/A001223)\=A000040.pairwise(operator.sub)
 
 On peut aussi combiner deux Sequences pour en créer une nouvelle:
 
-- L'opérateur % (modulo, pourquoi pas...) renvoie les termes de la Sequence opérande de gauche qui ne sont PAS dans l'opérande de droite. Ainsi: [A007510](https://oeis.org/A007510)\=A000040 % [A001097](https://oeis.org/A001097) définit la Sequence des nombres premiers qui ne sont pas [jumeaux](https://fr.wikipedia.org/wiki/Nombres_premiers_jumeaux)
+- L'opérateur % (modulo, pourquoi pas...) renvoie les termes de la Sequence opérande de gauche qui ne sont PAS dans l'opérande de droite. Ainsi: [A007510](https://oeis.org/A007510)\=A000040 % [A001097](https://oeis.org/A001097) définit la Sequence des nombres premiers qui ne sont pas [jumeaux](w:Nombres_premiers_jumeaux)
 - L'opérateur & (and) renvoie les termes de la Sequence opérande de gauche qui sont aussi dans l'opérande de droite. Ainsi: [A020449](https://oeis.org/search?q=A020449)\=[A007088](https://oeis.org/search?q=A007088) & A000040 définit la suite des nombres premiers dont qui ne s'écrivent qu'avec des 0 et des 1.
 - L'opérateur | (or) renvoie la fusion de deux séquences à l'aide du génial [heapq.merge](http://sametmax.com/heapq-le-module-python-incompris/) . Ainsi: [A030513](https://oeis.org/A030513)\=[A030078](https://oeis.org/A030078) | [A006881](https://oeis.org/A006881) définit les nombres ayant 4 diviseurs (dont 1 et eux-mêmes) comme l'union de ceux qui sont le produit de deux nombres premiers avec ceux qui sont le cube d'un nombre premier.
 
 Il y a encore deux méthodes un peu "tirées par les cheveux" du point de vue mathématique, mais qui fonctionnent très bien informatiquement:
 
-- [sort](http://goulib.readthedocs.io/en/latest/modules/Goulib.container.html#Goulib.container.Sequence.sort) renvoie une Sequence [monotone croissante](https://fr.wikipedia.org/wiki/Suite_(mathématiques)#Suites_monotones) (par défaut) en triant les termes de la Sequence d'origine. Par exemple, voici la suites des surfaces des [triplets pythagoriciens](/2017/01/02/2017-et-les-triplets-pythagoriciens/) dans l'ordre croissant: [A024406](https://oeis.org/A024406)\=Sequence(math2.primitive\_triples).apply(lambda x:x\[0\]\*x\[1\]//2) .sort()
+- [sort](http://goulib.readthedocs.io/en/latest/modules/Goulib.container.html#Goulib.container.Sequence.sort) renvoie une Sequence [monotone croissante](w:Suite_(mathématiques)#Suites_monotones) (par défaut) en triant les termes de la Sequence d'origine. Par exemple, voici la suites des surfaces des [triplets pythagoriciens](/2017/01/02/2017-et-les-triplets-pythagoriciens/) dans l'ordre croissant: [A024406](https://oeis.org/A024406)\=Sequence(math2.primitive\_triples).apply(lambda x:x\[0\]\*x\[1\]//2) .sort()
 - [unique](http://goulib.readthedocs.io/en/latest/modules/Goulib.container.html#Goulib.container.Sequence.unique) renvoie une Sequence où les termes redondants de la suite d'origine sont absents, par exemple: [A001097](https://oeis.org/A001097) = [A077800](https://oeis.org/A077800) .unique() // oui, parce que le 5 appartient à deux paires de nombres premiers jumeaux ...
 
 Ces méthodes utilisent respectivement [itertools2.sorted\_iterable](http://goulib.readthedocs.io/en/latest/modules/Goulib.itertools2.html#Goulib.itertools2.sorted_iterable) et  [itertools2.unique,](http://goulib.readthedocs.io/en/latest/modules/Goulib.itertools2.html#Goulib.itertools2.unique) qui fonctionnent tant que la suite initiale est "presque" triée, à savoir tant que l'écart n entre un terme $a_i+n \leq a_i$ n'excède pas le paramètre "buffer" de la fonction. On peut évidemment trouver des suites qui ne pourront "mathématiquement" pas être traitées ainsi, mais informatiquement j'arrive à reproduire les suites de l'OEIS rencontrées jusqu'ici avec buffer=100 seulement
@@ -85,7 +85,7 @@ Un point important est qu'aucun calcul n'est effectué lors des opérations ci-d
 
 C'est un peu "automagique", mais il faut tout de même veiller à utiliser les algorithmes les plus efficaces, et c'est même un des buts que je poursuis avec ce projet. Par exemple la suite des nombres premiers dont qui ne s'écrivent qu'avec des 0 et des 1 [A020449](https://oeis.org/A020449)\=[A007088](https://oeis.org/A007088) & A000040 aurait pu s’écrire également: A020449=A000040 & A007088 mais la première formulation est beaucoup plus rapide car la série A007088 des nombres ne s'écrivant qu'avec des 0 et des 1 croît beaucoup plus vite que celle des nombres premiers A000040. Il est par conséquent beaucoup plus rapide de tester si les nombres du genre 1101010101011101 sont premiers que d'énumérer tous les nombres premiers de 16 chiffres et de jeter ceux qui contiennent d'autres chiffres que des 0 ou 1.
 
-Malgré toutes ces précautions, parcourir une suite infinie prendra forcément un temps infini, et ces idiots d'ordinateurs ne sont toujours pas foutus de gérer le [problème de l'arrêt](https://fr.wikipedia.org/wiki/problème_de_l'arrêt). J'ai donc écrit un [décorateur (j'adore!)](/2010/12/04/les-decorateurs-python/) qui limite le temps de calcul d'une boucle ainsi :
+Malgré toutes ces précautions, parcourir une suite infinie prendra forcément un temps infini, et ces idiots d'ordinateurs ne sont toujours pas foutus de gérer le [problème de l'arrêt](w:). J'ai donc écrit un [décorateur (j'adore!)](/2010/12/04/les-decorateurs-python/) qui limite le temps de calcul d'une boucle ainsi :
 
 for x in [decorators.itimeout](https://goulib.readthedocs.io/en/latest/modules/Goulib.decorators.html#Goulib.decorators.itimeout)(suite,1): print(x) # affiche tous les termes calculables en 1 seconde (au total)
 
@@ -116,7 +116,7 @@ A cette occasion j'ai remarqué que l'édition de l'OEIS est un peu rébarbative
 
 Ce long article mijoté pendant plus de six mois se termine par un appel aux allumés du code bonnes volontés : si cet article vous a motivé , n'hésitez pas à contribuer à la Goulib sur GitHub.
 
-Pour ma part je m'attaque aux [nombre narcissique](https://fr.wikipedia.org/wiki/nombres_narcissiques) et [nombres de Friedman](https://fr.wikipedia.org/wiki/nombre_de_Friedman) qui seront l'occasion de nettoyer le code du [jeu de l'année](/2012/01/18/jeu-de-lannee-2012-et-autres-cest-fini/)  en utilisant et testant le module [Goulib.expr](http://goulib.readthedocs.io/en/latest/modules/Goulib.expr.html)
+Pour ma part je m'attaque aux [nombre narcissique](w:nombres_narcissiques) et [nombres de Friedman](w:nombre_de_Friedman) qui seront l'occasion de nettoyer le code du [jeu de l'année](/2012/01/18/jeu-de-lannee-2012-et-autres-cest-fini/)  en utilisant et testant le module [Goulib.expr](http://goulib.readthedocs.io/en/latest/modules/Goulib.expr.html)
 
 ### Notes
 

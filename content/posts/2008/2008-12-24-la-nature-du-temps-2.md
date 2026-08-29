@@ -11,16 +11,16 @@ coverImage: "3016524792_cdb7edf4c8_m.jpg"
 
 Malgré les fantastiques progrès de la physique depuis la théorie de la relativité et l'avènement de la mécanique quantique, le débat fait toujours rage autour de la question "**qu'est-ce que le temps?**"
 
-L' "institut des questions fondamentales en physique et cosmologie" [fq(x)](http://fqxi.org/) a organisé un  [concours d'essais](http://fqxi.org/community/forum/category/10) (en anglais...) sur ce thème. Les auteurs étaient invités à soumettre un article d'un niveau intermédiaire entre "Pour la Science" et "Science" ou "Nature". Ce concours vise donc surtout les spécialistes de la physique théorique, option cosmologie, mécanique quantique et/ou thermodynamique, mais certains passionnés ont aussi soumis leurs idées. A noter que [Lee Smolin](https://fr.wikipedia.org/wiki/Lee_Smolin), un précurseur de la question "[What is Time](http://community.fortunecity.ws/underworld/continue/56/whattime.html)" est membre de la fondation fq(x).
+L' "institut des questions fondamentales en physique et cosmologie" [fq(x)](http://fqxi.org/) a organisé un  [concours d'essais](http://fqxi.org/community/forum/category/10) (en anglais...) sur ce thème. Les auteurs étaient invités à soumettre un article d'un niveau intermédiaire entre "Pour la Science" et "Science" ou "Nature". Ce concours vise donc surtout les spécialistes de la physique théorique, option cosmologie, mécanique quantique et/ou thermodynamique, mais certains passionnés ont aussi soumis leurs idées. A noter que [Lee Smolin](w:), un précurseur de la question "[What is Time](http://community.fortunecity.ws/underworld/continue/56/whattime.html)" est membre de la fondation fq(x).
 
 C'est un succès : [une bonne centaine d'articles ont été soumis](http://fqxi.org/community/forum/category/10), les forums de discussion attachés à certains article sont très animés, et le public peut [voter](http://fqxi.org/community/essay) jusqu'au 1er janvier 2009 pour désigner la meilleure contribution.
 
 La plupart des essais tentent de réconcilier les deux conceptions du temps fondamentalement différentes (déja esquissées dans "[Peut-On Voyager dans le Temps](/2008/06/19/peut-on-voyager-dans-le-temps/)"):
 
-1. l' "[éternalisme](https://fr.wikipedia.org/wiki/éternalisme)", ou théorie de l'Univers-Bloc, qui découle logiquement de la théorie de la relativité.
-2. le "[présentisme](https://fr.wikipedia.org/wiki/présentisme)", résultant d'une vision quantique du monde.
+1. l' "[éternalisme](w:)", ou théorie de l'Univers-Bloc, qui découle logiquement de la théorie de la relativité.
+2. le "[présentisme](w:)", résultant d'une vision quantique du monde.
 
-### l'Univers-bloc [éternaliste](https://fr.wikipedia.org/wiki/éternalisme)
+### l'Univers-bloc [éternaliste](w:éternalisme)
 
 Dans la sa version la plus simplifiée,  l'Univers-bloc ressemble à un "flipbook" :
 
@@ -28,11 +28,11 @@ Dans la sa version la plus simplifiée,  l'Univers-bloc ressemble à un "flipbo
 
 Si on considère le  "flipbook" comme un "univers" à 2 dimensions spatiales (où l'on dessine) + 1 temporelle (les pages qu'on feuillette) , on peut imaginer l'Univers-bloc comme ayant 3 dimensions spatiales,plus la fameuse 4ème dimension du temps.  Le "présent" ne serait alors qu'une "tranche" à 3 dimensions traversant l'Univers selon l'axe du temps à la vitesse d'une seconde par seconde.
 
-![](images/88c60e6a18c4653a5060e68e9512d470.png)L'Univers-bloc est une solution de l'[équation d'Einstein](https://fr.wikipedia.org/wiki/équation_d'Einstein), dans lequel [le temps est une 4ème dimension imaginaire](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/ "le temps, une 4ème dimension imaginaire") au sens mathématique du terme. Ceci permet de très bien décrire la relativité, au point que Ken Wharton considère dans "[Lessons from the Block Universe"](http://fqxi.org/community/forum/topic/311) ,  que
+![](images/88c60e6a18c4653a5060e68e9512d470.png)L'Univers-bloc est une solution de l'[équation d'Einstein](w:), dans lequel [le temps est une 4ème dimension imaginaire](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/ "le temps, une 4ème dimension imaginaire") au sens mathématique du terme. Ceci permet de très bien décrire la relativité, au point que Ken Wharton considère dans "[Lessons from the Block Universe"](http://fqxi.org/community/forum/topic/311) ,  que
 
 > L'univers-bloc est de loin le meilleur cadre (framework) pour les théories physiques, du fait que la relativité générale est simplement incompatible avec toute alternative
 
-En effet, dans l'Univers-bloc, chaque point de l'Univers peut avoir son propre "présent", défini par le "[cône de lumière](https://fr.wikipedia.org/wiki/causalité_(physique)) du passé", sur lequel se trouvent tous les objets que nous voyons à cet instant. Plus ces objets sont éloignés, plus ils mettent de temps à agir sur nous, et toutes les actions ou interactions qui surviennent ici et maintenant n'influenceront le futur qu'à l'intérieur du "cône de lumière du futur". De ce fait, nous n'avons aucune idée de ce qu'est le "présent" sur la Galaxie d'Andromède depuis 2.5 millions d'années, et nous n'avons aucune façon de le savoir avant 2.5 millions d'années.
+En effet, dans l'Univers-bloc, chaque point de l'Univers peut avoir son propre "présent", défini par le "[cône de lumière](w:causalité_(physique)) du passé", sur lequel se trouvent tous les objets que nous voyons à cet instant. Plus ces objets sont éloignés, plus ils mettent de temps à agir sur nous, et toutes les actions ou interactions qui surviennent ici et maintenant n'influenceront le futur qu'à l'intérieur du "cône de lumière du futur". De ce fait, nous n'avons aucune idée de ce qu'est le "présent" sur la Galaxie d'Andromède depuis 2.5 millions d'années, et nous n'avons aucune façon de le savoir avant 2.5 millions d'années.
 
 De plus, comme non seulement la théorie d'Albert, mais aussi de nombreuses expériences montrent que le temps ne s'écoule pas partout à la même vitesse, nous sommes amenés à imaginer que le passé et le futur sont aussi des notions "locales", et que le seul moyen de rendre le passé d'un point cohérent avec le futur des autres est de considérer que tout "préexiste".
 
@@ -40,7 +40,7 @@ Dans l'Univers-bloc, le passé existe encore et le futur existe déjà. Ils sont
 
 Outre une réalité difficile à accepter par les "animaux prétentieux" que nous sommes, l'Univers-bloc est totalement contradictoire avec la mécanique quantique, qui démontre par de très nombreuses expériences aussi que le hasard est fondamental en physique.
 
-### Le [Présentisme](https://fr.wikipedia.org/wiki/Présentisme)
+### Le [Présentisme](w:)
 
 Radicalement opposés à l'Univers-bloc, les "présentistes" soutiennent que seul le présent existe. L'univers est défini par un seul "état" que l'on peut imaginer comme un très grand vecteur contenant les positions, vitesses charge électrique etc. de toutes les particules de l'Univers. Les variations de ce vecteur selon les lois statistiques de la mécanique quantique définissent la "flèche du temps" qui  pointe en direction d'un Univers plus probable à chaque instant, expliquant ainsi comment les phénomènes fondamentalement réversibles de la mécanique quantique produisent des phénomènes aussi irréversibles que la dilution d'un nuage de lait dans votre thé de Noël.
 
@@ -57,7 +57,7 @@ Peu de textes proposés défendent bec et ongles l'une ou l'autre position, et c
 - Commençons par Sean Carroll, qui maintient l'excellent blog "[Cosmic Variance](http://blogs.discovermagazine.com/cosmicvariance/)" grâce auquel j'ai découvert ce concours et où se trouve notamment une [FAQ sur la flèche du temps.](http://blogs.discovermagazine.com/cosmicvariance/2007/12/03/arrow-of-time-faq/) Dans son essai, il [What if Time Really Exists?](http://fqxi.org/data/essay-contest-files/Carroll_fqxitimecontest.pdf) il propose de considérer tout de même le temps explicitement dans l'univers présentiste ce qui permettrait, si j'ai bien compris car son article est tout de même très technique, de considérer la mécanique quantique comme une théorie "duale" de l'univers relativiste.
 - Cette idée de dualité se retrouve dans un article plus accessible, "[Time Complementarity in the Inflaton Spacetime Model](http://fqxi.org/data/essay-contest-files/Dolan_timecomp.pdf)" de Richard P. Dolan selon qui
     
-    > Dans le modèle de l'espace-temps "[inflaton](https://fr.wikipedia.org/wiki/inflaton)", il y a une dualité inhérente entre le concept  "univers-bloc" du temps et notre sensation d'un temps qui s'écoule. Ces visions sont complémentaires dans le même sens que la nature corpusculaire et ondulatoire du photon. Alors que les lois de la physique voient l'univers-bloc, nous ne voyons que le temps qui s'écoule car nous somme faits du flux du temps.
+    > Dans le modèle de l'espace-temps "[inflaton](w:)", il y a une dualité inhérente entre le concept  "univers-bloc" du temps et notre sensation d'un temps qui s'écoule. Ces visions sont complémentaires dans le même sens que la nature corpusculaire et ondulatoire du photon. Alors que les lois de la physique voient l'univers-bloc, nous ne voyons que le temps qui s'écoule car nous somme faits du flux du temps.
     
 
 - Elliot McGucken aka "Dr. E" a intensivement utilisé les forums de pratiquement tous les autres articles pour promouvoir son propre essai baptisé [Time as an Emergent Phenomenon: Traveling Back to the Heroic Age of Physics](http://fqxi.org/data/essay-contest-files/McGucken_Time_as_an_Emergen.pdf)" dont l'abstract est très attrayant :

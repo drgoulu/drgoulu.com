@@ -15,7 +15,7 @@ Yves m'a soumis une nouvelle colle : comment fonctionne ce moteur électrique ul
 
 {{< youtube id="w2f6RD1hT6Q" >}}
 
-La pièce cruciale est le petit aimant cylindrique collé sous la tête de la vis. Plus il est puissant, mieux c'est car c'est la [force de Lorentz](http://fr.wikipedia.org/wiki/Force_de_Lorentz) qui fait tourner le moteur : cette force (en vert sur l'illustration ci-dessous) est perpendiculaire au champ magnétique (bleu) et au courant électrique (violet) par la "règle du tire-bouchon"
+La pièce cruciale est le petit aimant cylindrique collé sous la tête de la vis. Plus il est puissant, mieux c'est car c'est la [force de Lorentz](w:) qui fait tourner le moteur : cette force (en vert sur l'illustration ci-dessous) est perpendiculaire au champ magnétique (bleu) et au courant électrique (violet) par la "règle du tire-bouchon"
 
 {{< figure src="images/222bbb09e5d66c7f10df737f76874944.jpg" alt="Explication et illustration par Evil Mad Scientist Laboratories" caption="Explication et illustration par Evil Mad Scientist Laboratories" link="http://www.evilmadscientist.com/article.php/SimpleMHD" align="aligncenter" width="480" >}}
 

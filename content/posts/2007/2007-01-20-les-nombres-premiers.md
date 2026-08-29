@@ -39,9 +39,9 @@ Comme 2^n-1 est une fonction exponentielle, on peut trouver "facilement" de trè
 
 En 1588, P. Cataldi calcul a que 217\-1=131071 et 219\-1 = 524 287 sont premiers, puis Euler en 1750 prouva que 231\-1=147'483'647 est premier.
 
-S'ensuivit une course au plus grand nombre premier dont on trouve un [historique sur la Wikipedia.](http://fr.wikipedia.org/wiki/Nombre_premier_de_Mersenne)
+S'ensuivit une course au plus grand nombre premier dont on trouve un [historique sur la Wikipedia.](w:Nombre_premier_de_Mersenne)
 
-En 1878, [Edouard Lucas](http://fr.wikipedia.org/wiki/%C3%89douard_Lucas) énonça un test de primalité très puissant, qui lui permit de prouver que 2127\-1 = 170141183460469231731687303715884105727 est premier, sans effectuer les divisions
+En 1878, [Edouard Lucas](w:Édouard_Lucas) énonça un test de primalité très puissant, qui lui permit de prouver que 2127\-1 = 170141183460469231731687303715884105727 est premier, sans effectuer les divisions
 
 les nombres premiers suivants furent découvert dès 1952 avec des ordinateurs.
 
@@ -59,7 +59,7 @@ Le 15 janvier 2007, des nombres premiers jumeaux de 58'711 décimales ont été 
 
 Un matheux nommé Ulam s’ennuyait à une conférence et à commencé à écrire les nombres 1,2,3,4 etc en spirale sur du papier quadrillé, puis à noircir les cases correspondant aux nombres premiers.
 
-A sa grande surprise il a vu apparaitre des "lignes" obliques qui correspondent à des fonctions génératrices de nombres premiers de forme a.n2+b.n + c, comme les fonctions mentionnées plus haut. (voir la [wikipedia](http://fr.wikipedia.org/wiki/Spirale_d'Ulam))
+A sa grande surprise il a vu apparaitre des "lignes" obliques qui correspondent à des fonctions génératrices de nombres premiers de forme a.n2+b.n + c, comme les fonctions mentionnées plus haut. (voir la [wikipedia](w:Spirale_d'Ulam))
 
 [![](images/0b7574cc4d97b1ba36b34b2b9797fc23.gif)![](images/aab68440f5e5ab55679676c1cca17bce.png)](http://p3nlhclust404.shr.prod.phx3.secureserver.net/SharedContent/redirect_0.html)
 
@@ -81,7 +81,7 @@ Bref, ne pas se laisser impressionner par une quelconque régularité apparente 
 
 #### Références
 
-1. <span id="ref-1"></span>[Wikipedia](http://fr.wikipedia.org/wiki/Nombre_premier)
+1. <span id="ref-1"></span>[Wikipedia](w:Nombre_premier)
 2. <span id="ref-2"></span>{{< openbook booknumber="ISBN:978-2842450175" templatenumber="5" >}}
 3. <span id="ref-3"></span>articles de Jean-Paul Delahaye dans [Pour la Science](http://www.goulu.net/wordpress/pour-la-science)
 4. <span id="ref-4"></span>[Feuille Maple sur les repunits](http://www.lifl.fr/~wegrzyno/BizPrem.html)

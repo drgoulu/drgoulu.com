@@ -10,12 +10,12 @@ tags:
 draft: true
 coverImage: "citation-milan-kundera-54512.png"
 ---
-Je me fais parfois traiter de d' "esprit cartésien", quand ce n'est pas de "cartésien borné", incapable de saisir qu'il existe autre chose que le monde bassement matériel qui nous entoure. Pourtant le [cartésianisme](https://fr.wikipedia.org/wiki/cartésianisme) est défini comme une philosophie [rationaliste](https://fr.wikipedia.org/wiki/rationaliste) et [métaphysique](https://fr.wikipedia.org/wiki/métaphysique) :
+Je me fais parfois traiter de d' "esprit cartésien", quand ce n'est pas de "cartésien borné", incapable de saisir qu'il existe autre chose que le monde bassement matériel qui nous entoure. Pourtant le [cartésianisme](w:) est défini comme une philosophie [rationaliste](w:) et [métaphysique](w:) :
 
 - La métaphysique désigne "la connaissance du monde, des choses ou des processus en tant qu'ils existent « au-delà » et indépendamment de l’expérience sensible que nous en avons",
-- et le rationalisme "pose la raison discursive comme seule source possible de toute [connaissance](https://fr.wikipedia.org/wiki/connaissance) réelle. Autrement dit, le réel ne serait connaissable qu'en vertu d'une explication par la raison déterminante, suffisante et nécessaire"[[1]](#ref-1)
+- et le rationalisme "pose la raison discursive comme seule source possible de toute [connaissance](w:) réelle. Autrement dit, le réel ne serait connaissable qu'en vertu d'une explication par la raison déterminante, suffisante et nécessaire"[[1]](#ref-1)
 
-Donc le Cartésien n'est justement pas [matérialiste](https://fr.wikipedia.org/wiki/matérialiste) ! Il croit que sa raison permet d'accéder à la vraie nature des choses, indépendante de ce que nos sens nous en révèlent. Et donc implicitement que sa [raison](https://fr.wikipedia.org/wiki/raison) a une nature spirituelle, transcendante, ou du moins métaphysique elle aussi.
+Donc le Cartésien n'est justement pas [matérialiste](w:) ! Il croit que sa raison permet d'accéder à la vraie nature des choses, indépendante de ce que nos sens nous en révèlent. Et donc implicitement que sa [raison](w:) a une nature spirituelle, transcendante, ou du moins métaphysique elle aussi.
 
 ## ![](images/citation-milan-kundera-54512.png)"Je pense donc je suis."
 
@@ -27,12 +27,12 @@ Personnellement, plus j'y pense, moins je le suis, notamment parce que l' "autor
 
 La raison du rationaliste lui permet d'accéder à la réalité au delà du visible. Donc si sa raison lui dit des choses comme:
 
-- Puisque la loi  de la gravitation produit une force négative si une masse est négative, alors l'[antigravité](https://fr.wikipedia.org/wiki/antigravité) est possible.
+- Puisque la loi  de la gravitation produit une force négative si une masse est négative, alors l'[antigravité](w:) est possible.
 - Si le temps s'arrête quand on va à la vitesse de la lumière, en allant plus vite on peut remonter le temps
-- Si on entre dans un trou noir, certaines équations disent qu'on va ressortir par un autre à travers un [trou de ver](https://fr.wikipedia.org/wiki/trou_de_ver).
+- Si on entre dans un trou noir, certaines équations disent qu'on va ressortir par un autre à travers un [trou de ver](w:).
 - etc.
 
-C'est possible puisque la raison le permet, la même raison surpuissante que celle de [René Descartes](https://fr.wikipedia.org/wiki/René_Descartes) (1596-1650), fondateur de la [méthode scientifique](https://fr.wikipedia.org/wiki/méthode_scientifique). Et c'est même parfaitement conforme à sa méthode en 4 étapes:
+C'est possible puisque la raison le permet, la même raison surpuissante que celle de [René Descartes](w:) (1596-1650), fondateur de la [méthode scientifique](w:). Et c'est même parfaitement conforme à sa méthode en 4 étapes:
 
 1. Objet évident (sujet de l'étude ; problème à résoudre & hypothèses)
 2. Diviser le plus possible
@@ -45,7 +45,7 @@ Les idées listées plus haut en sont donc à l'étape 4 : yapluka confirmer ou 
 
 En français courant, les "connaissances empiriques" ont une connotation un peu négative, ça fait un peu "trucs trouvés par hasard, ou appris sur le tas", et la "méthode empirique" quasi équivalente au bricolage.
 
-Pourtant l'[empirisme](https://fr.wikipedia.org/wiki/empirisme) est une méthode [David Hume](https://fr.wikipedia.org/wiki/David_Hume) (1711-1776)
+Pourtant l'[empirisme](w:) est une méthode [David Hume](w:) (1711-1776)
 
  
 

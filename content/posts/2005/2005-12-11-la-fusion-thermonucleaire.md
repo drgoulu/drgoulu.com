@@ -14,7 +14,7 @@ coverImage: "4327d33055d8e6632a06cc07491be23c.jpg"
 
 pourquoi il ne faut pas trop compter sur cette "source inépuisable d'énergie abondante, bon marché et non-polluante"
 
-### La [fusion thermonucléaire](https://fr.wikipedia.org/wiki/fusion_thermonucléaire) ? c'est quoi ?
+### La [fusion thermonucléaire](w:) ? c'est quoi ?
 
 C'est ce qui fait briller les étoiles : aux pressions et températures extrêmes qui règnent au centre des étoiles, les atomes légers peuvent fusionner en atomes plus lourds, en dégageant beaucoup d'énergie.
 
@@ -86,6 +86,6 @@ Ceci va vraisemblablement prendre beaucoup de temps, pour autant que ça réussi
 
 #### Références
 
-- [Wikipedia : Fusion thermonucléaire](http://fr.wikipedia.org/wiki/Fusion_thermonucl%C3%A9aire)
+- [Wikipedia : Fusion thermonucléaire](w:Fusion_thermonucléaire)
 - [http://www.univ-lemans.fr/enseignements/chimie/01/deug/CHIMDISCRI/fusion.html](http://ressources.univ-lemans.fr/AccesLibre/UM/Pedago/chimie/01/deug/CHIMDISCRI/fusion.html)
 - [Projet Artemis pour exploiter le He3 lunaire](http://www.asi.org/adb/02/09/he3-intro.html)

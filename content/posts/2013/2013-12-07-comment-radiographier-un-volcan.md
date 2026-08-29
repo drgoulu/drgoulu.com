@@ -14,7 +14,7 @@ coverImage: "2013-12-07_112337-1.png"
 
 Avec des muons cosmiques, pardi !
 
-Un article du "Pour la Science" de décembre m'a particulièrement scotché : une équipe a radiographié, ou plus exactement [tomographié](https://fr.wikipedia.org/wiki/Tomographie) l'intérieur du [volcan de la Soufrière](https://fr.wikipedia.org/wiki/Soufri%C3%A8re_\(Guadeloupe\)) en Guadeloupe [[1]](#ref-1). Le [projet "Diaphane" du CNRS](http://www.insu.cnrs.fr/terre-solide/experimenter-modeliser/projet-diaphane-radiographier-les-volcans-avec-les-rayons-cosmiq) a obtenu des mesures de la densité des roches comme celles ci-dessous:
+Un article du "Pour la Science" de décembre m'a particulièrement scotché : une équipe a radiographié, ou plus exactement [tomographié](w:Tomographie) l'intérieur du [volcan de la Soufrière](w:Soufrière_(Guadeloupe)) en Guadeloupe [[1]](#ref-1). Le [projet "Diaphane" du CNRS](http://www.insu.cnrs.fr/terre-solide/experimenter-modeliser/projet-diaphane-radiographier-les-volcans-avec-les-rayons-cosmiq) a obtenu des mesures de la densité des roches comme celles ci-dessous:
 
 [![2013-12-07\_112337](images/2013-12-07_112337-1.png)](/wp-content/uploads/2013/12/2013-12-07_112337-1.png)
 
@@ -22,7 +22,7 @@ On y distingue par exemple sur l'image du bas la cheminée bien verticale du cra
 
 {{< figure src="images/600f310bf28c341c97b8c86369b134e8.jpg" alt="Détecteur de muons du projet Diaphane (CNRS)" caption="Détecteur de muons du projet Diaphane (CNRS)" link="http://www.insu.cnrs.fr/terre-solide/experimenter-modeliser/projet-diaphane-radiographier-les-volcans-avec-les-rayons-cosmiq" width="250" >}}
 
-L'idée géniale est de placer un détecteur sur le flanc de la montagne, et de laisser les rayons cosmiques produire naturellement des [muons](https://fr.wikipedia.org/wiki/Muon) qui vont traverser la montagne et arriver au détecteur. En mesurant leur direction d'arrivée et connaissant par cartographie l'épaisseur de roche traversée, on peut déterminer la densité de la roche à partir du flux de muons détectés [[3]](#ref-3).
+L'idée géniale est de placer un détecteur sur le flanc de la montagne, et de laisser les rayons cosmiques produire naturellement des [muons](w:Muon) qui vont traverser la montagne et arriver au détecteur. En mesurant leur direction d'arrivée et connaissant par cartographie l'épaisseur de roche traversée, on peut déterminer la densité de la roche à partir du flux de muons détectés [[3]](#ref-3).
 
 Comme ce flux n'est pas très élevé (10 à 100 muons détectés par jour), il faut plusieurs semaines pour obtenir une image complète, mais un tel système pourrait surveiller en continu certains volcans et y détecter des mouvements internes potentiellement précurseurs d'éruptions. Technique à suivre donc.[](http://www.insu.cnrs.fr/terre-solide/experimenter-modeliser/projet-diaphane-radiographier-les-volcans-avec-les-rayons-cosmiq)
 

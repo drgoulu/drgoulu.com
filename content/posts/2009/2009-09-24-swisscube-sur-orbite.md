@@ -16,7 +16,7 @@ SwissCube est un [CubeSat](http://www.cubesat.org/), une norme définissant des 
 
 ![SwissCube copyright Laurent Gillieron - keystone](images/d3a02cc5c033301b874f1cfe4c468820.jpg "SwissCube copyright Laurent Gillieron - keystone")
 
-Malgré sa petite taille, SwissCube est un satellite scientifique complet, embarquant un système d'observation d'un phénomène peu connu : l'" [airglow](http://en.wikipedia.org/wiki/Airglow)", ou "[lumière du ciel nocturne](http://fr.wikipedia.org/wiki/Lumi%C3%A8re_du_ciel_nocturne)". Il s'agit d'une faible luminescence de la haute atmosphère, assez semblable aux aurores boréales, souvent observé par les astronautes.
+Malgré sa petite taille, SwissCube est un satellite scientifique complet, embarquant un système d'observation d'un phénomène peu connu : l'" [airglow](w:en)", ou "[lumière du ciel nocturne](w:)". Il s'agit d'une faible luminescence de la haute atmosphère, assez semblable aux aurores boréales, souvent observé par les astronautes.
 
 [![anim-airglow](images/a76b12646e9e65a904666234f8752db4.gif "anim-airglow")](images/a76b12646e9e65a904666234f8752db4.gif)l'"airglow" est principalement du à la recombinaison nocturne de l'Oxygène dissocié par le rayonnement solaire.
 

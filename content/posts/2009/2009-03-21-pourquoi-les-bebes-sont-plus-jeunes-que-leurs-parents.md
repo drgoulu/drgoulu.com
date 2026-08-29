@@ -26,5 +26,5 @@ Danchin parle ensuite de son sujet de recherche, les gènes qui contrôlent just
 
 - [Antoine Danchin](http://www.normalesup.org/~adanchin/index.html)
 - [Unité de Génétique des Génomes Bactériens de l'Institut Pasteur de Paris](http://www.pasteur.fr/recherche/unites/REG/accueil.shtml)
-- ["biologie synthétique" sur Wikipédia](http://fr.wikipedia.org/wiki/Biologie_synthetique)
+- ["biologie synthétique" sur Wikipédia](w:Biologie_synthetique)
 - [wiki sur la biologie synthétique](http://www.biologiesynthetique.fr/)

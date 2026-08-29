@@ -16,7 +16,7 @@ Le 13 juin 2013, leur engin a volé plus d'une minute, à atteint plus de 3m d'a
 
 {{< youtube id="syJq10EQkog" width="640" >}}
 
-Comme on le voit, les dimensions de l' [AeroVelo "Atlas"](http://en.wikipedia.org/wiki/AeroVelo_Atlas) sont impressionnantes : occupant un carré de 47m au sol, les 4 rotors font 20.2 m de diamètre chacun. L'ensemble ne pèse que 55 kg grâce à l'utilisation de poutres triangulées en carbone, de pales en carbone+kevlar+mylar et de "chaines de transmission" en vectran \[1\]. Aucun doute : la disponibilité et la maîtrise de tels matériaux sont essentielles dans une telle réalisation.
+Comme on le voit, les dimensions de l' [AeroVelo "Atlas"](w:en:AeroVelo_Atlas) sont impressionnantes : occupant un carré de 47m au sol, les 4 rotors font 20.2 m de diamètre chacun. L'ensemble ne pèse que 55 kg grâce à l'utilisation de poutres triangulées en carbone, de pales en carbone+kevlar+mylar et de "chaines de transmission" en vectran \[1\]. Aucun doute : la disponibilité et la maîtrise de tels matériaux sont essentielles dans une telle réalisation.
 
 Accessoirement, il faut aussi un moteur humain exceptionnel. Le pilote Todd Reichert a fourni une puissance de 1.1 kW au début du vol et arrivait encore à fournir 600 watts à l' atterrissage, tout ça avec 72 kg de muscles, d'os et de cerveau.  Il devait aussi contrôler l'appareil en tirant sur les haubans en vectran afin de déformer la structure pour modifier très légèrement l'orientation des rotors.
 

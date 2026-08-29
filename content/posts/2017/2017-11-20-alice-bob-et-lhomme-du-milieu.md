@@ -13,7 +13,7 @@ coverImage: "mitm.png"
 
 {{< figure src="images/mitm.png" >}}
 
-Dans [un précédent épisode](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/), nous avons vu comment Alice et Bob peuvent empêcher Eve la curieuse d'écouter leurs messages secrets. Mais ils doivent encore se protéger de [Mallory](https://fr.wikipedia.org/wiki/Alice_et_Bob#Adversaires), un puissant adversaire qui, s'il se place entre Alice et Bob, peut effectuer la fameuse [attaque de l'homme du milieu](https://fr.wikipedia.org/wiki/attaque_de_l'homme_du_milieu) :
+Dans [un précédent épisode](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/), nous avons vu comment Alice et Bob peuvent empêcher Eve la curieuse d'écouter leurs messages secrets. Mais ils doivent encore se protéger de [Mallory](w:Alice_et_Bob#Adversaires), un puissant adversaire qui, s'il se place entre Alice et Bob, peut effectuer la fameuse [attaque de l'homme du milieu](w:) :
 
 1. quand Alice envoie à Bob un premier message en clair du type "Bob, donne moi stp ta clé publique que je puisse t'envoyer des messages chiffrés. La mienne est Ea. Bisous Alice", Mallory l'intercepte et envoie : "Bob, donne moi stp ta clé publique que je puisse t'envoyer des messages chiffrés. La mienne est Ema. Bisous Alice". Il a juste remplacé la clé publique d'Alice par une de ses clés publiques à lui.
 2. Bob renvoie "Chère Alice, voici ma clé publique : Eb" en l'encryptant avec ce qu'il croit être la clé publique d'Alice, mais qui est en réalité celle de Mallory ! Celui-ci n'a donc aucune peine à déchiffrer le message, et à envoyer à Alice le message "Chère Alice, voici ma clé publique : Emb", encrypté avec la vraie clé publique d'Alice Ea. Alice n'a aucun moyen de savoir que ce message n'est pas authentique !
@@ -26,13 +26,13 @@ En pratique, Mallory doit contrôler physiquement un élément de l'infrastructu
 
 Beaucoup plus facilement, il peut vous offrir un WiFi gratuit et installer un petit soft de hacker, pardon d' "audit de réseau" qui réalisera des attaques MITM sur toutes les communications de toutes les personnes connectées à son WiFi...
 
-Ou ça peut être un service que l'employeur d'Alice paie, par exemple [ZScaler](https://en.wikipedia.org/wiki/ZScaler). Cette entreprise propose aux entreprises un [proxy web](https://fr.wikipedia.org/wiki/Proxy#Proxy_web)/[SSL/TLS](https://fr.wikipedia.org/wiki/Transport_Layer_Security) permettant de limiter l'accès à internet à leurs employés, en visant en particulier la fuite de données sensibles. Pour ce faire, ZScaler a besoin de décrypter toutes les informations sécurisées entrant et sortant de chez ses clients, ce qu'ils font en réalisant [ouvertement](https://help.zscaler.com/zia/about-ssl-inspection) une "attaque de l'homme du milieu" :
+Ou ça peut être un service que l'employeur d'Alice paie, par exemple [ZScaler](w:en). Cette entreprise propose aux entreprises un [proxy web](w:Proxy#Proxy_web)/[SSL/TLS](w:Transport_Layer_Security) permettant de limiter l'accès à internet à leurs employés, en visant en particulier la fuite de données sensibles. Pour ce faire, ZScaler a besoin de décrypter toutes les informations sécurisées entrant et sortant de chez ses clients, ce qu'ils font en réalisant [ouvertement](https://help.zscaler.com/zia/about-ssl-inspection) une "attaque de l'homme du milieu" :
 
 [![ZScaler SSL inspection](images/ZScaler-slide-51.png)](https://help.zscaler.com/zia/about-ssl-inspection)
 
 ## D'où les certificats ...
 
-Pour débusquer l'infâme Mallory, Alice et Bob auraient du demander à leur ami Nestor de leur fournir des [certificats électroniques](https://fr.wikipedia.org/wiki/certificat_électronique).
+Pour débusquer l'infâme Mallory, Alice et Bob auraient du demander à leur ami Nestor de leur fournir des [certificats électroniques](w:certificat_électronique).
 
 ![](images/Certificat_utilisateur_contenu.png)Ils auraient envoyé à Nestor leur clé publique avec des éléments prouvant leur identité réelle. Nestor aurait encrypté ces informations avec sa clé privée (oui, privée!) à lui, exactement comme Alice et Bob avaient fait pour [créer leurs propres signatures](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/) et envoyé à Alice et Bob à chacun son certificat. Ensuite:
 
@@ -42,10 +42,10 @@ Pour débusquer l'infâme Mallory, Alice et Bob auraient du demander à leur ami
 4. Totalement rassurée, Alice peut alors lui transmettra son invitation confidentielle, chiffrée avec Eb, et contenant éventuellement son certificat Ca à elle pour que Bob soit sur qu'elle est bien l'Alice qu'elle prétend être...
 5. ... et Mallory [ne peut rien faire](https://security.stackexchange.com/a/81873/108108) car pour fabriquer un faux certificat Cmb avec une fausse clé Emb il doit disposer de la clé privée de Nestor.
 
-Nestor doit donc être un [tiers de confiance](https://fr.wikipedia.org/wiki/tiers_de_confiance) en qui Alice et Bob ont une confiance totale:
+Nestor doit donc être un [tiers de confiance](w:) en qui Alice et Bob ont une confiance totale:
 
-1. Mallory ne doit pas pouvoir usurper l'identité de Bob pour obtenir un faux certificat, donc Nestor doit être une [autorité de certification](https://fr.wikipedia.org/wiki/autorité_de_certification) parfaitement sérieuse et fiable
-2. et la (fameuse) clé publique de Nestor doit avoir été communiquée à Alice et Bob de manière parfaitement sûre. Une manière de le faire serait de fournir le certificat de Nestor comme [certificat racine](https://fr.wikipedia.org/wiki/certificat_racine) directement avec les ordinateurs d'Alice et Bob, ou alors que le certificat de Nestor soit lui-même signé par une autorité de certification encore plus sérieuse, et ainsi de suite jusqu'au certificat racine.
+1. Mallory ne doit pas pouvoir usurper l'identité de Bob pour obtenir un faux certificat, donc Nestor doit être une [autorité de certification](w:) parfaitement sérieuse et fiable
+2. et la (fameuse) clé publique de Nestor doit avoir été communiquée à Alice et Bob de manière parfaitement sûre. Une manière de le faire serait de fournir le certificat de Nestor comme [certificat racine](w:) directement avec les ordinateurs d'Alice et Bob, ou alors que le certificat de Nestor soit lui-même signé par une autorité de certification encore plus sérieuse, et ainsi de suite jusqu'au certificat racine.
 
 ## Et voilà enfin le fameux petit cadenas vert ...
 
@@ -57,7 +57,7 @@ Voici pour preuve le certificat utilisé lorsqu'Alice google depuis un poste de 
 
 ![](images/2017-11-15_154952.png)
 
-Caramba ! L'infâme Mallory, le gentil Nestor et ce cher ZScaler ne sont en réalité que les 3 visages de [Big Brother](https://fr.wikipedia.org/wiki/Big_Brother)  ! ZScaler/Mallory a créé un pseudo certificat de google, validé par ZScaler/Nestor qui dispose d'un certificat racine sur les machines mises à disposition du personnel de l'entreprise, et Alice n'y a vu que du feu ! Toutes ses recherches, mais aussi ses mots de passe ainsi que ses e-mails qu'elle croyait confidentiels, rassurée par la présence du petit cadenas vert, tout ça transite **en clair** quelque part "dans le nuage" ...
+Caramba ! L'infâme Mallory, le gentil Nestor et ce cher ZScaler ne sont en réalité que les 3 visages de [Big Brother](w:)  ! ZScaler/Mallory a créé un pseudo certificat de google, validé par ZScaler/Nestor qui dispose d'un certificat racine sur les machines mises à disposition du personnel de l'entreprise, et Alice n'y a vu que du feu ! Toutes ses recherches, mais aussi ses mots de passe ainsi que ses e-mails qu'elle croyait confidentiels, rassurée par la présence du petit cadenas vert, tout ça transite **en clair** quelque part "dans le nuage" ...
 
 ## Le prix du danger
 

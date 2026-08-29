@@ -17,7 +17,7 @@ coverImage: "candle2.png"
 
 Les [conférences du TED](http://www.ted.com/) sont une mine inépuisable de découvertes passionnantes comme la récente présentation de [Dan Pink](http://www.danpink.com/) sur "la surprenante science de la motivation".
 
-Il y démontre les limites du traditionnel système de motivation par "incentives" en partant d'expériences de psychologie expérimentale utilisant une bougie... On y découvre les notions de "[fixité fonctionnelle](http://en.wikipedia.org/wiki/Functional_fixedness)", de motivation intrinsèque et extrinsèque, il y parle de nouveaux systèmes de motivation dans les entreprise, comme les fameux  "20% du temps chez Google", l' "Environnement de Travail Orienté Résultats" (ROWE) et les ["FedEx Days" d'Atlassian](http://www.atlassian.com/about/life.jsp).
+Il y démontre les limites du traditionnel système de motivation par "incentives" en partant d'expériences de psychologie expérimentale utilisant une bougie... On y découvre les notions de "[fixité fonctionnelle](w:en:Functional_fixedness)", de motivation intrinsèque et extrinsèque, il y parle de nouveaux systèmes de motivation dans les entreprise, comme les fameux  "20% du temps chez Google", l' "Environnement de Travail Orienté Résultats" (ROWE) et les ["FedEx Days" d'Atlassian](http://www.atlassian.com/about/life.jsp).
 
 Il termine en expliquant pourquoi la Wikipedia a écrasé l'encyclopédie Encarta de Microsoft, en termes qui me semblent très convaincants. En effet,  je viens justement de passer quelques heures de mon précieux temps à traduire bénévolement cette conférence grâce à [dotSub](http://dotsub.com/), qui permet le sous-titrage de videos en plusieurs langues.
 

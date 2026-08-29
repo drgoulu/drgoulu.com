@@ -14,7 +14,7 @@ Il est pas magnifique ce paillasson ? en entrant, vos visiteurs lisent un messag
 
 [![](images/57c63cf4dd73b602440a631688cde54a.gif)](/wp-content/uploads/HLIC/57c63cf4dd73b602440a631688cde54a.gif)
 
-![](images/Newman_logo.gif)Ces textes qui se lisent dans plusieurs sens s'appellent des [ambigrammes](http://fr.wikipedia.org/wiki/Ambigramme).  Ils sont beaucoup utilisés en plublicité, comme le célèbre logo de "New Man".  Vous pouvez en trouver d'autres:
+![](images/Newman_logo.gif)Ces textes qui se lisent dans plusieurs sens s'appellent des [ambigrammes](w:Ambigramme).  Ils sont beaucoup utilisés en plublicité, comme le célèbre logo de "New Man".  Vous pouvez en trouver d'autres:
 
  
 

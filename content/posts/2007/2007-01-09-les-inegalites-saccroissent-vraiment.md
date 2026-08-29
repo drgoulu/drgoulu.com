@@ -15,7 +15,7 @@ L'opinion générale relayée par les media nous le répète : les inégalités 
 
 Mais s'il y a des inégalités entre revenus facilement mesurables, existe-t-il une mesure de l'inégalité au niveau des pays ou du monde, que l'on puisse comparer année après année pour vérifier que les inégalités se creusent ?
 
-Cette mesure existe, c'est le coefficient (ou indice) de Gini dont la définition est rigoureuse mais un peu mathématique (voir [ici si ça vous intéresse](http://fr.wikipedia.org/wiki/Coefficient_de_Gini)). En bref, c'est une valeur qui vaut entre 0 et 1 (parfois noté en %)
+Cette mesure existe, c'est le coefficient (ou indice) de Gini dont la définition est rigoureuse mais un peu mathématique (voir [ici si ça vous intéresse](w:Coefficient_de_Gini)). En bref, c'est une valeur qui vaut entre 0 et 1 (parfois noté en %)
 
 - 0 dans une société "parfaitement égalitaire" où tout le monde aurait le même revenu
 - 100% si une seule personne encaisse le revenu total de la société, et les autres rien du tout.

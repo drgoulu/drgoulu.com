@@ -16,7 +16,7 @@ tags:
 coverImage: "ed52a82aa703bfe4111dbdf3cb778db8.jpg"
 ---
 
-Un événement me permet de consacrer [enfin](/2009/03/06/pourquoi-comment-combien/) un article complet aux relations complexes entre science, technique (industrielle) et économie : le professeur [Michaël Grätzel](http://fr.wikipedia.org/wiki/Michael_Gr%C3%A4tzel) de l'EPFL vient de remporter le [prix Balzan](http://fr.wikipedia.org/wiki/Prix_Balzan), presque aussi prestigieux que le Nobel, "[pour](http://www.balzan.org) ses nombreuses contributions à la Science des matériaux nouveaux et en particulier pour avoir inventé et développé un nouveau type de cellule solaire photovoltaïque, la [Dye Sensitized Solar Cell (DSSC)](http://en.wikipedia.org/wiki/Dye-sensitized_solar_cell), la cellule à pigments photosensibles, plus connue sous le nom de [cellule de Grätzel](http://fr.wikipedia.org/wiki/Cellule_Gr%C3%A4tzel)". [[1]](#ref-1), [[2]](#ref-2)
+Un événement me permet de consacrer [enfin](/2009/03/06/pourquoi-comment-combien/) un article complet aux relations complexes entre science, technique (industrielle) et économie : le professeur [Michaël Grätzel](w:Michael_Grätzel) de l'EPFL vient de remporter le [prix Balzan](w:), presque aussi prestigieux que le Nobel, "[pour](http://www.balzan.org) ses nombreuses contributions à la Science des matériaux nouveaux et en particulier pour avoir inventé et développé un nouveau type de cellule solaire photovoltaïque, la [Dye Sensitized Solar Cell (DSSC)](w:en:Dye-sensitized_solar_cell), la cellule à pigments photosensibles, plus connue sous le nom de [cellule de Grätzel](w:Cellule_Grätzel)". [[1]](#ref-1), [[2]](#ref-2)
 
 Les premières cellules de Grätzel ont fonctionné au début des années 1990 alors que j'étais étudiant à l'EPFL. Pleins d'optimisme, on les surnommait déjà "great cells". J'ai suivi (de loin) leur aventure, que je considère comme un  exemple de la difficulté à transformer une magnifique avancée scientifique en produit commercial. Comme l'avait si bien dit un prof de marketing:
 
@@ -24,7 +24,7 @@ Les premières cellules de Grätzel ont fonctionné au début des années 1990 a
 
 ### Pourquoi
 
-D'un point de vue scientifique, l'invention de Grätzel est merveilleuse : un colorant qui se comporte comme une  sorte de [chlorophylle](http://fr.wikipedia.org/wiki/Chlorophylle) artificielle,  convertissant le rayonnement solaire absorbé en électricité par un procédé très différent des [cellules photovoltaïques](http://fr.wikipedia.org/wiki/Cellule_photovoltaïque) habituelles en silicium.
+D'un point de vue scientifique, l'invention de Grätzel est merveilleuse : un colorant qui se comporte comme une  sorte de [chlorophylle](w:) artificielle,  convertissant le rayonnement solaire absorbé en électricité par un procédé très différent des [cellules photovoltaïques](w:Cellule_photovoltaïque) habituelles en silicium.
 
 Les DSSC sont faites d'un mélange colorant/solvant liquide, emprisonné entre deux électrodes transparentes, ce qui permet d'en faire des panneaux transparents de diverses couleurs suivant le colorant choisi:
 

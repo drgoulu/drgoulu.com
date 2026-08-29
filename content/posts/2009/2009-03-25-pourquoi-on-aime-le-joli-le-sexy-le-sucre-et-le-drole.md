@@ -17,7 +17,7 @@ Regardez ce petit chef d'oeuvre de vulgarisation du darwinisme (en anglais sous 
 
 {{< youtube id="TzN-uIVkfjg" width="640" >}}
 
-[Daniel Dennett](https://fr.wikipedia.org/wiki/Daniel_Dennett) commence sa présentation en présentant "l'étrange inversion de raisonnement de Darwin" à partir d'une citation d'un critique de l'époque :
+[Daniel Dennett](w:) commence sa présentation en présentant "l'étrange inversion de raisonnement de Darwin" à partir d'une citation d'un critique de l'époque :
 
 > “Dans la théorie qui nous est soumise, l'Ignorance Absolue est l'artificier; ainsi nous pouvons énoncer comme principe fondamental de tout le système que, **pour faire une machine parfaite et magnifique, il n'est pas nécessaire de savoir comment la réaliser**. On trouve dans cette proposition, après examen attentif, l'expression sous forme condensée de la Théorie qui exprime en peu de mots toute la pensée de Mr. Darwin; lequel, **par une étrange inversion du raisonnement**, semble penser que l'Ignorance Absolue est pleinement qualifiée pour prendre la place de la Sagesse Absolue dans toutes les réussites du talent de création.” (Robert Beverley MacKenzie, 1868, traduit par Dr. Goulu)
 

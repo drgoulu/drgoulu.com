@@ -11,7 +11,7 @@ tags:
 coverImage: "537638bde09a751042364a3dcdd21dda.jpg"
 ---
 
-[La sonde DAWN en route pour la ceinture d'astéroïde](http://www.techno-science.net/?onglet=news&news=4567) a été lancée par une grosse fusée exerçant une poussée de plusieurs tonnes pendant quelques minutes. Elle va continuer sa très longue route vers Vesta et Cérès grâce à un [moteur ionique](https://fr.wikipedia.org/wiki/moteur_ionique) qui exercera pendant des années une poussée de quelques grammes seulement.
+[La sonde DAWN en route pour la ceinture d'astéroïde](http://www.techno-science.net/?onglet=news&news=4567) a été lancée par une grosse fusée exerçant une poussée de plusieurs tonnes pendant quelques minutes. Elle va continuer sa très longue route vers Vesta et Cérès grâce à un [moteur ionique](w:) qui exercera pendant des années une poussée de quelques grammes seulement.
 
 [Cette intéressante animation](http://www.esa.int/images/IonVsChem.swf) réalisée par l'ESA (Agence spatial européenne) compare deux sondes de même masse et avec la même quantité de carburant, l'une propulsée par fusée et l'autre par un moteur ionique :
 

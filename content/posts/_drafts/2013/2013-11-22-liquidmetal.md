@@ -10,7 +10,7 @@ draft: true
 
 Plus d'infos :
 
-- [https://en.wikipedia.org/wiki/Liquidmetal](https://en.wikipedia.org/wiki/Liquidmetal "https://en.wikipedia.org/wiki/Liquidmetal") [https://fr.wikipedia.org/wiki/Alliage\_m%C3%A9tallique\_amorphe](https://fr.wikipedia.org/wiki/Alliage_m%C3%A9tallique_amorphe)
+- [https://en.wikipedia.org/wiki/Liquidmetal](w:en:Liquidmetal "https://en.wikipedia.org/wiki/Liquidmetal") [https://fr.wikipedia.org/wiki/Alliage\_m%C3%A9tallique\_amorphe](w:Alliage_métallique_amorphe)
 - [http://www.omegawatches.com/fr/spirit/watchmaking/liquidmetal](http://www.omegawatches.com/fr/spirit/watchmaking/liquidmetal "http://www.omegawatches.com/fr/spirit/watchmaking/liquidmetal")
 - [http://www.01net.com/editorial/600287/un-brevet-laisse-entendre-qu-apple-pourra-produire-des-idevices-plus-resistants/](http://www.01net.com/editorial/600287/un-brevet-laisse-entendre-qu-apple-pourra-produire-des-idevices-plus-resistants/ "http://www.01net.com/editorial/600287/un-brevet-laisse-entendre-qu-apple-pourra-produire-des-idevices-plus-resistants/")
 - [http://www.patentlyapple.com/patently-apple/2013/11/apple-seeks-patents-for-five-new-liquidmetal-inventions-covering-3d-printing-and-more.html](http://www.patentlyapple.com/patently-apple/2013/11/apple-seeks-patents-for-five-new-liquidmetal-inventions-covering-3d-printing-and-more.html)

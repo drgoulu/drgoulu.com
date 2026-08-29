@@ -24,7 +24,7 @@ Dans [BGraphe](http://neamar.fr/Res/BGraphe/), il faut déplacer les noeuds de f
 
 {{< figure src="images/8ac3dd74a4432546fc1330bcb2b94b97.png" alt="CGraphe" caption="CGraphe" link="http://neamar.fr/Res/CGraphe/" align="aligncenter" width="300" >}}
 
-[CGraphe](http://neamar.fr/Res/CGraphe/) est une implantation du "[Shannon Switching Game](http://en.wikipedia.org/wiki/Shannon_switching_game)" qui se joue à 2:
+[CGraphe](http://neamar.fr/Res/CGraphe/) est une implantation du "[Shannon Switching Game](w:en)" qui se joue à 2:
 
 - le "Paintre" doit relier les deux noeuds marqués en rouge en allumant une arête à chaque tour
 - le "Couhpeur" doit l'en empêcher en supprimant carrément une arête à chaque tour.

@@ -10,9 +10,9 @@ coverImage: "logo.png"
 
 {{< figure src="images/logo.png" link="http://isc.carma.newcastle.edu.au/" >}}
 
-J'utilise parfois l'[Inverse Symbolic Calculator](https://en.wikipedia.org/wiki/Inverse_Symbolic_Calculator) [disponible ici](http://isc.carma.newcastle.edu.au/) et à chaque fois il me sidère. Comment fait-il pour retrouver l'expression mathématique correspondant à presque n'importe quelle valeur décimale, par exemple que ma date de naissance 1963.1225 est presque égale à $1000.\sum\limits\limits_{n=1}^{\infty}{\frac{1}{3^n.(3n^2+18n-1)}} $ ???
+J'utilise parfois l'[Inverse Symbolic Calculator](w:en) [disponible ici](http://isc.carma.newcastle.edu.au/) et à chaque fois il me sidère. Comment fait-il pour retrouver l'expression mathématique correspondant à presque n'importe quelle valeur décimale, par exemple que ma date de naissance 1963.1225 est presque égale à $1000.\sum\limits\limits_{n=1}^{\infty}{\frac{1}{3^n.(3n^2+18n-1)}} $ ???
 
-Ce n'est qu'en consultant [le  code source](http://plouffe.fr/ipgz/PlouffeInverter2017.txt) [Maple](https://fr.wikipedia.org/wiki/Maple)  de l'auteur original, [Simon Plouffe](https://fr.wikipedia.org/wiki/Simon_Plouffe), que j'ai réalisé que ce problème est proche de casse-têtes déjà abordés sur ce blog:
+Ce n'est qu'en consultant [le  code source](http://plouffe.fr/ipgz/PlouffeInverter2017.txt) [Maple](w:)  de l'auteur original, [Simon Plouffe](w:), que j'ai réalisé que ce problème est proche de casse-têtes déjà abordés sur ce blog:
 
 - [Comment obtenir 100 avec 1,2,3,4,5,6,7,8,9 dans l'ordre](/2014/12/14/comment-obtenir-100-avec-123456789-dans-lordre/)
 - Le [cadran des trois neufs](/2014/06/03/le-cadran-des-trois-neufs/) généralisé, consistant à écrire les entiers de 1 à 12 avec 3 chiffres identiques
@@ -20,8 +20,8 @@ Ce n'est qu'en consultant [le  code source](http://plouffe.fr/ipgz/PlouffeInve
 
 et d'autres comme :
 
-- [Les quatre quatre](https://fr.wikipedia.org/wiki/Les_quatre_quatre) consistant à représenter tous les entiers possibles en utilisant 4 fois le chiffre 4
-- et surtout les [nombre de Friedman](https://fr.wikipedia.org/wiki/nombre_de_Friedman) ([A036057](https://oeis.org/A036057)), qui sont ceux que l'on peut [composer à partir de leurs chiffres](https://oeis.org/A036057/a036057.txt), parfois même [dans l'ordre](https://oeis.org/A080035/a080035.txt) ([A080035](https://oeis.org/A080035))
+- [Les quatre quatre](w:) consistant à représenter tous les entiers possibles en utilisant 4 fois le chiffre 4
+- et surtout les [nombre de Friedman](w:) ([A036057](https://oeis.org/A036057)), qui sont ceux que l'on peut [composer à partir de leurs chiffres](https://oeis.org/A036057/a036057.txt), parfois même [dans l'ordre](https://oeis.org/A080035/a080035.txt) ([A080035](https://oeis.org/A080035))
 
 ## Du casse-tête à la génération de nombres
 

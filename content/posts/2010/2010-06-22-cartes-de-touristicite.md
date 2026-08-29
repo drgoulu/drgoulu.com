@@ -19,7 +19,7 @@ C'est l'été! Bientôt vous irez vous reposer dans un petit coin tranquille et 
 
 {{< figure src="images/66c4da1350e8b51f59951038ec838416.jpg" alt="Carte de touristicité. Cliquer pour la consulter dans Google Maps" caption="Carte de touristicité. Cliquer pour la consulter dans Google Maps" link="http://maps.google.com/maps/mapplets?moduleurl=http://www.bluemoon.ee/~ahti/touristiness-map/touristiness-map.xml" align="aligncenter" width="400" >}}
 
-Les villes ayant tendance à être plus photographiées que les déserts, Ahti a eu l'idée de diviser le nombre de photos prises dans une région donnée par la population locale pour mettre mieux en évidence les zones intéressantes, mais très peu fréquentées. Sur sa "carte des coins perdus" on devine par exemple la "[Gunbarrel Highway](http://en.wikipedia.org/wiki/Gunbarrel_Highway)" , une route de 1400 km à travers le désert australien, fréquentée par une dizaine de personnes par jour ...
+Les villes ayant tendance à être plus photographiées que les déserts, Ahti a eu l'idée de diviser le nombre de photos prises dans une région donnée par la population locale pour mettre mieux en évidence les zones intéressantes, mais très peu fréquentées. Sur sa "carte des coins perdus" on devine par exemple la "[Gunbarrel Highway](w:en)" , une route de 1400 km à travers le désert australien, fréquentée par une dizaine de personnes par jour ...
 
 {{< figure src="images/fb3ed9b1fdcfca4ae5325d7d1909726b.png" alt="Australie" caption="Carte des coins perdus. Cliquer pour la consulter dans Google Maps" link="http://maps.google.com/maps/mapplets?moduleurl=http://www.bluemoon.ee/~ahti/touristiness-map/interesting-remote-places-map.xml" align="aligncenter" width="422" >}}
 

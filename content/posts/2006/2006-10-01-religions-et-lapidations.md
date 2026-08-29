@@ -42,4 +42,4 @@ Hani Ramadan est trop intelligent pour faire partie de cette catégorie, mais s
 
 1. <span id="ref-1"></span>["La charia incomprise", Hani Ramadan, Le Monde 10 septembre 2002](http://www.droitshumains.org/dial_rel/deb_lemde1.htm)
 2. <span id="ref-2"></span>["Adultère et lapidation - Ce que disent les textes !", interview avec Mahmoud Azab, 14 janvier 2004, par Arthur Nourel](http://www.oulala.net/Portail/spip.php?article1128)
-3. <span id="ref-3"></span>["Stoning" on Wikipedia](http://en.wikipedia.org/wiki/Stoning)
+3. <span id="ref-3"></span>["Stoning" on Wikipedia](w:en:Stoning)

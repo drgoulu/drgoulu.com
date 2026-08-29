@@ -14,21 +14,21 @@ coverImage: "0408116c8f483e02475f15c658313033.gif"
 
 {{< figure src="images/0408116c8f483e02475f15c658313033.gif" alt="Réseaux cristallins du carbone pyrolytique (a) et du graphite (b)" caption="Réseaux cristallins du carbone pyrolytique (a) et du graphite (b)" link="http://www.onxlti.com/product-divisions/contract-manufacturing-products/on-x-pyrolytic-carbon/" width="300" >}}
 
-Découvert l'existence d'une forme de carbone méconnue : le [carbone pyrolytique](https://fr.wikipedia.org/wiki/carbone_pyrolytique). C'est un empilement de couches de [graphène](https://fr.wikipedia.org/wiki/graphène) moins régulier que dans le [graphite](https://fr.wikipedia.org/wiki/graphite) \*.
+Découvert l'existence d'une forme de carbone méconnue : le [carbone pyrolytique](w:). C'est un empilement de couches de [graphène](w:) moins régulier que dans le [graphite](w:) \*.
 
 Cependant le graphite n'est formé que de minuscules cristaux comme ceux qui partent en poudre au bout de votre mine de crayon, alors qu'on est capable de produire des plaques de carbone pyrolytique de quelques centimètres de côté.
 
 Les propriétés de ce matériau sont vraiment étonnantes.
 
-Commençons par la plus simple : sa [conductivité thermique](https://fr.wikipedia.org/wiki/conductivité_thermique) est parmi les plus élevées qui soit, du moins dans le plan de [clivage](https://fr.wikipedia.org/wiki/clivage) défini par les couches de graphène. Et comme en plus le graphite résiste jusqu'à 3652°C, ça en fait un excellent matériau pour diffuser la chaleur, que ce soit dans des circuits électroniques ou des tuyères de missiles par exemple.
+Commençons par la plus simple : sa [conductivité thermique](w:) est parmi les plus élevées qui soit, du moins dans le plan de [clivage](w:) défini par les couches de graphène. Et comme en plus le graphite résiste jusqu'à 3652°C, ça en fait un excellent matériau pour diffuser la chaleur, que ce soit dans des circuits électroniques ou des tuyères de missiles par exemple.
 
 {{< figure src="images/Diamagnetic_graphite_levitation.jpg" alt="Carbone pyrolytique en lévitation sur des aimants permanents" caption="Carbone pyrolytique en lévitation sur des aimants permanents" link="https://fr.wikipedia.org/wiki/L%C3%A9vitation_magn%C3%A9tique" align="alignleft" width="300" >}}
 
-Ensuite, il est [diamagnétique](https://fr.wikipedia.org/wiki/diamagnétisme) : exposé à un champ magnétique, il en génère un opposé. C'est assez courant à basse température, mais le carbone pyrolytique est le matériau le plus fortement diamagnétique à température ambiante.
+Ensuite, il est [diamagnétique](w:diamagnétisme) : exposé à un champ magnétique, il en génère un opposé. C'est assez courant à basse température, mais le carbone pyrolytique est le matériau le plus fortement diamagnétique à température ambiante.
 
-En fait il l'est tellement qu'il effectue une [lévitation magnétique](https://fr.wikipedia.org/wiki/lévitation_magnétique) stable lorsqu'il est déposé sur un lit d'aimants permanents assez puissants.
+En fait il l'est tellement qu'il effectue une [lévitation magnétique](w:) stable lorsqu'il est déposé sur un lit d'aimants permanents assez puissants.
 
-Mais il y a plus fort encore : la lumière modifie la [susceptibilité magnétique](https://fr.wikipedia.org/wiki/susceptibilité_magnétique) du carbone pyrolytique. Dit comme ça, ça n'en jette pas trop, mais combiné au diamagnétisme, ce phénomène crée une force dans le plan de clivage en direction du gradient d'intensité lumineuse.
+Mais il y a plus fort encore : la lumière modifie la [susceptibilité magnétique](w:) du carbone pyrolytique. Dit comme ça, ça n'en jette pas trop, mais combiné au diamagnétisme, ce phénomène crée une force dans le plan de clivage en direction du gradient d'intensité lumineuse.
 
 En pratique, un morceau de carbone pyrolytique en lévitation magnétique glisse en direction d'un spot lumineux [[1]](#ref-1), [[2]](#ref-2) :
 

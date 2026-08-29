@@ -18,9 +18,9 @@ draft: false
 
 Il devient de plus en plus difficile de choisir un carrelage original pour sa salle de bains.
 
-Depuis le XVème siècle, 17 types de [pavages](https://fr.wikipedia.org/wiki/pavages) réguliers différents sont utilisés dans les décorations de l'[Alhambra](https://fr.wikipedia.org/wiki/Alhambra_(Grenade)). En 1891, le mathématicien russe Evgraf Fedorov démontre que le nombre de pavages réguliers distincts  vaut ... 17 [[1]](#ref-1).  Et ce n'est qu'entre 1968 et 1984 qu'on parvient à classifier toutes les formes de pavés possibles en 19 catégories [[2]](#ref-2). Depuis, les carreleurs ne peuvent se distinguer que par des motifs et des couleurs, plus par la géométrie.
+Depuis le XVème siècle, 17 types de [pavages](w:) réguliers différents sont utilisés dans les décorations de l'[Alhambra](w:Alhambra_(Grenade)). En 1891, le mathématicien russe Evgraf Fedorov démontre que le nombre de pavages réguliers distincts  vaut ... 17 [[1]](#ref-1).  Et ce n'est qu'entre 1968 et 1984 qu'on parvient à classifier toutes les formes de pavés possibles en 19 catégories [[2]](#ref-2). Depuis, les carreleurs ne peuvent se distinguer que par des motifs et des couleurs, plus par la géométrie.
 
-En 1974, le [pavage de Penrose](https://fr.wikipedia.org/wiki/pavage_de_Penrose) crée un choc : il est possible de recouvrir le plan avec des pavés de deux formes différentes arrangés selon des règles rigoureuses, mais ne générant pas de motif périodique. En 1994, Radin et Conway en proposent un autre, le "[Pinwheel tiling](https://en.wikipedia.org/wiki/Pinwheel_tiling)". Voilà pour le XXème siècle.
+En 1974, le [pavage de Penrose](w:) crée un choc : il est possible de recouvrir le plan avec des pavés de deux formes différentes arrangés selon des règles rigoureuses, mais ne générant pas de motif périodique. En 1994, Radin et Conway en proposent un autre, le "[Pinwheel tiling](w:en:Pinwheel_tiling)". Voilà pour le XXème siècle.
 
 En 2011, c'est John Shier, un "artiste algorithmique" qui vient d'ouvrir tout grand la porte à une infinité de nouveaux pavages. Sa méthode permettent de couvrir le plan avec des pavés de presque n'importe quelles formes, mais de surface décroissantes [[3]](#ref-3), [[4]](#ref-4). Le principe semble tout simple : on place le plus grand pavé au hasard, puis le suivant en taille au hasard dans une surface libre et ainsi de suite.
 
@@ -30,7 +30,7 @@ Le problème est que si on réduit la taille des pavés trop vite on ne recouvre
 
  $A_{total}=A_{0}\sum_{i=0}^{\infty}i^{-c}$
 
-On reconnait en passant la [fonction zêta de Riemann](https://fr.wikipedia.org/wiki/fonction_zêta_de_Riemann), qui converge pour c>1. Grâce à cette formule, une fois choisi un c, la formule permet de calculer la surface A0 qui garantit qu'il ne restera plus un seul espace libre après avoir placé une infinité de pavés. En pratique on obtient d'excellent remplissages avec quelques milliers de pavés, un peu de patience et un bon programme. Paul Bourke décrit tout ceci en détail sur une page [[5]](#ref-5) agrémentée de magnifiques exemples:
+On reconnait en passant la [fonction zêta de Riemann](w:), qui converge pour c>1. Grâce à cette formule, une fois choisi un c, la formule permet de calculer la surface A0 qui garantit qu'il ne restera plus un seul espace libre après avoir placé une infinité de pavés. En pratique on obtient d'excellent remplissages avec quelques milliers de pavés, un peu de patience et un bon programme. Paul Bourke décrit tout ceci en détail sur une page [[5]](#ref-5) agrémentée de magnifiques exemples:
 
 [![](images/506a171f9ee4761935afccfeef05acd9.jpg)](http://paulbourke.net/texture_colour/randomtile/)
 

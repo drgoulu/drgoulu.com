@@ -17,7 +17,7 @@ coverImage: "1eb17d17e585d41b1611c3e925e355de.jpg"
 
 En maths "pures", un nombre est "pur" aussi. Ce sont les marchands et les physiciens qui ont inventé les unités pour des besoins d'application : 3 pommes ne sont pas égales à 3 vaches, et 3 kilos pas égaux à 3 mètres
 
-La somme 562+2150+1951=4663 figurant sur la panneau de [New Cuyama](https://en.wikipedia.org/wiki/New_Cuyama,_California) ci-contre est donc parfaitement exacte mathématiquement, mais _semble_ n'avoir aucun sens car on y additionne des \[âme\]s, des \[pied\]s et des \[année\]s.
+La somme 562+2150+1951=4663 figurant sur la panneau de [New Cuyama](w:en:New_Cuyama,_California) ci-contre est donc parfaitement exacte mathématiquement, mais _semble_ n'avoir aucun sens car on y additionne des \[âme\]s, des \[pied\]s et des \[année\]s.
 
 "Semble" car en fait le panneau peut simplement avoir été trop petit pour y ajouter quelques "facteurs de conversion" bien pensés comme:
 
@@ -30,7 +30,7 @@ Tiré par les cheveux ? Pourtant ceci se fait couramment, entre autres chaque fo
 
 ### L'indice de développement humain
 
-Un exemple simple est l'[indice de développement humain](https://fr.wikipedia.org/wiki/indice_de_développement_humain), qui fait la moyenne de 3 ou 4 données (espérance de vie, taux d'alphabétisation et de scolarisation, PIB/habitant). Mais contrairement à New Cuyama, les valeurs des quelques facteurs de conversion utilisés dans la formule de l'IDH ne valent pas 1, mais des valeurs précises comme 2.60206 \[log $\]. Il faut dire qu'en plus des facteurs, l'IDH introduit des "non-linéarités" : ce n'est en réalité pas le PIB/habitant qui est considéré, mais son logarithme, donc le nombre de zéros du revenu plutôt que le revenu lui-même...
+Un exemple simple est l'[indice de développement humain](w:), qui fait la moyenne de 3 ou 4 données (espérance de vie, taux d'alphabétisation et de scolarisation, PIB/habitant). Mais contrairement à New Cuyama, les valeurs des quelques facteurs de conversion utilisés dans la formule de l'IDH ne valent pas 1, mais des valeurs précises comme 2.60206 \[log $\]. Il faut dire qu'en plus des facteurs, l'IDH introduit des "non-linéarités" : ce n'est en réalité pas le PIB/habitant qui est considéré, mais son logarithme, donc le nombre de zéros du revenu plutôt que le revenu lui-même...
 
 En fin de compte, l'IDH est un nombre compris entre 0 et 1,  avec la Norvège (0.969) à un extrême et la Sierra Leone (0.329) à l'autre. En modifiant un peu la valeur d'un facteur, il est peu probable que le classement soit bouleversé.
 
@@ -59,6 +59,6 @@ En effet, s'il y a plus de critères utilisés que de pays à classer, il est po
 1. collectez N données numériques sur M pays dans un tableau de N colonnes et M lignes, avec N>M. Vous obtenez une "matrice m x n" que nous appellerons A
 2. notre but est de déterminer les valeurs des M facteurs de conversion qui vont générer le classement souhaité à partir des données A. Mathématiquement c'est un vecteur colonne que nous appellerons X, car c'est l'inconnue
 3. Maintenant, remplissons une colonne de plus contenant à chaque ligne la valeur souhaitée du classement du pays correspondant dans la matrice A . Si vous voulez modifier le classement de l'IMD pour que la France soit No 1 de la compétitivité mondiale, donnez lui la valeur 100, puis 98.146 pour Hong-Kong et ainsi de suite jusqu' à 39.060 pour le Venezuéla, en n'oubliant pas de mettre 68.071 aux USA pour les mettre à la 25 ème place. Appelons ce "vecteur colonne" B
-4. On se retrouve avec un [système d'équations linéaires](https://fr.wikipedia.org/wiki/système_d'équations_linéaires) de M équations à N inconnues que l'on écrit sous forme matricielle A.X=B, et comme il y a plus d'inconnues que d'équations et qu'il n'y a pas trop de zéros dans les données de la matrice A ni de lignes identiques car les pays sont tous différents, il est toujours possible de le résoudre\*, donc de trouver les facteurs X qui fabriquent le classement voulu !
+4. On se retrouve avec un [système d'équations linéaires](w:) de M équations à N inconnues que l'on écrit sous forme matricielle A.X=B, et comme il y a plus d'inconnues que d'équations et qu'il n'y a pas trop de zéros dans les données de la matrice A ni de lignes identiques car les pays sont tous différents, il est toujours possible de le résoudre\*, donc de trouver les facteurs X qui fabriquent le classement voulu !
 
 Note\* : la résolution est un peu plus compliquée si les facteurs ne doivent pas être négatifs, mais je pense qu'avec 5x plus de critères que de pays on doit pouvoir s'en sortir quand même.

@@ -15,7 +15,7 @@ Le récent rapport "[The Diverse and Exploding Digital Universe](http://www.emc.
 
 Les principales conclusion du rapport sont :
 
-1. la quantité totale d'informations stockées sous forme digitale en 2007 était de 2.25 x 10²¹ bits (soit 281 milliards de gigabytes, ou 281 [exabytes](http://en.wikipedia.org/wiki/Exabyte)), soit 45 gigabytes par être humain ! ![](images/d9b4c1d75692c5a848571b042faf4c64.jpg)
+1. la quantité totale d'informations stockées sous forme digitale en 2007 était de 2.25 x 10²¹ bits (soit 281 milliards de gigabytes, ou 281 [exabytes](w:en:Exabyte)), soit 45 gigabytes par être humain ! ![](images/d9b4c1d75692c5a848571b042faf4c64.jpg)
 2. cette quantité va décupler d'ici 2011, suivant une croissance de 60% / an environ. Cette croissance est principalement due à la TV haute définition et aux caméras de surveillance, mais aussi à l'accès à internet dans les pays émergents, et aux réseaux sociaux.
 3. depuis 2007, la production des systèmes de stockage n'arrive plus à suivre la croissance de "l'univers digital".
 4. en 2011, l'information sera répartie sur environ 20 millions de milliards de supports (!) allants du gros disque dur à la puce RFID en passant par la mémoire des téléphones portables.

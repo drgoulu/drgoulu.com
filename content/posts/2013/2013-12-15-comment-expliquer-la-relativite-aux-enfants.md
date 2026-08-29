@@ -42,7 +42,7 @@ Ensuite, la classe pourrait jouer un peu avec "[a Slower Speed of Light](http://
 
 {{< youtube id="uu7jA8EHi_0" width="640" >}}
 
-Puis tenter d'expliquer pourquoi les couleurs se modifient, faire le parallèle avec l'[effet Doppler](https://fr.wikipedia.org/wiki/Effet_Doppler) sonore bien perceptible au passage d'une ambulance pour introduire l'idée que la lumière est une onde. Commencer à se demander ce qui se passerait si le coureur de 100m pouvait dépasser la vitesse de la lumière. Que verraient les caméras ? Que verrait-il, lui ? Que pourrait-il faire une fois à l'arrivée alors que les rayons lumineux émis pendant sa course ne seraient pas encore arrivés ?
+Puis tenter d'expliquer pourquoi les couleurs se modifient, faire le parallèle avec l'[effet Doppler](w:) sonore bien perceptible au passage d'une ambulance pour introduire l'idée que la lumière est une onde. Commencer à se demander ce qui se passerait si le coureur de 100m pouvait dépasser la vitesse de la lumière. Que verraient les caméras ? Que verrait-il, lui ? Que pourrait-il faire une fois à l'arrivée alors que les rayons lumineux émis pendant sa course ne seraient pas encore arrivés ?
 
 ### 2\. Chérie, j'ai rétréci la formule
 
@@ -50,7 +50,7 @@ Le paragraphe suivant est tiré d'un ouvrage fondamental de la physique:
 
 > Les changements qui arrivent dans le mouvement sont proportionnels à la force motrice, et le sont dans la ligne droite dans laquelle cette force a été imprimée. Si une force produit un mouvement quelconque, une force double de cette première produira un mouvement double, et une force triple un mouvement triple, soit qu'elle ait été imprimée en un seul coup, soit qu'elle l'ait été peu à peu et successivement, et que ce mouvement, étant toujours déterminé du même côté que la force génératrice, sera ajouté au mouvement que le corps est supposé avoir déjà, s'il conspire avec lui; ou en sera retranché s'il lui est contraire, ou bien sera retranché ou ajouté en partie, s'il lui est oblique; et de ces deux mouvements il s'en formera un seul, dont la détermination sera composée des deux premières.
 
-Compris ? Pourtant c'est ainsi que Newton lui-même énonce sa [deuxième loi du mouvement](https://fr.wikipedia.org/wiki/Lois_du_mouvement_de_Newton#Deuxième_loi_de_Newton_ou_principe_fondamental_de_la_dynamique_de_translation) dans ses [Principia Mathematica](https://fr.wikipedia.org/wiki/Philosophiae_Naturalis_Principia_Mathematica) en 1687 (la traduction française date de 1756 [[3]](#ref-3) ). De nos jours, on résume ceci par F = m.a
+Compris ? Pourtant c'est ainsi que Newton lui-même énonce sa [deuxième loi du mouvement](w:Lois_du_mouvement_de_Newton#Deuxième_loi_de_Newton_ou_principe_fondamental_de_la_dynamique_de_translation) dans ses [Principia Mathematica](w:Philosophiae_Naturalis_Principia_Mathematica) en 1687 (la traduction française date de 1756 [[3]](#ref-3) ). De nos jours, on résume ceci par F = m.a
 
 [![Einstein cartoon](images/02845bf1f6f246aac9ffe33aa4576c6e.gif)](/wp-content/uploads/2013/12/02845bf1f6f246aac9ffe33aa4576c6e.gif)Même le cancre interrogé sur "efégalema" ne parviendra pas à emberlificoter ses explications autant que le grand Newton, pour autant qu'elles soient justes. En 3 siècles, les 803 caractères de la formulation newtonienne destinée à l'élite intellectuelle de son temps ont été réduits à 5 symboles assénés à tous les ados du monde ou presque.
 

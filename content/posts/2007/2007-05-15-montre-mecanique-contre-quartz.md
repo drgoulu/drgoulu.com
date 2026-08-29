@@ -16,7 +16,7 @@ Imaginez la [crise de l'horlogerie suisse](http://www.ideesuisse.ch/247.0.html?&
 
 Comment l'horlogerie suisse est-elle parvenue, non seulement à survivre, mais à se développer d'une façon spectaculaire en vendant des produits basés sur une technologie dépassée ?
 
-En pensant différemment. L'homme qui a ainsi sauvé l'horlogerie suisse s'appelle [Nicolas Hayek](http://fr.wikipedia.org/wiki/Nicolas_Hayek). Il a même pensé différemment au moins 3 fois:
+En pensant différemment. L'homme qui a ainsi sauvé l'horlogerie suisse s'appelle [Nicolas Hayek](w:). Il a même pensé différemment au moins 3 fois:
 
 1. en lançant [l'aventure Swatch](http://www.worldtempus.com/fr/encyclopedie/index-encyclopedique/histoire-de-lhorlogerie/le-phenomene-swatch/lextraordinaire-aventure-swatch/)
 2. en engageant [Cindy Crawford](http://www.omegawatches.com/ambassadors/cindy-crawford)

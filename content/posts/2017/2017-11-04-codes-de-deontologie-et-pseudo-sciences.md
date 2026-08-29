@@ -12,13 +12,13 @@ tags:
 coverImage: "acupuncture_header.png"
 ---
 
-L’exercice de certaines professions est cadré par des associations professionnelles dotées de [codes de déontologie](https://fr.wikipedia.org/wiki/code_de_déontologie), et c’est très bien ainsi.  Que ces codes comprennent des articles demandant le respect et la collaboration avec les autres professions organisées de manière similaire, par exemple les médecins envers les pharmaciens semble logique aussi. Mais un gros problème apparaît lorsque les “professionnels” des [pseudo-sciences](https://fr.wikipedia.org/wiki/pseudo-science) comme les [médecines non conventionnelles](https://fr.wikipedia.org/wiki/médecine_non_conventionnelle) parviennent à obtenir un statut identique.
+L’exercice de certaines professions est cadré par des associations professionnelles dotées de [codes de déontologie](w:code_de_déontologie), et c’est très bien ainsi.  Que ces codes comprennent des articles demandant le respect et la collaboration avec les autres professions organisées de manière similaire, par exemple les médecins envers les pharmaciens semble logique aussi. Mais un gros problème apparaît lorsque les “professionnels” des [pseudo-sciences](w:pseudo-science) comme les [médecines non conventionnelles](w:médecine_non_conventionnelle) parviennent à obtenir un statut identique.
 
 ## Le Pharmachien et les acupuncteurs
 
 C’est ce que montre la mésaventure d’Olivier Bernard, “[Le Pharmachien](http://lepharmachien.com/) impertinent qui simplifie la science et anéantit la pseudoscience”.
 
-Le 27 juillet 2014, il a publié [une excellente BD](https://web.archive.org/web/20150429020402/http://lepharmachien.com/acupuncture) sur l'[acupuncture](https://fr.wikipedia.org/wiki/acupuncture), qui a [disparu de son site](http://lepharmachien.com/acupuncture/) en mai 2015, suite à une demande d’enquête en déontologie déposée par des acupuncteurs québécois auprès de l'[Ordre des pharmaciens du Québec](https://fr.wikipedia.org/wiki/Ordre_des_pharmaciens_du_Québec). Ils estimaient qu’en publiant cette BD, Olivier Bernard violait l’[article 86 du code de déontologie des pharmaciens](http://legisquebec.gouv.qc.ca/fr/ShowDoc/cr/P-10,%20r.%207/#se:86) qui stipule que:
+Le 27 juillet 2014, il a publié [une excellente BD](https://web.archive.org/web/20150429020402/http://lepharmachien.com/acupuncture) sur l'[acupuncture](w:), qui a [disparu de son site](http://lepharmachien.com/acupuncture/) en mai 2015, suite à une demande d’enquête en déontologie déposée par des acupuncteurs québécois auprès de l'[Ordre des pharmaciens du Québec](w:). Ils estimaient qu’en publiant cette BD, Olivier Bernard violait l’[article 86 du code de déontologie des pharmaciens](http://legisquebec.gouv.qc.ca/fr/ShowDoc/cr/P-10,%20r.%207/#se:86) qui stipule que:
 
 > Le pharmacien doit, dans ses rapports avec les autres pharmaciens, les étudiants, les stagiaires **et les autres professionnels**, se comporter avec dignité, courtoisie, respect et intégrité; il doit notamment:
 > 
@@ -83,7 +83,7 @@ A l’inverse, le code de déontologie des acupuncteurs du Québec ne fait aucun
 
 Les ordres professionnels ne devraient pas imposer le respect généralisé envers d’autres professions, ou alors les nommer explicitement pour éviter des conflits lors de la création de nouveaux ordres. En particulier l’article 86 du code de déontologie des pharmaciens du Québec restreint inutilement la liberté d’expression, voire le devoir des pharmaciens de travailler et s’exprimer en fonction des données de la science.
 
-La pression des acupuncteurs contre l’excellente BD d’Olivier Bernard mérite un [effet Streisand](https://fr.wikipedia.org/wiki/effet_Streisand) : partagez et republiez cet article un max svp ! Pour le texte vous avez le droit,  il est publié sous [licence Creative Commons](/2013/01/26/acanthapis-petax-cc-et-wikipedia/). Et pour les images, récupérées de l'[Internet Archive](https://fr.wikipedia.org/wiki/Internet_Archive) sans autorisation d'Olivier Bernard, j'invoque le "[fair use](https://fr.wikipedia.org/wiki/fair_use)" :
+La pression des acupuncteurs contre l’excellente BD d’Olivier Bernard mérite un [effet Streisand](w:) : partagez et republiez cet article un max svp ! Pour le texte vous avez le droit,  il est publié sous [licence Creative Commons](/2013/01/26/acanthapis-petax-cc-et-wikipedia/). Et pour les images, récupérées de l'[Internet Archive](w:) sans autorisation d'Olivier Bernard, j'invoque le "[fair use](w:)" :
 
 ![](images/acupuncture01.png) ![](images/acupuncture02.png) ![](images/acupuncture03.png) ![](images/acupuncture04.png) ![](images/acupuncture05.png)
 

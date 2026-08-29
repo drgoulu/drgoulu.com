@@ -10,7 +10,7 @@ tags:
 coverImage: "c5c54de6cf937d04c034f0436104354f1.gif"
 ---
 
-"Il faut penser différemment" écrit [Bernard Werber](https://fr.wikipedia.org/wiki/Bernard_Werber) dans "Les Fourmis" quand il propose ce petit casse-tête.
+"Il faut penser différemment" écrit [Bernard Werber](w:) dans "Les Fourmis" quand il propose ce petit casse-tête.
 
 Quand vous serez convaincu qu'il faut casser les allumettes (interdit!) , reprenez le problème à zéro en chronométrant combien de temps il vous faut pour "penser différemment" .
 

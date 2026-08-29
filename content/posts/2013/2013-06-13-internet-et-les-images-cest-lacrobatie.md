@@ -17,7 +17,7 @@ Internet, c'est tellement facile : on voit une image qui nous plait pour illustr
 
 Et voilà. L'auteur de cette magnifique photo, que je salue au passage, pourrait légitimement prétendre que je lui ai volé cette photo sans autorisation, à quoi je pourrais lui répondre que non ( si j'étais de mauvaise foi ) puisqu'elle est toujours sur son serveur  : je ne l'ai pas copiée, j'ai juste mis <img src="http://www.d-aprilli.net/www.d-aprilli.net/GalerieAvions/content/images/large/dAprilli\_Avion002.jpg"> dans le texte HTML de cet article...
 
-Mais il pourrait alors considérer que ce "[hotlink](http://fr.wikipedia.org/wiki/Hotlinking)" lui vole de la bande passante : chaque visite sur ma page va générer du trafic sur son serveur pour  télécharger 1180 Ko, et son hébergeur doit payer le matos et la connexion en conséquence, dont il répercute le coût sur ses clients, donc mon lien ci-dessus engendre des coûts pour lui.
+Mais il pourrait alors considérer que ce "[hotlink](w:Hotlinking)" lui vole de la bande passante : chaque visite sur ma page va générer du trafic sur son serveur pour  télécharger 1180 Ko, et son hébergeur doit payer le matos et la connexion en conséquence, dont il répercute le coût sur ses clients, donc mon lien ci-dessus engendre des coûts pour lui.
 
 Avant de voir comment éviter ceci, voyons comment le détecter. Le moyen le plus simple est d'utiliser la recherche d'images Google en mettant comme chaîne de recherche "inurl:monsite.com -site:monsite.com", ce qui signifie "montre les images qui ont monsite.com dans leur URL, mais qui ne sont pas sur monsite.com".
 
@@ -27,7 +27,7 @@ Quand c'est à petite échelle comme ça c'est tolérable, mais pour un site [c
 
 ### Comment empêcher le hotlinking
 
-![](images/6027a4548308db94d64a59a91d7a4d52.gif)La méthode la plus simple pour l'empêcher est de modifier le [fichier .htaccess](http://fr.wikipedia.org/wiki/Htaccess) pour qu'il renvoie aux serveurs extérieurs une autre image que celle demandée, par exemple celle ci-contre ou une pire. Cette image apparaîtra subitement à la place de l'image originale sur tous les sites ayant fait des hotlinks...
+![](images/6027a4548308db94d64a59a91d7a4d52.gif)La méthode la plus simple pour l'empêcher est de modifier le [fichier .htaccess](w:Htaccess) pour qu'il renvoie aux serveurs extérieurs une autre image que celle demandée, par exemple celle ci-contre ou une pire. Cette image apparaîtra subitement à la place de l'image originale sur tous les sites ayant fait des hotlinks...
 
 MAIS il faut bien faire attention à Google, qui indexe les images de votre site et qui, ne voyant que votre image anti-hotlink, risque de se dire que si toutes vos images sont les mêmes, votre site est sans intérêt et baisser votre pagerank.
 
@@ -51,8 +51,8 @@ D'après ma maigre expérience, Google trouve plus d'images car il indexe plus d
 
 En passant, comme je m'étais intéressé à [l'algorithme de Shazam](/2009/07/11/comment-marche-shazam/) je me suis évidemment aussi posé la question pour la recherche d'images. [Sur leur forum, les gens de TinEye ne sont pas plus bavards](http://forums.tineye.com/discussion/77/does-tineye-base-on-mser-sifts/p1) que ceux de Google sur l'algorithme utilisé, et [cette discussion sur stackoverflow](http://stackoverflow.com/questions/1005115/what-algorithm-could-be-used-to-identify-if-images-are-the-same-or-similar-reg) ne permet que d'esquisser quelques pistes, parmi lesquelles:
 
-- L'algorithme [Scale-invariant feature transform (SIFT)](http://fr.wikipedia.org/wiki/Scale-invariant_feature_transform), breveté, mais il le mérite
-- La méthode [maximally stable extremal regions (MSER)](http://en.wikipedia.org/wiki/Maximally_stable_extremal_regions)
+- L'algorithme [Scale-invariant feature transform (SIFT)](w:Scale-invariant_feature_transform), breveté, mais il le mérite
+- La méthode [maximally stable extremal regions (MSER)](w:en:Maximally_stable_extremal_regions)
 - J'ai encore trouvé cette référence : Zhong Wu, Qifa Ke, Michael Isard, and Jian Sun, "[Bundling Features for Large Scale Partial-Duplicate Web Image Search](http://research.microsoft.com/pubs/80803/CVPR_2009_bundle.pdf)", Microsoft Research, 2009 IEEE
 
 ### Le problème avec Google...

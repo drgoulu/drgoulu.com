@@ -14,7 +14,7 @@ coverImage: "9c98d62d84360b1b799664736209bd141.jpg"
 
 {{< figure src="images/9c98d62d84360b1b799664736209bd14.jpg" >}}
 
-La spectaculaire [mise à l'eau d'Alinghi 5](http://www.20min.ch/ro/news/romandie/story/16004125) par une "grue volante" [Mil MI-26](http://fr.wikipedia.org/wiki/Mil_Mi-26) est l'occasion de parler un peu de ces merveilles technologiques.
+La spectaculaire [mise à l'eau d'Alinghi 5](http://www.20min.ch/ro/news/romandie/story/16004125) par une "grue volante" [Mil MI-26](w:) est l'occasion de parler un peu de ces merveilles technologiques.
 
 Pour le bateau, visitez le [blog Foilers!](http://foils.wordpress.com/2009/07/06/alinghi-avec-ou-sans-foils/) Pour l'hélico, lisez la suite.
 
@@ -40,7 +40,7 @@ Cependant, avec un grand rotor l'extrémité des pales se déplace très vite. L
 
 {{< figure src="images/43b464f6242883e850223e466c52434b.jpg" alt="Interaction Pale-Tourbillon : visualisation du coefficient de pression sur les pales et de la vorticite dans le sillage de la pale reculante" caption="Simulation numérique d'interaction Pale-Tourbillon, document ONERA (2)" link="http://www.onera.fr/daap/aerodynamique-helicoptere/numerique.php" align="aligncenter" width="380" >}}
 
-C'est pourquoi les rotors des hélicoptères tournent à une vitesse constante. Le pilote ne contrôle pas la vitesse du rotor, mais uniquement l'incidence des pales via un [plateau cyclique](http://fr.wikipedia.org/wiki/Plateau_cyclique), l'un des plus élégants systèmes mécaniques que l'on puisse voir.
+C'est pourquoi les rotors des hélicoptères tournent à une vitesse constante. Le pilote ne contrôle pas la vitesse du rotor, mais uniquement l'incidence des pales via un [plateau cyclique](w:), l'un des plus élégants systèmes mécaniques que l'on puisse voir.
 
 Condamné à tourner très lentement, le rotor des grands hélicoptères comporte plus de pales (8 pour le MI-26) que celui des petits, mais il faut bien comprendre que le nombre de pales n'intervient pas directement dans la puissance d'une hélice, d'hélicoptère ou d'éolienne . Ce qui importe c'est que le compromis entre la vitesse de rotation, le nombre et l'incidence des pales donnant le meilleur rendement dans la plage d'utilisation de l'hélice.
 

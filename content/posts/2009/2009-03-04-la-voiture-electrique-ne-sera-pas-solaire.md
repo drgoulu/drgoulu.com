@@ -34,7 +34,7 @@ Certains imaginent que l'énergie solaire pourrait être une solution, mais ils 
 
 Pour minimiser le nombre de nouvelles centrales thermiques qui devront être construites, il faut combler la baisse de demande nocturne en exploitant toutes les formes de stockage d'énergie : recharger les voitures, produire de l'hydrogène, ou comprimer de l'air et pomper de l'eau dans les lacs alpins pour produire les pics du lendemain.
 
-Mais n'en déplaise à mes compatriotes de [Rinspeed](http://www.motorlegend.com/actualite-automobile/rinspeed-ichange/3039.html) et de [Belenos Clean Power](http://fr.wikipedia.org/wiki/Belenos_Clean_Power) (lancé par M.Hayek [que j'admire beaucoup par ailleurs](/2007/05/15/montre-mecanique-contre-quartz/)), stocker de l'électricité solaire dans une bagnole est une aberration.
+Mais n'en déplaise à mes compatriotes de [Rinspeed](http://www.motorlegend.com/actualite-automobile/rinspeed-ichange/3039.html) et de [Belenos Clean Power](w:Belenos_Clean_Power) (lancé par M.Hayek [que j'admire beaucoup par ailleurs](/2007/05/15/montre-mecanique-contre-quartz/)), stocker de l'électricité solaire dans une bagnole est une aberration.
 
 ### Sources:
 

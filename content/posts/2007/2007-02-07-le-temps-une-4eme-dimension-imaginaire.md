@@ -16,7 +16,7 @@ coverImage: "3b04deebe30b8f24d81577ae0b33474c1.jpg"
 
 Dans "[voir en 4 dimensions](/2007/02/06/voir-en-4-dimensions/)", je montre comment un cube peut aider à se représenter une 4ème dimension spatiale facilement.
 
-Ce deuxième article explique pourquoi le temps, la 4ème dimension de l'[espace-temps](https://fr.wikipedia.org/wiki/espace-temps) dans lequel nous vivons, n'est pas une dimension spatiale comme les 3 autres, mais une dimension [imaginaire](https://fr.wikipedia.org/wiki/Nombre_imaginaire_pur), au sens mathématique du terme : un temps élevé au carré est équivalent à une surface négative !
+Ce deuxième article explique pourquoi le temps, la 4ème dimension de l'[espace-temps](w:) dans lequel nous vivons, n'est pas une dimension spatiale comme les 3 autres, mais une dimension [imaginaire](w:Nombre_imaginaire_pur), au sens mathématique du terme : un temps élevé au carré est équivalent à une surface négative !
 
 Imaginez qu'un cube de côté égal à 1 mètre surgisse du néant devant vous et disparaisse tout aussi soudainement 1 seconde plus tard. Le cube a donc été "étiré" dans la dimension du temps sur une distance de 1 seconde, et si vous êtes un "dieu" pour qui le temps est une dimension comme les autres, vous verriez cet événement comme un hypercube flottant dans un espace à 4 dimensions tel que décrit dans [l'article précédent](/2007/02/06/voir-en-4-dimensions/).
 
@@ -26,7 +26,7 @@ Comment faire si une dimension ne se mesure pas dans les mêmes unités que les 
 
 Autrement dit, le"dieu à 4 dimensions" verrait le cube de tout à l'heure immensément allongé dans la direction du temps. Pour qu'il lui apparaisse comme parfaitement hypercubique, il n'aurait du apparaître que pendant 1/300'000'000 de seconde.
 
-Mais ça ne suffit pas pour prouver que le temps soit une dimension "comme les autres". Les 2 dimensions d'une feuille de papier, tout comme les 3 dimensions de l'espace sont [euclidiennes](https://fr.wikipedia.org/wiki/Espace_euclidien) parce qu'on peut mesurer les distances entre des points par le théorème de Pythagore. Vous savez, celui qui dit que la carré de l'hypoténuse est égal à la somme des carrés des côtés.
+Mais ça ne suffit pas pour prouver que le temps soit une dimension "comme les autres". Les 2 dimensions d'une feuille de papier, tout comme les 3 dimensions de l'espace sont [euclidiennes](w:Espace_euclidien) parce qu'on peut mesurer les distances entre des points par le théorème de Pythagore. Vous savez, celui qui dit que la carré de l'hypoténuse est égal à la somme des carrés des côtés.
 
 - la diagonale de notre carré à 2 dimensions de côté 1 vaut \\(\\sqrt{1^2+1^2} = \\sqrt{2}\\)
 - la diagonale de notre cube à 3 dimensions de côté 1 vaut  \\(\\sqrt{1^2+1^2+1^2} = \\sqrt{3}\\)
@@ -48,7 +48,7 @@ Plus généralement, la distance d entre deux événements situés en (x,y,z,t) 
 
 **d2\=(x-x')2+(y-y')2+(z-z')2 - c2.(t-t')2**
 
-Ce n'est pas une distance euclidienne à cause du signe "moins", donc le temps n'est pas une dimension "comme les autres", même après l'avoir transformé en distance grâce à la vitesse de la lumière. L'espace-temps n'est donc pas un [espace euclidien](https://fr.wikipedia.org/wiki/espace_euclidien), mais un [espace de Minkowski](https://fr.wikipedia.org/wiki/espace_de_Minkowski).
+Ce n'est pas une distance euclidienne à cause du signe "moins", donc le temps n'est pas une dimension "comme les autres", même après l'avoir transformé en distance grâce à la vitesse de la lumière. L'espace-temps n'est donc pas un [espace euclidien](w:), mais un [espace de Minkowski](w:).
 
 A moins que l'on puisse remplacer c par quelque chose qui deviendrait négatif en l'élevant au carré, mais le carré de tous les nombres réels est positif ... On ne peut faire intervenir que le nombre imaginaire i, tel que i2\=-1 par convention.
 

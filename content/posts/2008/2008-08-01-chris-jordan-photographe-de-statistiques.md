@@ -16,7 +16,7 @@ tags:
 coverImage: "629cb77f8e7b730969d6cf3d489fd9f6.jpg"
 ---
 
-Découvert le photographe [Chris Jordan](http://fr.wikipedia.org/wiki/Chris_Jordan) grâce à sa [conférence "Picturing Excess" au TED](http://www.ted.com/index.php/talks/chris_jordan_pictures_some_shocking_stats.html) ([disponible sur YouTube](http://www.youtube.com/watch?v=f09lQ8Q1iKE)).
+Découvert le photographe [Chris Jordan](w:) grâce à sa [conférence "Picturing Excess" au TED](http://www.ted.com/index.php/talks/chris_jordan_pictures_some_shocking_stats.html) ([disponible sur YouTube](http://www.youtube.com/watch?v=f09lQ8Q1iKE)).
 
 [Sur son site](http://www.chrisjordan.com/) vous pourrez admirer son travail récent "[Running the Numbers - An American Self-Portrait](http://www.chrisjordan.com/gallery/rtn/) " qui illustre par d'immenses [photomosaïques](/2007/08/19/grandes-images/) la boulimie de consommation de ses compatriotes étatsuniens et autres travers relayés par les statistiques, comme:
 
@@ -37,7 +37,7 @@ au total il y a 32'000 Barbies, le nombre d'opérations d'augmentation mammaires
 - 11'000 avions et leur traînée dans le ciel, le nombre de vols aux USA en 8h.
 - 426'000 téléphones cellulaires mis au rebut chaque jour !
 - 1.14 millions de sacs en papier bruns, ce que distribuent les supermarchés là bas chaque heure.
-- un tableau pointilliste de [Seurat](http://fr.wikipedia.org/wiki/Georges_Seurat) réalisé avec les 106'000 canettes de boisson en alu jetées chaque 30 secondes
+- un tableau pointilliste de [Seurat](w:Georges_Seurat) réalisé avec les 106'000 canettes de boisson en alu jetées chaque 30 secondes
 - 65'000 cigarettes, le nombre de jeunes qui commencent à fumer chaque mois
 - 9 millions de petits blocs en bois pour apprendre l'alphabet = le nombre d'enfants sans assurance maladie dans le pays le plus riche du monde.
 - et bien d'autres images chocs sur des faits qui ne le sont pas moins.

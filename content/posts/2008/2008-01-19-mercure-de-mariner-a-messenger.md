@@ -10,7 +10,7 @@ tags:
 coverImage: "b3f9fbb8d24d4bb74594978d1a6251fe.jpg"
 ---
 
-[Mercure](http://fr.wikipedia.org/wiki/Mercure_%28plan%C3%A8te%29) est la planète la plus proche du Soleil, et, bien qu'elle soit beaucoup moins éloignée de nous que Jupiter, elle a n'a été visitée par des sondes automatiques que 2 fois : par "[Mariner 10](http://fr.wikipedia.org/wiki/Mariner_10)" en 1974 et par "[Messenger](http://fr.wikipedia.org/wiki/Programme_Messenger)", qui vient d'y faire un premier passage et se mettra en orbite autour de cette petite planète pour la scruter en détail en 2011.
+[Mercure](w:Mercure_(planète)) est la planète la plus proche du Soleil, et, bien qu'elle soit beaucoup moins éloignée de nous que Jupiter, elle a n'a été visitée par des sondes automatiques que 2 fois : par "[Mariner 10](w:)" en 1974 et par "[Messenger](w:Programme_Messenger)", qui vient d'y faire un premier passage et se mettra en orbite autour de cette petite planète pour la scruter en détail en 2011.
 
 Les photos déjà prises par Messenger ravissent les spécialistes, mais pour le néophyte elles ne montrent pas beaucoup plus que celles fournies par son ancètre : Mercure est littéralement criblée de cratères de toutes tailles:
 

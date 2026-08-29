@@ -18,7 +18,7 @@ coverImage: "2e0c010b810b68fc3aea91efcdb69bdb.jpg"
 
 {{< figure src="images/2e0c010b810b68fc3aea91efcdb69bdb.jpg" alt="Hans Rosling" caption="Hans Rosling" width="200" >}}
 
-Hans Rosling a donné une conférence au [Département d'Etat](http://fr.wikipedia.org/wiki/D%C3%A9partement_d%27%C3%89tat_des_%C3%89tats-Unis) des USA, conférence [reprise au TED](http://www.ted.com/talks/hans_rosling_at_state.html) tellement passionnante que je l'ai traduite en français¹. Vous pouvez la voir [ici en choisissant les sous-titres en Français](http://dotsub.com/view/a85f347f-9b20-4096-a22d-b91efafc92ab) (Canada)² et attendant que ma traduction soit validée [au TED³.](http://www.ted.com/talks/hans_rosling_at_state.html) La v.o. est sur YouTube:
+Hans Rosling a donné une conférence au [Département d'Etat](w:Département_d'État_des_États-Unis) des USA, conférence [reprise au TED](http://www.ted.com/talks/hans_rosling_at_state.html) tellement passionnante que je l'ai traduite en français¹. Vous pouvez la voir [ici en choisissant les sous-titres en Français](http://dotsub.com/view/a85f347f-9b20-4096-a22d-b91efafc92ab) (Canada)² et attendant que ma traduction soit validée [au TED³.](http://www.ted.com/talks/hans_rosling_at_state.html) La v.o. est sur YouTube:
 
 {{< youtube id="KVhWqwnZ1eM" width="640" >}}
 
@@ -28,9 +28,9 @@ Cette conférence reprend le thème déjà abordés [ici](/2007/07/08/gapmindero
 
 Rosling utilise son extraordinaire outil [GapMinder](http://www.gapminder.org/) pour promouvoir une vision du monde basée sur les faits : le monde a changé beaucoup plus vite, et beaucoup mieux que nous ne l'imaginons généralement.
 
-Dans cette conférence, Rosling montre entre autres que des pays comme le Bangladesh, l'Egypte ou le Brésil, ont atteint plus rapidement les [objectifs du millénaire](http://fr.wikipedia.org/wiki/Objectifs_du_mill%C3%A9naire_pour_le_d%C3%A9veloppement) que la Suède à l'époque, ou que le SIDA en Afrique n'est pas une généralité mais un problème à traiter localement.
+Dans cette conférence, Rosling montre entre autres que des pays comme le Bangladesh, l'Egypte ou le Brésil, ont atteint plus rapidement les [objectifs du millénaire](w:Objectifs_du_millénaire_pour_le_développement) que la Suède à l'époque, ou que le SIDA en Afrique n'est pas une généralité mais un problème à traiter localement.
 
-Rosling profite de son audience au [Département d'Etat](http://fr.wikipedia.org/wiki/D%C3%A9partement_d%27%C3%89tat_des_%C3%89tats-Unis) pour placer quelques piques aux USA, mais aussi des compliments inattendus.
+Rosling profite de son audience au [Département d'Etat](w:Département_d'État_des_États-Unis) pour placer quelques piques aux USA, mais aussi des compliments inattendus.
 
 A voir d'urgence.
 

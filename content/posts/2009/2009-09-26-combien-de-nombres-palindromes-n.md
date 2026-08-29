@@ -15,9 +15,9 @@ Les problèmes du [Project Euler](/2009/02/23/project_euler/) devenant vraiment 
 
 {{< figure src="images/37b10823a4bb4b9808e544fa55dc514d.gif" alt="17371, un nombre palindrome" caption="un nombre palindrome" width="148" >}}
 
-Un [nombre palindrome](https://fr.wikipedia.org/wiki/nombre_palindrome) se lit indifféremment de gauche à droite ou de droite à gauche, comme 1234321 ou 567765. Outre leur aspect esthétique, ces nombres ont aussi des [propriétés étonnantes](/2008/09/14/palindrome-de-196/).
+Un [nombre palindrome](w:) se lit indifféremment de gauche à droite ou de droite à gauche, comme 1234321 ou 567765. Outre leur aspect esthétique, ces nombres ont aussi des [propriétés étonnantes](/2008/09/14/palindrome-de-196/).
 
-La première idée qui vient à l'esprit est de les compter (c'est du [Delphi](https://fr.wikipedia.org/wiki/Delphi_(informatique))):
+La première idée qui vient à l'esprit est de les compter (c'est du [Delphi](w:Delphi_(informatique))):
 
 \[sourcecode language="delphi"\] function NumberOfPalindromes(const maxNumber : integer) : integer; var i:Integer; s:string; begin Result:=0; for i := 1 to maxNumber do begin s:=IntToStr(i); if s=ReverseString(s) then Inc(Result); end; end; \[/sourcecode\]
 

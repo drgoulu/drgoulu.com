@@ -14,7 +14,7 @@ coverImage: "1eeee73a4dceb35a25c0c3b2367d84e4.png"
 
 L'[initiative 1:12](http://www.admin.ch/ch/f/pore/vi/vis375.html) est extrémiste au sens propre : en voulant limiter le rapport entre les salaires le plus élevé et le moins élevé de chaque entreprise, elle ignore la très large majorité qui se situe entre deux.
 
-Le [coefficient de Gini](https://fr.wikipedia.org/wiki/coefficient_de_Gini) mesure bien mieux les inégalités car il tient compte de tous les revenus, et c'est lui qui est utilisé pour les comparaisons internationales. Pour la Suisse il vaut 0.29 après impôts et prélèvements obligatoires, et 0.34 avant, ce qui est étonnamment faible.
+Le [coefficient de Gini](w:) mesure bien mieux les inégalités car il tient compte de tous les revenus, et c'est lui qui est utilisé pour les comparaisons internationales. Pour la Suisse il vaut 0.29 après impôts et prélèvements obligatoires, et 0.34 avant, ce qui est étonnamment faible.
 
 {{< figure src="images/1eeee73a4dceb35a25c0c3b2367d84e4.png" alt="2012-07-13_194659" caption="source OCDE \[2.A, p.11\] (cliquer pour accéder au document original)" link="http://www.oecd.org/fr/social/soc/49177707.pdf" align="aligncenter" width="640" >}}Selon le dernier rapport de l'OCDE sur les inégalités \[1, p.9\]:
 

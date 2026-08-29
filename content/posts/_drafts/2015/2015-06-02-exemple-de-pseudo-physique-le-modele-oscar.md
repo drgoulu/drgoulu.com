@@ -15,13 +15,13 @@ Sur la page, Mareau prétend 7 fois (sans aucune référence) que les célèbre
 
  
 
-En réalité l'interprétation de l'[école de Copenhague (physique)](https://fr.wikipedia.org/wiki/école_de_Copenhague_(physique)) est bien plus subtile que cela, mais elle a effectivement été caricaturée par l'expression "shut up and calculate!" mais on ne sait pas par qui. Certains disent que c'est Feynman, d'autres Dirac, mais ce n'est pas Bohr, Heisenberg, Jordan, Born ni Pauli. Et même s'ils l'avaient dit, c'est très différent de "il ne faut pas chercher à comprendre".
+En réalité l'interprétation de l'[école de Copenhague (physique)](w:) est bien plus subtile que cela, mais elle a effectivement été caricaturée par l'expression "shut up and calculate!" mais on ne sait pas par qui. Certains disent que c'est Feynman, d'autres Dirac, mais ce n'est pas Bohr, Heisenberg, Jordan, Born ni Pauli. Et même s'ils l'avaient dit, c'est très différent de "il ne faut pas chercher à comprendre".
 
 ### Le rayon de l'électron
 
 Mareau
 
-L'observation d'un électron isolé dans un [piège de Penning](https://fr.wikipedia.org/wiki/piège_de_Penning) démontre que le rayon de cette particule est inférieur à 10\-22. Il y a bien pourtant une constante physique que l'on appelle « rayon classique de l'électron », dont la valeur bien plus grande est de 2,8179×10\-15 m. Cependant cette terminologie provient d'un calcul qui ignore les effets de la [mécanique quantique](https://fr.wikipedia.org/wiki/M%C3%A9canique_quantique "Mécanique quantique") ; en fait le soi-disant rayon classique de l'électron n'a pas grand-chose à voir avec une structure fondamentale de l'électron. Néanmoins, il donne un ordre de grandeur des dimensions pour lesquelles l'[électrodynamique quantique](https://fr.wikipedia.org/wiki/électrodynamique_quantique) devient importante pour comprendre la structure et le comportement de l'électron, notamment par la [renormalisation](https://fr.wikipedia.org/wiki/renormalisation).
+L'observation d'un électron isolé dans un [piège de Penning](w:) démontre que le rayon de cette particule est inférieur à 10\-22. Il y a bien pourtant une constante physique que l'on appelle « rayon classique de l'électron », dont la valeur bien plus grande est de 2,8179×10\-15 m. Cependant cette terminologie provient d'un calcul qui ignore les effets de la [mécanique quantique](w: "Mécanique quantique") ; en fait le soi-disant rayon classique de l'électron n'a pas grand-chose à voir avec une structure fondamentale de l'électron. Néanmoins, il donne un ordre de grandeur des dimensions pour lesquelles l'[électrodynamique quantique](w:) devient importante pour comprendre la structure et le comportement de l'électron, notamment par la [renormalisation](w:).
 
  
 

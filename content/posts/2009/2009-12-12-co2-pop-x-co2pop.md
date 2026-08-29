@@ -25,7 +25,7 @@ D'ailleurs, la proposition d'Antonio Hodgers de revenir au standard des années 
 
 A noter par ailleurs que la seule diminution de la population suisse enregistrée en 150 ans a suivi le choc pétrolier de 1973 et a duré pratiquement 10 ans, un fait que les apôtres de la décroissance ne devraient pas oublier... Depuis, les émissions de CO2 par habitant diminuent régulièrement, en Suisse comme dans beaucoup de pays industrialisés.
 
-L'oubli systématique du facteur POPulation dans le débat écologiste ne peut que semer la confusion. La Chine n'est le 2ème pollueur de la planète qu'en raison de sa population : le chinois n'est qu'au 80ème rang en terme d'[émissions par habitant](http://fr.wikipedia.org/wiki/Liste_des_pays_par_%C3%A9missions_de_dioxyde_de_carbone_par_habitant), derrière Cuba, les Seychelles et la Thaïlande, et la Suisse au 50ème rang, entre la France (46ème)  et la Suède (51ème).
+L'oubli systématique du facteur POPulation dans le débat écologiste ne peut que semer la confusion. La Chine n'est le 2ème pollueur de la planète qu'en raison de sa population : le chinois n'est qu'au 80ème rang en terme d'[émissions par habitant](w:Liste_des_pays_par_émissions_de_dioxyde_de_carbone_par_habitant), derrière Cuba, les Seychelles et la Thaïlande, et la Suisse au 50ème rang, entre la France (46ème)  et la Suède (51ème).
 
 Les pays comme la Chine et l'Inde ont fait un immense effort en limitant leur POPulation de façon drastique, ce qui leur a permis de sortir de la misère et d'amorcer un développement fantastique. C'est "grâce" à des avortements en masse, M. Hodgers, que les prévisions de la population mondiale se sont révélées fausses. Demander aujourd'hui à ces même pays un effort au niveau du deuxième facteur de l'équation est indécent.
 

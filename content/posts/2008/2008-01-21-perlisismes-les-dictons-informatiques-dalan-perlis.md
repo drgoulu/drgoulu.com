@@ -14,7 +14,7 @@ coverImage: "729d55b21652db629f4b0da141be7852.gif"
 
 {{< figure src="images/729d55b21652db629f4b0da141be7852.gif" alt="Alan Jay Perlis" caption="Alan Jay Perlis" width="180" >}}
 
-En préparant un autre article, je suis tombé sur quelques citations d'[Alan Perlis](https://fr.wikipedia.org/wiki/Alan_Perlis), un précurseur de la programmation et célèbre professeur à Carnegie Mellon et Yale. Les dictons informatiques dont il émaillait ses cours ont été publiés \[1\] et sont passés à la postérité sous le nom de "Perlisismes", mais ne sont disponibles qu'en anglais. Ne les ayant pas trouvé en français, je me suis fendu (de rire) d'une traduction, en les reclassant par thèmes subjectifs et en les classant selon mes préférences. Régalez vous !
+En préparant un autre article, je suis tombé sur quelques citations d'[Alan Perlis](w:), un précurseur de la programmation et célèbre professeur à Carnegie Mellon et Yale. Les dictons informatiques dont il émaillait ses cours ont été publiés \[1\] et sont passés à la postérité sous le nom de "Perlisismes", mais ne sont disponibles qu'en anglais. Ne les ayant pas trouvé en français, je me suis fendu (de rire) d'une traduction, en les reclassant par thèmes subjectifs et en les classant selon mes préférences. Régalez vous !
 
 ## Philosophie
 
@@ -70,7 +70,7 @@ En préparant un autre article, je suis tombé sur quelques citations d'[Alan Pe
 - Si vous avez une fonction avec 10 paramètres, vous en avez probablement oublié.
 - Un programme sans boucle et sans structure de donnée ne vaut pas la peine d'être écrit.
 - Rendre quelque chose variable est facile. Le problème, c'est de contrôler la durée de la constance.
-- A long terme, tout programme devient [rococo](https://fr.wikipedia.org/wiki/rococo), puis des gravats.
+- A long terme, tout programme devient [rococo](w:), puis des gravats.
 - La récursion est la racine du calcul car elle échange la description contre du temps.
 - Un programme qui manipule un grand nombre de données le fait d'un petit nombre de manières.
 - C'est mieux d'avoir 100 fonctions travaillant sur une structure de données que 10 fonctions pour 10 structures.
@@ -95,7 +95,7 @@ En préparant un autre article, je suis tombé sur quelques citations d'[Alan Pe
 - Un langage de programmation est "bas niveau" quand il nécessite de faire attention à ce qui n'a aucune importance.
 - Un bon système ne peut pas avoir un langage de commande faible.
 - Si quelqu'un dit "je veux un langage de programmation dans lequel je n'aurais qu'à dire ce qui doit être fait", donnez lui une sucette.
-- Alors que les chinois devraient adorer [APL](https://fr.wikipedia.org/wiki/APL_(language)), ils investissent dans FORTRAN.
+- Alors que les chinois devraient adorer [APL](w:APL_(language)), ils investissent dans FORTRAN.
 - Un programmeur LISP connait la valeur de tout, mais le cout (cost) de rien.
 - Au cours des siècles, les Indiens ont développé un langage de signes pour communiquer des phénomènes intéressants. les programmeurs des différentes tribus (FORTRAN, LISP, ALGOL, SNOBOL, etc.) auraient pu en utiliser un pour éviter de transporter un tableau noir sur leur poneys.
 
@@ -109,12 +109,12 @@ En préparant un autre article, je suis tombé sur quelques citations d'[Alan Pe
 - Enseigner la programmation va à l'encontre de l'éducation moderne : Quel est le plaisir à planifier, se discipliner à organiser ses pensées, faire attention aux détails et apprendre à être autocritique ?
 - On n'apprend pas l'informatique avec une calculatrice de poche, mais on peut oublier l'arithmétique.
 - La plupart des gens trouvent le concept de la programmation évident, mais la réalisation impossible.
-- Tout le monde peut apprendre à sculpter : on aurait du dire à [Michel-Ange](https://fr.wikipedia.org/wiki/Michel-Ange) comment ne pas le faire.  C'est la même chose avec les grands programmeurs. _(édité le 23.11.11 à partir de WikiQuote)_
+- Tout le monde peut apprendre à sculpter : on aurait du dire à [Michel-Ange](w:) comment ne pas le faire.  C'est la même chose avec les grands programmeurs. _(édité le 23.11.11 à partir de WikiQuote)_
 - Vous croyez savoir quand vous apprenez, vous en êtes sur quand vous écrivez, persuadé quand vous enseignez, mais certain seulement quand vous programmez.
 
 ## Jeux de mots intraduisibles
 
-- Syntactic sugar causes cancer of the semicolon. (Le [sucre syntaxique](https://fr.wikipedia.org/wiki/sucre_syntaxique) cause le cancer du point-virgule)
+- Syntactic sugar causes cancer of the semicolon. (Le [sucre syntaxique](w:) cause le cancer du point-virgule)
 - Editing is a rewording activity. (L'édition est une activité de rephrasage (rewOrding) récompensante (rewArding))
 - Like punning, programming is a play on words.
 - In software systems, it is often the early bird that makes the worm.

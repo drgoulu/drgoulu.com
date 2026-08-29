@@ -9,4 +9,4 @@ tags:
 - maths
 draft: true
 ---
-Après quelques années de relatiions épisolaires encryptées, Alice et Bob [Chiffrement homomorphe](https://fr.wikipedia.org/wiki/Chiffrement_homomorphe)
+Après quelques années de relatiions épisolaires encryptées, Alice et Bob [Chiffrement homomorphe](w:)

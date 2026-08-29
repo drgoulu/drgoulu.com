@@ -18,4 +18,4 @@ Comment faire pour modifier les premiers 8 bits du mots de façon à ce qu'ils c
 
 {{< figure src="images/799b28c713fe0b24c23115571899f28f.jpg" alt="Binary Kite par Syntopia" link="http://www.flickr.com/photos/syntopia/2058406738/" width="500" >}}
 
-Si vous n'êtes pas familier avec l'[assembleur](http://fr.wikipedia.org/wiki/Assembleur), disons que vous disposez des mêmes opérations qu'une calculatrice, mais en binaire : addition, soustraction, ansi que des [fonctions logiques (et, ou, ...)](http://fr.wikipedia.org/wiki/Op%C3%A9rateur_bool%C3%A9en#Fonctions_logiques). Une instruction, c'est une de ces opérations suivie d'une [opérande](http://fr.wikipedia.org/wiki/Op%C3%A9rande).
+Si vous n'êtes pas familier avec l'[assembleur](w:), disons que vous disposez des mêmes opérations qu'une calculatrice, mais en binaire : addition, soustraction, ansi que des [fonctions logiques (et, ou, ...)](w:Opérateur_booléen#Fonctions_logiques). Une instruction, c'est une de ces opérations suivie d'une [opérande](w:).

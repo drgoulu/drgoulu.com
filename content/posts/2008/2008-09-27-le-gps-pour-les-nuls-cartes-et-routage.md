@@ -21,7 +21,7 @@ Ce qui fait l'intérêt du GPS de nos jours c'est qu'il vous dit que vous êtes 
 
 En plus du récepteur sophistiqué décrit dans [l'article précédent](/2008/09/27/le-gps-pour-les-nuls-satellites-et-signaux/), un GPS contient une grosse mémoire pour stocker une carte géographique et un microprocesseur relativement puissant pour calculer votre itinéraire par une méthode qui fait l'objet de cet article.
 
-La carte routière stockée dans votre GPS est bien plus qu'une digitalisation d'une carte routière en papier : elle contient le "[graphe](http://fr.wikipedia.org/wiki/Th%C3%A9orie_des_graphes)" formé par le réseau routier, à savoir tous les carrefours (ou points, ou noeuds) reliés par un réseau de chemins (ou arcs, ou arêtes).
+La carte routière stockée dans votre GPS est bien plus qu'une digitalisation d'une carte routière en papier : elle contient le "[graphe](w:Théorie_des_graphes)" formé par le réseau routier, à savoir tous les carrefours (ou points, ou noeuds) reliés par un réseau de chemins (ou arcs, ou arêtes).
 
 Pour aller d'un point à un autre, le microprocesseur de votre GPS va déterminer le trajet le plus court entre deux lieux en parcourant ce graphe. Si vous utilisez un logiciel de cartographie comme [Google Maps](http://maps.google.ch/), vous vous êtes peut-être dit que Google a assez de gros ordinateurs pour le faire rapidement, et garde peut-être même en mémoire les requêtes les plus fréquentes (Paris - le Grau du Roi...) pour les resservir plus vite. Mais si vous avez un petit GPS dans votre voiture ou dans la main, vous avez certainement remarqué qu'il lui fait plusieurs secondes avant de pouvoir commencer à vous indiquer la direction à prendre. En réalité, c'est plutôt le fait qu'il n'ait pas besoin de minutes, voire d'heures de calcul qui tient de l'exploit, tant il existe de routes possibles.
 
@@ -43,8 +43,8 @@ Dans ces cas là, il faut tenter de modifier le problème pour le faire obéir a
 
 Mais si le "principe d'optimalité de Bellman" est satisfait, et c'est le cas en voiture, alors on peut utiliser des algorithmes très efficaces :
 
-1. Le célèbre [algorithme de Dijkstra](http://fr.wikipedia.org/wiki/Algorithme_de_Dijkstra) publié en 1959 permet de trouver le chemin joignant deux noeuds d'un graphe en minimisant la somme des "couts" et donc de trouver le "[plus court chemin](http://fr.wikipedia.org/wiki/Probl%C3%A8mes_de_cheminement)". Son temps de calcul est proportionnel à (m+n).log(n), où n est le nombre de nœuds et m le nombre de routes, ce qui rend possible son application sur des graphes comportant des millions de noeuds et routes.
-2. En prenant en compte la position des villes, on peut utiliser des algorithmes heuristiques comme ["A\*" (A-star)](http://fr.wikipedia.org/wiki/Algorithme_A*) qui fournissent plus rapidement un chemin très proche de l'optimum dans le cas d'une carte "normale", mais peuvent être plus lents que Dijkstra dans des cas vicieux.
+1. Le célèbre [algorithme de Dijkstra](w:) publié en 1959 permet de trouver le chemin joignant deux noeuds d'un graphe en minimisant la somme des "couts" et donc de trouver le "[plus court chemin](w:Problèmes_de_cheminement)". Son temps de calcul est proportionnel à (m+n).log(n), où n est le nombre de nœuds et m le nombre de routes, ce qui rend possible son application sur des graphes comportant des millions de noeuds et routes.
+2. En prenant en compte la position des villes, on peut utiliser des algorithmes heuristiques comme ["A\*" (A-star)](w:Algorithme_A*) qui fournissent plus rapidement un chemin très proche de l'optimum dans le cas d'une carte "normale", mais peuvent être plus lents que Dijkstra dans des cas vicieux.
 
 Une fois le trajet optimal déterminé, il suffit à votre GPS de vérifier que vous le suivez scrupuleusement à partir des mesures satellite, de vous diriger à gauche ou à droite, et si vous vous plantez ou si vous rencontrez un bouchon, de recalculer en vitesse un nouveau trajet optimal.
 

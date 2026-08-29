@@ -11,17 +11,17 @@ tags:
 coverImage: "f71a602177448b1863800a41273dadb5.gif"
 ---
 
-Enfin une explication rationnelle de la forme du cœur. Pas celle de l'organe mais celle du symbole de l'amour, celle que les filles aiment en bijou, les  garçons en gâteau et qui ne ressemble que très vaguement à une [illustration anatomique](https://fr.wikipedia.org/wiki/coeur)
+Enfin une explication rationnelle de la forme du cœur. Pas celle de l'organe mais celle du symbole de l'amour, celle que les filles aiment en bijou, les  garçons en gâteau et qui ne ressemble que très vaguement à une [illustration anatomique](w:coeur)
 
 {{< figure src="images/f71a602177448b1863800a41273dadb5.gif" alt="cyree_coin" caption="Symbole de l'amour : la graine de silphium sur une pièce d'argent de 700 av JC" link="images/f71a602177448b1863800a41273dadb5.gif" width="200" >}}
 
-Une des représentations les plus anciennes de ce symbole figure sur les pièces  en argent de [Cyrène](https://fr.wikipedia.org/wiki/Cyrène) datant de 700 av JC et représente des graines de [silphium](https://fr.wikipedia.org/wiki/silphium). Cette plante de la famille de la [férule](https://fr.wikipedia.org/wiki/férule_commune) aujourd'hui disparue ne poussait que dans cette région de la Libye actuelle et était l'un de ses principaux produits, cité dans plusieurs textes anciens. Certains historiens vont jusqu'à penser que cette plante a justifié à elle seule la colonisation et la fondation de Cyrène par les Grecs.
+Une des représentations les plus anciennes de ce symbole figure sur les pièces  en argent de [Cyrène](w:) datant de 700 av JC et représente des graines de [silphium](w:). Cette plante de la famille de la [férule](w:férule_commune) aujourd'hui disparue ne poussait que dans cette région de la Libye actuelle et était l'un de ses principaux produits, cité dans plusieurs textes anciens. Certains historiens vont jusqu'à penser que cette plante a justifié à elle seule la colonisation et la fondation de Cyrène par les Grecs.
 
 Et à quoi donc servait cette plante si recherchée ? A beaucoup de choses assez habituelles pour des plantes "médicinales", mais surtout au contrôle des naissances. Ses vertus contraceptives étaient reconnues dans tout le monde antique et semblent bien avoir été réelles puisque dès la domination romaine sur Cyrène en 96 av JC, la natalité de la Rome antique pourtant à son apogée a baissé. A cette époque le médecin Soranus écrivit:
 
 > "les femmes doivent boire le jus de silphium avec de l'eau une fois par mois car il empêche non seulement la conception, mais détruit aussi tout ce qui existe."
 
-Récemment, des parents de la silphium été soumis à des tests de laboratoire. [Asa foetida](https://fr.wikipedia.org/wiki/Asa_foetida) a réduit d'environ 50% la fécondité des rats et Jaeschikaena Ferula a été efficace à près de 100% lorsqu' administrée dans les trois jours suivant la copulation.
+Récemment, des parents de la silphium été soumis à des tests de laboratoire. [Asa foetida](w:) a réduit d'environ 50% la fécondité des rats et Jaeschikaena Ferula a été efficace à près de 100% lorsqu' administrée dans les trois jours suivant la copulation.
 
 {{< figure src="images/aebe2d3e6c75c7f6e065dd62abc9b91e.png" alt="Symbole de l'Amour s'il n'y avait pas eu la silphium ..." caption="Symbole de l'Amour s'il n'y avait pas eu la silphium ..." link="http://fr.wikipedia.org/wiki/Progest%C3%A9rone" width="200" >}}
 
