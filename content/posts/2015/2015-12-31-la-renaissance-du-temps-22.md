@@ -191,7 +191,7 @@ Note\* : j'ai écrit à Smolin pour lui demander comment sa théorie traitait le
 1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:9782100706679" templatenumber="5" >}}
 2. <span id="ref-2"></span>{{< openbook booknumber="ISBN:019510837X" templatenumber="5" >}}
 3. <span id="ref-3"></span>G. E. Brown, C.-H. Lee, and M. Rho "[Kaon Condensation, Black Holes and Cosmological Natural Selection](http://arxiv.org/pdf/0802.2997v2.pdf)", 2008, [arxiv.org/abs/0802.2997](http://arxiv.org/abs/0802.2997)
-4. <span id="ref-4"></span>Lee Smolin, "[Precedence and freedom in quantum physics](http://arxiv.org/pdf/1205.3707v1.pdf)", 2012, [arXiv:1205.3707v1](http://arxiv.org/abs/1205.3707v1) \[quant-ph\]
+4. <span id="ref-4"></span>Lee Smolin, "[Precedence and freedom in quantum physics](http://arxiv.org/pdf/1205.3707v1.pdf)", 2012{{< altmetric arxiv="1205.3707v1" >}} \[quant-ph\]
 5. <span id="ref-5"></span>Albert Einstein, "Remarks to the Essays Appearing in this Collective Volume", dans {{< openbook booknumber="ISBN:9780875482866" templatenumber="5" >}}
-6. <span id="ref-6"></span>Lee Smolin, "[A real ensemble interpretation of quantum mechanics](http://arxiv.org/pdf/1104.2822v1)", 2011, [arXiv:1104.2822](http://arxiv.org/abs/1104.2822) \[quant-ph\]
-7. <span id="ref-7"></span>Tomasz Konopka, Fotini Markopoulou, Lee Smolin "Quantum Graphity", 2006, arXiv:hep-th/0611197
+6. <span id="ref-6"></span>Lee Smolin, "[A real ensemble interpretation of quantum mechanics](http://arxiv.org/pdf/1104.2822v1)", 2011{{< altmetric arxiv="1104.2822" >}} \[quant-ph\]
+7. <span id="ref-7"></span>Tomasz Konopka, Fotini Markopoulou, Lee Smolin "Quantum Graphity", 2006{{< altmetric arxiv="hep-th/0611197" >}}

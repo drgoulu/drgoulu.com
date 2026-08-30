@@ -43,4 +43,4 @@ Note: \* j'ai pas vraiment compris la différence des liaisons covalentes entre 
  {{< altmetric pmid="23234502" >}}
 
 1. <span id="ref-1"></span>Phillip Broadwith "[Laser guided maglev graphite air hockey](http://www.rsc.org/chemistryworld/2013/01/laser-guided-maglev-graphite-air-hockey)", 2013, Chemistry World
-2. <span id="ref-2"></span>[![ResearchBlogging.org](images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org) Kobayashi M, & Abe J (2012). Optical motion control of maglev graphite. Journal of the American Chemical Society, 134 (51), 20593-6 PMID: [23234502](http://www.ncbi.nlm.nih.gov/pubmed/23234502)
+2. <span id="ref-2"></span>[![ResearchBlogging.org](images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org) Kobayashi M, & Abe J (2012). Optical motion control of maglev graphite. Journal of the American Chemical Society, 134 (51), 20593-6 PMID:{{< altmetric pmid="23234502" >}}

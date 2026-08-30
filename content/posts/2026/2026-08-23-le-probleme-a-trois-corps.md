@@ -24,4 +24,4 @@ La suite de cet article mentionne les thèmes majeurs des trois livres, alors ne
 
 5. <span id="ref-5"></span>{{< openbook booknumber="ISBN:9782330113841" templatenumber="5" >}}
 
-7. <span id="ref-7"></span>Gwennaël Gaffric "La trilogie des _Trois corps_ de Liu Cixin et le statut de la science-fiction en Chine contemporaine », 2017, _ReS Futurae_ [En ligne](http://journals.openedition.org/resf/940), 9 | 2017 DOI : 10.4000/resf.940
+7. <span id="ref-7"></span>Gwennaël Gaffric "La trilogie des _Trois corps_ de Liu Cixin et le statut de la science-fiction en Chine contemporaine », 2017, _ReS Futurae_ [En ligne](http://journals.openedition.org/resf/940), 9 | 2017{{< altmetric doi="10.4000/resf.940" >}}

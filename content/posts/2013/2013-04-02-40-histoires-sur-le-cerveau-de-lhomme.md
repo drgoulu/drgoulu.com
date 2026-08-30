@@ -40,8 +40,8 @@ Paru il y a un an, ce livre passionnant et très facile à lire vient d'être é
 ### Références:
 
 1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:9782738129253" templatenumber="5" >}}
-2. <span id="ref-2"></span>Clayton NS, Dickinson A. J "Scrub jays (Aphelocoma coerulescens) remember the relative time of caching as well as the location and content of their caches."Comp Psychol. 1999 Dec;113(4):403-16. ([PubMed](http://www.ncbi.nlm.nih.gov/pubmed/10608564))
-3. <span id="ref-3"></span>J. Mehler and T. G. Bever, “Cognitive Capacity of Very Young Children,” Science, vol. 158, no. 3797, pp. 141–142, Oct. 1967. [DOI: 10.1126/science.158.3797.141](http://www.sciencemag.org/content/158/3797/141)
+2. <span id="ref-2"></span>Clayton NS, Dickinson A. J "Scrub jays (Aphelocoma coerulescens) remember the relative time of caching as well as the location and content of their caches."Comp Psychol. 1999 Dec;113(4):403-16.{{< altmetric pmid="10608564" >}}
+3. <span id="ref-3"></span>J. Mehler and T. G. Bever, “Cognitive Capacity of Very Young Children,” Science, vol. 158, no. 3797, pp. 141–142, Oct. 1967.{{< altmetric doi="10.1126/science.158.3797.141" >}}
     
 4. <span id="ref-4"></span>V. Izard, C. Sann, E. S. Spelke, and A. Streri, “Newborn infants perceive abstract numbers.,” Proceedings of the National Academy of Sciences of the United States of America, vol. 106, no. 25, pp. 10382–5, Jun. 2009.
 5. <span id="ref-5"></span>S. Danziger, J. Levav, and L. Avnaim-Pesso, “[Extraneous factors in judicial decisions](http://lsolum.typepad.com/files/danziger-levav-avnaim-pnas-2011.pdf).,” Proceedings of the National Academy of Sciences of the United States of America, vol. 108, no. 17, pp. 6889–6892, 2011.

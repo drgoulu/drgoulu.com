@@ -65,8 +65,8 @@ Note\* : ce qu'il y a de bien en écrivant un article, c'est que ça met les id�
 
 ### Références:
 
-1. <span id="ref-1"></span>Deshpande, K., Green, P., & Pointer, M. R. "Metrics for comparing and analyzing two colour gamuts", 2015, Color Research & Application, 40(5), 465–471. [DOI : 10.1002/col.21930](http://doi.org/10.1002/col.21930) ([slides pdf](http://www.color.org/events/frankfurt/Deshpande_ICCFrankfurt2013_Gamut_analysis.pdf))
+1. <span id="ref-1"></span>Deshpande, K., Green, P., & Pointer, M. R. "Metrics for comparing and analyzing two colour gamuts", 2015, Color Research & Application, 40(5), 465–471.{{< altmetric doi="10.1002/col.21930" >}} ([slides pdf](http://www.color.org/events/frankfurt/Deshpande_ICCFrankfurt2013_Gamut_analysis.pdf))
 2. <span id="ref-2"></span>Arnaud Frich "Guide de la Gestion des Couleurs - [le calibrage de l'imprimante](http://www.guide-gestion-des-couleurs.com/calibrage-imprimante.html)", 2016
 3. <span id="ref-3"></span>Barber, C.B., Dobkin, D.P., and Huhdanpaa, H.T., "The Quickhull algorithm for convex hulls," _ACM Trans. on Mathematical Software_, 22(4):469-483, Dec 1996, [http://www.qhull.org](http://www.qhull.org)
 4. <span id="ref-4"></span>Vrhel, M. J., & Trussell, H. J. "[Color Device Calibration: A Mathematical Formulation](http://www.viegroup.com/mvrhelweb/pdfs/IP_COLOR_PAPER.pdf)", 1999, IEEE Transactions on Image processing, 8(12).
-5. <span id="ref-5"></span>Beckmann, N., & al. "[The R\*-tree: an efficient and robust access method for points and rectangles](https://epub.ub.uni-muenchen.de/4256/1/31.pdf)" 1990, In Proceedings of the 1990 ACM SIGMOD international conference on Management of data  - SIGMOD ’90 (Vol. 19, pp. 322–331). New York, USA: ACM Press. DOI : [10.1145/93597.98741](http://dx.doi.org/10.1145/93597.98741)
+5. <span id="ref-5"></span>Beckmann, N., & al. "[The R\*-tree: an efficient and robust access method for points and rectangles](https://epub.ub.uni-muenchen.de/4256/1/31.pdf)" 1990, In Proceedings of the 1990 ACM SIGMOD international conference on Management of data  - SIGMOD ’90 (Vol. 19, pp. 322–331). New York, USA: ACM Press.{{< altmetric doi="10.1145/93597.98741" >}}

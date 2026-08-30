@@ -40,6 +40,6 @@ Voilà pour l'instant, il y aura peut-être une suite, surtout si vous crochez a
 
 ### Références:
 
-1. <span id="ref-1"></span>Joseph Gale et al. "[The high oxygen atmosphere toward the end‐Cretaceous; a possible contributing factor to the K/T boundary extinctions and to the emergence of C4 species](http://jxb.oxfordjournals.org/content/52/357/801.full)", J. Exp. Bot. (2001) 52 (357): 801-809.doi: 10.1093/jexbot/52.357.801
+1. <span id="ref-1"></span>Joseph Gale et al. "[The high oxygen atmosphere toward the end‐Cretaceous; a possible contributing factor to the K/T boundary extinctions and to the emergence of C4 species](http://jxb.oxfordjournals.org/content/52/357/801.full)", J. Exp. Bot. (2001) 52 (357): 801-809.{{< altmetric doi="10.1093/jexbot/52.357.801" >}}
 2. <span id="ref-2"></span>Dudely, R. "[ATMOSPHERIC OXYGEN, GIANT PALEOZOIC INSECTS AND THE EVOLUTION OF AERIAL LOCOMOTOR PERFORMANCE](http://jeb.biologists.org/content/201/8/1043.full.pdf)", 1998, The Journal of Experimental Biology, 201, 1043–1050.
 3. <span id="ref-3"></span>{{< openbook booknumber="ISBN:9780143116042" templatenumber="5" >}}

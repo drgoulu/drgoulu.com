@@ -226,4 +226,4 @@ Alors continuez. Merci.
 
 ## Référence:
 
-1. Feynman, R. P. "What Is Science", 1969, The Physics Teacher, 7(6), 313. [doi:10.1119/1.2351388](http://scitation.aip.org/content/aapt/journal/tpt/7/6/10.1119/1.2351388)
+1. Feynman, R. P. "What Is Science", 1969, The Physics Teacher, 7(6), 313.{{< altmetric doi="10.1119/1.2351388" >}}

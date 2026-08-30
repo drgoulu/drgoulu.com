@@ -19,7 +19,7 @@ En effet, dès la lecture de cet article découvert en décembre passé grâce �
 
 > Subject : Nomination : The Neural Bases of Disgust for Cheese
 > 
-> Dear Improbable Research, I'd like to propose the nomination of Jean-Pierre Royet and his coauthors of the paper [http://dx.doi.org/10.3389/fnhum.2016.00511](http://dx.doi.org/10.3389/fnhum.2016.00511) (attached) for an Ig Nobel prize. For years I cooked cheese fondue for my disgusted sicilian brother-in-law in a cultural assimilation attempt, but from now on I'll do it just for fun :-) Best regards
+> Dear Improbable Research, I'd like to propose the nomination of Jean-Pierre Royet and his coauthors of the paper{{< altmetric doi="10.3389/fnhum.2016.00511" >}} (attached) for an Ig Nobel prize. For years I cooked cheese fondue for my disgusted sicilian brother-in-law in a cultural assimilation attempt, but from now on I'll do it just for fun :-) Best regards
 
 et reçu cette réponse quelques heures plus tard:
 

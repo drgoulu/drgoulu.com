@@ -51,6 +51,6 @@ Ce que je trouve génial
 ### Références
 
 1. <span id="ref-1"></span>[John Shier](http://www.john-art.com/) "Fractalize That : a Visual Essay on Statistical Geometry", 2014 (disponible sur demande auprès de l'auteur)
-2. <span id="ref-2"></span>[John Shier](http://www.john-art.com/), Paul Bourke "[An Algorithm for Random Fractal Filling of Space](http://paulbourke.net/papers/shier2013/)", 2013, Computer Graphics Forum. The Eurographics Association and John Wiley & Sons Ltd. [doi: 10.1111/cgf.12163](https://dx.doi.org/10.1111/cgf.12163)
+2. <span id="ref-2"></span>[John Shier](http://www.john-art.com/), Paul Bourke "[An Algorithm for Random Fractal Filling of Space](http://paulbourke.net/papers/shier2013/)", 2013, Computer Graphics Forum. The Eurographics Association and John Wiley & Sons Ltd.{{< altmetric doi="10.1111/cgf.12163" >}}
 3. <span id="ref-3"></span>[John Shier](http://www.john-art.com/), "[Wallpaper Groups and Statistical Geometry](http://john-art.com/wallpaper_symmetry_v2.pdf)", 2015
 4. <span id="ref-4"></span>Christopher Ennis "(Always) Room for One More", [2016, Math Horizons, february](http://www.maa.org/math-horizons-contents-february-2016)

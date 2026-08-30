@@ -48,4 +48,4 @@ C'est pourquoi je reste très sceptique face à ces admirables et très respecta
 
 ### Références
 
-1. <span id="ref-1"></span>M Buser, E Kajari and W P Schleich "Visualization of the Gödel universe'", 2013 New J. Phys. 15 013063)  DOI [10.1088/1367-2630/15/1/013063](https://dx.doi.org/10.1088/1367-2630/15/1/013063) ([video abstract](https://www.youtube.com/watch?v=078jOiaevAQ))
+1. <span id="ref-1"></span>M Buser, E Kajari and W P Schleich "Visualization of the Gödel universe'", 2013 New J. Phys. 15 013063){{< altmetric doi="10.1088/1367-2630/15/1/013063" >}} ([video abstract](https://www.youtube.com/watch?v=078jOiaevAQ))
