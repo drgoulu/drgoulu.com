@@ -48,7 +48,11 @@ Pour créer un site, on tape dans un shell :
 npm install -g hugoblox
 hugoblox create site{{< /highlight >}}
 
-et on remplit les champs, et on obtient un dossier de projet avec tout ce qu'il faut dedans. Il n'y a plus qu'à écrire des articles en [Markdown](w:), un format de texte enrichi autrefois réservé à de simples fichiers readme.md qui devient très à la mode avec les IA.
+et on remplit les champs, et on obtient un dossier de projet avec tout ce qu'il faut dedans.
+
+C'est tout.
+
+Il n'y a plus qu'à écrire des articles en [Markdown](w:), un format de texte enrichi autrefois réservé à de simples fichiers readme.md qui devient très à la mode avec les IA.
 
 A ce moment, il devient très naturel de gérer toutes les modifications apportées au site dans un dépôt git pour être sur de NE PLUS JAMAIS RIEN PERDRE.
 
@@ -90,7 +94,11 @@ Et il fait un rendu un peu intermédiaire, certaines choses étant wysiwyg et d'
 
 ![](/uploads/cloudcannon.png)
 
+### Les Shortcodes
+
 La difficulté tient aux "shortcodes" qui permettent d'étendre Markdown pour afficher du code formaté, des videos YouTube etc.
+
+## LA MIGRATION
 
 ### IA = Indispensable Assistant
 
