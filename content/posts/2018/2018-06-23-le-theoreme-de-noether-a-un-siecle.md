@@ -102,11 +102,11 @@ Voilà donc une 4ème et excellente raison de [dire "Non au mouvement perpétuel
 ## Références
 
 1. <span id="ref-1"></span>Lavoisier, Traité élémentaire de chimie , 1789
-2. <span id="ref-2"></span>{{< altmetric doi="10.1051/jphystap:018940030039300" float="right" >}}Pierre Curie, « Sur la symétrie dans les phénomènes physiques : Symétrie d’un champ électrique et d’un champ magnétique », Journal de Physique théorique et appliquée, 3e série, vol. 3,‎ septembre 1894, p. 393-417 DOI>[10.1051/jphystap:018940030039300](http://dx.doi.org/10.1051/jphystap:018940030039300)
+2. <span id="ref-2"></span>Pierre Curie, « Sur la symétrie dans les phénomènes physiques : Symétrie d’un champ électrique et d’un champ magnétique », Journal de Physique théorique et appliquée, 3e série, vol. 3,‎ septembre 1894, p. 393-417 {{< altmetric doi="10.1051/jphystap:018940030039300" >}}
 3. <span id="ref-3"></span>Noether, E.. "Invariante Variationsprobleme." Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen, Mathematisch-Physikalische Klasse 1918 (1918): 235-257. <http://eudml.org/doc/59024>.
 4. <span id="ref-4"></span>Kosman-Schwarzbach, Y. (2004). Les théorèmes de Noether : invariance et lois de conservation au XXe siècle (avec une traduction de l’article original : “ Invariante Variationsprobleme ”). \_Book. Éd. de l’École polytechnique. Retrieved from http://www.editions.polytechnique.fr/?recherche=&keywords=noether&Submit=OK
-5. <span id="ref-5"></span>{{< altmetric doi="10.1080/00411457108231446" float="right" >}}Noether, E., & Tavel, M. A. (2005). Invariant Variation Problems. DOI>[10.1080/00411457108231446](https://doi.org/10.1080/00411457108231446)
-6. <span id="ref-6"></span>{{< altmetric doi="10.1007/978-0-387-87868-3" float="right" >}}Kosmann-Schwarzbach, Y. (2011). The Noether Theorems. (J. Z. Buchwald, J. L. Berggren, C. Fraser, T. Sauer, & A. Shapiro, Eds.), \_Book. Springer.DOI>[10.1007/978-0-387-87868-3](https://doi.org/10.1007/978-0-387-87868-3)
+5. <span id="ref-5"></span>Noether, E., & Tavel, M. A. (2005). Invariant Variation Problems. {{< altmetric doi="10.1080/00411457108231446" >}}
+6. <span id="ref-6"></span>Kosmann-Schwarzbach, Y. (2011). The Noether Theorems. (J. Z. Buchwald, J. L. Berggren, C. Fraser, T. Sauer, & A. Shapiro, Eds.), \_Book. Springer. {{< altmetric doi="10.1007/978-0-387-87868-3" >}}
 7. <span id="ref-7"></span>Philippe Etchecopar, "Emmy Noether, mathématicienne (1882-1935)"
 8. <span id="ref-8"></span>Irène, "[Emmy Noether, mathématicienne de génie.](https://www.podcastscience.fm/dossiers/2018/03/02/emmy-noether-mathematicienne-de-genie/)" sur Podcast Science
 9. <span id="ref-9"></span>http://www.cafe-sciences.org/?s=noether

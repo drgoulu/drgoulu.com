@@ -75,7 +75,7 @@ Voilà, je voulais essayer de parler de nucléaire de manière totalement object
 3. <span id="ref-3"></span>"[La chaleur radioactive de la Terre chiffrée](http://www.pourlascience.fr/ewb_pages/a/actu-chaleur-interne-de-la-terre-la-radioactivite-compte-pour-moitie-27249.php)", 2011, Actualité Pour La Science
 4. <span id="ref-4"></span>[L'irradiation naturelle en 10 épisodes](http://www.sfmn.org/images/pdf/GroupesDeTravail/GT_Radioprotection/Irradiation_naturelle_en_10_episodes.pdf), Société Française de Radioprotection (très bonne synthèse illustrée)
 5. <span id="ref-5"></span>"[Naturally-Occurring Radioactive Materials (NORM)](http://www.world-nuclear.org/information-library/safety-and-security/radiation-and-health/naturally-occurring-radioactive-materials-norm.aspx)" World Nuclear Association
-6. <span id="ref-6"></span>{{< altmetric pmid="11769138" float="right" >}}Ghiassi-nejad, M;  Mortazavi, S M J;  Cameron, J R;  Niroomand-rad, A;  Karam, P A "[Very high background radiation areas of Ramsar, Iran: preliminary biological studies.](http://www.probeinternational.org/Ramsar.pdf)" (2002) Health physics vol. 82 (1) p. 87-93
+6. <span id="ref-6"></span>Ghiassi-nejad, M;  Mortazavi, S M J;  Cameron, J R;  Niroomand-rad, A;  Karam, P A "[Very high background radiation areas of Ramsar, Iran: preliminary biological studies.](http://www.probeinternational.org/Ramsar.pdf)" (2002) Health physics vol. 82 (1) p. 87-93 {{< altmetric pmid="11769138" >}}
 
 ### Autres sources:
 

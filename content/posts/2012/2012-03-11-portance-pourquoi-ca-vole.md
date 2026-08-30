@@ -54,6 +54,6 @@ Si ce court résumé vous a intéressé, ne manquez pas de lire les 3 articles c
 5. <span id="ref-5"></span>Johan Hoffman, Johan Jansson, Claes Johnson, "[The Secret of Flight](http://www.e-booksdirectory.com/details.php?ebook=3134)", 2008 ([pdf](http://www.nada.kth.se/~cgjoh/ambsflying.pdf))
 6. <span id="ref-6"></span>Sonar, T. (2011). [Turbulences sur les équations des fluides](https://www.pourlascience.fr/sd/mathematiques/turbulences-sur-les-equations-des-fluides-3772.php). Pour la Science, (403)
 7. <span id="ref-7"></span>Carlson, J., Jaffe, A., & Wiles, A. (2006)."[The Millennium Prize Problems](http://www.claymath.org/library/monographs/MPPc.pdf)". Clay Mathematics Institute + American Mathematical Society
-8. <span id="ref-8"></span>{{< altmetric doi="http://dx.doi.org/10.1007/s00021-015-0220-y" float="right" >}}(ajout 26/9/2016) Hoffman, J., Jansson, J. & Johnson, C. "New Theory of Flight" J. Math. Fluid Mech. (2016) 18: 219. [doi:10.1007/s00021-015-0220-y](http://dx.doi.org/10.1007/s00021-015-0220-y)
+8. <span id="ref-8"></span>(ajout 26/9/2016) Hoffman, J., Jansson, J. & Johnson, C. "New Theory of Flight" J. Math. Fluid Mech. (2016) 18: 219. {{< altmetric doi="10.1007/s00021-015-0220-y" >}}
 
 Ces références, plus certaines apparaissant à la fin de l'article de Fred, plus d'autres encore sont regroupées dans le groupe [Aero-hydro](http://www.mendeley.com/groups/493051/aero-hydro/papers/) sur Mendeley. Je vous causerai de cette chose très bientôt.

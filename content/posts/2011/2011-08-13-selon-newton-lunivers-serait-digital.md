@@ -35,6 +35,6 @@ Note: titre changé le 8.8.18 de "... digital" en "... discret" car effectivemen
 
 ### Références:
 
-1. <span id="ref-1"></span>{{< altmetric arxiv="1106.2541v1" float="right" >}}Jarmo Mäkelä, "[Is Reality Digital or Analog?](http://fqxi.org/data/essay-contest-files/Mkel_FQxiessay.pdf)", FQXi 2011
+1. <span id="ref-1"></span>Jarmo Mäkelä, "[Is Reality Digital or Analog?](http://fqxi.org/data/essay-contest-files/Mkel_FQxiessay.pdf)", FQXi 2011 {{< altmetric arxiv="1106.2541v1" >}}
 2. <span id="ref-2"></span>George Musser "[Is Reality Digital or Analog?](http://blogs.scientificamerican.com/observations/2011/06/14/is-reality-digital-or-analog-read-the-essays-and-cast-your-vote/ "Permanent Link to Is Reality Digital or Analog? Read the Essays and Cast your Vote")" sur le blog Scientific American
 3. <span id="ref-3"></span>"[Interview with Jarmo Mäkelä, the FQXI winner.](http://zone-reflex.blogspot.com/2011/06/intervju-with-jarmo-makela-fqxi-winner.html)" sur Zone-Reflex

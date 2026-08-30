@@ -81,8 +81,8 @@ C'est donc du grand art mathématique. De l'art très abstrait, mais désormais 
 
 ### Références
 
-1. <span id="ref-1"></span>{{< altmetric doi="10.1007/BFb0084741" float="right" >}}Urs Würgler "[Morava K-theories-a-survey](/wp-content/uploads/2016/11/Wurgler-Morava-K-theories-A-survey.pdf)" 2006, in Lecture Notes in Mathematics Vol. 1474 (pp. 111–138). Springer Berlin Heidelberg. DOI : [10.1007/BFb0084741](http://doi.org/10.1007/BFb0084741)
-2. <span id="ref-2"></span>{{< altmetric doi="10.1007/BF02621900" float="right" >}}Urs Würgler "Commutative ring-spectra of characteristic 2", 1986. Commentarii Mathematici Helvetici, 61(1), 33–45 DOI:[10.1007/BF02621900](http://doi.org/10.1007/BF02621900)
+1. <span id="ref-1"></span>Urs Würgler "[Morava K-theories-a-survey](/wp-content/uploads/2016/11/Wurgler-Morava-K-theories-A-survey.pdf)" 2006, in Lecture Notes in Mathematics Vol. 1474 (pp. 111–138). Springer Berlin Heidelberg. {{< altmetric doi="10.1007/BFb0084741" >}}
+2. <span id="ref-2"></span>Urs Würgler "Commutative ring-spectra of characteristic 2", 1986. Commentarii Mathematici Helvetici, 61(1), 33–45 {{< altmetric doi="10.1007/BF02621900" >}}
 
 ### Notes
 

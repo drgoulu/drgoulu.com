@@ -29,7 +29,7 @@ Note\* : finalement, j'ai craqué ...
 ## Références
 
 1. <span id="ref-1"></span>[What is at the bottom of a black hole](https://www.quora.com/What-is-at-the-bottom-of-a-black-hole) sur Quora
-2. <span id="ref-2"></span>{{< altmetric doi="10.1007/978-3-540-49535-2_1" float="right" >}}Luminet, J.-P. (1998). Black Holes : A General Introduction. arXiv. DOI>[10.1007/978-3-540-49535-2\_1](http://doi.org/10.1007/978-3-540-49535-2_1)
+2. <span id="ref-2"></span>Luminet, J.-P. (1998). Black Holes : A General Introduction. arXiv. {{< altmetric doi="10.1007/978-3-540-49535-2_1" >}}
 3. <span id="ref-3"></span>Bec Crew "[The Case For Black Holes Being Nothing But Holograms Just Got Even Stronger - Holy crap!](https://www.sciencealert.com/the-case-for-black-holes-being-nothing-but-holographic-images-just-got-stronger)", ScienceAlert, 1 Juin 2016
-4. <span id="ref-4"></span>{{< altmetric doi="10.1103/PhysRevLett.116.211301" float="right" >}}Oriti, D., Pranzetti, D., & Sindoni, L. (2016). Horizon Entropy from Quantum Gravity Condensates. Physical Review Letters, 116(21), 211301.  DOI>[10.1103/PhysRevLett.116.211301](http://doi.org/10.1103/PhysRevLett.116.211301)
+4. <span id="ref-4"></span>Oriti, D., Pranzetti, D., & Sindoni, L. (2016). Horizon Entropy from Quantum Gravity Condensates. Physical Review Letters, 116(21), 211301. {{< altmetric doi="10.1103/PhysRevLett.116.211301" >}}
 5. <span id="ref-5"></span>https://www.quantum-bits.org/?p=963

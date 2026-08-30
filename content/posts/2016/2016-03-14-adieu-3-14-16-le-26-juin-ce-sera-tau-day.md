@@ -39,7 +39,7 @@ Le "Tau manifesto" [[2]](#ref-2) de Michael Hartl donne pas mal de bonnes rai
 
 ### Références:
 
-1. <span id="ref-1"></span>{{< altmetric doi="10.1007/BF03026846" float="right" popover="right" >}}[Bob Palais](http://www.math.utah.edu/~palais), “[π is wrong!](http://www.math.utah.edu/~palais/pi.pdf)”, 2001, The Mathematical Intelligencer, Volume 23, Number 3, 2001, pp. 7-8. [DOI 10.1007/BF03026846](http://doi.org/10.1007/BF03026846)
+1. <span id="ref-1"></span>[Bob Palais](http://www.math.utah.edu/~palais), “[π is wrong!](http://www.math.utah.edu/~palais/pi.pdf)”, 2001, The Mathematical Intelligencer, Volume 23, Number 3, 2001, pp. 7-8. {{< altmetric doi="10.1007/BF03026846" >}}
     
 2. <span id="ref-2"></span>Michael Hartl "[Tau manifesto](http://tauday.com/tau-manifesto)", 26 juin 2010
 3. <span id="ref-3"></span>Peter Harremoës "[Al-Kashi’s constant τ](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.html)", 2012

@@ -74,5 +74,5 @@ Note\* : en fait c'est fortement suspecté et Bailey et Crandall ont proposé en
 
 ## Références
 
-1. <span id="ref-1"></span>{{< altmetric doi="10.1080/10586458.2001.10504441" align="right" >}} David H. Bailey and Richard E. Crandall "[On the Random Character of Fundamental Constant Expansions](http://www.davidhbailey.com/dhbpapers/bcrandom.pdf)", Experiment. Math. Volume 10, Issue 2 (2001), 175-190. [DOI 10.1080/10586458.2001.10504441](http://doi.org/10.1080/10586458.2001.10504441)
+1. <span id="ref-1"></span>David H. Bailey and Richard E. Crandall "[On the Random Character of Fundamental Constant Expansions](http://www.davidhbailey.com/dhbpapers/bcrandom.pdf)", Experiment. Math. Volume 10, Issue 2 (2001), 175-190. {{< altmetric doi="10.1080/10586458.2001.10504441" >}}
 2. <span id="ref-2"></span>"[mots de De Brujin](http://jean-paul.davalan.pagesperso-orange.fr/divers/debruijn/index.html)" sur Jeux et Mathématiques (avec un générateur en ligne acceptant les lettres)

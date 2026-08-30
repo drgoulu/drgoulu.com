@@ -13,7 +13,9 @@ tags:
 coverImage: "9a4b749b91985103ade9dc84ffb1c4811.jpg"
 ---
 
-Comme ["Autour des Sciences" a été le plus rapide](http://sciences.blog.lemonde.fr/2008/10/03/le-palmares-des-ig-nobels/) cette année à lister les lauréats du prix igNobel 2008, je me contente de traduire en français pour vous l'abstract de l'article "Effets du cycle ovulatoire sur les pourboires des strip-teaseuses: une preuve économique de l'œstrus humain ?" lauréat en "économie" : \[altmetric doi="10.1016/j.evolhumbehav.2007.06.002" float="right"\] [![ResearchBlogging.org](images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org) Geoffrey Miller, Joshua M. Tybur, & Brent D. Jordanie (2007). Ovulatory cycle effects on tip earnings by lap dancers:economic evidence for human estrus? Evolution and Human Behaviour, 28 (6), 375-381 DOI: [10.1016/j.evolhumbehav.2007.06.002](http://dx.doi.org/10.1016/j.evolhumbehav.2007.06.002) [(pdf)](http://www.unm.edu/~gfmiller/cycle_effects_on_tips.pdf)
+Comme ["Autour des Sciences" a été le plus rapide](http://sciences.blog.lemonde.fr/2008/10/03/le-palmares-des-ig-nobels/) cette année à lister les lauréats du prix igNobel 2008, je me contente de traduire en français pour vous l'abstract de l'article "Effets du cycle ovulatoire sur les pourboires des strip-teaseuses: une preuve économique de l'œstrus humain ?" lauréat en "économie" :  
+
+Geoffrey Miller, Joshua M. Tybur, & Brent D. Jordanie (2007). Ovulatory cycle effects on tip earnings by lap dancers:economic evidence for human estrus? Evolution and Human Behaviour, 28 (6), 375-381 {{< altmetric doi="10.1016/j.evolhumbehav.2007.06.002" >}} [(pdf)](http://www.unm.edu/~gfmiller/cycle_effects_on_tips.pdf)
 
 {{< figure src="images/9a4b749b91985103ade9dc84ffb1c481.jpg" alt="strip-tease par puss-in-boots sur flickr" caption="&quot;strip-tease&quot; par puss-in-boots sur flickr" link="http://www.flickr.com/photos/puss_in_boots/142728242/" width="240" >}}
 

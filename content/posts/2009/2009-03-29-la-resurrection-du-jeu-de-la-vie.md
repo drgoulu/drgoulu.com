@@ -60,7 +60,7 @@ J'adore les rubriques de Jean-Paul Delahaye dans "Pour la Science". Surtout cell
 
 1. <span id="ref-1"></span>Jean-Paul Delahaye "[Le royaume du Jeu de la vie](http://www.pourlascience.fr/ewb_pages/f/fiche-article-le-royaume-du-jeu-de-la-vie-20905.php)", Pour la Science, avril 2009, p. 86-91
 2. <span id="ref-2"></span>Tomas G. Rokicki "[An Algorithm for Compressing Space and Time](http://drdobbs.com/high-performance-computing/184406478)", Dr. Dobbs Journal, avril 2006
-3. <span id="ref-3"></span>{{< altmetric doi="10.1016/0167-2789(84)90251-3" float="right" >}}William Gosper "Exploiting Regularities in Large Cellular Spaces", 1984, Physica D. Nonlinear Phenomena, Vol 10, pp. 75-80  [DOI : 10.1016/0167-2789(84)90251-3](https://doi.org/10.1016/0167-2789\(84\)90251-3)
+3. <span id="ref-3"></span>William Gosper "Exploiting Regularities in Large Cellular Spaces", 1984, Physica D. Nonlinear Phenomena, Vol 10, pp. 75-80 {{< altmetric doi="10.1016/0167-2789(84)90251-3" >}}
 4. <span id="ref-4"></span>Paul Rendell " [a Turing Machine implemented in Conway's Game of Life](http://rendell-attic.org/gol/tm.htm)", 2000
 5. <span id="ref-5"></span>Paul Callahan "Wonders of Math : [What is the Game of Life?](http://www.math.com/students/wonders/life/life.html)" sur Math.com
 6. <span id="ref-6"></span>[Game of Life News](http://pentadecathlon.com/lifeNews/index.php), un blog dédié aux nouvelles découvertes sur le Jeu de la Vie

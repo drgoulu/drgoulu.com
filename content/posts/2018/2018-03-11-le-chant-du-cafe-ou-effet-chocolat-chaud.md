@@ -19,6 +19,6 @@ Ce [commentaire de Bugraptor](https://leblogducuk.ch/2018/02/05/open-bar-de-fevr
 
 {{< youtube id="6l8sHivIaIs" width="640" >}}
 
-1. \[altmetric doi="10.1119/1.13080" float="right"\]Crawford, F. S. (1982). The hot chocolate effect. American Journal of Physics, 50(5), 398–404. DOI > [10.1119/1.13080](https://doi.org/10.1119/1.13080) 
+1. Crawford, F. S. (1982). The hot chocolate effect. American Journal of Physics, 50(5), 398–404. {{< altmetric doi="10.1119/1.13080" >}} 
 2. https://questions2physique.wordpress.com/2012/02/29/les-tasses-musicales/
 3. https://physics.stackexchange.com/questions/109530/does-sound-gets-faster-when-air-bubble-is-supend-in-water

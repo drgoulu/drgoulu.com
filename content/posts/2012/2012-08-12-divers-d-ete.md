@@ -58,7 +58,7 @@ Sinon, mes collègues C@fetiers de [http://blog.idphys.fr/](http://blog.idphys.
 
 ### Références :
 
-1. <span id="ref-1"></span>{{< altmetric doi="10.1126/science.1121879" float="right" >}} Terry L. Hunt et Carl P. Lipo, "Late Colonization of Easter Island", 2006, Science, Vol. 311 no. 5767 pp. 1603-1606 , [DOI: 10.1126/science.1121879](http://www.sciencemag.org/content/311/5767/1603)
+1. <span id="ref-1"></span> Terry L. Hunt et Carl P. Lipo, "Late Colonization of Easter Island", 2006, Science, Vol. 311 no. 5767 pp. 1603-1606 {{< altmetric doi="10.1126/science.1121879" >}}
 2. <span id="ref-2"></span>William McDonough, John Learned et Stephen Dye, "[Des neutrinos pour sonder l'intérieur de la Terre](http://www.pourlascience.fr/ewb_pages/f/fiche-article-des-neutrinos-pour-sonder-l-interieur-de-la-terre-30196.php)", Pour la Science, N°418, août 2012, p 42-49
 3. <span id="ref-3"></span>Jean-Paul Delahaye, "[Combiner des pertes pour gagner](http://www.pourlascience.fr/ewb_pages/f/fiche-article-combiner-des-pertes-pour-gagner-30211.php)", Pour la Science, N°418, août 2012, p 82-87
 4. <span id="ref-4"></span>Jean-Michel Courty et Eduard Kierlik "[Pourquoi le ciel n'est pas bleu](http://www.pourlascience.fr/ewb_pages/f/fiche-article-pourquoi-le-ciel-n-est-pas-bleu-30214.php)", Pour la Science, N°418, août 2012, p 90-91

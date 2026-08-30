@@ -31,4 +31,4 @@ La stupidité productive implique d'être ignorant par choix. Nous concentrer 
 
 ## Référence du texte original
 
-1. \[altmetric doi="10.1242/jcs.033340" float="right"\]Martin A. Schwartz, "[The importance of stupidity in scientific research](http://jcs.biologists.org/content/121/11/1771.full)", Journal of Cell Science 121,1771 doi: 10.1242/jcs.033340
+1. Martin A. Schwartz, "[The importance of stupidity in scientific research](http://jcs.biologists.org/content/121/11/1771.full)", Journal of Cell Science 121,1771 {{< altmetric doi="10.1242/jcs.033340" >}}

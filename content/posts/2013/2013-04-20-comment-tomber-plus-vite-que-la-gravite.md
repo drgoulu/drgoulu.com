@@ -37,4 +37,4 @@ La science qui nous permet de construire des ponts et des avions, d'envoyer des 
 
 ### Référence
 
-1. \[altmetric doi="10.1119/1.3583481" float="right"\]Grewal, A., Johnson, P., & Ruina, A. "[A chain that speeds up, rather than slows, due to collisions: How compression can cause tension](http://ruina.tam.cornell.edu/research/topics/fallingchains/chain_paperV13revised.pdf)" 2011, American Journal of Physics, 79 (7) DOI: [10.1119/1.3583481](http://dx.doi.org/10.1119/1.3583481)
+1. Grewal, A., Johnson, P., & Ruina, A. "[A chain that speeds up, rather than slows, due to collisions: How compression can cause tension](http://ruina.tam.cornell.edu/research/topics/fallingchains/chain_paperV13revised.pdf)" 2011, American Journal of Physics, 79 (7) {{< altmetric doi="10.1119/1.3583481" >}}

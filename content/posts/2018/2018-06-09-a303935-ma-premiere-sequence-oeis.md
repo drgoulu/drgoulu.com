@@ -55,5 +55,5 @@ En passant, ce problème était mon 100ème résolu, ce qui fait que je suis pas
 
 ## Référence
 
-1. \[altmetric doi="10.1017/S0025557200174996" float="right"\] Gupta, S. S. (2004). 88.31 Sum of the factorials of the digits of integers. The Mathematical Gazette, 88(512), 258–261.  DOI>[10.1017/S0025557200174996](http://doi.org/10.1017/S0025557200174996)
+1. Gupta, S. S. (2004). 88.31 Sum of the factorials of the digits of integers. The Mathematical Gazette, 88(512), 258–261. {{< altmetric doi="10.1017/S0025557200174996" >}}
 2. Ph. Guglielmetti, Sequence [A303935](https://oeis.org/A303935) in _The On-Line Encyclopedia of Integer Sequences_ (2018), published electronically at [https://oeis.org](https://oeis.org/).

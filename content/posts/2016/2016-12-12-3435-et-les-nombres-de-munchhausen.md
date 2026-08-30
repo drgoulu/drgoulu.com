@@ -37,4 +37,4 @@ Note : \* Idée pour un conte : expliquer comment le Baron de Münchhausen a h
 ### Références:
 
 1. <span id="ref-1"></span>John D. Cook "[Munchausen Numbers](http://www.johndcook.com/blog/2016/09/19/munchausen-numbers/)", 2009
-2. <span id="ref-2"></span>{{< altmetric arxiv="0911.3038" float="right" >}}Daan Van Berkel "[On a curious property of 3435](http://arxiv.org/pdf/0911.3038v2.pdf)", 2009, [arXiv:0911.3038v2](http://arxiv.org/abs/0911.3038)
+2. <span id="ref-2"></span>Daan Van Berkel "[On a curious property of 3435](http://arxiv.org/pdf/0911.3038v2.pdf)", 2009 {{< altmetric arxiv="0911.3038" >}}

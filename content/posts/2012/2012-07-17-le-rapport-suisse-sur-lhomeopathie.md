@@ -30,7 +30,7 @@ De plus ce rapport n'a apparemment pas été traduit dans une langue officielle 
 
 N'étant ni docteur en médecine ni traducteur certifié, ce travail est l'oeuvre d'un [traduttore traditore](w:Traduttore,_traditore) amateur assisté de deux relecteurs bénévoles (merci à Marc et David). Veuillez donc vous référer à l'article original en cas de doute.
 
-\[altmetric doi=" 10.4414/smw.2012.13594" float="right"\] Référence de l'article original : [![ResearchBlogging.org](images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org) David Martin Shaw (2012). The Swiss report on homeopathy: a case study of research misconduct Swiss Medical Weekly (142) DOI: [10.4414/smw.2012.13594](http://dx.doi.org/10.4414/smw.2012.13594)
+ Référence de l'article original : [![ResearchBlogging.org](images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org) David Martin Shaw (2012). The Swiss report on homeopathy: a case study of research misconduct Swiss Medical Weekly (142) {{< altmetric doi="10.4414/smw.2012.13594" >}}
 
 ## Le rapport suisse sur l'homéopathie : une étude de cas d'inconduite\* en recherche
 

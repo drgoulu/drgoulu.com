@@ -27,5 +27,5 @@ http://www.passeportsante.net/fr/Solutions/PlantesSupplements/Fiche.aspx?doc=lut
 
 ## Références
 
-1. <span id="ref-1"></span>{{< altmetric doi="10.1038/eye.2015.261" float="right" >}}O’Hagan, J. B., Khazova, M., & Price, L. L. A. "Low-energy light bulbs, computers, tablets and the blue light hazard", 2016. Eye, 30(2), 230–233. [DOI > 10.1038/eye.2015.261](http://doi.org/10.1038/eye.2015.261)
+1. <span id="ref-1"></span>O’Hagan, J. B., Khazova, M., & Price, L. L. A. "Low-energy light bulbs, computers, tablets and the blue light hazard", 2016. Eye, 30(2), 230–233. {{< altmetric doi="10.1038/eye.2015.261" >}}
 2. <span id="ref-2"></span>Chew E, SanGiovanni J,  Ferris F,  Wong W, et. al. "Lutein/Zeaxanthin for the Treatment of Age-Related Cataract", 2013, JAMA Ophthalmology vol: 131 (7) pp: 843  https://www.ncbi.nlm.nih.gov/pubmed/23645227

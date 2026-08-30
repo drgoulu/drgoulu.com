@@ -60,7 +60,7 @@ En quelques années, on est passés de l'idée étonnante qu'il pouvait peut-êt
  
 
 1. <span id="ref-1"></span>Rachel Courtland "[Simulation shows stars form around black holes after all](http://www.newscientist.com/article/dn14582)", NewScientist.com, 21 August 2008
-2. <span id="ref-2"></span>{{< altmetric doi="10.1126/science.1160653" float="right" >}} I. A. Bonnell, W. K. M. Rice "Star Formation Around Supermassive Black Holes", Science  22 Aug 2008: Vol. 321, Issue 5892, pp. 1060-1062 DOI: [10.1126/science.1160653](http://science.sciencemag.org/content/321/5892/1060)
+2. <span id="ref-2"></span> I. A. Bonnell, W. K. M. Rice "Star Formation Around Supermassive Black Holes", Science  22 Aug 2008: Vol. 321, Issue 5892, pp. 1060-1062 {{< altmetric doi="10.1126/science.1160653" >}}
     
 3. <span id="ref-3"></span>David L Chandler "[Mysterious ring of stars guards Andromeda’s heart](http://www.newscientist.com/article/dn8025)", NewScientist.com 20 September 2005
 4. <span id="ref-4"></span>Didier Jamet "[Les trous noirs en jettent](http://www.cidehom.com/astronomie.php?_a_id=78)", Ciel des hommes, 29-01-2002

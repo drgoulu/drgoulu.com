@@ -40,4 +40,4 @@ https://futurism.com/ibm-just-achieved-a-deep-learning-breakthrough/
 
 ## Références
 
-1. <span id="ref-1"></span>{{< altmetric arxiv="1611.01989" float="right" >}}Balog, M., Gaunt, A. L., Brockschmidt, M., Nowozin, S., Tarlow, D.  "DeepCoder: Learning to Write Programs.", 2016,  [arXiv:1611.01989](http://arxiv.org/abs/1611.01989)
+1. <span id="ref-1"></span>Balog, M., Gaunt, A. L., Brockschmidt, M., Nowozin, S., Tarlow, D.  "DeepCoder: Learning to Write Programs.", 2016 {{< altmetric arxiv="1611.01989" >}}

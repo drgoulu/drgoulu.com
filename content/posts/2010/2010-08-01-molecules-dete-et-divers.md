@@ -2,10 +2,10 @@
 title: "Molécules d'été et divers"
 slug: "molecules-dete-et-divers"
 date: 2010-08-01
-categories: 
+categories:
   - "cat2"
   - "cat1"
-tags: 
+tags:
   - "biologie"
   - "chimie"
 coverImage: "41fc5fd4e31c34907ca2011dbb74ed61-1.gif"
@@ -34,5 +34,5 @@ Enfin, si vous avez une processeur à plus de 2 coeurs, vous n'avez plus aucune 
 ### Références
 
 1. <span id="ref-1"></span>Daniel Abegg, "les thermo TRP - des canaux ioniques sensibles à la température", 2009, Université de Genève ([pdf](https://perso.univ-rennes1.fr/francois.tiaho/L3-physio.%20G-tiaho/Bibliographie/thermorecepteurs/2009-Abegg-revue%20francaise%20TRP.pdf))
-2. <span id="ref-2"></span>{{< altmetric pmid="15847696" float="right" >}}David D McKemy, "How cold is it? TRPM8 and TRPA1 in the molecular logic of cold sensation", Molecular Pain 2005, 1:16 [PMID=15847696](https://www.ncbi.nlm.nih.gov/pubmed/15847696)
-3. <span id="ref-3"></span>{{< altmetric pmid="7448566" float="right" >}}M Lison, S H Blondheim, and R N Melmed "A polymorphism of the ability to smell urinary metabolites of asparagus.",Br Med J. 1980 December 20; 281(6256): 1676–1678 [PMID=7448566](https://www.ncbi.nlm.nih.gov/pubmed/7448566)
+2. <span id="ref-2"></span>David D McKemy, "How cold is it? TRPM8 and TRPA1 in the molecular logic of cold sensation", Molecular Pain 2005, 1:16 {{< altmetric pmid="15847696" >}}
+3. <span id="ref-3"></span>M Lison, S H Blondheim, and R N Melmed "A polymorphism of the ability to smell urinary metabolites of asparagus.",Br Med J. 1980 December 20; 281(6256): 1676–1678 {{< altmetric pmid="7448566" >}}

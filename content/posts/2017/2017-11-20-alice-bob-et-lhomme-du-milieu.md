@@ -73,4 +73,4 @@ S'il y a un prochain épisode aux aventures cryptographique d'Alice et Bob, ce s
 
 ## Références
 
-1. <span id="ref-1"></span>{{< altmetric doi="10.14722/ndss.2017.23456" float="right" >}}Durumeric Z, Ma Z, Springall D, Barnes R, Sullivan N et. al. "The Security Impact of HTTPS Interception" 2017, NDSS [DOI > 10.14722/ndss.2017.23456](http://dx.doi.org/10.14722/ndss.2017.23456) ([pdf](https://jhalderm.com/pub/papers/interception-ndss17.pdf)) ([video](https://www.youtube.com/watch?v=AXnDY07ydTo))
+1. <span id="ref-1"></span>Durumeric Z, Ma Z, Springall D, Barnes R, Sullivan N et. al. "The Security Impact of HTTPS Interception" 2017, NDSS {{< altmetric doi="10.14722/ndss.2017.23456" >}} ([pdf](https://jhalderm.com/pub/papers/interception-ndss17.pdf)) ([video](https://www.youtube.com/watch?v=AXnDY07ydTo))

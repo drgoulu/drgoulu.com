@@ -47,4 +47,4 @@ Le tableau exhibe aussi une jolie symétrie entre entre dimensions spatiales et 
 1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:9780470496510" templatenumber="5" >}}
 2. <span id="ref-2"></span>{{< openbook booknumber="OLID:OL20431791M" templatenumber="5" >}} (texte intégral en [français en pdf](http://www.ebooksgratuits.com/pdf/abbot_flatland.pdf))
 3. <span id="ref-3"></span>{{< openbook booknumber="ISBN:2904184201" templatenumber="5" >}}
-4. <span id="ref-4"></span>{{< altmetric doi="10.1088/0264-9381/14/4/002" float="right" >}}Max Tegmark, "[On the dimensionality of spacetime](http://arxiv.org/PS_cache/gr-qc/pdf/9702/9702052v2.pdf)", 1997, [arXiv:gr-qc/9702052v2](http://arxiv.org/abs/gr-qc/9702052v2), DOI [10.1088/0264-9381/14/4/002](http://arxiv.org/ct?url=http%3A%2F%2Fdx.doi.org%2F10%252E1088%2F0264-9381%2F14%2F4%2F002&v=6f2319a0)
+4. <span id="ref-4"></span>Max Tegmark, On the dimensionality of spacetime, , {{< altmetric arxiv="gr-qc/9702052v2" >}} {{< altmetric doi="10.1088/0264-9381/14/4/002" >}}

@@ -29,4 +29,4 @@ et finalement en posant: $$d = 2\left( a_x(b_y-c_y) + b_x(c_y-a_y) + c_x (a_y -
 
 $$\left\\{\begin{matrix} x = \[ a^2 (b_y-c_y) + b^2 (c_y-a_y) + c^2 (a_y-b_y)\]/d\\\\ y = \[ a^2 (c_x-b_x) + b^2 (a_x-c_x) + c^2 (b_x-a_x) \]/d \end{matrix}\right.$$
 
-\[altmetric doi="10.1109/38.41468" float="right"\]Ian Galton, "[An efficient three-point arc algorithm](http://petrified.ucsd.edu/~ispg-adm/pubs/j_icga_89_1.pdf)", 1989, IEEE Computer Graphics and Applications , Volume 9 Issue 6, doi:[10.1109/38.41468](http://dx.doi.org/10.1109/38.41468)
+Ian Galton, "[An efficient three-point arc algorithm](http://petrified.ucsd.edu/~ispg-adm/pubs/j_icga_89_1.pdf)", 1989, IEEE Computer Graphics and Applications , Volume 9 Issue 6 {{< altmetric doi="10.1109/38.41468" >}}

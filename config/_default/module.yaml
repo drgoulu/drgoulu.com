@@ -8,6 +8,7 @@ imports:
   - path: github.com/HugoBlox/kit/modules/integrations/netlify
   - path: github.com/HugoBlox/kit/modules/blox
   - path: github.com/goulu/openbook4hugo
+  - path: github.com/goulu/altmetric4hugo
 
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:

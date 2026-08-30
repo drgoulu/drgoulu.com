@@ -25,8 +25,6 @@ Ainsi, le cerveau nous donnerait un avantage adaptatif important en nous permett
 
 ### Références:
 
-1. <span id="ref-1"></span>{{< altmetric pmid="3905726" float="right" >}}Ingvar, D. H. ,"Memory of the future : an essay on the temporal organization of conscious awareness", 1985. Human neurobiology, 4(3), 127–36. [PMID:3905726](http://www.ncbi.nlm.nih.gov/pubmed/3905726)
-2. <span id="ref-2"></span>{{< altmetric doi="10.1093/acprof:oso/9780195161564.003.0001" float="right" >}}Tulving, E. (2005). Episodic Memory and Autonoesis: Uniquely Human? In H. S. Terrace & J. Metcalfe (Eds.), _The missing link in cognition: Origins of self-reflective consciousness_ (pp. 3-56). New York, NY, US: Oxford University Press.
-    
-    [doi>10.1093/acprof:oso/9780195161564.003.0001](https://psycnet.apa.org/doi/10.1093/acprof:oso/9780195161564.003.0001)
-3. <span id="ref-3"></span>{{< altmetric doi="10.1038/nrn2213" float="right" >}}Daniel L. Schacter, Donna Rose Addis and Randy L. Buckner, "Remembering the past to imagine the future: the prospective brain", Nature Reviews, Neuroscience volume 8, september 2007, 657 ([pdf](http://dericbownds.net/uploaded_images/schacter_memory.pdf)) [doi>10.1038/nrn2213](http://www.nature.com/nrn/journal/v8/n9/full/nrn2213.html)
+1. <span id="ref-1"></span>Ingvar, D. H. ,"Memory of the future : an essay on the temporal organization of conscious awareness", 1985. Human neurobiology, 4(3), 127–36. {{< altmetric pmid="3905726" >}}
+2. <span id="ref-2"></span>Tulving, E. (2005). Episodic Memory and Autonoesis: Uniquely Human? In H. S. Terrace & J. Metcalfe (Eds.), _The missing link in cognition: Origins of self-reflective consciousness_ (pp. 3-56). New York, NY, US: Oxford University Press. {{< altmetric doi="10.1093/acprof:oso/9780195161564.003.0001" >}}
+3. <span id="ref-3"></span>Daniel L. Schacter, Donna Rose Addis and Randy L. Buckner, "Remembering the past to imagine the future: the prospective brain", Nature Reviews, Neuroscience volume 8, september 2007, 657 ([pdf](http://dericbownds.net/uploaded_images/schacter_memory.pdf)) {{< altmetric doi="10.1038/nrn2213" >}}

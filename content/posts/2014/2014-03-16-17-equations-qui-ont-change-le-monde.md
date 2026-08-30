@@ -70,5 +70,5 @@ Peut-être que Stewart aurait pu ajouter l'équation du Page Rank de Google ou c
 ### Références:
 
 1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:222113334X" templatenumber="5" >}}
-2. <span id="ref-2"></span>{{< altmetric doi="10.1023/a:1013398801813" float="right" >}}W. S. Koon, M. W. Lo, J. E. Marsden, S.D. Ross, “[Resonance and Capture of Jupiter Comets](http://www.cds.caltech.edu/~koon/papers/comet_paper.pdf)” 2001, in "Dynamics of Natural and Artificial Celestial Bodies", Springer DOI > [10.1023/a:1013398801813](http://dx.doi.org/10.1023/a:1013398801813)
+2. <span id="ref-2"></span>W. S. Koon, M. W. Lo, J. E. Marsden, S.D. Ross, “[Resonance and Capture of Jupiter Comets](http://www.cds.caltech.edu/~koon/papers/comet_paper.pdf)” 2001, in "Dynamics of Natural and Artificial Celestial Bodies", Springer {{< altmetric doi="10.1023/a:1013398801813" >}}
 3. <span id="ref-3"></span>Max Nisen, "[The 17 Equations That Changed The Course Of Humanity](http://www.businessinsider.com/17-equations-that-changed-the-world-2013-1?op=1)", 2013, Business Insider

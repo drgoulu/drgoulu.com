@@ -2,9 +2,9 @@
 title: "Perlisismes : les dictons informatiques d'Alan Perlis"
 slug: "perlisismes-les-dictons-informatiques-dalan-perlis"
 date: 2008-01-21
-categories: 
+categories:
   - "cat2"
-tags: 
+tags:
   - "humour"
   - "informatique"
   - "programmation"
@@ -95,7 +95,7 @@ En préparant un autre article, je suis tombé sur quelques citations d'[Alan Pe
 - Un langage de programmation est "bas niveau" quand il nécessite de faire attention à ce qui n'a aucune importance.
 - Un bon système ne peut pas avoir un langage de commande faible.
 - Si quelqu'un dit "je veux un langage de programmation dans lequel je n'aurais qu'à dire ce qui doit être fait", donnez lui une sucette.
-- Alors que les chinois devraient adorer [APL](w:APL_(language)), ils investissent dans FORTRAN.
+- Alors que les chinois devraient adorer [APL](<w:APL_(language)>), ils investissent dans FORTRAN.
 - Un programmeur LISP connait la valeur de tout, mais le cout (cost) de rien.
 - Au cours des siècles, les Indiens ont développé un langage de signes pour communiquer des phénomènes intéressants. les programmeurs des différentes tribus (FORTRAN, LISP, ALGOL, SNOBOL, etc.) auraient pu en utiliser un pour éviter de transporter un tableau noir sur leur poneys.
 
@@ -109,7 +109,7 @@ En préparant un autre article, je suis tombé sur quelques citations d'[Alan Pe
 - Enseigner la programmation va à l'encontre de l'éducation moderne : Quel est le plaisir à planifier, se discipliner à organiser ses pensées, faire attention aux détails et apprendre à être autocritique ?
 - On n'apprend pas l'informatique avec une calculatrice de poche, mais on peut oublier l'arithmétique.
 - La plupart des gens trouvent le concept de la programmation évident, mais la réalisation impossible.
-- Tout le monde peut apprendre à sculpter : on aurait du dire à [Michel-Ange](w:) comment ne pas le faire.  C'est la même chose avec les grands programmeurs. _(édité le 23.11.11 à partir de WikiQuote)_
+- Tout le monde peut apprendre à sculpter : on aurait du dire à [Michel-Ange](w:) comment ne pas le faire.  C'est la même chose avec les grands programmeurs. *(édité le 23.11.11 à partir de WikiQuote)*
 - Vous croyez savoir quand vous apprenez, vous en êtes sur quand vous écrivez, persuadé quand vous enseignez, mais certain seulement quand vous programmez.
 
 ## Jeux de mots intraduisibles
@@ -123,4 +123,4 @@ Vous trouverez encore sur [cette page quelques "perlisisms" en anglais](http://w
 
 ## Référence :
 
-1. \[altmetric doi="10.1145/947955.1083808" float="right"\]Alan J. Perlis "[Epigrams on Programming](http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)", SIGPLAN Notices Vol. 17, No. 9, September 1982, pages 7 - 13 [DOI>10.1145/947955.1083808](https://doi.org/10.1145/947955.1083808)
+1. Alan J. Perlis "[Epigrams on Programming](http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)", SIGPLAN Notices Vol. 17, No. 9, September 1982, pages 7 - 13 {{< altmetric doi="10.1145/947955.1083808" >}}

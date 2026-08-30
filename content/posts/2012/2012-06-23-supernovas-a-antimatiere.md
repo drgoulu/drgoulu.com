@@ -35,5 +35,5 @@ A lire absolument.
 ## Références:
 
 1. <span id="ref-1"></span>A. Gal-Yam, ["Super-supernovae"](http://www.pourlascience.fr/ewb_pages/f/fiche-article-super-supernovae-29926.php), 2012, [Pour la Science, No 417](http://www.pourlascience.fr/ewb_pages/s/sommaire_pls.php?art_id=29947&num=417) , p 20-25
-2. <span id="ref-2"></span>{{< altmetric doi="10.1103/PhysRevLett.18.379" float="right" >}}Z. Barkat, G. Rakavy & N. Sack, "Dynamics of supernova explosion resulting from pair formation", 1967 Phys. Rev. Lett. 18, 379–381 DOI : [10.1103/PhysRevLett.18.379](https://doi.org/10.1103/PhysRevLett.18.379)
-3. <span id="ref-3"></span>{{< altmetric doi="10.1038/nature08579" float="right" >}}A. Gal-Yam, P. Mazzali, E.O. Ofek, P.E. Nugent,S.R. Kulkarni, M.M. Kasliwal, R.M. Quimby, et al. "[Supernova 2007bi as a pair-instability explosion](http://www.astro.uni-bonn.de/~nlanger/siu_web/nucsyn_papers/sn2007bi.pdf.gz)", 2009 Nature, 462(7273), 624-7. Nature Publishing Group. doi:10.1038/nature08579
+2. <span id="ref-2"></span>Z. Barkat, G. Rakavy & N. Sack, "Dynamics of supernova explosion resulting from pair formation", 1967 Phys. Rev. Lett. 18, 379–381 {{< altmetric doi="10.1103/PhysRevLett.18.379" >}}
+3. <span id="ref-3"></span>A. Gal-Yam, P. Mazzali, E.O. Ofek, P.E. Nugent,S.R. Kulkarni, M.M. Kasliwal, R.M. Quimby, et al. "[Supernova 2007bi as a pair-instability explosion](http://www.astro.uni-bonn.de/~nlanger/siu_web/nucsyn_papers/sn2007bi.pdf.gz)", 2009 Nature, 462(7273), 624-7. Nature Publishing Group. {{< altmetric doi="10.1038/nature08579" >}}
