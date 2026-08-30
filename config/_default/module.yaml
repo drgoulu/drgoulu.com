@@ -30,6 +30,8 @@ mounts:
     target: assets
   - source: static
     target: static
+  - source: static/uploads
+    target: assets/uploads
   - source: data
     target: data
   - source: hugo-blox/blox/community

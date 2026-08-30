@@ -16,7 +16,7 @@
 
 {{- $img := "" -}}
 {{- if not $is_remote -}}
-  {{- $clean_dest := strings.TrimPrefix "./" $destination -}}
+  {{- $clean_dest := strings.TrimPrefix "/" (strings.TrimPrefix "./" $destination) -}}
   {{/* 1. Page bundle resources */}}
   {{- $img = (.Page.Resources.ByType "image").GetMatch $clean_dest -}}
   {{/* 2. Check posts/<year>/images/ in assets */}}
