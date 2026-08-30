@@ -7,13 +7,13 @@ summary: drgoulu.com ressuscite en migrant de  WordPress à Hugo
 tags:
   - Wordpress
   - Hugo
-coverImage: "2a62d67153ec2834b7d7f23250a1c260-1.jpg"
+coverImage: 2a62d67153ec2834b7d7f23250a1c260-1.jpg
 ---
 Après plusieurs années de quasi abandon, j'ai décidé de faire revivre ce site pour plusieurs raisons :
 
 1. il tombait en loques et c'était dommage
 2. je veux y transférer une bonne partie de l'énorme contenu que j'ai publié [sur Quora](https://fr.quora.com/profile/Dr-Goulu) ces dernières années.
-3. j'ai du temps à perdre, et des IA pour m'aider. Ca s'est révélé indispensable.
+3. j'ai du temps à perdre, et des IA pour m'aider. Les deux se sont révélés indispensables.
 
 ## Les problèmes de WordPress
 
@@ -28,28 +28,101 @@ Pourtant, devant l'ampleur de la tâche, j'étais assez réticent à changer de 
 
 Mais même avec tout ça, j'étais encore insatisfait, et attiré par la curiosité : comment faire un blog moderne en 2026 ?
 
-## Le choix : Hugo
+## Les sites "statiques"
 
-La tendance actuelle, est clairement au [générateur de site statique](w:) : le site est considéré comme un projet informatique qui est "compilé" en pages HTML fixes, "comme dans le temps". Plus de base de données, plus de PHP, plus de failles de sécurité potentielles, et en plus la navigation devient hyper rapide, comme vous vous en apercevez en parcourant ce site...
+La tendance actuelle, est clairement aux [générateur de site statique](w:) : le site est considéré comme un projet informatique qui est "compilé" en pages HTML fixes, "comme dans le temps". Plus de base de données, plus de PHP, plus de failles de sécurité potentielles, et en plus la navigation devient hyper rapide, comme vous vous en apercevez en parcourant ce site...
 
-Je suis assez rapidement tombé sur [Hugo](https://gohugo.io/) , mais par acquit de conscience j'ai aussi essayé [Quarto](https://quarto.org/) qui m'a bien tenté pour son orientation scientifique basée sur Python, Jupyter, etc. mais il est surtout utilisé dans le monde académique, et moins pour les blogs généralistes comme le mien. De plus il faut installer [Positron, un n-ième IDE](https://positron.posit.co) à la VS Code pour l'éditer...
+### Le choix : Hugo
+
+Je suis assez rapidement tombé sur [Hugo](https://gohugo.io/) , mais par acquit de conscience j'ai aussi essayé [Quarto](https://quarto.org/) qui m'a bien tenté pour son orientation scientifique basée sur Python, Jupyter, etc. mais il est surtout utilisé dans le monde académique, et moins pour les blogs généralistes comme le mien.
 
 J'ai aussi examiné [Astro](https://astro.build) , dont la technologie a l'air plus moderne encore, peut-être trop...
 
-Après avoir demandé un [tableau comparatif à une IA](https://share.google/aimode/XGNJvQjEpjzur8hLx), j'ai choisi Hugo dans sa mouture [HuboBlox](https://hugoblox.com), à la fois complète et facile à démarrer.
+Après avoir demandé un [tableau comparatif à une IA](https://share.google/aimode/XGNJvQjEpjzur8hLx), j'ai choisi Hugo dans sa mouture [HugoBlox](https://hugoblox.com), à la fois complète et facile à démarrer.
 
-## Markdown
+### Les outils : Git(Hub), VSCode, ...
 
-Un "inconvénient" de ces générateurs de sites statiques est que les articles doivent être écrits en [Markdown](w:), un format de texte enrichi autrefois réservé à de simples fichiers readme.md qui devient très à la mode avec les IA, mais qui n'est pas [wysiwyg](w:). L'idée est d'éditer les articles soit:
+Pour créer un site, on tape dans un shell :
 
-* avec un éditeur de texte avec un système de prévisualisation du résultat. c'est notamment l'idée de plugins de VS Code comme :
-  * [Hugo IntelliSense](https://marketplace.visualstudio.com/items?itemName=hugoblox.hugo), qui est tout neuf et pas très convaincant pour l'instant
-  * [Ownable](https://ownable.dev) plus abouti actuellement me semble t'il
-* [Cloudcannon](cloudcannon.com), un éditeur wysiwyg et gestionnaire du site Hugo en ligne via GitHub, que jutilise pour écrire ces lignes parce qu'il est gratuit pendant 20 jours, mais assez cher ensuite, ce qui fait que je ne vais pas le garder, hélas
+{{< highlight "bash" >}}# Requires Node.js
+npm install -g hugoblox
+hugoblox create site{{< /highlight >}}
 
-{{< figure src="/wp-content/uploads/2008/04/2a62d67153ec2834b7d7f23250a1c260-1.jpg" title="Galaxie" alt="Galaxie" caption="Galaxie" attrlink="https://galaxie.com" width="600" height="400" >}}
+et on remplit les champs, et on obtient un dossier de projet avec tout ce qu'il faut dedans. Il n'y a plus qu'à écrire des articles en [Markdown](w:), un format de texte enrichi autrefois réservé à de simples fichiers readme.md qui devient très à la mode avec les IA.
 
-{{< vimeo id="335988321" title="Hugo Explainer Video" >}}
+A ce moment, il devient très naturel de gérer toutes les modifications apportées au site dans un dépôt git pour être sur de NE PLUS JAMAIS RIEN PERDRE.
+
+Un petit site peut d'ailleurs être très facilement être <a href="https://gohugo.io/host-and-deploy/host-on-github-pages/" target="_blank" rel="noopener">buildé et publié automatiquement sur GitHub pages</a> à chaque push sur GitHub, mais dans le cas de drgoulu.com le build dépassait les 10 minutes autorisées (ce qui est étonnant...) et de toutes façons je voulais le publier chez mon hébergeur (infomaniak)
+
+Donc j'ai plutôt choisi de n'utiliser GitHub que comme repo du projet source (et images...) et de lancer les build en local pousser uniquement le dossier "public" avec les pages HTML générées chez Infomaniak, avec un "hook" qui les met au bon endroit :
+
+{{< highlight "bash" >}}#!/bin/sh
+# ----------------------------------------------------------------------
+# ~/git_depot/drgoulu.git/hooks/post-receive
+# Hook post-receive : Déploiement direct des fichiers statiques compilés
+# ----------------------------------------------------------------------
+
+# 1. Définir le dossier de destination (le dossier web de votre sous-domaine Hugo)
+TARGET="/home/clients/VOTRE_ID_CLIENT/web"
+
+# 2. Définir l'emplacement du dépôt Git distant actuel
+GIT_DIR="/home/clients/VOTRE_ID_CLIENT/git_depot/drgoulu.git"
+
+# 3. Extraire les fichiers poussés directement dans le dossier Web
+echo "📦 Déploiement des fichiers sur Infomaniak..."
+git --work-tree=$TARGET --git-dir=$GIT_DIR checkout -f
+
+echo "✅ Site Hugo mis à jour avec succès !"
+{{< /highlight >}}
+
+### Markdown
+
+Markdown est  l'inconvénient majeur des générateurs de sites statiques , et probablement ce qui limite encore Hugo et ses copains par rapport à WordPress : il n'est pas [wysiwyg](w:). Même si <a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noopener">sa syntaxe</a> rend le texte plus visuel que du HTML, on ne voit pas le résultat final.
+
+L'approche standard est d'utiliser des plugins de VSCode qui lancent un serveur local et affichent des prévisualisations de la page qu'on édite à chaque "save" de celle-ci
+
+* [Hugo IntelliSense](https://marketplace.visualstudio.com/items?itemName=hugoblox.hugo), qui est tout neuf et pas très convaincant pour l'instant
+* [Ownable](https://ownable.dev) plus abouti actuellement me semble t'il, mais pas encore top.
+
+Sinon, il existe bien des choses comme [Cloudcannon](cloudcannon.com), un éditeur et gestionnaire de site Hugo en ligne via GitHub, que j'utilise pour écrire ces lignes parce qu'il est gratuit pendant 20 jours, mais assez cher ensuite, ce qui fait que je ne vais pas le garder, hélas.
+
+Et il fait un rendu un peu intermédiaire, certaines choses étant wysiwyg et d'autres pas. Voici par exemple un extrait du présent article tel que je le vois dans Cloudcannon:
+
+![](/uploads/cloudcannon.png)
+
+La difficulté tient aux "shortcodes" qui permettent d'étendre Markdown pour afficher du code formaté, des videos YouTube etc.
+
+### IA = Indispensable Assistant
+
+Franchement, sans l'IA (Gemini) intégrée dans Antigravity (l'IDE que j'utilise de préférence à VSCode), j'aurais abandonné.
+
+Elle a permis de faire des dizaines de recherche/remplace qui m'auraient pris de heures à la main ou à écrire les regex en quelques minutes.
+
+Le plus incroyable s'est produit lorsque je lui ai demandé de retrouver des images qui avaient disparu car je les avais "hotlinké" sans m'en rendre compte, et que le site d'origine avait bien entendu changé ou disparu. L'IA a pensé "toute seule" à les chercher sur la Wayback Machine qui conserve les anciennes versions de pratiquement tout internet ! Et les a toutes retrouvées, téléchargées dans le site Hugo, et insérées proprement dans les articles. Wow. En quelques minutes !
+
+> dans [2007-10-11-la-bonne-maniere-de-calculer-des-trucs](dans%202007-10-11-la-bonne-maniere-de-calculer-des-trucs).md, transforme en latex les deux équations sur la fonction slerp qui sont écrites en texte, en t'appuyant sur la wayback machine
+
+a transformé ça :
+
+![](/uploads/avant.png)
+
+en ça :
+
+$$\\text\{slerp\}(v\_0, v\_1, t) = \\frac\{\\text\{sin\_over\_x\}((1-t)a)\}\{\\text\{sin\_over\_x\}(a)\} (1-t) v\_0 + \\frac\{\\text\{sin\_over\_x\}(ta)\}\{\\text\{sin\_over\_x\}(a)\} t v\_1$$
+
+et
+
+> reformate le contenu de tous les shortcodes highlight en reproduisant celui trouvé dans la wayback machine
+
+a transformé ça :
+
+![](/uploads/avant-code.png)
+
+en ça :
+
+{{< highlight "python" >}}def r(a): i=a.find('0') if i<0:print a [m in[(i-j)%9*(i/9^j/9)*(i/27^j/27|i%9/3^j%9/3)or a[j]for j in range(81)]or r(a[:i]+m+a[i+1:])for m in`14**7*9`]r(raw_input()){{< /highlight >}}
+
+(mauvais exemple car le code est sur une seule ligne...)
 
 ## Commentaires Disqus
 
