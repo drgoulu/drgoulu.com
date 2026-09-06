@@ -2,8 +2,8 @@
 title: "Nouvelles Unités de Mesure"
 slug: "nouvelles-unites-de-mesure"
 date: 2007-01-20
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "homeopathie"
   - "humour"

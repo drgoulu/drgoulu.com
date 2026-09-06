@@ -2,8 +2,6 @@
 title: "Poissons d'Avril"
 slug: "poissons-davril"
 date: 2008-04-01
-categories: 
-  - "non-classe"
 tags: 
   - "humour"
 ---

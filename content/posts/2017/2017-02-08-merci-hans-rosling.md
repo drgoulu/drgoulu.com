@@ -2,10 +2,10 @@
 title: "Merci Hans Rosling !"
 slug: "merci-hans-rosling"
 date: 2017-02-08
-categories: 
-  - "cat3"
-  - "cat2"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "gapminder"
 coverImage: "Hans-with-bubbles.jpg"

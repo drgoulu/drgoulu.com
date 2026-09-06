@@ -2,8 +2,8 @@
 title: "Calcul Distribué avec BOINC"
 slug: "calcul-distribue-avec-boinc"
 date: 2007-01-20
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "futur"
 coverImage: "c14e7902a08802229cdbcba55f05a6ef.gif"

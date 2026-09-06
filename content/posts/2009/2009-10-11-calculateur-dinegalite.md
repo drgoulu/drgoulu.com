@@ -2,8 +2,8 @@
 title: "Calculateur d&#039;(in)égalité"
 slug: "calculateur-dinegalite"
 date: 2009-10-11
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "economie"
   - "gini"

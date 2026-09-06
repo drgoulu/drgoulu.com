@@ -2,9 +2,9 @@
 title: "La tête dans les étoiles"
 slug: "la-tete-dans-les-etoiles"
 date: 2014-11-18
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "astro"
   - "galaxies"

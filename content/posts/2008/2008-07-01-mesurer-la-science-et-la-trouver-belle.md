@@ -2,8 +2,8 @@
 title: "Mesurer la Science et la trouver belle"
 slug: "mesurer-la-science-et-la-trouver-belle"
 date: 2008-07-01
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "graphes"
   - "graphisme"

@@ -2,8 +2,8 @@
 title: "La programmation, latin du futur ?"
 slug: "la-programmation-latin-du-futur"
 date: 2013-09-07
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "informatique"
   - "pedagogie"

@@ -2,8 +2,8 @@
 title: "Peut-on voyager dans le temps ?"
 slug: "peut-on-voyager-dans-le-temps"
 date: 2008-06-19
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "fiction"
   - "livres"

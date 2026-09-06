@@ -2,8 +2,8 @@
 title: "La pénible mort des données"
 slug: "la-penible-mort-des-donnees"
 date: 2012-10-31
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "informatique"
   - "internet"

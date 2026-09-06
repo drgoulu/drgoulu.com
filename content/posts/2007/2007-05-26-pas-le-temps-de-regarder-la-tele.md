@@ -2,8 +2,6 @@
 title: "Pas le temps de regarder la télé ?"
 slug: "pas-le-temps-de-regarder-la-tele"
 date: 2007-05-26
-categories: 
-  - "non-classe"
 tags: 
   - "internet"
   - "media"

@@ -2,8 +2,8 @@
 title: "L&#039;essence à prix d&#039;or noir"
 slug: "lessence-a-prix-dor-noir"
 date: 2008-05-24
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "economie"
   - "energie"

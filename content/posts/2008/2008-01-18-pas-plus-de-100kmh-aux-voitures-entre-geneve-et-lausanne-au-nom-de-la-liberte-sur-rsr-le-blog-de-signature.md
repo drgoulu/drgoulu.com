@@ -2,8 +2,8 @@
 title: "Trafic, Vitesse et Débit"
 slug: "pas-plus-de-100kmh-aux-voitures-entre-geneve-et-lausanne-au-nom-de-la-liberte-sur-rsr-le-blog-de-signature"
 date: 2008-01-18
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "geneve"
   - "maths"

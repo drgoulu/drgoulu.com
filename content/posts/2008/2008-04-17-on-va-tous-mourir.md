@@ -2,8 +2,8 @@
 title: "On va tous mourir !"
 slug: "on-va-tous-mourir"
 date: 2008-04-17
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "cern"
   - "lhc"

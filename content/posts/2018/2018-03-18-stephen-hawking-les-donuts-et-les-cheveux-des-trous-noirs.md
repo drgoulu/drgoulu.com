@@ -3,7 +3,7 @@ title: Stephen Hawking, les donuts et les cheveux des trous noirs
 slug: stephen-hawking-les-donuts-et-les-cheveux-des-trous-noirs
 date: '2018-03-18'
 categories:
-- cat1
+  - "Pourquoi"
 tags:
 - cinema
 - physique

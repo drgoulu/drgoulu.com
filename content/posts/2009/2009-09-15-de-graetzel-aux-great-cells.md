@@ -2,10 +2,10 @@
 title: "de Graetzel aux great cells"
 slug: "de-graetzel-aux-great-cells"
 date: 2009-09-15
-categories: 
-  - "cat3"
-  - "cat2"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "economie"
   - "energie"

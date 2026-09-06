@@ -2,8 +2,8 @@
 title: "Bestiario"
 slug: "bestiario"
 date: 2008-10-10
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "art"
   - "geometrie"

@@ -2,8 +2,8 @@
 title: "Science / Foi"
 slug: "science-foi"
 date: 2007-02-18
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "religion"
   - "science"

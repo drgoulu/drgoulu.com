@@ -3,7 +3,7 @@ title: "Placebo et nocebo"
 slug: "placebo-et-nocebo"
 date: 2009-05-20
 categories:
-  - "cat1"
+  - "Pourquoi"
 tags:
   - "homeopathie"
   - "psychologie"

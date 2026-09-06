@@ -2,8 +2,8 @@
 title: "Les mythes sur le Tiers Monde"
 slug: "les-mythes-sur-le-tiers-monde"
 date: 2007-08-21
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "economie"
   - "gapminder"

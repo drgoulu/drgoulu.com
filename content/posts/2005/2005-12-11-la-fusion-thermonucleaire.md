@@ -2,9 +2,9 @@
 title: "la fusion thermonucléaire"
 slug: "la-fusion-thermonucleaire"
 date: 2005-12-11
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "energie"
   - "fusion"

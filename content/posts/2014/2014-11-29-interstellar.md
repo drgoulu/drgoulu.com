@@ -2,8 +2,8 @@
 title: "Interstellar"
 slug: "interstellar"
 date: 2014-11-29
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "cinema"
   - "fiction"

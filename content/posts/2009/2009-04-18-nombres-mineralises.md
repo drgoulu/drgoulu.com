@@ -2,8 +2,8 @@
 title: "La minéralisation des nombres"
 slug: "nombres-mineralises"
 date: 2009-04-18
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "maths"
   - "nombres"

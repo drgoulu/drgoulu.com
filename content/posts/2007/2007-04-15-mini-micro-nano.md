@@ -2,8 +2,8 @@
 title: "Mini Micro Nano"
 slug: "mini-micro-nano"
 date: 2007-04-15
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "feynman"
   - "fiction"

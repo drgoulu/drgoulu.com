@@ -2,8 +2,8 @@
 title: "Fraudez fort, fraudez Benford"
 slug: "fraudez-benford"
 date: 2012-12-07
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "politique"
   - "researchblogging"

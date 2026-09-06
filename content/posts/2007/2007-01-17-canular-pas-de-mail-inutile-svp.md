@@ -2,8 +2,8 @@
 title: "Canular ! pas de mail inutile SVP"
 slug: "canular-pas-de-mail-inutile-svp"
 date: 2007-01-17
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "internet"
 ---

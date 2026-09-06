@@ -3,7 +3,7 @@ title: Outils du cloud pour le développement collaboratif
 slug: outils-du-cloud-pour-le-developpement-collaboratif
 date: '2015-03-13'
 categories:
-- cat2
+  - "Comment"
 tags:
 - programmation
 draft: true

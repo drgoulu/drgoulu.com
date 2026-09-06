@@ -2,8 +2,6 @@
 title: Jacques Bergier
 slug: jacques-bergier
 date: '2016-03-05'
-categories:
-- non-classe
 draft: true
 coverImage: "bergier1.jpg"
 ---

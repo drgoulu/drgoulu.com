@@ -2,8 +2,8 @@
 title: "L'espace infini entre les mots"
 slug: "lespace-infini-entre-les-mots"
 date: 2014-05-18
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "informatique"
   - "temps"

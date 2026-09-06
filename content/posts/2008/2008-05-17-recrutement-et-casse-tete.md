@@ -2,8 +2,8 @@
 title: "Recrutement et Casse-Tête"
 slug: "recrutement-et-casse-tete"
 date: 2008-05-17
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "casse-tetes"
   - "economie"

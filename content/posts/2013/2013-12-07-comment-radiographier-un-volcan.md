@@ -2,8 +2,8 @@
 title: "Comment radiographier un volcan"
 slug: "comment-radiographier-un-volcan"
 date: 2013-12-07
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "physique"
   - "pour-la-science"

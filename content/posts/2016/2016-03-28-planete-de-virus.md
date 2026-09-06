@@ -2,8 +2,8 @@
 title: "Planète de virus"
 slug: "planete-de-virus"
 date: 2016-03-28
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "biologie"
   - "livres"

@@ -2,8 +2,8 @@
 title: "L’informatique détruit l’information !"
 slug: "linformatique-detruit-linformation"
 date: 2007-02-25
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "informatique"
   - "theorique"

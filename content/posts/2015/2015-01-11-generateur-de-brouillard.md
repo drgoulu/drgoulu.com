@@ -2,8 +2,8 @@
 title: "Générateur de brouillard"
 slug: "generateur-de-brouillard"
 date: 2015-01-11
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "physique"
   - "securite"

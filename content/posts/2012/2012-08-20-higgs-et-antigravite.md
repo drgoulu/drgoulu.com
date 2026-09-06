@@ -3,7 +3,7 @@ title: Higgs et antigravité
 slug: higgs-et-antigravite
 date: '2012-08-20'
 categories:
-- cat1
+  - "Pourquoi"
 tags:
 - fiction
 - physique

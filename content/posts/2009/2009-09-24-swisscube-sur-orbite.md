@@ -2,8 +2,8 @@
 title: "SwissCube sur orbite"
 slug: "swisscube-sur-orbite"
 date: 2009-09-24
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "aerospace"
   - "suisse"

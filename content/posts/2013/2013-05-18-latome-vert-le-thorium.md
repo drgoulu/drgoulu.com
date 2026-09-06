@@ -2,8 +2,8 @@
 title: "L'atome vert : le thorium"
 slug: "latome-vert-le-thorium"
 date: 2013-05-18
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "energie"
   - "futur"

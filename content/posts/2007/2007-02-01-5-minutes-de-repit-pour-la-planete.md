@@ -2,8 +2,8 @@
 title: "5 minutes de répit pour la planète"
 slug: "5-minutes-de-repit-pour-la-planete"
 date: 2007-02-01
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "energie"
 coverImage: "4371e5bf34f1be9fab1a3cd4724ef60f.jpg"

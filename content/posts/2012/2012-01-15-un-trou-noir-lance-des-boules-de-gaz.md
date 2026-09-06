@@ -2,8 +2,8 @@
 title: "Un trou noir lance des boules de gaz"
 slug: "un-trou-noir-lance-des-boules-de-gaz"
 date: 2012-01-15
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "jets"

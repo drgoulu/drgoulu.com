@@ -2,8 +2,6 @@
 title: "Poisson d'Avril, ou pas ?"
 slug: "poisson-davril-ou-pas"
 date: 2014-03-31
-categories: 
-  - "non-classe"
 tags: 
   - "biologie"
   - "humour"

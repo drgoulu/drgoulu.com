@@ -2,8 +2,6 @@
 title: "BOINC et Graphes"
 slug: "boinc-et-graphes"
 date: 2007-02-18
-categories: 
-  - "non-classe"
 tags: 
   - "graphes"
 ---

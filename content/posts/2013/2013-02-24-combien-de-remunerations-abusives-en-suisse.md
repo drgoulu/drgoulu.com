@@ -3,7 +3,7 @@ title: Combien de rémunérations "abusives" en Suisse
 slug: combien-de-remunerations-abusives-en-suisse
 date: '2013-02-24'
 categories:
-- cat3
+  - "Combien"
 tags:
 - economie
 - inegalites

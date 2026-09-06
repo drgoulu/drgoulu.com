@@ -2,8 +2,6 @@
 title: "Simpsons : Coup de pied au culte !"
 slug: "simpsons-coup-de-pied-au-culte"
 date: 2007-02-27
-categories: 
-  - "non-classe"
 tags: 
   - "humour"
 ---

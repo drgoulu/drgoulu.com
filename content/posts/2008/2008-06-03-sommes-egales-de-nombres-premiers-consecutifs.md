@@ -2,8 +2,8 @@
 title: "Sommes Egales de Nombres Premiers Consécutifs"
 slug: "sommes-egales-de-nombres-premiers-consecutifs"
 date: 2008-06-03
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "casse-tetes"
   - "google"

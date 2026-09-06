@@ -2,8 +2,6 @@
 title: "Islamiste modéré ?"
 slug: "islamiste-modere"
 date: 2007-07-23
-categories: 
-  - "non-classe"
 tags: 
   - "monde"
   - "religion"

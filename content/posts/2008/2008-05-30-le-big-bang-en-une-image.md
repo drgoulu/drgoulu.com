@@ -2,8 +2,8 @@
 title: "Le Big Bang en une image"
 slug: "le-big-bang-en-une-image"
 date: 2008-05-30
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "cern"

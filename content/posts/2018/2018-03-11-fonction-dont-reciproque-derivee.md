@@ -2,8 +2,8 @@
 title: "La fonction dont la réciproque est sa dérivée"
 slug: "fonction-dont-reciproque-derivee"
 date: 2018-03-11
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "internet"
   - "maths"

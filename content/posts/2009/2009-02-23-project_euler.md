@@ -2,8 +2,8 @@
 title: "Programmer pour le fun"
 slug: "project_euler"
 date: 2009-02-23
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "casse-tetes"
   - "maths"

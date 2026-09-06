@@ -2,8 +2,8 @@
 title: "L'origine virale du dahu confirmée"
 slug: "lorigine-virale-du-dahu-confirmee"
 date: 2016-03-31
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "biologie"
   - "medecine"

@@ -2,8 +2,8 @@
 title: "Risques météoritiques"
 slug: "risques-meteoritiques"
 date: 2012-01-28
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "meteorite"

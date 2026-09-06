@@ -2,8 +2,6 @@
 title: "Zoom Player"
 slug: "zoom-player"
 date: 2007-08-16
-categories: 
-  - "non-classe"
 tags: 
   - "logiciels"
   - "video"

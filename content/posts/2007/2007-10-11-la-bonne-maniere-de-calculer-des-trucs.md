@@ -2,8 +2,8 @@
 title: "La bonne manière de calculer des trucs"
 slug: "la-bonne-maniere-de-calculer-des-trucs"
 date: 2007-10-11
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "geometrie"
   - "maths"

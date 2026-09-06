@@ -2,8 +2,8 @@
 title: "Amiante : pas de panique ..."
 slug: "amiante-pas-de-panique"
 date: 2008-02-01
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "medecine"
   - "risques"

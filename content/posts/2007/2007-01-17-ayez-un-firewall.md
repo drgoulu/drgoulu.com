@@ -2,8 +2,6 @@
 title: "Ayez un Firewall !"
 slug: "ayez-un-firewall"
 date: 2007-01-17
-categories: 
-  - "non-classe"
 ---
 
 Si vous êtes connecté au réseau en permanence par câble ou adsl, vous devez absolument avoir un "firewall". Si vous restez connecté à Internet plus de quelques heures d’affilée sans avoir de firewall, vous êtes à peu près certain de vous faire infecter: <!--more-->

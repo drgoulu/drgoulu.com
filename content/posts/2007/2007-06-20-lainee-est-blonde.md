@@ -2,8 +2,6 @@
 title: "L&#8217;ainée est blonde"
 slug: "lainee-est-blonde"
 date: 2007-06-20
-categories: 
-  - "non-classe"
 tags: 
   - "casse-tetes"
   - "maths"

@@ -2,9 +2,9 @@
 title: "Comment expliquer la relativité aux enfants"
 slug: "comment-expliquer-la-relativite-aux-enfants"
 date: 2013-12-15
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "jeux"
   - "pedagogie"

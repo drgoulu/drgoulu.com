@@ -2,8 +2,8 @@
 title: "L'attentat"
 slug: "lattentat"
 date: 2008-02-18
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "conflits"
   - "livres"

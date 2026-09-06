@@ -2,8 +2,8 @@
 title: "Les roues du TGV"
 slug: "les-roues-du-tgv"
 date: 2007-04-03
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "mecanique"
 coverImage: "c89338b11aaaf4a2f940c4da23b984f31-1.jpg"

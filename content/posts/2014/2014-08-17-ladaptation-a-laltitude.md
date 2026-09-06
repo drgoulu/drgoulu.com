@@ -2,8 +2,8 @@
 title: "L'adaptation à l'altitude"
 slug: "ladaptation-a-laltitude"
 date: 2014-08-17
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "biologie"
   - "evolution"

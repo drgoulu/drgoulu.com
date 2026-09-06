@@ -3,7 +3,7 @@ title: The Lean Startup
 slug: the-lean-startup
 date: '2014-07-21'
 categories:
-- cat3
+  - "Combien"
 tags:
 - innovation
 - livres

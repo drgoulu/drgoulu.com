@@ -2,8 +2,8 @@
 title: "Les plus belles images de Cassini"
 slug: "les-plus-belles-images-de-cassini"
 date: 2008-01-10
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "astro"
   - "cassini"

@@ -2,8 +2,8 @@
 title: "Conflit Israel / Palestine"
 slug: "conflit-israel-palestine"
 date: 2004-07-11
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "monde"
 ---

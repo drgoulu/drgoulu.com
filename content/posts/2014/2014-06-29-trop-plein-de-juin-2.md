@@ -2,8 +2,8 @@
 title: "Trop-plein de Juin"
 slug: "trop-plein-de-juin-2"
 date: 2014-06-29
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "informatique"
   - "materiaux"

@@ -3,7 +3,7 @@ title: "Ca c'est du trou noir, du vrai !"
 slug: "ca-cest-du-trou-noir-du-vrai"
 date: 2008-04-18
 categories:
-  - "cat1"
+  - "Pourquoi"
 tags:
   - "astro"
   - "physique"

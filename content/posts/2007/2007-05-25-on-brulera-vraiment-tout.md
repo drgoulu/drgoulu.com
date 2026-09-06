@@ -2,8 +2,8 @@
 title: "On brulera vraiment tout"
 slug: "on-brulera-vraiment-tout"
 date: 2007-05-25
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "economie"
   - "energie"

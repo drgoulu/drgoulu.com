@@ -2,8 +2,8 @@
 title: "comment placer N points “régulièrement” sur une sphère ?"
 slug: "comment-placer-n-points-regulierement-sur-une-sphere"
 date: 2007-01-31
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "geometrie"
   - "optimisation"

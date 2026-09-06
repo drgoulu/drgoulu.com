@@ -2,8 +2,8 @@
 title: "Adieu 3.14.16 : le 28 juin, ce sera Tau Day"
 slug: "adieu-3-14-16-le-26-juin-ce-sera-tau-day"
 date: 2016-03-14
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "histoire"
   - "humour"

@@ -2,8 +2,8 @@
 title: "Petits jeux intelligents"
 slug: "petits-jeux-intelligents"
 date: 2009-12-19
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "casse-tetes"
   - "geometrie"

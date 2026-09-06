@@ -2,8 +2,8 @@
 title: "Comment obtenir 100 avec 1,2,3,4,5,6,7,8,9 dans l'ordre ?"
 slug: "comment-obtenir-100-avec-123456789-dans-lordre"
 date: 2014-12-14
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "jeux"
   - "maths"

@@ -2,8 +2,8 @@
 title: "Combien vaut 1 franc ?"
 slug: "combien-vaut-1-franc"
 date: 2009-04-03
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "economie"
   - "monde"

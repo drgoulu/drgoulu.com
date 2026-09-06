@@ -2,9 +2,9 @@
 title: "Anneau-Monde et surpopulation"
 slug: "anneau-monde-et-surpopulation"
 date: 2012-10-28
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "demographie"
   - "fiction"

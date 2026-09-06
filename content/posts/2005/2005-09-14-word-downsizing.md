@@ -2,8 +2,6 @@
 title: "Word Downsizing"
 slug: "word-downsizing"
 date: 2005-09-14
-categories: 
-  - "non-classe"
 tags: 
   - "casse-tetes"
 ---

@@ -2,8 +2,6 @@
 title: "Mort aux Virus, Spam, Hoaxes et Popups !"
 slug: "mort-aux-virus-spam-hoaxes-et-popups"
 date: 2004-06-21
-categories: 
-  - "non-classe"
 ---
 
 Il y a au moins deux millions de pages sur la sécurité informatique sur Internet, mais celle-ci est unique : elle a été spécialement écrite pour ma maman, qui voulait une explication sans jargon...

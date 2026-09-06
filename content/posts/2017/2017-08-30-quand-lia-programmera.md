@@ -2,8 +2,6 @@
 title: Quand l'IA programmera
 slug: quand-lia-programmera
 date: '2017-08-30'
-categories:
-- non-classe
 tags:
 - intelligence-artificielle
 - programmation

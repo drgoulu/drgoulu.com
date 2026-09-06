@@ -2,8 +2,6 @@
 title: "Terre by Night"
 slug: "terre-by-night"
 date: 2007-11-17
-categories: 
-  - "non-classe"
 tags: 
   - "astro"
   - "energie"

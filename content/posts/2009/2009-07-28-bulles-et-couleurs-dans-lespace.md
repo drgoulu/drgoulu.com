@@ -2,9 +2,9 @@
 title: "Bulles et couleurs de l'espace"
 slug: "bulles-et-couleurs-dans-lespace"
 date: 2009-07-28
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "astro"
   - "optique"

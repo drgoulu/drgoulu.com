@@ -2,8 +2,6 @@
 title: Trop plein de la cinquantaine
 slug: trop-plein-de-la-cinquantaine
 date: '2014-10-25'
-categories:
-- non-classe
 draft: true
 ---
 Ca y'est, c'est mon tour : la crise de la cinquantaine me frappe de plein fouet, je dois porter des lunettes.

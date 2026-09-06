@@ -2,9 +2,9 @@
 title: "Unités et classements"
 slug: "unites-et-classements"
 date: 2009-05-21
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "economie"
   - "maths"

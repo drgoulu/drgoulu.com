@@ -2,9 +2,9 @@
 title: "le top 500 des supercalculateurs"
 slug: "le-top-500-des-supercalculateurs"
 date: 2007-11-27
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "informatique"
 coverImage: "Cell-big2.jpg"

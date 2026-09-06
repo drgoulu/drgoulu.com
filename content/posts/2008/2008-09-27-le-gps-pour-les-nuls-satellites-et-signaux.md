@@ -2,8 +2,8 @@
 title: "Le GPS pour les nuls : Satellites et Signaux"
 slug: "le-gps-pour-les-nuls-satellites-et-signaux"
 date: 2008-09-27
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "aerospace"
   - "geometrie"

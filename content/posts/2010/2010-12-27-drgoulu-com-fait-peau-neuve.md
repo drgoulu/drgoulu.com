@@ -2,8 +2,6 @@
 title: "DrGoulu.com fait peau neuve"
 slug: "drgoulu-com-fait-peau-neuve"
 date: 2010-12-27
-categories: 
-  - "non-classe"
 ---
 
 Il y a moins eu de billets sur DrGoulu ces derniers temps. J'ai plusieurs mauvaises excuses, et une bonne : j'ai réfléchi.

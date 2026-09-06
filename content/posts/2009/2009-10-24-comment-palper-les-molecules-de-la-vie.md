@@ -2,8 +2,8 @@
 title: "Comment palper les molécules de la vie"
 slug: "comment-palper-les-molecules-de-la-vie"
 date: 2009-10-24
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "biologie"
   - "nano"

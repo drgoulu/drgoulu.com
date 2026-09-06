@@ -2,8 +2,6 @@
 title: "Je suis Charlie aussi"
 slug: "je-suis-charlie-aussi"
 date: 2015-01-08
-categories: 
-  - "non-classe"
 tags: 
   - "conflits"
   - "pseudo"

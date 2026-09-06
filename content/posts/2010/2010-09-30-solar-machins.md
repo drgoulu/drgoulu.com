@@ -2,9 +2,9 @@
 title: "Solar machins"
 slug: "solar-machins"
 date: 2010-09-30
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "aerospace"
   - "aviation"

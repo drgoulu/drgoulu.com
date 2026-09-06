@@ -2,8 +2,8 @@
 title: "Perspective Suisse 2008"
 slug: "perspective-suisse-2008"
 date: 2008-10-29
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "politique"
   - "suisse"

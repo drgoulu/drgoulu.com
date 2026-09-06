@@ -2,9 +2,9 @@
 title: "Combien de processeurs pour un cerveau ?"
 slug: "combien-de-processeurs-pour-un-cerveau"
 date: 2013-03-11
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "cerveau"
   - "futur"

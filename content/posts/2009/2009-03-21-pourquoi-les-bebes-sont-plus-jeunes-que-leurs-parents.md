@@ -2,8 +2,8 @@
 title: "Pourquoi les bébés sont plus jeunes que leurs parents"
 slug: "pourquoi-les-bebes-sont-plus-jeunes-que-leurs-parents"
 date: 2009-03-21
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "biologie"
 coverImage: "a8c41973b20f525f5ba1ba4db9a4aea2.jpg"

@@ -3,7 +3,7 @@ title: La trisection de l'angle
 slug: la-trisection-de-langle
 date: '2017-03-10'
 categories:
-- cat1
+  - "Pourquoi"
 tags:
 - geometrie
 draft: true

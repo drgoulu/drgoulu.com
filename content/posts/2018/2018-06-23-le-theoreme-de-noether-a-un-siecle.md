@@ -2,8 +2,8 @@
 title: "Le Théorème de Noether a un siècle"
 slug: "le-theoreme-de-noether-a-un-siecle"
 date: 2018-06-23
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "dame"
   - "maths"

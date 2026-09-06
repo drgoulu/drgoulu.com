@@ -2,8 +2,8 @@
 title: "Histoire d'angles"
 slug: "histoire-dangles"
 date: 2010-01-16
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "geometrie"
   - "histoire"

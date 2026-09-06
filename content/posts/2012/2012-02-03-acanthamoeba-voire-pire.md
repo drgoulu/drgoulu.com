@@ -2,8 +2,8 @@
 title: "Acanthamoeba, voire pire"
 slug: "acanthamoeba-voire-pire"
 date: 2012-02-03
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "biologie"
   - "sante"

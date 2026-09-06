@@ -2,8 +2,8 @@
 title: "Développement Durable et Equation de Kaya"
 slug: "developpement-durable-et-equation-de-kaya"
 date: 2009-06-06
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "demographie"
   - "ecologisme"

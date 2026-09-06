@@ -2,8 +2,6 @@
 title: "Lua, le nouveau Basic"
 slug: "lua-le-nouveau-basic"
 date: 2007-09-21
-categories: 
-  - "non-classe"
 tags: 
   - "programmation"
 coverImage: "522870916653c28ad6c489b73105ed5f.gif"

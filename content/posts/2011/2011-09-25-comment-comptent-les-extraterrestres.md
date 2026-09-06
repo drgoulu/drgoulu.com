@@ -2,8 +2,8 @@
 title: "Comment comptent les Extraterrestres"
 slug: "comment-comptent-les-extraterrestres"
 date: 2011-09-25
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "humour"
   - "maths"

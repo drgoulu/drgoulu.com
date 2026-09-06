@@ -2,8 +2,8 @@
 title: "Amin Maalouf Immortel"
 slug: "amin-maalouf-immortel"
 date: 2011-06-25
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "histoire"
   - "livres"

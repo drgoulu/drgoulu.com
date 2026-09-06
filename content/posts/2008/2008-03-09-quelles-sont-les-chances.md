@@ -2,8 +2,8 @@
 title: "Quelles sont les chances ..."
 slug: "quelles-sont-les-chances"
 date: 2008-03-09
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "biologie"
   - "chimie"

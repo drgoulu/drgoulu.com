@@ -2,8 +2,8 @@
 title: "Le postier chinois de Königsberg"
 slug: "le-postier-chinois-de-konigsberg"
 date: 2013-11-22
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "casse-tetes"
   - "graphes"

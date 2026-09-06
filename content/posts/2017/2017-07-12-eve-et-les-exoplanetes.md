@@ -2,8 +2,8 @@
 title: "EVE et les exoplanètes"
 slug: "eve-et-les-exoplanetes"
 date: 2017-07-12
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "astro"
   - "crowdsourcing"

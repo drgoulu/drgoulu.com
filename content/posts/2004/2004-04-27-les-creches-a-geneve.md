@@ -2,8 +2,8 @@
 title: "Les crèches à Genève"
 slug: "les-creches-a-geneve"
 date: 2004-04-27
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "geneve"
   - "politique"

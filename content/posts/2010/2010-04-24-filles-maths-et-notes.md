@@ -2,8 +2,8 @@
 title: "Filles, maths et notes"
 slug: "filles-maths-et-notes"
 date: 2010-04-24
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "maths"
   - "societe"

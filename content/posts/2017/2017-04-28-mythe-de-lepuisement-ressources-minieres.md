@@ -2,8 +2,8 @@
 title: "Combien reste-t-il de ressources minières ? Beaucoup."
 slug: "mythe-de-lepuisement-ressources-minieres"
 date: 2017-04-28
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "ecologisme"
   - "economie"

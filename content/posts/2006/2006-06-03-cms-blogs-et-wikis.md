@@ -2,8 +2,8 @@
 title: "CMS, Blogs et Wikis"
 slug: "cms-blogs-et-wikis"
 date: 2006-06-03
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "informatique"
 ---

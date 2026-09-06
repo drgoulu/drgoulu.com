@@ -3,7 +3,7 @@ title: Echappement Genequand
 slug: echappement-genequand
 date: '2015-01-16'
 categories:
-- cat2
+  - "Comment"
 tags:
 - horlogerie
 - inventions

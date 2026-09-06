@@ -2,8 +2,8 @@
 title: "Inégalités et Croissance"
 slug: "inegalites-et-croissance"
 date: 2007-09-26
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "economie"
   - "gini"

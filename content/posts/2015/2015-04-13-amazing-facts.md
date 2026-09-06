@@ -2,8 +2,6 @@
 title: amazing facts
 slug: amazing-facts
 date: '2015-04-13'
-categories:
-- non-classe
 draft: true
 ---
 The highest temperature ever reached on earth was 4 trillion degrees Celsius. This was in quark-gluon plasma at Brookhaven RHIC.

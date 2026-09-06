@@ -2,8 +2,6 @@
 title: "Smileys naturels"
 slug: "smileys-naturels"
 date: 2007-12-05
-categories: 
-  - "non-classe"
 tags: 
   - "humour"
   - "photo"

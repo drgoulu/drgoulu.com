@@ -2,8 +2,8 @@
 title: "Pour quoi retourner sur la Lune?"
 slug: "pour-quoi-retourner-sur-la-lune"
 date: 2009-07-18
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "aerospace"
   - "futur"

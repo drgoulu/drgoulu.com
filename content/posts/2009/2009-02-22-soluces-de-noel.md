@@ -2,8 +2,8 @@
 title: "Soluces de Noël"
 slug: "soluces-de-noel"
 date: 2009-02-22
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "casse-tetes"
   - "graphes"

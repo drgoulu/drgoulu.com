@@ -2,8 +2,8 @@
 title: "De quelle couleur est l'ours ?"
 slug: "de-quelle-couleur-est-lours"
 date: 2013-10-08
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "geometrie"
   - "humour"

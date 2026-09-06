@@ -2,8 +2,6 @@
 title: "Powder Game"
 slug: "powder-game"
 date: 2007-08-26
-categories: 
-  - "non-classe"
 tags: 
   - "jeux"
   - "physique"

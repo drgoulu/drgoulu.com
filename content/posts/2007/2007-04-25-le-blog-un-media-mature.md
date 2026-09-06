@@ -2,8 +2,6 @@
 title: "Le blog, un média mature ?"
 slug: "le-blog-un-media-mature"
 date: 2007-04-25
-categories: 
-  - "non-classe"
 tags: 
   - "internet"
 ---

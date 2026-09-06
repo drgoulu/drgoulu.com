@@ -2,8 +2,8 @@
 title: "Collision d'amas"
 slug: "collision-damas"
 date: 2009-04-17
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "galaxies"

@@ -2,8 +2,8 @@
 title: "Racistes, les Tetes à Claques ?"
 slug: "racistes-les-tetes-a-claques"
 date: 2007-05-12
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "humour"
   - "politique"

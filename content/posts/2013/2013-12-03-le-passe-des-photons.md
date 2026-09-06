@@ -2,8 +2,8 @@
 title: "Ou étiez-vous, photons ?"
 slug: "le-passe-des-photons"
 date: 2013-12-03
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "optique"
   - "physique"

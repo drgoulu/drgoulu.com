@@ -2,8 +2,8 @@
 title: "Proce55ing"
 slug: "processing"
 date: 2008-04-03
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "graphisme"
   - "proce55ing"

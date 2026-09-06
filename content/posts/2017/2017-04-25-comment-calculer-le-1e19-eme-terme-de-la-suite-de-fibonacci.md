@@ -2,8 +2,8 @@
 title: "Comment calculer le 10'000'000'000'000'000'000 ème terme de la suite de Fibonacci"
 slug: "comment-calculer-le-1e19-eme-terme-de-la-suite-de-fibonacci"
 date: 2017-04-25
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "algorithmes"
   - "fibonacci"

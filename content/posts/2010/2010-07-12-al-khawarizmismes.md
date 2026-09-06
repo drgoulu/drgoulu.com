@@ -2,8 +2,8 @@
 title: "Al-Khawarizmismes"
 slug: "al-khawarizmismes"
 date: 2010-07-12
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "algorithmes"
   - "histoire"

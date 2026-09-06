@@ -2,9 +2,9 @@
 title: "Tri réversible ?"
 slug: "tri-reversible"
 date: 2010-01-30
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "algorithmes"
   - "informatique"

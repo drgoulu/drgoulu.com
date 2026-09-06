@@ -2,8 +2,8 @@
 title: "Pourquoi les fabricants de machines tirent la langue"
 slug: "pourquoi-les-fabricants-de-machines-tirent-la-langue"
 date: 2009-06-06
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "economie"
   - "production"

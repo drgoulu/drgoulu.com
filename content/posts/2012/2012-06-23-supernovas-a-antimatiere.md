@@ -2,8 +2,8 @@
 title: "Supernovas à antimatière"
 slug: "supernovas-a-antimatiere"
 date: 2012-06-23
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "physique"

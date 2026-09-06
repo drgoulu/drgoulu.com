@@ -3,8 +3,8 @@ title: Brilliant
 slug: brilliant
 date: '2017-05-18'
 categories:
-- cat2
-- cat1
+  - "Comment"
+  - "Pourquoi"
 tags:
 - casse-tetes
 - maths

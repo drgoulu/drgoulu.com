@@ -2,8 +2,8 @@
 title: "Comment dire 33 avec 3 cubes ?"
 slug: "comment-dire-33-avec-3-cubes"
 date: 2012-06-20
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "algorithmes"
   - "casse-tetes"

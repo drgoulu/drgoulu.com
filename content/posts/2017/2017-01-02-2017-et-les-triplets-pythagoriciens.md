@@ -2,8 +2,8 @@
 title: "2017 et les triplets pythagoriciens"
 slug: "2017-et-les-triplets-pythagoriciens"
 date: 2017-01-02
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "annee"
   - "oeis"

@@ -2,8 +2,6 @@
 title: "couleurs + vision + sexe = espèces"
 slug: "couleurs-vision-sexe-especes"
 date: 2008-10-02
-categories: 
-  - "non-classe"
 tags: 
   - "biologie"
 coverImage: "pundamilia_pundamilia3.jpg"

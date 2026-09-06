@@ -2,8 +2,8 @@
 title: "Bon anniversaire, Hubble !"
 slug: "bon-anniversaire-hubble"
 date: 2010-04-28
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "aerospace"
   - "astro"

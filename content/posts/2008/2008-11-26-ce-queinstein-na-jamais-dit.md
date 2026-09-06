@@ -2,8 +2,8 @@
 title: "Ce qu'Einstein n'a jamais dit"
 slug: "ce-queinstein-na-jamais-dit"
 date: 2008-11-26
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "einstein"
   - "internet"

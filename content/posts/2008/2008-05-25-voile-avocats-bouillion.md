@@ -2,8 +2,6 @@
 title: "Voile, Avocats, Bouillon"
 slug: "voile-avocats-bouillion"
 date: 2008-05-25
-categories: 
-  - "non-classe"
 tags: 
   - "coupe-de-lamerica"
   - "geneve"

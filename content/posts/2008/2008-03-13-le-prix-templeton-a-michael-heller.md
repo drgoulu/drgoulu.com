@@ -2,8 +2,6 @@
 title: "Le Prix Templeton à Michael Heller"
 slug: "le-prix-templeton-a-michael-heller"
 date: 2008-03-13
-categories: 
-  - "non-classe"
 tags: 
   - "biologie"
   - "religion"

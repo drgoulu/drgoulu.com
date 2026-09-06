@@ -2,8 +2,8 @@
 title: "Le Blue Man Group frappe fort !"
 slug: "le-blue-man-group-frappe-fort"
 date: 2007-02-02
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "humour"
   - "usa"

@@ -2,8 +2,8 @@
 title: "Le temps, une 4ème dimension imaginaire"
 slug: "le-temps-une-4eme-dimension-imaginaire"
 date: 2007-02-07
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "dimensions"
   - "geometrie"

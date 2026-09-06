@@ -3,7 +3,7 @@ title: Salon de l'auto redox
 slug: salon-de-lauto-redox
 date: '2017-03-19'
 categories:
-- cat2
+  - "Comment"
 tags:
 - chimie
 - transports

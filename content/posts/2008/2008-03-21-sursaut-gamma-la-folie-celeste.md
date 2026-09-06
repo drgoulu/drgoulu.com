@@ -2,8 +2,8 @@
 title: "Sursaut Gamma : la folie céleste"
 slug: "sursaut-gamma-la-folie-celeste"
 date: 2008-03-21
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "physique"

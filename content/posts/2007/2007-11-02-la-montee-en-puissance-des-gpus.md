@@ -2,8 +2,8 @@
 title: "La montée en puissance des GPUs"
 slug: "la-montee-en-puissance-des-gpus"
 date: 2007-11-02
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "3d"
   - "futur"

@@ -2,8 +2,8 @@
 title: "Cassini-Huygens : 10 ans de rêve"
 slug: "cassini-huygens-10-ans-de-reve"
 date: 2007-10-14
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "astro"
   - "cassini"

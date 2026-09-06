@@ -2,8 +2,8 @@
 title: "Le prix de l’essence"
 slug: "le-prix-de-lessence"
 date: 2007-11-07
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "economie"
   - "energie"

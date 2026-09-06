@@ -2,8 +2,8 @@
 title: "Pourquoi 3 dimensions + 1 temps ?"
 slug: "pourquoi-3-dimensions-1-temps"
 date: 2011-01-30
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "dimensions"
   - "geometrie"

@@ -2,8 +2,8 @@
 title: "Terra Nova : le quiz"
 slug: "terra-nova-le-quiz"
 date: 2012-02-29
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "fiction"
   - "temps"

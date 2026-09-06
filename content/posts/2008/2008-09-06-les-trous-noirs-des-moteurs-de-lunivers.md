@@ -2,8 +2,8 @@
 title: "Les trous noirs : des moteurs de l'Univers ?"
 slug: "les-trous-noirs-des-moteurs-de-lunivers"
 date: 2008-09-06
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "physique"

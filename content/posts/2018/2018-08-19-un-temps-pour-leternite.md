@@ -2,8 +2,8 @@
 title: "Un temps pour l'éternité"
 slug: "un-temps-pour-leternite"
 date: 2018-08-19
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "livres"
   - "temps"

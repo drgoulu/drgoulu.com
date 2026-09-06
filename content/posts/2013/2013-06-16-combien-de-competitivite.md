@@ -3,7 +3,7 @@ title: Combien de compétitivité
 slug: combien-de-competitivite
 date: '2013-06-16'
 categories:
-- cat3
+  - "Combien"
 tags:
 - economie
 - suisse

@@ -2,8 +2,8 @@
 title: "Anticythère version suisse"
 slug: "anticythere-version-suisse"
 date: 2011-12-03
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "astro"
   - "histoire"

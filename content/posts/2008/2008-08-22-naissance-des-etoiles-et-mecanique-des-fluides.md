@@ -2,9 +2,9 @@
 title: "Naissance des étoiles et mécanique des fluides"
 slug: "naissance-des-etoiles-et-mecanique-des-fluides"
 date: 2008-08-22
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "astro"
   - "fluides"

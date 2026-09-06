@@ -2,9 +2,9 @@
 title: "Cartes de touristicité"
 slug: "cartes-de-touristicite"
 date: 2010-06-22
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "internet"
   - "monde"

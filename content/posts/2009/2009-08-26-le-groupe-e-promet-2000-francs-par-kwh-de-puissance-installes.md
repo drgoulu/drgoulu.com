@@ -2,8 +2,8 @@
 title: "&quot;Le Groupe E promet 2000 francs par kw/h de puissance installés&quot;"
 slug: "le-groupe-e-promet-2000-francs-par-kwh-de-puissance-installes"
 date: 2009-08-26
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "ecologisme"
   - "energie"

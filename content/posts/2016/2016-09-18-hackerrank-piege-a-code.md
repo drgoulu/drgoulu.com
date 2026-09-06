@@ -3,7 +3,7 @@ title: 'HackerRank : piège à code'
 slug: hackerrank-piege-a-code
 date: '2016-09-18'
 categories:
-- cat2
+  - "Comment"
 tags:
 - maths
 - programmation

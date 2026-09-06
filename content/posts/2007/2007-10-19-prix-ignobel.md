@@ -2,8 +2,8 @@
 title: "Prix IgNobel"
 slug: "prix-ignobel"
 date: 2007-10-19
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "humour"
   - "ignobel"

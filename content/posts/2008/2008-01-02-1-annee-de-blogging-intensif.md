@@ -2,8 +2,8 @@
 title: "1 année de blogging &quot;intensif&quot;"
 slug: "1-annee-de-blogging-intensif"
 date: 2008-01-02
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "annee"
   - "internet"

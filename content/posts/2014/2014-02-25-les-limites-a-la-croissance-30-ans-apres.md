@@ -3,9 +3,9 @@ title: Les Limites à la Croissance, 30 ans après
 slug: les-limites-a-la-croissance-30-ans-apres
 date: '2014-02-25'
 categories:
-- cat3
-- cat2
-- cat1
+  - "Combien"
+  - "Comment"
+  - "Pourquoi"
 tags:
 - demographie
 - ecologisme

@@ -2,8 +2,8 @@
 title: "Dites NON au mouvement perpétuel"
 slug: "dites-non-au-mouvement-perpetuel"
 date: 2012-05-27
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "energie"
   - "magnetisme"

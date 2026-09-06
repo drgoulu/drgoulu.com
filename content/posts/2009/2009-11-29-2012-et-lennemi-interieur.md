@@ -2,8 +2,8 @@
 title: "2012 et l'ennemi intérieur"
 slug: "2012-et-lennemi-interieur"
 date: 2009-11-29
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astrologie"
   - "einstein"

@@ -2,9 +2,8 @@
 title: "Eclogite et Archimède"
 slug: "eclogite-et-archimede"
 date: 2013-08-14
-categories: 
-  - "cat2"
-  - "ou"
+categories:
+  - "Comment"
 tags: 
   - "bateau"
   - "geologie"

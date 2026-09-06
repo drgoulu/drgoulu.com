@@ -2,8 +2,8 @@
 title: "Réalité augmentée"
 slug: "realite-augmentee"
 date: 2007-05-30
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "3d"
   - "video"

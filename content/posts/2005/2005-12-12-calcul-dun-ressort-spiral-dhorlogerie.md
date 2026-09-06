@@ -2,8 +2,8 @@
 title: "Calcul d’un ressort spiral d’horlogerie"
 slug: "calcul-dun-ressort-spiral-dhorlogerie"
 date: 2005-12-12
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "horlogerie"
   - "maths"

@@ -2,10 +2,10 @@
 title: "Sun Catalytics : du soleil à l'hydrogène sans passer par l'électricité ?"
 slug: "sun-catalytics"
 date: 2011-04-03
-categories: 
-  - "cat3"
-  - "cat2"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "energie"
   - "hydrogene"

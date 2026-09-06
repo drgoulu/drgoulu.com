@@ -2,8 +2,8 @@
 title: "La formule préférée du professeur"
 slug: "la-formule-preferee-du-professeur"
 date: 2009-06-28
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "japon"
   - "livres"

@@ -2,8 +2,8 @@
 title: "DrGoulu.com passe en HTTPS"
 slug: "drgoulu-com-passe-en-https"
 date: 2017-01-11
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "cryptographie"
   - "internet"

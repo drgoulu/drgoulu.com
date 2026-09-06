@@ -2,8 +2,6 @@
 title: "Retour sur Wordpress.com"
 slug: "retour-sur-wordpresscom"
 date: 2007-09-25
-categories: 
-  - "non-classe"
 tags: 
   - "internet"
 coverImage: "wordpress_logo_cristal.jpg"

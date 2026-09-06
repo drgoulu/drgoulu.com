@@ -3,7 +3,7 @@ title: La disparition de la vie sur Terre
 slug: la-disparition-de-la-vie-sur-terre
 date: '2015-01-18'
 categories:
-- cat1
+  - "Pourquoi"
 tags:
 - biologie
 - futur

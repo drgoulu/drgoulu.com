@@ -2,8 +2,8 @@
 title: "Comment gérer ses articles"
 slug: "comment-gerer-ses-articles"
 date: 2013-10-25
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "ignobel"
   - "internet"

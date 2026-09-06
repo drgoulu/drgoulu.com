@@ -2,8 +2,6 @@
 title: "Histoire du calcul de Pi"
 slug: "histoire-du-calcul-de-pi"
 date: 2005-11-06
-categories: 
-  - "non-classe"
 tags: 
   - "maths"
 ---

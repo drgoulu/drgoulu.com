@@ -2,8 +2,8 @@
 title: "Le vote par assentiment"
 slug: "le-vote-par-assentiment"
 date: 2007-05-09
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "maths"
   - "politique"

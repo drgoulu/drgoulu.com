@@ -2,9 +2,9 @@
 title: "Adieu focale, bonjour plenoptique !"
 slug: "adieu-focale"
 date: 2010-10-07
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "informatique"
   - "optique"

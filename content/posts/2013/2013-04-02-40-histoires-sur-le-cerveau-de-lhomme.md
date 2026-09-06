@@ -2,8 +2,8 @@
 title: "40 histoires sur le cerveau de l'homme"
 slug: "40-histoires-sur-le-cerveau-de-lhomme"
 date: 2013-04-02
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "cerveau"
   - "livres"

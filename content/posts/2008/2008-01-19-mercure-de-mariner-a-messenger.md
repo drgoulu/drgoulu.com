@@ -2,8 +2,8 @@
 title: "Mercure : de Mariner à Messenger"
 slug: "mercure-de-mariner-a-messenger"
 date: 2008-01-19
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "aerospace"
   - "astro"

@@ -2,9 +2,9 @@
 title: "Cendres et réacteurs"
 slug: "cendres-et-reacteurs"
 date: 2010-04-19
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "aerospace"
   - "aviation"

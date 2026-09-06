@@ -2,8 +2,8 @@
 title: "“Jet-Man” et YouTube"
 slug: "jet-man-et-youtube"
 date: 2007-01-07
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "aerospace"
 coverImage: "bc0c66f2435bbf582fe9107b57489a57.gif"

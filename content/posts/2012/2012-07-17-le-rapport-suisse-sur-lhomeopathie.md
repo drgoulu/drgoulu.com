@@ -2,9 +2,9 @@
 title: "Le rapport suisse sur l'homéopathie"
 slug: "le-rapport-suisse-sur-lhomeopathie"
 date: 2012-07-17
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "homeopathie"
   - "pseudo"

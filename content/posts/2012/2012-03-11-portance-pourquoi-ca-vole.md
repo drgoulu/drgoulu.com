@@ -2,9 +2,9 @@
 title: "Portance : pourquoi ça vole ?"
 slug: "portance-pourquoi-ca-vole"
 date: 2012-03-11
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "fluides"
   - "physique"

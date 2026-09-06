@@ -2,8 +2,6 @@
 title: "Les meilleures BD"
 slug: "les-meilleures-bd"
 date: 2007-01-05
-categories: 
-  - "non-classe"
 tags: 
   - "art"
   - "livres"

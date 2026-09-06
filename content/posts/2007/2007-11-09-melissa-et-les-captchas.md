@@ -2,8 +2,8 @@
 title: "Melissa et les Captchas"
 slug: "melissa-et-les-captchas"
 date: 2007-11-09
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "internet"
 coverImage: "troyano-sexy.jpg"

@@ -2,8 +2,8 @@
 title: "Le comptage des points au tennis"
 slug: "le-comptage-des-points-au-tennis"
 date: 2008-05-12
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "sport"
   - "statistiques"

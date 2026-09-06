@@ -2,8 +2,8 @@
 title: "Les &quot;Black Holes&quot; de Fabian Oefner"
 slug: "les-black-holes-de-fabian-oefner"
 date: 2013-03-28
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "art"
   - "fluides"

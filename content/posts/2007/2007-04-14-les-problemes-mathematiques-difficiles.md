@@ -2,8 +2,8 @@
 title: "les problèmes mathématiques difficiles"
 slug: "les-problemes-mathematiques-difficiles"
 date: 2007-04-14
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "maths"
 coverImage: "logo.png"

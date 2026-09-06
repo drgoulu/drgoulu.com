@@ -3,7 +3,7 @@ title: Les impossibles 2
 slug: les-impossibles-2
 date: '2014-03-13'
 categories:
-- cat1
+  - "Pourquoi"
 tags:
 - philosophie
 - physique

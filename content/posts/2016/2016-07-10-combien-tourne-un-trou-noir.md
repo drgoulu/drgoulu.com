@@ -2,10 +2,10 @@
 title: "A combien tourne un trou noir ?"
 slug: "combien-tourne-un-trou-noir"
 date: 2016-07-10
-categories: 
-  - "cat3"
-  - "cat2"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "simulation"
   - "trou-noir"

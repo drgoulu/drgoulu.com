@@ -2,8 +2,6 @@
 title: "Décès de Sir Arthur C. Clarke"
 slug: "deces-de-sir-arthur-c-clarke"
 date: 2008-03-19
-categories: 
-  - "non-classe"
 tags: 
   - "fiction"
 coverImage: "2001_space_odyssey_fg2b.jpg"

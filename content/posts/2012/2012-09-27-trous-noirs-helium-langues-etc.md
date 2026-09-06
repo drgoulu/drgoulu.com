@@ -2,8 +2,8 @@
 title: "Trous noirs, helium, langues etc."
 slug: "trous-noirs-helium-langues-etc"
 date: 2012-09-27
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "feynman"
   - "helium"

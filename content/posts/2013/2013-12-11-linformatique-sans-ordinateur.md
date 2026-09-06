@@ -3,7 +3,7 @@ title: L’informatique sans ordinateur
 slug: linformatique-sans-ordinateur
 date: '2013-12-11'
 categories:
-- cat2
+  - "Comment"
 tags:
 - informatique
 - pedagogie

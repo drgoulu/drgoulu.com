@@ -2,8 +2,8 @@
 title: "Ceci n'est pas un corps de femme ..."
 slug: "ceci-nest-pas-un-corps-de-femme"
 date: 2007-04-29
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "humour"
   - "illusion"

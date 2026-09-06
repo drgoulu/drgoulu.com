@@ -2,8 +2,8 @@
 title: "Les Tuniques d’Aveugle"
 slug: "livre-les-tuniques-daveugle"
 date: 2004-07-29
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "livres"
   - "religion"

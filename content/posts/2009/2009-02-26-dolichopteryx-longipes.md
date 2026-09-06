@@ -3,7 +3,7 @@ title: "Quand Darwin invente le télescope"
 slug: "dolichopteryx-longipes"
 date: 2009-02-26
 categories:
-  - "cat1"
+  - "Pourquoi"
 tags:
   - "biologie"
   - "darwin"

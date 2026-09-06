@@ -3,7 +3,7 @@ title: Lutéine + zéaxanthine = meilleure vue - lumière bleue ?
 slug: luteine-zeaxanthine-meilleure-vue-lumiere-bleue
 date: '2017-11-20'
 categories:
-- cat3
+  - "Combien"
 tags:
 - biologie
 - chimie

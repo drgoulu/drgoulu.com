@@ -2,8 +2,8 @@
 title: "Le cadran des trois neufs"
 slug: "le-cadran-des-trois-neufs"
 date: 2014-06-03
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "casse-tetes"
   - "maths"

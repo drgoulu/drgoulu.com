@@ -2,8 +2,8 @@
 title: "Combien dure un jour"
 slug: "combien-dure-un-jour"
 date: 2013-08-11
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "geometrie"

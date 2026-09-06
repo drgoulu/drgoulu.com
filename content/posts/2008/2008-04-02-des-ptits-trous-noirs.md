@@ -2,8 +2,8 @@
 title: "Des p&#039;tits trous noirs"
 slug: "des-ptits-trous-noirs"
 date: 2008-04-02
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "physique"

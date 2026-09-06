@@ -2,8 +2,8 @@
 title: "Copenhague : Shut up and calculate*"
 slug: "copenhague-shut-up-and-calculate"
 date: 2009-11-08
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "co2"
   - "ecologisme"

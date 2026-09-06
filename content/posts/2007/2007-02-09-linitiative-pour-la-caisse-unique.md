@@ -2,8 +2,8 @@
 title: "L’initiative pour la “caisse unique”"
 slug: "linitiative-pour-la-caisse-unique"
 date: 2007-02-09
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "politique"
   - "sante"

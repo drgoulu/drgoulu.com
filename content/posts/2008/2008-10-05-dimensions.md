@@ -2,8 +2,8 @@
 title: "Dimensions"
 slug: "dimensions"
 date: 2008-10-05
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "3d"
   - "dimensions"

@@ -2,8 +2,8 @@
 title: "James Randi au TED"
 slug: "james-randi-au-ted"
 date: 2010-04-25
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "homeopathie"
   - "pseudo"

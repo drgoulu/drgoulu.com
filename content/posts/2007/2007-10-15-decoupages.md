@@ -2,8 +2,6 @@
 title: "Découpages"
 slug: "decoupages"
 date: 2007-10-15
-categories: 
-  - "non-classe"
 tags: 
   - "art"
 coverImage: "decoupage1.gif"

@@ -2,8 +2,6 @@
 title: "Cercles pas ronds"
 slug: "cercles-pas-ronds"
 date: 2008-06-30
-categories: 
-  - "non-classe"
 tags: 
   - "illusion"
 coverImage: "image009.jpg"

@@ -2,8 +2,8 @@
 title: "Le Centriphone"
 slug: "le-centriphone"
 date: 2016-03-01
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "bricolage"
   - "sport"

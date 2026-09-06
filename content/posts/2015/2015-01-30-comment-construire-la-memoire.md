@@ -2,8 +2,6 @@
 title: Comment "Construire la mémoire"
 slug: comment-construire-la-memoire
 date: '2015-01-30'
-categories:
-- non-classe
 tags:
 - histoire
 - nucleaire

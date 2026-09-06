@@ -2,8 +2,8 @@
 title: "Non, Voyager 1 n'a pas quitté le système solaire"
 slug: "non-voyager-1-na-pas-quitte-le-systeme-solaire"
 date: 2013-09-18
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "aerospace"
 coverImage: "856f7493f97f6371bebad5e3d08cf549.jpg"

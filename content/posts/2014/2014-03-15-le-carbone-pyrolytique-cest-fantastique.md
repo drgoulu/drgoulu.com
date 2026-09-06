@@ -2,8 +2,8 @@
 title: "Le carbone pyrolytique, c'est fantastique"
 slug: "le-carbone-pyrolytique-cest-fantastique"
 date: 2014-03-15
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "chimie"
   - "magnetisme"

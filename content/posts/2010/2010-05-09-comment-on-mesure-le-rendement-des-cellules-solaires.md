@@ -2,8 +2,8 @@
 title: "Comment on mesure le rendement des cellules solaires"
 slug: "comment-on-mesure-le-rendement-des-cellules-solaires"
 date: 2010-05-09
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "energie"
   - "physique"

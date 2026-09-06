@@ -2,8 +2,8 @@
 title: "There's Plenty of Room at the Bottom"
 slug: "il-y-a-plein-de-place-en-bas"
 date: 2008-06-13
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "feynman"
   - "histoire"

@@ -2,8 +2,8 @@
 title: "Gouttes de sable"
 slug: "gouttes-de-sable"
 date: 2009-07-01
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "fluides"
   - "photo"

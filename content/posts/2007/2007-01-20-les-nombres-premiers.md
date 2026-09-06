@@ -2,8 +2,8 @@
 title: "les Nombres Premiers"
 slug: "les-nombres-premiers"
 date: 2007-01-20
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "maths"
   - "nombres-premiers"

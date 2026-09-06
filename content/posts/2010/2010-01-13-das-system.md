@@ -2,8 +2,8 @@
 title: "Das System"
 slug: "das-system"
 date: 2010-01-13
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "fiction"
   - "informatique"

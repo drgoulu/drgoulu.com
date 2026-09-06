@@ -2,8 +2,6 @@
 title: "La toxicité de la dioxine"
 slug: "la-toxicite-de-la-dioxine"
 date: 2005-06-23
-categories: 
-  - "non-classe"
 tags: 
   - "chimie"
   - "ecologisme"

@@ -2,8 +2,6 @@
 title: "Toutes les images de l&#039;espace"
 slug: "toutes-les-images-de-lespace"
 date: 2008-08-08
-categories: 
-  - "non-classe"
 tags: 
   - "astro"
   - "internet"

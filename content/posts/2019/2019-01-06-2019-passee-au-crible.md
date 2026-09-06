@@ -2,8 +2,6 @@
 title: "2019 passée au crible"
 slug: "2019-passee-au-crible"
 date: 2019-01-06
-categories: 
-  - "non-classe"
 tags: 
   - "annee"
   - "oeis"

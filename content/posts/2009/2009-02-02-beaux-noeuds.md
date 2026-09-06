@@ -2,8 +2,8 @@
 title: "Noeuds et surfaces de Seifert"
 slug: "beaux-noeuds"
 date: 2009-02-02
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "3d"
   - "geometrie"

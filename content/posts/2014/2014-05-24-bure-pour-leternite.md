@@ -2,8 +2,8 @@
 title: "Bure, plongée dans l'éternité"
 slug: "bure-pour-leternite"
 date: 2014-05-24
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "geologie"
   - "nucleaire"

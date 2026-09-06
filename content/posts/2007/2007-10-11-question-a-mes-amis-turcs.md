@@ -2,8 +2,8 @@
 title: "Question à mes amis turcs"
 slug: "question-a-mes-amis-turcs"
 date: 2007-10-11
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "histoire"
   - "monde"

@@ -2,8 +2,8 @@
 title: "Bye bye Pour la Science :-("
 slug: "bye-bye-pour-la-science"
 date: 2016-12-12
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "coup-de-gueule"
   - "pour-la-science"

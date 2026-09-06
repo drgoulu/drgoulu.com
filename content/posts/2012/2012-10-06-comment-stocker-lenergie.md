@@ -2,8 +2,8 @@
 title: "Comment stocker l'énergie"
 slug: "comment-stocker-lenergie"
 date: 2012-10-06
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "ecologisme"
   - "electricite"

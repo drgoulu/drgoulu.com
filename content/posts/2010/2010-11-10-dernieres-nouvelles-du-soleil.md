@@ -2,8 +2,8 @@
 title: "Dernières nouvelles du Soleil"
 slug: "dernieres-nouvelles-du-soleil"
 date: 2010-11-10
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "soleil"

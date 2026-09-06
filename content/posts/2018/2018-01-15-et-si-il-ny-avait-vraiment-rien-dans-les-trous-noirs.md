@@ -3,8 +3,7 @@ title: Et si il n'y avait vraiment rien dans les trous noirs ?
 slug: et-si-il-ny-avait-vraiment-rien-dans-les-trous-noirs
 date: '2018-01-15'
 categories:
-- non-classe
-- cat1
+  - "Pourquoi"
 tags:
 - physique
 - quantique

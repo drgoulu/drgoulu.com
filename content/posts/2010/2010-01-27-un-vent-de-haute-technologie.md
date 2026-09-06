@@ -2,8 +2,8 @@
 title: "Un vent de haute technologie"
 slug: "un-vent-de-haute-technologie"
 date: 2010-01-27
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "coupe-de-lamerica"
   - "energie"

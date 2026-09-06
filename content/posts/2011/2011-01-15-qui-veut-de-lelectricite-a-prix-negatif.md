@@ -2,8 +2,8 @@
 title: "Qui veut de l'électricité à prix négatif ?"
 slug: "qui-veut-de-lelectricite-a-prix-negatif"
 date: 2011-01-15
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "economie"
   - "energie"

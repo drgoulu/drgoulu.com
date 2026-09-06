@@ -2,8 +2,8 @@
 title: "Einstein et les ondes gravitationnelles"
 slug: "einstein-et-les-ondes-gravitationnelles"
 date: 2016-02-14
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "einstein"

@@ -2,8 +2,6 @@
 title: "Problèmes de focalisation ?"
 slug: "problemes-de-focalisation"
 date: 2007-10-28
-categories: 
-  - "non-classe"
 tags: 
   - "illusion"
   - "internet"

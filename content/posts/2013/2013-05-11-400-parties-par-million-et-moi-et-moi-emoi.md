@@ -2,8 +2,8 @@
 title: "400 parties par million, et  moi, et moi, émoi ?"
 slug: "400-parties-par-million-et-moi-et-moi-emoi"
 date: 2013-05-11
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "co2"
   - "demographie"

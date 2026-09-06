@@ -3,7 +3,7 @@ title: Propulsion spatiale
 slug: propulsion-spatiale
 date: '2014-12-05'
 categories:
-- cat2
+  - "Comment"
 draft: true
 coverImage: "bb5bb4d2c73220b93ce704c38a39b1b0.gif"
 ---

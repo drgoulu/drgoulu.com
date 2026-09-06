@@ -2,8 +2,8 @@
 title: "Trop-plein de Juillet"
 slug: "trop-plein-de-juillet"
 date: 2014-07-30
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "jeux"
   - "soleil"

@@ -2,8 +2,8 @@
 title: "Energie Hydrolienne"
 slug: "energie-hydrolienne"
 date: 2008-09-07
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "energie"
   - "mer"

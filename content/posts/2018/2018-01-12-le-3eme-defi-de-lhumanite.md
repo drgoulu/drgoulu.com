@@ -2,8 +2,6 @@
 title: Le 3ème défi de l’humanité
 slug: le-3eme-defi-de-lhumanite
 date: '2018-01-12'
-categories:
-- non-classe
 tags:
 - intelligence-artificielle
 draft: true

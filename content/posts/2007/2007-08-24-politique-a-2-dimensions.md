@@ -2,8 +2,8 @@
 title: "Politique à 2 dimensions"
 slug: "politique-a-2-dimensions"
 date: 2007-08-24
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "internet"
   - "politique"

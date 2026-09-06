@@ -2,8 +2,6 @@
 title: "La crèche de Satigny"
 slug: "la-creche-de-satigny"
 date: 2006-05-24
-categories: 
-  - "non-classe"
 tags: 
   - "geneve"
   - "politique"

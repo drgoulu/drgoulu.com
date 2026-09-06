@@ -2,8 +2,8 @@
 title: "L'importance de la stupidité dans la recherche scientifique"
 slug: "limportance-de-la-stupidite-dans-la-recherche-scientifique"
 date: 2014-06-11
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "pedagogie"
   - "science"

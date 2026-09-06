@@ -2,8 +2,8 @@
 title: "Les géniales pendules de Marcel Bétrisey"
 slug: "les-geniales-pendules-de-marcel-betrisey"
 date: 2011-09-20
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "art"
   - "horlogerie"

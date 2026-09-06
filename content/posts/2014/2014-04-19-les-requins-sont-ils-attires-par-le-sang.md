@@ -2,8 +2,8 @@
 title: "Les requins sont-ils attirés par le sang ?"
 slug: "les-requins-sont-ils-attires-par-le-sang"
 date: 2014-04-19
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "biologie"
   - "chimie"

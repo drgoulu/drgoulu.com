@@ -2,8 +2,6 @@
 title: Pourquoi je ne suis pas cartésien
 slug: pourquoi-je-ne-suis-pas-cartesien
 date: '2018-01-13'
-categories:
-- non-classe
 tags:
 - philosophie
 - science

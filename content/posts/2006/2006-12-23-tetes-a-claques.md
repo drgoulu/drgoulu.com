@@ -2,8 +2,6 @@
 title: "Têtes à claques"
 slug: "tetes-a-claques"
 date: 2006-12-23
-categories: 
-  - "non-classe"
 tags: 
   - "humour"
 ---

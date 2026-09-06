@@ -2,8 +2,8 @@
 title: "Pourquoi n'y a-t-il pas plus de Google s ?"
 slug: "pourquoi-ny-a-t-il-pas-plus-de-google-s"
 date: 2008-04-16
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "economie"
   - "google"

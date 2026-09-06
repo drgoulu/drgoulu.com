@@ -2,8 +2,8 @@
 title: "Séismes et énergies"
 slug: "seismes-et-energies"
 date: 2011-03-16
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "energie"
   - "hydroelectricite"

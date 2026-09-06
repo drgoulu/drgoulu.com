@@ -2,8 +2,8 @@
 title: "Divers d'été"
 slug: "divers-d-ete"
 date: 2012-08-12
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "biologie"
   - "ecologisme"

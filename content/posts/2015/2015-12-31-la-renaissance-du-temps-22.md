@@ -2,8 +2,8 @@
 title: "La Renaissance du temps 2/2"
 slug: "la-renaissance-du-temps-22"
 date: 2015-12-31
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "physique"
   - "temps"

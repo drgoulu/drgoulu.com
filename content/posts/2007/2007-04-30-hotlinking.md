@@ -2,8 +2,8 @@
 title: "Hotlinking (mea culpa...)"
 slug: "hotlinking"
 date: 2007-04-30
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "internet"
 coverImage: "100926176fcf4783e6c895c3e56eb073.jpg"

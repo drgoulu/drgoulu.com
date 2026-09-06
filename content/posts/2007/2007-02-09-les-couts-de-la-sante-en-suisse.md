@@ -2,8 +2,6 @@
 title: "les coûts de la santé en Suisse"
 slug: "les-couts-de-la-sante-en-suisse"
 date: 2007-02-09
-categories: 
-  - "non-classe"
 tags: 
   - "politique"
   - "suisse"

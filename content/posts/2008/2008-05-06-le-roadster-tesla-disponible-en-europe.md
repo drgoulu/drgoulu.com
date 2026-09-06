@@ -2,9 +2,9 @@
 title: "Le roadster Tesla disponible en Europe"
 slug: "le-roadster-tesla-disponible-en-europe"
 date: 2008-05-06
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "economie"
   - "electrique"

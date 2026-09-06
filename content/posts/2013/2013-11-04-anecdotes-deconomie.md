@@ -3,7 +3,7 @@ title: Anecdotes d'économie
 slug: anecdotes-deconomie
 date: '2013-11-04'
 categories:
-- cat3
+  - "Combien"
 tags:
 - economie
 draft: true

@@ -2,8 +2,8 @@
 title: "Nant de Drance"
 slug: "nant-de-drance"
 date: 2014-01-16
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "energie"
   - "genie-civil"

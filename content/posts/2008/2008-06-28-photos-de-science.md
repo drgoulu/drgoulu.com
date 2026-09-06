@@ -2,8 +2,6 @@
 title: "Photos de Science"
 slug: "photos-de-science"
 date: 2008-06-28
-categories: 
-  - "non-classe"
 tags: 
   - "photo"
 coverImage: "P116376-Womans_foot_in_high-heel_shoe,_X-ray-SPL.jpg"

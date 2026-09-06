@@ -2,8 +2,8 @@
 title: "Suites, Courbes et Théories"
 slug: "suites-courbes-et-theories"
 date: 2008-08-23
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "cern"
   - "lhc"

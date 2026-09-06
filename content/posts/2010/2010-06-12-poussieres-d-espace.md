@@ -2,9 +2,9 @@
 title: "Poussières d&#039;espace"
 slug: "poussieres-d-espace"
 date: 2010-06-12
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "aerospace"
   - "japon"

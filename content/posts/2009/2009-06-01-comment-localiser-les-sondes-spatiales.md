@@ -2,8 +2,8 @@
 title: "Comment localiser les sondes spatiales"
 slug: "comment-localiser-les-sondes-spatiales"
 date: 2009-06-01
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "aerospace"
   - "pulsars"

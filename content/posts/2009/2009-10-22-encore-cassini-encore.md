@@ -2,8 +2,8 @@
 title: "Encore, Cassini, encore !"
 slug: "encore-cassini-encore"
 date: 2009-10-22
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "aerospace"
   - "astro"

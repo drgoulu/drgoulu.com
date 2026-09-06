@@ -2,8 +2,8 @@
 title: "Démosaïquification"
 slug: "demosaiquification"
 date: 2008-12-03
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "photo"
   - "programmation"

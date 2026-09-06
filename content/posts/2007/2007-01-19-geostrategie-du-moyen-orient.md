@@ -2,8 +2,8 @@
 title: "Géostratégie du Moyen-Orient"
 slug: "geostrategie-du-moyen-orient"
 date: 2007-01-19
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "monde"
 ---

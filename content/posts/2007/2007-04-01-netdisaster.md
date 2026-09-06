@@ -2,8 +2,6 @@
 title: "NetDisaster"
 slug: "netdisaster"
 date: 2007-04-01
-categories: 
-  - "non-classe"
 tags: 
   - "humour"
   - "internet"

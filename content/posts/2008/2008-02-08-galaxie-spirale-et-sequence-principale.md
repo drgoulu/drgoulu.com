@@ -2,9 +2,9 @@
 title: "Galaxie Spirale et Séquence Principale"
 slug: "galaxie-spirale-et-sequence-principale"
 date: 2008-02-08
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "3d"
   - "astro"

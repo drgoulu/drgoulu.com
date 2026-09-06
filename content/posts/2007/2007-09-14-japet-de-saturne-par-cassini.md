@@ -2,8 +2,8 @@
 title: "Cassini redécouvre Japet"
 slug: "japet-de-saturne-par-cassini"
 date: 2007-09-14
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
 coverImage: "f5f7d66785168acffb6aca68eff44f26.jpg"

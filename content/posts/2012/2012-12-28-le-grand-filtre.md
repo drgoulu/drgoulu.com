@@ -2,10 +2,10 @@
 title: "Le Grand Filtre"
 slug: "le-grand-filtre"
 date: 2012-12-28
-categories: 
-  - "cat3"
-  - "cat2"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "fiction"
   - "futur"

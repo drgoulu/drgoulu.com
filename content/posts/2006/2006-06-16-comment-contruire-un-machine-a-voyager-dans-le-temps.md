@@ -2,8 +2,8 @@
 title: "Comment construire une machine à explorer le temps ?"
 slug: "comment-contruire-un-machine-a-voyager-dans-le-temps"
 date: 2006-06-16
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "fiction"
   - "livres"

@@ -2,8 +2,8 @@
 title: "Pesée des boules"
 slug: "pesee-des-boules"
 date: 1999-07-21
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "casse-tetes"
 coverImage: "ca235aedbb5c29ef2d595ec661779dcb.png"

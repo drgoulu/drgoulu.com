@@ -2,8 +2,8 @@
 title: "Les Ponts d’Umberto Guglielmetti"
 slug: "umberto-guglielmetti"
 date: 2005-07-03
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "architecture"
   - "art"

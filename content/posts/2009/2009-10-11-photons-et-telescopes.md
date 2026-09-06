@@ -2,8 +2,8 @@
 title: "Photons et télescopes"
 slug: "photons-et-telescopes"
 date: 2009-10-11
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "physique"

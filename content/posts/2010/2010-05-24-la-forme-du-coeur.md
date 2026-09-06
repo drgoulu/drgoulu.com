@@ -2,8 +2,8 @@
 title: "La forme du coeur"
 slug: "la-forme-du-coeur"
 date: 2010-05-24
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "biologie"
   - "histoire"

@@ -2,8 +2,8 @@
 title: "Terrorisme"
 slug: "terrorisme"
 date: 2006-01-06
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "conflits"
   - "monde"

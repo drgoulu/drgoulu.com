@@ -2,8 +2,8 @@
 title: "Danseuse et Cerveau"
 slug: "danseuse-et-cerveau"
 date: 2007-12-10
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "casse-tetes"
   - "illusion"

@@ -2,8 +2,8 @@
 title: "Nikola Tesla : génie, mais connu"
 slug: "nikola-tesla-genie-mais-connu"
 date: 2012-08-19
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "brevet"
   - "electricite"

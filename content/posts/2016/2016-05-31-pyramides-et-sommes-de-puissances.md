@@ -2,8 +2,8 @@
 title: "Pyramides et sommes de puissances"
 slug: "pyramides-et-sommes-de-puissances"
 date: 2016-05-31
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "maths"
   - "nombres"

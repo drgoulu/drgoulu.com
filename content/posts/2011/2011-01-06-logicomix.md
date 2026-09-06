@@ -2,8 +2,8 @@
 title: "Logicomix, la révolution de la logique en BD"
 slug: "logicomix"
 date: 2011-01-06
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "bd"
   - "livres"

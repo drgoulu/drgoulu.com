@@ -2,8 +2,8 @@
 title: "Tiède fusion"
 slug: "tiede-fusion"
 date: 2011-06-11
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "fusion"
   - "futur"

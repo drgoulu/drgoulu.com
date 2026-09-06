@@ -2,8 +2,8 @@
 title: "Alice, Bob et le coffre de XOR"
 slug: "alice-bob-coffre-xor"
 date: 2013-03-09
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "informatique"
 coverImage: "alice-bob-coffre-xor-L-e5xUNf.jpeg"

@@ -2,8 +2,8 @@
 title: "Pourboires et cycle menstruel"
 slug: "pourboires-et-cycle-menstruel"
 date: 2008-10-03
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "biologie"
   - "economie"

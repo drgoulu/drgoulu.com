@@ -2,8 +2,6 @@
 title: Le Hashgraph
 slug: le-hashgraph
 date: '2018-03-29'
-categories:
-- non-classe
 tags:
 - internet
 - securite

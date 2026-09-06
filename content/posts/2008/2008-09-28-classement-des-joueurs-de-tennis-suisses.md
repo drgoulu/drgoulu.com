@@ -2,8 +2,8 @@
 title: "Classement des Joueurs de Tennis (suisses)"
 slug: "classement-des-joueurs-de-tennis-suisses"
 date: 2008-09-28
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "maths"
   - "sport"

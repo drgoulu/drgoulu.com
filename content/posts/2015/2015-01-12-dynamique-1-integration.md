@@ -2,8 +2,6 @@
 title: 'Dynamique 1 : intégration'
 slug: dynamique-1-integration
 date: '2015-01-12'
-categories:
-- non-classe
 draft: true
 ---
 Ce que je trouve le plus chouette dans notre Univers, c'est qu'il ait le temps. Grâce au temps, les choses bougent, et grâce au fait qu'il n'y ait qu'un temps et 3 dimensions d'espace, les choses bougent d'une manière suffisamment prévisible pour que nous puissions faire des "modèles" du mouvement des choses et les utiliser. Un "modèle" n'est pas forcément mathématique : "si Urgh jeter lance sur trompe du mammouth qui courir, lance se planter dans coeur mammouth et bébés Urgh pas mourir de faim cette lune" est un modèle qui fut certainement plus utile à l'humanité que celui que j'utilise pour calmer un rhinocéros avec un lance-roquette dans Far Cry 4.

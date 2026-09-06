@@ -2,8 +2,8 @@
 title: "Plongée profonde"
 slug: "plongee-profonde"
 date: 2008-01-27
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "biologie"
 coverImage: "bafd3940506e32b2c4842203e30e0565-1.jpg"

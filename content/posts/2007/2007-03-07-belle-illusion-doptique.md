@@ -2,8 +2,8 @@
 title: "Belle illusion d’optique"
 slug: "belle-illusion-doptique"
 date: 2007-03-07
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "geometrie"
 coverImage: "f6e68f836c94d2952fd9fafc7dfd8acc.jpg"

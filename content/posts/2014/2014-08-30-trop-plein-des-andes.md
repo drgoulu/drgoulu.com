@@ -2,10 +2,10 @@
 title: "Trop-plein des Andes"
 slug: "trop-plein-des-andes"
 date: 2014-08-30
-categories: 
-  - "cat3"
-  - "cat2"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "histoire"
   - "monde"

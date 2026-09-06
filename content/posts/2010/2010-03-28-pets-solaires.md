@@ -2,8 +2,8 @@
 title: "Pets solaires"
 slug: "pets-solaires"
 date: 2010-03-28
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "aerospace"
   - "astro"

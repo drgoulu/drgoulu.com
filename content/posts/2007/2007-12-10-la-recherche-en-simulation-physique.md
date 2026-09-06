@@ -2,8 +2,8 @@
 title: "La Recherche en Simulation Physique"
 slug: "la-recherche-en-simulation-physique"
 date: 2007-12-10
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "3d"
   - "maths"

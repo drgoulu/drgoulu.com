@@ -2,8 +2,6 @@
 title: "esFresh, l&#039;usine à clips"
 slug: "esfresh-lusine-a-clips"
 date: 2007-05-27
-categories: 
-  - "non-classe"
 tags: 
   - "musique"
   - "video"

@@ -2,9 +2,9 @@
 title: "La physique par les objets quotidiens"
 slug: "la-physique-par-les-objets-quotidiens"
 date: 2016-01-03
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "livres"
   - "physique"

@@ -2,8 +2,8 @@
 title: "Le Dieu d'Einstein"
 slug: "le-dieu-deinstein"
 date: 2008-05-15
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "einstein"
   - "histoire"

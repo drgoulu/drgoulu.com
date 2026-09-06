@@ -2,8 +2,8 @@
 title: "2011, siteswap et jonglerie"
 slug: "2011-siteswap-et-jonglerie"
 date: 2011-01-12
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "annee"
   - "nombres"

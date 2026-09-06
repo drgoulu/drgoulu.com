@@ -2,9 +2,9 @@
 title: "Pour la Science de Juillet"
 slug: "pour-la-science-de-juillet"
 date: 2014-07-20
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "energie"
   - "maths"

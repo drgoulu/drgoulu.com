@@ -2,8 +2,8 @@
 title: "Inculture Scientifique"
 slug: "inculture-scientifique"
 date: 2009-03-14
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "science"
   - "societe"

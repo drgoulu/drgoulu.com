@@ -2,8 +2,6 @@
 title: "Planetoids"
 slug: "planetoids"
 date: 2007-05-26
-categories: 
-  - "non-classe"
 tags: 
   - "architecture"
   - "photo"

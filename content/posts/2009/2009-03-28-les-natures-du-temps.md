@@ -2,8 +2,8 @@
 title: "Les Natures du Temps"
 slug: "les-natures-du-temps"
 date: 2009-03-28
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "physique"
   - "temps"

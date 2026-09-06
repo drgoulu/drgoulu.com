@@ -2,8 +2,8 @@
 title: "Combien d'Helium ?"
 slug: "combien-dhelium"
 date: 2010-07-04
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "chimie"
   - "ecologisme"

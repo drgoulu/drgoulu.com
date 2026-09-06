@@ -2,9 +2,9 @@
 title: "Pour la Science de Décembre"
 slug: "pour-la-science-de-decembre"
 date: 2014-12-07
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "astro"
   - "informatique"

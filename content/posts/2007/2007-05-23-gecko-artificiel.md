@@ -2,8 +2,6 @@
 title: "Gecko artificiel"
 slug: "gecko-artificiel"
 date: 2007-05-23
-categories: 
-  - "non-classe"
 tags: 
   - "mecanique"
   - "physique"

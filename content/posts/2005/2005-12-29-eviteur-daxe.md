@@ -2,8 +2,8 @@
 title: "L’éviteur d’axe"
 slug: "eviteur-daxe"
 date: 2005-12-29
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "feynman"
   - "mecanique"

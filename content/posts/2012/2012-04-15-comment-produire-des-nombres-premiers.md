@@ -2,8 +2,8 @@
 title: "Comment trouver des nombres premiers"
 slug: "comment-produire-des-nombres-premiers"
 date: 2012-04-15
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "histoire"
   - "internet"

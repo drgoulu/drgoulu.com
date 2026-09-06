@@ -2,9 +2,9 @@
 title: "Réseaux de neurones et loi de Schneier"
 slug: "reseaux-de-neurones-et-loi-de-schneier"
 date: 2016-11-07
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "cryptographie"
   - "neurones"

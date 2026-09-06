@@ -2,8 +2,6 @@
 title: "Meilleurs Voeux pour 2018"
 slug: "meilleurs-voeux-2018"
 date: 2018-01-02
-categories: 
-  - "non-classe"
 tags: 
   - "annee"
 coverImage: "25541817868_12daa63ef3_z_d.jpg"

@@ -2,8 +2,6 @@
 title: LiquidMetal
 slug: liquidmetal
 date: '2013-11-22'
-categories:
-- non-classe
 draft: true
 ---
 [http://liquidmetal.com/](http://liquidmetal.com/ "http://liquidmetal.com/") ?

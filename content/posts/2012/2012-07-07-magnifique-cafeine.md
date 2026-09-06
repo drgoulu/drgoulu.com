@@ -2,8 +2,8 @@
 title: "Magnifique caféine"
 slug: "magnifique-cafeine"
 date: 2012-07-07
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "biologie"
   - "cafe"

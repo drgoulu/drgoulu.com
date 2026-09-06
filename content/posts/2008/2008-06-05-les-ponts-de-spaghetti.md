@@ -2,8 +2,8 @@
 title: "Les ponts de spaghetti"
 slug: "les-ponts-de-spaghetti"
 date: 2008-06-05
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "architecture"
   - "mecanique"

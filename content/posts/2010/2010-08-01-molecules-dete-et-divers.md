@@ -3,8 +3,8 @@ title: "Molécules d'été et divers"
 slug: "molecules-dete-et-divers"
 date: 2010-08-01
 categories:
-  - "cat2"
-  - "cat1"
+  - "Comment"
+  - "Pourquoi"
 tags:
   - "biologie"
   - "chimie"

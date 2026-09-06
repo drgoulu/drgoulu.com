@@ -2,8 +2,8 @@
 title: "Energie éolienne (et solaire) à prix coutant ?"
 slug: "energie-eolienne-et-solaire-a-prix-coutant"
 date: 2007-08-26
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "energie"
   - "suisse"

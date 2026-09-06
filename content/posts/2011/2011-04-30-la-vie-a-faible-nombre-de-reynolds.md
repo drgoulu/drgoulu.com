@@ -2,8 +2,8 @@
 title: "La vie à faible nombre de Reynolds"
 slug: "la-vie-a-faible-nombre-de-reynolds"
 date: 2011-04-30
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "biologie"
   - "fluides"

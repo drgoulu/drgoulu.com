@@ -2,9 +2,9 @@
 title: "Avalanches et goniomètre à infrasons"
 slug: "avalanches-et-gonimetre-a-infrasons"
 date: 2016-01-14
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "acoustique"
   - "informatique"

@@ -2,8 +2,8 @@
 title: "Suites infinies en Python"
 slug: "series-infinies-et-oeis-en-python"
 date: 2017-06-26
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "algorithmes"
   - "fibonacci"

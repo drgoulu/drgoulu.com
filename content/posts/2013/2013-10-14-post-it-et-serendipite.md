@@ -2,8 +2,6 @@
 title: Post-it et sérendipité
 slug: post-it-et-serendipite
 date: '2013-10-14'
-categories:
-- non-classe
 draft: true
 ---
 [https://fr.wikipedia.org/wiki/S%C3%A9rendipit%C3%A9](w:Sérendipité)

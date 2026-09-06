@@ -3,7 +3,7 @@ title: La constante de structure fine gravitationnelle
 slug: la-constante-de-structure-fine-gravitationnelle
 date: '2016-01-13'
 categories:
-- cat1
+  - "Pourquoi"
 tags:
 - physique
 draft: true

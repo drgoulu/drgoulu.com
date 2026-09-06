@@ -2,8 +2,6 @@
 title: "Dr. Goulu (re) déménage"
 slug: "dr-goulu-re-demenage-2"
 date: 2007-05-28
-categories: 
-  - "non-classe"
 tags: 
   - "internet"
 ---

@@ -2,8 +2,8 @@
 title: "Recyclage galactique"
 slug: "recyclage-galactique"
 date: 2009-02-04
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "galaxies"

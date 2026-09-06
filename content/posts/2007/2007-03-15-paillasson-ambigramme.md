@@ -2,8 +2,8 @@
 title: "Paillasson Ambigramme"
 slug: "paillasson-ambigramme"
 date: 2007-03-15
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "art"
   - "geometrie"

@@ -2,8 +2,8 @@
 title: "Initiatives populaires"
 slug: "initiatives-populaires"
 date: 2009-12-13
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "histoire"
   - "politique"

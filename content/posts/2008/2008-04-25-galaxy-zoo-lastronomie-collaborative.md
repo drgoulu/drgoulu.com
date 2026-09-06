@@ -2,8 +2,8 @@
 title: "Galaxy Zoo : l'astronomie collaborative"
 slug: "galaxy-zoo-lastronomie-collaborative"
 date: 2008-04-25
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "astro"
   - "collaboration"

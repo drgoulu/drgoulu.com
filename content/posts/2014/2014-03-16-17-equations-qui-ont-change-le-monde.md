@@ -2,9 +2,9 @@
 title: "17 équations qui ont changé le monde"
 slug: "17-equations-qui-ont-change-le-monde"
 date: 2014-03-16
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "astro"
   - "livres"

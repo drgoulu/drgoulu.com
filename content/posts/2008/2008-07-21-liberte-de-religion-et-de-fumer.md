@@ -2,8 +2,6 @@
 title: "Liberté de religion ... et de fumer ?"
 slug: "liberte-de-religion-et-de-fumer"
 date: 2008-07-21
-categories: 
-  - "non-classe"
 tags: 
   - "politique"
   - "religion"

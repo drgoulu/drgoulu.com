@@ -2,8 +2,6 @@
 title: "Art + Technique + Economie"
 slug: "art-technique-economie"
 date: 2007-09-02
-categories: 
-  - "non-classe"
 tags: 
   - "art"
   - "photo"

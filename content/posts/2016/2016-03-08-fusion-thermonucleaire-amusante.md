@@ -2,8 +2,8 @@
 title: "Fusion thermonucléaire amusante"
 slug: "fusion-thermonucleaire-amusante"
 date: 2016-03-08
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "fusion"
   - "jeux"

@@ -2,9 +2,9 @@
 title: "Facebook pourrait-il devenir le prochain Microsoft?"
 slug: "facebook-pourrait-il-devenir-le-prochain-microsoft"
 date: 2007-07-23
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "internet"
   - "societe"

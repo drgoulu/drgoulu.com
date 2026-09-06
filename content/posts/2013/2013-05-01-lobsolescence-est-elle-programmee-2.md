@@ -2,8 +2,8 @@
 title: "L'obsolescence est-elle programmée ?"
 slug: "lobsolescence-est-elle-programmee-2"
 date: 2013-05-01
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "ecologisme"
   - "economie"

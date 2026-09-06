@@ -2,9 +2,9 @@
 title: "La reconnaissance vocale est morte : pet à son âme."
 slug: "la-reconnaissance-vocale-est-morte"
 date: 2010-06-26
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "futur"
   - "informatique"

@@ -2,9 +2,9 @@
 title: "10 choses que vous ignorez à propos de Hubble"
 slug: "10-choses-que-vous-ignorez-a-propos-de-hubble"
 date: 2009-05-13
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "aerospace"
   - "astro"

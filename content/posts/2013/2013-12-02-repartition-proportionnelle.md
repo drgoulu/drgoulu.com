@@ -2,8 +2,8 @@
 title: "Répartition proportionnelle"
 slug: "repartition-proportionnelle"
 date: 2013-12-02
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "algorithmes"
   - "informatique"

@@ -2,8 +2,8 @@
 title: "Meilleures photos astronomiques 2007"
 slug: "meilleures-photos-astronomiques-2007"
 date: 2007-12-13
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "photo"

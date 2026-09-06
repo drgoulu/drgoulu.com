@@ -2,8 +2,8 @@
 title: "Eternity II"
 slug: "eternity-ii"
 date: 2008-01-12
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "casse-tetes"
 coverImage: "40119c41af0f937056e84674a4fc6f53.jpg"

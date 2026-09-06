@@ -2,8 +2,6 @@
 title: "Test Politique"
 slug: "test-politique"
 date: 2007-01-16
-categories: 
-  - "non-classe"
 tags: 
   - "politique"
   - "usa"

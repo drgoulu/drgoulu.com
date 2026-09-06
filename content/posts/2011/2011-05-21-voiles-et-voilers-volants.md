@@ -2,8 +2,8 @@
 title: "Voiles et Voilers volants"
 slug: "voiles-et-voilers-volants"
 date: 2011-05-21
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "bateau"
   - "fluides"

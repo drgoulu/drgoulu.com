@@ -2,8 +2,8 @@
 title: "Nombre d'or et abeilles"
 slug: "nombre-dor-et-abeilles"
 date: 2016-07-03
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "art"
   - "biologie"

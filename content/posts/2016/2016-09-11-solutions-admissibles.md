@@ -2,8 +2,8 @@
 title: "Solutions admissibles"
 slug: "solutions-admissibles"
 date: 2016-09-11
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "maths"
   - "physique"

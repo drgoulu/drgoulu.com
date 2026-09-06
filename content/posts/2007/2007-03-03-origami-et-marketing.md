@@ -2,8 +2,6 @@
 title: "Origami et Marketing"
 slug: "origami-et-marketing"
 date: 2007-03-03
-categories: 
-  - "non-classe"
 tags: 
   - "marketing"
 ---

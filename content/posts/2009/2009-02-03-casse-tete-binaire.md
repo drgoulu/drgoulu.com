@@ -2,8 +2,8 @@
 title: "Casse-tête binaire"
 slug: "casse-tete-binaire"
 date: 2009-02-03
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "casse-tetes"
   - "informatique"

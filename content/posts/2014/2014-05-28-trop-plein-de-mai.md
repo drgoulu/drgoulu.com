@@ -2,10 +2,10 @@
 title: "Trop-plein de Mai"
 slug: "trop-plein-de-mai"
 date: 2014-05-28
-categories: 
-  - "cat3"
-  - "cat2"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "trop-plein"
 coverImage: "falling-cat.jpg"

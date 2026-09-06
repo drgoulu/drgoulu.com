@@ -2,8 +2,8 @@
 title: "de Manicouagan à Rochechouart"
 slug: "de-manicouagan-a-rochechouart"
 date: 2009-04-16
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "meteorite"
   - "monde"

@@ -2,8 +2,8 @@
 title: "Hubblecast : la TV de Hubble"
 slug: "hubblecast"
 date: 2008-04-26
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "hubble"

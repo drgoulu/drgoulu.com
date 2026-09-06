@@ -2,8 +2,8 @@
 title: "Comment bien brasser les cartes"
 slug: "comment-bien-brasser-les-cartes"
 date: 2013-01-19
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "algorithmes"
   - "informatique"

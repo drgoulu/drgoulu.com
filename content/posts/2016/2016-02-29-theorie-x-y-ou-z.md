@@ -3,7 +3,7 @@ title: Théorie X, Y ou Z
 slug: theorie-x-y-ou-z
 date: '2016-02-29'
 categories:
-- cat1
+  - "Pourquoi"
 tags:
 - physique
 - pseudo

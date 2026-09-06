@@ -2,8 +2,8 @@
 title: "un festival de Galaxies"
 slug: "un-festival-de-galaxies"
 date: 2008-04-25
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "galaxies"

@@ -2,8 +2,6 @@
 title: "Vista Diaboli !"
 slug: "vista-diaboli"
 date: 2007-05-13
-categories: 
-  - "non-classe"
 tags: 
   - "informatique"
 coverImage: "abef7949f5b377bd71120f8987193530.png"

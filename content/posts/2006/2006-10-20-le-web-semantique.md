@@ -2,8 +2,8 @@
 title: "Le Web Sémantique"
 slug: "le-web-semantique"
 date: 2006-10-20
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "futur"
   - "informatique"

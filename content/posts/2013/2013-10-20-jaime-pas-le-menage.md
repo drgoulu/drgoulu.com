@@ -3,8 +3,8 @@ title: J'aime pas le [ménage]
 slug: jaime-pas-le-menage
 date: '2013-10-20'
 categories:
-- cat3
-- cat2
+  - "Combien"
+  - "Comment"
 tags:
 - ecologisme
 - energie

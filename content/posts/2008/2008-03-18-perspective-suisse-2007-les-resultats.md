@@ -2,8 +2,6 @@
 title: "Perspective Suisse 2007 : les résultats"
 slug: "perspective-suisse-2007-les-resultats"
 date: 2008-03-18
-categories: 
-  - "non-classe"
 tags: 
   - "societe"
   - "suisse"

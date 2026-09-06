@@ -2,8 +2,8 @@
 title: "Les particules sont-elles de petits noeuds ?"
 slug: "les-particules-sont-elles-de-petits-noeuds"
 date: 2008-05-25
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "cern"

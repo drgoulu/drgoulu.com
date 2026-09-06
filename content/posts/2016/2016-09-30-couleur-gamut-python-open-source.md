@@ -2,8 +2,8 @@
 title: "Couleurs, Gamuts, Python et Open Source"
 slug: "couleur-gamut-python-open-source"
 date: 2016-09-30
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "couleur"
   - "geometrie"

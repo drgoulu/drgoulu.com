@@ -2,8 +2,6 @@
 title: "Papon, Eichmann, Milgram et nous"
 slug: "papon-eichmann-milgram-et-nous"
 date: 2007-02-18
-categories: 
-  - "non-classe"
 tags: 
   - "psychologie"
 ---

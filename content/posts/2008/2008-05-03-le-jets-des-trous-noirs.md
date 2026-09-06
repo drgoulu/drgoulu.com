@@ -2,8 +2,8 @@
 title: "Les jets des trous noirs"
 slug: "le-jets-des-trous-noirs"
 date: 2008-05-03
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "galaxies"

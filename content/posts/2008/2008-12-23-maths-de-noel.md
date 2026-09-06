@@ -2,8 +2,8 @@
 title: "Maths de Noël"
 slug: "maths-de-noel"
 date: 2008-12-23
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "casse-tetes"
   - "jeux"

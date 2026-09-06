@@ -2,9 +2,9 @@
 title: "Bougies et Bonus"
 slug: "des-bougies-aux-bonus"
 date: 2009-09-06
-categories: 
-  - "cat3"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Pourquoi"
 tags: 
   - "economie"
   - "psychologie"

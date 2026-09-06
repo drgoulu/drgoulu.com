@@ -2,8 +2,8 @@
 title: "Dernières nouvelles de la Voie Lactée"
 slug: "dernieres-nouvelles-de-la-voie-lactee"
 date: 2009-01-11
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "galaxies"

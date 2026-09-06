@@ -2,8 +2,8 @@
 title: "Plan du Web"
 slug: "plan-du-web"
 date: 2007-08-21
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "graphes"
   - "internet"

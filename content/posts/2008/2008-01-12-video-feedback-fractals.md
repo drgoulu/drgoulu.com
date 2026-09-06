@@ -2,8 +2,8 @@
 title: "Video Feedback Fractals"
 slug: "video-feedback-fractals"
 date: 2008-01-12
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "video"
 coverImage: "a551972134e95fe75cbc399489083a2a.jpg"

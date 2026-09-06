@@ -2,8 +2,8 @@
 title: "Légendes scientifiques"
 slug: "legendes-scientifiques"
 date: 2008-12-14
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "pseudo"
 coverImage: "101b8e4b7040562c412012d9f47fd8f4-1.jpg"

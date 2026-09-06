@@ -2,8 +2,6 @@
 title: "E-mails légers SVP !"
 slug: "e-mails-legers-svp"
 date: 2007-01-17
-categories: 
-  - "non-classe"
 ---
 
 Si je vous ai demandé de lire cet article, c'est que vous m'avez envoyé un e-mail "lourd":

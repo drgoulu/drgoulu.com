@@ -2,8 +2,8 @@
 title: "Chauffage : Bois, Mazout, ou Electricité ?"
 slug: "bois-mazout-ou-electricite"
 date: 2008-05-29
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "economie"
   - "electricite"

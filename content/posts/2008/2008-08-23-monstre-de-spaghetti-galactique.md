@@ -2,8 +2,8 @@
 title: "Monstre de Spaghetti Galactique"
 slug: "monstre-de-spaghetti-galactique"
 date: 2008-08-23
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "hubble"

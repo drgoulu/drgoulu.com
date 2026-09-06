@@ -2,8 +2,8 @@
 title: "CO2 = POP x CO2/POP"
 slug: "co2-pop-x-co2pop"
 date: 2009-12-12
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "co2"
   - "demographie"

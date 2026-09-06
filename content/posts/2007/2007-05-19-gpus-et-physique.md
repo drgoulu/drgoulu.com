@@ -2,8 +2,6 @@
 title: "GPUs et Physique"
 slug: "gpus-et-physique"
 date: 2007-05-19
-categories: 
-  - "non-classe"
 tags: 
   - "3d"
   - "physique"

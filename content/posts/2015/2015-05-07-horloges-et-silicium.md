@@ -3,7 +3,7 @@ title: Horloges et silicium
 slug: horloges-et-silicium
 date: '2015-05-07'
 categories:
-- cat2
+  - "Comment"
 tags:
 - horlogerie
 draft: true

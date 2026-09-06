@@ -2,9 +2,9 @@
 title: "Un petit pas pour l'homme ... dans un petit puits gravitationnel."
 slug: "un-petit-pas-pour-lhomme"
 date: 2012-09-05
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "astro"
   - "graphisme"

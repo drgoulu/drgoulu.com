@@ -2,9 +2,9 @@
 title: "Pour la Science d'octobre"
 slug: "pour-la-science-doctobre"
 date: 2013-09-30
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "art"
   - "cerveau"

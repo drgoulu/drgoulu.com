@@ -3,7 +3,7 @@ title: Alice et Bob et le chiffrement homomorphe
 slug: alice-et-bob-et-le-chiffrement-homomorphe
 date: '2017-10-23'
 categories:
-- cat2
+  - "Comment"
 tags:
 - cryptographie
 - maths

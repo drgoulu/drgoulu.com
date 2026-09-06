@@ -2,8 +2,8 @@
 title: "Pourquoi les pédales de vélo se vissent à l'envers"
 slug: "pedales-de-velo"
 date: 2013-08-12
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "mecanique"
 coverImage: "0797468af3b14d8b74a2c6afea2cd28c-1.gif"

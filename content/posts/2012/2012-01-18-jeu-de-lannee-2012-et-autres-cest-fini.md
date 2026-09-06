@@ -2,8 +2,8 @@
 title: "&quot;jeu de l'année&quot; 2012 et autres : c'est fini."
 slug: "jeu-de-lannee-2012-et-autres-cest-fini"
 date: 2012-01-18
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "casse-tetes"
   - "maths"

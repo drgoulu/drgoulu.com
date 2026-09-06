@@ -2,8 +2,6 @@
 title: "Relativistic Computer Game"
 slug: "relativistic-computer-game"
 date: 2007-05-02
-categories: 
-  - "non-classe"
 tags: 
   - "jeux"
   - "programmation"

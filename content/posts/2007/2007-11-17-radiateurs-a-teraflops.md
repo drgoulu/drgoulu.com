@@ -2,9 +2,9 @@
 title: "Radiateurs à Téraflops ?"
 slug: "radiateurs-a-teraflops"
 date: 2007-11-17
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "electricite"
   - "energie"

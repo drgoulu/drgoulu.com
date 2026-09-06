@@ -2,8 +2,8 @@
 title: "Echelle interactive de l'Univers"
 slug: "echelle-interactive-de-lunivers"
 date: 2010-01-30
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "graphisme"
   - "informatique"

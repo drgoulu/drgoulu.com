@@ -3,7 +3,7 @@ title: Salaires extrêmes, médians et moyens
 slug: salaires-extremes-medians-et-moyens
 date: '2014-07-10'
 categories:
-- cat3
+  - "Combien"
 tags:
 - inegalites
 - statistiques

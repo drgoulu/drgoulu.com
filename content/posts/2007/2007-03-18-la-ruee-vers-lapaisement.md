@@ -2,8 +2,6 @@
 title: "La ruée vers l&#8217;apaisement"
 slug: "la-ruee-vers-lapaisement"
 date: 2007-03-18
-categories: 
-  - "non-classe"
 tags: 
   - "monde"
   - "politique"

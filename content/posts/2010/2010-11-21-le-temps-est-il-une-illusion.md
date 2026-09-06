@@ -2,8 +2,8 @@
 title: "Le temps est-il une illusion ?"
 slug: "le-temps-est-il-une-illusion"
 date: 2010-11-21
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "physique"
   - "pour-la-science"

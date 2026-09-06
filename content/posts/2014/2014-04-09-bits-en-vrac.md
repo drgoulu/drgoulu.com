@@ -2,8 +2,8 @@
 title: "Bits en vrac"
 slug: "bits-en-vrac"
 date: 2014-04-09
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "casse-tetes"
   - "google"

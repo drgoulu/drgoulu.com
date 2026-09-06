@@ -2,8 +2,8 @@
 title: "Acanthaspis Petax, CC et Wikipédia"
 slug: "acanthapis-petax-cc-et-wikipedia"
 date: 2013-01-26
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "biologie"
 coverImage: "4a3904e4365510a6cb7e3cd74d3213111.jpg"

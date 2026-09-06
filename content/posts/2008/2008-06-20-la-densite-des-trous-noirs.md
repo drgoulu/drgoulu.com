@@ -2,8 +2,8 @@
 title: "La densité des trous noirs"
 slug: "la-densite-des-trous-noirs"
 date: 2008-06-20
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "physique"

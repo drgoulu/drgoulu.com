@@ -2,8 +2,8 @@
 title: "Best Internet Photos of 2007"
 slug: "best-internet-photos-of-2007"
 date: 2008-02-25
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "photo"
 coverImage: "100926176fcf4783e6c895c3e56eb073.jpg"

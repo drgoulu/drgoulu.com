@@ -2,9 +2,9 @@
 title: "Le Problème à N corps"
 slug: "le-probleme-a-n-corps"
 date: 2008-11-16
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "astro"
   - "informatique"

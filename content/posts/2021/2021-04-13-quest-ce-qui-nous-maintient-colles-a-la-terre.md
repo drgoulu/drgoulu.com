@@ -2,8 +2,6 @@
 title: Qu'est-ce qui nous maintient collés à la Terre?
 slug: quest-ce-qui-nous-maintient-colles-a-la-terre
 date: '2021-04-13'
-categories:
-- non-classe
 draft: true
 coverImage: "image-1024x358.png"
 ---

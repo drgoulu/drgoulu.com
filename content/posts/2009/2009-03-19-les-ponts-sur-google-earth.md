@@ -2,8 +2,8 @@
 title: "Les ponts sur Google Earth"
 slug: "les-ponts-sur-google-earth"
 date: 2009-03-19
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "3d"
   - "architecture"

@@ -2,8 +2,6 @@
 title: "Voitures de sport électriques"
 slug: "voitures-de-sport-electriques"
 date: 2006-08-24
-categories: 
-  - "non-classe"
 tags: 
   - "energie"
 coverImage: "bda3e03ed6795e8227cfecf695826950.jpg"

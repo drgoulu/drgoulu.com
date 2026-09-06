@@ -3,8 +3,8 @@ title: Courbes elliptiques
 slug: courbes-elliptiques
 date: '2016-04-07'
 categories:
-- cat2
-- cat1
+  - "Comment"
+  - "Pourquoi"
 tags:
 - cryptographie
 - maths

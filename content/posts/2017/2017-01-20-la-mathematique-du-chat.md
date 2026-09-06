@@ -2,8 +2,8 @@
 title: "La mathématique du Chat"
 slug: "la-mathematique-du-chat"
 date: 2017-01-20
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "humour"
   - "imparfait-du-subjonctif"

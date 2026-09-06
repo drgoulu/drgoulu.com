@@ -2,8 +2,8 @@
 title: "Tels que Le Corbeau, Le Renard"
 slug: "tels-que-le-corbeau-le-renard"
 date: 2009-05-14
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "art"
   - "google"

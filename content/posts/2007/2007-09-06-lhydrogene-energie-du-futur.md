@@ -2,10 +2,10 @@
 title: "L’Hydrogène, énergie du futur ?"
 slug: "lhydrogene-energie-du-futur"
 date: 2007-09-06
-categories: 
-  - "cat3"
-  - "cat2"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "economie"
   - "energie"

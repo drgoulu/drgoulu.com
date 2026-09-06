@@ -4,8 +4,6 @@ slug: "cest-pi-day-je-me-lave-les-mains-avec-kate-bush"
 aliases:
   - "/2020/03/14/cest-pi-day-je-me-lave-les-mains-avec-kate-bush.../"
 date: 2020-03-14
-categories: 
-  - "non-classe"
 coverImage: "5e6b90d52783c_2586182963385335808.png"
 ---
 

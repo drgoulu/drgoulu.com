@@ -2,8 +2,6 @@
 title: "Du désordre à l'ordre en passant par le chaos"
 slug: "du-desordre-a-lordre-en-passant-par-le-chaos"
 date: 2008-05-05
-categories: 
-  - "non-classe"
 tags: 
   - "physique"
 ---

@@ -2,9 +2,9 @@
 title: "Dopez votre vélo !"
 slug: "dopez-votre-velo"
 date: 2010-06-07
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "electrique"
   - "energie"

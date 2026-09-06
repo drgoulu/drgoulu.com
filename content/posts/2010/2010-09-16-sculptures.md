@@ -2,8 +2,8 @@
 title: "Sculptures et science"
 slug: "sculptures"
 date: 2010-09-16
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "3d"
   - "art"

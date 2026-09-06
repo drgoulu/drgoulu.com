@@ -3,7 +3,7 @@ title: Datamatrix
 slug: datamatrix
 date: '2011-05-01'
 categories:
-- cat2
+  - "Comment"
 tags:
 - python
 draft: true

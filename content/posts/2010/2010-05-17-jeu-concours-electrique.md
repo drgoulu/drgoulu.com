@@ -2,8 +2,8 @@
 title: "Jeu-concours électrique"
 slug: "jeu-concours-electrique"
 date: 2010-05-17
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "casse-tetes"
   - "energie"

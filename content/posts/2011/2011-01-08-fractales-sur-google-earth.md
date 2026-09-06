@@ -2,8 +2,8 @@
 title: "Fractales sur Google Earth"
 slug: "fractales-sur-google-earth"
 date: 2011-01-08
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "fractales"
   - "monde"

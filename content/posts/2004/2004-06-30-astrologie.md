@@ -2,8 +2,8 @@
 title: "Astrologie"
 slug: "astrologie"
 date: 2004-06-30
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astrologie"
   - "pseudo"

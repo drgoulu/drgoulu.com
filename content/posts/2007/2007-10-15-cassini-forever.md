@@ -2,8 +2,8 @@
 title: "Cassini Forever"
 slug: "cassini-forever"
 date: 2007-10-15
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "astro"
   - "cassini"

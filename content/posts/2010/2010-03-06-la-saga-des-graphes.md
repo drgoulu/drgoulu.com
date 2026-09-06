@@ -2,8 +2,8 @@
 title: "La  saga des graphes"
 slug: "la-saga-des-graphes"
 date: 2010-03-06
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "casse-tetes"
   - "graphes"

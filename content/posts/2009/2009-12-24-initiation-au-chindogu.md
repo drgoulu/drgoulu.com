@@ -2,8 +2,8 @@
 title: "Initiation au Chindogu"
 slug: "initiation-au-chindogu"
 date: 2009-12-24
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "humour"
   - "inventions"

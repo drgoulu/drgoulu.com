@@ -2,8 +2,8 @@
 title: "Si on jouait à plier des protéines ?"
 slug: "si-on-jouait-a-plier-des-proteines"
 date: 2008-05-21
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "3d"
   - "biologie"

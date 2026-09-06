@@ -2,8 +2,8 @@
 title: "Applications des éléments du tableau périodique"
 slug: "applications-des-elements-du-tableau-periodique"
 date: 2017-01-08
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "chimie"
   - "physique"

@@ -2,8 +2,8 @@
 title: "La réalité est-elle digitale ou analogique ?"
 slug: "la-realite-est-elle-digitale-ou-analogique"
 date: 2011-03-30
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "maths"
   - "physique"

@@ -2,8 +2,6 @@
 title: "le futur de la télévision (Zattoo, Miro etc.)"
 slug: "le-futur-de-la-television-zattoo-miro-etc"
 date: 2008-03-09
-categories: 
-  - "non-classe"
 tags: 
   - "futur"
   - "internet"

@@ -2,8 +2,8 @@
 title: "Pourquoi on ne peut plus mesurer la vitesse de la lumière"
 slug: "pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere"
 date: 2017-05-26
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "lumiere"
   - "metrologie"

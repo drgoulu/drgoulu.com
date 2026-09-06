@@ -2,8 +2,6 @@
 title: "Cassini va fonctionner 2 ans de plus"
 slug: "cassini-va-fonctionner-2-ans-de-plus"
 date: 2008-04-16
-categories: 
-  - "non-classe"
 tags: 
   - "astro"
   - "cassini"

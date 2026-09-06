@@ -2,8 +2,6 @@
 title: "Model-Based Control of Fast Parallel Robots : a Global Approach in Operational Space"
 slug: "model-based-control-of-fast-parallel-robots-a-global-approach-in-operational-space"
 date: 1993-03-20
-categories: 
-  - "non-classe"
 tags: 
   - "mecanique"
 ---

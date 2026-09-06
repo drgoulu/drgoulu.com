@@ -3,7 +3,7 @@ title: Courbes mystérieuses
 slug: courbes-mysterieuses
 date: '2015-06-15'
 categories:
-- cat2
+  - "Comment"
 tags:
 - art
 - geometrie

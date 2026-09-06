@@ -2,8 +2,8 @@
 title: "Et si...? (le livre de xkcd)"
 slug: "et-si-le-livre-de-xkcd"
 date: 2016-05-08
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "humour"
   - "livres"

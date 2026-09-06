@@ -2,8 +2,8 @@
 title: "J'ai attrapé le bison de Higgs"
 slug: "jai-attrape-le-bison-de-higgs"
 date: 2016-04-03
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "livres"
   - "science"

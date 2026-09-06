@@ -2,8 +2,6 @@
 title: "Nebula Carina"
 slug: "nebula-carina"
 date: 2007-04-25
-categories: 
-  - "non-classe"
 tags: 
   - "astro"
 coverImage: "a5364aba2006e7fc1eada3d9589b410d.jpg"

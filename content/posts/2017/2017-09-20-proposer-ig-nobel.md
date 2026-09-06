@@ -2,8 +2,8 @@
 title: "Comment proposer un Ig Nobel"
 slug: "proposer-ig-nobel"
 date: 2017-09-20
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "ignobel"
 coverImage: "maxresdefault.jpg"

@@ -2,8 +2,8 @@
 title: "Ce que Darwin n'a pas dit"
 slug: "ce-que-darwin-na-pas-dit"
 date: 2009-01-23
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "darwin"
   - "evolution"

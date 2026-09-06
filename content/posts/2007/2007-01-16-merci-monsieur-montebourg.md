@@ -2,8 +2,6 @@
 title: "Merci Monsieur Montebourg"
 slug: "merci-monsieur-montebourg"
 date: 2007-01-16
-categories: 
-  - "non-classe"
 tags: 
   - "economie"
   - "politique"

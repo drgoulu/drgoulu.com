@@ -2,10 +2,10 @@
 title: "Carte des Sciences"
 slug: "carte-des-sciences"
 date: 2007-06-07
-categories: 
-  - "cat3"
-  - "cat2"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "graphes"
 coverImage: "8b3bb20fb8f3eb1ec921bc421cfdecd0.jpg"

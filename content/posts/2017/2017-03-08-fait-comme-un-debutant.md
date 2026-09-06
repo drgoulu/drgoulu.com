@@ -2,8 +2,6 @@
 title: Fait comme un débutant
 slug: fait-comme-un-debutant
 date: '2017-03-08'
-categories:
-- non-classe
 tags:
 - informatique
 - python

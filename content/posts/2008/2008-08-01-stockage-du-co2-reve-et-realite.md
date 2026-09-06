@@ -2,8 +2,8 @@
 title: "Stockage du CO2 : rêve et réalité"
 slug: "stockage-du-co2-reve-et-realite"
 date: 2008-08-01
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "chimie"
   - "co2"

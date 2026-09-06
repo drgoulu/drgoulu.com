@@ -3,7 +3,7 @@ title: 'Exemple de pseudo-physique : le modèle OSCAR'
 slug: exemple-de-pseudo-physique-le-modele-oscar
 date: '2015-06-02'
 categories:
-- cat1
+  - "Pourquoi"
 tags:
 - physique
 - pseudo

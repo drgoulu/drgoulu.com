@@ -2,8 +2,8 @@
 title: "Portal, le jeu hyperspécial"
 slug: "portal-le-jeu-hyperspecial"
 date: 2007-11-11
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "casse-tetes"
   - "jeux"

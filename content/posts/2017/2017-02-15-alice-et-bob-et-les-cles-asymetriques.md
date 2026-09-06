@@ -2,8 +2,8 @@
 title: "Alice et Bob et les clés asymétriques"
 slug: "alice-et-bob-et-les-cles-asymetriques"
 date: 2017-02-15
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "cryptographie"
   - "internet"

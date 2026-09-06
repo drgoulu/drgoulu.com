@@ -2,8 +2,8 @@
 title: "la voiture électrique ne sera pas solaire"
 slug: "la-voiture-electrique-ne-sera-pas-solaire"
 date: 2009-03-04
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "ecologisme"
   - "energie"

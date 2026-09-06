@@ -2,8 +2,6 @@
 title: "Système solaire &quot;au complet&quot;"
 slug: "systeme-solaire-au-complet"
 date: 2007-05-24
-categories: 
-  - "non-classe"
 tags: 
   - "astro"
 coverImage: "447ff93daae8ccee6a13e8b3a36ee96f.png"

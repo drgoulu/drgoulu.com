@@ -2,8 +2,8 @@
 title: "Le fossé de Sloane"
 slug: "le-fosse-de-sloane"
 date: 2011-04-10
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "maths"
   - "nombres"

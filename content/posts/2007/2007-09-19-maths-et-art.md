@@ -2,8 +2,8 @@
 title: "Maths et Art"
 slug: "maths-et-art"
 date: 2007-09-19
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "art"
   - "geometrie"

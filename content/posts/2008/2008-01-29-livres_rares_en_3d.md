@@ -2,8 +2,8 @@
 title: "Livres rares en 3D"
 slug: "livres_rares_en_3d"
 date: 2008-01-29
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "3d"
   - "histoire"

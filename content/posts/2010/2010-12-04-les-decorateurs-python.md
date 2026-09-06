@@ -2,8 +2,8 @@
 title: "les décorateurs, ou pourquoi j'aime toujours la programmation"
 slug: "les-decorateurs-python"
 date: 2010-12-04
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "informatique"
   - "programmation"

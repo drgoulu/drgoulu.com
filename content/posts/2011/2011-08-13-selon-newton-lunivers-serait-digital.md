@@ -2,8 +2,8 @@
 title: "Selon Newton, l'univers serait discret"
 slug: "selon-newton-lunivers-serait-digital"
 date: 2011-08-13
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "maths"
   - "physique"

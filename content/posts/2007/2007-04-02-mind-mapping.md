@@ -2,8 +2,8 @@
 title: "Mind Mapping"
 slug: "mind-mapping"
 date: 2007-04-02
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "logiciels"
 coverImage: "407f8977c1af851beb72407f6a7653e0-1.png"

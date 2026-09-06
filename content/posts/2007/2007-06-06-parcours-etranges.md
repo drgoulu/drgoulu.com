@@ -2,8 +2,6 @@
 title: "Parcours Etranges"
 slug: "parcours-etranges"
 date: 2007-06-06
-categories: 
-  - "non-classe"
 tags: 
   - "aerospace"
   - "astro"

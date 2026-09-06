@@ -2,8 +2,8 @@
 title: "Combien pour ce brevet ?"
 slug: "combien-pour-ce-brevet"
 date: 2009-03-08
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "brevet"
   - "economie"

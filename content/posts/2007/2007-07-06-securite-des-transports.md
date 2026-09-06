@@ -2,8 +2,8 @@
 title: "Sécurité des transports"
 slug: "securite-des-transports"
 date: 2007-07-06
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "statistiques"
   - "transports"

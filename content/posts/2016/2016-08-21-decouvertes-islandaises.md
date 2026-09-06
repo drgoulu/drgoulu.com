@@ -2,8 +2,6 @@
 title: "Découvertes islandaises"
 slug: "decouvertes-islandaises"
 date: 2016-08-21
-categories: 
-  - "ou"
 tags: 
   - "animaux"
   - "gastronomie"

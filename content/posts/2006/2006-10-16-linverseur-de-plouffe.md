@@ -2,8 +2,8 @@
 title: "l’Inverseur de Plouffe"
 slug: "linverseur-de-plouffe"
 date: 2006-10-16
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "internet"
   - "maths"

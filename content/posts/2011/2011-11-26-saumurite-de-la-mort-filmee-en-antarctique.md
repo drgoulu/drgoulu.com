@@ -2,8 +2,8 @@
 title: "&quot;Saumurite&quot; de la mort filmée en Antarctique"
 slug: "saumurite-de-la-mort-filmee-en-antarctique"
 date: 2011-11-26
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "eau"
   - "monde"

@@ -3,7 +3,7 @@ title: Gulf Stream
 slug: gulf-stream
 date: '2013-08-20'
 categories:
-- cat1
+  - "Pourquoi"
 tags:
 - energie
 - oceans

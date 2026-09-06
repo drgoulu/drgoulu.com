@@ -2,8 +2,8 @@
 title: "Statistiques et Espérance de Vie"
 slug: "statistiques-et-esperance-de-vie"
 date: 2007-06-26
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "pour-la-science"
   - "societe"

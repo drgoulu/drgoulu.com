@@ -2,8 +2,8 @@
 title: "La ChemCam de Curiosity"
 slug: "la-chemcam-de-curiosity"
 date: 2014-05-26
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "aerospace"
   - "geologie"

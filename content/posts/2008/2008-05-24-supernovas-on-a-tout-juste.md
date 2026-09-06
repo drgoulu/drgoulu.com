@@ -2,8 +2,6 @@
 title: "Supernovas : on a tout juste."
 slug: "supernovas-on-a-tout-juste"
 date: 2008-05-24
-categories: 
-  - "non-classe"
 tags: 
   - "astro"
   - "physique"

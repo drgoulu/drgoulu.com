@@ -2,9 +2,9 @@
 title: "Charbon ou Uranium ? Les deux, mon kangourou !"
 slug: "charbon-ou-uranium-les-deux-mon-kangourou"
 date: 2011-11-19
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "ecologisme"
   - "energie"

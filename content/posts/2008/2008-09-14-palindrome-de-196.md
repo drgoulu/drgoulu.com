@@ -2,8 +2,8 @@
 title: "Palindrome de 196"
 slug: "palindrome-de-196"
 date: 2008-09-14
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "informatique"
   - "maths"

@@ -2,8 +2,8 @@
 title: "Les GapCasts : géniales vidéos sur les statistiques mondiales"
 slug: "les-gapcasts-geniales-videos-sur-les-statistiques-mondiales"
 date: 2008-03-07
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "economie"
   - "gapminder"

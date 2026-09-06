@@ -2,8 +2,8 @@
 title: "L'abstraction mathématique gravée dans le marbre"
 slug: "abstraction-mathematique-gravee-dans-le-marbre"
 date: 2016-12-02
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "maths"
 coverImage: "urs-wurgler.jpg"

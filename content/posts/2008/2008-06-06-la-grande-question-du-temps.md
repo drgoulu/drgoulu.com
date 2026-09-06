@@ -2,8 +2,8 @@
 title: "la Grande Question du Temps"
 slug: "la-grande-question-du-temps"
 date: 2008-06-06
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "philosophie"

@@ -2,8 +2,8 @@
 title: "Encore plus d'inégalité ?"
 slug: "encore-plus-dinegalite"
 date: 2012-07-13
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "economie"
   - "gini"

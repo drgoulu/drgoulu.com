@@ -2,8 +2,6 @@
 title: "l&#039;Enigme des Trois Interrupteurs"
 slug: "lenigme-des-trois-interrupteurs"
 date: 2007-11-17
-categories: 
-  - "non-classe"
 tags: 
   - "casse-tetes"
 coverImage: "ampoule.jpg"

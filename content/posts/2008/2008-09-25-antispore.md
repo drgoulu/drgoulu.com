@@ -2,8 +2,8 @@
 title: "Anti Spore"
 slug: "antispore"
 date: 2008-09-25
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "evolution"
   - "internet"

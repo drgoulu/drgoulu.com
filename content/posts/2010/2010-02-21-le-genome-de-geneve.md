@@ -2,8 +2,8 @@
 title: "Le Génome de Genève"
 slug: "le-genome-de-geneve"
 date: 2010-02-21
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "biologie"
   - "geneve"

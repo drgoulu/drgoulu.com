@@ -2,8 +2,8 @@
 title: "Longitude"
 slug: "longitude"
 date: 2009-10-04
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "histoire"
   - "horlogerie"

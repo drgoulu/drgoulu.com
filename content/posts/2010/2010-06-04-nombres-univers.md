@@ -2,8 +2,8 @@
 title: "Nombres Univers"
 slug: "nombres-univers"
 date: 2010-06-04
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "maths"
   - "pi"

@@ -2,8 +2,8 @@
 title: "Combien de Rendement"
 slug: "combien-de-rendement"
 date: 2009-11-04
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "ecologisme"
   - "economie"

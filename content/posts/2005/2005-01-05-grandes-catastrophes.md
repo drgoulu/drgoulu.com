@@ -2,8 +2,8 @@
 title: "Grandes Catastrophes"
 slug: "grandes-catastrophes"
 date: 2005-01-05
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "conflits"
   - "monde"

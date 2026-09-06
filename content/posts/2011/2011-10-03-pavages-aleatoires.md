@@ -3,8 +3,8 @@ title: Pavages aléatoires
 slug: pavages-aleatoires
 date: 2011-10-03
 categories:
-  - cat2
-  - cat1
+  - "Comment"
+  - "Pourquoi"
 tags:
   - art
   - fractales

@@ -2,8 +2,8 @@
 title: "Pourquoi une loupe ne viole pas la thermodynamique"
 slug: "pourquoi-une-loupe-ne-viole-pas-la-thermodynamique"
 date: 2013-02-03
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "energie"
   - "physique"

@@ -3,7 +3,7 @@ title: "Succès hollywoodiens et transformée de Fourier"
 slug: "succes-hollywoodiens-et-transformee-de-fourier"
 date: 2010-03-06
 categories:
-  - "cat2"
+  - "Comment"
 tags:
   - "art"
   - "maths"

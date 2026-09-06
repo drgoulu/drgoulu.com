@@ -2,8 +2,8 @@
 title: "Rentabilité des éoliennes"
 slug: "rentabilite-des-eoliennes"
 date: 2008-08-30
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "economie"
   - "energie"

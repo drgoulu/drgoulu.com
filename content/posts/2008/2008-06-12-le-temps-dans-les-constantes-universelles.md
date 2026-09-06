@@ -2,8 +2,8 @@
 title: "Le temps dans les constantes universelles"
 slug: "le-temps-dans-les-constantes-universelles"
 date: 2008-06-12
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "geometrie"
   - "maths"

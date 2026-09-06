@@ -2,8 +2,8 @@
 title: "Icosien, le nouveau jeu de Neamar"
 slug: "icosien-le-nouveau-jeu-de-neamar"
 date: 2010-06-24
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "casse-tetes"
   - "graphes"

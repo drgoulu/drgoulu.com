@@ -2,9 +2,9 @@
 title: "Le point sur les ondes gravitationnelles"
 slug: "le-point-sur-les-ondes-gravitationnelles"
 date: 2014-03-22
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "astro"
   - "einstein"

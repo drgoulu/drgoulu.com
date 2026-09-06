@@ -2,8 +2,6 @@
 title: "Science et Humour"
 slug: "science-et-humour"
 date: 2008-09-14
-categories: 
-  - "non-classe"
 tags: 
   - "humour"
   - "science"

@@ -2,9 +2,9 @@
 title: "le Big Bang Numérique"
 slug: "le-big-bang-numerique"
 date: 2008-04-10
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "economie"
   - "futur"

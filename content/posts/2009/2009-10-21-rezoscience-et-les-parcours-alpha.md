@@ -2,8 +2,8 @@
 title: "Rezoscience et les Parcours Alpha"
 slug: "rezoscience-et-les-parcours-alpha"
 date: 2009-10-21
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "science"
   - "suisse"

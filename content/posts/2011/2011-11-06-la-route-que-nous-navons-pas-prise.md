@@ -2,8 +2,8 @@
 title: "La route que nous n'avons pas prise"
 slug: "la-route-que-nous-navons-pas-prise"
 date: 2011-11-06
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "fiction"
   - "pseudo"

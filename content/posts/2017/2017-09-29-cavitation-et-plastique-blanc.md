@@ -3,7 +3,7 @@ title: Cavitation et plastique blanc
 slug: cavitation-et-plastique-blanc
 date: '2017-09-29'
 categories:
-- cat2
+  - "Comment"
 draft: true
 ---
 1. Barry A Morris The Science and Technology of Flexible Packaging: Multilayer Films https://books.google.ch/books?id=EIbIAwAAQBAJ&lpg=PA98&ots=uoTEllNSE3&dq=cavitation%20film%20printing%20packaging&hl=fr&pg=PA98#v=onepage&q=cavitation%20film%20printing%20packaging&f=false

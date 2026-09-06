@@ -2,8 +2,8 @@
 title: "le dessous des cartes de l'énergie"
 slug: "le-dessous-des-cartes-de-lenergie"
 date: 2008-06-12
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "economie"
   - "energie"

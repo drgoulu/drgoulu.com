@@ -2,8 +2,6 @@
 title: "Pandora : La boite à musique qui explose tout !"
 slug: "pandora-la-boite-a-musique-qui-explose-tout"
 date: 2007-01-07
-categories: 
-  - "non-classe"
 tags: 
   - "internet"
   - "musique"

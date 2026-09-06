@@ -2,8 +2,6 @@
 title: "Compte à rebours stellaire"
 slug: "compte-a-rebours-stellaire"
 date: 2007-05-09
-categories: 
-  - "non-classe"
 tags: 
   - "astro"
   - "physique"

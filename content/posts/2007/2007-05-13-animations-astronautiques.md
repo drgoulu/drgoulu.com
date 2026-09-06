@@ -2,8 +2,8 @@
 title: "Animations astronautiques"
 slug: "animations-astronautiques"
 date: 2007-05-13
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "astro"
 ---

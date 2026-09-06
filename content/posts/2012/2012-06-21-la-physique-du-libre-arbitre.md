@@ -3,7 +3,7 @@ title: La physique du libre-arbitre
 slug: la-physique-du-libre-arbitre
 date: '2012-06-21'
 categories:
-- cat1
+  - "Pourquoi"
 tags:
 - philosophie
 - physique

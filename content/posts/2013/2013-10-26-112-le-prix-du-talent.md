@@ -2,8 +2,8 @@
 title: "1:12, le prix du talent"
 slug: "112-le-prix-du-talent"
 date: 2013-10-26
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "gini"
   - "inegalites"

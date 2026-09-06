@@ -2,8 +2,8 @@
 title: "Le Darwinisme quantique"
 slug: "le-darwinisme-quantique"
 date: 2007-10-15
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "philosophie"
   - "physique"

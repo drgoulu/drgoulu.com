@@ -2,8 +2,8 @@
 title: "Le rayon vert"
 slug: "le-rayon-vert"
 date: 2007-05-28
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "optique"
   - "photo"

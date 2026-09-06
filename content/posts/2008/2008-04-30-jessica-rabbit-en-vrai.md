@@ -2,8 +2,8 @@
 title: "Jessica Rabbit en vrai"
 slug: "jessica-rabbit-en-vrai"
 date: 2008-04-30
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "cinema"
   - "graphisme"

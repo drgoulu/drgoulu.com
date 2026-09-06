@@ -2,9 +2,9 @@
 title: "Chris Jordan, photographe de statistiques"
 slug: "chris-jordan-photographe-de-statistiques"
 date: 2008-08-01
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "art"
   - "graphisme"

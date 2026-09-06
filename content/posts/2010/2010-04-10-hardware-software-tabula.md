@@ -2,8 +2,8 @@
 title: "Hardware, software, tabula ?"
 slug: "hardware-software-tabula"
 date: 2010-04-10
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "futur"
   - "informatique"

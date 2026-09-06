@@ -2,8 +2,8 @@
 title: "Qui veut voyager loin ionise sa sonde"
 slug: "qui-veut-voyager-loin-ionise-sa-sonde"
 date: 2007-09-28
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "aerospace"
   - "astro"

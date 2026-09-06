@@ -2,8 +2,8 @@
 title: "La science est la croyance en l'ignorance des experts"
 slug: "la-science-est-la-croyance-en-lignorance-des-experts"
 date: 2013-12-18
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "feynman"
   - "pedagogie"

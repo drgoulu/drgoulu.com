@@ -2,8 +2,8 @@
 title: "Voir en 4 dimensions"
 slug: "voir-en-4-dimensions"
 date: 2007-02-06
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "dimensions"
   - "geometrie"

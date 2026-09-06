@@ -2,8 +2,8 @@
 title: "Il faut s'abstenir de faire le moindre léchage de crapaud !"
 slug: "il-faut-sabstenir-de-faire-le-moindre-lechage-de-crapaud"
 date: 2007-09-28
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "biologie"
   - "chimie"

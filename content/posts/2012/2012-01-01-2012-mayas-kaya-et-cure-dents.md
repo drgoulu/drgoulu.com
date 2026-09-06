@@ -2,10 +2,10 @@
 title: "2012, Mayas, Kaya et cure-dents"
 slug: "2012-mayas-kaya-et-cure-dents"
 date: 2012-01-01
-categories: 
-  - "cat3"
-  - "cat2"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "annee"
   - "demographie"

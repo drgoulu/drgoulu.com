@@ -2,8 +2,8 @@
 title: "20 ans de Science Simpson"
 slug: "20-ans-de-science-simpson"
 date: 2010-03-07
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "art"
   - "humour"

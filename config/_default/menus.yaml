@@ -2,12 +2,18 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: /
-    weight: 10
-  - name: Sujets
-    url: tags/
+  - name: Pourquoi
+    url: categories/pourquoi/
     weight: 20
+  - name: Comment
+    url: categories/comment/
+    weight: 30
+  - name: Combien
+    url: categories/combien/
+    weight: 40
   - name: À propos
     url: a-propos/
-    weight: 30
+    weight: 50
+  - name: Sujets
+    url: tags/
+    weight: 60

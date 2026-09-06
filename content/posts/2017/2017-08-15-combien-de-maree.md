@@ -2,9 +2,9 @@
 title: "Combien de marée"
 slug: "combien-de-maree"
 date: 2017-08-15
-categories: 
-  - "cat3"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Pourquoi"
 tags: 
   - "astro"
   - "energie"

@@ -2,10 +2,10 @@
 title: "Crée ou crève : l'innovation de rupture"
 slug: "innovation"
 date: 2012-06-30
-categories: 
-  - "cat3"
-  - "cat2"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "horlogerie"
   - "innovation"

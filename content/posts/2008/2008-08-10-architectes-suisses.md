@@ -2,8 +2,8 @@
 title: "Architectes suisses"
 slug: "architectes-suisses"
 date: 2008-08-10
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "architecture"
   - "monde"

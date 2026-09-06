@@ -2,8 +2,8 @@
 title: "Architecture Dynamique"
 slug: "architecture-dynamique"
 date: 2007-06-03
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "architecture"
 coverImage: "ab456633f03ef14aed9603f808512feb.jpg"

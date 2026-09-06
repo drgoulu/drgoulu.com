@@ -2,8 +2,8 @@
 title: "Oiseaux, merveilleux oiseaux"
 slug: "oiseaux-merveilleux-oiseaux"
 date: 2007-11-09
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "biologie"
   - "livres"

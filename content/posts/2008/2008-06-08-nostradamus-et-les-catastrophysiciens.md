@@ -2,8 +2,8 @@
 title: "Nostradamus et les Catastrophysiciens"
 slug: "nostradamus-et-les-catastrophysiciens"
 date: 2008-06-08
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "cern"
   - "lhc"

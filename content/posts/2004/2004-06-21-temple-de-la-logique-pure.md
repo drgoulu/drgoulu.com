@@ -2,8 +2,8 @@
 title: "Temple de la Logique Pure"
 slug: "temple-de-la-logique-pure"
 date: 2004-06-21
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "casse-tetes"
 ---

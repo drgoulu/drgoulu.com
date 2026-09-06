@@ -2,8 +2,8 @@
 title: "Israël : 60 ans, et toujours pas de Constitution"
 slug: "israel-60-ans-et-toujours-pas-de-constitution"
 date: 2008-05-09
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "histoire"
   - "monde"

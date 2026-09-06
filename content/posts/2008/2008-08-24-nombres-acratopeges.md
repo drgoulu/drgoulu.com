@@ -2,8 +2,8 @@
 title: "Chasse aux nombres acratopèges"
 slug: "nombres-acratopeges"
 date: 2008-08-24
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "maths"
   - "nombres"

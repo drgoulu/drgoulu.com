@@ -2,10 +2,10 @@
 title: "Soldes 2012 : Ecolonergie"
 slug: "soldes-2012-ecolonergie"
 date: 2012-12-29
-categories: 
-  - "cat3"
-  - "cat2"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "demographie"
   - "ecologisme"

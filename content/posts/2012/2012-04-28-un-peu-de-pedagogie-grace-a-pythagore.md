@@ -2,9 +2,9 @@
 title: "Un peu de pédagogie grâce à Pythagore"
 slug: "un-peu-de-pedagogie-grace-a-pythagore"
 date: 2012-04-28
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "geometrie"
   - "pedagogie"

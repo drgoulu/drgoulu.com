@@ -2,8 +2,8 @@
 title: "Rock et science"
 slug: "rock-et-science"
 date: 2012-10-15
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "musique"
 coverImage: "f624694b33a3e66efbbe720c75991ad0.jpg"

@@ -2,9 +2,9 @@
 title: "Criminalité des étrangers : statistiquement non significative"
 slug: "criminalite-des-etrangers-statistiquement-non-significative"
 date: 2007-09-24
-categories: 
-  - "cat3"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Pourquoi"
 tags: 
   - "statistiques"
   - "suisse"

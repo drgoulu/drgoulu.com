@@ -2,8 +2,6 @@
 title: Des casse-tête numériques à l'inverseur de Plouffe
 slug: des-casse-tete-numeriques-a-linverseur-de-plouffe
 date: '2017-12-18'
-categories:
-- non-classe
 draft: true
 coverImage: "logo.png"
 ---

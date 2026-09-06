@@ -2,8 +2,6 @@
 title: "Désencyclopédie"
 slug: "desencyclopedie"
 date: 2007-03-09
-categories: 
-  - "non-classe"
 tags: 
   - "humour"
 coverImage: "ad2321b35cfdee2a8736729eb1c9273b.png"

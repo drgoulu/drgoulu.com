@@ -2,8 +2,8 @@
 title: "L’ingénieur est un type qui sait ce qu’il peut négliger"
 slug: "lingenieur-est-un-type-qui-sait-ce-quil-peut-negliger"
 date: 2008-05-28
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 coverImage: "6852211d7663ff6a2d7ecb9701d195ef.jpg"
 ---
 

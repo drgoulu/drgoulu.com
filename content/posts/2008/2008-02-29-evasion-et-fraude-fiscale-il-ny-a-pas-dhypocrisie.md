@@ -2,8 +2,6 @@
 title: "Évasion et fraude fiscale : il n&#039;y a pas d’hypocrisie"
 slug: "evasion-et-fraude-fiscale-il-ny-a-pas-dhypocrisie"
 date: 2008-02-29
-categories: 
-  - "non-classe"
 tags: 
   - "economie"
   - "societe"

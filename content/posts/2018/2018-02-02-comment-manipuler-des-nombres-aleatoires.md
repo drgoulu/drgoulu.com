@@ -3,7 +3,7 @@ title: Comment manipuler des nombres aléatoires
 slug: comment-manipuler-des-nombres-aleatoires
 date: '2018-02-02'
 categories:
-- cat2
+  - "Comment"
 tags:
 - hasard
 - informatique

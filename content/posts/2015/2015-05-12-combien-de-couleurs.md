@@ -3,8 +3,8 @@ title: Combien de couleurs
 slug: combien-de-couleurs
 date: '2015-05-12'
 categories:
-- cat2
-- cat1
+  - "Comment"
+  - "Pourquoi"
 draft: true
 coverImage: "colviscon.gif"
 ---

@@ -2,8 +2,8 @@
 title: "les satellites sur GoogleEarth"
 slug: "les-satellites-sur-googleearth"
 date: 2009-02-27
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "aerospace"
   - "internet"

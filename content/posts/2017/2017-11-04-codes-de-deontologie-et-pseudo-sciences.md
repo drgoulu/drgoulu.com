@@ -2,8 +2,8 @@
 title: "Codes de déontologie et pseudo sciences"
 slug: "codes-de-deontologie-et-pseudo-sciences"
 date: 2017-11-04
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "acupuncture"
   - "ethique"

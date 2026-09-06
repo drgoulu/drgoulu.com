@@ -2,8 +2,8 @@
 title: "Lecteur de pensée"
 slug: "lecteur-de-pensee"
 date: 2007-12-12
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "casse-tetes"
   - "maths"

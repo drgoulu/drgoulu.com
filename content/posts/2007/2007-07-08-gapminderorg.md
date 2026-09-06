@@ -2,9 +2,9 @@
 title: "Gapminder.org"
 slug: "gapminderorg"
 date: 2007-07-08
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "economie"
   - "gapminder"

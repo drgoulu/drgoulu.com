@@ -2,8 +2,8 @@
 title: "Pourquoi on aime le joli, le sexy, le sucré et le drôle"
 slug: "pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole"
 date: 2009-03-25
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "darwin"
   - "philosophie"

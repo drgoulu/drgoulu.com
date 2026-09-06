@@ -2,8 +2,6 @@
 title: "Merci France Info !"
 slug: "merci-france-info"
 date: 2009-07-25
-categories: 
-  - "non-classe"
 tags: 
   - "internet"
   - "media"

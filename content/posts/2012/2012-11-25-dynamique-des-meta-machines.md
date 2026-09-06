@@ -2,8 +2,6 @@
 title: Dynamique des (méta) machines
 slug: dynamique-des-meta-machines
 date: '2012-11-25'
-categories:
-- non-classe
 tags:
 - production
 draft: true

@@ -2,8 +2,8 @@
 title: "Coût des transports"
 slug: "cout-des-transports"
 date: 2007-01-26
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "economie"
   - "transports"

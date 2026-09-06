@@ -2,8 +2,6 @@
 title: "Mes 10 livres préférés (#MyTopTenBooks)"
 slug: "mes-10-livres-preferes-mytoptenbooks"
 date: 2014-04-18
-categories: 
-  - "non-classe"
 tags: 
   - "livres"
 coverImage: "20140418_152251.jpg"

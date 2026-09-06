@@ -2,8 +2,8 @@
 title: "Le Nouveau Parlement Suisse en 2 Dimensions"
 slug: "le-nouveau-parlement-suisse-en-2-dimensions"
 date: 2007-10-30
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "politique"
   - "statistiques"

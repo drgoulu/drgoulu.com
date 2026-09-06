@@ -2,8 +2,8 @@
 title: "L'hélicoptère à pédales existe enfin"
 slug: "lhelicoptere-a-pedales-existe-enfin"
 date: 2013-07-14
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "helicoptere"
   - "sport"

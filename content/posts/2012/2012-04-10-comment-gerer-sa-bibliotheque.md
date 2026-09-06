@@ -2,8 +2,8 @@
 title: "Comment gérer sa bibliothèque"
 slug: "comment-gerer-sa-bibliotheque"
 date: 2012-04-10
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "internet"
   - "livres"

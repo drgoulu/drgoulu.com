@@ -2,8 +2,6 @@
 title: "Saturne : le Poster"
 slug: "saturne-le-poster"
 date: 2007-12-03
-categories: 
-  - "non-classe"
 tags: 
   - "astro"
 coverImage: "fdb6f02606db1152384572e732610aa5.jpg"

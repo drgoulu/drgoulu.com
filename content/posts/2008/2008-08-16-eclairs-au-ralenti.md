@@ -2,8 +2,8 @@
 title: "Eclairs au ralenti"
 slug: "eclairs-au-ralenti"
 date: 2008-08-16
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "foudre"
   - "physique"

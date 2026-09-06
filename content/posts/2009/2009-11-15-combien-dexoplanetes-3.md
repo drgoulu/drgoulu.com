@@ -2,8 +2,8 @@
 title: "Combien d'exoplanètes"
 slug: "combien-dexoplanetes-3"
 date: 2009-11-15
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "astro"
   - "physique"

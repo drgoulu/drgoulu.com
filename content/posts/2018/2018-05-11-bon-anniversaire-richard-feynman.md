@@ -2,8 +2,8 @@
 title: "Bon anniversaire, Richard Feynman!"
 slug: "bon-anniversaire-richard-feynman"
 date: 2018-05-11
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "feynman"
 coverImage: "feynman-portada-principia-211x300.jpg"

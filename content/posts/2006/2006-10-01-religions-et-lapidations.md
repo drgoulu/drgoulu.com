@@ -2,8 +2,8 @@
 title: "Religions et Lapidations"
 slug: "religions-et-lapidations"
 date: 2006-10-01
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "monde"
 ---

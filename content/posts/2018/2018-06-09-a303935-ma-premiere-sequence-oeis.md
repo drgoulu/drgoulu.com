@@ -2,8 +2,8 @@
 title: "A303935 , ma première suite OEIS"
 slug: "a303935-ma-premiere-sequence-oeis"
 date: 2018-06-09
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "nombres"
   - "oeis"

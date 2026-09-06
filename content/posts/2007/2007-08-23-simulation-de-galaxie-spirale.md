@@ -2,8 +2,8 @@
 title: "Simulation de Galaxie Spirale"
 slug: "simulation-de-galaxie-spirale"
 date: 2007-08-23
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "galaxies"
   - "programmation"

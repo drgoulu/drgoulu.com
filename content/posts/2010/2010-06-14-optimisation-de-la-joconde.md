@@ -2,8 +2,8 @@
 title: "Optimisation de la Joconde"
 slug: "optimisation-de-la-joconde"
 date: 2010-06-14
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "art"
   - "graphes"

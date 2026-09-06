@@ -2,9 +2,9 @@
 title: "Grosse découverte grâce à Galaxy Zoo ?"
 slug: "grosse-decouverte-grace-a-galaxy-zoo"
 date: 2008-08-09
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "astro"
   - "crowdsourcing"

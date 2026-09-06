@@ -2,8 +2,8 @@
 title: "Exoplanètes : Catalogue et simulations"
 slug: "exoplanetes-catalogue-et-simulations"
 date: 2007-02-21
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
 ---

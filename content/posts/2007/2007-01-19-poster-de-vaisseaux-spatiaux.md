@@ -2,8 +2,8 @@
 title: "Poster de vaisseaux spatiaux"
 slug: "poster-de-vaisseaux-spatiaux"
 date: 2007-01-19
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "aerospace"
   - "fiction"

@@ -2,8 +2,6 @@
 title: "Google ouvre son infrastructure"
 slug: "google-ouvre-son-infrastructure"
 date: 2008-04-08
-categories: 
-  - "non-classe"
 tags: 
   - "google"
   - "internet"

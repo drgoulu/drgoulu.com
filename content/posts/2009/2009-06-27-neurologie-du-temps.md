@@ -2,8 +2,8 @@
 title: "Neurologie du Temps"
 slug: "neurologie-du-temps"
 date: 2009-06-27
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "biologie"
   - "cerveau"

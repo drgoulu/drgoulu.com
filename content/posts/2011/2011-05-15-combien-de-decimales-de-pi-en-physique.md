@@ -2,8 +2,8 @@
 title: "Combien de décimales de Pi en physique"
 slug: "combien-de-decimales-de-pi-en-physique"
 date: 2011-05-15
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "physique"
   - "pi"

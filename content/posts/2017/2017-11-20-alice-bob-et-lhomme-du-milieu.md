@@ -2,8 +2,8 @@
 title: "Alice, Bob et l'Homme du Milieu"
 slug: "alice-bob-et-lhomme-du-milieu"
 date: 2017-11-20
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "cryptographie"
   - "internet"

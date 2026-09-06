@@ -2,8 +2,8 @@
 title: "Laissez ses données changer votre état d'esprit."
 slug: "laissez-ses-donnees-changer-votre-etat-desprit"
 date: 2009-09-19
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "gapminder"
   - "monde"

@@ -3,7 +3,7 @@ title: Le chant du café, ou "effet chocolat chaud"
 slug: le-chant-du-cafe-ou-effet-chocolat-chaud
 date: '2018-03-11'
 categories:
-- cat1
+  - "Pourquoi"
 tags:
 - cafe
 - physique

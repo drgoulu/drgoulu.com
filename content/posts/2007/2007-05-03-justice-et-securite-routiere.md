@@ -2,8 +2,6 @@
 title: "Justice et sécurité routière"
 slug: "justice-et-securite-routiere"
 date: 2007-05-03
-categories: 
-  - "non-classe"
 tags: 
   - "societe"
 ---

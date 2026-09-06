@@ -2,8 +2,8 @@
 title: "Voyage au coeur d'un trou noir"
 slug: "voyage-au-coeur-dun-trou-noir"
 date: 2008-10-09
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "physique"

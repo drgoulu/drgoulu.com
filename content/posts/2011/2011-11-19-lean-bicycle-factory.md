@@ -2,9 +2,9 @@
 title: "Lean Bicycle Factory"
 slug: "lean-bicycle-factory"
 date: 2011-11-19
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "jeux"
   - "optimisation"

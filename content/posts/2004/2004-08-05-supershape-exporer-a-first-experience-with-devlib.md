@@ -2,8 +2,6 @@
 title: "SuperShape Exporer : a first experience with DevLib"
 slug: "supershape-exporer-a-first-experience-with-devlib"
 date: 2004-08-05
-categories: 
-  - "non-classe"
 tags: 
   - "programmation"
 ---

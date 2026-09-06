@@ -2,8 +2,8 @@
 title: "Comment transformer le plomb en or ?"
 slug: "comment-transformer-le-plomb-en-or"
 date: 2013-03-15
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "chimie"
   - "fusion"

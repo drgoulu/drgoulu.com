@@ -2,8 +2,8 @@
 title: "La première boucle"
 slug: "la-premiere-boucle"
 date: 2016-06-26
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "dame"
   - "histoire"

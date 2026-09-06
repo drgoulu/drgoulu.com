@@ -2,9 +2,9 @@
 title: "Le premier demi-vortex de l&#039;Univers ?"
 slug: "le-premier-demi-vortex-de-lunivers"
 date: 2009-11-28
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "optique"
   - "physique"

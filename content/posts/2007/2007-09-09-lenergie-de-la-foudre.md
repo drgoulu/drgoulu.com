@@ -2,9 +2,9 @@
 title: "L’énergie de la foudre"
 slug: "lenergie-de-la-foudre"
 date: 2007-09-09
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "electricite"
   - "energie"

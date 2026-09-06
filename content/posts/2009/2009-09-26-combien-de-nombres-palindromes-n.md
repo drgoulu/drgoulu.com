@@ -2,8 +2,8 @@
 title: "Combien de nombres palindromes < N ?"
 slug: "combien-de-nombres-palindromes-n"
 date: 2009-09-26
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "casse-tetes"
   - "maths"

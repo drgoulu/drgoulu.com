@@ -3,7 +3,7 @@ title: Comment faire passer un Arc par 3 points
 slug: comment-faire-passer-un-arc-par-3-points
 date: '2016-04-19'
 categories:
-- cat2
+  - "Comment"
 draft: true
 ---
 Tombé sur ce problème tout bête en apparence : Comment faire passer un arc de cercle par 3 points ? Ou plus précisément comment définir un arc de cercle orienté entre deux points a et c, passant par un troisième point b ?

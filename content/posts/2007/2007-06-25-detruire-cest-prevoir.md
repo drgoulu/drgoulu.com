@@ -2,8 +2,6 @@
 title: "Détruire, c&#8217;est prévoir ?"
 slug: "detruire-cest-prevoir"
 date: 2007-06-25
-categories: 
-  - "non-classe"
 ---
 
 J'en avais entendu parler mais c'est réel : [Un logiciel permet de reconstituer les documents passés au broyeur.](http://www.techno-science.net/?onglet=news&news=4216) Grâce à lui, le million de pages détruites par la Stasi, la police secrète est-allemande, va pouvoir être reconstitué en 5 ans environ. Quelques milliers d'ex-indics doivent être en train de regretter que la pénurie communiste ait également touché les allumettes...

@@ -2,8 +2,6 @@
 title: "Dr. Goulu rejoint le C@fé des Sciences"
 slug: "dr-goulu-rejoint-le-cfe-des-sciences"
 date: 2008-06-10
-categories: 
-  - "non-classe"
 tags: 
   - "cafe"
   - "graphes"

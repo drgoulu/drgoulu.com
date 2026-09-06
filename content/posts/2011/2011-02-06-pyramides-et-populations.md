@@ -2,8 +2,8 @@
 title: "Pyramides et populations"
 slug: "pyramides-et-populations"
 date: 2011-02-06
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "demographie"
   - "gapminder"

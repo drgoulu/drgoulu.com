@@ -2,8 +2,8 @@
 title: "Les foils du Vendée Globe"
 slug: "les-foils-du-vendee-globe"
 date: 2016-11-20
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "brevet"
   - "foils"

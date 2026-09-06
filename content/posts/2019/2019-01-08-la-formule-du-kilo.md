@@ -2,8 +2,6 @@
 title: La formule du kilo
 slug: la-formule-du-kilo
 date: '2019-01-08'
-categories:
-- non-classe
 draft: true
 ---
 Sur Quora, quelqu'un a demandé "[Quelle est la formule immatérielle du kg ?](https://fr.quora.com/unanswered/Quelle-est-la-formule-immat%C3%A9rielle-du-kg)" . J'étais persuadé de pouvoir y répondre facilement à partir des nombreux articles qui ont relaté l'adoption d'une nouvelle définition du [kilogramme](w:) par la [Conférence générale des poids et mesures](w:) (CGPM) fin 2018. Mais non, je n'ai pas trouvé la "formule du kilo" facilement. Alors je l'ai cherchée.

@@ -2,8 +2,6 @@
 title: Le problème à trois corps
 slug: le-probleme-a-trois-corps
 date: '2026-08-23'
-categories:
-- non-classe
 draft: true
 coverImage: "8362517-L.jpg"
 ---

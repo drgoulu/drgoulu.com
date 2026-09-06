@@ -2,8 +2,8 @@
 title: "Quand Google donne des infos sur les infos"
 slug: "quand-google-donne-des-infos-sur-les-infos"
 date: 2008-01-31
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "futur"
   - "internet"

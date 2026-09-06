@@ -2,8 +2,8 @@
 title: "Periodic Table of Rock"
 slug: "periodic-table-of-rock"
 date: 2013-09-24
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "chimie"
   - "musique"

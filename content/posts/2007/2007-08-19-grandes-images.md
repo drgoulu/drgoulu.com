@@ -2,8 +2,8 @@
 title: "Grandes Images"
 slug: "grandes-images"
 date: 2007-08-19
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "logiciels"
   - "photo"

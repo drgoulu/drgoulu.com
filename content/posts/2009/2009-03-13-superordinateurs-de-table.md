@@ -2,8 +2,8 @@
 title: "Superordinateurs de table"
 slug: "superordinateurs-de-table"
 date: 2009-03-13
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "3d"
   - "informatique"

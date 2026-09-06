@@ -2,8 +2,8 @@
 title: "Cignatures"
 slug: "cignatures"
 date: 2008-02-05
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "programmation"
 ---

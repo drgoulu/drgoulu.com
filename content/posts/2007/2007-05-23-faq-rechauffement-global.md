@@ -2,8 +2,8 @@
 title: "FAQ Réchauffement Global"
 slug: "faq-rechauffement-global"
 date: 2007-05-23
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "ecologisme"
   - "rechauffement"

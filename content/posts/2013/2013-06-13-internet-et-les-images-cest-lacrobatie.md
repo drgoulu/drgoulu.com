@@ -2,8 +2,8 @@
 title: "Internet et les images, c'est l'acrobatie"
 slug: "internet-et-les-images-cest-lacrobatie"
 date: 2013-06-13
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "internet"
   - "photo"

@@ -2,8 +2,8 @@
 title: "Arche interstellaire et moteurs à antimatière"
 slug: "arche-interstellaire-et-moteurs-a-antimatiere"
 date: 2007-12-16
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "aerospace"
   - "physique"

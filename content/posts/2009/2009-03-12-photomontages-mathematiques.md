@@ -2,8 +2,8 @@
 title: "Photomontages mathématiques"
 slug: "photomontages-mathematiques"
 date: 2009-03-12
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "art"
   - "geometrie"

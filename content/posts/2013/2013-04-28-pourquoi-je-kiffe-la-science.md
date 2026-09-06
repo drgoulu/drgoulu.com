@@ -2,8 +2,8 @@
 title: "Pourquoi je kiffe la science"
 slug: "pourquoi-je-kiffe-la-science"
 date: 2013-04-28
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "science"
 coverImage: "c7e574486450dc0aef7d93851a81f709-1.jpg"

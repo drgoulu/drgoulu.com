@@ -2,8 +2,8 @@
 title: "Pourquoi seulement 2000 Watts ?"
 slug: "pourquoi-seulement-2000-watts"
 date: 2009-05-02
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "ecologisme"
   - "energie"

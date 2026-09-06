@@ -2,8 +2,8 @@
 title: "Le GPS pour les nuls : Cartes et Routage"
 slug: "le-gps-pour-les-nuls-cartes-et-routage"
 date: 2008-09-27
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "gps"
   - "graphes"

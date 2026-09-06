@@ -2,8 +2,8 @@
 title: "Les impossibles 1"
 slug: "les-impossibles-1"
 date: 2014-02-02
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "histoire"
   - "logique"

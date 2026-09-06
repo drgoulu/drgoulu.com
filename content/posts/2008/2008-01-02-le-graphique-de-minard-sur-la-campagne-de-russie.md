@@ -2,8 +2,8 @@
 title: "le graphique de Minard sur la campagne de Russie"
 slug: "le-graphique-de-minard-sur-la-campagne-de-russie"
 date: 2008-01-02
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "graphisme"
   - "histoire"

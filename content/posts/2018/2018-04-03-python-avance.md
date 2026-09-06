@@ -3,7 +3,7 @@ title: Python avancé
 slug: python-avance
 date: '2018-04-03'
 categories:
-- cat2
+  - "Comment"
 tags:
 - python
 draft: true

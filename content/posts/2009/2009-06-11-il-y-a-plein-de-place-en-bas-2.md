@@ -2,9 +2,9 @@
 title: "Il y a plein de place en bas"
 slug: "il-y-a-plein-de-place-en-bas-2"
 date: 2009-06-11
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "feynman"
   - "futur"

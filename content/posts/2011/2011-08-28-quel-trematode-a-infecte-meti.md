@@ -2,8 +2,8 @@
 title: "Quel trématode a infecté METI ?"
 slug: "quel-trematode-a-infecte-meti"
 date: 2011-08-28
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "biologie"
   - "humour"

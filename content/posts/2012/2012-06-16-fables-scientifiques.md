@@ -2,8 +2,8 @@
 title: "Fables scientifiques"
 slug: "fables-scientifiques"
 date: 2012-06-16
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "bd"
   - "livres"

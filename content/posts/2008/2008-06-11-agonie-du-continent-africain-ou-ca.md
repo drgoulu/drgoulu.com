@@ -2,8 +2,6 @@
 title: "Agonie du continent africain ? où ça ?"
 slug: "agonie-du-continent-africain-ou-ca"
 date: 2008-06-11
-categories: 
-  - "non-classe"
 tags: 
   - "economie"
   - "gapminder"

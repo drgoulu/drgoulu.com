@@ -2,8 +2,8 @@
 title: "Loi de Moore ... toujours ?"
 slug: "moore-toujours"
 date: 2008-06-19
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "futur"
   - "histoire"

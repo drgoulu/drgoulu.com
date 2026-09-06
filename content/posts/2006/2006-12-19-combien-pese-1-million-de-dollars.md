@@ -2,8 +2,8 @@
 title: "Combien pèse 1 million de dollars ?"
 slug: "combien-pese-1-million-de-dollars"
 date: 2006-12-19
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "economie"
   - "maths"

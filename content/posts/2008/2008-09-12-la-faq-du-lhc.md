@@ -2,8 +2,8 @@
 title: "La FAQ du LHC"
 slug: "la-faq-du-lhc"
 date: 2008-09-12
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "cern"
   - "lhc"

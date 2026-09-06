@@ -3,7 +3,7 @@ title: Comment détecter des cycles
 slug: comment-detecter-des-cycles
 date: '2017-11-08'
 categories:
-- cat2
+  - "Comment"
 tags:
 - algorithmes
 - oeis

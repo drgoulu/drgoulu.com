@@ -2,9 +2,9 @@
 title: "Les dimensions de La Machine"
 slug: "les-dimensions-de-la-machine"
 date: 2008-11-29
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "futur"
   - "informatique"

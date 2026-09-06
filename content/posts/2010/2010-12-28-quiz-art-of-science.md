@@ -2,8 +2,8 @@
 title: "Quiz &quot;Art of Science&quot;"
 slug: "quiz-art-of-science"
 date: 2010-12-28
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "art"
   - "photo"

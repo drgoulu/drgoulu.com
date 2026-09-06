@@ -2,8 +2,6 @@
 title: "Eskimo Nebula"
 slug: "eskimo-nebula"
 date: 2007-02-18
-categories: 
-  - "non-classe"
 tags: 
   - "astro"
 coverImage: "035c91348ba3c0ae845bf3b000325e21.jpg"

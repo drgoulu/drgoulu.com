@@ -2,8 +2,8 @@
 title: "Pourquoi / Pour Quoi ?"
 slug: "pourquoi-pour-quoi"
 date: 2009-01-04
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "philosophie"
 coverImage: "aab0620ccf0e707047ccec6c108d88851.jpg"

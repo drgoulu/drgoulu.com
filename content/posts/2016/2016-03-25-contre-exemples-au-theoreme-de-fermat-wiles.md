@@ -2,8 +2,8 @@
 title: "\"Contre-exemples\" au théorème de Fermat-Wiles"
 slug: "contre-exemples-au-theoreme-de-fermat-wiles"
 date: 2016-03-25
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "fermat"
   - "informatique"

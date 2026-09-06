@@ -2,9 +2,9 @@
 title: "Plus froid que l’espace"
 slug: "plus-froid-que-lespace-2"
 date: 2007-05-09
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "astro"
   - "physique"

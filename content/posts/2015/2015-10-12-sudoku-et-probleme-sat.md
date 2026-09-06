@@ -3,7 +3,7 @@ title: Sudoku et problème SAT
 slug: sudoku-et-probleme-sat
 date: '2015-10-12'
 categories:
-- cat2
+  - "Comment"
 tags:
 - optimisation
 - sudoku

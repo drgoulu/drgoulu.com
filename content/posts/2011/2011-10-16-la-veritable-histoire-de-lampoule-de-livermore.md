@@ -2,8 +2,8 @@
 title: "La véritable histoire de l'ampoule de Livermore"
 slug: "la-veritable-histoire-de-lampoule-de-livermore"
 date: 2011-10-16
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "ampoules"
   - "ecologisme"

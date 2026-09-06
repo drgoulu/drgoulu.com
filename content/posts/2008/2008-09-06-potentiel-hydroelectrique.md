@@ -2,9 +2,9 @@
 title: "Potentiel hydroélectrique"
 slug: "potentiel-hydroelectrique"
 date: 2008-09-06
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "economie"
   - "energie"

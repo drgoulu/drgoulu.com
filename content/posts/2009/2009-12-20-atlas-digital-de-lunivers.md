@@ -2,8 +2,8 @@
 title: "Atlas Digital de l'Univers"
 slug: "atlas-digital-de-lunivers"
 date: 2009-12-20
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "3d"
   - "astro"

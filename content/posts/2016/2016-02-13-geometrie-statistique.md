@@ -3,7 +3,7 @@ title: Géométrie statistique
 slug: geometrie-statistique
 date: '2016-02-13'
 categories:
-- cat2
+  - "Comment"
 tags:
 - art
 - fractales

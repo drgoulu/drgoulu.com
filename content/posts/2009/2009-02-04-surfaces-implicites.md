@@ -2,8 +2,8 @@
 title: "Surfaces implicites"
 slug: "surfaces-implicites"
 date: 2009-02-04
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "3d"
   - "art"

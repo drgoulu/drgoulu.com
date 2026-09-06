@@ -2,8 +2,8 @@
 title: "Les finesses de Python"
 slug: "les-finesses-de-python"
 date: 2018-06-23
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "python"
 coverImage: "Microclub.png"

@@ -2,8 +2,8 @@
 title: "Liars and outliers"
 slug: "liars-and-outliers"
 date: 2013-08-25
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "livres"
   - "politique"

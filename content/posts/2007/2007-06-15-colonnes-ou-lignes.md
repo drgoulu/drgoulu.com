@@ -2,8 +2,8 @@
 title: "Colonnes ou Lignes ?"
 slug: "colonnes-ou-lignes"
 date: 2007-06-15
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "casse-tetes"
   - "psychologie"

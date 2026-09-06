@@ -2,10 +2,10 @@
 title: "Pourquoi Comment Combien"
 slug: "pourquoi-comment-combien"
 date: 2009-03-06
-categories: 
-  - "cat3"
-  - "cat2"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "internet"
   - "science"

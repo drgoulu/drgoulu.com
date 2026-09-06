@@ -2,9 +2,9 @@
 title: "La fraternité des nombres"
 slug: "la-fraternite-des-nombres"
 date: 2009-09-28
-categories: 
-  - "cat3"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Pourquoi"
 tags: 
   - "maths"
   - "nombres"

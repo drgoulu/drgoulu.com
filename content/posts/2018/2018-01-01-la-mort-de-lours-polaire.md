@@ -2,8 +2,6 @@
 title: La mort de l'ours polaire
 slug: la-mort-de-lours-polaire
 date: '2018-01-01'
-categories:
-- non-classe
 draft: true
 coverImage: "land_mammals.png"
 ---

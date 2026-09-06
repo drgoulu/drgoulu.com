@@ -2,8 +2,8 @@
 title: "le trou noir central de la Voie Lactée révélé"
 slug: "le-trou-noir-central-de-la-voie-lactee-revele"
 date: 2007-06-26
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "trou-noir"

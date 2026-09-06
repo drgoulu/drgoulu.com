@@ -2,8 +2,8 @@
 title: "Les voyages temporels au cinéma"
 slug: "retours-vers-les-futurs"
 date: 2010-10-23
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "cinema"
   - "fiction"

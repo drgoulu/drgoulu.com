@@ -2,8 +2,8 @@
 title: "On est peu de chose..."
 slug: "on-est-peu-de-chose"
 date: 2008-02-01
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
 coverImage: "c183a5365cb5dd27cd4652865d8fd6b8.jpg"

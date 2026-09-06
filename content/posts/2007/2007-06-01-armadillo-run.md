@@ -2,8 +2,8 @@
 title: "Armadillo Run"
 slug: "armadillo-run"
 date: 2007-06-01
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "jeux"
   - "mecanique"

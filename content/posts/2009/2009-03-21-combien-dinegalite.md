@@ -2,8 +2,8 @@
 title: "Combien d'inégalité ?"
 slug: "combien-dinegalite"
 date: 2009-03-21
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "economie"
   - "gapminder"

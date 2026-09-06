@@ -2,8 +2,6 @@
 title: "Anamorphoses de Julian Beever"
 slug: "anamorphoses-de-julian-beever"
 date: 2007-12-08
-categories: 
-  - "non-classe"
 tags: 
   - "3d"
   - "art"

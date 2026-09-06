@@ -2,8 +2,8 @@
 title: "Problèmes de santé"
 slug: "problemes-de-sante"
 date: 2009-09-11
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "gapminder"
   - "imparfait-du-subjonctif"

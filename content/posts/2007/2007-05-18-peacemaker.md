@@ -2,8 +2,6 @@
 title: "PeaceMaker"
 slug: "peacemaker"
 date: 2007-05-18
-categories: 
-  - "non-classe"
 tags: 
   - "jeux"
   - "monde"

@@ -3,7 +3,7 @@ title: 3435 et les nombres de Münchhausen
 slug: 3435-et-les-nombres-de-munchhausen
 date: 2016-12-12
 categories:
-  - cat2
+  - "Comment"
 tags:
   - nombres
   - programmation

@@ -2,8 +2,8 @@
 title: "Mémoire eidétique"
 slug: "memoire-eidetique"
 date: 2008-06-04
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "jeux"
   - "psychologie"

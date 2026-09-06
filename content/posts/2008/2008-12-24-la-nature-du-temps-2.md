@@ -2,8 +2,8 @@
 title: "La Nature du Temps"
 slug: "la-nature-du-temps-2"
 date: 2008-12-24
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "temps"
 coverImage: "3016524792_cdb7edf4c8_m.jpg"

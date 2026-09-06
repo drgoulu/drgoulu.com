@@ -2,8 +2,8 @@
 title: "Inventaire des Croix du Ciel."
 slug: "inventaire-des-croix-du-ciel"
 date: 2009-01-17
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "optique"

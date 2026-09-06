@@ -2,8 +2,8 @@
 title: "SETI / METI : mais où est donc E.T. ?"
 slug: "seti-meti-mais-ou-est-donc-et"
 date: 2008-04-24
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "astro"
   - "fiction"

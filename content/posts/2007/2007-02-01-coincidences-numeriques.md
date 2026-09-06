@@ -2,8 +2,8 @@
 title: "Coïncidences numériques"
 slug: "coincidences-numeriques"
 date: 2007-02-01
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "maths"
   - "pi"

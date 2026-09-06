@@ -2,8 +2,8 @@
 title: "Bits en vrac"
 slug: "bits-en-vrac-2"
 date: 2016-08-14
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "internet"
   - "societe"

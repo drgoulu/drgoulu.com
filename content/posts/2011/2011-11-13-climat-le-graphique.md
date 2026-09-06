@@ -2,9 +2,9 @@
 title: "Climat : le graphique qui vaut 10000 mots"
 slug: "climat-le-graphique"
 date: 2011-11-13
-categories: 
-  - "cat3"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Pourquoi"
 tags: 
   - "ecologisme"
   - "physique"

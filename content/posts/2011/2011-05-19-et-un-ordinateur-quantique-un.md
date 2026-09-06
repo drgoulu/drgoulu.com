@@ -2,10 +2,10 @@
 title: "Et un ordinateur quantique, un !"
 slug: "et-un-ordinateur-quantique-un"
 date: 2011-05-19
-categories: 
-  - "cat3"
-  - "cat2"
-  - "cat1"
+categories:
+  - "Combien"
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "feynman"
   - "informatique"

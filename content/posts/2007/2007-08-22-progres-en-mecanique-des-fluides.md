@@ -2,8 +2,6 @@
 title: "Progrès en mécanique des fluides"
 slug: "progres-en-mecanique-des-fluides"
 date: 2007-08-22
-categories: 
-  - "non-classe"
 tags: 
   - "jeux"
   - "physique"

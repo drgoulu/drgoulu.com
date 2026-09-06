@@ -3,7 +3,7 @@ title: how-old.net et la viralité
 slug: how-oldnet-et-la-viralite
 date: '2015-05-06'
 categories:
-- cat2
+  - "Comment"
 tags:
 - internet
 draft: true

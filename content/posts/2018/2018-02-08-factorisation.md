@@ -3,7 +3,7 @@ title: Factorisation
 slug: factorisation
 date: '2018-02-08'
 categories:
-- cat2
+  - "Comment"
 tags:
 - algorithmes
 - nombres-premiers

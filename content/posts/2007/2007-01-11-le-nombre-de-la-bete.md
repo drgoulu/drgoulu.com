@@ -2,8 +2,6 @@
 title: "Le nombre de la Bête"
 slug: "le-nombre-de-la-bete"
 date: 2007-01-11
-categories: 
-  - "non-classe"
 tags: 
   - "maths"
   - "pseudo"

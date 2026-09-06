@@ -2,8 +2,6 @@
 title: Prédictibilité des modèles dynamiques
 slug: predictibilite-des-modeles-dynamiques
 date: '2013-12-20'
-categories:
-- non-classe
 draft: true
 coverImage: "9f1bca42a6c66fb77a36ab26b320b147.gif"
 ---

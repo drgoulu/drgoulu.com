@@ -2,8 +2,8 @@
 title: "La radioactivité naturelle"
 slug: "la-radioactivite-naturelle"
 date: 2013-11-03
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "nucleaire"
   - "terre"

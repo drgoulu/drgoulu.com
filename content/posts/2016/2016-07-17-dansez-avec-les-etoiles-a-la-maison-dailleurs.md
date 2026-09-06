@@ -2,8 +2,6 @@
 title: "Dansez avec les étoiles à la Maison d'Ailleurs"
 slug: "dansez-avec-les-etoiles-a-la-maison-dailleurs"
 date: 2016-07-17
-categories:
-  - "non-classe"
 tags:
   - "art"
   - "fiction"

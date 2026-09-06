@@ -2,9 +2,9 @@
 title: "La science du football"
 slug: "la-science-du-football"
 date: 2008-05-09
-categories: 
-  - "cat3"
-  - "cat2"
+categories:
+  - "Combien"
+  - "Comment"
 tags: 
   - "livres"
   - "physique"

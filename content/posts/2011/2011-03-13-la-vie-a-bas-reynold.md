@@ -2,9 +2,9 @@
 title: "La vie à bas Reynolds"
 slug: "la-vie-a-bas-reynold"
 date: 2011-03-13
-categories: 
-  - "cat2"
-  - "cat1"
+categories:
+  - "Comment"
+  - "Pourquoi"
 tags: 
   - "fluides"
   - "mecanique"

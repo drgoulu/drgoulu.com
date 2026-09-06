@@ -2,8 +2,8 @@
 title: "Le &quot;Sleep sort&quot;"
 slug: "le-sleep-sort"
 date: 2011-06-19
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "informatique"
   - "programmation"

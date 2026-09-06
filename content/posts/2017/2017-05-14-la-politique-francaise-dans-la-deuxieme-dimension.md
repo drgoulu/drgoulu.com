@@ -2,8 +2,8 @@
 title: "La politique française dans la 2ème dimension ?"
 slug: "la-politique-francaise-dans-la-deuxieme-dimension"
 date: 2017-05-14
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "marketing"
   - "monde"

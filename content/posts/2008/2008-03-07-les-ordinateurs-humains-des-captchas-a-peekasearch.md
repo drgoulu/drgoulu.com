@@ -2,8 +2,8 @@
 title: "les Ordinateurs Humains : des Captchas à PeekaSearch"
 slug: "les-ordinateurs-humains-des-captchas-a-peekasearch"
 date: 2008-03-07
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "collaboration"
   - "crowdsourcing"

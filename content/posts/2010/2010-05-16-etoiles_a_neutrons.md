@@ -2,8 +2,8 @@
 title: "La grande unification des étoiles à neutrons"
 slug: "etoiles_a_neutrons"
 date: 2010-05-16
-categories: 
-  - "cat1"
+categories:
+  - "Pourquoi"
 tags: 
   - "astro"
   - "physique"

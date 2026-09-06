@@ -2,8 +2,8 @@
 title: "Et pourtant elle ne bouge pas"
 slug: "et-pourtant-elle-ne-bouge-pas"
 date: 2008-02-24
-categories: 
-  - "cat2"
+categories:
+  - "Comment"
 tags: 
   - "illusion"
 coverImage: "e91afe415bce9939c7d675ea8fbd877d.jpg"

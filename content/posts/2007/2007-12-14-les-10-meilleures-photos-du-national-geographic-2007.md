@@ -2,8 +2,6 @@
 title: "les 10 meilleures photos du National Geographic 2007"
 slug: "les-10-meilleures-photos-du-national-geographic-2007"
 date: 2007-12-14
-categories: 
-  - "non-classe"
 tags: 
   - "monde"
   - "photo"

@@ -2,8 +2,8 @@
 title: "Combien coûte la santé"
 slug: "combien-coute-la-sante"
 date: 2009-04-23
-categories: 
-  - "cat3"
+categories:
+  - "Combien"
 tags: 
   - "ocde"
   - "politique"
