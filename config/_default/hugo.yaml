@@ -64,16 +64,22 @@ enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
-ignoreLogs: ['sections-none-/en/']
+ignoreLogs: ['sections-none-/en/', 'sections-none-/drgoulu.com/en/']
 disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks, HeadlessCMSConfig]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 90
   anchor: smart
-  hint: picture
+  jpeg:
+    quality: 90
+  webp:
+    quality: 90
+    hint: picture
+  avif:
+    quality: 90
+    hint: picture
 timeout: 600000
 taxonomies:
   tag: tags
