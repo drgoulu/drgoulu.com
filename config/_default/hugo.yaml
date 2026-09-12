@@ -128,6 +128,10 @@ module:
 params:
   headless_cms:
     engine: "sveltia"
+    # Serveur de développement local Vite (pnpm dev dans sveltia-cms) :
+    dev_server: "http://localhost:5173"
+    # Pour utiliser le bundle local compilé sans serveur Vite, décommentez plutôt :
+    # local_script: "/sveltia-cms.js"
     site_url: "https://drgoulu.com"
     backend:
       name: "github"

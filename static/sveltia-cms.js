@@ -1,0 +1,1 @@
+/home/goulu/Documents/develop/hugo/sveltia-cms/package/dist/sveltia-cms.js
