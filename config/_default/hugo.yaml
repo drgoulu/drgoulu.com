@@ -67,7 +67,7 @@ ignoreFiles: [".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 ignoreLogs: ['sections-none-/en/']
 disableAliases: true
 outputs:
-  home: [HTML, RSS, headers, redirects, backlinks]
+  home: [HTML, RSS, headers, redirects, backlinks, HeadlessCMSConfig]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
@@ -110,3 +110,34 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+############################
+## EDITOR
+############################
+
+module:
+  imports:
+  - path: github.com/privatemaker/headless-cms
+
+params:
+  headless_cms:
+    engine: "sveltia"
+    site_url: "https://drgoulu.com"
+    backend:
+      name: "github"
+      repo: "goulu/drgoulu.com"
+      branch: "main"
+    media_folder: "static/uploads"
+    public_folder: "/uploads"
+    collections:
+      posts:
+        name: "posts"
+        label: "Articles"
+        label_singular: "Article"
+        folder: "content/posts"
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - { label: Date, name: date, widget: datetime, type: date }
+          - { label: Corps, name: body, widget: richtext }
+
+    

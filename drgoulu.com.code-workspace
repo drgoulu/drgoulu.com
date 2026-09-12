@@ -1,20 +1,14 @@
 {
-  "folders": [
-    {
-      "path": ".",
-    },
-    {
-      "path": "public",
-    },
-    {
-      "path": "../../develop/processing",
-    },
-    {
-      "path": "../../develop/openbook4hugo",
-    },
-    {
-      "path": "../altmetric4hugo",
-    },
-  ],
-  "settings": {},
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../openbook4hugo"
+		},
+		{
+			"path": "../altmetric4hugo"
+		}
+	],
+	"settings": {}
 }
