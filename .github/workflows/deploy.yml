@@ -122,8 +122,8 @@ jobs:
           SSH_PRIVATE_KEY: ${{ secrets.INFOMANIAK_SSH_KEY }}
           ARGS: "-rlgoDzvc -i --delete"
           SOURCE: "public/"
-          REMOTE_HOST: ${{ secrets.INFOMANIAK_HOST }}
-          REMOTE_USER: ${{ secrets.INFOMANIAK_USER }}
+          REMOTE_HOST: ${{ secrets.INFOMANIAK_SSH_HOST || secrets.INFOMANIAK_HOST }}
+          REMOTE_USER: ${{ secrets.INFOMANIAK_SSH_USER || secrets.INFOMANIAK_USER }}
           TARGET: ${{ secrets.INFOMANIAK_TARGET_DIR }}
-          REMOTE_PORT: ${{ secrets.INFOMANIAK_PORT || 22 }}
+          REMOTE_PORT: ${{ secrets.INFOMANIAK_SSH_PORT || secrets.INFOMANIAK_PORT || 22 }}
           EXCLUDE: "/.git*,/.htaccess"
