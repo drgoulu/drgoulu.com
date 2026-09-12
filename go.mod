@@ -8,7 +8,13 @@ require (
 )
 
 require (
-	github.com/goulu/altmetric4hugo v0.0.0-20260830112131-f7ced6beec3d // indirect
-	github.com/goulu/openbook4hugo v0.0.0-20260824202545-558dfae2ba58 // indirect
-	github.com/privatemaker/headless-cms v0.1.2 // indirect
+	github.com/drgoulu/altmetric4hugo v0.0.0-20260830112131-f7ced6beec3d // indirect
+	github.com/drgoulu/headless-cms v0.0.0-20260912170201-520a42fbe5c6 // indirect
+	github.com/drgoulu/openbook4hugo v0.0.0-20260824202545-558dfae2ba58 // indirect
 )
+
+replace github.com/drgoulu/altmetric4hugo => ../altmetric4hugo
+
+replace github.com/drgoulu/openbook4hugo => ../openbook4hugo
+
+replace github.com/drgoulu/headless-cms => ../headless-cms

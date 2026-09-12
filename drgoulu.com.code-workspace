@@ -4,10 +4,16 @@
 			"path": "."
 		},
 		{
-			"path": "../openbook4hugo"
+			"path": "../sveltia-cms"
+		},
+		{
+			"path": "../headless-cms"
 		},
 		{
 			"path": "../altmetric4hugo"
+		},
+		{
+			"path": "../openbook4hugo"
 		}
 	],
 	"settings": {}

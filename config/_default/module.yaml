@@ -7,9 +7,9 @@
 imports:
   - path: github.com/HugoBlox/kit/modules/integrations/netlify
   - path: github.com/HugoBlox/kit/modules/blox
-  - path: github.com/goulu/openbook4hugo
-  - path: github.com/goulu/altmetric4hugo
-  - path: github.com/privatemaker/headless-cms
+  - path: github.com/drgoulu/openbook4hugo
+  - path: github.com/drgoulu/altmetric4hugo
+  - path: github.com/drgoulu/headless-cms
 
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:
@@ -18,13 +18,13 @@ mounts:
   - source: content
     target: assets
     files:
-      - '**/images/**'
-      - '**/*.jpg'
-      - '**/*.jpeg'
-      - '**/*.png'
-      - '**/*.gif'
-      - '**/*.svg'
-      - '**/*.webp'
+      - "**/images/**"
+      - "**/*.jpg"
+      - "**/*.jpeg"
+      - "**/*.png"
+      - "**/*.gif"
+      - "**/*.svg"
+      - "**/*.webp"
   - source: layouts
     target: layouts
   - source: assets
@@ -38,12 +38,12 @@ mounts:
   - source: hugo-blox/blox/community
     target: layouts/_partials/blox/community/
     files:
-      - '**.html'
+      - "**.html"
   - source: hugo-blox/blox/all-access
     target: layouts/_partials/blox/
     files:
-      - '**.html'
+      - "**.html"
   - source: hugo-blox/blox
     target: assets/dist/community/blox/
     files:
-      - '**.css'
+      - "**.css"
