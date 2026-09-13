@@ -28,10 +28,11 @@ cleanup() {
 trap cleanup SIGINT SIGTERM EXIT
 
 # 1. Lancer le serveur Vite de Sveltia CMS en arrière-plan
-(cd "$SVELTIA_DIR" && VITE_SITE_URL="http://localhost:1313" pnpm dev) &
+(cd "$SVELTIA_DIR" && VITE_SITE_URL="http://localhost:1313" HUGO_CONTENT_DIR="$SITE_DIR/content" pnpm dev) &
 
 # Petit délai pour laisser Vite démarrer
 sleep 1
 
-# 2. Lancer le serveur Hugo
-(cd "$SITE_DIR" && hugo server --disableFastRender)
+# 2. Lancer le serveur Hugo avec rendu en mémoire, rechargement complet et polling filesystem
+(cd "$SITE_DIR" && hugo server --buildDrafts --buildFuture --renderToMemory --disableFastRender --poll 700ms)
+

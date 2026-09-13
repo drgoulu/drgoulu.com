@@ -68,3 +68,5 @@ Desktop.ini
 *.log
 npm-debug.log*
 .migration
+content/admin-preview.md
+
