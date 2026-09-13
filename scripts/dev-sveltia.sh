@@ -38,7 +38,7 @@ sleep 1
 (
   cd "$SITE_DIR"
   while true; do
-    hugo server --buildDrafts --buildFuture --renderToMemory --disableLiveReload --poll 700ms || true
+    hugo server --buildDrafts --buildFuture --renderToMemory --disableLiveReload || true
     echo "⚠️ Hugo server s'est arrêté. Redémarrage automatique dans 2 secondes..."
     sleep 2
   done
