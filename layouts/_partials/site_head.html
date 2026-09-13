@@ -65,9 +65,13 @@
   {{ end }}
 
   {{/* Tailwind CSS v4 Processing */}}
-  {{/* Use templates.Defer to process CSS after all content is analyzed */}}
-  {{ with (templates.Defer (dict "key" "tailwind-css")) }}
+  {{/* In development/server mode, call directly to avoid __hdeferred unresolved placeholders during FastRender */}}
+  {{ if hugo.IsServer }}
     {{ partial "css.html" . }}
+  {{ else }}
+    {{ with (templates.Defer (dict "key" "tailwind-css")) }}
+      {{ partial "css.html" . }}
+    {{ end }}
   {{ end }}
 
   {{ $styles := resources.Get "css/custom.css" }}
