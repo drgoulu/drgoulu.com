@@ -33,6 +33,6 @@ trap cleanup SIGINT SIGTERM EXIT
 # Petit délai pour laisser Vite démarrer
 sleep 1
 
-# 2. Lancer le serveur Hugo avec rendu en mémoire, rechargement complet et polling filesystem
-(cd "$SITE_DIR" && hugo server --buildDrafts --buildFuture --renderToMemory --disableFastRender --poll 700ms)
+# 2. Lancer le serveur Hugo avec rendu en mémoire, rechargement partiel et polling filesystem
+(cd "$SITE_DIR" && hugo server --buildDrafts --buildFuture --renderToMemory --disableLiveReload --poll 700ms)
 
