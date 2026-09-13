@@ -34,5 +34,13 @@ trap cleanup SIGINT SIGTERM EXIT
 sleep 1
 
 # 2. Lancer le serveur Hugo avec rendu en mémoire, rechargement partiel et polling filesystem
-(cd "$SITE_DIR" && hugo server --buildDrafts --buildFuture --renderToMemory --disableLiveReload --poll 700ms)
+# En cas d'erreur de compilation Hugo (ex: faute de syntaxe pendant la frappe), le serveur redémarre automatiquement
+(
+  cd "$SITE_DIR"
+  while true; do
+    hugo server --buildDrafts --buildFuture --renderToMemory --disableLiveReload --poll 700ms || true
+    echo "⚠️ Hugo server s'est arrêté. Redémarrage automatique dans 2 secondes..."
+    sleep 2
+  done
+)
 
