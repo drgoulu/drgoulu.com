@@ -13,8 +13,6 @@ coverImage: "colviscon.gif"
 
 Un changement de projet professionnel me permet de m'initier au monde merveilleux des techniques d'impression en couleur, en particulier le jet d'encre
 
-[![](images/GamutLab_ColorChecker_sRGB.gif)](http://www.brucelindbloom.com/)
-
  
 
 http://www.tannerhelland.com/4660/dithering-eleven-algorithms-source-code/
