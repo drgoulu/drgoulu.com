@@ -2,13 +2,13 @@
 title: 'Migration : de Wordpress à Hugo'
 date: 2026-08-24
 draft: false
-slug: migration
-coverImage: "./images/2a62d67153ec2834b7d7f23250a1c260-1.jpg"
 tags:
   - Wordpress
   - Hugo
 categories:
   - Comment
+slug: migration
+coverImage: ./images/wordpress-to-hugo_hufb0d431800ff460a36530c1a6d4517da_142390_1600x0_resize_box_3.png
 summary: drgoulu.com ressuscite en migrant de  WordPress à Hugo
 ---
 
@@ -49,9 +49,11 @@ Pour créer un site, on tape dans un shell :
 
 {{< highlight bash >}}
 
+
 # Requires Node.js
 npm install -g hugoblox
 hugoblox create site
+
 
 {{< /highlight >}}
 
@@ -68,6 +70,7 @@ Un petit site peut d'ailleurs être très facilement être <a href="https://gohu
 Donc j'ai plutôt choisi de n'utiliser GitHub que comme repo du projet source (et images...) et de lancer les build en local pousser uniquement le dossier "public" avec les pages HTML générées chez Infomaniak, avec un "hook" qui les met au bon endroit :
 
 {{< highlight bash >}}
+
 #!/bin/sh
 # ----------------------------------------------------------------------
 # ~/git_depot/drgoulu.git/hooks/post-receive
@@ -85,6 +88,7 @@ echo "📦 Déploiement des fichiers sur Infomaniak..."
 git --work-tree=$TARGET --git-dir=$GIT_DIR checkout -f
 
 echo "✅ Site Hugo mis à jour avec succès !"
+
 {{< /highlight >}}
 
 ### Markdown
@@ -138,7 +142,9 @@ en ça :
 
 {{< highlight python >}}
 
+
 def r(a): i=a.find('0') if i<0:print a [m in[(i-j)%9*(i/9^j/9)*(i/27^j/27|i%9/3^j%9/3)or a[j]for j in range(81)]or r(a[:i]+m+a[i+1:])for m in`14**7*9`]r(raw_input())
+
 {{< /highlight >}}
 
 (mauvais exemple car le code est sur une seule ligne...)
@@ -162,6 +168,7 @@ Uncaught Error: parseColor received unparseable color: oklch(...)
 Pour isoler Disqus des styles `oklch` globaux, des règles CSS explicites ont été ajoutées dans `assets/css/custom.css` afin de forcer des formats de couleurs traditionnels (Hex / RGB) sur le conteneur `#disqus_thread`, son texte d'arrière-plan et ses liens internes (`#disqus_thread a`), pour les thèmes clair et sombre :
 
 {{< highlight css >}}
+
 /* Forcer des couleurs standards (Hex/RGB) pour Disqus */
 #disqus_thread,
 #disqus_thread * {
@@ -200,4 +207,9 @@ Pour isoler Disqus des styles `oklch` globaux, des règles CSS explicites ont é
 .dark .dsq-brlink a {
   color: #60a5fa !important;
 }
+
 {{< /highlight >}}
+
+## Références:
+
+- [Migration de Wordpress vers Hugo](https://www.hleroy.com/2022/09/migration-de-wordpress-vers-hugo/), article de blog duquel j'ai copié l'image d'entête
