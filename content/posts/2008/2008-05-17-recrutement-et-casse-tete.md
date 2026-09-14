@@ -10,7 +10,7 @@ tags:
   - "google"
   - "maths"
   - "programmation"
-coverImage: "2b007b382f92fe7ce4fc7096c1a36864.jpg"
+coverImage: "./images/2b007b382f92fe7ce4fc7096c1a36864.jpg"
 
 aliases:
   - "/2008/05/18/recrutement-et-casse-tete/"
@@ -22,7 +22,7 @@ Si vous souhaitez travailler chez Google ou facebook, voici un petit tuyau : cul
 
 Google lance aussi des "chasses au trésor" sur internet. Là je viens de commencer à participer à [celle-ci](http://treasurehunt.appspot.com/), qui commence très fort: si le robot ci-dessous ne peut aller que vers la droite ou vers le bas, combien y'a-t-il de chemins distincts qui le mènent au but ?
 
-![](images/a257750efe5059e695eed9af28ef2bc4.png)
+![](./images/a257750efe5059e695eed9af28ef2bc4.png)
 
 Vous avez trouvé ? En comptant à la main ? Bien. Mais en fait, pour la chasse au trésor, il faut répondre pour un damier de 56x32 cases (le nombre change pour chaque participant) ... Dans ce cas, la réponse est 232059241971866600926656, ce qui suppose de [connaitre les maths](http://www.joaoff.com/2008/01/20/a-square-grid-path-problem/) et de disposer d'une bonne calculatrice ...
 

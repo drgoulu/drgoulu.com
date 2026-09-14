@@ -12,7 +12,7 @@ tags:
   - "ted"
   - "traduction"
   - "video"
-coverImage: "candle2.png"
+coverImage: "./images/candle2.png"
 ---
 
 Les [conférences du TED](http://www.ted.com/) sont une mine inépuisable de découvertes passionnantes comme la récente présentation de [Dan Pink](http://www.danpink.com/) sur "la surprenante science de la motivation".

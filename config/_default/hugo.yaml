@@ -4,19 +4,18 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: 'Dr. Goulu'
-baseURL: 'https://drgoulu.com/'
+title: "Dr. Goulu"
+baseURL: "https://drgoulu.com/"
 
 services:
   disqus:
-    shortname: 'drgoulu'
+    shortname: "drgoulu"
 
 permalinks:
   # Applique le format /AAAA/MM/JJ/slug/ à tous les articles du dossier content/posts/
   posts: /:year/:month/:day/:slug/
   blog: /:year/:month/:day/:slug/
   tags: /tag/:slug/
-
 
 ############################
 ## PAGE OPTIONS
@@ -64,7 +63,7 @@ enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
-ignoreLogs: ['sections-none-/en/', 'sections-none-/drgoulu.com/en/']
+ignoreLogs: ["sections-none-/en/", "sections-none-/drgoulu.com/en/"]
 disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks, HeadlessCMSConfig]
@@ -103,14 +102,14 @@ security:
   _merge: deep
   exec:
     allow:
-      - '^(dart-)?sass$'
-      - '^go$'
-      - '^git$'
-      - '^node$'
-      - '^postcss$'
-      - '^tailwindcss$'
-      - '^npx$'
-      - '^pnpm$'
+      - "^(dart-)?sass$"
+      - "^go$"
+      - "^git$"
+      - "^node$"
+      - "^postcss$"
+      - "^tailwindcss$"
+      - "^npx$"
+      - "^pnpm$"
 
 sitemap:
   _merge: deep
@@ -141,9 +140,14 @@ params:
         label: "Articles"
         label_singular: "Article"
         folder: "content/posts"
+        media_folder: "./images"
+        public_folder: "./images"
         fields:
           - { label: Titre, name: title, widget: string }
           - { label: Date, name: date, widget: datetime, type: date }
+          - { label: Brouillon, name: draft, widget: boolean }
+          - { label: Tags, name: tags, widget: list, required: false }
+          - { label: Categories, name: categories, widget: list, required: false }
+          - { label: Slug, name: slug, widget: string, required: false }
+          - { label: Image, name: coverImage, widget: image, required: false }
           - { label: Corps, name: body, widget: richtext }
-
-    

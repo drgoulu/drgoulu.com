@@ -3,7 +3,7 @@ title: Qu'est-ce qui nous maintient collés à la Terre?
 slug: quest-ce-qui-nous-maintient-colles-a-la-terre
 date: '2021-04-13'
 draft: true
-coverImage: "image-1024x358.png"
+coverImage: "./images/image-1024x358.png"
 ---
 Les modèles scientifiques expliquent nos observations :
 
@@ -59,7 +59,7 @@ déformer le temps !! Cette prédiction est élaborée chaque jour dans le syst�
 Les horloges atomiques des satellites GPS fonctionnent 45 microsecondes rapidement chaque jour car l'espace-temps  
 est courbé différemment à une altitude de 20 000 km.
 
-[![](images/image-1024x358.png)](/wp-content/uploads/2021/04/image.png)
+[![](./images/image-1024x358.png)](./images/image.png)
 
 [https://indico.cern.ch/event/507180/contributions/2197833/attachments/1312769/1965085/Curved\_Spacetime\_in\_the\_Classroom.pdf](https://indico.cern.ch/event/507180/contributions/2197833/attachments/1312769/1965085/Curved_Spacetime_in_the_Classroom.pdf)
 

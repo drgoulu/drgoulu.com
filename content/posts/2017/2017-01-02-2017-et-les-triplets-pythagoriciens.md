@@ -9,7 +9,7 @@ tags:
   - "oeis"
   - "pythagore"
   - "python"
-coverImage: "artmaths0202.gif"
+coverImage: "./images/artmaths0202.gif"
 ---
 
 Au moment d'envoyer un mot à Franck à propos de son livre [[1]](#ref-1), je me suis rappelé qu'il était à l'origine de [ce billet](/2012/04/28/un-peu-de-pedagogie-grace-a-pythagore/) sur la pédagogie appliquée au théorème de Pythagore (et aussi de [celui-ci](/2013/12/15/comment-expliquer-la-relativite-aux-enfants/) sur la Relativité).  J'ai ainsi découvert celle des [453 propriétés de 2017 répertoriées dans l'OEIS](https://oeis.org/search?q=seq%3a2017&fmt=short) sur laquelle baser mes vœux pour cette nouvelle année :
@@ -18,7 +18,7 @@ Au moment d'envoyer un mot à Franck à propos de son livre [[1]](#ref-1), je 
 
 En effet, 2017 est un "nombre hypotenuse" ([A009003](https://oeis.org/A009003)), l'hypoténuse du triangle rectangle correspondant au [triplet pythagoricien](w:) (792,1855,2017). C'est même un triplet pythagoricien "primitif" car ces 3 entiers sont [premiers entre eux](w:), donc 2017 est un "nombre hypoténuse primitif" ([A008846](https://oeis.org/A008846)).
 
-{{< figure src="images/artmaths0202.gif" alt="(3,4,5), le premier et le plus célèbre des triplets pythagoriciens" caption="(3,4,5), le premier et le plus célèbre des triplets pythagoriciens" width="312" >}}
+{{< figure src="./images/artmaths0202.gif" alt="(3,4,5), le premier et le plus célèbre des triplets pythagoriciens" caption="(3,4,5), le premier et le plus célèbre des triplets pythagoriciens" width="312" >}}
 
 Car comme on le voit dans [cette liste](http://www.tsm-resources.com/alists/trip.html), il existe deux sortes de triplets pythagoriciens: les [primitifs](w:Triplet_pythagoricien#Triplets_primitifs) et les composés, qui sont des multiples de triplets plus petits, par exemple (6,8,10) obtenu en doublant (3,4,5). Ca va avoir de l'importance plus bas.
 
@@ -32,7 +32,7 @@ $R_1 =\begin{pmatrix} 1 & -2 & 2 \\\\ 2 & -1 & 2 \\\\ 2 & -2 & 3 \\\\ \end{pmatr
 
 Un autre matheux nommé Barning ayant montré en 1963\*\* que chaque triplet n'est ainsi produit que d'une et une seule manière [[3]](#ref-3), il suffit de parcourir l'[arbre ternaire](w:en:Tree_of_primitive_Pythagorean_triples) formé en multipliant chaque nœud par chacune de ces 3 matrices pour générer l'un après l'autre tous les triplets primitifs:
 
-![](images/1000px-Pythagorean.tree_.svg_.png)
+![](./images/1000px-Pythagorean.tree_.svg_.png)
 
 Ensuite, un autre bout de code peut multiplier chaque triplet primitif par 2,3,4,... pour ajouter les triplets composés et produire ainsi tous les triplets pythagoriciens l'un après l'autre. C'est ce que fait très efficacement ce [code Python de Kyle Guillon trouvé sur StackOverflow](http://stackoverflow.com/questions/575117/generating-unique-ordered-pythagorean-triplets/8263898#8263898).
 

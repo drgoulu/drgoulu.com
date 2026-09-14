@@ -8,10 +8,10 @@ tags:
   - "homeopathie"
   - "humour"
   - "pseudo"
-coverImage: "ensip1.gif"
+coverImage: "./images/ensip1.gif"
 ---
 
-{{< figure src="images/ensip1.gif" alt="ensip1" link="/wp-content/uploads/2007/01/ensip1.gif" >}}
+{{< figure src="./images/ensip1.gif" alt="ensip1" link="./images/ensip1.gif" >}}
 
 Raymond m'a fait parvenir un document précieux : la [Norme des Unités Pifométriques](http://pifometrie.indriya.org/index.php) . Elle est aussi disponible au format pdf en plusieurs versions, [ici](http://www.allquality.org/doc-download/upload/9/0/Nouvelle_Norme.pdf) et [là](http://lancelot.pecquet.org/download/jokes/science/misc/norme_pifometrique.pdf) notamment.
 

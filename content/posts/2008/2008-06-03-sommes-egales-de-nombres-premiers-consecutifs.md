@@ -10,10 +10,10 @@ tags:
   - "maths"
   - "nombres-premiers"
   - "programmation"
-coverImage: "0b7574cc4d97b1ba36b34b2b9797fc23.gif"
+coverImage: "./images/0b7574cc4d97b1ba36b34b2b9797fc23.gif"
 ---
 
-{{< figure src="images/389c66e7ddab342c9a24fd6e80fd3c65.jpg" >}}
+{{< figure src="./images/389c66e7ddab342c9a24fd6e80fd3c65.jpg" >}}
 
 Le quatrième et dernier problème de la [Google Treasure Hunt 2008](http://treasurehunt.appspot.com) mérite un article à lui tout seul. (J'ai parlé des trois autres dans [cet article et ses commentaires](/2008/05/17/recrutement-et-casse-tete/))
 

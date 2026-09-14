@@ -8,7 +8,7 @@ categories:
 tags: 
   - "aerospace"
   - "japon"
-coverImage: "c2ced4096aa1d71c1375fae6f102af4f.jpg"
+coverImage: "./images/c2ced4096aa1d71c1375fae6f102af4f.jpg"
 ---
 
 > Perdu dans le ciel,
@@ -21,7 +21,7 @@ Le premier [haïku](w:)\* de Dr. Goulu a été inspiré par la [sonde Hayabusa]
 
 Les japonais ont lancé très discrètement cette sonde en 2003, parlant de "démonstrateur technologique". Hayabusa a souffert de nombreux incidents qui la font rentrer 3 ans plus tard que prévu. Demain pourtant, elle devrait se poser en Australie après un exploit remarquable : ramener sur Terre de la matière prélevée sur un astéroïde de 600 m seulement, [Itokawa](w:Astéroïde_Itokawa).
 
-[![](images/6fe05186a57f0bf1c3f48a2ab1c68fa7.jpg "pct_main_hayabusa")](/wp-content/uploads/HLIC/6fe05186a57f0bf1c3f48a2ab1c68fa7.jpg)
+[![](./images/6fe05186a57f0bf1c3f48a2ab1c68fa7.jpg "pct_main_hayabusa")](./images/6fe05186a57f0bf1c3f48a2ab1c68fa7.jpg)
 
 vue de la sonde Hayabusa sur l'astéroïde Itokawa
 
@@ -31,7 +31,7 @@ Si oui, Hayabusa rejoindra le club très fermé des missions ayant ramené de la
 
 - En 2004, "[Genesis](w:Genesis_(sonde_spatiale))" a ramené de la poussière du vent solaire collectée au [Point de Lagrange](w:) L1, mais au retour sur Terre, ses parachutes n'ont pas fonctionné et elle s'est bien plantée... Mais les échantillons ont survécu et les [premiers résultats d'analyse](http://www.techno-science.net/?onglet=news&news=7546) viennent d'être publiés.
 
-[![](images/49e3832691879ba71baa294c312f96ce.jpg)](http://fr.wikipedia.org/wiki/Genesis_\(sonde_spatiale\))
+[![](./images/49e3832691879ba71baa294c312f96ce.jpg)](http://fr.wikipedia.org/wiki/Genesis_\(sonde_spatiale\))
 
 Genesis après son "atterrissage"...
 

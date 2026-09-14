@@ -7,10 +7,10 @@ categories:
 tags: 
   - "statistiques"
   - "transports"
-coverImage: "montage_header2.png"
+coverImage: "./images/montage_header2.png"
 ---
 
-{{< figure src="images/montage_header2.png" >}}
+{{< figure src="./images/montage_header2.png" >}}
 
 Un reportage TV consacré à la survie en cas d'accident d'avion m'a fait repenser à une intéressante discussion sur le danger des différents moyens de transport.
 

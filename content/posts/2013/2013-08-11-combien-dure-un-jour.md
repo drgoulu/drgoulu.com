@@ -8,7 +8,7 @@ tags:
   - "astro"
   - "geometrie"
   - "monde"
-coverImage: "478px-Arctic_circle.svg_-1.png"
+coverImage: "./images/478px-Arctic_circle.svg_-1.png"
 ---
 
 La Terre est sphérique, orbite autour du soleil en un an, et en 24 heures elle tourne sur elle-même autour d'un [axe incliné](w:inclinaison_de_l'axe) d'environ 23.5° par rapport à la perpendiculaire au plan de l'écliptique. Ceci produit les saisons, comme l'explique très bien ce [joli simulateur](http://astro.unl.edu/naap/motion1/animations/seasons_ecliptic.swf), mais fait aussi varier la durée du jour de manière assez complexe, pour autant qu'on définisse le [jour](w:) comme l'intervalle de temps entre un lever du soleil et son coucher suivant.
@@ -19,7 +19,7 @@ Sous nos latitudes, la durée du jour est certes plus longue en été qu'en hive
 
 Ceci ne se produit qu'en Antarctique ou dans le [cercle polaire arctique](w:cercle_arctique) en bleu sur la carte ci-dessous, où l'on voit que nous autres européens sommes très favorisés pour aller contempler le [soleil de minuit](w:jour_polaire). Il nous suffit d'aller au nord de la Scandinavie, jusqu'au [Cap Nord](w:) situé à 71° de latitude nord, accessible par route ou [par bateau](w:Hurtigruten).
 
-[![](images/478px-Arctic_circle.svg_.png)](/wp-content/uploads/2015/05/478px-Arctic_circle.svg_.png)
+[![](./images/478px-Arctic_circle.svg_.png)](./images/478px-Arctic_circle.svg_.png)
 
 Pourtant, quand j'y étais le 3 août, le soleil faisait déjà une sieste d'environ 4 heures, juste sous l'horizon après un coucher de soleil qui a bien duré une heure. Alors, comment connaitre les dates entre lesquelles le soleil de minuit est observable, ou la latitude à laquelle il faut se rendre à une date donnée pour l'observer ?
 
@@ -31,17 +31,17 @@ où α est l'inclinaison de l'axe terrestre ( 23.5° ), λ la latitude du sit
 
 en traçant cette fonction pour différentes latitudes, on obtient ce graphique :
 
-{{< figure src="images/Duree-du-jour-1.png" alt="Durée du jour" caption="Durée du jour en fonction de la date à différentes latitudes [[2]](#ref-2)" link="/wp-content/uploads/2013/08/Duree-du-jour-1.png" align="aligncenter" width="614" >}}Sous nos latitudes, la durée du jour varie approximativement comme une sinusoïdale qui s’aplatit lorsqu'on se rapproche de l'équateur, où le soleil surgit perpendiculairement à l'horizon à 6h du matin et y replonge en piqué vers une nuit noire 12h plus tard.
+{{< figure src="./images/Duree-du-jour-1.png" alt="Durée du jour" caption="Durée du jour en fonction de la date à différentes latitudes [[2]](#ref-2)" link="./images/Duree-du-jour-1.png" align="aligncenter" width="614" >}}Sous nos latitudes, la durée du jour varie approximativement comme une sinusoïdale qui s’aplatit lorsqu'on se rapproche de l'équateur, où le soleil surgit perpendiculairement à l'horizon à 6h du matin et y replonge en piqué vers une nuit noire 12h plus tard.
 
 La situation est assez spéciale aussi aux cercles polaires (±66.55°) : la durée de leur jour y varie linéairement toute l'année, avec un seul soleil de minuit au solstice d'été et une seule nuit de 48h au [solstice](w:) d'hiver.
 
 Au delà des cercles polaires, la durée du jour varie de façon très abrupte, ce que l'on peut comprendre si l'on considère qu'aux aux solstices d'été et d'hiver, les rayons du Soleil sont tangents à la Terre sur le cercle polaire. A partir de là, une augmentation de l'angle de l'axe de la Terre par rapport aux rayons du soleil de 1° (qui survient en environ une semaine) suffit à faire plonger le soleil de 1° sous l'horizon à minuit, mais comme il ne s'élève qu'à 23° dans le ciel à midi, la "nuit" dure plus d'une heure.
 
-{{< figure src="images/f4eba33a7acdc9246d59bd317645c939.jpg" alt="Situation au solstice d'été, le 21 ou 22 juin [[4]](#ref-4)" caption="Situation au solstice d'été, le 21 ou 22 juin [[4]](#ref-4)" link="http://www.flagarde.fr/voyages/point_geo/les_saisons.htm" align="aligncenter" width="587" >}}Le graphique permet aussi de répondre à ma question plus haut. On voit qu'au Cap Nord (λ = 70°, courbe bleu ciel), le soleil ne se couche pas depuis environ un mois avant le solstice d'été jusqu'à un mois après, soit du 21 mai au 21 juillet (la courbe bleu ciel fait un "plat" à 24h de jour entre ces deux dates). Mais le 3 août, à peine deux semaines plus tard, la courbe est déjà tombée à environ 20h de jour "seulement".
+{{< figure src="./images/f4eba33a7acdc9246d59bd317645c939.jpg" alt="Situation au solstice d'été, le 21 ou 22 juin [[4]](#ref-4)" caption="Situation au solstice d'été, le 21 ou 22 juin [[4]](#ref-4)" link="http://www.flagarde.fr/voyages/point_geo/les_saisons.htm" align="aligncenter" width="587" >}}Le graphique permet aussi de répondre à ma question plus haut. On voit qu'au Cap Nord (λ = 70°, courbe bleu ciel), le soleil ne se couche pas depuis environ un mois avant le solstice d'été jusqu'à un mois après, soit du 21 mai au 21 juillet (la courbe bleu ciel fait un "plat" à 24h de jour entre ces deux dates). Mais le 3 août, à peine deux semaines plus tard, la courbe est déjà tombée à environ 20h de jour "seulement".
 
 Pour voir le soleil de minuit en août, il eût fallu\* aller au [Svalbard](w:), archipel mieux connu par le son île principale [Spitzberg](w:) située non loin de 80°N. Et en y restant de fin août à fin octobre, on peut y vivre la spectaculaire plongée de la durée du jour de 24h à 0 en un peu plus d'un mois, qui précipite ces latitudes dans la [nuit polaire](w:), bleue avec des aurores boréales vertes... ([ajouté aux todo...](http://goo.gl/maps/g52gz))
 
-{{< figure src="images/79b007e03088b550495773345fe5ee61.jpg" alt="Juste penser à amener un kit fondue pour changer du saumon ..." caption="Juste penser à amener un kit fondue pour changer du saumon ..." align="aligncenter" width="740" >}}
+{{< figure src="./images/79b007e03088b550495773345fe5ee61.jpg" alt="Juste penser à amener un kit fondue pour changer du saumon ..." caption="Juste penser à amener un kit fondue pour changer du saumon ..." align="aligncenter" width="740" >}}
 
 Note \* : le passé antérieur conditionnel passé 2ème forme en jette moins que l' [imparfait du subjonctif](/?s=subjonctif), mais quand même ;-)
 

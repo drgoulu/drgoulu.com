@@ -10,7 +10,7 @@ tags:
   - "science"
   - "ted"
   - "video"
-coverImage: "78134_389x292.jpg"
+coverImage: "./images/78134_389x292.jpg"
 ---
 
 Regardez ce petit chef d'oeuvre de vulgarisation du darwinisme (en anglais sous titré)

@@ -10,10 +10,10 @@ tags:
   - "physique"
   - "temps"
   - "voyage"
-coverImage: "7075421-L.jpg"
+coverImage: "./images/7075421-L.jpg"
 ---
 
-{{< figure src="images/7075421-L.jpg" alt="7075421-L" >}}
+{{< figure src="./images/7075421-L.jpg" alt="7075421-L" >}}
 
 Dans ce livre [Paul Davies](w:Paul_Davies_(physicien)) propose le schéma de principe d'un système permettant [le voyage dans le temps](w:) en créant un [trou de ver](w:):
 

@@ -6,10 +6,10 @@ categories:
   - "Comment"
 tags: 
   - "logiciels"
-coverImage: "electricsheep.247.06157.jpg"
+coverImage: "./images/electricsheep.247.06157.jpg"
 ---
 
-{{< figure src="images/electricsheep.247.06157.jpg" >}}
+{{< figure src="./images/electricsheep.247.06157.jpg" >}}
 
 Depuis le regretté VoodooLights qui avait illuminé mon écran pendant des années, seuls les habituels poissons virtuels et quelques balles bondissantes avaient occupé mon ordinateur lorsque je n'en faisais rien.
 

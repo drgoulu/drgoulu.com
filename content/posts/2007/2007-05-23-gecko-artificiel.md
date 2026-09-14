@@ -5,12 +5,12 @@ date: 2007-05-23
 tags: 
   - "mecanique"
   - "physique"
-coverImage: "from_inside_sml.jpg"
+coverImage: "./images/from_inside_sml.jpg"
 ---
 
 Ils l'on fait : un robot capable de grimper sur du verre en utilisant la force de Van der Waals.
 
-\[youtube odAifbpDbhs\] ![](images/from_inside_sml.jpg)
+\[youtube odAifbpDbhs\] ![](./images/from_inside_sml.jpg)
 
 Le [SkickyBot de l'université de Stanford](http://www.stanford.edu/~sangbae/Stickybot.htm) imite le gecko, dont on a compris comment les pattes fonctionnaient qu'en 2002.
 

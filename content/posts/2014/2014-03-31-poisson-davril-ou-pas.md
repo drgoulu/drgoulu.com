@@ -6,7 +6,7 @@ tags:
   - "biologie"
   - "humour"
   - "oceans"
-coverImage: "Macropinna_microstoma_MBARI.jpg"
+coverImage: "./images/Macropinna_microstoma_MBARI.jpg"
 
 aliases:
   - "/2014/04/01/poisson-davril-ou-pas/"
@@ -28,7 +28,7 @@ Les blogueurs du C@fé des Sciences ont réuni leurs forces pour te proposer ce 
 -  un poisson dont le crâne est transparent.
 -  un Poisson d'Avril
 
-## ![Ca va le bocal ?](images/xp_gxawWjPvdYW1ePONi5_nqsQRZqNofQDQmWjjOSov0zrETCq2MeCUam-XpwJmKxTOi "Ca va le bocal ?")
+## ![Ca va le bocal ?](./images/xp_gxawWjPvdYW1ePONi5_nqsQRZqNofQDQmWjjOSov0zrETCq2MeCUam-XpwJmKxTOi "Ca va le bocal ?")
 
 3\. Le poisson d'argent est la preuve que les poissons descendent des insectes \*
 
@@ -65,7 +65,7 @@ Les blogueurs du C@fé des Sciences ont réuni leurs forces pour te proposer ce 
 -  Vrai
 -  Poisson d'Avril
 
-## ![Parce que je le vaux bien](images/srwv5hmB1bmNMlIuib4AhSbHN3F0MZxE5vtC0MCEbKb2dmLWbeqi4B_pa7qbuz4nyI6Z "Parce que je le vaux bien")
+## ![Parce que je le vaux bien](./images/srwv5hmB1bmNMlIuib4AhSbHN3F0MZxE5vtC0MCEbKb2dmLWbeqi4B_pa7qbuz4nyI6Z "Parce que je le vaux bien")
 
 10\. Si un poisson remonte trop vite vers la surface, il peut exploser. \*
 
@@ -107,7 +107,7 @@ Les blogueurs du C@fé des Sciences ont réuni leurs forces pour te proposer ce 
 -  Vrai
 -  Poisson d'Avril
 
-![Ouah ! ouah !](images/sk5pgzk-UQGxj2joAIg8aS-j-5UrzffyZN-1vyGwiapYMoxUZyYxcA9VmQ2wDlFOgVE "Ouah ! ouah !")
+![Ouah ! ouah !](./images/sk5pgzk-UQGxj2joAIg8aS-j-5UrzffyZN-1vyGwiapYMoxUZyYxcA9VmQ2wDlFOgVE "Ouah ! ouah !")
 
 18\. Des crustacés peuvent remplacer la langue de certains poissons \*
 
@@ -129,21 +129,21 @@ Les blogueurs du C@fé des Sciences ont réuni leurs forces pour te proposer ce 
 -  Vrai
 -  Poisson d'Avril
 
-## ![Qu'est-ce qu'elle a ma gueule ?](images/LmKzu61E9BT3EiLvFlrx1luwip3BylUwqz-s1bfxguUSS_8AGRqID9W_H_V6cgQwwus "Qu'est-ce qu'elle a ma gueule ?")
+## ![Qu'est-ce qu'elle a ma gueule ?](./images/LmKzu61E9BT3EiLvFlrx1luwip3BylUwqz-s1bfxguUSS_8AGRqID9W_H_V6cgQwwus "Qu'est-ce qu'elle a ma gueule ?")
 
 22\. Les murènes possèdent deux machoires \*
 
 -  Vrai
 -  Poisson d'Avril
 
-## ![et toi, t'as combien de mâchoires ?](images/dQ53VpvBMaeoz18_dMF0rmKCcYidr7GTcAEroC4fAOd9oO6tBWdO4LcaGM25zT1hD0b0 "et toi, t'as combien de mâchoires ?")
+## ![et toi, t'as combien de mâchoires ?](./images/dQ53VpvBMaeoz18_dMF0rmKCcYidr7GTcAEroC4fAOd9oO6tBWdO4LcaGM25zT1hD0b0 "et toi, t'as combien de mâchoires ?")
 
 23\. Le poisson lune laisse des oiseaux picorer les parasites sur sa peau \*
 
 -  Vrai
 -  Poisson d'Avril
 
-## ![Poisson lune et homme poisson](images/IPy1ntFhUPE3o0UXAAZlimLCNoCOt2tKD9cZj0tp-L2BaX-FwHoZ5CsdmTpcVYDGrno "Poisson lune et homme poisson")
+## ![Poisson lune et homme poisson](./images/IPy1ntFhUPE3o0UXAAZlimLCNoCOt2tKD9cZj0tp-L2BaX-FwHoZ5CsdmTpcVYDGrno "Poisson lune et homme poisson")
 
 24\. On a récemment péché un requin ouvre boite \*
 

@@ -7,7 +7,7 @@ categories:
 tags: 
   - "chimie"
   - "musique"
-coverImage: "520337PeriodicTableofRock.png"
+coverImage: "./images/520337PeriodicTableofRock.png"
 ---
 
 Drôle de question que je me suis posé en écoutant le génialissime "Lithium" de Nirvana : existe-t-il un morceau de musique portant le nom de chaque élément du tableau périodique ?
@@ -21,4 +21,4 @@ En anglais, presque ! Après recherche sur Spotify, voici ma playliste "[Periodi
 
 _(ajout du 19.12.2013 : El Jj a réalisé ce magnifique vrai tableau:)_
 
-{{< figure src="images/520337PeriodicTableofRock.png" alt="Periodic Table of Rock par El Jj (cliquer pour agrandir)" caption="Periodic Table of Rock par El Jj (cliquer pour agrandir)" link="/wp-content/uploads/2013/09/520337PeriodicTableofRock.png" align="aligncenter" width="614" >}}
+{{< figure src="./images/520337PeriodicTableofRock.png" alt="Periodic Table of Rock par El Jj (cliquer pour agrandir)" caption="Periodic Table of Rock par El Jj (cliquer pour agrandir)" link="./images/520337PeriodicTableofRock.png" align="aligncenter" width="614" >}}

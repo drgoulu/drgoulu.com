@@ -8,12 +8,12 @@ tags:
   - "aerospace"
   - "fiction"
   - "science"
-coverImage: "94bee420b1fcee724684a5dc6f59770c1-1.png"
+coverImage: "./images/94bee420b1fcee724684a5dc6f59770c1-1.png"
 ---
 
 Dans l'article "How big is your starship", Badastronomy présente une image compilant beaucoup de vaisseaux spatiaux des films et série de sci-fi à l'échelle :
 
-{{< figure src="images/94bee420b1fcee724684a5dc6f59770c.png" alt="Cliquer sur l'image pour accéder au site d'origine où vous pourrez télécharger des images énormes de chaque vaisseau." caption="Cliquer sur l'image pour accéder au site d'origine où vous pourrez télécharger des images énormes de chaque vaisseau." link="http://www.st-minutiae.com/misc/comparison/index.html" align="aligncenter" width="600" >}}
+{{< figure src="./images/94bee420b1fcee724684a5dc6f59770c.png" alt="Cliquer sur l'image pour accéder au site d'origine où vous pourrez télécharger des images énormes de chaque vaisseau." caption="Cliquer sur l'image pour accéder au site d'origine où vous pourrez télécharger des images énormes de chaque vaisseau." link="http://www.st-minutiae.com/misc/comparison/index.html" align="aligncenter" width="600" >}}
 
 A mon avis, un bon vaisseau spatial:
 

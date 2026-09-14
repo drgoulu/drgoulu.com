@@ -8,7 +8,7 @@ tags:
   - "informatique"
   - "programmation"
   - "python"
-coverImage: "e9451462598a3ecd58ddabd87a766503.jpg"
+coverImage: "./images/e9451462598a3ecd58ddabd87a766503.jpg"
 
 aliases:
   - "/2010/12/03/les-decorateurs-python/"
@@ -18,7 +18,7 @@ Je programme des ordinateurs depuis 30 ans, et tous les 5 ans environ je me dema
 
 Le dernier a été provoqué cette semaine par les "décorateurs" de Python, dont je vous parlerai plus bas.
 
-![](images/1e6c2b5ad4fd77ee9c967945b326090c.jpg)Ma première extase informatique date donc de 1980 environ, je m'en souviens comme si c'était hier. Mon [Commodore PET](w:) 2001 se programmait en BASIC, un langage qu'on a bien fait d'oublier. Mais une astuce (ou plutôt une horreur) sur le PET permettait de faire en sorte que le programme s'ajoute des lignes de programme à lui-même ! J'avais ainsi modifié le jeu "[animals](http://www.moorecad.com/classicbasic/basic/creative/animal.bas)" de [Creative Computing](http://www.atariarchives.org/bcc1/showpage.php?page=197) pour qu'il "apprenne" de nouveaux animaux de façon permanente. Un programme qui s'améliore lui-même, ça me fait encore rêver, 30 ans après...
+![](./images/1e6c2b5ad4fd77ee9c967945b326090c.jpg)Ma première extase informatique date donc de 1980 environ, je m'en souviens comme si c'était hier. Mon [Commodore PET](w:) 2001 se programmait en BASIC, un langage qu'on a bien fait d'oublier. Mais une astuce (ou plutôt une horreur) sur le PET permettait de faire en sorte que le programme s'ajoute des lignes de programme à lui-même ! J'avais ainsi modifié le jeu "[animals](http://www.moorecad.com/classicbasic/basic/creative/animal.bas)" de [Creative Computing](http://www.atariarchives.org/bcc1/showpage.php?page=197) pour qu'il "apprenne" de nouveaux animaux de façon permanente. Un programme qui s'améliore lui-même, ça me fait encore rêver, 30 ans après...
 
 Le second flash date de 1985, la grande époque de [Turbo Pascal](w:). Un jour j'ai vu quelque chose comme ça:
 
@@ -30,7 +30,7 @@ Les années 1990 sont riches en "haha"s plus rapprochés mais moins intenses pen
 
 Un peu avant 1995, je découvre [LabView](w:) et le flash se produit lorsque je comprends que c'est un véritable langage de programmation complet... sans code ! Ou plus exactement que le langage graphique de LabView permet de programmer directement au niveau sémantique. Adieu "syntax error" ! Quel dommage que [NI](http://www.ni.com/) vende cette merveille si cher et l'aie blindé de brevets défendus avec vigueur : un des concepts les plus innovants en programmation reste confiné à un cercle d'initiés alors qu'il aurait pu révolutionner l'informatique.
 
-{{< figure src="images/f364f53ba469dc47f8253d2c53b9d310.png" alt="un programme LabView avec blocs concurrents, boucles, tests etc." caption="un &quot;programme&quot; LabView avec blocs concurrents, boucles, tests etc." align="aligncenter" width="821" >}}
+{{< figure src="./images/f364f53ba469dc47f8253d2c53b9d310.png" alt="un programme LabView avec blocs concurrents, boucles, tests etc." caption="un &quot;programme&quot; LabView avec blocs concurrents, boucles, tests etc." align="aligncenter" width="821" >}}
 
 Vers 2000, je constate qu'on m'avait menti : C++ est beaucoup plus qu'un C amélioré. C'est un grand festival de "haha" en quelques jours : les [références](w:en:Reference_(C++)), la [const-correctness](w:en), l'[héritage multiple](w:), la [surcharge des opérateurs](w:), les [exceptions](http://fr.wikibooks.org/wiki/Programmation_C%2B%2B/Exceptions) , le [RTTI](w:Run-time_type_information), mais surtout la [Standard Template Library](w:) (STL). Java et .NET ont des librairies de classes et fonctions à tout faire, mais C++ a une "méta-librairie", un système qui produit du code très optimisé pour chaque opération spécifique, en utilisant notamment le concept d'[itérateur](w:).
 

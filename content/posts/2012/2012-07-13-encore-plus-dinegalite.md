@@ -10,7 +10,7 @@ tags:
   - "inegalites"
   - "ocde"
   - "suisse"
-coverImage: "bfdf635b6744acf4d8bd701f39b3a914.png"
+coverImage: "./images/bfdf635b6744acf4d8bd701f39b3a914.png"
 ---
 
 Hier soir, lors d'un [débat à la radio Suisse entre Guillaume Mathelier et Beat Kappeler](http://www.rts.ch/la-1ere/programmes/forum/4118859-forum-du-12-07-2012.html), ce dernier a prétendu (après 09:22) que "La Suisse a la répartition des revenus la plus égalitaire en Europe continentale, aussi égalitaire qu'en Scandinavie", ce à quoi le maire PS d'Ambilly (Haute-Savoie) répond "on ne doit pas tout-à-fait voir la même Suisse". Qui a raison ?
@@ -23,13 +23,13 @@ Dans  "[Inégalités de revenus et croissance : le rôle des impôts et des tr
 
 et ce graphique page 11 :
 
-> [![](images/bfdf635b6744acf4d8bd701f39b3a914.png "2012-07-13_185459")](http://www.oecd.org/dataoecd/28/27/49446673.pdf)
+> [![](./images/bfdf635b6744acf4d8bd701f39b3a914.png "2012-07-13_185459")](http://www.oecd.org/dataoecd/28/27/49446673.pdf)
 
 la Suisse est bien dans le groupe de gauche (...) avec quelques pays nordiques, la France à sa droite avec l'Italie, la Belgique et des pays de l'Est Européen. C'est donc bien [Beat Kappeler](http://www.beatkappeler.info/) qui avait raison. Pas parce qu'il est économiste comme Guillaume Mathelier l'a rappelé plusieurs fois sur un ton moqueur, mais parce qu'il connait les faits.
 
 L'autre document [[2]](#ref-2) analyse l'augmentation des inégalités, réelle dans beaucoup de pays de l'OCDE, mais pas tous. Voici le graphique disponible dans \[2.A\] \*
 
-[![](images/e55dbda409b2f0fa4fbdc48d0da2970e.png "2012-07-13_192419")](http://www.oecd.org/dataoecd/51/32/49177707.pdf)
+[![](./images/e55dbda409b2f0fa4fbdc48d0da2970e.png "2012-07-13_192419")](http://www.oecd.org/dataoecd/51/32/49177707.pdf)
 
 La Suisse n'y est pas représentée (je ne sais pas pourquoi), mais les [données](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.oecd.org%2Fdataoecd%2F39%2F45%2F49170007.xls) montrent qu'elle se situerait avec la France, dans le groupe des pays où les inégalités n'ont PAS notablement augmenté en plus de 20 ans.
 
@@ -41,7 +41,7 @@ Le document \[2.A\] relève aussi plus loin que :
 
 Le fameux "graphique 9" montre exactement ce que j'avais découvert en 2008 sur "[l'effet des impôts](/2009/03/21/combien-dinegalite/)": les revenus bruts suisses étant très égalitaires, l'impôt n'a pas besoin d'être très redistributif:
 
-[![](images/1eeee73a4dceb35a25c0c3b2367d84e4.png "2012-07-13_194659")](http://www.oecd.org/dataoecd/51/32/49177707.pdf)
+[![](./images/1eeee73a4dceb35a25c0c3b2367d84e4.png "2012-07-13_194659")](http://www.oecd.org/dataoecd/51/32/49177707.pdf)
 
 Ce document \[2.A\] contient une analyse poussée des effets sociaux de la fiscalité qui me paraît très intéressante. Je vais la lire en détail et y revenir le cas échéant. En attendant, je prépare ci-dessous une citation que je n'aurai plus qu'à copier-coller pour répondre à certains commentaires:
 

@@ -6,12 +6,12 @@ categories:
   - "Comment"
 tags: 
   - "architecture"
-coverImage: "ab456633f03ef14aed9603f808512feb.jpg"
+coverImage: "./images/ab456633f03ef14aed9603f808512feb.jpg"
 ---
 
 La dernière folie d'architecte qui va être construite à Dubai : une tour dont chaque étage peut tourner sur 360° ! La création "[DYNAMIC ARCHITECTURE](http://www.dynamicarchitecture.net/)" de David Fisher pourra ressembler à ça dans la même journée:
 
-[![u16\_UAE\_rotatingtower5](images/u16_UAE_rotatingtower5.jpg)](http://www.dynamicarchitecture.net/)
+[![u16\_UAE\_rotatingtower5](./images/u16_UAE_rotatingtower5.jpg)](http://www.dynamicarchitecture.net/)
 
 et la vidéo suivante présente l'ensemble du projet :
 

@@ -8,22 +8,22 @@ tags:
   - "photo"
   - "programmation"
   - "python"
-coverImage: "e9451462598a3ecd58ddabd87a766503-1.jpg"
+coverImage: "./images/e9451462598a3ecd58ddabd87a766503-1.jpg"
 ---
 
-{{< figure src="images/e9451462598a3ecd58ddabd87a766503.jpg" link="http://flickr.com/photos/goulu/3077977446/" >}}
+{{< figure src="./images/e9451462598a3ecd58ddabd87a766503.jpg" link="http://flickr.com/photos/goulu/3077977446/" >}}
 
 C'est très facile de faire une [photomosaïque](/2007/08/19/grandes-images/) comme celle ci-contre. Des sites comme [Pictosaic juxtaposent](http://www.pictosaic.com/photo-mosaic.html) en quelques secondes des centaines d'images pour approximer une image de base.
 
 Par exemple, voici un détail du goulot du bécher ci-contre:
 
-[![mosaic](images/df9a59432982205e02b71f0cf889268e.jpg "mosaic")](/wp-content/uploads/HLIC/df9a59432982205e02b71f0cf889268e.jpg)Mais combien de petites images distinctes sont utilisées pour produire la mosaïque ? Pour répondre à cette question, j'ai développé un petit programme avec [Python(x,y)](/2008/10/17/pythonxy/) en utilisant la ["Python Imaging Library" (PIL)](http://www.pythonware.com/products/pil/)
+[![mosaic](./images/df9a59432982205e02b71f0cf889268e.jpg "mosaic")](./images/df9a59432982205e02b71f0cf889268e.jpg)Mais combien de petites images distinctes sont utilisées pour produire la mosaïque ? Pour répondre à cette question, j'ai développé un petit programme avec [Python(x,y)](/2008/10/17/pythonxy/) en utilisant la ["Python Imaging Library" (PIL)](http://www.pythonware.com/products/pil/)
 
 Le programme produit un [résultat sous forme d'une image composée d'une ligne pour chaque image unique](http://drgoulu.files.wordpress.com/2008/12/result_mosaic_chimie.jpg), avec à côté toutes les copies de cette image identifiées par le programme.
 
 Le programme Python est ci-dessous, il est relativement simple, à l'exception de la fonction permettant de comparer les images pour laquelle j'ai pas mal ramé, et il reste un seuil numérique à ajuster au cas par cas, mais dans l'ensemble ça marche...
 
-A quoi ça sert tout ça ? Outre à tester le traitement d'image en Python avec PIL, c'est pour gagner un concours, mais je ne vous dirai pas (encore) lequel [;-)](/wp-content/uploads/2008/12/result.jpg)
+A quoi ça sert tout ça ? Outre à tester le traitement d'image en Python avec PIL, c'est pour gagner un concours, mais je ne vous dirai pas (encore) lequel [;-)](./images/result.jpg)
 
 {{< highlight python >}}
 import Image; #PIL

@@ -7,10 +7,10 @@ categories:
 tags: 
   - "maths"
   - "nombres"
-coverImage: "Pyramid_of_35_spheres_animation_original.gif"
+coverImage: "./images/Pyramid_of_35_spheres_animation_original.gif"
 ---
 
-{{< figure src="images/pyramid-spheres.png" alt="pyramid-spheres" >}}
+{{< figure src="./images/pyramid-spheres.png" alt="pyramid-spheres" >}}
 
 En essayant de comprendre quelque chose aux [courbes elliptiques](w:courbe_elliptique) je suis tombé [là](https://jeremykun.com/2014/02/10/elliptic-curves-as-elementary-equations/) sur un problème d'apparence tout simple qui m'a fait découvrir les [nombre pyramidaux](w:nombre_pyramidal) et l'intéressant problème du calcul des [sommes de puissances d'entiers](w:).
 
@@ -46,7 +46,7 @@ Je n'en suis pas encore là. Pour l'instant je me suis limité à immortaliser l
 
 Revenons à notre problème initial de pyramide à base carrée. Carrée ? Pourquoi se limiter à un carré ? D'ailleurs les faces de notre pyramide sont triangulaires... et même qu'elles ont 1+2+3+ ... n boulets, et revoici notre $S_n^1$ ! Pas pour rien qu'on appelle les nombres 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, ... (suite [A000217](https://oeis.org/A000217 "oeis:A000217") de l'OEIS) "[Nombres triangulaires](w:Nombre_triangulaire)", ce qui est d'autant plus logique que 1, 4, 9, 16, 25, 36, ... ([A000290](https://oeis.org/A000290 "oeis:A000290")) sont les "[carrés](w:Carré_parfait)".
 
-{{< figure src="images/Pyramid_of_35_spheres_animation_original.gif" alt="Image Wikimedia Commons : Rendered by Blotwell using POV-Ray" caption="Image Wikimedia Commons : Rendered by Blotwell using POV-Ray" link="https://commons.wikimedia.org/wiki/File:Pyramid_of_35_spheres_animation_original.gif" width="400" >}}
+{{< figure src="./images/Pyramid_of_35_spheres_animation_original.gif" alt="Image Wikimedia Commons : Rendered by Blotwell using POV-Ray" caption="Image Wikimedia Commons : Rendered by Blotwell using POV-Ray" link="https://commons.wikimedia.org/wiki/File:Pyramid_of_35_spheres_animation_original.gif" width="400" >}}
 
 En empilant des boulets sur une base triangulaire, on obtient les [nombres tétraédriques](w:nombre_tétraédrique) 1, 4, 10, 20, 35, 56, 84, 120, 165, 220, ...  ( [A000292](https://oeis.org/A000292 "oeis:A000292") ) donnés par la formule
 

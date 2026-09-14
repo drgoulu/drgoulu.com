@@ -13,7 +13,7 @@ tags:
   - "monde"
   - "nucleaire"
   - "voyage"
-coverImage: "2b007b382f92fe7ce4fc7096c1a36864.jpg"
+coverImage: "./images/2b007b382f92fe7ce4fc7096c1a36864.jpg"
 ---
 
 Billet vite fait en forme de pot-pourri de découvertes estivales.
@@ -22,7 +22,7 @@ Billet vite fait en forme de pot-pourri de découvertes estivales.
 
 Ce pays est bien plus qu'une destination de vacances de rêve. L'archipel est un "micro-continent" granitique peuplé d'espèces endémiques surprenantes, préservées de toute présence humaine jusque vers 1750. Actuellement, ce micro-état de 90'000 habitants seulement traverse des crises importantes mais m'a semblé sur la bonne voie pour les résoudre : bon niveau de formation, ouverture, dialogue social et politique, conscience écologique.
 
-{{< figure src="images/2b007b382f92fe7ce4fc7096c1a36864.jpg" alt="Dr. Goulu et la coco fesse (sur flickr)" caption="&quot;Dr. Goulu et la coco fesse&quot; (sur flickr)" link="http://www.flickr.com/photos/goulu/7735872512" width="240" >}}
+{{< figure src="./images/2b007b382f92fe7ce4fc7096c1a36864.jpg" alt="Dr. Goulu et la coco fesse (sur flickr)" caption="&quot;Dr. Goulu et la coco fesse&quot; (sur flickr)" link="http://www.flickr.com/photos/goulu/7735872512" width="240" >}}
 
 On trouve aux Seychelles des [tortues géantes](w:tortue_géante_des_Seychelles), "Aldabrachelys gigantea", plus grosses que celles des Galapagos. Charles Darwin était d'ailleurs intervenu en faveur de leur protection, car elles étaient menacées à la fin du XIXème siècle. Les autorités avaient alors eu une excellente idée pour tenir les braconniers à l'écart de Curieuse, une île affectionnée par les tortues : y construire une léproserie!
 
@@ -46,7 +46,7 @@ Or ceci apparaît de plus en plus comme une [éco fable](http://fabiusmaximus.
 
 {{< youtube id="YpNuh-J5IgE" width="640" >}}
 
-### ![](images/baabef4a63f7beddbbd8f7bbc7083192.jpg)Le "Pour la Science" d'Août
+### ![](./images/baabef4a63f7beddbbd8f7bbc7083192.jpg)Le "Pour la Science" d'Août
 
 Deux articles au moins justifient l'achat de ce numéro
 

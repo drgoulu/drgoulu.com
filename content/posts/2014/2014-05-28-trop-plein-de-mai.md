@@ -8,14 +8,14 @@ categories:
   - "Pourquoi"
 tags: 
   - "trop-plein"
-coverImage: "falling-cat.jpg"
+coverImage: "./images/falling-cat.jpg"
 ---
 
 _Chaque fin de mois à partir de maintenant, le "trop-plein" transformera des brouillons d'articles potentiels en paragraphes d'un véritable article._
 
 ## Quand l'aluminium coûtait aussi cher que l'or
 
-[![](images/9198718b241656f85f7a4811e35e613f.jpg)](http://www.todayifoundout.com/index.php/2014/05/aluminium-cost-gold/)C'est vrai ça : comment produisait on l'[aluminium](w:) avant que l'électricité soit disponible en quantité suffisante pour l'électrolyse de l'[alumine](w:) ?
+[![](./images/9198718b241656f85f7a4811e35e613f.jpg)](http://www.todayifoundout.com/index.php/2014/05/aluminium-cost-gold/)C'est vrai ça : comment produisait on l'[aluminium](w:) avant que l'électricité soit disponible en quantité suffisante pour l'électrolyse de l'[alumine](w:) ?
 
 Bien que l'aluminium soit le troisième élément le plus abondant de la croûte terrestre (après l'oxygène et le silicium), il n'était connu que sous forme d'oxyde jusqu'en 1825 où des chimistes réussirent à en produire un peu sous forme de poudre. En 1855 le premier lingot d'aluminium, obtenu par voie chimique, est exposé à l'Exposition Universelle de Paris. Le métal coûtait alors aussi cher que l'or et était utilisé pour des bijoux et de l' "argenterie" de luxe !
 
@@ -39,7 +39,7 @@ Autres référence trouvée sur [ce forum](http://www.chassimages.com/forum/inde
 
 - ANSES "[Systèmes d’éclairage utilisant des diodes électroluminescentes : des effets sanitaires à prendre en compte](http://www.afssa.fr/Documents/PRES2010CPA14.pdf)", 2010, Dossier de presse ANSES
 
-## [![falling cat](images/falling-cat-226x300.jpg)](/wp-content/uploads/2014/05/falling-cat.jpg)Une explication dynamique du phénomène de la chute du chat
+## [![falling cat](./images/falling-cat-226x300.jpg)](./images/falling-cat.jpg)Une explication dynamique du phénomène de la chute du chat
 
 Suite d'une discussion à la pause café, retrouvé un article de légende :
 

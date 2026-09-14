@@ -9,12 +9,12 @@ tags:
   - "galaxies"
   - "physique"
   - "trou-noir"
-coverImage: "4154321883a70f902bb2bf7e7d604d3d.jpg"
+coverImage: "./images/4154321883a70f902bb2bf7e7d604d3d.jpg"
 ---
 
 Les trous noirs sont très noirs : aucune lumière ne peut en sortir. En plus ils sont très petits, ce qui empêche définitivement de les "voir" avec un télescope. Par contre les phénomènes cataclysmiques qu'ils produisent dans leur voisinage dégagent une énergie colossale qui trahit leur présence sans doute possible. Il y a d'une part le disque d'accrétion dont j'ai déjà parlé [ici](/2007/03/13/cest-plein-de-trous-noirs/) et [là](/2008/04/18/ca-cest-du-trou-noir-du-vrai/), et d'autre par les "jets", que l'on est en train de comprendre un peu mieux.
 
-![](images/4154321883a70f902bb2bf7e7d604d3d.jpg)
+![](./images/4154321883a70f902bb2bf7e7d604d3d.jpg)
 
 A l'origine, ce sont des photos comme celle du centre de la galaxie M87 ci-contre qui ont révélé des jets de plasma très chaud émis à 99% de la vitesse de la lumière par le centre de plusieurs galaxies, perpendiculairement à leur plan de rotation.
 
@@ -22,7 +22,7 @@ La violence du phénomène ne laisse aucun doute sur l'origine, mais le fait dem
 
 En 1977 déjà, Blandford et Znajek ont proposé un mécanisme expliquant l'émission de ces jets : la matière du disque d'accrétion tombant en spirale vers le trou noir serait déviée par le champ magnétique de celui-ci, qui serait enroulé sur lui-même au point de former une gigantesque dynamo qui accélèrerait la matière sur des lignes de champ hélicoïdales qui s'échappent par les pôles du trou noir. Leur théorie prédit qu'il devrait y avoir un "noeud" à une certaine distance de l'émission ou le jet serait focalisé avant de poursuivre son chemin dans l'Univers. Cette magnifique théorie est illustrée par l'image ci-dessous (cliquer pour agrandir):
 
-![](images/aa2f0bd3d30fb99d49dce6aac38bdf68.jpg)
+![](./images/aa2f0bd3d30fb99d49dce6aac38bdf68.jpg)
 
 Si vous me conaissez, vous m'avez vu venir : oui, la théorie vient d'être vérifiée grâce à sa prédiction : en observant une bouffée de particules progressant le long du jet de BL Lacertae (BL Lac à 950 millios d'années lumière) pendant plusieurs années, Alan Marscher de l'université de Boston a observé qu'elle a émis plus de lumière, de rayons X et de rayons gamma exactement à la position du noeud prévu : CQFD.
 

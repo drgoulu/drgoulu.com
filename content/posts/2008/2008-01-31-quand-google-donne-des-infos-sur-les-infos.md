@@ -8,14 +8,14 @@ tags:
   - "futur"
   - "internet"
   - "societe"
-coverImage: "c97a5aab65bfbd03c4a6b3086c2cc254.png"
+coverImage: "./images/c97a5aab65bfbd03c4a6b3086c2cc254.png"
 ---
 
 [Google est une boite très intéressante](http://goulu.wordpress.com/2008/01/29/visite-chez-google/). Fondamentalement créative et, j'en suis convaincu, bien intentionnée, elle collecte une quantité phénoménale de données utilisées pour améliorer l'accès à l'information de ses centaines de millions d'utilisateurs.
 
 Parfois, ces données agglomérées fournissent des indications imprévues. Par exemple l'outil [Google Suggest](http://www.google.com/webhp?complete=1&hl=en) essaie de deviner ce que vous allez chercher sur le Net en complétant les premières lettres que vous tapez avec les recherches les plus fréquentes sur Google. Par exmple, si vous tapez "is " (avec espace), Google Suggest vous liste les demandes les plus fréquentes commençant par "est-ce que ... ". Ces jours-ci ça donne ça :
 
-![](images/c97a5aab65bfbd03c4a6b3086c2cc254.png)
+![](./images/c97a5aab65bfbd03c4a6b3086c2cc254.png)
 
 En gros, les 4 recherches les plus fréquentes+récentes concernent la religion du candidat Obama aux élections états-uniennes... Intéressant, non ?
 

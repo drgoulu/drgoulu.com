@@ -4,7 +4,7 @@ slug: "meilleurs-voeux-2018"
 date: 2018-01-02
 tags: 
   - "annee"
-coverImage: "25541817868_12daa63ef3_z_d.jpg"
+coverImage: "./images/25541817868_12daa63ef3_z_d.jpg"
 ---
 
 El Jj ayant été une fois encore trop rapide pour la traditionnelle [liste des propriétés intéressantes de 2018,](http://eljjdx.canalblog.com/archives/2018/01/01/35964379.html) je commence cette nouvelle année par vous souhaiter, chère lectrice ou cher lecteur, tout ce que vous auriez souhaité qu'on vous souhaite, mais en mieux ! (© [le Chat de Geluck](http://larepubliquedeslivres.com/2017-et-sequantes/voeux-le-chat/))
@@ -34,7 +34,7 @@ En cette fin de 2017, je me suis donc demandé si le blog était toujours la mei
 
 Et puis je me suis aperçu que j'aimais bien "faire le prof" en répondant aux commentaires sur ce blog, mais aussi aux questions de jeunes sur Kidi'Science, sur [les trous noirs](http://kidiscience.cafe-sciences.org/articles/tout-savoir-sur-les-trous-noirs/), la [taille de l'univers](http://kidiscience.cafe-sciences.org/articles/est-ce-que-lunivers-est-infini-question-de-colin/) ou le [lavabo](http://kidiscience.cafe-sciences.org/articles/question-denfant-leau-qui-tourne-dans-le-lavabo/).
 
-[![](images/Quora.jpg)](https://fr.quora.com/profile/Philippe-Guglielmetti)Et puis j'ai découvert  [Quora](https://fr.quora.com/), d'abord [en anglais](https://www.quora.com/profile/Philippe-Guglielmetti) puis [en français](https://fr.quora.com/profile/Philippe-Guglielmetti). [Quora](w:) est un site de questions & réponses fondée par des anciens de Facebook. Je ne sais pas encore quel est leur "business model" car le site ne montre pas de pub, mais ce site monte en puissance rapidement et je le trouve bien fait, "sain" car bien modéré, propice aux échanges de points de vue et aux "rencontres virtuelles" avec des gens intéressants.
+[![](./images/Quora.jpg)](https://fr.quora.com/profile/Philippe-Guglielmetti)Et puis j'ai découvert  [Quora](https://fr.quora.com/), d'abord [en anglais](https://www.quora.com/profile/Philippe-Guglielmetti) puis [en français](https://fr.quora.com/profile/Philippe-Guglielmetti). [Quora](w:) est un site de questions & réponses fondée par des anciens de Facebook. Je ne sais pas encore quel est leur "business model" car le site ne montre pas de pub, mais ce site monte en puissance rapidement et je le trouve bien fait, "sain" car bien modéré, propice aux échanges de points de vue et aux "rencontres virtuelles" avec des gens intéressants.
 
 Ce qui me plaît, c'est de pouvoir consacrer quelques minutes de temps en temps à répondre à des questions très variées, parfois en un seul mot, parfois en downvotant les questions stupides, mais souvent en complétant d'autres réponses ou en fournissant un regard différent, ou simplement en upvotant les bonnes réponses. Et de temps en temps, passer plus de temps à rédiger un article plus complet sur leur système de blog. Je pensais initialement republier sur Quora des articles de ce blog, mais J'ai finalement choisi de faire le contraire : rédiger sur Quora des "[réponses fréquentes](https://fr.quora.com/blog/drgoulu)" qui seront peut-être un jour republiées sur drgoulu.com . C'est possible car tout le contenu publié sur Quora (questions, réponses, articles de blog etc) est par défaut réutilisable selon une [licence](https://www.quora.com/How-can-material-on-Quora-be-reused-elsewhere-What-are-the-licensing-terms-What-about-in-the-case-where-a-user-has-selected-the-not-for-reproduction-option) proche de la Creative Common CC-BY-SA que j'utilise sur ce site.
 
@@ -46,4 +46,4 @@ Voilà, cet article parle surtout de moi, désolé, mais je ne l'aurais pas écr
 
 # Bonne Année Curieuse à tous !
 
-{{< figure src="images/25541817868_12daa63ef3_z_d.jpg" alt="Belle photo de Max Guitare sur flickr en CC (merci!)" caption="Belle photo de Max Guitare sur flickr en CC (merci!)" link="https://www.flickr.com/photos/maxguitare/25541817868/" align="aligncenter" width="420" >}}
+{{< figure src="./images/25541817868_12daa63ef3_z_d.jpg" alt="Belle photo de Max Guitare sur flickr en CC (merci!)" caption="Belle photo de Max Guitare sur flickr en CC (merci!)" link="https://www.flickr.com/photos/maxguitare/25541817868/" align="aligncenter" width="420" >}}

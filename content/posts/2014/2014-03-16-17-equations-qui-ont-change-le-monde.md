@@ -10,10 +10,10 @@ tags:
   - "livres"
   - "maths"
   - "physique"
-coverImage: "7273235-L.jpg"
+coverImage: "./images/7273235-L.jpg"
 ---
 
-{{< figure src="images/7273235-L.jpg" alt="17 équations qui ont changé le monde" link="http://openlibrary.org/books/OL25439324M/17_équations_qui_ont_changé_le_monde" >}}
+{{< figure src="./images/7273235-L.jpg" alt="17 équations qui ont changé le monde" link="http://openlibrary.org/books/OL25439324M/17_équations_qui_ont_changé_le_monde" >}}
 
 Ce livre [[1]](#ref-1) est l'une des raisons pour lesquelles je n'ai pas encore terminé la suite des "[impossibles](/2014/02/02/les-impossibles-1/)". [Ian Stewart](w:Ian_Stewart_(mathématicien)) attaque le sujet dès la première page:
 
@@ -47,7 +47,7 @@ Les 17 équations retenues par Stewart sont autant de chapitres sur des ponts é
 
 Chaque chapitre commence par une page de résumé présentant l'équation sous une forme que j'ai trouvé intéressante. Voici par exemple celle du chapitre 9 sur la transformée de Fourier (mais oui, vous savez, [le truc barbare](/2010/03/06/succes-hollywoodiens-et-transformee-de-fourier/)...)
 
-[![17equations9fourier](images/17equations9fourier.png)](/wp-content/uploads/2014/03/17equations9fourier.png)
+[![17equations9fourier](./images/17equations9fourier.png)](./images/17equations9fourier.png)
 
 Ensuite trois paragraphes résument "Ce que cela nous dit", "Pourquoi c'est important" et "A quoi cela nous a conduits". On le voit, l'ambition est de rendre accessible à tous la signification et l'importance de formules qui en rebutent beaucoup.
 
@@ -59,7 +59,7 @@ En fait, chaque chapitre de ce livre peut être lu indépendamment et constitue 
 
 Pour ma part, le chapitre qui m'a le plus plu car j'y ai le plus appris est le quatrième, dévolu à la gravitation newtonienne. J'y ai appris l'existence du [réseau de transport interplanétaire](w:) utilisée par les sondes spatiales ainsi que par des [comètes périodiques](w:comète_périodique) comme [Oterma](w:en). L'idée est que les [points de Lagrange](w:point_de_Lagrange) peuvent être utilisés comme des aiguillages permettant de passer d'une orbite stable à une autre, très différente, en ne nécessitant que très peu d'énergie (cf [mon article](/2012/09/05/un-petit-pas-pour-lhomme/) sur les puits gravitationnels). Par exemple, entre 1910 et 1980, la comète Oterma a alterné deux fois des orbites situés à l'intérieur de celle de Jupiter avec des orbites extérieures [[2]](#ref-2)
 
-{{< figure src="images/oterma.png" alt="oterma" caption="Trajectoire d'Oterma à droite, orbite périodique correspondante à gauche [[2]](#ref-2)" link="/wp-content/uploads/2014/03/oterma.png" align="aligncenter" width="603" >}}Pourquoi 17 équations, et pas plus ou moins ? Après 410 pages on ne se pose plus trop la question : éventuellement moins, mais pas plus. Le chapitre 1 sur Pythagore est "trop facile" par rapport aux autres, peut-être pour appâter le chaland. Le 13 sur la relativité m'a fait un peu la même impression, mais bon, on ne peut nier que e=mc² ait changé le monde... Personnellement c'est le dernier chapitre sur [Black-Scholes](w:Modèle_Black-Scholes) qui m'a laissé un peu froid. Ok, les maths actuelles s'intéressent beaucoup à l'économie, mais il me semble que là, Stewart s'éloigne un peu des "deux types d'équations" de son introduction.
+{{< figure src="./images/oterma.png" alt="oterma" caption="Trajectoire d'Oterma à droite, orbite périodique correspondante à gauche [[2]](#ref-2)" link="./images/oterma.png" align="aligncenter" width="603" >}}Pourquoi 17 équations, et pas plus ou moins ? Après 410 pages on ne se pose plus trop la question : éventuellement moins, mais pas plus. Le chapitre 1 sur Pythagore est "trop facile" par rapport aux autres, peut-être pour appâter le chaland. Le 13 sur la relativité m'a fait un peu la même impression, mais bon, on ne peut nier que e=mc² ait changé le monde... Personnellement c'est le dernier chapitre sur [Black-Scholes](w:Modèle_Black-Scholes) qui m'a laissé un peu froid. Ok, les maths actuelles s'intéressent beaucoup à l'économie, mais il me semble que là, Stewart s'éloigne un peu des "deux types d'équations" de son introduction.
 
 Peut-être que Stewart aurait pu ajouter l'équation du Page Rank de Google ou celle du [filtre de Kalman](w:) comme il le suggère dans un mail ([[3]](#ref-3), "bonus" en bas). Mais il les garde plus probablement pour un prochain livre sur les "17 équations qui changeront le monde", si celui-ci marche bien...
 

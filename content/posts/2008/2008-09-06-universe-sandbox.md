@@ -10,10 +10,10 @@ tags:
   - "logiciels"
   - "physique"
   - "simulation"
-coverImage: "a470c29cf6c88b820cc608831b61f545.gif"
+coverImage: "./images/a470c29cf6c88b820cc608831b61f545.gif"
 ---
 
-{{< figure src="images/6e859a4527be41a61357a12b339ae260.jpg" >}}
+{{< figure src="./images/6e859a4527be41a61357a12b339ae260.jpg" >}}
 
 J'ai découvert [Universe Sandbox](http://universesandbox.com) il y a une heure, et je viens de l'acheter (pas cher). C'est génial !
 

@@ -9,10 +9,10 @@ tags:
   - "internet"
   - "maths"
   - "nombres-premiers"
-coverImage: "df243304c6b9c3dc459bb7fec074fb31.jpg"
+coverImage: "./images/df243304c6b9c3dc459bb7fec074fb31.jpg"
 ---
 
-{{< figure src="images/1971d1afbb614c35babb0033c509adc3.jpg" alt="the centrality of prime numbers par barabeke sur Flickr" caption="&quot;the centrality of prime numbers&quot; par barabeke sur Flickr" link="http://www.flickr.com/photos/barabeke/2205492728/" width="240" >}}
+{{< figure src="./images/1971d1afbb614c35babb0033c509adc3.jpg" alt="the centrality of prime numbers par barabeke sur Flickr" caption="&quot;the centrality of prime numbers&quot; par barabeke sur Flickr" link="http://www.flickr.com/photos/barabeke/2205492728/" width="240" >}}
 
 Les [nombres premiers](w:Nombre_premier) ont beau être étudiés depuis au moins 2300 ans, ils n'ont jamais été aussi mystérieux ni utiles qu'aujourd'hui.
 
@@ -24,7 +24,7 @@ Utiles, car nos cartes à puces, téléphones et ordinateurs consomment des quan
 
 Ceci parait surprenant de prime abord, puisqu'on apprend à l'école à déterminer si n est premier en tentant de le diviser par les nombres premiers déjà connus inférieurs à √n, ce qui n'est autre qu'une factorisation. On découvre à l'école aussi le [crible d'Eratosthène](w:), qui fournit depuis 2000 ans les nombres premiers les uns après les autres à tous les heureux possesseurs de feuilles quadrillées ou de mémoires informatiques:
 
-{{< figure src="images/246979fd8d7bdf29a95cdb2e08cd2e89.gif" alt="Animation du Crible d'Erathosthène (Wikipédia)" caption="Animation du Crible d'Erathosthène (Wikipédia)" link="http://fr.wikipedia.org/wiki/Crible_d'%C3%89ratosth%C3%A8ne" align="aligncenter" width="554" >}}
+{{< figure src="./images/246979fd8d7bdf29a95cdb2e08cd2e89.gif" alt="Animation du Crible d'Erathosthène (Wikipédia)" caption="Animation du Crible d'Erathosthène (Wikipédia)" link="http://fr.wikipedia.org/wiki/Crible_d'%C3%89ratosth%C3%A8ne" align="aligncenter" width="554" >}}
 
  
 
@@ -74,7 +74,7 @@ Mais au fait, existe-t-il beaucoup de nombres premiers de 154 chiffres ? Oh que 
 
 Pour vous faire une idée de la vitesse de ceci, allez au milieu de [cette page](http://www.mobilefish.com/services/rsa_key_generation/rsa_key_generation.php) et cliquez le bouton "auto generate prime number p and q" : vous obtiendrez 2 nombres premier de 512 bits pour le prix d'un seul click.
 
-{{< figure src="images/0974521d6a6097b331bf7dee56484ed8.png" alt="onlineprime" caption="cliquez sur l'image et scrollez vers le milieu de la page" link="http://www.mobilefish.com/services/rsa_key_generation/rsa_key_generation.php" align="aligncenter" width="628" >}}
+{{< figure src="./images/0974521d6a6097b331bf7dee56484ed8.png" alt="onlineprime" caption="cliquez sur l'image et scrollez vers le milieu de la page" link="http://www.mobilefish.com/services/rsa_key_generation/rsa_key_generation.php" align="aligncenter" width="628" >}}
 
 Oui mais, me direz vous, les tests probabilistes ne garantissent pas absolument que les nombres soient premiers. Il y a un risque qu'on encode le message avec une clé foireuse, et donc qu'il soit "facile" à décoder. Effectivement, mais on admet généralement que la probabilité qu'un nombre de cette taille soit [pseudopremier](w:Nombre_pseudopremier) est de l'ordre d'une sur 1030. Et si votre message est si précieux que vous n'êtes pas prêt à courir ce risque, réfléchissez à [ceci](http://stackoverflow.com/questions/4159333/rsa-and-prime-generator-algorithms) : le risque qu'un rayon cosmique change un bit du nombre pendant un test de primalité déterministe est un million de fois plus élevé ! J'aime bien cette idée qu'un algorithme probabiliste soit plus fiable qu'une machine considérée comme déterministe, pas vous ?
 

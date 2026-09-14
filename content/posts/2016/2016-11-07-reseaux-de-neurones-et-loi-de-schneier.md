@@ -9,18 +9,18 @@ tags:
   - "cryptographie"
   - "neurones"
   - "securite"
-coverImage: "book-practical-200w.jpg"
+coverImage: "./images/book-practical-200w.jpg"
 ---
 
 Des chercheurs de Google viennent de nous rapprocher un peu plus de la [singularité technologique](w:) en permettant à deux réseaux de neurones, [Alice et Bob](w:) de développer entre eux une méthode de cryptage qu'un troisième réseau de neurone, Eve, ne soit pas capable de décrypter [[1]](#ref-1)
 
-![Robot-Scheme](images/Robot-Scheme.jpg)
+![Robot-Scheme](./images/Robot-Scheme.jpg)
 
 Le schéma utilisé est celui de la [cryptographie symétrique](w:), illustré ci-dessus. Alice doit apprendre à crypter le message P, et Bob et Eve doivent apprendre à décrypter le message C. Le mot "adversial" dans le titre de l'article [[1]](#ref-1) peut se traduire par "carotte et bâton numériques": à chaque essai, l'apprentissage d'Alice et Bob est récompensé si plus de la moitié\* des bits de PBob correspondent à P, et puni si plus de la moitié de PEve correspond à P. Et Eve est récompensée si PEve correspond à P. Le seul avantage de Bob est qu'il reçoit également une "clé" K qu'Alice peut utiliser pour le cryptage, alors qu'Eve ne possède pas cette clé.
 
 Les résultats se trouvent ci-dessous : pendant les 7000 premières itérations, Bob et Eve ne comprennent rien aux messages d'Alice. Puis tout à coup, en 2000 itérations supplémentaires, Bob "comprend" le cryptage d'Alice, mais Eve fait des progrès également. Alors, après 10000 étapes environ, Alice change un peu  son cryptage, probablement en y intégrant mieux la clé, et Alice Eve n'y comprend presque plus rien, alors que Bob, après une petite hésitation, arrive à décrypter parfaitement les messages d'Alice après 15000 étapes. Beau match !
 
-![%image\_alt%](images/IA-crypto-2.jpg)
+![%image\_alt%](./images/IA-crypto-2.jpg)
 
 Ce qui pourrait faire peur, c'est qu'aucun humain ne sait vraiment quelle méthode de cryptage Alice et Bob ont ainsi mis au point entre eux. On peut imaginer qu'un de ces jours Google pourra dire à la NSA : "désolés, on ne sait pas nous-mêmes comment décrypter les messages que vous voulez...". Mais ça prendra encore du temps, parce que ça ne marche pas (encore) pour la [cryptographie asymétrique](w:), mais aussi à cause de la "loi de Schneier".
 

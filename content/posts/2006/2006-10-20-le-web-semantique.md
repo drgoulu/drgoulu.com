@@ -8,10 +8,10 @@ tags:
   - "futur"
   - "informatique"
   - "internet"
-coverImage: "fdd88ca55a8f211b9fc8f978d988744c.jpg"
+coverImage: "./images/fdd88ca55a8f211b9fc8f978d988744c.jpg"
 ---
 
-{{< figure src="images/3f39dd5cf16a7533af8313bbcfa9707a.png" >}}
+{{< figure src="./images/3f39dd5cf16a7533af8313bbcfa9707a.png" >}}
 
 En faisant des recherches sur un sujet d'intérêt encore top secret, je suis tombé sur le concept intéressant de "web sémantique" et quelques outils s'y rapportant. Ca pourrait bien devenir quelque chose d'important bientôt...
 

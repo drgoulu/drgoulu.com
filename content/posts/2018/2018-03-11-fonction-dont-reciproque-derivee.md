@@ -8,7 +8,7 @@ tags:
   - "internet"
   - "maths"
   - "quora"
-coverImage: "maitre.jpg"
+coverImage: "./images/maitre.jpg"
 ---
 
 Quora, c'est vraiment bien. Je ne regrette pas d'y être [plus actif](https://fr.quora.com/profile/Philippe-Guglielmetti) que sur ce blog ces temps-ci. Il y a beaucoup de questions de niveaux très variés, mais les plus intéressantes sont évidemment celles dont on ne trouve pas la réponse facilement sur le web ou Wikipédia. Et parfois, par la magie d'internet, une collaboration efficace et désintéressée débouche sur une réponse vraiment originale.
@@ -17,7 +17,7 @@ Par exemple:
 
 ### [Est-ce que la dérivée d'une fonction peut être sa réciproque ? Y a-t-il un exemple simple ?](https://fr.quora.com/Est-ce-que-la-d%C3%A9riv%C3%A9e-dune-fonction-peut-%C3%AAtre-sa-r%C3%A9ciproque-Y-a-t-il-un-exemple-simple)
 
-[![maître des dérivées](images/maitre.jpg)](http://www.jybaudot.fr/Analyse/opderiv.html)[André Harnist](https://fr.quora.com/profile/Andr%C3%A9-Harnist), mathématicien a très bien résumé mon propre sentiment "Cette question est géniale ! J’ai aucune idée si c’est possible ou pas…"
+[![maître des dérivées](./images/maitre.jpg)](http://www.jybaudot.fr/Analyse/opderiv.html)[André Harnist](https://fr.quora.com/profile/Andr%C3%A9-Harnist), mathématicien a très bien résumé mon propre sentiment "Cette question est géniale ! J’ai aucune idée si c’est possible ou pas…"
 
 Puis il a posé le problème en langage mathématique :
 

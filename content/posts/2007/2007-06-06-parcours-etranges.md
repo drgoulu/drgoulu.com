@@ -8,7 +8,7 @@ tags:
   - "internet"
   - "physique"
   - "relativite"
-coverImage: "7c8c2221d07db284c8e89e9ae7bbac36.jpg"
+coverImage: "./images/7c8c2221d07db284c8e89e9ae7bbac36.jpg"
 ---
 
 Le blog "[Parcours Etranges"](http://strangepaths.com/fr/) sous-titré "Physique, calcul et philosophie" est l'un de mes préférés peut-être parce qu'il cause de certaines choses que l'on trouve aussi sur Dr. Goulu comme:
@@ -21,7 +21,7 @@ Le blog "[Parcours Etranges"](http://strangepaths.com/fr/) sous-titré "Physique
 
 [
 
-![Galaxie M104 (Sombrero) en lumière infrarouge](images/7c8c2221d07db284c8e89e9ae7bbac36.jpg)
+![Galaxie M104 (Sombrero) en lumière infrarouge](./images/7c8c2221d07db284c8e89e9ae7bbac36.jpg)
 
 ](/?attachment_id=251 "Galaxie M104 (Sombrero) en lumière infrarouge")
 

@@ -10,7 +10,7 @@ tags:
   - "simulation"
   - "trou-noir"
   - "video"
-coverImage: "4466408-voyage-au-coeur-d-un-trou-noir-dvd.jpg"
+coverImage: "./images/4466408-voyage-au-coeur-d-un-trou-noir-dvd.jpg"
 ---
 
 Alain Riazuelo est astrophysicien à Paris et il a eu l'excellente idée (et les moyens) de simuler ce qu'un observateur verrait en s'approchant d'un trou noir, puis en plongeant dedans. Ainsi est né le film "Voyage au coeur d'un trou noir" dont voici un petit extrait :

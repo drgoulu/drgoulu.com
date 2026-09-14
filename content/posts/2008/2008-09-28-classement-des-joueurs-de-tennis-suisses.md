@@ -8,10 +8,10 @@ tags:
   - "maths"
   - "sport"
   - "suisse"
-coverImage: "balle_de_tennis_classement-tennis.png"
+coverImage: "./images/balle_de_tennis_classement-tennis.png"
 ---
 
-{{< figure src="images/balle_de_tennis_classement-tennis.png" >}}
+{{< figure src="./images/balle_de_tennis_classement-tennis.png" >}}
 
 Dans les commentaire de l'article "[Le comptage des points au tennis](/2008/05/12/le-comptage-des-points-au-tennis/)", un [jeune joueur](/2008/05/12/le-comptage-des-points-au-tennis/#comment-2763) m'a soumis un joli casse-tête : le [règlement de swisstennis sur le classement](http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fwww.swisstennis.ch%2Fupload%2Fdocs%2Fpro_tennis%2F2010_Klassierungsrichtlinien_f.pdf) des tennis(wo)man à croix blanche. Il semblerait que ceux qui n'ont pas de bonnes bases en maths (\*) aient un peu de peine à le comprendre, et c'est vrai que c'est le premier règlement sportif dans lequel je vois des formules de ce genre :
 

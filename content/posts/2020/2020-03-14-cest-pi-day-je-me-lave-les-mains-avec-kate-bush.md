@@ -4,7 +4,7 @@ slug: "cest-pi-day-je-me-lave-les-mains-avec-kate-bush"
 aliases:
   - "/2020/03/14/cest-pi-day-je-me-lave-les-mains-avec-kate-bush.../"
 date: 2020-03-14
-coverImage: "5e6b90d52783c_2586182963385335808.png"
+coverImage: "./images/5e6b90d52783c_2586182963385335808.png"
 ---
 
 Le temps n'est pas à la fête. D'ailleurs [je ne fête plus pi le 3.14 mais tau le 6. 28](/2016/03/14/adieu-3-14-16-le-26-juin-ce-sera-tau-day/) , et je viens de trouver une excellente raison de plus pour ça : pi est encore plus faux lorsqu'il est chanté par Kate Bush :
@@ -25,7 +25,7 @@ C'est connu depuis 2005 \[1\] et même référencé dans ma chère [OEIS sous A1
 
 Donc désolé, mais la meilleure utilisation que je trouve de cette chanson est [https://washyourlyrics.com/](https://washyourlyrics.com/) :
 
-![](images/5e6b90d52783c_2586182963385335808.png)
+![](./images/5e6b90d52783c_2586182963385335808.png)
 
 #### Référence:
 

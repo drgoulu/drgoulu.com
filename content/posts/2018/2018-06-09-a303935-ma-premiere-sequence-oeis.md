@@ -8,10 +8,10 @@ tags:
   - "nombres"
   - "oeis"
   - "python"
-coverImage: "euler-level2-2.png"
+coverImage: "./images/euler-level2-2.png"
 ---
 
-{{< figure src="images/euler-level2-2.png" >}}
+{{< figure src="./images/euler-level2-2.png" >}}
 
 Depuis le temps que je joue avec l'['Encyclopédie en ligne des Suites de Nombres Entiers](https://oeis.org/Seis.html) ([OEIS](w:)), ça a fini par arriver : j'ai réussi à y ajouter une nouvelle suite,  [A303935](https://oeis.org/A303935) !
 
@@ -51,7 +51,7 @@ A303935=Sequence(0,dfcl) )\[/python\]
 
 Ce code est suffisant pour calculer quelques milliers de termes de A303935, mais pour résoudre le problème 74 rapidement, il faut être légèrement plus subtil... Comme je ne donne pas de solutions aux Problèmes Euler, je vous laisse chercher...
 
-En passant, ce problème était mon 100ème résolu, ce qui fait que je suis passé "Level 4 " ! ![](images/Dr_Goulu.png)
+En passant, ce problème était mon 100ème résolu, ce qui fait que je suis passé "Level 4 " ! ![](./images/Dr_Goulu.png)
 
 ## Référence
 

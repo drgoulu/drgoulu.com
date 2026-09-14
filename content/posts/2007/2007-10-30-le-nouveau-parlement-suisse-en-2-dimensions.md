@@ -9,16 +9,16 @@ tags:
   - "statistiques"
   - "suisse"
   - "vote"
-coverImage: "c15ee9af754751e840eed150a74e0fb61.png"
+coverImage: "./images/c15ee9af754751e840eed150a74e0fb61.png"
 ---
 
 Le désormais fameux site [smartvote.ch](http://smartvote.ch) présentait le profil des candidats au [Conseil National](http://www.parlament.ch) sur un plan défini par deux axes : le traditionnel "gauche/droite" auquel on ajoute verticalement un axe "libéral/conservateur" (voir "[Politique à 2 dimensions](/2007/08/24/politique-a-2-dimensions/))
 
 [smartvote.ch](http://smartvote.ch) permet maintenant de visualiser les résultats de l'élection dans cette représentation, et de se livrer à une petite analyse du positionnement politico-marketing des partis, et de l'UDC en particulier
 
-![suisse.png](images/c15ee9af754751e840eed150a74e0fb6.png)
+![suisse.png](./images/c15ee9af754751e840eed150a74e0fb6.png)
 
-![\*](images/p6.gif) PRD ![\*](images/p12.gif) PSS ![\*](images/p3.gif) PDC ![\*](images/p13.gif) UDC ![\*](images/p7.gif) Les Verts ![\*](images/p9.gif) PLS ![\*](images/p5.gif) PEV
+![\*](./images/p6.gif) PRD ![\*](./images/p12.gif) PSS ![\*](./images/p3.gif) PDC ![\*](./images/p13.gif) UDC ![\*](./images/p7.gif) Les Verts ![\*](./images/p9.gif) PLS ![\*](./images/p5.gif) PEV
 
 _(Note préliminaire: vous ne trouverez cette carte nulle part ailleurs qu'ici, car smartvote ne fournit ces cartes que canton par canton. J'ai réalisé la carte ci-dessus à l'aide de 2 outils indispensables (SnagIt et [ImageMagick](/2008/05/10/imagemagick/)). Veuillez créer un lien vers ce blog si vous reprenez l'info. Merci ! )_
 

@@ -13,7 +13,7 @@ tags:
   - "science"
   - "solaire"
   - "suisse"
-coverImage: "ed52a82aa703bfe4111dbdf3cb778db8.jpg"
+coverImage: "./images/ed52a82aa703bfe4111dbdf3cb778db8.jpg"
 ---
 
 Un événement me permet de consacrer [enfin](/2009/03/06/pourquoi-comment-combien/) un article complet aux relations complexes entre science, technique (industrielle) et économie : le professeur [Michaël Grätzel](w:Michael_Grätzel) de l'EPFL vient de remporter le [prix Balzan](w:), presque aussi prestigieux que le Nobel, "[pour](http://www.balzan.org) ses nombreuses contributions à la Science des matériaux nouveaux et en particulier pour avoir inventé et développé un nouveau type de cellule solaire photovoltaïque, la [Dye Sensitized Solar Cell (DSSC)](w:en:Dye-sensitized_solar_cell), la cellule à pigments photosensibles, plus connue sous le nom de [cellule de Grätzel](w:Cellule_Grätzel)". [[1]](#ref-1), [[2]](#ref-2)
@@ -28,7 +28,7 @@ D'un point de vue scientifique, l'invention de Grätzel est merveilleuse : un co
 
 Les DSSC sont faites d'un mélange colorant/solvant liquide, emprisonné entre deux électrodes transparentes, ce qui permet d'en faire des panneaux transparents de diverses couleurs suivant le colorant choisi:
 
-![](images/ed52a82aa703bfe4111dbdf3cb778db8.jpg)
+![](./images/ed52a82aa703bfe4111dbdf3cb778db8.jpg)
 
 ### Comment
 

@@ -7,18 +7,18 @@ categories:
 tags: 
   - "aerospace"
   - "astro"
-coverImage: "b3f9fbb8d24d4bb74594978d1a6251fe.jpg"
+coverImage: "./images/b3f9fbb8d24d4bb74594978d1a6251fe.jpg"
 ---
 
 [Mercure](w:Mercure_(planète)) est la planète la plus proche du Soleil, et, bien qu'elle soit beaucoup moins éloignée de nous que Jupiter, elle a n'a été visitée par des sondes automatiques que 2 fois : par "[Mariner 10](w:)" en 1974 et par "[Messenger](w:Programme_Messenger)", qui vient d'y faire un premier passage et se mettra en orbite autour de cette petite planète pour la scruter en détail en 2011.
 
 Les photos déjà prises par Messenger ravissent les spécialistes, mais pour le néophyte elles ne montrent pas beaucoup plus que celles fournies par son ancètre : Mercure est littéralement criblée de cratères de toutes tailles:
 
-[![](images/b3f9fbb8d24d4bb74594978d1a6251fe.jpg)](/wp-content/uploads/HLIC/b3f9fbb8d24d4bb74594978d1a6251fe.jpg)
+[![](./images/b3f9fbb8d24d4bb74594978d1a6251fe.jpg)](./images/b3f9fbb8d24d4bb74594978d1a6251fe.jpg)
 
 Ce qui me parait plus intéressant, c'est la complexité de la trajectoire de Messenger, représentée sur le graphique ci dessous (cliquer dessus pour l'agrandir) :
 
-[![](images/dfa8593dd18b3600098aefb63ff4d7e4.jpg)](/wp-content/uploads/HLIC/dfa8593dd18b3600098aefb63ff4d7e4.jpg)
+[![](./images/dfa8593dd18b3600098aefb63ff4d7e4.jpg)](./images/dfa8593dd18b3600098aefb63ff4d7e4.jpg)
 
 Ca parait paradoxal, mais il est plus difficile de se mettre en orbite autour de Mercure que de Jupiter par exemple, pour deux raisons :
 

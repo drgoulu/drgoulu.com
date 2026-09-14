@@ -8,10 +8,10 @@ tags:
   - "pedagogie"
   - "science"
   - "traduction"
-coverImage: "6aa5574b6ed7773caddf72acf35b6bf9.jpg"
+coverImage: "./images/6aa5574b6ed7773caddf72acf35b6bf9.jpg"
 ---
 
-_![](images/6aa5574b6ed7773caddf72acf35b6bf9.jpg)Pressé par diverses activités, je vous propose cette semaine la traduction d'un article \[1\] qui m'a beaucoup plu et fait réfléchir. D'autant qu'il me semble qu'on peut remplacer "recherche scientifique" par "innovation technologique" sans dénaturer l'idée de fond. Qu'en pensez-vous ?_
+_![](./images/6aa5574b6ed7773caddf72acf35b6bf9.jpg)Pressé par diverses activités, je vous propose cette semaine la traduction d'un article \[1\] qui m'a beaucoup plu et fait réfléchir. D'autant qu'il me semble qu'on peut remplacer "recherche scientifique" par "innovation technologique" sans dénaturer l'idée de fond. Qu'en pensez-vous ?_
 
 J'ai récemment revu une ancienne amie pour la première fois depuis de nombreuses années. Nous avions été doctorants en sciences en même temps, quoique dans des domaines différents. Puis elle a laissé tomber, est allée à Harvard à l'Ecole de Droit et est maintenant avocate senior dans une grande organisation environnementale. A un certain moment, la conversation arriva sur la raison pour laquelle elle avait quitté les études doctorales. A mon grand étonnement, elle a dit que ces études la faisaient se sentir stupide. Après quelques années passées à se sentir stupide tous les jours, elle avait décidé de faire quelque chose d'autre.
 

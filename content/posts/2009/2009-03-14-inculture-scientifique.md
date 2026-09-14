@@ -8,7 +8,7 @@ tags:
   - "science"
   - "societe"
   - "usa"
-coverImage: "cca4452f760f90c149ee059695675b54.gif"
+coverImage: "./images/cca4452f760f90c149ee059695675b54.gif"
 ---
 
 Selon un [récent sondage effectué aux USA](http://www.calacademy.org/newsroom/releases/2009/scientific_literacy.php) par la [California Academy of Sciences:](http://www.calacademy.org/)
@@ -20,13 +20,13 @@ Selon un [récent sondage effectué aux USA](http://www.calacademy.org/newsroom/
 
 Hélas, il semblerait que les étatsuniens n'aient pas grand chose à nous envier, car les scores européens en matière de culture scientifique sont assez similaires, selon une étude datant de 2001 \[3\]:
 
-[![](images/cca4452f760f90c149ee059695675b54.gif)](images/cca4452f760f90c149ee059695675b54.gif)
+[![](./images/cca4452f760f90c149ee059695675b54.gif)](./images/cca4452f760f90c149ee059695675b54.gif)
 
 Paradoxalement, une grande majorité des sondés pensent que la recherche et l'enseignement scientifique sont importants. Pour 4 adultes sur 5, l'enseignement des sciences est "absolument essentiel" ou "très important" pour le système de santé des USA (86%), la réputation du pays (79%), et l'économie (77%).
 
 On pourrait voir ceci comme une bonne nouvelle  si on ne constatait pas simultanément une augmentation générale de la croyance au paranormal, à l'exception notable des cas de possession par le diable :
 
-[![](images/fa83bafe097bff123af16f29b3a99e7c.gif)](images/fa83bafe097bff123af16f29b3a99e7c.gif)
+[![](./images/fa83bafe097bff123af16f29b3a99e7c.gif)](./images/fa83bafe097bff123af16f29b3a99e7c.gif)
 
 Comme le note BadAstronomer \[2\], les résultats du sondage ne montrent pas non plus d'amélioration de la situation depuis 1997, date de la parution du livre "Worlds Apart" \[4\] qui traite de ce sujet et est disponible en ligne.
 

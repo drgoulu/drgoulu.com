@@ -9,10 +9,10 @@ tags:
   - "informatique"
   - "programmation"
   - "traduction"
-coverImage: "729d55b21652db629f4b0da141be7852.gif"
+coverImage: "./images/729d55b21652db629f4b0da141be7852.gif"
 ---
 
-{{< figure src="images/729d55b21652db629f4b0da141be7852.gif" alt="Alan Jay Perlis" caption="Alan Jay Perlis" width="180" >}}
+{{< figure src="./images/729d55b21652db629f4b0da141be7852.gif" alt="Alan Jay Perlis" caption="Alan Jay Perlis" width="180" >}}
 
 En préparant un autre article, je suis tombé sur quelques citations d'[Alan Perlis](w:), un précurseur de la programmation et célèbre professeur à Carnegie Mellon et Yale. Les dictons informatiques dont il émaillait ses cours ont été publiés \[1\] et sont passés à la postérité sous le nom de "Perlisismes", mais ne sont disponibles qu'en anglais. Ne les ayant pas trouvé en français, je me suis fendu (de rire) d'une traduction, en les reclassant par thèmes subjectifs et en les classant selon mes préférences. Régalez vous !
 

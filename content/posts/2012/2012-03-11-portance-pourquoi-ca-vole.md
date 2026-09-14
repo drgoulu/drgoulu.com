@@ -8,12 +8,12 @@ categories:
 tags: 
   - "fluides"
   - "physique"
-coverImage: "94fcbf50b9518a46cdea9c1915f7b4bf.jpg"
+coverImage: "./images/94fcbf50b9518a46cdea9c1915f7b4bf.jpg"
 ---
 
 Grâce à elle les oiseaux et les avions volent, les voiliers naviguent, les turbines turbinent et pourtant elle reste plus mystérieuse qu'on ne l'imagine. Frédéric Monsonnec (Fred) vient de signer pas [un](http://foils.wordpress.com/2011/12/07/portance-13/), ni [deux](http://foils.wordpress.com/2012/01/18/portance-23-2/), mais bien [trois](http://foils.wordpress.com/2012/02/09/portance-33/) articles passionnants et magnifiquement illustrés sur la [portance](w:Portance_(mécanique_des_fluides)), où il montre qu'il n'y a toujours pas d'explication 100% satisfaisante de cette force à ce jour.
 
-![](images/94fcbf50b9518a46cdea9c1915f7b4bf.jpg)
+![](./images/94fcbf50b9518a46cdea9c1915f7b4bf.jpg)
 
 Surprise. Pour ma part je pensais que la cause était entendue : l'air passant sur l'extrados d'une aile doit parcourir un chemin plus grand que celui passant sous l'intrados, donc il doit aller plus vite et selon le [théorème de Bernoulli](w:) (un suisse) sa pression s'abaisse et l'aile est "aspirée" vers le haut par la différence de pression. C'est d'ailleurs [l'explication sur la wikipédia francophone](w:Portance_(mécanique_des_fluides)#Généralités). Mais elle est fausse, comme [le dit la version anglaise](w:en:Lift_(force)#.22Popular.22_explanation_based_on_equal_transit-time) et le montre une [petite applet sur le site de la NASA](http://www.grc.nasa.gov/WWW/K-12/airplane/wrong1.html). En fait on s'en doute un peu : d'une part il existe des profils d'ailes symétriques qui génèrent une portance grâce à leur angle d'incidence alors que les chemins parcourus par le fluide sont égaux des deux côtés de l'aile, et d'autre part une voile en tissu produit également une portance avec une différence de parcours très faible entre les deux faces du tissu.
 
@@ -31,11 +31,11 @@ En prime, Jukowski nous a aussi laissé sa [tranformation conforme](w:Transforma
 
 Tout ça est très séduisant, mais la signification physique de la "circulation" n'est pas claire pour tout le monde. Certains relèvement même qu'on a jamais vu de fluide remonter le flux après avoir passé le bord de fuite (tiens, idée : essayer à [très faible Reynolds](/2011/03/13/la-vie-a-bas-reynold/)). De plus cette théorie n'est pas très satisfaisante pour les profils qui ont un bord d'attaque également tranchant.
 
-[![](images/8d0bbbd2139f3c46fe17305af66b7964.jpg)](http://airtoair.net/gallery/gallery-vortices.htm)Une autre théorie "moderne" est celle de "l'écope de Newton" [[2]](#ref-2). Elle consiste à dire que le fluide est dévié vers le bas non seulement par l'intrados comme dans un bête effet ricochet, mais aussi par l'extrados. Ce "[downwash](w:en)" est très visible à proximité d'un hélicoptère, mais aussi sur de belles photos comme celle ci contre. La portance serait simplement la force de réaction générée par la déviation de la masse de fluide. Cette théorie tout simple est considérée comme [correcte à la NASA](http://www.grc.nasa.gov/WWW/K-12/airplane/right2.html) et aussi par certains physiciens de la voile [[3]](#ref-3), [[4]](#ref-4), mais n'explique pas vraiment comment une extrados dévie l'air vers le bas, ni ne fournit de moyens de calcul ou de simulation...
+[![](./images/8d0bbbd2139f3c46fe17305af66b7964.jpg)](http://airtoair.net/gallery/gallery-vortices.htm)Une autre théorie "moderne" est celle de "l'écope de Newton" [[2]](#ref-2). Elle consiste à dire que le fluide est dévié vers le bas non seulement par l'intrados comme dans un bête effet ricochet, mais aussi par l'extrados. Ce "[downwash](w:en)" est très visible à proximité d'un hélicoptère, mais aussi sur de belles photos comme celle ci contre. La portance serait simplement la force de réaction générée par la déviation de la masse de fluide. Cette théorie tout simple est considérée comme [correcte à la NASA](http://www.grc.nasa.gov/WWW/K-12/airplane/right2.html) et aussi par certains physiciens de la voile [[3]](#ref-3), [[4]](#ref-4), mais n'explique pas vraiment comment une extrados dévie l'air vers le bas, ni ne fournit de moyens de calcul ou de simulation...
 
 La troisième partie de l'article fleuve de Fred introduit la théorie plus récente de [Hoffman](http://www.csc.kth.se/~jhoffman/Johan_Hoffman_KTH/Home.html) et [Johnson](http://www.csc.kth.se/~cgjoh/) (deux suédois) basée sur les [équations de Navier-Stokes](w:) (un autre français et un autre anglais) [et d'Euler](w:équations_d'Euler) (un autre suisse) appliquées en 3D plutôt que sur une coupe 2D du profil comme toutes les autres. Selon Hoffman et Johnson, les petits tourbillons qui se créent dans l'axe du flux accentuent la dépression sur l'extrados et y "collent" le flux d'air qui est ainsi dévié vers le bas, créant l'effet d'écope.
 
-[![](images/93db46ec7d0ded77f3bddbdebf5880a1.jpg)](http://foils.wordpress.com/2012/02/09/portance-33/)
+[![](./images/93db46ec7d0ded77f3bddbdebf5880a1.jpg)](http://foils.wordpress.com/2012/02/09/portance-33/)
 
 Cette théorie fait l'objet de [vives](http://www.eng-tips.com/viewthread.cfm?qid=279414) controverses sur le web, car d'un côté Hoffman et Johnson (H&J) considèrent qu'ils réfutent complètement la notion de "circulation" de Kutta-Jukowski (K-J), alors que de l'autre, les tenants de K-J prétendent qu'H&J utilisent des méthodes numériques qui utilisent implicitement la circulation, donc que leurs travaux ne sont au mieux qu'une reformulation de K-J. Un grand bravo à Fred qui a échangé quelques emails avec H&J et plusieurs autres auteurs pour présenter les divers points de vue avec une remarquable neutralité.
 

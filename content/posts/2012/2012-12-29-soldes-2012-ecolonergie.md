@@ -13,7 +13,7 @@ tags:
   - "energie"
   - "gapminder"
   - "nucleaire"
-coverImage: "f76b4c9b7c2f35a7aba552db5989b104.jpg"
+coverImage: "./images/f76b4c9b7c2f35a7aba552db5989b104.jpg"
 ---
 
 _Il me reste un problème en cette fin d'année : que faire d'une bonne dizaine d'articles commencés en 2012  et restés à l'état de brouillons ? (Alors que mon job consiste entre autres à combattre la production d'invendus et les stocks que ça génère... il va me falloir une bonne résolution 2013...) Alors je vide le stock, en vrac et un peu plus bruts que d'habitude, en faisant pour commencer un multipack de 5 brouillons sur mes interrogations écono-écolo-énergétiques, avec un soupçon de démographie:_
@@ -32,7 +32,7 @@ Embryon d'article motivé par la collision entre:
 
 1. cette (ancienne) figure revenue sur le devant du web :
     
-    [![](images/f76b4c9b7c2f35a7aba552db5989b104.jpg)](/wp-content/uploads/HLIC/f76b4c9b7c2f35a7aba552db5989b104.jpg)
+    [![](./images/f76b4c9b7c2f35a7aba552db5989b104.jpg)](./images/f76b4c9b7c2f35a7aba552db5989b104.jpg)
     
     cliquer pour agrandir
     
@@ -41,7 +41,7 @@ Embryon d'article motivé par la collision entre:
 
 Petit avis sans frais aux écologistes suisses : ne pas trop la ramener à propos de l'indépendance énergétique du pays, car un seul filet à uranium en travers du Rhône au Bouveret pourrait suffire...
 
-### ![](images/8f026070f4b019c6385c415584696ee7.png)Pourquoi je ne suis pas contre Belo Monte.
+### ![](./images/8f026070f4b019c6385c415584696ee7.png)Pourquoi je ne suis pas contre Belo Monte.
 
 Je comprends. Je suis très triste pour les 25000 indiens d'Amazonie qui perdront leurs terres, et pour les centaines de km2 de forêt vierge qui seront inondés avec leur  biodiverses plantes et bestioles. Mais je ne signerai pas [cet appel pour stopper la construction](http://amazonwatch.org/take-action/stop-the-belo-monte-monster-dam) du [barrage de Belo Monte](w:Projet_de_barrage_de_Belo_Monte) au Brésil, [ni celui du célèbre Raoni](http://raoni.fr/), même si j'y ai été invité par des proches. Voici pourquoi.
 
@@ -59,7 +59,7 @@ Je n'ai pas aimé du tout {{< openbook booknumber="ISBN:9782020987684" templaten
 
 Je ne dis pas qu'ils ont tort sur le diagnostic : comme eux, je suis persuadé que nous avons atteint le [pic pétrolier](w:), et que ceci causera un profond bouleversement de nos sociétés. Comme eux, j'appelle de mes voeux une classe politique dotée de compétences scientifiques minimales. Ce qui me déçoit, c'est justement le manque de rigueur scientifique de leur bouquin : très peu de chiffres, pas de graphiques, pas de références et encore moins de formules. Pourtant il y en a une géniale, justement [découverte sur le site de Jancovici](http://www.manicore.com/documentation/serre/kaya.html) qui pourrait justement guider le politique et aussi servir de base à une excellent bouquin : [l'équation de Kaya](w:Équation_de_Kaya) :
 
-[![](images/26034d253a9694cd4b1bfb622091fbe7.gif)](http://www.manicore.com/documentation/serre/kaya.html)
+[![](./images/26034d253a9694cd4b1bfb622091fbe7.gif)](http://www.manicore.com/documentation/serre/kaya.html)
 
 Je n'arrive pas à comprendre comment des gens connaissant ceci peuvent limiter leurs propositions concernant la démographie à une phrase que je ne retrouve plus mais qui dit en substance "nous ne souhaitons pas tuer les 3/4 de la population" (POP) alors que les enfants et petits-enfants susceptibles de pâtir du désastre annoncé ne sont pas encore nés. Je ne comprends pas non plus pourquoi des gens pronucléaires réalistes se résignent à voir la production (ou consommation) d'énergie ([TEP](w:Tonne_d'équivalent_pétrole)) diminuer alors qu'ils connaissent les moyens de la maintenir.
 

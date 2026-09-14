@@ -9,7 +9,7 @@ tags:
   - "livres"
   - "monde"
   - "societe"
-coverImage: "7237481-L.jpg"
+coverImage: "./images/7237481-L.jpg"
 ---
 
 {{< openbook booknumber="ISBN:2260016936" templatenumber="3" >}} L'"attentat" de Yasmina Khadra \[1\] est un de ces livres dont on ne ressort pas intact. Est-ce un roman, ou une profonde analyse d'une situation désespérée et désespérante vue à travers une fiction ?

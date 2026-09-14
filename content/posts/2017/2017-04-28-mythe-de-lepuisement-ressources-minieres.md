@@ -7,7 +7,7 @@ categories:
 tags: 
   - "ecologisme"
   - "economie"
-coverImage: "peak_oil.jpg"
+coverImage: "./images/peak_oil.jpg"
 ---
 
 Une équipe internationale de chercheurs met à mal l'idée selon laquelle l'humanité manquera bientôt de certains minerais. Selon la vaste étude [[1]](#ref-1) de [Lluis Fontboté](http://cms.unige.ch/sciences/terre/people/personal_pages/LluisFontbote/LluisFontbote.php) de l'Université de Genève et ses cinq collègues d'autres universités,  les ressources\* géologiques de la plupart des minéraux sont nettement plus élevées que les réserves\* connues sur lesquelles se basent les estimations.
@@ -16,7 +16,7 @@ Le problème est que l'exploration, mais surtout le progrès des techniques d'ex
 
 Même le fameux [pic du pétrole](w:) est remis en question par les auteurs : les données de production (en rouge dans le graphique ci-dessous) montrent clairement que le maximum de production prévu pour 2000 par Hubbert en 1956 (en bleu) est complètement faux, et la réactualisation récente affirmant que le pic a été atteint en 2008 (en vert) semble infirmée par les dernières valeurs de production.
 
-![](images/peak_oil.jpg)
+![](./images/peak_oil.jpg)
 
 L'article se concentre sur le [cuivre](w:) car c'est un métal pour lequel la demande (chinoise et indienne principalement) a augmenté plus vite que les capacités de production (dans les Andes notamment) et que le recyclage, entraînant une hausse des prix spectaculaire ces dernières années. Les auteurs, mais aussi d'autres avant eux [[3]](#ref-3), montrent que la formation des gisements de cuivre rend très vraisemblable qu'il en reste pour plusieurs millénaires de consommation actuelle rien que dans les Andes.
 

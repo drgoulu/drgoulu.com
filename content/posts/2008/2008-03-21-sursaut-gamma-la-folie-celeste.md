@@ -7,12 +7,12 @@ categories:
 tags: 
   - "astro"
   - "physique"
-coverImage: "01ead300839d2cbc047718220d283ded-1.gif"
+coverImage: "./images/01ead300839d2cbc047718220d283ded-1.gif"
 ---
 
 A l'oeil nu, on peut voir [Andromède](w:NGC_224) à 3 Millions d'années lumière, et dans des conditions exceptionnelles. [M81](w:) à 12 Millions d'années lumière. Ces sont les [Galaxies](/2007/07/23/galaxies/) les plus proches de notre Voie Lactée, comportant chacune des milliards d'étoiles.
 
-![](images/01ead300839d2cbc047718220d283ded.gif)Or il y a deux jours, un astre situé à 7.5 Milliards d'années, donc 1000 fois plus loin, a été visible à l'oeil nu pendant 4 minutes ! GRB 080319B a alors brillé 2.5 millions de fois plus fort qu'une étoile explosant en [supernova](w:), elle-même aussi brillante qu'une galaxie entière. (source: [Futura-Sciences "Un sursaut gamma record, visible à l'œil nu !"](http://www.futura-sciences.com/fr/news/t/astronomie/d/un-sursaut-gamma-record-visible-a-lil-nu_15014/)) L'événement a même été [filmé](http://grb.fuw.edu.pl/pi/ot/grb080319b/normal.html) : c'est le petit point apparaissant au centre de l'image ci-contre.
+![](./images/01ead300839d2cbc047718220d283ded.gif)Or il y a deux jours, un astre situé à 7.5 Milliards d'années, donc 1000 fois plus loin, a été visible à l'oeil nu pendant 4 minutes ! GRB 080319B a alors brillé 2.5 millions de fois plus fort qu'une étoile explosant en [supernova](w:), elle-même aussi brillante qu'une galaxie entière. (source: [Futura-Sciences "Un sursaut gamma record, visible à l'œil nu !"](http://www.futura-sciences.com/fr/news/t/astronomie/d/un-sursaut-gamma-record-visible-a-lil-nu_15014/)) L'événement a même été [filmé](http://grb.fuw.edu.pl/pi/ot/grb080319b/normal.html) : c'est le petit point apparaissant au centre de l'image ci-contre.
 
 Le 080319 dans le nom peu poétique de ce phénomène, c'est la date à laquelle il est apparu : 19 mars 2008. GRB c'est pour "Gamma Ray Burst", car il a en fait été détecté par le satellite "Swift", spécialement conçu pour détecter les "[sursauts gamma](w:Sursaut_gamma)", ces phénomènes extrêmement violents et mystérieux. Et B, c'est parce que c'était le second détecté ce jour là.
 

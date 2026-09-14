@@ -10,12 +10,12 @@ tags:
   - "politique"
   - "science"
   - "societe"
-coverImage: "01f99601ca764143b04d1eeeb8535122.jpg"
+coverImage: "./images/01f99601ca764143b04d1eeeb8535122.jpg"
 ---
 
 Je suis membre d'une société secrète dont voici le logo ci-contre.
 
-![](images/01f99601ca764143b04d1eeeb8535122.jpg)Sur la société secrète je ne peux rien dire. Mais sur le logo je peux : c'est l'illustration du [brevet US 6,960,975](http://www.google.com/patents/US6960975) accordé le 1er novembre 2005 à Boris Volfson pour un "véhicule spatial propulsé par l'état du vide inflatoire" ("space vehicle propelled by the pressure of inflationary vacuum state")
+![](./images/01f99601ca764143b04d1eeeb8535122.jpg)Sur la société secrète je ne peux rien dire. Mais sur le logo je peux : c'est l'illustration du [brevet US 6,960,975](http://www.google.com/patents/US6960975) accordé le 1er novembre 2005 à Boris Volfson pour un "véhicule spatial propulsé par l'état du vide inflatoire" ("space vehicle propelled by the pressure of inflationary vacuum state")
 
 Un [brevet](w:) garantit à un inventeur un monopole sur l'utilisation de son invention pour une période pouvant aller jusqu'à 25 ans dans certains pays, pour autant que l'invention satisfasse trois conditions:
 
@@ -40,11 +40,11 @@ Examiner sérieusement un tel brevet demanderait des connaissances avancées en 
 
 Bref, un office des brevets n'a aucune raison de passer un temps couteux à examiner un brevet. La preuve extrême se trouve dans le brevet australien [2001100012](http://www.tuv.com/media/germany/50_trainingandconsulting/pdf/patente/Circular_transportation_facilitation_device.pdf) de 2001 à John Keogh un pour un "appareil circulaire facilitant le transport" ("circular transportation facilitation device") dont voici les deux figures illustrant l'invention :
 
-[![roue](images/5ebfed0852b0025bfd8bc8e2dd917008.png)](images/5ebfed0852b0025bfd8bc8e2dd917008.png) [![chariot](images/0eb35850814fc1659bdf8acff07cabeb.png)](images/0eb35850814fc1659bdf8acff07cabeb.png)
+[![roue](./images/5ebfed0852b0025bfd8bc8e2dd917008.png)](./images/5ebfed0852b0025bfd8bc8e2dd917008.png) [![chariot](./images/0eb35850814fc1659bdf8acff07cabeb.png)](./images/0eb35850814fc1659bdf8acff07cabeb.png)
 
 On assiste donc à un formidable boum du nombre de brevets accordés, mais est-ce réellement l'image d'un boum de l'innovation ?
 
-{{< figure src="images/537e55c868ddb0b2e7cfb2184225ea58.png" alt="brevets" caption="nombre de brevets déposés chaque année dans le monde" align="aligncenter" width="458" >}}
+{{< figure src="./images/537e55c868ddb0b2e7cfb2184225ea58.png" alt="brevets" caption="nombre de brevets déposés chaque année dans le monde" align="aligncenter" width="458" >}}
 
 En parallèle on constate un boum encore plus colossal des actions en justice sur des questions de propriété intellectuelle.
 

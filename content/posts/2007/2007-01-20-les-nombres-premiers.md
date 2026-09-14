@@ -7,7 +7,7 @@ categories:
 tags: 
   - "maths"
   - "nombres-premiers"
-coverImage: "0b7574cc4d97b1ba36b34b2b9797fc23.gif"
+coverImage: "./images/0b7574cc4d97b1ba36b34b2b9797fc23.gif"
 ---
 
 _A l’occasion de la découverte de la plus grande paire de nombres premiers jumeaux, et en parallèle avec la rédaction d’un articule sur le calcul distribué, j’ai partiellement ré-écrit cet article de 2005 sur les nombres premiers._
@@ -61,15 +61,15 @@ Un matheux nommé Ulam s’ennuyait à une conférence et à commencé à écrir
 
 A sa grande surprise il a vu apparaitre des "lignes" obliques qui correspondent à des fonctions génératrices de nombres premiers de forme a.n2+b.n + c, comme les fonctions mentionnées plus haut. (voir la [wikipedia](w:Spirale_d'Ulam))
 
-[![](images/0b7574cc4d97b1ba36b34b2b9797fc23.gif)![](images/aab68440f5e5ab55679676c1cca17bce.png)](http://p3nlhclust404.shr.prod.phx3.secureserver.net/SharedContent/redirect_0.html)
+[![](./images/0b7574cc4d97b1ba36b34b2b9797fc23.gif)![](./images/aab68440f5e5ab55679676c1cca17bce.png)](http://p3nlhclust404.shr.prod.phx3.secureserver.net/SharedContent/redirect_0.html)
 
 En généralisant, on peut colorier les cases de la spirale d’Ulam avec une couleur représentant le nombre de facteurs premiers de chaque case. Mais ma représentation préférée est celle-ci, dans laquelle le nombre de facteurs définit le rayon de petites boules centrées à chaque case :
 
-[![Spirale d’Ulam](images/389c66e7ddab342c9a24fd6e80fd3c65.jpg)](/wp-content/uploads/HLIC/389c66e7ddab342c9a24fd6e80fd3c65.jpg "Spirale d’Ulam")
+[![Spirale d’Ulam](./images/389c66e7ddab342c9a24fd6e80fd3c65.jpg)](./images/389c66e7ddab342c9a24fd6e80fd3c65.jpg "Spirale d’Ulam")
 
 Un copain métaphysique m’a sommé de mentionner aussi la "Croix de Plichta", mais il s’agit AMHA d’une justification un peu simpliste de la théorie ésotérique un peu planante de monsieur Plichta...
 
-[![](images/7471c1315ba788e7570017ab328aa010.png)](/wp-content/uploads/HLIC/7471c1315ba788e7570017ab328aa010.png "Croix de Plichta")
+[![](./images/7471c1315ba788e7570017ab328aa010.png)](./images/7471c1315ba788e7570017ab328aa010.png "Croix de Plichta")
 
 Pourquoi simpliste :
 

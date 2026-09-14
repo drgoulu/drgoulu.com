@@ -6,14 +6,14 @@ categories:
   - "Pourquoi"
 tags: 
   - "maths"
-coverImage: "urs-wurgler.jpg"
+coverImage: "./images/urs-wurgler.jpg"
 ---
 
-{{< figure src="images/urs-wurgler.jpg" alt="Tombe d'Urs Würgler" >}}
+{{< figure src="./images/urs-wurgler.jpg" alt="Tombe d'Urs Würgler" >}}
 
 Urs Würgler, ancien recteur de l'Université de Berne et ou mathématicien est décédé il y a un an. Sur sa tombe, son épouse a fait graver la formule dont il était le plus fier\* qu'il avait trouvée :
 
-![formuleurs](images/formuleurs.png)
+![formuleurs](./images/formuleurs.png)
 
 Mais comme elle ne savait pas ce que ça signifie, j'ai été appelé à la rescousse par maman interposée. Ce fut l'occasion d'une intéressante plongée, ou plutôt ascension dans l'abstraction mathématique.
 
@@ -38,7 +38,7 @@ Toutes ces choses semblent donc connectées dans le monde abstrait des mathémat
 
 J'ai alors cherché des pistes sur [MathOverflow](http://mathoverflow.net/), un site de questions/réponses souvent pointues. Je n'y ai trouvé qu'une seule référence à Urs Würgler dans la seule et unique réponse à une question intitulée "[Morava K(n)'s are not E∞](http://mathoverflow.net/questions/179204/morava-kns-are-not-e-infty)" qui se réfère à un autre de ses articles [[2]](#ref-2).
 
-{{< figure src="images/3GhY8.jpg" alt="Une figure ayant un très lointain rapport avec la K-theorie de Morava" caption="Une figure ayant un très lointain rapport avec la K-theorie de Morava" link="http://mathoverflow.net/questions/146139/what-is-known-about-the-sum-xn2-n" width="420" >}}
+{{< figure src="./images/3GhY8.jpg" alt="Une figure ayant un très lointain rapport avec la K-theorie de Morava" caption="Une figure ayant un très lointain rapport avec la K-theorie de Morava" link="http://mathoverflow.net/questions/146139/what-is-known-about-the-sum-xn2-n" width="420" >}}
 
 On trouve aussi sur MathOverflow une [cinquantaine de questions relatives à la K-theorie de Morava](http://mathoverflow.net/search?q=Morava+K-theory), mais elles n'ont qu'une réponse, voire moins ce qui confirme qu'il s'agit là d'un domaine très très pointu...
 

@@ -9,14 +9,14 @@ tags:
   - "astro"
   - "optique"
   - "photo"
-coverImage: "7520f0347b515ec436425d1705d0be17.jpg"
+coverImage: "./images/7520f0347b515ec436425d1705d0be17.jpg"
 ---
 
 > Il y a plus de choses dans le ciel et la terre, Horatio, qu’il est rêvé dans votre philosophie.
 
 Je n'avais jamais commencé d'article par une citation de Shakespeare (Hamlet, Acte I, Scene V). Voilà qui est fait. La raison, c'est ça :
 
-[![photo : T. A. Rector/University of Alaska Anchorage, H. Schweiker/WIYN and NOAO/AURA/NSF](images/7520f0347b515ec436425d1705d0be17.jpg)](http://www.noao.edu/image_gallery/html/im1059.html)
+[![photo : T. A. Rector/University of Alaska Anchorage, H. Schweiker/WIYN and NOAO/AURA/NSF](./images/7520f0347b515ec436425d1705d0be17.jpg)](http://www.noao.edu/image_gallery/html/im1059.html)
 
 Vous admirez la [Nébuleuse de la Bulle de Savon](w:) (PN G75.5+1.7 pour les intimes) \[1,2\] découverte il y a un an par [Dave Jurasevich à l'observatoire du Mont Wilson](http://www.starimager.com/Image%20Gallery%20Pages/Hydrogen%20Alpha%20Images/ic%201318_AP_8%20pane%20mosaic_bubble%20nebula.htm) \[3\] et indépendamment par [Keith B Quattrocchi et Mel Helm](http://www.lostvalleyobservatory.com/page29crescentbubblenb/),\[4\] des astronomes amateurs bien équipés.
 
@@ -26,7 +26,7 @@ Cette bulle parfaitement sphérique de 5 années lumières de diamètre a été 
 
 Parlons maintenant des jolies couleurs bleu-orange de la photo. En fait elles n'existent pas. La photo originale de Dave Jurasevich est celle-ci:
 
-![](images/6f3b640995ece48a4c093b54d18cd269.jpg)
+![](./images/6f3b640995ece48a4c093b54d18cd269.jpg)
 
 Elle a été obtenue avec un temps de pose d'une demi heure. On comprend pourquoi cette nébuleuse n'a pas été détectée plus tôt : elle est extrêmement peu lumineuse. Et on n'y distingue pas la moindre couleur pour la simple raison que les [capteurs CCD](w:capteur_photographique) sont par nature "noir et blanc", ou plutôt détectent la lumière de toutes les couleurs \[5\]. Nos appareils photo utilisent des [filtres de Bayer](w:filtre_de_Bayer) qui colorient un pixel sur 4 en rouge, un autre en bleu, et les deux restants en vert parce que notre oeil est plus sensible dans le vert, mais les couleurs du ciel nocturne sont bien différentes de celles de nos photos de vacances, donc il serait dommage d'atténuer la faible lumière céleste en la filtrant par des couleurs terrestres.
 
@@ -36,7 +36,7 @@ Les clichés pris successivement avec un filtre pour H-α et un filtre O-III son
 
 L'équipe du [télescope Mayall](http://www.noao.edu/outreach/kptour/mayall.html) à Kitt Peak a choisi de combiner les clichés en attribuant une couleur orange à H-α et bleue à O-III pour faire plus joli, alors que Keith B Quattrocchi et Mel Helm \[4\] ont choisi des couleurs violettes et vertes, ajoutant même un troisième filtre pour le Soufre-II.
 
-[![](images/15c628cd28101ce2ea2739ee6a599b89.jpg)](http://www.lostvalleyobservatory.com/imagelib/sitebuilder/misc/show_image.html?linkedwidth=actual&linkpath=/wp-content/uploads/HLIC/15c628cd28101ce2ea2739ee6a599b89.jpg&target=tlx_new)
+[![](./images/15c628cd28101ce2ea2739ee6a599b89.jpg)](http://www.lostvalleyobservatory.com/imagelib/sitebuilder/misc/show_image.html?linkedwidth=actual&linkpath=/wp-content/uploads/HLIC/15c628cd28101ce2ea2739ee6a599b89.jpg&target=tlx_new)
 
 De plus ils sont plus explicites sur la technique utilisée : ils ont pris au total 21 clichés de 20 minutes d'exposition, soit 7 heures pour chacun des 3 [filtres](http://www.astrodon.com/products/filters/narrowband/). Les clichés ont été superposés avec [CCD Stack](http://www.ccdware.com/products/ccdstack/), et [MaxIm DL](http://www.cyanogen.com/maxim_main.php), puis un peu PhotoShopés quand même.
 

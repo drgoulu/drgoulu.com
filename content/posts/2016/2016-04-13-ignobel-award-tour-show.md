@@ -7,10 +7,10 @@ categories:
 tags: 
   - "humour"
   - "ignobel"
-coverImage: "igNobel-Award-Tour-Show-EPFL.png"
+coverImage: "./images/igNobel-Award-Tour-Show-EPFL.png"
 ---
 
-{{< figure src="images/igNobel-Award-Tour-Show-EPFL.png" alt="igNobel Award Tour Show EPFL" >}}
+{{< figure src="./images/igNobel-Award-Tour-Show-EPFL.png" alt="igNobel Award Tour Show EPFL" >}}
 
 Comme certains ne connaissent pas encore les fameux [Prix Ig Nobel](w:), leur fondateur [Marc Abrahams](w:en) parcourt le monde pour présenter cette institution. J'ai ainsi eu la chance d'assister au "Ig Nobel Award Tour Show" organisé à l'EPFL il y a quelques semaines, et ce fut un grand moment de science poilante.
 
@@ -30,7 +30,7 @@ Dans un deuxième temps, des lauréats Ig Nobel des années précédentes vienne
 
 Avec ce dernier prix mon beau pays a remporté le prix IgNobel de la paix deux années de suite, car en 2008 notre Commission d'Ethique Fédérale avait déjà été récompensée pour un document officiel sur la dignité des plantes. Le petit intermède où Marc Abrahams a félicité un à un tous les citoyens helvétiques de l'assistance co-récipiendaires du prix était illustré par ce splendide slide citant un extrait du rapport primé [[4]](#ref-4):
 
-![26007097876\_b1b7f4ab92\_k](images/26007097876_b1b7f4ab92_k.jpg)
+![26007097876\_b1b7f4ab92\_k](./images/26007097876_b1b7f4ab92_k.jpg)
 
 Excellente soirée donc, je vous recommande vivement d'assister à un "IgNobel Award Tour Show" près de chez vous (ou d'en organiser un...). On commence par beaucoup rigoler, mais on réfléchit aussi.
 

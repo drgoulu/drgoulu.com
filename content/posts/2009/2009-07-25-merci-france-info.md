@@ -5,10 +5,10 @@ date: 2009-07-25
 tags: 
   - "internet"
   - "media"
-coverImage: "b56b55d9cb3ab16b93ad7668d89ba055.png"
+coverImage: "./images/b56b55d9cb3ab16b93ad7668d89ba055.png"
 ---
 
-{{< figure src="images/b56b55d9cb3ab16b93ad7668d89ba055.png" alt="pic" link="/wp-content/uploads/HLIC/b56b55d9cb3ab16b93ad7668d89ba055.png" >}}
+{{< figure src="./images/b56b55d9cb3ab16b93ad7668d89ba055.png" alt="pic" link="./images/b56b55d9cb3ab16b93ad7668d89ba055.png" >}}
 
 Le 22 juillet, Jacques Rosselin a consacré sa rubrique "[Un jour, un blog](http://www.france-info.com/spip.php?article321869)" sur France Info à votre serviteur. Résultat : un spectaculaire pic de visites, pas mal de commentaires et une vingtaine d['inscriptions au flux RSS](http://feeds.feedburner.com/drgoulu). Bienvenue et merci à tous.
 

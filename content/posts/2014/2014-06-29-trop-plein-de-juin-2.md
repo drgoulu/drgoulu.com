@@ -8,7 +8,7 @@ tags:
   - "informatique"
   - "materiaux"
   - "oceans"
-coverImage: "84681bceb625f1a001980c7430cfbf1f.jpg"
+coverImage: "./images/84681bceb625f1a001980c7430cfbf1f.jpg"
 ---
 
 Les articles que je n'ai pas eu le temps de finir ce mois-ci.
@@ -23,7 +23,7 @@ Retrouvé avec délice une authentique bible de la microtechnique de précision
 
 Le chapitre le plus intéressant est le huitième, consacré à la [sélection des matériaux](w:en:Material_selection). On y montre que les caractéristiques habituelles des matériaux (densité, module d'élasticité, conduction thermique etc.) interviennent rarement seules lorsqu'on cherche un matériau adapté à la construction d'un système pointu. Beaucoup plus souvent on a besoin d'un compromis entre plusieurs de ces caractéristiques que l'on peut représenter dans un "diagramme d'[Ashby](w:Michel_Ashby)" comme celui ci-dessous:
 
-![Material lektion 1. HT2 7,5 p halvfart Janne Carlsson - PDF Free ...](images/8-0.png)
+![Material lektion 1. HT2 7,5 p halvfart Janne Carlsson - PDF Free ...](./images/8-0.png)
 
 Le livre va plus loin en normalisant les matériaux par rapport à un matériau de référence, ce qui permet de comparer facilement les matériaux entre eux.
 
@@ -47,7 +47,7 @@ mais ensuite elle n'arrive pas à calculer le sinus de ça \*pi.
 
 Le seul outil que j'utilise (pas assez apparemment) qui m'ait donné la "bonne" valeur est [Wolfram Alpha](http://www.wolframalpha.com/input/?i=sin%28%28sqrt%282%29%2B1%29%5E200*pi%29) (donc Mathematica doit probablement s'en sortir aussi):
 
-[![2014-06-29\_225820](images/2014-06-29_225820.png)](/wp-content/uploads/2014/06/2014-06-29_225820.png)
+[![2014-06-29\_225820](./images/2014-06-29_225820.png)](./images/2014-06-29_225820.png)
 
 ### Requins-baleines, touristes et Rolex awards
 
@@ -55,7 +55,7 @@ Sinon j'ai vu un reportage extraordinaire sur les requins-baleines et j'avais co
 
 En 2006, les [Rolex Awards](http://www.rolexawards.com/) ont [récompensé Brad Norman](http://www.rolexawards.com/profiles/laureates/brad_norman), un scientifique australien spécialiste de la conservation marine, des [requins baleines](w:requin_baleine) en particulier. Dès 2004, il créé un système d'identification de  ces géants des mers par les photos prises par les habitants des côtes, les plongeurs, et les touristes assez chanceux pour les croiser.
 
-[![](images/84681bceb625f1a001980c7430cfbf1f.jpg)](http://blog.rolexawards.com/2014/02/whale-shark-research-speeds-up-with-citizen-scientists-2/)
+[![](./images/84681bceb625f1a001980c7430cfbf1f.jpg)](http://blog.rolexawards.com/2014/02/whale-shark-research-speeds-up-with-citizen-scientists-2/)
 
 Après dix ans d'activité de son projet [ECOCEAN](http://www.whaleshark.org.au/), environ 5000 individus ont été identifiés, grâce à plus de 25'000 observations et 50'000 photos, faites dans 54 pays. Une centaine de requins-baleines de plus sont identifiés chaque année Par comparaison, entre le 19ème siècle et le milieu des années 1980, seules 350 observations avaient été faites de ce mystérieux animal. C’est donc un franc succès pour Brad Norman, qui se félicite autant pour cette nouvelle masse de données que pour l’intérêt de l’opération pour la sensibilisation du grand public à la protection de la faune.
 

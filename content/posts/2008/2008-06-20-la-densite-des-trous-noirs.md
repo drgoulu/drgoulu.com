@@ -9,10 +9,10 @@ tags:
   - "physique"
   - "relativite"
   - "trou-noir"
-coverImage: "c183a5365cb5dd27cd4652865d8fd6b8.jpg"
+coverImage: "./images/c183a5365cb5dd27cd4652865d8fd6b8.jpg"
 ---
 
-{{< figure src="images/c183a5365cb5dd27cd4652865d8fd6b8.jpg" alt="Black hole on Earth, par Revilla sur flickr" caption="Black hole on Earth, par Revilla sur flickr" link="http://www.flickr.com/photos/revilla/515536280/" width="240" >}}
+{{< figure src="./images/c183a5365cb5dd27cd4652865d8fd6b8.jpg" alt="Black hole on Earth, par Revilla sur flickr" caption="Black hole on Earth, par Revilla sur flickr" link="http://www.flickr.com/photos/revilla/515536280/" width="240" >}}
 
 A la fin de sa vie, une étoile s'éteint et s'effondre sur elle-même : en quelques minutes, la gravité compacte sa matière en une sphère de plus en plus dense, jusqu'à une limite qui ne dépend que de la masse  de l'étoile:
 
@@ -31,7 +31,7 @@ Là où ça devient intéressant, c'est que les trous noirs plus massifs ont une
 
 Un petit calcul et hop : la densité moyenne du centre de notre galaxie est de 2.8 kg/cm3. Oui, des kilos, pas des tonnes. Et [OJ287](/2008/04/18/ca-cest-du-trou-noir-du-vrai/), qui fait 100 millions de masses solaires ? Re petit calcul et hop  : 295 millions de km de rayon, 2 grammes par cm3, juste le double de celle de l'eau ! Et il y a des trous noirs encore plus gros.
 
-[![](images/0f7c097be4bcaf12ee23c6ea29b0b7b9.png)](http://speedcrunch.org/fr/index.html)Petit intermède publicitaire : cet article aurait été encore plus inexact sans [SpeedCrunch](http://speedcrunch.org), la calculatrice gratuite pour PC, Mac et pingouin. Dotée de plein de fonctions utiles et de constantes aussi indispensables que la masse et le rayon du soleil, [SpeedCrunch](http://speedcrunch.org) est la calculatrice qu'il vous faut !
+[![](./images/0f7c097be4bcaf12ee23c6ea29b0b7b9.png)](http://speedcrunch.org/fr/index.html)Petit intermède publicitaire : cet article aurait été encore plus inexact sans [SpeedCrunch](http://speedcrunch.org), la calculatrice gratuite pour PC, Mac et pingouin. Dotée de plein de fonctions utiles et de constantes aussi indispensables que la masse et le rayon du soleil, [SpeedCrunch](http://speedcrunch.org) est la calculatrice qu'il vous faut !
 
 Pour [finir en beauté](/2008/04/17/on-va-tous-mourir/), calculons le rayon de Schwartzschild d'un soi-disant "trou noir" (avec guillemets) produit par le choc frontal de deux protons [accélérés à 7 TeV](http://science-for-everyone.over-blog.com/article-20511321.html) dans le [LHC du CERN](w:Large_Hadron_Collider). Il a une masse de 14 protons, soit 4,7.10\-50 masses solaires (d'où les guillemets plus haut...) ce qui donne un "rayon de Schwartzchild" de 1,4.10\-46m. C'est petit. Tellement petit que c'est environ 1'000'000'000'000'000'000'000'000'000'000 x plus petit que les protons qui se téléscopent... En fait, il n'est même pas permis d'être si petit, car c'est plus petit de la [longueur de Planck](w:). Mais une chose est sure : un objet aussi dense que vous voulez, mais plus grand que son rayon de Schwartzchild **n'est pas un trou noir**.
 

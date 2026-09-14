@@ -9,10 +9,10 @@ tags:
 - programmation
 - python
 draft: true
-coverImage: "MouseTrap.jpg"
+coverImage: "./images/MouseTrap.jpg"
 ---
 
-{{< figure src="images/MouseTrap.jpg" alt="%image_alt%" >}}
+{{< figure src="./images/MouseTrap.jpg" alt="%image_alt%" >}}
 
 Je me suis fait avoir une fois de plus. Après avoir résolu une septantaine\* de problèmes de [Project Euler](/2009/02/23/project_euler/) de plus en plus mathématiquement ardus, suis tombé sur [HackerRank.com](https://www.hackerrank.com), qui m'avait l'air plus orienté programmation, avec des petits problèmes solubles en quelques minutes, voire une petite soirée. Du moins en apparence...
 

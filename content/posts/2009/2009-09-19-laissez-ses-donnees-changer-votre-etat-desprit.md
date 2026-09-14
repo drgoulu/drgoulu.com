@@ -13,10 +13,10 @@ tags:
   - "traduction"
   - "usa"
   - "video"
-coverImage: "2e0c010b810b68fc3aea91efcdb69bdb.jpg"
+coverImage: "./images/2e0c010b810b68fc3aea91efcdb69bdb.jpg"
 ---
 
-{{< figure src="images/2e0c010b810b68fc3aea91efcdb69bdb.jpg" alt="Hans Rosling" caption="Hans Rosling" width="200" >}}
+{{< figure src="./images/2e0c010b810b68fc3aea91efcdb69bdb.jpg" alt="Hans Rosling" caption="Hans Rosling" width="200" >}}
 
 Hans Rosling a donné une conférence au [Département d'Etat](w:Département_d'État_des_États-Unis) des USA, conférence [reprise au TED](http://www.ted.com/talks/hans_rosling_at_state.html) tellement passionnante que je l'ai traduite en français¹. Vous pouvez la voir [ici en choisissant les sous-titres en Français](http://dotsub.com/view/a85f347f-9b20-4096-a22d-b91efafc92ab) (Canada)² et attendant que ma traduction soit validée [au TED³.](http://www.ted.com/talks/hans_rosling_at_state.html) La v.o. est sur YouTube:
 

@@ -8,10 +8,10 @@ tags:
   - "casse-tetes"
   - "illusion"
   - "psychologie"
-coverImage: "603620-spinning-lady.gif"
+coverImage: "./images/603620-spinning-lady.gif"
 ---
 
-{{< figure src="images/603620-spinning-lady.gif" >}}
+{{< figure src="./images/603620-spinning-lady.gif" >}}
 
 J'aime bien cette petite danseuse qui me rappelle le [Shadow](https://goulu.wordpress.com/2006/01/30/las-vegas/) à Las Vegas...  Mais dans quel sens tourne-t-elle ?
 

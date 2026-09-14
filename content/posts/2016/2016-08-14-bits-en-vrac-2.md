@@ -7,14 +7,14 @@ categories:
 tags: 
   - "internet"
   - "societe"
-coverImage: "sUcXNgA7.jpg"
+coverImage: "./images/sUcXNgA7.jpg"
 ---
 
 Quelques nouvelles en vrac à propos de ce site
 
 ### Cookies, DoNotTrack
 
-[![](images/sUcXNgA7.jpg)](https://twitter.com/no_cookie_law)L'Union Européenne ne me fait pas envie, surtout quand je vois une bande de technocrates désœuvrés (car apparemment il n'y avait rien de plus important à faire) édicter des lois inutiles, coûteuses et chiantes comme la "loi sur les cookies" [[1]](#ref-1). Elle est:
+[![](./images/sUcXNgA7.jpg)](https://twitter.com/no_cookie_law)L'Union Européenne ne me fait pas envie, surtout quand je vois une bande de technocrates désœuvrés (car apparemment il n'y avait rien de plus important à faire) édicter des lois inutiles, coûteuses et chiantes comme la "loi sur les cookies" [[1]](#ref-1). Elle est:
 
 - Chiante parce qu'elle force de millions de gens à cliquer sur des millions de boutons \[OK\] chaque fois qu'ils arrivent sur un site.
 - Coûteuse parce que des des milliers de propriétaires de sites web ont du ajouter des bannières du type "ce site bla bla cookies bla bla accepter \[OK\] " A 10 Euro par site, c'est une blague à centaines de millions. Et je ne sais pas combien de milliards de clicks seront fait sur les boutons \[OK\], mais un milliard de clicks à une seconde pièce, c'est 32 ans de précieuse vie humaine gâchée.
@@ -27,7 +27,7 @@ Ce blog étant hébergé en Suisse avec un nom de domaine en .com et ne visant 
 
 DNT est une recommandation du W3C [[2]](#ref-2) qui est bien mieux foutue que la loi européenne. Elle vous permet de configurer vos browsers ([Chrome](https://support.google.com/chrome/answer/2790761?hl=fr) ou [autres](https://allaboutdnt.com/)) pour "interdire le suivi" de vos visites par des cookies. En réalité DNT est plutôt le mécanisme permettant d'informer les sites visités de ce choix, et il faudra encore quelques temps pour que les sites gèrent DNT. Sur drgoulu.com c'est déjà fait, donc vous disposez ici d'un site qui respecte vos droits et volonté sans bannière ni perte de temps.
 
-![Ghostery DrGoulu](images/Ghostery-DrGoulu.png)
+![Ghostery DrGoulu](./images/Ghostery-DrGoulu.png)
 
 J'utilise depuis assez longtemps [Ghostery](https://www.ghostery.com/) pour bloquer un certain nombre de [mouchards](w:logiciel_espion), alors je veille à ce que ce site n'en utilise qu'un minimum que je considère comme acceptables par moi-même. Actuellement, drgoulu.com n'utilise que les 6 listés ci-contre. Sur le site [LeMonde.fr](http://www.lemonde.fr/) (choisi totalement au hasard) il y en a 18, dont 6 qui figurent dans la (longue) liste des mouchards publicitaires.
 
@@ -62,7 +62,7 @@ En 2014 j'ai commencé le [paragraphe "Curation V.3" du "Bits en Vrac](/2014/04/
 3. Chaque dossier peut être partagé indépendamment. InnoReader génère par exemple [cette page listant tous les articles que je trouve intéressants](http://www.inoreader.com/stream/user/1005806813/tag/user-broadcasted/view/html) (et  évidemment aussi [le flux RSS correspondant](http://www.inoreader.com/stream/user/1005806813/tag/user-broadcasted)). Mais je partage aussi d'autres dossiers plus spécifiques, dont certains à usage professionnel : je peux ainsi faire de la "veille technologique" semi-automatisée sur certains sujets en consultant de temps en temps un flux d'articles de presse, de nouveaux brevets et de tweets de concurrents. Très utile...
 4. Innoreader a un API vachement bien intégré par [IFTTT](https://ifttt.com/), permettant de partager automatiquement sur les réseaux sociaux le contenu que je marque comme intéressant. En particulier j'ai mis au point la [règle](https://ifttt.com/recipes/453739-tweet-innoreader-news) suivante qui twitte automatiquement en utilisant au mieux les 140 caractères autorisés sur Twitter:
 
-[![Capture](images/Capture.png)](https://ifttt.com/recipes/453739-tweet-innoreader-news)
+[![Capture](./images/Capture.png)](https://ifttt.com/recipes/453739-tweet-innoreader-news)
 
 En plus du titre et url qui sont disponibles dans n'importe quel flux, cette règle permet de mentionner clairement:
 

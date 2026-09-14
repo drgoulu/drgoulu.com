@@ -9,16 +9,16 @@ tags:
   - "histoire"
   - "informatique"
   - "loi-de-moore"
-coverImage: "6b6e8564e18a75bb838389e2aee49068.jpg"
+coverImage: "./images/6b6e8564e18a75bb838389e2aee49068.jpg"
 ---
 
 Le premier ordinateur capable d'effectuer un million de milliards d'opérations par seconde (un petaflop) fait "bip-bip" depuis quelques jours. Le ["Roadrunner" d'IBM](w:Roadrunner_(supercalculateur)) supplante ainsi le "BlueGene/L d'IBM aussi, vieux d'une année seulement et qui plafonnait à 0.476 petaflop.
 
-![](images/70678f9cf3d23156fce460be5fd5572c.png)
+![](./images/70678f9cf3d23156fce460be5fd5572c.png)
 
 D'après les mesures de [top500.org](http://top500.org) qui répertorie les 500 plus puissants ordinateurs de la planète, leur puissance augmente avec une régularité de métronome depuis plus de 30 ans, décuplant en 4 ans, donc doublant en un peu moins de 18 mois.
 
-[![](images/e13dd24ba9ad412b3935dcb0b98cb2a4.jpg)](http://dit-archives.epfl.ch/FI94/6-94-page15.html)En ce qui me concerne, c'est assez facile de me représenter cette fantastique croissance : mon PC de bureau actuel correspond assez bien au [Cray XMP installé à l'EPFL](http://dit-archives.epfl.ch/FI94/6-94-page15.html) alors que j'y étudiais en 1986. A l'époque c'était un honneur assez étroitement surveillé d'avoir le droit de faire tourner un programme dessus. Maintenant, il sert de siège dans un couloir.
+[![](./images/e13dd24ba9ad412b3935dcb0b98cb2a4.jpg)](http://dit-archives.epfl.ch/FI94/6-94-page15.html)En ce qui me concerne, c'est assez facile de me représenter cette fantastique croissance : mon PC de bureau actuel correspond assez bien au [Cray XMP installé à l'EPFL](http://dit-archives.epfl.ch/FI94/6-94-page15.html) alors que j'y étudiais en 1986. A l'époque c'était un honneur assez étroitement surveillé d'avoir le droit de faire tourner un programme dessus. Maintenant, il sert de siège dans un couloir.
 
 Selon top500.org et d'autres sources, la progression devrait se poursuivre en tout cas encore une décennie : on devrait avoir un ordinateur de 10 pétaflops en 2012 et un de 100 en 2016, en attendant un "roadrunner de bureau" aux alentours de 2028.
 
@@ -30,7 +30,7 @@ L'un des facteurs essentiels est la miniaturisation de l'électronique. En 1965,
 
 [
 
-{{< figure src="images/c3ded1f5fdbc8c362d185f208bfec178.gif" alt="](http://www.intel.com/content/www/us/en/silicon-innovations/moores-law-technology.html)Cliquer pour un site d'Intel consacré à la loi de Moore" caption="](http://www.intel.com/content/www/us/en/silicon-innovations/moores-law-technology.html)Cliquer pour un site d'Intel consacré à la loi de Moore" align="aligncenter" width="553" >}}
+{{< figure src="./images/c3ded1f5fdbc8c362d185f208bfec178.gif" alt="](http://www.intel.com/content/www/us/en/silicon-innovations/moores-law-technology.html)Cliquer pour un site d'Intel consacré à la loi de Moore" caption="](http://www.intel.com/content/www/us/en/silicon-innovations/moores-law-technology.html)Cliquer pour un site d'Intel consacré à la loi de Moore" align="aligncenter" width="553" >}}
 
 Il faut bien remarquer que l'on parle ici du nombre de transistors et pas de la puissance du processeur, qui d'ailleurs double en 18 mois, soit plus vite que le nombre de transistors ! Comment est-ce possible ?
 
@@ -42,7 +42,7 @@ Aujourd'hui, si les processeurs travaillent autour de 3 GHz et la mémoire autou
 
 Petite anecdote à ce propos : il y a 20 ans on apprenait qu'il était assez facile de déboguer un circuit digital en ralentissant son horloge, éventuellement jusqu'à la commander à la main avec un petit switch... On m'a dit que ce n'était plus possible actuellement : un Pentium ne fonctionne carrément pas du tout à 1 Hz, car ses circuits sont conçus pour la haute fréquence.
 
-![](images/eff0f91c64b5f70bbfbd37e7bdd18588.jpg)
+![](./images/eff0f91c64b5f70bbfbd37e7bdd18588.jpg)
 
 Malgré ceci, en 2003 la fréquence des processeurs qui croissait rapidement s'est retrouvée rapidement limitée en dessous de 4 GHz, entre autres pour des raisons thermiques.
 
@@ -66,7 +66,7 @@ Si la densité des transistors sur une puce augmente exponentiellement, le nombr
 
 Depuis quelques années on assiste à [la montée en puissance des GPUs](/2007/11/02/la-montee-en-puissance-des-gpus/ "La montée en puissance des GPUs") (Graphics Processing Unit) : le processeur équipant une bonne carte graphique (nVidia ou ATI) effectue nettement plus de calculs que le processeur central (CPU) de votre PC :
 
-![](images/92d9996311ff6934d737ff74313187d6.jpg)
+![](./images/92d9996311ff6934d737ff74313187d6.jpg)
 
 Jusqu'à récemment, l'architecture des GPU était uniquement destinée à la production d'images de scènes 3D en temps réel. Mais désormais ces processeurs peuvent être utilisés pour le calcul scientifique, la simulation de phénomènes physiques et d'autres applications exigeant une grosse puissance de calcul (voir mon blog [www.3dmon.com](http://3dmon.wordpress.com) à ce sujet)
 
@@ -76,7 +76,7 @@ Les GPU ne sont cependant pas (encore?) capable de faire fonctionner des program
 
 #### Vers un mix
 
-[![](images/957db4c33a0256c91cc0ac198b43d685.jpg)](/wp-content/uploads/HLIC/957db4c33a0256c91cc0ac198b43d685.jpg)Un des processeurs les plus puissants actuellement est le "[Cell](w:Cell_(processeur))" d'IBM qui équipe la console PlayStation 3 (voir [ici](/2007/11/27/le-top-500-des-supercalculateurs/)) Il contient 1 coeur de processeur "classique" et 8 petits coeurs "SPE" plus inspirés de ce que l'on trouve dans les GPU. Le coeur classique fournit 20 GFlops avec des nombres en double précision, les 8 "SPE"s montent à 200 GFlop en simple précision, suffisante pour beaucoup d'applications
+[![](./images/957db4c33a0256c91cc0ac198b43d685.jpg)](./images/957db4c33a0256c91cc0ac198b43d685.jpg)Un des processeurs les plus puissants actuellement est le "[Cell](w:Cell_(processeur))" d'IBM qui équipe la console PlayStation 3 (voir [ici](/2007/11/27/le-top-500-des-supercalculateurs/)) Il contient 1 coeur de processeur "classique" et 8 petits coeurs "SPE" plus inspirés de ce que l'on trouve dans les GPU. Le coeur classique fournit 20 GFlops avec des nombres en double précision, les 8 "SPE"s montent à 200 GFlop en simple précision, suffisante pour beaucoup d'applications
 
 Depuis qu'AMD a racheté ATI et qu'intel s'est mis à (essayer de) faire des processeurs graphiques, il n'y a plus guère de doute : les futurs processeurs combineront la flexibilité des CPU actuels et la puissance brute des GPU, et cette combinaison rendue possible par la Loi de Moore continuera à faire progresser la puissance de nos ordinateurs au rythme immuable du doublement chaque 18 mois encore de nombreuses années.
 

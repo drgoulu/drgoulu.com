@@ -12,12 +12,12 @@ tags:
   - "lune"
   - "mars"
   - "mecanique"
-coverImage: "6b2d81bb2e5470ab315f030e1f4d06cc1-1.png"
+coverImage: "./images/6b2d81bb2e5470ab315f030e1f4d06cc1-1.png"
 ---
 
 La mort de Neil Armstrong me fait penser à plusieurs petites choses, et à une plus importante:
 
-- D'abord que la [prédiction graphique de xkcd.com](http://xkcd.com/893/) est en marche : [![](images/6b2d81bb2e5470ab315f030e1f4d06cc.png)](http://xkcd.com/893/)
+- D'abord que la [prédiction graphique de xkcd.com](http://xkcd.com/893/) est en marche : [![](./images/6b2d81bb2e5470ab315f030e1f4d06cc.png)](http://xkcd.com/893/)
 - Ensuite, un bon reportage récent intitulé "La fin des astronautes ?" (avec un point d'interrogation), passé sur Arte cet été [[1]](#ref-1). [Eugene Cernan](w:), dernier humain à avoir foulé la Lune, y explique qu'il était convaincu qu'il serait rapidement suivi par beaucoup d'autres et qu'un vol habité vers Mars aurait lieu au XXème siècle encore...
 - Un autre reportage (pas retrouvé) passé aussi cet été dans lequel les pionniers se rappellent des années folles, et en particulier du sang-froid de Neil Armstrong. Par exemple cette fois où il s'est éjecté à la dernière seconde d'un engin d'entrainement et a failli atterrir en parachute au milieu des flammes:
 
@@ -46,13 +46,13 @@ L'idée du "puits gravitationnel", c'est de considérer cette énergie comme une
 
 Si l'énergie de la fusée n'est pas suffisante pour sortir du puits, elle retombera tôt ou tard sur la Terre, à moins qu'on ne lui ait aussi donné une vitesse tangentielle qui lui permette de se mettre en orbite en "roulant" contre le mur du puits, qui n'est pas vertical. En effet, si on trace la fonction E(r)=-g.R²/|r| pour r>R (en faisant un fond plat au puits pour r<R), on obtient la courbe suivante, qui lie le rayon r de l'orbite et le niveau correspondant d'énergie dans le puits [[7]](#ref-7):
 
-[![](images/b9ffbad1485373d5e9006ec180f829a3.png)](http://expliquenoustout.blogspot.ch/2011/05/puits-gravitationnel-et-missions.html)
+[![](./images/b9ffbad1485373d5e9006ec180f829a3.png)](http://expliquenoustout.blogspot.ch/2011/05/puits-gravitationnel-et-missions.html)
 
 D'ailleurs, sur cette courbe calculé par Julien [[7]](#ref-7) avec [Scilab](http://www.scilab.org/), on voit l'orbite de la Lune, à 360'000 km, qui creuse elle aussi un tout petit "puits gravitationnel" de 288 km seulement. Toute les missions Apollo sont là : un énorme fusée [Saturn V](w:) pour "gravir" environ 6000 km de puits, un petit [module de service Apollo](https://fr.wikipedia.org/wiki/module_de_service Apollo) pour parcourir les 300'000 km jusqu'à la Lune en "montant" encore de 200 km dans le puits (et freiner la "descente" équivalente au retour) , et un minuscule [LEM](w:module_lunaire_Apollo) 20x moins puissant (par kg) que la fusée Saturn-V pour descendre au fond de la Lune et en ressortir.
 
 Randall Munroe de xkcd (encore) a réalisé un [extraordinaires dessin](http://xkcd.com/681/) de tous les puits gravitationnels du système solaire, les remplissant même avec des demi-planètes à l'échelle :
 
-{{< figure src="images/4fc66b2dc9502fcb12eae853dbc6dae3.png" alt="Cliquer pour agrandir" caption="Cliquer pour agrandir" link="http://xkcd.com/681_large/" align="aligncenter" width="740" >}}
+{{< figure src="./images/4fc66b2dc9502fcb12eae853dbc6dae3.png" alt="Cliquer pour agrandir" caption="Cliquer pour agrandir" link="http://xkcd.com/681_large/" align="aligncenter" width="740" >}}
 
 Le plus important est évidemment celui du Soleil, tellement profond qu'il n'est que très partiellement représenté à gauche. Son influence est très importante pour les planètes intérieures : Mercure, Vénus, la Terre et Mars, qui sont situées à des niveaux très différents de ce puits. Pour aller vers l'une de ces planètes, il faut non seulement sortir du puits local de la Terre mais gravir ou descendre un bout du puits gravitationnel du Soleil \*\*\*.
 
@@ -60,7 +60,7 @@ Par contre, une fois passée l'orbite des astéroïdes, pousser jusqu'à Jupiter
 
 La problématique d'un vol habité vers Mars apparaît dans deux détails de ce génial dessin:
 
-| [![](images/4df50ad10de1c7c9b6a608d477aae846.png)](http://xkcd.com/681/) | [![](images/95cd209cae391212256923227b5e8a1a.jpg "Zoom sur les puits locaux")](http://xkcd.com/681/) |
+| [![](./images/4df50ad10de1c7c9b6a608d477aae846.png)](http://xkcd.com/681/) | [![](./images/95cd209cae391212256923227b5e8a1a.jpg "Zoom sur les puits locaux")](http://xkcd.com/681/) |
 | --- | --- |
 
 L'illustration de gauche révèle que depuis Apollo, les humains sont confinés dans quelques centaines de km au fond de leur puits. La défunte navette spatiale ne permettait que de monter que de quelques centaines de km (proche de la Terre, les km de puits sont approximativement égaux à des altitudes), et assembler un vaisseau spatial au niveau de la [station spatiale internationale](w:) n'aiderait pas beaucoup à sortir du puits. Par contre, l'[orbite géostationnaire](w:) à 35'786 km d'altitude est toute proche de la sortie du puits, mais sauf erreur aucun véhicule habité n'est capable d'y aller.
@@ -71,7 +71,7 @@ Voilà pourquoi après le "petit pas pour l'homme" de Neil Armstrong en bordure 
 
 En attendant, on pourrait commencer par installer de vraies bases spatiales aux points de Lagrange, [exploiter les astéroïdes](http://www.planetaryresources.com/) et pourquoi pas, proposer quelques voyages "simple course". Je serais éventuellement tenté par [Titan](w:Titan_(lune)), autour de mon 90ème anniversaire...
 
-{{< figure src="images/41b38c839993f9476c19c2a71806173e.jpg" alt="Cliquer pour http://fr.wikipedia.org/wiki/Point_de_Lagrange" caption="les puits du Soleil, de la Terre et de la Lune &quot;vus de dessus&quot;, en courbes de niveau, permettent de visualiser les &quot;points de Lagrange&quot; L1 à L5" link="http://fr.wikipedia.org/wiki/Point_de_Lagrange" align="aligncenter" width="489" >}}
+{{< figure src="./images/41b38c839993f9476c19c2a71806173e.jpg" alt="Cliquer pour http://fr.wikipedia.org/wiki/Point_de_Lagrange" caption="les puits du Soleil, de la Terre et de la Lune &quot;vus de dessus&quot;, en courbes de niveau, permettent de visualiser les &quot;points de Lagrange&quot; L1 à L5" link="http://fr.wikipedia.org/wiki/Point_de_Lagrange" align="aligncenter" width="489" >}}
 
 ### Notes:
 

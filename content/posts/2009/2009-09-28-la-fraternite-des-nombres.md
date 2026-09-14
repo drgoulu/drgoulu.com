@@ -9,7 +9,7 @@ tags:
   - "maths"
   - "nombres"
   - "programmation"
-coverImage: "d395ed57e574ed427de8606cd3d40223.jpg"
+coverImage: "./images/d395ed57e574ed427de8606cd3d40223.jpg"
 ---
 
 Vu l'autre jour sur un blog¹ une "question bête", donc intrigante : existe-t-il des nombres entre lesquels les mathématiciens ne connaissent aucune relation ?
@@ -26,7 +26,7 @@ Les nombres les plus fraternels sont évidemment [1 et 2](http://oeis.org/search
 
 J'ai représenté les fraternités  f(a,b) pour a et b variant de 1 à 1024 dans l'image ci-dessous. Le point (1,1) est en bas à gauche. Les fraternités f(a,b)>100 sont représentées par des pixels rouges et les fraternités inférieures à 10 sont en bleu foncé. Les quelques pixels noirs dénotent les fraternités f(a,b)=0.
 
-{{< figure src="images/39a3a9b0caf38144b5ce54f423dc0b54.png" alt="fraternité f(a,b) des nombres entre 1 et 1024" caption="fraternité f(a,b) des nombres entre 1 et 1024. cliquer pour agrandir." link="/wp-content/uploads/HLIC/39a3a9b0caf38144b5ce54f423dc0b54.png" align="aligncenter" width="384" >}}
+{{< figure src="./images/39a3a9b0caf38144b5ce54f423dc0b54.png" alt="fraternité f(a,b) des nombres entre 1 et 1024" caption="fraternité f(a,b) des nombres entre 1 et 1024. cliquer pour agrandir." link="./images/39a3a9b0caf38144b5ce54f423dc0b54.png" align="aligncenter" width="384" >}}
 
 On remarque l'apparition de quelques motifs:
 

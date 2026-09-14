@@ -7,7 +7,7 @@ categories:
 tags: 
   - "aerospace"
   - "pulsars"
-coverImage: "00215804ecc0102f0e333984c4c7439c.png"
+coverImage: "./images/00215804ecc0102f0e333984c4c7439c.png"
 ---
 
 Sur Terre, le [GPS](/2008/09/27/le-gps-pour-les-nuls-satellites-et-signaux/) permet désormais de diriger nos voitures jusqu'à destination, avec une prévision de quelques mètres. Mais comment fait-on la même chose avec des sondes spatiales envoyées à la rencontre d'astres très lointains ?
@@ -20,7 +20,7 @@ Dans les deux autres direction requises pour obtenir une position dans l'espace,
 
 La précision du positionnement peut encore être améliorée en tenant compte de [l'attraction des corps](/2008/11/16/le-probleme-a-n-corps/) célestes : en observant l'orbite de Cassini dans le système de Saturne, la position de la sonde est connue à moins d'1 km près, ce qui n'est pas mal si l'on considère qu'elle est à plus d'un milliard de kilomètres d'ici.
 
-{{< figure src="images/00215804ecc0102f0e333984c4c7439c.png" alt="position des 4 sondes ayant dépassé lorbite de Pluton" caption="position des 4 sondes ayant dépassé l" link="http://www.heavens-above.com/SolarEscape.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=CET" align="aligncenter" width="400" >}}
+{{< figure src="./images/00215804ecc0102f0e333984c4c7439c.png" alt="position des 4 sondes ayant dépassé lorbite de Pluton" caption="position des 4 sondes ayant dépassé l" link="http://www.heavens-above.com/SolarEscape.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=CET" align="aligncenter" width="400" >}}
 
 ### Vers un GPS galactique
 

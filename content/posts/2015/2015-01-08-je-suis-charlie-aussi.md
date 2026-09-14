@@ -6,12 +6,12 @@ tags:
   - "conflits"
   - "pseudo"
   - "societe"
-coverImage: "de95dc6ae124c678cb0846e2adf4a0d9.jpg"
+coverImage: "./images/de95dc6ae124c678cb0846e2adf4a0d9.jpg"
 ---
 
 drgoulu.com se rebaptise et se décolore en attendant des jours meilleurs. (Optimisme quand tu nous tiens...)
 
-![](images/de95dc6ae124c678cb0846e2adf4a0d9.jpg)
+![](./images/de95dc6ae124c678cb0846e2adf4a0d9.jpg)
 
 CSS pour mettre le site en deuil, pour la prochaine fois :-(
 

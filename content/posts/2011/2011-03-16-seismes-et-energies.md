@@ -8,7 +8,7 @@ tags:
   - "energie"
   - "hydroelectricite"
   - "nucleaire"
-coverImage: "ef908f58fce2c26d6bb81838eb991909.jpg"
+coverImage: "./images/ef908f58fce2c26d6bb81838eb991909.jpg"
 ---
 
 L'[échelle de Richter](w:) est tellement démodée que seuls les journalistes l'utilisent encore. Datant de 1935, c'est une mesure de l'amplitude du mouvement provoqué par un tremblement de terre tel que mesuré par un sismographe. Mais elle survit car elle a pu être rebaptisée [échelle de magnitude du moment](w:) en 1979 en la reliant d'une part au [moment sismique](w:), une notion liée à un modèle de rupture des roches, et d'autre part à l'énergie dégagée par le phénomène :
@@ -32,7 +32,7 @@ Mieux vaut donc se trouver le plus loin possible de l'épicentre d'un tel phéno
 
 Comme on le voit sur cette carte, le terrible séisme au large du Japon n'a causé "que" une intensité de VII à VIII dans la région de Sendai, peut-être de IX localement sur l'avancée de terre la plus proche de l'épicentre, zone où Murphy avait précisément construit des centrales nucléaires...
 
-[![](images/ef908f58fce2c26d6bb81838eb991909.jpg)](http://fr.wikipedia.org/wiki/S%C3%A9isme_et_tsunami_de_Sendai_\(2011\))
+[![](./images/ef908f58fce2c26d6bb81838eb991909.jpg)](http://fr.wikipedia.org/wiki/S%C3%A9isme_et_tsunami_de_Sendai_\(2011\))
 
 Je me permets d'écrire "que VII à VIII" car Kobe avait été détruite par une [intensité de IX à XI](http://pwar.info/seismes/Partie1b.htm) par un [séisme d'une magnitude de "seulement" 7.2](w:séisme_de_Kobe) épicentré directement sous la ville, une [situation qui s'est répétée à Haïti](w:Séisme_de_2010_à_Haïti). Dans la région de Sendai, le tremblement de terre n'a pas causé directement les destructions, les morts et la catastrophe nucléaire en cours. C'est bien le tsunami qui en est très largement responsable.
 
@@ -42,7 +42,7 @@ Par contre pour un barrage, c'est plus compliqué car les grandes structures peu
 
 En Suisse, un document [[1]](#ref-1) spécifie que les grands barrages doivent supporter un séisme dont la probabilité d'apparition est de 1/10'000 par an, donnée par la carte suivante :
 
-{{< figure src="images/3bb9b731af9479eca85ba46e97b328ba.png" alt="seismesuisse" caption="Intensité MSK d'un tremblement de terre de probabilité 1% par siècle en Suisse" link="images/3bb9b731af9479eca85ba46e97b328ba.png" align="aligncenter" width="593" >}}
+{{< figure src="./images/3bb9b731af9479eca85ba46e97b328ba.png" alt="seismesuisse" caption="Intensité MSK d'un tremblement de terre de probabilité 1% par siècle en Suisse" link="./images/3bb9b731af9479eca85ba46e97b328ba.png" align="aligncenter" width="593" >}}
 
 Comme le voient ceux qui connaissent la géographie helvétique, les barrages alpins sont tous situés dans la zone pouvant subir une intensité VIII ou plus, et quelques très grands barrages comme la [Grande-Dixence](https://fr.wikipedia.org/wiki/barrage_de_la Grande-Dixence) ou [Mauvoisin](https://fr.wikipedia.org/wiki/lac_de Mauvoisin) sont en zone IX. Ces ouvrages auraient donc résisté de justesse à la récente secousse japonaise, mais pas à Kobe ou Haïti.
 

@@ -9,8 +9,8 @@ tags:
 - ecologisme
 - energie
 draft: true
-coverImage: "ac4bfaa912ae1d2e794b9d0e783d6d49.png"
+coverImage: "./images/ac4bfaa912ae1d2e794b9d0e783d6d49.png"
 ---
 Ok, je suis allergique à l'aspirateur, mais ce n'est pas le problème ici. Je veux parler de l'unité \[ménage\], que je note entre crochets
 
-[![](images/ac4bfaa912ae1d2e794b9d0e783d6d49.png)](http://declics.romande-energie.ch/articles/quelles-sont-les-sources-principales-de-consommation-dun-m%C3%A9nage-suisse)
+[![](./images/ac4bfaa912ae1d2e794b9d0e783d6d49.png)](http://declics.romande-energie.ch/articles/quelles-sont-les-sources-principales-de-consommation-dun-m%C3%A9nage-suisse)

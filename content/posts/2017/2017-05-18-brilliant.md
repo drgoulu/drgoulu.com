@@ -10,11 +10,11 @@ tags:
 - maths
 - physique
 draft: true
-coverImage: "bb2325b25bf726a6455c8078a8cca0dfa25a7b7f.png"
+coverImage: "./images/bb2325b25bf726a6455c8078a8cca0dfa25a7b7f.png"
 ---
 Tombé par hasard sur [Brilliant.org](https://brilliant.org/) , un site pour apprendre plein de choses en s'amusant à résoudre des casse-tête sur toutes sortes de sujets. Il est en anglais, mais très accessible.
 
-{{< figure src="images/bb2325b25bf726a6455c8078a8cca0dfa25a7b7f.png" alt="dans quel arrosoir peut-on mettre le plus d'eau ?" caption="dans quel arrosoir peut-on mettre le plus d'eau ?" width="300" >}}
+{{< figure src="./images/bb2325b25bf726a6455c8078a8cca0dfa25a7b7f.png" alt="dans quel arrosoir peut-on mettre le plus d'eau ?" caption="dans quel arrosoir peut-on mettre le plus d'eau ?" width="300" >}}
 
 Parmi de nombreuses activités, une liste de problèmes de difficulté croissante est proposée chaque semaine. Le plus simple de cette semaine est celui ci-contre, pour vous faire une idée. Je le trouve bien car il demande de commencer par bien observer...
 
@@ -22,7 +22,7 @@ Le premier tiers des problèmes est accessible aux enfants, comme celui-ci, test
 
 $\begin{array} { rrrrr } & & & & & . \\\\ & & & & . & . \\\\ & & & . & . & . \\\\ + & & . & . & . & . \\\\ \hline & \_ & \_ & \_ & \_ & \_\\\\ \end{array}$
 
-![](images/b05a49b5310415c35b759128214587f8111c9b3e.png)Le premier qui m'a demandé quelques calculs est [celui-ci](https://brilliant.org/weekly-problems/2017-05-15/intermediate/?p=5), que j'aime bien d'une part en tant qu'[ex artilleur](/2010/01/16/histoire-dangles/), et d'autre part parce que je ne me souviens pas qu'un [professeur de physique](/2016/09/11/solutions-admissibles/) ou un film d'action m'ait épaté avec cette possibilité physique: on peut tirer successivement deux projectiles à la même vitesse initiale v de manière à ce qu'ils arrivent au même point au même instant.
+![](./images/b05a49b5310415c35b759128214587f8111c9b3e.png)Le premier qui m'a demandé quelques calculs est [celui-ci](https://brilliant.org/weekly-problems/2017-05-15/intermediate/?p=5), que j'aime bien d'une part en tant qu'[ex artilleur](/2010/01/16/histoire-dangles/), et d'autre part parce que je ne me souviens pas qu'un [professeur de physique](/2016/09/11/solutions-admissibles/) ou un film d'action m'ait épaté avec cette possibilité physique: on peut tirer successivement deux projectiles à la même vitesse initiale v de manière à ce qu'ils arrivent au même point au même instant.
 
 La figure ci-contre met sur la voie ceux qui pensent que ce n'est pas possible : en tirant un premier pruneau avec une grande [élévation](w:élévation_(balistique)) sur une [trajectoire parabolique](w:) en cloche qui va prendre un certain temps, puis un second sur une trajectoire tendue, qui va prendre un temps plus court.
 

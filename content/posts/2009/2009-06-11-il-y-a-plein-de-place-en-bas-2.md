@@ -14,10 +14,10 @@ tags:
   - "nano"
   - "science"
   - "traduction"
-coverImage: "7890daf3a9aa78a370f3c8eb3902df02.jpg"
+coverImage: "./images/7890daf3a9aa78a370f3c8eb3902df02.jpg"
 ---
 
-{{< figure src="images/3522581edbadc8634573a141f3d3829a.png" alt="What Would Richard Feynman Do ? Une tentative de modélisation de sa pensée." caption="tentative de modélisation de la pensée de Feynman" width="320" >}}
+{{< figure src="./images/3522581edbadc8634573a141f3d3829a.png" alt="What Would Richard Feynman Do ? Une tentative de modélisation de sa pensée." caption="tentative de modélisation de la pensée de Feynman" width="320" >}}
 
 _Traduction de la présentation que [Richard Feynman](w:) a donné le 29 décembre 1959 à la réunion annuelle de l'American Physical Society à (Caltech). Intitulé "[There's Plenty of Room at the Bottom](http://www.zyvex.com/nanotech/feynman.html)", ce discours visionnaire pose les bases de la course à la miniaturisation qui nous fournit chaque année des ordinateurs et autres gadgets plus puissants, plus fiables et moins chers, et qui nous amène vers les [nanotechnologies](/2007/04/15/mini-micro-nano/)._
 

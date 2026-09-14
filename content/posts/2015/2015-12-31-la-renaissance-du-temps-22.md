@@ -8,10 +8,10 @@ tags:
   - "physique"
   - "temps"
   - "theorique"
-coverImage: "7284147-L.jpg"
+coverImage: "./images/7284147-L.jpg"
 ---
 
-{{< figure src="images/temps-dessin-pour-Pierre-mail.jpg" link="http://thema.cafe-sciences.org/articles/category/le-temps/" >}}
+{{< figure src="./images/temps-dessin-pour-Pierre-mail.jpg" link="http://thema.cafe-sciences.org/articles/category/le-temps/" >}}
 
 Beaucoup trop longtemps après [la première partie](/2015/01/28/la-renaissance-du-temps/) publiée lors de la [semaine thématique sur le temps](http://thema.cafe-sciences.org/articles/category/le-temps/) du Café des Sciences, voici la fin du compte rendu consacré à la seconde partie du livre "grand public" de [Lee Smolin](w:) sur le temps.
 
@@ -21,7 +21,7 @@ Mais il peut aussi se planter, et il l'admet, et ce qui en fait un scientifique.
 
 * * *
 
-{{< figure src="images/7284147-L.jpg" alt="La Renaissance du Temps" caption="." width="250" >}}
+{{< figure src="./images/7284147-L.jpg" alt="La Renaissance du Temps" caption="." width="250" >}}
 
 ### 11\. les lois évolutives
 
@@ -97,7 +97,7 @@ Ce chapitre traite du lien entre le temps et la [thermodynamique](w:) en tentant
 
 Smolin commence par fournir une clef pour comprendre la thermodynamique moderne (qui inclut la [mécanique statistique](w:) ) : elle relie deux niveaux de description d'un système. A l'échelle microscopique, on peut définir un "micro-état" par la position et le mouvement de chaque particule, alors qu'à l'échelle macroscopique le "macro-état" ne comprend que quelques variables comme la pression et la température. La thermodynamique concerne les relations entre ces deux descriptions.
 
-{{< figure src="images/10531848916_878b57bfe8_n.jpg" alt="Musée Guggenheim de Bilbao (Photo Dr. Goulu sur flickr)" caption="Musée Guggenheim de Bilbao (Photo Dr. Goulu sur flickr)" align="alignleft" width="320" >}}
+{{< figure src="./images/10531848916_878b57bfe8_n.jpg" alt="Musée Guggenheim de Bilbao (Photo Dr. Goulu sur flickr)" caption="Musée Guggenheim de Bilbao (Photo Dr. Goulu sur flickr)" align="alignleft" width="320" >}}
 
 Smolin commence par montrer que l'[entropie](w:) est l'inverse de l'information en  utilisant une analogie architecturale. Il faut beaucoup d'information pour décrire le design du musée Guggenheim de Bilbao dont toutes les pièces sont distinctes et doivent s'assembler de manière précise (entropie faible). Pour un immeuble en briques, il suffit de définir les dimensions des murs, que les maçons auront une multitude de manières de réaliser avec les briques standard fournies.
 

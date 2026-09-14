@@ -8,7 +8,7 @@ tags:
   - "histoire"
   - "logique"
   - "science"
-coverImage: "44ffddf78bf8e6856d01686087fcd59b.png"
+coverImage: "./images/44ffddf78bf8e6856d01686087fcd59b.png"
 ---
 
 Au moins quatre commentateurs de mon [article sur le mouvement perpétuel](/2012/05/27/dites-non-au-mouvement-perpetuel/) m'ont sorti le même argument: des scientifiques célèbres ont dit au XIXème siècle qu’il était impossible aux avions de voler, donc les scientifiques n'ont pas le droit d'affirmer que quelque chose est impossible, en particulier violer le [premier principe de la thermodynamique](w:). Donc le mouvement perpétuel est possible, CQFD.
@@ -17,7 +17,7 @@ Ca pose tout de même une question intéressante : qu'est-ce que la science cons
 
 ### Qui est le c.. savant qui a dit "_Les machines volantes plus lourdes que l'air sont impossibles_"?
 
-{{< figure src="images/44ffddf78bf8e6856d01686087fcd59b.png" alt="J'ai un point commun avec Lord Kelvin ! On écrit tous les deux comme des cochons." caption="J'ai un point commun avec Lord Kelvin ! On écrit tous les deux comme des cochons." link="http://zapatopi.net/kelvin/papers/letters.html#baden-powell" width="224" >}}
+{{< figure src="./images/44ffddf78bf8e6856d01686087fcd59b.png" alt="J'ai un point commun avec Lord Kelvin ! On écrit tous les deux comme des cochons." caption="J'ai un point commun avec Lord Kelvin ! On écrit tous les deux comme des cochons." link="http://zapatopi.net/kelvin/papers/letters.html#baden-powell" width="224" >}}
 
 Selon les sites que l'on consulte, cette bêtise est parfois attribuée à [Simon Newcomb](w:)\*, parfois à [Lord Rayleigh](w:) et très souvent à [Lord Kelvin](w:). Après pas mal de recherches, la plus ancienne trace écrite de cette "citation" que j'ai pu trouver figure dans un bouquin de 1981 \[2\], où elle est attribuée à Kelvin. De même, sur [cette page de citations sourcées de Kelvin](http://zapatopi.net/kelvin/quotes/), l'auteur indique qu'il n'a pas trouvé de source contemporaine de Kelvin. [La wikipédia](w:Liste_de_prédictions_erronées#Avant_1940) mentionne une variante fréquente "La réalisation d’une machine volante plus lourde que l’air est impossible", que Kelvin est censé avoir dit en 1895, sans source vérifiée non plus.
 
@@ -47,13 +47,13 @@ La solidité des [démonstration](w:)s des théorèmes repose sur celle de deux 
 
 A cette époque, les logiciens ont formalisé mathématiquement leur propre langage. Grâce aux [calcul des prédicats](w:), une démonstration peut s'écrire comme une grosse formule que l'on peut évaluer sans risque de commettre des erreurs liées au langage humain. Voici par exemple une partie de la démonstration formelle que 1 + 1 = 2, datant de 1910 \[3\] :
 
-{{< figure src="images/112.png" alt="Démonstration formelle que 1+1=2 \[2\]" caption="Démonstration formelle que 1+1=2 , &quot;Principia Mathematica&quot;(1910) \[3\]" link="http://quod.lib.umich.edu/u/umhistmath/aat3201.0001.001/401?page=root;size=100;view=image" align="aligncenter" width="566" >}}Aujourd'hui, une partie des théorèmes les plus importants des mathématiques ont été formalisés ainsi, et leurs démonstrations vérifiées, souvent à l'aide de logiciels "[assistant de preuve](w:)" \[5\].
+{{< figure src="./images/112.png" alt="Démonstration formelle que 1+1=2 \[2\]" caption="Démonstration formelle que 1+1=2 , &quot;Principia Mathematica&quot;(1910) \[3\]" link="http://quod.lib.umich.edu/u/umhistmath/aat3201.0001.001/401?page=root;size=100;view=image" align="aligncenter" width="566" >}}Aujourd'hui, une partie des théorèmes les plus importants des mathématiques ont été formalisés ainsi, et leurs démonstrations vérifiées, souvent à l'aide de logiciels "[assistant de preuve](w:)" \[5\].
 
 Encore faut-il que les axiomes sur lesquels tout ceci est construit soient eux aussi solides.  Et là, les mathématiciens ont eu une énorme surprise en 1931 lorsque Kurt Gödel démontra que, quels que soient les axiomes choisis , il existe toujours des énoncés "[indécidable](w:)s" qu'il est [impossible](w:Théorèmes_d'incomplétude_de_Gödel) de démontrer. Le cas le plus typique est celui des propositions se référant aux 'axiomes eux-mêmes comme "cette proposition ne peut pas être démontrée avec les axiomes X".
 
 Le théorème d'incomplétude de Gödel démontre que cette proposition ne peut être ni vérifiée, ni infirmée à partir des axiomes X. On peut alors éventuellement ajouter quelques axiomes pour former un système d'axiomes W dans lequel la proposition peut être prouvée, mais alors il existe d'autres énoncés indémontrables dans W ...
 
-[![](images/24fda0c920a7c791f486a285f354024b.jpg)](http://godel-universe.com/index.php?p=1_2_GAsdela-s-Theorem)
+[![](./images/24fda0c920a7c791f486a285f354024b.jpg)](http://godel-universe.com/index.php?p=1_2_GAsdela-s-Theorem)
 
 Par exemple, le [théorème de Goodstein](w:) n'est pas démontrable avec les [axiomes de Peano](w:) datant de 1889, mais l'est avec ceux de la [théorie des ensembles de Zermelo-Fraenkel](w:) (ZF ou ZFC) utilisés actuellement comme axiomes des mathématiques. Cependant, il est [impossible](w:Forcing) de démontrer l'[hypothèse du continu](w:) dans ZF.
 

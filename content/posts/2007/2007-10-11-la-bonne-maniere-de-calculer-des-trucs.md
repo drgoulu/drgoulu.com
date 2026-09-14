@@ -1,30 +1,34 @@
 ---
-title: "La bonne manière de calculer des trucs"
-slug: "la-bonne-maniere-de-calculer-des-trucs"
+title: La bonne manière de calculer des trucs
 date: 2007-10-11
 categories:
-  - "Comment"
-tags: 
-  - "geometrie"
-  - "maths"
-  - "programmation"
-coverImage: "df243304c6b9c3dc459bb7fec074fb31-1.jpg"
+  - Comment
+coverImage: "./images/df243304c6b9c3dc459bb7fec074fb31-1.jpg"
+slug: la-bonne-maniere-de-calculer-des-trucs
+tags:
+  - geometrie
+  - maths
+  - programmation
 ---
 
-{{< figure src="images/df243304c6b9c3dc459bb7fec074fb31.jpg" alt="&quot;The Right Way to Calculate Stuff&quot;" link="http://www.plunk.org/~hatch/rightway.php" >}}
+{{< figure alt="&quot;The Right Way to Calculate Stuff&quot;" link="http://www.plunk.org/~hatch/rightway.php" src="./images/df243304c6b9c3dc459bb7fec074fb31.jpg" >}}
 
 ["The Right Way to Calculate Stuff"](http://www.plunk.org/~hatch/rightway.php) est une page pour informaticiens dans mon genre : elle contient des petits "snippets" de code utile pour contourner certains pièges tendus par les maths et la géométrie.
 
 Par exemple, si on veut calculer sin(x)/x, il faut faire attention à ce qui se passe pour x=0, sinon on obtiendra une erreur de "division by zero" au lieu du résultat attendu, qui est 1. Un bon programmeur prévoira le coup en écrivant (en C++) :
 
 {{< highlight cpp >}}
+
 if (x == 0.) return 1. else return sin(x)/x;
+
 {{< /highlight >}}
 
 mais ce n'est peut-être pas suffisant. Si x est très petit, la division de deux nombres très petits approximés par nos chers ordinateurs a des chances d'être assez fausse. Pour des raisons expliquées en détail sur la page, il faut s'assurer en fait que x2 est encore un nombre numériquement assez grand par rapport à 1, donc un très bon programmeur écrira ceci :
 
 {{< highlight cpp >}}
+
 if (1. + x*x == 1.) return 1. else return sin(x)/x;
+
 {{< /highlight >}}
 
 ce qui parait mathématiquement absurde puisqu'on imagine pas que 1+x2 puisse valoir 1 pour x≠0. Mais informatiquement, c'est très possible.
@@ -42,13 +46,15 @@ Pour calculer l'angle entre 2 vecteurs u et v, l' "approche pachyderme" comme di
 une deuxième approche est: 2\*atan2(abs(u-v),abs(u+v)). Pas mal mais couteux en temps de calcul. La meilleure implémentation est
 
 {{< highlight cpp >}}
+
 if (dot(u,v) < 0.)
   return M_PI - 2*asin(abs(-v-u)/2)
 else
   return 2*asin(abs(v,u)/2);
+
 {{< /highlight >}}
 
-La partie vraiment intéressante concerne l'[interpolation sphérique linéaire](http://3dmon.wordpress.com/2007/10/11/linterpolation-spherique-lineaire/). (_Comme c'est assez spécifique à la 3D, je publie aussi ce qui suit [sur mon blog 3Dmon](http://3dmon.wordpress.com/2007/10/11/linterpolation-spherique-lineaire/)_ )
+La partie vraiment intéressante concerne l'[interpolation sphérique linéaire](http://3dmon.wordpress.com/2007/10/11/linterpolation-spherique-lineaire/). (_Comme c'est assez spécifique à la 3D, je publie aussi ce qui suit_ [_sur mon blog 3Dmon_](http://3dmon.wordpress.com/2007/10/11/linterpolation-spherique-lineaire/) )
 
 L'orientation d'un corps dans l'espace à 3 dimension est défini par 3 angles tout comme la position d'un objet posé sur une sphère est définie par les 2 angles de latitude et de longitude, plus un angle définissant l'orientation de l'objet
 
@@ -63,7 +69,7 @@ $$\text{slerp}(v_0, v_1, t) = \frac{\sin((1-t)a)}{\sin(a)} v_0 + \frac{\sin(ta)}
 
 où $a$ est l'angle entre $v_0$ et $v_1$ calculé comme indiqué plus haut. Mais il est clair que pour des angles tels que $\sin(a)$ est nul ou très petit, des problèmes numériques vont survenir. En travaillant un peu la fonction slerp peut s'écrire:
 
-$$\text{slerp}(v_0, v_1, t) = \frac{\text{sin\_over\_x}((1-t)a)}{\text{sin\_over\_x}(a)} (1-t) v_0 + \frac{\text{sin\_over\_x}(ta)}{\text{sin\_over\_x}(a)} t v_1$$
+$$\text{slerp}(v_0, v_1, t) = \frac{\text{sin_over_x}((1-t)a)}{\text{sin_over_x}(a)} (1-t) v_0 + \frac{\text{sin_over_x}(ta)}{\text{sin_over_x}(a)} t v_1$$
 
 où `sin_over_x` est la fonction $\sin(x)/x$ calculée de façon robuste, toujours comme indiqué plus haut
 
@@ -71,4 +77,4 @@ Reste à traiter le cas ou a est proche de 180°, ce qui revient à retourner un
 
 ### Références:
 
-1. <span id="ref-1"></span>Ken Shoemake, _Animating rotation with quaternion curves,_ SIGGraph '85 proceeding
+1. <span id="ref-1"></span>Shoemake, K. Animating rotation with quaternion curves. in _ACM SIGGRAPH Computer Graphics_ vol. 19 245–254 (1985).{{< altmetric doi="10.1145/325165.325242" >}}

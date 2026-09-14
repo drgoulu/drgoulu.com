@@ -7,10 +7,10 @@ categories:
 tags: 
   - "maths"
   - "societe"
-coverImage: "4c0798e9949d77f78271a7fd8e76a5bb.gif"
+coverImage: "./images/4c0798e9949d77f78271a7fd8e76a5bb.gif"
 ---
 
-{{< figure src="images/4c0798e9949d77f78271a7fd8e76a5bb.gif" >}}
+{{< figure src="./images/4c0798e9949d77f78271a7fd8e76a5bb.gif" >}}
 
 Entendu à [Impatience](http://www.rts.ch/la-1ere/programmes/impatience/2208685-kathryn-hess-bellwald-21-08-2009.html) une interview de [Kathryn Hess Bellwald, prof de maths à l'EPFL](https://people.epfl.ch/Kathryn.Hess) (disponible [en mp3 ici](http://podcast.rsr.ch/media/la1ere/impatience/impatience20100423-170000.mp3)). Elle y raconte son enfance d'enfant à très haut potentiel aux USA, qui l'a poussée à créer le [cours Euler](http://euler.epfl.ch/) pour les petits génies suisses romands, et parle un tout petit peu de [topologie algébrique](w:).
 

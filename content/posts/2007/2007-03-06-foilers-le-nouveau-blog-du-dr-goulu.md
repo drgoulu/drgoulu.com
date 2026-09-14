@@ -4,7 +4,7 @@ slug: "foilers-le-nouveau-blog-du-dr-goulu"
 date: 2007-03-06
 tags: 
   - "voile"
-coverImage: "10513327.jpg"
+coverImage: "./images/10513327.jpg"
 ---
 
 Ce site commençant à être un peu trop multidisciplinaire (pour ne pas dire bordélique...) , j'ai décidé de créer plusieurs blogs dédiés à des sujets particuliers.

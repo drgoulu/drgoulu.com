@@ -8,7 +8,7 @@ tags:
   - "astro"
   - "physique"
   - "suisse"
-coverImage: "7a42afcb317408a34d5e901f6af93809-1.png"
+coverImage: "./images/7a42afcb317408a34d5e901f6af93809-1.png"
 ---
 
 Les [32 nouvelles exoplanètes découvertes](http://www.alphagalileo.org/ViewItem.aspx?ItemId=62066&CultureCode=fr) récemment portent à plus de 400 le nombre de planètes découvertes autour d'autres étoiles que notre Soleil, assez pour commencer quelques statistiques et faire le point sur les progrès rapides  en [planétologie](w:).
@@ -21,7 +21,7 @@ Le site [exoplanet.eu](http://exoplanet.eu/) fournit les caractéristiques mesur
 
 Le graphique ci-dessous représente la masse et la température de toutes les planètes connues, ainsi que leur taille lorsqu'elle est connue.
 
-[![Exoplanetes](images/7a42afcb317408a34d5e901f6af93809.png "Exoplanetes")](https://www.google.com/accounts/ServiceLogin?service=wise&passive=1209600&continue=https://spreadsheets.google.com/ccc?key%3D0Al_D4zS2T4QodFRYZkJUN3ItTmhZdllIMUdGRXIwMWc%26hl%3Den%26pref%3D2&followup=https://spreadsheets.google.com/ccc?key%3D0Al_D4zS2T4QodFRYZkJUN3ItTmhZdllIMUdGRXIwMWc%26hl%3Den%26pref%3D2&hl=en)
+[![Exoplanetes](./images/7a42afcb317408a34d5e901f6af93809.png "Exoplanetes")](https://www.google.com/accounts/ServiceLogin?service=wise&passive=1209600&continue=https://spreadsheets.google.com/ccc?key%3D0Al_D4zS2T4QodFRYZkJUN3ItTmhZdllIMUdGRXIwMWc%26hl%3Den%26pref%3D2&followup=https://spreadsheets.google.com/ccc?key%3D0Al_D4zS2T4QodFRYZkJUN3ItTmhZdllIMUdGRXIwMWc%26hl%3Den%26pref%3D2&hl=en)
 
 La plupart des exoplanètes connues sont de la masse de notre Jupiter (le plus gros point orange le plus à droite) ou bien plus grosses encore. Celles découvertes en premier sont les "Jupiter chaudes" en haut du graphique, et plus récemment on a découvert les nombreuses "Jupiter froides" du bas, ainsi qu'une vingtaine de planètes orbitant dans la "[zone habitable](w:)" où la vie serait envisageable.
 
@@ -33,11 +33,11 @@ En fait, le problème vient de la précision encore insuffisante des méthodes e
 
 C'est la plus performante jusqu'ici. Appelée aussi "spectroscopie Doppler", cette méthode consiste à mesurer les variations de vitesse de l'étoile qui oscille un peu sous l'effet de l'attraction de ses planètes en mesurant le décalage spectral de la lumière de l'étoile:
 
-{{< figure src="images/ea9fccaf7a0729ae71bb52e3c857d0e8.gif" alt="Crédit : Observatoire de Paris / ASM Emmanuel Pécontal" caption="Crédit : Observatoire de Paris / ASM Emmanuel Pécontal" link="http://media4.obspm.fr/exoplanetes/pages_detection/detectee.html" align="aligncenter" width="490" >}}
+{{< figure src="./images/ea9fccaf7a0729ae71bb52e3c857d0e8.gif" alt="Crédit : Observatoire de Paris / ASM Emmanuel Pécontal" caption="Crédit : Observatoire de Paris / ASM Emmanuel Pécontal" link="http://media4.obspm.fr/exoplanetes/pages_detection/detectee.html" align="aligncenter" width="490" >}}
 
 En 1995, la première planète extra-solaire [51 Pegasi b](w:) a été découverte par [Michel Mayor](w:) et [Didier Queloz](w:) de l'Observatoire de Genève à partir de ces mesures des variations de la vitesse de l'étoile :
 
-{{< figure src="images/dc31e47fa6baa78f35cedd6ebb521b67.gif" alt="Variations de vitesse radiale de l'étoile 51 Peg (Crédit : CNES)" caption="Variations de vitesse radiale de l'étoile 51 Peg (Crédit : CNES)" link="http://media4.obspm.fr/exoplanetes/pages_corot-histoire/premiere-exoplanete.html" align="aligncenter" width="300" >}}
+{{< figure src="./images/dc31e47fa6baa78f35cedd6ebb521b67.gif" alt="Variations de vitesse radiale de l'étoile 51 Peg (Crédit : CNES)" caption="Variations de vitesse radiale de l'étoile 51 Peg (Crédit : CNES)" link="http://media4.obspm.fr/exoplanetes/pages_corot-histoire/premiere-exoplanete.html" align="aligncenter" width="300" >}}
 
 En tournant en 4 jours seulement autour de son étoile alors que sa masse est la moitié de celle de Jupiter, 51 Pegasi b  fait varier la vitesse de son étoile de ±60 m/s, et en 1995 on était capables de mesurer ceci avec une précision de l'ordre de  ±8 m/s.
 
@@ -47,7 +47,7 @@ Aujourd'hui, l'instrument [HARPS](http://www.eso.org/sci/facilities/lasilla/inst
 
 Cette technique est théoriquement capable de détecter aujourd'hui des planètes de la taille de la Terre, mais seulement si leur orbite les conduit par chance exactement sur l'axe entre nous et l'étoile. Des instruments comme [SuperWASP](w:) ou le récent satellite [Corot](http://sci.esa.int/science-e/www/area/index.cfm?fareaid=39) sont  capables de mesurer la minuscule éclipse qui se produit alors, et de déterminer ainsi le diamètre de la planète, une information que ne fournit pas la vitesse radiale. En février 2009, Corot a ainsi détecté [CoRoT-7b](w:), une planète de 5 masses solaires seulement, un record...
 
-{{< figure src="images/f4c6f555ad215cb83607de812edd9a70.jpg" alt="vue d'artiste du transit de CoRot-7b devant son étoile. On est capables de mesurer nettement la baisse de luminosité..." caption="vue d'artiste du transit de CoRot-7b devant son étoile. On est capables de mesurer nettement la baisse de luminosité..." link="http://fr.wikipedia.org/wiki/CoRoT-7b" align="aligncenter" width="351" >}}
+{{< figure src="./images/f4c6f555ad215cb83607de812edd9a70.jpg" alt="vue d'artiste du transit de CoRot-7b devant son étoile. On est capables de mesurer nettement la baisse de luminosité..." caption="vue d'artiste du transit de CoRot-7b devant son étoile. On est capables de mesurer nettement la baisse de luminosité..." link="http://fr.wikipedia.org/wiki/CoRoT-7b" align="aligncenter" width="351" >}}
 
 Mais deux mois plus tard, HARPS reprend la tête de la course avec la découverte de [Gliese 581 e](w:), qui ne fait que 2 masses terrestres, mais orbite extrêmement près de [Gliese 581](http://media4.obspm.fr/exoplanetes/base/systeme.php?etoile=Gl+581), une étoile 3x plus légère que le Soleil et très peu lumineuse. HARPS y a découvert [4 petites planètes](http://media4.obspm.fr/exoplanetes/base/systeme.php?etoile=Gl+581), dont 2 traversent la zone habitable.
 
@@ -55,7 +55,7 @@ Aujourd'hui et demain, de [nombreuses expériences](http://exoplanet.eu/searches
 
 Parmi ces "méthodes spéciales", l'une mérite d'être citée ici car elle a permis la détection de petites exoplanètes en 1992 déjà, 3 ans avant la découverte de Pegase 51b par mes compatriotes. Il s'agit de l'étude par [Alexander Wolszczan](w:) du pulsar  [PSR B1257+12](w:). Ce minuscule résidu de supernova  tourne sur lui-même en 6.219 millisecondes, émettant un signal radio d'une régularité qui devrait être parfaite, mais se trouve perturbé par 4 ou 5 planètes, dont [une de la taille de la Lune](http://www.extrasolar.net/planettour.asp?StarCatId=&PlanetId=26).
 
-{{< figure src="images/1b8493678ced45ef3f727127b9cfcdb2.gif" alt="Période du pulsar PSR B1257+12" caption="Période du pulsar PSR B1257+12" link="http://www.extrasolar.net/planettour.asp?StarCatId=&PlanetId=27" align="aligncenter" width="320" >}}
+{{< figure src="./images/1b8493678ced45ef3f727127b9cfcdb2.gif" alt="Période du pulsar PSR B1257+12" caption="Période du pulsar PSR B1257+12" link="http://www.extrasolar.net/planettour.asp?StarCatId=&PlanetId=27" align="aligncenter" width="320" >}}
 
 Il ne fait pas bon vivre à proximité d'un pulsar, mais PSR B1257+12 nous indique que des planètes se forment partout, et qu'avec un peu de chance et beaucoup d'astuce, on pourra très bientôt découvrir des Terres lointaines. Et elles seront probablement nombreuses : aujourd'hui on estime que 20% des étoiles au moins ont des planètes. Certains chercheurs pensent que ce pourcentage pourrait être de 60% pour les étoiles comparables au Soleil, et il y en a beaucoup.
 

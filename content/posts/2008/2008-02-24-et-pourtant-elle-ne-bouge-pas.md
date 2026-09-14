@@ -6,12 +6,12 @@ categories:
   - "Comment"
 tags: 
   - "illusion"
-coverImage: "e91afe415bce9939c7d675ea8fbd877d.jpg"
+coverImage: "./images/e91afe415bce9939c7d675ea8fbd877d.jpg"
 ---
 
 Trouvé cette superbe [illusion d'optique ici:](http://www.moillusions.com/2007/12/3-moving-patterns-optical-illusion.html)
 
-![](images/e91afe415bce9939c7d675ea8fbd877d.jpg)
+![](./images/e91afe415bce9939c7d675ea8fbd877d.jpg)
 
 Spectaculaire, n'est-ce pas ? (papa, ça marche aussi sur les daltoniens ?)
 

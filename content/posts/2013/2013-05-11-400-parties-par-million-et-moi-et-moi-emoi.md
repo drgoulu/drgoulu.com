@@ -11,7 +11,7 @@ tags:
   - "monde"
   - "politique"
   - "rechauffement"
-coverImage: "382eab9bc9a7fb3838c9a892ac66c40b.png"
+coverImage: "./images/382eab9bc9a7fb3838c9a892ac66c40b.png"
 ---
 
 Ca y'est, la concentration de CO2 dans l'atmosphère a atteint 400 [ppm](w:partie_par_million) soit 0.04%. Ca n'était plus arrivé depuis le [pliocène](w:), il y a environ 3 millions d'années. On ne sait pas vraiment ce qui a fait augmenter le CO2 à l'époque, mais pour aujourd'hui on sait : c'est nous, sans [aucun doute](/2007/05/23/faq-rechauffement-global/).
@@ -26,7 +26,7 @@ Pour ma part, cette nouvelle m'a fait penser à cette chanson de Jacques Dutronc
 
 Cynique ? Egoïste ? Je préfère réaliste : cette chanson met le doigt sur deux facteurs humains essentiels:
 
-{{< figure src="images/7575e88ce0fcaba1431e589d3d202e4e.jpg" alt="Il y a plus de gens qui vivent dans ce cercle qu'en dehors" caption="Il y a plus de gens qui vivent dans ce cercle qu'en dehors" width="300" >}}
+{{< figure src="./images/7575e88ce0fcaba1431e589d3d202e4e.jpg" alt="Il y a plus de gens qui vivent dans ce cercle qu'en dehors" caption="Il y a plus de gens qui vivent dans ce cercle qu'en dehors" width="300" >}}
 
 1. on veut notre petit confort
 2. la démographie
@@ -43,7 +43,7 @@ Chaque côté du signe égal contient la quantité de gaz émise par année, que
 
 on obtient ceci, à apprendre par coeur pour la prochaine fois:
 
-![](images/kaya.gif)
+![](./images/kaya.gif)
 
 L'intérêt de l'équation de Kaya, c'est que les 3 fractions qui se multiplient à droite correspondent à des indicateurs économiques:
 
@@ -53,7 +53,7 @@ L'intérêt de l'équation de Kaya, c'est que les 3 fractions qui se multiplient
 
 Et puis il y a le facteur POPulation. Or voici comment ont évolué ces 4 facteurs et leur produit (le CO2 émis donc) depuis 1971, qui est presque la date de la chanson de Dutronc (1966):
 
-{{< figure src="images/319c84660b9a4ba43c226a066d5474a3.png" alt="Graphique CC Enescot, Données “CO2 Emissions From Fuel Combustion: Highlights (2011 edition) IEA" caption="Graphique CC Enescot, Données “CO2 Emissions From Fuel Combustion: Highlights (2011 edition)&quot; IEA" link="https://commons.wikimedia.org/wiki/File:Changes_in_components_of_the_Kaya_identity_between_1971-2009._Includes_global_energy-related_carbon_dioxide_emissions,_world_population,_world_GDP_per_capita,_energy_intensity_of_world_GDP_and_carbon_intensity_of_world_energy_use.png" align="aligncenter" width="640" >}}
+{{< figure src="./images/319c84660b9a4ba43c226a066d5474a3.png" alt="Graphique CC Enescot, Données “CO2 Emissions From Fuel Combustion: Highlights (2011 edition) IEA" caption="Graphique CC Enescot, Données “CO2 Emissions From Fuel Combustion: Highlights (2011 edition)&quot; IEA" link="https://commons.wikimedia.org/wiki/File:Changes_in_components_of_the_Kaya_identity_between_1971-2009._Includes_global_energy-related_carbon_dioxide_emissions,_world_population,_world_GDP_per_capita,_energy_intensity_of_world_GDP_and_carbon_intensity_of_world_energy_use.png" align="aligncenter" width="640" >}}
 
 Commençons par les bonnes nouvelles, car il y en a:
 

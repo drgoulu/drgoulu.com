@@ -8,10 +8,10 @@ tags:
   - "fiction"
   - "informatique"
   - "livres"
-coverImage: "7010262-L.jpg"
+coverImage: "./images/7010262-L.jpg"
 ---
 
-{{< figure src="images/7010262-L.jpg" alt="7010262-L" >}}
+{{< figure src="./images/7010262-L.jpg" alt="7010262-L" >}}
 
 Entre le foie gras et les flocons, j'ai dévoré "Das System", un thriller technologique de l'allemand Karl Olsberg sur l'apparition d'une intelligence artificielle distribuée sur internet.
 

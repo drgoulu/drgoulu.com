@@ -6,7 +6,7 @@ tags:
 - monde
 - voyage
 draft: true
-coverImage: "CentralAmer_CanalMap.jpg"
+coverImage: "./images/CentralAmer_CanalMap.jpg"
 ---
 quelques aperçus de notre voyage au [Costa Rica](w:), magnifique destination "nature", mais pas que.
 
@@ -18,7 +18,7 @@ En fait il y a autant de projets de ce type que de pays dans la région [[2]](#r
 
 <figure>
 
-[![CentralAmer\_CanalMap](images/CentralAmer_CanalMap.jpg)](https://siteselection.com/issues/2013/mar/central-america.cfm)
+[![CentralAmer\_CanalMap](./images/CentralAmer_CanalMap.jpg)](https://siteselection.com/issues/2013/mar/central-america.cfm)
 
 <figcaption>
 
@@ -34,7 +34,7 @@ Concrètement, les ports de Limòn et de Caldera sur le Pacifique sont en constr
 
 <figure>
 
-[![](images/Dendrobates_pumilio.jpg)](https://commons.wikimedia.org/wiki/File:Dendrobates_pumilio.jpg)
+[![](./images/Dendrobates_pumilio.jpg)](https://commons.wikimedia.org/wiki/File:Dendrobates_pumilio.jpg)
 
 <figcaption>
 

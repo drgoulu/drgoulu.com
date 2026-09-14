@@ -7,7 +7,7 @@ categories:
 tags: 
   - "physique"
   - "securite"
-coverImage: "SmokeCloak_interno.jpg"
+coverImage: "./images/SmokeCloak_interno.jpg"
 ---
 
 La veille du massacre de Charlie Hebdo, j'ai assisté à la démonstration d'un système de sécurité assez étonnant : un générateur de brouillard. En une dizaine de secondes il remplit une salle d'un brouillard tellement épais qu'il est impossible d'y voir à plus de 20 cm, la lumière tellement diffusée qu'on n'arrive plus à se repérer.

@@ -6,7 +6,7 @@ categories:
   - "Pourquoi"
 tags: 
   - "philosophie"
-coverImage: "aab0620ccf0e707047ccec6c108d88851.jpg"
+coverImage: "./images/aab0620ccf0e707047ccec6c108d88851.jpg"
 ---
 
 Si un petit enfant vous demande "pourquoi il pleut ?", ne vous lancez pas immédiatement sur la physique des nuages car la réponse attendue est peut-être  "pour arroser les plantes".
@@ -20,7 +20,7 @@ La question "pourquoi ?" recouvre donc en langage courant les deux concepts trè
 - "Pour Quoi ?" qui suppose une réponse commençant par "pour" suivi d'une finalité.
 - "Pourquoi ?" qui cherche une cause, donc attend un "parce que", réponse suivie souvent d'un autre "pourquoi ... ?" remontant à la cause de la cause. C'est le principe des "[5 pourquois de Toyota"](w:Cinq_pourquoi). (\*)
 
-![](images/aab0620ccf0e707047ccec6c108d8885.jpg)Mais en pratique, il est très difficile de remonter à la "cause première" sans invoquer une finalité. Voyons ceci avec la célèbre photo ci-contre. Pourquoi ce soldat meurt-il ? Parce qu'une balle l'a transpercé. Pourquoi ? parce qu'un ennemi lui a tiré dessus. Pourquoi ? parce que l'un occupait le Vietnam de l'autre. Pourquoi ? parce que le gouvernement américain avait décidé de défendre le gentils du Sud contre les méchants du Nord. Là on est déjà en train de mélanger cause et but. Encore un "pourquoi ?" et on est à court de causes, condamnés à répondre par un but : "pour ...." (je ne me risquerai pas à proposer de réponse, comme scientifique, ce sont les causes qui m'intéressent...) La réponse proposée au bas de cette variante de l'affiche est exemplaire à ce titre : Le mot anglais "because" signifie "parce que" mais souligne la notion de cause alors que la proposition "il y a de l'argent à faire" dénote clairement un but supposé.
+![](./images/aab0620ccf0e707047ccec6c108d8885.jpg)Mais en pratique, il est très difficile de remonter à la "cause première" sans invoquer une finalité. Voyons ceci avec la célèbre photo ci-contre. Pourquoi ce soldat meurt-il ? Parce qu'une balle l'a transpercé. Pourquoi ? parce qu'un ennemi lui a tiré dessus. Pourquoi ? parce que l'un occupait le Vietnam de l'autre. Pourquoi ? parce que le gouvernement américain avait décidé de défendre le gentils du Sud contre les méchants du Nord. Là on est déjà en train de mélanger cause et but. Encore un "pourquoi ?" et on est à court de causes, condamnés à répondre par un but : "pour ...." (je ne me risquerai pas à proposer de réponse, comme scientifique, ce sont les causes qui m'intéressent...) La réponse proposée au bas de cette variante de l'affiche est exemplaire à ce titre : Le mot anglais "because" signifie "parce que" mais souligne la notion de cause alors que la proposition "il y a de l'argent à faire" dénote clairement un but supposé.
 
 L'idée selon laquelle un but peut devenir une cause choque le scientifique parce qu'elle inverse le principe sacro-saint de la causalité : en physique, les causes précèdent les conséquences (du moins si le temps est irréversible...). La démarche scientifique ne concerne donc que le "pourquoi" sans espace : la recherche "pure" ne recherche que les causes qui font que les choses sont  comme elles sont, et pas autrement.
 

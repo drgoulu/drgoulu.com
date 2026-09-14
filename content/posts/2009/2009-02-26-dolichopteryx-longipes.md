@@ -8,14 +8,14 @@ tags:
   - "biologie"
   - "darwin"
   - "optique"
-coverImage: "9020ed842e239dc732829439968cf4fa-1.jpg"
+coverImage: "./images/9020ed842e239dc732829439968cf4fa-1.jpg"
 ---
 
 2009 est l'année Darwin, et aussi l'année de l'Astronomie. Et voici qu'une découverte toute récente \[1\] rapproche en quelque sorte ces domaines sous la forme d'un poisson des profondeurs : [Dolichopteryx longipes](w:).
 
 Ce poisson de 18 cm vit vers 1000m de profondeur connu depuis 1888, mais ce n'est que récemment que Hans-Joachim Wagner a réussi à en capturer un exemplaire vivant. Il a ainsi pu examiner de plus près les étranges yeux de cet animal et a fait une découverte stupéfiante :
 
-{{< figure src="images/9020ed842e239dc732829439968cf4fa.jpg" alt="illustration de l'article (1)" caption="illustration de l'article (1)" align="aligncenter" width="450" >}}
+{{< figure src="./images/9020ed842e239dc732829439968cf4fa.jpg" alt="illustration de l'article (1)" caption="illustration de l'article (1)" align="aligncenter" width="450" >}}
 
 La lumière n'est pas focalisée par réfraction par un cristallin comme tous les yeux des vertébrés connus, mais par réflexion sur un miroir concave, comme dans un télescope !
 

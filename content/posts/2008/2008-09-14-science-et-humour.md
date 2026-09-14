@@ -5,7 +5,7 @@ date: 2008-09-14
 tags: 
   - "humour"
   - "science"
-coverImage: "73cdc07ec250ae994f1b31b082fbe837.jpg"
+coverImage: "./images/73cdc07ec250ae994f1b31b082fbe837.jpg"
 ---
 
 C'est assez facile de faire rire des scientifiques ou des ingénieurs, car ils sont sensibles à de nombreuses formes d'humour.
@@ -36,7 +36,7 @@ Les [lois de Murphy](http://www.courtois.cc/murphy/murphy.html) sont les plus co
 
 #### les devises Shadok
 
-![](images/73cdc07ec250ae994f1b31b082fbe837.jpg)Depuis 1968, les extraterrestres surréalistes de Jacques Rouxel continuent d'émailler les conversations de scientifiques et d'ingénieurs avec leurs devises célèbres, comme:
+![](./images/73cdc07ec250ae994f1b31b082fbe837.jpg)Depuis 1968, les extraterrestres surréalistes de Jacques Rouxel continuent d'émailler les conversations de scientifiques et d'ingénieurs avec leurs devises célèbres, comme:
 
 - pourquoi faire simple quand on peut faire compliqué ? (oui, c'est bien des Shadoks, à l'origine ...)
 - s'il n'y a pas de solution, c'est qu'il n'y a pas de problème.

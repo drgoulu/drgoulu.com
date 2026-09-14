@@ -8,12 +8,12 @@ tags:
   - "futur"
   - "informatique"
   - "software"
-coverImage: "5f191d5b335e83fb624df1763b405414.jpg"
+coverImage: "./images/5f191d5b335e83fb624df1763b405414.jpg"
 ---
 
 Au début, tout était clair : un ordinateur était un assemblage de circuits électroniques formant le [hardware](w:Matériel_(informatique)), piloté par du [software](w:Logiciel) définissant la séquence d'opérations à effectuer. Et puis tout est devenu compliqué.
 
-{{< figure src="images/5f191d5b335e83fb624df1763b405414.jpg" alt="Charles Babbage, inventeur de la première machine programmable, et Ada Lovelace, auteur du premier logiciel" caption="Charles Babbage, inventeur de la première machine programmable, et Ada Lovelace, auteur du premier logiciel" align="aligncenter" width="340" >}}
+{{< figure src="./images/5f191d5b335e83fb624df1763b405414.jpg" alt="Charles Babbage, inventeur de la première machine programmable, et Ada Lovelace, auteur du premier logiciel" caption="Charles Babbage, inventeur de la première machine programmable, et Ada Lovelace, auteur du premier logiciel" align="aligncenter" width="340" >}}
 
 D'une part, pour réaliser des opérations plus complexes, il est apparu plus simple de les "[microprogrammer](w:Microprogrammation)" : les puces des processeurs incorporent du logiciel "figé" qui décompose chaque instruction du [langage machine](w:) en opérations encore plus simples.
 
@@ -23,6 +23,6 @@ Les circuits "PLD" peuvent être programmés une fois pour toutes, éventuelleme
 
 L'étape suivante pourrait être de les reprogrammer en fonctionnement. C'est ce que propose l'entreprise [Tabula](http://www.tabula.com/) avec sa technologie "3D Spacetime" incarnée dans ses circuits [ABAX](http://www.tabula.com/products/overview.php) . Ces circuits peuvent être reprogrammés des milliers de fois par seconde et peuvent donc réaliser sur une seule puce des fonctions qui auraient nécessité plusieurs circuits très différents.
 
-![](images/59231ce74f91f545cd77ad5ea6c2f1cf.jpg)En quelque sort, Tabula réalise l'équivalent de puces "multicouches" en empilant des surfaces de silicium selon la dimension du temps.  On peut objecter que ceci réduit d'autant la vitesse des circuits, mais d'autre part, on peut optimiser la surface de silicium réellement utilisée à chaque étape, par exemple pour traiter plus de données en parallèle. Point non négligeable, cette technologie réduit aussi beaucoup le coût de l'interconnexion des puces : on remplace des connecteurs en or et du circuit imprimés multicouches par des bits de données. Bientôt un PC au format d'une boite d'allumette, voire au même prix ?
+![](./images/59231ce74f91f545cd77ad5ea6c2f1cf.jpg)En quelque sort, Tabula réalise l'équivalent de puces "multicouches" en empilant des surfaces de silicium selon la dimension du temps.  On peut objecter que ceci réduit d'autant la vitesse des circuits, mais d'autre part, on peut optimiser la surface de silicium réellement utilisée à chaque étape, par exemple pour traiter plus de données en parallèle. Point non négligeable, cette technologie réduit aussi beaucoup le coût de l'interconnexion des puces : on remplace des connecteurs en or et du circuit imprimés multicouches par des bits de données. Bientôt un PC au format d'une boite d'allumette, voire au même prix ?
 
 Plus ça avance, plus la [Loi de Moore](/2008/06/19/moore-toujours/) me semble avoir encore de beaux jours devant elle. Merci à Malcolm pour avoir renforcé mon optimisme en me parlant de Tabula. Et peut-être bien que j'achèterai quelques actions quand ils seront cotés...

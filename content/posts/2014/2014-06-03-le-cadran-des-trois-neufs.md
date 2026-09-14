@@ -8,10 +8,10 @@ tags:
   - "casse-tetes"
   - "maths"
   - "nombres"
-coverImage: "horloge3x9.jpg"
+coverImage: "./images/horloge3x9.jpg"
 ---
 
-{{< figure src="images/horloge3x9-294x300.jpg" alt="horloge3x9" >}}
+{{< figure src="./images/horloge3x9-294x300.jpg" alt="horloge3x9" >}}
 
 _(Mises à jour du 4+5 juin: Bravo à ced, Danakh et Groug dont les commentaires m'ont convaincu que j'aurais du [réutiliser mon code](/2012/01/18/jeu-de-lannee-2012-et-autres-cest-fini/#.U48_Evn90wA)... Je me vois contraint de mettre à jour l'article avec leurs découvertes. Et j'en profite pour tester [MathJax](http://www.mathjax.org/) pour le rendu des formules. C'est nettement plus joli qu'avant, non ?)_
 

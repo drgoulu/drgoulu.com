@@ -12,10 +12,10 @@ tags:
   - "optique"
   - "physique"
   - "traduction"
-coverImage: "f27bb316dce873819e14d3686b47616e.jpg"
+coverImage: "./images/f27bb316dce873819e14d3686b47616e.jpg"
 ---
 
-[![](images/f27bb316dce873819e14d3686b47616e.jpg)](/wp-content/uploads/HLIC/f27bb316dce873819e14d3686b47616e.jpg "<br clear=\"all\"><p><strong>Introduction</strong></p> <p>On April 24, 1990, the Space Shuttle <em>Discovery</em> roared into space, carrying on board a revolution: The Hubble Space Telescope. It was the largest and most sensitive optical-light telescope ever launched into space, and while it suffered initially from a focusing problem, it would soon return some of the most amazing and beautiful astronomical images anyone had ever seen. </p> <p> Hubble was designed to be periodically upgraded, and even as I write this, astronauts are in the Space Shuttle <em>Atlantis</em> installing two new cameras, fixing two others, and replacing a whole slew of Hubble's parts. This is the last planned mission, ever, to service the venerable 'scope, so what better time to talk about it?</p> <p> Plus, it's arguably the world's most famous telescope (it's probably the only one people know by name), and yet I suspect that there are lots of things about it that might surprise you. So I present to you Ten Things You Don't Know About the Hubble Space Telescope, part of my <a href=\"http://blogs.discovermagazine.com/badastronomy/category/10-things/\">Ten Things series</a>. I know, my readers are smart, savvy, exceptionally good-looking, and well-versed in things astronomical. Whenever I do a Ten Things post some goofball always claims they knew all ten. But I am extremely close to being 100% positive that no one who reads this blog will know <em>all</em> ten things here (unless they've used Hubble themselves). I have one or two big surprises in this one, including some of my own personal interactions with the great observatory!</p> <p> So enjoy. Use the nav buttons under the pictures to go through the gallery, and see how well you score. Note: due to a software glitch with the gallery, the commenting has been turned off temporarily for this blog post. It will be turned back on soon. My apologies.</p>")J'ignorais aussi  beaucoup de choses sur le vénérable mais extraordinaire télescope spatial avant de lire [cet article de Phil Plait, le "Bad Astronomer",](http://blogs.discovermagazine.com/badastronomy/2009/05/13/ten-things-you-dont-know-about-hubble/) que je résume ici en français pour vous :
+[![](./images/f27bb316dce873819e14d3686b47616e.jpg)](./images/f27bb316dce873819e14d3686b47616e.jpg "<br clear=\"all\"><p><strong>Introduction</strong></p> <p>On April 24, 1990, the Space Shuttle <em>Discovery</em> roared into space, carrying on board a revolution: The Hubble Space Telescope. It was the largest and most sensitive optical-light telescope ever launched into space, and while it suffered initially from a focusing problem, it would soon return some of the most amazing and beautiful astronomical images anyone had ever seen. </p> <p> Hubble was designed to be periodically upgraded, and even as I write this, astronauts are in the Space Shuttle <em>Atlantis</em> installing two new cameras, fixing two others, and replacing a whole slew of Hubble's parts. This is the last planned mission, ever, to service the venerable 'scope, so what better time to talk about it?</p> <p> Plus, it's arguably the world's most famous telescope (it's probably the only one people know by name), and yet I suspect that there are lots of things about it that might surprise you. So I present to you Ten Things You Don't Know About the Hubble Space Telescope, part of my <a href=\"http://blogs.discovermagazine.com/badastronomy/category/10-things/\">Ten Things series</a>. I know, my readers are smart, savvy, exceptionally good-looking, and well-versed in things astronomical. Whenever I do a Ten Things post some goofball always claims they knew all ten. But I am extremely close to being 100% positive that no one who reads this blog will know <em>all</em> ten things here (unless they've used Hubble themselves). I have one or two big surprises in this one, including some of my own personal interactions with the great observatory!</p> <p> So enjoy. Use the nav buttons under the pictures to go through the gallery, and see how well you score. Note: due to a software glitch with the gallery, the commenting has been turned off temporarily for this blog post. It will be turned back on soon. My apologies.</p>")J'ignorais aussi  beaucoup de choses sur le vénérable mais extraordinaire télescope spatial avant de lire [cet article de Phil Plait, le "Bad Astronomer",](http://blogs.discovermagazine.com/badastronomy/2009/05/13/ten-things-you-dont-know-about-hubble/) que je résume ici en français pour vous :
 
 ### 1 Hubble a pris la photo la moins lumineuse\*
 
@@ -33,7 +33,7 @@ Ca ne marche pas à tous les coups : en 1999 on a voulu observer [l'impact de Lu
 
 En fait Hubble a observé la Terre des milliers de fois, tout simplement pour calibrer ses cameras !  En orbitant à 8 km/s, la Terre défile à toute vitesse. De plus, elle est trop près pour qu'Hubble puisse mettre au point, ce qui fait que les images de la Terre sont floues et "sillonnées". Mais on peut les [traiter mathématiquement](http://stsdas.stsci.edu/cgi-bin/gethelp.cgi?streakflat) pour obtenir la sensibilité de chaque pixel de la camera.
 
-![](images/e98ef205-34c1-4661-bde1-297d6f83eb09.jpg)
+![](./images/e98ef205-34c1-4661-bde1-297d6f83eb09.jpg)
 
 ### 4 Hubble a même observé le Soleil !
 
@@ -67,7 +67,7 @@ Il faut dire qu'en anglais on utilise le terme "telescope" également pour une [
 
 Hubble est un "[reflecting telescope](w:en)"  doté d'un miroir de 2.4 mètres, le plus grand jamais hissé en orbite :
 
-[![](images/59e26ef784a9143e893f22b5e9dbd348.jpg)](http://hubblesite.org/gallery/spacecraft/22/)
+[![](./images/59e26ef784a9143e893f22b5e9dbd348.jpg)](http://hubblesite.org/gallery/spacecraft/22/)
 
 En fait même les caméras utilisent des miroirs plutôt que des lentilles, qui absorberaient un peu de lumière mais surtout causeraient de l'[aberration chromatique](w:).
 
@@ -83,7 +83,7 @@ En octobre 1997, Hubble était pointé sur le Grand Nuage de Magellan. La camér
 
 La majorité du temps, il n'y voyait rien de spécial. mais un jour il vit ceci :
 
-[![](images/da1fea42ace6e73f3c34e962482466eb.jpg)](http://blogs.discovermagazine.com/badastronomy/2009/05/13/ten-things-you-dont-know-about-hubble/?pid=55)
+[![](./images/da1fea42ace6e73f3c34e962482466eb.jpg)](http://blogs.discovermagazine.com/badastronomy/2009/05/13/ten-things-you-dont-know-about-hubble/?pid=55)
 
 La tache floue est une "nébuleuse planétaire", un nuage de gaz émais par une étoile mourante, Malheureusement elle avait été découverte précédemment et ne s'appelle donc pas "nébuleuse Phil Plait", mais il put cependant en tirer quelques conclusions du spectre de l'objet dans une [publication.](http://www.jstor.org/cookieabsent.html)
 

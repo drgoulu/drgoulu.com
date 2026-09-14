@@ -6,14 +6,14 @@ tags:
   - "jeux"
   - "programmation"
   - "relativite"
-coverImage: "ae9e48fdb3c692961dc7bf4fc6b58511.jpg"
+coverImage: "./images/ae9e48fdb3c692961dc7bf4fc6b58511.jpg"
 ---
 
 Relativity was discovered in 1905 by Albert Einstein and describes a world full of surpises and strange effects \[1\] which have not been exploited in movies or computer games so far.
 
 Graphically, simulating fast moving spaceships or simply a world where light moves much slower than 300'000 km/s generates interesting visual effects:
 
-- objects are deformed as in picture+movie below, which makes them harder to identify quickly [![](images/ae9e48fdb3c692961dc7bf4fc6b58511.jpg) (click on picture to see the movie)](http://www.spacetimetravel.org/filme/tue2/tue2.avi)
+- objects are deformed as in picture+movie below, which makes them harder to identify quickly [![](./images/ae9e48fdb3c692961dc7bf4fc6b58511.jpg) (click on picture to see the movie)](http://www.spacetimetravel.org/filme/tue2/tue2.avi)
 - their color is altered, enabling to visualize their speed
 - the field of vision becomes restricted to the direction of displacement
 

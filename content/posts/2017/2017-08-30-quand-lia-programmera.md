@@ -6,7 +6,7 @@ tags:
 - intelligence-artificielle
 - programmation
 draft: true
-coverImage: "singularity.png"
+coverImage: "./images/singularity.png"
 ---
 Alexandre a partagé sur cette vidéo montrant une Intelligence Artificielle qui fait de meilleurs diagnostics médicaux que des spécialistes :
 
@@ -32,7 +32,7 @@ http://www.futura-sciences.com/tech/actualites/informatique-deepcoder-ia-microso
 
 https://interstices.info/jcms/p\_94538/regard-sur-le-mythe-de-la-singularite-faut-il-craindre-l-intelligence-artificielle
 
-![](images/singularity.png)
+![](./images/singularity.png)
 
 https://futurism.com/ibm-just-achieved-a-deep-learning-breakthrough/
 

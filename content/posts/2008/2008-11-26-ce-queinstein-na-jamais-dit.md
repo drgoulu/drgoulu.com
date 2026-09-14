@@ -11,12 +11,12 @@ tags:
   - "psychologie"
   - "science"
   - "societe"
-coverImage: "34e3375c6619c64684ebff553b32f69d.jpg"
+coverImage: "./images/34e3375c6619c64684ebff553b32f69d.jpg"
 ---
 
 L'autre jour, un titre de journal de boulevard a retenu mon attention : "_Ce que Cécilia n'a jamais dit_". Merveilleux : un article entier sur ce qu'une célébrité n'a pas dit !  Ca laisse songeur ... Puis Annick m'a expliqué que l'article est un interview ou elle révèle des choses qu'elle n'avait jamais dites avant. Ah! Trop facile... Je peux faire mieux!
 
-![](images/memes-with-quotes-ive-never-said.jpg)Voici donc un article sur ce qu'Einstein n'a jamais dit, et ne dira jamais, mais qu'un grand nombre de personnes croient qu'il a dit.
+![](./images/memes-with-quotes-ive-never-said.jpg)Voici donc un article sur ce qu'Einstein n'a jamais dit, et ne dira jamais, mais qu'un grand nombre de personnes croient qu'il a dit.
 
 Commençons par la pire "citation" d'Einstein:
 

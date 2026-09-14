@@ -6,7 +6,7 @@ categories:
   - "Pourquoi"
 tags: 
   - "temps"
-coverImage: "3016524792_cdb7edf4c8_m.jpg"
+coverImage: "./images/3016524792_cdb7edf4c8_m.jpg"
 ---
 
 Malgré les fantastiques progrès de la physique depuis la théorie de la relativité et l'avènement de la mécanique quantique, le débat fait toujours rage autour de la question "**qu'est-ce que le temps?**"
@@ -28,7 +28,7 @@ Dans la sa version la plus simplifiée,  l'Univers-bloc ressemble à un "flipbo
 
 Si on considère le  "flipbook" comme un "univers" à 2 dimensions spatiales (où l'on dessine) + 1 temporelle (les pages qu'on feuillette) , on peut imaginer l'Univers-bloc comme ayant 3 dimensions spatiales,plus la fameuse 4ème dimension du temps.  Le "présent" ne serait alors qu'une "tranche" à 3 dimensions traversant l'Univers selon l'axe du temps à la vitesse d'une seconde par seconde.
 
-![](images/88c60e6a18c4653a5060e68e9512d470.png)L'Univers-bloc est une solution de l'[équation d'Einstein](w:), dans lequel [le temps est une 4ème dimension imaginaire](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/ "le temps, une 4ème dimension imaginaire") au sens mathématique du terme. Ceci permet de très bien décrire la relativité, au point que Ken Wharton considère dans "[Lessons from the Block Universe"](http://fqxi.org/community/forum/topic/311) ,  que
+![](./images/88c60e6a18c4653a5060e68e9512d470.png)L'Univers-bloc est une solution de l'[équation d'Einstein](w:), dans lequel [le temps est une 4ème dimension imaginaire](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/ "le temps, une 4ème dimension imaginaire") au sens mathématique du terme. Ceci permet de très bien décrire la relativité, au point que Ken Wharton considère dans "[Lessons from the Block Universe"](http://fqxi.org/community/forum/topic/311) ,  que
 
 > L'univers-bloc est de loin le meilleur cadre (framework) pour les théories physiques, du fait que la relativité générale est simplement incompatible avec toute alternative
 

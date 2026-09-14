@@ -9,16 +9,16 @@ tags:
   - "humour"
   - "maths"
   - "pi"
-coverImage: "1280px-Engadiner_Nusstorte2.jpg"
+coverImage: "./images/1280px-Engadiner_Nusstorte2.jpg"
 ---
 
-{{< figure src="images/1280px-Engadiner_Nusstorte2.jpg" alt="3 pi/2 de Nusstorte je vous prie - Je vous en mets 3/4 de tau, ça vous ira ?" caption="3 pi/2 de Nusstorte je vous prie - Je vous en mets 3/4 de tau, ça vous ira ?" link="https://fr.wikipedia.org/wiki/Journ%C3%A9e_de_pi" width="320" >}}
+{{< figure src="./images/1280px-Engadiner_Nusstorte2.jpg" alt="3 pi/2 de Nusstorte je vous prie - Je vous en mets 3/4 de tau, ça vous ira ?" caption="3 pi/2 de Nusstorte je vous prie - Je vous en mets 3/4 de tau, ça vous ira ?" link="https://fr.wikipedia.org/wiki/Journ%C3%A9e_de_pi" width="320" >}}
 
 Oui je sais, certains fêtent la [journée de pi](w:) aujourd'hui, puisque le 14 mars se note 3.14 aux USA. Et comme nous sommes en 2016, c'est même 3.1416 . Et en prime Gilles nous a fait déguster une délicieuse [Nusstorte des Grisons](w:en:Bündner_Nusstorte) bien ronde.
 
 Mais je ne suis pas parvenu à me réjouir pleinement car depuis quelques temps un doute me ronge : et si π était faux ?
 
-C'est ce que suggère un article de 2001, "Pi est faux!" [[1]](#ref-1). Son auteur Bob Palais ne prétend évidemment pas que la valeur de pi soit fausse, mais plutôt que sa définition soit boiteuse et propose d'utiliser plutôt la constante ![\\pi\\!\\;\\!\\!\\!\\pi](images/d705915ba2b7160ed35448c4709c99a9.png) =2π . Son idée a toutes les apparences d'un canular, mais elle a pourtant été appuyée par une partie de la communauté de mathématiciens, surtout depuis que le bizarre symbole "newpi" a été remplacé par la lettre grecque τ (tau).
+C'est ce que suggère un article de 2001, "Pi est faux!" [[1]](#ref-1). Son auteur Bob Palais ne prétend évidemment pas que la valeur de pi soit fausse, mais plutôt que sa définition soit boiteuse et propose d'utiliser plutôt la constante ![\\pi\\!\\;\\!\\!\\!\\pi](./images/d705915ba2b7160ed35448c4709c99a9.png) =2π . Son idée a toutes les apparences d'un canular, mais elle a pourtant été appuyée par une partie de la communauté de mathématiciens, surtout depuis que le bizarre symbole "newpi" a été remplacé par la lettre grecque τ (tau).
 
 Le "Tau manifesto" [[2]](#ref-2) de Michael Hartl donne pas mal de bonnes raisons à l'introduction de τ=2π.
 
@@ -31,7 +31,7 @@ Le "Tau manifesto" [[2]](#ref-2) de Michael Hartl donne pas mal de bonnes rai
     - mais en 1706 [William Jones](w:William_Jones_(mathématicien)) utilisa le symbole π comme rapport du périmètre au diamètre, et [Euler](w:) réutilisa cette notation dans son traité de 1737 qui fit autorité, jusqu'à aujourd'hui
 - car enfin, pourquoi considérer le diamètre d'un cercle alors que toutes les équations usuelles du [cercle](w:), du [cylindre](w:) du [cône de révolution](w:cône_(géométrie)) et de la [sphère](w:) utilisent le rayon ?
 
-[![](images/pi_vs_tau.png)](http://www.xkcd.com/1292/)Les mathématiques étant une science vivante, peut-être bien que les tau-istes l'emporteront à la longue sur les pi-istes. En attendant, saluons la tentative de compromis de XKCD proposant la constante pau. Hélas sa valeur (4.71238898038468985769...) n'est pas très propice aux anniversaires à deux décimales. Je préfère donc fêter le [Tau Day](http://tauday.com/) le 28 juin avec une deuxième Nusstorte !
+[![](./images/pi_vs_tau.png)](http://www.xkcd.com/1292/)Les mathématiques étant une science vivante, peut-être bien que les tau-istes l'emporteront à la longue sur les pi-istes. En attendant, saluons la tentative de compromis de XKCD proposant la constante pau. Hélas sa valeur (4.71238898038468985769...) n'est pas très propice aux anniversaires à deux décimales. Je préfère donc fêter le [Tau Day](http://tauday.com/) le 28 juin avec une deuxième Nusstorte !
 
 ### Notes:
 

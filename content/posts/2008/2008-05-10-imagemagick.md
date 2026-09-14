@@ -7,10 +7,10 @@ categories:
 tags: 
   - "graphisme"
   - "programmation"
-coverImage: "test.jpg"
+coverImage: "./images/test.jpg"
 ---
 
-Voici comment générer rapidement et automatiquement des polices de caractères bitmap avec canal alpha, donnant un anti-aliasing parfait quel que soit la texture de fond utilisée. Toutes les polices vectorielles peuvent être utilisées et combinées avec une infinité d'effets graphiques.[![](images/test.jpg)](http://3dmon.wordpress.com/files/2008/05/test.jpg)
+Voici comment générer rapidement et automatiquement des polices de caractères bitmap avec canal alpha, donnant un anti-aliasing parfait quel que soit la texture de fond utilisée. Toutes les polices vectorielles peuvent être utilisées et combinées avec une infinité d'effets graphiques.[![](./images/test.jpg)](http://3dmon.wordpress.com/files/2008/05/test.jpg)
 
 Le logiciel réalisant 99% du travail est [ImageMagick](http://www.imagemagick.org/), un programme de traitement d’images open-source gratuit que je considère comme un "Photoshop sans GUI" : aussi puissant que l'outil d'Adobe, ImageMagick s'utilise uniquement depuis un autre programme, voire simplement la ligne de commande du shell. A installer d'urgence.
 
@@ -23,7 +23,7 @@ Les "params" définissent la police à réaliser:
 - \-background none est essentiel pour dessiner la police sur un fond transparent (canal alpha)
 - \-font Bauhaus-93 définit la police vectorielle à utiliser (dont le nom n'est parfois pas identique à celui apparaissant dans le dossier "Fonts" de Windows...)
 - \-pointsize 72 -density 300 spécifient que la police doit faire 72pt de haut à 300dpi. La taille du bitmap sera donc supérieure à l'écran, mais il pourra être imprimé ou utilisé comme texture dans un jeu 3D ou une démo Demoniak3D avec un résultat d'excellente qualité
-- ![](images/zoomo.png)\-fill blue -blur 0x5 sont deux petits effets de base : on remplit le caractère en bleu, et on adoucit le tracé de la lettre, qui est d'un pixel de noir par défaut. Ceci crée des pixels semi-transparents au bord des caractères, ce qui permet une découpe parfaite des caractères quel que soit le fond, comme on le voit sur le zoom ci-contre:
+- ![](./images/zoomo.png)\-fill blue -blur 0x5 sont deux petits effets de base : on remplit le caractère en bleu, et on adoucit le tracé de la lettre, qui est d'un pixel de noir par défaut. Ceci crée des pixels semi-transparents au bord des caractères, ce qui permet une découpe parfaite des caractères quel que soit le fond, comme on le voit sur le zoom ci-contre:
     
      
 

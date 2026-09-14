@@ -8,10 +8,10 @@ categories:
 tags: 
   - "statistiques"
   - "suisse"
-coverImage: "7118369-L-1.jpg"
+coverImage: "./images/7118369-L-1.jpg"
 ---
 
-{{< figure src="images/7118369-L-1.jpg" alt="Sommes-nous tous des criminels?" >}}
+{{< figure src="./images/7118369-L-1.jpg" alt="Sommes-nous tous des criminels?" >}}
 
 A la radio ce matin j'ai entendu [André Kuhn](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=801466), prof. de criminologie à l'UNIL, donner une petite leçon de "pensée différente" à propos des statistiques de la criminalité en Suisse.
 

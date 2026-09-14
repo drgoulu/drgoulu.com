@@ -7,7 +7,7 @@ categories:
 tags: 
   - "economie"
   - "horlogerie"
-coverImage: "84dcc0146312a9e1ac6b8289cfa434001.jpg"
+coverImage: "./images/84dcc0146312a9e1ac6b8289cfa434001.jpg"
 ---
 
 La réputation de l'horlogerie suisse s'est bâtie pendant plus d'un siècle autour de la légendaire "précision suisse" des montres mécaniques. Le Contrôle Officiel Suisse des Chronomètres ([COSC](http://www.cosc.ch/)) certifie comme "chronomètre" les montres variant de moins de 5 secondes par jour.
@@ -28,7 +28,7 @@ En 1983, les premières montres [Swatch](http://www.swatch.com/) sont en plastiq
 
 Mais le coup de génie c'est le marketing. Les Swatches sont de toutes les couleurs, de plus en plus fun et on en achète plusieurs alors que pour avoir l'heure une suffirait. Des collectionneurs achètent tous les modèles qui sortent. Swatch se met à produire des séries limitées de certaines montres dessinées par des designers célèbres. Toujours en plastique, elles atteignent le prix de montres en or massif.
 
-{{< figure src="images/84dcc0146312a9e1ac6b8289cfa43400.jpg" alt="C'est une Swatch !" caption="C'est une Swatch !" align="alignleft" width="420" >}}
+{{< figure src="./images/84dcc0146312a9e1ac6b8289cfa43400.jpg" alt="C'est une Swatch !" caption="C'est une Swatch !" align="alignleft" width="420" >}}
 
 Puis Swatch se mit se proposer des montres "sans pile", présentant les bons vieux mouvements mécaniques comme une innovation auprès des jeunes ! La précision devient totalement secondaire, d'autant que lorsqu'on possède 10 montres à quartz, il faut pratiquement changer la pile chaque fois qu'on souhaite en porter une autre et la remettre à l'heure de toutes façons.
 
@@ -36,7 +36,7 @@ Le prix des Swatches augmente lentement mais surement, et rejoint même parfois 
 
 Des montres comme la "[Diaphane One Turning Gold](http://horlogerie.wordpress.com/2007/05/14/diaphane-one-turning-gold/)" illustrent l'incroyable évolution de Swatch et d'autres marques suisses : après avoir produit des montres précises en grandes quantités, la Suisse produit maintenant une multitude de modèles d'objets de luxe "Made In switzerland" produits en petite série et dont la fonction "donner l'heure" est devenue presque accessoire
 
-### ![](images/e77b4bb4753b7fa0f6f44a8c3728fefb.jpg)Cindy Crawford
+### ![](./images/e77b4bb4753b7fa0f6f44a8c3728fefb.jpg)Cindy Crawford
 
 La montre est pratiquement le seul "bijou pour homme", ou objet de luxe masculin. Les femmes ont des bracelets, des colliers, des boucles d'oreilles, de belles robes et chaussures. Pourquoi achèteraient-elles en plus des montres ?
 

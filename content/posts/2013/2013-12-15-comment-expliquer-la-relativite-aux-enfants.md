@@ -10,7 +10,7 @@ tags:
   - "pedagogie"
   - "physique"
   - "relativite"
-coverImage: "02845bf1f6f246aac9ffe33aa4576c6e.gif"
+coverImage: "./images/02845bf1f6f246aac9ffe33aa4576c6e.gif"
 ---
 
 > Au fait, sur ton magnifique blog , tu ne pourrais pas nous pondre une explication claire des découvertes d'Einstein, comme si nous étions des enfants de 12 ans ? Pourquoi donc les vitesses ne s'additionnent-elles pas (celle du train et de la bille qui y roule par exemple) et qu'il faut y mettre cette constante c ?
@@ -32,7 +32,7 @@ Hubert Reeves disait à propos de la relativité [[1]](#ref-1):
 
 > La réaction d'un esprit non préparé est normalement : "je ne comprends pas." En fait il n'y a rien à "comprendre": voilà un énoncé qui représente un fait vérifié par l'expérience. On part de là; on n'y arrive pas après raisonnement. On constate le fait, comme on constate l'existence du monde, comme on constate sa propre existence.
 
-{{< figure src="images/1024px-The_Incredulity_of_Saint_Thomas-Caravaggio_(1601-2).jpg" alt="L'incrédulité de St Thomas par Le Caravage, parce que je trouve qu'il va bien là." caption="L'incrédulité de St Thomas par Le Caravage, parce que je trouve qu'il va bien là." link="https://fr.wikipedia.org/wiki/L%27Incr%C3%A9dulit%C3%A9_de_saint_Thomas_%28Le_Caravage%29" width="400" >}}
+{{< figure src="./images/1024px-The_Incredulity_of_Saint_Thomas-Caravaggio_(1601-2).jpg" alt="L'incrédulité de St Thomas par Le Caravage, parce que je trouve qu'il va bien là." caption="L'incrédulité de St Thomas par Le Caravage, parce que je trouve qu'il va bien là." link="https://fr.wikipedia.org/wiki/L%27Incr%C3%A9dulit%C3%A9_de_saint_Thomas_%28Le_Caravage%29" width="400" >}}
 
 Malheureusement on ne constate pas la relativité comme un fait dans la vie quotidienne : il n'existe pas d'expérience permettant de visualiser un effet relativiste dans sa cuisine ou dans une classe primaire. Dans un coûteux labo de physique universitaire on peut commencer à "toucher" la relativité par l'expérience, mais dans une classe primaire on est paradoxalement forcé de travailler à un niveau d'abstraction supérieur, à partir de descriptions d'expériences réalisées par d'autres, et par raisonnement, Ce n'est pas facile, même au niveau de l'enseignement supérieur [[2]](#ref-2).
 
@@ -52,7 +52,7 @@ Le paragraphe suivant est tiré d'un ouvrage fondamental de la physique:
 
 Compris ? Pourtant c'est ainsi que Newton lui-même énonce sa [deuxième loi du mouvement](w:Lois_du_mouvement_de_Newton#Deuxième_loi_de_Newton_ou_principe_fondamental_de_la_dynamique_de_translation) dans ses [Principia Mathematica](w:Philosophiae_Naturalis_Principia_Mathematica) en 1687 (la traduction française date de 1756 [[3]](#ref-3) ). De nos jours, on résume ceci par F = m.a
 
-[![Einstein cartoon](images/02845bf1f6f246aac9ffe33aa4576c6e.gif)](/wp-content/uploads/2013/12/02845bf1f6f246aac9ffe33aa4576c6e.gif)Même le cancre interrogé sur "efégalema" ne parviendra pas à emberlificoter ses explications autant que le grand Newton, pour autant qu'elles soient justes. En 3 siècles, les 803 caractères de la formulation newtonienne destinée à l'élite intellectuelle de son temps ont été réduits à 5 symboles assénés à tous les ados du monde ou presque.
+[![Einstein cartoon](./images/02845bf1f6f246aac9ffe33aa4576c6e.gif)](./images/02845bf1f6f246aac9ffe33aa4576c6e.gif)Même le cancre interrogé sur "efégalema" ne parviendra pas à emberlificoter ses explications autant que le grand Newton, pour autant qu'elles soient justes. En 3 siècles, les 803 caractères de la formulation newtonienne destinée à l'élite intellectuelle de son temps ont été réduits à 5 symboles assénés à tous les ados du monde ou presque.
 
 Et ce n'est pas un cas unique. Même E=m.c² est un raccourci de l'article d'Einstein [[4]](#ref-4) qui disait initialement
 

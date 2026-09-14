@@ -9,10 +9,10 @@ tags:
   - "metrologie"
   - "physique"
   - "relativite"
-coverImage: "RTEmagicC_37564_2011_08_07_Festival_ferme_etoiles_0092_txdam28638_9dd4e4.jpg"
+coverImage: "./images/RTEmagicC_37564_2011_08_07_Festival_ferme_etoiles_0092_txdam28638_9dd4e4.jpg"
 ---
 
-{{< figure src="images/RTEmagicC_37564_2011_08_07_Festival_ferme_etoiles_0092_txdam28638_9dd4e4.jpg" >}}
+{{< figure src="./images/RTEmagicC_37564_2011_08_07_Festival_ferme_etoiles_0092_txdam28638_9dd4e4.jpg" >}}
 
 Sur Quora, il y a souvent des questions stupides. Par exemple, quelqu'un a récemment demandé "[Pourquoi on ne peut techniquement pas mesurer la vitesse de la lumière ?](https://www.quora.com/Why-cant-we-technically-measure-the-speed-of-light)". Au moment où j'hésitais entre "downvoter" la question ou répondre "pfff, ben bien sur qu'on peut!" en étalant ma science sur [Ole Rømer](w:Ole_Christensen_Rømer)  (découvert grâce au livre "[Longitude](/2009/10/04/longitude/)") puisque tout le monde connait déjà l'[expérience de Fizeau](w:), je suis tombé sur [cette réponse](https://www.quora.com/Why-cant-we-technically-measure-the-speed-of-light/answer/Gary-Novosielski?srid=pzDv) qui me colle une baffe : depuis 1983, on ne peut effectivement plus mesurer la vitesse de la lumière !
 

@@ -9,10 +9,10 @@ tags:
   - "futur"
   - "livres"
   - "nucleaire"
-coverImage: "00215804ecc0102f0e333984c4c7439c.png"
+coverImage: "./images/00215804ecc0102f0e333984c4c7439c.png"
 ---
 
-[![L'atome vert : le Thorium](images/c9b0aa118949d31d9ae7a77c59fba459.jpg "View this title in Open Library")](http://openlibrary.org/books/OL25414409M/L'atome_vert)
+[![L'atome vert : le Thorium](./images/c9b0aa118949d31d9ae7a77c59fba459.jpg "View this title in Open Library")](http://openlibrary.org/books/OL25414409M/L'atome_vert)
 
 "L'atome vert" [[1]](#ref-1) est un livre consacré à une technologie peu connue du grand public mais beaucoup plus avancée et prometteuse que je ne le pensais : les réacteurs nucléaires au [Thorium](w:). Les avantages sont très nombreux:
 
@@ -33,7 +33,7 @@ Selon Jean-Christophe de Mestral, c'est ce qui a favorisé la filière de l'uran
 
 Les [réacteurs à sels fondus](w:Réacteur_nucléaire_à_sels_fondus) (MSR) sont prometteurs à moyen terme. Ils sont d'ailleurs prévus par le [Forum International Génération IV](w:) dans les technologies disponibles d'ici 2030, mais hélas seulement dans leur version à l'Uranium. Les Réacteurs au Fluorure de Thorium Liquide ([LFTR](w:en:Liquid_fluoride_thorium_reactor))  n'ont pas été projetés dans cet horizon de temps, tout comme le "[Rubbiatron](w:Amplificateur_d'énergie)" qui nécessite un accélérateur de particules d'ailleurs. Ce qui n'empêche pas l'AIEA d'en penser du bien [[5]](#ref-5), ni [la Chine de démarrer un ambitieux projet de LFTR](w:en:Liquid_fluoride_thorium_reactor#Chinese_Thorium_MSR_project), qui sera probablement une première mondiale...
 
-{{< figure src="images/bae19a1e76d7f72f64d03ab5fa4dbe85.png" alt="Schéma de principe d'un MSR à neutrons thermiques." caption="Schéma de principe d'un MSR à neutrons thermiques." align="aligncenter" width="600" >}}
+{{< figure src="./images/bae19a1e76d7f72f64d03ab5fa4dbe85.png" alt="Schéma de principe d'un MSR à neutrons thermiques." caption="Schéma de principe d'un MSR à neutrons thermiques." align="aligncenter" width="600" >}}
 
 Du point de vue nucléaire, les réacteurs à sels fondus n'ont que des avantages :
 
@@ -44,7 +44,7 @@ Du point de vue nucléaire, les réacteurs à sels fondus n'ont que des avantage
 
 Les difficultés et inconnues sont surtout liés à la chimie de ces sels. Il faut installer une usine chimique pour les purifier à côté de la centrale, notamment pour en enlever le [Xenon 135](w:Empoisonnement_au_xénon). On ne sait pas trop bien comment un LFTR vieillira, notamment en raison de la corrosion par les sels.
 
-{{< figure src="images/1ab7b0f9763f9e8efe92ffac68d6d916.jpg" alt="ARE Thorium" caption="ARE Thorium : plus besoin de réservoirs, on va pouvoir mettre des passagers aussi dans les ailes..." width="339" >}}
+{{< figure src="./images/1ab7b0f9763f9e8efe92ffac68d6d916.jpg" alt="ARE Thorium" caption="ARE Thorium : plus besoin de réservoirs, on va pouvoir mettre des passagers aussi dans les ailes..." width="339" >}}
 
 Au passage, j'ai découvert l'existence du projet Aircraft Reactor Experiment (ARE) qui visait la [propulsion nucléaire d'avions](w:en:Aircraft_Nuclear_Propulsion). C'était un MSR dont les sels à 850 ° chauffaient l'air dans les réacteurs, qui fonctionna 1000 heures en 1954, quand on avait peur de rien sauf peut être des rouges. Donc je ne le savais pas mais oui, il existe dans les cartons une alternative au turboréacteur.
 

@@ -4,10 +4,10 @@ slug: "le-triangle-mysterieux"
 date: 2005-01-14
 tags: 
   - "casse-tetes"
-coverImage: "bb7bdbf4c9c46359ee0bc2eac5e91202.png"
+coverImage: "./images/bb7bdbf4c9c46359ee0bc2eac5e91202.png"
 ---
 
-{{< figure src="images/bb7bdbf4c9c46359ee0bc2eac5e91202.png" alt="Triangle Mystérieux" >}}
+{{< figure src="./images/bb7bdbf4c9c46359ee0bc2eac5e91202.png" alt="Triangle Mystérieux" >}}
 
 <!--more-->
 

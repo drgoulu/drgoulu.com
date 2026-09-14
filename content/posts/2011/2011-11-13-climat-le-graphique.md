@@ -11,12 +11,12 @@ tags:
   - "rechauffement"
   - "soleil"
   - "terre"
-coverImage: "bb12ceb0a242ba8e2fd27cdd35c546e2.png"
+coverImage: "./images/bb12ceb0a242ba8e2fd27cdd35c546e2.png"
 ---
 
 En pondant [ce commentaire](http://www.les-crises.fr/climat-8-analyse-rechauffement/#comment-4676) sur le blog [les-crises.fr](http://www.les-crises.fr/) que j'ai honte de ne découvrir qu'aujourd'hui, une petite recherche sur l'effet de serre m'a conduit à cet excellent graphique, qui remplace au moins 10000 mots :
 
-![](images/f1484309c68d335566ef5d223364ee75.png)
+![](./images/f1484309c68d335566ef5d223364ee75.png)
 
 [Ce graphique](http://www.globalwarmingart.com/wiki/File:Atmospheric_Transmission_png), oeuvre de [Robert A. Rohde](http://www.globalwarmingart.com/wiki/User:Robert_A._Rohde) de [globalwarmingart.com](http://www.globalwarmingart.com/) montre des tas de choses fondamentales, et quelques unes de mes interrogations:
 

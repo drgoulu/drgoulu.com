@@ -6,14 +6,14 @@ tags:
   - "coupe-de-lamerica"
   - "histoire"
   - "voile"
-coverImage: "200px-Americas_Cup.jpg"
+coverImage: "./images/200px-Americas_Cup.jpg"
 ---
 
 En juin aura lieu à Valence la compétition reine de la voile, la [Coupe de l'America](w:). Je me suis aperçu que certaines de mes connaissances avaient besoin d'une petite introduction simple à la voile et à cette compétition pour pouvoir l'apprécier à sa juste valeur, donc voici quelques bases à connaitre quand on n'y connait rien.<!--more-->
 
 ### un peu d'Histoire
 
-![](images/200px-Americas_Cup.jpg)En l'an de grâce 1851, la goélette "America" eut l'outrecuidance de battre les 14 voiliers les plus rapides de sa Gracieuse Majesté, grâce à une arme technologique décisive : les voiles en coton. Les Anglais dépités refilèrent aux 'ricains une moche [aiguière](w:) en argent qui trainait dans un coin du Royal Yacht Club de Cowes, et les cow-boys la trouvèrent magnifique et la baptisèrent "Coupe de l'America".
+![](./images/200px-Americas_Cup.jpg)En l'an de grâce 1851, la goélette "America" eut l'outrecuidance de battre les 14 voiliers les plus rapides de sa Gracieuse Majesté, grâce à une arme technologique décisive : les voiles en coton. Les Anglais dépités refilèrent aux 'ricains une moche [aiguière](w:) en argent qui trainait dans un coin du Royal Yacht Club de Cowes, et les cow-boys la trouvèrent magnifique et la baptisèrent "Coupe de l'America".
 
 La Coupe se disputa ensuite à un rythme irrégulier, mais toujours sur le principe du défi : un seul "challenger" est sélectionné pour affronter le "defender" titulaire de la Coupe, qui définit le lieu et les règles de la course, ce qui donne un avantage certain au "defender"
 

@@ -9,10 +9,10 @@ tags:
   - "monde"
   - "politique"
   - "statistiques"
-coverImage: "macron-lepen.jpg"
+coverImage: "./images/macron-lepen.jpg"
 ---
 
-{{< figure src="images/macron-lepen.jpg" alt="Et si la photo allait dans ce sens ?" caption="Et si la photo allait dans ce sens ?" width="240" >}}
+{{< figure src="./images/macron-lepen.jpg" alt="Et si la photo allait dans ce sens ?" caption="Et si la photo allait dans ce sens ?" width="240" >}}
 
 Parmi les questions que je me suis posées lors du traditionnel raout quinquennal de mes voisins français, il en est une qui me turlupine d'autant plus que je n'ai pas trouvé les données permettant d'y répondre : se pourrait-il que l'axe "libéral / conservateur" \* soit devenu prépondérant par rapport au traditionnel "gauche / droite ?"
 
@@ -24,7 +24,7 @@ Mais dans ces représentations, le deuxième axe est défini a priori : "Liberta
 
 De plus, il paraît difficile d'éviter une certaine subjectivité lorsqu'on représente le positionnement politique de personnes et de partis, comme on le devine dans la carte ci-dessous, la seule que j'ai pu trouver pour la France [[1]](#ref-1):
 
-[![](images/ppf-02-14.jpg)](http://www.gaucheliberale.org/post/2014/02/18/Carte-2D-du-Paysage-Politique-Fran%C3%A7ais-%28PPF%29-mise-%C3%A0-jour-f%C3%A9vrier-2014)
+[![](./images/ppf-02-14.jpg)](http://www.gaucheliberale.org/post/2014/02/18/Carte-2D-du-Paysage-Politique-Fran%C3%A7ais-%28PPF%29-mise-%C3%A0-jour-f%C3%A9vrier-2014)
 
 (edit du 9.1.2018 : notez que les directions verticales sont nommées "ancienne définition de la gauche/droite", ce qui suggère que l'axe principal a tourné de 90° au cours du temps...)
 
@@ -44,7 +44,7 @@ Smartvote réduit donc le nombres de dimensions de N à 2 , en utilisant une m�
 
 Autrement dit, les deux axes sont déterminés automatiquement à partir de réponses à des questions qui ne doivent pas être positionnées a priori sur ces axes !
 
-{{< figure src="images/smartmap-vd-2017-1.png" alt="smartmap des candidats au Grand Conseil Vaudois 2017, colorés par parti" caption="smartmap des candidats au Grand Conseil Vaudois 2017, colorés par parti" link="https://www.smartvote.ch/17_vd_leg/smartmap/candidates" width="400" >}}
+{{< figure src="./images/smartmap-vd-2017-1.png" alt="smartmap des candidats au Grand Conseil Vaudois 2017, colorés par parti" caption="smartmap des candidats au Grand Conseil Vaudois 2017, colorés par parti" link="https://www.smartvote.ch/17_vd_leg/smartmap/candidates" width="400" >}}
 
 Outre la correspondance électeur/candidat déjà mentionnée, il devient possible :
 

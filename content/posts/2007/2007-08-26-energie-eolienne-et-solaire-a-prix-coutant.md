@@ -7,7 +7,7 @@ categories:
 tags: 
   - "energie"
   - "suisse"
-coverImage: "ef6a5506f397797728fb761a007abeaf-1.gif"
+coverImage: "./images/ef6a5506f397797728fb761a007abeaf-1.gif"
 ---
 
 L'émission "Temps Présent" de cette semaine sur la société à 2000 W présente un léger progrès par rapport à la situation décrite dans [Les énergies renouvelables en Suisse](/2005/01/25/les-energies-renouvelables-en-suisse/) : le solaire et l'éolien sont désormais présentés comme de "nouvelles énergies renouvelables" alors que l'hydraulique, qui fournit 60% de l'électricité en Suisse, est une vieille énergie renouvelable, mais qui ne vaut toujours pas la peine qu'on en parle.
@@ -21,13 +21,13 @@ Avec ce genre de conséquences par exemple :
 
 Tout comme le plan Wahlen avait fait planter des patates à 1500m d'altitude dont il ne reste plus trace, le "[Plan Wahlen de l'énergie](http://www.verts.ch/web/gruene/fr/positions/environnement/energie/politique_energetique/resolutions/schweizer_energiepolitik_gruene_fordern_plan_wahlen_29-08-6.html)" réclamé par les Verts consiste à planter des éoliennes dans un pays connu pour être mal venté:
 
-[![](images/europe.gif)](http://www.stanford.edu/group/efmh/winds/global_winds.html)
+[![](./images/europe.gif)](http://www.stanford.edu/group/efmh/winds/global_winds.html)
 
 Le problème n'est pas qu'elles ne tourneront pas, mais qu'elles produiront de l'énergie plus chère que les éoliennes hollandaises ou normandes, et plus chère que les barrages suisses, donc d'une manière économiquement non viable sur le long terme.
 
 Le problème n'est pas très différent pour le solaire :
 
-{{< figure src="images/EU-Glob_opta_presentation.png" alt="carte du rendement photovoltaïque en Europe" caption="carte du rendement photovoltaïque en Europe" link="http://re.jrc.ec.europa.eu/pvgis/countries/countries-europe.htm" align="aligncenter" width="640" >}}
+{{< figure src="./images/EU-Glob_opta_presentation.png" alt="carte du rendement photovoltaïque en Europe" caption="carte du rendement photovoltaïque en Europe" link="http://re.jrc.ec.europa.eu/pvgis/countries/countries-europe.htm" align="aligncenter" width="640" >}}
 
 le solaire marche, mais 60% moins bien sur le Plateau qu'en Provence.
 

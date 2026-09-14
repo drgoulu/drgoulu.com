@@ -4,10 +4,10 @@ slug: "lua-le-nouveau-basic"
 date: 2007-09-21
 tags: 
   - "programmation"
-coverImage: "522870916653c28ad6c489b73105ed5f.gif"
+coverImage: "./images/522870916653c28ad6c489b73105ed5f.gif"
 ---
 
-{{< figure src="images/522870916653c28ad6c489b73105ed5f.gif" link="http://www.lua.org" >}}
+{{< figure src="./images/522870916653c28ad6c489b73105ed5f.gif" link="http://www.lua.org" >}}
 
 Me suis mis à programmer un peu en [Lua](http://www.lua.org), un "langage de script" [très utilisé dans les jeux video](http://www.lua.org/uses.html), mais aussi par Hyperion.
 

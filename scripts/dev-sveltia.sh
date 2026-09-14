@@ -28,7 +28,7 @@ cleanup() {
 trap cleanup SIGINT SIGTERM EXIT
 
 # 1. Lancer le serveur Vite de Sveltia CMS en arrière-plan
-(cd "$SVELTIA_DIR" && VITE_SITE_URL="http://localhost:1313" HUGO_CONTENT_DIR="$SITE_DIR/content" pnpm dev) &
+(cd "$SVELTIA_DIR" && VITE_SITE_URL="http://localhost:1313" HUGO_CONTENT_DIR="$SITE_DIR/content" ./node_modules/.bin/vite) &
 
 # Petit délai pour laisser Vite démarrer
 sleep 1

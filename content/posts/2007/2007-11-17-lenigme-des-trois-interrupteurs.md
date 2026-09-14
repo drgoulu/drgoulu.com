@@ -4,10 +4,10 @@ slug: "lenigme-des-trois-interrupteurs"
 date: 2007-11-17
 tags: 
   - "casse-tetes"
-coverImage: "ampoule.jpg"
+coverImage: "./images/ampoule.jpg"
 ---
 
-{{< figure src="images/ampoule.jpg" >}}
+{{< figure src="./images/ampoule.jpg" >}}
 
 Julia m'a collé avec un petit problème de logique. Il est [tellement connu](http://www.google.ch/search?q=trois+interrupteurs) que j'ai hésité à lui consacrer un article, mais après avoir donné ma "langue au chat", j'ai eu tellement honte que je dois expliquer pourquoi. Vous allez comprendre.
 

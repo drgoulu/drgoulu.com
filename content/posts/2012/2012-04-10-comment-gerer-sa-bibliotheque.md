@@ -8,7 +8,7 @@ tags:
   - "internet"
   - "livres"
   - "software"
-coverImage: "2012-02-27_215031.png"
+coverImage: "./images/2012-02-27_215031.png"
 ---
 
 Périodiquement je me repose la même question : comment garder trace de tous mes bouquins, plus ceux qu'on m'a prêtés ou recommandés? Et je voudrais aussi me souvenir à qui j'ai prêté les miens, immortaliser mes notes de lectures, copier une référence d'un seul coup de copier/coller, en particulier vers ce blog, et que tout ça soit accessible et synchronisé au boulot, à la maison et sur mon smartphone, qui pourrait au passage scanner les code barres du dos des bouquins pour aller plus vite. Tout ça. S'il vous plaît. Et voici ma réponse en 2012. De rien.
@@ -21,15 +21,15 @@ Mais il y a plus grand, plus complet, et plus discret : [WorldCat.org](http://ww
 
 1. La possibilité d'exporter la référence du livre dans quelques formats cut&pastables dans d'autres documents :
     
-    {{< figure src="images/2012-02-27_215031.png" alt="2012-02-27_215031" caption="WorldCat exporte en RefWorks, EndNote, EasyBib et un certaion nombre de formats prédéfinis" align="aligncenter" width="366" >}}
+    {{< figure src="./images/2012-02-27_215031.png" alt="2012-02-27_215031" caption="WorldCat exporte en RefWorks, EndNote, EasyBib et un certaion nombre de formats prédéfinis" align="aligncenter" width="366" >}}
 2. Des liens vers quelques librairies en ligne, dont Amazon, où acheter le bouquin
 3. Mais l'intérêt principal  de WorldCat, c'est de vous indiquer les bibliothèques près de chez vous où vous pouvez emprunter un livre donné. Si vous êtes un rat de bibliothèque, WorldCat sera votre fromage.
 
 En 2004, Amazon domine le marché de la vente de bouquins sur internet et WorldCat celui du prêt. Comment diable [Google Books](http://books.google.fr/) peut-il se différencier ? En scannant des milliers de livres et en les rendant en tout ou partie disponibles sous forme numérisée, pardi ! Les aspects légaux de ce [colossal projet](w:Google_Livres) ne sont pas encore réglés, mais ça n'empêche pas Google de le poursuivre en collaboration avec de très grandes bibliothèques publiques. On ne sera donc pas surpris de trouver des liens "Trouver ce livre dans une bibliothèque" vers WorldCat  mais l'intérêt du Géant réside clairement dans les liens publicitaires vers les distributeurs de livres.
 
-{{< figure src="images/2012-01-07_182741.png" alt="Google Books exporte les citations des romans aux formats BiBTeX, EndNote et RefMan" caption="Google Books exporte les citations des romans aux formats BiBTeX, EndNote et RefMan" link="http://books.google.ch/books?id=QEYFHAAACAAJ" align="aligncenter" width="494" >}}
+{{< figure src="./images/2012-01-07_182741.png" alt="Google Books exporte les citations des romans aux formats BiBTeX, EndNote et RefMan" caption="Google Books exporte les citations des romans aux formats BiBTeX, EndNote et RefMan" link="http://books.google.ch/books?id=QEYFHAAACAAJ" align="aligncenter" width="494" >}}
 
-{{< figure src="images/2012-02-26_233603.png" alt="2012-02-26_233603" caption="Exemple de liens d'achat ou emprunt depuis Google Books. Bizarre qu'on ne voie pas le prix français depuis la Suisse, non ?" link="http://books.google.ch/books?id=QEYFHAAACAAJ&sitesec=buy&hl=fr&source=gbs_buy_r" align="aligncenter" width="429" >}}
+{{< figure src="./images/2012-02-26_233603.png" alt="2012-02-26_233603" caption="Exemple de liens d'achat ou emprunt depuis Google Books. Bizarre qu'on ne voie pas le prix français depuis la Suisse, non ?" link="http://books.google.ch/books?id=QEYFHAAACAAJ&sitesec=buy&hl=fr&source=gbs_buy_r" align="aligncenter" width="429" >}}
 
 Cela dit, Google Books est une solution web crédible pour gérer une [bibliothèque personnelle](http://books.google.fr/books?uid=110447539257954874457) : plutôt que par listes, Google Books gère les livres sur des "étagères" qui ne sont rien d'autre que des tags. C'est surtout l'existence de l'application Android [Book Mobile](http://www.androidfreeware.net/download-book-mobile.html) (tiens, elle a disparu du Market...) qui m'a poussé vers Google Books il y a deux ans : grâce à elle, j'ai pu créer ma bibliothèque numérique en scannant mes livres avec mon téléphone, aussi vite qu'une une caissière de la FNAC.
 
@@ -47,7 +47,7 @@ Reste un problème pour les puristes : toutes ces bases de données sont "propri
 
 Donc il y a [OpenLibrary.org](http://openlibrary.org), la base "open" et publique de la fondation [InternetArchive](http://www.archive.org/), qui fait appel au public pour référencer beaucoup de bouquins, en spécifiant les "identificateurs uniques" des autres afin de lier les bases de données. Mais évidemment, pour rester libre il fallait inventer un code de plus, [http://openlibrary.org/works/OL6036829W](http://openlibrary.org/works/OL6036829W) dans l'exemple, qui mène vers cette page :
 
-[![](images/2012-02-27_214222.png "2012-02-27_214222")](http://openlibrary.org/books/OL22263607M/L'_ombre_du_vent)
+[![](./images/2012-02-27_214222.png "2012-02-27_214222")](http://openlibrary.org/books/OL22263607M/L'_ombre_du_vent)
 
 OpenLibrary n'est malheureusement pas assez développé pour y gérer sa bibliothèque, mais offre un petit bouton bien utile pour ajouter une référence sur Goodreads d'un seul click. Sinon, OpenLibrary est surtout utile aux gens qui publient du contenu sur le web car on peut:
 

@@ -6,7 +6,7 @@ categories:
   - "Comment"
 tags: 
   - "internet"
-coverImage: "db185f44564884575ab25d7163829c6e.gif"
+coverImage: "./images/db185f44564884575ab25d7163829c6e.gif"
 ---
 
 Voici deux problèmes qui n'ont apparemment rien en commun:
@@ -20,6 +20,6 @@ L'idée géniale de [ReCaptcha](http://www.google.com/recaptcha) est d'utiliser 
 
 En pratique, il faut quand même valider à la fois l'humanité de l'utilisateur (problème 1) et la justesse de la lecture (problème 2), donc on présente 2 mots à lire, dont un que l'on connait pour l'authentification, et l'autre dont on compare statistiquement les lectures par de nombreuses personnes pour le valider.
 
-![](images/db185f44564884575ab25d7163829c6e.gif)Donc la prochaine fois que vous verrez une boite de dialogue comme celle ci-contre, vous serez doublement valorisés. D'une part vous ferez (enfin) un travail dont un ordinateur est incapable, et d'autre part, vous contribuerez à immortaliser des documents anciens.
+![](./images/db185f44564884575ab25d7163829c6e.gif)Donc la prochaine fois que vous verrez une boite de dialogue comme celle ci-contre, vous serez doublement valorisés. D'une part vous ferez (enfin) un travail dont un ordinateur est incapable, et d'autre part, vous contribuerez à immortaliser des documents anciens.
 
 Source: [BBC NEWS | Technology | Spam weapon helps preserve books](http://news.bbc.co.uk/2/hi/technology/7023627.stm)

@@ -9,7 +9,7 @@ tags:
   - "graphes"
   - "internet"
   - "jeux"
-coverImage: "f860cf98facccf60ba0d8705f857b25d-1.png"
+coverImage: "./images/f860cf98facccf60ba0d8705f857b25d-1.png"
 ---
 
 Il l'avait annoncé, il l'a fait : Neamar a ajouté un nouveau jeu à sa [saga des graphes](/2010/03/06/la-saga-des-graphes/) : [Icosien](http://neamar.fr/Res/Icosien/). Et c'est un excellent jeu. En réalité il y a même deux jeux pour le prix d'un seul:
@@ -17,7 +17,7 @@ Il l'avait annoncé, il l'a fait : Neamar a ajouté un nouveau jeu à sa [saga d
 - Dans les 10 premiers tableaux, il s'agit de reproduire le motif gris d'un seul mouvement de souris, sans repasser deux fois sur le même trait (mais les croisements de fil sont autorisés). En termes techniques, il s'agit de vérifier que ces tableaux sont des [graphes eulériens](w:Graphe_eulérien). Pas trop difficile une fois qu'on a trouvé le truc.
 - Dans les 10 tableaux suivants, il faut passer une et une seule fois par chaque noeud, en utilisant uniquement les traits disponibles  (mais on n'est pas obligé de passer sur tous les traits). Pour les matheux, il s'agit de trouver des [circuits hamiltoniens](w:Graphe_hamiltonien). Là, la difficulté passe de "petit casse-tête sympa" à "horrible arrache neurones énervant"...
 
-{{< figure src="images/f860cf98facccf60ba0d8705f857b25d.png" alt="tableau19" caption="J'en suis là. C'est dur. Regarder la soluce de Neamar serait déshonorant. A l'aide Python !" link="http://neamar.fr/Res/Icosien/" align="aligncenter" width="512" >}}
+{{< figure src="./images/f860cf98facccf60ba0d8705f857b25d.png" alt="tableau19" caption="J'en suis là. C'est dur. Regarder la soluce de Neamar serait déshonorant. A l'aide Python !" link="http://neamar.fr/Res/Icosien/" align="aligncenter" width="512" >}}
 
 De plus, je décerne à Icosien le titre envié de "plus beau jeu de graphes du web" pour deux raisons:
 

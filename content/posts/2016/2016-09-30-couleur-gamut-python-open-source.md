@@ -10,7 +10,7 @@ tags:
   - "open-source"
   - "programmation"
   - "python"
-coverImage: "crt_print_gamut_big.JPG"
+coverImage: "./images/crt_print_gamut_big.JPG"
 ---
 
 Ce fut une excellente journée de travail, stimulante et productive. Tôt le matin, Cédric m'a montré les slides d'un article sur la mesure géométrique de la différence entre deux [gamuts](w:gamut), en me demandant s'il était facile de programmer la méthode présentée [[1]](#ref-1)
@@ -21,7 +21,7 @@ Avant d'attaquer la question et la réponse,  une petite introduction sur le me
 
 En imprimerie, on mesure à l'aide d'un [spectrophotomètre](w:) l'ensemble des couleurs produites par une imprimante, ne serait-ce que pour la calibrer [[2]](#ref-2). Mais lorsqu'on développe une imprimante industrielle, il faut en plus mesurer l'effet sur les couleurs de nombreux paramètres (qualité des substrats, composition des encres, puissance des séchoirs etc. ) afin de maximiser le "volume" des couleurs que l'imprimante est capable de reproduire.
 
-{{< figure src="images/color7.gif" alt="cube des couleurs RGB (Red Green Blue)" caption="cube des couleurs RGB (Red Green Blue)" width="320" >}}
+{{< figure src="./images/color7.gif" alt="cube des couleurs RGB (Red Green Blue)" caption="cube des couleurs RGB (Red Green Blue)" width="320" >}}
 
 L'ensemble des couleurs définit un volume car il faut trois paramètres pour déterminer une couleur. La représentation la plus connue est celle basée sur les [couleurs primitives](w:) rouge, vert et bleu, le "RGB". Sur votre écran, des pixels rouges, verts et bleus peuvent être allumés avec des intensités variables, habituellement codée par un entier entre 0 et 255. La [synthèse additive](w:) permet ainsi de vous faire percevoir 16'777'216 couleurs différentes définies par autant de points dans le cube ci-contre.
 
@@ -33,7 +33,7 @@ Les couleurs que l'on peut reproduire fidèlement se trouvent dans l'intersectio
 
 En les représentant dans un autre espace de couleurs, plus vaste, le [CIE_L\*a\*b\*](w:CIE_L*a*b*). Dans cet espace, la coordonnée L\* correspond à la [luminance](w:) et les coordonnées a\* et b\* à des échelles entre couleurs tenant compte de la sensibilité de l'oeil humain. En LAB, le cube CMY d'une imprimante donnée devient un patatoïde comme celui représenté ci-dessous, et le cube RGB d'un écran précis devient le volume enfermé dans le treillis. Comme on le voit, l'intersection des deux est un volume compliqué, nettement plus petit que chacun des patatoïdes.
 
-{{< figure src="images/crt_print_gamut_big.JPG" alt="Gamut d" caption="Gamut d'une imprimante (solide) et d'un moniteur (treillis). Image : Michael J. Vrhel" link="http://www.viegroup.com/mvrhelweb/gamut.html" align="aligncenter" width="512" >}}
+{{< figure src="./images/crt_print_gamut_big.JPG" alt="Gamut d" caption="Gamut d'une imprimante (solide) et d'un moniteur (treillis). Image : Michael J. Vrhel" link="http://www.viegroup.com/mvrhelweb/gamut.html" align="aligncenter" width="512" >}}
 
 ### Retour au Code
 
@@ -55,7 +55,7 @@ En cherchant un peu, je tombe sur la solution : [trimesh](https://pypi.python.o
 
 ### L'Open Source, c'est bon pour le business
 
-![%image\_alt%](images/opensourceloveday.png)En effet, je ne sais pas si vous avez tout suivi mais je travaille dans une entreprise qui vend des machines pour gagner du pognon et payer quelques salaires en passant. Or tous les logiciels utilisés pour développer cette application relativement pointue en une seule journée sont "[Open Source](w:)", gratuits. La moindre des choses est, me semble-t-il, de renvoyer parfois l'ascenseur partageant les améliorations que j'apporte à ces logiciels, évidemment dans la mesure où ça ne va pas à l'encontre des intérêts de mon employeur.
+![%image\_alt%](./images/opensourceloveday.png)En effet, je ne sais pas si vous avez tout suivi mais je travaille dans une entreprise qui vend des machines pour gagner du pognon et payer quelques salaires en passant. Or tous les logiciels utilisés pour développer cette application relativement pointue en une seule journée sont "[Open Source](w:)", gratuits. La moindre des choses est, me semble-t-il, de renvoyer parfois l'ascenseur partageant les améliorations que j'apporte à ces logiciels, évidemment dans la mesure où ça ne va pas à l'encontre des intérêts de mon employeur.
 
 J'ai donc [forké le source](https://github.com/goulu/trimesh) de [trimesh disponible sur GitHub](https://github.com/mikedh/trimesh), modifié [le fichier](https://github.com/goulu/trimesh/blob/master/trimesh/interfaces/generic.py) qui gère les fichiers temporaires et hop ! l'application fonctionne après grosso-modo 4 heures de boulot et 4 cafés. Et comme [les tests](https://travis-ci.org/goulu/) de trimesh passent toujours (sur Linux), je soumets une "[pull request](https://github.com/mikedh/trimesh/pull/33)" à l'auteur de trimesh pour lui proposer d'incorporer mes changements à la branche officielle : B.A. accomplie en une heure supplémentaire à tout casser.
 

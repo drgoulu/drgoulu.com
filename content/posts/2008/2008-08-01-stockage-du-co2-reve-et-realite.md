@@ -9,12 +9,12 @@ tags:
   - "co2"
   - "economie"
   - "energie"
-coverImage: "62e61ee327a7971f7c5cbf8288aed052-1.jpg"
+coverImage: "./images/62e61ee327a7971f7c5cbf8288aed052-1.jpg"
 ---
 
 ### Réduction du CO2 : rêve et illusion
 
-![](images/62e61ee327a7971f7c5cbf8288aed052.jpg)Le [réchauffement climatique](/2007/05/23/faq-rechauffement-global/) est du en (très) grande partie au dégagement de CO2 du aux combustibles fossiles : pétrole (42%), gaz (18%) et, ne l'oublions pas, charbon(40%).
+![](./images/62e61ee327a7971f7c5cbf8288aed052.jpg)Le [réchauffement climatique](/2007/05/23/faq-rechauffement-global/) est du en (très) grande partie au dégagement de CO2 du aux combustibles fossiles : pétrole (42%), gaz (18%) et, ne l'oublions pas, charbon(40%).
 
 Espérer résoudre ce problème en limitant la consommation de ces combustibles est illusoire:
 
@@ -59,12 +59,12 @@ C'est pourquoi des entreprises comme [Alstom](http://www.enerzine.com/14/3295+Al
 
 Une fois capté, que faire de tout ce CO2 ? Il existe déjà plusieurs [sites de stockage dans le monde](http://www.geos.ed.ac.uk/sccs/storage/storageSites.html) et de nombreux autres sont sur le point de démarrer. Fondamentalement, il existe [4 types de stockage de CO2](http://www.geos.ed.ac.uk/sccs/storage/howstored.html)
 
-- [![](images/fa91af652c3550b150a854e5a065feec.gif)](http://www.co2capture.org.uk/)le "stockage structurel" consiste à emprisonner le CO2 gazeux dans des poches géologiques. En gros, on "gonfle des trous" avec du CO2. [Depuis peu [[2]](#ref-2)](http://tempsreel.nouvelobs.com/) par exemple, 100 tonnes de CO2 provenant d'une [usine de production d'hydrogène](/2007/09/06/lhydrogene-energie-du-futur/) sont injectées quotidiennement à 700m de profondeur dans une couche d'argile en Allemagne. Mais il subsiste le risque qu'un défaut d'étanchéité libère le gaz dans quelques années ou quelques siècles.
+- [![](./images/fa91af652c3550b150a854e5a065feec.gif)](http://www.co2capture.org.uk/)le "stockage structurel" consiste à emprisonner le CO2 gazeux dans des poches géologiques. En gros, on "gonfle des trous" avec du CO2. [Depuis peu [[2]](#ref-2)](http://tempsreel.nouvelobs.com/) par exemple, 100 tonnes de CO2 provenant d'une [usine de production d'hydrogène](/2007/09/06/lhydrogene-energie-du-futur/) sont injectées quotidiennement à 700m de profondeur dans une couche d'argile en Allemagne. Mais il subsiste le risque qu'un défaut d'étanchéité libère le gaz dans quelques années ou quelques siècles.
 - le "stockage résiduel" consiste à faire absorber le CO2 à des sols "spongieux" dans lesquels des bulles de CO2 se retrouvent emprisonnées dans des cavités minuscules. On envisage injecter ainsi du CO2 gazeux dans des gisements de pétrole épuisés, mais ça pourrait marcher aussi avec du CO2 liquide dans du sable. Ce type de stockage serait plus durable et plus sur : par analogie, il faut écraser une éponge sous l'eau plusieurs fois pour qu'elle relâche l'air qu'elle contient. Dans un monde parfait, on pourrait même optimiser l'extraction de pétrole d'un puits en y injectant le CO2 produit par le reformage sur place du pétrole en hydrogène, le tout produisant un mix d'électricité, d'hydrogène, de pétrole voire d'eau ...
     
-    ![](images/0282e6fba36c0c05a7a9fa19e3506ade.jpg)
+    ![](./images/0282e6fba36c0c05a7a9fa19e3506ade.jpg)
     
-- ![](images/8c1292a2810302d71bea21ed5c91bc41.gif)le stockage par solution dans l'eau. Comme on le voit avec une bouteille d'eau minérale, le CO2 se dissout très bien dans l'eau. on pourrait donc l'injecter "facilement" dans l'océan. Cependant, ceci accélèrerait [l'acidification des océans](http://www.geos.ed.ac.uk/ccs/Technical/Ocean/) qui pourrait avoir des effets très néfastes à long terme. Comme on le voit sur le graphique, la diminution du pH déjà notée en surface mettra 400 ans à se répercuter au fond des océans ... D'un autre côté, si on considère qu'il y a déjà 37'000 Gt de CO2 dissous dans les mers, ce n'est pas quelques dizaines de plus qui devrait causer un  gros changement... [[1]](#ref-1) cite plusieurs méthodes possibles d'injection de CO2 dans l'océan et mentionne le fait, qu'injecté à grande profondeur, le CO2 pourrait y rester de manière stable sous forme d'hydrates liquides qui ne contribueraient pas à l'acidification.
+- ![](./images/8c1292a2810302d71bea21ed5c91bc41.gif)le stockage par solution dans l'eau. Comme on le voit avec une bouteille d'eau minérale, le CO2 se dissout très bien dans l'eau. on pourrait donc l'injecter "facilement" dans l'océan. Cependant, ceci accélèrerait [l'acidification des océans](http://www.geos.ed.ac.uk/ccs/Technical/Ocean/) qui pourrait avoir des effets très néfastes à long terme. Comme on le voit sur le graphique, la diminution du pH déjà notée en surface mettra 400 ans à se répercuter au fond des océans ... D'un autre côté, si on considère qu'il y a déjà 37'000 Gt de CO2 dissous dans les mers, ce n'est pas quelques dizaines de plus qui devrait causer un  gros changement... [[1]](#ref-1) cite plusieurs méthodes possibles d'injection de CO2 dans l'océan et mentionne le fait, qu'injecté à grande profondeur, le CO2 pourrait y rester de manière stable sous forme d'hydrates liquides qui ne contribueraient pas à l'acidification.
 - le stockage sur et à long terme, c'est le stockage minéral. Dans plus de 10'000 ans, le corail aura transformé une bonne part de notre pollution en montagnes de calcaire. Si on n'a pas la patience d'attendre, on peut accélérer le mouvement en injectant le CO2 par exemple dans le basalte des fonds marins, qui est basique (le contraire d'acide...) ce qui produit de la calcite, de la magnésite et de la sidérite (voir [l'excellent article de Benjamin [[3]](#ref-3)](http://bacterioblog.over-blog.com/article-21469412.html)).
 
 ### Economiquement viable ?

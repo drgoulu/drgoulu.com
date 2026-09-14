@@ -8,10 +8,10 @@ categories:
 tags:
 - cryptographie
 - maths
-coverImage: birch.png
+coverImage: "./images/birch.png"
 draft: true
 ---
-{{< figure src="images/birch.png" alt="Courbes elliptiques illustrant la carte d'anniversaire d'un matheux" caption="Courbes elliptiques illustrant la carte d'anniversaire d'un matheux" link="http://doc.sagemath.org/html/en/thematic_tutorials/explicit_methods_in_number_theory/elliptic_curves.html" width="320" >}}
+{{< figure src="./images/birch.png" alt="Courbes elliptiques illustrant la carte d'anniversaire d'un matheux" caption="Courbes elliptiques illustrant la carte d'anniversaire d'un matheux" link="http://doc.sagemath.org/html/en/thematic_tutorials/explicit_methods_in_number_theory/elliptic_curves.html" width="320" >}}
 
 Ces temps je vois des "courbes elliptiques" partout : dans la démonstration du théorème de Fermat, en cryptographie, jusque dans le 4ème tome de la saga Millénium [[1]](#ref-1). Mais qu'est-ce donc que ces choses là ?
 
@@ -21,19 +21,19 @@ La page Wikipédia "[courbe elliptique](w:)" étant un peu touffue en première 
 
 Une courbe elliptique est une courbe plane d'équation \[mathjax\] $$y^2 = x^3 + a.x + b$$, où les paramètres a et b doivent être tels que $$4a^3+27b^2 \neq 0$$ pour une raison que l'on peut deviner en regardant le tracé obtenu pour différentes valeurs de a et b:
 
-{{< figure src="images/EllipticCurveCatalog.svg_.png" alt="EllipticCurveCatalog.svg" caption="Quelques courbes elliptiques correspondant à différents paramètres a,b (source : Wikipédia)" align="aligncenter" width="1060" >}}
+{{< figure src="./images/EllipticCurveCatalog.svg_.png" alt="EllipticCurveCatalog.svg" caption="Quelques courbes elliptiques correspondant à différents paramètres a,b (source : Wikipédia)" align="aligncenter" width="1060" >}}
 
 Certaines valeurs de (a,b) créent des [singularités](w:Singularité_(mathématiques)) : par exemple pour a=b=0, on voit ci-dessus que la courbe définie par $$y^2 = x^3$$ a un "point de rebroussement" à l'origine, mais il y a d'autres singularités au moment où la "goutte" est reliée par un seul point (double) au reste de la courbe, où au moment ou la goutte se réduit à un seul point. Tous ces cas sont éliminés par la condition $$4a^3+27b^2 \neq 0$$.
 
 ## Des courbes étonnamment utiles
 
-![pyramid-spheres](images/pyramid-spheres.png)La page [[4]](#ref-4) montre par un joli exemple l'utilité des courbes elliptiques. Imaginez que votre sergent-chef vous ordonne de faire une pyramide de boulets de canon comme ci-contre, mais exige aussi que vous fassiez un carré parfait avec le même nombre de boulets à côté. Evidemment vous faites comme moi : vous posez un seul boulet pour faire une pyramide d'un seul étage, et un autre boulet à côté pour faire un carré de 1x1. Et là il se met à vous hurler dessus en vous traitant de feignant (alors que vous avez fait un effort pour ne pas proposer la solution 0=0 ....) et vous ordonne de trouver une autre solution.
+![pyramid-spheres](./images/pyramid-spheres.png)La page [[4]](#ref-4) montre par un joli exemple l'utilité des courbes elliptiques. Imaginez que votre sergent-chef vous ordonne de faire une pyramide de boulets de canon comme ci-contre, mais exige aussi que vous fassiez un carré parfait avec le même nombre de boulets à côté. Evidemment vous faites comme moi : vous posez un seul boulet pour faire une pyramide d'un seul étage, et un autre boulet à côté pour faire un carré de 1x1. Et là il se met à vous hurler dessus en vous traitant de feignant (alors que vous avez fait un effort pour ne pas proposer la solution 0=0 ....) et vous ordonne de trouver une autre solution.
 
 Oui mais y'en-a-t'il une ? Avant de vous casser le dos à perpétuité vous écrivez rapidement l'équation du problème :
 
 le nombre de boulets est égal à $$1+4+9+16+...+x^2 = \frac{x(x+1)(2x+1)}{6}$$ où x est le nombre de couches de la pyramide et il doit être égal à $$y^2$$ où y  est le côté du carré de boulets. Donc on cherche les nombres entiers x et y tels que : $$\frac{x(x+1)(2x+1)}{6}=y^2$$, soit $$2x^3+3x^2+x=6y^2$$ . Cette [équation diophantienne](w:) n'a pas tout à fait la forme d'une courbe elliptique, mais presque.
 
-{{< figure src="images/sliderule.png" alt="la calculatrice la moins chère du monde est une courbe elliptique..." caption="la calculatrice la moins chère du monde est une courbe elliptique..." link="https://cp4space.wordpress.com/2012/08/29/elliptic-curve-calculator/" width="2000" >}}
+{{< figure src="./images/sliderule.png" alt="la calculatrice la moins chère du monde est une courbe elliptique..." caption="la calculatrice la moins chère du monde est une courbe elliptique..." link="https://cp4space.wordpress.com/2012/08/29/elliptic-curve-calculator/" width="2000" >}}
 
  
 

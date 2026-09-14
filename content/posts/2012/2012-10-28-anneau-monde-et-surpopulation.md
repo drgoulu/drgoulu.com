@@ -12,7 +12,7 @@ tags:
   - "monde"
   - "science"
   - "societe"
-coverImage: "9a440aa4e1cd0fe13d8938d79cc00f26.jpg"
+coverImage: "./images/9a440aa4e1cd0fe13d8938d79cc00f26.jpg"
 ---
 
 "[L'Anneau-Monde](w:)" ("Ringworld") de Larry Niven [[1]](#ref-1), [[2]](#ref-2) est un bouquin de S.F. des années 1970 auquel je repense souvent. En première lecture, c'est un [Space opera](w:) classique. En explorant la Galaxie, les Terriens ont rencontré deux autres espèces intelligentes, les [Kzinti](w:) et les [Marionnettiste de Pierson](w:). Après quelques siècles de conflits, ils vivent en paix et s'allient pour une mission d'exploration vers un système solaire qui révèle la présence d'une quatrième civilisation, inconnue.
@@ -38,7 +38,7 @@ Dans un prochain article, nous verrons que la démographie humaine du 21ème si�
 
 Mais si nous consacrons toutes les ressources de la planète à notre survie, nous serons irrémédiablement limités à une [civilisation de type I](w:échelle_de_Kardashev) bloquée au fond de son [trou gravitationnel](/2012/09/05/un-petit-pas-pour-lhomme/). Ne sommes-nous pas devant un choix plus fondamental encore ? Ne devrions-nous pas réduire drastiquement (mais pacifiquement, par une politique mondiale de l'enfant unique étalée sur un siècle par exemple) notre population pour disposer des énormes réserves d'énergie et de ressources nécessaires pour partir, construire des [vaisseaux-mondes](w:vaisseau-mode) et essaimer dans l'espace à la conquête de plus de ressources, d'énergie et de surface ?
 
-{{< figure src="images/379d0d704eab862a57e1d259a74ee89d.jpg" alt="http://www.abalakin.de/" caption="The Return to Abalakin d'Alexander Preuss : un &quot;vaisseau-monde&quot; qui fait presque envie, non ?" link="http://www.abalakin.de/" align="aligncenter" width="650" >}}
+{{< figure src="./images/379d0d704eab862a57e1d259a74ee89d.jpg" alt="http://www.abalakin.de/" caption="The Return to Abalakin d'Alexander Preuss : un &quot;vaisseau-monde&quot; qui fait presque envie, non ?" link="http://www.abalakin.de/" align="aligncenter" width="650" >}}
 
 Note\*: la chance n'étant pas un caractère héréditaire, elle ne peut pas être un avantage sélectif.
 

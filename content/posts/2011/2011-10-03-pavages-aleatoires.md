@@ -11,7 +11,7 @@ tags:
   - geometrie
   - proce55ing
   - programmation
-coverImage: 400fcf9e5415a8d1b3b559ecdffe0c43.png
+coverImage: "./images/400fcf9e5415a8d1b3b559ecdffe0c43.png"
 draft: false
 
 ---
@@ -24,7 +24,7 @@ En 1974, le [pavage de Penrose](w:) crée un choc : il est possible de recouvrir
 
 En 2011, c'est John Shier, un "artiste algorithmique" qui vient d'ouvrir tout grand la porte à une infinité de nouveaux pavages. Sa méthode permettent de couvrir le plan avec des pavés de presque n'importe quelles formes, mais de surface décroissantes [[3]](#ref-3), [[4]](#ref-4). Le principe semble tout simple : on place le plus grand pavé au hasard, puis le suivant en taille au hasard dans une surface libre et ainsi de suite.
 
-{{< figure src="images/400fcf9e5415a8d1b3b559ecdffe0c43.png" alt="Le pavage de John Shier le plus simple" caption="Le pavage de John Shier le plus simple" link="http://john-art.com/stat_geom.html" align="aligncenter" width="420" >}}
+{{< figure src="./images/400fcf9e5415a8d1b3b559ecdffe0c43.png" alt="Le pavage de John Shier le plus simple" caption="Le pavage de John Shier le plus simple" link="http://john-art.com/stat_geom.html" align="aligncenter" width="420" >}}
 
 Le problème est que si on réduit la taille des pavés trop vite on ne recouvre pas tout le plan, et si on réduit trop lentement, on risque d'être "coincé" à ne pas pouvoir placer un pavé. L'astuce consiste à attribuer au i-ème pavé une surface de A0/ic. Dans ce cas, la surface totale vaut :
 
@@ -32,11 +32,11 @@ Le problème est que si on réduit la taille des pavés trop vite on ne recouvre
 
 On reconnait en passant la [fonction zêta de Riemann](w:), qui converge pour c>1. Grâce à cette formule, une fois choisi un c, la formule permet de calculer la surface A0 qui garantit qu'il ne restera plus un seul espace libre après avoir placé une infinité de pavés. En pratique on obtient d'excellent remplissages avec quelques milliers de pavés, un peu de patience et un bon programme. Paul Bourke décrit tout ceci en détail sur une page [[5]](#ref-5) agrémentée de magnifiques exemples:
 
-[![](images/506a171f9ee4761935afccfeef05acd9.jpg)](http://paulbourke.net/texture_colour/randomtile/)
+[![](./images/506a171f9ee4761935afccfeef05acd9.jpg)](http://paulbourke.net/texture_colour/randomtile/)
 
 Il a même étendu la méthode à la 3D :
 
-[![](images/46a8f158fcda8e8cafa12c2a7126ec07.jpg)](http://paulbourke.net/texture_colour/randomtile/)
+[![](./images/46a8f158fcda8e8cafa12c2a7126ec07.jpg)](http://paulbourke.net/texture_colour/randomtile/)
 
 Pour ma part, j'ai réalisé la petite application ci-dessous en [Processing](http://processing.org) pour expérimenter un peu cet algorithme que je trouve spectaculaire:
 
@@ -46,7 +46,7 @@ Pour ma part, j'ai réalisé la petite application ci-dessous en [Processing](ht
 
 En pressant sur les touches 0,1,3,4,5,6 vous pouvez changer la forme des pavés à la volée, et la touche espace relance un pavage. Contrairement à Shier et Bourke, je ne pave pas un tore mais un rectangle, en prenant garde à ce que les pavés ne soient pas "coupés" par les bords. En plus je me suis amusé à implémenter les pavés en forme d'étoiles, en prévision d'une carte de Noël. Mignon, n'est-ce pas ? Bon, il reste pas mal de noir car la détection d'intersection entre étoiles est très lente, il faudrait améliorer ça.
 
-{{< figure src="images/ee578774ff1f481e54dd991d9e1d7b9e.png" alt="stars" caption="Géantes rouges et naines bleues" link="images/ee578774ff1f481e54dd991d9e1d7b9e.png" align="aligncenter" width="600" >}}
+{{< figure src="./images/ee578774ff1f481e54dd991d9e1d7b9e.png" alt="stars" caption="Géantes rouges et naines bleues" link="./images/ee578774ff1f481e54dd991d9e1d7b9e.png" align="aligncenter" width="600" >}}
 
 _ajout du 8/10/11_ : j'ai présenté hier un [Tutoriel Processing](http://microclub.ch/2011/10/07/tutoriel-processing/) décrivant la conception de ce programme.
 

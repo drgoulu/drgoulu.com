@@ -6,10 +6,10 @@ categories:
   - "Comment"
 tags: 
   - "informatique"
-coverImage: "Cell-big2-1.jpg"
+coverImage: "./images/Cell-big2-1.jpg"
 ---
 
-{{< figure src="images/Cell-big2-1.jpg" >}}
+{{< figure src="./images/Cell-big2-1.jpg" >}}
 
 A peine s'est-on habitués à l'idée d'avoir des processeurs à double coeur dans nos PC que les quadruple coeurs ([Intel Core 2 Quad](http://www.intel.com/cd/products/services/emea/fra/processors/core2quad/333916.htm) ou  [AMD Opteron Quad Core](http://multicore.amd.com/us-en/quadcore/)) débarquent dans les PC haut de gamme, et bientôt sur nos bureaux.
 

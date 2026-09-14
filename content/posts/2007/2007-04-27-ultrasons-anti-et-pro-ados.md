@@ -8,10 +8,10 @@ tags:
   - "monde"
   - "physique"
   - "societe"
-coverImage: "4333d9e2e65f2e1e7cd12e847855fead.jpg"
+coverImage: "./images/4333d9e2e65f2e1e7cd12e847855fead.jpg"
 ---
 
-{{< figure src="images/4333d9e2e65f2e1e7cd12e847855fead.jpg" >}}
+{{< figure src="./images/4333d9e2e65f2e1e7cd12e847855fead.jpg" >}}
 
 J'avais sans trop y croire entendu parler d'une sonnerie de Natel (= "téléphone portable" pour les Gaulois) qui serait tellement aigue qu'elle serait inaudible pour les adultes, d'où son intérêt pour être joignable en classe alors que ces engins sont censés être débranchés...
 

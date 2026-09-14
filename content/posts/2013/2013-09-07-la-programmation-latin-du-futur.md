@@ -9,7 +9,7 @@ tags:
   - "pedagogie"
   - "programmation"
   - "societe"
-coverImage: "651d68c2e627c996ff969aa60cb57457.jpg"
+coverImage: "./images/651d68c2e627c996ff969aa60cb57457.jpg"
 ---
 
 Dans un récent article [[1]](#ref-1) Anna Lietti fait le point sur une question qui fait son chemin un peu partout:
@@ -18,7 +18,7 @@ Dans un récent article [[1]](#ref-1) Anna Lietti fait le point sur une questio
 
 Selon certains comme [Bernard Stiegler](w:), les enfants du numérique ont une "expérience rusée" du fonctionnement des machines, mais leur approche intuitive approche vite ses limites et ne leur permet pas de dominer la machine. Or cette domination est nécessaire pour contrôler notre monde, de plus en plus automatisé, numérique et interconnecté. On le voit avec l'affaire [PRISM](w:PRISM_(programme_de_surveillance)) : contrôler [La Machine](/2008/11/29/les-dimensions-de-la-machine/), c'est avoir le pouvoir sur ses utilisateurs...
 
-[![T-shirt "I write code"](images/651d68c2e627c996ff969aa60cb57457.jpg)](http://www.framablog.org/index.php/post/2011/12/08/code-latin-ecole)
+[![T-shirt "I write code"](./images/651d68c2e627c996ff969aa60cb57457.jpg)](http://www.framablog.org/index.php/post/2011/12/08/code-latin-ecole)
 
 Des précurseurs comme [Seymour Papert](w:) (élève de [Jean Piaget](w:)) se sont intéressés dès les années 1960 à la pédagogie de l'informatique et inventé des outils comme le [langage Logo](w:Logo_(langage)) pour initier à l'algorithmique et à la programmation procédurale dès l'enfance. Pourtant, 50 ans plus tard, aucun pays n'intègre la programmation au cursus scolaire primaire, peu le font au niveau secondaire, et la branche y est rarement obligatoire.
 
@@ -30,7 +30,7 @@ Plusieurs initiatives se développement également  en Suisse, notamment:
 
 - le Prof. Juraj Hromkovic avec son module "[programmer dans les écoles primaires](http://www.abz.inf.ethz.ch/)", adopté dans une trentaine d’établissements en Suisse alémanique
 - Jürg Kohlas, qui promeut l'enseignement de l’informatique comme discipline fondamentale au gymnase (=lycée) dans un livre tout récent [[2]](#ref-2), en recommandant de commencer par former les professeurs, un problème qui semble général...
-- {{< figure src="images/scratch.png" alt="un &quot;script&quot; en Scratch" caption="un &quot;script&quot; en Scratch" link="http://scratch.mit.edu/" width="232" >}}
+- {{< figure src="./images/scratch.png" alt="un &quot;script&quot; en Scratch" caption="un &quot;script&quot; en Scratch" link="http://scratch.mit.edu/" width="232" >}}
     
     Manuela Barraud et Olivier Jorand proposent des ateliers de "[philobotique](http://www.philobotique.ch/home.html)" combinant programmation et robotique ludique dans la continuation de la "philosphie Logo", mais ils forment aussi des enseignants à leur approche. Outre Logo, ils utilisent le langage semi graphique [Scratch](http://scratch.mit.edu/) développé au MIT pour les enfants dès 7 ans.
 

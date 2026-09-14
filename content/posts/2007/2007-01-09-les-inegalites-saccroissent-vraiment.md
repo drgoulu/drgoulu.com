@@ -8,7 +8,7 @@ tags:
   - "economie"
   - "gini"
   - "inegalites"
-coverImage: "ceff2742634f4ddd3d5251efaaf85934.png"
+coverImage: "./images/ceff2742634f4ddd3d5251efaaf85934.png"
 ---
 
 L'opinion générale relayée par les media nous le répète : les inégalités dans le monde s'accroissent, et c'est la faute de la libéralisation et de la mondialisation. Il faut avouer que c'est facile à croire, lorsque l'on observe la misère dans les villes et les campagnes du monde comparée à l'affolante fortune de certains.
@@ -30,7 +30,7 @@ Sur l'excellent site [NationMaster (en anglais)](http://www.nationmaster.com/ind
 
 Reste à savoir comment les indices de Gini évoluent au cours du temps. Ces infos ne sont pas facile à trouver, mais j'ai quand même mis la main sur quelques résultats :
 
-- ![](images/a4557805f6457e5b705de16397c147a0.gif)Pour les Etats-Unis, [cet article](http://www.leftbusinessobserver.com/Gini_supplement.html) fournit le graphique ci-contre, basé sur les données du "Census Bureau" américain. Il montre clairement que l'inégalité a effectivement fortement et régulièrement augmenté depuis 1970, alors qu'elle avait diminué presque jusqu'aux niveaux "européens" depuis la fin de la 2ème Guerre Mondiale. Ceci conforte donc l'idée d'inégalités croissantes, même s'il manque malheureusement les données les plus récentes.
+- ![](./images/a4557805f6457e5b705de16397c147a0.gif)Pour les Etats-Unis, [cet article](http://www.leftbusinessobserver.com/Gini_supplement.html) fournit le graphique ci-contre, basé sur les données du "Census Bureau" américain. Il montre clairement que l'inégalité a effectivement fortement et régulièrement augmenté depuis 1970, alors qu'elle avait diminué presque jusqu'aux niveaux "européens" depuis la fin de la 2ème Guerre Mondiale. Ceci conforte donc l'idée d'inégalités croissantes, même s'il manque malheureusement les données les plus récentes.
 - Pour la Suisse, je n'ai pas retrouvé de chiffres sur l'évolution du coefficient de Gini, mais dans le chapitre du cours d'Economie nationale ["Distribution et redistribution des revenus en Suisse"](http://www.hec.unil.ch/jlambelet/EcoNat0304G7.pdf) du Professeur  Jean-Christian Lambelet, à l'Université de Lausanne on lit :
     
     > "au cours des années 90 en Suisse, les 20% des actifs les plus riches ont vu leur part au revenu global légèrement diminuer alors que les 20% les plus pauvres ont vu cette part au revenu augmenter très modestement. Les chiffres sont encore plus frappants si l'on considère les ménages helvétiques durant la dernière décennie: la part des 20% les plus aisés au revenu total des actifs a diminué de 3,6%, alors que celle des 20% les plus mal lotis a progressé de 2,2%."

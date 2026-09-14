@@ -7,12 +7,12 @@ categories:
 tags: 
   - "art"
   - "horlogerie"
-coverImage: "d8fcc71af87afbb19c7cd4fe6014f659.jpg"
+coverImage: "./images/d8fcc71af87afbb19c7cd4fe6014f659.jpg"
 ---
 
 Cette histoire a commencé par le "buzz" de la montre qui n'avance jamais:
 
-![](images/d8fcc71af87afbb19c7cd4fe6014f659.jpg)
+![](./images/d8fcc71af87afbb19c7cd4fe6014f659.jpg)
 
 Le nom de l'inventeur de ce magnifique [chindogu](/2009/12/24/initiation-au-chindogu/) ayant été perdu, j'ai utilisé [TinEye](http://tineye.com) pour retrouver l'auteur des photos originales, et c'est ainsi que j'ai découvert [Marcel Bétrisey](http://www.betrisey.ch/), mais surtout que sa "[montre valaisanne](http://www.betrisey.ch/lagreu.html)" n'est de loin pas son oeuvre la plus magistrale.
 
@@ -28,7 +28,7 @@ Entre des pendules d'apparence baroques, Marcel poursuit également une quête d
 
 Les deux objectifs sont atteints par exemple avec "[Florence](http://www.betrisey.ch/florence.html)", propulsée une fois par heure par la chute d'une seule bille, et qui ne dévie que d'une seconde par mois !
 
-{{< figure src="images/fed0bc25222e0bcb84533ed9527198cf.jpg" alt="Le moteur de Florence : une bille par heure" caption="Le moteur de &quot;Florence&quot; : une bille par heure" link="http://www.flickr.com/photos/goulu/6166891188/in/photostream/" align="aligncenter" width="375" >}}
+{{< figure src="./images/fed0bc25222e0bcb84533ed9527198cf.jpg" alt="Le moteur de Florence : une bille par heure" caption="Le moteur de &quot;Florence&quot; : une bille par heure" link="http://www.flickr.com/photos/goulu/6166891188/in/photostream/" align="aligncenter" width="375" >}}
 
 Le "[Chronolithe](http://www.betrisey.ch/cronolit.html)" et la "[Conti](http://www.betrisey.ch/conti.html)" sont les plus incroyables pendules qu'il m'ait été donné de voir. Leur long balancier n'est propulsé que par la [pression de la lumière](w:Pression_de_radiation), comme le [radiomètre de Crookes](w:), ces petits moulins de pales argentées d'un côté et noircies de l'autre tourniquant sous vide d'air dans certaines vitrines de l'ère pré-numérique. Bouger un pendule de 4 Kg avec une force de quelques micronewtons : il l'a fait !
 
@@ -42,6 +42,6 @@ Si vous avez manqué l'[exposition de ses oeuvres à La Vilette en 2006](http:
 
 Merci Marcel pour cette visite passionnante à un passionné !
 
-{{< figure src="images/0d453317c1f56b3e641718067f99c183.jpg" alt="Outils rarement observés dans un atelier d'horlogerie, mais apparemment fort utiles..." caption="Outils rarement observés dans un atelier d'horlogerie, mais apparemment fort utiles..." align="aligncenter" width="375" >}}
+{{< figure src="./images/0d453317c1f56b3e641718067f99c183.jpg" alt="Outils rarement observés dans un atelier d'horlogerie, mais apparemment fort utiles..." caption="Outils rarement observés dans un atelier d'horlogerie, mais apparemment fort utiles..." align="aligncenter" width="375" >}}
 
 [(article aussi paru sur le blog du Microclub)](http://microclub.ch/2011/09/20/les-geniales-pendules-de-marcel-betrisey/)

@@ -7,12 +7,12 @@ categories:
 tags: 
   - "pseudo"
   - "randi"
-coverImage: "c198f750b3bd1d95a72ffd1beac01d0b.jpg"
+coverImage: "./images/c198f750b3bd1d95a72ffd1beac01d0b.jpg"
 ---
 
 ### ... vous pouvez gagner 1 million de dollars !
 
-![](images/c198f750b3bd1d95a72ffd1beac01d0b.jpg)Il vous suffit de participer au "[One Million Dollar Paranormal Challenge](http://www.randi.org/site/index.php/1m-challenge.html)" que la "James Randi Educational Foundation" (JREF) propose depuis 1964.
+![](./images/c198f750b3bd1d95a72ffd1beac01d0b.jpg)Il vous suffit de participer au "[One Million Dollar Paranormal Challenge](http://www.randi.org/site/index.php/1m-challenge.html)" que la "James Randi Educational Foundation" (JREF) propose depuis 1964.
 
 Voici une traduction en français de leur proposition :
 

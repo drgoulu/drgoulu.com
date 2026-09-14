@@ -8,10 +8,10 @@ tags:
   - "bateau"
   - "geologie"
   - "mer"
-coverImage: "13363399fece287c1738dcd558864284-1.jpg"
+coverImage: "./images/13363399fece287c1738dcd558864284-1.jpg"
 ---
 
-{{< figure src="images/13363399fece287c1738dcd558864284.jpg" alt="Eclogite de Norvège" caption="Eclogite de Norvège" link="http://fr.wikipedia.org/wiki/%C3%89clogite" width="320" >}}
+{{< figure src="./images/13363399fece287c1738dcd558864284.jpg" alt="Eclogite de Norvège" caption="Eclogite de Norvège" link="http://fr.wikipedia.org/wiki/%C3%89clogite" width="320" >}}
 
 Vu en Norvège quelques trous dans une falaise de fjord dont on nous a indiqué qu'il s'agissait d'une ancienne carrière d'[éclogite](w:). Qu'est-ce ?
 
@@ -23,17 +23,17 @@ Et lorsqu'un gisement se trouvait directement sur une côte facilement accessibl
 
 Mais à quoi peut donc donc servir aujourd'hui l'immense carrière d'éclogite moderne juste à côté ? [Cette page](http://www.visneskalk.no/eklogitt/en/produksjon.html) dit qu'elle produit principalement du ballast pour l' "offshore rockdumping", ou "déchargement sous-marin de roches"  [[2]](#ref-2), [[3]](#ref-3), [[4]](#ref-4).  Ca consiste à déposer une couche de cailloux au fond de la mer pour l'égaliser avant la pose d'une plateforme pétrolière par exemple, ou pour protéger des pipelines sous-marins et les isoler thermiquement. Des [bateaux spéciaux](w:en:Rock-dumping_vessels) sont capables de réaliser ceci avec une grande précision jusqu'à plus de 1200m de fond (mais [peuvent aussi chavirer](w:en:MV_Rocknes)...)
 
-![](images/825d79670087d22a4a1225f2215c3f8f.jpg)![](images/b5d39735ac7b5af1e2ac53806d525e5a.jpg)
+![](./images/825d79670087d22a4a1225f2215c3f8f.jpg)![](./images/b5d39735ac7b5af1e2ac53806d525e5a.jpg)
 
 Oui mais bon, vaut-il vraiment la peine d'utiliser de la jolie éclogite à 3.2 kg/dm³ plutôt que du bête granit à 2.7 pour faire ceci ?
 
 La réponse est oui, car la [poussée d'Archimède](w:) fait fortement varier le [poids apparent](w:Poids#Poids_apparent) dans l'eau des corps immergés en fonction de leur densité. Dans le cas qui nous occupe, la densité de l'éclogite supérieure de 20% à celle du granit fait qu'il en faut deux fois moins (en kg) que du granit pour exercer la même force au fond de la mer, comme le montrent un petit calcul et ce graphique [[5]](#ref-5):
 
-[![Capture](images/Capture.png)](/wp-content/uploads/2013/08/Capture.png)
+[![Capture](./images/Capture.png)](./images/Capture.png)
 
 La carrière de [Visnes](w:en:Visnes,_Møre_og_Romsdal) ayant le bon goût de se situer non loin des importantes installations pétrolières de Norvège et de Mer du Nord, nul doute que ses quelques millions de tonnes d'éclogite se retrouveront bientôt au fond de la mer...
 
-{{< figure src="images/d8959bed02df3817d1de9a0b21907c3d.jpg" alt="Carrière et chargement d'éclogite en Norvège" caption="Carrière et chargement d'éclogite en Norvège" align="aligncenter" width="600" >}}
+{{< figure src="./images/d8959bed02df3817d1de9a0b21907c3d.jpg" alt="Carrière et chargement d'éclogite en Norvège" caption="Carrière et chargement d'éclogite en Norvège" align="aligncenter" width="600" >}}
 
 ### Références
 

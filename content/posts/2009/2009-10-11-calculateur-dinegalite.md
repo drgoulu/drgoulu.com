@@ -12,7 +12,7 @@ tags:
   - "programmation"
   - "societe"
   - "suisse"
-coverImage: "ceff2742634f4ddd3d5251efaaf85934.png"
+coverImage: "./images/ceff2742634f4ddd3d5251efaaf85934.png"
 ---
 
 Les inégalités de revenu sont un sujet d'actualité politique brûlant. En Suisse, les [Jeunesses Socialistes](http://juso.ch/) viennent de lancer une initiative populaire visant à limiter le salaire maximal dans les entreprises à 12 fois le salaire minimal.Dans une petite boite c'est presque toujours le cas, mais plus on travaille dans une grande entreprise, plus on aimerait gagner en une année ce que gagne notre CEO en un mois...
@@ -27,9 +27,9 @@ Le petit graphique associé (dont il faut changer l'échelle horizontale à la m
 
 En jouant avec cet outil, vous constaterez que l'initiative "1:12" des jeunesses socialistes n'implique pas du tout une distribution équitable des revenus. Comme le montrent les cas extrêmes ci-dessous, le coefficient de Gini peut varier énormément même si le salaire le plus élevé vaut 12x le salaire minimal:
 
-{{< figure src="images/f2cec9deffecb61c69a24e0fa13bb3b7.png" alt="Lorenz 1-12-1" caption="société de 10 personnes ou les 9 employés ont un salaire égal et le patron un revenu 12 fois supérieur. Indice de Gini = 0.52" link="/wp-content/uploads/HLIC/f2cec9deffecb61c69a24e0fa13bb3b7.png" align="aligncenter" width="454" >}}
+{{< figure src="./images/f2cec9deffecb61c69a24e0fa13bb3b7.png" alt="Lorenz 1-12-1" caption="société de 10 personnes ou les 9 employés ont un salaire égal et le patron un revenu 12 fois supérieur. Indice de Gini = 0.52" link="./images/f2cec9deffecb61c69a24e0fa13bb3b7.png" align="aligncenter" width="454" >}}
 
-{{< figure src="images/c69c69aa7491ec6b0c8d49f93197af76.png" alt="Lorenz 1-12-2" caption="société de 10 personnes ou 9 cadres ont un salaire égal, et un employé un salaire 12x moins élevé. Indice de Gini = 0.1" link="/wp-content/uploads/HLIC/c69c69aa7491ec6b0c8d49f93197af76.png" align="aligncenter" width="455" >}}
+{{< figure src="./images/c69c69aa7491ec6b0c8d49f93197af76.png" alt="Lorenz 1-12-2" caption="société de 10 personnes ou 9 cadres ont un salaire égal, et un employé un salaire 12x moins élevé. Indice de Gini = 0.1" link="./images/c69c69aa7491ec6b0c8d49f93197af76.png" align="aligncenter" width="455" >}}
 
 Pour des revenus réellement équitables, il faudrait que le coefficient de Gini des entreprises corresponde, ou soit même inférieur à celui du pays considéré. Ceci laisse encore une grande flexibilité à la politique salariale. Voici par exemple quelques distributions de revenus donnant un indice de Gini = 0.33, le même que celui de la Suisse entière (avant impôts):
 
@@ -37,7 +37,7 @@ Pour des revenus réellement équitables, il faudrait que le coefficient de Gini
 - 50% du personnel touche un salaire 4x supérieur aux autres 50%
 - [distribution uniforme](w:Loi_uniforme_continue)des salaires : 10% touchent un salaire de base, 10% touchent 2x plus, 10% touchent 3x plus etc jusqu'aux 10% qui touchent 10x le salaire de base:
     
-    {{< figure src="images/4a57146795bddaf647e74921f592a4c3.png" alt="Lorenz 1-12-3" caption="distribution uniforme des revenus : Gini = 0.33" link="/wp-content/uploads/HLIC/4a57146795bddaf647e74921f592a4c3.png" align="aligncenter" width="457" >}}
+    {{< figure src="./images/4a57146795bddaf647e74921f592a4c3.png" alt="Lorenz 1-12-3" caption="distribution uniforme des revenus : Gini = 0.33" link="./images/4a57146795bddaf647e74921f592a4c3.png" align="aligncenter" width="457" >}}
 
 On voit au passage que la courbe de Lorenz permettent d' illustrer de manière fine la politique salariale des entreprises. En particulier, les différences de statut entre employés provoquent des "cassures" dans la courbe, alors que des revenus abusifs dans le haut de l'échelle sont détectables par la pente de la courbe à droite.
 

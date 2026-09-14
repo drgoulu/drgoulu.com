@@ -10,12 +10,12 @@ tags:
   - "astro"
   - "programmation"
   - "simulation"
-coverImage: "a470c29cf6c88b820cc608831b61f545.gif"
+coverImage: "./images/a470c29cf6c88b820cc608831b61f545.gif"
 ---
 
 Suite à [Galaxies, Fenêtres sur l’Univers](/2007/07/23/galaxies/ "Galaxies, Fenêtres sur l’Univers"), je m'étais lancé dans la réalisation d'une [Simulation de Galaxie Spirale](http://3dmon.wordpress.com/2007/08/26/simulation-de-galaxie-spirale/) en temps réel basée sur [Demoniak3D](http://www.ozone3d.net/demoniak3d/).
 
-[![galaxie.jpg](images/cc55c0123f3e0926996a2a8c43f825cb.jpg)](http://drgoulu.files.wordpress.com/2008/02/galaxie.jpg "galaxie.jpg")L'idée était principalement d'illustrer le fait que les bras spiraux des galaxies ne tournent pas : se sont des "ondes de pression" dans lesquels la densité d'étoiles est plus élevée qu'ailleurs en raison du fait que les étoiles suivent "en moyenne" des orbites elliptiques décalées, comme illustré sur le graphique ci-contre, où les spirales apparaissent clairement.
+[![galaxie.jpg](./images/cc55c0123f3e0926996a2a8c43f825cb.jpg)](http://drgoulu.files.wordpress.com/2008/02/galaxie.jpg "galaxie.jpg")L'idée était principalement d'illustrer le fait que les bras spiraux des galaxies ne tournent pas : se sont des "ondes de pression" dans lesquels la densité d'étoiles est plus élevée qu'ailleurs en raison du fait que les étoiles suivent "en moyenne" des orbites elliptiques décalées, comme illustré sur le graphique ci-contre, où les spirales apparaissent clairement.
 
 Je viens de réaliser une nouvelle version de cette simulation que vous pouvez [télécharger ici](http://www.ozone3d.net/demos_projects/spiral_galaxy.php) et exécuter sur votre propre PC (doté d'une carte 3D décente) pour voir 15'000 étoiles tourner devant vos yeux ébahis:
 
@@ -35,7 +35,7 @@ Dans cette nouvelle version , j'ai commencé à implanter un autre phénomène f
 
 La vie des étoiles se déroule de gauche à droite dans le diagramme ci-dessous:
 
-![rtemagicc\_hrgenericsml.jpg](images/117e7e4fff1b044c8c45263bfcd691eb.jpg)
+![rtemagicc\_hrgenericsml.jpg](./images/117e7e4fff1b044c8c45263bfcd691eb.jpg)
 
 Les étoiles supergéantes ([vraiment très grosses](/2008/02/01/on-est-peu-de-chose/)) naissent bleues. Après une vie brève passée à briller 10'000x plus que le Soleil, elles deviennent rouges et meurent brutalement en [supernovae](/2007/03/08/perles-cosmiques/), brillant comme des millions de soleils pendant quelques heures et laissant une étoile à neutrons, un [magnetar](/2007/09/28/magnetar/) voire un [trou noir](/2007/06/26/le-trou-noir-central-de-la-voie-lactee-revele/) au centre d'une [nébuleuse de matériaux expulsés dans l'espace](/2007/09/28/magnetar/)
 

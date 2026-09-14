@@ -12,7 +12,7 @@ tags:
   - "psychologie"
   - "quantique"
   - "societe"
-coverImage: "1825eeef1f95d9df6e868da6b7ae0da9.jpg"
+coverImage: "./images/1825eeef1f95d9df6e868da6b7ae0da9.jpg"
 ---
 
 Intéressant de voir comme le catastrophisme attire. Des films holywoodiens aux sectes apocalyptiques, la recette de la fin du monde a toujours du succès.
@@ -39,4 +39,4 @@ A noter un site beaucoup plus sérieux, celui de la [lifeboat fundation](http://
 - des [panorama du détecteur ATLAS](http://www.petermccready.com/portfolio/05091901.html) en construction
 - la belle image ci-dessous, représentant la simulation de ce qu'ATLAS devrait détecter : la création d'un boson de Higgs à partir de l'énergie pure créée par le choc de deux protons.
 
-[![](images/1825eeef1f95d9df6e868da6b7ae0da9.jpg)](http://en.wikipedia.org/wiki/File:CMS_Higgs-event.jpg)
+[![](./images/1825eeef1f95d9df6e868da6b7ae0da9.jpg)](http://en.wikipedia.org/wiki/File:CMS_Higgs-event.jpg)

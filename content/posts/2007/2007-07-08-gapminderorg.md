@@ -10,14 +10,14 @@ tags:
   - "gapminder"
   - "monde"
   - "statistiques"
-coverImage: "c736ab5918c3cd1145d9a87e57131cff.png"
+coverImage: "./images/c736ab5918c3cd1145d9a87e57131cff.png"
 ---
 
 [Gapminder.org](http://www.gapminder.org/) est une fondation visant à mettre à disposition du public les statistiques sur le développement mondial sous une forme pratique. Le résultat est tellement génial qu'il est hébergé chez Google : [The Gapminder World](http://www.gapminder.org/world/).
 
 Il permet de visualiser des corrélations entre les données statistiques des pays et d'animer leur évolution dans le temps. Dans l'exemple ci-dessous, chaque pays sous la forme d'un cercle de taille proportionnelle à la population, placé sur l'axe X au revenu moyen et sur l'axe Y à l'espérance de vie de ses habitants :
 
- [![gapminder.png](images/93af218a1a08c29635aa94c3964bf964.png) _(cliquer pour agrandir)_](/wp-content/uploads/HLIC/93af218a1a08c29635aa94c3964bf964.png "gapminder.png")
+ [![gapminder.png](./images/93af218a1a08c29635aa94c3964bf964.png) _(cliquer pour agrandir)_](./images/93af218a1a08c29635aa94c3964bf964.png "gapminder.png")
 
 On peut sélectionner certains pays pour les comparer et voir par exemple :
 

@@ -12,10 +12,10 @@ tags:
   - "maths"
   - "physique"
   - "pour-la-science"
-coverImage: "b7dbf9fe2a9d73365aedd85e7e470e30.jpg"
+coverImage: "./images/b7dbf9fe2a9d73365aedd85e7e470e30.jpg"
 ---
 
-{{< figure src="images/b7dbf9fe2a9d73365aedd85e7e470e30.jpg" link="http://www.pourlascience.fr/ewb_pages/e/espace-numerique-detail.php?art_id=33592&num=446" >}}
+{{< figure src="./images/b7dbf9fe2a9d73365aedd85e7e470e30.jpg" link="http://www.pourlascience.fr/ewb_pages/e/espace-numerique-detail.php?art_id=33592&num=446" >}}
 
 D'habitude je déguste mon numéro de "Pour la Science" petit à petit pendant le mois. Mais là j'ai dévoré le [numéro de décembre](http://www.pourlascience.fr/ewb_pages/a/article-le-trou-noir-a-l-apos-origine-du-big-bang-33581.php) en quelques heures de voyage en train : il est plein d'articles passionnants sur des sujets très variés.
 
@@ -23,7 +23,7 @@ Dans "[Le trou noir à l'origine du Big Bang](http://www.pourlascience.fr/ewb_pa
 
 L'article "[Produire des rayons X et gamma sur une table](http://www.pourlascience.fr/ewb_pages/a/article-produire-des-rayons-x-et-gamma-sur-une-table-33582.php)" m'a littéralement scotché. Kim Ta Phuoc, Cédric Thaury (tous deux du [LOA](http://loa.ensta-paristech.fr/sources-de-rayons-x_lang_FR_menu_3)) et Sébastien Corde y expliquent comment faire un [synchrotron](w:) de quelques mètres de long, et à la différence de l'article précédent, l'expérience a été faite, et ça marche ! Le principe est l'[accélération laser-plasma](w:) : un laser produisant des impulsions extrêmement puissantes mais tout aussi extrêmement brèves. En traversant un [plasma](w:État_plasma), l'impulsion crée des ondes de densité dans le champ électrique un peu comme un bateau crée des vagues de sillage, et sur ces vagues, les électrons du plasma se mettent à "surfer", accélérant à plusieurs centaines de MeV en quelques millimètres seulement au lieu des kilomètres requis avec un accélérateur "classique".
 
-{{< figure src="images/4686339e6184000c00654c548b075d59.jpg" alt="http://www.pourlascience.fr/ewb_pages/a/article-produire-des-rayons-x-et-gamma-sur-une-table-33582.php" caption="Le champ électrique qui se forme dans un gaz atomique derrière une impulsion laser ultrabrève est montré ici sous la forme de vagues bleues que descendent des paquets d'électrons en voie d'accélération. C'est le principe des accélérateurs laser-plasma. (illustration Pour La Science)" link="images/4686339e6184000c00654c548b075d59.jpg" align="aligncenter" width="674" >}}
+{{< figure src="./images/4686339e6184000c00654c548b075d59.jpg" alt="http://www.pourlascience.fr/ewb_pages/a/article-produire-des-rayons-x-et-gamma-sur-une-table-33582.php" caption="Le champ électrique qui se forme dans un gaz atomique derrière une impulsion laser ultrabrève est montré ici sous la forme de vagues bleues que descendent des paquets d'électrons en voie d'accélération. C'est le principe des accélérateurs laser-plasma. (illustration Pour La Science)" link="./images/4686339e6184000c00654c548b075d59.jpg" align="aligncenter" width="674" >}}
 
 Par un mécanisme que je n'ai pas bien compris, tous les électrons accélèrent en fait en zigzaguant à la même fréquence, et à chaque virage émettent chacun un photon à haute énergie. On obtient ainsi des impulsions de [rayons X](w:) voire [rayons gamma](w:) d'une très bonne qualité, et dont la brièveté est un avantage dans beaucoup d'applications. Outre la radiothérapie, on devrait arriver bientôt à faire de la [cristallographie aux rayons X](w:) sur des molécules organiques délicates, voire "in vivo". Et quand les physiciens se mettent imaginer comment filmer des molécules dont les liaisons chimiques seraient brisées une à une, je deviens juste impatient de voir ça !
 

@@ -10,10 +10,10 @@ tags:
   - "physique"
   - "quantique"
   - "relativite"
-coverImage: "fd809d6a30a23e3e31c24514a475b43c.jpg"
+coverImage: "./images/fd809d6a30a23e3e31c24514a475b43c.jpg"
 ---
 
-{{< figure src="images/fd809d6a30a23e3e31c24514a475b43c.jpg" link="http://www.flickr.com/photos/pichl/426785954/" >}}
+{{< figure src="./images/fd809d6a30a23e3e31c24514a475b43c.jpg" link="http://www.flickr.com/photos/pichl/426785954/" >}}
 
 La théorie de la relativité n'est pas très simple, mais on peut parvenir à en saisir quelques notions avec un peu d'imagination et de curiosité. La mécanique quantique est beaucoup moins abordable car elle choque beaucoup plus notre compréhension intuitive du monde. Alors que dire de la "théorie des cordes" (string theory), censée lier l'infiniment grand et l'infiniment petit dans un univers à 10 dimensions légèrement plus tordues que l[es 4 d'Einstein](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)...
 

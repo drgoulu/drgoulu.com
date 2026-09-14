@@ -13,10 +13,10 @@ tags:
   - "science"
   - "suisse"
   - "traduction"
-coverImage: "118d818f731430ad23daa762c4091aed.jpg"
+coverImage: "./images/118d818f731430ad23daa762c4091aed.jpg"
 ---
 
-{{< figure src="images/118d818f731430ad23daa762c4091aed.jpg" alt="Rapport suisse sur l'homéopathie" caption="Jetez ce livre dans une piscine et buvez un verre de son eau : selon le principe de similitude, ça devrait vous soigner de l'inconduite scientifique..." link="/wp-content/uploads/2012/07/Homeopathy-in-Healthcare-Bornhoft-Gudrun-9783642206375.jpg" width="194" >}}
+{{< figure src="./images/118d818f731430ad23daa762c4091aed.jpg" alt="Rapport suisse sur l'homéopathie" caption="Jetez ce livre dans une piscine et buvez un verre de son eau : selon le principe de similitude, ça devrait vous soigner de l'inconduite scientifique..." link="./images/Homeopathy-in-Healthcare-Bornhoft-Gudrun-9783642206375.jpg" width="194" >}}
 
 Sous des titres comme "[Le rapport sur l'homéopathie très critiqué](http://www.24heures.ch/suisse/rapport-homeopathie-tres-critique/story/17010597)", la presse suisse a récemment mentionné un [article de David Martin Shaw publié fin mai dans la Swiss Medical Weekly](https://smw.ch/article/doi/smw.2012.13594) dans lequel il démonte point par point le rapport [[1]](#ref-1) qui a servi de justification au remboursement de l'homéopathie par l'assurances maladie obligatoire en Suisse.
 
@@ -30,7 +30,7 @@ De plus ce rapport n'a apparemment pas été traduit dans une langue officielle 
 
 N'étant ni docteur en médecine ni traducteur certifié, ce travail est l'oeuvre d'un [traduttore traditore](w:Traduttore,_traditore) amateur assisté de deux relecteurs bénévoles (merci à Marc et David). Veuillez donc vous référer à l'article original en cas de doute.
 
- Référence de l'article original : [![ResearchBlogging.org](images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org) David Martin Shaw (2012). The Swiss report on homeopathy: a case study of research misconduct Swiss Medical Weekly (142) {{< altmetric doi="10.4414/smw.2012.13594" >}}
+ Référence de l'article original : [![ResearchBlogging.org](./images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org) David Martin Shaw (2012). The Swiss report on homeopathy: a case study of research misconduct Swiss Medical Weekly (142) {{< altmetric doi="10.4414/smw.2012.13594" >}}
 
 ## Le rapport suisse sur l'homéopathie : une étude de cas d'inconduite\* en recherche
 

@@ -9,7 +9,7 @@ tags:
   - "photo"
   - "physique"
   - "video"
-coverImage: "shapeimage_1.png"
+coverImage: "./images/shapeimage_1.png"
 ---
 
 Prenez une caméra haute vitesse très chère, mettez-la en marche et laissez-la tomber à côté d'un sablier géant de façon à ce qu'elle filme des grains de sable en chute libre. Voilà ce que ça donne :

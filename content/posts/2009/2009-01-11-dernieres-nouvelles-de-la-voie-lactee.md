@@ -7,7 +7,7 @@ categories:
 tags: 
   - "astro"
   - "galaxies"
-coverImage: "8a3c8895f98903f44aa24650fdd6ec39-1.jpg"
+coverImage: "./images/8a3c8895f98903f44aa24650fdd6ec39-1.jpg"
 ---
 
 Ce n'est qu'au début du XXème siècle qu'on a réalisé que de nombreuses "nébuleuses" observées étaient des "galaxies" regroupant des milliards d'étoiles, et que la trainée blanche qui barre notre ciel les nuits bien noires est la Galaxie à laquelle appartient notre Soleil, vue de l'intérieur.
@@ -16,15 +16,15 @@ Notre position à l'intérieur de la Voie Lactée rend impossible son observatio
 
 D'ailleurs, une image récente du centre de la Galaxie [[1]](#ref-1) montre que la zone de 300 années-lumière voisine du trou noir central (la tache blanche sur la photo) est extrêmement active, avec des nuages de gaz chaud et des étoiles massives, comme [une récente simulation](/2008/09/06/les-trous-noirs-des-moteurs-de-lunivers/) le prévoit :
 
-{{< figure src="images/8a3c8895f98903f44aa24650fdd6ec39.jpg" alt="gros plan sur le centre galactique (cliquer pour agrandir)" caption="gros plan sur le centre galactique (cliquer pour agrandir)" link="/wp-content/uploads/HLIC/8a3c8895f98903f44aa24650fdd6ec39.jpg" align="aligncenter" width="427" >}}
+{{< figure src="./images/8a3c8895f98903f44aa24650fdd6ec39.jpg" alt="gros plan sur le centre galactique (cliquer pour agrandir)" caption="gros plan sur le centre galactique (cliquer pour agrandir)" link="./images/8a3c8895f98903f44aa24650fdd6ec39.jpg" align="aligncenter" width="427" >}}
 
 En 2008, la structure de la Voie Lactée est enfin illustrée sur cette magnifique carte [[2]](#ref-2):
 
-[![vue dartiste de la voie lactée. (cliquer pour agrandir)](images/f0ef27ea4257daf2af220b71651b5e02.jpg)](http://upload.wikimedia.org/wikipedia/commons/8/89/236084main_MilkyWay-full-annotated.jpg)
+[![vue dartiste de la voie lactée. (cliquer pour agrandir)](./images/f0ef27ea4257daf2af220b71651b5e02.jpg)](http://upload.wikimedia.org/wikipedia/commons/8/89/236084main_MilkyWay-full-annotated.jpg)
 
 mais est-ce correct ? Une équipe suisso-germano-américaine [[3]](#ref-3) vient de confirmer cette structure à l'aide de mesures faites dans l'infrarouge par les satellites observant le fond du ciel. La représentation graphique de ces mesures est celle-ci:
 
-[![](images/ab1cddd1363975cf1e3f445c2266f654.jpg)](http://www.itp.unizh.ch/~ppe/pr)
+[![](./images/ab1cddd1363975cf1e3f445c2266f654.jpg)](http://www.itp.unizh.ch/~ppe/pr)
 
 Avec un peu d'imagination, on voit que ça correspond assez bien : la Voie Lactée possède deux bras spiraux principaux et deux plus ténus.
 

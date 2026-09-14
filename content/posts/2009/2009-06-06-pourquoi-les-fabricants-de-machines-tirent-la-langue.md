@@ -7,10 +7,10 @@ categories:
 tags: 
   - "economie"
   - "production"
-coverImage: "ccc806a5160dee07a8e894b7daedff5b.jpg"
+coverImage: "./images/ccc806a5160dee07a8e894b7daedff5b.jpg"
 ---
 
-{{< figure src="images/9f590fe5f25ac15334337cf8f94badeb.jpg" alt="grands moulins de paris - machine-rouillee" caption="Photo © Tristan Savatier" link="http://www.loupiote.com/photos/18931817.shtml" align="alignleft" width="222" >}}
+{{< figure src="./images/9f590fe5f25ac15334337cf8f94badeb.jpg" alt="grands moulins de paris - machine-rouillee" caption="Photo © Tristan Savatier" link="http://www.loupiote.com/photos/18931817.shtml" align="alignleft" width="222" >}}
 
 Imaginons un producteur de bidules. Il dispose d'un parc de 10 machines dont chacune est capable de produire 1 million de bidules par année, et comme ces machines ont une durée de vie de 10 ans, il doit en principe acheter une nouvelle machine chaque année.
 
@@ -43,13 +43,13 @@ Le "Beer Game" a été inventé par Forrester au MIT dans les années 1960 pour 
 
 Chaque joueur dispose d'un stock dans lequel il puise pour honorer les commandes de ses clients, qui mettent 2 tours de jeu à lui parvenir, et qu'il réapprovisionne avec les livraisons de ses fournisseurs, qui prennent également 2 tours de jeu à lui parvenir.
 
-{{< figure src="images/226f00ab6aa152cf77a7568ed1c48180.gif" alt="la table de jeu. (cliquez dessus pour agrandir)" caption="la table de jeu. (cliquez dessus pour agrandir)" link="images/226f00ab6aa152cf77a7568ed1c48180.gif" align="aligncenter" width="532" >}}
+{{< figure src="./images/226f00ab6aa152cf77a7568ed1c48180.gif" alt="la table de jeu. (cliquez dessus pour agrandir)" caption="la table de jeu. (cliquez dessus pour agrandir)" link="./images/226f00ab6aa152cf77a7568ed1c48180.gif" align="aligncenter" width="532" >}}
 
 Chaque joueur doit satisfaire son client en maintenant le coût de son stock à un niveau minimal, en évitant toute rupture de stock d'un coût encore plus élevé. Le problème est qu'il n'a pas le droit de communiquer avec son client et son fournisseur autrement que par les bulletins de commande, la seule information entrante étant la commande des clients finaux, que le détaillant doit satisfaire immédiatement. [[5]](#ref-5)
 
 Il existe plusieurs variantes du jeu, mais toutes montrent clairement l'effet fouet : plus on remonte la chaine, plus l'incertitude augmente, ce qui incite à constituer un stock plus important et à commander des quantités de bière avec des variations plus élevées:
 
-{{< figure src="images/e964c92e352125a95722234b4a0aadd0.png" alt="beergame" caption="résultats typiques du &quot;beer game&quot; : les variations de la production de bière sont beaucoup plus importantes que celles de la consommation (cliquer pour agrandir)" link="images/e964c92e352125a95722234b4a0aadd0.png" align="aligncenter" width="402" >}}
+{{< figure src="./images/e964c92e352125a95722234b4a0aadd0.png" alt="beergame" caption="résultats typiques du &quot;beer game&quot; : les variations de la production de bière sont beaucoup plus importantes que celles de la consommation (cliquer pour agrandir)" link="./images/e964c92e352125a95722234b4a0aadd0.png" align="aligncenter" width="402" >}}
 
 Il existe plusieurs moyens de réduire, voire d'éliminer l'effet fouet, du moins dans une même organisation, mais il subsistera probablement toujours entre entreprises. Et en temps de crise, l'industrie des biens de production (machines) souffrira plus que celle des biens de consommation.
 

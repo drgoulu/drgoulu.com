@@ -7,7 +7,7 @@ categories:
 tags: 
   - "futur"
   - "internet"
-coverImage: "3147d85aa10abf7b1ab15cfd988e2908.jpg"
+coverImage: "./images/3147d85aa10abf7b1ab15cfd988e2908.jpg"
 ---
 
 A l’origine, [BitTorrent](w:en) est un protocole génial permettant la diffusion rapide de gros fichiers et la répartition de la charge sur plusieurs serveurs. Il a récemment muté en outil de piratage intensif, mais pourrait bien devenir une brique de l’internet du futur.
@@ -18,7 +18,7 @@ La plupart des connexions internet sont asymétriques : avec votre ADSL, vous po
 
 Le principe théorique de BitTorrent pour remédier à cela est simple : on divise le contenu en petits morceaux, mettons par exemple 10. Si 10 personnes demandent le fichier presque simultanément, on envoie à chacune une partie différente. Dès que le client a reçu sa partie, il la met automatiquement à disposition des autres, qui peuvent alors recevoir les 9 parties qui leur manquent des 9 autres clients simultanément, ce qui fait que les 10 obtiennent le fichier complet en 2x le temps qu’il faut pour transférer 1/10ème du fichier. En pratique, on arrive souvent au débit maximal de téléchargement c’est quand même beaucoup mieux que d’attendre des heures de télécharger un fichier depuis un serveur unique.
 
-![](images/73d7439b89ba11c7a792d8905a9814cc.gif)
+![](./images/73d7439b89ba11c7a792d8905a9814cc.gif)
 
 Comme BitTorrent était assez compliqué à mettre en oeuvre, il a jusqu’ici été utilisé pour des appplications sérieuses et professionnelles comme les « appliances » VMWare dont j’ai déjà un peu parlé [ici](http://www.goulu.net/wordpress/emulation-et-virtualisation) (pas assez, j’y reviendrai)
 

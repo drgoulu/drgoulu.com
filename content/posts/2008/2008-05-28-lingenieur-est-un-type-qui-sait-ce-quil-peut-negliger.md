@@ -4,10 +4,10 @@ slug: "lingenieur-est-un-type-qui-sait-ce-quil-peut-negliger"
 date: 2008-05-28
 categories:
   - "Comment"
-coverImage: "6852211d7663ff6a2d7ecb9701d195ef.jpg"
+coverImage: "./images/6852211d7663ff6a2d7ecb9701d195ef.jpg"
 ---
 
-{{< figure src="images/6852211d7663ff6a2d7ecb9701d195ef.jpg" >}}
+{{< figure src="./images/6852211d7663ff6a2d7ecb9701d195ef.jpg" >}}
 
 Ce dicton professionnel qui me semble plus vrai chaque année est du à E Juillard (1886-1982) est merveilleusement décrit dans l'introduction du cours de télécommunication que j'ai eu le plaisir de suivre à l'EPFL \[1\] :
 

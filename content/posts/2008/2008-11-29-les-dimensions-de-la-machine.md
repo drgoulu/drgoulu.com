@@ -9,7 +9,7 @@ tags:
   - "futur"
   - "informatique"
   - "internet"
-coverImage: "e53c119c903b376dcfc13774fb184660.jpg"
+coverImage: "./images/e53c119c903b376dcfc13774fb184660.jpg"
 ---
 
 Vu cette passionnante [présentation au TED de Kevin Kelly intitulée "Prédiction sur les 5000 prochains jours du web"](http://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web.html), disponible aussi sur YouTube :
@@ -20,7 +20,7 @@ Le début reprend des chiffres et notions de "[Dimensions of the One Machine](ht
 
 _La prochaine étape dans l'évolution technologique humaine est un unique ordinateur/réseau/pensant de dimension planétaire. Cet ordinateur planétaire sera la plus grande, complexe et chère machine jamais construite. Ce sera aussi la plateforme principale du monde des affaires et de la culture. Le web est l'OS (système d'exploitation) initial de cette nouvelle machine globale, et tous nos gadgets personnels seront des fenêtres (windows...) donnant sur son coeur. Les gadgets futurs seront des portes sur la même machine unique. Concevoir des produits et des services pour cette nouvelle machine demande un état d'esprit unique._
 
-![Barilan Internet-Thumb](images/e53c119c903b376dcfc13774fb184660.jpg)
+![Barilan Internet-Thumb](./images/e53c119c903b376dcfc13774fb184660.jpg)
 
 Puis il donne quelques dimensions de La Machine : aujourd'hui, elle contient environ
 

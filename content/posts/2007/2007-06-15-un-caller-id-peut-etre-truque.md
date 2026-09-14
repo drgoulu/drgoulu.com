@@ -2,10 +2,10 @@
 title: "un &#8220;Caller ID&#8221; peut être truqué !"
 slug: "un-caller-id-peut-etre-truque"
 date: 2007-06-15
-coverImage: "5ffc4962338a591bccd2eaa60a459db0.jpg"
+coverImage: "./images/5ffc4962338a591bccd2eaa60a459db0.jpg"
 ---
 
-{{< figure src="images/5ffc4962338a591bccd2eaa60a459db0.jpg" >}}
+{{< figure src="./images/5ffc4962338a591bccd2eaa60a459db0.jpg" >}}
 
 Vous vous êtes habitué à voir sur votre téléphone portable ou fixe l'identité ou le numéro de l'appellant ? Vous dites "salut ma chérie" ou "bonjour chef" au lieu de "allo ?" Vous laissez sonner les "numéro inconnu" ? Il va falloir vous déshabituer !
 

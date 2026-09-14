@@ -9,10 +9,10 @@ tags:
   - "politique"
   - "suisse"
   - "vote"
-coverImage: "80e2b4e64cecdf8ec43421c50e171af81.jpg"
+coverImage: "./images/80e2b4e64cecdf8ec43421c50e171af81.jpg"
 ---
 
-{{< figure src="images/80e2b4e64cecdf8ec43421c50e171af8.jpg" alt="Chantier permanent, par StadtWanderer" caption="Chantier permanent, par StadtWanderer" width="244" >}}
+{{< figure src="./images/80e2b4e64cecdf8ec43421c50e171af8.jpg" alt="Chantier permanent, par StadtWanderer" caption="Chantier permanent, par StadtWanderer" width="244" >}}
 
 Depuis 1848, les citoyens suisses jouissent du [droit d'initiative populaire](http://www.hls-dhs-dss.ch/textes/f/F10386.php) : il suffit que 100'000 citoyens (environ 2% du corps électoral) soutiennent une proposition de modification de la Constitution pour que l'adoption du texte soit soumise au vote de l'ensemble de la population\*. C'est ainsi que l'Article 72, al. 3 de notre Constitution contient désormais 6 mots qui auraient à la rigueur pu figurer dans un règlement de construire local : "_La construction de minarets est interdite._"
 

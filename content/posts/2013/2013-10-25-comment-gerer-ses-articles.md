@@ -8,10 +8,10 @@ tags:
   - "ignobel"
   - "internet"
   - "livres"
-coverImage: "4706921d904f21a09c5d8029d61894f4.jpg"
+coverImage: "./images/4706921d904f21a09c5d8029d61894f4.jpg"
 ---
 
-{{< figure src="images/4706921d904f21a09c5d8029d61894f4.jpg" >}}
+{{< figure src="./images/4706921d904f21a09c5d8029d61894f4.jpg" >}}
 
 D'[habitude](/tags/ignobel/), la  remise des prix igNobel est l'occasion d'un article ici. Mais plutôt que de vous résumer les recherches les plus loufoques primées comme [d'autres](http://www.gurumed.org/2013/09/15/prix-ig-nobel-les-vainqueurs-2013-des-tudes-scientifiques-les-plus-improbables/) l'ont très bien fait, je vais plutôt les utiliser comme exemples en terminant enfin l'article promis à la fin de "[Comment gérer sa bibliothèque](/2012/04/10/comment-gerer-sa-bibliotheque/)".
 

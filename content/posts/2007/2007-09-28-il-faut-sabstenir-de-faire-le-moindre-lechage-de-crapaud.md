@@ -8,10 +8,10 @@ tags:
   - "biologie"
   - "chimie"
   - "societe"
-coverImage: "71c5e5f7893f5797019c6126d4f07451.jpg"
+coverImage: "./images/71c5e5f7893f5797019c6126d4f07451.jpg"
 ---
 
-{{< figure src="images/71c5e5f7893f5797019c6126d4f07451.jpg" >}}
+{{< figure src="./images/71c5e5f7893f5797019c6126d4f07451.jpg" >}}
 
 La nouvelle émission scientifique [Impatience de la Radio Suisse Romande](http://www.rsr.ch/la-1ere/impatience/) est vraiment excellente, du niveau du regretté "Télescope" de la TSR.
 

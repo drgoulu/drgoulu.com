@@ -8,16 +8,16 @@ tags:
   - "cryptographie"
   - "internet"
   - "securite"
-coverImage: "hebergement-securise-1.png"
+coverImage: "./images/hebergement-securise-1.png"
 ---
 
-Ca fait un moment que je pensais le faire, et je craignais que ce soit compliqué. Mais hier soir je me suis lancé, et en un peu plus d'une heure ce site est passé sous [HTTPS](w:) : ![](images/2017-01-11_074539.png)
+Ca fait un moment que je pensais le faire, et je craignais que ce soit compliqué. Mais hier soir je me suis lancé, et en un peu plus d'une heure ce site est passé sous [HTTPS](w:) : ![](./images/2017-01-11_074539.png)
 
 ### Pourquoi ?
 
-Les révélations de Snowden\* et les piratages de plus en plus massifs ont fini de convaincre la plupart des géants du web, mais aussi des petits nains comme vous (?) et moi: internet sera encrypté, ou ne sera plus. Pour encourager la sécurisation du web, Google Chrome va très bientôt marquer comme "Not secure" les sites encore en HTTP  ainsi : ![](images/google-HTTP-HTTPS-not-secure-rouge.jpg). Google va probablement aussi les défavoriser dans les résultats du moteur de recherche le plus utilisé du système solaire et environs. Rien que pour ça, il faut convertir les sites à HTTPS.
+Les révélations de Snowden\* et les piratages de plus en plus massifs ont fini de convaincre la plupart des géants du web, mais aussi des petits nains comme vous (?) et moi: internet sera encrypté, ou ne sera plus. Pour encourager la sécurisation du web, Google Chrome va très bientôt marquer comme "Not secure" les sites encore en HTTP  ainsi : ![](./images/google-HTTP-HTTPS-not-secure-rouge.jpg). Google va probablement aussi les défavoriser dans les résultats du moteur de recherche le plus utilisé du système solaire et environs. Rien que pour ça, il faut convertir les sites à HTTPS.
 
-{{< figure src="images/2017-01-11_110908.png" alt="pas cool, et surtout pas smart du tout." caption="pas cool, et surtout pas &quot;smart&quot; du tout." width="400" >}}
+{{< figure src="./images/2017-01-11_110908.png" alt="pas cool, et surtout pas smart du tout." caption="pas cool, et surtout pas &quot;smart&quot; du tout." width="400" >}}
 
 J'espère aussi être débarrassé de la nuisance que représente le "[SmartScreen](w:en)" de Microsoft sur Internet Explorer. Il semblerait qu'il suffise à quelques personnes mal intentionnées de cocher "Report this website as unsafe" dans IE pour que mon tout beau site tout propre affiche la page ci-contre, fort dissuasive. Il aurait apparemment suffi que suffisamment de gentils lecteurs cliquent "Report that this site does not contain threats", mais il faut évidemment cliquer sur "More information" d'abord pour le voir... On m'a informé 3x de ceci, et à chaque fois j'ai du remplir un gros formulaire, tellement caché sur le monstrueux site de Microsoft que je ne le retrouve plus, pour dire que j'étais un gentil. Hier c'était la fois de trop : ma propre maman m'a suspecté de phishing ! ;-) Alors j'ai commencé par me dire "tant pis pour les 7% de [laggards](w:en:Diffusion_of_innovations) qui utilisent encore IE", puis "y'en a peut-être que 7% parce que les autres ont eu peur à cause de SmartScreen" puis "peut-être qu'en HTTPS ça ira mieux, on y va!"
 

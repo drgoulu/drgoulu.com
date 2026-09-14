@@ -9,7 +9,7 @@ tags:
   - "fiction"
   - "mecanique"
   - "nano"
-coverImage: "8c2255c913532b5cc6b89d1aba3c4022.jpg"
+coverImage: "./images/8c2255c913532b5cc6b89d1aba3c4022.jpg"
 ---
 
 Après les mini-chaînes stéréo, les mini ordinateurs et les mini jupes, nous avons traversé l'ère du microprocesseur et de la microchirurgie, et voici déjà poindre la nanotechnologie. Pourquoi cette course à la miniaturisation et où s'arrêtera-t-elle ?
@@ -34,7 +34,7 @@ le seul vrai obstacle à la miniaturisation est l'outillage permettant la produc
 
 L'outil ultime de la miniaturisation est le [microscope à effet tunnel](w:), développé par une équipe d'IBM à Zürich et qui a valu le prix Nobel de physique à ses concepteurs. Non seulement il permet de distinguer chaque atome à la surface d'un objet, mis il permet dans certaines conditions d'arracher un atome à un endroit et de le déposer ailleurs. L'[équipe d'IBM](http://www.almaden.ibm.com/vis/stm/atomo.html) ainsi écrit les lettres IBM en déposant un à un 35 atomes de xenon (et pas 52) sur une surface de nickel
 
-![](images/8c2255c913532b5cc6b89d1aba3c4022.jpg)
+![](./images/8c2255c913532b5cc6b89d1aba3c4022.jpg)
 
 ### [Nanotechnologie](w:)
 
@@ -42,13 +42,13 @@ Dans son article précurseur "[there is plenty of space at the bottom](/2009/06/
 
 Or on peut désormais envisager la construction de "nano machines" constituées du nombre minimal d'atomes nécessaires à leur fonctionnement.Constituées de quelques centaines d'atomes, leur dimension de l'ordre du nanomètre, permettrait d'en aligner un million sur un milimètre! Il existe même des logiciels de CAO permettant de les concevoir, mais hélas aucune méthode rapide de les réaliser pour l'instant.
 
-![](images/017fb06123664e3bbfd3f21dcce3afc9.gif)
+![](./images/017fb06123664e3bbfd3f21dcce3afc9.gif)
 
 _nano-différentiel conçu avec Nano-Engineer-1 de [Nanorex](http://www.nanoengineer-1.com/content/) et simulé avec [Nano-Hive](http://www.nanohive-1.org/atHome/), un projet [BOINC](/2007/01/20/calcul-distribue-avec-boinc/)_
 
-![](images/7361c93cd57289efa593dc16407eef21.png)Une voie pourrait être la combinaison de procédés chimiques, biologiques et informatiques : la chimie devient capable de produire des nanomatériaux comme les "[fullerènes](w:Fullerène)", sphères de carbone dont la découverte a stupéfait le monde.
+![](./images/7361c93cd57289efa593dc16407eef21.png)Une voie pourrait être la combinaison de procédés chimiques, biologiques et informatiques : la chimie devient capable de produire des nanomatériaux comme les "[fullerènes](w:Fullerène)", sphères de carbone dont la découverte a stupéfait le monde.
 
-![](images/2914a6f2fb5cb571ebcdb207f8c522b7.gif)Actuellement, c'est la production de nanotubes de carbone qui fait l'actualité. Ce matériau incroyablement solide pourrait servir d'élément structurel à des nanomachines, mais peut être aussi concurrencer l'acier dans des applications macroscopiques. A l'autre extrême, on a réussi a construire des transistors "[CNFET](w:)" à nanotubes, qui permettent d'envisager à long terme la création de nano-circuits tridimensionnels ...
+![](./images/2914a6f2fb5cb571ebcdb207f8c522b7.gif)Actuellement, c'est la production de nanotubes de carbone qui fait l'actualité. Ce matériau incroyablement solide pourrait servir d'élément structurel à des nanomachines, mais peut être aussi concurrencer l'acier dans des applications macroscopiques. A l'autre extrême, on a réussi a construire des transistors "[CNFET](w:)" à nanotubes, qui permettent d'envisager à long terme la création de nano-circuits tridimensionnels ...
 
 La biologie moléculaire est elle aussi capable désormais de faire produire des molécules organiques complexes par des bactéries, en reprogrammant leur ADN.
 

@@ -7,12 +7,12 @@ categories:
 tags: 
   - "astro"
   - "trou-noir"
-coverImage: "3aa8efd40b0d78e655a0a7a269cc6075-1.jpg"
+coverImage: "./images/3aa8efd40b0d78e655a0a7a269cc6075-1.jpg"
 ---
 
 Sur cette image d'un petit bout de ciel grand comme quelques fois la lune placée là pour l'échelle, chaque point de couleur révèle la position d'un trou noir. Il y en a environ 1300, ce qui laisse supposer qu'on en répertoriera des millions dans les prochaines années.
 
-![](images/3aa8efd40b0d78e655a0a7a269cc6075.jpg)
+![](./images/3aa8efd40b0d78e655a0a7a269cc6075.jpg)
 
 Ce résultat est du au satellite [Chandra](http://chandra.harvard.edu/photo/2007/bootes/), spécialisé dans la détection de ces objets aussi monstrueux qu' invisibles. <!--more-->
 
@@ -20,7 +20,7 @@ La caractéristique la plus connue d'un [trou noir](w:) est d'être tellement ma
 
 Un trou noir "immobile" vu à quelques kilomètres de distance ressemblerait à l'image ci-dessous, et serait donc parfaitement indétectable depuis la Terre.
 
-![](images/1f5a605e5d3fb8020445153166e5f795.png) (tiré de [l'article "trou noir" dans la Wikipedia](w:Trou_noir))
+![](./images/1f5a605e5d3fb8020445153166e5f795.png) (tiré de [l'article "trou noir" dans la Wikipedia](w:Trou_noir))
 
 Mais les trous noirs se forment par l'"effondrement gravitationnel" de matière qui ne peut pas s'empêcher de tourner et, par le principe de conservation du moment cinétique, aussi appelé "théorème de la patineuse" en l'honneur patineuse inconnue qui eut l'idée de ramener bras et jambe près du corps pour pirouetter plus vite, un trou noir tourne très vite sur lui même. Pour se faire une idée, un trou noir est plus petit, plus lourd et tourne donc plus vite qu'un [pulsar](w:), et on connait des pulsars aussi lourds que le Soleil qui tournent plusieurs centaines de fois par seconde sur eux-mêmes !
 
@@ -28,7 +28,7 @@ Bref, un vrai trou noir tourne vite, et Einstein prétend que l'espace lui-même
 
 En pratique (je vous épargne les calculs...) un "disque d'accrétion" se forme avec de la matière tournant pratiquement à la vitesse de la lumière autour du trou noir, bref, le tout forme alors un gigantesque accélérateur de particules naturel. Pour un trou formé par une étoile effondrée, ce disque est trop petit pour être observé directement, mais Hubble a photographié un disque d'accrétion d'un "trou noir supermassif" siégant au centre d'une Galaxie :
 
-![](images/4b5953f6e2f78162fdcec2c1c9eebde6.jpg)
+![](./images/4b5953f6e2f78162fdcec2c1c9eebde6.jpg)
 
 Les disques d'accrétion, eux, sont très lumineux car cette matière accélérée à une vitesse prodigieuse s'entrechoque, se chauffe à des températures incroyables et émet un rayonnement extrêmement énergétique  : des "rayons X".
 

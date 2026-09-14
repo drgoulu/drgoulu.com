@@ -10,10 +10,10 @@ tags:
   - "statistiques"
   - "suisse"
   - "vote"
-coverImage: "7f8bedc6e4d093147c595c638acb6093.jpg"
+coverImage: "./images/7f8bedc6e4d093147c595c638acb6093.jpg"
 ---
 
-{{< figure src="images/7f8bedc6e4d093147c595c638acb6093.jpg" >}}
+{{< figure src="./images/7f8bedc6e4d093147c595c638acb6093.jpg" >}}
 
 Fabriquer des données comme des montants de fausses factures demande un certain doigté car il existe des tests statistiques permettant de mesurer leur vraisemblance. Le plus usité de ces tests consiste à vérifier que les données suivent la surprenante [loi de Benford](w:), qui dit que le chiffre le plus à gauche de données statistiques est plus souvent un 1 qu'un 2, plus souvent un 2 qu'un 3 et ainsi de suite jusqu'à 9.
 
@@ -21,7 +21,7 @@ Par exemple, en examinant les données de la [population de 196 pays](w:liste_de
 
 Et ce phénomène se produit pour une multitude de données aussi différentes que la longueur des rivières, [les cornes et les oeufs](http://calque.pagesperso-orange.fr/langages/python/pybenford.html) les cours de la bourse, la quantité de minerai extrait, l'âge des capitaines, etc. La loi de Benford reste valable quelles que soient les unités de mesure utilisées, ou  la [base](w:base_(arithmétique)) considérée. Elle s'applique même au second chiffre, qui est plus fréquemment un 0 qu'un 9 (12% contre 8% environ). A partir du 3ème chiffre, les probabilités prévues la [loi de Benford généralisée au n-ième digit](w:en:Benford's_law) deviennent très proches des 10% auxquels on s'attend d'après la [loi de probabilité uniforme](w:loi_uniforme_discrète):
 
-{{< figure src="images/8f4951b3ff636eb87e630b7b0c8aaf80.png" alt="benford" caption="Graphique produit par ma feuille de calcul Google Docs grâce à des fonctions personnalisées en JavaScript (cliquer pour y accéder)" link="https://docs.google.com/spreadsheet/ccc?key=0Al_D4zS2T4QodHhjM0JxejRKZWpWTWVKUUxISVlfTnc#gid=0" align="aligncenter" width="410" >}}
+{{< figure src="./images/8f4951b3ff636eb87e630b7b0c8aaf80.png" alt="benford" caption="Graphique produit par ma feuille de calcul Google Docs grâce à des fonctions personnalisées en JavaScript (cliquer pour y accéder)" link="https://docs.google.com/spreadsheet/ccc?key=0Al_D4zS2T4QodHhjM0JxejRKZWpWTWVKUUxISVlfTnc#gid=0" align="aligncenter" width="410" >}}
 
 Donc la prochaine fois qu'on vous présentera une liste de nombres, vérifiez rapidement que près d'un tiers commencent par le chiffre 1. Si ce n'est pas le cas, passez en mode méfiance.
 
@@ -35,7 +35,7 @@ Car il est facile de fabriquer des données satisfaisant la loi de Benford, et d
 2. Utiliser un générateur de nombres aléatoires fabriquant le nombre digit par digit en respectant les probabilités de la loi de Benford. Il existe de tels générateurs en ligne [[3]](#ref-3)
 3. Appliquer la formule magique Excel = POWER(10;6\*RAND()) pour obtenir des nombres "Benford compatibles" entre 0 et un million (10^6)
 
-{{< figure src="images/4925a2c025ba625201061a1814c92483.png" alt="Une échelle logarithmique. En choisissant un point au hasard selon une loi uniforme sur cette échelle, vous avez environ une chance sur 3 qu'il corresponde à un nombre qui commence par 1. C'est exactement ce que prévoit la loi de Benford." caption="Une échelle logarithmique. En choisissant un point au hasard selon une loi uniforme sur cette échelle, vous avez environ une chance sur 3 qu'il corresponde à un nombre qui commence par 1. C'est exactement ce que prévoit la loi de Benford." align="aligncenter" width="635" >}}
+{{< figure src="./images/4925a2c025ba625201061a1814c92483.png" alt="Une échelle logarithmique. En choisissant un point au hasard selon une loi uniforme sur cette échelle, vous avez environ une chance sur 3 qu'il corresponde à un nombre qui commence par 1. C'est exactement ce que prévoit la loi de Benford." caption="Une échelle logarithmique. En choisissant un point au hasard selon une loi uniforme sur cette échelle, vous avez environ une chance sur 3 qu'il corresponde à un nombre qui commence par 1. C'est exactement ce que prévoit la loi de Benford." align="aligncenter" width="635" >}}
 
 La formule "magique" est aussi simple que ça parce que la loi de Benford n'est pas mystérieuse [[4]](#ref-4) : elle traduit simplement le fait que  dans la nature, la taille d'un nombre a plus de "sens" que sa valeur exacte. Pour choisir un grand nombre au hasard, il faut donc surtout choisir au hasard sa taille, donnée par son [logarithme](w:). Jean-Paul Delahaye clarifie ceci dans le "Pour la Science" de novembre [[5]](#ref-5). En utilisant la [complexité de Kolmogorov](w:), il relie la loi de Benford à la [loi de Zipf](w:) ([dont Xochipili a causé ici](http://webinet.cafe-sciences.org/articles/zipf-law/)) , mentionne au passage mon désormais célèbre "[nuage de Sloane](/tags/sloane/)" et arrive à cette conclusion:
 
@@ -53,20 +53,20 @@ Maintenant ça va mieux:
 - J'ai une [feuille de calcul](https://docs.google.com/spreadsheet/ccc?key=0Al_D4zS2T4QodHhjM0JxejRKZWpWTWVKUUxISVlfTnc) Google munie de [fonctions Javascript](https://gist.github.com/goulu/ecbea29f3b7959206ab8) permettant d'effectuer ce test. Et aussi un module Python. Je publierai ce code bientôt, mais en jouant avec sur des votes falsifiés par mes soins, il me semble de plus en plus que le test de Benford est compliqué et peu fiable...
 - Il existe des tests plus simples, facilement compréhensibles et rapides comme celui [dont a causé Guillaume](http://blog.science-infuse.fr/post/L-empreinte-statistique-de-la-fraude-electorale) [[7]](#ref-7)  : un simple graphique X/Y affichant un point par bureau de vote aux coordonnées participation/résultat. En voici un que j'ai fait avec les résultats d'un vote récent [[6]](#ref-6) . C'est pas plus clair  que de savoir que χ² =5.096106 ?
 
-[![](images/a0f2cd2f1122581853f48daf6d87a414.png "graphique_1 (3)")](images/a0f2cd2f1122581853f48daf6d87a414.png)
+[![](./images/a0f2cd2f1122581853f48daf6d87a414.png "graphique_1 (3)")](./images/a0f2cd2f1122581853f48daf6d87a414.png)
 
 Note\*: en fait l'interprétation de la table est plus délicate que ça, et ma "sur-vulgarisation" de ce passage traduit mon inconfort avec le langage des stats... Si quelqu'un pouvait m'aider via un commentaire éclairé svp...
 
 ### Références:
 
 1. <span id="ref-1"></span>Xavier Labouze et Robert Labouze "[La détection des fraudes comptables](http://www.webridge.fr/98/Qui_sommes_nous/CV__RL/centres_interet/loi_de_benford.htm)", 2000, Revue Française de Comptabilité n°321
-2. [![ResearchBlogging.org](images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org) Bernhard Rauch, Max Göttsche, Gernot Brähler, & Stefan Engel (2011). Fact and Fiction in EU-Governmental Economic Data German Economic Review, 12 (3), 243-255 {{< altmetric doi="10.1111/j.1468-0475.2011.00542.x" >}}
+2. [![ResearchBlogging.org](./images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org) Bernhard Rauch, Max Göttsche, Gernot Brähler, & Stefan Engel (2011). Fact and Fiction in EU-Governmental Economic Data German Economic Review, 12 (3), 243-255 {{< altmetric doi="10.1111/j.1468-0475.2011.00542.x" >}}
 3. <span id="ref-3"></span>Robert Harder "[How To Generate Your Own Benford’s Law Numbers](http://blog.iharder.net/2010/11/10/benford-how-to-generate-your-own-benfords-law-numbers/ "Permalink for : How To Generate Your Own Benford’s Law Numbers")" 2010 (avec générateur PHP en ligne)
-4. [![ResearchBlogging.org](images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org) Nicolas Gauvrit, & Jean-Paul Delahaye (2008). Pourquoi la loi de Benford n'est pas mystérieuse Mathématiques & Sciences humaines (182) {{< altmetric doi="10.4000/msh.10363" >}} [(pdf)](http://msh.revues.org/10363?file=1)
+4. [![ResearchBlogging.org](./images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org) Nicolas Gauvrit, & Jean-Paul Delahaye (2008). Pourquoi la loi de Benford n'est pas mystérieuse Mathématiques & Sciences humaines (182) {{< altmetric doi="10.4000/msh.10363" >}} [(pdf)](http://msh.revues.org/10363?file=1)
 5. <span id="ref-5"></span>Jean-Paul Delahaye, "Les entiers ne naissent pas égaux", Pour la Science N°421 - novembre 2012
 6. <span id="ref-6"></span>"[Tests de détection de fraudes pour la votation du 23 septembre 2012](http://www.ge.ch/votations/20120923/doc/Evaluation-Statistique.pdf)", Chancellerie d'Etat, Canton de Genève, Suisse
-7. [![ResearchBlogging.org](images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org) Peter Klimek, Yuri Yegorov, Rudolf Hanel, & Stefan Thurner (2012). It's not the voting that's democracy, it's the counting: Statistical detection of systematic election irregularities PNAS {{< altmetric doi="10.1073/pnas.1210722109" >}} [(pdf)](http://arxiv.org/pdf/1201.3087.pdf)
-8. [![ResearchBlogging.org](images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org)  Luis Pericchi, & David Torres (2011). Quick Anomaly Detection by the Newcomb–Benford Law, with Applications to Electoral Processes Data from the USA, Puerto Rico and Venezuela Statistical Science, 26 (4), 502-516 {{< altmetric doi="10.1214/09-STS296" >}} ([pdf](http://arxiv.org/pdf/1205.3290.pdf))
+7. [![ResearchBlogging.org](./images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org) Peter Klimek, Yuri Yegorov, Rudolf Hanel, & Stefan Thurner (2012). It's not the voting that's democracy, it's the counting: Statistical detection of systematic election irregularities PNAS {{< altmetric doi="10.1073/pnas.1210722109" >}} [(pdf)](http://arxiv.org/pdf/1201.3087.pdf)
+8. [![ResearchBlogging.org](./images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org)  Luis Pericchi, & David Torres (2011). Quick Anomaly Detection by the Newcomb–Benford Law, with Applications to Electoral Processes Data from the USA, Puerto Rico and Venezuela Statistical Science, 26 (4), 502-516 {{< altmetric doi="10.1214/09-STS296" >}} ([pdf](http://arxiv.org/pdf/1205.3290.pdf))
 9. <span id="ref-9"></span>Walter R. Mebane, "[Election Fraud or Strategic Voting? Can Second-digit Tests Tell the Difference?](http://polmeth.wustl.edu/media/Paper/pm10mebane.pdf)", Summer Meeting of the Political Methodology Society, University of Iowa, July 22–24, 2010
 10. <span id="ref-10"></span>Joseph Deckert, Mikhail Myagkov and Peter C. Ordeshook "[The Irrelevance of Benford’s Law for Detecting Fraud in Elections](http://www.vote.caltech.edu/sites/default/files/benford_pdf_4b97cc5b5b.pdf)"
 11. <span id="ref-11"></span>Susumu Shikano and Verena Mack, "When Does the Second-Digit Benford’s Law-Test Signal an Election Fraud? Facts or Misleading Test Results", _Journal of Economics and Statistics (Jahrbuecher fuer Nationaloekonomie und Statistik_, 2011, vol. 231, issue 5-6, pages 719-732

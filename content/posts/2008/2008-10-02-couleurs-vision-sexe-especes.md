@@ -4,7 +4,7 @@ slug: "couleurs-vision-sexe-especes"
 date: 2008-10-02
 tags: 
   - "biologie"
-coverImage: "pundamilia_pundamilia3.jpg"
+coverImage: "./images/pundamilia_pundamilia3.jpg"
 ---
 
 Les [cichlidés](w:) sont une famille regroupant environ 1200 espèces de poissons d'eau douce aux formes et couleurs très variées, très appréciées des aquariophiles.
@@ -15,7 +15,7 @@ Or la sensibilité des yeux des poissons varie en fonction de la profondeur d'ea
 
 De ce fait, les mâles ont évolué dans le même sens: les eaux profondes sont dominées par ceux qui arborent des couleurs nuptiales rouges tandis que les mâles à couleur bleue prennent l'avantage près de la surface.
 
-Ainsi, lorsque le spectre lumineux ne se modifie que lentement avec la profondeur, le long d'une berge en pente douce par exemple, il y a ainsi suffisamment de place pour qu'une "niche écologique" permette à des poissons de se distinguer de leurs voisins suffisamment pour définir une nouvelle espèce ! ![Pundamilia\_pundamilia3](images/pundamilia_pundamilia3.jpg "pundamilia pundamilia") ![Pundamilia\_nyererei3](images/pundamilia_nyererei3.jpg "pundamilia nyererei")
+Ainsi, lorsque le spectre lumineux ne se modifie que lentement avec la profondeur, le long d'une berge en pente douce par exemple, il y a ainsi suffisamment de place pour qu'une "niche écologique" permette à des poissons de se distinguer de leurs voisins suffisamment pour définir une nouvelle espèce ! ![Pundamilia\_pundamilia3](./images/pundamilia_pundamilia3.jpg "pundamilia pundamilia") ![Pundamilia\_nyererei3](./images/pundamilia_nyererei3.jpg "pundamilia nyererei")
 
 En bref, cette étude montre comment quelques gènes liés à la perception des couleurs peut s'amplifier au point de générer une grande variété d'espèces multicolores et magnifiques.
 

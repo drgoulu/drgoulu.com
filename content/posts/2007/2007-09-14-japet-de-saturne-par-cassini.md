@@ -6,12 +6,12 @@ categories:
   - "Pourquoi"
 tags: 
   - "astro"
-coverImage: "f5f7d66785168acffb6aca68eff44f26.jpg"
+coverImage: "./images/f5f7d66785168acffb6aca68eff44f26.jpg"
 ---
 
 La sonde Cassini qui explore les environs de Saturne vient de passer très près de Japet, une petite lune de 1436 km de diamètre seulement [découverte par l'astronome Cassini en 1671.](w:Japet_(lune)) Cassini (la sonde) vient d'y découvrir une particularité unique dans le Système Solaire : un bourrelet de près de 20km de haut suit parfaitement l'équateur de Japet sur tout son pourtour, lui donnant une allure de noix spatiale.
 
-![](images/f5f7d66785168acffb6aca68eff44f26.jpg)
+![](./images/f5f7d66785168acffb6aca68eff44f26.jpg)
 
 Il ne reste plus qu'à expliquer la formation de cette crête. Deux théories sont déjà en course :
 

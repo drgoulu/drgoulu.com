@@ -12,7 +12,7 @@ tags:
   - "science"
   - "seti"
   - "traduction"
-coverImage: "a71b88b2263028f57bf506ee91eaa7791.jpg"
+coverImage: "./images/a71b88b2263028f57bf506ee91eaa7791.jpg"
 ---
 
 _Je suis [récemment tombé](http://io9.com/5970501/the-great-filter-theory-suggests-humans-have-already-conquered-the-threat-of-extinction) sur un texte étonnant datant de 1998 : "[The Great Filter - Are We Almost Past It?](http://hanson.gmu.edu/greatfilter.html)" de [Robin Hanson](http://www.google.com/url?q=http%3A%2F%2Fhanson.gmu.edu%2F&sa=D&sntz=1&usg=AFQjCNGUOr_j3eU-rVfWRpddaQ6E21wuFQ) professeur d'économie passionné de science-fiction ([son blog](http://www.overcomingbias.com/)). En cette fin d'année de fin du monde, j'ai traduit en français (avec la permission de l'auteur) ce texte d'un optimisme apocalyptique qui intègre plusieurs sujets de réflexion déjà abordés sur drgoulu.com. Truffé de notions surprenantes et _d'idées originales, mais parfois discutables, je vous le livre tel quel (j'ai juste ajouté quelques illustrations pour égayer le tout). Mes commentaires seront dans les commentaires, avec les vôtres je l'espère.__
@@ -45,7 +45,7 @@ Ainsi, il faut s'attendre à ce que, lorsque le voyage spatial sera possible,  
 
 Un million d'années est une période courte à l'échelle cosmique, mais elle est plus que suffisante pour qu'un taux de croissance de la population anecdotique (> .001% / an.)  submerge les limites physiques fondamentales sur la puissance de calcul disponible dans tout l'univers observable \[Zaslavskii 96\]. Ceci demeure vrai même en utilisant les trous noirs pour la néguentropie et des ordinateurs quantiques pour les calculs, dont chacun élève au carré les ressources disponibles par rapport aux approches standard. Ainsi, nous avons de bonnes raisons de partir de l'idée que toutes les ressources inutilisées seront colonisées sur des échelles de temps cosmologiques, même si nous trouvions d'autres civilisations avec qui communiquer ou vers lesquelles nous "téléporter" \[Scheffer 94\].
 
-{{< figure src="images/a71b88b2263028f57bf506ee91eaa779.jpg" alt="Filter Dregs, une BD en ligne sur le thème du Grand Filtre (cliquer pour y accéder)" caption="&quot;Filter Dregs&quot;, une BD en ligne sur le thème du Grand Filtre (cliquer pour y accéder)" link="http://carpechaos.com/stories/filter-dregs" align="aligncenter" width="556" >}}
+{{< figure src="./images/a71b88b2263028f57bf506ee91eaa779.jpg" alt="Filter Dregs, une BD en ligne sur le thème du Grand Filtre (cliquer pour y accéder)" caption="&quot;Filter Dregs&quot;, une BD en ligne sur le thème du Grand Filtre (cliquer pour y accéder)" link="http://carpechaos.com/stories/filter-dregs" align="aligncenter" width="556" >}}
 
 La théorie évolutionniste suggère même \[Hansson et Stuart 90\] que la pression de la concurrence entre les colons devrait encourager à maximiser le taux de croissance économique pour que ceux qui voyagent trop lentement, s'attardent trop longtemps ou choisissent de ne pas se reproduire \[Stephenson 79\] soient dépassés par les autres. Des sondes de plus en plus rapides et prenant de plus en plus de risques doivent être lancées de plus en plus loin pour avoir une chance d'être le premier à coloniser un vaste territoire vierge.
 
@@ -101,7 +101,7 @@ Les biologistes d'autres scientifiques ont travaillé dur pendant longtemps pou
 
 Ensemble, ces explications plausibles ont convaincu d'innombrables équipes de construire des estimations relativement élevés de la probabilité qu'une quelconque planète finisse par produire une vie intelligente comme la nôtre par des estimations relativement faibles de chaque facteur de filtre dans la célèbre "[équation de Drake](w:)".
 
-[![L'équation de Flake, à ne pas confondre avec celle de Drake :-)](images/1df213a5ac926dc4c45b5968b471d19f.png)](http://xkcd.com/718/)
+[![L'équation de Flake, à ne pas confondre avec celle de Drake :-)](./images/1df213a5ac926dc4c45b5968b471d19f.png)](http://xkcd.com/718/)
 
 De même, les "optimistes technologiques" ont utilisé des tendances économiques standard et notre compréhension des processus évolutifs  pour soutenir la plausibilité de l'histoire mentionnée ci-dessus, selon laquelle nos descendants ont une bonne chance de coloniser notre système solaire, puis, au moyen de technologies de voyages spatiaux plus en plus rapides et fiables, coloniser d'autres étoiles et galaxies. Si c'est le cas, nos descendants ont une chance raisonnable d'atteindre le "point explosif" dans un laps de temps cosmologiquement court (disons un million d'années).
 
@@ -169,7 +169,7 @@ Si la vie a évolué sur une de ces planètes, et a été propagée à l'autre 
 
 Ce scénario de panspermie large permet aussi aux étapes antérieures à la vie unicellulaire d'être plus improbables dans une région donnée de l'espace, mais au prix de rendre l'étape suivante d'autant plus probable en offrant davantage d'endroits d'où commencer. Une panspermie large d'unicellulaires complexes pourrait également être possible mais semble moins probable étant donné que de telles formes de vie semblent moins robustes face aux environnements extrêmes, et davantage ajustées à l'environnement terrestre \[Crick 81\].
 
-{{< figure src="images/1cdf24f7374ad2b1a245788707cae4ee.jpg" alt="Prometheus : un film décevant sur de bonnes idées..." caption="Prometheus : un film décevant sur de bonnes idées..." align="aligncenter" width="610" >}}
+{{< figure src="./images/1cdf24f7374ad2b1a245788707cae4ee.jpg" alt="Prometheus : un film décevant sur de bonnes idées..." caption="Prometheus : un film décevant sur de bonnes idées..." align="aligncenter" width="610" >}}
 
 Des signaux radio émis par des intelligences extraterrestres serait bien sûr des informations riches sur sur la taille complète du filtre jusqu'au point où ces signaux sont possibles. Non seulement cette information aiderait à cerner nos hypothèses biologiques, mais ce serait apparemment aussi de mauvaises nouvelles pour notre avenir explosif. Et plus l'origine de ces signaux serait proche, pire ce serait (voir cependant la discussion sur l' "[hypothèse du zoo](w:)" ci-dessous). Inversement, des résultats négatifs serait de bonnes nouvelles, et cette perspective devrait encourager de telles recherches. Notez que ceci est le contraire de la justification habituellement offerte par [les chercheurs de SETI](http://www.seti-inst.edu/), qui soulignent habituellement la valeur des informations que les extraterrestres pourraient nous envoyer.
 

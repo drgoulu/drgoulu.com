@@ -10,14 +10,14 @@ tags:
   - "crowdsourcing"
   - "internet"
   - "physique"
-coverImage: "7a406ca89ba6663cc260c46920efc777.jpg"
+coverImage: "./images/7a406ca89ba6663cc260c46920efc777.jpg"
 ---
 
 Il y a quelques temps, [je vous parlais de GalaxyZoo](/2008/04/25/galaxy-zoo-lastronomie-collaborative/), un projet permettant aux internautes de participer à l'analyse des milliards de galaxies photographiées par Hubble.
 
 Le 13 août 2007, Hanny van Arkel, une institutrice hollandaise de 25 ans à [posté sur le forum de GalaxyZoo une question simple](http://www.galaxyzooforum.org/index.php?topic=3802.0) : "c'est quoi le truc bleu en dessous ?" à propos de cette image qui lui avait été soumise :
 
-![](images/getjpeg.aspx)
+![](./images/getjpeg.aspx)
 
 Le grenouille bleue en dessous de la galaxie centrale a été baptisée "voorwerp" par Hanny, le mot hollandais pour "objet". Mais personne n'a pu lui répondre sur sa nature.
 
@@ -25,7 +25,7 @@ Le grenouille bleue en dessous de la galaxie centrale a été baptisée "voorwer
 
 Le "Hanny's Voorwerp" a reçu les honneurs de la NASA lorsque le grand téléscope des Canaries a pris cette photo, devenue "[astronomic picture of the day](http://apod.nasa.gov/apod/ap080625.html)" le 25 juin 2008 :
 
-![](images/7a406ca89ba6663cc260c46920efc777.jpg)
+![](./images/7a406ca89ba6663cc260c46920efc777.jpg)
 
 L'hypothèse actuelle est que le Hanny's Voorwerp est une gigantesque "[nébuleuse par réflexion](w:)", un nuage de gaz éclairé par le [noyau actif de la galaxie](/2008/04/18/ca-cest-du-trou-noir-du-vrai/) (qu'on appelle alors un quasar), mais qui serait désormais "éteint" depuis 100'000 ans. Si c'est le cas, il pourrait y avoir beaucoup de ces nuages de gaz extragalactique, mais ils ne deviendraient visibles que dans des conditions très particulières.
 

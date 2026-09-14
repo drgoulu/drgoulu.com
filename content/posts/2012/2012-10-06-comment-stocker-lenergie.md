@@ -9,7 +9,7 @@ tags:
   - "electricite"
   - "energie"
   - "hydroelectricite"
-coverImage: "5ea50d06e4ba4f1d76ceaf6139608347-1.jpg"
+coverImage: "./images/5ea50d06e4ba4f1d76ceaf6139608347-1.jpg"
 
 aliases:
   - "/2012/10/07/comment-stocker-lenergie/"
@@ -19,7 +19,7 @@ Claude me demande pourquoi on ne stockerait pas la surproduction éolienne avec 
 
 ### Jamais contente
 
-{{< figure src="images/5ea50d06e4ba4f1d76ceaf6139608347.jpg" alt="la Jamais Contente" caption="la &quot;Jamais Contente&quot;" width="280" >}}
+{{< figure src="./images/5ea50d06e4ba4f1d76ceaf6139608347.jpg" alt="la Jamais Contente" caption="la &quot;Jamais Contente&quot;" width="280" >}}
 
 La première voiture à avoir atteint la stupéfiante vitesse de 100 km/h était une voiture électrique, la "[Jamais Contente](w:)", et c'était en 1899. De nos jours, la "[White Zombie](http://www.plasmaboyracing.com/whitezombie.php)" [laisse sur place une Maserati](http://www.youtube.com/watch?v=vGQSQAz9v6c) de 400 chevaux. Mais pourquoi donc nos routes ne sont-elles toujours pas envahies de voitures électriques ?
 
@@ -33,7 +33,7 @@ Evidemment, on peut réduire la taille de la batterie en récupérant l'énergie
 
 La "Jamais Contente" avait un nom prédestiné pour une voiture électrique : il n'existe pas de technologie de stockage ayant à la fois une forte [densité d'énergie](w:) et une forte "densité de puissance", qu'on appelle plutôt [puissance massique](w:). On voit ceci et bien d'autres choses intéressantes dans le graphique ci-dessous [[1]](#ref-1), qui classe différentes technologies de stockage d'énergie selon leur puissance nominale (horizontalement) et le temps pendant lequel cette puissance nominale est disponible en décharge (verticalement)\*\*. Evidemment, on peut décharger un système plus lentement en en tirant une puissance inférieure, mais ça ne change rien à l'énergie stockable, donnée par le produit des deux axes.
 
-![matrice des systèmes de stockage d'énergie](images/fcd82a10f9a4a29c1c77dd5d9ea8aeea.png)
+![matrice des systèmes de stockage d'énergie](./images/fcd82a10f9a4a29c1c77dd5d9ea8aeea.png)
 
 Remarquez comme les diverses technologies forment des bandes horizontales : la puissance et l'énergie stockée par un système augmentent linéairement avec sa taille, donc le temps donné par le rapport énergie/puissance ne varie pas : il y a des technologies "rapides" capables d'absorber et de restituer des pics de puissance (en bas du dessin) et d'autres "lentes" capables de stocker plus d'énergie par unité de volume (en haut).
 
@@ -57,7 +57,7 @@ La raison pour laquelle le légendaire [Gyrobus](w:) stockait son énergie dans
 
 Une fois [quelques détails réglés](/2005/12/11/la-fusion-thermonucleaire/), les volants d'inertie pourraient jouer un rôle important dans les centrales à fusion thermonucléaire en stockant une partie de l'énergie produite pendant les courtes réactions de fusion pour alimenter les aimants et réchauffer le plasma entre deux réactions. Avec un rotor de quelques dizaines de mètres de long et quelques dizaines de tonnes, on peut stocker puis restituer 100 MW pendant 10 secondes. Tout ça pour stocker environ 70 KWh d'électricité, l'équivalent de quelques jours de votre consommation personnelle.
 
-{{< figure src="images/73052cfebe264be7017feb1f12b10d1d.jpg" alt="Génératrice à inertie du Tokamak CRPP-EPFL. (Cliquer pour plus d'infos)" caption="Génératrice à inertie du Tokamak CRPP-EPFL. (Cliquer pour plus d'infos)" link="http://actu.epfl.ch/news/l-alternateur-tourne-rond/" align="aligncenter" width="600" >}}
+{{< figure src="./images/73052cfebe264be7017feb1f12b10d1d.jpg" alt="Génératrice à inertie du Tokamak CRPP-EPFL. (Cliquer pour plus d'infos)" caption="Génératrice à inertie du Tokamak CRPP-EPFL. (Cliquer pour plus d'infos)" link="http://actu.epfl.ch/news/l-alternateur-tourne-rond/" align="aligncenter" width="600" >}}
 
 ### Panoramix, il nous faut de la potion magique...
 
@@ -69,7 +69,7 @@ Donc si votre village d'irréductibles possède une vraie éolienne d' 1MW ou 
 
 D'autres types de batteries sont actuellement en développement comme la  [batterie sodium-soufre](w:) (NaS) ou les [batteries à sel fondu](w:en:Molten_salt_battery) type "Zebra", mais la voie la plus prometteuse me semble être les "batteries à flux redox" ("[flow batteries](w:en:Flow_battery)" en anglais). Ces sont des sortes de [piles à combustible](w:) réversibles qui fonctionnent avec diverses soupes d'électrolytes bizarres comme le [bromure](w:brome) de [vanadium](w:) ou du zinc/[cérium](w:).
 
-{{< figure src="images/4d5bd715be18be04aa0d254d3733aa79.jpg" alt="Schéma d'une batterie à flux redox au Vanadium, avec arrière plan révélateur" caption="Schéma d'une batterie à flux redox au Vanadium, avec arrière plan révélateur" link="http://www.windpowerengineering.com/featured/business-news-projects/colorado-company-awarded-1-7m-for-advanced-battery/" align="aligncenter" width="500" >}}
+{{< figure src="./images/4d5bd715be18be04aa0d254d3733aa79.jpg" alt="Schéma d'une batterie à flux redox au Vanadium, avec arrière plan révélateur" caption="Schéma d'une batterie à flux redox au Vanadium, avec arrière plan révélateur" link="http://www.windpowerengineering.com/featured/business-news-projects/colorado-company-awarded-1-7m-for-advanced-battery/" align="aligncenter" width="500" >}}
 
 La densité d'énergie de ces systèmes n'est pas vraiment plus élevée que celles de batteries Li-ion, donc on parle toujours d'installations de centaines de tonnes. Leur avantage est que la puissance est stockée/fournie par un élément relativement petit, alors que l'énergie stockable peut être augmentée à volonté en augmentant simplement le volume des réservoirs d'électrolytes. Ceci permet de réduire le coût de ces solutions par rapport à un wagon train de batteries plus classiques.
 
@@ -88,7 +88,7 @@ Et enfin le "stockage hydraulique gravitaire" réalisé par de nombreuses instal
 
 L'[énergie potentielle](https://fr.wikipedia.org/wiki/énergie_potentielle de_pesanteur) d'une masse m élevée d'une hauteur h est de E=m.g.h Joules, où g=9.81 que j'arrondis à 10. Pour stocker 1 kWh = 3.6 MJ, il faut donc élever 3'600 litres d'eau de 100m. Ou 360 litres de 1000m. Donc une montagne, c'est mieux qu'une colline. Et un grand lac aussi parce que pour stocker 1GWh il faut un million de fois plus d'eau. Et stocker une puissance de 1GW, ça veut dire pomper 1000 m³ d'eau par seconde à 10 bars, ou 100 m³ d'eau par seconde à 100 bars. Impressionnant, mais on sait faire depuis assez longtemps. Jusqu'ici, ça nécessitait des pompes spéciales, distinctes des turbines, mais l'arrivée des imprévisibles éoliennes motive la recherche de turbines réversibles, capables de passer du mode turbinage au mode pompage en quelques minutes, comme la turbine [Hydrodyna](http://hydrodyna.epfl.ch/projet) de l'EPFL [[7]](#ref-7) \*\*\*.
 
-{{< figure src="images/64c5da256dab01f12526df752ff0074c.jpg" alt="le site Nant de Drance à la frontière franco-suisse près de Chamonix. Une STEP souterraine de 900 MW y est en construction pour exploiter les 250m de différence de niveau entre les deux barrages. Cliquer pour plus d'infos" caption="le site &quot;Nant de Drance&quot; à la frontière franco-suisse près de Chamonix. Une STEP souterraine de 900 MW y est en construction pour exploiter les 250m de différence de niveau entre les deux barrages. Cliquer pour plus d'infos" link="http://www.nant-de-drance.ch/" align="aligncenter" width="600" >}}
+{{< figure src="./images/64c5da256dab01f12526df752ff0074c.jpg" alt="le site Nant de Drance à la frontière franco-suisse près de Chamonix. Une STEP souterraine de 900 MW y est en construction pour exploiter les 250m de différence de niveau entre les deux barrages. Cliquer pour plus d'infos" caption="le site &quot;Nant de Drance&quot; à la frontière franco-suisse près de Chamonix. Une STEP souterraine de 900 MW y est en construction pour exploiter les 250m de différence de niveau entre les deux barrages. Cliquer pour plus d'infos" link="http://www.nant-de-drance.ch/" align="aligncenter" width="600" >}}
 
 D'après [cette liste](w:en:List_of_pumped-storage_hydroelectric_power_stations) il existe actuellement au moins 50 "STEPs" d'une puissance de plus de 1 GW dans le monde, dont le [barrage de Grand'Maison](w:) en France, celui de [Linth-Limmern](w:de:Kraftwerke_Linth-Limmern) en Suisse et même la [Centrale de Coo-Trois-Ponts](w:) en Belgique (rien au Québec ?) Avec de nombreuses autres installations de puissance inférieure, la capacité de stockage hydraulique représente au niveau mondial une puissance de 100 GW et une énergie que, fautes de données j'évalue à X TWh en multipliant les 100 GWh par X dizaines d'heures.
 

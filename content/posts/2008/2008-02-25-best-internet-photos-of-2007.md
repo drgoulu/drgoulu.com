@@ -6,7 +6,7 @@ categories:
   - "Comment"
 tags: 
   - "photo"
-coverImage: "100926176fcf4783e6c895c3e56eb073.jpg"
+coverImage: "./images/100926176fcf4783e6c895c3e56eb073.jpg"
 ---
 
 Reçu de Rosella un [fichier .pps](http://www.calicoba.fr/PPS/portbestpictures.pps) avec les plus belles photos 2007 postées sur [Whatatop.com](http://whatatop.com), un site permettant de voter rapidement pour les photos qu'on aime. J'en ai vite fait un petit slide à partir des images prises sur [Best Internet Photos of 2007](http://www.forexoma.com/best-internet-photos-of-2007/) :
@@ -17,4 +17,4 @@ Reçu de Rosella un [fichier .pps](http://www.calicoba.fr/PPS/portbestpictures.p
 
 Elles sont toutes magnifiques, mais ma préférée c'est quand même celle là:
 
-![](images/100926176fcf4783e6c895c3e56eb073.jpg)
+![](./images/100926176fcf4783e6c895c3e56eb073.jpg)

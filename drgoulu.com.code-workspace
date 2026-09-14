@@ -1,23 +1,23 @@
 {
   "folders": [
     {
-      "path": "."
+      "path": ".",
     },
     {
-      "path": "../sveltia-cms"
+      "path": "../sveltia-cms",
     },
     {
-      "path": "../headless-cms"
+      "path": "../headless-cms",
     },
     {
-      "path": "../altmetric4hugo"
+      "path": "../altmetric4hugo",
     },
     {
-      "path": "../openbook4hugo"
+      "path": "../openbook4hugo",
     },
     {
-      "path": "../.github"
-    }
+      "path": "../.github",
+    },
   ],
-  "settings": {}
+  "settings": {},
 }

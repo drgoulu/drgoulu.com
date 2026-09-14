@@ -7,7 +7,7 @@ categories:
 tags: 
   - "politique"
   - "suisse"
-coverImage: "4775e8be4ec082de33ec095c2914df7a.png"
+coverImage: "./images/4775e8be4ec082de33ec095c2914df7a.png"
 ---
 
 [La version 2008](http://www.vimentis.ch/umfrage/?ref2=c661989f3f) du désormais traditionnel sondage politique organisé par les principaux partis suisse est lancée. Par rapport à [l'année passée](/2007/10/29/perspective-suisse-2007-et-2006/), les questions me semblent mieux posées et moins tendancieuses, à l'exception de “_Dans les écoles à fort taux de criminalité, la présence policière est augmentée._” qui est encore présente cette année, à ma grande stupéfaction.
@@ -27,6 +27,6 @@ Impôts toujours : il semble qu'il y ait quelques idées dans l'air concernant l
 
 Bref, si vous habitez la Suisse, [participez à cet important sondage](http://www.vimentis.ch/umfrage/?ref2=c661989f3f). En prime, en indiquant votre adresse e-mail vous recevrez un petit résumé des résultats déjà disponibles avec votre positionnement [politique sur 2 dimensions](/2007/08/24/politique-a-2-dimensions/), la meilleure manière de comprendre la politique pour un scientifique. Mon profil est là :
 
-[![](images/4775e8be4ec082de33ec095c2914df7a.png "pers2008")](/wp-content/uploads/HLIC/4775e8be4ec082de33ec095c2914df7a.png)
+[![](./images/4775e8be4ec082de33ec095c2914df7a.png "pers2008")](./images/4775e8be4ec082de33ec095c2914df7a.png)
 
 Tiens, je suis noté plus à droite que la denière fois... ça doit être parce que je m'interdis d'interdire ...

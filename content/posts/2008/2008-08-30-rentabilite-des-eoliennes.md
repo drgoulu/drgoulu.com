@@ -10,10 +10,10 @@ tags:
   - "eolienne"
   - "politique"
   - "suisse"
-coverImage: "pales.jpg"
+coverImage: "./images/pales.jpg"
 ---
 
-{{< figure src="images/pales.jpg" alt="pales" link="http://www.lecourrier.ch/" >}}
+{{< figure src="./images/pales.jpg" alt="pales" link="http://www.lecourrier.ch/" >}}
 
 [Le Courrier](http://www.lecourrier.ch/) de ce week-end consacre [un article](http://www.lecourrier.ch/index.php?name=NewsPaper&file=article&sid=440320) à l'énergie éolienne, décrite dès les premiers mots comme "particulièrement rentable". Voyons s'il faut vraiment investir dans le vent.
 
@@ -27,7 +27,7 @@ Il ne faut donc pas s'y tromper : ce qui est "particulièrement rentable", ce n'
 
 A quelques kilomètres de Collonges, l'installation du [Nant de Drance](http://www.nant-de-drance.ch/) va produire 1500GWh par an, soit l'équivalent de 341 énormes éoliennes. L'installation coutera 700 millions de francs suisses, soit le prix de 140 éoliennes "seulement". Elle produira donc du courant **tout aussi propre**, sans bruit et avec un impact minime sur le paysage, mais surtout **à moins de la moitié du prix** de l'éolienne... Et en plus, le Nant de Drance produira l'électricité quand on en aura besoin, pas seulement quand il y aura du vent.
 
-![](images/a859e9c2d50806a9fb9ee3adb30d69de.jpg)
+![](./images/a859e9c2d50806a9fb9ee3adb30d69de.jpg)
 
 Le plus incroyable, c'est que les installations comme le Nant de Drance seront obligées par la loi à acheter le courant éolien produit la nuit quand personne n'en veut, l'utiliser pour pomper de l'eau vers les hauteurs, puis à la turbiner en journée pour revendre cette énergie, avec une perte à la fois énergétique et financière.
 

@@ -7,14 +7,14 @@ categories:
 tags: 
   - "fiction"
   - "temps"
-coverImage: "ed1389e1e3ec88cab36aea303553536d1.jpg"
+coverImage: "./images/ed1389e1e3ec88cab36aea303553536d1.jpg"
 ---
 
 Une série télévisée de science-fiction basée sur un voyage dans le temps ? Et chapeautée par Steven Spielberge en plus ? Je regarde !
 
 Le pitch de [Terra Nova](w:Terra_Nova_(série_télévisée)) est simple : en 2149 la planète devient invivable, mais les humains trouvent par hasard une faille temporelle, qu'il faut un peu [gonfler avec une machine](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/) pour envoyer des poignées de colons 85 millions d'années dans le passé, au [Crétacé](w:). Là ils tentent de fonder une nouvelle civilisation dans un monde vierge, un véritable Eden s'il n'y avait pas quelques [carnosaures](w:Carnosauria) et, pire encore, certains humains assoiffés de pouvoir....
 
-![](images/ed1389e1e3ec88cab36aea303553536d.jpg)
+![](./images/ed1389e1e3ec88cab36aea303553536d.jpg)
 
 Terra Nova rappelle assez vite Lost, avec ses héros isolés dans une nature hostile, leurs amours, leurs trahisons, etc. Mais autant l'univers de Lost était surnaturel, autant celui de Terra Nova se veut scientifique, avec ses dinosaures reconstitués, dominés grâce à la technologie du XXIIème siècle. Je ne m'étendrai pas sur la [machine à remonter le temps](/2010/10/23/retours-vers-les-futurs/), dont on comprend juste qu'elle utilise un [trou noir dont l'horizon](/2008/06/20/la-densite-des-trous-noirs/) est de quelques microns... A part ça, les auteurs se sont visiblement bien documentés, et quelques éléments surprenants du scénario se sont avérés exacts après vérification. Mais un certains nombre d'erreurs manifestes m'ont tout de même choqué.
 

@@ -6,7 +6,7 @@ categories:
   - "Comment"
 tags: 
   - "futur"
-coverImage: "c14e7902a08802229cdbcba55f05a6ef.gif"
+coverImage: "./images/c14e7902a08802229cdbcba55f05a6ef.gif"
 ---
 
 Les millions d'ordinateurs interconnectés sour internet font à 90% la même chose : RIEN.
@@ -21,7 +21,7 @@ Mais il existe heureusement des projets plus constructifs :
 - [Folding@Home](http://folding.stanford.edu/) qui calcule la façon dont les protéines se plient, susceptible de causer certaines maladies comme Alzheimer, et éventuellement de les soigner un jour.
 - et les nombreux projets "BOINC"
 
-![](images/c14e7902a08802229cdbcba55f05a6ef.gif)Depuis quelques temps, une plate-forme logicielle commune à de nombreux projets s'impose : [BOINC](http://boinc.berkeley.edu/).
+![](./images/c14e7902a08802229cdbcba55f05a6ef.gif)Depuis quelques temps, une plate-forme logicielle commune à de nombreux projets s'impose : [BOINC](http://boinc.berkeley.edu/).
 
 Pour chaque propriétaire de PC, il suffit d'installer un seul logiciel pour offrir la puissance de son ordinateur à plusieurs projets à but non lucratif de son choix, par exemple:
 

@@ -9,7 +9,7 @@ tags:
   - "graphes"
   - "informatique"
   - "transports"
-coverImage: "dfffb52924ac4c0757d998edc886763a-1.png"
+coverImage: "./images/dfffb52924ac4c0757d998edc886763a-1.png"
 
 aliases:
   - "/2008/09/28/le-gps-pour-les-nuls-cartes-et-routage/"
@@ -25,7 +25,7 @@ La carte routière stockée dans votre GPS est bien plus qu'une digitalisation d
 
 Pour aller d'un point à un autre, le microprocesseur de votre GPS va déterminer le trajet le plus court entre deux lieux en parcourant ce graphe. Si vous utilisez un logiciel de cartographie comme [Google Maps](http://maps.google.ch/), vous vous êtes peut-être dit que Google a assez de gros ordinateurs pour le faire rapidement, et garde peut-être même en mémoire les requêtes les plus fréquentes (Paris - le Grau du Roi...) pour les resservir plus vite. Mais si vous avez un petit GPS dans votre voiture ou dans la main, vous avez certainement remarqué qu'il lui fait plusieurs secondes avant de pouvoir commencer à vous indiquer la direction à prendre. En réalité, c'est plutôt le fait qu'il n'ait pas besoin de minutes, voire d'heures de calcul qui tient de l'exploit, tant il existe de routes possibles.
 
-![](images/dfffb52924ac4c0757d998edc886763a.png)Tout d'abord, remarquons que la position géographique des noeuds n'est pas indispensable pour résoudre le problème; seules les informations sur la "longueur" des routes importe réellement si on cherche à minimiser le trajet. Ceci permet d'ailleurs de choisir ce que l'on veut minimiser :
+![](./images/dfffb52924ac4c0757d998edc886763a.png)Tout d'abord, remarquons que la position géographique des noeuds n'est pas indispensable pour résoudre le problème; seules les informations sur la "longueur" des routes importe réellement si on cherche à minimiser le trajet. Ceci permet d'ailleurs de choisir ce que l'on veut minimiser :
 
 1. la distance parcourue. Dans ce cas seule la longueur de chaque route est utile
 2. le temps nécessaire. Si chaque route est caractérisée par une vitesse moyenne ou un temps de parcours habituel, le chemin optimal favorisera une autoroute de contournement qu'une traversée urbaine

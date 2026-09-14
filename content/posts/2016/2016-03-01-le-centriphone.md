@@ -8,7 +8,7 @@ tags:
   - "bricolage"
   - "sport"
   - "video"
-coverImage: "maxresdefault.jpg"
+coverImage: "./images/maxresdefault.jpg"
 ---
 
 [Nicolas Vuignier](http://www.nico.ski/) est un freerider professionnel (suisse) et un inventeur génial : en faisant tournoyer sa caméra autour de lui comme une fronde, il a réussi à réaliser un effet spectaculaire similaire au [bullet time](w:) . Séquence émotion :
@@ -19,7 +19,7 @@ La première chose qu'on se dit en voyant ça est qu'on veut faire la même chos
 
 Combien faut-il de fils ? Faut-il des ailes ? Et on imagine le nombre de précieux smartphones, éjectés, crashés, perdus dans la poudreuse ou pulvérisés contre les rochers lors des essais...
 
-![centriphone](images/centriphone.png)Heureusement Nicolas Vuignier est sympa, et pense plus à notre porte-monnaie qu'au sien : au lieu de breveter son système, il en fait cadeau.
+![centriphone](./images/centriphone.png)Heureusement Nicolas Vuignier est sympa, et pense plus à notre porte-monnaie qu'au sien : au lieu de breveter son système, il en fait cadeau.
 
 Sur [http://open.centriphone.me/](http://open.centriphone.me/) il offre les plans de deux versions de son montage, simple, mais pas évident de prime abord :
 

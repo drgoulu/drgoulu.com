@@ -11,7 +11,7 @@ tags:
   - "informatique"
   - "loi-de-moore"
   - "simulation"
-coverImage: "6ea028259540cc1ff30e911eaa6eb4db.jpg"
+coverImage: "./images/6ea028259540cc1ff30e911eaa6eb4db.jpg"
 ---
 
 _(article publié dans le cadre de la [semaine thématique du C@fé des Sciences sur Le Cerveau](http://thema.cafe-sciences.org/articles/category/le-cerveau/))_
@@ -32,11 +32,11 @@ Les modèles actuels de neurones isolés sont beaucoup plus complexes et incorpo
 
 Depuis 2006, le [projet "Blue Brain"](http://www.artificialbrains.com/blue-brain-project) de Markram a simulé non seulement le fonctionnement, mais aussi la croissance d'une [colonne néocorticale](w:néocortex) (NCC), une structure d'environ 1mm³ comprenant environ 10'000 neurones fortement interconnectés, répartis sur 6 couches. Un superordinateur [BlueGene](w:) doté de 8192 processeurs pour un total d'environ 20 TeraFLOPS a été utilisé, ce qui fonde l'hypothèse de l'équipe selon laquelle la puissance et la mémoire nécessaires à la simulation augmentent linéairement avec le nombre de neurones, et heureusement pas avec le nombre de [synapses](w:synapse) par exemple.
 
-![](images/6ea028259540cc1ff30e911eaa6eb4db.jpg)En extrapolant cette tendance linéaire, Markram estime qu'un ordinateur d'1 ExaFLOPS (un milliard de milliards d'opérations par seconde) doté de 100 PetaBytes de mémoire devrait être capable de simuler un cerveau humain contenant 100 milliards de neurones environ. Et en extrapolant aussi la [remarquablement exponentielle loi de Moore](/2008/06/19/moore-toujours/), un tel superordinateur sera disponible en 2018.
+![](./images/6ea028259540cc1ff30e911eaa6eb4db.jpg)En extrapolant cette tendance linéaire, Markram estime qu'un ordinateur d'1 ExaFLOPS (un milliard de milliards d'opérations par seconde) doté de 100 PetaBytes de mémoire devrait être capable de simuler un cerveau humain contenant 100 milliards de neurones environ. Et en extrapolant aussi la [remarquablement exponentielle loi de Moore](/2008/06/19/moore-toujours/), un tel superordinateur sera disponible en 2018.
 
 D'autres [projets de cerveaux artificiels](http://www.artificialbrains.com/) comme [Synapse](http://www.artificialbrains.com/darpa-synapse-program) [[7]](#ref-7), [Spaun](http://www.artificialbrains.com/spaun) [[8]](#ref-8) ou même [SpikeFun](http://www.artificialbrains.com/spikefun) qui simule 32'000 neurones sur votre PC confirment grosso-modo ces ordres de grandeur.
 
-{{< figure src="images/3a2b6cf709d6fff3b048cdf55a897882.png" alt="Performance du plus puissant ordinateur (en rouge) au cours du temps selon top500.org" caption="Performance du plus puissant ordinateur (en rouge) au cours du temps selon top500.org" link="http://top500.org/statistics/perfdevel/" align="aligncenter" width="600" >}}
+{{< figure src="./images/3a2b6cf709d6fff3b048cdf55a897882.png" alt="Performance du plus puissant ordinateur (en rouge) au cours du temps selon top500.org" caption="Performance du plus puissant ordinateur (en rouge) au cours du temps selon top500.org" link="http://top500.org/statistics/perfdevel/" align="aligncenter" width="600" >}}
 
 Le lecteur attentif aura remarqué qu'on a "perdu" deux ordres de grandeur en route : 100 milliards de neurones x 1 GigaFLOPS par neurone devraient donner 100 ExaFLOPS, pas 1. L'idée est que les étapes intermédiaires, mesocircuit, puis cerveau de rat, permettront de simplifier la simulation des neurones individuels, voire de la remplacer par un modèle des NCC. Markram considère en effet qu'une NCC est "est au cerveau ce qu'un microprocesseur est à un ordinateur" [[1]](#ref-1). Si c'est le cas, alors un cerveau serait l'équivalent d'environ 10 millions de processeurs de 100 GigaFLOPS chacun "seulement" soit un bon PC actuelCependant, les marges d'erreur sont considérables comme on le voit dans la première figure:
 
@@ -52,7 +52,7 @@ Si des appareils d'imagerie médicale devenaient capables de capturer les quelqu
 
  
 
-{{< figure src="images/Dessin-Human-Brain-2.jpg" alt="Dessin Human Brain-2" caption="dessin: Arnaud Rafaelian, membre de Strip-Science (cliquer)" link="http://stripscience.cafe-sciences.org/articles/author/arnaudrafaelian/" align="aligncenter" width="640" >}}
+{{< figure src="./images/Dessin-Human-Brain-2.jpg" alt="Dessin Human Brain-2" caption="dessin: Arnaud Rafaelian, membre de Strip-Science (cliquer)" link="http://stripscience.cafe-sciences.org/articles/author/arnaudrafaelian/" align="aligncenter" width="640" >}}
 
 En attendant, il y a toujours moyen de fabriquer un cerveau humain parfaitement fonctionnel, indépendant et consommant peu d'énergie électrique en quelques minutes de conception, 9 mois de montage et quelques années de programmation ...
 

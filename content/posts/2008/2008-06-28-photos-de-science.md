@@ -4,10 +4,10 @@ slug: "photos-de-science"
 date: 2008-06-28
 tags: 
   - "photo"
-coverImage: "P116376-Womans_foot_in_high-heel_shoe,_X-ray-SPL.jpg"
+coverImage: "./images/P116376-Womans_foot_in_high-heel_shoe,_X-ray-SPL.jpg"
 ---
 
-{{< figure src="images/P116376-Womans_foot_in_high-heel_shoe,_X-ray-SPL.jpg" link="http://www.sciencephoto.com/" >}}
+{{< figure src="./images/P116376-Womans_foot_in_high-heel_shoe,_X-ray-SPL.jpg" link="http://www.sciencephoto.com/" >}}
 
 Si vous aimez la science et la photo, visitez [Science Photo Library](http://www.sciencephoto.com/) (SPL) Ce site diffuse plus de 250'000 photos sur une multitude de sujets scientifiques, et destinées à l'illustration de publications en tout genre. Il suffit de s'enregistrer sur le site pour pouvoir utiliser le moteur de recherche, parcourir la librairie et télécharger des images en basse résolution et des screensavers. Pour la haute résolution ou l'utilisation des photos il faut passer à la caisse, mais je pense qu'ils tolèreront que j'illustre cet article avec cette photo de [Gustoimages](http://www.gustoimages.com/), qui combine magnifiquement esthétisme et information scientifique.
 

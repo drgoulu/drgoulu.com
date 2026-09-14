@@ -10,12 +10,12 @@ tags:
   - "energie"
   - "oceans"
   - "terre"
-coverImage: "image.png"
+coverImage: "./images/image.png"
 ---
 
 Cet été, les Goulus ont exploré le pays des grandes marées : la Bretagne et la Normandie. Notre périple a d'ailleurs commencé aux [iles Chausey](w:), un des rares endroits au monde où l'amplitude des marées peut atteindre 14 m, changeant le paysage de manière spectaculaire en quelques heures. Devant un tel spectacle on ne peut que se demander "mais comment donc est-ce possible" ?
 
-![](images/image.png)
+![](./images/image.png)
 
 Iles Chausey à pleine mer et à basse mer . Photos d'Éric Guillemot extraites du livre "Marée basse" [[1]](#ref-1)
 
@@ -34,7 +34,7 @@ Le mécanisme des [marées](w:marée)  est habituellement expliqué comme ceci 
 
 <figure>
 
-[![](images/e78bc28f1bfacbe5e3dc52b9a14fcaa4.jpg)](http://www.voilesetvoiliers.com/cultures-voiles/syzygie-perihelie-perigee-equinoxe-saros-ecliptique/)
+[![](./images/e78bc28f1bfacbe5e3dc52b9a14fcaa4.jpg)](http://www.voilesetvoiliers.com/cultures-voiles/syzygie-perihelie-perigee-equinoxe-saros-ecliptique/)
 
 <figcaption>
 
@@ -50,7 +50,7 @@ Tout ceci a été expliqué par le grand [Isaac Newton](w:) en 1687 déjà dans 
 
 ## En réalité, c'est plus compliqué ...
 
-!["Débutant" par Goulu sur Flickr](images/image-4-169x300.png)
+!["Débutant" par Goulu sur Flickr](./images/image-4-169x300.png)
 
 Il y a juste un léger détail  : ça ne colle pas du tout à la réalité ! Il y a notamment deux gros problèmes :
 
@@ -66,14 +66,14 @@ En 1747, [Jean le Rond D'Alembert](w:)**** se pose une question qui survient tou
 
 L'animation ci-dessous montre comment la marée se propage réellement dans les océans du monde :
 
-![](images/m2anim72.gif)
+![](./images/m2anim72.gif)
 
   
 Remarquez qu'il n'y a PAS de "bosses" et de "creux" espacés régulièrement de 90° ! Il faut bien retenir que l'explication de Newton décrit correctement les forces qui excitent l'océan, mais pas du tout sa réponse dynamique qui donne l'amplitude des marées.
 
 La figure ci-dessous est une autre représentation de ceci :
 
-![](images/image-3.png)
+![](./images/image-3.png)
 
 Amplitude et phase de la marée M2 selon mesures Topex Poseidon.  
 image CC Wikipedia
@@ -86,7 +86,7 @@ La mésaventure du "débutant" de ma photo fait rigoler, mais les rois européen
 
 Comme on l'a vu, la marée en un endroit donnée est influencée par la forme des côtes à 10'000 km de là, le relief des fonds marins qui freine les courants, la direction des vents dominants qui peut amplifier le flux et freiner le reflux ou vice-versa etc.. Pour prédire correctement la marée, on doit avoir recours à [ce barbare de Fourier](/2010/03/06/succes-hollywoodiens-et-transformee-de-fourier/) pour obtenir le [spectre fréquentiel](w:) de la marée à cet endroit à partir de [mesures précises](w:marégraphe) sur de longues périodes.
 
-![](images/image-2.png)
+![](./images/image-2.png)
 
 (source [[4]](#ref-4))
 
@@ -94,7 +94,7 @@ A Brest par exemple on connait désormais plus d'une centaine de fréquences et 
 
 Aujourd'hui on fait ça sur n'importe quel ordinateur, mais en 1873 c'était si important que [Lord Kelvin](w:) himself avait construit cette [machine à prévoir les marées](w:) au Centre de l'Univers, Londres [[5]](#ref-5):
 
-![](images/image-1.png)
+![](./images/image-1.png)
 
 Les trains d’engrenages en bas  déplacent verticalement des poulies au rythmes des 15 harmoniques les plus importantes, et la ficelle serpentant entre ces poulies effectue l'addition.
 

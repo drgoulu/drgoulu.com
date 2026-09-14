@@ -13,7 +13,7 @@ tags:
   - "societe"
   - "statistiques"
   - "usa"
-coverImage: "629cb77f8e7b730969d6cf3d489fd9f6.jpg"
+coverImage: "./images/629cb77f8e7b730969d6cf3d489fd9f6.jpg"
 ---
 
 Découvert le photographe [Chris Jordan](w:) grâce à sa [conférence "Picturing Excess" au TED](http://www.ted.com/index.php/talks/chris_jordan_pictures_some_shocking_stats.html) ([disponible sur YouTube](http://www.youtube.com/watch?v=f09lQ8Q1iKE)).
@@ -22,17 +22,17 @@ Découvert le photographe [Chris Jordan](w:) grâce à sa [conférence "Picturin
 
 - ma préférée (allez savoir pourquoi...) :
 
-![](images/629cb77f8e7b730969d6cf3d489fd9f6.jpg)
+![](./images/629cb77f8e7b730969d6cf3d489fd9f6.jpg)
 
 Vous voyez les petits cercles sur l'image ? en agrandissant, ça donne ceci :
 
-![](images/6d7307b9d200db5af6b2ea452b1a14de.jpg)
+![](./images/6d7307b9d200db5af6b2ea452b1a14de.jpg)
 
 au total il y a 32'000 Barbies, le nombre d'opérations d'augmentation mammaires réalisées chaque mois aux USA ...
 
 - les premiers mots de la Constitution US réalisée en photomosaïque de 83'000 photos symbolisant autant de personnes détenues sans jugement au cours de la "Guerre contre le Terrorisme"...
 - 29'569 pistolets, le nombre de victimes tuées par balles en 2004, en partie grâce au 2ème amendement de la Constitution ci-dessus.
-- [![](images/e02212cf3cf25cd6694d4df010f8b455.png)](images/e02212cf3cf25cd6694d4df010f8b455.png)2.3 millions d'uniformes de prisonniers orange, le nombre de personnes derrières les barreaux au pays de la Liberté en 2005. Dans une exposition, ça donne l'effet d'un orange homogène sur 6 grands panneaux, mais ils sont tous là, bien empilés...
+- [![](./images/e02212cf3cf25cd6694d4df010f8b455.png)](./images/e02212cf3cf25cd6694d4df010f8b455.png)2.3 millions d'uniformes de prisonniers orange, le nombre de personnes derrières les barreaux au pays de la Liberté en 2005. Dans une exposition, ça donne l'effet d'un orange homogène sur 6 grands panneaux, mais ils sont tous là, bien empilés...
 - un million de gobelets en plastique empilés, le nombre utilisés chaque 6h par les compagnies américaines.
 - 11'000 avions et leur traînée dans le ciel, le nombre de vols aux USA en 8h.
 - 426'000 téléphones cellulaires mis au rebut chaque jour !

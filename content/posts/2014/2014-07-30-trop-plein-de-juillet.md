@@ -8,14 +8,14 @@ tags:
   - "jeux"
   - "soleil"
   - "trop-plein"
-coverImage: "2014-07-21_132255.png"
+coverImage: "./images/2014-07-21_132255.png"
 ---
 
 Un trop-plein résolument météorologique ce mois-ci :
 
 ### Le régime du Soleil
 
-![](images/32f580836e5be9cb8a125ba6269d1e6b.jpg)Je voulais traduire [l'article du Bad Astronomer](http://www.slate.com/blogs/bad_astronomy/2014/07/14/solar_wind_versus_fusion_how_does_the_sun_lose_mass.html) qui répond à certaines de mes questions sur le Soleil, mais voici juste les réponses brutes:
+![](./images/32f580836e5be9cb8a125ba6269d1e6b.jpg)Je voulais traduire [l'article du Bad Astronomer](http://www.slate.com/blogs/bad_astronomy/2014/07/14/solar_wind_versus_fusion_how_does_the_sun_lose_mass.html) qui répond à certaines de mes questions sur le Soleil, mais voici juste les réponses brutes:
 
 - le [vent solaire](w:) envoie 300 millions de protons par seconde sur chaque cm2 d'une [voile solaire](w:) qui se trouverait sur l'orbite terrestre
 - le Soleil expulse ainsi 1.5 million de tonnes de matière par seconde
@@ -27,7 +27,7 @@ Un trop-plein résolument météorologique ce mois-ci :
 
 Mais hélas, le soleil n'est pas toujours au rendez-vous de nos barbecues. En Suisse tout le monde connait [la page "Landi"](http://www.landi.ch/meteo/fra/niederschlagsprognosen_32451.aspx) à consulter pour savoir s'il vaut mieux installer les parasols ou les parapluies.
 
-Pour réaliser ces prévisions de pluie à court terme des machines extraordinaires mesurent les précipitations en temps réel avec une grande précision : le [radar météorologique](w:). Il y en a actuellement 3 en service couvrant entre tout le territoire suisse ([en France c'est là](http://www.meteofrance.fr/prevoir-le-temps/observer-le-temps/moyens/les-radars-meteorologiques)), et deux de plus vont être installés dans le cadre du [projet Rad4Alps](http://www.meteoschweiz.admin.ch/web/en/research/current_projects/forecast/rad4alp/scientific_challenges.html) pour couvrir les vallées des Alpes actuellement masquées ![](images/c27b6c36c9cdaec915649c296e09e37d.jpg)Il s'agit en fait de [radar Doppler pulsé](w:), capables de mesurer non seulement la position des averses, mais aussi leur vitesse de déplacement avec une grande précision.
+Pour réaliser ces prévisions de pluie à court terme des machines extraordinaires mesurent les précipitations en temps réel avec une grande précision : le [radar météorologique](w:). Il y en a actuellement 3 en service couvrant entre tout le territoire suisse ([en France c'est là](http://www.meteofrance.fr/prevoir-le-temps/observer-le-temps/moyens/les-radars-meteorologiques)), et deux de plus vont être installés dans le cadre du [projet Rad4Alps](http://www.meteoschweiz.admin.ch/web/en/research/current_projects/forecast/rad4alp/scientific_challenges.html) pour couvrir les vallées des Alpes actuellement masquées ![](./images/c27b6c36c9cdaec915649c296e09e37d.jpg)Il s'agit en fait de [radar Doppler pulsé](w:), capables de mesurer non seulement la position des averses, mais aussi leur vitesse de déplacement avec une grande précision.
 
 ### Pas d'été sans jeux.
 
@@ -37,7 +37,7 @@ S'il fait beau, testez [Ingress](http://ingress.com), le jeu de Google pour con
 
 Deux équipes s'affrontent pour la maîtrise de ces portails, les bleus (eux), et les verts (nous), car une fois des portails capturés on peut les "linker" à leurs voisins et les zones ainsi triangulées apportent points et ressources. Le site https://www.ingress.com/intel montre l'état des forces en présence sur toute la planète.
 
-Voici par exemple la situation actuelle autour de chez moi : j'ai contribué à trianguler la grande surface verte que je vais tenter d'étendre vers la ligne de portails verts le long du CERN, mais les bleus qui ont envahi Meyrin tentent de détruire les portails verts pour nous en empêcher. [![ingress](images/2014-07-21_132255.png)](/wp-content/uploads/2014/07/2014-07-21_132255.png) C'est vraiment un jeu d'équipe, mais on y joue en découvrant des coins sympas juste à côté de chez soi, et en rencontrant des gens bizarres sous la pluie au petit matin, seuls avec leur téléphone face à une sculpture en bois...
+Voici par exemple la situation actuelle autour de chez moi : j'ai contribué à trianguler la grande surface verte que je vais tenter d'étendre vers la ligne de portails verts le long du CERN, mais les bleus qui ont envahi Meyrin tentent de détruire les portails verts pour nous en empêcher. [![ingress](./images/2014-07-21_132255.png)](./images/2014-07-21_132255.png) C'est vraiment un jeu d'équipe, mais on y joue en découvrant des coins sympas juste à côté de chez soi, et en rencontrant des gens bizarres sous la pluie au petit matin, seuls avec leur téléphone face à une sculpture en bois...
 
 {{< youtube id="X4hY0UBAmlo" width="640" >}}
 

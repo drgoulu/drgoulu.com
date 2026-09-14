@@ -7,10 +7,10 @@ categories:
 tags: 
   - "cerveau"
   - "livres"
-coverImage: "39d9cec63b590c080d06cca8e5fafba4-1.jpg"
+coverImage: "./images/39d9cec63b590c080d06cca8e5fafba4-1.jpg"
 ---
 
-{{< figure src="images/39d9cec63b590c080d06cca8e5fafba4.jpg" alt="Pourquoi les filles sont si bonnes en maths" link="http://openlibrary.org/books/OL25424458M/Pourquoi_les_filles_sont_si_bonnes_en_maths" >}}
+{{< figure src="./images/39d9cec63b590c080d06cca8e5fafba4.jpg" alt="Pourquoi les filles sont si bonnes en maths" link="http://openlibrary.org/books/OL25424458M/Pourquoi_les_filles_sont_si_bonnes_en_maths" >}}
 
 L'excellent livre du neurologue Laurent Cohen que je viens de dévorer s'appelle en fait  "Pourquoi les filles sont si bonnes en maths: et 40 autres histoires sur le cerveau de l'homme" [[1]](#ref-1), mais le seul reproche que je lui ferai concerne justement ce titre marketing qui dénature l'une des 40 histoires intitulé "Les filles (ne) sont (pas) nulles en maths".
 
@@ -31,7 +31,7 @@ L'importance d'une bonne expérimentation apparaît aussi dans "douze bombons 
 
 En passant, il n'y a pas que les oiseaux, les bébés (et moi) dont le comportement dépend de l'appétit. L'histoire du "petit déjeuner du juge" montre que des décisions de justice sont systématiquement et fortement influencées par l'heure à laquelle elles sont prises [[5]](#ref-5). C'est peut-être la plus effrayante des expériences relatées dans ce livre...
 
-{{< figure src="images/a81b5b3133cf6a7364cc86ff924e2a8a.png" alt="justice" caption="Proportion des décisions de libération conditionnelle en faveur des prisonniers en ordonnée. Les points entourés indiquent les premières décisions de chacune des 3 sessions. Les graduation de l'abscisse marquent chaque trois cas. Les lignes pointillées dénotent les pauses repas. Moyenne sur plus de 1000 décisions prises par 8 juges sur 10 mois- [[5]](#ref-5)" align="aligncenter" width="461" >}} Le chapitre "Histoires de voir m'a particulièrement intéressé parce qu'Annick travaille avec des enfants et jeunes aveugles et malvoyants. Toutes les histoires de ce chapitre sont passionnantes, mais j'ai une préférence pour l'histoire de la dame aveugle depuis l'enfance et virtuose du Braille victime d'un AVC. Depuis elle ne peut plus du tout lire le Braille parce que la zone de son cerveau malheureusement touchée par son AVC est celle... de la vision [[6]](#ref-6)
+{{< figure src="./images/a81b5b3133cf6a7364cc86ff924e2a8a.png" alt="justice" caption="Proportion des décisions de libération conditionnelle en faveur des prisonniers en ordonnée. Les points entourés indiquent les premières décisions de chacune des 3 sessions. Les graduation de l'abscisse marquent chaque trois cas. Les lignes pointillées dénotent les pauses repas. Moyenne sur plus de 1000 décisions prises par 8 juges sur 10 mois- [[5]](#ref-5)" align="aligncenter" width="461" >}} Le chapitre "Histoires de voir m'a particulièrement intéressé parce qu'Annick travaille avec des enfants et jeunes aveugles et malvoyants. Toutes les histoires de ce chapitre sont passionnantes, mais j'ai une préférence pour l'histoire de la dame aveugle depuis l'enfance et virtuose du Braille victime d'un AVC. Depuis elle ne peut plus du tout lire le Braille parce que la zone de son cerveau malheureusement touchée par son AVC est celle... de la vision [[6]](#ref-6)
 
 Le chapitre que j'ai trouvé le plus intéressant est "imagination et maladie d'Alzheimer". Il concerne le "réseau du repos" ("[default mode network](w:en:Default_network)"), la partie du cerveau qui s'active quand nous ne faisons rien de particulier, quand nous ne nous concentrons pas sur une tâche particulière. Il semblerait que ce soit elle qui nous permet de rêvasser en [nous projetant dans le passé ou le futur](/2009/06/27/neurologie-du-temps/), ou ailleurs [[7]](#ref-7). Et c'est dans cette zone que la maladie d'Alzheimer provoque le plus de micro-lésions [[8]](#ref-8)...
 

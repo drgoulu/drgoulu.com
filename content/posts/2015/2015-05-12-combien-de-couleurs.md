@@ -6,10 +6,10 @@ categories:
   - "Comment"
   - "Pourquoi"
 draft: true
-coverImage: "colviscon.gif"
+coverImage: "./images/colviscon.gif"
 ---
 
-{{< figure src="images/colviscon.gif" alt="colviscon" link="http://hyperphysics.phy-astr.gsu.edu/hbase/vision/colviscon.html" >}}
+{{< figure src="./images/colviscon.gif" alt="colviscon" link="http://hyperphysics.phy-astr.gsu.edu/hbase/vision/colviscon.html" >}}
 
 Un changement de projet professionnel me permet de m'initier au monde merveilleux des techniques d'impression en couleur, en particulier le jet d'encre
 

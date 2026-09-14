@@ -10,10 +10,10 @@ tags:
   - "energie"
   - "foudre"
   - "physique"
-coverImage: "4333d9e2e65f2e1e7cd12e847855fead.jpg"
+coverImage: "./images/4333d9e2e65f2e1e7cd12e847855fead.jpg"
 ---
 
-{{< figure src="images/1983bc74054465f58c98fe133b2f5120.jpg" link="http://flickr.com/photos/bonsaikiptb/200041749/" >}}
+{{< figure src="./images/1983bc74054465f58c98fe133b2f5120.jpg" link="http://flickr.com/photos/bonsaikiptb/200041749/" >}}
 
 Incorrigible. Voilà le type de question que je me suis posé récemment  dans mon lit, pendant un bel orage nocturne : "Comment récupérer l'énergie de la foudre ?"
 

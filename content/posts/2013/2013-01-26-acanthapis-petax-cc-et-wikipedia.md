@@ -6,7 +6,7 @@ categories:
   - "Comment"
 tags: 
   - "biologie"
-coverImage: "4a3904e4365510a6cb7e3cd74d3213111.jpg"
+coverImage: "./images/4a3904e4365510a6cb7e3cd74d3213111.jpg"
 ---
 
 [L'émission "Pentagruel"](http://www.rts.ch/la-1ere/programmes/pentagruel/) de la RTS est toujours marrante et souvent intéressante. Dans le classement des [5 insectes au comportement "vicieux](http://www.rts.ch/la-1ere/programmes/pentagruel/?date=08-01-2013)" je connaissais grâce à SSAFT la [mouche alcoolique](http://ssaft.com/Blog/dotclear/index.php?tag/Freaky%20Friday%20Parasite) et les [guêpes zombifiantes](http://ssaft.com/Blog/dotclear/index.php?post/2010/07/09/%5BFreaky-Friday-Parasite%5D-Le-retour-des-guecirc%3Bpes-Zombifiantes!!!), mais pas leur hyperparasite "[Lysibia nana](w:)" ni les autres bestioles citées. Et surtout je n'arrivais pas à visualiser [Acanthaspis Petax](w:), cette punaise malaise qui se colle les cadavres de ses victimes formiques sur le dos.
@@ -17,7 +17,7 @@ C'est là que j'ai réalisé l'un des problèmes rencontrés par la Wikipédia a
 
 Je me suis donc mis en quête d'une [photo d'Acanthaspis Petax sur Flickr](http://www.flickr.com/search/?q=Acanthaspis%20petax) et j'ai trouvé [cette photo](http://www.flickr.com/photos/orionmystery/6975668789/) du monstre, mais soumise à copyright. L'auteur, photographe professionnel ([son blog](http://orionmystery.blogspot.ch/)) vend des [licence d'utilisation](https://secure.gettyimages.fr/flickrimagerequest/5814182921/9353033@N05/35912458@N00?language=fr) de ses photos, par exemple [dans ce cas](http://www.flickr.com/photos/orionmystery/7001504836/). Je l'ai alors contacté pour lui demander s'il voulait bien mettre à disposition sa photo sur la Wikipédia en lui citant l'exemple de [cette superbe photo de rizières](w:en:File:Terrace_field_yunnan_china_2.jpg) dont l'auteur [garde le copyright sur Flickr](http://www.flickr.com/photos/peace-on-earth_org/sets/72157629193965920/). Et ça a marché : Kurt a ajouté un discret filigrane sur la version "Creative Commons" de sa photo, qu'on peut désormais voir sur [l'article consacré à Acanthaspis Petax](http://fr.wikipedia.org/w/index.php?title=Acanthaspis_petax) dans toutes les langues, et ci-dessous en toute légalité:
 
-{{< figure src="images/4a3904e4365510a6cb7e3cd74d321311.jpg" alt="Assassin bug nymph with ant prey and ant carcasses on its back... par Kurt (Hock Ping Guek) orionmystery.blogspot.com (version CC)" caption="&quot;Assassin bug nymph with ant prey and ant carcasses on its back...&quot; par Kurt (Hock Ping Guek) orionmystery.blogspot.com (version CC)" link="http://commons.wikimedia.org/wiki/File:Acanthaspis_petax_nymph.jpg" width="614" >}}
+{{< figure src="./images/4a3904e4365510a6cb7e3cd74d321311.jpg" alt="Assassin bug nymph with ant prey and ant carcasses on its back... par Kurt (Hock Ping Guek) orionmystery.blogspot.com (version CC)" caption="&quot;Assassin bug nymph with ant prey and ant carcasses on its back...&quot; par Kurt (Hock Ping Guek) orionmystery.blogspot.com (version CC)" link="http://commons.wikimedia.org/wiki/File:Acanthaspis_petax_nymph.jpg" width="614" >}}
 
 En effet, Kurt a choisi de distribuer cette photo sous licence  "[CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.fr)":
 
@@ -30,7 +30,7 @@ En effet, Kurt a choisi de distribuer cette photo sous licence  "[CC-BY-SA 3.0
 
 Ce qui n'est absolument pas le cas, vous en conviendrez, de ce dessin fait tout exprès pour cet article par [Emilie Vanvolsem](http://www.emilievanvolsem.info), illustratrice dont vous pouvez voir les dessins dans des albums pour la jeunesse, l'excellent journal "[La Salamandre](http://www.salamandre.net/)" ainsi que sur [son blog](http://www.j-illustre-a-blog.com/). Ayant rejoint [Strip Science](http://stripscience.cafe-sciences.org/) en indiquant "_J'aime dessiner les animaux, tous, et surtout les méconnus et mal aimés_", je l'ai prise au mot et voilà le résultat. Merci Emilie !
 
-{{< figure src="images/2875d95eb8fa7a492d7b768dc628d6d0.jpg" alt="Petax souriant aux CC par Emilie Vanvolsem" caption="&quot;Petax souriant aux CC&quot; par Emilie Vanvolsem" link="http://www.emilievanvolsem.info/" width="640" >}}
+{{< figure src="./images/2875d95eb8fa7a492d7b768dc628d6d0.jpg" alt="Petax souriant aux CC par Emilie Vanvolsem" caption="&quot;Petax souriant aux CC&quot; par Emilie Vanvolsem" link="http://www.emilievanvolsem.info/" width="640" >}}
 
 Sur son site, Emilie mentionne une licence CC-BY-NC-ND, donc vous avez le droit d'utiliser cette image, mais pas de la modifier (ND) ni d'en tirer profit (NC). Et bien sur, il faut l'attribuer clairement à Emilie (BY).
 

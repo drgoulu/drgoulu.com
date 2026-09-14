@@ -10,12 +10,12 @@ tags:
   - "informatique"
   - "loi-de-moore"
   - "programmation"
-coverImage: "92d9996311ff6934d737ff74313187d61.jpg"
+coverImage: "./images/92d9996311ff6934d737ff74313187d61.jpg"
 ---
 
 Dans les ordinateurs vendus depuis 2003 environ, le microprocesseur (CPU) fourni par Intel ou AMD n'est plus le composant le plus puissant, et souvent plus le plus couteux non plus. Désormais c'est le GPU, le Graphics Processing Unit, qui détermine largement la puissance d'un PC. Strictement limités au graphisme il y a peu, ces processeurs sont désormais capables d'effectuer certains calculs nettement plus vite que les processeurs classiques. Actuellement, la puissance de calcul du G80 de nVidia est 5 à 6 fois supérieure à celle du Core 2 Duo d'Intel, voire plus (1, 2).
 
-![img0019319.jpg](images/92d9996311ff6934d737ff74313187d6.jpg) _puissance de calcul des GPU et CPU ([source : BeHardware](http://www.behardware.com/articles/659-1/nvidia-cuda-preview.html))_
+![img0019319.jpg](./images/92d9996311ff6934d737ff74313187d6.jpg) _puissance de calcul des GPU et CPU ([source : BeHardware](http://www.behardware.com/articles/659-1/nvidia-cuda-preview.html))_
 
 ### Conséquence immédiate :
 
@@ -33,7 +33,7 @@ Ceci a conduit à des architectures différentes pour les deux types de processe
 - les CPU comportent aujourd'hui 2 ou 4 "coeurs" complexes accédant aux données à travers une grande mémoire cache, le tout synchronisé par une importante logique de contrôle
 - Sur la même surface de silicium, un GPU moderne contient jusqu'à 128 unités de calcul simples, mais très peu de mémoire cache et de logique de contrôle.
 
-![img0019320.jpg](images/5f8d34d07bdd8aff1ff47d09bf9b05a5.jpg)
+![img0019320.jpg](./images/5f8d34d07bdd8aff1ff47d09bf9b05a5.jpg)
 
 _architecture des GPU et CPU ([source : BeHardware](http://www.behardware.com/articles/659-1/nvidia-cuda-preview.html))_
 

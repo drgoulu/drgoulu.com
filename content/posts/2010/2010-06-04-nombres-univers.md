@@ -8,10 +8,10 @@ tags:
   - "maths"
   - "pi"
   - "univers"
-coverImage: "828a5513059659ba55bc1f73c1eb542b-1.gif"
+coverImage: "./images/828a5513059659ba55bc1f73c1eb542b-1.gif"
 ---
 
-{{< figure src="images/828a5513059659ba55bc1f73c1eb542b.gif" >}}
+{{< figure src="./images/828a5513059659ba55bc1f73c1eb542b.gif" >}}
 
 Pi est un [nombre irrationnel](w:) (il est même "[transcendant](w:nombre_transcendant)") : comme il ne peut pas s'écrire sous forme d'une fraction, ses décimales ne "cyclent" jamais commes celles de 22/7 = 3.142857 142857 142857 ... par exemple, et il y en a une infinité, donc a priori une infinité de séquences de décimales toutes différentes.
 
@@ -38,7 +38,7 @@ On voit qu'on ne gagne que quelques pourcents de décimales. Mais on peut aller 
 
 ## Les séquences de De Bruijn
 
-{{< figure src="images/88eb6be30fefb30da8faea1b72e11f69.png" alt="Une tresse de De Bruijn" caption="Une tresse de De Bruijn" link="images/88eb6be30fefb30da8faea1b72e11f69.png" width="140" >}}
+{{< figure src="./images/88eb6be30fefb30da8faea1b72e11f69.png" alt="Une tresse de De Bruijn" caption="Une tresse de De Bruijn" link="./images/88eb6be30fefb30da8faea1b72e11f69.png" width="140" >}}
 
 Mais d'abord, est-ce bien malin de fabriquer un nombre univers compact en concaténant des entiers consécutifs ? Peut-on fabriquer une séquence contenant chaque nombre de n décimales et qui soit nettement plus compacte que l'énumération ? [Jean-Paul Alllouche](w:) m'a gentiment indiqué qu'une [suite de de Bruijn](w:) (SDB) fait exactement ça, et même très bien puisque chaque nombre de n chiffres en base b n'est présent qu'une seule fois dans la séquence B(b,n). La [page Wikipédia sur les SDB (en anglais)](w:en:De_Bruijn_sequence) pointe sur un site étonnant : le "[Combinatorial Object Server](http://theory.cs.uvic.ca/cos.html)" qui comporte entre autres outils un [générateur de SDB](http://theory.cs.uvic.ca/gen/neck.html) permettant de générer très rapidement par exemple :
 

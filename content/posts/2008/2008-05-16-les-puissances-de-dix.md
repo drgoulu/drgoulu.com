@@ -10,7 +10,7 @@ tags:
   - "puissances-de-10"
   - "quantique"
   - "univers"
-coverImage: "vc100.jpg"
+coverImage: "./images/vc100.jpg"
 ---
 
 Retrouvé par hasard ce film réalisé en 1977 (30 ans...) par [les designers Ray et Charles Eames](http://www.eamesgallery.com/) pour le compte d'IBM. Le commentaire est un peu "années 60", mais "[Powers of Ten](w:)" m'émerveille toujours autant.

@@ -5,12 +5,12 @@ date: 2019-01-06
 tags: 
   - "annee"
   - "oeis"
-coverImage: "2019-acheter-en-espagne.jpg"
+coverImage: "./images/2019-acheter-en-espagne.jpg"
 ---
 
 ## 2018 sur drgoulu.com
 
-![](images/2019-acheter-en-espagne.jpg)
+![](./images/2019-acheter-en-espagne.jpg)
 
 Bon, ok, j'ai été [trop actif sur Quora](https://fr.quora.com/profile/Philippe-Guglielmetti) et n'ai publié que 8 articles ici l'année passée, mais il y a tout de même eu 299'047 pages de DrGoulu.com vues en 2018, légèrement plus qu'en 2017.
 

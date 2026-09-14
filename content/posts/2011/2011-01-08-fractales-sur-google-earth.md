@@ -8,7 +8,7 @@ tags:
   - "fractales"
   - "monde"
   - "photo"
-coverImage: "australia_s.jpg"
+coverImage: "./images/australia_s.jpg"
 ---
 
 Paul Bourke est un prof australien passionné par les fractales. [Ses pages sur le sujet](http://paulbourke.net/fractals/) sont une mine inépuisable d'informations et d'émerveillements. Récemment, il s'est mis à collectionner des photos satellite d'endroits "fractals" sur notre planète grâce à Google Earth:

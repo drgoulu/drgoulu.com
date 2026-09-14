@@ -8,10 +8,10 @@ tags:
   - "politique"
   - "sante"
   - "suisse"
-coverImage: "0ab5002eb0905a58eeb4fb81698bdb75.jpg"
+coverImage: "./images/0ab5002eb0905a58eeb4fb81698bdb75.jpg"
 ---
 
-{{< figure src="images/0ab5002eb0905a58eeb4fb81698bdb75.jpg" >}}
+{{< figure src="./images/0ab5002eb0905a58eeb4fb81698bdb75.jpg" >}}
 
 L'initiative populaire sur laquelle le peuple et moi-même voterons le 11 mars propose de changer fondamentalement de système de santé en Suisse. Son [texte](http://www.admin.ch/ch/f/pore/vi/vi316t.html) est exceptionnellement court et simple :
 

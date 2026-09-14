@@ -8,12 +8,12 @@ tags:
   - "graphisme"
   - "proce55ing"
   - "programmation"
-coverImage: "c9da324495432c95e3adfc6ab80f76b9.jpg"
+coverImage: "./images/c9da324495432c95e3adfc6ab80f76b9.jpg"
 ---
 
 [Proce55ing (ou Processing),](http://processing.org/) est un langage de programmation, et même un environnement de développement d'applications graphiques temps réel interactives. Créé initialement par [Ben Fry](http://benfry.com) et [Casey Reas](http://groupc.net/) pour des applications de visualisation de données, Processing est également apprécié de créateurs comme qui en tirent des oeuvres graphiques magnifiques.
 
-[![](images/c9da324495432c95e3adfc6ab80f76b9.jpg)](http://www.complexification.net/gallery/machines/bubblechamber/)
+[![](./images/c9da324495432c95e3adfc6ab80f76b9.jpg)](http://www.complexification.net/gallery/machines/bubblechamber/)
 
 _["Bubble Chamber"](http://www.complexification.net/gallery/machines/bubblechamber/) de [Jared Tarbell](http://www.complexification.net/gallery/) Cliquez sur l'image pour la version interactive_
 
@@ -21,7 +21,7 @@ _["Bubble Chamber"](http://www.complexification.net/gallery/machines/bubblechamb
 
 _["Solar with Lyrics"](http://www.flight404.com/blog/?p=111) de [Robert Hodgin (flight404)](http://www.flight404.com/blog/?cat=1) musique "Lovely Head" de Goldfrapp_
 
-[![](images/6788dbafad08518db06153b64e926806.jpg)](http://www.flickr.com/photos/eskimoblood/collections/72157600002925667/)
+[![](./images/6788dbafad08518db06153b64e926806.jpg)](http://www.flickr.com/photos/eskimoblood/collections/72157600002925667/)
 
 La [variété des applications](http://processing.org/exhibition/index.html) réalisées avec Proce55ing est réellement impressionnante. On trouve beaucoup d'autres [exemples sur YouTube](http://www.youtube.com/results?search_query=processing.org&search=tag) ou sur flickr [ici](http://www.flickr.com/photos/eskimoblood/collections/72157600002925667/) ou [là](http://www.flickr.com/photos/flight404/sets/72057594065151925/).
 

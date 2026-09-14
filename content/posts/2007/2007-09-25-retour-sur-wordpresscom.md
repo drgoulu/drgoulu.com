@@ -4,10 +4,10 @@ slug: "retour-sur-wordpresscom"
 date: 2007-09-25
 tags: 
   - "internet"
-coverImage: "wordpress_logo_cristal.jpg"
+coverImage: "./images/wordpress_logo_cristal.jpg"
 ---
 
-{{< figure src="images/wordpress_logo_cristal.jpg" link="http://wordpress.com" >}}
+{{< figure src="./images/wordpress_logo_cristal.jpg" link="http://wordpress.com" >}}
 
 Le blog "Dr. Goulu" a encore un peu changé. En fait je l'ai rapatrié sur le site [WordPress.com](http://wordpress.com) après l'en avoir sorti il y a quelques mois pour l'héberger chez [infomaniak.ch](http://www.infomaniak.com/) sur mon site "professionnel".
 

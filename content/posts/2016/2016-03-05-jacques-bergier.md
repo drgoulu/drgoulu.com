@@ -3,9 +3,9 @@ title: Jacques Bergier
 slug: jacques-bergier
 date: '2016-03-05'
 draft: true
-coverImage: "bergier1.jpg"
+coverImage: "./images/bergier1.jpg"
 ---
-{{< figure src="images/bergier1.jpg" alt="Jacques Bergier et Mik Ezdanitoff le personnage de Hergé dans Vol 714 pour Syndey" caption="Jacques Bergier et Mik Ezdanitoff le personnage de Hergé dans &quot;Vol 714 pour Syndey&quot;" width="488" >}}
+{{< figure src="./images/bergier1.jpg" alt="Jacques Bergier et Mik Ezdanitoff le personnage de Hergé dans Vol 714 pour Syndey" caption="Jacques Bergier et Mik Ezdanitoff le personnage de Hergé dans &quot;Vol 714 pour Syndey&quot;" width="488" >}}
 
 [vidéo d' Entretiens (1978)](https://www.youtube.com/watch?v=JVIv7Kh3VgA)
 

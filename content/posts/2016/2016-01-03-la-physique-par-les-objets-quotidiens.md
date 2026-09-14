@@ -8,10 +8,10 @@ categories:
 tags: 
   - "livres"
   - "physique"
-coverImage: "7389869-L.jpg"
+coverImage: "./images/7389869-L.jpg"
 ---
 
-{{< figure src="images/7389869-L.jpg" alt="La physique par les objets quotidiens" >}}
+{{< figure src="./images/7389869-L.jpg" alt="La physique par les objets quotidiens" >}}
 
 Pour Noël, la [Boutique Science et Vie](http://www.laboutiquescienceetvie.com/) m'a gentiment offert un exemplaire du livre {{< openbook booknumber="ISBN:9782701145525" templatenumber="5" >}} ([et chez eux](http://www.laboutiquescienceetvie.com/la-physique-par-les-objets-du-quotidien.html))
 

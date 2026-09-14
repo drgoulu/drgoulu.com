@@ -10,10 +10,10 @@ tags:
   - "seti"
   - "societe"
   - "statistiques"
-coverImage: "cf758b4a6ae696fabda3353e868589fe-1.jpg"
+coverImage: "./images/cf758b4a6ae696fabda3353e868589fe-1.jpg"
 ---
 
-{{< figure src="images/cf758b4a6ae696fabda3353e868589fe.jpg" link="http://www.seti.org/ata/gallery07/images/medium/ATA_pix6.jpg" >}}
+{{< figure src="./images/cf758b4a6ae696fabda3353e868589fe.jpg" link="http://www.seti.org/ata/gallery07/images/medium/ATA_pix6.jpg" >}}
 
 Le projet [SETI](http://www.seti.org/) (Search for ExtraTerrestrial Intelligence) écoute les signaux radio en provenance de l'espace depuis 1960, à la recherche de messages envoyés par des extra terrestres. Pourquoi ne reçoit-on rien ? Voici un petit tour des raisons possibles :
 

@@ -3,7 +3,7 @@ title: La mort de l'ours polaire
 slug: la-mort-de-lours-polaire
 date: '2018-01-01'
 draft: true
-coverImage: "land_mammals.png"
+coverImage: "./images/land_mammals.png"
 ---
 C'est triste, un ours polaire qui meurt. Nous avons tué tous nos loups, nos lynx et nos ours bruns, mais les autres, il faut qu'ils gardent leurs tigres, leurs lions et leurs ours polaires. Ils sont tellement beaux sur nos photos de vacances... et leurs petits sont tellement mignons, en particuliers les oursons blancs, ils sont "trognons".
 
@@ -11,6 +11,6 @@ La femelle [Ursus maritimus](w:) en a 1 ou 2 tous les trois ans entre l'âge de 
 
 Alors pourquoi n'y a t'il pas des milliards d'ours blancs ? C'est pourtant un super prédateur : à part un chasseur de temps en temps qui ne vise que sa fantastique fourrure, aucun tyrannosaure de se nourrit d'ours blancs. La réalité s'impose : les ours blancs "doivent" mourir de faim. Surtout les petits "trognons".
 
-{{< figure src="images/land_mammals.png" alt="Land Mammals" caption="Masse des mammifères terrestres. Au milieu c'est nous, les humains. Autour ce sont tous nos animaux d'élevage. En vert, ce qui reste de mammifères sauvages." link="https://xkcd.com/1338/" align="aligncenter" width="619" >}}
+{{< figure src="./images/land_mammals.png" alt="Land Mammals" caption="Masse des mammifères terrestres. Au milieu c'est nous, les humains. Autour ce sont tous nos animaux d'élevage. En vert, ce qui reste de mammifères sauvages." link="https://xkcd.com/1338/" align="aligncenter" width="619" >}}
 
 http://www.lefigaro.fr/sciences/2017/12/14/01008-20171214ARTFIG00297-cet-ours-polaire-mourant-de-faim-est-il-reellement-victime-du-rechauffement.php

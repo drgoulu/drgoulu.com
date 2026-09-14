@@ -7,7 +7,7 @@ categories:
 tags: 
   - "sport"
   - "statistiques"
-coverImage: "00044e0dd345f5f998f074318983f1e4.png"
+coverImage: "./images/00044e0dd345f5f998f074318983f1e4.png"
 ---
 
 Pour gagner un match de tennis, il faut gagner des "sets". Et pour gagner un "set", il faut gagner deux "jeux" de plus que son adversaire, et pour gagner un "jeu", il faut réussir deux balles de plus que son adversaire. Quel est l'effet de cette étrange manière de compter les points? Que se passerait-il si on comptait simplement les balles gagnantes de chaque joueur, en terminant un match par un score de 88 à 82 par exemple ?
@@ -19,7 +19,7 @@ Il y a quelques années, un article par dans "Pour la Science" \[1\] montrait qu
 
 Ceci apparait de façon limpide dans le graphique ci-dessous:
 
-[![](images/00044e0dd345f5f998f074318983f1e4.png)](/wp-content/uploads/HLIC/00044e0dd345f5f998f074318983f1e4.png)
+[![](./images/00044e0dd345f5f998f074318983f1e4.png)](./images/00044e0dd345f5f998f074318983f1e4.png)
 
 _probabilités de gain  d'un jeu, d'un set ou d'un match en fonction de la probabilité de gain d'une balle._
 

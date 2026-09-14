@@ -10,7 +10,7 @@ tags:
   - "nombres"
   - "oeis"
   - "python"
-coverImage: "1nv66i.jpg"
+coverImage: "./images/1nv66i.jpg"
 ---
 
 Tombé l'autre jour sur un problème idiot [[1]](#ref-1) mais intéressant : calculer le 1019 ème terme de la [suite de Fibonacci](w:). Idiot parce que ça ne sert à rien. Intéressant parce que ça sous-entend qu'il existe une manière de calculer le n-ième terme de cette suite définie par récurrence sans calculer tous les termes précédents. En effet, calculer les termes les uns après les autres prendrait dans les 300'000 ans à raison d'une microseconde par terme...
@@ -53,7 +53,7 @@ $\mathcal F_{1000}$=434665576869374564356885276750406258025646605173717804024817
 
 Donc $\mathcal F_{10^{19}}$ comporte 2089876402499787337 chiffres ... Il faudrait [dans les 867](https://www.wolframalpha.com/input/?i=10%5E19*log\(\(1%2Bsqrt\(5\)\)%2F2\)%2Flog\(2\)%2F8) [péta](w:)octets de RAM (de préférence...) pour stocker ce nombre ...
 
-{{< figure src="images/1nv66i.jpg" alt="(mon premier meme ... désolé ...)" caption="(mon premier meme ... désolé ...)" width="500" >}}
+{{< figure src="./images/1nv66i.jpg" alt="(mon premier meme ... désolé ...)" caption="(mon premier meme ... désolé ...)" width="500" >}}
 
 ## Et modulo 1000000007 ?
 

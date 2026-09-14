@@ -8,10 +8,10 @@ tags:
   - "ecologisme"
   - "energie"
   - "media"
-coverImage: "25f276b97f979458f226485b9db25e02-1.jpg"
+coverImage: "./images/25f276b97f979458f226485b9db25e02-1.jpg"
 ---
 
-{{< figure src="images/25f276b97f979458f226485b9db25e02.jpg" >}}
+{{< figure src="./images/25f276b97f979458f226485b9db25e02.jpg" >}}
 
 Le monde se divise en deux :
 

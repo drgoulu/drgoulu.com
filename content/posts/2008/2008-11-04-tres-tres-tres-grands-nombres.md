@@ -7,7 +7,7 @@ categories:
 tags: 
   - "maths"
   - "nombres"
-coverImage: "5b925a7a674da87b3b484f64b48890dd.png"
+coverImage: "./images/5b925a7a674da87b3b484f64b48890dd.png"
 ---
 
 Quel est le plus grand nombre entier que vous pouvez exprimer ? neuf milliards de milliards de milliards de (répéter quelques fois) milliards ? C'est un bon début, mais chaque "milliards de" n'ajoute que 9 zéros au nombre mais vous coute 12 lettres. Cherchez plus grand et plus court, disons en 5 caractères maximum.
@@ -29,7 +29,7 @@ Les "[puissances itérées de Knuth](w:Notation_des_puissances_itérées_de_Knut
 - l'élévation à la puissance a^b est équivalente à b multiplications : a^b=a.a. ...a avec b "a"
 - ensuite, Knuth définit l'opérateur ↑↑ ainsi : a↑↑b est équivalent à b élévations successives à la puissance a : a↑↑b=a^a^a...^a, avec b-1 "^a". Avec cette notation, notre 9^9^9 se note 9↑↑2, un nombre minuscule à côté de 9↑↑9, lui même ridicule comparé à 9↑↑99 qui tient en 5 caractères aussi ...
 - On peut continuer en définissant a↑↑↑b = a↑↑a↑↑a↑↑...↑↑a avec b-1 "↑↑a". Cet opérateur permet d'écrire les 5 caractères 9↑↑↑9, un nombre absolument titanesque. (_qui arrivera à déterminer sa taille ?_)
-- Et évidemment, on peut continuer ainsi à l'infini en ajoutant des flèches, ou plus simplement définir un opérateur généralisé ↑n ainsi: ![](images/5b925a7a674da87b3b484f64b48890dd.png)
+- Et évidemment, on peut continuer ainsi à l'infini en ajoutant des flèches, ou plus simplement définir un opérateur généralisé ↑n ainsi: ![](./images/5b925a7a674da87b3b484f64b48890dd.png)
 
 Outre sa beauté, cette généralisation des opérateurs mathématiques courants semble redoutablement puissante pour écrire de très très grands nombres.
 

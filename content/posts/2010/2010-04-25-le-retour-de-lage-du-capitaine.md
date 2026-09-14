@@ -8,10 +8,10 @@ tags:
   - "casse-tetes"
   - "humour"
   - "maths"
-coverImage: "7bdb560add4a40ac0b203a7a85fdf52e.jpg"
+coverImage: "./images/7bdb560add4a40ac0b203a7a85fdf52e.jpg"
 ---
 
-{{< figure src="images/7bdb560add4a40ac0b203a7a85fdf52e.jpg" >}}
+{{< figure src="./images/7bdb560add4a40ac0b203a7a85fdf52e.jpg" >}}
 
 Trouvé encore un de ces merveilleux problèmes qui semble impossible et qui est pourtant délicieusement simple :
 

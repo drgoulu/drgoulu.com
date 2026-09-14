@@ -8,10 +8,10 @@ tags:
   - "biologie"
   - "medecine"
   - "zoologie"
-coverImage: "dahu_110.jpg"
+coverImage: "./images/dahu_110.jpg"
 ---
 
-{{< figure src="images/dahu_110.jpg" alt="spécimen naturalisé de dahu lévogyre (ayant les pattes gauches plus courtes que les droites)" caption="spécimen naturalisé de dahu lévogyre (ayant les pattes gauches plus courtes que les droites)" width="639" >}}
+{{< figure src="./images/dahu_110.jpg" alt="spécimen naturalisé de dahu lévogyre (ayant les pattes gauches plus courtes que les droites)" caption="spécimen naturalisé de dahu lévogyre (ayant les pattes gauches plus courtes que les droites)" width="639" >}}
 
 Le [dahu](w:) est un animal si rare que certains le considèrent comme imaginaire. Pourtant il existe de nombreux témoignages de son existence, des squelettes de dahu sont exposés dans divers musées, et un reportage très complet sur le dahu a même été réalisé à partir de très rares images et vidéos de cet animal extrêmement mal connu (voir ci-dessous).
 

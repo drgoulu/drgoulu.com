@@ -5,10 +5,10 @@ date: 2005-01-02
 tags: 
   - "politique"
   - "usa"
-coverImage: "0b1dba183e9d4e898f2774551f3890be.jpg"
+coverImage: "./images/0b1dba183e9d4e898f2774551f3890be.jpg"
 ---
 
-{{< figure src="images/0b1dba183e9d4e898f2774551f3890be.jpg" alt="Robert Byrd" caption="Robert Byrd" link="http://fr.wikipedia.org/wiki/Robert_Byrd" width="213" >}}
+{{< figure src="./images/0b1dba183e9d4e898f2774551f3890be.jpg" alt="Robert Byrd" caption="Robert Byrd" link="http://fr.wikipedia.org/wiki/Robert_Byrd" width="213" >}}
 
 J’ai vu dans un reportage sur les USA/Irak quelques extraits d’un extraordinaire discours de Robert Byrd, doyen du Sénat étatsunien. Il démontre que quelques personnes sont encore capable de réfléchir dans ce pays, et j’ai retrouvé le texte intégral du discours, traduit en français. Lisez ça !
 

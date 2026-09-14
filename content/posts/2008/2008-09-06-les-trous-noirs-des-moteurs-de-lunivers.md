@@ -8,7 +8,7 @@ tags:
   - "astro"
   - "physique"
   - "trou-noir"
-coverImage: "SouthernCross.jpg"
+coverImage: "./images/SouthernCross.jpg"
 ---
 
 Dans l'imaginaire collectif alimenté par les mauvais films de SF, les trous noirs sont des monstres qui avalent tout ce qui les entoure. En fait, ils recyclent, transforment et éjectent probablement beaucoup plus de matière qu'ils n'en absorbent.
@@ -29,7 +29,7 @@ Qu'est-ce qui pourrait tomber dans le trou noir alors ? Pas grand chose. Actuell
 
 En réalité c'est plus compliqué. Plus haut, j'ai dit que la force d'attraction resterait "pratiquement" la même, parce qu'en passant d'un diamètre de 1.4 millions de kilomètres à moins de 10 km, la rotation du Soleil accélèrerait monstreusement, et c'est un euphémisme. Au lieu d'une rotation en 26 jours, le Soleil trounoirisé pirouetterait plusieurs centaines de fois par seconde, devenant une sorte de fraise de dentiste stellaire, enroulant littéralement l'espace alentour :
 
-![](images/f030bbb762992b7f12b2f120501cc8d9.jpg)
+![](./images/f030bbb762992b7f12b2f120501cc8d9.jpg)
 
 Donc pour tomber dans le trou noir, la matière doit arriver "tout droit à côté", selon des géodésiques comme celle tracée en rouge sur la figure. Un petit écart et la matière, sera éjectée à une vitesse prodigieuse sur une orbite totalement aberrante selon les lois de la mécanique classique. Mais au passage, elle sera broyée menu par les "forces de marée".
 
@@ -47,7 +47,7 @@ D'abord, les étoiles ont des champs magnétiques, et lorsqu'une étoile s'effon
 
 D'autre part, selon des simulations récentes, des grumeaux peuvent se former en bordure des disques d'accrétion et se retrouver éjectés, formant des étoiles massives, qui ne vivent pas très longtemps
 
-![](images/cc9490642c6733f6417153030421c063.jpg)
+![](./images/cc9490642c6733f6417153030421c063.jpg)
 
 Bien sur, une simulation peut être tès jolie mais simuler des phénomènes inexistants, mais là ça tombe plutôt bien : autour du centre de la galaxie d'Andromède toute proche, on a détecté un anneau d'étoiles massives jeunes, et autour du centre de notre propre Galaxie aussi, il y a beaucoup plus d'étoiles jeunes que la normale....
 

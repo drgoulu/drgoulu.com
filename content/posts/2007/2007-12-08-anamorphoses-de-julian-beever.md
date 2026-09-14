@@ -6,16 +6,16 @@ tags:
   - "3d"
   - "art"
   - "illusion"
-coverImage: "globe-wrongview.jpg"
+coverImage: "./images/globe-wrongview.jpg"
 ---
 
 [Julian Beever](http://users.skynet.be/J.Beever/pave.htm) est le maitre incontesté de l'anamorphose de rue. Il dessine à la craie sur les trottoirs des choses comme ça :
 
-![](images/globe-wrongview.jpg)
+![](./images/globe-wrongview.jpg)
 
 Rien de bien spécial, sauf si on le regarde d'un point précis, et de là on voit ceci:
 
-![](images/globe.jpg)
+![](./images/globe.jpg)
 
 Remarquez l'artiste jouant au golf au pôle nord, causant une illusion d'optique spectaculaire !
 

@@ -11,14 +11,14 @@ tags:
   - "moteur"
   - "sport"
   - "transports"
-coverImage: "975c6722f00927bf13519f3752ac8cf11.jpg"
+coverImage: "./images/975c6722f00927bf13519f3752ac8cf11.jpg"
 ---
 
 Pourriez-vous remporter le Tour de France avec un vélo "amélioré" par rapport à ceux des autres concurrents ?  Que diriez-vous d'un petit moteur électrique caché dans le cadre ?
 
 Un cycliste amateur peut développer pendant quelques heures une puissance moyenne de 150 watts, un pro autour de 190 watts. Différence : 40 watts. Pas de problème pour le moteur, nos amis modélistes  disposent de [moteurs de 20 mm de diamètre produisant 200 W](http://www.exceedrc.com/eliteseries.html) pour leurs engins volants. Pour la batterie, c'est plus compliqué en raison du volume réduit à l'intérieur du cadre. On dispose d'environ 0.25 l si on utilise qu'un seul tube rond de 25 mm, et de près d'1 litre si on remplit un cadre profilé dans les règles de l'Union Cycliste Internationale (UCI) , ce qui permet de disposer des batteries lithium-ion d'une capacité de 100 à 400 Wattheures.
 
-{{< figure src="images/975c6722f00927bf13519f3752ac8cf1.jpg" alt="le Lithium Vivi RX-10S de Matsushita, avec une batterie de 400 Wh/l qu'on pourrait presque loger dans le cadre ..." caption="le &quot;Lithium Vivi RX-10S&quot; de Matsushita, avec une batterie de 400 Wh/l qu'on pourrait presque loger dans le cadre ..." align="aligncenter" width="449" >}}
+{{< figure src="./images/975c6722f00927bf13519f3752ac8cf1.jpg" alt="le Lithium Vivi RX-10S de Matsushita, avec une batterie de 400 Wh/l qu'on pourrait presque loger dans le cadre ..." caption="le &quot;Lithium Vivi RX-10S&quot; de Matsushita, avec une batterie de 400 Wh/l qu'on pourrait presque loger dans le cadre ..." align="aligncenter" width="449" >}}
 
 Donc oui, une assistance électrique discrète peut vous propulser au niveau des pros du peloton pendant plusieurs heures.
 
@@ -26,14 +26,14 @@ Pour grimper un col, ça passe encore : les mutants sont capables de développer
 
 Mais vous pourriez aussi devenir un redoutable routier sans l'assistance d'un moteur, mais en violant plus visiblement les règles de l'UCI. En effet, à plat, la puissance développée sert essentiellement à compenser le frottement dans l'air :
 
-[![](images/6bcd31048b737c2aa9f38d329b07bcb2.png)](http://fr.wikipedia.org/wiki/Puissance_musculaire_humaine_et_bicyclette)
+[![](./images/6bcd31048b737c2aa9f38d329b07bcb2.png)](http://fr.wikipedia.org/wiki/Puissance_musculaire_humaine_et_bicyclette)
 
 On voit tout l'intérêt de réduire le [Cx](w:coefficient_de_traînée), confirmé par le fait que les records de vitesse de [véhicules à propulsion humaine](w:) sont détenus par des "vélos couché":
 
 - record de l'heure : 90.6 km en 2009 par Sam Whittingham (contre 49.7 km pour un vélo "normal")
 - record sur 200m : 133.28 km/h en 2009 par Sam Whittingham
 
-{{< figure src="images/ab03ecb2b28e55c7c96559f6f81d7a24.jpg" alt="L'entrprise canadienne Varna produit des vélos couchés et détient de nombreux records" caption="L'entrprise canadienne Varna produit des vélos couchés et détient de nombreux records" link="http://www.varnahandcycles.com" align="aligncenter" width="509" >}}
+{{< figure src="./images/ab03ecb2b28e55c7c96559f6f81d7a24.jpg" alt="L'entrprise canadienne Varna produit des vélos couchés et détient de nombreux records" caption="L'entrprise canadienne Varna produit des vélos couchés et détient de nombreux records" link="http://www.varnahandcycles.com" align="aligncenter" width="509" >}}
 
 Même sans carénage, un [vélo couché](w:) offre un meilleur Cx qu'un vélo normal, et en plus il permet de s'appuyer sur un dossier pour exercer plus de force sur les pédales, sans la fatigue de la "montée en danseuse".
 

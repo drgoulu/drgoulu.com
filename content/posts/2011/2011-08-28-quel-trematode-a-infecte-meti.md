@@ -8,10 +8,10 @@ tags:
   - "biologie"
   - "humour"
   - "seti"
-coverImage: "c37ed04412ed10fbd5ce026ecdffc3b51.gif"
+coverImage: "./images/c37ed04412ed10fbd5ce026ecdffc3b51.gif"
 ---
 
-{{< figure src="images/c37ed04412ed10fbd5ce026ecdffc3b5.gif" link="http://www.smbc-comics.com/index.php?db=comics&id=2331" >}}
+{{< figure src="./images/c37ed04412ed10fbd5ce026ecdffc3b5.gif" link="http://www.smbc-comics.com/index.php?db=comics&id=2331" >}}
 
 Vu l'autre jour cet excellent cartoon du "Saturday Morning Breakfast Cereal" qui associe l'émission de signaux à destination des extraterrestres ([METI](w:en:Messaging_to_Extra-Terrestrial_Intelligence)) à un comportement suicidaire de poissons infectés par des [trématodes](w:Trematoda) :-)
 

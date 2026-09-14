@@ -7,7 +7,7 @@ categories:
 tags: 
   - "geologie"
   - "nucleaire"
-coverImage: "f273d2cd56cda1d649c313aece98efc9.jpg"
+coverImage: "./images/f273d2cd56cda1d649c313aece98efc9.jpg"
 ---
 
 Avec quelques autres membres du C@fé des Sciences, j'ai été invité par l'[ANDRA](http://www.andra.fr/) à visiter leur [Laboratoire de Bure](w:). Ils y étudient et préparent le site "[Cigéo](w:)" pour le stockage des déchets nucléaires français, en particulier les ["HA-VL" à haute activité et vie longue](w:Déchets_HAVL). Par "vie longue", comprenez "mortels pendant environ un million d'années" ...
@@ -42,13 +42,13 @@ Dans un réacteur nucléaire, chaque atome d'Uranium bombardé par un neutron�
 
 A part les produits de fission, une centrale nucléaire fabrique des "[actinides mineurs](w:)". En gros il s'agit des atomes d'uranium 238 qui n'ont pas éclaté en capturant un neutron mais se sont transformés en autre chose, principalement du plutonium 240 (6 500 ans) et du [plutonium 239](w:) (24 000 ans), mais aussi de l'[américium](w:) 242 et 243, du [curium](w:) 245, 246 et 250, du [californium](w:) 249 et 251, etc. produits selon ce graphique:
 
-{{< figure src="images/f273d2cd56cda1d649c313aece98efc9.jpg" alt="production d'actinides par captures de neutrons dans un réacteur [[2]](#ref-2) © IN2P3" caption="production d'actinides par captures de neutrons dans un réacteur [[2]](#ref-2) © IN2P3" link="http://www.laradioactivite.com/fr/site/pages/lesactinidesmineurs.htm" align="aligncenter" width="500" >}}Ces isotopes ont de longues durées de vie, sont fissiles ou fertiles, et décroissent par [radioactivité α](w:) ou [émission de neutron](w:) : on doit les stocker comme déchets HA-VL aussi. "Heureusement", le plutonium est apprécié par AREVA pour son [combustible MOX](w:) ainsi que par les militaires, donc le volume des 7 isotopes de produits de fission n'est augmenté que de 3% environ par les 8 isotopes d'actinides mineurs.
+{{< figure src="./images/f273d2cd56cda1d649c313aece98efc9.jpg" alt="production d'actinides par captures de neutrons dans un réacteur [[2]](#ref-2) © IN2P3" caption="production d'actinides par captures de neutrons dans un réacteur [[2]](#ref-2) © IN2P3" link="http://www.laradioactivite.com/fr/site/pages/lesactinidesmineurs.htm" align="aligncenter" width="500" >}}Ces isotopes ont de longues durées de vie, sont fissiles ou fertiles, et décroissent par [radioactivité α](w:) ou [émission de neutron](w:) : on doit les stocker comme déchets HA-VL aussi. "Heureusement", le plutonium est apprécié par AREVA pour son [combustible MOX](w:) ainsi que par les militaires, donc le volume des 7 isotopes de produits de fission n'est augmenté que de 3% environ par les 8 isotopes d'actinides mineurs.
 
 Entre parenthèses, un des intérêts de la [filière "thorium"](/2013/05/18/latome-vert-le-thorium/) est qu'elle ne produit pas beaucoup moins ces actinides.
 
 Tout ce qui précède est résumé dans le dessins ci-dessous :
 
-{{< figure src="images/SchémaCombustible3.jpg" alt="Transformation du combustible dans un réacteur à neutrons thermiques (image : Wikipédia)" caption="Transformation du combustible dans un réacteur à neutrons thermiques (image : Wikipédia)" link="https://fr.wikipedia.org/wiki/Actinides_mineurs#Risques_et_dangers_li.C3.A9s_aux_actinides_mineurs_.28AMin.29" align="aligncenter" width="523" >}}
+{{< figure src="./images/SchémaCombustible3.jpg" alt="Transformation du combustible dans un réacteur à neutrons thermiques (image : Wikipédia)" caption="Transformation du combustible dans un réacteur à neutrons thermiques (image : Wikipédia)" link="https://fr.wikipedia.org/wiki/Actinides_mineurs#Risques_et_dangers_li.C3.A9s_aux_actinides_mineurs_.28AMin.29" align="aligncenter" width="523" >}}
 
 A l'[usine de retraitement de la Hague](w:), le combustible irradié est dissous par des acides et séparé par le procédé [PUREX](w:). Le 95% d'uranium non fissionné est recyclé dans de nouvelles barres de combustible, le presque 1% de plutonium est utilisé "quelque part", et les 4% qui restent constituent les déchets HA-VL. Ca ne représente "que" 120 m³/an pour les 58 réacteurs français. Un cube de 5m de côté....
 
@@ -60,7 +60,7 @@ Pendant les premières années, la radioactivité des colis est telle qu'ils ch
 
 Finalement, la décroissance de la radiotoxicité au cours des millénaires de ces déchets devrait ressembler à ceci :
 
-{{< figure src="images/1280px-Spent_nuclear_fuel_decay_sievert.jpg" alt="décroissance de la radiotoxicité (en Sievert) des déchets produits à partir d'une tonne d'uranium naturel. Notez l'échelle log/log... . Source : wikipédia" caption="décroissance de la radiotoxicité (en Sievert) des déchets produits à partir d'une tonne d'uranium naturel. Notez l'échelle log/log... . Source : wikipédia" link="https://fr.wikipedia.org/wiki/D%C3%A9chets_HAVL#D.C3.A9croissance_radioactive" align="aligncenter" width="627" >}}
+{{< figure src="./images/1280px-Spent_nuclear_fuel_decay_sievert.jpg" alt="décroissance de la radiotoxicité (en Sievert) des déchets produits à partir d'une tonne d'uranium naturel. Notez l'échelle log/log... . Source : wikipédia" caption="décroissance de la radiotoxicité (en Sievert) des déchets produits à partir d'une tonne d'uranium naturel. Notez l'échelle log/log... . Source : wikipédia" link="https://fr.wikipedia.org/wiki/D%C3%A9chets_HAVL#D.C3.A9croissance_radioactive" align="aligncenter" width="627" >}}
 
 La ligne verte représente le niveau de radioactivité dans un mine d'uranium. On considère que si on est en dessous, c'est "safe". On voit que la courbe noire des produits de fission descend en quelques siècles en dessous grâce aux courtes vies du [césium 137](w:) et du [strontium 90](w:), puis fait un plus long palier à cause des isotopes à vie plus longue. Pour les "actinides mineurs" il faut compter dans les 10'000 ans. Et si un jour on renonce aux diverses applications du plutonium, il faudra faire un pari sur des millions d'années...
 

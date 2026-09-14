@@ -8,10 +8,10 @@ tags:
   - "materiaux"
   - "ovni"
   - "pseudo"
-coverImage: "i-dont-want-to-believe-i-want-to-know-prints.jpg"
+coverImage: "./images/i-dont-want-to-believe-i-want-to-know-prints.jpg"
 ---
 
-{{< figure src="images/i-dont-want-to-believe-i-want-to-know-prints.jpg" alt="I Don" link="https://society6.com/product/i-dont-want-to-believe-i-want-to-know_print" >}}
+{{< figure src="./images/i-dont-want-to-believe-i-want-to-know-prints.jpg" alt="I Don" link="https://society6.com/product/i-dont-want-to-believe-i-want-to-know_print" >}}
 
 La semaine passée, l'émission "Temps Présent" de la RTS (notre "Envoyé Spécial à nous...) a diffusé le reportage [OVNIS, une affaire d'états](https://www.rts.ch/play/tv/temps-present/video/ovnis-une-affaire-detat?id=11463697) [[1]](#ref-1) qui revient sur la publication récente de vidéos de l'US Air Force montrant des interceptions d'objets volants non identifiés par des F-18 américains.
 
@@ -31,7 +31,7 @@ A 56:57 du reportage on voit un certain [Dr. Hal E. Puthoff](w:en:Harold_E._Puth
 
 L'objet dont il parle est celui-ci :
 
-[![](images/BismuthMgZnLayeredMetal1999byLMH.jpg)](https://www.earthfiles.com/bismuth/)
+[![](./images/BismuthMgZnLayeredMetal1999byLMH.jpg)](https://www.earthfiles.com/bismuth/)
 
 Remarquez mon honnêteté intellectuelle : j'ai laissé les deux mentions du copyright de [Linda Moulton Howe](w:en) , et même le lien vers son site si vous cliquez dessus.
 

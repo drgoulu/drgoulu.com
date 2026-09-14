@@ -10,7 +10,7 @@ tags:
   - "crowdsourcing"
   - "geometrie"
   - "jeux"
-coverImage: "82e0c957e6ee5ccf8d15d177e41f2cda.png"
+coverImage: "./images/82e0c957e6ee5ccf8d15d177e41f2cda.png"
 ---
 
 Si vous aimez les casse-tête et les jeux bien fichus, dépêchez-vous d'essayer [Fold It](http://fold.it/portal/). C'est génial, 100% gratuit et ça peut rapporter gros. Il s'agit de déformer une molécule affichée en 3D à l'écran pour qu'elle prenne une forme bien compacte :
@@ -19,11 +19,11 @@ Si vous aimez les casse-tête et les jeux bien fichus, dépêchez-vous d'essayer
 
 Après quelques molécules simples où on vous explique le principe et les diverses manipulations possibles, vous pourrez commencer à affronter les autres joueurs pour tenter d'obtenir le meilleur score sur des molécules de plus en plus complexes. Le jeu est très prenant et devient progressivement très difficile.
 
-![](images/82e0c957e6ee5ccf8d15d177e41f2cda.png)
+![](./images/82e0c957e6ee5ccf8d15d177e41f2cda.png)
 
 Exemple : situation de départ et d'arrivée du Pro Peptide no 48
 
-![](images/0242e81ccbc6233c4db1ec2f7a90afbc.png)
+![](./images/0242e81ccbc6233c4db1ec2f7a90afbc.png)
 
 De plus, jouer à ce jeu est utile à la science. En effet l'étude de la géométrie des protéines et de leur "pliage" en différentes formes est la clé de la compréhension des plusieurs maladies et de la conception de nouveaux médicaments. Mais cette étude demande des puissances de calcul colossales pour simuler les mouvements et déformations possibles. Outre des [superordinateurs](/2007/11/27/le-top-500-des-supercalculateurs/) fonctionnant sur ce sujet, il existe plusieurs projets de [calcul distribué](/2007/01/20/calcul-distribue-avec-boinc/) comme [folding@home](w:) auquel vous pouvez contribuer en installant sur votre ordinateur un programme qui va faire quelque chose d'utile pendant que vous ne l'utilisez pas.
 

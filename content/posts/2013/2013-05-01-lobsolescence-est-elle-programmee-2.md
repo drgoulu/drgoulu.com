@@ -9,10 +9,10 @@ tags:
   - "economie"
   - "obsolescence"
   - "researchblogging"
-coverImage: "90ef9129e3556b64ffce4779ca947b96-1.gif"
+coverImage: "./images/90ef9129e3556b64ffce4779ca947b96-1.gif"
 ---
 
-{{< figure src="images/90ef9129e3556b64ffce4779ca947b96.gif" link="http://www.joyoftech.com/" >}}
+{{< figure src="./images/90ef9129e3556b64ffce4779ca947b96.gif" link="http://www.joyoftech.com/" >}}
 
 La notion d'[obsolescence programmée](w:) est à la mode. Autrefois cantonnée aux milieux "progressistes", la cause est entendue notamment depuis le documentaire "[Prêt à jeter](w:)" : les industriels contraignent les ingénieurs à limiter la durée de vie des produits pour en vendre plus et maximiser leurs profits, ce qui provoque gaspillage, déchets et autres catastrophes. Certains vont jusqu'à qualifier cette pratique de crime contre l'humanité [[1]](#ref-1) ! Aujourd'hui les média ne prennent plus aucune précaution oratoire lorsqu'elles abordent ce sujet, et même une association de consommateurs que je considérais comme sérieuse l'affirme sans sourciller [[2]](#ref-2):
 
@@ -31,10 +31,10 @@ Et je ne suis pas le seul. Dans un article récent dans "Pour La Science" \[5\],
 Même la Wikipédia manque de références sérieuses sur l'obsolescence programmée :
 
 - L'article francophone "[obsolescence programmée](w:)" affiche cette bannière (qui va et vient au fil des éditions de l'article...):  
-    [![](images/d6ff6611d72c27bcdba7354b340b5159.png "2012-10-08_181438")](http://fr.wikipedia.org/wiki/Obsolescence_programm%C3%A9e)
+    [![](./images/d6ff6611d72c27bcdba7354b340b5159.png "2012-10-08_181438")](http://fr.wikipedia.org/wiki/Obsolescence_programm%C3%A9e)
 
 - L'article anglophone "[Planned obsolescence](w:en)" en a une aussi depuis plus de 2 ans malgré une [discussion animée](w:en:Talk:Planned_obsolescence):  
-    ![](images/93e755e507ee1728dbfab12d5d031247.png "2012-10-08_182536")
+    ![](./images/93e755e507ee1728dbfab12d5d031247.png "2012-10-08_182536")
 
 Donc je me suis mis en quête de [publications scientifiques sur le sujet](http://scholar.google.ch/scholar?hl=fr&q=%22planned+obsolescence). Je confesse n'avoir pas lu tous les articles in-extenso, mais j'ai lu les abstracts des 100 plus référencés environ, et parcouru une vingtaine de ceux qui me paraissaient intéressants. Voici mes deux principaux constats après ces lectures:
 
@@ -48,7 +48,7 @@ Premier constat à la lecture de ces articles : le manque de consensus sur la 
 
 <figure>
 
-![](images/8dcbed139c24c147134c3900b2ab33b5.jpg)
+![](./images/8dcbed139c24c147134c3900b2ab33b5.jpg)
 
 <figcaption>
 
@@ -111,7 +111,7 @@ Voici quelques expériences personnelles pour illustrer ces différents argument
 
 <figure>
 
-![](images/63af1293248c4994b21f1c4fad888a5c.png)
+![](./images/63af1293248c4994b21f1c4fad888a5c.png)
 
 <figcaption>
 
@@ -147,7 +147,7 @@ En fait ça suffit amplement : une bobine de film 8mm durait 3 minutes qui reve
 
 <figure>
 
-![](images/f76e0e1ff98dc650bc8c931488132947.jpg)
+![](./images/f76e0e1ff98dc650bc8c931488132947.jpg)
 
 <figcaption>
 
@@ -213,7 +213,7 @@ Personnellement, je pense qu'on attribue communément à l'obsolescence programm
 
 9. <span id="ref-9"></span>Alain Geldron, "[L'obsolescence programmée est-elle une stratégie répandue ?](https://www.pourlascience.fr/sd/technologie/lobsolescence-programmee-est-elle-une-strategie-repandue-7222.php)", 2013, Pour La Science No 425
 
-11. <span id="ref-11"></span>[![ResearchBlogging.org](images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org) Jeremy Bulow (1980). An Economic Theory of Planned Obsolescence Quarterly Journal of Economics, 101 (4), 729-750 {{< altmetric doi="10.2307/1884176" >}} [(pdf)](https://faculty-gsb.stanford.edu/bulow/articles/an%20economic%20theory%20of%20planned%20obsolescence.pdf)
+11. <span id="ref-11"></span>[![ResearchBlogging.org](./images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org) Jeremy Bulow (1980). An Economic Theory of Planned Obsolescence Quarterly Journal of Economics, 101 (4), 729-750 {{< altmetric doi="10.2307/1884176" >}} [(pdf)](https://faculty-gsb.stanford.edu/bulow/articles/an%20economic%20theory%20of%20planned%20obsolescence.pdf)
 
 13. <span id="ref-13"></span>J. Guiltinan, "[Creative Destruction and Destructive Creations: Environmental Ethics and Planned Obsolescence](http://www.grid.unep.ch/FP2011/step1/pdf/023a_guiltinan_2009.pdf)", 2008, Journal of Business Ethics, vol. 89, no. S1, pp. 19–28, Aug. 2008.
 

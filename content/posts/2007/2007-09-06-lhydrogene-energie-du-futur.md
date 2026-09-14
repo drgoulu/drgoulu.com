@@ -12,10 +12,10 @@ tags:
   - "hydrogene"
   - "societe"
   - "transports"
-coverImage: "ccc806a5160dee07a8e894b7daedff5b.jpg"
+coverImage: "./images/ccc806a5160dee07a8e894b7daedff5b.jpg"
 ---
 
-{{< figure src="images/ccc806a5160dee07a8e894b7daedff5b.jpg" link="http://www.flickr.com/photos/louisville327/243347651/" >}}
+{{< figure src="./images/ccc806a5160dee07a8e894b7daedff5b.jpg" link="http://www.flickr.com/photos/louisville327/243347651/" >}}
 
 Dans la [Tribune de Genève](http://www.tdg.ch) du 4 septembre, Anne-Muriel Brouet expose un point de vue courant selon lequel "l'hydrogène est une, si ce n'est l'énergie de l'avenir". Et, bien que le mot "source" n'apparaisse nulle part dans son article, le chapeau énonce clairement que l'hydrogène serait "un espoir de ressource propre".
 

@@ -9,7 +9,7 @@ tags:
   - "risques"
   - "sante"
   - "suisse"
-coverImage: "ImagerieRT_Mesotheliome_02.jpg"
+coverImage: "./images/ImagerieRT_Mesotheliome_02.jpg"
 ---
 
 Beaucoup de bâtiments contiennent de l'[amiante](w:) [[1]](#ref-1). Cette fibre minérale a été utilisée jusqu'en 1990 dans des matériaux de construction très divers que l'on peut classer en 3 grandes catégories [[2]](#ref-2) :
@@ -20,7 +20,7 @@ Beaucoup de bâtiments contiennent de l'[amiante](w:) [[1]](#ref-1). Cette fibre
 
 ## Maladies professionnelles
 
-|   {{< figure src="images/ImageriePlaquesPleuralesRT.gif" alt="Asbestose (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux )" caption="Asbestose (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux )" width="377" >}} |   {{< figure src="images/ImagerieRT_Mesotheliome_02.jpg" alt="Mésothéliome (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux)" caption="Mésothéliome (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux)" width="303" >}} |
+|   {{< figure src="./images/ImageriePlaquesPleuralesRT.gif" alt="Asbestose (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux )" caption="Asbestose (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux )" width="377" >}} |   {{< figure src="./images/ImagerieRT_Mesotheliome_02.jpg" alt="Mésothéliome (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux)" caption="Mésothéliome (image Dr V. Latrabe. Service d'imagerie - Hôpital du Haut-Lévêque - Bordeaux)" width="303" >}} |
 | --- | --- |
 
 Si des fibres microscopiques atteignent les poumons, elles peuvent provoquer des maladies "bénignes" (au sens médical) comme l'[asbestose](w:), ou malignes.

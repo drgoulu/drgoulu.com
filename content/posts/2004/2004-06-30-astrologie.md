@@ -7,10 +7,10 @@ categories:
 tags: 
   - "astrologie"
   - "pseudo"
-coverImage: "173a87c6e12116b5077cecf1bcd92e6c.jpg"
+coverImage: "./images/173a87c6e12116b5077cecf1bcd92e6c.jpg"
 ---
 
-{{< figure src="images/173a87c6e12116b5077cecf1bcd92e6c.jpg" >}}
+{{< figure src="./images/173a87c6e12116b5077cecf1bcd92e6c.jpg" >}}
 
 Si les astres ont une influence sur nous, quelle peut être son importance ?
 

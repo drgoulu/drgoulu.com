@@ -9,7 +9,7 @@ tags:
   - "astro"
   - "einstein"
   - "physique"
-coverImage: "1b34ee2f2e2e7d881980ef8ee308f8af.jpg"
+coverImage: "./images/1b34ee2f2e2e7d881980ef8ee308f8af.jpg"
 ---
 
 La grosse nouvelle scientifique de la semaine, du mois ou même de l'année a été annoncée par des titres comme "Big Bang : les ondes gravitationnelles d'Einstein enfin détectées" ou "Des physiciens découvrent des preuves du Big Bang". La découverte est fantastique, mais ces titres sont trompeurs:
@@ -28,15 +28,15 @@ Les premières tentatives de détection directe datent de la fin des années 196
 
 Pas mieux pour l'instant pour l'[interféromètre VIRGO](w:), [LIGO](w:), [GEO 600](w:) et les autres détecteurs géants basés sur l'interférométrie. L'idée est de comparer les distances parcourues par deux faisceaux lasers sur plusieurs kilomètres dans des directions distinctes. Quand une onde gravitationnelle passe par là, elle modifie la distance parcourue par l'un des lasers d'un pouillème de nanomètre par rapport à l'autre.
 
-{{< figure src="images/1b34ee2f2e2e7d881980ef8ee308f8af.jpg" alt="LIGO, c'est grand : chaque bras fait 4 km de long, et il y a un autre interféromètre à 3000 km de là pour trianguler la source..." caption="LIGO, c'est grand : chaque bras fait 4 km de long, et il y a un autre interféromètre à 3000 km de là pour trianguler la source..." align="aligncenter" width="614" >}}
+{{< figure src="./images/1b34ee2f2e2e7d881980ef8ee308f8af.jpg" alt="LIGO, c'est grand : chaque bras fait 4 km de long, et il y a un autre interféromètre à 3000 km de là pour trianguler la source..." caption="LIGO, c'est grand : chaque bras fait 4 km de long, et il y a un autre interféromètre à 3000 km de là pour trianguler la source..." align="aligncenter" width="614" >}}
 
 Ne reste plus alors qu'à isoler cette mesure des variations thermiques, des ondes sismiques, de celles produites par les collaborateurs et les scarabées du désert qui crapahutent à côté du détecteur... Comme on n'y est pas parvenu, l'idée est désormais de faire tout ça dans l'espace avec le  [projet NGO, anciennement LISA](w:New_Gravitational_wave_Observer). Lancement prévu en 2020.
 
-[![](images/cbf73c1463c37de0b03ada44bba54780.jpg)](http://space.mit.edu/LIGO/more.html)Pourtant, bien qu'on n'en ait jamais détecté directement, on sait que les ondes gravitationnelles existent depuis 1974. Cette année là, les astronomes Hulse et Taylor découvrent [PSR B1913+16](w:), un "pulsar binaire". C'est encore un de ces objets astronomiques qui nous ramènent à notre juste dimension : pas grand chose. Il s'agit de deux étoiles à neutrons de 1.4 masses solaires environ chacune qui se tournent autour en à peu près 7h45, à une distance variant entre 1 et 5 fois le rayon du Soleil, donc astronomiquement très très très proches.
+[![](./images/cbf73c1463c37de0b03ada44bba54780.jpg)](http://space.mit.edu/LIGO/more.html)Pourtant, bien qu'on n'en ait jamais détecté directement, on sait que les ondes gravitationnelles existent depuis 1974. Cette année là, les astronomes Hulse et Taylor découvrent [PSR B1913+16](w:), un "pulsar binaire". C'est encore un de ces objets astronomiques qui nous ramènent à notre juste dimension : pas grand chose. Il s'agit de deux étoiles à neutrons de 1.4 masses solaires environ chacune qui se tournent autour en à peu près 7h45, à une distance variant entre 1 et 5 fois le rayon du Soleil, donc astronomiquement très très très proches.
 
 D'après Einstein, un tel système devrait émettre des ondes gravitationnelles très puissantes "en spirale" comme dans le dessin ci-contre. Si c'est bien le cas, le signal radio émis par le pulsar avec une régularité extrême doit arriver un peu décalé dans le temps suivant la configuration des ondes gravitationnelles. Hulse et Taylor vérifient : gagné ! En 1993, ils reçoivent le prix Nobel de physique pour la première détection d'ondes gravitationnelles.
 
-{{< figure src="images/800px-PSR_B1913+16_period_shift_graph.svg.png" alt="accélération de la période de PSR B1913+16 sur 30 ans. Prévision en bleu, mesures en rouge" caption="accélération de la période de PSR B1913+16 sur 30 ans. Prévision en bleu, mesures en rouge" link="https://fr.wikipedia.org/wiki/PSR_B1913%2B16#" align="alignleft" width="300" >}}
+{{< figure src="./images/800px-PSR_B1913+16_period_shift_graph.svg.png" alt="accélération de la période de PSR B1913+16 sur 30 ans. Prévision en bleu, mesures en rouge" caption="accélération de la période de PSR B1913+16 sur 30 ans. Prévision en bleu, mesures en rouge" link="https://fr.wikipedia.org/wiki/PSR_B1913%2B16#" align="alignleft" width="300" >}}
 
 De plus, selon Albert les ondes gravitationnelles emportent de l'énergie au loin, donc un astre en orbite perd peu à peu de l'énergie et "tombe" en orbitant plus vite, donc en émettant encore plus d'ondes gravitationnelles, ce qui le ralentit encore plus jusqu'à la catastrophe. Et c'est exactement ce que l'on mesure depuis 40 ans sur PSR B1913+16.
 

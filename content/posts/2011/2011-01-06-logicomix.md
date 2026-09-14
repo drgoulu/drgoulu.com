@@ -9,10 +9,10 @@ tags:
   - "livres"
   - "logique"
   - "maths"
-coverImage: "7010421-L.jpg"
+coverImage: "./images/7010421-L.jpg"
 ---
 
-{{< figure src="images/7010421-L.jpg" alt="7010421-L" >}}
+{{< figure src="./images/7010421-L.jpg" alt="7010421-L" >}}
 
 Sous le sapin j'ai eu le plaisir de trouver "[Logicomix](http://www.logicomix.com/fr/)", un livre assez particulier. Ce "roman graphique" de [trois grecs et une française](http://www.logicomix.com/fr/indexf76f.html?option=com_content&view=category&layout=blog&id=37&Itemid=18) relève un défi très ambitieux : vulgariser en BD la révolution de la Logique survenue au début du XXème siècle à travers la biographie de l'un de ses principaux artisans, [Bertrand Russel](w:).
 
@@ -20,7 +20,7 @@ Les 300 pages soigneusement illustrées parviennent à ce but en permettant plus
 
 Ce que j'ai le plus apprécié dans "Logicomix" est le traitement de l'échec en sciences. Non, la recherche ne progresse pas de succès en succès via publications réputées et prix Nobel. Ceux qui butent sur les obstacles, les analysent, cherchent à les contourner pendant des années, effectuent un travail de fourmi pour prouver que 1+1=2 :
 
-> {{< figure src="images/112.png" alt="Démonstration formelle que 1+1=2 \[2\]" caption="Démonstration formelle que 1+1=2 \[2\]" align="aligncenter" width="566" >}}
+> {{< figure src="./images/112.png" alt="Démonstration formelle que 1+1=2 \[2\]" caption="Démonstration formelle que 1+1=2 \[2\]" align="aligncenter" width="566" >}}
 
 ceux-là posent les bases indispensables pour permettre de futures avancées. Avec quelques jours de recul, c'est même ce que je retiendrai de ce livre : une excellente illustration de la démarche scientifique à mettre entre toutes les mains.
 

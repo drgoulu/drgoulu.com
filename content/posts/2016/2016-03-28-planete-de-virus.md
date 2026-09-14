@@ -7,10 +7,10 @@ categories:
 tags: 
   - "biologie"
   - "livres"
-coverImage: "7401395-L.jpg"
+coverImage: "./images/7401395-L.jpg"
 ---
 
-{{< figure src="images/7401395-L.jpg" alt="Planète de virus" link="http://openlibrary.org/books/OL25898302M/Planète_de_virus" >}}
+{{< figure src="./images/7401395-L.jpg" alt="Planète de virus" link="http://openlibrary.org/books/OL25898302M/Planète_de_virus" >}}
 
 Dévoré un excellent livre : "Planète de virus" de [Carl Zimmer](w:en)[[1]](#ref-1). En 113 pages qui se lisent comme un roman, on apprend une multitude de choses sur les [virus](w:), bestioles, microbes, êtres  vivants, choses inconnues il y a un siècle et qui se révèlent aujourd'hui être les formes de vie bouts d'ADN les plus abondants dans la nature.
 

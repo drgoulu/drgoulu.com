@@ -9,16 +9,16 @@ tags:
   - "photo"
   - "physique"
   - "soleil"
-coverImage: "a9c550692c233151013a0bc21f048c69.gif"
+coverImage: "./images/a9c550692c233151013a0bc21f048c69.gif"
 ---
 
 Dans "Pirates des Caraïbes 3" le "rayon vert" permet de revenir du monde des morts. Comme c'est un "green flash" en anglais, Hollywood en a fait un effet spécial spectaculaire, mais existe-t-il vraiment ?
 
 Et bien oui! C'est un [phénomène optique rare](w:Rayon_vert) qui se produit au coucher du Soleil sur la mer, par temps calme : une lueur verte apparait au dessus du Soleil et reste visible après que le disque solaire soit passé derrière l'horizon.
 
-On peut en trouver quelques photos sur le net, souvent de mauvaise qualité car comme le phénomène est imprévisible, il est rarement pris avec le télescope de rigueur, mais voici les meilleures: ![](images/a9c550692c233151013a0bc21f048c69.gif)
+On peut en trouver quelques photos sur le net, souvent de mauvaise qualité car comme le phénomène est imprévisible, il est rarement pris avec le télescope de rigueur, mais voici les meilleures: ![](./images/a9c550692c233151013a0bc21f048c69.gif)
 
-[![](images/804890e5d05f4c856fc0a0dc570ae172.gif)](http://apod.nasa.gov/apod/ap040321.html)
+[![](./images/804890e5d05f4c856fc0a0dc570ae172.gif)](http://apod.nasa.gov/apod/ap040321.html)
 
 On en trouve quelques unes de plus [sur Flickr en cherchant "green flash sunset".](http://www.flickr.com/search/?q=green+flash+sunset) Il existe quelques vidéos sur YouTube, mais elles sont de trop mauvaises qualité. J'ai tenté d'y mettre la vidéo de haute qualité qui [se trouve ici](http://www.well.com/user/pk/waterfront/photo-of-the-week/GreenFlashVideo.avi) \[15 Mb pour 6 secondes !\], mais la compression YouTube a éliminé le vert...
 

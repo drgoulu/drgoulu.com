@@ -6,7 +6,7 @@ tags:
   - "3d"
   - "physique"
   - "programmation"
-coverImage: "bd4a01a19cfda0292a5e64880f721c85.jpg"
+coverImage: "./images/bd4a01a19cfda0292a5e64880f721c85.jpg"
 ---
 
 Dans votre ordinateur, il y a un CPU (Central Processing Unit) de chez Intel ou AMD communément appelé "processeur", et un GPU (Graphics Processing Unit) de chez nVidia ou ATI. Il n'y a pas si longtemps, le GPU était un circuit "fermé", non programmable par le commun des mortels, entièrement dédié à la production de belles images sur votre écran. Depuis quelques années, ces circuits sont devenus programmables pour permettre de produire de très beaux effets graphiques, et leur puissance à augmenté, augmenté... A tel point qu'aujourd'hui, votre GPU contient probablement plus de transistors que votre CPU, et est certainement capable de résoudre certains problèmes plus rapidement !<!--more-->
@@ -15,7 +15,7 @@ Alors qu'un CPU a maintenant 2 coeurs capables d'exécuter chacun quelques dizai
 
 Quelques exemples:
 
-1. ![](images/bd4a01a19cfda0292a5e64880f721c85.jpg)la [fractale de Mandelbrot](http://www.ozone3d.net/demos_projects/mandelbrot_set.php), déjà mentionné dans l'article sur [Hyperion](/2007/03/25/hyperion-3d/), mais on reste dans le monde de l'inutile beauté des mathématiques.
+1. ![](./images/bd4a01a19cfda0292a5e64880f721c85.jpg)la [fractale de Mandelbrot](http://www.ozone3d.net/demos_projects/mandelbrot_set.php), déjà mentionné dans l'article sur [Hyperion](/2007/03/25/hyperion-3d/), mais on reste dans le monde de l'inutile beauté des mathématiques.
 2. [Real Time Relativity](http://www.anu.edu.au/Physics/Savage/RTR/), déjà mentionné [ici,](/2007/05/02/relativite-en-temps-reel-2/) qui combine la fonction principale d'une carte graphique, représenter une scène en 3D, avec des calculs relativistes nécessitant 4 dimensions grâce au fait que les GPU traitent 4 composantes de couleur RGBA (Rouge, Gert, Bleu, trAnspArent)
 3. Et là je viens de tomber sur plusieurs références expliquant comment simuler la gravitation entre N corps avec un GPU, ce qui permet de simuler une mini galaxie de 8192 étoiles beaucoup plus vite qu'avec un CPU:
     - Mark Harris "Mapping Computational Concepts to GPUs", nVidia ([ppt](http://gpgpu.org/s2005/slides/harris.Mapping.ppt))

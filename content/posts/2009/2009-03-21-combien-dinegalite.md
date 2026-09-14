@@ -11,7 +11,7 @@ tags:
   - "inegalites"
   - "ocde"
   - "politique"
-coverImage: "ceff2742634f4ddd3d5251efaaf85934.png"
+coverImage: "./images/ceff2742634f4ddd3d5251efaaf85934.png"
 ---
 
 Le récent rapport de l'OCDE "Croissance et inégalités : Distribution des revenus et pauvreté dans les pays de l’OCDE" [[1]](#ref-1) me permet de revenir sur le thème abordé dans "[les inégalités s'accroissent. vraiment ?](/2007/01/09/les-inegalites-saccroissent-vraiment/)" et dans "[inégalités et croissance](/2007/09/26/inegalites-et-croissance/)" : comment mesurer les inégalités de revenu de manière scientifique, et comment mesurer les variations des inégalités.
@@ -26,7 +26,7 @@ Il existe plusieurs manières de mesurer les inégalités [[2]](#ref-2), les plu
 
 L'indice de Gini est l'indicateur adopté par la plupart des organisations nationales et internationales. Voici par exemple les indices de Gini des pays membres de l'OCDE
 
-[![gini2008](images/ceff2742634f4ddd3d5251efaaf85934.png "gini2008")](images/ceff2742634f4ddd3d5251efaaf85934.png)
+[![gini2008](./images/ceff2742634f4ddd3d5251efaaf85934.png "gini2008")](./images/ceff2742634f4ddd3d5251efaaf85934.png)
 
 Encore faut-il convenir de ce que l'on considère comme "revenu" pour effectuer des comparaisons, car le Gini d'une population dans laquelle les enfants seraient considérés comme ayant un revenu nul est bien différent de celui qui serait calculé sur le revenu des ménages. De même, comme nous le verrons plus bas, les inégalités mesurées sur le revenu avant impôts ou après impôts sont (heureusement) fort différentes.
 
@@ -40,7 +40,7 @@ Comme je l'avais remarqué lors des [deux](/2007/01/09/les-inegalites-saccroiss
 
 J'en ai tiré le graphique suivant (en enlevant le Mexique, et la Turquie, au dessus de 0.4, et en interpolant certaines valeurs pour obtenir des courbes continues):
 
-{{< figure src="images/50f842011e28dff828c795149ff107ef.png" alt="giniocde" caption="(cliquer pour accéder aux données)" link="https://docs.google.com/spreadsheet/pub?hl=fr&hl=fr&key=0Al_D4zS2T4QodFpxYzNMZnktNDdwcEwzYnoxT3cycHc&single=true&gid=1&output=html" align="aligncenter" width="462" >}}
+{{< figure src="./images/50f842011e28dff828c795149ff107ef.png" alt="giniocde" caption="(cliquer pour accéder aux données)" link="https://docs.google.com/spreadsheet/pub?hl=fr&hl=fr&key=0Al_D4zS2T4QodFpxYzNMZnktNDdwcEwzYnoxT3cycHc&single=true&gid=1&output=html" align="aligncenter" width="462" >}}
 
 Sur 23 pays, 16 ont enregistré une augmentation des inégalités internes sur la période mesurée. La tendance à l'accroissement des inégalités est claire, mais il existe d'importantes variations. Les hausses les plus marquées sont en Nouvelle-Zélande, au Royaume Uni et aux Etats Unis, qui commencent à considérer ceci comme un problème [[5]](#ref-5). L'Irlande, la Belgique, le Luxembourg, le Danemark et la Suisse [[6]](#ref-6) ont maintenu le même niveau d'inégalités. Seuls la Grèce, l'Espagne et la France ont réussi à diminuer leur coefficient de Gini. Bravo !
 
@@ -56,7 +56,7 @@ Si vous ne comprenez pas l'anglais, regardez [une variante de la présentation 
 
 Les données de l'OCDE [[4]](#ref-4) permettent d'aborder une question soulevée dans les [commentaires de l'article "inégalités et croissance"](/2007/09/26/inegalites-et-croissance/) : l'effet des impôts. En effet le tableau contient les indices de Gini calculés d'après les revenus "avant" et "après" "impôts et transferts", ce qui permet de calculer de combien le système fiscal de chaque pays réduit les inégalités et de produire graphique dont je suis très fier, car je crois que c'est une première (merci de garder un lien vers cet article si vous le reprenez...):
 
-[![giniimpots](images/9a43b3d5a47065da3f1434daab87f55b.png "giniimpots")](images/9a43b3d5a47065da3f1434daab87f55b.png)Le classement horizontal est fait selon l'amplitude de la réduction de l'indice de Gini avant-après impôts. On voit que ce n'est pas (plus?) les pays du Nord qui aplanissent le plus les inégalités , mais plutôt le centre et l'est de l'Europe. La Suisse partage la queue du classement en compagnie des USA : leurs systèmes fiscaux ne réduisent que très peu les inégalités des revenus bruts. Mais à la décharge de mon beau pays, c'est celui où ces revenus bruts sont les moins inégaux...
+[![giniimpots](./images/9a43b3d5a47065da3f1434daab87f55b.png "giniimpots")](./images/9a43b3d5a47065da3f1434daab87f55b.png)Le classement horizontal est fait selon l'amplitude de la réduction de l'indice de Gini avant-après impôts. On voit que ce n'est pas (plus?) les pays du Nord qui aplanissent le plus les inégalités , mais plutôt le centre et l'est de l'Europe. La Suisse partage la queue du classement en compagnie des USA : leurs systèmes fiscaux ne réduisent que très peu les inégalités des revenus bruts. Mais à la décharge de mon beau pays, c'est celui où ces revenus bruts sont les moins inégaux...
 
 ### Références
 

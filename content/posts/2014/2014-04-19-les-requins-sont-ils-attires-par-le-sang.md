@@ -8,7 +8,7 @@ tags:
   - "biologie"
   - "chimie"
   - "oceans"
-coverImage: "4ba026f75f693b56904b28c5c4899daf.jpg"
+coverImage: "./images/4ba026f75f693b56904b28c5c4899daf.jpg"
 ---
 
 Dans le [quiz sur les poissons](/2014/03/31/poisson-davril-ou-pas/) (d'avril ou pas), une majorité des participants a répondu "vrai" à la question 6: "Les requins sont attirés par une goutte de sang humain à des kilomètres". Or la réponse, ou plutôt ma réponse puisque c'est moi qui ai proposé cette question, était "Poisson d’Avril : les requins détectent bien le sang de poisson, mais très mal le sang humain. Voici [une video](http://www.youtube.com/watch?v=gU9CQT-snIo) extraite de l’émission des [MythBusters](w:) qui le prouve."
@@ -27,7 +27,7 @@ Des mesures effectuées récemment par electro-olfactogramme sur des animaux vi
 
 On en arrive à un point important : les odeurs sont principalement transportées par les courants. La [diffusion](w:Diffusion_de_la_matière) dans l'eau est trop lente et il faudrait des quantités de sang trop importantes pour créer un gradient de concentration suffisant sur des centaines de mètres pour qu'un requin puisse remonter à la source. Il faut qu'un courant transporte le sang de la source aux "nares" du requin assez vite pour que le sang ne se dilue pas trop. Au pif, je dirais que si vous saignez assez dans un courant de 4 km/h pour qu'un requin vous sente à 1km (donc 15 minutes plus tard), vous allez probablement mourir d'hémorragie avant d'être croqué...
 
-[![](images/4ba026f75f693b56904b28c5c4899daf.jpg)](http://www.sharkwatchsa.com/)Jusqu'ici aucune expérience scientifique n'a vérifié ceci en pleine mer, mais j'ai trouvé un témoignage plein de bon sens sur le blog d'une entreprise sud-africaine qui propose de voir des [grands requins blancs](w:grand_requin_blanc) de près [[5]](#ref-5):
+[![](./images/4ba026f75f693b56904b28c5c4899daf.jpg)](http://www.sharkwatchsa.com/)Jusqu'ici aucune expérience scientifique n'a vérifié ceci en pleine mer, mais j'ai trouvé un témoignage plein de bon sens sur le blog d'une entreprise sud-africaine qui propose de voir des [grands requins blancs](w:grand_requin_blanc) de près [[5]](#ref-5):
 
 > Est il vrai que les Grands Blancs peuvent sentir une goutte de sang humain à 100 km? En tant qu'opérateurs de plongées en cages, nous aimerions que ce soit vrai! Si c'était le cas nous pourrions économiser beaucoup d'argent en n'achetant plus d'appâts ("chum"?) mais ce n'est simplement pas vrai. Nous appâtons les requins blancs avec de l'huile de poisson très concentrée. Même avec cette puissante mixture, si la tache d'huile ne va pas dans la bonne direction, celle où les requins se regroupent, vous ne verrez aucun requin.
 > 

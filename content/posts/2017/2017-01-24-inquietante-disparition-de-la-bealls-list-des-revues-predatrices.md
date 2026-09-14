@@ -7,10 +7,10 @@ categories:
 tags: 
   - "pseudo"
   - "science"
-coverImage: "bealls-list-logo.jpg"
+coverImage: "./images/bealls-list-logo.jpg"
 ---
 
-{{< figure src="images/bealls-list-logo.jpg" >}}
+{{< figure src="./images/bealls-list-logo.jpg" >}}
 
 Quelque chose d'inquiétant vient de se produire dans le monde de la publication scientifique : la "Beall's List" a été vidée par son auteur, sans explications.
 

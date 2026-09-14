@@ -6,10 +6,10 @@ categories:
   - "Comment"
 tags: 
   - "pseudo"
-coverImage: "101b8e4b7040562c412012d9f47fd8f4-1.jpg"
+coverImage: "./images/101b8e4b7040562c412012d9f47fd8f4-1.jpg"
 ---
 
-{{< figure src="images/101b8e4b7040562c412012d9f47fd8f4.jpg" alt="Grates and Rails par Your Guide" caption="Grates and Rails par Your Guide" link="http://www.flickr.com/photos/gaspi/6281982/" align="alignleft" width="194" >}}
+{{< figure src="./images/101b8e4b7040562c412012d9f47fd8f4.jpg" alt="Grates and Rails par Your Guide" caption="Grates and Rails par Your Guide" link="http://www.flickr.com/photos/gaspi/6281982/" align="alignleft" width="194" >}}
 
 Comment a été défini l'écartement des rails de chemin de fer ?
 

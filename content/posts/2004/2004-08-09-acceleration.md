@@ -8,10 +8,10 @@ tags:
   - "fiction"
   - "relativite"
   - "science"
-coverImage: "d2b44e244e51e5c087d124bfeb9e4ce3-1.jpg"
+coverImage: "./images/d2b44e244e51e5c087d124bfeb9e4ce3-1.jpg"
 ---
 
-{{< figure src="images/d2b44e244e51e5c087d124bfeb9e4ce3.jpg" alt="intersellar" link="https://goulu.wordpress.com/wp-content/uploads/2009/06/intersellar.jpg" >}}
+{{< figure src="./images/d2b44e244e51e5c087d124bfeb9e4ce3.jpg" alt="intersellar" link="./images/intersellar.jpg" >}}
 
 Ce petit texte est basé sur un calcul (faux\*) fait [sur un tableur](https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fspreadsheets.google.com%2Fccc%3Fkey%3Drc4P1ifhL9e6cFJec1T6m5g%26hl%3Den%26pref%3D2&followup=https%3A%2F%2Fspreadsheets.google.com%2Fccc%3Fkey%3Drc4P1ifhL9e6cFJec1T6m5g%26hl%3Den%26pref%3D2&hl=en) : un vaisseau spatial accélère à 1G (9.81 m/s^2) de manière à créer une gravité artificielle. La vitesse augmente ainsi de manière constante jusqu’à approcher de très près la vitesse de la lumière. Arrivé à mi-parcours, le vaisseau se retourne et freine à 1G jusqu’à destination.
 

@@ -12,13 +12,13 @@ tags:
   - "maths"
   - "proce55ing"
   - "tsp"
-coverImage: "10c3a606506bb2299f7b51b61b0ea16f.jpg"
+coverImage: "./images/10c3a606506bb2299f7b51b61b0ea16f.jpg"
 
 aliases:
   - "/2010/06/13/optimisation-de-la-joconde/"
 ---
 
-{{< figure src="images/10c3a606506bb2299f7b51b61b0ea16f.jpg" >}}
+{{< figure src="./images/10c3a606506bb2299f7b51b61b0ea16f.jpg" >}}
 
 Voici enfin l'occasion de consacrer un article marrant au célèbre mais barbant "[problème du voyageur de commerce](w:)". J'ai réalisé une applet en processing qui dessine Mona Lisa avec une seule ligne brisée zig-zaguant entre 100'000 points sans jamais s'entrecouper. De plus la ligne n'a ni début ni fin, elle forme un cycle. Autrement dit, on peut dessiner la Joconde comme un cercle déformé, sans lever le crayon... Voici ce que ça donne : c'est publié aussi :
 

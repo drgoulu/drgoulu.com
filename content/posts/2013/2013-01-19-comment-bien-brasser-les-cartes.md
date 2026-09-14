@@ -9,7 +9,7 @@ tags:
   - "informatique"
   - "tri"
   - "visualisation"
-coverImage: "fdd88ca55a8f211b9fc8f978d988744c.jpg"
+coverImage: "./images/fdd88ca55a8f211b9fc8f978d988744c.jpg"
 ---
 
 Les amateurs de jeux de cartes savent qu'il faut accorder beaucoup d'attention au brassage des cartes pour éviter la triche, mais qu'en est-il par exemple dans les jeux de poker en ligne ?
@@ -22,7 +22,7 @@ _(Si vous avez un vrai browser, [voyez cette animation de l'algo](http://jsfidd
 
 Et pourtant, un tel brassage s'avère "biaisé" : toutes les [permutations](w:) possibles n'ont pas la même probabilité d'être produites. Déjà en ne brassant que N=3 cartes par cette méthode, 3 des 6 permutations possibles sont nettement moins probables que les 3 autres  [[3]](#ref-3).
 
-{{< figure src="images/fdd88ca55a8f211b9fc8f978d988744c.jpg" alt="biais naïve swap (i ↦ random)" caption="biais naïve swap (i ↦ random)" link="http://bost.ocks.org/mike/shuffle/compare.html" width="240" >}}
+{{< figure src="./images/fdd88ca55a8f211b9fc8f978d988744c.jpg" alt="biais naïve swap (i ↦ random)" caption="biais naïve swap (i ↦ random)" link="http://bost.ocks.org/mike/shuffle/compare.html" width="240" >}}
 
 Avec N=60 cartes, ce biais est bien visible sur la figure ci-contre, produite par une autre [application D3.js](http://bost.ocks.org/mike/shuffle/compare.html)  en ligne [[2]](#ref-2). Elle effectue 10'000 mélanges avec le même algo, compte dans une matrice le nombre de fois ou la i-ième carte se retrouve à la j-ième position après le brassage, et représente les [biais](w:Biais_(statistique)) positifs en vert et les négatifs en rouge.
 
@@ -38,7 +38,7 @@ array.sort(function() {return Math.random() - .5});
 }
 {{< /highlight >}}
 
-{{< figure src="images/4515a7fe42f5229307c0f50570d991ca.jpg" alt="biais sort (random comparator)" caption="biais sort (random comparator)" link="http://bost.ocks.org/mike/shuffle/compare.html" width="240" >}}
+{{< figure src="./images/4515a7fe42f5229307c0f50570d991ca.jpg" alt="biais sort (random comparator)" caption="biais sort (random comparator)" link="http://bost.ocks.org/mike/shuffle/compare.html" width="240" >}}
 
 random() renvoie un nombre aléatoire entre 0 et 1, donc Math.random() - .5 tire à pile ou face si une carte est "plus grande" que l'autre lors du tri, ce qui est supposé mélanger au lieu de trier.
 

@@ -9,12 +9,12 @@ tags:
   - "hubble"
   - "physique"
   - "trou-noir"
-coverImage: "a3b000cdd0d32acd5d60c92136e6cf45.png"
+coverImage: "./images/a3b000cdd0d32acd5d60c92136e6cf45.png"
 ---
 
 NGC 1275 est la galaxie spirale bleue que vous distinguez au centre de cette photo prise par le télescope spatial Hubble. Les filaments rouges mesurent chacun dans les 20'000 années-lumières de long et 200 de diamètre, et contiennent chacun environ 1 million de masses solaires de gaz tellement chaud (des millions de degrés) qu'il émet des rayons X.
 
-[![](images/a3b000cdd0d32acd5d60c92136e6cf45.png)](http://imgsrc.hubblesite.org/hu/db/2008/28/images/a/formats/print.jpg "NGC 1275 (cliquez sur l'image pour l'agrandir)")
+[![](./images/a3b000cdd0d32acd5d60c92136e6cf45.png)](http://imgsrc.hubblesite.org/hu/db/2008/28/images/a/formats/print.jpg "NGC 1275 (cliquez sur l'image pour l'agrandir)")
 
 La grande question était de savoir ce qui émet ces jets, les chauffe et maintient dans ces formes tentaculaires qui les empêche de retomber sur la galaxie.
 

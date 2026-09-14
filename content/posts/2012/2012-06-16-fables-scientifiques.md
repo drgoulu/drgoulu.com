@@ -9,7 +9,7 @@ tags:
   - "livres"
   - "pseudo"
   - "science"
-coverImage: "c085d61e1cd5569a71dd156a56be6dcd.jpg"
+coverImage: "./images/c085d61e1cd5569a71dd156a56be6dcd.jpg"
 ---
 
 {{< openbook booknumber="ISBN:9782916207711" templatenumber="3" >}}Découvert par hasard hier, dévoré avec passion aujourd'hui et chaleureusement recommandé ici même instantanément :  {{< openbook booknumber="ISBN:9782916207711" templatenumber="5" >}}.
@@ -26,7 +26,7 @@ Cette "BD documentaire" regroupe 7 démystifications parues initialement sur [le
 
 Le dessin et la mise en page sont très sobres : 6 cases par page, une seule couleur et une seule bulle de texte par case. Parfois un graphique ou une photo décolorée remplace le dessin comme sur cette planche d'exemple:
 
-![](images/c085d61e1cd5569a71dd156a56be6dcd.jpg)
+![](./images/c085d61e1cd5569a71dd156a56be6dcd.jpg)
 
 En fait, le dessin ne sert que de support au texte, le rendant peut-être plus lisible pour les lecteurs réfractaires à la prose scientifique, fut-elle vulgarisée. Et c'est bien l'objectif de ce livre, que l'on peut prêter à sa tante Juliette adepte d'homéopathie, ou au petit voisin qui ne croit pas que j'aie vu des hommes gambader sur la Lune pour de vrai. La première de couverture contient même la docte sentence à prononcer dans ces cas là:
 

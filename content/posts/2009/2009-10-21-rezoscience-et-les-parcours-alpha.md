@@ -7,7 +7,7 @@ categories:
 tags: 
   - "science"
   - "suisse"
-coverImage: "e29b96cbdbc79b4af73b60853530d3c6.jpg"
+coverImage: "./images/e29b96cbdbc79b4af73b60853530d3c6.jpg"
 ---
 
 En ballade dominicale au [Signal de Bougy](http://www.signaldebougy.ch/) (un parc surplombant le Lac Léman, entre Genève et Lausanne), je suis tombé sur une excellente initiative : le "Parcours Alph@" de "[Rezoscience](http://www.rezoscience.ch/rp/index.html)".
@@ -18,9 +18,9 @@ Les "[Parcours Alph@](http://www.rezoscience.ch/rp/parcours-alpha.html)" sont un
 
 Mon poster préféré est celui là :
 
-[![](images/e29b96cbdbc79b4af73b60853530d3c6.jpg)](http://www.rezoscience.ch/rp/parcours-alpha/matieres/p02.html)La [réponse est vraiment étonnante..](http://www.rezoscience.ch/rp/parcours-alpha/matieres/p02/complem.html). Un autre panneau nous a retenu assez longtemps:
+[![](./images/e29b96cbdbc79b4af73b60853530d3c6.jpg)](http://www.rezoscience.ch/rp/parcours-alpha/matieres/p02.html)La [réponse est vraiment étonnante..](http://www.rezoscience.ch/rp/parcours-alpha/matieres/p02/complem.html). Un autre panneau nous a retenu assez longtemps:
 
-[![](images/b09634eb97e1f64bb5b19fa9be4ac7a2.jpg)](http://www.rezoscience.ch/rp/parcours-alpha/matieres/p13.html)On voit bien des choses étonnantes sur cette photo, mais à mon humble avis certaines [explications de la solution](http://www.rezoscience.ch/rp/parcours-alpha/matieres/p13/reponse.html) sont discutables:
+[![](./images/b09634eb97e1f64bb5b19fa9be4ac7a2.jpg)](http://www.rezoscience.ch/rp/parcours-alpha/matieres/p13.html)On voit bien des choses étonnantes sur cette photo, mais à mon humble avis certaines [explications de la solution](http://www.rezoscience.ch/rp/parcours-alpha/matieres/p13/reponse.html) sont discutables:
 
 - Le drapeau ne [flotte pas plus au vent](http://www.rue89.com/2009/07/20/pourquoi-le-drapeau-dapollo-flottait-il-sans-vent-sur-la-lune) que sur la photo originale de la mission Apollo. On voit bien la tige, ce n'est donc pas une erreur.
 - Pour le réveil, ok on ne peut pas l'entendre sonner dans le vide, mais on peut aussi arguer qu'il n'y a pas d'heure sur la Lune puisqu'elle ne tourne pas sur elle-même...
@@ -28,7 +28,7 @@ Mon poster préféré est celui là :
 
 On trouve aussi un peu d'auto-dérision science-fictionesque grâce à cette magnifique contribution de la [Maison d'Ailleurs](http://www.ailleurs.ch/) d'Yverdon:
 
-![](images/775ea6bcaead4c0c5a72e9355ff22da4.jpg)
+![](./images/775ea6bcaead4c0c5a72e9355ff22da4.jpg)
 
 J'avoue avoir voté en désespoir de cause pour "Des yeux de phocapotame" alors qu'il s'agissait de "deux globes de verre surmontant [un engin volant électrique](http://www.rezoscience.ch/rp/parcours-alpha/matieres/p04/reponse.html)", plus [visible ici](http://blogs.princeton.edu/rarebooks/phil.JPG) et dont le principe de fonctionnement me parait décidément très nébuleux...
 

@@ -8,12 +8,12 @@ tags:
   - "internet"
   - "photo"
   - "securite"
-coverImage: "5f191d5b335e83fb624df1763b405414.jpg"
+coverImage: "./images/5f191d5b335e83fb624df1763b405414.jpg"
 ---
 
 Internet, c'est tellement facile : on voit une image qui nous plait pour illustrer un article, hop, on copie le lien vers l'image dans son propre blog :
 
-{{< figure src="images/8d051439297695af67728cb76d11a944.jpg" alt="avions2 par Daprilli" caption="avions2 par Daprilli" link="http://www.d-aprilli.net//www.d-aprilli.net/GalerieAvions/index.html" width="614" >}}
+{{< figure src="./images/8d051439297695af67728cb76d11a944.jpg" alt="avions2 par Daprilli" caption="avions2 par Daprilli" link="http://www.d-aprilli.net//www.d-aprilli.net/GalerieAvions/index.html" width="614" >}}
 
 Et voilà. L'auteur de cette magnifique photo, que je salue au passage, pourrait légitimement prétendre que je lui ai volé cette photo sans autorisation, à quoi je pourrais lui répondre que non ( si j'étais de mauvaise foi ) puisqu'elle est toujours sur son serveur  : je ne l'ai pas copiée, j'ai juste mis <img src="http://www.d-aprilli.net/www.d-aprilli.net/GalerieAvions/content/images/large/dAprilli\_Avion002.jpg"> dans le texte HTML de cet article...
 
@@ -27,7 +27,7 @@ Quand c'est à petite échelle comme ça c'est tolérable, mais pour un site [c
 
 ### Comment empêcher le hotlinking
 
-![](images/6027a4548308db94d64a59a91d7a4d52.gif)La méthode la plus simple pour l'empêcher est de modifier le [fichier .htaccess](w:Htaccess) pour qu'il renvoie aux serveurs extérieurs une autre image que celle demandée, par exemple celle ci-contre ou une pire. Cette image apparaîtra subitement à la place de l'image originale sur tous les sites ayant fait des hotlinks...
+![](./images/6027a4548308db94d64a59a91d7a4d52.gif)La méthode la plus simple pour l'empêcher est de modifier le [fichier .htaccess](w:Htaccess) pour qu'il renvoie aux serveurs extérieurs une autre image que celle demandée, par exemple celle ci-contre ou une pire. Cette image apparaîtra subitement à la place de l'image originale sur tous les sites ayant fait des hotlinks...
 
 MAIS il faut bien faire attention à Google, qui indexe les images de votre site et qui, ne voyant que votre image anti-hotlink, risque de se dire que si toutes vos images sont les mêmes, votre site est sans intérêt et baisser votre pagerank.
 
@@ -45,7 +45,7 @@ L'astuce de base pour les photos, c'est de publier une version "watermarkée" et
 
 En faisant des copies de ces images, le lien avec le site d'origine est rompu. Si les rédacteurs n'ont pas la courtoisie d'indiquer la source de l'image avec un lien vers la page d'origine comme je l'ai fait pour la photo de D'aprilli, les visiteurs n'ont quasi aucun moyen de retrouver le photographe pour le féliciter.
 
-![](images/2f204297ed68aefb568e162f8ad9278f.jpg)Les seuls moyens que je connaisse sont [TinEye](http://www.tineye.com/) et Google Images (encore), mais il faut [lire le mode d'emploi](http://www.google.com/insidesearch/features/images/searchbyimage.html). Ces étonnants services de "recherche inversée" d'images renvoient renvoie une liste de documents web où une image figure, même déformée, recadrée, recolorée ou passablement altérée. Je les utilise parfois pour retrouver l'original d'une image de mauvaise qualité sur le web, ou qui a piqué mes images...
+![](./images/2f204297ed68aefb568e162f8ad9278f.jpg)Les seuls moyens que je connaisse sont [TinEye](http://www.tineye.com/) et Google Images (encore), mais il faut [lire le mode d'emploi](http://www.google.com/insidesearch/features/images/searchbyimage.html). Ces étonnants services de "recherche inversée" d'images renvoient renvoie une liste de documents web où une image figure, même déformée, recadrée, recolorée ou passablement altérée. Je les utilise parfois pour retrouver l'original d'une image de mauvaise qualité sur le web, ou qui a piqué mes images...
 
 D'après ma maigre expérience, Google trouve plus d'images car il indexe plus de sites, mais TinEye retrouve des images plus fortement modifiées.
 
@@ -63,7 +63,7 @@ Depuis le 25 janvier 2013, Google copie même les images en pleine résolution q
 
 Il y a des sites commerciaux de photos et de fonds d'écrans qui râlent sec, et il y a de quoi quand on voit par exemple la chute du trafic enregistrée chez [pixabay.com](http://pixabay.com/) à ce moment :
 
-{{< figure src="images/c13586da587b889ab33fbafb03b381a9.png" alt="trafic chez pixabay.com au moment du changement chez Google..." caption="trafic chez pixabay.com au moment du changement chez Google..." link="http://pixabay.com/" align="aligncenter" width="640" >}}
+{{< figure src="./images/c13586da587b889ab33fbafb03b381a9.png" alt="trafic chez pixabay.com au moment du changement chez Google..." caption="trafic chez pixabay.com au moment du changement chez Google..." link="http://pixabay.com/" align="aligncenter" width="640" >}}
 
 Le choix est cornélien : comment bénéficier du service d'indexation des images de Google tout en conservant es droits auquel tout créateur a droit ?
 

@@ -9,7 +9,7 @@ tags:
   - "foils"
   - "sport"
   - "voile"
-coverImage: "course-au-large-imoca-safran-morgan-lagraviere-transat-jacques-vabre-2015-jean-marie-liot-616-752x490.jpg"
+coverImage: "./images/course-au-large-imoca-safran-morgan-lagraviere-transat-jacques-vabre-2015-jean-marie-liot-616-752x490.jpg"
 ---
 
 Le départ du 8ème [Vendée Globe](w:) a été donné le 8 novembre. Pour ce tour du monde à la voile en solitaire, sans escale ni assistance qui se court tous les 4 ans, 29 marins s'affrontent sur des monocoques de [60 pieds IMOCA](w:). Et pour la première fois, 7 bateaux sont équipés de foils:

@@ -7,7 +7,7 @@ categories:
 tags: 
   - "helicoptere"
   - "sport"
-coverImage: "aerovelo-sikorsky-prize-1.png"
+coverImage: "./images/aerovelo-sikorsky-prize-1.png"
 ---
 
 Le team [AeroVelo](http://www.aerovelo.com/) de l'université de Toronto vient de [remporter le prix AHS Sikorsky](http://vtol.org/hph) de $250'000 lancé en 1980 pour récompenser le premier hélicoptère à propulsion humaine.
@@ -22,7 +22,7 @@ Accessoirement, il faut aussi un moteur humain exceptionnel. Le pilote Todd Rei
 
 Ce fantastique exploit comble un peu notre léger retard sur ce qui était prévu en 1900 pour l'an 2000 (mais [on a eu 140 caractères](http://www.foundersfund.com/the-future) à la place...)
 
-![](images/48d1dcb3b3d5bb052e1748a316f71e51.jpg)
+![](./images/48d1dcb3b3d5bb052e1748a316f71e51.jpg)
 
 ### Référence:
 

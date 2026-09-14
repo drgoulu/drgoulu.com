@@ -6,7 +6,7 @@ tags:
 - philosophie
 - science
 draft: true
-coverImage: "citation-milan-kundera-54512.png"
+coverImage: "./images/citation-milan-kundera-54512.png"
 ---
 Je me fais parfois traiter de d' "esprit cartésien", quand ce n'est pas de "cartésien borné", incapable de saisir qu'il existe autre chose que le monde bassement matériel qui nous entoure. Pourtant le [cartésianisme](w:) est défini comme une philosophie [rationaliste](w:) et [métaphysique](w:) :
 
@@ -15,7 +15,7 @@ Je me fais parfois traiter de d' "esprit cartésien", quand ce n'est pas de "car
 
 Donc le Cartésien n'est justement pas [matérialiste](w:) ! Il croit que sa raison permet d'accéder à la vraie nature des choses, indépendante de ce que nos sens nous en révèlent. Et donc implicitement que sa [raison](w:) a une nature spirituelle, transcendante, ou du moins métaphysique elle aussi.
 
-## ![](images/citation-milan-kundera-54512.png)"Je pense donc je suis."
+## ![](./images/citation-milan-kundera-54512.png)"Je pense donc je suis."
 
 > Ce principe de la philosophie cartésienne, je pense, donc je suis, est ce que les adversaires du cartésianisme ont attaqué avec le plus de persévérance; et cela se conçoit, car ce principe admis, l'autorité de la conscience et de la raison s'ensuit nécessairement. [[2]](#ref-2)
 

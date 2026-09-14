@@ -7,10 +7,10 @@ categories:
 tags: 
   - "humour"
   - "ignobel"
-coverImage: "fe16246d22c0ee716c4bcf342a4b4860.jpg"
+coverImage: "./images/fe16246d22c0ee716c4bcf342a4b4860.jpg"
 ---
 
-{{< figure src="images/fe16246d22c0ee716c4bcf342a4b4860.jpg" >}}
+{{< figure src="./images/fe16246d22c0ee716c4bcf342a4b4860.jpg" >}}
 
 Les [prix igNobel](http://www.ignobel.com/) récompensant les recherches scientifiques les plus abracadabrantesques ont été décernées. Dans la [liste des lauréats 2007](w:Prix_Ig_Nobel#Prix_d.C3.A9cern.C3.A9s_en_2007) on trouve en particulier:
 

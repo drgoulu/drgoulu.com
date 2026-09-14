@@ -8,10 +8,10 @@ tags:
   - "cryptographie"
   - "internet"
   - "securite"
-coverImage: "asymmetric_key_encryption.jpg"
+coverImage: "./images/asymmetric_key_encryption.jpg"
 ---
 
-{{< figure src="images/asymmetric_key_encryption.jpg" >}}
+{{< figure src="./images/asymmetric_key_encryption.jpg" >}}
 
 A la fin de mon [article sur HTTPS](/2017/01/11/drgoulu-com-passe-en-https/), j'ai promis d'expliquer pourquoi il ne faut pas trop se fier au petit cadenas vert que vous voyez de plus en plus souvent en haut de votre navigateur favori.  Mais pour éviter un article trop long, je dois d'abord expliquer comment Alice et Bob s'échangent des messages sécurisés depuis 1977.
 
@@ -23,7 +23,7 @@ Pourtant, [comme nous l'avions vu](/2013/03/09/alice-bob-coffre-xor/) dans un �
 
 ### Les géniales clés de Ronald, Adi et Leonard
 
-![](images/rsa.jpg)Puis, en 1977, [Ronald Rivest](w:), [Adi Shamir](w:) et [Leonard Adleman](w:) ont inventé quelque chose d'incroyable : le [chiffrement RSA](w:). Avec leur méthode, la clé permettant le déchiffrement\* d'un message n'est pas la même que la clé qui permet de le chiffrer : les [clés sont "asymétriques"](w:cryptographie_asymétrique). En voici le principe simplifié (pour les détails, voir le T-shirt ci-contre, ou le brevet [[1]](#ref-1)) :
+![](./images/rsa.jpg)Puis, en 1977, [Ronald Rivest](w:), [Adi Shamir](w:) et [Leonard Adleman](w:) ont inventé quelque chose d'incroyable : le [chiffrement RSA](w:). Avec leur méthode, la clé permettant le déchiffrement\* d'un message n'est pas la même que la clé qui permet de le chiffrer : les [clés sont "asymétriques"](w:cryptographie_asymétrique). En voici le principe simplifié (pour les détails, voir le T-shirt ci-contre, ou le brevet [[1]](#ref-1)) :
 
 1. Bob choisit 2 nombres premiers P et Q assez grands, disons d'environ 150 chiffres. C'est très facile, comme [je l'avais expliqué ici](/2012/04/15/comment-produire-des-nombres-premiers/). Ces deux nombres permettent à Bob de calculer sa "clé privée" D, qu'il garde jalousement pour lui.
 2. Il calcule le produit des deux nombres N=P.Q, ainsi qu'un nombre E qui forment sa "clé publique", qu'il transmet sans crainte à Alice. En effet, si Trudy intercepte cette clé publique, ce n'est pas grave, car elle ne disposera pas avant [quelques décennies](/2011/05/19/et-un-ordinateur-quantique-un/) d'un ordinateur assez puissant pour factoriser N et retrouver les nombres P,Q et de là le D nécessaire au déchiffrement.

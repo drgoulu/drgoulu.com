@@ -10,7 +10,7 @@ tags:
 - politique
 - suisse
 draft: true
-coverImage: "3b859275c96f23b5c494c801b065e63e.png"
+coverImage: "./images/3b859275c96f23b5c494c801b065e63e.png"
 ---
 Le 3 mars, les suisses voteront sur l'[initiative populaire](view-source:/2009/12/13/initiatives-populaires/) lancée par M. Minder "[contre les rémunérations abusives](http://www.remunerationsabusives.ch/)". C'est l'occasion de poursuivre la [série d'articles sur les inégalités](/tags/inegalites/) en examinant particulièrement le cas suisse. Rappel des épisodes précédents:
 
@@ -24,7 +24,7 @@ Le 3 mars, les suisses voteront sur l'[initiative populaire](view-source:/2009/1
 
 Voyons maintenant si l'initiative Minder adresse un problème réel. L'[Office Fédéral de la Statistique](http://www.bfs.admin.ch/) m'a aimablement et rapidement\* fourni les 6 [courbes de Lorenz](w:Courbe_de_Lorenz) des 10 dernières années [[2]](#ref-2), mais hélas pas les données correspondantes, trop volumineuses. Effectivement, les revenus de tous les ménages suisses pourraient mettre à genoux mon propre [calculateur d'inégalités](https://www.box.com/shared/njhn3h3out), mais ici je m'intéresse essentiellement aux variations de la courbe de Lorenz, dont j'ai extrait les valeurs numériques des graphiques avec [un peu de Python](http://stackoverflow.com/questions/14154233/image-analysis-curve-fitting)\*\*.
 
-{{< figure src="images/3b859275c96f23b5c494c801b065e63e.png" alt="Une courbe de Lorenz suisse (en bleu) : l'axe Y donne la proportion du revenu touché par la fraction de la population (axe X) correspondante. La droite noire correspond à une société parfaitement égalitaire." caption="Une courbe de Lorenz suisse (en bleu) : l'axe Y donne la proportion du revenu touché par la fraction de la population (axe X) correspondante. La droite noire correspond à une société parfaitement égalitaire." link="/wp-content/uploads/HLIC/3b859275c96f23b5c494c801b065e63e.png" align="aligncenter" width="619" >}}
+{{< figure src="./images/3b859275c96f23b5c494c801b065e63e.png" alt="Une courbe de Lorenz suisse (en bleu) : l'axe Y donne la proportion du revenu touché par la fraction de la population (axe X) correspondante. La droite noire correspond à une société parfaitement égalitaire." caption="Une courbe de Lorenz suisse (en bleu) : l'axe Y donne la proportion du revenu touché par la fraction de la population (axe X) correspondante. La droite noire correspond à une société parfaitement égalitaire." link="./images/3b859275c96f23b5c494c801b065e63e.png" align="aligncenter" width="619" >}}
 
 ### Notes:
 

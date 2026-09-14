@@ -9,7 +9,7 @@ tags:
   - "informatique"
   - "optique"
   - "photo"
-coverImage: "bb12ceb0a242ba8e2fd27cdd35c546e2.png"
+coverImage: "./images/bb12ceb0a242ba8e2fd27cdd35c546e2.png"
 
 aliases:
   - "/2010/10/06/adieu-focale/"
@@ -21,14 +21,14 @@ youtube {{< youtube id="9H7yx31yslM" width="640" >}}
 
 L'entreprise "Refocus Imaging" a mis au point une technologie qui permet de ne plus mettre au point\* les photos! Concrètement, on peut rendre nette une photo floue, en réglant la focale après que la photo ait été prise, comme dans "les Experts" ... [Essayez vous-mêmes !](http://www.refocusimaging.com/about/index.html)
 
-![](images/bb12ceb0a242ba8e2fd27cdd35c546e2.png "plenoptic")A un détail près : le logiciel ne suffit pas, il faut un [appareil photographique plénoptique](w:), équipé d'une matrice de micro-lentilles avant le capteur CCD. L'optique fonctionne comme illustré ci-contre:
+![](./images/bb12ceb0a242ba8e2fd27cdd35c546e2.png "plenoptic")A un détail près : le logiciel ne suffit pas, il faut un [appareil photographique plénoptique](w:), équipé d'une matrice de micro-lentilles avant le capteur CCD. L'optique fonctionne comme illustré ci-contre:
 
 1. tous les rayons arrivant sur un pixel donné passent par une seule micro-lentille, et proviennent d'une zone donnée appelée "sous-ouverture" de la lentille principale
 2. tous les rayons passant par une "sous ouverture" sont focalisés par les différentes micro-lentilles sur des pixels distincts.
 
 L'image ainsi capturée ressemble à une mosaïque de petites images partielles prises de points légèrement différents (en réalité, il y a plus de micro-lentilles : l'équipe de Stanford qui a mis au point la technologie de "Refocus Imaging" utilise une matrice de 296 x 296 micro-lentilles [[1]](#ref-1) ) :
 
-![](images/7e76f3e58ed8a20fbfe639967f4af18e.png)
+![](./images/7e76f3e58ed8a20fbfe639967f4af18e.png)
 
 Le principe d'un appareil plénoptique est similaire à celui d'un [appareil stéréoscopique](w:) produisant des "images 3D" ou du "[bullet time](w:)" célèbre depuis Matrix : en prenant plusieurs images simultanément, on capture le "[champ de lumière](w:en:light_field)" en 4D. Quatre dimensions parce qu'on reconstitue non seulement le point d'arrivée (x,y) des rayons sur l'image, mais aussi leur direction  (définie par deux angles).
 

@@ -7,12 +7,12 @@ categories:
 tags: 
   - "chimie"
   - "physique"
-coverImage: "Capture.png"
+coverImage: "./images/Capture.png"
 ---
 
 Tombé sur ce très joli tableau périodique des éléments où figure une utilisation typique de chaque élément :
 
-{{< figure src="images/fun_tableau_mendeleiev.jpg" alt="(Cliquer pour la version interactive, plus lisible sur petit écran)" caption="(Cliquer pour la version interactive, plus lisible sur petit écran)" link="http://elements.wlonk.com/ElementsTable.htm" align="aligncenter" width="1292" >}}
+{{< figure src="./images/fun_tableau_mendeleiev.jpg" alt="(Cliquer pour la version interactive, plus lisible sur petit écran)" caption="(Cliquer pour la version interactive, plus lisible sur petit écran)" link="http://elements.wlonk.com/ElementsTable.htm" align="aligncenter" width="1292" >}}
 
 C'est une oeuvre de Keith Enevoldse\*, qui a aussi constitué une [liste d'applications plus complète](http://elements.wlonk.com/ElementUses.htm) tirée principalement de deux livres [[1]](#ref-1), [[2]](#ref-2). Et parmi elles il y en a beaucoup que je ne connaissais pas, y compris pour des éléments relativement courants.
 

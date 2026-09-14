@@ -8,7 +8,7 @@ tags:
   - "economie"
   - "energie"
   - "transports"
-coverImage: "a2adec89b6875ca564097ad77693a325-1.jpg"
+coverImage: "./images/a2adec89b6875ca564097ad77693a325-1.jpg"
 ---
 
 Pierre est un doux rêveur. Il m'a transmis un appel au boycott des compagnies Shell et Exxon dans l'espoir de faire baisser le prix de l'essence.
@@ -25,7 +25,7 @@ Quelques infos et idées en vrac pour commencer :
 A part celà j'en reviens à deux notions plus fondamentales:
 
 1. l**'essence est extraordinairement bon marché !** Comme je l'ai montré dans "[on brulera tout !](/2004/06/29/on-brulera-tout/)", l'énergie contenue dans un litre d'essence sera au même prix que celui de l'électricité quand l'essence (taxée) coutera Frs 3.- (= €1.70). Si on ne tient pas compte des taxes, le prix de l'essence (80 cts) peut **quadrupler** avant de couter aussi cher que l'électricité (ou que l'[hydrogène](/2004/06/29/on-brulera-tout/), en passant)
-2. ![](images/a2adec89b6875ca564097ad77693a325.jpg)Pour savoir ce qui nous attend, il faut absolument connaitre la notion de "**[pic pétrolier](w:)**". C'est un peu technique, mais indispensable de bien comprendre :
+2. ![](./images/a2adec89b6875ca564097ad77693a325.jpg)Pour savoir ce qui nous attend, il faut absolument connaitre la notion de "**[pic pétrolier](w:)**". C'est un peu technique, mais indispensable de bien comprendre :
     1. la consommation de pétrole dans le monde s'accroit (Chine, Inde en veulent aussi)
     2. dans le temps on trouvait très facilement des gisements de pétrole. Maintenant on en trouve de nouveaux de moins en moins souvent
     3. le "pic pétrolier" (ou "[Peak Oil](w:en)") correspond à l'année ou on découvre moins de "nouveau" pétrole que l'augmentation de la demande. A partir de ce moment, on doit commencer à "taper dans les réserves" : ça s'appelle la "déplétion".

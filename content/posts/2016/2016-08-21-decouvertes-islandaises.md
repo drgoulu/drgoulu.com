@@ -8,14 +8,14 @@ tags:
   - "geologie"
   - "monde"
   - "volcans"
-coverImage: "Goscinny-Uderzo-Asterix-et-les-Normands-1.jpg"
+coverImage: "./images/Goscinny-Uderzo-Asterix-et-les-Normands-1.jpg"
 ---
 
 Cet été, toute la famille Goulu a eu la chance de visiter un pays extraordinaire : l'Islande. Chaque jour a été l'occasion de découvrir quelque chose d'intéressant, d'étonnant ou de magnifique. Souvent les trois à la fois.
 
 ### La baleine à bosse
 
-{{< figure src="images/2.jpg" alt="Baleine à bosse" caption="Baleine à bosse, Reykjavik. Photo Julia G." width="360" >}}
+{{< figure src="./images/2.jpg" alt="Baleine à bosse" caption="Baleine à bosse, Reykjavik. Photo Julia G." width="360" >}}
 
 La [baleine à bosse](w:) (humpback whale en anglais) nous a souhaité la bienvenue dès le premier jour en effectuant de spectaculaires sauts et en frappant l'eau de ses puissantes nageoires. Ou peut-être protestait-elle contre le massacre de ses congénères jusqu'en 1986 qui a failli causer leur extinction. Ou son soulagement que la population soit en augmentation depuis, passée de 20'000 à 35'000 en 30 ans.
 
@@ -39,7 +39,7 @@ Ceci explique que la production de Hákarl soit très confidentielle, limitée 
 
 ### Le rift
 
-{{< figure src="images/thingvellir_iceland_Heradsskolinn.jpg.jpg" alt="le parc national de Thingvellir" caption="le parc national de Thingvellir" link="http://www.thingvellir.is/english.aspx" width="360" >}}
+{{< figure src="./images/thingvellir_iceland_Heradsskolinn.jpg.jpg" alt="le parc national de Thingvellir" caption="le parc national de Thingvellir" link="http://www.thingvellir.is/english.aspx" width="360" >}}
 
 L'[Islande](w:) est une île située pile sur la [dorsale médio-atlantique](w:), là ou les plaques tectoniques nord-américaine et eurasienne s'écartent de 2 à 3 centimètres par an. Tout au long de la dorsale de nombreux volcans actifs comblent cet écartement en formant une imposante chaîne de montagnes partant du plancher océanique à environ -4000m dont les sommets sont souvent immergés, mais dépassent le niveau de l'océan de plus de 2000m en Islande, mais aussi aux [Açores](w:) par exemple.
 
@@ -47,11 +47,11 @@ Tout ça devient très concret en visitant le [rift](w:) de [Thingvellir](w:), o
 
 ### Les tunnels de lave
 
-{{< figure src="images/birth2.jpg" alt="Tunnel de lave en formation à Hawaï (image Volcano Video Productions)" caption="Tunnel de lave en formation à Hawaï (image Volcano Video Productions)" link="http://www.goodearthgraphics.com/virtual_tube/birth.html" align="alignleft" width="360" >}}
+{{< figure src="./images/birth2.jpg" alt="Tunnel de lave en formation à Hawaï (image Volcano Video Productions)" caption="Tunnel de lave en formation à Hawaï (image Volcano Video Productions)" link="http://www.goodearthgraphics.com/virtual_tube/birth.html" align="alignleft" width="360" >}}
 
 Dans certaines conditions, la lave sortant d'un volcan se solidifie au contact de l'air en formant un tube solide dans lequel elle peut s'écouler en restant très chaude, fluide. Quand le flux de lave se tarit, il laisse derrière lui un tube creux, un [tunnel de lave](w:) parfois tout petit, parfois de plusieurs mètres de diamètre et de centaines de mètres de long.
 
-{{< figure src="images/19961857070_321c5aef14_z_d.jpg" alt="Photo CC Felix Haller sur Flickr" caption="Stalagmites à Vatnshellir Photo Felix Haller sur Flickr (CC BY 2.0)" link="https://www.flickr.com/photos/113254492@N04/19961857070" width="360" >}}
+{{< figure src="./images/19961857070_321c5aef14_z_d.jpg" alt="Photo CC Felix Haller sur Flickr" caption="Stalagmites à Vatnshellir Photo Felix Haller sur Flickr (CC BY 2.0)" link="https://www.flickr.com/photos/113254492@N04/19961857070" width="360" >}}
 
 La grotte Vatnshellir est l'un des rares tunnels de lave  accessibles au public non spéléologue ([visite en video](https://www.youtube.com/watch?v=f79PS_5ERsA&))
 
@@ -61,7 +61,7 @@ La géologie de ces grottes étant très différente de celles des cavernes calc
 
 ### L'Askja
 
-{{< figure src="images/20.jpg" alt="Askja" caption="Lacs de cratère de l'Askja : Öskjuvatn au fond et Viti au premier plan. Photo Julia G." align="alignleft" width="360" >}}
+{{< figure src="./images/20.jpg" alt="Askja" caption="Lacs de cratère de l'Askja : Öskjuvatn au fond et Viti au premier plan. Photo Julia G." align="alignleft" width="360" >}}
 
 L'[Askja](w:) est le [volcan  No 37060](http://volcano.si.edu/volcano.cfm?vn=373060) du [Global Volcanism Program](w:) que je viens de découvrir et où on trouve des infos complètes sur tous les volcans du monde.
 
@@ -71,7 +71,7 @@ Deux lacs se sont alors formés, le plus grand dans la [caldeira](w:) laissée
 
 ### Les pseudo cratères
 
-{{< figure src="images/lake-myvatn-iceland_63607_990x742.jpg" alt="Pseudo-cratères du lac Myvatn, photo Jonas Bendiksen, National Geographic" caption="Pseudo-cratères du Mývatn, photo Jonas Bendiksen, National Geographic" link="http://travel.nationalgeographic.com/travel/365-photos/lake-mvatn-iceland/" width="360" >}}
+{{< figure src="./images/lake-myvatn-iceland_63607_990x742.jpg" alt="Pseudo-cratères du lac Myvatn, photo Jonas Bendiksen, National Geographic" caption="Pseudo-cratères du Mývatn, photo Jonas Bendiksen, National Geographic" link="http://travel.nationalgeographic.com/travel/365-photos/lake-mvatn-iceland/" width="360" >}}
 
 Avec tous ces volcans, pas étonnant que l'Islande soit truffée de cratères, mais dans la région du [Mývatn](w:)\*\* il y en a vraiment beaucoup. Trop au point d'en être louche. En fait ce sont des [pseudo-cratères](w:pseudo-cratère) formés par des explosions de vapeur lorsque de la lave a coulé sur le lac.
 
@@ -81,7 +81,7 @@ Vous vous souvenez certainement avoir essayé de [prononcer ce nom](https://uplo
 
 ### Le geyser
 
-{{< figure src="images/0.gif" alt="0" caption="Strokkur, par Julia G." width="320" >}}
+{{< figure src="./images/0.gif" alt="0" caption="Strokkur, par Julia G." width="320" >}}
 
 Un mot islandais plus facile à prononcer, c'est "[geyser](w:)". Il vient de "[Geysir](w:)", nom propre d'un geyser particulier situé dans le [champ géothermique](w:Champ_géothermique_de_Geysir) du même nom. L'activité de cette mère de tous les geysers a diminué depuis plusieurs années au point qu'il ne propulse un peu d'eau en l'air que très occasionnellement aujourd'hui.
 
@@ -95,7 +95,7 @@ Et le reste d'électricité et de chaleur permet de faire pousser des tomates h
 
 ### Les Vikings et l'Amérique
 
-{{< figure src="images/Goscinny-Uderzo-Asterix-et-les-Normands-1.jpg" alt="Goscinny avait raison : c" caption="Goscinny avait raison : c'étaient des Normands. En apprenant la peur, ils sont devenus des Vikings et ont exploré le monde." align="alignleft" width="320" >}}
+{{< figure src="./images/Goscinny-Uderzo-Asterix-et-les-Normands-1.jpg" alt="Goscinny avait raison : c" caption="Goscinny avait raison : c'étaient des Normands. En apprenant la peur, ils sont devenus des Vikings et ont exploré le monde." align="alignleft" width="320" >}}
 
 Historiquement, [Asterix a bien connu les Normands](https://fr.wikipedia.org/wiki/Astérix et_les_Normands), et [pas les Vikings](https://fr.wikipedia.org/wiki/Astérix et_les_vikings). Le terme [Viking](w:)  désigne un explorateur, commerçant, pillard mais aussi pirate scandinave entre les VIIIème et Xème siècle. Par extension, on emploie le terme en français pour désigner la civilisation scandinave à partir de la fin du IIème siècle après Astérix. Avant, les peuples de Scandinavie étaient bien appelés "Normands".
 

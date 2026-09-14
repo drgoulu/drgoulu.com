@@ -10,10 +10,10 @@ tags:
   - "suisse"
   - "usa"
   - "vote"
-coverImage: "bulletina.png"
+coverImage: "./images/bulletina.png"
 ---
 
-{{< figure src="images/b4da3f1e7ca12d8def9da7d3decb136e.png" >}}
+{{< figure src="./images/b4da3f1e7ca12d8def9da7d3decb136e.png" >}}
 
 C'est la période des élections en France et bientôt en Suisse, et l'année prochaine les Etatzuniens remplaceront ce cher Bush. (cher comme les déficits qu'il était censé réduire).
 

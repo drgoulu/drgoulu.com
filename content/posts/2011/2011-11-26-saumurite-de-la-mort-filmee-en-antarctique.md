@@ -8,7 +8,7 @@ tags:
   - "eau"
   - "monde"
   - "physique"
-coverImage: "f5e31d50298e7daa89df370158cca054.jpg"
+coverImage: "./images/f5e31d50298e7daa89df370158cca054.jpg"
 ---
 
 Après avoir vu ça, je me suis dit une fois de plus qu'on vit sur une planète aussi étrange que surprenante: {{< youtube id="WyWn1XJ9kTE" width="640" >}}
@@ -47,7 +47,7 @@ Les plongeurs spécialistes notèrent les températures afin de revenir sur zone
 
 ### Envers et contre tout
 
-{{< figure src="images/f5e31d50298e7daa89df370158cca054.jpg" alt="Hugh Miller filmant la saumurite avec tout son matériel (c) D. Anderson" caption="Hugh Miller filmant la saumurite avec tout son matériel (c) D. Anderson" align="aligncenter" width="624" >}}
+{{< figure src="./images/f5e31d50298e7daa89df370158cca054.jpg" alt="Hugh Miller filmant la saumurite avec tout son matériel (c) D. Anderson" caption="Hugh Miller filmant la saumurite avec tout son matériel (c) D. Anderson" align="aligncenter" width="624" >}}
 
 L'emplacement, sous la glace aux large des contreforts du volcan Mont Erebus, dans de l'eau à -2°C, n'était pas facile d'accès...
 

@@ -7,8 +7,8 @@ categories:
 tags:
 - internet
 draft: true
-coverImage: "how-old.net-PhG.png"
+coverImage: "./images/how-old.net-PhG.png"
 ---
 [http://blog.how-old.net/](http://blog.how-old.net/)
 
-[![how-old.net PhG](images/how-old.net-PhG.png)](/wp-content/uploads/2015/05/how-old.net-PhG.png)
+[![how-old.net PhG](./images/how-old.net-PhG.png)](./images/how-old.net-PhG.png)

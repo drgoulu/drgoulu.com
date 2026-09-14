@@ -5,10 +5,10 @@ date: 2007-03-03
 tags: 
   - "internet"
   - "jeux"
-coverImage: "Block_Out_Genesis.png"
+coverImage: "./images/Block_Out_Genesis.png"
 ---
 
-{{< figure src="images/Block_Out_Genesis.png" >}}
+{{< figure src="./images/Block_Out_Genesis.png" >}}
 
 Après Tetris en 1984 , il y a eu [Blockout](w:en) en 1989 : un des premiers jeux fondamentalement 3D, où il fallait empiler de manière compacte des pièces tombant dans un puits. C'est simple : il n'y a plus eu de jeu de "réflexion géométrique rapide" aussi prenant après ça, sinon je le saurais.
 

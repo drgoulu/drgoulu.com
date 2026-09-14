@@ -6,14 +6,14 @@ categories:
   - "Comment"
 tags: 
   - "informatique"
-coverImage: "alice-bob-coffre-xor-L-e5xUNf.jpeg"
+coverImage: "./images/alice-bob-coffre-xor-L-e5xUNf.jpeg"
 ---
 
 Pendant des siècles, la [cryptographie](w:) a principalement consisté à inventer des systèmes de [chiffrement](w:) des messages rendant très difficile le [décryptage](w:décrypter) du message par quelqu'un ne possédant pas la clé, et à trouver des moyens de transmettre la clé au destinataire.
 
 Aujourd'hui il existe des moyens de chiffrer des message de manière absolument indécryptable, et de les envoyer à un destinataire qui pourra les lire sans qu'on ait besoin de lui transmettre la clé ! Impossible ou très compliqué, pensez-vous ? Voici pourtant une méthode ultra-simple.
 
-{{< figure src="images/alice-bob-coffre-xor-L-e5xUNf.jpeg" alt="Deux cadenas, c'est beaucoup mieux qu'un" caption="Deux cadenas, c'est beaucoup mieux qu'un" link="/wp-content/uploads/2013/03/alice-bob-coffre-xor-L-e5xUNf.jpeg" width="321" >}}
+{{< figure src="./images/alice-bob-coffre-xor-L-e5xUNf.jpeg" alt="Deux cadenas, c'est beaucoup mieux qu'un" caption="Deux cadenas, c'est beaucoup mieux qu'un" link="./images/alice-bob-coffre-xor-L-e5xUNf.jpeg" width="321" >}}
 
 Il y a très longtemps, [Alice et Bob](w:) ont trouvé un moyen pour s'envoyer des objets précieux dans des coffres fermés à clé sans jamais avoir besoin de se transmettre les clés, ni d'en faire des doubles. Tout ce dont ils ont besoin, c'est d'un coffre que l'on peut fermer avec deux cadenas:
 

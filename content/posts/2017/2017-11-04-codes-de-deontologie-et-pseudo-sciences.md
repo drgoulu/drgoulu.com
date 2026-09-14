@@ -9,7 +9,7 @@ tags:
   - "ethique"
   - "pseudo"
   - "science"
-coverImage: "acupuncture_header.png"
+coverImage: "./images/acupuncture_header.png"
 ---
 
 L’exercice de certaines professions est cadré par des associations professionnelles dotées de [codes de déontologie](w:code_de_déontologie), et c’est très bien ainsi.  Que ces codes comprennent des articles demandant le respect et la collaboration avec les autres professions organisées de manière similaire, par exemple les médecins envers les pharmaciens semble logique aussi. Mais un gros problème apparaît lorsque les “professionnels” des [pseudo-sciences](w:pseudo-science) comme les [médecines non conventionnelles](w:médecine_non_conventionnelle) parviennent à obtenir un statut identique.
@@ -61,7 +61,7 @@ Je suis donc parfaitement libre et à l’aise pour affirmer qu’en l’état a
 
 Et comme de nombreuses études montrent un faible effet positif de l’acupuncture (chinoise ou simulée) comparé au placebo, je soutiens à 100% la position du Pharmachien, qui dit très clairement:
 
-1. dès le titre, que “l’acupuncture, ça fonctionne vraiment “.![](images/acupuncture_header.png)
+1. dès le titre, que “l’acupuncture, ça fonctionne vraiment “.![](./images/acupuncture_header.png)
 2. et il le répète à la première phrase : “_Si tu as un doute quelconque au sujet de l’efficacité de l’acupuncture, efface ça immédiatement de ton esprit. Car l’acupuncture ça fonctionne pour de vrai._”
 3. Puis il défend l’idée selon laquelle l’environnement de soins personnalisés typique de l’acupuncture, mais aussi d’autres médecines “douces”, amplifie l’effet placebo, et qu’il devrait être utilisé par la médecine scientifique.
 
@@ -85,9 +85,9 @@ Les ordres professionnels ne devraient pas imposer le respect généralisé enve
 
 La pression des acupuncteurs contre l’excellente BD d’Olivier Bernard mérite un [effet Streisand](w:) : partagez et republiez cet article un max svp ! Pour le texte vous avez le droit,  il est publié sous [licence Creative Commons](/2013/01/26/acanthapis-petax-cc-et-wikipedia/). Et pour les images, récupérées de l'[Internet Archive](w:) sans autorisation d'Olivier Bernard, j'invoque le "[fair use](w:)" :
 
-![](images/acupuncture01.png) ![](images/acupuncture02.png) ![](images/acupuncture03.png) ![](images/acupuncture04.png) ![](images/acupuncture05.png)
+![](./images/acupuncture01.png) ![](./images/acupuncture02.png) ![](./images/acupuncture03.png) ![](./images/acupuncture04.png) ![](./images/acupuncture05.png)
 
-![](images/1377dc20b7d4e41778afbb69a85a965f51d2077b347f4fad778ee6bea887bf3f.png)
+![](./images/1377dc20b7d4e41778afbb69a85a965f51d2077b347f4fad778ee6bea887bf3f.png)
 
 ## Références:
 

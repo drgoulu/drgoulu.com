@@ -5,7 +5,7 @@ date: 2007-05-09
 tags: 
   - "astro"
   - "physique"
-coverImage: "600px-Keplers_supernova.jpg"
+coverImage: "./images/600px-Keplers_supernova.jpg"
 ---
 
 L'explosion d'étoile la plus violente jamais mesurée a été annoncée hier. Une géante rouge supermassive, 150 fois plus lourde que le Soleil a explosé dans la Galaxie NGC 1260, située à 240 millions d’années-lumière. La [supernova](w:) SN2006gy est devenue plus brillante que le noyau de cette galaxie, environ 50 millions de fois plus brillante que le Soleil pendant plus de 3 mois, et a ainsi battu le record de luminosité de toutes les supernovas enregistrés jusqu'ici. Plusieurs supernovas sont détectées chaque année dans les galaxies distantes, une poignée par millénaire seulement dans la Voie Lactée:
@@ -15,7 +15,7 @@ L'explosion d'étoile la plus violente jamais mesurée a été annoncée hier. U
 - [SN 1054](w: "SN 1054") - ses restes forment la [Nébuleuse du Crabe](w: "Nébuleuse du Crabe")
 - [SN 1181](w: "SN 1181") - moins connue
 - [SN 1572](w: "SN 1572") - observée par [Tycho Brahé](w: "Tycho Brahé"), dont le livre _De Nova Stella_ sur le sujet donna le mot « nova »
-- [![](images/600px-Keplers_supernova.jpg)SN 1604](http://fr.wikipedia.org/wiki/SN_1604 "SN 1604") - observée par [Johannes Kepler](w: "Johannes Kepler") (parfois appelée étoile de Kepler), c'est la dernière supernova à avoir été observée dans notre Galaxie
+- [![](./images/600px-Keplers_supernova.jpg)SN 1604](http://fr.wikipedia.org/wiki/SN_1604 "SN 1604") - observée par [Johannes Kepler](w: "Johannes Kepler") (parfois appelée étoile de Kepler), c'est la dernière supernova à avoir été observée dans notre Galaxie
 
 quelques autres depuis:
 

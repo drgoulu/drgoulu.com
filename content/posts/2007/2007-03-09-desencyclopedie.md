@@ -4,10 +4,10 @@ slug: "desencyclopedie"
 date: 2007-03-09
 tags: 
   - "humour"
-coverImage: "ad2321b35cfdee2a8736729eb1c9273b.png"
+coverImage: "./images/ad2321b35cfdee2a8736729eb1c9273b.png"
 ---
 
-{{< figure src="images/ad2321b35cfdee2a8736729eb1c9273b.png" link="http://desencyclopedie.wikia.com/wiki/Accueil" >}}
+{{< figure src="./images/ad2321b35cfdee2a8736729eb1c9273b.png" link="http://desencyclopedie.wikia.com/wiki/Accueil" >}}
 
 Merci à Jean-Daniel de m'avoir indiqué la [Désencyclopédie, portail de la désinformation.](http://desencyclopedie.wikia.com/wiki/Accueil)
 

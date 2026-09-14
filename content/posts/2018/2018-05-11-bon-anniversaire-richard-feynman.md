@@ -6,10 +6,10 @@ categories:
   - "Pourquoi"
 tags: 
   - "feynman"
-coverImage: "feynman-portada-principia-211x300.jpg"
+coverImage: "./images/feynman-portada-principia-211x300.jpg"
 ---
 
-{{< figure src="images/feynman-portada-principia-211x300.jpg" >}}
+{{< figure src="./images/feynman-portada-principia-211x300.jpg" >}}
 
 [Richard Feynman](w:) aurait eu 100 ans aujourd'hui. Il aurait pu devenir un spécialiste des fourmis, un percussionniste renommé ou un peintre fameux dans les bordels californiens [[1]](#ref-1) , mais il a préféré la physique.
 

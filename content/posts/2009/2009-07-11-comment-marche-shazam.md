@@ -9,10 +9,10 @@ tags:
   - "informatique"
   - "internet"
   - "musique"
-coverImage: "e47ef30951dab1d02fbd45117ec61e0c-1.jpg"
+coverImage: "./images/e47ef30951dab1d02fbd45117ec61e0c-1.jpg"
 ---
 
-{{< figure src="images/e47ef30951dab1d02fbd45117ec61e0c.jpg" >}}
+{{< figure src="./images/e47ef30951dab1d02fbd45117ec61e0c.jpg" >}}
 
 Si vous ne connaissez pas [Shazam](http://www.shazam.com/), demandez à un propriétaire d'iPhone (eux) ou de Google Phone sous Androïd ([nous](http://microclub.ch/2009/06/21/mon-google-phone-htc-magic/)) de vous montrer cette application incroyable. Si personne dans votre entourage ne vit au 21ème siècle, vous  pouvez toujours regarder [cette démonstration en video](https://www.dailymotion.com/video/x810ll).
 
@@ -24,7 +24,7 @@ Pour comprendre, j'ai un peu fouillé et trouvé que la technologie appartient �
 
 Shazam compare des "empreintes" calculées à des instants remarquables du morceau, par exemple lorsque des notes apparaissent nettement dans le diagramme temps/fréquence du morceau. Pour des raisons expliquées plus bas il faut comparer environ une centaine d'empreintes, et comme Shazam demande d'enregistrer une dizaine de secondes de musique, j'en déduis qu'ils prennent environ 10 empreintes par seconde, donc que chaque morceau est stocké chez eux sous la forme de 1800 empreintes environ.
 
-{{< figure src="images/a89524a9c5e8c9a9e2b18ea8e0ea116c.png" alt="FFT est un joli petit programme qui affiche le diagramme temps/fréquence dun mp3" caption="&quot;FFT&quot; est un joli petit programme qui affiche le diagramme temps/fréquence d'un mp3" link="http://www.rejc2.co.uk/programs/fft/" align="aligncenter" width="382" >}}
+{{< figure src="./images/a89524a9c5e8c9a9e2b18ea8e0ea116c.png" alt="FFT est un joli petit programme qui affiche le diagramme temps/fréquence dun mp3" caption="&quot;FFT&quot; est un joli petit programme qui affiche le diagramme temps/fréquence d'un mp3" link="http://www.rejc2.co.uk/programs/fft/" align="aligncenter" width="382" >}}
 
 Le brevet est extrêmement vague sur le problème clé du calcul des empreintes. Il mentionne une liste de caractéristiques du son qui pourraient être utilisées, et indique qu'un choix judicieux permet de s'affranchir de diverses perturbations du son, en particulier de décalages fréquentiels, mais surtout que l'empreinte peut être ramenée à un nombre de 32 bits seulement. Avec ce qui précède, il en résulte que les empreintes d'un morceau complet ne nécessitent que 7K de mémoire, et que toute la base de données de Shazam tient sur 54 Gigabytes seulement, ce qui veut dire qu'elle peut tenir dans la mémoire RAM d'une vingtaine de PC actuels.
 

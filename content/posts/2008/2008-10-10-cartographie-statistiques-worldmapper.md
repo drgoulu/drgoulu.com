@@ -10,12 +10,12 @@ tags:
   - "graphisme"
   - "monde"
   - "statistiques"
-coverImage: "356.png"
+coverImage: "./images/356.png"
 ---
 
 [Worldmapper.org](http://www.worldmapper.org/) fournit [plus de 360 cartes](http://www.worldmapper.org/atozindex.html) du "monde comme vous ne l'avez jamais vu" telles que celle-ci par exemple:
 
-[![](images/9732a89d20399dd62586fd0a758016a9.png)](http://www.worldmapper.org/display.php?selected=356)
+[![](./images/9732a89d20399dd62586fd0a758016a9.png)](http://www.worldmapper.org/display.php?selected=356)
 
 Ces cartes représentent des valeurs statistiques sur les pays en modifiant proportionnellement la surface des territoires concernés. Sur celle-ci dessus, c'est la proportion du PIB dévolu au service de la dette publique en 2002 qui est représenté.
 

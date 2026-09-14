@@ -10,7 +10,7 @@ tags:
   - "quantique"
   - "temps"
   - "traduction"
-coverImage: "8be2d853ade837692c2175d0d2580be8.jpg"
+coverImage: "./images/8be2d853ade837692c2175d0d2580be8.jpg"
 
 aliases:
   - "/2013/12/04/le-passe-des-photons/"
@@ -24,7 +24,7 @@ Avec une nouvelle version de la fameuse expérience des [fentes de Young](w:), d
 
 ## L'expérience
 
-{{< figure src="images/8be2d853ade837692c2175d0d2580be8.jpg" alt="Expérience de Young version aquatique. Cliquez pour une très bonne video" caption="Expérience de Young version aquatique. Cliquez pour une très bonne video" link=\"https://www.youtube.com/watch?v=Iuv6hY6zsd0\" width="288" >}}
+{{< figure src="./images/8be2d853ade837692c2175d0d2580be8.jpg" alt="Expérience de Young version aquatique. Cliquez pour une très bonne video" caption="Expérience de Young version aquatique. Cliquez pour une très bonne video" link=\"https://www.youtube.com/watch?v=Iuv6hY6zsd0\" width="288" >}}
 
 La démonstration la plus simple et convaincante de la [dualité onde-corpuscule](w:) est probablement la fameuse expérience des fentes de Young. Des particules comme les photons ou les électrons émis un à un se comportent comme des ondes lorsqu'ils traversent deux fentes étroites rapprochées, et forment un motif d'interférence sur un écran.
 
@@ -34,7 +34,7 @@ Dans une version récente de l'expérience, [Lev Vaidman](w:en) et ses collègu
 
 Dans l’expérience de Tel-Aviv, un interféromètre de Mach–Zehnder "interne" est placé sur l'un des chemins d'un interféromètre "externe" de façon à ce que le faisceau recombiné poursuive son chemin à travers l'appareil "externe" jusqu'à un détecteur (voir la figure ci-dessous). Un photon a donc trois chemins possibles entre sa source et le détecteur. Le but de l'expérience est de découvrir quels chemins ont été empruntés par les photons arrivant au détecteur, du moins une partie d'entre eux. Ceci s'appelle une "[mesure faible](w:)", et est consistant avec les lois de la mécanique quantique car ça n'implique pas de mesurer la trajectoire suivie par un photon spécifique.
 
-{{< figure src="images/6c48c5def9e651b8b3f7d89f46a124de.jpg" alt="Avec le formalisme vectoriel à deux états, la probabilité de trouver un photon est définie par une onde se propageant depuis la source (en rouge) et une onde se rétro-propageant depuis le détecteur (en vert). Un photon ne peut se trouver que là où les deux sont non nulles . (illustration: Lev Vaidman)" caption="Avec le &quot;formalisme vectoriel à deux états&quot;, la probabilité de trouver un photon est définie par une onde se propageant depuis la source (en rouge) et une onde se rétro-propageant depuis le détecteur (en vert). Un photon ne peut se trouver que là où les deux sont non nulles . (illustration: Lev Vaidman)" align="aligncenter" width="560" >}}
+{{< figure src="./images/6c48c5def9e651b8b3f7d89f46a124de.jpg" alt="Avec le formalisme vectoriel à deux états, la probabilité de trouver un photon est définie par une onde se propageant depuis la source (en rouge) et une onde se rétro-propageant depuis le détecteur (en vert). Un photon ne peut se trouver que là où les deux sont non nulles . (illustration: Lev Vaidman)" caption="Avec le &quot;formalisme vectoriel à deux états&quot;, la probabilité de trouver un photon est définie par une onde se propageant depuis la source (en rouge) et une onde se rétro-propageant depuis le détecteur (en vert). Un photon ne peut se trouver que là où les deux sont non nulles . (illustration: Lev Vaidman)" align="aligncenter" width="560" >}}
 
 Pour effectuer leurs mesures, les physiciens ont fait vibrer les miroirs des interféromètres chacun à une fréquence différente. En vibrant, chaque miroir altère légèrement la longueur du rayon lumineux qu'il réfléchit, ce qui change l'intensité détectée. Comme chaque miroir vibre à une fréquence distincte, la présence d'un pic à chacune de ces fréquences sur le signal détecté indique que des photons sont passés par le miroir correspondant.
 
@@ -57,5 +57,5 @@ Onur Hosten de l'Université de l'Illinois à Urbana-Champaign n'a pas particip�
 ## Références:
 
 1. <span id="ref-1"></span>Tim Wogan "[Physicists ask photons : Where have you been ?](http://physicsworld.com/cws/article/news/2013/nov/26/physicists-ask-photons-where-have-you-been)", 26 novembre 2013,  physicsworld.com
-2. <span id="ref-2"></span>[![ResearchBlogging.org](images/rb2_tiny.png)](http://www.researchblogging.org)Ariel Danan, Demitry Farfurnik, Shimshon Bar-Ad, & Lev Vaidman (2013). Asking photons where have they been ArXiv {{< altmetric arxiv_id="1304.7469" >}} [pdf](http://arxiv.org/pdf/1304.7469v2.pdf), soumis à Physical Review Letters
+2. <span id="ref-2"></span>[![ResearchBlogging.org](./images/rb2_tiny.png)](http://www.researchblogging.org)Ariel Danan, Demitry Farfurnik, Shimshon Bar-Ad, & Lev Vaidman (2013). Asking photons where have they been ArXiv {{< altmetric arxiv_id="1304.7469" >}} [pdf](http://arxiv.org/pdf/1304.7469v2.pdf), soumis à Physical Review Letters
 3. <span id="ref-3"></span>Aephraim Steinberg, Amir Feizpour, Lee Rozema, Dylan Mahler and Alex Hayat "[In praise of weakness](http://physicsworld.com/cws/article/indepth/2013/mar/07/in-praise-of-weakness)", 7 mars 2013, physicsworld.com

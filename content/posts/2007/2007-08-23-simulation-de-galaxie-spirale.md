@@ -8,7 +8,7 @@ tags:
   - "galaxies"
   - "programmation"
   - "simulation"
-coverImage: "6308538a1a66cea6cae72fb96ef916f5.jpg"
+coverImage: "./images/6308538a1a66cea6cae72fb96ef916f5.jpg"
 ---
 
 Poursuivant ma découverte (\*) du génial Hyperion 3D, je me suis attaqué à simuler une Galaxie Spirale.
@@ -24,7 +24,7 @@ Si vous voulez vous aussi explorer de belles galaxies virtuelles en temps réel,
 3. lancer Hyperion et ouvrir SpiralGalaxy.xml .
 4. Jouer avec les touches F1-F2 et F3-F4 qui modifient les paramètres eratio et etwist (voir plus bas) pour obtenir différentes spirales.
 
-[![galaxie.jpg](images/6308538a1a66cea6cae72fb96ef916f5.jpg)](/wp-content/uploads/2007/07/galaxie.jpg "galaxie.jpg")Comme le montre l’image ci-contre (réalisée avec une petite macro SolidWorks, en passant…) les bras spiraux sont simplement un effet géométrique : ils correspondent à la zone dans laquelle les ellipses sont rapprochées, donc il y a une plus grande densité d’étoiles dans ces zones, mais les étoiles suivent tout de même des orbites elliptiques : elles ne restent pas dans les bras.
+[![galaxie.jpg](./images/6308538a1a66cea6cae72fb96ef916f5.jpg)](./images/galaxie.jpg "galaxie.jpg")Comme le montre l’image ci-contre (réalisée avec une petite macro SolidWorks, en passant…) les bras spiraux sont simplement un effet géométrique : ils correspondent à la zone dans laquelle les ellipses sont rapprochées, donc il y a une plus grande densité d’étoiles dans ces zones, mais les étoiles suivent tout de même des orbites elliptiques : elles ne restent pas dans les bras.
 
 La simulation fait décrire à quelques milliers d’étoile des trajectoires elliptiques autour du centre de la galaxie, le grand et le petit axe de chaque trajectoire étant tournés d’un angle qui dépend de la distance moyenne au centre. Il faut donc calculer la trajectoire de chacune des milliers d’étoiles en temps réel, chose possible avec Hyperion grâce à son intégration du langage LUA, que je ne connaissais pas du tout. C’était donc l’occasion de l’apprendre. Il a beaucoup de qualités dont je reparlerai ailleurs, et un gros défaut : faiblement typé, il n’effectue que peu de vérifications à la compilation et aucune à l’exécution : en cas d’erreur, c’est le crash.
 

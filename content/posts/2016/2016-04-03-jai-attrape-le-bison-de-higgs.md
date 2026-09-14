@@ -7,10 +7,10 @@ categories:
 tags: 
   - "livres"
   - "science"
-coverImage: "7402058-L.jpg"
+coverImage: "./images/7402058-L.jpg"
 ---
 
-{{< figure src="images/7402058-L.jpg" alt="Mais qui a attrapé le bison de Higgs ?" >}}
+{{< figure src="./images/7402058-L.jpg" alt="Mais qui a attrapé le bison de Higgs ?" >}}
 
 [David Louapre est un blogueur](https://sciencetonnante.wordpress.com/) du [Café des Sciences](http://www.cafe-sciences.org/) dont [la chaîne YouTube "Science Etonnante"](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) rencontre un succès mérité. Il vient de publier son premier livre de vulgarisation intitulé "Mais qui a attrapé le bison de Higgs ?" dont j'ai immédiatement attrapé un exemplaire. Ou le contraire car j'ai été contaminé par cet excellent bouquin au point d'en lire les 172 pages d'une traite.
 

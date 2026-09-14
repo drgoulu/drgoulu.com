@@ -8,12 +8,12 @@ tags:
   - "humour"
   - "maths"
   - "seti"
-coverImage: "3b039ade3ae028aaf0caaa07e5b9dfb71.gif"
+coverImage: "./images/3b039ade3ae028aaf0caaa07e5b9dfb71.gif"
 ---
 
 Nos (vaines) tentatives de communication avec les extraterrestres [[1]](#ref-1)  reposent sur l'idée que les mathématiques forment un langage universel. Par exemple cette page du message "Cosmic Call" [[2]](#ref-2) émis en 1999 nous semble assez clairement concerner Pi et Pythagore, mais est-ce le cas pour un Klingon ?
 
-{{< figure src="images/3b039ade3ae028aaf0caaa07e5b9dfb7.gif" alt="page 5 du Cosmic Call. Cliquer dessus pour les 22 autres" caption="page 5 du &quot;Cosmic Call&quot;. Cliquer dessus pour les 22 autres" link="http://www.flickr.com/photos/goulu/sets/72157627617474131/" align="aligncenter" width="533" >}}
+{{< figure src="./images/3b039ade3ae028aaf0caaa07e5b9dfb7.gif" alt="page 5 du Cosmic Call. Cliquer dessus pour les 22 autres" caption="page 5 du &quot;Cosmic Call&quot;. Cliquer dessus pour les 22 autres" link="http://www.flickr.com/photos/goulu/sets/72157627617474131/" align="aligncenter" width="533" >}}
 
 Et d'abord, quels sont les pré-requis mathématiques nécessaires pour reconstituer cette "image" à partir du message émis point par point ?
 
@@ -23,7 +23,7 @@ C'est ainsi qu'en recevant un message composé d'une séquence de 1681 signaux,
 
 Jusqu'ici nous n'avons pas eu besoin de la notion de [base](w:base_(arithmétique)). Si les Shadoks, qui comptent en base 4 comme chacun sait, reçoivent [BUZOZOBUGABU](http://www.dcode.fr/shadoks-ga-bu-zo-meu) signaux, il en feront un carré de ZOZOBU par ZOZOBU [[3]](#ref-3), [[4]](#ref-4) : les nombres premiers le sont dans toutes les bases. De plus, toutes les bases sont des bases 10, ainsi que le démontre ce merveilleux cartoon traduit de l'anglais rien que pour vous [[5]](#ref-5) :
 
-{{< figure src="images/67d33688baf9e90d5306e90ed88b21fb.png" alt="base10" caption="(si vous ne comprenez pas la blague, cliquez dessus)" link="http://eljjdx.canalblog.com/archives/2011/09/25/22139069.html" align="aligncenter" width="500" >}}
+{{< figure src="./images/67d33688baf9e90d5306e90ed88b21fb.png" alt="base10" caption="(si vous ne comprenez pas la blague, cliquez dessus)" link="http://eljjdx.canalblog.com/archives/2011/09/25/22139069.html" align="aligncenter" width="500" >}}
 
 Il y a donc 10 sortes de civilisations : celles qui connaissent le [binaire](https://fr.wikipedia.org/wiki/système binaire) et les autres. Même si certaines personnes considèrent que le [Yi King](w:) vieux de 3000 ans décrit une numération binaire, il faut bien reconnaître que de nombreuses civilisations terriennes ont traversé les millénaires sans la connaitre, alors qu'elles étaient confrontées à différents [systèmes de numération](w:) lors de leurs contacts. Mais bon, on peut raisonnablement imaginer qu'en recevant les 1681 signaux, notre E.T. s’apercevra qu'il y en a de deux types et pourra les représenter sous une forme clairement lebsilvi à ses leriosels.
 
@@ -33,7 +33,7 @@ Sous toutes ces hypothèses, Alien pourra enfin comprendre le message : "ces No
 
 Poli. il rédige une réponse empreinte de [logique modale](w:) et de [nombres surréels](w:nombre_surréel) [[5]](#ref-5) :
 
-[![](images/7100f864059739c02728a7d85b90c45e.jpg)](http://www.axolot.info/?p=1092)
+[![](./images/7100f864059739c02728a7d85b90c45e.jpg)](http://www.axolot.info/?p=1092)
 
 ### Références
 

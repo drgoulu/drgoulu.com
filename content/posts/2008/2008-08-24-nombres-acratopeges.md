@@ -9,10 +9,10 @@ tags:
   - "nombres"
   - "oeis"
   - "sloane"
-coverImage: "b7890bc9a5c14c872c33caa54797a9cb1.jpg"
+coverImage: "./images/b7890bc9a5c14c872c33caa54797a9cb1.jpg"
 ---
 
-{{< figure src="images/b7890bc9a5c14c872c33caa54797a9cb.jpg" >}}
+{{< figure src="./images/b7890bc9a5c14c872c33caa54797a9cb.jpg" >}}
 
 En utilisant l' [Encyclopédie en ligne des suites de nombres entiers](http://oeis.org/Seis.html) pour un article précédent, j'ai découvert qu'elle pouvait m'aider pour une vieille idée : la recherche de nombres acratopèges.
 

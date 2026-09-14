@@ -7,7 +7,7 @@ categories:
 tags: 
   - "logiciels"
   - "photo"
-coverImage: "10164660_6db65f4953_o.jpg"
+coverImage: "./images/10164660_6db65f4953_o.jpg"
 ---
 
 Exemple de découverte surprenante au cours d'un surf internet:
@@ -21,8 +21,8 @@ Alors je me suis demandé s'il existait quelque chose permettant de visualiser d
 - les images du projet [Gigapxl](http://www.gigapxl.org/gallery.htm), qui a développé un appareil photo pour l'astronomie offrant une résolution de plus d'un giga-pixel, soit 100x plus que les appareils photo du commerce. L'équipe de Gigapxl réalise des photos spectaculaires de monuments (artificiels et naturels) des USA
 - des [Photomosaïques](http://www.photomosaic.com/).
 
-![](images/10164660_6db65f4953_o.jpg)
+![](./images/10164660_6db65f4953_o.jpg)
 
-[![](images/10e04dbe1d4a594a199d0e28c5f2a702.jpg)](http://www.flickr.com/photos/jshumate/1554554/)La Photomosaïque consiste à faire un collage de petites photos qui ressemble le plus possible à une grande photo au départ. Par exemple, la photo "Kim Mosaic" ci dessus a été réalisée avec le logiciel [Metapixel](http://www.complang.tuwien.ac.at/schani/metapixel/) (pour Linux uniquement :-( ) développé par Shani, l'auteur de la photo, à partir de la [photo de droite](http://www.flickr.com/photos/jshumate/1554554/) et d'une multitude d'autres photos qu'il avait en stock, le logiciel réalisant le collage en choisissant parmi les petites images celles qui correspond le mieux à la zone qu'elle couvre sur la grande.
+[![](./images/10e04dbe1d4a594a199d0e28c5f2a702.jpg)](http://www.flickr.com/photos/jshumate/1554554/)La Photomosaïque consiste à faire un collage de petites photos qui ressemble le plus possible à une grande photo au départ. Par exemple, la photo "Kim Mosaic" ci dessus a été réalisée avec le logiciel [Metapixel](http://www.complang.tuwien.ac.at/schani/metapixel/) (pour Linux uniquement :-( ) développé par Shani, l'auteur de la photo, à partir de la [photo de droite](http://www.flickr.com/photos/jshumate/1554554/) et d'une multitude d'autres photos qu'il avait en stock, le logiciel réalisant le collage en choisissant parmi les petites images celles qui correspond le mieux à la zone qu'elle couvre sur la grande.
 
 Génial non ?[](http://www.complang.tuwien.ac.at/schani/metapixel/)

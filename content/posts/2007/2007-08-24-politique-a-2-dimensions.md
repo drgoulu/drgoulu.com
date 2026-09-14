@@ -9,7 +9,7 @@ tags:
   - "politique"
   - "statistiques"
   - "suisse"
-coverImage: "8f427bc7a54a4b8a53ad3950160ad05f.jpg"
+coverImage: "./images/8f427bc7a54a4b8a53ad3950160ad05f.jpg"
 ---
 
 De plus en plus de tests en ligne permettent de se situer sur l' "échiquier politique", voire de trouver les candidats à une élection dont les idées sont les plus proches des siennes, comme [smartvote.ch](http://www.smartvote.ch) pour les prochaines élections fédérales Suisses.
@@ -18,11 +18,11 @@ Le mot important pour "[penser différemment](/2009/03/06/pourquoi-comment-combi
 
 <!--more-->
 
-|   - [![](images/8f427bc7a54a4b8a53ad3950160ad05f.jpg)](http://www.okcupid.com/politics)[Le test politique d' okcupid](http://www.okcupid.com/politics) dont j'avais déjà parlé [ici](/2007/01/16/test-politique/) distingue :     - X : la permissivité sociale     - Y : la permissivité économiquela vision américaine de ce plan est représentée ci-contre : grosso-modo la gauche traditionnelle est en bas à droite et la droite est en haut à gauche ...   |
+|   - [![](./images/8f427bc7a54a4b8a53ad3950160ad05f.jpg)](http://www.okcupid.com/politics)[Le test politique d' okcupid](http://www.okcupid.com/politics) dont j'avais déjà parlé [ici](/2007/01/16/test-politique/) distingue :     - X : la permissivité sociale     - Y : la permissivité économiquela vision américaine de ce plan est représentée ci-contre : grosso-modo la gauche traditionnelle est en bas à droite et la droite est en haut à gauche ...   |
 | --- |
-|   - [![](images/246c3283cb22f90a69e26c56f2c1089b.gif)](http://www.politicalcompass.org/test)sur [politicalcompass.org](http://www.politicalcompass.org/test),     - l'axe gauche/droite est conservé en X     - l'axe Y va de "libertaire" en bas à "autoritaire" en haut   |
+|   - [![](./images/246c3283cb22f90a69e26c56f2c1089b.gif)](http://www.politicalcompass.org/test)sur [politicalcompass.org](http://www.politicalcompass.org/test),     - l'axe gauche/droite est conservé en X     - l'axe Y va de "libertaire" en bas à "autoritaire" en haut   |
 |  |
-|   - Sur [smartvote.ch](http://www.smartvote.ch/analysis_v/smartmap.php)les 2 axes sont:     - X : gauche / droite     - Y : conservateur en bas, libéral en hautVoici le positionnement des candidats aux élections fédérales de cet automne à Genève selon smartvote :  ![smartvote.png](images/98fe2fba21b1e2c0da4425f76414ac69.png)  ![\*](images/p6.gif) PRD ![\*](images/p12.gif) PSS ![\*](images/p3.gif) PDC ![\*](images/p13.gif) UDC ![\*](images/p7.gif) Les Verts ![\*](images/p9.gif) PLS ![\*](images/p5.gif) PEV ![\*](images/p12.gif) JSG ![](images/cross.gif) MOI |
+|   - Sur [smartvote.ch](http://www.smartvote.ch/analysis_v/smartmap.php)les 2 axes sont:     - X : gauche / droite     - Y : conservateur en bas, libéral en hautVoici le positionnement des candidats aux élections fédérales de cet automne à Genève selon smartvote :  ![smartvote.png](./images/98fe2fba21b1e2c0da4425f76414ac69.png)  ![\*](./images/p6.gif) PRD ![\*](./images/p12.gif) PSS ![\*](./images/p3.gif) PDC ![\*](./images/p13.gif) UDC ![\*](./images/p7.gif) Les Verts ![\*](./images/p9.gif) PLS ![\*](./images/p5.gif) PEV ![\*](./images/p12.gif) JSG ![](./images/cross.gif) MOI |
 
 Quelques remarques:
 

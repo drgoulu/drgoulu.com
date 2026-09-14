@@ -6,7 +6,7 @@ tags:
   - "casse-tetes"
   - "humour"
   - "maths"
-coverImage: "image016.gif"
+coverImage: "./images/image016.gif"
 ---
 
 J'avais déjà vu cette vidéo qui montre une drôle de manière de multiplier deux nombres, mais Yves m'a demandé si "c'est un gag, ou il y a une once de vérité dans la méthode ?", alors je l'ai regardée encore une fois :

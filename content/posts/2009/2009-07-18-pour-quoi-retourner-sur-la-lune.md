@@ -9,10 +9,10 @@ tags:
   - "futur"
   - "lune"
   - "nasa"
-coverImage: "618a24113aafda4bb6446d982c21697f.jpg"
+coverImage: "./images/618a24113aafda4bb6446d982c21697f.jpg"
 ---
 
-{{< figure src="images/0d7c5814b183ceeeb150d62d94448609.gif" >}}
+{{< figure src="./images/0d7c5814b183ceeeb150d62d94448609.gif" >}}
 
 Le 20 juillet 1969, j'avais 5 ans et mes parents m'ont exceptionnellement permis de rester debout pour suivre l'alunissage d'Apollo 11 et les premiers pas d'Armstrong  et Aldrin sur la Lune. Ces images restent d'autant plus gravées dans ma mémoire qu'à l'époque, mon avenir était tout tracé : je serai astronaute!
 

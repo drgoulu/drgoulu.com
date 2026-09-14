@@ -7,14 +7,14 @@ categories:
 tags: 
   - "annee"
   - "internet"
-coverImage: "d4d9ab4517296bb4b903025384896cfd-1.png"
+coverImage: "./images/d4d9ab4517296bb4b903025384896cfd-1.png"
 ---
 
 Il y a environ 1 an que je me suis mis à blogguer régulièrement, après avoir transféré mon ancien site sur WordPress, outil définitivement génial qui me permet de plus de récupérer quelques statistiques intéressantes, histoire de voir si tout se travail en vaut la peine:
 
 - "Dr. Goulu" a reçu plus de 21'000 visiteurs en 1 an, et "décolle" surtout depuis septembre
     
-    ![stats2007.png](images/d4d9ab4517296bb4b903025384896cfd.png)
+    ![stats2007.png](./images/d4d9ab4517296bb4b903025384896cfd.png)
     
     Les articles les plus consultés sont :
     1. [Ceci n'est pas un corps de femme ...](/2007/04/29/ceci-nest-pas-un-corps-de-femme/) a intéressé 1116 voyeurs

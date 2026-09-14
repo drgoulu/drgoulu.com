@@ -9,7 +9,7 @@ tags:
 - quantique
 - trou-noir
 draft: true
-coverImage: "main-qimg-3ee04a78bcfe0a40f7fa53d691f4575b-c.jpg"
+coverImage: "./images/main-qimg-3ee04a78bcfe0a40f7fa53d691f4575b-c.jpg"
 ---
 Chaque fois qu'on croit avoir compris quelque chose à propos de trous noirs, on en découvre un nouvel aspect troublant\*.
 
@@ -21,7 +21,7 @@ Oui mais bon, quand le trou noir absorbe de la matière, sa masse augmente, donc
 
 D'abord, la masse de la matière provient essentiellement des nucléons ( [protons](w:proton) et [neutrons](w:neutron)) qui composent les noyaux atomiques. Or ces particules ne peuvent pas exister dans un champ de gravité plus fort que celui d'une [étoile à neutron](w:) : elles se désintègrent en libérant les 3 quarks qui les composent. Le hic, c'est que la somme des masses des 3 [quarks](w:quark) est environ 10x plus faible que celle des nucléons, et de [gluons](w:gluon) qui sont des bosons. Comme ils n'ont pas de masse, ils sont obligés de se déplacer à la vitesse de la lumière (comme les photons) en "transportant" l'énergie correspondant à la masse manquante. Mais voilà : absorbé par la singularité ils ne peuvent plus bouger du tout. Et d'ailleurs même les quarks ne peuvent pas cohabiter dans la singularité, ils doivent aussi se transformer en [bosons](w:boson) inconnus aujourd'hui, sans masse, et sans pouvoir bouger...
 
-![](images/main-qimg-3ee04a78bcfe0a40f7fa53d691f4575b-c.jpg)
+![](./images/main-qimg-3ee04a78bcfe0a40f7fa53d691f4575b-c.jpg)
 
 Note\* : finalement, j'ai craqué ...
 

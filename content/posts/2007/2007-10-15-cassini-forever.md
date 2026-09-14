@@ -7,10 +7,10 @@ categories:
 tags: 
   - "astro"
   - "cassini"
-coverImage: "9cc649a2a25d17af761af18b6c948aa1.jpg"
+coverImage: "./images/9cc649a2a25d17af761af18b6c948aa1.jpg"
 ---
 
-{{< figure src="images/9cc649a2a25d17af761af18b6c948aa1.jpg" >}}
+{{< figure src="./images/9cc649a2a25d17af761af18b6c948aa1.jpg" >}}
 
 Après mon [dernier article sur Cassini](/2007/10/14/cassini-huygens-10-ans-de-reve/) j'avais encore plein de choses à dire et à montrer. Par exemple que le [site officiel](http://saturn.jpl.nasa.gov) de la mission regorge d'informations passionnantes, comme un [calendrier complet](http://saturn.jpl.nasa.gov/mission/presentposition/) de tous les événements passés et à venir. On y voit que Cassini en est à 50 orbites autour du système de Saturne, et qu'elle visite environ 3 satellites à chaque tour, et qu'il y a encore 23 orbites prévues jusqu'en juin 2006, de quoi fournir encore quelques milliers d'images fantastiques.
 

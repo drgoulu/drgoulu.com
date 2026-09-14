@@ -8,7 +8,7 @@ tags:
   - "informatique"
   - "temps"
   - "traduction"
-coverImage: "e53c119c903b376dcfc13774fb184660.jpg"
+coverImage: "./images/e53c119c903b376dcfc13774fb184660.jpg"
 ---
 
 _Bon, ça fait juste trop longtemps que je fais toutes sortes de choses passionnantes au lieu d'avancer sur les 4 ou 5 brouillons d'articles pour ce blog... Alors je vous livre en vitesse une traduction du dernier article du blog Coding Horror, intitulé "[The Infinite Space Between Words](http://blog.codinghorror.com/the-infinite-space-between-words/)" [[1]](#ref-1). Je le trouve excellent (l'article, et le blog) :_
@@ -52,7 +52,7 @@ La [latence](w:Latence_(informatique)) est une chose, mais il faut aussi consid�
 
 A ce propos, le grand [Jim Gray](w:James_Gray_(informaticien)), avait une [intéressante manière d'expliquer ceci](http://loci.cs.utk.edu/dsi/netstore99/docs/presentations/keynote/sld023.htm) [[3]](#ref-3). Si on ramène ces temps à des distances où se trouvent les données à accéder, alors un accès à un disque est équivalent à chercher des données sur Pluton.
 
-![](images/9f9369fc325a87b3c40a63c352f2bf42.png)
+![](./images/9f9369fc325a87b3c40a63c352f2bf42.png)
 
 il se référait probablement aux traditionnels disques rotatifs rouillants, alors ajustons ces points extrêmes à la situation d'aujourd'hui :
 
@@ -63,7 +63,7 @@ il se référait probablement aux traditionnels disques rotatifs rouillants, alo
 
 Donc, au lieu d'aller jusqu'à Pluton pour chercher nos données en 1999, aujourd'hui nous n'avons plus besoin que d'aller jusqu'à Jupiter.
 
-![](images/e05c37dd7cfbd5eed37ba8476171d20f.png)
+![](./images/e05c37dd7cfbd5eed37ba8476171d20f.png)
 
 Ceci pour la performance des disques en une décennie. Et quelle est laccélération des processeurs, de la mémoire et des réseaux dans ce même temps ? Est-ce qu'une amélioration d'un facteur 10 ou 100 fait vraiment une différence dans ce grand espace infini de temps dans lequel les ordinateurs travaillent ?
 

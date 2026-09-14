@@ -7,7 +7,7 @@ categories:
 tags: 
   - "annee"
   - "nombres"
-coverImage: "juggling.gif"
+coverImage: "./images/juggling.gif"
 ---
 
 En préparant comme à [l'accoutumée](/2010/01/01/2010-2/) un article sur le nombre 2011 et avant qu' [ElJi ne me devance](http://eljjdx.canalblog.com/archives/2011/01/02/20004672.html), je suis tombé sur l'étrange propriété [A071160](http://oeis.org/A071160) selon laquelle 2011 est un "mot de Lukasiewicz qui est aussi une séquence siteswap de jonglerie asynchrone valide"...

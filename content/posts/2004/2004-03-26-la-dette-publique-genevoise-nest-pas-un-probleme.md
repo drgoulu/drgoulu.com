@@ -8,10 +8,10 @@ tags:
   - "economie"
   - "geneve"
   - "politique"
-coverImage: "926dceae57e362222e3abe2c16703fc2.gif"
+coverImage: "./images/926dceae57e362222e3abe2c16703fc2.gif"
 ---
 
-_![](images/926dceae57e362222e3abe2c16703fc2.gif)Paru dans le courrier des lecteurs de la [Tribune de Genève](http://www.tdg.ch) en avril 2004_
+_![](./images/926dceae57e362222e3abe2c16703fc2.gif)Paru dans le courrier des lecteurs de la [Tribune de Genève](http://www.tdg.ch) en avril 2004_
 
 La "perspective" de Jean-François Mabut du 26 mars commence par une grossière erreur. Non, chaque Genevois ne doit pas 26’500 francs à l’Etat. Que ce soit en tant que "client - contribuable" payant des impôts en échange de nombreux services ou en tant qu’ "actionnaire - votant", le citoyen n’est pas lié par la dette publique.
 

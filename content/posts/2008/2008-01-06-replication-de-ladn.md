@@ -7,7 +7,7 @@ categories:
 tags: 
   - "biologie"
   - "video"
-coverImage: "14285982-l-39-adn-polymerase-i-une-enzyme-qui-participe-a-la-replication-de-l-39-adn.jpg"
+coverImage: "./images/14285982-l-39-adn-polymerase-i-une-enzyme-qui-participe-a-la-replication-de-l-39-adn.jpg"
 ---
 
 Vu l'année passée sur [une magnifique vidéo scientifique de la réplication de l'ADN](http://strangepaths.com/replication-de-ladn/2007/07/03/fr/) que je viens de retrouver, pas tout à fait identique, sur YouTube :

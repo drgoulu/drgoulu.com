@@ -9,7 +9,7 @@ tags:
   - "art"
   - "genie-civil"
   - "suisse"
-coverImage: "2692da54ad813a699d5c8e938890f97e.jpg"
+coverImage: "./images/2692da54ad813a699d5c8e938890f97e.jpg"
 ---
 
 Cette page est réalisée à partir de documents que mon papa Umberto m’a demandé de transmettre à un jeune garçon de 12 ans déjà passionné par le Génie Civil. Comme je n’avais pas ces documents moi même, je les ai digitalisés pour les conserver et je les publie ici pour susciter éventuellement d’autres vocations.
@@ -20,7 +20,7 @@ Cette page est réalisée à partir de documents que mon papa Umberto m’a dema
 - Pont sur le Talent de l’autoroute N1 Lausanne-Yverdon à Chavornay
 - Réalisé à la suite d’un concours + soumission.
 
-[![](images/2692da54ad813a699d5c8e938890f97e.jpg)](http://www.flickr.com/photos/goulu/4034848981/in/set-72157622641152052/)
+[![](./images/2692da54ad813a699d5c8e938890f97e.jpg)](http://www.flickr.com/photos/goulu/4034848981/in/set-72157622641152052/)
 
 #### Caractéristiques
 
@@ -71,7 +71,7 @@ Cette page est réalisée à partir de documents que mon papa Umberto m’a dema
 
 Cet ouvrage se situe à Riddes, à mi-chemin de Martigny et de Sion. Il s'agit de deux ponts identiques et parallèles, décalés de 21.30 m du fait de la traversée en biais du lit du fleuve. La longeur totale de chaque ouvrage est de 253 m, dont 143 m pour la travée centrale. L'orignalité du projet tient au fait qu'il s'agit d'une ''structure renversée''. Cette disposition ''en auge'' offre les avantages suivants: la chaussée est le plus bas possible et n'entraîne donc pas de surélévation de de l'autoroute et les poutres latérales constituent des écrans antibruit
 
-[![](images/faa2c859c7487c52a86c95304c14287c.jpg)](http://www.flickr.com/photos/goulu/4035603782/in/set-72157622641152052)
+[![](./images/faa2c859c7487c52a86c95304c14287c.jpg)](http://www.flickr.com/photos/goulu/4035603782/in/set-72157622641152052)
 
 #### Caractéristiques :
 
@@ -87,7 +87,7 @@ Cet ouvrage se situe à Riddes, à mi-chemin de Martigny et de Sion. Il s'agit d
 - Montant des travaux : CHF 18'000'000.-
 - Durée des travaux : 1985 - 1988 (40 mois) Palplanches : 3'000 m2 Coffrage : 26'000 m2 Terrassement : 5'000 m3 Béton : 9'000 m3 Pieux Forés : 1'200 m Aciers : 1'000 to
 
-[![](images/fab75df0d9dc7458ba476eed96e446b4.jpg)](http://www.flickr.com/photos/goulu/4035588200/in/set-72157622641152052)
+[![](./images/fab75df0d9dc7458ba476eed96e446b4.jpg)](http://www.flickr.com/photos/goulu/4035588200/in/set-72157622641152052)
 
 #### Références :
 
@@ -118,7 +118,7 @@ Cet ouvrage se situe à Riddes, à mi-chemin de Martigny et de Sion. Il s'agit d
 - 1993-1994
 - Pont route mixte sur les gorges du Trient en remplacement du pont existant sur la route 102 Martigny-Salvan
 
-[![](images/00f296694a5848489a6fb46fc62c6719.jpg)](http://www.flickr.com/photos/goulu/4035587958/in/set-72157622641152052)
+[![](./images/00f296694a5848489a6fb46fc62c6719.jpg)](http://www.flickr.com/photos/goulu/4035587958/in/set-72157622641152052)
 
 #### Caractéristiques :
 
@@ -130,7 +130,7 @@ Cet ouvrage se situe à Riddes, à mi-chemin de Martigny et de Sion. Il s'agit d
 - Largeurs du tablier 8.0 m
 - Coût : CHF 3’965’000.-
 
-[![](images/c994c9cdb6dea6695c900b732d96ffb5.jpg)](http://www.flickr.com/photos/goulu/4035588422/in/set-72157622641152052)
+[![](./images/c994c9cdb6dea6695c900b732d96ffb5.jpg)](http://www.flickr.com/photos/goulu/4035588422/in/set-72157622641152052)
 
 #### Documents:
 
@@ -142,7 +142,7 @@ Cet ouvrage se situe à Riddes, à mi-chemin de Martigny et de Sion. Il s'agit d
 
 - 1995
 
-[![](images/2b2aa2c34caf909b712b69bafd0dfb78.jpg)](http://www.flickr.com/photos/goulu/4035603876/in/set-72157622641152052)
+[![](./images/2b2aa2c34caf909b712b69bafd0dfb78.jpg)](http://www.flickr.com/photos/goulu/4035603876/in/set-72157622641152052)
 
 #### Documents
 

@@ -4,7 +4,7 @@ slug: "mes-10-livres-preferes-mytoptenbooks"
 date: 2014-04-18
 tags: 
   - "livres"
-coverImage: "20140418_152251.jpg"
+coverImage: "./images/20140418_152251.jpg"
 ---
 
 Découvert [sur Freakonometrics](http://freakonometrics.hypotheses.org/13806) une chaîne d'articles sur nos 10 bouquins préférés, alors voici une sélection [des miens](https://www.goodreads.com/review/list/2882285-philippe-guglielmetti?sort=rating).
@@ -19,7 +19,7 @@ Avant qu'nous nous rapportions aux bouquins du savoir, citons ici un fracass
 
 ### Patience dans l'azur
 
-{{< figure src="images/20140418_152251-300x225.jpg" alt="20140418_152251" caption="L'autre moitié de mes bouquins préférés est chez des amis qui ne me les ont pas rendus. Je leur pardonne seulement s'ils les ont prêtés plus loin..." width="300" >}}
+{{< figure src="./images/20140418_152251-300x225.jpg" alt="20140418_152251" caption="L'autre moitié de mes bouquins préférés est chez des amis qui ne me les ont pas rendus. Je leur pardonne seulement s'ils les ont prêtés plus loin..." width="300" >}}
 
 > Ces jours qui te semblent vides Et perdus pour l’univers Ont des racines avides Qui travaillent les déserts \[...\] Patient, patience, Patience dans l’azur! Chaque atome de silence Est la chance d’un fruit mûr!
 > 

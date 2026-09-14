@@ -9,20 +9,20 @@ tags:
   - "fiction"
   - "histoire"
   - "maths"
-coverImage: "df243304c6b9c3dc459bb7fec074fb31.jpg"
+coverImage: "./images/df243304c6b9c3dc459bb7fec074fb31.jpg"
 ---
 
 Sur ce blog il n'y a de place que pour la vérité vraie et vérifiable, agrémentée parfois d'un peu de sel subjectif pour en augmenter la saveur. Donc je le dis tout net : voici un vrai canular, mais un magnifique canular, si beau qu'on aimerait vraiment qu'il soit vrai.
 
-![](images/657543c95bdbdc58fcd6609d6bab4559.jpg)Sur "[The Mandelbrot Monk](http://classes.yale.edu/Fractals/MandelSet/MandelMonk/MandelMonk.html)", Ray Girvan raconte l'histoire ([traduite en français ici](http://translate.google.ch/translate?u=http%3A%2F%2Fclasses.yale.edu%2FFractals%2FMandelSet%2FMandelMonk%2FMandelMonk.html&sl=en&tl=fr&hl=fr&ie=UTF-8)) d'[Udo d'Aachen](w:en:Udo_of_Aachen) (Aix-la-Chapelle), moine vivant entre 1200 et 1270 et passionné de mathématiques qui enlumina l'un de ses manuscrits avec l'image de la Nativié ci-contre.
+![](./images/657543c95bdbdc58fcd6609d6bab4559.jpg)Sur "[The Mandelbrot Monk](http://classes.yale.edu/Fractals/MandelSet/MandelMonk/MandelMonk.html)", Ray Girvan raconte l'histoire ([traduite en français ici](http://translate.google.ch/translate?u=http%3A%2F%2Fclasses.yale.edu%2FFractals%2FMandelSet%2FMandelMonk%2FMandelMonk.html&sl=en&tl=fr&hl=fr&ie=UTF-8)) d'[Udo d'Aachen](w:en:Udo_of_Aachen) (Aix-la-Chapelle), moine vivant entre 1200 et 1270 et passionné de mathématiques qui enlumina l'un de ses manuscrits avec l'image de la Nativié ci-contre.
 
 Votre oeil aguerri aura repéré instantanément la forme étrange de l'Etoile du Berger, dont voici un agrandissement :
 
-![](images/fa7cf8fc8aa5922bc7bd7218411d7cf2.jpg)
+![](./images/fa7cf8fc8aa5922bc7bd7218411d7cf2.jpg)
 
 Mais, oui, c'est bien le fameux [ensemble de Mandelbrot](w:)! Udo l'aurait calculé à la main pendant des années, 700 ans avant que sa découverte par Benoit ne le propulse au rang d'objet mathématique le plus célèbre après le nombre pi, le plus calculé par les ordinateurs du monde entier, et le plus inutile aussi.
 
-![](images/d0a4ba8dbe4d96128c0caeb035fe63c0.jpg) (l'ensemble de Mandelbrot "moderne")
+![](./images/d0a4ba8dbe4d96128c0caeb035fe63c0.jpg) (l'ensemble de Mandelbrot "moderne")
 
 Il faut reconnaitre que Ray Girvan, s'il existe, a fait un excellent travail en liant un certain nombre de faits réels par une fiction qu'il amène progressivement au spectaculaire, citant au passage moultes références bibliographiques que personne n'ira vérifier.
 

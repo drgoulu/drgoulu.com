@@ -9,7 +9,7 @@ tags:
   - "geometrie"
   - "gps"
   - "monde"
-coverImage: "a551972134e95fe75cbc399489083a2a.jpg"
+coverImage: "./images/a551972134e95fe75cbc399489083a2a.jpg"
 ---
 
 Les GPS sont ces appareils "magiques" apparus il y a 15 ans sur les bateaux, puis sur les avions, les voitures de luxe, les taxis et les camions il y a 5 ou 6 ans, et qui se répandent maintenant dans les voitures et les téléphones voire les appareils photos.
@@ -18,7 +18,7 @@ Bref, ça n'épate plus personne de savoir où on est à quelque mètres près
 
 Ce premier article présente la partie "Satellites et Signaux" de cette extraordinaire réalisation .
 
-![](images/44f15662c45e4a7dce811d03eea0c2b2.gif)Le principe est tout simple : 24 satellites tournent autour de la Terre sur des orbites précises, en faisant "bip-bip". En tout point de la planète, on peut recevoir les signaux de 6 à 10 satellites.
+![](./images/44f15662c45e4a7dce811d03eea0c2b2.gif)Le principe est tout simple : 24 satellites tournent autour de la Terre sur des orbites précises, en faisant "bip-bip". En tout point de la planète, on peut recevoir les signaux de 6 à 10 satellites.
 
 On pourrait se dire que 3 satellites suffisent:
 
@@ -27,7 +27,7 @@ On pourrait se dire que 3 satellites suffisent:
 
 alors on sait qu'on se trouve à l'intersection de 3 sphères centrées sur les satellites, et dont les rayons correspondent à la distance parcourue par chaque "bip", et il n'y a que 2 tels points, dont l'un n'est probablement pas à la surface de la Terre, donc nous nous trouvons à l'autre.
 
-![](images/b2b912c70ce844b4958215581f4c6eb6.gif)
+![](./images/b2b912c70ce844b4958215581f4c6eb6.gif)
 
 La principale difficulté et de mesurer avec une grande précision le temps mis par les bips pour parcourir la distance entre le satellite et le récepteur.
 
@@ -43,7 +43,7 @@ Ensuite, le satellite émet avec une puissance de 25W qui arrose presque la moit
 
 Les concepteurs du GPS ont trouvé une solution heureusement plus simple et carrément géniale. Ils se sont dit qu'en fait, la seule information qui devait réellement être transmise depuis les satellites, c'était une horloge. Un "tic-tac" plutôt qu'un "bip-bip". Et pour que le récepteur puisse distinguer les "tic-tacs" des différents satellites, chaque horloge est émise sous forme d'un "signal binaire pseudo-aléatoire" différent, une suite de 0 et de 1 comme celle-ci par exemple :
 
-![](images/9a7c6f507618dbab1d7298e85506d3de.gif)
+![](./images/9a7c6f507618dbab1d7298e85506d3de.gif)
 
 Le récepteur reçoit une dizaine de tels signaux superposés, décalés et noyés dans du bruit. Comment débrouiller tout ça ? "Facile" : en générant des signaux identiques dans le récepteur et en tentant de les "corréler" avec celui qu'on reçoit de l'espace. La corrélation consiste à comparer les bits qu'on a cru reconnaitre dans le bruit avec ceux générés dans le récepteur, puis à décaler légèrement le signal généré et à recommencer. Si pour un certain décalage on trouve un nombre statistiquement significatif de bits correspondants, on sait:
 

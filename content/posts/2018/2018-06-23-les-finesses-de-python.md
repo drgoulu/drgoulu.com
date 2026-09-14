@@ -6,7 +6,7 @@ categories:
   - "Comment"
 tags: 
   - "python"
-coverImage: "Microclub.png"
+coverImage: "./images/Microclub.png"
 ---
 
 J'ai donné une petite conférence au [Microclub](https://microclub.ch/) sur certains aspects "avancés" du langage Python :

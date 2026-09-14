@@ -10,7 +10,7 @@ tags:
   - "physique"
   - "quantique"
   - "societe"
-coverImage: "8c9a7b3dd416eb7f53406a60a01c0a22.jpg"
+coverImage: "./images/8c9a7b3dd416eb7f53406a60a01c0a22.jpg"
 ---
 
 Après Superman, James Bond et Georges W. Bush, de nouveaux super-héros sont en train de [sauver le monde](/2008/04/17/on-va-tous-mourir/) de la destruction totale par les méchants.
@@ -25,7 +25,7 @@ En clair ça donne : Fuyez, fuyez tous de Genève, Saturne se changera d'un truc
 
 Notez comme l'énigmatique mot "Raypoz" de la prédiction trouve tout son sens avec les faisceaux de protons. D'ailleurs, il y a un même un petit dessin prophétique qui confirme cette interprétation :
 
-[![](images/8c9a7b3dd416eb7f53406a60a01c0a22.jpg)](http://picasaweb.google.com/HeartsQuiltingJourney/LostBookOfNostradamus/photo#5126588323789878306)(détail d'une illustration du "[Vaticinia Nostradami](http://with-heart-and-hands.blogspot.com/2007/10/updated-lost-book-of-nostradamus-images.html)", le "livre perdu de Nostradamus". Cliquer dessus pour le dessin complet)
+[![](./images/8c9a7b3dd416eb7f53406a60a01c0a22.jpg)](http://picasaweb.google.com/HeartsQuiltingJourney/LostBookOfNostradamus/photo#5126588323789878306)(détail d'une illustration du "[Vaticinia Nostradami](http://with-heart-and-hands.blogspot.com/2007/10/updated-lost-book-of-nostradamus-images.html)", le "livre perdu de Nostradamus". Cliquer dessus pour le dessin complet)
 
 On voit bien les deux poissons (Nostradamus ne savait pas bien dessiner les protons...) qui se croisent en sens inverse, lançés avec un arc à supraconducteur, et le trou dans le sol creusé par le micro trou noir qui descend au centre de la Terre, d'où il absorbera tout, comme dans ce joli film :
 

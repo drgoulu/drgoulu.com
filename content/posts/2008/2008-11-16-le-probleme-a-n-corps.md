@@ -12,24 +12,24 @@ tags:
   - "physique"
   - "programmation"
   - "simulation"
-coverImage: "a470c29cf6c88b820cc608831b61f545.gif"
+coverImage: "./images/a470c29cf6c88b820cc608831b61f545.gif"
 ---
 
 Le "problème à N corps" consiste à déterminer le mouvement de N masses sous l'effet des forces d'attraction gravitationnelles entre elles.
 
-![](images/2aafbc7c07256efd594fb07d17ea858d.gif)Pour N=2, Newton savait déjà que les [deux corps](w:Problème_à_deux_corps) décrivent des ellipses autour de leur centre de gravité commun.
+![](./images/2aafbc7c07256efd594fb07d17ea858d.gif)Pour N=2, Newton savait déjà que les [deux corps](w:Problème_à_deux_corps) décrivent des ellipses autour de leur centre de gravité commun.
 
 Pour N=3, [Poincaré avait découvert que les trajectoires des corps pouvaient être "chaotiques"](http://www.astrosurf.com/rondi/3c/historique.htm) : une toute petite différence dans les positions et vitesses initiales des corps pouvait causer de très importantes différences dans la trajectoire des corps. Cependant, malgré ce que beaucoup croient, il existe une solution analytique au problème des trois corps découverte en 1909 par [Karl Sundman](w:Karl_Sundman). Elle n'est cependant pas utilisable en pratique pour des calculs.
 
 Pour plus de 3 corps, il n'existe pas de solution analytique. Ceci signifie entre autres qu'il n'est pas possible de démontrer la stabilité d'un système avec quelques corps, comme le Système Solaire par exemple. Des mathématiciens comme [Laplace](w:Pierre-Simon_Laplace) ou [Lyapunov](w:Alexandre_Liapounov) s'y sont cassés les dents : rien ne prouve que les planètes suivront toujours leurs orbites actuelles dans quelques centaines de millions d'années. Encore moins qu'un astéroïde viennent percuter notre belle planète beaucoup plus tôt.
 
-{{< figure src="images/f6524d761bd5b7f92d5262ab33448a77.jpg" alt="Simulation du Système Solaire sur Univers Sandbox, N~20" caption="Simulation du Système Solaire sur Univers Sandbox, N~20" align="aligncenter" width="430" >}}
+{{< figure src="./images/f6524d761bd5b7f92d5262ab33448a77.jpg" alt="Simulation du Système Solaire sur Univers Sandbox, N~20" caption="Simulation du Système Solaire sur Univers Sandbox, N~20" align="aligncenter" width="430" >}}
 
 Il est aujourd'hui facile de simuler quelques millions d'années d'évolution du Système Solaire sur un PC, par exemple avec [Universe Sandbox](http://universesandbox.com/), le chouette programme dont j'ai [déjà parlé ici](/2008/09/06/universe-sandbox/). Comme on connait avec une très grande précision la position, la vitesse et la masse des planètes et de leurs principaux satellites, on estime que l'on peut calculer leur position dans 5 millions d'années à 150m près. Pour arriver à cette précision, mais aussi tout simplement pour réaliser une simulation réaliste, il faut tout particulièrement veiller à la [l'intégration numérique](w:Intégration_numérique) utilisée, pour garantir la conservation de l'énergie totale du système. Selon [cette étude](http://www.artcompsci.org/msa/web/vol_1/v1_web/v1_web.html), la méthode de [Gauss-Hermite](w:Méthodes_de_quadrature_de_Gauss#M.C3.A9thode_de_Gauss-Hermite) donne les meilleurs résultats.
 
 D'autre part, pour chacun des N corps, il faut calculer les N-1 forces exercées par les autres corps. Au total, il faudra calculer \[N.(N-1)\]/2 forces (le /2 vient du fait qu'il suffit de ne calculer qu'une fois la force entre deux corps). On dit que la complexité est O(N²) : il faut effectuer un nombre d'opérations proportionnel au carré de N. Pour quelques dizaines de corps, ça ne pose aucun problème, mais si l'on veut simuler des galaxies ou même la collision de galaxies avec N=1'000'000, on se retrouve avec mille milliards de forces à évaluer, ce qui nécessite beaucoup de temps de calcul.
 
-{{< figure src="images/7d7300972c3b4db5108dd38e6d611c10.jpg" alt="Simulation de la future collision de la Voie Lactée et dAndromède, N=100000000" caption="Simulation de la future collision de la Voie Lactée et d'Andromède, N=100'000'000" align="aligncenter" width="480" >}}
+{{< figure src="./images/7d7300972c3b4db5108dd38e6d611c10.jpg" alt="Simulation de la future collision de la Voie Lactée et dAndromède, N=100000000" caption="Simulation de la future collision de la Voie Lactée et d'Andromède, N=100'000'000" align="aligncenter" width="480" >}}
 
 On pourrait se dire qu'une petite étoile à un bout de la galaxie n'attire pratiquement pas une autre petite étoile très distante, mais négliger cette force n'est pas une bonne idée. D'une part, l'énergie totale du système ne serait plus conservée, et d'autre part il faudrait trouver un critère permettant de savoir quelles forces sont négligeables, sans les calculer.
 

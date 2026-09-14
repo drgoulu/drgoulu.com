@@ -7,22 +7,22 @@ categories:
 tags: 
   - "astro"
   - "meteorite"
-coverImage: "382eab9bc9a7fb3838c9a892ac66c40b.png"
+coverImage: "./images/382eab9bc9a7fb3838c9a892ac66c40b.png"
 ---
 
 Le passage de l'[astéroïde géocroiseur](w:) [2012 BX34](w:) à moins de 60'000 km de la Terre hier est l'occasion de rassembler quelques infos sur les chutes de pierres de l'espace.
 
 D'abord, il s'avère que l'espace est assez caillouteux. Le "[Near Earth Object Program](w:)" et le "[Minor Planets Center](w:Centre_des_planètes_mineures)" recensent des milliers de géocroiseurs de toutes tailles depuis la fin des années 1990, où la mise en place d'instruments de plus en plus  performants a permis d'augmenter progressivement le rythme des découvertes à près de 900 en 2011
 
-[![](images/382eab9bc9a7fb3838c9a892ac66c40b.png)](http://neo.jpl.nasa.gov/stats/)Depuis l'an passé, le [Pan-STARRS](w:) et sa caméra de 1.4 Gigapixels viennent relever le [Catalina Sky Survey](w:) qui lui-même succédait au [LINEAR](w:Lincoln_Near-Earth_Asteroid_Research) dans la quête, essentiellement américaine, d'astéroïdes de plus en plus petits. Parce que pour les gros, on commence à en avoir fait le tour : en 2011 on n'a repéré "que" 19 astéroïdes de plus d'un km contre plus de 90 en 2000 :
+[![](./images/382eab9bc9a7fb3838c9a892ac66c40b.png)](http://neo.jpl.nasa.gov/stats/)Depuis l'an passé, le [Pan-STARRS](w:) et sa caméra de 1.4 Gigapixels viennent relever le [Catalina Sky Survey](w:) qui lui-même succédait au [LINEAR](w:Lincoln_Near-Earth_Asteroid_Research) dans la quête, essentiellement américaine, d'astéroïdes de plus en plus petits. Parce que pour les gros, on commence à en avoir fait le tour : en 2011 on n'a repéré "que" 19 astéroïdes de plus d'un km contre plus de 90 en 2000 :
 
-[![](images/541b8b788e1b31be732e6c94e9667a71.png)](http://neo.jpl.nasa.gov/stats/)Il n'y a donc pas énormément plus d'[objet potentiellement dangereux](w:) que les 1300 actuellement connus. Le danger représenté par chacun de ces objets est codifié depuis 1999 par l'[échelle de Turin](w:) qui attribue un niveau et une couleur en fonction de la taille de l'objet et de sa probabilité de collision:
+[![](./images/541b8b788e1b31be732e6c94e9667a71.png)](http://neo.jpl.nasa.gov/stats/)Il n'y a donc pas énormément plus d'[objet potentiellement dangereux](w:) que les 1300 actuellement connus. Le danger représenté par chacun de ces objets est codifié depuis 1999 par l'[échelle de Turin](w:) qui attribue un niveau et une couleur en fonction de la taille de l'objet et de sa probabilité de collision:
 
-{{< figure src="images/32a23f8663967436d6c9afeae42f2005.png" alt="échelle de Turin. L'énergie cinétique est en mégatonnes de TNT" caption="échelle de Turin. L'énergie cinétique est en mégatonnes de TNT" link="http://fr.wikipedia.org/wiki/%C3%89chelle_de_Turin" align="aligncenter" width="480" >}}
+{{< figure src="./images/32a23f8663967436d6c9afeae42f2005.png" alt="échelle de Turin. L'énergie cinétique est en mégatonnes de TNT" caption="échelle de Turin. L'énergie cinétique est en mégatonnes de TNT" link="http://fr.wikipedia.org/wiki/%C3%89chelle_de_Turin" align="aligncenter" width="480" >}}
 
 Un objet de moins de 20m tel que 2012 BX34 n'y est pas considéré comme méritant un attention particulière même s'il était sur une trajectoire de collision certaine. Avec un peu de chance, ça en fait une attraction touristique comme à [Hoba, en Namibie](/2010/08/28/namibie/). Pour les objets plus gros, les astronomes commenceraient à les examiner avec attention dans la zone jaune, la politique commencerait à s'inquiéter quelques décennies avant une rencontre possible dans la zone orange, en essayant peut-être d'envoyer une mission spatiale pour dévier l'objet.
 
-{{< figure src="images/METEOR%20CRATER%20VU%20PAR%20D'AVION%201.jpg" alt="Meteor Crater. Dans ma liste à visiter" caption="Meteor Crater. Dans ma liste &quot;à visiter&quot;" link="http://fr.wikipedia.org/wiki/Meteor_Crater" align="aligncenter" width="550" >}}
+{{< figure src="./images/METEOR CRATER VU PAR D'AVION 1.jpg" alt="Meteor Crater. Dans ma liste à visiter" caption="Meteor Crater. Dans ma liste &quot;à visiter&quot;" link="http://fr.wikipedia.org/wiki/Meteor_Crater" align="aligncenter" width="550" >}}
 
 Dans la zone rouge, c'est le scénario catastrophe. Au niveau 8 ça va encore : tous les quelques siècles un caillou fait un cratère du genre [Meteor](w:) Crater, ratiboise une forêt comme à la [Toungouska](w:événement_de_la_Toungouska) en 1908 ou tombe à l'eau en ne tuant que quelques poissons. Sur une ville, évidemment, ça ferait des dégâts comparables à une [Tsar Bomba](w:) ... Une collision de niveau 9 se produit tous les quelques millénaires et pourrait détruire une région entière. Des centaines de milliers d'années s'écoulent en moyenne entre des collisions de niveau 10. Là c'est [Manicouagan ou Rochechouart](/2009/04/16/de-manicouagan-a-rochechouart/) par exemple : continents dévastés, voire grand reset planétaire.
 

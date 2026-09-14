@@ -6,10 +6,10 @@ categories:
   - "Comment"
 tags: 
   - "ignobel"
-coverImage: "maxresdefault.jpg"
+coverImage: "./images/maxresdefault.jpg"
 ---
 
-{{< figure src="images/maxresdefault.jpg" >}}
+{{< figure src="./images/maxresdefault.jpg" >}}
 
 C'est avec un très grand plaisir que j'ai appris l'attribution du prix Ig Nobel de Médecine 2017 à Jean-Pierre Royet, David Meunier, Nicolas Torquet, Anne-Marie Mouly et Tao Jiang pour leurs travaux sur le dégoût du fromage [[1]](#ref-1), dont voici l'abstract (traduit par Google et moi):
 

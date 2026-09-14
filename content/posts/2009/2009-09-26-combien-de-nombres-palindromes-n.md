@@ -8,12 +8,12 @@ tags:
   - "casse-tetes"
   - "maths"
   - "programmation"
-coverImage: "37b10823a4bb4b9808e544fa55dc514d.gif"
+coverImage: "./images/37b10823a4bb4b9808e544fa55dc514d.gif"
 ---
 
 Les problèmes du [Project Euler](/2009/02/23/project_euler/) devenant vraiment très ardus, j'ai été content de trouver [ici](http://delphi.about.com/od/delphichallengesexercises/qt/delphi-palindromic-numbers.htm) un petit challenge intéressant : déterminer rapidement le nombre de nombres palindromes inférieurs à un maximum donné.
 
-{{< figure src="images/37b10823a4bb4b9808e544fa55dc514d.gif" alt="17371, un nombre palindrome" caption="un nombre palindrome" width="148" >}}
+{{< figure src="./images/37b10823a4bb4b9808e544fa55dc514d.gif" alt="17371, un nombre palindrome" caption="un nombre palindrome" width="148" >}}
 
 Un [nombre palindrome](w:) se lit indifféremment de gauche à droite ou de droite à gauche, comme 1234321 ou 567765. Outre leur aspect esthétique, ces nombres ont aussi des [propriétés étonnantes](/2008/09/14/palindrome-de-196/).
 
@@ -43,7 +43,7 @@ De plus, notre boucle génère tous les nombres palindromes sous forme de chaine
 
 Une autre approche, que beaucoup utilisent avant même de programmer, voire de réfléchir, est de [chercher avec Google](http://www.google.ch/search?q=number+of+palindromic+numbers). C'est une excellente approche. On trouve immédiatement une [page très intéressante chez Wolfram](http://mathworld.wolfram.com/PalindromicNumber.html), avec une formule qui offre sur un plateau le nombre a(n) de nombres palindromes inférieurs à 10n
 
-![](images/e75fb46011bd71a4c4c1acbc3fdda2b9.gif) La formule n'est valable que pour n entier, mais on peut tout de même la convertir en une petite fonction Delphi:
+![](./images/e75fb46011bd71a4c4c1acbc3fdda2b9.gif) La formule n'est valable que pour n entier, mais on peut tout de même la convertir en une petite fonction Delphi:
 
 {{< highlight delphi >}}
 function NumberOfPalindromes(const maxNumber : integer) : integer;

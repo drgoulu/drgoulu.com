@@ -3,10 +3,10 @@ title: Des casse-tête numériques à l'inverseur de Plouffe
 slug: des-casse-tete-numeriques-a-linverseur-de-plouffe
 date: '2017-12-18'
 draft: true
-coverImage: "logo.png"
+coverImage: "./images/logo.png"
 ---
 
-{{< figure src="images/logo.png" link="http://isc.carma.newcastle.edu.au/" >}}
+{{< figure src="./images/logo.png" link="http://isc.carma.newcastle.edu.au/" >}}
 
 J'utilise parfois l'[Inverse Symbolic Calculator](w:en) [disponible ici](http://isc.carma.newcastle.edu.au/) et à chaque fois il me sidère. Comment fait-il pour retrouver l'expression mathématique correspondant à presque n'importe quelle valeur décimale, par exemple que ma date de naissance 1963.1225 est presque égale à $1000.\sum\limits\limits_{n=1}^{\infty}{\frac{1}{3^n.(3n^2+18n-1)}} $ ???
 

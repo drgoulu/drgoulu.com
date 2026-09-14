@@ -8,10 +8,10 @@ tags:
   - "cryptographie"
   - "internet"
   - "securite"
-coverImage: "mitm.png"
+coverImage: "./images/mitm.png"
 ---
 
-{{< figure src="images/mitm.png" >}}
+{{< figure src="./images/mitm.png" >}}
 
 Dans [un précédent épisode](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/), nous avons vu comment Alice et Bob peuvent empêcher Eve la curieuse d'écouter leurs messages secrets. Mais ils doivent encore se protéger de [Mallory](w:Alice_et_Bob#Adversaires), un puissant adversaire qui, s'il se place entre Alice et Bob, peut effectuer la fameuse [attaque de l'homme du milieu](w:) :
 
@@ -28,13 +28,13 @@ Beaucoup plus facilement, il peut vous offrir un WiFi gratuit et installer un pe
 
 Ou ça peut être un service que l'employeur d'Alice paie, par exemple [ZScaler](w:en). Cette entreprise propose aux entreprises un [proxy web](w:Proxy#Proxy_web)/[SSL/TLS](w:Transport_Layer_Security) permettant de limiter l'accès à internet à leurs employés, en visant en particulier la fuite de données sensibles. Pour ce faire, ZScaler a besoin de décrypter toutes les informations sécurisées entrant et sortant de chez ses clients, ce qu'ils font en réalisant [ouvertement](https://help.zscaler.com/zia/about-ssl-inspection) une "attaque de l'homme du milieu" :
 
-[![ZScaler SSL inspection](images/ZScaler-slide-51.png)](https://help.zscaler.com/zia/about-ssl-inspection)
+[![ZScaler SSL inspection](./images/ZScaler-slide-51.png)](https://help.zscaler.com/zia/about-ssl-inspection)
 
 ## D'où les certificats ...
 
 Pour débusquer l'infâme Mallory, Alice et Bob auraient du demander à leur ami Nestor de leur fournir des [certificats électroniques](w:certificat_électronique).
 
-![](images/Certificat_utilisateur_contenu.png)Ils auraient envoyé à Nestor leur clé publique avec des éléments prouvant leur identité réelle. Nestor aurait encrypté ces informations avec sa clé privée (oui, privée!) à lui, exactement comme Alice et Bob avaient fait pour [créer leurs propres signatures](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/) et envoyé à Alice et Bob à chacun son certificat. Ensuite:
+![](./images/Certificat_utilisateur_contenu.png)Ils auraient envoyé à Nestor leur clé publique avec des éléments prouvant leur identité réelle. Nestor aurait encrypté ces informations avec sa clé privée (oui, privée!) à lui, exactement comme Alice et Bob avaient fait pour [créer leurs propres signatures](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/) et envoyé à Alice et Bob à chacun son certificat. Ensuite:
 
 1. Alice envoie à Bob un premier en clair "Bob, donne moi stp ta clé publique que je puisse t'envoyer des messages chiffrés Bisous Alice".
 2. Bob renvoie, en clair aussi "Chère Alice, voici mon certificat Cb" en le signant  avec Sb, sa signature.
@@ -55,7 +55,7 @@ Malheureusement pour l'utilisateur lambda (vous...), ceci peut donner une fausse
 
 Voici pour preuve le certificat utilisé lorsqu'Alice google depuis un poste de travail d'une entreprise cliente de ZScaler :
 
-![](images/2017-11-15_154952.png)
+![](./images/2017-11-15_154952.png)
 
 Caramba ! L'infâme Mallory, le gentil Nestor et ce cher ZScaler ne sont en réalité que les 3 visages de [Big Brother](w:)  ! ZScaler/Mallory a créé un pseudo certificat de google, validé par ZScaler/Nestor qui dispose d'un certificat racine sur les machines mises à disposition du personnel de l'entreprise, et Alice n'y a vu que du feu ! Toutes ses recherches, mais aussi ses mots de passe ainsi que ses e-mails qu'elle croyait confidentiels, rassurée par la présence du petit cadenas vert, tout ça transite **en clair** quelque part "dans le nuage" ...
 

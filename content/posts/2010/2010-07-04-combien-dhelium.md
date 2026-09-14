@@ -10,10 +10,10 @@ tags:
   - "economie"
   - "helium"
   - "imparfait-du-subjonctif"
-coverImage: "37b1e80ebeab9404c7fa439152afb04d.jpg"
+coverImage: "./images/37b1e80ebeab9404c7fa439152afb04d.jpg"
 ---
 
-{{< figure src="images/37b1e80ebeab9404c7fa439152afb04d.jpg" alt="décharge dans un tube d'hélium. crédit Pslawinski, Wikipedia" caption="décharge dans un tube d'hélium. crédit Pslawinski, Wikipedia" link="http://en.wikipedia.org/wiki/Helium" align="alignleft" width="200" >}}
+{{< figure src="./images/37b1e80ebeab9404c7fa439152afb04d.jpg" alt="décharge dans un tube d'hélium. crédit Pslawinski, Wikipedia" caption="décharge dans un tube d'hélium. crédit Pslawinski, Wikipedia" link="http://en.wikipedia.org/wiki/Helium" align="alignleft" width="200" >}}
 
 L'hélium est le 2ème élément le plus abondant dans l'Univers. 7% de tous les atomes sont de l'He4 essentiellement produit pendant la [nuclésythèse primordiale](w:). Ils représentent 25% de la masse totale de la matière puisqu'ils sont plus 4x plus lourds que l'Hydrogène, qui constitue 92% des atomes. La même proportion se retrouve dans le Soleil, qui n'a produit qu'environ 1% d'Helium de plus en 4.6 milliards d'années de  [fusion](/tags/fusion/). C'est d'ailleurs dans le spectre du Soleil que l'hélium a été détecté en 1868 seulement , d'où son nom.
 

@@ -8,7 +8,7 @@ tags:
   - "pour-la-science"
   - "societe"
   - "statistiques"
-coverImage: "Statistiques.gif"
+coverImage: "./images/Statistiques.gif"
 ---
 
 "[Trompeuses statistiques](http://www.pourlascience.fr/ewb_pages/f/fiche-article-trompeuses-statistiques-19392.php)" de Jean-Paul Delahaye est un excellent article paru dans le "Pour la Science" de juillet 2007 dans la rubrique "Logique et Calcul". Il est illustré par quelques magnifiques citations:
@@ -19,7 +19,7 @@ coverImage: "Statistiques.gif"
 - A la question "faites vous encore confiance aux sondages ?", 64% des Français répondent Oui et 59% répondent Non (Philippe Geluck)
 - J'en ajoute une de Steven : 30% des accidents de la route sont dus à l'alcool, mais 70% c'est quand on a rien bu ! Alors qu'est-ce qui est le plus dangereux ?
 
-[![Statistiques](images/Statistiques-259x300.gif)](/wp-content/uploads/2007/06/Statistiques.gif)Plus sérieusement, l'article commence par montrer qu'on n'est pas très habiles à manipuler les pourcentages. Par exemple : si l'essence augmente de 25%, de combien doit-elle ensuite diminuer pour revenir à son prix initial ?
+[![Statistiques](./images/Statistiques-259x300.gif)](./images/Statistiques.gif)Plus sérieusement, l'article commence par montrer qu'on n'est pas très habiles à manipuler les pourcentages. Par exemple : si l'essence augmente de 25%, de combien doit-elle ensuite diminuer pour revenir à son prix initial ?
 
 Le piège est qu'on a tendance à ajouter 25% au prix plutôt que de le multiplier par 1.25, donc à penser qu'il faut ensuite soustraire 25% alors qu'il faut le diviser par 1.25, soit multiplier par 0.8, donc réduire de 20%.
 

@@ -9,19 +9,19 @@ tags:
   - "physique"
   - "rendement"
   - "solaire"
-coverImage: "07a277ecba95a9833a99b7a50058b28c1.png"
+coverImage: "./images/07a277ecba95a9833a99b7a50058b28c1.png"
 ---
 
 De retour d'une conférence sur les énergies renouvelables, Laurent m'a posé cette question simple en apparence, à laquelle j'ai d'abord répondu naïvement : on mesure la puissance électrique fournie par une cellule photovoltaïque (PV) éclairée par une puissance lumineuse donnée; le rapport des deux, c'est le rendement\*:
 
-[![](images/efficiency_chart.jpg)](/wp-content/uploads/2015/05/efficiency_chart.jpg) évolution du rendement de différents types de cellules PV (mise à jour le 26.5.2015)Cliquer pour la dernière version en haute résolution
+[![](./images/efficiency_chart.jpg)](./images/efficiency_chart.jpg) évolution du rendement de différents types de cellules PV (mise à jour le 26.5.2015)Cliquer pour la dernière version en haute résolution
 
 Mais après étude, c'est nettement plus compliqué. Les valeurs de rendement publiées par les constructeurs sont mesurées en laboratoire en "conditions de test standard" (STC en anglais):
 
 - La mesure se fait en maintenant les cellules à 25°C. Le rendement des cellules diminuant de 0.1% à 0.5% par °C, le rendement effectif en plein soleil estival lorsque les cellules atteignent 60°C est nettement inférieur au rendement affiché par les fabricants. A noter que les [cellules "Grätzel"](/2009/09/15/de-graetzel-aux-great-cells/) ont un rendement qui augmente avec la température.
 - éclairement  de 1000W/m², soit environ le maximum sous nos latitudes. Plutôt que d'utiliser le vrai soleil, capricieux et qui chaufferait les cellules, on éclaire les cellules par un flash de [lampe au xénon](w:) étalonné par un  [pyranomètre](w:). Une lampe de 1000W de puissance électrique permet de tester une cellule "standard" de 156x156 mm.
 
-![](images/fb07cc52f8d91db32933cef3e3696f94.png)
+![](./images/fb07cc52f8d91db32933cef3e3696f94.png)
 
 - spectre "[Air Mass 1.5](w:en:air_mass_coefficient)", correspondant à celui de la lumière solaire après avoir traversé 1.5 épaisseur de l'atmosphère, soit lorsque le Soleil est à 48.2° du zénith. Le rayonnement du Soleil correspond grosso-modo à celui du [corps noir](w:) à 5800°K, mais l'atmosphère filtre certaines longueur d'ondes. Le graphique ci-dessous montre bien l'effet de l'ozone sur les UV, ainsi que celui des gaz à effet de serre dans l'infrarouge : eau, H2O, monoxyde de dihydrogène et un tout petit peu de CO2. Mais ne digressons pas. En laboratoire, on utilise des filtres placés devant la lampe au xénon pour obtenir un véritable simulateur de Soleil.
 

@@ -10,10 +10,10 @@ tags:
   - "quantique"
   - "relativite"
   - "temps"
-coverImage: "f65aa12397b8ca72ff7da1d950d6a2032-1.jpg"
+coverImage: "./images/f65aa12397b8ca72ff7da1d950d6a2032-1.jpg"
 ---
 
-{{< figure src="images/f65aa12397b8ca72ff7da1d950d6a203.jpg" link="http://www.pourlascience.fr/ewb_pages/s/sommaire_pls.php?art_id=26056&num=397" >}}
+{{< figure src="./images/f65aa12397b8ca72ff7da1d950d6a203.jpg" link="http://www.pourlascience.fr/ewb_pages/s/sommaire_pls.php?art_id=26056&num=397" >}}
 
 C'est le thème du ["Pour la Science" No 397 de Novembre 2010](http://www.pourlascience.fr/ewb_pages/s/sommaire_pls.php?art_id=26056&num=397), qui vaut vraiment la peine que vous vous précipitiez dans le kiosque le plus proche. Vous y retrouverez des idées et auteurs déjà mentionnés sur "Dr. Goulu" ou sur "[Philosphie du Temps](http://philodutemps.free.fr/)",  plus de nombreux autres.
 
@@ -35,7 +35,7 @@ Rovelli commence par distinguer deux classes de phénomènes physiques : ceux da
 
 Cette question cruciale de la réversibilité de certains phénomènes et de l'irréversibilité d'autres est abordée par Roger Ballan dans "le paradoxe de l'irréversibilité". Il y fait le lien entre la "flèche du temps", la thermodynamique et la théorie de l'information en considérant un gaz formé de N particules confinées dans un volume A puis libérées dans un volume B double, et en montrant que l'augmentation d'entropie chère à [Boltzmann](w:constante_de_Boltzmann) correspond à une  incertitude croissante sur l'état des N particules.
 
-{{< figure src="images/47f8a25d1963713584ffed918319132a.jpg" alt="Tombe de Boltzmann à Vienne par martinroell sur flickr" caption="Tombe de Boltzmann à Vienne par martinroell sur flickr" link="http://www.flickr.com/photos/martinroell/427167382/" align="aligncenter" width="500" >}}
+{{< figure src="./images/47f8a25d1963713584ffed918319132a.jpg" alt="Tombe de Boltzmann à Vienne par martinroell sur flickr" caption="Tombe de Boltzmann à Vienne par martinroell sur flickr" link="http://www.flickr.com/photos/martinroell/427167382/" align="aligncenter" width="500" >}}
 
 Je suis resté un peu sur ma faim à la fin car j'espérais un développement de ce lien pour aboutir à une véritable proposition sur la nature du temps.
 

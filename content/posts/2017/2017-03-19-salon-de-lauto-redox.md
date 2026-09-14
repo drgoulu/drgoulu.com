@@ -8,10 +8,10 @@ tags:
 - chimie
 - transports
 draft: true
-coverImage: "33498727545_b619d378b8_h_d.jpg"
+coverImage: "./images/33498727545_b619d378b8_h_d.jpg"
 ---
 
-{{< figure src="images/33498727545_b619d378b8_h_d.jpg" >}}
+{{< figure src="./images/33498727545_b619d378b8_h_d.jpg" >}}
 
 Je visite le [Salon International de l'Automobile de Genève](w:) une fois tous les 10 ans environ, quand un neveu ou le fils d'une ami me supplie assez longtemps de l'y emmener.
 
@@ -21,7 +21,7 @@ La seule vraie surprise que j'aie eue était le stand de la marque Quant, qui pr
 
 L'avantage de ces batteries est d'utiliser des électrolytes liquides
 
-![](images/Batterie_redox_vanadium.png)
+![](./images/Batterie_redox_vanadium.png)
 
 Batterie\_redox\_vanadium
 

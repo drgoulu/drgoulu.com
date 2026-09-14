@@ -11,7 +11,7 @@ tags:
   - "monde"
   - "nucleaire"
   - "politique"
-coverImage: "9694e8421356d58466dc97ffd670410e-1.jpg"
+coverImage: "./images/9694e8421356d58466dc97ffd670410e-1.jpg"
 ---
 
 Ainsi donc, le [gouvernement Australien vient d'instituer une taxe carbone](http://www.lefigaro.fr/flash-actu/2011/11/08/97001-20111108FILWWW00333-la-taxe-carbone-adoptee-en-australie.php). Le pays est le 16ème émetteur de CO2 de la planète, et [le 11ème par habitant](w:en:List_of_countries_by_carbon_dioxide_emissions_per_capita), en bonne partie car 85% de l'électricité y est produite par des centrales thermiques au charbon. Elles n'utilisent pourtant qu'une petite partie des énormes quantités de charbon extraites par l'Australie, dont 75% sont exportés en Asie, principalement au Japon, en Corée, à Taïwan, et même en Chine \[1,2\].
@@ -22,7 +22,7 @@ De fait, l'Australie est le plus grand exportateur de charbon du monde, un secte
 
 D'après cette magnifique annonce vue il y a quelques temps déjà dans les journaux australiens \[8\], les mineurs de charbon ont une autre crainte : "l'énergie nucléaire tuera l'industrie du charbon".
 
-{{< figure src="images/9694e8421356d58466dc97ffd670410e.jpg" alt="anti-nuclear_coal_ad_md" caption="(cliquer pour rigoler un peu)" link="http://depletedcranium.com/nuclear-is-bad-because-it-will-take-out-jobs-coal-miners/" align="aligncenter" width="638" >}}
+{{< figure src="./images/9694e8421356d58466dc97ffd670410e.jpg" alt="anti-nuclear_coal_ad_md" caption="(cliquer pour rigoler un peu)" link="http://depletedcranium.com/nuclear-is-bad-because-it-will-take-out-jobs-coal-miners/" align="aligncenter" width="638" >}}
 
 Même si l'Australie n'a jamais construit de centrale nucléaire, elle m'y a pas non plus définitivement renoncé \[9\]. Il faut dire qu'elle est aussi le deuxième exportateur mondial d'Uranium, derrière le Canada, et que son territoire est l'un des plus stables de la planète géologiquement... Ses immenses régions désertiques ont même vu quelques champignons atomiques dans les années 1950 \[10\]. Et le nucléaire, ça ne dégage quasi pas de CO2 et ça coûte à peine plus cher que le charbon. (Si vous voulez compter les risques et les déchets, alors comptez-les aussi les 1500 Euros/tonne de CO2 pour le charbon svp...)
 

@@ -9,7 +9,7 @@ tags:
   - "cafe"
   - "chimie"
   - "photo"
-coverImage: "5c837c6405891a43753218d4613a49ec.png"
+coverImage: "./images/5c837c6405891a43753218d4613a49ec.png"
 ---
 
 _(article repris dans {{< openbook booknumber="ISBN:978-2-89544-454-1" templatenumber="5" >}})_
@@ -20,7 +20,7 @@ Caféine, je t'aime. Comme l'a dit [Alfred Rényi](w:) (et pas [Paul Erdös](w
 
 mais aussi des informaticiens, ingénieurs et autres penseurs. Et tu es si belle:
 
-{{< figure src="images/c9b758484cf57d39e6aa03b044e875c5.jpg" alt="Photo Annie Cavanagh et David McCarthy" caption="Photo Annie Cavanagh et David McCarthy" align="aligncenter" width="600" >}}
+{{< figure src="./images/c9b758484cf57d39e6aa03b044e875c5.jpg" alt="Photo Annie Cavanagh et David McCarthy" caption="Photo Annie Cavanagh et David McCarthy" align="aligncenter" width="600" >}}
 
 Cette image obtenue par microscopie électronique à balayage montre environ 40 microns de la pointe de tes cristaux, en fausses couleurs. Elle vient de remporter un [concours de photographies scientifiques](http://www.wellcomeimageawards.org/#)
 
@@ -30,7 +30,7 @@ Car certains te traitent d'[alcaloïde toxique](https://fr.wikipedia.org/wiki/a
 
 [Dans mon cerveau](w:Caféine#Mode_d'action), tu es un "inhibiteur compétitif" de l'[adénosine](w:), à laquelle les chimistes disent que tu ressemble assez pour te fixer sur les récepteurs cellulaires de l'adénosine, mais sans les activer.
 
-[![](images/9076e197b966d24a0c4b9993e2372cf7.png)](http://fr.wikipedia.org/wiki/Caf%C3%A9ine#Mode_d.27action)
+[![](./images/9076e197b966d24a0c4b9993e2372cf7.png)](http://fr.wikipedia.org/wiki/Caf%C3%A9ine#Mode_d.27action)
 
 Or l'adénosine ralentit mon activité cérébrale lorsque je suis stressé, et en limitant son action tu me permets de rester concentré. De plus, mon organisme réagit à ton antagonisme en produisant de l'adrénaline et de la dopamine, tu es donc indirectement un psychostimulant : mon cerveau travaille plus vite et mieux. Merci !
 

@@ -9,10 +9,10 @@ tags:
   - "livres"
   - "maths"
   - "philosophie"
-coverImage: "7010427-L.jpg"
+coverImage: "./images/7010427-L.jpg"
 ---
 
-{{< figure src="images/7010427-L.jpg" alt="7010427-L" >}}
+{{< figure src="./images/7010427-L.jpg" alt="7010427-L" >}}
 
 Ma maman aime lire des auteurs du monde entier. Elle m'a fait découvrir [Gabriel García Márquez,](w:Gabriel_García_Márquez) [Ismail Kadare](w:), [Amin Maalouf](w:) et bien d'autres. Je viens de dévorer le dernier roman qu'elle m'a prêté : "La formule préférée du professeur" de [Yoko Ogawa](w:Ogawa_Yoko).
 

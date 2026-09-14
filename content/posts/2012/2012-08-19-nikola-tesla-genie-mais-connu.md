@@ -11,7 +11,7 @@ tags:
   - "inventions"
   - "pseudo"
   - "tesla"
-coverImage: "c2ced4096aa1d71c1375fae6f102af4f.jpg"
+coverImage: "./images/c2ced4096aa1d71c1375fae6f102af4f.jpg"
 ---
 
 Le nom de [Nikola Tesla](w:) (1856-1943) apparaît fréquemment sur les pages web traitant d'électricité et d'énergie. Parfois pour rendre hommage à un grand inventeur soi-disant méconnu. Souvent pour fantasmer sur l' "énergie libre" et autres sujets pseudo-physiques. A mon humble avis il s'agit là principalement d'un effet de la "loi de Clarke":
@@ -29,7 +29,7 @@ Tesla était un inventeur, pas un théoricien. Il a déposé [environ 300 breve
 Le génie de Tesla est d'avoir rapidement compris et appliqué les [équations de Maxwell](w:) (1865) liant le champ magnétique et le champ électrique :
 
 - en 1887 il invente la [Machine synchrone](w:)  qui permet de transformer l'énergie électrique en énergie mécanique (moteur) ou vice-versa ([alternateur](w:)). Il comprend que le [courant alternatif](w:) est plus facile à transporter que le courant continu promu par Edison et il s'associe à Westinghouse. Ensemble ils construisent et exploitent dès 1896, la [première usine électrique industrielle, hydroélectrique, aux chutes du Niagara](w:Guerre_des_courants#Chutes_du_Niagara), qui alimente la ville de Buffalo, à 30 km de là.
-- {{< figure src="images/c2ced4096aa1d71c1375fae6f102af4f.jpg" alt="Modern Thinker de Peter Terren (aka Dr Electric) . Cliquer pour le making of et les précautions d'usage..." caption="&quot;Modern Thinker&quot; de Peter Terren (aka Dr Electric) . Cliquer pour le &quot;making of&quot; et les précautions d'usage..." link="http://tesladownunder.com/ModernThinker.htm" width="289" >}}
+- {{< figure src="./images/c2ced4096aa1d71c1375fae6f102af4f.jpg" alt="Modern Thinker de Peter Terren (aka Dr Electric) . Cliquer pour le making of et les précautions d'usage..." caption="&quot;Modern Thinker&quot; de Peter Terren (aka Dr Electric) . Cliquer pour le &quot;making of&quot; et les précautions d'usage..." link="http://tesladownunder.com/ModernThinker.htm" width="289" >}}
     
     Autour de 1891, il invente sa fameuse ["bobine de Tesla"](w:Bobine_Tesla), un transformateur à résonance produisant de hautes tensions à haute fréquence. A haute puissance, son montage peut produire de jolis arcs électriques qui font la joie des producteurs d'effets spéciaux et l'étonnement des spectateurs depuis un bon siècle.
 - Mais le transformateur de Tesla est surtout un [émetteur radio](w:en:Invention_of_radio#Tesla) plus efficace que celui de [Hertz](w:en:Invention_of_radio#Hertz) datant de 1887. Dès 1893, Tesla en décrit de multiples applications [[1]](#ref-1) et réalise les premières transmissions sans fil, quelques années avant [Marconi](w:en:Invention_of_radio#Marconi). En effet, Marconi n'est plus considéré comme l'inventeur de la radio depuis 1943, date à laquelle la Cour Suprême des Etats-Unis a considéré que son brevet de 1896 n'apportait aucune invention par rapport à ceux de Tesla, Lodge et Stone, antérieurs.

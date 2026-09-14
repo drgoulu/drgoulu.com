@@ -7,18 +7,18 @@ categories:
 tags: 
   - "dimensions"
   - "geometrie"
-coverImage: "84849bc2f3eac9878a868458e1f8313b-1.gif"
+coverImage: "./images/84849bc2f3eac9878a868458e1f8313b-1.gif"
 ---
 
 Cette petite animation montre un "hypercube" à 4 dimensions :
 
-![](images/84849bc2f3eac9878a868458e1f8313b.gif)
+![](./images/84849bc2f3eac9878a868458e1f8313b.gif)
 
 Elle donne un peu le tournis, mais montre que la 4ème dimension est accessible, avec un petit effort d'imagination
 
 Sur cette image, on voit la logique de la construction d'un cube à 0,1,2,3 et 4 dimensions :
 
-![](images/hypercube_construction_fr.png)
+![](./images/hypercube_construction_fr.png)
 
 Dans un espace à 0 dimensions, il ne peut exister qu'un point.
 

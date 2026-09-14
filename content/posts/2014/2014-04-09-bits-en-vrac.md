@@ -11,7 +11,7 @@ tags:
   - "informatique"
   - "internet"
   - "programmation"
-coverImage: "form-editor1.png"
+coverImage: "./images/form-editor1.png"
 ---
 
 Quelques découvertes informatiques en vrac
@@ -23,15 +23,15 @@ Le [quiz sur les poissons d'avril](/2014/03/31/poisson-davril-ou-pas/ "Poisson 
 1. dans [Google Drive](https://drive.google.com/), on crée un document de type formulaire
 2. on se retrouve dans un éditeur permettant de composer le formulaire. On peut définir le type de chaque champ : texte, choix multiple, cases à cocher, échelle d'évaluation, tout y est. On peut ajouter des règles de validation et des actions à effectuer en fonction des réponses
     
-    {{< figure src="images/form-editor1.png" alt="Editeur de Formulaire Google Drive" caption="Editeur de Formulaire Google Drive" link="/wp-content/uploads/2014/04/form-editor1.png" align="aligncenter" width="480" >}}
+    {{< figure src="./images/form-editor1.png" alt="Editeur de Formulaire Google Drive" caption="Editeur de Formulaire Google Drive" link="./images/form-editor1.png" align="aligncenter" width="480" >}}
 3. En cliquant le bouton "afficher le formulaire en ligne" on peut voir à quoi ça ressemble pour les utilisateurs et même tester le système, car la collecte des réponses est immédiate : rien à faire de particulier !
 4. Lorsque le formulaire  est prêt, il suffit d'envoyer le lien disponible par "Envoyer le formulaire" à des personnes choisies, ou d'intégrer la page sur un site web dans un <iframe>. Plusieurs blogs du C@fé des sciences l'ont même fait simultanément sans aucun problème car le formulaire n'existe en réalité (virtuelle...) que chez Google.
 5. Les réponses sont automatiquement collectées dans un document "tableur" sur Google Drive : une ligne est créée pour chaque formulaire rempli, chaque colonne correspondant à un champ. Notez la colonne "horodateur" remplie automatiquement, bien utile.
     
-    {{< figure src="images/googleform1.png" alt="Table des résultats" caption="Table des résultats" align="aligncenter" width="480" >}}
+    {{< figure src="./images/googleform1.png" alt="Table des résultats" caption="Table des résultats" align="aligncenter" width="480" >}}
     
     Ce que j'ai trouvé assez impressionnant est que l'on peut modifier le tableau sans perturber les votes suivants. Apparemment chaque champ du formulaire est attaché à une colonne par un lien invisible, mais solide : même si on ajoute ou déplace des colonnes, les réponses suivantes restent cohérentes avec les réponses précédentes. Pour le quiz, j'ai ajouté la ligne 2 avec les bonnes réponses ainsi que la colonne D Score. Notez au passage la  géniale formule qui compte le nombre de réponses correctes avec [arrayformula](https://support.google.com/drive/answer/71291?hl=fr) et sumproduct. Elle n'est pas de moi, et il parait qu'elle est possible aussi en Excel...
-6. {{< figure src="images/stats.png" alt="stats" caption="résumé des réponses" width="300" >}}
+6. {{< figure src="./images/stats.png" alt="stats" caption="résumé des réponses" width="300" >}}
     
     Une petite dernière pour la route : dans le menu "Formulaire" on peut "afficher le résumé des réponses" qui présente les résultats sous une forme graphique qui peut être bien utile.
 
@@ -52,7 +52,7 @@ Scoop.it, c'est vraiment bien, mais ... il y a un problème rédhibitoire : les 
 Je me suis donc mis en chasse de nouveaux outils de curation, et après quelques essais j'ai choisi le "trio de la curation V.3" :
 
 - [CommaFeed](https://www.commafeed.com) comme agrégateur de flux. Il offre grosso-modo les fonctionnalités de Google Reader,  une [extension Chrome](https://chrome.google.com/webstore/detail/commafeed/bpbfpjiciblcfeganojjkfapnllbhdga), plus une [application Android](https://play.google.com/store/apps/details?id=com.commafeed.newsplus&hl=fr) (en fait un plugin d'un agrégateur plus général). Chaque jours je parcours une centaine d'articles en sautant d'un à l'autre en pressant la touche \[j\], et si je le trouve intéressant je le lis et je presse \[s\] comme "star". Ca le marque comme favori et l'ajoute à mon [flux RSS de sortie](https://www.commafeed.com/rest/category/entriesAsFeed?id=starred&apiKey=a060bdd5f1c977aa960861ffb2ca6347d824508b).
-- [![ifttt](images/ifttt.png)](http://ifttt.com)Je pourrais utiliser directement CommaFeed pour partager le contenu sur Facebook, Twitter, Google+ et autres (mais pas Tumblr). Mais surtout, il me faudrait le faire manuellement : 6 ou 8 clicks de plus, c'est trop. Alors j'ai utilisé [IFTTT.com](https://ifttt.com/), un service qui permet d'automatiser des tâches internet en créant des "recettes" de la forme If This Then That . J'ai ainsi créé des "recettes" qui partagent automatiquement le contenu de mon flux de sortie vers mes pages Facebook, Google+, App.net et Tumblr. Automatiquement. Rien d'autre à faire :-)  (Pour Twitter j'hésite encore...)
+- [![ifttt](./images/ifttt.png)](http://ifttt.com)Je pourrais utiliser directement CommaFeed pour partager le contenu sur Facebook, Twitter, Google+ et autres (mais pas Tumblr). Mais surtout, il me faudrait le faire manuellement : 6 ou 8 clicks de plus, c'est trop. Alors j'ai utilisé [IFTTT.com](https://ifttt.com/), un service qui permet d'automatiser des tâches internet en créant des "recettes" de la forme If This Then That . J'ai ainsi créé des "recettes" qui partagent automatiquement le contenu de mon flux de sortie vers mes pages Facebook, Google+, App.net et Tumblr. Automatiquement. Rien d'autre à faire :-)  (Pour Twitter j'hésite encore...)
 - Et j'utilise toujours Scoop.it pour atteindre les utilisateurs de cette plateforme et profiter des beaux widgets, mais je n'utilise plus les outils de partage. En attendant qu'IFTTT permette de "scooper" automatiquement, j'utilise le flux de sortie comme unique source dans Scoop.it et je "scoope" à la main tout ce que j'ai préalablement sélectionné dans CommaFeed.
 
 Tout ça ne me demande en définitive pas plus d'efforts que de tourner les pages d'un journal en papier, et je peux me concentrer sur la lecture tout en gardant une trace dont vous pouvez profiter où vous le souhaitez.
@@ -69,7 +69,7 @@ Fort non ? Hélas il me semble que peu de problèmes du Project Euler concernent
 
 ### 2048
 
-[![](images/280px-2048_Screenshot.png)](https://fr.wikipedia.org/wiki/2048_\(jeu_vid%C3%A9o\))Cet article serait paru il y a trois jours si je n'étais pas tombé sur [2048](http://gabrielecirulli.github.io/2048/), le jeu addictif du moment. C'est un jeu tellement simple qu'il aurait du être inventé avant Pac-Man. Et on voit tout de suite comment faire : placer les puissances de 2 les unes à côté des autres pour former une chaîne croissante et propager ainsi les sommes pour arriver à former enfin, après 1024 coups au minimum, la tant convoitée pièce 2048. Il m'a fallu 3 jours. Enfin 3 soirs. 3 nuits...
+[![](./images/280px-2048_Screenshot.png)](https://fr.wikipedia.org/wiki/2048_\(jeu_vid%C3%A9o\))Cet article serait paru il y a trois jours si je n'étais pas tombé sur [2048](http://gabrielecirulli.github.io/2048/), le jeu addictif du moment. C'est un jeu tellement simple qu'il aurait du être inventé avant Pac-Man. Et on voit tout de suite comment faire : placer les puissances de 2 les unes à côté des autres pour former une chaîne croissante et propager ainsi les sommes pour arriver à former enfin, après 1024 coups au minimum, la tant convoitée pièce 2048. Il m'a fallu 3 jours. Enfin 3 soirs. 3 nuits...
 
 A un certain moment j'en ai eu marre et voulu utiliser la bonne vieille méthode pour résoudre les problèmes compliqués : programmer. Mais Matt Overlan a été plus rapide et efficace : [son solveur fonctionne très bien](http://ov3y.github.io/2048-AI/) et est très instructif. Je crois que c'est la première fois de ma vie qu'un ordinateur m'apprend à résoudre un casse-tête plutôt que l'inverse. Peu après avoir observé le solveur parvenir au 2048, j'ai appris à dominer ma tentation d'additionner coûte que coûte les nombres les plus élevés et à conserver des lignes ou des colonnes de 4 cases "bloquées", et j'ai gagné.
 

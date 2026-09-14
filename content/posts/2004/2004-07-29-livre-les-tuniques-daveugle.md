@@ -7,10 +7,10 @@ categories:
 tags: 
   - "livres"
   - "religion"
-coverImage: "3123422-L-1.jpg"
+coverImage: "./images/3123422-L-1.jpg"
 ---
 
-[![Les tuniques d'aveugle](images/3123422-L-1.jpg "View this title in Open Library")](http://openlibrary.org/books/OL12592164M/Les_tuniques_d'aveugle)
+[![Les tuniques d'aveugle](./images/3123422-L-1.jpg "View this title in Open Library")](http://openlibrary.org/books/OL12592164M/Les_tuniques_d'aveugle)
 
 J’ai failli me convertir au judaïsme après avoir lu cette merveille, mais à la réflexion il doit y avoir pas mal de juifs qui ne partagent pas la vision ouverte et progressiste que Paul Nothomb propose de l’homme en traduisant la Genèse directement de l’hébreu. Alors je suis resté agnostique mais persuadé que "les tuniques d’aveugle" décrivent bien mieux la condition humaine que les "peaux de bêtes" qu’Adam et Eve revêtirent dans le catéchisme de mon enfance.
 

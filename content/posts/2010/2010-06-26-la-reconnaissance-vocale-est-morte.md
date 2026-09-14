@@ -9,7 +9,7 @@ tags:
   - "futur"
   - "informatique"
   - "traduction"
-coverImage: "9a440aa4e1cd0fe13d8938d79cc00f26.jpg"
+coverImage: "./images/9a440aa4e1cd0fe13d8938d79cc00f26.jpg"
 ---
 
 D'après "2001 l'Odyssée de l'Espace", nos ordinateurs devraient comprendre notre voix depuis 9 ans. Depuis 1997, on trouve des logiciels de reconnaissance vocale pour PC, et depuis peu nos téléphones disposent de cette fonction. Mais on ne l'utilise pas. Je ne connais personne qui dicte ses e-mails, et vous ?
@@ -20,7 +20,7 @@ Robert Portner analyse cet échec dans  "[Rest in Peas: The Unrecognized Death 
 
 Le problème, c'est qu'après une phase de progrès rapides à la fin du siècle passé, le [taux d'erreur de mots](w:) plafonne à 10% depuis 2001 , soit environ le triple du taux d'erreur d'un être humain. Et encore, c'est pour l'anglais "standard". Le taux d'erreur est bien plus élevé pour d'autres langues, et catastrophique pour une conversation entre supporters de foot à la sortie du match.
 
-{{< figure src="images/892b91f37608e5959549c3c4a87512f4.png" alt="NIST_Benchmarks_revised.jpg.scaled1000" caption="Source: National Institute of Standards and Technology Benchmark Test History (1)" link="http://www.itl.nist.gov/iad/mig/publications/ASRhistory/index.html" align="aligncenter" width="480" >}}
+{{< figure src="./images/892b91f37608e5959549c3c4a87512f4.png" alt="NIST_Benchmarks_revised.jpg.scaled1000" caption="Source: National Institute of Standards and Technology Benchmark Test History (1)" link="http://www.itl.nist.gov/iad/mig/publications/ASRhistory/index.html" align="aligncenter" width="480" >}}
 
 Pourtant dans les années 1990, des systèmes très fiables avaient été mis au point pour distinguer quelques mots bien choisis dans des cockpits d'avion ou des chiffres au téléphone, et on s'était légitimement attendus à ce que la Loi de Moore permette de traiter rapidement le langage naturel. Et effectivement, aujourd'hui on sait bien reconnaitre des mots isolés. On sait à peu près éliminer les absurdités non conformes à la grammaire dans des phrases simples comme "le chat ment je la sous rit." Mais pour distinguer entre "le chas mange la souris", "le chat mange là, sous l'riz" et  "le chaman gela, sourit" et , il faut comprendre le sens de la phrase, voire le contexte dans lequel elle est prononcée...
 

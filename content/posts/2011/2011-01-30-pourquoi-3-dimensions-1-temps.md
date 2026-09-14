@@ -9,7 +9,7 @@ tags:
   - "geometrie"
   - "livres"
   - "temps"
-coverImage: "d316477e77f2fd3a91b5e00c35f4b159.png"
+coverImage: "./images/d316477e77f2fd3a91b5e00c35f4b159.png"
 ---
 
 Dans "[Why are past, present, and future our only options?](https://gizmodo.com/why-are-past-present-and-future-our-only-options-5655307)", [Dave Goldberg](http://www.physics.drexel.edu/~goldberg/) traite de la "question bête" d'un lecteur de son livre[[1]](#ref-1) qui se demande à quoi ressemblerait l'univers si le temps avait plus d'une dimension, et plus généralement, si la vie serait imaginable dans un univers à N≠3 dimensions. Voici quelques idées qu'il y développe, additionnées des miennes sur ce sujet.
@@ -36,7 +36,7 @@ Or justement cette prédictibilité n’apparaît que si les équations de cha
 
 Le tableau suivant résume les caractéristiques des univers selon leurs dimensions spatiales et temporelles selon Tegmark:
 
-[![](images/d316477e77f2fd3a91b5e00c35f4b159.png "stdims")](http://arxiv.org/PS_cache/gr-qc/pdf/9702/9702052v2.pdf)
+[![](./images/d316477e77f2fd3a91b5e00c35f4b159.png "stdims")](http://arxiv.org/PS_cache/gr-qc/pdf/9702/9702052v2.pdf)
 
 Notre univers n'est donc pas le résultat d'une expérience menée par des êtres à 4 dimensions, ou de dieux pour lesquels notre temps ne serait qu'une dimension parmi beaucoup d'autres. Nous ne sommes pas manipulés comme "La Linea", ça soulage...
 

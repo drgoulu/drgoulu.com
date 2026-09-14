@@ -5,18 +5,18 @@ date: 2007-05-26
 tags: 
   - "architecture"
   - "photo"
-coverImage: "de8a06b3f6661283ce7e9de3fa9e6bad.png"
+coverImage: "./images/de8a06b3f6661283ce7e9de3fa9e6bad.png"
 ---
 
 Et encore un autre photographe de génie trouvé sur Flickr : Sam Rohn enroule des panoramas photographiés sur 360°, ce qui donne ça:
 
-[![Planet Chicago - Millenium Park - Gehry](images/de8a06b3f6661283ce7e9de3fa9e6bad.png)](/2007/05/26/planetoids/planet-chicago-millenium-park-gehry/ "Planet Chicago - Millenium Park - Gehry")
+[![Planet Chicago - Millenium Park - Gehry](./images/de8a06b3f6661283ce7e9de3fa9e6bad.png)](/2007/05/26/planetoids/planet-chicago-millenium-park-gehry/ "Planet Chicago - Millenium Park - Gehry")
 
 à partir d'un panorama du Millenium Park de Chigaco, avec le Pavillon Pritzker de Franck Gehri:
 
 [](/2007/05/26/planetoids/millennium-park-a-chicago-avec-le-pavillion-pritzker-de-franck-gehri/ "Millennium Park à Chicago, avec le Pavillion Pritzker de Franck Gehri")
 
-[![Millennium Park à Chicago, avec le Pavillion Pritzker de Franck Gehri](images/4b84af402c93c17dd4c05497588a631f.png)](/2007/05/26/planetoids/millennium-park-a-chicago-avec-le-pavillion-pritzker-de-franck-gehri/ "Millennium Park à Chicago, avec le Pavillion Pritzker de Franck Gehri")
+[![Millennium Park à Chicago, avec le Pavillion Pritzker de Franck Gehri](./images/4b84af402c93c17dd4c05497588a631f.png)](/2007/05/26/planetoids/millennium-park-a-chicago-avec-le-pavillion-pritzker-de-franck-gehri/ "Millennium Park à Chicago, avec le Pavillion Pritzker de Franck Gehri")
 
 [](/2007/05/26/planetoids/millennium-park-a-chicago-avec-le-pavillion-pritzker-de-franck-gehri/ "Millennium Park à Chicago, avec le Pavillion Pritzker de Franck Gehri")
 

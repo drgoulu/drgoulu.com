@@ -9,7 +9,7 @@ tags:
   - "livres"
   - "physique"
   - "univers"
-coverImage: "890bf2c9ba11b096e427820f5c721cae.jpg"
+coverImage: "./images/890bf2c9ba11b096e427820f5c721cae.jpg"
 ---
 
 ["Oiseaux, merveilleux oiseaux"](http://www.hubertreeves.info/livres/oiseaux.html) d'Hubert Reeves parle de physique, d'astrophysique, de cosmologie et de Big Bang. Mais, comme dans "[Patience dans l'azur](http://www.hubertreeves.info/livres/patience.html)" et "[l'Heure de s'enivrer](http://www.hubertreeves.info/livres/lheure.html)" c'est surtout la description de la fantastique tendance de l'Univers vers la complexité qui émerveille.
@@ -18,7 +18,7 @@ Reeves parvient à décrire d'une manière imagée mais magnifiquement claire le
 
 A l'autre extrémité de la complexité, "Oiseaux, merveilleux oiseaux" soutient aussi une idée très importante relative à l'Evolution : la Vie développe plusieurs solutions distinctes et parallèles au même problème. Par exemple, la mouche, l'albatros et la chauve-souris volent tous, mais n'ont pas d'ancêtres communs volants : chaque espèce à développé le vol indépendamment, en développant des techniques distinctes.
 
-[![](images/890bf2c9ba11b096e427820f5c721cae.jpg)](http://flickr.com/photos/oldperegrine/873472940/)
+[![](./images/890bf2c9ba11b096e427820f5c721cae.jpg)](http://flickr.com/photos/oldperegrine/873472940/)
 
 Mais c'est le passage sur les sens de l'orientation des animaux migrateurs, en particulier des oiseaux qui montre ceci de la manière la plus surprenante:
 

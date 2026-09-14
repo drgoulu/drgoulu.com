@@ -10,7 +10,7 @@ tags:
   - "optimisation"
   - "production"
   - "simulation"
-coverImage: "Capture.png"
+coverImage: "./images/Capture.png"
 ---
 
 Une fois n'est pas coutume, je vais causer un petit peu boulot. Depuis quelques temps je m'occupe d'un système dynamique assez complexe : une usine de production de machines. Avec quelques collègues, nous y appliquons la "philosophie" [lean](w:), dont je suis pour ma part assez heureux de pouvoir valider les principes par quelques calculs et simulations avant de bouleverser les habitudes de gens employés dans la boite depuis 10x plus longtemps que moi.
@@ -23,7 +23,7 @@ _(Ajout du 9.12.2013_: comme le lien de téléchargement original ne fonctionne 
 
 Si j'en parle, c'est que j'ai le "high score" actuel : 68768\*. Voilà comment j'ai fait (spoiler alert ! essayez de faire mieux _avant_ de copier...) :
 
-{{< figure src="images/Capture.png" alt="Essayez de faire mieux... ou cliquez pour le film pour tricher" caption="Essayez de faire mieux... ou cliquez pour le film pour tricher" link=\"https://www.youtube.com/watch?v=fWkBvanJoz4\" align="aligncenter" width="622" >}}
+{{< figure src="./images/Capture.png" alt="Essayez de faire mieux... ou cliquez pour le film pour tricher" caption="Essayez de faire mieux... ou cliquez pour le film pour tricher" link=\"https://www.youtube.com/watch?v=fWkBvanJoz4\" align="aligncenter" width="622" >}}
 
 Le début du jeu sert à observer et à comprendre le flux, mais j'ai remarqué que ce n'est pas du tout évident, alors voici quelques infos utiles :
 

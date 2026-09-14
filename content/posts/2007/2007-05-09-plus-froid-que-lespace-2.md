@@ -8,10 +8,10 @@ categories:
 tags: 
   - "astro"
   - "physique"
-coverImage: "superfluid-helium.jpg"
+coverImage: "./images/superfluid-helium.jpg"
 ---
 
-{{< figure src="images/superfluid-helium.jpg" alt="RÃ©sultat de recherche d" >}}
+{{< figure src="./images/superfluid-helium.jpg" alt="RÃ©sultat de recherche d" >}}
 
 L'annonce du [refroidissement à moins de 2°K d'un bout du LHC](http://www.techno-science.net/?onglet=news&news=3853) m'a rappelé une anecdote sympa.
 

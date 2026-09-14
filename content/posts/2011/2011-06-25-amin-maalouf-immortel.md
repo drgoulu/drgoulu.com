@@ -8,7 +8,7 @@ tags:
   - "histoire"
   - "livres"
   - "religion"
-coverImage: "7890daf3a9aa78a370f3c8eb3902df02.jpg"
+coverImage: "./images/7890daf3a9aa78a370f3c8eb3902df02.jpg"
 ---
 
 L'Académie Française vient d'élire un auteur dont j'ai dévoré presque tous les livres : [Amin Maalouf](w:). D'après [la liste](w:Liste_des_membres_de_l'Académie_française_par_date_d'élection), le seul autre dans ce cas est Marcel Pagnol, élu en 1946. Autant dire que je ne suis pas un ventilateur\* de Littérature Française. D'ailleurs Maalouf n'est pas véritablement un auteur français, ne vous déplaise. Il est libanais, et ses racines orientales font de ses oeuvres de magnifiques ponts entre l'Histoire de l'Orient et l'Occident, entre les cultures de l'Islam et du Christianisme.
@@ -21,7 +21,7 @@ La carrière de Maalouf a débuté par un essai , "[Les Croisades vues par les A
 
 J'ai aussi lu "[Le Périple de Baldassare](http://books.google.fr/books?id=MFyNNQAACAAJ)", "[Les échelles du Levant](http://books.google.fr/books?id=twKXPQAACAAJ)" et "[Le Rocher de Tanios](http://books.google.fr/books?id=rcHmQwAACAAJ)", tous bien aussi, et "[Le premier siècle après Béatrice](http://books.google.fr/books?id=Rda4QgAACAAJ)" dans un registre assez différent, mais  mon préféré reste "[Samarcande](http://books.google.fr/books?id=c5oSHAAACAAJ)".
 
-{{< figure src="images/7890daf3a9aa78a370f3c8eb3902df02.jpg" link="http://www.flickr.com/photos/rafaelgomez/4038575996/in/photostream/" align="aligncenter" width="500" >}}
+{{< figure src="./images/7890daf3a9aa78a370f3c8eb3902df02.jpg" link="http://www.flickr.com/photos/rafaelgomez/4038575996/in/photostream/" align="aligncenter" width="500" >}}
 
 "Samarcande" nous plonge dans la Perse d'[Omar Khayyam](w:), poète, [mathématicien et astronome](w:Omar_Khayyam#Math.C3.A9maticien_et_astronome) du XIIème siècle, qui aurait certainement des ennuis en Iran de nos jours avec ses poèmes du genre:
 

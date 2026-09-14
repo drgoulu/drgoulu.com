@@ -7,12 +7,12 @@ categories:
 tags: 
   - "maths"
   - "physique"
-coverImage: "Une-voiture-dans-le-decor-pas-de-blesse_reference.jpg"
+coverImage: "./images/Une-voiture-dans-le-decor-pas-de-blesse_reference.jpg"
 ---
 
 Chaque fois que je tombe sur des théories physiques un peu exotiques comme la [Métrique d'Alcubierre](w:Métrique_d_Alcubierre), le [Big Bounce](w:) ou les [trous de ver](w:trou_de_ver), je repense à une anecdote survenue lors d'un examen de physique au [Collège Lycée de l'Abbaye de St-Maurice.](w:Lycée-collège_de_l_Abbaye_de_Saint-Maurice).
 
-{{< figure src="images/Une-voiture-dans-le-decor-pas-de-blesse_reference.jpg" alt="Mathématiquement, il suffit d'attendre un moment ..." caption="Mathématiquement, il suffit d'attendre un moment ..." width="480" >}}
+{{< figure src="./images/Une-voiture-dans-le-decor-pas-de-blesse_reference.jpg" alt="Mathématiquement, il suffit d'attendre un moment ..." caption="Mathématiquement, il suffit d'attendre un moment ..." width="480" >}}
 
 Contrairement à [Zinzin](/2008/08/24/nombres-acratopeges/), le très divertissant prof de maths, notre prof de physique était, en première approximation, un affreux cynique antipathique assénant des notes impitoyables à des élèves terrifiés. Le problème qu'il nous avait énoncé de sa voix nasillarde\* ce jour là était de ce genre:
 

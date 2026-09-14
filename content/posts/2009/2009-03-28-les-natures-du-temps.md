@@ -8,10 +8,10 @@ tags:
   - "physique"
   - "temps"
   - "theorique"
-coverImage: "3e2d028ba04d3e7947015c913bcb13a0.jpg"
+coverImage: "./images/3e2d028ba04d3e7947015c913bcb13a0.jpg"
 ---
 
-{{< figure src="images/3e2d028ba04d3e7947015c913bcb13a0.jpg" alt="Gear Work 2 par Curious Expeditions sur flickr" link="http://www.flickr.com/photos/curiousexpeditions/489992128/" >}}
+{{< figure src="./images/3e2d028ba04d3e7947015c913bcb13a0.jpg" alt="Gear Work 2 par Curious Expeditions sur flickr" link="http://www.flickr.com/photos/curiousexpeditions/489992128/" >}}
 
 "Gear Work 2" par Curious Expeditions sur flickr
 

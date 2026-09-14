@@ -8,10 +8,10 @@ tags:
   - "histoire"
   - "horlogerie"
   - "livres"
-coverImage: "fedfcc9693d6698f9440b7655114fad41-1.jpg"
+coverImage: "./images/fedfcc9693d6698f9440b7655114fad41-1.jpg"
 ---
 
-{{< figure src="images/fedfcc9693d6698f9440b7655114fad4.jpg" alt="le chronomètre H1 de John Harrisson © National Maritime Museum, Greenwich, London" caption="le chronomètre H1 de John Harrisson © National Maritime Museum, Greenwich, London" link="http://www.nmm.ac.uk/collections/explore/object.cfm?ID=ZAA0034" width="280" >}}
+{{< figure src="./images/fedfcc9693d6698f9440b7655114fad4.jpg" alt="le chronomètre H1 de John Harrisson © National Maritime Museum, Greenwich, London" caption="le chronomètre H1 de John Harrisson © National Maritime Museum, Greenwich, London" link="http://www.nmm.ac.uk/collections/explore/object.cfm?ID=ZAA0034" width="280" >}}
 
 Je viens de transférer "Longitude : l'histoire vraie du génie solitaire qui résolut le plus grand problème scientifique de son temps"[[1]](#ref-1) de la liste "bouquin à lire un jour" à la liste "bouquins lus et vivement recommandés".
 

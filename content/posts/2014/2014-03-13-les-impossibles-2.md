@@ -8,7 +8,7 @@ tags:
 - philosophie
 - physique
 draft: true
-coverImage: "e2f973ebc3d7cbd940ca9a9e3ff9cb74.jpg"
+coverImage: "./images/e2f973ebc3d7cbd940ca9a9e3ff9cb74.jpg"
 ---
 En 1900, le mathématicien Hilbert proposa [23 problèmes](w:Problèmes_de_Hilbert) devant être résolus au XXème siècle. Les deux premiers sont liés à la "révolution de la logique" mentionnée dans la [première partie](/2014/02/02/les-impossibles-1/) de cette réflexion sur ce qui est scientifiquement impossible. Suite à ceci, les mathématiciens savent désormais qu'il leur sera toujours possible de formuler des théorèmes impossibles à démontrer quels que soient les axiomes qu'ils adoptent. Mais le [sixième problème de Hilbert](w:) qui visait à appliquer une démarche similaire à la physique n'a toujours pas été résolu : on n'a pas réussi à définir les "axiomes de la physique". Les difficultés ont été multiples. Pour commencer, la notion de "[vérité](w:Vérité#Diff.C3.A9rents_sens)" diffère entre mathématiciens et physiciens. En logique, le "vrai" est purement formel : les axiomes sont admis comme "vrais" par définition, et tout ce qui en découle logiquement par les théorèmes (démontrés) est alors qualifié de "vrai".
 
@@ -25,7 +25,7 @@ En physique, le but est de construire une théorie dans laquelle ce qui est "vra
 - les [deux postulats d'Einstein](w:Relativité_restreinte#Les_postulats_d.27Einstein_.281905.29) de la relativité restreinte
 - etc.
 
-[![](images/e2f973ebc3d7cbd940ca9a9e3ff9cb74.jpg)](http://mathematicianspictures.com/sp_Quantum%20Physics%20of%20Creation.htm)Ces principes physiques diffèrent des axiomes mathématiques encore par plusieurs aspects:
+[![](./images/e2f973ebc3d7cbd940ca9a9e3ff9cb74.jpg)](http://mathematicianspictures.com/sp_Quantum%20Physics%20of%20Creation.htm)Ces principes physiques diffèrent des axiomes mathématiques encore par plusieurs aspects:
 
 - Les principes ne sont pas indépendants les uns des autres : certains sont le résultats de la combinaison d'autres, voire des reformulations. Par exemple, le [théorème d'Emmy Noether](w:Théorème_de_Noether_(physique)), collaboratrice de Hilbert, démontre mathématiquement l'équivalence entre les [lois de conservation](w:) et les invariances par symétrie ou translation telles que celles résultant du principe cosmologique.
 - Les principes ne sont pas démontrés, mais pas indémontrables non plus. Il n'est pas exclu qu'ils soient démontrés un jour vu ce qui précède. Par contre ils sont pour la plupart parfaitement vérifiés expérimentalement.
@@ -37,7 +37,7 @@ Ensuite, la physique manipule des "[grandeurs physiques](w:grandeur_physique)" a
 
 ### Les impossibilités techniques
 
-[![](images/8c646269686ac4b489e918a1732f919c.jpg)](http://blog.netinfluence.com/2013/02/20/desirer-limpossible-cultiver-linnovation/)
+[![](./images/8c646269686ac4b489e918a1732f919c.jpg)](http://blog.netinfluence.com/2013/02/20/desirer-limpossible-cultiver-linnovation/)
 
 Joli ! et de Sandrine en plus !
 

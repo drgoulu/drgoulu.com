@@ -8,10 +8,10 @@ tags:
   - "humour"
   - "politique"
   - "societe"
-coverImage: "033ba11295e1dcce648863722abf709b.jpg"
+coverImage: "./images/033ba11295e1dcce648863722abf709b.jpg"
 ---
 
-{{< figure src="images/033ba11295e1dcce648863722abf709b.jpg" >}}
+{{< figure src="./images/033ba11295e1dcce648863722abf709b.jpg" >}}
 
 L'affaire a largement débordé le Québec, terre natale des géniales [Têtes à Claques](http://www.tetesaclaques.tv) qui font marrer tous les francophones munis d'une connexion internet et d'un décodeur d'accent intégré (j'en ai déjà parlé [ici](/2006/12/23/tetes-a-claques/)) : plusieurs groupes de lutte contre les discriminations comme [La ligue des Noirs du Québec](http://www.liguedesnoirs.org/) emmenés par [Québec Pluriel](http://www.quebecpluriel.com) ont exigé le retrait du sketch "[Le Cannibale](http://www.tetesaclaques.tv/le_cannibale_vid52)" au motif qu'il était raciste, et menacé de poursuivre les auteurs en Justice.
 

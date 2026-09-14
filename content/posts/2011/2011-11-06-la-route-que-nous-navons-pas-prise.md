@@ -8,12 +8,12 @@ tags:
   - "fiction"
   - "pseudo"
   - "science"
-coverImage: "e1a66eb59353f1769ce72d31701ad351.jpg"
+coverImage: "./images/e1a66eb59353f1769ce72d31701ad351.jpg"
 ---
 
 A la base, c'est le titre de l'article "[One weird theory could make anti-gravity and faster-than-light travel possible](http://io9.com/5855461/one-weird-theory-could-make-anti+gravity-and-faster+than+light-travel-possible)" d'io9 qui m'a fait bondir. Aucune théorie ne "permet" ou "rend possible" quelque chose. Les théories décrivent en langage humain les lois de l'Univers, et ce sont elles seules qui fixent les limites. Si la théorie permet quelque chose que l'Univers interdit, ou vice-versa, c'est une mauvaise théorie. Je ne sais pas si la [théorie de Heim](w:) mentionnée dans l'article a été formellement infirmée, mais tant qu'elle n'aura pas été confirmée expérimentalement, elle ne "permet" rien du tout.
 
-![](images/e1a66eb59353f1769ce72d31701ad351.jpg)Sauf de rêver.
+![](./images/e1a66eb59353f1769ce72d31701ad351.jpg)Sauf de rêver.
 
 Grâce à un commentaire de l'article, j'ai découvert "The Road Not Taken"\*, une nouvelle de science-fiction d'[Harry Turtledove](w:) écrite en 1985, et que l'on peut trouver dans les ouvrages cités en référence, ou en ligne en cherchant bien... Voici ses 18 pages résumées en quelques lignes.
 

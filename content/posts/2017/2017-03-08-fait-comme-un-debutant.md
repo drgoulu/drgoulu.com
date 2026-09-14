@@ -7,7 +7,7 @@ tags:
 - python
 - securite
 draft: true
-coverImage: "security.png"
+coverImage: "./images/security.png"
 ---
 Je me suis fait avoir comme un débutant (que je suis). J'ai reçu un e-mail très courtois m'invitant à participer à [une étude décrite ainsi](https://userstudies.cs.uni-saarland.de/pythonstudy-explanation/) :
 
@@ -29,7 +29,7 @@ Pour chacune des questions ci-dessus, il fallait qualifier 3 affirmations :
 
 Voilà. Si vous comprenez pourquoi, essayez de me pardonner et veuillez ne pas lire la suite pour ne pas remuer le couteau dans la plaie.
 
-[![](images/security.png)](https://xkcd.com/538/)
+[![](./images/security.png)](https://xkcd.com/538/)
 
 Sinon, c'est pour vous que j'ai écrit ce mea culpa. En fait cette étude n'étudie pas Python comme elle le prétend, mais la sensibilité "naturelle" des programmeurs à la sécurité informatique, lorsqu'ils ne sont pas conscients d'écrire une application sensible nécessitant des précautions particulières.
 

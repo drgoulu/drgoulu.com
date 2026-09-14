@@ -9,7 +9,7 @@ tags:
   - "politique"
   - "sante"
   - "suisse"
-coverImage: "0ab5002eb0905a58eeb4fb81698bdb75.jpg"
+coverImage: "./images/0ab5002eb0905a58eeb4fb81698bdb75.jpg"
 ---
 
 A l'occasion de la réouverture du débat sur le financement de l'assurance maladie en Suisse, épeluchons quelques chiffres avant d'esquisser quelques idées.
@@ -18,11 +18,11 @@ A l'occasion de la réouverture du débat sur le financement de l'assurance mala
 
 Selon les données extraites du rapport "[Eco-Santé OCDE 2008](http://www.oecd.org/document/56/0,3343,fr_2649_34631_32566008_1_1_1_37407,00.html)" [[1]](#ref-1) et de ses "[notes par pays](http://www.oecd.org/document/55/0,3343,fr_2649_34631_35046839_1_1_1_1,00.html)", la situation n'a pas beaucoup évolué depuis [depuis 2004](/2007/02/09/les-couts-de-la-sante-en-suisse/) : la [Suisse](http://www.oecd.org/dataoecd/45/41/38980890.pdf) est toujours le pays de l'OCDE consacrant la plus grande part de son PIB (11.6% en 2004) à la santé, à part les [USA](http://www.oecd.org/dataoecd/46/2/38980580.pdf) (15.3%):
 
-{{< figure src="images/dc0d0a324cea1351b9c37d0cb8cd7d1e.png" alt="health9004" caption="Dépenses de santé en part du PIB, pays de l" link="http://www.oecd.org/dataoecd/5/23/36985416.pdf" align="aligncenter" width="496" >}}
+{{< figure src="./images/dc0d0a324cea1351b9c37d0cb8cd7d1e.png" alt="health9004" caption="Dépenses de santé en part du PIB, pays de l" link="http://www.oecd.org/dataoecd/5/23/36985416.pdf" align="aligncenter" width="496" >}}
 
 On voit également que l'augmentation des coûts a été générale, à l'exception de la [Finlande](http://www.oecd.org/dataoecd/42/44/40904932.pdf), seul pays qui est parvenu à stabiliser ses coûts sur 14 ans, le [Canada](http://www.oecd.org/dataoecd/46/33/38979719.pdf), la [Suède](http://www.oecd.org/dataoecd/46/6/38980334.pdf) et de [Danemark](http://www.oecd.org/dataoecd/42/44/40904932.pdf) y parvenant presque aussi. L'augmentation des coûts en Suisse est très nette jusqu'en 2004, mais les [chiffres des dernières années](http://www.bfs.admin.ch/bfs/portal/fr/index/themen/14/05/blank/key/internationaler_vergleich.html) montrent une stabilisation autour de 11% du PIB. Cette valeur est très proche de celle trouvée chez nos voisins de [France](http://www.oecd.org/dataoecd/45/20/38980771.pdf) ou [d'Allemagne](http://www.oecd.org/dataoecd/45/55/38979836.pdf). Les différences de pouvoir d'achat modifient légèrement la donne lorsqu'on compare les dépenses par habitant, en dollars [PPA](w:Parité_de_pouvoir_d'achat). Un [Norvégien](http://www.oecd.org/dataoecd/43/23/40905066.pdf) dépense autant en santé qu'un Suisse, mais nettement moins qu'un [Luxembourg](http://www.oecd.org/dataoecd/45/43/38980822.pdf)eois, comme on le voit ci-dessous :
 
-{{< figure src="images/d1ff24985deefd629b4cf7f50c1c4c57.png" alt="cout-sante" caption="Dépenses de santé publiques et privées par habitant, pays de l" link="http://www.oecd.org/dataoecd/5/22/36985438.pdf" align="aligncenter" width="498" >}}
+{{< figure src="./images/d1ff24985deefd629b4cf7f50c1c4c57.png" alt="cout-sante" caption="Dépenses de santé publiques et privées par habitant, pays de l" link="http://www.oecd.org/dataoecd/5/22/36985438.pdf" align="aligncenter" width="498" >}}
 
 Mais ce graphique montre un autre aspect intéressant : la répartition entre les coûts couverts par la collectivité (violet) et les dépenses privées (en bleu) varie beaucoup d'un pays à l'autre, sans qu'une corrélation visible ne permette de trouver un avantage à une solution plutôt qu'à une autre.
 
@@ -32,11 +32,11 @@ Aux USA, moins de la moitié (46%) de la facture de la santé est couverte par l
 
 Grâce à la médecine, on vit plus longtemps. On s'attend donc à une corrélation entre les dépenses de santé et l'espérance de vie, mais elle n'est pas très nette\*:
 
-[![cout_sante_esperancevie](images/55dcdbc62c522434bbe6a9d30bd157c8.png "cout_sante_esperancevie")](http://www.nationmaster.com/plot/hea_lif_exp_at_bir_tot_pop-life-expectancy-birth-total-population/hea_per_cap_tot_exp_on_hea_in_int_dol-capita-total-expenditure-international-dollars/flag)
+[![cout_sante_esperancevie](./images/55dcdbc62c522434bbe6a9d30bd157c8.png "cout_sante_esperancevie")](http://www.nationmaster.com/plot/hea_lif_exp_at_bir_tot_pop-life-expectancy-birth-total-population/hea_per_cap_tot_exp_on_hea_in_int_dol-capita-total-expenditure-international-dollars/flag)
 
 Certains pays comme la [Jordanie](http://www.nationmaster.com/country/jo-jordan/hea-health) atteignent aussi 80 ans d'espérance de vie, mais la santé n'y coûte que $140/habitant et par an seulement (soit 9.3% du PIB jordanien tout de même...), alors que plusieurs pays africains dépensent plus alors que les nouveaux-nés ne peuvent [espérer](/2007/06/26/statistiques-et-esperance-de-vie/) y vivre que 50 ans. Est-ce donc bien parce qu'on dépense de l'argent dans la santé qu'on vit plus vieux ? Ou est-ce parce qu'on vit vieux que la santé coûte cher ? La question est délicate à plus d'un titre, mais une chose est certaine : le cout de la santé varie énormément avec l'âge, comme le montre ce graphique tiré des statistiques suisses [[2]](#ref-2):
 
-[![relation âge/coût de la santé](images/f4e85b5d6d1a959372a01521850ba6c0.png "relation âge/coût de la santé")](/wp-content/uploads/HLIC/f4e85b5d6d1a959372a01521850ba6c0.png)La conséquence de ceci est qu'une petite augmentation de la part de personnes âgées dans la population correspond (dans les deux sens) à une forte augmentation des coûts de la santé. Ce n'est peut-être pas parce qu'il y a plus de médecins ou d'IRM que la santé coûte cher, mais parce qu'il y a plus de personnes (âgées) qui en ont besoin...
+[![relation âge/coût de la santé](./images/f4e85b5d6d1a959372a01521850ba6c0.png "relation âge/coût de la santé")](./images/f4e85b5d6d1a959372a01521850ba6c0.png)La conséquence de ceci est qu'une petite augmentation de la part de personnes âgées dans la population correspond (dans les deux sens) à une forte augmentation des coûts de la santé. Ce n'est peut-être pas parce qu'il y a plus de médecins ou d'IRM que la santé coûte cher, mais parce qu'il y a plus de personnes (âgées) qui en ont besoin...
 
 ### Comment réduire les coûts de la santé
 

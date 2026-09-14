@@ -10,10 +10,10 @@ tags:
   - "temps"
   - "theorique"
   - "trou-noir"
-coverImage: "4e33f9d9b863d16f7ddd3e4fa09660e3.jpg"
+coverImage: "./images/4e33f9d9b863d16f7ddd3e4fa09660e3.jpg"
 ---
 
-{{< figure src="images/27bf5cc2da41ae4eea2abd0a531ba54f.jpg" alt="An experimental sonic black hole par E8 Album HQR Initiative sur flickr.com" caption="&quot;An experimental sonic black hole&quot; par &quot;E8 Album HQR Initiative&quot; sur flickr.com" link="http://www.flickr.com/photos/e8albumdkmatai/4279809666/" align="alignleft" width="240" >}}
+{{< figure src="./images/27bf5cc2da41ae4eea2abd0a531ba54f.jpg" alt="An experimental sonic black hole par E8 Album HQR Initiative sur flickr.com" caption="&quot;An experimental sonic black hole&quot; par &quot;E8 Album HQR Initiative&quot; sur flickr.com" link="http://www.flickr.com/photos/e8albumdkmatai/4279809666/" align="alignleft" width="240" >}}
 
 C'est du moins ce qu'illustre Jarmo Mäkelä dans son essai "Is Reality Digital or Analog?" [[1]](#ref-1) qui a remporté le premier [prix du concours FQXi 2011](http://www.fqxi.org/community/essay/winners/2011.1) dont [je vous ai causé](/2011/03/30/la-realite-est-elle-digitale-ou-analogique/) il y a quelques mois.
 
@@ -23,7 +23,7 @@ Suivent deux pages de vulgarisation très bien faites sur la relativité et la m
 
 En résumé, un trou noir a une masse finie, une [entropie](w:) finie et la surface de son [horizon des événements](w:) est elle aussi finie. Pourtant  le calcul de la [fonction de partition](w:) d'un trou noir conduit à des fonctions divergentes qui n'ont pas de réalité physique, à moins de considérer que la surface de l'horizon des événements est constituée d'une somme (finie) de surfaces minuscules. Et puisque l'horizon des événements appartient à l'espace-temps "normal", alors toute surface dans l'espace-temps "normal" doit être discrète.
 
-{{< figure src="images/e9e4768f682cda8fe2bdedd296472e75.gif" alt="une brique d'espace-temps ?" caption="une brique d'espace-temps ?" width="252" >}}
+{{< figure src="./images/e9e4768f682cda8fe2bdedd296472e75.gif" alt="une brique d'espace-temps ?" caption="une brique d'espace-temps ?" width="252" >}}
 
 A la fin de son essai, Mäkelä va encore plus loin : à l'[échelle de Planck](w:longueur_de_Planck) où les notions de distance, de temps et de causalité n'ont plus de sens, son Newton propose de substituer un sorte de "surface de Planck". Il explique que dans l'espace temps, l'analogue du tétraèdre (4 sommets, 6 arètes, 4 triangles) est un "4-[simplexe](w:)" appelé aussi [pentachore](w:)". Cet objet a 5 sommets, et 10 arêtes qui forment aussi 10 triangles, ce qui permet exprimer la longueur des arêtes en fonction de la surface des triangles aussi bien que la surface des triangles en fonction de la longueur des arêtes. Dans un espace-temps découpé en "pentatopes", les notions de distance et de surface sont interchangeables !
 

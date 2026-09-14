@@ -10,7 +10,7 @@ tags:
   - "photo"
   - "relativite"
   - "trou-noir"
-coverImage: "SouthernCross.jpg"
+coverImage: "./images/SouthernCross.jpg"
 ---
 
 Cet article multipack regroupe deux sujets intéressants, et un qui sert juste à rendre l'inventaire exhaustif. Commençons par celui-là:
@@ -19,7 +19,7 @@ Cet article multipack regroupe deux sujets intéressants, et un qui sert juste �
 
 Deux constellations ont "une forme de croix" :
 
-- ![](images/SouthernCross.jpg)la [Croix du Sud](w:) permet de repérer le Sud approximatif si vous êtes perdus la nuit dans le désert australien, ou sur un voilier retourné au Cap Horn.
+- ![](./images/SouthernCross.jpg)la [Croix du Sud](w:) permet de repérer le Sud approximatif si vous êtes perdus la nuit dans le désert australien, ou sur un voilier retourné au Cap Horn.
 - Dans l'hémisphère Nord, on appelle parfois "Croix du Nord" la constellation du [Cygne](w:Cygne_(constellation)), une belle croix bien visible dans le ciel d'été hébergeant plusieurs nébuleuses intéressantes et faciles à observer, comme la [magnifique Voile](http://www.skyfactory.org/vela/vela.htm) dont j'ai déjà causé [ici.](/2007/12/13/meilleures-photos-astronomiques-2007/)
 
 mais ce dont je voulais principalement parler c'est...
@@ -28,7 +28,7 @@ mais ce dont je voulais principalement parler c'est...
 
 Les étoiles sont tellement éloignées qu'à part le Soleil, elles nous apparaissent toutes comme des points. Il n'y a que les [géantes comme Bételgeuse ou Antares](/2008/02/01/on-est-peu-de-chose/) qui apparaissent comme de vagues petites boules de quelques pixels sur les images des plus puissants télescopes. Mais alors pourquoi voit-on de grosses étoiles brillantes ornées de jolis "rayons" en forme de croix sur les photos astronomiques comme celle-ci :
 
-{{< figure src="images/f91fd32264ce5b96c19fb40088b76e72.jpg" alt="Grand Nuage de Magellan photographié par Hubble." caption="Grand Nuage de Magellan photographié par Hubble." link="http://www.spacetelescope.org/" align="aligncenter" width="400" >}}
+{{< figure src="./images/f91fd32264ce5b96c19fb40088b76e72.jpg" alt="Grand Nuage de Magellan photographié par Hubble." caption="Grand Nuage de Magellan photographié par Hubble." link="http://www.spacetelescope.org/" align="aligncenter" width="400" >}}
 
 C'est la faute de la [diffraction](w:), ou plutôt des inévitables imperfections optiques des instruments d'observation qui causent ce [phénomène optique compexe](w:Théorie_de_la_diffraction).
 
@@ -36,7 +36,7 @@ Sur un télescope, c'est principalement "l'araignée" composée des tiges fixant
 
 En observant les étoiles avec une lunette astronomique, composée de lentilles et non de miroirs, les étoiles n'ont en principe pas d'aigrettes. Certains amateurs trouvent ça dommage et ajoutent des fils de pêche croisés devant leur instrument pour [créer des aigrettes artificielles sur leurs belles photos](http://www.planete-powershot.net/photos/21747-nebuleuses.html).
 
-[![Nébuleuses, par fifouniou](images/cb10a7b00c4d108f911fff91d3e6650f.jpg)](http://www.planete-powershot.net/photos/21747-nebuleuses.html)
+[![Nébuleuses, par fifouniou](./images/cb10a7b00c4d108f911fff91d3e6650f.jpg)](http://www.planete-powershot.net/photos/21747-nebuleuses.html)
 
 A l'inverse, certains tentent d' [éliminer les aigrettes](http://serge.bertorello.free.fr/antiaigr/antiaigr.html) en cachant l'araignée avec des masques bien pensés, mais ils créent inévitablement d'autres effets de diffraction comme l'agrandissement de la tache constituant l'image de l'étoile.
 
@@ -50,11 +50,11 @@ Autre phénomène physique créant une croix dans notre ciel : la ["lentille gra
 
 La présence d'une masse importante entre un objet lumineux très éloigné et nous forme une gigantesque loupe naturelle, mais d'une piètre qualité : l'objet distant nous apparait fortement déformé, copié à de multiples exemplaires sur un motif en forme d'anneau dit "[anneau d'Einstein](w:en:Einstein_ring)" en l'honneur du Suisse qui [prédit](w:Tests_expérimentaux_de_la_relativité_générale#Pr.C3.A9diction_de_la_relativit.C3.A9_g.C3.A9n.C3.A9rale) que les rayons lumineux sont déviés par des masses, entre autres choses...
 
-{{< figure src="images/a709925b9e63a47c2b8a0a296169275d.jpg" alt="Une galaxie avec un noyau un peu bizarre ..." caption="Une galaxie avec un noyau un peu bizarre ..." link="http://www.eso.org/public/news/eso0847/" align="aligncenter" width="550" >}}
+{{< figure src="./images/a709925b9e63a47c2b8a0a296169275d.jpg" alt="Une galaxie avec un noyau un peu bizarre ..." caption="Une galaxie avec un noyau un peu bizarre ..." link="http://www.eso.org/public/news/eso0847/" align="aligncenter" width="550" >}}
 
 Dans le cas particulier ci-dessus, une galaxie se trouve pile dans l'axe d'un [quasar](w:) très lointain, dont l'image se retrouve en 4 exemplaires autour du noyau de la galaxie, formant une magnifique "Croix d'Einstein"
 
-![](images/1a5f3cb8d2119efbc200e1974894b48d.jpg)
+![](./images/1a5f3cb8d2119efbc200e1974894b48d.jpg)
 
 Récemment, une équipe Suisso-Germano-Etatsunienne \[3\] a combiné des images de la Croix d'Einstein observée pendant 3 ans pour tenir compte de la rotation de la galaxie, et de celles de la Terre autour du Soleil, qui causent de petites variations par "microlensing" de la Croix résultant du "macrolensing". Le principe est expliqué dans cette vidéo :
 

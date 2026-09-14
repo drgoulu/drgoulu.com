@@ -5,14 +5,14 @@ date: 2007-09-02
 tags: 
   - "art"
   - "graphisme"
-coverImage: "8b0388f13537d1eff72f04cebac3d609.jpg"
+coverImage: "./images/8b0388f13537d1eff72f04cebac3d609.jpg"
 ---
 
 Till Nowak est le graphiste allemand qui a commis ceci :
 
 [
 
-![](images/8b0388f13537d1eff72f04cebac3d609.jpg)
+![](./images/8b0388f13537d1eff72f04cebac3d609.jpg)
 
 ](http://www.framebox.de/creations/3d/salad/)
 

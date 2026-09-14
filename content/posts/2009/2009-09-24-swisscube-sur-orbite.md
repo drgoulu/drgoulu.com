@@ -7,18 +7,18 @@ categories:
 tags: 
   - "aerospace"
   - "suisse"
-coverImage: "d3a02cc5c033301b874f1cfe4c4688201.jpg"
+coverImage: "./images/d3a02cc5c033301b874f1cfe4c4688201.jpg"
 ---
 
 Le satellite [SwissCube](http://swisscube.epfl.ch/) conçu et construit par les étudiants de plusieurs écoles d'ingénieurs suisses a été lancé avec succès hier par une fusée indienne, et en plus il fonctionne !
 
 SwissCube est un [CubeSat](http://www.cubesat.org/), une norme définissant des mini satellites d'une taille de 10 x 10 x 10 cm et d'une masse max. de 1 kg (SwissCube ne fait que 820 grammes). Ce format permet de grouper plusieurs CubeSats  dans un conteneur, ce qui rend le lancement d'un satellite "abordable" pour une bande de passionnés soutenus par quelques sponsors.
 
-![SwissCube copyright Laurent Gillieron - keystone](images/d3a02cc5c033301b874f1cfe4c468820.jpg "SwissCube copyright Laurent Gillieron - keystone")
+![SwissCube copyright Laurent Gillieron - keystone](./images/d3a02cc5c033301b874f1cfe4c468820.jpg "SwissCube copyright Laurent Gillieron - keystone")
 
 Malgré sa petite taille, SwissCube est un satellite scientifique complet, embarquant un système d'observation d'un phénomène peu connu : l'" [airglow](w:en)", ou "[lumière du ciel nocturne](w:)". Il s'agit d'une faible luminescence de la haute atmosphère, assez semblable aux aurores boréales, souvent observé par les astronautes.
 
-[![anim-airglow](images/a76b12646e9e65a904666234f8752db4.gif "anim-airglow")](images/a76b12646e9e65a904666234f8752db4.gif)l'"airglow" est principalement du à la recombinaison nocturne de l'Oxygène dissocié par le rayonnement solaire.
+[![anim-airglow](./images/a76b12646e9e65a904666234f8752db4.gif "anim-airglow")](./images/a76b12646e9e65a904666234f8752db4.gif)l'"airglow" est principalement du à la recombinaison nocturne de l'Oxygène dissocié par le rayonnement solaire.
 
 Pour observer et mesurer l'airglow pendant 3 mois, voire une année si tout va bien, SwissCube emporte une caméra qui transmet ses images vers la Terre. Il emporte donc un émetteur radio dont les signaux sont reçus non seulement par l'EPFL, mais par une armée de [radio amateurs](http://swisscube-live.ch/Home/RadioAmateurs) dont [Von](http://www.hb9afo.ch/swisscube/), un copain passionné qui a contribué à la conception du système de télécommunication (Bravo ! ça marche !)
 

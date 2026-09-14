@@ -10,12 +10,12 @@ tags:
   - "monde"
   - "societe"
   - "suisse"
-coverImage: "382eab9bc9a7fb3838c9a892ac66c40b.png"
+coverImage: "./images/382eab9bc9a7fb3838c9a892ac66c40b.png"
 ---
 
 La "[société à 2000 Watts](http://www.societe2000watts.com/)" est un concept élaboré à l'EPFZ consistant uniformiser la consommation totale d'énergie de chaque habitant de la planète à 2000 Watts de puissance continue, soit  une énergie de 17'500 KWh ou 2'700 litres de pétrole par an. L'étude estime qu'en couvrant la production d'énergie correspondante avec 75% d'énergie renouvelable, les 25% issus d'énergies fossiles seront écologiquement supportables. La "société à 2000 Watts" est ainsi devenue le principe directeur du programme énergétique suisse, sous l'impulsion de  Moritz Leuenberger [[1]](#ref-1) . En Europe, la consommation d'énergie correspond à environ 6000W par personne. Il s'agirait donc de réduire notre consomation d'énergie de 2/3, alors que les états-uniens devraient diminuer la leur d'un facteur 6, tout en laissant le reste du monde se développer un peu:
 
-![](images/b660033525fb9435f5690792454a8e99.gif)
+![](./images/b660033525fb9435f5690792454a8e99.gif)
 
 Les presque 7 milliards d'humains consomment actuellement une puissance de l'ordre de 15 TeraWatt, soit à peine plus que 2000 W par personne en moyenne [[3]](#ref-3). Nous avons donc déjà une "société à 2000 Watts" à l'échelle planétaire.
 
@@ -32,7 +32,7 @@ Le même raisonnement existe avec les éoliennes, qui pourraient fournir 5x la c
 
 Le problème, c'est que de nombreuses données montrent qu'une amélioration de l'efficacité énergétique crée une augmentation de la consommation d'énergie, et non sa diminution ! Ce paradoxe est connu sous le nom de "postulat de Khazzoom-Brookes" [[5]](#ref-5)
 
-[![khazzoom1](images/463c13f3d56fcadfe415bea932fc698d.png "khazzoom1")](http://research.cibcwm.com/economic_public/download/snov07.pdf)
+[![khazzoom1](./images/463c13f3d56fcadfe415bea932fc698d.png "khazzoom1")](http://research.cibcwm.com/economic_public/download/snov07.pdf)
 
 L'idée est la suivante : en augmentant l'efficacité énergétique d'un produit ou d'un service, il devient moins cher, donc plus de personnes peuvent se l'offrir, donc on consomme plus que ce qu'on économise ... Parmi les nombreux exemples, on peut citer le [procédé de Bessemer](w:) qui permit  de réduire d'un facteur 3 la quantité de charbon cramée par tonne d'acier, ce qui sonna le début de la production en masse d'acier au début de l'ère industrielle.
 

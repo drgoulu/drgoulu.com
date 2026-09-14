@@ -9,10 +9,10 @@ tags:
   - "helium"
   - "pour-la-science"
   - "trou-noir"
-coverImage: "f397413ccff9b4f42723b306fb6492c81-1.jpg"
+coverImage: "./images/f397413ccff9b4f42723b306fb6492c81-1.jpg"
 ---
 
-{{< figure src="images/f397413ccff9b4f42723b306fb6492c8.jpg" link="http://www.pourlascience.fr/ewb_pages/s/sommaire_pls.php?art_id=30427&num=420" >}}
+{{< figure src="./images/f397413ccff9b4f42723b306fb6492c8.jpg" link="http://www.pourlascience.fr/ewb_pages/s/sommaire_pls.php?art_id=30427&num=420" >}}
 
 Si vous n'êtes pas abonné, le numéro de ["Pour la Science" No 420](http://www.pourlascience.fr/ewb_pages/s/sommaire_pls.php?art_id=30427&num=420) d'octobre vaut une visite chez votre marchand de journaux.
 

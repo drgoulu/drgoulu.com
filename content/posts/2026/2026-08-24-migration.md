@@ -1,14 +1,17 @@
 ---
 title: 'Migration : de Wordpress à Hugo'
-slug: migration
-date: 2026-08-24T16:30:48+02:00
+date: 2026-08-24
 draft: false
-summary: drgoulu.com ressuscite en migrant de  WordPress à Hugo
+slug: migration
+coverImage: "./images/2a62d67153ec2834b7d7f23250a1c260-1.jpg"
 tags:
   - Wordpress
   - Hugo
-coverImage: 2a62d67153ec2834b7d7f23250a1c260-1.jpg
+categories:
+  - Comment
+summary: drgoulu.com ressuscite en migrant de  WordPress à Hugo
 ---
+
 Après plusieurs années de quasi abandon, j'ai décidé de faire revivre ce site pour plusieurs raisons :
 
 1. il tombait en loques et c'était dommage
@@ -44,9 +47,13 @@ Après avoir demandé un [tableau comparatif à une IA](https://share.google/aim
 
 Pour créer un site, on tape dans un shell :
 
-{{< highlight "bash" >}}# Requires Node.js
+{{< highlight bash >}}
+
+# Requires Node.js
 npm install -g hugoblox
-hugoblox create site{{< /highlight >}}
+hugoblox create site
+
+{{< /highlight >}}
 
 et on remplit les champs, et on obtient un dossier de projet avec tout ce qu'il faut dedans.
 
@@ -60,7 +67,8 @@ Un petit site peut d'ailleurs être très facilement être <a href="https://gohu
 
 Donc j'ai plutôt choisi de n'utiliser GitHub que comme repo du projet source (et images...) et de lancer les build en local pousser uniquement le dossier "public" avec les pages HTML générées chez Infomaniak, avec un "hook" qui les met au bon endroit :
 
-{{< highlight "bash" >}}#!/bin/sh
+{{< highlight bash >}}
+#!/bin/sh
 # ----------------------------------------------------------------------
 # ~/git_depot/drgoulu.git/hooks/post-receive
 # Hook post-receive : Déploiement direct des fichiers statiques compilés
@@ -81,7 +89,7 @@ echo "✅ Site Hugo mis à jour avec succès !"
 
 ### Markdown
 
-Markdown est  l'inconvénient majeur des générateurs de sites statiques , et probablement ce qui limite encore Hugo et ses copains par rapport à WordPress : il n'est pas [wysiwyg](w:). Même si <a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noopener">sa syntaxe</a> rend le texte plus visuel que du HTML, on ne voit pas le résultat final.
+Markdown est  l'inconvénient majeur des générateurs de sites statiques , et probablement ce qui limite encore Hugo et ses copains par rapport à WordPress : il n'est pas [wysiwyg](w:). Même si [sa syntaxe](https://www.markdownguide.org) rend le texte plus visuel que du HTML, on ne voit pas le résultat final.
 
 L'approche standard est d'utiliser des plugins de VSCode qui lancent un serveur local et affichent des prévisualisations de la page qu'on édite à chaque "save" de celle-ci
 
@@ -92,7 +100,7 @@ Sinon, il existe bien des choses comme [Cloudcannon](cloudcannon.com), un édite
 
 Et il fait un rendu un peu intermédiaire, certaines choses étant wysiwyg et d'autres pas. Voici par exemple un extrait du présent article tel que je le vois dans Cloudcannon:
 
-![](/uploads/cloudcannon.png)
+![](./images/cloudcannon.png)
 
 ### Les Shortcodes
 
@@ -112,11 +120,11 @@ Le plus incroyable s'est produit lorsque je lui ai demandé de retrouver des ima
 
 a transformé ça :
 
-![](/uploads/avant.png)
+![](./images/avant.png)
 
 en ça :
 
-$$\\text\{slerp\}(v\_0, v\_1, t) = \\frac\{\\text\{sin\_over\_x\}((1-t)a)\}\{\\text\{sin\_over\_x\}(a)\} (1-t) v\_0 + \\frac\{\\text\{sin\_over\_x\}(ta)\}\{\\text\{sin\_over\_x\}(a)\} t v\_1$$
+$$\text{slerp}(v_0, v_1, t) = \frac{\text{sin_over_x}((1-t)a)}{\text{sin_over_x}(a)} (1-t) v_0 + \frac{\text{sin_over_x}(ta)}{\text{sin_over_x}(a)} t v_1$$
 
 et
 
@@ -124,11 +132,14 @@ et
 
 a transformé ça :
 
-![](/uploads/avant-code.png)
+![](./images/avant-code.png)
 
 en ça :
 
-{{< highlight "python" >}}def r(a): i=a.find('0') if i<0:print a [m in[(i-j)%9*(i/9^j/9)*(i/27^j/27|i%9/3^j%9/3)or a[j]for j in range(81)]or r(a[:i]+m+a[i+1:])for m in`14**7*9`]r(raw_input()){{< /highlight >}}
+{{< highlight python >}}
+
+def r(a): i=a.find('0') if i<0:print a [m in[(i-j)%9*(i/9^j/9)*(i/27^j/27|i%9/3^j%9/3)or a[j]for j in range(81)]or r(a[:i]+m+a[i+1:])for m in`14**7*9`]r(raw_input())
+{{< /highlight >}}
 
 (mauvais exemple car le code est sur une seule ligne...)
 
@@ -150,7 +161,7 @@ Uncaught Error: parseColor received unparseable color: oklch(...)
 
 Pour isoler Disqus des styles `oklch` globaux, des règles CSS explicites ont été ajoutées dans `assets/css/custom.css` afin de forcer des formats de couleurs traditionnels (Hex / RGB) sur le conteneur `#disqus_thread`, son texte d'arrière-plan et ses liens internes (`#disqus_thread a`), pour les thèmes clair et sombre :
 
-```css
+{{< highlight css >}}
 /* Forcer des couleurs standards (Hex/RGB) pour Disqus */
 #disqus_thread,
 #disqus_thread * {
@@ -189,4 +200,4 @@ Pour isoler Disqus des styles `oklch` globaux, des règles CSS explicites ont é
 .dark .dsq-brlink a {
   color: #60a5fa !important;
 }
-```
+{{< /highlight >}}

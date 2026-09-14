@@ -8,11 +8,11 @@ tags:
   - nombres
   - programmation
   - python
-coverImage: 220px-Munchhausen-AWille.jpg
+coverImage: "./images/220px-Munchhausen-AWille.jpg"
 draft: false
 ---
 
-{{< figure src="images/220px-Munchhausen-AWille.jpg" alt="Le baron de Münchausen se déplaçait en chevauchant des boulets de canon..." caption="Le baron de Münchausen se déplaçait en chevauchant des boulets de canon..." width="220" >}}
+{{< figure src="./images/220px-Munchhausen-AWille.jpg" alt="Le baron de Münchausen se déplaçait en chevauchant des boulets de canon..." caption="Le baron de Münchausen se déplaçait en chevauchant des boulets de canon..." width="220" >}}
 
 8208 est un [nombre narcissique](w:) parce que 8208 = 84 + 24 + 04 + 84  : il est égal à la somme de ses chiffres élevée à la puissance correspondant au nombre de ses chiffres. Il y en a beaucoup ([A005188](https://oeis.org/A005188)) mais pas une infinité : 115132219018763992565095597973971522401 est le plus grand
 

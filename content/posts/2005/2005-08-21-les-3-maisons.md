@@ -7,12 +7,12 @@ categories:
 tags: 
   - "casse-tetes"
   - "graphes"
-coverImage: "867ce3748efea645e2ab17c446524388.jpg"
+coverImage: "./images/867ce3748efea645e2ab17c446524388.jpg"
 ---
 
 Comment amener l’eau, le gaz et l’électricité depuis les 3 usines correspondantes vers 3 maisons sans que les tuyaux et câbles correspondants ne se croisent sur un plan ?
 
-![](images/867ce3748efea645e2ab17c446524388.jpg)
+![](./images/867ce3748efea645e2ab17c446524388.jpg)
 
 C’est le genre de casse-tête qui m’énerve, surtout si on me dit qu’il existe une solution.
 

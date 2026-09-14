@@ -12,7 +12,7 @@ tags:
   - "science"
   - "simpson"
   - "usa"
-coverImage: "simpson_fermat.gif"
+coverImage: "./images/simpson_fermat.gif"
 
 aliases:
   - "/2010/03/08/20-ans-de-science-simpson/"
@@ -24,7 +24,7 @@ Pour les 20 ans des [Simpson](w:Les_Simpson) , [Marge pose dans Playboy](http://
 
 Il faut dire que [beaucoup d'auteurs d'épisodes ont des formations scientifiques](http://mathsci2.appstate.edu/~sjg/simpsonsmath/degrees.html), comme [David X. Cohen](w:) diplômé en physique de Harvard et en informatique de Berkeley \[5\].  C'est à lui qu'on doit l'égalité 1782¹² + 1841¹² = 1922¹² devant laquelle Homer passe sans sourciller en entrant dans la 3ème dimension (séquence "Homer³" de l'épisode S07E06)
 
-![](images/ed01255774ecaa1f2fca34ada814f160.gif)
+![](./images/ed01255774ecaa1f2fca34ada814f160.gif)
 
 Mais vous qui savez que le [dernier théorème de Fermat](https://fr.wikipedia.org/wiki/dernier théorème_de_Fermat) dit qu'il n'existe pas de solution de l'équation an+bn\=cn pour a,b,c,n entiers et n>2, vous bondissez sur votre calculatrice et, ô stupeur, vous croyez l'espace qu'il existe un contre exemple invalidant la démonstration de plusieurs centaines de pages due à [Andrew Wiles](w:) ! En réalité il s'agit d'un hommage à ce résultat impressionnant publié en 1994 quelques semaines avant l'épisode des Simpson, et il faut effectuer le calcul avec beaucoup de chiffres significatifs ou être assez observateur \[5\] pour voir que l'égalité est fausse.
 
@@ -50,7 +50,7 @@ En effet, on trouve dans la série les avatars de véritables scientifiques, et 
 
 Et surtout il y a [Stephen Hawking](w:), physicien cosmologiste  a dit des Simpson que c'était la  ["meilleure chose sur la télévision américaine"](http://www.youtube.com/watch?v=ei-pKsNiINk). Il a participé à trois épisodes (S10E22, S16E16, S18E20) , notamment en utilisant sa voix synthétique lors d'une discussion avec Homer sur  la topologie en donut de l'Univers.
 
-![](images/bac742c6f317ecf5a1e39a86175dfe91.jpg)
+![](./images/bac742c6f317ecf5a1e39a86175dfe91.jpg)
 
 Dans les Simpson, les références sont souvent très discrètes, à l'intention du public qui peut les percevoir, mais sans frustrer ou ennuyer les autres. Par exemple, la célèbre formule d'Einstein apparait dès le deuxième épisode (S01E02), oùt Maggie, un an écrit MCSQU (MC squared, MC²) avec ses blocs de jeu.
 
@@ -70,7 +70,7 @@ Lisa se retrouve au tribunal, accusée d'avoir abimé l'ange pour envoyer un éc
 
 Outre le nucléaire dont nous parlerons plus bas, les questions environnementales sont fréquemment abordées dans les Simpson. Souvent Lisa se préoccupe d'un problème grave, mais se retrouve seule contre tous ses concitoyens. Par exemple elle devient végétarienne (S07E05) alors que son cours sur la chaine alimentaire est pourtant clair:
 
-![](images/bd7dffc205843f56e0320cf58248d6e2.jpg)
+![](./images/bd7dffc205843f56e0320cf58248d6e2.jpg)
 
 Elle s'oppose aussi au pourtant très populaire et traditionnel massacre des serpents (S04E20), et se montre sceptique sur l'intervention humaine dans les processus naturels (S10E03) :
 
@@ -88,7 +88,7 @@ La centrale nucléaire de Springfield est le véritable poumon économique de la
 
 Évidemment, Springfield frôle plusieurs fois la catastrophe. On apprend même que le père de [Smithers](http://www.simpsonspark.com/personnages/serie_perso_smithers.php) avait sacrifié sa vie pour sauver la centrale (S13E05). Homer, quant à lui, évite de justesse un accident majeur que sa fainéantise avait déclenché (S07E07), ce qui lui vaut les félicitations de Mr. Burns: "Homer, vous avez promptement réagit et fait d’un Tchernobyl un petit pétard radioactif foireux, bravo!"
 
-![](images/22fa65bd1e4a1b466069262d1fe09941.jpg)
+![](./images/22fa65bd1e4a1b466069262d1fe09941.jpg)
 
 Lorsqu' apparaissent des poissons à trois yeux (S02E04) et que 342 manquements à la sécurité sont constatés, Mr. Burns fait la seule chose raisonnable pour éviter la fermeture de sa centrale : devenir gouverneur de l'Etat afin de changer la loi. Dans ce but il produit un clip électoral remarquable:
 

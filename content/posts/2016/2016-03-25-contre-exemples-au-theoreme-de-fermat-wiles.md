@@ -11,10 +11,10 @@ tags:
   - "programmation"
   - "python"
   - "simpson"
-coverImage: "18-Homer-Simpson.jpg"
+coverImage: "./images/18-Homer-Simpson.jpg"
 ---
 
-{{< figure src="images/simpson_fermat.gif" alt="simpson_fermat" >}}
+{{< figure src="./images/simpson_fermat.gif" alt="simpson_fermat" >}}
 
 [Andrew Wiles](w:) vient de remporter le [Prix Abel](w:) pour sa démonstration du [Grand théorème de Fermat](w:) qui dit qu’il n’existe pas de solution de l’équation an+bn\=cn pour a,b,c,n entiers et n>2. Pourtant _<mauvaise foi=on>_ :
 
@@ -26,7 +26,7 @@ Cette égalité est due à [David X. Cohen](w:), matheux et co-scénariste de c
 Mais en fait non:
 
 - Avec plus de décimales ou Python, on voit que le terme de gauche vaut 2541210258614589176288669958142428526657 et celui de droite 2541210259314801410819278649643651567616. Ca fait une gigantesque différence de 700212234530608691501223040959, mais comme elle représente moins d'un milliardième des nombres précédents (2.75 10\-10 pour être précis), une bête calculatrice du siècle passé qui ne calculait qu'avec 9 chiffres significatifs ou en nombres flottants sur 32 bits pouvait considérer ce chiffre comme comparativement négligeable.
-- {{< figure src="images/18-Homer-Simpson.jpg" alt="quatre grands problèmes scientifiques résolus sur un seul tableau !" caption="quatre grands problèmes scientifiques résolus sur un seul tableau !" width="420" >}}
+- {{< figure src="./images/18-Homer-Simpson.jpg" alt="quatre grands problèmes scientifiques résolus sur un seul tableau !" caption="quatre grands problèmes scientifiques résolus sur un seul tableau !" width="420" >}}
     
     En y regardant de plus près, on voit tout de suite que l'égalité est fausse car comme 1782 est pair, 1782¹² l'est aussi et comme 1841¹² est impair pour les mêmes raisons, la somme 782¹² + 1841¹² est impaire. Or 1922¹²  est pair...
 

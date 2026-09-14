@@ -12,7 +12,7 @@ tags:
   - "media"
   - "statistiques"
   - "video"
-coverImage: "odds-in-your-favor.jpg"
+coverImage: "./images/odds-in-your-favor.jpg"
 ---
 
 Quelles sont les chances que vous buviez de l'eau déjà bue à un moment précis par une personne précise, disons dans le premier café pris par le Président Abraham Lincoln après son élection ?

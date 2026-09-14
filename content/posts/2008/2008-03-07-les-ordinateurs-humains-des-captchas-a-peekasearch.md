@@ -10,7 +10,7 @@ tags:
   - "internet"
   - "jeux"
   - "societe"
-coverImage: "476e8d964f6d6a08c1f2579b6745d7ad-1.png"
+coverImage: "./images/476e8d964f6d6a08c1f2579b6745d7ad-1.png"
 ---
 
 Tombé sur un interview de [Luis Von Ahn](http://www.cs.cmu.edu/~biglou/), un chercheur qui travaille sur un sujet qui me plait beaucoup : comment utiliser (gratuitement) la puissance des cerveaux humains, interconnectés par internet, pour faire des choses dont les ordinateurs ne sont pas capables ?
@@ -28,15 +28,15 @@ Luis Von Ahn a ainsi créé [PeekaSearch](http://www.peekaboom.org), un moteur d
 - Dans "[Phetch](http://www.peekaboom.org/phetch/)", un joueur "descripteur" décrit une image à quelques autres, qui doivent la chercher sur internet, avec Google par exemple. Le premier qui trouve la même image que celle du "descripteur" a gagné. Mais en fait ce sont les autres images qui sont intéressantes, puisqu'elles correspondent à la même description : elles peuvent donc être ajoutées au moteur de recherche...
 - Dans "[ESP Game](http://www.gwap.com/gwap/gamesPreview/espgame/)", deux personnes connectées en même temps doivent taper des mots (en anglais hélas) décrivant le contenu d'une image. Si elles tapent les deux le même mot, l'image change pour les joueurs, et le mot est ajouté à une liste des mots "tabous" de l'image pour une prochaine partie entre d'autres joueurs. peu à peu, la liste des mots "tabous" correspondra au contenu de l'image, ce qui permettra de faire des recherches sur des images, entre autres.
 
-![](images/476e8d964f6d6a08c1f2579b6745d7ad.png)
+![](./images/476e8d964f6d6a08c1f2579b6745d7ad.png)
 
-![](images/esp-game-cmu.jpg)
+![](./images/esp-game-cmu.jpg)
 
 - "[Peekaboo](http://www.peekaboom.org/)" est aussi un système de reconnaissance d'image à deux joueurs, mais là un des joueurs rèvèle peu à peu l'image à l'autre, qui doit reconnaître le mot décrivant l'image. Je pense que ça sert à situer le contenu des images à partir des mots définis dans le "ESP game".
     
 
 Le résultat net de tout ceci est que [PeekaSearch](http://www.peekaboom.org) est très efficace. En cherchant ["girl with hat" dans les images Google](http://images.google.ch/images?hl=fr&q=girl+with+hat) on trouve déjà pas mal de choses, mais avec PeekaSearch c'est beaucoup plus précis : les "girls" sont encadrées en rouge, les "hat" en jaune, et même le mot "with" est signalé en bleu s'il apparait dans un texte figurant sur l'image !
 
-[![girlwithhat.png](images/b04fc46c693634f78b8aafc3d3e2641c.png)](images/b04fc46c693634f78b8aafc3d3e2641c.png "girlwithhat.png")
+[![girlwithhat.png](./images/b04fc46c693634f78b8aafc3d3e2641c.png)](./images/b04fc46c693634f78b8aafc3d3e2641c.png "girlwithhat.png")
 
 C'est très fort, non ?

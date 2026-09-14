@@ -8,12 +8,12 @@ tags:
   - "aerospace"
   - "astro"
   - "soleil"
-coverImage: "c3aa0948b1095f9005e7dd929c9c4cc2.jpg"
+coverImage: "./images/c3aa0948b1095f9005e7dd929c9c4cc2.jpg"
 ---
 
 Voici mon nouveau fond d'écran :
 
-{{< figure src="images/c3aa0948b1095f9005e7dd929c9c4cc2.jpg" alt="(cliquer pour obtenir l" caption="(cliquer pour obtenir l" link="http://stereo.gsfc.nasa.gov/gallery/item.php?id=stereoimages&iid=113" align="aligncenter" width="443" >}}
+{{< figure src="./images/c3aa0948b1095f9005e7dd929c9c4cc2.jpg" alt="(cliquer pour obtenir l" caption="(cliquer pour obtenir l" link="http://stereo.gsfc.nasa.gov/gallery/item.php?id=stereoimages&iid=113" align="aligncenter" width="443" >}}
 
 Trouvée grâce à [Bad Astronomy](http://blogs.discovermagazine.com/badastronomy/2010/03/26/one-solar-piece-of-flare/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+BadAstronomyBlog+%28Bad+Astronomy%29), c'est une photo de notre étoile préférée prise par [Stereo](http://stereo.gsfc.nasa.gov/), deux satellites identiques qui observent le Soleil simultanément et permettent de faire une image en 3D de l'héliosphère. L'image est prise dans les ultraviolets à haute énergie, à la limite des rayons X, et montre des [éruptions solaires](w:Éruption_solaire). Celle qui produit la tache blanche de gauche est assez violente pour saturer les capteurs CCD de Stereo, dont les électrons débordent sur les pixels voisins. Mais c'est encore une petite éruption comparée à certaines qui ont endommagé des satellites.
 

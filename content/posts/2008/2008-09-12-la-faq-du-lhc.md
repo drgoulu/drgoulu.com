@@ -9,7 +9,7 @@ tags:
   - "lhc"
   - "physique"
   - "quantique"
-coverImage: "Dplas.gif"
+coverImage: "./images/Dplas.gif"
 ---
 
 Quelques questions fréquemment posées à propos du LHC du CERN :
@@ -31,13 +31,13 @@ Logiquement, le LHC aurait pu s'appeler LPC, pour "large proton collider" parce 
 
 Le proton forme le noyau de l'atome le plus simple : l'hydrogène, qui est aussi de loin l'élément le plus abondant dans l'Univers. On en injecte un tout petit peu dans le "[Duoplasmatron Proton Ion Source](http://linac2.home.cern.ch/linac2/sources/source.htm)" dessiné ci-dessous par le "Gas feed". Dans la "plasma chamber", l'hydrogène est tellement chauffé par un arc électrique que les protons et les électrons qui leur tournent autour se séparent.
 
-{{< figure src="images/Dplas.gif" alt="schéma du Duoplasmatron Proton Ion Source du CERN." caption="schéma du Duoplasmatron Proton Ion Source du CERN." link="http://linac2.home.cern.ch/linac2/sources/source.htm" align="aligncenter" width="640" >}}
+{{< figure src="./images/Dplas.gif" alt="schéma du Duoplasmatron Proton Ion Source du CERN." caption="schéma du Duoplasmatron Proton Ion Source du CERN." link="http://linac2.home.cern.ch/linac2/sources/source.htm" align="aligncenter" width="640" >}}
 
 Au milieu de ce plasma se trouve la cathode et au bout du canal étroit, l'anode. Entre les deux on applique par impulsions une tension de 92'000 volts, ce qui accélère les protons en direction de la droite, et les électrons vers la gauche, où ils se font manger. Les électroaimants en vert servent à regrouper les protons le plus possible en un faisceau, mais ils arrivent par gros paquets à l'anode. L' "expansion cup" les dilue un petit peu, de sorte qu'à la sortie on a de beaux trains de protons.
 
 Tout ça n'est pas gros du tout, voici une photo du dispositif avec une bouteille d'hydrogène qui devrait suffire pour quelques années de fonctionnement :
 
-![](images/d420aa3a9f15fecf84999300061bfc6d.jpg)
+![](./images/d420aa3a9f15fecf84999300061bfc6d.jpg)
 
 ### Combien y'a-t-il de protons qui tournent ?
 
@@ -45,7 +45,7 @@ Il y a 2808 paquets de protons qui tournent en même temps dans le LHC dans chaq
 
 ### Combien de temps les protons passent-ils dans l'expérience ?
 
-{{< figure src="images/884a940f5462dc8a8e5a7ef2b41fe0cf.png" alt="schéma des accélérateurs du CERN" caption="schéma des accélérateurs du CERN" width="241" >}}
+{{< figure src="./images/884a940f5462dc8a8e5a7ef2b41fe0cf.png" alt="schéma des accélérateurs du CERN" caption="schéma des accélérateurs du CERN" width="241" >}}
 
 Quand un proton quitte sa source, il traverse un premier petit accélérateur linéaire, le "linac" qui l'accélère à 50 MeV en quelques microsecondes, et entre dans le "Proton Synchroton Booster" (PSB) qui l'accélère à 1.4 GeV en 530 millièmes de seconde. Puis il est injecté dans le "[Proton Synchroton](http://public.web.cern.ch/Public/en/Research/PS-en.html)" (PS), un accélérateur de 628m de circonférence datant de 1959. Là il est accéléré pendant environ 1 seconde. Il est déjà presque à la vitesse de la lumière, donc il parcourt 300'000 km pendant ce temps, soit près de 500'000 tours. Dans certains cas, le proton reste encore 1 seconde de plus avant d'être passé au SPS. Le "supersynchroton à protons" (SPS) est un accélérateur de 7 km de périmètre datant de 1976 ou les paquets de protons attendent entre 10.8 secondes et 0 secondes, ce qui permet de regrouper 4 paquets venant du PSB en un seul, prêt à passer dans le LHC. Jusqu'ici les protons ont passé entre 6 et 18 secondes environ dans l'antichambre de la bête.
 
@@ -85,7 +85,7 @@ Pour tourner en rond dans les deux sens, les faisceaux de protons doivent être 
 
 Comme on le voit sur la coupe ci-contre, il y a en réalité 2 bobines supraconductrices pour chaque sens de circulation, avec des pôles N et S inversés, ce qui crée des lignes de champ illustrées sur l'image suivante :
 
-![](images/f6ecf83ae2299de1346d0f5cd82a5356.png)
+![](./images/f6ecf83ae2299de1346d0f5cd82a5356.png)
 
 Ce qui peut paraitre surprenant aussi c'est que le champ est orienté haut/bas et pas horizontal. Il faut se souvenir que ce n'est pas le proton qui est attiré par l'aimant, mais que c'est le courant électrique créé par son déplacement linéaire qui interagit avec le champ magnétique de l'aimant, ce qui crée sur les protons une force perpendiculaire au déplacement par la règle du tire-bouchon.
 

@@ -7,7 +7,7 @@ categories:
 tags: 
   - "astro"
   - "supernova"
-coverImage: "b3f9fbb8d24d4bb74594978d1a6251fe.jpg"
+coverImage: "./images/b3f9fbb8d24d4bb74594978d1a6251fe.jpg"
 ---
 
 Il y a 167'020 ans, la lointaine étoile "Sanduleak -69° 202" explosa.
@@ -16,7 +16,7 @@ Comme elle est à 167'000 années-lumière d'ici, ce n'est qu'en 1987 qu'on put 
 
 1987A est par contre observée par de nombreux télescopes, dont Hubble qui a pris récemment cette [spectaculaire photo](http://www.nasa.gov/multimedia/imagegallery/image_feature_773.html) :
 
-[![](images/2eb49644b854c2771d69d7fbd7cebfc7.jpg)](http://www.nasa.gov/multimedia/imagegallery/image_feature_773.html)
+[![](./images/2eb49644b854c2771d69d7fbd7cebfc7.jpg)](http://www.nasa.gov/multimedia/imagegallery/image_feature_773.html)
 
 Les deux gros points blancs sont des étoiles plus proches qui n'ont rien à voir avec la supernova, mais ont le bon goût d'avoir presque la même luminosité et d'être joliment placées de chaque côté.
 

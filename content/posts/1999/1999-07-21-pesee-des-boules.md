@@ -6,10 +6,10 @@ categories:
   - "Comment"
 tags: 
   - "casse-tetes"
-coverImage: "ca235aedbb5c29ef2d595ec661779dcb.png"
+coverImage: "./images/ca235aedbb5c29ef2d595ec661779dcb.png"
 ---
 
-{{< figure src="images/ca235aedbb5c29ef2d595ec661779dcb.png" >}}
+{{< figure src="./images/ca235aedbb5c29ef2d595ec661779dcb.png" >}}
 
 On a 12 billes de billard dont l’une est soit plus lourde soit plus légère que les 11 autres. Il s’agit de la trouver à l’aide d’une balance à fléau (qui compare le poids des boules placées sur ses deux plateaux) en 3 pesées maximum.
 

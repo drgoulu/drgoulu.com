@@ -9,7 +9,7 @@ tags:
   - "histoire"
   - "horlogerie"
   - "miniaturisation"
-coverImage: "c4b4526c35ac39d9f9974ed3bf20973a1.jpg"
+coverImage: "./images/c4b4526c35ac39d9f9974ed3bf20973a1.jpg"
 ---
 
 _A l'occasion de la reconstitution de la [Machine d'Anticythère](w:) par [Hublot](http://www.hublot.com) et son [exposition au musée des Arts et Métiers](http://www.arts-et-metiers.net/musee.php?P=214&id=354&lang=fra) à Paris jusqu'en juillet 2012), je voulais écrire un billet à la gloire de l'astronomie, de l'horlogerie suisse, et de la science contre l'ufologie. Puis je suis tombé sur le [communiqué de presse](http://www.hublot.com/fr/news/download/6193_61f663a48d3b11aa3492b1f5bbae5273) d'Hublot qui fait tout ça tellement bien que je me suis dit qu'un tel travail méritait d'être mieux connu, d'autant que la pub y est assez discrète. En plus ils ne feront que 3 exemplaires de leur merveille, qui ne seront pas à vendre... Bref, une fois n'est pas coutume, je vous balance le communiqué de presse intégral avec quelques ajouts de liens et images._
@@ -20,7 +20,7 @@ Le mécanisme d’Anticythère est un des objets les plus mystérieux de l’his
 
 Les fragments de cette « machine » n’ont été analysés de manière approfondie, dans un cadre pluridisciplinaire, qu’au début du XXIe siècle. Ces travaux ont permis de mieux comprendre la complexité de ce mécanisme hors du commun. On admet aujourd’hui que cet « instrument astronomique » est daté du IIe siècle avant notre ère (entre l’an 150 et 100 av. J.-C., avec une estimation récente plus précise autour de 87 avant notre ère). Il s’agissait, à l’origine, d’un « calculateur » dont les rouages de bronze étaient logés dans une caisse de bois d’environ 33 cm x 18 cm, boîtier fermé par deux plaques de bronze recouvertes d’inscriptions.
 
-![](images/c4b4526c35ac39d9f9974ed3bf20973a.jpg)
+![](./images/c4b4526c35ac39d9f9974ed3bf20973a.jpg)
 
 Il ne reste que 82 fragments de cette « machine », certains minuscules, tous rongés par la corrosion : ils sont à l’abri pour toujours au musée archéologique d’Athènes. Une étude tomographique (scanner à rayons X) très avancée a permis de révéler, en images exploitables scientifiquement et archéologiquement, de nombreux rouages internes, invisibles à l’œil nu, des roues dentées, ainsi que de nouvelles inscriptions cachées sous les concrétions : à peine un quart des lettres grecques archaïques de ce texte gravé sur la « machine » a pu être déchiffré, mais on considère qu’il s’agissait d’une sorte de « mode d’emploi » de ce calculateur mécanique, qu’on suppose également capable d’indiquer le mouvement de certaines planètes majeures. Les engrenages étaient entraînés par ce qu’on pense être une manivelle latérale – sans qu’on puisse exclure l’intervention possible d’un système hydraulique d’appoint.
 
@@ -44,7 +44,7 @@ En 2008, la révélation par le magazine scientifique Nature \[1\] des analyses 
 
 Mathias Buttet, qui est aujourd’hui Directeur Fabrication et R&D à la manufacture Hublot, a voulu rendre hommage au premier chef-d‘œuvre mécanique que nous a légué l’histoire. Un hommage technique, en miniaturisant² aux dimensions d’une montre-bracelet l’ensemble de la mécanique d’Anticythère tel qu’il a été révélé par l’analyse scientifique. Un hommage horloger en ajoutant à ce calculateur astronomique une nouvelle dimension, celle d’un objet du temps à part entière, capable de donner l’heure avec précision.
 
-[![](images/f8d2c9a1eb5b2f01a60b12541ef7e92a.jpg)](http://journal.hautehorlogerie.org/fr/news/actualites/hublot-ajoute-une-nouvelle-dimension-du-temps-a-la-mecanique-danticythere-2977/)
+[![](./images/f8d2c9a1eb5b2f01a60b12541ef7e92a.jpg)](http://journal.hautehorlogerie.org/fr/news/actualites/hublot-ajoute-une-nouvelle-dimension-du-temps-a-la-mecanique-danticythere-2977/)
 
 C’est la première fois dans l’histoire des montres qu’un bureau de développement horloger s’inspire ainsi directement d’une mécanique « archéologique » héritée de l’Antiquité. C’est aussi la première fois qu’une équipe horlogère travaille ainsi, main dans la main, avec une équipe scientifique qui regroupe des sommités internationales de l’archéologie, de l’épigraphie et des historiens de la mécanique.
 
@@ -52,7 +52,7 @@ Les horlogers ont aidé les archéologues à mieux comprendre certains rouages e
 
 La capacité même des mécaniciens de l’Antiquité à réaliser des rouages en bronze d’une telle efficacité ouvre de nouveaux horizons sur leurs rapports philosophiques au progrès technique et à la place des machines dans leur conception du monde – ce qui ne peut que nous questionner en retour sur notre propre relation aux machines et aux « prothèses » de la modernité...
 
-![](images/33914.jpg)
+![](./images/33914.jpg)
 
 Un respect intégral des indications astronomiques du mécanisme imaginé par les grecs Le défi de l’équipe de Mathias Buttet était d’intégrer un mouvement horloger dans une réinterprétation miniaturisée du mécanisme d’Anticythère, en respectant l’architecture de ce dernier, et notamment son double affichage recto-verso. La première performance de cette équipe a été de réaliser entre quelques centimètres cubes ce que les mécaniciens de l’Antiquité avaient développé en quelques centaines de centimètres cubes, sans rien perdre de l’esprit initial du mécanisme, ni de sa précision, ni de la lisibilité de ses indications.
 

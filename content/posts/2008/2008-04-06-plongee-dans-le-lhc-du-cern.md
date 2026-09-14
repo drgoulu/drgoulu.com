@@ -8,14 +8,14 @@ categories:
 tags: 
   - "geneve"
   - "physique"
-coverImage: "csCERN2.jpg"
+coverImage: "./images/csCERN2.jpg"
 ---
 
 Le [CERN ouvrait aujourd'hui ses portes](https://lhc2008.web.cern.ch/LHC2008/) au public pour lui montrer le Large Hadron Collider (LHC), le plus puissant accélérateur de particules du monde, qui sera mis en service cet été.
 
 Je souhaitais voir [ATLAS](http://public.web.cern.ch/public/fr/LHC/ATLAS-fr.html), le plus imposant détecteur de particules, destiné entre autres à découvrir le [Boson de Higgs](w:), la particule qui permettrait de valider la théorie qui explique pourquoi certaines particules ont une masse et d'autre pas.
 
-![](images/85fea7a4da57502fb066809b9d1c988e.jpg)
+![](./images/85fea7a4da57502fb066809b9d1c988e.jpg)
 
 Mais à l'ouverture à 9h, il y avait déjà une queue de plus 3h pour le visiter... Nous nous sommes donc rendus sur le [site de Ferney-Voltaire](https://lhc2008.web.cern.ch/LHC2008/OpenDaysF/point8.html) où la queue n'était "que" d'une heure et demie et permettait d'obtenir... un ticket pour une visite 2h plus tard ! Après beaucoup de déception et de reproches pour la mauvaise organisation de l'événement, nous sommes donc rentrés chez nous (à 10 minutes seulement, mais j'ai pensé à [ceux ont fait le voyage depuis les USA](http://blogs.discovermagazine.com/badastronomy/) spécialement pour assister à cette journée...) et retournés à 14h plonger 100m sous terre.
 

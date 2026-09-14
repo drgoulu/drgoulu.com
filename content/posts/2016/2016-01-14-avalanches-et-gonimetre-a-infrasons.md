@@ -8,7 +8,7 @@ categories:
 tags: 
   - "acoustique"
   - "informatique"
-coverImage: "histogramme.jpg"
+coverImage: "./images/histogramme.jpg"
 ---
 
 Dans la liste ["Réalisations" de mon CV](http://www.philippe-guglielmetti.com/cv/jobs/liste_0) se trouve une ligne "Téléopération d’un goniomètre à infrasons" sur laquelle je ne pouvais pas être très bavard car il s'agissait d'un projet militaire top secret m'avait-on dit. Mais maintenant que je trouve des informations publiques [[1]](#ref-1), [[2]](#ref-2) sur le net concernant cette réalisation étonnante (à laquelle je n'ai contribué que 3 semaines ), j'ose en dire un peu plus.
@@ -24,7 +24,7 @@ Par exemple dans le [spectrogramme](w:) ci-dessous un œil entraîné ou un logi
 3. Une série d'explosions à 15h14m35s, azimut 239°, 15h16m28s, azimut 264°, et d'autres explosions à 15h12m10s,15h14m12s, 15h15m09s.
 4. Une avalanche tout de même à 15h16m36s, durant environ 1min46s.
 
-{{< figure src="images/histogramme.jpg" alt="source : Arfang (1)" caption="source : Arfang (1)" link="http://www.arfang.com/index.php?nav=home&lang=fr" align="aligncenter" width="762" >}}
+{{< figure src="./images/histogramme.jpg" alt="source : Arfang (1)" caption="source : Arfang (1)" link="http://www.arfang.com/index.php?nav=home&lang=fr" align="aligncenter" width="762" >}}
 
 Les azimuts ne sont pas très précis car le vent dévie les sons, mais on peut partiellement en tenir compte avec des données météo.
 

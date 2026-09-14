@@ -6,7 +6,7 @@ categories:
   - "Comment"
 tags: 
   - "biologie"
-coverImage: "bafd3940506e32b2c4842203e30e0565-1.jpg"
+coverImage: "./images/bafd3940506e32b2c4842203e30e0565-1.jpg"
 ---
 
 ### Gaz
@@ -17,7 +17,7 @@ Pour plonger plus profond, il faut remplacer l'azote par de l'hélium. Mais dès
 
 Peut-on aller plus bas sans devoir s'enfermer dans un sous-marin ? et remonter sans passer des semaines en paliers de décompression ?
 
-### ![](images/bafd3940506e32b2c4842203e30e0565.jpg)Liquide
+### ![](./images/bafd3940506e32b2c4842203e30e0565.jpg)Liquide
 
 Dans le superbe film [Abyss](http://www.allocine.fr/film/fichefilm_gen_cfilm=4992.html), un plongeur descend à plus de 3000m en respirant un liquide, ce qui lui permet d'être insensible à la pression. Est-ce possible ? Et bien oui, d'ailleurs la scène du film dans laquelle un rat est immergé dans ce produit n'est pas truquée, et le rat n'est pas mort des suites de cette expérience.
 

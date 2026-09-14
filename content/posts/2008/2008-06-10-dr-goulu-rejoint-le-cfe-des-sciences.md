@@ -6,10 +6,10 @@ tags:
   - "cafe"
   - "graphes"
   - "internet"
-coverImage: "e146452c7467eadd3c306375a04e9aad.png"
+coverImage: "./images/e146452c7467eadd3c306375a04e9aad.png"
 ---
 
-{{< figure src="images/e146452c7467eadd3c306375a04e9aad.png" link="http://www.cafe-sciences.org" >}}
+{{< figure src="./images/e146452c7467eadd3c306375a04e9aad.png" link="http://www.cafe-sciences.org" >}}
 
 [Paul Erdös](w:Paul_Erdős) a établi un lien indiscutable entre le café et la Science : _Un mathématicien est une machine à transformer le café en théorèmes._ . D'autres auteurs ont reconnu les vertus du précieux nectar dans des domaines intellectuels variés, notamment : "_Le café, c'est amer et ça donne envie de faire pipi, mais ça empêche de dormir alors on peut programmer plus longtemps_" (moi).
 

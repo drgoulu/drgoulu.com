@@ -7,10 +7,10 @@ categories:
 tags: 
   - "livres"
   - "temps"
-coverImage: "image.png"
+coverImage: "./images/image.png"
 ---
 
-{{< figure src="images/image-197x300.png" >}}
+{{< figure src="./images/image-197x300.png" >}}
 
 Frédéric Leclerc m'a fait parvenir un exemplaire de son livre [[1]](#ref-1) tout neuf consacré au [temps en physique](w:). Petit par la taille (80 pages + les 25 pages de l'article qui l'a motivé [[2]](#ref-2)), ce livre est une remarquable synthèse de l'état de la recherche sur la nature du temps, que l'auteur préfère nommer la [temporalité](w:).  
 

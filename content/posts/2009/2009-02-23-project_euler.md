@@ -8,13 +8,13 @@ tags:
   - "casse-tetes"
   - "maths"
   - "programmation"
-coverImage: "a9192f1b2a56a4bbaee679259c557e57.jpg"
+coverImage: "./images/a9192f1b2a56a4bbaee679259c557e57.jpg"
 
 aliases:
   - "/2009/02/24/project_euler/"
 ---
 
-{{< figure src="images/a9192f1b2a56a4bbaee679259c557e57.jpg" >}}
+{{< figure src="./images/a9192f1b2a56a4bbaee679259c557e57.jpg" >}}
 
 Amis des casse-tête mathématiques ardus et de la programmation d'algorithmes optimisés, bonjour!
 
@@ -65,4 +65,4 @@ Après, ce sera **l'enfer** mais j'espère vous y retrouver, ami lecteur ... (in
 
 _Note\* dans le forum on découvre une solution en 13 caractères seulement, en [APL](w:APL_(langage)) évidemment: +/"."0":!100x_
 
-![](images/Dr_Goulu.png)
+![](./images/Dr_Goulu.png)
