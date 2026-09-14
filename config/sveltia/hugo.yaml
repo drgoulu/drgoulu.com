@@ -1,0 +1,4 @@
+# Configuration dédiée au développement local de Sveltia CMS
+params:
+  headless_cms:
+    dev_server: "http://localhost:5173"
