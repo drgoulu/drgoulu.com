@@ -132,6 +132,7 @@ params:
       name: "github"
       repo: "drgoulu/drgoulu.com"
       branch: "main"
+    publish_mode: "simple"
     media_folder: "static/uploads"
     public_folder: "/uploads"
     collections:
