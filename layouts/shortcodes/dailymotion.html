@@ -1,0 +1,19 @@
+{{- $raw := or (.Get "id") (.Get 0) -}}
+{{- $id := $raw -}}
+{{- if strings.Contains $id "dailymotion.com/video/" -}}
+  {{- $id = index (last 1 (split $id "/")) 0 -}}
+{{- else if strings.Contains $id "/embed/video/" -}}
+  {{- $id = index (last 1 (split $id "/")) 0 -}}
+{{- else if strings.HasPrefix $id "/" -}}
+  {{- $id = strings.TrimPrefix "/embed/video/" $id -}}
+  {{- $id = strings.TrimPrefix "/" $id -}}
+{{- end -}}
+{{- $id = index (split $id "?") 0 -}}
+{{- $id = index (split $id "_") 0 -}}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1.2em 0; border-radius: 8px;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" 
+    src="https://www.dailymotion.com/embed/video/{{ $id }}" 
+    allowfullscreen 
+    allow="autoplay">
+  </iframe>
+</div>

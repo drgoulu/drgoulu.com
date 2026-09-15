@@ -1,15 +1,16 @@
 ---
-title: "Comment marche Shazam"
-slug: "comment-marche-shazam"
+title: Comment marche Shazam
 date: 2009-07-11
-categories:
-  - "Comment"
+draft: false
 tags:
-  - "algorithmes"
-  - "informatique"
-  - "internet"
-  - "musique"
-coverImage: "./images/e47ef30951dab1d02fbd45117ec61e0c-1.jpg"
+  - algorithmes
+  - informatique
+  - internet
+  - musique
+categories:
+  - Comment
+slug: comment-marche-shazam
+coverImage: ./images/e47ef30951dab1d02fbd45117ec61e0c-1.jpg
 ---
 
 {{< figure src="./images/e47ef30951dab1d02fbd45117ec61e0c.jpg" >}}
@@ -20,11 +21,11 @@ Vous ne rêvez pas : Shazam est capable d'identifier en quelques secondes la mus
 
 Ce qui nous intéresse ici, c'est de savoir comment diable Shazam fait pour reconnaitre quasi-instantanément 10 secondes de son parmi 8 millions de morceaux de musique de 3 minutes chacun, soit un total de 1.44 milliards de secondes, ou 45 ans de musique, et ceci même lorsque la musique est diffusée par une mauvaise sono et captée par un mauvais micro dans un environnement bruité. Ca ne vous épate peut être pas si vous n'êtes pas dans la technique, mais moi je suis resté coi d'une hébétude aussi stupéfaite qu'interloquée. Sur le cul, quoi.
 
-Pour comprendre, j'ai un peu fouillé et trouvé que la technologie appartient à [Landmark Digital](https://www.linkedin.com/company-beta/11105/) qui a notamment acquis la propriété intellectuelle de dénommés [Avery Wang](https://www.linkedin.com/in/averywang08/) et David Culbert. Leur brevet de 2003 \[1\] est un modèle du genre : il décrit le système en termes suffisamment généraux pour comprendre le principe, mais en évitant soigneusement de donner des informations précises sur comment ça marche vraiment. Mais voici tout de même ce que j'en ai compris.
+Pour comprendre, j'ai un peu fouillé et trouvé que la technologie appartient à [Landmark Digital](https://www.linkedin.com/company-beta/11105/) qui a notamment acquis la propriété intellectuelle de dénommés [Avery Wang](https://www.linkedin.com/in/averywang08/) et David Culbert. Leur brevet de 2003 [1] est un modèle du genre : il décrit le système en termes suffisamment généraux pour comprendre le principe, mais en évitant soigneusement de donner des informations précises sur comment ça marche vraiment. Mais voici tout de même ce que j'en ai compris.
 
 Shazam compare des "empreintes" calculées à des instants remarquables du morceau, par exemple lorsque des notes apparaissent nettement dans le diagramme temps/fréquence du morceau. Pour des raisons expliquées plus bas il faut comparer environ une centaine d'empreintes, et comme Shazam demande d'enregistrer une dizaine de secondes de musique, j'en déduis qu'ils prennent environ 10 empreintes par seconde, donc que chaque morceau est stocké chez eux sous la forme de 1800 empreintes environ.
 
-{{< figure src="./images/a89524a9c5e8c9a9e2b18ea8e0ea116c.png" alt="FFT est un joli petit programme qui affiche le diagramme temps/fréquence dun mp3" caption="&quot;FFT&quot; est un joli petit programme qui affiche le diagramme temps/fréquence d'un mp3" link="http://www.rejc2.co.uk/programs/fft/" align="aligncenter" width="382" >}}
+{{< figure align="aligncenter" alt="FFT est un joli petit programme qui affiche le diagramme temps/fréquence dun mp3" caption="&quot;FFT&quot; est un joli petit programme qui affiche le diagramme temps/fréquence d'un mp3" link="http://www.rejc2.co.uk/programs/fft/" src="./images/a89524a9c5e8c9a9e2b18ea8e0ea116c.png" width="382" >}}
 
 Le brevet est extrêmement vague sur le problème clé du calcul des empreintes. Il mentionne une liste de caractéristiques du son qui pourraient être utilisées, et indique qu'un choix judicieux permet de s'affranchir de diverses perturbations du son, en particulier de décalages fréquentiels, mais surtout que l'empreinte peut être ramenée à un nombre de 32 bits seulement. Avec ce qui précède, il en résulte que les empreintes d'un morceau complet ne nécessitent que 7K de mémoire, et que toute la base de données de Shazam tient sur 54 Gigabytes seulement, ce qui veut dire qu'elle peut tenir dans la mémoire RAM d'une vingtaine de PC actuels.
 
@@ -39,5 +40,5 @@ Car pour la reconnaissance de la musique, il y a désormais encore plus fort que
 ### Référence
 
 1. WANG, Avery Li-Chun and CULBERT, Daniel, "Robust and invariant audio pattern matching", 2003, [patent WO03091990A1](http://drgoulu.files.wordpress.com/2009/07/wo03091990a1.pdf)
-2. Avery Wang, "An Industrial-Strength Audio Search Algorithm", 2003, ISMIR 2003, 4th International Conference on Music Information Retrieval, Baltimore, Maryland, USA  \[article pdf](http://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf)\] [slides pdf\](w:article_pdf](http://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf)\_\[[slides_pdf\)(http://ismir2003.ismir.net/presentations/Wang.pdf)
+2. Avery Wang. 2003. « An Industrial-Strength Audio Search Algorithm ». 4th International Conference on Music Information Retrieval. _ISMIR 2003_. [pdf](http://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf)
 3. Avery Wang "The Shazam music recognition service", 2006 , Communications of the ACM - Music information retrieval Volume 49 Issue 8, Pages 44-48 {{< altmetric doi="10.1145/1145287.1145312" >}}

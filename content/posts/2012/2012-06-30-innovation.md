@@ -1,26 +1,26 @@
 ---
-title: "Crée ou crève : l'innovation de rupture"
-slug: "innovation"
-date: 2012-06-30
-categories:
-  - "Combien"
-  - "Comment"
-  - "Pourquoi"
-tags: 
-  - "horlogerie"
-  - "innovation"
-  - "suisse"
-coverImage: "./images/328f7398c97abb8dc01a010269c6b96c.jpg"
-
 aliases:
-  - "/2012/07/01/innovation/"
+  - /2012/07/01/innovation/
+title: "Crée ou crève : l'innovation de rupture"
+date: 2012-06-30
+draft: false
+tags:
+  - horlogerie
+  - innovation
+  - suisse
+categories:
+  - Combien
+  - Comment
+  - Pourquoi
+slug: innovation
+coverImage: ./images/328f7398c97abb8dc01a010269c6b96c.jpg
 ---
 
-{{< figure src="./images/328f7398c97abb8dc01a010269c6b96c.jpg" alt="iStock_000018775492XSmall" caption="j'aime bien le logo de la conf ;-) (merci istockphoto)" link="http://www.istockphoto.com/stock-photo-18775492-goldfish-disguised-as-a-shark.php?st=c9bde31" width="322" >}}
+{{< figure alt="iStock_000018775492XSmall" caption="j'aime bien le logo de la conf ;-) (merci istockphoto)" link="http://www.istockphoto.com/stock-photo-18775492-goldfish-disguised-as-a-shark.php?st=c9bde31" src="./images/328f7398c97abb8dc01a010269c6b96c.jpg" width="322" >}}
 
 Assisté l'autre jour à la conférence "[Crée ou crève! : Inutile d'être génial ou savant pour être innovant!](http://www.rezonance.ch/rezo/classes/ft-first-tuesday/geneve/2012-06-19/)" d'Elmar Mock consacrée à l' "innovation de rupture".
 
-Elmar Mock est l'un des inventeurs de la [Swatch](w:Swatch_(marque)) [[1]](#ref-1), une montre en rupture totale avec l'horlogerie suisse des années 1980. Comme il l'explique dans [la vidéo](https://vimeo.com/44659294) par une analogie assez grivoise pour capter l'attention (autour de 10:00), cette rupture a plutôt été la conséquence d'une avalanche de problèmes que le résultat d'une [vision géniale](/2007/05/15/montre-mecanique-contre-quartz/).
+Elmar Mock est l'un des inventeurs de la [Swatch](w:Swatch_\(marque\)) [[1]](#ref-1), une montre en rupture totale avec l'horlogerie suisse des années 1980. Comme il l'explique dans [la vidéo](https://vimeo.com/44659294) par une analogie assez grivoise pour capter l'attention (autour de 10:00), cette rupture a plutôt été la conséquence d'une avalanche de problèmes que le résultat d'une [vision géniale](/2007/05/15/montre-mecanique-contre-quartz/).
 
 Assez marqué par cette expérience pour en parler encore avec émotion 30 ans plus tard, Elmar Mock est devenu un "serial innovateur" et a fondé l'entreprise [Creaholic](http://creaholic.com/) pour aider les entreprises (suisses) sur le dur chemin de l'innovation (où elles sont plutôt bien placées [[2]](#ref-2))
 
@@ -41,7 +41,7 @@ Comme le suggère le titre de son nouveau livre [[3]](#ref-3), Mock pense que l
 
 Si vous vous intéressez à la naissance de la Swatch, consacrez une demi-heure à regarder [la vidéo](https://vimeo.com/44659294), sinon parcourez au moins les slides de Mock, presque aussi minimalistes que ceux de Steve Jobs, mais beaucoup plus provocateurs :
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/I6wExQ3gFE1JzC" width="610" height="515"frameborder="0" marginwidth="0" marginheight="0" scrolling="no"style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px; max-width:100%;"allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://www.slideshare.net/slideshow/elmar-mock-creaholic-la-fabrique-de-linnovation/14681791" title="elmar-mock-creaholic-la-fabrique-de-linnovation" target="_blank">elmar-mock-creaholic-la-fabrique-de-linnovation</a></strong>from <strong><a href="https://www.slideshare.net/Rezonance" target="_blank">Rezonance</a></strong></div>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/I6wExQ3gFE1JzC" width="510" height="420"frameborder="0" marginwidth="0" marginheight="0" scrolling="no"style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px; max-width:100%;"allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://www.slideshare.net/slideshow/elmar-mock-creaholic-la-fabrique-de-linnovation/14681791" title="elmar-mock-creaholic-la-fabrique-de-linnovation" target="_blank">elmar-mock-creaholic-la-fabrique-de-linnovation</a></strong>from <strong><a href="https://www.slideshare.net/Rezonance" target="_blank">Rezonance</a></strong></div>
 
 (paragraphe ajouté le 3.6.12 :)  Elizabeth Auzan  de [http://www.thinkingpartner.ch](http://www.thinkingpartner.ch/) a réalisé en temps réel un poster de la présentation. Il est ici :
 
@@ -57,7 +57,7 @@ Finalement, où est la "rupture" de la Swatch ? le prix ? l'irréparabilité ? C
 
 N'est-il pas plus "facile" d'innover dans une entreprise, voire une industrie en train de couler que dans une qui va bien ?
 
-{{< figure src="./images/78503155b50ff5cc1f30663e46e02e48.gif" alt="L' Innovation à Lausanne 1935/1948 ( photos Musée Historique de Lausanne)" caption="&quot;L' Innovation&quot; à Lausanne 1935/1948 ( photos Musée Historique de Lausanne)" link="http://www.notrehistoire.ch/group/nos-grands-magasins/" width="320" >}}
+{{< figure alt="L' Innovation à Lausanne 1935/1948 ( photos Musée Historique de Lausanne)" caption="&quot;L' Innovation&quot; à Lausanne 1935/1948 ( photos Musée Historique de Lausanne)" link="http://www.notrehistoire.ch/group/nos-grands-magasins/" src="./images/78503155b50ff5cc1f30663e46e02e48.gif" width="320" >}}
 
 Le mot "innovation" évoque pour moi encore une chaîne de ["grands magasins" de Suisse Romande](http://www.notrehistoire.ch/group/nos-grands-magasins/), aujourd'hui disparue. Dès 1935, le mot "innovation" trônait en lettres majuscules au centre de plusieurs villes. Mes parents appelait même "Sainte Innovation" un certain jour férié dans notre Valais catholique et consacré aux gros achats annuels chez nos voisins protestants.
 

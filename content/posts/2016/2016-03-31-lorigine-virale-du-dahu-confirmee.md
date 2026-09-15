@@ -1,17 +1,18 @@
 ---
-title: "L'origine virale du dahu confirmée"
-slug: "lorigine-virale-du-dahu-confirmee"
+title: L'origine virale du dahu confirmée
 date: 2016-03-31
+draft: false
+tags:
+  - biologie
+  - medecine
+  - zoologie
 categories:
-  - "Pourquoi"
-tags: 
-  - "biologie"
-  - "medecine"
-  - "zoologie"
-coverImage: "./images/dahu_110.jpg"
+  - Pourquoi
+slug: lorigine-virale-du-dahu-confirmee
+coverImage: ./images/dahu_110.jpg
 ---
 
-{{< figure src="./images/dahu_110.jpg" alt="spécimen naturalisé de dahu lévogyre (ayant les pattes gauches plus courtes que les droites)" caption="spécimen naturalisé de dahu lévogyre (ayant les pattes gauches plus courtes que les droites)" width="639" >}}
+{{< figure alt="spécimen naturalisé de dahu lévogyre (ayant les pattes gauches plus courtes que les droites)" caption="spécimen naturalisé de dahu lévogyre (ayant les pattes gauches plus courtes que les droites)" src="./images/dahu_110.jpg" width="639" >}}
 
 Le [dahu](w:) est un animal si rare que certains le considèrent comme imaginaire. Pourtant il existe de nombreux témoignages de son existence, des squelettes de dahu sont exposés dans divers musées, et un reportage très complet sur le dahu a même été réalisé à partir de très rares images et vidéos de cet animal extrêmement mal connu (voir ci-dessous).
 
@@ -32,12 +33,12 @@ Une épidémie de rougeole cause donc une mortalité juvénile très élevée, 
 
 Cette étude est la seconde démontrant de façon convaincante l'implication de virus dans l'apparition d'animaux mythiques. En effet, il est connu depuis plusieurs années que le [papillomavirus](w:) peut provoquer chez les lapins la formation de tumeurs en forme de cornes qui ont très certainement donné naissance à la légende du [Jackalope](w:), comme indiqué dans [l'excellent livre](/2016/03/28/planete-de-virus/) {{< openbook booknumber="ISBN:9782701197678" templatenumber="5" >}}
 
-https://www.dailymotion.com/video/x4skm6
+{{dailymotion x4skm6}}
 
 ### Références:
 
 1. <span id="ref-1"></span>Ph. Ittemleilgug & al, "Viral Paget's Disease of Bone in Caprinae as origin of Dahus", 2016, submitted to [Nature](http://www.nature.com/)
 2. <span id="ref-2"></span>Frederick R. Singer "[The Etiology of Paget's Disease of Bone: Viral and Genetic Interactions](http://www.cell.com/cell-metabolism/fulltext/S1550-4131\(10\)00456-0)" 2011, Cell Metabolism,Volume 13, Issue 1, p. 5-6, 5{{< altmetric doi="10.1016/j.cmet.2010.12.014" >}}
-3. <span id="ref-3"></span>Kreider, J.W. and Bartlett, G.L., "The Shope papilloma-carcinoma complex of rabbits: A model system of neoplastic progression and spontaneous regression", 1981, Adv. In Cancer Res., 35: 81-110.
+3. <span id="ref-3"></span>Kreider, J.W. and Bartlett, G.L., "The Shope papilloma-carcinoma complex of rabbits: A model system of neoplastic progression and spontaneous regression", 1981, Adv. In Cancer Res., 35: 81-110.{{< altmetric doi="10.1016/S0065-230X(08)60909-4" >}}
 
 Cet article a également été publié, légèrement édité, [sur Kidi'Science](http://kidiscience.cafe-sciences.org/articles/les-virus-a-lorigine-du-dahu/)

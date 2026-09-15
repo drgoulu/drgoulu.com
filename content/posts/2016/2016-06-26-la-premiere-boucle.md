@@ -1,15 +1,16 @@
 ---
-title: "La première boucle"
-slug: "la-premiere-boucle"
+title: La première boucle
 date: 2016-06-26
+draft: false
+tags:
+  - dame
+  - histoire
+  - informatique
+  - programmation
 categories:
-  - "Comment"
-tags: 
-  - "dame"
-  - "histoire"
-  - "informatique"
-  - "programmation"
-coverImage: "./images/220px-Cf-while-fr.svg.png"
+  - Comment
+slug: la-premiere-boucle
+coverImage: ./images/220px-Cf-while-fr.svg.png
 ---
 
 {{< figure src="./images/220px-Cf-while-fr.svg.png" >}}
@@ -20,7 +21,7 @@ Une idée fondatrice de la programmation, c'est de pouvoir coder "répète 123 
 
 > Un programme sans boucle et sans structure de données ne vaut pas la peine d’être écrit.
 
-{{< figure src="./images/302px-Ada_Lovelace.jpg" alt="Ada, en tenue de geek de 1836" caption="Ada, en tenue de geek de 1836" width="302" >}}
+{{< figure alt="Ada, en tenue de geek de 1836" caption="Ada, en tenue de geek de 1836" src="./images/302px-Ada_Lovelace.jpg" width="302" >}}
 
 Alors qui a écrit le premier programme valant la peine d'être écrit, la première boucle ? C'est [Augusta Ada King, comtesse de Lovelace](w:Ada_Lovelace). Parfaitement : une femme [[3]](#ref-3). Et ceci bien avant qu'[Alan Turing](w:) ne propose sa [machine](w:Machine_de_Turing), dont l'intérêt est surtout théorique.
 
@@ -34,9 +35,11 @@ Lady Ada a donc écrit le premier programme utile de l'histoire, que voici [[4]]
 
 Les boucles sont indiquées par les accolades dans les premières colonnes et par le texte "here follows a repetition of Operations thirteen to twenty-three". La fameuse "Note G" rédigée par Ada Lovelace au base de [[6]](#ref-6) montre clairement qu'elle a inventé les notions de variables et de boucle en programmation:
 
-> It will be perceived that every unit added to _n_ in B2_n_\-1, entails an additional repetition of operations (13…23) for the computation of B2_n_\-1. Not only are all the _operations_ precisely the same however for every such repetition, but they require to be respectively supplied with numbers from the very_same pairs of columns_; with only the one exception of Operation 21, which will of course need B5 (from V23) instead of B3 (from V22). This identity in the _columns_ which supply the requisite numbers must not be confounded with identity in the _values_ those columns have upon them and give out to the mill. Most of those values undergo alterations during a performance of the operations (13…23), and consequently the columns present a new set of values for the _next_ performance of (13…23) to work on
+> It will be perceived that every unit added to _n_ in B2_n_-1, entails an additional repetition of operations (13…23) for the computation of B2_n_-1. Not only are all the _operations_ precisely the same however for every such repetition, but they require to be respectively supplied with numbers from the very_same pairs of columns_; with only the one exception of Operation 21, which will of course need B5 (from V23) instead of B3 (from V22). This identity in the _columns_ which supply the requisite numbers must not be confounded with identity in the _values_ those columns have upon them and give out to the mill. Most of those values undergo alterations during a performance of the operations (13…23), and consequently the columns present a new set of values for the _next_ performance of (13…23) to work on
 
-{{< figure src="./images/ADA99-Bernouilli.png" alt="ADA99 Bernouilli" caption="fonction de calcul des nombres de Bernoulli en Javascript langage ADA, par S. Goodwin \[4)" link="https://marquisdegeek.com/code_ada99" width="590" >}}Et accessoirement que Madame Lovelace commentait son code en prose intelligible, une habitude qui se perd. Exemple : le code ci-contre qui calcule les nombres de Bernoulli en  [JavaScript](w:JavaScript) et hélas pas en [langage ADA](w:Ada_(langage)), baptisé ainsi en l'honneur de la première véritable programmeuse de l'histoire.
+{{< figure alt="ADA99 Bernouilli" caption="fonction de calcul des nombres de Bernoulli en Javascript langage ADA, par S. Goodwin \[4)" link="https://marquisdegeek.com/code_ada99" src="./images/ADA99-Bernouilli.png" >}}
+
+Et accessoirement que Madame Lovelace commentait son code en prose intelligible, une habitude qui se perd. Exemple : le code ci-contre qui calcule les nombres de Bernoulli en  [JavaScript](w:JavaScript) et hélas pas en [langage ADA](w:Ada_\(langage\)), baptisé ainsi en l'honneur de la première véritable programmeuse de l'histoire.
 
 Mais on l'a longtemps oubliée car son code n'a hélas jamais pu être exécuté : la machine analytique de Babbage avait trop de frottements, trop d'imprécisions mécaniques, elle n'a jamais fonctionné...
 
@@ -47,7 +50,7 @@ Le premier calculateur réellement programmable ayant fonctionné est, n'en dé
 
 C'est sans aucun doute Konrad Zuse qui a fait tourner la première boucle conditionnelle de l'histoire, mais hélas on ne sait plus quel était le premier programme à utiliser cette possibilité.
 
-{{< figure src="./images/VonNeumannProgram.png" alt="page de programme ENIAC par Klara von Neumann" caption="page de programme ENIAC par Klara von Neumann" width="320" >}}
+{{< figure alt="page de programme ENIAC par Klara von Neumann" caption="page de programme ENIAC par Klara von Neumann" src="./images/VonNeumannProgram.png" width="320" >}}
 
 Comme ce sont les vainqueurs qui écrivent l'histoire, je termine en mentionnant tout de même l'[ENIAC](w:), qui fut la première machine Turing-complète électronique. Conçue par [John von Neumann](w:) selon l'architecture qui est toujours celle des ordinateurs actuels. Cette machine est la première a être programmable au sens moderne du terme avec mémoire, branchements conditionnels, boucles, et femmes.
 
@@ -55,7 +58,7 @@ En effet, avant chaque calcul, les différentes unités de l'ENIAC doivent êtr
 
 > "The ENIAC was a son of a bitch to program"
 
-On dit souvent que l'ENIAC a servi au calcul de la bombe atomique. Ca dépend laquelle : [Trinity](w:Trinity_(essai_atomique)), Hiroshima et Nagasaki ont eu lieu en 1945, avant qu'ENIAC soit opérationnelle en 1946. Mais ENIAC a effectivement été utilisée pour le développement des armes nucléaires américaines dans les années 1950. Par exemple le petit bout de code ci-contre provient d'un programme de calcul par la [méthode de Monte-Carlo](w:) des neutrons diffusés lors de la fission nucléaire. Et ce code est du à [Klara von Neumann](w:en:Klara_Dan_von_Neumann), la femme de John. Oui, encore une femme.
+On dit souvent que l'ENIAC a servi au calcul de la bombe atomique. Ca dépend laquelle : [Trinity](w:Trinity_\(essai_atomique\)), Hiroshima et Nagasaki ont eu lieu en 1945, avant qu'ENIAC soit opérationnelle en 1946. Mais ENIAC a effectivement été utilisée pour le développement des armes nucléaires américaines dans les années 1950. Par exemple le petit bout de code ci-contre provient d'un programme de calcul par la [méthode de Monte-Carlo](w:) des neutrons diffusés lors de la fission nucléaire. Et ce code est du à [Klara von Neumann](w:en:Klara_Dan_von_Neumann), la femme de John. Oui, encore une femme.
 
 Qui ose encore prétendre que l'informatique est un truc de mecs ?
 
