@@ -43,13 +43,17 @@ build:
 EOF
 fi
 
-# 1. Lancer le serveur Vite de Sveltia CMS en arrière-plan
+# 1. Construire le site et générer l'index Pagefind pour que la recherche fonctionne en local
+echo "🔍 Construction du site et indexation Pagefind pour la recherche locale..."
+(cd "$SITE_DIR" && hugo --environment sveltia --buildDrafts --buildFuture && pnpm exec pagefind --site public --output-path static/pagefind)
+
+# 2. Lancer le serveur Vite de Sveltia CMS en arrière-plan
 (cd "$SVELTIA_DIR" && VITE_SITE_URL="http://localhost:1313" HUGO_CONTENT_DIR="$SITE_DIR/content" ./node_modules/.bin/vite) &
 
 # Petit délai pour laisser Vite démarrer
 sleep 1
 
-# 2. Lancer le serveur Hugo avec rechargement automatique et build des brouillons
+# 3. Lancer le serveur Hugo avec rechargement automatique et build des brouillons
 (
   cd "$SITE_DIR"
   while true; do
