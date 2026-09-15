@@ -1,0 +1,29 @@
+# ----------------------------------------------------------------------
+# Hugo Static Site Configuration for Apache (drgoulu.com)
+# ----------------------------------------------------------------------
+
+# Page d'erreur 404 personnalisée
+ErrorDocument 404 /404.html
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # Redirection de /tags/x vers /tag/x
+  RewriteRule ^tags/(.+)$ /tag/$1 [R=301,L]
+
+  # Redirection de /tag ou /tag/ vers /tags/ (index de tous les tags)
+  RewriteRule ^tag/?$ /tags/ [R=301,L]
+</IfModule>
+
+# Types MIME modernes
+<IfModule mod_mime.c>
+  AddType text/html .html
+  AddType text/xml .xml
+  AddType application/json .json
+  AddType text/css .css
+  AddType application/javascript .js
+  AddType image/svg+xml .svg
+  AddType image/webp .webp
+  AddType image/avif .avif
+</IfModule>

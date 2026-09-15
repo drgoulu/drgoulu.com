@@ -126,4 +126,4 @@ jobs:
           REMOTE_USER: ${{ secrets.INFOMANIAK_SSH_USER || secrets.INFOMANIAK_USER }}
           TARGET: ${{ secrets.INFOMANIAK_TARGET_DIR }}
           REMOTE_PORT: ${{ secrets.INFOMANIAK_SSH_PORT || secrets.INFOMANIAK_PORT || 22 }}
-          EXCLUDE: "/.git*,/.htaccess"
+          EXCLUDE: "/.git*"
