@@ -16,6 +16,7 @@ permalinks:
   posts: /:year/:month/:day/:slug/
   blog: /:year/:month/:day/:slug/
   tags: /tag/:slug/
+  pages: /:slug/
 
 ############################
 ## PAGE OPTIONS

@@ -1,7 +1,9 @@
 ---
-title: "A propos"
+title: "À propos"
 slug: "a-propos"
 date: 2010-12-24
+show_date: false
+reading_time: false
 ---
 
 Bienvenue sur mon blog scientifico-touche-à-tout.
@@ -60,11 +62,7 @@ Dr. Goulu se voulant instructif, vous trouverez [plus d'infos et mes recommandat
 
 J'ai créé mon [premier site web en 1998](http://goulus.tripod.com) sous FrontPage, puis essayé divers CMS dont SPIP et même MediaWiki avant de migrer le blog sous [/](/). Fin 2010, j'ai commencé à utiliser le génial logiciel [WordPress](https://wpfr.net/), d'abord sur [http://drgoulu.wordpress.com/](http://drgoulu.wordpress.com/), puis hébergé chez GoDaddy dès 2011 et depuis avril 2013 chez [infomaniak](http://www.infomaniak.com/) suite à quelques [mésaventures](http://microclub.ch/2013/01/18/drgoulu-com-a-ete-hacke/) et des problèmes de performance.
 
-Ce blog WordPress utilise actuellement les plugins suivants:
-
-\[plugins\_list\]
-
-### C'est quoi ces Ⓦ ?
+En 2026 j'ai [migré](2026/08/17/migration) le blog vers [Hugo](https://gohugo.io/), un générateur de sites statiques.
 
 Je suis un grand fan et un modeste [contributeur](https://fr.wikipedia.org/wiki/Utilisateur:Goulu) de la Wikipédia que j'utilise intensivement (mais pas exclusivement) pour me documenter, pour me rafraîchir la mémoire sur certaines notions scolaires et pour vérifier des infos. Une forte proportion des liens qui émaillent mes articles pointent donc vers la Wikipédia, à tel point que j'ai installé le plugin WordPress "[reference-2-wiki](http://wordpress.org/plugins/reference-2-wiki/)" pour me permettre de créer ces liens plus simplement, en utilisant la \[ \[notation wikipedia\] \].
 
@@ -80,6 +78,6 @@ Cool, non ?
 
 ### Impressum
 
-Philippe Guglielmetti 1023 Crissier, Suisse
+Philippe Guglielmetti 1950 Sion, Suisse
 
-ISSN [2297-0150](http://www.helveticat.ch/lib/item?id=chamo:1751674&theme=Helveticat)
+ISSN [2297-0150](https://nb-helveticat.primo.exlibrisgroup.com/permalink/41SNL_51_INST/15h1kid/alma991000999449703976)
