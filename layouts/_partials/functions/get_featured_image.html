@@ -32,12 +32,18 @@
       {{ $clean_fn := strings.TrimPrefix "./" $filename }}
       {{/* Search in page folder */}}
       {{ $resource = (.Resources.ByType "image").GetMatch $clean_fn }}
-      {{/* Search in posts/<year>/images/ */}}
+      {{/* Search in <collection>/<year>/images/ in assets */}}
       {{ if not (reflect.IsResource $resource) }}
         {{ $post_year := .Date.Format "2006" }}
-        {{ $resource = resources.Get (path.Join "posts" $post_year "images" (path.Base $clean_fn)) }}
+        {{ $section := .Section | default .Type | default (.Param "type") }}
+        {{ with $section }}
+          {{ $resource = resources.Get (path.Join . $post_year "images" (path.Base $clean_fn)) }}
+          {{ if not (reflect.IsResource $resource) }}
+            {{ $resource = resources.Get (path.Join . $post_year $clean_fn) }}
+          {{ end }}
+        {{ end }}
         {{ if not (reflect.IsResource $resource) }}
-          {{ $resource = resources.Get (path.Join "posts" $post_year $clean_fn) }}
+          {{ $resource = resources.GetMatch (printf "**/%s/**/%s" $post_year (path.Base $clean_fn)) }}
         {{ end }}
       {{ end }}
       {{/* Search in media/ folder */}}

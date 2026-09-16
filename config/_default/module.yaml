@@ -15,8 +15,8 @@ imports:
 mounts:
   - source: content
     target: content
-  - source: content/posts
-    target: assets/posts
+  - source: content
+    target: assets
     files:
       - "**/images/**"
       - "**/*.jpg"

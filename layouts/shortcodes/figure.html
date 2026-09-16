@@ -20,11 +20,18 @@
 {{- if not $is_remote -}}
   {{- $clean_dest := strings.TrimPrefix "./" $src -}}
   {{- $img = (.Page.Resources.ByType "image").GetMatch $clean_dest -}}
+  {{/* Check <collection>/<year>/images/ in assets */}}
   {{- if not $img -}}
     {{- $post_year := .Page.Date.Format "2006" -}}
-    {{- $img = resources.Get (path.Join "posts" $post_year "images" (path.Base $clean_dest)) -}}
+    {{- $section := .Page.Section | default .Page.Type | default (.Page.Param "type") -}}
+    {{- with $section -}}
+      {{- $img = resources.Get (path.Join . $post_year "images" (path.Base $clean_dest)) -}}
+      {{- if not $img -}}
+        {{- $img = resources.Get (path.Join . $post_year $clean_dest) -}}
+      {{- end -}}
+    {{- end -}}
     {{- if not $img -}}
-      {{- $img = resources.Get (path.Join "posts" $post_year $clean_dest) -}}
+      {{- $img = resources.GetMatch (printf "**/%s/**/%s" $post_year (path.Base $clean_dest)) -}}
     {{- end -}}
   {{- end -}}
   {{- if not $img -}}
