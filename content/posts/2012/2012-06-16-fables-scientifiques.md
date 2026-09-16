@@ -7,6 +7,7 @@ tags:
   - livres
   - pseudo
   - science
+  - fraude
 categories:
   - Pourquoi
 slug: fables-scientifiques

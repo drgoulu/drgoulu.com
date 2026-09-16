@@ -45,7 +45,7 @@ fi
 
 # 1. Construire le site et générer l'index Pagefind pour que la recherche fonctionne en local
 echo "🔍 Construction du site et indexation Pagefind pour la recherche locale..."
-(cd "$SITE_DIR" && hugo --environment sveltia --buildDrafts --buildFuture && pnpm exec pagefind --site public --output-path static/pagefind)
+(cd "$SITE_DIR" && hugo --environment sveltia --cleanDestinationDir --buildFuture && pnpm exec pagefind --site public --output-path static/pagefind)
 
 # 2. Lancer le serveur Vite de Sveltia CMS en arrière-plan
 (cd "$SVELTIA_DIR" && VITE_SITE_URL="http://localhost:1313" HUGO_CONTENT_DIR="$SITE_DIR/content" ./node_modules/.bin/vite) &
@@ -53,11 +53,11 @@ echo "🔍 Construction du site et indexation Pagefind pour la recherche locale.
 # Petit délai pour laisser Vite démarrer
 sleep 1
 
-# 3. Lancer le serveur Hugo avec rechargement automatique et build des brouillons
+# 3. Lancer le serveur Hugo avec rechargement automatique (sans publier les brouillons)
 (
   cd "$SITE_DIR"
   while true; do
-    hugo server --environment sveltia --buildDrafts --buildFuture --disableLiveReload || true
+    hugo server --environment sveltia --buildFuture --disableLiveReload || true
     echo "⚠️ Hugo server s'est arrêté. Redémarrage automatique dans 2 secondes..."
     sleep 2
   done

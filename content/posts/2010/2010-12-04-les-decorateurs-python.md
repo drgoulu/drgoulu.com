@@ -1,17 +1,17 @@
 ---
-title: "les décorateurs, ou pourquoi j'aime toujours la programmation"
-slug: "les-decorateurs-python"
-date: 2010-12-04
-categories:
-  - "Comment"
-tags: 
-  - "informatique"
-  - "programmation"
-  - "python"
-coverImage: "./images/e9451462598a3ecd58ddabd87a766503.jpg"
-
 aliases:
-  - "/2010/12/03/les-decorateurs-python/"
+  - /2010/12/03/les-decorateurs-python/
+title: les décorateurs, ou pourquoi j'aime toujours la programmation
+date: 2010-12-04
+draft: false
+tags:
+  - informatique
+  - programmation
+  - python
+categories:
+  - Comment
+slug: les-decorateurs-python
+coverImage: ./images/e9451462598a3ecd58ddabd87a766503.jpg
 ---
 
 Je programme des ordinateurs depuis 30 ans, et tous les 5 ans environ je me demande pourquoi je continue à aimer ça. Et à chaque fois je découvre quelque chose qui provoque un "éclair haha", une de ces illuminations cérébrales où l'on entrevoit le Génie dans toute sa Pureté avant de retomber sur sa chaise motivé pour les 5 ans suivants.
@@ -22,23 +22,34 @@ Le dernier a été provoqué cette semaine par les "décorateurs" de Python, don
 
 Le second flash date de 1985, la grande époque de [Turbo Pascal](w:). Un jour j'ai vu quelque chose comme ça:
 
-\[pascal\]function factorielle(n: integer): integer; begin if n <= 1 then result := 1 else result := n\*factorielle(n-1); end;\[/pascal\]
+{{< highlight pascal >}}
+function factorielle(n: integer): integer; 
+begin 
+  if n <= 1 then result := 1 else 
+    result := n*factorielle(n-1); 
+end;
+{{< /highlight >}}
 
 Une fonction qui s'appelle elle même ! Merveilleuse [récursivité](w:fonction_récursive), chaque fois que je te revois, je me rappelle mon émoi à notre première rencontre.
 
-Les années 1990 sont riches en "haha"s plus rapprochés mais moins intenses pendant mes études à l'EPFL : la [programmation fonctionnelle](w:) en LISP, le moteur d'inférence de [Prolog](w:),  la [généricité](w:) en d'ADA, qui semblait à l'époque bien plus importante que la programmation orientée objet, juste entrevue.  Et [Occam](w:Occam_(langage)), précurseur de la programmation parallèle trop tôt disparu.
+Les années 1990 sont riches en "haha"s plus rapprochés mais moins intenses pendant mes études à l'EPFL : la [programmation fonctionnelle](w:) en LISP, le moteur d'inférence de [Prolog](w:),  la [généricité](w:) en d'ADA, qui semblait à l'époque bien plus importante que la programmation orientée objet, juste entrevue.  Et [Occam](w:Occam_\(langage\)), précurseur de la programmation parallèle trop tôt disparu.
 
 Un peu avant 1995, je découvre [LabView](w:) et le flash se produit lorsque je comprends que c'est un véritable langage de programmation complet... sans code ! Ou plus exactement que le langage graphique de LabView permet de programmer directement au niveau sémantique. Adieu "syntax error" ! Quel dommage que [NI](http://www.ni.com/) vende cette merveille si cher et l'aie blindé de brevets défendus avec vigueur : un des concepts les plus innovants en programmation reste confiné à un cercle d'initiés alors qu'il aurait pu révolutionner l'informatique.
 
-{{< figure src="./images/f364f53ba469dc47f8253d2c53b9d310.png" alt="un programme LabView avec blocs concurrents, boucles, tests etc." caption="un &quot;programme&quot; LabView avec blocs concurrents, boucles, tests etc." align="aligncenter" width="821" >}}
+{{< figure align="aligncenter" alt="un programme LabView avec blocs concurrents, boucles, tests etc." caption="un &quot;programme&quot; LabView avec blocs concurrents, boucles, tests etc." src="./images/f364f53ba469dc47f8253d2c53b9d310.png" width="821" >}}
 
-Vers 2000, je constate qu'on m'avait menti : C++ est beaucoup plus qu'un C amélioré. C'est un grand festival de "haha" en quelques jours : les [références](w:en:Reference_(C++)), la [const-correctness](w:en), l'[héritage multiple](w:), la [surcharge des opérateurs](w:), les [exceptions](http://fr.wikibooks.org/wiki/Programmation_C%2B%2B/Exceptions) , le [RTTI](w:Run-time_type_information), mais surtout la [Standard Template Library](w:) (STL). Java et .NET ont des librairies de classes et fonctions à tout faire, mais C++ a une "méta-librairie", un système qui produit du code très optimisé pour chaque opération spécifique, en utilisant notamment le concept d'[itérateur](w:).
+Vers 2000, je constate qu'on m'avait menti : C++ est beaucoup plus qu'un C amélioré. C'est un grand festival de "haha" en quelques jours : les [références](w:en:Reference_\(C++\)), la [const-correctness](w:en), l'[héritage multiple](w:), la [surcharge des opérateurs](w:), les [exceptions](http://fr.wikibooks.org/wiki/Programmation_C%2B%2B/Exceptions) , le [RTTI](w:Run-time_type_information), mais surtout la [Standard Template Library](w:) (STL). Java et .NET ont des librairies de classes et fonctions à tout faire, mais C++ a une "méta-librairie", un système qui produit du code très optimisé pour chaque opération spécifique, en utilisant notamment le concept d'[itérateur](w:).
 
 En 2005, je lis {{< openbook booknumber="ISBN:9780201704310" templatenumber="5" >}}. Flash d'illumination : c'est génial, mais j'ai pas tout compris. Je le relis: re-flash: c'est encore plus génial que je pensais. Je le lis une troisième fois (à part "Les Robots" d'Asimov je n'ai jamais lu un livre 3 fois) : ça y'est je suis converti au "[policy based design](w:en:Policy-based_design)", une approche révolutionnaire de la programmation autorisée par une exploitation transcendantale de la combinaison C++, STL, et #macros. Les C++istes trouveront un petit [tutoriel ici](http://alp.developpez.com/tutoriels/traitspolicies/) qui les convaincra à la fois de la puissance de cette approche, et de sa lourdeur d'écriture...
 
 Et nous voici donc en 2010 où, poursuivant [ma découverte de Python](/tags/python/), je tombe sur ça:
 
-\[python\]@cache() def fib(n): if n < 2: return 1 return fib(n-1) + fib(n-2)\[/python\]
+{{< highlight python >}}
+@cache() def fib(n): 
+  if n < 2: 
+    return 1 
+  return fib(n-1) + fib(n-2)
+{{< /highlight >}}
 
 Même ceux qui ne parlent pas Python reconnaîtront une fonction récursive calculant le n-ième terme de la suite de Fibonacci, mais il y a une astuce : le @cache().
 

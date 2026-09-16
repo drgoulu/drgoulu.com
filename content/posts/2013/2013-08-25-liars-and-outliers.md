@@ -1,19 +1,21 @@
 ---
-title: "Liars and outliers"
-slug: "liars-and-outliers"
+title: Liars and outliers
 date: 2013-08-25
+draft: false
+tags:
+  - livres
+  - politique
+  - securite
+  - fraude
 categories:
-  - "Comment"
-tags: 
-  - "livres"
-  - "politique"
-  - "securite"
-coverImage: "./images/7089199-L.jpg"
+  - Comment
+slug: liars-and-outliers
+coverImage: ./images/7089199-L.jpg
 ---
 
-{{< figure src="./images/7089199-L.jpg" alt="Liars and Outliers" link="http://openlibrary.org/books/OL25254783M/Liars_and_Outliers" >}}
+{{< figure alt="Liars and Outliers" link="http://openlibrary.org/books/OL25254783M/Liars_and_Outliers" src="./images/7089199-L.jpg" width="320" >}}
 
-[Bruce Schneier](w:) est un expert réputé en [cryptologie](w:) et en sécurité informatique, mais il s'intéresse aussi à la sécurité dans un sens beaucoup plus large. Dans son dernier livre \[1\], il se demande dès le sous-titre comment "favoriser la confiance dont la société a besoin pour prospérer".
+[Bruce Schneier](w:) est un expert réputé en [cryptologie](w:) et en sécurité informatique, mais il s'intéresse aussi à la sécurité dans un sens beaucoup plus large. Dans son dernier livre [1], il se demande dès le sous-titre comment "favoriser la confiance dont la société a besoin pour prospérer".
 
 Le livre commence par un épisode de la vie courante : un inconnu sonne à la porte de Schneier en disant qu'il est plombier. Schneier le fait entrer et le laisse un moment à la cuisine, où le gars farfouille sous l'évier puis dit que ça fera tant. Sans même vérifier que la fuite est réparée, Schneier lui tend un chèque que le plombier empoche sans même le regarder et sort. Schneier n'a ni vérifié le diplôme du plombier, ni appelé son employeur pour vérifier qu'il n'était pas un cambrioleur déguisé. Et le plombier n'a pas appelé la banque pour savoir si le chèque de Schneier était en bois ou pas.
 
