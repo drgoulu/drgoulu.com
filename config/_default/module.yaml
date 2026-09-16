@@ -15,8 +15,18 @@ imports:
 mounts:
   - source: content
     target: content
-  - source: content
-    target: assets
+  - source: content/posts
+    target: assets/posts
+    files:
+      - "**/images/**"
+      - "**/*.jpg"
+      - "**/*.jpeg"
+      - "**/*.png"
+      - "**/*.gif"
+      - "**/*.svg"
+      - "**/*.webp"
+  - source: content/quora
+    target: assets/quora
     files:
       - "**/images/**"
       - "**/*.jpg"

@@ -15,7 +15,7 @@
 {{ $numbered := false }}
 
 {{- $img := "" -}}
-{{- if not $is_remote -}}
+{{- if and (not $is_remote) (not (strings.HasPrefix $destination "#")) -}}
   {{- $clean_dest := strings.TrimPrefix "/" (strings.TrimPrefix "./" $destination) -}}
   {{/* 1. Page bundle resources */}}
   {{- $img = (.Page.Resources.ByType "image").GetMatch $clean_dest -}}
@@ -30,16 +30,16 @@
       {{- end -}}
     {{- end -}}
     {{- if not $img -}}
-      {{- $img = resources.GetMatch (printf "**/%s/**/%s" $post_year (path.Base $clean_dest)) -}}
+      {{- $img = resources.Get (path.Join "posts" $post_year "images" (path.Base $clean_dest)) -}}
+    {{- end -}}
+    {{- if not $img -}}
+      {{- $img = resources.Get (path.Join "quora" $post_year "images" (path.Base $clean_dest)) -}}
     {{- end -}}
   {{- end -}}
   {{/* 3. Check parent section resources */}}
   {{- if not $img -}}
     {{- with .Page.Parent -}}
       {{- $img = (.Resources.ByType "image").GetMatch $clean_dest -}}
-      {{- if not $img -}}
-        {{- $img = (.Resources.ByType "image").GetMatch (printf "**/%s" (path.Base $clean_dest)) -}}
-      {{- end -}}
     {{- end -}}
   {{- end -}}
   {{/* 4. Check media/ folder in assets */}}
@@ -49,10 +49,6 @@
   {{/* 5. Check direct path in assets */}}
   {{- if not $img -}}
     {{- $img = resources.Get $clean_dest -}}
-  {{- end -}}
-  {{/* 6. Match by basename across assets */}}
-  {{- if not $img -}}
-    {{- $img = resources.GetMatch (printf "**/%s" (path.Base $clean_dest)) -}}
   {{- end -}}
 {{- end -}}
 

@@ -54,20 +54,19 @@
           {{ end }}
         {{ end }}
         {{ if not (reflect.IsResource $resource) }}
-          {{ $resource = resources.GetMatch (printf "**/%s/**/%s" $post_year (path.Base $clean_fn)) }}
+          {{ $resource = resources.Get (path.Join "posts" $post_year "images" (path.Base $clean_fn)) }}
+        {{ end }}
+        {{ if not (reflect.IsResource $resource) }}
+          {{ $resource = resources.Get (path.Join "quora" $post_year "images" (path.Base $clean_fn)) }}
         {{ end }}
       {{ end }}
       {{/* Search in media/ folder */}}
       {{ if not (reflect.IsResource $resource) }}
-        {{ $resource = resources.GetMatch (path.Join "media" $clean_fn) }}
+        {{ $resource = resources.Get (path.Join "media" $clean_fn) }}
       {{ end }}
       {{/* Search direct path in assets */}}
       {{ if not (reflect.IsResource $resource) }}
         {{ $resource = resources.Get $clean_fn }}
-      {{ end }}
-      {{/* Search match across assets */}}
-      {{ if not (reflect.IsResource $resource) }}
-        {{ $resource = resources.GetMatch (printf "**/%s" (path.Base $clean_fn)) }}
       {{ end }}
     {{ end }}
   {{ end }}
