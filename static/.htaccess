@@ -78,6 +78,11 @@ ErrorDocument 404 /404.html
     Header set Cache-Control "max-age=31536000, public"
   </FilesMatch>
 
+  # Sveltia CMS bundle : pas de cache agressif pour permettre les mises à jour immédiates
+  <FilesMatch "^sveltia-cms">
+    Header set Cache-Control "no-cache, must-revalidate"
+  </FilesMatch>
+
   # HTML et flux RSS revalidés
   <FilesMatch "\.(html|xml)$">
     Header set Cache-Control "no-cache, must-revalidate"
