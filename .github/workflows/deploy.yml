@@ -19,6 +19,8 @@ jobs:
   build:
     name: Build Site
     runs-on: ubuntu-latest
+    outputs:
+      github_pages_ready: ${{ steps.github-pages-size.outputs.ready }}
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -77,8 +79,23 @@ jobs:
       - name: Index search with Pagefind
         run: pnpm run pagefind
 
+      - name: Check GitHub Pages size limit
+        id: github-pages-size
+        run: |
+          set -eu
+
+          site_size_bytes="$(du -sb public | cut -f1)"
+
+          if [ "${site_size_bytes}" -le 1000000000 ]; then
+            echo "ready=true" >> "${GITHUB_OUTPUT}"
+          else
+            echo "::warning::Skipping GitHub Pages deployment because public/ is ${site_size_bytes} bytes, which exceeds the 1 GB GitHub Pages site limit."
+            echo "ready=false" >> "${GITHUB_OUTPUT}"
+          fi
+
       # Artefact pour GitHub Pages
       - name: Upload Pages artifact
+        if: ${{ steps.github-pages-size.outputs.ready == 'true' }}
         uses: actions/upload-pages-artifact@v5
         with:
           path: ./public
@@ -94,6 +111,7 @@ jobs:
   # Déploiement 1 : GitHub Pages
   deploy-github-pages:
     name: Deploy to GitHub Pages
+    if: ${{ needs.build.outputs.github_pages_ready == 'true' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
