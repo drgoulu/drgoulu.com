@@ -172,9 +172,9 @@ jobs:
           }
 
           decode_base64() {
-            if printf '' | base64 -d >/dev/null 2>&1; then
+            if printf 'WA==' | base64 -d >/dev/null 2>&1; then
               printf '%s' "${1}" | base64 -d
-            elif printf '' | base64 -D >/dev/null 2>&1; then
+            elif printf 'WA==' | base64 -D >/dev/null 2>&1; then
               printf '%s' "${1}" | base64 -D
             else
               return 1
