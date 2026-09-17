@@ -188,7 +188,7 @@ jobs:
           normalized_key="$(strip_wrapping_quotes "$(printf '%s' "${RAW_SSH_PRIVATE_KEY}" | tr -d '\r')")"
 
           if ! validate_private_key "${normalized_key}"; then
-            escaped_key="$(strip_wrapping_quotes "$(printf '%b' "${normalized_key}")")"
+            escaped_key="$(printf '%b' "${normalized_key}")"
 
             if validate_private_key "${escaped_key}"; then
               :
