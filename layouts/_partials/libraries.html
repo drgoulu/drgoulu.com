@@ -102,8 +102,8 @@
 <script defer src="{{ $markmap_js.RelPermalink }}" integrity="{{ $markmap_js.Data.Integrity }}"></script>
 {{ end }}
 
-{{/* Katex - only loaded if page actually contains math */}}
-{{ $has_math := or (.Page.HasShortcode "math") .Params.math site.Params.hugoblox.content.math.enable (and .IsPage (or (strings.Contains .RawContent "$$") (strings.Contains .RawContent "\\[mathjax\\]"))) }}
+{{/* Katex - loaded if math is enabled globally, via param/shortcode, or if raw content contains math syntax */}}
+{{ $has_math := or site.Params.hugoblox.content.math.enable (.Page.HasShortcode "math") .Params.math (and .IsPage (or (strings.Contains .RawContent "$") (strings.Contains .RawContent "\\(") (strings.Contains .RawContent "\\[mathjax\\]"))) }}
 {{ if $has_math }}
   {{ $katex_css := resources.Get "dist/lib/katex/katex.min.css" }}
   {{ $katex_css = $katex_css | resources.Fingerprint "sha256" }}

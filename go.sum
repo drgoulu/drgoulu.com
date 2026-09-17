@@ -4,6 +4,7 @@ github.com/HugoBlox/kit/modules/integrations/netlify v0.0.0-20260327032542-ef8ed
 github.com/HugoBlox/kit/modules/integrations/netlify v0.0.0-20260327032542-ef8ed449c7e8/go.mod h1:UuppRGml2K1EmlDkN+HemycohgZLjOy0QPGYOnoPnY4=
 github.com/drgoulu/altmetric4hugo v0.0.0-20260830112131-f7ced6beec3d h1:Qg/4EA4l0NuO63D+nJPx5xIZ4AlPq+bKKQeOKpjGP8c=
 github.com/drgoulu/altmetric4hugo v0.0.0-20260830112131-f7ced6beec3d/go.mod h1:s35Egc4KPTJXRCqFPqByu7aU2N39ZtIjREeF1+2B6+8=
+github.com/drgoulu/headless-cms v0.0.0-20260912170201-520a42fbe5c6 h1:CQsrxb/07dO9wzUKj4y+V0gMpSaydTLx7i9VdtoruMQ=
 github.com/drgoulu/headless-cms v0.0.0-20260912170201-520a42fbe5c6/go.mod h1:aG1LMciGe9o0CCn6AG6aP5DN3Rz452wOoyW+wYZeeis=
 github.com/goulu/altmetric4hugo v0.0.0-20260830112131-f7ced6beec3d h1:z2dN11ZWFEYXqVgX2cyO8QLGCB5HTYxCLJHoJTx4fgM=
 github.com/goulu/altmetric4hugo v0.0.0-20260830112131-f7ced6beec3d/go.mod h1:s35Egc4KPTJXRCqFPqByu7aU2N39ZtIjREeF1+2B6+8=

@@ -71,3 +71,7 @@ npm-debug.log*
 content/admin-preview.md
 content/posts/admin-preview.md
 
+# Generated single-tag build blockers
+content/tags/*/_index.md
+!content/tags/_index.md
+
