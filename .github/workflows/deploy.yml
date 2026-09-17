@@ -19,6 +19,8 @@ jobs:
   build:
     name: Build Site
     runs-on: ubuntu-latest
+    outputs:
+      github_pages_enabled: ${{ steps.pages-artifact-check.outputs.github_pages_enabled }}
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -77,8 +79,23 @@ jobs:
       - name: Index search with Pagefind
         run: pnpm run pagefind
 
+      - name: Check GitHub Pages size limit
+        id: pages-artifact-check
+        run: |
+          set -eu
+          size_bytes="$(du -sb ./public | cut -f1)"
+          echo "public_size_bytes=${size_bytes}" >> "${GITHUB_OUTPUT}"
+
+          if [ "${size_bytes}" -le 1000000000 ]; then
+            echo "github_pages_enabled=true" >> "${GITHUB_OUTPUT}"
+          else
+            echo "github_pages_enabled=false" >> "${GITHUB_OUTPUT}"
+            echo "::warning::Skipping GitHub Pages deploy because ./public is ${size_bytes} bytes (> 1000000000). Infomaniak deploy will continue."
+          fi
+
       # Artefact pour GitHub Pages
       - name: Upload Pages artifact
+        if: steps.pages-artifact-check.outputs.github_pages_enabled == 'true'
         uses: actions/upload-pages-artifact@v5
         with:
           path: ./public
@@ -94,6 +111,7 @@ jobs:
   # Déploiement 1 : GitHub Pages
   deploy-github-pages:
     name: Deploy to GitHub Pages
+    if: needs.build.outputs.github_pages_enabled == 'true'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
