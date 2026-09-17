@@ -197,8 +197,6 @@ jobs:
 
               if validate_private_key "${decoded_key}"; then
                 :
-              elif validate_private_key "$(printf '%b' "${decoded_key}")"; then
-                :
               else
                 invalid_key_error
                 exit 1
