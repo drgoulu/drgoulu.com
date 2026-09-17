@@ -192,7 +192,7 @@ jobs:
 
             if validate_private_key "${escaped_key}"; then
               :
-            elif decoded_key="$(decode_base64 "${sanitized_key}" 2>/dev/null)"; then
+            elif decoded_key="$(decode_base64 "${escaped_key}" 2>/dev/null)"; then
               decoded_key="$(strip_wrapping_quotes "${decoded_key}")"
 
               if validate_private_key "${decoded_key}"; then
