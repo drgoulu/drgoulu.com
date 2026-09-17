@@ -136,15 +136,37 @@ jobs:
 
           echo "REMOTE_USER=${remote_user}" >> "${GITHUB_ENV}"
           echo "REMOTE_HOST=${remote_host}" >> "${GITHUB_ENV}"
+          echo "REMOTE_PORT=${{ secrets.INFOMANIAK_SSH_PORT || secrets.INFOMANIAK_PORT || 22 }}" >> "${GITHUB_ENV}"
+
+      - name: Prepare SSH private key
+        env:
+          RAW_SSH_PRIVATE_KEY: ${{ secrets.INFOMANIAK_SSH_KEY }}
+        run: |
+          set -eu
+
+          mkdir -p "${HOME}/.ssh"
+          chmod 700 "${HOME}/.ssh"
+
+          private_key_file="${HOME}/.ssh/infomaniak_deploy_key"
+          sanitized_key="$(printf '%s' "${RAW_SSH_PRIVATE_KEY}" | tr -d '\r')"
+          printf '%b\n' "${sanitized_key}" > "${private_key_file}"
+          chmod 600 "${private_key_file}"
+
+          ssh-keygen -y -f "${private_key_file}" >/dev/null
+
+          echo "SSH_PRIVATE_KEY_FILE=${private_key_file}" >> "${GITHUB_ENV}"
+
+      - name: Add Infomaniak host key
+        run: |
+          set -eu
+          ssh-keyscan -p "${REMOTE_PORT}" -H "${REMOTE_HOST}" >> "${HOME}/.ssh/known_hosts"
 
       - name: Sync to Infomaniak via SSH/rsync
-        uses: easingthemes/ssh-deploy@v6
-        with:
-          SSH_PRIVATE_KEY: ${{ secrets.INFOMANIAK_SSH_KEY }}
-          ARGS: "-rlgoDzvc -i --delete"
-          SOURCE: "public/"
-          REMOTE_HOST: ${{ env.REMOTE_HOST }}
-          REMOTE_USER: ${{ env.REMOTE_USER }}
+        env:
           TARGET: ${{ secrets.INFOMANIAK_TARGET_DIR }}
-          REMOTE_PORT: ${{ secrets.INFOMANIAK_SSH_PORT || secrets.INFOMANIAK_PORT || 22 }}
-          EXCLUDE: "/.git*"
+        run: |
+          set -eu
+
+          rsync -rlgoDzvc -i --delete --exclude='/.git*' \
+            -e "ssh -p ${REMOTE_PORT} -i ${SSH_PRIVATE_KEY_FILE} -o StrictHostKeyChecking=yes" \
+            public/ "${REMOTE_USER}@${REMOTE_HOST}:${TARGET}"
