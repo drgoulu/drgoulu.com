@@ -32,10 +32,12 @@ node_modules/
 # Environment & Configuration
 # ============================================================================
 
-# Environment variables
+# Environment & Deployment Secrets
 .env
-.env.local
-.env.*.local
+.env.*
+!.env*.example
+*.secrets
+!*.secrets.example
 
 # ============================================================================
 # Generated Content
