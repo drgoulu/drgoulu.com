@@ -181,6 +181,10 @@ jobs:
             fi
           }
 
+          invalid_key_error() {
+            echo "::error::INFOMANIAK_SSH_KEY is not a valid SSH private key. Store the raw key, an escaped-newline version, or a base64-encoded copy of the key." >&2
+          }
+
           sanitized_key="$(strip_wrapping_quotes "$(printf '%s' "${RAW_SSH_PRIVATE_KEY}" | tr -d '\r')")"
 
           if ! validate_private_key "${sanitized_key}"; then
@@ -196,11 +200,11 @@ jobs:
               elif validate_private_key "$(printf '%b' "${decoded_key}")"; then
                 :
               else
-                echo "::error::INFOMANIAK_SSH_KEY is not a valid SSH private key. Store the raw key, an escaped-newline version, or a base64-encoded copy of the key." >&2
+                invalid_key_error
                 exit 1
               fi
             else
-              echo "::error::INFOMANIAK_SSH_KEY is not a valid SSH private key. Store the raw key, an escaped-newline version, or a base64-encoded copy of the key." >&2
+              invalid_key_error
               exit 1
             fi
           fi
