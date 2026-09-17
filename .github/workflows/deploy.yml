@@ -171,6 +171,16 @@ jobs:
             ssh-keygen -y -f "${private_key_file}" >/dev/null 2>&1
           }
 
+          decode_base64() {
+            if printf '' | base64 -d >/dev/null 2>&1; then
+              printf '%s' "${1}" | base64 -d
+            elif printf '' | base64 -D >/dev/null 2>&1; then
+              printf '%s' "${1}" | base64 -D
+            else
+              return 1
+            fi
+          }
+
           sanitized_key="$(strip_wrapping_quotes "$(printf '%s' "${RAW_SSH_PRIVATE_KEY}" | tr -d '\r')")"
 
           if ! validate_private_key "${sanitized_key}"; then
@@ -178,7 +188,7 @@ jobs:
 
             if validate_private_key "${escaped_key}"; then
               :
-            elif decoded_key="$(printf '%s' "${sanitized_key}" | base64 -d 2>/dev/null)"; then
+            elif decoded_key="$(decode_base64 "${sanitized_key}" 2>/dev/null)"; then
               decoded_key="$(strip_wrapping_quotes "${decoded_key}")"
 
               if validate_private_key "${decoded_key}"; then
