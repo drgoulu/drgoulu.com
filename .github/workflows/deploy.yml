@@ -83,14 +83,15 @@ jobs:
         id: pages-artifact-check
         run: |
           set -eu
+          pages_size_limit_bytes=1000000000
           size_bytes="$(du -sb ./public | cut -f1)"
           echo "public_size_bytes=${size_bytes}" >> "${GITHUB_OUTPUT}"
 
-          if [ "${size_bytes}" -le 1000000000 ]; then
+          if [ "${size_bytes}" -le "${pages_size_limit_bytes}" ]; then
             echo "github_pages_enabled=true" >> "${GITHUB_OUTPUT}"
           else
             echo "github_pages_enabled=false" >> "${GITHUB_OUTPUT}"
-            echo "::warning::Skipping GitHub Pages deploy because ./public is ${size_bytes} bytes (> 1000000000). Infomaniak deploy will continue."
+            echo "::warning::Skipping GitHub Pages deploy because ./public is ${size_bytes} bytes (> ${pages_size_limit_bytes}). Infomaniak deploy will continue."
           fi
 
       # Artefact pour GitHub Pages
