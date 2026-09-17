@@ -149,7 +149,21 @@ jobs:
 
           private_key_file="${HOME}/.ssh/infomaniak_deploy_key"
           sanitized_key="$(printf '%s' "${RAW_SSH_PRIVATE_KEY}" | tr -d '\r')"
-          printf '%b\n' "${sanitized_key}" > "${private_key_file}"
+          sanitized_key="${sanitized_key#\"}"
+          sanitized_key="${sanitized_key%\"}"
+          sanitized_key="${sanitized_key#\'}"
+          sanitized_key="${sanitized_key%\'}"
+          sanitized_key="${sanitized_key//\\\\n/$'\n'}"
+          sanitized_key="${sanitized_key//\\n/$'\n'}"
+
+          if ! printf '%s' "${sanitized_key}" | grep -q 'BEGIN .* PRIVATE KEY'; then
+            decoded_key="$(printf '%s' "${sanitized_key}" | base64 --decode 2>/dev/null || true)"
+            if printf '%s' "${decoded_key}" | grep -q 'BEGIN .* PRIVATE KEY'; then
+              sanitized_key="${decoded_key}"
+            fi
+          fi
+
+          printf '%s\n' "${sanitized_key}" > "${private_key_file}"
           chmod 600 "${private_key_file}"
 
           ssh-keygen -y -f "${private_key_file}" >/dev/null
