@@ -1,0 +1,129 @@
+---
+title: Quelles sont les espèces animales que l'on ne trouve que dans l'UE ?
+slug: quelles-sont-les-especes-animales-que-l-on-ne-trouve-que-dans-l-ue
+date: '2020-03-18'
+draft: false
+categories:
+- Quora
+tags:
+- geographie
+- union-europeenne
+- especes-eteintes
+- faune
+- biodiversite
+- espece-endemique
+- especes
+- conservation-de-la-faune
+- especes-rares
+- biodiversite-et-environnement
+coverImage: ./images/quora.png
+---
+
+*Réponse publiée [sur Quora](https://fr.quora.com/Quelles-sont-les-esp%C3%A8ces-animales-que-lon-ne-trouve-que-dans-lUE/answer/Dr-Goulu)*
+
+Celles listées dans [Catégorie:Faune endémique d'Europe — Wikipédia](w:Catégorie:Faune_endémique_d'Europe) et les sous-pages.
+
+Il y en a beaucoup. Rien que la [Faune endémique de France métropolitaine](w:Catégorie:Faune_endémique_de_France_métropolitaine) contient 102 espèces :
+
+1. [Acanthocreagris gallica](w:)
+2. [Acanthocreagris lucifuga](w:)
+3. [Acanthocreagris pyrenaica](w:)
+4. [Arcyptera fusca](w:)
+5. [Arcyptera kheili](w:)
+6. [Ariadna gallica](w:)
+7. [Bathyphantes vittiger](w:)
+8. [Batillipes roscoffensis](w:)
+9. [Beierochelifer geoffroyi](w:)
+10. [Bessoniella procera](w:)
+11. [Chabot du Lez](w:)
+12. [Chthonius balazuci](w:)
+13. [Chthonius cebenicus](w:)
+14. [Chthonius cephalotes](w:)
+15. [Chthonius heurtaultae](w:)
+16. [Chthonius mayi](w:)
+17. [Chthonius mazaurici](w:)
+18. [Cicadetta cantilatrix](w:)
+19. [Collinsia despaxi](w:)
+20. [Cybaeus raymondi](w:)
+21. [Cylindropygus ferox](w:)
+22. [Diplocephalus culminicola](w:)
+23. [Dipoena latifrons](w:)
+24. [Dresconella nivicola](w:)
+25. [Duvalius laneyriei](w:)
+26. [Entelecara cacuminum](w:)
+27. [Entelecara turbinata](w:)
+28. [Erigone fluctuans](w:)
+29. [Esox aquitanicus](w:)
+30. [Eukoenenia bouilloni](w:)
+31. [Eukoenenia brolemanni](w:)
+32. [Eukoenenia pyrenaella](w:)
+33. [Eukoenenia pyrenaica](w:)
+34. [Gonatium geniculosum](w:)
+35. [Hybocoptus dubius](w:)
+36. [Hyptiotes dentatus](w:)
+37. [Leptoneta alpica](w:)
+38. [Leptoneta cavalairensis](w:)
+39. [Leptoneta ciaisensis](w:)
+40. [Leptoneta condei](w:)
+41. [Leptoneta convexa](w:)
+42. [Leptoneta fagei](w:)
+43. [Leptoneta fouresi](w:)
+44. [Leptoneta infuscata](w:)
+45. [Leptoneta jeanneli](w:)
+46. [Leptoneta lantosquensis](w:)
+47. [Leptoneta manca](w:)
+48. [Leptoneta microphthalma](w:)
+49. [Leptoneta olivacea](w:)
+50. [Leptoneta proserpina](w:)
+51. [Leptoneta trabucensis](w:)
+52. [Leptoneta vittata](w:)
+53. [Liocranum segmentatum](w:)
+54. [Mastigusa lucifuga](w:)
+55. [Mecynargus pyrenaeus](w:)
+56. [Menemerus schutzae](w:)
+57. [Meyrargueria rasini](w:)
+58. [Micrargus dissimilis](w:)
+59. [Mughiphantes arlaudi](w:)
+60. [Mughiphantes johannislupi](w:)
+61. [Mughiphantes jugorum](w:)
+62. [Mughiphantes pyrenaeus](w:)
+63. [Neobisium abeillei](w:)
+64. [Neobisium auberti](w:)
+65. [Neobisium balazuci](w:)
+66. [Neobisium bessoni](w:)
+67. [Neobisium boui](w:)
+68. [Neobisium coiffaiti](w:)
+69. [Neobisium delphinaticum](w:)
+70. [Neobisium gomezi](w:)
+71. [Neobisium gracile](w:)
+72. [Neobisium juberthiei](w:)
+73. [Neobisium longidigitatum](w:)
+74. [Neobisium mahnerti](w:)
+75. [Neobisium maxvachoni](w:)
+76. [Neobisium montisageli](w:)
+77. [Neobisium parasimile](w:)
+78. [Neobisium theisianum](w:)
+79. [Neobisium tuzetae](w:)
+80. [Occitanobisium coiffaiti](w:)
+81. [Ongulogastrura longisensilla](w:)
+82. [Palliduphantes cebennicus](w:)
+83. [Palliduphantes ceretanus](w:)
+84. [Plaesianillus cyclops](w:)
+85. [Pongeia asturianensis](w:)
+86. [Prionotropis rhodanica](w:)
+87. [Ramazzottius nivalis](w:)
+88. [Robertus mazaurici](w:)
+89. [Roncobisium](w:)
+90. [Roncobisium allodentatum](w:)
+91. [Roncobisium leclerci](w:)
+92. [Roncus barbei](w:)
+93. [Roncus peissensis](w:)
+94. [Roncus remyi](w:)
+95. [Spelyngochthonius provincialis](w:)
+96. [Tegenaria mercanturensis](w:)
+97. [Thanatus dissimilis](w:)
+98. [Theridion glaucinum](w:)
+99. [Trichoncoides pilosus](w:)
+100. [Trogloarctus trionyches](w:)
+101. [Urticicola suberinus](w:)
+102. [Withius despaxi](w:)
