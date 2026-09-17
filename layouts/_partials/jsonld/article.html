@@ -1,0 +1,61 @@
+{{- $page := .page -}}
+{{- $summary := .summary | plainify -}}
+{{- $featured_image := partial "functions/get_featured_image" $page -}}
+
+{{- $schema := "BlogPosting" -}}
+{{- if or (eq $page.Type "publications") (eq $page.Type "projects") -}}
+  {{ $schema = "Article" }}
+{{- end -}}
+
+{{- $author_url := (site.GetPage "/pages/a-propos.md").Permalink | default "https://drgoulu.com/a-propos/" -}}
+
+{{- $date_published := "" -}}
+{{- if not $page.PublishDate.IsZero -}}
+  {{ $date_published = $page.PublishDate.Format "2006-01-02T15:04:05Z07:00" }}
+{{- else if not $page.Date.IsZero -}}
+  {{ $date_published = $page.Date.Format "2006-01-02T15:04:05Z07:00" }}
+{{- end -}}
+
+{{- $date_modified := "" -}}
+{{- if not $page.Lastmod.IsZero -}}
+  {{ $date_modified = $page.Lastmod.Format "2006-01-02T15:04:05Z07:00" }}
+{{- else -}}
+  {{ $date_modified = $date_published }}
+{{- end -}}
+
+{{- $json := dict
+  "@context" "https://schema.org"
+  "@type" $schema
+  "mainEntityOfPage" (dict "@type" "WebPage" "@id" $page.Permalink)
+  "headline" $page.Title
+  "description" $summary
+  "inLanguage" "fr-FR"
+  "author" (dict
+    "@type" "Person"
+    "name" "Philippe Guglielmetti"
+    "alternateName" "Dr. Goulu"
+    "url" $author_url
+  )
+  "publisher" (dict
+    "@type" "Person"
+    "name" "Dr. Goulu"
+    "url" "https://drgoulu.com/"
+    "image" "https://drgoulu.com/media/authors/me.jpg"
+  )
+-}}
+
+{{- if $featured_image -}}
+  {{- $json = merge $json (dict "image" (slice $featured_image.Permalink)) -}}
+{{- end -}}
+
+{{- if $date_published -}}
+  {{- $json = merge $json (dict "datePublished" $date_published) -}}
+{{- end -}}
+
+{{- if $date_modified -}}
+  {{- $json = merge $json (dict "dateModified" $date_modified) -}}
+{{- end -}}
+
+<script type="application/ld+json">
+{{ $json | jsonify (dict "indent" "  ") | safeJS }}
+</script>

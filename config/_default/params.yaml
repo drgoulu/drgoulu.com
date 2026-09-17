@@ -28,12 +28,12 @@ hugoblox:
     theme_toggle: true
   footer:
     style: minimal
-    language_switcher: true
+    language_switcher: false
   copyright:
     notice: © {year} {name}
   content:
     math:
-      enable: true
+      enable: false
     toc:
       enable: true
     reading_time:

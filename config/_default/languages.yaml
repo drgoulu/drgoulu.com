@@ -1,14 +1,5 @@
-# Languages
-#   Documentation: https://docs.hugoblox.com/reference/language/
-
 fr:
   locale: fr-FR
   label: Français
   params:
     locale: fr-fr
-
-en:
-  locale: en-US
-  label: English
-  params:
-    locale: en-us

@@ -8,8 +8,10 @@
   {{/* EXTENSIBILITY HOOK: HEAD-START */}}
   {{ partial "functions/get_hook" (dict "hook" "head-start" "context" .) }}
 
-  {{ if .Params.private }}
+  {{ if or .Params.private (eq .Params.robots "noindex") }}
     <meta name="robots" content="noindex" />
+  {{ else if and (or (eq .Kind "term") (eq .Kind "taxonomy")) (eq .Data.Plural "tags") }}
+    <meta name="robots" content="noindex, follow" />
   {{- end -}}
 
 {{/* Attempt to load superuser/person from data. */}}
@@ -49,10 +51,12 @@
   {{ end }}
   <meta name="description" content="{{ $desc | plainify }}" />
 
-  {{ range .Translations }}
-    <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
+  {{ if .IsTranslated }}
+    {{ range .Translations }}
+      <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
+    {{ end }}
+    <link rel="alternate" hreflang="{{ site.Language.Locale | default "fr-FR" }}" href="{{ .Permalink }}" />
   {{ end }}
-  <link rel="alternate" hreflang="{{ site.Language.Locale | default "en-us" }}" href="{{ .Permalink }}" />
 
   {{/* Hugo Blox Theme Engine Initialization */}}
   {{/* Uses get_theme_config helper for backward-compatible config resolution */}}
