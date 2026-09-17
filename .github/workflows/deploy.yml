@@ -116,14 +116,35 @@ jobs:
           name: public-site
           path: ./public
 
+      - name: Normalize SSH deploy settings
+        env:
+          RAW_REMOTE_USER: ${{ secrets.INFOMANIAK_SSH_USER || secrets.INFOMANIAK_USER }}
+          RAW_REMOTE_HOST: ${{ secrets.INFOMANIAK_SSH_HOST || secrets.INFOMANIAK_HOST }}
+        run: |
+          set -eu
+
+          remote_user="$(printf '%s' "${RAW_REMOTE_USER}" | sed -E 's/^[[:space:]]*ssh(\\)?[[:space:]]+//; s/[[:space:]]+$//')"
+          remote_host="$(printf '%s' "${RAW_REMOTE_HOST}" | sed -E 's/^[[:space:]]*ssh(\\)?[[:space:]]+//; s#[[:space:]]*ssh://##; s/[[:space:]]+$//')"
+
+          if printf '%s' "${remote_user}" | grep -q '@'; then
+            remote_host="$(printf '%s' "${remote_user}" | sed -E 's/^[^@]+@//')"
+            remote_user="$(printf '%s' "${remote_user}" | sed -E 's/@.*$//')"
+          fi
+
+          remote_host="$(printf '%s' "${remote_host}" | sed -E 's#^[^@]+@##; s#/.*$##; s/:.*$//')"
+          remote_user="$(printf '%s' "${remote_user}" | sed -E 's/[[:space:]].*$//')"
+
+          echo "REMOTE_USER=${remote_user}" >> "${GITHUB_ENV}"
+          echo "REMOTE_HOST=${remote_host}" >> "${GITHUB_ENV}"
+
       - name: Sync to Infomaniak via SSH/rsync
         uses: easingthemes/ssh-deploy@v6
         with:
           SSH_PRIVATE_KEY: ${{ secrets.INFOMANIAK_SSH_KEY }}
           ARGS: "-rlgoDzvc -i --delete"
           SOURCE: "public/"
-          REMOTE_HOST: ${{ secrets.INFOMANIAK_SSH_HOST || secrets.INFOMANIAK_HOST }}
-          REMOTE_USER: ${{ secrets.INFOMANIAK_SSH_USER || secrets.INFOMANIAK_USER }}
+          REMOTE_HOST: ${{ env.REMOTE_HOST }}
+          REMOTE_USER: ${{ env.REMOTE_USER }}
           TARGET: ${{ secrets.INFOMANIAK_TARGET_DIR }}
           REMOTE_PORT: ${{ secrets.INFOMANIAK_SSH_PORT || secrets.INFOMANIAK_PORT || 22 }}
           EXCLUDE: "/.git*"
