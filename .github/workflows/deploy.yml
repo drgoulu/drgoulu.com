@@ -148,11 +148,62 @@ jobs:
           chmod 700 "${HOME}/.ssh"
 
           private_key_file="${HOME}/.ssh/infomaniak_deploy_key"
-          sanitized_key="$(printf '%s' "${RAW_SSH_PRIVATE_KEY}" | tr -d '\r')"
-          printf '%b\n' "${sanitized_key}" > "${private_key_file}"
-          chmod 600 "${private_key_file}"
+          strip_wrapping_quotes() {
+            local value="${1}"
 
-          ssh-keygen -y -f "${private_key_file}" >/dev/null
+            case "${value}" in
+              \"*\")
+                value="${value#\"}"
+                value="${value%\"}"
+                ;;
+              \'*\')
+                value="${value#\'}"
+                value="${value%\'}"
+                ;;
+            esac
+
+            printf '%s' "${value}"
+          }
+
+          validate_private_key() {
+            printf '%s\n' "${1}" > "${private_key_file}"
+            chmod 600 "${private_key_file}"
+            ssh-keygen -y -f "${private_key_file}" >/dev/null 2>&1
+          }
+
+          decode_base64() {
+            if printf 'WA==' | base64 -d >/dev/null 2>&1; then
+              printf '%s' "${1}" | base64 -d
+            elif printf 'WA==' | base64 -D >/dev/null 2>&1; then
+              printf '%s' "${1}" | base64 -D
+            else
+              return 1
+            fi
+          }
+
+          invalid_key_error() {
+            echo "::error::INFOMANIAK_SSH_KEY is not a valid SSH private key. Store the raw key, an escaped-newline version, or a base64-encoded copy of the key." >&2
+          }
+
+          normalized_key="$(strip_wrapping_quotes "$(printf '%s' "${RAW_SSH_PRIVATE_KEY}" | tr -d '\r')")"
+
+          if ! validate_private_key "${normalized_key}"; then
+            escaped_key="$(printf '%b' "${normalized_key}")"
+
+            if validate_private_key "${escaped_key}"; then
+              :
+            elif decoded_key="$(decode_base64 "${normalized_key}" 2>/dev/null)"; then
+              if validate_private_key "${decoded_key}"; then
+                :
+              else
+                invalid_key_error
+                exit 1
+              fi
+            else
+              invalid_key_error
+              exit 1
+            fi
+          fi
 
           echo "SSH_PRIVATE_KEY_FILE=${private_key_file}" >> "${GITHUB_ENV}"
 
