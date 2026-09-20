@@ -30,7 +30,7 @@ Avec l'amélioraiton des systèmes de mesure, arrive un moment où la mesure des
 
 C'est ce qui a été fait en 1983 pour le [Mètre](w:)en le définissant comme la longueur du trajet parcouru par la [lumière](w:) dans le [vide](w:Vide_(physique)) pendant une durée d'un 299 792 458e de [seconde](w:Seconde_(temps)),
 
-ce qui revient à fixer la vitesse de la lumière à 299792458 mètres par seconde. Depuis, on ne peut plus mesurer la vitesse de la lumière : elle est fixe![[1]](#DTVME) ! Mais on peut ainsi mesurer le mètre n'importe où, sans mètre étalon.
+ce qui revient à fixer la vitesse de la lumière à 299792458 mètres par seconde. Depuis, on ne peut plus mesurer la vitesse de la lumière : elle est fixe ! [[1]](#DTVME) Mais on peut ainsi mesurer le mètre n'importe où, sans mètre étalon.
 
 En 2019 on a fait de même pour le kilogramme, en fixant la valeur numérique de la [constante de Planck](w:), *h*, à exactement $6,626 070 15 × 10^{−34} J s$
 

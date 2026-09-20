@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 C'est idiot. A part quelques chauffeurs professionnels, personne ne roule 800 km plus d'une ou deux fois par année, peut être pour aller en vacances. Et là il peut se permettre de se reposer un peu pendant que sa voiture se recharge, non ?
 
-Le trajet moyen en voiture en France, c'est 10km ![[1]](#SRHkB)
+Le trajet moyen en voiture en France, c'est 10km ! [[1]](#SRHkB)
 
 Dans tous les cas, le véhicule électrique revient moins cher dès 50'000 à 100'000 km [[2]](#Hckly) , du moins pour l'instant, avant l'inévitable introduction d'une taxe au kilomètre.
 

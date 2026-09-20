@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Les mathématiques n'ont rien à voir là dedans, c'est de la pure économie liée à la fameuse loi de l'offre et de la demande. Il faut bien réaliser que le prix de quelque chose n'a rien à voir avec son coût de production. Si quelqu'un vous vend quelque chose, c'est que le prix est supérieur au coût, sinon c'est pour s'en débarrasser, pas pour en vivre.
 
-En fait ça fait très longtemps que les prix de l'électricité varient d'un facteur 2, 3 voire plus dans la même journée. Il y a même de plus en plus souvent des moments où l'électricité a un prix nul, voire négatif ![[1]](#Qsyyn)
+En fait ça fait très longtemps que les prix de l'électricité varient d'un facteur 2, 3 voire plus dans la même journée. Il y a même de plus en plus souvent des moments où l'électricité a un prix nul, voire négatif ! [[1]](#Qsyyn)
 
 Vous ne vous en rendez pas compte parce que vous payez un prix "lissé" par votre fournisseur, mais c'est lui qui absorbe ces variations à ses risques et périls en achetant l'électricité chaque quart d'heure et au maximum un seul jour à l'avance sur le marché [EPEX SPOT](w:).
 

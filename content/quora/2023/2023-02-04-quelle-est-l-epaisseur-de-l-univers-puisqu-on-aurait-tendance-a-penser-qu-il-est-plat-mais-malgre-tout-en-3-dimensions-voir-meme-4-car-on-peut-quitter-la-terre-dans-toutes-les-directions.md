@@ -27,7 +27,7 @@ Quel forme aurait-il ? Cassez-vous un peu la tête avant de lire la suite …
 
 Quelle forme obtient-on si on raccorde par le haut et le bas d'une feuille de caoutchouc, puis le côté droit au côté gauche ? Non ce n'est pas une sphère …
 
-C'est un tore ![[1]](#cZfcl)
+C'est un tore ! [[1]](#cZfcl)
 
 ![](./images/qimg-57e86e3db5357308fceae2496dd4a54b.jpg)
 
