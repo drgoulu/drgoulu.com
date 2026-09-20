@@ -8,7 +8,7 @@ tags:
   - "astro"
   - "physique"
   - "suisse"
-coverImage: "./images/7a42afcb317408a34d5e901f6af93809-1.png"
+coverImage: "./images/7a42afcb317408a34d5e901f6af93809.png"
 ---
 
 Les [32 nouvelles exoplanètes découvertes](http://www.alphagalileo.org/ViewItem.aspx?ItemId=62066&CultureCode=fr) récemment portent à plus de 400 le nombre de planètes découvertes autour d'autres étoiles que notre Soleil, assez pour commencer quelques statistiques et faire le point sur les progrès rapides  en [planétologie](w:).

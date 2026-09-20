@@ -7,7 +7,7 @@ categories:
 tags: 
   - "annee"
   - "internet"
-coverImage: "./images/d4d9ab4517296bb4b903025384896cfd-1.png"
+coverImage: "./images/d4d9ab4517296bb4b903025384896cfd.png"
 ---
 
 Il y a environ 1 an que je me suis mis à blogguer régulièrement, après avoir transféré mon ancien site sur WordPress, outil définitivement génial qui me permet de plus de récupérer quelques statistiques intéressantes, histoire de voir si tout se travail en vaut la peine:

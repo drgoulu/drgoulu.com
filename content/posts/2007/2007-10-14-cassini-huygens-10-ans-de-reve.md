@@ -7,7 +7,7 @@ categories:
 tags: 
   - "astro"
   - "cassini"
-coverImage: "./images/2c363d6d52c89b3938b13e2b50ea5564-1.jpg"
+coverImage: "./images/2c363d6d52c89b3938b13e2b50ea5564.jpg"
 ---
 
 La sonde [Cassini-Huygens](http://www.techno-science.net/?onglet=articles&article=13) a été lancée il y a exactement 10 ans. Après [7 ans de voyage et 5 milliards de km](http://www.techno-science.net/?onglet=articles&article=13&page=2), elle se met en orbite autour de Saturne et [largue Huygens sur Titan](http://www.techno-science.net/?onglet=articles&article=13&page=10) le jour de Noël 2004.

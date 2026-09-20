@@ -10,7 +10,7 @@ tags:
   - "internet"
   - "jeux"
   - "societe"
-coverImage: "./images/476e8d964f6d6a08c1f2579b6745d7ad-1.png"
+coverImage: "./images/476e8d964f6d6a08c1f2579b6745d7ad.png"
 ---
 
 Tombé sur un interview de [Luis Von Ahn](http://www.cs.cmu.edu/~biglou/), un chercheur qui travaille sur un sujet qui me plait beaucoup : comment utiliser (gratuitement) la puissance des cerveaux humains, interconnectés par internet, pour faire des choses dont les ordinateurs ne sont pas capables ?

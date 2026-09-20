@@ -7,7 +7,7 @@ categories:
 tags: 
   - "astro"
   - "trou-noir"
-coverImage: "./images/3aa8efd40b0d78e655a0a7a269cc6075-1.jpg"
+coverImage: "./images/3aa8efd40b0d78e655a0a7a269cc6075.jpg"
 ---
 
 Sur cette image d'un petit bout de ciel grand comme quelques fois la lune placée là pour l'échelle, chaque point de couleur révèle la position d'un trou noir. Il y en a environ 1300, ce qui laisse supposer qu'on en répertoriera des millions dans les prochaines années.

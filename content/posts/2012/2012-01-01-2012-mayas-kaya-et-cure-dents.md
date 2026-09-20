@@ -11,7 +11,7 @@ tags:
   - "demographie"
   - "ecologisme"
   - "equation-de-kaya"
-coverImage: "./images/75e72f9518bb93d7d4030c08d378faca-1.jpg"
+coverImage: "./images/75e72f9518bb93d7d4030c08d378faca.jpg"
 ---
 
 Les Mayas se sont plantés : leur fin du monde n'arrivera pas en 2012 puisqu'elle a [déjà eu lieu autour de 909](w:Civilisation_maya#Les_faits), et d'une façon peu hollywoodienne : abandon des villes étalé sur des décennies, dénatalité, le tout causé par une crise peu claire combinant peut-être surpopulation, surexploitation des sols et variations climatiques... Des dangers ô combien plus rationnels que "[l'ennemi interieur](/2009/11/29/2012-et-lennemi-interieur/)".

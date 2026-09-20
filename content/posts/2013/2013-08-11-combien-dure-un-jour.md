@@ -8,7 +8,7 @@ tags:
   - "astro"
   - "geometrie"
   - "monde"
-coverImage: "./images/478px-Arctic_circle.svg_-1.png"
+coverImage: "./images/478px-Arctic_circle.svg_.png"
 ---
 
 La Terre est sphérique, orbite autour du soleil en un an, et en 24 heures elle tourne sur elle-même autour d'un [axe incliné](w:inclinaison_de_l'axe) d'environ 23.5° par rapport à la perpendiculaire au plan de l'écliptique. Ceci produit les saisons, comme l'explique très bien ce [joli simulateur](http://astro.unl.edu/naap/motion1/animations/seasons_ecliptic.swf), mais fait aussi varier la durée du jour de manière assez complexe, pour autant qu'on définisse le [jour](w:) comme l'intervalle de temps entre un lever du soleil et son coucher suivant.

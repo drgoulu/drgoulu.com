@@ -7,7 +7,7 @@ categories:
 tags: 
   - "astro"
   - "physique"
-coverImage: "./images/01ead300839d2cbc047718220d283ded-1.gif"
+coverImage: "./images/01ead300839d2cbc047718220d283ded.gif"
 ---
 
 A l'oeil nu, on peut voir [Andromède](w:NGC_224) à 3 Millions d'années lumière, et dans des conditions exceptionnelles. [M81](w:) à 12 Millions d'années lumière. Ces sont les [Galaxies](/2007/07/23/galaxies/) les plus proches de notre Voie Lactée, comportant chacune des milliards d'étoiles.

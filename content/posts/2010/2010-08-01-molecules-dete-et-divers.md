@@ -8,7 +8,7 @@ categories:
 tags:
   - "biologie"
   - "chimie"
-coverImage: "./images/41fc5fd4e31c34907ca2011dbb74ed61-1.gif"
+coverImage: "./images/41fc5fd4e31c34907ca2011dbb74ed61.gif"
 ---
 
 {{< figure src="./images/41fc5fd4e31c34907ca2011dbb74ed61.gif" alt="représentation 3D de la molécule de menthol (wikipedia)" caption="représentation 3D de la molécule de menthol (wikipedia)" link="http://fr.wikipedia.org/wiki/Menthol" width="256" >}}

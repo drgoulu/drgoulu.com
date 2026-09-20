@@ -11,7 +11,7 @@ tags:
   - "monde"
   - "nucleaire"
   - "politique"
-coverImage: "./images/9694e8421356d58466dc97ffd670410e-1.jpg"
+coverImage: "./images/9694e8421356d58466dc97ffd670410e.jpg"
 ---
 
 Ainsi donc, le [gouvernement Australien vient d'instituer une taxe carbone](http://www.lefigaro.fr/flash-actu/2011/11/08/97001-20111108FILWWW00333-la-taxe-carbone-adoptee-en-australie.php). Le pays est le 16ème émetteur de CO2 de la planète, et [le 11ème par habitant](w:en:List_of_countries_by_carbon_dioxide_emissions_per_capita), en bonne partie car 85% de l'électricité y est produite par des centrales thermiques au charbon. Elles n'utilisent pourtant qu'une petite partie des énormes quantités de charbon extraites par l'Australie, dont 75% sont exportés en Asie, principalement au Japon, en Corée, à Taïwan, et même en Chine \[1,2\].

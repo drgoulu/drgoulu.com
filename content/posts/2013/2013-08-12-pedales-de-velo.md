@@ -6,7 +6,7 @@ categories:
   - "Pourquoi"
 tags: 
   - "mecanique"
-coverImage: "./images/0797468af3b14d8b74a2c6afea2cd28c-1.gif"
+coverImage: "./images/0797468af3b14d8b74a2c6afea2cd28c.gif"
 ---
 
 {{< figure src="./images/0797468af3b14d8b74a2c6afea2cd28c.gif" >}}

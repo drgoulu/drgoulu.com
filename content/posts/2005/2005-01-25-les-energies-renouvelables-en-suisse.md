@@ -9,7 +9,7 @@ tags:
   - "ecologisme"
   - "energie"
   - "hydroelectricite"
-coverImage: "./images/020cf9a65c83e064d6157820f11cfee0-1.jpg"
+coverImage: "./images/020cf9a65c83e064d6157820f11cfee0.jpg"
 ---
 
 {{< figure src="./images/020cf9a65c83e064d6157820f11cfee0.jpg" >}}

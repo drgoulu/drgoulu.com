@@ -10,7 +10,7 @@ tags:
   - "miniaturisation"
   - "nano"
   - "traduction"
-coverImage: "./images/4f2f9839f3addc8bad647a1c0d413415-1.jpg"
+coverImage: "./images/4f2f9839f3addc8bad647a1c0d413415.jpg"
 ---
 
 {{< figure src="./images/4f2f9839f3addc8bad647a1c0d413415.jpg" link="http://www.dailytech.com/Intel+Reveals+4+Watt+Diamondville+Processor+Details/article10876.htm" >}}

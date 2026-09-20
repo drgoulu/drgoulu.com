@@ -7,7 +7,7 @@ categories:
 tags: 
   - "eau"
   - "physique"
-coverImage: "./images/45b7436c023c443dbda03fa012feea3d1-1.jpg"
+coverImage: "./images/45b7436c023c443dbda03fa012feea3d.jpg"
 ---
 
 Voici enfin la première neige, (pourvu que ça dure...), l'occasion rêvée de se demander pourquoi les flocons de neige sont si beaux et variés.

@@ -3,7 +3,7 @@ title: La bonne manière de calculer des trucs
 date: 2007-10-11
 categories:
   - Comment
-coverImage: "./images/df243304c6b9c3dc459bb7fec074fb31-1.jpg"
+coverImage: "./images/df243304c6b9c3dc459bb7fec074fb31.jpg"
 slug: la-bonne-maniere-de-calculer-des-trucs
 tags:
   - geometrie

@@ -9,7 +9,7 @@ tags:
   - "electricite"
   - "energie"
   - "hydroelectricite"
-coverImage: "./images/5ea50d06e4ba4f1d76ceaf6139608347-1.jpg"
+coverImage: "./images/5ea50d06e4ba4f1d76ceaf6139608347.jpg"
 
 aliases:
   - "/2012/10/07/comment-stocker-lenergie/"

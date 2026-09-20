@@ -8,7 +8,7 @@ tags:
   - "aerospace"
   - "astro"
   - "cassini"
-coverImage: "./images/3c751c8b14a518a0476294924de37105-1.jpg"
+coverImage: "./images/3c751c8b14a518a0476294924de37105.jpg"
 ---
 
 La sonde Cassini devait explorer le système de Saturne jusqu'en 2008, mais sa fantastique moisson d'informations a été [prolongée](/2008/04/16/cassini-va-fonctionner-2-ans-de-plus/) jusqu'en 2010 pour observer l'équinoxe de Saturne, le moment où la lumière du lointain Soleil rase le plan des anneaux. C'est ces jours-ci. Cassini a pris de  [fantastique photos](http://www.boston.com/bigpicture/2009/10/saturn_at_equinox.html) dont mes préférées sont ci dessous.

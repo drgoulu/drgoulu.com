@@ -7,7 +7,7 @@ categories:
 tags: 
   - "religion"
   - "science"
-coverImage: "./images/105446b888d886a6ab142c2650c10990-1.png"
+coverImage: "./images/105446b888d886a6ab142c2650c10990.png"
 ---
 
 [Bad Astronomy](http://blogs.discovermagazine.com/badastronomy/) renvoie à un [diagramme comparant la science et la foi](http://www.wellingtongrey.net/miscellanea/archive/2007-01-15%20--%20science%20vs%20faith.html).

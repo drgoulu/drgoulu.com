@@ -9,7 +9,7 @@ tags:
   - "graphes"
   - "internet"
   - "jeux"
-coverImage: "./images/f860cf98facccf60ba0d8705f857b25d-1.png"
+coverImage: "./images/f860cf98facccf60ba0d8705f857b25d.png"
 ---
 
 Il l'avait annoncé, il l'a fait : Neamar a ajouté un nouveau jeu à sa [saga des graphes](/2010/03/06/la-saga-des-graphes/) : [Icosien](http://neamar.fr/Res/Icosien/). Et c'est un excellent jeu. En réalité il y a même deux jeux pour le prix d'un seul:

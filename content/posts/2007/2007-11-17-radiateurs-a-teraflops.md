@@ -10,7 +10,7 @@ tags:
   - "energie"
   - "futur"
   - "informatique"
-coverImage: "./images/f8ddbd206f9330c8aded99829d972930-1.jpg"
+coverImage: "./images/f8ddbd206f9330c8aded99829d972930.jpg"
 ---
 
 {{< figure src="./images/f8ddbd206f9330c8aded99829d972930.jpg" alt="Human Energy par Caneles" caption="&quot;Human Energy&quot; par Caneles" link="http://flickr.com/photos/94446676@N00/4144235691" width="240" >}}

@@ -8,7 +8,7 @@ tags:
   - "astro"
   - "jets"
   - "trou-noir"
-coverImage: "./images/2cc3e5889816845798e7a5ed9bf527d2-1.jpg"
+coverImage: "./images/2cc3e5889816845798e7a5ed9bf527d2.jpg"
 ---
 
 {{< figure src="./images/2cc3e5889816845798e7a5ed9bf527d2.jpg" alt="Vue d" caption="Vue d" link=\"https://www.youtube.com/watch?v=dF-KhAXbV8k\" align="alignleft" width="230" >}}

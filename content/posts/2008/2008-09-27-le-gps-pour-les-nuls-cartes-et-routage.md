@@ -9,7 +9,7 @@ tags:
   - "graphes"
   - "informatique"
   - "transports"
-coverImage: "./images/dfffb52924ac4c0757d998edc886763a-1.png"
+coverImage: "./images/dfffb52924ac4c0757d998edc886763a.png"
 
 aliases:
   - "/2008/09/28/le-gps-pour-les-nuls-cartes-et-routage/"

@@ -7,7 +7,7 @@ categories:
 tags: 
   - "astro"
   - "photo"
-coverImage: "./images/0949a8ba37246e4923352990ba56a941-1.jpg"
+coverImage: "./images/0949a8ba37246e4923352990ba56a941.jpg"
 ---
 
 [Une année que j'attendais ça](/2006/12/29/les-meilleures-photos-dastronomie-2006/) : le blog [Bad Astronomy a publié son "Top Ten Astronomy Pictures of 2007"](http://blogs.discovermagazine.com/badastronomy/) et il y a une fois encore des merveilles.

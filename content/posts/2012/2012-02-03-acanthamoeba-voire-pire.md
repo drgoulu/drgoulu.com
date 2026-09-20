@@ -7,7 +7,7 @@ categories:
 tags: 
   - "biologie"
   - "sante"
-coverImage: "./images/374f41da01e983d1c348bbdfee7a6737-1.png"
+coverImage: "./images/374f41da01e983d1c348bbdfee7a6737.png"
 ---
 
 _(article soumis au concours du 500ème article de "Strange Stuff and Funky Things", qui l'a [publié dans sa série \[Freaky Friday Parasite\]](http://ssaft.com/Blog/dotclear/index.php?post/2012/02/10/%5BFreaky-Friday-Parasite%5D-Acanthamoeba))_

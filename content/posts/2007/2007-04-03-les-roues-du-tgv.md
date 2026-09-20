@@ -6,7 +6,7 @@ categories:
   - "Comment"
 tags: 
   - "mecanique"
-coverImage: "./images/c89338b11aaaf4a2f940c4da23b984f31-1.jpg"
+coverImage: "./images/c89338b11aaaf4a2f940c4da23b984f3.jpg"
 ---
 
 Le TGV a battu aujourd'hui son propre record de vitesse en atteignant presque 575 km/h, juste un peu moins que le Maglev japonais à sustentation magnétique (581 km/h). A la vitesse de 575 km/h, soit 160 m/s, une roue de 920 mm (pesant dans les 600 kg) fait 55 tours par seconde (!). Peut-elle tourner encore plus vite ?

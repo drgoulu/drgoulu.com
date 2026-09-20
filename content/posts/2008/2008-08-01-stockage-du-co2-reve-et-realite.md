@@ -9,7 +9,7 @@ tags:
   - "co2"
   - "economie"
   - "energie"
-coverImage: "./images/62e61ee327a7971f7c5cbf8288aed052-1.jpg"
+coverImage: "./images/62e61ee327a7971f7c5cbf8288aed052.jpg"
 ---
 
 ### Réduction du CO2 : rêve et illusion

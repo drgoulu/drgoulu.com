@@ -7,7 +7,7 @@ categories:
 tags: 
   - "cerveau"
   - "livres"
-coverImage: "./images/39d9cec63b590c080d06cca8e5fafba4-1.jpg"
+coverImage: "./images/39d9cec63b590c080d06cca8e5fafba4.jpg"
 ---
 
 {{< figure src="./images/39d9cec63b590c080d06cca8e5fafba4.jpg" alt="Pourquoi les filles sont si bonnes en maths" link="http://openlibrary.org/books/OL25424458M/Pourquoi_les_filles_sont_si_bonnes_en_maths" >}}

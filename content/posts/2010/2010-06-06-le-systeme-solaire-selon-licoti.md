@@ -7,7 +7,7 @@ categories:
 tags: 
   - "art"
   - "astro"
-coverImage: "./images/d711ee241f744a07689240afb06710e3-1.png"
+coverImage: "./images/d711ee241f744a07689240afb06710e3.png"
 ---
 
 [Licoti](http://licoti.deviantart.com/#/d2ly610) est un graphiste passionné d'astronomie qui vient de réaliser une oeuvre étonnante : un panorama du système solaire sous forme d'une image de 30'000 x 1'000 pixels téléchargeable [ici](http://licoti.deviantart.com/art/The-Solar-System-FULL-Version-157790647), mais pas facile à visualiser à moins de disposer de [WPanorama](http://wpanorama.com/wpanorama.php?r=1307260269) ou équivalent.

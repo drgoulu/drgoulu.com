@@ -8,7 +8,7 @@ tags:
   - "economie"
   - "energie"
   - "transports"
-coverImage: "./images/a2adec89b6875ca564097ad77693a325-1.jpg"
+coverImage: "./images/a2adec89b6875ca564097ad77693a325.jpg"
 ---
 
 Pierre est un doux rêveur. Il m'a transmis un appel au boycott des compagnies Shell et Exxon dans l'espoir de faire baisser le prix de l'essence.

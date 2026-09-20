@@ -7,7 +7,7 @@ categories:
 tags: 
   - "casse-tetes"
   - "informatique"
-coverImage: "./images/799b28c713fe0b24c23115571899f28f-1.jpg"
+coverImage: "./images/799b28c713fe0b24c23115571899f28f.jpg"
 ---
 
 Je viens d'inventer le problème suivant, qui est en fait une variation informatique d'un [casse-tête récemment proposé sur un autre blog](http://webinet.blogspot.com/2009/01/petite-enigme.html) membre du C@fé des Sciences.

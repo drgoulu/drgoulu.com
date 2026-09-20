@@ -7,7 +7,7 @@ categories:
 tags: 
   - "geometrie"
   - "optimisation"
-coverImage: "./images/53b71678904e2226d5f1195d59cebfef-1.gif"
+coverImage: "./images/53b71678904e2226d5f1195d59cebfef.gif"
 ---
 
 Cette question est cruciale pour la conception de balles de golf, mais aussi pour certaines fraises, de boules à facettes de discothèque. Et une fois qu'on sait y répondre pour une sphère, on peut s'attaquer aux surfaces quelconques, par exemple pour recouvrir de diamants une montre ou un bijou ...

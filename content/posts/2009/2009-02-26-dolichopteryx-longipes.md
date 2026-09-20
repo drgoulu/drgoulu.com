@@ -8,7 +8,7 @@ tags:
   - "biologie"
   - "darwin"
   - "optique"
-coverImage: "./images/9020ed842e239dc732829439968cf4fa-1.jpg"
+coverImage: "./images/9020ed842e239dc732829439968cf4fa.jpg"
 ---
 
 2009 est l'année Darwin, et aussi l'année de l'Astronomie. Et voici qu'une découverte toute récente \[1\] rapproche en quelque sorte ces domaines sous la forme d'un poisson des profondeurs : [Dolichopteryx longipes](w:).

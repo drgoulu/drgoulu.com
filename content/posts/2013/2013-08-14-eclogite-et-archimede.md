@@ -8,7 +8,7 @@ tags:
   - "bateau"
   - "geologie"
   - "mer"
-coverImage: "./images/13363399fece287c1738dcd558864284-1.jpg"
+coverImage: "./images/13363399fece287c1738dcd558864284.jpg"
 ---
 
 {{< figure src="./images/13363399fece287c1738dcd558864284.jpg" alt="Eclogite de Norvège" caption="Eclogite de Norvège" link="http://fr.wikipedia.org/wiki/%C3%89clogite" width="320" >}}

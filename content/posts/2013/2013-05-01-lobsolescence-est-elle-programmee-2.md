@@ -9,7 +9,7 @@ tags:
   - "economie"
   - "obsolescence"
   - "researchblogging"
-coverImage: "./images/90ef9129e3556b64ffce4779ca947b96-1.gif"
+coverImage: "./images/90ef9129e3556b64ffce4779ca947b96.gif"
 ---
 
 {{< figure src="./images/90ef9129e3556b64ffce4779ca947b96.gif" link="http://www.joyoftech.com/" >}}

@@ -8,7 +8,7 @@ tags:
   - "jeux"
   - "mecanique"
   - "physique"
-coverImage: "./images/1ca8c0e6ff83b3adc9e8a9d8a503a6ef-1.jpg"
+coverImage: "./images/1ca8c0e6ff83b3adc9e8a9d8a503a6ef.jpg"
 ---
 
 {{< figure src="./images/1ca8c0e6ff83b3adc9e8a9d8a503a6ef.jpg" alt="Armadillo Run" link="http://www.armadillorun.com/" >}}

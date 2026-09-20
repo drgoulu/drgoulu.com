@@ -9,7 +9,7 @@ tags:
   - "helium"
   - "pour-la-science"
   - "trou-noir"
-coverImage: "./images/f397413ccff9b4f42723b306fb6492c81-1.jpg"
+coverImage: "./images/f397413ccff9b4f42723b306fb6492c8.jpg"
 ---
 
 {{< figure src="./images/f397413ccff9b4f42723b306fb6492c8.jpg" link="http://www.pourlascience.fr/ewb_pages/s/sommaire_pls.php?art_id=30427&num=420" >}}

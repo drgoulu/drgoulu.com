@@ -7,7 +7,7 @@ categories:
 tags: 
   - "dimensions"
   - "geometrie"
-coverImage: "./images/84849bc2f3eac9878a868458e1f8313b-1.gif"
+coverImage: "./images/84849bc2f3eac9878a868458e1f8313b.gif"
 ---
 
 Cette petite animation montre un "hypercube" à 4 dimensions :

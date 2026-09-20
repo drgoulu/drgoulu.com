@@ -8,7 +8,7 @@ tags:
   - "astro"
   - "hubble"
   - "video"
-coverImage: "./images/2a62d67153ec2834b7d7f23250a1c260-1.jpg"
+coverImage: "./images/2a62d67153ec2834b7d7f23250a1c260.jpg"
 ---
 
 {{< figure src="./images/13552ddc28c957a77d860d0e847fdbae.jpg" >}}

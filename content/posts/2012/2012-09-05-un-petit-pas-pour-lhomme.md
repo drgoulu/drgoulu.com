@@ -12,7 +12,7 @@ tags:
   - "lune"
   - "mars"
   - "mecanique"
-coverImage: "./images/6b2d81bb2e5470ab315f030e1f4d06cc1-1.png"
+coverImage: "./images/6b2d81bb2e5470ab315f030e1f4d06cc.png"
 ---
 
 La mort de Neil Armstrong me fait penser à plusieurs petites choses, et à une plus importante:

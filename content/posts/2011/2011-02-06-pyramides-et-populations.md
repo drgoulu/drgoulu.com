@@ -7,7 +7,7 @@ categories:
 tags: 
   - "demographie"
   - "gapminder"
-coverImage: "./images/25f276b97f979458f226485b9db25e02-1.jpg"
+coverImage: "./images/25f276b97f979458f226485b9db25e02.jpg"
 ---
 
 Les évènements d'Egypte me donnent l'occasion de parler de pyramides. Pas celles d'où quarante siècles nous contemplent, je veux parler des "[pyramides des âges](w:pyramide_des_âges)" qui montrent la répartition des âges et des sexes dans les populations. Celle de l'Egypte est presque aussi parfaite et instructive que celle de Kheops:

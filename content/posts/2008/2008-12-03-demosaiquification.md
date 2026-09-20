@@ -8,7 +8,7 @@ tags:
   - "photo"
   - "programmation"
   - "python"
-coverImage: "./images/e9451462598a3ecd58ddabd87a766503-1.jpg"
+coverImage: "./images/e9451462598a3ecd58ddabd87a766503.jpg"
 ---
 
 {{< figure src="./images/e9451462598a3ecd58ddabd87a766503.jpg" link="http://flickr.com/photos/goulu/3077977446/" >}}

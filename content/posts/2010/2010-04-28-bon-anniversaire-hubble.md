@@ -8,7 +8,7 @@ tags:
   - "aerospace"
   - "astro"
   - "hubble"
-coverImage: "./images/93ee17c715ba95f81fe0646716607574-1.jpg"
+coverImage: "./images/93ee17c715ba95f81fe0646716607574.jpg"
 ---
 
 Ce qu'il y a de bien quand on fête un anniversaire scientifique, c'est qu'on reçoit des cadeaux au lieu d'en offrir. A l'occasion des 20 ans du télescope spatial Hubble, le "[Hubblecast 36](http://www.spacetelescope.org/videos/heic1007a/)" nous offre une magnifique rétrospective en vidéo des fantastiques progrès de l'astronomie, ou plutôt de l'astrophysique qu'a permis cet instrument. Voici la première partie :

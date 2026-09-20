@@ -10,7 +10,7 @@ tags:
 categories:
   - Comment
 slug: comment-marche-shazam
-coverImage: ./images/e47ef30951dab1d02fbd45117ec61e0c-1.jpg
+coverImage: ./images/e47ef30951dab1d02fbd45117ec61e0c.jpg
 ---
 
 {{< figure src="./images/e47ef30951dab1d02fbd45117ec61e0c.jpg" >}}

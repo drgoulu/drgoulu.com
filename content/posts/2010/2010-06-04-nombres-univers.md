@@ -8,7 +8,7 @@ tags:
   - "maths"
   - "pi"
   - "univers"
-coverImage: "./images/828a5513059659ba55bc1f73c1eb542b-1.gif"
+coverImage: "./images/828a5513059659ba55bc1f73c1eb542b.gif"
 ---
 
 {{< figure src="./images/828a5513059659ba55bc1f73c1eb542b.gif" >}}

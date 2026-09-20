@@ -7,7 +7,7 @@ categories:
 tags: 
   - "astro"
   - "physique"
-coverImage: "./images/79f899b4b866ff02027340b1be2e0f05-1.jpg"
+coverImage: "./images/79f899b4b866ff02027340b1be2e0f05.jpg"
 ---
 
 Après des millénaires d'observation du ciel à l'oeil nu, la lunette de Galilée et les grands télescopes nous ont permis de voir des objets beaucoup plus lointains et beaucoup moins lumineux, mais toujours "visibles".

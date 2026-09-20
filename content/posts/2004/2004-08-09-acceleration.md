@@ -8,7 +8,7 @@ tags:
   - "fiction"
   - "relativite"
   - "science"
-coverImage: "./images/d2b44e244e51e5c087d124bfeb9e4ce3-1.jpg"
+coverImage: "./images/d2b44e244e51e5c087d124bfeb9e4ce3.jpg"
 ---
 
 {{< figure src="./images/d2b44e244e51e5c087d124bfeb9e4ce3.jpg" alt="intersellar" link="./images/intersellar.jpg" >}}

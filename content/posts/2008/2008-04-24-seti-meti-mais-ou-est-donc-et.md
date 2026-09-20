@@ -10,7 +10,7 @@ tags:
   - "seti"
   - "societe"
   - "statistiques"
-coverImage: "./images/cf758b4a6ae696fabda3353e868589fe-1.jpg"
+coverImage: "./images/cf758b4a6ae696fabda3353e868589fe.jpg"
 ---
 
 {{< figure src="./images/cf758b4a6ae696fabda3353e868589fe.jpg" link="http://www.seti.org/ata/gallery07/images/medium/ATA_pix6.jpg" >}}

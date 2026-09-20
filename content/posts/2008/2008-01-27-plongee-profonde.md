@@ -6,7 +6,7 @@ categories:
   - "Comment"
 tags: 
   - "biologie"
-coverImage: "./images/bafd3940506e32b2c4842203e30e0565-1.jpg"
+coverImage: "./images/bafd3940506e32b2c4842203e30e0565.jpg"
 ---
 
 ### Gaz

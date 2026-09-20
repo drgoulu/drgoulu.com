@@ -11,7 +11,7 @@ tags:
 categories:
   - Pourquoi
 slug: le-temps-est-il-une-illusion
-coverImage: ./images/f65aa12397b8ca72ff7da1d950d6a2032-1.jpg
+coverImage: ./images/f65aa12397b8ca72ff7da1d950d6a203.jpg
 ---
 
 {{< figure link="http://www.pourlascience.fr/ewb_pages/s/sommaire_pls.php?art_id=26056&num=397" src="./images/f65aa12397b8ca72ff7da1d950d6a203.jpg" width="320" >}}

@@ -8,7 +8,7 @@ tags:
   - "aerospace"
   - "fiction"
   - "science"
-coverImage: "./images/94bee420b1fcee724684a5dc6f59770c1-1.png"
+coverImage: "./images/94bee420b1fcee724684a5dc6f59770c.png"
 ---
 
 Dans l'article "How big is your starship", Badastronomy présente une image compilant beaucoup de vaisseaux spatiaux des films et série de sci-fi à l'échelle :

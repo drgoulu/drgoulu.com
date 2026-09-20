@@ -8,7 +8,7 @@ tags:
   - "cerveau"
   - "physique"
   - "ted"
-coverImage: "./images/journal.pone_.0020162.g002-1.png"
+coverImage: "./images/journal.pone_.0020162.g002.png"
 ---
 
 Découvert avec stupéfaction l'existence de l'[écholocation humaine](w:) : quelques aveugles sont capables de se repérer dans l'espace et de détecter des obstacles d'après les échos de petits sons qu'ils émettent, souvent des claquements de langue.

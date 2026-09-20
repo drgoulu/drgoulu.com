@@ -10,7 +10,7 @@ tags:
   - "record"
   - "sport"
   - "voile"
-coverImage: "./images/a7129de12e34dcca048517440327680e-1.jpg"
+coverImage: "./images/a7129de12e34dcca048517440327680e.jpg"
 ---
 
 Vous savez peut-être que j'ai créé il y a un peu plus de 5 ans un [blog consacré à la vitesse à la voile, "Foilers!"](http://foils.wordpress.com/), désormais principalement animé par d'autres passionnés. Depuis 2007, le [mur des 50 noeuds](http://foils.wordpress.com/2007/03/09/le-mur-des-50-noeuds/) a été franchi par des engins très différents, allant du kitesurf à [l'Hydroptère](http://www.hydroptere.com/). Mais le 24 novembre 2012, le record de vitesse pure a été pulvérisé par [Vestas Sailrocket 2](http://www.sailrocket.com/), qui a [atteint 65.45 nœuds](http://www.sailspeedrecords.com/wssr-newsletter-no-219.-vestas-sailrocket-2-outright-sailing-speed-record-04/12/12.html) de moyenne sur 500m [(video)](http://www.youtube.com/watch?v=dokkkqBcyPQ)

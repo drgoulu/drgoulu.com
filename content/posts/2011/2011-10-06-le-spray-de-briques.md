@@ -7,7 +7,7 @@ categories:
 tags: 
   - "informatique"
   - "marketing"
-coverImage: "./images/ab2c6c190e5c13051401764cf38a8d33-1.png"
+coverImage: "./images/ab2c6c190e5c13051401764cf38a8d33.png"
 ---
 
 Je dois à Steve Jobs ma découverte du marketing. Je m'en souviens comme si c'était hier, mais c'était en été 1984. Je bossais l'été dans la boutique d'informatique qui m'avait vendu un [Commodore 64](w:) deux ans plus tôt, mais vendait surtout des [Apple II](w:) comme machines "professionnelles". Un matin juste à l''ouverture entre une personne qui, comme beaucoup de clients à l'époque, n'avait pas une idée claire de ce qu'on pouvait faire avec un ordinateur. Mais après quelques questions il apparaît que le monsieur est un commerçant qui cherche plutôt un outil de travail qu'une machine à jeux. Donc je lui montre [WordPerfect](w:), [Visicalc](w:) et un soft de compta au normes suisses, le tout sur l'Apple II, machine éprouvée depuis plusieurs années (1977) pour la modique somme d'environ 5000 Francs suisses de l'époque. Une fortune, mais ce n'est pas ce qui chicane le client.

@@ -8,7 +8,7 @@ tags:
   - "histoire"
   - "horlogerie"
   - "livres"
-coverImage: "./images/fedfcc9693d6698f9440b7655114fad41-1.jpg"
+coverImage: "./images/fedfcc9693d6698f9440b7655114fad4.jpg"
 ---
 
 {{< figure src="./images/fedfcc9693d6698f9440b7655114fad4.jpg" alt="le chronomètre H1 de John Harrisson © National Maritime Museum, Greenwich, London" caption="le chronomètre H1 de John Harrisson © National Maritime Museum, Greenwich, London" link="http://www.nmm.ac.uk/collections/explore/object.cfm?ID=ZAA0034" width="280" >}}

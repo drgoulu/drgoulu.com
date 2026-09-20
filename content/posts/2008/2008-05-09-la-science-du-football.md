@@ -9,7 +9,7 @@ tags:
   - "livres"
   - "physique"
   - "sport"
-coverImage: "./images/bd9992f49c372499f1597b1a6dc9f851-1.jpg"
+coverImage: "./images/bd9992f49c372499f1597b1a6dc9f851.jpg"
 ---
 
 {{< figure src="./images/bd9992f49c372499f1597b1a6dc9f851.jpg" alt="La science du football" link="http://openlibrary.org/books/OL25426705M/La_science_du_football" >}}

@@ -7,7 +7,7 @@ categories:
 tags: 
   - "astro"
   - "galaxies"
-coverImage: "./images/8a3c8895f98903f44aa24650fdd6ec39-1.jpg"
+coverImage: "./images/8a3c8895f98903f44aa24650fdd6ec39.jpg"
 ---
 
 Ce n'est qu'au début du XXème siècle qu'on a réalisé que de nombreuses "nébuleuses" observées étaient des "galaxies" regroupant des milliards d'étoiles, et que la trainée blanche qui barre notre ciel les nuits bien noires est la Galaxie à laquelle appartient notre Soleil, vue de l'intérieur.
