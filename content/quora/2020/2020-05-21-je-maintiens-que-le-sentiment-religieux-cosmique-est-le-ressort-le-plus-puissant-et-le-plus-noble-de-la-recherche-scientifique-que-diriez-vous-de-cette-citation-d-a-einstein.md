@@ -1,23 +1,19 @@
 ---
 title: '"Je maintiens que le sentiment religieux cosmique est le ressort le plus puissant et le plus noble de la recherche scientifique." Que diriez-vous de cette citation d''A. Einstein ?'
-slug: je-maintiens-que-le-sentiment-religieux-cosmique-est-le-ressort-le-plus-puissant-et-le-plus-noble-de-la-recherche-scientifique-que-diriez-vous-de-cette-citation-d-a-einstein
-date: '2020-05-21'
+date: 2020-05-21
 draft: false
-categories:
-- Quora
 tags:
-- philosophie
-- personne
-- albert-einstein-physicien
-- religion
-- recherche-scientifique
-- spiritualite
-- science-et-religion
-- philosophie-des-sciences
+  - philosophie
+  - religion
+  - einstein
+  - citation
+categories:
+  - Quora
+slug: je-maintiens-que-le-sentiment-religieux-cosmique-est-le-ressort-le-plus-puissant-et-le-plus-noble-de-la-recherche-scientifique-que-diriez-vous-de-cette-citation-d-a-einstein
 coverImage: ./images/quora.png
 ---
 
-*Réponse publiée [sur Quora](https://fr.quora.com/Je-maintiens-que-le-sentiment-religieux-cosmique-est-le-ressort-le-plus-puissant-et-le-plus-noble-de-la-recherche-scientifique-Que-diriez-vous-de-cette-citation-dA-Einstein/answer/Dr-Goulu)*
+_Réponse publiée_ [_sur Quora_](https://fr.quora.com/Je-maintiens-que-le-sentiment-religieux-cosmique-est-le-ressort-le-plus-puissant-et-le-plus-noble-de-la-recherche-scientifique-Que-diriez-vous-de-cette-citation-dA-Einstein/answer/Dr-Goulu)
 
 La source habituellement mentionnée de cette citation est le livre "Comment je vois le monde" d'Einstein. Vous pouvez vérifier dans le texte [1] qu'elle ne s'y trouve pas.
 
@@ -29,4 +25,6 @@ Personnellement je ne vois pas l'analogie, mais bon, ça il l'a effectivement é
 
 Einstein aurait eu besoin de 3 vies pour dire toutes les sornettes qu'on lui prête sur internet
 
-1. [https://vigile.quebec/IMG/pdf/co...](https://vigile.quebec/IMG/pdf/comment_je_vois_le_monde_-_albert_einstein.pdf)
+###### Référence
+
+1. {{< openbook "2-08-122904-8" "5" >}}

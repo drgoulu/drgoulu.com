@@ -12,7 +12,7 @@ categories:
   - Pourquoi
   - Comment
 slug: ''
-coverImage: ''
+coverImage: ./images/Gemini_Generated_Image_20upn420upn420up.jpeg
 ---
 
 Lors d'un très agréable weekend avec d'éminents anciens collègues de l'institut d'automatique, une discussion a porté sur l'utilisation de l'IA en mathématiques, puis sur le niveau d'abstraction que cette application permet.
@@ -21,7 +21,7 @@ J'ai alors mentionné ma petite exploration d'il y a dix ans (déjà)  relatée 
 
 Ni moi ni aucun collègue ne comprenait ce que pouvait être la "tour chromatique de théories" découverte lors de ce premier article, alors j'ai pensé demander à l'IA de vulgariser ceci:
 
-## explique la k-théorie de Morava à un ingénieur
+## Explique la k-théorie de Morava à un ingénieur
 
 voici le début et la fin de son excellente réponse:
 
@@ -37,7 +37,9 @@ Là, Hacer, analyste financière, a demandé "et pour un enfant de cinq ans" ?
 
 J'ai lancé un second "prompt", et alors que je pensais que l'IA répondrait "désolé c'est trop compliqué pour un enfant de cinq ans", nous avons reçu cette réponse absolument fantastique :
 
-## explique la k theorie de Morava à un enfant de 5 ans
+{{< figure align="aligncenter" caption="(image générée par Gemini IA)" src="./images/Gemini_Generated_Image_20upn420upn420up.jpeg" >}}
+
+## Explique la k theorie de Morava à un enfant de 5 ans
 
 > **Imagine que tu as un immense sac rempli de formes géométriques magiques et de jouets bizarres. Certains sont simples comme des ballons, d'autres sont tout emmêlés comme des nœuds de ficelle. Tu aimerais bien les ranger et comprendre comment ils sont faits, mais c'est trop difficile parce qu'ils changent tout le temps de forme** !
 
