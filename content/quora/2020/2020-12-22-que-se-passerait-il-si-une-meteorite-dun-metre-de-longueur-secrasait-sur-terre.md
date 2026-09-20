@@ -15,4 +15,4 @@ Rien du tout. Un plouf dans l'eau ou un petit cratère avec de précieux caillou
 
 En dessous de 20m, on ne compte même pas ça comme un risque.
 
-[Risques météoritiques - Pourquoi Comment Combien](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/)
+[Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)

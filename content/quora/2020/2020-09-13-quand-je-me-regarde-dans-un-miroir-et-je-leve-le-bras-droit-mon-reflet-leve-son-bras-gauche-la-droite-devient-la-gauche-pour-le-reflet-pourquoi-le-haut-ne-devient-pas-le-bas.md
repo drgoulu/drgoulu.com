@@ -24,4 +24,4 @@ Un miroir réfléchit simplement la lumière en n’inversant rien du tout : en 
 
 ![](./images/qimg-6c213eed32c990fab2b6fd3afbffb24f.jpg)
 
-[MIROIR | ЯIOЯIM - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/04/miroir/#.X15D82iFqCo)
+[MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/#.X15D82iFqCo)

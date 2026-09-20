@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non. croyance moyenâgeuse bonne pour la poubelle.
 
-[Astrologie - Pourquoi Comment Combien](https://www.drgoulu.com/2004/06/30/astrologie/#.XtXzADqiGCo)
+[Astrologie - Pourquoi Comment Combien](/2004/06/30/astrologie/#.XtXzADqiGCo)

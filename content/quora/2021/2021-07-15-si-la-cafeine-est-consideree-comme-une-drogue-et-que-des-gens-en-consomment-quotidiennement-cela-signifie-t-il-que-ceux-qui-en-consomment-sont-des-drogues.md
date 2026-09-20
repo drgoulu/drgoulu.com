@@ -32,4 +32,4 @@ Honoré de Balzac était un caféinomane célèbre. Le sevrage est assez facile 
 
 Comme pour beaucoup de choses, tout est dans la dose …
 
-[https://www.drgoulu.com/2012/07/...](https://www.drgoulu.com/2012/07/07/magnifique-cafeine/)
+[https://www.drgoulu.com/2012/07/...](/2012/07/07/magnifique-cafeine/)

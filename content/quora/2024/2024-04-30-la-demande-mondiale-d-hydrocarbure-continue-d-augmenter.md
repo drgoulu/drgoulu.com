@@ -17,4 +17,4 @@ Le mécanisme que vous décrivez est le [Pic pétrolier](w:), on dit qu'on l'att
 
 Le seul moyen de consommer moins de pétrole, et surtout de charbon, ne l'oubliez pas celui là, c'est que d'autres sources d'énergie deviennent moins chères, sinon
 
-[https://drgoulu.com/2007/05/25/o...](https://drgoulu.com/2007/05/25/on-brulera-vraiment-tout/)
+[https://drgoulu.com/2007/05/25/o...](/2007/05/25/on-brulera-vraiment-tout/)

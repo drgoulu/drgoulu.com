@@ -38,4 +38,4 @@ Cette revolution des bases des maths a ouvert la voie à des résultats fondamen
 
 Si ce sujet vous intéresse, je vous recommande
 
-[https://www.drgoulu.com/2011/01/...](https://www.drgoulu.com/2011/01/06/logicomix/)
+[https://www.drgoulu.com/2011/01/...](/2011/01/06/logicomix/)

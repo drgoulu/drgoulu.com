@@ -29,7 +29,7 @@ En pratique on convertit l'électricité en énergie chimique ou mécanique, on 
 
 En faisant l'inventaire des méthodes dans
 
-[Comment stocker l'énergie - Pourquoi Comment Combien](https://www.drgoulu.com/2012/10/07/comment-stocker-lenergie/)
+[Comment stocker l'énergie - Pourquoi Comment Combien](/2012/10/07/comment-stocker-lenergie/)
 
 j'étais tombé sur ce graphique très intéressant :
 

@@ -17,4 +17,4 @@ Apprenez toutes les fonctions de la librairie standard [itertools](https://docs.
 
 Exemple d'utilisation
 
-[https://www.drgoulu.com/2017/06/...](https://www.drgoulu.com/2017/06/26/series-infinies-et-oeis-en-python/#.Y-yReKTfs0E)
+[https://www.drgoulu.com/2017/06/...](/2017/06/26/series-infinies-et-oeis-en-python/#.Y-yReKTfs0E)

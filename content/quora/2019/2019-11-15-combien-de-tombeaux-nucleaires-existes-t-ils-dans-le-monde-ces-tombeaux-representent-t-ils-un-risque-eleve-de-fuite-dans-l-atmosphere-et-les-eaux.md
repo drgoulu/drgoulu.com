@@ -24,7 +24,7 @@ Pour l'instant il n'existe qu'une poignée de sites de [Stockage des déchets ra
 
 A terme il y en aura au moins un par pays ayant des centrales nucléaires puisqu'il est interdit d'exporter les déchets. Ça signifie que chaque pays doit trouver le site le moins mauvais chez lui, l'Australie au milieu de son bouclier désertique qui n'a pas bougé depuis un milliard d'années, et le Japon au milieu de ses villes dans une chaîne volcanique qui tremble tous les jours.
 
-Après avoir visité le laboratoire de l'Andra sur le futur site de Cigeo et vu un film génial sur le dépôt finlandais d'Onkalo ([Bure, plongée dans l'éternité - Pourquoi Comment Combien](https://www.drgoulu.com/2014/05/24/bure-pour-leternite/)), je suis persuadé
+Après avoir visité le laboratoire de l'Andra sur le futur site de Cigeo et vu un film génial sur le dépôt finlandais d'Onkalo ([Bure, plongée dans l'éternité - Pourquoi Comment Combien](/2014/05/24/bure-pour-leternite/)), je suis persuadé
 
 1. Que les gens qui font ce boulot le font sérieusement et au mieux des connaissances actuelles. Ce n'est pas eux qui ont produit ces déchets, c'est nous tous, et ils méritent le respect pour s'en occuper.
 2. Que sauf gros accident (grosse météorite qui tombe pile dessus, archéologues trop curieux,…) ces dépôts sont surs pour des dizaines de milliers d'années. Des centaines…faut voir…

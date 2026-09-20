@@ -34,4 +34,4 @@ print(random_prime(512)) # nombre premier de 512 bits
 
 ```
 
-[Comment trouver des nombres premiers - Pourquoi Comment Combien](https://www.drgoulu.com/2012/04/15/comment-produire-des-nombres-premiers/#.Xo9vZMiiGCo)
+[Comment trouver des nombres premiers - Pourquoi Comment Combien](/2012/04/15/comment-produire-des-nombres-premiers/#.Xo9vZMiiGCo)

@@ -21,7 +21,7 @@ Jusqu'à preuve du contraire, non.
 
 Les quelques prétendues expériences de [Fusion froide](w:) (ou LENR) ne sont pas reproductibles.
 
-En 2011 j'avais écrit [Tiède fusion - Pourquoi Comment Combien](https://www.drgoulu.com/2011/06/11/tiede-fusion/#.X9yjFNgVOCo) à propos du "[Catalyseur d'énergie de Rossi et Focardi](w:)". Voyons où on est est 9 ans plus tard:
+En 2011 j'avais écrit [Tiède fusion - Pourquoi Comment Combien](/2011/06/11/tiede-fusion/#.X9yjFNgVOCo) à propos du "[Catalyseur d'énergie de Rossi et Focardi](w:)". Voyons où on est est 9 ans plus tard:
 
 Je vous traduis [Energy Catalyzer#Lawsuit - Wikipedia](w:en:Energy_Catalyzer)
 
@@ -41,4 +41,4 @@ Notes de bas de page
 
 [[2]](#cite-qTSmz)[https://www.bizjournals.com/tria...](https://www.bizjournals.com/triangle/news/2017/08/03/dispute-between-inventor-and-raleigh-investor-over.html)
 
-[[3]](#cite-ADRRJ)[Dites NON au mouvement perpétuel - Pourquoi Comment Combien](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/#.X9ynbdgVOCo)
+[[3]](#cite-ADRRJ)[Dites NON au mouvement perpétuel - Pourquoi Comment Combien](/2012/05/27/dites-non-au-mouvement-perpetuel/#.X9ynbdgVOCo)

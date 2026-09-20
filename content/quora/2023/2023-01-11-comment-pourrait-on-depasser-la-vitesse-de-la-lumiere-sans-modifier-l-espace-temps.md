@@ -21,4 +21,4 @@ Ce qu'il faut bien comprendre, c'est que c est infinie pour l'objet mobile. La c
 
 Ce n'est que pour les piétons comme nous que ce vaisseau aurait l'air de se trainer à c.
 
-[https://www.drgoulu.com/2004/08/...](https://www.drgoulu.com/2004/08/09/acceleration/#.Y78bJXZsOCo)
+[https://www.drgoulu.com/2004/08/...](/2004/08/09/acceleration/#.Y78bJXZsOCo)

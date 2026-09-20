@@ -27,4 +27,4 @@ Selon [NEO Earth Close Approaches](https://cneos.jpl.nasa.gov/ca/) , [(52768) 19
 
 Si vous aimez avoir peur, consultez [la Risk List de l’ESA](http://neo.ssa.esa.int/risk-page) : le prochain objet ayant un risque d’impact non nul avec la Terre est [2018 VP1](w:en:2018_VP1) le 2 novembre. Mais il ne fait qu’environ 2m de diamètre, ça fera juste une belle étoile filante…
 
-[Risques météoritiques - Pourquoi Comment Combien](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/#.XpF3n8iiGCo)
+[Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/#.XpF3n8iiGCo)

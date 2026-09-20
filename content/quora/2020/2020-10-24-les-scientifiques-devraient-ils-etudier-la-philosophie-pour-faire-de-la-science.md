@@ -26,7 +26,7 @@ Mais surtout ça incité à confondre l'oiseau et le nom de l'oiseau, danger con
 
 > Il m'avait dit “Tu as vu cet oiseau : en anglais on l’appelle [brown-throated thrush](w:en:Dark-throated_Thrush)**, mais en allemand on l’appelle Halsenflügel, et les chinois l’appellent [赤颈鸫](w:zh:赤颈鸫), et **même si tu connais tous ces noms, tu ne connais toujours rien de l’oiseau**, tu ne sais que quelque chose sur les hommes, comment ils appellent l’oiseau
 
-(voir [La science est la croyance en l'ignorance des experts - Pourquoi Comment Combien](https://www.drgoulu.com/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/) pour la source)
+(voir [La science est la croyance en l'ignorance des experts - Pourquoi Comment Combien](/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/) pour la source)
 
 La philosophie est totalement contraire à la méthode scientifique. C'était ce que faisaient les gens qui n'avaient que des mots à la place de données scientifiques. Ils inventaient l'essence, le néant, le libre arbitre et autres notions totalement dépourvues de réalité expérimentale.
 

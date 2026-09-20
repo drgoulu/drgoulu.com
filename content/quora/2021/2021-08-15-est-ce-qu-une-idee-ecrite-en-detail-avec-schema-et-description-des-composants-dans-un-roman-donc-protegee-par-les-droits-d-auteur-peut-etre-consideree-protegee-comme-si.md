@@ -15,4 +15,4 @@ Non. Le droit d'auteur protège l'œuvre de la copie, pas de la réalisation de 
 
 Par contre, la publication de votre roman empêchera quiconque (vous y compris !) de breveter l' invention correspondante par la suite.
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/08/combien-pour-ce-brevet/)
+[https://www.drgoulu.com/2009/03/...](/2009/03/08/combien-pour-ce-brevet/)

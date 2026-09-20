@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quel-est-l-effet-du-caf%C3%A9-sur-notre-organisme/answer/Dr-Goulu)*
 
-[https://www.drgoulu.com/2012/07/...](https://www.drgoulu.com/2012/07/07/magnifique-cafeine/)
+[https://www.drgoulu.com/2012/07/...](/2012/07/07/magnifique-cafeine/)

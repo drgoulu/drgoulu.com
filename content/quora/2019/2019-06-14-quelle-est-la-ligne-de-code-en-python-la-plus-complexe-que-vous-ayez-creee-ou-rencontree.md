@@ -18,4 +18,4 @@ def r(a): i=a.find('0') if i<0:print a [m in[(i-j)%9*(i/9^j/9)*(i/27^j/27|i%9/3^
 
 Devinez ce qu'elle fait…
 
-[ou donnez votre langue au chat](https://www.drgoulu.com/2008/10/12/python/)
+[ou donnez votre langue au chat](/2008/10/12/python/)

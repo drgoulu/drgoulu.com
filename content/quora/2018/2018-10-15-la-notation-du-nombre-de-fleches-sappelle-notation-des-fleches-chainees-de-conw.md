@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 La notation du nombre de flèches s’appelle [Notation des flèches chaînées de Conway](w:)
 
-[Très très très grands nombres - Pourquoi Comment Combien](https://www.drgoulu.com/2008/11/04/tres-tres-tres-grands-nombres/)
+[Très très très grands nombres - Pourquoi Comment Combien](/2008/11/04/tres-tres-tres-grands-nombres/)

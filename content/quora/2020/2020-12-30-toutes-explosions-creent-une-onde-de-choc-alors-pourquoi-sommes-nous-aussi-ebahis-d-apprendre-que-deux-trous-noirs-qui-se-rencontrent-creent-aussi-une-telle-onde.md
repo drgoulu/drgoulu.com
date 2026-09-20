@@ -34,6 +34,6 @@ Et on était pas vraiment ébahis car ça confirmait ce qu'on savait déjà. L'e
 
 Notes de bas de page
 
-[[1]](#cite-PqCam)[Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/02/14/einstein-et-les-ondes-gravitationnelles/)
+[[1]](#cite-PqCam)[Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](/2016/02/14/einstein-et-les-ondes-gravitationnelles/)
 
-[[2]](#cite-IxWwt)[Ca c'est du trou noir, du vrai ! - Pourquoi Comment Combien](https://www.drgoulu.com/2008/04/18/ca-cest-du-trou-noir-du-vrai/)
+[[2]](#cite-IxWwt)[Ca c'est du trou noir, du vrai ! - Pourquoi Comment Combien](/2008/04/18/ca-cest-du-trou-noir-du-vrai/)

@@ -31,4 +31,4 @@ Sans ça les sondes Voyager ne pourraient pas quitter le système solaire, et un
 
 Si en plus vous voulez les rattraper en allant dans la même direction, il faudra utiliser Uranus ou Neptune pour vous dévier dans la bonne direction, donc retrouver grosso modo la même disposition des planètes extérieures qu'en 1973, et ça ça risque de prendre quelques millénaires…
 
-[https://drgoulu.com/2007/09/28/q...](https://drgoulu.com/2007/09/28/qui-veut-voyager-loin-ionise-sa-sonde/)
+[https://drgoulu.com/2007/09/28/q...](/2007/09/28/qui-veut-voyager-loin-ionise-sa-sonde/)

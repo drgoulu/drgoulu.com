@@ -30,4 +30,4 @@ Donc il semblerait qu’en pratique, les vrais trous noirs soient des [Trous noi
 
 Notes de bas de page
 
-[[1]](#cite-wjIZN)[A combien tourne un trou noir ? - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[[1]](#cite-wjIZN)[A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/)

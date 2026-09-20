@@ -46,10 +46,10 @@ C'est ce qui arrive quand on calcule ce qui se passe au moment du Big Bang, ou d
 
 D'ailleurs, on ne sait pas non plus si les maths qu'on utilise sont "correctes", si on a "le droit" physiquement de les utiliser si près des singularités. En particulier, une des grandes questions est de savoir si l'espace et le temps sont continus, ou si ce sont des valeurs "discrètes", qui ne peuvent avoir que des valeurs entières de [Temps de Planck](w:) ou de [Longueur de Planck](w:)par exemple.
 
-Admettre ceci permet de résoudre un certain nombre de problèmes en particulier relatifs à l'entropie des trous noirs ( voir [Selon Newton, l'univers serait discret - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/) ) et d'"éviter" les singularités.
+Admettre ceci permet de résoudre un certain nombre de problèmes en particulier relatifs à l'entropie des trous noirs ( voir [Selon Newton, l'univers serait discret - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/) ) et d'"éviter" les singularités.
 
 C'est mon point de vue actuel : rien dans l'Univers n'est infini, ni rigoureusement nul, les singularités n'existent pas, et le Big Bang n'est pas une singularité. Les singularités mathématiques sont mathématiques, pas physiques ( jusqu'à preuve du contraire….)
 
 Il y a d'ailleurs une chose très étrange et intéressante à ce sujet. Si les trous noirs étaient des singularités, ils devraient tourner à vitesse infinie et dans ce cas leur singularité "nue" devrait devenir visible, plus cachée derrière un "horizon des événements" . Sir Roger Penrose et Stephen Hawking ont postulé qu'une [Censure cosmique](w:) empêchait ça en limitant la vitesse de rotation des trous noir. Et justement, les mesures montrent qu'ils tournent exactement à la vitesse limite !
 
-[A combien tourne un trou noir ? - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/#.XuZWTEWiGCo)
+[A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/#.XuZWTEWiGCo)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Selon l'[Échelle de Turin](w:), ce serait un événement de niveau 8 : destruction localisée. Un tel événement se produit tous les 50 à 1 000 ans en moyenne. L'[Événement de la Toungouska](w:) était de niveau 8.
 
-voir [Risques météoritiques - Pourquoi Comment Combien](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/)
+voir [Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)

@@ -17,7 +17,7 @@ La surprise est que l'extrême droite n'est pas franchement plus à droite que l
 
 L'extrême droite est la "droite conservatrice", voire nationaliste.
 
-Voir [La politique française dans la 2ème dimension ? - Pourquoi Comment Combien](https://drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+Voir [La politique française dans la 2ème dimension ? - Pourquoi Comment Combien](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 Et [GitHub - goulu/smartvoteFR: création de "smartmaps" politiques sur le modèle de smartvote.ch avec données de l'Assemble Nationale Française](https://github.com/goulu/smartvoteFR)
 

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Les [Tachyons](w:Tachyon)resultent de l'idée purement mathématique que la masse puisse éventuellement être imaginaire. Cette idée "plausible" mathématiquement ne trouve aucune confirmation dans aucune expérience physique.
 
-[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)

@@ -25,4 +25,4 @@ Les exploitants d'éoliennes préfèrent les laisser tourner et payer (prix nég
 
 Pourquoi ? Parce qu'ils touchent des subventions. En fait ils freinent les éoliennes quand le prix négatif excède les subventions qu'ils touchent. Ce n est qu'à ce moment là que le rendement est vraiment négatif pour eux.
 
-[https://www.drgoulu.com/2011/01/...](https://www.drgoulu.com/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/)
+[https://www.drgoulu.com/2011/01/...](/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/)

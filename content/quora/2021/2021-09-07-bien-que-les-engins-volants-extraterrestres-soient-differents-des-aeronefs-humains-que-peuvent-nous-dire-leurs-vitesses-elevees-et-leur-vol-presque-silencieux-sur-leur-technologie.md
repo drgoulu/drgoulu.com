@@ -22,7 +22,7 @@ coverImage: ./images/qimg-acec9917bf4d8dc506eae5315bfcdbff.png
 
 qu'ils volent quand même comme des patates en s'écrasant bêtement dans le désert et en laissant des débris qui ressemblent comme deux gouttes d'eau à des déchets industriels.
 
-[https://www.drgoulu.com/2020/07/...](https://www.drgoulu.com/2020/07/24/i-dont-want-to-believe/)
+[https://www.drgoulu.com/2020/07/...](/2020/07/24/i-dont-want-to-believe/)
 
 Bernadette Soubirous a vu la Sainte Vierge dans une grotte , et ça a convaincu mille fois plus de gens de faire un pèlerinage à Lourdes que dans la zone 51, alors au boulot les ufologues !
 

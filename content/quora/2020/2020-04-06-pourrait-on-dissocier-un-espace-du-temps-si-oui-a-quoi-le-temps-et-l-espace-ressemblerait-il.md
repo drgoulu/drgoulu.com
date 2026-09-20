@@ -26,4 +26,4 @@ La relativité a montré qu'on ne peut pas les dissocier. L'espace et le temps s
 
 Jarmo Mäkelä, “[Is Reality Digital or Analog?](http://fqxi.org/data/essay-contest-files/Mkel_FQxiessay.pdf)” 2011, le premier [prix du concours FQXi](http://www.fqxi.org/community/essay/winners/2011.1)
 
-dont je cause ici [Selon Newton, l'univers serait digital - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/#.XoreH8iiGCo)
+dont je cause ici [Selon Newton, l'univers serait digital - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/#.XoreH8iiGCo)

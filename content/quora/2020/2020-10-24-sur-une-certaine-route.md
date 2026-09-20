@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 En partant à 1m du pôle nord.
 
-[De quelle couleur est l'ours ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/10/08/de-quelle-couleur-est-lours/)
+[De quelle couleur est l'ours ? - Pourquoi Comment Combien](/2013/10/08/de-quelle-couleur-est-lours/)

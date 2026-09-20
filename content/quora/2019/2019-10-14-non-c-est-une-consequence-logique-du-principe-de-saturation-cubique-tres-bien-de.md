@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-pouvons-nous-être-si-sûrs-que-les-extraterrestres-ne-vivent-pas-parmi-nous/answer/Dr-Goulu)*
 
-Non c'est une conséquence logique du [Principe de Saturation Cubique](https://www.drgoulu.com/1999/10/24/psc/) très bien décrit dans [La Forêt sombre](w:).
+Non c'est une conséquence logique du [Principe de Saturation Cubique](/1999/10/24/psc/) très bien décrit dans [La Forêt sombre](w:).

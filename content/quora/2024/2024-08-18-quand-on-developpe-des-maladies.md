@@ -17,4 +17,4 @@ Mais elles ont montré l'importance des relations humaines, des traitements "per
 
 La medecine scientifique a donc pris ce qu'il y avait de bon dans les médecines parallèles…
 
-[https://drgoulu.com/2009/05/21/p...](https://drgoulu.com/2009/05/21/placebo-et-nocebo/)
+[https://drgoulu.com/2009/05/21/p...](/2009/05/21/placebo-et-nocebo/)

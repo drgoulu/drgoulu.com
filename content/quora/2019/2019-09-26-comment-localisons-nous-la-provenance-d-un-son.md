@@ -30,4 +30,4 @@ La forme du visage et les pavillons des oreilles permettent de distinguer avant/
 En passant :
 
 1. dans l'eau on arrive pas à localiser un son parce que la vitesse du son est plus élevée que dans l'air, et la différence temporelle est si faible qu'on localise le son à l'intérieur de notre tête ..
-2. Certains aveugles arrivent à faire de l'écholocation comme les chauves souris ! Ils captent des échos avec une précision de l'ordre de la milliseconde, soit 2x 15cm de précision spatiale ! [Comment voir avec ses oreilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/05/18/comment-voir-avec-ses-oreilles/)
+2. Certains aveugles arrivent à faire de l'écholocation comme les chauves souris ! Ils captent des échos avec une précision de l'ordre de la milliseconde, soit 2x 15cm de précision spatiale ! [Comment voir avec ses oreilles - Pourquoi Comment Combien](/2016/05/18/comment-voir-avec-ses-oreilles/)

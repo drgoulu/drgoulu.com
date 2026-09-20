@@ -17,4 +17,4 @@ C'est pour ça que notre cerveau est utile.
 
 Si le monde n'était pas intelligible, et dans une certaine mesure prévisible, l'évolution aurait éliminé l'intelligence, grande consommatrice d'énergie.
 
-[https://drgoulu.com/2011/01/30/p...](https://drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+[https://drgoulu.com/2011/01/30/p...](/2011/01/30/pourquoi-3-dimensions-1-temps/)

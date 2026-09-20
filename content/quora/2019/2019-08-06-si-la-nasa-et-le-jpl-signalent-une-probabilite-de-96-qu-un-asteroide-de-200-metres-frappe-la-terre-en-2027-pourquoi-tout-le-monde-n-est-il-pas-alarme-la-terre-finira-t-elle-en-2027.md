@@ -26,4 +26,4 @@ coverImage: ./images/quora.png
 
 Selon [Sentry: Earth Impact Monitoring](https://cneos.jpl.nasa.gov/sentry/) aucun objet ne dépasse le niveau 0 actuellement.
 
-[Risques météoritiques - Pourquoi Comment Combien](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/)
+[Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)

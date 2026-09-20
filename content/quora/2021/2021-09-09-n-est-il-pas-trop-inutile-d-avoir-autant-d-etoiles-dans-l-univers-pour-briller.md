@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 question de [finaliste](w:Téléologie);-)
 
-[https://www.drgoulu.com/2009/01/...](https://www.drgoulu.com/2009/01/04/pourquoi-pour-quoi/)
+[https://www.drgoulu.com/2009/01/...](/2009/01/04/pourquoi-pour-quoi/)

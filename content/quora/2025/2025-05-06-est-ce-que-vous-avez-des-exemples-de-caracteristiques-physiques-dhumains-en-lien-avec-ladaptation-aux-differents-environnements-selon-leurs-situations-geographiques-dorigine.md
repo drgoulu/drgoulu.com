@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il y a bien sur la [Couleur de la peau humaine](w:)mais ma préférée est
 
-[https://drgoulu.com/2014/08/17/l...](https://drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+[https://drgoulu.com/2014/08/17/l...](/2014/08/17/ladaptation-a-laltitude/)

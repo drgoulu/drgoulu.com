@@ -27,4 +27,4 @@ Lauréat du prix igNobel de physique 2017[[1]](#SQqtM) , cet article utilise la 
 
 Notes de bas de page
 
-[[1]](#cite-SQqtM)[Comment proposer un Ig Nobel - Pourquoi Comment Combien](https://www.drgoulu.com/2017/09/20/proposer-ig-nobel/)
+[[1]](#cite-SQqtM)[Comment proposer un Ig Nobel - Pourquoi Comment Combien](/2017/09/20/proposer-ig-nobel/)

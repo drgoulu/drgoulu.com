@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Avant-la-consommation-universelle-de-caf%C3%A9-quelles-boissons-nos-anc%C3%AAtres-utilisaient-pour-obtenir-plus-d-%C3%A9nergies/answer/Dr-Goulu)*
 
-Le café ne fournit pas d'energie, il empêche de dormir. La [Magnifique caféine](https://www.drgoulu.com/2012/07/07/magnifique-cafeine/)se retrouve dans plein d autres plantes, notamment le thé ("théine" et "caféine" désignent exactement la même molécule) et le guarana, consommés depuis longtemps par les peuples chez qui elles poussent.
+Le café ne fournit pas d'energie, il empêche de dormir. La [Magnifique caféine](/2012/07/07/magnifique-cafeine/)se retrouve dans plein d autres plantes, notamment le thé ("théine" et "caféine" désignent exactement la même molécule) et le guarana, consommés depuis longtemps par les peuples chez qui elles poussent.

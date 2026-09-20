@@ -30,6 +30,6 @@ A mon humble avis il manque une dimension importante dans ce schéma : la popula
 
 Quand on était quelques millions, ces intersections existaient certainement. A plusieurs milliards, faut voir …
 
-[Développement Durable et Equation de Kaya - Pourquoi Comment Combien](https://www.drgoulu.com/2009/06/06/developpement-durable-et-equation-de-kaya/)
+[Développement Durable et Equation de Kaya - Pourquoi Comment Combien](/2009/06/06/developpement-durable-et-equation-de-kaya/)
 
 Si vous avez une proposition pour remplacer le capitalisme par un système qui maintient le pilier économique avec ses jolies intersections sans envoyer des millions de gens en rééducation par le travail et les faire mourir de faim lors d'un Grand Bond en Avant, on est preneurs.

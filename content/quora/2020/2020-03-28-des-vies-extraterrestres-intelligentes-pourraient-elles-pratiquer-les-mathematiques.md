@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Bien sur. Nos tentatives de communication sont basées sur des notions mathématiques élémentaires mais universelles : nombres premiers, binaire…
 
-[Comment comptent les Extraterrestres - Pourquoi Comment Combien](https://www.drgoulu.com/2011/09/25/comment-comptent-les-extraterrestres/)
+[Comment comptent les Extraterrestres - Pourquoi Comment Combien](/2011/09/25/comment-comptent-les-extraterrestres/)

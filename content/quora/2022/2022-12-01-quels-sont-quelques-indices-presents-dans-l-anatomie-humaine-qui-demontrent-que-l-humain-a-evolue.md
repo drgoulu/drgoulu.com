@@ -18,4 +18,4 @@ Quelques indices de l'évolution actuelle, toujours en cours :
 - La tolérance au lactose. Naturellement, l'évolution a rendu les mammifères adolescents intolérants au lait "pour" qu'ils quittent leur mère et qu'elle puisse se re-reproduire. Les peuples qui ont développé l'élevage ont évolué "pour" consommer du lait.
 - Les peuples vivant au dessus de 2500m ont du s'adapter au manque d'oxygène, surtout les femmes sinon elles risquent la mort en enfantant.
 
-[https://www.drgoulu.com/2014/08/...](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/#.Y4mpYqTfs0E)
+[https://www.drgoulu.com/2014/08/...](/2014/08/17/ladaptation-a-laltitude/#.Y4mpYqTfs0E)

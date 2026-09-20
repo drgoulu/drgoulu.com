@@ -25,4 +25,4 @@ Qu'est-ce qui vous fait croire que "la sélection naturelle a stoppé du à notr
 
 De retour d'un deuxième voyage dans les Andes, je vous confirme que la sélection naturelle marche très bien là bas. Les femmes occidentales enceintes doivent redescendre à basse altitude en raison d'un risque élevé de complications pouvant entraîner leur mort ou celle du bébé. Et occasionnellement un touriste décède du mal aigu des montagnes…
 
-[L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/) est une des manifestations les plus spectaculaires de l'évolution humaine en cours, très intéressante du point de vue génétique. En effet, les 3 populations qui se sont adaptées dans le monde (dans l'Himalaya, les Andes et les hauts plateaux Ethiopiens) l'ont fait de manière différente.
+[L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/) est une des manifestations les plus spectaculaires de l'évolution humaine en cours, très intéressante du point de vue génétique. En effet, les 3 populations qui se sont adaptées dans le monde (dans l'Himalaya, les Andes et les hauts plateaux Ethiopiens) l'ont fait de manière différente.

@@ -29,4 +29,4 @@ Alors voilà, maintenant on a peur qu'il fasse trop chaud, que les mers montent,
 
 La différence est que ça va très probablement arriver, mais qu'en comparaison d'une guerre nucléaire, il n'y a pas de quoi être terrifié. Sauf si les conflits entraînés par le réchauffement débouchent sur une guerre nucléaire.
 
-[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
+[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)

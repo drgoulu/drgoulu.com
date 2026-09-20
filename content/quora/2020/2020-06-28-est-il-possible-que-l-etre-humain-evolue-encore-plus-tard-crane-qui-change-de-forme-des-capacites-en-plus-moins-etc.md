@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Bien sur, d'ailleurs l'évolution d'Homo Sapiens ne s'est jamais arrêtée.
 
-[L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)s'accompagne de modifications morphologiques, par exemple.
+[L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/)s'accompagne de modifications morphologiques, par exemple.

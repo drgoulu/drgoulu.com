@@ -17,7 +17,7 @@ Si vous remontiez le temps, pourquoi ne serait-ce pas continu aussi ? Dans la bo
 
 Les machines hypothétiquement envisageables pour le voyage dans le temps consistent en un "trou de ver" entre deux points toujours connectés, dont l'un à un temps propre altéré par rapport à l autre par la relativité (gravitation ou vitesse élevée)
 
-[https://www.drgoulu.com/2006/06/...](https://www.drgoulu.com/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/#.ZF4SdXa-g0E)
+[https://www.drgoulu.com/2006/06/...](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/#.ZF4SdXa-g0E)
 
 Vous voulez un exemple plus terre-à-terre ?
 

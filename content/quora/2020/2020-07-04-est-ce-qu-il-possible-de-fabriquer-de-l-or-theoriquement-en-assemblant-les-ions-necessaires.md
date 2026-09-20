@@ -15,4 +15,4 @@ Pas seulement théoriquement, ça a été fait.
 
 [*Seaborg a transmuté quelques centaines d’atomes de bismuth en or en 1980*](w:en:Glenn_T._Seaborg)
 
-[Comment transformer le plomb en or ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/03/15/comment-transformer-le-plomb-en-or/)
+[Comment transformer le plomb en or ? - Pourquoi Comment Combien](/2013/03/15/comment-transformer-le-plomb-en-or/)

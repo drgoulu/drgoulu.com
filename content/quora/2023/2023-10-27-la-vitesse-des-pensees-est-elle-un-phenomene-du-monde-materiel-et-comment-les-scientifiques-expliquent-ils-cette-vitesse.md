@@ -15,4 +15,4 @@ Comme l'ont expliqué les autres réponses, la pensée est très lente par rappo
 
 Comparez à Chat GPT qui répond à des milliers de questions "en même temps" par example
 
-[https://www.drgoulu.com/2014/05/...](https://www.drgoulu.com/2014/05/18/lespace-infini-entre-les-mots/)
+[https://www.drgoulu.com/2014/05/...](/2014/05/18/lespace-infini-entre-les-mots/)

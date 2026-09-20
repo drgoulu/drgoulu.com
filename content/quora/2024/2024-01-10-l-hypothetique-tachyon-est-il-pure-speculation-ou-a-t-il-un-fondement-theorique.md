@@ -34,4 +34,4 @@ Donc depuis 1970 environ, le tachyon est devenu un sujet de science-fiction uniq
 
 Petite anecdote pour illustrer le problème de façon plus abordable
 
-[https://www.drgoulu.com/2016/09/...](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[https://www.drgoulu.com/2016/09/...](/2016/09/11/solutions-admissibles/)

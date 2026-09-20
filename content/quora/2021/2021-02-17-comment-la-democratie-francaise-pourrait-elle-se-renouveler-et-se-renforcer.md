@@ -39,4 +39,4 @@ Notes de bas de page
 
 [[1]](#cite-VUyTn)[La démocratie directe](https://www.eda.admin.ch/aboutswitzerland/fr/home/politik/uebersicht/direkte-demokratie.html)
 
-[[2]](#cite-jMHkw)[Initiatives populaires - Pourquoi Comment Combien](https://www.drgoulu.com/2009/12/13/initiatives-populaires/#.YC0I0WhsOCo)
+[[2]](#cite-jMHkw)[Initiatives populaires - Pourquoi Comment Combien](/2009/12/13/initiatives-populaires/#.YC0I0WhsOCo)

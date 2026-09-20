@@ -36,4 +36,4 @@ On peut même aller plus loin : si l’on considère que la majorité des accide
 
 De ce point de vue, en entrant dans un avion on a effectivement 100x plus de risques d’y laisser la peau qu’en entrant dans une voiture …
 
-[Sécurité des transports - Pourquoi Comment Combien](https://www.drgoulu.com/2007/07/06/securite-des-transports/)
+[Sécurité des transports - Pourquoi Comment Combien](/2007/07/06/securite-des-transports/)

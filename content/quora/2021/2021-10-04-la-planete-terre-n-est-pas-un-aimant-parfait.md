@@ -31,4 +31,4 @@ Un [Câble électrodynamique](w:) marche pour quelque chose qui bouge vite dans 
 
 Notes de bas de page
 
-[[1]](#cite-fbDwS)[Histoire d'angles - Pourquoi Comment Combien](https://www.drgoulu.com/2010/01/16/histoire-dangles/)
+[[1]](#cite-fbDwS)[Histoire d'angles - Pourquoi Comment Combien](/2010/01/16/histoire-dangles/)

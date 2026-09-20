@@ -28,4 +28,4 @@ L'expression "instant qui précède le Big Bang" n'a pas de signification physiq
 
 ... qui n'est peut-être qu'une illusion si on parvient à comprendre ce qu'est fondamentalement le temps, et notamment pourquoi il est lié à l'espace par la "vitesse de la lumière".
 
-[https://drgoulu.com/2008/06/06/l...](https://drgoulu.com/2008/06/06/la-grande-question-du-temps/)
+[https://drgoulu.com/2008/06/06/l...](/2008/06/06/la-grande-question-du-temps/)

@@ -15,6 +15,6 @@ Oui.
 
 Très logiquement, en accélérant indéfiniment, il se déplacerait de plus en plus en plus vite dans son référentiel. La vitesse de la lumière est infinie pour l'objet en mouvement.
 
-Lisez [Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](https://www.drgoulu.com/2004/08/09/acceleration/)
+Lisez [Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](/2004/08/09/acceleration/)
 
-et ce bon vieux [Tau Zero de Poul Anderson](https://www.drgoulu.com/2012/08/12/divers-d-ete/)
+et ce bon vieux [Tau Zero de Poul Anderson](/2012/08/12/divers-d-ete/)

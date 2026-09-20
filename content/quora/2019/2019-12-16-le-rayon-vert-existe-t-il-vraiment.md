@@ -33,4 +33,4 @@ On en trouve quelques unes de plus [sur Flickr en cherchant “green flash sunse
 
 Notes de bas de page
 
-[[1]](#cite-lDqxH)[Le rayon vert - Pourquoi Comment Combien](https://www.drgoulu.com/2007/05/28/le-rayon-vert/#.XffNuehsOCo)
+[[1]](#cite-lDqxH)[Le rayon vert - Pourquoi Comment Combien](/2007/05/28/le-rayon-vert/#.XffNuehsOCo)

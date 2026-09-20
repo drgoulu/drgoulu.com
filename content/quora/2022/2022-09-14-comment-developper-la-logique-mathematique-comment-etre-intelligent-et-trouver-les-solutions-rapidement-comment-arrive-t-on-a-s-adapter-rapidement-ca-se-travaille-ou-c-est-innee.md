@@ -15,4 +15,4 @@ Je pense que ça se travaille, mais très jeune. Si vous avez plus de 15 ans, c'
 
 Si vous avez 7 ans, jouez aux Lego et aux échecs, lisez, lisez et lisez, bricolez plein de trucs, faites des expériences, observez, essayez de comprendre ce que vous observez, essayez de fabriquer un mouvement perpétuel, à cet âge vous avez tous les droits, sauf de faire péter la baraque avec votre boite de chimie ou du plutonium, ça je vous l'interdis formellement.
 
-Et si vous avez un enfant, vous pouvez peut-être vous inspirer de ce que Feynman raconte dans [La science est la croyance en l'ignorance des experts](https://www.drgoulu.com/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/).
+Et si vous avez un enfant, vous pouvez peut-être vous inspirer de ce que Feynman raconte dans [La science est la croyance en l'ignorance des experts](/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/).

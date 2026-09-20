@@ -25,4 +25,4 @@ Ou alors avec une arme de destruction très massive.
 
 Lisez [La Forêt sombre](w:)c'est vachement mieux que mon
 
-[https://www.drgoulu.com/1999/10/...](https://www.drgoulu.com/1999/10/24/psc/)
+[https://www.drgoulu.com/1999/10/...](/1999/10/24/psc/)

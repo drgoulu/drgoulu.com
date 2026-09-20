@@ -26,4 +26,4 @@ Le film "[Into Eternity](w:Into_Eternity_(film))" consacré à ce dépôt est vr
 
 [https://youtu.be/81wZs7la8dc](https://youtu.be/81wZs7la8dc)
 
-voir [Bure, plongée dans l'éternité - Pourquoi Comment Combien](https://www.drgoulu.com/2014/05/24/bure-pour-leternite/)
+voir [Bure, plongée dans l'éternité - Pourquoi Comment Combien](/2014/05/24/bure-pour-leternite/)

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Oui, et même extrêmement vite, à la limite qui ferait apparaître leur singularité, qui est un anneau et pas un point.
 
-[https://www.drgoulu.com/2016/07/...](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[https://www.drgoulu.com/2016/07/...](/2016/07/10/combien-tourne-un-trou-noir/)
 
 Le plus extraordinaire est que nous soyons capables de mesurer cette vitesse de rotation…

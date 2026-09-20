@@ -32,4 +32,4 @@ Donc maintenant on ne peut plus mesurer la vitesse de la lumière en divisant un
 
 Et c'est d'ailleurs un truc que j'ai appris sur Quora il y a environ 5 ans:
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/#.Yv_q0HaiGCo)
+[https://www.drgoulu.com/2017/05/...](/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/#.Yv_q0HaiGCo)

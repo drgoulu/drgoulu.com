@@ -27,4 +27,4 @@ C'est peut-être une question de sensibilité politique, ou de situation propre 
 
 L'important est de réaliser que le résultat est le produit des 4 facteurs, à égalité.
 
-[https://www.drgoulu.com/2013/05/...](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
+[https://www.drgoulu.com/2013/05/...](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)

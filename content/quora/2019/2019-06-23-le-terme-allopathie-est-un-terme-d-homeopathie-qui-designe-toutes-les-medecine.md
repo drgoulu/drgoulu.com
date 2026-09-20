@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Le terme "[Allopathie](w:)" est un terme d'homéopathie qui désigne toutes les médecines non homéopathiques.
 
-La médecine scientifique, ou médecine tout court, est celle qui marche même si on y croit pas. ( [Deux pubs - Pourquoi Comment Combien](https://www.drgoulu.com/2013/03/21/deux-pubs/) )
+La médecine scientifique, ou médecine tout court, est celle qui marche même si on y croit pas. ( [Deux pubs - Pourquoi Comment Combien](/2013/03/21/deux-pubs/) )

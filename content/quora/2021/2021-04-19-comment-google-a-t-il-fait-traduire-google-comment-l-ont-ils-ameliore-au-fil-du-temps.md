@@ -15,7 +15,7 @@ Je teste la traduction Google depuis 2009 en lui faisant traduire "Le Corbeau et
 
 Vous verrez une amélioration spectaculaire entre le premier test dans cet article
 
-[https://www.drgoulu.com/2009/05/...](https://www.drgoulu.com/2009/05/14/tels-que-le-corbeau-le-renard/)
+[https://www.drgoulu.com/2009/05/...](/2009/05/14/tels-que-le-corbeau-le-renard/)
 
 et ceux des commentaires.
 

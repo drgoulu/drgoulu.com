@@ -34,4 +34,4 @@ F inalement, je ne vous pas ce que la physique peut faire là dedans à part com
 
 Donc peut-être que la solution est plutôt dans le latex.
 
-[https://www.drgoulu.com/2013/05/...](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/#.YeLmHFPfs0E)
+[https://www.drgoulu.com/2013/05/...](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/#.YeLmHFPfs0E)

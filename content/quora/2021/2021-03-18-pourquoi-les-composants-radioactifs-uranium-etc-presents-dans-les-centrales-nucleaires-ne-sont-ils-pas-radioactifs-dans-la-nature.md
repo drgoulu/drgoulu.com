@@ -22,7 +22,7 @@ coverImage: ./images/quora.png
 
 Ils le sont.
 
-[https://www.drgoulu.com/2013/11/...](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/)
+[https://www.drgoulu.com/2013/11/...](/2013/11/03/la-radioactivite-naturelle/)
 
 L'uranium, le thorium qu'on aurait pu utiliser à la place, et le potassium 40 qui rend les bananes radioactives chauffent la Terre comme 24'000 centrales nucléaires, ce qui maintient le manteau terrestre fluide, provoque la tectonique des plaques, le volcanisme etc.
 

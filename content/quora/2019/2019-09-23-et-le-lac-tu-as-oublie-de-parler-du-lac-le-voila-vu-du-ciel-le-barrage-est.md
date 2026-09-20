@@ -17,4 +17,4 @@ Et le lac ! Tu as oublié de parler du lac ! Le voilà vu du ciel (le barrage es
 
 C'est un des plus grand cratères d'impact du monde !
 
-[de Manicouagan à Rochechouart - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/16/de-manicouagan-a-rochechouart/)
+[de Manicouagan à Rochechouart - Pourquoi Comment Combien](/2009/04/16/de-manicouagan-a-rochechouart/)

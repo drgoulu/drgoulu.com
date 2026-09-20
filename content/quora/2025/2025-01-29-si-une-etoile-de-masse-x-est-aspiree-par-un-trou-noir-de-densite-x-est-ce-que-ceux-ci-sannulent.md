@@ -30,4 +30,4 @@ Il s'ensuit que les trous noirs supermassifs ont des densités apparentes (depui
 
 Dit autrement, si le système solaire était rempli d'air, sa mssse correspondrait aux plus gros trous noirs connus. Et il s'effondrerait pour en former un.
 
-[https://drgoulu.com/2008/06/20/l...](https://drgoulu.com/2008/06/20/la-densite-des-trous-noirs/)
+[https://drgoulu.com/2008/06/20/l...](/2008/06/20/la-densite-des-trous-noirs/)

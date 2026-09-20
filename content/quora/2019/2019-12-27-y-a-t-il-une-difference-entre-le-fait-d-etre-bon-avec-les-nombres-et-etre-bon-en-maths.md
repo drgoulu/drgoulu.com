@@ -26,6 +26,6 @@ Au niveau 1 vous avez l'algèbre, au 2 les fonctions, la géométrie plane, au 3
 
 Apparemment les matheux ont même réussi à formaliser les étages élevés de la pyramide :
 
-[L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](https://www.drgoulu.com/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/)
+[L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/)
 
 Donc être bon avec les nombres, c'est un bon début, et être bon en maths, c'est très relatif…

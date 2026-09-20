@@ -17,4 +17,4 @@ Parfois avec des télescopes, en sachant où regarder.
 
 Pour détecter (entre autres) les astéroïdes, on a construit des instruments spéciaux comme [Pan-STARRS](w:), deux télescopes qui balaient tout le ciel en une semaine avec la caméra digitale de 1.4 gigapixels
 
-[Risques météoritiques - Pourquoi Comment Combien](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/)
+[Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)

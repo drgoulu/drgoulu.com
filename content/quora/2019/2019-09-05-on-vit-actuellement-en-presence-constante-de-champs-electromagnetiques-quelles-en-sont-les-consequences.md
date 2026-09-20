@@ -27,4 +27,4 @@ Accessoirement on peut appeler au secours, il y a des milliers de vies sauvées 
 
 Parallèlement, l'espérance de vie n'a jamais été aussi élevée, et les effets négatifs sur la santé de rayonnements non ionisants dans les normes n'ont jamais été démontrés.
 
-[Pourquoi je n'ai toujours pas peur de mon téléphone mobile - Pourquoi Comment Combien](https://www.drgoulu.com/2011/06/03/pourquoi-je-nai-toujours-pas-peur/)
+[Pourquoi je n'ai toujours pas peur de mon téléphone mobile - Pourquoi Comment Combien](/2011/06/03/pourquoi-je-nai-toujours-pas-peur/)

@@ -26,6 +26,6 @@ Cet Univers est donc peut-être une simulation "très simple" réalisée sur le 
 
 Notes de bas de page
 
-[[1]](#cite-yBepP)[la Résurrection du Jeu de la Vie - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/29/la-resurrection-du-jeu-de-la-vie/)
+[[1]](#cite-yBepP)[la Résurrection du Jeu de la Vie - Pourquoi Comment Combien](/2009/03/29/la-resurrection-du-jeu-de-la-vie/)
 
-[[2]](#cite-ycWSS)[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+[[2]](#cite-ycWSS)[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](/2011/01/30/pourquoi-3-dimensions-1-temps/)

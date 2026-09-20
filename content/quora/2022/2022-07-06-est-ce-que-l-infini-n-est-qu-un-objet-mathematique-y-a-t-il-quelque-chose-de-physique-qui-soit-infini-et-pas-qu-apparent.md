@@ -29,10 +29,10 @@ S'il s'avère que l'Univers est quantifié à l'échelle de Planck , alors il y 
 
 Sans parler d'infini, en maths on manipule des nombres incroyablement plus grand que ça
 
-[https://www.drgoulu.com/2008/11/...](https://www.drgoulu.com/2008/11/04/tres-tres-tres-grands-nombres/#.YsYAg3aiGCo)
+[https://www.drgoulu.com/2008/11/...](/2008/11/04/tres-tres-tres-grands-nombres/#.YsYAg3aiGCo)
 
 Notes de bas de page
 
 [[1]](#cite-grdqx)[Combien de photons ont-ils été émis par toutes les étoiles depuis l'origine de l'univers?](https://www.clubic.com/mag/sciences/conquete-spatiale/actualite-848132-combien-photons-emis-etoiles-origine-univers.html)
 
-[[2]](#cite-ZGSbd)[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/#.YsYB6naiGCo)
+[[2]](#cite-ZGSbd)[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/#.YsYB6naiGCo)

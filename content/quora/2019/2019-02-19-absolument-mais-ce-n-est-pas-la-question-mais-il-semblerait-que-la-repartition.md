@@ -15,4 +15,4 @@ Absolument, mais ce n'est pas la question…
 
 Mais il semblerait que la répartition ne soit pas un problème spécifique aux nombres premiers, mais aux nombres générés par un crible, comme les nombres chanceux.
 
-Voir [2019 passée au crible - Pourquoi Comment Combien](https://www.drgoulu.com/2019/01/06/2019-passee-au-crible/#.XGwkRbnjKyU)
+Voir [2019 passée au crible - Pourquoi Comment Combien](/2019/01/06/2019-passee-au-crible/#.XGwkRbnjKyU)

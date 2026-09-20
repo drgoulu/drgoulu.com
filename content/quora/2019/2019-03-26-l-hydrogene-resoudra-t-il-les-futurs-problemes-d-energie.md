@@ -31,4 +31,4 @@ De plus, il faut être conscient qu’actuellement l’hydrogène est produit pa
 
 Notes de bas de page
 
-[[1]](#cite-vKynX)[Comment stocker l'énergie - Pourquoi Comment Combien](https://www.drgoulu.com/2012/10/07/comment-stocker-lenergie/)
+[[1]](#cite-vKynX)[Comment stocker l'énergie - Pourquoi Comment Combien](/2012/10/07/comment-stocker-lenergie/)

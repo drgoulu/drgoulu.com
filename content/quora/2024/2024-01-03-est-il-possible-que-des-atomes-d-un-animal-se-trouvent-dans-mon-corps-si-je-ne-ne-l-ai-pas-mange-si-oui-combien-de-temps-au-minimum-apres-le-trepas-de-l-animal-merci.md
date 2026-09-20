@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui c'est une certitude, rien qu'en buvant de l'eau ou en respirant de l'oxygène.
 
-[https://www.drgoulu.com/2008/03/...](https://www.drgoulu.com/2008/03/09/quelles-sont-les-chances/)
+[https://www.drgoulu.com/2008/03/...](/2008/03/09/quelles-sont-les-chances/)

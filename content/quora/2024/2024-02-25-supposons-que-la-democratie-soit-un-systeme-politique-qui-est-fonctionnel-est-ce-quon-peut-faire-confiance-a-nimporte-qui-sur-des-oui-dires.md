@@ -30,4 +30,4 @@ C'est d'ailleurs ce que disent les présidents des républiques ou des dictature
 
 La démocratie, c'est le pouvoir de faire des mauvais choix, de s'en apercevoir, et de les corriger.
 
-[https://drgoulu.com/2009/12/13/i...](https://drgoulu.com/2009/12/13/initiatives-populaires/)
+[https://drgoulu.com/2009/12/13/i...](/2009/12/13/initiatives-populaires/)

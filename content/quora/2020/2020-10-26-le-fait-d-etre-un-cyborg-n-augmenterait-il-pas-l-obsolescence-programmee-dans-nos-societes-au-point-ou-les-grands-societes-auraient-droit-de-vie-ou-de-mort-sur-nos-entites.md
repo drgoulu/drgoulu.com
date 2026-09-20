@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Le-fait-d-%C3%AAtre-un-cyborg-n-augmenterait-il-pas-l-obsolescence-programm%C3%A9e-dans-nos-soci%C3%A9t%C3%A9s-au-point-ou-les-grands-soci%C3%A9t%C3%A9s-auraient-droit-de-vie-ou-de-mort-sur-nos-entit%C3%A9s/answer/Dr-Goulu)*
 
-Si l'obsolescence programmée existe, ce qui n'est pas sur, voir [L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/01/lobsolescence-est-elle-programmee-2/).
+Si l'obsolescence programmée existe, ce qui n'est pas sur, voir [L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](/2013/05/01/lobsolescence-est-elle-programmee-2/).
 
 Si vous voulez les avantages d'être un cyborg, il faut aussi en payer le prix.
 

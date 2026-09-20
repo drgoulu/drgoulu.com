@@ -29,4 +29,4 @@ Pour l'évolution c'est assez facile, il suffit de s'intéresser aux oiseaux, au
 
 Mais si on a commencé par croire, c'est plus dur, alors je leur donne un lien qui explique:
 
-[Pourquoi on aime le joli, le sexy, le sucré et le drôle - Pourquoi Comment Combien](https://drgoulu.com/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)
+[Pourquoi on aime le joli, le sexy, le sucré et le drôle - Pourquoi Comment Combien](/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)

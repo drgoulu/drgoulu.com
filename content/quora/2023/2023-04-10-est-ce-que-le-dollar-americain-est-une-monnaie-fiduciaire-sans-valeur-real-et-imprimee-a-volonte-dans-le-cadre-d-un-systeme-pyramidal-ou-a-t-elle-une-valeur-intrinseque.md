@@ -31,4 +31,4 @@ Pourtant le dernier que j'ai vu c'était il y a plus de 10 ans quand j'ai vendu 
 
 Donc oui, le USD et le CHF sont certainement surévalués d'un facteur 2 ou 3, mais c'est pas de notre faute. C'est vous qui n'avez pas assez confiance en votre propre monnaie.
 
-[https://www.drgoulu.com/2009/04/...](https://www.drgoulu.com/2009/04/03/combien-vaut-1-franc/#.ZDPCxqS-g0E)
+[https://www.drgoulu.com/2009/04/...](/2009/04/03/combien-vaut-1-franc/#.ZDPCxqS-g0E)

@@ -37,4 +37,4 @@ Voilà. Remarquez qu'on a pas besoin de relativité ou de mécanique quantique p
 
 Notes de bas de page
 
-[[1]](#cite-OnSyZ)[A combien tourne un trou noir ? - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/#.XxaAMZ6FqCo)
+[[1]](#cite-OnSyZ)[A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/#.XxaAMZ6FqCo)

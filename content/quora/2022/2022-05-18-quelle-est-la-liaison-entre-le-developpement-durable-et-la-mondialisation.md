@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 La [mondialisation](w:) permet le développement économique, qui est l'un des 3 piliers du développement durable
 
-[https://www.drgoulu.com/2009/06/...](https://www.drgoulu.com/2009/06/06/developpement-durable-et-equation-de-kaya/#.YoXIrWm-g0E)
+[https://www.drgoulu.com/2009/06/...](/2009/06/06/developpement-durable-et-equation-de-kaya/#.YoXIrWm-g0E)

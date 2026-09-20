@@ -26,4 +26,4 @@ Aucun, bien que je doute que les San, les Surui et les Papous se rencontrent fr�
 
 Bon, disons que si vous êtes une femme vivant en plaine depuis des générations et que vous épousez un Sherpa, un Aymara ou un Ahmara et vivez avec lui à plus de 2500m, vous avez de fortes chances d'accoucher prématurément, voire de faire une eclampsie. Mais si il survit, votre enfant sera peut-être génétiquement adapté à l'altitude.
 
-[https://www.drgoulu.com/2014/08/...](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+[https://www.drgoulu.com/2014/08/...](/2014/08/17/ladaptation-a-laltitude/)

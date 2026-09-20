@@ -19,4 +19,4 @@ Regardez ces deux chaînes identiques en chute libre filmées à haute vitesse. 
 
 Référence et explications ici :
 
-[Comment tomber plus vite que la gravité - Pourquoi Comment Combien](https://www.drgoulu.com/2013/04/20/comment-tomber-plus-vite-que-la-gravite/#.YhPjomnfs0E)
+[Comment tomber plus vite que la gravité - Pourquoi Comment Combien](/2013/04/20/comment-tomber-plus-vite-que-la-gravite/#.YhPjomnfs0E)

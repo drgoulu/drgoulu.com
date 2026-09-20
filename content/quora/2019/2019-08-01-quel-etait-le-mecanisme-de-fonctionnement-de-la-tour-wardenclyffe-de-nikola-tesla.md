@@ -27,7 +27,7 @@ Selon des études récentes [[1]](#MIsqX), la tour de Tesla ne pouvait pas fonct
 
 Bref le grand projet de Tesla à été tué par la [Loi en carré inverse](w:), plus forte que lui…
 
-[N ikola Tesla : génie, mais connu - Pourquoi Comment Combien](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[N ikola Tesla : génie, mais connu - Pourquoi Comment Combien](/2012/08/19/nikola-tesla-genie-mais-connu/)
 
 Notes de bas de page
 

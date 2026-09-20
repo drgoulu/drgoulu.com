@@ -15,7 +15,7 @@ Le temps est une dimension imaginaire au sens mathématique du terme dans toutes
 
 Introduction :
 
-[https://drgoulu.com/2007/02/07/l...](https://drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
+[https://drgoulu.com/2007/02/07/l...](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
 
 Précisions :
 

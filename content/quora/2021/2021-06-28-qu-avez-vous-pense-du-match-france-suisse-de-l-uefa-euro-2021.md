@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Le football est un jeu de hasard. C'est pour ça qu'il déchaîne les passions.
 
-[https://www.drgoulu.com/2008/05/...](https://www.drgoulu.com/2008/05/09/la-science-du-football/)
+[https://www.drgoulu.com/2008/05/...](/2008/05/09/la-science-du-football/)
 
 Ca vous console ?

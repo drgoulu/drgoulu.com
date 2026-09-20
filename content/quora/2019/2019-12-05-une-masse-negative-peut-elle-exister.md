@@ -27,4 +27,4 @@ Et c'est très dommage, parce qu'on pourrait faire des tas de trucs marrants ave
 
 C'est pas pour rien que la physique est une "science dure" : elle ne fait pas de cadeau.
 
-[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)

@@ -53,4 +53,4 @@ Et ça, c'est vraiment pas rien…
 
 Notes de bas de page
 
-[[1]](#cite-mnBHw)[Le Théorème de Noether a un siècle - Pourquoi Comment Combien](https://www.drgoulu.com/2018/06/23/le-theoreme-de-noether-a-un-siecle/#.Xxcwop6FqCo)
+[[1]](#cite-mnBHw)[Le Théorème de Noether a un siècle - Pourquoi Comment Combien](/2018/06/23/le-theoreme-de-noether-a-un-siecle/#.Xxcwop6FqCo)

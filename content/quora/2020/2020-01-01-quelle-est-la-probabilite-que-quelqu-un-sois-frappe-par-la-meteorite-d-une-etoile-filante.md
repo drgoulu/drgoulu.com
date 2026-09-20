@@ -27,4 +27,4 @@ Plus sérieusement, il n'y a que très peu de cas historiques répertoriés de p
 
 Donc disons qu'en étant très large, ça arrive 2 ou 3 fois par siècle.
 
-[Risques météoritiques - Pourquoi Comment Combien](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/#.Xg2fnUdsOCo)
+[Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/#.Xg2fnUdsOCo)

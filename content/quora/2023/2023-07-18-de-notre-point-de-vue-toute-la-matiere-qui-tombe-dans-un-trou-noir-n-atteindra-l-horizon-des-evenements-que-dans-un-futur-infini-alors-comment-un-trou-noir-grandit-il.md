@@ -17,4 +17,4 @@ Pour réconcilier les deux points de vues, on peut se dire que la masse du trou 
 
 Petite introduction ici
 
-[https://www.drgoulu.com/2011/08/...](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[https://www.drgoulu.com/2011/08/...](/2011/08/13/selon-newton-lunivers-serait-digital/)

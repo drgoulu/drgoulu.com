@@ -37,4 +37,4 @@ C'est pour la question"le fonctionnement sera-t-il le même" que j'ai de plus gr
 
 Notes de bas de page
 
-[[1]](#cite-GwRnJ)[Combien de processeurs pour un cerveau ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/03/11/combien-de-processeurs-pour-un-cerveau/)
+[[1]](#cite-GwRnJ)[Combien de processeurs pour un cerveau ? - Pourquoi Comment Combien](/2013/03/11/combien-de-processeurs-pour-un-cerveau/)

@@ -31,4 +31,4 @@ En fait SETI cherche n'importe quel signal contenant de l'information, mais le d
 
 Nous on est beaucoup plus futés, on émet des images en binaire de 41 par 41 où on décrit pi et Pythagore avec des symboles résistants au bruit de transmission.
 
-[https://www.drgoulu.com/2011/09/...](https://www.drgoulu.com/2011/09/25/comment-comptent-les-extraterrestres/#.YgECRlPfs0E)
+[https://www.drgoulu.com/2011/09/...](/2011/09/25/comment-comptent-les-extraterrestres/#.YgECRlPfs0E)

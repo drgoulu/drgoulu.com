@@ -26,7 +26,7 @@ Et puis on se demande s'il existe un rapport entre la rotation de la Terre et sa
 
 La question devient : combien vaut ce [Réchauffement par effet de marée](w:)?
 
-Je n'avais pas trouvé la valeur en écrivant [Combien de marée - Pourquoi Comment Combien](https://www.drgoulu.com/2017/08/15/combien-de-maree/#.X3dJXGiFqCo), donc là il faut combler cette grave lacune.
+Je n'avais pas trouvé la valeur en écrivant [Combien de marée - Pourquoi Comment Combien](/2017/08/15/combien-de-maree/#.X3dJXGiFqCo), donc là il faut combler cette grave lacune.
 
 D'après [Henk Schuring's answer to How much does tidal heating affect the Earth's temperature?](https://www.quora.com/How-much-does-tidal-heating-affect-the-Earths-temperature/answer/Henk-Schuring)
 

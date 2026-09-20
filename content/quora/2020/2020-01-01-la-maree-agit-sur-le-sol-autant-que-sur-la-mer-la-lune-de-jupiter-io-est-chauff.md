@@ -15,4 +15,4 @@ La marée agit sur le sol autant que sur la mer. [la lune de Jupiter Io](w:Io_(l
 
 Sur la mer c'est juste plus visible à cause de phénomènes de resonance.
 
-[Combien de marée - Pourquoi Comment Combien](https://www.drgoulu.com/2017/08/15/combien-de-maree/)
+[Combien de marée - Pourquoi Comment Combien](/2017/08/15/combien-de-maree/)

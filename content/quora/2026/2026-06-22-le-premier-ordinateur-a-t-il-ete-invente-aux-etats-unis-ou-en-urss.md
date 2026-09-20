@@ -27,7 +27,7 @@ Pour qu'une machine à calculer soit un ordinateur, elle doit être programmable
 
 La première machine programmable aurait pu être la [Machine analytique](w:)de Charles Babbage, conçue en Angleterre en 1834 , mais elle n'a jamais fonctionné, pour des raisons purement mécaniques.
 
-(Voir [La première boucle - Pourquoi Comment Combien](https://drgoulu.com/2016/06/26/la-premiere-boucle/) )
+(Voir [La première boucle - Pourquoi Comment Combien](/2016/06/26/la-premiere-boucle/) )
 
 Le premier ordinateur qui a fonctionné est le Z3 de [Konrad Zuse](w:), en 1941.
 

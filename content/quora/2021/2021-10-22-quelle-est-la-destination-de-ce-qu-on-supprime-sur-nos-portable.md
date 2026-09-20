@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Portable ou ordinateur, même combat : il est devenu très difficile de supprimer de l'information, encore plus avec les "clouds".
 
-J'avais écrit ceci à ce sujet : [La pénible mort des données - Pourquoi Comment Combien](https://www.drgoulu.com/2012/10/31/la-penible-mort-des-donnees/)
+J'avais écrit ceci à ce sujet : [La pénible mort des données - Pourquoi Comment Combien](/2012/10/31/la-penible-mort-des-donnees/)
 
 Mais en résumé, quand vous croyez supprimer quelque chose, la mémoire correspondante est juste marquée comme libre, ce qui fait que peut-être, beaucoup plus tard voire jamais, un autre contenu sera écrit "par dessus" vos fichiers supprimés.

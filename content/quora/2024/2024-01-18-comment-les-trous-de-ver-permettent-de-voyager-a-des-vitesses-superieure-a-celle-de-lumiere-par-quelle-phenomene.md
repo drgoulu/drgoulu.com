@@ -27,4 +27,4 @@ Comme on le voit sur le dessin, un trou de ver plus court que le trajet "normal"
 
 Réflexion plus générale sur ce sujet :
 
-[https://www.drgoulu.com/2016/09/...](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[https://www.drgoulu.com/2016/09/...](/2016/09/11/solutions-admissibles/)

@@ -27,8 +27,8 @@ Et il y en d'autres dont les propriétaires ne veulent pas savoir l'origine car 
 
 ![](./images/qimg-69ec145a2c2421d30922eaa24bdbc33f.jpg)
 
-Dont je cause dans [I (don't) want to believe - Pourquoi Comment Combien](https://www.drgoulu.com/2020/07/24/i-dont-want-to-believe/)
+Dont je cause dans [I (don't) want to believe - Pourquoi Comment Combien](/2020/07/24/i-dont-want-to-believe/)
 
 Notes de bas de page
 
-[[1]](#cite-SLNRk)[Anticythère version suisse - Pourquoi Comment Combien](https://www.drgoulu.com/2011/12/03/anticythere-version-suisse/)
+[[1]](#cite-SLNRk)[Anticythère version suisse - Pourquoi Comment Combien](/2011/12/03/anticythere-version-suisse/)

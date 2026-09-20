@@ -27,7 +27,7 @@ pour ne pas dire la même chose que les autres :
 
 La population est l'un des 4 facteurs de l'équation de Kaya.
 
-[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
+[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
 
 j'ai vue une fois un reportage sur une jolie famille écolo bio vélo zéro carbone .
 

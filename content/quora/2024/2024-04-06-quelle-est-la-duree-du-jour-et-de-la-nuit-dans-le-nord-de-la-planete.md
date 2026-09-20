@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 C'est compliqué
 
-[https://drgoulu.com/2013/08/11/c...](https://drgoulu.com/2013/08/11/combien-dure-un-jour/)
+[https://drgoulu.com/2013/08/11/c...](/2013/08/11/combien-dure-un-jour/)

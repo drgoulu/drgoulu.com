@@ -31,6 +31,6 @@ Pour la n-ième fois je le répète : c'est pas parce que des équations disent 
 
 Des fois les équations prédisent des trucs qu'on mesure expérimentalement après (trous noir, ondes gravitationnelles etc), et des fois non.
 
-[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)
 
 En théorie, un trou de ver est "simplement" un raccourci entre deux zones de l'espace-temps. S'il est assez gros, on passerait dedans sans même s'en apercevoir. Sinon, seule une partie de votre corps serait quasiment téléportée ailleurs, et ça ferait mal, mais pas longtemps.

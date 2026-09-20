@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 En chargeant les batteries des voitures électriques. Elles seront surtout chargées la nuit, quand on ne sait pas que faire de l'énergie éolienne.
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/05/la-voiture-electrique-ne-sera-pas-solaire/#.YulF36S-g0E)
+[https://www.drgoulu.com/2009/03/...](/2009/03/05/la-voiture-electrique-ne-sera-pas-solaire/#.YulF36S-g0E)

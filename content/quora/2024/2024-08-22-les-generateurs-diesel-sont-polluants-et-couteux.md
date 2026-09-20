@@ -15,7 +15,7 @@ Comme le dit [Jacques-Marie Moranne](https://fr.quora.com/profile/Jacques-Marie-
 
 En écrivant
 
-[https://drgoulu.com/2012/10/07/c...](https://drgoulu.com/2012/10/07/comment-stocker-lenergie/)
+[https://drgoulu.com/2012/10/07/c...](/2012/10/07/comment-stocker-lenergie/)
 
 j'étais tombé sur un graphique intéressant décrivant les techniques de stockage sur ces deux axes :
 

@@ -25,4 +25,4 @@ SI ça fonctionne et SI ça produit des kWh moins cher que le solaire à ce mome
 
 Il y a 30 ans j'avais plusieurs amis qui travaillaient dans ce domaine. Ils ont tous laissé tomber en me disant qu'ils ne verraient pas le résultat de leurs travaux…
 
-[https://www.drgoulu.com/2005/12/...](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[https://www.drgoulu.com/2005/12/...](/2005/12/11/la-fusion-thermonucleaire/)

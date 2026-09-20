@@ -40,7 +40,7 @@ Par pité ne lisez pas les articles scientifiques dans Gala ou Paris-Match !
 
 Analyse d'un cas similaire de survulgarisation
 
-[https://www.drgoulu.com/2013/10/...](https://www.drgoulu.com/2013/10/05/ya-t-il-des-trous-noirs-dans-la-mer/)
+[https://www.drgoulu.com/2013/10/...](/2013/10/05/ya-t-il-des-trous-noirs-dans-la-mer/)
 
 Donc je corrige un peu ma réponse sur les conséquences :
 

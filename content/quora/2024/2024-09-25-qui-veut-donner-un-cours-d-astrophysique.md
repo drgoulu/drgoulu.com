@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il y a de très bons cours en ligne.
 
-[https://drgoulu.com/2014/11/18/l...](https://drgoulu.com/2014/11/18/la-tete-dans-les-etoiles/)
+[https://drgoulu.com/2014/11/18/l...](/2014/11/18/la-tete-dans-les-etoiles/)

@@ -15,10 +15,10 @@ Oui, quand la Lune est exactement au dessus de vous, vous pesez environ 260 mill
 
 J'avais fait le calcul là, et aussi pour le Soleil et les planètes :
 
-[https://www.drgoulu.com/2004/06/...](https://www.drgoulu.com/2004/06/30/astrologie/#.YthrNqS-g0E)
+[https://www.drgoulu.com/2004/06/...](/2004/06/30/astrologie/#.YthrNqS-g0E)
 
 Ce n est pas forcément la nuit, parfois on voit la Lune en plein jour, et parfois on ne la voit pas mais elle est là, simplement la luminosité de l atmosphère la cache.
 
 Pour les marées, c'est plus compliqué
 
-[https://www.drgoulu.com/2017/08/...](https://www.drgoulu.com/2017/08/15/combien-de-maree/#.YthsbaS-g0E)
+[https://www.drgoulu.com/2017/08/...](/2017/08/15/combien-de-maree/#.YthsbaS-g0E)

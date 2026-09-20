@@ -33,4 +33,4 @@ Mais en combinant l’asymétrie CP avec l’asymétrie du temps (T) que nous po
 
 Bizarre qu’il faille combiner 3 miroirs imparfaits (l’espace, le temps et la charge électrique) pour en obtenir un parfait, non ?
 
-voir mon meilleur article ever : [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/04/miroir/#.XMQUKWiiGCo)
+voir mon meilleur article ever : [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/#.XMQUKWiiGCo)

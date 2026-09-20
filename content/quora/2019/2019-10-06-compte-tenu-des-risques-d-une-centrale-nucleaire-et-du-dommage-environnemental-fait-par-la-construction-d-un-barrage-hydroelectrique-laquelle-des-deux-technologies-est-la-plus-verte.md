@@ -26,4 +26,4 @@ Bref, il n'y a pas de X plus vert que Y. Les humains font ce qui est le plus éc
 
 Notes de bas de page
 
-[[1]](#cite-ySIOG)[Séismes et énergies - Pourquoi Comment Combien](https://www.drgoulu.com/2011/03/16/seismes-et-energies/)
+[[1]](#cite-ySIOG)[Séismes et énergies - Pourquoi Comment Combien](/2011/03/16/seismes-et-energies/)

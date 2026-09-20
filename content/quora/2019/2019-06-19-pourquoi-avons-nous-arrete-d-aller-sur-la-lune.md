@@ -27,4 +27,4 @@ En 2006 la NASA a répertorié 181 raisons de retourner sur la Lune [[1]](#yxRNo
 
 Notes de bas de page
 
-[[1]](#cite-yxRNo)[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/07/18/pour-quoi-retourner-sur-la-lune/)
+[[1]](#cite-yxRNo)[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](/2009/07/18/pour-quoi-retourner-sur-la-lune/)

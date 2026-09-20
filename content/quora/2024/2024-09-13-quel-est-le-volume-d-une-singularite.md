@@ -17,4 +17,4 @@ En physique, le volume minimum est la [Longueur de Planck](w:)au cube (ou $6\sqr
 
 Notes de bas de page
 
-[[1]](#cite-ClvkL)[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](https://drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[[1]](#cite-ClvkL)[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)

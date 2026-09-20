@@ -36,8 +36,8 @@ D'ailleurs vous jouez certainement à des jeux vidéo en 2D voire en 3D simulés
 
 Notes de bas de page
 
-[[1]](#cite-iqIUy)[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
+[[1]](#cite-iqIUy)[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
 
-[[2]](#cite-xHozp)[De quelle couleur est l'ours ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/10/08/de-quelle-couleur-est-lours/)
+[[2]](#cite-xHozp)[De quelle couleur est l'ours ? - Pourquoi Comment Combien](/2013/10/08/de-quelle-couleur-est-lours/)
 
-[[3]](#cite-IJMuW)[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[[3]](#cite-IJMuW)[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)

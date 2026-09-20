@@ -17,4 +17,4 @@ Donc ça dépend comment vous construisez votre sentiment de sécurité.
 
 En gros ça dépend votre perception du risque est liée à la distance parcourue, au temps de parcours ou au fait de vous déplacer..
 
-[https://www.drgoulu.com/2007/07/...](https://www.drgoulu.com/2007/07/06/securite-des-transports/)
+[https://www.drgoulu.com/2007/07/...](/2007/07/06/securite-des-transports/)

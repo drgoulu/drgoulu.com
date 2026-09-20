@@ -15,13 +15,13 @@ Oui, c'est même comme ça qu'on construit des espaces (simples = euclidiens) à
 
 ![](./images/qimg-e48bd5176690f9df0ca4b3b071182cdb.jpg)
 
-[https://www.drgoulu.com/2007/02/...](https://www.drgoulu.com/2007/02/06/voir-en-4-dimensions/)
+[https://www.drgoulu.com/2007/02/...](/2007/02/06/voir-en-4-dimensions/)
 
 pour creuser le sujet, je vous recommande la série de vidos gratuites [Dimensions](http://www.dimensions-math.org/Dim_fr.htm)
 
 Mais si c'est l'objet de votre question, l'espace-temps (à 4 dimensions) n'est pas euclidien. Il est "pseudo-euclidien" parce que la 4ème dimension a un signe négatif dans la formule de Pythagore
 
-[https://www.drgoulu.com/2007/02/...](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
+[https://www.drgoulu.com/2007/02/...](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
 
 ça a l'intéressante propriété que des "tranches" d'espace 3D selon l'axe du temps sont des "hypercônes" en 4D, qu'on appelle
 

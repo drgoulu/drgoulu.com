@@ -27,4 +27,4 @@ Avant 1772 où l’horloger [John Harrison](w:John_Harrison_(horloger)) parvient
 
 Le livre de [Dava Sobel](http://openlibrary.org/authors/OL225521A/Dava_Sobel) "[Longitude: l'histoire vraie du génie solitaire qui résolut le plus grand problème scientifique de son temps](http://openlibrary.org/books/OL12524664M/Longitude)" (1996) J.-C. Lattès ISBN:9782709617437 raconte cette histoire passionnante
 
-[Longitude - Pourquoi Comment Combien](https://www.drgoulu.com/2009/10/04/longitude/)
+[Longitude - Pourquoi Comment Combien](/2009/10/04/longitude/)

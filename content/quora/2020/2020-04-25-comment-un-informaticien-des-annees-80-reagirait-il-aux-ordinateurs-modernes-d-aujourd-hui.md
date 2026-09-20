@@ -29,7 +29,7 @@ Ces programmes étaient les plus puissants du minuscule marché de l'époque par
 
 En même temps à l'EPFL on a eu tous les superordinateurs [Cray](w:Cray_(entreprise)) les uns après les autres. Et des cours sur leur architecture, alors aujourd'hui je ne suis pas trop choqué quand j'utilise mon smartphone, de puissance équivalente …
 
-Je considère toujours la puissance de calcul comme si précieuse que depuis des années mes ordinateurs font tous tourner [BOINC](https://www.drgoulu.com/2007/01/20/calcul-distribue-avec-boinc/#.XqP3CWiiGCo). En ce moment même, j'ai 4 processus [Asteroids@home](http://asteroidsathome.net/boinc/) et 2 [PrimeGrid](https://www.primegrid.com/) qui tournent….
+Je considère toujours la puissance de calcul comme si précieuse que depuis des années mes ordinateurs font tous tourner [BOINC](/2007/01/20/calcul-distribue-avec-boinc/#.XqP3CWiiGCo). En ce moment même, j'ai 4 processus [Asteroids@home](http://asteroidsathome.net/boinc/) et 2 [PrimeGrid](https://www.primegrid.com/) qui tournent….
 
 Ce qui a été dur, c'est de renoncer à tout comprendre des machines actuelles. Je me suis bien intéressé aux processeurs graphiques (GPU) un moment car on pouvait à nouveau bidouiller bas niveau dedans, et puis tout a été caché derrière un mur de drivers… Prochaine étape : les machines quantiques ( [Qiskit](https://qiskit.org/) ).
 

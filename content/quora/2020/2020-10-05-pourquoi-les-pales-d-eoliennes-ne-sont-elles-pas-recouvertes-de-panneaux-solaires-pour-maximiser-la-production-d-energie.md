@@ -29,4 +29,4 @@ Donc toutes les fausses bonnes idées favorisent les énergies fossiles …
 
 Notes de bas de page
 
-[[1]](#cite-ijIIw)[Energie éolienne (et solaire) à prix coutant ? - Pourquoi Comment Combien](https://www.drgoulu.com/2007/08/26/energie-eolienne-et-solaire-a-prix-coutant)
+[[1]](#cite-ijIIw)[Energie éolienne (et solaire) à prix coutant ? - Pourquoi Comment Combien](/2007/08/26/energie-eolienne-et-solaire-a-prix-coutant/)

@@ -30,4 +30,4 @@ Si vous avez beaucoup de temps, un ami horloger ou que vous êtes bon en modéli
 
 ![](./images/qimg-c9131aa0eae19f3c2558439d0c865f36.gif)
 
-[Combien de marée - Pourquoi Comment Combien](https://www.drgoulu.com/2017/08/15/combien-de-maree/)
+[Combien de marée - Pourquoi Comment Combien](/2017/08/15/combien-de-maree/)

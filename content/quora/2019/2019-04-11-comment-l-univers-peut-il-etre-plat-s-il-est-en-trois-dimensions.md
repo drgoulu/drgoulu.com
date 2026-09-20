@@ -27,4 +27,4 @@ Le théorème de Pythagore aussi n'est valable que dans un espace plat.
 
 Notes de bas de page
 
-[[1]](#cite-dumez)[De quelle couleur est l'ours ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/10/08/de-quelle-couleur-est-lours/)
+[[1]](#cite-dumez)[De quelle couleur est l'ours ? - Pourquoi Comment Combien](/2013/10/08/de-quelle-couleur-est-lours/)

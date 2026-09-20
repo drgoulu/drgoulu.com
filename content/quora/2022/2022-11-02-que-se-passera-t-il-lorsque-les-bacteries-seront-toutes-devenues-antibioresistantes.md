@@ -19,6 +19,6 @@ Faisons leur confiance encore quelques millions d'années.
 
 Lisez
 
-[https://www.drgoulu.com/2016/03/...](https://www.drgoulu.com/2016/03/28/planete-de-virus/)
+[https://www.drgoulu.com/2016/03/...](/2016/03/28/planete-de-virus/)
 
 c'est génial ! (le livre, pas l'article…)

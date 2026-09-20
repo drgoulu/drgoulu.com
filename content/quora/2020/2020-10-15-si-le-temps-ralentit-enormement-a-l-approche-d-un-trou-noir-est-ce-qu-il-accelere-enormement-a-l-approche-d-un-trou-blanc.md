@@ -15,4 +15,4 @@ On n'observe aucun [Trou blanc](w:), donc c'est très hypothétique, mais non, l
 
 Ca serait le cas à proximité d'une [Masse négative](w:) encore plus hypothétique.
 
-[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)

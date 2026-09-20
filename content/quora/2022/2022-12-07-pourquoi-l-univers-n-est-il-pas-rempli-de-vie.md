@@ -13,7 +13,7 @@ coverImage: ./images/qimg-b625a641343dedba71d6150d266e0e08.jpg
 
 A cause du Grand Filtre.
 
-[https://www.drgoulu.com/2012/12/...](https://www.drgoulu.com/2012/12/28/le-grand-filtre/)
+[https://www.drgoulu.com/2012/12/...](/2012/12/28/le-grand-filtre/)
 
 mais nous ne savons pas encore où il est.
 

@@ -19,4 +19,4 @@ Les contributions sont là :
 
 En étant très optimiste, 5% de causes naturelles.
 
-Source : [FAQ Réchauffement Global - Pourquoi Comment Combien](https://drgoulu.com/2007/05/23/faq-rechauffement-global/)
+Source : [FAQ Réchauffement Global - Pourquoi Comment Combien](/2007/05/23/faq-rechauffement-global/)

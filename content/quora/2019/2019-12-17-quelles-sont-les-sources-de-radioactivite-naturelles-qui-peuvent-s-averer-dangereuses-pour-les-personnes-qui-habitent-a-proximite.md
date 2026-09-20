@@ -37,7 +37,7 @@ Bref, il n'y a pas d'endroit au monde où la radioactivité naturelle soit réel
 
 Ou plus exactement il n'y a plus d'endroit dangereux, parce qu'il y a deux milliards d'années il ne fallait pas trop s'aventurer dans le [Réacteur nucléaire naturel d'Oklo](w:)
 
-[La radioactivité naturelle - Pourquoi Comment Combien](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/)
+[La radioactivité naturelle - Pourquoi Comment Combien](/2013/11/03/la-radioactivite-naturelle/)
 
 Notes de bas de page
 

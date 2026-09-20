@@ -17,4 +17,4 @@ Ensuite, si vous êtes une employée d'ambassade à Quito ou La Paz et que vous 
 
 A l'inverse, le jeune couple suisso-bolivien que j'ai rencontré au [Petit Cervin](w:)aura un enfant sur deux capable de vivre et de se reproduire à 3900m quand le réchauffement climatique nous poussera vers les hauteurs. Jolie combinaison des deux aspects de la sélection naturelle je trouve.
 
-[https://www.drgoulu.com/2014/08/...](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+[https://www.drgoulu.com/2014/08/...](/2014/08/17/ladaptation-a-laltitude/)

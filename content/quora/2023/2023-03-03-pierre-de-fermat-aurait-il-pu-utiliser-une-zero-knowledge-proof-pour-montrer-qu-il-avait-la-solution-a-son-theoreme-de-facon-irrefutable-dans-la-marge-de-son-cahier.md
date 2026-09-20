@@ -43,6 +43,6 @@ En fait le fameux "j'en ai découvert une démonstration véritablement merveill
 
 Notes de bas de page
 
-[[1]](#cite-tENZQ)[20 ans de Science Simpson - Pourquoi Comment Combien](https://www.drgoulu.com/2010/03/08/20-ans-de-science-simpson/#.ZAGzTnbMKCo)
+[[1]](#cite-tENZQ)[20 ans de Science Simpson - Pourquoi Comment Combien](/2010/03/08/20-ans-de-science-simpson/#.ZAGzTnbMKCo)
 
-[[2]](#cite-tjTZk)[Alice et Bob et les clés asymétriques - Pourquoi Comment Combien](https://www.drgoulu.com/2017/02/15/alice-et-bob-et-les-cles-asymetriques/#.ZAG7r3ZsOCo)
+[[2]](#cite-tjTZk)[Alice et Bob et les clés asymétriques - Pourquoi Comment Combien](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/#.ZAG7r3ZsOCo)

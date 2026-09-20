@@ -15,4 +15,4 @@ Dans chaque verre d'eau que vous buvez se trouvent environ 2000 molécules déj�
 
 Calcul ici :
 
-[https://www.drgoulu.com/2008/03/...](https://www.drgoulu.com/2008/03/09/quelles-sont-les-chances/)
+[https://www.drgoulu.com/2008/03/...](/2008/03/09/quelles-sont-les-chances/)

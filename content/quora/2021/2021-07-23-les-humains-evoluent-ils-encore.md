@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui, parce que leur environnement (au sens large) évolue. Exemple le plus flagrant
 
-[https://www.drgoulu.com/2014/08/...](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+[https://www.drgoulu.com/2014/08/...](/2014/08/17/ladaptation-a-laltitude/)

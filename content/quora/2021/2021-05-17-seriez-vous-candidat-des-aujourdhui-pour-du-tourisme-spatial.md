@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Sans hésiter. D'ailleurs j'aurais du pouvoir aller sur la Lune il y a 20 ans, selon le programme d'il y a 50 ans …
 
-[https://www.drgoulu.com/2009/07/...](https://www.drgoulu.com/2009/07/18/pour-quoi-retourner-sur-la-lune/#.YKJXgKiiGCo)
+[https://www.drgoulu.com/2009/07/...](/2009/07/18/pour-quoi-retourner-sur-la-lune/#.YKJXgKiiGCo)

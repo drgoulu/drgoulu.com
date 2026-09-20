@@ -25,6 +25,6 @@ Ce qui fait l'extraordinaire force du [Modèle standard de la cosmologie](w:)qui
 
 Car la force d'une théorie scientifique réside surtout dans ce qu'elle prédit par rapport à ses concurrentes.
 
-[https://www.drgoulu.com/2008/08/...](https://www.drgoulu.com/2008/08/23/suites-courbes-et-theories/)
+[https://www.drgoulu.com/2008/08/...](/2008/08/23/suites-courbes-et-theories/)
 
 Parmi les différentes hypothèses relatives à ce qui s'est passé avant la nucléosynthèse primordiale, voire "avant le Big Bang", certaines font des prédictions testables, notamment par les [Ondes gravitationnelles primordiales](w:Onde_gravitationnelle_primordiale)qu'après une fausse alerte on devrait pouvoir détecter un jour prochain, que j'attends avec impatience.

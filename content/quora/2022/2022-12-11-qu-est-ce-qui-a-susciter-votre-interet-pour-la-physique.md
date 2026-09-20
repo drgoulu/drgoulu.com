@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ma famille, Apollo et [Rafel Carreras](w:).
 
-[https://www.drgoulu.com/2013/04/...](https://www.drgoulu.com/2013/04/28/pourquoi-je-kiffe-la-science/#.Y5ZG_qTfs0E)
+[https://www.drgoulu.com/2013/04/...](/2013/04/28/pourquoi-je-kiffe-la-science/#.Y5ZG_qTfs0E)

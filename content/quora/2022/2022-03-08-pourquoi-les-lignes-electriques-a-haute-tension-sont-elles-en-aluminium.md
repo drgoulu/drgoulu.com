@@ -21,4 +21,4 @@ Malheureusement il n'a pas la résistance mécanique nécessaire, alors on le me
 
 Ca n'a pas trop d'incidence sur la conductivité en raison de l'[Effet de peau](w:).
 
-[https://www.drgoulu.com/2010/03/...](https://www.drgoulu.com/2010/03/19/0-01-ohmkm/)
+[https://www.drgoulu.com/2010/03/...](/2010/03/19/0-01-ohmkm/)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Celle que vous voulez.
 
-[De quelle couleur est l'ours ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/10/08/de-quelle-couleur-est-lours/#.Xr5L6WiiGCo)
+[De quelle couleur est l'ours ? - Pourquoi Comment Combien](/2013/10/08/de-quelle-couleur-est-lours/#.Xr5L6WiiGCo)

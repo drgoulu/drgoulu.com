@@ -38,6 +38,6 @@ Cela dit, quand j'éteignais mon PET 2001 en 1980, il affichait plein de trucs b
 
 Notes de bas de page
 
-[[1]](#cite-Ogfrx)[Y'a-t-il des trous noirs dans la mer ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/10/05/ya-t-il-des-trous-noirs-dans-la-mer/#.ZFZEkXZByCo)
+[[1]](#cite-Ogfrx)[Y'a-t-il des trous noirs dans la mer ? - Pourquoi Comment Combien](/2013/10/05/ya-t-il-des-trous-noirs-dans-la-mer/#.ZFZEkXZByCo)
 
 [[2]](#cite-aBeeI)[https://www.researchgate.net/pub...](https://www.researchgate.net/publication/255790950_Surge_of_neurophysiological_coherence_and_connectivity_in_the_dying_brain)

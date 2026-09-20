@@ -17,4 +17,4 @@ Le truc auquel les anciens avaient donné le nom du dieu romain le plus puissant
 
 400 ans plus tard, y'en a toujours qui y croient… quelle déception…
 
-[https://www.drgoulu.com/2004/06/...](https://www.drgoulu.com/2004/06/30/astrologie/#.ZCLUpnZByCo)
+[https://www.drgoulu.com/2004/06/...](/2004/06/30/astrologie/#.ZCLUpnZByCo)

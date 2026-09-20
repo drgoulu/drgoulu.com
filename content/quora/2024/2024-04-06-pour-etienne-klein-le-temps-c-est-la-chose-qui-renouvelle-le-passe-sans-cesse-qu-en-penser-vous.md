@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ça c'est un peu plus proche de son point de vue de physicien présentiste, et un peu moins con que ses tirades "philosophiques" sur le sujet.
 
-[https://drgoulu.com/2008/06/19/p...](https://drgoulu.com/2008/06/19/peut-on-voyager-dans-le-temps/)
+[https://drgoulu.com/2008/06/19/p...](/2008/06/19/peut-on-voyager-dans-le-temps/)

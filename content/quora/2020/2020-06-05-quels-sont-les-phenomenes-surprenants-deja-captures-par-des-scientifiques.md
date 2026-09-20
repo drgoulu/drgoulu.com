@@ -44,4 +44,4 @@ Anoop Grewal, Philip Johnson and Andy Ruina, "A chain that accelerates, rather t
 
 Notes de bas de page
 
-[[1]](#cite-Gksow)[Comment tomber plus vite que la gravité - Pourquoi Comment Combien](https://www.drgoulu.com/2013/04/20/comment-tomber-plus-vite-que-la-gravite/#.XtpboUWiGCo)
+[[1]](#cite-Gksow)[Comment tomber plus vite que la gravité - Pourquoi Comment Combien](/2013/04/20/comment-tomber-plus-vite-que-la-gravite/#.XtpboUWiGCo)

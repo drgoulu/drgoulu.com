@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce qu'il faut dépenser de l'énergie pour sortir du puits gravitationnel créé par une masse. L'énergie potentielle d'un astre est donc négative, au fond d'un trou par rapport à l'espace vide.
 
-[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](https://www.drgoulu.com/2012/09/05/un-petit-pas-pour-lhomme/)
+[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](/2012/09/05/un-petit-pas-pour-lhomme/)

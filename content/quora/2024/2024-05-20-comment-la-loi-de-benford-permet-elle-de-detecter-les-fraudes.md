@@ -19,4 +19,4 @@ Si votre comptable a créé de fausses factures sans prendre garde à ça, un te
 
 Plus de détails, avec quand même un peu de maths ici
 
-[https://drgoulu.com/2012/12/07/f...](https://drgoulu.com/2012/12/07/fraudez-benford/)
+[https://drgoulu.com/2012/12/07/f...](/2012/12/07/fraudez-benford/)

@@ -19,4 +19,4 @@ Dans les étoiles, les réactions sont assez complexes : [Chaîne proton-proton]
 
 Sur Terre (ITER) on va commencer par essayer la [Fusion nucléaire](w:)deuterium+tritium, et peut être [Hélium 3](w:)plus tard…
 
-[https://www.drgoulu.com/2005/12/...](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[https://www.drgoulu.com/2005/12/...](/2005/12/11/la-fusion-thermonucleaire/)

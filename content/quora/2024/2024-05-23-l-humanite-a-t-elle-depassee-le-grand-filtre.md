@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Je pense que le Grand Filtre est le voyage interstellaire, donc que non, nous ne l'avons pas dépassé.
 
-[https://drgoulu.com/2012/12/28/l...](https://drgoulu.com/2012/12/28/le-grand-filtre/)
+[https://drgoulu.com/2012/12/28/l...](/2012/12/28/le-grand-filtre/)

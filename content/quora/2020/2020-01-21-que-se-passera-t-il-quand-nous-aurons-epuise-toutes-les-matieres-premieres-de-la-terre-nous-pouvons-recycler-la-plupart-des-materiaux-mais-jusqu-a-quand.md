@@ -27,4 +27,4 @@ Tout revient à une question de prix. Depuis les gisements de silex, nous n'expl
 
 Cela dit, des études récentes montrent qu'on sous estime souvent les ressources disponibles, et leur renouvellement…
 
-[C ombien reste-t-il de ressources minières ? Beaucoup. - Pourquoi Comment Combien](https://www.drgoulu.com/2017/04/28/mythe-de-lepuisement-ressources-minieres/)
+[C ombien reste-t-il de ressources minières ? Beaucoup. - Pourquoi Comment Combien](/2017/04/28/mythe-de-lepuisement-ressources-minieres/)

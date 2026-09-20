@@ -24,7 +24,7 @@ Quelle est votre référence ? La phrase "Il n'existe que deux choses infinies, 
 
 Le problème c'est que la source de cette citation est inconnue.
 
-Quand je l'avais cherchée suite à un commentaire dans [Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](https://www.drgoulu.com/2008/11/26/ce-queinstein-na-jamais-dit/#comment-3380309335) , on m'avait informé qu'elle était mentionnée dans le "dictionnaire des citations pour les nuls" de Jérôme Duhamel comme tirée de "Einstein, a life for tomorrow, bookland 1958."
+Quand je l'avais cherchée suite à un commentaire dans [Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](/2008/11/26/ce-queinstein-na-jamais-dit/#comment-3380309335) , on m'avait informé qu'elle était mentionnée dans le "dictionnaire des citations pour les nuls" de Jérôme Duhamel comme tirée de "Einstein, a life for tomorrow, bookland 1958."
 
 Le problème est qu'il n'existe aucun ouvrage référencé avec ce titre. Alors j'ai cherché l'éditeur Bookland pour lui écrire, mais les entreprises existantes à ce nom ont été créées bien après 1958. Puis je suis tombé sur [Bookland - Wikipedia](w:en:Bookland) qui dit que c'est un pays fictif créé en même temps que les codes ISBN...
 

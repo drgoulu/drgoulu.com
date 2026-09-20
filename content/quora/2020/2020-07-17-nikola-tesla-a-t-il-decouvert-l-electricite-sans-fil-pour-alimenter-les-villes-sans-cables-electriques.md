@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ça s'appelle les micro-ondes et l'induction, c'est répandu dans le monde entier, à la dose qui vous ne cuit pas sur place.
 
-[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](/2012/08/19/nikola-tesla-genie-mais-connu/)

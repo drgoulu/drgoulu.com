@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Si-l-esp%C3%A8ce-humaine-n-%C3%A9volue-plus-ou-presque-est-ce-parce-que-la-taille-du-cerveau-est-limit%C3%A9e-par-les-conditions-de-la-naissance-uterus-ou-plut%C3%B4t-parce-que-la-n%C3%A9cessit%C3%A9-de-s-adapter-/answer/Dr-Goulu)*
 
-L'espèce humaine évolue toujours, et s'adapte à des milieux différents. Exemple spectaculaire : [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/).
+L'espèce humaine évolue toujours, et s'adapte à des milieux différents. Exemple spectaculaire : [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/).

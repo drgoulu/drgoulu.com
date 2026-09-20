@@ -27,6 +27,6 @@ Comme je suis plutôt "hard science", j'ai adoré (spoiler alert!) :
 - l'ordinateur à petits drapeaux, génial !
 - le filament monoatomique (qui rappelle celui de l'Anneau Monde)
 - le voyage spatial d'un cerveau
-- et bien sur, la "Forêt Sombre", qui rejoint exactement mon [Principe de Saturation Cubique](https://www.drgoulu.com/1999/10/24/psc/)et les multiples conséquences de ceci
+- et bien sur, la "Forêt Sombre", qui rejoint exactement mon [Principe de Saturation Cubique](/1999/10/24/psc/)et les multiples conséquences de ceci
 
 J'ai eu plus de peine à crocher aux dimensions multiples, que ce soit les particules espion qui se déplient et surtout le tome 3, carrément planant.

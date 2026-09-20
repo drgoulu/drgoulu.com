@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 
 Appelé aussi [Active SETI](w:en:Active_SETI).
 
-[Quel trématode a infecté METI ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/28/quel-trematode-a-infecte-meti/#.XIJPDRnjKyU)
+[Quel trématode a infecté METI ? - Pourquoi Comment Combien](/2011/08/28/quel-trematode-a-infecte-meti/#.XIJPDRnjKyU)

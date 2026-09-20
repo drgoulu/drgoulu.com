@@ -21,4 +21,4 @@ Le principe est simple : si vous utilisez l'oeuvre d'autrui, vous devez payer de
 
 Petite initiation à ce vaste domaine ici :
 
-[https://www.drgoulu.com/2013/01/...](https://www.drgoulu.com/2013/01/26/acanthapis-petax-cc-et-wikipedia/)
+[https://www.drgoulu.com/2013/01/...](/2013/01/26/acanthapis-petax-cc-et-wikipedia/)

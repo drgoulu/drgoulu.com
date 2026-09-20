@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce que leurs parents les ont fait naître.
 
-[Pourquoi / Pour Quoi ? - Pourquoi Comment Combien](https://drgoulu.com/2009/01/04/pourquoi-pour-quoi/)
+[Pourquoi / Pour Quoi ? - Pourquoi Comment Combien](/2009/01/04/pourquoi-pour-quoi/)

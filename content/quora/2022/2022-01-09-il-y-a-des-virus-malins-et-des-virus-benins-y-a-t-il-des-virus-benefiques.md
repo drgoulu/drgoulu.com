@@ -26,6 +26,6 @@ Parce que les virus, ça tue des mégatonne de bactéries. Sans eux, la Terre se
 
 Lisez le livre
 
-[https://www.drgoulu.com/2016/03/...](https://www.drgoulu.com/2016/03/28/planete-de-virus/)
+[https://www.drgoulu.com/2016/03/...](/2016/03/28/planete-de-virus/)
 
 Écrit avant le covid, mais toujours d'actualité.

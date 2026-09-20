@@ -15,4 +15,4 @@ La caféine est un psychostimulant indirect : elle se fixe sur les récepteurs d
 
 C'est aussi un diurétique, mais c'est un autre sujet.
 
-[https://www.drgoulu.com/2012/07/...](https://www.drgoulu.com/2012/07/07/magnifique-cafeine/#.Yij09Wnfs0E)
+[https://www.drgoulu.com/2012/07/...](/2012/07/07/magnifique-cafeine/#.Yij09Wnfs0E)

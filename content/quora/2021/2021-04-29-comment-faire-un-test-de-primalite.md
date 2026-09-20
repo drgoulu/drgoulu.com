@@ -30,4 +30,4 @@ Si vous en avez besoin dans un autre langage, par exemple en C pour un bidule cr
 
 Et si vous voulez vraiment faire votre propre algorithme de test, alors vous allez devoir sérieusement étudier la théorie des nombres, avec les [Courbes elliptiques](w:Courbe_elliptique) et tout le toutim, et je vous souhaite bonne chance pour votre [Médaille Fields](w:) …
 
-[https://www.drgoulu.com/2012/04/...](https://www.drgoulu.com/2012/04/15/comment-produire-des-nombres-premiers/)
+[https://www.drgoulu.com/2012/04/...](/2012/04/15/comment-produire-des-nombres-premiers/)

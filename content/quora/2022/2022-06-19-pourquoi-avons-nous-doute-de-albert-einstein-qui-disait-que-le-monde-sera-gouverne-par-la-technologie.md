@@ -26,4 +26,4 @@ Donc, vu qu'on lui a fait dire plein de bêtises à mon pauvre compatriote Alber
 
 Comme ça je ferai des vérifications, et je vous répondrai après, ou sinon j'ajouterai votre citation à la longue liste des fausses citations ici :
 
-[https://www.drgoulu.com/2008/11/...](https://www.drgoulu.com/2008/11/26/ce-queinstein-na-jamais-dit/)
+[https://www.drgoulu.com/2008/11/...](/2008/11/26/ce-queinstein-na-jamais-dit/)

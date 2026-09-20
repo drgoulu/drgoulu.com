@@ -26,6 +26,6 @@ Cela dit, ce n’est pas en 2024 que [2015ME131](http://neo.ssa.esa.int/search-f
 
 A quelque chose près, car on est totalement incapables de prévoir l’orbite d’un si petit objet 5 ans à l’avance avec une telle précision. A 6000 km, il serait tout en haut de la [Risk Page](http://neo.ssa.esa.int/risk-page), et avec 500m de diamètre, il serait en rouge sur l’échelle de Turin…
 
-[Risques météoritiques - Pourquoi Comment Combien](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/)
+[Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)
 
 (Pensez à vérifier et indiquer vos sources si vous ne voulez pas faire peur aux gens inutilement, à moins que ce ne soit le but, justement…)

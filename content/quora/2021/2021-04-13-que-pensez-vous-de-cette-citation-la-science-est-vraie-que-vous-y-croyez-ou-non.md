@@ -44,4 +44,4 @@ Je termine avec une autre citation
 
 J'ai adoré ce missile à tête chercheuse contre l'homéopathie, j'en cause ici si vous voulez mieux comprendre ce qui fait la différence entre la médecine basée sur les faits et des pseudo-médecines :
 
-[https://www.drgoulu.com/2013/03/...](https://www.drgoulu.com/2013/03/21/deux-pubs/)
+[https://www.drgoulu.com/2013/03/...](/2013/03/21/deux-pubs/)

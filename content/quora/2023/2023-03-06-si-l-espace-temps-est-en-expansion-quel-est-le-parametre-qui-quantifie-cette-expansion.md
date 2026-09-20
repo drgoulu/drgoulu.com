@@ -23,7 +23,7 @@ Donc effectivement, l'expansion ne dépend que du temps, donc on peut la représ
 
 ![](./images/qimg-6605933049f50ea44bae189393f0e2dd.jpg)
 
-( [Ouaip, c'est mon image de profil tellement elle est géniale](https://www.drgoulu.com/2008/05/30/le-big-bang-en-une-image/). )
+( [Ouaip, c'est mon image de profil tellement elle est géniale](/2008/05/30/le-big-bang-en-une-image/). )
 
 Ce qu'on voit là dessus ce sont des tranches (2D) de l'Univers observable au cours du temps, donc l' "espace-temps observable" c'est cette sorte de cloche, mais en 3D+1 chaque tranche est la sphère de l'Univers observable à ce moment là.
 
@@ -43,4 +43,4 @@ Cette représentation accrédite l'idée qu'on ne mesure peut-être pas le temps
 
 Si la [Flèche du temps](w:)est déterminée par la thermodynamique, peut-être que l'inverse de la température ou l'entropie seraient des "unités de temps" plus indiquées.
 
-[https://www.drgoulu.com/2008/06/...](https://www.drgoulu.com/2008/06/06/la-grande-question-du-temps/)
+[https://www.drgoulu.com/2008/06/...](/2008/06/06/la-grande-question-du-temps/)

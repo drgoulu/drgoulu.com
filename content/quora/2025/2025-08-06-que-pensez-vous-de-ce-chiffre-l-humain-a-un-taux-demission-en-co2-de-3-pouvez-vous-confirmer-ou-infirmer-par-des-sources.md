@@ -35,4 +35,4 @@ Sources : tous les articles scientifiques cités dans les rapports du GIEC depui
 
 Ya pas de 3%.
 
-[https://drgoulu.com/2007/05/23/f...](https://drgoulu.com/2007/05/23/faq-rechauffement-global/)
+[https://drgoulu.com/2007/05/23/f...](/2007/05/23/faq-rechauffement-global/)

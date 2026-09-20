@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce qu'un ordinateur qui se trouve entre vous et le serveur peut réaliser une [Attaque de l'homme du milieu](w:) en se faisant passer pour le serveur. Vous êtes en https,mais avec lui ! Et lui est en https avec le serveur en se faisant passer pour vous. Bref, il voit tout passer en clair…
 
-[Alice, Bob et l'Homme du Milieu - Pourquoi Comment Combien](https://www.drgoulu.com/2017/11/20/alice-bob-et-lhomme-du-milieu/)
+[Alice, Bob et l'Homme du Milieu - Pourquoi Comment Combien](/2017/11/20/alice-bob-et-lhomme-du-milieu/)

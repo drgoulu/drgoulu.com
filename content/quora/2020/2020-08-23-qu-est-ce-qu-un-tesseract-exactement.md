@@ -15,4 +15,4 @@ Un [Tesseract](w:) est l'analogue [quadridimensionnel](w:Quatrième_dimension) d
 
 ![](./images/qimg-8cfdfe233b327fbd572bdc60688371cb.jpg)
 
-[Voir en 4 dimensions - Pourquoi Comment Combien](https://www.drgoulu.com/2007/02/06/voir-en-4-dimensions/#.X0IkCMiFqCo)
+[Voir en 4 dimensions - Pourquoi Comment Combien](/2007/02/06/voir-en-4-dimensions/#.X0IkCMiFqCo)

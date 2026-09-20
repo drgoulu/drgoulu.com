@@ -24,7 +24,7 @@ Avec votre système à deux tours, celui/celle qui a le plus de chances de gagne
 
 C'est d'autant plus vrai maintenant que votre "2ème dimension" est devenue au moins aussi marquée que l'échelle gauche / droite.
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://www.drgoulu.com/2017/05/...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 Vous n'allez vous en sortir qu'avec une [Sixième République](w:)qui pourrait instituer un [Vote par approbation](w:) ou autre [Méthode de Condorcet](w:).
 

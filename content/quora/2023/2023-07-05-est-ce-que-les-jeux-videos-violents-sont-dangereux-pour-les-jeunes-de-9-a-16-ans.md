@@ -15,4 +15,4 @@ Comme les films, l'âge minimum pour jouer aux jeux vidéo est indiqué drssus. 
 
 Alors faites la même chose avec les jeux. Quand ils se vendaient en boîte ou en cartouche, les vendeurs étaient censés s'occuper du contrôle, maintenant c'est à vous qui détenez la carte de crédit de jouer votre rôle de parent.
 
-[https://www.drgoulu.com/2008/04/...](https://www.drgoulu.com/2008/04/27/qui-joue-aux-jeux-video/)
+[https://www.drgoulu.com/2008/04/...](/2008/04/27/qui-joue-aux-jeux-video/)

@@ -31,4 +31,4 @@ On peut aussi se souvenir de technologies anciennes qu'on a délaissées car ell
 
 Enfin, les estimations des réserves sont basées sur les techniques d'extraction et de recyclage actuelles, qui évoluent vite. En 2017 une étude avait estimé que beaucoup de ressources sont en réalité beaucoup plus abondantes que prévues.
 
-[Combien reste-t-il de ressources minières ? Beaucoup. - Pourquoi Comment Combien](https://www.drgoulu.com/2017/04/28/mythe-de-lepuisement-ressources-minieres/)
+[Combien reste-t-il de ressources minières ? Beaucoup. - Pourquoi Comment Combien](/2017/04/28/mythe-de-lepuisement-ressources-minieres/)

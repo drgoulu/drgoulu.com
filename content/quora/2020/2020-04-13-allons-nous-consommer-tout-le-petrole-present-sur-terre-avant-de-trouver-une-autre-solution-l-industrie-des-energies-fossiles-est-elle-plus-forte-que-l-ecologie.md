@@ -30,4 +30,4 @@ Vous l’exploitez, ou pas ?
 
 Si vous décidez de l’exploiter, vous devez bien calculer votre coup pour qu’il ne vous en reste plus une goutte au moment où les énergies de substitution deviendront compétitives. Et si vous ne le faites pas, d’autres le feront.
 
-[On brulera vraiment tout - Pourquoi Comment Combien](https://www.drgoulu.com/2007/05/25/on-brulera-vraiment-tout/#.XpTPvsiiGCo)
+[On brulera vraiment tout - Pourquoi Comment Combien](/2007/05/25/on-brulera-vraiment-tout/#.XpTPvsiiGCo)

@@ -35,7 +35,7 @@ La dégradation de l’environnement se modélise très bien par l’[Équation 
 
 En résumé, la dégradation de l’environnement vient de ce que nous sommes beaucoup à vivre plus longtemps et de mieux en mieux. Et nous n’avons pas vraiment envie d’inverser ces tendances[[4]](#tcLam) .
 
-Je vous **encourage vraiment** à regarder les vidéos d’[Hans Rosling](https://www.drgoulu.com/2017/02/08/merci-hans-rosling/), elles changeront votre vision du monde.
+Je vous **encourage vraiment** à regarder les vidéos d’[Hans Rosling](/2017/02/08/merci-hans-rosling/), elles changeront votre vision du monde.
 
 Notes de bas de page
 
@@ -45,4 +45,4 @@ Notes de bas de page
 
 [[3]](#cite-wwzkK)[Hans Rosling à propos de la croissance de la population mondiale](https://www.ted.com/talks/hans_rosling_on_global_population_growth?language=fr)
 
-[[4]](#cite-tcLam)[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
+[[4]](#cite-tcLam)[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)

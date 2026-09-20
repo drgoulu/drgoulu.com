@@ -15,4 +15,4 @@ C'est une des nombreuses citations attribuées à Einstein sans source sérieuse
 
 [Everybody is a Genius. But If You Judge a Fish by Its Ability to Climb a Tree, It Will Live Its Whole Life Believing that It is Stupid](https://quoteinvestigator.com/2013/04/06/fish-climb/), traitée par Quote investigator.
 
-[Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](https://www.drgoulu.com/2008/11/26/ce-queinstein-na-jamais-dit/)
+[Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](/2008/11/26/ce-queinstein-na-jamais-dit/)

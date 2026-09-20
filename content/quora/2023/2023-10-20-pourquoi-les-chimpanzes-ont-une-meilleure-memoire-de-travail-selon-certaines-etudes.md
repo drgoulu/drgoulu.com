@@ -33,4 +33,4 @@ Vous voulez parler de ça ?
 >
 >
 >
-> [Mémoire eidétique - Pourquoi Comment Combien](https://www.drgoulu.com/2008/06/04/memoire-eidetique/)
+> [Mémoire eidétique - Pourquoi Comment Combien](/2008/06/04/memoire-eidetique/)

@@ -27,6 +27,6 @@ En fait même nous n'implosons pas sous la pression : il n'y a que nos poumons q
 
 Le liquide existe, il s'appelle perfluorooctylbromure, et la scène d'Abyss avec le rat n'est pas truquée. Celle avec l'humain l'est, parce qu'officiellement il n'est pas utilisé sur des humains pour la plongée. Mais pour des applications médicales oui.
 
-[Plongée profonde - Pourquoi Comment Combien](https://www.drgoulu.com/2008/01/27/plongee-profonde/#.Xo32UMiiGCo)
+[Plongée profonde - Pourquoi Comment Combien](/2008/01/27/plongee-profonde/#.Xo32UMiiGCo)
 
 [Ventilation liquidienne — Wikipédia](w:Ventilation_liquidienne)

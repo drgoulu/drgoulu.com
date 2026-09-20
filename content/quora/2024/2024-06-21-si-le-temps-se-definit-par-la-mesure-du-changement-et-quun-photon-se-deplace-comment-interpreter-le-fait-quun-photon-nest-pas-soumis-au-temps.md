@@ -21,6 +21,6 @@ En interceptant un photon, pas moyen de savoir s'il va de sa source à sa destin
 
 Je déconne peut-être , mais je ne suis pas le seul ;-)
 
-[https://drgoulu.com/2013/12/04/l...](https://drgoulu.com/2013/12/04/le-passe-des-photons/)
+[https://drgoulu.com/2013/12/04/l...](/2013/12/04/le-passe-des-photons/)
 
 [https://en.wikipedia.org/wiki/Tw...](w:en:Two-state_vector_formalism)

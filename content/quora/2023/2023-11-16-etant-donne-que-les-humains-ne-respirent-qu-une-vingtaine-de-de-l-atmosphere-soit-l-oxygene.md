@@ -25,6 +25,6 @@ Oui, pour la plongée profonde on utilise un mélange hélium+oxygène ([Héliox
 
 Pour aller encore plus profond, on pourrait respirer un liquide dans lequel l'oxygène est dissous.
 
-[https://www.drgoulu.com/2008/01/...](https://www.drgoulu.com/2008/01/27/plongee-profonde/)
+[https://www.drgoulu.com/2008/01/...](/2008/01/27/plongee-profonde/)
 
 On pourrait probablement respirer n'importe quel mélange de gaz inerte (argon, xénon...) et d'oxygène, je ne sais pas si ça a été fait.

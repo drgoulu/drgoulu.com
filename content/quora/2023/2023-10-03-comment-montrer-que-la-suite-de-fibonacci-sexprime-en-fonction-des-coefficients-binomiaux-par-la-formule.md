@@ -17,4 +17,4 @@ $$\begin{pmatrix}1&1\\1&0\end{pmatrix}^{n-1}\begin{pmatrix}1\\0\end{pmatrix}=\be
 
 est tellement plus simple, belle et calculable
 
-[https://www.drgoulu.com/2017/04/...](https://www.drgoulu.com/2017/04/25/comment-calculer-le-1e19-eme-terme-de-la-suite-de-fibonacci/)
+[https://www.drgoulu.com/2017/04/...](/2017/04/25/comment-calculer-le-1e19-eme-terme-de-la-suite-de-fibonacci/)

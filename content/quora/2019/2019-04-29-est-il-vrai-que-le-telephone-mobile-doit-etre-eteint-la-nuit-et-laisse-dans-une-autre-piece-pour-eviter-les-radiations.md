@@ -26,4 +26,4 @@ Vous ne disiez pas que les emetteur radio qui avaient des puissances de dizaines
 
 Le téléphone portable est classé comme “potentiellement cancérogène “ dans la même liste que les légumes au vinaigre…
 
-[P ourquoi je n'ai toujours pas peur de mon téléphone mobile - Pourquoi Comment Combien](https://www.drgoulu.com/2011/06/03/pourquoi-je-nai-toujours-pas-peur/)
+[P ourquoi je n'ai toujours pas peur de mon téléphone mobile - Pourquoi Comment Combien](/2011/06/03/pourquoi-je-nai-toujours-pas-peur/)

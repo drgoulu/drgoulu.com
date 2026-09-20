@@ -27,4 +27,4 @@ Beaucoup de gens se satisfont de l'effet placebo renforcé.
 
 L'effet positif principal de l'homéopathie va peut-être d'avoir des médecins plus sympas…
 
-[Placebo et nocebo - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/21/placebo-et-nocebo/)
+[Placebo et nocebo - Pourquoi Comment Combien](/2009/05/21/placebo-et-nocebo/)

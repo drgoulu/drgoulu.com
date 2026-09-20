@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il y a un très chouette texte à ce sujet
 
-[https://www.drgoulu.com/2014/06/...](https://www.drgoulu.com/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/#.Yy7Y9aS-g0E)
+[https://www.drgoulu.com/2014/06/...](/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/#.Yy7Y9aS-g0E)

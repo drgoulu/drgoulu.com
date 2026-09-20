@@ -29,4 +29,4 @@ C'est quoi votre prédiction à vous pour 2050 ? Météorite ? Fin du calendrier
 
 Je ne voudrais pas vous décevoir , mais tout ça c'est du pipeau parce que moi j'ai calculé avec une grande précision que ce sera le [jeudi 20 février 12262](https://www.wolframalpha.com/input/?i=date25/12/1963+lcm(225,+365,+687)days).
 
-[2012 et l'ennemi intérieur - Pourquoi Comment Combien](https://www.drgoulu.com/2009/11/29/2012-et-lennemi-interieur/)
+[2012 et l'ennemi intérieur - Pourquoi Comment Combien](/2009/11/29/2012-et-lennemi-interieur/)

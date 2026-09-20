@@ -26,4 +26,4 @@ Les dix millions de virus [Bactériophage](w:)par millilitre d'eau de mer. Sans 
 
 D'autres réponses ont mentionné que les bacteriophages pourraient remplacer les antibiotiques.
 
-Lisez le livre [Planète de virus](https://www.drgoulu.com/2016/03/28/planete-de-virus/), c'est génial.
+Lisez le livre [Planète de virus](/2016/03/28/planete-de-virus/), c'est génial.

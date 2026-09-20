@@ -28,6 +28,6 @@ Newton avait fait une théorie des marées en 1687 mais elle était trop simple 
 
 C'est [Jean le Rond D'Alembert](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=Jean+le+Rond+D&rsquo;Alembert) qui résolu le premier problème en 1747, puis [Pierre-Simon de Laplace](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=Pierre-Simon+de+Laplace) le second en 1799.
 
-[https://drgoulu.com/2017/08/15/c...](https://drgoulu.com/2017/08/15/combien-de-maree/)
+[https://drgoulu.com/2017/08/15/c...](/2017/08/15/combien-de-maree/)
 
 Pour un calcul précis des marées, il a fallu attendre Lord Kelvin en 1873.

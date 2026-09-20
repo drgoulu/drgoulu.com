@@ -18,7 +18,7 @@ Ils savent très bien que l'évolution des êtres humains continue.
 
 il y notamment
 
-[https://www.drgoulu.com/2014/08/...](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/#.YFIiIZ1sOCo)
+[https://www.drgoulu.com/2014/08/...](/2014/08/17/ladaptation-a-laltitude/#.YFIiIZ1sOCo)
 
 qui est très intéressante car elle est différente dans les hauts plateaux Ethiopiens, l'Himalaya et les Andes.
 

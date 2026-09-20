@@ -19,8 +19,8 @@ Mais pour le sous-ensemble qui correspond à la réalité physique, les expérie
 
 Notes de bas de page
 
-[[1]](#cite-NmvPY)[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+[[1]](#cite-NmvPY)[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](/2011/01/30/pourquoi-3-dimensions-1-temps/)
 
-[[2]](#cite-cCBSD)[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[[2]](#cite-cCBSD)[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)
 
-[[3]](#cite-MGTsS)[L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](https://www.drgoulu.com/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/)
+[[3]](#cite-MGTsS)[L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/)

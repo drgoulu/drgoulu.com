@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Que vous devriez vérifier avant de citer Einstein (ou qui que ce soit d'autre d'ailleurs)
 
-[https://www.drgoulu.com/2008/11/...](https://www.drgoulu.com/2008/11/26/ce-queinstein-na-jamais-dit/#.YsgyrXZByCp)
+[https://www.drgoulu.com/2008/11/...](/2008/11/26/ce-queinstein-na-jamais-dit/#.YsgyrXZByCp)
 
 Sinon, la reconstruction des zones russophones détruites par les russes coûtera des centaines de milliards. Cet argent ne sera pas brûlé, il paiera des ouvriers, des matériaux, du travail, des entreprises, des bakchichs …

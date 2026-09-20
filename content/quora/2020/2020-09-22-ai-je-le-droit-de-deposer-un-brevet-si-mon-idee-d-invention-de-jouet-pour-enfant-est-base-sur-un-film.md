@@ -41,7 +41,7 @@ Mais attention, un brevet ne vous autorise pas forcément à exploiter votre inv
 
 Par exemple si vous arrivez à inventer un sabre laser , vous pourrez sans doute le breveter, mais vous ne pourrez pas l'appeler "Lightsaber" parce que cette marque est déposée par Lucas Films, et vous ne pourrez pas lui faire faire les même sons que celui de Darth Vader parce qu'ils sont protégés par copyright. Donc vous devrez éviter toute référence à Star Wars, que ce soit dans le brevet ou dans votre "Jouet" Made in China, ou alors vendre votre brevet à LucasFilms …
 
-Pour finir, si votre jouet est un vaisseau spatial supraluminique (qui ne ressemble esthétiquement à aucun représenté dans un film), alors c'est trop tard, Boris Volfson est passé avant vous ( voir [Combien pour ce brevet ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/08/combien-pour-ce-brevet/) )
+Pour finir, si votre jouet est un vaisseau spatial supraluminique (qui ne ressemble esthétiquement à aucun représenté dans un film), alors c'est trop tard, Boris Volfson est passé avant vous ( voir [Combien pour ce brevet ? - Pourquoi Comment Combien](/2009/03/08/combien-pour-ce-brevet/) )
 
 Notes de bas de page
 

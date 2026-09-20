@@ -15,4 +15,4 @@ de faire une belle sculpture très chère dans votre jardin.
 
 Il n'existe aucun "moteur quantique", c'est juste un moyen de plus d'escroquer les gogos.
 
-[https://www.drgoulu.com/2012/05/...](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/#.ZD7f4XaiGCo)
+[https://www.drgoulu.com/2012/05/...](/2012/05/27/dites-non-au-mouvement-perpetuel/#.ZD7f4XaiGCo)

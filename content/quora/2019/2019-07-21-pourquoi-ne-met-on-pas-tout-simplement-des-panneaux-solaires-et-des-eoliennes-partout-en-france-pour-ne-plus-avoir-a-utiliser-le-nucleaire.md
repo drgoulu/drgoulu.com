@@ -49,10 +49,10 @@ Notes de bas de page
 
 [[2]](#cite-cqJlv)[Global wind power at 80 m](http://www.stanford.edu/group/efmh/winds/global_winds.html)
 
-[[3]](#cite-KWlFh)[Comment stocker l'énergie - Pourquoi Comment Combien](https://www.drgoulu.com/2012/10/07/comment-stocker-lenergie/)
+[[3]](#cite-KWlFh)[Comment stocker l'énergie - Pourquoi Comment Combien](/2012/10/07/comment-stocker-lenergie/)
 
-[[4]](#cite-zPokD)[Qui veut de l'électricité à prix négatif ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/)
+[[4]](#cite-zPokD)[Qui veut de l'électricité à prix négatif ? - Pourquoi Comment Combien](/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/)
 
 [[5]](#cite-obQyW)[Prix négatifs - Questions réponses](https://www.epexspot.com/fr/epex_spot_se/fondamentaux_du_marche_de_l_electricite/Prix_négatifs)
 
-[[6]](#cite-LVJIx)[Potentiel hydroélectrique - Pourquoi Comment Combien](https://www.drgoulu.com/2008/09/06/potentiel-hydroelectrique/)
+[[6]](#cite-LVJIx)[Potentiel hydroélectrique - Pourquoi Comment Combien](/2008/09/06/potentiel-hydroelectrique/)

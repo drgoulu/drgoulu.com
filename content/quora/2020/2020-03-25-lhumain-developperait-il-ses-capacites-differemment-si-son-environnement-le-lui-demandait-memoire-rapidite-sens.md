@@ -31,4 +31,4 @@ Inoue, S. & Matsuzawa, T. “[Working memory of numerals in chimpanzees](http://
 
 montre que nous avons **perdu**la [Mémoire eidétique](w:) que nos ancêtres avaient probablement pour reconnaître d'un seul coup d’œil la position de leurs congénères en cas de danger. Nous considérons comme "superpouvoir" un reste d'instinct…
 
-Moins visible mais encore mieux documenté scientifiquement, certains humains se sont [adaptés génétiquement à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/#.Xnsdl4hsOCo). Cette évolution est toujours en cours.
+Moins visible mais encore mieux documenté scientifiquement, certains humains se sont [adaptés génétiquement à l'altitude](/2014/08/17/ladaptation-a-laltitude/#.Xnsdl4hsOCo). Cette évolution est toujours en cours.

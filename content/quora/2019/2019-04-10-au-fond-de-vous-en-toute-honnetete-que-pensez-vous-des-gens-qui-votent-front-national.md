@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 De manière générale je pense qu’il est temps d’intégrer que la dimension “progressiste/conservateur” est devenue importante, voire dominante (Trump etc..) par rapport à la “gauche/droite” dans certains pays.
 
-[La politique française dans la 2ème dimension ? - Pourquoi Comment Combien](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[La politique française dans la 2ème dimension ? - Pourquoi Comment Combien](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 En passant, j’avais commencé à réaliser une carte “smartvote Française” sur la base des votes à l’Assemblée Nationale disponibles lors du quinquennat précédent : [goulu/smartvoteFR](https://github.com/goulu/smartvoteFR) .
 

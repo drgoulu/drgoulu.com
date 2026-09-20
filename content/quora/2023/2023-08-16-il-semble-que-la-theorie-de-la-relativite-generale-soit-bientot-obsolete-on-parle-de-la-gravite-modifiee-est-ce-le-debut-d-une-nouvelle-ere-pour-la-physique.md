@@ -34,4 +34,4 @@ Ce qui serait cool, c'est que cette modification corresponde à une discrétisat
 
 Ca ne serait pas vraiment une "nouvelle ère" dans la mesure où la [Gravitation quantique à boucles](w:)est dans l'air depuis un moment. Mais ça serait un gros pas en avant, certainement.
 
-[https://www.drgoulu.com/2011/08/...](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[https://www.drgoulu.com/2011/08/...](/2011/08/13/selon-newton-lunivers-serait-digital/)

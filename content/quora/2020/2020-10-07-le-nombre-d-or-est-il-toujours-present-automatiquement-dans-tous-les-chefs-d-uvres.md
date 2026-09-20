@@ -15,4 +15,4 @@ Non, pas du tout. Il n'est présent que dans les œuvres qui l'utilisent explici
 
 En passant, le célèbre [Homme de Vitruve](w:)de Léonard de Vinci n'utilise pas le nombre d'or mais les proportions de l'architecte romain [Vitruve](w:), comme son nom l'indique.
 
-[Nombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[Nombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/)

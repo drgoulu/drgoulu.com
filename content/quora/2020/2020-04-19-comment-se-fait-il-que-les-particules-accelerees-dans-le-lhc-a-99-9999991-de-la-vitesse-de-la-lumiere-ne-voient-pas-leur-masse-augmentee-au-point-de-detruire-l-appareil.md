@@ -19,6 +19,6 @@ Il y a 2808 paquets de protons qui tournent en même temps dans le LHC dans chaq
 
 Et effectivement, il faut des aimants parmi les plus puissants du monde* pour les faire tourner en rond, sinon ils sortiraient du tube sous vide et si c’était à un endroit précis, ça ferait peut-être un trou de quelques microns de diamètre, ce serait dommage …
 
-[La FAQ du LHC - Pourquoi Comment Combien](https://www.drgoulu.com/2008/09/12/la-faq-du-lhc/#.Xp09aciiGCo)
+[La FAQ du LHC - Pourquoi Comment Combien](/2008/09/12/la-faq-du-lhc/#.Xp09aciiGCo)
 
 Note* : j’avais postulé au CERN suite à une annonce que j’avais trouvé extraordinaire : au moment de la conception du LHC, la technologie pour produire ces aimants n’existait pas encore. Ils avaient extrapolé le développement des aimants supraconducteurs et parié que les aimants existeraient 10 ans plus tard ! Le job consistait à s’en assurer, parce que sinon, le LHC n’aurait pas atteint les performances voulues. Gonflé, non ? Mais ça a réussi. Peut-être parce qu’ils ne m’ont pas pris …

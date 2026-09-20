@@ -21,7 +21,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Eve-a-p%C3%A9ch%C3%A9-mais-quelquun-saurait-il-me-dire-pourquoi-la-connaissance-%C3%A9tait-interdite/answer/Dr-Goulu)*
 
-Il y a un excellent bouquin sur ce sujet : [Les Tuniques d'aveugle](https://www.drgoulu.com/2004/07/29/livre-les-tuniques-daveugle/) de Paul Nothomb (un oncle d'Amelie…)
+Il y a un excellent bouquin sur ce sujet : [Les Tuniques d'aveugle](/2004/07/29/livre-les-tuniques-daveugle/) de Paul Nothomb (un oncle d'Amelie…)
 
 Dans sa traduction directe de la Genèse de l'hébreu en français, il propose que la "connaissance" soit celle du monde physique, que les humains ont choisi de rejoindre plutôt que de garder une nature spirituelle et éternelle.
 

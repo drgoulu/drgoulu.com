@@ -17,4 +17,4 @@ Pas de limite connue.
 
 Le problème est plutôt que les maths sont trop puissantes, elles peuvent même décrire des trucs qui n'existent pas : tachyons, masse négative, monopôles magnétiques etc.
 
-[https://drgoulu.com/2016/09/11/s...](https://drgoulu.com/2016/09/11/solutions-admissibles/)
+[https://drgoulu.com/2016/09/11/s...](/2016/09/11/solutions-admissibles/)

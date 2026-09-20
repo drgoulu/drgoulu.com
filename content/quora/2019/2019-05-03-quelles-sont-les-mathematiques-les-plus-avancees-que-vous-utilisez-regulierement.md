@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Je crois que c’est la [Convention de sommation d'Einstein](w:). C’est plus une notation et une fonction Python très puissante qu’un concept mathématique avancé, mais c’est vraiment très pratique pour plein de calculs matriciels, de la géométrie au traitement d’image.
 
-[Einsum - Pourquoi Comment Combien](https://www.drgoulu.com/2016/01/17/einsum/)
+[Einsum - Pourquoi Comment Combien](/2016/01/17/einsum/)

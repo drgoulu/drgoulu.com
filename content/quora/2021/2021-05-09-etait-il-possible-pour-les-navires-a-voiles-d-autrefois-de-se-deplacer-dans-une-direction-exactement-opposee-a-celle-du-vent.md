@@ -23,7 +23,7 @@ coverImage: ./images/qimg-0d51dede96197da525a2ab3fe68df353.jpg
 
 Non, et d'ailleurs ce n'est toujours pas possible sans [louvoyer](w:) même avec les voiliers ultra-modernes actuels. Ils remontent au vent beaucoup mieux que leurs ancêtres, mais comme la force générée par une voile est une portance aérodynamique, elle est par définition au mieux perpendiculaire à la vitesse du vent, mais l'inévitable traînée dévie la résultante vers l'arrière.
 
-Entre parenthèses, si on arrivait à trouver un profil d'aile ou de voile qui avait une résultante dirigée vers l'avant, il n'y aurait plus besoin de moteurs aux avions, et les éoliennes tourneraient sans vent : [mouvement perpétuel !](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/#.YJeVDrWiGCo)
+Entre parenthèses, si on arrivait à trouver un profil d'aile ou de voile qui avait une résultante dirigée vers l'avant, il n'y aurait plus besoin de moteurs aux avions, et les éoliennes tourneraient sans vent : [mouvement perpétuel !](/2012/05/27/dites-non-au-mouvement-perpetuel/#.YJeVDrWiGCo)
 
 En fait un bateau peut remonter face au vent [avec une éolienne](https://www.youtube.com/watch?v=IzGCYaJbf0A) qui actionne une hélice.
 
@@ -39,4 +39,4 @@ La première fois que j'ai vu ça, j'ai pensé à une arnaque au mouvement perp�
 
 Mais non, c'est juste très très fûté …
 
-[https://www.drgoulu.com/2012/12/...](https://www.drgoulu.com/2012/12/16/encoreplus-vite-que-le-vent/#.YJeT6rWiGCo)
+[https://www.drgoulu.com/2012/12/...](/2012/12/16/encoreplus-vite-que-le-vent/#.YJeT6rWiGCo)

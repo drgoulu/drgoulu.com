@@ -25,4 +25,4 @@ Oui, il y a le fameux [Airbus 320 qui s'est posé dans l'Hudson en 2009](http://
 
 les gros porteurs actuels planent aussi bien que des planeurs des années 1960, mais beaucoup plus vite.
 
-plus d'infos sur [Un jet gros porteur sachant planer ... - Pourquoi Comment Combien](https://www.drgoulu.com/2009/01/25/un-jet-gros-porteur-sachant-planer/#.X0A_RMiFqCo)
+plus d'infos sur [Un jet gros porteur sachant planer ... - Pourquoi Comment Combien](/2009/01/25/un-jet-gros-porteur-sachant-planer/#.X0A_RMiFqCo)

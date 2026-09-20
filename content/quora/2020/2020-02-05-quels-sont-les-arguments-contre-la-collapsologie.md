@@ -33,4 +33,4 @@ Notes de bas de page
 
 [[1]](#cite-aiSvj)[« Tout est lié ». Ethnographie d’un réseau d’intellectuels engagés de l’écologie (France-Suisse) : de l’effondrement systémique à l’écospiritualité holiste et moniste](https://www.academia.edu/38167027/_Tout_est_lié_._Ethnographie_d_un_réseau_d_intellectuels_engagés_de_l_écologie_France-Suisse_de_l_effondrement_systémique_à_l_écospiritualité_holiste_et_moniste)
 
-[[2]](#cite-TmzvW)[Pourquoi je kiffe la science - Pourquoi Comment Combien](https://www.drgoulu.com/2013/04/28/pourquoi-je-kiffe-la-science/)
+[[2]](#cite-TmzvW)[Pourquoi je kiffe la science - Pourquoi Comment Combien](/2013/04/28/pourquoi-je-kiffe-la-science/)

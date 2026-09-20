@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce qu'ils ne volent pas comme les oiseaux, avions et autres grands objets. A leur échelle, l'air est très visqueux, les insectes "nagent" dedans.
 
-[https://www.drgoulu.com/2011/03/...](https://www.drgoulu.com/2011/03/13/la-vie-a-bas-reynold/#.Yga04lPfs0E)
+[https://www.drgoulu.com/2011/03/...](/2011/03/13/la-vie-a-bas-reynold/#.Yga04lPfs0E)

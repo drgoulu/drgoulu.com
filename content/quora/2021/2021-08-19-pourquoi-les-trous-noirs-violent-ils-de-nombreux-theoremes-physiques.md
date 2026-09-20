@@ -27,6 +27,6 @@ En physique on a des "lois", et des [théories](w:Théorie)qui sont toutes valid
 
 Par exemple, les trous noirs ont une vitesse de rotation limitée, et les mesures effectuées montrent qu'ils tournent juste en dessous de cette limite.
 
-[A combien tourne un trou noir ? - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/)
 
 Je ne connais aucune loi ou théorie violée par un trou noir, et il y en a certainement pas "de nombreux".

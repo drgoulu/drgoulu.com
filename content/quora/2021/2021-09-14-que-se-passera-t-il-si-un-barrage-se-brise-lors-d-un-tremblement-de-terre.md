@@ -33,4 +33,4 @@ Pour un barrage que je connais bien :
 
 > Le barrage du [lac de Mauvoisin](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=lac+de+Mauvoisin) étant un barrage voûte, il céderait très rapidement en cas de défaillance structurelle, libérant jusqu’à 200 millions de m3 d’eau dans la vallée du Rhône située 1500 m plus bas. Energie potentielle dégagée par une telle catastrophe : 3.10^15 Joules, soit environ 1 mégatonne de TNT sous la forme d’une vague de plus de 10m qui balaierait une zone habitée par environ 100’000 personnes. Un tsunami artificiel…
 
-[https://www.drgoulu.com/2011/03/...](https://www.drgoulu.com/2011/03/16/seismes-et-energies/)
+[https://www.drgoulu.com/2011/03/...](/2011/03/16/seismes-et-energies/)

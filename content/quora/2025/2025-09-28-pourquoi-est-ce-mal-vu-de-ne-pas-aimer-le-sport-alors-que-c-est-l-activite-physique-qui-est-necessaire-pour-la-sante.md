@@ -29,4 +29,4 @@ Dans les sports d'équipe il y a une importante dimension d'appartenance à un g
 
 A mon avis, les sports où le hasard joue un grand rôle renforcent beaucoup cet aspect.
 
-[https://drgoulu.com/2008/05/09/l...](https://drgoulu.com/2008/05/09/la-science-du-football/)
+[https://drgoulu.com/2008/05/09/l...](/2008/05/09/la-science-du-football/)

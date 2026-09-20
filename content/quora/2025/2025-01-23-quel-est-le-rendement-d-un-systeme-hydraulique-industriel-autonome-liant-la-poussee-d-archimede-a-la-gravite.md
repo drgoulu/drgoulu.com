@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Zero.
 
-[https://drgoulu.com/2012/05/27/d...](https://drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[https://drgoulu.com/2012/05/27/d...](/2012/05/27/dites-non-au-mouvement-perpetuel/)

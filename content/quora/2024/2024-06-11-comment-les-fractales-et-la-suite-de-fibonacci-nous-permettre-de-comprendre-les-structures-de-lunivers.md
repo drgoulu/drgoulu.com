@@ -15,4 +15,4 @@ En aucun cas.
 
 La suite de Fibonacci ne se trouve pas dans la nature, et les fractales seulement de manière très limitée.
 
-[https://drgoulu.com/2016/07/03/n...](https://drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[https://drgoulu.com/2016/07/03/n...](/2016/07/03/nombre-dor-et-abeilles/)

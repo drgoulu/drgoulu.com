@@ -15,4 +15,4 @@ Les rendements indiqués par les fabricants sont mesurés en laboratoire dans de
 
 En réalité les rendements sont un peu inférieurs, les informations les plus fiables proviennent des bases de données des installations existantes.
 
-[https://www.drgoulu.com/2010/05/...](https://www.drgoulu.com/2010/05/09/comment-on-mesure-le-rendement-des-cellules-solaires/)
+[https://www.drgoulu.com/2010/05/...](/2010/05/09/comment-on-mesure-le-rendement-des-cellules-solaires/)

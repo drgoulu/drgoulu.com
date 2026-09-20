@@ -19,6 +19,6 @@ Mais mon petit doigt me dit que si vous êtes aussi fort en physique qu'en propr
 
 Un peu de lecture pour vous remonter le moral
 
-[https://www.drgoulu.com/2012/05/...](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[https://www.drgoulu.com/2012/05/...](/2012/05/27/dites-non-au-mouvement-perpetuel/)
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/08/combien-pour-ce-brevet/)
+[https://www.drgoulu.com/2009/03/...](/2009/03/08/combien-pour-ce-brevet/)

@@ -33,4 +33,4 @@ La preuve que Boeing n'y est pour rien, c'est qu'Airbus les a rattrapés. Même 
 
 Notes de bas de page
 
-[[1]](#cite-BmpXP)[Avalanches et goniomètre à infrasons - Pourquoi Comment Combien](https://drgoulu.com/2016/01/14/avalanches-et-gonimetre-a-infrasons/)
+[[1]](#cite-BmpXP)[Avalanches et goniomètre à infrasons - Pourquoi Comment Combien](/2016/01/14/avalanches-et-gonimetre-a-infrasons/)

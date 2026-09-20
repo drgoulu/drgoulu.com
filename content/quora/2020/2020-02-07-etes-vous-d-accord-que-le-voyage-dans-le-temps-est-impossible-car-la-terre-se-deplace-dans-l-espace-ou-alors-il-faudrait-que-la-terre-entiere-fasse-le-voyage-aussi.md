@@ -40,6 +40,6 @@ Yapuka en faire une pour voir si ça marche ;-)
 
 Notes de bas de page
 
-[[1]](#cite-PzUSa)[Peut-on voyager dans le temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2008/06/19/peut-on-voyager-dans-le-temps/)
+[[1]](#cite-PzUSa)[Peut-on voyager dans le temps ? - Pourquoi Comment Combien](/2008/06/19/peut-on-voyager-dans-le-temps/)
 
-[[2]](#cite-oqDOr)[Comment construire une machine à explorer le temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)
+[[2]](#cite-oqDOr)[Comment construire une machine à explorer le temps ? - Pourquoi Comment Combien](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)

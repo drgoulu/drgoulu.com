@@ -36,4 +36,4 @@ Darwin est génial parce que
 1. Le rôle du hasard est apparu plus tard, lorsque nous avons découvert la génétique
 2. Sa théorie de l'évolution est une "étrange inversion du raisonnement" :
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)
+[https://www.drgoulu.com/2009/03/...](/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)

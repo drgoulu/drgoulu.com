@@ -25,8 +25,8 @@ Non, parce que c'est l'inverse : nous avons développé les mathématiques pour 
 
 Mais les maths sont devenu un outil si puissant que nous pouvons maintenant même:
 
-1. calculer des choses qui n'existent pas ( [Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/) )
+1. calculer des choses qui n'existent pas ( [Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/) )
 2. calculer ce qui se passerait dans des univers différents
-3. comprendre pourquoi cet univers est partiellement prévisible, donc "mathématisable" par des cerveaux que l'évolution a produits justement parce que, l'univers étant localement prévisible, c'est un avantage de pouvoir prévoir l'avenir ( [Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/) )
+3. comprendre pourquoi cet univers est partiellement prévisible, donc "mathématisable" par des cerveaux que l'évolution a produits justement parce que, l'univers étant localement prévisible, c'est un avantage de pouvoir prévoir l'avenir ( [Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](/2011/01/30/pourquoi-3-dimensions-1-temps/) )
 
 L'Univers n'obéit pas à des lois mathématiques ou autres. Il est comme il est, et les mathématiques sont un langage clair et précis pour décrire comment il est.

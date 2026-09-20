@@ -25,4 +25,4 @@ Mathématiquement, on peut "zoomer" à l'infini.
 
 La [Longueur de Planck](w:) est la dimensions la plus petit envisageable en physique
 
-Après plusieurs lectures notamment “[Is Reality Digital or Analog?](http://fqxi.org/data/essay-contest-files/Mkel_FQxiessay.pdf)“, de Jarmo Mäkelä, lauréat du concours FQXi 2011 [dont je cause ici](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/), je partage l'avis que cette limite correspond à quelque chose de plus fondamendal encore : l'espace-temps est discrétisé à cette échelle comme le postule notamment la [Gravitation quantique à boucles](w:).
+Après plusieurs lectures notamment “[Is Reality Digital or Analog?](http://fqxi.org/data/essay-contest-files/Mkel_FQxiessay.pdf)“, de Jarmo Mäkelä, lauréat du concours FQXi 2011 [dont je cause ici](/2011/08/13/selon-newton-lunivers-serait-digital/), je partage l'avis que cette limite correspond à quelque chose de plus fondamendal encore : l'espace-temps est discrétisé à cette échelle comme le postule notamment la [Gravitation quantique à boucles](w:).

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Les vietcongs n'avaient pas le moindre doute : en suivant l'Art de la Guerre de Sun Tzu ils ne pouvaient pas perdre.
 
-[https://www.drgoulu.com/2007/08/...](https://www.drgoulu.com/2007/08/08/et-sun-tzu/)
+[https://www.drgoulu.com/2007/08/...](/2007/08/08/et-sun-tzu/)
 
 Peu importe que leur idéologie ait été rétrograde ou pas, ils en avaient une. Contrairement aux jeunes français et américains qui se demandaient avec raison pourquoi ils se faisaient tuer là bas.

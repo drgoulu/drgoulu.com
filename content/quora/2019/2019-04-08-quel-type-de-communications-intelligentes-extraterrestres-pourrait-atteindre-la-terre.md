@@ -17,4 +17,4 @@ Si nous recevions n'importe lequel de ces signaux modulé de manière non pério
 
 Hélas, car les espèces réellement intelligentes font très attention à ne pas être détectées.
 
-[Comment comptent les Extraterrestres - Pourquoi Comment Combien](https://www.drgoulu.com/2011/09/25/comment-comptent-les-extraterrestres/)
+[Comment comptent les Extraterrestres - Pourquoi Comment Combien](/2011/09/25/comment-comptent-les-extraterrestres/)

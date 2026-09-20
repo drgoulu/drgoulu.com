@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 Ca s'appelle une planète, mais il y a des solutions plus légères pour créer une [Gravité artificielle](w:):
 
 - la force centrifuge, comme dans un [Tore de Stanford](w:)
-- L'accélération permanente, comme dans mon p'tit vaisseau relativiste d'[Accélération : Journal de bord d’un voyage relativiste](https://www.drgoulu.com/2004/08/09/acceleration/).
+- L'accélération permanente, comme dans mon p'tit vaisseau relativiste d'[Accélération : Journal de bord d’un voyage relativiste](/2004/08/09/acceleration/).

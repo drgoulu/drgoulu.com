@@ -31,8 +31,8 @@ Puisque la puissance diminue en carré inverse de la distance, on peut estimer q
 
 Mais comme le rendement des cellules photovoltaïques[[1]](#piPOW) diminue rapidement avec la température, il serait probablement plus efficace de les mettre plus loin pour qu'elles restent froides.
 
-160°C, c'est environ la [Température d’équilibre du corps noir](w:Température_d'équilibre_à_la_surface_d'une_planète) de [Mercure](w:Mercure_(planète)), à environ 50 millions de km du Soleil. Ca me paraît la bonne distance. Surtout que comme ça on pourrait utiliser le silicium et l'aluminium de Mercure pour construire les panneaux. Et le carbone pour les connecter en [Shadow Square](https://larryniven.fandom.com/wiki/Shadow_Square) de l'[Anneau-Monde …](https://www.drgoulu.com/2012/10/28/anneau-monde-et-surpopulation/)
+160°C, c'est environ la [Température d’équilibre du corps noir](w:Température_d'équilibre_à_la_surface_d'une_planète) de [Mercure](w:Mercure_(planète)), à environ 50 millions de km du Soleil. Ca me paraît la bonne distance. Surtout que comme ça on pourrait utiliser le silicium et l'aluminium de Mercure pour construire les panneaux. Et le carbone pour les connecter en [Shadow Square](https://larryniven.fandom.com/wiki/Shadow_Square) de l'[Anneau-Monde …](/2012/10/28/anneau-monde-et-surpopulation/)
 
 Notes de bas de page
 
-[[1]](#cite-piPOW)[Comment on mesure le rendement des cellules solaires - Pourquoi Comment Combien](https://www.drgoulu.com/2010/05/09/comment-on-mesure-le-rendement-des-cellules-solaires/)
+[[1]](#cite-piPOW)[Comment on mesure le rendement des cellules solaires - Pourquoi Comment Combien](/2010/05/09/comment-on-mesure-le-rendement-des-cellules-solaires/)

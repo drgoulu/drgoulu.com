@@ -15,4 +15,4 @@ Non, parce que vous allez trouver des pixels en forme de [Pentachore](w:)s bien 
 
 ![](./images/qimg-cdcf00a2b7d6f70978df6a8fb71d264c.gif)
 
-[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)

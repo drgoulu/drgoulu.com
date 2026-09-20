@@ -17,4 +17,4 @@ coverImage: ./images/quora.png
 
 Notes de bas de page
 
-[[1]](#cite-ZOBGF)[La véritable histoire de l'ampoule de Livermore - Pourquoi Comment Combien](https://drgoulu.com/2011/10/16/la-veritable-histoire-de-lampoule-de-livermore/)
+[[1]](#cite-ZOBGF)[La véritable histoire de l'ampoule de Livermore - Pourquoi Comment Combien](/2011/10/16/la-veritable-histoire-de-lampoule-de-livermore/)

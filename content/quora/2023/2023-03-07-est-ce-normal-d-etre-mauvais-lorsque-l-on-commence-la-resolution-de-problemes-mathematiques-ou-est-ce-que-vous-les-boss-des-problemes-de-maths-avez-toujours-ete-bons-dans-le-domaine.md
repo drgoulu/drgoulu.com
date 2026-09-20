@@ -29,6 +29,6 @@ Mais surtout, maitrisiez bien les niveaux d'en dessous. C'est pratiquement impos
 
 Notes de bas de page
 
-[[1]](#cite-ipXpb)[L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](https://www.drgoulu.com/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/#.ZAcHPHZsOCo)
+[[1]](#cite-ipXpb)[L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/#.ZAcHPHZsOCo)
 
-[[2]](#cite-clNIW)[L'adaptation à l'altitude - Pourquoi Comment Combien](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/#.ZAcJGnZsOCo)
+[[2]](#cite-clNIW)[L'adaptation à l'altitude - Pourquoi Comment Combien](/2014/08/17/ladaptation-a-laltitude/#.ZAcJGnZsOCo)

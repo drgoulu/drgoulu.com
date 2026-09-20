@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ca va pas la tête ? Aider des concurrents potentiels ? et puis quoi encore ?
 
-Lisez [La Forêt sombre](w:), c'est vachement mieux expliqué que mon [Principe de Saturation Cubique](https://www.drgoulu.com/1999/10/24/psc/#.XtZAKDqiGCo)mais ça revient au même : la rencontre entre deux espèces intelligentes se solde inévitablement par la destruction de l'une par l'autre.
+Lisez [La Forêt sombre](w:), c'est vachement mieux expliqué que mon [Principe de Saturation Cubique](/1999/10/24/psc/#.XtZAKDqiGCo)mais ça revient au même : la rencontre entre deux espèces intelligentes se solde inévitablement par la destruction de l'une par l'autre.

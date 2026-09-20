@@ -36,4 +36,4 @@ Il semblerait que cet impact ait pu se former en même temps que 3 à 8 autres l
 
 ![](./images/qimg-9511aa3229d965f7102b309239431a9b.gif)
 
-Un de ces impacts est à Rochechouart : [de Manicouagan à Rochechouart - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/16/de-manicouagan-a-rochechouart/)
+Un de ces impacts est à Rochechouart : [de Manicouagan à Rochechouart - Pourquoi Comment Combien](/2009/04/16/de-manicouagan-a-rochechouart/)

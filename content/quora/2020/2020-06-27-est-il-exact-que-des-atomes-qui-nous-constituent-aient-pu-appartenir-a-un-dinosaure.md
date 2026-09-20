@@ -27,4 +27,4 @@ Pas besoin de remonter au dinosaures, vous consommez chaque jour des molécules 
 
 La raison est que le [Nombre d'Avogadro](w:) est beaucoup plus grand que les quantités de nourriture, air, eau disponibles sur Terre dans les unités que vous consommez (litres ou kg). Donc les molécules que vous exhalez, transpirez, urinez ou éliminiez d'une autre manière vont se diluer (avec le temps) à un niveau où il y en aura absolument partout. I
 
-voir [Quelles sont les chances ... - Pourquoi Comment Combien](https://www.drgoulu.com/2008/03/09/quelles-sont-les-chances/) qui fait le calcul pour l'eau, mais vous pouvez faire le même pour le carbone, l'oxygène, ou pratiquement n'importe quelle substance que nous consommons en "grandes" quantités.
+voir [Quelles sont les chances ... - Pourquoi Comment Combien](/2008/03/09/quelles-sont-les-chances/) qui fait le calcul pour l'eau, mais vous pouvez faire le même pour le carbone, l'oxygène, ou pratiquement n'importe quelle substance que nous consommons en "grandes" quantités.

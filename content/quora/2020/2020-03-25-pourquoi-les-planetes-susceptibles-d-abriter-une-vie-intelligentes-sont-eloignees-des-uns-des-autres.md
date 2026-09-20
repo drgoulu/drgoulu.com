@@ -42,8 +42,8 @@ Enfin, nous n'avons commencé à être visibles de l'espace par nos émissions r
 
 (Et maintenant que nous n'émettons plus à haute puissance, que nous fermons nos centrales nucléaires et que nous allons réduire nos émissions de CO2, nous allons devenir moins détectables)
 
-Il se pourrait aussi, et c'est la thèse de mon [Principe de Saturation Cubique](https://www.drgoulu.com/1999/10/24/psc/#.XnsYAIhsOCo) merveilleusement illustré dans [La Forêt sombre](w:), que rechercher le contact soit une grave erreur. Dans ce cas, une civilisation réellement intelligente évite à tout prix le contact. Elle fait tout pour que son $f_c=0$pour ne pas compromettre ses chances d'essaimer dans la Galaxie.
+Il se pourrait aussi, et c'est la thèse de mon [Principe de Saturation Cubique](/1999/10/24/psc/#.XnsYAIhsOCo) merveilleusement illustré dans [La Forêt sombre](w:), que rechercher le contact soit une grave erreur. Dans ce cas, une civilisation réellement intelligente évite à tout prix le contact. Elle fait tout pour que son $f_c=0$pour ne pas compromettre ses chances d'essaimer dans la Galaxie.
 
-Si c'est vrai, alors il y a peut-être des civilisations intelligentes assez proches, et nous avons fait une monstrueuse connerie en révélant notre position, peut-être infectés par une arme biologique ( [Quel trématode a infecté METI ?](https://www.drgoulu.com/2011/08/28/quel-trematode-a-infecte-meti/#.XnsZiIhsOCo);-) )
+Si c'est vrai, alors il y a peut-être des civilisations intelligentes assez proches, et nous avons fait une monstrueuse connerie en révélant notre position, peut-être infectés par une arme biologique ( [Quel trématode a infecté METI ?](/2011/08/28/quel-trematode-a-infecte-meti/#.XnsZiIhsOCo);-) )
 
-Pour ma part je suis convaincu que [Le Grand Filtre](https://www.drgoulu.com/2012/12/28/le-grand-filtre/#.XnsY3YhsOCo) est devant nous : c'est le voyage intersidéral.
+Pour ma part je suis convaincu que [Le Grand Filtre](/2012/12/28/le-grand-filtre/#.XnsY3YhsOCo) est devant nous : c'est le voyage intersidéral.

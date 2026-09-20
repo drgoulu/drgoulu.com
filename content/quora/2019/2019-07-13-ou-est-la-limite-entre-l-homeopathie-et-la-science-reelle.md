@@ -17,4 +17,4 @@ Plus d'effet qu'un placebo = médecine scientifique
 
 Autant d'effet qu'un placebo = pseudo science.
 
-[Placebo et nocebo - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/21/placebo-et-nocebo/)
+[Placebo et nocebo - Pourquoi Comment Combien](/2009/05/21/placebo-et-nocebo/)

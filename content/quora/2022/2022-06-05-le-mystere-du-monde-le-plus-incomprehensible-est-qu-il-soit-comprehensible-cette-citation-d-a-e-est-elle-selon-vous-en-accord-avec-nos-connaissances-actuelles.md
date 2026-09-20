@@ -29,7 +29,7 @@ Dans lequel il écrit
 
 Or justement cette prédictibilité n’apparaît que si les équations de champ suivent des [équations différentielles partielles “hyperboliques”](http://www.wikipedia.org/search-redirect.php?language=en&go=Go&search=Hyperbolic_partial_differential_equation). Et Tegmark montre que ceci n’est le cas que dans les univers à une seule dimension de temps ou une seule dimension d’espace. S’il y en a plus, l’univers devient totalement imprévisible.
 
-[https://www.drgoulu.com/2011/01/...](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/#.YpyAM2m-g0E)
+[https://www.drgoulu.com/2011/01/...](/2011/01/30/pourquoi-3-dimensions-1-temps/#.YpyAM2m-g0E)
 
 Nous vivons donc dans l'un des 2 seuls univers possibles permettant à quoi que ce soit de faire des prévisions de l'avenir, limitées, mais très avantageuse pour la survie du "quoi que ce soit".
 
@@ -41,4 +41,4 @@ l Univers est forcément compréhensible, sinon nous n'aurions pas de cerveau.
 
 Notes de bas de page
 
-[[1]](#cite-FrlsD)[Pourquoi on aime le joli, le sexy, le sucré et le drôle - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/#.YpyYvmm-g0E)
+[[1]](#cite-FrlsD)[Pourquoi on aime le joli, le sexy, le sucré et le drôle - Pourquoi Comment Combien](/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/#.YpyYvmm-g0E)

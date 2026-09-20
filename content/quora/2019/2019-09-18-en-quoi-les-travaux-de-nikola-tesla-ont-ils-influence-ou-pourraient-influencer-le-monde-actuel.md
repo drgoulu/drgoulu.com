@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ses inventions ont beaucoup influencé le monde actuel : courant alternatif, génératrices et moteurs synchrones, radio… C'est déjà pas mal, non ?
 
-[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](/2012/08/19/nikola-tesla-genie-mais-connu/)

@@ -27,4 +27,4 @@ Ce sont le [Mètre](w:) et la [Seconde](w:Seconde_(temps)) qui sont des unités 
 
 En fait, une fois qu'on s'est aperçus que la vitesse de la lumière est réellement constante pour tout observateur, on a "raccroché" le mètre à la seconde en 1983 en le définissant comme " la longueur du trajet parcouru par la [lumière](w:) dans le [vide](w:Vide_(physique)) pendant une durée d'un 299'792'458 ème de [seconde](w:Seconde_(temps))"
 
-Depuis, [on ne peut plus mesurer la vitesse de la lumière](https://www.drgoulu.com/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)!
+Depuis, [on ne peut plus mesurer la vitesse de la lumière](/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)!

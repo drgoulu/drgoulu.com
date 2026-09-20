@@ -17,4 +17,4 @@ Donc ce n'est pas une alternative au pétrole. C'est éventuellement une alterna
 
 Les énergies alternatives prendront leur essor quand elles seront meilleur marché que le pétrole. En n'oubliant pas que le pétrole est taxé, ce qui rapporte de l'argent à l'Etat, et qu'il ne renoncera pas à ce pognon pour les beaux yeux de Greta. Si vous ne payez plus de taxe sur l'essence, vous paierez une autre taxe.
 
-[L’Hydrogène, énergie du futur ? - Pourquoi Comment Combien](https://www.drgoulu.com/2007/09/06/lhydrogene-energie-du-futur/)
+[L’Hydrogène, énergie du futur ? - Pourquoi Comment Combien](/2007/09/06/lhydrogene-energie-du-futur/)

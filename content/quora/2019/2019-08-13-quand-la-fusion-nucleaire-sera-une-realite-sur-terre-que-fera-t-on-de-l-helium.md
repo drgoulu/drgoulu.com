@@ -17,4 +17,4 @@ Mais il me paraît probable qu'on ira plutôt extraire de l'[Hélium 3](w:) sur 
 
 Notes de bas de page
 
-[[1]](#cite-hHDHS)[Combien d'Helium ? - Pourquoi Comment Combien](https://www.drgoulu.com/2010/07/04/combien-dhelium/)
+[[1]](#cite-hHDHS)[Combien d'Helium ? - Pourquoi Comment Combien](/2010/07/04/combien-dhelium/)

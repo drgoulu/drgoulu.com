@@ -29,4 +29,4 @@ coverImage: ./images/quora.png
 
 yapluka trouver des masses négatives…
 
-[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)

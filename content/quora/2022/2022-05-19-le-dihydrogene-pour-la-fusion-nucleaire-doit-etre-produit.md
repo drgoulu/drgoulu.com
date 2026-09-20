@@ -19,4 +19,4 @@ La ou ça se corse, c'est qu'on n'envisage pas faire une [Chaîne proton-proton]
 
 Hop, on a déjà perdu un facteur 6666…mais bon, on peut toujours utilise les 99.985% de protium pour des applications classiques…
 
-[https://www.drgoulu.com/2005/12/...](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/#.YoZlHWm-g0E)
+[https://www.drgoulu.com/2005/12/...](/2005/12/11/la-fusion-thermonucleaire/#.YoZlHWm-g0E)

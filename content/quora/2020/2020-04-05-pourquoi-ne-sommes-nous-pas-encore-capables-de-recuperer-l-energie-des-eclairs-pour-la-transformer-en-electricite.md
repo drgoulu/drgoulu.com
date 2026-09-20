@@ -28,4 +28,4 @@ principalement parce que ça ne vaut pas le coup.
 
 A part ça on ne sait pas stocker 140 kWh en 25 millisecondes.
 
-[L’énergie de la foudre - Pourquoi Comment Combien](https://www.drgoulu.com/2007/09/09/lenergie-de-la-foudre/#.XoorMKiiGCo)
+[L’énergie de la foudre - Pourquoi Comment Combien](/2007/09/09/lenergie-de-la-foudre/#.XoorMKiiGCo)

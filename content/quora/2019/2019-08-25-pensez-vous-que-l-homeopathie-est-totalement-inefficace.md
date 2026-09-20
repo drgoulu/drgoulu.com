@@ -15,4 +15,4 @@ Oui. Toutes les études en double aveugle ont montré qu'un médicament homéopa
 
 Dit autrement, l'homéopathie a permis de beaucoup faire progresser la connaissance de l'effet placebo.
 
-[Placebo et nocebo - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/21/placebo-et-nocebo/)
+[Placebo et nocebo - Pourquoi Comment Combien](/2009/05/21/placebo-et-nocebo/)

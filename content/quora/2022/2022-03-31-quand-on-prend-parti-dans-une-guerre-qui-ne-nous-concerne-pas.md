@@ -25,4 +25,4 @@ Les menteurs et les traîtres sont haïs dans toutes les sociétés, et la compa
 
 Note* : le livre de Bruce Schneier sur la confiance s'intitule "Menteurs et marginaux", titre bien choisi.
 
-[https://www.drgoulu.com/2013/08/...](https://www.drgoulu.com/2013/08/25/liars-and-outliers/)
+[https://www.drgoulu.com/2013/08/...](/2013/08/25/liars-and-outliers/)

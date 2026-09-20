@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Salut Alexis,
 
-Merci de la proposition. Tout ce que j'ai à dire sur phi se trouve sur mon blog : [Nombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/#.XbcNP-hsOCp)
+Merci de la proposition. Tout ce que j'ai à dire sur phi se trouve sur mon blog : [Nombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/#.XbcNP-hsOCp)
 
 Tu peux lier, copier etc. c'est en CC-BY-SA .

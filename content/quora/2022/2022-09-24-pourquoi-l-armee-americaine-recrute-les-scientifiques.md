@@ -17,7 +17,7 @@ On m'a clairement proposé une carrière là-bas, mais j'aurais du apprendre le 
 
 Un article sur un sujet déclassifié auquel j'ai trop brièvement contribué.
 
-[https://www.drgoulu.com/2016/01/...](https://www.drgoulu.com/2016/01/14/avalanches-et-gonimetre-a-infrasons/#.Yy7aKqS-g0E)
+[https://www.drgoulu.com/2016/01/...](/2016/01/14/avalanches-et-gonimetre-a-infrasons/#.Yy7aKqS-g0E)
 
 Il ne faut pas rêver, la supériorité technologique de l'armement a toujours été un facteur important de la défense, et de l'attaque.
 

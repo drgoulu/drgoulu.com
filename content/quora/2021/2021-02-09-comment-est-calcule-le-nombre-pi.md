@@ -34,7 +34,7 @@ d=d*b+f*(h?a[b]:f/5),a[b]=d%--g;}
 
 ```
 
-qui produit [15000 décimales de Pi](https://www.drgoulu.com/2004/06/28/pi-en-c/#.YCK6POhsOCo) en quelques millisecondes.
+qui produit [15000 décimales de Pi](/2004/06/28/pi-en-c/#.YCK6POhsOCo) en quelques millisecondes.
 
 Les spécialistes remarqueront que tous les calculs se font sur des nombres entiers !!! et même de bons vieux int16 !
 

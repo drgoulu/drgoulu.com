@@ -28,4 +28,4 @@ La caféine à haute dose, parfois sniffée pure comme de la cocaïne, provoque 
 
 Honoré de Balzac était [caféinomane](https://fr.wiktionary.org/wiki/caféinomane).
 
-[https://www.drgoulu.com/2012/07/...](https://www.drgoulu.com/2012/07/07/magnifique-cafeine/#.Y3zqrXZsOCo)
+[https://www.drgoulu.com/2012/07/...](/2012/07/07/magnifique-cafeine/#.Y3zqrXZsOCo)

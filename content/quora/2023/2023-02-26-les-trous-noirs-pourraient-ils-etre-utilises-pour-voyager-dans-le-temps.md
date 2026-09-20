@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Peut-être, mais ce serait le composant le plus simple de la machine.
 
-[https://www.drgoulu.com/2006/06/...](https://www.drgoulu.com/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)
+[https://www.drgoulu.com/2006/06/...](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)

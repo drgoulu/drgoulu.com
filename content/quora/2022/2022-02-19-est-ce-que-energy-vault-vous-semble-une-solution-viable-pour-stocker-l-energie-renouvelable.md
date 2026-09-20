@@ -26,4 +26,4 @@ arrondissons l'accélération de la pesanteur à $10 m/s^2$. Pour stocker cette 
 
 L'eau, c'est quand même beaucoup plus facile à manipuler et à stocker que des blocs de béton , qui n'a qu'une densité de 2.3 et un impact carbone non négligeable.
 
-[Comment stocker l'énergie - Pourquoi Comment Combien](https://www.drgoulu.com/2012/10/07/comment-stocker-lenergie/)
+[Comment stocker l'énergie - Pourquoi Comment Combien](/2012/10/07/comment-stocker-lenergie/)

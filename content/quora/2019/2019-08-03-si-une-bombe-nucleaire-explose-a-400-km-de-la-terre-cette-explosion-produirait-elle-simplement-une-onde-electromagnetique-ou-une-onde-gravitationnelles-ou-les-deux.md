@@ -15,4 +15,4 @@ Juste des ondes électromagnétiques (visible, gamma, radio…) et des neutrons.
 
 Pour générer une [Onde gravitationnelle](w:) une explosion ne convient pas car elle accelère des masses dans toutes les directions. Il faut une asymétrie, un changement du "moment quadrupolaire" comme lorsque deux objets très massifs se tournent autour.
 
-[Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/02/14/einstein-et-les-ondes-gravitationnelles/)
+[Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](/2016/02/14/einstein-et-les-ondes-gravitationnelles/)

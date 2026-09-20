@@ -56,7 +56,7 @@ En passant : l'univers torique d'Astéroïd était généré dans une mémoire d
 
 Peut-être qu'à très petite échelle, la 3D de notre univers se ramène à de la 2D voire de la 1D …
 
-[https://www.drgoulu.com/2011/08/...](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/#.YKJoeKiiGCo)
+[https://www.drgoulu.com/2011/08/...](/2011/08/13/selon-newton-lunivers-serait-digital/#.YKJoeKiiGCo)
 
 Notes de bas de page
 

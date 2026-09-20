@@ -13,7 +13,7 @@ coverImage: ./images/qimg-6c12ee218369ccf94bb9ed983c42c2b7.jpg
 
 Vous pouvez le calculer en fonction de la latitude grâce à la formule fournie ici
 
-[https://www.drgoulu.com/2013/08/...](https://www.drgoulu.com/2013/08/11/combien-dure-un-jour/)
+[https://www.drgoulu.com/2013/08/...](/2013/08/11/combien-dure-un-jour/)
 
 C est la "longueur du plat" en bas de ce graphique
 

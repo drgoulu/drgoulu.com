@@ -17,4 +17,4 @@ On peut en effet montrer mathématiquement qu'un seul axe politique (gauche droi
 
 Vos dernières élections semblent montrer qu'en France, le deuxième axe est devenu principal.
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://www.drgoulu.com/2017/05/...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)

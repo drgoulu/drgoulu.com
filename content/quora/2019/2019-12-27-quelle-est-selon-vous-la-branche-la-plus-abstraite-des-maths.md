@@ -17,4 +17,4 @@ Je vote pour la [Topologie algébrique](w:) vu que je n'ai strictement rien comp
 
 Pourtant j'ai essayé.
 
-[L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](https://www.drgoulu.com/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/#.XgZ1BUdsOCo)
+[L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/#.XgZ1BUdsOCo)

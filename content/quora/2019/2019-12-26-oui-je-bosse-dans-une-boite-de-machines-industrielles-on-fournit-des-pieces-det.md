@@ -25,4 +25,4 @@ Oui je bosse dans une boite de machines industrielles, on fournit des pièces d�
 
 Il n'y a pas de miracle : si l'industrie ne le fait pas systématiquement, c'est parce que ça ne vaut pas le coup. Et quand une réglementation s'en mêle, c'est cool, ça met tous les concurrents d'accord pour augmenter les prix.
 
-L'obsolescence (pas programmée selon moi) permet de faire des produits à prix bas. Moins d'obsolescence = plus cher. Voir mon article [L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/01/lobsolescence-est-elle-programmee-2/#.XgT64UdsOCo)
+L'obsolescence (pas programmée selon moi) permet de faire des produits à prix bas. Moins d'obsolescence = plus cher. Voir mon article [L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](/2013/05/01/lobsolescence-est-elle-programmee-2/#.XgT64UdsOCo)

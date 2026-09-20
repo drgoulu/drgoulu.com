@@ -27,4 +27,4 @@ La Lune est approximativement à une seconde lumière. Le Soleil est à 8 minute
 
 A une année-lumière ( 31536000 fois plus loin que la Lune), cette attraction n’est plus que d’un millionnième de milliardième (10^-15)
 
-En passant, la [Loi en carré inverse](w:) est la raison pour laquelle l’[Astrologie](https://www.drgoulu.com/2004/06/30/astrologie/#.XKB8g5iiGCo)est forcément de la foutaise.
+En passant, la [Loi en carré inverse](w:) est la raison pour laquelle l’[Astrologie](/2004/06/30/astrologie/#.XKB8g5iiGCo)est forcément de la foutaise.

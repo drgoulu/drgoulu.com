@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Tous-les-algorithmes-de-chiffrement-modernes-sont-ils-basés-sur-le-équation-del-Chifferment-de-César/answer/Dr-Goulu)*
 
-Absolument! Je suis un fan ! Nous avons même collaboré sur un autre sujet : [La minéralisation des nombres - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/18/nombres-mineralises/)
+Absolument! Je suis un fan ! Nous avons même collaboré sur un autre sujet : [La minéralisation des nombres - Pourquoi Comment Combien](/2009/04/18/nombres-mineralises/)

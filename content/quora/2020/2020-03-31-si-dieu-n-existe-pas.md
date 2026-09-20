@@ -13,4 +13,4 @@ coverImage: ./images/qimg-8f53331758d37f31a05f69ead9ffa33d.jpg
 
 ![](./images/qimg-8f53331758d37f31a05f69ead9ffa33d.jpg)
 
-[de Manicouagan à Rochechouart - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/16/de-manicouagan-a-rochechouart/)
+[de Manicouagan à Rochechouart - Pourquoi Comment Combien](/2009/04/16/de-manicouagan-a-rochechouart/)

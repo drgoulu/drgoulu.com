@@ -23,7 +23,7 @@ coverImage: ./images/qimg-bd65bba615e549117a6c5ec11be8e0fc.png
 
 En écrivant cet article
 
-[Comment stocker l'énergie - Pourquoi Comment Combien](https://drgoulu.com/2012/10/07/comment-stocker-lenergie/)
+[Comment stocker l'énergie - Pourquoi Comment Combien](/2012/10/07/comment-stocker-lenergie/)
 
 j'étais tombé sur cette figure qui compare quasi toutes les technologies de stockage d'énergie
 

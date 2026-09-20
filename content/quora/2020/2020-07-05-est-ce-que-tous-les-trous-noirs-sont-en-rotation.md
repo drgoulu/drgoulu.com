@@ -15,7 +15,7 @@ Oui, il semble que tous les trous noirs tournent extrêmement vite, encore plus 
 
 C'est simplement le résultat de la [Conservation du moment cinétique](w:)aussi connu sous le nom de "théorème de la patineuse" : un objet en rotation même lente comme une étoile accelère en devenant plus petit.
 
-Un trou noir devrait avoir une vitesse de rotation infinie si sa singularité était vraiment un point, mais ce n'est pas le cas pour un [Trou noir de Kerr](w:) (en rotation) dont la singularité est un anneau. Ces trous noirs ont une vitesse de rotation limitée par la [censure cosmique](w:), et les trous noirs dont on a pu mesurer la rotation tournent juste en dessous à cette vitesse (voir [A combien tourne un trou noir ? - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/))
+Un trou noir devrait avoir une vitesse de rotation infinie si sa singularité était vraiment un point, mais ce n'est pas le cas pour un [Trou noir de Kerr](w:) (en rotation) dont la singularité est un anneau. Ces trous noirs ont une vitesse de rotation limitée par la [censure cosmique](w:), et les trous noirs dont on a pu mesurer la rotation tournent juste en dessous à cette vitesse (voir [A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/))
 
 Ainsi [GRS 1915+105](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=GRS+1915+105) situé à 35900 années lumière tourne à plus de 1100 tours par seconde (wow!) ce qui correspond à 98% de la limite de censure cosmique.
 

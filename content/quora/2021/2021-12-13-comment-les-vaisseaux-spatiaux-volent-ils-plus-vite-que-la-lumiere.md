@@ -23,4 +23,4 @@ Le projet [Breakthrough Starshot](w:) vise à envoyer des sondes de 1 gramme (!)
 
 Si un gros vaisseau spatial "vole" à 99.9999% de la vitesse de la lumière, il a du consommer la puissance d'une étoile. Et d'une autre pour freiner…
 
-[https://www.drgoulu.com/2004/08/...](https://www.drgoulu.com/2004/08/09/acceleration/)
+[https://www.drgoulu.com/2004/08/...](/2004/08/09/acceleration/)

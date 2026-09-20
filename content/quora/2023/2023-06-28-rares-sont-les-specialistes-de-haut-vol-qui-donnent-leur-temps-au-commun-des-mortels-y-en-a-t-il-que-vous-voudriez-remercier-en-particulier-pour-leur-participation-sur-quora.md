@@ -27,7 +27,7 @@ Au contraire, la plupart des scientifiques sont tout heureux de partager leurs c
 
 Comme peut en témoigner [Fredocaster](https://fr.quora.com/profile/Fredocaster) par exemple, certaines sommités sont très accessibles. Si vous les contactez avec un minimum d'humilité et des questions pas trop idiotes, ils vous accueilleront très volontiers dans leur université pour une bafouille. Ils n'oublient pas qu'ils sont payés par vos impôts et que l'université est par définition ouverte à toutes les idées (un peu solides…)
 
-Pour ma modeste part, après avoir été un "spécialiste de haut vol" de la dynamique des robots parallèles, un sujet qui n'intéresse personne, j'ai bénéficié d'un échange très constructif avec Jean-Paul Delahaye, "sommité de haut vol" dans la vulgarisation mathématique au sujet de [La minéralisation des nombres](https://www.drgoulu.com/2009/04/18/nombres-mineralises/), thème qui vient d'être repris dans un article du Scientific American
+Pour ma modeste part, après avoir été un "spécialiste de haut vol" de la dynamique des robots parallèles, un sujet qui n'intéresse personne, j'ai bénéficié d'un échange très constructif avec Jean-Paul Delahaye, "sommité de haut vol" dans la vulgarisation mathématique au sujet de [La minéralisation des nombres](/2009/04/18/nombres-mineralises/), thème qui vient d'être repris dans un article du Scientific American
 
 [https://www.scientificamerican.c...](https://www.scientificamerican.com/article/the-most-boring-number-in-the-world-is/)
 

@@ -40,4 +40,4 @@ Vous verrez que les prix en France ont augmenté d'un facteur 144 entre 1945 et 
 
 Ceci explique cela :
 
-[https://www.drgoulu.com/2009/04/...](https://www.drgoulu.com/2009/04/03/combien-vaut-1-franc/)
+[https://www.drgoulu.com/2009/04/...](/2009/04/03/combien-vaut-1-franc/)

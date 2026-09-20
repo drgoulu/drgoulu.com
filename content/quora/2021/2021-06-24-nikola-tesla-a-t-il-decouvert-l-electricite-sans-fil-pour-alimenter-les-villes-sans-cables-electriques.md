@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 tout est expliqué là :
 
-[https://www.drgoulu.com/2012/08/...](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[https://www.drgoulu.com/2012/08/...](/2012/08/19/nikola-tesla-genie-mais-connu/)
 
 en gros la technologie de Tesla, c'est la radio, et à haute puissance, elle vous grille.

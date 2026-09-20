@@ -29,7 +29,7 @@ Maintenant, c'est malheureusement trop tard.
 
 Du moins chez nous, parce que la Chine continue, et même accélère le développement de réacteurs au thorium[[1]](#zrvRJ)
 
-[L'atome vert : le thorium - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/18/latome-vert-le-thorium/)
+[L'atome vert : le thorium - Pourquoi Comment Combien](/2013/05/18/latome-vert-le-thorium/)
 
 Notes de bas de page
 

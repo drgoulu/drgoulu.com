@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Et-si-les-voyages-interstellaires-les-communications-interstellaires-et-les-voyages-communications-supraluminiques-%C3%A9taient-en-r%C3%A9alit%C3%A9-possibles-parce-que-notre-physique-pourrait-%C3%AAtre/answer/Dr-Goulu)*
 
-il y a une très chouette nouvelle de s-f qui adresse cette question : [La route que nous n'avons pas prise - Pourquoi Comment Combien](https://drgoulu.com/2011/11/06/la-route-que-nous-navons-pas-prise/)
+il y a une très chouette nouvelle de s-f qui adresse cette question : [La route que nous n'avons pas prise - Pourquoi Comment Combien](/2011/11/06/la-route-que-nous-navons-pas-prise/)
 
 Je vous copie la fin de l'article qui répond à la question
 

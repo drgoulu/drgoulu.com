@@ -17,4 +17,4 @@ Ca dépend surtout de la durée d’une génération. Sur cette vidéo dont je n
 
 Pour les drosophiles de laboratoire, on voit des modifications anatomiques en une vingtaine d’années.
 
-Pour les humains, [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/) a pris quelques millénaires.
+Pour les humains, [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/) a pris quelques millénaires.

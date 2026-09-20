@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Un avion peut planer sur 150 à 200km. Que l'océan soif l'Atlantique ou un autre, un amerrissage est extrêmement risqué. Aucun n'a réussi en plein océan. Mais à ce qu'on sache aucun n'a raté non plus car la fiabilité des réacteurs est telle qu'une panne totale des moteurs n'est jamais arrivée en pleine traversée.
 
-[https://www.drgoulu.com/2009/01/...](https://www.drgoulu.com/2009/01/25/un-jet-gros-porteur-sachant-planer/#.YmBdqWm-g0E)
+[https://www.drgoulu.com/2009/01/...](/2009/01/25/un-jet-gros-porteur-sachant-planer/#.YmBdqWm-g0E)

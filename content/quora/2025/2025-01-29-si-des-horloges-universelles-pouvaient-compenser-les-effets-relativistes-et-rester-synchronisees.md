@@ -19,7 +19,7 @@ La vitesse de la lumière dans le vide ne peut plus être mesurée. Comme c'est 
 
 Si vous "mesurez" autre chose que 299’792’458 m/s, c'est votre horloge ou votre mètre qui est faux.
 
-[https://drgoulu.com/2017/05/26/p...](https://drgoulu.com/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)
+[https://drgoulu.com/2017/05/26/p...](/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)
 
 Notes de bas de page
 

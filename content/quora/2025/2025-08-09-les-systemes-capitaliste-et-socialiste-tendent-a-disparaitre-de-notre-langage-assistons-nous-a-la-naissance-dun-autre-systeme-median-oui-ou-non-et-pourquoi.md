@@ -33,7 +33,7 @@ Politiquement, il y a en effet une deuxième dimension qui s'est combinée au tr
 
 J'avais écrit ça dans le cas français, mais l'article est surtout une introduction à ce fait politique "nouveau" :
 
-[https://drgoulu.com/2017/05/14/l...](https://drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://drgoulu.com/2017/05/14/l...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 En conclusion (comme dirait Chat GPT), je pense que le "système nouveau" est le [Pluralisme](w:): on accepte de mieux en mieux les différences d'opinions et on construit des compromis au cas par cas avec des majorités temporaires. La Suisse marche remarquablement bien comme ça, avec 4 partis au gouvernement (approximativement un gauche, un droite progressiste, un droite conservatrice et un centre, voir carte dans l'article ci-dessus )
 

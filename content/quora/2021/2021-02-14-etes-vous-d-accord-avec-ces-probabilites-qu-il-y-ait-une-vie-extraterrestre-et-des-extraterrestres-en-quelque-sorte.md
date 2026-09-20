@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 oui, la probabilité est très forte.
 
-mais nous ne recevrons pas de message. Seules les civilisations idiotes ou maladroites en émettent. Le [Principe de Saturation Cubique](https://www.drgoulu.com/1999/10/24/psc) place toutes les civilisations dans [La Forêt sombre](w:): on ne peut pas prendre le risque de se signaler à des concurrents potentiels, on ne peut pas laisser des concurrents potentiels s'étendre dans l'espace.
+mais nous ne recevrons pas de message. Seules les civilisations idiotes ou maladroites en émettent. Le [Principe de Saturation Cubique](/1999/10/24/psc/) place toutes les civilisations dans [La Forêt sombre](w:): on ne peut pas prendre le risque de se signaler à des concurrents potentiels, on ne peut pas laisser des concurrents potentiels s'étendre dans l'espace.

@@ -29,4 +29,4 @@ Parce que la vitesse de la vitesse de la lumière est infinie pour le passager.
 
 Notes de bas de page
 
-[[1]](#cite-dURZH)[A combien tourne un trou noir ? - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[[1]](#cite-dURZH)[A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/)

@@ -25,4 +25,4 @@ Les réponses mentionnant le calvinisme et l'arrivée des huguenots sont correct
 
 L'invention (Suisse…..) de la montre à quartz a failli détruire l'industrie horlogère suisse dans les années 1975-1985..il a fallu un très habile repositionnement marketing dans le haut de gamme pour s'en sortir.
 
-[https://www.drgoulu.com/2007/05/...](https://www.drgoulu.com/2007/05/15/montre-mecanique-contre-quartz/#.YtxiKKS-g0E)
+[https://www.drgoulu.com/2007/05/...](/2007/05/15/montre-mecanique-contre-quartz/#.YtxiKKS-g0E)

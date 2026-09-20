@@ -35,7 +35,7 @@ Pour les barrages, 1 litre d'eau qui descend de 400m fournit (e=m.g.h) environ 4
 
 En fait les différentes technologies de stockage de l'énergie se distinguent surtout par leur vitesse, par leur capacité à se charger ou décharger rapidement ou pas.
 
-Sur ce très beau graphique que j'avais trouvé en écrivant [Comment stocker l'énergie - Pourquoi Comment Combien](https://www.drgoulu.com/2012/10/07/comment-stocker-lenergie/#.ZCRyA3aiGCo) , on voit que les technologies se retrouvent "empilées" les unes sur les autres en raison des différences de vitesse. Dans ce graphique, les ressorts seraient en dehors du graphique à gauche, dans les Watt voire les milliwatt de "system power rating"
+Sur ce très beau graphique que j'avais trouvé en écrivant [Comment stocker l'énergie - Pourquoi Comment Combien](/2012/10/07/comment-stocker-lenergie/#.ZCRyA3aiGCo) , on voit que les technologies se retrouvent "empilées" les unes sur les autres en raison des différences de vitesse. Dans ce graphique, les ressorts seraient en dehors du graphique à gauche, dans les Watt voire les milliwatt de "system power rating"
 
 ![](./images/qimg-bd65bba615e549117a6c5ec11be8e0fc.png)
 

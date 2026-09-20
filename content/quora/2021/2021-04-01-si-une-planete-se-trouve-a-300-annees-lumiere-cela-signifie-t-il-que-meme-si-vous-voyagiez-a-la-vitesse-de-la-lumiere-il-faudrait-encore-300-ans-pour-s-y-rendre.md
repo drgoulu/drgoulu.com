@@ -15,4 +15,4 @@ Pour un observateur resté sur Terre, oui.
 
 Pour le voyageur, c'est beaucoup plus court grâce à la dilatation du temps.
 
-[https://www.drgoulu.com/2004/08/...](https://www.drgoulu.com/2004/08/09/acceleration/)
+[https://www.drgoulu.com/2004/08/...](/2004/08/09/acceleration/)

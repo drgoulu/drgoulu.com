@@ -17,4 +17,4 @@ Les astronomes utilisent des filtres pour isoler les longueurs d'onde intéressa
 
 La raie [Hα](w:)que vous mentionnez est effectivement dans le rouge, mais rien ne vous empêche de la, représenter dans le rose ou le bleu ciel avec votre logiciel préféré.
 
-[https://drgoulu.com/2009/07/28/b...](https://drgoulu.com/2009/07/28/bulles-et-couleurs-dans-lespace/)
+[https://drgoulu.com/2009/07/28/b...](/2009/07/28/bulles-et-couleurs-dans-lespace/)

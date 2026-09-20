@@ -17,4 +17,4 @@ L'univers ne sait pas compter.
 
 Les nombres premiers n'ont rien de magique, ce sont juste les restes d'un crible.
 
-[https://drgoulu.com/2019/01/06/2...](https://drgoulu.com/2019/01/06/2019-passee-au-crible/)
+[https://drgoulu.com/2019/01/06/2...](/2019/01/06/2019-passee-au-crible/)

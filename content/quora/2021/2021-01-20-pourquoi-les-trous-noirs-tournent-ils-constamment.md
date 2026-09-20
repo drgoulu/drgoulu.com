@@ -29,4 +29,4 @@ Si un trou noir s'effondrait vraiment en singularité ponctuelle, il devrait tou
 
 Les trous noirs ont donc un mécanisme qui stabilise leur vitesse, ils doivent pouvoir "rejeter du moment cinétique". On pense que les jets jouent un rôle dans cette régulation.
 
-[A combien tourne un trou noir ? - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/)

@@ -49,6 +49,6 @@ Donc la technique fait sa part. Depuis 40 ans, le dégagement de CO2 par unité 
 
 Dans la plupart des pays, les facteurs dominants sont PIB/POP auquel personne ne veut toucher, et POP qu'on ne mentionne même pas … On est mathématiquement mal barrés …
 
-[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
+[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
 
 Note* : avec aux deux extrêmes, séparés par un facteur 100 (!) les deux Congo…

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non mais on peut se demander si la seconde est la bonne manière de mesurer le temps quand il se passe plus de trucs en une seconde qu'ensuite en 10 milliards d'années…
 
-[https://www.drgoulu.com/2008/06/...](https://www.drgoulu.com/2008/06/06/la-grande-question-du-temps/)
+[https://www.drgoulu.com/2008/06/...](/2008/06/06/la-grande-question-du-temps/)

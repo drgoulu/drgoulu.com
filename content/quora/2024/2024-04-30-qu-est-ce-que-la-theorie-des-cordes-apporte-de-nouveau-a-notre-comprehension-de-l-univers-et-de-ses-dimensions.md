@@ -27,4 +27,4 @@ Le problème des [Théories des cordes](w:Théorie_des_cordes), car il y en a te
 
 Ces théories sont donc devenues irréfutables, donc non scientifiques.
 
-[https://drgoulu.com/2008/08/23/s...](https://drgoulu.com/2008/08/23/suites-courbes-et-theories/)
+[https://drgoulu.com/2008/08/23/s...](/2008/08/23/suites-courbes-et-theories/)

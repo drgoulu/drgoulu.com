@@ -25,7 +25,7 @@ Et dans "Science & Vie", vous ne trouverez pas de bonne vulgarisation du tout.
 
 Le très gros piège (dans lequel est tombé une des autres personnes qui a répondu…) c'est de vulgariser de la vulgarisation qu'on a soi-même pas compris. J'appelle ça de la "sur-vulgarisation" et j'ai analysé ce phénomène avec cet exemple :
 
-[https://www.drgoulu.com/2013/10/...](https://www.drgoulu.com/2013/10/05/ya-t-il-des-trous-noirs-dans-la-mer/)
+[https://www.drgoulu.com/2013/10/...](/2013/10/05/ya-t-il-des-trous-noirs-dans-la-mer/)
 
 Franchement il vaut mieux ne rien faire que de dire des bêtises…
 

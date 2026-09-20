@@ -26,7 +26,7 @@ On peut même obtenir des animations qui montrent le changement de positionnemen
 
 ![](./images/qimg-78560bf528ae3bc8862aba848e254d75.gif)
 
-A ma connaissance il n'existe pas de système équivalent dans d'autres pays, mais suite à mon article [La politique française dans la 2ème dimension ? - Pourquoi Comment Combien](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/), nous avons appliqué la méthode aux vote à l'assemblée nationale française et montré que votre "extrême droite" est en réalité plus conservatrice qu'à droite. (données, code et résultats sur [GitHub/goulu/smartvote Fr](https://github.com/goulu/smartvoteFR))
+A ma connaissance il n'existe pas de système équivalent dans d'autres pays, mais suite à mon article [La politique française dans la 2ème dimension ? - Pourquoi Comment Combien](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/), nous avons appliqué la méthode aux vote à l'assemblée nationale française et montré que votre "extrême droite" est en réalité plus conservatrice qu'à droite. (données, code et résultats sur [GitHub/goulu/smartvote Fr](https://github.com/goulu/smartvoteFR))
 
 Pour comparer objectivement le positionnement de partis dans des pays différents, il faudrait collecter les réponses aux mêmes questions. Ça pourrait se faire facilement, notamment lors des élections européennes, mais ça ne se fait pas à ma connaissance.
 

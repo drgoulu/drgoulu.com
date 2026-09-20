@@ -28,4 +28,4 @@ On peut donc lutter contre ce que vous appelez "obsolescence programmée" en ach
 
 Notes de bas de page
 
-[[1]](#cite-GNawH)[L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/01/lobsolescence-est-elle-programmee-2/)
+[[1]](#cite-GNawH)[L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](/2013/05/01/lobsolescence-est-elle-programmee-2/)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Techniquement oui, économiquement non, et de très loin.
 
-[Comment transformer le plomb en or ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/03/15/comment-transformer-le-plomb-en-or/)
+[Comment transformer le plomb en or ? - Pourquoi Comment Combien](/2013/03/15/comment-transformer-le-plomb-en-or/)

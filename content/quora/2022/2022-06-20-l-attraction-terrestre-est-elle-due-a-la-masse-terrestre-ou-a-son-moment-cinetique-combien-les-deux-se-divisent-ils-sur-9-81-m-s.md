@@ -30,4 +30,4 @@ je vous traduis et commente les textes :
 - 4 : grands réservoirs (océans, où la densité est inférieure à la moyenne en surface) 1 ppm
 - 6 : marées. Un dixième de millionième. Oui, seulement.
 - 7 : grands bâtiments à proximité. Oui l'Arche de la Défense vous attire vers le haut, et oui, ça peut actuellement se mesurer !
-- … [Astrologie](https://www.drgoulu.com/2004/06/30/astrologie/)
+- … [Astrologie](/2004/06/30/astrologie/)

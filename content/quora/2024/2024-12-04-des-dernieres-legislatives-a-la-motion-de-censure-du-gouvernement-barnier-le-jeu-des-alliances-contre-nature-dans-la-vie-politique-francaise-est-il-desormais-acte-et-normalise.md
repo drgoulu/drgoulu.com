@@ -25,7 +25,7 @@ Pourquoi "contre nature"? Il y a de telles alliances dans pratiquement tous les 
 
 Dans ce cas, il faut tenir compte du positionnement des partis sur 2 axes, un ne suffit plus.
 
-[https://drgoulu.com/2017/05/14/l...](https://drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://drgoulu.com/2017/05/14/l...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 Il faudrait mettre à jour
 

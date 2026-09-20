@@ -32,4 +32,4 @@ donc vous mettez
 
 quelque part, et vous êtes blindé, sans rallonge.
 
-Petite incursion dans les licences CC de la Wikipédia: [Acanthaspis Petax, CC et Wikipédia - Pourquoi Comment Combien](https://www.drgoulu.com/2013/01/26/acanthapis-petax-cc-et-wikipedia/#.YD3emWhsOCo)
+Petite incursion dans les licences CC de la Wikipédia: [Acanthaspis Petax, CC et Wikipédia - Pourquoi Comment Combien](/2013/01/26/acanthapis-petax-cc-et-wikipedia/#.YD3emWhsOCo)

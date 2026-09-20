@@ -19,4 +19,4 @@ Allez voir un spectacle de magie/mentalisme/hypnose pour constater comment un pr
 
 Voir
 
-[https://drgoulu.com/2010/04/25/j...](https://drgoulu.com/2010/04/25/james-randi-au-ted/)
+[https://drgoulu.com/2010/04/25/j...](/2010/04/25/james-randi-au-ted/)

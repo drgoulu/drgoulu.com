@@ -31,4 +31,4 @@ La notion d' "avant le Big Bang" est étroitement liée à celle du temps, dont 
 - soit c'est une dimension liée à l'espace (cf Relativité) et il n'y a pas de temps s'il n'y a pas d'espace, donc le Big Bang est une sorte de "zéro absolu" du temps et de l'espace.
 - soit le temps est une mesure d'autre chose, par exemple l'inverse de la température, ou l'entropie, et le Big Bang s'étale depuis moins l'infini.
 
-[la Grande Question du Temps - Pourquoi Comment Combien](https://www.drgoulu.com/2008/06/06/la-grande-question-du-temps/#.X7ZXe2gVOCo)
+[la Grande Question du Temps - Pourquoi Comment Combien](/2008/06/06/la-grande-question-du-temps/#.X7ZXe2gVOCo)

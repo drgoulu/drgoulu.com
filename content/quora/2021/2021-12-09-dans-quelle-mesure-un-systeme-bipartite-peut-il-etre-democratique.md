@@ -44,7 +44,7 @@ En Suisse où notre gouvernement est formé de 7 ministres appartenant aux 4 par
 
 Faut dire que ce classement est fait par "The Economist", journal anglais …
 
-[https://www.drgoulu.com/2009/05/...](https://www.drgoulu.com/2009/05/21/unites-et-classements/)
+[https://www.drgoulu.com/2009/05/...](/2009/05/21/unites-et-classements/)
 
 Notes de bas de page
 

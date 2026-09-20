@@ -31,4 +31,4 @@ Avant le 20 main 2019, c'était l'inverse : le nombre d'Avogadro (donc aussi la 
 
 Sa valeur avait été mesurée à $6,022 140 857(74) × 10^{23}$, dont vous remarquez qu'elle est plus "précise" et même incompatible avec la nouvelle définition.
 
-Ce changement correspond à celui fait en 1983 pour le mètre et la seconde ( voir [Pourquoi on ne peut plus mesurer la vitesse de la lumière - Pourquoi Comment Combien](https://www.drgoulu.com/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/) ) dans une grande tendance d'accrocher nos unités humaines aux constantes fondamentales , qui devraient toutes valoir 1 dans un [Système d'unités idéal.](w:Système_d'unités_de_Planck)
+Ce changement correspond à celui fait en 1983 pour le mètre et la seconde ( voir [Pourquoi on ne peut plus mesurer la vitesse de la lumière - Pourquoi Comment Combien](/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/) ) dans une grande tendance d'accrocher nos unités humaines aux constantes fondamentales , qui devraient toutes valoir 1 dans un [Système d'unités idéal.](w:Système_d'unités_de_Planck)

@@ -16,4 +16,4 @@ Les religions traitent plutôt du "pour quoi" en deux mots. C'est une position [
 
 A mon humble avis c'est plutôt la technique qui répond aux "Comment" et la science aux "pourquoi" en un mot, dans une approche basée sur la [Causalité](w:).
 
-[Pourquoi / Pour Quoi ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/01/04/pourquoi-pour-quoi/)
+[Pourquoi / Pour Quoi ? - Pourquoi Comment Combien](/2009/01/04/pourquoi-pour-quoi/)

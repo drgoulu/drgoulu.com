@@ -15,4 +15,4 @@ Un éclair a une puissance énorme, environ 1GW comme une centrale nucléaire, m
 
 Et effectivement, on n'a pas la technologie permettant de le faire.
 
-[L’énergie de la foudre - Pourquoi Comment Combien](https://www.drgoulu.com/2007/09/09/lenergie-de-la-foudre/)
+[L’énergie de la foudre - Pourquoi Comment Combien](/2007/09/09/lenergie-de-la-foudre/)

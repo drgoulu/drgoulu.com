@@ -25,4 +25,4 @@ Vu de Suisse, il semblerait que ça n'ait aucune importance. De gauche, de droit
 
 Notes de bas de page
 
-[[1]](#cite-NdWFa)[La politique française dans la 2ème dimension ? - Pourquoi Comment Combien](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[[1]](#cite-NdWFa)[La politique française dans la 2ème dimension ? - Pourquoi Comment Combien](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)

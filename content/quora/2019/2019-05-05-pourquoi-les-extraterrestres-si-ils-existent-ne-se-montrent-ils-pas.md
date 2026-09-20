@@ -26,7 +26,7 @@ S’ils sont véritablement intelligents:
 1. ils ne signalent pas leur position à des concurrents potentiels
 2. ils exterminent sans pitié un concurrent potentiel qui signalerait sa position.
 
-C’est très bien expliqué dans [La Forêt sombre](w:), beaucoup mieux que dans mon [Principe de Saturation Cubique](https://www.drgoulu.com/1999/10/24/psc/).
+C’est très bien expliqué dans [La Forêt sombre](w:), beaucoup mieux que dans mon [Principe de Saturation Cubique](/1999/10/24/psc/).
 
 De cela nous pouvons déduire:
 

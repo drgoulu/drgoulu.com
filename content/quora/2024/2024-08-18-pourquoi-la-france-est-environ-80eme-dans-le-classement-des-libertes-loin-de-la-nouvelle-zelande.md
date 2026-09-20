@@ -19,4 +19,4 @@ Donc vous en avez un autre, qui mesure d'autres choses ou avec d'autres pondéra
 
 Plus un classement aggrège de données distinctes, moins il est objectif.
 
-[https://drgoulu.com/2009/05/21/u...](https://drgoulu.com/2009/05/21/unites-et-classements/)
+[https://drgoulu.com/2009/05/21/u...](/2009/05/21/unites-et-classements/)

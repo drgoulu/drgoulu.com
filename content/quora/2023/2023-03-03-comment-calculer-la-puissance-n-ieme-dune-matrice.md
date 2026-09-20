@@ -37,6 +37,6 @@ Ca paraît être une petite amélioration, mais pour$n=10^{19}$ il suffit de 63 
 
 C'est l'algo utilisé par des librairies comme NumPy ([numpy.linalg.matrix_power](https://numpy.org/doc/stable/reference/generated/numpy.linalg.matrix_power.html)) mais comme il travaille en nombres flottants ils bute assez vite sur de grands nombres, donc j'ai implanté
 
-[Goulib.math2 mod_mathpow](https://goulib.readthedocs.io/en/latest/modules/Goulib.math2.html#Goulib.math2.mod_matpow) pour [calculer le 10'000'000'000'000'000'000 ème terme de la suite de Fibonacci](https://www.drgoulu.com/2017/04/25/comment-calculer-le-1e19-eme-terme-de-la-suite-de-fibonacci/#.ZAI6t3bMKCo) .
+[Goulib.math2 mod_mathpow](https://goulib.readthedocs.io/en/latest/modules/Goulib.math2.html#Goulib.math2.mod_matpow) pour [calculer le 10'000'000'000'000'000'000 ème terme de la suite de Fibonacci](/2017/04/25/comment-calculer-le-1e19-eme-terme-de-la-suite-de-fibonacci/#.ZAI6t3bMKCo) .
 
 Ouais, parce que figurez vous qu'on peut calculer ce terme en 63 multiplications de matrices 2x2 …

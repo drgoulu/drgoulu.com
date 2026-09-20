@@ -23,4 +23,4 @@ Et en l'occurrence, le fait que ce séisme ait eu lieu la nuit n'a pas arrangé 
 
 Pour la petite histoire, mon père ingénieur en génie civil à la retraite regarde à la loupe les photos d'immeubles détruits par des séismes , et à l'occasion du [Séisme de 2010 en Haïti](w:)il avait vu qu'il manquait la moitié des fers à béton dans les piliers d'un bâtiment officiel effondré. Selon lui il n'y avait qu'une explication : l'ingénieur avait piqué des fers pour faire sa maison à lui. Résultat : 2 bâtiments un peu antisismiques au lieu d'un bon, et un pas du tout …
 
-[https://www.drgoulu.com/2011/03/...](https://www.drgoulu.com/2011/03/16/seismes-et-energies/#.Y-ITBXZsOCo)
+[https://www.drgoulu.com/2011/03/...](/2011/03/16/seismes-et-energies/#.Y-ITBXZsOCo)

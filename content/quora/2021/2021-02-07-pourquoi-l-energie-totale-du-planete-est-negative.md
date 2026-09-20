@@ -26,4 +26,4 @@ L'[Énergie potentielle gravitationnelle](w:) est donc négative par rapport au 
 
 Cette considération conduit notamment à l'idée de l'[Univers à énergie nulle](w:)
 
-[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](https://www.drgoulu.com/2012/09/05/un-petit-pas-pour-lhomme/#.YCAOH-hsOCo)
+[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](/2012/09/05/un-petit-pas-pour-lhomme/#.YCAOH-hsOCo)

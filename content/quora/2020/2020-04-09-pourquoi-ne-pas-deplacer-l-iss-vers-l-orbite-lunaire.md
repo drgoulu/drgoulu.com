@@ -29,4 +29,4 @@ Il faudrait dépenser 15 fois plus d'énergie pour la monter jusqu'à la Lune qu
 
 On a absolument pas la technologie pour faire ça, et il y a beaucoup plus de choses à faire en apesanteur autour de la Terre qu'en apesanteur autour de la Lune…
 
-[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](https://www.drgoulu.com/2012/09/05/un-petit-pas-pour-lhomme/#.Xo9y1ciiGCo)
+[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](/2012/09/05/un-petit-pas-pour-lhomme/#.Xo9y1ciiGCo)

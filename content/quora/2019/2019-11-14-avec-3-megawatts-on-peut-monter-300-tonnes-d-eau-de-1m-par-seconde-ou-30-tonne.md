@@ -17,4 +17,4 @@ Quand ça souffle ….
 
 En fait c'est exactement ce qu'on fait pour stocker l'énergie excédentaire des éoliennes par pompage turbinage !
 
-Voir [Rentabilité des éoliennes - Pourquoi Comment Combien](https://www.drgoulu.com/2008/08/30/rentabilite-des-eoliennes/)
+Voir [Rentabilité des éoliennes - Pourquoi Comment Combien](/2008/08/30/rentabilite-des-eoliennes/)

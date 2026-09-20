@@ -19,7 +19,7 @@ Les votations, comme on dit en Suisse pour distinguer des élections, ça sert j
 
 L'intérêt général, c'est la moyenne de tous les intérêts particuliers.
 
-[https://drgoulu.com/2009/12/13/i...](https://drgoulu.com/2009/12/13/initiatives-populaires/)
+[https://drgoulu.com/2009/12/13/i...](/2009/12/13/initiatives-populaires/)
 
 Votre mention des communautés me rappelle une anecdote. A la commission électorale genevoise, j'étais expert indépendant chargé notamment des méthodes statistiques de détection de fraude.
 

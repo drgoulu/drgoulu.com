@@ -15,10 +15,10 @@ Mmmhhh… Je ne vois pas vraiment de rapport.
 
 [Akinator](w:Akinator_:_Le_Génie_du_web)est une "bête" exploration d'arbre sur le modèle de "Animals" de 1978[[1]](#PidyV)
 
-Mais Shazam, ça c'est de la haute technogie, avec brevets et tout. J'ai étudié [Comment marche Shazam](https://www.drgoulu.com/2009/07/11/comment-marche-shazam/)et depuis je suis un fan absolu des [Table de hachage](w:).
+Mais Shazam, ça c'est de la haute technogie, avec brevets et tout. J'ai étudié [Comment marche Shazam](/2009/07/11/comment-marche-shazam/)et depuis je suis un fan absolu des [Table de hachage](w:).
 
 D'ailleurs Python les utilise intensivement…
 
 Notes de bas de page
 
-[[1]](#cite-PidyV)[les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](https://www.drgoulu.com/2010/12/03/les-decorateurs-python/)
+[[1]](#cite-PidyV)[les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](/2010/12/03/les-decorateurs-python/)

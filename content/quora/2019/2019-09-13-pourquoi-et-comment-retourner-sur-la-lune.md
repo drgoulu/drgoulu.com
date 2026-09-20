@@ -37,7 +37,7 @@ Après un survol rapide des 181 “objectifs lune”, il me semble que les seuls
 
 Pour justifier le coût colossal d’une base habitée sur la Lune, il faudra trouver un réel retour sur investissement économique. Outre le tourisme de milliardaires, ce sera peut-être un jour l'[Helium 3](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=Helium+3) lunaire qui alimentera nos centrales à [fusion thermonucléaire](https://www.drgoulu.com/tag/fusion), mais cette éventualité est encore bien lointaine.
 
-[P our quoi retourner sur la Lune? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/07/18/pour-quoi-retourner-sur-la-lune/)
+[P our quoi retourner sur la Lune? - Pourquoi Comment Combien](/2009/07/18/pour-quoi-retourner-sur-la-lune/)
 
 Notes de bas de page
 

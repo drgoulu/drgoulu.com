@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oh que oui.
 
-Lisez [Logicomix, la révolution de la logique en BD](https://www.drgoulu.com/2011/01/06/logicomix/), c'est super (la BD, pas l'article…)
+Lisez [Logicomix, la révolution de la logique en BD](/2011/01/06/logicomix/), c'est super (la BD, pas l'article…)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 C'est une question très intéressante.
 
-Après avoir écrit sur la nouvelle de sf [La route que nous n'avons pas prise - Pourquoi Comment Combien](https://www.drgoulu.com/2011/11/06/la-route-que-nous-navons-pas-prise/), je pense que oui. Elle serait peut-être plus ou moins avancé, mais je pense qu'on est obligés de suivre les "niveaux d'énergie" les uns après les autres.
+Après avoir écrit sur la nouvelle de sf [La route que nous n'avons pas prise - Pourquoi Comment Combien](/2011/11/06/la-route-que-nous-navons-pas-prise/), je pense que oui. Elle serait peut-être plus ou moins avancé, mais je pense qu'on est obligés de suivre les "niveaux d'énergie" les uns après les autres.

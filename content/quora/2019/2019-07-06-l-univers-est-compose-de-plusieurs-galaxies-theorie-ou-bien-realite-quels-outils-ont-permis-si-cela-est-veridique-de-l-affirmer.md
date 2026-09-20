@@ -47,4 +47,4 @@ Notes de bas de page
 
 [[2]](#cite-pmhWw)[Hubble Assembles Wide View of Evolving Universe](https://www.nasa.gov/feature/goddard/2019/hubble-astronomers-assemble-wide-view-of-the-evolving-universe)
 
-[[3]](#cite-tjYoA)[Inventaire des Croix du Ciel. - Pourquoi Comment Combien](https://www.drgoulu.com/2009/01/17/inventaire-des-croix-du-ciel/)
+[[3]](#cite-tjYoA)[Inventaire des Croix du Ciel. - Pourquoi Comment Combien](/2009/01/17/inventaire-des-croix-du-ciel/)

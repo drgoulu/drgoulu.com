@@ -37,4 +37,4 @@ En résumé, la séquence de Fibonacci n’est pas du tout présente dans la nat
 
 Je dirais donc que ce ne sont pas **les**humains, mais **des**humains peu curieux qui ont créé ce pattern.
 
-[Nombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[Nombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/)

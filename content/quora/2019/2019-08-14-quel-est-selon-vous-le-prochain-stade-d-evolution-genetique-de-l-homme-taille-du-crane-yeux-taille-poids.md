@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Quel-est-selon-vous-le-prochain-stade-d-%C3%A9volution-g%C3%A9n%C3%A9tique-de-l-Homme-taille-du-cr%C3%A2ne-yeux-taille-poids/answer/Dr-Goulu)*
 
-Il n'y a pas de "prochain stade" en évolution. L'évolution est continue, et dans toutes les directions. L'évolution actuelle la plus évidente est [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/) et elle est très intéressante car elle se fait de plusieurs manières distinctes.
+Il n'y a pas de "prochain stade" en évolution. L'évolution est continue, et dans toutes les directions. L'évolution actuelle la plus évidente est [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/) et elle est très intéressante car elle se fait de plusieurs manières distinctes.

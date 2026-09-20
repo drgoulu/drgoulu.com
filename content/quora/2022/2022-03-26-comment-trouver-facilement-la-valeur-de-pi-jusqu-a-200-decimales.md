@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-trouver-facilement-la-valeur-de-pi-jusqu-%C3%A0-200-d%C3%A9cimales/answer/Dr-Goulu)*
 
-Ce minuscule programme en C calcule [15'000 décimales de pi](https://www.drgoulu.com/2004/06/28/pi-en-c/)en une fraction de seconde:
+Ce minuscule programme en C calcule [15'000 décimales de pi](/2004/06/28/pi-en-c/)en une fraction de seconde:
 
 ```
 int a[52514],b,c=52514,d,e,f=1e4,g,h;main()

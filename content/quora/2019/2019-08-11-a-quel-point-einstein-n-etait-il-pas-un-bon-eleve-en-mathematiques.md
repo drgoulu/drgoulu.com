@@ -17,4 +17,4 @@ En effet, comme le montre son bulletin scolaire à 17 ans ci dessous il avait la
 
 ![](./images/qimg-17dfd7351693bf7bd5a2179198c7f6a6.jpg)
 
-Accessoirement, un peu plus tard il a inventé la géniale fonction [Einsum](https://www.drgoulu.com/2016/01/17/einsum/) de Python ;-)
+Accessoirement, un peu plus tard il a inventé la géniale fonction [Einsum](/2016/01/17/einsum/) de Python ;-)

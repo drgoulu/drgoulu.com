@@ -17,4 +17,4 @@ Quelques liens :
 
 - [Advice for amateur mathematicians](https://math.mit.edu/~cohn/Thoughts/advice.html)
 - [https://www.ams.org/publications...](https://www.ams.org/publications/notices/noticesauthors)
-- [Le fossé de Sloane - Pourquoi Comment Combien](https://www.drgoulu.com/2011/04/10/le-fosse-de-sloane/) (mais j'ai pas obtenu de bourse …)
+- [Le fossé de Sloane - Pourquoi Comment Combien](/2011/04/10/le-fosse-de-sloane/) (mais j'ai pas obtenu de bourse …)

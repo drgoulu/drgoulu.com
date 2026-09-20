@@ -25,4 +25,4 @@ pour les publications scientifiques cherchez avec [Google Scholar](https://schol
 
 J'avais écrit ça sur les brevets :
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/08/combien-pour-ce-brevet/)
+[https://www.drgoulu.com/2009/03/...](/2009/03/08/combien-pour-ce-brevet/)

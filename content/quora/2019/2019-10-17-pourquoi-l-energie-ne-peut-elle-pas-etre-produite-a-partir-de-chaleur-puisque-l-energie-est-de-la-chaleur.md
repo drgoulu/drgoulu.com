@@ -35,4 +35,4 @@ Là, c’est une bonne maîtrise du [deuxième principe de la thermodynamique](h
 
 .
 
-[Dites NON au mouvement perpétuel - Pourquoi Comment Combien](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[Dites NON au mouvement perpétuel - Pourquoi Comment Combien](/2012/05/27/dites-non-au-mouvement-perpetuel/)

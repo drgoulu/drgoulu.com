@@ -27,4 +27,4 @@ La sensation de froid ou de chaleur est un avertissement : notre corps doit dép
 
 Des températures plus extrêmes pouvant provoquer des brûlures ou des engelures génèrent de la douleur pour qu'on s'écarte du danger.
 
-Dans la bouche nous avons des capteurs spécifiques au froid et au chaud à ces deux niveaux, voir [Molécules d'été et divers - Pourquoi Comment Combien](https://www.drgoulu.com/2010/08/01/molecules-dete-et-divers/)
+Dans la bouche nous avons des capteurs spécifiques au froid et au chaud à ces deux niveaux, voir [Molécules d'été et divers - Pourquoi Comment Combien](/2010/08/01/molecules-dete-et-divers/)

@@ -19,4 +19,4 @@ Avec la société globale actuelle, il faut développer de nouveaux systèmes pe
 
 Ce livre est absolument passionnant sur ce sujet :
 
-[https://www.drgoulu.com/2013/08/...](https://www.drgoulu.com/2013/08/25/liars-and-outliers/)
+[https://www.drgoulu.com/2013/08/...](/2013/08/25/liars-and-outliers/)

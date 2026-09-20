@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Tout serait si incroyablement différent que la question n'aurait pas de sens.
 
-[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](/2011/01/30/pourquoi-3-dimensions-1-temps/)

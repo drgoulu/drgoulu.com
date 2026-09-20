@@ -26,4 +26,4 @@ Les méta analyses qui combinent plusieurs études montrent que l'effet du tél�
 
 On ne peut pas exclure non plus qu'il ait un effet positif, mais ça tout le monde s'en fiche…
 
-[Pourquoi je n'ai toujours pas peur de mon téléphone mobile - Pourquoi Comment Combien](https://www.drgoulu.com/2011/06/03/pourquoi-je-nai-toujours-pas-peur/)
+[Pourquoi je n'ai toujours pas peur de mon téléphone mobile - Pourquoi Comment Combien](/2011/06/03/pourquoi-je-nai-toujours-pas-peur/)

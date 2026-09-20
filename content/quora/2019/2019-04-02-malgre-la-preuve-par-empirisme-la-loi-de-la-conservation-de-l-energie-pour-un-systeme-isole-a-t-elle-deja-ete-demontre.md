@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui, par le [Théorème de Noether](w:Théorème_de_Noether_(physique)) de 1918, qualifié par Einstein de “monument de la pensée mathématique”
 
-[Le Théorème de Noether a un siècle - Pourquoi Comment Combien](https://www.drgoulu.com/2018/06/23/le-theoreme-de-noether-a-un-siecle/)
+[Le Théorème de Noether a un siècle - Pourquoi Comment Combien](/2018/06/23/le-theoreme-de-noether-a-un-siecle/)

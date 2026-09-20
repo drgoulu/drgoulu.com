@@ -21,4 +21,4 @@ C'est pour ça que vous retrouvez le temps "au carré" dans la formule de l'acc�
 
 S'il y avait une deuxième dimension de temps, comme il y a trois dimensions d'espace, l'Univers serait TRES différent.
 
-[https://drgoulu.com/2011/01/30/p...](https://drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+[https://drgoulu.com/2011/01/30/p...](/2011/01/30/pourquoi-3-dimensions-1-temps/)

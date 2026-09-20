@@ -37,6 +37,6 @@ En [physique, les nombres complexes](w:Nombre_complexe) sont très utilisés:
 
 Notes de bas de page
 
-[[1]](#cite-LlWrh)[Succès hollywoodiens et transformée de Fourier - Pourquoi Comment Combien](https://www.drgoulu.com/2010/03/06/succes-hollywoodiens-et-transformee-de-fourier/#.XrWFoqiiGCo)
+[[1]](#cite-LlWrh)[Succès hollywoodiens et transformée de Fourier - Pourquoi Comment Combien](/2010/03/06/succes-hollywoodiens-et-transformee-de-fourier/#.XrWFoqiiGCo)
 
-[[2]](#cite-roGjW)[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/#.XrWF4KiiGCo)
+[[2]](#cite-roGjW)[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/#.XrWF4KiiGCo)

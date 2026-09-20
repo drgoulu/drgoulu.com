@@ -16,4 +16,4 @@ De mon côté c’est assez clair : [Dimensions Archives - Pourquoi Comment Comb
 
 La question demande si elles sont perceptibles (clairement non) en supposant qu’elles existent. Pas de problèmes mathématiquement, mais la réalité physique est plus dure.
 
-[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)

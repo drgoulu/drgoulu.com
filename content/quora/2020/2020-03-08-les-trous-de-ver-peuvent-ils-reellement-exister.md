@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 mathématiquement ils peuvent, physiquement on en voit pas la queue d'un.
 
-[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/#.XmVFAqhsOCo)
+[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/#.XmVFAqhsOCo)

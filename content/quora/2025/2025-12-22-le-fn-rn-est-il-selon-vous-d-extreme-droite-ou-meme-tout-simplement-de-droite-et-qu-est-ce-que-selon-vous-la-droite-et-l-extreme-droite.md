@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Il existe des méthodes rigoureusement mathématiques pour traiter de ceci sans AUCUN a priori.
 
-[https://drgoulu.com/2017/05/14/l...](https://drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://drgoulu.com/2017/05/14/l...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 Selon mes travaux qui datent un peu (2016), le RN (FN "dédiabolisé" ) n'est pas plus à droite que la droite, mais beaucoup plus conservatrice.
 

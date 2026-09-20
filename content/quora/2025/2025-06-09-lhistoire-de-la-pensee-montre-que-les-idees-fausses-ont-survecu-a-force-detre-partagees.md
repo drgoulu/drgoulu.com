@@ -15,7 +15,7 @@ Parce que vous pouvez vérifier les énoncés scientifiques expérimentalement.
 
 Vous ne pouvez pas habiller un mythe de mathématiques. Les maths sont un langage pour décrire des choses de façon formelle et rigoureuse. Elles ne permettent pas l'interprétation.
 
-Par contre, elles sont "trop" puissantes car elles peuvent décrire des choses, voire des univers entiers qui n'existent pas. Voir [Solutions admissibles - Pourquoi Comment Combien](https://drgoulu.com/2016/09/11/solutions-admissibles/) à ce sujet.
+Par contre, elles sont "trop" puissantes car elles peuvent décrire des choses, voire des univers entiers qui n'existent pas. Voir [Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/) à ce sujet.
 
 Il n'y a que les expériences qui permettent de distinguer le"vrai" du "faux". C'est là le grand apport de la [Méthode scientifique](w:)par rapport aux arguments d'autorité des philosophes.
 

@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 ils sont trop loin.
 
-Le voyage interstellaire est [Le Grand Filtre](https://www.drgoulu.com/2012/12/28/le-grand-filtre/#.XvhiwiiFqCo).
+Le voyage interstellaire est [Le Grand Filtre](/2012/12/28/le-grand-filtre/#.XvhiwiiFqCo).
 
 Et signaler sa position par des communications est extrêmement dangereux dans [La Forêt sombre](w:).
 

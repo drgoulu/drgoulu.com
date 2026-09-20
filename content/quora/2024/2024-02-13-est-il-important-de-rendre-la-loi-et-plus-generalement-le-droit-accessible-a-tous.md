@@ -22,7 +22,7 @@ coverImage: ./images/quora.png
 
 Absolument. Comme nul n'est censé ignorer la loi, un nul doit pouvoir la lire…
 
-J'avais découvert l'existence de l'[Indice de lisibilité de Gunning](w:)(voir [Trop-plein de Mai - Pourquoi Comment Combien](https://www.drgoulu.com/2014/05/28/trop-plein-de-mai/)) qui montre clairement que certains pays (comme la Suisse…) font un effort particulier pour que les textes légaux soient lisibles (droit de référendum et traductions obligent) alors que d'autres comme L'UE notamment semblent tout faire pour que leurs textes nécessitent un doctorat pour être lisibles (et donc ça n'a rien à voir avec la traduction, reste le référendum…)
+J'avais découvert l'existence de l'[Indice de lisibilité de Gunning](w:)(voir [Trop-plein de Mai - Pourquoi Comment Combien](/2014/05/28/trop-plein-de-mai/)) qui montre clairement que certains pays (comme la Suisse…) font un effort particulier pour que les textes légaux soient lisibles (droit de référendum et traductions obligent) alors que d'autres comme L'UE notamment semblent tout faire pour que leurs textes nécessitent un doctorat pour être lisibles (et donc ça n'a rien à voir avec la traduction, reste le référendum…)
 
 Référence intéressante sur ce sujet
 

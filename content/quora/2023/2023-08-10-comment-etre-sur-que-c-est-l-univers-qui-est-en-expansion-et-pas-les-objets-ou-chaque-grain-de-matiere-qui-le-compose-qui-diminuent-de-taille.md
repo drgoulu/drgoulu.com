@@ -67,4 +67,4 @@ Bref, en vertu du [Rasoir d'Ockham](w:) on a préféré ajouter un "facteur d'é
 
 Notes de bas de page
 
-[[1]](#cite-NvJsh)[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
+[[1]](#cite-NvJsh)[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)

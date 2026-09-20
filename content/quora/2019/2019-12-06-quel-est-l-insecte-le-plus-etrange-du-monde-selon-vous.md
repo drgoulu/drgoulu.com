@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quel-est-l-insecte-le-plus-%C3%A9trange-du-monde-selon-vous/answer/Dr-Goulu)*
 
-[Acanthaspis Petax](https://www.drgoulu.com/2013/01/26/acanthapis-petax-cc-et-wikipedia/).
+[Acanthaspis Petax](/2013/01/26/acanthapis-petax-cc-et-wikipedia/).

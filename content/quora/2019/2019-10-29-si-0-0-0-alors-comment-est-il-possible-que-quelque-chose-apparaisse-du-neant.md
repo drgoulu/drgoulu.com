@@ -25,4 +25,4 @@ Bref, personne ne dit (plus) que quelque chose est apparu du néant, mais évent
 
 Notes de bas de page
 
-[[1]](#cite-atCGa)[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[[1]](#cite-atCGa)[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)

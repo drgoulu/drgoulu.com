@@ -15,6 +15,6 @@ Parce que les mathématiques sont si abstraites qu'elles peuvent manipuler des c
 
 En physique, on n'observe rien d'infini.
 
-[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/#.Xr-wo2iiGCo)
+[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/#.Xr-wo2iiGCo)
 
-[L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](https://www.drgoulu.com/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/#.Xr-xR2iiGCo)
+[L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/#.Xr-xR2iiGCo)

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Mathématiquement, si vous freinez pour éviter un rocher et que vous passez à côté, vous reculerez sous l'effet des freins et le heurterez en marche arrière.
 
-[https://drgoulu.com/2016/09/11/s...](https://drgoulu.com/2016/09/11/solutions-admissibles/)
+[https://drgoulu.com/2016/09/11/s...](/2016/09/11/solutions-admissibles/)
 
 Donc oui.

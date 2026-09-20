@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 parce que les machines à remonter le temps physiquement envisageables ne permettent pas de remonter avant la date de leur construction.
 
-[https://www.drgoulu.com/2006/06/...](https://www.drgoulu.com/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)
+[https://www.drgoulu.com/2006/06/...](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)

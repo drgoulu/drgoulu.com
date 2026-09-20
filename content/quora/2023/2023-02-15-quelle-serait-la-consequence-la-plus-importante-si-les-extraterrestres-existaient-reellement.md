@@ -17,4 +17,4 @@ Personnellement j'espère vraiment voir le jour où on détectera la présence d
 
 Par contre il n'y a aucune possibilité de visite ou de rencontre. Le Grand Filtre, c'est le voyage interstellaire.
 
-[https://www.drgoulu.com/2012/12/...](https://www.drgoulu.com/2012/12/28/le-grand-filtre/#.Y-0jP6Tfs0E)
+[https://www.drgoulu.com/2012/12/...](/2012/12/28/le-grand-filtre/#.Y-0jP6Tfs0E)

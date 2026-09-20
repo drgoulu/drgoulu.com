@@ -19,4 +19,4 @@ Il nous faut une "gravité artificielle", par exemple en faisant tourner un vais
 
 Ou, vachement plus cool, d'accélérer à 1g
 
-[https://drgoulu.com/2004/08/09/a...](https://drgoulu.com/2004/08/09/acceleration/)
+[https://drgoulu.com/2004/08/09/a...](/2004/08/09/acceleration/)

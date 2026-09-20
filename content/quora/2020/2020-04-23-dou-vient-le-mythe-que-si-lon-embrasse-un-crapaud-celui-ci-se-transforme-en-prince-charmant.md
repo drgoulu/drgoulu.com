@@ -30,4 +30,4 @@ Est-ce qu'une telle expérience aurait provoqué la naissance d'un conte de fée
 
 Pour plus d'infos sur les étonnantes pratiques de nos amis les hommes en quête de paradis "artificiels" 100% naturels, je recommande l'écoute d'une émission incroyable disponible en MP3 là :
 
-[Il faut s'abstenir de faire le moindre léchage de crapaud ! - Pourquoi Comment Combien](https://www.drgoulu.com/2007/09/28/il-faut-sabstenir-de-faire-le-moindre-lechage-de-crapaud/#.XqKASmiiGCo)
+[Il faut s'abstenir de faire le moindre léchage de crapaud ! - Pourquoi Comment Combien](/2007/09/28/il-faut-sabstenir-de-faire-le-moindre-lechage-de-crapaud/#.XqKASmiiGCo)

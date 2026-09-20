@@ -33,4 +33,4 @@ Allez tiens, je vais en laisser une pour la postérité :
 > Avant d'être un génie, commencez par vérifier vos sources
 > (Philippe Guglielmetti, Quora 2021)
 
-[https://www.drgoulu.com/2008/11/...](https://www.drgoulu.com/2008/11/26/ce-queinstein-na-jamais-dit/)
+[https://www.drgoulu.com/2008/11/...](/2008/11/26/ce-queinstein-na-jamais-dit/)

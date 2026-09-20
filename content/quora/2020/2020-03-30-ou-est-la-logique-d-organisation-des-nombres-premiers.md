@@ -26,4 +26,4 @@ L'étude d'autres suites de nombres générés par de tels "cribles" notamment l
 
 Verna Gardiner, R. Lazarus, N. Metropolis and S. Ulam “On Certain Sequences of Integers Defined by Sieves” Mathematics Magazine Vol. 29, No. 3 (Jan. – Feb., 1956), pp. 117-122 DOI [10.2307/3029719](http://dx.doi.org/10.2307/3029719), zbMATH [0071.27002](http://zbmath.org/?q=an:0071.27002)
 
-[2019 passée au crible - Pourquoi Comment Combien](https://www.drgoulu.com/2019/01/06/2019-passee-au-crible/#.XoHcuoiiGCo)
+[2019 passée au crible - Pourquoi Comment Combien](/2019/01/06/2019-passee-au-crible/#.XoHcuoiiGCo)

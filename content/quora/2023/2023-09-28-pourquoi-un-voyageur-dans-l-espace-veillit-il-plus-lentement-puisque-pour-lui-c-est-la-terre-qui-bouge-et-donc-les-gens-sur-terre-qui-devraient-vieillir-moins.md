@@ -17,4 +17,4 @@ Il y a 4 classes de réponses que je vous laisse lire dans l'article.
 
 Je suis pour la "classe AR" : l'horloge est "ralentie" par l'accélération du voyageur, alors que le Terre est "en chute libre", sans accélération.
 
-[https://www.drgoulu.com/2004/08/...](https://www.drgoulu.com/2004/08/09/acceleration)
+[https://www.drgoulu.com/2004/08/...](/2004/08/09/acceleration/)

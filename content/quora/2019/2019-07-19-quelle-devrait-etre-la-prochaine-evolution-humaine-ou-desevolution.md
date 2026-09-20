@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il n'y a pas de "désevolution". Les espèces évoluent pour s'adapter à leur environnement, ou disparaissent.
 
-[L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/) est en cours.
+[L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/) est en cours.

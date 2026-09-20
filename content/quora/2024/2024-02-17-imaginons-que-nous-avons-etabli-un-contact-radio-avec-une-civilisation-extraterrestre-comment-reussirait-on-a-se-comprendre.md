@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 La question s'est déjà posée pour l'envoi des messages METI et le [Cosmic Call](w:)contient plein de bonnes idées décrites un peu ici
 
-[https://drgoulu.com/2011/09/25/c...](https://drgoulu.com/2011/09/25/comment-comptent-les-extraterrestres/)
+[https://drgoulu.com/2011/09/25/c...](/2011/09/25/comment-comptent-les-extraterrestres/)

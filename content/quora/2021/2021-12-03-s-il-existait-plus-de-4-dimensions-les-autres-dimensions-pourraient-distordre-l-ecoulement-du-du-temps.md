@@ -15,7 +15,7 @@ Et pourquoi se limiter à une seule dimension de temps alors ?
 
 Dans cet article[1], Max Tegmark ([pas n'importe qui](w:Max_Tegmark)) examine les particularités d'Univers à N dimensions spatiales et T de temps. Les conséquences sont… intéressantes. J'ai résumé dans :
 
-[https://www.drgoulu.com/2011/01/...](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+[https://www.drgoulu.com/2011/01/...](/2011/01/30/pourquoi-3-dimensions-1-temps/)
 
 Pour répondre à plus directement à votre question, étendre la relativité à de tels univers est assez simple. Yaka remplacer le [Tenseur métrique](w:)de dimension 3+1 par un de dimension N+T dans l'[Équation d'Einstein](w:). Au lieu d'une signature (+,-,-,-) dans notre Univers, vous auriez (+,+,-,-,-,-) dans un univers 4D+2 temps.
 
@@ -27,7 +27,7 @@ Mais comme le montre Tegmark, pas besoin de rendre encore plus invivables ces un
 
 Petite anecdote personnelle à ce sujet :
 
-[https://www.drgoulu.com/2016/09/...](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[https://www.drgoulu.com/2016/09/...](/2016/09/11/solutions-admissibles/)
 
 Référence:
 

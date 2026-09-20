@@ -29,4 +29,4 @@ coverImage: ./images/qimg-f0081f16bd502ead622c6f9f00e2fe01.png
 
 explication d'origine : [Has Voyager 1 Left the Solar System? Wellll…](https://slate.com/technology/2013/09/voyager-1-space-probe-is-in-now-in-interstellar-space.html)
 
-explication traduite : [Non, Voyager 1 n'a pas quitté le système solaire - Pourquoi Comment Combien](https://www.drgoulu.com/2013/09/18/non-voyager-1-na-pas-quitte-le-systeme-solaire/)
+explication traduite : [Non, Voyager 1 n'a pas quitté le système solaire - Pourquoi Comment Combien](/2013/09/18/non-voyager-1-na-pas-quitte-le-systeme-solaire/)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Elle est d'actualité quand vous regardez le soleil ou une bombe H, sinon ça a toujours été un projet futuriste.
 
-[https://www.drgoulu.com/2005/12/...](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/#.YwnBgKS-g0E)
+[https://www.drgoulu.com/2005/12/...](/2005/12/11/la-fusion-thermonucleaire/#.YwnBgKS-g0E)

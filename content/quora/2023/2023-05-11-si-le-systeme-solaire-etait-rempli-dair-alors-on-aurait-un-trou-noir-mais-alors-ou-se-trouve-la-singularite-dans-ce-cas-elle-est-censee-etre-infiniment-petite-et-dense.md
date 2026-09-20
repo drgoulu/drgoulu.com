@@ -64,4 +64,4 @@ Or dans ce volume on a juste un petit soleil de rien du tout avec des cailloux d
 1. la densité moyenne du système solaire est des milliards de fois plus faible que celle de l'air : l'espace est incroyablement vide
 2. dans les premières heures après le Big Bang, l'univers entier avait une densité très élevée, mais il ne s'est pas effondré en quelques [Trous noirs primordiaux](w:Trou_noir_primordial)hypermassifs. Il a peut-être juste formé les les trous noirs supermassifs autour desquels le gaz s'est aggloméré pour former des galaxies. James-Webb devrait nous en dire plus à ce sujet.
 
-[https://www.drgoulu.com/2008/06/...](https://www.drgoulu.com/2008/06/20/la-densite-des-trous-noirs/)
+[https://www.drgoulu.com/2008/06/...](/2008/06/20/la-densite-des-trous-noirs/)

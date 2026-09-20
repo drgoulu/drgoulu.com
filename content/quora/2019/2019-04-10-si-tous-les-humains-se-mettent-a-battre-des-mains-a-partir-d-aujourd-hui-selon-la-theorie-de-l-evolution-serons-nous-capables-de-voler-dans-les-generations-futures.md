@@ -32,4 +32,4 @@ Le mieux est d’analyser comment les animaux volant actuellement ont développ�
 - le [poisson volant](w:Exocoetidae) **échappe à ses prédateurs** en utilisant ses nageoires comme ailes.
 - quant aux [serpents volants](w:Chrysopelea), si vous trouvez qu’ils ne volent pas, repassez dans quelques millions d’années…
 
-Si vous cherchez des preuves de l’évolution humaine, regardez plutôt du côté de [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/).
+Si vous cherchez des preuves de l’évolution humaine, regardez plutôt du côté de [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/).

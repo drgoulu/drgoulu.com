@@ -15,4 +15,4 @@ Parce qu'on a commencé à utiliser l'uranium, plus facile et plus dans la logiq
 
 Il est très difficile de développer une énorme technologie concurrente à une autre qui a pris des dizaines d'années d'avance, mais je pense que des pays comme l'Inde pourraient le faire.
 
-[L'atome vert : le thorium - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/18/latome-vert-le-thorium/)
+[L'atome vert : le thorium - Pourquoi Comment Combien](/2013/05/18/latome-vert-le-thorium/)

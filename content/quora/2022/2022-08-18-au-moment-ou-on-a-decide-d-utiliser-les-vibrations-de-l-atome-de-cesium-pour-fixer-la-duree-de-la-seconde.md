@@ -31,4 +31,4 @@ Mais un nombre rond en base 10 n'arrange pas grand chose, surtout qu'on a fixé 
 >
 > En [cherchant un peu](https://www.pythonanywhere.com/gists/a7332063593056348c6de43239f7f119/metercst.py/python3/?gist-runner-auth-key=7176d4139a344ab18816c7d2b1b232f1), je trouve que 299901462 aurait bien convenu. Le pgcd vaut alors 13039194, ce qui permettrait de mesurer 23 “nouveaux mètres” comme étant la distance parcourue par la lumière en 705 oscillations de césium pile poil. Mais cela aurait raccourci le mètre de 0.4 mm soit 0.04% environ… Où aurait-ce causé des problèmes ?
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)
+[https://www.drgoulu.com/2017/05/...](/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)

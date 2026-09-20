@@ -17,4 +17,4 @@ Vous voyez tous les jours des images 3D projetées sur un écran 2D, vous pouvez
 
 ![](./images/qimg-e48bd5176690f9df0ca4b3b071182cdb.jpg)
 
-[https://www.drgoulu.com/2007/02/...](https://www.drgoulu.com/2007/02/06/voir-en-4-dimensions/)
+[https://www.drgoulu.com/2007/02/...](/2007/02/06/voir-en-4-dimensions/)

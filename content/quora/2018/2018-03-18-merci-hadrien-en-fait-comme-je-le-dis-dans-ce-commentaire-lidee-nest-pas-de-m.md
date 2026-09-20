@@ -13,8 +13,8 @@ coverImage: ./images/quora.png
 
 Merci Hadrien!
 
-en fait comme je le dis [dans ce commentaire](https://www.drgoulu.com/2010/11/21/le-temps-est-il-une-illusion/#comment-1048197553), l’idée n’est pas de moi mais trouvée dans ce texte : [On The Flow of Time by George F R Ellis](https://fqxi.org/community/forum/topic/361)
+en fait comme je le dis [dans ce commentaire](/2010/11/21/le-temps-est-il-une-illusion/#comment-1048197553), l’idée n’est pas de moi mais trouvée dans ce texte : [On The Flow of Time by George F R Ellis](https://fqxi.org/community/forum/topic/361)
 
-Suite à une question sur mon blog j’ai un peu réfléchi sur le rôle de l’information là dedans [voir cet autre commentaire](https://www.drgoulu.com/2010/11/21/le-temps-est-il-une-illusion/#comment-1048197547) mais je n’ai pas vraiment le niveau pour pousser plus loin…
+Suite à une question sur mon blog j’ai un peu réfléchi sur le rôle de l’information là dedans [voir cet autre commentaire](/2010/11/21/le-temps-est-il-une-illusion/#comment-1048197547) mais je n’ai pas vraiment le niveau pour pousser plus loin…
 
 Peux-tu détailler un peu ce qui te plait dans l’idée à propos de la mesure quantique etc ?

@@ -13,4 +13,4 @@ coverImage: ./images/qimg-61ad1ea7d1c43c7ff0a9c0c3cc8842c5.jpg
 
 ![](./images/qimg-61ad1ea7d1c43c7ff0a9c0c3cc8842c5.jpg)
 
-[Obsédé par le Cervin - Pourquoi Comment Combien](https://www.drgoulu.com/2012/02/19/cervin/#.YlFjmmm-g0E)
+[Obsédé par le Cervin - Pourquoi Comment Combien](/2012/02/19/cervin/#.YlFjmmm-g0E)

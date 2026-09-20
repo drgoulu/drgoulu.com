@@ -15,4 +15,4 @@ Aucun. Toutes les constructions de cette planète sont l'œuvre d'humains, peut 
 
 Il existe des formations géologiques (naturelles) qui ressemblent à des constructions.
 
-[Ce sont des "dykes" - Pourquoi Comment Combien](https://www.drgoulu.com/2016/11/04/ce-sont-des-dykes/)
+[Ce sont des "dykes" - Pourquoi Comment Combien](/2016/11/04/ce-sont-des-dykes/)

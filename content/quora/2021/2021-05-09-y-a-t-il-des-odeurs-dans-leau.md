@@ -15,4 +15,4 @@ Il y a des tas de substances diluées dans l'eau, et des animaux sont capables d
 
 Les requins sont fameux pour ça.
 
-[https://www.drgoulu.com/2014/04/...](https://www.drgoulu.com/2014/04/19/les-requins-sont-ils-attires-par-le-sang/)
+[https://www.drgoulu.com/2014/04/...](/2014/04/19/les-requins-sont-ils-attires-par-le-sang/)

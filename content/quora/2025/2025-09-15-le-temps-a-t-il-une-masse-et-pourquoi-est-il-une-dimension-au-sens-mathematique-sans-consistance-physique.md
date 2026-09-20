@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Non, pas de masse, quelle drôle d'idée…
 
-[Le temps est une 4ème dimension imaginaire au sens mathématique](https://drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/) pour décrire correctement les phénomènes relativistes.
+[Le temps est une 4ème dimension imaginaire au sens mathématique](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/) pour décrire correctement les phénomènes relativistes.
 
 En relativité restreinte ça découle assez naturellement de la notion de simultanéité (voir [Espace de Minkowski — Wikipédia](w:Espace_de_Minkowski))
 

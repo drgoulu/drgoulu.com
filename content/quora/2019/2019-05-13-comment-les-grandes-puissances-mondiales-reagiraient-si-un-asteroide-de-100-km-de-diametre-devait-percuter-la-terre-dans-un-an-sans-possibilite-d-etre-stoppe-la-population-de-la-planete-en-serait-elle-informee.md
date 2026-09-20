@@ -29,4 +29,4 @@ Sachant que :
 
 je dirais qu’il n’y a aucune chance de garder ça secret et qu’il n’y a plus qu’à gérer la panique en organisant une méga teuf planétaire d’une année avec sexe, drogue et rock & roll à gogo. [Always Look on the Bright Side of Life](w:) …
 
-[Risques météoritiques - Pourquoi Comment Combien](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/)
+[Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)

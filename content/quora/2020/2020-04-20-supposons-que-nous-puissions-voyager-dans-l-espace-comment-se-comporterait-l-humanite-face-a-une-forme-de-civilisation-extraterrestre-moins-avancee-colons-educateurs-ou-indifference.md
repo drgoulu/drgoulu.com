@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Destruction totale immédiate et obligatoire.
 
-Lisez [La Forêt sombre](w:), conséquence du[Principe de Saturation Cubique](https://www.drgoulu.com/1999/10/24/psc/).
+Lisez [La Forêt sombre](w:), conséquence du[Principe de Saturation Cubique](/1999/10/24/psc/).

@@ -29,7 +29,7 @@ et celle du [Mètre](w:) en 1983:
 
 > 1/299’792’458 ème de la distance parcourue par la lumière dans le vide en une seconde
 
-qui fait au passage qu'[on ne peut plus mesurer la vitesse de la lumière](https://www.drgoulu.com/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/) puisqu'elle a été fixée comme constante universelle.
+qui fait au passage qu'[on ne peut plus mesurer la vitesse de la lumière](/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/) puisqu'elle a été fixée comme constante universelle.
 
 Pour le kilogramme, j'attends avec impatience une définition claire parce que c'est en réalité la valeur de la [Constante de Planck](w:) qui a été fixée à exactement $6,626 070 15 × 10^{-34}  J s$et le kilogramme en découle.
 

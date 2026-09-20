@@ -21,4 +21,4 @@ La science fait des prédictions beaucoup plus précises. En 2015 l'article ci-d
 
 Notes de bas de page
 
-[[1]](#cite-HHcDd)[2012 et l'ennemi intérieur - Pourquoi Comment Combien](https://www.drgoulu.com/2009/11/29/2012-et-lennemi-interieur/)
+[[1]](#cite-HHcDd)[2012 et l'ennemi intérieur - Pourquoi Comment Combien](/2009/11/29/2012-et-lennemi-interieur/)

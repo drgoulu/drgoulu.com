@@ -22,7 +22,7 @@ Le fait que, faute d'arriver à reproduire les expériences qui montrent que ça
 
 [https://fr.wikipedia.org/wiki/Fu...](w:Fusion_froide)
 
-Il y a plus de dix ans, j'avais écrit [Tiède fusion - Pourquoi Comment Combien](https://www.drgoulu.com/2011/06/11/tiede-fusion/) sur le [Catalyseur d'énergie de Rossi et Focardi — Wikipédia](w:Catalyseur_d'énergie_de_Rossi_et_Focardi) . Je vois les nouvelles sur la [version anglaise](w:en:Energy_Catalyzer) :
+Il y a plus de dix ans, j'avais écrit [Tiède fusion - Pourquoi Comment Combien](/2011/06/11/tiede-fusion/) sur le [Catalyseur d'énergie de Rossi et Focardi — Wikipédia](w:Catalyseur_d'énergie_de_Rossi_et_Focardi) . Je vois les nouvelles sur la [version anglaise](w:en:Energy_Catalyzer) :
 
 > En janvier 2014, une société nouvellement créée, Industrial Heat LLC, a annoncé qu'elle avait acquis les droits sur la technologie E-Cat de Rossi. En avril 2016, Rossi a intenté une action en justice aux États-Unis contre Industrial Heat, alléguant qu'il n'avait pas reçu de frais de licence de 89 millions de dollars dus après une période de test d'un an d'une unité E-Cat. Le commentaire d'Industrial Heat sur le procès était qu'après trois ans d'efforts, ils étaient incapables de reproduire les résultats des tests E-Cat de Rossi. Le 5 juillet 2017, les parties se sont entendues ; les termes du règlement n'ont pas été publiés.
 

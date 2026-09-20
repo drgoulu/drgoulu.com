@@ -17,7 +17,7 @@ Ou tous les rayons du Soleil dans toutes les directions ? Dans ce cas c'est 2.2 
 
 Le truc étonnant, c'est que la température sous ce faisceau ne serait que de 5800K, la température de surface du Soleil. Parce que la thermodynamique dit qu'on ne peut pas focaliser de l'énergie thermique de manière à ce qu'elle devienne plus chaude que la source :
 
-[https://www.drgoulu.com/2013/02/...](https://www.drgoulu.com/2013/02/03/pourquoi-une-loupe-ne-viole-pas-la-thermodynamique/#.Y0hnUXaiGCo)
+[https://www.drgoulu.com/2013/02/...](/2013/02/03/pourquoi-une-loupe-ne-viole-pas-la-thermodynamique/#.Y0hnUXaiGCo)
 
 Dans les deux cas, votre rayon de la mort ferait un joli trou dans notre planète.
 

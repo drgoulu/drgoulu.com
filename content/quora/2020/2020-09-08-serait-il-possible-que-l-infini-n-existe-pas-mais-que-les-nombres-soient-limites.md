@@ -19,4 +19,4 @@ En plus, ils distinguent plusieurs infinis, voir cette vidéo géniale :
 
 [https://www.youtube.com/watch?v=...](https://www.youtube.com/watch?v=N_cDA6tF-40)
 
-[Très très très grands nombres - Pourquoi Comment Combien](https://www.drgoulu.com/2008/11/04/tres-tres-tres-grands-nombres/)
+[Très très très grands nombres - Pourquoi Comment Combien](/2008/11/04/tres-tres-tres-grands-nombres/)

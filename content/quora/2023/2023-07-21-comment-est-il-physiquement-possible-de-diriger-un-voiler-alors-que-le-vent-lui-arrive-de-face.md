@@ -31,4 +31,4 @@ Sur terre, le char éolien [Blackbird](w:Blackbird_(char_à_voile))de Rick Caval
 
 Beaucoup plus étonnant, au point que j'ai longtemps suspecté un canular de mouvement perpétuel avant de comprendre, il arrive à près de 3 fois la vitesse du vent au vent arrière ! Plus vite que le vent qui le pousse …
 
-[https://www.drgoulu.com/2012/12/...](https://www.drgoulu.com/2012/12/16/encoreplus-vite-que-le-vent/)
+[https://www.drgoulu.com/2012/12/...](/2012/12/16/encoreplus-vite-que-le-vent/)

@@ -17,4 +17,4 @@ Une fois que j'aurais un exemple de ce que vous voulez dire, je pourrai vous ré
 
 Mais ce sera très probablement non, parce qu'il y a de très bonnes raisons pour lesquelles la vie n'est possible qu'en 3D+1T
 
-[https://www.drgoulu.com/2011/01/...](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+[https://www.drgoulu.com/2011/01/...](/2011/01/30/pourquoi-3-dimensions-1-temps/)

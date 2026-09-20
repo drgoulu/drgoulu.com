@@ -15,4 +15,4 @@ Dans quel pays ? en Suisse le [Vote par correspondance](w:Vote_postal)est géné
 
 Il existe plusieurs manières d'éviter ou de détecter les fraudes, craindre ceci est indigne d'un pays démocratique.
 
-[https://www.drgoulu.com/2012/12/...](https://www.drgoulu.com/2012/12/07/fraudez-benford/)
+[https://www.drgoulu.com/2012/12/...](/2012/12/07/fraudez-benford/)

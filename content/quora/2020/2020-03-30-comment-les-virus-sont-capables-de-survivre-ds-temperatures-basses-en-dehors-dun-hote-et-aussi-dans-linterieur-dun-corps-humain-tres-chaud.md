@@ -26,4 +26,4 @@ Entre la cellule qui les a fabriqués et celle qu'ils infectent, ils ne font str
 
 Donc le froid les conserve (à moins que les cristaux de glace ne les écrabouillent mécaniquement, je ne sais pas), le chaud ne les détruit que par cuisson, et les produits chimiques peuvent les dissoudre et les rayons ultraviolets casser leur ADN/ARN, mais il ne "meurent" pas. Ils sont détruits ou rendus incapables de s'injecter dans une cellule.
 
-Lisez [Planète de virus](https://www.drgoulu.com/2016/03/28/planete-de-virus/#.XoHfcYiiGCo), c'est vraiment un bon bouquin.
+Lisez [Planète de virus](/2016/03/28/planete-de-virus/#.XoHfcYiiGCo), c'est vraiment un bon bouquin.

@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 J'aime beaucoup Jancovici, c'est notamment grâce à lui que j'ai découvert la très importante équation de Kaya
 
-[https://www.drgoulu.com/2009/02/...](https://www.drgoulu.com/2009/02/15/manicore/)
+[https://www.drgoulu.com/2009/02/...](/2009/02/15/manicore/)
 
 mais je trouve qu'avec le temps (l'âge ?) il commence à s'emmêler un peu les pinceaux…
 

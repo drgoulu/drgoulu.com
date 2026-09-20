@@ -28,4 +28,4 @@ Bon en fait les méthodes qu'on utilise en pratique sont plutôt probabilistes, 
 
 En effet la probabilité qu’un nombre de cette taille soit [pseudopremier](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=Nombre_pseudopremier) est de l’ordre d’une sur 10^30 donc le risque qu’un rayon cosmique change un bit du nombre pendant un test de primalité déterministe est un million de fois plus élevé ! J’aime bien cette idée qu’un algorithme probabiliste soit plus fiable qu’une machine considérée comme déterministe, pas vous ?
 
-[Comment trouver des nombres premiers - Pourquoi Comment Combien](https://www.drgoulu.com/2012/04/15/comment-produire-des-nombres-premiers/#.Xo7AeMiiGCo)
+[Comment trouver des nombres premiers - Pourquoi Comment Combien](/2012/04/15/comment-produire-des-nombres-premiers/#.Xo7AeMiiGCo)

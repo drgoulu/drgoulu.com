@@ -29,4 +29,4 @@ Bonne chance !
 
 Notes de bas de page
 
-[[1]](#cite-WasUV)[20 ans de Science Simpson - Pourquoi Comment Combien](https://www.drgoulu.com/2010/03/08/20-ans-de-science-simpson/)
+[[1]](#cite-WasUV)[20 ans de Science Simpson - Pourquoi Comment Combien](/2010/03/08/20-ans-de-science-simpson/)

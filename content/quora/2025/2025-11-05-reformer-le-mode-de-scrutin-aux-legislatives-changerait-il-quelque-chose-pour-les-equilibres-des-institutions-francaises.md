@@ -26,7 +26,7 @@ A mon humble avis de petit suisse, ça aurait un énorme impact sur l'acceptatio
 
 Plus l'élection est directe (moins de tours, de primaires, de signatures de maires etc.), plus la démocratie est directe aussi.
 
-Pour votre élection présidentielle, je suggère le[vote par assentiment](https://drgoulu.com/2007/05/09/le-vote-par-assentiment/). Simple, ouvert, transparent, un seul tour, et ce que vous adorez : être les premiers au monde à le faire.
+Pour votre élection présidentielle, je suggère le[vote par assentiment](/2007/05/09/le-vote-par-assentiment/). Simple, ouvert, transparent, un seul tour, et ce que vous adorez : être les premiers au monde à le faire.
 
 Notes de bas de page
 

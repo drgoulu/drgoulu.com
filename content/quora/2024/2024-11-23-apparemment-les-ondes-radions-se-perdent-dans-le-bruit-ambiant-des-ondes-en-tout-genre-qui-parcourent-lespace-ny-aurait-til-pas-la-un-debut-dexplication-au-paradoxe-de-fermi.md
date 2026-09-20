@@ -17,4 +17,4 @@ Puis on se rend compte que c'est une grave erreur d'émettre et on se contente d
 
 Notes de bas de page
 
-[[1]](#cite-ifNoM)[Comment comptent les Extraterrestres - Pourquoi Comment Combien](https://drgoulu.com/2011/09/25/comment-comptent-les-extraterrestres/)
+[[1]](#cite-ifNoM)[Comment comptent les Extraterrestres - Pourquoi Comment Combien](/2011/09/25/comment-comptent-les-extraterrestres/)

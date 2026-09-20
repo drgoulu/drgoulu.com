@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Un cycliste peut s'envoyer en l'air en pédalant entre 1100 et 600 watt pendant une minute :
 
-[https://www.drgoulu.com/2013/07/...](https://www.drgoulu.com/2013/07/14/lhelicoptere-a-pedales-existe-enfin/#.YE9vGp1sOCo)
+[https://www.drgoulu.com/2013/07/...](/2013/07/14/lhelicoptere-a-pedales-existe-enfin/#.YE9vGp1sOCo)
 
 Hussain Bolt développait plus de 2600 watt pendant ses 100m :
 

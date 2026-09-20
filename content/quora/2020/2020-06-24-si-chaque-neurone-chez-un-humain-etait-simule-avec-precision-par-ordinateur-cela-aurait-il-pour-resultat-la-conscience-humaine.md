@@ -15,4 +15,4 @@ Un seul moyen de le savoir : essayer !
 
 différents projets sont en cours, notamment le [Human Brain Project Home](https://www.humanbrainproject.eu/en/)
 
-[Combien de processeurs pour un cerveau ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/03/11/combien-de-processeurs-pour-un-cerveau/)
+[Combien de processeurs pour un cerveau ? - Pourquoi Comment Combien](/2013/03/11/combien-de-processeurs-pour-un-cerveau/)

@@ -30,8 +30,8 @@ Tesla était un inventeur remarquable du 19ème siècle qui avait une compréhen
 
 C'est en effet dommage que les inventions de Tesla ne soient pas plus enseignées au lycée, ça contribuerait à le démystifier…
 
-[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](/2012/08/19/nikola-tesla-genie-mais-connu/)
 
 Notes de bas de page
 
-[[1]](#cite-hawXe)[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[[1]](#cite-hawXe)[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)

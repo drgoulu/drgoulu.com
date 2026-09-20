@@ -34,8 +34,8 @@ Si il fallait vraiment le mm pour un projet professionnel, j'utiliserais LabView
 
 Notes de bas de page
 
-[[1]](#cite-MEkaJ)[Avalanches et goniomètre à infrasons - Pourquoi Comment Combien](https://www.drgoulu.com/2016/01/14/avalanches-et-gonimetre-a-infrasons/)
+[[1]](#cite-MEkaJ)[Avalanches et goniomètre à infrasons - Pourquoi Comment Combien](/2016/01/14/avalanches-et-gonimetre-a-infrasons/)
 
-[[2]](#cite-vlNxI)[Le GPS pour les nuls : Satellites et Signaux - Pourquoi Comment Combien](https://www.drgoulu.com/2008/09/27/le-gps-pour-les-nuls-satellites-et-signaux/)
+[[2]](#cite-vlNxI)[Le GPS pour les nuls : Satellites et Signaux - Pourquoi Comment Combien](/2008/09/27/le-gps-pour-les-nuls-satellites-et-signaux/)
 
-[[3]](#cite-uhfgo)[les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](https://www.drgoulu.com/2010/12/03/les-decorateurs-python/)
+[[3]](#cite-uhfgo)[les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](/2010/12/03/les-decorateurs-python/)

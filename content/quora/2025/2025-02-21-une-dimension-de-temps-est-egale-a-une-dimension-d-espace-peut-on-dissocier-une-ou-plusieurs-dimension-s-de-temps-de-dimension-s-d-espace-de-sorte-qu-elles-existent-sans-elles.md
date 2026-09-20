@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui, on peut. Mathématiquent du moins. Les implications de ceci sont… intéressantes
 
-[https://drgoulu.com/2011/01/30/p...](https://drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+[https://drgoulu.com/2011/01/30/p...](/2011/01/30/pourquoi-3-dimensions-1-temps/)

@@ -27,4 +27,4 @@ Le Zimbabwe a été le premier pays du monde où tout le monde était multi-mill
 
 Ah mais vous vouliez dire milliardaire en une autre monnaie ? Laquelle ? Qu'est-ce qui vous fait croire qu'elle gardera sa valeur à long terme ?
 
-[https://www.drgoulu.com/2009/04/...](https://www.drgoulu.com/2009/04/03/combien-vaut-1-franc/)
+[https://www.drgoulu.com/2009/04/...](/2009/04/03/combien-vaut-1-franc/)

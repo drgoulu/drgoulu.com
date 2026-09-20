@@ -17,4 +17,4 @@ Environ VIII (en chiffres romaines) sur l'[Échelle Medvedev-Sponheuer-Karnik](w
 
 L'échelle de Richter n'est plus utilisée. Elle est remplacée par l'échelle de [magnitude de moment](w:) qui correspond à l'énergie dégagée à l'épicentre, et qui ne peut donc pas être reliée à une accélération du sol sans tenir compte de la distance, de la profondeur, de la géologie etc.
 
-[https://www.drgoulu.com/2011/03/...](https://www.drgoulu.com/2011/03/16/seismes-et-energies/)
+[https://www.drgoulu.com/2011/03/...](/2011/03/16/seismes-et-energies/)

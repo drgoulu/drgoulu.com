@@ -26,4 +26,4 @@ Si vous mettez des panneaux solaires sur votre toit, vous allez consommer plus d
 
 La seule manière de diminuer l'empreinte carbone est de cramer moins de combustibles fossiles. Ça ne veut pas forcément dire consommer moins d'énergie.
 
-[https://drgoulu.com/2013/05/11/4...](https://drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
+[https://drgoulu.com/2013/05/11/4...](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)

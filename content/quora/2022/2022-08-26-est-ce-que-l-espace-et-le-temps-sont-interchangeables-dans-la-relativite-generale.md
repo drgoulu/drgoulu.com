@@ -19,10 +19,10 @@ Quelle que soit la convention choisie, l'autre correspond alors à un univers tr
 
 dont je cause un peu ici :
 
-[https://www.drgoulu.com/2011/01/...](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+[https://www.drgoulu.com/2011/01/...](/2011/01/30/pourquoi-3-dimensions-1-temps/)
 
 Dans cet univers "symétrique", il ne peut exister que des tachyons, de masse imaginaire…
 
 Notes de bas de page
 
-[[1]](#cite-jWINj)[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire)
+[[1]](#cite-jWINj)[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)

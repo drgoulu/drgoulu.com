@@ -27,4 +27,4 @@ Ceci fait que les "forces" ou les flux entre deux objets distants obéissent tou
 
 Les ellipses sont les seules courbes fermées qui soient solution de trajectoires dans un espace à 3 dimensions.
 
-[Pourquoi 3 dimensions + 1 temps ? - Pou](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/#.Xixw6WhsOCo)
+[Pourquoi 3 dimensions + 1 temps ? - Pou](/2011/01/30/pourquoi-3-dimensions-1-temps/#.Xixw6WhsOCo)

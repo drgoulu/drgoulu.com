@@ -16,4 +16,4 @@ Les espèces réellement intelligentes évitent à tout prix d'être détectées
 Lire :
 
 - [La Forêt sombre](w:) de Liu Cixin, génial !
-- mon [Principe de Saturation Cubique - Pourquoi Comment Combien](https://www.drgoulu.com/1999/10/24/psc/)
+- mon [Principe de Saturation Cubique - Pourquoi Comment Combien](/1999/10/24/psc/)

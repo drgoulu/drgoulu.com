@@ -27,6 +27,6 @@ Effectivement, il est très possible que des floppées des positons survivent à
 
 pour moi, l'[Antimatière](w:), c'est au minimum des [Antiprotons](w:Antiproton). On arrive à en produire au CERN, et on en a détecté dans les rayons cosmiques, probablement produits par collision d'un proton avec un atome de l'espace ( voir [Antiproton - Wikipedia](w:en:Antiproton) )
 
-Effectivement, on ne sait pas pourquoi le BB a produit plus de protons (et électrons) que d'antiprotons (et positons), mais on sait que c'est lié à la "violation de symétrie CP" ( voir [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/04/miroir/) que je considère comme mon meilleur article…) Et la raison pour laquelle la violation de symétrie T correspond exactement à cette violation CP me semble être la clé de tout …
+Effectivement, on ne sait pas pourquoi le BB a produit plus de protons (et électrons) que d'antiprotons (et positons), mais on sait que c'est lié à la "violation de symétrie CP" ( voir [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/) que je considère comme mon meilleur article…) Et la raison pour laquelle la violation de symétrie T correspond exactement à cette violation CP me semble être la clé de tout …
 
 Dans la vision de l'[Univers à énergie nulle](w:) que j'aime bien, le BB est une grosse [Fluctuation quantique du vide](w:Fluctuation_quantique), effectivement assez analogue à la création de paires ou à l'[Effet Casimir](w:).

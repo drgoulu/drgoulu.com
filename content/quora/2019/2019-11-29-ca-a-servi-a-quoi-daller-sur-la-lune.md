@@ -31,8 +31,8 @@ Par contre il a fallu développer énormément de technologies : les micro-ordin
 
 Aujourd'hui, les technologies issues du spatial ont tellement progressé qu’il est difficile de justifier l’envoi d’humains dans l’espace. On peut désormais presque tout réaliser avec des missions automatiques, beaucoup moins coûteuses et qui n’exigent pas de mettre le drapeau national en berne en cas d’échec.
 
-Pratiquement toutes les technologies spatiales dont nous bénéficions directement (météo, GPS, télévision etc. ) viennent de satellites artificiels et tout ce que nous savons aujourd’hui du système solaire nous a été communiqué par des dizaines de sondes comme Voyager, [Phoenix](https://www.drgoulu.com/2008/05/27/encore-une-sonde-sur-mars/) [Cassini](https://www.drgoulu.com/tag/cassini/), [Messenger](https://www.drgoulu.com/2008/01/19/mercure-de-mariner-a-messenger/) et toutes les autres..
+Pratiquement toutes les technologies spatiales dont nous bénéficions directement (météo, GPS, télévision etc. ) viennent de satellites artificiels et tout ce que nous savons aujourd’hui du système solaire nous a été communiqué par des dizaines de sondes comme Voyager, [Phoenix](/2008/05/27/encore-une-sonde-sur-mars/) [Cassini](https://www.drgoulu.com/tag/cassini/), [Messenger](/2008/01/19/mercure-de-mariner-a-messenger/) et toutes les autres..
 
 Mais cette technologie ne serait probablement pas si avancée sans les missions habitées.
 
-[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/07/18/pour-quoi-retourner-sur-la-lune/)
+[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](/2009/07/18/pour-quoi-retourner-sur-la-lune/)

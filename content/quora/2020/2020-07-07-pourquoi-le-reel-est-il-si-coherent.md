@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 J'allais dire "pour notre plus grand bonheur", mais en fait c'est l'inverse : si le réel était trop aléatoire ou si des diablotins s'amusaient à le changer [à brûle-pourpoint](https://fr.wiktionary.org/wiki/à_brûle-pourpoint)*, il est probable que nous n'aurions pas un beau cerveau pour y penser, puisqu'il n'aurait pas été très utile à la survie.
 
-C'est un argument de ce genre qu'utilise Max Tegmark pour expliquer [Pourquoi notre Univers a 3 dimensions + 1 temps](http://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/), qui me permet de fournir une réponse "à l'endroit":
+C'est un argument de ce genre qu'utilise Max Tegmark pour expliquer [Pourquoi notre Univers a 3 dimensions + 1 temps](/2011/01/30/pourquoi-3-dimensions-1-temps/), qui me permet de fournir une réponse "à l'endroit":
 
 C'est parce que dans un tel Univers, les équations de champ suivent des [équations différentielles partielles hyperboliques](http://www.wikipedia.org/search-redirect.php?language=en&go=Go&search=Hyperbolic_partial_differential_equation) qui sont localement intégrables pour obtenir des prédictions vraisemblables :
 

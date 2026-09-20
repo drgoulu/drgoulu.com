@@ -31,16 +31,16 @@ Dans les galaxies spirales, les étoiles ne descendent pas en spirale vers le ce
 
 - 3. la force centripète est créée (dans le modèle Newtonien) par la gravitation de tous les autres astres, dont le centre de gravité est grosso-modo au centre de la galaxie. En relativité, il n’y a pas de force centripète : les astres sont en chute libre dans un espace déformé par les masses.
 
-En passant, la rotation extraordinairement rapide des trous noirs est un sujet passionnant : [A combien tourne un trou noir ? - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+En passant, la rotation extraordinairement rapide des trous noirs est un sujet passionnant : [A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/)
 
 Notes de bas de page
 
-[[1]](#cite-wQIPK)[MIROIR | ЯIOЯIM - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/04/miroir/)
+[[1]](#cite-wQIPK)[MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/)
 
 [[2]](#cite-PLGbr)[Coupling between galaxy spin and central black hole spin](https://physics.stackexchange.com/questions/222415/coupling-between-galaxy-spin-and-central-black-hole-spin)
 
-[[3]](#cite-dZxVl)[Les trous noirs : des moteurs de l'Univers ? - Pourquoi Comment Combien](https://www.drgoulu.com/2008/09/06/les-trous-noirs-des-moteurs-de-lunivers/)
+[[3]](#cite-dZxVl)[Les trous noirs : des moteurs de l'Univers ? - Pourquoi Comment Combien](/2008/09/06/les-trous-noirs-des-moteurs-de-lunivers/)
 
-[[4]](#cite-DgZhz)[Recyclage galactique - Pourquoi Comment Combien](https://www.drgoulu.com/2009/02/04/recyclage-galactique/)
+[[4]](#cite-DgZhz)[Recyclage galactique - Pourquoi Comment Combien](/2009/02/04/recyclage-galactique/)
 
-[[5]](#cite-unOnT)[Simulation de Galaxie Spirale - Pourquoi Comment Combien](https://www.drgoulu.com/2007/08/23/simulation-de-galaxie-spirale/)
+[[5]](#cite-unOnT)[Simulation de Galaxie Spirale - Pourquoi Comment Combien](/2007/08/23/simulation-de-galaxie-spirale/)

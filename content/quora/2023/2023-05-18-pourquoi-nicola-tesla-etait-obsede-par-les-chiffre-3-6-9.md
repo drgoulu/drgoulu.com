@@ -17,4 +17,4 @@ Il ne l'était pas, c est une légende urbaine NewAge née sur les réseaux soci
 
 Tesla était un peu barjo vers la fin de sa vie, mais il n'a jamais été jusqu'au mysticisme idiot de ses dévots actuels.
 
-[https://www.drgoulu.com/2012/08/...](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/#.ZGY8Bna-g0E)
+[https://www.drgoulu.com/2012/08/...](/2012/08/19/nikola-tesla-genie-mais-connu/#.ZGY8Bna-g0E)

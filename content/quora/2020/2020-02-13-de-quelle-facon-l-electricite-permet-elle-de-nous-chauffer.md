@@ -28,4 +28,4 @@ il y en a au moins 3:
 
 Notes de bas de page
 
-[[1]](#cite-wGnUB)[Radiateurs à Téraflops ? - Pourquoi Comment Combien](https://www.drgoulu.com/2007/11/17/radiateurs-a-teraflops/)
+[[1]](#cite-wGnUB)[Radiateurs à Téraflops ? - Pourquoi Comment Combien](/2007/11/17/radiateurs-a-teraflops/)

@@ -33,8 +33,8 @@ Dans les deux cas IL NE FAUT PAS signaler notre existence. Les espèces réellem
 
 Bref, le fait que nous n'ayons pas déjà été détruits par un projectile relativiste prouve qu'il n'y a pas de civilisation [proche du Type II de Kardachev](w:Échelle_de_Kardachev) à moins de 50 années lumière d'ici. Quand vous verrez un petit point d'un bleu étrange dans le ciel, vous saurez qu'il en existe une, juste avant de mourir.
 
-[Principe de Saturation Cubique - Pourquoi Comment Combien](https://www.drgoulu.com/1999/10/24/psc/)
+[Principe de Saturation Cubique - Pourquoi Comment Combien](/1999/10/24/psc/)
 
-[SETI / METI : mais où est donc E.T. ? - Pourquoi Comment Combien](https://www.drgoulu.com/2008/04/24/seti-meti-mais-ou-est-donc-et/)
+[SETI / METI : mais où est donc E.T. ? - Pourquoi Comment Combien](/2008/04/24/seti-meti-mais-ou-est-donc-et/)
 
-[Le Grand Filtre - Pourquoi Comment Combien](https://www.drgoulu.com/2012/12/28/le-grand-filtre/)
+[Le Grand Filtre - Pourquoi Comment Combien](/2012/12/28/le-grand-filtre/)

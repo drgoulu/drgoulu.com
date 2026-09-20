@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-1-1-2/answer/Dr-Goulu)*
 
-Lis [Logicomix, la révolution de la logique en BD - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/06/logicomix/)
+Lis [Logicomix, la révolution de la logique en BD - Pourquoi Comment Combien](/2011/01/06/logicomix/)

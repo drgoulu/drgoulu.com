@@ -17,4 +17,4 @@ Comme une image de votre monde 2D se forme en 1D sur votre rétine, vous connais
 
 Lisez [Le Planivers](w:), c'est génial!
 
-[https://www.drgoulu.com/2007/02/...](https://www.drgoulu.com/2007/02/06/voir-en-4-dimensions/#.YyoALaS-g0E)
+[https://www.drgoulu.com/2007/02/...](/2007/02/06/voir-en-4-dimensions/#.YyoALaS-g0E)

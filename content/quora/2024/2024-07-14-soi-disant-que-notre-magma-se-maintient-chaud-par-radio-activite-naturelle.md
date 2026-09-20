@@ -26,7 +26,7 @@ C'est bien mais il manque environ 20 TW pour atteindre les 24 TW du [Bilan radia
 
 Donc voilà, la réalité est peut-être "comique" pour vous, mais jusqu'à ce que vous trouviez 20 TW qui chauffent de l'intérieur et comment les isotopes radioactifs présents ne chauffent pas, elle est comme ça.
 
-[https://drgoulu.com/2013/11/03/l...](https://drgoulu.com/2013/11/03/la-radioactivite-naturelle/)
+[https://drgoulu.com/2013/11/03/l...](/2013/11/03/la-radioactivite-naturelle/)
 
 Notes de bas de page
 

@@ -15,4 +15,4 @@ Parce qu'on a rien d'intéressant à y faire.
 
 Quand on aura besoin d'hélium 3 on ira.
 
-[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/07/18/pour-quoi-retourner-sur-la-lune/)
+[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](/2009/07/18/pour-quoi-retourner-sur-la-lune/)

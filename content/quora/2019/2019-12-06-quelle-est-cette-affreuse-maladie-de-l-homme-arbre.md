@@ -26,4 +26,4 @@ L'[Épidermodysplasie verruciforme](w:) est due à une anomalie génétique qui 
 >
 >
 >
-> ([Carl Zimmer, Planète de virus](https://www.drgoulu.com/2016/03/28/planete-de-virus/#.XerLZehsOCo))
+> ([Carl Zimmer, Planète de virus](/2016/03/28/planete-de-virus/#.XerLZehsOCo))

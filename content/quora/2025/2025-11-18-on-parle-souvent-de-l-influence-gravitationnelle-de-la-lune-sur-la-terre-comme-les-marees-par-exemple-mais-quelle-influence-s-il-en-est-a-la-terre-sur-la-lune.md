@@ -29,4 +29,4 @@ Les marées ralentissent aussi la rotation de la Terre de deux millisecondes par
 
 Les marées "liquides" de nos océans ne sont qu'un épiphénomène (= de surface) d'un phénomène astronomique bien plus important et général.
 
-[https://drgoulu.com/2017/08/15/c...](https://drgoulu.com/2017/08/15/combien-de-maree/)
+[https://drgoulu.com/2017/08/15/c...](/2017/08/15/combien-de-maree/)

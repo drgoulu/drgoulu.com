@@ -38,4 +38,4 @@ En fait les scientifiques qui ont adopté l'échelle de Turin en 1999 sont un pe
 
 Alors ils ont inventé L'[Échelle de Palerme](w:) qui mesure plus finement le risque de collision, comme ça ils peuvent s'occuper en faisant des listes mises à jour en temps réel comme [Sentry: Earth Impact Monitoring](https://cneos.jpl.nasa.gov/sentry/) …
 
-[Risques météoritiques - Pourquoi Comment Combien](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/)
+[Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)

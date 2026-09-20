@@ -23,9 +23,9 @@ coverImage: ./images/quora.png
 
 parce que c'est beaucoup plus simple de calculer une "force" entre deux objets que la déformation de l'espace-temps, et que l'approximation est acceptable dans 99.999% des cas.
 
-([L’ingénieur est un type qui sait ce qu’il peut négliger - Pourquoi Comment Combien](https://www.drgoulu.com/2008/05/28/lingenieur-est-un-type-qui-sait-ce-quil-peut-negliger/))
+([L’ingénieur est un type qui sait ce qu’il peut négliger - Pourquoi Comment Combien](/2008/05/28/lingenieur-est-un-type-qui-sait-ce-quil-peut-negliger/))
 
-A noter que la [Méthode multipolaire rapide](w:) permet désormais de simuler [Le Problème à N corps](https://www.drgoulu.com/2008/11/16/le-probleme-a-n-corps/) pour N > 100 millions :
+A noter que la [Méthode multipolaire rapide](w:) permet désormais de simuler [Le Problème à N corps](/2008/11/16/le-probleme-a-n-corps/) pour N > 100 millions :
 
 [https://www.youtube.com/watch?v=...](https://www.youtube.com/watch?v=PS-UosrMvG8)
 

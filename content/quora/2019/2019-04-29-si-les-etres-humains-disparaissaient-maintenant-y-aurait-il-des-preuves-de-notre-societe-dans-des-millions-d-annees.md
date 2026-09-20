@@ -27,4 +27,4 @@ Il semblerait que oui. Les [Plastiglomérats](w:Plastiglomérat) ne dureront “
 
 Notes de bas de page
 
-[[1]](#cite-jncBM)[Bure, plongée dans l'éternité - Pourquoi Comment Combien](https://www.drgoulu.com/2014/05/24/bure-pour-leternite/)
+[[1]](#cite-jncBM)[Bure, plongée dans l'éternité - Pourquoi Comment Combien](/2014/05/24/bure-pour-leternite/)

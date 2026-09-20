@@ -19,4 +19,4 @@ Sur les images prises par les télescopes, elles ont 4 "aigrettes" toutes bien a
 
 (détail d'une photo de [NGC 6397](w:) par le télescope spatial Hubble. Même lui fait des aigrettes)
 
-[Inventaire des Croix du Ciel. - Pourquoi Comment Combien](https://www.drgoulu.com/2009/01/17/inventaire-des-croix-du-ciel/)
+[Inventaire des Croix du Ciel. - Pourquoi Comment Combien](/2009/01/17/inventaire-des-croix-du-ciel/)

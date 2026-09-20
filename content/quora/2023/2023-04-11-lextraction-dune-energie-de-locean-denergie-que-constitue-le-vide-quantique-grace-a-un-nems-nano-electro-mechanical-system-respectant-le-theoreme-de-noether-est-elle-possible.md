@@ -15,4 +15,4 @@ Non. Le Théorème de Noether prouve que l énergie totale d'un système se cons
 
 Et même si vous empruntez de l énergie au vide quantique, vous devez en plus respecter le second principe, comme le démon de Maxwell ou le cliquet de Feynman.
 
-[https://www.drgoulu.com/2012/05/...](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[https://www.drgoulu.com/2012/05/...](/2012/05/27/dites-non-au-mouvement-perpetuel/)

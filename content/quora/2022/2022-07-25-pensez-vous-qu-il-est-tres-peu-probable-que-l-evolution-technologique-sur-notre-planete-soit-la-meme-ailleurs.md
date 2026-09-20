@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Non, je pense que s'il y a une technologie ailleurs elle évolue grossi modo de manière identique pour les raisons données ici:
 
-[https://www.drgoulu.com/2011/11/...](https://www.drgoulu.com/2011/11/06/la-route-que-nous-navons-pas-prise/#.Yt6g-qS-g0E)
+[https://www.drgoulu.com/2011/11/...](/2011/11/06/la-route-que-nous-navons-pas-prise/#.Yt6g-qS-g0E)
 
 Mais "ailleurs", ça implique aussi le temps : notre technologie date de 200 ans sur 300'000 d'existence de notre espèce et sur 3 milliards d'années de vie sur notre planète..
 

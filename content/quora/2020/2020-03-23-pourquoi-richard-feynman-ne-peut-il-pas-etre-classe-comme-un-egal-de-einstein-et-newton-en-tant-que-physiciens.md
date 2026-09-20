@@ -28,6 +28,6 @@ Personnellement j'ai plus lu Feynman[[2]](#JzCHL) que les autres, probablement c
 
 Notes de bas de page
 
-[[1]](#cite-VNaWx)[Unités et classements - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/21/unites-et-classements/)
+[[1]](#cite-VNaWx)[Unités et classements - Pourquoi Comment Combien](/2009/05/21/unites-et-classements/)
 
 [[2]](#cite-JzCHL)[Feynman Archives - Pourquoi Comment Combien](https://www.drgoulu.com/tag/feynman/)

@@ -30,4 +30,4 @@ Notes de bas de page
 
 [[2]](#cite-tNLEo)[Barèmes | État de Vaud](https://www.vd.ch/themes/etat-droit-finances/impots/formulaires-directives-et-baremes/baremes/)
 
-[[3]](#cite-oPuKw)[Trop-plein de Mai - Pourquoi Comment Combien](https://www.drgoulu.com/2014/05/28/trop-plein-de-mai/)
+[[3]](#cite-oPuKw)[Trop-plein de Mai - Pourquoi Comment Combien](/2014/05/28/trop-plein-de-mai/)

@@ -23,4 +23,4 @@ Oui.
 
 Tesla était un inventeur du 19ème siècle, il a inventé des choses en rapport avec les découvertes de son époque. Puis, comme chacun de nous, il est devenu vieux et a eu de la peine à comprendre les nouvelles découvertes comme l'atome et la relativité, et a eu de la peine à admettre que certaines de ses croyances (comme l'éther et l' "énergie libre") étaient fausses. Il n'aurait rien inventé de plus.
 
-[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](/2012/08/19/nikola-tesla-genie-mais-connu/)

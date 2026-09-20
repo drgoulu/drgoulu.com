@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 J'avais écrit
 
-[https://www.drgoulu.com/2008/11/...](https://www.drgoulu.com/2008/11/26/ce-queinstein-na-jamais-dit/#.YlMdrmm-g0E)
+[https://www.drgoulu.com/2008/11/...](/2008/11/26/ce-queinstein-na-jamais-dit/#.YlMdrmm-g0E)
 
 sur certaines de ces citations apocryphes, et j'en ai traitées de nombreuses autres dans les commentaires.
 

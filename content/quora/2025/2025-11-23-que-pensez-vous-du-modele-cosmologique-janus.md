@@ -29,7 +29,7 @@ JPP a plusieurs fois modifié son modèle pour le faire correspondre aux observa
 
 Ce que j'en pense, puisque c'est mon opinion de néophyte qui vous intéresse plus que celle des spécialistes, la voici :
 
-Catégorie 3 des [Solutions admissibles - Pourquoi Comment Combien](https://drgoulu.com/2016/09/11/solutions-admissibles/)
+Catégorie 3 des [Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)
 
 Notes de bas de page
 

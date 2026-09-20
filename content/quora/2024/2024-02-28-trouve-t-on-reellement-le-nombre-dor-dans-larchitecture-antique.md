@@ -28,4 +28,4 @@ Les romains utilisaient les proportions publiées par [Vitruve](w:), qui servent
 
 [https://fr.wikipedia.org/wiki/No...](w:Nombre_d'or)
 
-[https://drgoulu.com/2016/07/03/n...](https://drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[https://drgoulu.com/2016/07/03/n...](/2016/07/03/nombre-dor-et-abeilles/)

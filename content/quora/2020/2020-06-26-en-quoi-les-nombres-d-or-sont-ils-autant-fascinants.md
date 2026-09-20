@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il y a un seul nombre d'or, et il n'est pas plus fascinant qu'un autre.
 
-[Nombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[Nombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/)

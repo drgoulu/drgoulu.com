@@ -22,7 +22,7 @@ coverImage: ./images/quora.png
 
 Le truc le plus intéressant à propos du football, c'est ce bouquin :
 
-[https://www.drgoulu.com/2008/05/...](https://www.drgoulu.com/2008/05/09/la-science-du-football/#.Y4T7rXZsOCo)
+[https://www.drgoulu.com/2008/05/...](/2008/05/09/la-science-du-football/#.Y4T7rXZsOCo)
 
 il y a un chapitre sur la taille du terrain et le nombre de joueurs qui montre que le paramètre clé, c'est le temps moyen entre deux passes : 3 secondes. 1 pour maitriser le ballon, 1 pour décider ce qu'on va faire, 1 pour le faire.
 

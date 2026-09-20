@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Le MIT dit 7 ans, je dirais plutôt 10.
 
-[https://www.drgoulu.com/2013/09/...](https://www.drgoulu.com/2013/09/07/la-programmation-latin-du-futur/)
+[https://www.drgoulu.com/2013/09/...](/2013/09/07/la-programmation-latin-du-futur/)

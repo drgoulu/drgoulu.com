@@ -27,6 +27,6 @@ Gauche/droite n'est qu'une dimension.
 
 Il y a de forts indices que la seconde dimension est devenue importante, sinon prépondérante.
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/#.ZDEEy6S-g0E)
+[https://www.drgoulu.com/2017/05/...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/#.ZDEEy6S-g0E)
 
 Pour connaître le positionnement politique d'une population, vous devez faiire beaucoup de sondages, ou mieux encore, de référendums, et les traiter par une méthode mathématique rigoureuse décrite dans l'article ci-dessus

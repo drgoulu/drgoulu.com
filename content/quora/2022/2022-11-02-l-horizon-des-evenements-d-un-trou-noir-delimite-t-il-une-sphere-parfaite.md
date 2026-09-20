@@ -23,7 +23,7 @@ A vitesse de rotation nulle, ces 4 surfaces se combinent pour donner l'horizon s
 
 La [Censure cosmique](w:)y veille…
 
-[https://www.drgoulu.com/2016/07/...](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir)
+[https://www.drgoulu.com/2016/07/...](/2016/07/10/combien-tourne-un-trou-noir/)
 
 Notes de bas de page
 

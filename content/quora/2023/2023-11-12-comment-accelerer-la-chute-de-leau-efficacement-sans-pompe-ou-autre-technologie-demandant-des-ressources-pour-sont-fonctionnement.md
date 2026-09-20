@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Comme ça :
 
-[https://www.drgoulu.com/2013/04/...](https://www.drgoulu.com/2013/04/20/comment-tomber-plus-vite-que-la-gravite/)
+[https://www.drgoulu.com/2013/04/...](/2013/04/20/comment-tomber-plus-vite-que-la-gravite/)
 
 En faisant des barreaux en glace…

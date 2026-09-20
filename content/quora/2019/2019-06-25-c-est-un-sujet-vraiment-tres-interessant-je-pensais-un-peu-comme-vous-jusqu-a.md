@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-stocker-durablement-les-déchets-nucléaires-radioactifs-qui-restent-radioactifs-pendant-plus-de-50-000-ans/answer/Dr-Goulu)*
 
-C'est un sujet vraiment très intéressant. Je pensais un peu comme vous jusqu' à ma [plongée dans l'éternité à Bure](https://www.drgoulu.com/2014/05/24/bure-pour-leternite/) où j'ai appris:
+C'est un sujet vraiment très intéressant. Je pensais un peu comme vous jusqu' à ma [plongée dans l'éternité à Bure](/2014/05/24/bure-pour-leternite/) où j'ai appris:
 
 1. que les dépôts comme Cigéo seront réversibles pendant 200 ans, au cas (probable à mon avis) où on trouvera quoi faire de ces isotopes rares
 2. qu'après, ça n'est pas un "coffre-fort". Rien de construit ne peut raisonnablement tenir si longtemps. Le but est de créer une couche géologique artificielle. Le dépôt est conçu pour être comblé, bouché et inaccessible. Moins il y aura d'air, moins il y aura de place pour de l'eau …

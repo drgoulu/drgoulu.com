@@ -27,6 +27,6 @@ Des gens ont proposé d'expliquer ceci dans cet article [Upgoing ANITA events as
 
 La [Symétrie CPT](w:)invoquée est quelque chose de fondamental et connu depuis longtemps, et qui n' a rien à voir avec un univers parallèle, sauf dans l'imaginaire de journalistes. Cet "univers parallèle" est en fait exactement le notre vu dans 3 miroirs.
 
-Mais je suis très content car j'aurai peut être bientôt la réponse à la question posée à la fin de mon article [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/04/miroir/) qui traite de ce sujet :
+Mais je suis très content car j'aurai peut être bientôt la réponse à la question posée à la fin de mon article [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/) qui traite de ce sujet :
 
 > Donc lorsqu’on reçoit par exemple un [rayon](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=rayon+cosmique)cosmique sous forme d’un antiproton à haute énergie, ne devrait-on pas vérifier s’il ne s’agirait pas d’un proton généré par un événement futur et qui remonte le temps? Est-ce que des installations comme l'[observatoire Pierre Auger](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=observatoire+Pierre+Auger) ont un “miroir” permettant d’observer la brisure de symétrie P qui distingue les deux cas ?

@@ -17,4 +17,4 @@ Son temps se contracte par rapport au notre.
 
 J'avais écrit ça :
 
-[https://www.drgoulu.com/2004/08/...](https://www.drgoulu.com/2004/08/09/acceleration/#.Y2dZJqTfs0E)
+[https://www.drgoulu.com/2004/08/...](/2004/08/09/acceleration/#.Y2dZJqTfs0E)

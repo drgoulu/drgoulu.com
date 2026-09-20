@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Il est très clair pour tous les scientifiques qui étudient ce sujet qu'un deuxième axe progressiste / conservateur est significatif, et il est très possible qu'il soit en train de devenir prépondérant sur l'axe gauche droite dans certains pays.
 
-[https://drgoulu.com/2017/05/14/l...](https://drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://drgoulu.com/2017/05/14/l...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 Pour la France, les seules données disponibles sont celles des votes à l'assemblée nationale. J'avais commencé un projet, mais il faudrait le réactualiser…
 

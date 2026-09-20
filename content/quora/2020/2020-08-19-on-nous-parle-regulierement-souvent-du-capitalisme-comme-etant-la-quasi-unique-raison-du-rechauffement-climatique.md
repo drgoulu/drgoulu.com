@@ -34,7 +34,7 @@ Par exemple dans la [Liste des pays par intensité énergétique](w:), on remarq
 
 Donc pour répondre à votre question, le "capitalisme" et la population sont deux facteurs d'égale importance, mais il y en a deux autres tout aussi importants !
 
-Je me suis beaucoup intéressé à l'équation de Kaya ( voir [équation de Kaya Archives - Pourquoi Comment Combien](https://www.drgoulu.com/tag/equation-de-kaya/) ) et dans [400 parties par million, et moi, et moi, émoi ?](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)je me suis plus concentré sur votre question via l'évolution temporelle des 4 facteurs au niveau mondial, représentée dans le graphique ci-dessous (hélas jusqu'en 2009, si quelqu'un a une version plus récente, je prends…) :
+Je me suis beaucoup intéressé à l'équation de Kaya ( voir [équation de Kaya Archives - Pourquoi Comment Combien](https://www.drgoulu.com/tag/equation-de-kaya/) ) et dans [400 parties par million, et moi, et moi, émoi ?](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)je me suis plus concentré sur votre question via l'évolution temporelle des 4 facteurs au niveau mondial, représentée dans le graphique ci-dessous (hélas jusqu'en 2009, si quelqu'un a une version plus récente, je prends…) :
 
 ![](./images/qimg-9030402f626ed7ce6eaf26911b6dbc0f.png)
 

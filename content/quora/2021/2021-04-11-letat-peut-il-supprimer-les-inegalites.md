@@ -15,7 +15,7 @@ Les communistes ont essayé, ça n'a pas été un gros succès…
 
 Il y a quelques années j'avais écrit ceci sur les inégalités
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/21/combien-dinegalite/)
+[https://www.drgoulu.com/2009/03/...](/2009/03/21/combien-dinegalite/)
 
 Et produit ce graphique sur la réduction des inégalités produite par la fiscalité dans les pays de l'ocde :
 

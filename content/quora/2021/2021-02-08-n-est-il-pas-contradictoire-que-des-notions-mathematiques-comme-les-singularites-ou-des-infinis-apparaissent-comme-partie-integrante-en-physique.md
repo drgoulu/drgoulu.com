@@ -33,4 +33,4 @@ En particulier, il y a un moment où la discrétisation de l'espace-temps ne peu
 
 Et peut-être aussi sur l'horizon des trous noirs
 
-[https://www.drgoulu.com/2011/08/...](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[https://www.drgoulu.com/2011/08/...](/2011/08/13/selon-newton-lunivers-serait-digital/)

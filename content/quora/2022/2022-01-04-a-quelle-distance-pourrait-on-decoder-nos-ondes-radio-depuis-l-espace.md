@@ -41,4 +41,4 @@ Bon, ça c'était pour nos émissions "à usage interne". Parce qu'effectivement
 
 Mais bon, même comme ça, il n'y a raisonnablement aucune chance qu'un tel message puisse être reçu et décodé à plus de 10 années lumière. A 100, vous oubliez.
 
-[https://www.drgoulu.com/2011/09/...](https://www.drgoulu.com/2011/09/25/comment-comptent-les-extraterrestres/)
+[https://www.drgoulu.com/2011/09/...](/2011/09/25/comment-comptent-les-extraterrestres/)

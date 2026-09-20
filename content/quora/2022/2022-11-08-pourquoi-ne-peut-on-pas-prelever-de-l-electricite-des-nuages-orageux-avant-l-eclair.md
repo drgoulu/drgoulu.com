@@ -19,4 +19,4 @@ Mais quand le fil approche du nuage, il crée exactement les conditions qui exis
 
 Et la décharge vaporise votre fil, et le bidule qui devait stocker l'électricité.
 
-[https://www.drgoulu.com/2007/09/...](https://www.drgoulu.com/2007/09/09/lenergie-de-la-foudre/#.Y2rRWqTfs0E)
+[https://www.drgoulu.com/2007/09/...](/2007/09/09/lenergie-de-la-foudre/#.Y2rRWqTfs0E)

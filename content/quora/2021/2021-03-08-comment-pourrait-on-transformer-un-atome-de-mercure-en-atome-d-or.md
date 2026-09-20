@@ -21,7 +21,7 @@ coverImage: ./images/qimg-dacf882c5667db2291edabce2d2974dd.jpg
 
 Comme expliqué dans
 
-[https://www.drgoulu.com/2013/03/...](https://www.drgoulu.com/2013/03/15/comment-transformer-le-plomb-en-or/)
+[https://www.drgoulu.com/2013/03/...](/2013/03/15/comment-transformer-le-plomb-en-or/)
 
 on peut bombarder le mercure avec des neutrons qui se font capturer et "décalent l'isotope d'une case à droite" jusqu'à obtenir un isotope radioactif, puis attendre sa désintégration, ce qui "décale l'isotope en diagonale" selon la règle ci-dessous :
 

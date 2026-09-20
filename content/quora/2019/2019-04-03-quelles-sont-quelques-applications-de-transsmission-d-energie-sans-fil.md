@@ -36,4 +36,4 @@ et les électrosensibles de la salle sont tous morts, ce qui permet de faire de 
 
 Notes de bas de page
 
-[[1]](#cite-lrtNg)[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/#.XKUDkJiiGCo)
+[[1]](#cite-lrtNg)[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](/2012/08/19/nikola-tesla-genie-mais-connu/#.XKUDkJiiGCo)

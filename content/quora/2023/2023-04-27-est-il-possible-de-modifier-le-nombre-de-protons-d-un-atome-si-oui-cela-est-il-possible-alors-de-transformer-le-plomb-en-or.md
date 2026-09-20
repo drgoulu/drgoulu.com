@@ -21,4 +21,4 @@ R. Sherr, K. T. Bainbridge et H. H. Anderson, « *Transmutation of Mercury by Fa
 
 dans tous les cas, l'or ainsi obtenu est très radioactif.
 
-[https://www.drgoulu.com/2013/03/...](https://www.drgoulu.com/2013/03/15/comment-transformer-le-plomb-en-or/#.ZEq6hXaiGCo)
+[https://www.drgoulu.com/2013/03/...](/2013/03/15/comment-transformer-le-plomb-en-or/#.ZEq6hXaiGCo)

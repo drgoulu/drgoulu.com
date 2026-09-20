@@ -31,4 +31,4 @@ Notes de bas de page
 
 [[1]](#cite-pFing)[How Much of the Universe is Black Holes? - Universe Today](https://www.universetoday.com/112500/how-much-of-the-universe-is-black-holes/)
 
-[[2]](#cite-aWATz)[A combien tourne un trou noir ? - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/#.XrRCPaiiGCo)
+[[2]](#cite-aWATz)[A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/#.XrRCPaiiGCo)

@@ -26,4 +26,4 @@ Le thorium aurait dû être développé à la place de l'uranium. Maintenant c'e
 
 Siemens et ABB ont abandonné le nucléaire et se concentrent sur les énergies renouvelables.
 
-[https://www.drgoulu.com/2013/05/...](https://www.drgoulu.com/2013/05/18/latome-vert-le-thorium/#.Y1fd1aS3A0E)
+[https://www.drgoulu.com/2013/05/...](/2013/05/18/latome-vert-le-thorium/#.Y1fd1aS3A0E)

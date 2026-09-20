@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 10^9 est un nombre si minuscule que ça ne vaut même pas la peine d'en parler.
 
-[https://www.drgoulu.com/2008/11/...](https://www.drgoulu.com/2008/11/04/tres-tres-tres-grands-nombres/#.Y4mugqTfs0E)
+[https://www.drgoulu.com/2008/11/...](/2008/11/04/tres-tres-tres-grands-nombres/#.Y4mugqTfs0E)

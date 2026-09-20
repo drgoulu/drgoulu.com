@@ -15,6 +15,6 @@ C'est la même chose. La "sorte de toile pour représenter la gravité" est une 
 
 Pour essayer, je vous proposes mes articles :
 
-[https://www.drgoulu.com/2007/02/...](https://www.drgoulu.com/2007/02/06/voir-en-4-dimensions/)
+[https://www.drgoulu.com/2007/02/...](/2007/02/06/voir-en-4-dimensions/)
 
-[https://www.drgoulu.com/2007/02/...](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
+[https://www.drgoulu.com/2007/02/...](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)

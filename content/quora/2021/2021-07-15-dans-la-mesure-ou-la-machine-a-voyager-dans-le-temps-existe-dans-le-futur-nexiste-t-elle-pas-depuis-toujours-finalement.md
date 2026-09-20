@@ -25,6 +25,6 @@ Non. Les seules machines à remonter le temps physiquement envisageables (au mul
 
 Lisez ce bouquin qui explique ça très bien :
 
-[https://www.drgoulu.com/2006/06/...](https://www.drgoulu.com/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)
+[https://www.drgoulu.com/2006/06/...](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)
 
 Donc, contrairement à ce que disait Stephen Hawking, le fait qu'on ne voie pas de voyageurs temporels ne prouve pas que le voyage dans le temps soit impossible. Il y a d'autres problèmes, mais pas celui-là.

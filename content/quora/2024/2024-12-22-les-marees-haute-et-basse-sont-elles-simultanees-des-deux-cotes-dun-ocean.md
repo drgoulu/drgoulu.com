@@ -23,4 +23,4 @@ En animation, ça donne ça :
 
 ![](./images/qimg-d9d4ac7132abbc3f03203203366494eb.gif)
 
-[Combien de marée - Pourquoi Comment Combien](https://drgoulu.com/2017/08/15/combien-de-maree)
+[Combien de marée - Pourquoi Comment Combien](/2017/08/15/combien-de-maree/)

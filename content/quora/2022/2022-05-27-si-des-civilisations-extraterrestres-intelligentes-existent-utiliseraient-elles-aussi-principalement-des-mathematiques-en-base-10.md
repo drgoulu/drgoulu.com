@@ -27,4 +27,4 @@ D'un autre côté, [toutes les bases sont des bases 10](http://eljjdx.canalblog.
 
 En fait la base n'a aucune importance, ce qui semble plus important est la [Notation positionnelle](w:)Elle semble évidente, mais les peuples qui ne l'avaient pas, comme les romains, se sont retrouvés assez vite limités en maths.
 
-[https://www.drgoulu.com/2011/09/...](https://www.drgoulu.com/2011/09/25/comment-comptent-les-extraterrestres/#.YpCQGWm-g0E)
+[https://www.drgoulu.com/2011/09/...](/2011/09/25/comment-comptent-les-extraterrestres/#.YpCQGWm-g0E)

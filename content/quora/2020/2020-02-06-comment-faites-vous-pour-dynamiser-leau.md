@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Je la bois. Elle contient des milliers de molécules déjà "dynamisées" par Jésus, Einstein et Eva Longoria, ça me fait un bien fou ! Et encore plus quand je l'élimine en pensant que je l'ai "dynamisée" aussi.
 
-[Quelles sont les chances ... - Pourquoi Comment Combien](https://www.drgoulu.com/2008/03/09/quelles-sont-les-chances/)
+[Quelles sont les chances ... - Pourquoi Comment Combien](/2008/03/09/quelles-sont-les-chances/)

@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Sur-internet-on-peut-souvent-lire-qu-Einstein-pensait-qu-on-ne-serait-jamais-en-mesure-de-d%C3%A9tecter-directement-des-ondes-gravitationnelles-mais-y-a-t-il-une-source-fiable-%C3%A0-cette-citation/answer/Dr-Goulu)*
 
-C'est pire que ça, à un moment il a voulu écrire un article disant que ces ondes n'existaient pas, et l'article a été refusé ! Je raconte ça dans [Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/02/14/einstein-et-les-ondes-gravitationnelles/) avec plusieurs références.
+C'est pire que ça, à un moment il a voulu écrire un article disant que ces ondes n'existaient pas, et l'article a été refusé ! Je raconte ça dans [Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](/2016/02/14/einstein-et-les-ondes-gravitationnelles/) avec plusieurs références.
 
 Je pense que ce que vous cherchez est dans son article initial
 

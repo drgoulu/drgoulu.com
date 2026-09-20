@@ -41,4 +41,4 @@ La célèbre [Machine à explorer le temps](w:La_Machine_à_explorer_le_temps) d
 
 (merci pour la question, je suis un passionné des récits de voyages dans le temps mais j’ignorais son histoire. Je voulais compléter [Voyage dans le temps — Wikipédia](w:Voyage_dans_le_temps) mais je découvre que la [Liste d'œuvres impliquant le voyage dans le temps — Wikipédia](w:Liste_d'œuvres_impliquant_le_voyage_dans_le_temps) contient déjà ce qui précède… vive la Wikipédia !)
 
-[Les voyages temporels au cinéma - Pourquoi Comment Combien](https://www.drgoulu.com/2010/10/23/retours-vers-les-futurs/)
+[Les voyages temporels au cinéma - Pourquoi Comment Combien](/2010/10/23/retours-vers-les-futurs/)

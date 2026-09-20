@@ -22,13 +22,13 @@ coverImage: ./images/qimg-3296f1e05f7bf9143f68609798c39357.jpg
 
 Oh que oui !
 
-Le plus beau à mon humble avis est [OJ 287](w:)dont je cause dans [Ca c'est du trou noir, du vrai ! - Pourquoi Comment Combien](https://www.drgoulu.com/2008/04/18/ca-cest-du-trou-noir-du-vrai/#.Y8Fw6HZsOCo) :
+Le plus beau à mon humble avis est [OJ 287](w:)dont je cause dans [Ca c'est du trou noir, du vrai ! - Pourquoi Comment Combien](/2008/04/18/ca-cest-du-trou-noir-du-vrai/#.Y8Fw6HZsOCo) :
 
 > OJ287 est un [quasar](w:), une galaxie très lointaine (3.5 milliards d’années lumière) dont le cœur est extrêmement lumineux, ce qui fait qu’on l’observe depuis plus d’un siècle. Or, approximativement tous les 12 ans, sa luminosité augmente en produisant deux flashes successifs.
 >
 >
 >
-> En 1980, l’équipe finlandaise de Mauri Valtonen a proposé une explication au phénomène : OJ287 serait composé de deux trous noirs, l’un de 100 millions de masses solaires, soit 40 fois plus que [celui du centre de la Voie Lactée](https://www.drgoulu.com/2007/06/26/le-trou-noir-central-de-la-voie-lactee-revele/). Et celui là, ce serait le petit : il tournerait autour d’un autre, de 18 milliards de Soleils ! Les flashes se produiraient lorsque le petit traverserait par deux fois le disque d’accrétion du grand, comme illustré sur la figure ci-contre.
+> En 1980, l’équipe finlandaise de Mauri Valtonen a proposé une explication au phénomène : OJ287 serait composé de deux trous noirs, l’un de 100 millions de masses solaires, soit 40 fois plus que [celui du centre de la Voie Lactée](/2007/06/26/le-trou-noir-central-de-la-voie-lactee-revele/). Et celui là, ce serait le petit : il tournerait autour d’un autre, de 18 milliards de Soleils ! Les flashes se produiraient lorsque le petit traverserait par deux fois le disque d’accrétion du grand, comme illustré sur la figure ci-contre.
 
 ![](./images/qimg-3296f1e05f7bf9143f68609798c39357.jpg)
 
@@ -44,4 +44,4 @@ Maintenant qu'on est capables de détecter ces fameuses ondes gravitationnelles 
 
 En fait je retrouve maintenant qu'on savait ça depuis 1974 (prix Nobel en 1993) grâce à [PSR B1913+16](w:).
 
-[https://www.drgoulu.com/2014/03/...](https://www.drgoulu.com/2014/03/22/le-point-sur-les-ondes-gravitationnelles/#.Y8FypnZsOCo)
+[https://www.drgoulu.com/2014/03/...](/2014/03/22/le-point-sur-les-ondes-gravitationnelles/#.Y8FypnZsOCo)

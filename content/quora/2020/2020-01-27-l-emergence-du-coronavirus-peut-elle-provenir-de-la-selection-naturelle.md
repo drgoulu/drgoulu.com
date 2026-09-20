@@ -29,4 +29,4 @@ Il y a probablement des millions, pour ne pas dire des milliards de nouveaux vir
 
 Mais ces deux mammifères pratiquent la quarantaine, et l'un deux est désormais capable de décoder le génome du virus en quelques jours pour produire un traitement en quelques semaines. Le virus va rapidement rejoindre la liste des espèces disparues à cause de l'homme sans la moindre protestation du WWF…
 
-Lisez le livre [Planète de virus](https://www.drgoulu.com/2016/03/28/planete-de-virus/) de Carl Zimmer, c'est génial !
+Lisez le livre [Planète de virus](/2016/03/28/planete-de-virus/) de Carl Zimmer, c'est génial !

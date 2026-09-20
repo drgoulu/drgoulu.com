@@ -21,6 +21,6 @@ Donc ce qui manque dans les films de zombie, c'est le sexe, si vous voulez une i
 
 Ou alors, si la sf vous motive plus que le X, je vous recommande celle là :
 
-[https://www.drgoulu.com/2011/08/...](https://www.drgoulu.com/2011/08/28/quel-trematode-a-infecte-meti/#.ZBiqc6Tfs0E)
+[https://www.drgoulu.com/2011/08/...](/2011/08/28/quel-trematode-a-infecte-meti/#.ZBiqc6Tfs0E)
 
 (ou vous trouverez des références à certains des parasites sus mentionnés)

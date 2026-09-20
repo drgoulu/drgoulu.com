@@ -32,8 +32,8 @@ En passant, l'utilisation des nombres premiers en cryptographie (voir [[2]](#HsY
 
 Notes de bas de page
 
-[[1]](#cite-Mipnr)[2019 passée au crible - Pourquoi Comment Combien](https://www.drgoulu.com/2019/01/06/2019-passee-au-crible/)
+[[1]](#cite-Mipnr)[2019 passée au crible - Pourquoi Comment Combien](/2019/01/06/2019-passee-au-crible/)
 
-[[2]](#cite-HsYRo)[Alice et Bob et les clés asymétriques - Pourquoi Comment Combien](https://www.drgoulu.com/2017/02/15/alice-et-bob-et-les-cles-asymetriques/)
+[[2]](#cite-HsYRo)[Alice et Bob et les clés asymétriques - Pourquoi Comment Combien](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/)
 
-[[3]](#cite-ADBLQ)[Comment trouver des nombres premiers - Pourquoi Comment Combien](https://www.drgoulu.com/2012/04/15/comment-produire-des-nombres-premiers/)
+[[3]](#cite-ADBLQ)[Comment trouver des nombres premiers - Pourquoi Comment Combien](/2012/04/15/comment-produire-des-nombres-premiers/)

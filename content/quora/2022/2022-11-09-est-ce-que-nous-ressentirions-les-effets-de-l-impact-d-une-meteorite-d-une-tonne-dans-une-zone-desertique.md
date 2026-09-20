@@ -35,4 +35,4 @@ Celles-ci sont beaucoup plus étendues que l'on croit : [La moitié de la popula
 
 Donc il faudrait vraiment beaucoup de malchance pour qu'une telle météorite détruise une maison (pas plus…), ou un sacré coup de chance pour qu'elle tombe assez près d'un sismographe pour qu'on puisse détecter sa chute.
 
-[https://www.drgoulu.com/2012/01/...](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/#.Y2wB4HZsOCo)
+[https://www.drgoulu.com/2012/01/...](/2012/01/28/risques-meteoritiques/#.Y2wB4HZsOCo)

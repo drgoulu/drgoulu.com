@@ -29,7 +29,7 @@ par contre l' [Ozone O3](w:Ozone) absorbe un peu dans l'infrarouge (pic à 10um 
 
 ![](./images/qimg-f1484309c68d335566ef5d223364ee75.jpg)
 
-[Climat : le graphique qui vaut 10000 mots - Pourquoi Comment Combien](https://www.drgoulu.com/2011/11/13/climat-le-graphique/)
+[Climat : le graphique qui vaut 10000 mots - Pourquoi Comment Combien](/2011/11/13/climat-le-graphique/)
 
 Notes de bas de page
 

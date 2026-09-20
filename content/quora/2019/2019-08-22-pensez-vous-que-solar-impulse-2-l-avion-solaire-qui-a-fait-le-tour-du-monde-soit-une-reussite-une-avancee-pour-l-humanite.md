@@ -28,4 +28,4 @@ C'est un planeur exceptionnel. Du point de vue propulsion:
 
 Donc oui c'est une réussite humaine et de la technologie, mais il ne faut pas compter dessus pour rendre le transport aérien non polluant. On a [d'autres solutions dans les cartons](w:Avion_à_propulsion_nucléaire).
 
-[Solar machins - Pourquoi Comment Combien](https://www.drgoulu.com/2010/09/30/solar-machins/)
+[Solar machins - Pourquoi Comment Combien](/2010/09/30/solar-machins/)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui, le [PIB par habitant](w:) est l'un des 4 facteurs de l'[Équation de Kaya](w:), au même titre que les 3 autres : l'[intensité énergétique](w:Intensité_énergétique_(économie)), le [contenu en CO2 de l'énergie](w:Contenu_CO2) consommée, et la population. (on peut remplacer "CO2" par n'importe quelle autre nuisance si on veut)
 
-[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
+[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)

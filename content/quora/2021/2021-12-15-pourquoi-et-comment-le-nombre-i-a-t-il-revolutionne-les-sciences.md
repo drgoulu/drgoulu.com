@@ -40,4 +40,4 @@ Notes de bas de page
 
 [[1]](#cite-HiYdY)[Ars Magna (Girolamo Cardano) — Wikipédia](w:Ars_Magna_(Girolamo_Cardano))
 
-[[2]](#cite-yxYry)[Succès hollywoodiens et transformée de Fourier - Pourquoi Comment Combien](https://www.drgoulu.com/2010/03/06/succes-hollywoodiens-et-transformee-de-fourier/)
+[[2]](#cite-yxYry)[Succès hollywoodiens et transformée de Fourier - Pourquoi Comment Combien](/2010/03/06/succes-hollywoodiens-et-transformee-de-fourier/)

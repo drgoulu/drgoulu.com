@@ -19,4 +19,4 @@ Mais si vous voulez vous familiariser avec des concepts réels, il faut faire at
 
 C'est le problème général de l'abstraction, qu'elle soit mathématique ou imaginaire : elle permet de faire de jolies "masturbations intellectuelles" , comme disait mon prof mentionné ici
 
-[https://drgoulu.com/2016/09/11/s...](https://drgoulu.com/2016/09/11/solutions-admissibles/)
+[https://drgoulu.com/2016/09/11/s...](/2016/09/11/solutions-admissibles/)

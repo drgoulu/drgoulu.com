@@ -27,4 +27,4 @@ Donc oui, j'ai une vision très différente de votre citation, et pas trop de ce
 
 Ma religiosité réside dans l'admiration extasiée de la nature. Mais je pense qu'on est de moins en moins nuls à la décrire par des lois humaines, et que si Albert vivait aujourd'hui il ne parlerait peut-être plus ni d'harmonie ni de "raison supérieure".
 
-[Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](https://www.drgoulu.com/2008/11/26/ce-queinstein-na-jamais-dit/#.X0bBK8iFqCo)
+[Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](/2008/11/26/ce-queinstein-na-jamais-dit/#.X0bBK8iFqCo)

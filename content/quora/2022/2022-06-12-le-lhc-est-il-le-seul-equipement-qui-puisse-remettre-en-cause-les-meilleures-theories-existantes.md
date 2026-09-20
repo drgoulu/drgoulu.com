@@ -37,7 +37,7 @@ N'importe quelle observation "anormale" de ces très nombreux instruments peut "
 
 Notes de bas de page
 
-[[1]](#cite-CwsSN)[Y'a-t-il des trous noirs dans la mer ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/10/05/ya-t-il-des-trous-noirs-dans-la-mer/)
+[[1]](#cite-CwsSN)[Y'a-t-il des trous noirs dans la mer ? - Pourquoi Comment Combien](/2013/10/05/ya-t-il-des-trous-noirs-dans-la-mer/)
 
 [[2]](#cite-BVCTC)[Neutrino — Wikipédia](w:Neutrino)
 

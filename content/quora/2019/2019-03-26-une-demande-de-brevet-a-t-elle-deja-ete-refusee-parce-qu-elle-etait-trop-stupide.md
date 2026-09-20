@@ -40,8 +40,8 @@ Mais dans ce cas c’est plutôt le critère de nouveauté qui pourrait être co
 
 Notes de bas de page
 
-[[1]](#cite-zHotx)[Initiation au Chindogu - Pourquoi Comment Combien](https://www.drgoulu.com/2009/12/24/initiation-au-chindogu/)
+[[1]](#cite-zHotx)[Initiation au Chindogu - Pourquoi Comment Combien](/2009/12/24/initiation-au-chindogu/)
 
-[[2]](#cite-hDtvC)[Combien pour ce brevet ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/08/combien-pour-ce-brevet/)
+[[2]](#cite-hDtvC)[Combien pour ce brevet ? - Pourquoi Comment Combien](/2009/03/08/combien-pour-ce-brevet/)
 
 [[3]](#cite-pCEfp)[https://www.tuv.com/media/german...](https://www.tuv.com/media/germany/50_trainingandconsulting/pdf/patente/Circular_transportation_facilitation_device.pdf)

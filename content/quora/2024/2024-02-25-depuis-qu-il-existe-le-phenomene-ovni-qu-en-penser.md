@@ -15,4 +15,4 @@ Que malgré la prolifération de cameras à haute résolution et d'instruments s
 
 Mais il y a toujours autant de petits malins qui vivent en écrivant des bouquins sur ce qu'on ne sait pas, voire en vendant des déchets industriels comme débris d'ovni…
 
-[https://drgoulu.com/2020/07/24/i...](https://drgoulu.com/2020/07/24/i-dont-want-to-believe/)
+[https://drgoulu.com/2020/07/24/i...](/2020/07/24/i-dont-want-to-believe/)

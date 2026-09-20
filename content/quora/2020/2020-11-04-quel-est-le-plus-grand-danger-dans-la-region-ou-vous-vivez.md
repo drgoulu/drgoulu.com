@@ -23,6 +23,6 @@ coverImage: ./images/quora.png
 
 Les maladies cardiovasculaires et les cancers, à peu près à égalité. ( voir [Causes de décès spécifiques](https://www.bfs.admin.ch/bfs/fr/home/statistiques/sante/etat-sante/mortalite-causes-deces/specifiques.html) sur le site de l'OFS)
 
-Mais je pense que vous vouliez parler de catastrophes naturelles susceptibles de causer beaucoup de morts et de dégâts. Alors ce sont probablement les [Ruptures de barrages](w:Rupture_de_barrage). Elles sont très rares, mais nous avons pas mal de barrages en région sismique (voir [Séismes et énergies - Pourquoi Comment Combien](https://www.drgoulu.com/2011/03/16/seismes-et-energies/#.X6LIgmgVOCo))
+Mais je pense que vous vouliez parler de catastrophes naturelles susceptibles de causer beaucoup de morts et de dégâts. Alors ce sont probablement les [Ruptures de barrages](w:Rupture_de_barrage). Elles sont très rares, mais nous avons pas mal de barrages en région sismique (voir [Séismes et énergies - Pourquoi Comment Combien](/2011/03/16/seismes-et-energies/#.X6LIgmgVOCo))
 
 Entre deux il y a les risques liés à la montagne : avalanches, mais aussi laves torrentielles et éboulements qui vont devenir plus fréquents avec le dégel du [Pergélisol](w:)en altitude.

@@ -17,4 +17,4 @@ Accessoirement certains ont une mémoire eidetique incroyable.
 
 [https://youtu.be/JkNV0rSndJ0](https://youtu.be/JkNV0rSndJ0)
 
-[https://www.drgoulu.com/2008/06/...](https://www.drgoulu.com/2008/06/04/memoire-eidetique/)
+[https://www.drgoulu.com/2008/06/...](/2008/06/04/memoire-eidetique/)

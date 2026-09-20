@@ -23,7 +23,7 @@ coverImage: ./images/qimg-46b7199589f5000bf1add161af5a773a.jpg
 
 Aucune créature ne subit la loi de l'évolution. Vous n'évoluez pas, votre chien n'évolue pas, la puce sur son dos n'évolue pas.
 
-Ce sont les **espèces**qui évoluent. [Ctenocephalides canis](w:) évolue pour résister aux insecticides que vous mettez sur votre [Canis lupus familiaris](w:Chien), qui évolue (surtout par sélection artificielle) pour être si mignon aux yeux des [Homo sapiens](w:), qui évoluent pour s'adapter à leur environnement de plus en plus étendu, par exemple [à la haute l'altitude.](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+Ce sont les **espèces**qui évoluent. [Ctenocephalides canis](w:) évolue pour résister aux insecticides que vous mettez sur votre [Canis lupus familiaris](w:Chien), qui évolue (surtout par sélection artificielle) pour être si mignon aux yeux des [Homo sapiens](w:), qui évoluent pour s'adapter à leur environnement de plus en plus étendu, par exemple [à la haute l'altitude.](/2014/08/17/ladaptation-a-laltitude/)
 
 Donc les individus, vous, votre chien, sa puce sont en effet le résultat de l'évolution, mais ils ne l'ont pas "subie", ils existent grâce à elle !
 

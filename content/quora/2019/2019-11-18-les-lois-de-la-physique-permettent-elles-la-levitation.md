@@ -39,4 +39,4 @@ Le matériau le plus diamagnétique à température ambiante est le carbone pyro
 
 Et il a une autre propriété incroyable que je vous laisse découvrir dans cet article:
 
-[Le carbone pyrolytique, c'est fantastique - Pourquoi Comment Combien](https://www.drgoulu.com/2014/03/15/le-carbone-pyrolytique-cest-fantastique/)
+[Le carbone pyrolytique, c'est fantastique - Pourquoi Comment Combien](/2014/03/15/le-carbone-pyrolytique-cest-fantastique/)

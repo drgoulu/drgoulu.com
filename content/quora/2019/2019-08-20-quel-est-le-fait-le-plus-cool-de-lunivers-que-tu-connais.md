@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Au sens propre : l'hélium superfluide, qui n'a jamais existé nulle part dans l'Univers, sauf dans les labos des êtres intelligents.
 
-[Plus froid que l’espace - Pourquoi Comment Combien](https://www.drgoulu.com/2007/05/09/plus-froid-que-lespace-2/)
+[Plus froid que l’espace - Pourquoi Comment Combien](/2007/05/09/plus-froid-que-lespace-2/)

@@ -29,4 +29,4 @@ Les réponses du genre "à nous protéger du vent solaire, nous montrer du même
 
 La science est purement causale : nous existons parce qu'il existe des tas de choses dont un champ magnétique, les tas de choses n'existent pas pour que nous existions.
 
-[Pourquoi / Pour Quoi ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/01/04/pourquoi-pour-quoi/)
+[Pourquoi / Pour Quoi ? - Pourquoi Comment Combien](/2009/01/04/pourquoi-pour-quoi/)

@@ -22,7 +22,7 @@ coverImage: ./images/quora.png
 
 Non, pas du tout. Il y a environ 35 [Attaques de requins](w:Attaque_de_requin)sur les hommes par année, avec moins de 4 morts par an en moyenne. La moitié des attaques concernent des surfeurs, probablement confondus avec des phoques, la nourriture préférée des requins blancs.
 
-En passant, la réponse à la question [Les requins sont-ils attirés par le sang ?](https://www.drgoulu.com/2014/04/19/les-requins-sont-ils-attires-par-le-sang/#.X71X2c0VOCo)est ça dépend. Sang de poisson : oui / sang humain : non. Et si vous avez des doutes, regardez l'émission des Mythbusters qui a vérifié.
+En passant, la réponse à la question [Les requins sont-ils attirés par le sang ?](/2014/04/19/les-requins-sont-ils-attires-par-le-sang/#.X71X2c0VOCo)est ça dépend. Sang de poisson : oui / sang humain : non. Et si vous avez des doutes, regardez l'émission des Mythbusters qui a vérifié.
 
 Mais je dois absolument répondre à une autre question :
 

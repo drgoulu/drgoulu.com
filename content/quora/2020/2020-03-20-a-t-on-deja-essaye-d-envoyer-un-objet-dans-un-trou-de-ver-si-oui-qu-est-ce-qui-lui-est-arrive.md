@@ -16,4 +16,4 @@ coverImage: ./images/quora.png
 
 "hypothétique", ça veut dire qu'on en a jamais vu la queue d'un. C'est pas parce que la racine carrée d'un nombre négatif de licornes carrées donne des licornes imaginaires que ces bestioles existent pour autant.
 
-[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/#.XnTS4IhsOCo)
+[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/#.XnTS4IhsOCo)

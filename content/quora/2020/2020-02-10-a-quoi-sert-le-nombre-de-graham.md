@@ -29,4 +29,4 @@ On ne connaît pas la solution de ce problème, mais [Ronald Graham](w:) a montr
 
 Depuis on a réduit le "majorant" pour le problème ci-dessus, mais d'autres problèmes comme le [Théorème de Kruskal](w:) ont nécessité d'utiliser des nombres encore plus grands.
 
-Sur les notations utilisées pour écrire ces nombres, voir [Très très très grands nombres - Pourquoi Comment Combien](https://www.drgoulu.com/2008/11/04/tres-tres-tres-grands-nombres/#.XkGZamhsOCo)
+Sur les notations utilisées pour écrire ces nombres, voir [Très très très grands nombres - Pourquoi Comment Combien](/2008/11/04/tres-tres-tres-grands-nombres/#.XkGZamhsOCo)

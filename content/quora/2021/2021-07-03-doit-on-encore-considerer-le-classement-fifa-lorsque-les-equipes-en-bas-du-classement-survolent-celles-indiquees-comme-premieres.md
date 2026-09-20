@@ -25,7 +25,7 @@ Le hasard joue un rôle très important au football.
 
 Dans le livre
 
-[https://www.drgoulu.com/2008/05/...](https://www.drgoulu.com/2008/05/09/la-science-du-football/)
+[https://www.drgoulu.com/2008/05/...](/2008/05/09/la-science-du-football/)
 
 l’auteur montre que dans le cas d’un score final de 1-0, il y a 33% de chances que le but de la victoire ait été marqué par l’équipe la plus faible. Si 2 buts sont marqués pendant le match, c’est dans 45% des cas un match nul (1-1) et dans 10% des cas l’équipe la plus faible parvientc à s’imposer 2-0 contre une équipe forte qui n’avait alors “que” 45% de chances de gagner le match.
 
@@ -33,4 +33,4 @@ Il faudrait qu’il y ait environ 10 buts par match pour que le risque de résul
 
 C'est totalement différent au tennis, où le système bizarre de comptage des points rend extrêmement peu probable la victoire d'un joueur 3% inférieur à l'autre.
 
-[https://www.drgoulu.com/2008/05/...](https://www.drgoulu.com/2008/05/12/le-comptage-des-points-au-tennis/)
+[https://www.drgoulu.com/2008/05/...](/2008/05/12/le-comptage-des-points-au-tennis/)

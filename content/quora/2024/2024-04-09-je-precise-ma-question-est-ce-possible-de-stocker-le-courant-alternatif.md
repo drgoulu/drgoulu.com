@@ -17,4 +17,4 @@ Continu non plus d'ailleurs, ou alors en toute petite quantité ((super) condens
 
 Le stockage d'électricité est indirect : on convertit l'énergie électrique en énergie mécanique, chimique et et vice-versa
 
-[https://drgoulu.com/2012/10/07/c...](https://drgoulu.com/2012/10/07/comment-stocker-lenergie/)
+[https://drgoulu.com/2012/10/07/c...](/2012/10/07/comment-stocker-lenergie/)

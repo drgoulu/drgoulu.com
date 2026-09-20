@@ -15,4 +15,4 @@ Peut-être… Dans ce cas on le remplacera par un autre métal comme l'aluminium
 
 Mais selon certaines études, on ne va pas en manquer car les réserves sont beaucoup plus grandes que celles comptabilisées.
 
-[Combien reste-t-il de ressources minières ? Beaucoup. - Pourquoi Comment Combien](https://www.drgoulu.com/2017/04/28/mythe-de-lepuisement-ressources-minieres/)
+[Combien reste-t-il de ressources minières ? Beaucoup. - Pourquoi Comment Combien](/2017/04/28/mythe-de-lepuisement-ressources-minieres/)

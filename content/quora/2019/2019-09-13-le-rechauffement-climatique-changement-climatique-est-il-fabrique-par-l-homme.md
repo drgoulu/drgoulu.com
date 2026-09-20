@@ -34,6 +34,6 @@ Des articles comme[[2]](#iZSns) montrent même que l'influence humaine sur le cl
 
 Notes de bas de page
 
-[[1]](#cite-MBNAU)[FAQ Réchauffement Global - Pourquoi Comment Combien](https://www.drgoulu.com/2007/05/23/faq-rechauffement-global/)
+[[1]](#cite-MBNAU)[FAQ Réchauffement Global - Pourquoi Comment Combien](/2007/05/23/faq-rechauffement-global/)
 
 [[2]](#cite-iZSns)[Separating Forced from Chaotic Climate Variability over the Past Millennium](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-12-00826.1)

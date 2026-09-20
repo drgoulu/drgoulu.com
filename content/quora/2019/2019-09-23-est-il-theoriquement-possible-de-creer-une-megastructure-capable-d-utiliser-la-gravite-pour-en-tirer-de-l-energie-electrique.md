@@ -17,4 +17,4 @@ La gravité ne fournit de l'énergie qu'une seule fois, après il faut remonter 
 
 Avec le barrage hydroélectrique, c'est l'énergie solaire qui remonte l'eau.
 
-[Dites NON au mouvement perpétuel - Pourquoi Comment Combien](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[Dites NON au mouvement perpétuel - Pourquoi Comment Combien](/2012/05/27/dites-non-au-mouvement-perpetuel/)

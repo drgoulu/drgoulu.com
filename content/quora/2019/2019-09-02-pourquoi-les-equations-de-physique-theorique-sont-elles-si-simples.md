@@ -37,4 +37,4 @@ Et ce n’est pas un cas unique. Même $E=mc^2$ est un raccourci de l’article 
 
 Avec le temps, on développe des formulations "simples" de phénomènes qui ne le sont pas du tout.
 
-(texte partiellement tiré de [Comment expliquer la relativité aux enfants - Pourquoi Comment Combien](https://www.drgoulu.com/2013/12/15/comment-expliquer-la-relativite-aux-enfants/) )
+(texte partiellement tiré de [Comment expliquer la relativité aux enfants - Pourquoi Comment Combien](/2013/12/15/comment-expliquer-la-relativite-aux-enfants/) )

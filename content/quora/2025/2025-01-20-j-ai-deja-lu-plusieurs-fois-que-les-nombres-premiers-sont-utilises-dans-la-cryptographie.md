@@ -15,6 +15,6 @@ L'idée de base est qu'il est facile de trouver deux grands nombres premiers et 
 
 J'explque le [Chiffrement RSA](w:)ici :
 
-[https://drgoulu.com/2017/02/15/a...](https://drgoulu.com/2017/02/15/alice-et-bob-et-les-cles-asymetriques/)
+[https://drgoulu.com/2017/02/15/a...](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/)
 
-et [Comment trouver des nombres premiers](https://drgoulu.com/2012/04/15/comment-produire-des-nombres-premiers/)là, puisqu'il peut paraître étonnant d'en obtenir sans essayer de les factoriser.
+et [Comment trouver des nombres premiers](/2012/04/15/comment-produire-des-nombres-premiers/)là, puisqu'il peut paraître étonnant d'en obtenir sans essayer de les factoriser.

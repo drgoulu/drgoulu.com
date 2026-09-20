@@ -19,4 +19,4 @@ De plus, les déserts sont des environnements magnifiques, avec des plantes et d
 
 Notes de bas de page
 
-[[1]](#cite-pbMdF)[On brulera vraiment tout - Pourquoi Comment Combien](https://www.drgoulu.com/2007/05/25/on-brulera-vraiment-tout/)
+[[1]](#cite-pbMdF)[On brulera vraiment tout - Pourquoi Comment Combien](/2007/05/25/on-brulera-vraiment-tout/)

@@ -25,7 +25,7 @@ Selon cet article[[1]](#mSaRt) , les rendements qu'on obtient actuellement dans 
 
 Dans l'eau douce, encore moins conductrice, c'est encore pire, et dans l'air, vous oubliez, il n'y a que les extraterrestres qui y arrivent, et ils ne disent pas comment ils font.
 
-[La route que nous n'avons pas prise - Pourquoi Comment Combien](https://www.drgoulu.com/2011/11/06/la-route-que-nous-navons-pas-prise/#.Xi2oZGhsOCo)
+[La route que nous n'avons pas prise - Pourquoi Comment Combien](/2011/11/06/la-route-que-nous-navons-pas-prise/#.Xi2oZGhsOCo)
 
 Notes de bas de page
 

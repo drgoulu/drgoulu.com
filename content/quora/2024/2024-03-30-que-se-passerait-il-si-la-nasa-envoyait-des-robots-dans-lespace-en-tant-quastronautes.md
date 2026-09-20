@@ -17,4 +17,4 @@ A l'exception des missions Apollo, les astronautes ont juste fait des ronds à 4
 
 A part quelques projets d'esbrouffe politicienne, toutes les missions scientifiques futures seront effectuées par des robots de plus en plus sophistiqués et autonomes.
 
-[https://drgoulu.com/2009/07/18/p...](https://drgoulu.com/2009/07/18/pour-quoi-retourner-sur-la-lune/)
+[https://drgoulu.com/2009/07/18/p...](/2009/07/18/pour-quoi-retourner-sur-la-lune/)

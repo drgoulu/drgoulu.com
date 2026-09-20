@@ -23,6 +23,6 @@ coverImage: ./images/quora.png
 
 L'avant dernier facteurs l'[Équation de Drake](w:), *fc,*la part des planètes hébergeant une vie intelligente qui sont capables et désireuses de communiquer.
 
-En fait, une civilisation réellement intelligente n'est pas désireuse de communiquer car elle sait que c'est extrêmement dangereux. Liu Cixin l'explique dans [La Forêt sombre](w:) bien mieux que moi dans le [Principe de Saturation Cubique](https://www.drgoulu.com/1999/10/24/psc).
+En fait, une civilisation réellement intelligente n'est pas désireuse de communiquer car elle sait que c'est extrêmement dangereux. Liu Cixin l'explique dans [La Forêt sombre](w:) bien mieux que moi dans le [Principe de Saturation Cubique](/1999/10/24/psc/).
 
-Cela dit, je pense que [Le Grand Filtre](https://www.drgoulu.com/2012/12/28/le-grand-filtre/)est devant nous : le voyage interstellaire est extraordinairement difficile, donc il n'y a probablement pas de raison d'avoir peur.
+Cela dit, je pense que [Le Grand Filtre](/2012/12/28/le-grand-filtre/)est devant nous : le voyage interstellaire est extraordinairement difficile, donc il n'y a probablement pas de raison d'avoir peur.

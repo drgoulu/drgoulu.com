@@ -38,7 +38,7 @@ Après, avec 1.5 millions on ne va pas loin dans ce domaine. Ca va juste finance
 
 Un cas similaire :
 
-[https://www.drgoulu.com/2009/09/...](https://www.drgoulu.com/2009/09/15/de-graetzel-aux-great-cells/)
+[https://www.drgoulu.com/2009/09/...](/2009/09/15/de-graetzel-aux-great-cells/)
 
 Notes de bas de page
 

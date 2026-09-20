@@ -25,7 +25,7 @@ La Chine, qui est partenaire d’ITER, vient d'établir un record de durée de p
 
 Un jour on y arrivera, mais il ne faut pas trop compter là dessus pour les prochains 50 ans. Et ça ne sera pas aussi propre qu'on l'imagine.
 
-[la fusion thermonucléaire - Pourquoi Comment Combien](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[la fusion thermonucléaire - Pourquoi Comment Combien](/2005/12/11/la-fusion-thermonucleaire/)
 
 Notes de bas de page
 

@@ -25,6 +25,6 @@ Premières secondes du premier cours de maths au lycée, 1978. Le prof entre en 
 
 Silence interloqué qu'il brise d'un "mais tout le monde m'appelle Zinzin."
 
-Je repense souvent à lui, qui m'a inspiré la [Chasse aux nombres acratopèges](https://www.drgoulu.com/2008/08/24/nombres-acratopeges/)qui a débouché sur ma seule découverte en mathématiques, [Le fossé de Sloane](https://www.drgoulu.com/2011/04/10/le-fosse-de-sloane/).
+Je repense souvent à lui, qui m'a inspiré la [Chasse aux nombres acratopèges](/2008/08/24/nombres-acratopeges/)qui a débouché sur ma seule découverte en mathématiques, [Le fossé de Sloane](/2011/04/10/le-fosse-de-sloane/).
 
 Merci Zinzin.

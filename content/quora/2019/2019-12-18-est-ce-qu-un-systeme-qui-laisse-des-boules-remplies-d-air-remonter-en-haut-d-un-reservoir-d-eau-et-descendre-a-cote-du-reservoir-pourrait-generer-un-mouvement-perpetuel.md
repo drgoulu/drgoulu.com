@@ -15,4 +15,4 @@ Aussi bien que celui-ci, qui est beaucoup plus simple :
 
 ![](./images/qimg-f35c052ca7594de248a468d1fac95dbf.jpg)
 
-[Dites NON au mouvement perpétuel](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/).
+[Dites NON au mouvement perpétuel](/2012/05/27/dites-non-au-mouvement-perpetuel/).

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Parce que c'est une vitesse infinie pour le mobile, vue d'un autre référentiel.
 
-[https://www.drgoulu.com/2004/08/...](https://www.drgoulu.com/2004/08/09/acceleration/)
+[https://www.drgoulu.com/2004/08/...](/2004/08/09/acceleration/)
 
 (la réponse d' [Yves Daigle](https://fr.quora.com/profile/Yves-Daigle) est un ramassis de conneries, mais puisqu'il m'a bloqué je ne peux plus le lui dire gentiment)

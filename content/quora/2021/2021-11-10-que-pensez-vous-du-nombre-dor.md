@@ -15,4 +15,4 @@ C'est un [nombre irrationnel](w:) parmi une infinité, même pas [transcendant](
 
 Un mythe autour de ce nombre a été [créé en grande partie au 19ème siècle](w:Nombre_d'or) par le philosophe allemand [Adolf Zeising](w:).
 
-[https://www.drgoulu.com/2016/07/...](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[https://www.drgoulu.com/2016/07/...](/2016/07/03/nombre-dor-et-abeilles/)

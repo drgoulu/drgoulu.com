@@ -25,7 +25,7 @@ D'abord, c'est pas absolument sur … A très petite échelle le [Principe holog
 
 Mais ok, à notre échelle, tout se passe comme si l'espace avait 3 dimensions. Plus une dimension de temps, qui est liée à l'espace comme les nombres imaginaires sont liés aux nombres réels, selon la [Métrique de Minkowski.](w:Métrique_de_Minkowski)
 
-Alors pourquoi pas 4 dimensions spatiales ou 2 dimensions temporelles ? [Pourquoi 3 dimensions + 1 temps ?](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+Alors pourquoi pas 4 dimensions spatiales ou 2 dimensions temporelles ? [Pourquoi 3 dimensions + 1 temps ?](/2011/01/30/pourquoi-3-dimensions-1-temps/)
 
 Parce que sinon on ne pourrait pas exister, comme l'explique [Max Tegmark](w:) dans un article passionnant[[2]](#WhyOl) illustré par cette figure:
 
@@ -39,6 +39,6 @@ Or justement cette prédictibilité n’apparaît que si les équations de champ
 
 Notes de bas de page
 
-[[1]](#cite-SvtvO)[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[[1]](#cite-SvtvO)[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)
 
 [[2]](#cite-WhyOl)[https://arxiv.org/PS_cache/gr-qc...](https://arxiv.org/PS_cache/gr-qc/pdf/9702/9702052v2.pdf)

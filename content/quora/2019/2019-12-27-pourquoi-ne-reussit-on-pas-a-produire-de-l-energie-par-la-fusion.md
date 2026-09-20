@@ -15,4 +15,4 @@ On y arrive très bien, dans une bombe H…
 
 Le problème est de produire la fusion de manière continue, dans un milieu stable. Dans les étoiles, c'est la pression qui rend probable la rencontre de deux protons. Sur Terre on a besoin de températures plus élevées que dans les étoiles, et de maintenir ce plasma confiné par une méthode différente de la gravitation
 
-[la fusion thermonucléaire - Pourquoi Comment Combien](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[la fusion thermonucléaire - Pourquoi Comment Combien](/2005/12/11/la-fusion-thermonucleaire/)

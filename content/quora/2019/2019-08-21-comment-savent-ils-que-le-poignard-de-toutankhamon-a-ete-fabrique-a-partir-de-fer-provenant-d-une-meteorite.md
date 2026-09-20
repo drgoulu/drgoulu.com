@@ -34,4 +34,4 @@ Notes de bas de page
 
 [[1]](#cite-gpkOV)[Poignard de Toutankhamon : il a été forgé dans un métal extraterrestre](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/poignard-de-toutankhamon-il-a-ete-forge-dans-un-metal-extraterrestre_101812)
 
-[[2]](#cite-MIQYP)[Namibie - Pourquoi Comment Combien](https://www.drgoulu.com/2010/08/28/namibie/)
+[[2]](#cite-MIQYP)[Namibie - Pourquoi Comment Combien](/2010/08/28/namibie/)

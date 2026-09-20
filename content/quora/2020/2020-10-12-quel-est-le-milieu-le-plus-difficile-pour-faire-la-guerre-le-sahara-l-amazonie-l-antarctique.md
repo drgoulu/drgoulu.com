@@ -15,4 +15,4 @@ Celui auquel vous n'êtes pas habitué.
 
 Je suis sur que Sun Tzu a au moins 10 phrases là dessus.
 
-[Et Sun Tzu ? - Pourquoi Comment Combien](https://www.drgoulu.com/2007/08/08/et-sun-tzu/)
+[Et Sun Tzu ? - Pourquoi Comment Combien](/2007/08/08/et-sun-tzu/)

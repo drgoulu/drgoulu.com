@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Et un footballeur ?
 
-[https://www.drgoulu.com/2013/10/...](https://www.drgoulu.com/2013/10/26/112-le-prix-du-talent/)
+[https://www.drgoulu.com/2013/10/...](/2013/10/26/112-le-prix-du-talent/)

@@ -19,4 +19,4 @@ Un photon n'a pas de [Temps propre](w:) : il va d'un bout de l'Univers à l'autr
 
 Et le passager d'un vaisseau spatial qui accélère indéfiniment aura aussi l'impression de dépasser la vitesse de la lumière dès qu'il atteindre 84% de c pour un observateur extérieur. Et il lui faudra une énergie infinie pour atteindre la vitesse de la lumière, qui est donc bien une vitesse infinie.
 
-[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](https://www.drgoulu.com/2004/08/09/acceleration/#.XzK3byiFqCo)
+[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](/2004/08/09/acceleration/#.XzK3byiFqCo)

@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Intrinsèquement lié à l ' "esprit" humain. Voir la brillante démonstration par le regretté Dan Dennett
 
-[https://drgoulu.com/2009/03/25/p...](https://drgoulu.com/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)
+[https://drgoulu.com/2009/03/25/p...](/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)
 
 Tous les animaux sont beaux vus par un spécimen de leur espèce de sexe opposé, même le
 

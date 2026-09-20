@@ -29,4 +29,4 @@ Un "colis" contient 50 kg de déchets HALV, et d'après [Uranium Radiation Indiv
 
 400 fois plus que ça, c'est 800 µSv/h, donc 7 Sv/année.
 
-[Bure, plongée dans l'éternité - Pourquoi Comment Combien](https://www.drgoulu.com/2014/05/24/bure-pour-leternite/#.X5V0nNAVOCo)
+[Bure, plongée dans l'éternité - Pourquoi Comment Combien](/2014/05/24/bure-pour-leternite/#.X5V0nNAVOCo)

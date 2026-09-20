@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 en retapant des programmes BASIC publiés dans des journaux comme [L'Ordinateur individuel](w:) sur mon Commodore PET 2001, puis en les améliorant.
 
-Je raconte ça ici : [les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](https://www.drgoulu.com/2010/12/03/les-decorateurs-python/#.Xnu80IhsOCo)
+Je raconte ça ici : [les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](/2010/12/03/les-decorateurs-python/#.Xnu80IhsOCo)

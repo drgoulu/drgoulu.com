@@ -34,4 +34,4 @@ Mais il n'y a pas besoin:
 
 Donc oui, on peut breveter une idée d'invention
 
-[Combien pour ce brevet ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/08/combien-pour-ce-brevet/#.Xs9GNTqiGCo)
+[Combien pour ce brevet ? - Pourquoi Comment Combien](/2009/03/08/combien-pour-ce-brevet/#.Xs9GNTqiGCo)

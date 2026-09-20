@@ -27,4 +27,4 @@ parce qu'il n'est pas "poussé" par le vent (sauf au vent arrière), mais aspir�
 
 Mais le plus extraordinaire est quand même d'aller plus vite que le vent au vent arrière. Ce n'est possible qu'avec un char à voiles.
 
-[Encore plus vite que le vent - Pourquoi Comment Combien](https://www.drgoulu.com/2012/12/16/encoreplus-vite-que-le-vent/#.X805jdgVOCo)
+[Encore plus vite que le vent - Pourquoi Comment Combien](/2012/12/16/encoreplus-vite-que-le-vent/#.X805jdgVOCo)

@@ -32,6 +32,6 @@ Et on peut procéder de même pour n'importe quelle suite à ma connaissance.
 
 Par exemple pour la suite de Fibonacci, c'est la :
 
-[Comment calculer le 10'000'000'000'000'000'000 ème terme de la suite de Fibonacci - Pourquoi Comment Combien](https://www.drgoulu.com/2017/04/25/comment-calculer-le-1e19-eme-terme-de-la-suite-de-fibonacci/#.ZG5-z3a-g0E)
+[Comment calculer le 10'000'000'000'000'000'000 ème terme de la suite de Fibonacci - Pourquoi Comment Combien](/2017/04/25/comment-calculer-le-1e19-eme-terme-de-la-suite-de-fibonacci/#.ZG5-z3a-g0E)
 
 Il y en a d'autres plus délicates, par exemple la suite des décimales de pi. Pas évident d'obtenir la I-ème décimale sans calculer toutes les précédentes, mais pas impossible.

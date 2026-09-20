@@ -23,4 +23,4 @@ Vérifiez sur votre calculatrice , ou même sur Google:
 
 4472^12 = 6.3976656e+43 aussi !
 
-[20 ans de Science Simpson - Pourquoi Comment Combien](https://www.drgoulu.com/2010/03/08/20-ans-de-science-simpson/)
+[20 ans de Science Simpson - Pourquoi Comment Combien](/2010/03/08/20-ans-de-science-simpson/)

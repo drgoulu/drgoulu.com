@@ -17,4 +17,4 @@ Pour aller vite dans l'espace, il vaut mieux exercer une petite poussée pendant
 
 Si on arrivait à faire les deux, on pourrait aller très loin, très vite, très confortablement
 
-[https://drgoulu.com/2004/08/09/a...](https://drgoulu.com/2004/08/09/acceleration/)
+[https://drgoulu.com/2004/08/09/a...](/2004/08/09/acceleration/)

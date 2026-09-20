@@ -26,7 +26,7 @@ Elles sont toujours là, elles décroissent exponentiellement :
 
 48h après l’explosion, elles étaient déjà 100 fois plus faibles qu’après une heure, mais les 10 r/hr (je pense que ce sont des [Röntgen equivalent man](w:) par heure) étaient encore une dose très dangereuse (équivalente à 100 mSv/h)
 
-Aujourd’hui les isotopes à longue demi-vie produits lors de cette tragédie continuent à se désintégrer, atome par atome, mais le niveau est si faible qu’il est indiscernable[[1]](#ZlhEW) de [La radioactivité naturelle - Pourquoi Comment Combien](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/).
+Aujourd’hui les isotopes à longue demi-vie produits lors de cette tragédie continuent à se désintégrer, atome par atome, mais le niveau est si faible qu’il est indiscernable[[1]](#ZlhEW) de [La radioactivité naturelle - Pourquoi Comment Combien](/2013/11/03/la-radioactivite-naturelle/).
 
 Notes de bas de page
 

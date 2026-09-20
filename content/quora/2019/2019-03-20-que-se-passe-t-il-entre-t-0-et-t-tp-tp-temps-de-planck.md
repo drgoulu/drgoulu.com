@@ -33,4 +33,4 @@ Donc il n’y a peut-être jamais eu de t=0, ni d’énergie supérieure à cell
 
 Notes de bas de page
 
-[[1]](#cite-AoiOB)[La Nature du Temps - Pourquoi Comment Combien](https://www.drgoulu.com/2008/12/24/la-nature-du-temps-2/)
+[[1]](#cite-AoiOB)[La Nature du Temps - Pourquoi Comment Combien](/2008/12/24/la-nature-du-temps-2/)

@@ -37,4 +37,4 @@ Le photon se fiche totalement de notre philosophie. Il lie "instantanément" deu
 
 D'ailleurs en vertu de la [Symétrie CPT](w:) ça pourrait tout aussi bien être un antiphoton remontant le temps …
 
-voir [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/04/miroir/)
+voir [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/)

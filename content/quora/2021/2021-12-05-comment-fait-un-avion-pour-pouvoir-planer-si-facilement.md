@@ -15,4 +15,4 @@ Un avion est un planeur avec un ou plusieurs moteurs.
 
 Les avions de ligne planent aussi bien que des planeurs des années 1950. Beaucoup plus vite, mais tout aussi bien.
 
-[https://www.drgoulu.com/2009/01/...](https://www.drgoulu.com/2009/01/25/un-jet-gros-porteur-sachant-planer/)
+[https://www.drgoulu.com/2009/01/...](/2009/01/25/un-jet-gros-porteur-sachant-planer/)

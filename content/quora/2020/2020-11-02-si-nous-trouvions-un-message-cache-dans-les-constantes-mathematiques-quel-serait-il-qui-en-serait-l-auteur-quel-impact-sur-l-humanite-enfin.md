@@ -22,7 +22,7 @@ coverImage: ./images/quora.png
 
 Vous pouvez trouver n'importe quel message dans les décimales de pi ou de e. Il suffit de fabriquer la clé correspondante
 
-Voir [Pi code: an encryption scheme](https://dellsystem.me/posts/pi-code) ou [Alice, Bob et le coffre de XOR - Pourquoi Comment Combien](https://www.drgoulu.com/2013/03/09/alice-bob-coffre-xor/)
+Voir [Pi code: an encryption scheme](https://dellsystem.me/posts/pi-code) ou [Alice, Bob et le coffre de XOR - Pourquoi Comment Combien](/2013/03/09/alice-bob-coffre-xor/)
 
 Vous pouvez aussi fabriquer une constante mathématique comme ça. Il y en a une infinité, ça vous laisse un choix abondant.
 

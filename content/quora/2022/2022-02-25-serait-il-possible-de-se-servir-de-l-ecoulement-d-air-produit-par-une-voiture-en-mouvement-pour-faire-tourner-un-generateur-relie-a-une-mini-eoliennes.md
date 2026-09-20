@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non. L augmentation de la traînée aérodynamique causée par l'éolienne demandera nettement plus d'énergie pour faire avancer la voiture que ce que vous récupérerez.
 
-[https://www.drgoulu.com/2012/05/...](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[https://www.drgoulu.com/2012/05/...](/2012/05/27/dites-non-au-mouvement-perpetuel/)

@@ -19,4 +19,4 @@ L'industrie gazière nous a fourni 200 millions de m³ d’hélium chaque année
 
 Donc oui, l'hélium assez bon marché pour gonfler des ballons aux anniversaires sera [tôt ou tard](w:Hélium) épuisé. Mais on pourra toujours en obtenir quelques milliers de m³ beaucoup plus cher, par liquéfaction de l'air par exemple, en attendant d'aller en chercher dans l'[Atmosphère d'Uranus](w:), constituée à 15% d'hélium.
 
-[https://www.drgoulu.com/2010/07/...](https://www.drgoulu.com/2010/07/04/combien-dhelium/#.Y4kBLXZsOCo)
+[https://www.drgoulu.com/2010/07/...](/2010/07/04/combien-dhelium/#.Y4kBLXZsOCo)

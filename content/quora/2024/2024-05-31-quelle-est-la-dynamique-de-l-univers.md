@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Je ne sais pas si on peut utiliser ce mot à propos de l'univers. "dynamique" est relatif au mouvement, donc au temps, mais le temps fait partie de l'univers, donc "dynamique de l'univers" c'est un peu le serpent qui se mord la queue.
 
-Il y a un chapitre du livre "[La Renaissance du Temps](https://drgoulu.com/2015/01/28/la-renaissance-du-temps/)" qui m'a fait beaucoup réfléchir c'est le chapitre 4
+Il y a un chapitre du livre "[La Renaissance du Temps](/2015/01/28/la-renaissance-du-temps/)" qui m'a fait beaucoup réfléchir c'est le chapitre 4
 
 > **Faire de la physique dans une boîte**
 >

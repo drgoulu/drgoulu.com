@@ -24,4 +24,4 @@ Oui mais pas très pratique car il faut un nombre de symboles variable, donc un 
 
 La [première image du message "Cosmic call"](https://www.flickr.com/photos/goulu/6178212046/in/album-72157627617474131/)envoyé aux extraterrestres utilisé le unaire pour définir le binaire et le décimal utilisés dans le reste du message
 
-[Comment comptent les Extraterrestres - Pourquoi Comment Combien](https://www.drgoulu.com/2011/09/25/comment-comptent-les-extraterrestres/)
+[Comment comptent les Extraterrestres - Pourquoi Comment Combien](/2011/09/25/comment-comptent-les-extraterrestres/)

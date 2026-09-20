@@ -26,6 +26,6 @@ Non, un doctorat indique qu'on a fait (un peu) de la recherche dans un domaine.
 
 Actuellement, les sujets de thèse de doctorat sont si pointus qu'effectivement, au moment de sa soutenance et peut-être pour quelques mois un doctorant fait partie de la poignée d'experts de son domaine très spécifique.
 
-Richard Feynman était assez critique avec les "experts". Le titre de sa conférence "[La science est la croyance en l'ignorance des experts](https://drgoulu.com/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)" m'avait intrigué au point que je l'ai traduite en français.
+Richard Feynman était assez critique avec les "experts". Le titre de sa conférence "[La science est la croyance en l'ignorance des experts](/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)" m'avait intrigué au point que je l'ai traduite en français.
 
 Le paragraphe sur la distinction entre science et expertise me semble très important.

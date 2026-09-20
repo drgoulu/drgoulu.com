@@ -26,6 +26,6 @@ voir :
 
 ça ressemble beaucoup l'histoire des [Cellule solaire à pigment photosensible](w:) dont je cause dans
 
-[https://www.drgoulu.com/2009/09/...](https://www.drgoulu.com/2009/09/15/de-graetzel-aux-great-cells/)
+[https://www.drgoulu.com/2009/09/...](/2009/09/15/de-graetzel-aux-great-cells/)
 
 : pour passer d'une invention qui marche bien en labo à une production industrielle à grande échelle, il y a un tas de problèmes à résoudre. Et pendant qu'on les résout, la technologie dominante progresse aussi, mais avec des moyens énormes puisqu'elle est rentable, elle ..

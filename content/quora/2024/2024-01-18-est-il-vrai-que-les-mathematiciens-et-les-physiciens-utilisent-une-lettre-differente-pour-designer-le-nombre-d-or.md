@@ -15,4 +15,4 @@ Ni les mathématiciens ni les physiciens ne sacrifient une précieuse lettre pou
 
 Les mystiques l'appellent phi ($\phi$ ou $\Phi$)
 
-[https://www.drgoulu.com/2016/07/...](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[https://www.drgoulu.com/2016/07/...](/2016/07/03/nombre-dor-et-abeilles/)

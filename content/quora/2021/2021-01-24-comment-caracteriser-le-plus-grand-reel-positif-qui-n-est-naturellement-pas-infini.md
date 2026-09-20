@@ -24,8 +24,8 @@ Grâce à mon génial prof de maths Zinzin qui comptait " 0, 1, e, pi, 1548, bea
 
 Ca me parait suffisamment clair, et moins perturbant que l'infini : combien y-a-t 'il de photons dans l'Univers ? Beaucoup. Quel est le rayon de l'Univers observable en longueurs de Planck ? Beaucoup.
 
-Sinon il y a des notations spécialement adaptées à l'écriture de nombres contenant beaucoup de chiffres, donc encore plus grands que beaucoup, voir [Très très très grands nombres - Pourquoi Comment Combien](https://www.drgoulu.com/2008/11/04/tres-tres-tres-grands-nombres/#.YA5sKehsOCo)
+Sinon il y a des notations spécialement adaptées à l'écriture de nombres contenant beaucoup de chiffres, donc encore plus grands que beaucoup, voir [Très très très grands nombres - Pourquoi Comment Combien](/2008/11/04/tres-tres-tres-grands-nombres/#.YA5sKehsOCo)
 
 Notes de bas de page
 
-[[1]](#cite-kGirC)[Chasse aux nombres acratopèges - Pourquoi Comment Combien](https://www.drgoulu.com/2008/08/24/nombres-acratopeges/#.YA5rkuhsOCo)
+[[1]](#cite-kGirC)[Chasse aux nombres acratopèges - Pourquoi Comment Combien](/2008/08/24/nombres-acratopeges/#.YA5rkuhsOCo)

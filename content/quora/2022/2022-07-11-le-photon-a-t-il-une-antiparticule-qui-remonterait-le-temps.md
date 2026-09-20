@@ -31,4 +31,4 @@ Evidemment, si vous voyez une molécule de chlorophylle émettre un photon qui v
 
 ![](./images/qimg-b0c63ae83e018da268ade53d049de017.png)
 
-[https://www.drgoulu.com/2009/04/...](https://www.drgoulu.com/2009/04/04/miroir/)
+[https://www.drgoulu.com/2009/04/...](/2009/04/04/miroir/)

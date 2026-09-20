@@ -21,4 +21,4 @@ Notes de bas de page
 
 [[1]](#cite-pRUAr)["Rivalité Euro/Yuan/Dollar : la nouvelle guerre des monnaies" - Fondation Prospective et Innovation](https://prospective-innovation.org/conferences/rivalite-euro-yuan-dollar-la-nouvelle-guerre-des-monnaies/)
 
-[[2]](#cite-DrgYG)[Combien vaut 1 franc ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/03/combien-vaut-1-franc/#.Y_EG2XZsOCo)
+[[2]](#cite-DrgYG)[Combien vaut 1 franc ? - Pourquoi Comment Combien](/2009/04/03/combien-vaut-1-franc/#.Y_EG2XZsOCo)

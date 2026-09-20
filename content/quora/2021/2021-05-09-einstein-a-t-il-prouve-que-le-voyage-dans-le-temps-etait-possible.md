@@ -29,4 +29,4 @@ Depuis, on a découvert que des [Courbe fermée de type temps](w:)pourraient exi
 
 Donc aujourd'hui, on ne peut pas exclure que le "voyage dans le temps" soit possible, du moins pour des particules. Je trouve qu'on devrait vraiment essayer. Il existe déjà des expériences qui font réfléchir, par exemple
 
-[https://www.drgoulu.com/2013/12/...](https://www.drgoulu.com/2013/12/04/le-passe-des-photons/)
+[https://www.drgoulu.com/2013/12/...](/2013/12/04/le-passe-des-photons/)

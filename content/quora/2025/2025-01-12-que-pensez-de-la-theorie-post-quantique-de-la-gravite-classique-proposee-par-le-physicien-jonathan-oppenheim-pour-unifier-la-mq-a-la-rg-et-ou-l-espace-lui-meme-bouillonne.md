@@ -17,4 +17,4 @@ Or je n'ai pas trouvé trace de prédictions concernant des expériences qui val
 
 Sans expérience, la physique théorique est une sorte de poésie mathématique, il faut juste que ça rime.
 
-[https://drgoulu.com/2008/08/23/s...](https://drgoulu.com/2008/08/23/suites-courbes-et-theories/)
+[https://drgoulu.com/2008/08/23/s...](/2008/08/23/suites-courbes-et-theories/)

@@ -44,4 +44,4 @@ Notes de bas de page
 
 [[1]](#cite-YzvbS)[Ce que Darwin n'a pas dit - Pourquoi Comment Combien](https://www.drgoulu.com/2009/01/24/ce-que-darwin-na-pas-dit/)
 
-[[2]](#cite-PhEbh)[Pourquoi on aime le joli, le sexy, le sucré et le drôle - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)
+[[2]](#cite-PhEbh)[Pourquoi on aime le joli, le sexy, le sucré et le drôle - Pourquoi Comment Combien](/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)

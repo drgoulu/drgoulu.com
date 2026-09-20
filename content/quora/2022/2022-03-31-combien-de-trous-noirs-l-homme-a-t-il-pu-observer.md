@@ -40,11 +40,11 @@ Pour revenir aux disques d'accrétion, en fait ils sont tellement chauds qu'ils 
 
 ![](./images/qimg-69c762c2c93d99abd179cf1a7d3abb83.jpg)
 
-La Lune sert à donner l'échelle de l'image, et chaque point (il y en a environ 1300) est une source de rayons X. Or les seules sources possibles de rayons X dans l'univers sont des trous noirs, ou à la rigueur des [Binaires X](w:Binaire_X), où une étoile se fait avaler par une étoile à neutrons. Il y en a peut être quelques unes dans cette image, mais comme beaucoup de points coïncident avec des galaxies, ce qu'on voit c'est surtout des [Trou noir supermassif](w:)centraux de galaxies. [C’est plein de Trous Noirs !](https://www.drgoulu.com/2007/03/13/cest-plein-de-trous-noirs/)
+La Lune sert à donner l'échelle de l'image, et chaque point (il y en a environ 1300) est une source de rayons X. Or les seules sources possibles de rayons X dans l'univers sont des trous noirs, ou à la rigueur des [Binaires X](w:Binaire_X), où une étoile se fait avaler par une étoile à neutrons. Il y en a peut être quelques unes dans cette image, mais comme beaucoup de points coïncident avec des galaxies, ce qu'on voit c'est surtout des [Trou noir supermassif](w:)centraux de galaxies. [C’est plein de Trous Noirs !](/2007/03/13/cest-plein-de-trous-noirs/)
 
 En examinant le spectre de certains de ces objets, on a même été capables de mesurer
 
-[https://www.drgoulu.com/2016/07/...](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[https://www.drgoulu.com/2016/07/...](/2016/07/10/combien-tourne-un-trou-noir/)
 
 et ça correspond exactement aux prédictions théoriques.
 

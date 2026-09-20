@@ -17,7 +17,7 @@ coverImage: ./images/quora.png
 >
 > (Robert Beverley MacKenzie, 1868)
 
-[Daniel Dennett](w:) commence sa présentation au TED intitulée [Pourquoi on aime le joli, le sexy, le sucré et le drôle](https://www.drgoulu.com/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)avec cette citation d'un opposant de Darwin célèbre à l'époque, et la termine en disant:
+[Daniel Dennett](w:) commence sa présentation au TED intitulée [Pourquoi on aime le joli, le sexy, le sucré et le drôle](/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)avec cette citation d'un opposant de Darwin célèbre à l'époque, et la termine en disant:
 
 > Exactement ! Exactement !
 

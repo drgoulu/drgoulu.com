@@ -46,4 +46,4 @@ MyClass.staticmethod(); # appelle directement la méthode statique
 
 les décorateurs, c’est absolument génialement fabuleusement puissant et simple
 
-[les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](https://www.drgoulu.com/2010/12/03/les-decorateurs-python/)
+[les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](/2010/12/03/les-decorateurs-python/)

@@ -25,7 +25,7 @@ coverImage: ./images/qimg-ac1600d9eeb7dfef5d2f89d819cba910.jpg
 
 On voit que les rendements n'augmentent pas "régulièrement" mais plutôt par bonds technologiques (les couleurs)
 
-(Attention aussi : les mesures en laboratoire donnent des résultats meilleurs que dans les conditions d'utilisation réelles : [Comment on mesure le rendement des cellules solaires - Pourquoi Comment Combien](https://www.drgoulu.com/2010/05/09/comment-on-mesure-le-rendement-des-cellules-solaires/))
+(Attention aussi : les mesures en laboratoire donnent des résultats meilleurs que dans les conditions d'utilisation réelles : [Comment on mesure le rendement des cellules solaires - Pourquoi Comment Combien](/2010/05/09/comment-on-mesure-le-rendement-des-cellules-solaires/))
 
 Actuellement, les meilleures [cellules photovoltaïques multijonction](w:Cellule_photovoltaïque) frisent les 48% mais elles sont extrêmement chères, réservées au spatial pour l'instant.
 

@@ -28,6 +28,6 @@ Vérifier que de très grands nombres d'une forme particulière (Mersenne, Sophi
 
 Générer des nombres premiers d'une taille donnée utiles pour la cryptographie est ultra rapide.
 
-[https://www.drgoulu.com/2012/04/...](https://www.drgoulu.com/2012/04/15/comment-produire-des-nombres-premiers/#.ZDV-PqS-g0E)
+[https://www.drgoulu.com/2012/04/...](/2012/04/15/comment-produire-des-nombres-premiers/#.ZDV-PqS-g0E)
 
 Donc vos algorithmes n'ont très probablement que peu d'intérêt, hélas.

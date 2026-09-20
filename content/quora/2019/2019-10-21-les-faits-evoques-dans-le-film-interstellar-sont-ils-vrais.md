@@ -15,4 +15,4 @@ Dans science-fiction il y a [Fiction](w:), donc les faits sont imaginaires.
 
 Et dans interstellar, il y a très peu de science, hélas.
 
-[Interstellar - Pourquoi Comment Combien](https://www.drgoulu.com/2014/11/29/interstellar/#.Xa3KgkaiGCo)
+[Interstellar - Pourquoi Comment Combien](/2014/11/29/interstellar/#.Xa3KgkaiGCo)

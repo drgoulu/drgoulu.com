@@ -19,7 +19,7 @@ L'effet de serre s'ajoute à ça, et oui, en augmentant l'effet de serre on augm
 
 La planète atteint donc un nouvel équilibre, à une température plus élevée.
 
-[https://www.drgoulu.com/2011/11/...](https://www.drgoulu.com/2011/11/13/climat-le-graphique/)
+[https://www.drgoulu.com/2011/11/...](/2011/11/13/climat-le-graphique/)
 
 Notes de bas de page
 

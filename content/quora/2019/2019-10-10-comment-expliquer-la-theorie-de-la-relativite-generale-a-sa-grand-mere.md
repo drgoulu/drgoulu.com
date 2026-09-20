@@ -69,4 +69,4 @@ Albert a déduit tout ça théoriquement juste de ses postulats et du principe d
 
 Ca a encore marché : penser à ce coup de génie pur m'a fait oublier mes douleurs de quinqua…
 
-[Comment expliquer la relativité aux enfants - Pourquoi Comment Combien](https://www.drgoulu.com/2013/12/15/comment-expliquer-la-relativite-aux-enfants/)
+[Comment expliquer la relativité aux enfants - Pourquoi Comment Combien](/2013/12/15/comment-expliquer-la-relativite-aux-enfants/)

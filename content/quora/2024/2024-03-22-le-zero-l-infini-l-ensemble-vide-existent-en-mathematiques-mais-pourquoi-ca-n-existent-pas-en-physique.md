@@ -27,4 +27,4 @@ Et aussi de décrire un peu le notre. Et dans le notre il n'y a en effet ni ense
 
 Pour le zéro, on pourrait discuter, voir [Univers à énergie nulle — Wikipédia](w:Univers_à_énergie_nulle) par exemple.
 
-[https://drgoulu.com/2016/09/11/s...](https://drgoulu.com/2016/09/11/solutions-admissibles/)
+[https://drgoulu.com/2016/09/11/s...](/2016/09/11/solutions-admissibles/)

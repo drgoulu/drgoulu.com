@@ -32,4 +32,4 @@ En passant, 1kg de méthane contient 50 MJ d'énergie, mais l'hydrogène qu'on e
 
 Comme me l'expliquait un pote qui a pas mal étudié les [Pile à combustible à oxyde solide](w:), elles marchent à l'hydrogène seulement parce qu'on a pas réussi à bien les faire marcher au gaz naturel …
 
-[L’Hydrogène, énergie du futur ? - Pourquoi Comment Combien](https://www.drgoulu.com/2007/09/06/lhydrogene-energie-du-futur/#.X_h-cugVOCo)
+[L’Hydrogène, énergie du futur ? - Pourquoi Comment Combien](/2007/09/06/lhydrogene-energie-du-futur/#.X_h-cugVOCo)

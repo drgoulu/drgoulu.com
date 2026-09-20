@@ -28,4 +28,4 @@ Tous ces objets ont donc un score (PS) sur l'[Échelle de Palerme](w:) entre-3 e
 
 A plus long terme, aucun moyen de le savoir mais il ne fait aucun doute que la Terre subira un impact majeur un de ces x millions d'années.
 
-[Risques météoritiques - Pourquoi Comment Combien](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/)
+[Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)

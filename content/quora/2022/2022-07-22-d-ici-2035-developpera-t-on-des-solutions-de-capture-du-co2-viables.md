@@ -17,4 +17,4 @@ L'autre moyen serait de favoriser la pousse du corail. Peut-être en plantant de
 
 Pour les méthodes artificielles, j'ai de gros doutes.
 
-[https://www.drgoulu.com/2008/08/...](https://www.drgoulu.com/2008/08/01/stockage-du-co2-reve-et-realite/#.YtuYXqS-g0E)
+[https://www.drgoulu.com/2008/08/...](/2008/08/01/stockage-du-co2-reve-et-realite/#.YtuYXqS-g0E)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ça marche par effet placebo, donc ça marche mal sur soi. Essayez sur votre enfant ou un ami qui s'est fait mal. Dites lui que vous avez un super antidouleur et donnez-lui un bonbon, de préférence rouge (oui la couleur des placebo a une influence !)
 
-[https://www.drgoulu.com/2009/05/...](https://www.drgoulu.com/2009/05/21/placebo-et-nocebo/#.Yerp7lPfs0E)
+[https://www.drgoulu.com/2009/05/...](/2009/05/21/placebo-et-nocebo/#.Yerp7lPfs0E)

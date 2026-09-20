@@ -27,7 +27,7 @@ La théorie montre que tout se passe comme si un trou noir en rotation, appelé 
 
 Il se trouve qu'on a désormais des moyens de mesurer la vitesse de rotation des trous noirs, et qu'ils tournent tous juste en dessous de la vitesse limite. Le record est de 1100 tours par seconde pour [GRS 1915+105](w:), qui a une masse 14 fois celle du Soleil…
 
-[https://drgoulu.com/2016/07/10/c...](https://drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[https://drgoulu.com/2016/07/10/c...](/2016/07/10/combien-tourne-un-trou-noir/)
 
 Notes de bas de page
 

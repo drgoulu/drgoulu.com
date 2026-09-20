@@ -19,7 +19,7 @@ Dans votre exemple, vous négligez toutes les pertes qui font que le rendement d
 
 En plus un système "perpétuel" qui tournerait en rond comme la Lune autour de la Terre par exemple, ça me sert à rien. Les adeptes du mouvement perpétuel espèrent extraire de l'énergie "libre" du bidule. Et ça, c'est la définition même de l'énergie qui dit que ce n'est pas possible.
 
-[https://www.drgoulu.com/2012/05/...](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[https://www.drgoulu.com/2012/05/...](/2012/05/27/dites-non-au-mouvement-perpetuel/)
 
 Remarquez que bizarrement, personne n'essaie de détruire l'énergie d'un système. Pourtant ça serait vachement utile de faire un frein qui ne chauffe pas, ou une résistance de dissipation qui détruit un courant électrique sans chauffer. Intel paierait des milliards pour ça !
 

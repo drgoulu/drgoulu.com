@@ -15,4 +15,4 @@ C'est l'idée des [Trous de ver](w:Trou_de_ver).
 
 Yapluka en trouver, sinon ça reste de la SF, ou des maths.
 
-[https://drgoulu.com/2016/09/11/s...](https://drgoulu.com/2016/09/11/solutions-admissibles/)
+[https://drgoulu.com/2016/09/11/s...](/2016/09/11/solutions-admissibles/)

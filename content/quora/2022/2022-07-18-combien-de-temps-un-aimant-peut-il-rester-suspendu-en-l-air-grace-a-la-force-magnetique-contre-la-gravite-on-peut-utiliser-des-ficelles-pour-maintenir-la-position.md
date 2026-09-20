@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Indéfiniment. Un aimant n'a pas besoin de plus d'énergie pour rester en lévitation qu'un paquet de sucre pour ne pas passer à travers une table.
 
-[https://www.drgoulu.com/2012/05/...](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[https://www.drgoulu.com/2012/05/...](/2012/05/27/dites-non-au-mouvement-perpetuel/)

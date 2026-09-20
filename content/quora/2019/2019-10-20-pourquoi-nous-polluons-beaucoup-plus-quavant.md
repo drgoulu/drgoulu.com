@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 1. Parce que nous sommes plus nombreux
 2. Parce que nous sommes plus riches
 
-[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
+[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)

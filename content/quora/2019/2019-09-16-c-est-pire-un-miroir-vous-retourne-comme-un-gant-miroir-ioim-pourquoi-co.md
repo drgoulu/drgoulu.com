@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 C'est pire : un miroir vous retourne comme un gant!
 
-[MIROIR | ЯIOЯIM - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/04/miroir/)
+[MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/)

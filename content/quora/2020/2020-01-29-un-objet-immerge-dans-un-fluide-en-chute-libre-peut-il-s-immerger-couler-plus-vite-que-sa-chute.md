@@ -27,6 +27,6 @@ une chaîne bien conçue peut tomber en se faisant tirer vers le bas par l'impac
 
 [https://www.youtube.com/watch?v=...](https://www.youtube.com/watch?v=i9gLi4pBgpk&feature=emb_logo)
 
-[Comment tomber plus vite que la gravité - Pourquoi Comment Combien](https://www.drgoulu.com/2013/04/20/comment-tomber-plus-vite-que-la-gravite/)
+[Comment tomber plus vite que la gravité - Pourquoi Comment Combien](/2013/04/20/comment-tomber-plus-vite-que-la-gravite/)
 
 Et comme ça marche aussi dans l'air, voire dans l'eau, je répondrais "oui" à la question.

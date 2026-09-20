@@ -21,5 +21,5 @@ mais l'abstract est plus original : "compte rendu d'une discussion avec Isaac Ne
 
 Et c'est vraiment bien.
 
-- [Selon Newton, l'univers serait discret - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/#.X3tYimiFqCo)
-- [La réalité est-elle digitale ou analogique ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/03/30/la-realite-est-elle-digitale-ou-analogique/#.X3tSDmiFqCo)
+- [Selon Newton, l'univers serait discret - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/#.X3tYimiFqCo)
+- [La réalité est-elle digitale ou analogique ? - Pourquoi Comment Combien](/2011/03/30/la-realite-est-elle-digitale-ou-analogique/#.X3tSDmiFqCo)

@@ -19,4 +19,4 @@ Ces simulations exploitent les informations acquises lors de nos expériences pa
 
 Sous RMN, on voit même que les zones du cerveau utilisées pour se souvenir du passé ou pour imaginer l'avenir sont les mêmes.
 
-[https://drgoulu.com/2009/06/27/n...](https://drgoulu.com/2009/06/27/neurologie-du-temps/)
+[https://drgoulu.com/2009/06/27/n...](/2009/06/27/neurologie-du-temps/)

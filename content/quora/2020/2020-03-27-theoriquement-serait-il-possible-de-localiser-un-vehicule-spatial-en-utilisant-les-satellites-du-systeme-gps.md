@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Les satellites GPS orbitent à 20200 km d'altitude, donc tant qu'on est en dessous, ça marche. C'est même utilisé sur l'ISS pour déterminer l'orientation de la station et pour les rendez-vous spatiaux (voir [Robert Frost's answer to Does GPS work on the ISS?](https://www.quora.com/Does-GPS-work-on-the-ISS/answer/Robert-Frost-1?ch=10&share=648a3146&srid=pzDv) ) , mais il faut des récepteurs spéciaux qui ne soient pas "bridés" pour fonctionner à faible altitude comme les récepteurs grand public.
 
-(Pour comprendre pourquoi, lire [Le GPS pour les nuls : Satellites et Signaux - Pourquoi Comment Combien](https://www.drgoulu.com/2008/09/27/le-gps-pour-les-nuls-satellites-et-signaux/#.Xn4e2ohsOCo) )
+(Pour comprendre pourquoi, lire [Le GPS pour les nuls : Satellites et Signaux - Pourquoi Comment Combien](/2008/09/27/le-gps-pour-les-nuls-satellites-et-signaux/#.Xn4e2ohsOCo) )
 
 Avec des récepteurs spéciaux fonctionnant avec plus de 4 satellites pour éliminer cette contrainte, on peut utiliser le GPS un peu au dessus des orbites. Selon [GPS in Space](https://www.technologyreview.com/s/401315/gps-in-space/) on y arrive au moins jusqu'à l'orbite géostationnaire (36000 km) voire un peu au dessus.
 

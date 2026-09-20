@@ -15,4 +15,4 @@ Oui, typiquement lorsqu'on cite Einstein sans vérifier.
 
 Il n'a jamais dit ça.
 
-[Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](https://www.drgoulu.com/2008/11/26/ce-queinstein-na-jamais-dit/)
+[Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](/2008/11/26/ce-queinstein-na-jamais-dit/)

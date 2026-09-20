@@ -28,4 +28,4 @@ La résistance de son filament en carbone a augmenté avec le temps. Conçue pou
 
 On en fait plus des comme ça parce que c'est une catastrophe énergétique.
 
-[https://www.drgoulu.com/2011/10/...](https://www.drgoulu.com/2011/10/16/la-veritable-histoire-de-lampoule-de-livermore/#.Y3aQ9HZsOCo)
+[https://www.drgoulu.com/2011/10/...](/2011/10/16/la-veritable-histoire-de-lampoule-de-livermore/#.Y3aQ9HZsOCo)

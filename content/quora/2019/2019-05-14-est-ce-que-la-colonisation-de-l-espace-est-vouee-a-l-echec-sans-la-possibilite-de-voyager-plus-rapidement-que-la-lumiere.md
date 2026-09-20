@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Absolument PAS.
 
-D’abord, la vitesse de la lumière suffit amplement : quand on s’en approche, le temps propre ralentit tellement qu’on peut aller n’importe où dans l’Univers en un temps fini. Ma nouvelle [Accélération : Journal de bord d’un voyage relativiste](https://www.drgoulu.com/2004/08/09/acceleration/) et le roman [Tau Zéro](w:) le décrivent bien.
+D’abord, la vitesse de la lumière suffit amplement : quand on s’en approche, le temps propre ralentit tellement qu’on peut aller n’importe où dans l’Univers en un temps fini. Ma nouvelle [Accélération : Journal de bord d’un voyage relativiste](/2004/08/09/acceleration/) et le roman [Tau Zéro](w:) le décrivent bien.
 
 Si la technologie ne permet pas les voyages relativistes, les [Vaisseaux générationnels](w:Vaisseau_générationnel) permettent de faire des voyages de plusieurs siècles. Là les problèmes seront plutôt sociaux…
 

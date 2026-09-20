@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 J'avais fait le calcul là :
 
-[https://www.drgoulu.com/2004/06/...](https://www.drgoulu.com/2004/06/30/astrologie/#.Y1eWtqS3A0E)
+[https://www.drgoulu.com/2004/06/...](/2004/06/30/astrologie/#.Y1eWtqS3A0E)
 
 Jupiter exerce environ 1% de l'attraction de la Lune, soit l'équivalent de 5 tonnes à 1m, les autres planètes (à part la Terre bien sur) des pouillèmes.

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Pour autant qu'on ait des gigatonnes d'antimatière pour alimenter le moteur, on peut accélérer indéfiniment.
 
-[https://www.drgoulu.com/2004/08/...](https://www.drgoulu.com/2004/08/09/acceleration/#.Yve3XnaiGCo)
+[https://www.drgoulu.com/2004/08/...](/2004/08/09/acceleration/#.Yve3XnaiGCo)

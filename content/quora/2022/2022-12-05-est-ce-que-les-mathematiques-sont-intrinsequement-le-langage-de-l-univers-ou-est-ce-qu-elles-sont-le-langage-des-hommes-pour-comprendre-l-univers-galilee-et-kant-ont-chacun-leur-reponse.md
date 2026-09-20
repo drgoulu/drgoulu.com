@@ -27,10 +27,10 @@ En réalité il y a bien plus de 2 alternatives en [Philosophie des mathématiqu
 
 Notes de bas de page
 
-[[1]](#cite-Ggwms)[Comment comptent les Extraterrestres - Pourquoi Comment Combien](https://www.drgoulu.com/2011/09/25/comment-comptent-les-extraterrestres/#.Y444LnZsOCo)
+[[1]](#cite-Ggwms)[Comment comptent les Extraterrestres - Pourquoi Comment Combien](/2011/09/25/comment-comptent-les-extraterrestres/#.Y444LnZsOCo)
 
-[[2]](#cite-EZkBc)[La Renaissance du Temps 1/2 - Pourquoi Comment Combien](https://www.drgoulu.com/2015/01/28/la-renaissance-du-temps/#.Y444mXbMKCo)
+[[2]](#cite-EZkBc)[La Renaissance du Temps 1/2 - Pourquoi Comment Combien](/2015/01/28/la-renaissance-du-temps/#.Y444mXbMKCo)
 
-[[3]](#cite-SLTfN)[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/#.Y446tXbMKCo)
+[[3]](#cite-SLTfN)[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/#.Y446tXbMKCo)
 
-[[4]](#cite-oUDli)[Logicomix, la révolution de la logique en BD - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/06/logicomix/#.Y448fHZsOCo)
+[[4]](#cite-oUDli)[Logicomix, la révolution de la logique en BD - Pourquoi Comment Combien](/2011/01/06/logicomix/#.Y448fHZsOCo)

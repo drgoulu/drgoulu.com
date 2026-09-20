@@ -15,4 +15,4 @@ Parce que c'est comme ça. Est-ce que vous vous demandez pourquoi les 3 dimensio
 
 Probablement parce que vous avez de la peine avec les nombres complexes… révisez !
 
-[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
+[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)

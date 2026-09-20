@@ -28,4 +28,4 @@ Mais en fait le mètre est actuellement défini à partir de la seconde et de c.
 
 Notes de bas de page
 
-[[1]](#cite-bqhUI)[La science est la croyance en l'ignorance des experts - Pourquoi Comment Combien](https://www.drgoulu.com/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)
+[[1]](#cite-bqhUI)[La science est la croyance en l'ignorance des experts - Pourquoi Comment Combien](/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)

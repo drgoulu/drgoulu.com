@@ -25,6 +25,6 @@ Désolé, dans la singularité rien ne “bouge” même pas un photon. En fait 
 
 Et l’énergie n’est pas une chose, c’est un nombre qui reste constant dans un système isolé doté de symétrie par translation dans le temps. Or rien ne dit qu’un trou noir soit un système isolé, et encore moins qu’on puisse lui appliquer le [Théorème de Noether](w:Théorème_de_Noether_(physique)) puisque rien ne dit que la physique (si elle existe) est Lagrangienne ou Hamiltonienne “dedans”.
 
-Pour ces raisons et de nombreuses autres, l’hypothèse de Poplawski sur le fait que l’univers serait le trou noir d’un autre Univers est très loin de faire l’unanimité, même si je l’aime bien depuis que j’ai lu [La Renaissance du Temps](https://www.drgoulu.com/2015/01/28/la-renaissance-du-temps/) de Smolin.
+Pour ces raisons et de nombreuses autres, l’hypothèse de Poplawski sur le fait que l’univers serait le trou noir d’un autre Univers est très loin de faire l’unanimité, même si je l’aime bien depuis que j’ai lu [La Renaissance du Temps](/2015/01/28/la-renaissance-du-temps/) de Smolin.
 
-Il me semble y avoir des arguments plus forts en faveur d’un espace-temps discret ( [Selon Newton, l'univers serait digital - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/) ) produit par fluctuation quantique, et dans lequel l’intérieur de l’horizon d’un TN n’existe tout simplement pas.
+Il me semble y avoir des arguments plus forts en faveur d’un espace-temps discret ( [Selon Newton, l'univers serait digital - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/) ) produit par fluctuation quantique, et dans lequel l’intérieur de l’horizon d’un TN n’existe tout simplement pas.

@@ -29,4 +29,4 @@ C'est encore plus facile pour la création artistique : il vous suffit de pouvoi
 
 Pour ça vous pouvez simplement vous envoyer à vous même un courrier cacheté contenant une copie de votre oeuvre. En cas de litige, il vous suffira de l'amener à un notaire qui l'ouvrira et pourra constater grâce au tampon de la poste que vous déteniez une copie de l'oeuvre plus ancienne que celle que votre contrefacteur pourra produire.
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/08/combien-pour-ce-brevet/)
+[https://www.drgoulu.com/2009/03/...](/2009/03/08/combien-pour-ce-brevet/)

@@ -37,6 +37,6 @@ note* : j'aimerais bien que "purée de trucs" devienne aussi populaire dans un s
 
 Notes de bas de page
 
-[[1]](#cite-ECnEy)[Les impossibles 1 - Pourquoi Comment Combien](https://www.drgoulu.com/2014/02/02/les-impossibles-1/)
+[[1]](#cite-ECnEy)[Les impossibles 1 - Pourquoi Comment Combien](/2014/02/02/les-impossibles-1/)
 
-[[2]](#cite-lzqvo)[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[[2]](#cite-lzqvo)[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)

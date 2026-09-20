@@ -23,4 +23,4 @@ Cette "théorie actuelle" a maintenant plus d'un siècle pendant lequel on ne l'
 
 Remettre en question c=vitesse infinie sans le moindre élément expérimental, c'est pire que l'aveuglement du 19ème siècle, c'est ignorer un siècle d'illumination : la réalité n'est pas conforme à nos intuitions.
 
-Note * [L'importance de la stupidité dans la recherche scientifique - Pourquoi Comment Combien](https://www.drgoulu.com/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/)
+Note * [L'importance de la stupidité dans la recherche scientifique - Pourquoi Comment Combien](/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/)

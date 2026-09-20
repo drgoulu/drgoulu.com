@@ -29,6 +29,6 @@ Quand vous entendez "atomique", "nucléaire" ou “isotope”, vous pouvez (pres
 
 Notes de bas de page
 
-[[1]](#cite-TXsXQ)[L'atome vert : le thorium - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/18/latome-vert-le-thorium/)
+[[1]](#cite-TXsXQ)[L'atome vert : le thorium - Pourquoi Comment Combien](/2013/05/18/latome-vert-le-thorium/)
 
-[[2]](#cite-aHgdP)[Comment transformer le plomb en or ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/03/15/comment-transformer-le-plomb-en-or/)
+[[2]](#cite-aHgdP)[Comment transformer le plomb en or ? - Pourquoi Comment Combien](/2013/03/15/comment-transformer-le-plomb-en-or/)

@@ -17,4 +17,4 @@ Première partie de la question
 
 Seconde partie
 
-[https://www.drgoulu.com/2012/05/...](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/#.YpxxdWm-g0E)
+[https://www.drgoulu.com/2012/05/...](/2012/05/27/dites-non-au-mouvement-perpetuel/#.YpxxdWm-g0E)

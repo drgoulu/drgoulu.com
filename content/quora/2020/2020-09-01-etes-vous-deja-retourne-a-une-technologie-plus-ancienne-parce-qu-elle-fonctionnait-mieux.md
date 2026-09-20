@@ -26,4 +26,4 @@ Ouaip :
 
 Notes de bas de page
 
-[[1]](#cite-zAXmB)[Montre Mécanique contre Quartz - Pourquoi Comment Combien](https://www.drgoulu.com/2007/05/15/montre-mecanique-contre-quartz/)
+[[1]](#cite-zAXmB)[Montre Mécanique contre Quartz - Pourquoi Comment Combien](/2007/05/15/montre-mecanique-contre-quartz/)

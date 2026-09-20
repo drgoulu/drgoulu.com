@@ -19,4 +19,4 @@ Ca simplifie tellement tous les calculs que le radian est la seule et unique [un
 
 Le degré est pratique sur les cartes, et nulle part ailleurs.
 
-[https://www.drgoulu.com/2010/01/...](https://www.drgoulu.com/2010/01/16/histoire-dangles/)
+[https://www.drgoulu.com/2010/01/...](/2010/01/16/histoire-dangles/)

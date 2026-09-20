@@ -33,4 +33,4 @@ Le top du top, c'est de perturber un champ magnétique avec de la lumière en jo
 
 [https://youtu.be/AJ7fMVp_O5s](https://youtu.be/AJ7fMVp_O5s)
 
-[https://www.drgoulu.com/2014/03/...](https://www.drgoulu.com/2014/03/15/le-carbone-pyrolytique-cest-fantastique/)
+[https://www.drgoulu.com/2014/03/...](/2014/03/15/le-carbone-pyrolytique-cest-fantastique/)

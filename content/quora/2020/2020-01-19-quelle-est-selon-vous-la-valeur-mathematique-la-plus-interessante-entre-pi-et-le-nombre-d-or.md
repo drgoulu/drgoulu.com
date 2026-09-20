@@ -17,4 +17,4 @@ Pi est la moitié de tau, utilisé des millions de fois chaque jour.
 
 Notes de bas de page
 
-[[1]](#cite-ezWtZ)[Nombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[[1]](#cite-ezWtZ)[Nombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/)

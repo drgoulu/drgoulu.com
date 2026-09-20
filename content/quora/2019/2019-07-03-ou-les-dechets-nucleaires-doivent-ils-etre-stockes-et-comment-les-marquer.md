@@ -15,4 +15,4 @@ Sous terre.
 
 Il ne faut pas les marquer, il faut les oublier.
 
-[Bure, plongée dans l'éternité - Pourquoi Comment Combien](https://www.drgoulu.com/2014/05/24/bure-pour-leternite/)
+[Bure, plongée dans l'éternité - Pourquoi Comment Combien](/2014/05/24/bure-pour-leternite/)

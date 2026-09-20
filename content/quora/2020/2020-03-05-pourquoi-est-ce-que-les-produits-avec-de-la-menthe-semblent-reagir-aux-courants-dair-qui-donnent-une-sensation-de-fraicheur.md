@@ -15,4 +15,4 @@ Le [Menthol](w:) réagit avec les récepteurs sensibles au froid (TRPM8) de notr
 
 ![](./images/qimg-0a6912386ad51039d9083ea019d799b3.jpg)
 
-[Molécules d'été et divers - Pourquoi Comment Combien](https://www.drgoulu.com/2010/08/01/molecules-dete-et-divers/#.XmDEaqhsOCo)
+[Molécules d'été et divers - Pourquoi Comment Combien](/2010/08/01/molecules-dete-et-divers/#.XmDEaqhsOCo)

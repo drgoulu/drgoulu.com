@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 L'[Homme de Denisova](w:) vivait à 3280m il y a 160'000 ans[[1]](#pVduL) . D'autres hommes encore mal identifiés vivaient il y 35'000 ans à 4600m[[2]](#tawuR) , probablement grâce à des gènes de Denisoviens.
 
-[L'adaptation à l'altitude - Pourquoi Comment Combien](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/#.XbiWCuhsOCo)
+[L'adaptation à l'altitude - Pourquoi Comment Combien](/2014/08/17/ladaptation-a-laltitude/#.XbiWCuhsOCo)
 
 Notes de bas de page
 

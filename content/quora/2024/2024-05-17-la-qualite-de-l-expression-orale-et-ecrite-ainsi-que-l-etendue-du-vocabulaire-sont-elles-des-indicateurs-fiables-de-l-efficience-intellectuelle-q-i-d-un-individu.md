@@ -15,4 +15,4 @@ Non, éventuellement de son instruction.
 
 Mais utiliser "efficience intellectuelle" alors que les initiales Q.I. ne correspondent pas, ça c'est un indice…
 
-[https://drgoulu.com/2009/06/10/1...](https://drgoulu.com/2009/06/10/126421806-combien/)
+[https://drgoulu.com/2009/06/10/1...](/2009/06/10/126421806-combien/)

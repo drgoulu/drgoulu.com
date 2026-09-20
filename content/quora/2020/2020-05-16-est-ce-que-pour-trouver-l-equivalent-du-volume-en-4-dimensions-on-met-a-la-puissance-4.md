@@ -15,4 +15,4 @@ oui.
 
 ![](./images/qimg-8cfdfe233b327fbd572bdc60688371cb.jpg)
 
-[Voir en 4 dimensions - Pourquoi Comment Combien](https://www.drgoulu.com/2007/02/06/voir-en-4-dimensions/#.Xr_exWiiGCo)
+[Voir en 4 dimensions - Pourquoi Comment Combien](/2007/02/06/voir-en-4-dimensions/#.Xr_exWiiGCo)

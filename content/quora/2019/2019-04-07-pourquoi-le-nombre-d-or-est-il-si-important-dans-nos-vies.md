@@ -35,4 +35,4 @@ Sauf que non : Les proportions que Vinci utilise pour son célèbre [Homme de Vi
 
 Et dans la nature ? Pas de nombre d’or non plus, désolé.
 
-[Nombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/#.XKpmQZiiGCo)
+[Nombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/#.XKpmQZiiGCo)

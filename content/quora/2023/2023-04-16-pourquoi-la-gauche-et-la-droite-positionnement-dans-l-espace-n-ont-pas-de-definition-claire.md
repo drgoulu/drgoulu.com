@@ -31,4 +31,4 @@ il y en a une, mais elle n'est pas triviale. C'est une conséquence de la [non c
 >
 >
 >
-> ( [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/04/miroir/#.ZDxbf3aiGCo) )
+> ( [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/#.ZDxbf3aiGCo) )

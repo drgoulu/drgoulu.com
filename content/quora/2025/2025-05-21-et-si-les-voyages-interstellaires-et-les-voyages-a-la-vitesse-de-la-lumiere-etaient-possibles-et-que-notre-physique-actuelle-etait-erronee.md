@@ -27,10 +27,10 @@ Le Grand Filtre est peut-être tout bêtement la guerre nucléaire ou le réchau
 
 Notes de bas de page
 
-[[1]](#cite-Krniy)[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](https://drgoulu.com/2004/08/09/acceleration/)
+[[1]](#cite-Krniy)[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](/2004/08/09/acceleration/)
 
-[[2]](#cite-EQwOR)[Principe de Saturation Cubique - Pourquoi Comment Combien](https://drgoulu.com/1999/10/24/psc/)
+[[2]](#cite-EQwOR)[Principe de Saturation Cubique - Pourquoi Comment Combien](/1999/10/24/psc/)
 
-[[3]](#cite-Rmdeq)[Le Grand Filtre - Pourquoi Comment Combien](https://drgoulu.com/2012/12/28/le-grand-filtre/)
+[[3]](#cite-Rmdeq)[Le Grand Filtre - Pourquoi Comment Combien](/2012/12/28/le-grand-filtre/)
 
-[[4]](#cite-RZSCM)[La route que nous n'avons pas prise - Pourquoi Comment Combien](https://drgoulu.com/2011/11/06/la-route-que-nous-navons-pas-prise/)
+[[4]](#cite-RZSCM)[La route que nous n'avons pas prise - Pourquoi Comment Combien](/2011/11/06/la-route-que-nous-navons-pas-prise/)

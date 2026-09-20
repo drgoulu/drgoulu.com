@@ -29,4 +29,4 @@ Notes de bas de page
 
 [[1]](#cite-LhhRd)[Cette galaxie a trois trous noirs supermassifs en son centre au lieu d'un : comment l'expliquer ?](https://www.numerama.com/sciences/574303-cette-galaxie-a-trois-trous-noirs-supermassifs-en-son-centre-au-lieu-dun-comment-lexpliquer.html)
 
-[[2]](#cite-VQLwS)[Ca c'est du trou noir, du vrai ! - Pourquoi Comment Combien](https://www.drgoulu.com/2008/04/18/ca-cest-du-trou-noir-du-vrai/)
+[[2]](#cite-VQLwS)[Ca c'est du trou noir, du vrai ! - Pourquoi Comment Combien](/2008/04/18/ca-cest-du-trou-noir-du-vrai/)

@@ -28,4 +28,4 @@ Tau correspond simplement à un angle d'un [Tour](w:Tour_(angle)) dans un espace
 
 Notes de bas de page
 
-[[1]](#cite-jSBLJ)[Adieu 3.14.16 : le 28 juin, ce sera Tau Day - Pourquoi Comment Combien](https://www.drgoulu.com/2016/03/14/adieu-3-14-16-le-26-juin-ce-sera-tau-day/)
+[[1]](#cite-jSBLJ)[Adieu 3.14.16 : le 28 juin, ce sera Tau Day - Pourquoi Comment Combien](/2016/03/14/adieu-3-14-16-le-26-juin-ce-sera-tau-day/)

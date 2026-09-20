@@ -36,6 +36,6 @@ Formellement, le sudoku est un [Problème SAT](w:), ou ou problème de [satisfai
 
 Notes de bas de page
 
-[[1]](#cite-wgfXn)[Python : un petit Sudoku pour commencer - Pourquoi Comment Combien](https://www.drgoulu.com/2008/10/12/python/)
+[[1]](#cite-wgfXn)[Python : un petit Sudoku pour commencer - Pourquoi Comment Combien](/2008/10/12/python/)
 
 [[2]](#cite-sWhti)[taufanardi/sudoku-sat-solver](https://github.com/taufanardi/sudoku-sat-solver)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui, ça s'appelle le développement durable, mais on oublie encore la démographie
 
-[https://www.drgoulu.com/2009/06/...](https://www.drgoulu.com/2009/06/06/developpement-durable-et-equation-de-kaya/#.YxL59qS-g0E)
+[https://www.drgoulu.com/2009/06/...](/2009/06/06/developpement-durable-et-equation-de-kaya/#.YxL59qS-g0E)

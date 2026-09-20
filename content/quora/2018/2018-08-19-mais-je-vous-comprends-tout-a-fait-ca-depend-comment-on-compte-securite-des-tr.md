@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-la-loi-de-la-gravité-nest-elle-pas-respectée-dans-les-avions-malgré-les-lourdes-charges-quils-transportent/answer/Dr-Goulu)*
 
-Mais je vous comprends tout à fait, ça dépend comment on compte :[Sécurité des transports - Pourquoi Comment Combien](https://www.drgoulu.com/2007/07/06/securite-des-transports/)
+Mais je vous comprends tout à fait, ça dépend comment on compte :[Sécurité des transports - Pourquoi Comment Combien](/2007/07/06/securite-des-transports/)

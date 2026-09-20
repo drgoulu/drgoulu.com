@@ -17,4 +17,4 @@ Si vos utilisez vos yeux adaptés pour pratiquer plutôt des jeux solitaires, al
 
 Pour un exemple d'évolution humaine bien documenté, voyez
 
-[https://www.drgoulu.com/2014/08/...](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+[https://www.drgoulu.com/2014/08/...](/2014/08/17/ladaptation-a-laltitude/)

@@ -29,4 +29,4 @@ D'ailleurs depuis 1983 le [Mètre](w:)est défini comme
 
 Parce que ça permet de fabriquer un mètre étalon ultra précis n'importe où, plus besoin d'aller à Paris le comparer au mètre étalon en platine…
 
-Accessoirement [on ne peut plus mesurer la vitesse de la lumière -](https://www.drgoulu.com/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)! C'est désormais une constante.
+Accessoirement [on ne peut plus mesurer la vitesse de la lumière -](/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)! C'est désormais une constante.

@@ -31,7 +31,7 @@ Si on était un milliard comme en 1820[[3]](#eicxG) (il y a seulement deux sièc
 
 Mais à huit milliards, on est juste trop.
 
-[https://www.drgoulu.com/2013/05/...](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
+[https://www.drgoulu.com/2013/05/...](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
 
 Notes de bas de page
 

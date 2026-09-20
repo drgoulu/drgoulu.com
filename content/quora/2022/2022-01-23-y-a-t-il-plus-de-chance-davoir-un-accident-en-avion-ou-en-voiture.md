@@ -19,4 +19,4 @@ Par heure de transport, c'est déjà moins clair
 
 Et par événement, donc la probabilité de ressortir vivant du véhicule chaque fois qu'on y entre, l'avion est terrifiant.
 
-[https://www.drgoulu.com/2007/07/...](https://www.drgoulu.com/2007/07/06/securite-des-transports/#.Ye0RD1Pfs0E)
+[https://www.drgoulu.com/2007/07/...](/2007/07/06/securite-des-transports/#.Ye0RD1Pfs0E)

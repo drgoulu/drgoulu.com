@@ -17,4 +17,4 @@ L'excitation des océans serait environ double, mais les marées sont produites 
 
 Au pif, elles pourraient être 10x plus hautes à certains endroits, et plus faibles à d'autres
 
-[https://www.drgoulu.com/2017/08/...](https://www.drgoulu.com/2017/08/15/combien-de-maree/#.YmT1jhi-g0E)
+[https://www.drgoulu.com/2017/08/...](/2017/08/15/combien-de-maree/#.YmT1jhi-g0E)

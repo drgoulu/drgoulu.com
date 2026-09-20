@@ -29,7 +29,7 @@ Le stockage thermique est très intéressant lorsque la source est thermique aus
 
 En France (et en Suisse…) le système de stockage le plus adapté est le [Pompage-turbinage](w:), parce qu'on a des montagnes que les finlandais aimeraient bien avoir…
 
-[https://drgoulu.com/2012/10/07/c...](https://drgoulu.com/2012/10/07/comment-stocker-lenergie/)
+[https://drgoulu.com/2012/10/07/c...](/2012/10/07/comment-stocker-lenergie/)
 
 Notes de bas de page
 

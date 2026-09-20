@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 1. [Primer](w:Primer_(film)) incompréhensible la première fois qu'on le voit, un chef d'œuvre à partir de la troisième…
 2. [L'Armée des douze singes](w:)
 
-[Les voyages temporels au cinéma - Pourquoi Comment Combien](https://www.drgoulu.com/2010/10/23/retours-vers-les-futurs/)
+[Les voyages temporels au cinéma - Pourquoi Comment Combien](/2010/10/23/retours-vers-les-futurs/)

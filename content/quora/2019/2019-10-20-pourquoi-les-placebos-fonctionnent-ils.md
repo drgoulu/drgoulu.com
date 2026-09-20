@@ -26,4 +26,4 @@ Reference : Predrag Petrovic et al. “[Placebo and Opioid Analgesia – Imaging
 
 Des expériences equivalentes ont été réalisées sur des bébés et des animaux.
 
-[Placebo et nocebo - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/21/placebo-et-nocebo/)
+[Placebo et nocebo - Pourquoi Comment Combien](/2009/05/21/placebo-et-nocebo/)

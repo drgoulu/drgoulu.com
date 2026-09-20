@@ -19,4 +19,4 @@ C'est la théorie du [Trou noir de Kerr](w:)qui décrit un trou noir en rotation
 
 Ce qui est incroyable, c'est qu'on est capables de mesurer la vitesse de rotation de certains trous noirs, et elle correspond exactement à la vilesse limite au delà de laquelle la singularité deviendrait visible, ce qui est interdit par la [Censure cosmique](w:).
 
-[https://drgoulu.com/2016/07/10/c...](https://drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[https://drgoulu.com/2016/07/10/c...](/2016/07/10/combien-tourne-un-trou-noir/)

@@ -27,7 +27,7 @@ Et elles sont devenues si puissantes qu'elles peuvent aussi décrire des univers
 
 Le rôle de la physique est (en partie…) de limiter les maths à ce qui existe vraiment.
 
-[https://www.drgoulu.com/2016/09/...](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[https://www.drgoulu.com/2016/09/...](/2016/09/11/solutions-admissibles/)
 
 edit après réflexion : en fait on peut créer son propre univers avec les mathématiques, appliquées via l'informatique : tous les jeux video et quelques simulations sérieuses sont faites comme ça.
 

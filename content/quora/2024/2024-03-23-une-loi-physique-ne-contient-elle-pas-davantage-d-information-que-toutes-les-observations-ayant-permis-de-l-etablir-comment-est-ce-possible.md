@@ -15,4 +15,4 @@ Oh non, elle contient beaucoup moins d'information. C'est en gros l'information 
 
 Une loi de la physique c'est un peu comme les coefficients a et b d'une droite de régression dans un nuage de points, ça permet de faire des tests statistiques, et surtout des extrapolations,
 
-[https://drgoulu.com/2008/08/23/s...](https://drgoulu.com/2008/08/23/suites-courbes-et-theories/)
+[https://drgoulu.com/2008/08/23/s...](/2008/08/23/suites-courbes-et-theories/)

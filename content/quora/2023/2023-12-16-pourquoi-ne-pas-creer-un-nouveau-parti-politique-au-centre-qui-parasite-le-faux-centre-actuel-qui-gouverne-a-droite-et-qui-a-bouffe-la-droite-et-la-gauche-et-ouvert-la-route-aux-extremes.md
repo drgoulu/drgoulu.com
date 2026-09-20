@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 La première des choses est de réaliser que l' "échiquier politique" a au moins deux dimensions, donc gauche et droite ne sont pas suffisants pour definir le positionnement d'un parti.
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://www.drgoulu.com/2017/05/...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 La seconde est de faire une analyse rigoureuse comme le fait smartvote en Suisse pour éventuellement déceler un "trou" dans le positionnement des partis existants.
 

@@ -15,4 +15,4 @@ Des mllions d'années. Les déchets nucléaires prennent une place minuscule.
 
 Le problème est plutôt se trouver des endroits adaptés à de tels dépôts.
 
-[https://www.drgoulu.com/2014/05/...](https://www.drgoulu.com/2014/05/24/bure-pour-leternite/#.Y7hs26Tfs0E)
+[https://www.drgoulu.com/2014/05/...](/2014/05/24/bure-pour-leternite/#.Y7hs26Tfs0E)

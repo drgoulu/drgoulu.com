@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 S'il avait eu de meilleures relations avec Harvard, il aurait eu des chances à une douzaine de [Prix Ig-Nobel](w:) mais là je n'ose même pas le proposer…
 
-[https://drgoulu.com/2017/09/20/p...](https://drgoulu.com/2017/09/20/proposer-ig-nobel/)
+[https://drgoulu.com/2017/09/20/p...](/2017/09/20/proposer-ig-nobel/)

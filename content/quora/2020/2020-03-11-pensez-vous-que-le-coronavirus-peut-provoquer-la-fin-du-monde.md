@@ -31,6 +31,6 @@ Le pasteur [F. Kenton Beshore](w:en:Mariners_Church) pense que les autres prédi
 
 et la [Messiah Foundation International](w:en:Messiah_Foundation_International) annonce que la météorite géante prédite par [Riaz Ahmed Gohar Shahi](w:) vous zigouillera tous en 2026, bande de mécréants.
 
-Mais en vérité je vous le dis, ne croyez pas ces faux prophètes de malheur, parce que [selon mes calculs astronomiques ultraprécis](https://www.drgoulu.com/2009/11/29/2012-et-lennemi-interieur/#.Xmk3MqhsOCo), la fin du monde aura lieu très précisément **jeudi 20 février 12262.**
+Mais en vérité je vous le dis, ne croyez pas ces faux prophètes de malheur, parce que [selon mes calculs astronomiques ultraprécis](/2009/11/29/2012-et-lennemi-interieur/#.Xmk3MqhsOCo), la fin du monde aura lieu très précisément **jeudi 20 février 12262.**
 
 Le coronavirus est juste le signal qu'on est pas la seule espèce de la planète à vouloir croître et multiplier, remplir la Terre et la soumettre…

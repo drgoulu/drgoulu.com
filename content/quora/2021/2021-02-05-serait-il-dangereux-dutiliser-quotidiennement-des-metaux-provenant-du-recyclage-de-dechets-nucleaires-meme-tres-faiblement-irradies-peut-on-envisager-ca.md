@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Nous sommes tous exposés à
 
-[https://www.drgoulu.com/2013/11/...](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/)
+[https://www.drgoulu.com/2013/11/...](/2013/11/03/la-radioactivite-naturelle/)
 
 , plus à des sources artificielles, notamment par les radiographies. Il existe des normes très claires, sévères et faciles à contrôler sur les matières radioactives. Pourquoi accepterait-on la présence de certaines molécules en dessous des seuils légaux et pas ceux des isotopes ?
 

@@ -28,4 +28,4 @@ donc environ **4.62*10^46** molécules,
 
 à quelques milliards de milliards de milliards de milliards près.
 
-[Quelles sont les chances ... - Pourquoi Comment Combien](https://www.drgoulu.com/2008/03/09/quelles-sont-les-chances/)
+[Quelles sont les chances ... - Pourquoi Comment Combien](/2008/03/09/quelles-sont-les-chances/)

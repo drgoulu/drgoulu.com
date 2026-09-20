@@ -31,6 +31,6 @@ Ca montre que même la notion de beauté est relative à l'espèce.
 
 Tout cela, l'amour, la gloire, la beauté, ce sont des résultats de l'extraordinaire diversité produite par l évolution. Dan Dennett l'explique super bien dans cette conférence
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/#.YoVY2mm-g0E)
+[https://www.drgoulu.com/2009/03/...](/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/#.YoVY2mm-g0E)
 
 Une espèce pratiquant la stratégie du gros œuf survit mieux si les parents s'occupent bien des pwtits, et le fait de les trouver mignons aide.

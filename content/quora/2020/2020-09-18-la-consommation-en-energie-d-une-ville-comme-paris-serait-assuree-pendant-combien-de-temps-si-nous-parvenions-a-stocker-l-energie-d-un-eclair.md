@@ -15,7 +15,7 @@ La consommation de la ville de Paris est de 3700 GWh par an[[1]](#UoRKm)soit env
 
 La puissance d’un éclair est d’environ 20 GigaWatts, soit 40 fois plus, mais il ne dure que 25 millisecondes, donc l’énergie n’est que de 140 kWh et il pourrait approvisionner Paris pendant 40 fois 25 millisecondes, soit exactement une seconde.
 
-[L’énergie de la foudre - Pourquoi Comment Combien](https://www.drgoulu.com/2007/09/09/lenergie-de-la-foudre/)
+[L’énergie de la foudre - Pourquoi Comment Combien](/2007/09/09/lenergie-de-la-foudre/)
 
 Ça m'étonne toujours de voir comment on surestime l'énergie de la foudre, et qu'on sous estime celle des millions de tonnes d'eau suspendues dans le nuage qui la produit.
 

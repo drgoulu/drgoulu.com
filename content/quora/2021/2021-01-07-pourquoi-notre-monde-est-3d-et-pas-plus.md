@@ -36,8 +36,8 @@ En gros ce n'est qu'avec 3 dimensions spatiales et une de temps que les équatio
 1. stables. Par exemple des hyperplanètes en 4D ne peuvent pas avoir d'orbites stables autour d'hypersoleils.
 2. localement prédictibles . Il n'y a que dans un univers 3D+1T qu'on peut calculer (un peu) l'avenir en fonction de ce qu'on observe, et donc qu'un cerveau est un avantage évolutif pour faire ça, et donc que la conscience peut apparaître.
 
-Je cause un peu plus de tout ça dans : [Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+Je cause un peu plus de tout ça dans : [Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](/2011/01/30/pourquoi-3-dimensions-1-temps/)
 
 Notes de bas de page
 
-[[1]](#cite-AEReE)[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
+[[1]](#cite-AEReE)[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)

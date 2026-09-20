@@ -29,4 +29,4 @@ Simplement parfois ça demanderait trop d'efforts par rapport au gain…
 
 Notes de bas de page
 
-[[1]](#cite-QiUet)[Pourquoi on ne peut plus mesurer la vitesse de la lumière - Pourquoi Comment Combien](https://drgoulu.com/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)
+[[1]](#cite-QiUet)[Pourquoi on ne peut plus mesurer la vitesse de la lumière - Pourquoi Comment Combien](/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)

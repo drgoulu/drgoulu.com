@@ -22,7 +22,7 @@ coverImage: ./images/quora.png
 
 C est contenu dans l[Équation d'Einstein](w:), mais d'une manière pas évidente même pour lui. Il a eu beaucoup d'hésitations sur ce sujet, voir
 
-[https://www.drgoulu.com/2016/02/...](https://www.drgoulu.com/2016/02/14/einstein-et-les-ondes-gravitationnelles/)
+[https://www.drgoulu.com/2016/02/...](/2016/02/14/einstein-et-les-ondes-gravitationnelles/)
 
 Le truc c'est qu'elles ne sont justement pas analogues à des ondes électromagnétiques : il ne suffit pas qu'une masse se déplace, il faut qu'elle "ne tourne pas rond".
 

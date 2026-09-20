@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Vous êtes passés à la deuxième dimension, progressiste / conservateur.
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/#.YlkBqWm-g0E)
+[https://www.drgoulu.com/2017/05/...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/#.YlkBqWm-g0E)

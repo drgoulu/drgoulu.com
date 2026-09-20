@@ -17,4 +17,4 @@ Bref ça dépend de ce que vous appelez "centre" (ce que confirment les autres r
 
 Mais la première étape est de réaliser que l'axe gauche-droite n'est pas ou plus suffisant pour comprendre la politique actuelle.
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/#.YfTvZVPfs0E)
+[https://www.drgoulu.com/2017/05/...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/#.YfTvZVPfs0E)

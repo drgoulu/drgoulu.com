@@ -16,4 +16,4 @@ coverImage: ./images/quora.png
 
 1+2= ma contribution est de n'avoir que 2 enfants
 
-[https://www.drgoulu.com/2013/05/...](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
+[https://www.drgoulu.com/2013/05/...](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)

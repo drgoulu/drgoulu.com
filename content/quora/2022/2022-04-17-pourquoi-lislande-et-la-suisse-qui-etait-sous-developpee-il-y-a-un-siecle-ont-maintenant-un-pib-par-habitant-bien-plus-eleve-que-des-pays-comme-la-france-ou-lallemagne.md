@@ -37,4 +37,4 @@ Et tout ceci produit une balance commerciale désespérément positive
 
 Notes de bas de page
 
-[[1]](#cite-mhmYC)[Combien vaut 1 franc ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/03/combien-vaut-1-franc)
+[[1]](#cite-mhmYC)[Combien vaut 1 franc ? - Pourquoi Comment Combien](/2009/04/03/combien-vaut-1-franc/)

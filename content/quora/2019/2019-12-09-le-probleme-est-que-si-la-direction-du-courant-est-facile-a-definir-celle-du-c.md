@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 le problème est que, si la direction du courant est facile à définir, celle du champ magnétique ne l'est pas : "nord" et "sud" sont conventionnels , liés à la notion "gauche / droite".
 
-Lisez [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/04/miroir/) !
+Lisez [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/) !

@@ -31,4 +31,4 @@ Très concrètement, il y a des choses comme l'[Algorithme de Viterbi](w:)qui on
 
 Voilà pour le côté bassement matériel, mais à part ça Apollo a surtout montré qu'Homo Sapiens continue à être curieux , aventurier, explorateur et conquérant.
 
-[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/07/18/pour-quoi-retourner-sur-la-lune/)
+[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](/2009/07/18/pour-quoi-retourner-sur-la-lune/)

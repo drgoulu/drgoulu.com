@@ -29,4 +29,4 @@ Pour rappel, aujourd'hui les 443 réacteurs à fission de la planète produisent
 
 Il faudrait donc au moins 10'000 réacteurs à fusion pour remplacer pétrole+charbon+gaz, et pour l'instant on en a pas un seul qui marche. Si ça arrive, au mieux vers 2100, il sera beaucoup trop tard.
 
-[https://www.drgoulu.com/2005/12/...](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[https://www.drgoulu.com/2005/12/...](/2005/12/11/la-fusion-thermonucleaire/)

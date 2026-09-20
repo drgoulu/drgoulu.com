@@ -29,4 +29,4 @@ Et pour la nourriture il serait très mal barré aussi : ses intestins "miroir" 
 
 Notes de bas de page
 
-[[1]](#cite-JiJnL)[Réplication de l'ADN - Pourquoi Comment Combien](https://www.drgoulu.com/2008/01/06/replication-de-ladn/)
+[[1]](#cite-JiJnL)[Réplication de l'ADN - Pourquoi Comment Combien](/2008/01/06/replication-de-ladn/)

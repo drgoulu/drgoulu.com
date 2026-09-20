@@ -27,7 +27,7 @@ Cependant on peut citer la tolérance au lactose, apparue il y a 7500 ans dans l
 
 ![](./images/qimg-d57cdac61587614612453867645ab0a2.jpg)
 
-Et évidemment ma préférée, [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)qui s'est poursuivie dans les Andes, l'Himalaya et les plateaux éthiopiens, où elle est apparue sous des formes différentes à des époques différentes, celle des Andes datant de 11000 ans seulement.
+Et évidemment ma préférée, [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/)qui s'est poursuivie dans les Andes, l'Himalaya et les plateaux éthiopiens, où elle est apparue sous des formes différentes à des époques différentes, celle des Andes datant de 11000 ans seulement.
 
 Notes de bas de page
 

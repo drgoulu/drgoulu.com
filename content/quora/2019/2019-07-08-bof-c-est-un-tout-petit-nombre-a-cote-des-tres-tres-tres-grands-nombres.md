@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-peut-on-se-représenter-le-nombre-factorielle-52/answer/Dr-Goulu)*
 
-Bof c'est un tout petit nombre à côté des [Très très très grands nombres](https://www.drgoulu.com/2008/11/04/tres-tres-tres-grands-nombres/)
+Bof c'est un tout petit nombre à côté des [Très très très grands nombres](/2008/11/04/tres-tres-tres-grands-nombres/)

@@ -26,6 +26,6 @@ Comme on le voit dans le graphique ci-dessous, la vapeur d'eau et le CO2 absorbe
 
 ![](./images/qimg-f1484309c68d335566ef5d223364ee75.jpg)
 
-[(Climat : le graphique qui vaut 10000 mots - Pourquoi Comment Combien](https://www.drgoulu.com/2011/11/13/climat-le-graphique/))
+[(Climat : le graphique qui vaut 10000 mots - Pourquoi Comment Combien](/2011/11/13/climat-le-graphique/))
 
 Intuitivement et très approximativement, c'est la forme des molécules qui détermine leur fréquence de résonance. Les molécules à 3 atomes comme H2O et CO2 ont une forme en V qui peut vibrer comme un diapason, alors que les molécules à deux atomes comme O2 et N2 ne peuvent que (mal) vibrer "axialement". La molécule d'O3 est triangulaire, très rigide et ne vibre qu'à très haute fréquence, absorbant les UV du soleil.

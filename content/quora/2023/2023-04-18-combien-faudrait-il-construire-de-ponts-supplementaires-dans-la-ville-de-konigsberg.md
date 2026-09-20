@@ -25,4 +25,4 @@ Il faut donc ajouter 2 ponts entre n'importe quelles paires de sommets distincts
 
 Si on accepte de ne pas faire de circuit fermé, un seul pont suffit et il faut alors partir d'un sommet ayant un degré impair et terminer à l'autre sommet impair.
 
-[https://www.drgoulu.com/2013/11/...](https://www.drgoulu.com/2013/11/22/le-postier-chinois-de-konigsberg/#.ZD5ocHZByCo)
+[https://www.drgoulu.com/2013/11/...](/2013/11/22/le-postier-chinois-de-konigsberg/#.ZD5ocHZByCo)

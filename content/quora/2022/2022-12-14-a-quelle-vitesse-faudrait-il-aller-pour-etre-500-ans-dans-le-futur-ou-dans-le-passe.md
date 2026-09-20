@@ -27,4 +27,4 @@ Sans retour possible.
 
 Parce que retourner dans le passé ce n'est pas une question de vitesse, c'est BEAUCOUP plus compliqué, même pour une simple particule et pour autant que ce soit possible, ce qu'on ne sait pas encore.
 
-Lisez [Comment construire une machine à explorer le temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)
+Lisez [Comment construire une machine à explorer le temps ? - Pourquoi Comment Combien](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)

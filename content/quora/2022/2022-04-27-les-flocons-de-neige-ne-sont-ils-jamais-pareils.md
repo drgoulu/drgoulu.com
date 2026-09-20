@@ -25,4 +25,4 @@ Il ne faut jamais dire jamais, il y a peut-être eu une fois deux flocons identi
 
 Le fait est que la forme générale des flocons dépend de la température et de l'humidité, qui varie pendant la chute, et que même un microscopique flocon contient des milliards de milliards de molécules d'eau, donc la probabilité qu'elles s'organisent de manière rigoureusement identique frise le zéro.
 
-[https://www.drgoulu.com/2007/01/...](https://www.drgoulu.com/2007/01/23/il-neige-de-beaux-flocons/)
+[https://www.drgoulu.com/2007/01/...](/2007/01/23/il-neige-de-beaux-flocons/)

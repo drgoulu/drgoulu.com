@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Ça dépend des endroits. Là où il y a du vent, c'est l'éolien (nord de l'Europe), sinon le solaire (plutôt au Sud…),
 
-Voir cartes sur [Energie éolienne (et solaire) à prix coutant ? - Pourquoi Comment Combien](https://www.drgoulu.com/2007/08/26/energie-eolienne-et-solaire-a-prix-coutant/#.XQtaduk6-yU)
+Voir cartes sur [Energie éolienne (et solaire) à prix coutant ? - Pourquoi Comment Combien](/2007/08/26/energie-eolienne-et-solaire-a-prix-coutant/#.XQtaduk6-yU)
 
 Les vagues c'est encore plus local, encore expérimental, la difficulté est de résister aux tempêtes…

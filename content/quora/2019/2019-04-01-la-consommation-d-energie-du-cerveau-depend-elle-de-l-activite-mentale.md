@@ -15,4 +15,4 @@ Absolument. Notre cerveau consomme entre 10 et 20% de notre énergie. Sous stres
 
 Heureusement la caféine inhibe cet effet
 
-[Magnifique caféine - Pourquoi Comment Combien](https://www.drgoulu.com/2012/07/07/magnifique-cafeine/#.XKJ-yRg6-yU).
+[Magnifique caféine - Pourquoi Comment Combien](/2012/07/07/magnifique-cafeine/#.XKJ-yRg6-yU).

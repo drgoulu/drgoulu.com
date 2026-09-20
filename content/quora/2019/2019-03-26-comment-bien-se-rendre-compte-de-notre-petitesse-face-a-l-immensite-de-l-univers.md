@@ -29,4 +29,4 @@ On en trouve des versions plus récentes ou interactives, mais l’original rest
 
 A noter qu’aujourd’hui on connaît au moins 2 ordres de grandeur de plus vers le grand, et 2 autres vers le petit. D’une certaine manière 40 ans, notre Univers est devenu 10′000 fois plus vaste … vers le grand on est aux limites, mais vers le petit il reste 17 ordres de grandeur jusqu’à la [Longueur de Planck](w:) …
 
-[Les puissances de dix - Pourquoi Comment Combien](https://www.drgoulu.com/2008/05/16/les-puissances-de-dix/)
+[Les puissances de dix - Pourquoi Comment Combien](/2008/05/16/les-puissances-de-dix/)

@@ -29,7 +29,7 @@ Quelques virus de plus qui ne sont pas adaptés depuis des siècles ne font peur
 
 Si vous voulez apprendre plein de choses sur les virus, lisez (le livre…)
 
-[https://www.drgoulu.com/2016/03/...](https://www.drgoulu.com/2016/03/28/planete-de-virus/)
+[https://www.drgoulu.com/2016/03/...](/2016/03/28/planete-de-virus/)
 
 Notes de bas de page
 

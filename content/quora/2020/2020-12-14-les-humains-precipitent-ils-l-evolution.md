@@ -15,6 +15,6 @@ Indirectement, en modifiant l'environnement très rapidement nous forçons de no
 
 Nous mêmes évoluons en colonisant de nouveaux endroits où en changeant d'alimentation.
 
-[L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+[L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/)
 
 [La tolérance au lait](https://www.sciencesetavenir.fr/archeo-paleo/la-tolerance-au-lait_5965)

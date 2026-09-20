@@ -17,7 +17,7 @@ Le foot est un jeu de hasard, c'est pour ça qu'il déchaîne les passions et le
 
 Lisez (le livre)
 
-[https://www.drgoulu.com/2008/05/...](https://www.drgoulu.com/2008/05/09/la-science-du-football/#.Y6lLpaTfs0E)
+[https://www.drgoulu.com/2008/05/...](/2008/05/09/la-science-du-football/#.Y6lLpaTfs0E)
 
 Les autres facteurs de victoire sont analysés dans ce livre, mais en gros ils se ramènent au principal : la chance.
 

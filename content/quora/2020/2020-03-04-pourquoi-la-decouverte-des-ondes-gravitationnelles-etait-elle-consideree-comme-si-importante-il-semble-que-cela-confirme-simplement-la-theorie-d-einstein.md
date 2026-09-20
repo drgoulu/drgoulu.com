@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Einstein était lui même très hésitant sur l'existence des ondes gravitationnelles, et il pensait qu'on ne les detecterait jamais. Il a eu tort.
 
-[Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/02/14/einstein-et-les-ondes-gravitationnelles/)
+[Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](/2016/02/14/einstein-et-les-ondes-gravitationnelles/)

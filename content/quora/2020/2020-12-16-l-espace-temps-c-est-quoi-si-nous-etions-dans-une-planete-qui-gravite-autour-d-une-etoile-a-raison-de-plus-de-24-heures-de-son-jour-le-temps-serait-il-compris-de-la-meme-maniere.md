@@ -34,4 +34,4 @@ Ou plus fondamentalement encore sur [Temps de Planck](w:), qu'on ne sait pas mes
 
 Mais ce n'est toujours qu'une mesure du phénomène "temps", pas le phénomène lui-même. Un peu comme la température est la mesure de l'agitation des molécules, mais on ne sait toujours pas ce que les unités de temps mesurent vraiment.
 
-Il y a deux principales idées sur [La Nature du Temps](https://www.drgoulu.com/2008/12/24/la-nature-du-temps-2/), toutes deux bien représentées sur Quora, alors bienvenue dans le débat.
+Il y a deux principales idées sur [La Nature du Temps](/2008/12/24/la-nature-du-temps-2/), toutes deux bien représentées sur Quora, alors bienvenue dans le débat.

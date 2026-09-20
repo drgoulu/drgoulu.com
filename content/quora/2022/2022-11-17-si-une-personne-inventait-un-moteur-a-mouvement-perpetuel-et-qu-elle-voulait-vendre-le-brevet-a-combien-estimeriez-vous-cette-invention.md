@@ -17,12 +17,12 @@ Ensuite un tel brevet n'aurait absolument aucune valeur sans prototype fonctionn
 
 Enfin, il faudrait voir le rendement économique de la chose. S'il faut une machine contenant 10 tonnes de platine pour produire un nanowatt de puissance, elle n'aurait aucun intérêt (= Combien)
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/08/combien-pour-ce-brevet/)
+[https://www.drgoulu.com/2009/03/...](/2009/03/08/combien-pour-ce-brevet/)
 
 Et si votre machine s'avère plus rentable que tous les puits de pétrole du monde, toutes les grosses entreprises et les pays puissants vont violer votre brevet à tour de bras et vous passerez le reste de votre de vie à vous ruiner en frais d'avocat pour tenter de faire valoir vos droits.
 
 Mais vous aurez un Prix Nobel grâce à votre publication scientifique. Mais avant ça, il faut commencer par piger le [Théorème de Noether](w:Théorème_de_Noether_(physique)) …
 
-[https://www.drgoulu.com/2012/05/...](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[https://www.drgoulu.com/2012/05/...](/2012/05/27/dites-non-au-mouvement-perpetuel/)
 
 Dans les nombreux commentaires de cet article vous trouverez plusieurs références à des brevets existants (cherchez "brevet" dans la page…) Aucun n'a été vendu. Certains "inventeurs" ont été condamnés pour escroquerie…

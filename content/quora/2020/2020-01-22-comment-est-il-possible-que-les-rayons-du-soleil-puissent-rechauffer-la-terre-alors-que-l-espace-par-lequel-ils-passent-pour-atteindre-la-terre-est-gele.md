@@ -31,4 +31,4 @@ Si l'atmosphère absorbe un tout petit peu plus d'énergie solaire ou d'infrarou
 
 ![](./images/qimg-f1484309c68d335566ef5d223364ee75.jpg)
 
-[Climat : le graphique qui vaut 10000 mots - Pourquoi Comment Combien](https://www.drgoulu.com/2011/11/13/climat-le-graphique/)
+[Climat : le graphique qui vaut 10000 mots - Pourquoi Comment Combien](/2011/11/13/climat-le-graphique/)

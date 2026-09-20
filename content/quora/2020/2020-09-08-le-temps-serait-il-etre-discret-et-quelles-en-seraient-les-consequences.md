@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui, l'espace temps est très probablement discret, et les conséquences sont…qu'il est comme il est…
 
-[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)

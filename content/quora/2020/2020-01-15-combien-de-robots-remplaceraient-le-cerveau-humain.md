@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Les super ordinateurs actuels ont environ la puissance de calcul d'un cerveau. On devrait en avoir de la taille d'un PC vers 2032.
 
-[Combien de processeurs pour un cerveau ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/03/11/combien-de-processeurs-pour-un-cerveau/)
+[Combien de processeurs pour un cerveau ? - Pourquoi Comment Combien](/2013/03/11/combien-de-processeurs-pour-un-cerveau/)

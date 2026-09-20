@@ -22,7 +22,7 @@ coverImage: ./images/quora.png
 
 il n'y a pas de but. L'être humain a cette étrange faculté de croire que, puisqu'il peut se fixer un but de temps en temps, ça doit être la même chose pour les cailloux.
 
-[https://www.drgoulu.com/2009/01/...](https://www.drgoulu.com/2009/01/04/pourquoi-pour-quoi/)
+[https://www.drgoulu.com/2009/01/...](/2009/01/04/pourquoi-pour-quoi/)
 
 L'Univers marche avec des causes, pas des buts.
 

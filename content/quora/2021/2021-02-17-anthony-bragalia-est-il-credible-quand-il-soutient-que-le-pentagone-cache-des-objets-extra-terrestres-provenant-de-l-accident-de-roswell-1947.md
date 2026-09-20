@@ -20,6 +20,6 @@ coverImage: ./images/quora.png
 
 > Les affirmations extraordinaires nécessitent de preuves extraordinaires ( [Marcello Truzzi](w:))
 
-Le seul "métamatériau" censé provenir de Roswell analysé par des chercheurs indépendants ressemble furieusement à un déchet industriel : [I (don't) want to believe - Pourquoi Comment Combien](https://www.drgoulu.com/2020/07/24/i-dont-want-to-believe/#.YCz2mWhsOCo)
+Le seul "métamatériau" censé provenir de Roswell analysé par des chercheurs indépendants ressemble furieusement à un déchet industriel : [I (don't) want to believe - Pourquoi Comment Combien](/2020/07/24/i-dont-want-to-believe/#.YCz2mWhsOCo)
 
 Sérieusement: un vaisseau spatial extra-terrestre franchit des années-lumière, défie les lois de la gravité grâce à sa propulsion magnétohydrodynamique, échappe aux radars et autres menaces grâce à des "métamatériaux" super sophistiqués, et il s'écrase tout seul dans un désert ??? Ils sont vraiment nuls ces E.T. …

@@ -31,4 +31,4 @@ L'hydrogène et l'hélium se sont formés peu après le Big Bang, les autres él
 
 Le Carbone, brique de base de la chimie organique et donc de la vie est produit par la [Réaction triple alpha](w:)dans des étoiles "moyennes", ainsi que l'Oxygène, puis le [Cycle carbone-azote-oxygène](w:) produit l'Azote, et une fois éructé par teratonnes dans l'espace avec l'Hydrogène, vous avez de quoi fabriquer déjà pas mal de jolies molécules bien compliquées.
 
-(Note : je ne suis pas tout à fait d'accord avec le tableau, notamment sur l'Helium. Celui de la Terre provient surtout de [la radioactivité naturelle](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/), voir [Combien d'Helium ? - Pourquoi Comment Combien](https://www.drgoulu.com/2010/07/04/combien-dhelium/) )
+(Note : je ne suis pas tout à fait d'accord avec le tableau, notamment sur l'Helium. Celui de la Terre provient surtout de [la radioactivité naturelle](/2013/11/03/la-radioactivite-naturelle/), voir [Combien d'Helium ? - Pourquoi Comment Combien](/2010/07/04/combien-dhelium/) )

@@ -19,10 +19,10 @@ Par contre une simple idée ne peut pas être protégée par le droit d'auteur, 
 
 Par contre, une fois une idée publiée sous la forme d'un petit texte ou page web datée, il n'est en principe plus possible de [breveter une invention](w:Brevet) basée sur cette idée, **même pour la personne qui l'a eue**. C'est d'ailleurs un moyen de rendre une invention publique, utilisable par tous, tout en empêchant des concurrents de la breveter. Mais ils l'ont fait quand même [[2]](#cdJHi) ;-)
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/08/combien-pour-ce-brevet/)
+[https://www.drgoulu.com/2009/03/...](/2009/03/08/combien-pour-ce-brevet/)
 
 Notes de bas de page
 
-[[1]](#cite-KKPfy)[Radiateurs à Téraflops ? - Pourquoi Comment Combien](https://www.drgoulu.com/2007/11/17/radiateurs-a-teraflops/)
+[[1]](#cite-KKPfy)[Radiateurs à Téraflops ? - Pourquoi Comment Combien](/2007/11/17/radiateurs-a-teraflops/)
 
 [[2]](#cite-cdJHi)[ELECTRIC RADIATOR USING CALCULATING PROCESSORS AS A HEAT SOURCE](https://www.patentsencyclopedia.com/app/20130003294)

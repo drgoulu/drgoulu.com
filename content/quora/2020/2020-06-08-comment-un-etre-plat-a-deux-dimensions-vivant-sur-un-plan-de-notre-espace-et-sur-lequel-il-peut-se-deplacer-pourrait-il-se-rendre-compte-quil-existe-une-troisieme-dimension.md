@@ -23,8 +23,8 @@ coverImage: ./images/quora.png
 
 Il verrait les objets à 3 dimensions qui traversent son plan apparaître et disparaître ou interagir d"une manière ou d'une autre (gravitation, électrostatique etc)
 
-([Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/))
+([Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](/2011/01/30/pourquoi-3-dimensions-1-temps/))
 
 Mais s'il vivait à très petite échelle, par exemple comme un automate cellulaire à l'échelle de Planck, sur des [Pentachore](w:)s où 3 dimensions sont equivalentes à 2, là c'est nous qui verrions des choses qu'on pourrait prendre pour des particules ;-)
 
-[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)

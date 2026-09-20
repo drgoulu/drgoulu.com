@@ -17,4 +17,4 @@ La taille découle directement de la masse, et la vitesse de rotation du moment 
 
 Voir [Trou noir — Wikipédia](w:Trou_noir) et
 
-[https://drgoulu.com/2016/07/10/c...](https://drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[https://drgoulu.com/2016/07/10/c...](/2016/07/10/combien-tourne-un-trou-noir/)

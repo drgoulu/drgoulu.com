@@ -26,6 +26,6 @@ Non, mais il existe:
 2. des méthodes très rapides pour savoir si ces "candidats" sont premiers ou non. Le [Test de primalité de Miller-Rabin](w:) est le plus utilisé en pratique (= en cryptographie pour générer des clés)
 3. avec ce qui précède, du code assz efficace comme [Goulib.math2.nextprime](https://goulib.readthedocs.io/en/latest/_modules/Goulib/math2.html#nextprime) ou [Goulib.math2.random_prime](https://goulib.readthedocs.io/en/latest/_modules/Goulib/math2.html#random_prime)
 
-(voir [Comment trouver des nombres premiers - Pourquoi Comment Combien](https://www.drgoulu.com/2012/04/15/comment-produire-des-nombres-premiers/))
+(voir [Comment trouver des nombres premiers - Pourquoi Comment Combien](/2012/04/15/comment-produire-des-nombres-premiers/))
 
-En passant, il semblerait que les propriétés étonnantes des nombres premiers soient plus liées au principe de base du crible qu'à leur absence de diviseurs. Voir [2019 passée au crible - Pourquoi Comment Combien](https://www.drgoulu.com/2019/01/06/2019-passee-au-crible/)
+En passant, il semblerait que les propriétés étonnantes des nombres premiers soient plus liées au principe de base du crible qu'à leur absence de diviseurs. Voir [2019 passée au crible - Pourquoi Comment Combien](/2019/01/06/2019-passee-au-crible/)

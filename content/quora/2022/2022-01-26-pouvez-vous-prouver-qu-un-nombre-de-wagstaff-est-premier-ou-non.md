@@ -28,4 +28,4 @@ Les nombres premiers de Wagstaff connus sont dans [A000979 - OEIS](https://oeis.
 
 (et ça ne sert à rien d'en chercher d'autres à part pour un record …)
 
-[https://www.drgoulu.com/2012/04/...](https://www.drgoulu.com/2012/04/15/comment-produire-des-nombres-premiers/)
+[https://www.drgoulu.com/2012/04/...](/2012/04/15/comment-produire-des-nombres-premiers/)

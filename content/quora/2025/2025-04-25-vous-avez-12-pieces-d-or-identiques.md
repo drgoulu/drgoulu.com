@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Comme ça :
 
-[https://drgoulu.com/1999/07/21/p...](https://drgoulu.com/1999/07/21/pesee-des-boules/)
+[https://drgoulu.com/1999/07/21/p...](/1999/07/21/pesee-des-boules/)

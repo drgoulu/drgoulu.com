@@ -30,7 +30,7 @@ Darwin a "deviné" il y a 150 ans qu'il devait exister un mécanisme de transmis
 
 Aujourd'hui on sait que les êtres humains continuent à évoluer pour s'adapter à leur environnement. L'exemple le plus simple et bien connu est la[tolérance au lactose](https://acces.ens-lyon.fr/acces/thematiques/evolution/dossiers-thematiques/la-tolerance-au-lactose/la-tolerance-au-lactose-dans-lespece-humaine).
 
-Un autre que j'aime beaucoup est l['adaptation à l'altitude](https://drgoulu.com/2014/08/17/ladaptation-a-laltitude/).
+Un autre que j'aime beaucoup est l['adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/).
 
 Donc voilà, nous sommes des singes capables de vivre dans de plus en plus de lieux différents et de consommer des aliments de plus en plus variés.
 

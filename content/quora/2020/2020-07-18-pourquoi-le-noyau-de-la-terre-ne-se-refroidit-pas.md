@@ -25,7 +25,7 @@ Il refroidit. Lentement. Très lentement.
 
 Au 19ème siècle, Lord Kelvin avait calculé que l'[Âge de la Terre](w:)ne pouvait pas dépasser quelques millions d'années, sinon elle serait déjà toute froide.
 
-Mais il ignorait l'existence de [La radioactivité naturelle](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/):
+Mais il ignorait l'existence de [La radioactivité naturelle](/2013/11/03/la-radioactivite-naturelle/):
 
 > la désintégration d’éléments radioactifs réchauffe la Terre de l’intérieur . On estime actuellement la puissance de ce chauffage nucléaire naturel à environ 24 terawatts , soit l’équivalent de 24’000 centrales nucléaires humaines, ou deux fois la consommation humaine totale d’énergie.
 >

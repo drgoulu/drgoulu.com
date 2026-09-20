@@ -35,4 +35,4 @@ La "caméra" de Planck n'a donc que 54 "pixels", et pas tous dans la même "coul
 
 J'ajoute ma jolie petite anecdote perso sur la cryogénie (et comment on refroidit à 0.1 K) pour ceux qui ne la connaissent pas encore :
 
-[https://www.drgoulu.com/2007/05/...](https://www.drgoulu.com/2007/05/09/plus-froid-que-lespace-2/)
+[https://www.drgoulu.com/2007/05/...](/2007/05/09/plus-froid-que-lespace-2/)

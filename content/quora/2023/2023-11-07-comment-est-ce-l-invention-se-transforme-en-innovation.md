@@ -17,6 +17,6 @@ Voir une des superbes conférences d'Elmar Mock, l'inventeur de la Swatch. Il y 
 
 > l’innovation ne fait de sens que quand elle apparaît sur le marché. Un produit qui n’arrive pas sur le marché a peut-être été une invention, ou une bonne idée, mais en tout cas pas une innovation
 
-[https://www.drgoulu.com/2012/07/...](https://www.drgoulu.com/2012/07/01/innovation/)
+[https://www.drgoulu.com/2012/07/...](/2012/07/01/innovation/)
 
 (Tiens, l'illustration va super bien avec la question.)

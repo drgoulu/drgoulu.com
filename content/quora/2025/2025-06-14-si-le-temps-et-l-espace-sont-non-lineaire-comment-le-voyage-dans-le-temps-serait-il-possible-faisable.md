@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Lisez
 
-[Comment construire une machine à explorer le temps ?](https://drgoulu.com/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)(le livre de Paul Davies)
+[Comment construire une machine à explorer le temps ?](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)(le livre de Paul Davies)
 
 Pas dit que ça marche, mais on devrait essayer (en petit) pour le fun !

@@ -32,6 +32,6 @@ Donc voilà : les nombres acratopèges ont des propriétés, mais ils en ont moi
 
 Notes de bas de page
 
-[[1]](#cite-NdgBq)[Chasse aux nombres acratopèges - Pourquoi Comment Combien](https://www.drgoulu.com/2008/08/24/nombres-acratopeges/)
+[[1]](#cite-NdgBq)[Chasse aux nombres acratopèges - Pourquoi Comment Combien](/2008/08/24/nombres-acratopeges/)
 
-[[2]](#cite-HZGBX)[La minéralisation des nombres - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/18/nombres-mineralises/)
+[[2]](#cite-HZGBX)[La minéralisation des nombres - Pourquoi Comment Combien](/2009/04/18/nombres-mineralises/)

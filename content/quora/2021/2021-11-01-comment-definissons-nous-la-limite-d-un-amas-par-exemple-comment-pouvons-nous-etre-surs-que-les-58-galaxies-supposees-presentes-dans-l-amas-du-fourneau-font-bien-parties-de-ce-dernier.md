@@ -28,7 +28,7 @@ donc on pourrait même prétendre que l'[Amas du Fourneau](w:)est plutôt un "gr
 
 Comme il y a aussi des [Galaxies naines](w:Galaxie_naine), des galaxies en train de fusionner à des stades divers qui font qu'on ne sait pas si elles comptent pour 1, 2 voire 3[[1]](#EpLuh), la situation est du même genre que pour les planètes, planètes naines, [Planétésimal](w:), [Planétoïde](w:), [Protoplanète](w:) et autres "[Petit corps](w:Petit_corps_du_Système_solaire)" : nous écrivons des définitions pour mettre des étiquettes sur ces choses, mais elles n'en ont rien à battre, elles sont comme elles sont.
 
-J'étale un peu la confiture pour mentionner une anecdote que Richard Feynman raconte dans [La science est la croyance en l'ignorance des experts](https://www.drgoulu.com/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)
+J'étale un peu la confiture pour mentionner une anecdote que Richard Feynman raconte dans [La science est la croyance en l'ignorance des experts](/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)
 
 > mon père m’avait enseigné que le nom ne dit rien de l’oiseau. Il m’avait dit “Tu as vu cet oiseau : en anglais on l’appelle [brown-throated thrush](w:en:Dark-throated_Thrush), mais en allemand on l’appelle Halsenflügel, et les chinois l’appellent [赤颈鸫](w:zh:赤颈鸫), et **même si tu connais tous ces noms, tu ne connais toujours rien de l’oiseau**, tu ne sais que quelque chose sur les hommes, comment ils appellent l’oiseau. En fait cette grive chante, apprend à voler à ses jeunes, et pendant l’été elle vole si loin à travers tout le pays, et personne ne sait comment elle trouve son chemin” et ainsi de suite. **Il y a une différence entre le nom d’une chose et ce qui se passe.**
 

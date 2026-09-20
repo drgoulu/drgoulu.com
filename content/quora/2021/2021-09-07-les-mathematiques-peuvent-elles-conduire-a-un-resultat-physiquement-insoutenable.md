@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oh que oui. J'ai une jolie histoire vécue à ce propos, une grande leçon :
 
-[https://www.drgoulu.com/2016/09/...](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[https://www.drgoulu.com/2016/09/...](/2016/09/11/solutions-admissibles/)

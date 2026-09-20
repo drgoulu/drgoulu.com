@@ -23,4 +23,4 @@ Je crois que ça semblait plutôt absurde, à l'envers du bon sens, comme le mon
 
 Exactement ! C'est exactement ça : une inversion du raisonnement qui était très difficile à admettre.
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)
+[https://www.drgoulu.com/2009/03/...](/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)

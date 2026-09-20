@@ -44,4 +44,4 @@ Mais ça c'est sans tenir compte de l'accroissement de la population, et des mil
 
 Ce sont ces deux facteurs POP et PIB/POP de l'Equation de Kaya qui vont vous poser un réel problème, les jeunes…
 
-[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/#.X7o_580VOCo)
+[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/#.X7o_580VOCo)

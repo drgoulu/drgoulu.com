@@ -15,4 +15,4 @@ En fait la caféine empêche l'adénosine de mettre notre cerveau en mode écono
 
 J'adore cette molécule !
 
-[Magnifique caféine - Pourquoi Comment Combien](https://www.drgoulu.com/2012/07/07/magnifique-cafeine/)
+[Magnifique caféine - Pourquoi Comment Combien](/2012/07/07/magnifique-cafeine/)

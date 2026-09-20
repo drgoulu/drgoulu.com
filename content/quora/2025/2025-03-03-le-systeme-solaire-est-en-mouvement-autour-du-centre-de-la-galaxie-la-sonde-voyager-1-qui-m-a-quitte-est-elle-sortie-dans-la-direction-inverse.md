@@ -29,4 +29,4 @@ Elles ont été lancées dans des directions utiles pour l'exploration des plan�
 
 Notes de bas de page
 
-[[1]](#cite-pcXae)[Non, Voyager 1 n'a pas quitté le système solaire - Pourquoi Comment Combien](https://drgoulu.com/2013/09/18/non-voyager-1-na-pas-quitte-le-systeme-solaire/)
+[[1]](#cite-pcXae)[Non, Voyager 1 n'a pas quitté le système solaire - Pourquoi Comment Combien](/2013/09/18/non-voyager-1-na-pas-quitte-le-systeme-solaire/)

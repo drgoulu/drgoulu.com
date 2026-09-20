@@ -27,4 +27,4 @@ Selon le postulat de la Relativité, pour lui tout est normal : s'il accelère s
 
 C est pour un observateur "au repos", ou du moins non accéléré, dans un "référentiel galiléen" que le voyageur tend vers la vitesse de la lumière, se contracte, et devient plus massif (car l'accélération diminue alors que la force de propulsion reste constante)
 
-[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](https://www.drgoulu.com/2004/08/09/acceleration/)
+[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](/2004/08/09/acceleration/)

@@ -34,4 +34,4 @@ Il y a donc seulement deux obstacles à un voyage relativiste:
 
 Notes de bas de page
 
-[[1]](#cite-FErol)[Namibie - Pourquoi Comment Combien](https://www.drgoulu.com/2010/08/27/namibie/)
+[[1]](#cite-FErol)[Namibie - Pourquoi Comment Combien](/2010/08/27/namibie/)

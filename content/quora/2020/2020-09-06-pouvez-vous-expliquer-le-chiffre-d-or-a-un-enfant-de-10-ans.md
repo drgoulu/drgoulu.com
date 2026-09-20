@@ -15,4 +15,4 @@ Mais très volontiers : Tu vois mon petit, c'est un [nombre](w:Nombre_d'or) qui 
 
 Voilà.
 
-[Nombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[Nombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/)

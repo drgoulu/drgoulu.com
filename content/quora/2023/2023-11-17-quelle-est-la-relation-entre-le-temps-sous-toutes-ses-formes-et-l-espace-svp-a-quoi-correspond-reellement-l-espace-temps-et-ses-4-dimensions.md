@@ -23,4 +23,4 @@ coverImage: ./images/quora.png
 
 L'[Espace-temps](w:)est une représentation mathématique qui correspond à toutes nos expériences : les intervalles de temps et d'espace (longueurs) sont relatifs, mais leur rapport reste absolument constant pour tout observateur (dans le vide). Le rapport vaut c, dite "vitesse de la lumière".
 
-Mathématiquement on utilise la Métrique de Minkowski pour décrire ça, dans laquelle [Le temps, est une 4ème dimension imaginaire](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)au sens mathématique du terme.
+Mathématiquement on utilise la Métrique de Minkowski pour décrire ça, dans laquelle [Le temps, est une 4ème dimension imaginaire](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)au sens mathématique du terme.

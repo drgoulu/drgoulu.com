@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Absolument pas. Toutes les espèces évoluent, il n'y a aucune raison qu'Homo Sapiens fasse exception
 
-[L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/) est un exemple spectaculaire d'évolution humaine en cours.
+[L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/) est un exemple spectaculaire d'évolution humaine en cours.

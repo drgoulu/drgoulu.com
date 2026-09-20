@@ -28,4 +28,4 @@ La technologie peut tout faire qui soit compatible avec les connaissances scient
 
 Je donne souvent l’exemple des cellules photovoltaïques. C’est pour l’explication de l’[Effet photoélectrique](w:) en 1905 qu’Einstein a reçu le prix Nobel de physique en 1923 (pas pour la relativité !). Technologiquement, la première [Cellule photovoltaïque](w:) a été réalisée en or et en sélénium en 1883, donc avant qu’on sache pourquoi ça marchait. Son rendement était de 1%. Il a fallu attendre les années 50 et l’industrie du silicium pour atteindre 10%, à un prix tel que ce n’était que l’industrie spatiale qui pouvait se permettre d’en mettre sur les satellites. Aujourd’hui, un rendement de ~20% et des prix en chute libre nous permettent d’imaginer produire une part substantielle de l’énergie dont nous sommes friands dans les prochaines décennies. Un siècle après.
 
-[Pourquoi Comment Combien - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/07/pourquoi-comment-combien/)
+[Pourquoi Comment Combien - Pourquoi Comment Combien](/2009/03/07/pourquoi-comment-combien/)

@@ -31,4 +31,4 @@ On a plutôt suspecté les éclairages avec des leds blanches (qui sont bleues a
 
 En fait le soufflé des filtres anti lumière bleue est totalement retombé.
 
-[Trop-plein de Mai - Pourquoi Comment Combien](https://drgoulu.com/2014/05/28/trop-plein-de-mai/)
+[Trop-plein de Mai - Pourquoi Comment Combien](/2014/05/28/trop-plein-de-mai/)

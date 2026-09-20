@@ -15,4 +15,4 @@ L'évolution humaine continue et continuera encore très longtemps.
 
 Un exemple spectaculaire :
 
-[https://www.drgoulu.com/2014/08/...](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+[https://www.drgoulu.com/2014/08/...](/2014/08/17/ladaptation-a-laltitude/)

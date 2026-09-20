@@ -12,7 +12,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-ne-met-on-pas-tout-simplement-des-panneaux-solaires-et-des-éoliennes-partout-en-France-pour-ne-plus-avoir-à-utiliser-le-nucléaire/answer/Dr-Goulu)*
 
-Tout est dans le petit graphique de [Comment stocker l'énergie - Pourquoi Comment Combien](https://www.drgoulu.com/2012/10/07/comment-stocker-lenergie/)
+Tout est dans le petit graphique de [Comment stocker l'énergie - Pourquoi Comment Combien](/2012/10/07/comment-stocker-lenergie/)
 
 Les supercaps c'est bon pour la puissance (charge /décharge rapide) mais pas bon pour l'énergie.
 

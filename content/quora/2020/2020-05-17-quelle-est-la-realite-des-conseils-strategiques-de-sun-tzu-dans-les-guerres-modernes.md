@@ -25,4 +25,4 @@ Extraordinaire. Sun Tzu est le stratège de la guerre moderne, en particulier de
 
 J'avais trouvé extraordinaire un interview du [général Giáp](w:Võ_Nguyên_Giáp)où il disait n'avoir jamais eu le moindre doute sur sa victoire. Un pays lointain qui envoie ses jeunes démotivés se battre dans un pays qu'ils ne connaissent pas ? Aucune chance, quels que soient les moyens engagés.
 
-[Et Sun Tzu ? - Pourquoi Comment Combien](https://www.drgoulu.com/2007/08/08/et-sun-tzu/)
+[Et Sun Tzu ? - Pourquoi Comment Combien](/2007/08/08/et-sun-tzu/)

@@ -25,4 +25,4 @@ Il n'y a rien d'infini dans un trou noir. Il a une masse finie, un moment cinét
 
 Ce n'est que mathématiquement que certaines fonctions décrivant les trous noirs ont de comportements étranges, notamment la [Fonction de partition](w:). Ceci conduit à penser que l'espace et le temps sont discrets, ce qui élimine le problème.
 
-[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)

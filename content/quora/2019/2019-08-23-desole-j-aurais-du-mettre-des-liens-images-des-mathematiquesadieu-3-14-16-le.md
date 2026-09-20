@@ -15,4 +15,4 @@ Désolé, j'aurais du mettre des liens:
 
 [Images des mathématiques](http://images.math.cnrs.fr/La-valeur-de-pi-n-est-pas-la-bonne.html)
 
-[Adieu 3.14.16 : le 28 juin, ce sera Tau Day - Pourquoi Comment Combien](https://www.drgoulu.com/2016/03/14/adieu-3-14-16-le-26-juin-ce-sera-tau-day/)
+[Adieu 3.14.16 : le 28 juin, ce sera Tau Day - Pourquoi Comment Combien](/2016/03/14/adieu-3-14-16-le-26-juin-ce-sera-tau-day/)

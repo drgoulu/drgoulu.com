@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Le fait le plus étonnant est qu'on fait des lois et tout un ramdam pour quelque chose qui n'existe probablement pas.
 
-[L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/01/lobsolescence-est-elle-programmee-2/)
+[L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](/2013/05/01/lobsolescence-est-elle-programmee-2/)

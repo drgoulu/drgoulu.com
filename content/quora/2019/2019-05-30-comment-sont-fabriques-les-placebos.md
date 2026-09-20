@@ -26,4 +26,4 @@ Rappel : pour les [Essais randomisé contrôlés](w:Essai_randomisé_contrôlé)
 
 Mais puisque vous mentionnez l'homéopathie, là ce n'est pas à votre insu, vous recevez un placebo dans 100% des cas, mais vous le savez.
 
-[Placebo et nocebo - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/21/placebo-et-nocebo/)
+[Placebo et nocebo - Pourquoi Comment Combien](/2009/05/21/placebo-et-nocebo/)

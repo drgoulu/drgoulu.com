@@ -27,4 +27,4 @@ Il y a plein de programmes comme [Alice](http://www.alice.org/) ou [Ceebot](http
 
 Parce que sinon, apprendre à programmer en faisant les exercices d'un tutoriel en mode texte à cet âge, c'est chiant.
 
-[https://www.drgoulu.com/2013/09/...](https://www.drgoulu.com/2013/09/07/la-programmation-latin-du-futur/#.ZByGZHZsOCp)
+[https://www.drgoulu.com/2013/09/...](/2013/09/07/la-programmation-latin-du-futur/#.ZByGZHZsOCp)

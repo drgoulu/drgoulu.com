@@ -32,4 +32,4 @@ Dans ce cas, théoriquement il ne se passe absolument rien. Les deux postulats d
 
 Donc tout est normal pour lui. Il peut vaquer à ses occupations dans son vaisseau spatial, à condition que celui-ci soit bien protégé contre l'énergie des particules "lentes" que le vaisseau percute à une telle vitesse qu'ils dégagent un flux de rayons X, voire gamma.
 
-[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](https://www.drgoulu.com/2004/08/09/acceleration/#.YAXMbOhsOCo)
+[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](/2004/08/09/acceleration/#.YAXMbOhsOCo)

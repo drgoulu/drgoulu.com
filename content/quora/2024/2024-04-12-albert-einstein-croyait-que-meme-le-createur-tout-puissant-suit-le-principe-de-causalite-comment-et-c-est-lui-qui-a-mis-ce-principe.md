@@ -23,10 +23,10 @@ Mais si le temps était justement la "direction" dans laquelle les événements 
 
 Les découvertes d'Einstein datent d'un siècle. On a découvert plein de choses depuis, notamment que si, Dieu a bien l'air de jouer aux dés. Il n'a même l'air de ne faire que ça. Mais les dés sont très légèrement pipés, et le temps pourrait bien être une conséquence de cette "brisure de symétrie" plutôt que quelque chose de fondamental.
 
-[https://drgoulu.com/2009/04/04/m...](https://drgoulu.com/2009/04/04/miroir/)
+[https://drgoulu.com/2009/04/04/m...](/2009/04/04/miroir/)
 
 Notes de bas de page
 
-[[1]](#cite-rBzLQ)[Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](https://drgoulu.com/2008/11/26/ce-queinstein-na-jamais-dit/)
+[[1]](#cite-rBzLQ)[Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](/2008/11/26/ce-queinstein-na-jamais-dit/)
 
-[[2]](#cite-fpdVT)[Le Dieu d'Einstein - Pourquoi Comment Combien](https://drgoulu.com/2008/05/15/le-dieu-deinstein/)
+[[2]](#cite-fpdVT)[Le Dieu d'Einstein - Pourquoi Comment Combien](/2008/05/15/le-dieu-deinstein/)

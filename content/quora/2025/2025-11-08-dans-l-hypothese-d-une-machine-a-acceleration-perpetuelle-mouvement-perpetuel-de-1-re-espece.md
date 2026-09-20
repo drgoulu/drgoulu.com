@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Ni l'un ni l'autre.
 
-[https://drgoulu.com/2004/08/09/a...](https://drgoulu.com/2004/08/09/acceleration/)
+[https://drgoulu.com/2004/08/09/a...](/2004/08/09/acceleration/)
 
 Les deux seuls problèmes sont le carburant et le blindage. Si vous les avez, vous pouvez accélérer indéfiniment. Ce ne sont que les observateurs extérieurs qui vous verront plafonner à c.

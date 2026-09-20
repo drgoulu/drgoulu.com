@@ -27,4 +27,4 @@ Certains vont probablement opposer le "respect de l'environnement" mais ça me s
 
 Pour ma part je préfère les mesures bien quantitatives comme l'[Indice de développement humain](w:) ou le [Happy Planet Index](w:) par exemple. On y voit clairement l'effet de l'échelle des valeurs…
 
-[Unités et classements - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/21/unites-et-classements/)
+[Unités et classements - Pourquoi Comment Combien](/2009/05/21/unites-et-classements/)

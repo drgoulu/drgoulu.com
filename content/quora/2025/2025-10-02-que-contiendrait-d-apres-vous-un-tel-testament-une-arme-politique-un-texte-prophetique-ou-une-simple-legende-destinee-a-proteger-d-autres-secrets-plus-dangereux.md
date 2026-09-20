@@ -30,4 +30,4 @@ Methode efficace pour la [Tombe de Gengis Khan](w:), avec une technique d'exécu
 
 Notes de bas de page
 
-[[1]](#cite-sgxbJ)[Bure, plongée dans l'éternité - Pourquoi Comment Combien](https://drgoulu.com/2014/05/24/bure-pour-leternite/)
+[[1]](#cite-sgxbJ)[Bure, plongée dans l'éternité - Pourquoi Comment Combien](/2014/05/24/bure-pour-leternite/)

@@ -27,4 +27,4 @@ Brian May
 >
 >
 >
-> ([Rock et science - Pourquoi Comment Combien](https://drgoulu.com/2012/10/15/rock-et-science/))
+> ([Rock et science - Pourquoi Comment Combien](/2012/10/15/rock-et-science/))

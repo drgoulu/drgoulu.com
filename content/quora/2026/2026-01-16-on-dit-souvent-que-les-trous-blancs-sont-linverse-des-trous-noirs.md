@@ -24,4 +24,4 @@ Notamment deux qui ne requièrent ni masse négative ni antigravité:
 >
 > ([Trou blanc — Wikipédia](w:Trou_blanc))
 
-C'est quasi exactement le cas de figure que je décris dans [Solutions admissibles - Pourquoi Comment Combien](https://drgoulu.com/2016/09/11/solutions-admissibles/)
+C'est quasi exactement le cas de figure que je décris dans [Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)

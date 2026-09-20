@@ -29,8 +29,8 @@ L'hydrogène est le plus bel exemple actuel de "greenwashing".
 
 Notes de bas de page
 
-[[1]](#cite-erdIf)[Qui veut de l'électricité à prix négatif ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/)
+[[1]](#cite-erdIf)[Qui veut de l'électricité à prix négatif ? - Pourquoi Comment Combien](/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/)
 
-[[2]](#cite-gqkty)[la voiture électrique ne sera pas solaire - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/05/la-voiture-electrique-ne-sera-pas-solaire/)
+[[2]](#cite-gqkty)[la voiture électrique ne sera pas solaire - Pourquoi Comment Combien](/2009/03/05/la-voiture-electrique-ne-sera-pas-solaire/)
 
 [[3]](#cite-OaHtW)[L’hydrogène, la révolution verte dans le réservoir](https://www.swissinfo.ch/fre/energies-renouvelables_l-hydrogène--la-révolution-verte-dans-le-réservoir/46054792)

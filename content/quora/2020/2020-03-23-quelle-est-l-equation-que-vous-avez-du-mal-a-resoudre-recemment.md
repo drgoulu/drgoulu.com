@@ -15,4 +15,4 @@ coverImage: ./images/qimg-cf7c5e3e12366cf07a58740a27c3ad8e.png
 
 Il m'y fallu plusieurs jours pour trouver de quoi causait cette formule gravée sur la tombe d'un ami de la famille, et la comprendre est définitivement hors de ma portée.
 
-[L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](https://www.drgoulu.com/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/#.XnXFbIhsOCo)
+[L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/#.XnXFbIhsOCo)

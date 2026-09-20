@@ -15,4 +15,4 @@ Il ne l'est pas du tout. Citez moi un exemple et je le démonterai facilement en
 
 La seule "exception" est la croissance des plantes, mais c'est plutôt l'optimisation de l'accès à la lumière qui produit des valeurs proches de l' [Angle d'or](w:), pas du nombre.
 
-[Nombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[Nombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/)

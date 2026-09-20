@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce que c'est le mouvement mécanique qui fait la montre.
 
-[Montre Mécanique contre Quartz - Pourquoi Comment Combien](https://www.drgoulu.com/2007/05/15/montre-mecanique-contre-quartz/)
+[Montre Mécanique contre Quartz - Pourquoi Comment Combien](/2007/05/15/montre-mecanique-contre-quartz/)

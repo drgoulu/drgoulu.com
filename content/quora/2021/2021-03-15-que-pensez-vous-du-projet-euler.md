@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 J'ai bien aimé au début, quand on pouvait résoudre des problèmes en se cassant juste un peu la tête sur un algo efficace à programmer. J'ai développé une bonne partie de [Goulu.math2](https://goulib.readthedocs.io/en/latest/modules/Goulib.math2.html) en résolvant ces problèmes
 
-[https://www.drgoulu.com/2009/02/...](https://www.drgoulu.com/2009/02/24/project_euler/)
+[https://www.drgoulu.com/2009/02/...](/2009/02/24/project_euler/)
 
 A un certain niveau , on s'aperçoit que les gens qui connaissent certains théorèmes de théorie des nombres trouvent des solutions de façon incroyablement plus efficace que par programmation, parfois juste avec un papier +crayon.
 

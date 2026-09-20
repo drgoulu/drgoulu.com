@@ -17,7 +17,7 @@ D'autre part il existe des méthodes purement mathématiques d'analyse du positi
 
 Ce qui peut se produire dans certains pays ayant un système d'élection à la majoritaire, c'est un changement de l'axe principal. Je pense que c'est ce qui s'est passé en France, et aux USA notamment
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/#.Yzvhc3aiGCo)
+[https://www.drgoulu.com/2017/05/...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/#.Yzvhc3aiGCo)
 
 Il faut donc à mon humble avis prendre l'expression "extrême droite" avec des pincettes quand on parle de partis ou candidats populistes conservateurs. Si vous considérerez un Trump par exemple, il avait les mineurs de schistes bitumineux dans sa poche et était quand même vachement copain avec Israël, pour un type d'extrême droite …
 

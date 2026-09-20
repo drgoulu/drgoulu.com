@@ -25,4 +25,4 @@ Non. Tesla était un ingénieur génial, pas un physicien . Il n'a laissé aucun
 
 Il était 23 ans plus âgé qu'Einstein, il faisait partie de la génération précédente qui croyait dur comme fer à l'éther et n'était de loin pas le seul à ne pas croire à la relativité. D'ailleurs Einstein a reçu le Nobel en 1921, mais pas pour la relativité parce qu'on la trouvait encore trop spéculative.
 
-[https://www.drgoulu.com/2012/08/...](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[https://www.drgoulu.com/2012/08/...](/2012/08/19/nikola-tesla-genie-mais-connu/)

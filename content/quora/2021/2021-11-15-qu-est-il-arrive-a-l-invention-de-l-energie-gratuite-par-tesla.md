@@ -15,4 +15,4 @@ Tesla n'a pas inventé l'énergie gratuite. Il pensait qu'il y en avait dans l'�
 
 L énergie solaire est gratuite, et c'est étonnant qu'il ne s'y soit pas intéressé.
 
-[https://www.drgoulu.com/2012/08/...](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[https://www.drgoulu.com/2012/08/...](/2012/08/19/nikola-tesla-genie-mais-connu/)

@@ -24,7 +24,7 @@ On a mis (approximativement) le même investissement dans la fusion que dans les
 
 Car la fusion thermonucléaire contrôlée est très différente de la fusion naturelle, voir
 
-[https://www.drgoulu.com/2005/12/...](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[https://www.drgoulu.com/2005/12/...](/2005/12/11/la-fusion-thermonucleaire/)
 
 Ce qui se passe quand un projet dure trop longtemps, c'est qu'un autre le supplante. Les capteurs de fusion naturelle fonctionnent très bien aujourd'hui et fournissent de l'énergie de moins en moins chère 12h par jour.
 

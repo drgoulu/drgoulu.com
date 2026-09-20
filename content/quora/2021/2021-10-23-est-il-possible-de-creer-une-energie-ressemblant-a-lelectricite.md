@@ -16,10 +16,10 @@ coverImage: ./images/quora.png
 3. Il n'y a pas d'autre "énergie libre" que celle fournie par le Soleil*. (la lumière est des ondes électromagnétiques aussi…) Vous mettez quelques panneaux sur votre toit et hop ! vous avez de l'électricité gratuitement. Que voulez-vous de mieux ?
 4. Oh que oui, vous pensez bien que beaucoup aimeraient devenir cheiks de l'électricité à la place des cheiks du pétrole. La plupart sont des naïfs, certains sont des escrocs, et les derniers sont des physiciens qui vous disent :
 
-[https://www.drgoulu.com/2012/05/...](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[https://www.drgoulu.com/2012/05/...](/2012/05/27/dites-non-au-mouvement-perpetuel/)
 
 Note* : bon en fait il y a d'autres "énergies libres", comme les neutrinos ou l'énergie du vide par exemple, mais on ne sait pas la capter, ou alors il faudrait des installations colossales pour des clopinettes.
 
 Notes de bas de page
 
-[[1]](#cite-uWlfg)[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[[1]](#cite-uWlfg)[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](/2012/08/19/nikola-tesla-genie-mais-connu/)

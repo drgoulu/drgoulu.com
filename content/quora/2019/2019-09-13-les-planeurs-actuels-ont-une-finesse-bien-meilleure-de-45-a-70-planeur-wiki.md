@@ -15,4 +15,4 @@ Les planeurs actuels ont une finesse bien meilleure, de 45 à 70 ! [Planeur — 
 
 Un Airbus 380 a une finesse supérieure à 20, de 22 à 25 selon les sources…
 
-[Un jet gros porteur sachant planer ... - Pourquoi Comment Combien](https://www.drgoulu.com/2009/01/25/un-jet-gros-porteur-sachant-planer/)
+[Un jet gros porteur sachant planer ... - Pourquoi Comment Combien](/2009/01/25/un-jet-gros-porteur-sachant-planer/)

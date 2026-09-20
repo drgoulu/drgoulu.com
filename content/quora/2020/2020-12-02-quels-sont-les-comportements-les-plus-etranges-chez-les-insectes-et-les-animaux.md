@@ -30,4 +30,4 @@ source : “Assassin bug nymph with ant prey and ant carcasses on its back…”
 
 Donc voilà, cette bestiole mange des fourmis et se colle leurs cadavres sur le dos pour passer inaperçue …
 
-Toute l'histoire sur [Acanthaspis Petax, CC et Wikipédia - Pourquoi Comment Combien](https://www.drgoulu.com/2013/01/26/acanthapis-petax-cc-et-wikipedia/)
+Toute l'histoire sur [Acanthaspis Petax, CC et Wikipédia - Pourquoi Comment Combien](/2013/01/26/acanthapis-petax-cc-et-wikipedia/)

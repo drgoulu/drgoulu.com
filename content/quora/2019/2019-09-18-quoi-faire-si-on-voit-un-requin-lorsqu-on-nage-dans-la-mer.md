@@ -28,4 +28,4 @@ En fait si vous voyez le requin, vous ne risquez plus rien. Ils attaquent sous l
 
 Et si vous venez de vous écorcher sur du corail, calmez vous. Les requins ne sont attirés que par le sang de poisson.
 
-[Les requins sont-ils attirés par le sang ? - Pourquoi Comment Combien](https://www.drgoulu.com/2014/04/19/les-requins-sont-ils-attires-par-le-sang/)
+[Les requins sont-ils attirés par le sang ? - Pourquoi Comment Combien](/2014/04/19/les-requins-sont-ils-attires-par-le-sang/)

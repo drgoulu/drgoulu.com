@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Non. La caféine est une molécule magnifique, je lui ai écrit une lettre d'amour :
 
-[Magnifique caféine - Pourquoi Comment Combien](https://www.drgoulu.com/2012/07/07/magnifique-cafeine/#.Xeky5uhsOCo)
+[Magnifique caféine - Pourquoi Comment Combien](/2012/07/07/magnifique-cafeine/#.Xeky5uhsOCo)
 
 En fait ce n'est même pas vraiment un excitant, elle a plutôt l'effet d'empêcher le ralentissement du cerveau du au sommeil ou au stress.
 

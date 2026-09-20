@@ -19,6 +19,6 @@ Je prends une fois de plus la Suisse comme exemple : elle a été démocratique 
 
 En 1918 la Suisse à été à ma connaissance le premier pays à avoir un parlement élu à la proportionnelle. Ça lui a conféré une stabilité politique très importante pour le développement économique, notamment via une stabilité monétaire remarquable
 
-[https://www.drgoulu.com/2009/04/...](https://www.drgoulu.com/2009/04/03/combien-vaut-1-franc/#.YveeJ6S-g0E)
+[https://www.drgoulu.com/2009/04/...](/2009/04/03/combien-vaut-1-franc/#.YveeJ6S-g0E)
 
 Le lien avec la propriété intellectuelle est moins évident mais il me semble qu'il faut aussi un système juridique efficace pour défendre l'innovation et donc la création d'entreprise.

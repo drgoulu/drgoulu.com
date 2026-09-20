@@ -20,7 +20,7 @@ coverImage: ./images/qimg-74ea3a9b55dec434b312bebb1b9f19e1.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Qui-a-trouvé-le-mouvement-perpétuel/answer/Dr-Goulu)*
 
-[Le Théorème de Noether a un siècle](https://www.drgoulu.com/2018/06/23/le-theoreme-de-noether-a-un-siecle/#.Xfqc60dsOCo), mais il n'est devenu "à la mode" que depuis les années 1970 , peut-être quand un public plus large que les matheux ou les physiciens théoriciens l'ont compris.
+[Le Théorème de Noether a un siècle](/2018/06/23/le-theoreme-de-noether-a-un-siecle/#.Xfqc60dsOCo), mais il n'est devenu "à la mode" que depuis les années 1970 , peut-être quand un public plus large que les matheux ou les physiciens théoriciens l'ont compris.
 
 ![](./images/qimg-74ea3a9b55dec434b312bebb1b9f19e1.png)
 

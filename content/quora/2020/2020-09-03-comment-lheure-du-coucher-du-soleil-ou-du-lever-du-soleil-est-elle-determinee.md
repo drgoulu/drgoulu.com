@@ -29,4 +29,4 @@ $$D = -\frac{24}{\pi}.\cos^{-1}\left( \tan \lambda \tan\left( \sin^{-1}\left( \s
 
 où α est l’inclinaison de l’axe terrestre ( ~23.5° ), λ la latitude du site et δ l’angle parcouru par la Terre sur son orbite depuis sa position à l'[équinoxe de printemps](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=équinoxe+de+printemps), environ égal au nombre de jours depuis l’équinoxe x 360°/365
 
-[Combien dure un jour - Pourquoi Comment Combien](https://www.drgoulu.com/2013/08/11/combien-dure-un-jour/#.X1EJInmFqCo)
+[Combien dure un jour - Pourquoi Comment Combien](/2013/08/11/combien-dure-un-jour/#.X1EJInmFqCo)

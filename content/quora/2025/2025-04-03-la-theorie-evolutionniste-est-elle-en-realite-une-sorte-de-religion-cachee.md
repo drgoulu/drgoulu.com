@@ -25,7 +25,7 @@ Il n'y a pas de "théorie évolutionniste" .
 
 Ça s'appelle la [Théorie synthétique de l'évolution](w:). Comme vous le voyez, c'est la théorie (synthétique) de quelque chose : l'[Évolution](w:Évolution_(biologie)).
 
-L'évolution est un fait expérimentalement observable, que ce soit dans l'élevage, la sélection des graines pour l'agriculture, le [Moustique du métro de Londres](w:), la [Phalène du bouleau](w:), les variants du virus du Covid ou l['adaptation à l'altitude](https://drgoulu.com/2014/08/17/ladaptation-a-laltitude/)des humains et des milliers d'autres phénomènes que vous pouvez observer vous même en ouvrant les yeux.
+L'évolution est un fait expérimentalement observable, que ce soit dans l'élevage, la sélection des graines pour l'agriculture, le [Moustique du métro de Londres](w:), la [Phalène du bouleau](w:), les variants du virus du Covid ou l['adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/)des humains et des milliers d'autres phénomènes que vous pouvez observer vous même en ouvrant les yeux.
 
 La théorie est "synthétique" parce qu'elle décrit tous ces phénomènes, plus la parenté génétique de toutes les espèces connues par deux phénomènes observables principaux :
 

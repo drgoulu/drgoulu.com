@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Sans les virus, nous serions submergés de bactéries, il y en aurait partout. L'eau de mer contient plus d'un million de virus par litre, ce qui fait qu'en boire une tasse est beaucoup moins dangereux que de l'eau stagnante. Les [Bactériophages](w:Bactériophage)sont probablement nos prochains antibiotiques.
 
-Lisez [Planète de virus](https://www.drgoulu.com/2016/03/28/planete-de-virus/), un livre passionnant.
+Lisez [Planète de virus](/2016/03/28/planete-de-virus/), un livre passionnant.

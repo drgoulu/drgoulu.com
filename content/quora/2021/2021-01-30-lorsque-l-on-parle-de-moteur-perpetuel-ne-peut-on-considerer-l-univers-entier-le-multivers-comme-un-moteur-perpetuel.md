@@ -17,4 +17,4 @@ Or par définition, l'énergie est une grandeur qui se conserve (voir [Théorèm
 
 Reste à savoir si l'univers est un système isolé…
 
-[D ites NON au mouvement perpétuel - Pourquoi Comment Combien](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[D ites NON au mouvement perpétuel - Pourquoi Comment Combien](/2012/05/27/dites-non-au-mouvement-perpetuel/)

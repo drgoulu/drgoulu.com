@@ -15,4 +15,4 @@ Plus grands buts.
 
 Mais justement le football est "intéressant " car c'est un jeu de hasard. Avec plus de buts marqués par partie, l'équipe faible n'aurait plus aucune chance de gagner.
 
-[La science du football - Pourquoi Comment Combien](https://www.drgoulu.com/2008/05/09/la-science-du-football/)
+[La science du football - Pourquoi Comment Combien](/2008/05/09/la-science-du-football/)

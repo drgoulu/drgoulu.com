@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Il y a quelques temps (2006) , la NASA avait fait ce document[[1]](#OYfmT) qui liste 181 raisons de retourner sur la Lune
 
-J'avais écrit [Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/07/18/pour-quoi-retourner-sur-la-lune/#.YCVYNmhsOCo) dont voici ma conclusion:
+J'avais écrit [Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](/2009/07/18/pour-quoi-retourner-sur-la-lune/#.YCVYNmhsOCo) dont voici ma conclusion:
 
 > Après un survol rapide des 181 “objectifs lune”, il me semble que les seuls qui demandent réellement une présence humaine sur la Lune sont ceux dont le but est de permettre une présence humaine sur la Lune… Les objectifs scientifiques et économiques représentant la grande majorité des 181 raisons d’aller sur la Lune peuvent pratiquement toutes être réalisées par des missions automatiques dès aujourd’hui.
 >

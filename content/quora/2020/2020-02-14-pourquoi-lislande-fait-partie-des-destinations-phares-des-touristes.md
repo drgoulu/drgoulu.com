@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Allez-y et vous comprendrez.
 
-[Découvertes islandaises - Pourquoi Comment Combien](https://www.drgoulu.com/2016/08/21/decouvertes-islandaises/)
+[Découvertes islandaises - Pourquoi Comment Combien](/2016/08/21/decouvertes-islandaises/)

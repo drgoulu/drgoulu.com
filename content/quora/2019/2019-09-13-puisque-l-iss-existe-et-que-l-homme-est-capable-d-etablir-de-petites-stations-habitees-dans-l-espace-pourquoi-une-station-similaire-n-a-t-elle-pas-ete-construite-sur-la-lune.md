@@ -36,4 +36,4 @@ Une fois que vous avez bien compris ça, vous êtes prêts pour comprendre le pr
 
 ![](./images/qimg-d6edf5deaceb7871a236a59fced65b46.jpg)
 
-[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](https://www.drgoulu.com/2012/09/05/un-petit-pas-pour-lhomme/)
+[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](/2012/09/05/un-petit-pas-pour-lhomme/)

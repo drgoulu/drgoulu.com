@@ -15,4 +15,4 @@ Non. Rien ne change pour l'observateur extérieur : il voit passer le vaisseau �
 
 C'est pour les passagers du vaisseau spatial que le temps propre diminue. Ils ont donc l'impression d'aller plus vite que lumière.
 
-[https://www.drgoulu.com/2004/08/...](https://www.drgoulu.com/2004/08/09/acceleration/)
+[https://www.drgoulu.com/2004/08/...](/2004/08/09/acceleration/)

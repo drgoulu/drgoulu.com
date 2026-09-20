@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Les ET sont forcément agressifs
 
-[https://drgoulu.com/1999/10/24/psc/](https://drgoulu.com/1999/10/24/psc/)
+[https://drgoulu.com/1999/10/24/psc/](/1999/10/24/psc/)
 
 Le 2ème tome du Problème à Trois Corps l'illustre à merveille avec
 

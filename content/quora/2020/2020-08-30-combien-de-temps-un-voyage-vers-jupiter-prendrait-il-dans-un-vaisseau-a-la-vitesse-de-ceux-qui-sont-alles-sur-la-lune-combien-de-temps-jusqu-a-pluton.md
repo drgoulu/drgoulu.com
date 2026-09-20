@@ -17,4 +17,4 @@ Voyager 1 est passé à côté après un an, mais la [sonde spatiale Juno](w:Jun
 
 Aller vers les planètes demande beaucoup plus d'énergie qu'aller vers la Lune, et paradoxalement aller vers les planètes intérieures comme Mercure demande plus d’énergie qu'aller à l'extérieur du système solaire. [MESSENGER](w:)a mis 6 ans pour aller en orbite autour de Mercure, pourtant beaucoup plus proche que Jupiter.
 
-[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](https://www.drgoulu.com/2012/09/05/un-petit-pas-pour-lhomme/)
+[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](/2012/09/05/un-petit-pas-pour-lhomme/)

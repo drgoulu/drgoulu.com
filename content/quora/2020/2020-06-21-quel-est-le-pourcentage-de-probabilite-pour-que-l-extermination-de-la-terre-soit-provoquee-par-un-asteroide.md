@@ -31,4 +31,4 @@ Le plus gros risque prévu actuellement est [(29075) 1950 DA](w:) en 2880, mais 
 
 Il faudrait vraiment une mega poisse pour qu'un objet provenant de l'extérieur de notre système solaire nous arrive pile dessus, ou dévie un gros objet de notre système pile sur nous.
 
-[Risques météoritiques - Pourquoi Comment Combien](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/)
+[Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)

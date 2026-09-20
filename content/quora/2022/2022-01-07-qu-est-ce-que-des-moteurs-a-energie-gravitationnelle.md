@@ -33,4 +33,4 @@ Ceux qui croient qu'on peut faire de l' "énergie libre" avec la gravitation son
 
 Le champ gravitationnel est un [champ conservatif](w:) : n'importe quel objet qui revient à son état de départ après avoir fait n'importe quelle trajectoire a un bilan d'énergie nul. Négatif avec les frottements.
 
-[https://www.drgoulu.com/2012/05/...](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[https://www.drgoulu.com/2012/05/...](/2012/05/27/dites-non-au-mouvement-perpetuel/)

@@ -21,4 +21,4 @@ La vitesse de la lumière est infinie pour l'objet qui se déplace. Le fait que 
 
 Notes de bas de page
 
-[[1]](#cite-iwyPV)[Les impossibles 1 - Pourquoi Comment Combien](https://www.drgoulu.com/2014/02/02/les-impossibles-1/)
+[[1]](#cite-iwyPV)[Les impossibles 1 - Pourquoi Comment Combien](/2014/02/02/les-impossibles-1/)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Si ça vous intéresse j'ai fait une feuille Excel qui la calcule à partir de données comme les salaires de votre boîte
 
-[Calculateur d'(in)égalité - Pourquoi Comment Combien](https://www.drgoulu.com/2009/10/11/calculateur-dinegalite/)
+[Calculateur d'(in)égalité - Pourquoi Comment Combien](/2009/10/11/calculateur-dinegalite/)

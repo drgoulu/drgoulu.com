@@ -17,4 +17,4 @@ C'est donné par le
 
 Il faut atteindre 15% de c pour voir 1% d'effet relativiste, 40% de c pour voir 10%, et après ça augmente très vite
 
-[https://www.drgoulu.com/2004/08/...](https://www.drgoulu.com/2004/08/09/acceleration/#.YraFBqS-g0E)
+[https://www.drgoulu.com/2004/08/...](/2004/08/09/acceleration/#.YraFBqS-g0E)

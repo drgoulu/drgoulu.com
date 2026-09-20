@@ -33,8 +33,8 @@ Alors je ne peux que vous souhaiter bonne chance …
 
 Notes de bas de page
 
-[[1]](#cite-wufDs)[Initiatives populaires - Pourquoi Comment Combien](https://www.drgoulu.com/2009/12/13/initiatives-populaires/)
+[[1]](#cite-wufDs)[Initiatives populaires - Pourquoi Comment Combien](/2009/12/13/initiatives-populaires/)
 
-[[2]](#cite-VJkdl)[Trop-plein de Mai - Pourquoi Comment Combien](https://www.drgoulu.com/2014/05/28/trop-plein-de-mai/)
+[[2]](#cite-VJkdl)[Trop-plein de Mai - Pourquoi Comment Combien](/2014/05/28/trop-plein-de-mai/)
 
 [[3]](#cite-CriuJ)[Un Savoyard sur deux adhère au rêve d'une «Grande Suisse»](https://www.lefigaro.fr/international/2010/07/29/01003-20100729ARTFIG00585-un-savoyard-sur-deux-adhere-au-reve-d-une-grande-suisse.php)

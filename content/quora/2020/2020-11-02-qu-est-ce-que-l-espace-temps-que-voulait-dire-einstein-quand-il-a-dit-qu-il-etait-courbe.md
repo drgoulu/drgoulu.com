@@ -45,4 +45,4 @@ Les petits cônes représentent les [Cône de lumière](w:) en chaque point de c
 
 Notes de bas de page
 
-[[1]](#cite-JPMRK)[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
+[[1]](#cite-JPMRK)[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)

@@ -19,4 +19,4 @@ S. A. Bolliger, S. Ross, L. Oesterhelweg, M. J. Thali, and B. P. Kneubuehl, “A
 
 la réponse des auteurs (suisses…) est : les deux peuvent vous fracasser le crâne.
 
-[https://www.drgoulu.com/2016/04/...](https://www.drgoulu.com/2016/04/13/ignobel-award-tour-show/)
+[https://www.drgoulu.com/2016/04/...](/2016/04/13/ignobel-award-tour-show/)

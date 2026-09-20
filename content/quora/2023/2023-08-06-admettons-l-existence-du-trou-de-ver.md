@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui c'est l'idée de base de
 
-[https://www.drgoulu.com/2006/06/...](https://www.drgoulu.com/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)
+[https://www.drgoulu.com/2006/06/...](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)

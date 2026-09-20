@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Faites-vous-une-différence-entre-la-science-et-la-technologie-et-si-oui-pourquoi-et-comment/answer/Dr-Goulu)*
 
-La religion c’est peut être “pour quoi’ en deux mots [Pourquoi / Pour Quoi ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/01/04/pourquoi-pour-quoi/)
+La religion c’est peut être “pour quoi’ en deux mots [Pourquoi / Pour Quoi ? - Pourquoi Comment Combien](/2009/01/04/pourquoi-pour-quoi/)

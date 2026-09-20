@@ -32,5 +32,5 @@ Si vous voulez aider en prônant la "décroissance" du PIB/habitant chez vous, d
 
 Reste la croissance nette de la population, qui est désormais due plus à l'augmentation de l'espérance de vie qu'aux nouvelles naissances. Réfléchissez bien avant d'agir là dessus svp… merci !
 
-- [400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/))
-- [Développement Durable et Equation de Kaya - Pourquoi Comment Combien](https://www.drgoulu.com/2009/06/06/developpement-durable-et-equation-de-kaya/) )
+- [400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/))
+- [Développement Durable et Equation de Kaya - Pourquoi Comment Combien](/2009/06/06/developpement-durable-et-equation-de-kaya/) )

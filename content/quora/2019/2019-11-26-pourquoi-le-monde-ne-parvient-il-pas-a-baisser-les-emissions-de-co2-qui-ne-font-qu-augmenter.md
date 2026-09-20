@@ -37,4 +37,4 @@ avec :
 **Le**[**Postulat de Khazzoom-Brookes**](w:Postulat_de_Khazzoom-Brookes) présente un autre aspect de ce qui précède : quand un produit ou service devient plus efficiente en énergie, il devient moins cher. Ce qui fait qu'une plus grande population peut se le payer, et que la consommation globale de ce produit, et donc sa pollution associée, augmente.
 Exemple : les vols en avion …
 
-plus d'infos sur [400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
+plus d'infos sur [400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)

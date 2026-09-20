@@ -34,4 +34,4 @@ Cette carte montre l'amplitude des marées dans le monde, vous voyez qu'elles ne
 
 ![](./images/qimg-025574628a25e123eddbb15e36b4b8a6.jpg)
 
-[Combien de marée - Pourquoi Comment Combien](https://www.drgoulu.com/2017/08/15/combien-de-maree/)
+[Combien de marée - Pourquoi Comment Combien](/2017/08/15/combien-de-maree/)

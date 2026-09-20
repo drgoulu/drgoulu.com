@@ -30,4 +30,4 @@ Des émissions METI comme le [Cosmic Call](w:) ciblaient certaines étoiles jusq
 
 Nous saurons donc d'ici une cinquantaine d'années si une civilisation de type 2 sur l'[Échelle de](w:Échelle_de_Kardachev)Kardachev se cache à moins de 60 années-lumière, une fraction de seconde avant de disparaître.
 
-[Le Grand Filtre - Pourquoi Comment Combien](https://www.drgoulu.com/2012/12/28/le-grand-filtre/)
+[Le Grand Filtre - Pourquoi Comment Combien](/2012/12/28/le-grand-filtre/)

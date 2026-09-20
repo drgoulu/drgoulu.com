@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce qu'ils ont dormi en classe de physique, ou pas appris le [Théorème de Noether](w:Théorème_de_Noether_(physique))qui démontre que l'énergie est juste un nombre invariant en raison de la symétrie par translation dans le temps des lois de la physique.
 
-[https://www.drgoulu.com/2012/05/...](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[https://www.drgoulu.com/2012/05/...](/2012/05/27/dites-non-au-mouvement-perpetuel/)

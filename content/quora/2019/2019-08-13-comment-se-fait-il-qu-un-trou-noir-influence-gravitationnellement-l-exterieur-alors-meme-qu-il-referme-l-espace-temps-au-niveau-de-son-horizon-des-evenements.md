@@ -35,4 +35,4 @@ Bref, la masse du trou noir (qui ne peut plus exister à l'intérieur de l'horiz
 
 Notes de bas de page
 
-[[1]](#cite-dVYdw)[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[[1]](#cite-dVYdw)[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)

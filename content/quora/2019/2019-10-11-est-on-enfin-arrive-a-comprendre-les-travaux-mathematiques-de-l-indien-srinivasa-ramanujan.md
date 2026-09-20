@@ -35,4 +35,4 @@ mais
 
 $1+2+3+\cdots = -\frac1{12}\ (\Re)$ où $(\Re)$ désigne la [Sommation de Ramanujan](w:), ce qui change tout…
 
-Note * : ce qui me rappelle la [Sommation d'Einstein](https://www.drgoulu.com/2016/01/17/einsum/) … est-ce que les génies définissent leur propre sommation ?)
+Note * : ce qui me rappelle la [Sommation d'Einstein](/2016/01/17/einsum/) … est-ce que les génies définissent leur propre sommation ?)

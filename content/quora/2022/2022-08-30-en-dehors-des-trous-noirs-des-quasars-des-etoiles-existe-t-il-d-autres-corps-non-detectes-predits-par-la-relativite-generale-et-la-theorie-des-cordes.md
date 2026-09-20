@@ -33,4 +33,4 @@ Ma préférence va aux [Pâtes nucléaires](w:).
 
 Notes de bas de page
 
-[[1]](#cite-CzWjc)[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/#.Yw35r3aiGCo)
+[[1]](#cite-CzWjc)[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/#.Yw35r3aiGCo)

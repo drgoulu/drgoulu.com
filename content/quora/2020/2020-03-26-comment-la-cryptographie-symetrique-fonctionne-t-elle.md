@@ -19,6 +19,6 @@ Aujourd'hui toutes les solutions informatiques utilisent la Cryptographie asymé
 
 C'est plus facile que ça en a l'air
 
-[Alice et Bob et les clés asymétriques - Pourquoi Comment Combien](https://www.drgoulu.com/2017/02/15/alice-et-bob-et-les-cles-asymetriques/)
+[Alice et Bob et les clés asymétriques - Pourquoi Comment Combien](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/)
 
 Dans votre cas, le disque dur pourrait être encrypté symétriquement, mais seul l'ordinateur dans lequel il est aurait la clé et decoderait+reencoderait les informations avec chaque clé publique de chaque utilisateur authentifié.

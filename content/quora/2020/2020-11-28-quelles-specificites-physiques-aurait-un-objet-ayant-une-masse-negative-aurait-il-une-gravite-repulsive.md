@@ -33,4 +33,4 @@ Donc le frottement, force toujours dirigée en sens inverse du mouvement, ferait
 
 Désolé mais ça fait beaucoup de violations de principes physiques…
 
-[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)

@@ -25,7 +25,7 @@ En dehors de l'énergie solaire, c'est des clopinettes.
 
 L'énergie solaire arrivant sur Terre, c'est une puissance continue de 173 Petawatt. ([Irradiation solaire — Wikipédia](w:Irradiation_solaire))
 
-La seconde source d'énergie de la Terre, c'est la géothermie, entretenue par [la radioactivité naturelle](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/#.Y2QyB6Tfs0E). Puissance continue de 24 Terawatt, 7200 fois moins que le solaire.
+La seconde source d'énergie de la Terre, c'est la géothermie, entretenue par [la radioactivité naturelle](/2013/11/03/la-radioactivite-naturelle/#.Y2QyB6Tfs0E). Puissance continue de 24 Terawatt, 7200 fois moins que le solaire.
 
 La troisième, ce sont les marées, environ 3.8 TW.
 

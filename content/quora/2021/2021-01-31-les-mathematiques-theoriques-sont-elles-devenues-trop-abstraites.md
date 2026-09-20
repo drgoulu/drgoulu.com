@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 "Trop" pour qui ?
 
-Pour moi oui, certainement, voir [L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](https://www.drgoulu.com/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/)
+Pour moi oui, certainement, voir [L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/)
 
 Cela dit, pratiquement toutes les disciplines scientifiques sont ultra-pointues pour les non spécialistes.

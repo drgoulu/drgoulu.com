@@ -36,4 +36,4 @@ Ce qui surprend un peu, ce sont les aigrettes de diffraction, les "pointes des Ã
 
 voir
 
-[https://www.drgoulu.com/2009/01/...](https://www.drgoulu.com/2009/01/17/inventaire-des-croix-du-ciel/)
+[https://www.drgoulu.com/2009/01/...](/2009/01/17/inventaire-des-croix-du-ciel/)

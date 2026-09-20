@@ -13,7 +13,7 @@ coverImage: ./images/qimg-e48bd5176690f9df0ca4b3b071182cdb.jpg
 
 *Réponse publiée [sur Quora](https://fr.quora.com/À-quoi-ressembleraient-les-hommes-sils-étaient-en-4-dimensions/answer/Dr-Goulu)*
 
-Si, c’est dans le dessin de [Voir en 4 dimensions - Pourquoi Comment Combien](https://www.drgoulu.com/2007/02/06/voir-en-4-dimensions/#.XJEZqShsOCo) :
+Si, c’est dans le dessin de [Voir en 4 dimensions - Pourquoi Comment Combien](/2007/02/06/voir-en-4-dimensions/#.XJEZqShsOCo) :
 
 ![](./images/qimg-e48bd5176690f9df0ca4b3b071182cdb.jpg)
 

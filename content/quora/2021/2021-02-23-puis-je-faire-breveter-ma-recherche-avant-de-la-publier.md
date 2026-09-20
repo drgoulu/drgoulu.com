@@ -29,4 +29,4 @@ Franchement : si votre invention peut rapporter beaucoup d'argent et que vous en
 
 Sinon, publiez. Ça vous assure la paternité de vos travaux, et ça empêche quiconque de les breveter.
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/08/combien-pour-ce-brevet/)
+[https://www.drgoulu.com/2009/03/...](/2009/03/08/combien-pour-ce-brevet/)

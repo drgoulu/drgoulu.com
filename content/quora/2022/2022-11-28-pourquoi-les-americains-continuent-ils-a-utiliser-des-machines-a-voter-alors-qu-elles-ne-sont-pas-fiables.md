@@ -37,7 +37,7 @@ Nos constatations :
 
 Moralité : les (bonnes) machines sont 100x plus fiables que le dépouillement manuel. Mais (comme le vote par internet) elles sont plus faciles à contester…
 
-[https://www.drgoulu.com/2012/12/...](https://www.drgoulu.com/2012/12/07/fraudez-benford/)
+[https://www.drgoulu.com/2012/12/...](/2012/12/07/fraudez-benford/)
 
 Notes de bas de page
 

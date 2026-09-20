@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Non. Un trou noir pourrait être l'élément le plus simple et le plus accessible de la seule machine à remonter le temps éventuellement envisageable décrite dans
 
-[https://drgoulu.com/2006/06/16/c...](https://drgoulu.com/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)
+[https://drgoulu.com/2006/06/16/c...](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)
 
 Mais:
 

@@ -14,7 +14,7 @@ coverImage: ./images/quora.png
 C'est vrai pour toutes les planètes qui ne sont pas totalement solidifiées et en rotation synchrone :
 
 - Certaines se refroidissent encore depuis la température élevée de leur formation. C'est vrai pour Jupiter, et un peu pour la Terre
-- [La radioactivité naturelle](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/#.Ywm_oaS-g0E)les chauffe de l'intérieur. Vrai pour la Terre, probablement aussi les autres planètes
+- [La radioactivité naturelle](/2013/11/03/la-radioactivite-naturelle/#.Ywm_oaS-g0E)les chauffe de l'intérieur. Vrai pour la Terre, probablement aussi les autres planètes
 - Frottements dus aux marées pour celles qui sont en rotation, augmenté pour celles qui ont un gros satellite comme la Lune pour la Terre.
 - Frottements dans l'atmosphère, surtout pour les planètes gazeuses. C'est très marqué pour Saturne
 

@@ -32,6 +32,6 @@ Nous ferons peut-être "concurrence avec le soleil" quand nous atteindrons le ni
 
 Notes de bas de page
 
-[[1]](#cite-RmxXY)[L’Hydrogène, énergie du futur ? - Pourquoi Comment Combien](https://www.drgoulu.com/2007/09/06/lhydrogene-energie-du-futur/)
+[[1]](#cite-RmxXY)[L’Hydrogène, énergie du futur ? - Pourquoi Comment Combien](/2007/09/06/lhydrogene-energie-du-futur/)
 
-[[2]](#cite-cigVk)[la fusion thermonucléaire - Pourquoi Comment Combien](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[[2]](#cite-cigVk)[la fusion thermonucléaire - Pourquoi Comment Combien](/2005/12/11/la-fusion-thermonucleaire/)

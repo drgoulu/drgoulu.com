@@ -28,4 +28,4 @@ Les aliments contenant ces molécules créent donc des "illusions thermiques" : 
 
 Il existe une molécule de synthèse, l' [Iciline](w:en:Icilin), qui produit une sensation de froid 200x plus puissante que le menthol. J'espérais qu'elle permette de faire des glaces chaudes, mais j'attends toujours …
 
-[Molécules d'été et divers - Pourquoi Comment Combien](https://www.drgoulu.com/2010/08/01/molecules-dete-et-divers/)
+[Molécules d'été et divers - Pourquoi Comment Combien](/2010/08/01/molecules-dete-et-divers/)

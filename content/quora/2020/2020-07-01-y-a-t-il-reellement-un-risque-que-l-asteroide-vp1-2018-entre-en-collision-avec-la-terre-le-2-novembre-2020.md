@@ -15,4 +15,4 @@ Selon la [Risk List de l'ESA](http://neo.ssa.esa.int/risk-page#:~:text=ESA - Eur
 
 Et c'est un petit caillou, - 3.77 sur l'[Échelle de Palerme](w:), 0 sur l'[Échelle de Turin](w:).
 
-[Risques météoritiques - Pourquoi Comment Combien](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/)
+[Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)

@@ -25,4 +25,4 @@ Comme indiqué plus haut, le risque pour les mineurs d'Uranium est plutôt le [R
 
 Le radon est un gaz très dense, qui reste donc au fond des mines , ou des caves mal ventilées dans les régions à risque (sols granitiques essentiellement)
 
-[La radioactivité naturelle - Pourquoi Comment Combien](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/)
+[La radioactivité naturelle - Pourquoi Comment Combien](/2013/11/03/la-radioactivite-naturelle/)

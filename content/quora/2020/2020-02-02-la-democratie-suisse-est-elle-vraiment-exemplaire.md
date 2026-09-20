@@ -28,7 +28,7 @@ Sur des critères uniques mais arbitrairement choisis par moi, je dirais:
 
 - que la Suisse est le seul pays à avoir un gouvernement (exécutif) fonctionnant à la proportionnelle, et ceci plutôt par consensus que sur des bases constitutionnelles ( voir [Formule magique (Suisse) — Wikipédia](w:Formule_magique_(Suisse)) )
 - que la représentation proportionnelle est généralisée à tous les niveaux (communal, cantonal, fédéral). Le système majoritaire a quasi disparu.
-- que le pouvoir des citoyens sur leur gouvernement, et même sur leur constitution me semble sans égal ( voir [Initiatives populaires - Pourquoi Comment Combien](https://www.drgoulu.com/2009/12/13/initiatives-populaires/#.XjaeqWhsOCo) )
+- que le pouvoir des citoyens sur leur gouvernement, et même sur leur constitution me semble sans égal ( voir [Initiatives populaires - Pourquoi Comment Combien](/2009/12/13/initiatives-populaires/#.XjaeqWhsOCo) )
 
 Cependant pour être "exemplaire", il faudrait que le système soit exportable, et je ne suis pas sur qu'il le soit. Je note que l'Union Européenne ne s'est absolument pas inspirée du système Suisse qui fait ses preuves depuis deux siècles juste en son centre.
 
@@ -36,4 +36,4 @@ Peut-être que c'est nous les Suisses qui avons pris exemple sur ce qu'il ne fal
 
 Notes de bas de page
 
-[[1]](#cite-mTIVx)[Unités et classements - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/21/unites-et-classements/#.Xjad82hsOCo)
+[[1]](#cite-mTIVx)[Unités et classements - Pourquoi Comment Combien](/2009/05/21/unites-et-classements/#.Xjad82hsOCo)

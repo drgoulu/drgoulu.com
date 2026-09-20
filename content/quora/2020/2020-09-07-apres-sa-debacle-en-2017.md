@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 En comprenant que la politique n'a plus une, mais deux dimensions et en se positionnant judicieusement en tenant compte du système électoral…
 
-[La politique française dans la 2ème dimension ? - Pourquoi Comment Combien](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[La politique française dans la 2ème dimension ? - Pourquoi Comment Combien](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)

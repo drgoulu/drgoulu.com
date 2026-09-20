@@ -28,6 +28,6 @@ Donc oui, ça a une influence. En fait presque tout à une influence sur presque
 
 En passant, pour les marées c'est plus complexe.
 
-[https://www.drgoulu.com/2017/08/...](https://www.drgoulu.com/2017/08/15/combien-de-maree/#.YEjKCGhsOCo)
+[https://www.drgoulu.com/2017/08/...](/2017/08/15/combien-de-maree/#.YEjKCGhsOCo)
 
 Si ce phénomène de résonnance se produisait dans notre crâne, il serait extrêmement désagréable. Heureusement, comme nos crânes sont plus petits que des océans, les fréquences de résonnance sont trop élevées pour se trouver dans la nature. Mais il y a des projets d' "armes soniques" qui feraient ce genre de choses..

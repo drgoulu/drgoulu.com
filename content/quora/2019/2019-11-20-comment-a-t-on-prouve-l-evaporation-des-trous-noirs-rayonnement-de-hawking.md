@@ -25,4 +25,4 @@ Ce n'est pas prouvé. Aucune expérience n'a vérifié cette hypothèse, sinon H
 
 Cependant, l'hypothèse de Hawking est cohérente avec le reste de la physique, donc personne ne doute vraiment que ce phénomène existe.
 
-[Plus froid que l’espace - Pourquoi Comment Combien](https://www.drgoulu.com/2007/05/09/plus-froid-que-lespace-2/#.XdV42VdsOCo)
+[Plus froid que l’espace - Pourquoi Comment Combien](/2007/05/09/plus-froid-que-lespace-2/#.XdV42VdsOCo)

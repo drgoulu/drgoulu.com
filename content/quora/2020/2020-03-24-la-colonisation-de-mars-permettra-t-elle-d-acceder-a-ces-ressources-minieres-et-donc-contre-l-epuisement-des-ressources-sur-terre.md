@@ -30,6 +30,6 @@ Autre exemple : l'acier de Damas, ça faisait des super épées arabes. Quand le
 
 Quand on a interdit les CFC parce qu'ils bouffaient la couche d'ozone, les industriels ont dit qu'ils n'avaient pas de solution de remplacement, et pourtant on a toujours des frigos.
 
-Lisez [Combien reste-t-il de ressources minières ? Beaucoup. - Pourquoi Comment Combien](https://www.drgoulu.com/2017/04/28/mythe-de-lepuisement-ressources-minieres/#.Xnp0vYhsOCo) et dormez tranquille.
+Lisez [Combien reste-t-il de ressources minières ? Beaucoup. - Pourquoi Comment Combien](/2017/04/28/mythe-de-lepuisement-ressources-minieres/#.Xnp0vYhsOCo) et dormez tranquille.
 
 La seule ressource minière spatiale identifiée qui vaudra (au futur) le coup d'être exploité, c'est l'[Hélium 3](w:) lunaire.

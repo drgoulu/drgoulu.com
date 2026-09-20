@@ -19,7 +19,7 @@ Et si c'est vraiment quelque chose que tout le monde ignore, alors c'est vraimen
 
 Ce n'est pas du tout de la prétention. Au contraire, comme l'explique l article ci dessous.
 
-[https://www.drgoulu.com/2014/06/...](https://www.drgoulu.com/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/#.ZBoSbKTfs0E)
+[https://www.drgoulu.com/2014/06/...](/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/#.ZBoSbKTfs0E)
 
 Dire "je ne sais pas", ce n'est pas une attitude scientifique. On peut dire "je ne sais pas encore mais je vais chercher et je reviens vers vous" ou "le professeur A dit ceci et le docteur B dit cela, mais on ne sait pas encore lequel a raison parce qu il nous faudrait un nouvel accélérateur de particules à 50 milliards pour le savoir, mais ça viendra…"
 

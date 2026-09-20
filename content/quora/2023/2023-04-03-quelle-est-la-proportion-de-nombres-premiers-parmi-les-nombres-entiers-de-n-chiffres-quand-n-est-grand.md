@@ -29,4 +29,4 @@ il n'y a que 10x plus de nombres premiers de 12 chiffres que de nombres premiers
 
 par exemple pour des nombres entiers de 512 bits, n=154 chiffres décimaux , la densité vaut 0.3% : 3 nombres de 154 chiffres sur 1000 sont premiers, et avec un test de primalité il est quasi instantané d'en trouver. Hop en v'là un : 95798693619967093628787644901385920724520224891681487012485117428228030029969
 
-[https://www.drgoulu.com/2012/04/...](https://www.drgoulu.com/2012/04/15/comment-produire-des-nombres-premiers/#.ZCsO9XaiGCo)
+[https://www.drgoulu.com/2012/04/...](/2012/04/15/comment-produire-des-nombres-premiers/#.ZCsO9XaiGCo)

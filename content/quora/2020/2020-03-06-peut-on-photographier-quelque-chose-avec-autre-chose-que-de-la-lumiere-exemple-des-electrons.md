@@ -17,4 +17,4 @@ Il y a une autre particule qui permet de faire des radiographies extraordinaires
 
 Produits par les rayons cosmiques, ils traversent partiellement de grosses structures comme des volcans ou les pyramides, permettant d'en mesurer leur densité interne.
 
-[Comment radiographier un volcan - Pourquoi Comment Combien](https://www.drgoulu.com/2013/12/07/comment-radiographier-un-volcan/)
+[Comment radiographier un volcan - Pourquoi Comment Combien](/2013/12/07/comment-radiographier-un-volcan/)

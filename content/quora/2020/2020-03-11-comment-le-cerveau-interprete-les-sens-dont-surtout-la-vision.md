@@ -27,7 +27,7 @@ La destruction de certaines zones par un accident ou un AVC par exemple cause de
 
 Pour les autres sens c'est similaire, par exemple le [Cortex auditif](w:) s'occupe de l'audition.
 
-Chez les aveugles de naissance, le cortex visuel est "inutile" et peut donc être "réutilisé" pour d'autres fonctions, notamment pour un truc incroyable : l'écholocation humaine, ou [Comment voir avec ses oreilles](https://www.drgoulu.com/2016/05/18/comment-voir-avec-ses-oreilles/).
+Chez les aveugles de naissance, le cortex visuel est "inutile" et peut donc être "réutilisé" pour d'autres fonctions, notamment pour un truc incroyable : l'écholocation humaine, ou [Comment voir avec ses oreilles](/2016/05/18/comment-voir-avec-ses-oreilles/).
 
 L'image RMN suivante montre l'activité du cerveau chez un aveugle utilisant cette technique : il utilise son cortex visuel, pas l'auditif ! Et si vous essayez, vous allez obtenir le résultat du "control participant" : rien.
 

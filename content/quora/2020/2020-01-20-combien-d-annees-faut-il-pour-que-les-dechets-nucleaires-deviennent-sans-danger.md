@@ -32,7 +32,7 @@ Pour les "actinides mineurs", comptez 10'000 ans
 
 Seuls les [Déchets de haute activité et à vie longue](w:Déchet_de_haute_activité_et_à_vie_longue) (notamment le plutonium apprécié des militaires, ligne bleue) doivent rester plusieurs centaines de milliers d'années sous terre. C'est peut-être beaucoup pour vous, mais pour un géologue ce n'est rien du tout.
 
-[Bure, plongée dans l'éternité - Pourquoi Comment Combien](https://www.drgoulu.com/2014/05/24/bure-pour-leternite/)
+[Bure, plongée dans l'éternité - Pourquoi Comment Combien](/2014/05/24/bure-pour-leternite/)
 
 Ce que j'ai trouvé intéressant dans ces graphiques, ce sont les bosses.
 

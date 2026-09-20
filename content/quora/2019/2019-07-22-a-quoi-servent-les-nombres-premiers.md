@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Principalement à la [Cryptographie](w:). Le [Chiffrement RSA](w:) notamment utilise le fait qu'il est facile de trouver de grands nombres premiers, mais très difficile de les retrouver en factorisant leur produit.
 
-[Alice et Bob et les clés asymétriques - Pourquoi Comment Combien](https://www.drgoulu.com/2017/02/15/alice-et-bob-et-les-cles-asymetriques/)
+[Alice et Bob et les clés asymétriques - Pourquoi Comment Combien](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/)
 
-[Comment trouver des nombres premiers - Pourquoi Comment Combien](https://www.drgoulu.com/2012/04/15/comment-produire-des-nombres-premiers/)
+[Comment trouver des nombres premiers - Pourquoi Comment Combien](/2012/04/15/comment-produire-des-nombres-premiers/)

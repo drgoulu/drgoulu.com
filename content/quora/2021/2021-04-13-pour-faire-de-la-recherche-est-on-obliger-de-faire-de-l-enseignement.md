@@ -17,4 +17,4 @@ Si vous trouvez un job dans un centre de recherche, on ne vous paiera probableme
 
 Dans ma carrière assez variée je n'ai découvert qu'un domaine où on ne demande à des chercheurs ni d'enseigner, ni de publier : le militaire …
 
-[https://www.drgoulu.com/2016/01/...](https://www.drgoulu.com/2016/01/14/avalanches-et-gonimetre-a-infrasons/)
+[https://www.drgoulu.com/2016/01/...](/2016/01/14/avalanches-et-gonimetre-a-infrasons/)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non, je pense qu'elle est aussi efficace que les placebo. Et les résultats experimentaux le confirment.
 
-[Placebo et nocebo - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/21/placebo-et-nocebo/)
+[Placebo et nocebo - Pourquoi Comment Combien](/2009/05/21/placebo-et-nocebo/)

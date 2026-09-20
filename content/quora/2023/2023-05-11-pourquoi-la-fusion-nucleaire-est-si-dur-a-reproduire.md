@@ -42,7 +42,7 @@ Et puis je me demande si la question est bien posée : on a un énorme réacteur
 
 500'000 km2 (la surface de l'Espagne) de panneaux à 20% de rendement et on y est. Et ça on sait faire.
 
-[https://www.drgoulu.com/2005/12/...](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[https://www.drgoulu.com/2005/12/...](/2005/12/11/la-fusion-thermonucleaire/)
 
 Notes de bas de page
 

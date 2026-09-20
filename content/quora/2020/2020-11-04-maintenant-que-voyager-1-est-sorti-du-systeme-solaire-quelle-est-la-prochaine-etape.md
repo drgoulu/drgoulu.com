@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Les sondes Voyager sont "sorties du système solaire" de nombreuses fois, et sont encore dedans suivant la définition que l'on donne à "système solaire"
 
-voir [Non, Voyager 1 n'a pas quitté le système solaire - Pourquoi Comment Combien](https://www.drgoulu.com/2013/09/18/non-voyager-1-na-pas-quitte-le-systeme-solaire/#.X6LGnWgVOCo)
+voir [Non, Voyager 1 n'a pas quitté le système solaire - Pourquoi Comment Combien](/2013/09/18/non-voyager-1-na-pas-quitte-le-systeme-solaire/#.X6LGnWgVOCo)
 
 La prochaine étape, malheureusement prochaine, est la perte de communication due à l'épuisement de leur [Générateur thermoélectrique à radioisotope](w:) fournissant l'alimentation électrique indispensable.
 

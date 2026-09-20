@@ -35,4 +35,4 @@ Quelques algorithmes de routage:
 
 Notes de bas de page
 
-[[1]](#cite-dyGvl)[Le GPS pour les nuls : Cartes et Routage - Pourquoi Comment Combien](https://www.drgoulu.com/2008/09/28/le-gps-pour-les-nuls-cartes-et-routage/#.XLScoeiiGCo)
+[[1]](#cite-dyGvl)[Le GPS pour les nuls : Cartes et Routage - Pourquoi Comment Combien](/2008/09/28/le-gps-pour-les-nuls-cartes-et-routage/#.XLScoeiiGCo)

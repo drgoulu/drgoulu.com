@@ -27,4 +27,4 @@ Les faits établis désormais par des centaines de chercheurs du monde entier so
 
 Il y a des scientifiques qui croient aux ovnis ou à l'homéopathie, il est possible qu'il y en ait aussi qui nient le réchauffement climatique ou sa cause anthropique, mais ils se sont avérés incapables de [réfuter](w:Réfutabilité) les faits ou de démontrer la validité de leur modèle alternatif.
 
-[FAQ Réchauffement Global - Pourquoi Comment Combien](https://www.drgoulu.com/2007/05/23/faq-rechauffement-global/)
+[FAQ Réchauffement Global - Pourquoi Comment Combien](/2007/05/23/faq-rechauffement-global/)

@@ -40,4 +40,4 @@ Et
 
 Nous vivons sur une
 
-[https://www.drgoulu.com/2016/03/...](https://www.drgoulu.com/2016/03/28/planete-de-virus/)
+[https://www.drgoulu.com/2016/03/...](/2016/03/28/planete-de-virus/)

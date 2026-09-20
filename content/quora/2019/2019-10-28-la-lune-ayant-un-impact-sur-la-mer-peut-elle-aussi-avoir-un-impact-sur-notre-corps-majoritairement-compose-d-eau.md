@@ -38,4 +38,4 @@ on obtient la force de la Lune sur moi : $F = 3.29\times10^{-3} N$
 
 Les marées sont importantes en raison d'un phénomène de résonance d'énormes masses d'eau "excitées" par l'attraction lunaire (et solaire)
 
-[Combien de marée - Pourquoi Comment Combien](https://www.drgoulu.com/2017/08/15/combien-de-maree/#.XbdqJOhsOCo)
+[Combien de marée - Pourquoi Comment Combien](/2017/08/15/combien-de-maree/#.XbdqJOhsOCo)

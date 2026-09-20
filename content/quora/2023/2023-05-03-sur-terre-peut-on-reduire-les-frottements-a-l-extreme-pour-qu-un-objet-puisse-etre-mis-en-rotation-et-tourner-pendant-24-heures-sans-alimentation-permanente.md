@@ -17,4 +17,4 @@ les plus extraordinaires gyroscopes "mécaniques" qui ont été réalisés sont 
 
 [http://einstein.stanford.edu/TEC...](http://einstein.stanford.edu/TECH/technology1.html#gyros)
 
-[https://www.drgoulu.com/2010/04/...](https://www.drgoulu.com/2010/04/09/gyroscopes-dhier-et-de-demain/)
+[https://www.drgoulu.com/2010/04/...](/2010/04/09/gyroscopes-dhier-et-de-demain/)

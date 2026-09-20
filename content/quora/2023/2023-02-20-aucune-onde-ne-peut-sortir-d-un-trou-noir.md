@@ -17,7 +17,7 @@ Il faut en fait que le [quadrupôle gravitationnel](http://www.wikipedia.org/sea
 
 Mais vous avez une excuse : même Einstein s'est planté, au début.
 
-[https://www.drgoulu.com/2016/02/...](https://www.drgoulu.com/2016/02/14/einstein-et-les-ondes-gravitationnelles/)
+[https://www.drgoulu.com/2016/02/...](/2016/02/14/einstein-et-les-ondes-gravitationnelles/)
 
 Donc non, le champ de gravitation ne "sort" pas du trou noir, et comme l'a dit BernardO il n'y a même pas besoin qu'il y ait quelque chose à l'intérieur de l'horizon des événements, cet horizon pourrait garder la "mémoire" de sa courbure.
 

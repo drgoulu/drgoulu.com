@@ -34,6 +34,6 @@ Ensuite on remarque les "backquotes" `…` au lieu des apostrophes et on découv
 
 et comme ** est l'opérateur d’exponentiation et que 14**7*9=948721536
 
-ben m va itérer dans la chaîne "948721536" qui contient une seule fois chaque chiffre de 1 à 9, ce qui est utile au [Sudoku](https://www.drgoulu.com/2008/10/12/python/) !
+ben m va itérer dans la chaîne "948721536" qui contient une seule fois chaque chiffre de 1 à 9, ce qui est utile au [Sudoku](/2008/10/12/python/) !
 
 D'accord, c'est presque de l'obfuscation, mais là le but est plutôt d'utiliser le moins de caractères possibles …

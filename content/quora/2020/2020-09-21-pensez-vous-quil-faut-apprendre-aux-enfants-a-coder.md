@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Pas forcément. Et pas trop tôt. Et pas dans le but d'en faire des programmeurs. Plutôt dans l'esprit où on enseignait le latin dans le temps.
 
-[La programmation, latin du futur ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/09/07/la-programmation-latin-du-futur/)
+[La programmation, latin du futur ? - Pourquoi Comment Combien](/2013/09/07/la-programmation-latin-du-futur/)

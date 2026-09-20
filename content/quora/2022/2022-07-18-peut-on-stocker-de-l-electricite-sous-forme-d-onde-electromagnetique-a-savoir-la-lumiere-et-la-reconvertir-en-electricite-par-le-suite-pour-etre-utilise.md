@@ -15,4 +15,4 @@ On ne sait pas stocker des ondes électromagnétiques, lumière, radio ou autres
 
 Un moyen assez cool de stocker l'électricité, c'est dans un champ magnétique continu avec une bobine supraconductrice ([SMES — Wikipédia](w:SMES)) mais les oiseaux migrateurs risquent de perdre leur boussole.
 
-[https://www.drgoulu.com/2012/10/...](https://www.drgoulu.com/2012/10/07/comment-stocker-lenergie/#.YtXDkaS-g0E)
+[https://www.drgoulu.com/2012/10/...](/2012/10/07/comment-stocker-lenergie/#.YtXDkaS-g0E)

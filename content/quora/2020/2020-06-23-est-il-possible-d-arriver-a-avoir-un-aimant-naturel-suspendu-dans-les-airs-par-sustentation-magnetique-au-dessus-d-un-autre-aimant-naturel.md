@@ -17,4 +17,4 @@ Sans tube, il vous faut soit placer plusieurs aimants pour obtenir une configura
 
 ![](./images/qimg-dd82ede4c29a3bfd5c93bccfebe1d839.jpg)
 
-[Le carbone pyrolytique, c'est fantastique - Pourquoi Comment Combien](https://www.drgoulu.com/2014/03/15/le-carbone-pyrolytique-cest-fantastique/)
+[Le carbone pyrolytique, c'est fantastique - Pourquoi Comment Combien](/2014/03/15/le-carbone-pyrolytique-cest-fantastique/)

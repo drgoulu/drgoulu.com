@@ -17,4 +17,4 @@ La pression [kg/m.s²] n'est pas une énergie [kg.m²/s²] . Entre deux, il y a 
 
 Vous voulez le regonfler pour recommencer ? Il va vous falloir fournir exactement l'énergie fournie par l'écrabouillement…
 
-[https://drgoulu.com/2012/05/27/d...](https://drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[https://drgoulu.com/2012/05/27/d...](/2012/05/27/dites-non-au-mouvement-perpetuel/)

@@ -15,4 +15,4 @@ On ne peut pas évoluer "plus", "moins" ou "davantage". L'évolution n'a ni éch
 
 Quand une espèce est adaptée à son environnement, elle est "parfaite". Nous sommes aussi adaptés et parfaits que les vers de terre ou les moustiques.
 
-L'évolution humaine se poursuit, notamment avec [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+L'évolution humaine se poursuit, notamment avec [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/)

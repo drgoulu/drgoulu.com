@@ -38,4 +38,4 @@ Notes de bas de page
 
 [[2]](#cite-AOnTi)[Search for Past Life on Mars: Possible Relic Biogenic Activity in Martian Meteorite ALH84001](http://science.sciencemag.org/content/273/5277/924)
 
-[[3]](#cite-aWiZi)[Y'a-t-il des trous noirs dans la mer ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/10/05/ya-t-il-des-trous-noirs-dans-la-mer/)
+[[3]](#cite-aWiZi)[Y'a-t-il des trous noirs dans la mer ? - Pourquoi Comment Combien](/2013/10/05/ya-t-il-des-trous-noirs-dans-la-mer/)

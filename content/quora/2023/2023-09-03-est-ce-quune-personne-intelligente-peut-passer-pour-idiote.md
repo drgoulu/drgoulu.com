@@ -44,4 +44,4 @@ Moi : "mais je m'en suis donné … J'ai remarqué déjà le premier jour que tu
 
 Lui : "On aurait du te mettre [observateur](w:Observateur_d'artillerie) plutôt qu'artilleur…" Moi : "j'ai fait ce qu'il fallait au recrutement pour rester planqué dedans…"
 
-Et effectivement, j'ai fini ma carrière militaire comme simple soldat dans les labos de recherche de l'armée, à faire des choses très intéressantes ( voir [Avalanches et goniomètre à infrasons - Pourquoi Comment Combien](https://www.drgoulu.com/2016/01/14/avalanches-et-gonimetre-a-infrasons/) )
+Et effectivement, j'ai fini ma carrière militaire comme simple soldat dans les labos de recherche de l'armée, à faire des choses très intéressantes ( voir [Avalanches et goniomètre à infrasons - Pourquoi Comment Combien](/2016/01/14/avalanches-et-gonimetre-a-infrasons/) )

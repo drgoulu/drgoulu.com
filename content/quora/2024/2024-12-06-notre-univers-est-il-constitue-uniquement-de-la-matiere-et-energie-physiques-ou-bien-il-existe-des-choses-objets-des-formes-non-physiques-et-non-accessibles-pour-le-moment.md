@@ -29,7 +29,7 @@ On en cause depuis des millénaires, et on en voit toujours pas le moindre comme
 >
 >
 >
-> ([Les puissances de dix - Pourquoi Comment Combien](https://drgoulu.com/2008/05/16/les-puissances-de-dix/))
+> ([Les puissances de dix - Pourquoi Comment Combien](/2008/05/16/les-puissances-de-dix/))
 
 Et toujours pas la moindre trace de trucs non physiques ou de leurs effets.
 

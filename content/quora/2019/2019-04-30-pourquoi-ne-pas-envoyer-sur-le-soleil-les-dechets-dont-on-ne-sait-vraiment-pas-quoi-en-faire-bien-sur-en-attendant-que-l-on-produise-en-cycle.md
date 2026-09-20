@@ -30,4 +30,4 @@ Pour envoyer la même fusée très loin, “il suffit de” la lancer à ~10 km/
 
 Dans les deux cas il faut ajouter les 11.2 km/s de [Vitesse de libération](w:) de la Terre, donc on doit lancer à ~20 km/s vers l’espace lointain, et à ~40 vers le Soleil. Je ne sais plus si la loi est en carré ou au cube, mais la fusée vers le Soleil va coûter 4 à 8 fois plus …
 
-[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](https://www.drgoulu.com/2012/09/05/un-petit-pas-pour-lhomme/)
+[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](/2012/09/05/un-petit-pas-pour-lhomme/)

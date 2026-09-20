@@ -35,6 +35,6 @@ photos prises à la même altitude …
 
 Notes de bas de page
 
-[[1]](#cite-PmXMw)[Obsédé par le Cervin - Pourquoi Comment Combien](https://www.drgoulu.com/2012/02/19/cervin/)
+[[1]](#cite-PmXMw)[Obsédé par le Cervin - Pourquoi Comment Combien](/2012/02/19/cervin/)
 
-[[2]](#cite-GANlK)[L'adaptation à l'altitude - Pourquoi Comment Combien](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+[[2]](#cite-GANlK)[L'adaptation à l'altitude - Pourquoi Comment Combien](/2014/08/17/ladaptation-a-laltitude/)

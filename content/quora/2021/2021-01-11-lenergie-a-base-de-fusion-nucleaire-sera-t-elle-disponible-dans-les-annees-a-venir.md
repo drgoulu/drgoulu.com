@@ -26,4 +26,4 @@ A ce moment là on saura la seule chose qui compte : le prix du kWh ainsi produi
 
 Une des autres sources en compétition qui existe déjà et dont le prix au kWh n'arrête pas de baisser est la fusion nucléaire naturelle. L'énergie solaire, quoi. Mon petit doigt me dit que ce sera vraiment difficile d'être meilleur marché que le photovoltaïque à ce moment là, qui sera peut-être disponible sous forme de simples couches de peinture …
 
-[la fusion thermonucléaire - Pourquoi Comment Combien](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[la fusion thermonucléaire - Pourquoi Comment Combien](/2005/12/11/la-fusion-thermonucleaire/)

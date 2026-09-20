@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 C'est immédiat. En factorisant la clé publique, vous obtenez la clé privée
 
-[Alice et Bob et les clés asymétriques - Pourquoi Comment Combien](https://www.drgoulu.com/2017/02/15/alice-et-bob-et-les-cles-asymetriques/)
+[Alice et Bob et les clés asymétriques - Pourquoi Comment Combien](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/)

@@ -27,4 +27,4 @@ Si on construisait un vaisseau capable d'atteindre 84% de la vitesse de la lumi�
 
 La vitesse de la lumière est infinie pour les passagers.
 
-[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](https://www.drgoulu.com/2004/08/09/acceleration/#.X1FANnmFqCo)
+[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](/2004/08/09/acceleration/#.X1FANnmFqCo)

@@ -30,4 +30,4 @@ Malgré ce que certains continuent à répéter sans vérifier, il n existe aucu
 
 Par exemple, l'homme de Vitruve de De Vinci s'appelle ainsi car il utilise les proportions de Vitruve, pas le nombre d'or.
 
-[https://www.drgoulu.com/2016/07/...](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/#.YmRa0Bi-g0E)
+[https://www.drgoulu.com/2016/07/...](/2016/07/03/nombre-dor-et-abeilles/#.YmRa0Bi-g0E)

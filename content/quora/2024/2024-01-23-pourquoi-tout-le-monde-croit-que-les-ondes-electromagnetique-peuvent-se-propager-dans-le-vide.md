@@ -23,7 +23,7 @@ Les [ondes gravitationnelles](w:Onde_gravitationnelle) n'ont pas grand chose à 
 
 Il n'a pas donc pas changé d'avis en rapport avec le graviton mais plutôt sur les ondes gravitationnelles elles-mêmes, parce que les maths d'une onde qui déforme le temps ne sont pas du tout aussi simples que celles d'une onde fonction du temps.
 
-[https://www.drgoulu.com/2016/02/...](https://www.drgoulu.com/2016/02/14/einstein-et-les-ondes-gravitationnelles/)
+[https://www.drgoulu.com/2016/02/...](/2016/02/14/einstein-et-les-ondes-gravitationnelles/)
 
 Enfin, tout le monde ne **croit** pas que les ondes électromagnétiques peuvent se propager dans le vide, tout le monde le **sait**.
 

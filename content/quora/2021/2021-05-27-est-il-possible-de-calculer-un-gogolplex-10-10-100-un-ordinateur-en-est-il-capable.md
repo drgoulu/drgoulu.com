@@ -64,8 +64,8 @@ Ensuite, la fonction tenprint imprime le nombre sous forme d'un '1' suivi d'un z
 
 En passant, les itérateurs permettent même de représenter et de manipuler des objets infinis :
 
-[https://www.drgoulu.com/2017/06/...](https://www.drgoulu.com/2017/06/26/series-infinies-et-oeis-en-python/)
+[https://www.drgoulu.com/2017/06/...](/2017/06/26/series-infinies-et-oeis-en-python/)
 
 Donc ce n'est pas un tout petit nombre de rien du tout comme un gogolplex qui va leur faire peur.
 
-[https://www.drgoulu.com/2008/11/...](https://www.drgoulu.com/2008/11/04/tres-tres-tres-grands-nombres/)
+[https://www.drgoulu.com/2008/11/...](/2008/11/04/tres-tres-tres-grands-nombres/)

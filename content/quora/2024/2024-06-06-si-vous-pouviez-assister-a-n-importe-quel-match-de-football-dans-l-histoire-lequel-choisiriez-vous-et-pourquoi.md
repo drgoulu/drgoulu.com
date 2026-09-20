@@ -15,4 +15,4 @@ Tolochenaz - Montricher la fois où ils ont fait 0-0.
 
 Ca permet de dormir tranquille ou de faire autre chose de constructif en attendant la fin.
 
-[https://drgoulu.com/2008/05/09/l...](https://drgoulu.com/2008/05/09/la-science-du-football/)
+[https://drgoulu.com/2008/05/09/l...](/2008/05/09/la-science-du-football/)

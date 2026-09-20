@@ -15,4 +15,4 @@ coverImage: ./images/quora.png
 
 Pas de règle car les nombres premiers n'en suivent aucune.
 
-[https://drgoulu.com/2019/01/06/2...](https://drgoulu.com/2019/01/06/2019-passee-au-crible/)
+[https://drgoulu.com/2019/01/06/2...](/2019/01/06/2019-passee-au-crible/)

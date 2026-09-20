@@ -30,7 +30,7 @@ Les russes ont eu de gros problème de fiabilité attestés par les nombreux éc
 
 J'ai réalisé autre chose lors d'un cours sur la fiabilité où nous avons étudié l'AMDEC de la fusée Saturn-V (dont je cause ici , et disponible dans les références) :
 
-[https://www.drgoulu.com/2012/09/...](https://www.drgoulu.com/2012/09/05/un-petit-pas-pour-lhomme/)
+[https://www.drgoulu.com/2012/09/...](/2012/09/05/un-petit-pas-pour-lhomme/)
 
 Les Ricains ont eu ENORMEMENT DE CHANCE. Le risque de "panne catastrophique" (comprenez mort de l'équipage) était évalué à 10% pour le lanceur, et 10% pour le reste. Ils avaient 20% de "chances" d'y rester à chaque mission Apollo, et il y en a eu 6 (7 avec Apollo 13) qui ont réussi.
 

@@ -29,4 +29,4 @@ Donc voilà la réponse à votre question : vous avez de bon Rois qui ne font pa
 
 En Suisse nous avons le pouvoir et nous ne laissons à nos politiques que les affaires courantes. Sur tous les sujets d’importance, il y a initiative ou référendum. 4 par an en moyenne.
 
-[Initiatives populaires - Pourquoi Comment Combien](https://www.drgoulu.com/2009/12/13/initiatives-populaires/#.XL9k9-iiGCo)
+[Initiatives populaires - Pourquoi Comment Combien](/2009/12/13/initiatives-populaires/#.XL9k9-iiGCo)

@@ -31,4 +31,4 @@ Je pourrais aussi vous dire qu'on sait faire des [Avions à propulsion nucléair
 
 Notes de bas de page
 
-[[1]](#cite-nrHsk)[Pourquoi seulement 2000 Watts ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/02/pourquoi-seulement-2000-watts/)
+[[1]](#cite-nrHsk)[Pourquoi seulement 2000 Watts ? - Pourquoi Comment Combien](/2009/05/02/pourquoi-seulement-2000-watts/)

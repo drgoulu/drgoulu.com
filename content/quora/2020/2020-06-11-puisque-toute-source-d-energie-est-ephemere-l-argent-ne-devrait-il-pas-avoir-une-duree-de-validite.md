@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ca s'appelle l'inflation.
 
-[Combien vaut 1 franc ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/03/combien-vaut-1-franc)
+[Combien vaut 1 franc ? - Pourquoi Comment Combien](/2009/04/03/combien-vaut-1-franc/)

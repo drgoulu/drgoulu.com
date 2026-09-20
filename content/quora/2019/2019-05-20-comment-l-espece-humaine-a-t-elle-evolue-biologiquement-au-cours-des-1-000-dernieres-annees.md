@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 1000 ans ça ne fait que 50 générations, pas assez pour une évolution "visible".
 
-[L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/) qui est l'évolution humaine la plus visible à ma connaissance a pris de 10 à 25'000 ans jusqu'ici, et c'est toujours en cours.
+[L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/) qui est l'évolution humaine la plus visible à ma connaissance a pris de 10 à 25'000 ans jusqu'ici, et c'est toujours en cours.

@@ -75,4 +75,4 @@ Note* : en fait c'est plus compliqué que ça, voir la doc de [Goulib.math2.is_p
 
 Plus sur ce sujet :
 
-[https://www.drgoulu.com/2012/04/...](https://www.drgoulu.com/2012/04/15/comment-produire-des-nombres-premiers/)
+[https://www.drgoulu.com/2012/04/...](/2012/04/15/comment-produire-des-nombres-premiers/)

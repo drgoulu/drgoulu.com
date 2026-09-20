@@ -15,4 +15,4 @@ coverImage: ./images/quora.png
 
 Ca m'a fait comprendre que je vivais une époque d'accélération incroyable des connaissances et des moyens qui rendaient le futur de moins en moins prévisible mais que les rêves les plus fous pouvaient se réaliser en un siècle ou moins.
 
-[https://www.drgoulu.com/2013/04/...](https://www.drgoulu.com/2013/04/28/pourquoi-je-kiffe-la-science/)
+[https://www.drgoulu.com/2013/04/...](/2013/04/28/pourquoi-je-kiffe-la-science/)

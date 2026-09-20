@@ -13,11 +13,11 @@ coverImage: ./images/quora.png
 
 Lisez ça
 
-[https://drgoulu.com/2016/09/11/s...](https://drgoulu.com/2016/09/11/solutions-admissibles/)
+[https://drgoulu.com/2016/09/11/s...](/2016/09/11/solutions-admissibles/)
 
 Et ca:
 
-[https://drgoulu.com/2011/11/06/l...](https://drgoulu.com/2011/11/06/la-route-que-nous-navons-pas-prise/)
+[https://drgoulu.com/2011/11/06/l...](/2011/11/06/la-route-que-nous-navons-pas-prise/)
 
 Désolé, même avec risque on n'atteindra pas la vitesse de la lumière, le "voyage spatio temporel" ne veut rien dire, et la téléportation, vous n'aimeriez vraiment pas ça…
 

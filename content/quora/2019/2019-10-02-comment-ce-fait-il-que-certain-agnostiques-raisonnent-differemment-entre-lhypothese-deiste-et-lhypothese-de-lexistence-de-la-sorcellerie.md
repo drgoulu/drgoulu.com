@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-ce-fait-il-que-certain-agnostiques-raisonnent-diff%C3%A9remment-entre-l-hypoth%C3%A8se-d%C3%A9iste-et-l-hypoth%C3%A8se-de-l-existence-de-la-sorcellerie-L-argument-il-n-y-as-pas-de-preuve-que-%C3%A7a-n/answer/Dr-Goulu)*
 
-Dénoncez immédiatement ces agnostiques incohérents avec un lien, qu'on les enferme illico dans le [Temple de la Logique Pure](https://www.drgoulu.com/2004/06/21/temple-de-la-logique-pure/).
+Dénoncez immédiatement ces agnostiques incohérents avec un lien, qu'on les enferme illico dans le [Temple de la Logique Pure](/2004/06/21/temple-de-la-logique-pure/).
 
 On ne peut démontrer l'inexistence de rien du tout : dieu(x), sorcellerie, licornes roses, tout ceci n'existe pas jusqu'à preuve du contraire.
 

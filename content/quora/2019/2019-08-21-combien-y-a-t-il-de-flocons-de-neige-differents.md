@@ -17,4 +17,4 @@ La forme générale des flocons dépend des conditions de température et humidi
 
 Si on observe les dendrites au microscope, il n'y en a probablement jamais deux rigoureusement identiques.
 
-[Il neige de beaux flocons ! - Pourquoi Comment Combien](https://www.drgoulu.com/2007/01/23/il-neige-de-beaux-flocons/)
+[Il neige de beaux flocons ! - Pourquoi Comment Combien](/2007/01/23/il-neige-de-beaux-flocons/)

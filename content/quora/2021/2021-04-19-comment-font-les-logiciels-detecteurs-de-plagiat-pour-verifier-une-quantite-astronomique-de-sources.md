@@ -19,4 +19,4 @@ Ensuite quand on cherche une phrase, on ne la recherche que dans les pages qui c
 
 Honnêtement je ne sais pas si cet algo est utilisé, je l'ai un peu inventé maintenant sur la base de celui de Shazam
 
-[https://www.drgoulu.com/2009/07/...](https://www.drgoulu.com/2009/07/11/comment-marche-shazam/)
+[https://www.drgoulu.com/2009/07/...](/2009/07/11/comment-marche-shazam/)

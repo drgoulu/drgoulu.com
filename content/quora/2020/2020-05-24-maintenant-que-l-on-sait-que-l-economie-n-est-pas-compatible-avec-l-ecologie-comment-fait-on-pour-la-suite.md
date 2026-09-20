@@ -27,6 +27,6 @@ Votre question oublie deux piliers du développement durable : le social (répar
 
 Je pense que la démographie écarté les 3 cercles…
 
-[D éveloppement Durable et Equation de Kaya - Pourquoi Comment Combien](https://www.drgoulu.com/2009/06/06/developpement-durable-et-equation-de-kaya/)
+[D éveloppement Durable et Equation de Kaya - Pourquoi Comment Combien](/2009/06/06/developpement-durable-et-equation-de-kaya/)
 
 Pour la suite, ben on fonce dans le mur et la démographie suivra de gré ou de force. Vous vouliez proposer autre chose ? C'est trop tard.

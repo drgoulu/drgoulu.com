@@ -15,4 +15,4 @@ La singularité est un concept mathématique. Physiquement on a aucune idée de 
 
 Une chose est sure : les trous noirs, supermassifs ou non, tournent si vite que leur singularité, mathématiquement, n'est pas un point mais un anneau.
 
-[A combien tourne un trou noir ? - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/)

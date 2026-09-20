@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Lire, compter et aimer se sentir stupide.
 
-[https://www.drgoulu.com/2014/06/...](https://www.drgoulu.com/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/#.Yl0HtGm-g0E)
+[https://www.drgoulu.com/2014/06/...](/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/#.Yl0HtGm-g0E)

@@ -23,7 +23,7 @@ cet hélicoptère ultra moderne est extrêmement silencieux :
 
 [https://youtu.be/syJq10EQkog](https://youtu.be/syJq10EQkog)
 
-([L'hélicoptère à pédales existe enfin - Pourquoi Comment Combien](https://www.drgoulu.com/2013/07/14/lhelicoptere-a-pedales-existe-enfin/) )
+([L'hélicoptère à pédales existe enfin - Pourquoi Comment Combien](/2013/07/14/lhelicoptere-a-pedales-existe-enfin/) )
 
 ce qui fait du bruit, ce sont les turbulences de l'air. Pour ne pas faire de bruit, il faut que les écoulements d'air restent laminaires.
 

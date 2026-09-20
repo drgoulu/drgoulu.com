@@ -25,4 +25,4 @@ On ne peut pas voyager à la vitesse de la lumière, mais on peut (théoriquemen
 
 Cependant le [Facteur de Lorentz](w:)donne la contraction du temps par rapport à un observateur immobile, donc effectivement le voyageur aura l'impression de voyager beaucoup plus vite que la lumière. Il pourrait aller n'importe où dans l'univers en quelques unes de ses années. Mais s'il revient sur Terre, il la retrouvera vieillie de plusieurs années ou millénaires.
 
-[https://www.drgoulu.com/2004/08/...](https://www.drgoulu.com/2004/08/09/acceleration/)
+[https://www.drgoulu.com/2004/08/...](/2004/08/09/acceleration/)

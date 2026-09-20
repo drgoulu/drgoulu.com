@@ -33,4 +33,4 @@ Peut-être que c'est impossible.
 
 Peut-être aussi que c'est extraordinairement difficile et plein de limitations, comme suggéré dans cet excellent livre
 
-[https://www.drgoulu.com/2006/06/...](https://www.drgoulu.com/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/#.ZDaAhaS-g0E)
+[https://www.drgoulu.com/2006/06/...](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/#.ZDaAhaS-g0E)

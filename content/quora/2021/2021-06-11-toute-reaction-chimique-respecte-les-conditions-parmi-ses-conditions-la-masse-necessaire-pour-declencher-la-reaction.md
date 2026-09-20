@@ -22,4 +22,4 @@ La fusion nucléaire, contrôlée ou pas, n'est pas une réaction chimique, mais
 
 C'est le seul point où la masse joue un rôle direct, mais ça n'a rien à voir avec la chimie.
 
-[https://www.drgoulu.com/2005/12/...](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[https://www.drgoulu.com/2005/12/...](/2005/12/11/la-fusion-thermonucleaire/)

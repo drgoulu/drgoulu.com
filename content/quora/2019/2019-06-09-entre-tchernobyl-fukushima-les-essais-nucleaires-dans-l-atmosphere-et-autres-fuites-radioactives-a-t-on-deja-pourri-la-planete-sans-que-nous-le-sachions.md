@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Ces rejets sont importants localement, mais à l'échelle de la planète ils sont faibles pour ne pas dire négligeables.
 
-Un français moyen reçoit 2.4 mSv/an de[radioactivité naturelle](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/) et 0.7 mSv de radioactivité artificielle, principalement sous forme de traitements médicaux…
+Un français moyen reçoit 2.4 mSv/an de[radioactivité naturelle](/2013/11/03/la-radioactivite-naturelle/) et 0.7 mSv de radioactivité artificielle, principalement sous forme de traitements médicaux…
 
 [Cours de Physique-chimie - Radioactivit� naturelle et artificielle - Maxicours.com](http://www.maxicours.com/se/fiche/9/1/371991.html)

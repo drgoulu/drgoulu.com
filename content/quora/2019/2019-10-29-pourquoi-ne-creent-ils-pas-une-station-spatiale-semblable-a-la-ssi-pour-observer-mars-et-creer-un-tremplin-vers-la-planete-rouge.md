@@ -26,7 +26,7 @@ Parce que :
 1. l'ISS tourne beaucoup trop vite et les stations spatiales sont trop "bruyantes" en vibrations pour y installer de bons télescopes. Pour observer Mars, on a des télescopes terrestres, spatiaux, et des sondes sur place.
 2. l'ISS n'est même pas à un millième de la hauteur de Mars dans le puits gravitationnel. C'est l'équivalent des deux premières marches de l'escalier de la tour Eiffel…
 
-Détails du [Génial dessin "gravity Wells" de XKCD](https://xkcd.com/681/) , avec [explications en français ici](https://www.drgoulu.com/2012/09/05/un-petit-pas-pour-lhomme/)
+Détails du [Génial dessin "gravity Wells" de XKCD](https://xkcd.com/681/) , avec [explications en français ici](/2012/09/05/un-petit-pas-pour-lhomme/)
 
 ![](./images/qimg-9613771da45f83cb7b6386d9a7e3009e.png)
 

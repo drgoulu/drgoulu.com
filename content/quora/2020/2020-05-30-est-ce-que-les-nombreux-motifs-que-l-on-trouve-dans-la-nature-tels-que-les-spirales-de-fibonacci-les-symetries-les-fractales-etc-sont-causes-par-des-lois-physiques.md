@@ -28,4 +28,4 @@ On ne trouve pas de spirales de Fibonacci dans la nature car aucune loi physique
 
 Notes de bas de page
 
-[[1]](#cite-RApSI)[Nombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[[1]](#cite-RApSI)[Nombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/)

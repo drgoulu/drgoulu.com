@@ -26,4 +26,4 @@ L'intuition de Newton était que la marée haute se produit lorsque la Lune est 
 
 Pour comprendre les marées, il faut considérer que la Lune "excite" l'océan, et que la marée est la réponse dynamique, amplifiée par des résonances. Un peu comme quand vous vous balancez en rythme dans votre baignoire vous arrivez à la faire déborder…
 
-[https://www.drgoulu.com/2017/08/...](https://www.drgoulu.com/2017/08/15/combien-de-maree/)
+[https://www.drgoulu.com/2017/08/...](/2017/08/15/combien-de-maree/)

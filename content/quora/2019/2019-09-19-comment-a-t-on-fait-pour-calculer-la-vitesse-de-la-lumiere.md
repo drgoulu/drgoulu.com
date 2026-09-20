@@ -23,4 +23,4 @@ coverImage: ./images/quora.png
 
 On ne peut plus ! en 1983, la [Conférence générale des poids et mesures](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=Conférence+générale+des+poids+et+mesures) a défini le [mètre](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=mètre) comme étant 1/299’792’458 ème de la distance parcourue par la lumière dans le vide en une seconde. Depuis, la vitesse de la lumière dans le vide est forcément et très exactement égale à 299’792’458 m/s, sans aucune marge d’erreur. Si une expérience donnait un résultat différent, ce serait obligatoirement à cause d’une erreur expérimentale sur la mesure de la distance et/ou du temps. La vitesse de la lumière est devenue une constante, une définition.
 
-[Pourquoi on ne peut plus mesurer la vitesse de la lumière - Pourquoi Comment Combien](https://www.drgoulu.com/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)
+[Pourquoi on ne peut plus mesurer la vitesse de la lumière - Pourquoi Comment Combien](/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)

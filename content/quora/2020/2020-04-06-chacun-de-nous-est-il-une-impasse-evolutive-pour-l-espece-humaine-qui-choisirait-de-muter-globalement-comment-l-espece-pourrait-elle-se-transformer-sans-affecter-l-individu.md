@@ -31,6 +31,6 @@ Une espèce ne peut pas "muter globalement", l'espèce est le résultat "moyen" 
 
 La transformation d'une espèce est donc beaucoup, beaucoup plus lente que celles de ses individus.
 
-Exemple pratique : [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/#.Xot3zMiiGCo). Il a fallu des milliers d'années pour que certaines populations arrivent à se reproduire au dessus de 2500m. Vous avez beau être des Homo Sapiens comme les Sherpas de l'Himalaya ou les Aymaras des Andes, si vous êtes une femme enceinte dans ces régions et que vous n'avez pas les gènes qu'il faut, vous avez un fort risque que votre lignée génétique se terminer lors de votre accouchement.
+Exemple pratique : [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/#.Xot3zMiiGCo). Il a fallu des milliers d'années pour que certaines populations arrivent à se reproduire au dessus de 2500m. Vous avez beau être des Homo Sapiens comme les Sherpas de l'Himalaya ou les Aymaras des Andes, si vous êtes une femme enceinte dans ces régions et que vous n'avez pas les gènes qu'il faut, vous avez un fort risque que votre lignée génétique se terminer lors de votre accouchement.
 
 On pourrait en effet dire que la transformation d'une espèce affecte les individus en donnant plus de chances de survie aux enfants, bien qu'en réalité c'est l'inverse qui se produit : c'est la survie des parents qui transforme l'espèce.

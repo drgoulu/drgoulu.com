@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 En lisant Sun Tzu ou en écoutant le général Giap parler de la guerre du Vietnam selon les principes de Sun Tzu : contre des troupes motivées à défendre leur territoire, des jeunes envoyés à la boucherie par un dictateur megalomane n'ont aucune chance.
 
-[https://drgoulu.com/2007/08/08/e...](https://drgoulu.com/2007/08/08/et-sun-tzu/)
+[https://drgoulu.com/2007/08/08/e...](/2007/08/08/et-sun-tzu/)

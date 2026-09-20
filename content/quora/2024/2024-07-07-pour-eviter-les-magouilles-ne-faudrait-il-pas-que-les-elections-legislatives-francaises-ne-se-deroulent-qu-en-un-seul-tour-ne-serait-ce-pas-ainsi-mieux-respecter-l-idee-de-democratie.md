@@ -39,4 +39,4 @@ Les sociétés de mathématiques élisent leurs autorités au [Scrutin de Condor
 
 Il faut juste sacrifier cette foutue manie pour la majorité, qui n'a plus vraiment de sens avec beaucoup de partis et beaucoup d'abstention.
 
-[https://drgoulu.com/2007/05/09/l...](https://drgoulu.com/2007/05/09/le-vote-par-assentiment/)
+[https://drgoulu.com/2007/05/09/l...](/2007/05/09/le-vote-par-assentiment/)

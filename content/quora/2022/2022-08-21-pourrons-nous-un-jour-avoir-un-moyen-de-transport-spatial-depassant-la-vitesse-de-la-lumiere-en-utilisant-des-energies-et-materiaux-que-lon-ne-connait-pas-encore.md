@@ -15,4 +15,4 @@ Non. La vitesse de la lumière n'est pas une limite technique, c'est une limite 
 
 Mais comme elle est infinie pour les passagers, ça n'empêche pas d'aller partout dans l'univers en un temps raisonnable. Mais c'est là que subsistent quelques difficultés techniques…
 
-[https://www.drgoulu.com/2004/08/...](https://www.drgoulu.com/2004/08/09/acceleration/#.YwKap3aiGCo)
+[https://www.drgoulu.com/2004/08/...](/2004/08/09/acceleration/#.YwKap3aiGCo)

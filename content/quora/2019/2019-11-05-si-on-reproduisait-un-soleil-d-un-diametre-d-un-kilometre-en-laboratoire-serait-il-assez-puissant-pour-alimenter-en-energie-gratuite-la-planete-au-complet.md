@@ -53,4 +53,4 @@ Ca ne sera pas demain, et absolument pas gratuit.
 
 Notes de bas de page
 
-[[1]](#cite-wtcdf)[la fusion thermonucléaire - Pourquoi Comment Combien](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[[1]](#cite-wtcdf)[la fusion thermonucléaire - Pourquoi Comment Combien](/2005/12/11/la-fusion-thermonucleaire/)

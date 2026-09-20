@@ -19,4 +19,4 @@ Tout ça est maintenant établi depuis 20 ans, les climatosceptiques n'ont appor
 
 Ne pas reconnaître les faits devient du négationnisme plutôt que du scepticisme…
 
-[https://drgoulu.com/2007/05/23/f...](https://drgoulu.com/2007/05/23/faq-rechauffement-global/)
+[https://drgoulu.com/2007/05/23/f...](/2007/05/23/faq-rechauffement-global/)

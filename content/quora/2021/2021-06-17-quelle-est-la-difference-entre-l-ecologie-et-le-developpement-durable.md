@@ -45,4 +45,4 @@ dont l'écologie/sme n'est qu'un des trois piliers.
 
 Malheureusement il en manque un, la démographie, qui fait qu'il n'y a peut-être plus de solution durable possible.
 
-[https://www.drgoulu.com/2009/06/...](https://www.drgoulu.com/2009/06/06/developpement-durable-et-equation-de-kaya/)
+[https://www.drgoulu.com/2009/06/...](/2009/06/06/developpement-durable-et-equation-de-kaya/)

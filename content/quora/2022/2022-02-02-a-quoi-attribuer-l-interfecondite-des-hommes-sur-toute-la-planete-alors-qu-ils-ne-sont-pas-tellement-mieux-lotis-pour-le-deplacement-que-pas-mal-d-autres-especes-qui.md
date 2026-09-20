@@ -25,7 +25,7 @@ L'[Expansion planétaire de l'Homme moderne](w:) s'est faite en plusieurs vagues
 
 Si on recherche les ethnies les plus génétiquement distinctes du monde, on trouve[[1]](#poHiw) qu'il y en a trois : les San et les Mbuti africains, et les [Suruí](w:) au Brésil actuel.
 
-En partant de l'idée que les [Suruí](w:)sont isolés depuis leur arrivée il y a 12'000 ans et que les générations humaines sont de 20 ans environ , il ne s'est écoulé que 600 générations depuis leur isolement (qui n'était probablement que partiel), de loin pas assez pour un début de spéciation. Tout juste assez pour des adaptations à l'environnement comme la couleur de peau ou [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/) qui date d'environ 11'000 ans dans les Andes par exemple.
+En partant de l'idée que les [Suruí](w:)sont isolés depuis leur arrivée il y a 12'000 ans et que les générations humaines sont de 20 ans environ , il ne s'est écoulé que 600 générations depuis leur isolement (qui n'était probablement que partiel), de loin pas assez pour un début de spéciation. Tout juste assez pour des adaptations à l'environnement comme la couleur de peau ou [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/) qui date d'environ 11'000 ans dans les Andes par exemple.
 
 Pour mémoire, Homo Sapiens s'est encore hybridé avec Neandertal après environ 300'000 ans de séparation, mais apparemment pas avec Erectus après 1 million d'années ( voir [Homo — Wikipédia](w:Homo) )
 

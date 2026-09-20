@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ca confirme ce que je pensais il y a 5 ans : vous avez basculé dans la 2ème dimension
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://www.drgoulu.com/2017/05/...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)

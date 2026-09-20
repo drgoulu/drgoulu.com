@@ -17,7 +17,7 @@ L'homme et le chimpanzés ne descendent pas l'un de l'autre, ils ont les mêmes 
 
 Vos cousins germains ont le même degré de parenté avec vos grands-parents communs et vos cousins au 2ème degré avec vos arrière grands parents. etc. Vos cousins au 500'000ème degré, les chimpanzés et vous avez le même degré de parenté avec des ancêtres qui ressemblaient à [Toumaï](w:) et qui vivaient il y a 7 millions d'années environ.
 
-Tout comme vous n'êtes pas plus évolué que vos cousins, vous n'êtes pas plus évolué que les chimpanzés. Vous êtes peut-être plus doué pour réfléchir et parler, mais pour survivre dans la jungle et en [mémoire eidétique](https://www.drgoulu.com/2008/06/04/memoire-eidetique/) , vous êtes nul.
+Tout comme vous n'êtes pas plus évolué que vos cousins, vous n'êtes pas plus évolué que les chimpanzés. Vous êtes peut-être plus doué pour réfléchir et parler, mais pour survivre dans la jungle et en [mémoire eidétique](/2008/06/04/memoire-eidetique/) , vous êtes nul.
 
 [https://youtu.be/JkNV0rSndJ0](https://youtu.be/JkNV0rSndJ0)
 
@@ -25,7 +25,7 @@ Tout comme vos cousins vont vivre leur vie et avoir leur propre descendance, les
 
 Un exemple d'évolution humaine en cours est
 
-[https://www.drgoulu.com/2014/08/...](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+[https://www.drgoulu.com/2014/08/...](/2014/08/17/ladaptation-a-laltitude/)
 
 Un autre est la tolérance au lactose par exemple.
 

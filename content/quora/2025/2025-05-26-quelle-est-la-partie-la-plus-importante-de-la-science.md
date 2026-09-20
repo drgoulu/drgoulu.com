@@ -17,4 +17,4 @@ Il n'y a pas de "partie", le savoir est très interconnecté
 
 ![](./images/qimg-372c7608391b50e7842473a951a314f5.jpg)
 
-[Carte des Sciences - Pourquoi Comment Combien](https://drgoulu.com/2007/06/07/carte-des-sciences/)
+[Carte des Sciences - Pourquoi Comment Combien](/2007/06/07/carte-des-sciences/)

@@ -15,4 +15,4 @@ coverImage: ./images/quora.png
 
 L’article anglophone confirme ce que je suspectais: il a été nommé ainsi en l’honneur du méchant de Stargate SG-1…
 
-[Risques météoritiques - Pourquoi Comment Combien](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/)
+[Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)

@@ -21,4 +21,4 @@ Quant à l'[interprétation d'Everett](w:Théorie_d'Everett), ben c'est une inte
 
 Si vous cherchez à concilier les deux, regardez du côté des textes soumis au concours fq(x) de 2008
 
-[https://drgoulu.com/2008/12/24/l...](https://drgoulu.com/2008/12/24/la-nature-du-temps-2/)
+[https://drgoulu.com/2008/12/24/l...](/2008/12/24/la-nature-du-temps-2/)

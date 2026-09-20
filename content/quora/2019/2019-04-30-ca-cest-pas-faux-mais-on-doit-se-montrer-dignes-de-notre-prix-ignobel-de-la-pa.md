@@ -15,4 +15,4 @@ Ca c’est pas faux… Mais on doit se montrer dignes de notre Prix igNobel de l
 
 ![](./images/qimg-199e1f9412eecc35652273ac5b792aae.jpg)
 
-(illustration : slide au [IgNobel Award Tour Show](https://www.drgoulu.com/2016/04/13/ignobel-award-tour-show/) EPFL)
+(illustration : slide au [IgNobel Award Tour Show](/2016/04/13/ignobel-award-tour-show/) EPFL)

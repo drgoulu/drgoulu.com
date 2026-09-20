@@ -29,7 +29,7 @@ En Suisse, nous avons eu quelques référendums "stupides" comme le fameux sur l
 
 Mais c'est le prix à payer pour avoir la possibilité d'effectuer des choix de société extrêmement importants. En Suisse, nous avons notamment adopté la représentation proportionnelle ainsi
 
-[https://www.drgoulu.com/2009/12/...](https://www.drgoulu.com/2009/12/13/initiatives-populaires/#.ZFqUmnaiGCo)
+[https://www.drgoulu.com/2009/12/...](/2009/12/13/initiatives-populaires/#.ZFqUmnaiGCo)
 
 Je sais d'avance que certains vont commenter "Oui mais en Suisse ça marche parce que c'est petit et que les gens ont une éducation politique etc, en France ça peut par marcher". Même Macron a dit ça[[1]](#pAEca) .
 

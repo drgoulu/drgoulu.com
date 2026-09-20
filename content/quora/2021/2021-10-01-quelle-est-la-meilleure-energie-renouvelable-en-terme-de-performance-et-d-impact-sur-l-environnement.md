@@ -45,8 +45,8 @@ Notes de bas de page
 
 [[2]](#cite-IbWyb)[Facteur de charge (électricité) — Wikipédia](w:Facteur_de_charge_(électricité))
 
-[[3]](#cite-Qwlde)[Potentiel hydroélectrique - Pourquoi Comment Combien](https://www.drgoulu.com/2008/09/06/potentiel-hydroelectrique/)
+[[3]](#cite-Qwlde)[Potentiel hydroélectrique - Pourquoi Comment Combien](/2008/09/06/potentiel-hydroelectrique/)
 
-[[4]](#cite-HrZqx)[Energie éolienne (et solaire) à prix coutant ? - Pourquoi Comment Combien](https://www.drgoulu.com/2007/08/26/energie-eolienne-et-solaire-a-prix-coutant/)
+[[4]](#cite-HrZqx)[Energie éolienne (et solaire) à prix coutant ? - Pourquoi Comment Combien](/2007/08/26/energie-eolienne-et-solaire-a-prix-coutant/)
 
-[[5]](#cite-EDOvZ)[Unités et classements - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/21/unites-et-classements/)
+[[5]](#cite-EDOvZ)[Unités et classements - Pourquoi Comment Combien](/2009/05/21/unites-et-classements/)

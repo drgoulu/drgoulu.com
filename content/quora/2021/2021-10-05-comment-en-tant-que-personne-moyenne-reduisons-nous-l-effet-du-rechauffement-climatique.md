@@ -32,4 +32,4 @@ L'[Équation de Kaya](w:)donne les 4 facteurs sur lesquels on peut agir:
 - Diminuer le niveau de vie (PIB/POP) Oui je sais, vous aimeriez plutôt l'augmenter…
 - La population : faire moins d'enfants (POP). On en parle jamais mais ce facteur est tout aussi important que les 3 autres.
 
-[https://www.drgoulu.com/2013/05/...](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
+[https://www.drgoulu.com/2013/05/...](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)

@@ -15,8 +15,8 @@ C'est probable.
 
 Pour la physique c'est ici
 
-[https://www.drgoulu.com/2011/11/...](https://www.drgoulu.com/2011/11/06/la-route-que-nous-navons-pas-prise/#.YtZTRKS-g0E)
+[https://www.drgoulu.com/2011/11/...](/2011/11/06/la-route-que-nous-navons-pas-prise/#.YtZTRKS-g0E)
 
 Et pour les mathématiques (qui servent d'abord à quantifier et formaliser la physique) c'est là
 
-[https://www.drgoulu.com/2011/09/...](https://www.drgoulu.com/2011/09/25/comment-comptent-les-extraterrestres/#.YtZTw6S-g0E)
+[https://www.drgoulu.com/2011/09/...](/2011/09/25/comment-comptent-les-extraterrestres/#.YtZTw6S-g0E)

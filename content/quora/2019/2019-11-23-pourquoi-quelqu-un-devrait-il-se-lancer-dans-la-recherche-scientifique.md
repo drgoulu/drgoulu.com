@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Pour "découvrir de nouvelles occasions de se sentir stupide."
 
-Lisez [L'importance de la stupidité dans la recherche scientifique - Pourquoi Comment Combien](https://www.drgoulu.com/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/#.XdlfkOhsOCo). C'est génial (pas de moi, juste la traduction…)
+Lisez [L'importance de la stupidité dans la recherche scientifique - Pourquoi Comment Combien](/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/#.XdlfkOhsOCo). C'est génial (pas de moi, juste la traduction…)

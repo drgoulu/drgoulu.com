@@ -26,4 +26,4 @@ On a longtemps cru que, combinée avec la symétrie P (comme parité) qui corres
 
 Bref, de l'antimatière remontant le temps, vue dans un miroir, est indiscernable de la matière.
 
-[MIROIR | ЯIOЯIM - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/04/miroir/)
+[MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/)

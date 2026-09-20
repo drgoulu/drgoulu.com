@@ -17,4 +17,4 @@ C'est exactement ça. L'Uranium naturel (238) est très peu radioactif, vous pou
 
 Vous recevez "tant de particules" parce que l'Uranium n'est pas rare dans la nature, il y en a un peu partout, et chaque fois qu'un atome se désintègre il crée une [chaîne de désintégration](w:Uranium_238) de plusieurs éléments beaucoup plus radioactifs, notamment le radium et le radon.
 
-[https://www.drgoulu.com/2013/11/...](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/)
+[https://www.drgoulu.com/2013/11/...](/2013/11/03/la-radioactivite-naturelle/)

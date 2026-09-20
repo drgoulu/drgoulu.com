@@ -26,7 +26,7 @@ Absolument, et on commence même à bien savoir comment il marche.
 >
 >
 >
-> ( [Placebo et nocebo - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/21/placebo-et-nocebo/) )
+> ( [Placebo et nocebo - Pourquoi Comment Combien](/2009/05/21/placebo-et-nocebo/) )
 
 Ca explique pourquoi ça marche aussi sur les bébés [3] et les animaux [4], du moins aussi bien que l'homéopathie et autres "médecines douces" qui n'ont pas un effet meilleur qu'un placebo administré dans les mêmes conditions.
 

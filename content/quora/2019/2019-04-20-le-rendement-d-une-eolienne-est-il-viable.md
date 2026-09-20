@@ -26,6 +26,6 @@ Bien sur puisqu’on en construit. Bon, il faut préciser que:
 
 Notes de bas de page
 
-[[1]](#cite-GNBxM)[Rentabilité des éoliennes - Pourquoi Comment Combien](https://www.drgoulu.com/2008/08/30/rentabilite-des-eoliennes/#.XLr4lOiiGCo)
+[[1]](#cite-GNBxM)[Rentabilité des éoliennes - Pourquoi Comment Combien](/2008/08/30/rentabilite-des-eoliennes/#.XLr4lOiiGCo)
 
-[[2]](#cite-ZhimN)[Qui veut de l'électricité à prix négatif ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/#.XLr4zeiiGCo)
+[[2]](#cite-ZhimN)[Qui veut de l'électricité à prix négatif ? - Pourquoi Comment Combien](/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/#.XLr4zeiiGCo)

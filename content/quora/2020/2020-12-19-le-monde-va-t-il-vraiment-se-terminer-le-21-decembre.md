@@ -28,4 +28,4 @@ Mais entre 2021 et 2028 ce sera le retour de Jésus selon un pasteur et un évan
 
 Notre seule chance de voir une fin du monde athée, c'est que l'astéroïde prévu par un leader soufi nous zigouille en 2026. Mais là ce sont les astronomes qui sont des mécréants, parce qu'ils ne voient pas trace de menace (voir la [Risk List de l'ESA](http://neo.ssa.esa.int/risk-page) )
 
-[2012 et l'ennemi intérieur - Pourquoi Comment Combien](https://www.drgoulu.com/2009/11/29/2012-et-lennemi-interieur/#.X949IdgVOCo)
+[2012 et l'ennemi intérieur - Pourquoi Comment Combien](/2009/11/29/2012-et-lennemi-interieur/#.X949IdgVOCo)

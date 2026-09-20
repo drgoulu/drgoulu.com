@@ -37,4 +37,4 @@ non vous ne rêvez pas, c'est le jeu de la vie simulé dans le jeu de la vie …
 
 Maintenant je vous pose LA question : si un ordinateur suffisamment puissant peut devenir conscient, alors on peut faire un cerveau en jeu de la vie … et comment ce cerveau pourrait-il se rendre compte qu'il vit dans un univers simulé ?
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/29/la-resurrection-du-jeu-de-la-vie/)
+[https://www.drgoulu.com/2009/03/...](/2009/03/29/la-resurrection-du-jeu-de-la-vie/)

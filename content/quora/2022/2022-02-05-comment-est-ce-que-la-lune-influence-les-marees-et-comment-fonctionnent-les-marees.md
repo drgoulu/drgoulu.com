@@ -15,4 +15,4 @@ La Lune cause en grande partie les marées en "excitant" périodiquement la surf
 
 Voir
 
-[https://www.drgoulu.com/2017/08/...](https://www.drgoulu.com/2017/08/15/combien-de-maree/)
+[https://www.drgoulu.com/2017/08/...](/2017/08/15/combien-de-maree/)

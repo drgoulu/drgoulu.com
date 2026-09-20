@@ -15,4 +15,4 @@ L'[indice de démocratie](w:)de la France est de 7.99 et celle des USA de 7.92. 
 
 Qui vaut ce qu'il vaut, parce que 60 critères, c'est beaucoup trop.
 
-[https://www.drgoulu.com/2009/05/...](https://www.drgoulu.com/2009/05/21/unites-et-classements/)
+[https://www.drgoulu.com/2009/05/...](/2009/05/21/unites-et-classements/)

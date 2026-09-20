@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ils ne savent pas que nous sommes là, sinon ils nous détruiraient immédiatement, car sinon nous les détruirons dès que nous pourrons.
 
-Lisez [La Forêt sombre](w:) de Liu Cixin, c’est encore mieux que mon [Principe de Saturation Cubique](https://www.drgoulu.com/1999/10/24/psc/)
+Lisez [La Forêt sombre](w:) de Liu Cixin, c’est encore mieux que mon [Principe de Saturation Cubique](/1999/10/24/psc/)

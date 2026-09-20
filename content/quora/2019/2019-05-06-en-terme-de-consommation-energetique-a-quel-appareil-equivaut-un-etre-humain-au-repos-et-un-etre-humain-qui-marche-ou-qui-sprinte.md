@@ -45,6 +45,6 @@ Notes de bas de page
 
 [[6]](#cite-RwGXX)[Dopez votre vélo ! - Pourquoi Comment Combien](https://www.drgoulu.com/2010/06/06/dopez-votre-velo/)
 
-[[7]](#cite-BvfVq)[L'hélicoptère à pédales existe enfin - Pourquoi Comment Combien](https://www.drgoulu.com/2013/07/14/lhelicoptere-a-pedales-existe-enfin/)
+[[7]](#cite-BvfVq)[L'hélicoptère à pédales existe enfin - Pourquoi Comment Combien](/2013/07/14/lhelicoptere-a-pedales-existe-enfin/)
 
 [[8]](#cite-FPejS)[la performance de Bolt](http://www.bodyscience.fr/?La-physique-du-sprint-la)

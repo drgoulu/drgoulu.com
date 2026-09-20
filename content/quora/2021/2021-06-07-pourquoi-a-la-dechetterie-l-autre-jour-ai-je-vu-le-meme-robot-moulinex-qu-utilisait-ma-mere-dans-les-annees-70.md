@@ -29,4 +29,4 @@ Maintenant, disons que votre maman est comme ma femme, qui utilise son robot une
 
 Et si ce n'est qu'une fois par mois : 80 ans. Là c'est plutôt l'exposition du plastique au rayonnement UV qui risque de l'amener à la décharge avant.
 
-[https://www.drgoulu.com/2013/05/...](https://www.drgoulu.com/2013/05/01/lobsolescence-est-elle-programmee-2/)
+[https://www.drgoulu.com/2013/05/...](/2013/05/01/lobsolescence-est-elle-programmee-2/)

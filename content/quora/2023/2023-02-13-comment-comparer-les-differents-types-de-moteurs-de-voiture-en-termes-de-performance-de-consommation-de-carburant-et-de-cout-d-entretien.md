@@ -17,4 +17,4 @@ Si vous voulez trier par plusieurs caractéristiques, ça se complique. Vous all
 
 Qui sera aussi pertinent que votre choix des poids…
 
-[https://www.drgoulu.com/2009/05/...](https://www.drgoulu.com/2009/05/21/unites-et-classements/#.Y-pagKTfs0E)
+[https://www.drgoulu.com/2009/05/...](/2009/05/21/unites-et-classements/#.Y-pagKTfs0E)

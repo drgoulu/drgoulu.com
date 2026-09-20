@@ -17,7 +17,7 @@ Vous avez des données démontrant ce que vous dites ?
 
 Ensuite, les axes politiques ne sont pas les mêmes en fonction des pays. Il peut y avoir un décalage (un centriste français est pratiquement un communiste aux USA) ou des "rotations" d'axes qui font que les problématiques représentées à la gauche ou à la droite d'un parlement évoluent. Le positionnement des partis évolue aussi.
 
-[https://drgoulu.com/2017/05/14/l...](https://drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://drgoulu.com/2017/05/14/l...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 Donc il n'est pas forcément incompatible d'être nationaliste et d'extrême gauche.
 

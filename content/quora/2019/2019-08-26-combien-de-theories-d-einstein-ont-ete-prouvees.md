@@ -35,4 +35,4 @@ Inutile de préciser que cette équation est toujours d'actualité.
 
 Ensuite, la [Relativité générale](w:) publiée dès 1915 établit les [Équation de champ de la gravitation](w:Équation_d'Einstein), vérifiées par une floppée de [Tests expérimentaux de la relativité générale](w:) y compris les récentes détections d'ondes gravitationnelles.
 
-A ce propos, Einstein a eu lui-même de gros doutes (voir [Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/02/14/einstein-et-les-ondes-gravitationnelles/) ), et il a eu beaucoup de peine à accepter certains aspects de la mécanique quantique, si tant est qu'il l'a acceptée. Mais ce n'était pas directement SA théorie.
+A ce propos, Einstein a eu lui-même de gros doutes (voir [Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](/2016/02/14/einstein-et-les-ondes-gravitationnelles/) ), et il a eu beaucoup de peine à accepter certains aspects de la mécanique quantique, si tant est qu'il l'a acceptée. Mais ce n'était pas directement SA théorie.

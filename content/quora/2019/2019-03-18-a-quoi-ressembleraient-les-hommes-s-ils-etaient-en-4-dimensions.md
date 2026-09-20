@@ -27,4 +27,4 @@ Car avec 4 dimensions spatiales et une de temps, les équations de champ n'ont p
 
 ![](./images/qimg-18f791e9911b9c25a1f0ba3ee029f21e.jpg)
 
-[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](/2011/01/30/pourquoi-3-dimensions-1-temps/)

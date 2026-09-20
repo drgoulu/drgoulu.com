@@ -35,4 +35,4 @@ Il faut donc croire que le positionnement des Vert'libs ne correspond pas à un 
 
 Si vous êtes français, vous pouvez commencer à vous familiariser avec la politique à deux dimensions avec
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://www.drgoulu.com/2017/05/...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)

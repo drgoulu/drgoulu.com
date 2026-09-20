@@ -25,4 +25,4 @@ Oui, le cas le plus connu est le [Planeur de Gimli](w:), un Boeing 767 effectuan
 
 En fait les jets modernes planent aussi bien que des planeurs des années 1950, mais beaucoup plus vite.
 
-[Un jet gros porteur sachant planer ... - Pourquoi Comment Combien](https://www.drgoulu.com/2009/01/25/un-jet-gros-porteur-sachant-planer/#.Xt_VNkWiGCo)
+[Un jet gros porteur sachant planer ... - Pourquoi Comment Combien](/2009/01/25/un-jet-gros-porteur-sachant-planer/#.Xt_VNkWiGCo)

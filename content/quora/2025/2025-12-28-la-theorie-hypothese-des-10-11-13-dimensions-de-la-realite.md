@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Non, vous mélangez tout. Ou alors vous avez une référence d'un article publié dans un journal de physique théorique qui m'aurait échappé ?
 
-[Le temps est une 4ème dimension imaginaire](https://drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/) au sens mathématique du terme, indispensable en relativité.
+[Le temps est une 4ème dimension imaginaire](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/) au sens mathématique du terme, indispensable en relativité.
 
 Les dimensions 5+ postulées en [Théories des cordes](w:Théorie_des_cordes)seraient des dimensions spatiales repliées sur elles-mêmes au niveau quantique, pour expliquer les propriétés des particules. Ces dimensions n'ont pas de "sens" particulier.

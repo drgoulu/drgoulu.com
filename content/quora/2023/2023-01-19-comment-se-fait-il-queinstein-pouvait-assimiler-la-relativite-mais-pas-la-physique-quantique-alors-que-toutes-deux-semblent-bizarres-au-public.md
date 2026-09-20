@@ -37,4 +37,4 @@ Comme chacun de nous, il ne pouvait pas être bon en tout. D'ailleurs la difficu
 
 Notes de bas de page
 
-[[1]](#cite-MTcjL)[Einsum - Pourquoi Comment Combien](https://www.drgoulu.com/2016/01/17/einsum/#.Y8lHb3ZsOCo)
+[[1]](#cite-MTcjL)[Einsum - Pourquoi Comment Combien](/2016/01/17/einsum/#.Y8lHb3ZsOCo)

@@ -15,4 +15,4 @@ Ah ben elle "vit" dans 3 dimensions spatiales, et une de temps, c'est déjà pas
 
 Si vous changez ça, vous changez toute la physique. Beaucoup plus que vous ne le pensez.
 
-[https://drgoulu.com/2011/01/30/p...](https://drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+[https://drgoulu.com/2011/01/30/p...](/2011/01/30/pourquoi-3-dimensions-1-temps/)

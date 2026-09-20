@@ -19,4 +19,4 @@ L'ozone, c'est entre 20 et 30 ppm, donc 15 fois moins.
 
 La couche d'ozone en haute altitude filtre les UV du soleil alors que le CO2 (et l'ozone à basse altitude) absorbent les infrarouges émis par la Terre.
 
-[https://drgoulu.com/2011/11/13/c...](https://drgoulu.com/2011/11/13/climat-le-graphique/)
+[https://drgoulu.com/2011/11/13/c...](/2011/11/13/climat-le-graphique/)

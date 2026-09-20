@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il existe aussi de très bons MOOCs, par exemple l’[Introduction à l'astrophysique](https://www.edx.org/course/introduction-lastrophysique-epflx-phys-209x-0?source=aw&awc=6798_1553551666_fb23a47f1742abce6ce6d18c190a64cb) de l'EPFL.
 
-[La tête dans les étoiles - Pourquoi Comment Combien](https://www.drgoulu.com/2014/11/18/la-tete-dans-les-etoiles/)
+[La tête dans les étoiles - Pourquoi Comment Combien](/2014/11/18/la-tete-dans-les-etoiles/)

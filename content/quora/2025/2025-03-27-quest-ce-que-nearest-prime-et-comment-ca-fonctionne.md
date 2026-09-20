@@ -17,4 +17,4 @@ Vous partez d'un nombre N donné, vous vérifiez s'il est premier (avec un test 
 
 C'est utilisé abondamment pour générer des clés de cryptage de longueur voulue, en partant de N = une séquence de bits aléatoires de longueur voulue.
 
-[https://drgoulu.com/2012/04/15/c...](https://drgoulu.com/2012/04/15/comment-produire-des-nombres-premiers/)
+[https://drgoulu.com/2012/04/15/c...](/2012/04/15/comment-produire-des-nombres-premiers/)

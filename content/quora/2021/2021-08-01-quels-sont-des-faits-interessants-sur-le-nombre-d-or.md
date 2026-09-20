@@ -15,4 +15,4 @@ Le fait intéressant, c'est que pratiquement tout ce qu'on raconte sur lui est f
 
 Le nombre d'or dans la nature, art, architecture etc est un mythe fabriqué par [Adolf Zeising](w:)en 1854, sans aucune base scientifique.
 
-[https://www.drgoulu.com/2016/07/...](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[https://www.drgoulu.com/2016/07/...](/2016/07/03/nombre-dor-et-abeilles/)

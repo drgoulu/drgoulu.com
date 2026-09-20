@@ -29,4 +29,4 @@ Ensuite ce sont des analyses de laboratoire qui peuvent montrer que le caillou n
 
 ![](./images/qimg-80e8ce2e6f7c2887d435d0643adbb4e8.jpg)
 
-La plus grande météorite retrouvée sur Terre, à Hoba en [Namibie](https://www.drgoulu.com/2010/08/27/namibie/)
+La plus grande météorite retrouvée sur Terre, à Hoba en [Namibie](/2010/08/27/namibie/)

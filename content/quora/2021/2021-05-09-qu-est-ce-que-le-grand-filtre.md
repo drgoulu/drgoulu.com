@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Un texte écrit par Robert Hanson en 1998, que j'ai traduit en français ici :
 
-[https://www.drgoulu.com/2012/12/...](https://www.drgoulu.com/2012/12/28/le-grand-filtre/)
+[https://www.drgoulu.com/2012/12/...](/2012/12/28/le-grand-filtre/)

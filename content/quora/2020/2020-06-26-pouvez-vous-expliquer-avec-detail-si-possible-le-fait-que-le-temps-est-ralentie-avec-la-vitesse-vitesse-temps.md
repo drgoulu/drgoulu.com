@@ -23,4 +23,4 @@ Le temps et l'espace sont intimement liés. C'est comme ça.
 >
 > Hubert Reeves “[La théorie de la relativité](http://id.erudit.org/iderudit/59825ac)“, 1961, Liberté, 3(2), 490–492. [[pdf](http://www.erudit.org/culture/liberte1026896/liberte1430666/59825ac.pdf)]
 
-[Comment expliquer la relativité aux enfants - Pourquoi Comment Combien](https://www.drgoulu.com/2013/12/15/comment-expliquer-la-relativite-aux-enfants/)
+[Comment expliquer la relativité aux enfants - Pourquoi Comment Combien](/2013/12/15/comment-expliquer-la-relativite-aux-enfants/)

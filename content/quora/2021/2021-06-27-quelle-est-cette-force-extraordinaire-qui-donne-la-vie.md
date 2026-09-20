@@ -15,7 +15,7 @@ Oui, c'est surprenant.
 
 S'il existe éventuellement une "force surnaturelle", on n'observe aucun "contrôle" de l'univers. On n'a plus besoin de cette hypothèse….
 
-Pour la vie, vous prenez probablement le problème à l'envers, en inversant les causes et les conséquences comme l'explique Dan Dennett dans sa conférence [Pourquoi on aime le joli, le sexy, le sucré et le drôle](https://www.drgoulu.com/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/).
+Pour la vie, vous prenez probablement le problème à l'envers, en inversant les causes et les conséquences comme l'explique Dan Dennett dans sa conférence [Pourquoi on aime le joli, le sexy, le sucré et le drôle](/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/).
 
 C'est la reproduction et ses erreurs qui causent l'évolution qui donnent la vie, pas le contraire.
 

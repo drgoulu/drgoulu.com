@@ -37,4 +37,4 @@ Contrairement à ce qu'on pense souvent, très peu de matière est absorbée par
 
 Notes de bas de page
 
-[[1]](#cite-IhNxk)[A combien tourne un trou noir ? - Pourquoi Comment Combien](https://drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[[1]](#cite-IhNxk)[A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/)

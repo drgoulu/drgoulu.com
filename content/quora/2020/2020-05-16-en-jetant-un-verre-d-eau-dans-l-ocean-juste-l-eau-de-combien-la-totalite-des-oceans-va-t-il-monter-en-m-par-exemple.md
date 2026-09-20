@@ -35,4 +35,4 @@ Une fois votre verre d'eau bien dilué dans les océans, il y aura 3.6E24/361E12
 
 C'est ce qui fait que vous pouvez être certain que vous buvez quotidiennement des molécules d'eau bue (et pissée…) par Jesus-Christ Himself, ou toute autre superstar suffisamment ancienne de votre choix
 
-[Quelles sont les chances ... - Pourquoi Comment Combien](https://www.drgoulu.com/2008/03/09/quelles-sont-les-chances/#.Xr-ztWiiGCo)
+[Quelles sont les chances ... - Pourquoi Comment Combien](/2008/03/09/quelles-sont-les-chances/#.Xr-ztWiiGCo)

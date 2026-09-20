@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Mon exemple préféré est
 
-[https://www.drgoulu.com/2014/08/...](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+[https://www.drgoulu.com/2014/08/...](/2014/08/17/ladaptation-a-laltitude/)
 
 Ce que je trouve intéressant, c'est que les 3 populations humaines vivant dans les 3 zones montagneuses de plus de 2500m (Himalaya, Andes, hauts plateaux ethiopiens) ont des mutations génétiques différentes qui leur permettent d'y survivre, et surtout de s'y reproduire.
 

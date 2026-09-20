@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Les marées sont produites par la résonance de l'eau excitée par la Lune et le Soleil. C'est comme quand vous vous balancez un tout petit peu dans votre baignoire et que vous la faites déborder.
 
-[https://www.drgoulu.com/2017/08/...](https://www.drgoulu.com/2017/08/15/combien-de-maree/)
+[https://www.drgoulu.com/2017/08/...](/2017/08/15/combien-de-maree/)
 
 L'attraction de la Lune modifie votre poids de 0.000332%, vous n'avez aucun moyen de ressentir cela.

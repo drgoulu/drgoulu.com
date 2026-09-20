@@ -17,6 +17,6 @@ Les sondes Voyager 1 et 2 ne sont même pas à un jour lumière
 
 Elles ne sont absolument pas sorties de notre galaxie. On peut même discuter qu'elles soient sorties du système solaire.
 
-[https://www.drgoulu.com/2013/09/...](https://www.drgoulu.com/2013/09/18/non-voyager-1-na-pas-quitte-le-systeme-solaire/#.YluzKWm-g0E)
+[https://www.drgoulu.com/2013/09/...](/2013/09/18/non-voyager-1-na-pas-quitte-le-systeme-solaire/#.YluzKWm-g0E)
 
 (et [Proxima Centauri](w:)est à 4.2 années lumière, pas 2.4)

@@ -32,4 +32,4 @@ Bref, je ne vois pas ce qui vous permet de dire que c'est la "deuxième meilleur
 
 [CAES, stockage par air comprimé](https://www.connaissancedesenergies.org/fiche-pedagogique/caes-stockage-par-air-comprime)
 
-[Comment stocker l'énergie - Pourquoi Comment Combien](https://www.drgoulu.com/2012/10/07/comment-stocker-lenergie/)
+[Comment stocker l'énergie - Pourquoi Comment Combien](/2012/10/07/comment-stocker-lenergie/)

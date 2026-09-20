@@ -15,4 +15,4 @@ Qu'il ne s'améliore pas avec l'âge.
 
 Quand il était encore physicien, il avait au moins un discours à moitié cohérent : il était présentiste, et donc rien ne coulait, le temps étant une illusion.
 
-[https://drgoulu.com/2008/06/19/p...](https://drgoulu.com/2008/06/19/peut-on-voyager-dans-le-temps/)
+[https://drgoulu.com/2008/06/19/p...](/2008/06/19/peut-on-voyager-dans-le-temps/)

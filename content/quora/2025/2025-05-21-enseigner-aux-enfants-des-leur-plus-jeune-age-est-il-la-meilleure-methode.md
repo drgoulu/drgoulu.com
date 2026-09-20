@@ -37,6 +37,6 @@ Notes de bas de page
 
 [[1]](#cite-BfKgh)[Les grandes étapes du développement cognitif chez l’enfant | Lunii](https://blog.lunii.com/2023/03/28/les-grandes-etapes-du-developpement-cognitif-chez-lenfant/)
 
-[[2]](#cite-erzYX)[La science est la croyance en l'ignorance des experts - Pourquoi Comment Combien](https://drgoulu.com/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)
+[[2]](#cite-erzYX)[La science est la croyance en l'ignorance des experts - Pourquoi Comment Combien](/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)
 
 [[3]](#cite-qFAbK)[Les bienfaits de l'ennui chez votre enfant, une activité très créative](https://www.vaudfamille.ch/N210456/b.-les-bienfaits-de-l-ennui.html#:~:text=Se confronter à l'ennui,appris à développer son imagination.)

@@ -15,4 +15,4 @@ C'est une conséquence des [Équation d'Einstein](w:). Les [Onde gravitationnell
 
 Einstein ne s'est aperçu de ça qu'après 3 ans, et il est resté très hésitant sur leur existence.
 
-[Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/02/14/einstein-et-les-ondes-gravitationnelles/)
+[Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](/2016/02/14/einstein-et-les-ondes-gravitationnelles/)

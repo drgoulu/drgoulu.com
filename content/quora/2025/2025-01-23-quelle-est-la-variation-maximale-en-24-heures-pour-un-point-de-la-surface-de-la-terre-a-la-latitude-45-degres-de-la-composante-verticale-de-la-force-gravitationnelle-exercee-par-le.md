@@ -15,4 +15,4 @@ coverImage: ./images/quora.png
 
 Calculs ici :
 
-[https://drgoulu.com/2004/06/30/a...](https://drgoulu.com/2004/06/30/astrologie/)
+[https://drgoulu.com/2004/06/30/a...](/2004/06/30/astrologie/)

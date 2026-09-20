@@ -15,4 +15,4 @@ Si on pouvait le prouver, on saurait que pi n'est pas un [Nombre univers](w:).
 
 Mais on a pas pu prouver non plus qu'il l'est …
 
-[Nombres Univers - Pourquoi Comment Combien](https://www.drgoulu.com/2010/06/04/nombres-univers/)
+[Nombres Univers - Pourquoi Comment Combien](/2010/06/04/nombres-univers/)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Des panneaux solaires ou une petite éolienne, et beaucoup de batteries.
 
-[Dites NON au mouvement perpétuel - Pourquoi Comment Combien](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[Dites NON au mouvement perpétuel - Pourquoi Comment Combien](/2012/05/27/dites-non-au-mouvement-perpetuel/)

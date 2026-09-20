@@ -37,4 +37,4 @@ Faites le projet sur GitHub et je vous aide ;-) Il y a d'ailleurs déjà projets
 
 Ce sujet m'intéresse (aussi…) depuis un certain temps
 
-[https://www.drgoulu.com/2016/05/...](https://www.drgoulu.com/2016/05/18/comment-voir-avec-ses-oreilles/)
+[https://www.drgoulu.com/2016/05/...](/2016/05/18/comment-voir-avec-ses-oreilles/)

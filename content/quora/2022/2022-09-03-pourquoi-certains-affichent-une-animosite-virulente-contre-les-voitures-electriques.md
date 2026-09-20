@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Parce que tout ce que vous mentionnez concerne surtout le pilier écologique et un peu le pilier économique du [Développement durable](w:)qui en comporte au moins un autre (social) voire deux avec la démographie
 
-[https://www.drgoulu.com/2009/06/...](https://www.drgoulu.com/2009/06/06/developpement-durable-et-equation-de-kaya/#.YxMCD6S-g0E)
+[https://www.drgoulu.com/2009/06/...](/2009/06/06/developpement-durable-et-equation-de-kaya/#.YxMCD6S-g0E)
 
 Le challenge n'est pas de donner bonne conscience à quelques millions de bobos riches, mais de permettre à 8, 9 peut-être 10 milliards d'humains de vivre décemment

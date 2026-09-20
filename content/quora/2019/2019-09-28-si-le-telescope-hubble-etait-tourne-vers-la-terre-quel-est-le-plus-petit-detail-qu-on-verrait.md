@@ -24,7 +24,7 @@ Hubble est régulièrement braqué vers la Terre pour calibrer ses caméras, mai
 
 La [résolution](w:Pouvoir_de_résolution)de Hubble est de 0.1[seconde d’arc](w:Seconde_d'arc), ce qui correspond à 30 centimètres sur la Terre, et 200 mètres sur la Lune.
 
-[10 choses que vous ignorez à propos de Hubble - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/13/10-choses-que-vous-ignorez-a-propos-de-hubble/)
+[10 choses que vous ignorez à propos de Hubble - Pourquoi Comment Combien](/2009/05/13/10-choses-que-vous-ignorez-a-propos-de-hubble/)
 
 Edit : j'ai retrouvé des images de la Terre prises par Hubble. Pas terrible:
 

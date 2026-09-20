@@ -22,7 +22,7 @@ coverImage: ./images/quora.png
 
 En complément de la réponse de [François Désarménien](https://fr.quora.com/profile/Fran%C3%A7ois-D%C3%A9sarm%C3%A9nien) , on a découvert en 2002 que l’injection d’un placebo à une personne à laquelle on promettait un analgésique entraînait une libération de dopamine et d’endorphines endogènes, des substances de la même famille que la morphine, qui réduisent réellement la douleur[[1]](#cfulO) .
 
-[Placebo et nocebo - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/21/placebo-et-nocebo/)
+[Placebo et nocebo - Pourquoi Comment Combien](/2009/05/21/placebo-et-nocebo/)
 
 Notes de bas de page
 

@@ -17,4 +17,4 @@ Parfois la découverte est en effet difficile à faire admettre, comme pour [Dan
 
 Après il faut aussi être prêt à accepter des résultats qui ne vont pas dans le sens espéré, comme des poils de yeti en fibre de verre ou un débris d'ovni crashé 100% identique à un déchet industriel produit à la tonne.
 
-[https://www.drgoulu.com/2020/07/...](https://www.drgoulu.com/2020/07/24/i-dont-want-to-believe/#.Y4RcYqTfs0E)
+[https://www.drgoulu.com/2020/07/...](/2020/07/24/i-dont-want-to-believe/#.Y4RcYqTfs0E)

@@ -28,4 +28,4 @@ Je ne sais pas ce qu'est le "métal rétracté". Les [Matériaux pour ressorts](
 
 Petite exemple d'un ressort qui se déforme plusieurs fois par seconde pendant des années voire des siècles :
 
-[https://www.drgoulu.com/2005/12/...](https://www.drgoulu.com/2005/12/12/calcul-dun-ressort-spiral-dhorlogerie/#.YsNVxXaiGCo)
+[https://www.drgoulu.com/2005/12/...](/2005/12/12/calcul-dun-ressort-spiral-dhorlogerie/#.YsNVxXaiGCo)

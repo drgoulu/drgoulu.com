@@ -44,4 +44,4 @@ C'est le cas du [Système d'unités de Planck](w:), dont il disait déjà en 189
 
 Notes de bas de page
 
-[[1]](#cite-DTVME)[Pourquoi on ne peut plus mesurer la vitesse de la lumière - Pourquoi Comment Combien](https://www.drgoulu.com/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/#.ZBn3-HZsOCo)
+[[1]](#cite-DTVME)[Pourquoi on ne peut plus mesurer la vitesse de la lumière - Pourquoi Comment Combien](/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/#.ZBn3-HZsOCo)

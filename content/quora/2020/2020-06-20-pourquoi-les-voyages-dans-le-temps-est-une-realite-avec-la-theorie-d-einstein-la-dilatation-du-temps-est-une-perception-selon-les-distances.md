@@ -31,4 +31,4 @@ Le voyage dans le temps en relativité est donc possible :
 2. Pour une seule particule "à la fois"
 3. Ne permet pas de remonter avant la formation de la courbe fermée.
 
-[Comment construire une machine à explorer le temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)
+[Comment construire une machine à explorer le temps ? - Pourquoi Comment Combien](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)

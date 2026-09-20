@@ -35,7 +35,7 @@ Il est de plus en plus clair que les nombres premiers sont juste un cas particul
 
 Ils ont beaucoup de points communs avec les [Nombre chanceux](w:)par exemple, qui sont simplement obtenus par un crible différent.
 
-[https://www.drgoulu.com/2019/01/...](https://www.drgoulu.com/2019/01/06/2019-passee-au-crible/)
+[https://www.drgoulu.com/2019/01/...](/2019/01/06/2019-passee-au-crible/)
 
 Notes de bas de page
 

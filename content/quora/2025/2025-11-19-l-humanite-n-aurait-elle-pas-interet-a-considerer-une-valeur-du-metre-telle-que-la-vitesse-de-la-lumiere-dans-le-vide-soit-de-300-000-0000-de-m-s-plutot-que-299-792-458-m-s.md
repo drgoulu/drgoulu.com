@@ -31,6 +31,6 @@ Une vitesse de la lumière fixée à
 >
 >
 >
-> ([Pourquoi on ne peut plus mesurer la vitesse de la lumière - Pourquoi Comment Combien](https://drgoulu.com/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/))
+> ([Pourquoi on ne peut plus mesurer la vitesse de la lumière - Pourquoi Comment Combien](/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/))
 
 Le plus simple aurait été d'utiliser les [unités de Planck](w:Système_d'unités_de_Planck), dans lesquelles c=1, mais elles sont trop petites, pas adaptées à un usage courant.

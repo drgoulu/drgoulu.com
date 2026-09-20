@@ -29,7 +29,7 @@ Tesla croyait à une forme d'[Éther](w:Éther_(physique)) et pensait qu'on pour
 
 Ce qui m’étonne un peu, c’est que Tesla ne se soit pas intéressé à la lumière, alors que Maxwell avait montré qu’elle était un rayonnement électromagnétique au même titre que les ondes radio, et que Hertz avait décrit l'[effet photoélectrique](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=effet+photoélectrique) en 1887. Tesla aurait pu inventer le panneau solaire et se rapprocher de son objectif plus vite qu’avec la tour de Wardenclyffe…
 
-[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](/2012/08/19/nikola-tesla-genie-mais-connu/)
 
 Notes de bas de page
 

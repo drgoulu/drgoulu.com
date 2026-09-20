@@ -23,4 +23,4 @@ Bref l'inventeur a évité d'essayer de breveter une théorie (ce qui n'est pas 
 
 Le brevet est donc abandonné dans le domaine public, ce qui vous permet de bricoler votre téléporteur dans votre jardin. Si ça ne marche pas, ça fera une jolie sculpture, n'oubliez pas de me téléporter des photos …
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/08/combien-pour-ce-brevet/)
+[https://www.drgoulu.com/2009/03/...](/2009/03/08/combien-pour-ce-brevet/)

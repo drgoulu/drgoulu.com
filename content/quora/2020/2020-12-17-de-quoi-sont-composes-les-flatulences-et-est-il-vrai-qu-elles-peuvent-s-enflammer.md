@@ -27,4 +27,4 @@ Spiros D Ladas, George Karamanolis, Emmanuel Ben-Soussan, “Colonic Gas Explosi
 
 Heureusement, ces valeureux scientifiques français ont développé une technique pour éviter ce risque et ont obtenu un Prix IgNobel pour cela :
 
-[igNobel 2012 et dangers de la coloscopie - Pourquoi Comment Combien](https://www.drgoulu.com/2012/09/21/ignobel-2012/)
+[igNobel 2012 et dangers de la coloscopie - Pourquoi Comment Combien](/2012/09/21/ignobel-2012/)

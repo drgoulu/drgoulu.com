@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 En s'adaptant à leur environnement, mais 1000 ans c'est très court (40 générations environ), il ne se passe presque rien en 1000 ans d'évolution humaine.
 
-Une évolution en cours est [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/#.Xb6pnOhsOCo), qui a commencé il y a environ 11'000 ans dans les Andes et 35'000 ans dans l'Himalaya.
+Une évolution en cours est [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/#.Xb6pnOhsOCo), qui a commencé il y a environ 11'000 ans dans les Andes et 35'000 ans dans l'Himalaya.

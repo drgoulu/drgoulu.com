@@ -29,4 +29,4 @@ Il faut bien chercher pour en trouver une publiée dans un journal sérieux (= p
 
 Exemple d'analyse de méta-analyse :
 
-[Pourquoi je n'ai toujours pas peur de mon téléphone mobile - Pourquoi Comment Combien](https://www.drgoulu.com/2011/06/03/pourquoi-je-nai-toujours-pas-peur/#.X_K2CtgVOCo)
+[Pourquoi je n'ai toujours pas peur de mon téléphone mobile - Pourquoi Comment Combien](/2011/06/03/pourquoi-je-nai-toujours-pas-peur/#.X_K2CtgVOCo)

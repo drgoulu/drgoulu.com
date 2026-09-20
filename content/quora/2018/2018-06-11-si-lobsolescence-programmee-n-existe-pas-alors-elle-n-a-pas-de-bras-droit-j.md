@@ -15,4 +15,4 @@ Si l’obsolescence programmée n'existe pas, alors elle n'a pas de bras droit ;
 
 Je penche plutôt pour une réalité : l’obsolescence, et des “bras” existants ou supposés : programmée, mode, technologique etc.
 
-[L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/01/lobsolescence-est-elle-programmee-2/)
+[L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](/2013/05/01/lobsolescence-est-elle-programmee-2/)

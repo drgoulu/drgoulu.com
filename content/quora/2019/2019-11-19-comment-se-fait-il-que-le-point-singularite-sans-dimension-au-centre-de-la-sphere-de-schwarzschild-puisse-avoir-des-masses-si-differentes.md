@@ -15,4 +15,4 @@ La singularité est mathématique, en réalité on a aucune idée de ce qu'il y 
 
 En plus, les vrais trous noirs tournent, ce qui change beaucoup de choses. Notamment la singularité mathématique n'est plus un point mais un anneau, et le trou noir ne peut pas tourner plus vite qu'une certaine limite.
 
-[A combien tourne un trou noir ? - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/)

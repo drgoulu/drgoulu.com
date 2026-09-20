@@ -31,4 +31,4 @@ Quand je lui ai demandé s'il n'était pas trop déçu, il a simplement dit "non
 
 Il faut bien comprendre que ceux qui arrivent au sommet (et redescendent vivants…) ne sont pas seulement de fantastiques montagnards surentraînés, ce sont carrément des mutants.
 
-[https://www.drgoulu.com/2014/08/...](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+[https://www.drgoulu.com/2014/08/...](/2014/08/17/ladaptation-a-laltitude/)

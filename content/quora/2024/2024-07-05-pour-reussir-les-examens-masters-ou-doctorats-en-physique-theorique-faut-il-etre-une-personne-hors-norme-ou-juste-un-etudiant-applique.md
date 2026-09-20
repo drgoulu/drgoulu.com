@@ -33,4 +33,4 @@ Mais en physique théorique, ça aide probablement d'être hors norme.
 
 J'aime beaucoup ce texte à ce sujet :
 
-[https://drgoulu.com/2014/06/11/l...](https://drgoulu.com/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/)
+[https://drgoulu.com/2014/06/11/l...](/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/)

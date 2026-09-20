@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui. Enfin presque. L'espace-temps vide est décrit par la [Métrique de Minkowski](w:), dans laquelle la dimension temporelle est orthogonale aux dimensions spatiales à un petit facteur i près.
 
-[Le temps est une 4ème dimension imaginaire](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/), au sens mathématiques du terme.
+[Le temps est une 4ème dimension imaginaire](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/), au sens mathématiques du terme.

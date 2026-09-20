@@ -28,4 +28,4 @@ Enfreindre la loi de conservation de l'énergie, c'est donc contraindre l'Univer
 
 N'essayez même pas !
 
-[Dites NON au mouvement perpétuel - Pourquoi Comment Combien](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[Dites NON au mouvement perpétuel - Pourquoi Comment Combien](/2012/05/27/dites-non-au-mouvement-perpetuel/)

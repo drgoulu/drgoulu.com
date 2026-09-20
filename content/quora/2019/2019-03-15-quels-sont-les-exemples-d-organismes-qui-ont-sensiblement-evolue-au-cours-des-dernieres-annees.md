@@ -19,4 +19,4 @@ L’exemple le plus rapide est l’adaptation des bactéries aux antibiotiques, 
 
 Sinon, les drosophiles de laboratoire s’adaptent à des changements de leur environnement de manière mesurable dans leur ADN en environ 20 ans (500 générations de 2 semaines environ) comme le montre cette jolie expérience : [L'évolution ignore la marche arrière](https://www.futura-sciences.com/sante/actualites/genetique-evolution-ignore-marche-arriere-17916/).
 
-Sur quelques millénaires (500 générations de 20 ans = 10′000 ans…) on constate l’évolution humaine notamment par [L'adaptation à l'altitude.](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+Sur quelques millénaires (500 générations de 20 ans = 10′000 ans…) on constate l’évolution humaine notamment par [L'adaptation à l'altitude.](/2014/08/17/ladaptation-a-laltitude/)

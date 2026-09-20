@@ -26,6 +26,6 @@ Et là paf, vous lui sortez que le [Décorateur est un patron de conception](w:D
 
 Personnellement il m'a fallu une vingtaine d'années pour réaliser que je rée rivais sans cesse les mêmes patterns.
 
-[https://www.drgoulu.com/2010/12/...](https://www.drgoulu.com/2010/12/03/les-decorateurs-python/)
+[https://www.drgoulu.com/2010/12/...](/2010/12/03/les-decorateurs-python/)
 
 Votre jeune collègue a intérêt à avoir une couche de neurones plus profonds que la prochaine version de Github Copilot s'il veut continuer à vivre de la programmation.

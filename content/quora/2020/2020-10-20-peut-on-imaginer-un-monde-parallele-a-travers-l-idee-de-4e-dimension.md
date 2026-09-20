@@ -15,4 +15,4 @@ Oui, on peut tout imaginer.
 
 Mais physiquement, un univers à 4 dimensions spatiales est très différent d'une "pile" d'espaces à 3 dimensions.
 
-[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](/2011/01/30/pourquoi-3-dimensions-1-temps/)

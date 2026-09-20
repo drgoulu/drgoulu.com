@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non, c'est plus compliqué que ça. La rotation de la Terre par rapport au Soleil et à la Lune provoque de faibles forces qui "excitent" les océans. Les marées sont produites par les résonances de ces excitations.
 
-[Combien de marée - Pourquoi Comment Combien](https://www.drgoulu.com/2017/08/15/combien-de-maree/)
+[Combien de marée - Pourquoi Comment Combien](/2017/08/15/combien-de-maree/)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 il plane assez bien, comme un planeur des années 1970, mais beaucoup plus vite
 
-[https://drgoulu.com/2009/01/25/u...](https://drgoulu.com/2009/01/25/un-jet-gros-porteur-sachant-planer/)
+[https://drgoulu.com/2009/01/25/u...](/2009/01/25/un-jet-gros-porteur-sachant-planer/)

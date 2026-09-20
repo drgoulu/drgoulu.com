@@ -31,4 +31,4 @@ Mais bon, si les "scientifiques" dont vous parlez arrivent à valider l'hypothè
 
 Notes de bas de page
 
-[[1]](#cite-ocifQ)[Neurologie du Temps - Pourquoi Comment Combien](https://www.drgoulu.com/2009/06/27/neurologie-du-temps/)
+[[1]](#cite-ocifQ)[Neurologie du Temps - Pourquoi Comment Combien](/2009/06/27/neurologie-du-temps/)

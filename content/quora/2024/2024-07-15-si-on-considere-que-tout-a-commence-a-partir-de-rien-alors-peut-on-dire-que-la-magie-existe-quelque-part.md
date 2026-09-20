@@ -17,4 +17,4 @@ et montrez que tout a commencé
 
 On répondra après.
 
-[https://drgoulu.com/2008/06/06/l...](https://drgoulu.com/2008/06/06/la-grande-question-du-temps/)
+[https://drgoulu.com/2008/06/06/l...](/2008/06/06/la-grande-question-du-temps/)

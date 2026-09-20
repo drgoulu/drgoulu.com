@@ -27,8 +27,8 @@ L’hélium est le 2ème élément le plus abondant dans l’Univers. 7% de tous
 
 Sur Terre, l'hélium se retrouve dans **certains gisements de gaz naturel** d'où on **l'extrait lors de la liquéfaction du gaz naturel**. Mais comment l'hélium est-il arrivé là ?
 
-L’hélium terrestre est produit en continu par [la radioactivité naturelle](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/) de l’uranium sous nos pieds. Le réacteur nucléaire sur lequel nous vivons produit ainsi environ 3000 tonnes d’hélium, soit 17 millions de m³ de gaz environ par an, dont une très large part ne se retrouve pas piégée dans le gaz naturel mais s’échappe discrètement de toute la surface du globe **vers la haute atmosphère, où elle se perd dans l’espace**. Or l’industrie gazière fournit plus de 200 millions de m³ d’hélium chaque année.
+L’hélium terrestre est produit en continu par [la radioactivité naturelle](/2013/11/03/la-radioactivite-naturelle/) de l’uranium sous nos pieds. Le réacteur nucléaire sur lequel nous vivons produit ainsi environ 3000 tonnes d’hélium, soit 17 millions de m³ de gaz environ par an, dont une très large part ne se retrouve pas piégée dans le gaz naturel mais s’échappe discrètement de toute la surface du globe **vers la haute atmosphère, où elle se perd dans l’espace**. Or l’industrie gazière fournit plus de 200 millions de m³ d’hélium chaque année.
 
-L’hélium est donc une ressource renouvelable, mais nettement surexploitée. L’économie de l’hélium est tout[comme celle de l’hydrogène](https://www.drgoulu.com/2007/09/06/lhydrogene-energie-du-futur/)un sous-produit de l’industrie gazière. Quand il n’y aura plus de gaz naturel (dans 60 ans à un siècle), les deux gaz les plus abondants de l’univers deviendront beaucoup plus rares et chers sur Terre.
+L’hélium est donc une ressource renouvelable, mais nettement surexploitée. L’économie de l’hélium est tout[comme celle de l’hydrogène](/2007/09/06/lhydrogene-energie-du-futur/)un sous-produit de l’industrie gazière. Quand il n’y aura plus de gaz naturel (dans 60 ans à un siècle), les deux gaz les plus abondants de l’univers deviendront beaucoup plus rares et chers sur Terre.
 
-[Combien d'Helium ? - Pourquoi Comment Combien](https://www.drgoulu.com/2010/07/04/combien-dhelium/)
+[Combien d'Helium ? - Pourquoi Comment Combien](/2010/07/04/combien-dhelium/)

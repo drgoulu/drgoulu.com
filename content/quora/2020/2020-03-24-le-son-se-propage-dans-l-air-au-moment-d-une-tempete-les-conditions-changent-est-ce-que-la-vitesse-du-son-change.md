@@ -15,4 +15,4 @@ Oui c'est le cas. Le son se propage à environ 300 m/s par rapport à l'air, don
 
 Un exemple de cas dans lequel il faut en tenir compte :
 
-[Avalanches et goniomètre à infrasons - Pourquoi Comment Combien](https://www.drgoulu.com/2016/01/14/avalanches-et-gonimetre-a-infrasons/#.XnpIo4hsOCo)
+[Avalanches et goniomètre à infrasons - Pourquoi Comment Combien](/2016/01/14/avalanches-et-gonimetre-a-infrasons/#.XnpIo4hsOCo)

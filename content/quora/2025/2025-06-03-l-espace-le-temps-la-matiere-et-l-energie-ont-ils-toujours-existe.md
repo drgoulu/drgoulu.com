@@ -15,7 +15,7 @@ Remarquez déjà un problème avec votre question : vous demandez si le temps a 
 
 Nous ne définissons le temps que par sa mesure, parce que sa nature fondamentale n'est pas encore claire :
 
-1. en relativité [le temps est une 4ème dimension imaginaire](https://drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/), au sens mathématique du terme, et l'espace-temps est un [Univers-bloc](w:)dans lequel le Big Bang est une singularité, un "sommet", et là non, on ne peut pas facilement imaginer un "avant"
+1. en relativité [le temps est une 4ème dimension imaginaire](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/), au sens mathématique du terme, et l'espace-temps est un [Univers-bloc](w:)dans lequel le Big Bang est une singularité, un "sommet", et là non, on ne peut pas facilement imaginer un "avant"
 2. en mécanique quantique, le temps (et/ou l'espace) sont des illusions produites par l'évolution du vecteur d"état de l'Univers entier, ou de sa "[Fonction d'onde](w:)" dans la direction de la [Flèche du temps](w:), l'augmentation de l'entropie.
 
 Avant de revenir sur une tentative de conciliation, examinons la partie "matière et énergie" de votre question. D'abord, [l’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose) . Elle n'a jamais "existé". C'est juste une grandeur qui se conserve dans un système isolé. C'est un nombre qui se calcule à partir des masses, vitesses et autres caractéristiques des particules enfermées dans le système, et on constate que ce nombre ne varie pas lors de toutes les transformations et interactions possibles de ces particules. Il n'y a pas d'énergie sans matière, et encore moins d' "énergie pure".
@@ -36,6 +36,6 @@ Donc la réponse actuelle à votre question, c'est que ce qui existerait "depuis
 
 La matière et l'espace (indissociable de la gravitation) sont les deux faces, complémentaires et opposées, de cette fluctuation quantique.
 
-Le temps, je ne sais toujours pas. Mais j'ai beaucoup aimé [La Renaissance du Temps](https://drgoulu.com/2015/01/28/la-renaissance-du-temps/), un livre (corsé…) de Lee Smolin, qui défend l'idée que le temps existe vraiment, et qu'il est éternel.
+Le temps, je ne sais toujours pas. Mais j'ai beaucoup aimé [La Renaissance du Temps](/2015/01/28/la-renaissance-du-temps/), un livre (corsé…) de Lee Smolin, qui défend l'idée que le temps existe vraiment, et qu'il est éternel.
 
 Ca ouvre la porte à des hypothèses d' univers cycliques comme la [Cosmologie cyclique conforme](w:)de Sir Roger Penrose, selon lesquels un nouveau Big Bang peut se produire quand toutes les particules de l'Univers précédent seront désintégrées, et leurs photons dilués dans un Univers totalement froid.

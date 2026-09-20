@@ -28,4 +28,4 @@ Comme un fichier est immatériel, il ne “va” nulle part. Il est “oublié�
 3. Mais si le système en a besoin il peut écrire de nouveaux fichiers dans ces blocs et donc le contenu correspondant de l’ancien fichier sera perdu. Certains outils “forensiques” peuvent encore récupérer les blocs non écrasés. Et dans certains cas (vieux disques durs), il est même possible de retrouver les anciennes données “sous” les nouvelles…
 4. C’est pourquoi pour les données critiques il est conseillé d’utiliser un logiciel d’[Effacement de données](w:) qui va réécrire plusieurs fois des données aléatoires sur les blocs libres pour être bien sur qu’il soit physiquement impossible d’accéder.
 
-[La pénible mort des données - Pourquoi Comment Combien](https://www.drgoulu.com/2012/10/31/la-penible-mort-des-donnees/)
+[La pénible mort des données - Pourquoi Comment Combien](/2012/10/31/la-penible-mort-des-donnees/)

@@ -27,6 +27,6 @@ Celà dit, la probabilité qu’un rayon cosmique vienne modifier un bit et faus
 
 Mais en réalité on s’en fiche. Il n’y a aucun besoin de connaître plus d’une dizaine de décimales de pi, voir [How many digits of Pi are required in physics?](https://physics.stackexchange.com/questions/9621/how-many-digits-of-pi-are-required-in-physics)
 
-Voir aussi [15000 décimales de Pi en 133 octets de C](https://www.drgoulu.com/2004/06/28/pi-en-c) pour un exemple d’algorithme qui calcule en n’utilisant que des nombres entiers !
+Voir aussi [15000 décimales de Pi en 133 octets de C](/2004/06/28/pi-en-c/) pour un exemple d’algorithme qui calcule en n’utilisant que des nombres entiers !
 
 La version Python est ici : [Goulib.math2.pi_digits_gen documentation](https://goulib.readthedocs.io/en/latest/_modules/Goulib/math2.html#pi_digits_gen)

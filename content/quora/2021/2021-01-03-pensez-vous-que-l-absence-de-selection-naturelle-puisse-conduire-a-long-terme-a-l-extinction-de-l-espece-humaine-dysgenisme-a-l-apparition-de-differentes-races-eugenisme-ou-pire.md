@@ -17,4 +17,4 @@ Vous pensez peut-être que la disparition de nos prédateurs a éliminé la [Sé
 
 Si vous rejoignez le/la partenaire de vos rêves dans les Andes ou l'Himalaya, n'oubliez pas que la sélection de survie concerne l'environnement en général, pas seulement les prédateurs, et lisez ça
 
-[L'adaptation à l'altitude - Pourquoi Comment Combien](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+[L'adaptation à l'altitude - Pourquoi Comment Combien](/2014/08/17/ladaptation-a-laltitude/)

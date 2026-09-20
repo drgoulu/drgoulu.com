@@ -24,4 +24,4 @@ Quand on demande ce qu’il y a en Périadélie Occidentale, il faut d’abord s
 
 C’est peut-être le même type de problème que celui du zéro absolu. Ca n’a pas de sens de ce demander ce qu’il y a de plus froid que le zéro absolu. Pourquoi se demander ce qu’il y avait “avant” le Big bang si on ne sait même pas ce qu’est le temps, ? En plus on soupçonne fortement que le temps est lié à la thermodynamique, justement. Et si, comme les températures, on ne mesurait pas le temps dans les bonnes unités ?
 
-[la Grande Question du Temps - Pourquoi Comment Combien](https://www.drgoulu.com/2008/06/06/la-grande-question-du-temps/)
+[la Grande Question du Temps - Pourquoi Comment Combien](/2008/06/06/la-grande-question-du-temps/)

@@ -32,4 +32,4 @@ Ce test n'est pas parfait, mais c'est le meilleur que nous ayons.
 
 Notes de bas de page
 
-[[1]](#cite-AAGik)[Neurologie du Temps - Pourquoi Comment Combien](https://drgoulu.com/2009/06/27/neurologie-du-temps/)
+[[1]](#cite-AAGik)[Neurologie du Temps - Pourquoi Comment Combien](/2009/06/27/neurologie-du-temps/)

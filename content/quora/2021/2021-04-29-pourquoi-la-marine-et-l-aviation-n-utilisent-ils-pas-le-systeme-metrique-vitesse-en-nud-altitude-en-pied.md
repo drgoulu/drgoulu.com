@@ -29,4 +29,4 @@ Notez au passage que la Révolution Française a amené le système décimal pou
 
 Le pied pour les altitudes, ça se discute plus, d'autant qu'il n'a aucun rapport avec le mile marin.
 
-[https://www.drgoulu.com/2010/01/...](https://www.drgoulu.com/2010/01/16/histoire-dangles/)
+[https://www.drgoulu.com/2010/01/...](/2010/01/16/histoire-dangles/)

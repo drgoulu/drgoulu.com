@@ -17,4 +17,4 @@ Mais si un horizon des événements se met à englober cette "[Matière étrange
 
 Le [Principe holographique](w:) et moi nous disons : ça n'a pas d'importance. Ce qui est ou n'est pas à l'intérieur du trou noir ne fait plus partie de notre univers. On s'en fiche. Ce qui importe, c'est que l'information sur ce qui est entré (ou plutôt sorti…) à travers l'horizon soit préservée. Le trou noir déforme l'espace parce que son horizon a mémorisé sa masse.
 
-Le texte qui m'a ouvert les yeux là dessus : [Selon Newton, l'univers serait digital - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+Le texte qui m'a ouvert les yeux là dessus : [Selon Newton, l'univers serait digital - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)

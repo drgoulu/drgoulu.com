@@ -27,4 +27,4 @@ Après ça les choses seront claires : vous ne pouvez pas (simplement) écrire v
 
 Notes de bas de page
 
-[[1]](#cite-eAGNb)[les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](https://www.drgoulu.com/2010/12/03/les-decorateurs-python/)
+[[1]](#cite-eAGNb)[les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](/2010/12/03/les-decorateurs-python/)

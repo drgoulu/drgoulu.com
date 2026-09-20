@@ -19,6 +19,6 @@ Les virus du rhume (parmi lesquels il y a d'anciens coronavirus…) sont bien pl
 
 Lisez le livre
 
-[https://www.drgoulu.com/2016/03/...](https://www.drgoulu.com/2016/03/28/planete-de-virus/)
+[https://www.drgoulu.com/2016/03/...](/2016/03/28/planete-de-virus/)
 
 c'est génial !

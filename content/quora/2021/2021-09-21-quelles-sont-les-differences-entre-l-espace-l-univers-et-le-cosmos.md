@@ -17,4 +17,4 @@ J'aime beaucoup la façon qu'avait le père de Richard Feynman de lui expliquer 
 
 > Tu as vu cet oiseau : en anglais on l’appelle [brown-throated thrush](w:en:Dark-throated_Thrush), mais en allemand on l’appelle Halsenflügel, et les chinois l’appellent [赤颈鸫](w:zh:赤颈鸫), et **même si tu connais tous ces noms, tu ne connais toujours rien de l’oiseau**, tu ne sais que quelque chose sur les hommes, comment ils appellent l’oiseau
 
-[https://www.drgoulu.com/2013/12/...](https://www.drgoulu.com/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)
+[https://www.drgoulu.com/2013/12/...](/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)

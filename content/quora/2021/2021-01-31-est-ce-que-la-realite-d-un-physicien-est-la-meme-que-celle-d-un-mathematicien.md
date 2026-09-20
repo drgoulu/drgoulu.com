@@ -43,4 +43,4 @@ Non. Il y a plein de blagues sur les différences, comme ma préférée
 
 J aime bien parce qu'on voit la différence fondamentale : la réalité d'un matheux est basée sur des axiomes. Celle d’un physicien, en principe, sur des faits expérimentaux.
 
-Sur ce thème : [Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+Sur ce thème : [Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)

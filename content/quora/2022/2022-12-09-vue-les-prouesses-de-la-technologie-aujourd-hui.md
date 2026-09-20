@@ -23,4 +23,4 @@ C'est [Encore un canular!](https://cimbcc.org/un-autre-canular-janvier-2013) . C
 
 lorsqu’il a été interrogé au sujet de la bombe atomique.
 
-Et hop ! un ajout de plus à la longue liste de [Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](https://www.drgoulu.com/2008/11/26/ce-queinstein-na-jamais-dit/#.Y5L-63ZsOCo)
+Et hop ! un ajout de plus à la longue liste de [Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](/2008/11/26/ce-queinstein-na-jamais-dit/#.Y5L-63ZsOCo)

@@ -27,4 +27,4 @@ Absolument pas. Elle lui donne des obligations mentionnées par les options
 - SA signifie “mêmes conditions” : si l'œuvre est modifiée, elle doit être mise à disposition aux mêmes conditions que l'œuvre originale
 - NC signifie “non commercial” : l œuvre ne peut être utilisée dans un but lucratif.
 
-[https://www.drgoulu.com/2013/01/...](https://www.drgoulu.com/2013/01/26/acanthapis-petax-cc-et-wikipedia/)
+[https://www.drgoulu.com/2013/01/...](/2013/01/26/acanthapis-petax-cc-et-wikipedia/)

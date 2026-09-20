@@ -37,4 +37,4 @@ for a, b, c in triples() :
 
 dit que c'est (15,20,25), de hauteur 12, donc de surface 25*12/2 = 150 et qui se coupe en deux triangles rectangles (9,12,15) et (12,16,20)
 
-[2017 et les triplets pythagoriciens - Pourquoi Comment Combien](https://www.drgoulu.com/2017/01/02/2017-et-les-triplets-pythagoriciens/)
+[2017 et les triplets pythagoriciens - Pourquoi Comment Combien](/2017/01/02/2017-et-les-triplets-pythagoriciens/)

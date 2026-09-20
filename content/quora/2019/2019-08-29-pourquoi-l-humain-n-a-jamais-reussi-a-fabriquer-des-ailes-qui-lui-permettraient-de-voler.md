@@ -31,4 +31,4 @@ Avec beaucoup d'entraînement vous arriverez peut-être à vous arracher à 3m d
 
 Bon, là les ailes tournent et le gars pédale, parce que c'est plus efficace que de battre des bras pour nous, mais on peut avec 100% de propulsion humaine. Et du carbone. Et du kevlar.
 
-[L'hélicoptère à pédales existe enfin - Pourquoi Comment Combien](https://www.drgoulu.com/2013/07/14/lhelicoptere-a-pedales-existe-enfin/)
+[L'hélicoptère à pédales existe enfin - Pourquoi Comment Combien](/2013/07/14/lhelicoptere-a-pedales-existe-enfin/)

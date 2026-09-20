@@ -30,4 +30,4 @@ Cela dit, il aurait effectivement pu ou du recevoir le prix Nobel en 1909 à la 
 
 Finalement, il n'y a qu'un prix Nobel de physique par année, donc beaucoup d'injustices et de frustrations, c'est vrai.
 
-[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](/2012/08/19/nikola-tesla-genie-mais-connu/)

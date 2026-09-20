@@ -36,4 +36,4 @@ Voir [Naissance des étoiles — Wikipédia](w:Naissance_des_étoiles)
 
 Notes de bas de page
 
-[[1]](#cite-ehFqH)[Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/02/14/einstein-et-les-ondes-gravitationnelles/)
+[[1]](#cite-ehFqH)[Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](/2016/02/14/einstein-et-les-ondes-gravitationnelles/)

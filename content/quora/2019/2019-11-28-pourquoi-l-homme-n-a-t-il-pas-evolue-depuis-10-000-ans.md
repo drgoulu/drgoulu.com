@@ -11,6 +11,6 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-l-homme-n-a-t-il-pas-%C3%A9volu%C3%A9-depuis-10-000-ans/answer/Dr-Goulu)*
 
-Contre exemple : [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+Contre exemple : [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/)
 
 3 peuples différents ont évolué de manière différente pour s'adapter à la vie en haute montagne.

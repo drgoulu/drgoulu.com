@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non. Tesla était un inventeur génial, mais nul en physique théorique. Il s'est trompé sur toute la ligne.
 
-[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](https://drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](/2012/08/19/nikola-tesla-genie-mais-connu/)

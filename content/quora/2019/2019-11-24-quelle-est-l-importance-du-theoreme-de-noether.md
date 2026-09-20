@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Fondamentale. Il démontre entre autres que l'énergie n'est pas une chose réelle, juste une valeur numérique dont la conservation traduit une des "symétries" fondamentales de l'univers.
 
-[Le Théorème de Noether a un siècle - Pourquoi Comment Combien](https://www.drgoulu.com/2018/06/23/le-theoreme-de-noether-a-un-siecle/)
+[Le Théorème de Noether a un siècle - Pourquoi Comment Combien](/2018/06/23/le-theoreme-de-noether-a-un-siecle/)

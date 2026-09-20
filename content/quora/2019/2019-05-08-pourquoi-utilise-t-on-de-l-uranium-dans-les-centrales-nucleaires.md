@@ -25,4 +25,4 @@ Les autres réacteurs nucléaires envisageables nécessitent des isotopes artifi
 
 Il fait peu de doute que les militaires ont encouragé la filière uranium pour produire du plutonium. D’un point de vue civil, le thorium est probablement un meilleur choix.
 
-[L'atome vert : le thorium - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/18/latome-vert-le-thorium/)
+[L'atome vert : le thorium - Pourquoi Comment Combien](/2013/05/18/latome-vert-le-thorium/)

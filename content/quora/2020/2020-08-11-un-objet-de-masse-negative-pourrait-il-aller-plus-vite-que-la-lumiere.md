@@ -44,4 +44,4 @@ Une [Masse négative aurait des effets tout aussi étranges comme l'effet Runawa
 
 Petit rappel : on a jamais vu la moindre particule ou le moindre effet laissant éventuellement supposer qu'une masse négative ou imaginaire puisse exister.
 
-[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/#.XzK5ZCiFqCo)
+[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/#.XzK5ZCiFqCo)

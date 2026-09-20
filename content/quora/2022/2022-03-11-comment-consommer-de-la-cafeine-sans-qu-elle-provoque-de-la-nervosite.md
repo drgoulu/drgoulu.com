@@ -15,4 +15,4 @@ Alors pourquoi consommer de la caféine ? Buvez de l'eau ! Ou du café décaféi
 
 En fait la caféine ne provoque pas de nervosité, elle empêche votre cerveau de ralentir quand vous êtes sous stress. Donc vous ressentez ce stress, mais en même temps vous êtes en pleine possession de vos moyens pour l'évacuer.
 
-[https://www.drgoulu.com/2012/07/...](https://www.drgoulu.com/2012/07/07/magnifique-cafeine/)
+[https://www.drgoulu.com/2012/07/...](/2012/07/07/magnifique-cafeine/)

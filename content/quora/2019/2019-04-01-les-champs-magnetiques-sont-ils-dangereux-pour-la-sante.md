@@ -24,4 +24,4 @@ coverImage: ./images/quora.png
 
 [Mieux comprendre la notion de champ électromagnétique et de propagation des ondes](https://www.pseudo-sciences.org/spip.php?article1150)
 
-[Pourquoi je n'ai toujours pas peur de mon téléphone mobile - Pourquoi Comment Combien](https://www.drgoulu.com/2011/06/03/pourquoi-je-nai-toujours-pas-peur/)
+[Pourquoi je n'ai toujours pas peur de mon téléphone mobile - Pourquoi Comment Combien](/2011/06/03/pourquoi-je-nai-toujours-pas-peur/)

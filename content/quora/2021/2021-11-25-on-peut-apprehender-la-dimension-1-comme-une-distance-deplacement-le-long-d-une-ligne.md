@@ -15,7 +15,7 @@ De la même manière :
 
 ![](./images/qimg-e48bd5176690f9df0ca4b3b071182cdb.jpg)
 
-[https://www.drgoulu.com/2007/02/...](https://www.drgoulu.com/2007/02/06/voir-en-4-dimensions/)
+[https://www.drgoulu.com/2007/02/...](/2007/02/06/voir-en-4-dimensions/)
 
 Ca avait l'air de perturber un commentateur d'une question similaire, pourtant ça ne le gênait pas de voir un cube (3D) projeté sur un écran (2D), alors pourquoi ça gênerait de voir un truc en 4D projeté en 3D, puis le résultat projeté en 2D comme le tesseract ci-dessus ?
 

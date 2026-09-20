@@ -12,11 +12,11 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-et-comment-sait-on-que-les-ondes-gravitationnelles-ou-vibrations-de-l-espace-temps-qui-interagissent-peu-avec-la-mati%C3%A8re-se-d%C3%A9placent-%C3%A0-la-m%C3%AAme-vitesse-que-la-lumi%C3%A8re-qui-est/answer/Dr-Goulu)*
 
-On le sait théoriquement depuis qu'Einstein a prédit les [ondes gravitationnelles](w:Onde_gravitationnelle) en ayant pas mal hésité (voir [Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/02/14/einstein-et-les-ondes-gravitationnelles/#.XwNUriiFqCo) )
+On le sait théoriquement depuis qu'Einstein a prédit les [ondes gravitationnelles](w:Onde_gravitationnelle) en ayant pas mal hésité (voir [Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](/2016/02/14/einstein-et-les-ondes-gravitationnelles/#.XwNUriiFqCo) )
 
 On le sait pratiquement depuis l'observation du [pulsar](w:) binaire [PSR B1913+16](w:) qui permit aux physiciens [Russell Hulse](w:Russell_Alan_Hulse) et [Joseph Taylor](w:Joseph_Hooton_Taylor) de montrer que la diminution de période de ce système binaire s'expliquait avec précision par l'émission de telles ondes. Ce travail fut récompensé par le prix Nobel de physique en 1993.
 
-Ensuite on a vérifié la même chose avec plein de systèmes binaires, mon préféré étant [OJ 287.](https://www.drgoulu.com/2008/04/18/ca-cest-du-trou-noir-du-vrai/#.XwNV5iiFqCo)
+Ensuite on a vérifié la même chose avec plein de systèmes binaires, mon préféré étant [OJ 287.](/2008/04/18/ca-cest-du-trou-noir-du-vrai/#.XwNV5iiFqCo)
 
 Sans dissipation d'énergie gravitationnelle, deux objets massifs se tourneraient autour indéfiniment, il n'y aurait aucune raison qu'il se rapprochent de plus en plus vite selon la mécanique classique.
 

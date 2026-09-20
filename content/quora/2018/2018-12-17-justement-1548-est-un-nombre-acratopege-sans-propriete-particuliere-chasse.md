@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Justement, 1548 est un nombre acratopège, sans propriété particulière ;-)
 
-[Chasse aux nombres acratopèges - Pourquoi Comment Combien](https://www.drgoulu.com/2008/08/24/nombres-acratopeges/)
+[Chasse aux nombres acratopèges - Pourquoi Comment Combien](/2008/08/24/nombres-acratopeges/)

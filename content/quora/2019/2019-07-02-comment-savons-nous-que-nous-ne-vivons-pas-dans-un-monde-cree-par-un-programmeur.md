@@ -31,10 +31,10 @@ Lors du concours FQXi 2011 d’essais scientifiques sur le thème "la réalité 
 
 Ca me plait ça : c'est du concret, empirique, et informatique en prime. Il faut faire cette expérience !
 
-[La réalité est-elle digitale ou analogique ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/03/30/la-realite-est-elle-digitale-ou-analogique/)
+[La réalité est-elle digitale ou analogique ? - Pourquoi Comment Combien](/2011/03/30/la-realite-est-elle-digitale-ou-analogique/)
 
 Notes de bas de page
 
-[[1]](#cite-NRtPp)[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+[[1]](#cite-NRtPp)[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](/2011/01/30/pourquoi-3-dimensions-1-temps/)
 
-[[2]](#cite-amIqN)[La réalité est-elle digitale ou analogique ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/03/30/la-realite-est-elle-digitale-ou-analogique/)
+[[2]](#cite-amIqN)[La réalité est-elle digitale ou analogique ? - Pourquoi Comment Combien](/2011/03/30/la-realite-est-elle-digitale-ou-analogique/)

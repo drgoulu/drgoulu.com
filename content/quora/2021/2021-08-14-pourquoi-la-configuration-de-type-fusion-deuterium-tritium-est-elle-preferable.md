@@ -25,4 +25,4 @@ en passant, elle n'a pas grand chose à voir avec la [Chaîne proton-proton](w:)
 
 Techniquement D+T est une horreur : elle produit des neutrons qui doivent être absorbés par du lithium pour fournir le Tritium en circuit fermé parce qu'on en a pas assez sur Terre. On est assez loin de l énergie propre…
 
-[https://www.drgoulu.com/2005/12/...](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[https://www.drgoulu.com/2005/12/...](/2005/12/11/la-fusion-thermonucleaire/)

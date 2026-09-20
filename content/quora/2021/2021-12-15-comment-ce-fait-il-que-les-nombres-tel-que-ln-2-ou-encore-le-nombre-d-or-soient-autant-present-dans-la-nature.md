@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 le nombre d'or n'est pas du tout présent dans la nature
 
-[https://www.drgoulu.com/2016/07/...](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[https://www.drgoulu.com/2016/07/...](/2016/07/03/nombre-dor-et-abeilles/)
 
 l'angle d'or à la rigueur car c'est la solution d'un problème d'optimisation illustré par cette petite vidéo
 

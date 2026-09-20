@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Est-ce-que-le-temps-est-la-seule-chose-infinie/answer/Pierre-Goffinet)*
 
-Très probablement pas d'Einstein, voir [Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](https://www.drgoulu.com/2008/11/26/ce-queinstein-na-jamais-dit/#comment-1048197737)
+Très probablement pas d'Einstein, voir [Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](/2008/11/26/ce-queinstein-na-jamais-dit/#comment-1048197737)

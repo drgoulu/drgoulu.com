@@ -29,6 +29,6 @@ Notes de bas de page
 
 [[2]](#cite-qmclc)[https://www.aft.gouv.fr/fr/oat-p...](https://www.aft.gouv.fr/fr/oat-particuliers)
 
-[[3]](#cite-DRobw)[Combien vaut 1 franc ? - Pourquoi Comment Combien](https://drgoulu.com/2009/04/03/combien-vaut-1-franc/)
+[[3]](#cite-DRobw)[Combien vaut 1 franc ? - Pourquoi Comment Combien](/2009/04/03/combien-vaut-1-franc/)
 
 [[4]](#cite-QwbQB)[Dette publique du Japon — Wikipédia](w:Dette_publique_du_Japon)

@@ -33,4 +33,4 @@ Ces découvertes conduisent à penser que ce que nous appelons la "vie" est la c
 
 Notes de bas de page
 
-[[1]](#cite-giHfr)[Planète de virus - Pourquoi Comment Combien](https://www.drgoulu.com/2016/03/28/planete-de-virus/)
+[[1]](#cite-giHfr)[Planète de virus - Pourquoi Comment Combien](/2016/03/28/planete-de-virus/)

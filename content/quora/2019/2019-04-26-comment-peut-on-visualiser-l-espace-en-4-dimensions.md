@@ -31,8 +31,8 @@ Si on fixe un de ces deux angles et qu’on fait varier l’autre avec un petit 
 
 ![](./images/qimg-14109558d811bcf99fc4a6107cfcf76a.gif)
 
-(cf [Voir en 4 dimensions - Pourquoi Comment Combien](https://www.drgoulu.com/2007/02/06/voir-en-4-dimensions/#.XMNckWiiGCo))
+(cf [Voir en 4 dimensions - Pourquoi Comment Combien](/2007/02/06/voir-en-4-dimensions/#.XMNckWiiGCo))
 
 Maintenant si vous considérez le temps comme la 4ème dimension, ce n’est pas ça du tout car l’espace-temps n’est pas un espace euclidien. C’est un [Espace de Minkowski](w:), dans lequel le temps est une dimension “imaginaire” au sens mathématique du terme . C’est beaucoup plus dur à visualiser …
 
-[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/#.XMNeT2iiGCo)
+[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/#.XMNeT2iiGCo)

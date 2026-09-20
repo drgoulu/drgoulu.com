@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pouvez-vous-nous-faire-d%C3%A9couvrir-un-ph%C3%A9nom%C3%A8ne-naturel-et-rare-dans-la-nature/answer/Dr-Goulu)*
 
-La [Brinicle](w:)*, que j'avais baptisée ["Saumurite de la mort" quand elle a été filmée pour la première fois en Antarctique](https://www.drgoulu.com/2011/11/26/saumurite-de-la-mort-filmee-en-antarctique/#.YfPhQVPfs0F)
+La [Brinicle](w:)*, que j'avais baptisée ["Saumurite de la mort" quand elle a été filmée pour la première fois en Antarctique](/2011/11/26/saumurite-de-la-mort-filmee-en-antarctique/#.YfPhQVPfs0F)
 
 [https://youtu.be/WyWn1XJ9kTE](https://youtu.be/WyWn1XJ9kTE)
 

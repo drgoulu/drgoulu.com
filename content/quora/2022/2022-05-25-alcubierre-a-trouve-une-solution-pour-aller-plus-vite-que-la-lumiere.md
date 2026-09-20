@@ -39,7 +39,7 @@ Ce qu'il faut bien comprendre dans ces histoires, c'est que l'[Équation d'Einst
 
 Ces 3 points sont extraits d'un article où je cause un peu de tout ça :
 
-[https://www.drgoulu.com/2016/09/...](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[https://www.drgoulu.com/2016/09/...](/2016/09/11/solutions-admissibles/)
 
 D'après ce que je vois, les "améliorations" mentionnées (Wiltz, Lentz etc…) consistent à ne pas nécessiter d'énergie négative. C'est bien. Mais ils ont besoin d'autres choses amusantes comme des champs magnétiques de 10^11 Tesla alors qu'à 10 Tesla nos aimants explosent ou implosent sous l'effet du champ magnétiques qu'ils créent etc.
 

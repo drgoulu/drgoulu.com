@@ -11,7 +11,7 @@ coverImage: ./images/qimg-677aabcdd09661e473b55bdd84c9ebae.jpg
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Einstein-a-d%C3%A9clar%C3%A9-Il-est-plus-facile-de-briser-l-atome-que-de-briser-les-pr%C3%A9jug%C3%A9s-La-science-a-r%C3%A9ussi-%C3%A0-briser-l-atome-Pourquoi-l-%C3%A9ducation-ne-peut-elle-pas-briser-les-pr%C3%A9jug%C3%A9s/answer/Dr-Goulu)*
 
-Une fois de plus ( [Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](https://www.drgoulu.com/2008/11/26/ce-queinstein-na-jamais-dit/#.X5upi4gVOCo) …) cette citation n'est probablement pas d'Einstein. D'abord en anglais on la trouve plutôt sous la forme
+Une fois de plus ( [Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](/2008/11/26/ce-queinstein-na-jamais-dit/#.X5upi4gVOCo) …) cette citation n'est probablement pas d'Einstein. D'abord en anglais on la trouve plutôt sous la forme
 
 > What a sad era when it is easier to smash an atom than a prejudice.
 

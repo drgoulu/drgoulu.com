@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce que le nombre d'or n'apparaît nulle part dans la nature. C'est une création mystico new age.
 
-[Nombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[Nombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/)

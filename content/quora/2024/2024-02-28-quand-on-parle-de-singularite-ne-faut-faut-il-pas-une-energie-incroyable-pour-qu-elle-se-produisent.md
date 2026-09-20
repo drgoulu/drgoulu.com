@@ -61,6 +61,6 @@ Si vous pensiez plutôt à la fameuse "singularité du Big Bang", alors :
 
 Notes de bas de page
 
-[[1]](#cite-jaXJu)[A combien tourne un trou noir ? - Pourquoi Comment Combien](https://drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[[1]](#cite-jaXJu)[A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/)
 
-[[2]](#cite-DDaHQ)[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](https://drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[[2]](#cite-DDaHQ)[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)

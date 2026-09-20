@@ -15,4 +15,4 @@ Ouais bonne idée !
 
 Le trou noir le plus proche est à 1600 années lumière, donc si vous avez un bon moteur et quelques tonnes d'antimatière , je lance un kickstarter pour la coque et le reste et on y va en 4 ans environ, on passe une semaine ou deux là bas, et on revient en 4 ans, donc dans 3200 ans sur Terre…
 
-[https://www.drgoulu.com/2004/08/...](https://www.drgoulu.com/2004/08/09/acceleration/)
+[https://www.drgoulu.com/2004/08/...](/2004/08/09/acceleration/)

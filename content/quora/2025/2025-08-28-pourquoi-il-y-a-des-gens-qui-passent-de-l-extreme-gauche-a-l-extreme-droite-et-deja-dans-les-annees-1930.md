@@ -23,6 +23,6 @@ coverImage: ./images/quora.png
 
 Parce que l'axe gauche-droite n'est pas suffisant pour décrire "l'échiquier politique". Il faut une 2ème dimension, qui n'a pas vraiment de nom mais correspond à un axe progressiste / conservateur.
 
-Voir [La politique française dans la 2ème dimension ? - Pourquoi Comment Combien](https://drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/) pour une initiation au sujet.
+Voir [La politique française dans la 2ème dimension ? - Pourquoi Comment Combien](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/) pour une initiation au sujet.
 
 Et les extrémistes ont tendance à être très conservateurs : nationalisme, nostalgie du passé, ordre établi etc.

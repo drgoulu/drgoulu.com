@@ -19,4 +19,4 @@ Ajouter des neutrons un peu au hasard par [Bombardement neutronique](w:) on sait
 
 Bref, avec ça on arrive à transmuter quelques isotopes comme on veut, mais au milieu d'une purée radioactive d'autres choses.
 
-[https://www.drgoulu.com/2013/03/...](https://www.drgoulu.com/2013/03/15/comment-transformer-le-plomb-en-or/)
+[https://www.drgoulu.com/2013/03/...](/2013/03/15/comment-transformer-le-plomb-en-or/)

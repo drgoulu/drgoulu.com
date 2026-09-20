@@ -19,4 +19,4 @@ En pratique, ce genre de formules se heurte rapidement à des problèmes de pré
 
 Ce qui n'a strictement aucun intérêt, en passant.
 
-[https://drgoulu.com/2012/04/15/c...](https://drgoulu.com/2012/04/15/comment-produire-des-nombres-premiers/)
+[https://drgoulu.com/2012/04/15/c...](/2012/04/15/comment-produire-des-nombres-premiers/)

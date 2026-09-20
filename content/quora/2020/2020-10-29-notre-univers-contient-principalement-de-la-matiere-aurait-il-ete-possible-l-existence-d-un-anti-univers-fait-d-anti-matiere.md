@@ -27,4 +27,4 @@ Les deux sont presque équiprobables, car la [Symétrie C](w:)entre matière et 
 
 Il y a cependant une nanoscopique brisure de la [Symétrie CP](w:)qui pourrait, selon certains, être à l'origine de l'absence d'antimatière dans notre univers.
 
-[MIROIR | ЯIOЯIM - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/04/miroir/)
+[MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/)

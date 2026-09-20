@@ -17,4 +17,4 @@ On attendait beaucoup de [HiPER](w:High_Power_Laser_Energy_Research), de la [Z m
 
 C'est vrai qu'une bombe H, c'est petit et ça marche …
 
-[la fusion thermonucléaire - Pourquoi Comment Combien](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/#.YCY2GGhsOCo)
+[la fusion thermonucléaire - Pourquoi Comment Combien](/2005/12/11/la-fusion-thermonucleaire/#.YCY2GGhsOCo)

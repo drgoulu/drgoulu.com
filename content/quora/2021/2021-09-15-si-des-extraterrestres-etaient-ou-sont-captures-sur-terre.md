@@ -15,7 +15,7 @@ Ils ne diront absolument rien et feront tout pour se suicider en pleurant de rag
 
 Lisez
 
-[https://www.drgoulu.com/2011/11/...](https://www.drgoulu.com/2011/11/06/la-route-que-nous-navons-pas-prise/)
+[https://www.drgoulu.com/2011/11/...](/2011/11/06/la-route-que-nous-navons-pas-prise/)
 
 et
 

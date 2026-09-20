@@ -29,4 +29,4 @@ Ce serait quoi le programme politique ? "En investissant des dizaines de milliar
 
 Et 5 ans plus tard : “Voyez : ça a marché, nous n’avons pas été anéantis grâce à l’action efficace de mon gouvernement. Réélisez moi !” …
 
-[Risques météoritiques - Pourquoi Comment Combien](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/)
+[Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)

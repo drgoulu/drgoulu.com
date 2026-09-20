@@ -48,4 +48,4 @@ Notes de bas de page
 
 [[1]](#cite-WYJbv)[https://www.nasa.gov/pdf/163560m...](https://www.nasa.gov/pdf/163560main_LunarExplorationObjectives.pdf)
 
-[[2]](#cite-qjAmQ)[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/07/18/pour-quoi-retourner-sur-la-lune/#.XKUKbJiiGCo)
+[[2]](#cite-qjAmQ)[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](/2009/07/18/pour-quoi-retourner-sur-la-lune/#.XKUKbJiiGCo)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Pourquoi ça devrait ? Les nombres premiers sont ceux qui passent un "cribble". Ce sont ceux qui ne sont pas composés. Le simple fait d'ajouter 1 à un nombre faiblement composé n'a aucune raison de donner un premier.
 
-[Comment trouver des nombres premiers - Pourquoi Comment Combien](https://www.drgoulu.com/2012/04/15/comment-produire-des-nombres-premiers/)
+[Comment trouver des nombres premiers - Pourquoi Comment Combien](/2012/04/15/comment-produire-des-nombres-premiers/)

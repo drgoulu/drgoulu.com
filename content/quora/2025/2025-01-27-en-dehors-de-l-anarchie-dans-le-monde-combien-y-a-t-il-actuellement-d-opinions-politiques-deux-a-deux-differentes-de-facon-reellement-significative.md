@@ -31,7 +31,7 @@ Elle indique le positionnement de quelques politiques étrangers, mais à mon av
 
 Pour être objectif, il faudrait appliquer au niveau mondial une méthode purement mathématique du type de celle utilisée en Suisse par [smartvote](http://smartvote.ch) et que j'explique un peu ici :
 
-[https://drgoulu.com/2017/05/14/l...](https://drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://drgoulu.com/2017/05/14/l...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 Mais pour ça il faudrait beaucoup de données, qui sont fournies en Suisse par les nombreux referendums.
 

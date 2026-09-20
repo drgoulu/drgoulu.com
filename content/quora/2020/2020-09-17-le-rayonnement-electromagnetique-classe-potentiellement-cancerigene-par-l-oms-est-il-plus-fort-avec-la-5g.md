@@ -17,7 +17,7 @@ pour rappel :
 2. "potentiellement" signifie ici soit (définitions CIRC)
 3. depuis 2011, les ondes EM sont toujours sur cette même liste donc toutes les études effectuées depuis n'ont pas permis d'éclaircir la situation
 
-Donc [Pourquoi je n'ai toujours pas peur de mon téléphone mobile](https://www.drgoulu.com/2011/06/03/pourquoi-je-nai-toujours-pas-peur/)est toujours valable :
+Donc [Pourquoi je n'ai toujours pas peur de mon téléphone mobile](/2011/06/03/pourquoi-je-nai-toujours-pas-peur/)est toujours valable :
 
 > de nombreux tests sur les relations entre téléphones portables et cancer montre qu’une éventuelle relation est très faible, et ne peut honnêtement pas être statistiquement distinguée de pas de relation du tout. Bien sur, il n’est pas possible de l’exclure non plus, donc il y a le mot “potentiellement”.
 

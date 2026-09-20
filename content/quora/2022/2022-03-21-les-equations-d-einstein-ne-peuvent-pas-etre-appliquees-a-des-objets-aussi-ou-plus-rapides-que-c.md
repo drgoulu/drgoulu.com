@@ -27,4 +27,4 @@ La dure réalité, c'est qu'on observe pas la moindre particule de [Masse négat
 
 Le problème n'est pas dans les équations, il est dans les observations et les expériences.
 
-[https://www.drgoulu.com/2016/09/...](https://www.drgoulu.com/2016/09/11/solutions-admissibles/#.YjlkxVPfs0E)
+[https://www.drgoulu.com/2016/09/...](/2016/09/11/solutions-admissibles/#.YjlkxVPfs0E)

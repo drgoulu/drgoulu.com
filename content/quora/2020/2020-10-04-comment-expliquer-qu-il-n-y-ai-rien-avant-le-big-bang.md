@@ -18,4 +18,4 @@ Une fois que vous l'aurez fait :
 1. Vous aurez un prix Nobel
 2. On essaiera de répondre à votre question.
 
-[la Grande Question du Temps - Pourquoi Comment Combien](https://www.drgoulu.com/2008/06/06/la-grande-question-du-temps/)
+[la Grande Question du Temps - Pourquoi Comment Combien](/2008/06/06/la-grande-question-du-temps/)

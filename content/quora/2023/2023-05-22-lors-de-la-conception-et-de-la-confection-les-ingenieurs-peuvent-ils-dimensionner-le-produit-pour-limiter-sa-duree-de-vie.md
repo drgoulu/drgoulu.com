@@ -30,4 +30,4 @@ Ce serait une erreur de le faire pour de nombreuses raisons:
 
 Donc non, ça ne se fait pas. Ce qui se fait, c'est de concevoir un produit pour un prix donné, ce qui peut imposer d'utiliser des composants bon marché, donc de limiter la durée de vie du produit par rapport à un produit plus cher.
 
-[https://www.drgoulu.com/2013/05/...](https://www.drgoulu.com/2013/05/01/lobsolescence-est-elle-programmee-2/#.ZGu3OnZByCo)
+[https://www.drgoulu.com/2013/05/...](/2013/05/01/lobsolescence-est-elle-programmee-2/#.ZGu3OnZByCo)

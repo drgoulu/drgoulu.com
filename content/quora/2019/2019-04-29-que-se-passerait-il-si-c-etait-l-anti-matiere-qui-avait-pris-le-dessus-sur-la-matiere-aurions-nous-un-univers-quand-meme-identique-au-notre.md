@@ -27,4 +27,4 @@ Elle fait entre autres que la transformation d’un kaon en antikaon est 1 milli
 
 Et on pense que c’est une des raisons pour lesquelles la matière a “pris le dessus” sur l’antimatière. Autrement dit, si l’antimatière était l’exacte symétrique de la matière, il n’y aurait probablement ni l’une ni l’autre.
 
-[MIROIR | ЯIOЯIM - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/04/miroir/)
+[MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/)

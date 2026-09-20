@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Parce que d'un point de vue évolutionniste "aliment sain" ne veut rien dire. Un aliment nous apporte par définition des nutriments essentiels à notre survie, et dans un environnement où la nourriture était souvent rare, notre goût a évolué pour préférer ceux qui nous en apportaient beaucoup et qui pouvaient si possible constituer des réserves de graisse pour les périodes de disette. Gras+sucré = meilleures chances de survie.
 
-Voir à ce propos la géniale conférence [Pourquoi on aime le joli, le sexy, le sucré et le drôle - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)
+Voir à ce propos la géniale conférence [Pourquoi on aime le joli, le sexy, le sucré et le drôle - Pourquoi Comment Combien](/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)
 
 Bref, définir comme "aliment sain" ceux qui ne nous apportent pas de calories maintenant que la nourriture est abondante presque partout est un renversement complet de situation qu'il faudra des centaines de générations pour intégrer dans notre patrimoine génétique, si cette abondance dure ce temps-là …
 

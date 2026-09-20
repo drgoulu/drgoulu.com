@@ -15,4 +15,4 @@ En fait ce n'est pas la "gravité de la Lune" ou celle du Soleil qui cause les m
 
 Les [composantes de marée](w:Marée) solaires sont légèrement plus faibles que celles de la Lune. Les marées sont importantes en mer à cause de résonances, mais la marée affecte aussi le sol.
 
-[Combien de marée - Pourquoi Comment Combien](https://www.drgoulu.com/2017/08/15/combien-de-maree/#.XrhA2WiiGCo)
+[Combien de marée - Pourquoi Comment Combien](/2017/08/15/combien-de-maree/#.XrhA2WiiGCo)

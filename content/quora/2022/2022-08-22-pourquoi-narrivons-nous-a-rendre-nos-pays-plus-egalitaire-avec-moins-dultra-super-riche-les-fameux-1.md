@@ -30,4 +30,4 @@ Vous voulez un pays égalitaire ? combattez la pauvreté et le chômage. D'aille
 
 Notes de bas de page
 
-[[1]](#cite-guexQ)[Encore plus d'inégalité ? - Pourquoi Comment Combien](https://www.drgoulu.com/2012/07/13/encore-plus-dinegalite/)
+[[1]](#cite-guexQ)[Encore plus d'inégalité ? - Pourquoi Comment Combien](/2012/07/13/encore-plus-dinegalite/)

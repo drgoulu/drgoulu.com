@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 En fait je voulais dire que votre exemple est très bon. Il est en effet très difficile de démontrer les choses “évidentes”, et votre prof a très bien fait d'attirer votre attention là dessus.
 
-Si le sujet vous intéresse, je vous recommande une bd, ou plutôt un “roman graphique “ génial, [Logicomix, la révolution de la logique en BD - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/06/logicomix/)
+Si le sujet vous intéresse, je vous recommande une bd, ou plutôt un “roman graphique “ génial, [Logicomix, la révolution de la logique en BD - Pourquoi Comment Combien](/2011/01/06/logicomix/)

@@ -35,5 +35,5 @@ Si un article contient des résultats démontrés comne faux par la suite, il es
 
 Références :
 
-1. [Placebo et nocebo - Pourquoi Comment Combien](https://drgoulu.com/2009/05/21/placebo-et-nocebo/)
-2. [Deux pubs - Pourquoi Comment Combien](https://drgoulu.com/2013/03/21/deux-pubs/)
+1. [Placebo et nocebo - Pourquoi Comment Combien](/2009/05/21/placebo-et-nocebo/)
+2. [Deux pubs - Pourquoi Comment Combien](/2013/03/21/deux-pubs/)

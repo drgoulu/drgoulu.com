@@ -19,4 +19,4 @@ Mais rien ne dit qu'il existe effectivement des particules qui remontent le temp
 
 Il y a juste les créations+annihilation de paires de particules virtuelles (responsables de l'effet Casimir) qui ressemblent furieusement à des particules faisant de petites boucles dans le temps…
 
-[https://www.drgoulu.com/2009/04/...](https://www.drgoulu.com/2009/04/04/miroir/#.Y1fBI6S3A0E)
+[https://www.drgoulu.com/2009/04/...](/2009/04/04/miroir/#.Y1fBI6S3A0E)

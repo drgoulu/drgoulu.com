@@ -17,6 +17,6 @@ Il y a l'[Espace de Minkowski](w:)de 3 dimensions spatiales plus 1 dimension tem
 
 Si vous savez ce que sont les nombres imaginaires, vous pouvez lire
 
-[https://www.drgoulu.com/2007/02/...](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
+[https://www.drgoulu.com/2007/02/...](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
 
 pour une petite introduction à Minkowski

@@ -17,4 +17,4 @@ Après, [il y a 1176 constantes connues qui commencent par 1.6180](http://waybac
 
 Certains accordent une importance démesurée au "[Nombre d'or](w:)" $\Phi = (1+\sqrt{5})/2 = 1.6180339887…$
 
-[Nombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[Nombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/)

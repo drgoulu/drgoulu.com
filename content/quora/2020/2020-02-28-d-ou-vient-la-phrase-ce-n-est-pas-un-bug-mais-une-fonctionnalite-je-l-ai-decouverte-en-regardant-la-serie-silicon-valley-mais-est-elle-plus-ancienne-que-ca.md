@@ -28,7 +28,7 @@ The Jargon File définit [feature](http://catb.org/jargon/html/F/feature.html) (
 
 S'il était commun en 1975, ce slogan date de la préhistoire …
 
-Il fait aussi penser à un [Perlisisme très profond](https://www.drgoulu.com/2008/01/21/perlisismes-les-dictons-informatiques-dalan-perlis/#.XjnRkGhsOCo):
+Il fait aussi penser à un [Perlisisme très profond](/2008/01/21/perlisismes-les-dictons-informatiques-dalan-perlis/#.XjnRkGhsOCo):
 
 > Tout programme a au moins deux buts : celui pour lequel il a été écrit, et celui pour lequel il ne l’a pas été.
 

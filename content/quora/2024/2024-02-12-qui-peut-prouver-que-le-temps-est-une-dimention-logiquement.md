@@ -27,4 +27,4 @@ Quand vous faites un petit dessin de la position x d'un objet au cours du temps,
 
 Le temps est orthogonal à l'espace, mais pas comme une 4ème dimension euclidienne. C'est une dimension imaginaire au sens mathématique du terme.
 
-[https://www.drgoulu.com/2007/02/...](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
+[https://www.drgoulu.com/2007/02/...](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)

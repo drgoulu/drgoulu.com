@@ -15,4 +15,4 @@ On a déjà pas mal réfléchi à cette intéressante question avant d'envoyer d
 
 Les principaes clé sont : images en binaire (noir/blanc) de taille = nombre premier x nombre premier, et symboles résistants au bruit.
 
-[Comment comptent les Extraterrestres - Pourquoi Comment Combien](https://www.drgoulu.com/2011/09/25/comment-comptent-les-extraterrestres/)
+[Comment comptent les Extraterrestres - Pourquoi Comment Combien](/2011/09/25/comment-comptent-les-extraterrestres/)

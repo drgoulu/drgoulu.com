@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quelle-est-la-température-dun-trou-noir/answer/Dr-Goulu)*
 
-[Principe holographique faible](w:Principe_holographique) et [Selon Newton, l'univers serait digital](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/) : à l'échelle de Planck, le volume (à l' "intérieur" de l'horizon) et la surface de l'horizon sont équivalents.
+[Principe holographique faible](w:Principe_holographique) et [Selon Newton, l'univers serait digital](/2011/08/13/selon-newton-lunivers-serait-digital/) : à l'échelle de Planck, le volume (à l' "intérieur" de l'horizon) et la surface de l'horizon sont équivalents.

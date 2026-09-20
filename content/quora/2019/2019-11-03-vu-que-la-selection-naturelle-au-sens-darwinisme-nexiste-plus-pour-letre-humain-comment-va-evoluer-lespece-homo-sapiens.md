@@ -23,6 +23,6 @@ coverImage: ./images/quora.png
 
 Comment ça la sélection naturelle n'existe plus ? Vous faites des enfants avec n'importe qui ?
 
-Bien sur que la sélection naturelle fonctionne toujours pour l'être humain. Un exemple frappant (désolé pour ceux qui me suivent, c'est toujours le même…) est [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/). Si vous avez l'intention de vous établir dans les Andes, vous avez sérieusement intérêt à avoir un gène [EGLN1](w:en:EGLN1) modifié dans la famille, sinon vos filles auront beaucoup de risques de mourir en couches.
+Bien sur que la sélection naturelle fonctionne toujours pour l'être humain. Un exemple frappant (désolé pour ceux qui me suivent, c'est toujours le même…) est [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/). Si vous avez l'intention de vous établir dans les Andes, vous avez sérieusement intérêt à avoir un gène [EGLN1](w:en:EGLN1) modifié dans la famille, sinon vos filles auront beaucoup de risques de mourir en couches.
 
 Donc voilà : dans les prochains millénaires, plus d'Homo Sapiens pourront vivre en altitude. Grâce à la sélection naturelle.

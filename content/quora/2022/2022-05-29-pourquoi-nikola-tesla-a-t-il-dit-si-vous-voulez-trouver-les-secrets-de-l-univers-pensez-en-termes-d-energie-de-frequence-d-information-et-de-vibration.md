@@ -47,4 +47,4 @@ S'il avait réalisé que la lumière est une onde électromagnétique et que le 
 
 Mais non, il n'a inventé "que" la radio, les machines synchrones, le courant alternatif et quelques autres bricoles.
 
-[https://www.drgoulu.com/2012/08/...](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[https://www.drgoulu.com/2012/08/...](/2012/08/19/nikola-tesla-genie-mais-connu/)

@@ -15,4 +15,4 @@ La caféine n'a pas d'effet sur la "matière grise". C'est un "antagoniste de l'
 
 > Or l’adénosine ralentit mon activité cérébrale lorsque je suis stressé, et en limitant son action tu me permets de rester concentré. De plus, mon organisme réagit à ton antagonisme en produisant de l’adrénaline et de la dopamine, tu es donc indirectement un psychostimulant : mon cerveau travaille plus vite et mieux.
 
-[https://www.drgoulu.com/2012/07/...](https://www.drgoulu.com/2012/07/07/magnifique-cafeine/)
+[https://www.drgoulu.com/2012/07/...](/2012/07/07/magnifique-cafeine/)

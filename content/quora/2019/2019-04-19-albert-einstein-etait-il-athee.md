@@ -35,4 +35,4 @@ Une autre de ses citations, mais dont je n’ai jusqu’ici jamais trouvé confi
 
 qui est exactement la position de l’[ignosticisme](w:).
 
-[Le Dieu d'Einstein - Pourquoi Comment Combien](https://www.drgoulu.com/2008/05/15/le-dieu-deinstein/#.XLoQgeiiGCo)
+[Le Dieu d'Einstein - Pourquoi Comment Combien](/2008/05/15/le-dieu-deinstein/#.XLoQgeiiGCo)

@@ -39,4 +39,4 @@ Là où ça devient intéressant, c'est quand on voit que les chimpanzés contam
 
 Et si les Aliens nous avaient contaminé avec un parasite qui nous pousse à leur signaler notre position ?
 
-[Quel trématode a infecté METI ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/28/quel-trematode-a-infecte-meti/#.XoRMPqiiGCo)
+[Quel trématode a infecté METI ? - Pourquoi Comment Combien](/2011/08/28/quel-trematode-a-infecte-meti/#.XoRMPqiiGCo)

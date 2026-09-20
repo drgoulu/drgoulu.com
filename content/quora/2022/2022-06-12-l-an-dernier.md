@@ -25,7 +25,7 @@ Pour la croissance, c'est la même que Ferrari[[1]](#pJFjN) : les gens qui ont d
 
 [https://www.swissinfo.ch/fre/les...](https://www.swissinfo.ch/fre/les-huit-choses-que-vous-devez-savoir-sur-l-horlogerie-suisse/45888244)
 
-[https://www.drgoulu.com/2007/05/...](https://www.drgoulu.com/2007/05/15/montre-mecanique-contre-quartz/)
+[https://www.drgoulu.com/2007/05/...](/2007/05/15/montre-mecanique-contre-quartz/)
 
 Notes de bas de page
 

@@ -21,7 +21,7 @@ coverImage: ./images/quora.png
 
 Sur le papier, la fusion est le Graal énergétique depuis 50 ans…
 
-Ca se révèle beaucoup plus difficile que prévu ( voir [la fusion thermonucléaire - Pourquoi Comment Combien](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/) ) entre autres parce qu'on ne va pas du tout faire comme le Soleil.
+Ca se révèle beaucoup plus difficile que prévu ( voir [la fusion thermonucléaire - Pourquoi Comment Combien](/2005/12/11/la-fusion-thermonucleaire/) ) entre autres parce qu'on ne va pas du tout faire comme le Soleil.
 
 Et quand on y arrivera techniquement, rien ne dit que ce sera économiquement viable.
 

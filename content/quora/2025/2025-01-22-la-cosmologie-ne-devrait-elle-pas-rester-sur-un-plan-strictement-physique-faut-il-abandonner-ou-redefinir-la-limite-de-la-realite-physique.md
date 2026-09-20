@@ -21,7 +21,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/La-cosmologie-ne-devrait-elle-pas-rester-sur-un-plan-strictement-physique-Faut-il-abandonner-ou-red%C3%A9finir-la-limite-de-la-r%C3%A9alit%C3%A9-physique/answer/Dr-Goulu)*
 
-Il y a un chapitre du livre [La Renaissance du Temps](https://drgoulu.com/2015/01/28/la-renaissance-du-temps/)de Lee Smolin là dessus, qui m'a fait beaucoup réfléchir.
+Il y a un chapitre du livre [La Renaissance du Temps](/2015/01/28/la-renaissance-du-temps/)de Lee Smolin là dessus, qui m'a fait beaucoup réfléchir.
 
 Smolin argue que la physique (classique) se fait "dans une boîte" : on considère un "système isolé" qu'on observe de l'extérieur en négligeant certains phénomènes considérés comme secondaires.
 

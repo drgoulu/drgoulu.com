@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 1. Ça va trop vite
 2. Ça ne vaut pas le coup
 
-[https://www.drgoulu.com/2007/09/...](https://www.drgoulu.com/2007/09/09/lenergie-de-la-foudre/#.YwBwHaS-g0E)
+[https://www.drgoulu.com/2007/09/...](/2007/09/09/lenergie-de-la-foudre/#.YwBwHaS-g0E)

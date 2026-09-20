@@ -38,6 +38,6 @@ L'union européenne l'avait en plein milieu et a choisi de ne rien en prendre po
 
 Mais rien n'empêche un état de s'inspirer du modèle, en commençant par donner plus de pouvoir à ses régions et en y introduisant la démocratie directe, mais surtout en choisissant la représentation proportionnelle.
 
-[https://www.drgoulu.com/2009/12/...](https://www.drgoulu.com/2009/12/13/initiatives-populaires/#.ZAw28aTfs0E)
+[https://www.drgoulu.com/2009/12/...](/2009/12/13/initiatives-populaires/#.ZAw28aTfs0E)
 
-[https://www.drgoulu.com/2013/12/...](https://www.drgoulu.com/2013/12/02/repartition-proportionnelle/#.ZAw3IaTfs0E)
+[https://www.drgoulu.com/2013/12/...](/2013/12/02/repartition-proportionnelle/#.ZAw3IaTfs0E)

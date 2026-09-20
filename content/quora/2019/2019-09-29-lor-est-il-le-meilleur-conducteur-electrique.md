@@ -25,4 +25,4 @@ non, à température ambiante l'argent et le cuivre sont meilleurs
 
 On aime bien l'or pour les contacts car il ne s'oxyde pas et comme il est mou, il se déforme en créant une surface de contact plus élevée, mais pour les fils et cables on préfère le cuivre et l'aluminium, ce dernier pour les lignes à haute tension.
 
-[0.01 Ohm/km - Pourquoi Comment Combien](https://www.drgoulu.com/2010/03/19/0-01-ohmkm/)
+[0.01 Ohm/km - Pourquoi Comment Combien](/2010/03/19/0-01-ohmkm/)

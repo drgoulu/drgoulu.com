@@ -25,5 +25,5 @@ Et là vous comprendrez pourquoi la première "colonie" extraterrestre humaine s
 
 Un peu de lecture :
 
-- [La route que nous n'avons pas prise - Pourquoi Comment Combien](https://drgoulu.com/2011/11/06/la-route-que-nous-navons-pas-prise/)
-- [Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](https://drgoulu.com/2004/08/09/acceleration/)
+- [La route que nous n'avons pas prise - Pourquoi Comment Combien](/2011/11/06/la-route-que-nous-navons-pas-prise/)
+- [Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](/2004/08/09/acceleration/)

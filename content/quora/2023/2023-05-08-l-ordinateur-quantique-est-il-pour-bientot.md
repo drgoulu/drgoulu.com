@@ -25,7 +25,7 @@ il en existe déjà depuis une dizaine d'années, mais ils ne ressemblent pas au
 
 Ce sont plutôt des machines que vous pouvez "câbler" par logiciel pour qu'elles résolvent des problèmes très spécifiques.
 
-[https://www.drgoulu.com/2011/05/...](https://www.drgoulu.com/2011/05/19/et-un-ordinateur-quantique-un/)
+[https://www.drgoulu.com/2011/05/...](/2011/05/19/et-un-ordinateur-quantique-un/)
 
 Ca ne se programme pas du tout comme des ordinateurs classiques, mais vous pouvez apprendre et essayer en ligne gratuitement
 

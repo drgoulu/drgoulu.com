@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Avez-vous-entendu-parler-de-l-effet-Nocebo-et-y-a-t-il-des-%C3%A9tudes-qui-prouvent-ou-r%C3%A9futent-son-existence/answer/Dr-Goulu)*
 
-Oui, j'ai même écrit ça la dessus : [Placebo et nocebo - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/21/placebo-et-nocebo/)
+Oui, j'ai même écrit ça la dessus : [Placebo et nocebo - Pourquoi Comment Combien](/2009/05/21/placebo-et-nocebo/)
 
 Mon effet nocebo préféré est celui décrit dans
 

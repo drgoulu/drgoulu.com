@@ -19,8 +19,8 @@ Maintenant si Tesla a vraiment dit ça, ça indiquerait qu'il débloquait série
 
 Et d'ailleurs il était bien placé pour savoir que tout phénomène surprenant devient physique après étude.
 
-[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](/2012/08/19/nikola-tesla-genie-mais-connu/)
 
 Notes de bas de page
 
-[[1]](#cite-sLjHW)[Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](https://www.drgoulu.com/2008/11/26/ce-queinstein-na-jamais-dit/)
+[[1]](#cite-sLjHW)[Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](/2008/11/26/ce-queinstein-na-jamais-dit/)

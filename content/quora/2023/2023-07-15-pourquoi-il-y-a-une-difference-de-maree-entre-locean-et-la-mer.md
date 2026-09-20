@@ -19,4 +19,4 @@ Si vous regardez la carte de l'amplitude des marées, vous voyez qu'elle est él
 
 Pour comprendre pourquoi c est comme ça, lisez
 
-[https://www.drgoulu.com/2017/08/...](https://www.drgoulu.com/2017/08/15/combien-de-maree/)
+[https://www.drgoulu.com/2017/08/...](/2017/08/15/combien-de-maree/)

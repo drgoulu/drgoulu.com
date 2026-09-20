@@ -22,4 +22,4 @@ Il y a donc bien plusieurs échelles de mesure des tremblement de terre, donc il
 
 La mention "sur l'échelle de Richter" indique donc que le journaliste ne sait pas de quoi il parle.
 
-[https://www.drgoulu.com/2011/03/...](https://www.drgoulu.com/2011/03/16/seismes-et-energies/#.YzLv3naiGCo)
+[https://www.drgoulu.com/2011/03/...](/2011/03/16/seismes-et-energies/#.YzLv3naiGCo)

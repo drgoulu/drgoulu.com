@@ -25,7 +25,7 @@ Il n'y a qu'une [Science](w:), divisée arbitrairement en "scienceS" corresponda
 
 ![](./images/qimg-41a715d4f8c9cb26468ade7cc9b91a22.jpg)
 
-( [Carte des Sciences](https://www.drgoulu.com/2007/06/07/carte-des-sciences/) de W.B. Paley, Kevin Boyack et Dick Klavans de l’Université de Columbia tracées à partir de 80'000 publications)
+( [Carte des Sciences](/2007/06/07/carte-des-sciences/) de W.B. Paley, Kevin Boyack et Dick Klavans de l’Université de Columbia tracées à partir de 80'000 publications)
 
 Ce qui détermine la "scientificité", c'est la [Méthode scientifique](w:):
 

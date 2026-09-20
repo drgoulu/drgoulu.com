@@ -33,6 +33,6 @@ Franchement je ne sais pas s'il y a vraiment moins de grands mammifères qu'avan
 
 Alors oui, bien sur c'est dommage pour la biodiversité, il y a plein d'espèces qu'on ne verra plus qu'au zoo, ou plus du tout. Mais malheureusement il n'y a pas grand chose qu'on puisse faire à part réduire sensiblement notre nombre :
 
-**2 enfants max.** ( [400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/#.XzaSRuiFqCo) )
+**2 enfants max.** ( [400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/#.XzaSRuiFqCo) )
 
 Note* : Petit sujet de réflexion pour les végétariennes : sur le graphique de XKCD, si on ne mange plus de viande, qu'est-ce qui se passe ? Les animaux sauvages (les quelques petits carrés verts…) vont-ils vraiment prendre la place du bétail ? Ou est-ce nous qui allons tripler notre nombre en mangeant leur herbe et reposer le problème plus tard ?

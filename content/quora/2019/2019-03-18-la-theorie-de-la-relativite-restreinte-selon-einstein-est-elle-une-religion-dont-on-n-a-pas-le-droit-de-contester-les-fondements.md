@@ -33,4 +33,4 @@ ou vous pouvez aussi proposer une nouvelle théorie qui fournit une **prédictio
 
 Sinon, une nouvelle théorie indistinguable de l’actuelle par les expériences et qui ne fournit aucune prédiction n’a aucun intérêt. Sauf éventuellement si elle est plus simple.
 
-[Suites, Courbes et Théories - Pourquoi Comment Combien](https://www.drgoulu.com/2008/08/23/suites-courbes-et-theories/#.XI_H7ihsOCo)
+[Suites, Courbes et Théories - Pourquoi Comment Combien](/2008/08/23/suites-courbes-et-theories/#.XI_H7ihsOCo)

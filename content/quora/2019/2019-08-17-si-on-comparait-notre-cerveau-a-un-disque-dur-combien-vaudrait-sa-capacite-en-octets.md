@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 La mémoire humaine ne fonctionne pas du tout de la même façon mais on estime qu'un simulateur de cerveau demanderait environ 100 PetaBytes (100'000 Terabytes)
 
-[Combien de processeurs pour un cerveau ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/03/11/combien-de-processeurs-pour-un-cerveau/)
+[Combien de processeurs pour un cerveau ? - Pourquoi Comment Combien](/2013/03/11/combien-de-processeurs-pour-un-cerveau/)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Faites vos devoirs vous même.
 
-[https://drgoulu.com/2017/02/15/a...](https://drgoulu.com/2017/02/15/alice-et-bob-et-les-cles-asymetriques/)
+[https://drgoulu.com/2017/02/15/a...](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/)

@@ -15,6 +15,6 @@ Toutes. Les mutations créent la diversité génétique et donc favorisent l'ada
 
 Exemple :
 
-[https://www.drgoulu.com/2014/08/...](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+[https://www.drgoulu.com/2014/08/...](/2014/08/17/ladaptation-a-laltitude/)
 
 est le résultat de plusieurs mutations différentes survenues dans des populations différentes.

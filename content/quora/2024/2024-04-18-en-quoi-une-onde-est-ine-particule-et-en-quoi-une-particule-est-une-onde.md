@@ -35,7 +35,7 @@ Je le maîtrise beaucoup moins bien qu [Hadrien Chevalier](https://fr.quora.com/
 
 Ça avait un peu modifié, ou plutôt complété ma compréhension par rapport à la [page Wikipédia](w:Dualité_onde-corpuscule), donc lisez les deux !
 
-Le rapport n'est peut-être pas direct mais en écrivant cette réponse j'ai repensé à un passage de [La science est la croyance en l'ignorance des experts](https://drgoulu.com/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)de Feynman, quand son père lui a dit :
+Le rapport n'est peut-être pas direct mais en écrivant cette réponse j'ai repensé à un passage de [La science est la croyance en l'ignorance des experts](/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)de Feynman, quand son père lui a dit :
 
 > Tu as vu cet oiseau : en anglais on l’appelle [brown-throated thrush](w:en:Dark-throated_Thrush)**, mais en allemand on l’appelle Halsenflügel, et les chinois l’appellent [赤颈鸫](w:zh:赤颈鸫), et **même si tu connais tous ces noms, tu ne connais toujours rien de l’oiseau**, tu ne sais que quelque chose sur les hommes, comment ils appellent l’oiseau. En fait cette grive chante, apprend à voler à ses jeunes, et pendant l’été elle vole si loin à travers tout le pays, et personne ne sait comment elle trouve son chemin.
 

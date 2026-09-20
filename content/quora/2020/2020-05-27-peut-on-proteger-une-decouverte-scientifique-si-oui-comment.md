@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 En brevetant les inventions qui en découlent **avant** de publier la découverte scientifique.
 
-[Combien pour ce brevet ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/08/combien-pour-ce-brevet/)
+[Combien pour ce brevet ? - Pourquoi Comment Combien](/2009/03/08/combien-pour-ce-brevet/)

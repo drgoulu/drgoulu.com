@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Je vais répondre à ces jolies questions par des arguments inspirés de la conférence de Dan Dennett au TED sur l'évolution :
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole)
+[https://www.drgoulu.com/2009/03/...](/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)
 
 1. Les vers de terre mangent la terre parce qu'il est possible de vivre ainsi. L'évolution essaie plein de choses au hasard, et ce qui survit se reproduit. Donc les vers de terre actuels sont les [descendants de vers marins](w:Lumbricina) qui se sont habitués à vivre dans la vase ou le sable des bords de mer, puis ont progressivement évolué pour tirer leur nourriture des déchets végétaux sur la terre etc. Aujourd'hui on connait plus de 7000 espèces de vers de terre, chacune différente des autres à cause de son adaptation à une [Niche écologique](w:) particulière
 2. Ils [mangent des débris organiques](w:Lumbricina) d'origines variée : bactéries, champignons, cadavres de petits animaux et aussi la cellulose et la lignine des plantes qui leur apportent exactement les calories qu'il leur faut pour vivre. Je ne sais pas combien ça fait, mais ce qui est assez facile à dire, c'est que si ça nourrissait bien ils seraient plus gros . D'ailleurs il y en a des gros… le plus gros est [Megascolides australis](w:) qui vit à un endroit précis de l'Australie. Il peut faire 80 cm de long, 2 cm de diamètre et peser 400 grammes…

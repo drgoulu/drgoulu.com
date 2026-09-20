@@ -37,4 +37,4 @@ Ca a donné l'idée à certains de mesurer les petites doses de radioactivité e
 
 Notes de bas de page
 
-[[1]](#cite-TigMd)[La radioactivité naturelle - Pourquoi Comment Combien](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/)
+[[1]](#cite-TigMd)[La radioactivité naturelle - Pourquoi Comment Combien](/2013/11/03/la-radioactivite-naturelle/)

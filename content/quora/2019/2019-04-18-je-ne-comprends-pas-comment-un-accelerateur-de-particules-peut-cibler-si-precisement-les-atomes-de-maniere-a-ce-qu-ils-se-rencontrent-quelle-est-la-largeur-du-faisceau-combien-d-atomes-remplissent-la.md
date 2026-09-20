@@ -20,7 +20,7 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Je-ne-comprends-pas-comment-un-acc%C3%A9l%C3%A9rateur-de-particules-peut-cibler-si-pr%C3%A9cis%C3%A9ment-les-atomes-de-mani%C3%A8re-%C3%A0-ce-quils-se-rencontrent-Quelle-est-la-largeur-du-faisceau-Combien-datomes/answer/Dr-Goulu)*
 
-Ca fait plusieurs questions… J’ai répondu à certaines dans [La FAQ du LHC - Pourquoi Comment Combien](https://www.drgoulu.com/2008/09/12/la-faq-du-lhc/), notamment:
+Ca fait plusieurs questions… J’ai répondu à certaines dans [La FAQ du LHC - Pourquoi Comment Combien](/2008/09/12/la-faq-du-lhc/), notamment:
 
 > il y a 2808 paquets de protons qui tournent en même temps dans le LHC dans chaque sens, et chaque paquet contient 100 milliards de protons. Au total, il y a un dix-milliardième de gramme de protons répartis sur les 27km de tube
 

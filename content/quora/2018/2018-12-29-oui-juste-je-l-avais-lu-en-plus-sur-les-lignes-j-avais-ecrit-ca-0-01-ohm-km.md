@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-les-oiseaux-peuvent-ils-se-poser-sur-les-fils-électriques-sans-s’électrocuter/answer/Dr-Goulu)*
 
-Oui juste, je l'avais lu, en plus… sur les lignes j'avais écrit ça : [0.01 Ohm/km - Pourquoi Comment Combien](https://www.drgoulu.com/2010/03/19/0-01-ohmkm/)
+Oui juste, je l'avais lu, en plus… sur les lignes j'avais écrit ça : [0.01 Ohm/km - Pourquoi Comment Combien](/2010/03/19/0-01-ohmkm/)

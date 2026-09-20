@@ -41,4 +41,4 @@ comme vous le voyez il calcule la suite de Fibonacci modulo m=10^9 (car il y a 9
 
 Ensuite il utilise ma fonction de calcul du ième terme par exponentiation rapide, décrite dans l'article ci-dessous pour l'afficher en entier.
 
-[Comment calculer le 10'000'000'000'000'000'000 ème terme de la suite de Fibonacci - Pourquoi Comment Combien](https://www.drgoulu.com/2017/04/25/comment-calculer-le-1e19-eme-terme-de-la-suite-de-fibonacci/)
+[Comment calculer le 10'000'000'000'000'000'000 ème terme de la suite de Fibonacci - Pourquoi Comment Combien](/2017/04/25/comment-calculer-le-1e19-eme-terme-de-la-suite-de-fibonacci/)

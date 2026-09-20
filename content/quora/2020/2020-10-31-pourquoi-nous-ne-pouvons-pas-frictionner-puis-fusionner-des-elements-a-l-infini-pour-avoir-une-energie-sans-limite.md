@@ -29,7 +29,7 @@ Selon [Chronologie du futur lointain — Wikipédia](w:Chronologie_du_futur_loin
 
 Accessoirement, l'énergie se conserve "par definition"[[1]](#IiMfr) , donc il ne peut exister aucun processus qui produise de l'énergie indéfiniment.
 
-[Dites NON au mouvement perpétuel - Pourquoi Comment Combien](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[Dites NON au mouvement perpétuel - Pourquoi Comment Combien](/2012/05/27/dites-non-au-mouvement-perpetuel/)
 
 Notes de bas de page
 

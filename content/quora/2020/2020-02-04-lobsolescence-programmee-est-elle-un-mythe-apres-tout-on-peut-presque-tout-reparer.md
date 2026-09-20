@@ -38,4 +38,4 @@ Bref, j'attends avec impatience la première condamnation au titre de la loi fra
 
 Notes de bas de page
 
-[[1]](#cite-eqsPi)[L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/01/lobsolescence-est-elle-programmee-2/)
+[[1]](#cite-eqsPi)[L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](/2013/05/01/lobsolescence-est-elle-programmee-2/)

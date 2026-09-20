@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Je pense que vous faites référence au [Principe holographique](w:), mais ce n'est pas une théorie, ni même une hypothèse mais juste une "conjecture" . A peine plus qu'une idée donc.
 
-Ce qu'il y a, c'est que cette idée aide pas mal dans certains domaines, notamment l'entropie des trous noirs. Petite introduction à ce sujet ici : [Selon Newton, l'univers serait discret - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+Ce qu'il y a, c'est que cette idée aide pas mal dans certains domaines, notamment l'entropie des trous noirs. Petite introduction à ce sujet ici : [Selon Newton, l'univers serait discret - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)
 
 Plus qu'une réduction des dimensions spatiales, l'idée est plutôt qu'à toute petite échelle il pourrait ne pas y avoir de différence entre des volumes, des surfaces ou des longueurs…
 

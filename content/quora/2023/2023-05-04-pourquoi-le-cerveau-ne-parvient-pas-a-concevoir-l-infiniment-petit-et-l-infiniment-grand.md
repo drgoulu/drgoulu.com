@@ -32,6 +32,6 @@ Et si on divise le rayon de Hubble par la longueur de Planck, on obtient 1,3056e
 
 Le voilà votre "infiniment grand" : un nombre de 174 chiffres. Ya rien de plus grand dans la réalité.
 
-Mais c'est un nombre ridiculement petit par rapport à ce que le cerveau des matheux est capable de concevoir, et même d'utiliser. Le fameux [Nombre de Graham](w:)est incroyablement plus grand que ça, et il est utile dans une démonstration de maths ([Très très très grands nombres - Pourquoi Comment Combien](https://www.drgoulu.com/2008/11/04/tres-tres-tres-grands-nombres/#.ZFPj-XaiGCo))
+Mais c'est un nombre ridiculement petit par rapport à ce que le cerveau des matheux est capable de concevoir, et même d'utiliser. Le fameux [Nombre de Graham](w:)est incroyablement plus grand que ça, et il est utile dans une démonstration de maths ([Très très très grands nombres - Pourquoi Comment Combien](/2008/11/04/tres-tres-tres-grands-nombres/#.ZFPj-XaiGCo))
 
 Il faut bien réaliser que notre cerveau est capable de concevoir des tas de trucs qui n'existent pas : néant, fantômes, infini, tous ces trucs sont des effets secondaires, voire pervers du fait que sa fonction principale est d'analyser le réel.

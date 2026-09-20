@@ -21,8 +21,8 @@ Comme le montre très bien la vidéo ci-dessus, être capable de planifier des a
 
 Pour ma part je suis convaincu que la conscience est un "effet de bord" de l'intelligence. Pour planifier à long terme, le cerveau doit être capable de se "simuler lui-même" pour qu'on puisse se projeter dans le temps:
 
-> Si Urgh attaque le mammouth à droite, il va fuir à gauche dans le marais et s'embourber et là Urgh poura le tuer facilement . Mais si il charge, alors Urgh va courir jusqu'au gros arbre et monter dessus.[https://www.drgoulu.com/2009/06/27/neurologie-du-temps/](https://www.drgoulu.com/2009/06/27/neurologie-du-temps/)Mais… qui sont ces deux Urghs ? Mais bien sur ce sont des copies de Urgh dans les univers parallèles d'Everett, Urgh est con…
+> Si Urgh attaque le mammouth à droite, il va fuir à gauche dans le marais et s'embourber et là Urgh poura le tuer facilement . Mais si il charge, alors Urgh va courir jusqu'au gros arbre et monter dessus.[https://www.drgoulu.com/2009/06/27/neurologie-du-temps/](/2009/06/27/neurologie-du-temps/)Mais… qui sont ces deux Urghs ? Mais bien sur ce sont des copies de Urgh dans les univers parallèles d'Everett, Urgh est con…
 
 Mais rentré au camp, il s'est dit qu'annonce sa découverte en avouant qu'il était con ferait tache sur sa réputation de scient, alors il leur a dit qu'il était con+scient.
 
-[Neurologie du Temps - Pourquoi Comment Combien](https://www.drgoulu.com/2009/06/27/neurologie-du-temps/)
+[Neurologie du Temps - Pourquoi Comment Combien](/2009/06/27/neurologie-du-temps/)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Mais justement ! C'est justement le fait que des expériences futures correspondent à la théorie qui la renforcent considérablement. Ou qu'elle est réfutée si ses prédictions se révèlent fausses.
 
-[https://drgoulu.com/2008/08/23/s...](https://drgoulu.com/2008/08/23/suites-courbes-et-theories/)
+[https://drgoulu.com/2008/08/23/s...](/2008/08/23/suites-courbes-et-theories/)

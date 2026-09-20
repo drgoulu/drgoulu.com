@@ -17,7 +17,7 @@ L'eau distillée ou déminéralisée n'en contient plus que quelques milligramme
 
 Même ainsi, l'eau "[ultrapure](w:en:Ultrapure_water)", contient encore quelques microgrammes de contaminants par litre, soit des "parts par milliard" ou ppb en anglais. La plupart est de la silice, matière typique des récipients … En gros si vous brûlez de l'hydrogène pur dans de l'oxygène pur, vous allez obtenir de la vapeur d'eau pure. Vous la condensez dans une éprouvette, hop ! elle est contaminée…
 
-[https://www.drgoulu.com/2008/03/...](https://www.drgoulu.com/2008/03/09/quelles-sont-les-chances/)
+[https://www.drgoulu.com/2008/03/...](/2008/03/09/quelles-sont-les-chances/)
 
 Notes de bas de page
 

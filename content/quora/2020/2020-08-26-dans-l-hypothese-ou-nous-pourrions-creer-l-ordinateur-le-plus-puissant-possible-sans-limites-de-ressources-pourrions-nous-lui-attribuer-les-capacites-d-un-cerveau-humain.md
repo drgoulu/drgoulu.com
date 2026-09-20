@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 C'est déjà le cas. C'est le soft qui ne suit pas encore …
 
-[Combien de processeurs pour un cerveau ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/03/11/combien-de-processeurs-pour-un-cerveau/#.X0a_UciFqCo)
+[Combien de processeurs pour un cerveau ? - Pourquoi Comment Combien](/2013/03/11/combien-de-processeurs-pour-un-cerveau/#.X0a_UciFqCo)

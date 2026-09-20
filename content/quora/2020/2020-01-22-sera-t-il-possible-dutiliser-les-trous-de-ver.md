@@ -33,4 +33,4 @@ Parce que s’ils existaient, alors là ce serait vachement mega coooooool. On e
 
 Et le top du top, c'est que [Fredocaster](https://fr.quora.com/profile/Fredocaster) me devrait une bouffe… Donc si vous voyez un trou de ver, faites moi signe, je vous offre volontiers un café !
 
-[Comment construire une machine à explorer le temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)
+[Comment construire une machine à explorer le temps ? - Pourquoi Comment Combien](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)

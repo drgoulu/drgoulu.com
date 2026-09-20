@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Avec d'énormes installations et beaucoup d'energie on est capables de transformer quelques atomes en autres éléments proches dans le tableau périodique
 
-[Comment transformer le plomb en or ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/03/15/comment-transformer-le-plomb-en-or/)
+[Comment transformer le plomb en or ? - Pourquoi Comment Combien](/2013/03/15/comment-transformer-le-plomb-en-or/)
 
 Pour l'hydrogène en or, il n'y a pas mieux qu'une supernova, ou encore mieux : une collision d'étoiles a neutrons.

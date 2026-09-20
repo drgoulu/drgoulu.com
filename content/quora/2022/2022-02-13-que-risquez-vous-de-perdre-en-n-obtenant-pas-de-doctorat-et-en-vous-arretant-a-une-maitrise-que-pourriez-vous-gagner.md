@@ -21,4 +21,4 @@ Mais ensuite on a un indéniable avantage pour les problèmes difficiles. Un jou
 
 Notes de bas de page
 
-[[1]](#cite-fpUtu)[L'importance de la stupidité dans la recherche scientifique - Pourquoi Comment Combien](https://www.drgoulu.com/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/)
+[[1]](#cite-fpUtu)[L'importance de la stupidité dans la recherche scientifique - Pourquoi Comment Combien](/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/)

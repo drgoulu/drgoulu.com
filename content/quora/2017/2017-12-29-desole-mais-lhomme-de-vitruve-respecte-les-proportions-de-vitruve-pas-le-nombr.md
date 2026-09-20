@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Désolé mais l’homme de Vitruve respecte les proportions de Vitruve, pas le nombre d’or, et les nautiles ont une spirale logarithmique de coefficient très différent du nombre d’or etc.
 
-En réalité il n’y a aucun phénomène naturel qui suive la suite de Fibonacci, c’est un effet secondaire d’une optimisation. voir [Nombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/#.WkYPQ2jT6Co)
+En réalité il n’y a aucun phénomène naturel qui suive la suite de Fibonacci, c’est un effet secondaire d’une optimisation. voir [Nombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/#.WkYPQ2jT6Co)

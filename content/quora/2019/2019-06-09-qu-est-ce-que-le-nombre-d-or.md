@@ -27,4 +27,4 @@ L'angle d'or lui a une réalité, mais ce n'est qu'une conséquence d'une optimi
 
 Bref le [Nombre d'or](w:) est principalement un mythe métaphysique.
 
-[N ombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[N ombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/)

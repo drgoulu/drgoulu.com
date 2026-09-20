@@ -42,4 +42,4 @@ Et maintenant regardez la même chose avec un capteur sensible à la raie [H-α]
 
 non seulement c'est plus joli, mais surtout vous obtenez des informations de beaucoup plus grande valeur d'un point de vue astrophysique, en l'occurrence sur la composition chimique de la [Nébuleuse de la Bulle de savon](w:)
 
-[https://www.drgoulu.com/2009/07/...](https://www.drgoulu.com/2009/07/28/bulles-et-couleurs-dans-lespace/)
+[https://www.drgoulu.com/2009/07/...](/2009/07/28/bulles-et-couleurs-dans-lespace/)

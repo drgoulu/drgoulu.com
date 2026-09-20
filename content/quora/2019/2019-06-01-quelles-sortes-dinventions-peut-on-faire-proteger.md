@@ -29,4 +29,4 @@ Toutes, pour autant qu'elles répondent à la définition d'[Invention](w:Invent
 
 A noter qu'il n'est pas nécessaire que l'invention fonctionne ! Vous pouvez parfaitement breveter quelque chose qui n'a jamais été réalisé ni démontré.
 
-[Combien pour ce brevet ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/08/combien-pour-ce-brevet/)
+[Combien pour ce brevet ? - Pourquoi Comment Combien](/2009/03/08/combien-pour-ce-brevet/)

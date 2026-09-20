@@ -25,7 +25,7 @@ Non et non.
 
 D'abord, les sondes Voyager ne sont pas sorties du système solaire. Elles sont à un jour lumière seulement[[1]](#OIoYr) , même pas entrées dans le Nuage de Oort.
 
-[https://www.drgoulu.com/2013/09/...](https://www.drgoulu.com/2013/09/18/non-voyager-1-na-pas-quitte-le-systeme-solaire/)
+[https://www.drgoulu.com/2013/09/...](/2013/09/18/non-voyager-1-na-pas-quitte-le-systeme-solaire/)
 
 Ensuite, les sondes Pioneer 10 et 11 sont presque aussi loin
 

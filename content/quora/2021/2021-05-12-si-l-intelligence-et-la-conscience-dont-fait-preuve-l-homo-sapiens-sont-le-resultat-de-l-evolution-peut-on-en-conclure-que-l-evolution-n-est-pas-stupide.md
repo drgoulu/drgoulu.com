@@ -34,4 +34,4 @@ Robert Beverley MacKenzie, un opposant au darwinisme, avait déjà en 1868 une a
 
 Et il s'est avéré qu'il avait parfaitement raison. C'est exactement ça.
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)
+[https://www.drgoulu.com/2009/03/...](/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)

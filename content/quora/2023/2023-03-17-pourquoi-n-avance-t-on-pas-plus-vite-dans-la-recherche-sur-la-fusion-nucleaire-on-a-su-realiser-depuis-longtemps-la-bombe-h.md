@@ -27,4 +27,4 @@ Donc on avance très vite dans la recherche sur la fusion nucléaire : depuis 50
 
 Je suis persuadé qu'on y arrivera, mais est-ce que l'électricité ainsi produite sera compétitive d'un point de vue économique ? Chaque fois que je regarde le réacteur à fusion naturel autour duquel on tourne et vers lequel on installe de plus en plus de simples capteurs photoélectriques, j'ai de plus en plus de doutes…
 
-[https://www.drgoulu.com/2005/12/...](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/#.ZBR9rHbMKCp)
+[https://www.drgoulu.com/2005/12/...](/2005/12/11/la-fusion-thermonucleaire/#.ZBR9rHbMKCp)

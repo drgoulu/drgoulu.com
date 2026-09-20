@@ -23,4 +23,4 @@ Je n'ai pas la réponse à ces questions parce que je suis [ignostique avec un i
 
 Notes de bas de page
 
-[[1]](#cite-gHbhB)[La science du football - Pourquoi Comment Combien](https://www.drgoulu.com/2008/05/09/la-science-du-football)
+[[1]](#cite-gHbhB)[La science du football - Pourquoi Comment Combien](/2008/05/09/la-science-du-football/)

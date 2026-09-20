@@ -15,4 +15,4 @@ ACTG ? L'ADN est codé en base 4.
 
 Les [Shadoks](https://www.dcode.fr/numeration-shadok) aussi
 
-[https://www.drgoulu.com/2011/09/...](https://www.drgoulu.com/2011/09/25/comment-comptent-les-extraterrestres/)
+[https://www.drgoulu.com/2011/09/...](/2011/09/25/comment-comptent-les-extraterrestres/)

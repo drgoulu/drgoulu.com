@@ -12,6 +12,6 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Combien-sont-et-comment-se-produisent-les-pertes-d-%C3%A9nergie-des-lignes-%C3%A9lectriques-%C3%A0-haute-tension-Quel-peut-%C3%AAtre-typiquement-le-dV-sur-par-exemple-un-m%C3%A8tre-ou-un-kilom%C3%A8tre-d-une-ligne/answer/Dr-Goulu)*
 
-Sur les lignes à très haute tension, la résistance électrique peut être aussi faible que [0.01 Ohm/km](https://www.drgoulu.com/2010/03/19/0-01-ohmkm/)!
+Sur les lignes à très haute tension, la résistance électrique peut être aussi faible que [0.01 Ohm/km](/2010/03/19/0-01-ohmkm/)!
 
 Les pertes sont beaucoup plus importantes en moyenne et basse tension, et dans les transformateurs.

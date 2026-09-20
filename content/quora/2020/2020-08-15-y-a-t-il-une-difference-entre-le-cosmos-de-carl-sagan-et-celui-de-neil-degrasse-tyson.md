@@ -25,6 +25,6 @@ Neil pourrait être le fils de Carl, et en une génération d'astrophysiciens il
 
 Neil peut montrer dans ses émissions des images dont Carl pouvait tout juste rêver, et parler de théories maintenant vérifiées comme les ondes gravitationnelles et les trous noirs.
 
-Notamment, on a "gagné" plusieurs [puissances de dix](https://www.drgoulu.com/2008/05/16/les-puissances-de-dix/#.Xze8g-iFqCo) dans la compréhension de l'Univers, à la fois vers le "grand" et vers le "petit".
+Notamment, on a "gagné" plusieurs [puissances de dix](/2008/05/16/les-puissances-de-dix/#.Xze8g-iFqCo) dans la compréhension de l'Univers, à la fois vers le "grand" et vers le "petit".
 
 Mais fondamentalement, ils vulgarisent à peu près les mêmes connaissances car les progrès en astrophysique théorique sont encore difficilement vulgarisables.

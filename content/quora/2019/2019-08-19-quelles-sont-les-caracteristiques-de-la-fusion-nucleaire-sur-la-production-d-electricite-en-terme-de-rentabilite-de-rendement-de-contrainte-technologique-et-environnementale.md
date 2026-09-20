@@ -32,4 +32,4 @@ Ce qu'on sait , c'est que
 
 En bref on a AUCUNE idée de si la fusion contrôlée sera commercialement intéressante, ni quand. Par contre on sait déjà capter l'énergie du superbe réacteur à fusion qui fonctionne de manière continue au dessus de nos têtes avec des panneaux photovoltaïques, et même de bêtes miroirs qui chauffent du sel.
 
-[la fusion thermonucléaire - Pourquoi Comment Combien](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[la fusion thermonucléaire - Pourquoi Comment Combien](/2005/12/11/la-fusion-thermonucleaire/)

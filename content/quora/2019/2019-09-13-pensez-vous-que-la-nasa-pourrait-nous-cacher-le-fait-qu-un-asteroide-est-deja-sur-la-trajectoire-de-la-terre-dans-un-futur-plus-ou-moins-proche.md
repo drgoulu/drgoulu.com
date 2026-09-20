@@ -15,4 +15,4 @@ S'il n'y avait que la NASA, peut-être, mais il faudrait aussi que des dizaines 
 
 Donc non.
 
-[Risques météoritiques - Pourquoi Comment Combien](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/)
+[Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)

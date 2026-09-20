@@ -44,6 +44,6 @@ Note* : L'exemple donné sur la page [Méthode de Coombs — Wikipédia](w:Méth
 
 Notes de bas de page
 
-[[1]](#cite-ibhqg)[Initiatives populaires - Pourquoi Comment Combien](https://www.drgoulu.com/2009/12/13/initiatives-populaires/)
+[[1]](#cite-ibhqg)[Initiatives populaires - Pourquoi Comment Combien](/2009/12/13/initiatives-populaires/)
 
-[[2]](#cite-Lzsqy)[Unités et classements - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/21/unites-et-classements/)
+[[2]](#cite-Lzsqy)[Unités et classements - Pourquoi Comment Combien](/2009/05/21/unites-et-classements/)

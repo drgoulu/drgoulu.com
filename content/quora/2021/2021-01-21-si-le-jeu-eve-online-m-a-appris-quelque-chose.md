@@ -19,4 +19,4 @@ La "conquête spatiale" est quelque chose de très différent de la colonisation
 
 ("Docteur Goulu" dans Eve, explo, indus, pacifiste)
 
-[EVE et les exoplanètes - Pourquoi Comment Combien](https://www.drgoulu.com/2017/07/12/eve-et-les-exoplanetes/)
+[EVE et les exoplanètes - Pourquoi Comment Combien](/2017/07/12/eve-et-les-exoplanetes/)

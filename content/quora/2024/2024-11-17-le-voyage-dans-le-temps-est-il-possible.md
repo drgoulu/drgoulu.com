@@ -24,7 +24,7 @@ C'est non seulement possible, mais difficile de ne pas voyager vers le futur à 
 
 En utilisant la relativité, on peut voyager "plus vite" vers le futur, voir par exemple
 
-[https://drgoulu.com/2004/08/09/a...](https://drgoulu.com/2004/08/09/acceleration/)
+[https://drgoulu.com/2004/08/09/a...](/2004/08/09/acceleration/)
 
 Vers le passé, c'est beaucoup plus compliqué mais pas théoriquement exclu. En fait certaines solutions de l'équation d'Einstein comme l'[Univers de Gödel](w:)permettent les [Courbe fermée de type temps](w:).
 

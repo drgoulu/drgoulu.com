@@ -32,4 +32,4 @@ Sur cette page je vois que Tesla produisait des rayons X omnidirectionnels qui e
 
 Ou alors il exagérait un peu ses résultats, mais si ce n’est pas le cas on comprend peut-être qu’on ne veut pas encourager “quiconque” à reproduire des expériences pareilles aujourd’hui …
 
-[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](/2012/08/19/nikola-tesla-genie-mais-connu/)

@@ -29,7 +29,7 @@ Et l'extrême gauche a aussi une forme d'(inter)nationalisme par l'appartenance 
 
 Bref, passer de l'un à l'autre n'est pas forcément une plus grande distance que de passer de républicain à socialiste, par exemple.
 
-[https://drgoulu.com/2017/05/14/l...](https://drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://drgoulu.com/2017/05/14/l...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 Notes de bas de page
 

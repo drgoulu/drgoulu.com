@@ -26,6 +26,6 @@ Dans Pour La Science no 425, Alain Geldron de l’[ADEME](http://ademe.fr/)confe
 
 > Ces exemples (ampoules, bas nylons…) sont toutefois anciens et l’obsolescence programmée ne semble pas être la règle aujourd’hui. De nombreux témoignages d’utilisateurs font peser de sérieux soupçons sur quelques produits, telles des imprimantes qui tombent systématiquement en panne après un certain nombre d’impressions, mais ces cas restent rares et **aucune stratégie des industriels pour limiter la durée de vie des produits n’a pu être prouvée.**
 
-Lisez [L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/01/lobsolescence-est-elle-programmee-2/#.Wr4TKp86_Z8) svp et si vous trouvez des références sérieuses, je suis tout prêt à changer d'avis.
+Lisez [L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](/2013/05/01/lobsolescence-est-elle-programmee-2/#.Wr4TKp86_Z8) svp et si vous trouvez des références sérieuses, je suis tout prêt à changer d'avis.
 
 Pour vos frais bancaires, désolé, étant suisse je n'ai jamais compris votre système. Mais apparemment certains de vos compatriotes ont très bien compris comment profiter de la concurrence…

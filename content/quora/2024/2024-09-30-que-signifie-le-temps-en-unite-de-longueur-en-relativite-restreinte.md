@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 C'est une longueur imaginaire au sens mathématique.
 
-[https://drgoulu.com/2007/02/07/l...](https://drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
+[https://drgoulu.com/2007/02/07/l...](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
 
 La "vitesse de la lumière" c est une sorte d' "équerre du temps" : dans n'importe quel repère elle lie la longueur au temps, et vice-versa.

@@ -19,4 +19,4 @@ Ben je vais vous surprendre : les robots de l'époque étaient plus nuls que ceu
 
 J'irai même plus loin : c'est pour ça qu'on a du envoyer des hommes, et c'est aussi pour ça qu'on n'en envoie plus, ni sur la Lune, ni sur Mars. Ça coûte affreusement cher pour faire la même chose (sur le plan scientifique) que ce que font les robots actuels.
 
-[https://drgoulu.com/2009/07/18/p...](https://drgoulu.com/2009/07/18/pour-quoi-retourner-sur-la-lune/)
+[https://drgoulu.com/2009/07/18/p...](/2009/07/18/pour-quoi-retourner-sur-la-lune/)

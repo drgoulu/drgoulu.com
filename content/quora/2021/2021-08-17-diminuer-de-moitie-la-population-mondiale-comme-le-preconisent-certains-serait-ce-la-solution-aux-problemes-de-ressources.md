@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Si ça n'est pas une partie de la solution, alors ce sera la conséquence.
 
-[https://www.drgoulu.com/2013/05/...](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
+[https://www.drgoulu.com/2013/05/...](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)

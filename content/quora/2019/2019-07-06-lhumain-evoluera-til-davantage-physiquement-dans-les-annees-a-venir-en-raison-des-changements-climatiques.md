@@ -21,7 +21,7 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/L-humain-%C3%A9voluera-t-il-davantage-physiquement-dans-les-ann%C3%A9es-%C3%A0-venir-en-raison-des-changements-climatiques/answer/Dr-Goulu)*
 
-L'évolution ne prend pas des années, mais des centaines de générations. Voir [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/).
+L'évolution ne prend pas des années, mais des centaines de générations. Voir [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/).
 
 Et il faut un mécanisme de sélection naturelle, par exemple que ceux qui supporterait mieux la chaleur aient plus d'enfants.
 

@@ -28,4 +28,4 @@ où F est la force axiale générée, ρ la densité de l’air, S la surface ba
 
 $F=\sqrt[3]{1.4\rho S P^2}$
 
-[Comment vole un hélicoptère - Pourquoi Comment Combien](https://www.drgoulu.com/2009/07/11/comment-vole-un-helicoptere/)
+[Comment vole un hélicoptère - Pourquoi Comment Combien](/2009/07/11/comment-vole-un-helicoptere/)

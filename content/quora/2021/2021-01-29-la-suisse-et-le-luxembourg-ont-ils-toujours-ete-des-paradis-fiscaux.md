@@ -33,6 +33,6 @@ Bref, si vous trouvez que la Suisse ressemble à un paradis fiscal, c'est peut �
 
 Après une baisse des actifs étrangers sous gestion en Suisse due un peu à la panique, beaucoup de clients ont compris que, même déclaré, leur argent serait mieux géré en Suisse grâce à la stabilité du franc et aux compétences des banquiers suisses.
 
-[Combien vaut 1 franc ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/03/combien-vaut-1-franc/)
+[Combien vaut 1 franc ? - Pourquoi Comment Combien](/2009/04/03/combien-vaut-1-franc/)
 
 [Secret bancaire en Suisse — Wikipédia](w:Secret_bancaire_en_Suisse)

@@ -19,4 +19,4 @@ Et Dennett ponctue sa lecture de deux profonds "exactly… exactly!". En effet D
 
 Franchement, la compréhension de ceci nécessite un réel effort, et pas tout le monde n'est prêt à faire cet effort.
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)
+[https://www.drgoulu.com/2009/03/...](/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)

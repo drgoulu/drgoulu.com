@@ -21,6 +21,6 @@ il apparaît avec de la matière ultra froide, plus froide (2.17K) que le rayonn
 
 (source :
 
-[https://www.drgoulu.com/2007/05/...](https://www.drgoulu.com/2007/05/09/plus-froid-que-lespace/)
+[https://www.drgoulu.com/2007/05/...](/2007/05/09/plus-froid-que-lespace/)
 
 )

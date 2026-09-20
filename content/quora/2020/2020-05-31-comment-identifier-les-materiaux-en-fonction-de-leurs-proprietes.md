@@ -27,4 +27,4 @@ On y montre que les caractéristiques habituelles des matériaux (densité, modu
 
 Le livre va plus loin en normalisant les matériaux par rapport à un matériau de référence, ce qui permet de comparer facilement les matériaux entre eux.
 
-[Trop-plein de Juin - Pourquoi Comment Combien](https://www.drgoulu.com/2014/06/29/trop-plein-de-juin-2/)
+[Trop-plein de Juin - Pourquoi Comment Combien](/2014/06/29/trop-plein-de-juin-2/)

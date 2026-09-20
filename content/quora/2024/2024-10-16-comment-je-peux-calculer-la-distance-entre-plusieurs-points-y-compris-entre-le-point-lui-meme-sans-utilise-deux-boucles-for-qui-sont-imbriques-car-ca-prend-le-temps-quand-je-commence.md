@@ -17,7 +17,7 @@ Parce que pour trouver par exemple le chemin le plus court entre deux points, on
 
 Si vous essayez plutôt de simuler un système gravitationnel, avec des points qui bougent etc., alors lisez ça, il y a plein de liens python et autres :
 
-[https://drgoulu.com/2008/11/16/l...](https://drgoulu.com/2008/11/16/le-probleme-a-n-corps/)
+[https://drgoulu.com/2008/11/16/l...](/2008/11/16/le-probleme-a-n-corps/)
 
 Tous ces algorithmes sont O(n.log n) au lieu de O(n^2) comme les deux boucles imbriquées.
 

@@ -28,4 +28,4 @@ Note *: ce n'est pas tout à fait vrai, il existe des études qui ont montré de
 
 Ce n'est pas nouveau, c'est déjà arrivé pour la 4G. Et pour la 3G. Et pour les émetteurs TV, et radio avant ça. Et pour les lignes à 50Hz. Et les radars. Et les communications très basse fréquence. Etc.
 
-[Pourquoi je n'ai toujours pas peur de mon téléphone mobile - Pourquoi Comment Combien](https://www.drgoulu.com/2011/06/03/pourquoi-je-nai-toujours-pas-peur/)
+[Pourquoi je n'ai toujours pas peur de mon téléphone mobile - Pourquoi Comment Combien](/2011/06/03/pourquoi-je-nai-toujours-pas-peur/)

@@ -32,4 +32,4 @@ Les premiers réacteurs censés produire de l'électricité sont les [DEMO,](w:D
 
 Il faut bien réaliser qu'on a aucune idée du coût de production du kWh par fusion. Le premier kWh qu'on va produire comme ça aura coûté les dizaines de milliards injectés dans ces recherches depuis les années 1960. Et l'exemple du nucléaire "fission" montre que les coûts peuvent varier du simple un décuple suivant ce qu'on y inclut …
 
-Personnellement, je ne compte plus sur [la fusion thermonucléaire](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/). Ou du moins je ne la verrai pas, à moins de regarder le soleil.
+Personnellement, je ne compte plus sur [la fusion thermonucléaire](/2005/12/11/la-fusion-thermonucleaire/). Ou du moins je ne la verrai pas, à moins de regarder le soleil.

@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 C'est un parti conservateur.
 
-[https://drgoulu.com/2017/05/14/l...](https://drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://drgoulu.com/2017/05/14/l...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 D'après les données tirées des votes à l'Assemblée Nationale, il est plutôt à droite, mais moins que LR.
 

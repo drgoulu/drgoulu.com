@@ -17,4 +17,4 @@ La symétrie correspond à une inversion de la profondeur, la direction perpendi
 
 Le miroir vous "retourne comme un gant" : un gant droit retourné devient un gant gauche.
 
-[MIROIR | ЯIOЯIM - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/04/miroir/)
+[MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/)

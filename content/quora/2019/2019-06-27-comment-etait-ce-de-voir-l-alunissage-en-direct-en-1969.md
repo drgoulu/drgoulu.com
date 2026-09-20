@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Fantastique. J'avais 5 ans mais ça m'a marqué à vie.
 
-Extrait de [Pourquoi je kiffe la science - Pourquoi Comment Combien](https://www.drgoulu.com/2013/04/28/pourquoi-je-kiffe-la-science/) :
+Extrait de [Pourquoi je kiffe la science - Pourquoi Comment Combien](/2013/04/28/pourquoi-je-kiffe-la-science/) :
 
 > Sinon, quand j’avais entre 5 et 10 ans, il y a eu six événements extraordinaires : on est allés six fois [sur la Lune](https://www.drgoulu.com/tag/lune/) ! Vous les jeunes vous ne pouvez pas imaginer ce que ça représentait. Quand je dis “on est allés sur la Lune”, je veux dire tout le monde, toute l’humanité et moi futur astronaute y compris. A cette époque, à part pour les hippies, tout était clair : la science et la technique sont toutes puissantes. Si on veut, on peut. No limits. Vers l’infini et au delà !
 >

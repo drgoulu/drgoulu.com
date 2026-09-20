@@ -47,4 +47,4 @@ Mais peut-être que non, et dans ce cas il va vous aider pour la suite, parce qu
 
 Voilà comment ça s'est passé pour moi, pas pour une théorie, juste une petite curiosité mathématique :
 
-[https://www.drgoulu.com/2011/04/...](https://www.drgoulu.com/2011/04/10/le-fosse-de-sloane/)
+[https://www.drgoulu.com/2011/04/...](/2011/04/10/le-fosse-de-sloane/)

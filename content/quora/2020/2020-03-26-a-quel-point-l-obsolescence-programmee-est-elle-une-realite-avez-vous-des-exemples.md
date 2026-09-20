@@ -34,6 +34,6 @@ En ce qui concerne le ralentissement des iPhone par Apple par exemple, il est cl
 
 Dans l'ensemble, et après recherche, je suis convaincu que l'obsolescence programmée est en grande partie un mythe.
 
-[L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/01/lobsolescence-est-elle-programmee-2/)
+[L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](/2013/05/01/lobsolescence-est-elle-programmee-2/)
 
 En m'incendiant, les commentateurs sont priés de me fournir d'autres références que celles de "prêt à jeter" svp.

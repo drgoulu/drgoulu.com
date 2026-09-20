@@ -28,4 +28,4 @@ A la [NASA, on préfère la théorie](https://www.grc.nasa.gov/WWW/K-12/airplane
 
 En 2016, les chercheurs suédois Hoffman, Jansson et Johnson ont proposé une nouvelle théorie du vol (a “New Theory of Flight” J. Math. Fluid Mech. (2016) 18: 219. [doi:10.1007/s00021-015-0220-y](http://dx.doi.org/10.1007/s00021-015-0220-y)) qui propose que des microturbulences en 3D “attachent” la couche limite de l’air à l’aile.
 
-[Portance : pourquoi ça vole ? - Pourquoi Comment Combien](https://www.drgoulu.com/2012/03/11/portance-pourquoi-ca-vole/#.XLrsDeiiGCo)
+[Portance : pourquoi ça vole ? - Pourquoi Comment Combien](/2012/03/11/portance-pourquoi-ca-vole/#.XLrsDeiiGCo)

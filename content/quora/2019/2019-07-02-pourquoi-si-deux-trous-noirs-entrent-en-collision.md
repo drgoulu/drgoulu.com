@@ -19,4 +19,4 @@ Pour les vrais trous noirs [qui tournent (de Kerr)](w:Trou_noir_de_Kerr), c'est 
 
 Notes de bas de page
 
-[[1]](#cite-kiOtJ)[A combien tourne un trou noir ? - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[[1]](#cite-kiOtJ)[A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/)

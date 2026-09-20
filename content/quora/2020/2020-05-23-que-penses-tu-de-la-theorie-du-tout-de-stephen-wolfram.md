@@ -33,4 +33,4 @@ Il y a plusieurs problèmes :
 
 [Physicists Criticize Stephen Wolfram’s ‘Theory of Everything’](https://www.scientificamerican.com/article/physicists-criticize-stephen-wolframs-theory-of-everything/)
 
-Mon point de vue est toujours celui de [Suites, Courbes et Théories](https://www.drgoulu.com/2008/08/23/suites-courbes-et-theories/): si une théorie ne fait pas de prédiction testable, elle est aussi vraie que toutes les autres théories inutiles.
+Mon point de vue est toujours celui de [Suites, Courbes et Théories](/2008/08/23/suites-courbes-et-theories/): si une théorie ne fait pas de prédiction testable, elle est aussi vraie que toutes les autres théories inutiles.

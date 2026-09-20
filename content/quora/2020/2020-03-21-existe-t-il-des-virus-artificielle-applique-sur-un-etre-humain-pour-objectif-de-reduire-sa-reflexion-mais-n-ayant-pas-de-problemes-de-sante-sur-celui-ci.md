@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non. Il n'existe pas de virus (biologique) artificiel du tout. Il existe des parasites naturels qui modifient le comportement , par exemple [Toxoplasma gondii](w:)qui fait que les rats n'ont plus peu tes chats. Il semble que les humains infectés par la toxoplasmose prennent plus de risques…
 
-D'autres sont mentionnés dans [Quel trématode a infecté METI ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/28/quel-trematode-a-infecte-meti/)
+D'autres sont mentionnés dans [Quel trématode a infecté METI ? - Pourquoi Comment Combien](/2011/08/28/quel-trematode-a-infecte-meti/)

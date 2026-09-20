@@ -15,4 +15,4 @@ Oui, ou plus exactement pour l'instant on ne sait pas
 
 Bien que ce soit suspecté, on n'a pas encore démontré que pi est un [Nombre univers](w:), encore moins un [Nombre normal](w:).
 
-[Nombres Univers - Pourquoi Comment Combien](https://www.drgoulu.com/2010/06/04/nombres-univers/#.Xv4zBiiFqCo)
+[Nombres Univers - Pourquoi Comment Combien](/2010/06/04/nombres-univers/#.Xv4zBiiFqCo)

@@ -21,7 +21,7 @@ vers ça :
 
 ![](./images/qimg-8589a674948fc6b9a1c8d99c6c2d57bd.jpg)
 
-( [Acanthaspis Petax, CC et Wikipédia - Pourquoi Comment Combien](https://www.drgoulu.com/2013/01/26/acanthapis-petax-cc-et-wikipedia/)
+( [Acanthaspis Petax, CC et Wikipédia - Pourquoi Comment Combien](/2013/01/26/acanthapis-petax-cc-et-wikipedia/)
 
 ou vers ça :
 
@@ -46,4 +46,4 @@ Notes de bas de page
 
 [[1]](#cite-YpQnd)[Behold the Blobfish](https://www.smithsonianmag.com/science-nature/behold-the-blobfish-180956967/)
 
-[[2]](#cite-hkcBO)[Pourquoi on aime le joli, le sexy, le sucré et le drôle - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)
+[[2]](#cite-hkcBO)[Pourquoi on aime le joli, le sexy, le sucré et le drôle - Pourquoi Comment Combien](/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/)

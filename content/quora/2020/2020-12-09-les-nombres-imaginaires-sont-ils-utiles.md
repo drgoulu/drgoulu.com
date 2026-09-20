@@ -34,4 +34,4 @@ Notez le signe moins … Cependant on peut transformer le signe - en + pour reto
 
 $d=\sqrt{x^2+y^2+z^2 \textbf{+(c.i.t)}^2}$
 
-Et ça, ça signifie qu'en relativité, [Le temps est une 4ème dimension imaginaire](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/#.X9DofNgVOCo) au sens mathématique ! Le temps est "perpendiculaire" à l'espace, mais fondamentalement différent des dimensions spatiales.
+Et ça, ça signifie qu'en relativité, [Le temps est une 4ème dimension imaginaire](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/#.X9DofNgVOCo) au sens mathématique ! Le temps est "perpendiculaire" à l'espace, mais fondamentalement différent des dimensions spatiales.

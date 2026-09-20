@@ -29,7 +29,7 @@ Si vous voulez avoir tout internet sur votre clé USB ou microSD, il faudra trou
 
 Si vous pensez à la puissance de calcul, alors le cerveau humain est capable d'environ 1 exaFLOPS pour 1.5 kg et 20 watts de consommation.
 
-[https://www.drgoulu.com/2013/03/...](https://www.drgoulu.com/2013/03/11/combien-de-processeurs-pour-un-cerveau/#.Y7K5cnbMKCo)
+[https://www.drgoulu.com/2013/03/...](/2013/03/11/combien-de-processeurs-pour-un-cerveau/#.Y7K5cnbMKCo)
 
 Là on a pas mal de boulot, mais encore une fois : pourquoi faire ? On peut obtenir des exaFLOPS dans des super ordinateurs et transmettre les infos par réseau ou radio aux petits robots qui pourraient en avoir besoin …
 
@@ -37,7 +37,7 @@ Bref, dans 15 ans on en sera exactement là où vous (= le marché) voudra. Comb
 
 Techniquement,
 
-[https://www.drgoulu.com/2009/06/...](https://www.drgoulu.com/2009/06/11/il-y-a-plein-de-place-en-bas-2/#.Y7K71XbMKCo)
+[https://www.drgoulu.com/2009/06/...](/2009/06/11/il-y-a-plein-de-place-en-bas-2/#.Y7K71XbMKCo)
 
 Notes de bas de page
 

@@ -25,7 +25,7 @@ Les [koalas](w:Koala) sont super bien adaptés : ils sont les seuls à pouvoir s
 
 Ils ont réussi à s'adapter aux changements de la forêt australienne depuis 25 millions d'années au moins[[1]](#rfYUn), ne vous faites pas trop de souci pour eux. D'ailleurs le koala n'est pas en danger d'extinction, il est classé VUlnérable par l'UICN.
 
-Comme on le voit par exemple avec [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)chez les humains, l'évolution se remarque sur environ 1000 générations. 20000 ans pour les humains, 3000 ans pour les koalas.
+Comme on le voit par exemple avec [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/)chez les humains, l'évolution se remarque sur environ 1000 générations. 20000 ans pour les humains, 3000 ans pour les koalas.
 
 Tant que les changements de l'environnement sont plus lents que ça, les espèces s'adaptent. C'est quand les changements deviennent trop rapides que les choses se gâtent. Surtout pour celles qui ont des générations espacées…
 

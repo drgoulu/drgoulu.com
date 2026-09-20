@@ -23,4 +23,4 @@ Notes de bas de page
 
 [[1]](#cite-lVAXV)[Kaluza–Klein theory](w:en:Kaluza–Klein_theory)
 
-[[2]](#cite-LolhJ)[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/#.YFGrVp1sOCo)
+[[2]](#cite-LolhJ)[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/#.YFGrVp1sOCo)

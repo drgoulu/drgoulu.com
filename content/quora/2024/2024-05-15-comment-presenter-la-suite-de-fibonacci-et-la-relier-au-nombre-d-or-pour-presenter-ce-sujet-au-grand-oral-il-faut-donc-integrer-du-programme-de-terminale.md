@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Ce que vous pouvez faire pour vous distinguer des 1000 autres grand oraux sur le nombre d'or et Fibonacci, c'est dézinguer ces mythes. Ces trucs n'existent pas dans la nature.
 
-[https://drgoulu.com/2016/07/03/n...](https://drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[https://drgoulu.com/2016/07/03/n...](/2016/07/03/nombre-dor-et-abeilles/)
 
 Ce qui existe éventuellement c'est l'angle d'or qui est la solution du problème d' optimisation des feuilles d'un végétal.
 

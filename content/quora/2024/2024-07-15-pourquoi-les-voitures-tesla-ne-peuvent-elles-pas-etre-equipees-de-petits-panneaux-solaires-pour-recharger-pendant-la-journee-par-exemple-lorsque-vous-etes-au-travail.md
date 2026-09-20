@@ -17,7 +17,7 @@ Une batterie de Tesla 3 c'est 79kWh.une semaine de charge avec vos panneaux…
 
 Autre point pas abordé dans les autres réponses : la sécurité. Des cellules solaires efficaces, c'est du silicium coupant comme du verre. Un copain avait monté 1 m2 de panneaux sur la remorque d'un tricycle électrique, il s'est fait arrêter par la première voiture de police croisée. Véhicule pas homologué.
 
-[https://drgoulu.com/2009/03/05/l...](https://drgoulu.com/2009/03/05/la-voiture-electrique-ne-sera-pas-solaire/)
+[https://drgoulu.com/2009/03/05/l...](/2009/03/05/la-voiture-electrique-ne-sera-pas-solaire/)
 
 Notes de bas de page
 

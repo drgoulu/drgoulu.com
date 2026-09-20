@@ -19,4 +19,4 @@ Ca ne veut absolument pas dire qu'ils existent physiquement.
 
 Par contre, ce qui existe physiquement (les trous noirs et autres effets relativistes) sont bien décrits par les équations d'Einstein.
 
-[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)

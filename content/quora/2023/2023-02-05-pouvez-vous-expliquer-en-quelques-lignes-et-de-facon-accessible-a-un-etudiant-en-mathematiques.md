@@ -13,8 +13,8 @@ coverImage: ./images/quora.png
 
 La recherche des nombres acratopèges, les entiers ayant le moins de propriétés mathématiques :
 
-[https://www.drgoulu.com/2008/08/...](https://www.drgoulu.com/2008/08/24/nombres-acratopeges/#.Y9_lGnZsOCo)
+[https://www.drgoulu.com/2008/08/...](/2008/08/24/nombres-acratopeges/#.Y9_lGnZsOCo)
 
-[https://www.drgoulu.com/2009/04/...](https://www.drgoulu.com/2009/04/18/nombres-mineralises/#.Y9_lQnZsOCo)
+[https://www.drgoulu.com/2009/04/...](/2009/04/18/nombres-mineralises/#.Y9_lQnZsOCo)
 
-[https://www.drgoulu.com/2011/04/...](https://www.drgoulu.com/2011/04/10/le-fosse-de-sloane/#.Y9_l7nbMKCo)
+[https://www.drgoulu.com/2011/04/...](/2011/04/10/le-fosse-de-sloane/#.Y9_l7nbMKCo)

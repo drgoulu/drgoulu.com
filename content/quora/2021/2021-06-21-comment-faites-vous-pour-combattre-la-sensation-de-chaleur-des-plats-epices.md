@@ -29,4 +29,4 @@ C'est étonnant, mais l'ail excite de même les TRPA1 qui détectent le "trop fr
 
 Goûtez une fois un mélange ail+piment, c'est très étrange …
 
-[https://www.drgoulu.com/2010/08/...](https://www.drgoulu.com/2010/08/01/molecules-dete-et-divers/)
+[https://www.drgoulu.com/2010/08/...](/2010/08/01/molecules-dete-et-divers/)

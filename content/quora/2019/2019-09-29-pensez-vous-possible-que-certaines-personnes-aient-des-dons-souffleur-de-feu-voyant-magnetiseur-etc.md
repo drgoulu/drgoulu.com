@@ -15,4 +15,4 @@ Aucun n'a réussi à piquer un million de dollars à James Randi, donc non.
 
 [One Million Dollar Paranormal Challenge - Wikipedia](w:en:One_Million_Dollar_Paranormal_Challenge)
 
-Voyez absolument sa géniale [conférence au Ted](https://www.drgoulu.com/2010/04/25/james-randi-au-ted/)!
+Voyez absolument sa géniale [conférence au Ted](/2010/04/25/james-randi-au-ted/)!

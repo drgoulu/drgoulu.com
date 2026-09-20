@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ce n est pas un algorithme, c'est juste un test élémentaire.
 
-[https://www.drgoulu.com/2016/06/...](https://www.drgoulu.com/2016/06/26/la-premiere-boucle/#.YvFn6qS-g0E)
+[https://www.drgoulu.com/2016/06/...](/2016/06/26/la-premiere-boucle/#.YvFn6qS-g0E)

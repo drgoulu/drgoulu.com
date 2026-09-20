@@ -26,4 +26,4 @@ Je ne sais pas ce que vous appelez "illimitée" mais vu les équipements nécess
 
 La vraie question est là : quand ça marchera, est-ce que ça sera meilleur marché que l'énergie de fusion naturelle qu'on capte avec de bêtes panneaux solaires ?
 
-[https://www.drgoulu.com/2005/12/...](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/#.YtqFsqS-g0E)
+[https://www.drgoulu.com/2005/12/...](/2005/12/11/la-fusion-thermonucleaire/#.YtqFsqS-g0E)

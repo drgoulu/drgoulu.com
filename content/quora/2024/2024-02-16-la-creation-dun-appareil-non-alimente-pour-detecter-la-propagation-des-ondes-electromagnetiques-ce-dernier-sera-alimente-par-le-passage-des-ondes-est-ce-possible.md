@@ -27,4 +27,4 @@ Actuellement les "puces RFID" fonctionnent aussi en absorbant l'énergie d'une o
 
 Dans les deux cas il faut un émetteur puissant et ne pas en être trop loin car la puissance décroît comme le carré de la distance…
 
-[https://drgoulu.com/2012/08/19/n...](https://drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[https://drgoulu.com/2012/08/19/n...](/2012/08/19/nikola-tesla-genie-mais-connu/)

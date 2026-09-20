@@ -24,7 +24,7 @@ Non. Il ne faut absolument pas compter sur la fusion contrôlée pour nous sorti
 
 La fusion contrôlée est beaucoup plus difficile à réaliser que ce qu'on pensait, sinon ça fait des décennies qu'elle produirait.
 
-[https://www.drgoulu.com/2005/12/...](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[https://www.drgoulu.com/2005/12/...](/2005/12/11/la-fusion-thermonucleaire/)
 
 Si ça marche un jour, on a actuellement aucune idée du prix du kWh qui sera ainsi produit.
 

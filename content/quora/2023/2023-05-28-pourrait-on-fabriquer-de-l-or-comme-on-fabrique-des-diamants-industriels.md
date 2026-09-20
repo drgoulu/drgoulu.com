@@ -29,4 +29,4 @@ L'or est un élément. il faut des réactions nucléaires pour le produire. Dans
 
 Ca coûte beaucoup plus cher que de le miner, et c'est dangereusement radioactif.
 
-[https://www.drgoulu.com/2013/03/...](https://www.drgoulu.com/2013/03/15/comment-transformer-le-plomb-en-or/)
+[https://www.drgoulu.com/2013/03/...](/2013/03/15/comment-transformer-le-plomb-en-or/)

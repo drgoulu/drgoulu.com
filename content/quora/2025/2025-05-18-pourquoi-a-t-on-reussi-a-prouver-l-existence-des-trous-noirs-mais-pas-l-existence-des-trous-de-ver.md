@@ -15,7 +15,7 @@ Les trous noirs sont une simple conséquence d'une très grosse masse. Il n'y a 
 
 L'hypothèse des [Trous de ver](w:Trou_de_ver)est basée sur des solutions mathématiques de l'équation d'Einstein en y introduisant des masses négatives dont on a jamais vu le début d'une trace.
 
-[Solutions admissibles - Pourquoi Comment Combien](https://drgoulu.com/2016/09/11/solutions-admissibles/)
+[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)
 
 Notes de bas de page
 

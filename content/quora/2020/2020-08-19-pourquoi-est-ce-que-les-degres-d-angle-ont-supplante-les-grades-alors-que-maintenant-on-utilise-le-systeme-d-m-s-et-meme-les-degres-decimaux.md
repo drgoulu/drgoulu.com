@@ -21,4 +21,4 @@ De plus, à cause de l'irrationalité de [Tau](w:) (que certains s'obstinent à 
 
 Tout serait si simple si Tau était rationnel… A croire que cet Univers n'a pas été fait pour nous …
 
-[Histoire d'angles - Pourquoi Comment Combien](https://www.drgoulu.com/2010/01/16/histoire-dangles/)
+[Histoire d'angles - Pourquoi Comment Combien](/2010/01/16/histoire-dangles/)

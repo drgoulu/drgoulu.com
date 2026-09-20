@@ -23,6 +23,6 @@ coverImage: ./images/quora.png
 
 En plus je ne vous pas le problème éthique de créer des univers qui pourraient abriter la vie, mais bon…
 
-Les dimensions ça ne se crée pas comme ça, notre univers a le bon nombre de dimensions ([Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)) et on sait que les collisions de particules du CERN ou d'ailleurs ne font pas de petits ailleurs car l'énergie se conserve (ça a été mesuré, et ça infirme plutôt les théories des cordes qui postulent de petites dimensions repliées)
+Les dimensions ça ne se crée pas comme ça, notre univers a le bon nombre de dimensions ([Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](/2011/01/30/pourquoi-3-dimensions-1-temps/)) et on sait que les collisions de particules du CERN ou d'ailleurs ne font pas de petits ailleurs car l'énergie se conserve (ça a été mesuré, et ça infirme plutôt les théories des cordes qui postulent de petites dimensions repliées)
 
 Accessoirement, le CERN reproduit en tout petit des phénomènes qui se sont produits naturellement au début de l'univers, dans tout l'univers, quand il n'y avait pas de comité d'éthique, et tout s'est plutôt bien passé.

@@ -25,4 +25,4 @@ Contact. Ce film n'est habituellement pas associé au voyage dans le temps, mais
 
 En se déplaçant très loin en même temps,Jodie sort du [Cône de lumière](w:) de la Terre et évite ainsi tout paradoxe.
 
-[Les voyages temporels au cinéma - Pourquoi Comment Combien](https://www.drgoulu.com/2010/10/23/retours-vers-les-futurs/)
+[Les voyages temporels au cinéma - Pourquoi Comment Combien](/2010/10/23/retours-vers-les-futurs/)

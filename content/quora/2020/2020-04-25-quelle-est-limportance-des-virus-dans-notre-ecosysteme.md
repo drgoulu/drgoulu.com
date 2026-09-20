@@ -25,7 +25,7 @@ Fondamentale. Sans eux nous serions couverts d'une épaisse couche de bactéries
 
 Vous savez pourquoi vous pouvez vous baigner dans la mer sans risque de vous faire infecter alors qu'une mare d'eau stagnante est un nid de microbes ? Grâce aux virus. Il y en a un million par litre d'eau de mer.
 
-Lisez le livre [Planète de virus](https://www.drgoulu.com/2016/03/28/planete-de-virus/#.XqPuWGiiGCo) de Carl Zimmer. C'est un excellent bouquin de vulgarisation, passionnant. Deux extraits pour les antivax de passage ici:
+Lisez le livre [Planète de virus](/2016/03/28/planete-de-virus/#.XqPuWGiiGCo) de Carl Zimmer. C'est un excellent bouquin de vulgarisation, passionnant. Deux extraits pour les antivax de passage ici:
 
 > Ne sous-estimez jamais la créativité d’un virus qui peut transformer des lapins en [jackalopes](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=jackalope) et des [hommes en arbres](http://www.maxisciences.com/peau/l-039-effrayante-maladie-de-l-039-homme-arbre-dont-la-peau-se-change-en-039-039-ecorce-039-039_art34058.html)
 >

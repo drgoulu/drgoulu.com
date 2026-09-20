@@ -37,6 +37,6 @@ Pour rappel , les protons et les neutrons qui composent 99.999% de la masse d’
 
 Notes de bas de page
 
-[[1]](#cite-FMPih)[La densité des trous noirs - Pourquoi Comment Combien](https://www.drgoulu.com/2008/06/20/la-densite-des-trous-noirs/)
+[[1]](#cite-FMPih)[La densité des trous noirs - Pourquoi Comment Combien](/2008/06/20/la-densite-des-trous-noirs/)
 
-[[2]](#cite-YIgdC)[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[[2]](#cite-YIgdC)[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)

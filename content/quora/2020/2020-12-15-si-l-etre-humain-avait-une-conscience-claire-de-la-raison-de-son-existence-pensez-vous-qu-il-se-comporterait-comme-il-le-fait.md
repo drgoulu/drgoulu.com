@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Pour ma part je me comporte comme je le fais en ayant pleinement conscience que mon existence n'a aucune "raison." Des causes oui, un but non.
 
-[Pourquoi / Pour Quoi ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/01/04/pourquoi-pour-quoi/#.X9kH_NgVOCo)
+[Pourquoi / Pour Quoi ? - Pourquoi Comment Combien](/2009/01/04/pourquoi-pour-quoi/#.X9kH_NgVOCo)

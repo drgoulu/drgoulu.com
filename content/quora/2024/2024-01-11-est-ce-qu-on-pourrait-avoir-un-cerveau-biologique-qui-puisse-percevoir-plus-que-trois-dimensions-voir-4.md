@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Bien sur, ce n'est qu'une question d'entraînement. Vous arrivez bien à voir des mondes en 3 dimensions sur un écran qui en a 2. La projection de N à n dimensions est très générale.
 
-[https://www.drgoulu.com/2007/02/...](https://www.drgoulu.com/2007/02/06/voir-en-4-dimensions/)
+[https://www.drgoulu.com/2007/02/...](/2007/02/06/voir-en-4-dimensions/)
 
 C'est un peu plus difficile avec les dimensions non euclidiennes comme le temps, mais là encore, on peut y arriver

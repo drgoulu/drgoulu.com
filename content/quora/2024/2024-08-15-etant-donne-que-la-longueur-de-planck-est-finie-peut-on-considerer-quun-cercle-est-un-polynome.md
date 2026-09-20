@@ -21,4 +21,4 @@ Et il est très possible que ce soit le cas à l'échelle de Planck.
 
 Jolie petite introduction à ce sujet ici :
 
-[https://drgoulu.com/2011/08/13/s...](https://drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[https://drgoulu.com/2011/08/13/s...](/2011/08/13/selon-newton-lunivers-serait-digital/)

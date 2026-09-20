@@ -32,4 +32,4 @@ Ce que nous n'avons plus c'est :
 - Des ingénieurs prêts à signer des documents "go" alors qu'ils savent que le risque des missions Apollo était très élevé. (sauf peut-être des chinois)
 - Des astronautes militaires prêts à prendre un tel risque (peut être des chinois…)
 
-[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/07/18/pour-quoi-retourner-sur-la-lune/)
+[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](/2009/07/18/pour-quoi-retourner-sur-la-lune/)

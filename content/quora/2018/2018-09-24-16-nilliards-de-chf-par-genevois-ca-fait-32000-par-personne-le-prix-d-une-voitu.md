@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 16 nilliards de CHF par genevois ça fait 32000 par personne, le prix d'une voiture moyenne. C'est exactement un tiers du PIB genevois[[1]](#HrpcJ) , rien du tout en comparaison internationale. En plus cette dette est détenue par des institutions genevoises en majorité, à taux très faible…
 
-Ca date un peu mais j'avais écrit ça [La dette publique genevoise n’est pas un problème - Pourquoi Comment Combien](https://www.drgoulu.com/2004/03/26/la-dette-publique-genevoise-nest-pas-un-probleme/)
+Ca date un peu mais j'avais écrit ça [La dette publique genevoise n’est pas un problème - Pourquoi Comment Combien](/2004/03/26/la-dette-publique-genevoise-nest-pas-un-probleme/)
 
 Notes de bas de page
 

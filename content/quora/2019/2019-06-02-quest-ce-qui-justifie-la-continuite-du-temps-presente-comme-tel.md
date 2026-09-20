@@ -29,4 +29,4 @@ Note* : un chico = $10^{-39}$, est un [Préfixe d'unité non-SI](w:) proposé en
 
 Notes de bas de page
 
-[[1]](#cite-siyHX)[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[[1]](#cite-siyHX)[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)

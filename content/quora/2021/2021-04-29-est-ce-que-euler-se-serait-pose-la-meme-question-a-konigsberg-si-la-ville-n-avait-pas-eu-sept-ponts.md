@@ -21,7 +21,7 @@ coverImage: ./images/quora.png
 
 Il faut aussi une île au milieu pour que ce soit intéressant.
 
-[https://www.drgoulu.com/2013/11/...](https://www.drgoulu.com/2013/11/22/le-postier-chinois-de-konigsberg/)
+[https://www.drgoulu.com/2013/11/...](/2013/11/22/le-postier-chinois-de-konigsberg/)
 
 D'ailleurs Euler habitait Bâle, ville fluviale aussi, mais qui n'a pas d'île, ce qui fait que le [Problème de Bâle](w:) n'a rien à voir avec les ponts ;-)
 

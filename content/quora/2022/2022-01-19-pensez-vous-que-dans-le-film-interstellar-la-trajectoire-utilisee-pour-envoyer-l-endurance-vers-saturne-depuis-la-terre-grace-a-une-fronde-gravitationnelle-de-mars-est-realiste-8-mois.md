@@ -23,7 +23,7 @@ Pour aller vers Saturne, la sonde [Cassini-Huygens](w:)a utilisé deux fois l'as
 
 Interstellar est hélas plein d'incohérences très regrettables, ça en fait une de plus.
 
-[https://www.drgoulu.com/2014/11/...](https://www.drgoulu.com/2014/11/29/interstellar/)
+[https://www.drgoulu.com/2014/11/...](/2014/11/29/interstellar/)
 
 Notes de bas de page
 

@@ -27,4 +27,4 @@ Il y a plus d'un million de quadrillions de virus sur Terre. En chiffres ça fai
 
 Alors, c'est quel virus qui vous intéresse ?
 
-Si vous voulez apprendre des choses passionnantes sur les virus, lisez le livre [Planète de virus](https://drgoulu.com/2016/03/28/planete-de-virus/)de Carl Zimmer. C'est génial ! Et traduit par des copains, ce qui ne gâche rien.
+Si vous voulez apprendre des choses passionnantes sur les virus, lisez le livre [Planète de virus](/2016/03/28/planete-de-virus/)de Carl Zimmer. C'est génial ! Et traduit par des copains, ce qui ne gâche rien.

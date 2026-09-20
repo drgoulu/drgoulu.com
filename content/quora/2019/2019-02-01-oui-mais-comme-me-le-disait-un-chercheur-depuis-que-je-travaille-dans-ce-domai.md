@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui mais. Comme me le disait un chercheur “depuis que je travaille dans ce domaine, je comprends pourquoi les arbres perdent leurs feuilles…”
 
-[de Graetzel aux great cells - Pourquoi Comment Combien](https://www.drgoulu.com/2009/09/15/de-graetzel-aux-great-cells/)
+[de Graetzel aux great cells - Pourquoi Comment Combien](/2009/09/15/de-graetzel-aux-great-cells/)

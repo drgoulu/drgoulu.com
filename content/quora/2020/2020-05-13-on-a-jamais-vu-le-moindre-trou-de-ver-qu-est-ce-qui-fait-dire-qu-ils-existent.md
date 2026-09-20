@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Les [Trou de ver](w:) sont des solutions mathématiques de l'[équation de champ d'Einstein](w:Équation_d'Einstein). Des théoriciens célèbres, à commencer par Einstein lui-même avec [Nathan Rosen](w:) ("pont d'Einstein-Rosen" [1]) et plus récemment S. Morris et [Kip S. Thorne](w:Kip_Thorne) [2].
 
-Mais les maths permettent des choses que la physique ne permet pas, voir [Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/#.XrzhbmiiGCo)
+Mais les maths permettent des choses que la physique ne permet pas, voir [Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/#.XrzhbmiiGCo)
 
 Références:
 

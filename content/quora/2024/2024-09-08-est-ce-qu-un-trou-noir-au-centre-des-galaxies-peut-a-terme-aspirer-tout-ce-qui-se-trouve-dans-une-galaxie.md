@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Non. Actuellement on pense plutôt que les trous noirs supermassifs contribuent à la formation des galaxies autour d'eux, en éjectant très loin une grande partie (jusquà 97% [[1]](#kmMXd)) de la matière qui tombe vers eux.
 
-[https://drgoulu.com/2008/09/06/l...](https://drgoulu.com/2008/09/06/les-trous-noirs-des-moteurs-de-lunivers/)
+[https://drgoulu.com/2008/09/06/l...](/2008/09/06/les-trous-noirs-des-moteurs-de-lunivers/)
 
 Et en fait, très peu de matière tombe sur un trou noir, qui n' "aspire" rien du tout. Un trou noir supermassif absorbe environ 1 masse solaire par an. A 100 milliards d'étoiles par galaxie, il faudrait des centaines de milliards d'années pour toutes les absorber, mais pour l'instant il y a dans chaque galaxie une nouvelle étoile par semaine qui naît…
 

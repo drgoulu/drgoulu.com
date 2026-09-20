@@ -31,4 +31,4 @@ A part les yeux à facettes des insectes, l'oeil très différent des autres ani
 
 Mais je vous rassure : c'est oeil est le résultat de l'évolution, comme les autres.
 
-[Quand Darwin invente le télescope - Pourquoi Comment Combien](https://www.drgoulu.com/2009/02/26/dolichopteryx-longipes/)
+[Quand Darwin invente le télescope - Pourquoi Comment Combien](/2009/02/26/dolichopteryx-longipes/)

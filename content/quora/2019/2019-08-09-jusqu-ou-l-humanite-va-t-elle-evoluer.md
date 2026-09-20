@@ -17,4 +17,4 @@ Homo Sapiens, comme toutes les autres espèces, évoluera dans toutes les direct
 
 Notes de bas de page
 
-[[1]](#cite-zjQZV)[L'adaptation à l'altitude - Pourquoi Comment Combien](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+[[1]](#cite-zjQZV)[L'adaptation à l'altitude - Pourquoi Comment Combien](/2014/08/17/ladaptation-a-laltitude/)

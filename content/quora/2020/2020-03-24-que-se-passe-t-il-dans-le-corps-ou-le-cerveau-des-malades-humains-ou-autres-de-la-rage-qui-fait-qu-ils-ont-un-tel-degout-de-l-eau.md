@@ -28,7 +28,7 @@ Ce qui me frappe en lisant des sources comme:
 - [Why does rabies cause hydrophobia?](https://biology.stackexchange.com/a/57437/57612) sur StackExchange Biology
 - [Why Does Rabies Cause Fear Of Water? » Science ABC](https://www.scienceabc.com/humans/why-does-rabies-cause-fear-of-water.html)
 
-c'est que la réponse couvre les deux sens du mot [Pourquoi / Pour Quoi](https://www.drgoulu.com/2009/01/04/pourquoi-pour-quoi/#.Xnnf_ohsOCo)
+c'est que la réponse couvre les deux sens du mot [Pourquoi / Pour Quoi](/2009/01/04/pourquoi-pour-quoi/#.Xnnf_ohsOCo)
 
 1. le virus attaque les neurones, spécifiquement les récepteurs d'acétylcholine, en empêchant les muscles de fonctionner correctement. En particulier, comme il se concentre dans les glandes salivaires, il empêche la gorge et le larynx de fonctionner en causant des spasmes très douloureux. En fait la victime n'a pas vraiment peur de l'eau, elle a peur de la douleur que lui causera le fait d'avaler l'eau, ou la nourriture, ou sa propre salive.
 2. Ceci a l'effet de ne pas diluer le virus qui se concentre dans la salive, et donc de rendre sa propagation par morsure plus efficace !

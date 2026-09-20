@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/D-o%C3%B9-provient-la-chaleur-produite-dans-le-noyau-terrestre/answer/Dr-Goulu)*
 
-De [La radioactivité naturelle](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/).
+De [La radioactivité naturelle](/2013/11/03/la-radioactivite-naturelle/).

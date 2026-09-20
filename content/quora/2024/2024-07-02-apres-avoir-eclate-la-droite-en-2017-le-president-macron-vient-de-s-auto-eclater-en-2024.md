@@ -27,7 +27,7 @@ Elle est en dessous, sur le deuxième axe conservateur / progressiste[[1]](#joHF
 
 Je pense que ce qui s'est passé en 2017, c'est que cet axe est devenu principal par rapport à l'axe droite-gauche
 
-[https://drgoulu.com/2017/05/14/l...](https://drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://drgoulu.com/2017/05/14/l...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 Je pense que c'est toujours le cas, sinon la droite traditionnelle serait plus remontée. Donc vous allez avoir une alternance progressiste - conservateur.
 

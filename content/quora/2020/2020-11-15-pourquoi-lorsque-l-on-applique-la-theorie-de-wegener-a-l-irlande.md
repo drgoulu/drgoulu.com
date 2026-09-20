@@ -17,4 +17,4 @@ Des structures circulaires dans les cartes actuelles ne sont pas forcément du t
 
 Des impacts si importantes laissent des traces géologiques typiques (quartz choqué, iridium ou autres dépôts isotopiquement distincts des matériaux terrestres.
 
-Et il faut manifestement tenir compte de la datation pour avoir une compréhension des observations, comne dans le cas [de Manicouagan à Rochechouart - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/16/de-manicouagan-a-rochechouart/)
+Et il faut manifestement tenir compte de la datation pour avoir une compréhension des observations, comne dans le cas [de Manicouagan à Rochechouart - Pourquoi Comment Combien](/2009/04/16/de-manicouagan-a-rochechouart/)

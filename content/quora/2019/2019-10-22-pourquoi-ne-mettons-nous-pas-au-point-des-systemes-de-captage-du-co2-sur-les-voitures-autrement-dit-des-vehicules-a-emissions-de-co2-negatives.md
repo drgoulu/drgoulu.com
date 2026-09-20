@@ -26,4 +26,4 @@ coverImage: ./images/quora.png
 
 Si vous avez des réponses positives à ces deux questions, GO ! créez une entreprise qui fait ça. C'est hélas trop tard pour gagner les $25 millions du [Virgin Earth Challenge](https://www.virginearth.com/)
 
-[Stockage du CO2 : rêve et réalité - Pourquoi Comment Combien](https://www.drgoulu.com/2008/08/01/stockage-du-co2-reve-et-realite/)
+[Stockage du CO2 : rêve et réalité - Pourquoi Comment Combien](/2008/08/01/stockage-du-co2-reve-et-realite/)

@@ -29,9 +29,9 @@ Dans les années 1920–1930 on comprend que ce sont des "[Neutrons"](w:Neutron)
 
 etc etc pour toutes les particules découvertes à partir d'hypothèses théoriques pour expliquer des observations passées, et de vérifications expérimentales pas toujours concluantes. On cherche toujours cette fichue matière noire …
 
-La question m'a aussi fait penser à une conférence culte de Feynman en 1959 : "[Il y a plein de place en bas "](https://drgoulu.com/2009/06/11/il-y-a-plein-de-place-en-bas-2/). C'était absolument visionnaire, et ça démontre qu'en 1960 il y avait encore une large proportion de scientifiques qui n'avaient pas encore réalisé à quel point le "micro" est "micro" et ce que ça impliquait.
+La question m'a aussi fait penser à une conférence culte de Feynman en 1959 : "[Il y a plein de place en bas "](/2009/06/11/il-y-a-plein-de-place-en-bas-2/). C'était absolument visionnaire, et ça démontre qu'en 1960 il y avait encore une large proportion de scientifiques qui n'avaient pas encore réalisé à quel point le "micro" est "micro" et ce que ça impliquait.
 
-Et encore une pour terminer : en 1977, le film [Les puissances de dix](https://drgoulu.com/2008/05/16/les-puissances-de-dix/)montrait notre connaissance du monde aux échelles allant de $10^{-16}$ à $10^{-26}$m .
+Et encore une pour terminer : en 1977, le film [Les puissances de dix](/2008/05/16/les-puissances-de-dix/)montrait notre connaissance du monde aux échelles allant de $10^{-16}$ à $10^{-26}$m .
 
 En 2008 j'écrivais:
 

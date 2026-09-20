@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Lisez “comment constriune machine à remonter le temps” de [Paul Davies (physicien)](w:). Ni teleportation, ni violation de la conservation de l'énergie…mais un certain nombre d'hypothèses tout de même.
 
-[Peut-on voyager dans le temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2008/06/19/peut-on-voyager-dans-le-temps/)
+[Peut-on voyager dans le temps ? - Pourquoi Comment Combien](/2008/06/19/peut-on-voyager-dans-le-temps/)

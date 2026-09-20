@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Non, c'est (peut-être) due au changement d'axe principal, passé de gauche/droite à progressiste/conservateur.
 
-[https://drgoulu.com/2017/05/14/l...](https://drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://drgoulu.com/2017/05/14/l...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 Il faudrait remettre à jour le lprojet
 

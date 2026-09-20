@@ -39,8 +39,8 @@ Il existe d'autre suites de nombres produites par d'autres cribles, par exemple 
 
 Sur ce thème :
 
-[Comment trouver des nombres premiers - Pourquoi Comment Combien](https://www.drgoulu.com/2012/04/15/comment-produire-des-nombres-premiers/#.YBpPJOhsOCo)
+[Comment trouver des nombres premiers - Pourquoi Comment Combien](/2012/04/15/comment-produire-des-nombres-premiers/#.YBpPJOhsOCo)
 
-[Alice et Bob et les clés asymétriques - Pourquoi Comment Combien](https://www.drgoulu.com/2017/02/15/alice-et-bob-et-les-cles-asymetriques/#.YBpPPOhsOCo)
+[Alice et Bob et les clés asymétriques - Pourquoi Comment Combien](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/#.YBpPPOhsOCo)
 
-[2019 passée au crible - Pourquoi Comment Combien](https://www.drgoulu.com/2019/01/06/2019-passee-au-crible/#.YBpNBehsOCo)
+[2019 passée au crible - Pourquoi Comment Combien](/2019/01/06/2019-passee-au-crible/#.YBpNBehsOCo)

@@ -34,7 +34,7 @@ Elle l'a été quand les émetteurs radio de TSF alimentaient les [Récepteur à
 >
 >
 >
-> ([Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/) )
+> ([Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](/2012/08/19/nikola-tesla-genie-mais-connu/) )
 
 Notes de bas de page
 

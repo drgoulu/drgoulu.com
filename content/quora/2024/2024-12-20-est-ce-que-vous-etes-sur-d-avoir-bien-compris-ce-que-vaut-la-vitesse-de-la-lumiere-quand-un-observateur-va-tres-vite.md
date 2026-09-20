@@ -17,4 +17,4 @@ Ce qui n'empêche pas cet observateur de franchir bien plus d'une année lumièr
 
 Il peut même accélérer indéfiniment, donc jusqu'à une vitesse infinie pour lui, qui sera vue comme C par un observateur extérieur.
 
-[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](https://drgoulu.com/2004/08/09/acceleration/)
+[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](/2004/08/09/acceleration/)

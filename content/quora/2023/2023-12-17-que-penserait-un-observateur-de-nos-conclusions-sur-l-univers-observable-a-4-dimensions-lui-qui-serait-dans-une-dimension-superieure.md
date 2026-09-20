@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il n'existe pas, ou il ne peut pas penser
 
-[https://www.drgoulu.com/2011/01/...](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+[https://www.drgoulu.com/2011/01/...](/2011/01/30/pourquoi-3-dimensions-1-temps/)

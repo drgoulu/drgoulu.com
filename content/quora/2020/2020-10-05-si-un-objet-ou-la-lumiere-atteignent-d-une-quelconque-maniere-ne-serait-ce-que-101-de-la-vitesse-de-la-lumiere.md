@@ -17,4 +17,4 @@ Ce qu'il faut bien comprendre, c'est que pour l'objet qui se déplace, tout est 
 
 La relativité d'Einstein est une généralisation de celle de Newton : on ne ressent pas les vitesses. Tout est normal quelle que soit votre vitesse.
 
-[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](https://www.drgoulu.com/2004/08/09/acceleration/#.X3wBlmiFqCo)
+[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](/2004/08/09/acceleration/#.X3wBlmiFqCo)

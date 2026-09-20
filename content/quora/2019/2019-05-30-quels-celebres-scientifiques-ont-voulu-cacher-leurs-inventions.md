@@ -25,4 +25,4 @@ S'ils l'ont fait, ce n'était pas des scientifiques car la publication est essen
 
 Cela dit, certains scientifiques/inventeurs ont préféré s'expatrier que de collaborer avec leur gouvernement, voir [Science sous le Troisième Reich — Wikipédia](w:Science_sous_le_Troisième_Reich) par exemple.
 
-Il faut aussi dire que la recherche en milieu militaire peut être soumise au secret, et que les scientifiques employés doivent alors "cacher leurs inventions" par contrat. Histoire vécue de l'intérieur : [Avalanches et goniomètre à infrasons - Pourquoi Comment Combien](https://www.drgoulu.com/2016/01/14/avalanches-et-gonimetre-a-infrasons/)
+Il faut aussi dire que la recherche en milieu militaire peut être soumise au secret, et que les scientifiques employés doivent alors "cacher leurs inventions" par contrat. Histoire vécue de l'intérieur : [Avalanches et goniomètre à infrasons - Pourquoi Comment Combien](/2016/01/14/avalanches-et-gonimetre-a-infrasons/)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 0.000332%
 
-J'avais fait le calcul pour [Astrologie - Pourquoi Comment Combien](https://www.drgoulu.com/2004/06/30/astrologie/)
+J'avais fait le calcul pour [Astrologie - Pourquoi Comment Combien](/2004/06/30/astrologie/)

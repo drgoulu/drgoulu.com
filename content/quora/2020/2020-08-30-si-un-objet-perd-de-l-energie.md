@@ -21,4 +21,4 @@ En réalité la [Théorie de l'information](w:)lie l'information à l'entropie :
 
 Pour revenir aux trous noirs, une solution théorique intéressante du paradoxe de l'information est de considérer qu'elle est stockée sur les briques d'espace-temps de l'horizon des événements, et restituée lors de l'évaporation du trou noir. C'est connu sous le nom de [Principe holographique](w:).
 
-[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)

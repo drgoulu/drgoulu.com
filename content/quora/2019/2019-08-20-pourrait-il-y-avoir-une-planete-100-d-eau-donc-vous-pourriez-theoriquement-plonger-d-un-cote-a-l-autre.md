@@ -40,4 +40,4 @@ A 60 GPa, il faudrait que le centre de la planète soit autour de 500°C, ce qui
 
 Notes de bas de page
 
-[[1]](#cite-UsohC)[La glace-9 de Vonnegut peut-elle exister ? - Pourquoi Comment Combien](https://www.drgoulu.com/2012/11/05/glace-9/)
+[[1]](#cite-UsohC)[La glace-9 de Vonnegut peut-elle exister ? - Pourquoi Comment Combien](/2012/11/05/glace-9/)

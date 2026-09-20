@@ -13,8 +13,8 @@ coverImage: ./images/quora.png
 
 C'est parce qu'il n'y a que trois dimensions spatiales. S'il y en avait 4 ou plus, l'univers serait très différent.
 
-[https://www.drgoulu.com/2011/01/...](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/#.YeY4p1Pfs0E)
+[https://www.drgoulu.com/2011/01/...](/2011/01/30/pourquoi-3-dimensions-1-temps/#.YeY4p1Pfs0E)
 
 Mais avec un peu d exercice et de maths, on arrive à
 
-[https://www.drgoulu.com/2007/02/...](https://www.drgoulu.com/2007/02/06/voir-en-4-dimensions/#.YeY48FPfs0E)
+[https://www.drgoulu.com/2007/02/...](/2007/02/06/voir-en-4-dimensions/#.YeY48FPfs0E)

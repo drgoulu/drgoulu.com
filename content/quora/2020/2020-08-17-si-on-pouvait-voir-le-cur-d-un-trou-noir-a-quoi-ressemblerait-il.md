@@ -19,4 +19,4 @@ Le principe du trou noir, c'est justement qu'aucune lumière ne peut s'en échap
 
 En prime il y a la [Censure cosmique](w:) : les trous noirs "refusent" de tourner plus vite que la limite qui rendrait leur singularité (un anneau, pas un point…) visible.
 
-[A combien tourne un trou noir ? - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/)

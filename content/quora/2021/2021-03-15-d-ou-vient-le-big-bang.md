@@ -19,4 +19,4 @@ Un erreur commune est de considérer le [Big Bang](w:) comme un événement. Ce 
 
 L'idée que le Big Bang soit un événement, un "point zero", une singularité provient de notre mesure du temps, qui perd son sens quand on remonte à 13.8 milliards d'années ou plus. Peut-être que, comme la température est la mesure de quelque chose de plus fondamentale, le temps est aussi la mesure de quelque chose de plus fondamental. Dans ce cas l'Univers pourrait très bien être éternel.
 
-[https://www.drgoulu.com/2008/06/...](https://www.drgoulu.com/2008/06/06/la-grande-question-du-temps/#.YE8TYZ1sOCo)
+[https://www.drgoulu.com/2008/06/...](/2008/06/06/la-grande-question-du-temps/#.YE8TYZ1sOCo)

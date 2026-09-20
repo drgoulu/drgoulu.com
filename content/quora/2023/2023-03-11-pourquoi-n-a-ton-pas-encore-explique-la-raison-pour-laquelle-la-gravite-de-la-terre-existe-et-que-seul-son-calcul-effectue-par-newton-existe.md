@@ -47,4 +47,4 @@ Note* : je dis que la preuve date de l' "éclipse d'Eddington" 1919 alors que la
 
 C'est en cela que les théories comme la relativité, le Big Bang, l'évolution des espèces etc sont extrêmement fortes : elles ont permis des prédictions qui ont été vérifiées des décennies plus tard.
 
-[https://www.drgoulu.com/2008/08/...](https://www.drgoulu.com/2008/08/23/suites-courbes-et-theories/#.ZAxcDnZsOCo)
+[https://www.drgoulu.com/2008/08/...](/2008/08/23/suites-courbes-et-theories/#.ZAxcDnZsOCo)

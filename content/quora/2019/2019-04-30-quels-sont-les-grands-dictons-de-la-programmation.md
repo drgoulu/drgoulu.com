@@ -20,7 +20,7 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Quels-sont-les-grands-dictons-de-la-programmation/answer/Dr-Goulu)*
 
-Les plus célèbres sont les [Perlisismes, les dictons informatiques d'Alan Perlis](https://www.drgoulu.com/2008/01/21/perlisismes-les-dictons-informatiques-dalan-perlis/).
+Les plus célèbres sont les [Perlisismes, les dictons informatiques d'Alan Perlis](/2008/01/21/perlisismes-les-dictons-informatiques-dalan-perlis/).
 
 Mes préférés sont:
 

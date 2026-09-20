@@ -25,7 +25,7 @@ Par contre on a jamais vu une "conscience" séparée de son cerveau d'origine. V
 
 Sinon, il n'y a aucune "créativité, miracle d'ingéniosité et d'intelligence qui se manifeste dans la nature", vous anthropomorphisez à cause de votre cerveau qui vous pousse à chercher des buts à ce qui se passe autour de vous alors qu'il n'y a que des causes.
 
-[https://www.drgoulu.com/2009/01/...](https://www.drgoulu.com/2009/01/04/pourquoi-pour-quoi/)
+[https://www.drgoulu.com/2009/01/...](/2009/01/04/pourquoi-pour-quoi/)
 
 Si vous étudiez la physique, la chimie ou la biologie, vous verrez que la nature est un immense foutoir qui fabrique absolument tout ce qui est possible. Dont vous, petit tas de molécules organiques vivant temporairement à la surface d'un réacteur nucléaire orbitant temporairement autour d'une bombe thermonucléaire tournant avec des centaines de milliards d'autres dans une galaxie parmi des centaines de milliards d'autres. C'est encore plus génial que ce que toutes les mythologies auraient pu imaginer.
 

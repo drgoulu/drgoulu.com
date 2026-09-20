@@ -17,4 +17,4 @@ Aucune expérience (faite correctement et reproductible) n'a montré d'effet de 
 
 Or justement, les homéopathes insistent sur l'individualisation de la pratique, ils passent beaucoup de temps à vous écouter, parler etc, ce qui renforce l'effet placebo.
 
-[Placebo et nocebo - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/21/placebo-et-nocebo/)
+[Placebo et nocebo - Pourquoi Comment Combien](/2009/05/21/placebo-et-nocebo/)

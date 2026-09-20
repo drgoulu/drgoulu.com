@@ -31,4 +31,4 @@ Pour ce faire, le cerveau doit être capable de nous "simuler nous-mêmes", donc
 
 Notes de bas de page
 
-[[1]](#cite-kUaqz)[Neurologie du Temps - Pourquoi Comment Combien](https://www.drgoulu.com/2009/06/27/neurologie-du-temps/)
+[[1]](#cite-kUaqz)[Neurologie du Temps - Pourquoi Comment Combien](/2009/06/27/neurologie-du-temps/)

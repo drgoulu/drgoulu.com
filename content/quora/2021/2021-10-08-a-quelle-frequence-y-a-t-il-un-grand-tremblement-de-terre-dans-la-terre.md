@@ -17,4 +17,4 @@ Magnitude 8 : un par an
 
 Magnitude 7 : 20 par an environ
 
-[https://www.drgoulu.com/2011/03/...](https://www.drgoulu.com/2011/03/16/seismes-et-energies/)
+[https://www.drgoulu.com/2011/03/...](/2011/03/16/seismes-et-energies/)

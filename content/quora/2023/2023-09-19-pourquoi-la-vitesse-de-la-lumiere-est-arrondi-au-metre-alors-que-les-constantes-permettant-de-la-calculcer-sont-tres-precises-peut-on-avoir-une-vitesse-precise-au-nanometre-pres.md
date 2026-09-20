@@ -26,7 +26,7 @@ en 1983, la [Conférence générale des poids et mesures](http://www.wikipedia.o
 
 La vitesse de lumière n'est donc pas "arrondie", elle est "définie", et c'est le mètre qui est désormais mesurable avec une précision 1000x meilleure qu'avec un étalon matériel [[1]](#trwPZ) grâce aux horloges atomiques et à l'interferometrie laser.
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)
+[https://www.drgoulu.com/2017/05/...](/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)
 
 Notes de bas de page
 

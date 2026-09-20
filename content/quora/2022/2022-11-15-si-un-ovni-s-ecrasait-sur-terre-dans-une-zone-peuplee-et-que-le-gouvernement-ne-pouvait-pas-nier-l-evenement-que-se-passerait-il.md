@@ -24,4 +24,4 @@ On hurlerait de rire et on se moquerait pendant des siècles de cet idiot d'ET q
 
 En nous fournissant la technologie qui nous manque pour conquérir la galaxie.. . Je pense qu'on appellerait sa civilisation les nazes, et qu'ils l'auraient bien mérité.
 
-[https://www.drgoulu.com/2011/11/...](https://www.drgoulu.com/2011/11/06/la-route-que-nous-navons-pas-prise/#.Y3QUCKTfs0E)
+[https://www.drgoulu.com/2011/11/...](/2011/11/06/la-route-que-nous-navons-pas-prise/#.Y3QUCKTfs0E)

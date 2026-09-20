@@ -21,4 +21,4 @@ Le rayon de l'Univers observable étant de 46.508 milliards d'années lumière s
 
 Le gogolplex est minuscule et inutile par rapport au [Nombre de Graham](w:) qui est utilisé dans une démonstration mathématique.
 
-[https://www.drgoulu.com/2008/11/...](https://www.drgoulu.com/2008/11/04/tres-tres-tres-grands-nombres/)
+[https://www.drgoulu.com/2008/11/...](/2008/11/04/tres-tres-tres-grands-nombres/)

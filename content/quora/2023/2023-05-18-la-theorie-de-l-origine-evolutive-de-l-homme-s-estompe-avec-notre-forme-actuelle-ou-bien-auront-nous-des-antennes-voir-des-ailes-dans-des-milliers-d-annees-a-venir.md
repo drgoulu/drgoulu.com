@@ -32,4 +32,4 @@ En plus il faudrait trouver sexy les gens qui ont des bosses sur la tête de plu
 
 Si on a inventé les avions et téléphone mobile, c'est pour gagner du temps…
 
-Mais les humains continuent à évoluer, lentement et surement, notamment par [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)ou la tolérance au lactose par exemple.
+Mais les humains continuent à évoluer, lentement et surement, notamment par [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/)ou la tolérance au lactose par exemple.

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non. Les seules machines à remonter le temps physiquement envisageables ne permettent pas de remonter avant la construction de la machine. En supposant qu'elles fonctionnent…
 
-[C omment construire une machine à explorer le temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)
+[C omment construire une machine à explorer le temps ? - Pourquoi Comment Combien](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)

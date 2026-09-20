@@ -46,6 +46,6 @@ Deux anecdotes à propos du Grand Albert et de tout ceci:
 
 Notes de bas de page
 
-[[1]](#cite-OQNIy)[La Renaissance du Temps 1/2 - Pourquoi Comment Combien](https://www.drgoulu.com/2015/01/28/la-renaissance-du-temps/)
+[[1]](#cite-OQNIy)[La Renaissance du Temps 1/2 - Pourquoi Comment Combien](/2015/01/28/la-renaissance-du-temps/)
 
-[[2]](#cite-Kosfr)[Le Théorème de Noether a un siècle - Pourquoi Comment Combien](https://www.drgoulu.com/2018/06/23/le-theoreme-de-noether-a-un-siecle/)
+[[2]](#cite-Kosfr)[Le Théorème de Noether a un siècle - Pourquoi Comment Combien](/2018/06/23/le-theoreme-de-noether-a-un-siecle/)

@@ -37,4 +37,4 @@ Donc la NASA ne fait pas de station autour de Mars parce que nous, les contribua
 
 Peut-être que les Chinois le feront pour montrer au monde qu'ils sont les meilleurs etc, mais pas avec mon fric.
 
-[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/07/18/pour-quoi-retourner-sur-la-lune/)
+[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](/2009/07/18/pour-quoi-retourner-sur-la-lune/)

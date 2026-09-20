@@ -17,4 +17,4 @@ Dans votre liste, les nombres imaginaires font partie des nombres complexes, et 
 
 Pour ceux que vous avez imaginés, il vous suffit de les définir précisément dans un article scientifique et ils "existeront".
 
-Exemple personnel : les [nombres acratopèges](https://drgoulu.com/2008/08/24/nombres-acratopeges/).
+Exemple personnel : les [nombres acratopèges](/2008/08/24/nombres-acratopeges/).

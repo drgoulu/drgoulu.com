@@ -28,7 +28,7 @@ Dans l'article ci-dessus, on présente une nouvelle version [AlphaGo Zero](w:) q
 
 - en trois jours il atteint le même niveau que le programme qui a battu Lee Sedol en 2012
 - en 21 jours il a atteint le niveau de la version "Master" qui a battu tous les meilleurs 60 joueurs professionnels en 2017 (et qui avaient étudié les parties de 2012…)
-- en 40 jours il a atteint un niveau "stable" encore plus élevé, qu'aucun humain ne pourra atteindre, la vie étant beaucoup trop courte (voir [L'espace infini entre les mots](https://www.drgoulu.com/2014/05/18/lespace-infini-entre-les-mots/))
+- en 40 jours il a atteint un niveau "stable" encore plus élevé, qu'aucun humain ne pourra atteindre, la vie étant beaucoup trop courte (voir [L'espace infini entre les mots](/2014/05/18/lespace-infini-entre-les-mots/))
 
 [AlphaZero](w:)est un programme identique, mais non spécifique au go. On peut simplement lui programmer les règles d'un jeu, et il apprend tout seul à jouer, contre lui même.
 
@@ -46,7 +46,7 @@ Plus fort encore [MuZero](w:)**apprend à jouer à n'importe quel jeu sans même
 
 L'humain n'est donc nécessaire que comme "arbitre", pour dire laquelle des instances d'IA a "gagné".
 
-Vous vous rappelez de tous ces sites (de Google…) où vous deviez prouver que vous étiez humain en identifiant des images contenant un mouton, un passage piéton ou un bus ? Ca servait à ça : entraîner des IA à reconnaître des choses dans des images ! ( [les Ordinateurs Humains : des Captchas à PeekaSearch - Pourquoi Comment Combien](https://www.drgoulu.com/2008/03/07/les-ordinateurs-humains-des-captchas-a-peekasearch/) ) Par exemple pour les voitures autonomes …
+Vous vous rappelez de tous ces sites (de Google…) où vous deviez prouver que vous étiez humain en identifiant des images contenant un mouton, un passage piéton ou un bus ? Ca servait à ça : entraîner des IA à reconnaître des choses dans des images ! ( [les Ordinateurs Humains : des Captchas à PeekaSearch - Pourquoi Comment Combien](/2008/03/07/les-ordinateurs-humains-des-captchas-a-peekasearch/) ) Par exemple pour les voitures autonomes …
 
 Votre idée de "2 programmes d’IA capables de débattre l’un avec l’autre" ne pose aucun problème technique. Elles pourraient faire des millions de débats par jour. Le problème est de définir les règles de ce qui est permis dans un débat, et qui a "gagné" à la fin pour renforcer l'apprentissage.
 

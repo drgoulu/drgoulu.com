@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Que-ce-passerait-il-dans-le-domaine-de-la-physique-si-hypothétiquement-le-mouvement-perpétuel-était-démontré/answer/Dr-Goulu)*
 
-Il y en a des dizaines comme ça sur YouTube, plein dans les commentaires de mon article [Dites NON au mouvement perpétuel - Pourquoi Comment Combien](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/#.XEIewhjjKyU). Il y a deux manières de voir que c'est bidon:
+Il y en a des dizaines comme ça sur YouTube, plein dans les commentaires de mon article [Dites NON au mouvement perpétuel - Pourquoi Comment Combien](/2012/05/27/dites-non-au-mouvement-perpetuel/#.XEIewhjjKyU). Il y a deux manières de voir que c'est bidon:
 
 1. Connaître la physique.
 2. Essayer.

@@ -34,4 +34,4 @@ petit graphique de l'évolution des 4 facteurs (faudrait que j'en trouve un plus
 
 ![](./images/qimg-9030402f626ed7ce6eaf26911b6dbc0f.png)
 
-Graphique CC Enescot, Données “CO2 Emissions From Fuel Combustion: Highlights (2011 edition)” IEA tiré de [400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
+Graphique CC Enescot, Données “CO2 Emissions From Fuel Combustion: Highlights (2011 edition)” IEA tiré de [400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)

@@ -25,4 +25,4 @@ Absolument, c'est arrivé plusieurs fois. A part le [Vol 1549 US Airways](w:) qu
 
 Les gros porteurs actuels planent aussi bien que des planeurs des années 1950, en plus rapide.
 
-[Un jet gros porteur sachant planer ... - Pourquoi Comment Combien](https://www.drgoulu.com/2009/01/25/un-jet-gros-porteur-sachant-planer/)
+[Un jet gros porteur sachant planer ... - Pourquoi Comment Combien](/2009/01/25/un-jet-gros-porteur-sachant-planer/)

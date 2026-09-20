@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il y a des notations adaptées comme les[puissances itérées de Knuth](w:Notation_des_puissances_itérées_de_Knuth) ou les [flèches chaînées de Conway](w:Notation_des_flèches_chaînées_de_Conway).
 
-[https://www.drgoulu.com/2008/11/...](https://www.drgoulu.com/2008/11/04/tres-tres-tres-grands-nombres/)
+[https://www.drgoulu.com/2008/11/...](/2008/11/04/tres-tres-tres-grands-nombres/)

@@ -19,6 +19,6 @@ soit l'axe progressiste/conservateur est devenu dominant par rapport à l'axe dr
 
 J'avais écrit à Cédric Villani pour lui parler de ça :
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://www.drgoulu.com/2017/05/...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 mais il a du avoir autre chose à faire …

@@ -15,7 +15,7 @@ En Suisse on a [Smartvote](https://smartvote.ch/fr/home?locale=fr_CH) qui fait �
 
 Outre vous aider à trouver les candidats qui vous représentent le plus, ça permet de faire des cartes du paysage politique de manière très objective, j'en parle dans
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://www.drgoulu.com/2017/05/...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 et je viens de découvrir que le système s'étend, en Australie, Tibet ( gouvernement en exil) et Luxembourg
 

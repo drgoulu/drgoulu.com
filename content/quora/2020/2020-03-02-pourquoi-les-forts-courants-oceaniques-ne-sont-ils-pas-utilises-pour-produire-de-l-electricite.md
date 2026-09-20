@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il existe des [Hydroliennes](w:Hydrolienne), mais encore plus que pour les éoliennes, ce sont les emplacements adaptés qui sont limités.
 
-[Energie Hydrolienne - Pourquoi Comment Combien](https://www.drgoulu.com/2008/09/07/energie-hydrolienne/)
+[Energie Hydrolienne - Pourquoi Comment Combien](/2008/09/07/energie-hydrolienne/)

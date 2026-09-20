@@ -15,4 +15,4 @@ On ne peut pas.
 
 L'Uranium est extrait principalement de la [Pechblende](w:), un minerai. Un jour on l'extraira peut être de l'eau de mer où il est présent en grandes quantités.
 
-Votre confusion provient peut être du [Potassium 40](w:), un isotope radioactif à longue demie vie qui contribue à [La radioactivité naturelle](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/) avec l'uranium et le thorium.
+Votre confusion provient peut être du [Potassium 40](w:), un isotope radioactif à longue demie vie qui contribue à [La radioactivité naturelle](/2013/11/03/la-radioactivite-naturelle/) avec l'uranium et le thorium.

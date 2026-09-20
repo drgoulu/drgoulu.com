@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Mathématiquememt, une voiture qui freine repart en marche arrière sous l'effet des freins, donc méfiez-vous des maths.
 
-[https://drgoulu.com/2016/09/11/s...](https://drgoulu.com/2016/09/11/solutions-admissibles/)
+[https://drgoulu.com/2016/09/11/s...](/2016/09/11/solutions-admissibles/)
 
 Les théories d'Einstein ne valaient pas tripette avant que des expériences prouvent qu'elles étaient correctes.
 

@@ -45,4 +45,4 @@ Elle a une puissance de 900 MW, donc elle peut stocker et restituer l'énergie d
 
 Actuellement, le stockage hydraulique est la seule solution économiquement viable de stockage de l'énergie . Encore que, comme le notait le directeur qui nous accompagnait lors de la visite, on subventionne la construction des éoliennes mais pas des installations de stockage qui vont avec…
 
-[https://www.drgoulu.com/2012/10/...](https://www.drgoulu.com/2012/10/07/comment-stocker-lenergie/)
+[https://www.drgoulu.com/2012/10/...](/2012/10/07/comment-stocker-lenergie/)

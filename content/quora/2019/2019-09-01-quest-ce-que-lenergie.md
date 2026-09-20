@@ -26,4 +26,4 @@ L'énergie, c'est juste hyper pratique pour les calculs.
 
 Fondamentalement, son existence traduit l'invariance par translation dans le temps de notre Univers, dixit Madame Emmy Noether.
 
-[Le Théorème de Noether a un siècle - Pourquoi Comment Combien](https://www.drgoulu.com/2018/06/23/le-theoreme-de-noether-a-un-siecle/)
+[Le Théorème de Noether a un siècle - Pourquoi Comment Combien](/2018/06/23/le-theoreme-de-noether-a-un-siecle/)

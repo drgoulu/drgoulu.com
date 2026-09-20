@@ -31,4 +31,4 @@ Maintenant pour des lettres qui n’ont pas d’épaisseur, ben … c’est la m
 
 ![](./images/qimg-f8252eb13cc9da01b92217773f5c1b8b.jpg)
 
-Illustrations tirées de mon article [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/04/miroir/) consacré à la symétrie sous toutes ses fomes
+Illustrations tirées de mon article [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/) consacré à la symétrie sous toutes ses fomes

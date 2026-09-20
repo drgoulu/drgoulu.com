@@ -27,4 +27,4 @@ Leur fournir de l'alcool ou des drogues pour les maintenir dans cet état pendan
 
 Les empêcher à tout prix, y compris l'extermination si besoin, d'acquérir la technologie du voyage interstellaire. On peut se permettre des zoos, voire parcs nationaux, mais pas des concurrents dans La Course.
 
-[Principe de Saturation Cubique - Pourquoi Comment Combien](https://www.drgoulu.com/1999/10/24/psc/)
+[Principe de Saturation Cubique - Pourquoi Comment Combien](/1999/10/24/psc/)

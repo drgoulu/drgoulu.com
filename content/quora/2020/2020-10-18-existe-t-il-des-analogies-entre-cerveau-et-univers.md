@@ -25,4 +25,4 @@ On peut trouver des analogies entre n'importe quoi. Ça ne veut pas dire qu'elle
 
 Non, il n'y a aucun rapport entre l'univers et le cerveau. Ni la complexité, ni la structure, ni la fonction, ni la formation.
 
-[Y'a-t-il des trous noirs dans la mer ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/10/05/ya-t-il-des-trous-noirs-dans-la-mer/)
+[Y'a-t-il des trous noirs dans la mer ? - Pourquoi Comment Combien](/2013/10/05/ya-t-il-des-trous-noirs-dans-la-mer/)

@@ -15,4 +15,4 @@ S'il l'avait dit on pourrait en discuter, mais il ne l'a pas dit
 
 [Einstein's famous quote about insanity? He probably never said it.](http://www.news.hypercrit.net/2012/11/13/einstein-on-insanity/)
 
-[Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](https://www.drgoulu.com/2008/11/26/ce-queinstein-na-jamais-dit/)
+[Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](/2008/11/26/ce-queinstein-na-jamais-dit/)

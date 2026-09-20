@@ -29,4 +29,4 @@ coverImage: ./images/quora.png
 
 90+90+360=540
 
-[De quelle couleur est l'ours ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/10/08/de-quelle-couleur-est-lours/#.Xv8ovCiFqCo)
+[De quelle couleur est l'ours ? - Pourquoi Comment Combien](/2013/10/08/de-quelle-couleur-est-lours/#.Xv8ovCiFqCo)

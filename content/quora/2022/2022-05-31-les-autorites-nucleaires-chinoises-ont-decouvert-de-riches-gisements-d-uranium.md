@@ -21,6 +21,6 @@ Ce que ça signifie pour le reste du monde est que dans quelques années, nous i
 
 Un peu de lecture :
 
-[https://www.drgoulu.com/2014/05/...](https://www.drgoulu.com/2014/05/24/bure-pour-leternite/)
+[https://www.drgoulu.com/2014/05/...](/2014/05/24/bure-pour-leternite/)
 
-[https://www.drgoulu.com/2013/05/...](https://www.drgoulu.com/2013/05/18/latome-vert-le-thorium/)
+[https://www.drgoulu.com/2013/05/...](/2013/05/18/latome-vert-le-thorium/)

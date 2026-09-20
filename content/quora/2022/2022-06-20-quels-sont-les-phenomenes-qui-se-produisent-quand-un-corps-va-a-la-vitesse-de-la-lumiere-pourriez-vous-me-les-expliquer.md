@@ -31,4 +31,4 @@ Ce qui est vraiment étrange, c'est qu'à cette vitesse, le vaisseau peut toujou
 
 Les seuls problèmes sont donc bassement matériels : avoir assez d'énergie pour accélérer à cette vitesse, et ne pas se fracasser contre une poussière.
 
-[https://www.drgoulu.com/2004/08/...](https://www.drgoulu.com/2004/08/09/acceleration/)
+[https://www.drgoulu.com/2004/08/...](/2004/08/09/acceleration/)

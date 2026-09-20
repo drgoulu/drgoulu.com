@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Que-connaissez-vous-dintéressant-en-rapport-avec-lastronomie/answer/Dr-Goulu)*
 
-Le mooc de l'EPFL ? C'est là que je l'ai vu ! [La tête dans les étoiles - Pourquoi Comment Combien](https://www.drgoulu.com/2014/11/18/la-tete-dans-les-etoiles/)
+Le mooc de l'EPFL ? C'est là que je l'ai vu ! [La tête dans les étoiles - Pourquoi Comment Combien](/2014/11/18/la-tete-dans-les-etoiles/)

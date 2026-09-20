@@ -33,4 +33,4 @@ Une des plus jolies introduction à ceci est la [documentation python](https://d
 
 Et le plus bel exemple que je connaisse est ma classe Sequence (donc objet) qui implante des suites d'entiers infinies (en programmation fonctionnelle) :
 
-[https://drgoulu.com/2017/06/26/s...](https://drgoulu.com/2017/06/26/series-infinies-et-oeis-en-python/)
+[https://drgoulu.com/2017/06/26/s...](/2017/06/26/series-infinies-et-oeis-en-python/)

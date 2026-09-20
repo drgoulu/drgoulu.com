@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Un chef d'œuvre à lire absolument pour comprendre plein de choses, comme par exemple la stratégie globale de la Chine actuellement…
 
-[https://www.drgoulu.com/2007/08/...](https://www.drgoulu.com/2007/08/08/et-sun-tzu/)
+[https://www.drgoulu.com/2007/08/...](/2007/08/08/et-sun-tzu/)

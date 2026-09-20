@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Oh que non, au contraire, cette idée est à la base de l'évolution. Elle constitue justement "l'étrange inversion du raisonnement" que ses opposants reprochaient à Darwin
 
-([Pourquoi on aime le joli, le sexy, le sucré et le drôle - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/))
+([Pourquoi on aime le joli, le sexy, le sucré et le drôle - Pourquoi Comment Combien](/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/))
 
 L'évolution n'a aucun but, c'est le mécanisme qui permet à la vie (Dawkins dirait même : au gène égoïste) de se perpétuer. Ce mécanisme est une course extrêmement rapide, parallèle et compétitive, mais sans ligne d'arrivée. Les gagnants sont les espèces qui survivent aux changements.

@@ -26,4 +26,4 @@ C'est en les découvrant que j'ai réalisé que les [Patrons de conception](w:Pa
 
 Bien sur on peut écrire des décorateurs dans presque tous les langages, mais en Python c'est simple, et donc beau.
 
-[les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](https://www.drgoulu.com/2010/12/03/les-decorateurs-python/)
+[les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](/2010/12/03/les-decorateurs-python/)

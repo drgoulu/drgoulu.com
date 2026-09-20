@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui, la transmission d'énergie sans fil à grande distance. C'était une extension logique des ondes radio à son époque, mais hors de la portée technologique de l'époque. Et aujourd'hui des gens hurlent pour quelques mW, alors je vous laisse imaginer avec des MW …
 
-[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](/2012/08/19/nikola-tesla-genie-mais-connu/)

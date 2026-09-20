@@ -27,4 +27,4 @@ Daniel L. Schacter, Donna Rose Addis and Randy L. Buckner, [Remembering the past
 
 Non seulement la mémoire n'est utile que si on s'en sert pour "prédire" le futur, mais ce sont les mêmes zones du cerveau qui ont ces deux fonctions
 
-[https://www.drgoulu.com/2009/06/...](https://www.drgoulu.com/2009/06/27/neurologie-du-temps/)
+[https://www.drgoulu.com/2009/06/...](/2009/06/27/neurologie-du-temps/)

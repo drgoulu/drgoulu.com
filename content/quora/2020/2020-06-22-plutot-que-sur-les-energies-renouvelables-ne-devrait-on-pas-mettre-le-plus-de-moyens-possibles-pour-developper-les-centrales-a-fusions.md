@@ -25,4 +25,4 @@ Peut-être que ça marchera un jour, mais on ne sait pas quel sera le prix du kW
 
 Pendant ce temps, les panneaux solaires fonctionnent de mieux en mieux, pour de moins en moins cher. Et après tout, ils captent l'énergie d'une "centrale" à fusion…
 
-[la fusion thermonucléaire - Pourquoi Comment Combien](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[la fusion thermonucléaire - Pourquoi Comment Combien](/2005/12/11/la-fusion-thermonucleaire/)

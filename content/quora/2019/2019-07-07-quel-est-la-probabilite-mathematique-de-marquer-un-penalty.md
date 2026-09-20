@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 En 2008, un excellent bouquin l'avait mesurée à 75%
 
-[La science du football - Pourquoi Comment Combien](https://www.drgoulu.com/2008/05/09/la-science-du-football/)
+[La science du football - Pourquoi Comment Combien](/2008/05/09/la-science-du-football/)

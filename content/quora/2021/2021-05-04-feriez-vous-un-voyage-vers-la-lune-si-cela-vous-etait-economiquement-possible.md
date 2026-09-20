@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Sans hésiter. D'ailleurs dans les années 1970, mon père m'avait promis qu'on pourrait vers l'an 2000…
 
-[https://www.drgoulu.com/2013/04/...](https://www.drgoulu.com/2013/04/28/pourquoi-je-kiffe-la-science/)
+[https://www.drgoulu.com/2013/04/...](/2013/04/28/pourquoi-je-kiffe-la-science/)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Discrètes. Les briques sont 4D avec un Temps de Planck.
 
-De plus à cette échelle, distance, surface et volume se confondent. Voir [Principe holographique — Wikipédia](w:Principe_holographique), et [Selon Newton, l'univers serait digital - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+De plus à cette échelle, distance, surface et volume se confondent. Voir [Principe holographique — Wikipédia](w:Principe_holographique), et [Selon Newton, l'univers serait digital - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)

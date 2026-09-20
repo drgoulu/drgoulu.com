@@ -15,4 +15,4 @@ Même pas en Suisse.
 
 Dans le genre connerie de technocrate européen, l'acceptation des cookies est un modèle.
 
-[https://drgoulu.com/2016/08/14/b...](https://drgoulu.com/2016/08/14/bits-en-vrac-2/)
+[https://drgoulu.com/2016/08/14/b...](/2016/08/14/bits-en-vrac-2/)

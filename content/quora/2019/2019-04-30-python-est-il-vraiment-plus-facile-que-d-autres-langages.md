@@ -15,4 +15,4 @@ Au début oui. On peut commencer par le voir (et l’utiliser) comme un langage 
 
 Je dirais que c’est le langage le plus “progressif” que j’aie vu : le plus simple à aborder, et le plus complet quand on progresse
 
-[les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](https://www.drgoulu.com/2010/12/03/les-decorateurs-python/)
+[les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](/2010/12/03/les-decorateurs-python/)

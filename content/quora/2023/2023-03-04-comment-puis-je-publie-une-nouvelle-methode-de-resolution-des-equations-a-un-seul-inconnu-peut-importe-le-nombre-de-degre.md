@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ben vous la publiez sur Quora ou n'importe quel blog avec votre nom et la date.
 
-J'ai faut ça avec les [nombres acratopèges](https://www.drgoulu.com/2008/08/24/nombres-acratopeges/#.ZARDmaTfs0F)et c'est devenu le [fossé de Sloane](https://www.drgoulu.com/2011/04/10/le-fosse-de-sloane/#.ZARD3aTfs0E), une notion référencée dans le [Dictionnaire amoureux des mathématiques](https://www.babelio.com/livres/Deledicq-Dictionnaire-amoureux-des-mathematiques/1314261), la gloire !
+J'ai faut ça avec les [nombres acratopèges](/2008/08/24/nombres-acratopeges/#.ZARDmaTfs0F)et c'est devenu le [fossé de Sloane](/2011/04/10/le-fosse-de-sloane/#.ZARD3aTfs0E), une notion référencée dans le [Dictionnaire amoureux des mathématiques](https://www.babelio.com/livres/Deledicq-Dictionnaire-amoureux-des-mathematiques/1314261), la gloire !

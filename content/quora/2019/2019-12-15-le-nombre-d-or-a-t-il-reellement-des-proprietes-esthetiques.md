@@ -17,4 +17,4 @@ Faites le test vous-même :
 
 Quels sont les rectangles les plus "esthétiques" ?
 
-Solution dans [Nombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+Solution dans [Nombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/)

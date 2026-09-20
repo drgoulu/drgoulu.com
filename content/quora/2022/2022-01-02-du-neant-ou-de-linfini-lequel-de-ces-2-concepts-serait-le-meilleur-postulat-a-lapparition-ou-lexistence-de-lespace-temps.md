@@ -25,7 +25,7 @@ Votre question ne mentionne que des sujets scientifiques alors que les notions d
 
 Si c'est la physique qui vous intéresse, familiarisez-vous avec le concept d'[Univers à énergie nulle](w:) et de [Fluctuation quantique du vide](w:Fluctuation_quantique) qui va avec, les diverses notions de [Flèches du temps](w:Flèche_du_temps), la [Mousse quantique](w:)ou mousse de spin et des choses comme la [Causal dynamical triangulation](w:en:Causal_dynamical_triangulation) et la [induced gravity ou "Graphité quantique"](w:en:Induced_gravity) décrites notamment au chapitre 15 de ce bouquin :
 
-[https://www.drgoulu.com/2015/12/...](https://www.drgoulu.com/2015/12/31/la-renaissance-du-temps-22/)
+[https://www.drgoulu.com/2015/12/...](/2015/12/31/la-renaissance-du-temps-22/)
 
 Ou si vous n'avez pas le courage, représentez vous le temps sur une échelle logarithmique, comme ça vous verrez que le Big Bang n'est pas un événement mais une transformation continue de l'Univers , et que dans très très, mais alors vraiment très longtemps, l'Univers sera à nouveau dans une état de vide tel qu'une nouvelle grosse fluctuation quantique alias Big Bang pourra se reproduire.
 

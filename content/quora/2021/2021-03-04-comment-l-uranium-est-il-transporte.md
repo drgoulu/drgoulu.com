@@ -41,4 +41,4 @@ Là c'est beaucoup plus délicat, dangereux, blindé etc. Mais pas à cause de l
 
 L'Usine de retraitement va recycler les 94.5% d'U238 et les 0.86% d'U235, vendre (ou donner…) le 1% de Plutonium à ses militaires préférés en leur disant "si vous n'aviez pas été là, on aurait fait le nucléaire au thorium…", et stocker le reste comme elle peut.
 
-[https://www.drgoulu.com/2014/05/...](https://www.drgoulu.com/2014/05/24/bure-pour-leternite/#.YEFAKGhsOCo)
+[https://www.drgoulu.com/2014/05/...](/2014/05/24/bure-pour-leternite/#.YEFAKGhsOCo)

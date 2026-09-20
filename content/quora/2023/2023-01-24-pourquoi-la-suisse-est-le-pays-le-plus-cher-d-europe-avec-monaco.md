@@ -36,4 +36,4 @@ Notes de bas de page
 
 [[4]](#cite-BvAyu)[Taux d'inflation en Suisse](https://www.donneesmondiales.com/europe/suisse/inflation.php)
 
-[[5]](#cite-HSCjr)[Combien vaut 1 franc ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/03/combien-vaut-1-franc/#.Y8_9dHZsOCo)
+[[5]](#cite-HSCjr)[Combien vaut 1 franc ? - Pourquoi Comment Combien](/2009/04/03/combien-vaut-1-franc/#.Y8_9dHZsOCo)

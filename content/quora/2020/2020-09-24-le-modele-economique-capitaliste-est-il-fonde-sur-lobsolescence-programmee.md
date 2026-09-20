@@ -15,7 +15,7 @@ Non.
 
 Jusqu'à preuve du contraire, l'obsolescence n'est pas programmée.
 
-[L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/01/lobsolescence-est-elle-programmee-2/)
+[L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](/2013/05/01/lobsolescence-est-elle-programmee-2/)
 
 Le "modèle économique capitaliste" est basé sur la psychologie humaine : je veux moins me fatiguer pour avoir à manger, je veux être sur d'avoir à manger demain, je veux que mes enfants aient à manger aussi…
 

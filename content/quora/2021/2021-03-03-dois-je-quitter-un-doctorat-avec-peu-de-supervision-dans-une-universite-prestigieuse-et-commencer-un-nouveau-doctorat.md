@@ -17,4 +17,4 @@ Mais l'université prestigieuse l'est peut être justement (en partie) parce qu'
 
 Lisez ça :
 
-[https://www.drgoulu.com/2014/06/...](https://www.drgoulu.com/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/)
+[https://www.drgoulu.com/2014/06/...](/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/)

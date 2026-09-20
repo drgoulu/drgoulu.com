@@ -21,7 +21,7 @@ coverImage: ./images/quora.png
 
 La production de chaleur par :
 
-- [La radioactivité naturelle](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/) pour les planètes ayant la chance de contenir de l'Uranium, du Thorium et/ou du Potassium 40
+- [La radioactivité naturelle](/2013/11/03/la-radioactivite-naturelle/) pour les planètes ayant la chance de contenir de l'Uranium, du Thorium et/ou du Potassium 40
 - [L'effet de marée](w:Réchauffement_par_effet_de_marée), surtout pour des satellites dans notre système solaire, mais très possible pour les exoplanètes orbitant près de leur étoile.
 
 Sans ces sources, de chaleur, la Terre serait refroidie depuis bien longtemps, 400 millions d'années "seulement" après sa formation. ([Âge de la Terre — Wikipédia](w:Âge_de_la_Terre))

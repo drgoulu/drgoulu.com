@@ -15,6 +15,6 @@ En [Mécanique quantique](w:), la [Symétrie T](w:) ne permet pas de distinguer 
 
 Dans le [Modèle standard de la physique des particules](w:), la Symétrie T est très légèrement imparfaite, car la [Symétrie CP](w:) l'est expérimentalement alors que la [Symétrie CPT](w:) est (théoriquement et expérimentalement) parfaite. Ceci distingue les causes des effets et fait émerger la notion de temps, et donc la causalité, encore probabiliste à cette échelle mais de plus en plus déterministe à grande échelle via le phénomène de [Décohérence quantique](w:).
 
-Le lien extrêmement profond entre le temps (et donc la causalité) la symétrie matière/antimatière (C) et la symétrie gauche/droite (P) reste un profond mystère, en tout cas pour moi… (voir [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/04/miroir/))
+Le lien extrêmement profond entre le temps (et donc la causalité) la symétrie matière/antimatière (C) et la symétrie gauche/droite (P) reste un profond mystère, en tout cas pour moi… (voir [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/))
 
 Donc la réponse ontologique à votre question est "ça dépend". Il faut petit à petit se faire à l'idée que les révolutions de la physique du début du 20ème siècle, mais aussi celle de la logique avec le théorème de Gödel notamment, font que les scientifiques répondent de plus en plus souvent "ça dépend" à des questions qui touchent aux principes philosophiques limpides jusque là…

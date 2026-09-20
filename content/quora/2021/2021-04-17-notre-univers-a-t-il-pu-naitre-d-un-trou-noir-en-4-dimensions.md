@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non. Un univers à 4 dimensions spatiales est trop différent.
 
-[https://www.drgoulu.com/2011/01/...](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+[https://www.drgoulu.com/2011/01/...](/2011/01/30/pourquoi-3-dimensions-1-temps/)

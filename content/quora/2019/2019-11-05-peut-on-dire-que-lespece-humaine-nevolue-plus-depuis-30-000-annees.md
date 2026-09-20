@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non on ne peut pas. Elle évolue toujours, ça n'arrête pas, et il n'y a aucune raison que ça s'arrête.
 
-En 30'000 ans il y a notamment eu [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/).
+En 30'000 ans il y a notamment eu [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/).

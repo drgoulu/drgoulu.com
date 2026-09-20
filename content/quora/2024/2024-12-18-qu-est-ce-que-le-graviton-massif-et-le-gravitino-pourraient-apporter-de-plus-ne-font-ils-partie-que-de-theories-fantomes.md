@@ -32,8 +32,8 @@ C'est 10000 fois moins que la borne supérieure de la masse du [Photon](w:)($5×
 
 Un peu de lecture :
 
-1. [Suites, Courbes et Théories - Pourquoi Comment Combien](https://drgoulu.com/2008/08/23/suites-courbes-et-theories/)
-2. [Solutions admissibles - Pourquoi Comment Combien](https://drgoulu.com/2016/09/11/solutions-admissibles/)
+1. [Suites, Courbes et Théories - Pourquoi Comment Combien](/2008/08/23/suites-courbes-et-theories/)
+2. [Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)
 
 Notes de bas de page
 

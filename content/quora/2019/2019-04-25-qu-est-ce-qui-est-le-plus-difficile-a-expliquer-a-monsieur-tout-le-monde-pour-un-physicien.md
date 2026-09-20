@@ -29,6 +29,6 @@ regardez la peine qu’a Richard Feynman, Prix Nobel de Physique et pédagogue h
 
 En fait il élude la question en commençant par demander “qu’entendez-vous par pourquoi ?”, et en continuant par expliquer que le “pourquoi” dépend des connaissances de la personne qui pose la question.
 
-[Bon anniversaire, Richard Feynman! - Pourquoi Comment Combien](https://www.drgoulu.com/2018/05/11/bon-anniversaire-richard-feynman/)
+[Bon anniversaire, Richard Feynman! - Pourquoi Comment Combien](/2018/05/11/bon-anniversaire-richard-feynman/)
 
 (et non, je n’ai toujours pas fini la traduction… en fait je l’avais oubliée…)

@@ -27,10 +27,10 @@ Les maths décrivant le vide, ce sont des [Champs](w:Champ_(physique)).
 
 L'essence, c'est un truc de philosophes infoutus de montrer une essence de quoi que ce soit depuis des millénaires, mais si vous voulez un petit shoot de physique théorique, lisez
 
-[https://www.drgoulu.com/2011/08/...](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/#.YmLXkBi-g0E)
+[https://www.drgoulu.com/2011/08/...](/2011/08/13/selon-newton-lunivers-serait-digital/#.YmLXkBi-g0E)
 
 sur les briques d espace-temps et le chapitre 15 du bouquin de Smolin résumé ici
 
-[https://www.drgoulu.com/2015/12/...](https://www.drgoulu.com/2015/12/31/la-renaissance-du-temps-22/#.YmLYKhi-g0E)
+[https://www.drgoulu.com/2015/12/...](/2015/12/31/la-renaissance-du-temps-22/#.YmLYKhi-g0E)
 
 sur la la “[triangulation dynamique causale](http://www.wikipedia.org/search-redirect.php?language=en&go=Go&search=causal+dynamical+triangulation)” ou la “[graphité quantique](http://www.wikipedia.org/search-redirect.php?language=en&go=Go&search=quantum+graphity)” (sic)

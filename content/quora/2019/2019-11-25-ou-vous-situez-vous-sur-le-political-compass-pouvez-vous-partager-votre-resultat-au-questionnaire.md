@@ -29,7 +29,7 @@ Voici par exemple la carte du positionnement des 200 parlementaires fraîchement
 
 ![](./images/qimg-3e9934171dfdeba7862df9f37a31cd0e.jpg)
 
-A l'occasion de la présidentielle française, je m'étais demandé dans [La politique française dans la 2ème dimension ? - Pourquoi Comment Combien](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/) si le deuxième axe n'était pas devenu principal…
+A l'occasion de la présidentielle française, je m'étais demandé dans [La politique française dans la 2ème dimension ? - Pourquoi Comment Combien](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/) si le deuxième axe n'était pas devenu principal…
 
 Suite à cet article, une petite collaboration s'est engagée pour appliquer la méthode à l'Assemblée Nationale en utilisant la base de données des votes nominatifs qui était disponible sous Hollande ( [Votes - Opendata - Assemblée nationale](http://data.assemblee-nationale.fr/travaux-parlementaires/votes) Je m'aperçois à l'instant que ces données sont toujours disponibles pour la nouvelle législature)
 

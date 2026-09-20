@@ -25,4 +25,4 @@ Notes de bas de page
 
 [[1]](#cite-qhBig)[Vladimir Poutine poussé dans les cordes par une économie russe en difficulté](https://www.rts.ch/info/monde/2025/article/penurie-de-main-d-uvre-en-russie-l-economie-de-poutine-sous-pression-28884777.html)
 
-[[2]](#cite-ojvnA)[Et Sun Tzu ? - Pourquoi Comment Combien](https://drgoulu.com/2007/08/08/et-sun-tzu/)
+[[2]](#cite-ojvnA)[Et Sun Tzu ? - Pourquoi Comment Combien](/2007/08/08/et-sun-tzu/)

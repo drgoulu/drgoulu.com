@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce que c'est un sport qui laisse une grande part au hasard, donc une équipe faible peut s'imposer face à une forte et fâcher les supporters qui croient qu' "on est les meilleurs". Peut-être, mais ça ne suffit pas…
 
-[https://drgoulu.com/2008/05/09/l...](https://drgoulu.com/2008/05/09/la-science-du-football/)
+[https://drgoulu.com/2008/05/09/l...](/2008/05/09/la-science-du-football/)

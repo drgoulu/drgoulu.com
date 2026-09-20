@@ -27,4 +27,4 @@ Selon l'art de la guerre de Sun Tzu, avec des troupes motivées, sur leur terrai
 
 Ce n’est d’ailleurs qu’après le Vietnam que les écoles militaires américaines commencèrent à étudier attentivement Sun Tzu…
 
-[https://www.drgoulu.com/2007/08/...](https://www.drgoulu.com/2007/08/08/et-sun-tzu/)
+[https://www.drgoulu.com/2007/08/...](/2007/08/08/et-sun-tzu/)

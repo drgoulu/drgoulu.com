@@ -48,5 +48,5 @@ Les langages ça va ça vient avec les modes. La programmation reste.
 
 Ok, il y a tout de même des différences entre les langages adaptés au front-end (interface web) et au back-end (ce qui tourne sur le serveur). Aujourd'hui je dirais:
 
-- Python pour le back-end ( voir [les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](https://www.drgoulu.com/2010/12/03/les-decorateurs-python/#.XvS9iyiiGCo) )
+- Python pour le back-end ( voir [les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](/2010/12/03/les-decorateurs-python/#.XvS9iyiiGCo) )
 - TypeScript pour le front-end. Ces temps-ci je me mets aux [Composants web](w:) avec [Stencil](https://stenciljs.com/docs/introduction), et c'est cool ( il y a même des décorateurs …)

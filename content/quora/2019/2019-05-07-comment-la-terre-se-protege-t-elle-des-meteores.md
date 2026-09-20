@@ -31,4 +31,4 @@ Je pars de l’idée que vous vouliez dire “[Météorite](w:)”. La Terre s�
 
 Les humains, enfin surtout les américains grâce à leur culture paranoïaque, ont répertorié beaucoup de cailloux, calculent leurs orbites et évaluent les risques d’une collision future. Peut-être que dans un futur proche on sera capables d’écarter un caillou dangereux de sa trajectoire en s’y prenant plusieurs années à l’avance.
 
-[Risques météoritiques - Pourquoi Comment Combien](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/#.XNHzXY6iGCo)
+[Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/#.XNHzXY6iGCo)

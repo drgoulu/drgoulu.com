@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Si il l'a fait (ce dont je doute) c'est à quelques mètres pour ne pas dire centimètres. Et le champ électromagnétique dépassait toutes les normes de sécurité actuelles.
 
-[https://www.drgoulu.com/2012/08/...](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[https://www.drgoulu.com/2012/08/...](/2012/08/19/nikola-tesla-genie-mais-connu/)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Vous êtes sur que le RN est d'extrême droite ?
 
-[https://drgoulu.com/2017/05/14/l...](https://drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://drgoulu.com/2017/05/14/l...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)

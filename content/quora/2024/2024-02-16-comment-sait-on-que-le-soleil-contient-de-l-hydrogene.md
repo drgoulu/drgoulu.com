@@ -29,4 +29,4 @@ En 1868, [Jules Janssen](w:) détecte une raie du spectre solaire qui ne corresp
 
 Ce n'est qu'en 1903 qu'on trouve accidentellement de l'hélium dans un gisement de gaz naturel aux USA, et en 1920 qu'Arthur Eddington comprend que l'hydrogène fusionne en hélium dans les étoiles
 
-[https://drgoulu.com/2010/07/04/c...](https://drgoulu.com/2010/07/04/combien-dhelium/)
+[https://drgoulu.com/2010/07/04/c...](/2010/07/04/combien-dhelium/)

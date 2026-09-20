@@ -17,4 +17,4 @@ Il n'y a aucune expérience qui laisse penser qu'elles existent en physique. Au 
 
 Notamment, les trous noirs tournent très précisément à la vitesse qui cache leur singularité, s'ils en ont une.
 
-[A combien tourne un trou noir ? - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/#.Xi2jkGhsOCo)
+[A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/#.Xi2jkGhsOCo)

@@ -40,7 +40,7 @@ Ceux qui prétendent avoir mieux doivent :
 1. montrer que leur modèle correspond à TOUTES les observations actuelles (et il y en a beaucoup)
 2. décrire une expérience (réalisable…) permettant de distinguer leur modèle du [Modèle ΛCDM](w:)
 
-Autrement c'est juste de la "sculpture sur nuages" comme disait mon prof de physique (voir [Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/) )
+Autrement c'est juste de la "sculpture sur nuages" comme disait mon prof de physique (voir [Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/) )
 
 Notes de bas de page
 

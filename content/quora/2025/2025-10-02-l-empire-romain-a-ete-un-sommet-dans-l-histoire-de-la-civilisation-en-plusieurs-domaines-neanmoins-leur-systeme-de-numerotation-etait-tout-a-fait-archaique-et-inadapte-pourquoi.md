@@ -23,6 +23,6 @@ Aujourd'hui la notation positionnelle est si naturelle qu'elle nous semble évid
 
 Notes de bas de page
 
-[[1]](#cite-rmuud)[Histoire d'angles - Pourquoi Comment Combien](https://drgoulu.com/2010/01/16/histoire-dangles/)
+[[1]](#cite-rmuud)[Histoire d'angles - Pourquoi Comment Combien](/2010/01/16/histoire-dangles/)
 
-[[2]](#cite-FTYCs)[Comment comptent les Extraterrestres - Pourquoi Comment Combien](https://drgoulu.com/2011/09/25/comment-comptent-les-extraterrestres/)
+[[2]](#cite-FTYCs)[Comment comptent les Extraterrestres - Pourquoi Comment Combien](/2011/09/25/comment-comptent-les-extraterrestres/)

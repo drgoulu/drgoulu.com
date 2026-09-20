@@ -15,6 +15,6 @@ cette petite vidéo répond à votre première question:
 
 [https://youtu.be/JTaMfufMl1o](https://youtu.be/JTaMfufMl1o)
 
-(voir [Comment expliquer la relativité aux enfants - Pourquoi Comment Combien](https://www.drgoulu.com/2013/12/15/comment-expliquer-la-relativite-aux-enfants/#.YBLHDuhsOCo) )
+(voir [Comment expliquer la relativité aux enfants - Pourquoi Comment Combien](/2013/12/15/comment-expliquer-la-relativite-aux-enfants/#.YBLHDuhsOCo) )
 
 Pour la seconde, je ne la comprends pas, commencez par définir le mot "Dieu" svp. (je suis [ignostique,](w:Ignosticisme) avec un i)

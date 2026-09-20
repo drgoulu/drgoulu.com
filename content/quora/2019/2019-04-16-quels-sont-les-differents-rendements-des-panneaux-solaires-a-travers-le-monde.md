@@ -40,4 +40,4 @@ Notes de bas de page
 
 [[1]](#cite-MUHku)[A Review of the Energy Performance and Life-Cycle Assessment of Building-Integrated Photovoltaic (BIPV) Systems](https://www.mdpi.com/1996-1073/11/11/3157/htm)
 
-[[2]](#cite-zItzg)[Comment on mesure le rendement des cellules solaires - Pourquoi Comment Combien](https://www.drgoulu.com/2010/05/09/comment-on-mesure-le-rendement-des-cellules-solaires/#.XLYug-iiGCp)
+[[2]](#cite-zItzg)[Comment on mesure le rendement des cellules solaires - Pourquoi Comment Combien](/2010/05/09/comment-on-mesure-le-rendement-des-cellules-solaires/#.XLYug-iiGCp)

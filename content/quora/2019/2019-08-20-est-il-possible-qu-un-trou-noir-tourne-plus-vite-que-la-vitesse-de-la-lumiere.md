@@ -27,4 +27,4 @@ Les trous noirs dont on a mesuré la vitesse de rotation en sont très proches. 
 
 Ceci a une conséquence intéressante : les trous noirs doivent avoir une moyen de régurgiter du moment cinétique lorsqu'ils absorbent de la matière… Les jets ?
 
-[A combien tourne un trou noir ? - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/)

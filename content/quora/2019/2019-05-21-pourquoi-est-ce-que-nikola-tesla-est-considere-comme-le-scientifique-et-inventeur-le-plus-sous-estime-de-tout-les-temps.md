@@ -23,4 +23,4 @@ Ce n'est pas le cas. Les inventeurs les plus sous estimés sont ceux dont on a o
 
 Nikola Tesla est par contre un scientifique très surestimé par certains, dans la mesure où il n'a produit aucune théorie, équation ou publication remarquable.
 
-[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](/2012/08/19/nikola-tesla-genie-mais-connu/)

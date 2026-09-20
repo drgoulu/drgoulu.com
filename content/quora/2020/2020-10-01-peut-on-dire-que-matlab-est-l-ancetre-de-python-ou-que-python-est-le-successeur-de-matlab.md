@@ -17,6 +17,6 @@ oui mais ce n'était pas prévu. Dans [Q&A: Guido van Rossum on Python's next st
 
 Ce sont donc les librairies Python mentionnées, auxquelles j'ajouterais [Matplotlib](https://matplotlib.org/) qui ont donné à Python la quasi totalité des fonctionnalités de Matlab. Mais c'est parce que le langage était suffisamment ouvert pour le faire plutôt qu'une intention de conception.
 
-C'est une excellente illustration [d](https://www.drgoulu.com/2008/01/21/perlisismes-les-dictons-informatiques-dalan-perlis/)'un [dicton informatiques d'Alan Perlis](https://www.drgoulu.com/2008/01/21/perlisismes-les-dictons-informatiques-dalan-perlis/)
+C'est une excellente illustration [d](/2008/01/21/perlisismes-les-dictons-informatiques-dalan-perlis/)'un [dicton informatiques d'Alan Perlis](/2008/01/21/perlisismes-les-dictons-informatiques-dalan-perlis/)
 
 > Tout programme a (au moins) deux buts : celui pour lequel il a été écrit, et celui pour lequel il ne l’a pas été.

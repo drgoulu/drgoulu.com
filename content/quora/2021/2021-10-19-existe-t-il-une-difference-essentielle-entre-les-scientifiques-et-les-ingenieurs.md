@@ -17,4 +17,4 @@ celles des ingénieurs par "comment …"
 
 ( et celles des managers par "combien …")
 
-[Pourquoi Comment Combien - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/07/pourquoi-comment-combien/)
+[Pourquoi Comment Combien - Pourquoi Comment Combien](/2009/03/07/pourquoi-comment-combien/)

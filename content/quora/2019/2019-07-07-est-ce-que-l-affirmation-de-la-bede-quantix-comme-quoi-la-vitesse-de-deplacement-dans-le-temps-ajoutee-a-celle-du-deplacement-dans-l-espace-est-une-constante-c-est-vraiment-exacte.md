@@ -15,7 +15,7 @@ Mouais, elle m'a l'air un peu "survulgarisée" cette BD. Effectivement la notion
 
 Personnellement je préfère l'expliquer ainsi (dites moi si c'est plus clair… ou pas…):
 
-- la relativité voit le temps comme une dimension perpendiculaire à l'espace. Si vous connaissez les nombres complexes, on peut même dire que [Le temps est une 4ème dimension imaginaire](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/) au sens mathématique, comme on le voit dans la [Métrique de Minkowski](w:). Et si vous n'êtes pas bon en maths, vous pouvez voir le temps comme l'épaisseur d'un flipbook, perpendiculaire aux pages (2D) et formant une dimension d'une "nature" différente:
+- la relativité voit le temps comme une dimension perpendiculaire à l'espace. Si vous connaissez les nombres complexes, on peut même dire que [Le temps est une 4ème dimension imaginaire](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/) au sens mathématique, comme on le voit dans la [Métrique de Minkowski](w:). Et si vous n'êtes pas bon en maths, vous pouvez voir le temps comme l'épaisseur d'un flipbook, perpendiculaire aux pages (2D) et formant une dimension d'une "nature" différente:
 
 [https://youtu.be/UocF4ycBnYE](https://youtu.be/UocF4ycBnYE)
 

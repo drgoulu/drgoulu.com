@@ -17,4 +17,4 @@ Il était un physicien génial, mais sa vie privée était proche du ratage tota
 
 La plupart des "citations" de lui que vous trouvez sur internet sont fausses. Et même certaines que vous trouvez dans des livres.
 
-[https://www.drgoulu.com/2008/11/...](https://www.drgoulu.com/2008/11/26/ce-queinstein-na-jamais-dit/#.Y6_9QaTfs0E)
+[https://www.drgoulu.com/2008/11/...](/2008/11/26/ce-queinstein-na-jamais-dit/#.Y6_9QaTfs0E)

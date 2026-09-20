@@ -17,4 +17,4 @@ Bon alors il faut de la masse négative qu'on a jamais vu ou de l'énergie néga
 
 Bref, si c'est une solution admissible non seulement en maths mais en physique, alors peut-être dans quelques millénaires…
 
-[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)

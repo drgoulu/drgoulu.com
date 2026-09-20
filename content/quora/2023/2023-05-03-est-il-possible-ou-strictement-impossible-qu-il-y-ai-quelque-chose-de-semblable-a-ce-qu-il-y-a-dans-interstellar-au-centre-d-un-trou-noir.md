@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Interstellar est un film de fiction, pas de science. "Strictement impossible" n'est peut-être pas le bon terme, je dirais que c'est plutôt "de la poésie pure". Mignon, émouvant, mais sans aucune base physique vraisemblable.
 
-[https://www.drgoulu.com/2014/11/...](https://www.drgoulu.com/2014/11/29/interstellar/#.ZFLEHHaiGCo)
+[https://www.drgoulu.com/2014/11/...](/2014/11/29/interstellar/#.ZFLEHHaiGCo)

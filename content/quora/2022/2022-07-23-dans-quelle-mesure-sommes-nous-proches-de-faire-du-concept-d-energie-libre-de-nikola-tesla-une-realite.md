@@ -21,4 +21,4 @@ En 1893, Tesla disait dans une conférence
 
 Il s'est planté : l'énergie du vide est "statique". Toutes ses recherches auront été vaines.
 
-[https://www.drgoulu.com/2012/08/...](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/#.YtxYw6S-g0E)
+[https://www.drgoulu.com/2012/08/...](/2012/08/19/nikola-tesla-genie-mais-connu/#.YtxYw6S-g0E)

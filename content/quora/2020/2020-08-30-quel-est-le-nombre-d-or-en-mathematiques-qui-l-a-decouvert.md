@@ -17,4 +17,4 @@ Le [Nombre d'or](w:)est mentionné clairement pour la première fois dans les de
 
 Notes de bas de page
 
-[[1]](#cite-qwhar)[Nombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[[1]](#cite-qwhar)[Nombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/)

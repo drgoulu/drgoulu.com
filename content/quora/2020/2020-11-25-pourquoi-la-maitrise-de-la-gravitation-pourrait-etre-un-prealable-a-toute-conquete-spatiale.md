@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Parce que pour aller dans l'espace, il faut commencer par décoller de la Terre.
 
-[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](https://www.drgoulu.com/2012/09/05/un-petit-pas-pour-lhomme/)
+[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](/2012/09/05/un-petit-pas-pour-lhomme/)
 
 Les fusées servent exactement à ça : maîtriser la gravitation.

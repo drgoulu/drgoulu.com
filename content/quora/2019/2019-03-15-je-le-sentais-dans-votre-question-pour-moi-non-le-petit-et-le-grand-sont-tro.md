@@ -15,6 +15,6 @@ je le sentais dans votre question ;-)
 
 Pour moi non, le petit et le grand sont trop différents, à part le fond noir…
 
-[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)
 
-[La Renaissance du Temps 1/2 - Pourquoi Comment Combien](https://www.drgoulu.com/2015/01/28/la-renaissance-du-temps/)
+[La Renaissance du Temps 1/2 - Pourquoi Comment Combien](/2015/01/28/la-renaissance-du-temps/)

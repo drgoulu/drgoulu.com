@@ -30,4 +30,4 @@ Pendant ce-temps, un superbe réacteur à fusion nous éclaire et nous réchauff
 
 Notes de bas de page
 
-[[1]](#cite-PsltI)[la fusion thermonucléaire - Pourquoi Comment Combien](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[[1]](#cite-PsltI)[la fusion thermonucléaire - Pourquoi Comment Combien](/2005/12/11/la-fusion-thermonucleaire/)

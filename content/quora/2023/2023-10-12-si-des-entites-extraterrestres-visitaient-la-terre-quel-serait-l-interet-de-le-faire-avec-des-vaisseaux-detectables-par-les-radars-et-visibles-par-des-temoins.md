@@ -29,11 +29,11 @@ Les ovni c'est ça (jusqu'à preuve du contraire…) : des petits malins qui se 
 
 Un petit exemple de ceux qui se la pètent :
 
-[https://www.drgoulu.com/2020/07/...](https://www.drgoulu.com/2020/07/24/i-dont-want-to-believe/)
+[https://www.drgoulu.com/2020/07/...](/2020/07/24/i-dont-want-to-believe/)
 
 Plus sérieusement :
 
-[https://www.drgoulu.com/2011/11/...](https://www.drgoulu.com/2011/11/06/la-route-que-nous-navons-pas-prise/)
+[https://www.drgoulu.com/2011/11/...](/2011/11/06/la-route-que-nous-navons-pas-prise/)
 
 encore plus sérieusement
 

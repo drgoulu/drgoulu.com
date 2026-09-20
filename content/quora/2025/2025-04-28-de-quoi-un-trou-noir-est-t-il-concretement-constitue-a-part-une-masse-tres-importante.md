@@ -41,4 +41,4 @@ Mon idée préférée est que l'intérieur de l'horizon des événements n'exist
 
 Notes de bas de page
 
-[[1]](#cite-WTRfE)[A combien tourne un trou noir ? - Pourquoi Comment Combien](https://drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[[1]](#cite-WTRfE)[A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/)

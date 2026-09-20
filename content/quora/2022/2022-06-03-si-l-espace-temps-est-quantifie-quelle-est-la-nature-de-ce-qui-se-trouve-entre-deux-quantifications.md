@@ -25,7 +25,7 @@ Ce serait justement cet espace-temps qui serait composés de petits hypercubes, 
 
 Je vous ai vulgarisé + francisé ça ici :
 
-[https://www.drgoulu.com/2011/08/...](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[https://www.drgoulu.com/2011/08/...](/2011/08/13/selon-newton-lunivers-serait-digital/)
 
 Ces petits "atomes d' espace-temps" n'ont pas besoin d'avoir un véritable volume avec quelque chose "dedans". Nous le percevons comme tel mais à leur échelle, les notions de longueur, de surface et de volume s'entremêlent.
 
@@ -35,4 +35,4 @@ L'idée principale de ces théories est (une fois de plus en sciences) d'inverse
 
 Dans le même genre d'idées il y a par exemple la "[Causal dynamical triangulation](w:en:Causal_dynamical_triangulation)" et la [Quantum graphity](https://en.wikipedia.org/w/index.php?title=Quantum_graphity) dont cause Smolin au chapitre 15 du bouquin dont je cause ici :
 
-[https://www.drgoulu.com/2015/12/...](https://www.drgoulu.com/2015/12/31/la-renaissance-du-temps-22/)
+[https://www.drgoulu.com/2015/12/...](/2015/12/31/la-renaissance-du-temps-22/)

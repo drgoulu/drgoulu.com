@@ -27,4 +27,4 @@ Notes de bas de page
 
 [[1]](#cite-SGwpF)[Out‐of‐body experience and autoscopy of neurological origin](https://academic.oup.com/brain/article/127/2/243/347826)
 
-[[2]](#cite-tPaUb)[James Randi au TED - Pourquoi Comment Combien](https://www.drgoulu.com/2010/04/25/james-randi-au-ted/#.YD87vWhsOCo)
+[[2]](#cite-tPaUb)[James Randi au TED - Pourquoi Comment Combien](/2010/04/25/james-randi-au-ted/#.YD87vWhsOCo)

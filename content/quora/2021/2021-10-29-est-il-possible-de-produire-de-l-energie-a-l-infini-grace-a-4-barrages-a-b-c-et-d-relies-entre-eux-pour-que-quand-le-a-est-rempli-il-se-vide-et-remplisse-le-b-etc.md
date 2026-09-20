@@ -15,4 +15,4 @@ Non, sinon on l'aurait fait depuis longtemps.
 
 En fait si l énergie pouvait être créée, l'univers serait très très différent de ce qu'il est.
 
-[https://www.drgoulu.com/2012/05/...](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[https://www.drgoulu.com/2012/05/...](/2012/05/27/dites-non-au-mouvement-perpetuel/)

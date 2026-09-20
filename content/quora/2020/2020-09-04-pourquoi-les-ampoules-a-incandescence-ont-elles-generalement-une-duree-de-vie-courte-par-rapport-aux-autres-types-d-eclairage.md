@@ -30,4 +30,4 @@ Vous avez déjà regardé un filament de près ?
 
 le fil fait 46 microns de diamètre, avec une tolérance de 0.5% …
 
-[La véritable histoire de l'ampoule de Livermore - Pourquoi Comment Combien](https://www.drgoulu.com/2011/10/16/la-veritable-histoire-de-lampoule-de-livermore/)
+[La véritable histoire de l'ampoule de Livermore - Pourquoi Comment Combien](/2011/10/16/la-veritable-histoire-de-lampoule-de-livermore/)

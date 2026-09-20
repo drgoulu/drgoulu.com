@@ -31,4 +31,4 @@ Ce qui se passerait "ensuite" éventuellement à l'intérieur de l'horizon ne co
 
 Mais je suis sur que les matheux ont plein d'idées invérifiables à ce sujet.
 
-[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)

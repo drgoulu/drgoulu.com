@@ -26,4 +26,4 @@ Faites le calcul : 1 tonne à 10m de haut ne "contient" que e=mgh = 100'000 Joul
 
 En prime, l'eau est quand même vachement pratique à stocker dans un lac de forme quelconque, à pomper, à turbiner avec un excellent rendement; on peut la doser avec un simple robinet, parfois elle tombe toute seule du ciel, et on peut même la boire après…
 
-[Comment stocker l'énergie - Pourquoi Comment Combien](https://www.drgoulu.com/2012/10/07/comment-stocker-lenergie/)
+[Comment stocker l'énergie - Pourquoi Comment Combien](/2012/10/07/comment-stocker-lenergie/)

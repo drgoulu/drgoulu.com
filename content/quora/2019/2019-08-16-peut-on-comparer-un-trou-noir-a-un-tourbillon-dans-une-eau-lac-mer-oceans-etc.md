@@ -15,4 +15,4 @@ Non, c'est une "survulgarisation".
 
 J'ai analysé le processus qui conduit à vulgariser la vulgarisation de la vulgarisation d'un article sérieux exactement sur ce sujet :
 
-[Y'a-t-il des trous noirs dans la mer ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/10/05/ya-t-il-des-trous-noirs-dans-la-mer/)
+[Y'a-t-il des trous noirs dans la mer ? - Pourquoi Comment Combien](/2013/10/05/ya-t-il-des-trous-noirs-dans-la-mer/)

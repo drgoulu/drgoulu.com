@@ -42,7 +42,7 @@ En Suisse et dans les pays avec des élections à la proportionnelle, c'est le 2
 
 Un système simple qui garantit 1 et 3 est le
 
-[https://www.drgoulu.com/2007/05/...](https://www.drgoulu.com/2007/05/09/le-vote-par-assentiment/)
+[https://www.drgoulu.com/2007/05/...](/2007/05/09/le-vote-par-assentiment/)
 
 C'est tout simple et utilisé comme système de vote dans certaines sociétés de mathématiques : chaque électeur peut voter pour autant de candidats qu'il veut. Il désigne ainsi les candidats qu'il accepte. Celui qui a le plus d'assentiments (ou les N premiers pour un comité) est élu.
 

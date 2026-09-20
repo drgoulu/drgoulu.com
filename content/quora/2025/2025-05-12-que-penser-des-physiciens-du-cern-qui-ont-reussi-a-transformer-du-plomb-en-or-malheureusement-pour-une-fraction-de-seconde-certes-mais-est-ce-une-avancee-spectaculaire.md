@@ -20,7 +20,7 @@ coverImage: ./images/qimg-b8f34c4ac00eaf3397eacdfcaaaf104b.jpg
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Que-penser-des-physiciens-du-CERN-qui-ont-r%C3%A9ussi-%C3%A0-transformer-du-plomb-en-or-Malheureusement-pour-une-fraction-de-seconde-certes-mais-est-ce-une-avanc%C3%A9e-spectaculaire/answer/Dr-Goulu)*
 
-C'est très difficile, voir [Comment transformer le plomb en or ? - Pourquoi Comment Combien](https://drgoulu.com/2013/03/15/comment-transformer-le-plomb-en-or/)
+C'est très difficile, voir [Comment transformer le plomb en or ? - Pourquoi Comment Combien](/2013/03/15/comment-transformer-le-plomb-en-or/)
 
 Selon la page du CERN [ALICE détecte la transformation de plomb en or au LHC](https://www.home.cern/fr/news/news/physics/alice-detects-conversion-lead-gold-lhc), ce n'est pas vraiment volontaire, c'est plutôt qu'ils ont maintenant la capacité de détecter la formation de noyaux lors de collisions plomb+plomb.
 

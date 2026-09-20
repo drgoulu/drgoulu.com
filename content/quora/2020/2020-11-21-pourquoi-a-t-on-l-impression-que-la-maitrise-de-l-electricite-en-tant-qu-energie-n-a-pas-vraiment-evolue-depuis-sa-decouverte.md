@@ -25,7 +25,7 @@ Parce qu'on est arrivés très vite à de très bon rendements.
 
 Les génératrices et moteurs basés sur la fameuse [Machine synchrone](w:) de Tesla inventée en 1888 ont des rendements supérieurs à 95%.
 
-On sait faire des lignes électriques à très haute tension de résistance [0.01 Ohm/km](https://www.drgoulu.com/2010/03/19/0-01-ohmkm/#.X7jet80VOCo), qui perdent moins de 1% sur 100 km.
+On sait faire des lignes électriques à très haute tension de résistance [0.01 Ohm/km](/2010/03/19/0-01-ohmkm/#.X7jet80VOCo), qui perdent moins de 1% sur 100 km.
 
 Les pertes de transport ont lieu surtout sur le réseau à moyenne/basse tension et dans les transformateurs, mais là on a pas vraiment d'idée sur comment améliorer les rendements à un coût raisonnable. Imaginez changer le réseau électrique d'une grande ville pour gagner quelques pourcents …
 

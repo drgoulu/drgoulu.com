@@ -40,6 +40,6 @@ Donc:
 - si vous laissez votre téléphone près d'un aimant (housse avec fermoir magnétique), la mesure sera faussée et vous devrez recalibrer.
 - la calibration nécessite de tourner le téléphone dans tous les sens pour retrouver le champ magnétique dominant.
 
-J'ai honte de ne pas y avoir pensé, car c'est pile dans mon domaine (dynamique) et que j'avais écrit [Gyroscopes d'hier et de demain](https://www.drgoulu.com/2010/04/09/gyroscopes-dhier-et-de-demain/)sur les fantastiques gyromètres intégrés que l'on trouve désormais pour quelques centimes dans nos téléphones.
+J'ai honte de ne pas y avoir pensé, car c'est pile dans mon domaine (dynamique) et que j'avais écrit [Gyroscopes d'hier et de demain](/2010/04/09/gyroscopes-dhier-et-de-demain/)sur les fantastiques gyromètres intégrés que l'on trouve désormais pour quelques centimes dans nos téléphones.
 
 Marrant aussi d'imaginer qu'après avoir filtré les mouvements des compas de marine en les montant sur des cardans pendant des siècles, maintenant on filtre le champ magnétique en laissant la boussole tourner dans tous les sens…

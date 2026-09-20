@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Que c est un [mythe né au 19ème](w:Adolf_Zeising) siècle et qu'on est au 21ème.
 
-[https://www.drgoulu.com/2016/07/...](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[https://www.drgoulu.com/2016/07/...](/2016/07/03/nombre-dor-et-abeilles/)

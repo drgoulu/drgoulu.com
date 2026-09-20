@@ -25,6 +25,6 @@ C'est bien plus qu'une théorie, c'est un fait expérimental.
 
 Ce qu'il faut comprendre c'est que la vitesse de la lumière est infinie pour l'observateur mobile : si vous avez assez d'énergie, vous pouvez accélérer indéfiniment. Dans un vaisseau spatial relativiste, la physique de Newton reste parfaitement valable. Vous pouvez parcourir 10 années lumière en une année. Ce n'est qu'un observateur extérieur qui vous verra passer à un peu moins que c.
 
-[https://www.drgoulu.com/2004/08/...](https://www.drgoulu.com/2004/08/09/acceleration)
+[https://www.drgoulu.com/2004/08/...](/2004/08/09/acceleration/)
 
 [La vitesse de la lumière](https://reponsesfrequentes.quora.com/La-vitesse-de-la-lumi%C3%A8re)

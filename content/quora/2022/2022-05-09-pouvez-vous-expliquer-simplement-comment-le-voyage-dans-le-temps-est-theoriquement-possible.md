@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Le livre
 
-[https://www.drgoulu.com/2006/06/...](https://www.drgoulu.com/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)
+[https://www.drgoulu.com/2006/06/...](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)
 
 propose une machine totalement irréalisable, mais qui peut théoriquement être envisagée pour ça, peut-être. (= on devrait essayer en petit, juste pour voir…)
 

@@ -22,7 +22,7 @@ coverImage: ./images/qimg-f0d41e251e97d7fa30ad8f20172f2cb2.jpg
 
 L'impact sur les [tissus biologiques](w:Tissu_biologique) d'une [exposition](w:Irradiation) à un [rayonnement ionisant](w:), par exemple à une source de [radioactivité](w:) se mesure en [Sievert](w:), unité de [Dose équivalente](w:).
 
-La “dose équivalente” de [radioactivité naturelle](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/) annuelle reçue par un français moyen est de 2.4 milliSievert [mSv], décomposée comme suit:
+La “dose équivalente” de [radioactivité naturelle](/2013/11/03/la-radioactivite-naturelle/) annuelle reçue par un français moyen est de 2.4 milliSievert [mSv], décomposée comme suit:
 
 - 0.6 [mSv] reçus de la désintégration des radio-isotopes primordiaux dans le sol (Uranium et Thorium)
 - 0.4 [mSv] reçus par les rayons cosmiques. Pour un pilote professionnel, ce poste peut augmenter à plus de 5 [mSv]

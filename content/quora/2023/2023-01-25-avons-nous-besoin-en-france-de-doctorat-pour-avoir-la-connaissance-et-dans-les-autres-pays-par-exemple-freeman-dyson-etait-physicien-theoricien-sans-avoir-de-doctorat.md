@@ -15,6 +15,6 @@ Un doctorat ne sert pas à avoir la connaissance, il sert à savoir chercher.
 
 Ou comme très bien dit dans l'article ci-dessous, un doctorat sert à devenir "productivement stupide".
 
-[https://www.drgoulu.com/2014/06/...](https://www.drgoulu.com/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/#.Y9GVp6Tfs0E)
+[https://www.drgoulu.com/2014/06/...](/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/#.Y9GVp6Tfs0E)
 
 Le titre n'est pas indispensable, mais la méthode oui.

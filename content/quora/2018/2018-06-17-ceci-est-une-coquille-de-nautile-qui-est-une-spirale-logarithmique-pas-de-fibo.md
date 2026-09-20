@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ceci est une coquille de nautile, qui est une spirale logarithmique, pas de Fibonacci.
 
-[Nombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[Nombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/)

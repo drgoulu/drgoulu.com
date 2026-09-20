@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il mesure le déphasage entre au moins 4 signaux émis par des satellites sur des orbites connues.
 
-[https://www.drgoulu.com/2008/09/...](https://www.drgoulu.com/2008/09/27/le-gps-pour-les-nuls-satellites-et-signaux/#.Y4z7waTfs0E)
+[https://www.drgoulu.com/2008/09/...](/2008/09/27/le-gps-pour-les-nuls-satellites-et-signaux/#.Y4z7waTfs0E)

@@ -24,4 +24,4 @@ Je leur dirais :
 
 Prenez du cobalt 60. Lors de la désintégration β d’un noyau de Cobalt 60, un électron est émis dans une direction aléatoire. Mais il y en a statistiquement [1 sur un million](http://irfu.cea.fr/Phocea/Vie_des_labos/Ast/ast_technique.php?id_ast=444) de plus qui part dans la direction opposée à celle du spin du noyau que dans la direction du spin. Nous appelons "gauche" le sens de rotation du noyau correspondant au spin
 
-[MIROIR | ЯIOЯIM - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/04/miroir/)
+[MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/)

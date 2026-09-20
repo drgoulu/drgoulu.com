@@ -17,4 +17,4 @@ Vous pouvez toujours trouver une relation entre deux nombres, et utiliser $\pi$ 
 
 Vous pourriez aussi considérer l'[Angle d'or](w:)comme relation, plus intéressante car l'angle d'or re retrouve effectivement dans la nature, au contraire du nombre d'or qui est un mythe.
 
-[https://drgoulu.com/2016/07/03/n...](https://drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+[https://drgoulu.com/2016/07/03/n...](/2016/07/03/nombre-dor-et-abeilles/)

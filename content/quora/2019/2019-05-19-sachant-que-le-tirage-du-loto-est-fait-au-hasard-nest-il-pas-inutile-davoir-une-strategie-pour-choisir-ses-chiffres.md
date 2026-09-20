@@ -31,4 +31,4 @@ Zinzin, mais pas bête ..
 
 Notes de bas de page
 
-[[1]](#cite-UqHTZ)[Chasse aux nombres acratopèges - Pourquoi Comment Combien](https://www.drgoulu.com/2008/08/24/nombres-acratopeges/)
+[[1]](#cite-UqHTZ)[Chasse aux nombres acratopèges - Pourquoi Comment Combien](/2008/08/24/nombres-acratopeges/)

@@ -17,4 +17,4 @@ En physique, c'est l'Univers qui impose les "axiomes". Vous pouvez "défier la g
 
 Mais la gravitation non. L'axiome de l'Univers dit "positive la masse est".
 
-[https://drgoulu.com/2016/09/11/s...](https://drgoulu.com/2016/09/11/solutions-admissibles/)
+[https://drgoulu.com/2016/09/11/s...](/2016/09/11/solutions-admissibles/)

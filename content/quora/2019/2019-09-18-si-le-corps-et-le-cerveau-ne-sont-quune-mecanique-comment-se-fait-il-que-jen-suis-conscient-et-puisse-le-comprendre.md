@@ -29,4 +29,4 @@ Pour ça, il doit être capable d'analyser le passé et d'en inférer les règle
 
 Ensuite il doit avoir un modèle de vous même à projeter dans le futur. Un truc qui permette de vous dire : "si je passe trop de temps sur Quora, je ne vais pas de dormir assez et je ne vais pas bien bosser demain". Vous pouvez appeler ça une "conscience " si vous voulez.
 
-[Neurologie du Temps - Pourquoi Comment Combien](https://www.drgoulu.com/2009/06/27/neurologie-du-temps/)
+[Neurologie du Temps - Pourquoi Comment Combien](/2009/06/27/neurologie-du-temps/)

@@ -47,10 +47,10 @@ Les indices $\mu$ et $\nu$ sont simplement les indices (01,2,3) correspondants a
 
 Notes de bas de page
 
-[[1]](#cite-VYDDS)[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[[1]](#cite-VYDDS)[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)
 
 [[2]](#cite-MXWjl)[La gravité quantique à boucles](https://scienceetonnante.com/2016/09/02/la-gravite-quantique-a-boucles/)
 
-[[3]](#cite-mZmTG)[La Renaissance du Temps 1/2 - Pourquoi Comment Combien](https://www.drgoulu.com/2015/01/28/la-renaissance-du-temps/)
+[[3]](#cite-mZmTG)[La Renaissance du Temps 1/2 - Pourquoi Comment Combien](/2015/01/28/la-renaissance-du-temps/)
 
-[[4]](#cite-PqNVj)[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
+[[4]](#cite-PqNVj)[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)

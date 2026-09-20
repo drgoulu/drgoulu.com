@@ -21,7 +21,7 @@ Tree(3) est trop grand pour pouvoir être exprimé avec cette notation. Je déco
 
 $\(\text{TREE}[3] > \{3, 6, 3 [1 [1 \neg 1,2] 2] 2\}\)$
 
-[Très très très grands nombres - Pourquoi Comment Combien](https://www.drgoulu.com/2008/11/04/tres-tres-tres-grands-nombres/)
+[Très très très grands nombres - Pourquoi Comment Combien](/2008/11/04/tres-tres-tres-grands-nombres/)
 
 Notes de bas de page
 

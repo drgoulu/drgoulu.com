@@ -15,4 +15,4 @@ Les revues de vulgarisation vulgarisent des articles publiés dans des journaux 
 
 Exception possible et vécue : inciter un chroniqueur du journal à s'intéresser à votre sujet.
 
-[https://drgoulu.com/2009/04/18/n...](https://drgoulu.com/2009/04/18/nombres-mineralises/)
+[https://drgoulu.com/2009/04/18/n...](/2009/04/18/nombres-mineralises/)

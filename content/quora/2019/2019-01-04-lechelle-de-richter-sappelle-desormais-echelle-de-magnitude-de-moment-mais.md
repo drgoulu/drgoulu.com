@@ -22,7 +22,7 @@ coverImage: ./images/quora.png
 
 L’échelle “de Richter” s’appelle désormais [Échelle de magnitude de moment](w:), mais justement, elle correspond à une énergie dégagée, pas à une accélération. Le calcul de l’[accélération maximale du sol](w:) nécessite une distance de propagation des ondes de déformation du sol, et elle est donc liée à la magnitude MSK :-)
 
-La formule log a = 0.26 I_msk + 0.19 que je donne dans l’article [Séismes et énergies - Pourquoi Comment Combien](https://www.drgoulu.com/2011/03/16/seismes-et-energies/#.XC9wo1xsOCo) provient de la référence [1] mentionnée :
+La formule log a = 0.26 I_msk + 0.19 que je donne dans l’article [Séismes et énergies - Pourquoi Comment Combien](/2011/03/16/seismes-et-energies/#.XC9wo1xsOCo) provient de la référence [1] mentionnée :
 
 1. Georges R. Darbre, et al. “[Sécurité des ouvrages d’accumulation. Documentation de base pour la vérification des ouvrages d’accumulation aux séismes](http://www.bfe.admin.ch/php/modules/publikationen/stream.php?extlang=fr&name=fr_284865027.pdf&endung=S�curit� des ouvrages d�accumulation. Documentation de base pour la v�rification des ouvrages d�accumulation aux s�ismes)“, 2003, BFE (BWG)
 

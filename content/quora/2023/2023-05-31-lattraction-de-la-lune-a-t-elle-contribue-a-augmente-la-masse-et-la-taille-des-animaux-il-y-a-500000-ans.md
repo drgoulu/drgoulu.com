@@ -45,4 +45,4 @@ Il y avait de gros animaux parce que nos ancÃªtres ne les avaient pas encore tuÃ
 
 Notes de bas de page
 
-[[1]](#cite-uyVfB)[Astrologie - Pourquoi Comment Combien](https://www.drgoulu.com/2004/06/30/astrologie/)
+[[1]](#cite-uyVfB)[Astrologie - Pourquoi Comment Combien](/2004/06/30/astrologie/)

@@ -19,4 +19,4 @@ La [Notation positionnelle](w:)nous semble évidente aujourd'hui, mais elle ne l
 
 0,1,2,3,2^2,5,2*3,7,2^3,3^2,2*5,11,2^2*3,13,2*7,3*5,2^4,17,2*3^2,19, etc
 
-[https://www.drgoulu.com/2011/09/...](https://www.drgoulu.com/2011/09/25/comment-comptent-les-extraterrestres/)
+[https://www.drgoulu.com/2011/09/...](/2011/09/25/comment-comptent-les-extraterrestres/)

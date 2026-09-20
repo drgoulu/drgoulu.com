@@ -17,4 +17,4 @@ A partir de 84% de la vitesse de la lumière, le passager d'un vaisseau relativi
 
 Un photon se propage à une vitesse infinie dans son référentiel.
 
-[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](https://www.drgoulu.com/2004/08/09/acceleration/#.Xh4oRMhsOCo)
+[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](/2004/08/09/acceleration/#.Xh4oRMhsOCo)

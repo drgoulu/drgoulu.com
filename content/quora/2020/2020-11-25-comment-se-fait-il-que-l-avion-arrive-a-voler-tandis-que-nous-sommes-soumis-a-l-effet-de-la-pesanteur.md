@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-se-fait-il-que-l-avion-arrive-%C3%A0-voler-tandis-que-nous-sommes-soumis-%C3%A0-l-effet-de-la-pesanteur/answer/Dr-Goulu)*
 
-[Portance : pourquoi ça vole ? - Pourquoi Comment Combien](https://www.drgoulu.com/2012/03/11/portance-pourquoi-ca-vole/)
+[Portance : pourquoi ça vole ? - Pourquoi Comment Combien](/2012/03/11/portance-pourquoi-ca-vole/)

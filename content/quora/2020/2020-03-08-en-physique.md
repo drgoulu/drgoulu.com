@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Oui c'est en effet une ineptie de croire que l'énergie met en mouvement quoi que ce soit.
 
-Feynman l'explique très bien dans sa conférence [La science est la croyance en l'ignorance des](https://www.drgoulu.com/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)experts sur l'idée que l'énergie fait bouger les choses.
+Feynman l'explique très bien dans sa conférence [La science est la croyance en l'ignorance des](/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)experts sur l'idée que l'énergie fait bouger les choses.
 
 > l’énergie est un concept très subtil. Il est très très difficile de le comprendre correctement. Ce que je veux dire, c’est qu’il n’est pas facile de comprendre l’énergie assez bien pour l’utiliser correctement, de manière à pouvoir déduire quelque chose correctement en utilisant l’énergie. C’est après l’école primaire. Ca serait tout aussi bien de dire “Dieu l’a fait bouger” ou “l’esprit le fait bouger” ou “la déplaçabilité (movability) le fait bouger”. En fait on peut tout aussi bien dire “L’énergie l’a arrêté”.
 >

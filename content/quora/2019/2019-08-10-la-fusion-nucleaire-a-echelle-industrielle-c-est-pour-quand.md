@@ -17,4 +17,4 @@ Sinon, en étant très optimiste[[1]](#vTklz) je dirais 2050 pour le premier pro
 
 Notes de bas de page
 
-[[1]](#cite-vTklz)[la fusion thermonucléaire - Pourquoi Comment Combien](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[[1]](#cite-vTklz)[la fusion thermonucléaire - Pourquoi Comment Combien](/2005/12/11/la-fusion-thermonucleaire/)

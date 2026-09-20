@@ -15,4 +15,4 @@ Progressiste.
 
 L'axe gauche / droite n'est clairement plus l'axe principal chez vous.
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/#.YmD_82k680E)
+[https://www.drgoulu.com/2017/05/...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/#.YmD_82k680E)

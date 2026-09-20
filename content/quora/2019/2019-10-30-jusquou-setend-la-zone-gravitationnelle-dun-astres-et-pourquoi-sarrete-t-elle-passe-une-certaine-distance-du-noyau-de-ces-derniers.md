@@ -33,4 +33,4 @@ Pour la Terre, le trou est de 6379 km : pour s'échapper de l'attraction terrest
 
 ![](./images/qimg-9613771da45f83cb7b6386d9a7e3009e.png)
 
-[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](https://www.drgoulu.com/2012/09/05/un-petit-pas-pour-lhomme/)
+[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](/2012/09/05/un-petit-pas-pour-lhomme/)

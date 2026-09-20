@@ -15,4 +15,4 @@ Ce n'est pas selon la théorie évolutionniste (qui n'existe plus), c'est un fai
 
 Mon exemple préféré :
 
-[https://www.drgoulu.com/2014/08/...](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+[https://www.drgoulu.com/2014/08/...](/2014/08/17/ladaptation-a-laltitude/)

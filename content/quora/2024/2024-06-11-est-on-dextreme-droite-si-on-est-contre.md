@@ -27,6 +27,6 @@ Il existe des méthodes purement mathématiques qui le confirment : l'extrême d
 
 A lire avant de bondir sur les commentaires svp
 
-[https://drgoulu.com/2017/05/14/l...](https://drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://drgoulu.com/2017/05/14/l...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 et[création de "smartmaps" politiques sur le modèle de smartvote.ch avec données de l'Assemble Nationale Française](https://github.com/goulu/smartvoteFR) pour la 14 ème législature (2017) (les données existent maintenant pour la 15ème, ce qui permettrait de faire une 2eme image montrant peut-être la "dédiabolisation"…)

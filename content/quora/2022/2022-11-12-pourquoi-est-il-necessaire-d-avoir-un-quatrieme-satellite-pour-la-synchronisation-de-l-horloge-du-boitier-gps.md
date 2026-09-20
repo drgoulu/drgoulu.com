@@ -21,4 +21,4 @@ Mais si vous voulez 3 coordonnés spatiales, vous ne pouvez vous en sortir qu'en
 
 4 inconnues impliquent 4 équations (ou plus pour minimiser les erreurs)
 
-[https://www.drgoulu.com/2008/09/...](https://www.drgoulu.com/2008/09/27/le-gps-pour-les-nuls-satellites-et-signaux/#.Y3AQ96Tfs0E)
+[https://www.drgoulu.com/2008/09/...](/2008/09/27/le-gps-pour-les-nuls-satellites-et-signaux/#.Y3AQ96Tfs0E)

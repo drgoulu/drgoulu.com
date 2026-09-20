@@ -34,4 +34,4 @@ Après un survol rapide des 181 “objectifs lune”, il me semble que les seuls
 
 Les objectifs scientifiques et économiques représentant la grande majorité des 181 raisons d’aller sur la Lune peuvent pratiquement toutes être réalisées par des missions automatiques dès aujourd’hui.
 
-[https://www.drgoulu.com/2009/07/...](https://www.drgoulu.com/2009/07/18/pour-quoi-retourner-sur-la-lune/)
+[https://www.drgoulu.com/2009/07/...](/2009/07/18/pour-quoi-retourner-sur-la-lune/)

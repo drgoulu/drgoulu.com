@@ -29,4 +29,4 @@ Alors vos fournisseurs ils font quoi pour fixer le prix des nouveaux contrats ? 
 
 Notes de bas de page
 
-[[1]](#cite-Qsyyn)[Qui veut de l'électricité à prix négatif ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/#.Y7wicXZsOCo)
+[[1]](#cite-Qsyyn)[Qui veut de l'électricité à prix négatif ? - Pourquoi Comment Combien](/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/#.Y7wicXZsOCo)

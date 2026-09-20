@@ -36,4 +36,4 @@ bon, ce n'est pas tout à fait vrai : il y a le [Programme Artemis](w:), le [Lun
 
 Honnêtement je place plus d'espoirs dans les pays qui n'ont pas besoin de justifier la dépense auprès de leur population et qui ont des motifs de propagande pour le faire…
 
-[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/07/18/pour-quoi-retourner-sur-la-lune/)
+[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](/2009/07/18/pour-quoi-retourner-sur-la-lune/)

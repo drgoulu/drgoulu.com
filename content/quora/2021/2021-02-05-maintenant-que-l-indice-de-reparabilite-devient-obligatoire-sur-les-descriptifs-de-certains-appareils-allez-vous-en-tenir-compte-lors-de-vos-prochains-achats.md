@@ -28,4 +28,4 @@ Dans un produit bien foutu, toutes les pièces s'usent à la même vitesse, et s
 
 Mon secret est de ne jamais acheter un produit qui vient de sortir. Attendez quelques mois ou années, et lisez les avis avant d'acheter.
 
-[https://www.drgoulu.com/2013/05/...](https://www.drgoulu.com/2013/05/01/lobsolescence-est-elle-programmee-2/)
+[https://www.drgoulu.com/2013/05/...](/2013/05/01/lobsolescence-est-elle-programmee-2/)

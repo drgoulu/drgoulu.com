@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce que beaucoup de théories peuvent décrire ce que nous savons déjà. Ce qui fait la force d'une théorie c'est sa capacité de prévoir les résultats d'expériences qui la distinguent des autres.
 
-[Suites, Courbes et Théories - Pourquoi Comment Combien](https://www.drgoulu.com/2008/08/23/suites-courbes-et-theories/)
+[Suites, Courbes et Théories - Pourquoi Comment Combien](/2008/08/23/suites-courbes-et-theories/)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 oui, donc la vitesse de la lumière est infinie pour le voyageur.
 
-[https://www.drgoulu.com/2004/08/...](https://www.drgoulu.com/2004/08/09/acceleration/#.YJBm1bWiGCo)
+[https://www.drgoulu.com/2004/08/...](/2004/08/09/acceleration/#.YJBm1bWiGCo)

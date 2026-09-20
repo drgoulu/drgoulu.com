@@ -19,7 +19,7 @@ Exception notable : certaines grosses entreprises brevètent tout ce qu'elles fo
 
 Je viens de vérifier le brevet [US6960975B1](https://patents.google.com/patent/US6960975) dont je cause dans
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/08/combien-pour-ce-brevet/)
+[https://www.drgoulu.com/2009/03/...](/2009/03/08/combien-pour-ce-brevet/)
 
 Son statut est "Expired - Fee Related" : l'inventeur a arrêté de payer les frais de maintenance du brevet, vous pouvez construire son vaisseau spatial librement.
 

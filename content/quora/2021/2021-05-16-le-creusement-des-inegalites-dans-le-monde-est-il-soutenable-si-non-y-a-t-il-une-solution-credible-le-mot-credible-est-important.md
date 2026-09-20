@@ -49,6 +49,6 @@ Plus sur ce sujet :
 
 Notes de bas de page
 
-[[1]](#cite-pfiKk)[Combien d'inégalité ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/21/combien-dinegalite/#.YKIFiqiiGCo)
+[[1]](#cite-pfiKk)[Combien d'inégalité ? - Pourquoi Comment Combien](/2009/03/21/combien-dinegalite/#.YKIFiqiiGCo)
 
 [[2]](#cite-RbJXv)[Quarante ans d’inégalités de niveau de vie et de redistribution en France (1975-2016)](https://www.insee.fr/fr/statistiques/4238443?sommaire=4238781)

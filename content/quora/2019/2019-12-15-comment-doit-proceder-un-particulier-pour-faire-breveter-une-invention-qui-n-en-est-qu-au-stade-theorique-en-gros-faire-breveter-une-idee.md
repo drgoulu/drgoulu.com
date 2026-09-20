@@ -35,4 +35,4 @@ Et il faut qu'il soit solide, parce que si quelqu'un viole votre brevet, ça vou
 
 Vous l'aurez compris, déposer un brevet à titre privé n'est pas une mince affaire. Franchement, essayez plutôt de trouver une entreprise intéressée à collaborer, ou fondez en une, avec des actionnaires aux reins solides.
 
-[Combien pour ce brevet ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/08/combien-pour-ce-brevet/#.XfaAjOhsOCo)
+[Combien pour ce brevet ? - Pourquoi Comment Combien](/2009/03/08/combien-pour-ce-brevet/#.XfaAjOhsOCo)

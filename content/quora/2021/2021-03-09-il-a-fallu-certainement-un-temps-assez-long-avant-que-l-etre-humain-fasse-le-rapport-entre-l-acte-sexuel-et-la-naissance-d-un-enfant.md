@@ -17,4 +17,4 @@ La "création" ne l'est pas. On a aucun moyen de déterminer si une "création" 
 
 Et il faudra encore définir précisément le sens du mot "pourquoi".
 
-[https://www.drgoulu.com/2009/01/...](https://www.drgoulu.com/2009/01/04/pourquoi-pour-quoi/#.YEhr5WhsOCo)
+[https://www.drgoulu.com/2009/01/...](/2009/01/04/pourquoi-pour-quoi/#.YEhr5WhsOCo)

@@ -15,4 +15,4 @@ Si votre Triplet est "composé" ça peut marcher, mais pas s'il est "primitif" (
 
 Il existe des méthodes qui génèrent tous les triplets de manière systématique
 
-Voir [2017 et les triplets pythagoriciens - Pourquoi Comment Combien](https://www.drgoulu.com/2017/01/02/2017-et-les-triplets-pythagoriciens/)
+Voir [2017 et les triplets pythagoriciens - Pourquoi Comment Combien](/2017/01/02/2017-et-les-triplets-pythagoriciens/)

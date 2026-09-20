@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 pour compléter les autres réponses, la singularité (mathématique…) d'un trou noir physique n'est pas un point [mais un anneau](w:Trou_noir_de_Kerr), parce que les vrais trous noirs tournent TRES vite.
 
-[https://www.drgoulu.com/2016/07/...](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[https://www.drgoulu.com/2016/07/...](/2016/07/10/combien-tourne-un-trou-noir/)
 
 Mais en fait il n'y a pas besoin de savoir ce qui se trouve à l'intérieur de l'horizon des événements, ni même s'il y a quelque chose, pour calculer ce qui se passe en cas de fusion.
 

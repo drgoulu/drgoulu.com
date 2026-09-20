@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Outre celles déjà citées, l'Anneau-Monde
 
-[https://www.drgoulu.com/2012/10/...](https://www.drgoulu.com/2012/10/28/anneau-monde-et-surpopulation/)
+[https://www.drgoulu.com/2012/10/...](/2012/10/28/anneau-monde-et-surpopulation/)
 
 Hélas pas encore adapté au cinéma, mais il y a quand même une petite vidéo teasing pas piquée des vers :
 

@@ -17,4 +17,4 @@ le milieu du Pacifique est peu sujet aux marées, comme l'indique cette carte :
 
 La hauteur des marées est déterminée par la résonance du plan d'eau excité par la Lune+Soleil
 
-[Combien de marée - Pourquoi Comment Combien](https://www.drgoulu.com/2017/08/15/combien-de-maree/#.Xw3FQSiFqCo)
+[Combien de marée - Pourquoi Comment Combien](/2017/08/15/combien-de-maree/#.Xw3FQSiFqCo)

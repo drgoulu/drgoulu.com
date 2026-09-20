@@ -15,4 +15,4 @@ C’est une idée intéressante. Je dirais qu’en mathématiques, oui. Dans les
 
 Les mathématiciens, eux, construisent un univers, ou même des univers d’univers abstraits en se basant juste sur des ensembles d’axiomes et en y appliquant des règles très strictes. Leurs théorèmes ne sont pas forcément des “découvertes”, ce sont à mon sens des “oeuvres de l’esprit” au même titre que des oeuvres artistiques, oui.
 
-[L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](https://www.drgoulu.com/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/#.XpQe3siiGCo)
+[L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/#.XpQe3siiGCo)

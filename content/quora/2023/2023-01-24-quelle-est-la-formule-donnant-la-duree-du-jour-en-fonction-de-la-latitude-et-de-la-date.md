@@ -19,4 +19,4 @@ coverImage: ./images/quora.png
 >
 > où α est l’inclinaison de l’axe terrestre ( 23.5° ), λ la latitude du site et δ l’angle parcouru par la Terre sur son orbite depuis sa position à l'[équinoxe de printemps](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=équinoxe+de+printemps), environ égal au nombre de jours depuis l’équinoxe x 360°/365
 
-[https://www.drgoulu.com/2013/08/...](https://www.drgoulu.com/2013/08/11/combien-dure-un-jour/#.Y9CRTKTfs0E)
+[https://www.drgoulu.com/2013/08/...](/2013/08/11/combien-dure-un-jour/#.Y9CRTKTfs0E)

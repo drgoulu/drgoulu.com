@@ -28,4 +28,4 @@ Le problème est que les antinucléaires ne veulent pas croire que le kwh nuclé
 
 Alors ils parlent des déchets (qui ne sont pas mentionnés dans la question) mais qui est allé visiter le labo de l'andra à Bure ? Moi.
 
-[https://www.drgoulu.com/2014/05/...](https://www.drgoulu.com/2014/05/24/bure-pour-leternite/)
+[https://www.drgoulu.com/2014/05/...](/2014/05/24/bure-pour-leternite/)

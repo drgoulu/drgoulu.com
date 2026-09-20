@@ -30,7 +30,7 @@ Cependant (mode critique activé):
 - si f(R)=R, on retrouve la relativité générale
 - si on veut éliminer la constante cosmologique, il faut ajouter des choses dans f(R), comme une 5ème force, avec ses propres paramètres. Qu'est-ce qu'on a gagné ?
 - tout le monde est assez d'accord pour dire que f(R) doit être proche de R pour qu'on observe ce qu'on observe. Donc la différence entre une théorie caméléon f(R) et R est petite. Donc pas facile à mesurer.
-- dans ce genre de cas, la validation d'une théorie se fait sur des prédictions, ce qu'à très bien réussi la relativité. Donc j'attends des caméléonistes qu'ils proposent des expériences permettant de distinguer leur(s) théorie(s) de la relativité, pas seulement de simuler ce qu'on sait déjà. (voir [Suites, Courbes et Théories - Pourquoi Comment Combien](https://www.drgoulu.com/2008/08/23/suites-courbes-et-theories/) )
+- dans ce genre de cas, la validation d'une théorie se fait sur des prédictions, ce qu'à très bien réussi la relativité. Donc j'attends des caméléonistes qu'ils proposent des expériences permettant de distinguer leur(s) théorie(s) de la relativité, pas seulement de simuler ce qu'on sait déjà. (voir [Suites, Courbes et Théories - Pourquoi Comment Combien](/2008/08/23/suites-courbes-et-theories/) )
 
 Notes de bas de page
 

@@ -43,6 +43,6 @@ Notes de bas de page
 
 [[1]](#cite-yaQeZ)[Accueil - Culture Sciences Physique](https://culturesciencesphysique.ens-lyon.fr/)
 
-[[2]](#cite-YgkJT)[L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](https://drgoulu.com/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/)
+[[2]](#cite-YgkJT)[L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/)
 
-[[3]](#cite-rLhYA)[Solutions admissibles - Pourquoi Comment Combien](https://drgoulu.com/2016/09/11/solutions-admissibles/)
+[[3]](#cite-rLhYA)[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)

@@ -23,4 +23,4 @@ Mais c'est pas mon problème, je me mêle de ce qui ne me regarde pas. Vendez mo
 
 Notes de bas de page
 
-[[1]](#cite-kHfyL)[Dites NON au mouvement perpétuel - Pourquoi Comment Combien](https://drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[[1]](#cite-kHfyL)[Dites NON au mouvement perpétuel - Pourquoi Comment Combien](/2012/05/27/dites-non-au-mouvement-perpetuel/)

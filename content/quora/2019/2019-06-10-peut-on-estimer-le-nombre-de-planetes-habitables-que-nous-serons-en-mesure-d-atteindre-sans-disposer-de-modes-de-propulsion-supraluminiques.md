@@ -23,6 +23,6 @@ coverImage: ./images/quora.png
 
 Toutes. Pas besoin de propulsion supraluminique (qui ne peut pas exister d'ailleurs), il "suffit" d'aller à une vitesse proche de lumière pour que les voyageurs puissent aller partout dans l'univers en quelques années seulement.
 
-[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](https://www.drgoulu.com/2004/08/09/acceleration/)
+[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](/2004/08/09/acceleration/)
 
 De méprisables considérations énergétiques font que, malheureusement, nous sommes limités à des vitesses beaucoup plus basses, donc au [Vaisseau générationnel](w:).

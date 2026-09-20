@@ -19,4 +19,4 @@ L'hydrogène est principalement produit par [Reformage du méthane](w:), ce qui 
 
 Comme me l'avait dit un collègue qui a longtemps travaillé dans ce domaine, la pile à hydrogène est surtout le résultat de l'échec de la pile à gaz naturel.
 
-[https://www.drgoulu.com/2007/09/...](https://www.drgoulu.com/2007/09/06/lhydrogene-energie-du-futur/#.YwnjL6S-g0E)
+[https://www.drgoulu.com/2007/09/...](/2007/09/06/lhydrogene-energie-du-futur/#.YwnjL6S-g0E)

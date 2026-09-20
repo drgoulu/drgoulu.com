@@ -62,4 +62,4 @@ Voir ["L'énergie n'est pas une chose" dans mes Réponses Fréquentes](https://f
 
 Notes de bas de page
 
-[[1]](#cite-DodZf)[Le Théorème de Noether a un siècle - Pourquoi Comment Combien](https://www.drgoulu.com/2018/06/23/le-theoreme-de-noether-a-un-siecle/)
+[[1]](#cite-DodZf)[Le Théorème de Noether a un siècle - Pourquoi Comment Combien](/2018/06/23/le-theoreme-de-noether-a-un-siecle/)

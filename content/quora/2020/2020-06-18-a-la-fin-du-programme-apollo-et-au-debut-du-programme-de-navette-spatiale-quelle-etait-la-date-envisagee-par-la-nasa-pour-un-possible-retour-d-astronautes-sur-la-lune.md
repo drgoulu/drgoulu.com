@@ -41,6 +41,6 @@ Techniquement, la NASA pouvait envoyer [Apollo 18](w:) quand elle voulait (la fu
 
 Notes de bas de page
 
-[[1]](#cite-eORXf)[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](https://www.drgoulu.com/2012/09/05/un-petit-pas-pour-lhomme/)
+[[1]](#cite-eORXf)[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](/2012/09/05/un-petit-pas-pour-lhomme/)
 
-[[2]](#cite-oxXDL)[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/07/18/pour-quoi-retourner-sur-la-lune/)
+[[2]](#cite-oxXDL)[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](/2009/07/18/pour-quoi-retourner-sur-la-lune/)

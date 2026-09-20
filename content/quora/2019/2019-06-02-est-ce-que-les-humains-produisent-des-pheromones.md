@@ -15,4 +15,4 @@ C'est encore très discuté et contesté. On n'a jamais formellement identifié 
 
 Par exemple, en 2007 une équipe de chercheurs à montré que le cycle féminin avait une influence sur les pourboires des strip-teaseuses…
 
-[P ourboires et cycle menstruel - Pourquoi Comment Combien](https://www.drgoulu.com/2008/10/03/pourboires-et-cycle-menstruel/)
+[P ourboires et cycle menstruel - Pourquoi Comment Combien](/2008/10/03/pourboires-et-cycle-menstruel/)

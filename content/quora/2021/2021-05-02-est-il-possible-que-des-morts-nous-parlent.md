@@ -15,4 +15,4 @@ Aucun n'a jamais dit où il avait planqué sa fortune, ou qui l'avait tué. Ils 
 
 Alors qu'ils nous parlent ou non, quel intérêt si on apprend rien ?
 
-[https://www.drgoulu.com/2010/04/...](https://www.drgoulu.com/2010/04/25/james-randi-au-ted/)
+[https://www.drgoulu.com/2010/04/...](/2010/04/25/james-randi-au-ted/)

@@ -43,4 +43,4 @@ Les "sciences spirituelles, paranormales, surnaturelles, occultes" n'existent pa
 
 De plus "occulte" signifie "caché". C'est fondamentalement contraire à la science, qui est ouverte, publiée, reproductible, et réfutable.
 
-Pour ceux qui ne connaissent pas James Randi, voyez [sa conférence au TED](https://drgoulu.com/2010/04/25/james-randi-au-ted/), traduite en français par votre serviteur.
+Pour ceux qui ne connaissent pas James Randi, voyez [sa conférence au TED](/2010/04/25/james-randi-au-ted/), traduite en français par votre serviteur.

@@ -17,4 +17,4 @@ Avec un autre astre en orbite, cette excitation aurait une fréquence supplémen
 
 On peut imaginer que si cet astre tournait très vite autour de la Terre, l'excitation serait suffisamment différente de 12h pour mettre en résonance certaines mers où la marée est très faible, comme la Méditerranée par exemple
 
-[Combien de marée - Pourquoi Comment Combien](https://www.drgoulu.com/2017/08/15/combien-de-maree/)
+[Combien de marée - Pourquoi Comment Combien](/2017/08/15/combien-de-maree/)

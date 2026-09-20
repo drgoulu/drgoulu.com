@@ -21,7 +21,7 @@ elle était 20ème en 2015, c'est la Turquie qui était 47ème …
 
 D'une manière générale, si vous faites un classement en combinant beaucoup de mesures, vous pouvez obtenir ce que vous voulez.
 
-[https://www.drgoulu.com/2009/05/...](https://www.drgoulu.com/2009/05/21/unites-et-classements/)
+[https://www.drgoulu.com/2009/05/...](/2009/05/21/unites-et-classements/)
 
 Donc posez la question à ceux qui font le classement …
 

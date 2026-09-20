@@ -38,7 +38,7 @@ Le vrai problème c’est pour l’éolien, pour lequel on ne sait pas quand le 
 
 Il existe d’autre types de batteries plus adaptées que le lithium pour du stockage statique, entre autres les batteries à flux redox que j’ai découvertes en écrivant:
 
-[Comment stocker l'énergie - Pourquoi Comment Combien](https://www.drgoulu.com/2012/10/07/comment-stocker-lenergie/#.XLoPmeiiGCo)
+[Comment stocker l'énergie - Pourquoi Comment Combien](/2012/10/07/comment-stocker-lenergie/#.XLoPmeiiGCo)
 
 Le problème est qu’elles utilisent aussi des ressources limitées et pas bon marché…
 

@@ -22,6 +22,6 @@ coverImage: ./images/quora.png
 
 Non. On ne sait toujours pas bien ce qu'est le temps, et l'étudier demande une vie, ou au moins lire des tonnes de bouquins hyper théoriques.
 
-Vous pouvez commencer par lire mon résumé de [La Renaissance du Temps](https://drgoulu.com/2015/01/28/la-renaissance-du-temps/), un bouquin de [Lee Smolin](w:), un de ceux qui a passé sa vie là dessus. Je vous préviens : c'est gratiné.
+Vous pouvez commencer par lire mon résumé de [La Renaissance du Temps](/2015/01/28/la-renaissance-du-temps/), un bouquin de [Lee Smolin](w:), un de ceux qui a passé sa vie là dessus. Je vous préviens : c'est gratiné.
 
 Si vous ne vouliez parler que de l'[Équation du temps](w:)en astronomie terrestre, alors l'article [Wikipédia](w:Équation_du_temps) devrait suffire.

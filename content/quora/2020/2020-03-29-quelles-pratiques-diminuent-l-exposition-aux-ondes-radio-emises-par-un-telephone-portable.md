@@ -24,4 +24,4 @@ Eteindre son portable quand on ne l'utilise pa, ou le poser loin de soi puisque 
 
 Sinon, habiter près d'une antenne car la puissance d'émission du téléphone s'ajuste automatiquement. Elle est maximale quand votre téléphone est très loin de l'antenne la plus proche.
 
-[Pourquoi je n'ai toujours pas peur de mon téléphone mobile - Pourquoi Comment Combien](https://www.drgoulu.com/2011/06/03/pourquoi-je-nai-toujours-pas-peur/#.XoC4qIiiGCo).
+[Pourquoi je n'ai toujours pas peur de mon téléphone mobile - Pourquoi Comment Combien](/2011/06/03/pourquoi-je-nai-toujours-pas-peur/#.XoC4qIiiGCo).

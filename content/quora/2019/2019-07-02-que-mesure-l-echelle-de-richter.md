@@ -26,4 +26,4 @@ Elle mesure le log base 10 du [Moment sismique](w:), lequel est liée à l'éner
 
 Cette échelle ne dépend pas de l'endroit où se fait la mesure. L'échelle de l'intensité ressentie d'un séisme se mesure avec l'[Échelle Medvedev-Sponheuer-Karnik](w:), MSK pour les intimes, et se note en chiffres romains. Elle est liée à l'accélération causée par le séisme, qui peut être supérieure à 1g à partir du niveau IX.
 
-[Séismes et énergies - Pourquoi Comment Combien](https://www.drgoulu.com/2011/03/16/seismes-et-energies/)
+[Séismes et énergies - Pourquoi Comment Combien](/2011/03/16/seismes-et-energies/)

@@ -27,8 +27,8 @@ Danan, A., Farfurnik, D., Bar-Ad, S., & Vaidman, L. (2013). [Asking photons wher
 
 dont je cause là :
 
-[https://www.drgoulu.com/2013/12/...](https://www.drgoulu.com/2013/12/04/le-passe-des-photons/)
+[https://www.drgoulu.com/2013/12/...](/2013/12/04/le-passe-des-photons/)
 
-Les auteurs invoquent le [Two-state vector formalism](w:en:Two-state_vector_formalism), une "interprétation minoritaire de la mécanique quantique", pour expliquer ce qui se passe(rait) : les photons voyageraient "à la fois" de la source à la destination et vice-versa (ce qui est envisageable selon la [Symétrie CPT](w:) dont je cause ici : [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/04/miroir/) )
+Les auteurs invoquent le [Two-state vector formalism](w:en:Two-state_vector_formalism), une "interprétation minoritaire de la mécanique quantique", pour expliquer ce qui se passe(rait) : les photons voyageraient "à la fois" de la source à la destination et vice-versa (ce qui est envisageable selon la [Symétrie CPT](w:) dont je cause ici : [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/) )
 
 Mais des types qui maîtrisent la MQ bien mieux que moi disent que ça peut très bien s'expliquer sans invoquer de particules qui remontent le temps, et je les crois sur parole.

@@ -30,7 +30,7 @@ Il y a déjà :
 
 donc j'ai soumis à l'OEIS la nouvelle série qui devrait s’appeler A330287 après validation. *Edit : en fait la suite existait déjà, c'est*[*A061909*](https://oeis.org/A061909)*qui a une définition très différente mais produit les même nombres pour une raison mystérieuse*
 
-et j'ai implanté tout ça dans mes [Suites infinies en Python](https://www.drgoulu.com/2017/06/26/series-infinies-et-oeis-en-python/) :
+et j'ai implanté tout ça dans mes [Suites infinies en Python](/2017/06/26/series-infinies-et-oeis-en-python/) :
 
 ```
 A000290 = Sequence(None, lambda n: n * n, lambda n: is_square(n), 'squares') #existait déjà

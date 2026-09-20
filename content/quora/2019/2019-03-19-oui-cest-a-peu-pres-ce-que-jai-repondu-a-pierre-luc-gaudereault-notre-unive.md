@@ -25,4 +25,4 @@ Oui, c’est à peu près ce que j’ai [répondu à Pierre Luc Gaudereault](htt
 
 [https://www.youtube.com/watch?v=...](https://www.youtube.com/watch?v=UocF4ycBnYE)
 
-[La Nature du Temps - Pourquoi Comment Combien](https://www.drgoulu.com/2008/12/24/la-nature-du-temps-2/#.XJEWMShsOCo)
+[La Nature du Temps - Pourquoi Comment Combien](/2008/12/24/la-nature-du-temps-2/#.XJEWMShsOCo)

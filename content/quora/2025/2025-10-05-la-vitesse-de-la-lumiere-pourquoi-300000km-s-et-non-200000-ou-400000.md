@@ -15,4 +15,4 @@ Juste parce qu'on a défini le mètre et la seconde de manières totalement ind�
 
 Quand on a compris ça et réalisé des horloges atomiques plus précises que les mètres étalons, on a défini le mètre en fonction de la seconde en fixant la vitesse de la lumière à une valeur arbitraire
 
-[https://drgoulu.com/2017/05/26/p...](https://drgoulu.com/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)
+[https://drgoulu.com/2017/05/26/p...](/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)

@@ -31,9 +31,9 @@ Par contre, cette expansion n'est **pas constante**. Logiquement, elle devrait "
 
 Mais en 1998, grosse surprise, des mesures récompensées par le Prix Nobel de Physique en 2011 montrent que [l'expansion accélère](w:Accélération_de_l'expansion_de_l'Univers) !
 
-Ce phénomène a introduit l'idée d'une "[énergie noire](w:)" remplissant l'Univers et se comportant comme une force gravitationnelle répulsive. Celui qui trouve ce que c'est gagne un autre Prix Nobel, promis juré ([je sais comment faire…](https://www.drgoulu.com/2017/09/20/proposer-ig-nobel/#.YD5nu2hsOCo))
+Ce phénomène a introduit l'idée d'une "[énergie noire](w:)" remplissant l'Univers et se comportant comme une force gravitationnelle répulsive. Celui qui trouve ce que c'est gagne un autre Prix Nobel, promis juré ([je sais comment faire…](/2017/09/20/proposer-ig-nobel/#.YD5nu2hsOCo))
 
-Le BigBang et son "inflation", puis le ralentissement de l'expansion et l'accélération subséquente** ainsi que plein d'autres choses cosmologiques font l'objet de [mon image de profil](https://www.drgoulu.com/2008/05/30/le-big-bang-en-une-image/#.YD5ohmhsOCo), dont voici la version avec texte en français que je viens de trouver:
+Le BigBang et son "inflation", puis le ralentissement de l'expansion et l'accélération subséquente** ainsi que plein d'autres choses cosmologiques font l'objet de [mon image de profil](/2008/05/30/le-big-bang-en-une-image/#.YD5ohmhsOCo), dont voici la version avec texte en français que je viens de trouver:
 
 ![](./images/qimg-1195f01a6affe04477493e94acbdbc39.jpg)
 

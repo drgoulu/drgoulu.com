@@ -21,4 +21,4 @@ Quelqu'un a fait cette intro qui me donne à chaque fois le vertige :
 
 Ce qui fait que ce roman dépasse le Space opéra :
 
-[https://www.drgoulu.com/2012/10/...](https://www.drgoulu.com/2012/10/28/anneau-monde-et-surpopulation/#.Yu4P7qS-g0E)
+[https://www.drgoulu.com/2012/10/...](/2012/10/28/anneau-monde-et-surpopulation/#.Yu4P7qS-g0E)

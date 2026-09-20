@@ -19,7 +19,7 @@ L'article est là :
 
 Ma première réaction de non spécialiste curieux est qu'il y a d'autres mutations de l'hémoglobine liées à des "stress environnementaux" dans le cas de
 
-[https://www.drgoulu.com/2014/08/...](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+[https://www.drgoulu.com/2014/08/...](/2014/08/17/ladaptation-a-laltitude/)
 
 Dans ce cas, la sélection naturelle fait que les femmes vivant en altitude qui n'ont pas ces mutations ont un risque d'éclampsie plus élevé à l'accouchement.
 

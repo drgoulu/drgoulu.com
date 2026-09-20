@@ -26,4 +26,4 @@ Une croissance cubique est inférieure à la croissance exponentielle "naturelle
 
 Tôt ou tard, notre croissance sera limitée. Nous ne pourrons pas tolérer d'autres civilisations. Ils ne pourront pas nous tolérer…
 
-[P rincipe de Saturation Cubique - Pourquoi Comment Combien](https://www.drgoulu.com/1999/10/24/psc/)
+[P rincipe de Saturation Cubique - Pourquoi Comment Combien](/1999/10/24/psc/)

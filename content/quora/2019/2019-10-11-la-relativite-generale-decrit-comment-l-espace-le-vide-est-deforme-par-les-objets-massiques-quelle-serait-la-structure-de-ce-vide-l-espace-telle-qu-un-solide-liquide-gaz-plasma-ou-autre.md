@@ -37,6 +37,6 @@ Donc la réponse à votre question est : ni solide, ni liquide, ni gaz, ni plasm
 
 Notes de bas de page
 
-[[1]](#cite-dgfUt)[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/#.XaDAnUaiGCo)
+[[1]](#cite-dgfUt)[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/#.XaDAnUaiGCo)
 
-[[2]](#cite-vwJjI)[La Renaissance du temps 2/2 - Pourquoi Comment Combien](https://www.drgoulu.com/2015/12/31/la-renaissance-du-temps-22/#.XaC_8UaiGCo)
+[[2]](#cite-vwJjI)[La Renaissance du temps 2/2 - Pourquoi Comment Combien](/2015/12/31/la-renaissance-du-temps-22/#.XaC_8UaiGCo)

@@ -27,4 +27,4 @@ Si vous voulez parler de la [constante universelle c](w:Vitesse_de_la_lumière),
 
 Mais en réalité, c=1 car c'est le rapport entre l'espace et le temps. Ce sont nos mètres et nos secondes qui ont été définis independemment et qui donnent une valeur de c bizarre, mais on est en train de corriger ça.
 
-[Pourquoi on ne peut plus mesurer la vitesse de la lumière - Pourquoi Comment Combien](https://www.drgoulu.com/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)
+[Pourquoi on ne peut plus mesurer la vitesse de la lumière - Pourquoi Comment Combien](/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)

@@ -52,4 +52,4 @@ Parce qu'il est plus difficile et dangereux à stocker, et à transporter qu'un 
 1. L'électrolyse de l'eau, qui demande beaucoup d'energie électrique, ce qui rend l'hydrogène très cher
 2. Le [Reformage du méthane](w:), qui, comme son nom l'indique, extrait l'hydrogène du gaz naturel, et comme il ne l'indique pas, dégage du CO2 à l'usine. L'hydrogène industriel est produit comme ça, car c'est bon marché. Surtout dans les pays qui ont beaucoup de gaz et de charbon, et qui encouragent aujourd'hui l'hydrogène. La Chine par exemple…
 
-[L ’Hydrogène, énergie du futur ? - Pourquoi Comment Combien](https://www.drgoulu.com/2007/09/06/lhydrogene-energie-du-futur/)
+[L ’Hydrogène, énergie du futur ? - Pourquoi Comment Combien](/2007/09/06/lhydrogene-energie-du-futur/)

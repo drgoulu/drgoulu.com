@@ -31,4 +31,4 @@ on est trop loin du compte pour pouvoir espérer que la fusion contribue à rés
 
 Mais oui, la fusion nucléaire est quand même l'avenir de l'humanité en terme d'énergie, grâce au superbe réacteur à fusion thermonucléaire naturel qui nous fournit 1000 W/m2 de rayonnement que nous savons récupérer à 10% directement sous forme d'électricité en mettant un peu de silicium sur nos toits, là, maintenant.
 
-[https://www.drgoulu.com/2005/12/...](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[https://www.drgoulu.com/2005/12/...](/2005/12/11/la-fusion-thermonucleaire/)

@@ -31,4 +31,4 @@ En fait toute ma génération a bossé dans ce but :
 >
 > Je n’arrive toujours pas à comprendre comment on est retombés sur Terre à cultiver bio et voter écolo en critiquant le méchant lobby agro-pharma-industriel alors qu’on vit 80 ans en bonne santé, en bossant moins que nos parents et en allant 3x plus loin en vacances qu’eux. C’est pas avec le “principe de précaution” qu’on a inventé le turboréacteur ni les chimiothérapies, que diable !
 
-[Pourquoi je kiffe la science - Pourquoi Comment Combien](https://www.drgoulu.com/2013/04/28/pourquoi-je-kiffe-la-science/)
+[Pourquoi je kiffe la science - Pourquoi Comment Combien](/2013/04/28/pourquoi-je-kiffe-la-science/)

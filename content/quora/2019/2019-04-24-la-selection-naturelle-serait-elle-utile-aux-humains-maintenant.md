@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Elle l'est toujours. Et oui je vais re-re-ressortir le même exemple :
 
-[L'adaptation à l'altitude - Pourquoi Comment Combien](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/#.XMA4KBg6-yU)
+[L'adaptation à l'altitude - Pourquoi Comment Combien](/2014/08/17/ladaptation-a-laltitude/#.XMA4KBg6-yU)
 
 C'est le plus spectaculaire à ma connaissance, mais il y en a certainement de plus discrets.

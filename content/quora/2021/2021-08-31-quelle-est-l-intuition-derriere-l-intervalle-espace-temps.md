@@ -47,4 +47,4 @@ Notes de bas de page
 
 [[1]](#cite-qsYpp)[Une météorite s'est écrasée sur la Lune lors de l'éclipse totale lunaire.](https://hitek.fr/actualite/impact-meteorite-surface-lune-eclipse-totale-lunaire-janvier-2019_18409)
 
-[[2]](#cite-hWGXY)[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
+[[2]](#cite-hWGXY)[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)

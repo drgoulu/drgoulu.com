@@ -15,4 +15,4 @@ En principe oui. Le mouvement des planètes en est très proche, mais il y a qua
 
 Seulement ça n'a aucun intérêt. Le "but" d'un mouvement perpétuel serait de pouvoir en extraire de l'énergie sans que le bidule en perde, donc de "créer" de l'énergie à gogo à partir de rien. Et ça c'est NON.
 
-[https://www.drgoulu.com/2012/05/...](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/)
+[https://www.drgoulu.com/2012/05/...](/2012/05/27/dites-non-au-mouvement-perpetuel/)

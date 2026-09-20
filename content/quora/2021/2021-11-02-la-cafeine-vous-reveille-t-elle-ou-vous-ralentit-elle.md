@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Ni l'un ni l'autre. Elle me psychostimule en étant un inhibiteur compétitif de l'adénosine.
 
-[https://www.drgoulu.com/2012/07/...](https://www.drgoulu.com/2012/07/07/magnifique-cafeine/)
+[https://www.drgoulu.com/2012/07/...](/2012/07/07/magnifique-cafeine/)
 
 Mais elle me donne aussi envie de pisser …

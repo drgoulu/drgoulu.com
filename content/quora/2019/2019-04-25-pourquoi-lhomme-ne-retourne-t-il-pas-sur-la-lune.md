@@ -29,7 +29,7 @@ et en effet, la technologie générée a été telle qu’aujourd’hui des robo
 
 2. en 2006 la NASA a justement répertorié 181 choses à faire sur la Lune[[2]](#gLEaD) . Mais les seules qui demandent réellement une présence humaine sur la Lune sont celles dont le but est de permettre une présence humaine sur la Lune… Les objectifs scientifiques et économiques représentant la grande majorité des 181 raisons d’aller sur la Lune peuvent pratiquement toutes être réalisées par des missions automatiques dès aujourd’hui.
 
-[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/07/18/pour-quoi-retourner-sur-la-lune/)
+[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](/2009/07/18/pour-quoi-retourner-sur-la-lune/)
 
 Notes de bas de page
 

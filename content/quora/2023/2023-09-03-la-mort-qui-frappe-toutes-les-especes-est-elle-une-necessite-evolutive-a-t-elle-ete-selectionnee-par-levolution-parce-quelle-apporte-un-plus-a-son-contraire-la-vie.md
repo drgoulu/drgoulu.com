@@ -30,4 +30,4 @@ Pour les rares êtres qui ont le luxe de vieillir, l'évolution devient un ennem
 
 Ca n'arriverait pas si la reproduction (des cellules ou des êtres complexes, ça revient au même) était 100% fiable, mais dans ce cas il n'y aurait pas d'évolution des espèces…
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/21/pourquoi-les-bebes-sont-plus-jeunes-que-leurs-parents/)
+[https://www.drgoulu.com/2009/03/...](/2009/03/21/pourquoi-les-bebes-sont-plus-jeunes-que-leurs-parents/)

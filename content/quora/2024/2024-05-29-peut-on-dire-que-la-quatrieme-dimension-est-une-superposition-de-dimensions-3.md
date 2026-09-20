@@ -13,8 +13,8 @@ coverImage: ./images/quora.png
 
 Oui c'est ça
 
-[https://drgoulu.com/2007/02/06/v...](https://drgoulu.com/2007/02/06/voir-en-4-dimensions/)
+[https://drgoulu.com/2007/02/06/v...](/2007/02/06/voir-en-4-dimensions/)
 
 Mais "notre" quatrième dimension n'est pas spatiale mais temporelle. Mathématiquement elle est "perpendiculaire" aux 3 autres comme les nombres imaginaires sont perpendiculaires aux nombres réels
 
-[https://drgoulu.com/2007/02/07/l...](https://drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
+[https://drgoulu.com/2007/02/07/l...](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)

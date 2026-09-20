@@ -19,4 +19,4 @@ Donc il faudrait que les planètes fabriquent d'autres planètes légèrement di
 
 [Lee Smolin a proposé l'idée de sélection naturelle cosmologique](w:Lee_Smolin) ou d' "univers féconds" générant des univers semblables dans leurs trous noirs …
 
-Ce n'est pas son idée que je préfère, il y en a beaucoup d'autres qui me paraissent plus solides, et surtout testables dans [La Renaissance du Temps](https://www.drgoulu.com/2015/01/28/la-renaissance-du-temps/)notamment.
+Ce n'est pas son idée que je préfère, il y en a beaucoup d'autres qui me paraissent plus solides, et surtout testables dans [La Renaissance du Temps](/2015/01/28/la-renaissance-du-temps/)notamment.

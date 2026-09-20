@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Une définition ne mène pas à grand chose. Mais la physique décrite par cette définition fait par exemple qu'il faut 4 satellites pour déterminer votre position en 3 dimensions par GPS.
 
-[https://www.drgoulu.com/2008/09/...](https://www.drgoulu.com/2008/09/27/le-gps-pour-les-nuls-satellites-et-signaux/)
+[https://www.drgoulu.com/2008/09/...](/2008/09/27/le-gps-pour-les-nuls-satellites-et-signaux/)

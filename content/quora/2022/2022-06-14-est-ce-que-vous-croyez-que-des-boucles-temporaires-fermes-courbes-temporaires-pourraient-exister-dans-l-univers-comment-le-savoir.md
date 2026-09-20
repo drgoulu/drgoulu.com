@@ -31,7 +31,7 @@ Bref, c'est pas demain la veille du jour où on saura si ces choses existent. Et
 
 On a plus de chances de s'en sortir en suivant ce mode d'emploi
 
-[https://www.drgoulu.com/2006/06/...](https://www.drgoulu.com/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/#.Yqjv8Wm-g0E)
+[https://www.drgoulu.com/2006/06/...](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/#.Yqjv8Wm-g0E)
 
 Mais pour ça il faut des ingrédients encore plus ezranges que des trous noirs. Tellement étranges qu'on ne sait pas si l'univers autorise leur existence.
 

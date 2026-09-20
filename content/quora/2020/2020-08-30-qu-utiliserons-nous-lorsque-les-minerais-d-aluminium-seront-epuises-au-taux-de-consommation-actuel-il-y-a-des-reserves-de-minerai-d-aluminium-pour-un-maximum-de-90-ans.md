@@ -21,8 +21,8 @@ Dans 90 ans:
 - On utilisera des alternatives (fibre de carbone, titane)
 - et au pire, le prix de l'aluminium augmentera et rendra rentables des gisements qui ne le sont pas actuellement.
 
-Exemple : le [Pic pétrolier](w:)annoncé pour 1970 en 1956 est toujours annoncé après plusieurs révisions, maintenant pour 2025. .. Et le pic survient théoriquement à la moitié de la production, après elle décroît pendant le même temps qu'elle a augmenté (150 ans…[)](https://www.drgoulu.com/2017/04/28/mythe-de-lepuisement-ressources-minieres/)
+Exemple : le [Pic pétrolier](w:)annoncé pour 1970 en 1956 est toujours annoncé après plusieurs révisions, maintenant pour 2025. .. Et le pic survient théoriquement à la moitié de la production, après elle décroît pendant le même temps qu'elle a augmenté (150 ans…[)](/2017/04/28/mythe-de-lepuisement-ressources-minieres/)
 
 Rappel : l'aluminium est le deuxième élément le plus [Abondant dans la croûte terrestre](w:Abondance_des_éléments_dans_la_croûte_terrestre)après le silicium (le 3ème si on compte l'oxygène)
 
-[Combien reste-t-il de ressources minières ? Beaucoup. - Pourquoi Comment Combien](https://www.drgoulu.com/2017/04/28/mythe-de-lepuisement-ressources-minieres/)
+[Combien reste-t-il de ressources minières ? Beaucoup. - Pourquoi Comment Combien](/2017/04/28/mythe-de-lepuisement-ressources-minieres/)

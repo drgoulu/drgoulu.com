@@ -15,7 +15,7 @@ Le fait est que beaucoup de gens attribuent leur pensée à deux balles à Einst
 
 Il n'y a aucune source de cette "citation d'Einstein", dont je n'ai pas trouvé l'équivalent en anglais, ce qui est rare.
 
-[Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](https://www.drgoulu.com/2008/11/26/ce-queinstein-na-jamais-dit/)
+[Ce qu'Einstein n'a jamais dit - Pourquoi Comment Combien](/2008/11/26/ce-queinstein-na-jamais-dit/)
 
 Pour revenir à la question, je ne suis pas d'accord avec votre pensée à deux balles parce que j'ai des contre-exemples:
 

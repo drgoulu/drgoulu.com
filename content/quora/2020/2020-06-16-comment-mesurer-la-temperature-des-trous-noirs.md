@@ -39,4 +39,4 @@ Et on a jamais pu mesurer la température d'un horizon non plus …
 
 Notes de bas de page
 
-[[1]](#cite-rAQmX)[Plus froid que l'espace - Pourquoi Comment Combien](https://www.drgoulu.com/2007/05/09/plus-froid-que-lespace/)
+[[1]](#cite-rAQmX)[Plus froid que l'espace - Pourquoi Comment Combien](/2007/05/09/plus-froid-que-lespace/)

@@ -17,4 +17,4 @@ Les trous noirs se déplacent exactement comme des corps célestes très massifs
 
 S'ils se mettent à se tourner l'un autour de l'autre, alors là bonjour le ballet relativiste à la sauce d'ondes gravitationnelles !
 
-Mon duo préféré est [OJ 287](w:) : [Ca c'est du trou noir, du vrai !](https://www.drgoulu.com/2008/04/18/ca-cest-du-trou-noir-du-vrai/)
+Mon duo préféré est [OJ 287](w:) : [Ca c'est du trou noir, du vrai !](/2008/04/18/ca-cest-du-trou-noir-du-vrai/)

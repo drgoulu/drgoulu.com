@@ -25,4 +25,4 @@ L'innovation se produit principalement dans les entreprises qui vont mal, parce 
 
 Dans une entreprise qui va bien, l'innovation est un risque qui peut couler la boîte (exemple: [Iridium](w:Iridium_(téléphonie_par_satellite))de Motorola) et la tendance naturelle du management est de continuer à traire la vache en faisant de la rénovation (exemple: iPhone [+=1](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Operators/Addition_assignment) )
 
-[https://www.drgoulu.com/2012/07/...](https://www.drgoulu.com/2012/07/01/innovation/)
+[https://www.drgoulu.com/2012/07/...](/2012/07/01/innovation/)

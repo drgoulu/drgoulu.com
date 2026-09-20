@@ -29,4 +29,4 @@ Si on arrive pas à être moins nombreux, la conséquence sera qu'on sera beauco
 
 Greta Thunberg peut aider en n'ayant pas d'enfants.
 
-[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
+[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)

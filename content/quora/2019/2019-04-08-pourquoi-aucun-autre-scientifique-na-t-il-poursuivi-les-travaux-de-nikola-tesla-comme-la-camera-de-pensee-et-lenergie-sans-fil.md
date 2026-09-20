@@ -25,7 +25,7 @@ Caméra de pensée* = [Imagerie par résonance magnétique fonctionnelle](w:), v
 
 [Transmission d'énergie sans fil](w:) : voir [Eric Giler fait une démonstration d'électricité sans fil](https://www.ted.com/talks/eric_giler_demos_wireless_electricity?language=fr) au TED par exemple.
 
-[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](/2012/08/19/nikola-tesla-genie-mais-connu/)
 
 *note: Tesla n’a pas travaillé sur ce sujet, juste émis l’idée[[2]](#VanEB) .
 

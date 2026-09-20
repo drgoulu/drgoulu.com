@@ -31,6 +31,6 @@ Si la "vitesse de la lumière" c était différente, ce serait le mètre et/ou l
 
 Notes de bas de page
 
-[[1]](#cite-POLgF)[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](https://www.drgoulu.com/2004/08/09/acceleration/#.XvGtPGiiGCo)
+[[1]](#cite-POLgF)[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](/2004/08/09/acceleration/#.XvGtPGiiGCo)
 
-[[2]](#cite-edebr)[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/#.XvGvemiiGCo)
+[[2]](#cite-edebr)[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](/2011/01/30/pourquoi-3-dimensions-1-temps/#.XvGvemiiGCo)

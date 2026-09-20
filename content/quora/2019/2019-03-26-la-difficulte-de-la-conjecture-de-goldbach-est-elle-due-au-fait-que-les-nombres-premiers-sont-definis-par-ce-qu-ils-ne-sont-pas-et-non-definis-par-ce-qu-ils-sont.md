@@ -15,4 +15,4 @@ C’est très probablement ça, d’autant qu’il existe une conjecture analogu
 
 L’étude des nombres chanceux montre qu’un certains nombre de propriétés des nombres premiers n’est pas lié à leur primalité, mais à la notion de [Crible mathématique](w:Crible_(mathématiques)).
 
-[2019 passée au crible - Pourquoi Comment Combien](https://www.drgoulu.com/2019/01/06/2019-passee-au-crible/)
+[2019 passée au crible - Pourquoi Comment Combien](/2019/01/06/2019-passee-au-crible/)

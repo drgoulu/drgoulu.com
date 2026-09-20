@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non. Nos appareils actuels fonctionnent avec des puissances bien plus faibles que les précédents, et s'il y avait juste un tout petit effet il se verrait très nettement aujourd'hui déjà.
 
-[Pourquoi je n'ai toujours pas peur de mon téléphone mobile - Pourquoi Comment Combien](https://www.drgoulu.com/2011/06/03/pourquoi-je-nai-toujours-pas-peur/)
+[Pourquoi je n'ai toujours pas peur de mon téléphone mobile - Pourquoi Comment Combien](/2011/06/03/pourquoi-je-nai-toujours-pas-peur/)

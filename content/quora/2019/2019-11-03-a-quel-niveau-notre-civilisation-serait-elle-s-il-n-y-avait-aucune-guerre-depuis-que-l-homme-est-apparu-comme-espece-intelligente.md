@@ -23,4 +23,4 @@ coverImage: ./images/quora.png
 
 En retard. Les guerres ont motivé l'innovation technologique de l'âge du bronze à nos jours. Par exemple, nous volerions probablement en dirigeables, parce que les Zeppelins étaient conçus pour être gonflés à l'helium. Mais les plus gros gisements d'hélium étaient aux USA, qui n'ont pas livré leur hélium aux nazis. Zeppelin a du gonfler ses dirigeables à l'hydrogène, avec le résultat qu'on connait. Ensuite, les avions a réactions ont été inventés pendant la 2ème guerre mondiale, etc. etc.
 
-[Combien d'Helium ? - Pourquoi Comment Combien](https://www.drgoulu.com/2010/07/04/combien-dhelium/#.Xb8WruhsOCo)
+[Combien d'Helium ? - Pourquoi Comment Combien](/2010/07/04/combien-dhelium/#.Xb8WruhsOCo)

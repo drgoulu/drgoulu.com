@@ -15,4 +15,4 @@ Le [Nombre de Graham](w:) a longtemps été le plus grand nombre utile en mathé
 
 Il est tellement grand qu'on ne peut même pas écrire son nombre de chiffres, ou le nombre de chiffres du nombre de chiffres…
 
-[T rès très très grands nombres - Pourquoi Comment Combien](https://www.drgoulu.com/2008/11/04/tres-tres-tres-grands-nombres/)
+[T rès très très grands nombres - Pourquoi Comment Combien](/2008/11/04/tres-tres-tres-grands-nombres/)

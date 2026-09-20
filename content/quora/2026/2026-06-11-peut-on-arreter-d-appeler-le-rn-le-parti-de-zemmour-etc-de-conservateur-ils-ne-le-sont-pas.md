@@ -17,6 +17,6 @@ Avez vous déjà pensé que si les révolutionnaires s'étaient réunis dans un 
 
 Il y a aujourd'hui des moyens purement mathématiques d'analyser les positionnements politiques, et on peut démontrer qu'un seul axe ne suffit plus quand il y a beaucoup de partis. Un deuxième axe est significatif. Vous pouvez appeler cet axe "patate-choucroute" si vous voulez , ça ne change rien au fait que votre RN se distingue de votre droite selon cet axe, pas en étant encore plus à droite.
 
-[https://drgoulu.com/2017/05/14/l...](https://drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://drgoulu.com/2017/05/14/l...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 Si vous voulez trouver des mots décrivant la différence des positionnements entre des partis situés au même niveau sur l'axe gauche droite, et des termes qui garderaient un sens similaires dans d'autres pays, alors vous avez le choix : Libertarien / Populiste, Progressiste / Conservateur, Autoritaire / Libertaire , peu importe.

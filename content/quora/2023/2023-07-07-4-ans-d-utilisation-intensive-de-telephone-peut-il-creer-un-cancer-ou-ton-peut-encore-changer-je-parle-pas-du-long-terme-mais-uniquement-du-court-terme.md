@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non.
 
-[https://www.drgoulu.com/2011/06/...](https://www.drgoulu.com/2011/06/03/pourquoi-je-nai-toujours-pas-peur/)
+[https://www.drgoulu.com/2011/06/...](/2011/06/03/pourquoi-je-nai-toujours-pas-peur/)

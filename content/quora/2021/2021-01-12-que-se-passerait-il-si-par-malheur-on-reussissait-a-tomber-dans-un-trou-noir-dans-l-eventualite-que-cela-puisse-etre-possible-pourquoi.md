@@ -43,6 +43,6 @@ Pourquoi j'ai (pour une fois) appelé ça une religion plutôt qu'une théorie, 
 
 Notes de bas de page
 
-[[1]](#cite-BhGLV)[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+[[1]](#cite-BhGLV)[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](/2011/01/30/pourquoi-3-dimensions-1-temps/)
 
-[[2]](#cite-IfZRm)[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[[2]](#cite-IfZRm)[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)

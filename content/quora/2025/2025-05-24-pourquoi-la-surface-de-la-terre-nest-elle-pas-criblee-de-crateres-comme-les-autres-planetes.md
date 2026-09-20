@@ -25,4 +25,4 @@ Mais il y en a de très beaux et instructifs, par exemple celui-ci
 
 ![](./images/qimg-aed004707011d23cbed5e3a771e566fd.jpg)
 
-Voir [de Manicouagan à Rochechouart - Pourquoi Comment Combien](https://drgoulu.com/2009/04/16/de-manicouagan-a-rochechouart/)
+Voir [de Manicouagan à Rochechouart - Pourquoi Comment Combien](/2009/04/16/de-manicouagan-a-rochechouart/)

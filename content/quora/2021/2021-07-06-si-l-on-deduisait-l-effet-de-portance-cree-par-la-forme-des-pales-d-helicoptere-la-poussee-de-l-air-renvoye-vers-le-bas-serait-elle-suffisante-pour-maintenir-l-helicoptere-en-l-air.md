@@ -15,4 +15,4 @@ C'est la même chose. La portance est égale à la "poussée d'air renvoyée ver
 
 La question qui n'est pas encore très bien résolue est pourquoi un extrados bombé renvoie l'air vers le bas, mais effectivement vous pouvez créer une portance avec une pale plate ayant juste un angle d'incidence.
 
-[https://www.drgoulu.com/2012/03/...](https://www.drgoulu.com/2012/03/11/portance-pourquoi-ca-vole/)
+[https://www.drgoulu.com/2012/03/...](/2012/03/11/portance-pourquoi-ca-vole/)

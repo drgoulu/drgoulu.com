@@ -35,4 +35,4 @@ Pour des déchets de centrales civiles, en additionnant les divers types de déc
 
 On y voit que l’activité des déchets diminue d’un premier facteur 10 en 2000 ans environ, puis d’un autre facteur 10 au bout de 40′000 ans environ, et qu’au bout de 200′000 ans, elle devient inférieure à celle du minerai d’Uranium (horizontale verte). C’est le niveau qui est considéré comme acceptable.
 
-[Bure, plongée dans l'éternité - Pourquoi Comment Combien](https://www.drgoulu.com/2014/05/24/bure-pour-leternite/)
+[Bure, plongée dans l'éternité - Pourquoi Comment Combien](/2014/05/24/bure-pour-leternite/)

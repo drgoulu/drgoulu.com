@@ -18,4 +18,4 @@ Pourquoi : parce qu'une mission vers Mars et retour nécessite BEAUCOUP de carbu
 
 En fait une idée est même de produire le carburant du retour sur Mars de la même manière.
 
-[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](https://www.drgoulu.com/2012/09/05/un-petit-pas-pour-lhomme/)
+[Un petit pas pour l'homme ... dans un petit puits gravitationnel. - Pourquoi Comment Combien](/2012/09/05/un-petit-pas-pour-lhomme/)

@@ -19,4 +19,4 @@ Personnellement j'ai une petite préférence intuitive (donc : méfiance …) po
 
 L'idée que le temps naisse en même temps que la matière me plait assez…
 
-(voir [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](https://www.drgoulu.com/2009/04/04/miroir/#.XzeUDOiFqCo) (mon meilleur article de tous les temps))
+(voir [MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/#.XzeUDOiFqCo) (mon meilleur article de tous les temps))

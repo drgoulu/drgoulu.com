@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il avait clairement predit qu'une experience du CERN transformerait la Terre en trou noir, alors depuis j'ai de légers doutes sur ses prédictions
 
-[https://www.drgoulu.com/2008/06/...](https://www.drgoulu.com/2008/06/08/nostradamus-et-les-catastrophysiciens/#.Y1p8e6S3A0E)
+[https://www.drgoulu.com/2008/06/...](/2008/06/08/nostradamus-et-les-catastrophysiciens/#.Y1p8e6S3A0E)

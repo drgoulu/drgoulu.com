@@ -26,7 +26,7 @@ J'avais découvert que les "exemples" ou les mesures basées sur la comparaison 
 
 La moins mauvaise manière de mesurer les inégalités est le [Coefficient de Gini](w:), qui tient compte de toute la population. C'est cette mesure qui est utilisée dans les comparaisons internationales comme celles de l'OCDE par exemple.
 
-J'ai fait un [Calculateur d'(in)égalité](https://www.drgoulu.com/2009/10/11/calculateur-dinegalite/#.Xe6VmuhsOCo) avec explications permettant de le calculer, par exemple pour une entreprise, mais il n'est hélas pas encore courant de "benchmarker" les salaires ainsi.
+J'ai fait un [Calculateur d'(in)égalité](/2009/10/11/calculateur-dinegalite/#.Xe6VmuhsOCo) avec explications permettant de le calculer, par exemple pour une entreprise, mais il n'est hélas pas encore courant de "benchmarker" les salaires ainsi.
 
 Je l'avais appliqué aux seule salaires que j'avais pu trouver en ligne, ceux des joueurs de tennis de l'ATP. Résultat : ils sont encore plus inégaux que le Mexique, cancre de l'OCDE.[[1]](#cWzeB) Pourtant on ne proteste pas contre les revenus mirobolants des sportifs mais contre ceux de directeurs dont dépendent des milliers d'emploi …
 
@@ -44,6 +44,6 @@ C'est Hans Rosling qui explique ceci en montrant que le fossé entre les pays d�
 
 Notes de bas de page
 
-[[1]](#cite-cWzeB)[1:12, le prix du talent - Pourquoi Comment Combien](https://www.drgoulu.com/2013/10/26/112-le-prix-du-talent/#.Xe6VbehsOCo)
+[[1]](#cite-cWzeB)[1:12, le prix du talent - Pourquoi Comment Combien](/2013/10/26/112-le-prix-du-talent/#.Xe6VbehsOCo)
 
-[[2]](#cite-nFFIa)[Combien d'inégalité ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/21/combien-dinegalite/#.Xe6ZFuhsOCo)
+[[2]](#cite-nFFIa)[Combien d'inégalité ? - Pourquoi Comment Combien](/2009/03/21/combien-dinegalite/#.Xe6ZFuhsOCo)

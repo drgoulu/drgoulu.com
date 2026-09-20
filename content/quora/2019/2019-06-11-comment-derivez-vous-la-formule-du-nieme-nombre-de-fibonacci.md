@@ -39,4 +39,4 @@ L’algorithme de l'[exponentiation rapide](http://www.wikipedia.org/search-redi
 
 En utilisant cette combine, mon [petit code python](https://gist.github.com/goulu/f56725fa32fbb4840c855a8309662c9d#file-fibonacci-py) permet de calculer le 10^19 ème terme de Fibonacci en un pouillème de seconde (ok, modulo quelque chose…)
 
-[Comment calculer le 10'000'000'000'000'000'000 ème terme de la suite de Fibonacci - Pourquoi Comment Combien](https://www.drgoulu.com/2017/04/25/comment-calculer-le-1e19-eme-terme-de-la-suite-de-fibonacci/)
+[Comment calculer le 10'000'000'000'000'000'000 ème terme de la suite de Fibonacci - Pourquoi Comment Combien](/2017/04/25/comment-calculer-le-1e19-eme-terme-de-la-suite-de-fibonacci/)

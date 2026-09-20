@@ -19,7 +19,7 @@ Elle se détecte par divers instruments, notamment au CERN où elle perturbe l'a
 
 La marée océanique est la réponse dynamique à la même excitation périodique.
 
-[https://www.drgoulu.com/2017/08/...](https://www.drgoulu.com/2017/08/15/combien-de-maree/#.ZE4TXKS-g0E)
+[https://www.drgoulu.com/2017/08/...](/2017/08/15/combien-de-maree/#.ZE4TXKS-g0E)
 
 Notes de bas de page
 

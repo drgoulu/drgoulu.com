@@ -35,4 +35,4 @@ Cela dit, les civilisations extraterrestres intelligentes préfèrent $\tau = 2\
 
 Parce qu'elles sont intelligentes…
 
-[https://www.drgoulu.com/2016/03/...](https://www.drgoulu.com/2016/03/14/adieu-3-14-16-le-26-juin-ce-sera-tau-day/)
+[https://www.drgoulu.com/2016/03/...](/2016/03/14/adieu-3-14-16-le-26-juin-ce-sera-tau-day/)

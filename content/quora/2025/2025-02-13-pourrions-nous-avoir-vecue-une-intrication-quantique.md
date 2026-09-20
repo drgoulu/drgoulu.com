@@ -34,4 +34,4 @@ De plus, "vivre une interaction quantique" ne doit pas être très excitant. Ça
 
 Notes de bas de page
 
-[[1]](#cite-ThYvR)[Plus froid que l’espace - Pourquoi Comment Combien](https://drgoulu.com/2007/05/09/plus-froid-que-lespace-2/)
+[[1]](#cite-ThYvR)[Plus froid que l’espace - Pourquoi Comment Combien](/2007/05/09/plus-froid-que-lespace-2/)

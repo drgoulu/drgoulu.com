@@ -31,6 +31,6 @@ Bon, on est pas sur que ces impacts soient tous dus à des géocroiseurs, mais c
 
 Il y a même des astéroïdes qui créent plusieurs impacts… Non ils ne rebondissent pas … Langue au chat ici :
 
-[https://www.drgoulu.com/2009/04/...](https://www.drgoulu.com/2009/04/16/de-manicouagan-a-rochechouart/#.Y-J3ZnZsOCo)
+[https://www.drgoulu.com/2009/04/...](/2009/04/16/de-manicouagan-a-rochechouart/#.Y-J3ZnZsOCo)
 
 Note* : le terme "croiser l'orbite" n'est pas assez clair : l'orbite de ces objets traverse la sphère dont l'orbite terrestre est l'équateur, donc ils peuvent passer à 2UA de la Terre… L'espace, c'est très vide …

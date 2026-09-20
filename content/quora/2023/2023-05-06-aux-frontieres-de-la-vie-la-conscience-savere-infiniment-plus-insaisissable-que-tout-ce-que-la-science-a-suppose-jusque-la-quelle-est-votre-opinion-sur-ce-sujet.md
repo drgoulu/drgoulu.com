@@ -35,6 +35,6 @@ Tout deviendra plus clair quand des cerveaux artificiels deviendront conscients 
 
 Notes de bas de page
 
-[[1]](#cite-stCGf)[Neurologie du Temps - Pourquoi Comment Combien](https://www.drgoulu.com/2009/06/27/neurologie-du-temps/#.ZFZ1rnaiFEY)
+[[1]](#cite-stCGf)[Neurologie du Temps - Pourquoi Comment Combien](/2009/06/27/neurologie-du-temps/#.ZFZ1rnaiFEY)
 
 [[2]](#cite-kKnJl)[Troubles de la conscience et coma - Neurologies](https://neurologies.fr/troubles-de-la-conscience-et-coma)

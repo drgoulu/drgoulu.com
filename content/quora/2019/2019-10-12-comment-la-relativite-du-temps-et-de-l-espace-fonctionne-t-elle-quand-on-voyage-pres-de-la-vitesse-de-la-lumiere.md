@@ -27,4 +27,4 @@ Quand vous voyagez proche de la vitesse de la lumière, tout est normal pour vou
 
 Ce n'est que si vous regardez par le hublot que vous verrez l'Univers très déformé, et un observateur "immobile" vous verra aussi très déformé dans le temps et l'espace.
 
-[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](https://www.drgoulu.com/2004/08/09/acceleration/#.XaGzAEaiGCo)
+[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](/2004/08/09/acceleration/#.XaGzAEaiGCo)

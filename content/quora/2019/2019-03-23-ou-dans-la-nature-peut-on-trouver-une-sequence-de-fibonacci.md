@@ -29,4 +29,4 @@ Mais les plantes ne comptent pas : ces structures sont le résultat d'une optimi
 
 [https://youtu.be/9Qy8QnNqB4A](https://youtu.be/9Qy8QnNqB4A)
 
-Plus de détails sur [Nombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/#.XJXxchnjKyU)
+Plus de détails sur [Nombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/#.XJXxchnjKyU)

@@ -25,4 +25,4 @@ La Vitesse de la lumière a été mesurée de différentes façons, la première
 
 Ensuite il y a eu des mesures de plus en plus précises jusqu'en 1983, où on a fixé la vitesse de la lumière et défini le mètre à partir de la seconde et de c.
 
-[Pourquoi on ne peut plus mesurer la vitesse de la lumière - Pourquoi Comment Combien](https://www.drgoulu.com/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)
+[Pourquoi on ne peut plus mesurer la vitesse de la lumière - Pourquoi Comment Combien](/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)

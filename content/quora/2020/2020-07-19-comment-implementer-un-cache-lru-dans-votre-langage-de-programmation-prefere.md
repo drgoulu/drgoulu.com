@@ -15,4 +15,4 @@ en python, c'est déjà disponible dans la librairie [functools sous la forme du
 
 L'implantation en pur python est sur GitHub là : [python/cpython](https://github.com/python/cpython/blob/3.3/Lib/functools.py)
 
-[les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](https://www.drgoulu.com/2010/12/03/les-decorateurs-python/)
+[les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](/2010/12/03/les-decorateurs-python/)

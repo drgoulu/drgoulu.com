@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Et si elles n'avaient pas de travail, ça irait mieux ?
 
-[Encore plus d'inégalité ? - Pourquoi Comment Combien](https://www.drgoulu.com/2012/07/13/encore-plus-dinegalite/#.WsyE8p86_Z8)
+[Encore plus d'inégalité ? - Pourquoi Comment Combien](/2012/07/13/encore-plus-dinegalite/#.WsyE8p86_Z8)

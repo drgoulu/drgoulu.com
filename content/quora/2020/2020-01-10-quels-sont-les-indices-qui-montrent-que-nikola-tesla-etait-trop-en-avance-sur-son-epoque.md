@@ -28,4 +28,4 @@ Quelqu'un qui était "trop en avance sur son temps", c'était par exemple Léona
 
 A ma connaissance il n'y a aucune des nombreuses inventions de Tesla qui ait été irréalisable à l'époque, et qui soit aujourd'hui courante. Mais ceci n'enlève rien à l'admiration et à la reconnaissance qu'on lui doit pour la machine synchrone, le transport de courant alternatif et la radio .
 
-[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[Nikola Tesla : génie, mais connu - Pourquoi Comment Combien](/2012/08/19/nikola-tesla-genie-mais-connu/)

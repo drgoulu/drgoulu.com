@@ -39,7 +39,7 @@ Dans les “preuves” expérimentales, celle que je trouve la plus spectaculair
 
 [https://www.youtube.com/watch?v=...](https://www.youtube.com/watch?v=yybsSqcB7mE)
 
-et la plus humaine celle-là : [L'adaptation à l'altitude - Pourquoi Comment Combien](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/).
+et la plus humaine celle-là : [L'adaptation à l'altitude - Pourquoi Comment Combien](/2014/08/17/ladaptation-a-laltitude/).
 
 Notes de bas de page
 

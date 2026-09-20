@@ -17,6 +17,6 @@ coverImage: ./images/qimg-d0d3b9ddc4c1eb957e2c6d345c570030.jpg
 
 ![](./images/qimg-f962e78283d53479a7bb5619ba232c65.jpg)
 
-[Initiation au Chindogu - Pourquoi Comment Combien](https://www.drgoulu.com/2009/12/24/initiation-au-chindogu/)
+[Initiation au Chindogu - Pourquoi Comment Combien](/2009/12/24/initiation-au-chindogu/)
 
 Bonne année 2021 à tous et toutes.

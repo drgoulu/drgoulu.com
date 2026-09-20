@@ -33,8 +33,8 @@ Sinon, il y a des objets incroyables qui tournent presque aussi vite : les [Puls
 
 Et si elles s'effondrent en trou noir ? Normalement, une singularité ponctuelle devrait tourner à vitesse infinie… mais il y a un mécanisme qui limite la vitesse de rotation des trous noirs, qui n'ont donc pas de singularité ponctuelle. Mais on arrive quand même à plus de 1000 tours par seconde Pour une masse proche de 10 soleils…
 
-[A combien tourne un trou noir ? - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/)
 
 Notes de bas de page
 
-[[1]](#cite-kMgCv)[Systèmes de Récupération de l'Énergie Cinétique - Pourquoi Comment Combien](https://www.drgoulu.com/2011/07/03/srec/)
+[[1]](#cite-kMgCv)[Systèmes de Récupération de l'Énergie Cinétique - Pourquoi Comment Combien](/2011/07/03/srec/)

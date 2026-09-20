@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-peut-on-stocker-autant-d-information-dans-une-simple-puce-%C3%A9lectronique/answer/Dr-Goulu)*
 
-Lisez [Il y a plein de place en bas - Pourquoi Comment Combien](https://drgoulu.com/2009/06/11/il-y-a-plein-de-place-en-bas-2/)
+Lisez [Il y a plein de place en bas - Pourquoi Comment Combien](/2009/06/11/il-y-a-plein-de-place-en-bas-2/)

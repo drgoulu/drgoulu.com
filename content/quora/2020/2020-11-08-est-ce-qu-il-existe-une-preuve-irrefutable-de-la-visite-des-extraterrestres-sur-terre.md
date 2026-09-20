@@ -15,4 +15,4 @@ Non, strictement aucune.
 
 Mais on peut en fabriquer facilement avec des déchets industriels.
 
-[I (don't) want to believe - Pourquoi Comment Combien](https://www.drgoulu.com/2020/07/24/i-dont-want-to-believe/)
+[I (don't) want to believe - Pourquoi Comment Combien](/2020/07/24/i-dont-want-to-believe/)

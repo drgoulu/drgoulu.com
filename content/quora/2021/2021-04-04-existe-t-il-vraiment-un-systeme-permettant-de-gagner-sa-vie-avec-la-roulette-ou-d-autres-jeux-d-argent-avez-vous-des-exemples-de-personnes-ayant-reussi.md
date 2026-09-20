@@ -23,4 +23,4 @@ A financé ses études au MIT et lancé la société SolidWorks comme ça.
 
 Sinon il y a le poker, qui n'est pas un jeu de hasard selon un tribunal américain. Mais là il faut perdre pendant des années avant d'être éventuellement suffisamment bon pour gagner.
 
-[https://www.drgoulu.com/2012/08/...](https://www.drgoulu.com/2012/08/26/poker/)
+[https://www.drgoulu.com/2012/08/...](/2012/08/26/poker/)

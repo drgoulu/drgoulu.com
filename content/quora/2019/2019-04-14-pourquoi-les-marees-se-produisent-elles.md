@@ -15,4 +15,4 @@ La réponse habituelle “parce que la Lune et le Soleil attirent l’eau des oc
 
 La réponse courte un peu moins fausse que Simon de Laplace propose est “parce que la Lune et la Terre excitent certaines résonances de l’eau des océans”.
 
-[Combien de marée - Pourquoi Comment Combien](https://www.drgoulu.com/2017/08/15/combien-de-maree/)
+[Combien de marée - Pourquoi Comment Combien](/2017/08/15/combien-de-maree/)

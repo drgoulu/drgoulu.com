@@ -34,4 +34,4 @@ En divisant, on trouve combien de molécules tirées d’un litre de pipi de din
 
 Le nombre exact peut être un peu différent, surtout si l'eau d'origine n'a pas eu le temps d'être bien brassée, mais après quelques millions d'années c'est une certitude.
 
-[https://www.drgoulu.com/2008/03/...](https://www.drgoulu.com/2008/03/09/quelles-sont-les-chances/)
+[https://www.drgoulu.com/2008/03/...](/2008/03/09/quelles-sont-les-chances/)

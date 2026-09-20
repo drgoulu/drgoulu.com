@@ -15,4 +15,4 @@ Tout se retrouve dans la géniale [Identité de Kaya — Wikipédia](w:Identité
 
 Il faut donc faire le choix d'Haroun Tazieff : vivre à un milliard de riches ou à dix milliards de miséreux.
 
-[https://www.drgoulu.com/2013/05/...](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
+[https://www.drgoulu.com/2013/05/...](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)

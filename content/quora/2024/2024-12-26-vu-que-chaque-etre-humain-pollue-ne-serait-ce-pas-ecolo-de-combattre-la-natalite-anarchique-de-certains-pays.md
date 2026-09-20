@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Tous ces pays sont en pleine [Transition démographique](w:) et émettent très peu de CO2 par habitant, donc occupez vous plutôt de ce qui se passe chez vous ?
 
-[https://drgoulu.com/2013/05/11/4...](https://drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
+[https://drgoulu.com/2013/05/11/4...](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)

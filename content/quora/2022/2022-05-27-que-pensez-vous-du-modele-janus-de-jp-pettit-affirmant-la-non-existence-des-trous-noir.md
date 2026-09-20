@@ -34,6 +34,6 @@ Dans [Bimetric gravity - Wikipedia](w:en:Bimetric_gravity) Janus/Petit n'a droit
 
 Janus/Petit a le même problème que tous ces modèles et bien d'autres en cosmologie : faire des prédictions expérimentales testables qui permettent de postuler au titre de [Théorie](w:).
 
-[https://www.drgoulu.com/2008/08/...](https://www.drgoulu.com/2008/08/23/suites-courbes-et-theories/)
+[https://www.drgoulu.com/2008/08/...](/2008/08/23/suites-courbes-et-theories/)
 
 Le premier dont la théorie sera vérifiée expérimentalement gagne un Prix Nobel, mais en attendant tous les compétiteurs sont plus ou moins ex-aeco. Avec en principe quand même un avantage aux "jeunes" cosmologistes reconnus dont c'est la spécialité …

@@ -27,6 +27,6 @@ Les marées, c'est compliqué :
 
 ![](./images/qimg-d9d4ac7132abbc3f03203203366494eb.gif)
 
-([Combien de marée - Pourquoi Comment Combien](https://www.drgoulu.com/2017/08/15/combien-de-maree/#.Y5MMM3ZsOCo) )
+([Combien de marée - Pourquoi Comment Combien](/2017/08/15/combien-de-maree/#.Y5MMM3ZsOCo) )
 
 Globalement vous avez des marées de 1m environ côté Atlantique, et quasi nulles côté Méditerranée : la vague de marée est totalement "amortie" au passage du détroit, ce qui cause des courants de 2 nœuds environ dans un sens puis dans l'autre ( voir [Le détroit de Gibraltar](https://www.hisse-et-oh.com/articles/le-detroit-de-gibraltar) )

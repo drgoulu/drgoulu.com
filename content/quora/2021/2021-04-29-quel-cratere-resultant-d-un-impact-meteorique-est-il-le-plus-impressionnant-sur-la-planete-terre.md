@@ -28,4 +28,4 @@ Le lac de Manicouagan au Québec fait 72 km de diamètre. Il est partiellement a
 
 Et on connaît 7 autres impacts du même âge, bien alignés sur la Pangée de l'epoque, dont un à Rochechouart, mais ils sont moins jolis.
 
-[https://www.drgoulu.com/2009/04/...](https://www.drgoulu.com/2009/04/16/de-manicouagan-a-rochechouart/)
+[https://www.drgoulu.com/2009/04/...](/2009/04/16/de-manicouagan-a-rochechouart/)

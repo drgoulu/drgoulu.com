@@ -27,4 +27,4 @@ Bon en fait c'est 50 ans plus tôt que l'aluminium coûtait extrêmement cher. E
 
 Ce n’est qu’à partir de 1886 que la [production de l’aluminium par électrolyse](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=production+de+l&#8217;aluminium+par+électrolyse) est mise au point et que ce métal devient peu à peu suffisamment bon marché pour emballer votre sandwich.
 
-[Trop-plein de Mai - Pourquoi Comment Combien](https://www.drgoulu.com/2014/05/28/trop-plein-de-mai/)
+[Trop-plein de Mai - Pourquoi Comment Combien](/2014/05/28/trop-plein-de-mai/)

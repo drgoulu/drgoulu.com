@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ça s'appelle l'impôt sur le revenu, et sur la fortune.
 
-[https://drgoulu.com/2009/03/21/c...](https://drgoulu.com/2009/03/21/combien-dinegalite/)
+[https://drgoulu.com/2009/03/21/c...](/2009/03/21/combien-dinegalite/)

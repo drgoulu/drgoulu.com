@@ -23,7 +23,7 @@ coverImage: ./images/qimg-0a08272a0328eac7d1122803fd655d36.jpg
 
 Ah ça c'est une excellente question. Je croyais que tout était parfaitement compris jusqu'à ce que je lise 3 articles d'un ami que j'ai résumés ici:
 
-[Portance : pourquoi ça vole ? - Pourquoi Comment Combien](https://www.drgoulu.com/2012/03/11/portance-pourquoi-ca-vole/)
+[Portance : pourquoi ça vole ? - Pourquoi Comment Combien](/2012/03/11/portance-pourquoi-ca-vole/)
 
 En gros, on a des modèles mathématiques qui marchent très bien comme le [Théorème de Kutta-Jukowski](w:), mais qui ne correspondent pas à ce qu'on constate expérimentalement. Et d'autre part on a des principes tout simples comme celui de Newton (la portance est la réaction de la déviation de l'air vers le bas) qui est considéré correct à la NASA[[1]](#hCuKc) , mais sans explication de pourquoi l'air est plus dévié par l'extrados que par l'incidence de l'aile, appelé "effet d'écope".
 

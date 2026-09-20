@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Si vous admettez qu'on peut représenter correctement une forme 3D en 2D, alors on peut faire exactement la même chose de 4D en 3D, et de là en 2D.
 
-Aucun problème pour [Voir en 4 dimensions](https://www.drgoulu.com/2007/02/06/voir-en-4-dimensions/).
+Aucun problème pour [Voir en 4 dimensions](/2007/02/06/voir-en-4-dimensions/).

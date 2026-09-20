@@ -27,6 +27,6 @@ Tout ça pour la même apesanteur et une observation de la Terre nettement moins
 
 ![](./images/qimg-4df50ad10de1c7c9b6a608d477aae846.jpg)
 
-[https://www.drgoulu.com/2012/09/...](https://www.drgoulu.com/2012/09/05/un-petit-pas-pour-lhomme/#.YoXEh2m-g0F)
+[https://www.drgoulu.com/2012/09/...](/2012/09/05/un-petit-pas-pour-lhomme/#.YoXEh2m-g0F)
 
 (la remarque sur Kepler et les astronautes est incompréhensible)

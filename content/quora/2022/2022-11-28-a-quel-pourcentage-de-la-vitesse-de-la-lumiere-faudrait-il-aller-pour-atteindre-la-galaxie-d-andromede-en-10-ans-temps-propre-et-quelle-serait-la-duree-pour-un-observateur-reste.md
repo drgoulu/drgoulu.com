@@ -29,4 +29,4 @@ Selon [Ordres de grandeur de masse](w:)ca correspond environ à la quantité tot
 
 Donc si vous avez une combine pour convertir le charbon en antimatière, ça permettrait de résoudre le réchauffement climatique en même temps que de faire avancer la science à la vitesse de la lumière …
 
-[https://www.drgoulu.com/2004/08/...](https://www.drgoulu.com/2004/08/09/acceleration/)
+[https://www.drgoulu.com/2004/08/...](/2004/08/09/acceleration/)

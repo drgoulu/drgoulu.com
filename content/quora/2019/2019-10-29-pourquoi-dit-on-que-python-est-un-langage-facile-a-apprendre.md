@@ -29,4 +29,4 @@ Si vous connaissez d'autres langages de programmation, Python vous apparaîtra p
 
 Avec un peu de pratique vous verrez qu'il n'y a rien de superflu ou de verbeux en Python. Tout est aussi simple et clair qu'il doit l'être.
 
-[les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](https://www.drgoulu.com/2010/12/03/les-decorateurs-python/)
+[les décorateurs, ou pourquoi j'aime toujours la programmation - Pourquoi Comment Combien](/2010/12/03/les-decorateurs-python/)

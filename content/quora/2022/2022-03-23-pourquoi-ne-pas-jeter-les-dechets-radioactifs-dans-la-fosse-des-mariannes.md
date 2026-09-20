@@ -28,4 +28,4 @@ Techniquement ce n'est pas une mauvaise idée, en effet. Plus généralement les
 
 Donc chaque pays doit trouver un endroit sec chez lui, même s'il n'est pas idéal.
 
-[https://www.drgoulu.com/2014/05/...](https://www.drgoulu.com/2014/05/24/bure-pour-leternite/)
+[https://www.drgoulu.com/2014/05/...](/2014/05/24/bure-pour-leternite/)

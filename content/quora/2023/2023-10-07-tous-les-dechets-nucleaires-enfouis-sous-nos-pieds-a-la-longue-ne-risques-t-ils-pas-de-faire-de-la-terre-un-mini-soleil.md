@@ -32,8 +32,8 @@ Mais surtout le soleil ne fonctionne pas du tout comme ça. Les étoiles font la
 
 Notes de bas de page
 
-[[1]](#cite-BkbFT)[La radioactivité naturelle - Pourquoi Comment Combien](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/)
+[[1]](#cite-BkbFT)[La radioactivité naturelle - Pourquoi Comment Combien](/2013/11/03/la-radioactivite-naturelle/)
 
-[[2]](#cite-jXjih)[Bure, plongée dans l'éternité - Pourquoi Comment Combien](https://www.drgoulu.com/2014/05/24/bure-pour-leternite/)
+[[2]](#cite-jXjih)[Bure, plongée dans l'éternité - Pourquoi Comment Combien](/2014/05/24/bure-pour-leternite/)
 
-[[3]](#cite-UqtpT)[la fusion thermonucléaire - Pourquoi Comment Combien](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[[3]](#cite-UqtpT)[la fusion thermonucléaire - Pourquoi Comment Combien](/2005/12/11/la-fusion-thermonucleaire/)

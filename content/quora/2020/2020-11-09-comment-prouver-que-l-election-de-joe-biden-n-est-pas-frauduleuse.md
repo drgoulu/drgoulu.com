@@ -36,6 +36,6 @@ Référence : Peter Klimek, Yuri Yegorov, Rudolf Hanel, & Stefan Thurner (2012).
 
 Notes de bas de page
 
-[[1]](#cite-mOAuU)[Fraudez fort, fraudez Benford - Pourquoi Comment Combien](https://www.drgoulu.com/2012/12/07/fraudez-benford/#.X6lhrGgVOCo)
+[[1]](#cite-mOAuU)[Fraudez fort, fraudez Benford - Pourquoi Comment Combien](/2012/12/07/fraudez-benford/#.X6lhrGgVOCo)
 
 [[2]](#cite-loEtP)[Indicateurs statistiques de fraude électorale](https://fr.slideshare.net/Goulu/indicateurs-statistiques-de-fraude-lectorale)

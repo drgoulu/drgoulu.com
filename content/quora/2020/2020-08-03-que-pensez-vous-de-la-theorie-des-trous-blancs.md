@@ -19,4 +19,4 @@ Ce n'est pas une théorie, c'est une hypothèse.
 
 En réalité, on a jamais vu le moindre truc qui ressemble à un trou blanc, qui devrait pourtant être vachement et étrangement lumineux.
 
-C'est très probablement une [Solution inadmissible](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+C'est très probablement une [Solution inadmissible](/2016/09/11/solutions-admissibles/)

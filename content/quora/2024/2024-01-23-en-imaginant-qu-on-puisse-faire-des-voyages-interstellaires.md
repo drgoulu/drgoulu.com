@@ -21,4 +21,4 @@ On connaît aussi les vitesses des étoiles par rapport au soleil, donc on pourr
 
 Notes de bas de page
 
-[[1]](#cite-tVJvF)[Le GPS pour les nuls : Satellites et Signaux - Pourquoi Comment Combien](https://www.drgoulu.com/2008/09/27/le-gps-pour-les-nuls-satellites-et-signaux/)
+[[1]](#cite-tVJvF)[Le GPS pour les nuls : Satellites et Signaux - Pourquoi Comment Combien](/2008/09/27/le-gps-pour-les-nuls-satellites-et-signaux/)

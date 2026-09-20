@@ -30,4 +30,4 @@ Parce que [La vitesse de la lumière](https://reponsesfrequentes.quora.com/La-vi
 
 Notes de bas de page
 
-[[1]](#cite-qaOlt)[La FAQ du LHC - Pourquoi Comment Combien](https://www.drgoulu.com/2008/09/12/la-faq-du-lhc/)
+[[1]](#cite-qaOlt)[La FAQ du LHC - Pourquoi Comment Combien](/2008/09/12/la-faq-du-lhc/)

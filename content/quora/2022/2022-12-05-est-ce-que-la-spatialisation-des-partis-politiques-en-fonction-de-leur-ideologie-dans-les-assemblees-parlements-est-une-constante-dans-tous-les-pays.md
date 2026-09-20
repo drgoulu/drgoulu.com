@@ -23,11 +23,11 @@ coverImage: ./images/quora.png
 
 C'est un domaine qui m'a beaucoup intéressé, voir
 
-[https://www.drgoulu.com/2007/08/...](https://www.drgoulu.com/2007/08/24/politique-a-2-dimensions/#.Y45DnXZsOCo)
+[https://www.drgoulu.com/2007/08/...](/2007/08/24/politique-a-2-dimensions/#.Y45DnXZsOCo)
 
 d'autant qu'il existe des méthodes purement mathématiques pour positionner les opinions politiques sur une carte 2D, sans a priori. Voir
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/#.Y45D_HZsOCo)
+[https://www.drgoulu.com/2017/05/...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/#.Y45D_HZsOCo)
 
 Le gros problème qu'on rencontre est qu'il faut disposer de beaucoup de données, donc de beaucoup de votes et/ou de la participation de beaucoup de candidats ( pour la France voir [GitHub - goulu/smartvoteFR: création de "smartmaps" politiques sur le modèle de smartvote.ch avec données de l'Assemble Nationale Française](https://github.com/goulu/smartvoteFR) )
 

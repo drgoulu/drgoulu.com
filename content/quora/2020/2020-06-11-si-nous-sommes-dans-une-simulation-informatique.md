@@ -23,7 +23,7 @@ Et un ensemble de règles sur 2^18 est extraordinaire : le "vrai" Jeu de la Vie 
 
 [https://youtu.be/wkOEeQsKEvU](https://youtu.be/wkOEeQsKEvU)
 
-[(](https://youtu.be/wkOEeQsKEvU(voir)voir [la Résurrection du Jeu de la Vie - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/29/la-resurrection-du-jeu-de-la-vie/))
+[(](https://youtu.be/wkOEeQsKEvU(voir)voir [la Résurrection du Jeu de la Vie - Pourquoi Comment Combien](/2009/03/29/la-resurrection-du-jeu-de-la-vie/))
 
 Je ne pense pas que l'Univers soit une simulation (ah si seulement on arrivait à utiliser un algo à la [Hashlife](w:) en mécanique des fluides…) , mais il se pourrait que les lois de la physique se ramènent à pas grand chose à l'échelle de Planck…
 

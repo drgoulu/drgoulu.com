@@ -29,4 +29,4 @@ ont montré que c était beaucoup moins efficace que les vaccins.
 
 Les tests faits à l'époque avec la peste, la variole, la rougeole etc ont montré que l eau n'était pas non plus efficace, malgré la présence de nombreuses molécules de pipi de Jésus Christ.
 
-[https://www.drgoulu.com/2008/03/...](https://www.drgoulu.com/2008/03/09/quelles-sont-les-chances/)
+[https://www.drgoulu.com/2008/03/...](/2008/03/09/quelles-sont-les-chances/)

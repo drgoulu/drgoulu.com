@@ -29,4 +29,4 @@ Mais on sait aussi pourquoi beaucoup d'inventions de Tesla n'ont pas marché : s
 
 En refusant ces découvertes fondamentales sans autre motif que son intuition, il est devenu un original aigri, hélas.
 
-[https://www.drgoulu.com/2012/08/...](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[https://www.drgoulu.com/2012/08/...](/2012/08/19/nikola-tesla-genie-mais-connu/)

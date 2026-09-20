@@ -16,4 +16,4 @@ Il y a:
 1. Des escrocs qui essaient de vous vendre un bouquin expliquant comment produire de l'énergie "libre" vous-même, ou qui essaient de vous faire investir dans leur boîte foireuse. Aucun ne vous vend de machine toute faite ou d'électricité à 1 centime le kWh
 2. Des bricoleurs qui veulent montrer leurs œuvres, souvent bien faites. Deux publics :
 
-[https://www.drgoulu.com/2012/05/...](https://www.drgoulu.com/2012/05/27/dites-non-au-mouvement-perpetuel/#.Y_h7lqTfs0E)
+[https://www.drgoulu.com/2012/05/...](/2012/05/27/dites-non-au-mouvement-perpetuel/#.Y_h7lqTfs0E)

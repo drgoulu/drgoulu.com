@@ -29,7 +29,7 @@ Un [Marégraphe](w:)est un appareil qui mesure les marées. Ils ne sont pas trè
 
 Si vous vouliez parler du graphique qu'ils produisent, ils sont en effet assez complexe car ils sont la somme de plusieurs oscillations de périodes (et de phases) différentes, parfois assez éloignées de sinusoïdes pures.
 
-Pour analyser un tel graphique il faut recourir à [ce barbare de Fourier](https://www.drgoulu.com/2010/03/06/succes-hollywoodiens-et-transformee-de-fourier/) pour obtenir le [spectre fréquentiel](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=spectre+fréquentiel) de la marée à cet endroit . Voici par exemple le spectre de la marée à Brest :
+Pour analyser un tel graphique il faut recourir à [ce barbare de Fourier](/2010/03/06/succes-hollywoodiens-et-transformee-de-fourier/) pour obtenir le [spectre fréquentiel](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=spectre+fréquentiel) de la marée à cet endroit . Voici par exemple le spectre de la marée à Brest :
 
 ![](./images/qimg-9d4f823ddb2a7c14461befe8776e9c90.gif)
 
@@ -41,4 +41,4 @@ Si vous n'êtes pas familier avec les spectres fréquentiels, examinez cette ext
 
 Les trains d’engrenages en bas déplacent verticalement des poulies aux rythmes des 15 harmoniques les plus importantes, et la ficelle serpentant entre ces poulies effectue l’addition.
 
-[Combien de marée - Pourquoi Comment Combien](https://www.drgoulu.com/2017/08/15/combien-de-maree/)
+[Combien de marée - Pourquoi Comment Combien](/2017/08/15/combien-de-maree/)

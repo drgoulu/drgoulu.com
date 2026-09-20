@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quels-sont-les-exemples-de-s%C3%A9lection-naturelle-actuelle-et-pass%C3%A9-sur-le-genre-Homo/answer/Dr-Goulu)*
 
-Ma préférée est [L'adaptation à l'altitude - Pourquoi Comment Combien](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+Ma préférée est [L'adaptation à l'altitude - Pourquoi Comment Combien](/2014/08/17/ladaptation-a-laltitude/)

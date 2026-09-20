@@ -30,4 +30,4 @@ l'orbite des geocroiseurs dangereux est prévisible sur plus d'un siècle et la 
 
 Maintenant on est pas à l'abri de l'éjection d'un astéroïde de la ceinture par un caprice gravitationnel et qui nous arriverait pile dessus, mais c'est extraordinairement improbable.
 
-[Risques météoritiques - Pourquoi Comment Combien](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/)
+[Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)

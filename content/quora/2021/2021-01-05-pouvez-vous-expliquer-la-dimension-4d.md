@@ -58,10 +58,10 @@ $d=\sqrt{x^2+y^2+z^2+(i.c.t)^2}$
 
 j'ai remis un signe PLUS en considérant la dimension c.t comme imaginaire !
 
-WOW ! [Le temps est une 4ème dimension imaginaire](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/#.X_SVN9gVOCo) au sens mathématique du terme.
+WOW ! [Le temps est une 4ème dimension imaginaire](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/#.X_SVN9gVOCo) au sens mathématique du terme.
 
 Note* : qu'est-ce que t'en dis Frédéric ?
 
 Notes de bas de page
 
-[[1]](#cite-gagtj)[Voir en 4 dimensions - Pourquoi Comment Combien](https://www.drgoulu.com/2007/02/06/voir-en-4-dimensions/#.X_SMZ9gVOCo)
+[[1]](#cite-gagtj)[Voir en 4 dimensions - Pourquoi Comment Combien](/2007/02/06/voir-en-4-dimensions/#.X_SMZ9gVOCo)

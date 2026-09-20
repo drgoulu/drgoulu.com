@@ -24,6 +24,6 @@ Il n'y a pas de races humaines, et la [Couleur de la peau humaine](w:)n'est qu'u
 
 Une de mes préférées est l'
 
-[https://www.drgoulu.com/2014/08/...](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/#.YsgOjXaiGCo)
+[https://www.drgoulu.com/2014/08/...](/2014/08/17/ladaptation-a-laltitude/#.YsgOjXaiGCo)
 
 dont je réalise maintenant qu'elle a beaucoup de similarité avec la couleur de peau car elle s'est effectuée différemment dans des populations distinctes. Tout comme les habitants des Andes, de l'Himalaya et des hauts plateaux éthiopiens, les gens qui ont la peau sombre (ou claire) sur la planète se sont simplement adaptés aux conditions locales.

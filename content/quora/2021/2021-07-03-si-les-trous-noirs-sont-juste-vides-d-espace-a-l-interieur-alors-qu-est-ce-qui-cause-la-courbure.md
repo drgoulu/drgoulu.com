@@ -33,7 +33,7 @@ Ca s'appelle le
 
 Et c'est en écrivant
 
-[https://www.drgoulu.com/2011/08/...](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[https://www.drgoulu.com/2011/08/...](/2011/08/13/selon-newton-lunivers-serait-digital/)
 
 que j'en ai été convaincu.
 

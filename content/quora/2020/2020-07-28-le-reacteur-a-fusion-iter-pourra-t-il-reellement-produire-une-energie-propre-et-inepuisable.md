@@ -23,7 +23,7 @@ Non. Ce n'est pas son but : ITER doit "juste" arriver à produire un peu plus d'
 
 Là on verra si c'est économiquement viable, et si oui on commencera à construire ces énormes installations vers 2060.
 
-L[a fusion thermonucléaire](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)deutérium tritium n'est ni propre, ni inépuisable. Mais il y en a pour quelques millénaires, en effet.
+L[a fusion thermonucléaire](/2005/12/11/la-fusion-thermonucleaire/)deutérium tritium n'est ni propre, ni inépuisable. Mais il y en a pour quelques millénaires, en effet.
 
 La vraie bonne question est "la fusion artificielle produira-t'elle de l'énergie à un prix competitif par rapport à la fusion naturelle (solaire)?"
 

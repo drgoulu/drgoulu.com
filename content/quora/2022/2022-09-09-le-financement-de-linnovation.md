@@ -23,4 +23,4 @@ En haut, ce qu'on raconte
 
 En bas, ce qui se passe vraiment
 
-[https://www.drgoulu.com/2012/07/...](https://www.drgoulu.com/2012/07/01/innovation/#.YxtypqS-g0E)
+[https://www.drgoulu.com/2012/07/...](/2012/07/01/innovation/#.YxtypqS-g0E)

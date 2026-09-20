@@ -35,4 +35,4 @@ mais aussi les analyses de roches ont découvert
 
 Comment on analyse les roches à distance ? Bonne question. La réponse m'a littéralement troué :
 
-avec [La ChemCam de Curiosity - Pourquoi Comment Combien](https://www.drgoulu.com/2014/05/26/la-chemcam-de-curiosity/)
+avec [La ChemCam de Curiosity - Pourquoi Comment Combien](/2014/05/26/la-chemcam-de-curiosity/)

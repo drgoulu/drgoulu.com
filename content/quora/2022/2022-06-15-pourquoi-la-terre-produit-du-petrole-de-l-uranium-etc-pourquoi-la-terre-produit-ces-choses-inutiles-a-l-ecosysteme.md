@@ -32,4 +32,4 @@ Et en passant, c'est la même chose pour le bon oxygène que vous respirez. En f
 
 Notes de bas de page
 
-[[1]](#cite-zdIJK)[La radioactivité naturelle - Pourquoi Comment Combien](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/)
+[[1]](#cite-zdIJK)[La radioactivité naturelle - Pourquoi Comment Combien](/2013/11/03/la-radioactivite-naturelle/)

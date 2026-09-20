@@ -31,6 +31,6 @@ Il dit aussi que "*la somme 1 + 2 + 3 + 4 + … est bien infinie, mais -1/12 est
 
 Cette idée s'impose de plus en plus grâce à la [Gravitation quantique à boucles](w:)qui permet notamment de résoudre des "catastrophes numériques" concernant la thermodynamique des trous noirs. Petite initiation vulgarisée ici :
 
-[https://www.drgoulu.com/2011/08/...](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[https://www.drgoulu.com/2011/08/...](/2011/08/13/selon-newton-lunivers-serait-digital/)
 
 Bref, comme souvent en physique théorique, le problème n'est pas qu'on a pas d'explication au [Problème de la constante cosmologique](w:)mais qu'on en a trop, et qu'il faut les départager par des expériences. Et ça, ça prend plus de temps que de gribouiller des équations sur un tableau noir.

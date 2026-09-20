@@ -16,4 +16,4 @@ coverImage: ./images/quora.png
 
 On retournera quand ça vaudra le coup, pour extraire de l'helium-3 par exemple.
 
-[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/07/18/pour-quoi-retourner-sur-la-lune/)
+[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](/2009/07/18/pour-quoi-retourner-sur-la-lune/)

@@ -28,7 +28,7 @@ Comme l’ont confirmé d’autres travaux, un placebo stimule aussi la producti
 
 C'est maintenant enseigné en médecine [[2]](#otCoK)
 
-[Placebo et nocebo - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/21/placebo-et-nocebo/)
+[Placebo et nocebo - Pourquoi Comment Combien](/2009/05/21/placebo-et-nocebo/)
 
 Notes de bas de page
 

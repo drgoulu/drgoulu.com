@@ -25,7 +25,7 @@ Marrant, ça me rappelle l'essai “[Is Reality Digital or Analog?](http://fqxi.
 
 Le texte commence comme une petite nouvelle de S.-F. : le narrateur rêve de rencontrer Sir Isaac Newton après lui avoir envoyé quelques livres et articles sur la physique contemporaine, et il trouve le lendemain une invitation à rencontrer le célèbre physicien le 18 novembre 1700 à Londres, à 3 PM. Ne souhaitant pas “ennuyer le lecteur avec une description détaillée de la manière dont il s’est rendu au rendez-vous”, Mäkelä passe à un compte-rendu de sa rencontre avec Newton, auquel il demande sans ambages : “Alors, la réalité est-elle digitale ou analogique?”. Newton répond sans hésitation “Digital, of course.” – “Comment le savez-vous?” – “Parce que je l’ai calculé.”
 
-La suite ici : [Selon Newton, l'univers serait digital - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+La suite ici : [Selon Newton, l'univers serait digital - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)
 
 Et l'essai lui-même là : [https://fqxi.org/data/essay-cont...](https://fqxi.org/data/essay-contest-files/Mkel_FQxiessay.pdf)
 

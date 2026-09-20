@@ -17,4 +17,4 @@ Le problème est que la photosynthèse n'a pas un très bon rendement (quelques 
 
 Et elle a d'autres inconvénients (besoin d'eau, sensibilité au gel etc) dont les versions artificielles souffrent aussi.
 
-[de Graetzel aux great cells - Pourquoi Comment Combien](https://www.drgoulu.com/2009/09/15/de-graetzel-aux-great-cells/)
+[de Graetzel aux great cells - Pourquoi Comment Combien](/2009/09/15/de-graetzel-aux-great-cells/)

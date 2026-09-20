@@ -40,12 +40,12 @@ Mais je m'égare : il n'y a aucun moyen d'utiliser votre vaste domaine maritime 
 
 En France vous avez construit l'[Usine marémotrice de la Rance](w:)à l'endroit le plus favorable possible. Elle a beaucoup de problèmes (ensablement, coquillages et algues sur les turbines…) pour produire 4x par jour autant de l'usine de mon ami toute la journée…
 
-[https://www.drgoulu.com/2017/08/...](https://www.drgoulu.com/2017/08/15/combien-de-maree/)
+[https://www.drgoulu.com/2017/08/...](/2017/08/15/combien-de-maree/)
 
 Notes de bas de page
 
-[[1]](#cite-VKZIQ)[Comment stocker l'énergie - Pourquoi Comment Combien](https://www.drgoulu.com/2012/10/07/comment-stocker-lenergie/)
+[[1]](#cite-VKZIQ)[Comment stocker l'énergie - Pourquoi Comment Combien](/2012/10/07/comment-stocker-lenergie/)
 
-[[2]](#cite-XpzfV)[Qui veut de l'électricité à prix négatif ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/)
+[[2]](#cite-XpzfV)[Qui veut de l'électricité à prix négatif ? - Pourquoi Comment Combien](/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/)
 
 [[3]](#cite-sKmeE)[Nant de Drance - Pourquoi Comment Combien](https://www.drgoulu.com/2014/01/17/nant-de-drance/)

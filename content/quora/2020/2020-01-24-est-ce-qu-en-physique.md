@@ -17,4 +17,4 @@ Comme je n'ai pas encore compris comment ils intègrent la relativité là dedan
 
 Voilà, vous avez les deux principales conceptions du temps en physique pour le prix d'une seule.
 
-[La Nature du Temps - Pourquoi Comment Combien](https://www.drgoulu.com/2008/12/24/la-nature-du-temps-2/)
+[La Nature du Temps - Pourquoi Comment Combien](/2008/12/24/la-nature-du-temps-2/)

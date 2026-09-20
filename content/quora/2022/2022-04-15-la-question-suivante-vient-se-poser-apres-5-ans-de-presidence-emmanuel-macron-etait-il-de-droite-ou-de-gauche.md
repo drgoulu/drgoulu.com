@@ -15,4 +15,4 @@ L'axe politique principal en France n'est plus gauche /droite.
 
 Il est progressiste /conservateur.
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/#.Yll5WWm-g0E)
+[https://www.drgoulu.com/2017/05/...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/#.Yll5WWm-g0E)

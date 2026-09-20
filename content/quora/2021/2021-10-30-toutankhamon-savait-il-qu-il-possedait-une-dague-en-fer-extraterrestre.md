@@ -25,4 +25,4 @@ Il savait certainement qu'elle était dans un métal spécial car il n existe pa
 
 J'ai eu la chance de visiter la météorite de Hoba en Namibie et une petite phrase d'explication me trotte dans la tête depuis "c'est la plus grosse masse de fer disponible à la surface de la Terre avant l'invention du haut fourneau"
 
-[https://www.drgoulu.com/2010/08/...](https://www.drgoulu.com/2010/08/27/namibie/)
+[https://www.drgoulu.com/2010/08/...](/2010/08/27/namibie/)

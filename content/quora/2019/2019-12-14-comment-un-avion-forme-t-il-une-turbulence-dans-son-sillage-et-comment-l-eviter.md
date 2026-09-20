@@ -33,4 +33,4 @@ Pour ne pas créer de turbulences, il faut un très grand avion très léger vol
 
 Notes de bas de page
 
-[[1]](#cite-krHDi)[Portance : pourquoi ça vole ? - Pourquoi Comment Combien](https://www.drgoulu.com/2012/03/11/portance-pourquoi-ca-vole/)
+[[1]](#cite-krHDi)[Portance : pourquoi ça vole ? - Pourquoi Comment Combien](/2012/03/11/portance-pourquoi-ca-vole/)

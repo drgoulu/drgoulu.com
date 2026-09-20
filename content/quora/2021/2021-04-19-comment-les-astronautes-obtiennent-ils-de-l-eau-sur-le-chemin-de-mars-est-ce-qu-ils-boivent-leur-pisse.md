@@ -37,7 +37,7 @@ Je vous traduit ce que dit dans l'article Enid Contes, la scientifique en photo 
 
 Si ça vous choque, dites-vous bien que vous aussi, vous buvez de la pisse de dinosaures, de mammouths et de Jésus, entre autres.
 
-[https://www.drgoulu.com/2008/03/...](https://www.drgoulu.com/2008/03/09/quelles-sont-les-chances/)
+[https://www.drgoulu.com/2008/03/...](/2008/03/09/quelles-sont-les-chances/)
 
 Notes de bas de page
 

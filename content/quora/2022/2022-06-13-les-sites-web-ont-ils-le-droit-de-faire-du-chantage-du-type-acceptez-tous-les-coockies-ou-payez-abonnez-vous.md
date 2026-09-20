@@ -28,4 +28,4 @@ coverImage: ./images/quora.png
 
 Notes de bas de page
 
-[[1]](#cite-annpY)[Bits en vrac - Pourquoi Comment Combien](https://www.drgoulu.com/2016/08/14/bits-en-vrac-2/)
+[[1]](#cite-annpY)[Bits en vrac - Pourquoi Comment Combien](/2016/08/14/bits-en-vrac-2/)

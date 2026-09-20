@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Je vote pour le gallium
 
-[Des pistes en gallium aux JO d'hiver 2018 ! - Pourquoi Comment Combien](https://www.drgoulu.com/2017/04/01/des-pistes-en-gallium-aux-jo-dhiver-2018/)
+[Des pistes en gallium aux JO d'hiver 2018 ! - Pourquoi Comment Combien](/2017/04/01/des-pistes-en-gallium-aux-jo-dhiver-2018/)

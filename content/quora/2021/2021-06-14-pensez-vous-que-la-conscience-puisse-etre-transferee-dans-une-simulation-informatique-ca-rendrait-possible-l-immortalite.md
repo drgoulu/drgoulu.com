@@ -29,4 +29,4 @@ On devrait avoir le hardware nécessaire pour un cerveau vers 2040, qui consomme
 
 pour le soft, c'est moins clair …
 
-[https://www.drgoulu.com/2013/03/...](https://www.drgoulu.com/2013/03/11/combien-de-processeurs-pour-un-cerveau/)
+[https://www.drgoulu.com/2013/03/...](/2013/03/11/combien-de-processeurs-pour-un-cerveau/)

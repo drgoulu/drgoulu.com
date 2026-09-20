@@ -15,6 +15,6 @@ Non, parce que l'obsolescence programmée est largement un mythe (jusqu'à preuv
 
 Et dans le cas de l'électronique, la technologie évolue très vite. Quelqu'un veut [l'enregistreur à bandes Revox de mon père](http://CHF 1'500.–REVOX B77 Magnétophone à Bandes 2 Pistes (9,5-19cms), Magnifique Enregistreur Hi-Fi.En Parfait Etat - Entièrement Révisé par notre Centre O...www.anibis.ch/fr/d-audio-tv-vidéo-composants-hi-fi-autres--2806/revox-b77-2-pistes,-magnétophone-à-bandes-révisé-garanti--6741248.aspx)? Acheté en 1975 il fonctionne très bien et vaut encore 1500 Euro…
 
-[https://www.drgoulu.com/2013/05/...](https://www.drgoulu.com/2013/05/01/lobsolescence-est-elle-programmee-2/)
+[https://www.drgoulu.com/2013/05/...](/2013/05/01/lobsolescence-est-elle-programmee-2/)
 
 Défense de commenter avant d'avoir lu l'article.

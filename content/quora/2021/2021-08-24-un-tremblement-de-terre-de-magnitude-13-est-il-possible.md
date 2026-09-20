@@ -17,4 +17,4 @@ Selon [Ordres de grandeur d'énergie](w:), c'est environ l'énergie de rotation 
 
 Aucun phénomène géologique connu ne peut provoquer ça, fort heureusement.
 
-[https://www.drgoulu.com/2011/03/...](https://www.drgoulu.com/2011/03/16/seismes-et-energies/)
+[https://www.drgoulu.com/2011/03/...](/2011/03/16/seismes-et-energies/)

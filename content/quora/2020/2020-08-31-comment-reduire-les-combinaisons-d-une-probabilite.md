@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 je ne comprends pas ce que vous appelez "réduire les combinaisons d'une probabilité".
 
-Mais vous avez compris que le foot est un jeu de hasard, alors je vous recommande ce bouquin : [La science du football .](https://www.drgoulu.com/2008/05/09/la-science-du-football/)
+Mais vous avez compris que le foot est un jeu de hasard, alors je vous recommande ce bouquin : [La science du football .](/2008/05/09/la-science-du-football/)

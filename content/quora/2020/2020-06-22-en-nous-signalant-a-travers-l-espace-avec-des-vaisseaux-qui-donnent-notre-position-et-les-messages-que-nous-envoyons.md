@@ -16,5 +16,5 @@ Elle ne nous détruira pas pour nous bouffer, mais pour éviter que nous la conc
 Lisez:
 
 - [La Forêt sombre](w:)de Liu Cixin. Génial !
-- [Le Grand Filtre - Pourquoi Comment Combien](https://www.drgoulu.com/2012/12/28/le-grand-filtre/)
-- [Principe de Saturation Cubique - Pourquoi Comment Combien](https://www.drgoulu.com/1999/10/24/psc/)
+- [Le Grand Filtre - Pourquoi Comment Combien](/2012/12/28/le-grand-filtre/)
+- [Principe de Saturation Cubique - Pourquoi Comment Combien](/1999/10/24/psc/)

@@ -17,4 +17,4 @@ Mais à partir de plomb non, on ne peut pas.
 
 Explications détaillées ici :
 
-[https://drgoulu.com/2013/03/15/c...](https://drgoulu.com/2013/03/15/comment-transformer-le-plomb-en-or/)
+[https://drgoulu.com/2013/03/15/c...](/2013/03/15/comment-transformer-le-plomb-en-or/)

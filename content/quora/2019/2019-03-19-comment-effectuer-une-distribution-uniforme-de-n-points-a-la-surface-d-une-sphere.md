@@ -32,4 +32,4 @@ Cela dit, pour certaines valeurs de N ces 4 problèmes fusionnent et il existe u
 
 Si vous ne cherchez pas l’optimum absolu il existe plusieurs heuristiques qui donnent rapidement des résultats très acceptables ( voir [Points on a sphere](http://www.softimageblog.com/archives/115) ). La méthode de la spirale d’or est celle que j’utilise dans la libraire Python [Goulib.graph.points_on_sphere](https://goulib.readthedocs.io/en/latest/_modules/Goulib/graph.html#points_on_sphere)
 
-[comment placer N points “régulièrement” sur une sphère ? - Pourquoi Comment Combien](https://www.drgoulu.com/2007/01/31/comment-placer-n-points-regulierement-sur-une-sphere/#.XJFWeChsOCo)
+[comment placer N points “régulièrement” sur une sphère ? - Pourquoi Comment Combien](/2007/01/31/comment-placer-n-points-regulierement-sur-une-sphere/#.XJFWeChsOCo)

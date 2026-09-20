@@ -40,4 +40,4 @@ Les modèles identifiés (presque) sans CO2 anthropique (avant 1900) collent tr�
 
 Pour moi qui ne connais pas grand chose au climat mais ai fait un doctorat sur les systèmes dynamiques, lire les articles qui ont produit les graphiques ci dessus m'a convaincu que les gens qui ont fait ces modèles connaissent leur boulot, et le font bien, c'est à dire sans hypothèse de calcul.
 
-[FAQ Réchauffement Global - Pourquoi Comment Combien](https://www.drgoulu.com/2007/05/23/faq-rechauffement-global/#.XgCIQmTjKyU)
+[FAQ Réchauffement Global - Pourquoi Comment Combien](/2007/05/23/faq-rechauffement-global/#.XgCIQmTjKyU)

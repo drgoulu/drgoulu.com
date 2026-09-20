@@ -33,4 +33,4 @@ Le futur, c'est une meilleure maîtrise de cette redondance, comme à bien réus
 
 Plus généralement, il faut dorénavant considérer votre disque dur comme une mémoire cache d internet, et internet comme un espace mémoire quvon devrait mieux gérer, notamment avec un "ramasse miette" capable d'identifier le contenu obsolète, inaccessible ou, idéalement, dupliqué.
 
-Sur ce thème : [La pénible mort des données - Pourquoi Comment Combien](https://www.drgoulu.com/2012/10/31/la-penible-mort-des-donnees/)
+Sur ce thème : [La pénible mort des données - Pourquoi Comment Combien](/2012/10/31/la-penible-mort-des-donnees/)

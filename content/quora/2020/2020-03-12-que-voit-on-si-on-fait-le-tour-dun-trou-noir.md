@@ -32,6 +32,6 @@ Ca c'est la version simple … Parce qu'en réalité, les trous noirs sont des [
 
 Notes de bas de page
 
-[[1]](#cite-OLvxn)[A combien tourne un trou noir ? - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[[1]](#cite-OLvxn)[A combien tourne un trou noir ? - Pourquoi Comment Combien](/2016/07/10/combien-tourne-un-trou-noir/)
 
 [[2]](#cite-OXRTd)[Some aspects of circular prograde orbits in an extreme Kerr metric](http://www2.iap.fr/users/riazuelo/bh/kip/prograde.php)

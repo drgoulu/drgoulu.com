@@ -34,4 +34,4 @@ D'autre part, le dépôt d'un brevet, le maintien de sa validité jusqu'à 25 an
 
 A l'inverse, le droit d'auteur ne coûte rien et est valable sans autres 70 ans après la mort de l'auteur, donc parfois plus d'un siècle. Pendant ce temps, les "utilisateurs" de l'oeuvre ont le droit de lire votre livre ou de jouer votre musique sans accord préalable simplement en payant les droits.
 
-[Combien pour ce brevet ? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/08/combien-pour-ce-brevet/#.XbiRZuhsOCo)
+[Combien pour ce brevet ? - Pourquoi Comment Combien](/2009/03/08/combien-pour-ce-brevet/#.XbiRZuhsOCo)

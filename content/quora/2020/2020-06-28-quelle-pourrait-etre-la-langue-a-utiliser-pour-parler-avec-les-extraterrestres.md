@@ -33,4 +33,4 @@ En haut il y a la numérotation des pages en binaire
 
 Les symboles ont été choisis pour être les plus distincts possible les uns des autres au cas où le bruit de transmission modifierait certains bits
 
-[Comment comptent les Extraterrestres - Pourquoi Comment Combien](https://www.drgoulu.com/2011/09/25/comment-comptent-les-extraterrestres/#.XvhkwiiFqCo)
+[Comment comptent les Extraterrestres - Pourquoi Comment Combien](/2011/09/25/comment-comptent-les-extraterrestres/#.XvhkwiiFqCo)

@@ -17,4 +17,4 @@ Leur propriété, c'est la NON propriété d'être divisibles. Ce sont des reste
 
 On comprend ça en étudiant d'autres suites produites par des cribles, comme les nombres chanceux.
 
-[https://drgoulu.com/2019/01/06/2...](https://drgoulu.com/2019/01/06/2019-passee-au-crible/)
+[https://drgoulu.com/2019/01/06/2...](/2019/01/06/2019-passee-au-crible/)

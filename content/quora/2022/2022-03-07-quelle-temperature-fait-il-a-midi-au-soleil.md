@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Maximum 5800K
 
-[https://www.drgoulu.com/2013/02/...](https://www.drgoulu.com/2013/02/03/pourquoi-une-loupe-ne-viole-pas-la-thermodynamique/#.Yib-Mmnfs0E)
+[https://www.drgoulu.com/2013/02/...](/2013/02/03/pourquoi-une-loupe-ne-viole-pas-la-thermodynamique/#.Yib-Mmnfs0E)

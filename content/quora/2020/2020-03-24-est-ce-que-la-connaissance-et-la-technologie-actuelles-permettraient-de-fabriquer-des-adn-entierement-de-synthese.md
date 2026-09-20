@@ -36,4 +36,4 @@ Mais on n'a jusqu'ici pas réussi à coder un ADN de synthèse fonctionnel sans 
 
 On sait "évidemment" aussi insérer un gène supplémentaire pour qu'un organisme produise une protéine donnée, c'est le principe des [Organisme génétiquement modifié](w:) (OGM) depuis les années 1970, mais ce qu'on sait encore très mal faire c'est écrire le code ADN qui produirait une protéine totalement nouvelle, et surtout "pliée comme il faut". Il va encore falloir quelques années pour ça.
 
-Note* : pour la petite histoire , le stockage d'information sur l'ADN a été envisagé par Richard Feynman en 1959 dans sa célèbre conférence : [Il y a plein de place en bas - Pourquoi Comment Combien](https://www.drgoulu.com/2009/06/11/il-y-a-plein-de-place-en-bas-2/#.Xnm3EIhsOCo)
+Note* : pour la petite histoire , le stockage d'information sur l'ADN a été envisagé par Richard Feynman en 1959 dans sa célèbre conférence : [Il y a plein de place en bas - Pourquoi Comment Combien](/2009/06/11/il-y-a-plein-de-place-en-bas-2/#.Xnm3EIhsOCo)

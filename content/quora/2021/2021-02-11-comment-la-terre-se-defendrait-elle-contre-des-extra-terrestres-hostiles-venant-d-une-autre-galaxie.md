@@ -25,7 +25,7 @@ Absolument aucune chance de se défendre contre une civilisation venant d'une au
 Contre une de type II, donc venant "juste" d'un système pas trop loin de notre galaxie, on pourrait essayer
 
 1. en espérant qu'il y en a beaucoup d'autres, utiliser la combine de [La Forêt sombre](w:) (je spoile pas, lisez le livre)
-2. s'il n'y en a peu d'autres, compter sur [La route que nous n'avons pas prise](https://www.drgoulu.com/2011/11/06/la-route-que-nous-navons-pas-prise/)
+2. s'il n'y en a peu d'autres, compter sur [La route que nous n'avons pas prise](/2011/11/06/la-route-que-nous-navons-pas-prise/)
 
 Et si ça ne marche pas, il ne reste plus qu'à leur faire exploser le cerveau en passant ça partout :
 

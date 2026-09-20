@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Je ne sais pas si c'est ce que vous cherchez mais j'ai travaillé sur un goniomètre à infrasons, top secret militaire à l'époque.
 
-[https://drgoulu.com/2016/01/14/a...](https://drgoulu.com/2016/01/14/avalanches-et-gonimetre-a-infrasons/)
+[https://drgoulu.com/2016/01/14/a...](/2016/01/14/avalanches-et-gonimetre-a-infrasons/)
 
 Mon chef m'avait dit qu'il existait des systèmes similaires dans les sous-marins. (mais pas suisses…)

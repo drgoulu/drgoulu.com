@@ -15,7 +15,7 @@ J'avais lu un commentaire de [Sean Carroll](w:)à un article arguant que le temp
 
 Ce que je comprends de Kletetschka c'est qu'il postule trois dimensions de temps aussi. Pourquoi trois ? Et pas deux ou une ? Ou quatre ?
 
-Là c'est [Max Tegmark](w:)qui a une sérieuse objection à l'existence de dimensions temporelles supplémentaires, vulgarisée dans [Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](https://drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+Là c'est [Max Tegmark](w:)qui a une sérieuse objection à l'existence de dimensions temporelles supplémentaires, vulgarisée dans [Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](/2011/01/30/pourquoi-3-dimensions-1-temps/)
 
 Je soupçonne donc que Kletetschka doit jouer au "cordiste du temps" en postulant des dimensions temporelles bouclées, d'autant plus qu'on ne les constate pas expérimentalement.
 
@@ -25,4 +25,4 @@ Il n' y a que l'expérimentation qui permette de faire le tri entre ces hypothè
 
 Notes de bas de page
 
-[[1]](#cite-rLmoV)[Solutions admissibles - Pourquoi Comment Combien](https://drgoulu.com/2016/09/11/solutions-admissibles/)
+[[1]](#cite-rLmoV)[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)

@@ -15,6 +15,6 @@ C'est tout simple :
 
 ![](./images/qimg-ef4d7a8021683d005dbeeff09954a462.jpg)
 
-[Voir en 4 dimensions - Pourquoi Comment Combien](https://drgoulu.com/2007/02/06/voir-en-4-dimensions/)
+[Voir en 4 dimensions - Pourquoi Comment Combien](/2007/02/06/voir-en-4-dimensions/)
 
-Maintenant si vous pensez au temps comme 4ème dimension, c'est un peu plus compliqué car [Le temps est une dimension imaginaire](https://drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)au sens mathématique du terme.
+Maintenant si vous pensez au temps comme 4ème dimension, c'est un peu plus compliqué car [Le temps est une dimension imaginaire](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)au sens mathématique du terme.

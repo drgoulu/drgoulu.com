@@ -27,6 +27,6 @@ Sf commence par S comme Science. Sans science, un film est de la Fiction, de la 
 
 Interstellar contient un peu de bonne science, mais beaucoup de mauvaise, et c'est très dommage.
 
-[Interstellar - Pourquoi Comment Combien](https://www.drgoulu.com/2014/11/29/interstellar/)
+[Interstellar - Pourquoi Comment Combien](/2014/11/29/interstellar/)
 
 La liste ne contient pas "Seul sur Mars" ou "Gravity" qui sont bien meilleurs.

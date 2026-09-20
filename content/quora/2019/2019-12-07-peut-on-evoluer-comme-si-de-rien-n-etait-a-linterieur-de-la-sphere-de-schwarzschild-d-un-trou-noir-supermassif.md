@@ -17,11 +17,11 @@ Selon [Aurélien Barrau](w:) (mais je crois que ça vient des travaux [Jean-Pier
 
 > A l'intérieur d'un trou noir, le temps se change en espace et l'espace se change en temps. On pourrait le dire de façon métaphorique : dans notre monde, le temps s'écoule. 'Je ne peux pas revenir dans le passé'. De la même manière, dans un trou noir, c'est l'espace qui s'écoule. Le tapis roulant de l'espace va tellement vite que même si je cours à la vitesse de la lumière dans le sens inverse, je ne pourrai jamais m'extraire du trou noir.[[1]](#tvGUg)
 
-Selon le [Principe holographique](w:) (faible), la question n’a tout simplement pas de sens car il n’y a rien à l’intérieur de l’horizon des événements. Mais vraiment rien, au point que le concept même d’ “intérieur de l’horizon des événements” n’a pas de sens, l’horizon étant une frontière de notre Univers… Pour s’initier à cette idée perturbante, je conseille de lire “[https://fqxi.org/data/essay-cont...](https://fqxi.org/data/essay-contest-files/Mkel_FQxiessay.pdf)” résumé en français ici : [Selon Newton, l'univers serait digital - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+Selon le [Principe holographique](w:) (faible), la question n’a tout simplement pas de sens car il n’y a rien à l’intérieur de l’horizon des événements. Mais vraiment rien, au point que le concept même d’ “intérieur de l’horizon des événements” n’a pas de sens, l’horizon étant une frontière de notre Univers… Pour s’initier à cette idée perturbante, je conseille de lire “[https://fqxi.org/data/essay-cont...](https://fqxi.org/data/essay-contest-files/Mkel_FQxiessay.pdf)” résumé en français ici : [Selon Newton, l'univers serait digital - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)
 
 De plus, les vrais trous noirs tournent à une vitesse de malade, ce qui enroule l'espace autour d'eux. A l'intérieur de l'horizon, s'il existe, c'est le temps qui est enroulé..
 
-J'y pense maintenant : il y a un article[[2]](#hPyzW) très intéressant de [Max Tegmark](w:) qui explique [Pourquoi notre univers a 3 dimensions + 1 temps](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/), ou plutôt que si ça n'était pas le cas, nous n'existerions pas. Et dans son graphique :
+J'y pense maintenant : il y a un article[[2]](#hPyzW) très intéressant de [Max Tegmark](w:) qui explique [Pourquoi notre univers a 3 dimensions + 1 temps](/2011/01/30/pourquoi-3-dimensions-1-temps/), ou plutôt que si ça n'était pas le cas, nous n'existerions pas. Et dans son graphique :
 
 ![](./images/qimg-d316477e77f2fd3a91b5e00c35f4b159.png)
 

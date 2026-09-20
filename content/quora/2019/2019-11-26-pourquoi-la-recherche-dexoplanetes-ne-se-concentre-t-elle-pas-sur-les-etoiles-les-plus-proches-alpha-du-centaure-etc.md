@@ -36,4 +36,4 @@ Donc on s'est concentré sur les étoiles proches quand même…
 
 Notes de bas de page
 
-[[1]](#cite-VIHpO)[EVE et les exoplanètes - Pourquoi Comment Combien](https://www.drgoulu.com/2017/07/12/eve-et-les-exoplanetes/)
+[[1]](#cite-VIHpO)[EVE et les exoplanètes - Pourquoi Comment Combien](/2017/07/12/eve-et-les-exoplanetes/)

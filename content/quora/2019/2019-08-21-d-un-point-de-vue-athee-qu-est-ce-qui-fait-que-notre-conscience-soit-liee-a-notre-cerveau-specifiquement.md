@@ -35,4 +35,4 @@ La conscience est un avantage évolutif déterminant, probablement encore plus i
 
 bref : la conscience n'est qu'un effet de bord de la capacité du cerveau à simuler ( = anticiper) la réalité. Mais c'est très chouette, j'aime bien !
 
-références dans [Neurologie du Temps - Pourquoi Comment Combien](https://www.drgoulu.com/2009/06/27/neurologie-du-temps/)
+références dans [Neurologie du Temps - Pourquoi Comment Combien](/2009/06/27/neurologie-du-temps/)

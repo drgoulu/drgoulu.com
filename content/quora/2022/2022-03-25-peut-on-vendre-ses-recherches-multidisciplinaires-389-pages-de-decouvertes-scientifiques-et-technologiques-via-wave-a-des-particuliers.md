@@ -29,4 +29,4 @@ Et en plus vous avez intérêt à ce qu'elles fonctionnent, sinon vos clients vo
 
 Un truc tout simple pour vous faire un peu de blé sans risque, c'est de vendre ça comme bouquins de science-fiction…
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/08/combien-pour-ce-brevet/)
+[https://www.drgoulu.com/2009/03/...](/2009/03/08/combien-pour-ce-brevet/)

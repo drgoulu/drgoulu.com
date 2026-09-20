@@ -35,4 +35,4 @@ Si non à l une des questions, il n'a aucun intérêt
 
 Si oui au deux, faut attendre les tests expérimentaux pour le prix Nobel…
 
-[https://www.drgoulu.com/2008/08/...](https://www.drgoulu.com/2008/08/23/suites-courbes-et-theories/#.Yt54zaS-g0E)
+[https://www.drgoulu.com/2008/08/...](/2008/08/23/suites-courbes-et-theories/#.Yt54zaS-g0E)

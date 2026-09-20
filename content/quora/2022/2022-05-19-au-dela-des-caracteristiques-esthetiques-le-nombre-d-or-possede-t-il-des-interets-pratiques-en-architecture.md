@@ -19,4 +19,4 @@ Lequel de ces rectangles trouvez-vous le plus esthétique ?
 
 ![](./images/qimg-f0af7574b6cb83a306147878041278fa.png)
 
-(solution dans [Nombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/#.YoZ_1mm-g0E) )
+(solution dans [Nombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/#.YoZ_1mm-g0E) )

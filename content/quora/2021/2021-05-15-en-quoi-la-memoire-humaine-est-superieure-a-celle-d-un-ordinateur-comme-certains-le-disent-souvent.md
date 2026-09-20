@@ -24,7 +24,7 @@ Elles sont surtout très différentes, mais on estime qu'il faudrait environ 100
 
 C'est donc effectivement nettement plus qu'un ordinateur de bureau, mais les super ordinateurs les plus puissants se rapprochent, lentement mais sûrement, de cette puissance
 
-[https://www.drgoulu.com/2013/03/...](https://www.drgoulu.com/2013/03/11/combien-de-processeurs-pour-un-cerveau/)
+[https://www.drgoulu.com/2013/03/...](/2013/03/11/combien-de-processeurs-pour-un-cerveau/)
 
 Ce n'est pas tellement le fait que les mémoires informatiques soient bindaaires qui les différencient de la mémoire "analogique" humaine. C'est plutôt que les mémoires informatiques sont "addressable" alors que la mémoire humaine semble surtout "associative".
 

@@ -35,4 +35,4 @@ Notes de bas de page
 
 [[1]](#cite-iAIjs)[La smartmap: anatomie de la carte politique – smartvote Blog](https://blog.smartvote.ch/fr/la-smartmap-anatomie-de-la-carte-politique/)
 
-[[2]](#cite-nTGSa)[La politique française dans la 2ème dimension ? - Pourquoi Comment Combien](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/#.YuqTuKS-g0E)
+[[2]](#cite-nTGSa)[La politique française dans la 2ème dimension ? - Pourquoi Comment Combien](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/#.YuqTuKS-g0E)

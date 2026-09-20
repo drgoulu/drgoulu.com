@@ -33,4 +33,4 @@ Mais d'ici à ce que la personne elle-même reconnaisse l'IA comme son double, l
 
 Notes de bas de page
 
-[[1]](#cite-KqJoG)[Combien de processeurs pour un cerveau ? - Pourquoi Comment Combien](https://drgoulu.com/2013/03/11/combien-de-processeurs-pour-un-cerveau/)
+[[1]](#cite-KqJoG)[Combien de processeurs pour un cerveau ? - Pourquoi Comment Combien](/2013/03/11/combien-de-processeurs-pour-un-cerveau/)

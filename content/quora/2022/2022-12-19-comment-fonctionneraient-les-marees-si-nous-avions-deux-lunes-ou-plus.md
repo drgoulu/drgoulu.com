@@ -17,4 +17,4 @@ Avec plus d'astres, ça ferait "simplement" plus de fréquences d'excitation, do
 
 Si vous ne comprenez pas ce qui précède, lisez
 
-[https://www.drgoulu.com/2017/08/...](https://www.drgoulu.com/2017/08/15/combien-de-maree/#.Y6CoqnbMKCo)
+[https://www.drgoulu.com/2017/08/...](/2017/08/15/combien-de-maree/#.Y6CoqnbMKCo)

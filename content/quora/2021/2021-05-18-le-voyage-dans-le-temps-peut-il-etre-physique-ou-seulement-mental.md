@@ -22,7 +22,7 @@ coverImage: ./images/quora.png
 
 Question très intéressante qui m'a fait penser à cet article:
 
-[https://www.drgoulu.com/2009/06/...](https://www.drgoulu.com/2009/06/27/neurologie-du-temps/#.YKPaS6iiGCo)
+[https://www.drgoulu.com/2009/06/...](/2009/06/27/neurologie-du-temps/#.YKPaS6iiGCo)
 
 En effet, le "voyage dans le temps" nous paraît une idée très naturelle car notre cerveau est capable de faire des aller/retour dans des univers parallèles virtuels lorsque nous nous rappelons nos choix passés ou que nous évaluons des choix possibles en imaginant les conséquences qu'ils auront.
 

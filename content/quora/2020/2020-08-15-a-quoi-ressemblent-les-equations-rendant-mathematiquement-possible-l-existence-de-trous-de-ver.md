@@ -30,4 +30,4 @@ Sur comment on en dérive l'existence mathématique de trous de vers traversable
 
 Notes de bas de page
 
-[[1]](#cite-RGrvd)[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/#.XzfhNeiFqCo)
+[[1]](#cite-RGrvd)[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/#.XzfhNeiFqCo)

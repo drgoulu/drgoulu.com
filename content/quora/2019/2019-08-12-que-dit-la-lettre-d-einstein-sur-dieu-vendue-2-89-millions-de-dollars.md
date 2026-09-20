@@ -23,4 +23,4 @@ Elle ne parle pas directement de Dieu mais plutôt de religion
 >
 > La religion juive, comme toutes les autres religions est l’incarnation des superstitions les plus enfantines…
 
-[Le Dieu d'Einstein - Pourquoi Comment Combien](https://www.drgoulu.com/2008/05/15/le-dieu-deinstein/)
+[Le Dieu d'Einstein - Pourquoi Comment Combien](/2008/05/15/le-dieu-deinstein/)

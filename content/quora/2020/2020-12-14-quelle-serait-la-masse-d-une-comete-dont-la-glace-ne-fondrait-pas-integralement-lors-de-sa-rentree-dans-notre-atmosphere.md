@@ -37,4 +37,4 @@ C'est peut-être ce qui est arrivé avec un noyau cométaire lors de l'[Événem
 
 Notes de bas de page
 
-[[1]](#cite-mLiry)[Risques météoritiques - Pourquoi Comment Combien](https://www.drgoulu.com/2012/01/28/risques-meteoritiques/)
+[[1]](#cite-mLiry)[Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)

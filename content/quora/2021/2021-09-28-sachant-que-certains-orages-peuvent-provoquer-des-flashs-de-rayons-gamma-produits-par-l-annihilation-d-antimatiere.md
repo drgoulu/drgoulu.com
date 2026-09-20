@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Oui. Comme les rayons cosmiques, le Tritium dans l eau, le carbone 14 dans l'air, l'uranium dans le granit, le thorium dans la monazite, le potassium 40 dans les bananes, mais surtout le radon dans les caves. Nous vivons dans un monde naturellement radioactif. Ca cause des cancers, mais aussi une partie des mutations qui font que nous ne sommes plus des bactéries.
 
-[https://www.drgoulu.com/2013/11/...](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/)
+[https://www.drgoulu.com/2013/11/...](/2013/11/03/la-radioactivite-naturelle/)
 
 Je n'ai pas trouvé la dose correspondant aux orages. Si vous la connaissez, commentez svp.

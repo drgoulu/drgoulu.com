@@ -15,4 +15,4 @@ De l'électricité, peut-être.
 
 Non, nous la sur estimons. Depuis 50 ans nous pensons que c est pour bientôt, que ce sera abondant, bon marché et non polluant alors qu'on ne sait même pas si ça marchera.
 
-[https://www.drgoulu.com/2005/12/...](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[https://www.drgoulu.com/2005/12/...](/2005/12/11/la-fusion-thermonucleaire/)

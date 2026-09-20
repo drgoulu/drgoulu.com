@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Ça dépend du portail. Avec la seule machine potentiellement physiquement envisageable, décrite dans
 
-[https://www.drgoulu.com/2006/06/...](https://www.drgoulu.com/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)
+[https://www.drgoulu.com/2006/06/...](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/)
 
 C'est encore plus compliqué que ça : on crée un trou de ver entre deux points et on utilise un effet relativiste sur une des extrémités pour créer progressivement un décalage temporel entre les deux. Au bout d'un temps t, l'autre extrémité est à un temps lambda*t.
 

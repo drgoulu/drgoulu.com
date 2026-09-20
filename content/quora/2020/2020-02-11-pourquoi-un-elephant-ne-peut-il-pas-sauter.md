@@ -29,4 +29,4 @@ De ce fait, les efforts et contraintes sur l'objet et ses constituants mécaniqu
 
 Cette loi des carrés et des cubes a un intérêt surprenant : la miniaturisation est favorable. Les fourmis sont beaucoup plus fortes que les éléphants proportionnellement à leur masse. Une montre bracelet est beaucoup plus résistante et a une plus longue réserve de marche qu'une pendule murale ou une horloge de clocher. Un microprocesseur peut contenir des milliards de transistors microscopiques beaucoup plus fiables que s'ils étaient grands, et consommant proportionnellement beaucoup moins. La seule difficulté est de disposer d'outils adaptés.
 
-Le génial Richard Feynman avait expliqué ceci en 1959 dans une célèbre conférence "[Il y a plein de place en bas" que j'ai traduite en français](https://www.drgoulu.com/2009/06/11/il-y-a-plein-de-place-en-bas-2/)
+Le génial Richard Feynman avait expliqué ceci en 1959 dans une célèbre conférence "[Il y a plein de place en bas" que j'ai traduite en français](/2009/06/11/il-y-a-plein-de-place-en-bas-2/)

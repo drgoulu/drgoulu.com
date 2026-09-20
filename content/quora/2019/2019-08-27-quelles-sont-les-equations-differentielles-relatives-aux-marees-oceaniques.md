@@ -31,4 +31,4 @@ Les équations ne vous serviront pas à grand chose, ce sont les conditions aux 
 
 En pratique on fait plutôt de l'analyse spectrale à partir de mesures. A Brest on utilise une centaine d'harmoniques …
 
-[Combien de marée - Pourquoi Comment Combien](https://www.drgoulu.com/2017/08/15/combien-de-maree/)
+[Combien de marée - Pourquoi Comment Combien](/2017/08/15/combien-de-maree/)

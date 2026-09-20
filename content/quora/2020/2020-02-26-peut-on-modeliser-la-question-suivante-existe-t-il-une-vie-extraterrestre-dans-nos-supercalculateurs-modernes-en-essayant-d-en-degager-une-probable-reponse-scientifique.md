@@ -31,4 +31,4 @@ Le problème est qu'ensuite on a pas d'information sur les autres facteurs : la 
 
 J'ai tendance à dire que puisque c'est arrivé sur Terre, il y a environ 1/10^10 chances que nous soyons un cas unique dans la galaxie …
 
-J'ai traduit un texte très intéressant avec beaucoup de références sur ce sujet : [Le Grand Filtre - Pourquoi Comment Combien](https://www.drgoulu.com/2012/12/28/le-grand-filtre/)
+J'ai traduit un texte très intéressant avec beaucoup de références sur ce sujet : [Le Grand Filtre - Pourquoi Comment Combien](/2012/12/28/le-grand-filtre/)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Montrez-en un seul, on vous dira de quoi il est fait après.
 
-[https://www.drgoulu.com/2016/09/...](https://www.drgoulu.com/2016/09/11/solutions-admissibles/#.Y9dodKTfs0E)
+[https://www.drgoulu.com/2016/09/...](/2016/09/11/solutions-admissibles/#.Y9dodKTfs0E)

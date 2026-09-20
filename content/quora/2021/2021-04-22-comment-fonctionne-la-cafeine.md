@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Cette magnifique molécule est un “inhibiteur compétitif” de l'adénosine : elle se fixe sur les mêmes récepteurs, et bloque ainsi l'action de l'adénosine qui ralentit l'activité cérébrale en cas de fatigue ou de stress.
 
-[https://www.drgoulu.com/2012/07/...](https://www.drgoulu.com/2012/07/07/magnifique-cafeine/)
+[https://www.drgoulu.com/2012/07/...](/2012/07/07/magnifique-cafeine/)

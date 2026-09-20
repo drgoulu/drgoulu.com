@@ -28,4 +28,4 @@ Le [Scepticisme scientifique](w:) que je défend est simple : "la [charge de la 
 
 Tout comme les licornes roses, la présence d'extraterrestres sur Terre ne correspond à aucune expérience reproductible. Donc ce n'est que du blabla.
 
-Histoire rigolote et personnelle sur le secret militaire : [Avalanches et goniomètre à infrasons - Pourquoi Comment Combien](https://www.drgoulu.com/2016/01/14/avalanches-et-gonimetre-a-infrasons/)
+Histoire rigolote et personnelle sur le secret militaire : [Avalanches et goniomètre à infrasons - Pourquoi Comment Combien](/2016/01/14/avalanches-et-gonimetre-a-infrasons/)

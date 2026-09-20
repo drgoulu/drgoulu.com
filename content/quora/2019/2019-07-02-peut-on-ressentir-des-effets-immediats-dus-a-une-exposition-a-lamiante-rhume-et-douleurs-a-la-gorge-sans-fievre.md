@@ -15,4 +15,4 @@ Non. L'amiante est un minéral, sa poussière ressemble à de la poussière de n
 
 Une exposition accidentelle n'est pas dangereuse, c'est l'exposition professionnelle sur une longue durée (des années) qui présente un risque.
 
-[Amiante : pas de panique ... - Pourquoi Comment Combien](https://www.drgoulu.com/2008/02/01/amiante-pas-de-panique/)
+[Amiante : pas de panique ... - Pourquoi Comment Combien](/2008/02/01/amiante-pas-de-panique/)

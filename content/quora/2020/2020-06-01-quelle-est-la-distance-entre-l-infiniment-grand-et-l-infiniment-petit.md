@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 44 ordres de grandeur
 
-[Les puissances de dix - Pourquoi Comment Combien](https://www.drgoulu.com/2008/05/16/les-puissances-de-dix/)
+[Les puissances de dix - Pourquoi Comment Combien](/2008/05/16/les-puissances-de-dix/)

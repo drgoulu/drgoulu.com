@@ -30,7 +30,7 @@ Ca arrive sur Terre aussi, mais l érosion rend ça moins visible.
 
 Quoique
 
-[https://www.drgoulu.com/2009/04/...](https://www.drgoulu.com/2009/04/16/de-manicouagan-a-rochechouart/)
+[https://www.drgoulu.com/2009/04/...](/2009/04/16/de-manicouagan-a-rochechouart/)
 
 Et
 

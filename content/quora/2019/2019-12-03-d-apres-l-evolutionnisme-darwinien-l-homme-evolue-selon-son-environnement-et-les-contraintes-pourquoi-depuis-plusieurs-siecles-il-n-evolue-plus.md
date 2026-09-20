@@ -15,4 +15,4 @@ Et pourquoi Homo Sapiens n'évoluerait il plus ?
 
 "plusieurs siècles", ce ne sont que quelques dizaines de générations humaines, trop peu pour distinguer une évolution générale sur des milliards d'individus.
 
-Mais sur quelques millénaires il y a des modifications génétiques très claires comme [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/).
+Mais sur quelques millénaires il y a des modifications génétiques très claires comme [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/).

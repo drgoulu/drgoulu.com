@@ -30,4 +30,4 @@ La moyenne annuelle de la durée du jour où que ce soit sur Terre est rigoureus
 
 Bon, quand je dis "rigoureusement" on pourrait chipoter sur les montagnes ou les effets dus à l'atmosphère, mais à quelques secondes près, c'est 12h partout.
 
-(voir [Combien dure un jour - Pourquoi Comment Combien](https://www.drgoulu.com/2013/08/11/combien-dure-un-jour/) )
+(voir [Combien dure un jour - Pourquoi Comment Combien](/2013/08/11/combien-dure-un-jour/) )

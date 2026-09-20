@@ -19,4 +19,4 @@ Cela dit j'aime bien la "triangulation causale dynamique" et la "graphité quant
 
 Notes de bas de page
 
-[[1]](#cite-bWOPr)[La Renaissance du temps 2/2 - Pourquoi Comment Combien](https://www.drgoulu.com/2015/12/31/la-renaissance-du-temps-22/)
+[[1]](#cite-bWOPr)[La Renaissance du temps 2/2 - Pourquoi Comment Combien](/2015/12/31/la-renaissance-du-temps-22/)

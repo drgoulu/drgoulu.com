@@ -21,7 +21,7 @@ Les deux facteurs que vous citez, population et PIB/habitant, sont les deux qui 
 
 Donc il faut agir sur les deux facteurs : caoutchouc et pilules + limitation du niveau de vie. Mais comme vous n'êtes pas d'accord de limiter votre niveau de vie, reste caoutchouc et pilules …
 
-[https://www.drgoulu.com/2013/05/...](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/#.Y3NsSnZsOCo)
+[https://www.drgoulu.com/2013/05/...](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/#.Y3NsSnZsOCo)
 
 Haroun Tazieff résumait tout ça en disant "il faut choisir entre vitre à un milliard de riches ou à 10 milliards de miséreux"
 

@@ -20,7 +20,7 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Quelle-est-la-source-d%C3%A9nergie-de-la-g%C3%A9othermie/answer/Dr-Goulu)*
 
-[La radioactivité naturelle](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/#.XLmHWOiiGCo). La désintégration de l'[uranium](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=uranium) 238, du [thorium](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=thorium) 232 et du [potassium 40](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=potassium+40) produit environ 24 terawatts, soit l’équivalent de 24’000 centrales nucléaires humaines.
+[La radioactivité naturelle](/2013/11/03/la-radioactivite-naturelle/#.XLmHWOiiGCo). La désintégration de l'[uranium](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=uranium) 238, du [thorium](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=thorium) 232 et du [potassium 40](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=potassium+40) produit environ 24 terawatts, soit l’équivalent de 24’000 centrales nucléaires humaines.
 
 Ca parait beaucoup, mais comme la surface de la Terre est de 510,1 millions de km2 ça ne fait “que” 47 kW par km2, soit 470W / hectare.
 

@@ -22,4 +22,4 @@ Il se passe la même chose que lorsque un bout de bois est incinéré : juste de
 
 Rien de quantique, juste une grosse augmentation [d'entropie](w:Entropie_(thermodynamique)) : toutes vos cellules et votre magnifique cerveau sont irrémédiablement réduits en petites molécules de base qui seront vite recyclées en bois ou en viande par d'autres êtres vivants.
 
-[https://drgoulu.com/2008/03/09/q...](https://drgoulu.com/2008/03/09/quelles-sont-les-chances/)
+[https://drgoulu.com/2008/03/09/q...](/2008/03/09/quelles-sont-les-chances/)

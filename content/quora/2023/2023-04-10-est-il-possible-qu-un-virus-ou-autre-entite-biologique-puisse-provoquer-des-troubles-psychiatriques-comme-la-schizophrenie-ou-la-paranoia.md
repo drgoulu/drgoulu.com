@@ -19,6 +19,6 @@ Il faudrait demander à un psychiatre quel nom il donne à ces modifications du 
 
 Autres exemples de parasites modifiant le comportement
 
-[https://www.drgoulu.com/2011/08/...](https://www.drgoulu.com/2011/08/28/quel-trematode-a-infecte-meti/#.ZDO15aS-g0E)
+[https://www.drgoulu.com/2011/08/...](/2011/08/28/quel-trematode-a-infecte-meti/#.ZDO15aS-g0E)
 
 Note * "pour" au sens évolutif de "parce que la sélection naturelle a favorisé les individus ayant cette tendance"

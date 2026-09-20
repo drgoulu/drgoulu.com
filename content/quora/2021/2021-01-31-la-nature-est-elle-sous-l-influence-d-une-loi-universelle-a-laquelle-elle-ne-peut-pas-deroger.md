@@ -25,6 +25,6 @@ C'est le point de vue [Platoniste](w:Platonisme_(doctrine_philosophique)) selon 
 
 Sauf qu'on ne voit pas du tout comment "la nature" pourrait connaitre ces lois, ni comment l'Univers, qui par définition regroupe tout ce qui existe, pourrait avoir des lois planant dans l'ether …
 
-Beaucoup de scientifiques comme [Lee Smolin par exemple](https://www.drgoulu.com/2015/01/28/la-renaissance-du-temps/#.YBb2ZuhsOCp) considèrent que notre vision de l'Univers devrait satisfaire la [fermeture causale](https://fr.qaz.wiki/wiki/Causal_closure) : ne pas invoquer de causes extérieures au système considéré, en l'occurrence l'Univers.
+Beaucoup de scientifiques comme [Lee Smolin par exemple](/2015/01/28/la-renaissance-du-temps/#.YBb2ZuhsOCp) considèrent que notre vision de l'Univers devrait satisfaire la [fermeture causale](https://fr.qaz.wiki/wiki/Causal_closure) : ne pas invoquer de causes extérieures au système considéré, en l'occurrence l'Univers.
 
 Dans cette vision, l'Univers est comme il est, et c'est nous qui identifions des "lois" dans les phénomènes que nous observons.

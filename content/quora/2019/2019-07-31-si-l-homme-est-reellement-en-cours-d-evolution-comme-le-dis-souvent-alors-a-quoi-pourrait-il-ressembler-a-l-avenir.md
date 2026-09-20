@@ -21,7 +21,7 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Si-lHomme-est-r%C3%A9ellement-en-cours-d%C3%A9volution-comme-le-dis-souvent-alors-%C3%A0-quoi-pourrait-il-ressembler-%C3%A0-lavenir/answer/Dr-Goulu)*
 
-Il s'adapte à son environnement. Actuellement l'évolution la plus visible est [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/) des populations de l'Himalaya, des Andes et des plateaux Éthiopiens.
+Il s'adapte à son environnement. Actuellement l'évolution la plus visible est [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/) des populations de l'Himalaya, des Andes et des plateaux Éthiopiens.
 
 On pourrait se dire qu'un réchauffement climatique global et durable pourrait provoquer une adaptation, mais on est déjà pas mal adaptés à la chaleur, c'est plutôt à cause du froid qu'on a inventé les habits.
 

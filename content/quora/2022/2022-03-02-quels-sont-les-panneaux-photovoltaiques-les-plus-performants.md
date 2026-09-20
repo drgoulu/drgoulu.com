@@ -27,4 +27,4 @@ Mais pour les énergies renouvelables, on recherche plutôt le meilleur rendemen
 
 Pourquoi le "en laboratoire" est important ? parce que :
 
-[https://www.drgoulu.com/2010/05/...](https://www.drgoulu.com/2010/05/09/comment-on-mesure-le-rendement-des-cellules-solaires/)
+[https://www.drgoulu.com/2010/05/...](/2010/05/09/comment-on-mesure-le-rendement-des-cellules-solaires/)

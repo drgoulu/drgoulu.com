@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce que ça permet de définir la simultanéité des événements dans l'espace-temps, la base de la relativité, à condition de considérer le temps comme dimension imaginaire, au sens mathématique du terme
 
-[https://drgoulu.com/2007/02/07/l...](https://drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
+[https://drgoulu.com/2007/02/07/l...](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)

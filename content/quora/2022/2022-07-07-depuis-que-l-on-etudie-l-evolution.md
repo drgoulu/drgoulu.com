@@ -23,7 +23,7 @@ Les
 
 comme le mulet montrent que l'âne et le cheval sont en train de diverger, comme le lien et le tigre par exemple aussi
 
-Chez l'humain il y a la tolérance au lactose et [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/#.Ysb4oXaiGCo)qui auraient pu donner des espèces différentes si les populations avaient été séparées encore quelques centaines de milliers d'années.
+Chez l'humain il y a la tolérance au lactose et [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/#.Ysb4oXaiGCo)qui auraient pu donner des espèces différentes si les populations avaient été séparées encore quelques centaines de milliers d'années.
 
 Voilà quelques exemples pour les animaux.
 

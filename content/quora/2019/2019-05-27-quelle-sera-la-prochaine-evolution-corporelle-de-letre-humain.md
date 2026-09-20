@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Aucune idée, dites-moi à quoi ressembleront nos prochains 100'000 ans et j'en aurai peut-être une…
 
-Mais n'oubliez pas que l'évolution est permanente. Nous évoluons toujours pour nous adapter à notre environnement. Le meilleur exemple à ma connaissance est [L'adaptation à l'altitude.](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+Mais n'oubliez pas que l'évolution est permanente. Nous évoluons toujours pour nous adapter à notre environnement. Le meilleur exemple à ma connaissance est [L'adaptation à l'altitude.](/2014/08/17/ladaptation-a-laltitude/)

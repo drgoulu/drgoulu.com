@@ -15,4 +15,4 @@ Il ne l’est pas. Le café au moins autant de bienfaits que de méfaits. En en 
 
 sources: [Café, bienfait et méfait du café pour l'organisme](https://www.lanutrition.fr/bien-dans-son-assiette/aliments/boissons/cafe) et [Café - propriétés thérapeuthiques — Wikipédia](w:Café)
 
-[Magnifique caféine - Pourquoi Comment Combien](https://www.drgoulu.com/2012/07/07/magnifique-cafeine/)
+[Magnifique caféine - Pourquoi Comment Combien](/2012/07/07/magnifique-cafeine/)

@@ -17,4 +17,4 @@ environ 97%.
 
 Notes de bas de page
 
-[[1]](#cite-lABTs)[Deux pubs - Pourquoi Comment Combien](https://www.drgoulu.com/2013/03/21/deux-pubs/)
+[[1]](#cite-lABTs)[Deux pubs - Pourquoi Comment Combien](/2013/03/21/deux-pubs/)

@@ -15,4 +15,4 @@ Assez.
 
 Quand une s'épuise (=devient trop chère) on la remplace par une autre (= moins chère)
 
-[Combien reste-t-il de ressources minières ? Beaucoup. - Pourquoi Comment Combien](https://www.drgoulu.com/2017/04/28/mythe-de-lepuisement-ressources-minieres/)
+[Combien reste-t-il de ressources minières ? Beaucoup. - Pourquoi Comment Combien](/2017/04/28/mythe-de-lepuisement-ressources-minieres/)

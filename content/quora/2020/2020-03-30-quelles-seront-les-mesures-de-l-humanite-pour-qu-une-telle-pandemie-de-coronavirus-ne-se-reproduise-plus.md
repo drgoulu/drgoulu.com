@@ -27,6 +27,6 @@ Menachery, V. D., Yount, B. L., Debbink, K., Agnihothram, S., Gralinski, L. E., 
 
 Ou alors il faut éradiquer les chauve-souris. Ou peut-être les vacciner elles, comme nous avons vacciné les renards contre la rage…
 
-Mais si vous lisez l'excellent bouquin [Planète de virus](https://www.drgoulu.com/2016/03/28/planete-de-virus/#.XoGStIiiGCo), vous comprendrez que c'est comme pisser dans un violon : le nombre astronomique de virus en circulation dans toutes les espèces vivantes fait que tôt ou tard, ça se reproduira.
+Mais si vous lisez l'excellent bouquin [Planète de virus](/2016/03/28/planete-de-virus/#.XoGStIiiGCo), vous comprendrez que c'est comme pisser dans un violon : le nombre astronomique de virus en circulation dans toutes les espèces vivantes fait que tôt ou tard, ça se reproduira.
 
 De telles épidémies se sont toujours produites dans l'histoire de l'humanité, souvent en bien pire, on a juste oublié, car l'économie nous a imposé une vision à court terme.

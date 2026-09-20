@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui : payez le une fortune (matériel professionnel) et utilisez le très peu. La durée de vie d'un appareil se compte en heures, pas en années. Si vous passez l'aspirateur une fois par semaine, il va durer 5 fois plus longtemps que si vous le passez tous les jours.
 
-[L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/01/lobsolescence-est-elle-programmee-2/)
+[L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](/2013/05/01/lobsolescence-est-elle-programmee-2/)

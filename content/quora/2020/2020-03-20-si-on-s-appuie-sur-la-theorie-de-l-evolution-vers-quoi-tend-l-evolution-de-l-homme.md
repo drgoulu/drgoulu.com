@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 L'évolution n'a pas de direction, elle ne tend vers rien. Elle ne fait qu'adapter les espèces à leur environnement..
 
-Actuellement, une des évolutions génétiques en cours concerne [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/).
+Actuellement, une des évolutions génétiques en cours concerne [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/).

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Comme le latin pour les gens qui ne seront jamais papes : ça forme le cerveau à une certaine logique. Et la logique informatique est beaucoup plus pratiquée dans notre société que la déclinaison latine…
 
-[L a programmation, latin du futur ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/09/07/la-programmation-latin-du-futur/)
+[L a programmation, latin du futur ? - Pourquoi Comment Combien](/2013/09/07/la-programmation-latin-du-futur/)

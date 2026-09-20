@@ -21,4 +21,4 @@ Pour l’Univers:
 
 Notes de bas de page
 
-[[1]](#cite-lyjpa)[La Renaissance du Temps 1/2 - Pourquoi Comment Combien](https://www.drgoulu.com/2015/01/28/la-renaissance-du-temps/#.XNWPlI6iGCo)
+[[1]](#cite-lyjpa)[La Renaissance du Temps 1/2 - Pourquoi Comment Combien](/2015/01/28/la-renaissance-du-temps/#.XNWPlI6iGCo)

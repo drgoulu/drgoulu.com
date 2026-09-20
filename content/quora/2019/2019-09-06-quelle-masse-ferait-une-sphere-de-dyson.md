@@ -31,4 +31,4 @@ C'est pourquoi [L'Anneau-Monde](w:) est plus vraisemblable, quoi qu'il faille tr
 
 [https://www.youtube.com/watch?v=...](https://www.youtube.com/watch?v=sR2296df-bc)
 
-[Anneau-Monde et surpopulation - Pourquoi Comment Combien](https://www.drgoulu.com/2012/10/28/anneau-monde-et-surpopulation/)
+[Anneau-Monde et surpopulation - Pourquoi Comment Combien](/2012/10/28/anneau-monde-et-surpopulation/)

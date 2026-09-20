@@ -34,7 +34,7 @@ Lors de deux voyages de plusieurs semaines dans les Andes entre 3000 et 5000 m d
 
 A noter les risques particulièrement élevés pour les femmes enceintes. Au dessus de 2500m, la sélection naturelle a doté les populations de mutations génétiques qui évitent aux femmes de mourir à l'accouchement…
 
-[L'adaptation à l'altitude - Pourquoi Comment Combien](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/)
+[L'adaptation à l'altitude - Pourquoi Comment Combien](/2014/08/17/ladaptation-a-laltitude/)
 
 Notes de bas de page
 

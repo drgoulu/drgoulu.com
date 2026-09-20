@@ -38,4 +38,4 @@ Donc oui, comme toutes les espèces Homo Sapiens s'adapte à son environnement, 
 Références:
 
 1. Ghiassi-nejad, M; Mortazavi, S M J; Cameron, J R; Niroomand-rad, A; Karam, P A “[Very high background radiation areas of Ramsar, Iran: preliminary biological studies.](http://www.probeinternational.org/Ramsar.pdf)” (2002) Health physics vol. 82 (1) p. 87-93
-2. [La radioactivité naturelle - Pourquoi Comment Combien](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/)
+2. [La radioactivité naturelle - Pourquoi Comment Combien](/2013/11/03/la-radioactivite-naturelle/)

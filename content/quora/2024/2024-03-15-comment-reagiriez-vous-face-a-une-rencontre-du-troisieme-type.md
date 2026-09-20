@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Mal. Je serais soit mort, soit disséqué dans un labo, soit animal de zoo.
 
-Ce que j'avais écrit dans mon [Principe de Saturation Cubique](https://drgoulu.com/1999/10/24/psc/)se retrouve exactement, en beaucoup mieux écrit dans [La Forêt sombre](w:), le deuxième opus de la trilogie [Le Problème à trois corps](w:) que je recommande vivement.
+Ce que j'avais écrit dans mon [Principe de Saturation Cubique](/1999/10/24/psc/)se retrouve exactement, en beaucoup mieux écrit dans [La Forêt sombre](w:), le deuxième opus de la trilogie [Le Problème à trois corps](w:) que je recommande vivement.
 
 Je me rejouis de voir la série sur Netflix, plus qu'une semaine à attendre !

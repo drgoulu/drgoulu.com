@@ -47,4 +47,4 @@ C'est en général ceci qui renverse des bâtiments pourtant conçus "antisismiq
 
 Pour rappel, les centrales nucléaires de Fukushima ont bien supporté le tremblement de terre, qui n'a causé qu'une panne d'électricité très courte avant que des génératrices ne prennent le relais. C'est le tsunami qui a suivi et inondé les génératrices qui a causé la catastrophe.
 
-[https://www.drgoulu.com/2011/03/...](https://www.drgoulu.com/2011/03/16/seismes-et-energies/#.YJMGkLWiGCo)
+[https://www.drgoulu.com/2011/03/...](/2011/03/16/seismes-et-energies/#.YJMGkLWiGCo)

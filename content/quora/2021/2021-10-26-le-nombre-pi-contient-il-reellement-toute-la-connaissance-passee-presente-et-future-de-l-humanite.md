@@ -15,4 +15,4 @@ Pour pi ce n'est pas encore démontré , mais pour la [Constante de Champernowne
 
 Le problème est de savoir à partir de quelle décimale cette connaissance est écrite, parce que l'infinité des idioties est aussi écrite…
 
-[https://www.drgoulu.com/2010/06/...](https://www.drgoulu.com/2010/06/04/nombres-univers/)
+[https://www.drgoulu.com/2010/06/...](/2010/06/04/nombres-univers/)

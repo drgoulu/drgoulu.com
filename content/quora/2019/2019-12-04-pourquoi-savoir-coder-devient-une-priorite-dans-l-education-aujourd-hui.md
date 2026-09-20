@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 Parce que c'est l'équivalent moderne du latin : même si on ne le pratique pas, ça forme l'esprit.
 
-[La programmation, latin du futur ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/09/07/la-programmation-latin-du-futur/)
+[La programmation, latin du futur ? - Pourquoi Comment Combien](/2013/09/07/la-programmation-latin-du-futur/)
 
 D'ailleurs il y a un certain Damian Conway a pondu un dialecte du PERL permettant de programmer en latin :[[1]](#LIeFE)
 

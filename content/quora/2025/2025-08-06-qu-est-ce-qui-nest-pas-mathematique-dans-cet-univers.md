@@ -15,8 +15,8 @@ Absolument tout.
 
 Les mathématiques sont un langage qui le décrit assez bien, mais surtout de manière rigoureuse et univoque.
 
-Ça marche parce que l'univers a certaines propriétés qui le rendent compréhensible ( voir [Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](https://drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/))
+Ça marche parce que l'univers a certaines propriétés qui le rendent compréhensible ( voir [Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](/2011/01/30/pourquoi-3-dimensions-1-temps/))
 
-L'univers n'est pas mathématique parce que les mathématiques peuvent décrire des "Univers" totalement différents. Ils sont plus puissants que la physique (voir [Solutions admissibles - Pourquoi Comment Combien](https://drgoulu.com/2016/09/11/solutions-admissibles/))
+L'univers n'est pas mathématique parce que les mathématiques peuvent décrire des "Univers" totalement différents. Ils sont plus puissants que la physique (voir [Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/))
 
 De plus, comment les particules consulteraient elles les lois mathématiques qui les concernent ?

@@ -15,4 +15,4 @@ Le radon est beaucoup moins abondant que le potassium 40,nais beaucoup plus radi
 
 En radioactivité c'est beaucoup plus que les bananes, mais en quantité beaucoup moins.
 
-[La radioactivité naturelle - Pourquoi Comment Combien](https://www.drgoulu.com/2013/11/03/la-radioactivite-naturelle/)
+[La radioactivité naturelle - Pourquoi Comment Combien](/2013/11/03/la-radioactivite-naturelle/)

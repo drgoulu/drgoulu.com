@@ -29,4 +29,4 @@ Cependant ces grandes amplitudes sont le résultat d'un phénomène de résonnan
 >
 > Seule une très faible fraction de l'énergie des marées étant récupérable, du fait de leur dispersion autour du globe, l’énergie marémotrice potentiellement récupérable pourrait fournir jusqu'à 380 TWh/an, soit 1,5 à 2 % de la consommation mondiale d'électricité. [[Wikipedia](w:Énergie_marémotrice)]
 
-[https://www.drgoulu.com/2017/08/...](https://www.drgoulu.com/2017/08/15/combien-de-maree/)
+[https://www.drgoulu.com/2017/08/...](/2017/08/15/combien-de-maree/)

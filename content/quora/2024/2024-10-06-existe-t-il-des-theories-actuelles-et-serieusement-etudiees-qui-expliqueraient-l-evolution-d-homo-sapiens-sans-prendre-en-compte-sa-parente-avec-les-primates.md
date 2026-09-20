@@ -26,4 +26,4 @@ Homo Sapiens n'est que la dernière espèce du [genre Homo](w:Homo), qui n'a que
 
 Toutes les théories sur la bipédie, l'apparition de l'habillement puis du langage articulé, le courage d'allumer un feu et les raisons qui nous poussent à essaimer sur la planète n'ont rien à voir avec notre très ancienne parenté avec les lémuriens.
 
-Il y a des théories actuelles et sérieusement étudiées qui montrent que des choses comme la tolérance au lactose ou [l'adaptation à l'altitude](https://drgoulu.com/2014/08/17/ladaptation-a-laltitude/) sont des évolutions d'Homo sapiens, et elles ne prennent pas en compte notre parenté même avec nos cousins les plus proches.
+Il y a des théories actuelles et sérieusement étudiées qui montrent que des choses comme la tolérance au lactose ou [l'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/) sont des évolutions d'Homo sapiens, et elles ne prennent pas en compte notre parenté même avec nos cousins les plus proches.

@@ -28,4 +28,4 @@ Sur Terre nous n'arrivons de très loin pas à cette pression, nous devons chauf
 
 Pas grand chose en commun donc.
 
-[la fusion thermonucléaire - Pourquoi Comment Combien](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/)
+[la fusion thermonucléaire - Pourquoi Comment Combien](/2005/12/11/la-fusion-thermonucleaire/)

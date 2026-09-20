@@ -35,4 +35,4 @@ Mais elle est limitée par ce qu'on appelle l' "effet papillon" , plus scientifi
 
 Notes de bas de page
 
-[[1]](#cite-oUkDH)[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/#.X5fCqYgVOCo)
+[[1]](#cite-oUkDH)[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](/2011/01/30/pourquoi-3-dimensions-1-temps/#.X5fCqYgVOCo)

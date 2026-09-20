@@ -17,4 +17,4 @@ On ne sait pas comment faire, mais en plus ça ne vaut pas le coup :
 - mais il ne dure que 25 millisecondes, donc l’énergie n’est que de 140 kWh, soit 30 Euro d’électricité à tout casser…
 - Si on parvenait à capter l’énergie de tous les éclairs frappant la France, ça pourrait alimenter environ 5000 ménages. Seulement.
 
-[L’énergie de la foudre - Pourquoi Comment Combien](https://www.drgoulu.com/2007/09/09/lenergie-de-la-foudre/)
+[L’énergie de la foudre - Pourquoi Comment Combien](/2007/09/09/lenergie-de-la-foudre/)

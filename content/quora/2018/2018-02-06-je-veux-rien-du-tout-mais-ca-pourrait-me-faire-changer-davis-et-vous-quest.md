@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 
 je veux rien du tout, mais ça pourrait me faire changer d’avis. Et vous, [qu’est-ce qui pourrait vous faire changer d’avis ?](https://reponsesfrequentes.quora.com/Qu-est-ce-qui-pourrait-vous-faire-changer-d-avis)
 
-La (soi disant) chute libre ne m’épate pas, je connais une structure qui tombe plus vite que la chute libre : [Comment tomber plus vite que la gravité - Pourquoi Comment Combien](https://www.drgoulu.com/2013/04/20/comment-tomber-plus-vite-que-la-gravite/#.WnnX3KjT6Co)
+La (soi disant) chute libre ne m’épate pas, je connais une structure qui tombe plus vite que la chute libre : [Comment tomber plus vite que la gravité - Pourquoi Comment Combien](/2013/04/20/comment-tomber-plus-vite-que-la-gravite/#.WnnX3KjT6Co)
 
 Mais il est très clair qu’on était loin de la chute libre:
 

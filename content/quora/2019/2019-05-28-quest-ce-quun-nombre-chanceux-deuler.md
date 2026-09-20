@@ -15,4 +15,4 @@ Les [nombre chanceux d'Euler](w:) sont les six entiers $p=2, 3, 5, 11, 17, 41$ t
 
 A ne pas confondre avec les [nombres chanceux](w:Nombre_chanceux) tout court, qui sont à mon humble avis beaucoup plus intéressants.
 
-voir [2019 passée au crible - Pourquoi Comment Combien](https://www.drgoulu.com/2019/01/06/2019-passee-au-crible/)
+voir [2019 passée au crible - Pourquoi Comment Combien](/2019/01/06/2019-passee-au-crible/)

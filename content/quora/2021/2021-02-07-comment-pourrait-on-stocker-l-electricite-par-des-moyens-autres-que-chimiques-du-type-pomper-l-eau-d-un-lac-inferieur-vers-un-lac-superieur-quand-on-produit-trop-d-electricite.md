@@ -15,4 +15,4 @@ On peut faire tout ça. Chaque technique a ses avantages et inconvénients. La f
 
 ![](./images/qimg-b58236004d6a1dad8d74f87264674a99.jpg)
 
-[https://www.drgoulu.com/2012/10/...](https://www.drgoulu.com/2012/10/07/comment-stocker-lenergie/)
+[https://www.drgoulu.com/2012/10/...](/2012/10/07/comment-stocker-lenergie/)

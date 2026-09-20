@@ -15,4 +15,4 @@ La gravitation a une portée infinie, mais décroît très vite, comme le carré
 
 La Terre influence très légèrement les autres planètes, et vice-versa, mais je pense qu'on peut dire qu'au delà de l'orbite de Mars c'est totalement négligeable.
 
-Petit calcul montrant en passant l'absurdité de l'[Astrologie - Pourquoi Comment Combien](https://www.drgoulu.com/2004/06/30/astrologie/)
+Petit calcul montrant en passant l'absurdité de l'[Astrologie - Pourquoi Comment Combien](/2004/06/30/astrologie/)

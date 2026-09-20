@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Uniquement les labos des êtres intelligents (ou presque, on n'arrive qu'à des nano kelvins en fait)
 
-J'ai réalisé ça lors d'une anecdote racontée ici : [Plus froid que l'espace - Pourquoi Comment Combien](https://www.drgoulu.com/2007/05/09/plus-froid-que-lespace/)
+J'ai réalisé ça lors d'une anecdote racontée ici : [Plus froid que l'espace - Pourquoi Comment Combien](/2007/05/09/plus-froid-que-lespace/)

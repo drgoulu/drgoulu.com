@@ -17,4 +17,4 @@ Les ondes gravitationnelles sont émises par des objets qui ne tournent pas rond
 
 Si le soleil disparaissait (ce qui n'est pas possible) c'est "simplement" la déformation de l'espace temps qu'il cause qui disparaîtrait de proche en proche, donc à c.
 
-[https://drgoulu.com/2016/02/14/e...](https://drgoulu.com/2016/02/14/einstein-et-les-ondes-gravitationnelles/)
+[https://drgoulu.com/2016/02/14/e...](/2016/02/14/einstein-et-les-ondes-gravitationnelles/)

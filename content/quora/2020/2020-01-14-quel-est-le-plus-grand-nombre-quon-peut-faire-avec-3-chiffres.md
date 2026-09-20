@@ -27,4 +27,4 @@ Avec 5 caractères, j'ai 9→9→9 qui utilise la [Notation des flèches chaîn�
 
 Mais à la réflexion $9\uparrow^{9}9$ en [Notation des puissances itérées de Knuth](w:) est colossalement plus grand, en 4 caractères seulement
 
-[Très très très grands nombres - Pourquoi Comment Combien](https://www.drgoulu.com/2008/11/04/tres-tres-tres-grands-nombres/)
+[Très très très grands nombres - Pourquoi Comment Combien](/2008/11/04/tres-tres-tres-grands-nombres/)

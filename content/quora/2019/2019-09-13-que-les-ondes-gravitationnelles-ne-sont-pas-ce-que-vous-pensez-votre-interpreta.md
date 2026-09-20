@@ -15,6 +15,6 @@ Que les ondes gravitationnelles ne sont pas ce que vous pensez. Votre interprét
 
 Ils'est aperçu ensuite que des ondes gravitationnelles sont émises quand une masse est accélérée. Mais pour l'accélérer il faut émettre une masse en réaction : retour à la case départ… Sauf si les 2 masses tournent l'une autour de l'autre. Et là les ondes émises emportent de l'énergie, ce qui resserre l'orbite des 2 corps jusqu'à la collision.
 
-Et c'est exactement ce qu'on a observé avec [OJ 287](https://www.drgoulu.com/2008/04/18/ca-cest-du-trou-noir-du-vrai/) et les détections récentes de LIGO, et les mesures confirment que les ondes gravitationnelles se propagent à c.
+Et c'est exactement ce qu'on a observé avec [OJ 287](/2008/04/18/ca-cest-du-trou-noir-du-vrai/) et les détections récentes de LIGO, et les mesures confirment que les ondes gravitationnelles se propagent à c.
 
-[Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/02/14/einstein-et-les-ondes-gravitationnelles/) .
+[Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](/2016/02/14/einstein-et-les-ondes-gravitationnelles/) .

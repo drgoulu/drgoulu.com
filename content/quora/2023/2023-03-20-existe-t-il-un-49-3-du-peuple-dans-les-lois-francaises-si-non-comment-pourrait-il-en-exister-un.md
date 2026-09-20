@@ -22,7 +22,7 @@ Seules 24 initiatives, soit environ 10% on été acceptées lors du vote, mais c
 - 1949 [Retour à la démocratie directe](http://www.admin.ch/ch/f/pore/vi/vis56.html). Le peuple a récupéré de justesse (50.7%) ses droits après l’usage intensif de [la clause d’urgence](http://www.hls-dhs-dss.ch/textes/f/F10092.php) pendant la 2ème guerre mondiale !
 - 2002 [Adhésion à l’ONU](http://www.admin.ch/ch/f/pore/vi/vis292t.html). Le gouvernement estimait que ça mettrait en danger notre fameuse neutralité, la population a estimé que non.
 
-[https://www.drgoulu.com/2009/12/...](https://www.drgoulu.com/2009/12/13/initiatives-populaires/)
+[https://www.drgoulu.com/2009/12/...](/2009/12/13/initiatives-populaires/)
 
 En France, vous pourriez utiliser le [Référendum d'initiative partagée](w:)existant pour l'instaurer, mais c'est extrêmement difficile.
 

@@ -29,4 +29,4 @@ La vitesse de rotation des trous noirs est très proche de celle imposée par la
 >
 > Plus récemment, c’est le [trou noir supermassif](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=trou+noir+supermassif) au centre de la galaxie [NGC 1365](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=NGC+1365) qui a été mesuré à sa limite de vitesse également [6,7]. Comme ce monstre pèse 2 millions de masses solaires, ce n’est pas sa vitesse angulaire qui impressionne, mais peut-être plus la vitesse tangentielle de son horizon : 84% de la vitesse de la lumière !
 
-[https://www.drgoulu.com/2016/07/...](https://www.drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[https://www.drgoulu.com/2016/07/...](/2016/07/10/combien-tourne-un-trou-noir/)

@@ -24,4 +24,4 @@ C est parce que les tokamaks fonctionnent à quelques bars seulement (2 à 4 dan
 
 Et d'utiliser du deutérium plutôt que de l'hydrogène.
 
-[https://www.drgoulu.com/2005/12/...](https://www.drgoulu.com/2005/12/11/la-fusion-thermonucleaire/#.YpSU1Wm-g0E)
+[https://www.drgoulu.com/2005/12/...](/2005/12/11/la-fusion-thermonucleaire/#.YpSU1Wm-g0E)

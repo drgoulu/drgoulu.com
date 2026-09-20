@@ -27,4 +27,4 @@ La vitesse n'a aucune importance. Vous vous promenez à des centaines de km/s au
 
 Evidemment il y aurait des problèmes techniques non négligeables, comme le fait que la collision du vaisseau avec un petit gravillon dégage autant d'énergie qu'une explosion nucléaire, sans oublier qu’il faudrait toute l’énergie du Soleil pour accélérer quelques centaines de tonnes à cette vitesse, mais si on maîtrisait ces problèmes bassement matériels, on pourrait aller n'importe où dans l'Univers en quelques années seulement.
 
-[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](https://www.drgoulu.com/2004/08/09/acceleration/#.XoRWXKiiGCo)
+[Accélération : Journal de bord d’un voyage relativiste - Pourquoi Comment Combien](/2004/08/09/acceleration/#.XoRWXKiiGCo)

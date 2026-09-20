@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 (le lien fait limite spam/pub, mais bon…)
 
-Pour ma part, je garde toujours en mémoire les [Perlisismes, les dictons informatiques d'Alan Perlis](https://www.drgoulu.com/2008/01/21/perlisismes-les-dictons-informatiques-dalan-perlis/), et j'en ai tiré mes règles de bonne pratique à la Maître Yoda qui font toujours sensation en [Revue de code](w:):
+Pour ma part, je garde toujours en mémoire les [Perlisismes, les dictons informatiques d'Alan Perlis](/2008/01/21/perlisismes-les-dictons-informatiques-dalan-perlis/), et j'en ai tiré mes règles de bonne pratique à la Maître Yoda qui font toujours sensation en [Revue de code](w:):
 
 Par exemple
 

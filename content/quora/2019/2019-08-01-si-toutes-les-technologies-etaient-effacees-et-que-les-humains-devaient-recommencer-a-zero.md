@@ -20,7 +20,7 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Si-toutes-les-technologies-%C3%A9taient-effac%C3%A9es-et-que-les-humains-devaient-recommencer-%C3%A0-z%C3%A9ro-pensez-vous-quen-fin-de-compte-nous-arriverions-%C3%A0-la-m%C3%AAme-technologie-que-nous-avons/answer/Dr-Goulu)*
 
-Il y a une nouvelle de sf très intéressante sur ce sujet "The Road Not Taken” d'Harry Turtledove. J'en cause dans [La route que nous n'avons pas prise - Pourquoi Comment Combien](https://www.drgoulu.com/2011/11/06/la-route-que-nous-navons-pas-prise/).
+Il y a une nouvelle de sf très intéressante sur ce sujet "The Road Not Taken” d'Harry Turtledove. J'en cause dans [La route que nous n'avons pas prise - Pourquoi Comment Combien](/2011/11/06/la-route-que-nous-navons-pas-prise/).
 
 Je pense qu'il est peu probable que les découvertes scientifiques et technologiques d’une autre civilisation se fassent dans un ordre très différent de celui que nous avons connu.
 

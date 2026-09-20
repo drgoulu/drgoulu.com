@@ -19,4 +19,4 @@ C es deux conceptions du temps sont aussi incompatibles que les deux grandes th�
 
 Parmi les tentatives de conciliation, j'aime bien le "no futurism" ou [Growing block universe](w:en:Growing_block_universe)dans lequel le présent serait la surface du "bloc du passé" sur laquelle le "gaz du futur" cristallise.
 
-En 2009 il y a eu un concours d'essais sur [Les Natures du Temps](https://drgoulu.com/2009/03/28/les-natures-du-temps/)auquel de grands théoriciens ont participé, vous trouverez plein de références "lisibles" sur ces sujets là bas.
+En 2009 il y a eu un concours d'essais sur [Les Natures du Temps](/2009/03/28/les-natures-du-temps/)auquel de grands théoriciens ont participé, vous trouverez plein de références "lisibles" sur ces sujets là bas.

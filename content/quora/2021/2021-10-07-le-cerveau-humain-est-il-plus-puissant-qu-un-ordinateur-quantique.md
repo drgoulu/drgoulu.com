@@ -24,4 +24,4 @@ il est en tout cas plus flexible car les "ordinateurs" quantiques sont plutôt d
 
 Le cerveau humain est au contraire très dynamique et généraliste. Sa puissance de calcul correspond environ aux plus gros superordinateurs classiques actuels . Ou à 100x plus, on ne sait pas encore...
 
-[https://www.drgoulu.com/2013/03/...](https://www.drgoulu.com/2013/03/11/combien-de-processeurs-pour-un-cerveau/)
+[https://www.drgoulu.com/2013/03/...](/2013/03/11/combien-de-processeurs-pour-un-cerveau/)

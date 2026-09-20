@@ -24,7 +24,7 @@ Israël n'a pas de Constitution, en bonne partie parce que les religieux s'y opp
 
 Les [Lois fondamentales d'Israël](w:)peuvent être modifiées à la majorité simple de la Knesset, comme ça vient d'être fait. Il n'y a donc aucun texte qui empêche un gouvernement de transformer Israël en theocratie autoritaire comme ses voisins.
 
-[Israël : 70 ans, et toujours pas de Constitution - Pourquoi Comment Combien](https://www.drgoulu.com/2008/05/09/israel-60-ans-et-toujours-pas-de-constitution/)
+[Israël : 70 ans, et toujours pas de Constitution - Pourquoi Comment Combien](/2008/05/09/israel-60-ans-et-toujours-pas-de-constitution/)
 
 Ce que je ne comprends pas, c'est comment le parti socialiste qui a grandement contribué à la création d'Israël a pu sombrer pareillement après avoir eu un premier ministre prix Nobel de la paix.
 

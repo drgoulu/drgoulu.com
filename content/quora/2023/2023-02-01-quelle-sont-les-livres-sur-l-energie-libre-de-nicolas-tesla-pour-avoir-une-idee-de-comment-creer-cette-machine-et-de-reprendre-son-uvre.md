@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Apprenez plutôt la physique.
 
-[https://www.drgoulu.com/2012/08/...](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/#.Y9tS56Tfs0E)
+[https://www.drgoulu.com/2012/08/...](/2012/08/19/nikola-tesla-genie-mais-connu/#.Y9tS56Tfs0E)

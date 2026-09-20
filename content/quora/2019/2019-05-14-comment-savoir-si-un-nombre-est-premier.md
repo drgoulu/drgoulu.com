@@ -28,4 +28,4 @@ Puisqu’ils sont “probabilistes” ces tests ont une toute petite probabilit�
 
 Il y a aussi des tests spécialisés pour certains types de nombres, comme le [Test de primalité de Lucas-Lehmer pour les nombres de Mersenne](w:) qui est déterministe, mais ne marche que pour les nombres de Mersenne (raison pour laquelle le [Plus grand nombre premier connu](w:) est toujours un nombre de Mersenne).
 
-[Comment trouver des nombres premiers - Pourquoi Comment Combien](https://www.drgoulu.com/2012/04/15/comment-produire-des-nombres-premiers/)
+[Comment trouver des nombres premiers - Pourquoi Comment Combien](/2012/04/15/comment-produire-des-nombres-premiers/)

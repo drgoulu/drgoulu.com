@@ -73,4 +73,4 @@ Mais Klein est trop fier pour ça. Il croyait vraiment être un philosopheux …
 
 Notes de bas de page
 
-[[1]](#cite-UyTqk)[https://drgoulu.com/2008/06/19/p...](https://drgoulu.com/2008/06/19/peut-on-voyager-dans-le-temps/)
+[[1]](#cite-UyTqk)[https://drgoulu.com/2008/06/19/p...](/2008/06/19/peut-on-voyager-dans-le-temps/)

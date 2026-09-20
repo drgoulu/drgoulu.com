@@ -41,4 +41,4 @@ C'est un sacré choc de plus pour notre intuition.
 
 Mais c'est comme ça.
 
-[https://www.drgoulu.com/2013/12/...](https://www.drgoulu.com/2013/12/15/comment-expliquer-la-relativite-aux-enfants/#.YkYfDGm-g0E)
+[https://www.drgoulu.com/2013/12/...](/2013/12/15/comment-expliquer-la-relativite-aux-enfants/#.YkYfDGm-g0E)

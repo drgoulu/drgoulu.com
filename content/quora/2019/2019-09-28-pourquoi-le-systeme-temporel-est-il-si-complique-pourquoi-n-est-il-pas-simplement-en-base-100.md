@@ -46,6 +46,6 @@ C'est décidé : j'ai toujours dit que si on inventait une machine à voyager da
 
 Notes de bas de page
 
-[[1]](#cite-gzXXK)[Histoire d'angles - Pourquoi Comment Combien](https://www.drgoulu.com/2010/01/16/histoire-dangles/)
+[[1]](#cite-gzXXK)[Histoire d'angles - Pourquoi Comment Combien](/2010/01/16/histoire-dangles/)
 
-[[2]](#cite-ydnXD)[Pourquoi on ne peut plus mesurer la vitesse de la lumière - Pourquoi Comment Combien](https://www.drgoulu.com/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)
+[[2]](#cite-ydnXD)[Pourquoi on ne peut plus mesurer la vitesse de la lumière - Pourquoi Comment Combien](/2017/05/26/pourquoi-on-ne-peut-plus-mesurer-la-vitesse-de-la-lumiere/)

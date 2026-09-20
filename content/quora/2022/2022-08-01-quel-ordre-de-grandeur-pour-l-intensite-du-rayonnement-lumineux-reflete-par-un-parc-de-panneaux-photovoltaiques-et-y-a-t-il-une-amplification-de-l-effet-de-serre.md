@@ -20,7 +20,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quel-ordre-de-grandeur-pour-lintensit%C3%A9-du-rayonnement-lumineux-refl%C3%A9t%C3%A9-par-un-parc-de-panneaux-photovolta%C3%AFques-et-y-a-t-il-une-amplification-de-leffet-de-serre/answer/Dr-Goulu)*
 
-Il faut bien comprendre [le graphique qui vaut 10000 mots](https://www.drgoulu.com/2011/11/13/climat-le-graphique/#.Yud6ZKS-g0E).
+Il faut bien comprendre [le graphique qui vaut 10000 mots](/2011/11/13/climat-le-graphique/#.Yud6ZKS-g0E).
 
 L"effet de serre," c'est l absorption par l'atmosphère d'infrarouges lointains émis para Terre parce qu elle est un peu chaude (288K en moyenne, 15°C).Une partie des longueurs d'ondes est naturellement absorbée par la vapeur d'eau, et d'autres par le CO2, notamment la bande de 15 à 20 microns qui n'est pas totalement absorbée par l'eau.
 

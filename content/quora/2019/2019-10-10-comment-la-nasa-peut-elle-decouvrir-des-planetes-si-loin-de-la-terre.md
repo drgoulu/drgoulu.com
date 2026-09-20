@@ -31,6 +31,6 @@ Les deux méthodes demandent des instruments incroyablement précis.
 A propos de cette conférence de Mayor:
 
 - elle est en anglais, mais Michel Mayor n'a pas reçu un Prix Nobel de Littérature anglaise …
-- elle est donnée à la fanfest d'un… jeu videéo ! Pour comprendre pourquoi, regardez jusqu'à la fin ou lisez [EVE et les exoplanètes - Pourquoi Comment Combien](https://www.drgoulu.com/2017/07/12/eve-et-les-exoplanetes)
+- elle est donnée à la fanfest d'un… jeu videéo ! Pour comprendre pourquoi, regardez jusqu'à la fin ou lisez [EVE et les exoplanètes - Pourquoi Comment Combien](/2017/07/12/eve-et-les-exoplanetes/)
 
 [https://www.youtube.com/watch?v=...](https://www.youtube.com/watch?v=fthdEetUGY0)

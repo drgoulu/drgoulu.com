@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Non.
 
-[On va tous mourir ! - Pourquoi Comment Combien](https://www.drgoulu.com/2008/04/17/on-va-tous-mourir/)
+[On va tous mourir ! - Pourquoi Comment Combien](/2008/04/17/on-va-tous-mourir/)
 
-[Nostradamus et les Catastrophysiciens - Pourquoi Comment Combien](https://www.drgoulu.com/2008/06/08/nostradamus-et-les-catastrophysiciens/)
+[Nostradamus et les Catastrophysiciens - Pourquoi Comment Combien](/2008/06/08/nostradamus-et-les-catastrophysiciens/)

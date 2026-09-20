@@ -15,6 +15,6 @@ C'est un raccourci un peu rapide, mais les personnes vivant depuis longtemps dan
 
 Ghiassi-nejad, M; Mortazavi, S M J; Cameron, J R; Niroomand-rad, A; Karam, P A « [Very high background radiation areas of Ramsar, Iran: preliminary biological studies.](http://www.probeinternational.org/Ramsar.pdf) » (2002) Health physics vol. 82 (1) p. 87-93
 
-[https://drgoulu.com/2013/11/03/l...](https://drgoulu.com/2013/11/03/la-radioactivite-naturelle/)
+[https://drgoulu.com/2013/11/03/l...](/2013/11/03/la-radioactivite-naturelle/)
 
 L'évolution est remarquablement efficace.

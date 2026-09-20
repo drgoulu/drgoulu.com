@@ -23,6 +23,6 @@ Les maths collent à la physique parce qu'ils ont (initialement) été faits pou
 
 Notes de bas de page
 
-[[1]](#cite-KjNYF)[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+[[1]](#cite-KjNYF)[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](/2011/01/30/pourquoi-3-dimensions-1-temps/)
 
-[[2]](#cite-mfTrQ)[Solutions admissibles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[[2]](#cite-mfTrQ)[Solutions admissibles - Pourquoi Comment Combien](/2016/09/11/solutions-admissibles/)

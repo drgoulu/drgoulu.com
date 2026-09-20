@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Qu-est-ce-que-le-grand-collisionneur-de-hadron-A-quoi-sert-il-expliquer-pas-simplement-d%C3%A9tailler-et-utiliser-les-termes-techniques/answer/Dr-Goulu)*
 
-[La FAQ du LHC - Pourquoi Comment Combien](https://www.drgoulu.com/2008/09/12/la-faq-du-lhc/)
+[La FAQ du LHC - Pourquoi Comment Combien](/2008/09/12/la-faq-du-lhc/)

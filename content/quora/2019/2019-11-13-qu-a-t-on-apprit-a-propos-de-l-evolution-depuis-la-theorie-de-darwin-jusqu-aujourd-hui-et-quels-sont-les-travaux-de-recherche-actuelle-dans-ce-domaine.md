@@ -40,7 +40,7 @@ Pendant le 20ème siècle il y a eu au moins 5 Prix Nobel liés directement à l
 Aujourd'hui il existe de très nombreux sujets de recherche dans cette continuité:
 
 - le [Génie génétique](w:), qui permet entre autres de modifier artificiellement le génome en y introduisant des gènes provenant d'autres espèces (OGM) voire des gènes artificiels (bientôt) Il est probable qu'un Nobel récompense bientôt la découverte des [CRISPR](w:Clustered_Regularly_Interspaced_Short_Palindromic_Repeats).
-- La [Génétique des populations](w:) qui permet de retracer les migrations des différentes espèces humaines (avant Sapiens…) et leur adaptation à leur environnement. On sait par exemple quels gènes ont évolué pour permettre [L'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/) (oui, encore…) des Sherpas de l'Himalaya, des Aymaras des Andes et des Amharas d'Ethiopie)
+- La [Génétique des populations](w:) qui permet de retracer les migrations des différentes espèces humaines (avant Sapiens…) et leur adaptation à leur environnement. On sait par exemple quels gènes ont évolué pour permettre [L'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/) (oui, encore…) des Sherpas de l'Himalaya, des Aymaras des Andes et des Amharas d'Ethiopie)
 - La lutte contre de très nombreuses maladies d'origine génétique ainsi que le cancer. Certains cancers sont d'origine génétique, d'autres non, mais presque tous proviennent d'un dérèglement de la fonction de division de la cellule.
 - et beaucoup d'autres.
 

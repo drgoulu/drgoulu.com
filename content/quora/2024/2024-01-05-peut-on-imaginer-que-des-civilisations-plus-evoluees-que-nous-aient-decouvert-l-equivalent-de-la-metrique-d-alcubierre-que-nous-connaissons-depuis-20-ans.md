@@ -27,4 +27,4 @@ N'importe quel matheux extraterrestre peut donc très bien avoir trouvé cette s
 
 Le hic c'est que cette métrique implique de la masse négative, alors l'équivalent extraterrestre de l'affreux empiriste que je suis risque bien de lui sortir la même vanne que moi : on va discuter de ta propulsion supraluminique autour d'un steak de moins 200 grammes, ok ?
 
-[https://www.drgoulu.com/2016/09/...](https://www.drgoulu.com/2016/09/11/solutions-admissibles/)
+[https://www.drgoulu.com/2016/09/...](/2016/09/11/solutions-admissibles/)

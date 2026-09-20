@@ -29,4 +29,4 @@ qui a effectivement un très léger défaut de symétrie. Effectivement, un anti
 
 Et Effectivement c'est ce qui fait que la matière ne s'est pas totalement annihilée avec l'antimatière.
 
-[https://www.drgoulu.com/2009/04/...](https://www.drgoulu.com/2009/04/04/miroir/#.ZGzwOna-g0E)
+[https://www.drgoulu.com/2009/04/...](/2009/04/04/miroir/#.ZGzwOna-g0E)

@@ -14,6 +14,6 @@ coverImage: ./images/quora.png
 
 Interstellar est beaucoup plus fiction que science. Ce film est hélas rempli d'incohérences.
 
-[https://www.drgoulu.com/2014/11/...](https://www.drgoulu.com/2014/11/29/interstellar/)
+[https://www.drgoulu.com/2014/11/...](/2014/11/29/interstellar/)
 
 En fait on ne comprend pas vraiment ce qui arrive de si terrible à la planète : il y a toujours des fermiers qui cultivent du maïs en pickup 4x4 …

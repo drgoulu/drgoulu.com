@@ -15,4 +15,4 @@ Le secret militaire.
 
 Ca existe dans tous les pays. Par exemple pendant des années je n'ai pas eu le droit de parler d'une zone militaire située sur des pistes de ski en Suisse. Maintenant c'est là :
 
-[Avalanches et goniomètre à infrasons - Pourquoi Comment Combien](https://www.drgoulu.com/2016/01/14/avalanches-et-gonimetre-a-infrasons/)
+[Avalanches et goniomètre à infrasons - Pourquoi Comment Combien](/2016/01/14/avalanches-et-gonimetre-a-infrasons/)

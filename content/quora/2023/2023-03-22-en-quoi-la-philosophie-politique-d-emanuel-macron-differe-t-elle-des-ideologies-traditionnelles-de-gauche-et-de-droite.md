@@ -17,4 +17,4 @@ Les mots comme "gauche" et "droite" sont appliqués a posteriori sur l'axe tradi
 
 Détails et justification mathématique ici :
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/#.ZBq-o6Tfs0E)
+[https://www.drgoulu.com/2017/05/...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/#.ZBq-o6Tfs0E)

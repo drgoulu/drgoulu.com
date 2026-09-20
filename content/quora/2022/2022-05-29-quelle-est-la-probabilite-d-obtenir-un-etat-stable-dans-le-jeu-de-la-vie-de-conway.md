@@ -35,4 +35,4 @@ Il y a aussi des structures assez fréquentes comme les [Mathusalem](w:Mathusale
 
 Bref, je dirais qu'il est très peu probable d'arriver par hasard à un jeu composé uniquement de [Structures stables](w:Structure_stable_(automate_cellulaire)) . Une sur des milliards ?
 
-[https://www.drgoulu.com/2009/03/...](https://www.drgoulu.com/2009/03/29/la-resurrection-du-jeu-de-la-vie/)
+[https://www.drgoulu.com/2009/03/...](/2009/03/29/la-resurrection-du-jeu-de-la-vie/)

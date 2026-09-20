@@ -23,4 +23,4 @@ on pense que les [Bulles de Fermi](w:)récemment découvertes de chaque côté d
 
 Bref, les trous noirs recyclent au moins autant de matière qu'ils n'en avalent. Ce n'est a priori pas assez pour former une galaxie autour d'eux, mais on a pas encore tout compris à propos de ces jets …
 
-[https://www.drgoulu.com/2009/02/...](https://www.drgoulu.com/2009/02/04/recyclage-galactique/)
+[https://www.drgoulu.com/2009/02/...](/2009/02/04/recyclage-galactique/)

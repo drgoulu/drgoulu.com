@@ -27,4 +27,4 @@ Je chipote, mais ce que je veux vous faire dire est que toutes ces notions sont 
 
 Dans ce cas, l'invention incroyable qui aide grandement la Terre à nous héberger pendant plus longtemps est la capote. Elle a un effet très rapide : en 9 mois vous avez un consommateur pollueur en moins.
 
-[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)
+[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)

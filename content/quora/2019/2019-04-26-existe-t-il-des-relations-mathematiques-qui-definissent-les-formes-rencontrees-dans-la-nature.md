@@ -43,4 +43,4 @@ Vous saisissez la nuance ? Alors je vous ai converti au [Nominalisme](w:) :-)
 
 Et un [idéaliste platonicien](w:Idéalisme_(philosophie))de moins, un !
 
-voir aussi : [Nombre d'or et abeilles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/07/03/nombre-dor-et-abeilles/)
+voir aussi : [Nombre d'or et abeilles - Pourquoi Comment Combien](/2016/07/03/nombre-dor-et-abeilles/)

@@ -15,6 +15,6 @@ coverImage: ./images/quora.png
 
 Je ne sais pas si le monde est “malade”, mais les inégalités mondiales se réduisent (contrairement à une idée répandue…)
 
-[Les inégalités s’accroissent. Vraiment ? - Pourquoi Comment Combien](https://www.drgoulu.com/2007/01/09/les-inegalites-saccroissent-vraiment/#.W-w9dRjjKyU)
+[Les inégalités s’accroissent. Vraiment ? - Pourquoi Comment Combien](/2007/01/09/les-inegalites-saccroissent-vraiment/#.W-w9dRjjKyU)
 
 [L'évolution des inégalités mondiales de 1870 à 2010](http://ses.ens-lyon.fr/ressources/stats-a-la-une/levolution-des-inegalites-mondiales-de-1870-a-2010)

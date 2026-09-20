@@ -39,10 +39,10 @@ Ou alors il faudra se réhabituer à quelque chose qui était assez courant dans
 
 Notes de bas de page
 
-[[1]](#cite-YxgMM)[Comment stocker l'énergie - Pourquoi Comment Combien](https://www.drgoulu.com/2012/10/07/comment-stocker-lenergie/)
+[[1]](#cite-YxgMM)[Comment stocker l'énergie - Pourquoi Comment Combien](/2012/10/07/comment-stocker-lenergie/)
 
 [[2]](#cite-PftSp)[Nant de Drance - Pourquoi Comment Combien](https://www.drgoulu.com/2014/01/17/nant-de-drance/#.XI6vgChsOCo)
 
-[[3]](#cite-nxJAH)[Qui veut de l'électricité à prix négatif ? - Pourquoi Comment Combien](https://www.drgoulu.com/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/#.XI6xRShsOCo)
+[[3]](#cite-nxJAH)[Qui veut de l'électricité à prix négatif ? - Pourquoi Comment Combien](/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/#.XI6xRShsOCo)
 
-[[4]](#cite-rJDSN)[0.01 Ohm/km - Pourquoi Comment Combien](https://www.drgoulu.com/2010/03/19/0-01-ohmkm/#.XI6wByhsOCo)
+[[4]](#cite-rJDSN)[0.01 Ohm/km - Pourquoi Comment Combien](/2010/03/19/0-01-ohmkm/#.XI6wByhsOCo)

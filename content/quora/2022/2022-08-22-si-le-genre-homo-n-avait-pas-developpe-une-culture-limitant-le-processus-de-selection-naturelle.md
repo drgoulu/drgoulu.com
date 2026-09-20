@@ -21,4 +21,4 @@ Notes de bas de page
 
 [[1]](#cite-VdbwT)[L'Homme est-il un polygame refoulé ? Partie 1 : parasitisme sexuel](https://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/)
 
-[[2]](#cite-Igiyd)[L'adaptation à l'altitude - Pourquoi Comment Combien](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/#.YwS3CHZByCo)
+[[2]](#cite-Igiyd)[L'adaptation à l'altitude - Pourquoi Comment Combien](/2014/08/17/ladaptation-a-laltitude/#.YwS3CHZByCo)

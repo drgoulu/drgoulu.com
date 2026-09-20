@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ou le contraire …
 
-[Periodic Table of Rock - Pourquoi Comment Combien](https://www.drgoulu.com/2013/09/24/periodic-table-of-rock/)
+[Periodic Table of Rock - Pourquoi Comment Combien](/2013/09/24/periodic-table-of-rock/)

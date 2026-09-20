@@ -15,4 +15,4 @@ Le pauvre Tesla est tombé bien bas pour penser que 3 petits nombres entiers ser
 
 Comme dit ailleurs, c'était un inventeur prolifique, mais un très piètre théoricien
 
-[https://www.drgoulu.com/2012/08/...](https://www.drgoulu.com/2012/08/19/nikola-tesla-genie-mais-connu/)
+[https://www.drgoulu.com/2012/08/...](/2012/08/19/nikola-tesla-genie-mais-connu/)

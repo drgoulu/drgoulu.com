@@ -33,4 +33,4 @@ Cependant il semble que certaines galaxies n'ont pas de trou noir central, et ç
 
 Notes de bas de page
 
-[[1]](#cite-Hrawe)[Recyclage galactique - Pourquoi Comment Combien](https://www.drgoulu.com/2009/02/04/recyclage-galactique/)
+[[1]](#cite-Hrawe)[Recyclage galactique - Pourquoi Comment Combien](/2009/02/04/recyclage-galactique/)

@@ -28,7 +28,7 @@ Votre question me fait penser à cette critique d'époque de la théorie de Darw
 
 [https://www.youtube.com/watch?ti...](https://www.youtube.com/watch?time_continue=3&v=TzN-uIVkfjg)
 
-( voir [Pourquoi on aime le joli, le sexy, le sucré et le drôle - Pourquoi Comment Combien](https://www.drgoulu.com/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/) )
+( voir [Pourquoi on aime le joli, le sexy, le sucré et le drôle - Pourquoi Comment Combien](/2009/03/25/pourquoi-on-aime-le-joli-le-sexy-le-sucre-et-le-drole/) )
 
 En effet, le génie de Darwin a été une "inversion du raisonnement" qui remet les causes et les conséquences à leur place.
 

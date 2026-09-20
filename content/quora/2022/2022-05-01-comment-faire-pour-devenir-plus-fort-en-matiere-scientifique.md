@@ -28,7 +28,7 @@ Si vous avez appris par coeur que la Loi de Boyle-Mariotte c'est $P_1V_1 = P_2V_
 
 Comme le dit très bien Richard Feynman dans sa conférence sur l' enseignement des sciences, il faut distinguer l'oiseau du nom de l'oiseau.
 
-[https://www.drgoulu.com/2013/12/...](https://www.drgoulu.com/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/#.Ym48vRi-g0E)
+[https://www.drgoulu.com/2013/12/...](/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/#.Ym48vRi-g0E)
 
 Il était célèbre pour ne pas se rappeler le nom des lois, et je suis très fier d'avouer que je ne me souvenais plus de la loi de Boyle-Mariotte que j'ai confondue avec la loi de Charles récemment dans un quiz sur les noms d'oiseaux.
 

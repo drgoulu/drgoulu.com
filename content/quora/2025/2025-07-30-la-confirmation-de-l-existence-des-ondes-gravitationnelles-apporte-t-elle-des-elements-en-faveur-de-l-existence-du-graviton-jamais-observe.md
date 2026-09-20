@@ -28,7 +28,7 @@ L'existence des gravitons suppose au contraire que la gravitation soit un force,
 
 Or ce n'est pas le cas des [ondes gravitationnelles](w:Onde_gravitationnelle), qui sont émises lorsque quelque chose "ne tourne pas rond" (plus précisément lorsque le [Moment du Quadrupole varie](w:en:Quadrupole_formula)) , pas lorsque des masses sont accélérées.
 
-[https://drgoulu.com/2016/02/14/e...](https://drgoulu.com/2016/02/14/einstein-et-les-ondes-gravitationnelles/)
+[https://drgoulu.com/2016/02/14/e...](/2016/02/14/einstein-et-les-ondes-gravitationnelles/)
 
 D'après ce que je lis dans [Quadrupole formula - Wikipedia](w:en:Quadrupole_formula), l'énergie dissipée par les ondes gravitationnelles lors des événements détectés par LIGO correspond à la théorie avec 0.2% de marge d'erreur.
 

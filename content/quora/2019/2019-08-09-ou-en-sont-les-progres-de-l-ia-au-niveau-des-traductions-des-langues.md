@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Ça s'améliore chaque année. Regardez mon test du Corbeau et le Renard de 2009
 
-[Tels que Le Corbeau, Le Renard - Pourquoi Comment Combien](https://www.drgoulu.com/2009/05/14/tels-que-le-corbeau-le-renard/#.XU2vwhiQiyU)
+[Tels que Le Corbeau, Le Renard - Pourquoi Comment Combien](/2009/05/14/tels-que-le-corbeau-le-renard/#.XU2vwhiQiyU)
 
 Et les suivants dans les commentaires. D'ailleurs c'est le moment d'en refaire un…

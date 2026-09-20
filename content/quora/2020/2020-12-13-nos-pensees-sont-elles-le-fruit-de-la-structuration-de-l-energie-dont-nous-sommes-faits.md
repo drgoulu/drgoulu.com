@@ -23,4 +23,4 @@ coverImage: ./images/quora.png
 
 Non. Nous ne sommes pas faits d'énergie mais de cellules vivantes, dont certaines sont structurées en un super calculateur appelé "cerveau". Son rôle est de traiter les signaux captés par les cellules de nos sens pour commander les muscles afin de maximiser nos chances de survie. Et quand il ne fait pas ça, il peut simuler des situations fictives et évaluer le comportement le plus adapté. Et pour ça il a besoin de simuler notre propre comportement. Ainsi nous avons "conscience" de nous-mêmes, et nous appelons certains influx nerveux "pensées" parce qu'ils traitent de situations fictives plutôt que d'informations fournies par les sens.
 
-[Neurologie du Temps - Pourquoi Comment Combien](https://www.drgoulu.com/2009/06/27/neurologie-du-temps/)
+[Neurologie du Temps - Pourquoi Comment Combien](/2009/06/27/neurologie-du-temps/)

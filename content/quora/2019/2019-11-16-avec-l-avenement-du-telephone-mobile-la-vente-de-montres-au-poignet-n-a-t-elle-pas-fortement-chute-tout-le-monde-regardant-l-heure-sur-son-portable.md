@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Non, parce que l'horlogerie s'est repositionné dans les produits de luxe depuis longtemps, voir
 
-[Montre Mécanique contre Quartz - Pourquoi Comment Combien](https://www.drgoulu.com/2007/05/15/montre-mecanique-contre-quartz/)
+[Montre Mécanique contre Quartz - Pourquoi Comment Combien](/2007/05/15/montre-mecanique-contre-quartz/)
 
 On achète plus une montre pour l'heure, mais parce qu'elle est belle, et des dizaines de millions de chinois et d'indiens ont désormais les moyens de les acheter.
 

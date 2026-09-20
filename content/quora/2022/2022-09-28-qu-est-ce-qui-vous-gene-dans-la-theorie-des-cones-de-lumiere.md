@@ -48,6 +48,6 @@ Donc absolument rien ne me gène avec les cônes de lumière, c'est un outil vis
 
 Notes de bas de page
 
-[[1]](#cite-BLERC)[Voir en 4 dimensions - Pourquoi Comment Combien](https://www.drgoulu.com/2007/02/06/voir-en-4-dimensions/)
+[[1]](#cite-BLERC)[Voir en 4 dimensions - Pourquoi Comment Combien](/2007/02/06/voir-en-4-dimensions/)
 
-[[2]](#cite-TXPnE)[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](https://www.drgoulu.com/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)
+[[2]](#cite-TXPnE)[Le temps, une 4ème dimension imaginaire - Pourquoi Comment Combien](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/)

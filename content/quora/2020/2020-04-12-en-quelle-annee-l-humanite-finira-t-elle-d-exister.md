@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 D'après mes calculs, jeudi 20 février 12262.
 
-Si ce jour là il ne se passe rien de spécial, promis je fais [comme Paco Rabanne](https://www.drgoulu.com/2008/06/08/nostradamus-et-les-catastrophysiciens/) : plus de prédictions.
+Si ce jour là il ne se passe rien de spécial, promis je fais [comme Paco Rabanne](/2008/06/08/nostradamus-et-les-catastrophysiciens/) : plus de prédictions.
 
-[2012 et l'ennemi intérieur - Pourquoi Comment Combien](https://www.drgoulu.com/2009/11/29/2012-et-lennemi-interieur/)
+[2012 et l'ennemi intérieur - Pourquoi Comment Combien](/2009/11/29/2012-et-lennemi-interieur/)

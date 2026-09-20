@@ -11,6 +11,6 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Le-fait-quun-nombre-soit-acratopège-nest-il-pas-une-propriété-en-soi/answer/Dr-Goulu)*
 
-je ne lui ai pas répondu car la réponse se trouve dans l’article [Chasse aux nombres acratopèges - Pourquoi Comment Combien](https://www.drgoulu.com/2008/08/24/nombres-acratopeges/) :
+je ne lui ai pas répondu car la réponse se trouve dans l’article [Chasse aux nombres acratopèges - Pourquoi Comment Combien](/2008/08/24/nombres-acratopeges/) :
 
 “avec 115 résultats, 1548 a peu de propriétés, nettement moins que ses voisins 1547 (151) et que 1549 (304) par exemple”

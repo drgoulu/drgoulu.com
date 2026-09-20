@@ -19,4 +19,4 @@ Pas grand chose à l'échelle de la planète.
 
 Notes de bas de page
 
-[[1]](#cite-DqgMS)[Combien de marée - Pourquoi Comment Combien](https://www.drgoulu.com/2017/08/15/combien-de-maree/)
+[[1]](#cite-DqgMS)[Combien de marée - Pourquoi Comment Combien](/2017/08/15/combien-de-maree/)

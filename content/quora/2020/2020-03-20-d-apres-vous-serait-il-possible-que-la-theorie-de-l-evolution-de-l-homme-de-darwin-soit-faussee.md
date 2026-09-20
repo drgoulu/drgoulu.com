@@ -31,7 +31,7 @@ Comme toute théorie scientifique, l'[évolution](w:Évolution_(biologie)) est [
 
 De 1859 à nos jours, aucun fait non conforme à l'évolution des espèces n'a été découverte. L'[Histoire évolutive de la lignée humaine](w:) est de mieux en mieux connue et conforme à ce qu'on peut en attendre par la théorie de l'évolution.
 
-D'ailleurs l'évolution humaine se poursuit, notamment par [l'adaptation à l'altitude](https://www.drgoulu.com/2014/08/17/ladaptation-a-laltitude/).
+D'ailleurs l'évolution humaine se poursuit, notamment par [l'adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/).
 
 Il est évident que notre société moderne modifie la "sélection naturelle" grâce à la médecine moderne notamment, mais ça ne pourrait être que très transitoire (il faut des centaines de générations pour commencer à observer un changement).
 

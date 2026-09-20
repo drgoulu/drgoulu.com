@@ -17,4 +17,4 @@ la puissance d’un éclair est d’environ 20 GigaWatts, soit 20 centrales nucl
 
 Et en on a aucun moyen de stocker cette énergie si vite.
 
-[L’énergie de la foudre - Pourquoi Comment Combien](https://www.drgoulu.com/2007/09/09/lenergie-de-la-foudre/)
+[L’énergie de la foudre - Pourquoi Comment Combien](/2007/09/09/lenergie-de-la-foudre/)

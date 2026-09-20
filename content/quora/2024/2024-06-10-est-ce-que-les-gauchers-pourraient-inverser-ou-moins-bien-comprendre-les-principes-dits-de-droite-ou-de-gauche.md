@@ -25,11 +25,11 @@ En physique ou en politique ?
 
 En physique la "symétrie P" comme "parité" est presque parfaite, ce qui fait que gauche et droite sont presque invertibles. Mais il existe cependant une très légère préférence de l'univers pour la gauche[[1]](#WjFMe)
 
-[https://drgoulu.com/2009/04/04/m...](https://drgoulu.com/2009/04/04/miroir/)
+[https://drgoulu.com/2009/04/04/m...](/2009/04/04/miroir/)
 
 En politique, ces notions sont purement conventionnelles, sauf qu'elles évoluent dans le temps. Elles définissent l'axe principal de l' "échiquier politique". Du méokns jusqu'à récemment…
 
-[https://drgoulu.com/2017/05/14/l...](https://drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://drgoulu.com/2017/05/14/l...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 Notes de bas de page
 

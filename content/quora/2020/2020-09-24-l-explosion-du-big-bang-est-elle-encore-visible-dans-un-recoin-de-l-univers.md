@@ -34,4 +34,4 @@ Une autre source d'information sur le Big Bang est l'abondance des isotopes pré
 
 On ne désespère pas de détecter un jour des [Ondes gravitationnelles primordiales](w:Onde_gravitationnelle_primordiale) qui devraient dater de 10^-30 secondes "après" le Big Bang. Je mets "après" entre guillemets, parce qu'entre 0 et 10^–30 il n'y a pas grand chose … ou un temps infini sur une échelle logarithmique …
 
-[la Grande Question du Temps - Pourquoi Comment Combien](https://www.drgoulu.com/2008/06/06/la-grande-question-du-temps/)
+[la Grande Question du Temps - Pourquoi Comment Combien](/2008/06/06/la-grande-question-du-temps/)

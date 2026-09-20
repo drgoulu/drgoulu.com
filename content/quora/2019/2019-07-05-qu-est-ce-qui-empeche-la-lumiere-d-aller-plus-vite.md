@@ -31,4 +31,4 @@ En quoi le fait que cette vitesse infinie corresponde à une limite finie pour u
 
 [La vitesse de la lumière sur mes Réponses Fréquentes](https://reponsesfrequentes.quora.com/La-vitesse-de-la-lumi%C3%A8re)
 
-[Accélération : Journal de bord d’un voyage relativiste -](https://www.drgoulu.com/2004/08/09/acceleration/)sur mon blog
+[Accélération : Journal de bord d’un voyage relativiste -](/2004/08/09/acceleration/)sur mon blog

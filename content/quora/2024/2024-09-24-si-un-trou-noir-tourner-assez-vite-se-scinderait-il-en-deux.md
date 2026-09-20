@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Les trous noirs tournent extrêmement vite, très près de la limite théorique.
 
-[https://drgoulu.com/2016/07/10/c...](https://drgoulu.com/2016/07/10/combien-tourne-un-trou-noir/)
+[https://drgoulu.com/2016/07/10/c...](/2016/07/10/combien-tourne-un-trou-noir/)
 
 Ils ne peuvent pas se scinder en deux mais prennent la forme d'un beignet et leur singularité (théorique…) est un anneau, pas un point.

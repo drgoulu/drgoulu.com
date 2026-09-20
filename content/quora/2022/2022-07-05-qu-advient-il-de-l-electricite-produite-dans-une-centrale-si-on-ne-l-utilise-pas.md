@@ -23,4 +23,4 @@ Elle augmente la tension et la fréquence du réseau, donc se perd un peu partou
 
 [https://www.swissgrid.ch/fr/home...](https://www.swissgrid.ch/fr/home/operation/regulation/frequency.html)
 
-[https://www.drgoulu.com/2011/01/...](https://www.drgoulu.com/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif)
+[https://www.drgoulu.com/2011/01/...](/2011/01/15/qui-veut-de-lelectricite-a-prix-negatif/)

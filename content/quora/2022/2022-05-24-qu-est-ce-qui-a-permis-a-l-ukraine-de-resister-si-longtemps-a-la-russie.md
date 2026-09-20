@@ -39,4 +39,4 @@ Selon Sun Tzu, il y a 4:1 pour l'Ukraine. Les russes n'ont aucune chance de l'em
 
 Lisez l'art de la guerre, c'est génial. Même Paris Hilton l'a lu.
 
-[https://www.drgoulu.com/2007/08/...](https://www.drgoulu.com/2007/08/08/et-sun-tzu/#.Yoy8Gmm-g0E)
+[https://www.drgoulu.com/2007/08/...](/2007/08/08/et-sun-tzu/#.Yoy8Gmm-g0E)

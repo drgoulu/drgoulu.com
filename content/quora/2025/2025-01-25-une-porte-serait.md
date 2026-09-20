@@ -25,4 +25,4 @@ Le bon vieux [Principe du tiers exclu](w:)fait partie du langage des chasseurs d
 
 Et hop, des millénaires de philosophie basés sur ce principe s'effondrent d'un coup.
 
-[https://drgoulu.com/2013/12/15/c...](https://drgoulu.com/2013/12/15/comment-expliquer-la-relativite-aux-enfants/)
+[https://drgoulu.com/2013/12/15/c...](/2013/12/15/comment-expliquer-la-relativite-aux-enfants/)

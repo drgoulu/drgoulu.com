@@ -29,4 +29,4 @@ Bref comptez 8% de plus que les réponses "classiques".
 
 C'est au dessus de 90% de c qu'il se passe des choses intéressantes.
 
-[https://www.drgoulu.com/2004/08/...](https://www.drgoulu.com/2004/08/09/acceleration/#.YrqX2qS-g0F)
+[https://www.drgoulu.com/2004/08/...](/2004/08/09/acceleration/#.YrqX2qS-g0F)

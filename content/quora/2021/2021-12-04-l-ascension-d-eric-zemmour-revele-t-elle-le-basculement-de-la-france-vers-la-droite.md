@@ -35,6 +35,6 @@ A mon humble avis de voisin neutre, votre Zemmour est surtout ultra conservateur
 
 Ou pas, ce qui confirmerait que l'axe principal de la politique française n'est plus gauche/droite, mais progressiste/conservateur.
 
-[https://www.drgoulu.com/2017/05/...](https://www.drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://www.drgoulu.com/2017/05/...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
 
 Fondamentalement, c'est votre système de présidentielle à deux tours qui n'est pas adapté à la carte politique des pays démocratiques actuels.

@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Oui, et des autres êtres intelligents.
 
-[https://www.drgoulu.com/2011/09/...](https://www.drgoulu.com/2011/09/25/comment-comptent-les-extraterrestres/)
+[https://www.drgoulu.com/2011/09/...](/2011/09/25/comment-comptent-les-extraterrestres/)
 
 Quelques animaux sont capables de compter
 

@@ -25,6 +25,6 @@ Bref, peut-être que le seul “fonctionnement” de l’Univers est de se compl
 
 Notes de bas de page
 
-[[1]](#cite-YdFJS)[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](https://www.drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[[1]](#cite-YdFJS)[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)
 
-[[2]](#cite-HWtre)[La Renaissance du Temps 1/2 - Pourquoi Comment Combien](https://www.drgoulu.com/2015/01/28/la-renaissance-du-temps/)
+[[2]](#cite-HWtre)[La Renaissance du Temps 1/2 - Pourquoi Comment Combien](/2015/01/28/la-renaissance-du-temps/)

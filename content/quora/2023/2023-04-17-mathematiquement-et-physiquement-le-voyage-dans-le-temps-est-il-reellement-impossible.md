@@ -15,4 +15,4 @@ Mathématiquement il est possible ([Courbe fermée de type temps — Wikipédia]
 
 et physiquement il l'est peut-être, avec d'énormes moyens et de grosses limitations, notamment qu'on ne peut pas revenir avant la date de construction de la machine.
 
-[https://www.drgoulu.com/2006/06/...](https://www.drgoulu.com/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/#.ZD4s4KS-g0E)
+[https://www.drgoulu.com/2006/06/...](/2006/06/16/comment-contruire-un-machine-a-voyager-dans-le-temps/#.ZD4s4KS-g0E)

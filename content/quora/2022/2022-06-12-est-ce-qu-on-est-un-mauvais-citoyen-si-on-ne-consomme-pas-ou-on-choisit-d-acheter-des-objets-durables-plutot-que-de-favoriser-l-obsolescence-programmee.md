@@ -29,4 +29,4 @@ La camera super-8 de mon père, en parfait état de marche, stockée au galetas 
 
 Jusqu'à preuve du contraire, il n'y a pas d'obsolescence programmée. Il n'y a que des produits adaptés aux consommateurs (sinon ils ne se vendraient pas), et comme il y a des consommateurs différents, il y a des produits différents. Vous avez le choix d'acheter celui qui correspond à vos valeurs et à votre budget. Ou de ne rien acheter…
 
-[https://www.drgoulu.com/2013/05/...](https://www.drgoulu.com/2013/05/01/lobsolescence-est-elle-programmee-2/)
+[https://www.drgoulu.com/2013/05/...](/2013/05/01/lobsolescence-est-elle-programmee-2/)

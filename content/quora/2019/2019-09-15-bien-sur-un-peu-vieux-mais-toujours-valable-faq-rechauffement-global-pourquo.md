@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Bien sur. Un peu vieux mais toujours valable :
 
-[FAQ Réchauffement Global - Pourquoi Comment Combien](https://www.drgoulu.com/2007/05/23/faq-rechauffement-global/)
+[FAQ Réchauffement Global - Pourquoi Comment Combien](/2007/05/23/faq-rechauffement-global/)
 
 La question concerne le point 15, déjà copié collé dans une réponse à une question similaire.

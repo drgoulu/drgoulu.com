@@ -35,6 +35,6 @@ Notes de bas de page
 
 [[1]](#cite-qQbdr)[Home](http://www.constructing-memory2014.org/)
 
-[[2]](#cite-vHgIF)[Bure, plongée dans l'éternité - Pourquoi Comment Combien](https://www.drgoulu.com/2014/05/24/bure-pour-leternite/)
+[[2]](#cite-vHgIF)[Bure, plongée dans l'éternité - Pourquoi Comment Combien](/2014/05/24/bure-pour-leternite/)
 
 [[3]](#cite-HscKe)[L'incinération des déchets nucléaires se précise](https://www.industrie-techno.com/article/l-incineration-des-dechets-nucleaires-se-precise.12509)

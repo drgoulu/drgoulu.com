@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce que pour faire la distinction, il faut comprendre que l'axe gauche droite ne suffit pas, l'échiquier politique a deux dimensions.
 
-[https://drgoulu.com/2017/05/14/l...](https://drgoulu.com/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)
+[https://drgoulu.com/2017/05/14/l...](/2017/05/14/la-politique-francaise-dans-la-deuxieme-dimension/)

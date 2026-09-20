@@ -19,4 +19,4 @@ La [Météorite d'Hoba](w:), la plus grosse connue, 60 tonnes de fer compact, d�
 
 Elle était juste enfouie sous des sédiments, elle a été decouverte par la charrue du paysan qui labourait son champ. Pas d'autre cratère que celui construit pour y accéder.
 
-[Namibie - Pourquoi Comment Combien](https://www.drgoulu.com/2010/08/27/namibie/)
+[Namibie - Pourquoi Comment Combien](/2010/08/27/namibie/)

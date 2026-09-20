@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ce ne sont pas des objets physiques, ce sont des objets théoriques.
 
-[https://drgoulu.com/2016/09/11/s...](https://drgoulu.com/2016/09/11/solutions-admissibles/)
+[https://drgoulu.com/2016/09/11/s...](/2016/09/11/solutions-admissibles/)

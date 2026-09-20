@@ -32,4 +32,4 @@ Comment ça il ne vaut rien parce qu'il est fabriqué au hasard ? Tant que vous 
 
 Notes de bas de page
 
-[[1]](#cite-KOSyZ)[Astrologie - Pourquoi Comment Combien](https://www.drgoulu.com/2004/06/30/astrologie/#.YEchqGhsOCo)
+[[1]](#cite-KOSyZ)[Astrologie - Pourquoi Comment Combien](/2004/06/30/astrologie/#.YEchqGhsOCo)

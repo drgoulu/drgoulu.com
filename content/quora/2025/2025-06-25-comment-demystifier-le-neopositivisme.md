@@ -15,7 +15,7 @@ En prouvant qu'ils ont tort.
 
 C'est super facile : il vous suffit de montrer un phénomène paranormal, un être transcendant, ou de ramener des informations vérifiable de l'au-delà…
 
-"où est ton trésor, grand-mère ?" demande [James Randi au TED](https://drgoulu.com/2010/04/25/james-randi-au-ted/), puisque vous le citez (les autres, je ne les connaissais pas, mais grâce à la pub que vous leur faites, j'ai cherché : voir plus bas)
+"où est ton trésor, grand-mère ?" demande [James Randi au TED](/2010/04/25/james-randi-au-ted/), puisque vous le citez (les autres, je ne les connaissais pas, mais grâce à la pub que vous leur faites, j'ai cherché : voir plus bas)
 
 Pour l'instant c'est plutôt les gens comme Randi qui ont marqué des points contre les charlatans, par exemple avec le fameux [Projet Alpha](w:).
 

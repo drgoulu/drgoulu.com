@@ -30,4 +30,4 @@ La [structure de la Voie Lactée](w:Voie_lactée) est tirée de nos observations
 
 Notes de bas de page
 
-[[1]](#cite-maCNm)[Non, Voyager 1 n'a pas quitté le système solaire - Pourquoi Comment Combien](https://www.drgoulu.com/2013/09/18/non-voyager-1-na-pas-quitte-le-systeme-solaire/#.XKTKs5iiGCo)
+[[1]](#cite-maCNm)[Non, Voyager 1 n'a pas quitté le système solaire - Pourquoi Comment Combien](/2013/09/18/non-voyager-1-na-pas-quitte-le-systeme-solaire/#.XKTKs5iiGCo)

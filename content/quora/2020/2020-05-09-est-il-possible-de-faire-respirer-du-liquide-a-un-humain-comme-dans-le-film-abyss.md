@@ -28,4 +28,4 @@ Selon une émission de "Thalassa" ce produit a même été testé sur un prisonn
 
 Le PFOB est maintenant utilisé pour des applications médicales comme la [Ventilation liquidienne](w:)
 
-[Plongée profonde - Pourquoi Comment Combien](https://www.drgoulu.com/2008/01/27/plongee-profonde/)
+[Plongée profonde - Pourquoi Comment Combien](/2008/01/27/plongee-profonde/)

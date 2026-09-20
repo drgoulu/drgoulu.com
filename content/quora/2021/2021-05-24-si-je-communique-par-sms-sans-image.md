@@ -13,7 +13,7 @@ coverImage: ./images/qimg-66bc584fe108482ce97bc5b882f16a34.jpg
 
 Extrêmement bonne question qui a motivé l'un de mes meilleurs articles
 
-[https://www.drgoulu.com/2009/04/...](https://www.drgoulu.com/2009/04/04/miroir/)
+[https://www.drgoulu.com/2009/04/...](/2009/04/04/miroir/)
 
 En résumé, si on voit les mêmes étoiles que les ET c'est facile.
 
@@ -25,4 +25,4 @@ Sinon il faut leur faire faire une expérience montrant la rupture de la [Parit�
 
 Sans dessin, il faut leur transmettre le schéma en [Art ASCII](w:), mais puisque le SMS c'est du binaire et qu'il a fallu établir le langage avant, on peut toujours leur transmettre un dessin comme décrit dans
 
-[https://www.drgoulu.com/2011/09/...](https://www.drgoulu.com/2011/09/25/comment-comptent-les-extraterrestres/)
+[https://www.drgoulu.com/2011/09/...](/2011/09/25/comment-comptent-les-extraterrestres/)

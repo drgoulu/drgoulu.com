@@ -21,9 +21,9 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-int%C3%A9resser-son-enfant-aux-sciences/answer/Dr-Goulu)*
 
-Lisez la conférence de Feynman sur ce sujet, c'est génial (à part un passage incroyablement sexiste qui montre le chemin déjà parcouru…[)](https://www.drgoulu.com/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)
+Lisez la conférence de Feynman sur ce sujet, c'est génial (à part un passage incroyablement sexiste qui montre le chemin déjà parcouru…[)](/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)
 
-[L a science est la croyance en l'ignorance des experts - Pourquoi Comment Combien](https://www.drgoulu.com/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)
+[L a science est la croyance en l'ignorance des experts - Pourquoi Comment Combien](/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)
 
 Extrait :
 

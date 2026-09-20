@@ -24,4 +24,4 @@ La densité d énergie des condensateurs et [Supercondensateur](w:)est nettement
 
 Ils sont donc très complémentaires des batteries, par exemple pour récupérer l'énergie des véhicules au freinage.
 
-[https://www.drgoulu.com/2012/10/...](https://www.drgoulu.com/2012/10/07/comment-stocker-lenergie/)
+[https://www.drgoulu.com/2012/10/...](/2012/10/07/comment-stocker-lenergie/)

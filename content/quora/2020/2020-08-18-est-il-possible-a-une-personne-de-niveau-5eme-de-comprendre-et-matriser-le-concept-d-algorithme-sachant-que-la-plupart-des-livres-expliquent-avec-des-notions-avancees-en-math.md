@@ -21,4 +21,4 @@ Mais une fois que c'est fait par un matheux, vous n'avez pas besoin de tant de m
 
 [Al-Khawarizmismes - Pourquoi Comment Combien](https://www.drgoulu.com/2010/07/11/al-khawarizmismes/)
 
-[La première boucle - Pourquoi Comment Combien](https://www.drgoulu.com/2016/06/26/la-premiere-boucle/)
+[La première boucle - Pourquoi Comment Combien](/2016/06/26/la-premiere-boucle/)

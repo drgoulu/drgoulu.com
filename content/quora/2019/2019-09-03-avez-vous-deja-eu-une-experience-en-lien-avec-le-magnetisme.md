@@ -41,4 +41,4 @@ Quand on connait tout ça, on peut faire de la magie[[1]](#yhhqS) :
 
 Notes de bas de page
 
-[[1]](#cite-yhhqS)[Le carbone pyrolytique, c'est fantastique - Pourquoi Comment Combien](https://www.drgoulu.com/2014/03/15/le-carbone-pyrolytique-cest-fantastique/)
+[[1]](#cite-yhhqS)[Le carbone pyrolytique, c'est fantastique - Pourquoi Comment Combien](/2014/03/15/le-carbone-pyrolytique-cest-fantastique/)

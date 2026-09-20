@@ -29,4 +29,4 @@ Et dans les deux cas il faut ajouter un petit quelque chose pour que ce soit int
 
 Notes de bas de page
 
-[[1]](#cite-KqQgV)[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](https://drgoulu.com/2011/01/30/pourquoi-3-dimensions-1-temps/)
+[[1]](#cite-KqQgV)[Pourquoi 3 dimensions + 1 temps ? - Pourquoi Comment Combien](/2011/01/30/pourquoi-3-dimensions-1-temps/)

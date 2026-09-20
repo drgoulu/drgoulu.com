@@ -17,4 +17,4 @@ Ils sont entreposés à la Hague, refroidis à l air sous un plancher sur lequel
 
 [https://www.laradioactivite.com/...](https://www.laradioactivite.com/site/pages/EntreposageVerres.htm)
 
-[https://www.drgoulu.com/2014/05/...](https://www.drgoulu.com/2014/05/24/bure-pour-leternite/)
+[https://www.drgoulu.com/2014/05/...](/2014/05/24/bure-pour-leternite/)

@@ -15,4 +15,4 @@ Je n'ai jamais vu cette phrase en français. D'après la source anglophone, ce s
 
 Et ça viendrait du temps où les connaissances en aérodynamique étaient insuffisantes pour comprendre que les petites bêtes rament dans de l'air visqueux.
 
-[La vie à bas Reynolds - Pourquoi Comment Combien](https://www.drgoulu.com/2011/03/13/la-vie-a-bas-reynold/)
+[La vie à bas Reynolds - Pourquoi Comment Combien](/2011/03/13/la-vie-a-bas-reynold/)

@@ -27,6 +27,6 @@ ayant fait un superbe tour en Namibie, je dirais qu'il y en a deux:
 
 Bref, j'ai trouvé que la Namibie était beaucoup plus facile à visiter que ce à quoi je m'attendais. C'est un pays magnifique, varié, et très intéressant.
 
-[https://www.drgoulu.com/2010/08/...](https://www.drgoulu.com/2010/08/27/namibie/)
+[https://www.drgoulu.com/2010/08/...](/2010/08/27/namibie/)
 
 [https://goulu.wordpress.com/2010...](https://goulu.wordpress.com/2010/10/24/namibie-2010/)

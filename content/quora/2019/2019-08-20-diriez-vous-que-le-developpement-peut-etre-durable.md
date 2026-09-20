@@ -31,4 +31,4 @@ Mon impression pifométrique est que la population écarte les 3 piliers. Si j'�
 
 Je ne sais pas à quelle population ( multipliée par le PIB si vous voulez) le blanc disparaît, mais à 8 milliards il ne doit plus en rester beaucoup, s'il en reste.
 
-[Développement Durable et Equation de Kaya - Pourquoi Comment Combien](https://www.drgoulu.com/2009/06/06/developpement-durable-et-equation-de-kaya/)
+[Développement Durable et Equation de Kaya - Pourquoi Comment Combien](/2009/06/06/developpement-durable-et-equation-de-kaya/)

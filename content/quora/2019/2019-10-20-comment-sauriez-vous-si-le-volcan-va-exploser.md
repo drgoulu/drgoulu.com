@@ -27,6 +27,6 @@ encore plus fort, on peut désormais radiographier un volcan en temps réel :
 
 ![](./images/qimg-1866fb0486b85980d9cb0b335911438b.jpg)
 
-[Comment radiographier un volcan - Pourquoi Comment Combien](https://www.drgoulu.com/2013/12/07/comment-radiographier-un-volcan/)
+[Comment radiographier un volcan - Pourquoi Comment Combien](/2013/12/07/comment-radiographier-un-volcan/)
 
 Malgré ça on ne peut pas prévoir une éruption avec précision, juste évaluer la probabilité qu'elle se produise.

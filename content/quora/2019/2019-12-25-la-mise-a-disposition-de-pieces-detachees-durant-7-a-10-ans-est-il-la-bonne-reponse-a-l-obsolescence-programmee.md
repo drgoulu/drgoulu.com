@@ -15,4 +15,4 @@ Si l'obsolescence programmée existe, peut-être…
 
 Mais une chose est sûre : quelqu'un devra payer pour ce stock. Et pour son élimination quand il ne sera plus nécessaire. Qui va payer ? Vous.
 
-[L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/05/01/lobsolescence-est-elle-programmee-2/)
+[L'obsolescence est-elle programmée ? - Pourquoi Comment Combien](/2013/05/01/lobsolescence-est-elle-programmee-2/)

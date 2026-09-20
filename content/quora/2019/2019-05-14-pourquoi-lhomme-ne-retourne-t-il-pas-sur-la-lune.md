@@ -31,7 +31,7 @@ Cela dit la NASA a quand même publié en 2006 une liste[[1]](#ElEeS) de 181 rai
 
 Pour justifier le coût colossal d’une base habitée sur la Lune, il faudra trouver un réel retour sur investissement économique. Outre le tourisme de milliardaires, ce sera peut-être un jour l'[Helium 3](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=Helium+3) lunaire qui alimentera nos centrales à [fusion thermonucléaire](https://www.drgoulu.com/tag/fusion), mais cette éventualité est encore bien lointaine.
 
-[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](https://www.drgoulu.com/2009/07/18/pour-quoi-retourner-sur-la-lune/)
+[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](/2009/07/18/pour-quoi-retourner-sur-la-lune/)
 
 Notes de bas de page
 

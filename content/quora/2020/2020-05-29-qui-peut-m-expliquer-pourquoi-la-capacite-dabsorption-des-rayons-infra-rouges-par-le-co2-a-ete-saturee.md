@@ -11,7 +11,7 @@ coverImage: ./images/qimg-eb27fb5192b593ccd0375fc9eb698cbe.jpg
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Qui-peut-m-expliquer-pourquoi-la-capacit%C3%A9-d-absorption-des-rayons-infra-rouges-par-le-CO2-a-%C3%A9t%C3%A9-satur%C3%A9e/answer/Dr-Goulu)*
 
-Le fameux [graphique qui vaut 10000 mots](https://www.drgoulu.com/2011/11/13/climat-le-graphique/#.XtDM_TqiGCo) de [Robert Rohde](w:en:Robert_Rohde) ci-dessous montre que dans les bandes de rayonnement que le CO2 absorbe, il absorbe déjà (presque) tout.
+Le fameux [graphique qui vaut 10000 mots](/2011/11/13/climat-le-graphique/#.XtDM_TqiGCo) de [Robert Rohde](w:en:Robert_Rohde) ci-dessous montre que dans les bandes de rayonnement que le CO2 absorbe, il absorbe déjà (presque) tout.
 
 ![](./images/qimg-eb27fb5192b593ccd0375fc9eb698cbe.jpg)
 

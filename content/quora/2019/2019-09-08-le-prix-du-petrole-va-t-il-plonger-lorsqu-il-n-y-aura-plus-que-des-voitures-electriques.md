@@ -15,4 +15,4 @@ Oui, c'est pour cela que les producteurs de pétrole ont tout intérêt à vendr
 
 C'est l'idée développée entre autre par Ivar Ekeland dans “[Le pétrole sera-t-il bradé ?](http://www.pourlascience.fr/ewb_pages/f/fiche-article-le-petrole-sera-t-il-brade-19367.php)“, Pour la Science No 356, juin 2007,
 
-[https://www.drgoulu.com/2007/05/...](https://www.drgoulu.com/2007/05/25/on-brulera-vraiment-tout/)
+[https://www.drgoulu.com/2007/05/...](/2007/05/25/on-brulera-vraiment-tout/)

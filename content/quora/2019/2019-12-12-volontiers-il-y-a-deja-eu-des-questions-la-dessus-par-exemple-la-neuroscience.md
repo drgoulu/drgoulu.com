@@ -27,4 +27,4 @@ Mon point de vue actuel est celui ci:
 
 [Réponse de Dr. Goulu à Comment expliquer la conscience sachant que la physique nous dit que le monde est uniquement composé de déplacement de matière ?](https://fr.quora.com/Comment-expliquer-la-conscience-sachant-que-la-physique-nous-dit-que-le-monde-est-uniquement-compos%C3%A9-de-d%C3%A9placement-de-mati%C3%A8re/answer/Dr-Goulu)
 
-basé sur mon article donné en référence [Neurologie du Temps - Pourquoi Comment Combien](https://www.drgoulu.com/2009/06/27/neurologie-du-temps/)
+basé sur mon article donné en référence [Neurologie du Temps - Pourquoi Comment Combien](/2009/06/27/neurologie-du-temps/)

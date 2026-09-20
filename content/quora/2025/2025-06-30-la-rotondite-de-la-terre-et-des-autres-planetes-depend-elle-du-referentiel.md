@@ -18,4 +18,4 @@ Non. La courbure est une valeur locale. Il suffit de tracer un (grand) triangle 
 Ça m'en rappelle une marrante :
 
 > Un explorateur quitte son campement et marche 20 km plein sud, puis il tourne à angle droit et marche 20 km tout droit en direction de l’est. Puis il tourne à nouveau à angle droit et marche 20 km parfaitement vers le nord. Il arrive en plein sur son campement, où il découvre un ours en train de dévorer ses provisions.
-> [De quelle couleur est l’ours ?](https://drgoulu.com/2013/10/08/de-quelle-couleur-est-lours/)
+> [De quelle couleur est l’ours ?](/2013/10/08/de-quelle-couleur-est-lours/)

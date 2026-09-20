@@ -19,4 +19,4 @@ Dans le référentiel du vaisseau c'est effectivement ce qui se passe. Ce n'est 
 
 Avant de lire Tau Zero, j'avais écrit ça, plus court
 
-[https://drgoulu.com/2004/08/09/a...](https://drgoulu.com/2004/08/09/acceleration/)
+[https://drgoulu.com/2004/08/09/a...](/2004/08/09/acceleration/)

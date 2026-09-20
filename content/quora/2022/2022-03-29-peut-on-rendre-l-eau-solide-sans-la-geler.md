@@ -30,7 +30,7 @@ où on voit que :
 1. c'est vachement plus compliqué que ce qu'on apprend à l'école primaire, notamment en raison des multiples formes de glace
 2. oui, à température ambiante, si on augmente la pression jusque vers 1.1 GPa (=11'000 atmosphères…) l'eau se solidifie en [Glace VI](w:)
 
-[https://www.drgoulu.com/2012/11/...](https://www.drgoulu.com/2012/11/05/glace-9/)
+[https://www.drgoulu.com/2012/11/...](/2012/11/05/glace-9/)
 
 et oui [Lajos](https://fr.quora.com/profile/Lajos-10) vous avez raison : en refroidissant de l'eau extrêmement vite vous obtenez de la [Glace amorphe](w:), non représentée sur le diagramme. On en connaît même 3 types en fonction des conditions de pression et de température. Mais ça n'arrive pas dans la nature.
 
@@ -38,4 +38,4 @@ La forme des glaçons/flocons qui se forment dans l'air dépend "juste" des cond
 
 ![](./images/qimg-49b50433f4153e3fb3bd3d5db95b20ef.jpg)
 
-[https://www.drgoulu.com/2007/01/...](https://www.drgoulu.com/2007/01/23/il-neige-de-beaux-flocons/)
+[https://www.drgoulu.com/2007/01/...](/2007/01/23/il-neige-de-beaux-flocons/)

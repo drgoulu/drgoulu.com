@@ -27,4 +27,4 @@ Pour modifier les atomes, il faut recourir à la Physique nucléaire en ajoutant
 
 Actuellement on a réussi à transformer quelques atomes de mercure en or, beaucoup plus cher que de l'extraire d'une mine.
 
-[Comment transformer le plomb en or ? - Pourquoi Comment Combien](https://www.drgoulu.com/2013/03/15/comment-transformer-le-plomb-en-or/)
+[Comment transformer le plomb en or ? - Pourquoi Comment Combien](/2013/03/15/comment-transformer-le-plomb-en-or/)

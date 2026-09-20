@@ -15,4 +15,4 @@ Il faut faire un parasol tout court.
 
 Ce ne sont pas les infrarouges du soleil qui causent l'effet de serre mais ceux émis par la Terre.
 
-[https://drgoulu.com/2011/11/13/c...](https://drgoulu.com/2011/11/13/climat-le-graphique/)
+[https://drgoulu.com/2011/11/13/c...](/2011/11/13/climat-le-graphique/)

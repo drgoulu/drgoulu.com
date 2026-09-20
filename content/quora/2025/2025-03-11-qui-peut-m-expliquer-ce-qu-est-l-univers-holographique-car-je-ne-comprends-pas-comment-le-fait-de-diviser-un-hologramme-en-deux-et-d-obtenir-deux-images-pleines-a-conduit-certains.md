@@ -35,4 +35,4 @@ Donc c'est juste une analogie avec les hologrammes optiques qui stockent une sc√
 
 Pour une introduction √† ce domaine, lisez
 
-[https://drgoulu.com/2011/08/13/s...](https://drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[https://drgoulu.com/2011/08/13/s...](/2011/08/13/selon-newton-lunivers-serait-digital/)

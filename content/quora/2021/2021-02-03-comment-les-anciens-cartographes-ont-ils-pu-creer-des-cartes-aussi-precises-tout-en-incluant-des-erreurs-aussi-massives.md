@@ -17,4 +17,4 @@ A chaque époque les cartographes ont fait du mieux qu'ils ont pu, sur la base d
 
 Il faut notamment bien considérer qu'avant 1734, on pouvait mesurer les latitudes avec beaucoup plus de précision que les longitudes.
 
-[https://www.drgoulu.com/2009/10/...](https://www.drgoulu.com/2009/10/04/longitude/)
+[https://www.drgoulu.com/2009/10/...](/2009/10/04/longitude/)

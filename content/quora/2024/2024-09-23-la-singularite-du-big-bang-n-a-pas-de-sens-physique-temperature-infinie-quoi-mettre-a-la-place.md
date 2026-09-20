@@ -27,4 +27,4 @@ Je découvre que les cordistes font d'intéressantes acrobaties pour éviter les
 
 Notes de bas de page
 
-[[1]](#cite-RQmNg)[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](https://drgoulu.com/2011/08/13/selon-newton-lunivers-serait-digital/)
+[[1]](#cite-RQmNg)[Selon Newton, l'univers serait discret - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)

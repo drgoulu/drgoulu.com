@@ -19,7 +19,7 @@ Ca a l'air évident, mais ça ne l'est pas, et c'est important de le savoir.
 
 D'abord, quelqu'un d'autre a peut-être breveté la même chose que vous avant. Son brevet est peut-être en train d'être examiné et vous ne le verrez que quand il sera publié, peut-être dans plusieurs années. Ce n'est qu'en déposant votre propre brevet que le bureau des brevets examinera les brevets antérieurs, et vous donnera l'opportunité de reformuler ou de préciser votre propre brevet pour qu'il n'enfreigne pas des brevets existants. (je viens de faire ça …)
 
-Il se peut aussi que votre invention ait tout bêtement été publiée dans un journal scientifique, technique, ou même sur un bête site web. Dans ce cas votre brevet ne vaudrait rien. ([exemple…](https://www.drgoulu.com/2007/11/17/radiateurs-a-teraflops/#comment-1048195543))
+Il se peut aussi que votre invention ait tout bêtement été publiée dans un journal scientifique, technique, ou même sur un bête site web. Dans ce cas votre brevet ne vaudrait rien. ([exemple…](/2007/11/17/radiateurs-a-teraflops/#comment-1048195543))
 
 Ensuite, la réalisation de votre brevet nécessite peut-être des composants ou méthodes de fabrication qui sont eux-mêmes brevetés. Si vous inventez un système de mesure de la température interne des aliments qui cuisent au micro-ondes utilisant un laser intégré dans une puce de silicium, vous aurez le droit d'assembler votre système et de le vendre à un fabricant de micro-ondes, mais probablement pas de faire des lasers intégrés dans des puces ou de produire vos propres fours micro-ondes tellement il y a de brevets là dessus.
 

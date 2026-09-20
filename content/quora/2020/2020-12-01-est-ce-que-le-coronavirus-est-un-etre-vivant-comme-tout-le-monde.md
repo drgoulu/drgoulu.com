@@ -21,4 +21,4 @@ coverImage: ./images/quora.png
 
 En passant, il faut bien réaliser que les virus pathogènes sont vraiment minoritaires. La majorité d'entre eux sont indispensables pour réguler les bactéries. Sans eux il n y aurait probablement pas de formes de vie plus complexe que les bactéries
 
-Livre très intéressant sur les virus : [Planète de virus - Pourquoi Comment Combien](https://www.drgoulu.com/2016/03/28/planete-de-virus/)
+Livre très intéressant sur les virus : [Planète de virus - Pourquoi Comment Combien](/2016/03/28/planete-de-virus/)

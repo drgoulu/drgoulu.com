@@ -27,4 +27,4 @@ Tous les éléments chimiques ont des isotopes radioactifs. Le [Césium](w:) ne 
 
 Mais effectivement, le [Césium](w:Césium_137)137 est un des nombreux [Produit de fission](w:) de l'uranium. Et c'est aussi un des plus embêtants pour nous car sa demi vie est de 30 ans. D'autres déchets nucléaires sont beaucoup plus radioactifs et décroissent en quelques jours, comme l'[Iode 131](w:) (9 jours) responsable d'une grande partie de la radioactivité juste après un accident. Et d'autres déchets ont de longues durées, mais sont d'autant moins radioactifs, comme le Césium 135 (2 millions d'années) puisqu'on parle du Césium.
 
-[Bure, plongée dans l'éternité - Pourquoi Comment Combien](https://www.drgoulu.com/2014/05/24/bure-pour-leternite/)
+[Bure, plongée dans l'éternité - Pourquoi Comment Combien](/2014/05/24/bure-pour-leternite/)

@@ -17,4 +17,4 @@ C'est très difficile de démontrer qu'un nombre irrationnel est univers. Pi n'a
 
 Par contre on peut facilement fabriquer un nombre univers. le plus simple est la [Constante de Champernowne](w:)
 
-[Nombres Univers - Pourquoi Comment Combien](https://www.drgoulu.com/2010/06/04/nombres-univers/#.YCWVomhsOCo)
+[Nombres Univers - Pourquoi Comment Combien](/2010/06/04/nombres-univers/#.YCWVomhsOCo)

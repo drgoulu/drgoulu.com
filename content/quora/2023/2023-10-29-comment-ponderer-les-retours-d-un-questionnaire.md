@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Lisez ça :
 
-[https://www.drgoulu.com/2009/05/...](https://www.drgoulu.com/2009/05/21/unites-et-classements/)
+[https://www.drgoulu.com/2009/05/...](/2009/05/21/unites-et-classements/)
 
 Après vous saurez qu'il n'y a pas de classement "le plus juste". Tout ce que vous pouvez faire, c'est cacher votre subjectivité sous les facteurs de pondération.
 
