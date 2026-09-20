@@ -1,5 +1,5 @@
 ---
-title: La K théorie de Morava pour enfants
+title: La K théorie de Morava pour les enfants
 date: 2026-09-20
 draft: true
 tags: []
