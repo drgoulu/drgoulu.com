@@ -12,6 +12,6 @@ Lors d'un très agréable weekend avec d'éminents collègues de l'institut d'au
 
 J'ai alors mentionné ma petite exploration d'il y a dix ans (déja)  :
 
-[L'abstraction mathématique gravée dans le marbre](2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/)
+[L'abstraction mathématique gravée dans le marbre](/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/)
 
 Ni moi ni aucun collègue ne comprenait ce que pouvait être la "tour chromatique de théories" découverte lors de ce premier artiucle, alors j'ai pensé demander à l'IA de vulgariser ceci, d'abord au niveau ingénieur :
