@@ -1,15 +1,16 @@
 ---
-title: "L'abstraction mathématique gravée dans le marbre"
-slug: "abstraction-mathematique-gravee-dans-le-marbre"
+title: L'abstraction mathématique gravée dans le marbre
 date: 2016-12-02
+draft: false
+tags:
+  - maths
+  - abstraction
+  - Morava
 categories:
-  - "Pourquoi"
-tags: 
-  - "maths"
-coverImage: "./images/urs-wurgler.jpg"
+  - Pourquoi
+slug: abstraction-mathematique-gravee-dans-le-marbre
+coverImage: ./images/urs-wurgler.jpg
 ---
-
-{{< figure src="./images/urs-wurgler.jpg" alt="Tombe d'Urs Würgler" >}}
 
 Urs Würgler, ancien recteur de l'Université de Berne et ou mathématicien est décédé il y a un an. Sur sa tombe, son épouse a fait graver la formule dont il était le plus fier\* qu'il avait trouvée :
 
@@ -32,13 +33,13 @@ Je confirme : la vidéo est hardcore. Mais elle vaut le détour ne serait-ce que
 
 > ### la mathématique est l'art de donner le même nom à des choses différentes
 
-En effet, ce qui m'a surpris lors de cette immersion en maths inconnues, c'est d'y trouver ça et là des îlots connus au moins par leur nom (nombres premiers, [morphisme](w:), [géométrie hyperbolique](w:)), des récifs aux noms trompeusement rassurants ([cohomologie](w:), [suite exacte](w:)) et des monstres comme les [spectres topologiques](w:en:Spectrum_(topology)) .
+En effet, ce qui m'a surpris lors de cette immersion en maths inconnues, c'est d'y trouver ça et là des îlots connus au moins par leur nom (nombres premiers, [morphisme](w:), [géométrie hyperbolique](w:)), des récifs aux noms trompeusement rassurants ([cohomologie](w:), [suite exacte](w:)) et des monstres comme les [spectres topologiques](w:en:Spectrum_\(topology\)) .
 
 Toutes ces choses semblent donc connectées dans le monde abstrait des mathématiques, mais que vient donc faire la fameuse formule là-dedans ?
 
 J'ai alors cherché des pistes sur [MathOverflow](http://mathoverflow.net/), un site de questions/réponses souvent pointues. Je n'y ai trouvé qu'une seule référence à Urs Würgler dans la seule et unique réponse à une question intitulée "[Morava K(n)'s are not E∞](http://mathoverflow.net/questions/179204/morava-kns-are-not-e-infty)" qui se réfère à un autre de ses articles [[2]](#ref-2).
 
-{{< figure src="./images/3GhY8.jpg" alt="Une figure ayant un très lointain rapport avec la K-theorie de Morava" caption="Une figure ayant un très lointain rapport avec la K-theorie de Morava" link="http://mathoverflow.net/questions/146139/what-is-known-about-the-sum-xn2-n" width="420" >}}
+{{< figure alt="Une figure ayant un très lointain rapport avec la K-theorie de Morava" caption="Une figure ayant un très lointain rapport avec la K-theorie de Morava" link="http://mathoverflow.net/questions/146139/what-is-known-about-the-sum-xn2-n" src="./images/3GhY8.jpg" width="420" >}}
 
 On trouve aussi sur MathOverflow une [cinquantaine de questions relatives à la K-theorie de Morava](http://mathoverflow.net/search?q=Morava+K-theory), mais elles n'ont qu'une réponse, voire moins ce qui confirme qu'il s'agit là d'un domaine très très pointu...
 
@@ -95,3 +96,5 @@ C'est donc du grand art mathématique. De l'art très abstrait, mais désormais 
 > Il voulait avancer toujours plus loin et ça s'est arrêté quand il a dû choisir  " recteur ou chercheur " et pas ... recteur et chercheur ! Vous pourriez peut - être écrire :  " la formule trouvée par ... "
 
 \*\* en informatique, le "tofu" est ce carré blanc que les ordinateurs affichent à la place d'un caractère spécial qu'ils ne savent pas afficher
+
+[Suite dix ans plus tard : Dix ans plus tard, l'IA explique la K-théorie de Morava aux enfants](/2026/09/20/la-k-theorie-de-morava-pour-les-enfants/)
