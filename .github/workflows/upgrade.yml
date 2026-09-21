@@ -30,6 +30,8 @@ jobs:
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    env:
+      UPGRADE_BRANCH: chore/upgrade-hugoblox-${{ github.run_id }}-${{ github.run_attempt }}
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -44,7 +46,7 @@ jobs:
       - name: Setup pnpm
         uses: pnpm/action-setup@v6
         with:
-          package_json_path: ./package.json
+          package_json_file: ./package.json
           run_install: false
 
       - name: Setup Go
@@ -73,26 +75,26 @@ jobs:
           echo "Running upgrade with flags: $FLAGS"
           pnpm dlx hugoblox@latest upgrade $FLAGS
 
+      - name: Commit and push upgrade branch
+        id: push_upgrade
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No upgrade changes detected."
+            exit 0
+          fi
 
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v8
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "chore(deps): upgrade hugoblox modules"
-          title: "⬆️ Upgrade HugoBlox Modules"
-          body: |
-            This PR upgrades the [HugoBlox](https://hugoblox.com) modules to the latest version.
-            
-            **Changes:**
-            - Updated Hugo Modules (go.mod/go.sum)
-            - Applied automatic migrations (if any)
-            
-            **Verification:**
-            - [ ] Check the Deploy Preview to ensure everything looks correct.
-            - [ ] Merge this PR to apply the updates.
-          branch: "chore/upgrade-hugoblox-${{ github.run_id }}"
-          delete-branch: true
-          base: main
-          labels: |
-            dependencies
-            automated-pr
+          git checkout -B "$UPGRADE_BRANCH"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore(deps): upgrade hugoblox modules"
+          git push origin "$UPGRADE_BRANCH"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Report PR creation status
+        if: steps.push_upgrade.outputs.changed == 'true'
+        run: |
+          echo "::warning::This repository blocks PR creation by GitHub Actions token."
+          echo "::notice::Open the upgrade PR manually:"
+          echo "https://github.com/${{ github.repository }}/pull/new/${{ env.UPGRADE_BRANCH }}"
