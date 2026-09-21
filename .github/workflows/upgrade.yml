@@ -75,61 +75,26 @@ jobs:
           echo "Running upgrade with flags: $FLAGS"
           pnpm dlx hugoblox@latest upgrade $FLAGS
 
-      - name: Check Actions PR permission
-        id: pr_permission
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push upgrade branch
+        id: push_upgrade
         run: |
-          CAN_CREATE_PR="$(gh api repos/${{ github.repository }}/actions/permissions/workflow --jq '.can_approve_pull_request_reviews // false')"
-          echo "allowed=$CAN_CREATE_PR" >> "$GITHUB_OUTPUT"
-          echo "GitHub Actions can create PRs: $CAN_CREATE_PR"
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No upgrade changes detected."
+            exit 0
+          fi
 
-      - name: Create Pull Request
-        id: cpr
-        if: steps.pr_permission.outputs.allowed == 'true'
-        uses: peter-evans/create-pull-request@v8
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "chore(deps): upgrade hugoblox modules"
-          title: "⬆️ Upgrade HugoBlox Modules"
-          body: |
-            This PR upgrades the [HugoBlox](https://hugoblox.com) modules to the latest version.
-            
-            **Changes:**
-            - Updated Hugo Modules (go.mod/go.sum)
-            - Applied automatic migrations (if any)
-            
-            **Verification:**
-            - [ ] Check the Deploy Preview to ensure everything looks correct.
-            - [ ] Merge this PR to apply the updates.
-          branch: ${{ env.UPGRADE_BRANCH }}
-          delete-branch: true
-          base: main
-          labels: |
-            dependencies
-            automated-pr
+          git checkout -B "$UPGRADE_BRANCH"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore(deps): upgrade hugoblox modules"
+          git push --force-with-lease origin "$UPGRADE_BRANCH"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: Report PR creation status
-        if: always()
+        if: steps.push_upgrade.outputs.changed == 'true'
         run: |
-          if [ "${{ steps.pr_permission.outputs.allowed }}" != "true" ]; then
-            echo "::warning::Repository setting blocks PR creation by GitHub Actions token."
-            echo "::warning::Enable 'Allow GitHub Actions to create and approve pull requests' or open the PR manually."
-            echo "Manual PR URL: https://github.com/${{ github.repository }}/pull/new/${{ env.UPGRADE_BRANCH }}"
-            exit 0
-          fi
-
-          CPR_OUTCOME="${{ steps.cpr.outcome }}"
-
-          if [ "$CPR_OUTCOME" = "success" ]; then
-            echo "PR step completed successfully."
-            if [ -n "${{ steps.cpr.outputs.pull-request-url }}" ]; then
-              echo "Pull request URL: ${{ steps.cpr.outputs.pull-request-url }}"
-            else
-              echo "No PR was created (likely because there were no upgrade changes)."
-            fi
-            exit 0
-          fi
-
-          echo "::error::Create Pull Request step failed with outcome: $CPR_OUTCOME"
-          exit 1
+          echo "::warning::This repository blocks PR creation by GitHub Actions token."
+          echo "::notice::Open the upgrade PR manually:"
+          echo "https://github.com/${{ github.repository }}/pull/new/${{ env.UPGRADE_BRANCH }}"
