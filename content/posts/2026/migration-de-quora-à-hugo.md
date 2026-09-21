@@ -70,5 +70,5 @@ De plus je ne voulais pas noyer drgoulu.com sous 15'000 articles Quora dont beau
 Quelques jours de mise au point plus tard, le nouveau drgoulu.com sous Hugo contient:
 
 - les 695 "anciens" articles de drgoulu.com sous Wordpress
-- 6532 nouveaux articles convertis de Quora
+- 6832 nouveaux articles convertis de Quora !
 - et 11815 brouillons ...
