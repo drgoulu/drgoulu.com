@@ -15,7 +15,7 @@ slug: ''
 coverImage: ./images/Gemini_Generated_Image_20upn420upn420up.jpeg
 ---
 
-Lors d'un très agréable weekend avec d'éminents anciens collègues de l'institut d'automatique, une discussion a porté sur l'utilisation de l'IA en mathématiques, puis sur le niveau d'abstraction que cette application permet.
+Lors d'un très agréable weekend avec d'éminents anciens collègues de l'Institut d'Automatique (IA...), une discussion a porté sur l'utilisation de l'intelligence artificielle (IA aussi...) en mathématiques, puis sur le niveau d'abstraction que cette application permet.
 
 J'ai alors mentionné ma petite exploration d'il y a dix ans (déjà)  relatée dans : [L'abstraction mathématique gravée dans le marbre](/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/)
 
