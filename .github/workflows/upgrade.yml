@@ -44,7 +44,7 @@ jobs:
       - name: Setup pnpm
         uses: pnpm/action-setup@v6
         with:
-          package_json_path: ./package.json
+          package_json_file: ./package.json
           run_install: false
 
       - name: Setup Go
@@ -75,6 +75,8 @@ jobs:
 
 
       - name: Create Pull Request
+        id: cpr
+        continue-on-error: true
         uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -96,3 +98,20 @@ jobs:
           labels: |
             dependencies
             automated-pr
+
+      - name: Report PR creation status
+        if: always()
+        run: |
+          if [ "${{ steps.cpr.outcome }}" = "success" ]; then
+            echo "PR step completed successfully."
+            if [ -n "${{ steps.cpr.outputs.pull-request-url }}" ]; then
+              echo "Pull request URL: ${{ steps.cpr.outputs.pull-request-url }}"
+            else
+              echo "No PR was created (likely because there were no upgrade changes)."
+            fi
+            exit 0
+          fi
+
+          echo "::warning::Automatic PR creation failed. GitHub Actions can push the branch but this repository currently blocks PR creation with GITHUB_TOKEN."
+          echo "::warning::Enable 'Allow GitHub Actions to create and approve pull requests' in repository settings, or open the PR manually."
+          echo "Manual PR URL: https://github.com/${{ github.repository }}/pull/new/chore/upgrade-hugoblox-${{ github.run_id }}"
