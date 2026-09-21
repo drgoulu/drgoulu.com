@@ -1,18 +1,18 @@
 ---
-title: "Succès hollywoodiens et transformée de Fourier"
-slug: "succes-hollywoodiens-et-transformee-de-fourier"
+title: Succès hollywoodiens et transformée de Fourier
 date: 2010-03-06
-categories:
-  - "Comment"
+draft: false
 tags:
-  - "art"
-  - "maths"
-  - "media"
-  - "researchblogging"
-coverImage: "./images/74e0df9764ab035d5a99e89c42fdb0471.png"
+  - art
+  - maths
+  - media
+categories:
+  - Comment
+slug: succes-hollywoodiens-et-transformee-de-fourier
+coverImage: ./images/74e0df9764ab035d5a99e89c42fdb0471.png
 ---
 
-{{< figure src="./images/74e0df9764ab035d5a99e89c42fdb047.png" alt="MathsAlien" link="./images/mathsalien.png" >}}
+{{< figure align="alignright" src="images/74e0df9764ab035d5a99e89c42fdb047.png" >}}
 
 Incroyable : une deuxième tentative d'article scientifique en une semaine dans le [torchon du coin café](http://www.20min.ch/ro/)! Ils ont du engager un stagiaire qui vise Science&Vie ... Cette fois c'est "Le succès des films tient à une formule de maths." Attachez vos ceintures :
 
@@ -42,7 +42,7 @@ Bon, ok, à la décharge du journaliste stagiaire, il faut du temps bon marché 
 
 ### Références
 
-1. <span id="ref-1">Cutting JE, DeLong JE, & Nothelfer CE (2010). Attention and the evolution of Hollywood film. Psychological science, 21 (3), 432-9 </span>[\[pdf\]](http://people.psych.cornell.edu/%7Ejec7/pubs/cuttingetalpsychsci10.pdf) {{< altmetric pmid="20424081" >}}
+1. <span id="ref-1">Cutting JE, DeLong JE, & Nothelfer CE (2010). Attention and the evolution of Hollywood film. Psychological science, 21 (3), 432-9 </span>[[pdf]](http://people.psych.cornell.edu/%7Ejec7/pubs/cuttingetalpsychsci10.pdf) {{< altmetric pmid="20424081" >}}
 2. <span id="ref-2"></span>Christine Nothelfer, ["Research Bulletin: Making the Cut"](http://www.onfiction.ca/2009/04/research-bulletin-making-cut.html) 2009, OnFiction
 3. <span id="ref-3"></span>"[Solved: The mathematics of the Hollywood blockbuster](http://www.newscientist.com/article/mg20527483.900-cinemaths-grabs-our-fickle-attention.html)", New Scientist, 28 février 2010
 4. <span id="ref-4"></span> Gilden, D.L. (2001). "Cognitive emission of 1/f noise". Psychological Review, 108, 33–56. {{< altmetric pmid="11212631" >}} [(pdf)](http://linkage.rockefeller.edu/wli/moved.8.04/1fnoise/gilden01.pdf)
