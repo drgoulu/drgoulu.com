@@ -31,7 +31,7 @@ voici le début et la fin de son excellente réponse:
 
 > La K-théorie de Morava est l'outil ultime de **spectroscopie algébrique**. Elle permet de découper l'information topologique complexe d'un espace en couches indépendantes (K(n)), facilitant le calcul d'invariants géométriques qui seraient autrement impossibles à extraire du signal d'origine.
 
-Tous les ingénieurs et la mathématicienne étaient scotchés par cette merveilleuse impression de réaliser qu'un vaste monde s'ouvrait derrière la transformée de Fourier que vous avons utilisée à gogo pendant nos carrières.
+Tous les ingénieurs et la mathématicienne étaient scotchés par cette merveilleuse impression de réaliser qu'un vaste monde s'ouvrait derrière la [transformée de ce barbare de Fourier](/2010/03/06/succes-hollywoodiens-et-transformee-de-fourier/) que vous avons utilisée à gogo pendant nos carrières.
 
 Là, Hacer, analyste financière, a demandé "et pour un enfant de cinq ans" ?
 
