@@ -102,7 +102,9 @@ jobs:
       - name: Report PR creation status
         if: always()
         run: |
-          if [ "${{ steps.cpr.outcome }}" = "success" ]; then
+          CPR_OUTCOME="${{ steps.cpr.outcome }}"
+
+          if [ "$CPR_OUTCOME" = "success" ]; then
             echo "PR step completed successfully."
             if [ -n "${{ steps.cpr.outputs.pull-request-url }}" ]; then
               echo "Pull request URL: ${{ steps.cpr.outputs.pull-request-url }}"
@@ -112,6 +114,16 @@ jobs:
             exit 0
           fi
 
-          echo "::warning::Automatic PR creation failed. GitHub Actions can push the branch but this repository currently blocks PR creation with GITHUB_TOKEN."
-          echo "::warning::Enable 'Allow GitHub Actions to create and approve pull requests' in repository settings, or open the PR manually."
-          echo "Manual PR URL: https://github.com/${{ github.repository }}/pull/new/chore/upgrade-hugoblox-${{ github.run_id }}"
+          if [ "$CPR_OUTCOME" = "failure" ]; then
+            echo "::warning::Automatic PR creation failed. Check the previous 'Create Pull Request' step logs for the exact error."
+            echo "::warning::If this is a GITHUB_TOKEN permission issue, enable 'Allow GitHub Actions to create and approve pull requests' in repository settings."
+            echo "Manual PR URL: https://github.com/${{ github.repository }}/pull/new/chore/upgrade-hugoblox-${{ github.run_id }}"
+            exit 0
+          fi
+
+          if [ "$CPR_OUTCOME" = "cancelled" ]; then
+            echo "::warning::PR creation step was cancelled."
+            exit 0
+          fi
+
+          echo "::notice::PR creation step outcome: $CPR_OUTCOME"
