@@ -1,7 +1,7 @@
 ---
 title: 'Migration : de Quora à Hugo'
 date: 2026-09-17
-draft: true
+draft: false
 tags:
   - Quora
   - Hugo
@@ -67,7 +67,8 @@ Une fois cette décision prise, j'ai simplement demandé à mon IA préférée d
 
 De plus je ne voulais pas noyer drgoulu.com sous 15'000 articles Quora dont beaucoup sont des réponses lapidaires, donc j'ai défini que toutes les réponses de moins de 500 caractères devaient être considérées comme des brouillons que je publierai le cas échéant.
 
-Quelques jours de mise au point plus tard, drgoulu.com contient:
+Quelques jours de mise au point plus tard, le nouveau drgoulu.com sous Hugo contient:
 
-- 
-- 11815 brouillons
+- les 695 "anciens" articles de drgoulu.com sous Wordpress
+- 6532 nouveaux articles convertis de Quora
+- et 11815 brouillons ...
