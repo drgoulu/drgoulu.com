@@ -32,7 +32,7 @@ Mais pour terminer cet article, il nous faut encore un ostrogoth et un  hussard
 
 Toujours est-il que Cutting montre dans son article que cette densité spectrale de puissance change avec le temps. Il l'approxime par une distribution en 1/fα Au débuts du cinéma, la durée des scènes était proche d'un "[bruit blanc](w:)" (α=0) comme si la durée d'un plan n'avait absolument aucune relation avec le reste du film. Aujourd'hui, elle s'approche d'une distribution en 1/f (α=1) typique du "[bruit rose](w:)".
 
-{{< figure src="./images/587d18f26adb685f14ab5604f982ca3d.png" alt="Movies alpha" caption="spectre de puissance, intervalle de confiance 95% et valeur de alpha pour des films typiques de leur époque" link="./images/587d18f26adb685f14ab5604f982ca3d.png" align="aligncenter" width="485" >}}
+{{< figure align="alignright" src="images/587d18f26adb685f14ab5604f982ca3d.png" >}}
 
 Là où ça devient vraiment intéressant, c'est que les processus aléatoires qui ont une distribution en 1/f captent apparemment mieux notre attention [[4]](#ref-4). Cette distribution est typique des processus complexes, biologiques entre autres : ils sont aléatoires, mais leurs composantes "lentes" sont plus importantes que les "rapides" : ça nous intrigue beaucoup plus qu'un phénomène totalement imprévisible, ou totalement prévisible.
 
