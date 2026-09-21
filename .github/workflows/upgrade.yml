@@ -75,10 +75,18 @@ jobs:
           echo "Running upgrade with flags: $FLAGS"
           pnpm dlx hugoblox@latest upgrade $FLAGS
 
+      - name: Check Actions PR permission
+        id: pr_permission
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          CAN_CREATE_PR="$(gh api repos/${{ github.repository }}/actions/permissions/workflow --jq '.can_approve_pull_request_reviews // false')"
+          echo "allowed=$CAN_CREATE_PR" >> "$GITHUB_OUTPUT"
+          echo "GitHub Actions can create PRs: $CAN_CREATE_PR"
 
       - name: Create Pull Request
         id: cpr
-        continue-on-error: true
+        if: steps.pr_permission.outputs.allowed == 'true'
         uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -104,6 +112,13 @@ jobs:
       - name: Report PR creation status
         if: always()
         run: |
+          if [ "${{ steps.pr_permission.outputs.allowed }}" != "true" ]; then
+            echo "::warning::Repository setting blocks PR creation by GitHub Actions token."
+            echo "::warning::Enable 'Allow GitHub Actions to create and approve pull requests' or open the PR manually."
+            echo "Manual PR URL: https://github.com/${{ github.repository }}/pull/new/${{ env.UPGRADE_BRANCH }}"
+            exit 0
+          fi
+
           CPR_OUTCOME="${{ steps.cpr.outcome }}"
 
           if [ "$CPR_OUTCOME" = "success" ]; then
@@ -116,16 +131,5 @@ jobs:
             exit 0
           fi
 
-          if [ "$CPR_OUTCOME" = "failure" ]; then
-            echo "::warning::Automatic PR creation failed. Check the previous 'Create Pull Request' step logs for the exact error."
-            echo "::warning::If this is a GITHUB_TOKEN permission issue, enable 'Allow GitHub Actions to create and approve pull requests' in repository settings."
-            echo "Manual PR URL: https://github.com/${{ github.repository }}/pull/new/${{ env.UPGRADE_BRANCH }}"
-            exit 0
-          fi
-
-          if [ "$CPR_OUTCOME" = "cancelled" ]; then
-            echo "::warning::PR creation step was cancelled."
-            exit 0
-          fi
-
-          echo "::notice::PR creation step outcome: $CPR_OUTCOME"
+          echo "::error::Create Pull Request step failed with outcome: $CPR_OUTCOME"
+          exit 1
