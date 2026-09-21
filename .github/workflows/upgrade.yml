@@ -30,6 +30,8 @@ jobs:
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    env:
+      UPGRADE_BRANCH: chore/upgrade-hugoblox-${{ github.run_id }}
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -92,7 +94,7 @@ jobs:
             **Verification:**
             - [ ] Check the Deploy Preview to ensure everything looks correct.
             - [ ] Merge this PR to apply the updates.
-          branch: "chore/upgrade-hugoblox-${{ github.run_id }}"
+          branch: ${{ env.UPGRADE_BRANCH }}
           delete-branch: true
           base: main
           labels: |
@@ -117,7 +119,7 @@ jobs:
           if [ "$CPR_OUTCOME" = "failure" ]; then
             echo "::warning::Automatic PR creation failed. Check the previous 'Create Pull Request' step logs for the exact error."
             echo "::warning::If this is a GITHUB_TOKEN permission issue, enable 'Allow GitHub Actions to create and approve pull requests' in repository settings."
-            echo "Manual PR URL: https://github.com/${{ github.repository }}/pull/new/chore/upgrade-hugoblox-${{ github.run_id }}"
+            echo "Manual PR URL: https://github.com/${{ github.repository }}/pull/new/${{ env.UPGRADE_BRANCH }}"
             exit 0
           fi
 
