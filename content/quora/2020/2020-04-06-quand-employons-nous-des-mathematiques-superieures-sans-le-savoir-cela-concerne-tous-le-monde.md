@@ -1,16 +1,15 @@
 ---
 title: Quand employons-nous des mathématiques supérieures sans le savoir (cela concerne tous le monde) ?
-slug: quand-employons-nous-des-mathematiques-superieures-sans-le-savoir-cela-concerne-tous-le-monde
-date: '2020-04-06'
+date: 2020-04-06
 draft: false
-categories:
-- Quora
 tags:
-- mathematiques
-- vie-quotidienne
-- technologies
-- innovation
-- sciences
+  - mathematiques
+  - technologies
+  - innovation
+  - sciences
+categories:
+  - Quora
+slug: quand-employons-nous-des-mathematiques-superieures-sans-le-savoir-cela-concerne-tous-le-monde
 coverImage: ./images/quora.png
 ---
 
