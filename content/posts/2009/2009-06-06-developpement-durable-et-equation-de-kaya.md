@@ -1,17 +1,18 @@
 ---
-title: "Développement Durable et Equation de Kaya"
-slug: "developpement-durable-et-equation-de-kaya"
+title: Développement Durable et Equation de Kaya
 date: 2009-06-06
+draft: false
+tags:
+  - demographie
+  - ecologisme
+  - economie
+  - equation-de-kaya
+  - politique
+  - societe
 categories:
-  - "Combien"
-tags: 
-  - "demographie"
-  - "ecologisme"
-  - "economie"
-  - "equation-de-kaya"
-  - "politique"
-  - "societe"
-coverImage: "./images/f7deaf02011067b5f439db1fe3ab12a1.jpg"
+  - Combien
+slug: developpement-durable-et-equation-de-kaya
+coverImage: images/cf3880ab37a5ed8c29bd2c8815d2c09b.png
 ---
 
 Le responsable "santé+sécurité+environnement" de mon employeur nous a présenté les 3 piliers du "[développement durable](w:)" (Ecologique, Economique et Social) avec ce joli graphique :

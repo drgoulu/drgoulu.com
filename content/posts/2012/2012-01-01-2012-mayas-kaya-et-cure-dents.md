@@ -1,17 +1,18 @@
 ---
-title: "2012, Mayas, Kaya et cure-dents"
-slug: "2012-mayas-kaya-et-cure-dents"
+title: 2012, Mayas, Kaya et cure-dents
 date: 2012-01-01
+draft: false
+tags:
+  - annee
+  - demographie
+  - ecologisme
+  - equation-de-kaya
 categories:
-  - "Combien"
-  - "Comment"
-  - "Pourquoi"
-tags: 
-  - "annee"
-  - "demographie"
-  - "ecologisme"
-  - "equation-de-kaya"
-coverImage: "./images/75e72f9518bb93d7d4030c08d378faca.jpg"
+  - Combien
+  - Comment
+  - Pourquoi
+slug: 2012-mayas-kaya-et-cure-dents
+coverImage: ./images/75e72f9518bb93d7d4030c08d378faca.jpg
 ---
 
 Les Mayas se sont plantés : leur fin du monde n'arrivera pas en 2012 puisqu'elle a [déjà eu lieu autour de 909](w:Civilisation_maya#Les_faits), et d'une façon peu hollywoodienne : abandon des villes étalé sur des décennies, dénatalité, le tout causé par une crise peu claire combinant peut-être surpopulation, surexploitation des sols et variations climatiques... Des dangers ô combien plus rationnels que "[l'ennemi interieur](/2009/11/29/2012-et-lennemi-interieur/)".
@@ -36,13 +37,17 @@ Le futur s'avère donc passionnant, et comme disait Woody Allen : "l'avenir m'in
 
 Ce qui est déjà sur, c'est qu'en 2012 il y aura [5 mercredis en février](http://oeis.org/A141039), ce qui n'est plus arrivé depuis 1984, [3 vendredi 13](http://oeis.org/A190653) ce qui est plus fréquent et nous fait une belle jambe, mais surtout le [6 juin il y aura un transit de Vénus](w:Transit_de_Vénus_de_2012) à ne pas rater, [le prochain étant prévu pour 2117](http://oeis.org/A171467)
 
-{{< figure src="./images/75e72f9518bb93d7d4030c08d378faca.jpg" alt="Transit de Vénus de 2004 filmé dans l'UV par la NASA (cliquer pour la vidéo)" caption="Transit de Vénus de 2004 filmé dans l'UV par la NASA (cliquer pour la vidéo)" link="http://upload.wikimedia.org/wikipedia/commons/9/94/2004_Venus_transit_UV.ogg" align="aligncenter" width="600" >}}
+{{< figure align="aligncenter" alt="Transit de Vénus de 2004 filmé dans l'UV par la NASA (cliquer pour la vidéo)" caption="Transit de Vénus de 2004 filmé dans l'UV par la NASA (cliquer pour la vidéo)" link="http://upload.wikimedia.org/wikipedia/commons/9/94/2004_Venus_transit_UV.ogg" src="./images/75e72f9518bb93d7d4030c08d378faca.jpg" width="600" >}}
 
 A part ça, le [nombre 2012 a 101 propriétés](http://oeis.org/search?q=seq%3A2012), ce qui le classe dans le [haut de la bande des faiblement minéralisés](/2009/04/18/nombres-mineralises/). Parmi ces propriétés j'ai été intrigué par celle de la "[séquence des cure-dents E](http://oeis.org/A161328)". Elle est définie par le nombre de pièces en "E" disposés à chaque étape du processus itératif représenté sur la figure ci-dessous :
 
-{{< figure src="./images/tootpickE.png" alt="tootpickE" caption="illustration des premiers termes de la séquence A161328 : 1, 4, 9, 16, 29, ... 2012 est le 42ème terme" link="http://www.polprimos.com/imagenespub/poltp120.jpg" align="aligncenter" width="579" >}}
+{{< figure align="aligncenter" alt="tootpickE" caption="illustration des premiers termes de la séquence A161328 : 1, 4, 9, 16, 29, ... 2012 est le 42ème terme" link="http://www.polprimos.com/imagenespub/poltp120.jpg" src="./images/tootpickE.png" width="579" >}}
 
-On parle de cure-dents car il s'agit d'une des variations de plusieurs problèmes de disposition de cure-dents sur une nappe étudiés par des matheux qui ne savaient pas quoi faire d'autre \[ David Applegate, Omar E. Pol and N. J. A. Sloane, "[The Toothpick Sequence and Other Sequences from Cellular Automata](http://www.research.att.com/~njas/doc/tooth.pdf)", avril 2010{{< altmetric arxiv="1004.3036v2" >}} math.CO\] , mais nous autres informaticiens allons surement réussir à en faire quelque chose de joli, non ? Oui, c'est un challenge : celui qui fera la première représentation de 2012 en cure-dents E référencée dans les commentaires aura droit à des félicitations publiques.
+On parle de cure-dents car il s'agit d'une des variations de plusieurs problèmes de disposition de cure-dents sur une nappe étudiés par des matheux qui ne savaient pas quoi faire d'autre:
+
+David Applegate, Omar E. Pol and N. J. A. Sloane, "[The Toothpick Sequence and Other Sequences from Cellular Automata](http://www.research.att.com/~njas/doc/tooth.pdf)", avril 2010{{< altmetric arxiv="1004.3036v2" >}} 
+
+mais nous autres informaticiens allons surement réussir à en faire quelque chose de joli, non ? Oui, c'est un challenge : celui qui fera la première représentation de 2012 en cure-dents E référencée dans les commentaires aura droit à des félicitations publiques.
 
 A vous chers lecteurs et amis, je vous souhaite de découvrir plein de choses intéressantes et surprenantes en 2012, mais surtout la bonne santé et la quiétude nécessaires pour en profiter.
 
