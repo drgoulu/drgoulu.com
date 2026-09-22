@@ -1,5 +1,5 @@
 ---
-title: Qu'attends le mossad pour éliminer khamenei ?
+title: Qu'attend le Mossad pour éliminer Khamenei ?
 date: 2025-08-12
 draft: false
 tags:
