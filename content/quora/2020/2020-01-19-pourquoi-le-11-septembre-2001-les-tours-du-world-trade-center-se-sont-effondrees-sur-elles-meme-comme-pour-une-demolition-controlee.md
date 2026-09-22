@@ -1,16 +1,14 @@
 ---
 title: Pourquoi, le 11 septembre 2001, les tours du World Trade Center se sont effondrées sur elles-même comme pour une démolition contrôlée ?
-slug: pourquoi-le-11-septembre-2001-les-tours-du-world-trade-center-se-sont-effondrees-sur-elles-meme-comme-pour-une-demolition-controlee
-date: '2020-01-19'
+date: 2020-01-19
 draft: false
-categories:
-- Pourquoi
 tags:
-- histoire
-- new-york-city
-- attentats-du-11-septembre
-- terrorisme
-- batiments
+  - génie civil
+  - pseudo
+  - complot
+categories:
+  - Pourquoi
+slug: pourquoi-le-11-septembre-2001-les-tours-du-world-trade-center-se-sont-effondrees-sur-elles-meme-comme-pour-une-demolition-controlee
 coverImage: ./images/qimg-2c3ed880befe20a8b2e6e88d8ad67e01.png
 ---
 
