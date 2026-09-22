@@ -6,7 +6,7 @@ tags:
   - demographie
   - ecologisme
   - economie
-  - kaya
+  - equation-de-kaya
   - politique
   - societe
 categories:
