@@ -1,16 +1,16 @@
 ---
 title: Pourquoi Quora garde-t-il des réponses antisémites et faisant l'apologie du terrorisme comme sur la fameuse réponse de samir farid?
-slug: pourquoi-quora-garde-t-il-des-reponses-antisemites-et-faisant-l-apologie-du-terrorisme-comme-sur-la-fameuse-reponse-de-samir-farid
-date: '2023-10-16'
-draft: false
-categories:
-- Pourquoi
+date: 2023-10-16
+draft: true
 tags:
-- quora
-- personne
-- liberte-d-expression
-- plateformes-de-medias-sociaux
-- terrorisme
+  - quora
+  - personne
+  - liberte-d-expression
+  - plateformes-de-medias-sociaux
+  - terrorisme
+categories:
+  - Pourquoi
+slug: pourquoi-quora-garde-t-il-des-reponses-antisemites-et-faisant-l-apologie-du-terrorisme-comme-sur-la-fameuse-reponse-de-samir-farid
 coverImage: ./images/quora.png
 ---
 
