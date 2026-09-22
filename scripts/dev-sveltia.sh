@@ -43,7 +43,7 @@ build:
 EOF
 fi
 
-# 1. Construire le site et générer l'index Pagefind uniquement si nécessaire ou demandé
+# 1. Vérifier si un build initial ou Pagefind est nécessaire
 FORCE_PAGEFIND=false
 if [ "$1" = "--pagefind" ] || [ "$1" = "-p" ]; then
   FORCE_PAGEFIND=true
@@ -52,26 +52,18 @@ fi
 if [ "$FORCE_PAGEFIND" = true ] || [ ! -f "$SITE_DIR/static/pagefind/pagefind.js" ]; then
   echo "🔍 Construction du site et indexation Pagefind pour la recherche locale..."
   (cd "$SITE_DIR" && hugo --environment sveltia --cleanDestinationDir --buildFuture && pnpm exec pagefind --site public --output-path static/pagefind)
+elif [ ! -f "$SITE_DIR/public/admin/index.html" ]; then
+  echo "📦 Aucun build existant détecté dans public/. Compilation initiale de Hugo..."
+  (cd "$SITE_DIR" && hugo --environment sveltia --buildFuture --disableKinds=RSS,sitemap,taxonomy,term)
 else
-  echo "⚡ Index Pagefind déjà existant dans static/pagefind/ (passez --pagefind pour forcer la réindexation)."
+  echo "⚡ Site déjà compilé dans public/ et index Pagefind présent. Démarrage immédiat !"
 fi
 
 # 2. Lancer le serveur Vite de Sveltia CMS en arrière-plan
 echo "🚀 Lancement de Sveltia CMS (Vite)..."
 (cd "$SVELTIA_DIR" && VITE_SITE_URL="http://localhost:1313" HUGO_CONTENT_DIR="$SITE_DIR/content" ./node_modules/.bin/vite) &
 
-# Petit délai pour laisser Vite démarrer
-sleep 1
+# 3. Lancer le serveur HTTP local (port 1313) avec surveillance des changements de content/
+node "$SCRIPT_DIR/dev-server.mjs"
 
-# 3. Lancer le serveur Hugo avec rechargement automatique (sans publier les brouillons et sans générer les flux/taxonomies)
-echo "🌐 Démarrage du serveur Hugo (http://localhost:1313)..."
-echo "   ℹ️ Première compilation du site en cours (~30s pour ~6900 pages)..."
-(
-  cd "$SITE_DIR"
-  while true; do
-    hugo server --environment sveltia --buildFuture --disableLiveReload --disableKinds=RSS,sitemap,taxonomy,term || true
-    echo "⚠️ Hugo server s'est arrêté. Redémarrage automatique dans 2 secondes..."
-    sleep 2
-  done
-)
 
