@@ -1,16 +1,12 @@
 ---
 title: Etes-vous déjà retourné à une technologie plus ancienne parce qu'elle fonctionnait mieux ?
-slug: etes-vous-deja-retourne-a-une-technologie-plus-ancienne-parce-qu-elle-fonctionnait-mieux
-date: '2020-09-01'
+date: 2020-09-01
 draft: false
-categories:
-- Quora
 tags:
-- experiences-personnelles
-- technologies
-- experience
-- vie-quotidienne
-- experience-humaine
+  - technologie
+categories:
+  - Quora
+slug: etes-vous-deja-retourne-a-une-technologie-plus-ancienne-parce-qu-elle-fonctionnait-mieux
 coverImage: ./images/quora.png
 ---
 
