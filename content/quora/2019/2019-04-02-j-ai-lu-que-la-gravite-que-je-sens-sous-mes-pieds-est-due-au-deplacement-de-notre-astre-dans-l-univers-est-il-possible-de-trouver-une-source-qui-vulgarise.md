@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - astronomie
-- vulgarisation-scientifique
-- sources-journalistiques
-- l-univers
-- gravite-de-la-terre
-- information-scientifique
-- observation-des-astres
+- univers
+- terre
 - gravite
-- gravite-physique
 coverImage: ./images/quora.png
 ---
 

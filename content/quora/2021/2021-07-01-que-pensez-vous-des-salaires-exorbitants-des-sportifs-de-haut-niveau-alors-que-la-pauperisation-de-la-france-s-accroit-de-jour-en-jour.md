@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- inegalites-de-revenu
-- sports
 - opinion
-- pauperisation
-- sportif
-- societe-francaise
-- salaires-dans-les-domaines-d-activite
-- inegalites-sociales
+- inegalite
+- revenu
+- sport
 coverImage: ./images/quora.png
 ---
 

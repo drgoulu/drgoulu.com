@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- sciences-de-la-nature
+- sciences
+- terre
+- nature
 - geologie
-- diamants
-- mineraux
-- gemstones
-- phenomene-geologique
-- science-de-la-terre
 - geologie-planetaire
-- mineralogie
 coverImage: ./images/quora.png
 ---
 

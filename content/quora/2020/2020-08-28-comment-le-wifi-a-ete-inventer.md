@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- science-et-technologie
-- internet-sans-fil
-- histoire-d-internet
-- wi-fi
-- invention-et-inventions
-- histoire-des-inventions
-- histoire-de-l-ingenierie-electronique
-- reseau-sans-fil
-- technologie-sans-fil
-- histoire-de-l-informatique
+- sciences
+- histoire
+- informatique
+- technologies
+- internet
 coverImage: ./images/quora.png
 ---
 

@@ -8,12 +8,9 @@ categories:
 tags:
 - astronomie
 - histoire-humaine
-- comete-de-halley
 - phenomenes-naturels
-- comete
-- dates-historiques
-- histoire-ancienne
-- histoire-de-l-humanite
+- histoire
+- humanite
 coverImage: ./images/quora.png
 ---
 

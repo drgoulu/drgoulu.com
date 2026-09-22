@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- l-univers
-- theorie-scientifique
-- cosmologie
 - astrophysique
-- objets-astronomiques
+- univers
+- cosmologie
 - galaxies
-- l-univers-astronomie
-- galaxies-astronomie
 coverImage: ./images/qimg-b624980136adfec28d4d2d7baf29800e.jpg
 ---
 

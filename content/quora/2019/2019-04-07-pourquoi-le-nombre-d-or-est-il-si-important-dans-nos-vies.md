@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- philosophie
-- nombre-d-or
-- arts-e-design
 - sciences
+- philosophie
 - mathematiques
-- architecture
+- nombres
 - geometrie
-- art-architecture
-- philosophie-et-science
-- sciences-mathematiques
 coverImage: ./images/qimg-f0af7574b6cb83a306147878041278fa.png
 ---
 

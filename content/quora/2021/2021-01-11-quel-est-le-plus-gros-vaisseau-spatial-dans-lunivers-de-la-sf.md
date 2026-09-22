@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- comparaisons
+- univers
 - science-fiction-genre
-- fiction
-- taille
+- comparaisons
+- livres
 - voyage-spatial
-- univers-de-fiction
-- romanciers-de-science-fiction
-- livres-de-science-fiction
-- vaisseau-spatial
-- les-voyages-spaciaux
 coverImage: ./images/quora.png
 ---
 

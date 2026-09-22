@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- trous-noirs
-- espace-notion
-- galaxies-spirales
 - astrophysique
 - espace
+- trous-noirs
 - galaxies
-- les-galaxies
-- trous-noirs-supermassifs
-- galaxies-astronomie
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- guerre-du-pacifique-seconde-guerre-mondiale
-- hiroshima-japon
-- strategie-militaire
 - guerre
-- attaque-nucleaire
-- la-seconde-guerre-mondiale
-- guerres-et-histoire-militaire
+- histoire-militaire
+- seconde-guerre-mondiale
 - japon
-- bombe-atomique
 coverImage: ./images/quora.png
 ---
 

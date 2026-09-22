@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
+- israel
 - conflit-israelo-palestinien
-- onu
-- formation-de-l-etat-d-israel-1948
 - palestine
 - droit-international
-- referendums
-- histoire-du-moyen-orient
-- israel
-- histoire-d-israel
 coverImage: ./images/quora.png
 ---
 

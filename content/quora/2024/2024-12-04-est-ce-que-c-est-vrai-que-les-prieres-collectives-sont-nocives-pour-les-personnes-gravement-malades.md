@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sante
-- croyance
 - religion
-- opinions-et-croyances
-- religion-et-spiritualite
+- opinion
 - medecine
-- maladie
-- sante-physique
-- religion-et-culture
-- medecine-et-sante
 coverImage: ./images/quora.png
 ---
 

@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- ceremonie-d-ouverture
 - consequences
 - diplomatie
 - economie-francaise
-- jeux-olympiques
 - politique-etrangere-francaise
-- sports-olympiques
 coverImage: ./images/quora.png
 ---
 

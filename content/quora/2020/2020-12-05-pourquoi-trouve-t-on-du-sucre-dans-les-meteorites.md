@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - astronomie
-- sucre
-- meteorites
-- sciences-de-la-nature
-- chimie
-- composition-chimique
-- astronomie-et-astrophysique
-- science-de-la-terre
-- chimie-biologie
+- biologie
+- astrophysique
+- terre
 coverImage: ./images/quora.png
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- alimentation
-- histoire-de-l-europe
-- vin
-- moyen-age
-- boissons
+- histoire
 - consommation
-- l-europe-medievale
-- histoire-medievale
+- europe
+- alimentation
+- moyen-age
 coverImage: ./images/quora.png
 ---
 

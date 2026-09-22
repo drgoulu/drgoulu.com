@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - philosophie
-- question-existentielle
-- temps-physique
-- l-univers
-- etre-humain
+- univers
 - cosmologie
-- existence
-- lexistence-humaine
-- philosophie-et-science
-- questions-existentielles
 coverImage: ./images/quora.png
 ---
 

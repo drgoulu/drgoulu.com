@@ -8,7 +8,6 @@ categories:
 tags:
 - france
 - energie-nucleaire
-- iter
 - recherche-scientifique
 - reacteurs-a-fusion
 - technologie-nucleaire

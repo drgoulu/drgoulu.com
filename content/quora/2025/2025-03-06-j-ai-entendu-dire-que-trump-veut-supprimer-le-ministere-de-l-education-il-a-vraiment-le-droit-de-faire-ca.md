@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
+- etats-unis
+- ameriques
 - donald-trump
-- systeme-educatif-des-etats-unis
-- pouvoirs-presidentiels
-- ministere-de-l-education
-- personnalites-politiques
-- droit-politique-americain
-- politique-des-etats-unis-d-amerique
 - politique-americaine
-- systeme-educatif-americain
 coverImage: ./images/quora.png
 ---
 

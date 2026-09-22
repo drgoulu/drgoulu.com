@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - innovation
-- voitures-et-automobiles
-- esthetique
-- tendances
+- voitures
+- automobile
 - innovation-technologique
-- design
 - industrie-automobile
-- conception-automobile
-- constructeurs-automobiles
-- design-automobile
 coverImage: ./images/quora.png
 ---
 

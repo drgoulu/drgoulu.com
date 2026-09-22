@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- voyage-dans-l-espace
-- entrainement-alcubierre
-- vitesse-supraluminique
-- theories-univers
-- relativite-generale
 - physique-theorique
-- voyage-interstellaire
-- relativite-physique
-- voyage-spatial
+- relativite
+- espace
+- voyage
 coverImage: ./images/quora.png
 ---
 

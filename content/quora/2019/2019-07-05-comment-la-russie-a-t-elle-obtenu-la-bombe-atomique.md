@@ -8,14 +8,9 @@ categories:
 tags:
 - histoire
 - russie
-- armes-nucleaires
-- espionnage
-- la-seconde-guerre-mondiale
-- union-sovietique
-- histoire-militaire-russe
-- bombe-atomique
-- la-guerre-froide
 - histoire-militaire
+- seconde-guerre-mondiale
+- armes-nucleaires
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- science-et-technologie
-- prevention
-- risque-et-risques
+- sciences
+- technologies
 - energie-nucleaire
-- securite-electrique
+- risque-et-risques
 - centrales-nucleaires
-- prevention-des-accidents
-- industrie-nucleaire
-- les-centrales-nucleaires
 coverImage: ./images/qimg-922661742915185798aa52ec0d34cc4e.png
 ---
 

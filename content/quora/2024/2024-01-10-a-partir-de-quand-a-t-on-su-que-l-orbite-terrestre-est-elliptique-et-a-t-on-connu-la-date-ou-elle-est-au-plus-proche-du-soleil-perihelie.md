@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- ellipses-geometrie
-- histoire-des-sciences
-- terre-planete
-- decouvertes-scientifiques
-- orbite-de-la-terre
-- planetes-astronomie
-- histoire-de-l-astronomie
-- planete-terre
-- faits-scientifiques
+- histoire
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

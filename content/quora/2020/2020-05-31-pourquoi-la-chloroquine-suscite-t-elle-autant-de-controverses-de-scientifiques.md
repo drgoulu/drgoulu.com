@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- medecine
-- opinion-controversee
 - recherche-scientifique
-- traitements
-- pharmacologie
-- controverses
-- recherche-medicale
+- medecine
 - etude-scientifique
+- recherche-medicale
+- controverses
 coverImage: ./images/quora.png
 ---
 

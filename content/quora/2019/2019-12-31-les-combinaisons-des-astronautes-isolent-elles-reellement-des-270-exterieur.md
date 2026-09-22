@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - espace
-- temperatures
 - science-spatiale
-- astronautes
-- isolation-thermique
-- missions-spatiales
 - technologie-spatiale
-- combinaison-spatiale
-- astronautique
-- physique-spatiale
+- missions-spatiales
+- temperatures
 coverImage: ./images/quora.png
 ---
 

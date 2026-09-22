@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - philosophie
-- rencontres-extra-terrestres
-- avenir-de-l-humanite
 - exploration-spatiale
-- contact-humain
-- l-ethique
-- relations-interculturelles
-- civilisations-extraterrestres
-- ethique-philosophie-morale
+- humanite
+- ethique
 - vie-extraterrestre
 coverImage: ./images/quora.png
 ---

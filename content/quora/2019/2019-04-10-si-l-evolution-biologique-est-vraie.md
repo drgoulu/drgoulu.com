@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- evolution
+- theorie
 - evolution-humaine
-- singes
 - especes
 - preuves-scientifiques
-- poissons
-- fossiles
-- grands-singes
-- theorie-de-l-evolution
-- evolution-animale
 coverImage: ./images/quora.png
 ---
 

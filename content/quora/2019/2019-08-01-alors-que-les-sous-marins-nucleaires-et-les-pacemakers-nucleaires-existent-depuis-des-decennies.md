@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- sous-marins-nucleaires
-- batterie-auto
-- nouvelles-technologies
-- voitures-et-automobiles
+- sciences
+- technologies
 - energie-nucleaire
-- batteries
-- voitures-electriques
-- technologie-nucleaire
+- nouvelles-technologies
+- voitures
 coverImage: ./images/quora.png
 ---
 

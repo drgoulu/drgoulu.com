@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- astronomie
+- planetes
 - systeme-solaire
+- origines
 - mythologie
-- origine-des-noms
-- pluton-planete-naine
-- etymologie
-- planetes-astronomie
-- noms-propres
-- planetes-du-systeme-solaire
-- mythologie-classique
 coverImage: ./images/quora.png
 ---
 

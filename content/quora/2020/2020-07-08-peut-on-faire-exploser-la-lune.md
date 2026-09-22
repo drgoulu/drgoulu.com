@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- lune-satellite-naturel
 - astronomie
-- destruction
-- science-nature
-- explosions
-- detonation
 - astrophysique
 - physique-theorique
-- astronomy
+- science-nature
 coverImage: ./images/quora.png
 ---
 

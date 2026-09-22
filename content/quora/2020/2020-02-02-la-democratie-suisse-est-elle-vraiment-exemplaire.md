@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-politiques
-- democratie
 - suisse
-- systeme-de-gouvernement
-- democratie-en-suisse
-- democratie-liberale
-- democratie-moderne
-- democratique
-- democratie-suisse
+- systeme
+- democratie
+- gouvernement
+- sciences-politiques
 coverImage: ./images/quora.png
 ---
 

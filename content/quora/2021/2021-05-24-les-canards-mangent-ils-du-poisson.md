@@ -8,12 +8,9 @@ categories:
 tags:
 - biologie
 - animaux
-- canards
-- alimentation-des-oiseaux-sauvages
+- alimentation
 - faune
 - faune-sauvage
-- alimentation-animale
-- le-canard
 coverImage: ./images/quora.png
 ---
 

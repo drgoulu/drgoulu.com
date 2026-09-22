@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- reseaux-sociaux
-- quora
-- atteinte-au-droit-d-auteur
-- contenu
-- images
 - propriete-intellectuelle
+- quora
+- contenu
+- reseaux-sociaux
 - droit-dauteur
-- utilisation-des-reseaux-sociaux
-- contenu-web
 coverImage: ./images/quora.png
 ---
 

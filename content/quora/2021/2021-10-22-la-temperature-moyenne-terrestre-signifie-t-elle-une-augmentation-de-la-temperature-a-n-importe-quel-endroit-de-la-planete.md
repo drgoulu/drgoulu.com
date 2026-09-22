@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- terre
+- planetes
+- environnement
 - changement-climatique
-- terre-planete
-- l-environnement
-- temperatures
-- climatologie
-- climats
-- planete-terre
-- le-rechauffement-climatique
+- rechauffement-climatique
 coverImage: ./images/qimg-72ba55d7ef9805a19fa542e02471c667.jpg
 ---
 

@@ -6,13 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- france
-- energie-physique
-- fission-nucleaire
-- consommation-electrique
-- facture-d-electricite
-- energie-nucleaire
+- physique
 - energie
+- france
+- energie-nucleaire
+- electricite
 coverImage: ./images/quora.png
 ---
 

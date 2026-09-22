@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- espace
-- vitesse
-- fusee-astronautique
 - astronomie
-- terre-planete
-- vitesse-de-liberation
-- gravite
-- fusees
-- gravite-de-la-terre
+- terre
+- planetes
+- espace
 coverImage: ./images/quora.png
 ---
 

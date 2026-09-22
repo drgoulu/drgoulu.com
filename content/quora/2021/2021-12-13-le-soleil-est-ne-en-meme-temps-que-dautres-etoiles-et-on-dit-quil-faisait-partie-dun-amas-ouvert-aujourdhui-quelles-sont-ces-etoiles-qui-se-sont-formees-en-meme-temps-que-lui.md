@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- le-soleil
-- formation-de-groupe
-- etoiles-corps-celestes
 - astrophysique
-- formation-scientifique
+- soleil
+- etoiles-corps-celestes
 - etoiles
-- le-soleil-astronomie
-- astronomie-et-astrophysique
-- etoiles-astronomie
 coverImage: ./images/quora.png
 ---
 

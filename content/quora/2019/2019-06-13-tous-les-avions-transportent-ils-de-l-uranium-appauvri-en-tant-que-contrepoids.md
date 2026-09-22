@@ -8,12 +8,9 @@ categories:
 tags:
 - aviation
 - materiaux
-- contrepoint
-- uranium-appauvrie
 - sciences-nucleaires
 - aeronautique
 - avions
-- materiels-machines
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- france
-- energie-hydroelectrique
-- barrages
-- domaine-maritime
-- stockage-d-energie
-- energie-renouvelable
 - energie
-- energie-maremotrice
+- france
 - energie-nucleaire
+- energie-renouvelable
+- stockage-d-energie
 coverImage: ./images/quora.png
 ---
 

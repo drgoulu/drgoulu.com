@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- internet
+- comportement-humain
 - quora
-- communication-en-ligne
+- comportement
 - reponses
-- conseils-d-utilisation-quora
-- comportement-sur-quora
-- reponses-courtes-sur-quora
-- comportement-humain-sur-internet
-- utilisateurs-de-quora
-- reponses-courtes
 coverImage: ./images/quora.png
 ---
 

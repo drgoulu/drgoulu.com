@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - medecine
-- virus
-- neurologie
 - biologie-humaine
-- maladies-infectieuses
-- systeme-nerveux
-- pathologie
-- immunologie
-- infections-virales
+- virus
 - virologie
+- maladies-infectieuses
 coverImage: ./images/quora.png
 ---
 

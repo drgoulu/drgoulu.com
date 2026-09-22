@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- barbares
-- lecons-apprises
 - civilisation-romaine
 - civilisation-occidentale
-- civilisation-greque
 - histoire-humaine
 - empire-romain
-- barbarie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- entrepreneuriat
-- science-et-technologie
-- innovation
-- demarrage-d-une-entreprise
+- sciences
 - recherche-scientifique
-- creation-d-entreprise
-- publications-scientifiques
-- l-entrepreneuriat
-- entrepreneuriat-technologique
-- lancement-d-une-entreprise
+- technologies
+- creation
+- entreprises
 coverImage: ./images/quora.png
 ---
 

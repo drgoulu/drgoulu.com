@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- reflexion
-- isaac-newton
+- sciences
+- histoire
 - question-hypothetique
-- histoire-des-sciences
 - albert-einstein-physicien
-- demarche-scientifique
-- physiciens
-- progres-scientifique
-- histoire-de-la-physique
 coverImage: ./images/quora.png
 ---
 

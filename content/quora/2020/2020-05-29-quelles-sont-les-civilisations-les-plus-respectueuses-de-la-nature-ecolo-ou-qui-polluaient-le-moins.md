@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-du-monde
+- sciences
+- histoire
+- environnement
+- monde
 - ecologie
-- l-environnement
-- anthropologie
-- pollution
-- civilisations-anciennes
-- civilisation
-- sciences-de-l-environnement
-- respect-de-l-environnement
-- les-civilisations
 coverImage: ./images/qimg-879b3fb2298b4bfb3533b7563ea4699b.jpg
 ---
 

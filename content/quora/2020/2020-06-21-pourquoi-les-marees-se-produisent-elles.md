@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- marees
 - astronomie
-- oceanographie
-- phenomene-naturel
+- chimie
 - phenomenes-physiques
-- physique-et-chimie
-- les-marees
-- phenomene-physique
 coverImage: ./images/qimg-025574628a25e123eddbb15e36b4b8a6.jpg
 ---
 

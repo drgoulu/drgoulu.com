@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- cosmologie-inflationniste
-- l-univers
+- univers
 - cosmologie
-- matiere-physique
-- origine-de-l-univers
 - physique-theorique
-- cosmologie-du-big-bang
-- cosmologie-physique
+- origines
 coverImage: ./images/quora.png
 ---
 

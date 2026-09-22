@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- question-hypothetique
-- astrophysics
-- principe-d-equivalence
-- inertie
-- masse-physique
-- relativite
-- hypotheses
-- gravitation
 - physique-theorique
+- relativite
+- gravitation
+- question-hypothetique
 coverImage: ./images/quora.png
 ---
 

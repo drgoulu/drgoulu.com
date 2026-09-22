@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- personnalites
 - sciences
-- modele-janus
 - cosmologie
-- theorie-scientifique
-- physiciens
-- theories-physiques
 - physique-theorique
+- theorie-scientifique
 coverImage: ./images/quora.png
 ---
 

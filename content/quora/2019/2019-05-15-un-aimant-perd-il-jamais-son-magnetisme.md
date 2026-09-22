@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- aimants
 - sciences
+- chimie
 - electromagnetisme
-- force-magnetique
-- proprietes-physiques
-- science-physique
 - magnetisme
-- physique-et-chimie
 coverImage: ./images/quora.png
 ---
 

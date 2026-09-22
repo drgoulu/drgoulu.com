@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-nature
+- sciences
+- nature
 - geologie
-- seismes
 - catastrophes-naturelles
-- magnitude-sismologie
-- dangers-naturels
-- sismologie
 - geologie-planetaire
-- risques-naturels
 coverImage: ./images/quora.png
 ---
 

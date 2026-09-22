@@ -8,11 +8,8 @@ categories:
 tags:
 - histoire
 - politique
-- vatican
 - religion
-- services-de-renseignement
-- le-vatican
-- catholic-church
+- service
 - renseignement
 coverImage: ./images/quora.png
 ---

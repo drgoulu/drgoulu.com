@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- pierre-de-fermat-avocat-francais
 - nombre-entier
-- dernier-theoreme-de-fermat
-- equations-diophantiennes
-- theorie-des-nombres
-- equations-algebriques
-- equations-mathematiques
+- theorie
+- nombres
+- equations
 coverImage: ./images/quora.png
 ---
 

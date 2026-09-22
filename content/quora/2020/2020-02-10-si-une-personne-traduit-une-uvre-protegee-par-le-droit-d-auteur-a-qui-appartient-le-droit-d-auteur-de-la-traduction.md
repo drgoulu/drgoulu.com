@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - droit
-- traduction-francaise
 - juridique
 - propriete-intellectuelle
-- droit-de-propriete
-- droits-d-auteur
-- traducteurs
-- droit-sur-la-propriete-intellectuelle
-- droit-prive
+- proprietes
+- auteurs
 coverImage: ./images/quora.png
 ---
 

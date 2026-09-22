@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - similitudes
-- l-univers-astronomie
-- infiniment-grand
-- les-arts-visuels
+- univers
+- astronomie
 - exemples
-- ressemblance
-- motifs-visuels
-- infiniment-petit
 coverImage: ./images/quora.png
 ---
 

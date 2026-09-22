@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- conflit-israelo-palestinien
-- messages
-- antisionisme
-- palestine
-- slogan
-- mouvements-sociaux
-- ideologies-politiques
 - israel
-- phrases
+- conflit-israelo-palestinien
+- palestine
+- ideologies-politiques
 coverImage: ./images/quora.png
 ---
 

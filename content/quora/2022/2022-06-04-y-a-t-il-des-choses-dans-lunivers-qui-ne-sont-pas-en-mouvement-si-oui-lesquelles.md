@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- l-univers-astronomie
 - astronomie
-- mouvement
-- le-cosmos
-- cosmologie
 - astrophysique
-- physique-theorique
-- l-univers
-- mouvement-physique
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

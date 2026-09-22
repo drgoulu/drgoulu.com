@@ -8,14 +8,9 @@ categories:
 tags:
 - changement-climatique
 - espace
-- thomas-pesquet
-- l-environnement
+- environnement
 - gouvernement
-- astronautes
-- station-spatiale-internationale
-- appel-a-l-action
-- iss
-- le-rechauffement-climatique
+- rechauffement-climatique
 coverImage: ./images/quora.png
 ---
 

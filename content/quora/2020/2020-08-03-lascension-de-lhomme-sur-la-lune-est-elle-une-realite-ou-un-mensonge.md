@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- astronomie
+- histoire
+- espace
 - exploration-spatiale
-- theories-du-complot
-- histoire-des-sciences
-- lune-astronomie
-- le-programme-apollo
-- voyage-dans-l-espace
-- programme-spatial-americain
-- conquete-spatiale
-- missions-apollo
-- theories-du-complot-specifiques
 coverImage: ./images/quora.png
 ---
 

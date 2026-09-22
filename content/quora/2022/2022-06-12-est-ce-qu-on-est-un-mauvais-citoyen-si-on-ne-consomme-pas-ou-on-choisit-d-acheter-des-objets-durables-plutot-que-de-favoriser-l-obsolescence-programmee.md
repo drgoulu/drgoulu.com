@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
 - societe
-- obsolescence-programmee
-- ethique-philosophie-morale
+- ethique
 - consommation
 - durabilite
-- citoyennete
-- choix-de-vie-responsable
-- environnement-et-societe
-- l-ethique
-- consommation-responsable
 coverImage: ./images/quora.png
 ---
 

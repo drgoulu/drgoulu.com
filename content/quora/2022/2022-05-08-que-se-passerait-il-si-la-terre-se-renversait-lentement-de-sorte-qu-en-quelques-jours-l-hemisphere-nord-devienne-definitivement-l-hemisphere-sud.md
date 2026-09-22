@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- terre
+- planetes
 - changement-climatique
-- terre-planete
-- hemisphere-sud
-- catastrophes-naturelles
-- vitesse-de-rotation-de-la-terre
-- science-de-la-terre
-- catastrophe-environnementale
-- rotation-de-la-terre
-- hemisphere-nord
+- vitesse
 coverImage: ./images/quora.png
 ---
 

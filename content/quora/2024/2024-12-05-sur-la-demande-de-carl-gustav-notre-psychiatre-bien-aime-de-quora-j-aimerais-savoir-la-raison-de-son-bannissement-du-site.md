@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- reseaux-sociaux
-- personne
 - quora
-- bannissement
-- psychiatrie
-- interdits
-- les-psychiatres
-- quoran
+- personne
+- reseaux-sociaux
 - reseaux-sociaux-en-ligne
+- psychiatrie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- economies
+- economie
 - developpement
-- roumanie
-- pays-d-europe
-- niveau-de-vie
+- pays
+- europe
 - developpement-economique-et-social
-- economie-europeenne
-- pays-pauvres
-- europe-de-l-est
-- niveau-de-developpement
 coverImage: ./images/qimg-4e9e25f9a293e78a8a6c375008865b14.jpg
 ---
 

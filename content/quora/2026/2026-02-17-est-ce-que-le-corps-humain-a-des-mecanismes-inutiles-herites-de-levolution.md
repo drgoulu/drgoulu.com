@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- corps-humains
-- evolution-biologie
-- mecanismes
-- selection-naturelle
-- anatomie-humaine
-- evolution-humaine
-- genetique-et-evolution
-- le-corps-humain
 - evolution
-- biologie-de-l-evolution
+- biologie
+- evolution-humaine
+- genetique
+- corps-humains
 coverImage: ./images/quora.png
 ---
 

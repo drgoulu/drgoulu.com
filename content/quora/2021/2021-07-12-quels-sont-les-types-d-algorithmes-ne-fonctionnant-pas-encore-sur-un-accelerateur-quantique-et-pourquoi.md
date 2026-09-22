@@ -9,11 +9,7 @@ tags:
 - informatique
 - sciences
 - ordinateurs-quantiques
-- science-de-l-information-quantique
 - sciences-informatiques
-- algorithme-quantique
-- l-informatique
-- technologie-quantique
 - informatique-quantique
 coverImage: ./images/quora.png
 ---

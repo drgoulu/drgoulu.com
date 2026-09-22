@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- propulsion
-- ingenierie
-- science-et-technologie
-- electricite
+- energie
 - technologies
-- la-propulsion-physique
-- energie-physique
+- ingenierie
 coverImage: ./images/quora.png
 ---
 

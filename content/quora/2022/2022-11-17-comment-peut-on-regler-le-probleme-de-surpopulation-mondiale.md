@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- developpement-durable
 - demographie
 - ressources-naturelles
-- developpement-durable
-- problemes-societaux
-- surpopulation
-- population-mondiale
-- croissance-demographique
-- ressources-planetaire
-- gestion-des-resssources-naturelles
 - demographie-mondiale
+- ressources-planetaire
 coverImage: ./images/quora.png
 ---
 

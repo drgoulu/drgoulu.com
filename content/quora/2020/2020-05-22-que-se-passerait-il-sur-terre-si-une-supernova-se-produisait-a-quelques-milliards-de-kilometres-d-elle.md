@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espace
-- catastrophes-naturelles
-- terre-planete
-- supernova
 - astronomie
-- distance
-- phenomenes-naturels
 - astrophysique
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

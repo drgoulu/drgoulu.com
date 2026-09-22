@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - mathematiques
-- palindromes
-- nombres-naturels
-- curiosites
-- theorie-des-nombres
-- algorithmes
-- problemes-mathematiques
+- theorie
 - nombres
-- enigmes-mathematiques
-- questions-de-mathematiques
+- questions
+- probleme
 coverImage: ./images/quora.png
 ---
 

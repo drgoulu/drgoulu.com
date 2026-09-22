@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - guerre
-- russie
 - politique-internationale
-- vladimir-poutine
-- cible
+- russie
 - ukraine
 - armes-nucleaires
-- kiev
-- securite-internationale
 coverImage: ./images/quora.png
 ---
 

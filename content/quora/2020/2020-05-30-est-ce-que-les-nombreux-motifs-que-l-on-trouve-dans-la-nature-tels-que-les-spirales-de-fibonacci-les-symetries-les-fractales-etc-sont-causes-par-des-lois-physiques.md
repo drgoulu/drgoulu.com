@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- fractales
-- nombres-de-fibonacci
-- motifs-visuels
+- sciences
 - nature
-- symetrie
-- sciences-de-la-nature
-- lois-de-la-physique
-- suite-de-fibonacci
+- nombres
+- loi
 coverImage: ./images/quora.png
 ---
 

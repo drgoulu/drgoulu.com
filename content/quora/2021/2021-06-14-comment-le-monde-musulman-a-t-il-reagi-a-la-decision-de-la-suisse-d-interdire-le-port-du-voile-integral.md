@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- opinion-publique
-- culture
-- islam
+- droit
 - suisse
-- voile-integral
-- interdiction
-- reaction
-- droits-de-l-homme
-- monde-musulman
-- liberte-personnelle
+- opinion-publique
+- homme
+- culture
 coverImage: ./images/qimg-474418789aaeea01f1d129a8e0186588.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - histoire
-- methodes-de-peine-capitale
-- execution
-- la-revolution-francaise
+- methodes
+- revolution-francaise
 - xviiie-siecle
-- guillotine-peine-capitale
-- histoire-de-france
-- revolution-de-1789
-- execution-capitale
-- l-histoire
+- france
 coverImage: ./images/quora.png
 ---
 

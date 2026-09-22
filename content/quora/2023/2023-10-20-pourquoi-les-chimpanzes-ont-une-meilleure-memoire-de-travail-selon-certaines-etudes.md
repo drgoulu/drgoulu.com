@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- etude-scientifique
+- travail
 - comportement-animal
-- psychologie-cognitive
 - primates
-- etudes-scientifiques
-- memoire-de-travail
-- chimpanzes
-- neurobiologie
-- intelligence-animale
-- psychologie-animale
-- neuropsychologie
+- psychologie-cognitive
 coverImage: ./images/quora.png
 ---
 

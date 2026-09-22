@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- formation
-- terre-planete
-- habitabilite
-- probabilites-statistiques
-- exoplanetes
+- terre
+- planetes
 - astrobiologie
-- habitabilite-planetaire
-- probabilite
+- exoplanetes
 coverImage: ./images/qimg-34e6fef51eeb9b5d9165044936b44aad.jpg
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Combien
 tags:
 - physique
-- trous-noirs
 - sciences
 - astronomie
-- l-univers
-- objets-astronomiques
 - astrophysique
-- science-physique
-- astronomie-d-observation
+- univers
 coverImage: ./images/qimg-cb1135180f72254c7811569849f6e70a.jpg
 ---
 

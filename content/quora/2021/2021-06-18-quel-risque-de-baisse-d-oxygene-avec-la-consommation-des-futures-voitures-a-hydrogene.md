@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-environnement
-- technologie-automobile
-- risques-pour-la-sante
-- energie-alternative
-- hypoxie-medicale
-- carburant-a-l-hydrogene
-- consommation-d-energie
+- energie
 - environnement
-- securite-automobile
-- voitures-a-hydrogene
+- sante
+- risques
+- consommation
 coverImage: ./images/qimg-8d7a4778b3e08253268d4a54a670e123.jpg
 ---
 

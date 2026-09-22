@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - biologie
-- eau
-- la-vie
-- solvants
-- oxygene
-- sciences-de-la-vie
+- vie
 - chimie
-- solution
-- astrobiologie
-- vie-biologique
+- eau
 coverImage: ./images/qimg-0d9360d9b9aa14a8c813f75116264c2d.gif
 ---
 

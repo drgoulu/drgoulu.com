@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- l-age-de-la-terre
+- age
+- terre
 - geologie
-- datation
-- histoire-des-sciences
-- techniques-scientifiques
-- sciences-de-la-terre
-- histoire-de-la-terre
-- geologie-historique
-- la-science-de-la-terre
+- histoire
 coverImage: ./images/quora.png
 ---
 

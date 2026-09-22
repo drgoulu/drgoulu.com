@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- conseils
 - guerre
-- sun-tzu-philosophe
+- art
+- conseils
 - realite
-- strategie-militaire
 - histoire-militaire
-- l-art-de-la-guerre-livre
-- guerre-moderne
-- art-de-la-guerre
-- sun-tzu
 coverImage: ./images/quora.png
 ---
 

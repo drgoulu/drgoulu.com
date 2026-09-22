@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - geographie
-- samoa
-- l-iles-du-pacifique
-- fuseaux-horaires
-- oceanie
+- etats-unis
 - distance
-- iles
-- territoires-des-etats-unis
-- samoa-americaines
-- decalage-horaire
+- territoires
+- iles-du-pacifique
 coverImage: ./images/quora.png
 ---
 

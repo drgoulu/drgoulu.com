@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- pollution-plastique
-- alimentation
-- ecologie
-- pollution
-- consommation
-- sciences-de-l-environnement
-- microplastiques
+- sciences
 - environnement
-- sante-humaine
+- sante
+- ecologie
+- consommation
 coverImage: ./images/quora.png
 ---
 

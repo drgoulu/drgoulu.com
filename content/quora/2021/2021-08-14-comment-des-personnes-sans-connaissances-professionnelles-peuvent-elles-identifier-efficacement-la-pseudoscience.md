@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- education
 - sciences
-- pensee-critique
 - recherche-scientifique
-- pseudoscience
-- methodologie
-- critique
-- connaissances-scientifiques
-- la-methode-scientifique
-- enseignement-des-sciences
+- education
+- enseignement
+- methode-scientifique
 coverImage: ./images/quora.png
 ---
 

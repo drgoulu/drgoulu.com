@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-environnement
+- terre
+- planetes
+- environnement
 - humanite
-- terre-planete
-- ecologie
 - especes
-- catastrophes-environnementales
-- biodiversite
-- espece-humaine
-- l-humanite
-- planete-terre
 coverImage: ./images/qimg-dcca1b340503036c04fbaeeb293745d0.jpg
 ---
 

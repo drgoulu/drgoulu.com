@@ -7,11 +7,9 @@ categories:
 - Pourquoi
 tags:
 - physique
-- uranium-appauvrie
-- science-et-technologie
-- alternateurs
-- batteries
+- sciences
 - energie
+- technologies
 - ingenierie
 coverImage: ./images/quora.png
 ---

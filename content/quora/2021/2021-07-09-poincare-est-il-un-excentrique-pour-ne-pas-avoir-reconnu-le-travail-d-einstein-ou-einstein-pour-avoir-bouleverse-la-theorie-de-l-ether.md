@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- henri-poincare-mathematicien-francais
-- albert-einstein-physicien
-- histoire-des-sciences
-- ether-ethylique
-- theorie-de-la-relativite
-- philosophie-des-sciences
-- physique-theorique
-- relativite-physique
-- histoire-de-la-physique
+- sciences
+- histoire
+- philosophie
+- theorie
 coverImage: ./images/quora.png
 ---
 

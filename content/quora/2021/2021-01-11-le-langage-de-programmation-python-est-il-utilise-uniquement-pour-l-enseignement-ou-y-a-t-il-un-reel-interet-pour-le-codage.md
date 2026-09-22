@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- education
+- sciences
 - informatique
-- codage
-- python-langage-de-programmation
-- developpement-logiciel
-- langages-de-programmation
-- enseignement
-- science-de-l-informatique
-- programmation-en-python
-- langage-de-programmation
+- programmation
+- langage
+- education
 coverImage: ./images/quora.png
 ---
 

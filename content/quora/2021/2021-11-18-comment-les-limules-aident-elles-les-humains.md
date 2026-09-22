@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
+- biologie
+- recherche-scientifique
 - sante
 - animaux
-- sciences
-- benefices
-- zoologie
-- recherche-scientifique
-- medecine
-- biologie
-- sante-des-hommes
-- science-nature
 coverImage: ./images/quora.png
 ---
 

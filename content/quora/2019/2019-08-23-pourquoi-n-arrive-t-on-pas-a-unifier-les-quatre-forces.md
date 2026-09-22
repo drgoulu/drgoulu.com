@@ -7,13 +7,9 @@ categories:
 - Pourquoi
 tags:
 - physique
-- unification
-- theorie-du-tout
 - modele-standard-de-la-physique-des-particules
-- unites-de-force
 - forces-fondamentales
 - physique-theorique
-- physique-fondamentale
 - theories-de-tout-physique
 coverImage: ./images/quora.png
 ---

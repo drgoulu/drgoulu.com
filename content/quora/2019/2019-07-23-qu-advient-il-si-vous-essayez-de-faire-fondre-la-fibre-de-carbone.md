@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- fibres-de-carbone
-- fusion
-- materiaux
-- science-des-materiaux-et-ingenierie
+- sciences
 - chimie
-- point-de-fusion
-- carbone-element
-- chimie-des-materiaux
-- ingenieurie-des-materiaux
+- materiaux
+- ingenierie
 coverImage: ./images/qimg-366391a22d42513c1854d650c47b6e6c.png
 ---
 

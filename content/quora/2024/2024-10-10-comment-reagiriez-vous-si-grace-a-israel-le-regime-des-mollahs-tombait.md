@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - relations-internationales
-- iran
 - conflit-israelo-palestinien
 - reaction
 - israel
-- crise-de-regime
 - politique-internationale
-- regime-autoritaire
-- changement-de-regime
-- reactivite
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- hommes-primitifs
-- anthropologie
-- couleur-de-la-peau
+- monde
 - evolution-humaine
-- archeologie-prehistorique
-- histoire-du-monde
+- anthropologie
 - histoire-humaine
-- origines-humaines
-- humains-prehistoriques
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - mathematiques
-- nombre
-- probleme-mathematique-integral
-- nombres-naturels
-- nombres-mathematiques
-- questions-de-mathematiques
-- arithmetique
-- sciences-mathematiques
-- problemes-mathematiques
-- problemes-de-maths
+- nombres
+- questions
+- maths
 coverImage: ./images/quora.png
 ---
 

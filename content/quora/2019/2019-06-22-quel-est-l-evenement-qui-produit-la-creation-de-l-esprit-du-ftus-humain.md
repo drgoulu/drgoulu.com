@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- developpement-prenatal
-- creation
-- esprit-humain
-- biologie-humaine
-- developpement
-- developpement-de-l-enfant
 - biologie
-- developpement-cerebral
+- biologie-humaine
+- creation
+- developpement
 coverImage: ./images/quora.png
 ---
 

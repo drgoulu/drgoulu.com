@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- realite
-- mathematiques
-- la-perception
 - physique
-- la-realite
-- philosophie-de-la-physique
-- philosophie-des-sciences
-- philosophie-des-mathematiques
-- post
+- sciences
+- philosophie
+- mathematiques
+- perception
 coverImage: ./images/quora.png
 ---
 

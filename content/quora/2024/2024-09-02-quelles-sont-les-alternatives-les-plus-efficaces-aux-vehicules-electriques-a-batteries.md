@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- transport
-- energie-physique
-- durabilite
-- industrie-automobile
-- voitures-electriques
-- sources-d-energies-alternatives
+- physique
+- energie
 - transports
-- moteurs-electriques
-- vehicules-electriques
+- durabilite
+- voitures-electriques
 coverImage: ./images/qimg-8c37ac6d1e5570e2d3a471aaf57ff167.jpg
 ---
 

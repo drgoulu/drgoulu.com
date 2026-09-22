@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- problemes-insolubles
-- sequences-de-nombres
-- theorie-des-nombres-premiers
-- puzzles-logiques
-- suites-mathematiques
-- problemes-mathematiques
-- questions-mathematiques
-- theorie-des-nombres
+- theorie
+- nombres
+- questions
+- probleme
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- comprehension
-- albert-einstein-physicien
-- mecanique-quantique
 - theorie
-- relativite-generale
-- theorie-de-la-relativite
 - physique-theorique
-- relativite-physique
-- physique-quantique
+- relativite
+- albert-einstein-physicien
 coverImage: ./images/quora.png
 ---
 

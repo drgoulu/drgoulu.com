@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sante
-- covid-19-2019-2020
 - recherche-scientifique
-- maladies-virales
-- virologie
-- developpement-de-medicaments
-- remede
+- sante
 - sante-publique
-- maladies-infectieuses
-- recherche-medicale
+- covid-19-2019-2020
+- developpement
 coverImage: ./images/quora.png
 ---
 

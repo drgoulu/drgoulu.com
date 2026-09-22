@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- reflexion
 - sciences
-- miroirs
-- effet-optique
-- image-miroir
+- chimie
 - optique
-- illusion-d-optique
-- physique-chimie
-- reflexion-physique
+- reflexion
 coverImage: ./images/qimg-cd5547b833a60687cd08eb4c6335b1c3.jpg
 ---
 

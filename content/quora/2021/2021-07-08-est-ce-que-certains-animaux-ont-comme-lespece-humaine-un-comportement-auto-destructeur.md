@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- animaux
+- psychologie
 - comportement-humain
-- l-autodestruction
-- l-humain-et-les-animaux
-- ethologie
-- bien-etre-animal
-- psychologie-des-animaux
-- relation-homme-animal
 - comportement-animal
-- ethique-animale
-- comportement-auto-destructeur
+- humains
 coverImage: ./images/quora.png
 ---
 

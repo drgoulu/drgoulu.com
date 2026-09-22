@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- salaires-et-remunerations
-- csg
-- tva
+- revenu
 - fiscalite
 - economie-generale
-- charges-sociales
-- impot-sur-le-revenu
-- employabilite
+- salaires-et-remunerations
 - politique-fiscale
-- remuneration
 coverImage: ./images/quora.png
 ---
 

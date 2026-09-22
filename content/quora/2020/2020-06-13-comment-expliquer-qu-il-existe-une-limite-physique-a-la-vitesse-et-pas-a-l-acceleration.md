@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- vitesse-maximum
-- acceleration-physique
-- vitesse-physique
-- mecanique-physique
-- quantites-physiques
+- sciences
 - physique-theorique
-- science-physique
-- vitesse-terminale
-- deceleration-vitesse
+- vitesse
+- mecanique
 coverImage: ./images/quora.png
 ---
 

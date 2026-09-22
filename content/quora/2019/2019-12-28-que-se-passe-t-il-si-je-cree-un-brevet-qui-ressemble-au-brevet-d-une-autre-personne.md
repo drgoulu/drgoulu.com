@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- juridique
+- droit
+- matiere
+- propriete-intellectuelle
 - brevets
-- contrefacon
-- droit-sur-la-propriete-intellectuelle
-- procedure
-- violation-de-regles
-- litiges-en-matiere-de-brevets
-- juridiction
-- procedure-judiciaire
-- droit-des-brevets
+- juridique
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
+- sciences
 - philosophie
-- question-existentielle
-- temps-physique
-- relativite-generale
-- le-temps
-- theorie-de-la-relativite
-- question-hypothetique
-- relativite-restreinte
-- philosophie-des-sciences
-- relativite-physique
+- theorie
+- relativite
 coverImage: ./images/quora.png
 ---
 

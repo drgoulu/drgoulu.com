@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- opinion-publique
-- loups
-- ecologie
+- environnement
 - suisse
-- animaux-sauvages
-- protection-de-l-environnement
-- gestion-de-la-faune
-- politiques-environnementales
-- conservation-de-la-faune
-- faune-sauvage
+- ecologie
+- opinion-publique
+- faune
 coverImage: ./images/quora.png
 ---
 

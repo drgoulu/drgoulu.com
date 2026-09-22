@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
 - relations-internationales
-- pauvrete
-- occident
-- colonisation
-- afrique
 - ressources-naturelles
-- inegalites-de-revenu
-- exploitation-miniere
-- histoire-de-l-afrique
-- colonisation-europeenne
+- afrique
+- inegalite
 coverImage: ./images/quora.png
 ---
 

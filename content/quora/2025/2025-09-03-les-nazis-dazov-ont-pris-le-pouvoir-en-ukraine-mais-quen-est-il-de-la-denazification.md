@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- guerre
+- conflits
 - ukraine
-- nazisme
-- bataillon-azov
-- operation-militaire-russe-en-ukraine
 - extreme-droite
-- conflit-en-ukraine
-- politique-ukrainienne
 - guerre-russie-ukraine
-- nationalisme
-- guerre-en-ukraine
 coverImage: ./images/quora.png
 ---
 

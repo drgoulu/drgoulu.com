@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- pieces-de-monnaie
-- debat
 - question-hypothetique
-- theisme
+- debat
 - statistiques
-- jeux-de-hasard
-- probabilite-statistiques
-- question-philosophique
-- atheisme
+- jeux
 coverImage: ./images/quora.png
 ---
 

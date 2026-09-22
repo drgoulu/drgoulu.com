@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - france
-- integration-culturelle
+- opinion
 - opinion-publique
-- immigration
-- candidat-a-la-presidence
-- nationalisme
-- diversite
-- presidence-de-la-republique-francaise
 - president
-- opinion-politique
 coverImage: ./images/quora.png
 ---
 

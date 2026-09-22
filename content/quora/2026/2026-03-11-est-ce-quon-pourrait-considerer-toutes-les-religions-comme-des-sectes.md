@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - religion
+- sociologie
+- comparaisons
+- culture
 - definition
-- comparaison-de-culture
-- sociologie-de-la-religion
-- les-sectes
-- culture-religieuse
-- critique-de-la-religion
-- secte
-- groupes-religieux
-- religion-et-culture
 coverImage: ./images/quora.png
 ---
 

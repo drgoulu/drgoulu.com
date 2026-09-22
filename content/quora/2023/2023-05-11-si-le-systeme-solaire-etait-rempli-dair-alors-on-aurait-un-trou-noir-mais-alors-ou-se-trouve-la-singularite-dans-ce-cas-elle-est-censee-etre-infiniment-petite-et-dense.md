@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
 - astronomie
-- singularite
-- systeme-solaire
-- relativite-physique
-- cosmologie
 - astrophysique
-- densite-physique
-- gravite-physique
+- cosmologie
+- relativite
 coverImage: ./images/quora.png
 ---
 

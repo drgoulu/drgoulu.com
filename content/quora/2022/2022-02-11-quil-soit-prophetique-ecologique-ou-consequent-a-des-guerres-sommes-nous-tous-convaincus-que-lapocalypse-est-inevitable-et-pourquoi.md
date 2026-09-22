@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - philosophie
-- scenarios-de-fin-du-monde
-- guerre
-- croyance
 - societe
-- apocalypse
-- opinions-et-croyances
 - ecologie
-- propheties
-- la-fin-du-monde
+- opinion
+- croyance
 coverImage: ./images/quora.png
 ---
 

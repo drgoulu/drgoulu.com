@@ -10,12 +10,7 @@ tags:
 - scenarios-hypothetiques
 - geopolitique
 - chine
-- histoire-du-xxe-siecle
-- puissance-economique
-- histoire-de-la-russie
-- puissance-mondiale
-- histoire-de-la-chine
-- histoire-de-l-urss
+- histoire
 coverImage: ./images/quora.png
 ---
 

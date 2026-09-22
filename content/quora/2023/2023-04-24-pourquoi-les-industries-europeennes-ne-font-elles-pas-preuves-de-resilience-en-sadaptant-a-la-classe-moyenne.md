@@ -7,9 +7,7 @@ categories:
 - Pourquoi
 tags:
 - sociologie
-- industries-francaises
 - adaptation
-- resilience-qualite-humaine
 - classe-moyenne-classe-sociale
 - economie-europeenne
 - resilience

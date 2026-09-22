@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- energie
 - ecologie
 - ressources-naturelles
 - energie-alternative
-- metaux-rares
-- technologie-propre
-- transition-energetique
-- production-d-energie
-- technologies-vertes
+- production
 coverImage: ./images/quora.png
 ---
 

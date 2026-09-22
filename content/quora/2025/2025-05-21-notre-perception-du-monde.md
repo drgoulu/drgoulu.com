@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- representations
-- anthropocentrisme
-- vision-du-monde
-- epistemologie
-- objectivite
-- pensee-humaine
-- la-perception
+- monde
 - theorie-scientifique
-- connaissance-du-monde
+- perception
+- epistemologie
 coverImage: ./images/quora.png
 ---
 

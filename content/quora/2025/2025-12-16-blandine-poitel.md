@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - communication
-- malentendus
-- reponse
-- discussion
+- reponses
 - intervention
 - discours
 - incomprehension
-- dialogue
-- conversations
 coverImage: ./images/quora.png
 ---
 

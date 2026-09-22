@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- comportement-humain
-- primates
-- violence
-- anthropologie-culturelle
-- nature-humaine
-- comportement
 - evolution-humaine
-- philosophie-des-sciences
 - anthropologie
+- comportement-humain
 coverImage: ./images/quora.png
 ---
 

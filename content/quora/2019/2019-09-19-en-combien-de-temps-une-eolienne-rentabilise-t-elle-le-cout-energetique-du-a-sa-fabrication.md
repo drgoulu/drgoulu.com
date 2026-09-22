@@ -7,13 +7,10 @@ categories:
 - Combien
 tags:
 - energie
-- rentabilite
 - energie-renouvelable
-- eoliennes
-- cout-du-travail
+- travail
 - sources-d-energie
-- facture-energetique
-- rentabilisation
+- cout
 coverImage: ./images/quora.png
 ---
 

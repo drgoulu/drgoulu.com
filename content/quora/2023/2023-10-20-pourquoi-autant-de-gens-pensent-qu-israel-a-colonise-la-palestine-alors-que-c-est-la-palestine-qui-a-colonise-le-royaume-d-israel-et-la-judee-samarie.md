@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
 - israel
-- colonisation
 - conflit-israelo-palestinien
-- judee-et-samarie
-- territoires
 - palestine
-- histoire-de-la-palestine
-- judee
-- histoire-d-israel
-- histoire-israelite
+- colonisation
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
 - astronomie
-- unites-de-longueur
-- calcul-mathematique
-- distance-physique
-- science-spatiale
 - astrophysique
-- objets-astronomiques
-- astronomie-et-astrophysique
-- unites-de-mesure
-- distance-physique-et-mathematiques
+- mathematiques
+- science-spatiale
 coverImage: ./images/quora.png
 ---
 

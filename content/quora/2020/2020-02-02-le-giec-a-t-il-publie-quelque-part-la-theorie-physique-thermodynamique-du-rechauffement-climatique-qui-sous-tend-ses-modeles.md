@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- changement-climatique
-- physique-theorique
-- modeles
-- climatologie
-- thermodynamique
+- sciences
 - theorie
-- science-environnementale
+- physique-theorique
+- changement-climatique
 - rechauffement-climatique
-- sciences-du-climat
 coverImage: ./images/quora.png
 ---
 

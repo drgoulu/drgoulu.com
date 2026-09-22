@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - biologie
-- linguistique-francaise
-- animal
-- plante
-- etymologie
-- linguistique
-- nom-scientifique
-- espece-animale
-- taxonomie
+- animaux
 - science-biologique
+- taxonomie
+- linguistique
 coverImage: ./images/quora.png
 ---
 

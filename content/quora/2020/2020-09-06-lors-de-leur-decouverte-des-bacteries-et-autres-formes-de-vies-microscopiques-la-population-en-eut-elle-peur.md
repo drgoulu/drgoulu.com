@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- peur
-- histoire-des-sciences
-- reaction-humaine
-- microbiologie
-- les-populations
+- sciences
+- histoire
+- biologie
 - decouvertes-scientifiques
-- bacterie
-- attitude-et-reaction
-- micro-organismes
-- histoire-de-la-biologie
+- population
 coverImage: ./images/quora.png
 ---
 

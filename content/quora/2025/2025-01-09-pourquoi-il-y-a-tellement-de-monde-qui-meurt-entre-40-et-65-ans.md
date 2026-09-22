@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- vie
 - sante
-- demographie-mondiale
-- tranches-d-age
-- deces
-- esperance-de-vie
 - statistiques
-- mortalite
-- causes-de-deces
 - demographie
+- mortalite
 coverImage: ./images/qimg-0d56e1d2c2ee27958ee5196d4efb1d6a.png
 ---
 

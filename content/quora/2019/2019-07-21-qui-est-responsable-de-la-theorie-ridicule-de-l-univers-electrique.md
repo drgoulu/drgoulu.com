@@ -9,13 +9,8 @@ tags:
 - physique
 - sciences
 - astronomie
-- l-univers
-- electricite
-- hypotheses-scientifiques
-- theorie
+- univers
 - cosmologie
-- physique-theorique
-- theorie-scientifique
 coverImage: ./images/quora.png
 ---
 

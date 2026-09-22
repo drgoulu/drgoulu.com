@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- curiosite
-- fonctionnement-du-corps
-- sujets-de-la-vie-quotidienne
-- fabrication
-- connaissance-du-monde
+- sciences
+- technologies
+- monde
 - ingenierie
-- la-technologie
-- curiosite-intellectuelle
-- objets-du-quotidien
+- connaissances
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- mort-imminente
-- corps-humains
+- psychologie
 - conscience
-- decorporation
+- corps-humains
 - spiritualite
-- la-vie-apres-la-mort
-- vie-et-mort
-- philosophie-et-psychologie
-- conscience-humaine
 coverImage: ./images/quora.png
 ---
 

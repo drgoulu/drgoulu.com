@@ -9,11 +9,8 @@ tags:
 - astronomie
 - systeme-solaire
 - science-spatiale
-- planetes-astronomie
-- planetaire
-- planetes-du-systeme-solaire
-- astronomie-et-astrophysique
-- le-systeme-solaire
+- planetes
+- astrophysique
 coverImage: ./images/quora.png
 ---
 

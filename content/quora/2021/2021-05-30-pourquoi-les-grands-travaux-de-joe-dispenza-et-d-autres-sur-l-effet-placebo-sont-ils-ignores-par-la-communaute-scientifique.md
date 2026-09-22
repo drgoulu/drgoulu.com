@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- recherche-scientifique
 - psychologie
-- dr-joe-dispenza
-- communaute-scientifique
-- effets-placebo-sante
 - recherche
 - medecine
-- neuroscience
 - psychologie-cognitive
-- recherche-scientifique
 coverImage: ./images/quora.png
 ---
 

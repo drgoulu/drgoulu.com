@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- environnement
 - changement-climatique
-- temperatures
-- climatologie
-- sciences-de-l-environnement
-- climats
 - rechauffement-climatique
-- refroidissement-climatique
-- le-rechauffement-climatique
-- changement-du-climat
-- science-de-l-environnement
+- climatologie
 coverImage: ./images/qimg-5779f2b3724ad63d49463e51bd960fea.png
 ---
 

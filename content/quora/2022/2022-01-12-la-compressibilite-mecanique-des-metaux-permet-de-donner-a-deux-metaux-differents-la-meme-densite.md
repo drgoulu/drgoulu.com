@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- metaux
-- science-des-materiaux-et-ingenierie
-- proprietes
-- densite
-- mecanique-physique
-- physique-des-materiaux
-- proprietes-physiques
-- densite-physique
+- sciences
+- materiaux
+- ingenierie
+- mecanique
 coverImage: ./images/quora.png
 ---
 

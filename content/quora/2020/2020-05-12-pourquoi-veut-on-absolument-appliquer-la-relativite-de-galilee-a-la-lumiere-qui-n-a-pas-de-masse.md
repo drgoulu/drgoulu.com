@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- referentiel-galileen
-- relativite-restreinte
-- galilee
-- lumiere-physique
-- masse-physique
-- relativite-physique
 - physique-theorique
-- astrophysique-relativiste
+- relativite
+- lumiere
 coverImage: ./images/quora.png
 ---
 

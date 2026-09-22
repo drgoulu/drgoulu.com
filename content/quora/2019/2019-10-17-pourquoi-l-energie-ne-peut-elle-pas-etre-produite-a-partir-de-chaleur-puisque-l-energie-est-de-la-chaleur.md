@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- chaleur
-- conversion-de-l-energie
-- lois-de-la-thermodynamique
-- energie-physique
+- energie
+- loi
+- production
 - thermodynamique
-- equilibre-thermodynamique
-- energie-chimique
-- energie-thermique
-- production-d-energie
 coverImage: ./images/qimg-410eb286014cec0d65ce055670eac993.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- question-sondage
-- experiences-personnelles
-- peur
-- blessures
-- traumatisme
+- questions
 - experience
-- question-de-sondage
-- experiences
-- traumatisme-sante
+- sondages
+- experiences-personnelles
 coverImage: ./images/quora.png
 ---
 

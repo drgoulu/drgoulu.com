@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- la-vie
-- recherche-scientifique
-- univers-infini
-- vie-extraterrestre
-- l-univers
-- cosmologie
 - astrophysique
-- hypotheses-scientifiques
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

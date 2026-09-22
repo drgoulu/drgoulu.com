@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - histoire
-- personne-reelle
-- urss
-- les-etats-unis-d-amerique
-- prix-nobel-en-physique
 - politique
-- accusation
-- guerre-froide
-- prix-nobel
+- etats-unis
+- ameriques
 coverImage: ./images/quora.png
 ---
 

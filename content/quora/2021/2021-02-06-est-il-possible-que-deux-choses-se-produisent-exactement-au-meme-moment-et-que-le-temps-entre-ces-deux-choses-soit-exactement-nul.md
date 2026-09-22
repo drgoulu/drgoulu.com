@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- relativite-restreinte
-- hypotheses-scientifiques
-- simultaneite-physique
-- philosophie-du-temps
-- temps-physique
-- theorie-de-la-relativite
-- relativite-generale
-- relativite-physique
+- philosophie
+- theorie
+- relativite
+- temps
 coverImage: ./images/quora.png
 ---
 

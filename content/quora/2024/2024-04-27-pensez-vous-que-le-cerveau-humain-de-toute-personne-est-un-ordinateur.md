@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- ordinateurs
-- intelligence-artificielle
-- cerveau-humain
+- psychologie
 - question-philosophique
-- science-du-cerveau
-- philosophie-et-psychologie
-- idee-philosophique
-- l-intelligence-artificielle
-- philosophie-et-science
+- intelligence-artificielle
 coverImage: ./images/quora.png
 ---
 

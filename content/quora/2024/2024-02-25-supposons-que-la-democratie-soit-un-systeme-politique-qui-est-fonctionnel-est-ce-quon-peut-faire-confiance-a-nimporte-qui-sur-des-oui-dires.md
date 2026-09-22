@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- opinion-publique
-- confiance
-- theorie-politique
-- rumeurs
-- systeme-gouvernemental
-- democratie
-- croyances
-- psychologie-politique
-- philosophie-politique
+- philosophie
+- theorie
+- politique
+- psychologie
+- croyance
 coverImage: ./images/quora.png
 ---
 

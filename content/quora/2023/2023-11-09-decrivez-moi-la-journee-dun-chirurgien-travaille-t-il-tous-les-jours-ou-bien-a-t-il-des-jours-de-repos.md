@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sante
+- temps
 - medecine
-- heures-de-travail
-- professionnel-de-sante
-- chirurgiens
-- jours-de-repos
-- conditions-de-travail
-- horaires
-- chirurgie
-- temps-de-travail
-- medecin
+- travail
+- jours
 coverImage: ./images/quora.png
 ---
 

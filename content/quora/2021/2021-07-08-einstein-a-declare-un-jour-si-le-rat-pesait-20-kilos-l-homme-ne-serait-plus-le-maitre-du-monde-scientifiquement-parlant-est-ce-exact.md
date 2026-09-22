@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- animal
-- evolution-processus
-- rats
-- albert-einstein-physicien
-- domination
+- evolution
 - biologie
-- espece-humaine
+- processus
+- animaux
 coverImage: ./images/quora.png
 ---
 

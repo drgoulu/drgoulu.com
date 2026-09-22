@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - philosophie
-- mesure
-- auto-reference
 - realite
 - epistemologie
-- definitions
-- methodologie
-- philosophie-et-science
-- philosophie-des-sciences
+- definition
 coverImage: ./images/quora.png
 ---
 

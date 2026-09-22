@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - france
-- predictions-politique
-- election-presidentielle-francaise-2022
-- sondages
 - politique-francaise
-- candidats-a-la-presidentielle-americaine
-- candidats-politiques
+- sondages
 - predictions
-- vie-politique-francaise
 coverImage: ./images/quora.png
 ---
 

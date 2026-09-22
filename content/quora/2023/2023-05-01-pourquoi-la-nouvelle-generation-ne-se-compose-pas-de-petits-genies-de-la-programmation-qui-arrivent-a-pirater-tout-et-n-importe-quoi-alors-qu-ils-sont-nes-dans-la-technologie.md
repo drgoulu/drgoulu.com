@@ -8,13 +8,9 @@ categories:
 tags:
 - societe
 - question-philosophique
-- piratage-securite-informatique
 - nouvelles-technologies
-- competences
-- generations
 - philosophique
-- revolution-technologique
-- competences-en-programmation-informatique
+- competences
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- anthropologie-culturelle
-- progres-scientifique
 - theorie
+- humanite
 - evolution-humaine
-- histoire-de-l-humanite
-- origines-humaines
 - anthropologie
-- developpement-humain
-- histoire-humaine
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- vie
 - sante-publique
-- facteurs
-- cancer
-- traitements-medicaux
 - epidemiologie
 - maladies
-- duree-de-vie
-- sante-humaine
-- taux-de-mortalite
-- prolongation-de-vie
+- duree
 coverImage: ./images/quora.png
 ---
 

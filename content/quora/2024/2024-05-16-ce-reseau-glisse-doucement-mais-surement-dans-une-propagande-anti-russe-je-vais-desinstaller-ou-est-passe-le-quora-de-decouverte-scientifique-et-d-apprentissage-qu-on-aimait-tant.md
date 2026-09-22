@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- reseaux-sociaux
+- recherche-scientifique
 - opinion
 - russie
-- apprentissage
 - quora
 - opinion-personnelle
-- recherche-scientifique
-- propagande
-- la-desinformation
-- propagande-russe
 coverImage: ./images/quora.png
 ---
 

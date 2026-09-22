@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- l-environnement
-- consommation
-- industrie-alimentaire
-- ressources-naturelles
-- eau-minerale
-- marques-commerciales
 - environnement
-- ressources-en-eau
-- production-alimentaire
-- reserves-naturelles
+- eau
+- consommation
+- ressources-naturelles
+- ressources
 coverImage: ./images/qimg-82c01be4e30ea6beb702544780daae9d.jpg
 ---
 

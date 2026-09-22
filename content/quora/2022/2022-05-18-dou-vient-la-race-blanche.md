@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- sociologie
-- groupes-ethniques
-- anthropologie-culturelle
-- origines-humaines
-- histoire-du-monde
-- histoire-humaine
-- races-humaines
+- monde
 - anthropologie
-- l-histoire
+- sociologie
+- histoire-humaine
 coverImage: ./images/quora.png
 ---
 

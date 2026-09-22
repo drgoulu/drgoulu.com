@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- l-europe
-- politique-fiscale
-- defaut-de-paiement-dette
-- economie-europeenne
+- europe
 - finances-publiques
-- dette-gouvernementale
-- crise-de-la-dette-europeenne
-- politique-macroeconomique
 - dette-publique
+- politique-fiscale
 - politique-economique
 coverImage: ./images/quora.png
 ---

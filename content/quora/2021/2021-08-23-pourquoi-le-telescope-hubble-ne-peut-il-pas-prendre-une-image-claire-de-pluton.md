@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- pluton-planete-naine
 - exploration-spatiale
 - systeme-solaire
-- telescope-spatial-hubble
 - objets-astronomiques
-- observatoires-spatiaux
-- astronomie-d-observation
+- observation
 coverImage: ./images/qimg-49e509182c5de75fa3854757128b939a.jpg
 ---
 

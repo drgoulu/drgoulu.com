@@ -6,13 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - recherche-scientifique
-- large-hadron-collider-lhc
-- modele-standard-de-la-physique-des-particules
-- theories-physiques
 - etude-scientifique
-- concepts-en-physique
-- recherches-scientifiques
+- theories-physiques
+- concepts
 coverImage: ./images/qimg-52f8fc853a29e9a80e9b0954988c2d74.jpg
 ---
 

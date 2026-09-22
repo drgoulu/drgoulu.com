@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- sciences-de-la-nature
-- climatologie
-- arbres-plantes
-- histoire-de-la-terre
-- endrochronologie
-- etudes-scientifiques
-- dendrologie
-- paleoclimatologie
-- sciences-du-climat
-- science-de-l-environnement
+- sciences
+- histoire
+- terre
+- environnement
+- nature
 coverImage: ./images/quora.png
 ---
 

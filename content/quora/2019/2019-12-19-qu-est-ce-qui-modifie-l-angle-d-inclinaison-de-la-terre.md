@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- terre-planete
+- sciences
 - astronomie
-- sciences-de-la-nature
-- geologie
-- forme-de-la-terre
-- orbite-de-la-terre
-- rotation-de-la-terre
-- science-de-la-terre
-- geologie-planetaire
+- terre
+- planetes
 coverImage: ./images/qimg-4faba025d025ce806275006c6535f031.png
 ---
 

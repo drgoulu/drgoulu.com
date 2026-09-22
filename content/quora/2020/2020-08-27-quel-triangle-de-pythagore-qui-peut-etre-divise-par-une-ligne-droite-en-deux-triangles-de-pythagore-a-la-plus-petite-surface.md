@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- surface
-- pythagore
-- triangles
+- questions
 - geometrie
-- theoreme-de-pythagore
-- problemes-mathematiques
-- enigmes-mathematiques
-- questions-de-mathematiques
+- probleme
+- enigmes
 coverImage: ./images/quora.png
 ---
 

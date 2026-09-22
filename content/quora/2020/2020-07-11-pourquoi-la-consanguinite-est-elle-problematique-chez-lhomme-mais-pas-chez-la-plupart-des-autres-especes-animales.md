@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- biologie-humaine
-- evolution-processus
-- genetique
+- evolution
+- processus
 - especes
-- maladie-hereditaire
+- biologie-humaine
 - biologie-animale
-- reproduction
-- consanguinite
-- reproduction-animale
 coverImage: ./images/quora.png
 ---
 

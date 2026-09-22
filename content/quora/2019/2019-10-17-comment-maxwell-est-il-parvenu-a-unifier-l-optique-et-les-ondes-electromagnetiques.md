@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- personnalites
-- james-clerk-maxwell-physicien
-- histoire-des-sciences
-- ondes-electromagnetiques
-- unification
-- optique
-- theorie-de-l-electromagnetisme
-- histoire-de-la-physique
+- sciences
+- histoire
+- theorie
+- electromagnetisme
 coverImage: ./images/quora.png
 ---
 

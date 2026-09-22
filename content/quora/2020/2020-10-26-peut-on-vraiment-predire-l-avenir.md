@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- destin
-- libre-arbitre
 - question-existentielle
-- temps-dimension
 - avenir
 - predictions
-- dessein
-- philosophie-des-sciences
-- premonition
 coverImage: ./images/quora.png
 ---
 

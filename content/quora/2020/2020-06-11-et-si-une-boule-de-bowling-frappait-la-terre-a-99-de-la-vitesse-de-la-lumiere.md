@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- scenarios-hypothetiques
-- boule-de-bowling
-- terre-planete
-- catastrophes-environnementales
-- vitesse-de-la-lumiere
 - astrophysique
-- collision-physique
-- catastrophes
-- scenarios-scientifiques-hypothetiques
+- terre
+- planetes
+- lumiere
 coverImage: ./images/quora.png
 ---
 

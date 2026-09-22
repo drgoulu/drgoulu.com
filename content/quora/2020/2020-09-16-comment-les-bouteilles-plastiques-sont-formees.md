@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- production-industrielle
-- emballage
+- proprietes
+- fabrication
+- recyclage
+- produit
 - plastique
-- fabrication-de-produits
-- recyclage-du-plastique
-- emballage-et-contenant
-- bouteilles-en-plastique
-- plasturgie
-- injection-plastique
-- proprietes-du-plastique
 coverImage: ./images/quora.png
 ---
 

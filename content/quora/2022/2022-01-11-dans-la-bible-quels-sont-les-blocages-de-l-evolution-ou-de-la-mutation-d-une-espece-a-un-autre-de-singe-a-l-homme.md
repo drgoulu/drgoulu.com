@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- evolution-processus
-- la-bible
-- singes
-- creation
-- especes
+- evolution
+- theorie
+- processus
 - evolution-humaine
-- interpretation-biblique
-- creationnisme
-- theorie-de-l-evolution
-- espece-humaine
+- especes
 coverImage: ./images/quora.png
 ---
 

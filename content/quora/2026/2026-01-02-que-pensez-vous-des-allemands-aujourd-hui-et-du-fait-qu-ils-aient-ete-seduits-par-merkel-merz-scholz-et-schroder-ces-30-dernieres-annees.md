@@ -8,14 +8,9 @@ categories:
 tags:
 - allemagne
 - gerhard-schroder-television-executive
-- parti-chretien-democrate
-- angela-merkel-politicienne-allemande
 - elections-democratiques
-- partis-politiques-allemands
-- gouvernement-allemand
-- politique-et-gouvernement-de-l-allemagne
-- parti-social-democrate-d-allemagne
-- politique-allemande
+- politique
+- gouvernement
 coverImage: ./images/quora.png
 ---
 

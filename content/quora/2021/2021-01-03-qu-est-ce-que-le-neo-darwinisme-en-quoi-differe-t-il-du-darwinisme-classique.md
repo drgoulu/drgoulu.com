@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- evolution-processus
-- biologie
-- histoire-des-sciences
-- darwinisme
-- theorie-de-l-evolution
-- evolution-biologique-des-especes
+- histoire
 - evolution
-- histoire-de-la-biologie
-- biologie-de-l-evolution
+- biologie
+- theorie
 coverImage: ./images/quora.png
 ---
 

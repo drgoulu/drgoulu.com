@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - changement-climatique
-- statistiques
-- '2020'
-- xxieme-siecle
-- catastrophes-naturelles
+- rechauffement-climatique
 - risques
-- conditions-meteorologiques-extremes
-- annees-2020
-- catastrophe-climatique
-- le-rechauffement-climatique
+- statistiques
+- catastrophes-naturelles
 coverImage: ./images/qimg-503483d3b5234d7a0e1265b12a44e061.png
 ---
 

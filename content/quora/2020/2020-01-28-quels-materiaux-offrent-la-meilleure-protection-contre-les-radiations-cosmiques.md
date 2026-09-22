@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- exploration-spatiale
 - astronomie
-- protection
-- materiaux
-- rayons-cosmiques
-- ingenierie-et-technologie-spatiale
-- physique-spatiale
-- technologie-spatiale
+- exploration-spatiale
 - science-spatiale
+- materiaux
 coverImage: ./images/qimg-1c73ebfeb266619a63cdfaf471760f55.png
 ---
 

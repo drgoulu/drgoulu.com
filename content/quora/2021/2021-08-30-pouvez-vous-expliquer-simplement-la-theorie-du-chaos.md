@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- mathematiques
 - sciences
-- explications-pour-novices
-- theorie-du-chaos
-- explications
-- theorie-de-la-complexite
-- explications-intuitives
-- explications-scientifiques
+- mathematiques
+- theorie
 - physique-mathematique
 coverImage: ./images/quora.png
 ---

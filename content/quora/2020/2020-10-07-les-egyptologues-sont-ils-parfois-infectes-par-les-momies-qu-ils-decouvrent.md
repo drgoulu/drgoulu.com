@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- momies-embaumement
 - histoire
-- egyptologie
-- momies-egyptiennes
-- archeologie
-- infection
-- maladies-infectieuses
-- egypte-ancienne
+- sante
 - medecine
+- maladies-infectieuses
+- archeologie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - astronomie
-- histoire-des-sciences
+- histoire
+- recherche-scientifique
 - etoiles-corps-celestes
-- demarche-scientifique
-- etude-scientifique
-- decouvertes-scientifiques
-- curiosite-scientifique
-- histoire-de-l-astronomie
-- recherches-scientifiques
-- histoire-de-la-science
 coverImage: ./images/quora.png
 ---
 

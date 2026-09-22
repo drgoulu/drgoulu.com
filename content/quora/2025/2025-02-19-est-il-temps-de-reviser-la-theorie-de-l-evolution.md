@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- debats-de-societe
-- evolution-processus
+- evolution
 - biologie
+- theorie
 - recherche-scientifique
-- debat
-- theorie-de-l-evolution
-- revolutions-scientifiques
-- evolution-biologie
-- biologie-de-l-evolution
 coverImage: ./images/quora.png
 ---
 

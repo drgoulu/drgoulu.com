@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sante
 - sante-publique
-- materiaux-radioactifs
-- risques-naturels
-- effets-sur-la-sante
-- risques-pour-la-sante
-- sante-et-securite-publiques
-- radiation-nucleaire
+- risques
 - radioactivite
-- substances-radioactives
-- elements-radioactifs
+- effet
 coverImage: ./images/quora.png
 ---
 

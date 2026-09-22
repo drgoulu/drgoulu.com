@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- mathematiques
 - sciences
 - astronomie
-- nombres-irrationnels
-- seti-recherche-d-intelligence-extraterrestre
-- vie-extraterrestre
-- algorithmes
-- recherche-spatiale
 - astrophysique
-- radioastronomie
+- mathematiques
+- vie-extraterrestre
 coverImage: ./images/quora.png
 ---
 

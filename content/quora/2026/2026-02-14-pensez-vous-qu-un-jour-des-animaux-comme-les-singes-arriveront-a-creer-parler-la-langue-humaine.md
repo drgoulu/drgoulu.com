@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
+- biologie
+- animaux
+- psychologie
 - langage
-- biologie-animale
-- singes
-- zoologie
-- evolution-biologie
-- intelligence-animale
-- communication-animale
-- langage-humain
-- psychologie-des-animaux
-- evolution-animale
 coverImage: ./images/quora.png
 ---
 

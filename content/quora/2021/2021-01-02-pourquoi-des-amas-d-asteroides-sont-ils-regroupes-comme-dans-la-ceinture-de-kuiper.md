@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- ceinture-de-kuiper
+- planetes
 - systeme-solaire
 - science-spatiale
-- asteroides
-- objets-astronomiques
-- decouverte-et-exploration-du-systeme-solaire
-- la-ceinture-d-asteroides
-- planetes-du-systeme-solaire
-- le-systeme-solaire
+- exploration
 coverImage: ./images/quora.png
 ---
 

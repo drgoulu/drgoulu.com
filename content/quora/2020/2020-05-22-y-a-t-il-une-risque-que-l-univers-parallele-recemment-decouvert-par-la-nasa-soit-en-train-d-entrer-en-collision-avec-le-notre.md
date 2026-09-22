@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- nasa
 - sciences
-- univers-paralleles
 - astronomie
-- multiverse
-- exploration-de-l-univers
-- collision-physique
+- univers
 - cosmologie
-- physique-theorique
 coverImage: ./images/quora.png
 ---
 

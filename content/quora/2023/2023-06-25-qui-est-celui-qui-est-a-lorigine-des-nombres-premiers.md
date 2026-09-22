@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- philosophie
 - mathematiques
-- nombres-naturels
-- theorie-des-nombres-premiers
-- origine-des-mathematiques
-- philosophie-des-mathematiques
-- sciences-mathematiques
-- mathematiciens
-- mathematique-et-philosophie
-- theorie-des-nombres
+- theorie
+- origines
 coverImage: ./images/quora.png
 ---
 

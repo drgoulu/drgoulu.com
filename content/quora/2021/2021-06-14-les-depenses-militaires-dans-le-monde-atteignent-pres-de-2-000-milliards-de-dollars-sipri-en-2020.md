@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- finance
-- pollution-plastique
-- stockholm-university
-- oceans
-- priorite
+- environnement
 - ecologie
-- depenses-militaires
-- l-environnement
-- pollution-des-oceans
-- depenses-publiques
+- pollution
+- finance
+- oceans
 coverImage: ./images/quora.png
 ---
 

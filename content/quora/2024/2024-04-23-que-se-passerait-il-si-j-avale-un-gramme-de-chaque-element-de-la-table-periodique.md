@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- elements-du-tableau-periodique
-- corps-humains
-- effets-negatifs
-- toxicologie
-- ingestion
 - chimie
 - medecine
+- corps-humains
 - elements-chimiques
-- tableau-periodique
 coverImage: ./images/quora.png
 ---
 

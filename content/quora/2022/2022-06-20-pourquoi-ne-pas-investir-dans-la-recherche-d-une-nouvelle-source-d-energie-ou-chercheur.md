@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- investissement
-- recherche-scientifique
 - energie
-- innovation
-- chercheurs
-- developpement-durable
-- innovation-technologique
-- sources-d-energie
-- recherche-et-developpement
+- recherche-scientifique
 - recherche
+- developpement-durable
+- innovation
 coverImage: ./images/quora.png
 ---
 

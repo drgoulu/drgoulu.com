@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - biologie
+- vie
 - recherche-scientifique
-- creation
-- laboratoires
-- origine-de-la-vie
-- cellules-biologie
-- chimie-et-biologie
-- biologie-cellulaire
-- etude-scientifique
-- biologie-chimique
+- chimie
+- origines
 coverImage: ./images/quora.png
 ---
 

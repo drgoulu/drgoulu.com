@@ -10,9 +10,6 @@ tags:
 - phenomenes-inexpliques
 - ovni
 - ufologie
-- observations-d-ovni
-- objet-volant-non-identifie
-- ovnis
 - objets-volants-non-identifies
 coverImage: ./images/quora.png
 ---

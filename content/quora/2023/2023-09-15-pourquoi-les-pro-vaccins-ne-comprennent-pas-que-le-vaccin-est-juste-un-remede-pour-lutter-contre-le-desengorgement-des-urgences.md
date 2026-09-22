@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sante-publique
-- groupes
-- anti-vaccins
-- urgences
-- controverse-sur-la-vaccination
+- personne
 - vaccination
-- groupes-de-personnes
-- pro-vaccin
+- controverses
+- groupes
 coverImage: ./images/quora.png
 ---
 

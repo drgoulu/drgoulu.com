@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- immanuel-velikovsky
-- dogmatisme
-- censure
-- recherche-scientifique
 - theorie
+- recherche-scientifique
 - controverses
-- l-histoire
+- censure
 coverImage: ./images/quora.png
 ---
 

@@ -6,12 +6,9 @@ draft: false
 categories:
 - Quora
 tags:
-- question-de-conseil
+- questions
+- conseils
 - urgences
-- besoin-d-aide
-- demandes-d-aides
-- appel-a-l-aide
-- demande-d-aide
 - demander-de-l-aide
 - appel-au-secours
 coverImage: ./images/quora.png

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - experience
-- transport
-- chauffeurs-de-taxi
-- client
+- transports
 - anecdotes
-- experiences
-- experience-personnelle
-- services
-- taxis
+- experiences-personnelles
+- service
 coverImage: ./images/quora.png
 ---
 

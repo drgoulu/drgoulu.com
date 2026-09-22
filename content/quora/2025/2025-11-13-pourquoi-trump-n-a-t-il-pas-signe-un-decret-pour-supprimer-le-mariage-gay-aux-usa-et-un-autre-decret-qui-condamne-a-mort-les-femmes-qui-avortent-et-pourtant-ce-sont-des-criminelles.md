@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- les-etats-unis-d-amerique
-- avortement
-- donald-trump
-- justice-penale
-- presidents
-- decret
-- droits-de-la-femme
-- politique-des-etats-unis-d-amerique
-- droit-a-l-avortement
+- politique
+- droit
+- etats-unis
+- ameriques
+- president
 coverImage: ./images/quora.png
 ---
 

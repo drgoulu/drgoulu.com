@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- vie
 - societe
+- debat
+- probleme
 - violence
-- toxicite
-- discussions-politiques
-- problemes-sociaux
-- comportement-violent
-- debats-de-societe
-- vie-en-societe
-- questions-sociales
-- problemes-de-societe
 coverImage: ./images/quora.png
 ---
 

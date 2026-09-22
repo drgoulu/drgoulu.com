@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- ecologie
+- histoire
+- planetes
 - nature
+- humanite
 - evolution-humaine
-- nature-humaine
-- anthropocene
-- influence-de-l-homme-sur-la-planete
-- histoire-de-l-humanite
-- interaction-homme-environnement
-- science-environnementale
 coverImage: ./images/quora.png
 ---
 

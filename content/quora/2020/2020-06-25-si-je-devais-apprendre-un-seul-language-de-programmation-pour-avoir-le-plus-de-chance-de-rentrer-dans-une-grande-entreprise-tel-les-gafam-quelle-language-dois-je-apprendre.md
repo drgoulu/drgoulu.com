@@ -6,13 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- programmation
+- langage
 - entreprises
-- langages-de-programmation
+- emploi
 - carriere
-- gafam
-- emplois
-- developpement-web
-- carriere-professionnelle
 coverImage: ./images/quora.png
 ---
 

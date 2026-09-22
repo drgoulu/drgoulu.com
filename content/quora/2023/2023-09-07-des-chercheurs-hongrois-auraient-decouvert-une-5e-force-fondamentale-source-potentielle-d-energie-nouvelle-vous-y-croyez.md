@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- energie-renouvelable
-- chercheurs
-- hongrie
-- recherche-scientifique
-- forces-fondamentales
 - physique-theorique
-- energie-alternative
-- decouvertes-scientifiques
+- recherche-scientifique
+- energie-renouvelable
 coverImage: ./images/quora.png
 ---
 

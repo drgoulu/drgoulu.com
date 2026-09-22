@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - entrepreneuriat
-- steve-wozniak-inventeur-americain
-- apple
 - richesse
-- fortune
-- histoire-d-apple
-- creation-d-entreprise
-- steve-jobs
-- steve-wozniak
-- entrepreneuriat-technologique
+- histoire
+- creation
+- entreprises
 coverImage: ./images/quora.png
 ---
 

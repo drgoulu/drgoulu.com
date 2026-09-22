@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- technologies
 - societe
-- question-existentielle
-- futur
-- science-et-technologie
-- pensee-philosophique
-- revolution-technologique
-- dependance-a-la-technologie
 - question-hypothetique
-- changement-technologique
+- question-existentielle
 coverImage: ./images/quora.png
 ---
 

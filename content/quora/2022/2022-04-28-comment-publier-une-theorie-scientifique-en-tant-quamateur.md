@@ -7,14 +7,9 @@ categories:
 - Comment
 tags:
 - recherche-scientifique
-- amateurs
-- publication-academique
-- amateurisme
+- recherche
 - theorie-scientifique
-- methodes-de-recherche
-- communaute-scientifique
-- redaction-scientifique
-- communication-scientifique
+- methodes
 - publications-scientifiques
 coverImage: ./images/quora.png
 ---

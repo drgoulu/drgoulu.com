@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- psychologie
 - comportement-humain
-- relations-romantiques
-- jalousie
-- monogamie
-- differences-de-genre
 - psychologie-humaine
-- amour-et-relation
-- psychologie-du-couple
-- comportement-masculin
-- comportement-feminin
+- difference
+- genre
 coverImage: ./images/quora.png
 ---
 

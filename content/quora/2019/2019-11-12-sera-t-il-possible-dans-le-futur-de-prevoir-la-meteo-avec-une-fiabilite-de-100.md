@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- futur
+- physique
+- sciences
 - technologie-spatiale
-- meteo
-- prevision
-- sciences-de-l-atmosphere
-- previsions-meteo
-- precision
-- meteorologie
-- physique-de-l-atmosphere
-- previsions-meteorologiques
+- futur
+- atmosphere
 coverImage: ./images/quora.png
 ---
 

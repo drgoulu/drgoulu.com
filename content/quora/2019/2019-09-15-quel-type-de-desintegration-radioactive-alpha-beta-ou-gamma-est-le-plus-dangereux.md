@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- risques-pour-la-sante
-- particule-alpha
-- radiations-ionisantes
-- rayons-gamma
-- physique-des-rayonnements
+- sante
+- risques
 - radioactivite
-- particule-beta
+- physique-des-rayonnements
 - elements-radioactifs
-- desintegration-radioactive
 coverImage: ./images/qimg-30fc064589c22ac3a0b6c1950158e4bf.jpg
 ---
 

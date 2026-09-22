@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - informatique
-- cahier-des-charges
-- langages-de-programmation
-- developpement-logiciel
-- compilateurs
-- architecture-du-processeur
-- logiciel
-- science-de-l-informatique
-- processeurs
+- programmation
+- langage
+- architecture
 coverImage: ./images/quora.png
 ---
 

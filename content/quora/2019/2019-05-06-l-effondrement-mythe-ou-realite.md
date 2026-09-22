@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- scenario-d-effondrement
-- societe
-- catastrophes
-- realite
-- mythes
 - theorie
-- effondrement
-- validite
-- mythe
+- societe
+- realite
+- catastrophes
 coverImage: ./images/quora.png
 ---
 

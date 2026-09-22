@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- trous-noirs
-- voie-lactee
-- science-spatiale
 - astrophysique
-- objets-astronomiques
+- trous-noirs
+- science-spatiale
 - galaxies
-- astronomy
-- galaxie-de-la-voie-lactee
-- astrophysique-theorique
 coverImage: ./images/quora.png
 ---
 

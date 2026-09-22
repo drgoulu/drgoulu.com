@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
+- sciences
 - astronomie
-- science-et-technologie
+- astrophysique
 - espace
-- images-spatiales
-- visualisation
-- technologie-digitale
-- science-physique
-- astronomie-et-astrophysique
-- science-technologie
 coverImage: ./images/qimg-562625901d108e0e209848e90315b827.jpg
 ---
 

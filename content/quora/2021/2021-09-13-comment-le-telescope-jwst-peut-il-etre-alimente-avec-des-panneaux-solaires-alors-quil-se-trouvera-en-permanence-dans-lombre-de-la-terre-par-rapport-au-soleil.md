@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- telescope-spatial-james-webb
 - astronomie
-- espace
-- energie-solaire
-- ingenierie-et-technologie-spatiale
-- les-telescopes
 - astrophysique
+- espace
 - science-spatiale
-- technologie-spatiale
 coverImage: ./images/quora.png
 ---
 

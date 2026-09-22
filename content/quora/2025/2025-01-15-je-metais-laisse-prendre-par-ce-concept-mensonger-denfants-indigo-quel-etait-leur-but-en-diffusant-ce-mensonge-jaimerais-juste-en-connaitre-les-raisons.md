@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - psychologie
-- enfants-indigo
-- manipulation-de-masse
-- mensonge
 - mythes-et-idees-fausses
-- la-desinformation
+- desinformation
 - theories-du-complot
-- mensonges-et-mentir
 - manipulation
-- desinformation-propagandiste
 coverImage: ./images/quora.png
 ---
 

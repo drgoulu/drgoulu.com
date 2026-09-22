@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- evolution
 - biologie
-- charles-darwin
-- evolution-processus
-- sciences-de-la-nature
-- vegetaux
-- darwinisme
-- theorie-de-l-evolution
-- botanique
-- sciences-de-la-vie
-- evolution-biologie
+- theorie
+- vie
 coverImage: ./images/quora.png
 ---
 

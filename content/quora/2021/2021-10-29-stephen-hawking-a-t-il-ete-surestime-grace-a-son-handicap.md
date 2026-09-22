@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- surestimation
+- physique-theorique
+- scientifiques
 - stephen-hawking
 - handicap
-- scientifiques
-- handicap-et-infirmite
-- physique-theorique
-- surevaluation
-- handicape
-- physiques
 coverImage: ./images/quora.png
 ---
 

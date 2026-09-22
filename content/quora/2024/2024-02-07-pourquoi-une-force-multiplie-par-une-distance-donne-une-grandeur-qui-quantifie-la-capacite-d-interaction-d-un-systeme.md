@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- interaction
-- grandeur
-- distance
+- energie
 - systeme
-- energie-physique
-- grandeurs-physiques
-- dimensions-physique
-- mecanique-physique
-- force-physique
+- mecanique
+- force
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- les-mysteres
-- l-univers
-- exploration-spatiale
-- connaissances-scientifiques
+- univers
 - cosmologie
-- univers-observable
-- age-de-l-univers
-- bord-de-l-univers
+- exploration-spatiale
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- formation
-- fond-diffus-cosmologique
-- physique-quantique
-- expansion-de-l-univers
-- cosmologie
 - astrophysique
-- galaxies
-- origine-de-l-univers
-- cosmologie-du-big-bang
+- univers
+- cosmologie
+- origines
 coverImage: ./images/quora.png
 ---
 

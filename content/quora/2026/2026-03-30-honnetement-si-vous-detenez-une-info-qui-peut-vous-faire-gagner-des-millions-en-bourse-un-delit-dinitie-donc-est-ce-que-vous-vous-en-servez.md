@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- argent
-- scenarios-hypothetiques
-- investissement-financier
-- delit-d-initie
-- marches-boursiers
-- information-confidentielle
-- questions-ethiques
 - question-hypothetique
 - hypotheses
-- investissement-en-bourse
+- argent
+- scenarios-hypothetiques
+- investissement
 coverImage: ./images/quora.png
 ---
 

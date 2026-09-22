@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- temps-physique
-- theorie-de-la-relativite
-- albert-einstein-physicien
+- physique
+- philosophie
+- theorie
+- relativite
 - temps
-- relativite-physique
-- present-temps-de-conjugaison
-- concept-philosophique-lie-au-temps
-- philosophie-de-la-physique
-- philosophie-du-temps
-- temps-philosophie
 coverImage: ./images/qimg-633ed0a9a1045e225fa7f514056db0c3.gif
 ---
 

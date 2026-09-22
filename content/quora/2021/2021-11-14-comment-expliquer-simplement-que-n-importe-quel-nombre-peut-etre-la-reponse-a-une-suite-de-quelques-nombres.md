@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - mathematiques
-- raisonnement-logique
-- theorie-des-nombres
-- suites-mathematiques
-- logique-mathematiques
-- equations-mathematiques
-- questions-mathematiques
-- education-mathematique
-- mathematiques-simples
-- solutions-mathematiques
+- theorie
+- nombres
+- questions
+- logique
 coverImage: ./images/quora.png
 ---
 

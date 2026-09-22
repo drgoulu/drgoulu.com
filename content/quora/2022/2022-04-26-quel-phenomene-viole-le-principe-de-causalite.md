@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- action-de-causer-et-causalite
-- concepts-en-metaphysique
-- phenomene
-- inference-causale
+- concepts
 - metaphysique
-- causalite
-- philosophie-et-science
-- philosophie-des-sciences
-- sciences-et-metaphysique
+- phenomene
+- sciences
 coverImage: ./images/quora.png
 ---
 

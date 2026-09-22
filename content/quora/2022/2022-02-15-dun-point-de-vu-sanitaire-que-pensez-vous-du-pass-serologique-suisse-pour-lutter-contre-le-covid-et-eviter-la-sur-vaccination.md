@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- suisse
 - opinion
 - sante-publique
-- surprotection
-- suisse
-- vaccin-covid-19
-- opinions-personnelles
-- serologie
-- pass-sanitaire
-- covid-19-coronavirus
 - vaccination
+- opinion-personnelle
 coverImage: ./images/quora.png
 ---
 

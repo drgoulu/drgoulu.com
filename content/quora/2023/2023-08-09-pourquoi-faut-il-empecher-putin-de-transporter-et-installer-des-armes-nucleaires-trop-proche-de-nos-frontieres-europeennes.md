@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - relations-internationales
+- securite
 - russie
-- vladimir-poutine
-- proliferation-nucleaire
-- securite-nationale
-- defense-europeenne
-- guerre-nucleaire
 - politique-etrangere
-- securite-et-defense
+- securite-nationale
 coverImage: ./images/quora.png
 ---
 

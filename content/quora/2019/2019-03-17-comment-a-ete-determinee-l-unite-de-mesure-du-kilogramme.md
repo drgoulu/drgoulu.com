@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- histoire-des-inventions
-- instruments-de-mesure
-- kilogramme-unite-si
-- systeme-metrique
-- unite-de-masse
-- histoire-de-la-physique
-- metrologie
+- sciences
+- histoire
+- invention
 - unites-de-mesure
-- histoire-des-sciences
 coverImage: ./images/quora.png
 ---
 

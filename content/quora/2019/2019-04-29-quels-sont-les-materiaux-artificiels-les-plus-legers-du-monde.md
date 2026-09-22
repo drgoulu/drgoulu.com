@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
+- chimie
 - materiaux
-- densite-physique
-- science-des-materiaux-et-ingenierie
-- physique-des-materiaux
-- science-de-la-matiere
-- la-science-des-materiaux
-- materiaux-artificiels
-- scientifiques-des-materiaux
-- chimie-des-materiaux
+- ingenierie
 coverImage: ./images/qimg-1fca54baefed25215b68be155cb484d0.jpg
 ---
 

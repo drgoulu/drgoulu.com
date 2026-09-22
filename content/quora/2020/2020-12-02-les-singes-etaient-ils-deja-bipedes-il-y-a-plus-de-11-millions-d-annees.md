@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- anthropologie
-- singes
+- histoire
 - evolution
-- primates
-- bipede
-- histoire-de-la-terre
-- paleontologie
+- terre
 - evolution-humaine
-- histoire-naturelle
-- paleoanthropologie
+- anthropologie
 coverImage: ./images/quora.png
 ---
 

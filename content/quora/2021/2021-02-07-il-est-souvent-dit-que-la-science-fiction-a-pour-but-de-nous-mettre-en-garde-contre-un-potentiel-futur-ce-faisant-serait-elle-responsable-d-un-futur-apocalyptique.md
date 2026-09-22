@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - societe
-- science-fiction-genre
 - futur
-- apocalypse
-- litterature
+- science-fiction-genre
+- livres
 - responsabilite
-- fiction
-- livres-de-science-fiction
-- style-litteraire
-- genre-litteraire
 coverImage: ./images/quora.png
 ---
 

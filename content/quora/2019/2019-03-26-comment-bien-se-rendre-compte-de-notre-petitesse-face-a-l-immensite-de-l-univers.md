@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- philosophie
-- espace
-- reflexion
-- perspective
-- l-univers
-- humanite
-- cosmologie
 - astronomie
-- point-de-vue
-- l-humanite
+- philosophie
+- univers
+- cosmologie
+- espace
 coverImage: ./images/quora.png
 ---
 

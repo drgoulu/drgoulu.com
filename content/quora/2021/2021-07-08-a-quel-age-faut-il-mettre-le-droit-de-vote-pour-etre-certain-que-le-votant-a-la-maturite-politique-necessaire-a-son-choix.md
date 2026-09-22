@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- opinion-politique
+- politique
+- france
+- droit
+- opinion
 - democratie
-- sciences-politiques
-- electeur
-- age-de-vote
-- droit-de-vote
-- democratie-en-france
-- choix-politique
 coverImage: ./images/quora.png
 ---
 

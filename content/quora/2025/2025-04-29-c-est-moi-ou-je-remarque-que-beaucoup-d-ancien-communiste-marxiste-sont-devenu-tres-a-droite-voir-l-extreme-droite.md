@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - ideologies-politiques
 - changements-sociaux
-- communisme
+- droite
 - extreme-droite
-- droite-politique
-- marxistes
-- intellectuels-communistes
-- communistes
-- marxisme
-- ideologie-politique
 coverImage: ./images/quora.png
 ---
 

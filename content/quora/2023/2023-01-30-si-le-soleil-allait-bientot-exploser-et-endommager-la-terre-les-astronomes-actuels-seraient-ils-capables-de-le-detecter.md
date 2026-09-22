@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - astronomie
-- le-soleil
-- catastrophes-naturelles
-- terre-planete
-- fin-du-monde
-- science-physique
-- evolution-stellaire
-- eruptions-solaires
 - astrophysique
-- physique-stellaire
+- terre
 coverImage: ./images/quora.png
 ---
 

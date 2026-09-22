@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- vectoriel
-- decomposition
+- mecanique
+- mouvement
+- force
 - solides
-- verticale
-- force-centripete
-- vecteurs-mathematiques-et-physique
-- mouvement-physique
-- mecanique-physique
-- force-physique
 coverImage: ./images/quora.png
 ---
 

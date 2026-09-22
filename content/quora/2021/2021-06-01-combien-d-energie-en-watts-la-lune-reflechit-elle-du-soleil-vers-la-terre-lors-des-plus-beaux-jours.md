@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - physique
-- le-soleil-astronomie
 - sciences
 - astronomie
-- terre-planete
-- reflexion-physique
-- lune-astronomie
-- energie-physique
 - astrophysique
-- physique-mathematique
+- terre
 coverImage: ./images/quora.png
 ---
 

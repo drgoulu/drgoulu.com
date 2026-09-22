@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- terre-planete
-- lois-de-la-nature
-- l-univers
-- univers-observable
-- concepts-en-physique
+- sciences
+- univers
+- terre
 - physique-theorique
-- science-physique
-- lois-de-la-physique
-- planete-terre
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- futur
-- espace-temps
-- determinisme
-- l-univers
 - physique
+- sciences
+- philosophie
+- univers
 - cosmologie
-- temps-physique
-- physique-theorique
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

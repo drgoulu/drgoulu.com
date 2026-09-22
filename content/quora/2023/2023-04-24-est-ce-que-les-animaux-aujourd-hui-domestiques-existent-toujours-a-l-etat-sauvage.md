@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
+- biologie
 - biologie-animale
-- animaux-sauvages
-- domestication
 - zoologie
-- evolution-biologie
-- science-biologique
-- evolution-des-hommes
-- evolution-animale
-- faune-sauvage
+- homme
 coverImage: ./images/quora.png
 ---
 

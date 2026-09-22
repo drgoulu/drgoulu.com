@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - musique
-- blues
-- musique-bresilienne
-- guitaristes
-- musique-espagnole
+- guitariste
 - musique-francaise
-- musique-classique
 - musique-rock
 - musique-jazz
-- guitares
 coverImage: ./images/quora.png
 ---
 

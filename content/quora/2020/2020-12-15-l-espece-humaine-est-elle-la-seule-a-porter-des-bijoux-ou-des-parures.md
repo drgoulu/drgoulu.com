@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- comportement-humain
-- bijoux
-- especes
 - animaux
-- ethnologie
+- especes
 - biologie-animale
+- comportement-humain
 - espece-humaine
-- ethologie
-- activite-humaine
-- comportement-animal
 coverImage: ./images/qimg-a43aa3e151902a472107a14c77f9a220.jpg
 ---
 

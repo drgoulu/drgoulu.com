@@ -7,11 +7,7 @@ categories:
 - Pourquoi
 tags:
 - sante
-- exosquelettes
-- paralysie
-- protheses
 - handicap
-- equipement-medical
 - medecine
 - handicap-et-infirmite
 - technologie-medicale

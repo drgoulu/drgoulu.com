@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- fusee-astronautique
-- espace
-- trajectoire
-- mouvements
-- gravitation
-- astrophysics
 - relativite
-- fusees
+- espace
+- gravitation
 coverImage: ./images/quora.png
 ---
 

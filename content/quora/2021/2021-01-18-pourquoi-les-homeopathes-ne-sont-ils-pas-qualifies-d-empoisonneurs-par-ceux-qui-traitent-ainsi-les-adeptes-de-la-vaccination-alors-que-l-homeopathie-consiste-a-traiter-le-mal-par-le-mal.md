@@ -8,14 +8,9 @@ categories:
 tags:
 - medecine
 - vaccination
-- homeopathie
 - traitements-medicaux
 - ethique-medicale
-- medecins
 - medecine-naturelle
-- sciences-medicales
-- medecine-homeopathique
-- medecine-scientifique
 coverImage: ./images/quora.png
 ---
 

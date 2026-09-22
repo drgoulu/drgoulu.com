@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- religion
+- croyance
 - pandemie
-- la-bible
-- croyances-personnelles
-- apocalypse-christianisme
-- la-fin-du-monde
-- attentats-du-11-septembre-2001
-- propheties
-- religion-et-croyance
-- croyants-religieux
+- fin-du-monde
+- bible
 coverImage: ./images/quora.png
 ---
 

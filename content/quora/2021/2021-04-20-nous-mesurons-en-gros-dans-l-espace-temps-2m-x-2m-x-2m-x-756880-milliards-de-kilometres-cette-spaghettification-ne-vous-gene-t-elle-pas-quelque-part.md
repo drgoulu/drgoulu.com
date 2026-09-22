@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- spaghettification
-- trous-noirs
-- espace
 - astronomie
-- l-univers
-- cosmologie
 - astrophysique
-- espace-temps
-- mesures-physiques
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

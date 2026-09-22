@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- zoologie
-- personne-lambda
-- decouvertes-scientifiques
-- droit-de-propriete
+- droit
 - especes
-- gens-lambdas
-- taxonomie
-- droit-des-brevets
-- citoyen-lambda
+- decouvertes-scientifiques
+- zoologie
+- brevets
 coverImage: ./images/quora.png
 ---
 

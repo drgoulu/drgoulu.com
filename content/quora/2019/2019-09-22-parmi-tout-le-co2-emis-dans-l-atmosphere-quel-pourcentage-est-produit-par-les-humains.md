@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- planetes
+- environnement
 - changement-climatique
-- effet-de-serre
-- influence-de-l-homme-sur-la-planete
-- sciences-de-l-environnement
-- atmosphere
-- les-emissions-de-gaz-a-effet-de-serre
-- emissions-de-carbone
 - rechauffement-climatique
-- co2-atmospherique
-- gaz-a-effet-de-serre
 coverImage: ./images/quora.png
 ---
 

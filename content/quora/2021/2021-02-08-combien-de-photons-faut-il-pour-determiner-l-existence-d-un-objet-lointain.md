@@ -7,14 +7,10 @@ categories:
 - Combien
 tags:
 - physique
-- exploration-de-l-espace-lointain
 - astronomie
 - photons
-- lumiere-physique
-- detection-d-objets
-- observation-scientifique
+- lumiere
 - astrophysique
-- astronomie-et-astrophysique
 coverImage: ./images/qimg-959cdd97482566ff690fba934e92d79a.png
 ---
 

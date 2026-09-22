@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- internet
 - astronomie
-- catastrophes-naturelles
-- science-et-technologie
-- panne-informatique
-- tempetes-solaires
 - astrophysique
-- eruptions-solaires
+- informatique
+- technologies
 coverImage: ./images/quora.png
 ---
 

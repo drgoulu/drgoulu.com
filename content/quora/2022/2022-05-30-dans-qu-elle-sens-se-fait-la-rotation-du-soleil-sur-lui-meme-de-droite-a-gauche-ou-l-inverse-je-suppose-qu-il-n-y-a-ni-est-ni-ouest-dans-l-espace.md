@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - astronomie
+- planetes
 - espace
-- direction
 - systeme-solaire
-- rotation-physique
-- sens-de-l-orientation
-- etoiles-astronomie
-- soleil-astrologie
-- rotation
-- rotation-planetes
 coverImage: ./images/quora.png
 ---
 

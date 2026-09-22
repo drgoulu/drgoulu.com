@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
+- sciences
+- histoire
 - guerre
-- ethique-philosophie-morale
-- histoire-des-sciences
-- responsabilite
-- bombe-atomique
-- moralite
-- scientifiques
-- l-ethique
-- comportement-ethique
-- histoire-de-la-physique
+- ethique
 coverImage: ./images/quora.png
 ---
 

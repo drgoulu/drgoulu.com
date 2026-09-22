@@ -7,12 +7,9 @@ categories:
 - Comment
 tags:
 - physique
-- experience
-- marteau-outil
-- chute-libre
-- missions-apollo
 - gravite
-- exploration-de-la-lune
+- experience
+- lune
 - masse-physique
 coverImage: ./images/quora.png
 ---

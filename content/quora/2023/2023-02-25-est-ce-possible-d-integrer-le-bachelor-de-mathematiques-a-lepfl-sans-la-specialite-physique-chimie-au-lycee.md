@@ -6,14 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- education
-- epfl
+- physique
 - mathematiques
-- admissions-a-l-universite-et-dans-des-ecoles
-- etudes-superieures-en-france
-- ecoles-d-ingenieurs
-- physique-et-chimie
-- baccalaureat-france
+- chimie
+- education
 - enseignement-superieur
 coverImage: ./images/quora.png
 ---

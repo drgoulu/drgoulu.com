@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- personne
-- histoire-des-sciences
-- albert-einstein-physicien
-- brevets
+- physique
+- sciences
+- histoire
+- vie
 - invention
-- einstein
-- vie-de-albert-einstein
-- histoire-des-inventions
-- histoire-de-la-physique
-- brevet
 coverImage: ./images/quora.png
 ---
 

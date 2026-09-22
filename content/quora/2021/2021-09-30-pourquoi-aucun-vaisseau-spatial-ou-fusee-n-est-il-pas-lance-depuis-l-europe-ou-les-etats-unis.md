@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- les-etats-unis-d-amerique
 - exploration-spatiale
-- fusees
-- l-europe
-- lancement-astronautique
-- vaisseau-spatial
 - technologie-spatiale
-- astronautique
-- systeme-de-lancement-spatial
-- industrie-spatiale
+- etats-unis
+- ameriques
+- europe
 coverImage: ./images/quora.png
 ---
 

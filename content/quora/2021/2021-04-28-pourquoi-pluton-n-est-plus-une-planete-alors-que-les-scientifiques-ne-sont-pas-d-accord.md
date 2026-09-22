@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sciences
-- pluton-planete-naine
 - astronomie
-- debats
+- astrophysique
 - recherche-scientifique
 - systeme-solaire
-- astronomie-et-astrophysique
-- pensee-scientifique
 coverImage: ./images/quora.png
 ---
 

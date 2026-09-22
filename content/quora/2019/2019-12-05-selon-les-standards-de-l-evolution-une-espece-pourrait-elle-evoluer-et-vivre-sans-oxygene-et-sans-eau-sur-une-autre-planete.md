@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-vie
-- eau
-- evolution-processus
-- planetes-astronomie
-- especes
-- vie-extraterrestre
-- oxygene
-- evolution-biologie
-- conditions-de-vie
+- sciences
+- astronomie
+- evolution
+- biologie
+- planetes
 coverImage: ./images/quora.png
 ---
 

@@ -8,12 +8,9 @@ categories:
 tags:
 - enseignement
 - suisse
-- manuel-scolaire
 - systeme-educatif-suisse
-- ressources-pedagogiques
 - matieres-scolaires
-- enseignement-general
-- education-en-suisse
+- education
 coverImage: ./images/quora.png
 ---
 

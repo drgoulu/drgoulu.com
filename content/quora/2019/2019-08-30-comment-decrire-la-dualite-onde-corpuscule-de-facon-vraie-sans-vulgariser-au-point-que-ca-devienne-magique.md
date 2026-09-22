@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- vulgarisation-scientifique
-- dualite
-- explications
-- mecanique-quantique
-- dualite-onde-particule
-- explication-rationnelle
-- science-physique
-- explications-scientifiques
+- sciences
 - physique-quantique
+- explications-scientifiques
+- mecanique-quantique
 coverImage: ./images/qimg-001d7af8d0ad8573895865afcc65944c.jpg
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- multiverse
-- mathematiques
-- creation
-- l-univers
 - physique
-- cosmologie
-- physique-theorique
-- philosophie-des-sciences
-- physique-mathematique
+- sciences
+- philosophie
+- mathematiques
+- univers
 coverImage: ./images/quora.png
 ---
 

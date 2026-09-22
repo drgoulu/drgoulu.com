@@ -6,13 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- personne-reelle
-- giordano-bruno-philosophe
-- histoire-des-religions
-- inquisition
-- heresie
+- histoire
+- religion
 - evenement-historique
-- xviie-siecle
+- personne-reelle
+- heresie
 coverImage: ./images/quora.png
 ---
 

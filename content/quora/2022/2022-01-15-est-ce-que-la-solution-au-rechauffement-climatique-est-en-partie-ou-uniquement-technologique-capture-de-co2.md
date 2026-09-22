@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
+- sciences
+- technologies
 - changement-climatique
 - energie-nucleaire
-- nouvelles-technologies
-- batteries
-- captage-et-sequestration-du-carbone-csc
 - energie-renouvelable
-- emissions-de-carbone
-- energie-alternative
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - medecine
-- croyances
-- placebos
-- effets-placebo-sante
+- croyance
 - medecine-non-conventionnelle
-- opinions-et-croyances
-- systemes-de-croyance
-- medecins
-- medecine-douce
+- opinion
+- systeme
 coverImage: ./images/quora.png
 ---
 

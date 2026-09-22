@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sciences
 - astronomie
-- habitabilite-planetaire
-- les-telescopes
-- exploration-spatiale
-- temps-physique
-- exoplanetes
 - astrophysique
+- temps
 coverImage: ./images/quora.png
 ---
 

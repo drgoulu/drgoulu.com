@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- environnement
 - changement-climatique
-- consommation
-- l-environnement
 - ecologie
-- durabilite
-- planete-terre
 - developpement-durable
-- consommation-eco-responsable
-- consommation-responsable
-- le-changement-climatique
+- consommation
 coverImage: ./images/qimg-9030402f626ed7ce6eaf26911b6dbc0f.png
 ---
 

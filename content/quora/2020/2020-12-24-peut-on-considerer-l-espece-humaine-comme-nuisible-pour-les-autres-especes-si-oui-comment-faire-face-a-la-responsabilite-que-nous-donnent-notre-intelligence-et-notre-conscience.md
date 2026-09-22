@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - philosophie
-- nuisible
+- ethique
 - conscience
 - espece-humaine
 - responsabilite
-- intelligence-humaine
-- l-ethique
-- activite-humaine
-- entite-humaine
-- ethique-philosophie-morale
 coverImage: ./images/quora.png
 ---
 

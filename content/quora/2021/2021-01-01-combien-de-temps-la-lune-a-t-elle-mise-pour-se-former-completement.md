@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- physique
+- sciences
 - astronomie
-- formation
-- sciences-de-la-nature
-- temps-physique
-- systeme-solaire
-- exploration-de-la-lune
-- lune-astronomie
 - astrophysique
-- phases-lunaires
-- le-systeme-solaire
+- nature
 coverImage: ./images/quora.png
 ---
 

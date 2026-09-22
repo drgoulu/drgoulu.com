@@ -9,12 +9,8 @@ tags:
 - afrique
 - developpement-economique
 - commerce-international
-- accords-de-libre-echange
-- politique-commerciale
 - continent-africain
 - relations-economiques-internationales
-- libre-echange
-- economie-internationale
 coverImage: ./images/quora.png
 ---
 

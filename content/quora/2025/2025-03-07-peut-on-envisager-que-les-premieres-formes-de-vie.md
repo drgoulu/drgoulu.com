@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- conscience
-- evolution-biologie
-- sciences-de-la-vie
-- philosophie-de-l-esprit
-- evolution-humaine
-- les-formes-de-vie
+- sciences
 - evolution
-- origine-de-la-vie
-- biologie-de-l-evolution
-- biologie-evolutive-humaine
+- biologie
+- vie
+- origines
 coverImage: ./images/quora.png
 ---
 

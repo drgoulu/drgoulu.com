@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- machines-a-mouvement-perpetuel
-- frottements
-- perte-d-energie
-- entropie-thermodynamique
-- energie-physique
-- lois-de-la-physique
+- energie
+- loi
 - thermodynamique
-- lois-de-la-thermodynamique
+- entropie-thermodynamique
 coverImage: ./images/quora.png
 ---
 

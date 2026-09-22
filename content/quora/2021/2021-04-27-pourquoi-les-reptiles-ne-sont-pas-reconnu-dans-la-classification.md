@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
+- vie
+- nature
+- animaux
 - biologie-animale
-- reptiles
-- sciences-de-la-nature
-- zoologie
-- sciences-de-la-vie
-- taxonomie
-- classification-biologique
-- sciences-biologiques
-- classification-des-animaux
-- classification-animale
 coverImage: ./images/quora.png
 ---
 

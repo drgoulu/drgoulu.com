@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- le-vide
-- l-univers
-- espace-interstellaire
+- astrophysique
+- univers
 - cosmologie
 - science-spatiale
-- astrophysique
-- vide-espace
-- l-univers-astronomie
-- interstellaire
 coverImage: ./images/quora.png
 ---
 

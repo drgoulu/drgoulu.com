@@ -8,13 +8,9 @@ categories:
 tags:
 - sante
 - opinion
-- covid-19-2019-2020
 - questions
-- connaissances
 - opinion-publique
-- opinion-personnelle
-- maladies-infectieuses
-- opinions
+- covid-19-2019-2020
 coverImage: ./images/quora.png
 ---
 

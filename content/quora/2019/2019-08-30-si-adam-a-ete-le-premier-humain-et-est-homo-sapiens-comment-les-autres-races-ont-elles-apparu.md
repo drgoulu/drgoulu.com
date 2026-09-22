@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- anthropologie
+- histoire
 - evolution
-- histoire-de-l-humanite
-- homo-sapiens
-- origine-de-l-univers
-- races-humaines
-- evolution-humaine
-- origine-des-civilisations
-- histoire-des-humains
+- univers
+- origines
+- humanite
 coverImage: ./images/qimg-9ecf1a5bafba7dcefd91d38eac6ec351.png
 ---
 

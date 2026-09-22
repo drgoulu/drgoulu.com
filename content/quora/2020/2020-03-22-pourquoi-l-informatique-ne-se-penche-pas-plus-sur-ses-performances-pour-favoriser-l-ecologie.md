@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- energie
+- environnement
 - informatique
-- consommation-d-energie
-- responsabilite
 - ecologie
 - developpement-durable
-- durabilite
-- impact-environnemental
-- performances-du-materiel-informatique
-- l-utilisation-d-energie
-- environnement-et-developpement-durable
 coverImage: ./images/quora.png
 ---
 

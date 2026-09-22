@@ -9,12 +9,8 @@ tags:
 - sante-publique
 - pandemie
 - maladies-infectieuses
-- contamination
-- vaccination-covid-19
 - immunite-biologie
 - epidemiologie
-- infections
-- systeme-immunitaire
 coverImage: ./images/quora.png
 ---
 

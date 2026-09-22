@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-nature
+- sciences
+- nature
 - geologie
-- echelle
-- onde-sismique
 - mesures-physiques
-- magnitude-sismologie
 - seismes
-- sismometre
-- geologie-structurale
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- les-etats-unis-d-amerique
 - energie
-- ressources-naturelles
-- rentabilite
-- islande
-- yellowstone-national-park-etats-unis-d-amerique
-- geothermie-profonde
 - energie-renouvelable
-- faisabilite
+- etats-unis
+- ressources-naturelles
+- ameriques
 coverImage: ./images/qimg-403a5690abe748f4c1254458d2e3be1e.jpg
 ---
 

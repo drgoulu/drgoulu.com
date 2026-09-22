@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- developpement
 - environnement
-- surconsommation
-- pays-du-tiers-monde
+- societe
 - developpement-durable
+- developpement
 - surpopulation
-- degradation-de-l-environnement
-- problemes-environnementaux
-- pays-developpes
-- societe-de-surconsommation
 coverImage: ./images/quora.png
 ---
 

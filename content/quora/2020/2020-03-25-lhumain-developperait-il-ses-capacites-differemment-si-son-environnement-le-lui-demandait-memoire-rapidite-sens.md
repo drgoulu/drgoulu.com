@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- psychologie
-- sens
-- capacites
-- adaptation
-- memoire
 - evolution-humaine
-- fonctions-cognitives
+- psychologie
+- adaptation
 - psychologie-cognitive
 - sciences-cognitives
-- capacites-cognitives
 coverImage: ./images/quora.png
 ---
 

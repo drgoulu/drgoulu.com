@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- prix
+- voitures
 - finance
-- voitures-et-automobiles
 - cout
-- cout-des-biens-vendus
-- prix-a-payer
 - industrie-automobile
-- le-prix
-- prix-de-vente
 coverImage: ./images/quora.png
 ---
 

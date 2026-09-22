@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- astronomie
+- histoire
 - exploration-spatiale
-- lune-astronomie
-- le-programme-apollo
-- histoire-de-l-astronautique
-- programme-spatial-americain
-- vol-spatial
-- conquete-spatiale
+- lune
 - voyage-spatial
-- lune-satellite-naturel
-- missions-apollo
 coverImage: ./images/quora.png
 ---
 

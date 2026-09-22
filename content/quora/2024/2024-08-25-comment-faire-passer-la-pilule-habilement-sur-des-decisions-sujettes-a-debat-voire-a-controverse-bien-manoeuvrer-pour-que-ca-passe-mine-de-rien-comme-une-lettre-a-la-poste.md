@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- gestion
 - communication
 - controverses
 - strategie
-- la-persuasion
-- decisions
-- gestion
-- negociation
-- techniques-de-persuasion
-- la-communication
+- technique
 coverImage: ./images/quora.png
 ---
 

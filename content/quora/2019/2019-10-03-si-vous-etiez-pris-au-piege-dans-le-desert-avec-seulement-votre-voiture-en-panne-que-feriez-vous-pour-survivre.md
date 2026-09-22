@@ -8,13 +8,9 @@ categories:
 tags:
 - question-hypothetique
 - desert
-- situations-d-urgence
-- jeu-de-survie
-- conseils-de-preparation
+- situation
+- urgences
 - deserts-geographie-physique
-- techniques-de-survie
-- conseil-de-survie
-- des-plans-d-urgence
 coverImage: ./images/quora.png
 ---
 

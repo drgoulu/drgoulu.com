@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- environnement
+- nature
 - animaux
-- sciences-de-la-nature
-- zoologie
 - especes
-- biodiversite
-- classification-des-animaux
-- taxonomie
-- groupes-d-animaux
-- sciences-du-vivant
-- biodiversite-et-environnement
 coverImage: ./images/quora.png
 ---
 

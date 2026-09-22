@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - sante
-- dans-les-montagnes
-- voyage-international
-- activites-en-plein-air
-- altitude
-- randonnee
-- symptomes-medicaux
-- mal-aigu-des-montagnes
 - voyage
+- voyage-international
+- altitude
+- activites-en-plein-air
 coverImage: ./images/quora.png
 ---
 

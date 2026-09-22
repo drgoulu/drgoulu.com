@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- intelligence-humaine
+- histoire
+- humanite
 - evolution-humaine
-- prehistoire
-- homo-sapiens
-- paleoanthropologie
-- histoire-de-l-humanite
-- hominides
-- histoire-evolutive-des-hominides
-- comparaison-d-intelligence
+- comparaisons
+- intelligence-humaine
 coverImage: ./images/quora.png
 ---
 

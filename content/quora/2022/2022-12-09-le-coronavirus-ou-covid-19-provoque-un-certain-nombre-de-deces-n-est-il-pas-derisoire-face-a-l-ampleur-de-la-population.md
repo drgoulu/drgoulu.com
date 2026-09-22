@@ -11,11 +11,6 @@ tags:
 - pandemie
 - mortalite
 - population
-- crise-sanitaire
-- population-mondiale
-- taux-de-mortalite
-- sante-publique-generale
-- drame-sanitaire
 coverImage: ./images/quora.png
 ---
 

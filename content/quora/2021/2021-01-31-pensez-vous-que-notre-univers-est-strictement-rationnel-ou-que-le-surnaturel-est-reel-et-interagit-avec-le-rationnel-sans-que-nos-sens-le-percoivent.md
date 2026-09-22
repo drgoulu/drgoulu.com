@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- le-surnaturel
+- univers
 - perception
 - realite
-- rationalisme
-- l-univers
-- metaphysique
-- sens-philosophie
-- rationnalite
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

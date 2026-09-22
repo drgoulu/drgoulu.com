@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - biologie
-- definition
+- animaux
 - especes
 - etude-scientifique
-- classification-des-animaux
-- taxonomie
-- espece-animale
-- science-biologique
-- definition-scientifique
-- classification-biologique
+- definition
 coverImage: ./images/quora.png
 ---
 

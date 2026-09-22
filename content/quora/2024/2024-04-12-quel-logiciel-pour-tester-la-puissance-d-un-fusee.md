@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- logiciel
-- fusees
+- physique
+- ingenierie
 - technologie-spatiale
-- test
-- puissance-physique
+- logiciels
 - simulation
-- ingenierie-aeronautique
-- simulation-par-ordinateur
-- simulateurs
-- ingenierie-et-technologie-spatiale
 coverImage: ./images/quora.png
 ---
 

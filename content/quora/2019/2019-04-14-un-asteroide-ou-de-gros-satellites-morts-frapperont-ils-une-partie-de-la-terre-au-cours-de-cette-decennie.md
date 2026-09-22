@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - sciences
-- risque-et-risques
-- terre-planete
+- terre
+- planetes
 - espace
-- impact
-- collisions-d-asteroides
-- catastrophes-naturelles
-- satellites
-- asteroides
 - risques
 coverImage: ./images/quora.png
 ---

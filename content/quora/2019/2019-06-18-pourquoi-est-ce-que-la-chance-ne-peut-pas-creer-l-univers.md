@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - philosophie
-- chance
-- creation
-- l-univers
-- theorie-des-probabilites
+- univers
 - cosmologie
-- origine-de-l-univers
-- philosophie-de-la-cosmologie
-- philosophie-des-sciences
-- la-chance
+- theorie
 coverImage: ./images/quora.png
 ---
 

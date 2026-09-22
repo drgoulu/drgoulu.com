@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - climatologie
-- activites-en-plein-air
-- neige
-- montagnes
+- sport
 - meteo
-- station-de-ski
 - phenomene-meteorologique
 - conditions-climatiques
-- sports-d-hiver
-- previsions-meteo
 coverImage: ./images/qimg-16d984c1dabad6fc96b3c24404980a3d.png
 ---
 

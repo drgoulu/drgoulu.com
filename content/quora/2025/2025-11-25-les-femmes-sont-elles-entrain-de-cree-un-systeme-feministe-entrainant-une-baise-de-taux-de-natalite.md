@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- societe
 - sociologie
-- baisse-du-taux-de-natalite
-- population
-- feminisme
-- genre-humain
-- changements-sociaux
-- culture-et-societe
 - demographie
-- la-fertilite
-- taux-de-naissance
+- culture
+- population
 coverImage: ./images/quora.png
 ---
 

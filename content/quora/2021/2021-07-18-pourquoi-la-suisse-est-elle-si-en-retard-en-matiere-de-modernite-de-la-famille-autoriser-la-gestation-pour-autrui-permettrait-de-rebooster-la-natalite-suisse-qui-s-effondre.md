@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - societe
-- gpa
-- demographie
-- natalite
+- droit
 - suisse
-- famille-moderne
-- sante-reproductive
-- politique-sociale
-- droit-de-la-famille
-- modernite
+- demographie
+- famille
 coverImage: ./images/quora.png
 ---
 

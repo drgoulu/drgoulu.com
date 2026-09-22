@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- vitesse-de-la-lumiere
-- theorie-de-la-relativite
-- phenomenes
-- relativite-restreinte
+- theorie
 - physique-theorique
-- relativite-physique
-- phenomenes-physiques
 - relativite
-- phenomene
+- lumiere
 coverImage: ./images/quora.png
 ---
 

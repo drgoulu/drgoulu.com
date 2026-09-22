@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- ecrans
-- fatigue-oculaire
-- lunettes-de-soleil
-- lumiere-artificielle
-- protection-des-yeux
-- problemes-oculaires
-- sante-des-yeux
+- sciences
+- technologies
+- protection
+- yeux
+- sante
 coverImage: ./images/qimg-879daf877e25ae7e8527601307d7e7d4.jpg
 ---
 

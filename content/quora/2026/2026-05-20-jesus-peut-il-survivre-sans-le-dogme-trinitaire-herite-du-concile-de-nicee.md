@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - christianisme
 - theologie
 - jesus
-- symbole-de-nicee
-- la-trinite
-- histoire-du-christianisme
-- christianisme-trinitaire
-- dogmatisme
-- concile-de-nicee
 - jesus-christ
 coverImage: ./images/quora.png
 ---

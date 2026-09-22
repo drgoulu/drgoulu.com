@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - philosophie
-- corps-humains
-- evolution-processus
-- religion
-- creation
-- biologie-humaine
-- anatomie
-- science-et-religion
+- evolution
 - biologie
-- philosophie-des-sciences
+- religion
 coverImage: ./images/quora.png
 ---
 

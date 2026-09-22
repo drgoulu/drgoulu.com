@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- anneaux
 - systeme-solaire
-- lunes-de-saturne-astronomie
-- planetes-astronomie
+- planetes
 - anneaux-de-saturne
-- planetes-du-systeme-solaire
 - saturne-planete
-- le-systeme-solaire
 coverImage: ./images/quora.png
 ---
 

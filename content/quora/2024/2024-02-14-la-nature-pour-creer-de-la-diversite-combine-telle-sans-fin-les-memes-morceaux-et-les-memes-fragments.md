@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- evolution-processus
 - sciences
-- creation
-- biodiversite
-- nature
+- philosophie
+- evolution
 - biologie
-- philosophie-des-sciences
-- diversite
-- evolution-biologie
+- nature
 coverImage: ./images/quora.png
 ---
 

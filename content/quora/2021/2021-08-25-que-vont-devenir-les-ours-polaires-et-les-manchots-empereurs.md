@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- animaux
 - changement-climatique
-- manchot
-- ours-polaires
-- faune
-- animaux-en-voie-de-disparition
-- extinction-des-especes
 - rechauffement-climatique
-- animaux-polaires
-- le-changement-climatique
+- animaux
+- especes
+- extinction
 coverImage: ./images/quora.png
 ---
 

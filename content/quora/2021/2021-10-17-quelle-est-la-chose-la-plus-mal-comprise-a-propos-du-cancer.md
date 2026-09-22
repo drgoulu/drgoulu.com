@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- comprehension
 - sciences
-- cancer
 - recherche-scientifique
-- information-medicale
+- sante
 - medecine
-- maladie
-- sante-humaine
 - recherche-medicale
 coverImage: ./images/quora.png
 ---

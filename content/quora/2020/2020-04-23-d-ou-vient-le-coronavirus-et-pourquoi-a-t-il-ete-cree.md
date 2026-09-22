@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- recherche-scientifique
 - sante-publique
 - covid-19-2019-2020
 - theories-du-complot
-- recherche-scientifique
 - virus
-- epidemiologie
-- origine-de-covid-19
-- coronavirus-general
-- virologie
-- theories-du-complot-specifiques
 coverImage: ./images/quora.png
 ---
 

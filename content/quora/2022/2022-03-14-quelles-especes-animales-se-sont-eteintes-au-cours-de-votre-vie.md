@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
+- terre
+- nature
 - animaux
-- histoire-de-la-terre
-- extinction-des-especes
-- faune
-- biodiversite
 - especes
-- conservation-de-la-nature
-- extinction
-- extinction-de-l-holocene
-- extinction-animale
 coverImage: ./images/quora.png
 ---
 

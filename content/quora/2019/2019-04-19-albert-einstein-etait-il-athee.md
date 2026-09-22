@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
+- religion
+- opinion
 - croyance
-- personne
-- albert-einstein-physicien
-- scientifiques
-- religions
-- opinions-et-croyances
-- atheisme
-- science-et-religion
-- philosophique
 coverImage: ./images/quora.png
 ---
 

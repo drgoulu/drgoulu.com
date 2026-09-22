@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - materiaux
-- micron-societe
-- trancher
 - proprietes
-- science-des-materiaux-et-ingenierie
-- microscope
-- fibre
-- micro
+- sciences
+- ingenierie
 - proprietes-physiques
-- fibre-materiau
 coverImage: ./images/quora.png
 ---
 

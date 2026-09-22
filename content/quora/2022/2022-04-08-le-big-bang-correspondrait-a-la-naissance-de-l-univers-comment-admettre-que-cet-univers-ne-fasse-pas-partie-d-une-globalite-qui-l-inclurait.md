@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - philosophie
-- univers-observable
-- theories-de-tout-physique
-- metaphysique
+- univers
 - cosmologie
-- l-univers
 - theorie
-- philosophie-de-la-cosmologie
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sante
-- conscience
-- experience-de-mort-imminente
-- corps-humains
-- temps-physique
-- neurologie
+- temps
 - medecine
-- conscience-de-soi
-- mort-imminente
+- experience
 coverImage: ./images/quora.png
 ---
 

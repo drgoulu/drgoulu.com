@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - pays
+- afrique
 - voyage-international
-- namibie
-- lieux-touristiques
-- voyageurs
-- pays-africains
 - touristes
-- destinations-de-voyage
-- pays-d-afrique
+- voyageurs
 coverImage: ./images/quora.png
 ---
 

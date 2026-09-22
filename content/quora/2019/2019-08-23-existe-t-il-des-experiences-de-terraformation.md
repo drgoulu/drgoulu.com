@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- experiences
-- astrobiologie
+- recherche-scientifique
+- espace
 - exploration-spatiale
-- terraformation
-- recherches-scientifiques
-- colonisation-de-l-espace
-- ingenierie-et-technologie-spatiale
 - science-spatiale
-- experiences-scientifiques
+- ingenierie
 coverImage: ./images/quora.png
 ---
 

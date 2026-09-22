@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - biologie
-- tardigrade
-- extremophile
-- resilience
-- zoology
 - zoologie
-- science-nature
 - science-biologique
-- biology
+- science-nature
 coverImage: ./images/quora.png
 ---
 

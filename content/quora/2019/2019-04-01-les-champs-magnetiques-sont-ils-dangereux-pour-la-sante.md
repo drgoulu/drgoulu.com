@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- champs-magnetiques
 - physique
-- risques-pour-la-sante
-- science-physique
-- sante-physique
-- effets-sur-la-sante
-- sante-humaine
-- physique-medicale
+- sciences
+- sante
+- risques
+- effet
 coverImage: ./images/quora.png
 ---
 

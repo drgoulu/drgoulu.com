@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- ideologies-politiques
-- comparaison-de-culture
-- analyse-politique
-- parlements
-- partis-politiques
-- science-politique
-- systemes-politiques
-- politique-comparative
-- systeme-parlementaire
-- ideologie-politique
+- politique
+- comparaisons
+- culture
+- sciences-politiques
+- analyse
 coverImage: ./images/quora.png
 ---
 

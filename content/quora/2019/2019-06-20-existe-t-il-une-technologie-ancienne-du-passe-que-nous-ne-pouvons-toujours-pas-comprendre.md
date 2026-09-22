@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- incomprehension
-- histoire-des-inventions
-- archeologie
+- histoire
+- invention
 - mysteres
-- civilisations-anciennes
-- ingenierie-ancienne
-- histoire-et-civilisations-de-lantiquite
-- technologie-ancienne
+- archeologie
 coverImage: ./images/quora.png
 ---
 

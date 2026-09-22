@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - philosophie
-- la-vie-apres-la-mort
+- vie
 - conscience
-- existenc
-- l-esprit-humain
 - metaphysique
-- corps-et-ame
-- conscience-et-vie
-- la-philosophie
 - existence
 coverImage: ./images/quora.png
 ---

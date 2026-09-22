@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
+- planetes
+- vie
+- espace
 - exploration-spatiale
-- difficulte
-- comparaison-des-modes-de-vie
-- mars-planete
-- histoire-de-l-astronautique
-- voyage-dans-l-espace
-- exploration-de-mars
-- conquete-spatiale
-- missions-spatiales
-- voyage-spatial-vers-mars
 coverImage: ./images/quora.png
 ---
 

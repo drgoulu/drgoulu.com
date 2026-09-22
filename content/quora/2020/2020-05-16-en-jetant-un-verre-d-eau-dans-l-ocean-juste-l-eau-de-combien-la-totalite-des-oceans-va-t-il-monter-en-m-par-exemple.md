@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - physique
-- hausse-du-niveau-de-la-mer
 - sciences
-- oceans
 - calcul
-- dimension
-- sciences-de-la-mer
-- magnitude
-- volume-physique
-- niveau-de-la-mer
+- dimensions
+- oceans
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- interaction-elementaire
-- atome-d-hydrogene
-- modele-standard-de-la-physique-des-particules
+- matiere
 - physique-quantique
-- particules-elementaires
+- atomes
 - hydrogene
-- physique-de-la-matiere
-- atome-physique-quantique
-- physique-des-particules
 coverImage: ./images/quora.png
 ---
 

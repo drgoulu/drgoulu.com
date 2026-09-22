@@ -7,13 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- mercure-element
-- modification-de-l-atome
-- or
 - chimie
 - atomes
 - elements-chimiques
-- mercure
+- or
 coverImage: ./images/qimg-dacf882c5667db2291edabce2d2974dd.jpg
 ---
 

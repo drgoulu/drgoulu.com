@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- comportement-humain
-- science-fiction-genre
-- zombies
-- question-hypothetique
-- virus
-- agressivite
 - humanite
-- apocalypse
-- films-de-zombies
+- question-hypothetique
+- science-fiction-genre
+- comportement-humain
 - hypotheses
 coverImage: ./images/qimg-c37ed04412ed10fbd5ce026ecdffc3b5.gif
 ---

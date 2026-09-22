@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- vie
 - recherche-scientifique
-- '2022'
-- actualites
-- sciences-de-la-vie
 - recherche
 - decouvertes-scientifiques
-- evenements-scientifiques
-- actualite-scientifique
-- sciences-du-vivant
-- science-et-vie
 coverImage: ./images/quora.png
 ---
 

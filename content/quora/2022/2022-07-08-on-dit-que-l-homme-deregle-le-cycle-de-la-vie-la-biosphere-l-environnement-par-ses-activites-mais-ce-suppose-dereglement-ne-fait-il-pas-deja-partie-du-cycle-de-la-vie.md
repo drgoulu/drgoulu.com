@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie-des-sciences
-- l-environnement
-- activite-humaine
+- sciences
+- philosophie
+- environnement
 - ecologie
-- biospheres
-- le-cycle-de-la-vie
 - ecologisme
-- actions-humaines
-- cycles-de-vie
-- la-biosphere
 coverImage: ./images/quora.png
 ---
 

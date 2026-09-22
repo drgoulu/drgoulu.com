@@ -9,11 +9,7 @@ tags:
 - langues
 - rythme
 - linguistique
-- traitement-de-la-parole
 - langage
-- phonologie
-- ecriture-de-paroles
-- sciences-de-la-parole
 - phonetique
 coverImage: ./images/quora.png
 ---

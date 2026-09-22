@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
-- espace
 - astronomie
-- centaure
-- galaxies
-- matiere-physique
 - astrophysique
-- astronomie-et-astrophysique
-- galaxies-astronomie
+- espace
+- trous-noirs
 coverImage: ./images/qimg-c2e166d7e14b1968a76a19185f09e528.jpg
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- questionnement-socratique
-- progres-humain
-- philosophie-des-sciences
+- philosophie
+- sciences
 - medecine
-- sciences-de-la-sante
-- philosophie-et-science
 - progres-scientifique
-- sciences-medicales
 coverImage: ./images/quora.png
 ---
 

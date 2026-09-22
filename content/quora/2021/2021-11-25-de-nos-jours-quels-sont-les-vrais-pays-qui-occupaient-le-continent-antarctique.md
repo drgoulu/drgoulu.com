@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- pays
-- expeditions-antarctiques
-- occupation
-- continents
-- geographie-politique
-- territoires
-- antarctique
+- politique
+- monde
 - geographie
-- geographie-du-monde
+- pays
 coverImage: ./images/quora.png
 ---
 

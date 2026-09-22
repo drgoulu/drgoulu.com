@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- le-vide-quantique
-- recherche-scientifique
-- mecanique-quantique
-- energie-physique
 - physique-theorique
-- fluctuation-quantique
-- physique-quantique
-- etude-scientifique
+- energie
+- recherche-scientifique
 coverImage: ./images/quora.png
 ---
 

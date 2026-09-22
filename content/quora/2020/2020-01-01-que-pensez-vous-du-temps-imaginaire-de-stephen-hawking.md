@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- stephen-hawking
-- l-univers
-- temps-subjectif
+- philosophie
+- univers
 - cosmologie
-- theorie-du-temps
-- relativite-physique
-- physique-theorique
-- philosophie-de-la-cosmologie
-- physique-mathematique
+- theorie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- vie
 - psychologie
-- succes
-- differences-individuelles-et-de-groupe
 - comportement-humain
 - motivation
-- reussite-personnelle
-- facteurs-de-succes
-- epanouissement-personnel
-- motivation-personnelle
-- succes-dans-la-vie
+- facteurs
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- informatique
 - mathematiques
+- theorie
 - recherche-scientifique
-- theorie-des-nombres-premiers
-- algorithmes
-- sciences-informatiques
-- recherche
-- etude-scientifique
-- theorie-des-nombres
+- informatique
+- nombres
 coverImage: ./images/quora.png
 ---
 

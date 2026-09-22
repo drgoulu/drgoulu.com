@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- imperfection
-- evolution-biologie
-- excellence
-- perfection
-- philosophie-de-la-vie
-- theorie-de-l-evolution
-- philosophie-des-sciences
-- evolutionisme
+- evolution
+- biologie
+- theorie
 coverImage: ./images/quora.png
 ---
 

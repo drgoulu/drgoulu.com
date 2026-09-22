@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- communication
-- fourmis
-- president-de-la-republique
-- especes
+- environnement
 - changement-climatique
-- conscience-des-animaux
-- protection-de-l-environnement
-- especes-de-fourmi
-- l-espece-animal
-- le-rechauffement-climatique
+- rechauffement-climatique
+- animaux
+- especes
 coverImage: ./images/quora.png
 ---
 

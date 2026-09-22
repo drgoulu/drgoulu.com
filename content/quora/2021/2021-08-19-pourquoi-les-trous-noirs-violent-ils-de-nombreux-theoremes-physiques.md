@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- trous-noirs
 - astronomie
-- cosmologie
-- concepts-en-physique
+- philosophie
 - astrophysique
-- physique-theorique
-- philosophie-de-la-physique
-- theories-physiques
-- les-trous-noir
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- modele-janus
 - astronomie
-- trous-noirs
-- theorie-scientifique
-- cosmologie
-- astrophysiciens
-- physique-theorique
+- philosophie
 - astrophysique
-- philosophie-de-la-cosmologie
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

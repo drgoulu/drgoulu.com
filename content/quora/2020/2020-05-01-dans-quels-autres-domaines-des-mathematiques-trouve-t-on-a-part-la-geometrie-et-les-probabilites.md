@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- pi
-- probabilite-statistiques
-- geometrie-analytique
 - geometrie
-- concepts-mathematiques
-- branches-des-mathematiques
-- geometrie-hyperbolique
-- geometrie-spherique
-- geometrie-algebrique
+- probabilite-statistiques
+- concepts
+- pi
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- voyage-dans-l-espace
-- effets-sur-la-sante
-- biologie-humaine
-- relativite-restreinte
-- vitesse-de-la-lumiere
-- exploration-spatiale
-- relativite-physique
-- voyage-spatial
-- physique-et-biologie
+- biologie
+- relativite
+- sante
+- espace
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
+- histoire
+- evolution
+- biologie
 - recherche-scientifique
-- charles-darwin
-- influence-culturelle
-- evolution-biologie
-- histoire-des-sciences
-- taxonomie
-- darwinisme
-- histoire-de-la-biologie
-- histoire-de-la-science
 coverImage: ./images/quora.png
 ---
 

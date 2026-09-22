@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
+- histoire
 - mathematiques
-- histoire-des-sciences
-- derive
 - decouvertes-scientifiques
-- mathematiques-histoire
-- histoire-du-calcul
-- calcul-mathematique
-- sciences-mathematiques
-- histoire-des-mathematiques
-- mathematiques-et-sciences
+- calcul
 coverImage: ./images/quora.png
 ---
 

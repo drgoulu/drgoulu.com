@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie
-- virus
-- sciences-de-la-vie
+- sciences
 - evolution
-- micro-organismes
-- virologie
-- biologie-de-l-evolution
-- organismes-vivants
-- science-biologique
-- evolution-biologie
+- biologie
+- vie
+- virus
 coverImage: ./images/quora.png
 ---
 

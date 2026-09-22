@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- informatique
-- microphones
 - recherche-scientifique
-- precision
-- traitement-du-signal
-- acoustique
+- informatique
 - ingenierie
-- localisation
-- traitement-du-signal-numerique
+- precision
+- acoustique
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - christianisme
-- concile-de-nicee
-- histoire-des-religions
-- la-tradition-judeo-chretienne
+- histoire
+- religion
 - judaisme
 - chretiens
-- relations-interreligieuses
-- christianisme-et-judaisme
-- histoire-du-christianisme
-- histoire-de-la-religion
 coverImage: ./images/quora.png
 ---
 

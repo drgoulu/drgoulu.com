@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-politiques
-- gouvernement
+- philosophie
+- theorie
+- politique
+- systeme
 - democratie
-- philosophie-politique
-- systeme-de-gouvernement
-- theorie-politique
-- science-politique
-- gouvernance
-- principe-politique
-- formes-de-gouvernement
 coverImage: ./images/quora.png
 ---
 

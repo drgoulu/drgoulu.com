@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - quora
-- plateformes-de-medias-sociaux
+- contenu
 - liberte-d-expression
 - censure
 - questions-reponses
-- moderation-de-contenu
-- plateforme-quora
-- sites-internet-de-questions-reponses
-- censure-sur-quora
-- moderation-quora
 coverImage: ./images/quora.png
 ---
 

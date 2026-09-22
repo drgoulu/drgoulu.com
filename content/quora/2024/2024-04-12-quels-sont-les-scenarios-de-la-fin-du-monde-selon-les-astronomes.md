@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- scenarios-hypothetiques-de-deces
-- fin-du-monde
-- theorie-scientifique
 - cosmologie
-- evenements-d-extinction
+- extinction
+- theorie-scientifique
 - hypotheses-scientifiques
-- scenarios-de-fin-du-monde
-- evenements-scientifiques
 coverImage: ./images/quora.png
 ---
 

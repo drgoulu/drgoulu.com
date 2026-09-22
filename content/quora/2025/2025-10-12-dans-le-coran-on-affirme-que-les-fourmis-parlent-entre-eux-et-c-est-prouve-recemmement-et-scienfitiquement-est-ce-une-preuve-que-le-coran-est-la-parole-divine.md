@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- religion
-- fourmis
 - sciences
-- communication-animale
-- preuve-de-dieu
-- coran
+- religion
 - theorie-scientifique
 - islam
-- science-et-religion
-- intelligence-animale
+- preuve
 coverImage: ./images/quora.png
 ---
 

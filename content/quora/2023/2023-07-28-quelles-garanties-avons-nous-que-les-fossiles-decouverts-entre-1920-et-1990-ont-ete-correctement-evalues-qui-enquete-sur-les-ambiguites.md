@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - recherche-scientifique
-- controverses
-- fossiles
-- methodes
-- verification
-- paleontologie
-- methodes-de-recherche
+- recherche
 - etude-scientifique
-- paleontologues
-- enquetes-scientifiques
+- paleontologie
+- methodes
 coverImage: ./images/quora.png
 ---
 

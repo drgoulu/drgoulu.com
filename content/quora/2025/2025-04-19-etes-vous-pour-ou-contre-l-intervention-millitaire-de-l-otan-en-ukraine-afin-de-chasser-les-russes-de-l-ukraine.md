@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- opinion-publique
-- russie
 - relations-internationales
-- otan
-- ukraine
-- operation-militaire-russe-en-ukraine
-- conflit-en-ukraine
-- relations-otan-ukraine
+- guerre
+- opinion-publique
 - politique-internationale
-- guerre-en-ukraine
+- russie
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- univers-observable
 - astronomie
-- explosion-nucleaire
-- photons
-- distance
-- lumiere-physique
-- energie
 - astrophysique
-- distances
+- energie
+- lumiere
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- etoiles-astronomie
-- effondrement
 - astronomie
-- processus
-- champ-gravitationnel
-- cosmologie
 - astrophysique
-- force-gravitationnelle
+- cosmologie
+- processus
 coverImage: ./images/quora.png
 ---
 

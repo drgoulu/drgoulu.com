@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
+- astronomie
+- histoire
 - philosophie
-- personne-reelle
-- isaac-newton
-- recentisme
-- histoire-de-la-science
-- scientifiques
-- histoire-de-l-astronomie
-- philosophie-des-sciences
-- histoire-de-la-physique
-- histoire-des-sciences
 coverImage: ./images/quora.png
 ---
 

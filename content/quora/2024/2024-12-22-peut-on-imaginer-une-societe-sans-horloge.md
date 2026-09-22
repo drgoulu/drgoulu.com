@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sociologie
-- modes-de-vie-alternatifs
-- gestion-du-temps
-- activite-humaine
-- concept-philosophique-lie-au-temps
+- philosophie
+- temps
 - anthropologie
-- perception-du-temps
-- mesure-du-temps
-- organisation-du-temps
-- philosophie-du-temps
+- sociologie
+- perception
 coverImage: ./images/quora.png
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- experiences
+- experience
+- experiences-personnelles
 - architecture
-- reglementation
-- construction-de-batiments
-- experience-personnelle
 - construction
-- architecte
-- experience-professionnelle
+- reglementation
 coverImage: ./images/quora.png
 ---
 

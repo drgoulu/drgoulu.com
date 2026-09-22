@@ -7,16 +7,11 @@ categories:
 - Pourquoi
 - Comment
 tags:
+- sciences
 - philosophie
+- societe
 - internet
-- debats-de-societe
 - langage
-- culture
-- essentialisme
-- wikipedia
-- debat
-- culture-science-sociale
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

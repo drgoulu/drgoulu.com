@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- salaires-et-remunerations
+- vie
 - suisse
+- choix
+- salaires-et-remunerations
 - impots
-- epargne
-- choix-de-la-vie
-- vivre-en-france
-- niveau-de-vie
-- travailler-en-suisse
-- comparaisons-de-salaires
 coverImage: ./images/quora.png
 ---
 

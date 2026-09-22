@@ -8,14 +8,9 @@ categories:
 tags:
 - finance
 - opinion-publique
-- systeme-bancaire-suisse
 - suisse
-- banques
-- reputation
-- secteur-financier
 - opinions-populaires
 - image-publique
-- secteur-bancaire
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - astronomie
-- crateres-d-impact
-- histoire-des-sciences
-- lune-satellite-naturel
-- terre-planete
-- systeme-solaire
-- collisions-d-asteroides
-- science-de-la-terre
-- histoire-de-la-terre
-- asteroides
+- histoire
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

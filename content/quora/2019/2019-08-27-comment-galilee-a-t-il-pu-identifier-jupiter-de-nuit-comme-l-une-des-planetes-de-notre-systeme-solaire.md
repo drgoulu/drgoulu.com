@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - astronomie
-- histoire-des-sciences
-- galilee
+- histoire
+- planetes
 - systeme-solaire
-- jupiter-planete
-- astronomes
-- planetes-astronomie
-- histoire-de-l-astronomie
 coverImage: ./images/quora.png
 ---
 

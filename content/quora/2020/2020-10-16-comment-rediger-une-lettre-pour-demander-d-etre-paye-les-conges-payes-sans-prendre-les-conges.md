@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- droit
+- travail
 - travail-emploi
 - salaires-et-remunerations
-- conges
-- lettre-de-demande
 - employes
-- droit-des-employes
-- travail
-- employeurs
-- conges-payes
-- droit-du-travail
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- biologie
-- sang
-- moustiques
-- evolution-processus
-- sciences-de-la-vie
-- mutation-et-mutations-genetique
-- entomologie
-- biologie-animale
+- sciences
 - evolution
+- biologie
+- vie
+- processus
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- espace
-- theorie-des-cordes
-- geometrie
-- dimension
+- theorie
 - physique-theorique
-- espace-temps
-- dimensions-physique
-- physique-mathematique
+- espace
 coverImage: ./images/quora.png
 ---
 

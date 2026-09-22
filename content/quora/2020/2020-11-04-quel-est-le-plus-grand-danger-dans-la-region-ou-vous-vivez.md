@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - securite
-- dangers
-- lieu-de-vie
-- risque-et-risques
-- menaces
-- securite-personnelle
 - risques
-- insecurite
-- lieu-d-habitation
-- danger-et-dangers
+- risque-et-risques
+- dangers
+- securite-personnelle
 coverImage: ./images/quora.png
 ---
 

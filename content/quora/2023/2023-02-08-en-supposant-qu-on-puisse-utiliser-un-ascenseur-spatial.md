@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
+- physique
+- sciences
+- energie
 - espace
-- fusees
-- energie-physique
-- gravitation
-- ascenseurs-spatiaux
-- voyage-spatial
-- technologie-spaciale
-- economie-d-energie
-- sciences-technologies
+- technologies
 coverImage: ./images/quora.png
 ---
 

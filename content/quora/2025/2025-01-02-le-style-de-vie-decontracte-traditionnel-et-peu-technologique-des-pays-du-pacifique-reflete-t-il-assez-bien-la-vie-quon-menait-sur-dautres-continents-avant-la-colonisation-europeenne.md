@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- l-iles-du-pacifique
-- anthropologie-culturelle
-- colonisation-europeenne
-- style-de-vie
-- comparaison-de-culture
-- histoire-precoloniale
-- histoire-du-monde
+- monde
+- comparaisons
 - histoire-humaine
-- ocean-pacifique
+- culture
 coverImage: ./images/quora.png
 ---
 

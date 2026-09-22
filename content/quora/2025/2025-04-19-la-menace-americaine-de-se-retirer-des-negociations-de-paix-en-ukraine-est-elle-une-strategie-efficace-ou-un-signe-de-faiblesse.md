@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - relations-internationales
-- les-etats-unis-d-amerique
-- conflit-en-ukraine
-- analyse-politique
-- geopolitique
-- negociation
-- politique-etrangere-des-etats-unis
+- guerre
+- etats-unis
 - politique-internationale
-- guerre-en-ukraine
-- diplomatie-et-relation-internationale
 coverImage: ./images/quora.png
 ---
 

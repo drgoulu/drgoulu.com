@@ -8,13 +8,9 @@ categories:
 tags:
 - astronomie
 - recherche-scientifique
-- voie-lactee
 - systeme-solaire
-- exoplanetes
 - galaxies
-- astronomie-d-observation
 - decouvertes-scientifiques
-- galaxie-de-la-voie-lactee
 coverImage: ./images/qimg-a9b08865c2fc24b84aae8dec466b68c3.gif
 ---
 

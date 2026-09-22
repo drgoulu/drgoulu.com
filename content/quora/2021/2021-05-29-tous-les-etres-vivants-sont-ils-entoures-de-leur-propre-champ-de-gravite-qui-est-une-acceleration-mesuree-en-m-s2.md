@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- etres-vivants
-- champ-gravitationnel
-- acceleration-physique
-- gravitation
-- astrophysics
+- biologie
 - relativite
-- organismes-vivants
-- physique-et-biologie
+- gravitation
 coverImage: ./images/quora.png
 ---
 

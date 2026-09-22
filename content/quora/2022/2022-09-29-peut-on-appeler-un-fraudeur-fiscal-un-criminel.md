@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- fraude
 - droit
-- moralite
 - justice
-- systeme-juridique
-- criminalite
-- fraude-fiscal
+- moralite
 - droit-public
+- fraude
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- catastrophes-naturelles
-- terre-planete
+- terre
+- planetes
 - systeme-solaire
-- science-nature
-- collisions-d-asteroides
-- risques-naturels
-- asteroides
-- dangers-naturels
+- catastrophes-naturelles
 coverImage: ./images/quora.png
 ---
 

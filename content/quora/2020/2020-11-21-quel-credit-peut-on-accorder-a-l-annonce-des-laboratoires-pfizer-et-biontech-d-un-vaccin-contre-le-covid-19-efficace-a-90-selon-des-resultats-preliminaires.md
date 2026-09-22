@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sante
 - covid-19-2019-2020
-- efficacite
-- sante-et-securite-publiques
-- vaccins
 - recherche-medicale
-- pfizer-entreprise
-- preliminaires
-- resultats
-- vaccination-covid-19
-- recherche-clinique
+- vaccins
+- securite-publique
 coverImage: ./images/quora.png
 ---
 

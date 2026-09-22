@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - philosophie
-- futur
-- l-extinction-humaine
-- progres
 - humanite
-- anthropologie
-- destin-humain
-- histoire-de-l-humanite
 - evolution-humaine
-- avenir-de-l-humanite
+- anthropologie
 coverImage: ./images/quora.png
 ---
 

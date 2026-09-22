@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- opinion-publique
-- novartis-societe
-- compagnie
 - suisse
-- big-pharma
-- industrie-pharmaceutique
-- reputation
+- opinion-publique
 - image-publique
+- industrie-pharmaceutique
 - opinions-populaires
-- l-industrie-pharmaceutique
 coverImage: ./images/quora.png
 ---
 

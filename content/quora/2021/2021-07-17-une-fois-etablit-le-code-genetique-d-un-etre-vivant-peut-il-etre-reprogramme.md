@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - biologie
-- programmation-genetique
-- sciences-de-la-vie
+- vie
 - genetique
-- manipulations-genetiques
-- ingenierie-genetique
 - genetique-moleculaire
-- genie-genetique
-- code-genetique
-- modifications-genetiques
 coverImage: ./images/quora.png
 ---
 

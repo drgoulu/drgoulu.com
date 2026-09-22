@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- botanique
-- extinction-des-especes
-- biodiversite
-- conservation-de-la-nature
-- vegetaux
-- especes-menacees
-- especes-rares
+- nature
+- especes
+- extinction
 - conservation
-- evenements-d-extinction
-- biodiversite-vegetale
+- biodiversite
 coverImage: ./images/quora.png
 ---
 

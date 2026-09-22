@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - education
-- question-sondage
 - reflexion
-- classe
-- eleve
-- question-de-liste
-- etudiants
 - enseignement
-- ecole
+- question-sondage
+- etudiants
 coverImage: ./images/quora.png
 ---
 

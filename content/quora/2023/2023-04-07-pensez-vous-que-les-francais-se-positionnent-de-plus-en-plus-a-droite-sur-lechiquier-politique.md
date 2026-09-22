@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - france
+- opinion
 - opinion-publique
 - politique-francaise
-- les-francais
-- spectre-politique
-- politique
-- tendances-politique
-- droite-politique
-- opinion-politique
-- vie-politique-francaise
 coverImage: ./images/quora.png
 ---
 

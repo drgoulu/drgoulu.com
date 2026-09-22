@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- terrain-de-jeux
-- sens-de-la-vie
-- la-bataille
-- metaphore
-- lexistence-humaine
+- vie
+- perception
+- jeux
 - existence
-- etre-humain
-- champs-de-bataille
-- perception-de-la-vie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- croyance
-- evolution-processus
-- doute
+- evolution
+- biologie
 - religion
-- atheisme-et-science
-- atheisme
-- philosophie-des-sciences
-- science-et-religion
-- evolution-biologie
 coverImage: ./images/quora.png
 ---
 

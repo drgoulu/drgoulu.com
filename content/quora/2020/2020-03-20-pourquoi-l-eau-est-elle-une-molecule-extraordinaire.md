@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sciences
-- proprietes-de-l-eau
-- eau
+- biologie
 - chimie
-- molecules
+- eau
 - proprietes
-- proprietes-chimiques
-- chimie-et-science
-- proprietes-physiques
-- chimie-biologie
 coverImage: ./images/qimg-4049ff8384f592a003bb37e945ca8769.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- planetes
+- technologies
 - exploration-spatiale
-- difficulte
-- chronologie
-- mars-planete
-- problemes-de-technologie
-- exploration-humaine-sur-mars
-- conquete-spatiale
-- voyage-spatial-vers-mars
-- mission-sur-mars
-- recherche-spatiale
+- mars
+- probleme
 coverImage: ./images/quora.png
 ---
 

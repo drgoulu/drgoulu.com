@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- voitures-et-automobiles
-- risque
-- probabilite-statistiques
-- explosions
+- risques
 - risque-et-risques
-- armes-et-armes-a-feu
-- reservoirs-de-carburant
-- securite-automobile
-- danger-et-dangers
+- probabilite-statistiques
 - probabilite
+- voitures
 coverImage: ./images/quora.png
 ---
 

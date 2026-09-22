@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
+- vie
 - sante
-- habitude-de-sommeil
+- qualite
 - bien-etre
-- fatigue
-- qualite-de-vie
-- troubles-du-sommeil
-- hygiene-de-vie
-- cycle-du-sommeil
-- sommeil-et-insomnie
-- science-du-sommeil
 coverImage: ./images/quora.png
 ---
 

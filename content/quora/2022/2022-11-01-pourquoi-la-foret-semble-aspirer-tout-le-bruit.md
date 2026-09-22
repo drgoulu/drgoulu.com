@@ -6,15 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
 - sciences
-- bruit
-- phenomene-naturel
-- forets
-- l-environnement
-- acoustique
-- la-nature
+- environnement
 - nature
-- science-physique
 - phenomenes-physiques
 coverImage: ./images/qimg-08b42bb559e1bab2e32e5ea73fc87c23.jpg
 ---

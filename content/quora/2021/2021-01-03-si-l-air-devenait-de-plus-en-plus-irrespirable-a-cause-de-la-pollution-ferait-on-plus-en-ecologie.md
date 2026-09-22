@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante-publique
+- environnement
 - changement-climatique
 - ecologie
-- conscience-humaine
+- sante-publique
 - developpement-durable
-- respect-de-l-environnement
-- qualite-de-l-air
-- pollution-de-l-air
-- protection-de-l-environnement
-- crise-climatique
 coverImage: ./images/quora.png
 ---
 

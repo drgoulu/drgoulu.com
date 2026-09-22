@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- films-d-animation
-- histoire-de-l-entreprise
-- disney
-- acquisition
-- steve-jobs
-- entreprise-et-industrie-du-cinema
-- the-walt-disney-company-societe
-- decisions-d-affaires
-- films-pixar
+- histoire
+- entreprises
+- cinema
+- industrie
+- affaires
 coverImage: ./images/quora.png
 ---
 

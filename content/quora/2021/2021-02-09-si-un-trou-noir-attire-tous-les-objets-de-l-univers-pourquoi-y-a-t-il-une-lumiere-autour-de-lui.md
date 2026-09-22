@@ -7,14 +7,9 @@ categories:
 - Pourquoi
 tags:
 - physique
-- trous-noirs
 - astronomie
-- corps-celestes
-- l-univers
-- lumiere-physique
-- phenomenes-optiques
-- gravitation
 - astrophysique
+- univers
 - relativite
 coverImage: ./images/quora.png
 ---

@@ -7,11 +7,8 @@ categories:
 - Comment
 tags:
 - physique
-- leptons-du-modele-standard
-- elementary-particles
-- masse-physique
-- anti-particules
 - physique-quantique
+- masse-physique
 - particules
 - modele-standard-de-la-physique-des-particules
 coverImage: ./images/quora.png

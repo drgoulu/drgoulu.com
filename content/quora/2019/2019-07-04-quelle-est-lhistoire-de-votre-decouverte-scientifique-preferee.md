@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-personnelle
-- histoire-des-sciences
-- opinion-personnelle
+- sciences
+- histoire
 - recherche-scientifique
-- perspective-personnelle
-- curiosite-scientifique
-- pensee-personnelle
 - decouvertes-scientifiques
-- histoire-de-la-science
+- opinion-personnelle
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- france
-- desastre-nucleaire-de-tchernobyl-avril-1986
 - histoire
-- nuage
+- france
 - sante-publique
 - radioactivite
-- victimes-civiles
-- centrale-nucleaire-de-tchernobyl
-- catastrophe-de-tchernobyl
+- catastrophes
 coverImage: ./images/quora.png
 ---
 

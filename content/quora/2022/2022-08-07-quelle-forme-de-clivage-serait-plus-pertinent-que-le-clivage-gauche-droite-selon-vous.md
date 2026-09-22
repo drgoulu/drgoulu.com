@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
+- theorie
 - politique
-- opinion-publique
-- ideologies
-- systeme-de-gouvernement
-- philosophie-politique
-- spectre-politique
-- opinion-politique
-- science-politique
-- theorie-politique
-- ideologies-politiques
+- opinion
+- systeme
 coverImage: ./images/quora.png
 ---
 

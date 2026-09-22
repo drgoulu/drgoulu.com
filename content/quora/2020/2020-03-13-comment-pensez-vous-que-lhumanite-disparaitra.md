@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - philosophie
-- science-fiction-genre
-- scenarios-hypothetiques
-- fin-du-monde
-- catastrophes
-- avenir-de-l-humanite
-- extinction-des-especes
 - humanite
-- hypotheses
-- l-extinction-humaine
+- especes
+- extinction
+- science-fiction-genre
 coverImage: ./images/quora.png
 ---
 

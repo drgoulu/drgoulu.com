@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- evenement-historique
-- philosophie-de-l-histoire
-- histoire-de-l-humanite
-- evenement-histoire
-- l-histoire-humain
-- l-histoire
-- histoire-de-lhomme
+- philosophie
+- humanite
 - histoire-humaine
+- evenement
 coverImage: ./images/quora.png
 ---
 

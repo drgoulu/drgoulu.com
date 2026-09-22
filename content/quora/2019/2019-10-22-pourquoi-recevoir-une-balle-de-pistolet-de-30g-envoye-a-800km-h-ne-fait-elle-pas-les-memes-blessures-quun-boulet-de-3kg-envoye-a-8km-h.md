@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - vitesse
-- blessures-par-balle
-- effets
-- energie-cinetique
-- ballistique
-- deceleration-vitesse
 - masse-physique
-- force-physique
-- physique-medicale
+- force
+- effet
 coverImage: ./images/quora.png
 ---
 

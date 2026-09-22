@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- experiences
+- sciences
 - biologie
-- matiere
-- sciences-de-la-vie
-- chimie-inorganique
-- abiogenese
-- recherches-scientifiques
-- origine-de-la-vie
-- science-experimentale
-- sciences-experimentales
+- vie
+- recherche-scientifique
+- origines
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- corde-outil
 - espace
 - exploration-spatiale
-- gravite
-- mouvement-physique
-- station-spatiale-internationale
-- technologie-spatiale
-- stations-spatiales
 - science-spatiale
+- gravite
 coverImage: ./images/quora.png
 ---
 

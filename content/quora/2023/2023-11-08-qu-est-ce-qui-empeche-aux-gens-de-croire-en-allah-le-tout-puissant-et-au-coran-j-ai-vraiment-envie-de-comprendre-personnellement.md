@@ -10,12 +10,7 @@ tags:
 - doute
 - foi
 - croyance
-- coran
-- dieu-allah
-- l-islam
 - islam
-- la-foi
-- allah
 coverImage: ./images/quora.png
 ---
 

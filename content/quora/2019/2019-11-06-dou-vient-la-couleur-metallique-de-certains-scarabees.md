@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- nature
+- animaux
 - biologie-animale
-- scarabe
-- la-nature
-- couleur
-- sciences-de-la-nature
 - zoologie
-- entomologie
-- sciences-des-animaux
 coverImage: ./images/quora.png
 ---
 

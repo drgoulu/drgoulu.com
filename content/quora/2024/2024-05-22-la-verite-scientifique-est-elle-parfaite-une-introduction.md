@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- introductions
-- epistemologie
 - sciences
-- verite
-- methodologie-en-sciences
-- honnetete-intellectuelle
-- la-methode-scientifique
-- philosophie-et-science
-- philosophie-des-sciences
+- philosophie
+- epistemologie
+- methode-scientifique
+- methodologie
 coverImage: ./images/quora.png
 ---
 

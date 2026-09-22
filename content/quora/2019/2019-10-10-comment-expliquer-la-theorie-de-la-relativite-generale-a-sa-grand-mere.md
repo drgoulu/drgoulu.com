@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- gravitation
+- albert-einstein-physicien
 - relativite-generale
 - espace-temps
-- albert-einstein-physicien
-- explications-scientifiques
-- gravitation
-- communication-scolaire
-- culture-scientifique
-- explications-intuitives
-- communication-scientifique
-- explications-pour-enfants
+- enfants
 coverImage: ./images/qimg-b0c71b8859de8b7be11ccbe1059b0aa1.png
 ---
 

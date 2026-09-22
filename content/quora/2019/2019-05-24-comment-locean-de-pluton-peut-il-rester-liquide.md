@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - astronomie
-- pluton-planete-naine
-- liquides
-- sciences-de-la-nature
-- oceans
-- systeme-solaire
-- geologie-planetaire
 - astrophysique
-- science-de-la-terre
-- planetologie
+- terre
+- nature
 coverImage: ./images/quora.png
 ---
 

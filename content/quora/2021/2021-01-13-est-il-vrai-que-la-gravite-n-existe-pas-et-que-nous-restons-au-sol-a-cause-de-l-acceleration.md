@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- question-philosophique
 - sciences
-- acceleration-physique
-- gravite
-- theorie-cosmologique
-- raison-scientifique
-- relativite-physique
-- question-hypothetique
 - physique-theorique
+- relativite
+- gravite
 coverImage: ./images/qimg-c9f89dd349d92114e052f589fa7460c0.png
 ---
 

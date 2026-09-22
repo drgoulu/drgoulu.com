@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- hypotheses
-- terre-planete
-- sciences-de-la-vie
-- voyage-interstellaire
-- extraterrestres
-- vie-extraterrestre
-- origine-de-la-vie
-- astrobiologie
+- terre
+- planetes
+- vie
 coverImage: ./images/quora.png
 ---
 

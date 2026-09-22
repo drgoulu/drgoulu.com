@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - politique
-- l-europe
+- europe
 - migration
-- crise-des-migrants
 - pays-europeens
-- flux-migratoire
 - immigration
-- politique-migratoire
-- crise-migratoire
 coverImage: ./images/quora.png
 ---
 

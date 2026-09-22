@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- suisse
 - entreprises
 - union-europeenne
 - fiscalite
-- suisse
-- start-up
 - employes
-- droit-fiscal
-- fiscalite-de-l-entreprise
-- entreprises-multinationales
-- fiscalite-internationale
 coverImage: ./images/quora.png
 ---
 

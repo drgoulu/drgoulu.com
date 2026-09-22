@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- biologie
-- activite-humaine
-- mammiferes
-- adaptation
-- especes
 - evolution
-- espece-humaine
+- biologie
 - evolution-humaine
+- especes
+- espece-humaine
 coverImage: ./images/quora.png
 ---
 

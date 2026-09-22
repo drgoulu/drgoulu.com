@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- vide-espace
-- ondes-electromagnetiques
-- vitesse-de-la-lumiere
-- theorie-de-la-relativite
+- theorie
 - physique-theorique
-- relativite-physique
-- forces-electromagnetiques
+- relativite
+- lumiere
 coverImage: ./images/quora.png
 ---
 

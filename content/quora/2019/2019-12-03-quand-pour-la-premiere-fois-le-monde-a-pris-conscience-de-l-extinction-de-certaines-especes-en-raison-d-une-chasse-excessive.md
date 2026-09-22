@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-du-monde
-- ecologie
-- chasse
-- extinction
-- conscience-des-animaux
-- conservation-de-la-biodiversite
-- histoire-de-la-biologie
-- extinction-des-especes
-- biodiversite
-- histoire-de-la-terre
+- histoire
+- biologie
+- terre
+- monde
+- animaux
 coverImage: ./images/quora.png
 ---
 

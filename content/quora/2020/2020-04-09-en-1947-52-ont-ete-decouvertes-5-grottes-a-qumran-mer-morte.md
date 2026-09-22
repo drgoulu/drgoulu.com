@@ -8,11 +8,8 @@ categories:
 tags:
 - histoire
 - christianisme
-- jesus
-- manuscrits
-- propheties
 - decouvertes
-- histoire-du-moyen-orient
+- moyen-orient
 - archeologie
 coverImage: ./images/quora.png
 ---

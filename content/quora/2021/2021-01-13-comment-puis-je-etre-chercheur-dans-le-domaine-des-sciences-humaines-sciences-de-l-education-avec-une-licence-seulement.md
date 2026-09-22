@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- education
-- licence
-- carriere-professionnelle
+- sciences
 - recherche
-- doctorat
-- recherche-en-sciences-de-l-education
+- education
 - enseignement-superieur
 - sciences-humaines
-- sciences-de-l-education
 coverImage: ./images/quora.png
 ---
 

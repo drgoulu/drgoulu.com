@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- question-d-enquete
-- physiologie-humaine
-- sciences-de-la-nature
-- altitude
-- respiration
-- pression-atmospherique
-- physique-de-l-atmosphere
-- physiologie
-- science-de-la-terre
-- la-respiration
+- physique
+- sciences
+- terre
+- nature
+- questions
 coverImage: ./images/quora.png
 ---
 

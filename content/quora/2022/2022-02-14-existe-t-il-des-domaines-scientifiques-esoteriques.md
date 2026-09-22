@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- oesoterisme
-- philosophie-des-sciences
-- sciences-esotheriques
-- sciences-et-metaphysique
+- philosophie
+- metaphysique
 - philosophie-esoterique
 - esoterisme
-- philosophie-et-science
-- esiterisme
-- l-esoterisme
 coverImage: ./images/quora.png
 ---
 

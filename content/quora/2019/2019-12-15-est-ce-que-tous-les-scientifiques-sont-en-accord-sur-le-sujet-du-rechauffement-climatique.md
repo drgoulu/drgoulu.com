@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- changement-climatique
 - recherche-scientifique
-- consensus
-- climatologie
-- preuves-scientifiques
-- connaissances-scientifiques
-- communication-scientifique
+- changement-climatique
 - rechauffement-climatique
-- le-rechauffement-climatique
+- climatologie
 coverImage: ./images/quora.png
 ---
 

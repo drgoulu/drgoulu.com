@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- les-etats-unis-d-amerique
+- astronomie
+- univers
 - exploration-spatiale
-- interet
-- objectifs
-- lune-astronomie
-- curiosite-scientifique
-- programmes-spatiaux
 - science-spatiale
-- exploration-de-l-univers
-- missions-spatiales
+- lune
 coverImage: ./images/quora.png
 ---
 

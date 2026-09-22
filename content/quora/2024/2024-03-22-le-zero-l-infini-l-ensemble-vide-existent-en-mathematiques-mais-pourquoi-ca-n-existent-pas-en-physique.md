@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- zero-nombre
 - mathematiques
-- ensemble-vide
-- infini-mathematiques
-- concepts-majeurs-en-physique
-- theories-physiques
-- concepts-mathematiques
 - physique-mathematique
-- post
+- theories-physiques
+- concepts
 coverImage: ./images/quora.png
 ---
 

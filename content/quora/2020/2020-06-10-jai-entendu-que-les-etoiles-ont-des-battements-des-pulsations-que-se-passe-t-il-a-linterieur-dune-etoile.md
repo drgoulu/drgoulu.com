@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - astronomie
-- etoiles-corps-celestes
-- physique-des-plasmas
-- evolution-stellaire
-- science-spatiale
 - astrophysique
-- types-d-etoiles
-- etoiles
-- physique-stellaire
-- etoiles-astronomie
+- science-spatiale
+- etoiles-corps-celestes
 coverImage: ./images/qimg-95bef52cdd24e9ab4356a598c44dc1f4.png
 ---
 

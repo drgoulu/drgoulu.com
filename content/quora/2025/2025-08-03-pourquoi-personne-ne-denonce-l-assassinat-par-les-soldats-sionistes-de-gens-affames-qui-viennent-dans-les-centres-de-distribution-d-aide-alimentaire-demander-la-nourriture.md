@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- droit
+- guerre
+- homme
+- conflits
 - conflit-israelo-palestinien
-- soldats
-- crimes-de-guerre-et-criminels
-- droit-international-des-droits-de-l-homme
-- banques-alimentaires
-- assassinats
-- aide-aux-personnes-demunies
-- conflits-au-moyen-orient
-- personnes-pauvres
-- violations-des-droits-de-l-homme
 coverImage: ./images/quora.png
 ---
 

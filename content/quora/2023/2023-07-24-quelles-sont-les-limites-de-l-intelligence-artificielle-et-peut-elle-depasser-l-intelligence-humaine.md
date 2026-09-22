@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- nouvelles-technologies
 - sciences
+- philosophie
 - informatique
-- intelligence-humaine
-- superintelligence-artificielle
-- science-et-technologie
-- philosophie-des-sciences
-- intelligence-artificielle
+- technologies
+- nouvelles-technologies
 coverImage: ./images/quora.png
 ---
 

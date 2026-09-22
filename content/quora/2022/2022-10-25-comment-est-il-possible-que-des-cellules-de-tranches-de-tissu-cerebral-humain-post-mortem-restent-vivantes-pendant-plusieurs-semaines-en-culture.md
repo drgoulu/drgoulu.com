@@ -8,14 +8,9 @@ categories:
 tags:
 - biologie
 - recherche-scientifique
-- cerveau-humain
-- neuroscience
-- culture-cellulaire
-- tissu-biologie
-- anatomie-humaine
-- cellules-biologie
-- cellules-cerebrales
 - recherche-medicale
+- neuroscience
+- cerveau-humain
 coverImage: ./images/quora.png
 ---
 

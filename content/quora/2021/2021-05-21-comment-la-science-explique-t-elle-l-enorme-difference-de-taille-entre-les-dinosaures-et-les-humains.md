@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
+- evolution
 - biologie
-- comparaisons
-- taille
-- etre-humain
-- dinosaures
 - paleontologie
-- anatomie-humaine
-- evolution-biologie
-- anatomie
+- comparaisons
 coverImage: ./images/qimg-2b8e09593b9ac52db17f562195db1d1a.jpg
 ---
 

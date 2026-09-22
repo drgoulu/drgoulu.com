@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- medecine-naturelle
+- sante
 - medecine-de-complement-et-alternative
-- homeopathie
 - medecine-non-conventionnelle
-- traitements-naturels
-- sante-alternative
-- remedes-de-sante
-- traitement-homeopathique
-- medecine-homeopathique
+- medecine-naturelle
+- homeopathie
 coverImage: ./images/quora.png
 ---
 

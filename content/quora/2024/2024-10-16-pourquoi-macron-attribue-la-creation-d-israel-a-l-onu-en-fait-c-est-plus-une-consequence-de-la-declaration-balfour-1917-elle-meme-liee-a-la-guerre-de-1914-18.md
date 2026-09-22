@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- emmanuel-macron
-- onu
 - israel
-- premiere-guerre-mondiale
 - politique-etrangere
-- organisation-des-nations-unies
-- histoire-d-israel
-- histoire-de-la-premiere-guerre-mondiale
+- nations-unies
+- organisation
 coverImage: ./images/quora.png
 ---
 

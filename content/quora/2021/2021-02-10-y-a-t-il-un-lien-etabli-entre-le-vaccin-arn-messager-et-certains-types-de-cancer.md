@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- vaccins-a-arnm
-- effets-secondaires
 - recherche-scientifique
-- vaccination
-- cancer
+- sante
 - medecine
-- vaccins
 - recherche-medicale
+- vaccins
 coverImage: ./images/quora.png
 ---
 

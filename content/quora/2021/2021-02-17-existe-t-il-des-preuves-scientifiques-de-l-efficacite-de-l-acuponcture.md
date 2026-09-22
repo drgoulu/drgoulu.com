@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- preuves-scientifiques
-- medecine-de-complement-et-alternative
-- acupuncture
-- traitements-medicaux
 - recherche-scientifique
+- sante
 - medecine
-- medecine-non-conventionnelle
 - recherche-medicale
+- preuves-scientifiques
 coverImage: ./images/quora.png
 ---
 

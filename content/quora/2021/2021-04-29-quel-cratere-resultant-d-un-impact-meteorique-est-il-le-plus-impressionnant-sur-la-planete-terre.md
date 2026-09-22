@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- terre-planete
+- sciences
+- terre
+- planetes
 - geologie
-- crateres-d-impact
-- meteorites
-- science-de-la-terre
-- cratere
 - planete-terre
-- geologie-planetaire
-- geomorphologie
 coverImage: ./images/qimg-2040a6236a2463e85159ae505267f22b.jpg
 ---
 

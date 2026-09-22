@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- les-etats-unis-d-amerique
-- recuperation
-- marche-du-travail
-- dogecoin-cryptomonnaie
 - recherche-scientifique
-- licenciements
-- chercheurs
-- emploi-dans-les-sciences
-- travail-scientifique
+- etats-unis
+- ameriques
+- travail
 coverImage: ./images/quora.png
 ---
 

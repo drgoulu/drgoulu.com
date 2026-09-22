@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie
-- evolution-processus
-- especes
-- etres-vivants
-- organismes
-- evolution-biologique-des-especes
-- espece-humaine
 - evolution
-- espece-animale
-- evolution-animale
+- biologie
+- processus
+- especes
+- evolution-biologique-des-especes
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- piet-mondrian
-- art
-- abstraction
-- proprietes
-- peinture
-- artiste
 - geometrie
+- art
+- proprietes
 - mathematiciens
-- arts
 coverImage: ./images/qimg-7060728f48d6f99e21e5ff273b27284d.png
 ---
 

@@ -8,11 +8,7 @@ categories:
 tags:
 - biologie
 - animaux
-- tardigrade
-- la-reproduction
-- vie-biologique
 - zoologie
-- reproduction-animale
 - science-biologique
 - reproduction
 coverImage: ./images/quora.png

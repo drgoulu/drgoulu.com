@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- niqab
-- liberte-de-choix
-- coutumes-et-traditions
+- liberte
+- choix
 - islam
 - culture-francaise
-- vetements-et-habillements
-- traditions-francaises
-- muslim
-- us-et-coutumes
 coverImage: ./images/quora.png
 ---
 

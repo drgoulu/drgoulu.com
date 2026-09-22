@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - astronomie
-- risques-naturels
-- meteorites
+- astrophysique
 - probabilite-statistiques
-- etoiles-filantes
-- science-physique
-- meteores-et-meteoroides
-- science-nature
-- astronomie-et-astrophysique
-- probabilites
 coverImage: ./images/quora.png
 ---
 

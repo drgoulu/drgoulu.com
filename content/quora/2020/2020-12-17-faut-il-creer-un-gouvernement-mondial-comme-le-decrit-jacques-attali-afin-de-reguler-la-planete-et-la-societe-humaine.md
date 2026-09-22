@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie-politique
-- jacques-attali
-- regulation
+- philosophie
+- politique
 - ressources-planetaire
-- gouvernement-mondial
 - politique-mondiale
-- theorie-politique
-- gouvernance-mondiale
+- theorie
 coverImage: ./images/qimg-2fe7ac7c6308b8413a248aba89e4fb0b.jpg
 ---
 

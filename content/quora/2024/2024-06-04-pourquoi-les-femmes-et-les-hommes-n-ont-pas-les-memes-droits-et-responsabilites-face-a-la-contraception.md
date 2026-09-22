@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - societe
-- genre
-- droits-de-l-homme
-- sante-sexuelle
+- droit
+- homme
+- inegalite
 - responsabilite
-- egalite-des-sexes
-- inegalite-de-genre
-- droits-de-la-femme
-- sante-reproductive
 coverImage: ./images/quora.png
 ---
 

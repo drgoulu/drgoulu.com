@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- expansion-de-l-univers
+- univers
 - cosmologie
-- modele-standard-de-la-physique-des-particules
-- theorie-scientifique
 - physique-theorique
-- origine-de-l-univers
-- cosmologie-du-big-bang
-- cosmologie-physique
+- origines
 coverImage: ./images/quora.png
 ---
 

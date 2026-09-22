@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
 - changement-climatique
-- l-environnement
-- ecologie
-- greta-thunberg
-- activisme
-- extinction-de-masse
-- climatologie
 - rechauffement-climatique
-- extinction-des-especes
-- le-rechauffement-climatique
+- especes
+- ecologie
 coverImage: ./images/quora.png
 ---
 

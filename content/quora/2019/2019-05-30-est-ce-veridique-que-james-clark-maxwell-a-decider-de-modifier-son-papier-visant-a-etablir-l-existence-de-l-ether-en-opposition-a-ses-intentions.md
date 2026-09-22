@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- histoire-des-decouvertes
-- james-clerk-maxwell-physicien
+- sciences
+- histoire
+- theorie
 - electromagnetisme
-- ether-ethylique
-- equations-de-maxwell
-- physiciens
-- histoire-de-la-physique
-- histoire-des-sciences
-- theorie-de-l-electromagnetisme
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- psychologie
-- facteurs
 - sciences
-- caracteristiques-genetiques
-- orientation-sexuelle
+- biologie
+- psychologie
 - biologie-humaine
 - sexualite
-- facteurs-environnementaux
-- biologie
-- homosexualite
 coverImage: ./images/quora.png
 ---
 

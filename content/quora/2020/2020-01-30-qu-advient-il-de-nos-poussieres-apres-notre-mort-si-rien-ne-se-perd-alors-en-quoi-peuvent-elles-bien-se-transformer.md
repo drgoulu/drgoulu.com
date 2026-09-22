@@ -8,12 +8,9 @@ categories:
 tags:
 - philosophie
 - corps-humains
-- poussiere
 - decomposition
 - sciences
-- le-cycle-de-la-vie
 - nature
-- biology
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- question-philosophique
-- biologie
-- anthropologie
-- sciences-sociales
-- genetique
-- evolution-humaine
-- diversite
-- races-humaines
 - evolution
-- sciences-humaines
+- biologie
+- evolution-humaine
+- anthropologie
+- question-philosophique
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
+- opinion
 - opinion-publique
-- le-royaume-uni
-- brexit
-- population-britannique
-- referendum
-- gouvernement-du-royaume-uni
+- gouvernement
 - elections
-- opinion-politique
-- union-europeenne-et-royaume-uni
 coverImage: ./images/qimg-6abe68f184c96da02f7f5d7def0d6345.jpg
 ---
 

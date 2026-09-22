@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- gestion-financiere
-- epargne
-- economie-francaise
-- depenses-publiques
-- budget-de-l-etat
 - finances-publiques
-- politique-economique
+- etat
+- depenses-publiques
 - dette-publique
-- financement-public
-- dette-de-l-etat
+- politique-economique
 coverImage: ./images/quora.png
 ---
 

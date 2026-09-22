@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - sante
-- sucre
 - alimentation
+- nutrition
 - danger-et-dangers
-- aspartame
 - dependance
-- alimentation-saine
-- sante-et-nutrition
-- alimentation-et-nutrition
 coverImage: ./images/quora.png
 ---
 

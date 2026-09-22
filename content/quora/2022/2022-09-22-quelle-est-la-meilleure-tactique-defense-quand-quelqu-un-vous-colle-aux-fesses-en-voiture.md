@@ -11,11 +11,6 @@ tags:
 - conduite
 - securite-automobile
 - harcelement
-- conduite-defensive
-- comportement-au-volant
-- conseils-de-conduite
-- conduite-automobile
-- securite-routiere
 coverImage: ./images/quora.png
 ---
 

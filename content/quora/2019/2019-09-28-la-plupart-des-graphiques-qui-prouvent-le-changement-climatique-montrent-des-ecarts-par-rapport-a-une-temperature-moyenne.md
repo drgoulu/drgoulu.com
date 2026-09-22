@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
+- sciences
+- terre
+- planetes
 - changement-climatique
-- terre-planete
-- science-physique
-- moyenne-statistiques
-- temperatures
-- climatologie
-- donnees-scientifiques
-- sciences-du-climat
-- planete-terre
-- le-changement-climatique
 coverImage: ./images/qimg-1864b47c2c3a835caddcc0746c59600e.jpg
 ---
 

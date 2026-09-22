@@ -8,11 +8,8 @@ categories:
 tags:
 - chimie
 - energie-nucleaire
-- uranium
-- isotopes-radioactifs
 - radioactivite
 - sciences-nucleaires
-- elements-radioactifs
 - chimie-nucleaire
 coverImage: ./images/quora.png
 ---

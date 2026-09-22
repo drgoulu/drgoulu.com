@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- science-fiction-genre
-- l-univers
+- univers
+- espace
 - exploration-spatiale
-- annee-lumiere
-- vitesse-de-la-lumiere
-- annees-lumiere-distance-astronomique
-- voyage-dans-l-espace
-- voyage-interstellaire
-- l-univers-astronomie
+- lumiere
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- controverses
+- histoire
+- politique
 - energie-nucleaire
-- iran
-- relations-internationales-de-l-iran
-- jcpoa-accord-sur-le-nucleaire-iranien
-- le-programme-nucleaire-iranien
-- histoire-de-l-iran
-- accord-de-vienne-sur-le-nucleaire-iranien
-- technologie-nucleaire
-- politique-de-l-iran
+- relations-internationales
+- controverses
 coverImage: ./images/quora.png
 ---
 

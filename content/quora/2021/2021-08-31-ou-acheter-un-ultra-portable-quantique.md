@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - informatique
-- achat
-- commerce-en-ligne
-- pc-portable
-- ordinateurs-quantiques
-- sites-internet-de-commerce-electronique
-- ordinateur-physique
-- technologie-quantique
-- ordinateurs-portables
+- ordinateurs
+- sites-internet
 - informatique-quantique
 coverImage: ./images/quora.png
 ---

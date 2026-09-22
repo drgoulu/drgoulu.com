@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- le-soleil
+- astrophysique
+- planetes
 - systeme-solaire
 - science-spatiale
-- astrophysique
-- planetes-astronomie
-- planetes-du-systeme-solaire
-- le-soleil-astronomie
-- le-systeme-solaire
 coverImage: ./images/qimg-deb1397d73c16f664e7d79d3d7e76c04.gif
 ---
 

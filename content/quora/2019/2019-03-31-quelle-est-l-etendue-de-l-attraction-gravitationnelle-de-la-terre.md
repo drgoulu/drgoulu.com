@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- terre-planete
+- sciences
 - astronomie
-- champ-gravitationnel
-- gravity
-- forces-gravitationnelles
-- science-physique
-- physique-et-chimie
-- gravitation
-- planete-terre
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

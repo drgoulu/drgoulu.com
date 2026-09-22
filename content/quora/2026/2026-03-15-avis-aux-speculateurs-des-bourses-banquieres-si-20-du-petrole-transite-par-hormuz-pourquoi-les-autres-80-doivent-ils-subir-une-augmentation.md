@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- prix
 - economie-mondiale
 - geopolitique
-- detroit-d-ormuz
-- bourses
-- speculation
 - petrole
-- matieres-premieres
-- secteur-petrolier
-- crise-petroliere
-- prix-du-petrole
+- bourses
 coverImage: ./images/quora.png
 ---
 

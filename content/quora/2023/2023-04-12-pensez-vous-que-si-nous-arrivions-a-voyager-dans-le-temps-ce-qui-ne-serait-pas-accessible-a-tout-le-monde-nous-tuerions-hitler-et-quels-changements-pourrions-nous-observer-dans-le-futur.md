@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- nazis
+- temps
+- voyage
 - futur
-- consequences
-- scenarios-de-voyage-dans-le-temps
-- paradoxe
-- l-ethique
-- adolf-hitler
-- wwii
-- voyage-dans-le-temps
+- ethique
 coverImage: ./images/quora.png
 ---
 

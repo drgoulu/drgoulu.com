@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sciences
-- galaxie-de-la-voie-lactee
 - astronomie
-- tableau-periodique
-- elements-chimie
-- chimie
-- matiere-physique
 - astrophysique
-- voie-lactee
-- elements-chimiques
+- chimie
 coverImage: ./images/quora.png
 ---
 

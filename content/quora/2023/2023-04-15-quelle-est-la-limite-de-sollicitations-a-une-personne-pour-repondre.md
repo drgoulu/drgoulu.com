@@ -8,12 +8,8 @@ categories:
 tags:
 - questions
 - quora
-- semaine
 - individus
-- limite-de-demande-fonctionnalite-quora
-- sollicitations-telephoniques
 - reponses
-- quota
 - questions-reponses
 coverImage: ./images/quora.png
 ---

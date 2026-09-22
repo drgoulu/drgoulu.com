@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - mathematiques
-- serie-numerique
-- theorie-des-nombres-premiers
-- suite-geometrique
-- suites-arithmetiques
-- sciences-mathematiques
-- theorie-analytique-des-nombres
-- theorie-des-nombres
-- theoreme-des-nombres-premiers
+- theorie
+- nombres
+- nombres-premiers
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- accidents-nucleaires-civils
-- risque-et-risques
+- sciences
+- technologies
 - energie-nucleaire
-- les-centrales-nucleaires
+- risque-et-risques
 - catastrophes-nucleaires
-- risque-technologique
-- terrorisme-nucleaire
-- accident-nucleaire
 coverImage: ./images/qimg-088716e7b7eb5d0fb279c2e15e8be5f3.jpg
 ---
 

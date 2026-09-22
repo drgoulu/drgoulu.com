@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- evolution-biologie
-- deuxieme-loi-de-la-thermodynamique
-- biologie
-- synthese-de-proteines
-- thermodynamique
-- bio-chimie
-- chimie-et-biologie
-- structure-des-proteines
 - evolution
+- biologie
+- thermodynamique
+- chimie
 coverImage: ./images/quora.png
 ---
 

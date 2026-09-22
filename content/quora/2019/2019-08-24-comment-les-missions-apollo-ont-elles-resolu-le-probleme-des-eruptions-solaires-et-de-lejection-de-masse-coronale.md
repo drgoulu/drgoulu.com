@@ -8,14 +8,9 @@ categories:
 tags:
 - astronomie
 - espace
-- ejection-coronal
 - exploration-spatiale
 - nasa
-- missions-apollo
-- physique-solaire
-- eruptions-solaires
 - science-spatiale
-- activite-solaire
 coverImage: ./images/quora.png
 ---
 

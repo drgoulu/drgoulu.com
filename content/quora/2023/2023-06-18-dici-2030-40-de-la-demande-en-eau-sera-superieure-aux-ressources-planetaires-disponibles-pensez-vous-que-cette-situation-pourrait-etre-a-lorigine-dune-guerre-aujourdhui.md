@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- predictions
-- conflit
-- gestion-des-resssources-naturelles
-- guerre-de-l-eau
-- prevision
-- ressources-en-eau
-- penurie-de-l-eau
-- ressources-planetaire
-- crise-d-eau
+- eau
+- guerre
 - conflits
+- ressources
+- predictions
 coverImage: ./images/quora.png
 ---
 

@@ -8,12 +8,8 @@ categories:
 tags:
 - sciences
 - astronomie
-- mysteres
 - recherche-scientifique
-- planete-neuf
 - systeme-solaire
-- objets-astronomiques
-- astronomie-d-observation
 - decouvertes-scientifiques
 coverImage: ./images/quora.png
 ---

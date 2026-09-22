@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- developpement-durable
+- histoire
+- energie
+- environnement
 - energie-nucleaire
-- charbon
 - energie-renouvelable
-- transition-energetique
-- sources-d-energie
-- histoire-de-l-electricite
-- environnement-et-developpement-durable
-- economie-durable
-- production-d-energie
 coverImage: ./images/quora.png
 ---
 

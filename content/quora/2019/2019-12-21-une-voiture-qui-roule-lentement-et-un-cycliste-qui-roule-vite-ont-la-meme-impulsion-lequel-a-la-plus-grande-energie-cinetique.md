@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- les-cyclistes
-- voiture
-- energie-cinetique
-- vitesse-physique
-- mouvement-physique
+- vitesse
+- mecanique
+- mouvement
 - masse-physique
-- mecanique-physique
 coverImage: ./images/quora.png
 ---
 

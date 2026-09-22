@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- reseaux-sociaux
 - questions
+- quora
 - contenu
-- popularite
-- upvote
-- plateformes-de-medias-sociaux
 - vote
-- question-contenu
-- contenu-sur-quora
-- popularite-sociale
+- reseaux-sociaux
 coverImage: ./images/quora.png
 ---
 

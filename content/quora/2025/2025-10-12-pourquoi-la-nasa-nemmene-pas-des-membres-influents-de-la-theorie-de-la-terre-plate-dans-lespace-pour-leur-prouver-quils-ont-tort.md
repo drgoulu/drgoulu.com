@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- demystifier-la-terre-plate
+- theorie
 - espace
-- conviction
 - exploration-spatiale
-- nasa
-- preuves-scientifiques
-- voyage-dans-l-espace
-- theorie-de-la-terre-plate
 coverImage: ./images/quora.png
 ---
 

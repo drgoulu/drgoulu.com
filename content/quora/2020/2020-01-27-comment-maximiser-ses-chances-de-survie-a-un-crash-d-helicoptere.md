@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- securite
+- risques
+- gestion
 - conseils
-- survivant
-- risque
-- securite-aerienne
-- helicopteres
-- prevention-des-accidents
-- gestion-des-risques
-- accidents-aeriens
-- conseils-de-securite
+- accidents
 coverImage: ./images/quora.png
 ---
 

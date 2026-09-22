@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- desalinisation
-- cout
-- agriculture
-- gestion-des-ressources-en-eau
-- irrigation
-- l-agriculture
-- ressources-en-eau
+- sciences
+- technologies
+- eau
+- gestion
+- ressources
 coverImage: ./images/quora.png
 ---
 

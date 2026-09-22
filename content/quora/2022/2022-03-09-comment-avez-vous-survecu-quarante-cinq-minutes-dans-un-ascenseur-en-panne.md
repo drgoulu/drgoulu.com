@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- experience
+- electricite
 - experiences-personnelles
-- etat-d-urgence
-- ascenseurs
-- experiences
-- pannes-de-courant
-- des-plans-d-urgence
-- panne-d-electricite
-- appels-d-urgence
-- situations-d-urgence
+- etat
+- urgences
 coverImage: ./images/quora.png
 ---
 

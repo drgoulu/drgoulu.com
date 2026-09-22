@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- comparaisons
+- culture
 - voyage-international
-- preferences
 - inde
-- comparaison-de-culture
-- maldives
-- iles
-- destinations-de-voyage
-- destinations-de-vacances
+- preferences
 coverImage: ./images/quora.png
 ---
 

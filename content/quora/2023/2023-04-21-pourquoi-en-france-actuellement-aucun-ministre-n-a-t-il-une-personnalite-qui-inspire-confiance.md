@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- france
-- personnalite
-- opinion-publique
-- politique-francaise
-- confiance
-- leadership
-- ministre-gouvernement
 - politique
-- personnalite-publique
-- image-publique
+- france
+- opinion-publique
+- personnalites
+- politique-francaise
 coverImage: ./images/quora.png
 ---
 

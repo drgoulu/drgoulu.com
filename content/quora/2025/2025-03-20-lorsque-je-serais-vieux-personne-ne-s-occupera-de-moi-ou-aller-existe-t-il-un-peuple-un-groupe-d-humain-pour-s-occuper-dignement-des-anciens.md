@@ -10,12 +10,7 @@ tags:
 - solidarite
 - hebergement
 - personnes-agees
-- aide-a-domicile
-- vieillesse
-- soins-aux-seniors
-- residence-pour-personnes-agees
-- aide-a-la-personne
-- sante-des-personnes-agees
+- sante
 coverImage: ./images/quora.png
 ---
 

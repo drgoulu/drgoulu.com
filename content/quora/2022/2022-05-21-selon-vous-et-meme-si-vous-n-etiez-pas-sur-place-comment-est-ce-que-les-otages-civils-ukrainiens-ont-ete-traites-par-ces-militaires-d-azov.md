@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- droits-de-l-homme
-- bataillon-azov
-- bunkers
-- conflit-militaire
-- crimes-de-guerre-et-criminels
-- otages
-- forces-armees-ukrainiennes
-- victimes-civiles
-- droit-de-la-guerre
+- droit
+- homme
+- crimes
+- guerre
+- criminels
 coverImage: ./images/quora.png
 ---
 

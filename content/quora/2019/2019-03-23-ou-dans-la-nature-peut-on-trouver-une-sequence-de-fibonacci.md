@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - mathematiques
 - nature
-- nombres-de-fibonacci
-- botanique
-- sciences-de-la-nature
-- suites-mathematiques
-- suite-de-fibonacci
-- sciences-vegetales
-- sciences-mathematiques
+- nombres
 - post
 coverImage: ./images/qimg-fc9630624585b5dc4d55c4feee1c8726.jpg
 ---

@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- instrument-de-mesure
-- le-kelvin-temperature
 - temperatures
-- degre-celsius
-- fahrenheit-temperature
+- mesure
 - unites-de-mesure
-- mesures-de-temperature
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- question-hypothetique
-- evolution-processus
-- philosophie-des-sciences
-- civilisations-extraterrestres
-- hypotheses-scientifiques
-- extraterrestres
-- vie-extraterrestre
-- astrobiologie
-- evolution-biologie
+- philosophie
+- evolution
+- biologie
 coverImage: ./images/quora.png
 ---
 

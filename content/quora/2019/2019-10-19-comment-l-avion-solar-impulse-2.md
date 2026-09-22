@@ -8,14 +8,9 @@ categories:
 - Combien
 tags:
 - technologies
-- transport-aerien
-- solar-impulse
-- tour-du-monde
-- altitude
-- batterie
 - aviation
-- progres-scientifique
 - energie-solaire
+- progres-scientifique
 - aeronautique
 coverImage: ./images/quora.png
 ---

@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- sexualite
+- evolution
 - biologie
-- hasard
-- evolution-processus
-- creation
-- la-reproduction-humaine
+- processus
 - biologie-humaine
-- la-reproduction
 coverImage: ./images/quora.png
 ---
 

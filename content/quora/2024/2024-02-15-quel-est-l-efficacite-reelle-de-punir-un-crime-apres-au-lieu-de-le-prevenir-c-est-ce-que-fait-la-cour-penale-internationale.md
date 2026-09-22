@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- efficacite
+- systeme
 - droit-international
+- efficacite
 - prevention
 - justice-penale
-- cour-penale-internationale
-- justice-internationale
-- systeme-de-justice-penale
-- criminologie-et-justice-penale
-- droit-penal-international
 coverImage: ./images/quora.png
 ---
 

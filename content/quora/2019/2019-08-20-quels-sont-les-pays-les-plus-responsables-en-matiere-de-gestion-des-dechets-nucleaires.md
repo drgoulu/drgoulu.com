@@ -6,14 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- pays
 - energie-nucleaire
+- entreprises
+- pays
 - responsabilite
-- substances-radioactives
-- dechets-nucleaires
-- responsabilite-des-entreprises
-- chimie-nucleaire
-- industrie-nucleaire
 - technologie-nucleaire
 coverImage: ./images/quora.png
 ---

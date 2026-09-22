@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - politique
-- occident
-- pouvoir
-- autoritarisme
-- critique-sociale
-- revolution
-- imperialisme
-- systeme-de-gouvernement
+- systeme
 - democratie
 - gouvernement
+- pouvoir
 coverImage: ./images/quora.png
 ---
 

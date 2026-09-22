@@ -7,11 +7,7 @@ categories:
 - Quora
 tags:
 - psychologie
-- potentiel
-- contraste
-- niveau-intellectuel
 - difference
-- contrariete
 - potentiel-humain
 - capacites-intellectuelles
 - quotient-intellectuel

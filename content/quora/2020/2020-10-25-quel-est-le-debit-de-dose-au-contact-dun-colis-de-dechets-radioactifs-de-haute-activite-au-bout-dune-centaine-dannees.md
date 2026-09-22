@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - energie-nucleaire
-- debit
-- substances-radioactives
 - radioactivite
 - sciences-nucleaires
-- desintegration-radioactive
-- dechets-radioactifs
 - chimie-nucleaire
+- substances-radioactives
 coverImage: ./images/qimg-835ce5739050ac5aae8d180ec8714df4.jpg
 ---
 

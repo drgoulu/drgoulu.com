@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - informatique
-- depannage
-- systeme-d-exploitation
-- logiciel
+- systeme
+- logiciels
 - ordinateurs
-- problemes-informatiques
-- materiel-informatique
-- maintenance-informatique
-- panne-informatique
-- depannage-informatique
+- exploitation
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- evolution
+- evolution-humaine
 - biologie-humaine
 - langage
-- primates
 - anthropologie
-- intelligence-animale
-- evolution
-- biologie-animale
-- origines-humaines
-- communication-animale
-- evolution-humaine
 coverImage: ./images/quora.png
 ---
 

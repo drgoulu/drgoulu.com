@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- medecine
 - sciences
+- philosophie
+- medecine
 - epistemologie
-- philosophie-des-sciences
-- la-methode-scientifique
-- disciplines
-- scientific-method
-- methodologie-en-sciences
-- sciences-medicales
-- medecine-scientifique
+- methode-scientifique
 coverImage: ./images/quora.png
 ---
 

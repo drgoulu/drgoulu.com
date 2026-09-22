@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- enfants
+- societe
 - sante-publique
-- debats-de-societe
-- responsabilite
+- debat
 - vaccination
-- libertes-individuelles
-- obligations
-- discussions-politiques
-- responsabilite-sociale
-- liberte-personnelle
+- enfants
 coverImage: ./images/quora.png
 ---
 

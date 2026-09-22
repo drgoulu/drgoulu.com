@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- securite-informatique
-- cryptanalyse
-- ordinateurs-quantiques
-- expert-en-cybersecurite
-- cryptographie-quantique
-- cybersecurite
+- informatique
+- securite
+- information
 - cryptographie
-- securite-de-l-information
 - informatique-quantique
-- securite-des-systemes-informatiques
 coverImage: ./images/quora.png
 ---
 

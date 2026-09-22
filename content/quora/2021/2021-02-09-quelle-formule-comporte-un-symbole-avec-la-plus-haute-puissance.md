@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - mathematiques
-- algebre
-- puissance-physique
-- formules-scientifiques
-- magnitude-mathematiques-et-physiques
-- equations-mathematiques
+- equations
 - calcul-mathematique
-- sciences-et-mathematiques
-- symboles-mathematiques
-- formules-mathematiques
 coverImage: ./images/quora.png
 ---
 

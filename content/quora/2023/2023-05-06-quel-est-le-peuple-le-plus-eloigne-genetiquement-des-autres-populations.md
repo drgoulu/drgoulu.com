@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- genetique
 - evolution-humaine
-- les-populations
-- anthropologie-biologique
-- diversite-genetique
+- genetique
 - origines-humaines
-- genetique-des-populations-humaines
-- geographie-genetique
-- biologie-evolutive-humaine
-- genomique
+- population
+- population-humaine
 coverImage: ./images/quora.png
 ---
 

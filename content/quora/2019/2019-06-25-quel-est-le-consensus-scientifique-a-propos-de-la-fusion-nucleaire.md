@@ -6,12 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- recherche-scientifique
-- consensus
+- physique
+- sciences
 - energie
-- science-physique
-- sciences-nucleaires
-- connaissances-scientifiques
+- recherche-scientifique
 - energie-nucleaire
 coverImage: ./images/quora.png
 ---

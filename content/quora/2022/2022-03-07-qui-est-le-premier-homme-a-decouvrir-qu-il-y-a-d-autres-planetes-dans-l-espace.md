@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- personnalites
+- sciences
 - astronomie
-- histoire-des-sciences
+- histoire
+- planetes
 - systeme-solaire
-- les-personnes
-- curiosite-scientifique
-- planetes-astronomie
-- decouvertes-scientifiques
-- histoire-de-l-astronomie
 coverImage: ./images/quora.png
 ---
 

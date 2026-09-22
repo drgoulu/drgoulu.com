@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- bien-etre
-- arnaques
-- science-et-technologie
-- protection-des-yeux
-- lumiere-artificielle
-- produits-numeriques
-- sante-et-bien-etre
-- sante-des-yeux
+- sciences
+- sante
+- technologies
+- protection
+- yeux
 coverImage: ./images/quora.png
 ---
 

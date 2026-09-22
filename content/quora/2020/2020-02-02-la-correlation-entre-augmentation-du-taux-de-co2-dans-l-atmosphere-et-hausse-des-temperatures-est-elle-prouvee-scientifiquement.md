@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - changement-climatique
-- effet-de-serre
-- le-dioxyde-de-carbone
-- climatologie
-- preuves-scientifiques
-- gaz-a-effet-de-serre
-- sciences-du-climat
 - rechauffement-climatique
-- le-rechauffement-climatique
+- climatologie
+- climats
 coverImage: ./images/quora.png
 ---
 

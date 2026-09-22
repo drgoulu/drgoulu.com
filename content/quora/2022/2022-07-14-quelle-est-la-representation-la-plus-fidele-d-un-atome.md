@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- modele-operationnel
-- representations
+- chimie
 - atomes
 - structure-atomique
-- chimie
-- la-physique-atomique
-- representation-visuelle
-- representation
 coverImage: ./images/quora.png
 ---
 

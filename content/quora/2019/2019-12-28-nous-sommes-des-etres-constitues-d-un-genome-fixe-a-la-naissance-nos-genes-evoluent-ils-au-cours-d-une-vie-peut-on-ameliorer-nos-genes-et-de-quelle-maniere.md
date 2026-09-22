@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
 - biologie
-- corps-humains
-- evolution-processus
-- genes
-- ingenierie-genetique
+- processus
 - biologie-humaine
 - genetique
-- genomes
-- genie-genetique
-- genomique
 coverImage: ./images/quora.png
 ---
 

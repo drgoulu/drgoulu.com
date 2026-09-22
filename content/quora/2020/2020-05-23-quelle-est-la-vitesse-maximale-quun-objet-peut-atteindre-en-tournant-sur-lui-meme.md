@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - vitesse
-- mouvement-circulaire
-- mecanique-de-rotation
-- vitesse-maximale
-- quantites-physiques
+- rotation
+- mecanique
 - mouvement
-- vitesse-physique
-- vitesse-de-rotation
-- rotation-physique
 coverImage: ./images/quora.png
 ---
 

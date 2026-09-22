@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- pseudo-aleatoire
-- determinisme
-- pendule
-- predictions
-- theorie-du-chaos
 - physique-mathematique
-- aleatoire
-- pendule-physique
+- predictions
+- determinisme
 coverImage: ./images/quora.png
 ---
 

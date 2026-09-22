@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- emmanuel-kant
 - connaissances
 - epistemologie
 - mathematiques
-- creation-humaine
-- immanuel-kant-philosophe-auteur
-- philosophie-analytique
-- philosophes
-- philosophie-des-mathematiques
+- philosophe
 coverImage: ./images/quora.png
 ---
 

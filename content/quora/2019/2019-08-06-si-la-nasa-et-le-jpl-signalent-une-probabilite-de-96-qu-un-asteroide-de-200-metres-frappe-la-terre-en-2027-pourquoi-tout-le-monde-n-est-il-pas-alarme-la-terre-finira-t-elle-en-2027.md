@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- terre
+- planetes
 - theories-du-complot
-- terre-planete
-- risque-et-risques
-- nasa
 - catastrophes-naturelles
-- alerte
-- probabilite-statistiques
-- la-fin-du-monde
-- asteroides
+- risque-et-risques
 coverImage: ./images/quora.png
 ---
 

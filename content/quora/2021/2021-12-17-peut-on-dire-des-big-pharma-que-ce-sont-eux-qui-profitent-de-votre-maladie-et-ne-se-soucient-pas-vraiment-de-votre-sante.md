@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- profiter
-- comportement-ethique
-- big-pharma
-- industrie-pharmaceutique
 - medecine
-- maladie
 - ethique
-- l-industrie-pharmaceutique
+- maladies
+- industrie-pharmaceutique
 coverImage: ./images/quora.png
 ---
 

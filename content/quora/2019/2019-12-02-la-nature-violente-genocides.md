@@ -8,14 +8,9 @@ categories:
 tags:
 - philosophie
 - guerre
-- genocide
-- condition-humaine
 - demographie
-- meurtre
-- violence
-- guerres-et-histoire-militaires
 - nature-humaine
-- les-guerres
+- histoire-militaire
 coverImage: ./images/quora.png
 ---
 

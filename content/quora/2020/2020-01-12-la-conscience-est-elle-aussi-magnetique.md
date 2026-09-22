@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - philosophie
 - conscience
-- magnetisme
-- physique
-- neuropsychologie
 - sciences-cognitives
-- philosophie-des-sciences
-- neurologie
-- neurophilosophie
-- neurobiologie
 coverImage: ./images/quora.png
 ---
 

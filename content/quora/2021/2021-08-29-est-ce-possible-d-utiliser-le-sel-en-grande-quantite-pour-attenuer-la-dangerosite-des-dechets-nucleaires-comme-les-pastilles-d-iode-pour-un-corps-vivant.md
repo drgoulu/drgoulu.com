@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- sel
 - sciences
-- dechets-nucleaires
-- radioactivite
 - chimie
 - energie-nucleaire
-- physique-et-chimie
-- chimie-physique
+- radioactivite
 coverImage: ./images/quora.png
 ---
 

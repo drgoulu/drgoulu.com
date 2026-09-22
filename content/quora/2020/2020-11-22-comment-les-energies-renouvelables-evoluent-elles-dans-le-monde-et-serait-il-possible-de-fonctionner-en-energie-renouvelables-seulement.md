@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- changement-climatique
-- energie-physique
-- environnement
-- developpement-durable
-- energie-renouvelable
-- transition-energetique
+- physique
 - energie
-- energie-alternative
-- technologie-durable
+- environnement
+- changement-climatique
+- energie-renouvelable
 coverImage: ./images/qimg-8ad1bfb707059152c96a39a6d5d1a2e8.png
 ---
 

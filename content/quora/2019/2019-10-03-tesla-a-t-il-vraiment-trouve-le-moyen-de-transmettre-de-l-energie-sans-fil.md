@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- tesla-motors-compagnie
-- innovation-technologique
-- personnages-historiques
-- nikola-tesla
-- transfert-d-energie-sans-fil
-- electricite
 - invention
-- technologie-sans-fil
-- energie-sans-fil
+- electricite
+- innovation-technologique
+- nikola-tesla
 coverImage: ./images/quora.png
 ---
 

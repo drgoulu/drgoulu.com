@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - sante
-- lourdes
-- miracle
-- pelerinages
-- guerison
-- explications-scientifiques
-- religion-catholique
+- religion
 - medecine
-- science-et-religion
+- explications-scientifiques
 coverImage: ./images/quora.png
 ---
 

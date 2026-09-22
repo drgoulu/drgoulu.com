@@ -7,16 +7,11 @@ categories:
 - Pourquoi
 - Comment
 tags:
-- biologie
-- videos
-- images
-- sciences-de-la-nature
+- sciences
 - evolution
-- biologie-animale
-- sciences-de-la-vie
-- evolution-biologique-des-especes
-- evolution-biologie
-- evolution-animale
+- biologie
+- vie
+- nature
 coverImage: ./images/quora.png
 ---
 

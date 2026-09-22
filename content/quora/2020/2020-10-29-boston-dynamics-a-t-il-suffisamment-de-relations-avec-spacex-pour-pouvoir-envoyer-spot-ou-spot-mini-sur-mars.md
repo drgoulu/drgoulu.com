@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- the-spot
-- entreprises
-- spacex-compagnie
+- sciences
+- planetes
+- technologies
 - exploration-spatiale
-- robots
-- mars-planete
-- boston-dynamics-societe-de-robotique
-- robotique
-- exploration-spatiale-privee
+- entreprises
 coverImage: ./images/quora.png
 ---
 

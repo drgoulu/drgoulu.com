@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- histoire
+- politique
 - israel
-- securite-nationale
 - armes-nucleaires
-- conflit-israelo-arabe
-- proliferation-nucleaire
-- histoire-d-israel
-- essais-nucleaires
-- politique-d-israel
-- guerres-israelo-arabes
+- securite-nationale
 coverImage: ./images/quora.png
 ---
 

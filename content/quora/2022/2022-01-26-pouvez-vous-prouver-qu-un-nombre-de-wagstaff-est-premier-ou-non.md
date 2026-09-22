@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - mathematiques
-- preuve
-- nombres-naturels
-- theorie-des-nombres-premiers
-- sciences-mathematiques
-- theorie-analytique-des-nombres
-- theorie-du-nombre
-- mathematiques-et-sciences
-- theorie-des-nombres
+- theorie
+- nombres
+- nombres-premiers
 coverImage: ./images/quora.png
 ---
 

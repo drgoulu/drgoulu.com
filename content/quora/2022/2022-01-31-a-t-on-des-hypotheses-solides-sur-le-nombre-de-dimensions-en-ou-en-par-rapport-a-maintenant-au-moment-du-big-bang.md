@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - astronomie
-- l-univers
-- hypotheses-scientifiques
-- cosmologie-du-big-bang
+- univers
 - cosmologie
-- dimensions-physique
 - physique-theorique
-- theorie-cosmologique
 coverImage: ./images/quora.png
 ---
 

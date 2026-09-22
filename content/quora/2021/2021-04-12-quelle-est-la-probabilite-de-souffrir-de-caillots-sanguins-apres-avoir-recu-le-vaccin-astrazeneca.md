@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - sante
-- effets-secondaires-du-vaccin-covid-19
-- caillots-de-sang
-- vaccination
-- vaccin-astrazeneca-oxford-azd1222-covid-19
-- probabilite
 - medecine
-- effets-secondaires
+- vaccination
+- probabilite
 - vaccin-covid-19
 coverImage: ./images/quora.png
 ---

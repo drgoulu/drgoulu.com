@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- saturne-planete
+- sciences
 - astronomie
-- formation
-- sciences-de-la-nature
-- systeme-solaire
-- anneaux-de-saturne
-- rotation-planetes
 - astrophysique
+- planetes
 coverImage: ./images/quora.png
 ---
 

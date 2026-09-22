@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- l-univers
-- elements-chimie
-- sciences-de-la-nature
-- systeme-solaire
-- chimie
 - astrophysique
-- elements-naturels
-- l-univers-astronomie
-- elements-chimiques
+- univers
+- nature
 coverImage: ./images/qimg-4887dcb2a345cec65eacdf91f7b4ab6e.jpg
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
 - entreprises
-- l-environnement
-- agriculture
 - risque-et-risques
-- monsanto
-- biotechnologie
-- pesticides
 - impact-environnemental
-- sante-environnementale
-- menace-ecologique
+- agriculture
 coverImage: ./images/quora.png
 ---
 

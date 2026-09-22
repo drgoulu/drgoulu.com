@@ -7,13 +7,10 @@ categories:
 - Combien
 tags:
 - sciences
-- cas-de-violation
-- integrite
 - recherche-scientifique
-- falsification
-- fausse-science
-- methodes-de-recherche
-- ethique-de-recherche
+- recherche
+- ethique
+- methodes
 coverImage: ./images/quora.png
 ---
 

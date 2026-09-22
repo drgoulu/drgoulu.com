@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - astronomie
-- corps-celestes
-- l-univers
-- phenomenes-naturels
-- puissance-physique
-- etoiles-a-neutrons
 - astrophysique
-- objets-astronomiques
+- univers
 - etoiles
-- phenomenes-physiques
 coverImage: ./images/quora.png
 ---
 

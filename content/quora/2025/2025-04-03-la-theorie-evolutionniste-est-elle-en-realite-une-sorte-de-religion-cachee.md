@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- croyance
-- epistemologie
-- debats
-- religion
 - sciences
-- biologie-de-l-evolution
-- science-et-religion
-- philosophie-des-sciences
-- theorie-de-l-evolution
+- philosophie
+- evolution
+- biologie
+- theorie
 coverImage: ./images/quora.png
 ---
 

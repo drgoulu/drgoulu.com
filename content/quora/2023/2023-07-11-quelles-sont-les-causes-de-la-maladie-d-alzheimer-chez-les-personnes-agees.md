@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- maladies-neurodegeneratives
-- vieillissement
-- recherche-sur-la-maladie-d-alzheimer
-- personnes-agees
-- geriatrie
-- causes-de-maladies-bucco-dentaires
 - medecine
-- vieillissement-du-cerveau
-- maladie-d-alzheimer
+- cerveau
+- vieillissement
+- personnes-agees
 coverImage: ./images/quora.png
 ---
 

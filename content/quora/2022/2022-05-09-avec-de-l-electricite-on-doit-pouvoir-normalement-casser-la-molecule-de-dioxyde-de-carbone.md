@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sciences
-- le-dioxyde-de-carbone
-- electricite
-- composition-chimique
 - chimie
-- molecules
-- atome-de-carbone
-- reactions-chimiques
-- chimie-moleculaire
-- chimie-physique
+- electricite
+- atomes
 coverImage: ./images/quora.png
 ---
 

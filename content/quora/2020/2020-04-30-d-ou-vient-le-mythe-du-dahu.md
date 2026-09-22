@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- culture-francaise
-- dahu
+- mythe
 - legende
 - mythologie
-- creature-du-folklore
-- folklore
-- animal-mythique
-- creatures-mythologiques
-- mythe
-- mythologie-mondiale
+- creatures
+- culture-francaise
 coverImage: ./images/quora.png
 ---
 

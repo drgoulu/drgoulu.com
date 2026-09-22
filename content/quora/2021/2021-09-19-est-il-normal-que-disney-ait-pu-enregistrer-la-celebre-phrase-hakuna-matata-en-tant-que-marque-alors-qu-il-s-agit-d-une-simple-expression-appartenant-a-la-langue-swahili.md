@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- expressions-langue
 - disney
-- droit-sur-la-propriete-intellectuelle
-- le-roi-lion
-- culture-africaine
+- droit
+- propriete-intellectuelle
 - marques-deposees
-- swahili-langue
-- droit-de-propriete
-- langues-africaines
-- la-propriete-intellectuelle
+- proprietes
 coverImage: ./images/quora.png
 ---
 

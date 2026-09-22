@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sante
-- reseaux-sociaux
-- quora
-- controverse-sur-la-vaccination
-- censure
-- suppression-de-compte-fonction-quora
-- liberte-d-expression
-- vaccination
 - medecine
-- suppression-de-compte
+- quora
+- vaccination
+- controverses
 coverImage: ./images/quora.png
 ---
 

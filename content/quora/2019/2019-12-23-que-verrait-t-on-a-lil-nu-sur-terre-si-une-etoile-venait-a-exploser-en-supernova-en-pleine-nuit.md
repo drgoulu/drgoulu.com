@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - astronomie
 - espace
-- vision
-- phenomenes-naturels
+- lumiere
 - etoiles-corps-celestes
-- lumiere-physique
-- supernova
-- etoiles
-- phenomenes-optiques
 coverImage: ./images/quora.png
 ---
 

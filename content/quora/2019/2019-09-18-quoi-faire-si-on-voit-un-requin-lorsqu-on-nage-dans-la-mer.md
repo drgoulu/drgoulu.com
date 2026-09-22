@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - conseils
-- nager
-- requins
 - faune-marine
-- sports-nautiques
-- activites-maritimes
 - sciences-marine
-- conseils-de-securite
+- securite
 - vie-marine
 coverImage: ./images/quora.png
 ---

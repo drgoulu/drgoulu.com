@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- helium-3
-- exploration-spatiale
+- planetes
 - systeme-solaire
-- ressources-planetaire
-- planetes-du-systeme-solaire
+- exploration-spatiale
 - science-spatiale
-- missions-spatiales
-- le-systeme-solaire
 coverImage: ./images/quora.png
 ---
 

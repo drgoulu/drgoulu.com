@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- champs-electromagnetiques
-- recherche-universitaire
-- effets-sur-la-sante
-- sante-des-animaux
-- etudes-scientifiques
-- recherche-medicale
 - recherche-scientifique
-- sante-humaine
-- recherches-scientifiques
+- sante
+- animaux
+- etude-scientifique
+- recherche-medicale
 coverImage: ./images/quora.png
 ---
 

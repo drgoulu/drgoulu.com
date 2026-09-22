@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- histoire
+- terre
 - geologie
-- decouvertes
-- histoire-de-la-terre
-- artefacts
 - preuves-scientifiques
-- archeologie
-- science-de-la-terre
-- strates-geologie
-- artefacts-anciens
-- archeologie-prehistorique
 coverImage: ./images/quora.png
 ---
 

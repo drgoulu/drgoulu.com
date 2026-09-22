@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- realite
-- abstraction
-- masse-physique
-- theories-de-la-gravitation
 - physique
-- gravite
+- sciences
+- philosophie
+- theorie
 - physique-theorique
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

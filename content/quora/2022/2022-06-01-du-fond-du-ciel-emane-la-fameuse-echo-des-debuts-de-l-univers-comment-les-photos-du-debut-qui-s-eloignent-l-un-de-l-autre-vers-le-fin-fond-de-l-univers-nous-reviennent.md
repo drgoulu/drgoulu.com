@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- univers-en-expansion
 - astronomie
-- rayonnement-fossile
-- cosmologie-du-big-bang
-- origine-de-l-univers
-- cosmologie
 - astrophysique
-- expansion-de-l-univers
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

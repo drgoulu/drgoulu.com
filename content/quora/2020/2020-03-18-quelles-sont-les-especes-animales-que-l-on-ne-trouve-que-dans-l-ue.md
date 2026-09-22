@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- geographie
-- union-europeenne
-- especes-eteintes
-- faune
-- biodiversite
-- espece-endemique
+- environnement
 - especes
-- conservation-de-la-faune
-- especes-rares
-- biodiversite-et-environnement
+- geographie
+- faune
+- conservation
 coverImage: ./images/quora.png
 ---
 

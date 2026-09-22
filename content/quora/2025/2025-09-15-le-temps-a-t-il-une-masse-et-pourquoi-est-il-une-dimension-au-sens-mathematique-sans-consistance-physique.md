@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - mathematiques
-- espace-temps
-- dimension
-- relativite-physique
-- temps
-- masse-physique
-- temps-physique
 - physique-theorique
-- dimensions
+- relativite
+- temps
 coverImage: ./images/quora.png
 ---
 

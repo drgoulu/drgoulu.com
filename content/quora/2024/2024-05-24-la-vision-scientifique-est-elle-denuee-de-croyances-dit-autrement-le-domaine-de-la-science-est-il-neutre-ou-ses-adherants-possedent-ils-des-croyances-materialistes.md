@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
+- opinion
 - croyance
-- neutralite-du-net
-- methodologie-en-sciences
-- materialisme-philosophie
-- opinions-et-croyances
-- pensee-scientifique
-- philosophie-des-sciences
 - methodologie
-- croyances
 coverImage: ./images/qimg-583b4c414224ed4cea90532affe8d08c.jpg
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - recherche-scientifique
-- confidentialite
-- image-publique
+- information
 - nasa
-- gestion-de-documents
-- classification-de-l-information
-- transparence
-- information-confidentielle
-- institution-publique
-- communication-publique
+- classification
+- image-publique
 coverImage: ./images/quora.png
 ---
 

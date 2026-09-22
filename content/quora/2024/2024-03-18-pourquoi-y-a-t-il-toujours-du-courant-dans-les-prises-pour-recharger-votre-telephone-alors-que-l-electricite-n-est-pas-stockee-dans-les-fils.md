@@ -9,11 +9,8 @@ tags:
 - physique
 - telephone-portable
 - sciences
-- le-courant-electrique
-- chargement-de-batterie
+- courant-electrique
 - electricite
-- tension-electrique
-- chargeurs-de-telephone-portable
 coverImage: ./images/quora.png
 ---
 

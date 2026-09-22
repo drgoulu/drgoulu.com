@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- langages-de-programmation
+- langage
+- programmation
 - developpement-logiciel
-- classes
-- python-3
-- versions-de-python
 - programmation-orientee-objet
 - python-langage-de-programmation
-- developpeurs-python
 coverImage: ./images/quora.png
 ---
 

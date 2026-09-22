@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- philosophie
+- politique
 - religion
-- systeme-de-gouvernement
-- separation-de-l-eglise-et-de-l-etat
-- laicite
-- philosophie-politique
+- systeme
 - democratie
-- liberte-de-religion
-- systeme-juridique
-- doctrine-politique
-- religions
 coverImage: ./images/quora.png
 ---
 

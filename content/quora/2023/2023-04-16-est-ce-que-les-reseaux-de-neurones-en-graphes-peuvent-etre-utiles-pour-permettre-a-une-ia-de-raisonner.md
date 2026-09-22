@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - informatique
-- reseaux-neuronaux-et-apprentissages-profonds
-- raisonnement
 - intelligence-artificielle
-- algorithmes-d-apprentissage-automatique
-- reseaux-neuronaux-artificiels-ann
-- science-de-l-information
+- sciences
+- information
 - sciences-informatiques
-- reseaux-de-neurones
 coverImage: ./images/quora.png
 ---
 

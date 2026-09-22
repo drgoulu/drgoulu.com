@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - changement-climatique
-- l-environnement
-- ecologie
-- pluies-acides
-- annees-1990
-- destruction-de-la-couche-d-ozone
 - environnement
-- couche-d-ozone
-- le-rechauffement-climatique
-- ozone-et-couche-d-ozone
+- ecologie
+- annees-1990
+- rechauffement-climatique
 coverImage: ./images/quora.png
 ---
 

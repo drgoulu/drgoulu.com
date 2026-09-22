@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- personnalites
 - astronomie
-- michel-mayor
+- astrophysique
 - recherche-scientifique
 - invention
-- astronome
-- decouvertes
-- invention-et-inventions
-- astronomie-et-astrophysique
-- innovation-scientifique
+- personnalites
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- brian-may-musicien
+- astronomie
+- astrophysique
 - personnalites
 - musique
-- astronomie
-- queen-le-groupe
-- guitariste
-- astrophysique
-- groupes-de-musique
-- musiciens
 coverImage: ./images/qimg-e6026d538694dde1aaa4557c6dfbc9ac.jpg
 ---
 

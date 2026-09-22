@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - philosophie
-- hasard
-- evolution-processus
-- complementarite
-- etres-vivants
-- reproduction
-- la-vie
-- biologie
-- philosophie-des-sciences
 - evolution
+- biologie
+- vie
 coverImage: ./images/quora.png
 ---
 

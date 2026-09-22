@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - philosophie
-- comportement-humain
-- question-existentielle
-- moralite
 - humanite
+- question-existentielle
+- comportement-humain
 - nature-humaine
-- condition-humaine
-- philosophique
-- questions-existentielles
-- la-nature-humaine
 coverImage: ./images/quora.png
 ---
 

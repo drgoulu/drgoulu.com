@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- methode-experimentale
 - sciences
-- epistemologie
-- connaissances-scientifiques
+- philosophie
 - recherche-scientifique
-- la-methode-scientifique
-- pensee-scientifique
-- philosophie-des-sciences
-- travail-scientifique
+- epistemologie
+- methode-scientifique
 coverImage: ./images/quora.png
 ---
 

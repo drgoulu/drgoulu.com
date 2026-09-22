@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - biologie
-- la-vie
-- genes
-- phenomenes-quantiques
-- genetique-moleculaire
-- la-reproduction
+- vie
 - genetique
-- genomes
-- biologie-moleculaire
+- reproduction
 - genomique
 coverImage: ./images/quora.png
 ---

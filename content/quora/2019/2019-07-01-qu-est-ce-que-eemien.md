@@ -7,16 +7,11 @@ categories:
 - Pourquoi
 - Comment
 tags:
+- sciences
+- histoire
+- terre
 - changement-climatique
-- histoire-des-sciences
-- hemisphere-nord
 - climatologie
-- derniere-periode-glaciaire
-- science-de-la-terre
-- histoire-de-la-terre
-- paleoclimatologie
-- periode-glaciaire
-- conditions-climatiques
 coverImage: ./images/qimg-f1c97c74f4e78c73d7a3b184e92e2e68.jpg
 ---
 

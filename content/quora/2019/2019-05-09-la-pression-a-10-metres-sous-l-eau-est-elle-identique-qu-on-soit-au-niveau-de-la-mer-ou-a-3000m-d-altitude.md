@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- plongee-sous-marine
-- pression-atmospherique
+- sciences
+- eau
+- atmosphere
 - altitude
-- hydrostatique
-- niveau-de-la-mer
-- sciences-de-la-mer
-- physique-de-l-atmosphere
-- pression-de-l-eau
-- hydrodynamique
 coverImage: ./images/quora.png
 ---
 

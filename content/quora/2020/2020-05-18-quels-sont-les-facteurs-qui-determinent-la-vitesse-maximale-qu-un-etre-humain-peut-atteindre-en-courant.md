@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - biologie-humaine
-- activite-physique
-- endurance
-- vitesse-maximale
-- course-a-pied
+- sport
 - physiologie-humaine
-- biomecanique
 - physiologie
-- performances-physique
-- physiologie-du-sport
 coverImage: ./images/quora.png
 ---
 

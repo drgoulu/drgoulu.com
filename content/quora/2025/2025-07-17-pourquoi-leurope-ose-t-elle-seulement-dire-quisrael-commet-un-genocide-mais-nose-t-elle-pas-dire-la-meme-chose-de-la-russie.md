@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- politique
 - relations-internationales
+- politique-internationale
 - russie
 - israel
-- l-europe
-- double-standard
-- genocide
-- conflits-geopolitiques
-- analyse-politique
-- politique-internationale
-- positions-politiques
 coverImage: ./images/quora.png
 ---
 

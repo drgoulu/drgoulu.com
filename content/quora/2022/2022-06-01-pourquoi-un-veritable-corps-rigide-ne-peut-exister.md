@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- corps-organique
-- deformation
-- modele
-- concepts-en-physique
-- mecanique
+- sciences
 - physique-theorique
-- science-physique
-- la-physique
-- mecanique-physique
+- mecanique
+- concepts
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- chimie
-- sciences-de-la-nature
-- oceans
-- salinite
-- l-eau-de-mer
-- oceanographie
-- cycles-naturels
-- science-de-la-terre
-- physique-chimie
-- science-de-l-environnement
+- physique
+- sciences
+- terre
+- environnement
+- nature
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- pays
-- conflits-internationaux
+- monde
 - guerre
-- nations-unies
-- organisation-internationale
-- histoire-du-monde
-- guerres-et-conflits
-- histoire-des-nations-unies
-- organisation-des-nations-unies
+- pays
+- conflits
 coverImage: ./images/quora.png
 ---
 

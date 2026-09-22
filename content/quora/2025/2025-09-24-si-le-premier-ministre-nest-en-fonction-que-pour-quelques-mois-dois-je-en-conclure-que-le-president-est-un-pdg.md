@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- politique-francaise
-- pdg
-- president-directeur-general
-- gouvernance
-- premier-ministre
-- president-de-la-republique
-- systeme-de-gouvernement
+- systeme
 - gouvernement
-- chef-d-etat
+- politique-francaise
 - president
+- gouvernance
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- voyage
+- gestion
 - voyage-international
-- cap-vert
 - tourisme-guide-touristique
-- destinations-de-voyage
 - touristes
-- voyages
-- attraction-touristique
-- gestion-du-tourisme
-- industrie-touristique
-- destinations-touristiques
 coverImage: ./images/quora.png
 ---
 

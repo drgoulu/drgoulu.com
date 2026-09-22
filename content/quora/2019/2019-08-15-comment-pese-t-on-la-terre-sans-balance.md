@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- terre-planete
-- gravity
-- masse-physique
-- gravite-de-la-terre
-- la-terre
-- mesures-physiques
+- terre
+- planetes
 - gravite
-- planete-terre
 coverImage: ./images/quora.png
 ---
 

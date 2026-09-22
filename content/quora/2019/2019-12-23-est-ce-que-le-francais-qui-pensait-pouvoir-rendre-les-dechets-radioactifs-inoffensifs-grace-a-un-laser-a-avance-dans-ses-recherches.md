@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- recherche-scientifique
+- technologies
 - france
 - energie-nucleaire
-- lasers
-- science-et-technologie
-- substances-radioactives
-- traitement-des-dechets
-- recherche-scientifique
-- dechets-radioactifs
 coverImage: ./images/quora.png
 ---
 

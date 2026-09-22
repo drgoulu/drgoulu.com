@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- electricite
-- science-et-technologie
-- l-histoire-de-la-technologie
-- demarche-scientifique
-- curiosite-scientifique
+- histoire
+- recherche-scientifique
+- technologies
 - decouvertes-scientifiques
-- histoire-de-l-electricite
-- recherches-scientifiques
 coverImage: ./images/quora.png
 ---
 

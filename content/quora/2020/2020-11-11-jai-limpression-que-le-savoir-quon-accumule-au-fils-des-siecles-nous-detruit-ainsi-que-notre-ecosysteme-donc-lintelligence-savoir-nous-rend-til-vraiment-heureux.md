@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- malheureux
 - savoir
 - environnement
-- l-intelligence
+- intelligence
 - humanite
-- le-savoir
-- l-humanite
 coverImage: ./images/qimg-7dbc464e8a0553c3d54b7549fcf5e8b8.jpg
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- recyclage-du-plastique
 - recherche-scientifique
-- degradation
-- bacterie
-- biotechnologie
-- pollution-plastique
-- dechets-plastiques
 - recherche
-- bacteriologie
+- recyclage
+- plastique
 coverImage: ./images/quora.png
 ---
 

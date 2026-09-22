@@ -7,13 +7,9 @@ categories:
 - Pourquoi
 tags:
 - sante
-- troubles-hyperactifs-avec-deficit-de-l-attention
 - stimulants
-- psychopharmacologie
-- medicaments-sur-ordonnance
 - ritaline
 - medecine
-- medicaments-contre-le-tdah
 - psychiatrie
 coverImage: ./images/quora.png
 ---

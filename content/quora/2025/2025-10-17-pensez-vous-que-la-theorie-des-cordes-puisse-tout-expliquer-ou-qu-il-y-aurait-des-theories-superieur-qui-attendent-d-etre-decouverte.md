@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- recherche-scientifique
-- theorie-des-cordes
-- theories-physiques
-- connaissances-scientifiques
-- physique-quantique
-- science-physique
+- sciences
+- philosophie
+- theorie
 - physique-theorique
-- hypotheses-scientifiques
-- philosophie-de-la-physique
 coverImage: ./images/quora.png
 ---
 

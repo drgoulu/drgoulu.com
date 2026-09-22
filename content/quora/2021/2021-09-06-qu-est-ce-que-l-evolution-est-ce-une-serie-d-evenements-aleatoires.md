@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-nature
-- evolution-processus
-- hasard-et-aleatoire
-- evolution-humaine
-- sciences-de-la-vie
-- evolution-biologie
-- theorie-de-l-evolution
-- aleatoire
-- evolution-biologique-des-especes
-- biologie-de-l-evolution
+- sciences
+- evolution
+- biologie
+- theorie
+- vie
 coverImage: ./images/quora.png
 ---
 

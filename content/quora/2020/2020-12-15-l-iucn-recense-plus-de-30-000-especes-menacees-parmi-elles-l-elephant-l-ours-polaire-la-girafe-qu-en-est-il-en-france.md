@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
+- nature
 - france
-- especes-menacees
-- girafe
-- elephants
-- biodiversite
-- protection-de-l-environnement
-- ours-polaires
 - conservation
-- conservation-de-la-nature
+- biodiversite
 coverImage: ./images/quora.png
 ---
 

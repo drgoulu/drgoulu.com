@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- exploration-spatiale
-- venus-planete
+- planetes
 - systeme-solaire
-- planetes-du-systeme-solaire
+- exploration-spatiale
 - science-spatiale
-- conquete-spatiale
-- missions-spatiales
-- recherche-spatiale
 coverImage: ./images/quora.png
 ---
 

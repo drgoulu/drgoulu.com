@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- abstention
-- vote-electronique
-- engagement-citoyen
-- democratie-en-france
-- elections
-- sociologie-politique
-- sciences-politiques
+- france
+- sociologie
 - democratie
+- elections
 coverImage: ./images/quora.png
 ---
 

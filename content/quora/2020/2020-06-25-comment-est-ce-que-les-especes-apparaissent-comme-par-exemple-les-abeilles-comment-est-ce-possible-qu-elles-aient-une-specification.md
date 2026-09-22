@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- evolution
 - biologie
-- abeilles
-- evolution-processus
-- specificite
-- adaptation
-- selection-naturelle
-- biodiversite
+- processus
 - biologie-animale
-- specialisation
-- evolution-biologie
+- biodiversite
 coverImage: ./images/qimg-82e19c3114e5e92523995d0182e9d895.jpg
 ---
 

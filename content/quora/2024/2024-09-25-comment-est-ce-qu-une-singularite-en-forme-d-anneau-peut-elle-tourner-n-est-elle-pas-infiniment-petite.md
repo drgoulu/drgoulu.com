@@ -7,14 +7,9 @@ categories:
 - Comment
 tags:
 - physique
-- trous-noirs
 - astronomie
-- espace-temps
-- taille
-- singularite
-- rotation-physique
-- cosmologie
 - astrophysique
+- cosmologie
 - physique-theorique
 coverImage: ./images/quora.png
 ---

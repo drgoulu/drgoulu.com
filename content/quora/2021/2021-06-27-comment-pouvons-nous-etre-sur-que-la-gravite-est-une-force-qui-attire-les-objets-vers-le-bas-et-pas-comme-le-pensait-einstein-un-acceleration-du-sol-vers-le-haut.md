@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- albert-einstein-physicien
-- acceleration-physique
-- theorie-de-la-relativite
-- la-gravite
-- mouvement-physique
+- theorie
 - physique-theorique
-- force-physique
-- gravite
+- relativite
 coverImage: ./images/qimg-e22ac0b7de68a361ef41f97b66df6f24.jpg
 ---
 

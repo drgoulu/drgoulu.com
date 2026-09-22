@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- satellites-geostationnaires
-- radiotelescope
+- observation
 - objets-astronomiques
-- observation-des-astres
+- astres
 - satellites
-- les-telescopes
-- orbite-geostationnaire
-- astronomie-d-observation
 coverImage: ./images/qimg-d0656b9a96890044e84e1beff55e662a.jpg
 ---
 

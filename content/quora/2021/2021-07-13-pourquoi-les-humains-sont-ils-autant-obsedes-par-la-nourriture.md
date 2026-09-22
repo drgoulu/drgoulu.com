@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- psychologie
-- alimentation
-- obsession
-- comportement-humain
-- besoins-humains
-- culture-alimentaire
 - evolution-humaine
-- obsession-du-poids
-- consommation-de-nourriture
-- psychologie-et-comportement-humain
+- psychologie
+- comportement-humain
+- consommation
+- alimentation
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
+- sciences
+- technologies
 - droit
 - entreprises
-- enseignement-superieur
-- propriete-intellectuelle
 - innovation
-- nouvelles-technologies
-- universites
-- innovation-technologique
 coverImage: ./images/quora.png
 ---
 

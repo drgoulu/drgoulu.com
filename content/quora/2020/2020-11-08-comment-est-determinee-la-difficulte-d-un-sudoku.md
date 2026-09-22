@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- jeux
+- reflexion
+- logique
 - difficulte
-- jeux-de-reflexion
-- sudoku
-- puzzles
-- jeux-de-chiffres
-- puzzles-et-jeux
-- jeux-de-logique
-- jeux-de-l-esprit
-- jeux-cognitif
+- chiffres
 coverImage: ./images/qimg-902f8b12234c7023af516e93bf356eb8.jpg
 ---
 

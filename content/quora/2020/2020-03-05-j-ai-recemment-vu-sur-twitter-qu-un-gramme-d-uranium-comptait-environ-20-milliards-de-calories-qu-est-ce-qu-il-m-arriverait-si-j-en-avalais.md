@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- uranium
-- effets-negatifs
-- materiaux-radioactifs
-- toxicologie
 - sciences
-- ingestion
-- risque
-- effets-sur-la-sante
+- sante
+- risques
 - radioactivite
+- effet
 coverImage: ./images/quora.png
 ---
 

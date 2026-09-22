@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
 - astronomie
-- emission
-- composition-chimique
-- la-lumiere
-- mouvement-physique
-- evolution-stellaire
 - astrophysique
+- lumiere
 - galaxies
-- lumiere-physique
-- galaxies-astronomie
 coverImage: ./images/qimg-d46cc1950b631cd0ed3ed8abfb9a04eb.png
 ---
 

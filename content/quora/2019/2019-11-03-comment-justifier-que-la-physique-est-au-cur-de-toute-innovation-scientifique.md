@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- developpement
+- philosophie
 - recherche-scientifique
-- philosophie-des-sciences
-- sciences-et-technologies
-- innovation-scientifique
-- etude-scientifique
-- travail-scientifique
-- recherche-scientifique-et-innovation
+- technologies
 coverImage: ./images/quora.png
 ---
 

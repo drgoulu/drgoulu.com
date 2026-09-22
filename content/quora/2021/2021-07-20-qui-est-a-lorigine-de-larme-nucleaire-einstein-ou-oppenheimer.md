@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- j-robert-oppenheimer-physicien
-- physique-nucleaire-theorique
-- personnalites
 - albert-einstein-physicien
+- personnalites
 - scientifiques
 - armes-nucleaires
-- la-physique-nucleaire
 coverImage: ./images/quora.png
 ---
 

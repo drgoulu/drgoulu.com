@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - societe
-- justice
-- mouvement-des-gilets-jaunes
-- manifestations
-- agriculteurs
 - loi
-- colere
-- comportements-sociaux
-- injustice
+- justice
 - mouvements-sociaux
+- manifestations
 coverImage: ./images/quora.png
 ---
 

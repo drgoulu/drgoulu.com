@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- evolution-humaine
-- ailes
-- antennes
-- adaptations
-- changements-physiques
-- avenir-de-l-humanite
-- theorie-de-l-evolution
-- histoire-des-humains
-- les-caracteristiques-physiques
-- transformation-physique
+- physique
+- histoire
+- evolution
+- theorie
+- humanite
 coverImage: ./images/quora.png
 ---
 

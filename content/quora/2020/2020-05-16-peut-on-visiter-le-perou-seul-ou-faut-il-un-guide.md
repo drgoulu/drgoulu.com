@@ -8,11 +8,8 @@ categories:
 tags:
 - tourisme-guide-touristique
 - perou
-- voyage-prive
-- conseils-pour-les-vacances
-- visiter-et-voyager-au-perou
-- guides-touristiques
-- vivre-au-perou
+- conseils
+- vacances
 - guidance-touristique
 coverImage: ./images/quora.png
 ---

@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - finance
-- l-interdiction-et-les-interdictions
 - consequences-economiques
-- reglementation
-- scenarios-financiers-fictifs
 - marches-financiers
-- produits-derives-finances
-- interdits
-- risque-financier
+- reglementation
 - interdiction
 coverImage: ./images/quora.png
 ---

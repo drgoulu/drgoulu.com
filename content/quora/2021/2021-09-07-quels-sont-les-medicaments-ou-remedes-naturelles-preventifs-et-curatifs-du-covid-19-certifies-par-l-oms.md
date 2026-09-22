@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - sante-publique
 - covid-19-2019-2020
 - maladies-infectieuses
-- prevention
-- remedes-naturels
-- organisation-mondiale-de-la-sante-oms
 - traitements
-- sante-mondiale
-- sciences-de-la-sante-publique
 coverImage: ./images/quora.png
 ---
 

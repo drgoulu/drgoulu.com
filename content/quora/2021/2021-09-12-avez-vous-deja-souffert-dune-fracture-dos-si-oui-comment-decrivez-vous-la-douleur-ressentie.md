@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
 - sante
+- experience
 - experiences-personnelles
-- blessures
-- douleur-sensation
-- fractures-osseuses
-- experiences
 - experience-humaine
-- sante-physique
-- douleur-physique
 coverImage: ./images/quora.png
 ---
 

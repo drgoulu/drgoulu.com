@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- russie
+- histoire
 - exploration-spatiale
-- evenement-historique
-- course-aux-armements
-- atterrisages-sur-la-lune
-- histoire-de-l-astronautique
-- programme-spatial-russe
+- russie
 - conquete-spatiale
-- programme-spatial-americain
+- astronautique
 coverImage: ./images/quora.png
 ---
 

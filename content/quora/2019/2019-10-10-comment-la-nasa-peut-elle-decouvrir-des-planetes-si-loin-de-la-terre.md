@@ -10,12 +10,7 @@ tags:
 - astronomie
 - espace
 - exploration-spatiale
-- nasa
-- exoplanetes
-- astronomie-d-observation
 - science-spatiale
-- exploration-spatiale-de-la-nasa
-- recherche-spatiale
 coverImage: ./images/quora.png
 ---
 

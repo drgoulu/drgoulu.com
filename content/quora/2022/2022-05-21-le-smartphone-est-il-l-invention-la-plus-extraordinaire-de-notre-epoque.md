@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-philosophique
-- telephone-portable
+- invention
 - innovation
+- question-philosophique
 - nouvelles-technologies
-- epoque-moderne
-- smartphone
 - invention-et-inventions
-- l-invention
-- les-smartphones
 coverImage: ./images/quora.png
 ---
 

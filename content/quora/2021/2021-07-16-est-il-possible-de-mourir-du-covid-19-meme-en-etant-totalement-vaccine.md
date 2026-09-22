@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- contenu-adulte
 - covid-19-2019-2020
 - vaccins
-- epidemiologie
-- maladies
-- mortalite
-- vaccination-covid-19
 - vaccination
-- vaccin-covid-19
+- epidemiologie
 coverImage: ./images/quora.png
 ---
 

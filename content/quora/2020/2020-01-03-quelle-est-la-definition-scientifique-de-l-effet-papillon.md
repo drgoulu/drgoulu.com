@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- mathematiques
 - sciences
-- effet-papillon
-- recherche-scientifique
-- theorie-du-chaos
+- mathematiques
 - physique-theorique
-- definition-scientifique
-- etude-scientifique
-- travail-scientifique
+- recherche-scientifique
 coverImage: ./images/quora.png
 ---
 

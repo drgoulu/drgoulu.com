@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- internet
 - quora
-- plateformes-en-ligne
+- video
 - liberte-d-expression
-- videos
 - censure
-- vulgarisation-scientifique
-- homophobie
-- plateformes-de-medias-sociaux
-- censure-sur-internet
 coverImage: ./images/quora.png
 ---
 

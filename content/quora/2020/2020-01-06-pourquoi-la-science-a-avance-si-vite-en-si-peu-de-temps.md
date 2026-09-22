@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- histoire-des-sciences
+- sciences
+- histoire
+- recherche-scientifique
 - progres-scientifique
-- recherches-scientifiques
-- revolutions-scientifiques
-- innovation-scientifique
-- avancee-scientifique
-- histoire-des-decouvertes
-- histoire-de-la-science
-- progres-de-la-science
+- decouvertes
 coverImage: ./images/quora.png
 ---
 

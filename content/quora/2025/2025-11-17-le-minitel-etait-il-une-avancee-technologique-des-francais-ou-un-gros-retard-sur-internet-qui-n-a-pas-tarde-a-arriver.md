@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
+- informatique
+- technologies
 - france
-- histoire-de-l-informatique
-- minitel
 - internet
-- innovation-technologique
-- histoire-des-inventions
-- avancees-technologiques
-- l-histoire-de-la-technologie
-- histoire-d-internet
 coverImage: ./images/quora.png
 ---
 

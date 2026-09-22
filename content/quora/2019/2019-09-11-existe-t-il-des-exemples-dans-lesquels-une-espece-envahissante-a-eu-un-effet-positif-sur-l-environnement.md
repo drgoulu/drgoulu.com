@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-environnement
+- politique
+- environnement
+- societe
 - ecologie
-- impacts-positifs
-- especes-envahissantes
 - biodiversite
-- environnement-et-societe
-- ecologisme
-- effet-positif
-- ecologie-politique
-- ecologie-comportementale
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - droit
+- invention
 - innovation
 - propriete-intellectuelle
-- idees
 - brevets
-- protection-juridique
-- brevet-d-invention
-- invention
-- statut-juridique
-- idee
 coverImage: ./images/quora.png
 ---
 

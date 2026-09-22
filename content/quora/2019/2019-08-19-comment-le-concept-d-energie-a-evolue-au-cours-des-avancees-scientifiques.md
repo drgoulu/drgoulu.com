@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- histoire-des-sciences
-- concept-philosophique
-- avancee-scientifique
-- energie-physique
-- pensee-scientifique
+- sciences
+- histoire
+- energie
 - progres-scientifique
-- histoire-de-la-physique
-- histoire-de-la-science
 coverImage: ./images/quora.png
 ---
 

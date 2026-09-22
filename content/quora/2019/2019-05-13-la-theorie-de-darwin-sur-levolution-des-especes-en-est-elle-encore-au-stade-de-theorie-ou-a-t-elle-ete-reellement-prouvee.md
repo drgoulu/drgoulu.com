@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- biologie
-- charles-darwin
-- preuves-scientifiques
 - evolution
+- biologie
+- theorie
 - theorie-scientifique
-- evolution-biologique-des-especes
-- theorie-de-l-evolution
-- darwin
-- biologie-de-l-evolution
 coverImage: ./images/quora.png
 ---
 

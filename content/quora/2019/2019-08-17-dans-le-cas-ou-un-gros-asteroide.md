@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- paleontologie-des-dinosaures
 - astronomie
-- catastrophes-environnementales
-- collisions-d-asteroides
-- l-extinction-humaine
-- protection-de-l-environnement
-- asteroides
-- extinction-des-especes
-- catastrophes-naturelles
+- environnement
+- especes
+- extinction
 coverImage: ./images/quora.png
 ---
 

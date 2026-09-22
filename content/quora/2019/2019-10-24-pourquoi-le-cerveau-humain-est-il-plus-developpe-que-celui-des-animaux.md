@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- biologie-humaine
-- evolution-processus
-- neurologie
-- intelligence-humaine
-- biologie-animale
-- cerveau-humain
+- evolution
+- processus
 - evolution-humaine
-- anatomie-humaine
+- biologie-humaine
+- biologie-animale
 coverImage: ./images/quora.png
 ---
 

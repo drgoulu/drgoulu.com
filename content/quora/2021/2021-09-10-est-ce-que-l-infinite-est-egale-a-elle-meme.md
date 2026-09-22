@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
 - mathematiques
-- theorie-des-ensembles
-- infinite
-- philosophie-et-logique
-- infini-mathematiques
-- logique-mathematiques
-- philosophie-des-mathematiques
 - logique
+- infini
+- infinite
 coverImage: ./images/quora.png
 ---
 

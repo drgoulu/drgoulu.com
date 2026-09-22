@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-personnelle
 - livres
-- souvenir
 - opinion-personnelle
-- souvenirs-d-enfance
 - memoire
-- perspective-personnelle
-- collection-de-livres
-- donnee-personnelle
-- livre
+- souvenir
+- question-personnelle
 coverImage: ./images/qimg-00c66fd2aa53cded6f1d25b10aa12d48.jpg
 ---
 

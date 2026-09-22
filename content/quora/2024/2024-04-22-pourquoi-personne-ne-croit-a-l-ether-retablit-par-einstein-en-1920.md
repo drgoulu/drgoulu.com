@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- albert-einstein-physicien
-- relativite-generale
-- histoire-des-sciences
-- theorie-de-la-relativite
+- histoire
+- theorie
 - physique-theorique
-- relativite-physique
-- histoire-de-la-physique
 coverImage: ./images/quora.png
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
+- sciences
+- technologies
+- recherche
+- developpement
 - nouvelles-technologies
-- batterie
-- stockage-d-energie
-- innovation-technologique
-- technologie-electrique
-- recherche-et-developpement
-- technologies-electroniques
 coverImage: ./images/quora.png
 ---
 

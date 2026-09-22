@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - religion
-- culture-populaire
 - cinema
-- diable
-- representation
 - mythe
-- lucifer
-- television
-- satan
-- mythologie
+- culture-populaire
+- representation
 coverImage: ./images/qimg-bc2ef1bbec79b0a018c78bb36acdb6fc.jpg
 ---
 

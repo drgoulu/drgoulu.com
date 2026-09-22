@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-hypothetique
-- terre-planete
-- sciences-de-la-nature
+- sciences
+- terre
+- planetes
+- nature
 - systeme-solaire
-- la-ceinture-d-asteroides
-- hypotheses
-- asteroides
-- planetes-du-systeme-solaire
-- saturne-planete
 coverImage: ./images/quora.png
 ---
 

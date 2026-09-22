@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- changement-climatique
-- l-environnement
 - energie
-- pollution
-- developpement-durable
-- emissions-de-carbone
-- politiques-environnementales
+- environnement
+- changement-climatique
 - rechauffement-climatique
-- crise-climatique
-- le-changement-climatique
+- developpement-durable
 coverImage: ./images/quora.png
 ---
 

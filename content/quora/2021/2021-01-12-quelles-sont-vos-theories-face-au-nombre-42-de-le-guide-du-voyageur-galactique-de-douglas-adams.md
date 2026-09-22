@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- culture-populaire
-- science-fiction-genre
-- '42'
-- livres
 - theorie
-- nombre
-- le-guide-du-voyageur-galactique-roman
-- litterature
-- livres-de-science-fiction
+- nombres
+- science-fiction-genre
+- livres
+- culture-populaire
 coverImage: ./images/quora.png
 ---
 

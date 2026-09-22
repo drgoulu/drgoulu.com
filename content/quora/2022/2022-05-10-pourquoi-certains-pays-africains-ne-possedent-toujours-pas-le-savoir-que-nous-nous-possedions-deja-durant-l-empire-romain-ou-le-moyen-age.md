@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- moyen-age
 - developpement
-- savoir
-- empire-romain
-- colonisation
 - afrique
-- histoire-de-l-europe
-- civilisation
-- histoire-de-l-afrique
+- europe
+- colonisation
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- cosmos
-- univers-observable
-- vitesse-de-la-lumiere
-- demonstrations-scientifiques
-- theorie-de-la-relativite
-- l-univers
-- relativite-physique
-- explications-scientifiques
-- faits-scientifiques
+- univers
+- theorie
+- relativite
+- lumiere
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- mathematiques
 - sciences
-- simplicite
-- equations
+- mathematiques
 - physique-theorique
-- sciences-mathematiques
-- equations-mathematiques
 - physique-mathematique
-- post
 coverImage: ./images/quora.png
 ---
 

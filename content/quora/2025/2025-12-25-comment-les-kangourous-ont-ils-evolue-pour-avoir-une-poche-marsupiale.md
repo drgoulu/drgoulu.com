@@ -6,15 +6,10 @@ draft: false
 categories:
 - Comment
 tags:
-- biologie-animale
-- kangourous
-- evolution-processus
-- marsupiaux
-- zoologie
 - evolution
-- l-anatomie-animale
-- anatomie-animale
-- reproduction-animale
+- processus
+- biologie-animale
+- zoologie
 - evolution-animale
 coverImage: ./images/quora.png
 ---

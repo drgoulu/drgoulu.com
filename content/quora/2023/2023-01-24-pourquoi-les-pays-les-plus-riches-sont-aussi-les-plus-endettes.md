@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - economie-mondiale
-- dette
-- inegalites-sociales
-- pays-riches
 - finances-publiques
-- developpement-economique
-- econome
+- inegalites-sociales
 - dette-publique
-- les-riches
-- economie-publique
+- developpement-economique
 coverImage: ./images/qimg-75d3c1d92b1173fe5b2f7031272b3d59.jpg
 ---
 

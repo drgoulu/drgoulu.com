@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- experiences-personnelles
-- apollo-11
-- lune-satellite-naturel
-- annees-1960
-- alunissage
-- histoire-de-l-astronautique
-- television-en-direct
+- histoire
 - exploration-spatiale
-- evenement-historique
-- temoignage
+- experiences-personnelles
+- astronautique
+- lune-satellite-naturel
 coverImage: ./images/quora.png
 ---
 

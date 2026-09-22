@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-physique
-- uranium
-- armes-nucleaires
-- mines
+- physique
+- sciences
 - atomes
-- plutonium-element-chimique
-- la-physique-nucleaire
-- plutonium
+- armes-nucleaires
+- physique-nucleaire
 coverImage: ./images/quora.png
 ---
 

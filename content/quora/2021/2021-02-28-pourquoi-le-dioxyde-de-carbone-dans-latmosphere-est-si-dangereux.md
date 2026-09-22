@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
+- environnement
 - changement-climatique
-- l-environnement
-- effet-de-serre
-- le-dioxyde-de-carbone
-- sciences-de-l-atmosphere
-- gaz-a-effet-de-serre
-- pollution-de-l-air
 - rechauffement-climatique
-- science-de-l-environnement
-- sciences-du-climat
+- atmosphere
 coverImage: ./images/quora.png
 ---
 

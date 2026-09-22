@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - societe
+- inegalite
 - argent
-- travail-emploi
-- inegalites-de-revenu
-- terrain
 - voitures
-- propriete-immobiliere
-- injustice-sociale
-- precarite-sociale
+- revenu
 coverImage: ./images/quora.png
 ---
 

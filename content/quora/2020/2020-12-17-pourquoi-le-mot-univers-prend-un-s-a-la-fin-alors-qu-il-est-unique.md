@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- langues
-- l-univers-astronomie
-- francais-langue
-- noms-propres
-- orthographe
+- astronomie
+- univers
 - linguistique
-- grammaire-francaise
-- linguistique-francaise
-- francais
-- orthographe-et-grammaire-francaise
+- langues
+- francais-langue
 coverImage: ./images/quora.png
 ---
 

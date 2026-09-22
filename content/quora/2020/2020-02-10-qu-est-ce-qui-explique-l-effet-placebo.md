@@ -6,14 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- psychologie
-- sante
-- placebos
 - recherche-scientifique
-- traitements-medicaux
-- effets-placebo-sante
+- sante
+- psychologie
 - medecine
-- psychologie-cognitive
 - recherche-medicale
 coverImage: ./images/quora.png
 ---

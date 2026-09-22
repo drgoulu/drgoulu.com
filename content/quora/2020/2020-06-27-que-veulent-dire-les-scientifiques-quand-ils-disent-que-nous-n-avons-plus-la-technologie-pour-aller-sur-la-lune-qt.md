@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- astronomie
+- espace
 - exploration-spatiale
-- lune-astronomie
-- le-programme-apollo
-- voyage-dans-l-espace
-- programme-spatial-americain
-- technologie-spatiale
-- module-lunaire-apollo
-- conquete-spatiale
-- ingenierie-et-technologie-spatiale
-- missions-apollo
+- voyage
+- ingenierie
 coverImage: ./images/quora.png
 ---
 

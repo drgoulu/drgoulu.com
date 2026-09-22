@@ -7,13 +7,10 @@ categories:
 - Comment
 tags:
 - physique
+- sciences
+- matiere
 - radioactivite
-- particule-alpha
 - champs-magnetiques
-- sciences-de-la-matiere
-- transformation-physique
-- matiere-physique
-- physique-des-rayonnements
 coverImage: ./images/quora.png
 ---
 

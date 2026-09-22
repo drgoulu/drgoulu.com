@@ -7,16 +7,11 @@ categories:
 - Pourquoi
 - Comment
 tags:
+- histoire
 - mathematiques
-- pi
-- l-importance
-- histoire-du-calcul
-- geometrie-des-cercles
-- le-nombre-pi
-- nombres-mathematiques
-- mathematiques-histoire
+- nombres
 - geometrie
-- histoire-des-mathematiques
+- calcul
 coverImage: ./images/quora.png
 ---
 

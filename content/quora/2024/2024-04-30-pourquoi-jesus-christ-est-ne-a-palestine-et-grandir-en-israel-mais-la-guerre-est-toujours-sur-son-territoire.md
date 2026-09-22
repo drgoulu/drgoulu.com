@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- conflit-israelo-palestinien
-- christianisme
 - religion
+- monde
 - guerre
-- jerusalem
-- jesus-christ
-- palestine
 - israel
-- histoire-du-monde
 coverImage: ./images/quora.png
 ---
 

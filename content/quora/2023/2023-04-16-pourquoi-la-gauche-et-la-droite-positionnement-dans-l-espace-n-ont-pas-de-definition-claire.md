@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- opinion-politique
+- theorie
+- politique
+- opinion
+- sociologie
 - concepts
-- definitions-des-mots
-- ideologies-politiques
-- sociologie-politique
-- la-gauche-politique
-- analyse-politique
-- theorie-politique
-- spectre-politique
-- la-droite-politique
 coverImage: ./images/qimg-093348d681e28dd7cf2e5696268fb063.jpg
 ---
 

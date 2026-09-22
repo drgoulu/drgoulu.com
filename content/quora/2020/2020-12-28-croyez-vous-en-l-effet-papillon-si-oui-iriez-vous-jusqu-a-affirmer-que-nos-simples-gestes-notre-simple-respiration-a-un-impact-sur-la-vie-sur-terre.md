@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - philosophie
-- effet-papillon
-- gestes
+- vie
 - question-hypothetique
-- impact-mondial
-- theorie-du-chaos
-- la-respiration
-- perspectives-sur-la-vie
-- science-physique
-- question-philosophique
 coverImage: ./images/quora.png
 ---
 

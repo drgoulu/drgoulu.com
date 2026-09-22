@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- education
 - physique
-- experiences
-- oceanographie
-- les-marees
-- sciences-de-la-nature
-- science-experimentale
-- recherches-scientifiques
-- sciences-de-l-environnement
+- sciences
+- environnement
+- recherche-scientifique
+- nature
 coverImage: ./images/qimg-c9131aa0eae19f3c2558439d0c865f36.gif
 ---
 

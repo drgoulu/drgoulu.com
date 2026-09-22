@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - relations-internationales
-- iran
-- conflit-israelo-palestinien
-- comprehension
-- le-moyen-orient
-- impartialite
-- israel
-- palestine
 - politique-internationale
-- diplomatie-et-relation-internationale
+- israel
+- conflit-israelo-palestinien
+- palestine
 coverImage: ./images/quora.png
 ---
 

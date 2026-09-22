@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
+- theorie
 - electromagnetisme
-- la-charge-electrique
-- champ-gravitationnel
-- acceleration-physique
-- ondes-electromagnetiques
 - force-gravitationnelle
 - champs-electromagnetiques
-- theorie-de-l-electromagnetisme
 coverImage: ./images/quora.png
 ---
 

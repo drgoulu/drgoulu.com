@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
+- theorie
+- politique
 - droit
-- animal
-- philosophie-politique
-- bien-etre-animal
-- l-ethique
-- droits-des-animaux
-- droit-public
-- theorie-politique
-- concept-de-philosophie-politique
+- animaux
 coverImage: ./images/quora.png
 ---
 

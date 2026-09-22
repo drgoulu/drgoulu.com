@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- astres
 - astronomie
-- l-attraction-gravitationnelle
-- gravitation
-- observation-des-astres
-- champ-gravitationnel
-- constante-de-gravitation
 - astrophysique
 - relativite
+- gravitation
 coverImage: ./images/qimg-0fba8075c7177fbbc92c867894bf8568.jpg
 ---
 

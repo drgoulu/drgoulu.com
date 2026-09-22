@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - relations-internationales
-- pauvrete
-- occident
-- pays-petroliers
 - ressources-naturelles
-- exploitation
-- economie-mondiale
 - politique-internationale
-- lindustrie-petroliere
+- economie-mondiale
+- pauvrete
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- science-fiction-genre
-- corps-humains
-- voyage-dans-l-espace
-- vitesse-de-la-lumiere
-- acceleration-physique
-- theorie-de-la-relativite
+- theorie
 - physique-theorique
-- relativite-physique
-- voyage-spatial
+- relativite
+- espace
 coverImage: ./images/quora.png
 ---
 

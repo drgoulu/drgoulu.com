@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- nouvelles-technologies
 - science-fiction-genre
+- vie-extraterrestre
 - theories-du-complot
+- nouvelles-technologies
 - mysteres
-- extraterrestres
-- la-vie-extraterrestre
-- objets-volants-non-identifies
-- theories-du-complot-specifiques
 coverImage: ./images/qimg-fde50d8409e395550238ec8a945f4be0.jpg
 ---
 

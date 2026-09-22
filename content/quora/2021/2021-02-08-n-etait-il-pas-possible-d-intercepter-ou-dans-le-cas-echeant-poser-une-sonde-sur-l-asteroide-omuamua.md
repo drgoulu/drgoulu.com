@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- oumuamua-asteroid
 - exploration-spatiale
-- asteroides
-- sondes-spatiales
-- technologie-spatiale
 - science-spatiale
+- technologie-spatiale
 - missions-spatiales
-- recherche-spatiale
-- sonde-spatiale
 coverImage: ./images/quora.png
 ---
 

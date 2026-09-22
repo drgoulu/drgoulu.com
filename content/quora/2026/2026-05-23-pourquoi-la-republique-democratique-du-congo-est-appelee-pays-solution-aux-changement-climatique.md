@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- changement-climatique
-- ressources-naturelles
-- les-pays-en-voie-de-developpement
-- republique-democratique-du-congo
+- planetes
 - environnement
+- changement-climatique
 - developpement-durable
-- solutions-au-rechauffement-de-la-planete
-- politique-climatique
-- crise-climatique
-- ressource-naturelle
+- ressources-naturelles
 coverImage: ./images/quora.png
 ---
 

@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - finances-publiques
+- etat
+- depenses-publiques
 - inflation-economie
 - systeme-monetaire
-- etats
-- systeme-economique
-- dette-gouvernementale
-- depenses-publiques
-- politique-monetaire
 coverImage: ./images/qimg-02fac63cf0cd9ded922a6d3211a3ff9b.jpg
 ---
 

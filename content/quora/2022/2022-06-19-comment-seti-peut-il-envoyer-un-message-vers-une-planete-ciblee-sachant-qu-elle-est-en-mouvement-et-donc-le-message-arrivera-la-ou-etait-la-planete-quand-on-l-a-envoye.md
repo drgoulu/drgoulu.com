@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
 - exploration-spatiale
-- signalisation-communications
-- mouvement-physique
+- mouvement
 - exoplanetes
-- seti-recherche-d-intelligence-extraterrestre
 - radioastronomie
-- transmission-du-signal
-- communications-spatiales
-- mecanique-spatiale
 coverImage: ./images/quora.png
 ---
 

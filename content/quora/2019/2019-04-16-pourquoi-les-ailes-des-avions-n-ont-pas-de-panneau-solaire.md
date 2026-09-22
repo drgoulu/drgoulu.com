@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- aviation
 - energie-renouvelable
-- ingenierie-aeronautique
-- panneaux-solaires
-- ailes-d-avion
+- aviation
+- energie-solaire
 - avions
 - aeronautique
-- energie-solaire
-- technologie-aeronautique
-- energie-solaire-photovoltaique
 coverImage: ./images/quora.png
 ---
 

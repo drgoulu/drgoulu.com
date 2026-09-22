@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- effets-secondaires-du-vaccin-covid-19
-- cataracte
-- decollement-de-la-retine
-- ophtalmologie
-- maladies-oculaires
-- vaccin-covid-19
-- medecine
 - effets-secondaires
+- vaccin-covid-19
+- ophtalmologie
+- medecine
 coverImage: ./images/quora.png
 ---
 

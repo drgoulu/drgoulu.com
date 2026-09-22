@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- energie-potentielle
-- formules
-- concepts-en-physique
+- sciences
 - energie
-- mecanique-physique
-- science-physique
-- quantites-physiques
-- lois-de-la-physique
-- exercices-de-physique
+- mecanique
+- loi
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - changement-climatique
-- survivre
-- preparation-a-la-vie-d-adulte
-- catastrophes
-- rechauffement-global
-- preparation-aux-catastrophes
-- catastrophe-environnementale
 - crise-climatique
-- catastrophe-climatique
+- catastrophes
 - catastrophes-environnementales
+- catastrophe-climatique
 coverImage: ./images/quora.png
 ---
 

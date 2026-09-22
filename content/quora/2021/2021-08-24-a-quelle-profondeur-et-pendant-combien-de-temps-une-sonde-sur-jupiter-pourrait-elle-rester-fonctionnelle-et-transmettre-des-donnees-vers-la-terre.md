@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - astronomie
+- vie
 - exploration-spatiale
-- duree-de-vie
-- transmission-de-donnees
-- jupiter-planete
-- ingenierie-et-technologie-spatiale
-- sonde-spatiale
 - science-spatiale
-- missions-spatiales
-- technologie-spatiale
+- ingenierie
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - france
-- systemes-de-vote
+- systeme
+- elections
 - politique-francaise
-- institutions-francaises
-- reforme-politique
-- vie-politique-francaise
-- systeme-d-election
-- systemes-electoraux
-- politique-en-france
 coverImage: ./images/quora.png
 ---
 

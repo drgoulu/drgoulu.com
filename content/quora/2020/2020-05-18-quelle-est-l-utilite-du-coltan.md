@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- electronique
 - ressources-naturelles
-- coltan
 - industrie
-- telephones-portables
-- utilite
-- mines
-- batteries-de-telephones-portables
+- electronique
+- telephone-portable
+- batteries
 coverImage: ./images/quora.png
 ---
 

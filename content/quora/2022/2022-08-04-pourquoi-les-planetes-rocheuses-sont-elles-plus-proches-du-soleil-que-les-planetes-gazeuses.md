@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - astronomie
-- le-soleil
-- formation
-- geantes-gazeuses
-- planetes-specifiques-du-systeme-solaire
-- science-de-la-terre
+- terre
+- planetes
 - systeme-solaire
-- planetes-du-systeme-solaire
 coverImage: ./images/quora.png
 ---
 

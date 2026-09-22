@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- education
-- informatique
 - mathematiques
-- carriere
-- developpement-logiciel
+- informatique
+- programmation
+- education
 - algorithmes
-- competences-en-programmation
-- sciences-informatiques
-- developpeur-informatique
 coverImage: ./images/quora.png
 ---
 

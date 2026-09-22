@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- humanite
+- securite
 - sante-publique
 - covid-19-2019-2020
-- humanite
 - pandemie
-- mesures-politiques
-- prevention
-- crise-sanitaire
-- organisation-mondiale-de-la-sante
-- mesures-de-securite
-- sante-mondiale
 coverImage: ./images/quora.png
 ---
 

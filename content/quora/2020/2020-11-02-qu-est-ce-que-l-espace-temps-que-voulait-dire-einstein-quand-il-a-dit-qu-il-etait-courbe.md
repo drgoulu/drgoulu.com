@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- albert-einstein-physicien
-- courbure-de-l-espace
 - cosmologie
-- espace-temps
-- theorie-de-la-relativite
+- theorie
 - physique-theorique
-- relativite-generale
-- relativite-physique
-- courbure-du-temps
+- relativite
 coverImage: ./images/qimg-ee447cfcf175cf204198b94da373e85e.png
 ---
 

@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- les-centrales-nucleaires
-- chaleur
-- explosions
-- temperatures
-- sciences-de-l-atmosphere
 - energie-nucleaire
 - atmosphere
+- temperatures
 coverImage: ./images/quora.png
 ---
 

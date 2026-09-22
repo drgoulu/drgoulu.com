@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - biologie
+- vie
 - animaux
-- duree-de-vie
-- faune
-- zoologie
 - biologie-animale
-- cycles-de-vie
-- science-biologique
+- faune
 coverImage: ./images/quora.png
 ---
 

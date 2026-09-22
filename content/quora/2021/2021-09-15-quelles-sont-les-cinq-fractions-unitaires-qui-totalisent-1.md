@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- partitions
-- calcul-de-fractions
 - probleme-mathematique-integral
-- questions-de-mathematiques
-- fractions-mathematiques
-- problemes-mathematiques
-- solutions-mathematiques
-- mathematques
+- questions
+- probleme
+- solutions
 coverImage: ./images/quora.png
 ---
 

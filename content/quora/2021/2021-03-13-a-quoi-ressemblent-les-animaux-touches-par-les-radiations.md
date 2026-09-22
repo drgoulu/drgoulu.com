@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- animaux
-- mutation-genetique
 - biologie
-- radiations-ionisantes
-- physics-of-radiations
-- radioactivite
-- maladie-des-radiations
+- animaux
 - biologie-animale
-- radiation
+- radioactivite
 coverImage: ./images/quora.png
 ---
 

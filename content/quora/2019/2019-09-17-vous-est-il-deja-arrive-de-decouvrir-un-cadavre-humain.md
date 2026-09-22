@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- experiences-personnelles
 - questions
-- question-de-sondage
-- mortalite
+- experience
 - sondages
-- experiences
-- cadavres
-- experience-humaine
-- sondage-statistique
+- experiences-personnelles
+- mortalite
 coverImage: ./images/quora.png
 ---
 

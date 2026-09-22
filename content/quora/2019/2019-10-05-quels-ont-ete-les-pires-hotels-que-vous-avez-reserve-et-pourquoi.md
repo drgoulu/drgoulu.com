@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - experiences-personnelles
-- question-de-sondage
-- hotel
-- hebergement-internet
+- questions
 - sondages
-- mauvaises-experiences
-- experiences-hotelieres
-- hebergement
 - hotels
+- hebergement
 coverImage: ./images/quora.png
 ---
 

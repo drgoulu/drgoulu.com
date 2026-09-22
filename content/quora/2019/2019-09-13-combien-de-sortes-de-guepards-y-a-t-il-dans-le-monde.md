@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- sciences
 - animaux
-- guepards
-- zoologie
-- faune
 - especes
-- biodiversite
-- sciences-des-animaux
-- faune-africaine
-- espece-animale
+- faune
+- zoologie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- astronomie
 - exploration-spatiale
-- lune-astronomie
-- le-programme-apollo
-- programme-spatial-americain
-- voyage-spatial
-- conquete-spatiale
+- lune
 - missions-spatiales
-- lune-satellite-naturel
-- missions-apollo
-- programmes-spatiaux
+- voyage-spatial
 coverImage: ./images/quora.png
 ---
 

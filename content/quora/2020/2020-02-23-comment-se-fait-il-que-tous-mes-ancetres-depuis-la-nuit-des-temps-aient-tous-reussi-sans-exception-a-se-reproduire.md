@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- histoire
 - question-existentielle
-- question-personnelle
-- philosophique
-- ancetres
 - probabilite-statistiques
-- la-reproduction
-- genealogie
-- histoire-de-famille
-- idee-philosophique
+- philosophique
+- reproduction
 coverImage: ./images/quora.png
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-environnement
+- sciences
+- planetes
+- environnement
 - ecologie
-- influence-de-l-homme-sur-la-planete
-- forets
-- deforestation
-- impact-environnemental
-- interaction-homme-environnement
-- science-de-l-environnement
+- homme
 coverImage: ./images/qimg-17a44670d40badec7c1f34e91aed409d.jpg
 ---
 

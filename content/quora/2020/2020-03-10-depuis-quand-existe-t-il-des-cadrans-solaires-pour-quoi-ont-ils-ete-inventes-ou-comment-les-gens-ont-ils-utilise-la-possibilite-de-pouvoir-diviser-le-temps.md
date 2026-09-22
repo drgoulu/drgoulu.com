@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- histoire
-- cadran-solaire
-- horloges
+- sciences
 - astronomie
-- mesure-du-temps
-- histoire-des-mathematiques
-- histoire-de-l-astronomie
-- histoire-humaine
-- horlogerie
-- histoire-des-sciences
+- histoire
+- mathematiques
+- temps
 coverImage: ./images/quora.png
 ---
 

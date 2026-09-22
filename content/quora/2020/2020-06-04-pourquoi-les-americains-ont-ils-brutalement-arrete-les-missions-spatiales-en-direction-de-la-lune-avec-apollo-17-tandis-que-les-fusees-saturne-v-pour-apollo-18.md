@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- astronomie
+- histoire
 - exploration-spatiale
-- theories-du-complot
-- lune-astronomie
-- saturn-v-fusee
-- le-programme-apollo
-- financement-de-la-recherche
-- histoire-de-l-astronautique
-- programme-spatial-americain
-- missions-apollo
-- theories-du-complot-de-la-nasa
+- recherche
+- lune
 coverImage: ./images/quora.png
 ---
 

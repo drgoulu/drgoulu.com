@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- opinion-publique
-- securite
-- pays
-- opinion
-- norvege
 - suisse
-- sondage-statistique
-- classements
-- opinions
-- securite-personnelle
+- opinion
+- securite
+- opinion-publique
+- pays
 coverImage: ./images/quora.png
 ---
 

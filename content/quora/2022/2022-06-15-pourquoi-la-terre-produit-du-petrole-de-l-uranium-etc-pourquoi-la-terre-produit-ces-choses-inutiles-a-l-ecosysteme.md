@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sciences-de-la-nature
-- terre-planete
-- geologie
-- uranium
-- ressources-naturelles
-- petrole-energie-fossile
-- ecosystemes
-- ressources-minerales
-- sciences-de-l-environnement
+- sciences
+- terre
+- planetes
+- environnement
+- nature
 coverImage: ./images/quora.png
 ---
 

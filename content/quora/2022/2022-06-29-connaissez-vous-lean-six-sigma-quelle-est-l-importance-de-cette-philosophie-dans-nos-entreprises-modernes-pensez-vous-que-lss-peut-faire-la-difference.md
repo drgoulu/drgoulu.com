@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- efficacite
-- gestion-des-entreprises
-- lean-six-sigma
-- amelioration-continue
-- entreprises-novatrices
-- philosophie-de-l-economie
-- excellence-operationnelle
-- management-de-qualite
-- gestion-d-entreprise
+- philosophie
+- economie
+- entreprises
+- gestion
+- qualite
 coverImage: ./images/quora.png
 ---
 

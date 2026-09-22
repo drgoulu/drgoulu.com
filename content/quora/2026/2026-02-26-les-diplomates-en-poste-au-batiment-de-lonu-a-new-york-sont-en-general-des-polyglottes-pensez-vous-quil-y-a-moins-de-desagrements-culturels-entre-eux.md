@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- relations-interculturelles
 - new-york-city
 - affaires-internationales
 - nations-unies
 - diplomatie
-- multilinguisme
-- polyglottes
-- diplomatie-et-diplomates
-- defis-culturels
 - communication-interculturelle
 coverImage: ./images/quora.png
 ---

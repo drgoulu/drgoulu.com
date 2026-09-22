@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- recherche-scientifique
 - astronomie
-- l-univers
-- relativite-generale
-- cosmologie
 - astrophysique
-- decouvertes-scientifiques
-- etude-scientifique
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

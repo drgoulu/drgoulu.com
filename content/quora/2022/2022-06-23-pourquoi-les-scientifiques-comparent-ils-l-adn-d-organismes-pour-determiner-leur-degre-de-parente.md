@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
+- evolution
 - biologie
+- vie
 - recherche-scientifique
-- parente
-- evolution-processus
-- adn
-- genetique
-- sciences-de-la-vie
-- taxonomie
-- phylogenetique
-- evolution-biologie
 coverImage: ./images/quora.png
 ---
 

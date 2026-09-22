@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
+- terre
+- planetes
+- environnement
 - changement-climatique
-- terre-planete
-- ressources-naturelles
-- oxygene
-- l-environnement
-- climatologie
-- environment
-- rechauffement-climatique
-- le-rechauffement-climatique
 coverImage: ./images/quora.png
 ---
 

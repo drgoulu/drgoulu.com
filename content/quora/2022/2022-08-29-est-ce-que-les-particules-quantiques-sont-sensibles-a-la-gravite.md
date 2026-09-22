@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- theorie-quantique-des-champs
 - gravite
-- mecanique-quantique
-- phenomenes-quantiques
-- gravite-quantique
 - physique-mathematique
 - physique-quantique
-- gravite-physique
+- mecanique-quantique
 coverImage: ./images/quora.png
 ---
 

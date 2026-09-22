@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sante
+- droit
+- economie
 - ethique-philosophie-morale
-- fin-de-vie
-- droit-humain
-- economie-de-la-sante
-- soins-palliatifs
-- liberte-de-choix
-- ethique-sociale
-- droit-de-la-sante
+- choix
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- lois-de-conservation
-- theorie-des-groupes-mathematiques
-- translation
-- mecanique-classique
-- symetrie
-- conservation
-- quantites-physiques
 - physique-mathematique
-- symetrie-en-physique
+- loi
+- conservation
+- symetrie
 coverImage: ./images/quora.png
 ---
 

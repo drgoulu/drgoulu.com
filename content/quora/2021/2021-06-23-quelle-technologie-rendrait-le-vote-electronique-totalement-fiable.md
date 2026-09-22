@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- securite-informatique
-- elections
+- informatique
+- securite
+- systeme
 - nouvelles-technologies
-- fiabilite
 - democratie
-- vote-electronique
-- cryptographie
-- securite-des-donnees
-- systemes-de-vote
 coverImage: ./images/quora.png
 ---
 

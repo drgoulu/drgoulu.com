@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- voyage-international
-- meres
-- phenomenes-naturels
-- tourisme-guide-touristique
-- volcans
 - voyage
-- eruption-volcanique
-- destinations-touristiques
-- attraits-touristiques
+- phenomenes-naturels
+- voyage-international
+- volcans
+- tourisme-guide-touristique
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- l-environnement
-- consommation
+- environnement
 - ecologie
-- durabilite
+- consommation
 - pollution
-- recyclage-du-plastique
-- reduction-du-gaspillage
-- surconsommation
-- pollution-plastique
-- dechets-plastiques
+- durabilite
 coverImage: ./images/quora.png
 ---
 

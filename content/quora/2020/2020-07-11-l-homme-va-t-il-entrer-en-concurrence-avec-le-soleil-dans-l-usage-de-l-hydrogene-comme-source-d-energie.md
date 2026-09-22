@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - energie
-- le-soleil
-- consequences
-- rarete-des-ressources
+- soleil
 - energie-renouvelable
-- elements-chimiques
-- hydrogene
-- energie-solaire
-- gestion-des-ressources-environnementales
 - energie-alternative
+- hydrogene
 coverImage: ./images/quora.png
 ---
 

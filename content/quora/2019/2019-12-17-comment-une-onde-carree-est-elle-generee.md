@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- ondes
-- traitement-de-l-information
-- signaux-electriques
-- electronique
-- traitement-du-signal-numerique
 - physique-mathematique
 - electricite
-- traitement-du-signal
-- electronique-physique
+- information
+- traitements
 coverImage: ./images/qimg-710aabfa9784252f2d5b0ef985fa2ca8.jpg
 ---
 

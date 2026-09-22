@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- experience
+- histoire
 - recherche-scientifique
-- histoire-des-sciences
-- curiosite-scientifique
-- experiences-scientifiques
+- experience
 - decouvertes-scientifiques
-- histoire-des-decouvertes
-- innovation-scientifique
-- enquetes-scientifiques
 coverImage: ./images/quora.png
 ---
 

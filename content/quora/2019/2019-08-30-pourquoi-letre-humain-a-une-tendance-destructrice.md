@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- psychologie
-- destruction
-- comportement
-- nature-humaine
 - philosophie
+- psychologie
 - comportement-humain
-- psychologie-humaine
-- condition-humaine
-- philosophie-et-psychologie
-- la-nature-humaine
+- nature-humaine
+- comportement
 coverImage: ./images/quora.png
 ---
 

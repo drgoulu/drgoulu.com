@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - comportement-humain
-- conseils-non-sollicites
-- politesse
-- condescension
 - handicap
 - image-sociale
-- personnes-aveugles
 - interaction-sociale
 - handicaps-physiques
-- personnes-handicapees
 coverImage: ./images/quora.png
 ---
 

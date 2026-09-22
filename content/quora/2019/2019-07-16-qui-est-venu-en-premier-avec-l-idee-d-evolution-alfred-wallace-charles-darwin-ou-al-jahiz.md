@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-des-sciences
-- al-farabi-philosophe
-- ecrivain
+- sciences
+- histoire
+- evolution
+- theorie
 - charles-darwin
-- al-jazeera
-- khalil-gibran-auteur
-- naturalistes
-- theorie-de-l-evolution
-- ecrivain-britannique
-- philosophe-ecrivain
 coverImage: ./images/quora.png
 ---
 

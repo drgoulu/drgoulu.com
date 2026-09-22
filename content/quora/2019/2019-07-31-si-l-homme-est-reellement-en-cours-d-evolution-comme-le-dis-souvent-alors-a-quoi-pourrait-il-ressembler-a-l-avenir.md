@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie-humaine
-- anthropologie
-- changements-physiques
-- l-avenir-du-monde
-- hypotheses-scientifiques
-- evolution-biologie
+- evolution
+- biologie
+- monde
+- humanite
 - evolution-humaine
-- avenir-de-l-humanite
-- les-caracteristiques-physiques
-- anthropologie-societe
 coverImage: ./images/quora.png
 ---
 

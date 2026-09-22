@@ -8,13 +8,9 @@ categories:
 tags:
 - astronomie
 - predictions
-- alignement
 - systeme-solaire
-- hypotheses-astronomiques
-- planetes-astronomie
-- planetes-du-systeme-solaire
-- dynamique-du-systeme-solaire
-- le-systeme-solaire
+- planetes
+- dynamique
 coverImage: ./images/quora.png
 ---
 

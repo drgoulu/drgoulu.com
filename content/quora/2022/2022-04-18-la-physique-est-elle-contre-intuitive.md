@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- concepts-en-physique
-- intuition
+- concepts
 - physique
-- la-philosophie-des-sciences
-- science-physique
-- philosophie-de-la-physique
-- philosophie-des-sciences
+- intuition
+- sciences
 coverImage: ./images/quora.png
 ---
 

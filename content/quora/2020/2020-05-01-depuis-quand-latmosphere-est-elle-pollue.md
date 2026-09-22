@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- changement-climatique
-- l-environnement
-- histoire-de-la-science
-- sciences-de-l-atmosphere
+- sciences
+- histoire
 - environnement
-- pollution-atmospherique
-- le-rechauffement-climatique
-- sciences-de-l-environnement
-- pollution-de-l-air
-- sciences-du-climat
+- changement-climatique
+- rechauffement-climatique
 coverImage: ./images/quora.png
 ---
 

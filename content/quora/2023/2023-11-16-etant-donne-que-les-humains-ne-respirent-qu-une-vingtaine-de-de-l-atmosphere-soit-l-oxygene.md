@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - biologie-humaine
-- gaz
-- azote
-- oxygene
-- sciences-de-l-atmosphere
-- la-respiration
-- physiologie-humaine
 - atmosphere
-- physiologie
 - hydrogene
+- physiologie-humaine
 coverImage: ./images/quora.png
 ---
 

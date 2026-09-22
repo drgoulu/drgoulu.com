@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- energie
+- eau
 - energie-renouvelable
-- eau-de-pluie
-- sources-d-energie
-- calcul-de-capacite
-- reservoirs-d-eau
-- kilowatts-unite-d-energie
-- energie-hydroelectrique
-- gestion-de-l-energie
-- conversion-de-l-energie
+- gestion
+- calcul
 coverImage: ./images/quora.png
 ---
 

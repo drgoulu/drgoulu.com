@@ -8,15 +8,10 @@ categories:
 - Comment
 tags:
 - histoire
-- huns
-- assyrie
 - guerre
-- fortifications
-- villes-anciennes
-- guerres-et-histoire-militaire
-- histoire-du-monde
-- empire-assyrien
 - histoire-militaire
+- monde
+- empire-assyrien
 coverImage: ./images/quora.png
 ---
 

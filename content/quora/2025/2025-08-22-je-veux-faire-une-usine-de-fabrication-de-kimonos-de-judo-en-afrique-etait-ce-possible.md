@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - afrique
-- judo
 - fabrication
-- kimono-vetement
 - possibilites
 - industrie
-- textile
-- business-en-afrique
-- fabrication-de-vetements
-- industrie-textile
+- vetement
 coverImage: ./images/quora.png
 ---
 

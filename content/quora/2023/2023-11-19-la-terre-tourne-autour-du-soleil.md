@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - astronomie
-- l-univers
-- mouvement
-- rotation-de-la-terre
-- acceleration-physique
-- systeme-solaire
-- galaxies
+- univers
 - cosmologie
-- rotation-physique
+- terre
 coverImage: ./images/quora.png
 ---
 

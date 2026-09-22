@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - histoire
-- anthropologie
-- hominides
-- evolution-humaine
-- paleontologie
-- histoire-de-l-humanite
-- prehistoire
 - evolution
-- histoire-de-lhomme
-- paleoanthropologie
+- humanite
+- evolution-humaine
+- anthropologie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- droit
 - relations-internationales
-- bande-de-gaza
-- genocide
-- conflit-israelo-palestinien
-- droits-de-l-homme
-- expert-judiciaire
-- pays-occidentaux
 - politique-internationale
-- conflits-au-moyen-orient
-- droit-international-des-droits-de-l-homme
+- homme
+- conflits
 coverImage: ./images/quora.png
 ---
 

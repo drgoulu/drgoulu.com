@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- electrohypersensibilite
 - sciences
-- electromagnetisme
 - recherche-scientifique
-- medecine
-- recherche-medicale
+- sante
 - recherche
-- etude-scientifique
+- medecine
 coverImage: ./images/quora.png
 ---
 

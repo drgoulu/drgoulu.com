@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - internet
-- sources-fiables
 - createurs
-- encyclopedies
-- informations
-- libre-acces
-- credibilite-de-l-information
+- information
+- credibilite
 - wikipedia
-- acces-a-internet
-- l-encyclopedie
 coverImage: ./images/quora.png
 ---
 

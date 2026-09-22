@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- electromagnetisme
-- champ-gravitationnel
-- gravitation
-- forces-fondamentales
-- champ-electromagnetique
 - physique-theorique
-- forces-electromagnetiques
-- forces-gravitationnelles
+- gravitation
+- electromagnetisme
+- force-gravitationnelle
 coverImage: ./images/quora.png
 ---
 

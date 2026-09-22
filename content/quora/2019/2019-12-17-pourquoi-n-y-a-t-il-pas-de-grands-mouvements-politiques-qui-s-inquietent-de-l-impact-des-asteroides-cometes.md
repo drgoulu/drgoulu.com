@@ -8,14 +8,9 @@ categories:
 tags:
 - science-spatiale
 - catastrophes-naturelles
-- mouvements-sociaux
-- comete
-- peur-d-asteroides
-- extinction-humaine-via-la-frappe-d-asteroides
 - asteroides
-- risques-naturels
-- les-mouvements-politiques
 - collisions-d-asteroides
+- risques-naturels
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- question-philosophique
-- espace
 - astronomie
-- expansion-de-l-espace-temps
-- l-univers
-- distance
+- univers
 - cosmologie
-- univers-en-expansion
-- expansion-de-l-univers
+- espace
 coverImage: ./images/quora.png
 ---
 

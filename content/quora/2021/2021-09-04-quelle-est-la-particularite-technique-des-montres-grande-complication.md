@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - mecanique
-- montres
-- horlogerie-suisse
-- choses-compliquees
-- complication
-- montres-mecaniques
-- ecole-dhorlogerie
-- vocabulaire-technique
 - horlogerie
-- ingenierie-horlogere
+- horlogerie-suisse
+- montres
+- montre-mecanique
 coverImage: ./images/quora.png
 ---
 

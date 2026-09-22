@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - voyage-international
-- canada
-- sites-touristiques
 - tourisme-guide-touristique
-- bali-indonesie
-- voyageurs
 - touristes
-- destinations-de-voyage
-- lieux-a-visiter
-- destinations-touristiques
+- voyageurs
+- sites-touristiques
 coverImage: ./images/quora.png
 ---
 

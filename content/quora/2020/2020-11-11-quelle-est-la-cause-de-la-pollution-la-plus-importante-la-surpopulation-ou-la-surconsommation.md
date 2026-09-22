@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-environnement
-- consommation
+- environnement
+- societe
 - ecologie
 - developpement-durable
-- population
-- ressources-naturelles
-- pollution
-- societe-de-surconsommation
-- surpopulation
-- surconsommation
+- consommation
 coverImage: ./images/quora.png
 ---
 

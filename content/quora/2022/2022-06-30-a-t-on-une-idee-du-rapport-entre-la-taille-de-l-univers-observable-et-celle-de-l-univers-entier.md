@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - astronomie
-- l-univers
-- theories-physiques
-- cosmologie
-- univers-observable
 - astrophysique
-- univers-en-expansion
-- age-de-l-univers
-- bord-de-l-univers
-- cosmologie-physique
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

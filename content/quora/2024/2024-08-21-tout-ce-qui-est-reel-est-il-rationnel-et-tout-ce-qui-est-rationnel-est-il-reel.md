@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- raison
+- question-philosophique
 - realite
 - epistemologie
-- idealisme
-- question-philosophique
-- rationnalite
-- realisme
-- irrationalisme
-- rationalisme
+- raison
 coverImage: ./images/quora.png
 ---
 

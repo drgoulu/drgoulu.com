@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - droit
-- justice
-- criminalite
-- jumeaux
 - preuve
 - adn
+- justice
 - affaires
-- procedure-judiciaire
-- juridiction-criminelle
 coverImage: ./images/quora.png
 ---
 

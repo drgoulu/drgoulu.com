@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie
-- entropie-physique
-- evolution-processus
-- virus
-- biologie-humaine
-- virologie
-- infection
+- physique
 - evolution
-- evolution-biologie
-- entropie
+- biologie
+- processus
+- biologie-humaine
 coverImage: ./images/quora.png
 ---
 

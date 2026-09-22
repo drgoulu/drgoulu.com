@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- progres
-- malheur
 - question-philosophique
-- etre-malheureux
-- idees-philosophiques
-- progres-humain
-- le-malheur
 - philosophique
-- reflexions-philosophiques
+- idees-philosophiques
+- progres
 coverImage: ./images/quora.png
 ---
 

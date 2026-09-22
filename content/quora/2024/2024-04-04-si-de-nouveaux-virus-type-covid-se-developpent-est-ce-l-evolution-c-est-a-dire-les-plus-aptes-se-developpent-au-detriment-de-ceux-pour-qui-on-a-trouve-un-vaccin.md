@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante-publique
-- evolution-processus
-- vaccins
-- virologie
-- selection-naturelle
-- vaccin-covid-19
-- evolution-biologique-des-especes
-- vaccination
 - evolution
+- processus
+- sante-publique
+- evolution-biologique-des-especes
+- virologie
 coverImage: ./images/quora.png
 ---
 

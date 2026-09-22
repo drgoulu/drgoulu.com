@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- opinion-politique
+- politique
+- opinion
+- guerre
+- conflits
 - conflit-israelo-palestinien
-- hamas
-- mepris
-- crimes-de-guerre-et-criminels
-- bande-de-gaza
-- palestiniens
-- gazaisrael-conflict
-- conflits-au-moyen-orient
-- guerre-israelo-palestinien
 coverImage: ./images/quora.png
 ---
 

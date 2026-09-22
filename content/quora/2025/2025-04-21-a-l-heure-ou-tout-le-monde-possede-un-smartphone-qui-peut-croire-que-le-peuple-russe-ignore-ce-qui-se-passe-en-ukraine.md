@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - opinion-publique
+- information
 - russie
 - medias
-- smartphones
 - ukraine
-- information
-- communication-publique
-- les-smartphones
 coverImage: ./images/quora.png
 ---
 

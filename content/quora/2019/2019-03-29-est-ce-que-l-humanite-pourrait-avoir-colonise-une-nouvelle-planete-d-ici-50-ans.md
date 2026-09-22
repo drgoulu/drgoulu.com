@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- futur
-- science-fiction-genre
-- humanite
+- espace
 - exploration-spatiale
-- exoplanetes
-- colonisation-de-l-espace
-- ingenierie-et-technologie-spatiale
-- conquete-spatiale
+- humanite
+- ingenierie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- medias
 - changement-climatique
-- l-europe
-- ete
-- records-du-monde
-- temperatures
+- monde
+- rechauffement-climatique
 - climatologie
-- vague-de-chaleur
-- conditions-climatiques
-- le-rechauffement-climatique
+- temperatures
 coverImage: ./images/quora.png
 ---
 

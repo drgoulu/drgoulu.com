@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- religion
 - sciences
-- adam-et-eve-personnages-bibliques
-- creationnisme
-- evolution-humaine
-- primates
-- theorie-de-l-evolution
-- origines-humaines
 - evolution
-- biologie-evolutive-humaine
+- theorie
+- religion
+- evolution-humaine
 coverImage: ./images/quora.png
 ---
 

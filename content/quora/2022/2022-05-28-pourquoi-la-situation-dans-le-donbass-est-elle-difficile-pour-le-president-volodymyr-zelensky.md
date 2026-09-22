@@ -9,11 +9,7 @@ tags:
 - politique
 - ukraine
 - volodymyr-zelenskyi-homme-politique-ukrainien
-- russie-pays
 - operation-militaire-russe-en-ukraine
-- conflit-militaire
-- donbass
-- presidence
 - conflits-internationaux
 coverImage: ./images/quora.png
 ---

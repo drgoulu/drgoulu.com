@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- le-soleil
 - sciences
+- terre
+- planetes
 - espace
-- terre-planete
-- chaleur
-- energie-solaire
-- temperatures
-- physique-solaire
-- radiation-solaire
 coverImage: ./images/qimg-f1484309c68d335566ef5d223364ee75.jpg
 ---
 

@@ -7,14 +7,11 @@ categories:
 - Comment
 - Combien
 tags:
+- physique
 - sciences
+- univers
 - cosmologie
-- modele-standard-de-la-physique-des-particules
 - matiere
-- l-univers
-- quarks
-- univers-observable
-- physique-de-la-matiere
 coverImage: ./images/quora.png
 ---
 

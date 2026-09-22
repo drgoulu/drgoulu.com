@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
 - opinion
 - albert-einstein-physicien
-- personne-moyenne
-- l-intelligence
 - opinion-personnelle
-- intelligence-humaine
-- philosophie-des-sciences
-- opinions
 coverImage: ./images/quora.png
 ---
 

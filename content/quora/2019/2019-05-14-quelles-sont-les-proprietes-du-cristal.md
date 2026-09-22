@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- cristaux
-- science-des-materiaux-et-ingenierie
-- proprietes
-- mineraux
+- sciences
 - chimie
-- caracteristiques-physiques
-- cristallographie
-- la-science-des-materiaux
-- proprietes-physiques
+- materiaux
+- ingenierie
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- systeme-d-etoiles-binaires
-- orbites
-- collision-physique
+- astrophysique
+- gravitation
 - etoiles
 - evolution-stellaire
-- gravitation
-- astrophysique
-- physique-stellaire
-- astronomie-et-astrophysique
 coverImage: ./images/qimg-973e941e4bb6641cc5a0fb0e9ef155df.jpg
 ---
 

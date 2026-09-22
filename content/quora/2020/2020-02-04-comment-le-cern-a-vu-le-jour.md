@@ -6,13 +6,10 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
+- sciences
+- histoire
 - recherche-scientifique
-- l-europe
-- organisation
-- histoire-des-sciences
-- cern-organisation
-- organisation-internationale
-- histoire-de-la-physique
 - etude-scientifique
 coverImage: ./images/quora.png
 ---

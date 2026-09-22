@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - exploration-spatiale
-- union-sovietique
-- apollo-11
-- alunissage
-- le-programme-apollo
-- space-race
-- programmes-spatiaux
-- conquete-spatiale
 - missions-spatiales
-- histoire-de-l-union-sovietique
+- conquete-spatiale
+- programme-apollo
 coverImage: ./images/qimg-d91c6daf8b25b8e88f28b397149f62e7.jpg
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- le-soleil
-- la-fin-du-monde
-- l-univers
-- etoiles-corps-celestes
-- supernova
-- cosmologie
 - astrophysique
-- origine-de-l-univers
-- expansion-de-l-univers
+- univers
+- cosmologie
+- origines
 coverImage: ./images/qimg-d8d41a6809665ede80fa4e8da665b6b5.png
 ---
 

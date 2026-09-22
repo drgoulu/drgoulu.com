@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sciences
+- technologies
 - vitesse
-- creation-humaine
-- objet
-- science-et-technologie
 - ingenierie
-- science-physique
-- vitesse-physique
-- vitesse-maximum
 coverImage: ./images/quora.png
 ---
 

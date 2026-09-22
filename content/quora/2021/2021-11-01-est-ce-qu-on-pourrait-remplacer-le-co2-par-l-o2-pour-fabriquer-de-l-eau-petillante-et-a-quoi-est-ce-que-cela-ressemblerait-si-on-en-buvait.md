@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- experience
-- co2
 - chimie
-- boissons
-- eau-minerale
-- oxygene
-- reactions-chimiques
+- experience
 - science-experimentale
 - composition-chimique
-- substance-chimique
+- oxygene
 coverImage: ./images/quora.png
 ---
 

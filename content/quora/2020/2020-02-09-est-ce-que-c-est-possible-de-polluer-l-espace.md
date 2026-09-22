@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- espace
-- l-environnement
-- contamination
 - astrophysique
-- pollution-environnementale
 - environnement
-- pollution
-- la-pollution
+- espace
 coverImage: ./images/qimg-a03464acb5648386f86ed5c222497be1.jpg
 ---
 

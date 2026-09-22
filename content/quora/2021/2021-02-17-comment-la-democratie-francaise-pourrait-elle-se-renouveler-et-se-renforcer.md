@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - france
-- systeme-de-gouvernement
-- politique-francaise
-- renforcement-positif
-- reforme
-- renouvellement
+- systeme
 - democratie
-- sciences-politques
-- vie-politique-francaise
-- democratie-en-france
+- gouvernement
+- politique-francaise
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- consommation
 - argent
 - jeux-video
-- consommation
+- joueurs
 - microtransaction
-- fortnite-skins-jeu-video
-- gamers-jeu-video
-- jeux-en-ligne
-- jeux-video-gratuits
-- joueurs-de-jeux-video
-- fortnite-jeu-video
 coverImage: ./images/quora.png
 ---
 

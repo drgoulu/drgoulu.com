@@ -8,13 +8,9 @@ categories:
 tags:
 - droit
 - propriete-intellectuelle
-- licence-creative-commons
-- droit-de-l-entreprise
+- entreprises
 - droit-civil
 - licence
-- licence-libre
-- licences
-- droits
 coverImage: ./images/quora.png
 ---
 

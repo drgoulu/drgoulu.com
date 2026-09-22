@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- spectre-visible
-- theorie-de-l-electromagnetisme
-- lumiere-physique
-- optique
-- analyse-spectrale
-- champs-electromagnetiques
-- spectre-electromagnetique
+- theorie
+- lumiere
+- electromagnetisme
 coverImage: ./images/qimg-899e519e5995d87a7e4f3d6e45f2e82f.gif
 ---
 

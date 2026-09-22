@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
 - astronomie
-- etoiles-corps-celestes
-- distance
-- lumiere-physique
-- l-univers-astronomie
+- univers
+- lumiere
 - galaxies
-- etoiles
-- galaxies-astronomie
-- etoiles-astronomie
 coverImage: ./images/qimg-f9bc312e4d114e9e32a62714c36580aa.png
 ---
 

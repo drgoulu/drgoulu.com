@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- voyager-1-sonde-spatiale
-- exploration-spatiale
-- systeme-solaire
 - astrophysique
-- galaxies
-- voyage-dans-l-espace
-- sonde-spatiale
-- missions-spatiales
-- le-systeme-solaire
+- espace
+- systeme-solaire
+- exploration-spatiale
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - philosophie
 - question-existentielle
-- la-vie
+- vie
 - definition
 - biologie
-- notion-de-vie
-- comprendre-la-vie
-- la-vie-philosophie
-- philosophie-de-la-vie
-- questions-existentielles
 coverImage: ./images/quora.png
 ---
 

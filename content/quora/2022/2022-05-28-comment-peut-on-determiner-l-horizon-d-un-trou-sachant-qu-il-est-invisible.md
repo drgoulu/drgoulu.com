@@ -7,13 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- trous-noirs
 - astronomie
-- horizon-des-evenements
-- determination
-- objets-astronomiques
-- cosmologie-physique
 - astrophysique
+- cosmologie
+- trous-noirs
 coverImage: ./images/quora.png
 ---
 

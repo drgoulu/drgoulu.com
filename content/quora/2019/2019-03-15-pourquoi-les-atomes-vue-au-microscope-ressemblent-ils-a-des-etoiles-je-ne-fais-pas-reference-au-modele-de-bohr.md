@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- modele-de-bohr
-- microscopie-electronique
-- recherche-atomique
 - atomes
-- la-physique-atomique
+- physique-atomique
 - structure-atomique
-- microscopie
-- microscopie-optique
 coverImage: ./images/qimg-54a021272b393be1d73cf3fac9afc834.jpg
 ---
 

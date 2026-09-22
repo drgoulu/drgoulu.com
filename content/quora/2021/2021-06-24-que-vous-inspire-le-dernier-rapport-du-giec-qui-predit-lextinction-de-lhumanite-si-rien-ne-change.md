@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- societe
-- l-extinction-humaine
-- changement-climatique
-- rapports-annuels
 - environnement
-- les-scientifiques-du-climat
-- avenir-de-l-humanite
-- catastrophe-climatique
+- changement-climatique
+- societe
+- humanite
+- climats
 coverImage: ./images/quora.png
 ---
 

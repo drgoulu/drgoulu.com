@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - comportement-humain
-- milieu-rural
-- pollution-urbaine
 - environnement
 - sante-humaine
 - vie-urbaine
 - sante-environnementale
-- milieu-urbain
 coverImage: ./images/quora.png
 ---
 

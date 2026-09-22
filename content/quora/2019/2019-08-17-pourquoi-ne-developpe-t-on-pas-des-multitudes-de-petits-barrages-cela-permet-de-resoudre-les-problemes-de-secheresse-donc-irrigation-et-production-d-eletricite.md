@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- l-environnement
-- barrages
-- energie-hydroelectrique
+- environnement
+- eau
 - developpement-durable
 - ressources-naturelles
-- irrigation
-- secheresse
-- gestion-des-ressources-en-eau
-- environnement-et-developpement-durable
+- gestion
 coverImage: ./images/quora.png
 ---
 

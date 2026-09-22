@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- exploration-spatiale
-- humour
 - espace
-- astronautes
-- le-programme-apollo
-- voyage-dans-l-espace
-- humour-francais
-- astronautique
+- exploration-spatiale
+- voyage
 - missions-spatiales
-- missions-apollo
+- humour
 coverImage: ./images/quora.png
 ---
 

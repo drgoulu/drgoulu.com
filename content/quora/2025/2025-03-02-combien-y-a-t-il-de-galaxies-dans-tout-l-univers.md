@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- l-univers
-- cosmos
-- cosmologie
-- galaxies
 - astrophysique
-- le-cosmos
-- les-galaxies
-- l-univers-astronomie
+- univers
+- cosmologie
 coverImage: ./images/qimg-73e1199f8987de7e3004714afe2023af.jpg
 ---
 

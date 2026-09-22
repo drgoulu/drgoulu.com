@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - philosophie
-- perception-de-la-vie
-- definition
-- vie-biologique
 - biologie
-- sciences-de-la-vie
-- definitions-des-termes
-- philosophie-et-science
-- philosophie-des-sciences
-- notion-de-vie
+- vie
+- perception
 coverImage: ./images/quora.png
 ---
 

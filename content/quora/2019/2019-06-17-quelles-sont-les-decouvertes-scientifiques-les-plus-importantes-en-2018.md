@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - sciences
-- '2018'
 - recherche-scientifique
-- articles-scientifiques
-- progres-scientifique
-- evenements-scientifiques
 - decouvertes-scientifiques
-- actualite-scientifique
+- progres-scientifique
 - publications-scientifiques
 coverImage: ./images/quora.png
 ---

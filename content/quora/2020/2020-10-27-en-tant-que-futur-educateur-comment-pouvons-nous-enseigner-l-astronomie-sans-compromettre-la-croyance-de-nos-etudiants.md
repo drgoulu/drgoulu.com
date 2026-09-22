@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- education
-- croyance
+- sciences
 - astronomie
-- opinions-et-croyances
-- methodes-pedagogiques
-- science-et-religion
-- etudiants
-- enseignement
-- educateurs
-- enseignement-des-sciences
+- religion
+- opinion
+- croyance
 coverImage: ./images/quora.png
 ---
 

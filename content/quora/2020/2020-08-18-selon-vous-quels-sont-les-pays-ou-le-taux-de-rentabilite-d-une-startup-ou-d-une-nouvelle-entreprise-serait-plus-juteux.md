@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- investissement
+- economie
+- entreprises
 - pays
-- entrepreneuriat
 - economie-mondiale
-- croissance-economique
-- start-up
-- economie-d-entreprise
-- entrepreneuriat-et-business
+- entrepreneuriat
 coverImage: ./images/quora.png
 ---
 

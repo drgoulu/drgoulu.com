@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- activite
-- le-loto
+- theorie
 - statistiques
-- jeux-de-hasard
-- theorie-des-probabilites
-- strategies-de-jeu
-- loterie
+- jeux
 - probabilite-statistiques
-- jeux-de-chance
-- probabilites-statistiques
+- probabilite
 coverImage: ./images/quora.png
 ---
 

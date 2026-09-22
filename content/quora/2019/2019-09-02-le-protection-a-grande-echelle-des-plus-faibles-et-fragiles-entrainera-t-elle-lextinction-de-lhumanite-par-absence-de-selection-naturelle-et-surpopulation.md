@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - philosophie
-- extinction-des-especes
-- surpopulation
-- avenir-de-l-humanite
-- selection-naturelle
-- biologie-humaine
 - evolution
 - biologie
-- l-extinction-humaine
+- humanite
 - evolution-humaine
 coverImage: ./images/quora.png
 ---

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- geopolitique
-- iran
 - energie
-- le-moyen-orient
-- ressources-minerales
-- gaz-naturel
-- petrole
-- sources-d-energie
+- economie
 - energie-nucleaire
-- economie-de-l-energie
+- sources-d-energie
+- geopolitique
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
+- philosophie
 - mathematiques
-- univers-infini
-- concepts-majeurs-en-physique
-- infinite
-- infini-mathematiques
-- philosophie-de-la-physique
-- concepts-mathematiques
-- savoir-infini
-- philosophie-des-mathematiques
+- concepts
+- infini
 coverImage: ./images/quora.png
 ---
 

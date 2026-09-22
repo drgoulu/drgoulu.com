@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- russie
+- droit
 - relations-internationales
-- nazisme
-- nations-unies
-- intervention
-- droit-international-des-droits-de-l-homme
-- histoire-des-nations-unies
 - politique-internationale
+- russie
 coverImage: ./images/quora.png
 ---
 

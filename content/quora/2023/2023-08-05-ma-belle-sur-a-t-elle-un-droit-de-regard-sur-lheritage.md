@@ -8,13 +8,8 @@ categories:
 tags:
 - famille
 - droit-civil
-- belle-sur
 - heritage
-- droit-des-successions-et-testaments
-- la-famille
 - droit-des-successions
-- droit-civil-tradition-juridique
-- droit-civil-droit
 - droit-de-succession
 coverImage: ./images/quora.png
 ---

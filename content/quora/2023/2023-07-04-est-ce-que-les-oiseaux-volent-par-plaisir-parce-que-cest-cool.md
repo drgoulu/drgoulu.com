@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- motivation
-- biologie-animale
-- loisirs
-- vol
 - nature
+- biologie-animale
 - comportement-animal
-- oiseaux
-- plaisir
+- comportement
 - science-nature
-- comportement-des-oiseaux
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- l-environnement
-- philosophie-politique
-- inegalites-sociales
+- philosophie
+- politique
+- environnement
+- sociologie
 - developpement-durable
-- capitalisme
-- systeme-economique
-- critique-sociale
-- inegalites-de-revenu
-- sociologie-politique
-- anti-capitalisme
 coverImage: ./images/qimg-c5a562a4a104b1448c1df1e41668f76b.png
 ---
 

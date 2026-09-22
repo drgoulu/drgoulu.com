@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- telescope-spatial-hubble
 - astronomie
+- terre
+- planetes
 - espace
-- resolutions
-- terre-planete
-- observation
-- technologie-spaciale
-- observatoires-spatiaux
 coverImage: ./images/qimg-279847627fa32b7fc6703c6934c9f702.jpg
 ---
 

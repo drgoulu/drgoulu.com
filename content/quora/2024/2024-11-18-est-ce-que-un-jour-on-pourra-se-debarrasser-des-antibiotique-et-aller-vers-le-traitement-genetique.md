@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- modifications-genetiques
 - recherche-scientifique
-- antibiotiques
-- biotechnologie
+- sante
 - genetique
-- therapie-genique
 - recherche-medicale
-- genie-genetique
+- biotechnologie
 coverImage: ./images/quora.png
 ---
 

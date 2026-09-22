@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - astronomie
-- espace
-- le-vide-quantique
-- phenomenes-physiques
-- enigmes-de-l-univers
-- cosmologie
-- science-de-la-nature
 - astrophysique
-- exploration-de-l-univers
-- phenomenes
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- libre-arbitre
-- controle
+- psychologie
 - conscience
-- determinisme
-- condition-humaine
-- responsabilite
 - nature-humaine
-- philosophie-et-psychologie
-- la-nature-humaine
+- responsabilite
 coverImage: ./images/quora.png
 ---
 

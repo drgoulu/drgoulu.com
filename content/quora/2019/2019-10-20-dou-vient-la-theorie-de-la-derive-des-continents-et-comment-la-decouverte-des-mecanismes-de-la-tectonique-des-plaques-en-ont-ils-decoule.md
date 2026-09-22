@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- histoire-des-sciences
+- sciences
+- histoire
+- terre
+- recherche-scientifique
 - geologie
-- decouvertes
-- derive-des-continents
-- tectoniques-des-plaques
-- science-de-la-terre
-- recherches-scientifiques
-- histoire-des-decouvertes
-- geologie-historique
-- histoire-de-la-science
 coverImage: ./images/quora.png
 ---
 

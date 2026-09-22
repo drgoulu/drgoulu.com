@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
-- etoiles-astronomie
 - astronomie
-- annihilation-physique
-- masse-physique
-- astrophysique-relativiste
-- densite-physique
 - astrophysique
+- trous-noirs
+- etoiles
 coverImage: ./images/quora.png
 ---
 

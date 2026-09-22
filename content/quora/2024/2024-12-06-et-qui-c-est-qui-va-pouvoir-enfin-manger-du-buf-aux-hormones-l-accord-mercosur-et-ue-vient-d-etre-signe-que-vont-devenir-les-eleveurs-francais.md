@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - consequences-economiques
-- hormones
 - politique-europeenne
-- buf
 - agriculteurs
 - mercosur-accord-de-commerce
 - elevage-bovin
-- accords-commerciaux
-- eleveurs
-- elevage
 coverImage: ./images/quora.png
 ---
 

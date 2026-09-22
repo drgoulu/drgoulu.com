@@ -8,13 +8,8 @@ categories:
 tags:
 - astronomie
 - espace
-- lois-de-kepler
-- iss
-- altitude
-- station-spatiale-internationale
-- astronautes
 - science-spatiale
-- lune-astronomie
+- lune
 - astronautique
 coverImage: ./images/qimg-4df50ad10de1c7c9b6a608d477aae846.jpg
 ---

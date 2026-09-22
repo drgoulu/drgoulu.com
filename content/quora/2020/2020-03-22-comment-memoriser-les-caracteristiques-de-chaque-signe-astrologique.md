@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- technique
 - memoire
-- signes-du-soleil-astrologie
-- caracteristiques-et-traits-de-personnalite
 - horoscopes-astrologie
+- signes-du-soleil-astrologie
 - signes-du-zodiaque
-- techniques-de-memoire
-- astrologie-occidentale
-- astrologie-solaire
 coverImage: ./images/quora.png
 ---
 

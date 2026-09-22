@@ -7,10 +7,7 @@ categories:
 - Quora
 tags:
 - physique
-- muon
-- positrons
 - tachyons
-- boson
 - electrons
 - protons
 - neutrons

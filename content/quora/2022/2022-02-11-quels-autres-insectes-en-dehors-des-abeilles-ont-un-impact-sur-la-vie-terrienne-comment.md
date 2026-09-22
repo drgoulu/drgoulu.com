@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- terre
+- vie
 - ecologie
-- vie-sur-terre
-- pollinisateurs
-- impact-environnemental
 - biodiversite
-- vie-animale
-- ecologie-des-populations
-- impacts-environnementaux
+- impact-environnemental
 coverImage: ./images/quora.png
 ---
 

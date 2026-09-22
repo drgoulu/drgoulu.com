@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sciences
-- la-nuit-wiesel
-- futur
 - astronomie
-- visibilite
+- lumiere
 - etoiles-corps-celestes
-- lumiere-physique
-- nuit
-- astronomy
-- sciences-technologies
 coverImage: ./images/quora.png
 ---
 

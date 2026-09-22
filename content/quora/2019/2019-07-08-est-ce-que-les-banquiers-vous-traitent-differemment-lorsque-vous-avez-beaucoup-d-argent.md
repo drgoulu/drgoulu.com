@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- finance
-- argent
 - societe
-- traitement-special
 - inegalite
-- banquiers
-- client
-- service
-- banques
+- argent
+- finance
 - inegalites-sociales
 coverImage: ./images/quora.png
 ---

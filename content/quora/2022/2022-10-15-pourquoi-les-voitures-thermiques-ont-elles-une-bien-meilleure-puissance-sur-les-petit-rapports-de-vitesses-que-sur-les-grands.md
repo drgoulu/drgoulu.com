@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- moteur-a-combustion-interne
+- puissance
+- moteur
+- essence
 - technique-automobile
-- transmission-mecanique
-- puissance-physique
-- systeme-moteur
-- moteurs-thermiques
-- moteur-a-essence
-- ingenierie-automobile
-- mecanique-automobile
 coverImage: ./images/quora.png
 ---
 

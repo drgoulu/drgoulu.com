@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- corps-celestes
-- espace
-- nebuleuse
-- objets-astronomiques
 - astrophysique
-- astronomie-d-observation
-- astronomy
-- univers-et-nebuleuse
+- univers
+- espace
 coverImage: ./images/quora.png
 ---
 

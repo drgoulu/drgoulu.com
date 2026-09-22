@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - astronomie
-- le-soleil
-- comprehension
-- isaac-newton
-- marees
-- histoire-des-sciences
-- lune-astronomie
-- sciences-de-la-mer
-- histoire-de-la-physique
-- histoire-des-decouvertes
+- histoire
+- soleil
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- psychologie
-- argent
-- humanite-attribut
-- principes-fondamentaux
-- comportement-humain
-- ethique-philosophie-morale
 - philosophie
-- moralite
-- l-ethique
 - humanite
+- psychologie
+- ethique
+- comportement-humain
 coverImage: ./images/quora.png
 ---
 

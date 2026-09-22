@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- institut-d-optique
-- vitesse-de-la-lumiere
-- science-math
-- optique
-- science-physique
-- mesures-physiques
-- physique-chimie
-- la-physique
-- physiques
+- sciences
+- chimie
+- lumiere
+- vitesse
 coverImage: ./images/quora.png
 ---
 

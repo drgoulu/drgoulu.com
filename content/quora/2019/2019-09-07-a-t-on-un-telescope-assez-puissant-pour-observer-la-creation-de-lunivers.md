@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- l-univers
-- les-telescopes
-- cosmologie
 - astrophysique
-- origine-de-l-univers
-- observation-des-astres
-- expansion-de-l-univers
-- la-creation-de-l-univers
+- univers
+- cosmologie
+- origines
 coverImage: ./images/quora.png
 ---
 

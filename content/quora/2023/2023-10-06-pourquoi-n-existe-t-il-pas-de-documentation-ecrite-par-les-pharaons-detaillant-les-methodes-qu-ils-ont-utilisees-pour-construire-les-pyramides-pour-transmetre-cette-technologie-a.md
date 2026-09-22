@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- partage-des-connaissances
-- l-histoire-de-l-egypte-ancienne
-- pharaons
-- batiment-et-constructeurs-de-pyramides
-- technologie-ancienne
-- transmission-de-pensee
-- pyramides-d-egypte
-- architecture-de-l-egypte-ancienne
-- ingenierie-ancienne
+- histoire
+- architecture
+- connaissances
+- egypte-ancienne
+- egypte
 coverImage: ./images/quora.png
 ---
 

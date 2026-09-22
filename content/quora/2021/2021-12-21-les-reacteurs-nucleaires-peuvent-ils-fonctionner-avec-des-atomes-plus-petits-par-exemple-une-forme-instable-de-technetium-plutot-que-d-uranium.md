@@ -8,12 +8,9 @@ categories:
 tags:
 - sciences
 - energie-nucleaire
-- uranium
 - atomes
-- isotopes
-- reactions-nucleaires
-- reacteurs-nucleaires
 - chimie-nucleaire
+- uranium
 coverImage: ./images/quora.png
 ---
 

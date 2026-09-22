@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- le-soleil
-- etoiles-corps-celestes
 - astronomie
-- reactions-nucleaires
-- nuclear-fusion
 - astrophysique
-- le-soleil-astronomie
-- etoiles-astronomie
+- soleil
+- etoiles-corps-celestes
 coverImage: ./images/quora.png
 ---
 

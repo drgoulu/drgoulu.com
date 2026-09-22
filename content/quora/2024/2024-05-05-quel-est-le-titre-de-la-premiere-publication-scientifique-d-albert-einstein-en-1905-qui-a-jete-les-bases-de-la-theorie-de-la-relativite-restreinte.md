@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- albert-einstein
-- histoire-des-sciences
-- relativite-restreinte
-- publications-scientifiques
-- theorie-de-la-relativite
-- albert-einstein-physicien
+- sciences
+- histoire
+- theorie
 - physique-theorique
-- relativite-physique
-- histoire-de-la-physique
 coverImage: ./images/quora.png
 ---
 

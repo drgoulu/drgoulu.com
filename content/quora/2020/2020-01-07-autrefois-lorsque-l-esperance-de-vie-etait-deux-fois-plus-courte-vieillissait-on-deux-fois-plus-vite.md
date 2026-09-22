@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - histoire
-- vieillissement
-- biologie-humaine
+- philosophie
+- vie
 - temps
-- esperance-de-vie
-- demographie
-- sciences-de-la-vie
-- l-histoire
-- philosophie-de-la-vie
-- demographie-humaine
 coverImage: ./images/quora.png
 ---
 

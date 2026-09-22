@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- environnement
 - france
-- consequences-de-la-disparition-des-abeilles
 - ecologie
-- abeilles
-- apiculture
-- l-environnement
 - biodiversite
-- disparition-des-abeilles
+- disparition
 coverImage: ./images/quora.png
 ---
 

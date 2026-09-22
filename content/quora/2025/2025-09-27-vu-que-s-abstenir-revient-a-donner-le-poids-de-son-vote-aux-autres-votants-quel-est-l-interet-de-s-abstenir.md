@@ -8,13 +8,8 @@ categories:
 tags:
 - elections
 - democratie
-- abstentionnisme
 - vote
-- strategies-politiques
-- systemes-de-vote
-- abstention
-- vote-strategique
-- electorat
+- systeme
 - systemes-electoraux
 coverImage: ./images/quora.png
 ---

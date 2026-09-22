@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie-animale
-- dauphins
-- intelligence-humaine
 - especes
-- ethologie
-- grand-dauphin-animal
-- intelligence-animale
+- biologie-animale
+- comparaisons
 - espece-humaine
-- comparaison-d-intelligence
-- psychologie-animale
+- intelligence-humaine
 coverImage: ./images/quora.png
 ---
 

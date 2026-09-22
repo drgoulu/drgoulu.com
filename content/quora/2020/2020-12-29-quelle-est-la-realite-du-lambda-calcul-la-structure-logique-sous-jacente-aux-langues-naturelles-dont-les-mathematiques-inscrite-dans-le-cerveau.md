@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
+- langage
+- logique
 - cerveau
-- cognition
 - linguistique
-- le-lambda-calcul
-- la-logique
-- informatique-theorique
-- langage-naturel
-- structure-du-langage
-- fonctions-logiques
 coverImage: ./images/quora.png
 ---
 

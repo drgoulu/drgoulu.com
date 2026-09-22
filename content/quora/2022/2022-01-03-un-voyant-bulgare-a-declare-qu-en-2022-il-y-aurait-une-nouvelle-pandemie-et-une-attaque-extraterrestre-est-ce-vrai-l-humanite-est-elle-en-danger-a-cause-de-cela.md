@@ -8,14 +8,9 @@ categories:
 tags:
 - pandemie
 - predictions
-- danger
+- dangers
 - humanite
-- voyance
 - extraterrestres
-- '2022'
-- bulgarie
-- voyants
-- predictions-generales
 coverImage: ./images/quora.png
 ---
 

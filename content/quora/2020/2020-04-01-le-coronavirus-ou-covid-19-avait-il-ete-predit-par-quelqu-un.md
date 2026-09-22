@@ -9,13 +9,8 @@ tags:
 - sante-publique
 - covid-19-2019-2020
 - theories-du-complot
-- predictions
-- pandemie
 - virus
-- epidemiologie
-- prevoyance
-- premonition
-- theories-du-complot-specifiques
+- pandemie
 coverImage: ./images/quora.png
 ---
 

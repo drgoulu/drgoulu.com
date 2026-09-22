@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- securite
 - aviation
-- situations-d-urgence
-- dommages
-- systeme-moteur
-- atterrissage
-- pilote-d-helicoptere
-- securite-aerienne
+- moteur
+- transport-aerien
 - helicopteres
-- panne-de-moteur
-- securite-du-transport-aerien
 coverImage: ./images/quora.png
 ---
 

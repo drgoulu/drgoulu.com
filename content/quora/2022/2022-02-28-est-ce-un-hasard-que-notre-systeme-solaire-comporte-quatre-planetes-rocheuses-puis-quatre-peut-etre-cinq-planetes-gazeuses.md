@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- hasard
-- planetes-specifiques-du-systeme-solaire
+- astrophysique
+- planetes
 - systeme-solaire
 - science-spatiale
-- astrophysique
-- planetes-astronomie
-- planetes-du-systeme-solaire
 coverImage: ./images/quora.png
 ---
 

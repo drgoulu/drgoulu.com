@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- energie
 - france
 - energie-nucleaire
-- consommation-d-energie
-- centrales-electriques
+- consommation
 - sources-d-energie
-- energie
-- centrales-nucleaires
-- industrie-nucleaire
 coverImage: ./images/qimg-2578e4534c850ec98d4b5c6f49871bc8.png
 ---
 

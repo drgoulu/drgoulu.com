@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
+- sciences
+- environnement
 - changement-climatique
-- jet-stream
-- hemisphere-nord
-- climatologie
-- sciences-de-l-atmosphere
-- modeles-climatiques
-- physique-de-l-atmosphere
-- le-changement-climatique
-- science-de-l-environnement
-- sciences-du-climat
+- atmosphere
 coverImage: ./images/quora.png
 ---
 

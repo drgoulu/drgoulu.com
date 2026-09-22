@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-du-monde
-- evolution-processus
-- terre-planete
-- sciences-de-la-vie
-- histoire-des-sciences
-- organismes-vivants
-- evolution-biologie
-- origine-de-la-vie
-- histoire-de-la-terre
-- histoire-de-la-biologie
+- sciences
+- histoire
+- evolution
+- biologie
+- terre
 coverImage: ./images/quora.png
 ---
 

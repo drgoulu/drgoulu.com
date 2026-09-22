@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- medecine
 - sciences
-- corps-humains
-- cryogenisation
 - biologie
-- mortalite
+- medecine
 - biologie-humaine
-- le-corps-humain
+- corps-humains
 coverImage: ./images/quora.png
 ---
 

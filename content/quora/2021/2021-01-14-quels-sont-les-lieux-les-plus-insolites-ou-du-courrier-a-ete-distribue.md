@@ -8,12 +8,7 @@ categories:
 tags:
 - curiosite
 - service
-- faits-etonnants
-- livraison-de-courrier
 - lieux-interessants
-- service-postal-americain
-- histoire-postale
-- le-service-postal
 - courrier-postal
 - lieux-insolites
 coverImage: ./images/quora.png

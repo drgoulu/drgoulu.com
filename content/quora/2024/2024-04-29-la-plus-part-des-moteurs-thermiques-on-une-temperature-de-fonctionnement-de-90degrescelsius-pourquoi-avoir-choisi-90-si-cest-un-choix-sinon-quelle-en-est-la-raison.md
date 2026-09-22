@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- science-et-technologie
+- sciences
+- technologies
+- mecanique
 - temperatures
 - thermodynamique
-- mode-de-fonctionnement
-- mecanique
-- ingenierie-automobile
-- moteurs-thermiques
-- echange-thermique
-- ingenieurs-en-mecanique
-- mesures-de-temperature
 coverImage: ./images/quora.png
 ---
 

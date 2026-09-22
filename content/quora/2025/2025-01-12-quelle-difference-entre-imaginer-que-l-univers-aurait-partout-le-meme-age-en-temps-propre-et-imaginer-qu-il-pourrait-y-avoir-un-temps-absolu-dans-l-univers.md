@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - astronomie
-- espace-temps
-- age-de-l-univers
-- relativite-generale
-- theorie-cosmologique
-- cosmologie
 - astrophysique
-- espace-et-temps
-- relativite-physique
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

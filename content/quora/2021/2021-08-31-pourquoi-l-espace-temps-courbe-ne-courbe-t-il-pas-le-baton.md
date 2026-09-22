@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- baton
+- theorie
+- relativite
 - espace
-- courbure-de-l-espace
-- relativite-generale
 - gravitation
-- dimension-espace-temps
-- theorie-de-la-relativite
-- relativite-physique
-- espace-temps
 coverImage: ./images/quora.png
 ---
 

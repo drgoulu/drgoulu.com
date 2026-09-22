@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - recherche-scientifique
-- personne-reelle
-- controverses
-- ostracisme
 - scientifiques
+- controverses
+- personne-reelle
 - communaute-scientifique
-- opinion-controversee
-- culture-scientifique
 coverImage: ./images/quora.png
 ---
 

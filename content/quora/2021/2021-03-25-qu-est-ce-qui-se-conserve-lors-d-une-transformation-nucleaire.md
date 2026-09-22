@@ -10,11 +10,7 @@ tags:
 - energie-nucleaire
 - physique-quantique
 - radioactivite
-- la-physique-nucleaire
-- fission-nucleaire
-- reactions-nucleaires
 - sciences-nucleaires
-- chimie-nucleaire
 coverImage: ./images/quora.png
 ---
 

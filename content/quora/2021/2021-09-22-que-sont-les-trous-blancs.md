@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- espace
 - astronomie
-- trous-blancs
-- cosmologie
-- astrophysique-relativiste
-- physique-theorique
 - astrophysique
-- astronomie-et-astrophysique
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

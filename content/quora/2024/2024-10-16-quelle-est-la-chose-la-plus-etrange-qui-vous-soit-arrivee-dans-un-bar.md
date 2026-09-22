@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-sondage
-- experiences
-- bars
-- moment-etrange
-- vie-nocturne
-- experience-personnelle
-- anecdotes
+- experience
+- experiences-personnelles
 - experience-humaine
-- experiences-etranges
-- faits-etranges
+- question-sondage
+- anecdotes
 coverImage: ./images/quora.png
 ---
 

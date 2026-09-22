@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - philosophie
-- neant
-- question-existentielle
+- univers
+- monde
+- origines
 - creation
-- metaphysique
-- origine-de-l-univers
-- existence
-- atheisme
-- question-philosophique
-- origine-du-monde
 coverImage: ./images/quora.png
 ---
 

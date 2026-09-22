@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- culture-populaire
+- histoire
 - musique
+- culture-populaire
+- groupes
 - succes
-- the-beatles-groupe
-- groupes-de-rock
-- influence-culturelle
-- histoire-de-la-musique-rock
-- musique-rock
-- groupes-de-musique
-- histoire-de-la-musique
 coverImage: ./images/quora.png
 ---
 

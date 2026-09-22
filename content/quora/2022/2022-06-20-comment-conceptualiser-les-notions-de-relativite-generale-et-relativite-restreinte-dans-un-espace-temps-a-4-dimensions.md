@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- temps-relativite-restreinte
-- espace-temps
-- geometrie
-- relativite-generale
-- dimensions-physique
-- theorie-de-la-relativite
+- theorie
 - physique-theorique
-- relativite-restreinte
-- relativite-physique
+- relativite
+- geometrie
 coverImage: ./images/quora.png
 ---
 

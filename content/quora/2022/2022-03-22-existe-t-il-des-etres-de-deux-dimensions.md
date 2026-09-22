@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espace
-- univers-discontinu
-- multidimension
-- l-univers
+- univers
 - theorie
-- dimensions-physique
-- univers-observable
 - physique-theorique
-- univers-infini
+- espace
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - mathematiques
-- algebre
+- theorie
 - nombres
-- theorie-des-nombres
-- nombres-reels
-- nombres-complexes
-- sciences-mathematiques
-- mathematiques-et-physique
-- mathematiques-et-sciences
 coverImage: ./images/quora.png
 ---
 

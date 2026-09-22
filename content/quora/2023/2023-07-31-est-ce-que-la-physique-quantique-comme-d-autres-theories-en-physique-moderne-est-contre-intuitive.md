@@ -6,13 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - philosophie
-- contre-intuitif
-- concepts-en-physique
 - physique-quantique
-- science-moderne
-- philosophie-des-sciences
-- physique-moderne
 - theories-physiques
 coverImage: ./images/quora.png
 ---

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- question-existentielle
-- sciences
-- creation
 - physique
+- sciences
+- philosophie
 - cosmologie
-- science-de-la-matiere
-- question-hypothetique
 - physique-theorique
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

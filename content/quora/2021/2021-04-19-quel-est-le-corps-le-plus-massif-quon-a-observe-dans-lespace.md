@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- corps-celestes
-- espace
-- l-univers
-- masse-physique
-- cosmologie
 - astrophysique
-- mecanique-celeste
-- l-univers-astronomie
+- univers
+- cosmologie
+- espace
 coverImage: ./images/quora.png
 ---
 

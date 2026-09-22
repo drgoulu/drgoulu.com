@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- science-fiction-genre
+- temps
+- voyage
 - question-hypothetique
-- contexte
-- voyage-dans-le-temps
-- epoque
-- evenements-historiques
-- hypotheses
-- periode-historique
-- eres-historiques
+- science-fiction-genre
 coverImage: ./images/quora.png
 ---
 

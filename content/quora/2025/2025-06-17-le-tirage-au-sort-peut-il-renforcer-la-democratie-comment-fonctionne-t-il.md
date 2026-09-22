@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- politique
+- systeme
 - democratie
-- tirage-au-sort
-- mode-de-fonctionnement
-- prise-de-decision
-- participation-du-public
-- systeme-d-election
-- decisions-politiques
-- democratie-representative
-- democratie-participative
-- choix-politique
+- elections
+- choix
 coverImage: ./images/quora.png
 ---
 

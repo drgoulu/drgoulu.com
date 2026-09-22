@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- jours-de-la-semaine-modernes
-- probabilite-statistiques
-- les-jours
-- cosmologie-du-big-bang
-- origine-de-l-univers
-- cosmologie
 - astrophysique
-- probabilite
+- univers
+- cosmologie
 coverImage: ./images/qimg-17d58cdad7228cb64187652e4fc62ff3.jpg
 ---
 

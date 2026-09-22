@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - philosophie
-- sterilisation
-- surpopulation
+- environnement
+- ethique
 - conscience
-- protection-de-l-environnement
-- l-ethique
-- population
-- ethique-philosophie-morale
+- protection
 coverImage: ./images/quora.png
 ---
 

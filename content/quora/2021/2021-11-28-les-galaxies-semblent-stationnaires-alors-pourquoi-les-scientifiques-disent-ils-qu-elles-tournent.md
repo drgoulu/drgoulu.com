@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
 - sciences
 - astronomie
-- mouvement-physique
-- l-univers-astronomie
-- galaxies
-- observation-des-astres
 - astrophysique
-- rotation-physique
-- astronomie-et-astrophysique
-- galaxies-astronomie
+- univers
 coverImage: ./images/qimg-25f5e04fffe1862857829309508f53ff.jpg
 ---
 

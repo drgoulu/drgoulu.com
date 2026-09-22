@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- l-univers-astronomie
-- hypotheses-scientifiques
-- lois-de-la-thermodynamique
-- energie-physique
-- theorie-scientifique
-- theories-physiques
-- science-physique
-- l-univers
-- lois-de-la-physique
+- sciences
+- astronomie
+- univers
+- energie
 coverImage: ./images/quora.png
 ---
 

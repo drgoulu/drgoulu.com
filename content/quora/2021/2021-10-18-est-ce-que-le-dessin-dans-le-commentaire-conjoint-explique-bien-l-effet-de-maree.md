@@ -9,13 +9,8 @@ tags:
 - physique
 - sciences
 - astronomie
-- commentaire-de-texte
-- les-marees
-- dessin
-- effet-optique
-- meteo-marine
-- commentaire
 - physique-mathematique
+- marees
 coverImage: ./images/qimg-017303b439bdffb2c00c79834908d508.png
 ---
 

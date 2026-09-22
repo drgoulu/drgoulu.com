@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
+- biologie
+- processus
 - animaux
-- evolution-processus
 - biologie-animale
-- loups
-- chiens
-- zoologie
-- comparaison-des-animaux
-- evolution-biologie
-- classification-des-animaux
-- evolution-animale
 coverImage: ./images/quora.png
 ---
 

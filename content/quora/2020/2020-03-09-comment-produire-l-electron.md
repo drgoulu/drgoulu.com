@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- electron
+- chimie
+- matiere
 - physique-quantique
-- science-physique
-- electrons
-- physique-des-solides
-- physique-de-la-matiere
-- physique-chimie
 coverImage: ./images/quora.png
 ---
 

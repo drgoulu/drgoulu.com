@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- jeux
 - intelligence-artificielle
-- echec
-- joueurs-d-echecs
 - strategie
 - complexite
-- theorie-des-jeux-combinatoires
-- jeux-de-strategie
-- theorie-du-jeu
-- tournois-d-echecs
+- echec
 coverImage: ./images/quora.png
 ---
 

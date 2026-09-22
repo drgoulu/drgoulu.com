@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- lune-satellite-naturel
-- corps-celestes
+- sciences
 - astronomie
-- disparition
-- sciences-de-la-nature
-- terre-planete
-- systeme-solaire
-- lune-astronomie
-- science-de-la-terre
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

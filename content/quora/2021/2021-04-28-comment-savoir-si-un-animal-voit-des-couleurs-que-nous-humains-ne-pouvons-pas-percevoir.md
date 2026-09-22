@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- animaux
 - biologie-animale
+- couleur
+- vision
 - perception-visuelle
-- couleurs
-- animal
-- l-oeil-humain
-- vision-animale
-- vision-des-couleurs
-- science-animale
-- vision-humain
-- oeil-humain
 coverImage: ./images/qimg-bd03b87f3cfabfadafe02e7c99e4f2af.png
 ---
 

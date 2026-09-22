@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- securite-informatique
-- cybercriminalite
-- securite-sur-internet
-- vulnerabilite
-- cyberattaques
+- securite
+- informatique
+- internet
 - piratage-informatique
 - cybersecurite
-- securite-des-systemes-informatiques
-- piratage-informatique-securite
 coverImage: ./images/quora.png
 ---
 

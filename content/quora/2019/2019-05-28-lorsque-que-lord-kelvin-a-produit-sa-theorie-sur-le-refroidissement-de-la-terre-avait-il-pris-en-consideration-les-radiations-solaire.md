@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- histoire-des-sciences
+- sciences
+- histoire
 - systeme-solaire
 - geologie
-- refroidissement
-- histoire-de-la-physique
-- radiation-solaire
-- physique-solaire
 coverImage: ./images/quora.png
 ---
 

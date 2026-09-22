@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- conscience
-- rechauffement-climatique
-- impacts-environnementaux
-- effets-sur-la-sante
-- sante-environnementale
-- crise-climatique
-- sante-humaine
 - changement-climatique
-- conscience-humaine
+- rechauffement-climatique
+- conscience
+- crise-climatique
 coverImage: ./images/quora.png
 ---
 

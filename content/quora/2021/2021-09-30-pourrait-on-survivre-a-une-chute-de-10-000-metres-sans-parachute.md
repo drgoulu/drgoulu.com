@@ -9,10 +9,6 @@ tags:
 - physique
 - sciences
 - risque-et-risques
-- chute
-- survivre
-- parachutisme
-- hauteur
 - accidents
 - chute-libre
 coverImage: ./images/quora.png

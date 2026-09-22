@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - cosmologie
-- l-univers
-- hypotheses-astronomiques
+- univers
 - univers-observable
-- mysteres-inexpliques-de-l-univers
-- univers-en-expansion
-- les-confin-de-l-univers
-- exploration-de-l-univers
-- bord-de-l-univers
-- enigmes-de-l-univers
+- exploration
+- enigmes
 coverImage: ./images/quora.png
 ---
 

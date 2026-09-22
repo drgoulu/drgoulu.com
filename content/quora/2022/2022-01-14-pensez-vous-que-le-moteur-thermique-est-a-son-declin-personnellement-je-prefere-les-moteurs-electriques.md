@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- opinion-personnelle
-- transport
+- physique
+- energie
+- environnement
 - opinion
-- energie-physique
-- l-environnement
-- technique-automobile
-- vehicules-electriques
-- moteurs-thermiques
-- technologie-automobile
+- transports
 coverImage: ./images/quora.png
 ---
 

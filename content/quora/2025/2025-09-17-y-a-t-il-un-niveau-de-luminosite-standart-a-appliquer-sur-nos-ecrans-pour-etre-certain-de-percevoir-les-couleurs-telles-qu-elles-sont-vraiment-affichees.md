@@ -8,14 +8,9 @@ categories:
 tags:
 - perception-visuelle
 - couleur
-- ecrans-et-moniteurs-d-ordinateurs
 - qualite
-- etalonnage
-- dispositifs-d-affichage
 - luminosite
-- vision-des-couleurs
-- couleurs-vision
-- technologies-d-affichage
+- vision
 coverImage: ./images/quora.png
 ---
 

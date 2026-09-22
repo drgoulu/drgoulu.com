@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
+- monde
 - epistemologie
-- la-methode-scientifique
-- definition
-- connaissance-du-monde
-- sciences-humaines-et-sociales
-- methodologie
-- philosophie-des-sciences
-- sciences-humaines
-- sciences-sociales
+- methode-scientifique
 coverImage: ./images/quora.png
 ---
 

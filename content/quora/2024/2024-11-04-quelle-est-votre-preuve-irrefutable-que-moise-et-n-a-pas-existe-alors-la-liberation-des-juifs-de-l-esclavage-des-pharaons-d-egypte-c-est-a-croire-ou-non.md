@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- moise-figure-biblique
-- preuve
-- judaisme
-- pharaons
 - religion
+- preuve
 - egypte-ancienne
-- doute
-- esclavage
-- bible-hebraique-ancien-testament
+- judaisme
 coverImage: ./images/quora.png
 ---
 

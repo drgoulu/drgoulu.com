@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- covid-19-2019-2020
+- biologie
 - recherche-scientifique
-- virologie
-- techniques-de-laboratoire-en-biologie
-- origine-de-covid-19
-- preuves-scientifiques
-- explications-scientifiques
+- etude-scientifique
+- covid-19-2019-2020
 - hypotheses-scientifiques
-- essais-en-laboratoire
-- etudes-scientifiques
 coverImage: ./images/quora.png
 ---
 

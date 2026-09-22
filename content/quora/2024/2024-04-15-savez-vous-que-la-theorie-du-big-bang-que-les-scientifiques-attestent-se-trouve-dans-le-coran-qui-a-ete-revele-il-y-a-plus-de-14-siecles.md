@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- religion
 - sciences
+- univers
 - cosmologie
-- revelation
-- coran
-- la-creation-de-l-univers
-- l-islam
-- islam
-- origine-de-l-univers
-- cosmologie-du-big-bang
+- religion
+- origines
 coverImage: ./images/quora.png
 ---
 

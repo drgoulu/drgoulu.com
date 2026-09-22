@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- formation
-- systeme-solaire
-- exoplanetes
-- science-spatiale
 - astrophysique
-- planetes-astronomie
-- astronomie-et-astrophysique
-- systemes-solaires
+- planetes
+- systeme-solaire
+- science-spatiale
 coverImage: ./images/qimg-4fa6b7077bb48709edc28fcc2e5ea734.jpg
 ---
 

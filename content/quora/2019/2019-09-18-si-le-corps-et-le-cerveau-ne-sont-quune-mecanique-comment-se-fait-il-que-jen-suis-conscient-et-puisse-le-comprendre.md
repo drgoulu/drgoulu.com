@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - philosophie
-- corps-humains
-- conscience
-- dualisme
-- comprehension
 - mecanique
-- probleme-corps-esprit
-- cerveau-humain
-- conscience-de-soi
-- philosophie-des-sciences
+- conscience
+- corps-humains
 coverImage: ./images/quora.png
 ---
 

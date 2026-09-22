@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- iss
+- relativite
+- espace
+- temps
 - exploration-spatiale
-- astronautes
-- relativite-restreinte
-- dilation-du-temps
-- temps-physique
-- voyage-dans-l-espace
-- station-spatiale-internationale
-- relativite-physique
 coverImage: ./images/quora.png
 ---
 

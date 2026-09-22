@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- sciences
+- materiaux
+- ingenierie
 - durabilite
-- materiaux-de-construction
-- beton
-- science-des-materiaux-et-ingenierie
-- le-vieillissement
-- pathologie-du-beton
-- ingenierie-civile
-- la-resistance-du-beton
-- qualite-du-beton
+- qualite
 coverImage: ./images/quora.png
 ---
 

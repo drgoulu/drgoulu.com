@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie-des-sciences
-- science-fiction-genre
-- voyage-temporel
-- paradoxe
-- concept-philosophique-lie-au-temps
-- voyage-dans-le-temps
-- temps-philosophie
-- theorie-du-temps
-- paradoxes-philosophiques
-- philosophie-du-temps
+- sciences
+- philosophie
+- theorie
+- temps
+- voyage
 coverImage: ./images/quora.png
 ---
 

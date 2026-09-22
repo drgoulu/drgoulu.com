@@ -9,12 +9,8 @@ tags:
 - israel
 - corruption
 - reforme
-- premier-ministre
-- politique-et-gouvernement-d-israel
-- corruption-politique
-- premiers-ministres-d-israel
-- gouvernement-d-israel
-- politique-d-israel
+- politique
+- gouvernement
 coverImage: ./images/quora.png
 ---
 

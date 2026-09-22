@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-du-monde
-- domination
-- evolution-processus
-- geologie
-- dinosaures
-- vie-animale
-- echelle-des-temps-geologiques
-- paleontologie
-- mesozoique
-- histoire-de-la-terre
+- histoire
+- evolution
+- terre
+- monde
+- processus
 coverImage: ./images/qimg-e9ca89fcecb7abe79e997f71061d70a9.jpg
 ---
 

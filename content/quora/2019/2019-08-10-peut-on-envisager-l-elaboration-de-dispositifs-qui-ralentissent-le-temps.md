@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- science-fiction-genre
-- voyage-dans-le-temps
-- ralentissement
-- theorie-de-la-relativite
-- dilation-du-temps
-- temps-physique
-- inversion-du-temps
-- relativite-physique
-- theorie-du-temps
+- theorie
+- relativite
+- temps
+- voyage
 coverImage: ./images/quora.png
 ---
 

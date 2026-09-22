@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-environnement
-- terre-planete
-- responsabilite
-- influence-de-l-homme-sur-la-planete
+- terre
+- planetes
 - environnement
-- interaction-homme-environnement
-- protection-de-l-environnement
 - planete-terre
-- respect-de-l-environnement
-- protection-environnementale
+- homme
 coverImage: ./images/quora.png
 ---
 

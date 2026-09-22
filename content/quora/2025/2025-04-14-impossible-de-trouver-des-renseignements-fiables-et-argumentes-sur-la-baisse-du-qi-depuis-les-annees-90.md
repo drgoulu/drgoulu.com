@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- psychologie
-- sources-fiables
-- annees-1990
-- test-de-qi
-- declin-cognitif
 - recherche-scientifique
-- intelligence
+- psychologie
 - intelligence-humaine
-- information-fiable
-- score-de-qi
+- intelligence
+- test-de-qi
 coverImage: ./images/quora.png
 ---
 

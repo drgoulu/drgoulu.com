@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- creationnisme
-- religion
 - sciences
-- conception-intelligente
-- evolution-biologie
-- origine-de-la-vie
-- science-et-religion
-- theorie-de-l-evolution
-- philosophie-des-sciences
+- philosophie
+- evolution
+- biologie
+- theorie
 coverImage: ./images/quora.png
 ---
 

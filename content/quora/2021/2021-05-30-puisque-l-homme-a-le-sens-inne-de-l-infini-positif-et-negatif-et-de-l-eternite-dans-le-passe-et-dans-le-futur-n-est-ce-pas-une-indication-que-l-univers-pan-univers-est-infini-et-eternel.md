@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- infini
-- sens-commun
-- l-univers
-- condition-humaine
-- metaphysique
+- univers
 - cosmologie
-- l-eternite
-- nature-humaine
-- philosophie-des-sciences
+- metaphysique
 coverImage: ./images/quora.png
 ---
 

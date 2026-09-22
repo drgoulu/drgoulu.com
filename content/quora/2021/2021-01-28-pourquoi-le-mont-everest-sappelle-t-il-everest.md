@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- mont-everest
-- montagnes
-- origine-des-noms
-- geographie
-- etymologie
-- himalaya
-- histoire-du-monde
+- monde
 - origines
-- toponymie
+- geographie
+- nom
 coverImage: ./images/quora.png
 ---
 

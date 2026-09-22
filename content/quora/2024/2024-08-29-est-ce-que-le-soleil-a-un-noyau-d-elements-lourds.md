@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- noyau
-- le-soleil
 - astronomie
-- structure-atomique
-- noyau-d-atome
-- elements-chimiques
-- physique-stellaire
 - astrophysique
-- le-soleil-astronomie
+- soleil
+- atomes
 coverImage: ./images/quora.png
 ---
 

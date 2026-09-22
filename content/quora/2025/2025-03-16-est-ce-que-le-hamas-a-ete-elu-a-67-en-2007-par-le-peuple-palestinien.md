@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - elections
 - palestine
-- bande-de-gaza
-- politique-au-proche-orient
-- hamas
-- autorite-palestinienne
 - palestiniens
-- resultats-des-elections
-- politique-de-la-palestine
+- bande-de-gaza
 coverImage: ./images/quora.png
 ---
 

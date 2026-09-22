@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
+- opinion
+- systeme
 - politique-internationale
-- iran
-- opinion-politique
-- nationalisme
-- systeme-de-gouvernement
-- theocratie
-- ideologies-politiques
-- ideologie-islamiste
-- positions-politiques
+- gouvernement
 coverImage: ./images/quora.png
 ---
 

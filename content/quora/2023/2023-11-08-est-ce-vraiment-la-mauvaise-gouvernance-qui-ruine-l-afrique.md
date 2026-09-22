@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - politique
 - sociologie
-- pauvrete
-- developpement-economique-et-social
 - afrique
-- corruption
-- gouvernance
 - sciences-politiques
-- histoire-de-l-afrique
 coverImage: ./images/qimg-969bafa467028ce106cd14cbb0b60f70.jpg
 ---
 

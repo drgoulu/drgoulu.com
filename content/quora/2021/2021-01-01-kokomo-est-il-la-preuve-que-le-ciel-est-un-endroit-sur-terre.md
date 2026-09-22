@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- planete-terre
-- paradis
-- chanson
-- the-beach-boys-groupe
-- lieu-de-vie
-- titre-de-chanson
-- chansons-populaires
-- lieu-geographie
 - terre
-- lieu-sur
+- planete-terre
+- chanson
+- lieu-de-vie
+- paradis
 coverImage: ./images/quora.png
 ---
 

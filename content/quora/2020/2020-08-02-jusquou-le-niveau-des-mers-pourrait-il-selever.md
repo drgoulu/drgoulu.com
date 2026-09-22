@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- environnement
 - changement-climatique
-- niveau-de-la-mer
-- oceanographie
-- sciences-de-l-environnement
-- glaciologie
-- catastrophes-environnementales
 - rechauffement-climatique
 - crise-climatique
-- le-rechauffement-climatique
-- hausse-du-niveau-de-la-mer
 coverImage: ./images/quora.png
 ---
 

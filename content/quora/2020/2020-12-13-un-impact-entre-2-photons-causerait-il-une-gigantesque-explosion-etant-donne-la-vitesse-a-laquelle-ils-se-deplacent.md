@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- vitesse-de-la-lumiere
-- explosions
-- theorie-des-collisions
-- photons
-- relativite-physique
-- quantum-physics
+- theorie
 - physique-theorique
-- collision-physique
-- theorie-de-la-relativite
+- relativite
+- lumiere
 coverImage: ./images/quora.png
 ---
 

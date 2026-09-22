@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- voyage-dans-le-temps
-- espace-temps
-- dimension
-- theorie-de-la-relativite
-- dilation-du-temps
-- distance
-- perception-du-temps
+- theorie
 - physique-theorique
-- relativite-physique
+- relativite
+- temps
 coverImage: ./images/quora.png
 ---
 

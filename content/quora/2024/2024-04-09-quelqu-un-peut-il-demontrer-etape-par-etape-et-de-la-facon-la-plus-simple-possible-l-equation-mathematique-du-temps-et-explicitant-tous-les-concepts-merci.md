@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - mathematiques
-- explications
-- theorie-de-la-relativite
-- temps-physique
-- equations
-- relativite-physique
-- explications-scientifiques
-- physique-mathematique
+- theorie
+- relativite
+- temps
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,10 @@ categories:
 - Comment
 tags:
 - physique
-- apesanteur
-- etoiles-corps-celestes
 - astronomie
-- l-attraction-gravitationnelle
-- pression
 - astrophysique
-- force-gravitationnelle
-- etoiles-astronomie
+- etoiles-corps-celestes
+- etoiles
 coverImage: ./images/quora.png
 ---
 

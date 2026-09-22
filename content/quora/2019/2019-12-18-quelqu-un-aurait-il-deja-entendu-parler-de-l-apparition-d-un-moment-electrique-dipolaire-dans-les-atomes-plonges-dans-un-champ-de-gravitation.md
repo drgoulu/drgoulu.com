@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- moment-dipolaire
-- atomes
-- champ-gravitationnel
-- structure-atomique
-- constante-de-gravitation
-- moment-cinetique
 - physique-theorique
-- la-physique-atomique
-- physique-de-la-matiere
+- matiere
+- atomes
+- structure-atomique
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- intelligence-humaine
-- evolution-processus
-- dinosaures
-- histoire-de-la-terre
-- paleontologie
-- evolution-humaine
-- etre-humain
+- histoire
 - evolution
-- espece-humaine
+- terre
+- processus
+- evolution-humaine
 coverImage: ./images/quora.png
 ---
 

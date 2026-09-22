@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
 - mathematiques
-- theoreme-de-l-incompletude-de-godel
-- densite
-- problemes-insolubles
-- theorie-des-nombres
-- logique-mathematiques
-- philosophie-des-mathematiques
-- questions-mathematiques
-- mathematique-et-philosophie
+- theorie
+- nombres
+- questions
 coverImage: ./images/quora.png
 ---
 

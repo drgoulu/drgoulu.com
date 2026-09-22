@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- sciences-de-la-nature
-- uranium
+- sciences
+- terre
+- nature
 - radioactivite
-- geoloqie
-- fusion-des-elements-chimiques
-- la-geochimie
-- sciences-nucleaires
-- science-de-la-terre
-- elements-radioactifs
-- la-science-de-la-terre
+- elements-chimiques
 coverImage: ./images/quora.png
 ---
 

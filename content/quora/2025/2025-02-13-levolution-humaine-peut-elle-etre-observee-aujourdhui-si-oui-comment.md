@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- biologie-humaine
-- observation
-- evolution-processus
-- anthropologie
-- methodes-d-etude
-- sciences-de-la-vie
-- evolution-humaine
-- evolution-biologie
-- observation-scientifique
+- sciences
+- evolution
+- biologie
+- vie
+- processus
 coverImage: ./images/quora.png
 ---
 

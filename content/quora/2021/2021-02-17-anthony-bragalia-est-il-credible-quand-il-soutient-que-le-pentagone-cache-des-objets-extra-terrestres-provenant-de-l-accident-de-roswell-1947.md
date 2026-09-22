@@ -8,10 +8,8 @@ categories:
 tags:
 - personne-reelle
 - theories-du-complot
-- roswell-nouveau-mexique
 - extraterrestres
 - objets-volants-non-identifies
-- affaire-roswell
 - theories-du-complot-specifiques
 coverImage: ./images/quora.png
 ---

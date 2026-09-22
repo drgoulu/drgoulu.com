@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - apprentissage
-- langages-de-programmation
+- langage
+- programmation
 - developpement-web
-- javascript-vs-typescript
-- apprentissage-des-adultes
-- typescript-langage-de-programmation
-- apprentissage-rapide
-- microsoft-typescript
-- javascript-langage-de-programmation
-- typescript
+- adulte
 coverImage: ./images/quora.png
 ---
 

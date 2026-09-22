@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - philosophie
-- scenarios-de-voyage-dans-le-temps
-- question-hypothetique
-- espece-humaine
-- histoire-de-l-humanite
+- temps
+- humanite
 - evolution-humaine
-- hypotheses
-- voyage-dans-le-temps
-- l-histoire-humain
 coverImage: ./images/qimg-9ecf1a5bafba7dcefd91d38eac6ec351.png
 ---
 

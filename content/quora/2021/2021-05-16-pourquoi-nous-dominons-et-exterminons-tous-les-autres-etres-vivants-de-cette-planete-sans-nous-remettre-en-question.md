@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - philosophie
-- extinction-des-especes
-- domination
-- l-anthropocentrisme
-- etres-vivants
+- especes
+- extinction
+- ethique
 - planete-terre
-- responsabilite
-- l-ethique
-- etre-humain
-- ethique-philosophie-morale
 coverImage: ./images/quora.png
 ---
 

@@ -10,11 +10,7 @@ tags:
 - physique
 - ondes
 - musique
-- radio
 - ondes-radio
-- la-communication
-- la-musique
-- communications
 coverImage: ./images/quora.png
 ---
 

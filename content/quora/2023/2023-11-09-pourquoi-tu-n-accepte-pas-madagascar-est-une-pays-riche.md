@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - opinion
-- developpement-economique
+- developpement
+- ressources-naturelles
 - pays
 - richesse
-- madagascar
-- ressources-naturelles
-- opinions
-- pays-riches
-- developpement
 coverImage: ./images/qimg-d274a262693731589a273befbaf9e55f.jpg
 ---
 

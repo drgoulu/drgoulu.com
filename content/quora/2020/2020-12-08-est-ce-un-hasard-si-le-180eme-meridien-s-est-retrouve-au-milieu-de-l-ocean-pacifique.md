@@ -8,14 +8,9 @@ categories:
 tags:
 - geographie
 - hasard
-- le-180
-- asie-pacifique
-- meridien
-- premier-meridien
-- geographie-physique
-- geographie-du-monde
+- physique
+- monde
 - geographie-economique
-- ocean-pacifique
 coverImage: ./images/quora.png
 ---
 

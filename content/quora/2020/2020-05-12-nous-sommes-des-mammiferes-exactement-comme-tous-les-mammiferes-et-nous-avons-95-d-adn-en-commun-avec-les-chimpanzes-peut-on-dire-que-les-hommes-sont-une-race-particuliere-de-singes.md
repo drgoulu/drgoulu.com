@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie
-- singes
-- chimpanzes
-- mammiferes
-- homo-sapiens
-- adn
-- evolution-humaine
-- classification-des-animaux
-- primates
 - evolution
+- biologie
+- animaux
+- evolution-humaine
+- primates
 coverImage: ./images/qimg-56c5d9e7881303069a4b9c07ad9daa37.jpg
 ---
 

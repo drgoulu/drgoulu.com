@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - communication
-- pollution-atmospherique
-- courriel
-- transformation-numerique
 - internet
 - durabilite
-- l-environnement
-- alternative-technologique
-- environnement-et-societe
+- environnement
+- societe
 coverImage: ./images/quora.png
 ---
 

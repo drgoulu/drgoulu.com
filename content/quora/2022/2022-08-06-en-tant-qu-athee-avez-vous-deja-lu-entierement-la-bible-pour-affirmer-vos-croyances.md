@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - religion
-- foi
+- opinion
 - croyance
-- lecture
-- la-bible
+- systeme
 - christianisme
-- opinions-et-croyances
-- systemes-de-croyance
-- atheisme
-- lecture-biblique
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire
 - physique
-- decibels
-- hiroshima-japon
+- histoire
 - guerre
+- seconde-guerre-mondiale
 - armes-nucleaires
-- la-seconde-guerre-mondiale
-- explosions
-- evenement-historique
-- bombe-atomique
 coverImage: ./images/quora.png
 ---
 

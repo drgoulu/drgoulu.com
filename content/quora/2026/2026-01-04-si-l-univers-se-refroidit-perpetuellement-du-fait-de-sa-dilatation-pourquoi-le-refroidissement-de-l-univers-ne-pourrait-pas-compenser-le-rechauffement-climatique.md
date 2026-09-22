@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- changement-climatique
-- cosmologie
-- expansion-de-l-univers
 - astrophysique
-- refroidissement
-- mort-thermique-de-l-univers
+- cosmologie
 - physique-theorique
-- rechauffement-climatique
-- le-changement-climatique
+- changement-climatique
 coverImage: ./images/quora.png
 ---
 

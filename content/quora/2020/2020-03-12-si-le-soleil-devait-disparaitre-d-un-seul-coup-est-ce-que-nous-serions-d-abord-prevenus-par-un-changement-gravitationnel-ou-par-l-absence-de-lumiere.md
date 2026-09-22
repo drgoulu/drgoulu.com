@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- le-soleil
 - astronomie
-- disparition
-- lumiere-du-soleil
-- gravitation
-- lumiere-physique
 - astrophysique
 - relativite
-- le-soleil-astronomie
+- lumiere
 coverImage: ./images/quora.png
 ---
 

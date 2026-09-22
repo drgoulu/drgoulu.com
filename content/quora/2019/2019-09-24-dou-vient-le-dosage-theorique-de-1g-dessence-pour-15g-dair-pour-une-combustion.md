@@ -8,14 +8,9 @@ categories:
 tags:
 - chimie
 - air
-- moteur-a-combustion-interne
 - combustion
 - quantites-physiques
-- stoechiometrie
-- dosage
-- physique-chimie
-- chimie-physique
-- combustible
+- physique
 coverImage: ./images/quora.png
 ---
 

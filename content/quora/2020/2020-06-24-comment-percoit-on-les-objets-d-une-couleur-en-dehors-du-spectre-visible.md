@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- perception
 - sciences
-- spectre-electromagnetique
+- perception
 - optique
 - couleur
-- perception-visuelle
-- vision
-- sensation
-- spectre-visible
 coverImage: ./images/quora.png
 ---
 

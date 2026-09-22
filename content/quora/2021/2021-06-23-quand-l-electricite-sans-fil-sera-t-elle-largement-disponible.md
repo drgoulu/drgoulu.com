@@ -9,12 +9,8 @@ tags:
 - nouvelles-technologies
 - futur
 - energie
-- disponibilite
-- chargeurs-sans-fil
 - innovation-technologique
-- futur-proche
-- l-innovation
-- technologie-sans-fil
+- innovation
 coverImage: ./images/quora.png
 ---
 

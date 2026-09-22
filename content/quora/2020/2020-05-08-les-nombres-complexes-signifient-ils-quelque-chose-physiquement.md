@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- mathematiques
 - sciences
-- nombres-complexes
+- mathematiques
 - theorie
 - physique-mathematique
-- sciences-mathematiques
-- mathematiques-et-physique
-- post
-- mathematiques-et-sciences
 coverImage: ./images/quora.png
 ---
 

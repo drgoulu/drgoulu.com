@@ -11,11 +11,6 @@ tags:
 - macbook-pro
 - justification
 - produits-et-services-apple
-- accessoires-pour-ordinateur-portable
-- tarification
-- appareils-apple
-- le-prix
-- accessoires-informatique
 coverImage: ./images/quora.png
 ---
 

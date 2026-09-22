@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- photons
-- mecanique-quantique
-- energie-physique
-- temps-physique
-- relativite-physique
-- radiation
-- masse-physique
 - physique-theorique
-- physique-quantique
+- energie
+- relativite
+- temps
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- philosophie
-- ovni
-- theories-du-complot
 - sciences
-- vie-extraterrestre
-- aliens
-- astrobiologie
-- existence
 - astronomie
-- extraterrestres
+- philosophie
+- vie-extraterrestre
+- theories-du-complot
 coverImage: ./images/quora.png
 ---
 

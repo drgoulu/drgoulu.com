@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
+- univers
 - cosmologie
+- exploration
 - existence
-- infini
-- multivers
-- mondes-paralleles
-- exploration-de-l-univers
-- univers-infini
-- theorie-cosmologique
-- philosophie-de-la-cosmologie
-- univers-paralleles
 coverImage: ./images/quora.png
 ---
 

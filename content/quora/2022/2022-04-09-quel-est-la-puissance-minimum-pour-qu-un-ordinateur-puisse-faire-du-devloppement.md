@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - informatique
-- specifications-techniques-et-fonctionnelles
-- puissance-de-calcul
+- developpement
+- calcul
 - developpement-logiciel
-- configuration-requise-materiel-informatique
-- logiciel
-- ordinateurs
-- materiel-informatique
-- informatique-general
-- developpement-de-logiciels
+- logiciels
 coverImage: ./images/quora.png
 ---
 

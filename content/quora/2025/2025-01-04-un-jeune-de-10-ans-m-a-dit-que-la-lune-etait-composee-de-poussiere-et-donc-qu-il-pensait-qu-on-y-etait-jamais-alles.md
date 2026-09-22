@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - astronomie
-- mythes-et-idees-fausses
 - exploration-spatiale
-- atterrisages-sur-la-lune
-- explications-pour-enfants
-- composition-du-sol
-- science-physique
-- exploration-de-la-lune
 - science-spatiale
-- explications-scientifiques
 coverImage: ./images/quora.png
 ---
 

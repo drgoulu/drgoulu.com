@@ -8,14 +8,9 @@ categories:
 tags:
 - anthropologie
 - genetique
-- population-humaine
-- diversite
-- anthropologie-culturelle
 - origines-humaines
+- anthropologie-culturelle
 - races-humaines
-- diversite-genetique
-- diversite-ethnique
-- anthropologie-societe
 coverImage: ./images/quora.png
 ---
 

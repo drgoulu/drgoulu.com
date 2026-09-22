@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - philosophie
-- guerre
-- question-hypothetique
-- histoire-des-humains
-- civilisation
-- anthropologie
+- humanite
 - evolution-humaine
-- hypotheses
-- civilisation-humaine
-- histoire-de-l-humanite
+- anthropologie
 coverImage: ./images/quora.png
 ---
 

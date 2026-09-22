@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- nouvelles-perspectives
 - recherche-scientifique
-- progres-scientifique
 - decouvertes-scientifiques
-- nouvelles-techniques
+- progres-scientifique
 - actualite-scientifique
-- enquetes-scientifiques
-- recherches-scientifiques
 coverImage: ./images/quora.png
 ---
 

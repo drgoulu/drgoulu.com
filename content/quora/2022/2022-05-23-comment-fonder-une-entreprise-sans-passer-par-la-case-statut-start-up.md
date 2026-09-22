@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- droit
+- creation
+- entreprises
 - entrepreneuriat
-- procedure-administrative
-- formalite
-- statut
-- lancement-d-une-entreprise
-- droit-des-affaires
-- creation-d-entreprise
-- demarches-administratives
-- statut-juridique
-- droit-des-entreprises
+- affaires
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- opinion-publique
+- politique
 - suisse
-- sujets-controverses
-- polarisation-politique
-- democratie-en-suisse
-- debats-politiques
-- opinion-politique
-- problemes-politiques
-- politique-de-la-suisse
+- opinion
+- opinion-publique
+- democratie
 coverImage: ./images/quora.png
 ---
 

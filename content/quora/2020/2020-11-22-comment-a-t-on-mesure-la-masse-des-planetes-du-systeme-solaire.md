@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
+- sciences
 - astronomie
-- mesures-physiques
+- planetes
 - systeme-solaire
-- masse-physique
-- planetes-astronomie
-- science-physique
-- planetes-du-systeme-solaire
-- la-physique
-- le-systeme-solaire
 coverImage: ./images/quora.png
 ---
 

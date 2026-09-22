@@ -10,11 +10,7 @@ tags:
 - suisse
 - ecole-polytechnique-federale-de-lausanne
 - etudes
-- orientation-personnelle
 - ecoles-d-ingenieurs
-- etudes-superieures-en-ingenierie
-- orientation-scolaire
-- orientation-universitaire
 coverImage: ./images/quora.png
 ---
 

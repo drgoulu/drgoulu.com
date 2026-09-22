@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- comportement-humain
+- vie
 - animaux
-- habitudes
 - biologie-animale
-- l-humain-et-les-animaux
-- comportement
-- ethologie
-- comparaison-des-animaux
-- comportement-animal
-- habitudes-de-vie
+- comportement-humain
+- comparaisons
 coverImage: ./images/quora.png
 ---
 

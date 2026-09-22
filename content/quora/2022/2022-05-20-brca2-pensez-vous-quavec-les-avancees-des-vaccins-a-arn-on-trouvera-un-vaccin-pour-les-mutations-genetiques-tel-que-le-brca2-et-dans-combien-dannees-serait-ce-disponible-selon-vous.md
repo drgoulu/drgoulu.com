@@ -7,14 +7,10 @@ categories:
 - Combien
 tags:
 - recherche-scientifique
-- cancer
-- genes
-- vaccins-a-arnm
-- mutation-et-mutations-genetique
 - genetique
-- maladie-genetique
 - recherche-medicale
-- therapie-genique
+- cancer
+- mutation-et-mutations-genetique
 coverImage: ./images/quora.png
 ---
 

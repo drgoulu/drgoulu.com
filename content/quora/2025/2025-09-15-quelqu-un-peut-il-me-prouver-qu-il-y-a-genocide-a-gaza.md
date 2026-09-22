@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- droits-de-l-homme
-- conflit-israelo-palestinien
+- droit
 - israel
-- genocide
-- conflits-armes
-- bande-de-gaza
-- droit-international
+- homme
+- conflit-israelo-palestinien
 - palestine
-- conflits-internationaux
-- gazaisrael-conflict
 coverImage: ./images/quora.png
 ---
 

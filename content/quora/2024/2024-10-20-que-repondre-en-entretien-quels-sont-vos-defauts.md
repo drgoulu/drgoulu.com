@@ -6,14 +6,9 @@ draft: false
 categories:
 - Quora
 tags:
-- emplois
-- ressources-humaines
-- questions-d-entretien-d-embauche
-- defauts
 - emploi
+- ressources-humaines
 - entretiens-d-embauche
-- responsables-des-ressources-humaines
-- defauts-personnels
 - conseils-pour-les-entretiens-d-embauche
 - preparation-entretien-d-embauche
 coverImage: ./images/quora.png

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - psychologie
-- minorites-sexuelles-et-de-genre
-- groupes-de-personnes
+- groupes
+- personne
 - demographie
-- attraction-sexuelle
 - sociologie
-- asexualite
-- sexualite-humaine
-- minorites
-- orientation-sexuelle
 coverImage: ./images/quora.png
 ---
 

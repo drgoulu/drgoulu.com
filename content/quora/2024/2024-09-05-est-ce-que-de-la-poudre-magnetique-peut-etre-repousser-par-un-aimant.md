@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- aimants
 - electromagnetisme
-- flux-magnetique
-- proprietes-physiques
-- champs-magnetiques
-- forces-electromagnetiques
 - magnetisme
-- force-magnetique
+- champs-magnetiques
+- proprietes-physiques
 coverImage: ./images/quora.png
 ---
 

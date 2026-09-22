@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- scenarios-hypothetiques
+- histoire
+- humanite
+- especes
 - extinction
-- histoire-de-l-humanite
-- reproduction-sexuelle
-- population-humaine
-- extinction-des-especes
-- reproduction
-- la-reproduction-humaine
-- extinction-massive
-- l-extinction-humaine
+- scenarios-hypothetiques
 coverImage: ./images/quora.png
 ---
 

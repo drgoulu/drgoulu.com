@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- recherche
 - medecine
-- consensus
-- sujets-controverses
-- methodes-de-recherche
-- homeopathie
-- opinion-controversee
-- controverses
 - methodes
+- controverses
 - medecine-naturelle
-- medecine-scientifique
 coverImage: ./images/quora.png
 ---
 

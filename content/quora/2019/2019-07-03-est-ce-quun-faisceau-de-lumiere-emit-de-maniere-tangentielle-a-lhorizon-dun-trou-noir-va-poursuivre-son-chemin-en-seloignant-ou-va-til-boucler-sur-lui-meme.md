@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
 - astronomie
-- espace-temps
-- vitesse-de-la-lumiere
-- gravitation
-- lumiere-physique
-- astrophysique-relativiste
-- physique-theorique
 - astrophysique
+- physique-theorique
+- lumiere
 coverImage: ./images/qimg-71a50dbba44c78128b221b7df7bb51f1.png
 ---
 

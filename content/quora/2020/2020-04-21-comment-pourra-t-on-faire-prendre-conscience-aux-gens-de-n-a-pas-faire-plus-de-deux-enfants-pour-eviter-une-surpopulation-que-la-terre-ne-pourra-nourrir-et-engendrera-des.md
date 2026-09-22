@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - philosophie
-- guerre
-- ressources-naturelles
-- conscience
-- surpopulation
 - changement-climatique
-- education
-- responsabilite
-- demographie
 - ecologie
+- guerre
+- education
 coverImage: ./images/quora.png
 ---
 

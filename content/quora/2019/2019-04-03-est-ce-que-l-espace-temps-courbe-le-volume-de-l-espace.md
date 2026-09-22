@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - astronomie
-- espace-temps
-- courbure-de-l-espace
-- relativite-generale
-- cosmologie
-- volume-physique
 - astrophysique
+- cosmologie
 - physique-theorique
-- relativite-physique
 coverImage: ./images/qimg-ff1ab87472019402dba89074668050c7.jpg
 ---
 

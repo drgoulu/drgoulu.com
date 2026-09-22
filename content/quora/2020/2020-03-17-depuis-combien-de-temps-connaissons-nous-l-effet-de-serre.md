@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- physique
+- sciences
+- histoire
+- environnement
 - changement-climatique
-- histoire-des-sciences
-- effet-de-serre
-- physique-de-l-atmosphere
-- sciences-de-l-environnement
-- rechauffement-climatique
-- histoire-de-la-physique
-- le-rechauffement-climatique
-- sciences-de-l-atmosphere
-- sciences-du-climat
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- jules-verne-auteur
-- science-fiction-genre
-- litterature
-- de-la-terre-a-la-lune-livre-de-1864
+- espace
 - exploration-spatiale
-- lune-astronomie
-- livres-de-science-fiction
-- voyage-dans-l-espace
-- fiction-litteraire
+- voyage
+- lune
 coverImage: ./images/quora.png
 ---
 

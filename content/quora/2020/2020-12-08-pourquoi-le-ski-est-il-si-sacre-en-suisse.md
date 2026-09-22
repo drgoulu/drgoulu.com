@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- activites
+- activite
 - suisse
-- identite-culturelle
-- ski
-- vacances-d-hiver
-- tourisme-suisse
-- tourisme-culturel
-- culture-de-la-suisse
-- sports-d-hiver
-- le-ski
+- vacances
+- culture
+- sport
 coverImage: ./images/quora.png
 ---
 

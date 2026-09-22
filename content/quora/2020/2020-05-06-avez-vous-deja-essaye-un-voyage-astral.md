@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- experience-personnelle
+- experiences-personnelles
 - conscience
 - spiritualite
 - paranormal
-- voyage-astral
 - phenomenes-inexpliques
-- experiences-de-sortie-hors-du-corps
-- experience-surnaturelle
-- le-paranormal
-- experience-paranormale
 coverImage: ./images/quora.png
 ---
 

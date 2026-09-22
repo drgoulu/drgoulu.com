@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- religions
+- sciences
 - evolution
-- ideologies
-- primates
-- atheisme
-- science-et-religion
-- origines-humaines
-- darwinisme
+- theorie
+- religion
 - evolution-humaine
-- theorie-de-l-evolution
 coverImage: ./images/quora.png
 ---
 

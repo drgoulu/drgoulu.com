@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - exploration-spatiale
-- signal-application
-- telecommunications
-- communication-satellite
 - science-spatiale
 - technologie-spatiale
 - missions-spatiales
-- communications-spatiales
-- reseaux-et-telecommunications
-- telecommunications-spatiales
+- telecommunications
 coverImage: ./images/quora.png
 ---
 

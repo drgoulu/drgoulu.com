@@ -8,12 +8,9 @@ categories:
 tags:
 - energie-renouvelable
 - mecanique
-- ressort
-- montres-automatiques
-- batteries-lithium-ion
 - stockage-d-energie
 - energie-hydroelectrique
-- mecanique-physique
+- physique
 coverImage: ./images/qimg-bd65bba615e549117a6c5ec11be8e0fc.png
 ---
 

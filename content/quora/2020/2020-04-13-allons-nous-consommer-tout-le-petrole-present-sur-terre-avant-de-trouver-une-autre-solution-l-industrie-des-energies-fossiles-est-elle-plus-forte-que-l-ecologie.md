@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- energie
 - changement-climatique
 - ecologie
-- energie-physique
-- ressource-naturelle
-- energie-alternative
-- petrole-energie-fossile
-- energie
-- energies-fossiles
-- le-changement-climatique
+- ressources-naturelles
 coverImage: ./images/quora.png
 ---
 

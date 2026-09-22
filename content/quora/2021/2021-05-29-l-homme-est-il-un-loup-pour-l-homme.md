@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
+- psychologie
 - comportement-humain
-- violence
-- altruisme
-- egoisme
 - question-philosophique
 - nature-humaine
-- condition-humaine
-- philosophie-et-psychologie
-- la-nature-humaine
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- philosophie
 - mathematiques
-- algebre
-- division-par-zero
-- theorie-des-nombres
-- unites-de-mesure
-- le-zero
-- philosophie-des-mathematiques
-- concepts-mathematiques
-- questions-mathematiques
-- mathematiciens
+- theorie
+- nombres
+- questions
 coverImage: ./images/quora.png
 ---
 

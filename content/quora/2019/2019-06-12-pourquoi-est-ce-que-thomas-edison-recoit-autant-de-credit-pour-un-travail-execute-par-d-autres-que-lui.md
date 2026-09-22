@@ -8,12 +8,9 @@ categories:
 tags:
 - personnalites
 - invention
-- histoire-des-sciences
-- thomas-alva-edison
-- inventeurs
-- histoire-de-l-industrie
-- histoire-des-inventions
-- histoire-de-la-science
+- histoire
+- sciences
+- industrie
 coverImage: ./images/quora.png
 ---
 

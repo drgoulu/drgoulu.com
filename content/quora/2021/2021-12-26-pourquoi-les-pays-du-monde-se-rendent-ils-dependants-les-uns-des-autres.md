@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - relations-internationales
+- relations-economiques-internationales
 - dependance
 - globalisation
-- echanges-commerciaux
 - cooperation
-- commerce-mondial
-- interdependance
-- mondialisation
-- commerce-international
-- relations-economiques-internationales
 coverImage: ./images/quora.png
 ---
 

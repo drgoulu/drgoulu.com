@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- glandes-endocrines
 - physique
 - biologie
-- fonctionnement-du-corps
+- sante
 - chimie
-- systeme-endocrinien
 - biologie-humaine
-- sante-humaine
 coverImage: ./images/qimg-a160f80cc70fc7e87524f2dd3af90ffd.jpg
 ---
 

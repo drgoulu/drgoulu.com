@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- srinivasa-ramanujan-mathematicien-indien
-- serie-divergente
-- sommation
 - reflexion
-- infini-mathematiques
+- infini
 - mathematiques
 - pensee-philosophique
-- serie-infinie
-- philosophie-des-mathematiques
 coverImage: ./images/quora.png
 ---
 

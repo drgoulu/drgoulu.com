@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- vitesse
-- lorentz-transformations
-- albert-einstein-physicien
-- referentiel
-- relativite-restreinte
-- mouvement-physique
-- theorie-de-la-relativite
+- theorie
 - physique-theorique
-- relativite-physique
+- relativite
+- vitesse
 coverImage: ./images/quora.png
 ---
 

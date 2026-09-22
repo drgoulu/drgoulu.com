@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- environnement
 - changement-climatique
-- climatologie
-- sciences-de-l-environnement
 - rechauffement-climatique
-- phenomenes-climatiques
-- crise-climatique
-- adaptation-au-changement-climatique
-- le-rechauffement-climatique
-- situation-climatique
-- science-de-l-environnement
+- climatologie
 coverImage: ./images/qimg-1864b47c2c3a835caddcc0746c59600e.jpg
 ---
 

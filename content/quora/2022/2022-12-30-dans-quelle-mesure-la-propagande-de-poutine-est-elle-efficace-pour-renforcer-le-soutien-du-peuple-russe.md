@@ -8,14 +8,9 @@ categories:
 tags:
 - politique
 - opinion-publique
-- vladimir-poutine
 - medias
-- russie-pays
-- propagande
-- soutien
 - influence
-- propagande-russe
-- image-publique
+- vladimir-poutine
 coverImage: ./images/quora.png
 ---
 

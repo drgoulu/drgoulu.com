@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- pesanteur
-- energie-potentielle
-- calcul
-- solides
-- force-de-gravite
-- calcul-mathematique
-- mecanique-physique
-- physique-des-solides
 - gravite
+- mecanique
+- calcul
+- force
 coverImage: ./images/quora.png
 ---
 

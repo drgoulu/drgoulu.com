@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- le-soleil-astronomie
 - astronomie
-- composition-chimique
-- etoiles-corps-celestes
-- spectre-electromagnetique
-- hydrogene
 - astrophysique
-- spectroscopie
-- le-soleil
+- soleil
+- etoiles-corps-celestes
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- nature
 - biologie-animale
-- couleur
-- reptiles
-- sciences-de-la-nature
-- paleontologie-des-dinosaures
-- dinosaures
 - paleontologie
-- sciences-biologiques
-- les-sciences-naturelles
+- science-biologique
 coverImage: ./images/qimg-a38dc175fea10fc585df25da401a32c7.jpg
 ---
 

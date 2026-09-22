@@ -8,14 +8,9 @@ categories:
 tags:
 - sante-publique
 - theories-du-complot
-- arn
-- cancer
-- vaccin-covid-19
-- epidemiologie
-- vaccins-a-arnm
 - vaccination
-- covid-19-theories-du-complot-coronavirus
-- theories-du-complot-specifiques
+- epidemiologie
+- vaccin-covid-19
 coverImage: ./images/quora.png
 ---
 

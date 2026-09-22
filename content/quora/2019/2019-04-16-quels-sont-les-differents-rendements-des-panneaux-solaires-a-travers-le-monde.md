@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - energie-renouvelable
-- panneaux-solaires
+- energie-alternative
 - sources-d-energie
 - energie-solaire
-- rendement-du-petrole
-- energie-alternative
-- energie-thermique
-- energie-potentielle
+- panneaux-solaires
 coverImage: ./images/qimg-c29752e61bdbb9aac877cc36cad0aac2.jpg
 ---
 

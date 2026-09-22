@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- culture-generale
+- connaissances
+- mythe
+- legende
 - savoir
-- vrai-et-faux
-- mythes-et-legendes
-- la-connaissance
-- faits-reels
-- mythes-et-idees-fausses
-- mythes-et-legendes-anciens-ou-traditionnels
-- societe-culture-generale
+- culture-generale
 coverImage: ./images/quora.png
 ---
 

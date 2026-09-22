@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- les-etats-unis-d-amerique
 - biologie
-- materiaux-artificiels
-- creation
 - recherche-scientifique
-- cellules-biologie
-- etats-unis
-- biologie-cellulaire
 - recherche
+- creation
 coverImage: ./images/quora.png
 ---
 

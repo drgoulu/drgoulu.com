@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - histoire
+- monde
 - calcul
-- culture-romaine
 - generations
-- ier-siecle
 - ancetres
-- genealogie
-- histoire-du-monde
-- empire-romain
-- histoire-romaine
 coverImage: ./images/quora.png
 ---
 

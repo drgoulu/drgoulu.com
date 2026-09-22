@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- religion
 - france
-- sociologie-de-la-religion
 - opinion-publique
-- islamistes
+- sociologie
 - sondages
-- muslim
-- les-musulmans-en-france
-- islam-et-islamisme
-- islam
-- religion-en-france
 coverImage: ./images/quora.png
 ---
 

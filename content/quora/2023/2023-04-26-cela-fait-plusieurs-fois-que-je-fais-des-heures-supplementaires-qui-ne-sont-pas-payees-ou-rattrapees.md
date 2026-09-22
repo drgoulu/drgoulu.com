@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- droit
+- conflits
+- travail
 - travail-emploi
-- syndicalisme
 - salaires-et-remunerations
-- relations-professionnelles
-- heures-supplementaires
-- gestion-du-personnel
-- droit-du-travail
-- conflits-au-travail
-- relations-de-travail
-- droit-des-employes
 coverImage: ./images/quora.png
 ---
 

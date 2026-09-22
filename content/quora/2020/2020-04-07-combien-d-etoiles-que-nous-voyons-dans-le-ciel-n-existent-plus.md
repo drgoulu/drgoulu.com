@@ -7,14 +7,10 @@ categories:
 - Combien
 tags:
 - astronomie
+- univers
 - etoiles-corps-celestes
-- mort-thermique-de-l-univers
-- univers-observable
-- objets-astronomiques
-- observation-des-astres
-- l-univers-astronomie
 - etoiles
-- etoiles-astronomie
+- observation
 coverImage: ./images/quora.png
 ---
 

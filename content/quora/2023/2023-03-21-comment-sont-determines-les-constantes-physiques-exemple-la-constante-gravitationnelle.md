@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - experience
-- la-methode-scientifique
-- constante-de-gravitation
 - methodes
+- methode-scientifique
 - science-experimentale
-- quantites-physiques
-- mesures-physiques
-- techniques-scientifiques
 coverImage: ./images/quora.png
 ---
 

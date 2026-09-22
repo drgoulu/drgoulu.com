@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- gestion
+- argent
 - finance
 - investissement
-- inflation-economie
-- marches-financiers
-- gestion-d-argent
-- strategies-d-investissement
-- gestion-des-investissements
-- gestion-financiere
-- personal-finance
-- investissement-financier
+- strategie
 coverImage: ./images/qimg-fc8e03e743d48126ce7fec727531cd52.png
 ---
 

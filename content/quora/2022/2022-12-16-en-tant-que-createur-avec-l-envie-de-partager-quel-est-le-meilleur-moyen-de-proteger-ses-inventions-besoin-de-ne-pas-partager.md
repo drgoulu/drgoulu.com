@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- droit
 - creation
 - propriete-intellectuelle
 - brevets
 - invention-et-inventions
-- secret
-- droit-dauteur
-- partager
-- secrets-commerciaux
-- droit-sur-la-propriete-intellectuelle
-- protection-de-la-proprite-intellectuelle
 coverImage: ./images/quora.png
 ---
 

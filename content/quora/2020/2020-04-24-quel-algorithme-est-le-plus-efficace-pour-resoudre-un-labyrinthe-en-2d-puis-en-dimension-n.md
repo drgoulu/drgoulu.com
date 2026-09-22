@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - informatique
-- dimension
-- resolution-de-problemes
 - intelligence-artificielle
+- probleme
+- dimensions
 - algorithmes
-- algorithme-heuristique
-- algorithmes-de-graphe
-- sciences-informatiques
-- algorithmes-d-optimisation
 coverImage: ./images/qimg-56ad525eca780c9344e43b4f3d8958ab.png
 ---
 

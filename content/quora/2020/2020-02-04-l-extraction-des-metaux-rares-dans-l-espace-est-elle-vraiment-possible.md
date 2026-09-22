@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - exploration-spatiale
-- industrie-miniere
-- metaux-rares
-- ressources-planetaire
 - science-spatiale
-- ingenierie-et-technologie-spatiale
+- ingenierie
 - technologie-spatiale
 - missions-spatiales
-- exploitation-minere
-- extraction-miniere
 coverImage: ./images/quora.png
 ---
 

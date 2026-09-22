@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- france
 - politique
-- etrangers
-- expulsion
 - societe
-- tolerance
-- immigration
+- france
 - politique-francaise
-- politique-d-immigration
-- societe-francaise
+- immigration
 coverImage: ./images/quora.png
 ---
 

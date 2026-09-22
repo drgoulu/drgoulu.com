@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- technologies
+- futur
 - nouvelles-technologies
-- dispositif-de-stockage
 - innovation-technologique
-- stockage-de-donnees
-- tendances-technologiques
 - avancees-technologiques
-- developpement-technologique
-- technologie-du-futur
-- inventions-technologiques
-- avancement-technologique
 coverImage: ./images/quora.png
 ---
 

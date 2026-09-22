@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- finance
-- personnalites
-- investissement
-- steve-jobs
-- entrepreneuriat
-- comparaisons-de-salaires
-- president-directeur-general
 - ingenierie
-- salaires-et-remunerations
+- personnalites
+- finance
+- entrepreneuriat
+- investissement
 coverImage: ./images/quora.png
 ---
 

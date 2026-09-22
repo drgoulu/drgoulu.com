@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- le-soleil
-- predictions
-- composition-chimique
-- hydrogene
-- demarche-scientifique
-- physique-stellaire
 - astrophysique
+- soleil
+- hydrogene
 - preuves-scientifiques
-- raison-scientifique
 coverImage: ./images/quora.png
 ---
 

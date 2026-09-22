@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- voyage-dans-le-temps
-- espace-temps
-- relativite-restreinte
 - theorie
-- temps-physique
-- theorie-de-la-relativite
 - physique-theorique
-- relativite-generale
-- relativite-physique
+- relativite
+- temps
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
 - biologie
+- processus
 - animaux
-- evolution-processus
-- etre-humain
-- chimpanzes
-- homo-sapiens
-- genetique
 - biologie-humaine
-- primates
-- genomique
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- les-etats-unis-d-amerique
+- histoire
+- politique
+- etats-unis
 - demographie
-- migration
-- pays-d-accueil
-- politique-d-immigration
-- histoire-des-etats-unis-d-amerique
-- reve-americain
-- flux-migratoire
-- immigration-aux-etats-unis-d-amerique
-- migration-humaine
+- ameriques
 coverImage: ./images/qimg-758bbad09a165443dfb9aa71b7086a9a.jpg
 ---
 

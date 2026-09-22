@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - informatique
+- emploi
 - entrepreneuriat
-- bricoleur
+- projet
 - carriere
-- idees-de-projets
-- competences
-- emploi-et-carriere
-- bricolage
-- competences-techniques
 coverImage: ./images/quora.png
 ---
 

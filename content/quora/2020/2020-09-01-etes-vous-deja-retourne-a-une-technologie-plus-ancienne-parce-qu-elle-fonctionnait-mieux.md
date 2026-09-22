@@ -9,11 +9,8 @@ tags:
 - experiences-personnelles
 - technologies
 - experience
-- la-vie-quotidienne
-- experiences
+- vie-quotidienne
 - experience-humaine
-- experience-personnelle
-- la-technologie
 coverImage: ./images/quora.png
 ---
 

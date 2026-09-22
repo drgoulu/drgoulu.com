@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- invention
-- decouvertes
-- epistemologie
 - sciences
-- science-et-technologie
-- invention-et-inventions
-- philosophie-des-sciences
+- philosophie
+- technologies
 - decouvertes-scientifiques
+- invention
 coverImage: ./images/qimg-cd9d95d67c6929e4e2c9123dd67a4516.jpg
 ---
 

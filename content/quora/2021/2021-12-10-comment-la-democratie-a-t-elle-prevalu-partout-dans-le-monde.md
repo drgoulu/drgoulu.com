@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- histoire-du-monde
+- histoire
+- politique
+- monde
+- systeme
 - democratie
-- sciences-politiques
-- systeme-de-gouvernement
-- histoire-humaine
-- histoire-et-politique
-- science-politique
-- histoire-de-la-politique
-- histoire-mondiale
 coverImage: ./images/quora.png
 ---
 

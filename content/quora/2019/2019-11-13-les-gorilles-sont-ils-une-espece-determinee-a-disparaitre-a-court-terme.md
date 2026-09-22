@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- nature
 - animaux
+- especes
+- extinction
 - biologie-animale
-- extinction-des-especes
-- gorille
-- primates
-- conservation-de-la-nature
-- zoologie
-- especes-menacees
-- animaux-en-voie-de-disparition
-- conservation-de-la-faune
 coverImage: ./images/quora.png
 ---
 

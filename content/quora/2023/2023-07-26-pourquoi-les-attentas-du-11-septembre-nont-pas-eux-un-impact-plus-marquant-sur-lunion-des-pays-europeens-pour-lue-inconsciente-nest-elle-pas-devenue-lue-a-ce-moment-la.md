@@ -6,14 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
 - relations-internationales
-- union-europeenne
-- terrorisme
-- histoire-de-l-europe
-- les-attentats-du-11-septembre
-- histoire-contemporaine
 - politique-internationale
-- guerre-contre-le-terrorisme
+- europe
 - politique-etrangere
 coverImage: ./images/quora.png
 ---

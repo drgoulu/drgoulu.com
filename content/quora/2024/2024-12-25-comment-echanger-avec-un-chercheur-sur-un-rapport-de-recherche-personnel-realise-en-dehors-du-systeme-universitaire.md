@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - recherche-scientifique
-- partage-des-connaissances
 - recherche
-- contacter-des-scientifiques
-- communication-scientifique
-- recherche-independante
-- etudes-de-recherche
-- recherche-academique
+- etudes
+- connaissances
 - travail-scientifique
-- recherche-universitaire
 coverImage: ./images/quora.png
 ---
 

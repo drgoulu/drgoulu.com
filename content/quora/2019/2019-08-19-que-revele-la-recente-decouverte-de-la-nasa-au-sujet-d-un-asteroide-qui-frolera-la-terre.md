@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- risques-naturels
+- terre
+- planetes
 - exploration-spatiale
-- terre-planete
-- nasa
-- collisions-d-asteroides
-- decouvertes-scientifiques
 - science-spatiale
-- asteroides
-- missions-spatiales
 coverImage: ./images/quora.png
 ---
 

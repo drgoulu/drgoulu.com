@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- france
 - politique
-- tueries-de-masse-aux-etats-unis
-- les-etats-unis-d-amerique
-- comparaisons
+- france
 - securite
-- elections-presidentielles
-- fusillades-de-masse
-- violence-armee-aux-etats-unis
-- insecurite
+- etats-unis
+- comparaisons
 coverImage: ./images/quora.png
 ---
 

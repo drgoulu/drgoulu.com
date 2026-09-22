@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
+- planetes
 - exploration-spatiale
-- surface
-- mars-planete
-- satellites
-- exploration-de-mars
-- sonde-spatiale
 - science-spatiale
-- missions-spatiales
+- mars
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- systeme-d-exploitation
+- systeme
+- exploitation
 - linux
-- terminal
-- android-systeme-d-exploitation
-- systemes-d-exploitation
 - noyau-linux
-- debian-gnu-linux
-- linux-mint-systeme-d-exploitation
-- terminal-linux
 - ubuntu-systeme-d-exploitation
 coverImage: ./images/quora.png
 ---

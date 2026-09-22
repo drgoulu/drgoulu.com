@@ -8,12 +8,8 @@ categories:
 tags:
 - physique
 - gaz
-- azote
 - co2
-- nitrogene
-- spectroscopie-infrarouge
 - chimie
-- dioxygene
 - spectroscopie
 coverImage: ./images/qimg-f1484309c68d335566ef5d223364ee75.jpg
 ---

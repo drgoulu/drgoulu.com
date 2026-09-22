@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- recherche-scientifique
 - sante-publique
 - covid-19-2019-2020
-- recherche-scientifique
-- brevets
-- pandemie
-- vaccins
 - propriete-intellectuelle
-- ethique-medicale
-- acces-aux-soins
+- brevets
 coverImage: ./images/qimg-bb06857e10b6faac7e52ffefc987dea1.jpg
 ---
 

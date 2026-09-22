@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
+- theorie
 - vitesse
-- electromagnetisme
-- electrons
 - electricite
-- physics
-- vitesse-physique
-- electronique-physique
-- theorie-de-l-electromagnetisme
 coverImage: ./images/quora.png
 ---
 

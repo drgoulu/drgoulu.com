@@ -7,13 +7,9 @@ categories:
 - Comment
 tags:
 - sciences
+- environnement
 - energie-nucleaire
-- l-environnement
-- stockage-de-l-electricite
-- materiaux-radioactifs
-- dechets-nucleaires
 - radioactivite
-- chimie-nucleaire
 - technologie-nucleaire
 coverImage: ./images/quora.png
 ---

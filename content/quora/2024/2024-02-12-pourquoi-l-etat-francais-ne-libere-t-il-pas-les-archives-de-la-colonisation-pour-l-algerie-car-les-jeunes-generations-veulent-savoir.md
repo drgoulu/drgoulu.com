@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- algerie
-- transparence-politique
+- politique
 - acces-a-l-information
 - memoire
 - colonisation
-- jeunes-generations
-- archives-et-archivage
-- histoire-de-l-algerie
 coverImage: ./images/quora.png
 ---
 

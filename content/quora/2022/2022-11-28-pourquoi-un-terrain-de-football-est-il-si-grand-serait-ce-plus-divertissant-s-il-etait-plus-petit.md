@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sports
-- football-ballon
-- terrains-de-sport
+- sport
+- terrain
 - match-de-football
-- divertissement-sportif
-- sports-football
+- sport-football
 - football-sport
-- football-lois-du-jeu
-- terrain-de-foot
 coverImage: ./images/quora.png
 ---
 

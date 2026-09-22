@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - relations-internationales
 - russie
-- vladimir-poutine
-- occident
-- conflits-geopolitiques
-- histoire-de-la-russie
 - geopolitique
-- conflits-internationaux
-- poutine
-- diplomatie-et-relation-internationale
+- vladimir-poutine
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- evolution
 - biologie
-- evolution-processus
-- genetique
-- sciences-de-la-vie
-- theorie-de-l-evolution
-- mutation-et-mutations-genetique
-- evolution-biologique-des-especes
-- evolution-biologie
-- sciences-du-vivant
-- mutation-genetique
+- theorie
+- vie
 coverImage: ./images/quora.png
 ---
 

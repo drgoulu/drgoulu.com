@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- psychologie
-- couples
-- relations-romantiques
-- comportement-humain
-- reproduction
-- theorie-de-l-evolution
-- vie-de-couple
+- evolution
 - biologie
-- la-reproduction-humaine
-- biologie-humaine
+- theorie
+- vie
+- psychologie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- survivre
-- travail-physique
-- accident
-- systeme-de-refroidissement
-- securite-du-lieu-de-travail
+- physique
+- sante
+- systeme
+- travail
 - centrales-nucleaires
-- ouvriers
-- travailleur
-- accident-industriel
-- sante-du-travail
 coverImage: ./images/qimg-1c73ebfeb266619a63cdfaf471760f55.png
 ---
 

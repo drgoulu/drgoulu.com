@@ -8,12 +8,9 @@ categories:
 tags:
 - personnalites
 - croyance
-- derren-brown-mentaliste-anglais
 - scepticisme-scientifique
 - magie-illusion
-- mentalistes
 - scepticisme
-- mentalisme
 coverImage: ./images/quora.png
 ---
 

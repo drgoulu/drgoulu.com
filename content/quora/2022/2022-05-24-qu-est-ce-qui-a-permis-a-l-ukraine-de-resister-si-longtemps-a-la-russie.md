@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- guerre
 - russie
-- histoire-militaire
+- conflits
 - ukraine
-- invasion-russe-de-l-ukraine-fevrier-2022
-- conflits-internationaux
-- forces-armees-ukrainiennes
-- guerres-et-histoire-militaire
-- guerre-russie-ukraine
-- conflit-en-ukraine
-- federation-de-russie
+- histoire-militaire
 coverImage: ./images/quora.png
 ---
 

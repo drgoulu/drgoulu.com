@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - ingenierie
+- mecanique
 - mesure
-- aeronautique
-- force-de-trainee-physique
-- test-automatise
-- mecanique-des-fluides
-- profil-aerodynamique
-- mesures-physiques
 - aerodynamique
-- portance-aerodynamique
+- fluides
 coverImage: ./images/qimg-7f20dd71934e13803445da32e752ead7.jpg
 ---
 

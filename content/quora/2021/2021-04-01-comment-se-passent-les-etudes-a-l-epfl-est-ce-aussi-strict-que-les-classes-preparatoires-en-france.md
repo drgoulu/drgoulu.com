@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- systeme
 - education
-- epfl
-- ecole-polytechnique-federale-de-lausanne
-- comparaisons-des-systemes-d-education
-- systeme-educatif-suisse
-- universites
+- comparaisons
 - enseignement-superieur
-- systeme-educatif
-- systeme-educatif-francais
+- ecole-polytechnique-federale-de-lausanne
 coverImage: ./images/quora.png
 ---
 

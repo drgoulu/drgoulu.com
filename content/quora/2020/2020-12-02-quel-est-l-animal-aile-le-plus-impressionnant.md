@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- nature
 - animaux
 - biologie-animale
-- la-nature
+- observation
 - faune
-- science-nature
-- observation-des-oiseaux
-- zoologie
-- oiseaux-volants
-- oiseaux
-- identification-des-oiseaux
 coverImage: ./images/quora.png
 ---
 

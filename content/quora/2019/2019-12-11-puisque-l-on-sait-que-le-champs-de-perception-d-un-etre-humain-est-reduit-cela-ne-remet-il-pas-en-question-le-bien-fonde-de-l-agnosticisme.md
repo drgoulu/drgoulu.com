@@ -8,14 +8,9 @@ categories:
 tags:
 - philosophie
 - perception
-- scepticisme
+- conscience
 - realite
 - epistemologie
-- conscience
-- etre-humain
-- cognition
-- agnosticisme
-- validite
 coverImage: ./images/quora.png
 ---
 

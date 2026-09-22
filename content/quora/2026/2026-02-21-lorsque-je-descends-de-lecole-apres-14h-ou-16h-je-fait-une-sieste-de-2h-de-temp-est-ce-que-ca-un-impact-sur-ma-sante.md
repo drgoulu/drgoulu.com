@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- vie
 - sante
-- sommeil
-- sieste
-- rythme-circadien
-- problemes-de-sommeil
-- bien-etre
-- hygiene-de-vie
-- science-du-sommeil
-- duree-du-sommeil
-- troubles-du-sommeil
+- probleme
+- duree
 coverImage: ./images/quora.png
 ---
 

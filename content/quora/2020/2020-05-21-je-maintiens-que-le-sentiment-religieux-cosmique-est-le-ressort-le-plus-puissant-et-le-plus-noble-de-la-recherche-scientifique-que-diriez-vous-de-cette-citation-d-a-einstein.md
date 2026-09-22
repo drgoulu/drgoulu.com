@@ -6,7 +6,7 @@ tags:
   - philosophie
   - religion
   - einstein
-  - citation
+  - citations
 categories:
   - Quora
 slug: je-maintiens-que-le-sentiment-religieux-cosmique-est-le-ressort-le-plus-puissant-et-le-plus-noble-de-la-recherche-scientifique-que-diriez-vous-de-cette-citation-d-a-einstein

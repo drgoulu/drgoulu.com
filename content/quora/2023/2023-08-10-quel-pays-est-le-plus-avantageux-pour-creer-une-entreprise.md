@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- investissement
+- environnement
+- creation
+- entreprises
 - pays
-- entrepreneuriat
-- environnement-de-travail
-- reglementation
-- marches
-- demarrage-d-une-entreprise
-- fiscalite
-- creation-d-entreprise
-- l-entrepreneuriat
+- travail
 coverImage: ./images/quora.png
 ---
 

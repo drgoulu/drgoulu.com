@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- terre-planete
-- visibilite
+- terre
+- planetes
 - systeme-solaire
-- objets-astronomiques
-- jupiter-planete
-- planetes-astronomie
 - planete-terre
-- le-systeme-solaire
 coverImage: ./images/qimg-bce80c26a44bc37545eb75b614a108d2.jpg
 ---
 

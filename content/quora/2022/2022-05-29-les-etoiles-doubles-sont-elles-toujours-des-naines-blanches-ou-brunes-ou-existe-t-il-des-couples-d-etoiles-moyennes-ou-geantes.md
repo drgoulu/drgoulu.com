@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- classification-binaire
-- naine-blanche-corps-stellaire
-- geantes-gazeuses
-- types-d-etoiles
 - evolution-stellaire
 - astrophysique
 - etoiles-corps-celestes
 - physique-stellaire
-- astronomie-et-astrophysique
 coverImage: ./images/quora.png
 ---
 

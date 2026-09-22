@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
 - philosophie
-- regression
-- developpement-intellectuel
-- histoire-des-humains
-- anthropologie-societe
-- intelligence-humaine
+- humanite
 - evolution-humaine
 - anthropologie
-- histoire-de-l-humanite
 coverImage: ./images/qimg-df8512b798d26847f7896166e0dddf5e.jpg
 ---
 

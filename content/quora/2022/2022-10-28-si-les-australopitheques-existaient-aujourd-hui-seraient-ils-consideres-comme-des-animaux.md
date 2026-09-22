@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- question-philosophique
+- evolution
 - animaux
 - anthropologie
-- australopitheques
-- evolution
-- etres-vivants
 - question-hypothetique
-- philosophique
-- humains
 - paleontologie
 coverImage: ./images/quora.png
 ---

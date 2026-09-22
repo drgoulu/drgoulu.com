@@ -9,12 +9,8 @@ tags:
 - france
 - energie-nucleaire
 - ressources-naturelles
-- uranium
-- niger
-- mali
-- centrales-electriques
 - sources-d-energie
-- les-centrales-nucleaires
+- centrales-nucleaires
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- debat
+- sciences
+- histoire
 - mathematiques
-- isaac-newton
-- histoire-des-sciences
-- equations-differentielles
-- calcul-infinitesimal
 - decouvertes-scientifiques
-- histoire-des-mathematiques
-- calcul-integral
 coverImage: ./images/quora.png
 ---
 

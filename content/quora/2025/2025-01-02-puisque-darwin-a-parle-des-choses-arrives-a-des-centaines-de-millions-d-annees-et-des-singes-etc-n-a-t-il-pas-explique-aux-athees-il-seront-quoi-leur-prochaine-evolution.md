@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - evolution
-- primates
-- atheisme
-- charles-darwin
-- evolution-processus
+- biologie
+- theorie
+- processus
 - evolution-humaine
-- darwinisme
-- evolution-biologie
-- theorie-de-l-evolution
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- science-fiction-genre
-- voyage-dans-le-temps
-- paradoxes
-- hypotheses-scientifiques
-- theorie-de-la-relativite
-- relativite-physique
-- paradoxes-philosophiques
-- theorie-du-temps
+- theorie
+- relativite
+- temps
+- voyage
 coverImage: ./images/quora.png
 ---
 

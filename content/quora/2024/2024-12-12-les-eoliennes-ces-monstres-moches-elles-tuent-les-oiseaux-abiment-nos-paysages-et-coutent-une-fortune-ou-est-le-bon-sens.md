@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- opinion-publique
-- oiseaux
-- cout
-- energie-renouvelable
-- paysage
 - environnement
-- eoliennes
-- debats
-- debats-de-societe
-- image-publique
+- societe
+- energie-renouvelable
+- opinion-publique
+- debat
 coverImage: ./images/qimg-7ebe7cfbf3df448877cc704ddbd8df50.jpg
 ---
 

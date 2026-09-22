@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie
-- anthropologie
-- genetique
-- sciences-de-la-nature
-- evolution-humaine
-- biologie-humaine
-- histoire-de-la-biologie-de-l-evolution
-- sciences-de-la-vie
+- sciences
+- histoire
 - evolution
-- histoire-de-la-biologie
+- biologie
+- vie
 coverImage: ./images/qimg-12953fe9d7d701ffa15f2c7f370aa519.jpg
 ---
 

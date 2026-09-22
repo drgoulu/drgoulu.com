@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie
-- anthropologie
-- mode-de-vie
-- selection-naturelle
-- evolution-humaine
-- sciences-de-la-nature
-- biologie-humaine
-- sciences-de-la-vie
+- sciences
 - evolution
-- les-humains-en-evolution
+- biologie
+- vie
+- nature
 coverImage: ./images/quora.png
 ---
 

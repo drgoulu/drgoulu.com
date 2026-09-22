@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- strategie
-- jeux-de-hasard
-- methodes-de-travail
-- casinos-en-ligne
-- roulette
-- strategies-de-jeu
-- jeux-de-casino
-- jeu-d-argent
-- conseils-de-jeux-de-casino
-- jeux-de-table-de-casino
+- jeux
+- travail
+- methodes
+- argent
+- hasard
 coverImage: ./images/quora.png
 ---
 

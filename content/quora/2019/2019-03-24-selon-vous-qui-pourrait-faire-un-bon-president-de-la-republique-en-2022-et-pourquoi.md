@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- france
 - politique
-- election-presidentielle-francaise-2022
-- questions-d-opinion
-- candidat-a-la-presidence
+- france
+- opinion
+- questions
 - sondages
-- president-de-la-republique
-- electeur
-- elections-presidentielles
-- sondage-statistique
 coverImage: ./images/quora.png
 ---
 

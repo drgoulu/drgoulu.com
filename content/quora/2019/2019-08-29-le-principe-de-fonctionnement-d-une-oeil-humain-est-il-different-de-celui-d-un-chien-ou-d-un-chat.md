@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- physiologie-humaine
-- chats
-- comparaison
+- comparaisons
 - vision
-- chiens
-- anatomie
-- anatomie-humaine
-- physiologie
+- physiologie-humaine
 - anatomie-animale
-- physiologie-animale
+- anatomie-humaine
 coverImage: ./images/qimg-7f254a24afa6391db2f1fa7943560e1a.jpg
 ---
 

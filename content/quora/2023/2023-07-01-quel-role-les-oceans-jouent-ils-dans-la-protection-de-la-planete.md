@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- changement-climatique
-- l-environnement
-- ecologie
-- ressources-naturelles
-- oceans
 - environnement
+- changement-climatique
+- ecologie
 - biodiversite
-- oceanographie
-- protection-de-l-environnement
-- preservation-de-l-environnement
+- ressources-naturelles
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- politique-francaise
+- politique
+- opinion
+- questions
 - opinion-publique
-- front-national
-- sondage-statistique
-- groupes-de-personnes
-- questions-d-opinion
-- electorat
-- rassemblement-national
-- opinion-politique
-- partis-politiques-francais
+- personne
 coverImage: ./images/quora.png
 ---
 

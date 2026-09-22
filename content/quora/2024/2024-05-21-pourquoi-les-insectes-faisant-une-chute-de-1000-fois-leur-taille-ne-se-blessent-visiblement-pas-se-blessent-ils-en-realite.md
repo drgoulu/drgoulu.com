@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- blessures
-- chute
-- anatomie-animale
+- sciences
 - biologie
-- resistance-physique
-- sciences-des-animaux
-- anatomie
-- physique-et-biologie
+- animaux
+- anatomie-animale
 coverImage: ./images/qimg-51445c26daa395807692e42cba192737.jpg
 ---
 

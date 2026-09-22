@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie-humaine
-- primates
-- anthropologie
+- sciences
 - evolution
-- sciences-de-la-vie
-- paleontologie
-- homo-sapiens
-- origines-humaines
+- vie
 - evolution-humaine
-- paleoanthropologie
+- biologie-humaine
 coverImage: ./images/quora.png
 ---
 

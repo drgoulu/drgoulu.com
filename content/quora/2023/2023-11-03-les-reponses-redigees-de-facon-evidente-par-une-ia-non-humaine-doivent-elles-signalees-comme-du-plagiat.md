@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- internet
+- ethique
 - intelligence-artificielle
 - quora
 - contenu
-- plagiat
-- plateforme
-- politiques-et-recommandations-de-quora
-- ethique-de-l-internet
-- detection-de-plagiat
-- utilisateurs-de-quora
 coverImage: ./images/quora.png
 ---
 

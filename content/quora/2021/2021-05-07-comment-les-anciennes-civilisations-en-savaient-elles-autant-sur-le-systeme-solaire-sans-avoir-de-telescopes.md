@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - astronomie
-- histoire-des-sciences
-- les-telescopes
+- histoire
 - systeme-solaire
-- civilisations-anciennes
-- observation-des-astres
-- connaissances-scientifiques
-- histoire-de-l-astronomie
-- sciences-anciennes
+- observation
 coverImage: ./images/quora.png
 ---
 

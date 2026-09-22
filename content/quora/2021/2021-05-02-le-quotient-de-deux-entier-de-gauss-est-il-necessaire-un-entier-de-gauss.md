@@ -8,12 +8,9 @@ categories:
 tags:
 - mathematiques
 - nombres
-- division-mathematiques
-- nombres-complexes
 - arithmetique
-- sciences-mathematiques
+- sciences
 - post
-- mathematiques-et-sciences
 coverImage: ./images/qimg-87822c643d4b745619e5790c00c6627d.jpg
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - religion
+- croyance
+- existence
 - foi
 - theologie
-- recompenses
-- dieu-tout-puissant
-- foi-en-dieu
-- religion-et-croyance
-- l-existence-de-dieu
-- la-foi
-- croyance-en-dieu
 coverImage: ./images/quora.png
 ---
 

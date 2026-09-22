@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- neant
-- question-existentielle
-- creation
-- expansion-de-l-univers
+- univers
 - cosmologie
-- existence
-- origine-de-l-univers
-- philosophie-des-sciences
+- origines
 coverImage: ./images/quora.png
 ---
 

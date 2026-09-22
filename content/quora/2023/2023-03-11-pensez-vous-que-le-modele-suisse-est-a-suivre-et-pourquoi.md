@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - politique
-- pays
 - suisse
-- comparaison-entre-pays-europeens
-- systeme-gouvernemental
-- sciences-politiques
-- politique-comparative
-- systeme-de-gouvernement
+- systeme
+- pays
+- gouvernement
 coverImage: ./images/quora.png
 ---
 

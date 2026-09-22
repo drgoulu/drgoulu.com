@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - richesse
-- elon-musk
 - achat
-- tesla-motors-compagnie
+- elon-musk
 - milliardaires
-- personnes-riches
-- tesla-produits
-- achats-affaires
-- les-plus-riches
-- milliard
+- tesla-motors-compagnie
 coverImage: ./images/qimg-cee0fa9118fc8472ab95b5c3a9259e43.jpg
 ---
 

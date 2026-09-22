@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - biologie
-- mot
-- animal
-- definition
-- semantique
-- zoologie
+- animaux
 - biologie-animale
-- science-biologique
-- definition-scientifique
-- definitions
+- zoologie
+- definition
 coverImage: ./images/quora.png
 ---
 

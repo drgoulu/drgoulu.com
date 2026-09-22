@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- terre-planete
-- feu
-- matiere
-- chimie
-- physique-et-chimie
-- planete-terre
-- matiere-physique
-- chimie-et-biologie
+- biologie
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

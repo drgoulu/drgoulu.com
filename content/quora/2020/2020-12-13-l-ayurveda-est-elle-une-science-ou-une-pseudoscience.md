@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- medecine-holistique
-- ayurveda
-- philosophie-des-sciences
+- philosophie
 - pseudoscience
 - medecine-non-conventionnelle
-- medecine-moderne
 - medecine-traditionnelle
-- sante-holistique
 coverImage: ./images/quora.png
 ---
 

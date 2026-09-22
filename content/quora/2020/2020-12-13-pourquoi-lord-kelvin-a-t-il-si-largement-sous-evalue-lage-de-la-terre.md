@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- personnalites
-- histoire-des-sciences
-- l-age-de-la-terre
+- sciences
+- histoire
+- terre
 - geologie
-- science-de-la-terre
-- histoire-de-la-terre
-- histoire-de-la-physique
 coverImage: ./images/quora.png
 ---
 

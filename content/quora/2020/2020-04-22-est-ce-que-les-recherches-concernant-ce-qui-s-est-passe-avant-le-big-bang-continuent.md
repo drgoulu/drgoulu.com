@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- recherche-scientifique
+- univers
 - cosmologie
-- physique-theorique
-- origine-de-l-univers
 - theorie
-- cosmologie-du-big-bang
-- etude-scientifique
-- theorie-scientifique
-- recherche-academique
+- physique-theorique
+- recherche-scientifique
 coverImage: ./images/quora.png
 ---
 

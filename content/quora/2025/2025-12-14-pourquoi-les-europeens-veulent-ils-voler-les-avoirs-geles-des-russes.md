@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- guerre
 - russie
-- union-europeenne
-- fonds-geles
-- affaires-internationales
 - proprietes
-- guerre-en-ukraine
-- sanctions-economiques
-- politique-europeenne
-- russe
-- propriete-privee
+- ukraine
+- union-europeenne
 coverImage: ./images/quora.png
 ---
 

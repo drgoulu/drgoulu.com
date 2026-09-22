@@ -9,12 +9,8 @@ tags:
 - astronomie
 - espace
 - exploration-spatiale
-- physique-des-rayonnements
-- photographie
-- lune-astronomie
-- images-spatiales
-- voyage-spatial
 - science-spatiale
+- lune
 coverImage: ./images/qimg-0b90fed6b59fb5426f5232c2a617966a.jpg
 ---
 

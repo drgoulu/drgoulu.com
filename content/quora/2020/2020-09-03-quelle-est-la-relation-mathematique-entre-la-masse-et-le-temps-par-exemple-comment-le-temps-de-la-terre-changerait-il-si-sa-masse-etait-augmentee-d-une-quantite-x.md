@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- terre-planete
 - astronomie
-- gravite
-- temps-physique
-- relativite-generale
 - astrophysique
-- masse-physique
+- terre
 - physique-theorique
-- relativite-physique
 coverImage: ./images/quora.png
 ---
 

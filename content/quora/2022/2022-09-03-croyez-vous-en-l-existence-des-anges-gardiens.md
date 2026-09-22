@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-existentielle
+- religion
+- opinion
 - croyance
-- spiritualite
-- question-personnelle
-- anges-gardiens
-- opinions-et-croyances
-- existence
-- systemes-de-croyance
-- croyances-personnelles
-- religion-et-spiritualite
+- systeme
+- question-existentielle
 coverImage: ./images/quora.png
 ---
 

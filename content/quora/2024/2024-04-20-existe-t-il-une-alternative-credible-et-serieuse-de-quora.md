@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- reseaux-sociaux
-- quora
 - internet
+- quora
+- reseaux-sociaux
 - questions-reponses
-- plateformes-en-ligne
-- communautes-en-ligne
-- sites-internet-de-questions-reponses
-- plateformes-de-medias-sociaux
-- reseau-social
-- reseaux-sociaux-en-ligne
+- sites-internet
 coverImage: ./images/quora.png
 ---
 

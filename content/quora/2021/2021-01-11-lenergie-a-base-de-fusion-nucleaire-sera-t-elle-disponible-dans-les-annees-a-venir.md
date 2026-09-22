@@ -7,12 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- nouvelles-technologies
 - sciences
-- energie-nucleaire
-- science-et-technologie
 - energie
-- technologie-du-futur
+- technologies
+- energie-nucleaire
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
 - changement-climatique
-- l-environnement
-- predictions
-- catastrophes-naturelles
 - rechauffement-climatique
-- dangers-naturels
+- catastrophes-naturelles
 - crise-climatique
-- catastrophe-climatique
-- catastrophes-environnementales
-- le-changement-climatique
 coverImage: ./images/qimg-36ccba39978cfc04dc8779c504043b89.jpg
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- consommation
 - environnement
-- plastique
-- emballage-et-contenant
-- recyclage-du-plastique
+- consommation
+- recyclage
 - consommateur
-- emballage
-- pollution-plastique
+- plastique
 coverImage: ./images/qimg-cf8bf62570244f74d69043734411d76d.jpg
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- quarks
-- l-univers
-- mecanique-quantique
-- frequence
-- structure-atomique
-- atomes
-- particules
-- frequence-physique
+- univers
 - physique-quantique
+- atomes
+- mecanique-quantique
 coverImage: ./images/quora.png
 ---
 

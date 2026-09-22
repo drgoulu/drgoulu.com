@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - mathematiques
-- identite-d-euler
-- sens-des-mots
-- nombres-irrationnels
-- comprehension-des-mathematiques
+- realite
 - equations
-- sens-des-realites
-- equations-mathematiques
+- comprehension
 - post
 coverImage: ./images/qimg-6dacff376df2ed7cc4ce01607f900b24.png
 ---

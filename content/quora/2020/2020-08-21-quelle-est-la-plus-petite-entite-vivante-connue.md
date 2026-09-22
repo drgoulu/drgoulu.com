@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - biologie
-- la-vie
+- vie
 - etres-vivants
-- micro-organismes
 - vie-biologique
-- cellules-biologie
-- organismes
-- biologie-cellulaire
-- micro-biologie
 coverImage: ./images/quora.png
 ---
 

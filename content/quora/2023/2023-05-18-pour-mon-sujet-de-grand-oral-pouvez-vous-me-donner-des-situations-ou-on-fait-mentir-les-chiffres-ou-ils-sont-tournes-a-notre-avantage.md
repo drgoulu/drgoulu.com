@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - communication
-- mensonges-et-mentir
 - statistiques
-- manipulation-de-masse
-- grand-oral
-- argument-et-argumentation
-- art-du-mensonge
+- art
 - manipulation
-- presentation-orale
 - donnees
 coverImage: ./images/quora.png
 ---

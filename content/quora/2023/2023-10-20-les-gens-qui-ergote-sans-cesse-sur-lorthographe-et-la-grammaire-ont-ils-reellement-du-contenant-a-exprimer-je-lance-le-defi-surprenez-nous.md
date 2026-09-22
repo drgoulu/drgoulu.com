@@ -10,12 +10,7 @@ tags:
 - contenu
 - linguistique
 - defis
-- expression-ecrite
-- orthographe
-- grammaire-francaise
-- la-langue-francaise
 - linguistique-francaise
-- grammaire
 coverImage: ./images/quora.png
 ---
 

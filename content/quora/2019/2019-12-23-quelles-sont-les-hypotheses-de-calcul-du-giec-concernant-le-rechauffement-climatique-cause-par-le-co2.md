@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- recherche-scientifique
 - changement-climatique
-- hypotheses
-- sciences-de-l-atmosphere
-- recherches-scientifiques
-- emissions-de-carbone
-- modeles-climatiques
 - rechauffement-climatique
-- le-rechauffement-climatique
-- sciences-du-climat
+- atmosphere
 coverImage: ./images/qimg-46f5dc3117a03f9a8b40ad3cb47ccb70.jpg
 ---
 

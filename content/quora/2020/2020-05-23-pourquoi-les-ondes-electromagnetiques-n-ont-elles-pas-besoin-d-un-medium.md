@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- spectre-electromagnetique
-- propagation
-- les-ondes
-- ondes-electromagnetiques
-- diffusion-des-ondes
-- champ-electromagnetique
-- forces-electromagnetiques
 - champs-electromagnetiques
+- spectre-electromagnetique
+- forces-electromagnetiques
+- ondes
 coverImage: ./images/quora.png
 ---
 

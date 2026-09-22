@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - relations-internationales
+- guerre
 - russie
-- vladimir-poutine
-- otan
-- conflit-en-ukraine
-- securite-nationale
-- geopolitique
-- pologne
-- securite-internationale
-- guerre-en-ukraine
+- conflits
+- ukraine
 coverImage: ./images/quora.png
 ---
 

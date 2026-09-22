@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
 - sciences
-- le-soleil
-- elimination-des-dechets
-- l-environnement
+- environnement
+- soleil
 - pollution
-- dechets
-- recyclage
-- science-physique
-- traitement-des-dechets
 coverImage: ./images/quora.png
 ---
 

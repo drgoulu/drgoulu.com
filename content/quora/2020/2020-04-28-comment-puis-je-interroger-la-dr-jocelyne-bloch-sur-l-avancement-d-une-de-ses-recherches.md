@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- recherche-scientifique
+- recherche
 - medecine
 - personne
-- contacter-des-scientifiques
-- recherche-scientifique
-- personne-reelle
-- communication-scientifique
 - recherche-medicale
-- recherche
-- recherche-universitaire
-- medecin
 coverImage: ./images/quora.png
 ---
 

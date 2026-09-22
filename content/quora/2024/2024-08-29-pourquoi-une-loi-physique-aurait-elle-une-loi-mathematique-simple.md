@@ -9,13 +9,8 @@ tags:
 - philosophie
 - mathematiques
 - physique
-- lois-de-la-physique
-- la-philosophie-des-sciences
-- philosophie-des-mathematiques
-- mathematiques-et-sciences
-- philosophie-des-sciences
-- philosophie-de-la-physique
-- mathematique-et-philosophie
+- loi
+- sciences
 coverImage: ./images/quora.png
 ---
 

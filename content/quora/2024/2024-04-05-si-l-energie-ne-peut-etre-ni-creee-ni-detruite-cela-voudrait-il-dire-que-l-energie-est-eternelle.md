@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- concept-academique
-- l-eternite
-- lois-de-la-thermodynamique
-- definition-scientifique
-- energie-physique
+- sciences
+- energie
 - theorie-scientifique
-- science-physique
-- concept-philosophique
-- lois-de-la-physique
+- loi
 coverImage: ./images/quora.png
 ---
 

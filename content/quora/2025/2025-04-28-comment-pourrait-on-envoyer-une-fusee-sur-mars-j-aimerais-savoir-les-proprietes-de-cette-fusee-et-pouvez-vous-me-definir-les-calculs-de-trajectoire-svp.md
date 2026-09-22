@@ -6,15 +6,10 @@ draft: false
 categories:
 - Comment
 tags:
+- planetes
 - exploration-spatiale
-- fusees
-- mars-planete
-- trajectoire
-- ingenierie-aeronautique
 - science-spatiale
-- vaisseau-spatial
-- voyage-spatial-vers-mars
-- fusee-astronautique
+- mars
 - missions-spatiales
 coverImage: ./images/qimg-40cbb32e3f273d510dccbeeed977aba6.jpg
 ---

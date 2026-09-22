@@ -7,12 +7,9 @@ categories:
 - Quora
 tags:
 - philosophie
-- le-bien-le-mal
 - comportement-animal
-- valeurs-morales
 - cognition
 - intelligence-animale
-- bien-vs-mal
 - psychologie-animale
 coverImage: ./images/quora.png
 ---

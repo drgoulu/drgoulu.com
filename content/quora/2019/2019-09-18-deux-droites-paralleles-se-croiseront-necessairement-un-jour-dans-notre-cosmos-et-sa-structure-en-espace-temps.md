@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - mathematiques
-- cosmos
-- univers-paralleles
-- espace-temps
-- theorie-de-la-relativite
+- theorie
+- relativite
 - geometrie
-- relativite-physique
-- dimensions-paralleles
-- mondes-paralleles
 coverImage: ./images/quora.png
 ---
 

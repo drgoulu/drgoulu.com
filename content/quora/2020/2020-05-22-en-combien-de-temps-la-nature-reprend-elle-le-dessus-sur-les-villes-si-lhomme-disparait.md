@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- ecologie
-- ville
+- sciences
+- planetes
+- environnement
 - nature
-- sciences-de-la-nature
-- avenir-de-l-humanite
-- resilience
-- urbanisme
-- interaction-homme-environnement
-- influence-de-l-homme-sur-la-planete
-- sciences-de-l-environnement
+- humanite
 coverImage: ./images/quora.png
 ---
 

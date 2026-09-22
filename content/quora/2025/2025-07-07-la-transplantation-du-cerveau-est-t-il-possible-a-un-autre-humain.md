@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- medecine
 - sciences
-- corps-humains
 - biologie
-- transplantation-d-organe
-- neurologie
-- recherche-medicale
+- medecine
 - biologie-humaine
-- sciences-medicales
-- neurobiologie
+- corps-humains
 coverImage: ./images/quora.png
 ---
 

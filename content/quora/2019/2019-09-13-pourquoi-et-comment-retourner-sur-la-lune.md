@@ -7,16 +7,11 @@ categories:
 - Pourquoi
 - Comment
 tags:
+- astronomie
 - recherche-scientifique
-- lune-satellite-naturel
+- espace
 - exploration-spatiale
-- voyage-dans-l-espace
-- programme-spatial-americain
 - science-spatiale
-- lune-astronomie
-- conquete-spatiale
-- missions-spatiales
-- programmes-spatiaux
 coverImage: ./images/quora.png
 ---
 

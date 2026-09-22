@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- psychologie
-- l-inconnu
-- debats-de-societe
-- risque
-- humanitarisme
-- l-ethique
 - philosophie
-- prise-de-risque
-- heroisme
-- altruisme
+- societe
+- psychologie
+- risques
+- ethique
 coverImage: ./images/quora.png
 ---
 

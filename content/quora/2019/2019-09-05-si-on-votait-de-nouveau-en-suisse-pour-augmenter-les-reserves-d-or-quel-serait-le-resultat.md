@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- opinion-publique
-- franc-suisse
-- sondages
-- reserves-d-or
-- politique-de-la-suisse
-- referendum
-- opinion-politique
+- politique
 - suisse
-- sondage-politique
-- democratie-en-suisse
+- opinion
+- opinion-publique
+- democratie
 coverImage: ./images/quora.png
 ---
 

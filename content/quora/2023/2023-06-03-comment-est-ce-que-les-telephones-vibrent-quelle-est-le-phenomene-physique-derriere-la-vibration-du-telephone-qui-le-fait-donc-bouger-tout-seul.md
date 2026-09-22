@@ -7,13 +7,9 @@ categories:
 - Comment
 tags:
 - physique
-- science-et-technologie
-- vibrations-positives
-- telephones
-- electronique-physique
-- phenomene
-- vibrations-physique
-- mecanique-physique
+- sciences
+- technologies
+- mecanique
 - phenomenes-physiques
 coverImage: ./images/qimg-404c40140073607aeef0e280d08f9506.jpg
 ---

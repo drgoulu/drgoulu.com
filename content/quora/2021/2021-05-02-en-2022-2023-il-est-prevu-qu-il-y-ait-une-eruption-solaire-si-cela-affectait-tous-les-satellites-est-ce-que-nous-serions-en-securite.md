@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- securite
-- communications-satellites
-- catastrophes-naturelles
 - science-spatiale
-- activite-solaire
-- risques-naturels
-- satellites
-- eruptions-solaires
-- securite-nationale
+- securite
 - technologie-spatiale
+- catastrophes-naturelles
+- satellites
 coverImage: ./images/quora.png
 ---
 

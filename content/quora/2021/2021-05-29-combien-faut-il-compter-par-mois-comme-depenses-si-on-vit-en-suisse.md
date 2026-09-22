@@ -6,14 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- finance
-- cout-de-la-vie-en-suisse
-- pays
+- vie
 - suisse
-- depenses
-- niveau-de-vie
-- budget
-- finances
+- pays
+- finance
+- cout
 coverImage: ./images/quora.png
 ---
 

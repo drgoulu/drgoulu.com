@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - philosophie
-- giordano-bruno-philosophe
-- univers-infini
-- galilee
-- histoire-des-sciences
-- inertie
+- histoire
+- sciences
 - physique
 - astronomie
-- philosophie-des-sciences
-- histoire-de-la-physique
 coverImage: ./images/quora.png
 ---
 

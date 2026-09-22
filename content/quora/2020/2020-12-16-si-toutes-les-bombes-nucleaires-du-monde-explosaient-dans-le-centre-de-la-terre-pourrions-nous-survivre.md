@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
+- sciences
+- terre
+- planetes
 - question-hypothetique
-- catastrophes-nucleaires
-- terre-planete
-- fin-du-monde
-- bombe-nucleaire
-- hypotheses
-- science-physique
-- explosions-nucleaires
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- langages-de-programmation
+- langage
+- programmation
 - developpement-logiciel
-- indentation-typographie
-- code-de-piratage
-- ingenieurs-en-informatique
 - python-langage-de-programmation
-- programmateurs
 - ingenierie-logicielle
-- ingenieurs-logiciel
 coverImage: ./images/quora.png
 ---
 

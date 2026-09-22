@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- experience
-- lune-astronomie
-- recherche-scientifique
-- trous-noirs
 - astronomie
-- gravitation
 - astrophysique
 - relativite
-- science-experimentale
+- recherche-scientifique
 coverImage: ./images/quora.png
 ---
 

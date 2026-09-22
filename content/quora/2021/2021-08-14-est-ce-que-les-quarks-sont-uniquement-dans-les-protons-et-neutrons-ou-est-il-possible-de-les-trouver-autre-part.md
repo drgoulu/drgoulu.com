@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- matiere
 - physique-quantique
 - atomes
-- matiere
-- modele-standard-de-la-physique-des-particules
-- leptons
 - particules
-- quarks
-- protons
-- neutrons
+- modele-standard-de-la-physique-des-particules
 coverImage: ./images/qimg-e9575413916083afff28f5a2bfffafb2.jpg
 ---
 

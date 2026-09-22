@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- aliments
-- substances-chimiques
-- alimentation-et-nutrition
-- risques-pour-la-sante
+- risques
+- alimentation
+- effet
 - nutrition
-- allergies-alimentaires
-- nutrition-humaine
-- effets-sur-la-sante
-- sante-et-nutrition
 coverImage: ./images/quora.png
 ---
 

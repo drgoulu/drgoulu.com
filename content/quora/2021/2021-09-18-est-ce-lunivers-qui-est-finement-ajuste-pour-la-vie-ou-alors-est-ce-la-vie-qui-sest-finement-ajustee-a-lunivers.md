@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- question-existentielle
-- la-vie
-- origine-de-l-univers
+- univers
 - cosmologie
-- l-univers
-- philosophie-de-la-vie
-- philosophie-de-la-cosmologie
-- philosophie-des-sciences
-- origine-de-la-vie
+- vie
 coverImage: ./images/quora.png
 ---
 

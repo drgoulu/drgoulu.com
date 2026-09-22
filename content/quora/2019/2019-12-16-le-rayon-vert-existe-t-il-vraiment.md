@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- effet-optique
-- phenomene
-- la-nature
 - nature
+- phenomenes-physiques
 - optique
 - phenomenes-naturels
-- illusion-d-optique
-- phenomene-physique
-- phenomene-naturel
 coverImage: ./images/qimg-dd19246a0c1ad82f3e97763c69714139.gif
 ---
 

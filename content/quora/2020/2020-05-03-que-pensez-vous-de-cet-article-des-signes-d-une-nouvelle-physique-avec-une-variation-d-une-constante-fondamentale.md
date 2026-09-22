@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - recherche-scientifique
-- constantes-mathematiques
-- modele
-- principes-fondamentaux
 - theories-physiques
-- articles-scientifiques
-- sujet-scientifique
-- actualite-scientifique
 - publications-scientifiques
+- constantes-mathematiques
 coverImage: ./images/quora.png
 ---
 

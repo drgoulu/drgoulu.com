@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- les-etats-unis-d-amerique
+- politique
+- etats-unis
+- ameriques
+- president
 - donald-trump
-- systeme-parlementaire
-- politique-des-etats-unis-d-amerique
-- gouvernement-americain
-- president-des-etats-unis
-- systemes-politiques
-- politique-americaine
-- regime-parlementaire
 coverImage: ./images/quora.png
 ---
 

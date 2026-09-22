@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- pilosite-corps
-- anthropologie
-- cro-magnon-premiers-humains-europeens-modernes
-- biologie-humaine
-- histoire-de-l-humanite
-- origines-humaines
-- prehistoire
+- humanite
 - evolution-humaine
-- anatomie-humaine
+- biologie-humaine
+- anthropologie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- science-des-materiaux-et-ingenierie
+- sciences
+- materiaux
+- ingenierie
 - or
-- valeur-economie
-- diamants
-- pierres-precieuses
-- fabrication-de-bijoux
-- industrie-du-diamant
-- rarete-economique
-- diamant-synthetique
-- metaux-precieux
+- fabrication
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- theorie
 - physique-theorique
-- science-fiction-genre
-- hypotheses
-- voyage-dans-le-temps
-- relativite-physique
-- explications-scientifiques
-- paradoxes
-- hard-science-fiction
-- scenarios-scientifiques-hypothetiques
-- theorie-de-la-relativite
+- relativite
+- temps
 coverImage: ./images/quora.png
 ---
 

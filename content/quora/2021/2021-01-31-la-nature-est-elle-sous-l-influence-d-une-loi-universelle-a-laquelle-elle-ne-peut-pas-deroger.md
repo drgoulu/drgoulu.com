@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- la-nature
-- determinisme
-- lois-universelles
+- physique
 - sciences
-- liberte
-- metaphysique
+- philosophie
 - nature
-- science-physique
-- philosophie-des-sciences
+- metaphysique
 coverImage: ./images/quora.png
 ---
 

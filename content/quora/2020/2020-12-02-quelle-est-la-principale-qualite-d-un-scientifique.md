@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- qualites
-- scientifiques
-- methodes
-- la-methode-scientifique
 - recherche-scientifique
-- philosophie-des-sciences
-- qualites-humaines
-- qualite
+- methodes
+- scientifiques
 coverImage: ./images/quora.png
 ---
 

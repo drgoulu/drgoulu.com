@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- philosophie
 - societe
-- futurologie
-- hypocrisie
-- developpement-technologique
-- valeurs-morales
-- critique-sociale
-- changements-sociaux
 - progres-scientifique
-- philosophie-et-societe
-- valeurs-humaines
+- changements-sociaux
+- developpement-technologique
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- fausse-couche
-- ethnie
-- la-reproduction
-- genetique
-- grossesse
 - biologie
+- sante
 - medecine
 - biologie-humaine
+- genetique
 coverImage: ./images/quora.png
 ---
 

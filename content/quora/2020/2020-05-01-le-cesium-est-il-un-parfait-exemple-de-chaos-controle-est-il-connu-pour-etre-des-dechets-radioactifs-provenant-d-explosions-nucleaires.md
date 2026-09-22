@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- energie-nucleaire
 - chimie
-- substances-radioactives
-- dechets-nucleaires
-- elements-chimiques
+- energie-nucleaire
 - radioactivite
-- explosions-nucleaires
+- elements-chimiques
 coverImage: ./images/quora.png
 ---
 

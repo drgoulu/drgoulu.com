@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- culture-internet
-- nombres-decimaux
-- problemes-mathematiques
-- nombres-mathematiques
+- nombres
+- questions
+- probleme
 - calcul-mathematique
-- solutions-mathematiques
-- enigmes-mathematiques
-- questions-de-mathematiques
-- chiffres-decimaux
 coverImage: ./images/qimg-d65fba6ef779404f4a4eafda7397d6f2.gif
 ---
 

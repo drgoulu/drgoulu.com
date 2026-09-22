@@ -10,9 +10,7 @@ tags:
 - horoscopes-astrologie
 - signes-du-soleil-astrologie
 - astrologue
-- calculs-astrologiques
 - astrologie-solaire
-- signes-lunaires-astrologie
 coverImage: ./images/quora.png
 ---
 

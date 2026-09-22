@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- comportement-animal
-- sens
-- sciences-de-la-vie
+- sciences
+- vie
+- nature
 - biologie-animale
-- couleur
-- sciences-de-la-nature
-- vision-animale
-- psychologie-animale
-- physiologie-animale
-- sciences-du-vivant
+- comportement-animal
 coverImage: ./images/quora.png
 ---
 

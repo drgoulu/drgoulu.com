@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- intelligence-artificielle
 - recherche-scientifique
-- neurologie
+- intelligence-artificielle
 - simulation
-- supercalculateurs
-- cerveau-humain
-- neurones
+- neurologie
 - neuroscience
-- simulation-par-ordinateur
-- neurobiologie
 coverImage: ./images/qimg-ceb2c6b7dec09f847738dbe1bbbe59e1.jpg
 ---
 

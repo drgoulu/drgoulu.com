@@ -9,13 +9,8 @@ tags:
 - sciences
 - biologie
 - recherche-scientifique
-- la-vie-artificielle
-- abiogenese
-- origine-de-la-vie
-- sciences-de-la-vie
-- biology
-- principe-de-vie
-- biologie-chimique
+- origines
+- vie
 coverImage: ./images/quora.png
 ---
 

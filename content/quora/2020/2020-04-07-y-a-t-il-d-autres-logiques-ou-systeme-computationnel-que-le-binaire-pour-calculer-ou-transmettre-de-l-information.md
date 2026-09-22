@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
+- mathematiques
 - informatique
+- information
 - calcul
-- non-binaire
-- logique-philosophie
-- traitement-de-l-information
-- binaire-systeme-numerique
-- transmission-de-donnees
-- systeme-numerique
-- sciences-informatiques
-- logique-mathematiques
 coverImage: ./images/quora.png
 ---
 

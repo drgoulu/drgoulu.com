@@ -7,13 +7,8 @@ categories:
 - Quora
 tags:
 - physique
-- science-fiction-genre
-- vitesse
-- voyage-dans-le-temps
 - astronomie
-- espace-temps
-- l-univers
-- relativite-physique
+- univers
 - cosmologie
 - physique-theorique
 coverImage: ./images/quora.png

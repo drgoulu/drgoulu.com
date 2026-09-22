@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - france
-- alliances-strategiques
-- politique-francaise
-- michel-barnier
-- motion-de-censure
-- elections
 - gouvernement
-- systeme-legislatif-francais
-- partis-politiques-francais
+- elections
+- politique-francaise
 - vie-politique-francaise
 coverImage: ./images/quora.png
 ---

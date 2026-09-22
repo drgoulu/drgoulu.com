@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- pays
-- comparaisons
-- l-europe
-- monaco
-- economies
-- cout-de-la-vie-en-suisse
-- prix
+- vie
 - suisse
+- economie
+- comparaisons
+- pays
 coverImage: ./images/quora.png
 ---
 

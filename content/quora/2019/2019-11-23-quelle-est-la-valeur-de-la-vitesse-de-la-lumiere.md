@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- electromagnetisme
-- vitesse-de-la-lumiere
-- constantes-mathematiques
-- optique
-- phenomenes-physiques
-- quantites-physiques
-- mesures-physiques
-- theorie-de-l-electromagnetisme
+- theorie
+- lumiere
+- vitesse
 coverImage: ./images/quora.png
 ---
 

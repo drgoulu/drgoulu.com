@@ -8,13 +8,9 @@ categories:
 tags:
 - sciences
 - theories-du-complot
-- credibilite
-- catastrophe-climatique
-- collapsologie
-- scenarios-de-fin-du-monde
+- information
 - catastrophes
 - fin-du-monde
-- credibilite-de-l-information
 coverImage: ./images/quora.png
 ---
 

@@ -8,11 +8,9 @@ categories:
 tags:
 - sciences
 - question-hypothetique
-- reacteurs-a-fusion
+- hypotheses
 - dangers
 - explosions
-- hypotheses
-- explosifs
 coverImage: ./images/quora.png
 ---
 

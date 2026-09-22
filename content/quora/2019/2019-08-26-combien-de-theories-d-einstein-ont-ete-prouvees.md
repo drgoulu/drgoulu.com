@@ -7,14 +7,10 @@ categories:
 - Combien
 tags:
 - physique
-- albert-einstein-physicien
-- histoire-des-sciences
-- equations-de-terrain-d-einstein
+- sciences
+- histoire
 - theorie
-- theories-physiques
 - physique-theorique
-- science-physique
-- histoire-de-la-physique
 coverImage: ./images/quora.png
 ---
 

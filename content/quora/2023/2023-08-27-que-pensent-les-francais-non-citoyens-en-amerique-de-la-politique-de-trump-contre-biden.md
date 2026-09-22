@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
+- opinion
 - opinion-publique
-- elections-aux-etats-unis-d-amerique
-- francais-de-l-etranger
-- non-americain
-- joe-biden-homme-politique
-- politique-americaine
-- opinion-politique
-- citoyens-non-americains
+- etats-unis
+- ameriques
 coverImage: ./images/quora.png
 ---
 

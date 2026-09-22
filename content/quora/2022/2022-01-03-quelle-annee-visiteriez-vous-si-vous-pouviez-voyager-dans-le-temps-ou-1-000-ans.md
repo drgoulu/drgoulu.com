@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- question-hypothetique
-- sondages
-- voyage-dans-le-temps
-- questions-d-opinion
-- chronologie
-- question-philosophique
-- histoire-du-monde
-- hypotheses
-- histoire-humaine
+- temps
+- monde
+- voyage
+- opinion
 coverImage: ./images/quora.png
 ---
 

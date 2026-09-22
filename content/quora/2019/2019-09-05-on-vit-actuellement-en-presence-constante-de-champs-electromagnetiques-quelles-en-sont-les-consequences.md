@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- champs-electromagnetiques
+- physique
 - sciences
-- causes-et-effets-dans-le-domaine-de-la-sante
-- science-et-technologie
-- science-physique
-- sante-environnementale
-- effets-sur-la-sante
-- ondes-electromagnetiques
-- sante-humaine
+- sante
+- technologies
+- effet
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- jupiter-planete
-- orbites
 - astronomie
-- champ-gravitationnel
-- systeme-solaire
-- orbite-de-la-terre
-- terre-planete
 - astrophysique
-- force-gravitationnelle
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

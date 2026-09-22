@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- nature
 - animaux
-- histoire-du-xxe-siecle
-- extinction-des-especes
-- faune
-- conservation-de-la-nature
+- especes
 - extinction
-- xxieme-siecle
-- histoire-du-21-e-siecle
-- extinction-animale
-- xxeme-siecle
+- faune
 coverImage: ./images/quora.png
 ---
 

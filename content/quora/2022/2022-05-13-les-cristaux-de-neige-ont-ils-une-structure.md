@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- flocons-de-neige
-- cristaux
-- configuration
-- sciences-de-la-nature
+- sciences
+- nature
 - meteorologie
-- structures
 - phenomene-meteorologique
-- les-sciences-naturelles
-- science-de-la-nature
 coverImage: ./images/quora.png
 ---
 

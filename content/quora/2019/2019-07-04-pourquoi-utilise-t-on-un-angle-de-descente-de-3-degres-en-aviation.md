@@ -6,14 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- vols
+- vol
 - aviation
-- angle-de-vue
 - aerodynamique
 - securite-aerienne
-- aeronotique
-- flight
-- vol
 - aviazione
 coverImage: ./images/quora.png
 ---

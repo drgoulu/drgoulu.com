@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
 - geographie
-- australie
-- superficie
-- population
-- demographie-mondiale
 - demographie
-- densite-de-population
-- geographie-physique
-- geographie-economique
-- geographie-humaine
+- demographie-mondiale
+- population
 coverImage: ./images/qimg-d0941a7918d346d52cddb8431f3525a0.gif
 ---
 

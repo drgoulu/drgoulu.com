@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
 - astronomie
-- rayonnement-de-hawking
-- astrophysique-theorique
+- astrophysique
 - cosmologie
 - physique-theorique
-- astrophysique
-- astrophysiciens
 coverImage: ./images/quora.png
 ---
 

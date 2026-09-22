@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- albert-einstein-physicien
-- vitesse-de-la-lumiere
-- theorie-de-la-relativite
-- relativite-restreinte
+- theorie
 - physique-theorique
-- relativite-physique
-- physique-et-chimie
-- physique-mathematique
+- relativite
 coverImage: ./images/quora.png
 ---
 

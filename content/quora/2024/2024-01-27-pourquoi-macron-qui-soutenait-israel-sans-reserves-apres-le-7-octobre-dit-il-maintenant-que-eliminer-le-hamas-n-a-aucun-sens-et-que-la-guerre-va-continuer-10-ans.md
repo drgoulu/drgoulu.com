@@ -6,15 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- opinion-publique
 - guerre
-- conflit-israelo-palestinien
-- emmanuel-macron
-- hamas
+- opinion-publique
 - politique-internationale
 - israel
-- bande-de-gaza
-- palestine
 - politique-etrangere
 coverImage: ./images/quora.png
 ---

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
+- soleil
 - etoiles-corps-celestes
-- le-soleil-astronomie
-- magnitude-mathematiques-et-physiques
+- etoiles
 - evolution-stellaire
-- physique-solaire
-- luminosite
-- types-d-etoiles
-- etoiles-astronomie
-- physique-stellaire
 coverImage: ./images/quora.png
 ---
 

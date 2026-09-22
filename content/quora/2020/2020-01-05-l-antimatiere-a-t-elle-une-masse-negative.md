@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- l-antimatiere
-- proprietes
-- science-de-la-matiere
-- anti-particules
-- masse-physique
+- sciences
+- matiere
 - physique-quantique
-- proprietes-physiques
-- physique-de-la-matiere
+- masse-physique
 coverImage: ./images/quora.png
 ---
 

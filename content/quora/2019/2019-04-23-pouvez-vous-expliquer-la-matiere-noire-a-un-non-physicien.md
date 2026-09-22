@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
+- sciences
 - astronomie
-- explications-intuitives
-- specialiste
-- matiere-noire
-- cosmologie
 - astrophysique
-- science-physique
-- explications
-- explications-scientifiques
+- cosmologie
 coverImage: ./images/qimg-b665f4288ada5f92b28cf3d039d8b827.png
 ---
 

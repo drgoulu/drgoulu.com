@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- etoiles-astronomie
-- l-antimatiere
 - astronomie
-- cosmologie
-- matiere-physique
-- asymetrie-matiere-antimatiere
 - astrophysique
+- cosmologie
 - physique-theorique
-- cosmologie-physique
 coverImage: ./images/quora.png
 ---
 

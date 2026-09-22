@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- relations-internationales
 - suisse
-- retrait-de-l-union-europeenne
-- brexit
-- grande-bretagne
-- negociation
-- bureaucratie
+- relations-internationales
 - union-europeenne
-- relations-internationales-europeennes
+- negociation
 coverImage: ./images/quora.png
 ---
 

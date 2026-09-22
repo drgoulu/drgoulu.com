@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- astronomie
 - exploration-spatiale
-- lune-astronomie
-- module-lunaire-apollo
-- imagerie-par-satellite
 - science-spatiale
-- missions-apollo
-- exploration-de-la-lune
 - technologie-spatiale
-- missions-spatiales
-- images-spatiales
+- lune
 coverImage: ./images/qimg-4b9236d0d0ae33707ae1380ce0d16819.jpg
 ---
 

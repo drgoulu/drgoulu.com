@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie-animale
-- evolution-processus
-- adaptation
+- evolution
+- biologie
+- processus
 - especes
-- carnivores
-- chaines-alimentaires
-- evolution-biologie
-- herbivores
-- evolution-animale
+- biologie-animale
 coverImage: ./images/quora.png
 ---
 

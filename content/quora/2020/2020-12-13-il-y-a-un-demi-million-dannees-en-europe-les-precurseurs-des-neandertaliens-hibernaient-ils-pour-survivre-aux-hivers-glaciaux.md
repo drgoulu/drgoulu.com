@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-europe
-- paleontologie
-- adaptation
 - evolution-humaine
-- survivre
-- hibernation
+- paleontologie
+- europe
+- adaptation
 - prehistoire
-- glaciation
 coverImage: ./images/quora.png
 ---
 

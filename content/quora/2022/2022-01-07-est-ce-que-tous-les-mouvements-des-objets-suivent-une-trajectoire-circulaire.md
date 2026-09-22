@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- direction-trajectoire
-- mouvement-circulaire
-- mouvement-physique
-- trajectoire
-- science-math
 - physique-mathematique
-- math-sciences
+- mouvement
+- trajectoire
 coverImage: ./images/quora.png
 ---
 

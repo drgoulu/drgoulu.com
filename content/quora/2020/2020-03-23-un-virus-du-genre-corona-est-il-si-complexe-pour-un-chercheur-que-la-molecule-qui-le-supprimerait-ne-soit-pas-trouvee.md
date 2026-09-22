@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- biologie-moleculaire
-- virus
-- recherche-scientifique
-- traitements-medicaux
 - biologie
+- recherche-scientifique
+- sante
 - medecine
-- molecules
-- virologie
+- virus
 coverImage: ./images/quora.png
 ---
 

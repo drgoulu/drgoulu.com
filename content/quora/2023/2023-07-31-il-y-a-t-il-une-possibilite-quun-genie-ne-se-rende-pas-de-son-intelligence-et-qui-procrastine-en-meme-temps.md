@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - psychologie
-- procrastination
 - comportement-humain
-- genie
-- l-intelligence
-- cognition
 - intelligence-humaine
-- psychologie-humaine
 - psychologie-cognitive
+- cognition
 coverImage: ./images/quora.png
 ---
 

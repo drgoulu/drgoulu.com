@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
 - astronomie
-- etoiles-corps-celestes
-- mouvement-physique
-- constellations
-- mythologie
+- histoire
 - science-spatiale
-- histoire-de-l-astronomie
-- etoiles
-- constellation
+- etoiles-corps-celestes
 coverImage: ./images/qimg-2aa3ae3bb80265a2c0613b4f282d91ba.png
 ---
 

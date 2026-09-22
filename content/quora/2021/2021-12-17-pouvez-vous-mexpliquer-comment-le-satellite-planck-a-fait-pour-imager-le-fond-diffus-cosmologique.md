@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- planck-satellite
-- imagerie-par-satellite
-- l-univers-astronomie
 - astronomie
-- fond-diffus-cosmologique
-- science-spatiale
-- cosmologie
-- satellite
 - astrophysique
+- univers
+- cosmologie
 coverImage: ./images/qimg-19b440509dfb8d77862f49cfdb0e607d.jpg
 ---
 

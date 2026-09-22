@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - philosophie
-- extinction-des-especes
-- dinosaures
-- histoire-du-monde
-- catastrophes
-- evolution-processus
-- humanite
-- disparition
 - evolution
-- histoire-de-l-humanite
+- monde
+- processus
 coverImage: ./images/qimg-de861b03897a98994363083618c35af8.jpg
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- modeles-cosmologiques
-- anomalies
-- vitesse-de-la-lumiere
+- univers
 - cosmologie
-- enigmes-de-l-univers
 - physique-theorique
-- constante-cosmologique
-- theorie-cosmologique
-- cosmologie-physique
+- lumiere
 coverImage: ./images/quora.png
 ---
 

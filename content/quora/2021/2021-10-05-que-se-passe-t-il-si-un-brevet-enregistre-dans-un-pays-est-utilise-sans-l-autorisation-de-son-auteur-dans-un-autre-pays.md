@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - droit-international
-- contrefacon
-- brevet
+- brevets
 - procedure-judiciaire
-- juridiction
-- violation-de-regles
-- droit-de-propriete
-- droit-des-brevets
-- droit-international-prive
-- droit-international-general
+- droit
+- proprietes
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - physique-theorique
-- science-fiction-genre
-- voyage-dans-le-temps
-- possibilites
-- temps-dimension
-- hard-science-fiction
+- temps
+- voyage
 - theorie-scientifique
-- temps-physique
-- science-fiction
-- potentialite
 coverImage: ./images/quora.png
 ---
 

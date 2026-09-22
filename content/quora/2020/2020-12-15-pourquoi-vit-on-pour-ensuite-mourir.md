@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - philosophie
-- contenu-adulte
+- vie
 - question-existentielle
-- mourir
-- sens-de-la-vie
+- perception
 - mortalite
-- existence
-- problemes-existentiels
-- perception-de-la-vie
-- crise-existentielle
 coverImage: ./images/quora.png
 ---
 

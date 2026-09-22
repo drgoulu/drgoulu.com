@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
 - mathematiques
-- zero-nombre
-- division-par-zero
-- problemes-mathematiques
-- division-mathematiques
-- philosophie-des-mathematiques
+- questions
+- probleme
 - calcul-mathematique
-- zero
-- questions-mathematiques
-- post
 coverImage: ./images/quora.png
 ---
 

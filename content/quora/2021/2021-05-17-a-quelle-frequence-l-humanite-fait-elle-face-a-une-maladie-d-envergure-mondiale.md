@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante-publique
+- histoire
+- sante
 - humanite
-- pandemie
-- frequence
-- histoire-de-la-medecine
-- maladies
-- crise-sanitaire
-- epidemiologie
-- sante-et-securite-publiques
-- epidemies
+- medecine
+- sante-publique
 coverImage: ./images/quora.png
 ---
 

@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- balle
-- force-motrice
-- resistance-physique
-- mouvement-physique
-- vitesse-physique
+- vitesse
 - mecanique
-- force-physique
+- mouvement
+- force
 coverImage: ./images/quora.png
 ---
 

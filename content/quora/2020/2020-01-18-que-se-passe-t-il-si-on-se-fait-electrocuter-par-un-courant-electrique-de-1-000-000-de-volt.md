@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- securite
 - sciences
-- tension-electrique
-- risques-pour-la-sante
-- electricite
+- sante
+- securite
 - risques
-- securite-electrique
-- choque-electrique
-- electrocution
 coverImage: ./images/qimg-bed31efa3843ed8010f5e25cd2a7a619.jpg
 ---
 

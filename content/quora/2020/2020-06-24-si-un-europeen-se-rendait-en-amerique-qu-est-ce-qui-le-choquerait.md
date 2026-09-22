@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- voyage-international
-- l-europe
-- culture-anthropologie
-- differences-culturelles
 - etats-unis
-- voyageurs
-- amerique-continent
-- choc-culturel
-- comparaison-de-culture
-- amerique-du-nord
+- comparaisons
+- ameriques
+- europe
+- culture
 coverImage: ./images/quora.png
 ---
 

@@ -8,13 +8,8 @@ categories:
 tags:
 - relations-internationales
 - russie
-- tutelle
 - chine
-- independance-financiere
 - geopolitique
-- sanctions-economiques
-- prospective-strategique
-- relations-chine-russie
 - politique-etrangere
 coverImage: ./images/quora.png
 ---

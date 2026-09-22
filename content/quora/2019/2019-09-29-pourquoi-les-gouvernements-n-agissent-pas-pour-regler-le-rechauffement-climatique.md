@@ -8,14 +8,9 @@ categories:
 tags:
 - politique
 - rechauffement-climatique
-- intervention-etatique
-- legislation-environnementale
 - politiques-environnementales
-- le-changement-climatique
-- crise-climatique
-- politique-gouvernementale
 - changement-climatique
-- le-rechauffement-climatique
+- crise-climatique
 coverImage: ./images/quora.png
 ---
 

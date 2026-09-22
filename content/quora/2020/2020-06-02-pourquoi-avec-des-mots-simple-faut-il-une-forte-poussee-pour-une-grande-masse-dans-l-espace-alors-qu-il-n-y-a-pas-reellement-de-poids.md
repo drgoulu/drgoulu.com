@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - espace
-- lois-du-mouvement-de-newton
-- gravite-dans-l-espace
-- masse-physique
-- lois-de-la-physique
-- poids-physique
 - gravite
-- force-de-gravite
-- gravite-physique
+- loi
+- masse-physique
 coverImage: ./images/quora.png
 ---
 

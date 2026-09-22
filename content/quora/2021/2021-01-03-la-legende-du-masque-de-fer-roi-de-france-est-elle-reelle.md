@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-de-france
-- homme-au-masque-de-fer
+- histoire
+- france
+- homme
+- mythe
 - legende
-- personnages-historiques
-- legendes-histoire-ou-mythe
-- rois-et-reines-de-france
-- mythes-et-legendes
-- monarchie-de-france
-- roi-de-france
-- personnages-historiques-francais
 coverImage: ./images/quora.png
 ---
 

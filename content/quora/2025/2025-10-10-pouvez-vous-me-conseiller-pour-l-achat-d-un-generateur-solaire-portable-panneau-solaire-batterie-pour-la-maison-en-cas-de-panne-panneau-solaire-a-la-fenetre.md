@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- maison
 - energie-solaire
-- fenetres
-- pannes-de-courant
 - panneaux-solaires
-- le-courant-electrique
-- generateur-solaire
-- panneaux-photovoltaiques
+- courant-electrique
 - energie-solaire-photovoltaique
-- batteries-solaires
+- panneaux-photovoltaiques
 coverImage: ./images/quora.png
 ---
 

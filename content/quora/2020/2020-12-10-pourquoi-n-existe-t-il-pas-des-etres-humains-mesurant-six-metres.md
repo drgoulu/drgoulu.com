@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- evolution
+- evolution-humaine
 - biologie-humaine
 - question-hypothetique
 - taille
-- evolution
-- anatomie-humaine
-- developpement-humain
-- evolution-humaine
-- taille-anthropometrie
-- anatomie-et-physiologie
-- osteologie-humaine
 coverImage: ./images/quora.png
 ---
 

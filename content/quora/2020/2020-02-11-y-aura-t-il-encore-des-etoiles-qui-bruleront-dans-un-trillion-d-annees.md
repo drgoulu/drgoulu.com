@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - astronomie
-- duree-de-vie
-- etoiles-corps-celestes
-- temps-physique
-- evolution-stellaire
-- cosmologie
 - astrophysique
-- temps-en-astronomie
-- physique-stellaire
-- etoiles-astronomie
+- cosmologie
+- vie
 coverImage: ./images/quora.png
 ---
 

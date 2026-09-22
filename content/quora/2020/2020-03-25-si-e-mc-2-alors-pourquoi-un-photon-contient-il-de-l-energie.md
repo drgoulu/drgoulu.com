@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- vitesse-de-la-lumiere
-- photons
-- equation-de-schrodinger
-- energie-physique
-- theorie-de-la-relativite
-- masse-physique
-- physique-quantique
+- theorie
 - physique-theorique
-- relativite-physique
+- energie
+- relativite
 coverImage: ./images/quora.png
 ---
 

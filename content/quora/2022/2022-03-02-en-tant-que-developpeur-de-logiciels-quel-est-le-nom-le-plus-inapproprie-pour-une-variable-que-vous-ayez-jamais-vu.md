@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - informatique
-- variables
-- developpement-web
-- langages-de-programmation
-- noms-de-variables
-- developpement-logiciel
+- programmation
+- langage
+- developpement
 - sciences-informatiques
-- developpement-de-logiciels
 coverImage: ./images/quora.png
 ---
 

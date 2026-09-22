@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- opinion-publique
-- russie
 - relations-internationales
-- volodymyr-zelenskyi-homme-politique-ukrainien
-- donbass
-- ukraine
-- conflits-geopolitiques
-- referendums
+- opinion-publique
 - politique-internationale
+- russie
+- ukraine
 coverImage: ./images/quora.png
 ---
 

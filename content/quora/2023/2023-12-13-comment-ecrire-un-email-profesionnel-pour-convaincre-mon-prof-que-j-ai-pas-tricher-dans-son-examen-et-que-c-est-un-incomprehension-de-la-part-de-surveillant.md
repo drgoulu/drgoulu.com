@@ -9,12 +9,7 @@ tags:
 - communication
 - education
 - tricherie
-- ecriture-d-un-discours
-- gestion-de-courrier-electronique
-- surveillance
 - incomprehension
-- examens-et-tests
-- professeurs
 - etudiants
 coverImage: ./images/quora.png
 ---

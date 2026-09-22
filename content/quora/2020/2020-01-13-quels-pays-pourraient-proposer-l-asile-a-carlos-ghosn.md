@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- carlos-ghosn
 - pays
 - personne
-- demandeur-d-asile
 - justice
 - immigration
-- droit-d-extradition
-- l-asile-politique
-- droit-d-asile
 coverImage: ./images/quora.png
 ---
 

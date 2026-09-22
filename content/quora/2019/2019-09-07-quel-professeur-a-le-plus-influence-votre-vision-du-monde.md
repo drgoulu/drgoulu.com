@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- monde
+- recherche
+- questions
 - education
-- question-sondage
-- influence
-- vision-du-monde
-- professeurs
-- questions-de-recherche
 - enseignement
-- influence-sociale
-- comprendre-le-monde
-- relation-au-monde
 coverImage: ./images/quora.png
 ---
 

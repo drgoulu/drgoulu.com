@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- chauffage
-- science-et-technologie
-- energie-thermique
+- energie
+- technologies
 - electricite
-- echauffement
-- science-nature
-- energie-physique
 coverImage: ./images/quora.png
 ---
 

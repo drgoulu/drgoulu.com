@@ -8,13 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- predictions
 - espace
-- nasa
-- oscillations
-- orbite-lunaire
-- lune-astronomie
 - gravitation
+- lune
 coverImage: ./images/qimg-bf600c9271dd35500f6b05b296c8fccd.jpg
 ---
 

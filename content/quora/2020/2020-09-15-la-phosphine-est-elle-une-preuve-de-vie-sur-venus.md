@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
+- planetes
+- vie
 - recherche-scientifique
-- phosphore
-- venus-planete
-- vie-extraterrestre
-- sciences-de-la-vie
-- planetes-du-systeme-solaire
-- astrobiologie
-- etude-scientifique
 coverImage: ./images/quora.png
 ---
 

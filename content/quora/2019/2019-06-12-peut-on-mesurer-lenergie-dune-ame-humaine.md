@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- mesure
+- physique
 - sciences
-- energie-physique
-- esprit-humain
-- metaphysique
-- l-ame
-- nature-humaine
-- l-ame-humaine
+- philosophie
 - energie
+- metaphysique
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- animaux-de-compagnie
-- sable
-- sahara-marocain
-- risques-pour-la-sante
-- l-environnement
-- radioactivite
-- sante-des-animaux
+- environnement
+- sante
+- animaux
 - risques
-- sante-environnementale
 coverImage: ./images/quora.png
 ---
 

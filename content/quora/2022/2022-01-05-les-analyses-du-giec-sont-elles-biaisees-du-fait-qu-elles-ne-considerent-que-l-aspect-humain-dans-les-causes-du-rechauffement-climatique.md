@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- planetes
+- environnement
+- recherche-scientifique
 - changement-climatique
-- controverses
-- influence-de-l-homme-sur-la-planete
-- recherches-scientifiques
-- opinion-controversee
-- rechauffement-climatique
-- science-de-l-environnement
-- le-rechauffement-climatique
-- sciences-du-climat
 coverImage: ./images/qimg-9dc8520df73e339b94eb8c46a83c8061.jpg
 ---
 

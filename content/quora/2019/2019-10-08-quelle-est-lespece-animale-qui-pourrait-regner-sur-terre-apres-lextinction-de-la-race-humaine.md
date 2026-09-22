@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie-animale
-- evolution-processus
-- sciences-de-la-vie
-- l-extinction-humaine
-- ethologie
-- l-espece-animal
+- sciences
 - evolution
-- espece-humaine
-- extinction-des-especes
-- extinction-animale
+- vie
+- processus
+- especes
 coverImage: ./images/quora.png
 ---
 

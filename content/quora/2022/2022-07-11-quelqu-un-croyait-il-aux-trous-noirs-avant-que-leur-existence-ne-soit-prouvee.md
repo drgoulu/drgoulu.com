@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
-- histoire-des-sciences
+- sciences
 - astronomie
-- curiosite-scientifique
-- cosmologie
+- histoire
 - astrophysique
-- decouvertes-scientifiques
-- histoire-de-l-astronomie
-- histoire-de-la-science
 coverImage: ./images/quora.png
 ---
 

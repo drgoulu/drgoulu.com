@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - informatique
-- methodes-d-apprentissage
-- langages-de-programmation
-- developpement-de-logiciels
-- outils-pour-les-programmeurs
-- apprendre-la-programmation
-- outils-informatiques
-- enseignement-de-la-programmation
-- apprendre-les-langages-de-programmation
+- programmation
+- langage
+- developpement
+- methodes
 coverImage: ./images/quora.png
 ---
 

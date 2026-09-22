@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- electromagnetisme
-- vitesse-de-la-lumiere
-- theorie-de-la-relativite
-- concepts-en-physique
+- theorie
 - physique-theorique
-- quantites-physiques
-- lois-de-la-physique
-- relativite-physique
-- theorie-de-l-electromagnetisme
+- relativite
+- lumiere
 coverImage: ./images/quora.png
 ---
 

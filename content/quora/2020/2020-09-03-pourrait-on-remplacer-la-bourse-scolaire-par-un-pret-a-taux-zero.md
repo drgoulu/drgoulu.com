@@ -8,12 +8,9 @@ categories:
 tags:
 - politique-francaise
 - education
-- fuite-des-cerveaux
-- aide-financiere-aux-etudiants
 - systeme-educatif-francais
 - enseignement-superieur
-- pret-etudiant
-- education-en-france
+- france
 coverImage: ./images/qimg-c824c5e484231dc5a8203caa2c391183.jpg
 ---
 

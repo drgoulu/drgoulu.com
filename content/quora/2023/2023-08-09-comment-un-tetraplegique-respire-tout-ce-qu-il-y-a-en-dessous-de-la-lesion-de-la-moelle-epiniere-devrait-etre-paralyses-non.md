@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sante
-- moelle-epiniere
-- corps-humains
-- quadriplegique
-- neurologie
-- respiration
-- anatomie-humaine
 - medecine
-- tetraplegie
-- blessure-a-la-moelle-epiniere
+- corps-humains
+- neurologie
+- anatomie-humaine
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- formation
-- crateres-d-impact
-- montagnes
-- geomorphologie
 - systeme-solaire
-- lunes-de-saturne-astronomie
 - geologie-planetaire
-- saturne-planete
+- formation
+- impact
 coverImage: ./images/qimg-daeb335732d285e6a32d11978f868013.jpg
 ---
 

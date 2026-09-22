@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- sociologie
 - religion
-- pays-du-tiers-monde
-- developpement
-- culture-science-sociale
-- groupes-sociaux
 - anthropologie
-- sociologie-de-la-culture
-- religions
+- sociologie
+- developpement
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- changement-climatique
 - societe
+- rechauffement-climatique
 - guerre
 - futur
-- changement-climatique
-- espoir
-- catastrophes
-- effondrement
-- catastrophes-environnementales
-- catastrophes-naturelles
-- le-rechauffement-climatique
 coverImage: ./images/quora.png
 ---
 

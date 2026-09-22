@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- evaporation-des-trous-noirs
 - astronomie
-- singularite
-- gravitation
-- cosmologie
-- trous-noirs
-- astrophysique-relativiste
-- physique-theorique
 - astrophysique
+- cosmologie
+- physique-theorique
 coverImage: ./images/quora.png
 ---
 

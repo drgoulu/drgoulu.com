@@ -8,13 +8,8 @@ categories:
 tags:
 - sciences
 - astronomie
-- temperatures
 - exploration-spatiale
-- atmosphere-lunaire
-- lune-astronomie
-- conditions-de-vie
-- temperature-du-corps-humain
-- conquete-spatiale
+- lune
 - missions-spatiales
 coverImage: ./images/quora.png
 ---

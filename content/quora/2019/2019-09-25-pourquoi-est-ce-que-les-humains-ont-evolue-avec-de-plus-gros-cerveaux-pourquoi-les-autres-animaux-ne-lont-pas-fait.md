@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- biologie
-- anthropologie
-- evolution-humaine
-- sciences-de-la-vie
-- neurologie
-- biologie-humaine
-- biologie-animale
-- evolution-biologique-des-especes
+- sciences
 - evolution
-- neurobiologie
+- biologie
+- vie
+- evolution-humaine
 coverImage: ./images/quora.png
 ---
 

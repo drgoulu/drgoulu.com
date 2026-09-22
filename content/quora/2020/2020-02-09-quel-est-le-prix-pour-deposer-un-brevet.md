@@ -8,13 +8,8 @@ categories:
 tags:
 - droit
 - agent-de-brevet
-- depots
 - propriete-intellectuelle
-- frais-d-inscription
 - brevets
-- taxes-de-depot
-- droit-des-brevets
-- frais-juridiques
 - protection-de-la-proprite-intellectuelle
 coverImage: ./images/quora.png
 ---

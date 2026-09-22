@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- securite-informatique
+- politique
+- informatique
 - droit
-- cybercriminalite
-- activisme-politique
-- philosophie-ethique
-- cyberguerre
-- piratage-informatique
+- securite
 - droit-public
-- lutte-politique
 coverImage: ./images/quora.png
 ---
 

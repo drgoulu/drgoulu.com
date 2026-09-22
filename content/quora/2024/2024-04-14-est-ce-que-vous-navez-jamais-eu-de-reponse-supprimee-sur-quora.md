@@ -8,14 +8,9 @@ categories:
 tags:
 - experience
 - quora
-- suppression-de-reponse-fonctionnalite-quora
-- moderation-de-contenu
+- contenu
 - reponses
-- plateforme-quora
-- contenu-sur-quora
-- questions-supprimees-sur-quora
-- moderation-quora
-- experience-utilisateur
+- moderation
 coverImage: ./images/quora.png
 ---
 

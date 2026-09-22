@@ -9,12 +9,8 @@ tags:
 - islam
 - sciences-politiques
 - democratie
-- pays-musulmans
-- regime-politique
-- geographie-politique
-- l-islam
-- democratie-moderne
-- democratique
+- geographie
+- politique
 coverImage: ./images/quora.png
 ---
 

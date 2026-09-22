@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
 - astronomie
-- rotation
-- vitesse-de-la-lumiere
-- astrophysique-theorique
+- astrophysique
 - cosmologie
 - physique-theorique
-- rotation-physique
-- astrophysique
 coverImage: ./images/quora.png
 ---
 

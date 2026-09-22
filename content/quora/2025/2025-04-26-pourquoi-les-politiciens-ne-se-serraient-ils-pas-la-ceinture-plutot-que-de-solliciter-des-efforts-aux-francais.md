@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- france
 - politique
-- societe-francaise
-- vie-politique-francaise
+- france
+- opinion
 - politique-francaise
-- opinions-politiques
-- politiciens
-- discussions-politiques
-- positions-politiques
-- politique-en-france
+- vie-politique-francaise
 coverImage: ./images/quora.png
 ---
 

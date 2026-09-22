@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- creationnisme-terre-jeune
-- religion
 - sciences
-- evolution-biologie
-- la-methode-scientifique
-- theologie
-- science-et-religion
-- philosophie-des-sciences
-- creationnisme
+- philosophie
+- evolution
+- biologie
+- religion
 coverImage: ./images/quora.png
 ---
 

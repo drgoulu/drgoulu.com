@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- capacite-d-invisibilite
-- effet-optique
-- theorie-scientifique
-- photonique
 - physique-theorique
+- theorie-scientifique
 - optique
-- illusion-d-optique
-- invisibilite
 coverImage: ./images/quora.png
 ---
 

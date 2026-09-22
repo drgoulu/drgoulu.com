@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- personnalites
 - sciences
-- albert-einstein-physicien
-- theorie-de-la-relativite
-- decouvertes-scientifiques
+- theorie
 - physique-theorique
-- relativite-physique
-- connaissances-scientifiques
-- recherches-scientifiques
+- relativite
 coverImage: ./images/qimg-f4a2c8229739375835d22f89bfe17adf.png
 ---
 

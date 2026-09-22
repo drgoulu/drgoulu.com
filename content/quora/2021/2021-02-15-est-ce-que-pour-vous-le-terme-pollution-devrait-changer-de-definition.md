@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- langues
-- ecologie
-- definition
-- pollution
-- l-environnement
-- semantique
-- langage
-- pollution-environnementale
 - environnement
-- definitions
+- ecologie
+- langage
+- pollution
+- definition
 coverImage: ./images/quora.png
 ---
 

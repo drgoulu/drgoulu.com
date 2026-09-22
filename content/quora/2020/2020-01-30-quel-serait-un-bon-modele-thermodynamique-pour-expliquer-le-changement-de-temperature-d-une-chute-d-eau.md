@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- chute-d-eau
-- premiere-loi-de-la-thermodynamique
-- mesures-de-temperature
-- hydrodynamique
-- entropie-thermodynamique
-- echange-thermique
-- thermodynamique
-- lois-de-la-thermodynamique
+- eau
+- loi
+- temperatures
 coverImage: ./images/quora.png
 ---
 

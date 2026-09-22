@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- securite-informatique
-- abstention
-- engagement-citoyen
-- confidentialite
-- e-democratie
-- vote-en-ligne
-- elections
-- democratie-participative
+- informatique
+- securite
 - democratie
+- elections
 coverImage: ./images/quora.png
 ---
 

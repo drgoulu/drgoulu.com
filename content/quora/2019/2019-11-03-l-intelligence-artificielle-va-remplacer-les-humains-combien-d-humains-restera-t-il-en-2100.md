@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- science-et-technologie
-- predictions
-- intelligence-artificielle
-- demographie-mondiale
-- scenarios-futurs
-- avenir-de-l-humanite
-- futur-du-monde
-- l-avenir-du-monde
-- population-mondiale
+- sciences
+- technologies
+- monde
+- humanite
+- futur
 coverImage: ./images/quora.png
 ---
 

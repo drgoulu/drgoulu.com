@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- question-philosophique
-- la-nature
-- philosophie-des-sciences
-- symetrie
-- esthetique-philosophie
+- sciences
+- philosophie
 - nature
-- sciences-de-la-nature
-- symetrie-en-physique
-- science-de-la-nature
+- question-philosophique
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- evolution
 - biologie
-- caracteristiques
-- evolution-processus
-- mammiferes
-- etre-humain
-- differences-et-similitudes
-- anatomie-humaine
-- biologie-humaine
-- zoologie
+- processus
 - evolution-humaine
+- biologie-humaine
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- planetes
+- environnement
+- espace
 - exploration-spatiale
 - futur
-- science-fiction-genre
-- industrie
-- protection-de-l-environnement
-- mars-planete
-- robotique
-- ecosystemes
-- colonisation-de-l-espace
-- respect-de-l-environnement
 coverImage: ./images/quora.png
 ---
 

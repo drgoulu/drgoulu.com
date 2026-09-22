@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- reseaux-sociaux
-- interpretation
-- censure
+- internet
+- systeme
+- quora
+- comportement
 - liberte-d-expression
-- discussion-en-ligne
-- blocage-fonctionnalite-de-medias-sociaux
-- comportements-sur-internet
-- systemes-de-commentaires
-- communication-en-ligne
-- censure-sur-quora
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - opinion-publique
 - medias
-- australie
 - catastrophes
-- interet
-- actualites-internationales
-- image-publique
-- communication-publique
 - catastrophes-environnementales
-- information-publique
+- image-publique
 coverImage: ./images/qimg-c8c1850d42303b871d41427d8da7ca0b.png
 ---
 

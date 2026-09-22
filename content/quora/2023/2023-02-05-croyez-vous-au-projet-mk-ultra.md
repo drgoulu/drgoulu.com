@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - psychologie
-- cia
-- projet-mk-ultra
 - croyance
-- histoire-des-etats-unis-d-amerique
-- theories-du-complot-specifiques
-- controle
-- espionnage
-- controle-mental
+- etats-unis
 - theories-du-complot
 coverImage: ./images/quora.png
 ---

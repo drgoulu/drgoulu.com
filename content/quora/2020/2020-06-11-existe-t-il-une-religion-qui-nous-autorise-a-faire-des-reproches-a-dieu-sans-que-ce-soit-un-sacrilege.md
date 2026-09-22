@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - religion
-- critique
-- foi
-- theologie
 - spiritualite
-- qui-est-dieu
-- dieu
-- la-religion
-- religions
+- foi
+- critique
+- theologie
 coverImage: ./images/quora.png
 ---
 

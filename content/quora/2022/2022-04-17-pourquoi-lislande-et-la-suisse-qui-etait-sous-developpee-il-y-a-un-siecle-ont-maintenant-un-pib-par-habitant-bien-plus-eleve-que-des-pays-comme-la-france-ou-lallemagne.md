@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - france
-- produit-interieur-brut
-- islande
+- suisse
 - comparaisons
-- pays-sous-developpes
 - croissance-economique
 - allemagne
-- pib
-- suisse
-- pays-developpes
 coverImage: ./images/quora.png
 ---
 

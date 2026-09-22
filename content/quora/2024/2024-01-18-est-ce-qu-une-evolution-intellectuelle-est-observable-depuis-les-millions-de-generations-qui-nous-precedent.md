@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- evolution-processus
-- intelligence-humaine
-- generations
-- anthropologie
-- humanite
-- evolution-humaine
-- philosophie-des-sciences
-- evolution-biologie
+- evolution
+- biologie
+- processus
 coverImage: ./images/quora.png
 ---
 

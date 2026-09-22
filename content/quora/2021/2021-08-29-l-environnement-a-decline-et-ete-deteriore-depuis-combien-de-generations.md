@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- sciences
+- histoire
+- environnement
 - changement-climatique
-- l-environnement
-- histoire-de-l-humanite
-- generations
-- degradation
-- catastrophe-environnementale
-- environnement-et-societe
-- sciences-de-l-environnement
-- degradation-de-l-environnement
-- science-de-l-environnement
+- societe
 coverImage: ./images/quora.png
 ---
 

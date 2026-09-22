@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- effet-doppler
-- spectre-electromagnetique
+- energie
 - photons
-- energie-physique
-- spectroscopie
 - radiation
-- l-effet-doppler
+- spectre-electromagnetique
 coverImage: ./images/quora.png
 ---
 

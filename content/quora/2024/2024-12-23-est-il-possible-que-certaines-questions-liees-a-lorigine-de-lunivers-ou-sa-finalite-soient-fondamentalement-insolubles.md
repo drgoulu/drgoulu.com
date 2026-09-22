@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- les-grandes-questions-sans-reponse
-- finalite
-- enigmes-de-l-univers
-- metaphysique
-- la-connaissance
+- univers
 - cosmologie
-- problemes-insolubles
-- origine-de-l-univers
-- philosophie-des-sciences
+- origines
 coverImage: ./images/quora.png
 ---
 

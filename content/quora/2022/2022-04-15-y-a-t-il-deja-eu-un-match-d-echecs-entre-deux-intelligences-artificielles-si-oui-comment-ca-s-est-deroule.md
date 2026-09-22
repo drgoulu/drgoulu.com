@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
+- informatique
+- jeux
 - intelligence-artificielle
 - echec
-- ia
-- science-de-l-informatique
-- jeux-d-echec
-- le-jeu-d-echecs
-- l-intelligence-artificielle
-- tournois-d-echecs
-- jouer-aux-echecs
-- echecs
 coverImage: ./images/quora.png
 ---
 

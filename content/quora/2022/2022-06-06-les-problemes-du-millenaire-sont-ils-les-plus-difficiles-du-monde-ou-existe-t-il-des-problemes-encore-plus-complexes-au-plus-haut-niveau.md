@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- mathematiques
 - sciences
-- problemes-du-prix-du-millenaire
-- difficulte
+- mathematiques
+- recherche-scientifique
 - recherche
-- idees-complexes
-- problemes-ouverts
-- complexite
-- recherches-scientifiques
+- probleme
 coverImage: ./images/quora.png
 ---
 

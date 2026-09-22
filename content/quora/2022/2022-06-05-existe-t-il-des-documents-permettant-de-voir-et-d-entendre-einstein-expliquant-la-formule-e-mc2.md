@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- archives-numeriques
-- e-mc2
+- mathematiques
+- relativite
 - albert-einstein-physicien
 - publications-scientifiques
-- formules-mathematiques
-- relativite-physique
-- documents-historiques
-- information-scientifique
-- documents-scientifiques
 coverImage: ./images/quora.png
 ---
 

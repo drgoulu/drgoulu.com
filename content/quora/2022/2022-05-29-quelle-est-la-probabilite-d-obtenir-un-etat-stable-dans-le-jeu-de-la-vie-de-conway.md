@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- informatique
-- jeu-de-la-vie-de-conway
 - mathematiques
-- etat-limite
-- automate-cellulaire
-- theorie-du-jeu
-- probabilite-statistiques
-- jeu-de-la-vie
+- theorie
+- informatique
 - sciences-informatiques
-- theorie-des-probabilites
+- probabilite-statistiques
 coverImage: ./images/quora.png
 ---
 

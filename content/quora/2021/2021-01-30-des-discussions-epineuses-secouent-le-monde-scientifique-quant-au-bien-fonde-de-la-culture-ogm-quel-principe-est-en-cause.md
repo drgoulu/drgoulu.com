@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- ethique-philosophie-morale
-- debats-de-societe
-- principe
 - recherche-scientifique
-- agriculture
-- biotechnologie
+- societe
+- ethique
 - debat
-- l-ethique
 coverImage: ./images/quora.png
 ---
 

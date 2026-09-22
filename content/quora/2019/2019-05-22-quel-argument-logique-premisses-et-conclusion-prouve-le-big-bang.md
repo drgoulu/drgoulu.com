@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- logique-deductive
 - astronomie
-- argument
-- preuves-scientifiques
-- origine-de-l-univers
-- pensee-logique
+- univers
 - cosmologie
-- raisonnement-logique
+- origines
 coverImage: ./images/quora.png
 ---
 

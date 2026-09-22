@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- changement-climatique
+- rechauffement-climatique
+- opinion
 - opinion-publique
 - climatologie
-- opinion
-- cycles-naturels
-- debat
-- changement-climatique
-- opinions-personnelles
-- opinions
-- rechauffement-climatique
-- debats
 coverImage: ./images/quora.png
 ---
 

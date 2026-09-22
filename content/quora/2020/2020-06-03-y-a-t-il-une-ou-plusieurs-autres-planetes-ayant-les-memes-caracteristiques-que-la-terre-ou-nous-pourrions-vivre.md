@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
+- terre
+- planetes
 - recherche-scientifique
-- terre-planete
-- habitabilite
 - vie-extraterrestre
-- exoplanetes-semblables-a-la-terre
-- exoplanetes
-- astrobiologie
-- habitabilite-planetaire
 coverImage: ./images/quora.png
 ---
 

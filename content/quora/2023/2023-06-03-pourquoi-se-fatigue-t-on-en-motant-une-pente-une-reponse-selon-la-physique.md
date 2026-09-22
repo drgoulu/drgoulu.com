@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- explication
-- la-fatigue
-- effort-physique
-- mouvement-physique
-- raison-scientifique
-- fatigue
+- mouvement
 - explications-scientifiques
-- physique-humain
+- explications
+- raison-scientifique
 coverImage: ./images/quora.png
 ---
 

@@ -6,7 +6,7 @@ tags:
   - philosophie
   - dieu
   - logique
-  - Gödel
+  - godel
 categories:
   - Quora
 slug: l-enonce-dieu-existe-est-une-proposition-vraie-au-sens-logique-et-mathematique-c-benzmuller-qu-en-pensez-vous

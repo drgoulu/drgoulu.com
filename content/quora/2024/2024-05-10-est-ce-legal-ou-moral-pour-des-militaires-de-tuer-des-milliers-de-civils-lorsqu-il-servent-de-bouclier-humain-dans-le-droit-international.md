@@ -9,12 +9,8 @@ tags:
 - guerre
 - ethique-philosophie-morale
 - droit-international
-- les-civils
-- legalite
 - moralite
-- militaire
 - morale
-- droit-international-public
 coverImage: ./images/quora.png
 ---
 

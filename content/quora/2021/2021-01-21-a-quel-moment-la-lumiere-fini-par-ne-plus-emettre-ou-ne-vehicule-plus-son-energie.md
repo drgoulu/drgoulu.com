@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- la-lumiere
-- propagation
-- emission
-- energie-physique
-- phenomene
-- source-de-lumiere
-- lumiere-physique
-- physique-propagation
+- energie
+- lumiere
 - phenomenes-physiques
+- phenomene
 coverImage: ./images/quora.png
 ---
 

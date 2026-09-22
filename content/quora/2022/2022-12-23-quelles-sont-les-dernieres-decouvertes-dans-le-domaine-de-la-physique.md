@@ -9,13 +9,8 @@ tags:
 - physique
 - sciences
 - recherche-scientifique
-- connaissances-scientifiques
-- articles-scientifiques
-- actualite-scientifique
-- decouvertes-scientifiques
-- publications-scientifiques
 - etude-scientifique
-- recherches-scientifiques
+- decouvertes-scientifiques
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- science-et-technologie
-- air-comprime
-- energie-physique
-- technologie-moderne
+- physique
+- sciences
+- energie
 - technologies
-- stockage-d-energie
-- systemes-d-energie
-- science-de-l-ingenierie
-- sources-d-energie
-- energie-economie
+- economie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- religion
-- mathematiques
-- sciences
 - physique
-- origine-de-l-univers
-- etre-humain
-- existence
-- chimie
-- science-et-religion
+- sciences
+- philosophie
+- mathematiques
+- univers
 coverImage: ./images/quora.png
 ---
 

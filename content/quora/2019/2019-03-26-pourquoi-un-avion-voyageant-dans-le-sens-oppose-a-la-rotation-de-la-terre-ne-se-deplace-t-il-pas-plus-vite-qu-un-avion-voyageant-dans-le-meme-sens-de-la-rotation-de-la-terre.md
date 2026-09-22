@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- avions
-- referentiel
-- rotation-de-la-terre
-- vitesse-de-deplacement
-- mouvement-physique
-- reference
-- aviation
-- rotation-physique
+- terre
+- rotation
+- mouvement
 coverImage: ./images/qimg-53eee2aabd5861dc639fe207f6f51274.jpg
 ---
 

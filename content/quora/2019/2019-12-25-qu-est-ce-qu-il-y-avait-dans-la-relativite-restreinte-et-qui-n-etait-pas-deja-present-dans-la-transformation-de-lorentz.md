@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- facteur-de-lorentz
-- temps-relativite-restreinte
-- albert-einstein-physicien
-- theorie-de-la-relativite
-- lorentz-transformations
-- relativite-restreinte
+- theorie
 - physique-theorique
 - relativite
+- albert-einstein-physicien
 coverImage: ./images/quora.png
 ---
 

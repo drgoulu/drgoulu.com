@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - sante
-- electromagnetisme
-- 5g
-- science-et-technologie
-- etudes-de-recherche
-- risques-pour-la-sante
-- telecommunications
-- etudes-de-medecine
-- etudes-scientifiques
+- technologies
+- recherche
+- medecine
 coverImage: ./images/quora.png
 ---
 

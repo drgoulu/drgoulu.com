@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- deserts-geographie-physique
-- destruction
 - pays
-- '2022'
-- guerre-nucleaire
-- puissance-militaire
 - armes-nucleaires
-- attaque-nucleaire
-- bombe-nucleaire
+- guerre-nucleaire
+- destruction
 coverImage: ./images/quora.png
 ---
 

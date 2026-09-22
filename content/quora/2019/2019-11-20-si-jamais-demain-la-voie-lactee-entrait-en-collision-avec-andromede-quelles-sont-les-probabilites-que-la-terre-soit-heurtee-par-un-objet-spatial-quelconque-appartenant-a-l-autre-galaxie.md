@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- probabilite-statistiques
-- terre-planete
-- galaxie-de-la-voie-lactee
-- univers-observable
-- collision-physique
-- espace-interstellaire
 - astrophysique
+- terre
+- planetes
 - galaxies
-- galaxie-d-andromede
 coverImage: ./images/quora.png
 ---
 

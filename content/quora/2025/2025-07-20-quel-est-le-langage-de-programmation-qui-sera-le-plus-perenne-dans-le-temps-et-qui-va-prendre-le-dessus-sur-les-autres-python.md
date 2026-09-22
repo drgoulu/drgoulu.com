@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- evolution
 - informatique
-- nouvelles-technologies
-- comparaisons-de-langage-de-programmation
-- evolution-du-langage
-- python-langage-de-programmation
-- langages-de-programmation
-- programmation-des-ordinateurs
-- science-de-l-informatique
-- tendances-technologiques
-- langage-de-programmation
+- programmation
+- langage
 coverImage: ./images/quora.png
 ---
 

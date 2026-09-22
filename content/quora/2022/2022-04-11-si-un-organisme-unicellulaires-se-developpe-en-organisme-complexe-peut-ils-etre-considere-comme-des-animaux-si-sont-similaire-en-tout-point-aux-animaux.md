@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie
-- animaux
-- evolution-processus
-- etres-vivants
-- organisme-unicellulaire
-- organismes
-- biologie-animale
-- classification-biologique
 - evolution
-- organismes-vivants
+- biologie
+- processus
+- animaux
+- biologie-animale
 coverImage: ./images/quora.png
 ---
 

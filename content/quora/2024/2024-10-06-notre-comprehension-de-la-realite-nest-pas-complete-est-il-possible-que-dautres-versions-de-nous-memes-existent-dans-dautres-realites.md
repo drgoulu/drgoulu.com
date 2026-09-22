@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- realite-simulee
-- conscience-de-soi
 - univers-observable
-- metaphysique
-- existence
-- univers-paralleles
 - conscience
 - realite
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

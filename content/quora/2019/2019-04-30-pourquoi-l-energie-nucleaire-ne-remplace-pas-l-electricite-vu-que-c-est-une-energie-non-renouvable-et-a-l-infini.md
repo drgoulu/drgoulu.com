@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- l-environnement
-- electricite
-- science-physique
-- ressources-educatives
-- energie-renouvelable
+- physique
+- sciences
+- environnement
 - energie-nucleaire
-- sources-d-energie
-- energie-infinie
-- energie-potentielle
+- energie-renouvelable
 coverImage: ./images/quora.png
 ---
 

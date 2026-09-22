@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- paradis
-- ennui
 - question-existentielle
-- satisfaction
-- condition-humaine
 - existence
-- perfection
+- condition-humaine
 - problemes-existentiels
-- questions-existentielles
 coverImage: ./images/quora.png
 ---
 

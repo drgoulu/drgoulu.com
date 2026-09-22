@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-l-environnement
-- azote
+- sciences
+- environnement
 - atmosphere
-- role-et-fonctions
-- sciences-de-l-atmosphere
-- metabolisme-de-l-azote
-- physique-de-l-atmosphere
-- azote-gazeux
+- physique
 - chimie-atmospherique
-- cycle-de-l-azote
 coverImage: ./images/quora.png
 ---
 

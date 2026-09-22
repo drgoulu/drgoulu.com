@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- histoire-des-sciences
+- sciences
+- histoire
+- mathematiques
 - mesure
-- standardization
-- unite-concept
 - unites-de-mesure
-- metrologie
-- centimetres
-- systeme-metrique
-- histoire-des-mathematiques
-- normalisation
 coverImage: ./images/quora.png
 ---
 

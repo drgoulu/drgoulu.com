@@ -8,14 +8,9 @@ categories:
 tags:
 - philosophie
 - sciences
-- subjectivite-et-objectivite
+- subjectivite
 - moralite
 - ethique-philosophie-morale
-- la-philosophie-des-sciences
-- philosophie-et-science
-- objectivite
-- philosophie-morale
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

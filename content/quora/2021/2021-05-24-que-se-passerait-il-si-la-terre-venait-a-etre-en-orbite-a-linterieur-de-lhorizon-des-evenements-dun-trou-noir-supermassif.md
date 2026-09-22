@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- question-hypothetique
-- terre-planete
 - astronomie
-- trous-noirs
-- horizon-des-evenements
-- cosmologie
-- astrophysique-relativiste
-- hypotheses
 - astrophysique
+- cosmologie
+- terre
 coverImage: ./images/quora.png
 ---
 

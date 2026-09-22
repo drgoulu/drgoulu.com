@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- technologies
+- systeme
 - intelligence-artificielle
-- sources-d-information
-- traitement-de-donnees
-- technologie-de-l-information
-- systemes-intelligents
-- recuperation-d-informations
-- surcharge-d-information
-- gestion-de-l-information
-- systemes-d-information
-- traitement-de-l-information
+- information
+- gestion
 coverImage: ./images/quora.png
 ---
 

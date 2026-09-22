@@ -7,12 +7,9 @@ categories:
 - Quora
 tags:
 - mathematiques
-- henri-poincare
 - topologie
-- demonstration-mathematiques
+- demonstrations
 - geometrie
-- conjecture-de-poincare
-- variete-mathematiques
 - topologie-algebrique
 coverImage: ./images/quora.png
 ---

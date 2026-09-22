@@ -6,13 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- recherche-scientifique
 - astrophysique
-- phenomenes-inexpliques
-- antarctique
-- modele-standard-de-la-physique-des-particules
-- phenomenes-etranges
+- recherche-scientifique
 - etude-scientifique
+- modele-standard-de-la-physique-des-particules
 - astrophysiciens
 coverImage: ./images/quora.png
 ---

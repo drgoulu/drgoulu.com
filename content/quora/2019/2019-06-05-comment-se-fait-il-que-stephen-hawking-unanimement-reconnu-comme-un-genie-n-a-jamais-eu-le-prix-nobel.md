@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - stephen-hawking
-- nominations-au-prix-nobel
 - genie
-- recompenses
 - physiciens
-- prix-nobel-en-physique
 - prix-nobel
-- recompenses-academiques
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - histoire
-- christophe-colomb-personnage-historique
-- navigation-maritime
-- geographie-du-monde
-- exploration
-- ocean-atlantique
-- histoire-navale
-- navigation
+- monde
 - geographie
-- histoire-maritime
+- exploration
+- navigation
 coverImage: ./images/qimg-9d80020916eb240ece859bfac5f201c4.jpg
 ---
 

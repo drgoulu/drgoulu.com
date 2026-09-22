@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- astronomie
 - philosophie
-- question-existentielle
+- univers
 - espace
-- l-univers-astronomie
-- realite
-- dimensions-physique
-- metaphysique
-- pensee-philosophique
-- question-philosophique
-- realite-simulee
 coverImage: ./images/quora.png
 ---
 

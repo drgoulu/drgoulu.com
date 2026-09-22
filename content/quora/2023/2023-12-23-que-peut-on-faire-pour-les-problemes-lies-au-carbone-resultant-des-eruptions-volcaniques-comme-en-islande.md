@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- planetes
+- environnement
 - changement-climatique
-- l-environnement
-- carbone
-- islande
-- volcanologie
-- solutions-au-rechauffement-de-la-planete
-- problemes-environnementaux
-- eruptions-volcaniques
-- impacts-environnementaux
-- science-de-l-environnement
+- impact-environnemental
 coverImage: ./images/quora.png
 ---
 

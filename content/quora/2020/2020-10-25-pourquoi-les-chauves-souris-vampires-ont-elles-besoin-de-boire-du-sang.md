@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- alimentation
-- sang
 - biologie
 - animaux
-- chauve-souris
-- mammiferes
-- faune
 - biologie-animale
-- science-biologique
+- faune
+- alimentation
 coverImage: ./images/quora.png
 ---
 

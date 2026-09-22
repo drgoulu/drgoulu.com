@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - changement-climatique
-- scenarios-futurs
-- propheties
+- rechauffement-climatique
+- crise-climatique
 - catastrophes
 - fin-du-monde
-- apocalypse
-- scenarios-de-fin-du-monde
-- crise-climatique
-- le-rechauffement-climatique
-- scenario-futur
 coverImage: ./images/quora.png
 ---
 

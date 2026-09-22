@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- lit
-- meuble
-- sujet-d-invention
-- mobiliere
+- sujet
 - invention
 - invention-et-inventions
 - histoire-humaine
-- l-invention
-- mobilier
 coverImage: ./images/quora.png
 ---
 

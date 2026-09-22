@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- borough-royal-de-greenwich
-- meridien
 - systeme-de-coordonnees-geographiques
 - fuseaux-horaires
 - geographie
 - coordonnees
-- greenwich
-- premier-meridien
-- le-meridien
 coverImage: ./images/quora.png
 ---
 

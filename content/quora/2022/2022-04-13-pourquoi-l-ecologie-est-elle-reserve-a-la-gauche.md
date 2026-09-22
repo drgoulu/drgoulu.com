@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - politique
-- opinion-publique
-- ecologisme
-- debat
-- gauche
-- ideologies-politiques
-- analyse-politique
-- orientation-politique
 - ecologie
-- positions-politiques
+- opinion-publique
+- debat
+- ecologisme
 coverImage: ./images/qimg-ab3e2e1df6b07b01b17b048f6dfb5486.png
 ---
 

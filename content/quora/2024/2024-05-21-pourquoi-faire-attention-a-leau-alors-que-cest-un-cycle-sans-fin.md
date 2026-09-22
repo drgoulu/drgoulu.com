@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- l-environnement
-- eau
-- ecologie
-- gestion-des-ressources-en-eau
-- cycle-de-l-eau
 - environnement
-- preservation-de-l-environnement
-- ressources-en-eau
-- gestion-de-l-eau
-- conservation-de-l-environnement
+- ecologie
+- eau
+- conservation
+- gestion
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - espace
 - science-spatiale
-- atterrissage
-- vol-spatial-habite
-- navette-spatiale-americaine
-- vaisseau-spatial
+- ingenierie
 - technologie-spatiale
-- missions-spaciales
-- train-d-atterrissage
-- ingenierie-et-technologie-spatiale
+- vaisseau-spatial
 coverImage: ./images/quora.png
 ---
 

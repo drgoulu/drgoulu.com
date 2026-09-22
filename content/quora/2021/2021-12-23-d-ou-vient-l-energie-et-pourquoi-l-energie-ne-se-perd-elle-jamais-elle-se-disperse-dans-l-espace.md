@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- entropie
-- conservation-de-la-nature
-- perte-d-energie
-- lois-de-la-thermodynamique
-- energie-physique
-- thermodynamique
-- transfert-d-energie
-- energie-thermique
-- entropie-physique
+- energie
+- nature
+- conservation
+- loi
 coverImage: ./images/quora.png
 ---
 

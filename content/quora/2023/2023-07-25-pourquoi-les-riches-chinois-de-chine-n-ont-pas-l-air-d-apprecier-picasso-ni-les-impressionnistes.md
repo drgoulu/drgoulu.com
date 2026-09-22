@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- culture-science-sociale
-- chine
-- richesse
+- sociologie
 - art
-- pablo-picasso-artiste
-- impressionnisme
-- gout-esthetique
-- appreciation-de-l-art
-- chinois
-- sociologie-de-la-culture
+- culture
+- richesse
+- chine
 coverImage: ./images/qimg-2ee7288853492f76838110328f90eb21.jpg
 ---
 

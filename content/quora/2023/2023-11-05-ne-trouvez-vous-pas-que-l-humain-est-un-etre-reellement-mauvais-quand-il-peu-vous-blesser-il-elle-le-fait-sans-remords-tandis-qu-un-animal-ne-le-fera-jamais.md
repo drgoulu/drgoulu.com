@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- comportement-humain
-- remord
-- violence
 - animaux
-- bien-et-mal
-- comparaison-animale
-- la-naturalite-humaine
-- relation-homme-animal
+- comportement-humain
 - comportement-animal
 - nature-humaine
+- violence
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- le-soleil
 - sciences
-- etoiles-astronomie
-- espace
 - astronomie
-- objet
-- masse-physique
 - astrophysique
-- science-physique
+- espace
 coverImage: ./images/qimg-16fd3dc74f471a3ef06144781e7ce5bd.png
 ---
 

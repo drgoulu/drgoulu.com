@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - question-existentielle
-- conscience
-- memoire
-- experience-humaine
-- question-personnelle
-- pensee
 - question-philosophique
+- conscience
+- experience-humaine
 - conscience-de-soi
-- pensee-humaine
-- memoire-humaine
 coverImage: ./images/quora.png
 ---
 

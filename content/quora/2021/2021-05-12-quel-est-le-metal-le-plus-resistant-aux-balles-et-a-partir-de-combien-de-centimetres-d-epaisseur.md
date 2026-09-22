@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- sciences
 - materiaux
-- armes-et-armes-a-feu
-- science-des-materiaux-et-ingenierie
-- metaux
-- resistance-des-materiaux
-- la-science-des-materiaux
-- balles-d-armes-a-feu
-- science-des-materiaux-informatiques
-- scientifiques-des-materiaux
+- ingenierie
+- scientifiques
+- armes
 coverImage: ./images/quora.png
 ---
 

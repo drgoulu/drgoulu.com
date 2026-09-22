@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- monde
 - france
-- systeme-educatif
-- differences-culturelles
 - education
-- canada
-- college
-- education-dans-le-monde
-- systeme-educatif-francais
-- systeme-scolaire
+- differences-culturelles
+- systeme-educatif
 coverImage: ./images/quora.png
 ---
 

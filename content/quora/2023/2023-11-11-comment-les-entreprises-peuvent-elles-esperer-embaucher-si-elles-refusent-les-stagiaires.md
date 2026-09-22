@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - entreprises
-- marche-du-travail
+- marches
+- travail
 - ressources-humaines
-- e-recrutement
-- acquisition-de-talents
-- stagiaires
 - gestion-du-personnel
-- recrutement
-- recrutement-de-stagiaire
-- gestion-des-talents
 coverImage: ./images/quora.png
 ---
 

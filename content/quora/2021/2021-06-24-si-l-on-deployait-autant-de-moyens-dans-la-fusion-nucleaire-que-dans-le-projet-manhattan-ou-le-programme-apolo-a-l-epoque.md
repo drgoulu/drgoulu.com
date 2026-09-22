@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- science-et-technologie
-- projet-manhattan
+- sciences
+- histoire
 - recherche-scientifique
-- le-programme-apollo
-- reacteurs-a-fusion
-- histoire-des-sciences
-- technologie-nucleaire
+- technologies
 - sciences-nucleaires
-- reacteurs-nucleaires
 coverImage: ./images/quora.png
 ---
 

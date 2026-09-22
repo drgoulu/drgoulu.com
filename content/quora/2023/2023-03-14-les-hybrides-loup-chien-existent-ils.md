@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - animaux
-- hybridation-chimie
 - zoologie
 - loups
 - chiens
-- races-hybrides
-- progeniture-hybride
-- animaux-hybrides
 - hybrides
 coverImage: ./images/quora.png
 ---

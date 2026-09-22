@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-environnement
-- autarcie
+- environnement
 - agriculture
 - terre
-- superficie-territoriale
 - ressources-naturelles
-- besoins-humains
 - ressources-planetaire
-- besoins-de-base
-- superficie
 coverImage: ./images/quora.png
 ---
 

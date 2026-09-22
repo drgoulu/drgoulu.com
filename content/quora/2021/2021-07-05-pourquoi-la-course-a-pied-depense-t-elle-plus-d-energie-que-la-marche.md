@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- activite-physique
+- physique
 - sante-humaine
+- sport
 - physiologie-humaine
-- metabolisme
-- course-a-pied
-- bilan-energetique
-- marcher-activite
-- exercice-physique
-- physiologie-du-sport
-- metabolisme-biochimie
+- physiologie
 coverImage: ./images/quora.png
 ---
 

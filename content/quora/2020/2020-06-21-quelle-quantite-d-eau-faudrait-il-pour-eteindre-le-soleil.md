@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- le-soleil
-- question-hypothetique
-- eau
 - astronomie
-- extinction
-- science-nature
-- raison-scientifique
 - astrophysique
-- le-soleil-astronomie
+- soleil
+- eau
 coverImage: ./images/quora.png
 ---
 

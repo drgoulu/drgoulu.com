@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
+- theorie
+- relativite
 - espace
-- vitesse-de-la-lumiere
-- gravitation
-- theorie-de-la-relativite
-- temps-physique
-- masse-physique
-- relativite-generale
-- espace-temps
-- relativite-physique
+- temps
 coverImage: ./images/qimg-26e8043f35236375b007633979156e3c.png
 ---
 

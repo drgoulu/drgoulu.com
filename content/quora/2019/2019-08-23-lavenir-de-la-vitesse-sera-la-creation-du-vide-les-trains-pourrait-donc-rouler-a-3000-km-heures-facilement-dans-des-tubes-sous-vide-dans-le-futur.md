@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
+- sciences
+- technologies
 - vitesse
 - futur
-- le-vide
-- transports
 - innovation
-- nouvelles-technologies
-- les-trains
-- transport-ferroviaire
-- technologie-moderne
 coverImage: ./images/quora.png
 ---
 

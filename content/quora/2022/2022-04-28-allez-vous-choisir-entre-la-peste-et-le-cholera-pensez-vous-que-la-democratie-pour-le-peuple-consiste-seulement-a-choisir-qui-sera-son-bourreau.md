@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie-politique
-- choix
-- pouvoir
+- philosophie
+- theorie
+- politique
 - democratie
-- cholera
-- peste
-- questions-rhetoriques
-- theorie-politique
-- concept-de-philosophie-politique
+- concepts
 coverImage: ./images/quora.png
 ---
 

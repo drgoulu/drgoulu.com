@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- systeme-de-numeration-decimale
-- civilisations-extraterrestres
 - sciences
 - mathematiques
 - astrobiologie
-- seti-recherche-d-intelligence-extraterrestre
-- intelligence-extra-terrestrielle
 - vie-extraterrestre
-- systeme-de-numeration
 coverImage: ./images/quora.png
 ---
 

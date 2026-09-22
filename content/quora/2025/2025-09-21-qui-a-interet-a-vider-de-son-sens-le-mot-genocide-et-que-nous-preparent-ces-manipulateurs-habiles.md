@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
+- sociologie
+- information
+- medias
 - sciences-politiques
-- manipulation
-- medias-d-information
-- propagande
-- genocide
-- guerre-psychologique
-- sociologie-politique
-- la-desinformation
-- manipulateur
-- manipulation-de-masse
 coverImage: ./images/quora.png
 ---
 

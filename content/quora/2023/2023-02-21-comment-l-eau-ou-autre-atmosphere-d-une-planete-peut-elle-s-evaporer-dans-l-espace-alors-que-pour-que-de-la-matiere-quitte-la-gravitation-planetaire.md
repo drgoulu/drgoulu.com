@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- espace
 - astronomie
-- vitesse-de-liberation
-- atmospheres-planetaires
-- gravitation
 - astrophysique
-- physique-spatiale
+- espace
 coverImage: ./images/qimg-ab1f5f15bee0381a62499fccb0bc7174.jpg
 ---
 

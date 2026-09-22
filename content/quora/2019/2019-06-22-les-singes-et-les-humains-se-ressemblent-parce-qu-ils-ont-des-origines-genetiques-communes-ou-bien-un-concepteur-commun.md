@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- anthropologie
-- evolution-processus
-- homme
-- genetique
-- primates
-- creationnisme
+- evolution
 - theorie
-- adn
-- origine-de-la-vie
-- evolution-humaine
+- vie
+- processus
+- origines
 coverImage: ./images/qimg-f1809ea9ff00ee33e98007217c311355.jpg
 ---
 

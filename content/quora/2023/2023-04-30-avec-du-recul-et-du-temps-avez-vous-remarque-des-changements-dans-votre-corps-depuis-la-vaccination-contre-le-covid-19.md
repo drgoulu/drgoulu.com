@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sante
-- experiences-personnelles
-- effets-secondaires-du-vaccin-covid-19
-- corps-humains
-- sondages
-- covid-19-coronavirus
 - experience
-- vaccination-covid-19
-- sante-physique
 - covid-19-2019-2020
+- corps-humains
 coverImage: ./images/quora.png
 ---
 

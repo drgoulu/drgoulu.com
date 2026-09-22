@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- science-et-technologie
-- nikola-tesla
-- transmission-de-pensee
-- histoire-des-inventions
+- sciences
+- histoire
 - recherche-scientifique
-- cameras-video
-- energie-sans-fil
-- invention-et-inventions
-- histoire-des-sciences
-- technologie-sans-fil
+- technologies
+- invention
 coverImage: ./images/quora.png
 ---
 

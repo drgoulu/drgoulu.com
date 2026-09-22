@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- politique-francaise
 - personne
-- eric-zemmour
-- violence
-- liberte-d-expression
-- racisme
-- haine
 - gouvernement
-- discours-de-haine
+- politique-francaise
+- liberte-d-expression
 - vie-politique-francaise
 coverImage: ./images/quora.png
 ---

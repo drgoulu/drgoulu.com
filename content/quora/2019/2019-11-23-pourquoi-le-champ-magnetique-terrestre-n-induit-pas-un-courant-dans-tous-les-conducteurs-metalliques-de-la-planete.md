@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- induction-electromagnetisme
-- terre-planete
-- conducteurs-electriques
-- champ-magnetique-terrestre
-- sciences-de-la-terre
-- le-courant-electrique
+- sciences
+- terre
+- planetes
 - electromagnetisme
-- planete-terre
-- champs-magnetiques
 coverImage: ./images/quora.png
 ---
 

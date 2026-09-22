@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- ondes
 - sciences
-- l-univers
-- matiere-noire
-- photons
-- atomes
-- radiation
-- matiere-physique
+- univers
 - physique-theorique
+- matiere
 coverImage: ./images/quora.png
 ---
 

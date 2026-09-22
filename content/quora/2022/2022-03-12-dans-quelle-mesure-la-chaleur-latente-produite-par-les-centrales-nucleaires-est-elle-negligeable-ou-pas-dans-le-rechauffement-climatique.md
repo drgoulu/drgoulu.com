@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- energie
 - changement-climatique
-- energie-physique
-- chaleur
-- les-centrales-nucleaires
-- impact-environnemental
-- energie-nucleaire
 - rechauffement-climatique
-- crise-climatique
-- energie-thermique
-- le-changement-climatique
+- energie-nucleaire
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - biologie
-- spiruline
+- animaux
 - especes
-- definition-scientifique
-- classification-des-animaux
-- botanique
-- taxonomie
 - science-biologique
-- classification-biologique
+- classification
 coverImage: ./images/quora.png
 ---
 

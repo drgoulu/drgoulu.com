@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- psychologie
-- libre-arbitre
-- reseaux-sociaux-en-ligne
-- comportement-humain
-- impact-social
 - philosophie
-- influence-sociale
+- psychologie
+- comportement-humain
 - reseaux-sociaux
+- libre-arbitre
 coverImage: ./images/quora.png
 ---
 

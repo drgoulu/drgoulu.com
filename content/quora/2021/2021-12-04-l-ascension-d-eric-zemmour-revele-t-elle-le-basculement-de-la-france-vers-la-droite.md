@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- france
-- opinion-publique
-- eric-zemmour
-- politique-francaise
-- election-presidentielle
 - politique
-- analyse-politique
-- droite-politique
-- opinion-politique
-- vie-politique-francaise
+- france
+- opinion
+- opinion-publique
+- politique-francaise
 coverImage: ./images/qimg-fe9113825f4090bbbaf39db25023628c.gif
 ---
 

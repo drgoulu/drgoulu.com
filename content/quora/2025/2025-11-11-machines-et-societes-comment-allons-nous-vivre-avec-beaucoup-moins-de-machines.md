@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - societe
-- machine
 - technologies
 - evolution
-- automatisation
 - changements-sociaux
-- les-machines
-- vie-en-societe
-- societe-moderne
-- technologie-et-societe
+- vie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-du-monde
-- question-hypothetique
-- evolution-processus
-- dinosaures
-- terre-planete
-- sciences-de-la-nature
-- paleontologie
-- hypotheses
+- sciences
+- histoire
 - evolution
-- histoire-de-la-terre
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

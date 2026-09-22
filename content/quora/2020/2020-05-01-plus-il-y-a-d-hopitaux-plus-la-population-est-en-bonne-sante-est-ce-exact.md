@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- sante
 - sante-publique
 - demographie
 - epidemiologie
-- les-hopitaux
-- sante-humaine
-- systeme-de-soins-de-sante
-- population
-- acces-aux-soins
-- sciences-de-la-sante
-- gestion-des-soins-de-sante
 coverImage: ./images/quora.png
 ---
 

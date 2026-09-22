@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- personne-reelle
-- marie-curie-scientifique
-- corps-humains
-- histoire-des-sciences
-- decomposition
+- sciences
+- histoire
 - radioactivite
-- le-corps-humain
+- corps-humains
 coverImage: ./images/quora.png
 ---
 

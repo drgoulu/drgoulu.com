@@ -6,14 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-nature
+- sciences
+- terre
+- nature
 - electromagnetisme
-- verticale
-- composant
-- geophysique
-- champ-magnetique-terrestre
-- sciences-de-la-terre
-- geoscience
 - champs-magnetiques
 coverImage: ./images/qimg-6c4fb3519ce93f874f4449789873765f.jpg
 ---

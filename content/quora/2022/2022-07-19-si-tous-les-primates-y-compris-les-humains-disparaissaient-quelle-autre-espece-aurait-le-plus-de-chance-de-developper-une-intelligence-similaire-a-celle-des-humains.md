@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
 - biologie
-- question-hypothetique
+- processus
 - humanite
-- primates
-- evolution-processus
 - especes
-- intelligence-humaine
-- hypotheses
-- espece-humaine
 coverImage: ./images/quora.png
 ---
 

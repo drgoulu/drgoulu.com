@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- vols
+- evolution
 - biologie
-- evolution-processus
-- adaptation
-- theorie-de-l-evolution
-- voler
-- evolution-humaine
-- biologie-humaine
-- biologie-de-l-evolution
+- theorie
+- processus
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- elections
 - politique-francaise
-- gauche
+- ideologies-politiques
 - representation
 - droite
-- elections
-- ideologies-politiques
-- democratie-liberale
-- personnalites-politiques
-- candidats-politiques
-- politiciens
 coverImage: ./images/quora.png
 ---
 

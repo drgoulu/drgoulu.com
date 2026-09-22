@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- nouvelles-technologies
-- bruit
-- aviation
-- helicopteres
+- sciences
+- technologies
 - ingenierie
-- science-et-technologie
-- aerodynamique
+- nouvelles-technologies
 coverImage: ./images/quora.png
 ---
 

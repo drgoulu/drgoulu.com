@@ -10,9 +10,6 @@ tags:
 - conseils-pratiques
 - hygiene
 - billets-de-banque
-- nettoyage
-- argent-liquide
-- bonnes-pratiques
 - hygiene-personnelles
 coverImage: ./images/qimg-e3f53e71db949e12078bbf625d3c25ed.jpg
 ---

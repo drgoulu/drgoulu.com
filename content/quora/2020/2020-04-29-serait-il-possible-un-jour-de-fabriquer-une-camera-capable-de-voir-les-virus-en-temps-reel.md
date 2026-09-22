@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - medecine
-- cameras
 - virus
 - biologie
-- microscopie-electronique
 - recherche-scientifique
 - virologie
-- imagerie-medicale
-- microscopie
 coverImage: ./images/quora.png
 ---
 

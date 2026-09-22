@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- le-soleil
 - sciences
 - astronomie
-- energie-nucleaire
-- atomes
-- astrophysiciens
-- physique-theorique
 - astrophysique
+- physique-theorique
 coverImage: ./images/quora.png
 ---
 

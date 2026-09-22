@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- risques-pour-la-sante
-- le-soleil
-- conseils-a-propos-des-enfants
-- protection-solaire
-- sante-des-yeux
-- securite-des-enfants
-- sante-de-l-enfant
-- protection-des-yeux
-- conseils-a-son-enfant
+- sante
+- soleil
+- securite
+- risques
+- protection
 coverImage: ./images/quora.png
 ---
 

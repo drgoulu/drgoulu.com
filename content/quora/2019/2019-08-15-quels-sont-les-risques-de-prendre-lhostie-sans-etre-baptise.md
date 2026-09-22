@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - religion
-- foi
-- liturgie-catholique
 - christianisme
-- bapteme
-- pratiques-religieuses
-- eucharistie
+- foi
 - religion-catholique
-- catholicisme
+- pratiques-religieuses
 coverImage: ./images/quora.png
 ---
 

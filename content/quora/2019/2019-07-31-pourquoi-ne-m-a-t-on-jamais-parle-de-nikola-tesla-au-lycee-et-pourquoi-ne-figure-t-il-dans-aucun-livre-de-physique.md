@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- education
-- nikola-tesla
 - physique
-- histoire-des-sciences
+- sciences
+- histoire
+- education
 - scientifiques
-- livres-scientifiques
-- enseignement
-- histoire-de-la-physique
-- enseignement-des-sciences
 coverImage: ./images/quora.png
 ---
 

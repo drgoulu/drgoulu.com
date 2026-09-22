@@ -8,14 +8,9 @@ categories:
 tags:
 - plateformes-en-ligne
 - contenu
-- tutoriels
-- publication
-- encyclopedies
-- informations
+- information
 - wikipedia
-- plateformes-de-contenu
-- contenu-web
-- publications
+- plateforme
 coverImage: ./images/quora.png
 ---
 

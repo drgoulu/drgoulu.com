@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- adolescents-et-adolescence
+- voyage
 - aviation
-- curiosite
-- regles-de-securite
+- avions
 - vol
-- hotesse-de-l-air
-- securite-aerienne
-- voyage-en-avion
-- cockpit
-- adolescent
+- curiosite
 coverImage: ./images/quora.png
 ---
 

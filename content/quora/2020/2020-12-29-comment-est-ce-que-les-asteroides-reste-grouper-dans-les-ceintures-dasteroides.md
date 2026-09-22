@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- la-ceinture-d-asteroides
 - astronomie
-- systeme-solaire
-- gravitation
-- science-spatiale
-- asteroides
 - astrophysique
-- dynamique-du-systeme-solaire
-- astronomie-et-astrophysique
+- systeme-solaire
+- science-spatiale
 coverImage: ./images/quora.png
 ---
 

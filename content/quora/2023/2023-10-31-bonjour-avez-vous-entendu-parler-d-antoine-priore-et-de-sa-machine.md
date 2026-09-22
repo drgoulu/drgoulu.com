@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- personnalites
-- science-et-technologie
-- inovation
+- sciences
+- technologies
 - recherche
-- people
-- inventeurs
-- l-invention
-- invention-et-inventions
-- technologie-et-innovation
+- invention
+- innovation
 coverImage: ./images/quora.png
 ---
 

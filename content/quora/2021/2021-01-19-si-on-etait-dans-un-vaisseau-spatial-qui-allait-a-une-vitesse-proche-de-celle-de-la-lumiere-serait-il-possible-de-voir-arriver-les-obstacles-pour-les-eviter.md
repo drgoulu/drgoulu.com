@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
+- relativite
+- lumiere
+- vitesse
 - perception
-- vaisseau-spatial
-- obstacles
-- vitesse-de-la-lumiere
-- relativite-restreinte
-- perception-visuelle
-- dilation-du-temps
-- relativite-physique
-- voyage-spatial
 coverImage: ./images/qimg-fe3cc20f7dd5ccfe854cf68bb52e0259.jpg
 ---
 

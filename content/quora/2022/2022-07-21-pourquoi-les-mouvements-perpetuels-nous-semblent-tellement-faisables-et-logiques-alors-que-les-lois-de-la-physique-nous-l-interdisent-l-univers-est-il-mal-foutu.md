@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- philosophie
-- machines-a-mouvement-perpetuel
-- mouvement
-- energie-physique
-- l-univers
 - physique
-- lois-de-la-physique
-- mecanique
-- philosophie-des-sciences
+- sciences
+- philosophie
+- univers
+- energie
 coverImage: ./images/quora.png
 ---
 

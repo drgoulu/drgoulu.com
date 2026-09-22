@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- mathematiques
 - sciences
+- philosophie
+- mathematiques
 - nombres
-- nombres-reels
-- nombres-complexes
-- philosophie-des-mathematiques
-- physique-mathematique
-- mathematiques-et-physique
-- post
 coverImage: ./images/quora.png
 ---
 

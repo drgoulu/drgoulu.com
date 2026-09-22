@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- avions
-- portance-aerodynamique
-- sciences-de-l-ingenieur
-- mecanique-des-fluides
+- sciences
+- ingenierie
+- mecanique
 - aviation
-- aerodynamique
-- physique-sciences-d-ingenieur
-- science-de-l-ingenierie
 coverImage: ./images/quora.png
 ---
 

@@ -8,12 +8,8 @@ categories:
 tags:
 - physique
 - telephone-portable
-- aimants
-- boussoles
 - champ-magnetique-terrestre
 - electronique
-- fonctionnement-des-telephones
-- la-boussole
 - champs-magnetiques
 coverImage: ./images/qimg-bc6b193216932d239b9ccdde719039bc.png
 ---

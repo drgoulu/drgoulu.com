@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - sante
-- telephone-portable
-- electromagnetisme
-- ondes-radio
-- exposition
-- science-et-technologie
+- technologies
 - securite
-- prevention
-- sante-physique
 coverImage: ./images/quora.png
 ---
 

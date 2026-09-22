@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - finance
-- les-crypto-monnaies
-- bitcoin
-- investissement-bitcoin
-- technologie-financiere
-- cryptomonnaie
+- crypto-monnaies
 - monnaie-numerique
 - monnaies-virtuelles
 - blockchain
-- valeur-des-crypto-monnaies
 coverImage: ./images/quora.png
 ---
 

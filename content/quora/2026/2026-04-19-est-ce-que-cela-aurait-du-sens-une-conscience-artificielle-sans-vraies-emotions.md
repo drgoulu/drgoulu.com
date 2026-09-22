@@ -9,13 +9,8 @@ tags:
 - emotions
 - intelligence-artificielle
 - conscience
-- concepts-dans-la-philosophie-de-l-esprit
-- sentience
 - conscience-de-soi
-- la-vie-artificielle
-- conscience-artificielle
 - philosophie-de-l-esprit
-- intelligence-artificielle-generale
 coverImage: ./images/quora.png
 ---
 

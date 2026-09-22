@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- interaction-lumiere-matiere
-- photons
 - optique
-- emission-du-photon
 - masse-physique
-- quantum
-- radiation
-- physique-des-rayonnements
-- physique-de-rayonnement
+- photons
+- emission
 coverImage: ./images/quora.png
 ---
 

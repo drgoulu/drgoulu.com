@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- maladies-virales
-- benefique
 - biologie
-- virus
+- sante
 - medecine
-- virologie
 - biologie-humaine
-- immunologie
+- virus
 coverImage: ./images/quora.png
 ---
 

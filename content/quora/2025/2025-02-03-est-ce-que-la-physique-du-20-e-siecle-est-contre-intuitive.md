@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- scientifiques-du-20e-siecle
 - sciences
-- contre-intuitif
-- concepts-majeurs-de-science
-- recherches-scientifiques
-- concepts-en-physique
 - physique-theorique
-- science-physique
-- physique-moderne
+- recherche-scientifique
+- concepts
 coverImage: ./images/qimg-32f797a5d264d52bba3cb86f299ecb62.jpg
 ---
 

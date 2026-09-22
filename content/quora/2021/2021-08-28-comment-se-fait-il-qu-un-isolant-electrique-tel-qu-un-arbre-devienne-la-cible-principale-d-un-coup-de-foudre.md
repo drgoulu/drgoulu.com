@@ -8,13 +8,8 @@ categories:
 tags:
 - physique
 - sciences
-- foudre
-- isolants-electriques
-- arbres-plantes
+- biologie
 - electricite
-- phenomenes-naturels
-- science-nature
-- physique-et-biologie
 - phenomenes-physiques
 coverImage: ./images/quora.png
 ---

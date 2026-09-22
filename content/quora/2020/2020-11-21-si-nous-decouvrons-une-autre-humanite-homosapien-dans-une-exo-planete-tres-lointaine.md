@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- philosophie
-- vie-extraterrestre
 - sciences
-- reincarnation
-- astrobiologie
-- humanite
-- l-ethique
-- exploration-spatiale
-- exoplanetes
 - astronomie
+- philosophie
+- exploration-spatiale
+- humanite
 coverImage: ./images/quora.png
 ---
 

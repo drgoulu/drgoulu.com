@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-environnement
-- terre-planete
-- le-soleil
+- terre
+- planetes
+- environnement
+- soleil
 - energie-nucleaire
-- risque-et-risques
-- radioactivite
-- dechets-nucleaires
-- menace-ecologique
-- problemes-environnementaux
 coverImage: ./images/quora.png
 ---
 

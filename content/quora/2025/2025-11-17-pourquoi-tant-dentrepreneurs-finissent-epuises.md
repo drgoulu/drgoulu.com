@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sante-mentale
+- sante
+- securite
+- conseils
+- travail
 - entrepreneuriat
-- epuisement
-- activite-professionnelle
-- bien-etre-au-travail
-- gestion-du-stress
-- conseils-aux-entrepreneurs
-- conditions-de-travail
-- stress-au-travail
-- sante-et-securite-au-travail
 coverImage: ./images/quora.png
 ---
 

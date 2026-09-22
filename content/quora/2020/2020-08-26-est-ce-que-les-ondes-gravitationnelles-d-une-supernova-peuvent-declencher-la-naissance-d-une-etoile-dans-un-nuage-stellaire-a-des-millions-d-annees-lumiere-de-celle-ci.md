@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- nuages
-- evolution-stellaire
 - astronomie
-- les-etoiles
-- supernova
-- cosmologie
-- astrophysique-relativiste
 - astrophysique
+- cosmologie
+- etoiles
 coverImage: ./images/quora.png
 ---
 

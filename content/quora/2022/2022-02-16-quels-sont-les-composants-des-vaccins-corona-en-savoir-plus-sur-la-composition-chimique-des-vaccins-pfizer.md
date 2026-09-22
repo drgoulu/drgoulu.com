@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- pfizer-entreprise
-- vaccins
-- composition-chimique
-- pharmacologie
 - medecine
-- vaccin-covid-19
-- immunisations
+- vaccins
 - vaccination
+- vaccin-covid-19
 coverImage: ./images/quora.png
 ---
 

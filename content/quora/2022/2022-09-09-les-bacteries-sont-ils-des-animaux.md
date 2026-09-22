@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- biologie
 - science-biologique
 - etres-vivants
-- bacterie
-- microbiologie
-- classification-animale
 - organismes-vivants
-- biologie-bacteriologie-microbiologie
-- classification-biologique
-- microorganisme
-- micro-biologie
+- microbiologie
 coverImage: ./images/quora.png
 ---
 

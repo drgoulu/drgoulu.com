@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - droit
-- ville-de-geneve
-- port
-- suisse
-- zone-franche
-- juridiction
-- droit-international-public
+- ville
 - geneve
-- canton-de-geneve
+- suisse
 - droit-international
 coverImage: ./images/quora.png
 ---

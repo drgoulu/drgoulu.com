@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
+- sciences
+- technologies
 - chimie
-- bulles
-- eau-gazeuse
-- aliments-et-boissons
-- science-alimentaire
-- boissons-gazeuses
-- physique-chimie
-- chimie-physique
-- science-et-technologie-des-aliments
-- sciences-alimentaires
+- aliments
 coverImage: ./images/quora.png
 ---
 

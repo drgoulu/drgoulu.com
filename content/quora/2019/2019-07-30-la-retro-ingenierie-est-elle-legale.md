@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - informatique
+- technologies
 - droit
 - propriete-intellectuelle
-- brevets
-- technologies
-- logiciel
-- droit-sur-la-propriete-intellectuelle
-- science-de-l-informatique
-- la-technologie
 coverImage: ./images/quora.png
 ---
 

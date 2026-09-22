@@ -8,14 +8,9 @@ categories:
 tags:
 - chimie
 - energie
-- reaction-exothermique
 - thermodynamique
-- gaz-hydrogene
-- reactions-chimiques
-- chimie-physique
-- energie-hydrogene
+- physique
 - hydrogene
-- thermodynamique-chimique
 coverImage: ./images/quora.png
 ---
 

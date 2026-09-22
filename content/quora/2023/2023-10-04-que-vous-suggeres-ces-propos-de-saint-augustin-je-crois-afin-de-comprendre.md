@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- saint-augustin
+- religion
 - croyance
 - comprehension
-- religion
-- les-citations
-- la-foi
-- theologie
-- croire
-- religion-catholique
+- foi
 coverImage: ./images/quora.png
 ---
 

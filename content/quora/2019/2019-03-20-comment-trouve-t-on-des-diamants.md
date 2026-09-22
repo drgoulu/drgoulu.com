@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - geologie
-- diamants
-- pierres-precieuses
 - mineraux
-- exploitation-miniere
-- ressources-minerales
-- industrie-miniere
+- diamants
 - mineralogie
-- extraction-miniere
-- matieres-premieres-minerales
+- ressources-minerales
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- biologie
-- cafards
-- histoire-des-sciences
-- evolution-processus
-- paleontologie
-- sciences-de-la-nature
-- zoologie
+- sciences
+- histoire
 - evolution
-- sciences-de-la-vie
-- entomologie
+- biologie
+- vie
 coverImage: ./images/quora.png
 ---
 

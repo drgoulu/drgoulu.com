@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- reflexion
 - sciences
-- histoire-du-xxe-siecle
+- histoire
 - recherche-scientifique
-- histoire-des-sciences
-- progres-de-la-science
 - decouvertes-scientifiques
-- xxeme-siecle
-- progres-scientifique
-- histoire-de-la-science
+- reflexion
 coverImage: ./images/quora.png
 ---
 

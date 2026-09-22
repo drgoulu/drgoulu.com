@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- science-fiction-genre
-- voyage-dans-le-temps
-- espace-temps
-- relativite-restreinte
-- vitesse-de-la-lumiere
-- temps-physique
-- theorie-de-la-relativite
-- relativite-generale
-- relativite-physique
+- theorie
+- relativite
+- temps
+- lumiere
 coverImage: ./images/quora.png
 ---
 

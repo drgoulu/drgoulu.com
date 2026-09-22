@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- animaux
-- limaces
-- evolution-processus
-- biologie-animale
-- squelette
-- zoologie
 - evolution
-- animaux-invertebres
-- anatomie-animale
-- evolution-animale
+- processus
+- animaux
+- biologie-animale
+- zoologie
 coverImage: ./images/quora.png
 ---
 

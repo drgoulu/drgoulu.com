@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- liechtenstein
-- pays
-- autriche
-- identite-nationale
-- allemagne
-- geographie
 - suisse
-- italie
-- identites
+- geographie
+- pays
+- identite
 coverImage: ./images/quora.png
 ---
 

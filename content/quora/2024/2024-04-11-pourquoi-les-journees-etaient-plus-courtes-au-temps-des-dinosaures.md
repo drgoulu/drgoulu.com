@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
+- terre
+- rotation
 - paleontologie
-- duree
-- histoire-de-la-terre
 - dinosaures
-- heures-de-la-journee
-- rotation-de-la-terre
-- science-de-la-vie-et-de-la-terre
-- les-jours
-- paleobiologie
 coverImage: ./images/quora.png
 ---
 

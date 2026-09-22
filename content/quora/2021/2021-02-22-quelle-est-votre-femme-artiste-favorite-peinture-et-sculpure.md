@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - question-personnelle
-- sculpture
-- artistes-visuels
 - artiste
 - peinture
-- art-sculpture-peinture
 - question-de-liste
 - sculpteurs
-- peintres
-- artistes-peintres
 coverImage: ./images/qimg-a19fa6fb398659da545fa29edf7558b1.jpg
 ---
 

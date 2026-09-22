@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- perception
-- voyage-dans-l-espace
-- relativite-restreinte
-- vitesse-de-la-lumiere
-- perception-visuelle
-- vision
-- theorie-de-la-relativite
+- theorie
 - physique-theorique
 - relativite
+- espace
 coverImage: ./images/qimg-03e774e77994fda19f2172c89e598134.jpg
 ---
 

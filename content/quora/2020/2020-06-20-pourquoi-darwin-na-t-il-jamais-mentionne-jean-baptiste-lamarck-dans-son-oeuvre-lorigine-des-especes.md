@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- personnalites
-- jean-baptiste-lamarck
-- charles-darwin
-- histoire-des-sciences
-- de-l-origine-des-especes-livre
-- theorie-de-l-evolution
-- science-biologique
-- livres-scientifiques
-- histoire-de-la-biologie
-- histoire-de-la-science
+- sciences
+- histoire
+- evolution
+- biologie
+- theorie
 coverImage: ./images/quora.png
 ---
 

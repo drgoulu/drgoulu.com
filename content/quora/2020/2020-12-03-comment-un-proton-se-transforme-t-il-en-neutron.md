@@ -6,13 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- la-physique-nucleaire
+- physique-nucleaire
 - protons
-- particules-subatomiques
 - neutrons
 - reactions-nucleaires
-- physique-subatomique
-- physique-nucleaire-et-physique-theorique
+- physique-theorique
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- ethique
+- vie
 - exploration-spatiale
-- pauvrete
+- ethique
+- mars
 - ressources
-- priorites-dans-la-vie
-- la-faim
-- mission-sur-mars
-- les-necessites
-- priorite
-- voyage-spatial-vers-mars
 coverImage: ./images/quora.png
 ---
 

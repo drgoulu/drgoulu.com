@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
+- politique
 - russie
-- propagande
-- urss
-- la-seconde-guerre-mondiale
-- occident
+- seconde-guerre-mondiale
 - union-sovietique
-- propagande-politique
-- histoire-de-la-seconde-guerre-mondiale
 coverImage: ./images/quora.png
 ---
 

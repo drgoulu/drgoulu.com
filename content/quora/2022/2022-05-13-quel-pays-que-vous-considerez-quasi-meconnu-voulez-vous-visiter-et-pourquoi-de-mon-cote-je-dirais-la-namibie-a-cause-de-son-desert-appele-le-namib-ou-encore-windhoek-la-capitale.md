@@ -8,14 +8,9 @@ categories:
 tags:
 - pays
 - voyage-international
-- namibie
 - desert
-- l-inconnu
-- capital
+- inconnu
 - voyage
-- pays-etranger
-- windhoek-namibie
-- pays-africain
 coverImage: ./images/quora.png
 ---
 

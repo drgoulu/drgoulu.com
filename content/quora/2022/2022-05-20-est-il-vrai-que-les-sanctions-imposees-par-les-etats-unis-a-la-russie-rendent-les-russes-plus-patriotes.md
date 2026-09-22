@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- opinion-publique
-- russie
 - relations-internationales
-- conflit
-- patriotisme
-- sanctions-economiques
+- opinion-publique
 - politique-internationale
-- politique-etrangere
+- russie
+- conflits
 coverImage: ./images/quora.png
 ---
 

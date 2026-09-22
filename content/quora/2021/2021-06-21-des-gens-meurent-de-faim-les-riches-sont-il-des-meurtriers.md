@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- faim
-- inegalites-de-revenu
-- richesse
-- pauvrete
-- responsabilite
 - ethique
-- mortalite
-- injustice-sociale
 - inegalite
+- richesse
+- responsabilite
 coverImage: ./images/qimg-0da9e3434d13b4ef256a62f5a50dfbc2.jpg
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sports
-- classement-mondial-de-la-fide
+- sport
 - football
 - classements
-- equipes-nationales-de-la-fifa
-- performances-sportives
-- equipes-de-football
 - football-sport
 - sport-football
-- equipes-nationales-de-football
 coverImage: ./images/quora.png
 ---
 

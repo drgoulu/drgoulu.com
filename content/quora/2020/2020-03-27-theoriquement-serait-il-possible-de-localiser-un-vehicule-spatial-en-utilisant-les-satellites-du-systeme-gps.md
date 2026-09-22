@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - exploration-spatiale
-- communications-satellite
+- communication-satellite
 - systeme-de-coordonnees-geographiques
-- navigation-gps
-- geolocalisation
 - satellites
 - technologie-spatiale
-- vehicule-spatial
-- systeme-de-positionnement-par-satellites
-- navigation-satellite
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- environnement
 - relations-internationales
 - guerre
 - ethique
 - pollution
-- casus-belli
-- l-environnement
-- pays-puissants
-- grandes-puissances-mondiales
-- droit-international
-- diplomatie-et-relation-internationale
 coverImage: ./images/quora.png
 ---
 

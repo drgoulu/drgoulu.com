@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- trous-noirs
-- espace
-- etoiles-astronomie
+- sciences
 - astronomie
-- compression
-- matiere-physique
 - astrophysique
-- science-physique
-- etoiles-corps-celestes
+- espace
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- eau
 - adaptation
-- faune-marine
-- mecanismes
-- pression-de-l-eau
-- ocean-profond
-- biologie-marine
-- animaux-marins
+- pression
 - vie-marine
-- sciences-marine
-- mecanismes-d-adaptation
+- faune-marine
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- terre
+- planetes
 - changement-climatique
-- terre-planete
-- ecologie
-- oxygene
-- sciences-de-l-atmosphere
-- climatologie
 - rechauffement-climatique
-- science-environnementale
-- le-changement-climatique
-- sciences-du-climat
 coverImage: ./images/qimg-f1484309c68d335566ef5d223364ee75.jpg
 ---
 

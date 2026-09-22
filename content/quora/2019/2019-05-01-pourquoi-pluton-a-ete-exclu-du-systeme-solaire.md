@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
 - sciences
-- pluton-planete-naine
 - astronomie
-- systeme-solaire
-- science-physique
-- planetes-du-systeme-solaire
-- astronomie-et-astrophysique
-- le-systeme-solaire
+- astrophysique
+- planetes
 coverImage: ./images/quora.png
 ---
 

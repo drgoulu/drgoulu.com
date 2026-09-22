@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- fusion-des-elements-chimiques
-- etoiles-corps-celestes
-- nombre-atomique
-- sciences-nucleaires
 - astrophysique
+- etoiles-corps-celestes
 - etoiles
-- structure-atomique
-- chimie-nucleaire
+- elements-chimiques
 coverImage: ./images/qimg-048485834b6312086baeda277728ebd8.png
 ---
 

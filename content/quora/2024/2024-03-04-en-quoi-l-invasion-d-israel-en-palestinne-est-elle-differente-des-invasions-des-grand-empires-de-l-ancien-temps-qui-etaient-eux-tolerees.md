@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- conflit-israelo-palestinien
-- palestine
+- monde
 - guerre
-- invasions
-- empires
-- antiquite
-- guerres-et-histoire-militaire
 - israel
-- histoire-du-monde
+- conflit-israelo-palestinien
 coverImage: ./images/quora.png
 ---
 

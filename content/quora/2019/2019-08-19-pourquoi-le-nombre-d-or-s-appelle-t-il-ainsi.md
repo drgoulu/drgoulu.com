@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
+- histoire
 - mathematiques
-- nombre-d-or
-- histoire-mathematiques
-- termes-et-definitions-mathematiques
-- concepts-mathematiques
-- langage-mathematique
-- sciences-mathematiques
-- histoire-des-mathematiques
-- mathematiques-et-sciences
+- nombres
+- concepts
 coverImage: ./images/quora.png
 ---
 

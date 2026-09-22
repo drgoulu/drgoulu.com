@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire
 - physique
-- guerre-nucleaire
-- hiroshima-japon
-- catastrophes
-- la-seconde-guerre-mondiale
-- histoire-du-japon
+- histoire
 - radioactivite
-- bombe-atomique
+- catastrophes
+- seconde-guerre-mondiale
 coverImage: ./images/qimg-972fbda8b5da6edffc6014e20267485a.jpg
 ---
 

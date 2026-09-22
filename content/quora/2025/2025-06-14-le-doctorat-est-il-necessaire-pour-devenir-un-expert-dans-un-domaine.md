@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- enseignement-superieur
-- formation
-- activite-professionnelle
 - recherche
 - etudes
-- expert
-- doctorat
-- competence
-- expertise
+- formation
+- enseignement-superieur
+- competences
 coverImage: ./images/quora.png
 ---
 

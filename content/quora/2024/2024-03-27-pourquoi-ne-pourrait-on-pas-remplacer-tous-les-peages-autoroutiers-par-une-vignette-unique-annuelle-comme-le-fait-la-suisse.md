@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - suisse
-- circulation-routiere
+- economie
+- transports
 - financement-public
-- peages
-- vignette
-- systeme-prepaye
-- economie-des-transports
-- infrastructures-routieres
-- transport-routier
-- trafic-routier
+- circulation-routiere
 coverImage: ./images/quora.png
 ---
 

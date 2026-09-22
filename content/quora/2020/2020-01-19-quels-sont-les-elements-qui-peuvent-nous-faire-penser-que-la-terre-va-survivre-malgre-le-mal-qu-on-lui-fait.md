@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- terre
+- planetes
+- environnement
 - changement-climatique
-- terre-planete
-- l-environnement
-- resilience
-- pollution
-- influence-de-l-homme-sur-la-planete
-- impact-environnemental
 - rechauffement-climatique
-- crise-climatique
-- conservation-de-l-environnement
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - histoire
 - albert-einstein-physicien
-- adolf-hitler
-- exil
-- allemagne-nazie
 - personnalites
-- histoire-de-l-allemagne
-- allemagne
-- personnages-historiques
 - histoire-humaine
+- allemagne
 coverImage: ./images/quora.png
 ---
 

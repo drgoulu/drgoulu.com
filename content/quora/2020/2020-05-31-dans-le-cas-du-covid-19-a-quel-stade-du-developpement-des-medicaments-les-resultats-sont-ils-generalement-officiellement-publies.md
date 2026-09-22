@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- covid-19-2019-2020
 - recherche-scientifique
-- pharmacologie
-- information-medicale
-- developpement-de-medicaments
-- tests-cliniques
+- covid-19-2019-2020
+- developpement
 - recherche-medicale
-- publications-scientifiques
-- decouverte-de-medicaments
-- essai-clinique
+- decouvertes
 coverImage: ./images/quora.png
 ---
 

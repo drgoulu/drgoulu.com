@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- psychologie
-- vol-spatial-habite
-- cohabitation
-- relations-humaines
-- compatibilite
-- test-mbti
-- type-de-personnalite
+- espace
 - exploration-spatiale
-- voyage-dans-l-espace
+- psychologie
+- voyage
+- relations-humaines
 coverImage: ./images/quora.png
 ---
 

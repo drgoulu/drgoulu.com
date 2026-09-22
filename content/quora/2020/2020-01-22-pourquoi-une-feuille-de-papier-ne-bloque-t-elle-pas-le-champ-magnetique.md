@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- electromagnetisme
-- papier
+- sciences
 - materiaux
+- electromagnetisme
 - proprietes
-- champs-magnetiques
-- caracteristiques-physiques
-- science-physique
-- magnetisme
-- proprietes-physiques
 coverImage: ./images/quora.png
 ---
 

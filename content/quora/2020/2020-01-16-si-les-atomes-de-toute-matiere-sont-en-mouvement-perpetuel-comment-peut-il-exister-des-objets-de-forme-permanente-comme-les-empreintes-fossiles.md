@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- paleontologie
-- formes
-- sciences-de-la-nature
-- atomes
-- fossiles
-- mouvement-physique
-- matiere-physique
-- solides
-- science-de-la-terre
+- sciences
+- terre
+- nature
+- matiere
 coverImage: ./images/quora.png
 ---
 

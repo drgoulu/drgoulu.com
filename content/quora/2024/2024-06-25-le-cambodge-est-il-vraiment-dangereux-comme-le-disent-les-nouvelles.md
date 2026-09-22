@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - securite
-- medias
-- cambodge
+- risques
 - information
+- medias
 - risque-et-risques
-- securite-personnelle
-- evaluation-des-risques
-- management-du-risque
-- les-medias
-- informations
 coverImage: ./images/quora.png
 ---
 

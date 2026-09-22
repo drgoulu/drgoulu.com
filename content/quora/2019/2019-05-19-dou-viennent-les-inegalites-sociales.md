@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
+- politique
 - sociologie
-- inegalite-de-genre
-- philosophie-politique
-- stratification-sociale
-- problemes-sociaux
-- justice-sociale
-- sciences-sociales
-- antropologie
-- inegalites-sociales
 - inegalite
+- inegalites-sociales
 coverImage: ./images/quora.png
 ---
 

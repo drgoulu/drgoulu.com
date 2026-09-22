@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- voie-lactee
-- etoiles-corps-celestes
-- l-univers-astronomie
+- univers
 - galaxies
+- etoiles-corps-celestes
 - etoiles
-- galaxie-de-la-voie-lactee
-- la-voie-lactee-astronomie
-- galaxies-astronomie
 coverImage: ./images/qimg-3f1e63e1baa6a214b877c7ba4a560427.jpg
 ---
 

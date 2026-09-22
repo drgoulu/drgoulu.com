@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- marketing-de-contenu
-- blogs
 - sciences
-- statistiques-utilisateurs
-- blog-de-niche
-- creation-de-contenu
-- blogging
-- createurs-de-contenu
-- blog
+- creation
+- contenu
+- marketing
 coverImage: ./images/quora.png
 ---
 

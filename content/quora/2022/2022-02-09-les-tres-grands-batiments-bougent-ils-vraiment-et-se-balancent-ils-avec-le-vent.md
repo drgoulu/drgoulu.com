@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- vent
-- architect
-- gratte-ciels
 - ingenierie
 - mouvement
-- batiments
 - architecture
-- le-vent
-- mouvement-physique
+- vent
 coverImage: ./images/quora.png
 ---
 

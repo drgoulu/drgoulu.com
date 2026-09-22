@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- experiences
-- masse-negative
-- l-antimatiere
-- recherches-scientifiques
-- physiciens
-- theories-physiques
 - physique-theorique
-- science-experimentale
+- recherche-scientifique
+- experience
+- theories-physiques
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- recherche-scientifique
-- theorie-des-cordes
-- progres-de-la-science
-- theories-physiques
+- sciences
+- theorie
 - physique-theorique
-- recherche
-- science-theorique
-- physique-mathematique
-- progres-scientifique
+- recherche-scientifique
 coverImage: ./images/quora.png
 ---
 

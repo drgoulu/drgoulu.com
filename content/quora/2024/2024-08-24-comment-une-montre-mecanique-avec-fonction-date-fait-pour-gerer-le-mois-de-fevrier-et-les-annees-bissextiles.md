@@ -9,10 +9,7 @@ tags:
 - fonctionnalite
 - calendrier
 - montre-mecanique
-- annees-bisextiles
-- mecanisme-de-toilettes
 - horlogerie
-- fevrier-mois
 - systeme-horaire
 coverImage: ./images/qimg-db815bf38f4f5085681ce8fdc4fd4f9e.png
 ---

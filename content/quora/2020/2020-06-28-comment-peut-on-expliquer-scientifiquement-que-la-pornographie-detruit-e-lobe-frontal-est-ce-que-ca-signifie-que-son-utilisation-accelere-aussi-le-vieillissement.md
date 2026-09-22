@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- comportement-humain
 - sciences
-- contenu-adulte
-- vieillissement
+- comportement-humain
 - neurologie
-- sante-mentale
-- pornographie
-- lobe-frontal
-- fonctionnement-du-cerveau
 - neuroscience
+- contenu-adulte
 coverImage: ./images/quora.png
 ---
 

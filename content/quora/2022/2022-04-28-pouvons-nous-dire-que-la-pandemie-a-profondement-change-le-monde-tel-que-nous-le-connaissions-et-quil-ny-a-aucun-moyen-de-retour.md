@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- reflexion
+- evolution
+- vie
 - societe
-- pandemie
-- changements-dans-la-vie
-- un-nouveau-monde
-- impact-social
-- changement-et-evolution
-- societe-moderne
-- reflexion-profonde
+- reflexion
 coverImage: ./images/quora.png
 ---
 

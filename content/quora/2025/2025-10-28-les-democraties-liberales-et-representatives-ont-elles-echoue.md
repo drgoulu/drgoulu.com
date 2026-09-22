@@ -8,14 +8,9 @@ categories:
 tags:
 - politique
 - donald-trump
-- argentine
-- dictatures
 - etats-unis
 - democratie-representative
-- liberalisme-politique
-- socialisme-democratique
 - democratie-liberale
-- dictature
 coverImage: ./images/quora.png
 ---
 

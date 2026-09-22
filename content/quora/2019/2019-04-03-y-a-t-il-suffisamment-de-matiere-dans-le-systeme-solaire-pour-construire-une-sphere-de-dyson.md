@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - astronomie
-- mega-structure
-- matieres-premieres
-- exploration-spatiale
-- spheres-de-dyson
-- systeme-solaire
 - astrophysique
-- matiere-physique
-- technologie-spatiale
-- science-spatiale
+- systeme-solaire
+- exploration-spatiale
 coverImage: ./images/quora.png
 ---
 

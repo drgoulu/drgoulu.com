@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- france
-- energie-physique
-- ressources-en-eau
-- geothermie
-- energie-renouvelable
-- sources-d-energie
-- energie-alternative
+- physique
 - energie
+- france
+- eau
+- energie-renouvelable
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- terre-planete
-- l-univers
-- cosmologie
-- energie-potentielle
-- force-gravitationnelle
 - astrophysique
-- energie-physique
-- physique-theorique
+- univers
+- cosmologie
+- terre
 coverImage: ./images/quora.png
 ---
 

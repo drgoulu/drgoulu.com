@@ -6,13 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
+- opinion
 - opinion-publique
-- les-etats-unis-d-amerique
-- mysteres
-- auditions
-- observations-d-ovni
-- congres-des-etats-unis
-- opinion-politique
+- observation
 - etats-unis
 coverImage: ./images/quora.png
 ---

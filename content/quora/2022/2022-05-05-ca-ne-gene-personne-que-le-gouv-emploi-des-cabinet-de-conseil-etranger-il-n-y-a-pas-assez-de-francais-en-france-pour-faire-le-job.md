@@ -9,13 +9,8 @@ tags:
 - france
 - opinion-publique
 - emploi
-- nationalisme
-- gouvernement-de-la-republique-francaise
 - competences
-- cabinets-de-conseil
-- patriotisme-economique
 - gouvernement
-- service-publique
 coverImage: ./images/quora.png
 ---
 

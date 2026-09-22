@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- essence
-- moteur-a-combustion-interne
+- sciences
 - energie
-- rendement-du-petrole
 - technologies
-- piles-a-combustible
-- technologie-energetique
+- ingenierie
 - energie-alternative
-- science-de-l-ingenierie
 coverImage: ./images/quora.png
 ---
 

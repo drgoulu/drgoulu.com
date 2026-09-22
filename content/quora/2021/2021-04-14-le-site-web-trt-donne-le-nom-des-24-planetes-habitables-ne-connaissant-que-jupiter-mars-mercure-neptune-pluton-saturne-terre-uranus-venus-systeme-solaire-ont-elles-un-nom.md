@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- terre-planete
+- terre
+- planetes
 - systeme-solaire
-- mercure
-- trt-world-station-de-television
-- planetes-habitables
-- pluton-planete-naine
-- uranus-planete
-- mars-planete
+- mars
 - venus-planete
-- neptune-planete
 coverImage: ./images/qimg-d15cbecaf0007cf72e7c2bc849a20a18.jpg
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- elements-chimie
-- structure-atomique
+- physique-theorique
 - chimie
 - masse-physique
-- physique-theorique
-- masse-atomique
-- chimie-physique
-- elements-chimiques
 coverImage: ./images/quora.png
 ---
 

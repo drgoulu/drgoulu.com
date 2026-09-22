@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution-humaine
 - psychologie
-- relations-romantiques
-- comportement-humain
-- sexualite
-- monogamie
 - anthropologie
 - sociologie
-- evolution-humaine
-- polygamie
-- sexualite-humaine
+- comportement-humain
 coverImage: ./images/quora.png
 ---
 

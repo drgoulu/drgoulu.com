@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- aimants
 - electromagnetisme
-- instrument-de-mesure
-- unite-de-puissance
-- force-magnetique
-- puissance-physique
-- unites-de-mesure
-- mesures-physiques
+- puissance
 - magnetisme
+- mesures-physiques
 coverImage: ./images/quora.png
 ---
 

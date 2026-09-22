@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - animaux
 - biologie-animale
-- rongeurs
 - faune
-- mammiferes
-- faune-sauvage
-- animaux-terrestres
-- classification-des-animaux
-- sciences-des-animaux
-- taxonomie-des-animaux
+- classification
 coverImage: ./images/quora.png
 ---
 

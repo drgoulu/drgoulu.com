@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - relations-humaines
-- apparence
-- difficultes-de-choix
-- jugements
-- beaute-physique
-- selection
-- apparences-physiques-des-gens
-- criteres-de-choix
-- le-jugement
-- selection-sexuelle
+- difficulte
+- choix
+- jugement
+- physique
 coverImage: ./images/quora.png
 ---
 

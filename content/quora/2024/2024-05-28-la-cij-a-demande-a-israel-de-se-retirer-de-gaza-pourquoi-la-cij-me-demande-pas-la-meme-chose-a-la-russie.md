@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - relations-internationales
-- russie
-- bande-de-gaza
-- conflit-israelo-palestinien
-- israel
-- cour-internationale-de-justice
 - politique-internationale
-- droit-international
-- justice-internationale
+- russie
+- israel
+- conflit-israelo-palestinien
 coverImage: ./images/quora.png
 ---
 

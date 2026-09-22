@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- monde
+- inegalite
+- richesse
 - argent
-- scenarios-hypothetiques
 - economie-mondiale
-- consequences
-- inegalites-sociales
-- le-monde
-- repartition-des-richesses
-- problemes-economiques
-- impact-social
-- inegalites-de-revenu
 coverImage: ./images/qimg-47f8e1344b89d10a6bd553ca578703bb.png
 ---
 

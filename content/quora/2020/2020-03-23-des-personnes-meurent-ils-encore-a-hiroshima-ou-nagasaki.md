@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- nagasaki-japon
-- mortalite
 - guerre
-- consequences-de-la-seconde-guerre-mondiale
-- bombe-atomique
-- les-consequences
-- guerres-et-conflits
-- la-seconde-guerre-mondiale
-- hiroshima-japon
+- conflits
+- mortalite
+- consequences
 coverImage: ./images/quora.png
 ---
 

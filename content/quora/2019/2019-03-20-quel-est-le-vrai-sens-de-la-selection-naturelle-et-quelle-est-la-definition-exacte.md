@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- philosophie
+- evolution
 - biologie
-- definition
-- evolution-processus
-- philosophie-des-sciences
-- selection-naturelle
-- sciences-de-la-vie
 - theorie
-- evolution-biologie
-- theorie-scientifique
-- definitions
 coverImage: ./images/quora.png
 ---
 

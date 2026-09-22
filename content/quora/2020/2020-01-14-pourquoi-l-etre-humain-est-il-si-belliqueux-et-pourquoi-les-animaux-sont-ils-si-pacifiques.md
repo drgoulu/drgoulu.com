@@ -6,14 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- psychologie
-- paix
-- agression
-- comportement-humain
-- ethologie
 - philosophie
+- psychologie
 - sociologie
-- antropologie
+- comportement-humain
 - comportement-animal
 coverImage: ./images/quora.png
 ---

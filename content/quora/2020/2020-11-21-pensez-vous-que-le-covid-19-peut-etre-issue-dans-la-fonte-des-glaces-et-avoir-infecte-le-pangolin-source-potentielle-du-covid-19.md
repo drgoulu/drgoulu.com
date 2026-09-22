@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- changement-climatique
+- rechauffement-climatique
 - covid-19-2019-2020
 - theories-du-complot
-- changement-climatique
-- pangolin
-- maladies-infectieuses
 - virus
-- origine-de-covid-19
-- le-rechauffement-climatique
-- theories-du-complot-specifiques
-- theorie-du-complot
 coverImage: ./images/quora.png
 ---
 

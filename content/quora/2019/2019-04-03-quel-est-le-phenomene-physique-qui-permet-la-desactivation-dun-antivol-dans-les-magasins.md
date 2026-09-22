@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- antivol
-- magasins
+- sciences
+- technologies
 - securite
-- science-et-technologie
-- desactivation
-- detection-d-objets
-- phenomene
 - phenomenes-physiques
 coverImage: ./images/quora.png
 ---

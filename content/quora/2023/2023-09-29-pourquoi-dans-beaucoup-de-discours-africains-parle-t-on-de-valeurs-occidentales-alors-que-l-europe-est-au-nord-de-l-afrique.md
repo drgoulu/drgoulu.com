@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- culture
+- politique
 - geographie
-- l-europe
-- discours
 - afrique
-- relations-interculturelles
-- occident
-- culture-anthropologie
-- culture-occidentale
-- geographie-politique
+- culture
+- europe
 coverImage: ./images/quora.png
 ---
 

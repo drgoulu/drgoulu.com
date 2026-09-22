@@ -9,11 +9,7 @@ tags:
 - culture-populaire
 - humour
 - the-big-bang-theory-series-tele
-- meilleures-citations
-- repliques-de-films
-- television-americaine
-- series-comiques
-- etudes-de-la-culture-populaire
+- etudes
 - series-tv
 coverImage: ./images/quora.png
 ---

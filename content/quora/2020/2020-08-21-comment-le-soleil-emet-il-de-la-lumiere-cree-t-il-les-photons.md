@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- le-soleil
 - astronomie
-- emission
-- photons
-- lumiere-physique
-- source-de-lumiere
-- radiation
 - astrophysique
+- lumiere
+- soleil
 coverImage: ./images/quora.png
 ---
 

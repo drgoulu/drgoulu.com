@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- opinion-publique
+- politique
 - changement-climatique
-- censure
+- societe
+- opinion-publique
 - debat
-- expression-libre
-- debats-de-societe
-- liberte-de-la-presse
-- scepticisme-sur-le-changement-climatique
-- censure-politique
-- liberte-d-expression
 coverImage: ./images/quora.png
 ---
 

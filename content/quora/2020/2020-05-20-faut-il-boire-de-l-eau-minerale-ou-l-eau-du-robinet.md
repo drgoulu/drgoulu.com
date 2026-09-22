@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- l-eau-du-robinet
-- comportement-du-consommateur
+- comportement
+- consommateur
 - alimentation
-- eau-potable
-- hydratation
-- choix-alimentaire
-- eau-minerale
-- sante-et-nutrition
-- alimentation-et-nutrition
+- nutrition
 coverImage: ./images/quora.png
 ---
 

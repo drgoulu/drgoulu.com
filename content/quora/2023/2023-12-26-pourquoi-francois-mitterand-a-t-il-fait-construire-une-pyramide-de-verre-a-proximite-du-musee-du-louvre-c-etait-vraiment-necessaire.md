@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
+- france
+- art
 - politique-francaise
-- pyramide
-- paris-france
-- francois-mitterrand
-- musees
-- histoire-de-l-art
 - architecture
-- histoire-de-france
-- musee-du-louvre
 coverImage: ./images/quora.png
 ---
 

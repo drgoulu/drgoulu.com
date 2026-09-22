@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- relations-humaines
 - perception
-- question-personnelle
-- malentendus
-- comprehension
-- connaissance-de-soi
 - experiences-personnelles
-- opinions-personnelles
+- opinion-personnelle
+- comprehension
 - experience-humaine
-- incomprehension
 coverImage: ./images/quora.png
 ---
 

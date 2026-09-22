@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
 - astronomie
-- neutrinos
-- gravitation-quantique
-- astrophysique-des-hautes-energies
-- gravitation
 - astrophysique
 - relativite
-- astrophysique-theorique
+- trous-noirs
 coverImage: ./images/quora.png
 ---
 

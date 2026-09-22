@@ -9,10 +9,7 @@ tags:
 - informatique
 - difficulte
 - ordinateurs-quantiques
-- science-de-l-information-quantique
-- science-de-l-informatique
-- programmation-quantique
-- l-informatique-quantique
+- sciences
 - informatique-quantique
 coverImage: ./images/quora.png
 ---

@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- expansion-de-l-univers
 - astronomie
-- hypotheses-scientifiques
+- univers
 - cosmologie
-- theorie-scientifique
-- la-methode-scientifique
-- origine-de-l-univers
 coverImage: ./images/quora.png
 ---
 

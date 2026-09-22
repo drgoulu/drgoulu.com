@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - mathematiques
-- pi
-- serie-infinie
-- preuve-science
-- decimales
-- pensee-scientifique
-- theorie-des-nombres
-- infini-mathematiques
-- calcul-de-pi
+- theorie
+- nombres
+- calcul
 - preuves-scientifiques
 coverImage: ./images/quora.png
 ---

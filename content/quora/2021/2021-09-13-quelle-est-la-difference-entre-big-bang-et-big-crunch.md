@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- univers
 - cosmologie
-- fin-du-monde
+- origines
 - expansion-de-l-univers
-- modeles-cosmologiques
-- origine-de-l-univers
-- age-de-l-univers
-- exploration-de-l-univers
-- cosmologie-physique
-- univers-en-expansion
 coverImage: ./images/quora.png
 ---
 

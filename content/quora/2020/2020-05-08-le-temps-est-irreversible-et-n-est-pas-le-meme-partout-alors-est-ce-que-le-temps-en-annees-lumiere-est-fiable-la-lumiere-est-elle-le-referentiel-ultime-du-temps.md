@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- annee-lumiere
-- referentiel
-- relativite-restreinte
-- annees-lumiere-distance-astronomique
-- vitesse-de-la-lumiere
-- temps-physique
-- theorie-de-la-relativite
+- theorie
 - physique-theorique
-- relativite-physique
+- relativite
+- temps
 coverImage: ./images/quora.png
 ---
 

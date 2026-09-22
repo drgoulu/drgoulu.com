@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - changement-climatique
-- nuages
-- vapeur-d-eau
-- effet-de-serre
-- climatologie
-- sciences-de-l-atmosphere
-- gaz-a-effet-de-serre
 - rechauffement-climatique
-- le-rechauffement-climatique
+- eau
+- atmosphere
 coverImage: ./images/quora.png
 ---
 

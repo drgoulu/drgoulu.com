@@ -9,13 +9,8 @@ tags:
 - physique
 - sciences
 - astronomie
-- cosmologie-inflationniste
-- vitesse-de-la-lumiere
-- relativite-generale
-- cosmologie
 - astrophysique
-- theorie-de-la-relativite
-- relativite-physique
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

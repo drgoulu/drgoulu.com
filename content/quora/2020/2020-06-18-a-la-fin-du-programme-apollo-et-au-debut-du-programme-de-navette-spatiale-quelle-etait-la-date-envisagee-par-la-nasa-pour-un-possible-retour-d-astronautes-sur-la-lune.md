@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- astronomie
 - exploration-spatiale
-- lune-astronomie
-- nasa
-- le-programme-apollo
-- astronautes
-- navette-spatiale-americaine
+- lune
 - voyage-spatial
-- astronautes-de-la-nasa
-- programmes-spatiaux
-- missions-apollo
+- nasa
 coverImage: ./images/qimg-9613771da45f83cb7b6386d9a7e3009e.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- philosophie
+- sciences
 - histoire
-- albert-einstein-physicien
-- doute
-- personnalites
+- philosophie
+- technologies
 - societe
-- science-et-technologie
-- gouvernement
-- propheties
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-philosophique
+- philosophie
+- univers
 - cosmologie
-- l-univers
-- physique-theorique
-- infinite
-- question-hypothetique
 - theorie
-- idees-philosophiques
-- philosophie-de-la-cosmologie
-- reflexions-philosophiques
+- physique-theorique
 coverImage: ./images/quora.png
 ---
 

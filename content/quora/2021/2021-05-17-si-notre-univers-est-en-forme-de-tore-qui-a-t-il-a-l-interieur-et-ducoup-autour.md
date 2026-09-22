@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- univers
+- cosmologie
 - physique-theorique
 - espace
-- cosmologie
-- l-univers
-- tor
-- geometrie
-- univers-observable
-- origine-de-l-univers
-- forme-geometrie
-- dimensions-geometrie
+- origines
 coverImage: ./images/qimg-abd9a4143cc5bf2bad09ff60498c0291.gif
 ---
 

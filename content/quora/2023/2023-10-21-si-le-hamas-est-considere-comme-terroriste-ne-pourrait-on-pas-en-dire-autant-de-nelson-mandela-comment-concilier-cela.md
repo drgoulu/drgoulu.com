@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - histoire
-- hamas
-- personnalite
-- nelson-mandela
 - politique
-- droits-de-l-homme
-- terrorisme
+- droit
 - israel
-- bande-de-gaza
-- palestine
+- personnalites
 coverImage: ./images/quora.png
 ---
 

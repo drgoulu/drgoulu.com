@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- albert-einstein-physicien
-- espace-temps
-- relativite-generale
-- energie-physique
-- theorie-de-la-relativite
+- theorie
 - physique-theorique
-- relativite-physique
-- dimension-espace-temps
-- physique-mathematique
+- energie
+- relativite
 coverImage: ./images/quora.png
 ---
 

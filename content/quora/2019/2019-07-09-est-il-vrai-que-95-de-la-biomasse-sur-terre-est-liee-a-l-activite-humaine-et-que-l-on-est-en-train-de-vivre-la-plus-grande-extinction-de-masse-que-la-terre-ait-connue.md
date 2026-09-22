@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- terre
+- planetes
+- environnement
 - changement-climatique
-- terre-planete
-- activite-humaine
-- l-environnement
-- ecologie
-- biomasse
-- extinction-de-masse
-- biodiversite
-- extinction-des-especes
-- planete-terre
+- especes
 coverImage: ./images/quora.png
 ---
 

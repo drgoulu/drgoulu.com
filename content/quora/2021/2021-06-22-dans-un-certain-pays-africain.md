@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - afrique
-- richesse
-- corruption
-- developpement-economique-et-social
 - inegalite
-- partis-politiques
+- richesse
+- developpement-economique-et-social
 - pays-sous-developpes
-- prosperite
-- pays-developpees
 coverImage: ./images/quora.png
 ---
 

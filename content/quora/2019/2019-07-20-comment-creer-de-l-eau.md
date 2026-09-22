@@ -7,14 +7,9 @@ categories:
 - Comment
 tags:
 - sciences
-- eau-chimie
-- creation
-- molecules
 - chimie
-- oxygene
-- reactions-chimiques
 - eau
-- composition-chimique
+- creation
 - hydrogene
 coverImage: ./images/qimg-8d944f985fd11b8316291a72e0b83dbb.jpg
 ---

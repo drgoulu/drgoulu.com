@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
+- theorie
+- relativite
+- temps
 - voyage
-- science-fiction-genre
-- relativite-physique
-- futur
-- fiction
-- paradoxe
-- films-de-science-fiction
-- voyage-dans-le-temps
-- temps-physique
-- theorie-de-la-relativite
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- ciel
-- question-existentielle
-- religion
-- spiritualite
-- mythes-et-legendes
-- cosmologie
+- sciences
 - astronomie
-- ciel-nocturne
-- science-et-religion
+- philosophie
+- cosmologie
+- religion
 coverImage: ./images/quora.png
 ---
 

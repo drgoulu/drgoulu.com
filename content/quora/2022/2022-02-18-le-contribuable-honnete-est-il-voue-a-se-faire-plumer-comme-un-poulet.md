@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - argent
-- impots-en-france
-- contribuable
-- justice-sociale
-- administration-fiscale
 - impots
+- france
 - fiscalite
-- systeme-fiscal
 - politique-fiscale
 coverImage: ./images/quora.png
 ---

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sciences
+- technologies
 - changement-climatique
-- debat
-- entropie-physique
-- ethique-de-recherche
-- captage-et-sequestration-du-carbone-csc
-- pensee-scientifique
-- sciences-et-technologies
-- adaptation-au-changement-climatique
-- crise-climatique
+- recherche
 coverImage: ./images/quora.png
 ---
 

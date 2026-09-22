@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- ondes
-- vide-espace
-- espace-temps
-- gravitation
 - theorie
-- particules
-- theories-physiques
-- le-vide
 - physique-theorique
+- gravitation
+- espace-temps
 coverImage: ./images/quora.png
 ---
 

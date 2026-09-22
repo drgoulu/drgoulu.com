@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- philosophie
 - mathematiques
-- organisation
-- theorie-des-nombres-premiers
-- logique
-- philosophie-des-mathematiques
-- sciences-mathematiques
-- logique-mathematiques
-- mathematique-et-philosophie
-- theorie-des-nombres
+- theorie
+- nombres
 coverImage: ./images/quora.png
 ---
 

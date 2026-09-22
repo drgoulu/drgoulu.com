@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- science-et-technologie
+- physique
+- sciences
+- energie
 - espace
-- energie-physique
-- industrie-spatiale
-- energie-renouvelable
-- science-spatiale
-- energie-solaire
-- ingenierie-et-technologie-spatiale
-- energie-alternative
-- technologie-spatiale
+- technologies
 coverImage: ./images/quora.png
 ---
 

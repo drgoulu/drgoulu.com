@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- communications-optiques
-- infini-mathematiques
-- propagation
-- vitesse-de-la-lumiere
-- photonique
-- lumiere-physique
+- mathematiques
 - physique-theorique
-- optique
-- physique-mathematique
+- lumiere
+- vitesse
 coverImage: ./images/qimg-9c72b88b7e4b260f73d3283c4d5886b0.jpg
 ---
 

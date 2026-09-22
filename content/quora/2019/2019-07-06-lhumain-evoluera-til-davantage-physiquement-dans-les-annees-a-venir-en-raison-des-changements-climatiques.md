@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie-humaine
-- changement-climatique
-- anthropologie
-- adaptation
-- sciences-de-la-nature
+- sciences
 - environnement
-- climatologie
-- evolution-humaine
-- sciences-de-la-vie
-- le-rechauffement-climatique
+- vie
+- nature
+- changement-climatique
 coverImage: ./images/quora.png
 ---
 

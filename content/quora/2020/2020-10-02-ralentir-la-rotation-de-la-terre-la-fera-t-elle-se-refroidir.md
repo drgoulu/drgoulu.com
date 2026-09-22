@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- terre-planete
 - astronomie
-- chaleur-et-temperature
-- climatologie
-- rotation-physique
-- temperatures
+- terre
 - physique-theorique
-- rotation-de-la-terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

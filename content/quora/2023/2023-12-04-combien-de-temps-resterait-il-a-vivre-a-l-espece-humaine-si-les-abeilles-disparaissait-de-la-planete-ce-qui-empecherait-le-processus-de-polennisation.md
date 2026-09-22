@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- l-environnement
-- abeilles
-- pollinisation
-- duree-de-vie-de-l-homme
+- environnement
+- vie
 - especes
-- extinction-des-especes
-- catastrophes-environnementales
-- menace-ecologique
-- espece-humaine
-- crise-ecologique
+- extinction
+- homme
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- vitesse-de-la-lumiere
-- point-de-vue
-- theorie-de-la-relativite
-- deplacement-physique
-- lumiere-physique
-- relativite-restreinte
-- relativite-physique
-- vitesse-de-deplacement
-- theorie-du-temps
+- theorie
+- relativite
+- temps
+- lumiere
 coverImage: ./images/quora.png
 ---
 

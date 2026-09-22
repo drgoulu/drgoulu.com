@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- terre-planete
+- sciences
+- histoire
+- terre
+- planetes
 - geologie
-- continents
-- sciences-de-la-terre
-- echelle-des-temps-geologiques
-- phenomene-geologique
-- supercontinents
-- histoire-de-la-terre
-- geologie-planetaire
-- geomorphologie
 coverImage: ./images/quora.png
 ---
 

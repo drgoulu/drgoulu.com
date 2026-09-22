@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- changement-climatique
-- histoire-des-sciences
-- geologie
-- sciences-de-la-nature
+- sciences
+- histoire
 - evolution
-- climats
-- climatologie
-- echelle-des-temps-geologiques
-- histoire-de-la-terre
-- sciences-de-la-terre
+- terre
+- nature
 coverImage: ./images/qimg-c4e816d81ad2c269ab9b86b33d4a54ba.png
 ---
 

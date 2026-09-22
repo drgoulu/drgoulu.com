@@ -8,13 +8,9 @@ categories:
 tags:
 - francais-langue
 - suisse-romande
-- valais-canton-suisse
 - differences-culturelles
-- parisien
 - suisse-alemanique
 - suisse
-- canton-du-valais
-- parisiens
 coverImage: ./images/quora.png
 ---
 

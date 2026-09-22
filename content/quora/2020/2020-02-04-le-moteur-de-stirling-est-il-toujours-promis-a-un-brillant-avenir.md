@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- avenir
-- moteur-stirling
+- sciences
+- energie
+- technologies
 - innovation
 - developpement
-- energie
-- innovation-technologique
-- l-innovation
-- technologie-et-innovation
 coverImage: ./images/quora.png
 ---
 

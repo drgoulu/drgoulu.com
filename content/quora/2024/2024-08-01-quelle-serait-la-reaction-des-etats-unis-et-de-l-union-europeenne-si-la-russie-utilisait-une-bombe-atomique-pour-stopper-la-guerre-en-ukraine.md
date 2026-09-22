@@ -9,9 +9,6 @@ tags:
 - relations-internationales
 - securite
 - russie
-- union-europeenne
-- guerre-nucleaire
-- bombe-atomique
 - politique-etrangere
 - droit-international
 coverImage: ./images/quora.png

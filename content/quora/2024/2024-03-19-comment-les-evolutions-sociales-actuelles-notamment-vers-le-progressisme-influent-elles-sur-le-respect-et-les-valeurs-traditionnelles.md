@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - philosophie
-- changements-sociaux
-- respect
-- progressisme
-- societe
 - evolution
-- valeurs-humaines
+- societe
 - sociologie
-- evolution-culturelle
+- respect
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - chimie
-- le-chlore
-- formule
+- chlore
+- formules
 - methane
-- masse-moleculaire
 - nomenclature-chimique
-- formules-chimiques
-- masse-molaire-chimie
-- formulations-chimiques
 coverImage: ./images/quora.png
 ---
 

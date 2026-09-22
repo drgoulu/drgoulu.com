@@ -9,12 +9,8 @@ tags:
 - algorithmes
 - python-langage-de-programmation
 - fonctions
-- detection-d-anomalies
-- developpeurs-python
-- fonction-booleenne
-- programmation-en-python
-- versions-de-python
-- algorithmes-numeriques
+- programmation
+- python
 coverImage: ./images/quora.png
 ---
 

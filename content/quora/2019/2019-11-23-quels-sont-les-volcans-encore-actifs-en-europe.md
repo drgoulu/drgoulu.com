@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- monde
 - geographie
-- l-europe
-- volcans
-- catastrophes-naturelles
-- eruptions-volcaniques
-- volcanologie
 - geologie
-- geographie-physique
-- geographie-du-monde
+- catastrophes-naturelles
 coverImage: ./images/quora.png
 ---
 

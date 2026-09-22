@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- relations-internationales
-- pays
 - politique
+- monde
 - suisse
-- pays-neutres
-- neutralite-politique-et-militaire
-- histoire-de-la-suisse
-- histoire-du-monde
-- politique-etrangere
+- relations-internationales
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - changement-climatique
+- monde
+- rechauffement-climatique
 - demographie
 - ressources-naturelles
-- habitabilite
-- surpopulation-dans-le-monde
-- catastrophes-environnementales
-- crise-climatique
-- demographie-mondiale
-- adaptation-au-changement-climatique
-- le-rechauffement-climatique
 coverImage: ./images/quora.png
 ---
 

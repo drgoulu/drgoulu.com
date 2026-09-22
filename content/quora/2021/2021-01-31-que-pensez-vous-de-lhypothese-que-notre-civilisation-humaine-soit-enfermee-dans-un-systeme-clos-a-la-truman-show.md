@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- truman-show-film
-- realite-simulee
-- conscience
+- psychologie
 - theories-du-complot
-- civilisation-humaine
-- systeme-isole
-- simulation
+- conscience
 - realite
-- philosophie-et-psychologie
 coverImage: ./images/quora.png
 ---
 

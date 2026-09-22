@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sites-internet
-- securite-des-donnees
-- chantage
-- vie-privee-sur-internet
-- cookies-de-connexion
-- droit-du-numerique
-- protection-des-donnees
-- protection-informatiques
-- confidentialite-des-donnees
-- vie-privee-et-informatique
+- informatique
+- droit
+- internet
+- securite
+- donnees
 coverImage: ./images/quora.png
 ---
 

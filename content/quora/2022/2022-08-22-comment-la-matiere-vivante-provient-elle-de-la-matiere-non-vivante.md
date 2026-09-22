@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - biologie
-- choses-non-vivantes
-- matiere
-- sciences-de-la-nature
-- abiogenese
-- organismes-vivants
-- origine-de-la-vie
-- sciences-de-la-vie
-- science-de-la-vie-et-de-la-terre
-- science-et-vie
+- vie
+- nature
+- origines
 coverImage: ./images/quora.png
 ---
 

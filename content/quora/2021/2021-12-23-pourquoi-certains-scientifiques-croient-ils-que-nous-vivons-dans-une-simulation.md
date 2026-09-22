@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- philosophie
-- realite-simulee
-- l-univers-astronomie
-- question-hypothetique
 - sciences
-- exploration-spatiale
-- theorie-de-la-simulation
-- realite
-- philosophie-des-sciences
-- hypothese-de-simulation
+- astronomie
+- philosophie
+- univers
+- theorie
 coverImage: ./images/quora.png
 ---
 

@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- recherche-scientifique
-- modele-standard-de-la-physique-des-particules
-- theories-physiques
+- philosophie
 - physique-theorique
-- curiosite-scientifique
+- recherche-scientifique
 - decouvertes-scientifiques
-- philosophie-de-la-physique
 coverImage: ./images/quora.png
 ---
 

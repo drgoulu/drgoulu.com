@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- vaccin-astrazeneca-oxford-azd1222-covid-19
-- contenu-adulte
-- immunisations
+- risques
 - covid-19-2019-2020
 - maladies-infectieuses
-- risques-pour-la-sante
 - vaccins
-- vaccin-covid-19
-- vaccination
 coverImage: ./images/quora.png
 ---
 

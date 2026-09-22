@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
+- humanite
 - psychologie
 - albert-einstein-physicien
 - personne
-- concepts
-- genie
-- l-humanite
-- philosophie
-- intelligence-humaine
-- humanite
 coverImage: ./images/quora.png
 ---
 

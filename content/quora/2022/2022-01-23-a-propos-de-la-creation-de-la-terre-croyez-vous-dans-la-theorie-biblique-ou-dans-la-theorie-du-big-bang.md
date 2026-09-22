@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- religion
 - sciences
 - astronomie
-- croyance
-- creation
-- opinions-et-croyances
-- cosmologie-du-big-bang
-- origine-de-l-univers
+- univers
 - cosmologie
-- science-et-religion
+- religion
 coverImage: ./images/quora.png
 ---
 

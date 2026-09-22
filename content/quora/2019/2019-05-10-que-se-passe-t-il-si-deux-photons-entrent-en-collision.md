@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- interaction-lumiere-matiere
+- physique-quantique
+- optique
 - photons
 - mecanique-quantique
-- optique
-- collision-physique
-- optique-quantique
-- physique-quantique
 coverImage: ./images/qimg-a0d42c02e1cf5c4d68316b0e35a93766.png
 ---
 

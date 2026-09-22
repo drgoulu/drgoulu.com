@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-du-monde
-- disparition
+- histoire
+- monde
+- especes
+- extinction
 - paleontologie
-- preuves-scientifiques
-- civilisation
-- fouille-archeologique
-- extinction-des-especes
-- civilisation-humaine
-- extinction-de-masse
-- histoire-des-humains
 coverImage: ./images/quora.png
 ---
 

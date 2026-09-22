@@ -7,14 +7,9 @@ categories:
 - Pourquoi
 tags:
 - physique
-- vision
-- limites-personnelles
-- microscopie-optique
-- science-de-la-vision
+- sciences
 - optique
-- science-physique
-- vision-humain
-- microscopie
+- vision
 - physique-humain
 coverImage: ./images/quora.png
 ---

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- evaporation-des-trous-noirs
 - astronomie
-- l-univers
-- astrophysique-theorique
-- cosmologie
-- trous-noirs
-- origine-de-l-univers
-- expansion-de-l-univers
 - astrophysique
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

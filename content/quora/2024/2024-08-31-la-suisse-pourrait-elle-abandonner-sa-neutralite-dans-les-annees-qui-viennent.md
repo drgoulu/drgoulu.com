@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - histoire
-- relations-internationales
-- pays
 - suisse
-- geopolitique-moderne
-- neutralite-politique-et-militaire
-- guerres
-- politique-etrangere
-- geopolitique
+- relations-internationales
+- guerre
 - politique-internationale
 coverImage: ./images/quora.png
 ---

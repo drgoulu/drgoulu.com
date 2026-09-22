@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- opinion-publique
+- sante
+- opinion
 - questions
-- l-europe
-- pandemie
-- opinions
 - sante-publique
-- crise-sanitaire
-- epidemies
-- pandemie-de-covid19
-- sante-et-securite-publiques
+- opinion-publique
 coverImage: ./images/quora.png
 ---
 

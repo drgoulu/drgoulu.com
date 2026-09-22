@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- spectre-electromagnetique
-- lumiere-physique
+- theorie
+- lumiere
+- electromagnetisme
 - optique
-- longueur-donde
-- ondes-electromagnetiques
-- theorie-de-l-electromagnetisme
-- champs-electromagnetiques
-- optique-quantique
 coverImage: ./images/quora.png
 ---
 

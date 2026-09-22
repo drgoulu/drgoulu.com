@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- probabilite-statistiques
-- recherche-scientifique
-- l-univers
-- vie-extraterrestre
-- exploration-spatiale
-- cosmologie
 - astrophysique
-- astrobiologie
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

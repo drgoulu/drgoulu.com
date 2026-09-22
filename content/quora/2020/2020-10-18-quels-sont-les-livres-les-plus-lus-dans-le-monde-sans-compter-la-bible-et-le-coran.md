@@ -9,13 +9,8 @@ tags:
 - litterature
 - livres
 - lecture
-- meilleurs-livres-de-vente
-- livres-marquants
-- livres-a-lire
-- livres-preferes
 - litterature-mondiale
-- ventes-de-livres
-- les-livres
+- ventes
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
+- histoire
+- terre
+- recherche
 - geologie
-- methodes-de-recherche
-- datation
-- histoire-de-la-terre
-- archeologie
-- estimation
-- sciences-de-la-terre
-- l-age-de-la-terre
-- methodes-d-etudes
-- archeometrie
 coverImage: ./images/quora.png
 ---
 

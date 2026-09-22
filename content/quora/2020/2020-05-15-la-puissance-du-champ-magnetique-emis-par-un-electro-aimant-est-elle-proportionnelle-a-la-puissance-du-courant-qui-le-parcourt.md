@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- theorie
 - electromagnetisme
-- proportion
-- puissance-physique
-- circuit-electrique
+- puissance
 - champs-magnetiques
-- theorie-de-l-electromagnetisme
-- force-magnetique
-- le-courant-electrique
-- induction-electromagnetisme
-- flux-magnetique
 coverImage: ./images/quora.png
 ---
 

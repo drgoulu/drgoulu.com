@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- afrique
-- anthropologie
 - evolution-humaine
-- inde-du-sud
-- australie
+- anthropologie
 - paleontologie
-- amerique-du-sud
-- origines-humaines
-- biologie-evolutive-humaine
-- paleoanthropologie
+- ameriques
+- afrique
 coverImage: ./images/qimg-5f666e6b07504fac3814acac26335ff1.png
 ---
 

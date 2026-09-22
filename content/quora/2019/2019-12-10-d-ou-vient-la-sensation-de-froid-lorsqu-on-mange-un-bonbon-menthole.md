@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- alimentation
-- gout-sens
+- biologie
 - chimie
+- alimentation
 - physiologie-humaine
-- le-froid
-- sensation
-- sens-humain
 - physiologie
-- chimie-biologie
 coverImage: ./images/qimg-0a6912386ad51039d9083ea019d799b3.jpg
 ---
 

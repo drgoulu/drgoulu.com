@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- luminotherapie
 - recherche-scientifique
-- traitements-medicaux
+- sante
 - medecine
-- therapie-par-la-lumiere
-- phototherapie
-- recherche-medicale
 - etude-scientifique
+- recherche-medicale
 coverImage: ./images/quora.png
 ---
 

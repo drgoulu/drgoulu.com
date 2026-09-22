@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - culture-populaire
-- chance
-- opinions-et-croyances
-- numerologie
+- opinion
+- croyance
 - superstitions
-- le-chiffre-7
-- nombre-chanceux
 - culture-generale
-- croyances
-- croyances-superstitieuses
 coverImage: ./images/quora.png
 ---
 

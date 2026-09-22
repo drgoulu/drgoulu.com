@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- vaccins
-- traitement-du-cancer
-- cancer
 - medecine
-- maladie
-- immunisations
-- traitements-medicaux
+- vaccins
 - vaccination
+- maladies
 coverImage: ./images/quora.png
 ---
 

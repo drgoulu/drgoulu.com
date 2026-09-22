@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - biologie
-- porc
-- agriculture
+- animaux
 - especes
-- elevage-animal
-- l-espece-animal
 - biologie-animale
-- sciences-des-animaux
 coverImage: ./images/quora.png
 ---
 

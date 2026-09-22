@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
+- politique
+- geographie
 - sociologie
 - afrique
-- marginalisation
-- geographie
-- culture-science-sociale
-- histoire-africaine
-- geographie-de-l-afrique
-- geographie-politique
-- geographie-humaine
-- histoire-de-l-afrique
 coverImage: ./images/quora.png
 ---
 

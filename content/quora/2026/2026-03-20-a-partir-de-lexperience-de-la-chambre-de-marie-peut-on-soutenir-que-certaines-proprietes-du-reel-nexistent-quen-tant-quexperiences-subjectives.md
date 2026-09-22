@@ -10,12 +10,7 @@ tags:
 - perception
 - conscience
 - realite
-- philosophie-de-l-esprit
-- subjectivite
 - proprietes
-- phenomene
-- experience-humaine
-- verite
 coverImage: ./images/quora.png
 ---
 

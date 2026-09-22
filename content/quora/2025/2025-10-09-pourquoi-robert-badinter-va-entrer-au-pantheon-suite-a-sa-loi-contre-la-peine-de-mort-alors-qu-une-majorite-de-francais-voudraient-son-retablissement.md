@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
+- politique
+- france
+- opinion
 - opinion-publique
-- robert-badinter
-- pantheon-monument-a-paris
-- justice
-- histoire-de-france
-- peine-de-mort
-- peine-capitale
-- opinion-politique
-- pantheon
-- la-justice
 coverImage: ./images/quora.png
 ---
 

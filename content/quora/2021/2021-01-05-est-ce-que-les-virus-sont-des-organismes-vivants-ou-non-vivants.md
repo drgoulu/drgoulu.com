@@ -8,14 +8,9 @@ categories:
 tags:
 - biologie
 - virus
-- etres-vivants
-- micro-organismes
-- vie-biologique
 - virologie
-- infections-virales
-- organismes
-- microbiologie
-- organismes-vivants
+- etres-vivants
+- vie-biologique
 coverImage: ./images/quora.png
 ---
 

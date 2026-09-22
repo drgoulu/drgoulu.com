@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - covid-19-2019-2020
-- predictions
 - pandemie
-- mystique
 - scientifiques
-- mediums
-- religieux
-- politiciens
-- mystere
-- covid-19-coronavirus
+- mysteres
+- predictions
 coverImage: ./images/quora.png
 ---
 

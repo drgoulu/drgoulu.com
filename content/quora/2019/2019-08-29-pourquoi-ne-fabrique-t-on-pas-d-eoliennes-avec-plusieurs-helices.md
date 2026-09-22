@@ -7,12 +7,10 @@ categories:
 - Pourquoi
 tags:
 - ingenierie
-- helice
+- helices
 - eoliennes
 - sources-d-energie
-- pales-d-eolienne
-- les-helices
-- energies-renouvelables
+- energie-renouvelable
 coverImage: ./images/qimg-a490054042c18b45552444b444cd2071.jpg
 ---
 

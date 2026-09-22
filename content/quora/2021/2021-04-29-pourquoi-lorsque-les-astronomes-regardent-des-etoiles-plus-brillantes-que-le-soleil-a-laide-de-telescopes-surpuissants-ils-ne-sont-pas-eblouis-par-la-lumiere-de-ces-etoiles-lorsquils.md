@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- le-soleil-astronomie
 - astronomie
-- les-telescopes
-- etoiles-corps-celestes
-- lumiere-physique
-- objets-astronomiques
 - astrophysique
-- astronomie-d-observation
+- lumiere
+- soleil
 coverImage: ./images/qimg-1d337473c528abdad968b814df7a11e1.jpg
 ---
 

@@ -9,12 +9,8 @@ tags:
 - sante-publique
 - covid-19-2019-2020
 - theories-du-complot
-- medias-d-information
-- pandemie
-- communaute-scientifique
-- crise-sanitaire
-- origine-de-covid-19
-- communaute-internationale
+- information
+- medias
 coverImage: ./images/quora.png
 ---
 

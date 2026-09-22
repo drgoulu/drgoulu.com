@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- creation-de-produits
-- l-effet-casimir
-- mecanique-quantique
-- particules
-- le-vide-quantique
-- particules-elementaires
-- processus-de-creation
-- physique-des-particules
+- processus
+- creation
 - physique-quantique
+- mecanique-quantique
 coverImage: ./images/quora.png
 ---
 

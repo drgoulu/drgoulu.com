@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- finance
-- plateformes-en-ligne
+- information
 - contenu
-- la-desinformation
-- encyclopedies
-- libre-acces
-- financement-de-projet
-- wikipedia
-- informations
-- financement
+- finance
+- projet
+- plateformes-en-ligne
 coverImage: ./images/quora.png
 ---
 

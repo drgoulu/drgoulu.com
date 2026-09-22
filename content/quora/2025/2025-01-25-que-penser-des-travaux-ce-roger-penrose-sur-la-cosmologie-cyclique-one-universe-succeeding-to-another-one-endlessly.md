@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- roger-penrose-physicien
-- univers-infini
 - cosmologie
-- modeles-cosmologiques
 - astrophysique
-- l-univers
+- univers
 - physique-theorique
-- theorie-cosmologique
-- cosmologie-physique
 coverImage: ./images/quora.png
 ---
 

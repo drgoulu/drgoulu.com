@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- meteorites
-- terre-planete
+- terre
+- planetes
 - systeme-solaire
-- exploration-de-mars
 - geologie
-- meteores-et-meteoroides
-- mars-planete
-- geologie-planetaire
 coverImage: ./images/quora.png
 ---
 

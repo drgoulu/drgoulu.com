@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- antispecistes
+- droit
+- animaux
 - especes
-- droits-des-animaux
-- hierarchie
-- espece-humaine
-- ethique-animale
-- philosophie-des-sciences
-- antispecisme
 coverImage: ./images/quora.png
 ---
 

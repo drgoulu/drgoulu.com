@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- epistemologie
 - sciences
-- ethique-de-recherche
-- la-methode-scientifique
-- recherches-scientifiques
-- science-et-ethique
-- philosophie-des-sciences
-- philosophie-et-science
+- philosophie
+- recherche-scientifique
+- recherche
+- ethique
 coverImage: ./images/quora.png
 ---
 

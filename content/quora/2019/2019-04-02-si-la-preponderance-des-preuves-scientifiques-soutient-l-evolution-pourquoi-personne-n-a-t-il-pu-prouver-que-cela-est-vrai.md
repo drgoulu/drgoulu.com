@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sciences
-- evolution-processus
-- philosophie-des-sciences
-- preuve-science
-- evolution-humaine
-- pensee-scientifique
-- preuves-scientifiques
-- theorie-de-l-evolution
-- evolution-biologie
-- biologie-de-l-evolution
+- philosophie
+- evolution
+- biologie
+- theorie
 coverImage: ./images/quora.png
 ---
 

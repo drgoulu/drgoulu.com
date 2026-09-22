@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sante
+- guerre
 - sante-publique
-- violence
-- armes
-- deces
 - epidemiologie
-- maladies
 - mortalite
-- sante-et-securite-publiques
-- causes-de-deces
-- armes-et-guerre
 coverImage: ./images/quora.png
 ---
 

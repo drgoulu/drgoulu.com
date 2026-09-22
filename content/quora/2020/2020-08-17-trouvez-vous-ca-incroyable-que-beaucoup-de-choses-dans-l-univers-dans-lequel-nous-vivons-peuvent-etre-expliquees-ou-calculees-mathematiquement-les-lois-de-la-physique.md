@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- mathematiques
 - sciences
-- l-univers
-- philosophie-des-sciences
-- lois-de-la-physique
-- equations
-- physique-mathematique
-- philosophie-de-la-physique
-- la-philosophie-des-sciences
+- philosophie
+- mathematiques
+- univers
 coverImage: ./images/quora.png
 ---
 

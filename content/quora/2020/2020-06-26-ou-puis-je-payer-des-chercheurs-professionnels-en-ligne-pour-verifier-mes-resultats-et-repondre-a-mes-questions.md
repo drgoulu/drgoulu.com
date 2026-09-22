@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - recherche-scientifique
-- plateformes-en-ligne
-- verification
-- experts-en-la-matiere
-- services-de-renseignement
-- collaboration-en-ligne
-- questions-de-recherche
 - recherche
-- verification-des-faits
+- questions
+- matiere
 - etude-scientifique
 coverImage: ./images/quora.png
 ---

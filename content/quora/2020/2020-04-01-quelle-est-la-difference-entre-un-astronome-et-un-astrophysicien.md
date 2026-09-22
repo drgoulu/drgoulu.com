@@ -8,13 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- astro-physics
 - astrophysique
-- astronome
-- sciences-et-technologies
+- technologies
 - science-nature
-- astronomie-et-astrophysique
-- sciences-technologies
 coverImage: ./images/quora.png
 ---
 

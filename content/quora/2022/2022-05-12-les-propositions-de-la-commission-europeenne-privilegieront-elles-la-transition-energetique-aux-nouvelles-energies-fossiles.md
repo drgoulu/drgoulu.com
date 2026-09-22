@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- changement-climatique
-- l-environnement
-- energie-physique
-- politique-energetique-de-l-union-europeenne
-- la-commission-europeenne
-- transition-energetique
-- energies-fossiles
+- physique
 - energie
-- le-changement-climatique
-- energie-economie
+- environnement
+- changement-climatique
+- economie
 coverImage: ./images/quora.png
 ---
 

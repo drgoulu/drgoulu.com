@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- entrepreneuriat
+- societe
+- droit
+- entreprises
+- gestion
 - responsabilite
-- gestion-des-entreprises
-- droit-commercial
-- conseil-d-administration
-- roles-et-responsabilites
-- dirigeant-d-entreprise
-- droit-des-societes
-- gestion-d-entreprise
 coverImage: ./images/quora.png
 ---
 

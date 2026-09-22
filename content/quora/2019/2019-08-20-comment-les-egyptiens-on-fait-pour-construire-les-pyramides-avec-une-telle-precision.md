@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - histoire
-- pyramides-d-egypte
 - ingenierie
-- precision
-- construction-de-batiments
 - architecture
-- l-histoire-de-l-egypte-ancienne
-- civilisation-egyptienne
 - egypte-ancienne
+- construction
 coverImage: ./images/quora.png
 ---
 

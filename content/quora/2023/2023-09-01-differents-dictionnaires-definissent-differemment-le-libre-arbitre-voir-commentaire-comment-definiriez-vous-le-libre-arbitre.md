@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - philosophie
-- libre-arbitre
+- psychologie
+- definition
 - langues
-- dictionnaire-francais
-- definitions-des-mots
-- lexicographie
-- francais-langue
-- definition-philosophique
-- philosophie-et-psychologie
-- definitions
+- mot
 coverImage: ./images/quora.png
 ---
 

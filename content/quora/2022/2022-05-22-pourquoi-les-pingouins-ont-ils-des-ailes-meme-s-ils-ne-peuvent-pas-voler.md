@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- evolution
+- biologie
+- processus
 - animaux
-- evolution-processus
-- voler
 - biologie-animale
-- adaptation
-- pingouins
-- oiseaux
-- evolution-biologie
-- anatomie-animale
-- evolution-animale
 coverImage: ./images/quora.png
 ---
 

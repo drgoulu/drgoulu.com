@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- personnalites
-- niels-bohr-physicien
-- histoire-des-sciences
-- mecanique-quantique
+- sciences
+- histoire
+- relativite
 - albert-einstein-physicien
-- relativite-physique
-- physiciens
-- histoire-de-la-physique
-- physique-quantique
 coverImage: ./images/quora.png
 ---
 

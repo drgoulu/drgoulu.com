@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- elections
+- theorie
+- systeme
 - democratie
-- science-politique
-- criteres-de-choix
-- theorie-des-decisions
-- systemes-de-vote
-- sociologie-electorale
-- theorie-du-vote
-- democratie-moderne
-- systemes-electoraux
+- elections
+- sciences-politiques
 coverImage: ./images/quora.png
 ---
 

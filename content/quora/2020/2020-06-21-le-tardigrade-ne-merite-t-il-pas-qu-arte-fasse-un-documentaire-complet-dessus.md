@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- arte-reseau-de-television
 - biologie
-- tardigrade
-- animal
-- sujet-de-documentaire
-- l-espece-animal
-- animals
+- animaux
 - zoologie
-- documentaires
+- espece-animal
 coverImage: ./images/quora.png
 ---
 

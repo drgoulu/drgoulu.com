@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- espace
-- infini-mathematiques
-- observateur
-- l-univers
-- atomes
-- vide-espace
-- mouvement-physique
+- mathematiques
+- univers
 - physique-theorique
-- observation
+- espace
 coverImage: ./images/quora.png
 ---
 

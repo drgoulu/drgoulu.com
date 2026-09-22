@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - informatique
-- alphabet-grec
 - linguistique
-- unicode
-- langages-de-programmation
-- alphabet
-- alphabet-arabe
+- langage
+- programmation
 - sciences-informatiques
-- alphabet-hebreu
-- alphabet-latin
 coverImage: ./images/qimg-13202c3e94fb30b2e6fd0b6031782933.png
 ---
 

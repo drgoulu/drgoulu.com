@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - chimie
-- tableau-periodique-des-elements-detaille
-- elements-naturels
 - atomes
-- elements-chimie
-- elements-chimiques-specifiques
-- chimie-physique
-- tableau-periodique
-- elements-synthetiques
 - elements-chimiques
+- elements-chimie
 coverImage: ./images/qimg-71629402c1a96c85886aac9b2b16f6a1.png
 ---
 

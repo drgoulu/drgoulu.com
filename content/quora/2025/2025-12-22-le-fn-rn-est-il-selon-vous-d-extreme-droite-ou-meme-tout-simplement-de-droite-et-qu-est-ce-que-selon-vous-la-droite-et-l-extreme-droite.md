@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- rassemblement-national
-- extreme-droite-en-france
+- france
 - politique-francaise
 - ideologies-politiques
-- droite-politique
 - vie-politique-francaise
-- positions-politiques
-- partis-politiques-francais
-- extreme-droite
 coverImage: ./images/quora.png
 ---
 

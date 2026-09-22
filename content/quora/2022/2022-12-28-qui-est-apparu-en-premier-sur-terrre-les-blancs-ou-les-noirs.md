@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-humaine
-- anthropologie
-- les-noirs
+- histoire
+- humanite
 - evolution-humaine
-- histoire-de-l-afrique
-- les-blancs
-- races-humaines
-- origines-humaines
-- histoire-de-l-humanite
-- anthropologie-sociale
+- anthropologie
+- histoire-humaine
 coverImage: ./images/quora.png
 ---
 

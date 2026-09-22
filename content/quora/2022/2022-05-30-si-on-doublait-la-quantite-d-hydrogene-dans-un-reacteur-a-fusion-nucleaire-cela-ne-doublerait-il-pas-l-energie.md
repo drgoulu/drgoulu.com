@@ -6,12 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sciences
+- energie
 - energie-nucleaire
-- gaz-hydrogene
-- science-physique
-- reacteurs-a-fusion
-- energie-physique
 - hydrogene
 coverImage: ./images/quora.png
 ---

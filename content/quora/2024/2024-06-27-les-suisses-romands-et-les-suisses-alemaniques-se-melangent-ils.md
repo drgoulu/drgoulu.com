@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- identite
-- suisse-romande
-- integration-culturelle
-- diversite-linguistique
-- suisse-alemanique
 - suisse
+- identite
 - diversite
-- identites-nationales
-- identites
+- identite-nationale
+- integration-culturelle
 coverImage: ./images/quora.png
 ---
 

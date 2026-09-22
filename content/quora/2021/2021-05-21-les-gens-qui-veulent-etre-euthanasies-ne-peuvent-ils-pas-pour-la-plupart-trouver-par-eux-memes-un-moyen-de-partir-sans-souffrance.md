@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- peur-de-mourir
-- suicide
-- droit-de-la-sante
+- sante
+- droit
+- psychologie
 - ethique
-- souffrance
-- fin-de-vie
-- philosophie-et-psychologie
-- mort-et-mourir
 coverImage: ./images/quora.png
 ---
 

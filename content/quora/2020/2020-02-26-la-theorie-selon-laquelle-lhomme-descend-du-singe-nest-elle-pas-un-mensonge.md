@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- anthropologie
 - evolution
-- primates
-- creationnisme
-- origines-humaines
-- homo-sapiens
+- biologie
+- theorie
 - evolution-humaine
-- theorie-de-l-evolution
-- biologie-de-l-evolution
-- creationnistes
+- anthropologie
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- lois-de-la-nature
-- l-univers
-- explication
-- philosophie-des-sciences
-- causalite
-- metaphysique
+- sciences
+- philosophie
+- univers
 - physique-theorique
-- philosophie-de-la-physique
-- la-philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

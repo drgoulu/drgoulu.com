@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- l-univers-astronomie
-- explications-pour-novices
+- sciences
 - astronomie
-- matiere-noire
-- information-scientifique
-- cosmologie
 - astrophysique
-- science-physique
-- explications-pour-enfants
+- univers
 coverImage: ./images/quora.png
 ---
 

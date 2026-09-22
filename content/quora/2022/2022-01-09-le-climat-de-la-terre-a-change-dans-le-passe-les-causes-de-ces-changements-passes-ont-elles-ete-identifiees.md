@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- histoire
+- terre
 - changement-climatique
-- histoire-des-sciences
 - climatologie
-- science-de-la-terre
-- climats
-- histoire-de-la-terre
-- paleoclimatologie
-- sciences-du-climat
-- le-changement-climatique
 coverImage: ./images/qimg-15cad9faae958aeaa48a7bb9e9c0dff1.jpg
 ---
 

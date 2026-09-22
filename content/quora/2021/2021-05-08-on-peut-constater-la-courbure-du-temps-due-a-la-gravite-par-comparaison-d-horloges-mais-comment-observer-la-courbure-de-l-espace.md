@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
+- relativite
 - espace
-- horloges
-- observation
-- courbure-du-temps
-- relativite-generale
-- temps-physique
+- temps
 - gravite
-- relativite-physique
-- courbure-de-l-espace
 coverImage: ./images/quora.png
 ---
 

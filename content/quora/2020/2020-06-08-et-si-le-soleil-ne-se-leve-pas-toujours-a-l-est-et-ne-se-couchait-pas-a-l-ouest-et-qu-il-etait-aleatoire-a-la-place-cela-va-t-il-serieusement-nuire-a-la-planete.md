@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- question-hypothetique
-- le-soleil
-- impact-environnemental
-- terre-planete
-- lever-du-soleil
-- sciences-de-la-nature
-- hypotheses
-- coucher-de-soleil
+- terre
+- planetes
+- nature
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - industrie-automobile
 - voitures-electriques
-- metaux-de-terres-rares
-- renault
+- metaux
 - technique-automobile
 - technologie-automobile
-- systeme-moteur
-- technologie-electrique
-- electricite-automobile
-- moteurs-electriques
 coverImage: ./images/quora.png
 ---
 

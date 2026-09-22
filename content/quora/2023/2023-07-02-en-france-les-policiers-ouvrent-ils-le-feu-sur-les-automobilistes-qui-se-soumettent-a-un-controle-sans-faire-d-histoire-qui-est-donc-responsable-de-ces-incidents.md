@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- violences-policieres
 - responsabilite
-- incident
 - droit-public
+- incident
 - controle
-- police-nationale
-- intervention-policiere
-- fusillades-de-la-police
-- brutalite-policiere
 coverImage: ./images/quora.png
 ---
 

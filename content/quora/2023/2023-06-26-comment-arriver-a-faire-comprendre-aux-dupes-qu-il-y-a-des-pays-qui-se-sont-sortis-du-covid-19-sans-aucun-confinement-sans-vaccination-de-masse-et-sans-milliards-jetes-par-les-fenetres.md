@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- politique
+- sante
 - opinion-publique
 - covid-19-2019-2020
 - pandemie
-- confinement
-- vaccination
-- politique-de-la-sante
-- covid-19-en-chine
-- depenses-publiques
-- image-publique
-- opinions-populaires
 coverImage: ./images/quora.png
 ---
 

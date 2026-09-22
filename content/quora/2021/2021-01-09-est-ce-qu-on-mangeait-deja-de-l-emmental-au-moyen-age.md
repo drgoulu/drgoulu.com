@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - moyen-age
-- histoire-de-l-alimentation
-- fromage
-- emmental
-- alimentation-en-europe
-- vivre-au-moyen-age
-- fromage-francais
-- histoire-culinaire
-- fromagerie
-- histoire-de-l-agriculture
+- histoire
+- alimentation
+- europe
+- agriculture
 coverImage: ./images/quora.png
 ---
 

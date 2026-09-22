@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- astronomie
 - exploration-spatiale
-- lune-astronomie
-- iss
-- colonisation-lunaire
 - science-spatiale
-- station-spatiale-internationale
 - technologie-spatiale
-- conquete-spatiale
-- missions-spatiales
-- orbite-lunaire
+- lune
 coverImage: ./images/qimg-9613771da45f83cb7b6386d9a7e3009e.png
 ---
 

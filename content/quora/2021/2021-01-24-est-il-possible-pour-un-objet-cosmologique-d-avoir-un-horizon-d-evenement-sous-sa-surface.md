@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- horizon-des-evenements
 - astronomie
-- objets-astronomiques
-- science-spatiale
-- cosmologie
-- theories-physiques
 - astrophysique
+- cosmologie
 - physique-theorique
-- cosmologie-physique
 coverImage: ./images/quora.png
 ---
 

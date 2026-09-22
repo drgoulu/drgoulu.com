@@ -8,13 +8,9 @@ categories:
 tags:
 - sites-touristiques
 - transport-aerien
-- saint-martin
-- atterrissage
-- les-pilotes
 - touristes
-- decollage-avion
 - securite-aerienne
-- pilotes-d-avions
+- avions
 coverImage: ./images/quora.png
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- langages-de-programmation
+- programmation
+- langage
+- python
 - developpement-logiciel
-- conseils-technologiques
 - python-langage-de-programmation
-- programmation-web
-- programmation-python-javascript
-- programmation-en-python
-- conseils-de-programmation-informatique
 coverImage: ./images/quora.png
 ---
 

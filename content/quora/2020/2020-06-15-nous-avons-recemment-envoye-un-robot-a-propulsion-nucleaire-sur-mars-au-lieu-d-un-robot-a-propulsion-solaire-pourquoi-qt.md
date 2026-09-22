@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- planetes
 - exploration-spatiale
-- questions-reponses
 - energie-nucleaire
-- mars-planete
-- robotique
-- propulsion
 - technologie-spatiale
-- energie-solaire
-- missions-spatiales
-- repondre-a-des-questions
+- mars
 coverImage: ./images/quora.png
 ---
 

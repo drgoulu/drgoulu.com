@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- mathematiques
 - sciences
-- preuve
-- philosophie-des-sciences
-- preuves-scientifiques
-- logique
+- philosophie
+- mathematiques
 - theorie
-- theoreme
 - theorie-scientifique
-- logique-philosophie
 coverImage: ./images/quora.png
 ---
 

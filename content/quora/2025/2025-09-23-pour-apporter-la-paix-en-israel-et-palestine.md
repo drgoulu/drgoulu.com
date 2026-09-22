@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - israel
 - conflit-israelo-palestinien
-- discussions-politiques
 - palestine
-- apartheid
-- politique-au-moyen-orient
-- strategies-politiques
-- problemes-politiques
-- paix-israelo-palestinienne
-- debats-politiques
+- moyen-orient
 coverImage: ./images/quora.png
 ---
 

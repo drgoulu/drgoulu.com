@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- anthropologie
+- histoire
 - evolution
-- hypotheses-scientifiques
-- histoire-de-l-humanite
-- paleontologie
-- origine-de-la-vie
-- evolution-humaine
-- histoire-de-lhomme
-- paleontologie-humaine
+- vie
+- origines
+- humanite
 coverImage: ./images/quora.png
 ---
 

@@ -9,11 +9,7 @@ tags:
 - finance
 - questions
 - inflation-economie
-- perspectives-economiques
 - economie-mondiale
-- hyperinflation
-- deflation
-- prevision-economique
 - econonomie
 coverImage: ./images/qimg-7a8c3d0414313250c7567e7765cab547.gif
 ---

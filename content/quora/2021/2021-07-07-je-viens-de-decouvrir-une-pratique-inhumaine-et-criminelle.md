@@ -9,12 +9,8 @@ tags:
 - contenu-adulte
 - afrique
 - ethique-medicale
-- insupportable
 - choquante
-- 21eme-siecle
-- inhumaine
 - droit-humain
-- pratique-medicale
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- catastrophes-naturelles
 - energie-nucleaire
-- tsunami
+- catastrophes-naturelles
+- catastrophes-nucleaires
 - radiation
-- seismes
-- accidents-et-blessures
-- tremblements-de-terre
-- fukushima
-- les-catastrophes-nucleaires
-- reacteurs-nucleaires
+- accidents
 coverImage: ./images/quora.png
 ---
 

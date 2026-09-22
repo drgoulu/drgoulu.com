@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- evolution-humaine
-- primates
-- ancetres
-- reproduction
-- evolution-biologie
-- origine-de-la-vie
-- dernier-ancetre-commun
-- reproduction-animale
-- theorie-de-l-evolution
-- biologie-de-l-evolution
+- evolution
+- biologie
+- theorie
+- vie
+- origines
 coverImage: ./images/quora.png
 ---
 

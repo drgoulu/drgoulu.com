@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sante
 - sante-publique
 - vaccins
-- effets-secondaires-du-vaccin-covid-19
-- vaccin-covid-19
-- effets-secondaires
 - vaccination
-- sante-et-securite-publiques
-- pro-vaccin
-- anti-vaccins
+- vaccin-covid-19
 coverImage: ./images/quora.png
 ---
 

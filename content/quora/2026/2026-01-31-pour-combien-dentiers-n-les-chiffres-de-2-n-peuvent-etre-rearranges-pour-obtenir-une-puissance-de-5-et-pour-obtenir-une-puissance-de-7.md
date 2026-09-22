@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - mathematiques
-- puissance
-- suite-d-entiers
-- questions-sur-les-chiffres
-- theorie-des-nombres
-- ecriture-de-numeros
-- systemes-de-nombres
-- calcul-mathematique
-- mathematiques-simples
-- theorie-du-nombre
+- theorie
+- nombres
+- questions
+- systeme
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - psychologie
-- les-complotistes
-- communication
-- esprit-critique
-- raisonnement-logique
-- scepticisme
-- complotisme
 - sociologie
 - theories-du-complot
-- pensee-critique
+- communication
+- scepticisme
 coverImage: ./images/quora.png
 ---
 

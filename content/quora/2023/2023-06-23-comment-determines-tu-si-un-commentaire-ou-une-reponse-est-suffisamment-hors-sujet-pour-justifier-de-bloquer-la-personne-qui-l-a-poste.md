@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- communaute
+- contenu
 - reponses
-- discussion-en-ligne
-- moderation-quora
-- hors-sujet
 - commentaire
-- filtrage-de-contenu
-- communautes-en-ligne
-- moderation-de-contenu
-- reponse
+- moderation
+- moderation-quora
 coverImage: ./images/quora.png
 ---
 

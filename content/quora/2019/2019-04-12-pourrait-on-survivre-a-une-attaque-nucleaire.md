@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - securite
-- guerre-nucleaire
+- risques
+- gestion
 - risque-et-risques
 - catastrophes-nucleaires
-- attaque-nucleaire
-- gestion-des-risques
-- securite-nationale
-- securite-interieure
-- securite-publique
 coverImage: ./images/quora.png
 ---
 

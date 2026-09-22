@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- feux-de-route
+- theorie
+- relativite
+- lumiere
 - vitesse
-- vitesse-de-la-lumiere
-- optique
-- theorie-de-la-relativite
-- lumiere-physique
-- phenomenes-physiques
-- relativite-physique
-- vitesse-des-voitures
 coverImage: ./images/quora.png
 ---
 

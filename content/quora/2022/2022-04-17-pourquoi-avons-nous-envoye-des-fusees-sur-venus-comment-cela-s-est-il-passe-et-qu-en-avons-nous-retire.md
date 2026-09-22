@@ -7,16 +7,11 @@ categories:
 - Pourquoi
 - Comment
 tags:
+- sciences
 - astronomie
-- fusees
-- histoire-des-sciences
+- histoire
 - exploration-spatiale
-- venus-planete
-- planetologie
-- exploration
 - science-spatiale
-- histoire-de-l-astronautique
-- missions-spatiales
 coverImage: ./images/quora.png
 ---
 

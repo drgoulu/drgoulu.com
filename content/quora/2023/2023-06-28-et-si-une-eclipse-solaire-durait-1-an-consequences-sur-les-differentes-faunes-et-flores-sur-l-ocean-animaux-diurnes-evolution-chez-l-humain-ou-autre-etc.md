@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie
-- eclipse-solaire
+- sciences
 - astronomie
-- oceans
-- faune
-- sciences-de-la-nature
-- evolution-humaine
-- flore
-- biologie-animale
 - evolution
+- biologie
+- nature
 coverImage: ./images/qimg-5d50035673015239b11092a6f6120bac.jpg
 ---
 

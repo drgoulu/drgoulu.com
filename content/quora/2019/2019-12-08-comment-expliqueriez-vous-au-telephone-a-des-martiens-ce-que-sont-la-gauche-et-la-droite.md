@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - communication
-- mars-planete
-- gauche
+- mars
+- planetes
 - explications-intuitives
-- main-droite
-- telephone
 - explications
-- la-gauche
-- main-gauche
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- psychologie
-- menaces
-- rechauffement-climatique
-- comportement-humain
-- l-environnement
-- risque-et-risques
-- dangers
-- psychologie-humaine
+- environnement
 - changement-climatique
-- danger-et-dangers
+- rechauffement-climatique
+- psychologie
+- comportement-humain
 coverImage: ./images/quora.png
 ---
 

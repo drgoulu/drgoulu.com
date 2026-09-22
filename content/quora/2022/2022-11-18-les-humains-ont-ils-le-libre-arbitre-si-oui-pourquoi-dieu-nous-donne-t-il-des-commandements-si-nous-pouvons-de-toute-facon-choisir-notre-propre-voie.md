@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - philosophie
-- choix
-- libre-arbitre
-- dieu
-- commandes
 - religion
-- morale
 - ethique
+- dieu
 - theologie
-- moralite
 coverImage: ./images/quora.png
 ---
 

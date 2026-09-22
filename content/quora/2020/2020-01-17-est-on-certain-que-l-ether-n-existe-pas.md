@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- existence-de-dieu
-- ether
-- philosophie-des-sciences
+- philosophie
 - physique-theorique
-- science-physique
-- science-nature
 - theorie-scientifique
-- la-physique
 coverImage: ./images/quora.png
 ---
 

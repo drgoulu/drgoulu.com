@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- isolants-electriques
 - materiaux
-- transfert-thermique
-- conductivite
-- la-science-des-materiaux
+- sciences
 - proprietes-physiques
 - conducteurs-electriques
-- conduction-thermique
-- physique-des-materiaux
 coverImage: ./images/quora.png
 ---
 

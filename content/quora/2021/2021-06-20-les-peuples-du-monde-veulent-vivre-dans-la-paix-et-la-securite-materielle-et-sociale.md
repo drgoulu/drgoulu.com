@@ -6,15 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- monde
 - relations-internationales
 - securite
-- paix-dans-le-monde
-- guerre-mondiale
-- leadership-mondial
 - politique-internationale
-- equite
-- dirigeants-du-monde
-- cooperation-internationale
 - politique-mondiale
 coverImage: ./images/qimg-7e76ee86da5c34b4c9d6f3a3a21a6b83.jpg
 ---

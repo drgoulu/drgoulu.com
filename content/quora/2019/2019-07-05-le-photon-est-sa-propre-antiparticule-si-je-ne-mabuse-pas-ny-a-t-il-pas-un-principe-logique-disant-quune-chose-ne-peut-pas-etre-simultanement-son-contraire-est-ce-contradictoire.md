@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
 - physique-quantique
-- contradictions
-- logique-philosophie
-- photons
-- dualite-onde-particule
-- anti-particules
-- mecanique-quantique
-- particules
 - logique
+- photons
+- mecanique-quantique
 coverImage: ./images/qimg-378bae2d4d2e932166f8b7caf81111fd.png
 ---
 

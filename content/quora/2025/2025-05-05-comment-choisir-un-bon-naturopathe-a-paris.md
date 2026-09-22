@@ -8,13 +8,9 @@ categories:
 tags:
 - sante
 - paris-france
-- naturopathes
 - medecine-de-complement-et-alternative
 - medecine-naturelle
-- la-naturopathie
 - medecine-non-conventionnelle
-- naturopathie
-- sante-naturelle
 coverImage: ./images/quora.png
 ---
 

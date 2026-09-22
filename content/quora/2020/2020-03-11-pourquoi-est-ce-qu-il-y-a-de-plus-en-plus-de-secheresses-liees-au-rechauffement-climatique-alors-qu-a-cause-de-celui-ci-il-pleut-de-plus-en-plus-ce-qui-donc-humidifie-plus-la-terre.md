@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
+- environnement
 - changement-climatique
-- climatologie
-- secheresse
-- sciences-de-l-environnement
-- precipitations
 - rechauffement-climatique
-- phenomenes-climatiques
-- le-rechauffement-climatique
-- sciences-du-climat
-- science-de-l-environnement
+- climatologie
 coverImage: ./images/qimg-290c22e8d3c75827be2121652c8575aa.gif
 ---
 

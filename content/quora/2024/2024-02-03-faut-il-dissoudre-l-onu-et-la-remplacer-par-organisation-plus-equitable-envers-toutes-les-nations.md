@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - relations-internationales
-- equite
-- nations-unies
-- reforme-politique
-- gouvernance-mondiale
-- assemblee-generale-des-nations-unies
 - politique-internationale
-- droit-international-public
-- organisation-internationale
 - droit-international
+- nations-unies
 coverImage: ./images/qimg-d503c18af0cba6d965b5e59e64ec238b.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- 2024-annee
 - changement-climatique
-- la-peur
-- nasa
-- avertissements-et-mises-en-garde
+- rechauffement-climatique
 - climatologie
-- previsions-meteorologiques
-- le-rechauffement-climatique
+- nasa
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- scenarios-de-voyage-dans-le-temps
-- science-fiction-genre
-- reflexion
+- temps
+- voyage
 - question-hypothetique
-- paradoxe
-- hypotheses
-- reflexions-profondes
-- philosophie-des-sciences
-- voyage-dans-le-temps
 coverImage: ./images/quora.png
 ---
 

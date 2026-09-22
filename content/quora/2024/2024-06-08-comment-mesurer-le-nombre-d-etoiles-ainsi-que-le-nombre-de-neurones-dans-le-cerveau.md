@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- anatomie-humaine
 - recherche
-- neurologie
-- cerveau
 - mesure
+- cerveau
+- neurologie
 - neuroscience
-- cerveau-humain
-- anatomie
-- neurones
-- anatomie-neuronale
 coverImage: ./images/quora.png
 ---
 

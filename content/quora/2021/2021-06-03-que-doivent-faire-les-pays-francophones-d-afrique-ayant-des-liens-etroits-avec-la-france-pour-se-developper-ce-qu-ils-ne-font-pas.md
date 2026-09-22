@@ -8,14 +8,9 @@ categories:
 tags:
 - france
 - relations-internationales
-- developpement-economique-et-social
-- afrique-francophone
-- cooperation
-- developpement-humain
-- afrique
-- france-afrique
-- pays-francophones
 - developpement
+- afrique
+- developpement-economique-et-social
 coverImage: ./images/qimg-df622b7d2bcb4ad1cece90bc680451dc.jpg
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- anthropologie
-- evolution-processus
-- singes
-- genetique
-- preuves-scientifiques
-- ancetres
+- evolution
+- biologie
+- theorie
+- processus
 - evolution-humaine
-- paleontologie
-- theorie-de-l-evolution
-- biologie-de-l-evolution
 coverImage: ./images/qimg-ba9297719c32ee1813970b0fae6eaff1.jpg
 ---
 

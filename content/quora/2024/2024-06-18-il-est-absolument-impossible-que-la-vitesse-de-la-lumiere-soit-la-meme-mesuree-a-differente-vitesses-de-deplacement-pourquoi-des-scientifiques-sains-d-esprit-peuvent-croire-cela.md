@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- vitesse-de-la-lumiere
-- hypotheses-scientifiques
-- relativite-restreinte
-- scientifiques
-- relativite-physique
 - physique-theorique
-- vitesse-de-deplacement
+- relativite
+- lumiere
 coverImage: ./images/quora.png
 ---
 

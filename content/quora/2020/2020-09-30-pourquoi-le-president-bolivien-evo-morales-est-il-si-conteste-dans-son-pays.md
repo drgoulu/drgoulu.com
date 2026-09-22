@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - politique
-- evo-morales-ancien-president-de-la-bolivie
-- culture-de-la-bolivie
-- histoire-du-chili
-- methodes-de-contestations-politiques
-- bolivie
+- culture
+- histoire
 - problemes-politiques
-- politique-en-bolivie
 - crise-politique
-- histoire-de-la-colombie
 coverImage: ./images/quora.png
 ---
 

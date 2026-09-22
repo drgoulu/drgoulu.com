@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- apprentissage
 - mathematiques
-- interpretation
-- resolution-de-problemes-en-mathematiques
-- equations
+- questions
 - physique-mathematique
-- questions-de-mathematiques
-- problemes-mathematiques
-- equations-mathematiques
+- probleme
 coverImage: ./images/quora.png
 ---
 

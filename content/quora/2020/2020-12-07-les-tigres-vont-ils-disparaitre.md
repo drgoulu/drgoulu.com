@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- nature
+- especes
+- extinction
 - faune
-- extinction-des-especes
-- animaux-sauvages
-- tigre
-- biodiversite
-- conservation-de-la-nature
-- especes-menacees
-- animaux-en-voie-de-disparition
-- vie-sauvage
-- conservation-de-la-faune
+- conservation
 coverImage: ./images/quora.png
 ---
 

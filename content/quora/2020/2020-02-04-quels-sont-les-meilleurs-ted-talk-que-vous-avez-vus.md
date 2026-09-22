@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - conversations
-- videos
+- video
 - ted
 - idees
-- des-gens-inspirants
-- conferences-ted
 - videos-en-ligne
-- pensees-inspirantes
-- conferences
-- recits-inspirants
 coverImage: ./images/quora.png
 ---
 

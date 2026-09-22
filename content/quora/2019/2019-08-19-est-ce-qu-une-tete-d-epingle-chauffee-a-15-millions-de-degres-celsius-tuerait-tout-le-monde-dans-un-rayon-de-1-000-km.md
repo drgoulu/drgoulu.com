@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - science-fiction-genre
-- scenarios-hypothetiques
-- chaleur
-- mortalite
 - temperatures
-- physique-des-rayonnements
-- temperature-du-corps-humain
-- physique-medicale
+- mortalite
+- scenarios-hypothetiques
 coverImage: ./images/quora.png
 ---
 

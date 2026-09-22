@@ -8,14 +8,9 @@ categories:
 tags:
 - psychologie
 - nombres
-- grandeurs-physiques
 - comportement-humain
-- calcul-mental
-- pensee-humaine
-- sciences-cognitives
 - intelligence-humaine
-- mental-humain
-- psychologie-cognitive
+- sciences-cognitives
 coverImage: ./images/quora.png
 ---
 

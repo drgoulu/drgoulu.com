@@ -8,14 +8,9 @@ categories:
 tags:
 - comportement-animal
 - scenarios-hypothetiques
-- danger
-- requins
-- sciences-marine
 - anatomie-animale
-- animaux-marins
-- faune-marine
+- dangers
 - vie-marine
-- biologie-marine
 coverImage: ./images/quora.png
 ---
 

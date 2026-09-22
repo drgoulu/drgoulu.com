@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
 - philosophie
 - connaissances
-- epoque
-- savoir
-- histoire-de-la-philosophie
-- philosophes
-- le-savoir
-- la-philosophie
 - philosophe
-- histoire-et-philosophie
+- savoir
 coverImage: ./images/quora.png
 ---
 

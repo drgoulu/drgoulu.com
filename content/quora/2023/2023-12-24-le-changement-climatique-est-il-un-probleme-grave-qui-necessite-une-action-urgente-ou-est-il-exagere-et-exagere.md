@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- opinion-publique
 - changement-climatique
+- opinion-publique
 - debat
-- pensee-scientifique
-- les-problemes-mondiaux
-- action-pour-le-climat
-- politique-climatique
-- lutte-contre-le-changement-climatique
 - crise-climatique
+- climats
 coverImage: ./images/quora.png
 ---
 

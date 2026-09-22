@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- betelgeuse
-- terre-planete
-- phenomenes-naturels
-- etoiles-corps-celestes
-- supernova
-- science-spatiale
 - astrophysique
-- meteorologie-de-l-espace
-- etoiles-astronomie
+- terre
+- planetes
+- espace
 coverImage: ./images/quora.png
 ---
 

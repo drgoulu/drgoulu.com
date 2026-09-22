@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - changement-climatique
-- hiver
-- phenomenes-naturels
-- temperatures
-- climatologie
-- meteo
 - rechauffement-climatique
+- climatologie
 - crise-climatique
-- conditions-climatiques
-- meteorologie
+- temperatures
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
+- physique
+- sciences
 - histoire
-- personne
+- philosophie
 - energie-nucleaire
-- albert-einstein-physicien
-- science-physique
-- histoire-des-sciences
-- histoire-humaine
-- philosophie-et-science
-- histoire-de-la-physique
 coverImage: ./images/quora.png
 ---
 

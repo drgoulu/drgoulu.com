@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- sciences
 - informatique
-- conversions-d-unites
-- taille-du-fichier
-- type-de-donnees
-- unites-de-mesure
 - sciences-informatiques
-- code-informatique
-- l-informatique
-- informatique-general
-- science-de-l-informatique
+- taille
+- unites-de-mesure
 coverImage: ./images/quora.png
 ---
 

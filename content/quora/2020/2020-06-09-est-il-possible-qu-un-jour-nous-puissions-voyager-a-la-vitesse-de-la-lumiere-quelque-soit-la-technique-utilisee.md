@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- science-fiction-genre
-- voyage-dans-l-espace
-- vitesse-de-la-lumiere
-- theorie-de-la-relativite
+- theorie
+- relativite
+- espace
 - exploration-spatiale
-- vaisseau-spatial
-- voyage-interstellaire
-- relativite-physique
-- voyage-spatial
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- culture-anthropologie
-- faits-meconnus
+- mythe
 - mythologie
-- contes-et-legendes
-- folklore
-- legendes-histoire-ou-mythe
-- mythes
-- mythologie-classique
+- legende
+- culture-anthropologie
 - mythologie-mondiale
-- mythes-et-legendes
 coverImage: ./images/qimg-5efce943688976bd3007195d349ea185.jpg
 ---
 

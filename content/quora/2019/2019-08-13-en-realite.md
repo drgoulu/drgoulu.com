@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- ether
 - astronomie
-- l-univers
-- matiere-noire
-- cosmologie-du-big-bang
-- cosmologie
+- philosophie
 - astrophysique
-- philosophie-de-la-cosmologie
+- univers
 coverImage: ./images/quora.png
 ---
 

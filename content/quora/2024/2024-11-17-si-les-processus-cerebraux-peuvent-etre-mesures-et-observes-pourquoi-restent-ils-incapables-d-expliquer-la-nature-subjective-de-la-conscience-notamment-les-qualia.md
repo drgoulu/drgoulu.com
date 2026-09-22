@@ -8,14 +8,9 @@ categories:
 tags:
 - experience-humaine
 - conscience
-- concepts-dans-la-philosophie-de-l-esprit
-- qualia
-- activite-cerebrale
-- probleme-difficile-de-conscience
-- neurosciences
+- neuroscience
 - conscience-humaine
 - philosophie-de-l-esprit
-- imagerie-cerebrale
 coverImage: ./images/quora.png
 ---
 

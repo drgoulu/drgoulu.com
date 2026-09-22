@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- futur
-- espace
-- passe
-- temps
-- relativite-generale
-- philosophie-du-temps
-- temps-physique
-- espace-temps
+- philosophie
 - relativite
+- espace
+- temps
 coverImage: ./images/quora.png
 ---
 

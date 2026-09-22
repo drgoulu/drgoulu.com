@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- francais-langue
-- les-etats-unis-d-amerique
-- ideologies-politiques
-- linguistique
-- opinion-politique
-- langue
-- langage-politique
-- anglais-langue
-- semantique
-- les-americains
+- politique
+- opinion
+- langage
+- etats-unis
+- ameriques
 coverImage: ./images/quora.png
 ---
 

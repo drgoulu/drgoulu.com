@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- invention-et-inventions
+- droit
+- invention
 - propriete-intellectuelle
 - brevets
-- droit-de-propriete
-- droit-sur-la-propriete-intellectuelle
-- l-invention
-- brevet-d-invention
-- droit-des-brevets
-- brevet
-- droits-de-propriete-intellectuelle
+- proprietes
 coverImage: ./images/quora.png
 ---
 

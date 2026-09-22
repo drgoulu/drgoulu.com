@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - mathematiques
+- nombres
+- geometrie
 - pi
 - mesure
-- cercles
-- nombre
-- precision
-- decimales
-- infinite
-- geometrie
-- chiffres-decimaux
 coverImage: ./images/qimg-09f84f6b20f17e8ad45deeb1671538be.png
 ---
 

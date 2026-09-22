@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- opinion-personnelle
-- pays
-- experiences
 - voyage
-- proprete
+- experience
+- pays
+- opinion-personnelle
 - voyage-international
-- voyageurs
-- le-voyage
-- opinions-personnelles
-- experience-de-voyage
 coverImage: ./images/quora.png
 ---
 

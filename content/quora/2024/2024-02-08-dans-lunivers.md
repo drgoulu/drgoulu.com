@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- azote
 - astronomie
-- abondance
-- carbone-element
-- l-univers
-- nombre-atomique
-- chimie
+- univers
 - cosmologie
-- elements-chimiques
+- chimie
 coverImage: ./images/quora.png
 ---
 

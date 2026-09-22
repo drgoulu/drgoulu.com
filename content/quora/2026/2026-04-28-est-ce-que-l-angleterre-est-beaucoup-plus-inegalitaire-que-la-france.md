@@ -9,12 +9,8 @@ tags:
 - france
 - sociologie
 - comparaisons
-- inegalites-sociales
-- angleterre
-- economie-generale
-- pays-europeens
-- economie-europeenne
 - inegalite
+- inegalites-sociales
 coverImage: ./images/quora.png
 ---
 

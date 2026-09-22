@@ -8,12 +8,9 @@ categories:
 tags:
 - sciences
 - energie-nucleaire
-- plomb-element
-- annees-lumiere-distance-astronomique
+- centrales-nucleaires
+- physique-nucleaire
 - physique-des-rayonnements
-- les-centrales-nucleaires
-- la-physique-nucleaire
-- radiation-nucleaire
 coverImage: ./images/quora.png
 ---
 

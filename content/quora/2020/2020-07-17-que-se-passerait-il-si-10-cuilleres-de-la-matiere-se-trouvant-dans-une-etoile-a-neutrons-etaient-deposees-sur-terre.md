@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- scenarios-hypothetiques
-- terre-planete
 - astronomie
-- catastrophes
-- etoiles-a-neutrons
-- destruction
-- matiere-physique
-- sciences-nucleaires
 - astrophysique
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

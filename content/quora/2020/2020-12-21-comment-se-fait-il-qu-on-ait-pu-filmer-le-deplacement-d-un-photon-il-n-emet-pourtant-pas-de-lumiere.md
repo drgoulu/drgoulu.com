@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
+- chimie
+- lumiere
 - experience
-- capture-video
-- photons
-- lumiere-physique
-- optique
-- la-physique-quantique
-- science-experimentale
-- photonics
-- physique-chimie
+- physique-quantique
 coverImage: ./images/quora.png
 ---
 

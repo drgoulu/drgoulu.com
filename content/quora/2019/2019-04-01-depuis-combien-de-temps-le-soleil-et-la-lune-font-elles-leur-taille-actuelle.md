@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- sciences
 - astronomie
-- le-soleil
-- evolution-processus
-- taille
-- lune-satellite-naturel
-- sciences-de-la-nature
-- systeme-solaire
-- lune-astronomie
-- science-de-la-terre
-- le-soleil-astronomie
+- evolution
+- terre
+- nature
 coverImage: ./images/quora.png
 ---
 

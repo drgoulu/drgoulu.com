@@ -8,13 +8,8 @@ categories:
 tags:
 - theories-du-complot
 - demographie
-- conviction
-- georgia-guidestones
 - realisme
-- reductions
-- fautes-d-orthographe
 - population-mondiale
-- theories-conspirationnistes
 - demographie-mondiale
 coverImage: ./images/qimg-44a54b36aa0def4af7cdf898a4779b52.png
 ---

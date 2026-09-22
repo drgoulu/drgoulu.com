@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- activite-paranormale-phenomenes-surnaturels
-- livres-academiques
+- religion
+- recherche
 - epistemologie
-- sciences-spirituelles-et-spiritisme
-- critique
-- sciences-occultes
-- science-et-religion
-- recherches-sur-le-paranormal
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

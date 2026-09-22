@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- rarete
-- elements-chimie
-- l-univers
-- cosmologie
 - astrophysique
-- elements-chimiques-specifiques
-- l-univers-astronomie
-- elements-chimiques
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- terre-planete
-- chaleur
-- le-noyau-terrestre
+- sciences
+- terre
+- planetes
 - geologie
-- sciences-de-la-terre
-- la-terre
-- geologie-planetaire
-- noyau-terrestre
-- science-de-la-terre
 coverImage: ./images/quora.png
 ---
 

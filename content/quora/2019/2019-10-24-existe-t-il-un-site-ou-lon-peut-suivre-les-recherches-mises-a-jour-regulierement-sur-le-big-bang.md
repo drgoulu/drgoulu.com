@@ -6,13 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- recherche-scientifique
-- sites-internet
 - cosmologie
-- cosmologie-du-big-bang
-- actualite-scientifique
+- recherche-scientifique
+- big-bang
 - publications-scientifiques
-- information-scientifique
+- sites-internet
 coverImage: ./images/quora.png
 ---
 

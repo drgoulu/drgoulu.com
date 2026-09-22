@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- recherche-scientifique
-- trajectoire
-- methodes
-- vitesse-de-rotation
-- le-soleil-astronomie
 - astrophysique
-- formules-scientifiques
-- la-methode-scientifique
-- methodes-de-recherche
+- recherche-scientifique
+- vitesse
+- soleil
 coverImage: ./images/quora.png
 ---
 

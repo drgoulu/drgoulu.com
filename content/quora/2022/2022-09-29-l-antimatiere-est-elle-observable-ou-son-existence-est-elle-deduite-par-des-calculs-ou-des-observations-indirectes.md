@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- l-antimatiere
-- observation
-- science-de-la-deduction
-- raison-scientifique
-- theorie-scientifique
+- sciences
 - physique-theorique
-- science-physique
-- deductions
-- observation-scientifique
+- theorie-scientifique
+- observation
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - aviation
 - vitesse
-- siege-ejectable
-- pilote
 - securite-aerienne
-- evacuations
 - altitude
 - vitesse-terminale
-- ejection-coronal
-- vitesse-maximum
 coverImage: ./images/quora.png
 ---
 

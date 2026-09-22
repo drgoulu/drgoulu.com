@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
+- politique
 - societe
 - sociologie
-- inegalites-de-revenu
-- questions-sociales
-- debats-de-societe
-- philosophie-et-societe
-- inegalites-sociales
-- sociologie-politique
-- inegalite
-- inegalite-des-revenus
+- debat
 coverImage: ./images/qimg-c0c22bad9e443325924ad90af01f8855.png
 ---
 

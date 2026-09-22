@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- le-soleil
-- duree-de-vie
-- etoiles-corps-celestes
-- evolution-stellaire
-- science-spatiale
 - astrophysique
-- physique-stellaire
-- astronomie-et-astrophysique
-- astrophysique-theorique
+- vie
+- science-spatiale
+- soleil
 coverImage: ./images/qimg-ab4bd62913f2d3212ffe172e1e931032.jpg
 ---
 

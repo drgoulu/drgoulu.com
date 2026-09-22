@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- vent
-- chaleur
-- phenomene-meteorologique
-- temperatures
-- mouvement-physique
+- biologie
+- mouvement
 - phenomenes-physiques
-- temperature-corporelle
-- physique-et-biologie
-- phenomenes-naturels
+- temperatures
 coverImage: ./images/qimg-d199a9aa7111b9db773f8fc1df096a94.jpg
 ---
 

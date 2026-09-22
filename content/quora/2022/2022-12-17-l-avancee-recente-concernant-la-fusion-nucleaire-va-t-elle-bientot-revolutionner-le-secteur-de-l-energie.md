@@ -10,10 +10,7 @@ tags:
 - energie
 - progres-scientifique
 - energie-nucleaire
-- secteur-energetique
-- source-d-energie
-- revolution-technologique
-- avancee-scientifique
+- sources-d-energie
 coverImage: ./images/quora.png
 ---
 

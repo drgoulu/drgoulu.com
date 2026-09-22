@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- france
 - politique
-- extreme-droite-en-france
+- france
+- systeme
+- gouvernement
 - politique-francaise
-- systeme-de-gouvernement
-- centrisme-politique
-- partis-politiques
-- politique-de-gauche
-- extreme-droite
-- politique-de-droite
 coverImage: ./images/quora.png
 ---
 

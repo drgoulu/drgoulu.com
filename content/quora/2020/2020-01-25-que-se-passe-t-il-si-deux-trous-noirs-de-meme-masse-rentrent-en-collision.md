@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs-supermassifs
-- espace
 - astronomie
-- collision-physique
-- astrophysique-relativiste
-- phenomenes-physiques
-- physique-theorique
-- trous-noirs
 - astrophysique
+- physique-theorique
+- espace
 coverImage: ./images/quora.png
 ---
 

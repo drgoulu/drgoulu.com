@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- gaz
-- experience
 - sciences
-- ballons
-- pression-atmospherique
+- experience
+- atmosphere
 - science-experimentale
-- physique-de-l-atmosphere
-- pression-du-gaz
-- pression-de-l-air
 coverImage: ./images/quora.png
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
 - sciences
 - energie-nucleaire
-- uranium
-- centrales-electriques
 - sources-d-energie
-- science-physique
-- les-centrales-nucleaires
-- reacteurs-nucleaires
+- centrales-nucleaires
 coverImage: ./images/quora.png
 ---
 

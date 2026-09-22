@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- alpha-centauri
-- exploration-spatiale
-- duree-de-vie-humaine
-- espace-interstellaire
 - astrophysique
-- voyage-dans-l-espace
-- vaisseau-spatial
-- technologie-spatiale
-- voyage-interstellaire
+- espace
+- exploration-spatiale
+- voyage
 coverImage: ./images/quora.png
 ---
 

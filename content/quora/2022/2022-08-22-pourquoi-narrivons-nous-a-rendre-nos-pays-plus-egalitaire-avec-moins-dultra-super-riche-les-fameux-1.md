@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - societe
-- pauvrete
-- richesse
-- les-1
-- inegalites-de-revenu
-- egalite-societe
-- les-plus-riches
-- repartition-des-richesses
 - inegalite
+- richesse
+- revenu
+- pauvrete
 coverImage: ./images/quora.png
 ---
 

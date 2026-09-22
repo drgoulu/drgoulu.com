@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- evolution
 - biologie
-- recherche-scientifique
-- terre-planete
-- evolution-processus
-- sciences-de-la-vie
-- vie-biologique
-- sciences-de-la-nature
-- origine-de-la-vie
-- evolution-biologie
-- etude-scientifique
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

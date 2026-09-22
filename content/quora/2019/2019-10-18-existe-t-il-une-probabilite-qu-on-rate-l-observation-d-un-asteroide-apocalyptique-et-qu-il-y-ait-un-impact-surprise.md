@@ -8,13 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
+- risques
 - risque-et-risques
-- extinction-humaine-via-la-frappe-d-asteroides
-- catastrophes
 - asteroides
-- peur-d-asteroides
-- collisions-d-asteroides
-- analyse-de-risque
 coverImage: ./images/qimg-63f01fc9da82e5fc29013d2b61253938.jpg
 ---
 

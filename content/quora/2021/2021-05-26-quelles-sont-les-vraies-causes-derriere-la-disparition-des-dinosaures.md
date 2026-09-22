@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- catastrophes-naturelles
-- paleontologie
-- sciences-de-la-terre
-- extinction-des-especes
-- dinosaures
-- phenomene-geologique
-- histoire-de-la-terre
-- evenements-scientifiques
-- extinction-de-masse
-- evenements-d-extinction
+- sciences
+- histoire
+- terre
+- especes
+- extinction
 coverImage: ./images/qimg-a674250178e6617f50a979f98876d8d2.jpg
 ---
 

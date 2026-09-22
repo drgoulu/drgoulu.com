@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- femme
-- histoire-humaine
-- anthropologie
-- primates
-- evolution-biologie
-- espece-humaine
+- evolution
+- biologie
 - evolution-humaine
-- femmes
-- origines-humaines
+- anthropologie
+- histoire-humaine
 coverImage: ./images/quora.png
 ---
 

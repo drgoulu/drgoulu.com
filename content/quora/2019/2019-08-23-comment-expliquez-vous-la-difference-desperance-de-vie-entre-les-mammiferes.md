@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- biologie
-- esperance-de-vie
-- mammiferes
-- sciences-de-la-nature
+- sciences
 - evolution
-- zoologie
-- biologie-animale
-- sciences-de-la-vie
-- evolution-biologie
-- evolution-animale
+- biologie
+- vie
+- nature
 coverImage: ./images/qimg-e2f43620110f52ac7ceeed168e73d8ba.jpg
 ---
 

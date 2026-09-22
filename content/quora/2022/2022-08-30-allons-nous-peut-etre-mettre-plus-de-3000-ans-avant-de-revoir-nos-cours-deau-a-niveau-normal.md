@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - changement-climatique
-- cours-d-eau
-- niveau-de-la-mer
-- secheresse
-- previsions-meteorologiques
+- rechauffement-climatique
 - crise-climatique
-- adaptation-au-changement-climatique
-- le-rechauffement-climatique
-- situation-climatique
+- adaptation
+- niveau-de-la-mer
 coverImage: ./images/quora.png
 ---
 

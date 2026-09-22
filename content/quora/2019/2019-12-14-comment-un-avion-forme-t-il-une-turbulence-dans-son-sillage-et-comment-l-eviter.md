@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
+- mecanique
+- atmosphere
 - aviation
-- mecanique-des-fluides
-- vol
-- aeronautique
 - avions
-- turbulences
-- physique-de-l-atmosphere
-- securite-aerienne
-- ingenierie-aeronautique
-- aerologie
 coverImage: ./images/qimg-7b41d44b6c537cd3c8e39d40a64e6c67.jpg
 ---
 

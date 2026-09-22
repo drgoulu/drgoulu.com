@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- religions
-- histoire-des-sciences
-- controverses
-- creationnisme
-- theorie-de-l-evolution
-- science-et-religion
-- l-histoire-de-l-eglise-catholique
-- religion-catholique
-- histoire-de-la-religion
+- sciences
+- histoire
+- evolution
+- theorie
+- religion
 coverImage: ./images/quora.png
 ---
 

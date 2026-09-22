@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-nature
-- fiabilite
+- sciences
+- nature
+- recherche
 - geologie
-- contamination
-- datation-radiometrique
-- methodes-de-recherche
 - paleontologie
-- archeologie
-- la-methode-scientifique
-- methodes
 coverImage: ./images/quora.png
 ---
 

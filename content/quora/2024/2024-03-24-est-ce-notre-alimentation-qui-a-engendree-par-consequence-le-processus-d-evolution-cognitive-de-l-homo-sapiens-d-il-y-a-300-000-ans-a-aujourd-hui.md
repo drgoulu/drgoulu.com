@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- alimentation
-- psychologie-cognitive
-- homo-sapiens
-- anthropologie
-- evolution-humaine
-- paleontologie
-- histoire-de-l-humanite
-- sciences-cognitives
+- histoire
 - evolution
-- histoire-de-lhomme
+- humanite
+- evolution-humaine
+- anthropologie
 coverImage: ./images/quora.png
 ---
 

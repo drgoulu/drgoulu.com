@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - psychologie
-- adrenalines
-- adult-question-user
-- theories-du-complot-specifiques
-- substances
 - medecine
-- biochimie-neurochimie
-- substances-hallucinogenes
-- neurochimie
 - theories-du-complot
+- theories-du-complot-specifiques
+- adult-question-user
 coverImage: ./images/quora.png
 ---
 

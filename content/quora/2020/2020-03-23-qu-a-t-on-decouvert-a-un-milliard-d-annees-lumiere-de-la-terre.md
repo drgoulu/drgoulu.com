@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
+- univers
+- recherche-scientifique
 - espace
-- l-univers
-- distance
-- decouvertes-scientifiques
-- annees-lumiere-distance-astronomique
 - galaxies
-- l-univers-astronomie
-- recherches-scientifiques
-- galaxies-astronomie
 coverImage: ./images/quora.png
 ---
 

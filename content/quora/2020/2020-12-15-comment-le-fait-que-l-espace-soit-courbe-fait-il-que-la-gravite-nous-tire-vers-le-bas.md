@@ -7,13 +7,9 @@ categories:
 - Comment
 tags:
 - physique
-- albert-einstein
+- theorie
+- relativite
 - espace
-- courbure-de-l-espace
-- relativite-generale
-- gravity
-- theorie-de-la-relativite
-- espace-temps
 - gravitation
 coverImage: ./images/qimg-e22ac0b7de68a361ef41f97b66df6f24.jpg
 ---

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
 - sciences
-- carbone-element
-- cristaux
-- air
 - chimie
-- matiere-physique
+- matiere
 - elements-chimiques
-- cristallisation
-- carbone
-- chimie-physique
 coverImage: ./images/quora.png
 ---
 

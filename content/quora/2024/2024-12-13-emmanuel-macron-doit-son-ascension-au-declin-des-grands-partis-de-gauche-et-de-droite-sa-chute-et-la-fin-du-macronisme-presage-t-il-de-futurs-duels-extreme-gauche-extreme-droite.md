@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - france
-- droite-politique
-- election-presidentielle-francaise-2022
-- gauche
-- emmanuel-macron
+- opinion
+- elections
 - politique-francaise
-- extreme-gauche
-- macronisme
-- opinion-politique
-- elections-en-france
 coverImage: ./images/quora.png
 ---
 

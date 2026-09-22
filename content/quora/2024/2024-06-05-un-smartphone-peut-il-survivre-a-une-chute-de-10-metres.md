@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
+- sciences
+- technologies
 - chute
-- resistants
 - smartphones
-- test-de-performance
-- faisabilite
-- technologie-digitale
 - resistance-physique
-- survivabilite
 coverImage: ./images/quora.png
 ---
 

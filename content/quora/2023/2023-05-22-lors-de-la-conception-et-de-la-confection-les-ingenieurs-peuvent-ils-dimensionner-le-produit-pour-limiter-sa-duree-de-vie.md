@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- ethique
 - ingenierie
-- obsolescence
+- ethique
 - durabilite
 - fabrication
-- design-de-produit
-- lobsolescence-programmee
-- philosophie-ethique
-- conception-et-ingenierie-de-produits
-- comportement-ethique
+- produit
 coverImage: ./images/quora.png
 ---
 

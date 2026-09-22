@@ -7,13 +7,9 @@ categories:
 - Comment
 tags:
 - sciences
+- environnement
 - sante-publique
-- effets-negatifs
-- l-environnement
-- ondes-electromagnetiques
-- effets-indesirables
-- protection-de-l-environnement
-- sante-environnementale
+- protection
 - champs-electromagnetiques
 coverImage: ./images/quora.png
 ---

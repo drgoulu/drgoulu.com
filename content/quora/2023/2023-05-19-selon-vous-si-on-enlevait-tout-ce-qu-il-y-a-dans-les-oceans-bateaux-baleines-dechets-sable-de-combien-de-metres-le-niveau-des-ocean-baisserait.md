@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - sciences
-- question-hypothetique
 - geographie
-- niveau-de-la-mer
-- experiences-de-reflexion
-- les-oceans
-- oceanographie
+- experience
+- question-hypothetique
 - hypotheses
-- provoquer-la-reflexion
-- jeux-de-reflexion
 coverImage: ./images/quora.png
 ---
 

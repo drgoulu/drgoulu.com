@@ -7,13 +7,9 @@ categories:
 - Pourquoi
 tags:
 - sante
-- effets-secondaires-du-vaccin-covid-19
-- covid-19-2019-2020
-- problemes-cardiaques
-- vaccination
-- effets-secondaires
 - sante-publique
-- maladies-du-coeur
+- covid-19-2019-2020
+- vaccination
 - vaccin-covid-19
 coverImage: ./images/quora.png
 ---

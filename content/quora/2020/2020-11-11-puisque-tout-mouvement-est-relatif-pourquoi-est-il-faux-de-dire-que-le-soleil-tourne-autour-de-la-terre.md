@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
+- sciences
 - astronomie
-- le-soleil
-- heliocentrisme
-- terre-planete
-- mouvement-physique
-- systeme-solaire
-- science-physique
-- geocentrisme
-- la-physique
-- theorie-de-l-heliocentrisme
+- theorie
+- terre
 coverImage: ./images/qimg-57c4edbc07a9504e20aa8649ec2e8221.jpg
 ---
 

@@ -8,12 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- energie-renouvelable
-- l-environnement
-- technologie-propre
+- environnement
+- chimie
 - energie-nucleaire
-- energie-alternative
-- physique-et-chimie
 coverImage: ./images/quora.png
 ---
 

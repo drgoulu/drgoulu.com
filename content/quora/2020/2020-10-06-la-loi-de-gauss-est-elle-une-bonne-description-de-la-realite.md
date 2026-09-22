@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- mathematiques
 - sciences
-- loi-de-gauss-electrostatique
+- mathematiques
 - realite
-- modelisation
 - probabilite-statistiques
-- courbe-de-gauss
-- fonction-gaussienne
-- validite
 coverImage: ./images/quora.png
 ---
 

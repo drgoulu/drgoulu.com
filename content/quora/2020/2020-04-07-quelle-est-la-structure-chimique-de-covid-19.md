@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- covid-19-2019-2020
 - biologie
-- virus
-- composition-chimique
-- virologie
+- chimie
 - biologie-humaine
-- structure-des-proteines
-- structures-chimiques
-- chimie-biologie
+- covid-19-2019-2020
 coverImage: ./images/qimg-3b12564da104e62b372bdb531bcb7d39.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- planetes
+- espace
 - exploration-spatiale
-- mars-planete
-- decollage-aviation
-- voyage-dans-l-espace
+- voyage
 - technologie-spatiale
-- vaisseau-spatial
-- vehicule-spatial
-- navette-spatiale-pour-voyager-dans-l-espace
-- missions-spatiales
-- vol-spatial
 coverImage: ./images/quora.png
 ---
 

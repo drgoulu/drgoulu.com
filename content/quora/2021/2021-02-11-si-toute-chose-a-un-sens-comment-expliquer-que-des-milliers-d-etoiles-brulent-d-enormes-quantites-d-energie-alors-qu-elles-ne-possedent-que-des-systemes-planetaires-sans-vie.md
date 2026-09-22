@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- philosophie
-- etoiles-corps-celestes
-- sens-de-la-vie
-- l-univers
-- astrophysique
-- vie-extraterrestre
-- systeme-solaire
-- cosmologie
+- sciences
 - astronomie
-- philosophie-des-sciences
+- philosophie
+- astrophysique
+- univers
 coverImage: ./images/quora.png
 ---
 

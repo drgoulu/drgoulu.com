@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- travail-emploi
-- richesse
-- sociologie-du-travail
-- mindset-et-richesse
-- richesse-et-pauvrete
-- philosophie-et-psychologie
-- ethique-du-travail
+- psychologie
+- sociologie
+- ethique
+- travail
 coverImage: ./images/quora.png
 ---
 

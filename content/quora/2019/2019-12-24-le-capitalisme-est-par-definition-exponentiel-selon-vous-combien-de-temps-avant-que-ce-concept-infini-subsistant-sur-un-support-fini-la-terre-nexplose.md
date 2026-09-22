@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- durabilite
-- ressources-naturelles
+- philosophie
 - theorie
-- planete-terre
-- capitalisme
-- ecologie-politique
-- croissance-exponentielle
-- philosophie-de-l-economie
-- theorie-economique
-- anticapitalisme
+- politique
+- ecologie
+- economie
 coverImage: ./images/quora.png
 ---
 

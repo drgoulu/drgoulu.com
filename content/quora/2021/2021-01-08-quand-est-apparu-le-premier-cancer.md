@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- medecine
+- sciences
+- histoire
+- evolution
 - biologie
-- histoire-de-la-science
-- cancer
 - evolution-humaine
-- maladie
-- biologie-humaine
-- evolution-biologie
-- histoire-de-la-medecine
-- histoire-de-la-biologie
 coverImage: ./images/quora.png
 ---
 

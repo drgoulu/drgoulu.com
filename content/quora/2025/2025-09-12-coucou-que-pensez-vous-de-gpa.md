@@ -8,13 +8,8 @@ categories:
 tags:
 - parentalite
 - gpa
-- procreation-medicale-assistee
 - planned-parenthood
 - reproduction
-- parenting
-- maternage
-- pregnancy
-- gestation
 - reproduction-humaine
 coverImage: ./images/quora.png
 ---

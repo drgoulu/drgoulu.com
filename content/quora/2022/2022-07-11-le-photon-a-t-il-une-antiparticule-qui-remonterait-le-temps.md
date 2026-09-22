@@ -7,12 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- anti-particules
-- photons
-- temps-physique
+- temps
 - physique-quantique
+- photons
 - particules
-- theorie-quantique-des-champs
 coverImage: ./images/qimg-b0c63ae83e018da268ade53d049de017.png
 ---
 

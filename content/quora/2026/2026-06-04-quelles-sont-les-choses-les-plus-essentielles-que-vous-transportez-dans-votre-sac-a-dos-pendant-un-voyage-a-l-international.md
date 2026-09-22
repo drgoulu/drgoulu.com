@@ -8,13 +8,9 @@ categories:
 tags:
 - voyage-international
 - voyage
-- conseils-pour-voyage-a-l-etranger
+- conseils
+- etrangers
 - voyageurs
-- accessoires-de-voyage
-- voyages-avec-un-sac-a-dos
-- astuces-de-voyage
-- objets-voyage
-- recommandations-de-voyage
 coverImage: ./images/quora.png
 ---
 

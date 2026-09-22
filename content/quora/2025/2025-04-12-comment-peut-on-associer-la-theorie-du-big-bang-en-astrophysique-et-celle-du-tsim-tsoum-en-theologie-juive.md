@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - astrophysique
-- theologie
 - cosmologie
+- religion
 - creation
-- le-big-bang
-- science-et-religion
-- universum
-- religion-juive
-- theologie-et-philosophie-juive
-- cosmologie-du-big-bang
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- science-et-technologie
-- chine
-- imprimerie
-- diffusion
-- histoire-des-inventions
+- sciences
+- histoire
+- technologies
 - invention
 - innovation-technologique
-- technologies
-- histoire-des-techniques
 coverImage: ./images/quora.png
 ---
 

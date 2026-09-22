@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- images-etonnantes
-- telescope-spatial-james-webb
 - exploration-spatiale
-- nasa
-- progres-scientifique
-- la-lumiere-infrarouge
-- decouvertes-scientifiques
 - science-spatiale
+- decouvertes-scientifiques
+- nasa
 coverImage: ./images/qimg-9f89156dead997451fc670c7dd7affe9.jpg
 ---
 

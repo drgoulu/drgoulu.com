@@ -9,10 +9,8 @@ tags:
 - technologie-moderne
 - developpement-durable
 - sources-d-energie
-- limitation-des-ressources
+- ressources
 - energie-alternative
-- le-genie-energetique
-- ressource-energetique-durable
 coverImage: ./images/quora.png
 ---
 

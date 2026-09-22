@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- histoire-des-sciences
-- heure
-- unites-de-mesure
-- le-temps
-- seconde
-- minutes
-- temps-quantite-physique
-- mesure-du-temps
-- histoire-de-la-physique
-- histoire-de-l-astronomie
+- physique
+- sciences
+- astronomie
+- histoire
+- temps
 coverImage: ./images/quora.png
 ---
 

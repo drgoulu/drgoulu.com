@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- theorie
 - informatique
-- lisp-langage-de-programmation
-- langages-de-programmation
-- sciences-informatiques
-- l-informatique
-- theorie-du-langage-de-programmation
-- informatique-general
-- science-de-l-informatique
-- informatik
-- language-de-programmation
+- programmation
+- langage
 coverImage: ./images/quora.png
 ---
 

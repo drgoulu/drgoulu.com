@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-humaine
-- mortalite
-- demographie
+- histoire
+- humanite
 - creation
-- approximations
-- population-mondiale
-- estimation
-- taux-de-mortalite
-- histoire-de-l-humanite
-- demographie-mondiale
+- demographie
+- histoire-humaine
 coverImage: ./images/qimg-692e5c69325945a283229a310b64ab59.png
 ---
 

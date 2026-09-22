@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- trous-noirs
-- orbites
 - astronomie
-- etoiles-corps-celestes
-- l-univers
-- planetes-astronomie
-- cosmologie
-- galaxies
 - astrophysique
+- univers
+- cosmologie
 coverImage: ./images/qimg-277610c97fed15af823245ff2785412a.gif
 ---
 

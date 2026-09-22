@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- stephen-hawking
-- trous-noirs
-- calcul-mathematique
 - astrophysique
-- rayonnement-de-hawking
-- formules-scientifiques
-- relativite-generale
 - physique-theorique
-- astrophysique-theorique
+- trous-noirs
+- relativite-generale
 coverImage: ./images/quora.png
 ---
 

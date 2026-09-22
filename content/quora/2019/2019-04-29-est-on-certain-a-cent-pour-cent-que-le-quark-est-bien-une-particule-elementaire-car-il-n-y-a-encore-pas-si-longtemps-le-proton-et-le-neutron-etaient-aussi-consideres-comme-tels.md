@@ -6,13 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
+- matiere
 - structure-atomique
-- quarks
 - modele-standard-de-la-physique-des-particules
-- science-de-la-matiere
-- protons
-- neutrons
-- physique-de-la-matiere
 coverImage: ./images/quora.png
 ---
 

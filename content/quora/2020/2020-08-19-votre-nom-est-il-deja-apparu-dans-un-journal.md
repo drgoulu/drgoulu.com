@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-de-sondage
+- internet
+- questions
+- information
 - medias
-- identite
-- vie-privee
-- noms
-- journalisme
-- medias-d-information
-- journalisme-sensationnel
-- vie-privee-sur-internet
-- identite-de-soi
+- sondages
 coverImage: ./images/quora.png
 ---
 

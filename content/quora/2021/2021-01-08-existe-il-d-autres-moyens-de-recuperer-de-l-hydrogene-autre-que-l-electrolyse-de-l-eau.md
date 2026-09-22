@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sciences
-- energie-physique
-- chimie
-- hydrogene
-- production-d-energie
-- sciences-et-technologies
-- energie-chimique
 - energie
-- energie-hydrogene
+- technologies
+- chimie
 coverImage: ./images/quora.png
 ---
 

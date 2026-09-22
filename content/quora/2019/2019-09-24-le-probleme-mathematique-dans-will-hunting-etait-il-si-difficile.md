@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- will-hunting-film-1997
+- questions
+- probleme
+- resolutions
 - films
-- cinema
-- resolution-de-problemes-en-mathematiques
-- cinema-et-television
-- problemes-mathematiques
-- mathematiciens
-- questions-de-mathematiques
 coverImage: ./images/qimg-ffcaee595583ef13415c4c9bae026fff.png
 ---
 

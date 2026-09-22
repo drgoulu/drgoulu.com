@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- transport-ferroviaire
-- lima
+- ameriques
 - altitude
+- ville
 - infrastructures
-- villes-d-amerique-du-sud
-- perou
-- lima-perou
-- gare-ferroviaire
-- haute-altitude
+- sud
 coverImage: ./images/quora.png
 ---
 

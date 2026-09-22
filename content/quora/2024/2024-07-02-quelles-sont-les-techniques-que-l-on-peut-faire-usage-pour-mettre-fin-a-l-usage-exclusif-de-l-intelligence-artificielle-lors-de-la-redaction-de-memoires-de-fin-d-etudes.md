@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - education
-- plagiat
 - intelligence-artificielle
-- memoires-fin-d-etude
-- ecriture
-- recherche-academique
 - enseignement-superieur
-- projet-de-fin-d-etudes
+- ecriture
+- plagiat
 coverImage: ./images/quora.png
 ---
 

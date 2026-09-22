@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
+- evolution
 - biologie
-- charles-darwin
-- evolution-processus
-- selection-naturelle
-- sciences-de-la-vie
-- darwinisme
-- theorie-de-l-evolution
-- evolution-biologique-des-especes
-- sciences-de-la-nature
-- evolution-biologie
+- theorie
+- vie
 coverImage: ./images/quora.png
 ---
 

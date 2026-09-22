@@ -8,13 +8,9 @@ categories:
 tags:
 - finance
 - richesse
-- production-industrielle
 - suisse
-- economie-de-la-suisse
-- secteurs-economiques
+- economie
 - pays-riches
-- services-bancaires
-- secteur-financier
 coverImage: ./images/quora.png
 ---
 

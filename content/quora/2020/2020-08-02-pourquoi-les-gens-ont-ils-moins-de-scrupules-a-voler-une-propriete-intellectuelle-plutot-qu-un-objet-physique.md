@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - psychologie
-- vols
+- sociologie
+- ethique
 - comportement-humain
 - propriete-intellectuelle
-- ethique-philosophie-morale
-- sociologie
-- l-ethique
-- propriete
-- comportement-ethique
-- ethique-humaine
 coverImage: ./images/quora.png
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- organisation
-- innovation
+- sciences
 - recherche-scientifique
-- cern-organisation
-- invention
-- organisation-internationale
+- technologies
 - decouvertes-scientifiques
+- invention
 coverImage: ./images/quora.png
 ---
 

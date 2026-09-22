@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- psychologie
-- etats-modifies
-- conscience
-- experiences-de-sortie-hors-du-corps
-- simulation
-- spiritualite
-- experience-humaine
-- le-phenomene-paranormal
 - philosophie
-- etats-d-esprits
+- psychologie
+- conscience
+- spiritualite
+- simulation
 coverImage: ./images/quora.png
 ---
 

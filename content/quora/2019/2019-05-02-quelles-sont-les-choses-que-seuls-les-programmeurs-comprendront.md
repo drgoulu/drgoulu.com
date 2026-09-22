@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - informatique
-- humour
-- geeks-et-culture-geek
-- langages-de-programmation
-- developpement-logiciel
-- culture-hacker
-- programmateurs
+- programmation
+- langage
 - sciences-informatiques
-- l-informatique
-- programmeurs-informatiques
+- humour
 coverImage: ./images/quora.png
 ---
 

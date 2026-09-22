@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- animal
-- artificiel
 - nature
-- difference
-- humanisme
-- l-espece-animal
-- naturel
-- philosophie-et-science
-- philosophie-et-culture
+- animaux
+- culture
 coverImage: ./images/quora.png
 ---
 

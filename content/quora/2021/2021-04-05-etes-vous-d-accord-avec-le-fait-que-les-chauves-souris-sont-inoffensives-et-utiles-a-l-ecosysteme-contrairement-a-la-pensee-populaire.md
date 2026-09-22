@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
+- animaux
 - opinion-publique
 - faune
 - perception
-- chauve-souris
-- protection-de-l-environnement
-- animaux
-- biodiversite
-- ecosystemes
-- environnement
-- conservation-de-la-faune
 coverImage: ./images/quora.png
 ---
 

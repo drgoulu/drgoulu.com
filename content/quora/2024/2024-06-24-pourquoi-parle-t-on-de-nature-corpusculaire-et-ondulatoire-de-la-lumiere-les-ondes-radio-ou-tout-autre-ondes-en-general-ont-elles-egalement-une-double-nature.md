@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - ondes
-- optique-ondulatoire
-- dualite
-- les-ondes
-- lumiere-physique
+- lumiere
 - ondes-electromagnetiques
 - dualite-onde-particule
-- la-mecanique-ondulatoire
 coverImage: ./images/quora.png
 ---
 

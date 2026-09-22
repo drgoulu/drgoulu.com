@@ -8,14 +8,9 @@ categories:
 tags:
 - politique
 - question-hypothetique
-- politique-francaise
-- prise-de-decision
-- president
-- presidence-de-la-republique-francaise
 - gouvernement
-- mesures-politiques
-- choix-politiques
-- decisions-politiques
+- politique-francaise
+- president
 coverImage: ./images/quora.png
 ---
 

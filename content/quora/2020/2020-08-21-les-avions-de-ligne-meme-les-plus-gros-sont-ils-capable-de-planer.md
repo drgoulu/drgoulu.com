@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- vols
-- planeur
+- vol
 - avions
-- portance-aerodynamique
-- aeronotique
-- voler
 - aviation
 - aerodynamique
-- vol
 coverImage: ./images/quora.png
 ---
 

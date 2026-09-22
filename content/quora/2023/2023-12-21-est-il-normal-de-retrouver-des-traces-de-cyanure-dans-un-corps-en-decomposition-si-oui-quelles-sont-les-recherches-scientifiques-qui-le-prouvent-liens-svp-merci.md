@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- corps-humains
-- chimie
 - recherche-scientifique
-- intoxication-au-cyanure
-- decomposition
-- medecine-legale
-- toxicologie
-- les-cyanures
+- chimie
 - recherche
-- decomposition-des-corps
+- corps-humains
+- toxicologie
 coverImage: ./images/quora.png
 ---
 

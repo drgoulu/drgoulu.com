@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- vitesse-de-la-lumiere
-- theorie-de-la-relativite
-- energie-physique
-- mouvement-physique
-- relativite-restreinte
-- theories-physiques
+- theorie
 - physique-theorique
-- relativite-physique
-- physique-classique
+- energie
+- relativite
 coverImage: ./images/quora.png
 ---
 

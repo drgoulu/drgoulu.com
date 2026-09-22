@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- comprehension
-- electromagnetisme
-- phenomenes
+- sciences
 - physique-theorique
-- science-physique
-- magnetisme
 - phenomenes-physiques
-- phenomene
+- electromagnetisme
 coverImage: ./images/quora.png
 ---
 

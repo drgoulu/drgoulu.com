@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
 - mathematiques
-- la-quatrieme-dimension
-- visualisation
-- espace-dimension
 - geometrie
-- dimensions-physique
-- espace-quadridimensionnel
-- visualisation-de-donnees
-- post
-- quatrieme-dimension
+- dimensions
+- donnees
 coverImage: ./images/qimg-8cfdfe233b327fbd572bdc60688371cb.jpg
 ---
 

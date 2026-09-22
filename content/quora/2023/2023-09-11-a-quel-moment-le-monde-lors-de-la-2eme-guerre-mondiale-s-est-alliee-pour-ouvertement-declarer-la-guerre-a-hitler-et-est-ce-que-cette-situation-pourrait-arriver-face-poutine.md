@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- vladimir-poutine
+- monde
 - relations-internationales
-- adolf-hitler
-- conflits
 - guerre
-- alliances
-- la-seconde-guerre-mondiale
-- histoire-du-monde
+- conflits
 coverImage: ./images/qimg-cd7a483efe603641a9962c2fa65fc864.jpg
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - astrophysique
-- science-fiction-genre
+- terre
+- planetes
 - espace
 - trous-noirs
-- terre-planete
-- scenarios-de-fin-du-monde
-- catastrophes-environnementales
-- fin-du-monde
-- astrophysique-theorique
 coverImage: ./images/quora.png
 ---
 

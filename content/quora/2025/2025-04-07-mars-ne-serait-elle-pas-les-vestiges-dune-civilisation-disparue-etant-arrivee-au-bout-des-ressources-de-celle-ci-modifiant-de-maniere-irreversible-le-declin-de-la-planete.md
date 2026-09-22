@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- mars-planete
+- planetes
+- vie
+- mars
 - hypotheses-scientifiques
-- geologie-planetaire
-- limitation-des-ressources
-- exobiologie
-- civilisations-perdues
-- vie-sur-mars
-- ressources-planetaire
-- habitabilite-planetaire
-- planetologie
+- ressources
 coverImage: ./images/quora.png
 ---
 

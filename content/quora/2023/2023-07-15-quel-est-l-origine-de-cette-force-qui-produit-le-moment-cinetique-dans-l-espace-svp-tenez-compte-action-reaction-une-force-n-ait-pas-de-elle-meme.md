@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - espace
-- action-de-causer-et-causalite
-- cinetiques
-- reaction
-- lois-de-la-physique
-- force-physique
-- moment-cinetique
 - mecanique
-- cause-et-effet
+- loi
+- force
 coverImage: ./images/quora.png
 ---
 

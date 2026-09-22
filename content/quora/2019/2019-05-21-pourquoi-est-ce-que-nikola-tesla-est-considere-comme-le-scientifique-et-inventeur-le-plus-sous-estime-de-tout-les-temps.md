@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
+- histoire
+- invention
 - personne
-- histoire-des-inventions
-- nikola-tesla
-- sous-estimer
 - scientifiques
-- inventeurs
-- invention-et-inventions
-- histoire-de-la-science
 coverImage: ./images/quora.png
 ---
 

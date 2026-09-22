@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- echelle-de-kardashev
-- consommation-energetique
-- civilisation-intelligente
-- vie-extraterrestre
-- cosmologie
 - astrophysique
+- cosmologie
+- vie-extraterrestre
 - civilisation
-- civilisation-humaine
-- consommation-denergie
 coverImage: ./images/quora.png
 ---
 

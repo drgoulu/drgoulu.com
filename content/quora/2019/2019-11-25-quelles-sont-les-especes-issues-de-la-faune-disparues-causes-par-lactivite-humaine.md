@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- activite-humaine
-- faune
-- impact-environnemental
+- planetes
+- especes
 - extinction
-- biodiversite
-- animaux-disparus
-- especes-eteintes
-- influence-de-l-homme-sur-la-planete
-- extinction-des-especes
-- conservation-de-la-faune
+- faune
+- conservation
 coverImage: ./images/quora.png
 ---
 

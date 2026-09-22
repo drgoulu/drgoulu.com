@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- lois-du-mouvement-de-newton
-- objet
-- corps
 - gravitation
-- mouvement-physique
-- lois-universelles
-- lois-de-la-physique
-- sujet
+- mouvement
+- loi
 coverImage: ./images/quora.png
 ---
 

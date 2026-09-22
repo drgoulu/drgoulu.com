@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- neurologie
-- vieillissement
+- sciences
+- sante
 - sciences-cognitives
-- fonctionnement-du-cerveau
-- cerveau-humain
-- sante-du-cerveau
-- science-du-cerveau
-- vieillissement-du-cerveau
-- fonction-cerebrale
-- sante-cognitive
+- cerveau
+- neurologie
 coverImage: ./images/quora.png
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
 - sciences
+- histoire
 - energie-nucleaire
-- histoire-de-la-physique
-- atomes
 - decouvertes-scientifiques
-- science-physique
-- fission-nucleaire
-- histoire-des-sciences
 coverImage: ./images/quora.png
 ---
 

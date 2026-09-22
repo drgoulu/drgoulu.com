@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - biologie
-- reaction-en-chaine-de-la-polymerase-pcr
-- definitions
 - genetique
-- techniques-de-laboratoire-en-biologie
-- acronymes
-- abreviations
-- genetique-moleculaire
-- biologie-medicale
+- definition
+- technique
 coverImage: ./images/quora.png
 ---
 

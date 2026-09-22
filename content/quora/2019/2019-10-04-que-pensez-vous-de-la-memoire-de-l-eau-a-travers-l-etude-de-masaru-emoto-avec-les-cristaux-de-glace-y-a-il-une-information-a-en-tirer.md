@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- masaru-emoto
-- proprietes-de-l-eau
-- cristaux
+- recherche-scientifique
 - eau
-- phenomenes
-- pseudoscience
-- etudes-scientifiques
-- recherches-scientifiques
-- pseudo-science
+- etude-scientifique
+- proprietes
 coverImage: ./images/quora.png
 ---
 

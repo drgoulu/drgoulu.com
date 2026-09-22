@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
+- theorie
+- politique
+- sociologie
 - sciences-politiques
-- philosophie-politique
-- retroaction
-- autorites-de-regulation
-- role-de-l-etat
-- analyse-politique
-- sociologie-politique
-- science-politique
-- theorie-politique
-- analyse-des-politiques
 coverImage: ./images/quora.png
 ---
 

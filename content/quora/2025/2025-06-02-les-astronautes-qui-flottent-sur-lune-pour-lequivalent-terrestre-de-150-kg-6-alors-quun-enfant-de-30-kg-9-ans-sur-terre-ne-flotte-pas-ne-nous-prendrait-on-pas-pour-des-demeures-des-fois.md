@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- enfants
-- lune-satellite-naturel
 - sciences
-- voyage-spatial
-- astronautes
-- poids
 - gravite
-- poids-physique
-- gravite-physique
+- voyage-spatial
+- enfants
 coverImage: ./images/quora.png
 ---
 

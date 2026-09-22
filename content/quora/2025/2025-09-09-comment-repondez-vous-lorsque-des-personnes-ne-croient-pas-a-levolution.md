@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- debats-de-societe
-- biologie
-- creationnisme
-- pensee-scientifique
 - evolution
-- debat
-- theorie-scientifique
-- theorie-de-l-evolution
-- evolution-biologie
+- biologie
+- theorie
+- societe
 coverImage: ./images/quora.png
 ---
 

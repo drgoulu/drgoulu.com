@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- experiences
-- the-big-bang-theory-series-tele
 - sciences
-- verification-des-faits
-- television
 - theorie
+- experience
 - science-experimentale
-- series-tv
-- series-televisees
 coverImage: ./images/qimg-7a485342628c117c4306bc86a04f79ac.jpg
 ---
 

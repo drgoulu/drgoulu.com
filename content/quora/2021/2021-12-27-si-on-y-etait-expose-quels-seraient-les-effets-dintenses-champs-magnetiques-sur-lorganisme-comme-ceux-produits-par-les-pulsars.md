@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- pulsars-etoiles
 - sciences
 - astronomie
-- effets-sur-la-sante
-- biologie-humaine
-- champs-magnetiques
 - astrophysique
-- sante-humaine
+- sante
 coverImage: ./images/quora.png
 ---
 

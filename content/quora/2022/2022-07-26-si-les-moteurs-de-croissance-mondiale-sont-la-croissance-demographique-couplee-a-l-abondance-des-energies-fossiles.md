@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - ecologie
-- economie-mondiale
-- ressources-naturelles
+- economie
 - developpement-durable
-- economies
-- croissance-demographique
-- energies-fossiles
-- decroissance
-- demographie-mondiale
-- ecologie-politique
+- ressources-naturelles
 coverImage: ./images/quora.png
 ---
 

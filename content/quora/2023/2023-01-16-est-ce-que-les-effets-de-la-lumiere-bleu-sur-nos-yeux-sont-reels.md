@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- lumiere-artificielle
-- les-yeux
 - sciences
-- science-et-technologie
-- oeil-humain
-- protection-des-yeux
+- sante
+- technologies
+- protection
 - sante-humaine
-- sante-des-yeux
 coverImage: ./images/quora.png
 ---
 

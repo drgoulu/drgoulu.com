@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-nature
+- sciences
+- nature
 - geologie
-- plaques-tectoniques
 - geomorphologie
-- geologie-historique
-- geologie-structurale
 - tectoniques-des-plaques
-- science-de-la-nature
 coverImage: ./images/quora.png
 ---
 

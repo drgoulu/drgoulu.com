@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sciences
-- radioactivite
-- uranium
-- elements-chimiques-specifiques
 - chimie
-- la-physique-nucleaire
-- elements-radioactifs
-- sciences-nucleaires
+- radioactivite
 - elements-chimiques
+- sciences-nucleaires
 coverImage: ./images/quora.png
 ---
 

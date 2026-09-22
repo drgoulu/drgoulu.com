@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
+- sante
+- monde
 - sante-publique
-- catastrophes
-- maladies
-- pandemie
-- crise-sanitaire
-- histoire-du-monde
-- epidemies
 - maladies-infectieuses
-- sante-et-securite-publiques
 coverImage: ./images/quora.png
 ---
 

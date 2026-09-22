@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - relations-internationales
 - guerre
-- les-etats-unis-d-amerique
-- attaque
-- politique-au-venezuela
-- president
-- conflits-geopolitiques
-- venezuela
-- guerres-et-histoire-militaire
-- intervention-militaire
+- etats-unis
+- ameriques
 coverImage: ./images/quora.png
 ---
 

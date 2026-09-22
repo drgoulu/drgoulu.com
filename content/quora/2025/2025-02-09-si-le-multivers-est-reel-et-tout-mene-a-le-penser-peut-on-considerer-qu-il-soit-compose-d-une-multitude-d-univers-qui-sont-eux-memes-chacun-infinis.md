@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- theories-des-multivers
-- univers-infini
-- cosmologie
+- philosophie
 - astrophysique
-- l-univers
-- multivers
-- physique-theorique
-- philosophie-de-la-physique
+- univers
 coverImage: ./images/quora.png
 ---
 

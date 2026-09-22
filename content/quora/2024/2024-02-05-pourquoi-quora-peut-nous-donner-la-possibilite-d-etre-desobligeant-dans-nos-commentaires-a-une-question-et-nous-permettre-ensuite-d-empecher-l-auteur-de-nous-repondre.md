@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- internet
 - quora
+- comportement
+- contenu
 - critique
-- sites-internet-de-questions-reponses
-- moderation-de-contenu
-- communication-en-ligne
-- expression-libre
-- comportements-sur-internet
-- commentaire
-- questions-reponses
-- moderation-quora
 coverImage: ./images/quora.png
 ---
 

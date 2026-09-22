@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- physique-theorique
+- univers
 - cosmologie
-- l-univers
-- theories-des-multivers
-- univers-observable
-- origine-de-l-univers
-- multiverse
-- expansion-de-l-univers
-- enigmes-de-l-univers
+- theorie
+- physique-theorique
+- origines
 coverImage: ./images/quora.png
 ---
 

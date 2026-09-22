@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- science-et-technologie
-- avions
-- atterrissage
-- transport-aerien
-- pilotage-d-helicoptere
-- aerodynamique
+- sciences
+- technologies
 - aviation
-- aeronautique
-- helicopteres
+- avions
+- aerodynamique
 coverImage: ./images/quora.png
 ---
 

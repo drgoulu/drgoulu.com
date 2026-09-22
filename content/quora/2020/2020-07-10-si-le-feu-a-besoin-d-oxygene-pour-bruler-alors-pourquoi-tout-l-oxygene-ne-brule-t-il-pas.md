@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sciences
-- brulures-et-combustion
-- dioxygene
 - chimie
 - feu
-- les-reactions-chimiques
-- combustible
 - oxygene
 - combustion
-- reactions-chimiques
 coverImage: ./images/quora.png
 ---
 

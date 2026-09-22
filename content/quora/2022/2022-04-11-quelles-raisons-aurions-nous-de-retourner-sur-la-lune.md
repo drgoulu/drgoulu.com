@@ -8,14 +8,9 @@ categories:
 tags:
 - astronomie
 - recherche-scientifique
-- programme-spatial-americain
-- voyage-dans-l-espace
+- espace
 - exploration-spatiale
-- lune-astronomie
-- technologie-spatiale
 - science-spatiale
-- missions-spatiales
-- recherches-scientifiques
 coverImage: ./images/quora.png
 ---
 

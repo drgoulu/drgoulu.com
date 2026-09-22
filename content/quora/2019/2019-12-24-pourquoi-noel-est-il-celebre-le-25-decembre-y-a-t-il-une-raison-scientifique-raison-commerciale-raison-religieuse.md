@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
+- religion
 - culture
-- noel
-- histoire-de-la-religion
-- fetes-chretiennes
 - religion-catholique
 - culture-religieuse
-- foi-chretienne
-- celebrations-religieuses
-- culture-chretienne
-- fetes-religieuses
 coverImage: ./images/quora.png
 ---
 

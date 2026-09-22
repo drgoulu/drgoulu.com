@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- voyage-dans-le-temps
 - cosmologie
-- temps-relativite-restreinte
-- theorie-de-la-relativite
-- relativite-restreinte
+- theorie
 - physique-theorique
-- relativite-generale
-- relativite-physique
-- theorie-du-temps
+- relativite
 coverImage: ./images/quora.png
 ---
 

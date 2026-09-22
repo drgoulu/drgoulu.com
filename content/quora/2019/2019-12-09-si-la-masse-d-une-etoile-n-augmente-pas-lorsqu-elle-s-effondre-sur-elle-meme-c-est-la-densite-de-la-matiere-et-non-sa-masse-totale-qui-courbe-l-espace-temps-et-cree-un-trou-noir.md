@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
-- effondrement
-- etoiles-corps-celestes
 - astronomie
-- espace-temps
-- champ-gravitationnel
-- masse-physique
 - astrophysique
-- densite-physique
+- trous-noirs
+- etoiles-corps-celestes
 coverImage: ./images/quora.png
 ---
 

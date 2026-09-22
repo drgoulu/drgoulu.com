@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- question-philosophique
+- sciences
+- evolution
 - biologie
-- mains
-- doigts
-- genetique
+- vie
 - evolution-humaine
-- sciences-de-la-vie
-- anatomie-humaine
-- evolution-biologie
-- anatomie
 coverImage: ./images/quora.png
 ---
 

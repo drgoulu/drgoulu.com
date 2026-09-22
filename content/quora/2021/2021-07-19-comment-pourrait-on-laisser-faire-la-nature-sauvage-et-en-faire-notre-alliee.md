@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- l-environnement
-- ecologie
-- developpement-durable
+- environnement
 - nature
-- droit-de-la-conservation
-- interaction-homme-environnement
-- protection-de-l-environnement
-- environnement-et-societe
-- conservation-de-la-nature
-- ecologie-humaine
+- societe
+- droit
+- ecologie
 coverImage: ./images/quora.png
 ---
 

@@ -9,13 +9,8 @@ tags:
 - experience
 - cuisine
 - gout-sens
-- aliments-bizarres
 - nourriture
-- experiences-culinaires
-- nourriture-inhabituelle
 - gouts
-- nourriture-etrange
-- experiences-alimentaires
 coverImage: ./images/quora.png
 ---
 

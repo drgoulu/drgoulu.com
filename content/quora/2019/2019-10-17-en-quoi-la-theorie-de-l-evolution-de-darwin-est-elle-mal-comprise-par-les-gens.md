@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
+- evolution
 - biologie
-- malentendus
-- charles-darwin
+- theorie
 - comprehension
-- theorie-de-l-evolution
-- malentendus-sur-l-evolution
-- comprehension-de-la-science
-- darwin
-- biologie-de-l-evolution
 coverImage: ./images/quora.png
 ---
 

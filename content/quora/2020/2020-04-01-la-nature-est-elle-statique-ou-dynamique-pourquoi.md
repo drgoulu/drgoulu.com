@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sciences-de-la-nature
-- changement
-- evolution-processus
+- sciences
+- evolution
+- biologie
 - nature
-- statique
-- evolution-biologie
-- sciences-du-vivant
-- dynamique
-- changements
+- processus
 coverImage: ./images/quora.png
 ---
 

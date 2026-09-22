@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- psychologie
-- croyance
-- questions-d-opinion
-- religion
-- intelligence-humaine
-- sondages
 - philosophie
-- test-de-qi
-- atheisme
+- religion
+- psychologie
+- opinion
+- questions
 coverImage: ./images/quora.png
 ---
 

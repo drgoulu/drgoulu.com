@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- terre-planete
-- conditions-climatiques
+- terre
+- planetes
 - climatologie
-- habitabilite-planetaire
-- exoplanetes
-- sciences-de-la-terre
-- astrobiologie
-- planetes-habitables
 coverImage: ./images/quora.png
 ---
 

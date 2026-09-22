@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- opinion-publique
-- vaccins
-- maladies-infectieuses
-- polio
 - sante-publique
-- vaccin-contre-la-poliomyelite
-- sante-humaine
-- opinions-populaires
+- opinion-publique
+- maladies-infectieuses
+- vaccins
 - vaccination
-- les-maladies-infectieuses
 coverImage: ./images/quora.png
 ---
 

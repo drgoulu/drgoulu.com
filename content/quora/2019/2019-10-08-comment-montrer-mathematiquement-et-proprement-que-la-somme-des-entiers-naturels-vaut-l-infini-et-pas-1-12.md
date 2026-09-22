@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - mathematiques
-- serie-infinie
+- theorie
+- nombres
+- infini
 - nombres-naturels
-- demonstrations
-- theorie-des-nombres
-- nombre-entier
-- convergence-mathematiques
-- infini-mathematiques
-- series-et-sequences
-- demonstration-mathematiques
 coverImage: ./images/quora.png
 ---
 

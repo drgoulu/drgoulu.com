@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- recherche-scientifique
-- l-univers
-- terre-planete
-- sciences-de-la-vie
-- astrobiologie
-- vie-extraterrestre
-- sciences-de-la-nature
-- exoplanetes
-- origine-de-la-vie
+- sciences
+- univers
+- terre
+- planetes
+- vie
 coverImage: ./images/quora.png
 ---
 

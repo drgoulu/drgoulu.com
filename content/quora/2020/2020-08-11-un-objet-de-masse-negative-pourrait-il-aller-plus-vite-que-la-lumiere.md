@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- masse-negative
-- vitesse-de-la-lumiere
-- hypotheses-scientifiques
-- theorie-du-temps
-- relativite-physique
-- concepts-en-physique
+- theorie
 - physique-theorique
-- theories-physiques
+- relativite
+- temps
 coverImage: ./images/quora.png
 ---
 

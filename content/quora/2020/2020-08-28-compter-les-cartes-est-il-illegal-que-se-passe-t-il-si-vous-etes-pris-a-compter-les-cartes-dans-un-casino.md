@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - fraude
-- legislation-en-france
 - jeux-de-casino
-- risque
-- blackjack
-- compte-de-cartes-casino
-- lois-et-legislations
-- jeux-d-argent
-- jeu-de-casino
+- risques
+- jeux
+- argent
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- suisse
 - pays
 - richesse
-- facteurs-economiques
-- suisse
-- production-de-richesses
-- histoire-economique
+- production
 - pays-riches
-- facteurs
-- geographie-economique
 coverImage: ./images/quora.png
 ---
 

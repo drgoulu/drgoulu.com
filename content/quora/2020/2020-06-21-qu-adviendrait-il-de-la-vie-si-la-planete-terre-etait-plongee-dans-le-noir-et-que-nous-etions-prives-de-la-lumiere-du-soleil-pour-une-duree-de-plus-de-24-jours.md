@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- scenarios-hypothetiques
-- terre-planete
-- la-vie
-- sciences-de-la-nature
-- le-soleil
-- obscurite
-- lumiere-du-jour
-- science-de-la-terre
-- planete-terre
-- lumiere-du-soleil
+- sciences
+- terre
+- planetes
+- vie
+- nature
 coverImage: ./images/quora.png
 ---
 

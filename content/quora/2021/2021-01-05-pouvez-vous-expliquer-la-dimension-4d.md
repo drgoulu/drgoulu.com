@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - mathematiques
-- 4e-dimension
 - espace-temps
-- relativite-physique
+- relativite
 - dimensions
-- espace-dimension
-- la-quatrieme-dimension
-- quatrieme-dimension
-- dimension
 coverImage: ./images/qimg-8cfdfe233b327fbd572bdc60688371cb.jpg
 ---
 

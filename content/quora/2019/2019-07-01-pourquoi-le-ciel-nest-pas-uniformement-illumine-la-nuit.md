@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- ciel-nocturne
+- sciences
 - astronomie
-- sciences-de-la-nature
-- lumiere-physique
-- phenomenes-optiques
-- couleur-du-ciel
-- observation-des-astres
-- phenomenes-physiques
+- nature
+- lumiere
 coverImage: ./images/quora.png
 ---
 

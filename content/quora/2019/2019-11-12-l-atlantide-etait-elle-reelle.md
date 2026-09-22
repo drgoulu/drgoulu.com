@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- atlantide
-- legende
-- mythologie-mondiale
-- archeologie
-- civilisations-anciennes
-- mythe
 - histoire-humaine
-- mythique
-- mythologie
+- archeologie
+- mythe
+- legende
 coverImage: ./images/quora.png
 ---
 

@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- partitionnement-de-disque
 - cercles
 - probleme
-- geometrie-des-cercles
-- disques
-- geometrie-plane
 - geometrie
+- geometrie-plane
 coverImage: ./images/qimg-675ddb42a785295fcca4f5661fbca6e8.png
 ---
 

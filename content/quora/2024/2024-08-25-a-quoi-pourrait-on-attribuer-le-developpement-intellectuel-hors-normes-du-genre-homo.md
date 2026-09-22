@@ -6,14 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- comportement-animal
-- corbeaux
-- dauphins
 - evolution-humaine
 - especes
-- capacites-cognitives
+- comportement-animal
 - elephants
-- genre-humain
 - fonctions-cognitives
 coverImage: ./images/quora.png
 ---

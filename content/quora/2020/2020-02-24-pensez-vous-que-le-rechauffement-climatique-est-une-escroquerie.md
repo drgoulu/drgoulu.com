@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- environnement
 - changement-climatique
-- theories-du-complot
-- l-environnement
-- ecologie
-- climatologie
-- sciences-du-climat
 - rechauffement-climatique
-- crise-climatique
-- le-rechauffement-climatique
-- science-de-l-environnement
+- ecologie
 coverImage: ./images/quora.png
 ---
 

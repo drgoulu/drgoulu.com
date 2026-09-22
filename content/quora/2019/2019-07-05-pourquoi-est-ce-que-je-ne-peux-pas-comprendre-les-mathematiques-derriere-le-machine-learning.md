@@ -8,13 +8,9 @@ categories:
 tags:
 - mathematiques
 - intelligence-artificielle
-- comprehension
-- difficultes-d-apprentissage
-- modelisation
 - sciences-informatiques
 - algorithmes
-- algorithmes-d-apprentissage-automatique
-- modelisation-mathematique
+- comprehension
 coverImage: ./images/quora.png
 ---
 

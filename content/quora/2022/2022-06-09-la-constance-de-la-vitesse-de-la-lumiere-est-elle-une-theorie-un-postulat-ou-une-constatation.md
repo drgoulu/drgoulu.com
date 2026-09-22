@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- vitesse-de-la-lumiere
-- philosophie-des-sciences
+- philosophie
 - theorie
 - physique-theorique
-- science-physique
-- theorie-scientifique
-- physique-mathematique
-- la-physique
 coverImage: ./images/quora.png
 ---
 

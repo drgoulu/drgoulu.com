@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - informatique
-- apprentissage
-- facilite
-- courbe-d-apprentissage
-- python-langage-de-programmation
-- langages-de-programmation
-- science-de-l-informatique
-- l-informatique
-- programmation-en-python
-- language-de-programmation
+- programmation
+- langage
+- python
 coverImage: ./images/quora.png
 ---
 

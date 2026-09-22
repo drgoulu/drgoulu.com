@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- physique
 - astronomie
-- betelgeuse
-- etoiles-corps-celestes
-- temps-physique
-- distance
-- supernova
-- nebuleuse
 - astrophysique
-- lumiere-physique
-- distances
+- temps
+- lumiere
 coverImage: ./images/quora.png
 ---
 

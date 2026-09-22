@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - biologie
-- geographie
-- mammiferes-marins
-- faune
 - environnement
-- antarctique
+- geographie
+- faune
 - climatologie
-- faune-marine
-- mammiferes
 coverImage: ./images/quora.png
 ---
 

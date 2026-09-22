@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- planetes
+- espace
 - exploration-spatiale
-- mars-planete
-- programme-d-exploration-de-mars
-- colonisation-de-l-espace
-- conquete-spatiale
+- mars
 - missions-spatiales
-- voyage-spatial-vers-mars
-- colonisation-des-planete-mars
-- exploration-humaine-sur-mars
-- exploration-spatiale-de-la-nasa
 coverImage: ./images/quora.png
 ---
 

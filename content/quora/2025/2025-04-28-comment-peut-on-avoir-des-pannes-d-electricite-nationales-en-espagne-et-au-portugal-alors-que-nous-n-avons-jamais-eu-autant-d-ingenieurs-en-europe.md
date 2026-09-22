@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- l-europe
+- electricite
+- europe
+- production
+- energie-electrique
 - pannes-de-courant
-- espagne
-- portugal
-- secteur-energetique
-- crise-de-l-energie
-- production-d-electricite
-- reseau-energetique
-- l-energie-electrique
 coverImage: ./images/quora.png
 ---
 

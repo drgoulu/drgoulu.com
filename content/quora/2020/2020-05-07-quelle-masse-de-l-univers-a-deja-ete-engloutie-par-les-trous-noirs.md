@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- trous-noirs
-- l-univers
-- masse-physique
-- cosmologie
-- univers-observable
 - astrophysique
-- astronomy
-- trous-noirs-supermassifs
-- l-univers-astronomie
+- univers
+- cosmologie
+- trous-noirs
 coverImage: ./images/quora.png
 ---
 

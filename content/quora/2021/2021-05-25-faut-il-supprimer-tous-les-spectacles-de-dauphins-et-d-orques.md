@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- animaux
+- protection
+- representation
+- defense
 - animaux-marins
-- spectacles
-- captivite
-- orques
-- protection-des-animaux
-- souffrance-animale
-- spectacles-et-representations
-- defense-des-animaux
 coverImage: ./images/quora.png
 ---
 

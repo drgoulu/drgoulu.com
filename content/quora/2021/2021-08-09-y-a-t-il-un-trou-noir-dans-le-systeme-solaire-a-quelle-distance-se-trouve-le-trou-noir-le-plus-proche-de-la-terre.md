@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
-- espace
 - astronomie
-- terre
-- l-univers
-- distance
-- systeme-solaire
 - astrophysique
-- distances
+- univers
+- terre
 coverImage: ./images/quora.png
 ---
 

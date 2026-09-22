@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- le-soleil-astronomie
+- sciences
 - astronomie
-- mouvement
-- sciences-de-la-nature
-- systeme-solaire
-- cosmologie
 - astrophysique
-- activite-solaire
-- dynamique-du-systeme-solaire
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

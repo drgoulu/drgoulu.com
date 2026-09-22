@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- corps-humains
-- electromagnetisme
 - biologie
-- equilibre
-- atomes
-- force-physique
 - biologie-humaine
-- cellules-biologie
-- forces-electromagnetiques
+- electromagnetisme
+- atomes
 coverImage: ./images/qimg-620d8881e22afe88118408d9f7bf543b.png
 ---
 

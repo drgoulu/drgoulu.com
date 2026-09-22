@@ -8,13 +8,9 @@ categories:
 tags:
 - consommation
 - durabilite
-- industrie
 - mythe
+- industrie
 - reparation
-- obsolescence-programmee
-- consommation-de-masse
-- reparable
-- les-reparations
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- cosmos
-- l-antimatiere
-- symetrie
 - matiere
-- anti-particules
 - physique-quantique
-- physique-de-la-matiere
-- symetrie-en-physique
+- antimatiere
+- cosmos
 coverImage: ./images/quora.png
 ---
 

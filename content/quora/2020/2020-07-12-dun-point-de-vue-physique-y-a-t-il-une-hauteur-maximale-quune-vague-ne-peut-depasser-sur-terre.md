@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- geographie-marine
-- sciences-de-la-nature
-- hauteur
-- mecanique-des-vagues
-- phenomenes-naturels
-- vagues-physique
-- oceanographie-physique
+- sciences
+- nature
 - phenomenes-physiques
-- oceanographie
+- phenomenes-naturels
 coverImage: ./images/quora.png
 ---
 

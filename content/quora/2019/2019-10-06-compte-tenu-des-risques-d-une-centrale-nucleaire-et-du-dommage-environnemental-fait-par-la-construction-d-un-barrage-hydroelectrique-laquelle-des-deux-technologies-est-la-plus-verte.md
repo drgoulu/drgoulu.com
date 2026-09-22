@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- comparaisons
-- l-environnement
+- environnement
 - energie-nucleaire
+- comparaisons
 - risque-et-risques
-- technologie-durable
-- energie-verte
-- problemes-environnementaux
-- energie-hydroelectrique
-- impacts-environnementaux
+- impact-environnemental
 coverImage: ./images/quora.png
 ---
 

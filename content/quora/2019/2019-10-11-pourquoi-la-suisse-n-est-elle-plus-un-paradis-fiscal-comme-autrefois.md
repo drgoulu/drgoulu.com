@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- fiscalite
 - suisse
-- histoire-economique
+- fiscalite
 - pays-riches
-- changement-de-regime
-- paradis-fiscaux
-- systeme-fiscal
+- histoire-economique
 - politique-fiscale
-- fiscalite-internationale
 coverImage: ./images/quora.png
 ---
 

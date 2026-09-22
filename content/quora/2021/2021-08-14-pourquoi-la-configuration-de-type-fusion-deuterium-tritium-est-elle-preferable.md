@@ -8,12 +8,9 @@ categories:
 tags:
 - energie-nucleaire
 - configuration
-- deuterium-isotope
-- tritium
 - reacteurs-a-fusion
 - sciences-nucleaires
 - technologie-nucleaire
-- fusion-de-reacteur-nucleaire
 coverImage: ./images/quora.png
 ---
 

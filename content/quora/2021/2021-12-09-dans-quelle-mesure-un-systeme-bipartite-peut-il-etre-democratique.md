@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie-politique
-- democratie
-- systeme-de-gouvernement
-- analyse-politique
-- science-politique
-- sociologie-politique
-- theorie-politique
-- systeme-bipartite
-- democratie-liberale
+- philosophie
+- theorie
+- politique
+- systeme
+- sociologie
 coverImage: ./images/quora.png
 ---
 

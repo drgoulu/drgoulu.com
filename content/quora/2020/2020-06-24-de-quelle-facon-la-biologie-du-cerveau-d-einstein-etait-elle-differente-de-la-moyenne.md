@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- personne
+- sciences
 - albert-einstein-physicien
-- neuroscience
+- personne
 - intelligence-humaine
-- genie
-- structures-cerebrales
-- science-du-cerveau
-- anatomie-neuronale
-- neurosciences-medicales
-- neurosciences
+- cerveau
 coverImage: ./images/quora.png
 ---
 

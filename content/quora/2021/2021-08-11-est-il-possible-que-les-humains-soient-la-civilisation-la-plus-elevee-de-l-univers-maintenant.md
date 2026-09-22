@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- civilisations-extraterrestres
-- evolution-processus
-- l-univers
-- humanite
-- civilisation
-- intelligence-extra-terrestrielle
-- evolution-humaine
-- vie-extraterrestre
-- philosophie-des-sciences
+- evolution
+- univers
+- processus
 coverImage: ./images/quora.png
 ---
 

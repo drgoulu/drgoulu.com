@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- terrorisme
-- iran
-- histoire-des-religions
-- ideologie-politique
-- changement-de-regime
-- politique-de-l-iran
-- islam-politique
-- histoire-de-l-islam
+- histoire
+- politique
+- religion
+- islam
+- ideologies-politiques
 coverImage: ./images/quora.png
 ---
 

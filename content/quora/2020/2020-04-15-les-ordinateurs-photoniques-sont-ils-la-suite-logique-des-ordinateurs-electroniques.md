@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - informatique
-- nouvelles-technologies
-- ordinateurs-quantiques
 - technologies
+- nouvelles-technologies
 - ordinateurs
-- developpement-technologique
-- technologie-moderne
-- science-de-l-informatique
-- avancees-technologiques
-- l-informatique
 coverImage: ./images/quora.png
 ---
 

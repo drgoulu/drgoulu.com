@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- planetes
 - exploration-spatiale
-- nasa
-- orbites
-- mars-planete
 - science-spatiale
-- vaisseau-spatial
-- station-spatiale-internationale
-- ingenierie-et-technologie-spatiale
-- stations-spatiales
-- exploration-spatiale-de-la-nasa
+- ingenierie
+- technologie-spatiale
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- champ-gravitationnel
-- hauteur
-- acceleration-physique
-- gravite-de-la-terre
-- relativite
-- force-gravitationnelle
+- terre
 - physique-theorique
-- gravite
+- relativite
 coverImage: ./images/quora.png
 ---
 

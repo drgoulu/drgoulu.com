@@ -8,15 +8,10 @@ categories:
 - Comment
 tags:
 - physique
-- le-soleil
-- direction-trajectoire
-- exploration-spatiale
 - astronomie
 - systeme-solaire
-- sonde-spatiale
-- trajectoire
+- exploration-spatiale
 - science-spatiale
-- missions-spatiales
 coverImage: ./images/quora.png
 ---
 

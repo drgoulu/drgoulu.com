@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- philosophie
-- avancees-technologiques
 - sciences
-- creation
-- vie-biologique
-- l-ethique
+- philosophie
 - biologie
-- progres-scientifique
-- origine-de-la-vie
-- philosophie-des-sciences
+- vie
+- origines
 coverImage: ./images/quora.png
 ---
 

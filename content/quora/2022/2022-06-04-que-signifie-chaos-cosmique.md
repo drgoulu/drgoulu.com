@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- univers-observable
 - astronomie
-- definitions-des-mots
-- cosmique
-- l-univers
+- univers
 - cosmologie
-- definition
-- definitions
 coverImage: ./images/quora.png
 ---
 

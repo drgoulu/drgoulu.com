@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- science-et-technologie
-- ia
-- debats-de-societe
-- intelligence-artificielle
-- nouvelles-technologies
-- philosophie-de-l-esprit
-- sciences-cognitives
-- experts-en-la-matiere
-- intelligence-humaine
-- technologie-moderne
+- sciences
+- technologies
+- societe
+- matiere
+- debat
 coverImage: ./images/quora.png
 ---
 

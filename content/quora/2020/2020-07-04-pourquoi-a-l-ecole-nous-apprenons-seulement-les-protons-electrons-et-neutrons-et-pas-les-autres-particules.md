@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- education
 - physique
 - sciences
-- protons
-- electrons
+- education
 - enseignement
-- neutrons
-- la-physique-atomique
-- ecole
+- electrons
 coverImage: ./images/quora.png
 ---
 

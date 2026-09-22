@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - biologie
-- nouvelles-technologies
 - recherche-scientifique
-- science-et-technologie
+- technologies
 - innovation
-- bio-ingenierie
-- innovation-technologique
-- l-innovation
-- biotechnologie
 coverImage: ./images/quora.png
 ---
 

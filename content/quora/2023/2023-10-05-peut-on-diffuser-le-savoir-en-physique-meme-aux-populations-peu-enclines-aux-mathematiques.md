@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- education
 - physique
-- mathematiques
 - sciences
-- diffusion-des-innovations
-- accessibilite
-- le-savoir
-- enseignement
-- partage-des-connaissances
+- mathematiques
+- education
+- innovation
 coverImage: ./images/quora.png
 ---
 

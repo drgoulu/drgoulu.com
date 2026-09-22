@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - france
-- systemes-politiques
-- emmanuel-macron
-- politique-francaise
-- gouvernement
 - democratie
-- presidents-francais
-- presidence-de-la-republique-francaise
-- democratie-en-france
-- politique-en-france
+- gouvernement
+- politique-francaise
 coverImage: ./images/quora.png
 ---
 

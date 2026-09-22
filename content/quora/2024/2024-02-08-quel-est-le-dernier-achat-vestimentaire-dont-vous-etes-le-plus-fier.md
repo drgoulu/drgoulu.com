@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-sondage
-- mode
+- vie
+- questions
+- sondages
 - achat
-- fierte
-- question-de-sondage
-- vetement
-- style-personnel
-- mode-de-vie
-- questions-de-sondage-et-de-sondage-sur-quora
+- question-sondage
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - elections-presidentielles
-- mort-de-personnage
 - politique-americaine
-- presidents
-- candidats-a-la-presidentielle-americaine
-- presidentielles-americaines
-- droit-constitutionnel-des-etats-unis
-- droit-politique-americain
-- constitution-americaine
+- president
+- droit-constitutionnel
+- etats-unis
 coverImage: ./images/quora.png
 ---
 

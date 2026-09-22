@@ -8,13 +8,9 @@ categories:
 tags:
 - astronomie
 - taille
-- l-univers
-- habitabilite-planetaire
+- univers
 - etoiles-corps-celestes
-- echelle
 - systeme-solaire
-- l-univers-astronomie
-- systemes-solaires
 coverImage: ./images/quora.png
 ---
 

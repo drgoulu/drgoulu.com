@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- philosophique
+- terre
+- planetes
 - question-hypothetique
-- economie-mondiale
-- terre-planete
-- ressources
-- egalite
-- repartition-des-richesses
 - hypotheses
-- idee-philosophique
-- la-richesse
+- richesse
 coverImage: ./images/quora.png
 ---
 

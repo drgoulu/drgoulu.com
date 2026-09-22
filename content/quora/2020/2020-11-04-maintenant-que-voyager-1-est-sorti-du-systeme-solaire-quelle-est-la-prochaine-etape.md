@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- exploration-spatiale
+- espace
 - systeme-solaire
-- nasa
-- voyager-1-sonde-spatiale
-- voyage-dans-l-espace
+- exploration-spatiale
 - science-spatiale
-- voyage-interstellaire
-- sonde-spatiale
-- exploration-spatiale-de-la-nasa
-- voyager-2-sonde-spatiale
+- voyage
 coverImage: ./images/quora.png
 ---
 

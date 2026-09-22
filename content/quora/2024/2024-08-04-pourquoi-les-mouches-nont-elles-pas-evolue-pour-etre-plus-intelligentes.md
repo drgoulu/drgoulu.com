@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- biologie
-- comportement-animal
-- mouches
-- evolution-processus
-- sciences-de-la-nature
-- zoologie
-- biologie-animale
+- sciences
 - evolution
-- sciences-du-vivant
+- biologie
+- nature
+- processus
 coverImage: ./images/quora.png
 ---
 

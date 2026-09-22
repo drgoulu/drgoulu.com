@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- sable
+- sciences
+- terre
+- technologies
 - futur
 - ressources-naturelles
-- limitation-des-ressources
-- semi-conducteurs
-- sciences-de-la-terre
-- gestion-des-ressources-environnementales
-- rarete-des-ressources
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - astronomie
-- mouvement-circulaire
-- mecanique-celeste
-- voyage-spatial
-- vitesse-physique
+- astrophysique
+- vitesse
 - science-spatiale
-- mouvement-physique
-- mecanique-orbitale
-- astronomie-et-astrophysique
 coverImage: ./images/quora.png
 ---
 

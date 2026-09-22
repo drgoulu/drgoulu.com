@@ -8,14 +8,9 @@ categories:
 tags:
 - demographie
 - developpement
-- sciences-sociales
 - developpement-economique-et-social
 - croissance-demographique
-- developpement-humain
 - demographie-mondiale
-- sciences-sociales-et-comportementales
-- etudes-sociales
-- sciences-humaines-et-sociales
 coverImage: ./images/quora.png
 ---
 

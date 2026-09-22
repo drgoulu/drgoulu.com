@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- pays
+- securite
 - politique-internationale
+- pays
+- conseils
 - vote
-- onu
-- resolutions
-- opposition
-- assemblee-generale-des-nations-unies
-- votations
-- organisation-des-nations-unies
-- conseil-de-securite-des-nations-unies
 coverImage: ./images/quora.png
 ---
 

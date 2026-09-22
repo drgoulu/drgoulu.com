@@ -8,11 +8,9 @@ categories:
 tags:
 - politique
 - syndicat
-- le-royaume-uni
-- histoire-de-la-grande-bretagne
-- politique-du-royaume-uni
-- syndicat-politique
-- histoire-du-royaume-uni
+- royaume-uni
+- histoire
+- grande-bretagne
 coverImage: ./images/quora.png
 ---
 

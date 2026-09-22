@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - energie
+- economie
 - developpement-durable
-- population-mondiale
-- consommation-d-energie
-- croissance-demographique
-- energie-physique
-- production-d-energie
-- demographie-mondiale
-- energie-economie
+- consommation
 coverImage: ./images/qimg-c968e6be0aab531e3bc31fb26309b783.png
 ---
 

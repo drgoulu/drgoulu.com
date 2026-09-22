@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- tympan-membrane
-- ondes-sonores
-- conversion-de-l-energie
-- oreilles
-- photonique
-- acoustique
 - physiologie-humaine
-- biophysique
 - physiologie
+- conversion-de-l-energie
+- photonique
 coverImage: ./images/quora.png
 ---
 

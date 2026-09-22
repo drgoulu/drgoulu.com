@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- pandemie
-- sante-et-securite-publiques
-- predictions
-- maladies-infectieuses
+- sante
 - virus
-- evenements
-- scenarios-futurs
+- maladies-infectieuses
+- pandemie
 - epidemiologie
-- prevoyance
-- premonitions
 coverImage: ./images/quora.png
 ---
 

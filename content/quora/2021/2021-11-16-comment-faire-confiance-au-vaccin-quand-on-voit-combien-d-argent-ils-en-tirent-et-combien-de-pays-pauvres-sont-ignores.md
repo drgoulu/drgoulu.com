@@ -7,14 +7,11 @@ categories:
 - Comment
 - Combien
 tags:
-- argent
+- croyance
 - sante-publique
-- croyances
 - vaccins
+- argent
 - inegalites-sociales
-- pays-pauvres
-- industrie-pharmaceutique
-- la-confiance
 coverImage: ./images/qimg-b1ee0cff577ea880e2c95ce84ecec0ff.jpg
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- horloges
-- precision
-- mesure-du-temps
-- ecole-dhorlogerie
-- ingenierie-horlogere
+- sciences
+- technologies
+- temps
+- mesure
 - horlogerie
-- horlogeire
-- science-technologie
 coverImage: ./images/quora.png
 ---
 

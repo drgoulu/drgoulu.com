@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - psychologie
-- incomprehension
-- perception-sensorielle-et-spatiale
-- sens-des-mots
-- intelligence-spatiale
-- comprehension-des-autres
-- neurologie
-- psychologie-cognitive
-- neuropsychologie
 - comprehension
+- psychologie-cognitive
+- neurologie
+- sens
 coverImage: ./images/quora.png
 ---
 

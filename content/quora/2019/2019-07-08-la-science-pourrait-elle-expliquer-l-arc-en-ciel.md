@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- arc-en-ciel
 - sciences
+- chimie
+- phenomenes-physiques
 - optique
-- phenomenes-naturels
-- science-physique
-- phenomenes-optiques
-- physique-et-chimie
-- phenomene-physique
-- phenomene-naturel
 coverImage: ./images/qimg-53855529faa003c85e789fcfb1f34af1.png
 ---
 

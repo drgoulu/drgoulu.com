@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - philosophie
-- diversite-genetique
-- anthropologie-culturelle
-- histoire-humaine
-- race-et-ethnies
-- races-humaines
-- diversite
+- humanite
 - anthropologie
-- diversite-ethnique
-- histoire-de-l-humanite
+- histoire-humaine
 coverImage: ./images/quora.png
 ---
 

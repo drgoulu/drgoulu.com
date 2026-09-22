@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- albert-einstein-physicien
-- mecanique-quantique
-- theories-de-tout-physique
-- relativite-generale
-- histoire-de-la-physique
+- histoire
+- philosophie
 - physique-theorique
-- relativite-physique
-- philosophie-de-la-physique
-- physique-mathematique
+- relativite
 coverImage: ./images/quora.png
 ---
 

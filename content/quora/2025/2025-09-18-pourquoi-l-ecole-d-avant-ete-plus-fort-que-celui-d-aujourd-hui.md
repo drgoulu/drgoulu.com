@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
 - education
 - comparaisons
-- histoire-de-l-education
-- qualite-de-l-education
-- systeme-educatif
 - enseignement
-- pedagogie
-- ecole
-- systeme-scolaire
+- qualite
 coverImage: ./images/quora.png
 ---
 

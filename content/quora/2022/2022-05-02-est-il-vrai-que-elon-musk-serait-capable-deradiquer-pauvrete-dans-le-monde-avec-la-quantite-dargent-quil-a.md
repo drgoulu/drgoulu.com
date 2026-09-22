@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-de-sondage
-- elon-musk
-- personne-reelle
+- societe
+- questions
+- debat
 - richesse
-- economie-mondiale
-- pauvrete
-- debats-de-societe
-- philanthropie
-- questions-sociales
-- richesse-et-pauvrete
+- sondages
 coverImage: ./images/quora.png
 ---
 

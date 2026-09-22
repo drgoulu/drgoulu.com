@@ -8,11 +8,9 @@ categories:
 tags:
 - psychologie
 - roue
-- cyclisme-sur-route
 - avantages
 - famille
 - course-cycliste
-- cyclisme-de-competition
 coverImage: ./images/qimg-1c9c08d2e8ab55298d70f136099d18f1.jpg
 ---
 

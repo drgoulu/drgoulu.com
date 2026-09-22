@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire
-- marie-curie-scientifique
 - physique
-- personne
-- lettre
+- histoire
 - albert-einstein-physicien
 - histoire-humaine
-- l-histoire
-- post
+- personne
 coverImage: ./images/quora.png
 ---
 

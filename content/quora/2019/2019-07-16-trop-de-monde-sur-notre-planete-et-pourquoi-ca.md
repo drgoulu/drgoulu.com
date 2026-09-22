@@ -8,13 +8,9 @@ categories:
 tags:
 - demographie
 - planete-terre
-- problemes-societaux
-- surpopulation
-- les-problemes-mondiaux
-- croissance-demographique
 - demographie-mondiale
-- monde-planete-terre
-- problemes-humains
+- surpopulation
+- croissance-demographique
 coverImage: ./images/quora.png
 ---
 

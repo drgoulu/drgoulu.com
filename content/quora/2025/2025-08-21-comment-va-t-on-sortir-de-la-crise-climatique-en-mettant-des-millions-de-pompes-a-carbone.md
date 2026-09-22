@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- changement-climatique
-- ecologie
+- sciences
+- planetes
 - environnement
-- technologie-durable
-- solutions-au-rechauffement-de-la-planete
-- sciences-du-climat
+- changement-climatique
 - rechauffement-climatique
-- crise-climatique
-- conditions-climatiques
-- catastrophe-climatique
 coverImage: ./images/qimg-1f98477b8c1eb987a89dc295b2411dd4.jpg
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- pays
 - geographie
-- richesse
-- developpement-economique-et-social
-- australie
-- gestion-du-risque
+- risques
+- gestion
 - catastrophes-naturelles
-- developpement-economique
+- pays
 coverImage: ./images/qimg-1a9f58ac157781ae0199d4f2eef29e0b.jpg
 ---
 

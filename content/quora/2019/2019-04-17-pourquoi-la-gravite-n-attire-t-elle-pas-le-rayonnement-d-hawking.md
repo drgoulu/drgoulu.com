@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- trous-noirs
-- rayonnement-de-hawking
-- cosmologie
-- mecanique-quantique
-- gravitation
 - astrophysique
-- relativite
+- cosmologie
 - physique-theorique
-- astrophysique-theorique
+- relativite
 coverImage: ./images/quora.png
 ---
 

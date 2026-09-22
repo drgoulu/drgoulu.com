@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - informatique
-- ram
-- configuration-requise-materiel-informatique
-- ordinateurs-de-bureau
-- architecture-de-processeur
-- materiel-informatique
+- architecture
 - ordinateurs
 - processeurs
-- architecture-informatique
+- materiel-informatique
 coverImage: ./images/qimg-79bc25d706ba242644a0683594432f3d.jpg
 ---
 

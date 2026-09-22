@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- energie-physique
-- repartition
-- energie-renouvelable
-- consommation-d-energie
+- physique
+- energie
+- economie
 - energie-nucleaire
-- sources-d-energies-alternatives
-- energie-alternative
-- production-d-energie
-- sources-d-energie
-- energie-economie
+- energie-renouvelable
 coverImage: ./images/quora.png
 ---
 

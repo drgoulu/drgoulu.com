@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - physique
-- miroirs
-- photons
-- lumiere-physique
-- optique
-- reflexion-physique
-- temps-physique
-- quantum
+- temps
+- lumiere
 - physique-mathematique
-- photonics
+- optique
 coverImage: ./images/quora.png
 ---
 

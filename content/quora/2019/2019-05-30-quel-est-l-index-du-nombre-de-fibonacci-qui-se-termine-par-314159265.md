@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
+- theorie
 - nombres
-- suite-d-entiers
-- sequence-de-fibonacci
-- theorie-des-nombres
-- suites-mathematiques
-- nombres-naturels
 - calcul-mathematique
-- nombres-de-fibonacci
-- suite-de-fibonacci
+- nombres-naturels
 coverImage: ./images/quora.png
 ---
 

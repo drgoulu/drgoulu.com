@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- voyage-interstellaire
-- recherche-scientifique
-- entrainement-alcubierre
-- vitesse-supraluminique
-- technologie-quantique
 - physique-theorique
-- travail-scientifique
-- recherche-scientifique-et-innovation
-- recherches-scientifiques
+- recherche-scientifique
+- innovation
+- voyage-interstellaire
 coverImage: ./images/quora.png
 ---
 

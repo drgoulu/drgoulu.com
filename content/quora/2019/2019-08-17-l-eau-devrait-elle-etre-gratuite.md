@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- eau
 - droit
+- eau
 - ressources-naturelles
-- ethique-philosophie-morale
 - sciences-politiques
-- droit-public
-- gestion-des-resssources-naturelles
 coverImage: ./images/quora.png
 ---
 

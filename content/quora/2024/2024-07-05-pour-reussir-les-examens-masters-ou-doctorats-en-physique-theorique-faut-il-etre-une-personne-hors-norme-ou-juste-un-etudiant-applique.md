@@ -9,10 +9,7 @@ tags:
 - physique-theorique
 - etudiants
 - formation
-- masters
-- reussite-scolaire
 - universites
-- examens-et-tests
 - doctorat
 coverImage: ./images/quora.png
 ---

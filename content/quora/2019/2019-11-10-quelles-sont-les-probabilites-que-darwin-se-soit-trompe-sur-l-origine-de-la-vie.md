@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie-des-sciences
-- evolution-processus
-- charles-darwin
-- probabilite-statistiques
-- sciences-de-la-vie
-- darwinisme
+- sciences
+- philosophie
 - evolution
-- theorie-de-l-evolution
-- origine-de-la-vie
-- biologie-de-l-evolution
+- biologie
+- theorie
 coverImage: ./images/quora.png
 ---
 

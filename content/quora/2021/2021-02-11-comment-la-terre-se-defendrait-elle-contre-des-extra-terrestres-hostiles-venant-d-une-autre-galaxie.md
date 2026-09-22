@@ -9,12 +9,8 @@ tags:
 - science-fiction-genre
 - scenarios-hypothetiques
 - extraterrestres
-- defense-planetaire
 - science-fiction
-- la-vie-extraterrestre
-- science-fiction-militaire-genre
-- les-extraterrestres
-- scenarios-de-guerre-hypothetique
+- vie-extraterrestre
 coverImage: ./images/quora.png
 ---
 

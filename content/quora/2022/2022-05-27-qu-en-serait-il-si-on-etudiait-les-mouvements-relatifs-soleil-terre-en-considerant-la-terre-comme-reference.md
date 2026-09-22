@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- le-soleil
-- terre-planete
 - astronomie
-- referentiel
+- terre
+- planetes
 - systeme-solaire
-- mouvement-physique
-- reference
-- planete-terre
-- le-systeme-solaire
 coverImage: ./images/quora.png
 ---
 

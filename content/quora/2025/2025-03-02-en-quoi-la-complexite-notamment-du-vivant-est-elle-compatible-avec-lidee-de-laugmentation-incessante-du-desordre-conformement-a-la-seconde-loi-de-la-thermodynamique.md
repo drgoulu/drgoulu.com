@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- desordre-chaos
-- theorie-de-la-complexite
-- deuxieme-loi-de-la-thermodynamique
-- vie-biologique
-- sciences-de-la-nature
-- entropie-physique
+- sciences
+- theorie
+- nature
 - thermodynamique
-- complexite
-- sciences-du-vivant
 coverImage: ./images/quora.png
 ---
 

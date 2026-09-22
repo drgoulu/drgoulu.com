@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- expansion-de-l-univers
 - astronomie
-- elements-chimiques
-- cosmologie
 - astrophysique
-- age-de-l-univers
-- physique-theorique
-- origine-de-l-univers
-- creation-de-l-univers
+- univers
+- cosmologie
 coverImage: ./images/qimg-34858de202464edd17c15c56f859437a.jpg
 ---
 

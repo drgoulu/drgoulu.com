@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- evolution
 - biologie
+- processus
 - animaux
-- zebre
-- evolution-processus
-- rayures
 - faune
-- zoologie
-- faune-africaine
-- evolution-animale
 coverImage: ./images/quora.png
 ---
 

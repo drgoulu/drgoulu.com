@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- virus
 - biologie
-- virologie
-- sante-des-hommes
-- micro-biologie
+- sante
 - biologie-humaine
-- sante-humaine
-- immunologie
+- virus
+- homme
 coverImage: ./images/quora.png
 ---
 

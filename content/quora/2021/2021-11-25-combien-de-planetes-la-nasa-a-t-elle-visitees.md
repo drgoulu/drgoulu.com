@@ -7,13 +7,10 @@ categories:
 - Combien
 tags:
 - astronomie
-- exploration-spatiale
-- nasa
 - systeme-solaire
-- sondes-spatiales
+- exploration-spatiale
 - science-spatiale
 - missions-spatiales
-- exploration-spatiale-de-la-nasa
 coverImage: ./images/quora.png
 ---
 

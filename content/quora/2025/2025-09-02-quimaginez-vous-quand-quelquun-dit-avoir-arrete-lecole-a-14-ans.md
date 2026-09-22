@@ -7,14 +7,9 @@ categories:
 - Comment
 tags:
 - education
-- jugements
+- jugement
 - adulte
-- abandonner-ses-etudes
-- parcours-personnel
-- jeunesse
 - ecole
-- le-jugement
-- parcours-de-vie
 - age-adulte
 coverImage: ./images/quora.png
 ---

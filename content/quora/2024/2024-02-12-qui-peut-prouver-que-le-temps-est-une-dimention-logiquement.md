@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- preuve
-- temps-physique
-- sciences
 - physique
-- le-temps
-- logique-philosophie
-- dimensions-physique
-- philosophie-des-sciences
-- logique
+- sciences
+- philosophie
+- temps
+- dimensions
 coverImage: ./images/quora.png
 ---
 

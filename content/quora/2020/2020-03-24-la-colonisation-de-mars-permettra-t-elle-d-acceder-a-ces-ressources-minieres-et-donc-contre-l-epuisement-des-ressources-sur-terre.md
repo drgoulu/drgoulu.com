@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-environnement
+- terre
+- planetes
+- environnement
+- espace
 - exploration-spatiale
-- terre-planete
-- developpement-durable
-- ressources-naturelles
-- industrie-miniere
-- colonisation-de-l-espace
-- gestion-des-resssources-naturelles
-- mars-planete
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- covid-19-2019-2020
 - biologie
-- sante-et-securite-publiques
-- epidemiologie
+- sante
+- covid-19-2019-2020
 - virus
-- crise-sanitaire
-- origine-de-covid-19
-- pandemie
-- virologie
 coverImage: ./images/qimg-5084d8ba98a17389f5559185134a9605.jpg
 ---
 

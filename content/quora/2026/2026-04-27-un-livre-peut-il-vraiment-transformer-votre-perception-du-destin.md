@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- destin
-- epanouissement-personnel
 - livres
-- la-perception
-- nouvelles-perspectives
+- perception
 - litterature
-- perception-de-la-vie
-- amelioration-personnelle
-- croissance-personnelle
+- vie
 coverImage: ./images/quora.png
 ---
 

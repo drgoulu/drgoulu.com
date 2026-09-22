@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
+- sciences
+- environnement
+- technologies
 - changement-climatique
-- l-environnement
-- energie-renouvelable
-- radiation-solaire
-- sources-d-energie
-- energie-alternative
 - rechauffement-climatique
-- conversion-de-l-energie
-- energie-solaire
 coverImage: ./images/quora.png
 ---
 

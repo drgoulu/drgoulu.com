@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-hypothetique
-- science-fiction-genre
-- le-soleil
-- l-univers
-- destruction
+- astronomie
+- univers
+- soleil
 - etoiles-corps-celestes
-- extraterrestres
-- univers-observable
-- hypotheses
-- le-soleil-astronomie
+- question-hypothetique
 coverImage: ./images/quora.png
 ---
 

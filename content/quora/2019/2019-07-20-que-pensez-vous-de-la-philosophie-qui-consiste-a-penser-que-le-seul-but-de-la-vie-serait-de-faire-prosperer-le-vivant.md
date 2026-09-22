@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- transhumanisme
-- sens-de-la-vie
-- prosperite
-- ecologie
 - biologie
-- philosophie-ethique
-- humanisme
-- philosophie-et-science
+- vie
+- ecologie
 coverImage: ./images/quora.png
 ---
 

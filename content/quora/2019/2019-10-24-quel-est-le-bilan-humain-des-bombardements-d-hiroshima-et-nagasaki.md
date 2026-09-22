@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - histoire-militaire
-- victimes
-- la-seconde-guerre-mondiale
-- nagasaki-japon
-- bombardements
+- seconde-guerre-mondiale
+- japon
 - guerre-nucleaire
-- guerre-du-pacifique-seconde-guerre-mondiale
-- histoire-du-japon
-- hiroshima-japon
 coverImage: ./images/quora.png
 ---
 

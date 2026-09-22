@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- contenu-adulte
-- betelgeuse
-- etoiles-corps-celestes
-- supernova
-- nebuleuse
-- science-spatiale
 - astrophysique
+- science-spatiale
 - galaxies
-- etoiles
+- etoiles-corps-celestes
 coverImage: ./images/quora.png
 ---
 

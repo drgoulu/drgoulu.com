@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- le-soleil
-- predictions
-- terre-planete
-- fin-du-monde
-- systeme-solaire
-- demarche-scientifique
-- evolution-stellaire
-- science-spatiale
 - astrophysique
+- terre
+- planetes
+- systeme-solaire
 coverImage: ./images/qimg-b243c16ec1a8772869ac79913f497527.jpg
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - biologie
-- porc
-- primates
-- metabolisme
-- physiologie-humaine
 - evolution-humaine
-- anatomie-comparee
-- homo-sapiens
 - biologie-animale
-- physiologie
+- primates
+- homo-sapiens
 coverImage: ./images/quora.png
 ---
 

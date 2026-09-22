@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- entrepreneuriat
-- la-confiance
-- droit-sur-la-propriete-intellectuelle
-- validation
-- demarrage
-- idees-de-startup
+- droit
 - propriete-intellectuelle
-- vol-de-propriete-intellectuelle
-- protection-de-la-proprite-intellectuelle
-- entrepreneuriat-technologique
+- entrepreneuriat
+- vol
+- confiance
 coverImage: ./images/quora.png
 ---
 

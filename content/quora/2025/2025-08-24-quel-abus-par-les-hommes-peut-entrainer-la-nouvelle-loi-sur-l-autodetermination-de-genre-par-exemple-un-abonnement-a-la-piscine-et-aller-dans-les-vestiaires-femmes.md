@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - societe
-- abus-de-droit
-- vestiaires
-- egalite-des-sexes
-- personnes-transgenres
-- droit-a-l-autodetermination
-- questions-de-genre
-- droits-lgbtqi
-- discrimination-sexuelle
-- identite-de-genre
+- egalite
+- questions
+- genre
+- identite
 coverImage: ./images/quora.png
 ---
 

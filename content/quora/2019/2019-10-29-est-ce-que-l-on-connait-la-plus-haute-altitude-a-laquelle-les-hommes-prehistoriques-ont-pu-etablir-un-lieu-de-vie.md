@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- habitat
-- archeologie-prehistorique
-- altitude
-- lieu-de-vie
-- histoire-de-l-humanite
-- humains-prehistoriques
-- prehistoire
+- humanite
 - histoire-humaine
 - archeologie
+- altitude
 coverImage: ./images/quora.png
 ---
 

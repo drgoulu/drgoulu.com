@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- temps
 - comportement-humain
-- retards
-- attente
-- relations-humaines
+- gestion
 - confiance
-- gestion-du-temps
-- la-vie-quotidienne
-- communication-interpersonnelle
-- patience
-- activites-quotidiennes
+- relations-humaines
 coverImage: ./images/quora.png
 ---
 

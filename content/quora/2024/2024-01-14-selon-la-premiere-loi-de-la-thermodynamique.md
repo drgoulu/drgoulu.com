@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- chaleur
-- premiere-loi-de-la-thermodynamique
-- conversion-de-l-energie
-- entropie-thermodynamique
-- equilibre-thermodynamique
+- energie
+- loi
+- production
 - thermodynamique
-- production-d-energie
-- transfert-d-energie
-- lois-de-la-thermodynamique
 coverImage: ./images/quora.png
 ---
 

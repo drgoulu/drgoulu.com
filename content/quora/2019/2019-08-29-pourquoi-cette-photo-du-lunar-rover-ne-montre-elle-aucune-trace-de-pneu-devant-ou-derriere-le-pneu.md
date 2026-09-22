@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - exploration-spatiale
-- photographies
-- vehicules
-- le-programme-apollo
-- anomalies-lunaires
 - technologie-spatiale
-- exploration-de-la-lune
-- missions-apollo
+- lune
+- exploration
+- programme-apollo
 coverImage: ./images/qimg-c207e78ab6de6d3caca0d3c3d4ffc316.jpg
 ---
 

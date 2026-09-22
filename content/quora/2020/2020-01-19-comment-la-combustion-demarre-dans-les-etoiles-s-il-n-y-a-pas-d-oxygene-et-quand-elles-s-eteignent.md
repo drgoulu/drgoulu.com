@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- brulures-et-combustion
-- etoiles-corps-celestes
-- oxygene
-- evolution-stellaire
 - astrophysique
-- combustion
+- etoiles-corps-celestes
 - etoiles
-- physique-stellaire
+- evolution-stellaire
 coverImage: ./images/quora.png
 ---
 

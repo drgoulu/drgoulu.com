@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-vie
+- sciences
+- vie
 - virus
-- definition
-- microbiologie
 - virologie
-- infections-virales
-- organismes-vivants
-- vie-biologique
-- notion-de-vie
-- micro-organismes
+- definition
 coverImage: ./images/quora.png
 ---
 

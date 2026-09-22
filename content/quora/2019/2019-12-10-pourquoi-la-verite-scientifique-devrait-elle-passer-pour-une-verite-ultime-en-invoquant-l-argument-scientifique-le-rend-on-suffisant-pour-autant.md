@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- philosophie-des-sciences
-- connaissances
-- verite
+- sciences
+- philosophie
 - epistemologie
-- arguments-et-argumentation
-- raisonnement
-- la-methode-scientifique
-- honnetete-intellectuelle
-- philosophie-et-science
-- verite-ultime
+- connaissances
+- methode-scientifique
 coverImage: ./images/quora.png
 ---
 

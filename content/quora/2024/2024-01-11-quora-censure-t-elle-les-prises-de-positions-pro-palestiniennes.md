@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
+- opinion
 - quora
 - conflit-israelo-palestinien
-- plateformes-en-ligne
-- liberte-d-expression
 - palestine
-- positions-politiques
-- censure
-- plateformes-de-medias-sociaux
-- censure-sur-quora
-- opinions-politiques
 coverImage: ./images/quora.png
 ---
 

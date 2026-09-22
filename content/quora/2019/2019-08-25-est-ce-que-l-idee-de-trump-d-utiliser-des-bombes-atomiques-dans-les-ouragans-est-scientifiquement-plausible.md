@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
+- politique
+- etats-unis
 - theories-du-complot
-- politique-des-etats-unis-d-amerique
-- meteorologie
-- ouragans
-- armes-nucleaires
-- phenomene-meteorologique
-- theories-du-complot-specifiques
-- politique-americaine
+- ameriques
 coverImage: ./images/quora.png
 ---
 

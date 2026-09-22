@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- question-hypothetique
-- marees
-- lune-satellite-naturel
-- sciences-de-la-nature
-- scenario
-- terre-planete
-- force-gravitationnelle
-- vie-sur-terre
-- hypotheses-scientifiques
+- terre
+- planetes
+- vie
 coverImage: ./images/quora.png
 ---
 

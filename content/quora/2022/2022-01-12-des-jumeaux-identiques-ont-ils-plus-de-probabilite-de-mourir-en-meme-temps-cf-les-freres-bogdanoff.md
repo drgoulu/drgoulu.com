@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- contenu-adulte
-- genetique
-- jumeaux
 - statistiques
-- igor-et-grichka-bogdanoff
-- mort-et-mourir
-- mortalite
+- genetique
 - probabilite-statistiques
+- mortalite
+- contenu-adulte
 coverImage: ./images/quora.png
 ---
 

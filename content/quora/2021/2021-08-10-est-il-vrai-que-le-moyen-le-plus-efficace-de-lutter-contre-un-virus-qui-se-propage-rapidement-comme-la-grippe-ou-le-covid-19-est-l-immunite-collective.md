@@ -8,14 +8,9 @@ categories:
 tags:
 - sante-publique
 - covid-19-2019-2020
-- vaccins
-- grippe
-- immunite-biologie
-- maladies-infectieuses
 - virus
-- vaccination
-- epidemies
-- immunite-des-troupeaux
+- maladies-infectieuses
+- vaccins
 coverImage: ./images/quora.png
 ---
 

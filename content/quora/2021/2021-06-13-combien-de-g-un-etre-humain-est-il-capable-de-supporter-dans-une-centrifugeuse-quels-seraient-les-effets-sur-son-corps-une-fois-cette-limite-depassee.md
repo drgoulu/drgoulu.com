@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- sante
 - medecine
-- force-centrifuge
 - corps-humains
-- physics
-- effets-sur-la-sante
-- reaction-physiologique
-- sciences-technologies
+- effet
 - physiologie-humaine
-- centrifugeuse
 coverImage: ./images/qimg-f10596bc06af51eea44137a5cdd9c26b.jpg
 ---
 

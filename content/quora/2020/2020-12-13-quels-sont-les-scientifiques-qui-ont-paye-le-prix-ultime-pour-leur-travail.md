@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- personnalites
+- physique
+- sciences
+- histoire
+- biologie
 - recherche-scientifique
-- sacrifice
-- histoire-de-la-physique
-- scientifiques
-- histoire-des-sciences
-- histoire-de-la-medecine
-- histoire-de-la-biologie
-- histoire-de-la-science
 coverImage: ./images/quora.png
 ---
 

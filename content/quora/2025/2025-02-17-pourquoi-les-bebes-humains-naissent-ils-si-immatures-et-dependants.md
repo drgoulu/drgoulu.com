@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- evolution
 - biologie
-- developpement
-- bebes
-- mammiferes
-- grossesse
-- evolution-processus
-- descendance
-- biologie-humaine
+- processus
 - evolution-humaine
-- naissance
+- biologie-humaine
 coverImage: ./images/quora.png
 ---
 

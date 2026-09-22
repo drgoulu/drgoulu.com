@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- especes-envahissantes
-- l-environnement
-- anthropologie-societe
-- etre-humain
-- ecologie-politique
-- l-ethique
+- politique
+- environnement
 - ecologie
 - anthropologie
-- especes-invasives
 coverImage: ./images/quora.png
 ---
 

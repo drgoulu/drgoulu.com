@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- intelligence-artificielle
 - recherche-scientifique
-- exemples
-- etudes
-- methodologie
-- reconnaissance-des-formes
-- methodes-de-recherche
 - recherche
-- recherches-web
+- intelligence-artificielle
+- methodes
+- etudes
 coverImage: ./images/quora.png
 ---
 

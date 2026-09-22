@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- chaleur
-- conversion-de-l-energie
+- energie
 - electricite
-- thermodynamique
-- energie-physique
-- production-d-energie
-- transfert-d-energie
+- production
 coverImage: ./images/quora.png
 ---
 

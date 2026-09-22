@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- changement-climatique
+- sciences
 - astronomie
-- terre-planete
-- vitesse-de-rotation
-- science-de-la-terre
-- rotation-planetes
-- rotation-de-la-terre
-- le-changement-climatique
+- terre
+- planetes
 coverImage: ./images/qimg-0ee6f422582f68b537a8adcdbc6f0f2c.jpg
 ---
 

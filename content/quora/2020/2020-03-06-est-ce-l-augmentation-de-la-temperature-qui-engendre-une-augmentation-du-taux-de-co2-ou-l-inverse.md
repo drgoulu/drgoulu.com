@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - changement-climatique
-- effet-de-serre
-- temperatures
-- climatologie
-- co2-atmospherique
-- gaz-a-effet-de-serre
-- sciences-du-climat
 - rechauffement-climatique
-- le-rechauffement-climatique
+- climatologie
+- temperatures
 coverImage: ./images/quora.png
 ---
 

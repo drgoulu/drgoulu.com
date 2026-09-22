@@ -8,14 +8,9 @@ categories:
 tags:
 - alimentation
 - cuisine
-- saumon
 - poissons
-- recettes-de-cuisine
-- alimentation-et-nutrition
-- cooking
-- cuisine-gastronomique
-- conseils-de-cuisine
-- recettes-culinaires
+- nutrition
+- conseils
 coverImage: ./images/quora.png
 ---
 

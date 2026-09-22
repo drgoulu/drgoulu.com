@@ -6,14 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
+- france
+- droit
+- consommateur
 - juridique
-- l-obsolescence-programmee
-- sanctions-loi
-- droit-penal
-- droit-francais
-- droits-des-consommateurs
-- juridique-en-france
-- droit-penal-francais
 - obsolescence-programmee
 coverImage: ./images/quora.png
 ---

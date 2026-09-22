@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- methodes-de-recherche
+- histoire
+- biologie
+- recherche
 - paleontologie
-- xixe-siecle
-- forets
-- deserts-geographie-physique
-- histoire-de-la-biologie
-- fossiles
-- recherche-historique
-- methodes-d-etudes
-- paleontologues
+- methodes
 coverImage: ./images/quora.png
 ---
 

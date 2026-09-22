@@ -8,12 +8,9 @@ categories:
 tags:
 - biologie
 - animaux
-- adaptation
-- les-sciences-naturelles
-- anatomie-animale
 - biologie-animale
-- sciences-du-vivant
-- physiologie-animale
+- adaptation
+- anatomie-animale
 coverImage: ./images/quora.png
 ---
 

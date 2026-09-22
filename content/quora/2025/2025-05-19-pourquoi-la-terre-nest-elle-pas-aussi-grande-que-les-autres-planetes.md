@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - astronomie
-- sciences-de-la-nature
-- terre-planete
-- systeme-solaire
-- cosmologie
 - astrophysique
-- planetes-du-systeme-solaire
-- planetes
-- le-systeme-solaire
-- planetes-astronomie
+- cosmologie
+- terre
 coverImage: ./images/qimg-25041848686d03676d6e4807cff256f8.png
 ---
 

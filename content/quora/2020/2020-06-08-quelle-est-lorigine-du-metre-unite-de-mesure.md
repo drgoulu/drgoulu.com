@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- histoire-du-calcul
-- conversions-d-unites
-- systeme-metrique
-- unites-de-longueur
+- histoire
+- mathematiques
 - systeme
-- metrologie
-- histoire-des-mathematiques
-- unites-de-mesure
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- experience
-- recherche-scientifique
 - astronomie
-- matiere-noire
-- cosmologie
-- astrophysiciens
 - astrophysique
-- decouvertes-scientifiques
-- etude-scientifique
+- cosmologie
+- recherche-scientifique
 coverImage: ./images/quora.png
 ---
 

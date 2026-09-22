@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- psychologie-humaine
-- marketing
-- besoin
-- creation-de-projet
-- strategie-d-entreprise
-- comportement-du-consommateur
-- necessite
-- strategie-marketing
-- creation-de-produits
-- psychologie-du-consommateur
+- psychologie
+- creation
+- entreprises
+- comportement
+- consommateur
 coverImage: ./images/qimg-bbe7357db13696e4ee3ac2995fce22ee.jpg
 ---
 

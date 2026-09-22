@@ -8,14 +8,9 @@ categories:
 tags:
 - democratie
 - suisse
-- resident
-- engagement-citoyen
-- referendums
-- politique-de-la-suisse
-- droit-de-vote
-- democratie-directe
-- democratie-suisse
-- democratie-en-suisse
+- politique
+- droit
+- vote
 coverImage: ./images/quora.png
 ---
 

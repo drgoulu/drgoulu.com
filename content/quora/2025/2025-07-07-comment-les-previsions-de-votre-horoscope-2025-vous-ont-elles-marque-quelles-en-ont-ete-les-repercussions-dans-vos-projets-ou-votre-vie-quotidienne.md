@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- vie
+- questions
+- sondages
 - experiences-personnelles
-- question-de-sondage
-- '2025'
-- horoscopes-astrologie
-- la-vie-quotidienne
-- projets
-- interpretations-d-horoscope
-- predictions-astrologiques
-- projets-de-vie
+- projet
 coverImage: ./images/quora.png
 ---
 

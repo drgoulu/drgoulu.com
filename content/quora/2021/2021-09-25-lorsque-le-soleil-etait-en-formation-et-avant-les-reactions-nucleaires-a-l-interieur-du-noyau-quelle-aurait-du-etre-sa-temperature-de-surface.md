@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- le-soleil
-- formation
-- temperatures
-- etoiles-corps-celestes
-- reactions-nucleaires
-- evolution-stellaire
 - astrophysique
-- physique-stellaire
-- astrophysique-theorique
+- soleil
+- etoiles-corps-celestes
+- temperatures
 coverImage: ./images/qimg-e308e6d6c266edb4d6606364f6d87c31.png
 ---
 

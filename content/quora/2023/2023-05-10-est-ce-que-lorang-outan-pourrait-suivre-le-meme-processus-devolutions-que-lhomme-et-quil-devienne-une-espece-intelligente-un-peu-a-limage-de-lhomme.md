@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
+- processus
 - humanite
-- evolution-processus
-- anthropologie
-- primates
-- intelligence-humaine
-- especes
-- orangs-outans
 - evolution-humaine
-- espece-humaine
+- especes
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - relations-humaines
 - religion
-- mariage
 - moralite
-- theologie-islamique
-- amitie-homme-femme
-- croyances-musulmanes
 - islam
-- relations-hommes-femmes
-- philosophie-de-l-islam
+- philosophie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- science-et-technologie
-- histoire-de-l-avaviation
-- helicopteres
-- invention
+- sciences
+- histoire
 - technologies
-- conception-d-aeronefs
-- invention-et-inventions
-- l-invention
-- technologie-et-innovation
-- histoire-de-l-aviation
+- invention
+- innovation
 coverImage: ./images/quora.png
 ---
 

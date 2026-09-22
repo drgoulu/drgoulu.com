@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- innovation
-- machines-a-mouvement-perpetuel
-- decouvertes
-- mouvement
+- sciences
 - energie
-- invention-et-inventions
-- recherches-scientifiques
-- science-physique
+- recherche-scientifique
+- mouvement
 coverImage: ./images/quora.png
 ---
 

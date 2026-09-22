@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- opinion-publique
+- droit
 - relations-internationales
+- opinion-publique
 - israel
-- massacres
-- hypocrisie
-- droits-de-l-homme
-- conflit-israelo-palestinien
-- palestine
-- communaute-internationale
+- homme
 coverImage: ./images/quora.png
 ---
 

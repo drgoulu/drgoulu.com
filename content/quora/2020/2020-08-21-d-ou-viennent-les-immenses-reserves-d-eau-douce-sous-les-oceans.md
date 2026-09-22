@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- geologie
-- eau-douce
-- sciences-de-l-environnement
-- geographie-physique
-- ressources-en-eau
-- les-oceans
-- oceanographie
-- hydrologie
-- sciences-de-la-terre
-- hydrographie
+- physique
+- sciences
+- terre
+- environnement
+- geographie
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- la-nature
-- precision
-- complexite
-- creation
-- science-et-religion
 - nature
-- philosophie-des-sciences
-- science-nature
+- religion
+- creation
 coverImage: ./images/qimg-14ef1416c8e50e4232396bc4ff078714.jpg
 ---
 

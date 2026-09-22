@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- industrie-aerospatiale
+- sciences
 - espace
-- carburant-a-l-hydrogene
-- moteurs-fusee
 - science-spatiale
-- ingenierie-aeronautique
-- science-des-fusees
-- ingenierie-et-technologie-spatiale
-- technologie-spatiale
+- ingenierie
 coverImage: ./images/quora.png
 ---
 

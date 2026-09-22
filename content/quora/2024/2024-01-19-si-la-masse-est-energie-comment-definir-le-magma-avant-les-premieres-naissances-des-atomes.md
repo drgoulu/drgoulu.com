@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- magma-terrestre
-- origine-de-l-univers
+- univers
 - cosmologie
-- les-atomes
-- energie-physique
-- masse-physique
-- cosmologie-de-l-univers-primordial
-- cosmologie-du-big-bang
+- energie
+- origines
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- juridique
+- droit
 - invention
-- idees
-- brevets
 - propriete-intellectuelle
-- procedure-administrative
-- droit-des-brevets
-- juridictions-francaises
-- droit-de-propriete
-- protection-de-la-proprite-intellectuelle
+- brevets
+- proprietes
 coverImage: ./images/quora.png
 ---
 

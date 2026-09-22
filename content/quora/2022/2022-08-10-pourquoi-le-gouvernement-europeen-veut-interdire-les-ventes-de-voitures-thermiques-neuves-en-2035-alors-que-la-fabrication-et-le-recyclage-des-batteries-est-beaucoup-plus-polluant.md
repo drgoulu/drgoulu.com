@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- l-environnement
-- voitures-electriques
-- interdiction
-- fabrication
-- gouvernements-europeens
-- recyclage
-- batteries
+- environnement
 - pollution
-- moteurs-thermiques
-- politiques-environnementales
+- fabrication
+- recyclage
+- voitures-electriques
 coverImage: ./images/quora.png
 ---
 

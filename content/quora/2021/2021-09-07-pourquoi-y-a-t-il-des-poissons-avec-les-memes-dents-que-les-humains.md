@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- evolution
 - biologie
-- dents
-- comparaison
-- poissons
-- adaptation
-- evolution-biologie
-- anatomie-animale
+- comparaisons
 - zoologie
-- anatomie-comparee
-- anatomie
+- adaptation
 coverImage: ./images/qimg-e83cf422ec80727d76274e4d6443de1a.jpg
 ---
 

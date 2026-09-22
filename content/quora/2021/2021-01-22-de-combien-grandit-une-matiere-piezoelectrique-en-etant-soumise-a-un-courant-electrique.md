@@ -7,14 +7,10 @@ categories:
 - Combien
 tags:
 - physique
-- piezoelectronique
-- changement-de-forme
-- le-courant-electrique
+- sciences
 - materiaux
-- science-des-materiaux-et-ingenierie
-- electricite
-- science-de-la-matiere
-- physique-des-materiaux
+- ingenierie
+- matiere
 coverImage: ./images/qimg-c4a5e2a18b460089bd878fc059c430fa.jpg
 ---
 

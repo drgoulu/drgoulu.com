@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- courbure-de-l-espace
-- le-vide
 - cosmologie
-- etats-de-la-matiere
-- espace-dimension
-- relativite-generale
-- espace-temps
 - physique-theorique
-- phases-de-la-matiere
+- matiere
+- relativite-generale
 coverImage: ./images/quora.png
 ---
 

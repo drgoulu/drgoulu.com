@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - biologie
 - recherche-scientifique
 - genetique
-- analyse-de-grandes-donnees
-- science-des-donnees
-- bio-informatique
-- biologie-moleculaire
-- sciences-biologiques
 - recherche-medicale
-- analyse-des-donnees
 coverImage: ./images/quora.png
 ---
 

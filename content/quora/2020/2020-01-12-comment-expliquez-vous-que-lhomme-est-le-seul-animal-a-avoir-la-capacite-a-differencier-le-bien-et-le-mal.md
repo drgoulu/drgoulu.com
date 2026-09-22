@@ -8,14 +8,9 @@ categories:
 tags:
 - philosophie
 - comportement-humain
-- le-bien-le-mal
 - conscience
-- morale
-- ethique-philosophie-morale
 - nature-humaine
-- moralite
-- la-philosophie
-- bien-et-mal
+- ethique-philosophie-morale
 coverImage: ./images/quora.png
 ---
 

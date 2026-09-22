@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie
-- evolution-processus
-- especes
-- sciences-de-la-vie
-- paleontologie
-- evolution-biologique-des-especes
-- phylogenie
-- taxonomie
-- vie-biologique
+- sciences
 - evolution
+- biologie
+- vie
+- processus
 coverImage: ./images/qimg-b2c6926e987e125a27f43a84798eb546.jpg
 ---
 

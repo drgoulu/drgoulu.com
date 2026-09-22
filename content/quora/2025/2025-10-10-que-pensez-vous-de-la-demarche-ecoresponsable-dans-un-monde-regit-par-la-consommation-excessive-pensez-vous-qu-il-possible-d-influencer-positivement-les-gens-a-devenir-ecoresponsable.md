@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- societe
 - ecologie
+- developpement-durable
 - consommation
 - responsabilite
-- influence-sociale
-- developpement-durable
-- changement-d-habitudes
-- societe-de-consommation
-- ecoresponsable
-- consommation-responsable
-- responsabilite-personnelle
 coverImage: ./images/qimg-96e748bc5c1993e2164330c5afbe9d00.jpg
 ---
 

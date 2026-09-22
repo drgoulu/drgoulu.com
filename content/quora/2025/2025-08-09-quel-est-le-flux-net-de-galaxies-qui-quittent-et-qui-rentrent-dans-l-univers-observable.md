@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- l-univers-astronomie
 - astronomie
-- expansion-de-l-univers
-- cosmologie
-- univers-observable
-- galaxies-astronomie
 - astrophysique
-- astronomie-et-astrophysique
-- cosmologie-physique
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

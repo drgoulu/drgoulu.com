@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- angles
-- triangles-en-geometrie
 - geometrie
-- angles-interieurs
-- sciences-mathematiques
+- sciences
 - geometrie-spherique
 - post
-- mathematiques-et-sciences
 coverImage: ./images/quora.png
 ---
 

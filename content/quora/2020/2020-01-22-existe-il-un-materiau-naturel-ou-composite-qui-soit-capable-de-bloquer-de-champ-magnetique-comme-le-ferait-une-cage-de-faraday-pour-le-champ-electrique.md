@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- cage-de-faraday
-- electromagnetisme
+- sciences
+- theorie
 - materiaux
-- science-des-materiaux-et-ingenierie
-- champs-magnetiques
-- magnetisme
-- theorie-de-l-electromagnetisme
-- ingenieurie-des-materiaux
+- ingenierie
 coverImage: ./images/quora.png
 ---
 

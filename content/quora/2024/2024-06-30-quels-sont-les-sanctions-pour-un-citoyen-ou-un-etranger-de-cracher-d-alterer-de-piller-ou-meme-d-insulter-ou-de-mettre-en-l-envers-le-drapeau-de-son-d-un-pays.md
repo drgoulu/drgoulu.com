@@ -8,14 +8,9 @@ categories:
 tags:
 - pays
 - droit
-- pillage
 - etrangers
 - citoyennete
-- insultes
-- drapeaux-nationaux
-- sanctions-loi
 - droit-public
-- drapeaux
 coverImage: ./images/quora.png
 ---
 

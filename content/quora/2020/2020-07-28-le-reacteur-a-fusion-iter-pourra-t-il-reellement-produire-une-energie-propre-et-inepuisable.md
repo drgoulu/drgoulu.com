@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- iter
-- energie-renouvelable
-- science-et-technologie
+- sciences
 - energie
-- reacteurs-a-fusion
-- technologie-d-energie-propre
-- energie-alternative
+- technologies
+- energie-renouvelable
 coverImage: ./images/quora.png
 ---
 

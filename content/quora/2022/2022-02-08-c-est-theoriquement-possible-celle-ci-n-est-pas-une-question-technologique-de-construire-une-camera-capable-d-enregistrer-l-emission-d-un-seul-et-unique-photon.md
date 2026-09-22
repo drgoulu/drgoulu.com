@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- cameras
-- science-et-technologie
-- photon-unique
-- lumiere-physique
-- optique
-- capteurs
-- photons
+- sciences
 - physique-theorique
-- optique-quantique
+- technologies
+- lumiere
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- vie
+- duree
 - consommateur
-- duree-de-vie
-- appareils-de-cuisine
+- cuisine
 - reparation
-- entretien-menager
-- specialistes-en-refrigeration
-- refrigerateurs
-- appareils-electriques
-- appareils-menagers
-- refrigeration
 coverImage: ./images/quora.png
 ---
 

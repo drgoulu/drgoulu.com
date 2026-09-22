@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-humaine
-- anthropologie
-- race-et-ethnicite
+- histoire
+- humanite
 - evolution-humaine
-- races-humaines
-- origines-humaines
-- histoire-de-l-humanite
-- biologie-evolutive-humaine
-- anthropologie-societe
+- anthropologie
+- histoire-humaine
 coverImage: ./images/qimg-94b8a9ce65ff522191a32ba529af19f8.png
 ---
 

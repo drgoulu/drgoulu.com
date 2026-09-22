@@ -10,11 +10,7 @@ tags:
 - epfl
 - ecole-polytechnique-federale-de-lausanne
 - suisse-pays
-- domaine-d-etude
-- education-superieur
-- etudes-scientifiques
-- echelle-salariale
-- remuneration
+- etude-scientifique
 coverImage: ./images/quora.png
 ---
 

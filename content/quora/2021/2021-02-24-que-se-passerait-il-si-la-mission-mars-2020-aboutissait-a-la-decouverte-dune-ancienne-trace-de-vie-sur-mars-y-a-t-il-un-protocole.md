@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- planetes
+- vie
 - recherche-scientifique
 - exploration-spatiale
-- mars-planete
-- sciences-de-la-vie
-- protocole
-- astrobiologie
-- vie-extraterrestre
-- mission-sur-mars
-- decouvertes-scientifiques
-- exploration-de-mars
 coverImage: ./images/quora.png
 ---
 

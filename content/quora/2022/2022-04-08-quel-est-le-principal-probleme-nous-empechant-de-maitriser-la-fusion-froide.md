@@ -9,10 +9,8 @@ tags:
 - recherche-scientifique
 - energie-nucleaire
 - physique-des-reacteurs
-- sujet-scientifique
 - sciences-nucleaires
 - travail-scientifique
-- recherches-scientifiques
 coverImage: ./images/quora.png
 ---
 

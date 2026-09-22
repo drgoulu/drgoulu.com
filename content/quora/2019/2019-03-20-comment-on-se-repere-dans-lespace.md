@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- psychologie-humaine
 - espace
 - perception
-- sens
-- intelligence-spatiale
-- neurosciences
-- orientation-personnelle
-- sensation
 - psychologie-cognitive
-- la-perception
+- neuroscience
+- sens
 coverImage: ./images/quora.png
 ---
 

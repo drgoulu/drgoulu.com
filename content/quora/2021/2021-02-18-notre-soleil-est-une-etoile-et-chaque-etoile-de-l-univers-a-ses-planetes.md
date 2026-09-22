@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- le-soleil
-- creatures
-- hypotheses
-- l-univers
+- univers
+- planetes
+- soleil
 - etoiles-corps-celestes
-- vie-extraterrestre
-- planetes-astronomie
-- astrobiologie
 coverImage: ./images/quora.png
 ---
 

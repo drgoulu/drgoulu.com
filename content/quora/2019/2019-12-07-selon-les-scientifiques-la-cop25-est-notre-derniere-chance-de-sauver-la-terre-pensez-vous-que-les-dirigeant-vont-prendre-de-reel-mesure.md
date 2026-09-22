@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
+- politique
+- environnement
 - changement-climatique
-- dirigeants
-- l-environnement
-- responsabilite-politique
-- sauver-la-terre
 - rechauffement-climatique
-- crise-climatique
-- le-changement-climatique
 coverImage: ./images/quora.png
 ---
 

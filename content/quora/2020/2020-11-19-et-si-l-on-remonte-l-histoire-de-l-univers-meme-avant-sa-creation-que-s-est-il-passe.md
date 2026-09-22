@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- histoire-de-l-astronomie
-- cosmologie
 - astronomie
-- age-de-l-univers
-- temps-physique
-- exploration-de-l-univers
-- cosmologie-du-big-bang
-- origine-de-l-univers
+- histoire
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

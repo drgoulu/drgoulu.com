@@ -8,14 +8,9 @@ categories:
 tags:
 - perception
 - comportement-animal
-- auto-reflexion
-- miroirs
 - sciences-cognitives
 - perception-visuelle
 - intelligence-animale
-- psychologie-animale
-- fonctions-cognitives
-- comportements-animaliers
 coverImage: ./images/quora.png
 ---
 

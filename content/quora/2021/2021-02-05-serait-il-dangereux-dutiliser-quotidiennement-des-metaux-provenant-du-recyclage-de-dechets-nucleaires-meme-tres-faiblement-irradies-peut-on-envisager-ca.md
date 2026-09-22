@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- dechets-nucleaires
-- metaux
-- recyclage
 - sciences
-- risque
+- sante
 - securite
+- risques
 - radioactivite
-- materiaux-radioactifs
-- sante-environnementale
 coverImage: ./images/quora.png
 ---
 

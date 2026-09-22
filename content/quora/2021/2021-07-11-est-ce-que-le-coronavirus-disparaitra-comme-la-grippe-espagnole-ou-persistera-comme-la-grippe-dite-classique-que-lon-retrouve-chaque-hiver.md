@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sante
 - sante-publique
 - covid-19-2019-2020
 - virus
-- grippe
-- epidemiologie
 - maladies-infectieuses
-- sante-et-securite-publiques
-- grippe-espagnole
-- epidemies
-- maladies-virales
 coverImage: ./images/qimg-72bf87c8c2c30fea4c2bdf731b616305.jpg
 ---
 

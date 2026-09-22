@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- changement-climatique
-- faune
-- l-environnement
-- ours-polaires
-- especes-menacees
-- extinction-des-especes
 - environnement
-- conservation-de-la-nature
+- nature
+- changement-climatique
 - rechauffement-climatique
-- conservation-de-la-faune
+- especes
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- probleme-np
 - astronomie
-- modelisation-mathematique
-- mecanique-celeste
-- gravitation
 - astrophysique
+- gravitation
 - physique-mathematique
-- modelisation
 coverImage: ./images/quora.png
 ---
 

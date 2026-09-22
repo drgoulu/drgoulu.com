@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- consommation-d-energie
-- rendement
-- efficacite-energetique
-- travail-physique
-- biomecanique
-- production-d-energie
-- bilan-energetique
-- physique-humain
-- consommation-energetique
+- energie
+- consommation
+- travail
+- production
 coverImage: ./images/quora.png
 ---
 

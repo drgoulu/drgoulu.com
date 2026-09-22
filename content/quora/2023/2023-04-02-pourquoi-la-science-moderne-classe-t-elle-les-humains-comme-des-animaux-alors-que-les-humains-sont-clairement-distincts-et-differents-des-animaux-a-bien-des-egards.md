@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - philosophie
-- animaux
-- classification-biologique
-- etre-humain
-- science-moderne
-- l-humain-et-les-animaux
 - biologie
-- philosophie-des-sciences
+- animaux
 - biologie-humaine
-- classification-animale
 coverImage: ./images/quora.png
 ---
 

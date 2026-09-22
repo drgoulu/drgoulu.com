@@ -7,14 +7,10 @@ categories:
 - Combien
 tags:
 - astronomie
+- astrophysique
 - espace
 - exploration-spatiale
-- astrophysique
-- ingenierie-et-technologie-spatiale
 - science-spatiale
-- missions-spatiales
-- technologie-spatiale
-- satellites-artificiels
 coverImage: ./images/quora.png
 ---
 

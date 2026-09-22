@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - recherche-scientifique
-- chats
-- comportement-animal
-- publication-academique
-- intelligence-animale
-- chat-animal
 - recherche
-- comportement-felin
-- publications-scientifiques
 - etude-scientifique
+- comportement-animal
+- publications-scientifiques
 coverImage: ./images/quora.png
 ---
 

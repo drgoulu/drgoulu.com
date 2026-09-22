@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- chimie
-- ressources-naturelles
-- eau
-- energie-physique
-- production-industrielle
-- electrolyse
-- hydrogene
+- physique
 - energie
-- production-d-energie
-- chimie-physique
+- chimie
+- eau
+- ressources-naturelles
 coverImage: ./images/quora.png
 ---
 

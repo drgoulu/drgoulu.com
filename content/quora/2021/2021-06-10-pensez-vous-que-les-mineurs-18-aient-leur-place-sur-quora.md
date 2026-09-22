@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- reseaux-sociaux
+- droit
 - quora
-- mineurs
-- age-du-consentement
-- protection-des-enfants
-- plateformes-en-ligne
-- utilisation-d-internet
-- plateformes-de-medias-sociaux
-- droits-des-enfants
-- protection-des-mineurs
+- protection
+- enfants
+- reseaux-sociaux
 coverImage: ./images/quora.png
 ---
 

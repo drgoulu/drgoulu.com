@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- vie
 - recherche-scientifique
-- co2-atmospherique
-- sciences-de-la-vie
-- astrobiologie
-- vie-extraterrestre
-- exoplanetes
 - atmosphere
-- sciences-de-l-atmosphere
-- exoplanetologie
+- vie-extraterrestre
 coverImage: ./images/quora.png
 ---
 

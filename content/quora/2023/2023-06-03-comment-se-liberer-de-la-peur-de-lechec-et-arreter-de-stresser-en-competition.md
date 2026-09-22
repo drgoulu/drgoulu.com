@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - psychologie
-- la-peur-de-l-echec
-- competition
-- confiance-en-soi
-- gestion-du-stress
-- stress-psychologique
-- surmonter-l-echec
-- gestion-des-emotions
-- retrouver-confiance-en-soi
+- gestion
+- peur
+- echec
+- emotions
 coverImage: ./images/quora.png
 ---
 

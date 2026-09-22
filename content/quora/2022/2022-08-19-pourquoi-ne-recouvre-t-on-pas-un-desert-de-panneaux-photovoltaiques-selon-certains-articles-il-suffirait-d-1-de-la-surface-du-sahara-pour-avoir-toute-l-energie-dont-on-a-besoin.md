@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- geographie
-- energie-renouvelable
+- physique
+- energie
+- environnement
 - changement-climatique
-- l-environnement
-- desert-du-sahara
-- energie-physique
-- panneaux-photovoltaiques
-- transition-energetique
-- energie-solaire
+- geographie
 coverImage: ./images/qimg-9780fde9a34bdbe5809e881338881f84.jpg
 ---
 

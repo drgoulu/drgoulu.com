@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- calamites-de-la-nature
-- risque-et-risques
-- geographie-du-monde
-- donnees-sur-les-catastrophes-naturelles
-- histoire-du-monde
-- dangers-naturels
+- monde
 - geographie
 - catastrophes-naturelles
-- risques-naturels
+- risque-et-risques
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- les-etats-unis-d-amerique
+- monde
 - relations-internationales
-- japon-imperial
 - guerre
-- la-seconde-guerre-mondiale
-- negociation
-- histoire-du-monde
-- histoire-militaire
-- empire-du-japon
+- etats-unis
 coverImage: ./images/quora.png
 ---
 

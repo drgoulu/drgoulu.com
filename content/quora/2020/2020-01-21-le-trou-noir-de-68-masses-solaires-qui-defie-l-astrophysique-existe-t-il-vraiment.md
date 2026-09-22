@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
 - astronomie
-- corps-celestes
-- l-univers
-- objets-astronomiques
-- science-spatiale
-- astrophysiciens
 - astrophysique
-- astronomy
+- univers
+- trous-noirs
 coverImage: ./images/quora.png
 ---
 

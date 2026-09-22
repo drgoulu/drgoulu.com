@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - exploration-spatiale
-- resistance-physique
-- froid-extreme
-- jupiter-planete
+- materiaux
 - atmosphere
-- physique-des-materiaux
-- conditions-environnementales
-- sciences-de-l-atmosphere
-- sonde-spatiale
-- resistance-des-materiaux
 coverImage: ./images/qimg-a584bf33082ee62dc393260a627af15a.jpg
 ---
 

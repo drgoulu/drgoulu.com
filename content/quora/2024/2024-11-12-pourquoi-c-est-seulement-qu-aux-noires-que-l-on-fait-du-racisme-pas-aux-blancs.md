@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - societe
-- les-noirs
 - racisme
 - identite
 - groupes
-- blancs
 - questions-sociales
-- discrimination-raciale
-- identite-raciale
 coverImage: ./images/quora.png
 ---
 

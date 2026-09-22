@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - droit
-- justice
-- politique-des-etats-unis-d-amerique
-- conflit-d-interets
-- juges-de-la-cour-supreme-des-etats-unis
-- systeme-judiciaire-des-etats-unis
-- droit-constitutionnel-des-etats-unis
-- cour-supreme-des-etats-unis
+- etats-unis
+- ameriques
+- conflits
 coverImage: ./images/quora.png
 ---
 

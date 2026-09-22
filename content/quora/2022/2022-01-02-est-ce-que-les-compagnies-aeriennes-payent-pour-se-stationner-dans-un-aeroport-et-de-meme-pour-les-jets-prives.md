@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - aviation
-- cout-pour-l-entreprise
+- cout
+- entreprises
 - transport-aerien
-- jet-prive
 - stationnement
-- frais-de-location
-- aeroports
-- compagnies-aeriennes
-- les-couts
 coverImage: ./images/quora.png
 ---
 

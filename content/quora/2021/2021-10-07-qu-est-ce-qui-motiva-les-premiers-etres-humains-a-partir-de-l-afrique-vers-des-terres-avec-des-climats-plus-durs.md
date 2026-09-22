@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- afrique
-- anthropologie
+- histoire
+- humanite
 - evolution-humaine
-- climats
+- anthropologie
 - paleontologie
-- homo-sapiens
-- histoire-de-l-humanite
-- histoire-de-l-afrique
-- migration-humaine
-- origines-humaines
 coverImage: ./images/quora.png
 ---
 

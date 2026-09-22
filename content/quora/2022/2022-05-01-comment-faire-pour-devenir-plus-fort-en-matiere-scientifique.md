@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
+- etude-scientifique
 - education
 - conseils
-- apprentissage
-- sciences
-- amelioration-personnelle
-- strategies-d-apprentissage
-- etude-scientifique
-- enseignement
-- methodes-d-apprentissage
+- methodes
 coverImage: ./images/quora.png
 ---
 

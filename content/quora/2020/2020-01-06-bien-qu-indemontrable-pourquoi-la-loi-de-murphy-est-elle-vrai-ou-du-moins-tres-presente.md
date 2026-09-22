@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- psychologie
-- la-loi-de-murphy
-- observation
-- pensee
-- comportement-humain
-- probabilite-statistiques
+- sciences
 - philosophie
-- pensee-humaine
-- philosophie-des-sciences
-- probabilite
+- psychologie
+- observation
+- comportement-humain
 coverImage: ./images/quora.png
 ---
 

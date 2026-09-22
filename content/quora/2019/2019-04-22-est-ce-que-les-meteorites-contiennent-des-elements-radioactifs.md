@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- meteorites
-- sciences-de-la-nature
-- elements-radioactifs
-- geologie-planetaire
-- radioactivite
+- nature
 - geologie
-- substances-radioactives
-- elements-chimiques
-- mineraux-meteorites
+- radioactivite
 coverImage: ./images/quora.png
 ---
 

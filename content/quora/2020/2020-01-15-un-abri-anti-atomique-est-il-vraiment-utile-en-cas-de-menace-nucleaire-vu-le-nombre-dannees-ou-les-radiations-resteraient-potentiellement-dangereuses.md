@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - risque-et-risques
-- survivre
-- radiation
-- abri-antiatomique
 - catastrophes-nucleaires
-- protection-contre-les-radiations
-- menace-nucleaire
-- radioprotection
-- maladie-des-radiations
+- maladies
+- radiation
+- survivre
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- changement-climatique
-- energie-physique
-- developpement-durable
-- energie-renouvelable
-- sources-d-energie
-- transition-energetique
+- physique
 - energie
-- energie-alternative
-- technologie-durable
-- energie-infinie
+- changement-climatique
+- energie-renouvelable
+- developpement-durable
 coverImage: ./images/quora.png
 ---
 

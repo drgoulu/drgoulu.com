@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
+- psychologie
 - perception
-- realite
-- epistemologie
-- connaissances
-- objectivite
 - conscience
-- philosophie-et-psychologie
-- philosophie-des-sciences
-- subjectivite
 coverImage: ./images/quora.png
 ---
 

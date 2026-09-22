@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- accelerateurs-de-particules
 - recherche-scientifique
-- vitesse-physique
-- science-physique
-- physique-de-la-matiere
-- physique-des-accelerateurs
-- travail-scientifique
+- vitesse
+- matiere
 coverImage: ./images/quora.png
 ---
 

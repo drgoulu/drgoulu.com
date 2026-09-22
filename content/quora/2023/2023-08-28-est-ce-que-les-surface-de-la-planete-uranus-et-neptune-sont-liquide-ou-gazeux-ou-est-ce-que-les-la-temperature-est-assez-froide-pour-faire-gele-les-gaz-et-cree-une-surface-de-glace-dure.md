@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- neptune-planete
 - astronomie
-- gaz
-- etats-de-la-matiere
-- temperatures
-- glace
 - systeme-solaire
-- uranus-planete
+- matiere
+- temperatures
 coverImage: ./images/quora.png
 ---
 

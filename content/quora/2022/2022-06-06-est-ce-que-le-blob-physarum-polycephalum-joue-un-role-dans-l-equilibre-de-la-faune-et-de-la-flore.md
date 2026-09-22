@@ -9,13 +9,8 @@ tags:
 - biologie
 - ecologisme
 - faune
-- organismes
-- mycologie
 - ecologie
-- flore-et-faune
-- micro-organismes
-- ecologie-des-populations
-- ecologie-comportementale
+- population
 coverImage: ./images/quora.png
 ---
 

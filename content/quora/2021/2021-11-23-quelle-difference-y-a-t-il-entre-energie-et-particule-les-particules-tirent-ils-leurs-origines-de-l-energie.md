@@ -7,12 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- conversion-de-l-energie
-- science-de-la-matiere
-- particules
-- energie-physique
+- sciences
+- energie
+- matiere
 - physique-quantique
-- physique-de-la-matiere
 coverImage: ./images/quora.png
 ---
 

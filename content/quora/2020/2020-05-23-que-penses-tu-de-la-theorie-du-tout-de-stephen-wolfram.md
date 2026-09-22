@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- personnalite
-- stephen-wolfram-scientifique
 - sciences
-- theorie-du-tout
 - cosmologie
-- hypotheses-scientifiques
-- theorie-scientifique
 - physique-theorique
-- theories-de-tout-physique
+- theorie-scientifique
 coverImage: ./images/quora.png
 ---
 

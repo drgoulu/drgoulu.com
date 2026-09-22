@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- otan
-- libye
 - relations-internationales
 - guerre
-- bombardements
-- intervention
-- guerre-civile
-- intervention-militaire
 - politique-internationale
+- otan
 coverImage: ./images/quora.png
 ---
 

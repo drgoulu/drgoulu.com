@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - experience
-- aimants
 - magnetisme
-- interaction-elementaire
 - resistance-physique
-- disque-magnetique
 - science-experimentale
-- contenu-magnetique
-- force-magnetique
 coverImage: ./images/quora.png
 ---
 

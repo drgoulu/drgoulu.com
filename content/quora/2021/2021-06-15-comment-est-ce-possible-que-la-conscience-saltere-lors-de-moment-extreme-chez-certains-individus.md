@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - psychologie
-- etats-modifies
-- conscience
 - experience
 - comportement-humain
-- etats-d-esprits
+- conscience
 - neurologie
-- neuropsychologie
-- experience-humaine
 coverImage: ./images/quora.png
 ---
 

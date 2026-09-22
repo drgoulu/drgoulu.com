@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- numero-d-avogadro
 - sciences
 - chimie
-- science-physique
 - mesures-physiques
 - science-math
-- physique-et-chimie
-- chimie-physique
-- physique-chimie
 coverImage: ./images/quora.png
 ---
 

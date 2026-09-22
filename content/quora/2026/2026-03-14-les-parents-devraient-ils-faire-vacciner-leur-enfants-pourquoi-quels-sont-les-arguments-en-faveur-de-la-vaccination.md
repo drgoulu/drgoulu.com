@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- enfants
-- sante-et-securite-publiques
-- vaccination
+- sante
 - maladies-infectieuses
-- parents
-- conseil-medical
-- immunite-biologie
 - vaccins
-- maladies-evitables-par-la-vaccination
-- immunisations
+- vaccination
+- enfants
 coverImage: ./images/quora.png
 ---
 

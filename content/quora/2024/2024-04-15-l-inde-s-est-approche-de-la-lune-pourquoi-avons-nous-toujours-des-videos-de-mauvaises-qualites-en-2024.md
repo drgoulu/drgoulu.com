@@ -6,13 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- science-et-technologie
-- inde
-- lune-astronomie
-- 2024-annee
-- videos
+- sciences
+- astronomie
+- technologies
 - exploration-spatiale
-- qualite-video
 - technologie-spatiale
 coverImage: ./images/quora.png
 ---

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- aeronautique
 - vitesse
-- extraterrestres
-- silence
-- vol
 - technologie-spatiale
-- ovnis
-- objets-volants-non-identifies
-- conception-d-aeronefs
+- extraterrestres
+- aeronautique
+- vol
 coverImage: ./images/qimg-acec9917bf4d8dc506eae5315bfcdbff.png
 ---
 

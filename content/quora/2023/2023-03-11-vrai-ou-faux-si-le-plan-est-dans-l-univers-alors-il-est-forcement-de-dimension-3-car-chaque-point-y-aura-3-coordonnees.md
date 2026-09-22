@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- plan
+- univers
 - espace
-- l-univers
-- dimensions
-- coordonnees
-- geometrie-plane
-- dimensions-geometrie
 - geometrie
-- espace-dimension
+- dimensions
 coverImage: ./images/quora.png
 ---
 

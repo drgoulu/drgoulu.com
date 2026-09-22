@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- trous-noirs-rotatifs
-- espace
 - astronomie
-- rotation
-- phenomenes-physiques
 - astrophysique
-- rotation-physique
+- espace
 - trous-noirs
-- phenomene-physique
 coverImage: ./images/quora.png
 ---
 

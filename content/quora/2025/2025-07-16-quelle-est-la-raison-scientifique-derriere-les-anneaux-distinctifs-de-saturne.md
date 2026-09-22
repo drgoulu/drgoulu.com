@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sciences
-- saturne-planete
 - astronomie
-- systeme-solaire
-- anneaux-de-saturne
-- science-physique
 - astrophysique
-- planetes-astronomie
-- planetes-du-systeme-solaire
-- astronomie-et-astrophysique
+- planetes
 coverImage: ./images/quora.png
 ---
 

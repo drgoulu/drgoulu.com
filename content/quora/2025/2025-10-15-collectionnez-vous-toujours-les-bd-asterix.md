@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- bande-dessinee
 - asterix
 - objets-de-collection
 - cartoon
 - collectionneur
-- collectionneurs-de-bandes-dessinees
 - collection-de-livres
-- asterix-et-obelix
-- bande-dessinee-franco-belge
 coverImage: ./images/quora.png
 ---
 

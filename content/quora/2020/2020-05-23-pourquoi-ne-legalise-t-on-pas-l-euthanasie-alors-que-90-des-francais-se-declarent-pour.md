@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - france
-- sociologie
 - opinion-publique
-- politique-francaise
-- mort-et-mourir
+- sociologie
 - ethique
-- ethique-medicale
-- philosophie-ethique
+- politique-francaise
 coverImage: ./images/quora.png
 ---
 

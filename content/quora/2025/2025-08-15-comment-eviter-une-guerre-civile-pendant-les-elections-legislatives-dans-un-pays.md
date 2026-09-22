@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- sciences-politiques
+- politique
+- gestion
+- conflits
 - elections
-- resolution-de-conflit
-- stabilite
-- analyse-politique
-- guerres-civiles
-- gestion-de-crise
-- science-politique
-- gestion-des-conflits
-- elections-legislatives
+- sciences-politiques
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
+- sciences
 - philosophie
-- la-nature
-- realite
-- metaphysique
-- la-realite-physique
-- ontologie-philosophie
 - nature
-- sciences-et-philosophie
-- philosophie-des-sciences
-- philosophie-et-science
+- realite
 coverImage: ./images/quora.png
 ---
 

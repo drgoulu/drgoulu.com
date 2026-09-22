@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- informatique
+- sciences
 - mathematiques
+- informatique
 - calcul
-- logique-formelle
-- logique-mathematiques
 - sciences-informatiques
-- l-informatique
-- logique
-- mathematiques-et-sciences
 coverImage: ./images/quora.png
 ---
 

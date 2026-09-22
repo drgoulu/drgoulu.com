@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- revues-scientifiques
-- pour-la-science
-- taux-de-mortalite
-- cancer
-- cancerologie
-- tumeurs
 - mortalite
 - publications-scientifiques
+- cancer
+- taux-de-mortalite
 coverImage: ./images/quora.png
 ---
 

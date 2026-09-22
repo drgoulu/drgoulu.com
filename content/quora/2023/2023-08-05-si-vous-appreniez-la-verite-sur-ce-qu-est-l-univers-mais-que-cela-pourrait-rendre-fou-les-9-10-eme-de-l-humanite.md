@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
+- univers
+- ethique
 - risque-et-risques
-- conscience-collective
 - realite
-- l-univers
-- l-ethique
-- revelation
-- hysterie-collective
-- prise-de-conscience-generale
-- verite
 coverImage: ./images/quora.png
 ---
 

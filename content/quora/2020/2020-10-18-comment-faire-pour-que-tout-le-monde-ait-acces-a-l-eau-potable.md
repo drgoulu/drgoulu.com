@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- monde
+- eau
 - sante-publique
-- acces-a-l-information
 - developpement-durable
-- les-problemes-du-monde
-- eau-potable
-- gestion-des-ressources-en-eau
-- trouver-des-solutions
-- les-conditions-d-acces
-- ressources-en-eau
+- gestion
 coverImage: ./images/quora.png
 ---
 

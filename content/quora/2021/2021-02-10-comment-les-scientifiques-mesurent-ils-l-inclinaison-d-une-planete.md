@@ -7,13 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- methodes-de-recherche
-- inclinaison-axiale-astronomie
+- univers
+- planetes
 - systeme-solaire
-- exploration-de-l-univers
-- planetes-du-systeme-solaire
-- techniques-scientifiques
-- methodes
+- recherche
 coverImage: ./images/quora.png
 ---
 

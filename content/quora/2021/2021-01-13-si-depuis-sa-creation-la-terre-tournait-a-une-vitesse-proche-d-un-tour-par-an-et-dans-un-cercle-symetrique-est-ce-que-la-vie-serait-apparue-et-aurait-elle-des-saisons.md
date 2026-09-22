@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - astronomie
-- sciences-de-la-vie
-- terre-planete
-- saisons
-- rotation-physique
-- vie-biologique
-- science-de-la-terre
-- sciences-de-la-nature
-- rotation-de-la-terre
-- origine-de-la-vie
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

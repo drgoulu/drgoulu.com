@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- psychologie
 - sciences
-- perception-de-la-vie
-- technologie-moderne
+- vie
+- technologies
+- psychologie
 - ethique
-- intelligence-artificielle
-- robotique
-- science-et-technologie
-- perception-visuelle
-- l-intelligence-artificiel
 coverImage: ./images/quora.png
 ---
 

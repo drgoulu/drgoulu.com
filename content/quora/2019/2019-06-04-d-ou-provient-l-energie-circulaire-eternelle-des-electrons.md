@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- electrons
-- mecanique-quantique
-- energie-physique
-- structure-atomique
 - physique-theorique
-- la-physique-atomique
+- energie
 - physique-mathematique
-- physique-quantique
 coverImage: ./images/quora.png
 ---
 

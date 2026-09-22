@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- opinion-personnelle
 - questions
+- opinion-personnelle
 - culture-populaire
-- jeux-video
 - activite
-- souvenir
-- mode-de-divertissement
-- avis-sur-les-jeux-video
-- jeux-informatiques
-- jeux-electroniques
+- jeux-video
 coverImage: ./images/quora.png
 ---
 

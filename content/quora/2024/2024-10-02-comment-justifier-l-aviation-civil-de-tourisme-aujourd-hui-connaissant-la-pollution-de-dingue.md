@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - environnement
-- transport-aerien
 - developpement-durable
 - pollution
-- gaz-a-effet-de-serre
 - impact-environnemental
-- emissions-de-carbone
-- aviation-civile
-- engagement-ecologique
+- emission
 coverImage: ./images/qimg-d1cb54f043d6bacf54240deeed88436d.jpg
 ---
 

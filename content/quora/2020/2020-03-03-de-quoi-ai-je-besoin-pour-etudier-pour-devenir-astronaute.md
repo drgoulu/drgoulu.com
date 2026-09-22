@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- carriere
-- astronautes
-- etudes
+- sciences
+- histoire
+- technologies
 - science-spatiale
-- formations
-- sciences-et-technologies
-- histoire-de-l-astronautique
-- astronautique
-- etudes-scientifiques
-- ingenieur-spatiale
+- etude-scientifique
 coverImage: ./images/quora.png
 ---
 

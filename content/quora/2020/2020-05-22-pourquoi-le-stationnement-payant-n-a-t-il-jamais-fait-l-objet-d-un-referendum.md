@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- politique
 - france
-- politique-municipale
-- transports
+- droit
 - opinion-publique
-- stationnement
-- referendums
-- decisions-politiques
-- droit-de-vote
-- politiques-publiques
-- choix-politiques
+- transports
 coverImage: ./images/quora.png
 ---
 

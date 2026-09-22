@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- agriculture
-- gel
-- methodes-de-travail
-- croissance-des-plantes
-- arrosage
-- systeme-d-irrigation
-- pratiques-commerciales
-- protection-des-vegetaux
-- temps-de-gel
-- sciences-agricoles
+- temps
+- systeme
+- travail
+- methodes
+- protection
 coverImage: ./images/quora.png
 ---
 

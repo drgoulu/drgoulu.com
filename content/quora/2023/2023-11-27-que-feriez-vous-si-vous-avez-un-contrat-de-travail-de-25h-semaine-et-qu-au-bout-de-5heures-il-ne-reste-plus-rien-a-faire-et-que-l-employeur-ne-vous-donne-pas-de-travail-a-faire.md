@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- temps
+- gestion
+- conflits
+- travail
 - travail-emploi
-- gestion-du-temps
-- relations-professionnelles
-- employeurs
-- droit-des-contrats
-- heures-de-travail
-- conflit-au-travail
-- contrat-de-travail
-- employes
-- relations-de-travail
 coverImage: ./images/quora.png
 ---
 

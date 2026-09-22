@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- telescope-spatial-james-webb
 - astronomie
-- recherche-scientifique
-- univers-observable
-- exploration-spatiale
+- univers
 - cosmologie
-- l-univers-astronomie
-- astronomie-d-observation
-- decouvertes-scientifiques
+- recherche-scientifique
 coverImage: ./images/qimg-8ad78dba8af29f04300b71d975d8704a.jpg
 ---
 

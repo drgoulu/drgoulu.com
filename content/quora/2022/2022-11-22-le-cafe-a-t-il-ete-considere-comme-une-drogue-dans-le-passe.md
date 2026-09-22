@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
+- alimentation
 - drogues
-- histoire-de-l-alimentation
 - cafe
-- plantes-psychoactives
-- substances
 - cafeine
-- droghe
-- histoire-culinaire
-- drogues-psycho-actives
 coverImage: ./images/quora.png
 ---
 

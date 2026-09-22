@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
+- sciences
+- philosophie
+- matiere
 - conscience
-- dualisme
-- sciences-cognitives
-- reductionnisme
-- philosophie-de-l-esprit
-- matiere-physique
-- science-du-cerveau
-- philosophie-de-la-physique
-- theorie-de-l-esprit
 coverImage: ./images/quora.png
 ---
 

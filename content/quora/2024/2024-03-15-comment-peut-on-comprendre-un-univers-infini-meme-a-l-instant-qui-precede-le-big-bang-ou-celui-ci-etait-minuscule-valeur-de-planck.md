@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- physique-theorique
+- physique
+- mathematiques
+- univers
 - cosmologie
-- l-univers
-- infini-mathematiques
-- singularite-big-bang
-- temps-physique
-- unites-de-planck
-- cosmologie-pre-big-bang
-- cosmologie-du-big-bang
+- physique-theorique
 coverImage: ./images/quora.png
 ---
 

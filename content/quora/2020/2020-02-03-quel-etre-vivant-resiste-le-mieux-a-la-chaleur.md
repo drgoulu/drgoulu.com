@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - biologie
-- resistance-physique
-- chaleur-et-temperature
-- adaptation
-- etres-vivants
-- sciences-de-la-nature
-- thermoregulation
-- vie-biologique
+- vie
+- nature
 - biologie-animale
-- sciences-de-la-vie
 coverImage: ./images/quora.png
 ---
 

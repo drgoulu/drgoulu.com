@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - psychologie
 - mysteres
-- sciences
-- phenomene-surnaturel
 - spiritualite
-- explications
-- le-paranormal
-- experience-paranormale
 - explications-scientifiques
-- le-phenomene-paranormal
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- communication
-- recherche-sur-internet
+- recherche
 - internet
-- deception
-- connaissances
-- partage-d-informations
-- relations-sociales-en-ligne
-- comportements-sur-internet
-- acces-a-l-information
-- les-informations
+- information
+- communication
+- comportement
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - energie-renouvelable
-- panneaux-solaires
-- refraction
-- rendement-du-petrole
 - optique
-- installateur-photovoltaiques
-- energie-solaire-photovoltaique
-- panneaux-photovoltaiques
 - energie-solaire
+- panneaux-solaires
 coverImage: ./images/quora.png
 ---
 

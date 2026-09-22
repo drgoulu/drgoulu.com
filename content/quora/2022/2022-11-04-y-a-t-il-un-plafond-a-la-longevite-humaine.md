@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie-humaine
+- sciences
+- vie
 - recherche-scientifique
-- vieillissement
-- mortalite
-- sciences-de-la-vie
-- longevite-humaine
-- duree-de-vie
-- recherche-sur-le-vieillissement
-- science-de-la-vie-et-de-la-terre
-- recherche-universitaire
+- recherche
+- biologie-humaine
 coverImage: ./images/qimg-fd650793a4b6e40fe13fe3e0d8525359.jpg
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - france
-- depenses-publiques
-- prisonniers
-- systeme-carceral
-- cout-de-la-formation
-- reduction-des-depenses
-- budget-de-l-etat
-- prison
-- le-systeme-penitentiaire
+- formation
+- cout
 - finances-publiques
+- etat
 coverImage: ./images/quora.png
 ---
 

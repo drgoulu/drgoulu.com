@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- terre
+- nature
 - catastrophes-naturelles
-- survivre
-- sciences-de-la-terre
 - champs-magnetiques
-- geophysique
-- les-poles-magnetiques-de-la-terre
-- science-de-la-nature
-- inversion-du-champ-magnetique-terrestre
-- champ-magnetique-terrestre
 coverImage: ./images/quora.png
 ---
 

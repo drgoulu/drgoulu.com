@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
 - changement-climatique
-- architecture
-- durabilite
-- reflexion-physique
-- toiture-metallique
-- construction
-- energie-thermique
 - rechauffement-climatique
-- reflexion-du-soleil
-- le-rechauffement-climatique
+- soleil
+- reflexion
 coverImage: ./images/quora.png
 ---
 

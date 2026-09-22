@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - france
-- impot-sur-le-revenu
+- gestion
 - pays
-- gestion-des-finances-personnelles
+- revenu
 - fiscalite
-- systeme-fiscal
-- fiscalite-en-france
-- fiscalite-personnelle
-- finance-personnelle
 coverImage: ./images/quora.png
 ---
 

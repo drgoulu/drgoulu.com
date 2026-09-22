@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
+- sciences
 - astronomie
-- nebuleuse
-- systeme-solaire
-- cosmologie-du-big-bang
-- origine-de-l-univers
-- science-de-la-terre
-- cosmologie
 - astrophysique
-- physique-et-astronomie
+- univers
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- arts
+- theorie
+- art
 - realite
 - metaphysique
-- idees
-- theorie-de-l-art
-- idee-philosophique
-- philosophie-culture
-- art
-- philosophie-de-l-art
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- sequences-et-series
 - probleme
 - questions-logiques
 - logique
-- sequences-mathematiques
-- problemes-mathematiques
 - sequences-de-nombres
-- logique-mathematiques
 coverImage: ./images/quora.png
 ---
 

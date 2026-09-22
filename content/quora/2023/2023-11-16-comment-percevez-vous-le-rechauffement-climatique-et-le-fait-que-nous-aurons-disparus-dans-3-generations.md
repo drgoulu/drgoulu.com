@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- perception
 - changement-climatique
-- generations
-- avenir-de-l-humanite
-- extinction-des-especes
 - rechauffement-climatique
-- generation-future
-- l-extinction-humaine
-- crise-climatique
-- le-rechauffement-climatique
+- humanite
+- especes
+- extinction
 coverImage: ./images/quora.png
 ---
 

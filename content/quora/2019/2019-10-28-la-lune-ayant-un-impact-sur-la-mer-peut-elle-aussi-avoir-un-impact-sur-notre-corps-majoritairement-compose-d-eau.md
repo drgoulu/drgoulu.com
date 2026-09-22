@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- corps-humains
 - astronomie
-- marees
-- eau
-- influence-de-la-lune-sur-la-terre
+- terre
 - biologie-humaine
-- lune-astronomie
-- le-corps-humain
-- influence-de-la-lune-sur-les-etres-vivants
+- eau
 coverImage: ./images/quora.png
 ---
 

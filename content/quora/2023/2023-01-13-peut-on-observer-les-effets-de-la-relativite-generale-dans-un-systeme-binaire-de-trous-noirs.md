@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
-- systeme-d-etoiles-binaires
 - astronomie
-- relativite-generale
-- objets-astronomiques
 - astrophysique
-- astronomie-d-observation
-- astrophysique-relativiste
+- trous-noirs
+- observation
 coverImage: ./images/qimg-3296f1e05f7bf9143f68609798c39357.jpg
 ---
 

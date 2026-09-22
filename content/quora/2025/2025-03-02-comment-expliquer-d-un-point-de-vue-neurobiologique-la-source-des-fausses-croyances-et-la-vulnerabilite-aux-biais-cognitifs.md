@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- processus
 - psychologie-cognitive
-- fausses-croyances
-- processus-mental
-- fonctionnement-du-cerveau
-- biais-cognitif
-- neurobiologie
 - sciences-cognitives
-- neurosciences-cognitives-et-comportementales
-- processus-de-pensee
-- la-neuroscience-cognitive
+- pensee
+- neurobiologie
 coverImage: ./images/quora.png
 ---
 

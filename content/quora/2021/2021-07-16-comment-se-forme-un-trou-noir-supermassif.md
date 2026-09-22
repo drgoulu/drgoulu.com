@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- trous-noirs-supermassifs
 - astronomie
-- astrophysique-theorique
+- astrophysique
 - cosmologie
 - physique-theorique
-- trous-noirs
-- astrophysique
-- astronomie-et-astrophysique
 coverImage: ./images/quora.png
 ---
 

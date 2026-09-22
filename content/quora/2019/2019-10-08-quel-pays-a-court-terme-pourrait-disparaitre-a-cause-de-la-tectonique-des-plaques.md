@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- pays
-- geomorphologie
-- risque-et-risques
-- plaques-tectoniques
-- catastrophes-naturelles
-- les-disparitions
-- dangers-naturels
 - geologie
-- tectoniques-des-plaques
-- risques-naturels
+- catastrophes-naturelles
+- pays
+- risque-et-risques
+- disparition
 coverImage: ./images/quora.png
 ---
 

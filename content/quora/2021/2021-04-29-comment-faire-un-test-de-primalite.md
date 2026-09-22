@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- informatique
 - mathematiques
-- nombres-naturels
-- securite-informatique
-- theorie-des-nombres-premiers
-- algorithmes
-- cryptographie
-- sciences-informatiques
-- theorie-des-nombres
+- theorie
+- informatique
+- nombres
+- securite
 coverImage: ./images/quora.png
 ---
 

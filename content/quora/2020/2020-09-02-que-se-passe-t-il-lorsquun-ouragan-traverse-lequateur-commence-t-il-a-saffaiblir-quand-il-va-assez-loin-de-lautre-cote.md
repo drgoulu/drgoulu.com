@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
+- nature
+- atmosphere
 - climatologie
-- phenomenes-naturels
-- equateur
-- ouragans
-- sciences-de-l-atmosphere
-- phenomene-meteorologique
-- meteorologie
-- science-de-la-nature
-- physique-de-l-atmosphere
-- phenomenes-climatiques
 coverImage: ./images/qimg-e5cb5854b13e6d573b44785a8c16fbda.jpg
 ---
 

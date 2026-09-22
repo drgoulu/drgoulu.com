@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie
-- primates
-- anthropologie
-- arbre-phylogenetique
-- evolution-humaine
-- classification-des-animaux
-- homo-sapiens
-- zoologie
 - evolution
-- phylogenetique
+- biologie
+- animaux
+- evolution-humaine
+- anthropologie
 coverImage: ./images/qimg-0e4f8ab6889c741e75ce10f76253b2c0.png
 ---
 

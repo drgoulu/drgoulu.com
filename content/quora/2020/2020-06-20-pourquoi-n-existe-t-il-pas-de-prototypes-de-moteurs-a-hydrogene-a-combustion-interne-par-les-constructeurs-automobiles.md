@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - innovation
-- industrie-automobile
 - hydrogene
-- prototypage
-- moteur-a-combustion-interne
-- moteurs-de-voiture
-- prototypes
-- constructeurs-automobiles
+- voitures
+- moteur
 - technologie-automobile
-- energie-hydrogene
 coverImage: ./images/quora.png
 ---
 

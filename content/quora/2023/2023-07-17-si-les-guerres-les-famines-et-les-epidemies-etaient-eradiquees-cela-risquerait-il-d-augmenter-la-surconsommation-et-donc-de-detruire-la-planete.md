@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- guerres
-- consommation
-- terre-planete
-- famines
-- surpopulation-dans-le-monde
-- l-environnement
-- epidemies
-- humanite
-- ecologie
+- terre
+- planetes
+- environnement
+- monde
 coverImage: ./images/qimg-2a88b5ae55b8980835dd661e42238a0b.jpg
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- formation
-- terre-planete
-- systeme-solaire
+- histoire
+- univers
 - cosmologie
-- origine-de-l-univers
-- geologie
-- histoire-de-la-terre
-- cosmologie-du-big-bang
+- terre
 coverImage: ./images/quora.png
 ---
 

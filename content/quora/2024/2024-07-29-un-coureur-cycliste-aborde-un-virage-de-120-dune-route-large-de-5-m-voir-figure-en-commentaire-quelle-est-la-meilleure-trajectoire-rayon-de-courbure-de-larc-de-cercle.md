@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- direction-trajectoire
-- rayon-geometrie
-- diagramme-circulaire
-- probleme
-- course-cycliste
 - mecanique
-- mouvement-circulaire
+- probleme
 - trajectoire
+- mouvement-circulaire
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- libre-arbitre
-- conscience
-- theories-du-complot
-- determinisme
-- condition-humaine
-- intelligence-artificielle
 - evolution
-- nature-humaine
-- philosophie-des-sciences
+- theories-du-complot
+- conscience
 coverImage: ./images/quora.png
 ---
 

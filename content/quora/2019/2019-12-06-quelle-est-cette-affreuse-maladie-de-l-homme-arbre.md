@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- maladie-exotique
 - maladies
 - medecine
-- maladie-physique
-- sante-physique
+- physique
 - maladies-rares
-- maladie-de-la-peau
-- maladie
 coverImage: ./images/quora.png
 ---
 

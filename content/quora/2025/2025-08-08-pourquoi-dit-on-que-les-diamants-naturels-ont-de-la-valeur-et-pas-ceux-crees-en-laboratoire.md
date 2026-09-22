@@ -8,14 +8,9 @@ categories:
 tags:
 - mineraux
 - diamants
-- valeur-des-produits
-- laboratoires-de-recherche
-- gemmologues
-- industrie-du-diamant
-- pierres-naturelles
-- gemmologie
-- diamant-synthetique
-- matiere-minerale
+- laboratoires
+- recherche
+- industrie
 coverImage: ./images/quora.png
 ---
 

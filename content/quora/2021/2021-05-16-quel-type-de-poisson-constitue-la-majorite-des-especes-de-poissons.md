@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - biologie
+- animaux
 - especes
-- faune-marine
-- classification-des-animaux
-- zoologie
 - biologie-animale
-- espece-animale
-- science-biologique
+- zoologie
 coverImage: ./images/quora.png
 ---
 

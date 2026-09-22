@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - vent
-- voiliers
 - navigation
-- sports-nautiques
-- direction-du-vent
-- navigation-a-voile
+- direction
 - voile
-- sports-maritimes
-- sciences-nautiques
 coverImage: ./images/quora.png
 ---
 

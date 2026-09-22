@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- election-presidentielle
-- politique-des-etats-unis-d-amerique
-- pourcentage
+- politique
+- etats-unis
+- ameriques
 - elections
 - elections-presidentielles
-- joe-biden-homme-politique
-- elections-americaines-de-2016
-- presidentielles-americaines
-- resultats-des-elections
 coverImage: ./images/quora.png
 ---
 

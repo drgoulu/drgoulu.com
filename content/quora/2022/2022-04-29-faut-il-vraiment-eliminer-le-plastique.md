@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-environnement
-- consommation
+- environnement
 - ecologie
-- plastique
-- durabilite
-- recyclage
+- consommation
 - pollution
-- dechets
-- recyclage-du-plastique
-- dechets-plastiques
+- durabilite
 coverImage: ./images/quora.png
 ---
 

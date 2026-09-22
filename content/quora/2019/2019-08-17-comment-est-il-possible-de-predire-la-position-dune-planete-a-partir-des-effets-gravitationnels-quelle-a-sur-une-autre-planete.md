@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- predictions
 - astronomie
-- champ-gravitationnel
-- gravitation
-- mouvement-physique
-- planetes-astronomie
-- lois-de-la-physique
 - astrophysique
+- planetes
+- gravitation
 coverImage: ./images/quora.png
 ---
 

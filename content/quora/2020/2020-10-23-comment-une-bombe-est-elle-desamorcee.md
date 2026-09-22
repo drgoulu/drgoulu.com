@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - securite
-- demineur
 - explosions
-- intervention-d-urgence
-- les-techniques
-- desarmement
-- bombes
-- deminage
-- explosifs
-- surete
+- intervention
+- urgences
+- technique
 coverImage: ./images/quora.png
 ---
 

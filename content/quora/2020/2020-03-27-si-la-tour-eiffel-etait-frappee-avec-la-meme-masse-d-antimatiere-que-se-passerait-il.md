@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- la-tour-eiffel
-- l-antimatiere
-- catastrophes
-- reactions-nucleaires
-- destruction
-- annihilation-physique
-- energie-physique
+- sciences
 - physique-theorique
-- science-physique
+- energie
+- catastrophes
 coverImage: ./images/quora.png
 ---
 

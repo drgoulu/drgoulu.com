@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
+- environnement
 - changement-climatique
-- science-physique
-- l-environnement
-- vetements-et-habillements
-- effet-de-serre
-- energie-solaire
-- reflexion-physique
-- physics
 - rechauffement-climatique
-- le-rechauffement-climatique
 coverImage: ./images/quora.png
 ---
 

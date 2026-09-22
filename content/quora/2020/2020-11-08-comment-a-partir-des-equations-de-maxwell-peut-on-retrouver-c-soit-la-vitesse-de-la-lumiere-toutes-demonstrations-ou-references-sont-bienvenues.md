@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- electromagnetisme
-- equations-de-maxwell
-- demonstrations
-- vitesse-de-la-lumiere
+- theorie
 - physique-theorique
-- theorie-de-l-electromagnetisme
-- demonstrations-scientifiques
-- physique-mathematique
+- lumiere
 coverImage: ./images/quora.png
 ---
 

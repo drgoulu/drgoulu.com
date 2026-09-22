@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - catastrophes
-- centrale-nucleaire-de-tchernobyl
-- enceintes
-- sciences-nucleaires
-- protection-contre-les-radiations
+- catastrophes-nucleaires
 - catastrophes-environnementales
-- tchernobyl
+- sciences-nucleaires
 - accident-nucleaire
-- les-catastrophes-nucleaires
-- catastrophe-de-tchernobyl
 coverImage: ./images/quora.png
 ---
 

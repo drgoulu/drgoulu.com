@@ -8,11 +8,7 @@ categories:
 tags:
 - physique
 - sciences
-- effet-doppler
 - astronomie
-- corps-noirs-physique
-- temperatures
-- spectroscopie
 - astrophysique
 - physique-theorique
 coverImage: ./images/qimg-2eaa7fa2edfabaf6da0f11303934938c.jpg

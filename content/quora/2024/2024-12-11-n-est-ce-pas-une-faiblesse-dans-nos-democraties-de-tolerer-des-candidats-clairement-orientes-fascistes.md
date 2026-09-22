@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- liberte-d-expression
-- nazisme
-- extreme-droite
-- droits-de-l-homme
-- ideologies-politiques
+- droit
 - democratie
-- anti-semitisme
-- partis-politiques
-- fascisme
+- homme
+- ideologies-politiques
 coverImage: ./images/quora.png
 ---
 

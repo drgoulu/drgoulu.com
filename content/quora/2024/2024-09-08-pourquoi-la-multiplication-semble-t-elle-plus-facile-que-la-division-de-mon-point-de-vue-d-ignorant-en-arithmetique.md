@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - perception
-- arithmetique
 - difficulte
-- simplicite
-- division-mathematiques
-- multiplication
-- impression
-- conception
 - complexite
-- facilite
+- arithmetique
+- conception
 coverImage: ./images/quora.png
 ---
 

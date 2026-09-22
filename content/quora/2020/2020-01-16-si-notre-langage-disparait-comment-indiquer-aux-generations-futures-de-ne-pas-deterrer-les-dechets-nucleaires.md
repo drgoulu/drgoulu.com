@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- environnement
+- securite
 - langage
+- conservation
 - risque-et-risques
-- communication-interculturelle
-- dechets-nucleaires
-- generations-futures
-- protection-de-l-environnement
-- menace-nucleaire
-- securite-de-l-environnement
-- conservation-de-l-environnement
 coverImage: ./images/quora.png
 ---
 

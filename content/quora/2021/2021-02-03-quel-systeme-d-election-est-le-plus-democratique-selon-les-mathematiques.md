@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- democratie-representative
-- elections
-- theorie-du-jeu
-- systeme-d-election
+- systeme
 - democratie
+- elections
 - representation
-- elections-democratiques
-- systemes-electoraux
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
 - science-fiction-genre
-- intelligence-artificielle-generale
-- conscience-de-soi
-- experience-humaine
-- comprehension
-- cognition
 - conscience
 - intelligence-artificielle
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

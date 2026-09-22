@@ -8,13 +8,9 @@ categories:
 tags:
 - histoire
 - new-york-city
-- al-qaida
-- les-attentats-du-11-septembre
-- demolition
+- attentats-du-11-septembre
 - terrorisme
-- batiment
-- world-trade-center
-- attaques-terroristes
+- batiments
 coverImage: ./images/qimg-2c3ed880befe20a8b2e6e88d8ad67e01.png
 ---
 

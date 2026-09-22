@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- les-youtubeurs
-- agnosticisme
-- debat
 - sciences
-- youtube
+- philosophie
+- religion
+- debat
 - atheisme
-- science-et-religion
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

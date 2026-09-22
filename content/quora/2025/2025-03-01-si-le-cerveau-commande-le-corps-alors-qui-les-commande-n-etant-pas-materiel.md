@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- corps-humains
 - conscience
-- neurologie
+- corps-humains
 - metaphysique
-- philosophie-de-l-esprit
-- probleme-corps-esprit
-- corps-et-ame
-- l-esprit-humain
-- conscience-humaine
-- neurophilosophie
+- neurologie
+- esprit-humain
 coverImage: ./images/quora.png
 ---
 

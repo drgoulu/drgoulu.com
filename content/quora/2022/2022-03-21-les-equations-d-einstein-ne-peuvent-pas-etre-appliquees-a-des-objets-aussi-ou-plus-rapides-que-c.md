@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- vitesse-supraluminique
-- equations-de-terrain-d-einstein
-- relativite-generale
-- equations
-- theories-physiques
 - physique-theorique
-- vitesse-de-la-lumiere
-- relativite-restreinte
-- relativite-physique
+- relativite
+- lumiere
+- vitesse
 coverImage: ./images/quora.png
 ---
 

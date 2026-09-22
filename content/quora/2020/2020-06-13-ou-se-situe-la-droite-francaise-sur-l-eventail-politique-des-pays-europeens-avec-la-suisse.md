@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - france
-- droite-politique
-- pays-europeens
-- politique-francaise
 - suisse
-- spectre-politique
-- politique-comparative
+- politique-francaise
 - sciences-politiques
-- analyse-politique
 coverImage: ./images/qimg-78560bf528ae3bc8862aba848e254d75.gif
 ---
 

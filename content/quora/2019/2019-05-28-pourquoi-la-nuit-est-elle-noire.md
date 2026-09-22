@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- etoiles-astronomie
-- espace
-- lumiere-du-soleil
 - astronomie
-- la-nuit
-- l-univers
-- lumiere-physique
 - astrophysique
+- univers
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espace-temps
-- vitesse-de-la-lumiere
-- seconde
-- relativite-generale
-- temps-dimension
 - physique-theorique
-- relativite-restreinte
-- dimensions-physique
-- relativite-physique
+- relativite
+- lumiere
+- vitesse
 coverImage: ./images/quora.png
 ---
 

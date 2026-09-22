@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- psychologie
-- kamikaze-pilots
-- guerre-du-pacifique-seconde-guerre-mondiale
-- contenu-adulte
-- japon
 - histoire
-- suicide
-- croyances
-- vie-apres-la-mort
 - religion
+- psychologie
+- croyance
+- contenu-adulte
 coverImage: ./images/quora.png
 ---
 

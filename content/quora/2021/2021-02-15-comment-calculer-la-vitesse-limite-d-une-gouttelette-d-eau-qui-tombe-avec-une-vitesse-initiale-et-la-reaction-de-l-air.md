@@ -7,14 +7,9 @@ categories:
 - Comment
 tags:
 - physique
-- goutte-de-pluie
-- vitesse-terminale
-- calculs
-- resistance-a-l-air
-- mecanique-des-fluides
-- mouvement-physique
-- vitesse-physique
-- effet-de-l-air
+- vitesse
+- mecanique
+- mouvement
 - calcul
 coverImage: ./images/quora.png
 ---

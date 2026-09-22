@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- energie-nucleaire
 - russie
 - risque-et-risques
-- desastre-nucleaire-de-tchernobyl-avril-1986
-- energie-nucleaire
-- securite-nationale
-- tchernobyl
 - catastrophes-nucleaires
-- centrale-nucleaire-de-tchernobyl
-- les-centrales-nucleaires
-- reacteurs-nucleaires
+- centrales-nucleaires
 coverImage: ./images/quora.png
 ---
 

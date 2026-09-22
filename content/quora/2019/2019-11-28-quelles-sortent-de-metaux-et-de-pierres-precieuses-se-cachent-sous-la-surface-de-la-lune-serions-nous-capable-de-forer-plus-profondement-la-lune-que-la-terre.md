@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- astronomie
 - exploration-spatiale
-- forage
-- lune-astronomie
+- lune
 - geologie
-- pierres-precieuses
-- mineraux
-- ressources-planetaire
-- exploration-de-la-lune
-- metaux-precieux
-- geologie-planetaire
+- exploration
 coverImage: ./images/quora.png
 ---
 

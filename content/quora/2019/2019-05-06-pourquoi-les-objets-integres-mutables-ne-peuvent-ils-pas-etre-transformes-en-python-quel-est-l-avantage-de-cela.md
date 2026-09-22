@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- langages-de-programmation
-- objet
-- immuable
-- constructeur-programmation-orientee-objet
-- objets-inconnus
+- programmation
+- langage
+- python
 - python-langage-de-programmation
-- objets-fragiles
-- programmation-orientee-objet
-- programmation-en-python
-- langage-de-programmation
+- objet
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- france
-- opinion-publique
-- politique-francaise
-- demission
-- reforme
-- gouvernement
 - politique
-- opinion-politique
-- demissions
-- reforme-politique
+- france
+- opinion
+- opinion-publique
+- gouvernement
 coverImage: ./images/quora.png
 ---
 

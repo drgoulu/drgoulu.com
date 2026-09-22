@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- travail-emploi
+- futur
 - intelligence-artificielle
-- ia
-- productivite
-- credit-bancaire
-- emplois
-- activite-professionnelle
-- synthese
-- automatisation
-- futur-du-travail
+- travail
+- emploi
+- travail-emploi
 coverImage: ./images/quora.png
 ---
 

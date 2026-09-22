@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- philosophie
-- epistemologie
 - sciences
-- la-methode-scientifique
-- histoire-et-philosophie-des-sciences
+- histoire
+- philosophie
 - theorie-scientifique
-- philosophie-et-science
-- philosophie-des-sciences
-- la-philosophie-des-sciences
-- sciences-et-philosophie
+- epistemologie
 coverImage: ./images/qimg-583b4c414224ed4cea90532affe8d08c.jpg
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- paleontologie
-- extinction-des-especes
-- histoire-de-la-terre
-- dinosaures
-- periodes-de-temps
-- meteorite
-- evenements-anciens
-- echelle-des-temps-geologiques
-- extinction-massive
-- evenements-d-extinction
+- histoire
+- terre
+- temps
+- especes
+- extinction
 coverImage: ./images/quora.png
 ---
 

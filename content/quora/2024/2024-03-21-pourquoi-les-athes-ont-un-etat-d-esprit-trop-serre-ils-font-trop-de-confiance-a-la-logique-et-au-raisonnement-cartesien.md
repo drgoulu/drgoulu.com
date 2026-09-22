@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - philosophie
+- psychologie
 - croyance
-- raison
-- esprit-humain
-- pensee-rationnelle
+- logique
 - atheisme
-- raisonnement-logique
-- logique-philosophie
-- philosophie-et-psychologie
-- pensee-logique
 coverImage: ./images/quora.png
 ---
 

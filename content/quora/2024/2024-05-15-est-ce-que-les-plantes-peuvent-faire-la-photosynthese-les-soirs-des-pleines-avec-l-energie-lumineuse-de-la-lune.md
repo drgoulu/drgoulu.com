@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-nature
-- lune-astronomie
-- energie-lumineuse
-- les-plantes
-- photosynthese
-- lumiere-du-soleil
-- physiologie-vegetale
-- phases-lunaires
-- sciences-vegetales
-- la-biologie-vegetal
+- sciences
+- astronomie
+- nature
+- lumiere
+- soleil
 coverImage: ./images/quora.png
 ---
 

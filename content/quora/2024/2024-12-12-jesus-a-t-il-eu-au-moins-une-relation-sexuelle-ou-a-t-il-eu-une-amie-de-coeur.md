@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- amour
+- vie
 - christianisme
-- personnages-bibliques
-- sexualite
-- new-testament
+- bible
 - jesus
-- vie-personnelle
-- la-bible
-- vie-de-jesus
 coverImage: ./images/quora.png
 ---
 

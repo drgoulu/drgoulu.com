@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- experiences-personnelles
-- pays
-- securite
-- voyage-international
-- touristes
-- dangers
-- experiences
 - voyage
-- danger-et-dangers
-- securite-personnelle
+- securite
+- experience
+- pays
+- experiences-personnelles
 coverImage: ./images/quora.png
 ---
 

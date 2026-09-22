@@ -8,13 +8,9 @@ categories:
 tags:
 - mathematiques
 - nombres
-- spirale
-- ratio-d-or-phi
-- le-nombre-pi
-- geometrie-plane
-- nombres-irrationnels
-- spirale-dynamique
 - geometrie
+- nombre-pi
+- nombres-irrationnels
 coverImage: ./images/quora.png
 ---
 

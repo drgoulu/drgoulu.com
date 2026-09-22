@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- emplois
-- marche-du-travail
-- conseils-de-carriere
-- recherche-d-emploi
+- recherche
+- conseils
+- travail
 - emploi
-- conseils-de-recherche-d-emploi
-- chercheurs-d-emploi
-- recherche-de-travail
-- marche-de-l-emploi
-- recherches-d-emploi
+- carriere
 coverImage: ./images/quora.png
 ---
 

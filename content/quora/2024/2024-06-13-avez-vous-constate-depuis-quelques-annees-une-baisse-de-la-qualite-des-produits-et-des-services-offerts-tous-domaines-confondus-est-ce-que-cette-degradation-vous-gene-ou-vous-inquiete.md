@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- opinion
+- questions
 - opinion-publique
+- consommation
 - sondages
-- consommateur
-- mauvaise-qualite
-- questions-d-opinion
-- produits-et-services-de-consommation
-- management-de-qualite
-- qualite-de-service
-- opinion-generale
-- evalution-de-la-qualite
 coverImage: ./images/quora.png
 ---
 

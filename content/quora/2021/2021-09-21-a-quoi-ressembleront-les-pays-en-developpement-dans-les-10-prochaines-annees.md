@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- predictions
-- developpement
-- futur
 - evolution
-- defis
-- croissance-economique
-- les-pays-en-voie-de-developpement
-- developpement-economique
-- futur-du-monde
+- monde
+- futur
+- developpement
+- predictions
 coverImage: ./images/qimg-4a4a36728da11cc70b8372af73254634.jpg
 ---
 

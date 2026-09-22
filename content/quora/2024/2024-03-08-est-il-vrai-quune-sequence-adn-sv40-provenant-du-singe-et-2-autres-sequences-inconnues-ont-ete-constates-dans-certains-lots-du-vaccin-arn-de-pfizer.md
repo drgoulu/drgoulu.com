@@ -9,11 +9,7 @@ tags:
 - theories-du-complot
 - genetique
 - vaccins
-- pfizer-entreprise
-- adn
-- la-desinformation
 - vaccination
-- biologie-moleculaire
 - vaccin-covid-19
 coverImage: ./images/quora.png
 ---

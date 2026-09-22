@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- adn
-- pharaons
-- egypte-ancienne
-- genealogie-genetique
-- archeologie
-- civilisations-anciennes
-- adn-ancien
 - genetique
-- l-egyptologie-antique
+- archeologie
+- egypte-ancienne
+- adn
 coverImage: ./images/quora.png
 ---
 

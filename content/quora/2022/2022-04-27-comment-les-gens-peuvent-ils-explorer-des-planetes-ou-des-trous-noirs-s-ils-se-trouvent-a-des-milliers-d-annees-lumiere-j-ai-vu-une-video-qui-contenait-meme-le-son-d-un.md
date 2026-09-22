@@ -7,13 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- trous-noirs
-- son
-- exploration-spatiale
 - astronomie
-- videos
-- cosmologie
 - astrophysique
+- cosmologie
+- exploration-spatiale
 coverImage: ./images/qimg-e1f2f649f40d3b4c2f8a97a269449121.jpg
 ---
 

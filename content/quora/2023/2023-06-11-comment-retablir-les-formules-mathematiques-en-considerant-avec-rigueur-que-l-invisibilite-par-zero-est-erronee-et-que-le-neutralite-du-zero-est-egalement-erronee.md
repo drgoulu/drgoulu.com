@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- philosophie
 - mathematiques
-- division-par-zero
-- nullite
-- erreurs-logiques
-- le-zero
-- problemes-mathematiques
-- formules-mathematiques
-- philosophie-des-mathematiques
-- equations-mathematiques
-- questions-de-mathematiques
+- questions
+- probleme
+- equations
 coverImage: ./images/quora.png
 ---
 

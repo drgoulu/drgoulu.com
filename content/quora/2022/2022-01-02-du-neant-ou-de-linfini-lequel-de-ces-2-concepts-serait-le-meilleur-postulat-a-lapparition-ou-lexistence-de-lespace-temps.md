@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- neant
-- espace-temps
-- infini-mathematiques
-- expansion-de-l-univers
-- metaphysique
-- existence
+- mathematiques
+- univers
 - cosmologie
-- origine-de-l-univers
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

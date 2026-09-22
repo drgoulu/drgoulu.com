@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- energie-physique
-- developpement-durable
+- physique
+- energie
+- economie
 - energie-renouvelable
-- batiments
-- transition-energetique
-- energie-alternative
-- autonomie-energetique
-- technologie-durable
-- energies-fossiles
-- energie-economie
+- developpement-durable
 coverImage: ./images/quora.png
 ---
 

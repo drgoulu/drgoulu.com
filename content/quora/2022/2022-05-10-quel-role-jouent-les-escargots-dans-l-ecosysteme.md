@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - biologie
-- escargots
-- role-social
 - faune
 - environnement
-- ecosysteme-aquatique
 - zoologie
 - biologie-animale
-- ecosystemes
 coverImage: ./images/quora.png
 ---
 

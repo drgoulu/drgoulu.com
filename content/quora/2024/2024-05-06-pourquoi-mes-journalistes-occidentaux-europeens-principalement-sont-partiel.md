@@ -8,14 +8,9 @@ categories:
 tags:
 - opinion-publique
 - medias
-- l-europe
-- journalisme
-- parti-pris
+- europe
 - occident
-- journalistes
-- opinions-societales
-- communication-publique
-- information-publique
+- journalisme
 coverImage: ./images/quora.png
 ---
 

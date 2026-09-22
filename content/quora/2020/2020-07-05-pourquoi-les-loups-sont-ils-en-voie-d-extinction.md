@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- l-environnement
-- loups
-- faune
+- environnement
+- nature
+- especes
 - ecologie
-- extinction-des-especes
-- biodiversite
-- conservation-de-la-nature
-- gestion-de-la-faune
 - extinction
-- conservation-de-la-faune
 coverImage: ./images/quora.png
 ---
 

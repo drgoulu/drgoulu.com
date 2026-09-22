@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - mathematiques
-- nombres-positifs
-- theorie-des-nombres-premiers
-- ecriture-de-numeros
-- arithmetique-elementaire
-- nombres-pairs
+- theorie
+- nombres
+- nombres-premiers
 - nombres-naturels
-- arithmetique
-- theorie-des-nombres
 coverImage: ./images/quora.png
 ---
 

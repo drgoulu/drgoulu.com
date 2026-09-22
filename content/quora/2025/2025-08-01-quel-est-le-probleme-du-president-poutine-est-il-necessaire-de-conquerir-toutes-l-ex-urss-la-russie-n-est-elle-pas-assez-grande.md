@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
+- geographie
 - russie
-- vladimir-poutine
+- politique-etrangere
 - geopolitique
-- urss
-- ambitions-territoriales-espagnoles
-- securite-territoriale
-- politique-etrangere-de-la-russie
-- conquete-de-territoires
-- geographie-politique
-- la-politique-de-la-russie
 coverImage: ./images/quora.png
 ---
 

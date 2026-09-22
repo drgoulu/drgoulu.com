@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
+- planetes
 - recherche-scientifique
-- alpha-centauri
-- etoiles-corps-celestes
 - systeme-solaire
-- exoplanetes
-- proxima-centauri
-- planetes-astronomie
-- recherche-spatiale
-- etude-scientifique
+- etoiles-corps-celestes
 coverImage: ./images/quora.png
 ---
 

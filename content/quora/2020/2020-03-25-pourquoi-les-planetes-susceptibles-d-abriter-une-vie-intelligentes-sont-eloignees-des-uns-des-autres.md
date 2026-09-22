@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
 - sciences
 - astronomie
 - espace
-- habitabilite-planetaire
-- distance-physique
 - vie-extraterrestre
-- exoplanetes
-- civilisations-extraterrestres
-- planetes-habitables
-- astrobiologie
 coverImage: ./images/quora.png
 ---
 

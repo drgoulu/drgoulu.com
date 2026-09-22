@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
+- evolution
 - environnement
-- evolution-processus
-- consommateurs
-- oxygene
-- sciences-de-l-atmosphere
-- bacterie
-- regulation
+- processus
 - atmosphere
-- bacteriologie
 coverImage: ./images/qimg-1956cb3cd203e75186366582b960213b.jpg
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- ondes
 - electromagnetisme
-- micro-onde
-- frequence
-- ondes-radio
 - champs-electromagnetiques
-- radiofrequence
-- frequence-physique
+- ondes
+- frequence
 coverImage: ./images/quora.png
 ---
 

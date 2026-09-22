@@ -8,13 +8,9 @@ categories:
 tags:
 - societe
 - opinion-publique
-- trisomie-21
 - ethique-medicale
-- avortement
-- grossesse
-- choix-de-vie
-- les-parents
-- parents-jeunes
+- choix
+- vie
 coverImage: ./images/quora.png
 ---
 

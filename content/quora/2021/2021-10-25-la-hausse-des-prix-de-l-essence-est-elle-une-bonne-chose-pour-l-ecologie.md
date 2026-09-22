@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- energie
+- environnement
 - changement-climatique
-- l-environnement
 - ecologie
-- prix-de-l-essence-et-du-gazole
 - energie-renouvelable
-- developpement-durable
-- consommation-de-carburant
-- prix-de-l-energie
-- consommation-d-energie
-- le-changement-climatique
 coverImage: ./images/quora.png
 ---
 

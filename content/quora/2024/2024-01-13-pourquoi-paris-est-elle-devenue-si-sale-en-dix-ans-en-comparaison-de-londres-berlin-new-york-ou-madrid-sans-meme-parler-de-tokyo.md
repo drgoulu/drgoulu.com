@@ -8,14 +8,9 @@ categories:
 tags:
 - comparaisons
 - paris-france
-- villes
+- ville
 - pollution
-- londres
 - proprete
-- new-york
-- madrid-espagne
-- berlin
-- tokyo
 coverImage: ./images/quora.png
 ---
 

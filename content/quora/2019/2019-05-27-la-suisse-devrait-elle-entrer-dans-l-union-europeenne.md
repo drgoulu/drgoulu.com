@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- relations-internationales
 - suisse
+- relations-internationales
 - union-europeenne
 - positions-politiques
-- integration-europeenne
-- politique-europeenne
-- expansion-de-l-ue
 - discussions-politiques
-- questions-internationales
-- elargissement-de-l-union-europeenne
 coverImage: ./images/quora.png
 ---
 

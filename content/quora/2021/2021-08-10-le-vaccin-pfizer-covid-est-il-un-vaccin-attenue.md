@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- vaccins-a-arnm
-- pfizer-entreprise
-- vaccination
-- maladies-virales
-- vaccin-covid-19
 - vaccins
-- immunisations
+- vaccination
+- vaccin-covid-19
+- maladies-virales
 coverImage: ./images/quora.png
 ---
 

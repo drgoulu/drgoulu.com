@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- france
 - histoire
+- france
 - opinion-publique
 - russie
-- prejuge
-- stereotypes
-- allemagne-nazie
-- la-seconde-guerre-mondiale
-- union-sovietique
-- histoire-de-la-russie
+- seconde-guerre-mondiale
 coverImage: ./images/quora.png
 ---
 

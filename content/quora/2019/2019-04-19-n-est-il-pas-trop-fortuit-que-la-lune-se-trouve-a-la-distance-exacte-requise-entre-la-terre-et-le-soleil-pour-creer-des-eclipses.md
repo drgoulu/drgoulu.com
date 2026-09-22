@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- le-soleil
-- la-terre
+- soleil
+- terre
 - phenomenes-naturels
-- eclipse-de-lune
-- lune-astronomie
-- eclipse
-- phenomenes-optiques
-- eclipse-solaire
+- lune
 coverImage: ./images/quora.png
 ---
 

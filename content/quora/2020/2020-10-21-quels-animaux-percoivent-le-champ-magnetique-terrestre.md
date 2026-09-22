@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - biologie
+- vie
+- nature
 - animaux
-- champ-magnetique-terrestre
-- sciences-de-la-nature
-- perception-sensorielle-et-spatiale
-- physiologie-animale
-- biologie-animale
-- sciences-de-la-vie
-- sciences-des-animaux
-- sciences-du-vivant
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- aiguille-horlogerie
-- question-hypothetique
+- mathematiques
+- temps
 - vitesse
-- pensee
-- infini-mathematiques
-- mouvement-circulaire
-- horloges
-- temps-physique
-- mouvement-physique
+- question-hypothetique
 coverImage: ./images/quora.png
 ---
 

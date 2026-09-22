@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- scenarios-hypothetiques
-- electricite
-- consequences
 - monde
+- electricite
 - catastrophes
-- pannes-de-courant
-- consequences-economiques
-- le-monde
-- scenarios-economiques-hypothetiques
-- scenarios-technologiques-hypothetiques
+- scenarios-hypothetiques
+- consequences
 coverImage: ./images/quora.png
 ---
 

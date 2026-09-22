@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- eau
-- espace
-- lune-astronomie
 - astronomie
-- piscines
+- espace
 - gravite
-- atmosphere-lunaire
-- orbite-lunaire
-- gravite-physique
+- eau
 coverImage: ./images/quora.png
 ---
 

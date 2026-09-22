@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- sel
+- economie
+- eau
 - ressources-naturelles
-- evaporation
-- l-eau-de-mer
-- econometrie
-- ebullition
-- sel-de-mer
 - histoire-humaine
-- economies
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- surpopulation
-- l-environnement
-- humanite
-- crise-climatique
-- demographie-mondiale
-- politique-de-l-enfant-unique
-- demographie
+- environnement
 - changement-climatique
-- le-rechauffement-climatique
+- rechauffement-climatique
+- humanite
 coverImage: ./images/qimg-ef12e330e70966179283801740f27060.jpg
 ---
 

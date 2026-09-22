@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- recherche-scientifique
-- etoiles-corps-celestes
-- distance-physique-et-mathematique
-- l-univers-astronomie
 - astrophysique
-- annees-lumiere-distance-astronomique
-- galaxies
-- etoiles
+- mathematiques
+- univers
+- recherche-scientifique
 coverImage: ./images/qimg-7fbf6520ed387afe28b27bf208a9a2e0.jpg
 ---
 

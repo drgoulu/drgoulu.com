@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - biologie
-- creation
+- vie
 - recherche-scientifique
-- ethique-medicale
-- la-vie-artificielle
-- genetique
-- origine-de-la-vie
-- laboratoires
-- ingenierie-genetique
+- origines
 coverImage: ./images/quora.png
 ---
 

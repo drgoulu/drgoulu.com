@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- communication
-- visualisation-de-donnees
-- representation
-- donnees
-- graphiques
-- information
 - statistiques
-- analyse-des-donnees
-- visualisation
-- representation-visuelle
+- information
+- donnees
+- communication
+- analyse
 coverImage: ./images/qimg-8db5bc80675683adcabcd597ce01bbe7.jpg
 ---
 

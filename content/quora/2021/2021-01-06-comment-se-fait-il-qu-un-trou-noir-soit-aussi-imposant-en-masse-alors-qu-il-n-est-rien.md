@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- trous-noirs
-- espace
+- sciences
 - astronomie
-- corps-celestes
-- objets-astronomiques
-- masse-physique
-- cosmologie
 - astrophysique
-- science-physique
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

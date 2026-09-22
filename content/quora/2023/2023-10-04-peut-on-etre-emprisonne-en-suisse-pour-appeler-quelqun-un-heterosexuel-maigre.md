@@ -9,13 +9,8 @@ tags:
 - criminalite
 - liberte-d-expression
 - suisse
-- insultes
-- homophobie
-- peine-de-prison
-- jurisprudence
-- justice-suisse
-- insulte-formulee-comme-une-question
-- droit-suisse
+- peine
+- prison
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- isaac-newton
-- explications
 - sciences
-- mecanique-newtonienne
-- simplicite
-- les-citations
+- philosophie
 - nature
-- philosophie-des-sciences
+- explications
+- isaac-newton
 coverImage: ./images/quora.png
 ---
 

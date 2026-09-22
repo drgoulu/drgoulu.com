@@ -7,13 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- ondes
-- dualite-onde-particule
-- photons
-- vitesse-de-la-lumiere
-- masse-physique
-- radiation
+- lumiere
+- vitesse
 - physique-quantique
+- masse-physique
 coverImage: ./images/quora.png
 ---
 

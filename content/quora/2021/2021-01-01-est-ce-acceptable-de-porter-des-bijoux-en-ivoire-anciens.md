@@ -7,12 +7,9 @@ categories:
 - Quora
 tags:
 - ethique
-- bijoux-anciens
-- ivoire
 - conservation
-- commerce-de-marchandises
-- defense-des-animaux
-- objet-precieux
+- defense
+- animaux
 - artefacts-anciens
 coverImage: ./images/quora.png
 ---

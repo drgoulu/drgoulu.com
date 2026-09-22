@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- suisse
 - relations-internationales
 - russie
-- '2022'
-- invasion-russe-de-l-ukraine-fevrier-2022
-- suisse
 - politique-etrangere
 - diplomatie-et-relation-internationale
-- relations-internationales-europeennes
-- relations-internationales-et-diplomaties
 coverImage: ./images/quora.png
 ---
 

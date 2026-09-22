@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- grandes-theories-unifiees
+- theorie
+- physique-theorique
 - recherche-scientifique
 - modele-standard-de-la-physique-des-particules
-- theorie
-- theorie-du-champ-unifie
-- physique-theorique
-- demarche-scientifique
-- travail-scientifique
 coverImage: ./images/quora.png
 ---
 

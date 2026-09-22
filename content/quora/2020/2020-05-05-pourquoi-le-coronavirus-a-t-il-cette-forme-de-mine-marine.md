@@ -6,15 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sante
-- covid-19-2019-2020
 - sciences
-- virus
 - biologie
-- maladies-infectieuses
+- sante
 - medecine
-- virologie
-- maladie
 - biologie-humaine
 coverImage: ./images/qimg-d4a6864bec450720294ae51deb95c748.jpg
 ---

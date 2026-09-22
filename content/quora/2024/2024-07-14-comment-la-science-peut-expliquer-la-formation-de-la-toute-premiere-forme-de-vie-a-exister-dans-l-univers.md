@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- evolution-processus
+- evolution
 - biologie
-- l-univers
-- hypotheses-scientifiques
-- abiogenese
-- origine-de-la-vie
-- theorie-scientifique
-- sciences-de-la-vie
-- evolution-biologie
+- univers
+- vie
 coverImage: ./images/quora.png
 ---
 

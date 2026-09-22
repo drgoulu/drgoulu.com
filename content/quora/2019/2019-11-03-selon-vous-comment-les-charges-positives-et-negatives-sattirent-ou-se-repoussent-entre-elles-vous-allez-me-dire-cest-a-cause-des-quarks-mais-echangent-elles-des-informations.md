@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- loi-de-gauss-electrostatique
-- quarks
-- interaction-elementaire
 - electricite
-- theorie-quantique-des-champs
 - particules
-- force-electromagnetique
-- la-charge-electrique
-- electrostatique
+- forces-electromagnetiques
+- theorie-quantique-des-champs
 coverImage: ./images/quora.png
 ---
 

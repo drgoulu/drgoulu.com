@@ -9,13 +9,8 @@ tags:
 - mathematiques
 - algebre-lineaire
 - systeme
-- systeme-non-lineaire
-- equations-lineaires
-- modele-lineaire
 - equations
-- algebre-vectorielle
-- sciences-mathematiques
-- systemes-lineaires
+- sciences
 coverImage: ./images/quora.png
 ---
 

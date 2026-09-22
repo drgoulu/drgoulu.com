@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- philosophie
-- question-existentielle
 - sciences
-- univers-observable
-- astrobiologie
-- vie-extraterrestre
-- l-univers
-- cosmologie
 - astronomie
-- philosophie-des-sciences
+- philosophie
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

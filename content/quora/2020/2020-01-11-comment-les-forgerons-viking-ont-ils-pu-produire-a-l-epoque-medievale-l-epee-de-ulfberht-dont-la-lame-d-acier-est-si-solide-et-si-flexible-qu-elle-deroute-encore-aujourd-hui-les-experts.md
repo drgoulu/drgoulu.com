@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - histoire
-- forgeron
 - epees
 - acier
 - travail-du-metal
 - armes
-- vikings
-- haut-moyen-age
-- metallurgie
-- epoque-medievale
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- convention-sociale
-- histoire-de-l-electricite
-- sens-des-mots
-- courant-continu
-- circuit-electrique
-- electrotechnique
-- convention
-- le-courant-electrique
+- histoire
 - electricite
+- sens
+- mot
 coverImage: ./images/quora.png
 ---
 

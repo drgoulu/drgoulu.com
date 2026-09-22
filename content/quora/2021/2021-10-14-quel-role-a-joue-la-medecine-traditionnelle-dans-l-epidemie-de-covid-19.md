@@ -8,14 +8,9 @@ categories:
 tags:
 - sante-publique
 - covid-19-2019-2020
-- pandemie
 - maladies-infectieuses
+- pandemie
 - traitements
-- medecine-traditionnelle-chinoise
-- medecine-ancienne
-- traitements-traditionnel
-- medecine-traditionnelle
-- sante-publique-mondiale
 coverImage: ./images/quora.png
 ---
 

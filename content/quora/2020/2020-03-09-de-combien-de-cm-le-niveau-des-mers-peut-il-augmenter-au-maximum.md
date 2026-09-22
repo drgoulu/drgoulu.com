@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- sciences
 - changement-climatique
-- niveau-de-la-mer
-- oceanographie
-- glaciologie
 - rechauffement-climatique
-- sciences-de-la-mer
 - crise-climatique
-- le-rechauffement-climatique
-- hausse-du-niveau-de-la-mer
-- changement-du-climat
+- climats
 coverImage: ./images/quora.png
 ---
 

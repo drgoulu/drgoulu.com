@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
 - question-philosophique
 - espace-temps
-- mecanique-quantique
-- la-realite
-- theorie-quantique-des-champs
-- structure-espace-temps
-- idees-philosophiques
-- questions-principales-de-la-philosophie
-- philosophie-de-la-mecanique-quantique
 - physique-quantique
+- realite
 coverImage: ./images/quora.png
 ---
 

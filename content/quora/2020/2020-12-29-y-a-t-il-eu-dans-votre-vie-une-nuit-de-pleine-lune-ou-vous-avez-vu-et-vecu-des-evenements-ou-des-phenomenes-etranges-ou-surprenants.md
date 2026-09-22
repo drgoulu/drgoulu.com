@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- experiences-personnelles
+- experience
 - observation
-- pleine-lune
+- phenomene
 - mysteres
-- experiences
-- la-nuit
-- phenomenes-inexpliques
-- phenomenes
-- evenements-mysterieux
-- experiences-etranges
+- experiences-personnelles
 coverImage: ./images/quora.png
 ---
 

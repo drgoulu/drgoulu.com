@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- 1i-oumuamua
-- exploration-spatiale
 - astrophysique
-- objets-astronomiques
-- voyage-dans-l-espace
-- technologie-spatiale
-- voyage-interstellaire
+- espace
+- exploration-spatiale
 - science-spatiale
-- missions-spatiales
 coverImage: ./images/quora.png
 ---
 

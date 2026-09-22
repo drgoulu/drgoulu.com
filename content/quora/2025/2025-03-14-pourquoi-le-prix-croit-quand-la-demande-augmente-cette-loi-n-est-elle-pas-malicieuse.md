@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- loi
 - prix
 - economie-generale
-- demande
-- l-offre-et-la-demande-economie
 - analyse-economique
-- macroeconomie
-- prix-de-vente
-- loi-de-la-demande
-- courbe-de-demande
-- microeconomie
+- ventes
 coverImage: ./images/quora.png
 ---
 

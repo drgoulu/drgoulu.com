@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
-- espace
 - astronomie
-- explosions
-- phenomene
-- cosmologie
 - astrophysique
+- cosmologie
 - physique-theorique
 coverImage: ./images/quora.png
 ---

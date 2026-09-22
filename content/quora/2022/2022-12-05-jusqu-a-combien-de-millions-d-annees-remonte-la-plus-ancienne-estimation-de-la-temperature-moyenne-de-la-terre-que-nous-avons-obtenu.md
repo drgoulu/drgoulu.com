@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- histoire
+- terre
 - recherche-scientifique
 - climatologie
-- echelle-des-temps-geologiques
-- estimation-statistiques
-- histoire-de-la-terre
-- mesures-de-temperature
-- paleoclimatologie
-- donnees-scientifiques
-- observation-scientifique
+- temperatures
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - electricite
-- isolation
-- haute-tension
-- isolants-electriques
-- distribution-de-l-energie-electrique
+- distribution
+- energie-electrique
 - securite-electrique
-- lignes-electriques
 - electrotechnique
-- ingenierie-electrique
 coverImage: ./images/quora.png
 ---
 

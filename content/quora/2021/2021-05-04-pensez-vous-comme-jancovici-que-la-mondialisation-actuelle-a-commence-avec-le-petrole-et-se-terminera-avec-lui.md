@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- opinion-personnelle
+- physique
+- energie
 - opinion
-- personne
-- energie-physique
 - debat
-- globalisation
-- petrole
-- opinions
-- mondialisation
-- petrole-energie-fossile
+- personne
 coverImage: ./images/quora.png
 ---
 

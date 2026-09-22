@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-nature
-- plante
-- lumiere-artificielle
-- photosynthese
-- les-plantes
-- physiologie-vegetale
+- sciences
+- nature
 - science-biologique
-- sciences-vegetales
 - sciences-du-vivant
+- plantes
 coverImage: ./images/quora.png
 ---
 

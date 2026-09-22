@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-humaine
-- anthropologie
+- histoire
 - evolution
-- paleontologie
-- extinction-des-especes
+- humanite
 - evolution-humaine
-- races-humaines
-- histoire-de-l-humanite
-- paleoanthropologie
+- especes
 coverImage: ./images/quora.png
 ---
 

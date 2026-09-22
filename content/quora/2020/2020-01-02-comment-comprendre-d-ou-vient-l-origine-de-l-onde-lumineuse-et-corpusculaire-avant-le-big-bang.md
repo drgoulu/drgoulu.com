@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- origine-de-l-univers
+- univers
 - cosmologie
-- lumiere-physique
-- theorie-de-la-relativite
-- physique-quantique
+- theorie
 - physique-theorique
-- cosmologie-du-big-bang
-- cosmologie-physique
 coverImage: ./images/qimg-8905e4ced687ec88c11b8274edbfb55e.jpg
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - tourisme-guide-touristique
-- singapour
-- jardin
+- plantes
 - sites-touristiques
-- tourisme-a-singapour
+- tourisme
 - destinations-touristiques
-- attraits-touristiques
-- jardin-des-plantes
-- lieux-touristiques
 coverImage: ./images/qimg-d6e556f11e9c09baa406b88d89285416.jpg
 ---
 

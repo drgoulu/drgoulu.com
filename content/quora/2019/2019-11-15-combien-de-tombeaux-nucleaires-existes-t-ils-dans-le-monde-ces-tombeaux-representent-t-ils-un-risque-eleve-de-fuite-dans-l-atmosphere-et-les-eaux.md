@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- risques-pour-la-sante
+- sante
 - energie-nucleaire
-- risque-et-risques
+- risques
 - radioactivite
-- armes-nucleaires
-- menace-nucleaire
-- dechets-nucleaires
-- technologie-nucleaire
-- radiation-nucleaire
+- risque-et-risques
 coverImage: ./images/quora.png
 ---
 

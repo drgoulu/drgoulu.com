@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- energie
 - france
-- economies-d-energie
-- finlandais
-- reservoirs-de-stockage
-- politique-energetique-francaise
-- finlande
+- economie
+- production
 - stockage-d-energie
-- l-energie-electrique
-- technologie-energetique
-- production-d-energie
 coverImage: ./images/quora.png
 ---
 

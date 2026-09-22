@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- nuclear-fusion
-- energie-libre
-- entropie-thermodynamique
-- friction
-- energie-physique
-- lois-de-la-physique
+- energie
+- loi
 - thermodynamique
-- energie-infinie
+- entropie-thermodynamique
 coverImage: ./images/quora.png
 ---
 

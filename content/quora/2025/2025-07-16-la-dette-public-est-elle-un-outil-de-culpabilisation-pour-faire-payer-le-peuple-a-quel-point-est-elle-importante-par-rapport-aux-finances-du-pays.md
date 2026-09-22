@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- gestion-financiere
-- culpabilite
-- depenses-publiques
-- economie-generale
-- economie-politique
-- dette-publique
+- economie
+- gestion
 - finances-publiques
-- gestion-des-depenses
-- politique-economique
+- depenses-publiques
 coverImage: ./images/quora.png
 ---
 

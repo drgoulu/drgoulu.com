@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- intelligence-artificielle
 - comparaisons
+- intelligence-artificielle
+- calcul
 - sciences-informatiques
 - neuroscience
-- cerveau-humain
-- puissance-de-calcul
-- ordinateur-quantique
-- informatique-quantique
-- l-informatique-quantique
 coverImage: ./images/quora.png
 ---
 

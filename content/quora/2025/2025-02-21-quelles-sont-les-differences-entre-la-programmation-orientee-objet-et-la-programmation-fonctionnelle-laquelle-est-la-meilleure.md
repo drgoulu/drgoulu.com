@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - informatique
-- conception-orientee-objet
-- comparaisons-de-langage-de-programmation
-- programmation-imperative
-- paradigmes-de-programmation
-- programmation-fonctionnelle
-- langages-de-programmation
+- programmation
+- langage
+- comparaisons
 - sciences-informatiques
-- langages-orientes-objet
-- programmation-orientee-objet
 coverImage: ./images/quora.png
 ---
 

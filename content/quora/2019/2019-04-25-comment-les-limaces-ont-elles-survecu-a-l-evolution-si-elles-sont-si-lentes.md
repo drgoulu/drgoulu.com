@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- animaux
+- evolution
+- biologie
 - vitesse
-- evolution-processus
-- limaces
-- biologie-animale
-- adaptation
-- zoologie
-- evolution-biologie
-- evolution-animale
+- processus
+- animaux
 coverImage: ./images/quora.png
 ---
 

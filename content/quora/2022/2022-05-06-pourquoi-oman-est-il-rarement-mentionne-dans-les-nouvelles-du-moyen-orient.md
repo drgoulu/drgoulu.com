@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- monde
 - relations-internationales
-- pays
-- medias
-- oman
 - geographie
-- etats-arabes-du-golfe
-- le-moyen-orient
-- actualites
-- medias-d-information
-- actualites-du-monde
+- information
+- pays
 coverImage: ./images/quora.png
 ---
 

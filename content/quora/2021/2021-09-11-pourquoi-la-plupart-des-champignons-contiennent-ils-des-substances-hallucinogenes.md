@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - biologie
-- drogues-psychedeliques
-- champignons
 - substances
-- mycologie
 - pharmacologie
-- plantes-psychoactives
-- substances-hallucinogenes
 - science-biologique
-- chimie-biologie
+- chimie
 coverImage: ./images/quora.png
 ---
 

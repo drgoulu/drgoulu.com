@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs-supermassifs
 - astronomie
-- visibilite
-- science-spatiale
-- cosmologie
-- les-trous-noir
-- dimensions-physique
 - astrophysique
+- cosmologie
 - trous-noirs
 coverImage: ./images/quora.png
 ---

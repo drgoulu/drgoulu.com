@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- gaz
-- energie-nucleaire
-- les-fluides
-- thermodynamique
-- conversion-de-l-energie
-- energie-physique
-- energie-mecanique
 - energie
+- energie-nucleaire
+- thermodynamique
+- fluides
 coverImage: ./images/quora.png
 ---
 

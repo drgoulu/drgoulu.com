@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - religion
-- eve
 - connaissances
-- le-peche-originel
-- la-bible
+- bible
 - christianisme
-- livre-de-la-genese
-- adam-et-eve-personnages-bibliques
-- peche
-- genese
+- livres
 coverImage: ./images/quora.png
 ---
 

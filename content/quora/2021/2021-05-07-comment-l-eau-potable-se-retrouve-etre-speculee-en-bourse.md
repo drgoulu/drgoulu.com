@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- investissement
-- marches-financiers
+- eau
 - ressources-naturelles
-- gestion-de-l-eau
-- eau-potable
-- speculation-financiere
-- marche-des-commodites
+- gestion
+- investissement
 - gestion-des-resssources-naturelles
-- ressource-naturelle
 coverImage: ./images/quora.png
 ---
 

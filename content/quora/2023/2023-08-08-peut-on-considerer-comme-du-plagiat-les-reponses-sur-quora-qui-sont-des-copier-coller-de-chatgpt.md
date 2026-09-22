@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- reseaux-sociaux
-- plagiat
-- quora
 - ethique
 - intelligence-artificielle
+- quora
 - contenu
-- chatgpt
-- droit-dauteur
-- contenus-internet
-- plagiat-sur-quora
+- reseaux-sociaux
 coverImage: ./images/quora.png
 ---
 

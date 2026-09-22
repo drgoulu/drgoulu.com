@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- le-soleil
-- terre-planete
-- points-d-ebullition
+- sciences
 - astronomie
-- sciences-de-la-nature
-- relation-terre-soleil
-- temperatures
-- ebullition
-- physique-et-chimie
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

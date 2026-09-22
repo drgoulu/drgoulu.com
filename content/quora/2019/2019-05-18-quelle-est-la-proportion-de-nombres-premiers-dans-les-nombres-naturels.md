@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- nombres-positifs
-- proportion
-- theorie-des-nombres-premiers
-- ratio-et-proportion
+- theorie
+- nombres
+- nombres-premiers
 - nombres-naturels
-- theorie-analytique-des-nombres
-- theorie-des-nombres
-- theoreme-des-nombres-premiers
 coverImage: ./images/quora.png
 ---
 

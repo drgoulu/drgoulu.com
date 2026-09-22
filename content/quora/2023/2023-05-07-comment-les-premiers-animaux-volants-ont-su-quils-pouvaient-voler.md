@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- animaux
-- histoire-des-sciences
-- voler
-- evolution-processus
-- paleontologie
-- anatomie-animale
-- evolution-biologique-des-especes
+- sciences
+- histoire
 - evolution
-- paleobiologie
+- processus
+- animaux
 coverImage: ./images/quora.png
 ---
 

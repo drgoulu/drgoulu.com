@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- interpretation
-- comprehension-de-la-science
-- relativite-generale
-- forces-fondamentales
+- sciences
+- theorie
 - gravite
-- definition-scientifique
-- theories-de-la-gravitation
-- science-fondamentale
-- gravite-physique
+- gravitation
 coverImage: ./images/quora.png
 ---
 

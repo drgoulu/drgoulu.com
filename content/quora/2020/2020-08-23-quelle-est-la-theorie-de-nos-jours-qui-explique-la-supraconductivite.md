@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- supraconducteur
 - theorie
-- conductivite
-- physique-de-la-matiere-condensee
 - physique-theorique
-- science-physique
-- la-supraconductivite
-- physique-des-materiaux
-- supraconductivite
+- sciences
+- materiaux
 coverImage: ./images/quora.png
 ---
 

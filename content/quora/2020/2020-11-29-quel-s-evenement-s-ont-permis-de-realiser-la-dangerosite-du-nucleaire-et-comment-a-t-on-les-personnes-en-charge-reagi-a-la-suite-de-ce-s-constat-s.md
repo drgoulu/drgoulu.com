@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- questions
+- securite
 - risque-et-risques
 - catastrophes-nucleaires
-- gestion-de-crise
-- questions-de-securite
-- le-nucleaire
-- risque-technologique
-- accidents-nucleaires-civils
-- terrorisme-nucleaire
 - accident-nucleaire
-- les-catastrophes-nucleaires
 coverImage: ./images/quora.png
 ---
 

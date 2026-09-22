@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- scenarios-hypothetiques
-- histoire-du-monde
-- formation
-- catastrophes
+- histoire
 - theorie
-- civilisation
-- hypotheses
-- histoire-de-l-humanite
-- histoire-de-la-terre
+- terre
+- monde
 coverImage: ./images/qimg-cc09c715f20287681fbe57dd8af1eb37.png
 ---
 

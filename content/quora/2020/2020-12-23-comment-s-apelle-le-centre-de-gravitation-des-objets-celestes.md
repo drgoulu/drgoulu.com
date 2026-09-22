@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- corps-celestes
 - astronomie
-- centre-d-inertie
-- loi-universelle-de-la-gravitation
 - gravite
-- champ-gravitationnel
 - objets-astronomiques
-- forces-gravitationnelles
+- force-gravitationnelle
 coverImage: ./images/qimg-4f834210cf399893c26893a3f8d821cc.gif
 ---
 

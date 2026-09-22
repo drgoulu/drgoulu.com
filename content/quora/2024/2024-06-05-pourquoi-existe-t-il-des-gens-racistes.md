@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - psychologie
-- prejuge
-- groupes
-- comportement-humain
-- identite
-- racisme
-- theorie-sociale
 - sociologie
-- sociologie-et-psychologie
+- comportement-humain
+- groupes
+- identite
 coverImage: ./images/quora.png
 ---
 

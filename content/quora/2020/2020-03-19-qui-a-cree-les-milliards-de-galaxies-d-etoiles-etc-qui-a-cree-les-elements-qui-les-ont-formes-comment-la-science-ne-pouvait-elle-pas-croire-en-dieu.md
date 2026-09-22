@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- foi
-- etoiles-corps-celestes
-- dieu
-- la-creation-de-l-univers
-- elements-chimiques
+- univers
+- origines
 - galaxies
-- astronomy
-- origine-de-l-univers
+- etoiles-corps-celestes
 coverImage: ./images/quora.png
 ---
 

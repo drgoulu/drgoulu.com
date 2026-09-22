@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- philosophie
-- croyance
-- creationnisme
-- religion
-- la-vie
 - sciences
-- complexite
-- l-univers
-- science-et-religion
-- philosophie-des-sciences
+- philosophie
+- univers
+- vie
+- religion
 coverImage: ./images/quora.png
 ---
 

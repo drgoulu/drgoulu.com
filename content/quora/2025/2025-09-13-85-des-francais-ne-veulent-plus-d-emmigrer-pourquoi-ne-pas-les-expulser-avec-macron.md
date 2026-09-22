@@ -3,16 +3,11 @@ title: 85% des Français ne veulent plus d'émmigrer. Pourquoi ne pas les expuls
 date: 2025-09-13
 draft: true
 tags:
+  - politique
   - france
   - opinion-publique
   - politique-francaise
-  - immigration
-  - emmanuel-macron
-  - expulsion
-  - emigration
-  - migration
   - vie-politique-francaise
-  - politique-en-france
 categories:
   - Pourquoi
 slug: 85-des-francais-ne-veulent-plus-d-emmigrer-pourquoi-ne-pas-les-expulser-avec-macron

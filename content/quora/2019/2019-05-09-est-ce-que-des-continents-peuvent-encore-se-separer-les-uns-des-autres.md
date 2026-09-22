@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- formation
 - geologie
-- supercontinents
-- plaques-tectoniques
-- derive-des-continents
-- continents
 - geologie-planetaire
+- formation
 - geomorphologie
-- tectoniques-des-plaques
+- continents
 coverImage: ./images/qimg-156f148f338050673058616a8096cac0.jpg
 ---
 

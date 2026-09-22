@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- neant
-- espace-temps
-- l-univers
-- creation
+- philosophie
+- univers
 - cosmologie
 - physique-theorique
-- cosmologie-du-big-bang
-- philosophie-de-la-cosmologie
 coverImage: ./images/quora.png
 ---
 

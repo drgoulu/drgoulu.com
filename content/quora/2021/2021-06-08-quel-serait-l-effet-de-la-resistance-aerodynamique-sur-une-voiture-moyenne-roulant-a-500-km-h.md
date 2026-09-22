@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - vitesse
+- mecanique
 - voitures
-- resistance-a-l-air
-- ingenierie-automobile
 - aerodynamique
-- mecanique-des-fluides
-- resistance-physique
-- vitesse-physique
-- technologie-automobile
 coverImage: ./images/quora.png
 ---
 

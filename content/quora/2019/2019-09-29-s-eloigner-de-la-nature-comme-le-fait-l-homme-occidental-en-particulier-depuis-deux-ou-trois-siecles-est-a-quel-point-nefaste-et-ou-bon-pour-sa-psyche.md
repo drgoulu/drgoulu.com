@@ -7,13 +7,8 @@ categories:
 - Quora
 tags:
 - psychologie
-- monde-occidental
 - bien-etre
 - nature
-- homme-moderne
-- psyche-humaine
-- populations-occidentales
-- effets-psychologiques
 - psychologie-humaine
 - nature-humaine
 coverImage: ./images/quora.png

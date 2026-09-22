@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- univers-observable
-- forme
-- matiere-physique
 - physique
+- sciences
+- philosophie
+- univers
 - cosmologie
-- l-univers
-- energie-physique
-- physique-theorique
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

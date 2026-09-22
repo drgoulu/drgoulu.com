@@ -8,13 +8,8 @@ categories:
 tags:
 - physique
 - sciences
-- facteur-de-lorentz
-- relativite-restreinte
-- theorie-de-la-relativite
+- theorie
 - physique-theorique
-- relativite-generale
-- relativite-physique
-- physique-mathematique
 - relativite
 coverImage: ./images/quora.png
 ---

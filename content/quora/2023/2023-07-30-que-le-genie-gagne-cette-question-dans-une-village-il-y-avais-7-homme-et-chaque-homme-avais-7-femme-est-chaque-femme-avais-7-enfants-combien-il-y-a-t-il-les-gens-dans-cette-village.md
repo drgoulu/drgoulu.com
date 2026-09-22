@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - mathematiques
-- village
-- famille
-- population
-- calcul-mental
+- questions
 - demographie
-- resolution-de-problemes-en-mathematiques
 - calcul
-- problemes-mathematiques
-- questions-de-mathematiques
+- probleme
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - personnalites
-- cora-saint-avold
 - fait
 - personne
 - individus
-- faits-uniques
 - personne-reelle
-- la-personne-humaine
-- fait-general
-- faits-rares
 coverImage: ./images/quora.png
 ---
 

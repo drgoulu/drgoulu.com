@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- terre-planete
-- impact
-- vitesse-de-la-lumiere
-- objets-astronomiques
 - astrophysique
-- collision-physique
+- terre
 - physique-theorique
-- effet
 coverImage: ./images/quora.png
 ---
 

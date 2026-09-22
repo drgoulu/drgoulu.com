@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- trous-noirs
 - astronomie
-- preuves-scientifiques
-- gravitation
 - astrophysique
-- relativite
 - physique-theorique
-- decouvertes-scientifiques
+- relativite
 coverImage: ./images/quora.png
 ---
 

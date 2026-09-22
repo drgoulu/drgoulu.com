@@ -9,10 +9,8 @@ tags:
 - aeronautique
 - developpement-technologique
 - transport-aerien
-- concorde
-- histoire-de-l-aviation
-- avions-commerciaux
-- aviation-supersonique
+- histoire
+- aviation
 coverImage: ./images/quora.png
 ---
 

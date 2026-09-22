@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
+- planetes
 - espace
-- entrer-en-collision
 - systeme-solaire
 - collision-physique
-- planetes-astronomie
-- planetes-du-systeme-solaire
-- dynamique-du-systeme-solaire
-- le-systeme-solaire
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - opinion
-- personnalite
-- benjamin-netanyahu
 - israel
-- opinions-personnelles
-- opinions
-- opinion-politique
-- personnalite-publique
-- personnel-politique
+- personnalites
+- opinion-personnelle
 coverImage: ./images/quora.png
 ---
 

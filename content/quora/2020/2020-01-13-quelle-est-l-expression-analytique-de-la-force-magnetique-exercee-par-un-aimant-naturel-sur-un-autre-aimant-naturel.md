@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- aimants
-- electromagnetisme
-- expressions-mathematiques
-- champ-magnetique-terrestre
-- force-magnetique
-- force-physique
 - physique-mathematique
+- electromagnetisme
+- force
 - champs-magnetiques
-- forces-electromagnetiques
 coverImage: ./images/quora.png
 ---
 

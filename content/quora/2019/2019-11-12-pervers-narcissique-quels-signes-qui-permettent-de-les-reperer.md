@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - psychologie
-- relations-toxiques
-- personnalite
-- le-pervers-narcissique
+- personnalites
 - signes-annonciateurs
-- troubles-de-la-personnalite
 - sante-mentale-pratique
 - sante-mentale
-- personnes-toxiques
-- trouble-de-la-personnalite-narcissique
 coverImage: ./images/quora.png
 ---
 

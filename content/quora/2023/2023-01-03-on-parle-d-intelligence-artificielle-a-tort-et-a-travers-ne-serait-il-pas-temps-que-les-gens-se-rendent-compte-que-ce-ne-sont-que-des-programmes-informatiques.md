@@ -10,11 +10,7 @@ tags:
 - opinion
 - debat
 - nouvelles-technologies
-- opinions-personnelles
 - intelligence-artificielle
-- opinions
-- sciences-informatiques
-- debats
 coverImage: ./images/quora.png
 ---
 

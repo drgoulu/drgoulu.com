@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-du-monde
-- evolution-processus
-- dinosaures
-- sciences-de-la-vie
-- paleontologie
-- animaux-prehistoriques
-- pre-histoire
-- fossiles
-- la-vie-prehistorique
-- paleontologie-des-dinosaures
+- sciences
+- histoire
+- evolution
+- vie
+- monde
 coverImage: ./images/quora.png
 ---
 

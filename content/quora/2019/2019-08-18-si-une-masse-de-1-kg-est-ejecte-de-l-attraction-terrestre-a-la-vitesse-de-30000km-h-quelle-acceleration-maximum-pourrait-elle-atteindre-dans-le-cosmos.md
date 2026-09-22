@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- cosmos
-- terre-planete
-- vitesse-maximale
+- terre
+- planetes
 - espace
-- astrophysics
-- acceleration-physique
-- masse-physique
-- vitesse-physique
-- gravitation
+- vitesse
 coverImage: ./images/qimg-14bc524a9a2fd29b02e7c41807947fdd.png
 ---
 

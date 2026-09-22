@@ -6,15 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- plateformes-de-medias-sociaux
+- quora
+- contenu
 - commentaire
-- bienveillance
-- suppression-de-reponse-fonctionnalite-quora
-- justification
-- moderation-de-contenu
-- transparence
-- moderateurs
-- desactivation-des-commentaires-sur-quora
+- plateformes-de-medias-sociaux
 - moderation
 coverImage: ./images/quora.png
 ---

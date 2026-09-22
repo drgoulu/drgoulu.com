@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- trous-noirs
-- evolution-stellaire
 - astronomie
-- etoiles-corps-celestes
 - astrophysique
-- physique-stellaire
-- etoiles-astronomie
-- astronomie-et-astrophysique
-- les-trous-noir
+- trous-noirs
+- etoiles-corps-celestes
 coverImage: ./images/quora.png
 ---
 

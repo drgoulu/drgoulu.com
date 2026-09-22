@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- impact-de-la-mondialisation
-- theories-du-complot
-- auteurs
 - mathematiques
-- avenir-de-l-humanite
 - humanite
-- l-impact-social
-- constantes-mathematiques
+- theories-du-complot
+- avenir
 coverImage: ./images/quora.png
 ---
 

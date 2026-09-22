@@ -8,14 +8,9 @@ categories:
 tags:
 - richesse
 - economie-mondiale
-- la-monnaie
 - depenses
 - inflation-economie
 - systeme-monetaire
-- theorie-economique
-- valeur-monetaire
-- circulation-monetaire
-- valeur-de-la-monnaie
 coverImage: ./images/quora.png
 ---
 

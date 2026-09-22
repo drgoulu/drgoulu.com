@@ -7,12 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- opinion-publique
-- science-fiction-genre
-- colonisation-de-l-espace
-- mars-planete
-- humanite
+- planetes
+- espace
 - exploration-spatiale
+- humanite
 coverImage: ./images/quora.png
 ---
 

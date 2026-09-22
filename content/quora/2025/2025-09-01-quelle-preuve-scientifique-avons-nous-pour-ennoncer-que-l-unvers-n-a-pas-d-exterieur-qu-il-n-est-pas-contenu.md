@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- univers-observable
+- sciences
 - astronomie
-- preuves-scientifiques
-- l-univers
-- cosmologie
-- enigmes-de-l-univers
 - astrophysique
-- preuve-science
-- science-physique
+- univers
 coverImage: ./images/quora.png
 ---
 

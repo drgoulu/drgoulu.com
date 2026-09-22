@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - memoire
-- moulinex
-- les-annees-70
 - marques
 - souvenir
-- appareils-menagers
-- objet-de-valeur
-- recyclage-des-dechets
-- nostalgie
-- appareils-electromenagers
+- recyclage
+- dechets
 coverImage: ./images/quora.png
 ---
 

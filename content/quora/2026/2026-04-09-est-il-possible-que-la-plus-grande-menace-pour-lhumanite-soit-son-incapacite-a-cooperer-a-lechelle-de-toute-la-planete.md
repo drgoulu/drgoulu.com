@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- activite-humaine
-- risques-de-disparition-de-l-espece-humaine
-- crise-mondiale
-- avenir-de-l-humanite
-- interactions-humaines
-- cooperation
-- risque-anthropique
-- cooperation-internationale
-- actions-humaines
-- interaction-humaine
+- humanite
+- risques
+- espece-humaine
+- avenir
+- disparition
 coverImage: ./images/quora.png
 ---
 

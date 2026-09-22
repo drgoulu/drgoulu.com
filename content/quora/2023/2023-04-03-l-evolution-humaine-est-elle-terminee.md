@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-philosophique
-- anthropologie
-- biologie-humaine
-- sciences-de-la-vie
-- histoire-de-la-biologie-de-l-evolution
-- evolution-biologie
-- espece-humaine
-- evolution-humaine
-- histoire-de-la-biologie
+- sciences
+- histoire
+- evolution
+- biologie
+- vie
 coverImage: ./images/quora.png
 ---
 

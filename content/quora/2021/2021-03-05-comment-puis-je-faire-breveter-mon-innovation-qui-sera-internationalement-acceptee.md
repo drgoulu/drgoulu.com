@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- droit
 - innovation
-- droit-international
-- brevets
-- protection-de-la-proprite-intellectuelle
-- droit-sur-la-propriete-intellectuelle
 - propriete-intellectuelle
-- droit-des-brevets
-- l-innovation
-- droit-international-prive
-- droits-de-propriete-intellectuelle
+- brevets
+- droit-international
 coverImage: ./images/quora.png
 ---
 

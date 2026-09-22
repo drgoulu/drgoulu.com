@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - philosophie
+- psychologie
 - perception
 - realite
-- monde-moderne
-- explications
-- subjectivite
-- concept
-- philosophie-et-psychologie
-- vie-moderne
-- la-vie-moderne
+- concepts
 coverImage: ./images/quora.png
 ---
 

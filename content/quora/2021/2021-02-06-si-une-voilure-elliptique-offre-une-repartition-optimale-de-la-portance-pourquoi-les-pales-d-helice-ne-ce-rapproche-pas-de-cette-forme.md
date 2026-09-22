@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - aviation
-- les-helices
+- aerodynamique
 - repartition
 - ingenierie-aeronautique
-- ailes-de-bison
-- aerodynamique
-- flight
-- aviazione
-- portance-aerodynamique
+- ailes
 coverImage: ./images/quora.png
 ---
 

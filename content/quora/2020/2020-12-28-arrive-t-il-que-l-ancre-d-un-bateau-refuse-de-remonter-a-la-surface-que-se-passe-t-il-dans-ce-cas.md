@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - mecanique
-- ancres
 - navigation
 - bateaux
 - sciences-maritimes
-- ancrage
 - navigation-maritime
-- vie-maritime
-- bateaux-et-vaisseaux
 coverImage: ./images/quora.png
 ---
 

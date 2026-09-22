@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- astronomie-d-observation
+- astronomie
 - recherche-scientifique
-- champ-gravitationnel
 - gravitation
-- observation
-- etude-observationnelle
-- astrophysics
-- observation-scientifique
 coverImage: ./images/qimg-38552433484a5055cb9cc2c08634c42e.png
 ---
 

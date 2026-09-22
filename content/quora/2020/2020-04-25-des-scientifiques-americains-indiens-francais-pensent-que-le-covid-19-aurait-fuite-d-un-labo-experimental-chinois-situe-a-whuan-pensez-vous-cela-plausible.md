@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- france
-- universite-de-wuhan
-- covid-19-2019-2020
-- les-etats-unis-d-amerique
-- theories-du-complot
-- inde
-- scientifiques
-- chine
 - recherche-scientifique
-- wuhan
+- france
+- etats-unis
+- covid-19-2019-2020
+- theories-du-complot
 coverImage: ./images/quora.png
 ---
 

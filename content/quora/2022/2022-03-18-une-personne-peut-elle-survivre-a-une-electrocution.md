@@ -8,12 +8,9 @@ categories:
 tags:
 - sante
 - corps-humains
-- premiers-secours
-- electrocution
 - risque-et-risques
 - accidents
-- secourisme
-- accidents-et-blessures
+- blessures
 coverImage: ./images/quora.png
 ---
 

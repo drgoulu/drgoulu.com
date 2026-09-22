@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - astronomie
-- terre-planete
-- satellites-naturels
-- systeme-solaire
-- mission-sur-mars
-- science-de-la-nature
-- planetes-du-systeme-solaire
-- exploration-de-mars
-- mars-planete
+- terre
+- planetes
+- nature
 coverImage: ./images/quora.png
 ---
 

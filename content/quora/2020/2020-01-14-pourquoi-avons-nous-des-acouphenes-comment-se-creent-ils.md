@@ -9,13 +9,9 @@ categories:
 tags:
 - sante
 - troubles-de-l-audition
-- acouphenes
 - oreilles
 - physiologie-humaine
 - symptomes-medicaux
-- maladies-auditives
-- les-sensations-auditives
-- symptome
 coverImage: ./images/quora.png
 ---
 

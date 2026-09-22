@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- resolution-de-conflit
-- avancees-technologiques
-- respect-d-autrui
-- espece-humaine
-- besoins-de-base
-- civilisation
-- evolution-de-la-technologie
-- respect-de-l-environnement
-- respect-des-personnes
+- evolution
+- environnement
+- technologies
+- personne
 coverImage: ./images/quora.png
 ---
 

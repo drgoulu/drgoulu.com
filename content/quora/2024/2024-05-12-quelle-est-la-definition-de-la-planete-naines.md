@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- corps-celestes
+- astrophysique
 - recherche-scientifique
-- definition
 - systeme-solaire
-- planetes-naines
-- astronomie-d-observation
-- astronomie-et-astrophysique
 - etude-scientifique
-- le-systeme-solaire
 coverImage: ./images/quora.png
 ---
 

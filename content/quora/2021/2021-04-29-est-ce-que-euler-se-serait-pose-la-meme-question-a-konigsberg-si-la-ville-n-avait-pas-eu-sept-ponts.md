@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- histoire
 - mathematiques
-- konigsberg
-- villes
+- theorie
 - geographie
-- histoire-des-sciences
-- leonhard-euler-mathematicien
-- theorie-des-graphes
-- histoire-des-mathematiques
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- conduite
 - vitesse
-- strategies
+- conseils
+- strategie
+- conduite
 - circulation-routiere
-- embouteillages
-- files-d-attente
-- conseils-de-conduite
-- conduite-automobile
-- infrastructures-routieres
-- trafic-routier
 coverImage: ./images/quora.png
 ---
 

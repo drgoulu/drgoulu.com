@@ -7,13 +7,10 @@ categories:
 - Comment
 tags:
 - philosophie
-- decisions-d-affaires
-- comportement-ethique
+- entreprises
+- gestion
+- affaires
 - management
-- responsabilite-sociale-d-entreprise
-- grandes-entreprises
-- gestion-des-affaires
-- decisions
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - mathematiques
-- distribution
-- simulation-par-ordinateur
-- spheres
-- algorithmes-d-optimisation
-- geometrie-spherique
-- algorithmes
-- simulation-numerique
 - geometrie
+- algorithmes
 - post
+- simulation-par-ordinateur
 coverImage: ./images/quora.png
 ---
 

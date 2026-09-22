@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- langages-de-programmation
-- competences-techniques
-- offres-d-emploi
-- developpeur-informatique
-- developpement-de-logiciels
-- c-langage-de-programmation
-- competences-en-programmation-informatique
-- recherches-d-emplois
+- informatique
+- programmation
+- recherche
+- langage
+- developpement
 coverImage: ./images/quora.png
 ---
 

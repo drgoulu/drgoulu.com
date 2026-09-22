@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - conseils
-- alpinisme
+- accidents
+- blessures
 - glaciers
 - activites-en-plein-air
-- secours-en-cas-de-catastrophe
-- accidents-et-blessures
-- escalade-de-montagne
-- premiers-secours
-- appel-au-secours
 coverImage: ./images/quora.png
 ---
 

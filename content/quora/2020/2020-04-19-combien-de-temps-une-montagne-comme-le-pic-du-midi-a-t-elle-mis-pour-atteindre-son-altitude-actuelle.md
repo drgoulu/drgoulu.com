@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- temps
 - france
-- geomorphologie
-- erosion
-- montagnes
-- periodes-de-temps
+- geologie
 - formation
 - altitude
-- echelle-des-temps-geologiques
-- geologie-historique
-- geologie
 coverImage: ./images/quora.png
 ---
 

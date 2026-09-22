@@ -10,12 +10,7 @@ tags:
 - russie
 - verite
 - propagande
-- mensonges-et-mentir
 - nom
-- hypocrisie
-- medias-russes
-- ironie
-- propagande-russe
 coverImage: ./images/quora.png
 ---
 

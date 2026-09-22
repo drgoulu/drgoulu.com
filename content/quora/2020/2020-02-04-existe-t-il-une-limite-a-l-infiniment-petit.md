@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- infiniment-petit
-- limites
-- sciences
-- mecanique-quantique
 - physique
-- philosophie-de-la-physique
+- sciences
+- philosophie
 - physique-theorique
-- philosophie-des-sciences
 - physique-quantique
 coverImage: ./images/quora.png
 ---

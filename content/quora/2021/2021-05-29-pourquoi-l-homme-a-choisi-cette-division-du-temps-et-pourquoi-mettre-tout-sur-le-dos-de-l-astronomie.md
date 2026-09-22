@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- philosophie
-- histoire
-- perception-du-temps
-- temps
-- sciences-humaines
+- sciences
 - astronomie
-- organisation-du-temps
-- mesure-du-temps
-- philosophie-des-sciences
-- l-histoire
+- histoire
+- philosophie
+- temps
 coverImage: ./images/quora.png
 ---
 

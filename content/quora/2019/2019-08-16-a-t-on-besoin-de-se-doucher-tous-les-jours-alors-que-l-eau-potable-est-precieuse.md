@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - environnement
-- debats-de-societe
-- hygiene
-- douches
-- questions-sociales
-- eau-potable
-- gestion-des-ressources-en-eau
-- ressource-naturelle
-- hygiene-personnelles
-- ressources-en-eau
+- societe
+- eau
+- debat
+- gestion
 coverImage: ./images/quora.png
 ---
 

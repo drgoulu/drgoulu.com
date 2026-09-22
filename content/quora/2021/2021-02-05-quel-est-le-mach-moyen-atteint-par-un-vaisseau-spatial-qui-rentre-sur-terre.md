@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
+- terre
+- planetes
 - vitesse
-- terre-planete
-- vol-spatial
-- mach
-- aerodynamique
 - atmosphere
-- vitesse-terminale
-- les-voyages-spaciaux
-- vaisseau-spatial
 coverImage: ./images/quora.png
 ---
 

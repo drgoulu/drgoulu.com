@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-nature
+- physique
+- sciences
 - energie
-- geologie
+- nature
 - energie-renouvelable
-- sources-d-energie
-- energie-physique
-- energie-alternative
-- geothermie
-- energie-thermique
 coverImage: ./images/quora.png
 ---
 

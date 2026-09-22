@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - changement-climatique
-- predictions
-- extinction
-- fin-du-monde
 - evolution-humaine
-- catastrophes-environnementales
-- l-extinction-humaine
-- extinction-des-especes
-- le-changement-climatique
+- especes
+- extinction
 coverImage: ./images/qimg-b8fc147b10a673ca7d23bc603edd9cd4.jpg
 ---
 

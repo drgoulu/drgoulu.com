@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - philosophie
-- edmund-husserl-philosophe-allemand
-- connaissances
 - realite
-- epistemologie
 - metaphysique
-- phenomenologie-philosophie
-- ontologie-philosophie
-- philosophe
-- verite
+- epistemologie
+- connaissances
 coverImage: ./images/quora.png
 ---
 

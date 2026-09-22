@@ -8,13 +8,9 @@ categories:
 tags:
 - astronomie
 - trous-noirs
-- m87
-- decouvertes-scientifiques
-- objets-astronomiques
 - galaxies
-- astronomes
-- astronomie-d-observation
-- galaxies-astronomie
+- decouvertes-scientifiques
+- observation
 coverImage: ./images/qimg-41d9cefcad8fee4fcc785e5c48e22733.jpg
 ---
 

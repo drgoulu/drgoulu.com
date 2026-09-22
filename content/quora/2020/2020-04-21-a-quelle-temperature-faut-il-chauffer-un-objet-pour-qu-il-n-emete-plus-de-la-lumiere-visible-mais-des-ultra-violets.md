@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- rayons-ultra-violets
-- spectre-electromagnetique
-- chaleur-et-temperature
-- lumiere-physique
-- ultraviolet
+- theorie
+- lumiere
+- electromagnetisme
 - temperatures
-- physique-de-rayonnement
-- theorie-de-l-electromagnetisme
 coverImage: ./images/qimg-c0851ea217807c59df93e4cb0a58f101.png
 ---
 

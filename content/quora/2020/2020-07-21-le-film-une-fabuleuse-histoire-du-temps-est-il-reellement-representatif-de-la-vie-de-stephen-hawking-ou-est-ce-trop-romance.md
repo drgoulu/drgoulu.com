@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- films
-- personne-reelle
-- stephen-hawking
 - vie
+- personne
+- films
 - representation
-- une-breve-histoire-du-temps
-- film
-- representations-de-personnes
-- representativite
+- personne-reelle
 coverImage: ./images/quora.png
 ---
 

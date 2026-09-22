@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - philosophie
+- animaux
 - comportement-humain
-- sentiments
-- l-humain-et-les-animaux
-- l-intelligence
-- empathie
 - nature-humaine
-- intelligence-humaine
 - comportement-animal
 coverImage: ./images/quora.png
 ---

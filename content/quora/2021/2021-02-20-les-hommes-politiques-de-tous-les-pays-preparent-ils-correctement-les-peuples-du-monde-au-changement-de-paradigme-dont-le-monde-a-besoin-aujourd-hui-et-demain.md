@@ -9,11 +9,8 @@ tags:
 - politique
 - societe
 - avenir
-- preparation-physique
 - peuples
-- le-monde
-- hommes-politiques
-- preparation-mentale
+- monde
 coverImage: ./images/quora.png
 ---
 

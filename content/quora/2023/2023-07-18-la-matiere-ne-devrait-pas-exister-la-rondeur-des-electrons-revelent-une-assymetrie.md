@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- electron
-- asymetrie
-- theories-quantiques
-- structure-atomique
-- matiere-physique
-- symetrie-en-physique
-- electrons
+- matiere
 - physique-quantique
-- symetrie
+- structure-atomique
+- electrons
 coverImage: ./images/quora.png
 ---
 

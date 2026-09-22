@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- videos
+- vitesse
 - mysteres
-- aviation-supersonique
+- video
 - explications
-- ufologie
-- vitesse-du-son
-- objets-volants-non-identifies
 - phenomenes-inexpliques
-- videos-en-ligne
 coverImage: ./images/quora.png
 ---
 

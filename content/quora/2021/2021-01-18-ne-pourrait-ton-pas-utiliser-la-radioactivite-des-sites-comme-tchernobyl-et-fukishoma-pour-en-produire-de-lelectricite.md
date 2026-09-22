@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- desastre-nucleaire-de-tchernobyl-avril-1986
-- fukushima
+- sciences
+- energie
+- technologies
 - energie-nucleaire
 - radioactivite
-- catastrophes-nucleaires
-- production-d-energie
-- tchernobyl
-- les-centrales-nucleaires
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- comportement-animal
 - biologie-animale
-- les-elephants
-- neurones
+- comportement-animal
 - intelligence-animale
 - neurobiologie
-- elephants
 - psychologie-animale
-- science-animale
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - politique
-- abstention
-- democratie-directe
-- vote-blanc
-- parlements
-- politique-de-la-suisse
-- systeme-parlementaire
+- suisse
 - democratie
-- le-vote-en-politique
+- vote
 - systemes-politiques
 coverImage: ./images/quora.png
 ---

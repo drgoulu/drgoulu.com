@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- eau
-- compression
-- liquides
-- dimension
 - matiere
-- la-mecanique
-- volume-physique
-- mesures-des-liquides
-- mecanique-physique
+- eau
+- mecanique
+- dimensions
 coverImage: ./images/quora.png
 ---
 

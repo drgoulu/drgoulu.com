@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- le-soleil
-- vitesse
-- terre-planete
 - astronomie
+- terre
+- planetes
 - systeme-solaire
-- rotation-physique
-- force-physique
-- rotation-de-la-terre
-- le-soleil-astronomie
 coverImage: ./images/qimg-59aa2a782eff28490e78ce40e6be9772.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
 - sciences
-- le-soleil
 - astronomie
-- histoire-de-la-physique
-- physique-stellaire
+- histoire
 - astrophysique
-- histoire-de-l-astronomie
-- histoire-des-sciences
-- astrophysique-theorique
 coverImage: ./images/quora.png
 ---
 

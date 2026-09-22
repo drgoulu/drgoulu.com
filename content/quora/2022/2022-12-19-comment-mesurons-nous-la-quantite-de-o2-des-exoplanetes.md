@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - astronomie
-- recherche-scientifique
-- oxygene
-- atmospheres-planetaires
-- sciences-de-la-nature
-- mesures-physiques
-- exoplanetologie
 - astrophysique
-- planetes-astronomie
-- exoplanetes
+- planetes
+- recherche-scientifique
 coverImage: ./images/qimg-5d761385dde948c246a7f1d2672d6f92.jpg
 ---
 

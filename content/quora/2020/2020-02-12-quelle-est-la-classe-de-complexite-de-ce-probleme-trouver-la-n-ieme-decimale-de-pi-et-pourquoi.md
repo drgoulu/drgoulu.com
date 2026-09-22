@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- informatique
+- sciences
 - mathematiques
-- nombres-decimaux
-- complexite-du-temps
-- algorithmes
-- science-de-l-informatique
-- nombres-mathematiques
-- theorie-de-la-complexite
-- complexite
-- chiffres-decimaux
+- theorie
+- informatique
+- temps
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- droit
+- propriete-intellectuelle
+- films
 - cinema
 - protection-de-la-proprite-intellectuelle
-- films
-- marques-deposees
-- conseils-juridiques
-- violation-de-contrat
-- droits-d-auteur
-- affiches-de-film
-- droit-des-marques
-- propriete-intellectuelle
 coverImage: ./images/quora.png
 ---
 

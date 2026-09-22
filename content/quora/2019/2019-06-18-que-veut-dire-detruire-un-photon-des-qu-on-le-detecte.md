@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- effet-photoelectrique
-- detection-d-objets
 - photons
-- interaction-lumiere-matiere
-- emission-du-photon
-- quantum
+- emission
 - physique-quantique
-- photonics
-- physique-chimie
+- chimie
 coverImage: ./images/quora.png
 ---
 

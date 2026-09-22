@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - france
-- aide-financiere-aux-etudiants
-- immigration
-- etudes
-- droit-international-public
+- droit
 - afrique
-- etudes-superieures-en-france
-- mobilite-internationale
-- financement-des-etudes
-- etudes-de-droit
+- etudes
+- immigration
 coverImage: ./images/quora.png
 ---
 

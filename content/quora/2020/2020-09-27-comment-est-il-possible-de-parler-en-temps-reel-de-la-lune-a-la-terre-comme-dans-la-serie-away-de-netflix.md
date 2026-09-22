@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- communication
+- terre
+- planetes
 - science-fiction-genre
-- terre-planete
-- netflix
-- programmes-televises
+- communication
 - lune-satellite-naturel
-- telecommunications
-- science-fiction
 coverImage: ./images/quora.png
 ---
 

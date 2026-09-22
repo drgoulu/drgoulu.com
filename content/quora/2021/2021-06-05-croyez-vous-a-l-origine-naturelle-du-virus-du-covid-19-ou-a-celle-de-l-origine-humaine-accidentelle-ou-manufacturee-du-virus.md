@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
+- biologie
+- biologie-humaine
 - covid-19-2019-2020
 - theories-du-complot
-- biologie
-- epidemiologie
-- virus
-- origine-de-covid-19
-- pandemie
-- biologie-humaine
-- virologie
 coverImage: ./images/quora.png
 ---
 

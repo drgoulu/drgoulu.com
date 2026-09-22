@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- politique-francaise
-- hamas
 - relations-internationales
-- islam
-- conflit-israelo-palestinien
-- judaisme
 - israel
 - democratie
-- cour-penale-internationale
-- palestine
+- politique-francaise
+- islam
 coverImage: ./images/quora.png
 ---
 

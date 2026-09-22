@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - animaux
-- disparition
-- annees-2010
-- periode
-- biodiversite
-- faune
 - especes
-- extinction-des-especes
-- annee-2019
 - extinction
+- faune
+- biodiversite
 coverImage: ./images/quora.png
 ---
 

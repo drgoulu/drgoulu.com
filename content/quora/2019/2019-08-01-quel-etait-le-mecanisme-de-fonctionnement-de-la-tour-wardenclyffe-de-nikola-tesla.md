@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- histoire
+- invention
 - electricite
-- histoire-des-sciences
-- nikola-tesla
-- invention-et-inventions
 - scientifiques
-- transmission-et-cession
-- transfert-d-energie-sans-fil
-- histoire-des-inventions
 coverImage: ./images/quora.png
 ---
 

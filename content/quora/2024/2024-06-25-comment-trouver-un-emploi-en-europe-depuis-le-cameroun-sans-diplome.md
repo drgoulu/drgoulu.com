@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- travail-emploi
-- cameroun
-- immigration
-- l-europe
-- diplomes-academiques
-- emplois
-- marche-du-travail
-- conseils-de-recherche-d-emploi
-- pays-europeens
-- recherche-d-emploi
+- recherche
+- conseils
+- travail
+- europe
+- emploi
 coverImage: ./images/quora.png
 ---
 

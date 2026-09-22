@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- fours-a-micro-ondes
-- precautions-de-securite
-- appareils-menagers
 - securite
-- sante-physique
-- rayonnement-micro-ondes
+- physique
 - securite-personnelle
-- questions-de-securite
+- questions
 coverImage: ./images/quora.png
 ---
 

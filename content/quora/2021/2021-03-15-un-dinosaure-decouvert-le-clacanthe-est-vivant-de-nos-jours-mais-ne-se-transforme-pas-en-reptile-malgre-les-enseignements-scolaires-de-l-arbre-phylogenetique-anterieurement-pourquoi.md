@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- enseignement
-- evolution-processus
-- reptiles
-- sciences-de-la-vie
-- paleontologie
-- arbre-phylogenetique
+- sciences
+- evolution
+- vie
+- processus
 - decouvertes-scientifiques
-- dinosaures
-- enseignement-secondaire
-- phylogenetique
 coverImage: ./images/qimg-4fbb87f97415132c2ae24fe5298d6485.jpg
 ---
 

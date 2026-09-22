@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - finances-publiques
-- politique-fiscale
-- collectivites-territoriales
-- dette-gouvernementale
 - depenses-publiques
-- politiques-publiques
 - dette-publique
-- financement-public
+- politique-fiscale
 - politique-economique
 coverImage: ./images/quora.png
 ---

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- opinion
-- citation-academique
 - mathematiques
-- aristote
-- utilite
-- opinions-personnelles
-- philosophie-grecque
-- philosophie-des-sciences
-- philosophe
+- opinion
+- opinion-personnelle
 coverImage: ./images/qimg-ec47449b292fcfc2d38bed8ee0495856.jpg
 ---
 

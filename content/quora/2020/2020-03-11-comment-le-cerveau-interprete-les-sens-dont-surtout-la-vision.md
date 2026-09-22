@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - perception
-- neurologie
-- traitement-de-l-information
-- sens
-- cerveau-humain
-- perception-visuelle
+- information
 - vision
-- sensation
+- neurologie
 - neuroscience
-- neuropsychologie
 coverImage: ./images/qimg-879e7f8cf29d2c8ed45fa008d5b9bc80.jpg
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- cobalt-element
-- remplacement
+- sciences
+- technologies
 - materiaux
 - developpement-durable
-- innovation-technologique
-- technologies-vertes
-- technologie-du-futur
+- futur
 coverImage: ./images/quora.png
 ---
 

@@ -8,13 +8,8 @@ categories:
 tags:
 - physique
 - sciences
-- vitesse-de-la-lumiere
-- systeme-metrique
-- unites-de-mesure
-- concepts-en-physique
-- metrologie
-- science-physique
-- quantites-physiques
+- lumiere
+- vitesse
 - physique-mathematique
 coverImage: ./images/quora.png
 ---

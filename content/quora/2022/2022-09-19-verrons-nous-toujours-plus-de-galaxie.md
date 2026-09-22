@@ -8,13 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- l-univers
-- cosmologie
-- univers-observable
-- galaxies
-- univers-en-expansion
 - astrophysique
-- expansion-de-l-univers
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

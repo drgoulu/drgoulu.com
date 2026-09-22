@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - securite
-- perception
 - geographie
-- comparaison
-- villes-europeennes
-- taux-de-criminalite
-- villes-aux-etats-unis
-- securite-personnelle
-- criminalite
-- geographie-humaine
+- etats-unis
+- comparaisons
+- perception
 coverImage: ./images/quora.png
 ---
 

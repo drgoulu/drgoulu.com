@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- geographie
+- physique
 - changement-climatique
-- sahara
-- afrique-du-nord
-- peninsule-iberique
-- desertification
-- climatologie
-- geographie-physique
 - rechauffement-climatique
-- le-rechauffement-climatique
+- geographie
+- climatologie
 coverImage: ./images/qimg-8a7fb722332551ac40cc4212b52f8a28.jpg
 ---
 

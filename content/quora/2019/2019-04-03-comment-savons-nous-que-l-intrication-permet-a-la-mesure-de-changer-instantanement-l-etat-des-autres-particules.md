@@ -8,12 +8,8 @@ categories:
 tags:
 - sciences
 - physique-theorique
-- etats-quantiques
 - particules
-- intrication-quantique
-- science-physique
-- mesure-quantique
-- theories-quantiques
+- physique
 - physique-quantique
 coverImage: ./images/quora.png
 ---

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- iter
-- projet
+- sciences
 - energie
 - recherche-scientifique
-- la-chine
+- technologies
 - sciences-nucleaires
-- energie-infinie
 coverImage: ./images/quora.png
 ---
 

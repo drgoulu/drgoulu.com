@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- personne
-- histoire-des-sciences
-- credibilite
+- physique
+- sciences
+- histoire
 - invention
-- nikola-tesla
-- etat-de-transe
-- visualisation
-- machine
-- credibilite-de-l-information
-- histoire-de-la-physique
+- information
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- le-soleil
-- retine
-- espace-temps
-- vitesse-de-la-lumiere
-- photons
-- relativite-restreinte
-- temps-physique
-- relativite-physique
-- le-soleil-astronomie
+- astronomie
+- relativite
+- temps
+- lumiere
 coverImage: ./images/qimg-ff1ab87472019402dba89074668050c7.jpg
 ---
 

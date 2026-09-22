@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- preuve
-- hasard-et-aleatoire
-- pi
-- theorie-des-nombres
+- theorie
+- nombres
 - probabilite-statistiques
-- aleatoire
-- probabilites
-- preuve-science
+- probabilite
 coverImage: ./images/quora.png
 ---
 

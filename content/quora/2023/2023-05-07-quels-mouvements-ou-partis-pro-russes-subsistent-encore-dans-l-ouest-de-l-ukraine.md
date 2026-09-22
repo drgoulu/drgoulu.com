@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - relations-internationales
 - ukraine
-- operation-militaire-russe-en-ukraine
-- analyse-politique
+- analyse
 - geopolitique
-- mouvements-sociaux
-- partis-politiques
-- russia
-- positions-politiques
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- terre-planete
-- axe-syntagmatique
-- sciences-de-la-nature
-- rotation
-- stabilite
-- deplacement-physique
-- rotation-de-la-terre
-- rotation-physique
-- planete-terre
+- sciences
+- terre
+- planetes
+- nature
 coverImage: ./images/quora.png
 ---
 

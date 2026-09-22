@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- revenu-mensuel
-- salaries
-- niveau-de-vie
-- pouvoir-d-achat
-- statistiques-economiques
-- salaires-et-remunerations
 - revenu
-- donnees-economiques
+- pouvoir
+- achat
+- salaires-et-remunerations
 coverImage: ./images/quora.png
 ---
 

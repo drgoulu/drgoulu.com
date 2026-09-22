@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- cern-organisation
 - experience
 - or
 - recherche-scientifique
-- plomb-element
-- avancee-scientifique
-- progres-scientifiques
 - science-experimentale
 coverImage: ./images/qimg-b8f34c4ac00eaf3397eacdfcaaaf104b.jpg
 ---

@@ -8,13 +8,9 @@ categories:
 tags:
 - france
 - sociologie
-- milliardaires
-- pauvrete
-- inegalites-de-revenu
-- problemes-sociaux
-- repartition-des-richesses
-- pauvrete-en-france
 - inegalite
+- richesse
+- revenu
 coverImage: ./images/qimg-b908ed06986eb739ef4dd5492ccf2b0f.jpg
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - mathematiques
-- nombres-naturels
-- theorie-des-nombres-premiers
-- nombres-mathematiques
-- nombres-composes
-- sciences-mathematiques
-- theorie-analytique-des-nombres
-- theorie-des-nombres
+- theorie
+- nombres
+- nombres-premiers
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - energie
+- economie
 - energie-renouvelable
-- consommation-d-energie
-- energie-physique
-- sources-d-energies-alternatives
-- production-d-energie
-- sources-d-energie
-- energie-economie
-- consommation-energetique
+- consommation
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- science-et-technologie
+- sciences
+- environnement
+- technologies
 - consommation
 - durabilite
-- lobsolescence-programmee
-- reparation
-- environnement
-- lutte-contre-la-surconsommation
-- consommateur
-- consommation-responsable
 coverImage: ./images/quora.png
 ---
 

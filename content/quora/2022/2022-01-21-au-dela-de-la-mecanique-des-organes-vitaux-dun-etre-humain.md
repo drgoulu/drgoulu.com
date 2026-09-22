@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - philosophie
-- ame-entite-metaphysique
 - sciences
-- l-etre-humain
-- l-ame
-- theorie-scientifique
 - etre-humain
-- philosophie-et-science
-- philosophie-des-sciences
+- theorie-scientifique
 - theorie
 coverImage: ./images/quora.png
 ---

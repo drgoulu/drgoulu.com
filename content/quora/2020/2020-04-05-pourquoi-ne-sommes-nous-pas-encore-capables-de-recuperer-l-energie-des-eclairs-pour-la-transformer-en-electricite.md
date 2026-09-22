@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- nouvelles-technologies
 - sciences
-- eclair
-- electricite
-- energie-renouvelable
-- energie-physique
-- energie-alternative
 - energie
+- energie-renouvelable
+- electricite
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- evolution-processus
-- histoire-des-sciences
-- missing-link
-- charles-darwin
-- evolution-humaine
-- darwinisme
-- lien-douteux
-- theorie-de-l-evolution
-- evolution-biologique-des-especes
-- histoire-de-la-biologie
+- sciences
+- histoire
+- evolution
+- biologie
+- theorie
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - religion
+- christianisme
+- islam
 - theologie
 - judaisme
-- christianisme
-- religions-abrahamiques
-- monotheisme
-- islam
-- culture-religieuse
-- religions
 coverImage: ./images/quora.png
 ---
 

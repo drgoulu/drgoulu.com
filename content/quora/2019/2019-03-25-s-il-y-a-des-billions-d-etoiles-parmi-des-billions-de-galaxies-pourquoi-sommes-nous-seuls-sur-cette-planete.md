@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- philosophie
-- etoiles-corps-celestes
-- cosmos
-- galaxies
-- l-univers
-- astrobiologie
-- vie-extraterrestre
-- univers-observable
+- sciences
 - astronomie
-- philosophie-des-sciences
+- philosophie
+- univers
+- galaxies
 coverImage: ./images/quora.png
 ---
 

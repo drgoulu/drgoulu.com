@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- geographie
+- physique
+- sciences
+- environnement
 - changement-climatique
-- mont-blanc
-- temperatures
-- altitude
-- climatologie
-- sciences-de-l-environnement
-- meteo
-- geographie-physique
-- le-rechauffement-climatique
+- rechauffement-climatique
 coverImage: ./images/qimg-3e4ab7d310cc82cbe76a89508c493372.jpg
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- univers-en-expansion
 - astronomie
-- cosmologues
-- vitesse-de-la-lumiere
-- relativite-physique
-- galaxies
 - astrophysique
-- theorie-de-la-relativite
-- expansion-de-l-univers
+- theorie
+- relativite
 coverImage: ./images/quora.png
 ---
 

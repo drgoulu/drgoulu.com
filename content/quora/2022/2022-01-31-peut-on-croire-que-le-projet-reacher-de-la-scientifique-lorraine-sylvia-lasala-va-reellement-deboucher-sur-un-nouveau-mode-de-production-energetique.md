@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- recherche-scientifique
-- lorraine
 - energie
-- innovation-technologique
-- nouveau-projet
+- recherche-scientifique
+- recherche
 - sources-d-energie
-- projet-de-recherche
-- production-d-energie
-- recherche-universitaire
+- production
 coverImage: ./images/qimg-72a89c17435a14b761bbe77df2d149b8.jpg
 ---
 

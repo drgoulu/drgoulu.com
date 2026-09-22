@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- opinion-publique
 - energie
-- sondages
 - opinion
-- francais
-- debat
-- energie-solaire
 - energie-nucleaire
-- sondage-statistique
-- les-francais
+- opinion-publique
+- debat
 coverImage: ./images/quora.png
 ---
 

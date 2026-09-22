@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - recherche-scientifique
-- albert-einstein-physicien
-- neuroscience
-- fonctionnement-du-cerveau
-- cerveau-humain
-- einstein
-- science-du-cerveau
 - etude-scientifique
-- neurosciences
+- albert-einstein-physicien
+- cerveau
 coverImage: ./images/quora.png
 ---
 

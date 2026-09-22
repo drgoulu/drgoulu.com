@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- vols
-- avions
-- ingenierie-aeronautique
-- altitude
-- aerodynamique
 - aviation
+- avions
+- aerodynamique
 - vol
-- technologie-aeronautique
 coverImage: ./images/quora.png
 ---
 

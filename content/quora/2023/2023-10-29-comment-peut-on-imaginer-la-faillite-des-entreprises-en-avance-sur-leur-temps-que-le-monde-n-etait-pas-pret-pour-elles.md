@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- entrepreneuriat
-- nouvelles-technologies
-- echecs
-- predictions
-- faillite
 - innovation
+- nouvelles-technologies
 - innovation-technologique
-- start-ups-des-technologies
+- predictions
+- entrepreneuriat
 coverImage: ./images/qimg-eec3349564b5db58814251fdaeeef1a5.png
 ---
 

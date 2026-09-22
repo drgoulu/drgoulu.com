@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - psychologie
-- conscience-de-soi
-- instinct
 - comportement-humain
-- decisions
+- conscience-de-soi
 - pensee-philosophique
-- sentiments-et-emotions
-- intuition
-- prise-de-decision
-- l-instinct
+- sentiments
 coverImage: ./images/quora.png
 ---
 

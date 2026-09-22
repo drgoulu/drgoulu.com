@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - religion
-- la-sainte-trinite
-- mystere
+- mysteres
 - theologie
 - christianisme
-- doctrine-chretienne
-- mysticisme-chretien
 - foi-chretienne
-- la-trinite
-- sainte-trinite
 coverImage: ./images/quora.png
 ---
 

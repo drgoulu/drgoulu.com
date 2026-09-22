@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- energie
+- ingenierie
+- energie-renouvelable
 - electricite
 - construction
-- energie-renouvelable
-- projets-faits-maison-diy
-- energie
-- eoliennes
-- diy
-- autonomie-energetique
-- l-ingenierie-des-energies-renouvelables
 coverImage: ./images/quora.png
 ---
 

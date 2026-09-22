@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - recherche-scientifique
-- arn
-- covid-19-coronavirus
-- sanofi
-- genealogie-genetique
-- comparaison-des-vaccins-covid-19
-- biotechnologie
-- vaccin-covid-19
+- comparaisons
 - recherche-medicale
-- vaccination-covid-19
+- vaccin-covid-19
+- covid-19-coronavirus
 coverImage: ./images/quora.png
 ---
 

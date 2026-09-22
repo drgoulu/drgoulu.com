@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- dialogue
 - debat
 - scientifiques
-- conversations
-- arguments-et-argumentation
-- discussion
-- communication-humaine
-- culture-scientifique
 - pensee-scientifique
 - communication-scientifique
+- culture-scientifique
 coverImage: ./images/quora.png
 ---
 

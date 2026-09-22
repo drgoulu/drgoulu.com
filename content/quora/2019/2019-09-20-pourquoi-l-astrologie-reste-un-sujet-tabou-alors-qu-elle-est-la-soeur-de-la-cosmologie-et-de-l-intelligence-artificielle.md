@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- societe
 - sciences
-- intelligence-artificielle
-- tabous
 - cosmologie
-- culture
-- opinions-et-croyances
-- croyances
-- sciences-humaines
+- societe
+- opinion
+- croyance
 coverImage: ./images/quora.png
 ---
 

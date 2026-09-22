@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- sciences
 - biologie
-- question-hypothetique
-- etre-humain
-- disparition
+- vie
 - ecologie
-- oxygene
-- sciences-de-la-vie
-- hypotheses
-- etres-vivants
+- question-hypothetique
 coverImage: ./images/quora.png
 ---
 

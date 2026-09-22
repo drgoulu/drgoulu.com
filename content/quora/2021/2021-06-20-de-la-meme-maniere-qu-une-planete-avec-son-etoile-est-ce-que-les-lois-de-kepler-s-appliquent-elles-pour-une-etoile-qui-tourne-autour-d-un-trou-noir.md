@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
-- lois-de-kepler
-- etoiles-corps-celestes
 - astronomie
-- gravitation
-- lois-universelles
 - astrophysique
-- relativite
 - physique-theorique
+- relativite
 coverImage: ./images/quora.png
 ---
 

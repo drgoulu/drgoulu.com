@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- sujets-controverses
-- albert-einstein-physicien
-- publication-academique
-- recherche-scientifique
 - theorie
-- redaction-scientifique
+- recherche-scientifique
+- albert-einstein-physicien
 - publications-scientifiques
-- travail-scientifique
 coverImage: ./images/quora.png
 ---
 

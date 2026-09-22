@@ -10,11 +10,7 @@ tags:
 - informatique
 - epfl
 - ecole-polytechnique-federale-de-lausanne
-- bachelor-en-applications-informatiques
-- niveau-d-education
-- competences-en-programmation-informatique
 - sciences-informatiques
-- baccalaureat-en-informatique
 coverImage: ./images/quora.png
 ---
 

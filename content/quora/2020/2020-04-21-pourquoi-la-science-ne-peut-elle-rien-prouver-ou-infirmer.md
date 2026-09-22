@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- philosophie
-- scientific-method
-- epistemologie
-- preuve-science
 - sciences
-- methodologie-en-sciences
+- philosophie
+- epistemologie
 - preuves-scientifiques
-- la-methode-scientifique
-- philosophie-et-science
-- philosophie-des-sciences
+- methode-scientifique
 coverImage: ./images/quora.png
 ---
 

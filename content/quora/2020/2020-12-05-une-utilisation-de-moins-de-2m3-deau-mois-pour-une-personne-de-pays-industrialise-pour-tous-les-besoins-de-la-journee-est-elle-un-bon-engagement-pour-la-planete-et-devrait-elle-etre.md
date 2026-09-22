@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- consommation
-- developpement-durable
 - environnement
-- pays-industrialises
-- ressources-en-eau
-- impact-environnemental
-- gestion-des-resssources-naturelles
-- gestion-de-l-eau
-- engagement-ecologique
-- empreinte-ecologique
+- eau
+- developpement-durable
+- consommation
+- gestion
 coverImage: ./images/quora.png
 ---
 

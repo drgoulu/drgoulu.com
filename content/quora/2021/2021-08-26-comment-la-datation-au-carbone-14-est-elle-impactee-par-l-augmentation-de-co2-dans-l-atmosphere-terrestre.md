@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - changement-climatique
-- radioisotope
-- carbone-14
-- co2
-- effet-de-serre
-- sciences-de-l-atmosphere
-- gaz-a-effet-de-serre
-- co2-atmospherique
 - atmosphere
-- datation-par-carbone-14
+- gaz-a-effet-de-serre
+- effet-de-serre
 coverImage: ./images/quora.png
 ---
 

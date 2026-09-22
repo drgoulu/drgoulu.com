@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- comportement
 - biologie
 - animaux
-- ethologie
-- science-nature
-- entomologie
+- biologie-animale
 - zoologie
 - comportement-animal
-- biologie-animale
 coverImage: ./images/qimg-8589a674948fc6b9a1c8d99c6c2d57bd.jpg
 ---
 

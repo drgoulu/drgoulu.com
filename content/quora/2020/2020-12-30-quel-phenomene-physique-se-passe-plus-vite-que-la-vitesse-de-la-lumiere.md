@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- vitesse-de-la-lumiere
-- theorie-de-la-relativite
-- phenomene
+- theorie
 - physique-theorique
-- science-physique
-- relativite-physique
-- phenomenes-physiques
-- phenomene-physique
+- relativite
 coverImage: ./images/quora.png
 ---
 

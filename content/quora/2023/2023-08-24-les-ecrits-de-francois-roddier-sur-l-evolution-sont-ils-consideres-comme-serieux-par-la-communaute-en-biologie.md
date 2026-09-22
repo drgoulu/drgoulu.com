@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
 - biologie
-- evolution-processus
-- ecrivain-scientifique
-- theorie-de-l-evolution
-- communaute-scientifique
-- textes-scientifiques
+- theorie
+- processus
 - science-biologique
-- evolution-biologie
-- publications-scientifiques
 coverImage: ./images/quora.png
 ---
 

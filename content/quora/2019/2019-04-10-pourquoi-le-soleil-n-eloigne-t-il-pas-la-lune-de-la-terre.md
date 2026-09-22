@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- le-soleil
-- lune-satellite-naturel
 - astronomie
-- l-attraction-gravitationnelle
-- terre-planete
+- terre
+- planetes
 - systeme-solaire
-- gravitation
-- lune-astronomie
-- le-systeme-solaire
 coverImage: ./images/quora.png
 ---
 

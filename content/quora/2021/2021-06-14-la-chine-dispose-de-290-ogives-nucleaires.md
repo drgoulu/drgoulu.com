@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- transition-ecologique
-- le-royaume-uni
+- royaume-uni
 - cout
-- plan-international
 - armes-nucleaires
-- strategie-globale
-- ogive-nucleaire
 - chine
-- puissances-nucleaire
 coverImage: ./images/quora.png
 ---
 

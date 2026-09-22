@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- philosophie
+- religion
 - croyance
-- materialisme-philosophie
 - existence
-- scepticisme
-- philosophie-de-la-religion
 - atheisme
-- religion-et-croyance
-- theologie-et-philosophie
-- agnosticisme
-- existence-de-dieu
 coverImage: ./images/quora.png
 ---
 

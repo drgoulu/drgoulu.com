@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- question-hypothetique
-- terre-planete
 - astronomie
-- scenarios
+- terre
+- planetes
 - gravite
-- lune-astronomie
-- hypotheses
-- scenario-futur
-- gravite-physique
 coverImage: ./images/quora.png
 ---
 

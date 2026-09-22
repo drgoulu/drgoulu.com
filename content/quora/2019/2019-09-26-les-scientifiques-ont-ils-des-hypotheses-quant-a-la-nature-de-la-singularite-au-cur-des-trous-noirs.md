@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
 - sciences
-- singularite
-- cosmologie
-- hypotheses-scientifiques
-- astrophysiciens
-- relativite-physique
-- physique-theorique
 - astrophysique
+- cosmologie
+- physique-theorique
 coverImage: ./images/quora.png
 ---
 

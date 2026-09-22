@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- droit
 - relations-internationales
 - guerre
-- souverainete
-- defense
-- conflits-armes
-- securite-nationale
-- droit-de-la-guerre
-- droit-international-public
-- legitime-defense
 - droit-international
+- securite-nationale
 coverImage: ./images/quora.png
 ---
 

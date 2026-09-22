@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - mathematiques
-- verification-des-faits
-- le-nombre-pi
-- precision
 - calcul
-- systeme-de-numeration-decimale
-- nombre-reel
-- constantes-mathematiques
-- chiffres-decimaux
 - verification
+- constantes-mathematiques
+- precision
 coverImage: ./images/quora.png
 ---
 

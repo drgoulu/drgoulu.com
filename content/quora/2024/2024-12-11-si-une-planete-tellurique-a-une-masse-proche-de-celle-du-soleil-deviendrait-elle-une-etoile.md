@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- le-soleil
-- terre-planete
-- etoiles-corps-celestes
-- masse-physique
-- physique-stellaire
-- science-spatiale
 - astrophysique
-- etoiles
-- physique-planetaire
+- terre
+- planetes
+- science-spatiale
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-environnement
-- energie-physique
-- ressources-naturelles
-- energie-renouvelable
-- sources-d-energies-alternatives
-- ressources-gratuites
+- physique
 - energie
-- energie-verte
-- sources-d-energie
+- environnement
+- energie-renouvelable
+- ressources-naturelles
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - societe
 - geopolitique
-- histoire-de-l-europe
-- prevision-economique
-- l-europe
-- crise-de-l-europe
-- situation-economique
-- perspectives-economiques
+- histoire
+- europe
 - analyse-economique
-- europe-historique
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
 - changement-climatique
-- activite-humaine
-- l-environnement
-- ecologie
-- phenomenes-naturels
-- climatologie
 - rechauffement-climatique
-- cycles-naturels
-- le-rechauffement-climatique
+- ecologie
+- climatologie
 coverImage: ./images/qimg-1505c4d1f20f732e55bd6a271be7ed21.jpg
 ---
 

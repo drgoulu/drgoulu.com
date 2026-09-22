@@ -8,14 +8,9 @@ categories:
 tags:
 - sante-publique
 - virus
-- explications
-- pandemie
-- impact-social
-- maladies-infectieuses
 - virologie
-- epidemiologie
-- infections-virales
-- maladies-virales
+- maladies-infectieuses
+- pandemie
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - mathematiques
-- algebre-lineaire-numerique
-- produit-matriciel
-- puissance-de-calcul
-- decomposition-de-la-matrice
-- matrices-mathematiques
-- calculs-matriciels
-- factorisation-de-matrices
-- algebre-lineaire
+- calcul
 - post
+- puissance
+- calculs-matriciels
 coverImage: ./images/quora.png
 ---
 

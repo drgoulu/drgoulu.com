@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
-- cosmos
 - astronomie
-- explications-intuitives
-- l-univers-astronomie
-- le-cosmos
 - astrophysique
-- explications-scientifiques
-- explications-pour-enfants
+- univers
+- trous-noirs
 coverImage: ./images/qimg-d817aadc3aa265f70c013dbfa99b5986.jpg
 ---
 

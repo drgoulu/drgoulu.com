@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- spaghettification
-- trous-noirs
-- espace
+- sciences
 - astronomie
-- gravitation
-- phenomene
 - astrophysique
-- science-physique
-- phenomene-physique
+- espace
 coverImage: ./images/quora.png
 ---
 

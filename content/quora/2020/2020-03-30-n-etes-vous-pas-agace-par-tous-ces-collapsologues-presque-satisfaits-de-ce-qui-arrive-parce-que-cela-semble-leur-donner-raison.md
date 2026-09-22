@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- comportement-humain
-- opinions
 - societe
-- collapsologie
+- opinion
 - opinion-publique
-- frustration
+- comportement-humain
 - opinion-personnelle
-- comportement
-- mecontentement
-- insatisfaction
 coverImage: ./images/quora.png
 ---
 

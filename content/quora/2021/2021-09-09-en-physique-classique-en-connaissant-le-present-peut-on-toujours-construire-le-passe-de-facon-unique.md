@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- determinisme
-- causalite
-- philosophie-des-sciences
-- le-temps
-- la-raison
-- temps-physique
-- histoire-de-la-physique
-- physique-classique
-- philosophie-de-la-physique
+- sciences
+- histoire
+- philosophie
+- temps
 coverImage: ./images/quora.png
 ---
 

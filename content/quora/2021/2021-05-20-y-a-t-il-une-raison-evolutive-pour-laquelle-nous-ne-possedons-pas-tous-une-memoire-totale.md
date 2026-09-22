@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
+- processus
 - psychologie
-- evolution-processus
-- memoire-humaine
 - biologie-humaine
 - sciences-cognitives
-- neuroscience
-- neurologie
-- psychologie-cognitive
-- evolution
-- neurobiologie
 coverImage: ./images/quora.png
 ---
 

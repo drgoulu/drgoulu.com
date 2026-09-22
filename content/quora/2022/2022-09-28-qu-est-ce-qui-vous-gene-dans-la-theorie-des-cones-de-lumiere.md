@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- relativite-restreinte
-- hypotheses-scientifiques
-- concepts-en-physique
-- relativisation
-- theorie-de-la-relativite
+- theorie
 - physique-theorique
+- relativite
 - relativite-generale
-- relativite-physique
 coverImage: ./images/quora.png
 ---
 

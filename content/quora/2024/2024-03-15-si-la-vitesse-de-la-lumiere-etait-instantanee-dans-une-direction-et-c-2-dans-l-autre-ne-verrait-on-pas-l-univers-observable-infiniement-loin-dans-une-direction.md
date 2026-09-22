@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- l-univers-astronomie
-- espace-temps
-- vitesse-de-la-lumiere
+- astronomie
+- univers
 - cosmologie
-- relativite-restreinte
-- expansion-de-l-univers
-- univers-observable
-- relativite-physique
-- dimension-espace-temps
+- relativite
 coverImage: ./images/quora.png
 ---
 

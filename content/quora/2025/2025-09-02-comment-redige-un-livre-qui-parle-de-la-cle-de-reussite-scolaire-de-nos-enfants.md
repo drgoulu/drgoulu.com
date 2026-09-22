@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - education
-- reussite-personnelle
-- developpement-de-l-enfant
-- parentalite
-- methodes-d-etude
-- livres-educatifs
-- conseils-aux-parents
-- l-education-des-enfants
-- reussite-scolaire
-- parentalite-et-education
+- developpement
+- conseils
+- methodes
+- enfants
 coverImage: ./images/quora.png
 ---
 

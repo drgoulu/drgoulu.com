@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- histoire-des-inventions
-- inovation
-- scientifiques-celebres
+- sciences
+- histoire
+- technologies
 - decouvertes-scientifiques
-- invention-et-inventions
-- histoire-des-sciences
-- sciences-et-techniques
-- histoire-de-la-science
+- invention
 coverImage: ./images/qimg-f4a2c8229739375835d22f89bfe17adf.png
 ---
 

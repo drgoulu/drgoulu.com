@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- comportement
-- question-de-sondage
+- societe
+- questions
 - eau
-- hygiene
-- engagement-ecologique
-- debats-de-societe
-- crises-de-l-eau
-- changement-d-habitudes
-- problemes-environnementaux
-- hygiene-personnelles
+- debat
+- sondages
 coverImage: ./images/qimg-4de06fa10e07246841e5ef05eca08d89.jpg
 ---
 

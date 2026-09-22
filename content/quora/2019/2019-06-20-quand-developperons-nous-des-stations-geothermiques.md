@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- innovation-technologique
-- energie-physique
+- physique
+- energie
 - energie-renouvelable
-- geothermie
-- technologie-propre
 - energie-alternative
-- energies-fossiles
-- developpement-technologique
-- energie-environnementale
-- energie-geothermique
+- innovation-technologique
 coverImage: ./images/quora.png
 ---
 

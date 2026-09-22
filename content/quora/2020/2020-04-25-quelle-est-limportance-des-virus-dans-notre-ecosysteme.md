@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - biologie
-- les-virus
 - environnement
 - ecologie
-- les-maladies-infectieuses
-- virologie
-- microbiologie-de-l-environnement
 - virus
-- ecosystemes
-- ecologie-et-epidemiologie
+- virologie
 coverImage: ./images/quora.png
 ---
 

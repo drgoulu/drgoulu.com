@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- conseils
 - argent
 - entrepreneuriat
-- gagner-de-l-argent
 - modele-economique
-- activites-rentables
-- revenu-mensuel
-- conseils-d-argent
-- sources-de-revenus
-- entrepreneuriat-et-business
-- faire-de-l-argent
+- gagner-de-l-argent
 coverImage: ./images/quora.png
 ---
 

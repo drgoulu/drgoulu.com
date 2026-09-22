@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sociologie
-- importance-de-l-education
-- histoire-humaine
-- evolution-biologie
-- demographie
-- la-fertilite
-- cout-des-etudes
-- reproduction-humaine
-- taux-de-naissance
+- evolution
+- biologie
 - evolution-humaine
+- sociologie
+- education
 coverImage: ./images/quora.png
 ---
 

@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - energie-renouvelable
-- panneaux-solaires
-- eoliennes
 - sources-d-energie
 - energie-solaire
-- pales-d-eolienne
+- eoliennes
 - conversion-de-l-energie
-- energie-solaire-photovoltaique
 coverImage: ./images/quora.png
 ---
 

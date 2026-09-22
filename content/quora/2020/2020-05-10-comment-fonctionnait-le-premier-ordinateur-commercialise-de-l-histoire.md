@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - histoire
 - informatique
-- le-premier-ordinateur
 - technologies
-- histoire-des-techniques
-- science-et-technologie
 - ordinateurs
-- science-de-l-informatique
-- histoire-de-l-informatique
-- l-histoire-de-la-technologie
 coverImage: ./images/quora.png
 ---
 

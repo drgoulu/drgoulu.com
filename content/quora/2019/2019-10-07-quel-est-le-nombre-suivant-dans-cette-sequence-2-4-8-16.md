@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- puissance
-- sequences-entieres
-- resolution-de-problemes-en-mathematiques
-- mathematique-suite-logique
+- questions
+- maths
+- probleme
 - calcul-mathematique
-- problemes-mathematiques
-- questions-de-mathematiques
-- solutions-mathematiques
-- problemes-de-maths
 coverImage: ./images/quora.png
 ---
 

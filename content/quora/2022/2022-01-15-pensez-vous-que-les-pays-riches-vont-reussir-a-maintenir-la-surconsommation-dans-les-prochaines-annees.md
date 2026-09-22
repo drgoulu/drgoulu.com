@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - societe
-- surconsommation
 - ecologie
-- pays-riches
-- consommateur
-- economie-mondiale
 - developpement-durable
 - consommation
-- societe-de-surconsommation
-- ecologie-politique
 coverImage: ./images/quora.png
 ---
 

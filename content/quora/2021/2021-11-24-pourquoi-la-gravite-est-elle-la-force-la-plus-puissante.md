@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- force-de-gravite
-- gravity
-- forces-fondamentales
-- force-physique
-- forces-gravitationnelles
 - gravite
-- la-gravite
-- gravite-physique
+- force
+- force-gravitationnelle
 coverImage: ./images/quora.png
 ---
 

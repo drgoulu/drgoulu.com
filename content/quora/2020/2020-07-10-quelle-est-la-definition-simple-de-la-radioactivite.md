@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- concept-academique
 - radioactivite
-- domaine-de-definition
-- definition-scientifique
-- definitions-des-termes
-- science-physique
 - definition
-- physiques
+- definition-scientifique
 coverImage: ./images/quora.png
 ---
 

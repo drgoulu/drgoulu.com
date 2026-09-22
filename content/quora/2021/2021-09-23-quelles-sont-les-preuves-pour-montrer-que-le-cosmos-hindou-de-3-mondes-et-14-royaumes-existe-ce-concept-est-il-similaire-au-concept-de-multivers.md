@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - preuve
-- theories-des-multivers
-- royaumes
-- religion-indienne
-- concepts-philosophiques-hindous
+- theorie
 - multiverse
-- concepts-majeurs-dans-la-religion
-- mythologie-hindoue
-- ecritures-hindoues
-- philosophie-hindoue
+- concepts-majeurs
+- religion
 coverImage: ./images/quora.png
 ---
 

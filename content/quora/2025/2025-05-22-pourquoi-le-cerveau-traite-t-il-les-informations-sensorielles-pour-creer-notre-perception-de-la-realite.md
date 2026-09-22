@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - psychologie
-- traitement-de-l-information
-- sensation
-- fonctionnement-cognitif
-- sens-humain
 - perception
-- neuroscience
+- information
 - sciences-cognitives
 - psychologie-cognitive
-- fonctionnement-du-cerveau
 coverImage: ./images/quora.png
 ---
 

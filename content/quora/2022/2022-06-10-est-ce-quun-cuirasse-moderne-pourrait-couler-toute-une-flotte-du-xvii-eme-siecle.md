@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- guerres-et-histoire-militaire
-- cuirasses
+- guerre
+- histoire-militaire
 - marine
 - xviie-siecle
-- combat-naval
-- histoire-militaire-francaise
 - histoire-navale
-- marine-de-guerre
-- bataille-navale
 coverImage: ./images/quora.png
 ---
 

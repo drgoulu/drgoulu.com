@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - biologie
-- anthropologie-culturelle
-- relations-raciales
-- couleur-de-la-peau
-- nature-humaine
-- diversite
-- sciences-humaines
 - anthropologie
+- nature-humaine
+- anthropologie-culturelle
 - races-humaines
 coverImage: ./images/quora.png
 ---

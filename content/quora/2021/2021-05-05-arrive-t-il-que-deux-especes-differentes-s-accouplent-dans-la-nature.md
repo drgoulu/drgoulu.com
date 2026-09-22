@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- evolution
 - biologie
-- accouplement
-- evolution-processus
-- especes
-- sciences-de-la-nature
-- hybrides
-- reproduction-animale
-- hybridation-chimie
-- espece-animale
-- evolution-animale
+- nature
+- processus
 coverImage: ./images/quora.png
 ---
 

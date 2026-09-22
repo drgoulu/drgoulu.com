@@ -6,15 +6,10 @@ draft: false
 categories:
 - Comment
 tags:
-- evolution-biologie
-- couleur
-- botanique
-- adaptation
+- evolution
+- biologie
 - phenomenes-naturels
-- plantes-a-fleurs
-- sciences-vegetales
-- selection-naturelle
-- botanique-et-horticulture
+- adaptation
 - evolution-animale
 coverImage: ./images/quora.png
 ---

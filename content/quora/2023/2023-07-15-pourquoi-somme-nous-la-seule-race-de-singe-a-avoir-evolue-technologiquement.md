@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- evolution
+- biologie
+- processus
 - humanite
-- evolution-processus
-- anthropologie
-- primates
-- intelligence-humaine
 - evolution-humaine
-- homo-sapiens
-- evolution-biologie
-- evolution-biologique-des-especes
-- anthropologie-societe
 coverImage: ./images/quora.png
 ---
 

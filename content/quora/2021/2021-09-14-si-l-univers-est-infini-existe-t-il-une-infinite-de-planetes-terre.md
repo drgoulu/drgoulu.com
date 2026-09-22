@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- infini-mathematiques
-- philosophie-des-sciences
-- l-univers
-- terre-planete
-- cosmologie
-- exoplanetes
-- infinite
-- astrobiologie
+- philosophie
+- mathematiques
+- univers
 coverImage: ./images/quora.png
 ---
 

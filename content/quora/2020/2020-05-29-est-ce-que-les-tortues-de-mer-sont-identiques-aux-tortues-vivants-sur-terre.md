@@ -8,14 +8,9 @@ categories:
 tags:
 - animaux
 - biologie-animale
-- differences-et-similitudes
-- tortues
 - zoologie
 - evolution-biologique-des-especes
-- animaux-terrestres
-- tortues-de-mer
 - science-biologique
-- tortues-terrestres
 coverImage: ./images/quora.png
 ---
 

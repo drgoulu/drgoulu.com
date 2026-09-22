@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- science-fiction-genre
-- colonisation-de-l-espace
-- avenir-de-l-humanite
+- espace
 - changement-climatique
 - exploration-spatiale
-- l-extinction-humaine
-- l-avenir-du-monde
-- philosophie-des-sciences
-- le-rechauffement-climatique
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- monde
 - geographie
-- borough-royal-de-greenwich
-- horloges
-- heures-de-la-journee
-- utc-heure
-- fuseaux-horaires
-- heure-solaire
 - horlogerie
-- systeme-horaire
-- geographie-du-monde
+- horloges
+- heure
 coverImage: ./images/quora.png
 ---
 

@@ -6,13 +6,9 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- corps-humains
-- radioactivite
 - sciences
 - biologie
-- risques-pour-la-sante
-- le-nucleaire
+- sante
 - medecine
 - biologie-humaine
 coverImage: ./images/qimg-f0d41e251e97d7fa30ad8f20172f2cb2.jpg

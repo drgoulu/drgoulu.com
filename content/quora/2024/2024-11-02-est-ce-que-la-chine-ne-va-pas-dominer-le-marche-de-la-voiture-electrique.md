@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - industrie-automobile
-- domination
-- la-chine
-- marche-mondial
+- chine
 - voitures-electriques
-- puissance-economique
 - technologie-automobile
-- constructeurs-automobiles
 - vehicules-electriques
 coverImage: ./images/qimg-1a4641e07fd069332360f72eefa13873.jpg
 ---

@@ -8,13 +8,9 @@ categories:
 tags:
 - psychologie
 - question-sondage
-- honte
-- adolescent
-- age-adulte
 - doute
-- adolescents-et-adolescence
-- jeunes-adultes
 - adulte
+- adolescent
 coverImage: ./images/quora.png
 ---
 

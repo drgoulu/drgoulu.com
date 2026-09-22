@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
+- vie
 - psychologie
-- inconscience
-- mythe
-- esprit-humain
-- philosophie-de-la-vie
-- etudes-de-psychologie
-- psychanalyse
 - conscience
-- l-inconscient
-- philosophie-de-l-esprit
+- etudes
 coverImage: ./images/quora.png
 ---
 

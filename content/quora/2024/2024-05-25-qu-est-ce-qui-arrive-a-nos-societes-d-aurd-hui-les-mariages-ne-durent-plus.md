@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
+- vie
 - societe
 - question-existentielle
-- mariage
-- evolution
-- taux-de-divorce
-- relations-sociales
 - famille
-- changements-sociaux
-- evolution-culturelle
-- vie-en-societe
 coverImage: ./images/quora.png
 ---
 

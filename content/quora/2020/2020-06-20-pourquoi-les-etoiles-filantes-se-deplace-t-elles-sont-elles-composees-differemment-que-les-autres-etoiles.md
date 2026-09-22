@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- phenomenes-naturels
-- etoiles-corps-celestes
-- composition-chimique
 - science-spatiale
-- observation-des-astres
-- types-d-etoiles
-- etoiles-filantes
-- etoiles-astronomie
-- phenomenes-physiques
+- etoiles-corps-celestes
+- etoiles
+- observation
 coverImage: ./images/quora.png
 ---
 

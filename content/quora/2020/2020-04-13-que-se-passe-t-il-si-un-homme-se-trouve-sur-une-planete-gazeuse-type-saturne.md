@@ -7,12 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- survivre
+- astrophysique
+- planetes
 - espace
 - systeme-solaire
-- saturne-planete
-- astrophysique
-- planetes-du-systeme-solaire
 coverImage: ./images/quora.png
 ---
 

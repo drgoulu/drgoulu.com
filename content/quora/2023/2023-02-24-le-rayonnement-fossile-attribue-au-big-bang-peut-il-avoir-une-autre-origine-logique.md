@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - astronomie
-- physique-theorique
-- rayonnement-fossile
-- expansion-de-l-univers
-- cosmologie
 - astrophysique
-- theorie-scientifique
-- origine-de-l-univers
-- theorie-cosmologique
-- cosmologie-physique
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

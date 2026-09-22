@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - covid-19-2019-2020
-- pandemie
 - virus
-- maladies-virales
 - virologie
+- pandemie
 - epidemiologie
-- origine-de-covid-19
-- covid-19-coronavirus
-- sars-coronavirus
-- epidemies
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
 - changement-climatique
-- abeilles
-- l-environnement
+- especes
 - ecologie
-- pollinisation
-- extinction-des-especes
-- apiculture
-- biodiversite
-- disparition-des-abeilles
-- ecologie-des-populations
+- extinction
 coverImage: ./images/quora.png
 ---
 

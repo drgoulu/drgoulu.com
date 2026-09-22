@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- philosophie
 - mathematiques
-- serie-divergente
-- fonction-zeta-de-riemann
-- infinite
-- theorie-des-nombres
-- infini-mathematiques
-- serie-infinie
-- mathematiques-approfondies
-- serie-geometrique
-- philosophie-des-mathematiques
+- theorie
+- nombres
+- infini
 coverImage: ./images/quora.png
 ---
 

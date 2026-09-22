@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- education
-- acces-a-l-information
-- grand-public
-- revues-scientifiques
 - recherche-scientifique
-- le-savoir
+- education
 - enseignement-superieur
 - communication-scientifique
-- revue-academique
-- recherche-academique
+- savoir
 coverImage: ./images/quora.png
 ---
 

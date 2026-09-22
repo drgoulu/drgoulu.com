@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- energie-renouvelable
-- lune-astronomie
-- satellites
 - astronomie
-- mouvement
-- energie-physique
+- energie
 - science-spatiale
-- energie-alternative
+- energie-renouvelable
 coverImage: ./images/quora.png
 ---
 

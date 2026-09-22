@@ -7,13 +7,9 @@ categories:
 - Comment
 tags:
 - astronomie
-- gaz-hydrogene
-- etoiles-corps-celestes
-- evolution-stellaire
 - astrophysique
+- etoiles-corps-celestes
 - etoiles
-- physique-stellaire
-- energie-hydrogene
 - hydrogene
 coverImage: ./images/quora.png
 ---

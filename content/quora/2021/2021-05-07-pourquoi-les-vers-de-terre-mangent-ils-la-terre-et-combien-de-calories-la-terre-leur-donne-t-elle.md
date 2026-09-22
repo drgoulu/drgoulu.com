@@ -9,12 +9,8 @@ categories:
 tags:
 - biologie
 - nutrition
-- le-sol
 - ecologie
-- vers-de-terre
-- alimentation-animale
 - zoologie
-- calories
 - entomologie
 coverImage: ./images/quora.png
 ---

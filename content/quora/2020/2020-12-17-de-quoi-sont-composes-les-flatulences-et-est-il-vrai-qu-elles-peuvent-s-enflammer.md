@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- corps-humains
 - biologie
-- gaz-gastrique
-- combustion
-- flatulence
-- physiologie-humaine
-- systeme-digestif
 - biologie-humaine
-- brulures-et-combustion
+- corps-humains
+- physiologie-humaine
 coverImage: ./images/quora.png
 ---
 

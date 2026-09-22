@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- cosmos
 - sciences
-- l-univers-astronomie
-- vitesse-de-la-lumiere
-- theorie-de-la-relativite
-- phenomenes-physiques
-- physique-theorique
-- relativite-physique
-- phenomene-physique
+- astronomie
+- univers
+- theorie
 coverImage: ./images/quora.png
 ---
 

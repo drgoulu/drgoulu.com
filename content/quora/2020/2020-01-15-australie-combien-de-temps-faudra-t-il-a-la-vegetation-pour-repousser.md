@@ -6,15 +6,10 @@ draft: false
 categories:
 - Combien
 tags:
+- environnement
 - changement-climatique
-- l-environnement
 - ecologie
 - australie
-- repousse-des-cheveux
-- vegetation
-- reboisement
-- restauration-conservation
-- degradation
 - conditions-climatiques
 coverImage: ./images/quora.png
 ---

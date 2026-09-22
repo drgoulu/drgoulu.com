@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - environnement
-- fosse-des-mariannes
 - radioactivite
-- oceanographie
 - pollution
-- traitement-des-dechets
-- substances-radioactives
-- dechets-radioactifs
-- elimination-des-dechets
+- oceanographie
+- traitements
 coverImage: ./images/quora.png
 ---
 

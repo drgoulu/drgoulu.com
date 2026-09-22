@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sciences
+- energie
 - energie-nucleaire
-- nuclear-fusion
 - centrales-nucleaires
-- science-physique
-- fission-nucleaire
-- energie-physique
-- les-centrales-nucleaires
-- technologie-nucleaire
 coverImage: ./images/quora.png
 ---
 

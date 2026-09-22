@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- changement-climatique
+- monde
+- rechauffement-climatique
 - geographie
 - question-hypothetique
-- changement-climatique
-- niveau-de-la-mer
-- scenario-futur
-- carte-du-monde
-- hypotheses
-- rechauffement-climatique
-- geographie-du-monde
-- hausse-du-niveau-de-la-mer
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- chimpanzes
-- questions-existentielles
+- biologie
 - religion
 - origines
-- primates
 - biologie-animale
-- atheisme
-- biologie
-- philosophique
 coverImage: ./images/qimg-328e039fffd5032b8074bcd59e37ea2e.jpg
 ---
 

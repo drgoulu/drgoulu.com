@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- fusees
-- la-chine
-- le-programme-apollo
+- terre
+- planetes
 - exploration-spatiale
-- terre-planete
 - nasa
-- atterrisages-sur-la-lune
-- astronautes
-- agence-spatiale-europeenne-esa
 coverImage: ./images/quora.png
 ---
 

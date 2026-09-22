@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- vols
 - sciences
-- ailes
 - biologie
-- ingenierie
-- anatomie-humaine
-- voler
 - biologie-humaine
-- anatomie
+- ingenierie
 coverImage: ./images/quora.png
 ---
 

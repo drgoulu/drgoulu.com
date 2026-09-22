@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- effets-negatifs
-- homeopathie
-- securite
-- traitements
-- mortalite
 - medecine
-- medecine-scientifique
+- securite
+- mortalite
+- traitements
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- experience
-- atomes
-- force-gravitationnelle
-- etude-scientifique
 - gravite
-- atome-physique-quantique
-- mesures-physiques
-- science-experimentale
-- gravite-physique
+- experience
+- etude-scientifique
+- atomes
 coverImage: ./images/qimg-8fcf96ae871695d8297a6814747ea03d.jpg
 ---
 

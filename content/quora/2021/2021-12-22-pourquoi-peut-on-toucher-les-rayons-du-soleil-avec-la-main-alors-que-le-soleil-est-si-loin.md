@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- le-soleil
 - sciences
 - astronomie
-- lumiere-du-soleil
-- distance
-- physique-des-rayonnements
-- distance-physique
-- la-lumiere
+- lumiere
+- soleil
 coverImage: ./images/quora.png
 ---
 

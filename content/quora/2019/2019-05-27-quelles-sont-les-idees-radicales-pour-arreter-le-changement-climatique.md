@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - changement-climatique
-- ecologisme
-- action-pour-le-climat
-- changement-radical
 - rechauffement-climatique
-- politique-climatique
 - crise-climatique
-- lutte-contre-le-changement-climatique
-- le-rechauffement-climatique
+- climats
+- ecologisme
 coverImage: ./images/quora.png
 ---
 

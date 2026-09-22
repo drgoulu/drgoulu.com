@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- covid-19-2019-2020
-- sante-publique
 - recherche-scientifique
-- pandemie
-- philosophie-ethique
-- crise-sanitaire
-- pandemie-de-covid19
-- covid-19-coronavirus
-- science-et-ethique
+- sante-publique
+- ethique
+- covid-19-2019-2020
 coverImage: ./images/quora.png
 ---
 

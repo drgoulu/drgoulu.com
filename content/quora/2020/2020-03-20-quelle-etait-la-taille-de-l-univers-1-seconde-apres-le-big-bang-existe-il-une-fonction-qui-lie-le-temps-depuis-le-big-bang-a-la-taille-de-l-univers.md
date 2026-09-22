@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- expansion-de-l-univers
-- fonctions-mathematiques
-- cosmologie
 - astrophysique
-- l-univers
-- temps-physique
-- origine-de-l-univers
-- cosmologie-du-big-bang
+- mathematiques
+- univers
+- cosmologie
 coverImage: ./images/qimg-096bb216374a7a1ba3ddd6d65721bdc5.png
 ---
 

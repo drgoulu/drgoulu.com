@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - psychologie
-- institut-d-optique
-- perception-visuelle
-- neurosciences-medicales
-- phenomenes-optiques
-- illusion-d-optique
-- systeme-visuel
+- optique
 - psychologie-cognitive
-- neurosciences
+- neuroscience
+- perception-visuelle
 coverImage: ./images/quora.png
 ---
 

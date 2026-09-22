@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- miroirs
-- science-et-technologie
-- lasers
+- sciences
+- technologies
 - optique
-- reflexion-physique
-- rayons-laser
-- puissance-physique
-- industrie-optique
+- reflexion
 coverImage: ./images/qimg-3b411e0612e2293af530ee2152903264.png
 ---
 

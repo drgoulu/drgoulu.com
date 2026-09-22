@@ -10,12 +10,7 @@ tags:
 - reseaux-sociaux
 - quora
 - commentaire
-- desactivation-des-commentaires-sur-quora
-- discussion-en-ligne
-- plateforme-quora
-- blocage-fonctionnalite-de-medias-sociaux
 - communication-en-ligne
-- sites-de-reseaux-sociaux
 coverImage: ./images/quora.png
 ---
 

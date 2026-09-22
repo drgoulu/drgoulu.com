@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - philosophie
-- investissement
-- etoiles-corps-celestes
-- trous-noirs
-- priorites-dans-la-vie
+- vie
 - recherche-scientifique
-- causes-sociales
-- planete-terre
-- priorite
-- philosophie-et-science
+- trous-noirs
 coverImage: ./images/quora.png
 ---
 

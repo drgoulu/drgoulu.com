@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- investissement
-- chine
+- physique
+- energie
 - ecologie
 - energie-renouvelable
-- pollution
 - developpement-durable
-- emissions-de-carbone
-- energie-physique
-- transition-energetique
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - astronomie
-- corps-celestes
-- meteorites
-- sciences-de-la-nature
+- terre
+- nature
 - systeme-solaire
-- asteroides
-- meteores-et-meteoroides
-- science-de-la-vie-et-de-la-terre
-- science-de-la-terre
-- le-systeme-solaire
 coverImage: ./images/quora.png
 ---
 

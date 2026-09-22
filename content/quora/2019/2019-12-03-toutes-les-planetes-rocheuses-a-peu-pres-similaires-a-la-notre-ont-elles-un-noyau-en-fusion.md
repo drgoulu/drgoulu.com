@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- noyau-terrestre
-- fusion
+- planetes
 - systeme-solaire
-- geologie-planetaire
-- exoplanetes
-- planetes-du-systeme-solaire
 - geologie
+- exoplanetes
 coverImage: ./images/quora.png
 ---
 

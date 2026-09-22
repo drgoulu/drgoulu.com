@@ -7,13 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- innovation
 - sciences
-- histoire-de-l-electricite
-- science-et-technologie
-- electricite
-- invention-et-inventions
-- l-invention
+- histoire
+- technologies
+- invention
 coverImage: ./images/quora.png
 ---
 

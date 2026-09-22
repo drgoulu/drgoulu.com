@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sciences
-- colonisation-des-planete-mars
+- planetes
+- espace
 - exploration-spatiale
-- conditions-de-vie
-- vie-extraterrestre
-- mars-planete
-- exploration-de-mars
-- colonisation-de-l-espace
 - science-spatiale
-- conditions-environnementales
 coverImage: ./images/quora.png
 ---
 

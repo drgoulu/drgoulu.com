@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- histoire
 - exploration-spatiale
-- origine-des-noms
-- nasa
-- le-programme-apollo
-- programme-gemini-programme-spatial
-- histoire-de-l-astronautique
-- programme-spatial-americain
-- etymologies-des-mots
+- origines
 - missions-spatiales
+- nasa
 coverImage: ./images/quora.png
 ---
 

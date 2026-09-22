@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- intelligence-artificielle
 - recherche-scientifique
-- sciences-informatiques
-- modelisation
-- astrobiologie
-- supercalculateurs
-- vie-extraterrestre
 - science-spatiale
-- modelisation-des-donnees
 - etude-scientifique
+- vie-extraterrestre
+- intelligence-artificielle
 coverImage: ./images/quora.png
 ---
 

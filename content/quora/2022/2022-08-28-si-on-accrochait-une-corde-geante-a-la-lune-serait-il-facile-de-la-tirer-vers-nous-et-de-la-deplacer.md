@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- question-hypothetique
-- lune-astronomie
 - astronomie
-- distance
-- force-de-gravite
-- hypotheses
-- force-physique
 - gravite
-- gravite-physique
+- lune
+- question-hypothetique
 coverImage: ./images/quora.png
 ---
 

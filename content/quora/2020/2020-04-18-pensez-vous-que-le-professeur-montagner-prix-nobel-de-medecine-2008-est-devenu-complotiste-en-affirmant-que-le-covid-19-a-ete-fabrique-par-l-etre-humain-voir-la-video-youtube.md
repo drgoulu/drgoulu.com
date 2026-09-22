@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - medecine
-- personnalite
-- luc-montagnier
 - covid-19-2019-2020
 - theories-du-complot
-- youtube
-- evenement
 - virus
-- theories-du-complot-specifiques
+- personnalites
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- univers-observable
-- l-antimatiere
+- univers
 - cosmologie
-- theorie-scientifique
-- l-univers
-- matiere-physique
 - physique-theorique
-- cosmologie-du-big-bang
-- physique-et-chimie
+- chimie
 coverImage: ./images/quora.png
 ---
 

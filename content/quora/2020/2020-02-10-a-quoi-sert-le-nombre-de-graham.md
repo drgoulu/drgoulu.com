@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - mathematiques
+- theorie
+- nombres
 - nombres-naturels
-- analyse-combinatoire
-- theorie-des-nombres
-- nombre-de-graham
-- combinaison-mathematique
-- combinatoire
-- sciences-mathematiques
-- theorie-analytique-des-nombres
-- theorie-du-nombre
 coverImage: ./images/quora.png
 ---
 

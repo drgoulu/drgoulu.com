@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- planete-neuf
 - systeme-solaire
 - objets-astronomiques
-- planetes-astronomie
-- observation-astronomique
-- planetes-du-systeme-solaire
-- astronomie-et-astrophysique
-- neuvieme-planete
-- le-systeme-solaire
+- planetes
+- astrophysique
 coverImage: ./images/quora.png
 ---
 

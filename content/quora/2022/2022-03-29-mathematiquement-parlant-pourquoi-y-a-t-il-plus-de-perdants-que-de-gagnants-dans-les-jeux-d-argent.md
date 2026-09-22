@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - mathematiques
-- jeux-d-argent
 - statistiques
-- theorie-du-jeu
-- probabilite
-- jeux-et-probabilites
-- probabilites-statistiques
-- statistiques-et-probabilites
-- post
+- jeux
 - probabilite-statistiques
+- argent
 coverImage: ./images/quora.png
 ---
 

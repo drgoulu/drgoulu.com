@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- technologie-moderne
-- comparaison
-- smartphones
-- capacites
-- histoire-de-l-informatique
-- ordinateurs
-- evolution-de-la-technologie
-- histoire-de-l-ingenierie-electronique
+- histoire
+- evolution
+- informatique
+- technologies
+- comparaisons
 coverImage: ./images/qimg-18455888baea06929a4cb1c85a1183c2.jpg
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- langages-de-programmation
+- informatique
+- programmation
+- langage
+- python
 - developpement-logiciel
-- apprendre-python
-- astuces-informatiques
-- python-langage-de-programmation
-- developpeur-informatique
-- programmation-en-python
-- conseils-de-programmation-informatique
 coverImage: ./images/quora.png
 ---
 

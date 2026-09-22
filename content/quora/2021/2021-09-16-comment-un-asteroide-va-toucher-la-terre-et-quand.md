@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- risque-et-risques
+- terre
+- planetes
 - espace
-- terre-planete
-- catastrophes-naturelles
-- crateres-d-impact
-- collisions-d-asteroides
-- dangers-naturels
-- asteroides
 coverImage: ./images/quora.png
 ---
 

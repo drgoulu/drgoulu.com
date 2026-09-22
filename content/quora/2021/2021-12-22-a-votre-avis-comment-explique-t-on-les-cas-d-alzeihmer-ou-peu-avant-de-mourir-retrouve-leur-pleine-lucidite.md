@@ -8,13 +8,9 @@ categories:
 tags:
 - contenu-adulte
 - neurologie
-- lucidite
 - sciences-cognitives
 - phenomenes-inexpliques
 - recherche-sur-la-maladie-d-alzheimer
-- cas-clinique
-- etudes-de-cas
-- maladie-d-alzheimer
 coverImage: ./images/quora.png
 ---
 

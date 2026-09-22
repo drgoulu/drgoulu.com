@@ -8,12 +8,8 @@ categories:
 tags:
 - france
 - personnalites
-- non-conventionnel
-- chercheurs
 - mysteres
-- l-etat-francais
-- disparitions
-- personnes-disparues
+- disparition
 - medecine-non-conventionnelle
 coverImage: ./images/quora.png
 ---

@@ -6,13 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- economies
-- disneyland
-- attractions-divertissement
-- billets-et-billetterie
-- gestion-du-tourisme
-- l-offre-et-la-demande-economie
-- parcs-d-attractions
+- economie
+- gestion
+- tourisme
+- offre-et-la-demande-economie
 - gestion-du-tourisme-et-des-loisirs
 coverImage: ./images/quora.png
 ---

@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- gravitation
-- energie-physique
-- concepts-en-physique
-- astrophysics
-- relativite
 - physique-theorique
-- gravity
+- energie
+- relativite
 coverImage: ./images/quora.png
 ---
 

@@ -9,13 +9,8 @@ tags:
 - sciences
 - phenomene-paranormal
 - esprit-critique
-- telepathie
 - mysteres
-- perception-extrasensorielle
-- l-esprit-humain
-- les-phenomenes-paranormaux
-- activite-paranormale-phenomenes-surnaturels
-- phenomene-surnaturel
+- esprit-humain
 coverImage: ./images/quora.png
 ---
 

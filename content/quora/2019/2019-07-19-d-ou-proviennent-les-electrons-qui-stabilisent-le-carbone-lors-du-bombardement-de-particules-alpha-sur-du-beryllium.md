@@ -8,13 +8,9 @@ categories:
 tags:
 - electrons
 - radioactivite
-- beryllium
 - particules
-- carbone-element
-- la-physique-nucleaire
-- particules-subatomiques
+- physique-nucleaire
 - reactions-nucleaires
-- particule-alpha
 coverImage: ./images/quora.png
 ---
 

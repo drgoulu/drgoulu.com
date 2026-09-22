@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- vie-quotidienne-des-adolescents
-- scenarios-scientifiques-hypothetiques
-- vitesse-de-la-lumiere
-- theorie-de-la-relativite
-- hypotheses
-- relativite-restreinte
+- theorie
 - physique-theorique
-- la-vie-quotidienne
-- relativite-physique
+- relativite
+- lumiere
 coverImage: ./images/quora.png
 ---
 

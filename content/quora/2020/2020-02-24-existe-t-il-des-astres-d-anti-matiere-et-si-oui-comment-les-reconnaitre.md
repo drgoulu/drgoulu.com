@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- etoiles-corps-celestes
-- l-antimatiere
 - astronomie
-- l-univers
-- astrophysique-theorique
-- cosmologie
-- matiere-physique
-- physique-theorique
 - astrophysique
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

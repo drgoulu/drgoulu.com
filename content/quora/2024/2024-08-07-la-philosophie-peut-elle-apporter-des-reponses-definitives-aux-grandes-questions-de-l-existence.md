@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
+- vie
 - question-existentielle
-- sens-de-la-vie
-- metaphysique
-- nature-humaine
-- reponses
-- la-realite
-- verites-de-la-vie
-- perception-de-la-vie
-- philosophe
+- perception
+- realite
 coverImage: ./images/qimg-c0dd122585e478ce059f1762d310bb80.jpg
 ---
 

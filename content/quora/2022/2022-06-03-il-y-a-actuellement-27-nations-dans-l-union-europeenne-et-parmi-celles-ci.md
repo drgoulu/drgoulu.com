@@ -9,12 +9,7 @@ tags:
 - pays
 - union-europeenne
 - systeme-monetaire
-- danemark
-- exception
-- euro-devise
-- la-zone-euro
 - monnaie-unique
-- droit-europeen
 - politique-monetaire
 coverImage: ./images/qimg-599f885908ab6c4c7449aa6ecfe34b85.jpg
 ---

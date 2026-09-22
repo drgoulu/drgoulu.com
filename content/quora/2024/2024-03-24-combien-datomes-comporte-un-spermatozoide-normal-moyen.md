@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - sciences
-- corps-humains
 - biologie
-- la-reproduction
-- atomes
-- anatomie-humaine
 - biologie-humaine
-- cellules-biologie
-- biologie-cellulaire
-- anatomie
+- atomes
+- corps-humains
 coverImage: ./images/quora.png
 ---
 

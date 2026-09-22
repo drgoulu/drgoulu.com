@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
+- sciences
 - philosophie
-- temps-dimension
 - espace
-- metaphysique
-- le-temps
-- dimensions-physique
-- philosophie-et-science
-- philosophie-des-sciences
-- temps-physique
-- espace-dimension
+- temps
 coverImage: ./images/quora.png
 ---
 

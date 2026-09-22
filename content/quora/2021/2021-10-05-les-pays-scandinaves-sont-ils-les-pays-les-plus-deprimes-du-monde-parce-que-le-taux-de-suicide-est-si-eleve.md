@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sociologie
-- contenu-adulte
-- sante-mentale
-- pays-scandinaves
 - geographie
+- sociologie
 - statistiques
-- depression
-- taux-de-suicide
-- culture-scandinave
-- sociologie-de-la-culture
+- culture
+- contenu-adulte
 coverImage: ./images/quora.png
 ---
 

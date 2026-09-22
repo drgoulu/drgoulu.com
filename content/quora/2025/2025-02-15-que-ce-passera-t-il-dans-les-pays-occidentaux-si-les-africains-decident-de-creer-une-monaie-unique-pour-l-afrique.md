@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - relations-internationales
-- monnaie-unique
 - afrique
-- pays-occidentaux
-- consequences-economiques
 - geopolitique
+- consequences-economiques
 - systeme-monetaire
-- economie-africaine
-- analyse-economique
-- relations-economiques-internationales
 coverImage: ./images/quora.png
 ---
 

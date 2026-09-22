@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
 - astrophysique
-- l-univers
-- fond-diffus-cosmologique
-- densite-physique
-- origine-de-l-univers
-- cosmologie-du-big-bang
-- univers-infini
-- masse-physique
-- expansion-de-l-univers
-- astrophysiciens
+- univers
+- cosmologie
+- origines
 coverImage: ./images/quora.png
 ---
 

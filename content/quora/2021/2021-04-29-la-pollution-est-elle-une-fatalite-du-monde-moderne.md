@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
 - societe
+- ecologie
 - question-philosophique
 - pollution
-- ecologie
-- le-monde-moderne
-- l-environnement
-- pensee-philosophique
-- les-grandes-questions-philosophiques
-- reflexions-philosophiques
-- monde-moderne
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- froid
-- l-univers-astronomie
 - astronomie
-- matiere-noire
-- cosmologie
-- univers-observable
 - astrophysique
-- l-univers
-- cosmologie-physique
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

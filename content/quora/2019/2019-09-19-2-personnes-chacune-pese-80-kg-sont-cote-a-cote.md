@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - physique
-- relativite-restreinte
-- problemes-mathematiques
-- dilation-du-temps
-- vitesse-physique
-- mouvement-physique
-- temps-physique
-- relativite-physique
-- probleme
-- calcul-du-temps
+- mathematiques
+- relativite
+- temps
+- vitesse
 coverImage: ./images/quora.png
 ---
 

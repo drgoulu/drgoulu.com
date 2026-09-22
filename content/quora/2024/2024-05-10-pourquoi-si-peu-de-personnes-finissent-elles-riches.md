@@ -8,14 +8,9 @@ categories:
 tags:
 - sociologie
 - question-existentielle
-- richesse
-- philosophique
-- inegalites-sociales
-- economie-mondiale
-- repartition-des-richesses
-- mobilite-sociale
-- inegalites-de-revenu
 - inegalite
+- richesse
+- economie-mondiale
 coverImage: ./images/quora.png
 ---
 

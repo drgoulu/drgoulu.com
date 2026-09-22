@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- hasard
-- question-existentielle
 - nature
-- la-vie-humaine
+- question-existentielle
 - existence
 - etre-humain
-- problemes-existentiels
-- lexistence-humaine
-- questions-existentielles
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- conflit-et-conflits
+- monde
 - relations-internationales
-- action-sociale
-- paix-dans-le-monde
 - sociologie
-- l-ethique
-- mouvements-sociaux
-- engagement-social
-- diplomatie-et-relation-internationale
+- ethique
 coverImage: ./images/quora.png
 ---
 

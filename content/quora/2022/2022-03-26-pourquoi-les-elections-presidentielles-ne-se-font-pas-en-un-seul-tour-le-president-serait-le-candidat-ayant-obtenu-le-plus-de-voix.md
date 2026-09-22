@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - france
-- systemes-de-vote
-- politique-francaise
-- majorite-absolue
-- elections-presidentielles
+- systeme
 - democratie
-- modes-de-scrutin
-- elections-en-france
 - elections
-- systeme-d-election
+- politique-francaise
 coverImage: ./images/quora.png
 ---
 

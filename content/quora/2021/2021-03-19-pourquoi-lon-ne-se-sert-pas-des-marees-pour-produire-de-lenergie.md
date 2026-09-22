@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- l-environnement
-- energie-physique
-- marees
+- physique
+- energie
+- environnement
 - energie-renouvelable
 - sources-d-energie
-- energie-maremotrice
-- energie
-- les-marees
 coverImage: ./images/quora.png
 ---
 

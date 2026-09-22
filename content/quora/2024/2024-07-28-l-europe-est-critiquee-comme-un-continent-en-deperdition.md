@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-europe
+- europe
 - critique
 - liberte-d-expression
 - valeurs-fondamentales
-- contre-culture
-- democratique
 - critique-sociale
-- analyse-critique
-- valeurs-europeennes
-- la-liberte-d-expression
 coverImage: ./images/quora.png
 ---
 

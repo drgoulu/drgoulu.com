@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- histoire
 - physique-theorique
-- stephen-hawking
-- heritage
-- max-planck-physicien
-- scientifiques
-- grandes-decouvertes
-- isaac-newton
 - albert-einstein-physicien
-- histoire-de-la-physique
-- physiciens
+- scientifiques
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- personnalites-politiques
-- lea
+- politique
+- opinion
+- systeme
 - planete-terre
-- changements-sociaux
-- systeme-de-gouvernement
-- opinions-politiques
-- transformation-de-systeme
-- changement-radical
-- reforme-politique
-- idees-politiques
+- gouvernement
 coverImage: ./images/quora.png
 ---
 

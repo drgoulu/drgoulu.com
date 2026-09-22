@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- question-existentielle
-- creation
-- l-univers
-- besoins-humains
+- univers
 - humanite
-- existence
-- univers-observable
-- l-humanite
-- philosophie-des-sciences
+- creation
 coverImage: ./images/quora.png
 ---
 

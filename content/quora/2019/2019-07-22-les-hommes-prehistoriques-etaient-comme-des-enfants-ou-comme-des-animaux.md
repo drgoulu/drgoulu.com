@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- comportement-humain
-- enfants
-- animaux
-- anthropologie
-- humains-prehistoriques
 - evolution
-- origines-humaines
-- pre-histoire
+- animaux
 - evolution-humaine
+- anthropologie
 coverImage: ./images/qimg-36ba3ffe12cacd5929fd071a33e7c6f2.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sante
 - alimentation
-- sexualite
-- ananas
-- mythes-et-idees-fausses
-- le-corps-feminin
-- sante-des-femmes
 - corps-humain
-- sante-sexuelle
-- sante-reproductive
-- sexualite-feminine
+- femme
+- sexualite
 coverImage: ./images/quora.png
 ---
 

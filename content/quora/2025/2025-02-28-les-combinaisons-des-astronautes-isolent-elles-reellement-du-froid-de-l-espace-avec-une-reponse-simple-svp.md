@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- exploration-spatiale
 - espace
-- froid
-- vetements-de-protection-de-feu
-- astronautes
-- protection-solaire
+- exploration-spatiale
 - technologie-spatiale
-- froid-extreme
 - voyage-spatial
-- combinaison-spatiale
+- protection
 coverImage: ./images/quora.png
 ---
 

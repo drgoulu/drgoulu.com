@@ -8,12 +8,9 @@ categories:
 tags:
 - vie-extraterrestre
 - collision-physique
-- cern-organisation
-- ethique-de-recherche
-- les-dimensions
-- large-hadron-collider-lhc
-- univers-paralleles
-- dimensions-paralleles
+- ethique
+- recherche
+- dimensions
 coverImage: ./images/quora.png
 ---
 

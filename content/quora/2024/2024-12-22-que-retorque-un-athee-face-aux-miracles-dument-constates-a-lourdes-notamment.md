@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-religion
+- sciences
+- religion
 - reponses
-- lourdes-france
 - atheisme
-- miracle
-- les-athees
 - croyances-athees
-- lourdes
-- atheisme-et-science
-- miracles
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- exploration-spatiale
+- espace
+- temps
 - systeme-solaire
-- temps-de-travail
-- jupiter-planete
-- voyage-dans-l-espace
-- vaisseau-spatial
-- periodes-de-temps
-- voyage-spatial
-- les-voyages-spaciaux
+- exploration-spatiale
+- voyage
 coverImage: ./images/qimg-b37a8d93a104b32bde6e0cfe09f0c3d8.png
 ---
 

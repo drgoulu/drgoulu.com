@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - relations-internationales
-- lockheed-martin-f-35-lightning-ii
-- armee-suisse
-- lockheed-martin-compagnie
-- avions-de-combat
 - defense-militaire
 - suisse
-- politique-etrangere-des-etats-unis
+- politique-etrangere
+- etats-unis
 coverImage: ./images/quora.png
 ---
 

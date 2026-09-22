@@ -6,15 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- science-et-technologie
-- risque
-- securite-nationale
+- sciences
+- technologies
+- societe
 - energie-nucleaire
-- catastrophes-nucleaires
-- les-centrales-nucleaires
-- accident-nucleaire
-- industrie-nucleaire
-- science-et-societe
 - risques
 coverImage: ./images/qimg-9e4c65650c71820b892ff660cfd1303e.jpg
 ---

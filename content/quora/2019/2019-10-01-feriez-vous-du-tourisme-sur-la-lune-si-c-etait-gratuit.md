@@ -6,14 +6,9 @@ draft: false
 categories:
 - Quora
 tags:
-- sondages
 - exploration-spatiale
-- questions-d-opinion
-- lune-satellite-naturel
-- vol-spatial
-- les-voyages-spaciaux
-- sondage-statistique
-- tourisme-spatial
+- opinion
+- questions
 - missions-spatiales
 - voyage-spatial
 coverImage: ./images/quora.png

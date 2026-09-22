@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - philosophie
-- hasard
-- simulation-par-ordinateur
-- machine
-- action-de-causer-et-causalite
 - probabilite-statistiques
-- les-machines
 - simulation
-- causalite
-- philosophie-des-sciences
+- hasard
 coverImage: ./images/quora.png
 ---
 

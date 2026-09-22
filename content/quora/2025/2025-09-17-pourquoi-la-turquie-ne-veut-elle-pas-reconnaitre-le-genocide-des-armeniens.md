@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - relations-internationales
-- armenie
 - turquie-pays
 - genocide
-- histoire-de-la-turquie
 - negation-du-genocide-armenien
-- politique-de-la-turquie
-- histoire-de-l-armenie
-- genocide-des-armeniens
-- genocide-armenien
+- histoire
 coverImage: ./images/quora.png
 ---
 

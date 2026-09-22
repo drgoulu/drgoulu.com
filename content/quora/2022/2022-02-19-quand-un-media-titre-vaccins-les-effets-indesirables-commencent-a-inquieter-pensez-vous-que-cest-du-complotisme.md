@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- medias
 - sante-publique
 - theories-du-complot
-- doute
-- vaccins
-- confiance
 - information
-- effets-indesirables
-- vaccination
-- medias-communication
+- medias
+- vaccins
 coverImage: ./images/quora.png
 ---
 

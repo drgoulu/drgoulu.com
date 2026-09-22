@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- scenarios-hypothetiques
 - sciences
 - astronomie
-- trous-noirs
-- question-hypothetique
-- astrophysique-theorique
-- hypotheses
-- physique-theorique
 - astrophysique
+- physique-theorique
 coverImage: ./images/quora.png
 ---
 

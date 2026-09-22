@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- philosophie
-- richard-feynman-physicien
-- opinions
-- scientifiques
 - physique
-- opinions-personnelles
-- avis-et-opinions
+- sciences
+- philosophie
 - physique-theorique
-- philosophie-des-sciences
+- opinion
 coverImage: ./images/quora.png
 ---
 

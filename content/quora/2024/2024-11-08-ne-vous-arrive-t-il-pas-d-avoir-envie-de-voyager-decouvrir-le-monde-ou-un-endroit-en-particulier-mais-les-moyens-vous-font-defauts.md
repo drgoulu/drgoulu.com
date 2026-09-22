@@ -9,12 +9,8 @@ tags:
 - motivation
 - voyage
 - difficulte
-- le-monde
-- reve
-- situation-financiere
+- monde
 - voyage-international
-- limitations
-- obstacles
 coverImage: ./images/quora.png
 ---
 

@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- nikola-tesla
-- histoire-des-inventions
-- hypotheses-scientifiques
+- histoire
 - energie
-- theories-physiques
-- histoire-de-la-physique
 - decouvertes-scientifiques
+- invention
 coverImage: ./images/quora.png
 ---
 

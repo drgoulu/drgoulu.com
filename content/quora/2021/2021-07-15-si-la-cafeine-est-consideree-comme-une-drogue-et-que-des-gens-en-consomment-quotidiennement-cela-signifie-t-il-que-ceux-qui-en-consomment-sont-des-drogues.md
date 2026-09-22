@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- comportement
-- question-philosophique
 - sociologie
-- cafeine
-- drogues
-- toxicomanie
+- question-philosophique
+- comportement
 - philosophique
-- idees-philosophiques
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- philosophie
+- politique
+- geographie
 - pays
-- philosophie-politique
 - identite
-- citoyennete
-- continents
-- appartenance
-- geographie-politique
-- nationalite
-- identite-nationale
-- identites
 coverImage: ./images/quora.png
 ---
 

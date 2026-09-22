@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- histoire
+- medecine
 - sante-publique
-- histoire-des-sciences
-- industrialisation
-- facteurs
-- cancer
-- nourriture-transformee
-- epidemiologie
-- sante-humaine
-- histoire-de-l-alimentation
-- histoire-de-la-medecine
+- alimentation
 coverImage: ./images/quora.png
 ---
 

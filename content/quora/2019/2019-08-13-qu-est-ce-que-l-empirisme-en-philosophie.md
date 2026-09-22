@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- connaissances
+- recherche
+- methodes
 - epistemologie
-- methodes-de-recherche
-- empirisme
-- idees-philosophiques
-- concept-epistemologique
-- philosophie-et-science
-- philosophie-des-sciences
-- philosophique
 coverImage: ./images/quora.png
 ---
 

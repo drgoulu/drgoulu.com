@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
+- histoire
 - changement-climatique
-- histoire-des-sciences
-- temperatures
-- climatologie
 - etude-scientifique
-- sciences-du-climat
-- paleoclimatologie
-- glaciologie
-- recherche-climatique
-- etudes-scientifiques
+- climatologie
 coverImage: ./images/quora.png
 ---
 

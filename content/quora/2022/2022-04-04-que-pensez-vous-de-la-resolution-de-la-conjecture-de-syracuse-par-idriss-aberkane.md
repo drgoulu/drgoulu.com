@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- personne
-- idriss-aberkane
-- resolution-de-problemes
-- conjecture-de-syracuse
-- conjectures
-- theorie-des-nombres
-- personne-reelle
-- questions-mathematiques
-- mathematiciens
+- theorie
+- nombres
+- questions
+- probleme
 coverImage: ./images/quora.png
 ---
 

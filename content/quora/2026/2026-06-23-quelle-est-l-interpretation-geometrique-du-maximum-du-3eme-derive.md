@@ -8,14 +8,9 @@ categories:
 tags:
 - mathematiques
 - derive
-- differentiel
-- interpretation-linguistique
-- calcul-des-variations
-- figures-geometriques
 - equations-differentielles
 - geometrie
 - calcul-mathematique
-- geometrie-differentielle
 coverImage: ./images/quora.png
 ---
 

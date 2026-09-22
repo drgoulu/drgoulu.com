@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - philosophie
-- question-existentielle
-- temps-physique
 - nature
-- memoire-humaine
-- voyage-dans-le-temps
-- science-physique
-- pensee-philosophique
-- question-philosophique
-- philosophie-et-science
+- temps
 coverImage: ./images/quora.png
 ---
 

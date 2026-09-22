@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- vaccins-a-arnm
-- maladies-neurodegeneratives
 - recherche-scientifique
-- vaccination
-- systeme-nerveux
-- information-medicale
+- sante
 - medecine
 - recherche-medicale
+- vaccination
 coverImage: ./images/quora.png
 ---
 

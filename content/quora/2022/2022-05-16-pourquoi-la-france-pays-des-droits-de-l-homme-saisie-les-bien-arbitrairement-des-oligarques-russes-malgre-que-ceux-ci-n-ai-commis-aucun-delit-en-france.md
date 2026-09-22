@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - france
-- oligarques-russes
+- droit
 - relations-internationales
-- justice
-- saisies-de-biens
-- droits-de-l-homme
-- sanctions
-- russie-pays
-- politique-etrangere-francaise
-- droit-international-des-droits-de-l-homme
+- homme
+- droit-international
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
+- astronomie
+- univers
 - espace
 - univers-observable
-- astronomie
-- accidents
-- probabilite-statistiques
-- voyage-spatial
-- l-univers
-- collision-physique
-- probabilites-statistiques
 coverImage: ./images/qimg-12e6be7edd37e84ced9e17d3b4fddd2c.jpg
 ---
 

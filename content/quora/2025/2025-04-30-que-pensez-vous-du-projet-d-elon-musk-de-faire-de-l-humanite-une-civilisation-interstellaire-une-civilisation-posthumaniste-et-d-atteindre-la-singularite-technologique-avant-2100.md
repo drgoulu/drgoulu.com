@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - exploration-spatiale
-- elon-musk
-- transhumanisme
-- avenir-de-l-humanite
-- singularite-technologique
-- developpement-technologique
-- espace-interstellaire
-- avancees-technologiques
+- humanite
+- avenir
 - voyage-interstellaire
-- post-humanisme
+- avancees-technologiques
 coverImage: ./images/quora.png
 ---
 

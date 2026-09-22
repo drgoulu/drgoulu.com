@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- temps-dimension
-- concepts-en-metaphysique
-- determinisme
-- fatalite
-- le-temps
+- temps
 - metaphysique
-- philosophie-et-science
-- philosophique
-- sciences-et-metaphysique
+- concepts
 coverImage: ./images/quora.png
 ---
 

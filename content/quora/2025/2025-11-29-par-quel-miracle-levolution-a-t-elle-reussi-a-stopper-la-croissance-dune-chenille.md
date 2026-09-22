@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - biologie
-- cocon
-- chenilles
-- les-insectes
-- metamorphose-biologie
+- insectes
 - evolution-animale
-- les-chenilles
 - reproduction-animale
-- evolution-biologie
+- evolution
 coverImage: ./images/quora.png
 ---
 

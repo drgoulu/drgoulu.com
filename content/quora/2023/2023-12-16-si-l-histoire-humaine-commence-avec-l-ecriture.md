@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - histoire
-- quechua-langue
-- civilisation-precolombienne
-- amerique-du-sud
-- ecriture
-- histoire-de-l-amerique-latine
-- civilisations-indigenes
-- art-prehistorique
+- ameriques
 - histoire-humaine
+- ecriture
 - prehistoire
 coverImage: ./images/quora.png
 ---

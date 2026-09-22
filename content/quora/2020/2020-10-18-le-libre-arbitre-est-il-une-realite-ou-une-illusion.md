@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- libre-arbitre
+- psychologie
 - question-existentielle
-- conscience
-- determinisme
-- metaphysique
-- pensee-philosophique
 - question-philosophique
-- philosophie-et-psychologie
-- idee-philosophique
+- conscience
 coverImage: ./images/quora.png
 ---
 

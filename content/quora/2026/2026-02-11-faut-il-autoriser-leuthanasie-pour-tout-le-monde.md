@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sante
 - societe
 - droit
-- ethique-philosophie-morale
-- bioethique
-- droit-de-la-sante
 - ethique
-- ethique-medicale
-- droit-humain
+- ethique-philosophie-morale
 coverImage: ./images/quora.png
 ---
 

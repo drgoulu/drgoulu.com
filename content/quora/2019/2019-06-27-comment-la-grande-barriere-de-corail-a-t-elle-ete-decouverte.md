@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - histoire
-- recifs-coralliens
-- australie
-- geographie-marine
-- decouvertes
 - geographie
 - histoire-humaine
-- sciences-marine
-- biologie-marine
+- decouvertes
+- australie
 coverImage: ./images/quora.png
 ---
 

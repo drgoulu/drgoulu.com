@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- animaux
+- psychologie
 - comportement-animal
-- miroirs
+- comportement
 - conscience-de-soi
-- animaux-de-compagnie
-- intelligence-animale
-- psychologie-canine
-- comportement-felin
-- comportement-des-chiens
-- psychologie-des-animaux
-- psychologie-animale
 coverImage: ./images/quora.png
 ---
 

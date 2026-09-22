@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-vie
-- evolution-processus
-- creatures
-- evolution-humaine
+- sciences
 - evolution
-- entites
-- theorie-de-l-evolution
-- evolution-biologique-des-especes
-- biologie-de-l-evolution
-- creature
+- biologie
+- theorie
+- vie
 coverImage: ./images/qimg-46b7199589f5000bf1add161af5a773a.jpg
 ---
 

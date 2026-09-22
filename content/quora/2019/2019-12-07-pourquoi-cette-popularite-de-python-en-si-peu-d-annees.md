@@ -3,16 +3,11 @@ title: Pourquoi cette popularité de Python en si peu d'années ?
 date: 2019-12-07
 draft: false
 tags:
+  - sciences
   - informatique
-  - popularite
-  - innovation-technologique
-  - python-langage-de-programmation
-  - developpement-logiciel
-  - langages-de-programmation
-  - science-de-l-informatique
-  - tendances-technologiques
-  - changement-technologique
-  - programmation-en-python
+  - programmation
+  - langage
+  - python
 categories:
   - Pourquoi
 slug: pourquoi-cette-popularite-de-python-en-si-peu-d-annees

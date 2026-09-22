@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- theories-de-champs-de-jauge
+- physique-theorique
+- physique-quantique
 - modele-standard-de-la-physique-des-particules
 - forces-fondamentales
-- symetrie-de-jauge
-- theorie-quantique-des-champs
-- physique-quantique
-- physique-theorique
-- theorie-des-champs
 coverImage: ./images/quora.png
 ---
 

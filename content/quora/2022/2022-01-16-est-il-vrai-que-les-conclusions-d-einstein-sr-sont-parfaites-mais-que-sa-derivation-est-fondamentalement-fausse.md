@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- albert-einstein-physicien
-- decouvertes-scientifiques
-- relativite-restreinte
+- philosophie
 - theorie
-- theories-physiques
 - physique-theorique
-- explications-scientifiques
-- philosophie-de-la-physique
-- hypotheses-scientifiques
+- decouvertes-scientifiques
 coverImage: ./images/quora.png
 ---
 

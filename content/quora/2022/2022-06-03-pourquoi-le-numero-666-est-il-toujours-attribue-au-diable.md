@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- diable
-- 666-nombre
 - christianisme
 - culture-populaire
 - religion
-- symboles
 - mythologie
-- le-diable
-- symbolisme
 coverImage: ./images/quora.png
 ---
 

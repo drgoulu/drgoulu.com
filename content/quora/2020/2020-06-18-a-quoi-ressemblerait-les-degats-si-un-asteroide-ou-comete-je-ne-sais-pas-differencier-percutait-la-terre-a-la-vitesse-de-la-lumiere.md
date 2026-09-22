@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- catastrophes-naturelles
-- terre-planete
-- extinction-humaine-via-la-frappe-d-asteroides
-- vitesse-de-la-lumiere
-- dommages
-- crateres-d-impact
-- comete
-- asteroides
-- planetes-astronomie
+- terre
+- planetes
+- lumiere
+- vitesse
 coverImage: ./images/quora.png
 ---
 

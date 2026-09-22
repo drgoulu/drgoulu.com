@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - changement-climatique
-- niveau-de-la-mer
+- rechauffement-climatique
 - phenomenes-naturels
-- oceanographie
-- environnement-marin
-- sciences-de-la-mer
-- geographie-marine
-- le-rechauffement-climatique
-- hausse-du-niveau-de-la-mer
-- oceanographie-physique
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- raison
-- falsifiabilite
-- preuve
+- logique
 - epistemologie
-- verite
-- logique-philosophie
-- raisonnement
-- philosophie-des-sciences
-- preuve-science
+- preuve
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - developpement-web
-- debutant
-- conseils-d-apprentissage
-- full-stack-developer
-- developpement-full-stack
-- processus-d-apprentissage
-- demarrage
+- conseils
+- apprentissage
+- processus
 - developpement-web-et-mobile
-- developpement-web-fullstack
 coverImage: ./images/qimg-f5dd9f30a17c69ed3249c6e9d178addf.jpg
 ---
 

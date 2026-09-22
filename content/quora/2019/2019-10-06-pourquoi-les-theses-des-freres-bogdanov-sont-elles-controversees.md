@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- personnalites
-- freres-bogdanov
-- recherche-scientifique
-- controverses
-- cosmologie
-- theses
 - astrophysique
-- publications-scientifiques
+- cosmologie
+- recherche-scientifique
+- personnalites
 coverImage: ./images/quora.png
 ---
 

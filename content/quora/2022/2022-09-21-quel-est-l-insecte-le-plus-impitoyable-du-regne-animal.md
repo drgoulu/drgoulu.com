@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- comportement-animal
-- question-d-enquete
+- questions
 - biologie-animale
 - zoologie
-- regne-animal
-- questions-curieuses
-- entomologie
-- vie-animale
-- science-animale
+- comportement-animal
+- enquetes
 coverImage: ./images/qimg-a51935bd8b9d436ed8d7c9ca8e641ed9.jpg
 ---
 

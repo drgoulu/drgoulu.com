@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- religion
 - spiritualite
 - preuve
-- efficacite
-- cristaux
 - medecine-non-conventionnelle
-- esoterisme-mysticisme-occultisme
-- sciences-ocultes
-- l-esoterisme
-- religion-et-spiritualite
-- sciences-occultes
+- efficacite
 coverImage: ./images/quora.png
 ---
 

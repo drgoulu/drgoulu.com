@@ -7,12 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- modele-janus
-- l-univers-astronomie
 - astronomie
-- theorie
+- univers
 - cosmologie
-- theorie-scientifique
+- theorie
 coverImage: ./images/quora.png
 ---
 

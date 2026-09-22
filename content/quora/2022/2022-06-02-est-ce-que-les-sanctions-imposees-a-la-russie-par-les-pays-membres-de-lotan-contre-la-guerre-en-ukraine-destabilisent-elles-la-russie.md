@@ -8,12 +8,8 @@ categories:
 tags:
 - relations-internationales
 - guerre
-- russie
-- otan
-- stabilite
-- sanctions-economiques
-- destabilisation
 - politique-internationale
+- russie
 - politique-etrangere
 coverImage: ./images/quora.png
 ---

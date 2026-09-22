@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- frottements
-- explications
-- information-scientifique
-- force-physique
 - mecanique
-- science-math
+- force
 - explications-scientifiques
-- donnees-scientifiques
 coverImage: ./images/qimg-27fc3f4a72745b512b510964552c8cf8.jpg
 ---
 

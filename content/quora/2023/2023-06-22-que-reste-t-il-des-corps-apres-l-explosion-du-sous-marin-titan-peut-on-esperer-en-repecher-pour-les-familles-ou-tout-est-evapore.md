@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- recuperation
-- famille
-- oceans
 - catastrophes
-- exploration-sous-marine
-- corps
-- decomposition-des-corps
-- tragedie
+- oceans
+- famille
 - explosions
-- sous-marins
+- corps
 coverImage: ./images/quora.png
 ---
 

@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- masse-negative
-- hypotheses-scientifiques
 - theorie
-- masse-physique
-- concepts-en-physique
 - physique-theorique
-- theories-physiques
+- masse-physique
+- hypotheses-scientifiques
 coverImage: ./images/quora.png
 ---
 

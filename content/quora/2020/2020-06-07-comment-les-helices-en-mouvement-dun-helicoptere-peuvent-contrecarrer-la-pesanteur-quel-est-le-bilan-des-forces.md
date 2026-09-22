@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- vol
-- pesanteur
-- helicopteres
-- portance-aerodynamique
-- les-helices
-- force-physique
 - mecanique
+- force
 - aerodynamique
+- vol
 coverImage: ./images/quora.png
 ---
 

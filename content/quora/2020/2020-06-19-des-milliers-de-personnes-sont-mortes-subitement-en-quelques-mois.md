@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- mort-subite
+- vie
 - croyance
+- perception
 - reflexion
-- spiritualite
-- perspectives-sur-la-vie
-- mortalite
-- approche-de-la-vie
-- perception-de-la-vie
 coverImage: ./images/quora.png
 ---
 

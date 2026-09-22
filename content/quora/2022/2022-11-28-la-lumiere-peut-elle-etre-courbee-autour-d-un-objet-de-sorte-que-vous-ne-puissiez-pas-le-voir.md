@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- reflexion
-- vision
-- illusion-d-optique
-- lumiere-physique
-- diffraction
-- phenomenes-optiques
-- optique
-- refraction
+- lumiere
 - phenomenes-physiques
+- optique
+- reflexion
 coverImage: ./images/quora.png
 ---
 

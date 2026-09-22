@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- relations-internationales
-- russie
-- volodymyr-zelenskyi-homme-politique-ukrainien
-- personnalite-publique
-- geneve
-- evenement
-- diplomatie-et-diplomates
-- politique-internationale
 - suisse
+- relations-internationales
+- politique-internationale
+- russie
+- evenement
 coverImage: ./images/quora.png
 ---
 

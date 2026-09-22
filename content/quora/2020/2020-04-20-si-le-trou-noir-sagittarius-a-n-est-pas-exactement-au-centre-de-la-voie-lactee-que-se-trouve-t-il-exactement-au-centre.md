@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- trous-noirs
-- corps-celestes
-- galaxie-de-la-voie-lactee
 - astrophysique
-- objets-astronomiques
+- trous-noirs
 - galaxies
-- la-voie-lactee-astronomie
-- trous-noirs-supermassifs
-- astrophysique-relativiste
+- objets-astronomiques
 coverImage: ./images/quora.png
 ---
 

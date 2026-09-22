@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- etoiles-corps-celestes
 - astronomie
-- energie-nucleaire
-- terre-planete
-- hydrogene
 - astrophysique
-- energie-physique
+- terre
 coverImage: ./images/quora.png
 ---
 

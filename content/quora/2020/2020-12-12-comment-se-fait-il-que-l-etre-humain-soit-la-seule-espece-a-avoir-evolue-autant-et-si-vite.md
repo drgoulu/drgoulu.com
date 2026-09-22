@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- biologie-humaine
-- evolution-processus
-- anthropologie
-- especes
-- sciences-de-la-vie
-- taux-d-evolution
-- evolution-humaine
-- espece-humaine
-- evolution-biologie
-- biologie-evolutive-humaine
+- sciences
+- evolution
+- biologie
+- vie
+- processus
 coverImage: ./images/quora.png
 ---
 

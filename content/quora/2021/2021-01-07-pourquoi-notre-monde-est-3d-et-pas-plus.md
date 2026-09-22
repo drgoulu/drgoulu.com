@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- espace
-- univers-observable
+- univers
 - cosmologie
-- modele
-- l-univers
-- dimensions-physique
 - physique-theorique
-- espace-3d
-- espace-dimension
+- espace
 coverImage: ./images/qimg-4d7f2988a459395b797728080c3d02e2.png
 ---
 

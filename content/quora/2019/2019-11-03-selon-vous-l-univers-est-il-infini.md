@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- question-existentielle
 - sciences
-- cosmologie
-- l-univers
-- idees-philosophiques
-- infinite
-- question-philosophique
+- philosophie
 - astrophysique
-- philosophie-de-la-cosmologie
+- univers
 coverImage: ./images/quora.png
 ---
 

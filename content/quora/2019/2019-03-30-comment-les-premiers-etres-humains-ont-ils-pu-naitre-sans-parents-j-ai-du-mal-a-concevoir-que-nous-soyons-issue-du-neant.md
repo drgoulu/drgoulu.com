@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- philosophie
 - sciences
-- origine-des-civilisations
-- theorie-de-l-evolution
+- histoire
+- philosophie
 - evolution
-- histoire-de-l-humanite
-- origine-de-la-vie
-- philosophie-des-sciences
-- evolution-humaine
-- biologie-de-l-evolution
+- biologie
 coverImage: ./images/quora.png
 ---
 

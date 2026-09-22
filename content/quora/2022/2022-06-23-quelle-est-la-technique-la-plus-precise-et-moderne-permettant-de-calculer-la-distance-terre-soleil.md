@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - astronomie
-- le-soleil
-- terre-planete
-- techniques-scientifiques
-- systeme-solaire
-- science-physique
-- relation-terre-soleil
-- mecanique-spatiale
-- astronomie-d-observation
-- le-soleil-astronomie
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

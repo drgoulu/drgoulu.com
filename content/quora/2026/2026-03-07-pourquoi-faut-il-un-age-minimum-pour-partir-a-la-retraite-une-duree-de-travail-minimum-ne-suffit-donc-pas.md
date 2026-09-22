@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- travail-emploi
-- systeme-francais-de-retraite-par-repartition
-- lois-du-pays
-- politique-sociale
-- retraite
-- droit-du-travail
-- financement-des-retraites
-- temps-de-travail
-- l-age-de-la-retraite
+- temps
+- droit
+- loi
+- pays
+- travail
 coverImage: ./images/quora.png
 ---
 

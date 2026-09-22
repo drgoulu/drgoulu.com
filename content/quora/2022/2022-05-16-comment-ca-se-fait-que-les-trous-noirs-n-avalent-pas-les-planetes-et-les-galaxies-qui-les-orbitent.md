@@ -7,13 +7,9 @@ categories:
 - Comment
 tags:
 - physique
-- trous-noirs-supermassifs
-- espace
 - astronomie
-- orbites
-- gravitation
-- galaxies
 - astrophysique
+- espace
 - trous-noirs
 coverImage: ./images/quora.png
 ---

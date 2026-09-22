@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sciences
-- desastre-nucleaire-de-tchernobyl-avril-1986
 - energie-nucleaire
-- accidents-nucleaires-civils
-- centrale-nucleaire-de-tchernobyl
 - catastrophes-nucleaires
 - accident-nucleaire
 - reacteurs-nucleaires
-- les-catastrophes-nucleaires
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- futur
+- physique
 - histoire
-- reflexion
-- passe
-- temps-physique
-- concept-philosophique-lie-au-temps
-- perception-du-temps
-- philosophie-du-temps
-- l-histoire
+- philosophie
+- temps
+- futur
 coverImage: ./images/quora.png
 ---
 

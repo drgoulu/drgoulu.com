@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - psychologie
-- question-existentielle
-- impression
-- comportement-humain
-- pensee-philosophique
-- intelligence-humaine
-- perception
 - sociologie
-- question-philosophique
+- question-existentielle
+- comportement-humain
+- perception
 coverImage: ./images/quora.png
 ---
 

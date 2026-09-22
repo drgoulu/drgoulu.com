@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- vitesse-de-la-lumiere
-- theorie-cosmologique
-- relativite-physique
-- lois-de-la-physique
+- theorie
 - physique-theorique
-- science-physique
-- theorie-de-la-relativite
-- physique-mathematique
+- relativite
 coverImage: ./images/quora.png
 ---
 

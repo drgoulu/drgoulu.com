@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- trous-noirs
-- espace
 - astronomie
-- singularite
-- relativite-physique
-- astrophysique-theorique
+- astrophysique
 - cosmologie
 - physique-theorique
-- astrophysique
 coverImage: ./images/quora.png
 ---
 

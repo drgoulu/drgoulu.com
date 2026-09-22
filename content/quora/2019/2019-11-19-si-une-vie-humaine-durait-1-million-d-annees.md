@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- voyage-interstellaire
 - astronomie
-- duree-de-vie-de-l-homme
-- distance-voyage
-- vitesse-de-la-lumiere
+- vie
 - exploration-spatiale
-- galaxies
-- science-spatiale
-- duree-de-vie
+- lumiere
 coverImage: ./images/quora.png
 ---
 

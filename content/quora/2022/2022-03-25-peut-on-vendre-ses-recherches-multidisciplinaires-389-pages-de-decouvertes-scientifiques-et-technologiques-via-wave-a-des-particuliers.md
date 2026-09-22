@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- ventes
-- particuliers
-- transdisciplinarite
+- sciences
 - recherche-scientifique
-- livres-scientifiques
-- science-interdisciplinaire
-- pluridisciplinaire
+- technologies
 - publications-scientifiques
-- multidisciplinaire
+- livres-scientifiques
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- voyage-dans-le-temps
-- relativite-restreinte
-- vitesse-de-la-lumiere
-- theorie-de-la-relativite
+- theorie
 - physique-theorique
-- relativite-generale
-- relativite-physique
-- physique-mathematique
+- relativite
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - mathematiques
-- algebre
-- carre-parfait
-- resolution-de-problemes
-- nombre-entier
-- equations-quadratiques
-- resolution-d-equations-polynomiales
+- probleme
 - equations
-- equations-mathematiques
-- numeros-entiers
+- resolutions
+- algebre
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- musique
 - comparaisons
-- culture-francaise
-- alain-souchon
+- musique
 - genie
-- chanson-francaise
+- culture-francaise
 - musiciens
-- artistes-francais
-- musique-francaise
 coverImage: ./images/quora.png
 ---
 

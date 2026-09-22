@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- log
 - racine
 - racines-carrees-fonctions
-- fonction-exponentielle
-- logarithme
-- fonctions-logarithmiques
-- fonctions-mathematiques
-- questions-mathematiques
+- fonctions
+- questions
 coverImage: ./images/quora.png
 ---
 

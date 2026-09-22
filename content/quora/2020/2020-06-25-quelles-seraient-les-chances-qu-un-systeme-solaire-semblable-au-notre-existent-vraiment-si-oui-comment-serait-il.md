@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- recherche-scientifique
-- probabilite-statistiques
-- etoiles-corps-celestes
-- systeme-solaire
-- exoplanetes
-- l-univers-astronomie
 - astrophysique
-- systemes-solaires
+- univers
+- recherche-scientifique
+- systeme-solaire
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - recherche-scientifique
-- observation
-- taille
-- elements-chimie
 - gravite
-- mesures-physiques
-- observation-scientifique
 - etude-scientifique
-- gravite-physique
+- observation
 coverImage: ./images/quora.png
 ---
 

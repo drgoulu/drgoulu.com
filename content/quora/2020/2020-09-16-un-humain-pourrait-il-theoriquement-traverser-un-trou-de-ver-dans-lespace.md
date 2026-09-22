@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
-- voyage-dans-l-espace
 - astronomie
-- l-univers
-- exploration-spatiale
-- cosmologie
 - astrophysique
-- physique-theorique
-- voyage-interstellaire
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Combien
 tags:
 - sciences
+- environnement
 - energie-nucleaire
-- risque-et-risques
-- l-environnement
-- materiaux-radioactifs
-- dechets-nucleaires
 - radioactivite
-- chimie-nucleaire
-- technologie-nucleaire
+- risque-et-risques
 coverImage: ./images/qimg-fb4016ff20723c5a2b207a33b3182d6f.jpg
 ---
 

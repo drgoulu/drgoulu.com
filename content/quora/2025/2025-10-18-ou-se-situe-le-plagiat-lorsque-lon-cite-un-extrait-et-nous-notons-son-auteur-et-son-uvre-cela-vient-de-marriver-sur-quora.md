@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - quora
-- citation-academique
-- uvre
 - plagiat
 - protection-de-la-proprite-intellectuelle
-- les-citations
-- plagiat-et-tricherie-academique
-- plagiat-sur-quora
-- citant-des-sources
+- citations
 - propriete-intellectuelle
 coverImage: ./images/quora.png
 ---

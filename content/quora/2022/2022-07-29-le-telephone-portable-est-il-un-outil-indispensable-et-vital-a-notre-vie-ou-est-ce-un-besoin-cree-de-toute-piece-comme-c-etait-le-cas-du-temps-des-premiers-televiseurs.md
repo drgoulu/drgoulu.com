@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
+- vie
 - societe
-- telephone-portable
-- histoire-des-inventions
-- besoin
+- invention
 - nouvelles-technologies
-- consommation
-- televiseurs
-- besoins-humains
-- vie-en-societe
 coverImage: ./images/quora.png
 ---
 

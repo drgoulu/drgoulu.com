@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-du-monde
-- faune
-- les-predateurs
-- terre-planete
-- taille-de-l-animal
-- paleontologie
-- la-vie-prehistorique
-- superpredateurs
-- animaux-prehistoriques
-- histoire-de-la-terre
+- histoire
+- terre
+- planetes
+- monde
+- animaux
 coverImage: ./images/qimg-fe585e922a90a1b8c5eb74052f88a2e8.jpg
 ---
 

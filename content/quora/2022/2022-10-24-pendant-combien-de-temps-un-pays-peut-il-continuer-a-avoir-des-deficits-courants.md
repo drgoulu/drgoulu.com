@@ -8,11 +8,7 @@ categories:
 tags:
 - economie-mondiale
 - finances-publiques
-- deficit-commercial
-- compte-courant
 - politique-macroeconomique
-- deficit-budgetai
-- deficit
 - dette-publique
 - econonomie
 coverImage: ./images/quora.png

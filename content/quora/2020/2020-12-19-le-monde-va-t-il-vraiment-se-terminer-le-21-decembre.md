@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - theories-du-complot
-- apocalypse
-- date
-- propheties
-- la-fin-du-monde
-- apocalypse-christianisme
-- scenarios-de-fin-du-monde
+- fin-du-monde
 - theories-du-complot-specifiques
-- propheties-bibliques
+- scenarios-de-fin-du-monde
+- propheties
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - droit
-- justice
-- citoyennete
-- egalite
-- education-legale
-- accessibilite
 - loi
-- droit-humain
-- sciences-juridiques
+- justice
+- egalite
+- accessibilite
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - histoire
-- livre-le-plus-ancien
-- datation
-- archeologie-prehistorique
+- monde
 - creation
-- antiquites-objets
-- histoire-du-monde
 - histoire-humaine
-- artefacts-anciens
 - archeologie
 coverImage: ./images/quora.png
 ---

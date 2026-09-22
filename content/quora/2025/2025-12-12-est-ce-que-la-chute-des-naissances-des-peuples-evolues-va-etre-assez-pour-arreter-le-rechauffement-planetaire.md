@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - changement-climatique
+- rechauffement-climatique
 - ecologie
 - demographie
-- natalite
-- pays-developpes
 - population
-- baisse-du-taux-de-natalite
-- rechauffement-climatique
-- la-fertilite
-- taux-de-naissance
 coverImage: ./images/qimg-04e26237633c60a9fd3459caf9a06534.png
 ---
 

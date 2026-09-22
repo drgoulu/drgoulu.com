@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- medias
-- covid-19-2019-2020
+- sante
+- animaux
 - sante-publique
-- elevage-animal
-- epidemies
-- propagation-des-coronavirus
-- medias-d-information
-- maladies-des-animaux
-- covid-19-coronavirus
-- sante-des-animaux
+- covid-19-2019-2020
+- information
 coverImage: ./images/quora.png
 ---
 

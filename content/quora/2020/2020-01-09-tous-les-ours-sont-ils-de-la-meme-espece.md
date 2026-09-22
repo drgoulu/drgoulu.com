@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - biologie
-- ours-animal
+- animaux
 - especes
-- taxonomie-des-animaux
-- l-espece-animal
 - zoologie
-- classification-biologique
 - science-biologique
-- classification-des-animaux
 coverImage: ./images/quora.png
 ---
 

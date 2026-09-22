@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- france
+- voyage
 - tourisme-guide-touristique
-- euro-devise
-- cuisine-peruvienne
-- prix-alimentaires
-- perou
 - touristes
-- voyage-en-france
-- visiter-et-voyager-au-perou
-- travel-and-tourism
-- tourismes-et-voyages
+- tourisme
 coverImage: ./images/quora.png
 ---
 

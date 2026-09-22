@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- anthropologie
+- histoire
+- humanite
 - evolution-humaine
-- reproduction
-- hybridation-chimie
+- anthropologie
 - paleontologie
-- homo-sapiens
-- histoire-de-l-humanite
-- homme-de-neandertal
 coverImage: ./images/quora.png
 ---
 

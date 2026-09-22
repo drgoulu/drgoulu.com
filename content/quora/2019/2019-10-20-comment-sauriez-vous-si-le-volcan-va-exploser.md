@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- predictions
+- sciences
+- terre
 - geologie
-- risque-et-risques
 - catastrophes-naturelles
-- volcans
-- sciences-de-la-terre
-- eruption-volcanique
-- dangers-naturels
-- volcanologie
-- volcanologistes
+- risque-et-risques
 coverImage: ./images/qimg-1866fb0486b85980d9cb0b335911438b.jpg
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
+- terre
+- planetes
 - espace
-- terre-planete
-- gravite-zero
-- gravite-physique
-- poids-physique
-- gravite-de-la-terre
-- force-de-gravite
-- gravite
 coverImage: ./images/quora.png
 ---
 

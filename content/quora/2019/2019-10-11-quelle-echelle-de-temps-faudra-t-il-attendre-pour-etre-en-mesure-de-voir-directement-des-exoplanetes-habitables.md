@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- exploration-spatiale
-- planetes-habitables
 - astrophysique
+- exploration-spatiale
 - vie-extraterrestre
-- technologie-spaciale
 - voyage-spatial
-- exoplanetes
-- habitabilite-planetaire
 coverImage: ./images/quora.png
 ---
 

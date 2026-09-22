@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- calendrier
-- age
-- millenaire
-- histoire-du-monde
-- chronologie
-- epoque
-- annees
+- monde
 - histoire-humaine
-- l-histoire
+- age
+- annee
 coverImage: ./images/quora.png
 ---
 

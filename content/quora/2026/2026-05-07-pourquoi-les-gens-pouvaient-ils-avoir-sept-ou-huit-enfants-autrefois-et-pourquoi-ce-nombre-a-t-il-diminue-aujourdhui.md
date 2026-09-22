@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- famille
-- histoire-humaine
+- vie
 - demographie
-- changements-sociaux
-- la-fertilite
+- histoire-humaine
 - population
-- vie-de-famille
-- taux-de-naissance
-- famille-nombreuse
-- changements-culturels
+- famille
 coverImage: ./images/qimg-b55460037067b0b7f1937c30921e22ba.jpg
 ---
 

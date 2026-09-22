@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- evolution-processus
-- histoire-des-sciences
-- charles-darwin
-- evolution-humaine
-- darwinisme
-- evolution-biologie
-- theorie-de-l-evolution
-- evolution-biologique-des-especes
-- histoire-de-la-biologie-de-l-evolution
-- histoire-de-la-biologie
+- sciences
+- histoire
+- evolution
+- biologie
+- theorie
 coverImage: ./images/quora.png
 ---
 

@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espace
-- intuition
-- relativite-generale
-- theorie-de-la-relativite
+- theorie
 - physique-theorique
-- espace-temps
-- relativite-physique
+- relativite
+- espace
 coverImage: ./images/qimg-ff1ab87472019402dba89074668050c7.jpg
 ---
 

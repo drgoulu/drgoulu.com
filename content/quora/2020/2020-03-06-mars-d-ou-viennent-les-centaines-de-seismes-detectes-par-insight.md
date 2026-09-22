@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- terre
+- planetes
 - exploration-spatiale
-- insight
-- nasa
-- seismes
-- mars-planete
-- sciences-de-la-terre
-- sismologie
-- mission-sur-mars
-- geologie-planetaire
-- exploration-de-mars
+- mars
 coverImage: ./images/quora.png
 ---
 

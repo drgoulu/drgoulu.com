@@ -7,12 +7,8 @@ categories:
 - Quora
 tags:
 - securite
-- survivant
-- guerre-nucleaire
+- risques
 - catastrophes
-- risque
-- preparation-aux-catastrophes
-- attaque-nucleaire
 - catastrophes-nucleaires
 - securite-nationale
 coverImage: ./images/quora.png

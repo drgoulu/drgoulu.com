@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- animaux
+- sciences
 - recherche-scientifique
-- comportement-animal
-- placebos
-- medecine-veterinaire
-- effets-placebo-sante
-- psychologie-des-animaux
-- sante-des-animaux
-- sciences-des-animaux
-- sante-animale
+- sante
+- animaux
+- psychologie
 coverImage: ./images/quora.png
 ---
 

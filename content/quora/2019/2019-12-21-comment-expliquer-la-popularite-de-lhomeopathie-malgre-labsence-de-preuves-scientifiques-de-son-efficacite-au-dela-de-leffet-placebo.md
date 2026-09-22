@@ -6,15 +6,10 @@ draft: false
 categories:
 - Comment
 tags:
-- sante
-- preuves-scientifiques
-- popularite
 - sciences
-- effets-placebo-sante
-- homeopathie
-- medecine-de-complement-et-alternative
+- sante
 - medecine
-- medecine-non-conventionnelle
+- preuves-scientifiques
 - explications-scientifiques
 coverImage: ./images/quora.png
 ---

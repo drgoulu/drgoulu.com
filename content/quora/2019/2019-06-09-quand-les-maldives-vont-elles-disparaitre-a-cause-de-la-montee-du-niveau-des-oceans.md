@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- geographie
+- sciences
+- environnement
 - changement-climatique
-- maldives
-- niveau-de-la-mer
-- dangers-naturels
-- sciences-de-l-environnement
-- montee-des-eaux
-- catastrophes-environnementales
-- le-rechauffement-climatique
-- hausse-du-niveau-de-la-mer
+- rechauffement-climatique
+- geographie
 coverImage: ./images/quora.png
 ---
 

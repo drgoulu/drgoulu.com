@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- processus-mental
 - efficacite
-- methodes-de-concentration
-- nombres-reels
-- rapidite
-- les-nombres
-- calcul-mental
-- techniques-de-memoire
-- methodes-quantitatives
+- nombres
+- technique
+- memoire
 coverImage: ./images/quora.png
 ---
 

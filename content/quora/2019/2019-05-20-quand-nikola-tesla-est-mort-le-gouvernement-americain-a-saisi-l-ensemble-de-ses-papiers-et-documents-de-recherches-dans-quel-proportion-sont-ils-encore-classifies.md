@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- personne
+- physique
+- sciences
+- histoire
+- technologies
 - theories-du-complot
-- nikola-tesla
-- gouvernement-americain
-- documents-historiques
-- histoire-des-sciences
-- classification-de-l-information
-- documents-de-recherche
-- histoire-de-la-physique
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- jeux
 - intelligence-artificielle
-- echecs
 - sciences-informatiques
-- strategie
-- jeux-de-l-esprit
 - algorithmes
-- jeux-de-reflexion
-- jeu-d-echecs
-- strategies-de-jeu
+- reflexion
 coverImage: ./images/quora.png
 ---
 

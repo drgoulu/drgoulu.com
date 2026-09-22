@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
 - changement-climatique
-- l-environnement
-- conference-des-parties
-- methane-compose-chimique
-- cop26
-- gaz-a-effet-de-serre
-- emissions-de-carbone
-- conferences
-- politique-climatique
 - crise-climatique
+- emission
+- carbone
 coverImage: ./images/quora.png
 ---
 

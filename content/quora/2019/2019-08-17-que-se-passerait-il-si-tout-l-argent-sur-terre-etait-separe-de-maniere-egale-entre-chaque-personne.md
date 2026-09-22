@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - societe
-- argent
 - question-philosophique
+- richesse
+- argent
 - economie-mondiale
-- scenarios-hypothetiques
-- egalite
-- distribution-de-richesse
-- philosophique
-- idees-philosophiques
-- repartition-des-richesses
 coverImage: ./images/quora.png
 ---
 

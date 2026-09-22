@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
+- terre
+- planetes
+- environnement
 - changement-climatique
-- terre-planete
-- geo-ingenierie
-- l-environnement
-- refroidissement
-- climatologie
-- solutions-au-rechauffement-de-la-planete
-- rechauffement-climatique
-- crise-climatique
 coverImage: ./images/quora.png
 ---
 

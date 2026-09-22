@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - mathematiques
-- espaces-de-hilbert
 - definition
-- analyse-fonctionnelle
 - notation-mathematique
-- termes-et-definitions-mathematiques
-- langage-mathematique
-- sciences-mathematiques
+- sciences
 - post
 coverImage: ./images/quora.png
 ---

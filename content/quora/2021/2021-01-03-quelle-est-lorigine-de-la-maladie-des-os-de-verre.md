@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - sante
-- tissu-osseux
-- maladies-du-tissu-conjonctif
 - genetique
 - medecine
 - maladie-genetique
-- densite-osseuse
-- structure-osseuse
 - genetique-medicale
 coverImage: ./images/quora.png
 ---

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- mutation-genetique
 - biologie
-- etres-vivants
-- radioactivite
-- genetique
 - biologie-humaine
-- substances-radioactives
-- genetique-moleculaire
-- biologie-medicale
+- genetique
+- radioactivite
 coverImage: ./images/qimg-c6742cdedc46073d1fc024348de9e199.jpg
 ---
 

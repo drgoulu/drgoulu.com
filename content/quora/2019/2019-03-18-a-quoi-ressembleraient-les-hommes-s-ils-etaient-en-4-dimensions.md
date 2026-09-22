@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- corps-humains
-- science-fiction-genre
-- espace-dimension
-- mathematiques
 - physique
+- sciences
+- philosophie
+- mathematiques
 - geometrie
-- dimensions-physique
-- philosophie-des-sciences
-- le-corps-humain
 coverImage: ./images/qimg-18f791e9911b9c25a1f0ba3ee029f21e.jpg
 ---
 

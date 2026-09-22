@@ -7,16 +7,11 @@ categories:
 - Pourquoi
 - Comment
 tags:
+- sciences
+- evolution
 - biologie
-- mysteres
+- vie
 - recherche-scientifique
-- sciences-de-la-vie
-- evolution-biologie
-- hypotheses-scientifiques
-- curiosite-scientifique
-- origine-de-la-vie
-- etude-scientifique
-- science-et-vie
 coverImage: ./images/quora.png
 ---
 

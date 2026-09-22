@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
+- sciences
+- technologies
 - droit
-- propriete-intellectuelle
-- innovation
-- brevet
-- l-invention
-- la-technologie
 - invention
-- protection-de-la-proprite-intellectuelle
+- innovation
 coverImage: ./images/quora.png
 ---
 

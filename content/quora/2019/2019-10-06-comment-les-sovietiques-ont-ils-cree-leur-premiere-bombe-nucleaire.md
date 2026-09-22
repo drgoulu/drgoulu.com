@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
+- sciences
 - histoire
-- armes-nucleaires
-- espionnage
-- union-sovietique
-- guerres-et-histoire-militaire
-- la-guerre-froide
-- histoire-de-la-physique
+- guerre
 - histoire-militaire
-- histoire-de-l-union-sovietique
-- histoire-des-sciences
 coverImage: ./images/quora.png
 ---
 

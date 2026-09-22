@@ -7,15 +7,11 @@ categories:
 - Pourquoi
 - Comment
 tags:
-- vitesse-de-la-lumiere
-- recherches-scientifiques
-- tachyons
-- histoire-de-la-physique
-- particules-subatomiques
+- physique
+- histoire
+- theorie
 - relativite
-- hypotheses-scientifiques
-- theorie-du-temps
-- physique-subatomique
+- recherche-scientifique
 coverImage: ./images/quora.png
 ---
 

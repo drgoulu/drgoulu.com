@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - philosophie
-- question-existentielle
-- dinosaures
-- evolution-processus
-- histoire-de-la-terre
-- extinction
-- humanite
-- extinction-des-especes
-- histoire-de-l-humanite
+- evolution
+- terre
+- processus
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- terre
+- phenomenes-physiques
 - phenomenes-naturels
-- sciences-de-la-terre
-- geophysique
-- inversion-du-champ-magnetique-terrestre
-- phenomenes
-- evenement-naturel
-- phenomene-physique
-- geoscience
-- champ-magnetique-terrestre
-- phenomene-naturel
+- phenomene
 coverImage: ./images/quora.png
 ---
 

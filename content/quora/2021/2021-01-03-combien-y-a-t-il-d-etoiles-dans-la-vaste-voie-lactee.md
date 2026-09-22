@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - sciences
-- galaxie-de-la-voie-lactee
 - astronomie
-- espace
-- l-univers-astronomie
-- cosmologie
-- etoiles-astronomie
-- galaxies
 - astrophysique
-- voie-lactee
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

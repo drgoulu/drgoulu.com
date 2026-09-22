@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- energie-physique
-- soleil-artificiel
-- solutions-d-energie-renouvelable
-- nouvelles-technologies
-- energie-alternative
+- physique
+- sciences
+- energie
+- technologies
 - energie-renouvelable
-- technologie-et-innovation
 coverImage: ./images/quora.png
 ---
 

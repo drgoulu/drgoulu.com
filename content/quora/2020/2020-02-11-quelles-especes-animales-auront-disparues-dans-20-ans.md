@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- vie
 - changement-climatique
-- faune
-- sciences-de-la-vie
-- predictions
 - especes
-- biodiversite
-- extinction-des-especes
-- conservation-de-la-faune
-- le-changement-climatique
-- extinction-animale
+- extinction
 coverImage: ./images/quora.png
 ---
 

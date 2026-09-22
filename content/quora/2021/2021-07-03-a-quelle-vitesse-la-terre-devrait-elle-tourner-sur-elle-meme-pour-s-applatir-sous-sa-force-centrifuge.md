@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- terre-planete
-- force-centrifuge
-- sciences-de-la-nature
-- vitesse-de-rotation
-- terre-ronde
-- rotation-planetes
-- rotation-de-la-terre
-- planete-terre
-- rotation-physique
+- sciences
+- terre
+- planetes
+- nature
 coverImage: ./images/qimg-46cd7a60a17821b3b1cf0f705e3ae9a3.jpg
 ---
 

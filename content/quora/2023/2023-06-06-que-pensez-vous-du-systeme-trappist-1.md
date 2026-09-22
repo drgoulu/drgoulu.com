@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- trappist-1
-- recherche-scientifique
-- etoiles-corps-celestes
-- exploration-spatiale
-- exoplanetes
-- systemes-solaires
 - astrophysique
-- planetes-astronomie
-- science-spatiale
+- planetes
+- recherche-scientifique
+- systeme-solaire
 coverImage: ./images/quora.png
 ---
 

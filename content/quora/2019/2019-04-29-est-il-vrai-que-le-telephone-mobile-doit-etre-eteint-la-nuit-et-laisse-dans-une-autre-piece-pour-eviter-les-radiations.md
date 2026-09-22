@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- sommeil
-- telephone-portable
-- conseils-de-sante
-- legendes-urbaines
+- sciences
+- sante
+- technologies
+- conseils
 - radiation
-- mythes-et-idees-fausses
-- telephones
-- telephone-mobile
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - histoire
-- attentats-du-11-septembre
+- evolution
 - opinion
-- evolution-socioculturelle
-- amerique-latine
+- opinion-personnelle
 - analyse
-- opinions-personnelles
-- changement-et-evolution
-- opinions
 coverImage: ./images/quora.png
 ---
 

@@ -7,13 +7,8 @@ categories:
 - Pourquoi
 tags:
 - astronomie
+- soleil
 - contenu-adulte
-- le-soleil
-- nord
-- est
-- directions
-- lever-du-soleil
-- ouest
 - sud
 - orientation
 coverImage: ./images/quora.png

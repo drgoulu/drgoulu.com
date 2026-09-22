@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- recommandation-de-livres
+- environnement
+- nature
 - ecologie
-- comprehension
 - livres
-- sciences-de-la-nature
-- ouvrages-scientifiques
-- suggestions-de-livres
-- sciences-de-l-environnement
-- recommandations-de-livres
 coverImage: ./images/quora.png
 ---
 

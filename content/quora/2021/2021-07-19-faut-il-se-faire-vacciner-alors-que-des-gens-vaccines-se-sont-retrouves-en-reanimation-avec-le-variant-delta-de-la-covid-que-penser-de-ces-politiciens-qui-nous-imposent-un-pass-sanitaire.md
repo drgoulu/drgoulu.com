@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante-et-securite-publiques
+- sante
+- securite-publique
 - covid-19-coronavirus
 - vaccination
-- politiciens
-- reanimation
-- variant-delta
 - vaccins
-- pass-sanitaire
-- politiques-publiques
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- terre-planete
+- sciences
 - biologie
-- lois-universelles
-- sciences-de-la-nature
-- gravite
-- lois-de-la-physique
-- physique-et-biologie
-- gravite-physique
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

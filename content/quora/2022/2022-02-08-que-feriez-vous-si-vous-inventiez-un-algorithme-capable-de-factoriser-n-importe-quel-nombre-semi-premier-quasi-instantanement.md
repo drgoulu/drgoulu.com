@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- informatique
+- sciences
 - mathematiques
-- cryptanalyse
-- securite-informatique
+- informatique
+- securite
 - algorithmes
-- factorisation-mathematiques
-- science-de-l-informatique
-- cryptographie
-- securite-des-donnees
 coverImage: ./images/quora.png
 ---
 

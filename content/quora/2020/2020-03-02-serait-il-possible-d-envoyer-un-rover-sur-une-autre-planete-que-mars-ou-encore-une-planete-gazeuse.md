@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- rover-robot
+- planetes
 - exploration-spatiale
-- mars-planete
-- ingenierie-et-technologie-spatiale
 - science-spatiale
-- technologie-spaciale
-- missions-spatiales
+- ingenierie
 coverImage: ./images/quora.png
 ---
 

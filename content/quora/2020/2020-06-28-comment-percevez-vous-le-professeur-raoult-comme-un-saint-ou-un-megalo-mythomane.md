@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - opinion-publique
-- personnalite
+- information
+- personnalites
 - medias
 - controverses
-- medecin
-- personnalites
-- personnalite-publique
-- medias-d-information
-- image-publique
-- medias-communication
 coverImage: ./images/quora.png
 ---
 

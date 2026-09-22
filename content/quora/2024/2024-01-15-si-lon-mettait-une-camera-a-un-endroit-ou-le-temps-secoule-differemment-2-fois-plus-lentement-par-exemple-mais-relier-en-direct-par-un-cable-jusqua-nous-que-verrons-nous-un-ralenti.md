@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- ralenti
-- cameras
-- experiences-de-pensee
-- relativite-restreinte
-- temps-dimension
-- perception-du-temps
-- relativite-physique
-- relativite-generale
-- temps-physique
+- relativite
+- temps
+- experience
+- perception
 coverImage: ./images/quora.png
 ---
 

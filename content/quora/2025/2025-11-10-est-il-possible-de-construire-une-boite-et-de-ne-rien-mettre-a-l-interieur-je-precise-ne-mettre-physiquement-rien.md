@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- vide-espace
-- boite
-- exister
-- concept
-- objet
 - physique
-- absence
+- philosophie
+- concepts
 - existence
-- le-vide
+- vide-espace
 coverImage: ./images/quora.png
 ---
 

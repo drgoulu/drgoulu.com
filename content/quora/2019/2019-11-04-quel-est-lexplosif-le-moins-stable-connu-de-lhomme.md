@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sciences
-- equilibre-chimique
-- stabilite
 - chimie
-- explosions
 - composition-chimique
-- explosifs
-- chimie-physique
-- substance-chimique
+- explosions
 coverImage: ./images/quora.png
 ---
 

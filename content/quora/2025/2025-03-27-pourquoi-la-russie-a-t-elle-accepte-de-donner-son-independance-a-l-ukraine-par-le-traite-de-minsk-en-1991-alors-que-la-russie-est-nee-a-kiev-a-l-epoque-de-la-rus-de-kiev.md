@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - russie
-- '1991'
 - ukraine
-- independance-politique
-- traites-de-paix
-- relations-russo-ukrainiennes
-- rus-de-kiev-etat
-- histoire-de-la-russie
-- empire-russe
-- kiev
+- politique
+- paix
+- histoire
 coverImage: ./images/quora.png
 ---
 

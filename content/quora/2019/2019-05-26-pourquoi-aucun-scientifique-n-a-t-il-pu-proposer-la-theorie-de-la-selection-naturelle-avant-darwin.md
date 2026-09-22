@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- histoire-des-sciences
-- charles-darwin
-- selection-naturelle
-- theorie-de-l-evolution
-- darwinisme
-- sciences-biologiques
-- histoire-de-la-biologie-de-l-evolution
-- biologie-de-l-evolution
-- histoire-de-la-science
-- histoire-de-la-biologie
+- sciences
+- histoire
+- evolution
+- biologie
+- theorie
 coverImage: ./images/qimg-d0f62a2342586c7345f95b0dbaa266ce.jpg
 ---
 

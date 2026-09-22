@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- condensateurs
-- panneaux-solaires
-- batteries
-- stockage-d-energie
-- electricite
+- sciences
 - technologies
-- energie-environnementale
-- electronique
+- electricite
 - energie-solaire
+- electronique
 coverImage: ./images/qimg-bd65bba615e549117a6c5ec11be8e0fc.png
 ---
 

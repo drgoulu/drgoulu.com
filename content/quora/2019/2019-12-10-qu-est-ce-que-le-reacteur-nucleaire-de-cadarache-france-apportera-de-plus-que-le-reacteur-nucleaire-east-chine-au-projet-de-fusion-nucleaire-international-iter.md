@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- recherche-scientifique
 - france
 - energie-nucleaire
 - comparaisons
-- iter
 - projet
-- recherche-scientifique
-- chine
-- reacteurs-nucleaires
 coverImage: ./images/quora.png
 ---
 

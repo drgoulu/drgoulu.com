@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- physique
 - mathematiques
-- puissance
-- nombres-reels
+- nombres
 - calcul
-- systeme-de-numeration-decimale
-- nombres-mathematiques
 - calcul-mathematique
-- chiffres-decimaux
-- arithmetique
-- puissance-physique
 coverImage: ./images/quora.png
 ---
 

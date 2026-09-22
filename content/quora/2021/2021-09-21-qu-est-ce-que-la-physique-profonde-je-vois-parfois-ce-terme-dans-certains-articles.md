@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- articles-d-actualite
 - recherche-scientifique
 - definitions-des-termes
-- concepts-en-physique
-- terminologie-et-jargon-scientifique
-- articles-scientifiques
-- physique-fondamentale
+- concepts
 - travail-scientifique
 coverImage: ./images/quora.png
 ---

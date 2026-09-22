@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- terre-planete
 - astronomie
-- catastrophes
-- bombe-nucleaire
-- orbites
+- terre
+- planetes
 - systeme-solaire
-- explosions-nucleaires
-- physique-solaire
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- mercure
 - systeme-solaire
-- orbites
-- lune-astronomie
+- lune
 - objets-astronomiques
-- planete-mercure
-- dynamique-du-systeme-solaire
-- le-systeme-solaire
+- orbites
 coverImage: ./images/quora.png
 ---
 

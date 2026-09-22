@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- culture-science-sociale
-- genre
-- droits-de-l-homme
+- droit
 - anthropologie
-- egalite-des-sexes
-- polygamie
-- cultures
+- homme
+- culture
 - anthropologie-culturelle
-- droits-de-la-femme
-- egalite-des-droits
 coverImage: ./images/quora.png
 ---
 

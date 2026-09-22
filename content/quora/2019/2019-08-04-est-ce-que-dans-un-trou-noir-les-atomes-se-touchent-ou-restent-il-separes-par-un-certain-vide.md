@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
-- espace
+- sciences
 - astronomie
-- atomes
-- matiere-physique
-- la-physique-atomique
 - astrophysique
 - physique-theorique
-- science-physique
 coverImage: ./images/quora.png
 ---
 

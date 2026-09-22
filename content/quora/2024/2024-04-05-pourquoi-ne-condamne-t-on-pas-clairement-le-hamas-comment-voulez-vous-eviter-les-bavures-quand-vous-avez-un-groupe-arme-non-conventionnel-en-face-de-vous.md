@@ -7,16 +7,11 @@ categories:
 - Pourquoi
 - Comment
 tags:
+- droit
 - guerre
 - politique-internationale
-- hamas
-- droits-de-l-homme
-- terrorisme
-- conflits-armes
 - israel
-- gazaisrael-conflict
-- palestine
-- conflits-geopolitiques
+- homme
 coverImage: ./images/quora.png
 ---
 

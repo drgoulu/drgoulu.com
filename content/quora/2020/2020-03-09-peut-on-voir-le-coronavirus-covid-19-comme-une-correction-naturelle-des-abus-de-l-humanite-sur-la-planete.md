@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- covid-19-2019-2020
-- theories-du-complot
+- environnement
 - changement-climatique
-- planete-terre
-- epidemiologie
 - humanite
-- l-environnement
 - ecologie
-- sante-environnementale
 coverImage: ./images/quora.png
 ---
 

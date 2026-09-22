@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - histoire
-- sept-merveilles-du-monde
-- architecture-antique
-- reconstruction
-- patrimoine
 - architecture
-- histoire-du-monde
+- monde
 - antiquite
-- patrimoine-mondial
 - art-antique
 coverImage: ./images/quora.png
 ---

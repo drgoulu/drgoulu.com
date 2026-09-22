@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- cendres-poudre
-- bois
-- combustion
-- equations-mathematiques
-- energie-thermique
+- mathematiques
+- energie
 - chimie
-- reactions-chimiques
-- energie-physique
-- energie-chimique
+- equations
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- beaute
-- art
+- histoire
 - recherche-scientifique
-- histoire-des-sciences
-- scientifiques-celebres
-- fine-arts
+- art
 - scientifiques
-- publications-scientifiques
-- histoire-de-la-science
 coverImage: ./images/qimg-8db5bc80675683adcabcd597ce01bbe7.jpg
 ---
 

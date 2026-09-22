@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- evolution
 - biologie
+- processus
 - animaux
-- escargots
-- tortues
-- caracteristiques
-- evolution-processus
-- adaptation
-- selection-naturelle
 - biologie-animale
-- evolution-biologie
 coverImage: ./images/quora.png
 ---
 

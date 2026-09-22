@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- les-etats-unis-d-amerique
-- opinion-politique
-- critique
-- politique-des-etats-unis-d-amerique
-- analyse-politique
-- parti-democrate-politique-americaine
-- la-politique
-- partis-politiques-americains
-- politique-americaine
-- parti-republicain-politique-americaine
+- politique
+- opinion
+- etats-unis
+- ameriques
+- analyse
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- marketing
-- interface-utilisateur
-- acquisition-client
+- gestion
+- donnees
+- sites-internet
 - difference
-- gestion-de-donnees
-- site-internet
-- crm
-- client
-- bases-de-donnees
-- marketing-internet
+- marketing
 coverImage: ./images/quora.png
 ---
 

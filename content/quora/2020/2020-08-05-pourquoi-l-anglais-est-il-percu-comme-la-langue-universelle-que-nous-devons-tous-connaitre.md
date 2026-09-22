@@ -10,11 +10,7 @@ tags:
 - globalisation
 - linguistique
 - communication-internationale
-- langue-anglaise
-- langue-universelle
-- langues-internationales
 - mondialisation
-- communication-globale
 coverImage: ./images/quora.png
 ---
 

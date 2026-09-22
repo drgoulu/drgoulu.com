@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- societe
+- politique
 - changement-climatique
-- democratie-participative
-- ecologisme
-- transformation-culturelle
-- societe-francaise
-- ecologie-politique
+- societe
+- ecologie
 - democratie
-- crise-climatique
-- le-changement-climatique
 coverImage: ./images/quora.png
 ---
 

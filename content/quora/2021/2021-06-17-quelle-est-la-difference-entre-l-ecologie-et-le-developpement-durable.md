@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-environnement
+- sciences
+- politique
+- environnement
 - ecologie
-- sciences-sociales
 - developpement-durable
-- sciences-humaines
-- sciences-de-l-environnement
-- ecologisme
-- economie-durable
-- ecologie-politique
-- environnement-et-developpement-durable
 coverImage: ./images/quora.png
 ---
 

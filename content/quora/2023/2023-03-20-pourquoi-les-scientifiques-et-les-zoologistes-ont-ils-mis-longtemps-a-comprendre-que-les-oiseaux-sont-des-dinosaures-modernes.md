@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sciences
-- zoologie
-- histoire-de-la-biologie
-- oiseaux
-- dinosaures
-- evolution-biologie
+- histoire
+- evolution
+- biologie
 - paleontologie
-- taxonomie
-- histoire-des-sciences
-- evolution-animale
 coverImage: ./images/quora.png
 ---
 

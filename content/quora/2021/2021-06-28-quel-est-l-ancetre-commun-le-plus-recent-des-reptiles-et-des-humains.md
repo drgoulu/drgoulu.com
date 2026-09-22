@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- evolution-processus
-- reptiles
-- ancetres
-- paleontologie
+- evolution
+- biologie
+- processus
 - evolution-humaine
-- arbre-phylogenetique
-- humains
-- evolution-biologie
-- dernier-ancetre-commun
-- phylogenetique
+- paleontologie
 coverImage: ./images/qimg-3a309db32f7ca35b2e2130f001b958f8.jpg
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- question-hypothetique
-- espace
-- terre-planete
 - astronomie
-- cable
 - theorie
-- relation-terre-lune
-- lune-astronomie
-- theorie-scientifique
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

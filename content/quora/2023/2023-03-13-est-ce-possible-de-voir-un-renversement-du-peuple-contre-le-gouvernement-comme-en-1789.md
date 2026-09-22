@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- france
 - histoire
-- pouvoir
+- france
 - gouvernement
-- xviiie-siecle
-- revolution-francaise
-- revolte
-- histoire-de-l-europe
-- histoire-de-france
-- revolution
+- europe
+- pouvoir
 coverImage: ./images/quora.png
 ---
 

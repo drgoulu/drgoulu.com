@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- iss
 - sciences
-- espace
-- apesanteur
 - astronomie
-- station-spatiale-internationale
-- astronautes
-- gravite-de-la-terre
-- gravite
+- terre
+- espace
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- psychologie
-- appetit
-- corps-humains
 - sante
+- psychologie
+- corps-humains
 - alimentation
 - nutrition
-- science-alimentaire
-- alimentation-saine
-- sante-et-nutrition
-- alimentation-et-nutrition
 coverImage: ./images/qimg-42d2c26258b68bc928d1df7d6d7d637f.gif
 ---
 

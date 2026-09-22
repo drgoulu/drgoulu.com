@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - france
-- prisons-et-vie-carcerale
 - demographie
 - musulmans
-- prejuges
-- belgique
+- prejuge
 - allemagne
-- systeme-carceral
 coverImage: ./images/quora.png
 ---
 

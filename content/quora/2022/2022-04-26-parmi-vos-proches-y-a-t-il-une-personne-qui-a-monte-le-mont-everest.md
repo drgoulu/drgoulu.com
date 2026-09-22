@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - question-personnelle
-- experiences
+- experience
 - himalaya
-- escalade-de-montagne
 - perspective-personnelle
-- expedition-sur-le-mont-everest
 - alpinisme
-- mont-everest
-- expeditions
-- alpiniste
 coverImage: ./images/quora.png
 ---
 

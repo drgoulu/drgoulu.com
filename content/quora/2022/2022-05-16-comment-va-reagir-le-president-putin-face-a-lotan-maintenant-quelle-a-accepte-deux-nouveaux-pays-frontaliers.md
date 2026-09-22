@@ -6,13 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- politique
 - relations-internationales
-- vladimir-poutine
-- otan
-- analyse-politique
-- adhesion-a-l-otan
 - politique-etrangere
-- organisation-internationale
+- analyse
+- vladimir-poutine
 coverImage: ./images/quora.png
 ---
 

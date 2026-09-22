@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- sterilisation
-- controverses
-- population
-- terre-planete
-- l-environnement
-- generations
+- terre
+- planetes
+- environnement
 - humanite
-- demographie
 coverImage: ./images/qimg-d30f32376f8f960a25f493d80f183e15.png
 ---
 

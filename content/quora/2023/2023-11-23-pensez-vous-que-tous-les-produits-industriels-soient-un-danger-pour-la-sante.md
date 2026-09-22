@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sante
 - opinion
-- production-industrielle
-- produits
-- risques-pour-la-sante
-- industrie
-- sante-physique
-- effets-sur-la-sante
-- opinions
+- risques
+- effet
 coverImage: ./images/qimg-16fd06fbb5a9f27d7ced72d63d5ad53a.jpg
 ---
 

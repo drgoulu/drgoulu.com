@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- risque-et-risques
+- sciences
+- technologies
+- societe
 - energie-nucleaire
-- connaissances-scientifiques
-- menace-nucleaire
-- risque-technologique
-- chimie-nucleaire
-- radiation-nucleaire
-- technologie-nucleaire
-- science-et-societe
+- risque-et-risques
 coverImage: ./images/qimg-269b711bbb50d897968e805ce0d7d50e.png
 ---
 

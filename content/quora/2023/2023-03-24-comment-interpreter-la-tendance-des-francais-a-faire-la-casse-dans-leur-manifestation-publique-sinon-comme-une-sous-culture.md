@@ -8,14 +8,9 @@ categories:
 tags:
 - france
 - sociologie
-- comportement
 - culture
-- protestations
-- sous-cultures
+- comportement
 - culture-science-sociale
-- comportement-collectif
-- manifestations
-- sociologie-de-la-culture
 coverImage: ./images/quora.png
 ---
 

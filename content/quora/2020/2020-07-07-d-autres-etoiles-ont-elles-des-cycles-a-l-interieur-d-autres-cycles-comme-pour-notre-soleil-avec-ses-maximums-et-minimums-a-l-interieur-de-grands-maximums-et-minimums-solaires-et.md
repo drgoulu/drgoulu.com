@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- le-soleil
-- etoiles-corps-celestes
-- activite-solaire
 - astrophysique
+- soleil
+- etoiles-corps-celestes
 - etoiles
-- astronomy
-- le-soleil-astronomie
-- astrophysique-theorique
-- astrophysics
 coverImage: ./images/qimg-0977e6c926b202c272f09bc32076eb47.png
 ---
 

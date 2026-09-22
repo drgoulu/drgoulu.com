@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- terre-planete
-- noyau
-- phenomenes-physiques
+- sciences
+- terre
+- planetes
 - geologie
-- forage
-- croute-terrestre
-- sciences-de-la-terre
-- noyau-terrestre
-- planete-terre
-- geologie-planetaire
+- phenomenes-physiques
 coverImage: ./images/quora.png
 ---
 

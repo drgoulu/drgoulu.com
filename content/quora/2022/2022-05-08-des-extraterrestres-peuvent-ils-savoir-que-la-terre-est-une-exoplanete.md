@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- exploration-spatiale
-- terre-planete
-- civilisations-extraterrestres
 - astrophysique
-- extraterrestres
-- vie-extraterrestre
-- exoplanetes
-- science-spatiale
-- la-vie-extraterrestre
+- terre
+- planetes
+- exploration-spatiale
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - entreprises
 - rentabilite
-- croissance-rapide
-- strategie-d-entreprise
-- gestion-des-entreprises
-- performance-economique
-- croissance-des-entreprises
-- economie-d-entreprise
-- strategies-pour-les-entreprises
-- gestion-d-entreprise
+- strategie
+- gestion
+- economie
 coverImage: ./images/quora.png
 ---
 

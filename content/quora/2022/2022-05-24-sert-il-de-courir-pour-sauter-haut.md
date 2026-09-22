@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sports
-- activite-physique
-- saut-en-hauteur
-- course-a-pied
-- entrainement
-- biomecanique
-- performance-athletique
-- pratique-sportive
-- performances-sportives
-- entrainement-sportif
+- physique
+- sport
+- activite
+- hauteur
+- saut
 coverImage: ./images/quora.png
 ---
 

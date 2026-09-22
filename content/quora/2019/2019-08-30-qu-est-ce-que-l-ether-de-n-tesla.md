@@ -7,12 +7,8 @@ categories:
 - Quora
 tags:
 - physique
-- nikola-tesla
-- technologies
-- inventeurs
-- le-generateur-electique-tesla
 - theorie
-- bobine-tesla
+- technologies
 - invention
 - theories-physiques
 coverImage: ./images/quora.png

@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - sciences
-- croyance
-- biologie
-- charles-darwin
-- atheisme
-- opinions-et-croyances
-- histoire-des-sciences
+- histoire
 - evolution
-- darwinisme
-- evolution-biologie
+- biologie
+- opinion
 coverImage: ./images/quora.png
 ---
 

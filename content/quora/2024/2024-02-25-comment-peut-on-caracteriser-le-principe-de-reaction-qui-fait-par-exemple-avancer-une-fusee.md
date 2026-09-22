@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- industrie-aerospatiale
-- fusee-astronautique
-- propulsion
-- reaction
-- aeronautique
-- mecanique-physique
+- mecanique
 - fusees
-- propulsion-spatiale
+- aeronautique
+- reaction
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
 - sante
-- sports
-- sociologie-de-la-culture
-- bien-etre
-- activite-physique
-- consideration-sociale
-- image-sociale
-- sante-physique
-- sante-et-activite-physique
-- exercice-physique
+- sociologie
+- culture
+- sport
 coverImage: ./images/quora.png
 ---
 

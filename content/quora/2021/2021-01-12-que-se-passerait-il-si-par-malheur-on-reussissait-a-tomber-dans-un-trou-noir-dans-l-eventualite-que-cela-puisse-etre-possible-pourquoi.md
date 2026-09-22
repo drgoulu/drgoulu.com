@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- scenario-d-effondrement
-- question-hypothetique
-- trous-noirs
-- cosmologie
-- gravite
 - astrophysique
-- scenario-impossible
-- hypotheses
-- scenario-futur
+- cosmologie
+- trous-noirs
+- gravite
 coverImage: ./images/quora.png
 ---
 

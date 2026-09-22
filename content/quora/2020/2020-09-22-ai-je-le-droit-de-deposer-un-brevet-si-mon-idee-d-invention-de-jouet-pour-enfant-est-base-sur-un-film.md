@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- films
-- propriete-intellectuelle
+- droit
+- matiere
 - invention
-- jouets
-- atteinte-au-droit-d-auteur
-- litiges-en-matiere-de-brevets
-- invention-et-inventions
-- droit-dauteur
-- droit-sur-la-propriete-intellectuelle
-- droit-des-brevets
+- propriete-intellectuelle
+- brevets
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- planetes
+- espace
 - exploration-spatiale
-- mars-planete
-- station-spatiale-internationale
-- colonisation-de-l-espace
 - technologie-spatiale
-- vaisseau-spatial
-- voyage-spatial-vers-mars
-- conquete-spatiale
-- sonde-spatiale
-- stations-spatiales
+- mars
 coverImage: ./images/qimg-9613771da45f83cb7b6386d9a7e3009e.png
 ---
 

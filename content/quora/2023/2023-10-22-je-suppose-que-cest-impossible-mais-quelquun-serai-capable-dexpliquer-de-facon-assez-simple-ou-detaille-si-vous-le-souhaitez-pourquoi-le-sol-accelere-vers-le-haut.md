@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- explications-intuitives
-- le-sol
-- force-de-gravite
-- acceleration-physique
-- mouvement-physique
-- explications
-- explications-scientifiques
 - gravite
-- gravite-physique
+- mouvement
+- force
+- explications-scientifiques
 coverImage: ./images/qimg-e22ac0b7de68a361ef41f97b66df6f24.jpg
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- voie-lactee
-- l-univers
-- cosmologues
-- distance
-- annees-lumiere-distance-astronomique
-- supernova
+- univers
 - galaxies
-- galaxie-de-la-voie-lactee
+- voie-lactee
+- distance
 coverImage: ./images/qimg-d0ef81525421a3fa32d1fec7603255a8.png
 ---
 

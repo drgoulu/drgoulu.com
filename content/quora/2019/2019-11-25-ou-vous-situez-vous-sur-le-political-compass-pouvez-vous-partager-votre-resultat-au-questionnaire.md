@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- positionnement
+- opinion
+- sondages
+- analyse
 - ideologies-politiques
-- analyse-politique
-- orientation-politique
-- sondage-politique
-- spectre-politique
-- opinions-politiques
-- positions-politiques
-- ideologie-politique
 coverImage: ./images/qimg-3e9934171dfdeba7862df9f37a31cd0e.jpg
 ---
 

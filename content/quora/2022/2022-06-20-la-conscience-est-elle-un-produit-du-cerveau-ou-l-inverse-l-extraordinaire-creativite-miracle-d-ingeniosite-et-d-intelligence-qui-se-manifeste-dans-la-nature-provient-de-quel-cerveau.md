@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- cerveau
-- conscience
-- creativite
 - nature
-- neurologie
-- philosophie-et-science
-- neurophilosophie
+- conscience
+- cerveau
 coverImage: ./images/quora.png
 ---
 

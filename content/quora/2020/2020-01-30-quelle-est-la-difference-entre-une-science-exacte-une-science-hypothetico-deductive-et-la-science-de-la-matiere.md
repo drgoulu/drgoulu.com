@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- methodologie
-- philosophie-des-sciences
-- la-methode-scientifique
-- science-de-la-deduction
-- sciences-exactes
-- science-de-la-matiere
-- hypotheses-scientifiques
+- philosophie
+- matiere
 - theorie-scientifique
-- methodologie-en-sciences
+- hypotheses-scientifiques
 coverImage: ./images/qimg-41a715d4f8c9cb26468ade7cc9b91a22.jpg
 ---
 

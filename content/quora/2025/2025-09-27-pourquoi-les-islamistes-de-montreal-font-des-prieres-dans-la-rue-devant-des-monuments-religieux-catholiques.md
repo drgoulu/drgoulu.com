@@ -7,14 +7,9 @@ categories:
 - Pourquoi
 tags:
 - religion
-- montreal
-- monuments-symboliques
-- prier-et-prieres
 - christianisme
-- pratiques-religieuses
-- islamistes
 - islam
-- eglises-chretiennes
+- pratiques-religieuses
 - catholicisme
 coverImage: ./images/quora.png
 ---

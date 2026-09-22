@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- informatique
 - mathematiques
-- capacite-mentale
-- puissance-de-calcul
-- capacites
+- informatique
+- calcul
 - sciences-informatiques
 - calcul-mathematique
-- mathematiciens
-- capacite-du-cerveau
 coverImage: ./images/quora.png
 ---
 

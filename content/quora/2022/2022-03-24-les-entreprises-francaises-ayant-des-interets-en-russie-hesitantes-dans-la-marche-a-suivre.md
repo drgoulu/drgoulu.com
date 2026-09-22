@@ -9,11 +9,7 @@ tags:
 - relations-internationales
 - russie
 - developpement-economique
-- europe-de-l-est
-- fermeture-d-entreprise
-- entreprises-francaises
-- elargissement-de-l-union-europeenne
-- expansion-de-l-ue
+- europe
 - relations-economiques-internationales
 coverImage: ./images/quora.png
 ---

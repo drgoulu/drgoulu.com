@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - systeme-solaire
+- force-gravitationnelle
 - simulation
 - orbites
-- pluton-planete-naine
-- l-attraction-gravitationnelle
-- simulation-par-ordinateur
-- neptune-planete
-- force-gravitationnelle
-- dynamique-du-systeme-solaire
+- dynamique
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- expansion-de-l-univers
 - astronomie
-- univers-observable
-- cosmologie-du-big-bang
-- l-univers
+- univers
 - cosmologie
 - physique-theorique
-- origine-de-l-univers
 coverImage: ./images/quora.png
 ---
 

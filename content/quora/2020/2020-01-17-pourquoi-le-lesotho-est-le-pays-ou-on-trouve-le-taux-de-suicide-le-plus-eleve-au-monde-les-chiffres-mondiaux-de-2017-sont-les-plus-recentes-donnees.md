@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sante-mentale
-- pays
-- contenu-adulte
-- lesotho
-- suicide
-- statistiques
-- adult-question-user
 - sante-publique
+- statistiques
+- pays
 - epidemiologie
-- reference-mondiale
+- contenu-adulte
 coverImage: ./images/quora.png
 ---
 

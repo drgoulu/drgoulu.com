@@ -7,13 +7,10 @@ categories:
 - Comment
 tags:
 - changement-climatique
-- sciences-de-la-nature
+- sciences
+- nature
 - climatologie
-- eruptions-volcaniques
 - climats
-- volcanologie
-- le-changement-climatique
-- science-de-la-nature
 coverImage: ./images/quora.png
 ---
 

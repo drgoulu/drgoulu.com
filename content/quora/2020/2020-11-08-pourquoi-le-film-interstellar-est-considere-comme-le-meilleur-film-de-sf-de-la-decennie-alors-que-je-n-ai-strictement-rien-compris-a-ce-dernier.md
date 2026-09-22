@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- opinion-personnelle
-- cinema
-- science-fiction-genre
 - opinion
-- interstellar-film-de-2014
+- science-fiction-genre
+- opinion-personnelle
 - comprehension
-- critique
-- films-de-science-fiction
-- critiques-de-films
-- cinema-et-television
+- films
 coverImage: ./images/quora.png
 ---
 

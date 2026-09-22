@@ -7,13 +7,9 @@ categories:
 - Comment
 tags:
 - recherche-scientifique
-- animaux-en-voie-de-disparition
-- methodes
-- conservation
-- extinction-des-especes
-- especes-menacees
-- la-methode-scientifique
-- conservation-de-la-nature
+- nature
+- especes
+- extinction
 - etude-scientifique
 coverImage: ./images/qimg-c531cec79c3488f910860cb756474736.png
 ---

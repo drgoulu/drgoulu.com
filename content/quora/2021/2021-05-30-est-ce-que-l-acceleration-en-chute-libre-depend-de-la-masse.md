@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- chute-libre
-- force-de-gravite
-- acceleration-physique
-- masse-physique
-- lois-de-la-physique
+- sciences
 - relativite
-- science-physique
-- enseignement-de-la-physique
-- gravite-physique
+- gravite
+- loi
 coverImage: ./images/quora.png
 ---
 

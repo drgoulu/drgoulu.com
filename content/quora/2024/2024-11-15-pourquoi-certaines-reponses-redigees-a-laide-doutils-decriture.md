@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- communication
 - intelligence-artificielle
-- hostilite
-- technique-d-ecriture
-- chatgpt
-- handicap
+- communication
+- technique
 - reponses
-- accessibilite
-- outils-de-redaction
-- handicape
+- ecriture
 coverImage: ./images/quora.png
 ---
 

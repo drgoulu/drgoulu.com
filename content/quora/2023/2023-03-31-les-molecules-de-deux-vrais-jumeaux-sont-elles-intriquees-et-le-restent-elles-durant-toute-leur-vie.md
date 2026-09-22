@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- jumeaux
 - biologie
-- intrication-quantique
-- genetique
-- molecules
 - biologie-humaine
-- la-physique-quantique
-- jumeaux-homozygotes
-- genetique-moleculaire
+- physique-quantique
+- genetique
 coverImage: ./images/quora.png
 ---
 

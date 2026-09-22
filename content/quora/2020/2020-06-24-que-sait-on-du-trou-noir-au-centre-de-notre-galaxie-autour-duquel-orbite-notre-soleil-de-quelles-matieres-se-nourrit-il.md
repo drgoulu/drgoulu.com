@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - astronomie
-- le-soleil
-- trous-noirs
-- voie-lactee
-- matiere-physique
-- science-spatiale
 - astrophysique
-- galaxies
-- galaxie-de-la-voie-lactee
-- astrophysique-theorique
+- trous-noirs
+- science-spatiale
 coverImage: ./images/quora.png
 ---
 

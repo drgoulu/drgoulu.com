@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- opinion-publique
-- norvege
+- societe
 - ecologie
+- opinion-publique
+- debat
 - controverses
-- eoliennes
-- debats-de-societe
-- opinions-populaires
-- ecologistes
-- debats-publics
 coverImage: ./images/quora.png
 ---
 

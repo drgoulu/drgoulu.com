@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
+- droit
 - guerre
+- homme
 - conflit-israelo-palestinien
-- droits-de-l-homme
-- critique-sociale
-- genocide
-- bande-de-gaza
-- politique-au-moyen-orient
-- science-politique
-- droit-international-des-droits-de-l-homme
 coverImage: ./images/quora.png
 ---
 

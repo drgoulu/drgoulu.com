@@ -9,13 +9,8 @@ tags:
 - sciences
 - energie-nucleaire
 - structure-atomique
-- explosions-nucleaires
-- la-physique-nucleaire
-- fission-nucleaire
-- bombe-atomique
 - chimie-nucleaire
-- bombe-nucleaire
-- explosion-nucleaire
+- physique-nucleaire
 coverImage: ./images/qimg-2ff66ac0018807320a364c3db8b72327.jpg
 ---
 

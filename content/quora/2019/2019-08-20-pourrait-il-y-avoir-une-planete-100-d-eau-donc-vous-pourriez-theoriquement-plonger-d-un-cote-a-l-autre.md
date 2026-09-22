@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- question-hypothetique
-- eau
-- plongee
-- sciences-de-la-nature
-- planete-bleue
 - astrophysique
-- hypotheses-scientifiques
-- hypotheses
+- nature
+- eau
 coverImage: ./images/qimg-f708899dd13f6cf63bf439eff0e151fe.jpg
 ---
 

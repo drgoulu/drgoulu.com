@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - theories-du-complot
-- photographies
+- photographie
 - mysteres
 - phenomenes-inexpliques
-- images-etonnantes
-- faits-inconnus
-- phenomenes-etranges
-- mysteres-du-monde
-- photos-incroyables
-- les-mysteres
+- monde
 coverImage: ./images/qimg-d940c6e9842a886c46ecf90cd2d254a4.gif
 ---
 

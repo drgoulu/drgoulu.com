@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- connaissances
-- epistemologie
 - sciences
-- methode
+- philosophie
 - theorie
-- la-philosophie
-- philosophie-et-science
-- methodologie
-- philosophie-des-sciences
+- methodes
+- epistemologie
 coverImage: ./images/quora.png
 ---
 

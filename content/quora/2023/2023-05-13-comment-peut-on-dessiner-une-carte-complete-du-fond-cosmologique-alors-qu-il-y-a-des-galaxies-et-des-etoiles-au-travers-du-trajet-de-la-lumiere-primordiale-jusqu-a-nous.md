@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- etoiles-corps-celestes
 - astronomie
-- fond-diffus-cosmologique
-- lumiere-physique
-- cartographie
-- galaxies
-- cosmologie
 - astrophysique
+- cosmologie
+- lumiere
 coverImage: ./images/qimg-c8ad58107155422cc9299b97fd598278.jpg
 ---
 

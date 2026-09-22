@@ -8,13 +8,8 @@ categories:
 tags:
 - histoire-militaire
 - aviation
-- viet-nam
-- armee-populaire-vietnamienne
-- guerres-et-histoire-militaire
-- tactique
-- forces-armees-americaines
+- guerre
 - strategie-militaire
-- guerre-du-vietnam
 - forces-armees
 coverImage: ./images/quora.png
 ---

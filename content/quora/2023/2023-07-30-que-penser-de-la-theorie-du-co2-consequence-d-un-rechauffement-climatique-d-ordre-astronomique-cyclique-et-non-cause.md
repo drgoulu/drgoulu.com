@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - changement-climatique
-- effet-de-serre
-- climatologie
-- theorie-cosmologique
-- cycles-naturels
-- co2-atmospherique
-- sciences-du-climat
 - rechauffement-climatique
-- paleoclimatologie
-- le-rechauffement-climatique
+- climatologie
+- climats
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- energie-physique
-- transfert-d-energie-sans-fil
+- physique
+- sciences
+- energie
 - technologies
 - electronique
-- telecommunications
-- technologie-sans-fil
-- energie
-- electrotechnique
 coverImage: ./images/quora.png
 ---
 

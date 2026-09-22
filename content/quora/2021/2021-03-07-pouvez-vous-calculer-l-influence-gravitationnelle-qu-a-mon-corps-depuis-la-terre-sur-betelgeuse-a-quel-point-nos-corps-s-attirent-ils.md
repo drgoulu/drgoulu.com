@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- betelgeuse
-- etoiles-corps-celestes
 - astronomie
-- distance
-- force-gravitationnelle
-- masse-physique
+- etoiles-corps-celestes
 - gravitation
-- mecanique-celeste
-- corps-celestes
+- masse-physique
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - histoire
-- l-iles-du-pacifique
-- anthropologie-culturelle
-- mode-de-vie
-- peuples-indigenes
-- colonisation
-- cultures
-- civilisation
+- vie
 - anthropologie
+- culture
+- colonisation
 coverImage: ./images/quora.png
 ---
 

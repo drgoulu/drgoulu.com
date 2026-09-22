@@ -8,14 +8,9 @@ categories:
 tags:
 - informatique
 - cinema
-- stereotypes
-- hackers
-- securite-informatique
-- mots-de-passe
-- representations-cinematographiques
-- recuperation-de-mot-de-passe
-- hacking
-- gestion-de-mot-de-passe
+- securite
+- mot
+- gestion
 coverImage: ./images/quora.png
 ---
 

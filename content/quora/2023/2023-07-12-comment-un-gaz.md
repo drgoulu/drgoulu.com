@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- gaz
 - sciences
-- balance-instrument
-- pression
 - matiere
-- molecules
-- poids-physique
-- pression-de-l-air
-- chemistry
+- air
+- poids
 coverImage: ./images/quora.png
 ---
 

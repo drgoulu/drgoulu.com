@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- sentiment
-- animaux-de-compagnie
-- ecriture-creative
-- dire-au-revoir
-- imagination
-- lettre
-- sentiments-humains
+- animaux
+- sentiments
 - relation-homme-animal
-- adieux
-- ecriture-manuscrite
+- compagnie
+- imagination
 coverImage: ./images/quora.png
 ---
 

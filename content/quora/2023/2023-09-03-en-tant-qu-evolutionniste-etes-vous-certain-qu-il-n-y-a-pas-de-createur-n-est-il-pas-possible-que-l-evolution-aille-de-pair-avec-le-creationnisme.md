@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- creationnisme
-- evolution-processus
-- religion
 - sciences
-- theorie-de-l-evolution
+- philosophie
+- evolution
 - biologie
-- science-et-religion
-- philosophie-des-sciences
-- biologie-de-l-evolution
+- theorie
 coverImage: ./images/quora.png
 ---
 

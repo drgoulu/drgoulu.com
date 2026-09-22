@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astrophysique
-- physique-theorique
+- univers
 - cosmologie
-- expansion-de-l-univers
-- preuves-scientifiques
-- fond-diffus-cosmologique
-- origine-de-l-univers
-- explications-scientifiques
-- cosmologie-du-big-bang
-- age-de-l-univers
+- physique-theorique
+- origines
 coverImage: ./images/quora.png
 ---
 

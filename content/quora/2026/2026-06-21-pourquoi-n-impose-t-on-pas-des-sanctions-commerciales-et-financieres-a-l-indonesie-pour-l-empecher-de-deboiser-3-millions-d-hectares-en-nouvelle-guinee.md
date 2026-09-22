@@ -7,14 +7,9 @@ categories:
 - Pourquoi
 tags:
 - ecologisme
-- sanctions
-- indonesie
-- forets-tropicales-humides
 - politique-economique
-- deforestation
-- ecologie-politique
-- sanctions-economiques
-- papouasie-nouvelle-guinee
+- ecologie
+- politique
 - politiques-environnementales
 coverImage: ./images/quora.png
 ---

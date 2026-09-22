@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- modelisation-mathematique
-- les-marees
-- sciences-de-la-nature
-- oceanographie
-- equations-differentielles
-- equations-mathematiques
+- sciences
+- mathematiques
+- nature
 - physique-mathematique
-- modelisation
-- oceanographie-physique
 coverImage: ./images/quora.png
 ---
 

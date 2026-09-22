@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - palestine
-- origines-ethniques
-- le-moyen-orient
-- autorite-palestinienne
-- histoire-de-la-palestine
-- palestiniens
-- the-palestinian-cause
-- palestine-etat
-- peuples-du-moyen-orient
 - moyen-orient
+- palestiniens
+- peuples
 coverImage: ./images/quora.png
 ---
 

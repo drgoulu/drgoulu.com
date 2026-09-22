@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- energie-nucleaire
-- l-helium
-- etoiles-corps-celestes
-- hydrogene
-- evolution-stellaire
 - astrophysique
+- energie-nucleaire
+- etoiles-corps-celestes
 - etoiles
-- physique-stellaire
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- comportement-humain
+- psychologie
 - question-existentielle
-- cruaute
 - ethique
-- nature-humaine
-- pensee-philosophique
-- question-philosophique
-- philosophie-et-psychologie
-- la-nature-humaine
+- comportement-humain
 coverImage: ./images/quora.png
 ---
 

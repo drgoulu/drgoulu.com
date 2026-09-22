@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- enseignement-superieur
+- conseils
 - afrique
-- orientation-et-conseil
-- visa-d-etude
-- etudiants-internationaux
-- mobilite-etudiante
-- conseils-sur-les-etudes-a-l-etranger
-- etudier-a-l-etranger
-- etudiants-etrangers
+- etudes
+- enseignement-superieur
+- etrangers
 coverImage: ./images/quora.png
 ---
 

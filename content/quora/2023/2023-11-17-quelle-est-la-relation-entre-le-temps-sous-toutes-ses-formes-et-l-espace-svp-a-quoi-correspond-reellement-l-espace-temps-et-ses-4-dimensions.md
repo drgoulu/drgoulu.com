@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- espace
-- relativite-restreinte
-- temps-physique
-- relativite-physique
 - physique-theorique
-- espace-temps
-- dimensions-physique
-- relativite-generale
+- relativite
+- espace
 coverImage: ./images/quora.png
 ---
 

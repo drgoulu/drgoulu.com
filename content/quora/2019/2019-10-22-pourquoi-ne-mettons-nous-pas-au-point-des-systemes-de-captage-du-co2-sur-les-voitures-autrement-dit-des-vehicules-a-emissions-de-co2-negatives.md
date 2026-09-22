@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- science-et-technologie
+- sciences
+- environnement
+- technologies
 - changement-climatique
-- l-environnement
-- voitures-et-automobiles
-- captage-et-sequestration-du-carbone-csc
-- reduire-les-emissions-de-co2
-- emissions-de-carbone
-- vehicules
-- technologie-et-innovation
-- le-rechauffement-climatique
+- rechauffement-climatique
 coverImage: ./images/quora.png
 ---
 

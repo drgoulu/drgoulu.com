@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- personnages-historiques
-- racisme
-- mohandas-karamchand-gandhi
+- histoire
+- debat
 - controverses
-- discours-et-debat
-- histoire-de-l-inde
-- mahatma-ghandi
-- polemiques
-- mahatma-gandhi
+- personnages-historiques
+- inde
 coverImage: ./images/quora.png
 ---
 

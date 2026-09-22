@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- le-programme-apollo
 - espace
-- vol-spatial
-- retroaction
-- aerodynamique
 - atmosphere
+- aerodynamique
 - vaisseau-spatial
-- missions-apollo
-- vol-spatial-habite
 coverImage: ./images/qimg-60d2af89c39a5d0d577f41709c650c50.jpg
 ---
 

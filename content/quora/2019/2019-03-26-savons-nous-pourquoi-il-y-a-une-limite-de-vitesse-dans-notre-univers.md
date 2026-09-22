@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- univers-observable
 - astronomie
-- limitation-de-vitesse
-- l-univers
-- cosmologie-du-big-bang
+- philosophie
+- univers
 - cosmologie
-- vitesse-de-la-lumiere
-- physique-theorique
-- philosophie-de-la-cosmologie
 coverImage: ./images/quora.png
 ---
 

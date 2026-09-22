@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- climats
+- planetes
+- nature
 - systeme-solaire
-- les-saisons
-- science-de-la-nature
-- planetes-astronomie
-- planetes-du-systeme-solaire
-- saisons
-- le-systeme-solaire
 coverImage: ./images/qimg-71e42fc24c3bd425d039c6c25730d76c.jpg
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Combien
 tags:
 - physique
-- singularite-big-bang
-- cosmologie
-- origine-de-l-univers
 - astrophysique
-- temps-physique
+- univers
+- cosmologie
 - physique-theorique
-- cosmologie-du-big-bang
-- singularite
 coverImage: ./images/qimg-d165069af85f320b68ed4a5f56c747d1.jpg
 ---
 

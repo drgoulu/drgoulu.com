@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - religion
-- histoire-de-la-bible
+- histoire
+- bible
 - dieu
-- propheties-bibliques
-- histoire-christianisma
-- histoire-des-religions
-- religions
 - histoire-biblique
-- histoire-de-la-religion
 coverImage: ./images/quora.png
 ---
 

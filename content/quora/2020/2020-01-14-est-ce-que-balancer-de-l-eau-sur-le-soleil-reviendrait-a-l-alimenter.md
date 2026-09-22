@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- le-soleil
-- eau
 - sciences
 - astronomie
-- energie-solaire
 - astrophysique
-- physique-et-chimie
-- le-soleil-astronomie
-- physique-solaire
+- chimie
 coverImage: ./images/quora.png
 ---
 

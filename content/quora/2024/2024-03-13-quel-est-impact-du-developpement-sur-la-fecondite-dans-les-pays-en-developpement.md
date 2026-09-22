@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- demographie
 - developpement
-- fecondite
-- les-pays-en-voie-de-developpement
+- demographie
+- demographie-mondiale
 - developpement-economique-et-social
 - croissance-demographique
-- etudes-demographiques
-- demographie-mondiale
-- taux-de-fecondite
 coverImage: ./images/quora.png
 ---
 

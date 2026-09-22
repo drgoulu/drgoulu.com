@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - astronomie
-- corps-celestes
-- identifier
-- meteorites
-- sciences-de-la-nature
-- geologie-planetaire
-- astronomie-et-astrophysique
-- geologie
-- science-de-la-terre
-- mineraux-meteorites
+- astrophysique
+- terre
+- nature
 coverImage: ./images/qimg-80e8ce2e6f7c2887d435d0643adbb4e8.jpg
 ---
 

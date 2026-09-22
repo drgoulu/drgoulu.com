@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - mathematiques
-- nombres-reels
-- demonstrations
-- theorie-analytique-des-nombres
+- theorie
+- nombres
 - proprietes
-- ennonce-mathematique
-- demonstration-mathematiques
-- theorie-du-nombre
-- theorie-des-nombres
+- theorie-analytique-des-nombres
 coverImage: ./images/quora.png
 ---
 

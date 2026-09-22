@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
+- politique
+- france
 - politique-francaise
-- emmanuel-macron
-- elections-presidentielles
-- election-presidentielle-francaise-2022
-- histoire-de-france
-- droite-politique
-- analyse-politique
-- crise-politique
-- systeme-legislatif-francais
-- vie-politique-francaise
+- analyse
 coverImage: ./images/quora.png
 ---
 

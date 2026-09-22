@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- informatique
 - mathematiques
-- nombres-naturels
-- principes-premiers
+- theorie
+- informatique
+- nombres
 - calcul
-- theorie-des-nombres-premiers
-- algorithmes
-- sciences-informatiques
-- theorie-des-nombres
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - entrepreneuriat
-- les-erreurs-courantes
 - demarrage-d-une-entreprise
-- conseils-business
-- startup-entreprise-novatrice
-- creation-d-entreprise
-- entrepreneur-pour-la-premiere-fois
-- entrepreneur
-- conseils-aux-entrepreneurs
-- entrepreneurs
+- creation
+- entreprises
+- conseils
 coverImage: ./images/quora.png
 ---
 

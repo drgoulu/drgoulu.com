@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - psychologie
-- volcans
-- risque-et-risques
-- comportement-humain
-- eruption-volcanique
 - geographie
 - sociologie
-- dangers-naturels
-- antropologie
-- geographie-humaine
+- comportement-humain
+- risque-et-risques
 coverImage: ./images/quora.png
 ---
 

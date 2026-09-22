@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
 - exploration-spatiale
-- evenement-historique
 - nasa
-- lune-satellite-naturel
-- alunissage
-- le-programme-apollo
-- histoire-de-l-astronautique
-- programme-spatial-americain
-- missions-apollo
+- astronautique
+- programme-apollo
 coverImage: ./images/quora.png
 ---
 

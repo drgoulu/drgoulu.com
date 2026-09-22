@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- informatique
+- technologies
+- langage
+- developpement
 - developpement-logiciel
-- metaprogrammation
-- technologie-informatique
-- programmeurs-informatiques
-- ingenierie-logicielle
-- developpeur-informatique
-- langage-informatique
-- developpement-de-logiciels
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - travail-emploi
 - respect
-- ressources-humaines
+- confiance
 - egalite
-- negociation
-- psychologie-du-travail-et-des-organisations
 - management
-- employeurs
-- la-confiance
-- relations-de-travail
 coverImage: ./images/quora.png
 ---
 

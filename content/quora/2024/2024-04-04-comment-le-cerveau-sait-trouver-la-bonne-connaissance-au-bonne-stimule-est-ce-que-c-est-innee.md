@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - psychologie-cognitive
-- memoire
-- stimulus
-- cognition
-- fonctionnement-du-cerveau
-- neuroscience
 - sciences-cognitives
-- fonctions-cognitives
-- stimulation
-- fonctionnement-cognitif
+- neuroscience
+- cognition
+- memoire
 coverImage: ./images/quora.png
 ---
 

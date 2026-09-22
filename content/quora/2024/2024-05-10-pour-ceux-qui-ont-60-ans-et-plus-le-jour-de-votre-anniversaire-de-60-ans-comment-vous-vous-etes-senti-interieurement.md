@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - psychologie
-- sentiments
-- vieillissement
-- experiences-personnelles
+- experience
 - sondages
+- experiences-personnelles
 - age
-- anniversaires
-- personnes-agees
-- age-adulte
-- experiences
 coverImage: ./images/quora.png
 ---
 

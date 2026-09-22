@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - education
-- developpement-de-la-petite-enfance
 - methodes-pedagogiques
-- l-education-des-enfants
+- enfants
 - enseignement
-- techniques-deducation-a-lenfance
-- enseignement-des-enfants
-- education-de-la-petite-enfance
-- developpement-de-l-enfant
-- developpement-infantile
+- developpement
 coverImage: ./images/quora.png
 ---
 

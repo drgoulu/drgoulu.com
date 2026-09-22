@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- creation
+- entreprises
+- conseils
 - entrepreneuriat
-- idees-de-projets
-- demarrage-d-une-entreprise
-- conseils-commerciaux
-- opportunites-d-affaires
-- creation-d-entreprise
-- conseils-aux-entrepreneurs
-- idees-de-business
-- l-entrepreneuriat
-- conseils-business
+- projet
 coverImage: ./images/quora.png
 ---
 

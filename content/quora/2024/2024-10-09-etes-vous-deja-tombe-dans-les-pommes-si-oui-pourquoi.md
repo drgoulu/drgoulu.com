@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
 - sante
-- experiences-personnelles
-- corps-humains
-- malaises
-- evanouissements-syncope
-- question-personnelle
 - experience
-- sante-physique
-- experience-humaine
-- le-corps-humain
+- corps-humains
+- experiences-personnelles
 coverImage: ./images/quora.png
 ---
 

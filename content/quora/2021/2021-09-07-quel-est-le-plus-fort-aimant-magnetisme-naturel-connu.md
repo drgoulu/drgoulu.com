@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- aimants
+- sciences
+- materiaux
+- ingenierie
 - electromagnetisme
-- science-des-materiaux-et-ingenierie
-- force-magnetique
-- magnetisme
-- force-physique
-- physique-des-materiaux
-- forces-electromagnetiques
 coverImage: ./images/quora.png
 ---
 

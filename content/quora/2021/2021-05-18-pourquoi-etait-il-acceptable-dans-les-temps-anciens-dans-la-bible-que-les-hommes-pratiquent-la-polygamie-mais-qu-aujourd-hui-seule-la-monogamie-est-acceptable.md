@@ -8,13 +8,9 @@ categories:
 tags:
 - histoire
 - religion
-- monogamie
-- la-bible
+- bible
 - evolution-culturelle
-- histoire-des-murs
 - civilisations-anciennes
-- polygamie
-- religions
 coverImage: ./images/quora.png
 ---
 

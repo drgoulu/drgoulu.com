@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - biologie
-- contenu-adulte
 - animaux
-- comportement-animal
-- mortalite
-- zoologie
 - biologie-animale
-- sexualite-animale
-- reproduction-animale
-- science-animale
+- zoologie
+- comportement-animal
 coverImage: ./images/quora.png
 ---
 

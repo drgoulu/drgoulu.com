@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
 - entreprises
-- salariat
-- experience-professionnelle
+- gestion
+- travail
 - emploi
-- gestion-des-ressources-humaines
-- environnement-de-travail
-- les-defis-professionnels
-- salaries
-- employes
-- environnement-professionnel
 coverImage: ./images/quora.png
 ---
 

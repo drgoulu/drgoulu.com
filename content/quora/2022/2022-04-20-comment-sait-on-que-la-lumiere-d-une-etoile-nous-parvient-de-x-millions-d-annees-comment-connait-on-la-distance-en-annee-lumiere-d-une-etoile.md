@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- annee-lumiere
-- etoiles-corps-celestes
-- distance-physique-et-mathematiques
-- vitesse-de-la-lumiere
-- science-spatiale
 - astrophysique
-- observation-des-astres
-- etoiles
-- astronomie-d-observation
+- mathematiques
+- lumiere
+- vitesse
 coverImage: ./images/quora.png
 ---
 

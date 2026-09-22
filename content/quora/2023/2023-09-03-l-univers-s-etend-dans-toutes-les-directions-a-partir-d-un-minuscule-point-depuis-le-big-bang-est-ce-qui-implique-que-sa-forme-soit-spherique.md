@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- expansion-de-l-univers
 - astronomie
-- forme-de-la-terre
-- univers-observable
-- l-univers
-- cosmologie
 - astrophysique
-- origine-de-l-univers
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

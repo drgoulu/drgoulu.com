@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- experience
+- sciences
 - biologie
-- recherche-scientifique
-- terre-planete
-- sciences-de-la-vie
-- sciences-de-la-nature
-- origine-de-la-vie
-- science-experimentale
-- etude-scientifique
-- recherches-scientifiques
+- terre
+- planetes
+- vie
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- agent-de-brevet
-- carriere-professionnelle
-- albert-einstein-physicien
-- histoire-des-sciences
-- stimulation-intellectuelle
-- theorie-de-la-relativite
-- office-des-brevets-et-des-marques-des-etats-unis
-- travail-intellectuel
-- histoire-de-la-physique
+- sciences
+- histoire
+- theorie
+- relativite
 coverImage: ./images/quora.png
 ---
 

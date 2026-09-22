@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sante
-- ethique-philosophie-morale
-- enfants
-- veganisme
 - alimentation
-- bien-etre
+- enfants
 - nutrition
-- sante-et-nutrition
-- vegetarisme
+- ethique-philosophie-morale
 coverImage: ./images/quora.png
 ---
 

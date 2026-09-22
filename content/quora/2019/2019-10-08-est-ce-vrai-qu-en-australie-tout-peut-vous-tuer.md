@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - culture-populaire
-- danger
-- geographie-australienne
-- mythe
-- animaux-dangereux
-- australie
-- faune-d-australie
-- culture-australienne
 - dangers
-- mythes
+- mythe
+- australie
+- faune
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- effets-secondaires-du-vaccin-covid-19
-- contenu-adulte
-- vaccins
 - covid-19-2019-2020
-- mortalite
-- effets-secondaires
+- vaccins
 - vaccination
-- vaccin-covid-19
-- covid-19-coronavirus
+- mortalite
 coverImage: ./images/quora.png
 ---
 

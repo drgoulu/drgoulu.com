@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - informatique
-- difference
-- science-et-technologie
-- ordinateur-quantique
-- technologie-quantique
-- ordinateur-physique
-- science-de-l-informatique
-- l-informatique-quantique
-- informatique-quantique
+- technologies
+- ordinateurs
 coverImage: ./images/quora.png
 ---
 

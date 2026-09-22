@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - psychologie
-- styles-d-ecritures
-- fiabilite-des-tests
-- ecrire
-- graphologie
-- ecriture-manuscrite
-- systeme-d-ecriture
-- psychobiologie
+- fiabilite
+- test
+- systeme
 - ecriture
-- styles-d-ecriture
 coverImage: ./images/quora.png
 ---
 

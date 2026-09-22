@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- voyage-dans-l-espace
 - astronomie
-- vitesse-de-liberation
-- force-de-gravite
-- vaisseau-spatial
 - relativite
-- les-voyages-spaciaux
+- espace
 - gravite
-- gravite-physique
 coverImage: ./images/quora.png
 ---
 

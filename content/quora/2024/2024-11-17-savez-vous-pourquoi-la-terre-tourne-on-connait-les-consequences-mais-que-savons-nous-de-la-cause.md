@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- question-philosophique
-- terre-planete
+- sciences
 - astronomie
-- sciences-de-la-nature
-- question-d-enquete
-- rotation-de-la-terre
-- rotation-planetes
-- planete-terre
+- terre
+- planetes
 coverImage: ./images/qimg-4fa6b7077bb48709edc28fcc2e5ea734.jpg
 ---
 

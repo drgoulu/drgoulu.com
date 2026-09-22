@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- sante
-- virus
-- systeme-immunitaire
 - biologie
-- maladies-infectieuses
+- sante
 - medecine
-- virologie
-- maladie
 - biologie-humaine
+- virus
 coverImage: ./images/quora.png
 ---
 

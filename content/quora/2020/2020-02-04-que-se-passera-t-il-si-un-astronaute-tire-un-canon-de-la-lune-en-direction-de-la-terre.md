@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- canons-artillerie
-- question-hypothetique
-- espace
-- terre-planete
-- astronautes
 - astronomie
-- scenario
-- lune-astronomie
-- hypotheses
+- terre
+- planetes
+- espace
 coverImage: ./images/quora.png
 ---
 

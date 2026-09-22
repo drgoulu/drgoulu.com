@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - philosophie
-- croyance
-- societe
 - technologies
-- dependance
+- societe
 - humanite
-- la-confiance
-- science-et-technologie
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

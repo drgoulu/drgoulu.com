@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - astronomie
-- point-de-fusion
-- phenomenes-physiques
-- comete
-- masse-physique
 - atmosphere
-- sciences-de-l-atmosphere
-- la-physique
-- physique-de-l-atmosphere
-- phenomenes-thermiques
+- phenomenes-physiques
 coverImage: ./images/qimg-0492362687d03e764d478daf30f8c546.jpg
 ---
 

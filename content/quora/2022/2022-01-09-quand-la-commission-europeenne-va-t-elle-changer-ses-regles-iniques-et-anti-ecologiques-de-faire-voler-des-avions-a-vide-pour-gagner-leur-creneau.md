@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-environnement
+- politique
+- environnement
+- ecologie
 - aviation
-- creneau
-- commission-europeenne
-- politique-climatique
 - transport-aerien
-- regles-legales
-- ecologie-politique
-- politiques-environnementales
-- la-commission-europeenne
 coverImage: ./images/quora.png
 ---
 

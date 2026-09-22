@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- recherche-scientifique
 - changement-climatique
-- le-soleil
-- activite-humaine
-- revues-scientifiques
-- etude-scientifique
 - rechauffement-climatique
-- journalisme-scientifique
-- publications-scientifiques
-- recherches-scientifiques
+- soleil
+- etude-scientifique
 coverImage: ./images/qimg-f501445eea02a496ecb3947670822d9a.jpg
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- evolution
 - biologie
+- processus
 - animaux
-- evolution-processus
-- mammiferes-marins
-- chauve-souris
 - zoologie
-- animaux-terrestres
-- animaux-marins
-- evolution-biologie
-- mammiferes
 coverImage: ./images/quora.png
 ---
 

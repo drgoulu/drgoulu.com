@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - philosophie
-- temps-dimension
-- illusions
-- realite
+- temps
 - creation
-- perception-du-temps
-- le-temps
-- philosophie-des-sciences
-- philosophique
-- temps-physique
 coverImage: ./images/quora.png
 ---
 

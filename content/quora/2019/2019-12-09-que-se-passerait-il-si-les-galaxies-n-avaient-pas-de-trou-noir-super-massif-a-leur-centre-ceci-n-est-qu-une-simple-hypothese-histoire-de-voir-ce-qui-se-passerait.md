@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- trous-noirs-supermassifs
-- hypotheses
-- l-univers
-- cosmologie
 - astrophysique
+- univers
+- cosmologie
 - galaxies
-- scenarios-scientifiques-hypothetiques
-- hypotheses-astronomiques
-- astrophysique-theorique
 coverImage: ./images/qimg-9e469b96d8edf3cfb424020f0c4b7fe3.jpg
 ---
 

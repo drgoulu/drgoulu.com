@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- pays
+- terre
+- planetes
+- monde
 - geographie
-- guinee-equatoriale
-- rotation-planetes
-- duree
-- latitude
-- equateur
-- geographie-du-monde
-- rotation-de-la-terre
+- rotation
 coverImage: ./images/qimg-cdad4241925e6815e5e75924e8c7cc9e.jpg
 ---
 

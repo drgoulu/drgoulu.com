@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - geographie
-- villes
-- lausanne
-- comite-international-olympique
-- histoire-du-sport
-- suisse
-- jeux-olympiques
 - ville
-- histoire-des-jeux-olympiques
-- lausanne-suisse
+- histoire
+- sport
+- suisse
 coverImage: ./images/quora.png
 ---
 

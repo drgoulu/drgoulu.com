@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- voie-lactee
 - exploration-spatiale
-- galaxies
-- astronomie-d-observation
-- sonde-spatiale
 - science-spatiale
-- galaxie-de-la-voie-lactee
-- la-voie-lactee-astronomie
+- galaxies
+- observation
 coverImage: ./images/qimg-5b061dca95bafb3fc45929d7b16e1f01.png
 ---
 

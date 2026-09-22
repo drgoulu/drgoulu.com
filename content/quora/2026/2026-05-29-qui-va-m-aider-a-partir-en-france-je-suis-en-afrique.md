@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- voyage-international
-- continent-africain
-- astuces-de-voyage
-- travel-and-tourism
-- planification-de-voyage
-- voyage-en-france
-- services-de-voyages
+- voyage
 - afrique
+- voyage-international
+- service
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- inclinaison-axiale-astronomie
+- sciences
 - astronomie
-- terre-planete
-- sciences-de-la-nature
-- forme-de-la-terre
-- orbite-de-la-terre
-- rotation-planetes
-- rotation-de-la-terre
-- planete-terre
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

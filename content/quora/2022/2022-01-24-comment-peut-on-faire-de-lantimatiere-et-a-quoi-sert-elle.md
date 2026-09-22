@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- recherche-scientifique
-- l-antimatiere
-- asymetrie-matiere-antimatiere
 - physique-theorique
-- physique-et-chimie
+- recherche-scientifique
+- chimie
 - recherche
-- etude-scientifique
-- recherches-scientifiques
 coverImage: ./images/quora.png
 ---
 

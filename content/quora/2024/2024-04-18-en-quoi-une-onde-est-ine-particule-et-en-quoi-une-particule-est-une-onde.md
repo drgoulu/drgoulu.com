@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- ondes
-- dualite-onde-particule
-- mecanique-quantique
-- particules
-- dualite
 - physique-theorique
-- theories-quantiques
 - physique-mathematique
 - physique-quantique
+- mecanique-quantique
 coverImage: ./images/quora.png
 ---
 

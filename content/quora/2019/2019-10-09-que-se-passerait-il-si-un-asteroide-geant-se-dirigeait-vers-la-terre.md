@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- scenarios-de-fin-du-monde
-- catastrophes-naturelles
-- terre-planete
-- collisions-d-asteroides
 - astrophysique
-- scenario-d-effondrement
-- fin-du-monde
-- scenarios-catastrophe
-- asteroides
+- terre
+- planetes
+- catastrophes-naturelles
 coverImage: ./images/qimg-a77dc96634c2a06e86ebd0918c215402.jpg
 ---
 

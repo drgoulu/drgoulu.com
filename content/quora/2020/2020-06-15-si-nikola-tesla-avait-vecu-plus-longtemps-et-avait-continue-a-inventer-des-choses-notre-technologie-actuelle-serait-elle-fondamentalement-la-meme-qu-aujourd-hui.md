@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - histoire
-- nikola-tesla
+- technologies
 - question-hypothetique
-- science-et-technologie
-- histoire-des-sciences
-- invention-et-inventions
 - hypotheses
-- l-histoire
 coverImage: ./images/quora.png
 ---
 

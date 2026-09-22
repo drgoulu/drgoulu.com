@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- developpement-web
-- langages-de-programmation
-- variables
+- programmation
+- langage
 - developpement-logiciel
-- javascript
-- nom-de-variable
+- developpement-web
 - programmation-web
-- syntaxe-langages-de-programmation
-- developpement-web-et-mobile
-- langages-de-programmation-web
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- relations-internationales
 - suisse
-- histoire-militaire
-- proliferation-nucleaire
-- neutralite-politique-et-militaire
-- armes-nucleaires
-- defense-militaire
+- relations-internationales
+- guerre
 - politique-etrangere
-- guerres-et-histoire-militaire
-- diplomatie-et-relation-internationale
+- histoire-militaire
 coverImage: ./images/quora.png
 ---
 

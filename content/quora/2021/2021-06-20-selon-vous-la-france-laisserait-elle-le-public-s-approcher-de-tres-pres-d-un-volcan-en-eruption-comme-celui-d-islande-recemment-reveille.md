@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- opinion-publique
 - securite
+- opinion-publique
 - volcans
 - tourisme-guide-touristique
-- islande
-- eruption-volcanique
-- touristes
-- sites-touristiques
 coverImage: ./images/quora.png
 ---
 

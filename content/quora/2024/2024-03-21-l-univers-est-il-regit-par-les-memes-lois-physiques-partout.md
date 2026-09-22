@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- univers-observable
 - astronomie
-- lois-universelles
-- l-univers
-- cosmologie
 - astrophysique
-- physique-theorique
-- lois-de-la-physique
-- cosmologie-physique
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

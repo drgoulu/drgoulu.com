@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- albert-einstein-physicien
-- relativite-restreinte
-- la-methode-scientifique
 - physique
-- science-et-religion
-- theorie-de-la-relativite
+- sciences
+- philosophie
+- theorie
 - physique-theorique
-- philosophie-des-sciences
-- relativite-physique
 coverImage: ./images/quora.png
 ---
 

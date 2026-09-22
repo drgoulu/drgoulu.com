@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- viande-rouge
+- risques
 - alimentation
-- cancer
+- effet
 - nutrition
-- risques-pour-la-sante
-- alimentation-et-nutrition
-- effets-sur-la-sante
-- sante-humaine
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- experiences-personnelles
-- conscience
-- perception
-- realite
+- vie
 - experience
-- experiences
-- perception-de-la-vie
-- conscience-de-soi
-- conscience-humaine
-- experiences-psychologiques
+- perception
+- conscience
+- realite
 coverImage: ./images/quora.png
 ---
 

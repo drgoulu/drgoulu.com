@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- ameriques
+- pays
 - phenomenes-naturels
-- venezuela
-- orage
 - meteorologie
-- pays-d-amerique-du-sud
-- tempetes
 - phenomene-meteorologique
-- maracaibo-venezuela
-- phenomenes-climatiques
-- phenomene-meteorologique-specifique
 coverImage: ./images/quora.png
 ---
 

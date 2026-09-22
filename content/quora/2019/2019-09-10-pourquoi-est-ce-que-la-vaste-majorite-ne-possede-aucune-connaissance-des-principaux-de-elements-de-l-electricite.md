@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- education
 - physique
 - sciences
-- connaissances
-- electrotechnique
-- enseignement
-- connaitre
+- education
 - electricite
-- electronique
+- enseignement
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- finance
+- vie
 - sociologie
-- argent
-- perception-de-la-vie
+- perception
 - richesse
-- fortune-personnelle
-- repartition-des-richesses
-- fortune
-- niveau-de-vie
-- finances
+- argent
 coverImage: ./images/quora.png
 ---
 

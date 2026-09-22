@@ -8,11 +8,9 @@ categories:
 tags:
 - etudiants
 - developpement-logiciel
-- langages
-- presentation-reunions
-- structures-de-donnees
-- eleves
-- creation-logicielle
+- langage
+- structures
+- donnees
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - personnalites
-- jules-verne-auteur
-- leonard-de-vinci
-- victor-hugo
-- histoire-de-l-art
+- histoire
+- art
 - epoque
-- creation-litteraire
 - personnages-historiques
-- personnes-celebres
-- creation-artistique
 coverImage: ./images/quora.png
 ---
 

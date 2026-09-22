@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- histoire-des-sciences
-- le-monde-arabe
-- avancees-technologiques
+- sciences
+- histoire
+- recherche
+- developpement
 - progres-scientifique
-- recherche-et-developpement
-- culture-arabe
-- histoire-arabe
-- civilisation-arabe
-- science-et-developpement
 coverImage: ./images/quora.png
 ---
 

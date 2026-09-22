@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- sante
 - histoire
-- scenarios-hypothetiques
+- sante
 - changement-climatique
-- pollution
-- voyage-dans-le-temps
-- qualite-de-l-air
-- histoire-humaine
-- pollution-de-l-air
-- sante-humaine
+- temps
+- voyage
 coverImage: ./images/quora.png
 ---
 

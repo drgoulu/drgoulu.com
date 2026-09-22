@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- planetes-du-systeme-solaire
 - astronomie
-- orbites
-- science-spatiale
-- systeme-solaire
 - astrophysique
-- planetes-astronomie
-- dynamique-du-systeme-solaire
+- planetes
+- systeme-solaire
 coverImage: ./images/qimg-081ec826f3c1087a991819338dd3a78d.jpg
 ---
 

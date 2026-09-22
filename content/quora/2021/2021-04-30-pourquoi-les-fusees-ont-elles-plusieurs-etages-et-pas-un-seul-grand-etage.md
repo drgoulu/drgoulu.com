@@ -8,14 +8,9 @@ categories:
 tags:
 - technologie-spatiale
 - fusees
-- lancement-astronautique
-- science-des-fusees
-- industrie-aerospatiale
-- lanceur-spatial
-- ingenierie-et-technologie-spatiale
+- sciences
+- ingenierie
 - fusee-astronautique
-- systeme-de-lancement-spatial
-- moteurs-fusee
 coverImage: ./images/quora.png
 ---
 

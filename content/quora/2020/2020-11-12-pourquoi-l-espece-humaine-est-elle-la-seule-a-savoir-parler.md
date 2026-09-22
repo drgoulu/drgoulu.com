@@ -6,14 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- evolution-humaine
 - biologie-humaine
 - langage
-- psychologie-cognitive
-- linguistique
-- developpement-du-langage
-- evolution-humaine
-- communication-humaine
-- sciences-cognitives
+- developpement
 - espece-humaine
 coverImage: ./images/quora.png
 ---

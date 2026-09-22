@@ -8,14 +8,9 @@ categories:
 tags:
 - finance
 - opinion
-- faillite
-- systeme-bancaire-suisse
 - economie-europeenne
-- opinions-personnelles
+- opinion-personnelle
 - suisse-pays
-- banques
-- faillite-bancaire
-- credit-suisse
 coverImage: ./images/quora.png
 ---
 

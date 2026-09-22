@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- aeronautique
-- c
-- proprete
-- transport-aerien
-- coefficient-de-direction
-- consommation-de-carburant
-- avion
-- force-de-trainee-physique
+- consommation
+- avions
 - aerodynamique
-- trainee-de-condensation
+- aeronautique
+- transport-aerien
 coverImage: ./images/qimg-a6fb19ff143bc232db8c237dd274be32.jpg
 ---
 

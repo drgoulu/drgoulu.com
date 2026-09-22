@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- serie-numerique
-- questions-logiques
-- suite-geometrique
+- probleme
 - logique
-- problemes-mathematiques
 - suites-arithmetiques
-- logique-mathematiques
-- puzzles-logiques
+- suite-geometrique
 coverImage: ./images/quora.png
 ---
 

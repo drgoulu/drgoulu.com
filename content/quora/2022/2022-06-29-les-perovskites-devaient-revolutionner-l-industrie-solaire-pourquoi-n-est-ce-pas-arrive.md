@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- innovation-technologique
+- physique
+- sciences
+- materiaux
+- ingenierie
 - energie-renouvelable
-- physique-des-materiaux
-- science-des-materiaux-et-ingenierie
-- technologie-durable
-- energie-solaire
-- energie-environnementale
-- innovation-scientifique
-- energie-solaire-photovoltaique
 coverImage: ./images/quora.png
 ---
 

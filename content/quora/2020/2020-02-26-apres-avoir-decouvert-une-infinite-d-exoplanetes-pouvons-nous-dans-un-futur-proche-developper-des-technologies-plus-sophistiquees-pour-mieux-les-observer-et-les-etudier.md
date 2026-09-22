@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- innovation-technologique
 - recherche-scientifique
 - exploration-spatiale
-- exoplanetes
-- technologie-spatiale
 - science-spatiale
-- developpement-technologique
-- recherche-spatiale
+- technologie-spatiale
 coverImage: ./images/qimg-5ea137420e5d2b9fad82feddba3f2bee.jpg
 ---
 

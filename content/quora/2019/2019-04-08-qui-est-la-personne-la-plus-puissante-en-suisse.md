@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- personnalites
-- democratie-en-suisse
-- pouvoir
-- personnalite-publique
-- homme-d-influence
+- politique
 - suisse
-- personnes-influentes
-- droit-suisse
-- politique-de-la-suisse
-- pouvoir-autorite
+- personnalites
+- democratie
+- homme
 coverImage: ./images/quora.png
 ---
 

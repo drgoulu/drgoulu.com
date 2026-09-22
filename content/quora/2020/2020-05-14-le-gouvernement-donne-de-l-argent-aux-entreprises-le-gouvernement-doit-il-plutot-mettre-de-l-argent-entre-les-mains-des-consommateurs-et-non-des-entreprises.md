@@ -10,10 +10,7 @@ tags:
 - entreprises
 - stimulus
 - aide-gouvernementale
-- relance-economique
-- consommateurs
-- l-argent-public
-- argent-publique
+- consommateur
 coverImage: ./images/quora.png
 ---
 

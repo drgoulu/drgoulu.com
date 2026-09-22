@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-environnement
+- environnement
+- monde
+- futur
 - consommation
-- durabilite
-- epuisement-des-peches
 - ressources-naturelles
-- recyclage
-- futur-du-monde
-- rarete-des-ressources
-- gestion-des-resssources-naturelles
-- l-avenir-du-monde
 coverImage: ./images/quora.png
 ---
 

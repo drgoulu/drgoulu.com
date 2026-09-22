@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-marine
-- mysteres-du-monde
+- monde
 - exploration
+- mysteres
 - oceans
-- fosse-des-mariannes
 - vie-marine
-- exploration-sous-marine
-- le-fond-de-l-ocean
-- ocean-profond
-- archeologie-sous-marine
 coverImage: ./images/quora.png
 ---
 

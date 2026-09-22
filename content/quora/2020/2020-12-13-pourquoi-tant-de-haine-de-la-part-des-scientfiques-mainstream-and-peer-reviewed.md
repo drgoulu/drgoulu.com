@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sciences
-- haine
 - critique
 - scepticisme-scientifique
 - recherche-scientifique
-- fausse-science
 - communaute-scientifique
-- opposition-a-la-science
-- deniers-de-la-science
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - mathematiques
-- modelisation-scientifique
+- recherche
 - ingenierie
-- resolution-de-problemes
-- methodes-de-recherche
-- sciences-appliquees
-- problemes-mathematiques
-- modelisation
-- modelisation-mathematique
-- post
+- probleme
+- methodes
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- physique-theorique
+- mathematiques
+- univers
 - cosmologie
-- l-univers
-- infini-mathematiques
-- univers-observable
-- origine-de-l-univers
 - theorie
-- expansion-de-l-univers
-- age-de-l-univers
+- physique-theorique
 coverImage: ./images/quora.png
 ---
 

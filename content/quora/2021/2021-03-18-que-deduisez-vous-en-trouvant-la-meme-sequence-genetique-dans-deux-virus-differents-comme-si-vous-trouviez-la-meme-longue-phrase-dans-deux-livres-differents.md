@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
+- biologie
 - recherche-scientifique
+- processus
 - comparaisons
-- virus
-- evolution-processus
-- genetique
-- analyse
-- virologie
-- evolution-biologie
-- analyse-technique
-- genomique
 coverImage: ./images/quora.png
 ---
 

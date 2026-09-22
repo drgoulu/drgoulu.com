@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- demographie
+- histoire
+- humanite
 - creation
-- adam-et-eve-personnages-bibliques
-- histoire-de-l-humanite
-- taux-de-fecondite
-- la-reproduction-humaine
-- taux-de-naissance
-- croissance-demographique
+- demographie
 - demographie-mondiale
-- demographie-humaine
 coverImage: ./images/quora.png
 ---
 

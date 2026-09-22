@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - experience
-- neutrons
-- noyau-d-atome
-- champs-magnetiques
+- atomes
 - sciences-nucleaires
-- recherche-atomique
-- protons
-- physique-nucleaire-theorique
+- champs-magnetiques
 coverImage: ./images/quora.png
 ---
 

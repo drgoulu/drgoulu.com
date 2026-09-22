@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - christianisme
-- histoire-des-religions
+- histoire
+- religion
 - pratiques-religieuses
-- religion-et-croyance
-- differences-entre-religions
-- comprendre-le-christianisme
-- religion-comparee
-- croyance-et-doctrine-religieuses
-- christianismes
-- histoire-de-la-religion
+- croyance
 coverImage: ./images/quora.png
 ---
 

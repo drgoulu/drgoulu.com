@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - astronomie
+- theorie
 - catastrophes-naturelles
-- extermination
-- probabilite-statistiques
-- science-physique
-- asteroides
-- risques-naturels
-- theorie-des-probabilites
-- probabilites
-- dangers-naturels
 coverImage: ./images/quora.png
 ---
 

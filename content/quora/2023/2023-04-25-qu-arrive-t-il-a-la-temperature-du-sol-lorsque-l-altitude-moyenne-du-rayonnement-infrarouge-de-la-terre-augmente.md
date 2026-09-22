@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- terre-planete
-- la-lumiere-infrarouge
-- climatologie
-- sciences-de-la-nature
-- altitude
-- temperatures
-- ondes-infrarouges
-- science-de-la-terre
-- infrarouge
+- sciences
+- terre
+- planetes
+- nature
 coverImage: ./images/qimg-7f5520849f5496934750f01d0d7e7439.jpg
 ---
 

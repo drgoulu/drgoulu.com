@@ -7,14 +7,9 @@ categories:
 - Pourquoi
 tags:
 - physique
-- verre
-- acier
-- lasers
-- miroirs
-- interaction-lumiere-matiere
 - materiaux
 - optique
-- reflexion-physique
+- reflexion
 - proprietes-physiques
 coverImage: ./images/qimg-bc5ba97d9257082d3b6c250b9857a621.jpg
 ---

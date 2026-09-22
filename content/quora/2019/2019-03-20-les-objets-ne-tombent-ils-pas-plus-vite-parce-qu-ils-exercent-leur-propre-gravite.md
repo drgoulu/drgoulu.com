@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- chute-libre
-- l-attraction-gravitationnelle
+- chimie
 - gravite
-- masse-physique
-- lois-de-la-physique
-- physique-et-chimie
-- force-de-gravite
-- gravite-physique
+- loi
 coverImage: ./images/quora.png
 ---
 

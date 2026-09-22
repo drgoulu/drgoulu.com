@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- vaccins
-- prix-nobel
 - sciences
 - recherche-scientifique
-- virologie
+- sante
 - medecine
 - virus
-- immunisations
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
 - recherche-scientifique
-- avions
-- l-environnement
+- technologies
+- futur
 - innovation
-- aeronautique
-- pollution
-- technologie-durable
-- aviation
-- technologie-du-futur
 coverImage: ./images/quora.png
 ---
 

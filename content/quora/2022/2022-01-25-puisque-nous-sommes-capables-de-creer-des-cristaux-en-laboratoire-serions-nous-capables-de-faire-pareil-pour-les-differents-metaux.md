@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - recherche-scientifique
 - chimie
-- cristaux
-- metaux
-- synthese
-- science-des-materiaux-et-ingenieries
-- cristallographie
-- sciences-de-la-matiere-physique
-- la-science-des-materiaux
-- synthese-chimique
+- materiaux
+- ingenierie
 coverImage: ./images/quora.png
 ---
 

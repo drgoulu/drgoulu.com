@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- intangibilite
+- energie
+- matiere
 - atomes
 - forme
-- spheres
-- energie
-- recherche-atomique
-- matiere-physique
-- la-physique-atomique
-- structure-atomique
 coverImage: ./images/quora.png
 ---
 

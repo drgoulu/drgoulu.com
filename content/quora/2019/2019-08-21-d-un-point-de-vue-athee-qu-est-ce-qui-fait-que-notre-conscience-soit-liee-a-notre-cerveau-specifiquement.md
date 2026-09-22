@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
 - conscience
-- probleme-corps-esprit
-- cerveau-humain
-- neurologie
 - sciences-cognitives
-- atheisme
-- philosophie-de-l-esprit
-- philosophie-et-science
-- neurophilosophie
+- neurologie
 coverImage: ./images/qimg-49aa15f5579100b1c53bb20e56d5ddab.jpg
 ---
 

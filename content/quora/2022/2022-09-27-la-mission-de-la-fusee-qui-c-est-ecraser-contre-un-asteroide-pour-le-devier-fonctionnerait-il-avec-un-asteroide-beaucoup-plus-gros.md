@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - exploration-spatiale
-- fusees
-- asteroides
-- defense-planetaire
 - science-spatiale
-- fusee-astronautique
 - technologie-spatiale
 - missions-spatiales
-- collisions-d-asteroides
-- physique-spatiale
+- asteroides
 coverImage: ./images/quora.png
 ---
 

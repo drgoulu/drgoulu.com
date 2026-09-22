@@ -8,13 +8,9 @@ categories:
 tags:
 - finances-publiques
 - dette
-- citoyens
-- administration-publique
-- dette-personnelle
 - depenses-publiques
 - dette-publique
 - economie-publique
-- dette-privee
 coverImage: ./images/quora.png
 ---
 

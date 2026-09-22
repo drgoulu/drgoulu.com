@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- covid-19-2019-2020
 - recherche-scientifique
-- virus
-- traitements-medicaux
-- maladies-infectieuses
+- sante
 - medecine
-- virologie
-- maladie
+- covid-19-2019-2020
+- virus
 coverImage: ./images/quora.png
 ---
 

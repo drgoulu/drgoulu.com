@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - physique
-- le-soleil
 - sciences
-- espace
 - astronomie
-- systeme-solaire
 - astrophysique
-- science-physique
-- astronomy
-- le-systeme-solaire
+- espace
 coverImage: ./images/quora.png
 ---
 

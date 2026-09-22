@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- psychologie
-- excitation
 - sciences
-- sentiments-et-emotions
-- curiosite-scientifique
-- depression
-- scientifiques
-- emotions
 - recherche-scientifique
+- psychologie
 - decouvertes-scientifiques
+- scientifiques
 coverImage: ./images/quora.png
 ---
 

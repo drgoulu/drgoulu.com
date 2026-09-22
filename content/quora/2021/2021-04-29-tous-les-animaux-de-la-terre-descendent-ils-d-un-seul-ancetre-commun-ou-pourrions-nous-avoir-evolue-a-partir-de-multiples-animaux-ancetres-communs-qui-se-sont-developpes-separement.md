@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- animaux
+- evolution
 - biologie
-- dernier-ancetre-commun
-- evolution-processus
-- selection-naturelle
-- genetique-et-heredite
-- ancetres
-- evolution-humaine
-- zoologie
+- processus
+- animaux
 coverImage: ./images/quora.png
 ---
 

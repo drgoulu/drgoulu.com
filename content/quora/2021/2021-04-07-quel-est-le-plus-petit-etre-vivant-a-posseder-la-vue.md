@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - biologie
-- vision
-- taille
-- etres-vivants
-- organisme-unicellulaire
-- micro-organismes
 - biologie-animale
-- organismes
-- organismes-vivants
+- vision
+- etres-vivants
+- taille
 coverImage: ./images/qimg-ba60df90ecf7aa246a652e4ad31da3a7.jpg
 ---
 

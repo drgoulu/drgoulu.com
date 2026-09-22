@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- politique-francaise
-- representativite
-- systeme-d-election
+- france
+- systeme
 - democratie
-- elections-en-france
-- vie-politique-francaise
-- democratie-representative
-- democratie-en-france
-- systemes-electoraux
+- elections
 coverImage: ./images/quora.png
 ---
 

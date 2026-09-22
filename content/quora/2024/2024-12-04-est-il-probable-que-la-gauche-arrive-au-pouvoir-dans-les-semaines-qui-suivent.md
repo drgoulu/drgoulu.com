@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- france
 - politique
-- pouvoir
-- gauche
-- partis-politiques-francais
-- elections-presidentielles
-- politique-francaise
-- pouvoir-et-influence-politiques
-- vie-politique-francaise
+- france
 - elections
+- politique-francaise
+- elections-presidentielles
 coverImage: ./images/quora.png
 ---
 

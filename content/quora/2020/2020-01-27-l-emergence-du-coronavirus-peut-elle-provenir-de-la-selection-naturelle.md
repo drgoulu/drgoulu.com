@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
 - biologie
+- processus
 - sante-publique
 - covid-19-2019-2020
-- evolution-processus
-- virus
-- selection-naturelle
-- epidemiologie
-- maladies-infectieuses
-- virologie
-- evolution-biologie
 coverImage: ./images/quora.png
 ---
 

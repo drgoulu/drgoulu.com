@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- univers-en-expansion
 - astronomie
-- espace-temps
-- vitesse-de-la-lumiere
-- photons
-- cosmologie-du-big-bang
 - cosmologie
 - physique-theorique
-- expansion-de-l-univers
+- lumiere
 coverImage: ./images/quora.png
 ---
 

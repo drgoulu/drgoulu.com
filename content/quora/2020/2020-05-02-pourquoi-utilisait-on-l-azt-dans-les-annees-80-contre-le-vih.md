@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
+- histoire
+- recherche
+- medecine
 - sante-publique
-- histoire-des-sciences
-- vih
-- traitements-medicaux
-- maladies-infectieuses
-- recherche-sur-le-sida
-- sida
-- medicaments-et-composes-antiviraux
-- histoire-de-la-medecine
-- maladies-virales
 coverImage: ./images/quora.png
 ---
 

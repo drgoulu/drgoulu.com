@@ -7,11 +7,10 @@ categories:
 - Comment
 tags:
 - responsabilite
-- consommateurs
+- consommateur
 - responsabilite-sociale
-- ethique-de-responsabilite
-- responsabilite-des-entreprises
-- responsabilite-juridique
+- ethique
+- entreprises
 coverImage: ./images/quora.png
 ---
 

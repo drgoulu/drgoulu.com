@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- biologie-humaine
+- sciences
+- terre
 - temps
-- perception-sensorielle-et-spatiale
-- rotation-de-la-terre
-- philosophie-de-l-esprit
-- calcul-du-temps
-- temps-physique
-- science-de-la-terre
-- perception-du-temps
+- biologie-humaine
 coverImage: ./images/quora.png
 ---
 

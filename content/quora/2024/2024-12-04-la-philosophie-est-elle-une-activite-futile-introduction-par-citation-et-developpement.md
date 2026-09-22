@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - philosophie
-- activites
-- citation-academique
-- introductions
 - developpement
-- des-citations
-- la-philosophie
-- activite-humaine
 - philosophique
+- activite-humaine
 - activite
 coverImage: ./images/quora.png
 ---

@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- formation-de-base
-- l-univers
-- etoiles-corps-celestes
-- taux-de-naissance
-- evolution-stellaire
-- cosmologie
 - astrophysique
-- etoiles
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - philosophie
-- blaise-pascal
-- la-nature
-- citation-societe
-- dieu
-- humanite
-- pensees-blaise-pascal
-- nature-humaine
 - nature
-- philosophe
+- humanite
+- nature-humaine
+- dieu
 coverImage: ./images/quora.png
 ---
 

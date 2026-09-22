@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- urss
-- les-etats-unis-d-amerique
-- ordinateurs
-- la-guerre-froide
-- union-sovietique
-- invention-et-inventions
-- histoire-de-l-informatique
-- histoire-du-monde
-- l-histoire-de-la-technologie
+- informatique
+- technologies
+- monde
+- etats-unis
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - philosophie
-- creationnisme
-- belgique
-- univers-infini
-- religion
+- univers
 - cosmologie
-- l-univers
 - theorie
-- science-et-religion
 coverImage: ./images/quora.png
 ---
 

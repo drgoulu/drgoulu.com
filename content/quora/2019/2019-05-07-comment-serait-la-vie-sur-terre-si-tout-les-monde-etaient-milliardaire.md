@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - philosophie
-- scenarios-hypothetiques
-- milliardaires
+- terre
+- vie
 - societe
-- egalite
 - richesse
-- economie-mondiale
-- vie-sur-terre
-- disparite
-- societe-future
 coverImage: ./images/qimg-aea41b3314617e5de271a31826eae36a.jpg
 ---
 

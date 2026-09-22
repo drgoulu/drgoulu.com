@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- innovation-technologique
-- brevets
-- droit-dauteur
+- droit
 - propriete-intellectuelle
-- creation-litteraire
-- droit-sur-la-propriete-intellectuelle
-- droit-de-propriete
-- droit-des-brevets
-- droits-d-auteur
+- brevets
+- proprietes
+- innovation-technologique
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - biologie
-- corbeaux
-- comportement-animal
-- ethologie
-- oiseaux
+- animaux
 - zoologie
-- intelligence-animale
-- science-animale
-- comportement-des-oiseaux
-- intelligences-des-animaux
+- comportement-animal
+- comportement
 coverImage: ./images/quora.png
 ---
 

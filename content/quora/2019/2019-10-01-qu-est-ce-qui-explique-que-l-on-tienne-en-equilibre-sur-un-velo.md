@@ -8,12 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- equilibre
-- stabilite
-- mouvement-physique
-- science-physique
-- mecanique-physique
-- force-physique
+- mouvement
+- mecanique
+- force
 coverImage: ./images/quora.png
 ---
 

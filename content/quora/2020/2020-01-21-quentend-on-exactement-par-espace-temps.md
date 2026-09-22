@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- espace-temps
 - cosmologie
-- relativite-generale
-- concepts-en-physique
 - physique-theorique
-- relativite-physique
-- dimension-espace-temps
+- relativite
 coverImage: ./images/quora.png
 ---
 

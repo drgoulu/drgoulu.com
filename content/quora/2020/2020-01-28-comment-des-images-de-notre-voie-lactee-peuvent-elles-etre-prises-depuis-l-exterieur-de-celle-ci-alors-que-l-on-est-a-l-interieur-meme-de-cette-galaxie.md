@@ -9,12 +9,8 @@ tags:
 - astronomie
 - espace
 - voie-lactee
-- observatoires-spatiaux
-- l-univers-astronomie
-- astrophotographie
+- univers
 - galaxies
-- galaxie-de-la-voie-lactee
-- la-voie-lactee-astronomie
 coverImage: ./images/quora.png
 ---
 

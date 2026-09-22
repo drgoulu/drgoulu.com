@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- philosophie
-- incertitude
-- epistemologie
-- connaissances-scientifiques
 - sciences
-- methodologie-en-sciences
-- certitude
+- philosophie
 - theorie-scientifique
-- la-methode-scientifique
-- philosophie-des-sciences
+- epistemologie
+- methode-scientifique
 coverImage: ./images/quora.png
 ---
 

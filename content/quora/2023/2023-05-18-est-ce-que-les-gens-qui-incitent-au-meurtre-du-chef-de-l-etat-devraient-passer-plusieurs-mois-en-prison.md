@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - justice
+- justice-penale
 - president-de-la-republique
 - droit-penal
 - meurtre
-- systeme-carceral
-- peine-de-prison
-- tentative-de-meurtre
-- chef-d-etat
-- justice-penale
-- procedure-penale
 coverImage: ./images/quora.png
 ---
 

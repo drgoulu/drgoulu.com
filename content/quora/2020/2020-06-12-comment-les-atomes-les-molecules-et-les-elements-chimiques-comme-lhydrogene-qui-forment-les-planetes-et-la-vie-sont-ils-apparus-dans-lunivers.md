@@ -9,13 +9,8 @@ tags:
 - physique
 - sciences
 - astronomie
-- origine-de-la-vie
-- hydrogene
-- elements-chimiques
-- chimie
-- cosmologie
 - astrophysique
-- origine-de-l-univers
+- univers
 coverImage: ./images/qimg-4887dcb2a345cec65eacdf91f7b4ab6e.jpg
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie-politique
-- pouvoir
+- philosophie
+- theorie
+- politique
+- systeme
 - democratie
-- systeme-de-gouvernement
-- souverainete
-- theorie-politique
-- pouvoirs-publics
-- democratie-liberale
-- democratie-participative
-- souverainete-populaire
 coverImage: ./images/quora.png
 ---
 

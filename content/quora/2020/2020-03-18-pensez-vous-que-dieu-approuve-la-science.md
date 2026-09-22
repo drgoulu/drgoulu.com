@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- croyance
-- foi
-- raison
-- dieu
 - religion
+- croyance
 - spiritualite
-- la-foi
-- science-et-religion
 coverImage: ./images/quora.png
 ---
 

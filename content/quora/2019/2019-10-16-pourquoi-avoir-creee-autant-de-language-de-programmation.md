@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
+- histoire
 - informatique
-- science-et-technologie
-- langages-de-programmation
-- developpement-logiciel
-- histoire-du-web
-- science-de-l-informatique
-- information-de-la-technologie
-- l-informatique
-- histoire-de-l-informatique
-- technologie-et-innovation
+- technologies
+- programmation
 coverImage: ./images/quora.png
 ---
 

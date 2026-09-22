@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- changement-climatique
-- futur
-- terre-planete
-- predictions
-- evolution-processus
-- geologie
-- climatologie
-- sciences-de-la-terre
-- evolution-biologie
-- planete-terre
+- sciences
+- evolution
+- biologie
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

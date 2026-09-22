@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espace
-- voyage-dans-le-temps
 - astronomie
-- courbure-de-l-espace
-- lumiere-physique
-- systeme-solaire
 - cosmologie
-- astronomie-d-observation
+- espace
+- temps
 coverImage: ./images/qimg-d65c3e3bc47ee31493669e4e086aecce.jpg
 ---
 

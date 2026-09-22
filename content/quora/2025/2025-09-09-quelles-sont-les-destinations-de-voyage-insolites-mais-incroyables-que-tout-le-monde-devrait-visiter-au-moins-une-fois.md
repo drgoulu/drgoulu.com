@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- vie
 - voyage
-- experiences-dans-la-vie
-- destinations-touristiques
-- lieux-insolites
+- experience
 - voyageurs
-- lieux-a-visiter
-- destinations-de-voyage
-- destinations-de-reve
-- lieux-interessants
+- destinations-touristiques
 coverImage: ./images/quora.png
 ---
 

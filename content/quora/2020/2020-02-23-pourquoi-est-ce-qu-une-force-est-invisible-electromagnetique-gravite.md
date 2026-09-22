@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- theorie-de-l-electromagnetisme
-- science-fondamentale
+- theorie
 - gravite
-- force-physique
-- champ-electromagnetique
-- forces-electromagnetiques
-- forces-fondamentales
-- force-electromagnetique
+- electromagnetisme
+- force
 coverImage: ./images/quora.png
 ---
 

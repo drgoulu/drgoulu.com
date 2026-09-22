@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie
-- taille
-- duree-de-vie-humaine
-- sciences-de-la-nature
-- etres-vivants
+- sciences
 - evolution
-- sciences-de-la-vie
-- science-de-la-vie-et-de-la-terre
-- evolution-biologie
-- duree-de-vie
+- biologie
+- vie
+- nature
 coverImage: ./images/qimg-e2f43620110f52ac7ceeed168e73d8ba.jpg
 ---
 

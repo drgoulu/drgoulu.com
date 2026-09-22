@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- le-soleil
-- tempetes-solaires
-- science-spatiale
 - astrophysique
-- previsions-meteorologiques
-- meteo-de-l-espace
-- physique-solaire
-- activite-solaire
-- eruptions-solaires
+- espace
+- science-spatiale
+- soleil
 coverImage: ./images/quora.png
 ---
 

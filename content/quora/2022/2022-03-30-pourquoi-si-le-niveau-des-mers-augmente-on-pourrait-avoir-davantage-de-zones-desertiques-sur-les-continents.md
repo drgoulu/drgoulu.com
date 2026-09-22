@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- geographie
+- physique
+- environnement
 - changement-climatique
-- l-environnement
-- hausse-du-niveau-de-la-mer
-- desertification
-- climatologie
-- ressources-en-eau
-- geographie-physique
-- niveau-de-la-mer
-- le-rechauffement-climatique
+- rechauffement-climatique
+- geographie
 coverImage: ./images/qimg-e45732bafd36c2c5f4332aba76553843.jpg
 ---
 

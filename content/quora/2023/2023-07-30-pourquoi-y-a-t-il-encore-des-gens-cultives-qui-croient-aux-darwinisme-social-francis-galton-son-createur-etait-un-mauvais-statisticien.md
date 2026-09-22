@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
+- histoire
 - philosophie
-- francis-galton
-- personnalites
-- darwinisme-social
-- histoire-des-sciences
-- evolution-biologie
-- statisticiens
-- sociologie
-- statistiques
-- histoire-de-la-biologie
+- evolution
+- biologie
 coverImage: ./images/quora.png
 ---
 

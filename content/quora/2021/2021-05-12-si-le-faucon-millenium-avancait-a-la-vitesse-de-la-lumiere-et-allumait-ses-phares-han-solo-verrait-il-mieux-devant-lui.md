@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- han-solo-personnage-de-star-wars
+- univers
+- lumiere
+- vitesse
 - science-fiction-genre
-- vaisseau-spatial
-- star-wars
-- vitesse-de-la-lumiere
-- univers-de-star-wars
-- personnages-de-star-wars
-- voyage-spatial
 coverImage: ./images/quora.png
 ---
 

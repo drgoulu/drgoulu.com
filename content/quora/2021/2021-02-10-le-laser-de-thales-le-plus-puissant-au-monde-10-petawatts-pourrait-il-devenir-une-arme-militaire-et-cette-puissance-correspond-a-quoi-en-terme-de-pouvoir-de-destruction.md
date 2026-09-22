@@ -10,10 +10,7 @@ tags:
 - technologie-militaire
 - lasers
 - armes-militaires
-- puissance-physique
-- equipement-militaire
-- industrie-militaire
-- science-militaire
+- puissance
 coverImage: ./images/quora.png
 ---
 

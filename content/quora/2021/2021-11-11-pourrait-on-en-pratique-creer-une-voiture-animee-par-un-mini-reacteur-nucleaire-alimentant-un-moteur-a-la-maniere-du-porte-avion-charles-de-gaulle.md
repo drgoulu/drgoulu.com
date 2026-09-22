@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- innovation
-- voitures
 - energie-nucleaire
-- transport
-- marine-nationale-francaise
 - ingenierie
-- porte-avions
-- moteurs
-- reacteurs-nucleaires
+- innovation
+- transports
+- voitures
 coverImage: ./images/quora.png
 ---
 

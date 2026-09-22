@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- le-soleil
-- lois-de-kepler
-- mercure
-- periode
 - systeme-solaire
-- jupiter-planete
-- mecanique-orbitale
+- soleil
 - gravitation
+- jupiter-planete
 coverImage: ./images/quora.png
 ---
 

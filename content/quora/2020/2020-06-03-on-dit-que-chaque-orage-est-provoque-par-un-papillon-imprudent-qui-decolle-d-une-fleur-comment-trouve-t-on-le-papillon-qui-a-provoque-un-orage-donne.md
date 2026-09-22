@@ -8,11 +8,7 @@ categories:
 tags:
 - nature
 - meteorologie
-- effet-papillon
-- orage
-- adages
 - theorie-du-chaos
-- papillons-et-mites
 - science-nature
 - phenomene-meteorologique
 coverImage: ./images/quora.png

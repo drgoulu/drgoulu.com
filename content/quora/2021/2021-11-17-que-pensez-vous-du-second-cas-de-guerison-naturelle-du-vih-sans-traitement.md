@@ -7,12 +7,8 @@ categories:
 - Quora
 tags:
 - sante
-- vih
 - recherche-scientifique
-- guerison-naturelle
-- immunologie
 - maladies-infectieuses
-- sida
 - medecine-naturelle
 - recherche-medicale
 coverImage: ./images/quora.png

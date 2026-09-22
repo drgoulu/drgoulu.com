@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- securite-informatique
-- langages-de-programmation
-- hackers
-- histoire-de-l-internet
-- criminalite-en-ligne
-- piratage-informatique
-- cybersecurite
-- hacker-profession
-- piratage-informatique-securite
-- pirate-informatique
+- histoire
+- informatique
+- programmation
+- internet
+- securite
 coverImage: ./images/quora.png
 ---
 

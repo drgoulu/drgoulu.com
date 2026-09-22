@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- evolution-processus
-- biologie
-- adaptation
-- adn
-- genetique
-- espece-humaine
-- radiation
-- biologie-humaine
 - evolution
+- biologie
+- processus
+- biologie-humaine
 coverImage: ./images/quora.png
 ---
 

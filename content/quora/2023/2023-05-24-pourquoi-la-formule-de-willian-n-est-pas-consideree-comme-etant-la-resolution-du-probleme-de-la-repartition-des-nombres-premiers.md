@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
+- philosophie
 - mathematiques
-- theorie-des-nombres-premiers
-- philosophie-des-mathematiques
-- sciences-mathematiques
-- mathematiciens
-- theorie-analytique-des-nombres
-- theorie-des-nombres
-- theoreme-des-nombres-premiers
+- theorie
+- nombres
 coverImage: ./images/quora.png
 ---
 

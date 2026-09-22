@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- histoire-de-france
-- jeanne-d-arc
-- heresies-et-heretiques
-- angleterre-royaume-uni
-- moyen-age
-- incineration
+- histoire
+- france
+- europe
 - religion-catholique
-- histoire-de-l-europe
-- eglise-d-angleterre
-- heresie
+- moyen-age
 coverImage: ./images/quora.png
 ---
 

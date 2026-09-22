@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- relations-internationales
-- franc-suisse
-- brexit
-- union-europeenne
-- performance-economique
-- consequences-economiques
 - suisse
-- commerce-international
-- interets-economiques
+- relations-internationales
+- union-europeenne
+- consequences-economiques
 - relations-economiques-internationales
 coverImage: ./images/qimg-fd9bd1ba0d8d88db6f64a829e91f090b.jpg
 ---

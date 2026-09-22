@@ -8,14 +8,9 @@ categories:
 tags:
 - relations-internationales
 - sante-publique
-- souverainete-nationale
-- organisation-mondiale-de-la-sante-oms
 - politique-internationale
-- accords-commerciaux-internationaux
 - droit-international
-- etudes-internationales
 - sante-mondiale
-- traites-internationaux
 coverImage: ./images/quora.png
 ---
 

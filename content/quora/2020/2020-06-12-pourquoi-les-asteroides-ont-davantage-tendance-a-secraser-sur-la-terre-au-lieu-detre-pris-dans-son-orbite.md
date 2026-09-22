@@ -7,12 +7,9 @@ categories:
 - Pourquoi
 tags:
 - physique
-- crateres-d-impact
-- orbites
 - astronomie
 - terre
 - systeme-solaire
-- collisions-d-asteroides
 - asteroides
 coverImage: ./images/quora.png
 ---

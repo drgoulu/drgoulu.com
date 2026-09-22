@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
+- histoire
+- espace
 - exploration-spatiale
-- histoire-des-sciences
-- union-sovietique
-- rivalite
-- la-guerre-froide
-- voyage-dans-l-espace
 - science-spatiale
-- technologie-spatiale
-- conquete-spatiale
 coverImage: ./images/quora.png
 ---
 

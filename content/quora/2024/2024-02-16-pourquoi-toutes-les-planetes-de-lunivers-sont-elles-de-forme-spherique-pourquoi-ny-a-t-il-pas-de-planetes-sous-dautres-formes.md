@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - astronomie
-- l-univers
-- forme-des-planetes
-- gravitation
-- planetes-astronomie
 - astrophysique
-- physique-planetaire
-- astronomy
+- univers
+- planetes
 coverImage: ./images/quora.png
 ---
 

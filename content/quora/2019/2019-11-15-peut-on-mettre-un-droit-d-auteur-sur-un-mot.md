@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- droit
 - langage
-- juridique
-- mot
 - propriete-intellectuelle
-- droit-dauteur
-- droit-sur-la-propriete-intellectuelle
-- protection-de-la-proprite-intellectuelle
-- la-propriete-intellectuelle
-- droits-d-auteur
-- droits-de-propriete-intellectuelle
+- mot
+- juridique
 coverImage: ./images/quora.png
 ---
 

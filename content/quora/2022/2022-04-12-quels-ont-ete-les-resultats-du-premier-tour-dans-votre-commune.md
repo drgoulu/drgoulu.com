@@ -8,14 +8,9 @@ categories:
 tags:
 - france
 - elections-municipales
-- la-vie-commune
 - resultats
-- communes
 - communaute
 - elections
-- resultats-des-elections
-- commune
-- elections-locales
 coverImage: ./images/quora.png
 ---
 

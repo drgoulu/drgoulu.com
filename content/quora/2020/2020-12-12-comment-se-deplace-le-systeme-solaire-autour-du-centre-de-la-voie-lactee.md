@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
 - astronomie
-- voie-lactee
-- mouvement
+- astrophysique
 - systeme-solaire
 - science-spatiale
-- astrophysique
-- galaxies
-- mouvement-physique
-- galaxie-de-la-voie-lactee
-- dynamique-du-systeme-solaire
 coverImage: ./images/quora.png
 ---
 

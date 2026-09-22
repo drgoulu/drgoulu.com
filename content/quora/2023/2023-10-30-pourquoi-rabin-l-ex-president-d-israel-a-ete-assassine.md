@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- conflit-israelo-palestinien
-- assassinat-politique
+- politique
 - israel
-- presidents
-- histoire-d-israel
-- assassinats
-- politique-d-israel
+- conflit-israelo-palestinien
+- president
 coverImage: ./images/quora.png
 ---
 

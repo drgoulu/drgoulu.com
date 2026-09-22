@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- evolution-processus
+- evolution
 - biologie
+- processus
 - humanite
-- adaptation
-- hypotheses
-- vie-marine
-- evolution-humaine
-- biologie-humaine
-- evolution-biologie
 coverImage: ./images/quora.png
 ---
 

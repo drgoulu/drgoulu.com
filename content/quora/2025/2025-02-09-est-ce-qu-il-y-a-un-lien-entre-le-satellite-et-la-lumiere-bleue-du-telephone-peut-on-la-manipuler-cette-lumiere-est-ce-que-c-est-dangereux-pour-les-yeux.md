@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- telephonie-mobile
-- risques-pour-la-sante
-- effet-optique
-- satellites
-- lumiere-artificielle
-- problemes-oculaires
-- telephones
-- sante-des-yeux
-- maladies-des-yeux
+- sciences
+- sante
+- technologies
+- risques
+- maladies
 coverImage: ./images/quora.png
 ---
 

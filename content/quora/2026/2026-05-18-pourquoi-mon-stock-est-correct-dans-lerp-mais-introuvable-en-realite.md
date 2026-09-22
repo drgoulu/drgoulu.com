@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- gestion-des-entreprises
+- gestion
+- entreprises
 - logistique
-- gestion-de-la-chaine-d-approvisionnement
-- solutions-erp
-- gestion-d-entreprise
-- gestion-de-l-inventaire
-- logiciel-erp
-- gestion-des-stocks
-- management-des-entreprises
-- organisation-et-gestion-des-entreprises
+- management
+- organisation
 coverImage: ./images/quora.png
 ---
 

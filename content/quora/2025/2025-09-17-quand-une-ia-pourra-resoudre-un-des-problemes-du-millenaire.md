@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- informatique
-- problemes-du-prix-du-millenaire
 - mathematiques
 - recherche-scientifique
-- intelligence-artificielle
-- resolution-de-problemes
-- algorithmes
-- sciences-informatiques
-- calcul-mathematique
+- informatique
 - recherche
+- intelligence-artificielle
 coverImage: ./images/quora.png
 ---
 

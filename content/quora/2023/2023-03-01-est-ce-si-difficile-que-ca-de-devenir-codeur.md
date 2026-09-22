@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - informatique
-- carriere
-- coder
 - developpement
-- difficulte
-- codeurs
-- developpement-web
 - sciences-informatiques
+- difficulte
+- carriere
 coverImage: ./images/quora.png
 ---
 

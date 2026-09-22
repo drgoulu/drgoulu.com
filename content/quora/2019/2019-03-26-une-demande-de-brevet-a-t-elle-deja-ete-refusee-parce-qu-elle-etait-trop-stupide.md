@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - droit
-- examinateurs-de-brevet
 - invention
 - juridique
 - propriete-intellectuelle
 - brevets
-- droit-des-brevets
-- l-invention
-- curiosite-intellectuelle
 coverImage: ./images/qimg-435a32a98bb3558386273453d77c3d18.jpg
 ---
 

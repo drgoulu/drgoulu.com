@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- l-univers
-- geometrie-hyperbolique
-- forme-de-la-terre
-- cosmologie
-- univers-observable
 - astrophysique
-- univers-infini
-- geometrie
-- geometrie-spherique
+- univers
+- cosmologie
+- terre
 coverImage: ./images/quora.png
 ---
 

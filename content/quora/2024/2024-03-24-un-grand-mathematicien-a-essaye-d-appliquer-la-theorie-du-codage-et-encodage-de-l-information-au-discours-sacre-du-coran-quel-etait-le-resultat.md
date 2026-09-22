@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- religion
 - mathematiques
-- theologie
-- textes-sacres
-- sciences-de-l-information-et-de-la-communication
-- coran
-- encodage-de-texte
+- theorie
+- religion
+- information
 - islam
-- theorie-de-l-information
-- mathematiciens
 coverImage: ./images/quora.png
 ---
 

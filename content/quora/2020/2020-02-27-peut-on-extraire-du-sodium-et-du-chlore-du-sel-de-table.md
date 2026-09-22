@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - chimie
-- sel-alimentaire
-- sodium
 - extraction
 - chlore
-- composes-ioniques
 - elements-chimie
-- chlorure-de-sodium
 - elements-chimiques
 coverImage: ./images/quora.png
 ---

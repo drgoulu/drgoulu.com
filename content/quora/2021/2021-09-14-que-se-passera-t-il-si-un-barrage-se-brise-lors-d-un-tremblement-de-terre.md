@@ -7,13 +7,8 @@ categories:
 - Quora
 tags:
 - securite
-- tremblements-de-terre
-- inondation
-- barrages
 - risque-et-risques
 - catastrophes-naturelles
-- crues-et-inondations
-- evacuation
 - dangers-naturels
 - securite-publique
 coverImage: ./images/quora.png

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- information
 - communication
 - sites-internet
-- objectifs
-- partage-d-idees
-- interet-commercial
-- point-de-vue
-- commercial
-- echanges-d-idees
-- partage-d-information
-- site-web
+- idees
+- partage
 coverImage: ./images/quora.png
 ---
 

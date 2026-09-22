@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- etoiles-corps-celestes
-- le-soleil-astronomie
-- physique-des-rayonnements
-- evolution-stellaire
 - astrophysique
+- soleil
+- etoiles-corps-celestes
 - etoiles
-- physique-stellaire
-- etoiles-astronomie
 coverImage: ./images/quora.png
 ---
 

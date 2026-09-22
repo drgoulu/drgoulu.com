@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- avancees-technologiques
 - sciences
-- survie-du-plus-apte
-- evolution-humaine
-- biologie
-- progres-scientifique
-- philosophie-et-science
-- biologie-humaine
+- philosophie
 - evolution
+- biologie
+- evolution-humaine
 coverImage: ./images/quora.png
 ---
 

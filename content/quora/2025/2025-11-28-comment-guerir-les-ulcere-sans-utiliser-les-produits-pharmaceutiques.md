@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sante
-- ulceres
 - medecine-de-complement-et-alternative
 - remedes-naturels
-- soigner-une-ulcere
 - medecine-naturelle
 - remedes
-- traitements-naturels
-- sante-naturelle
-- ulcere
 coverImage: ./images/quora.png
 ---
 

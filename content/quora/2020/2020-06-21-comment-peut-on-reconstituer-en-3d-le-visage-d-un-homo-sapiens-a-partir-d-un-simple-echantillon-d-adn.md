@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- anthropologie
 - biologie
-- conception-3d
 - recherche-scientifique
-- reconstruction
-- adn
-- genetique
-- homo-sapiens
 - biologie-humaine
+- anthropologie
 coverImage: ./images/quora.png
 ---
 

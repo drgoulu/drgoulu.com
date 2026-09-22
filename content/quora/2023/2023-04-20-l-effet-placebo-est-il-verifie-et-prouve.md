@@ -6,14 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- placebos
-- preuves-scientifiques
 - sciences
-- recherche-clinique
-- effets-placebo-sante
-- medecine
 - recherche-scientifique
+- sante
+- medecine
 - recherche-medicale
 coverImage: ./images/quora.png
 ---

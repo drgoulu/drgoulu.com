@@ -6,13 +6,9 @@ draft: false
 categories:
 - Quora
 tags:
-- litterature
 - science-fiction-genre
-- liu-cixin
-- romans
-- hypotheses
 - vie-extraterrestre
-- paradoxe-de-fermi
+- hypotheses
 - extraterrestres
 - science-fiction
 coverImage: ./images/quora.png

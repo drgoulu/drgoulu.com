@@ -9,11 +9,7 @@ tags:
 - musique
 - stereo
 - production-audio
-- disques-vinyl
-- qualite-sonore
-- materiel-audio
-- technologie-de-la-musique
-- enregistrement-sonore
+- technologies
 - audio
 coverImage: ./images/qimg-0be64d6e7fe38ebe822f39c95c079275.jpg
 ---

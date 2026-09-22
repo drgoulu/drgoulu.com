@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- psychologie
-- astronautes
-- voyage-dans-l-espace
-- comportement-humain
-- sentiments-et-emotions
-- sante-mentale
+- espace
 - exploration-spatiale
-- emotions
-- psychologie-humaine
-- les-sentiments
+- psychologie
+- voyage
+- comportement-humain
 coverImage: ./images/quora.png
 ---
 

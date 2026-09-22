@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- satellites-artificiels
-- terre-planete
 - astronomie
-- mouvement-circulaire
-- orbites
-- orbite-geostationnaire
-- vitesse-de-rotation
-- gravitation
-- orbite-terrestre-basse
+- terre
+- planetes
+- vitesse
 coverImage: ./images/quora.png
 ---
 

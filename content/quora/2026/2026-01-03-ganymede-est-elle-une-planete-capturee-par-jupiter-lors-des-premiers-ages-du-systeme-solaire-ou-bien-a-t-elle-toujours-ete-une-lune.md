@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- ganymede-lune-de-jupiter
-- lune-satellite-naturel
-- les-lunes-du-systeme-solaire
-- jupiter-planete
+- planetes
 - systeme-solaire
-- planetes-du-systeme-solaire
-- lune-astronomie
-- planetes-astronomie
-- dynamique-du-systeme-solaire
+- lune
+- lune-satellite-naturel
 coverImage: ./images/qimg-a55884ce70ead6e785cc78f68c153bad.jpg
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - astronomie
-- crateres-d-impact
-- sciences-de-la-nature
-- terre-planete
-- averses-de-meteores
-- le-systeme-solaire
-- atmosphere
 - astrophysique
-- meteores-et-meteoroides
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

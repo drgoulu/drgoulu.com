@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- terre-planete
-- catastrophes-naturelles
+- sciences
+- terre
+- planetes
 - energie-nucleaire
-- sciences-de-la-terre
-- conditions-environnementales
-- menace-nucleaire
-- dangers-naturels
-- la-physique-nucleaire
-- explosions-nucleaires
-- fission-nucleaire
+- catastrophes-naturelles
 coverImage: ./images/quora.png
 ---
 

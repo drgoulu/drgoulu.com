@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
 - societe
-- recyclage-du-plastique
 - ecologie
-- emballage
+- debat
 - durabilite
-- l-environnement
-- debats-de-societe
-- societe-moderne
-- dechets-plastiques
 coverImage: ./images/quora.png
 ---
 

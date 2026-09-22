@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- arts
-- spirale
-- nombres-de-fibonacci
-- nombre-d-or
+- nombres
 - geometrie
-- art-architecture
-- suites-mathematiques
-- les-nombres
-- suite-de-fibonacci
+- art
+- or
 coverImage: ./images/quora.png
 ---
 

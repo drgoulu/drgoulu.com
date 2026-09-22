@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- la-vie-extraterrestre
-- definitions-des-termes
-- xenobiologie
-- sciences-de-la-vie
 - biologie
-- astrobiologie
-- origine-de-la-vie
-- philosophie-de-la-vie
-- vie-extraterrestre
+- vie
+- origines
 coverImage: ./images/quora.png
 ---
 

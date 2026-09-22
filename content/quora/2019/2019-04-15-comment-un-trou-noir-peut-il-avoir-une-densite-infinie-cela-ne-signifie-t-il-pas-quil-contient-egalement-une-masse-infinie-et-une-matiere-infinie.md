@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- trous-noirs
 - sciences
 - astronomie
-- masse-physique
-- astrophysique-relativiste
-- physique-theorique
-- densite-physique
-- matiere-physique
 - astrophysique
+- physique-theorique
 coverImage: ./images/quora.png
 ---
 

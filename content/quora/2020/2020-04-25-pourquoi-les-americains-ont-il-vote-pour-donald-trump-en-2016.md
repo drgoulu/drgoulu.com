@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- politique
+- psychologie
 - opinion-publique
-- les-etats-unis-d-amerique
-- sociologie-politique
-- election-presidentielle
-- politique-des-etats-unis-d-amerique
-- election-presidentielle-americaine-2016
-- elections-aux-etats-unis-d-amerique
-- psychologie-politique
-- politique-americaine
+- sociologie
+- etats-unis
 coverImage: ./images/quora.png
 ---
 

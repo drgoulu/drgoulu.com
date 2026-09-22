@@ -8,14 +8,9 @@ categories:
 tags:
 - sante-publique
 - virus
-- les-grands-singes
-- epidemiologie
-- maladies-infectieuses
-- variole-du-singe
-- transmission-de-germes
 - virologie
-- maladies-virales
-- maladies-contagieuses
+- maladies-infectieuses
+- epidemiologie
 coverImage: ./images/quora.png
 ---
 

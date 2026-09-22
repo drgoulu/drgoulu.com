@@ -7,13 +7,9 @@ categories:
 - Comment
 tags:
 - mathematiques
-- nombres-positifs
-- theorie-des-ensembles
-- infinite
-- calcul-infinitesimal
-- theorie-des-nombres
-- infini-mathematiques
-- nombres-reels
+- theorie
+- nombres
+- infini
 - nombres-naturels
 coverImage: ./images/quora.png
 ---

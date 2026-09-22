@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - biologie
-- chameaux
-- alligators
 - questions-absurdes-sur-quora
-- dromadaire
-- question-debile
 - reproduction-animale
 - idees-folles
 - crocodiles
-- question-stupide
 coverImage: ./images/quora.png
 ---
 

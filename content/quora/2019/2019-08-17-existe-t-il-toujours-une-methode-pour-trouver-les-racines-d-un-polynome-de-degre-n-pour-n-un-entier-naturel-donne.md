@@ -9,11 +9,8 @@ tags:
 - mathematiques
 - algebre
 - resolutions
-- resolution-d-equations-polynomiales
-- racines-mathematiques
-- equations-algebriques
-- equations-mathematiques
-- equations-polynomiales
+- racine
+- equations
 coverImage: ./images/quora.png
 ---
 

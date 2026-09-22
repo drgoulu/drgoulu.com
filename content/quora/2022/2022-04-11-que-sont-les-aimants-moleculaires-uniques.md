@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- magnetisme
-- scientifiques-des-materiaux
-- materiaux
+- sciences
 - chimie
-- science-des-materiaux-et-ingenierie
-- physique-des-materiaux
-- chimie-physique
-- la-science-des-materiaux
-- science-des-materiaux-et-ingenieries
+- materiaux
+- ingenierie
 coverImage: ./images/quora.png
 ---
 

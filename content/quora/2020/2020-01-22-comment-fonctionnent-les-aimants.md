@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- aimants
 - sciences
 - electromagnetisme
-- champ-magnetique-terrestre
-- force-magnetique
-- science-physique
+- force
 - magnetisme
-- force-physique
-- champs-magnetiques
 coverImage: ./images/qimg-8bb6187e3682cce3c579efb077039cce.jpg
 ---
 

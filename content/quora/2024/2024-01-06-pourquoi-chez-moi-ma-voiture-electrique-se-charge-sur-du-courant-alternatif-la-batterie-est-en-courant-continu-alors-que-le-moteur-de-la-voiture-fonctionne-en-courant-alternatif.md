@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - electricite
-- technologie-automobile
-- courant-alternatif
+- voitures
 - voitures-electriques
-- batterie
-- chargement-de-batterie
-- batteries-de-voitures
-- courant-continu
-- electrotechnique
-- moteurs-electriques
+- technologie-automobile
+- batteries
 coverImage: ./images/quora.png
 ---
 

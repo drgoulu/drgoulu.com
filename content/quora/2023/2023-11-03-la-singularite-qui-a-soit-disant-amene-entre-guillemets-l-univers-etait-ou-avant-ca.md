@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- singularite-big-bang
-- l-univers
+- univers
 - cosmologie
-- origine-de-l-univers
-- theories-physiques
 - physique-theorique
-- theorie-cosmologique
-- singularite
-- exploration-de-l-univers
+- origines
 coverImage: ./images/quora.png
 ---
 

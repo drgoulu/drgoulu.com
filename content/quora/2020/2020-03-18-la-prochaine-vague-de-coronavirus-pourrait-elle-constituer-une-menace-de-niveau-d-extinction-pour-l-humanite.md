@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sante
 - sante-publique
+- risques
 - covid-19-2019-2020
-- risques-de-disparition-de-l-espece-humaine
-- pandemie
-- risque-et-risques
-- crise-sanitaire
-- dangers-naturels
-- sante-et-securite-publiques
-- epidemies
-- l-extinction-humaine
+- espece-humaine
 coverImage: ./images/quora.png
 ---
 

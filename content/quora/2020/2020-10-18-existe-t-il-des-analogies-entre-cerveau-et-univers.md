@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- cerveau
-- analogies
 - sciences
-- l-univers
-- cosmologie
-- neuroscience
 - astronomie
-- philosophie-et-science
-- philosophie-des-sciences
+- philosophie
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

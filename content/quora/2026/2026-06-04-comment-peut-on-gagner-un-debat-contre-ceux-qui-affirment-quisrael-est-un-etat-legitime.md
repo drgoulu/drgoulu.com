@@ -10,12 +10,7 @@ tags:
 - israel
 - debat
 - conflit-israelo-palestinien
-- legitimite
 - geopolitique
-- arguments-et-argumentation
-- discution
-- debats-politiques
-- guerre-israelo-palestinien
 coverImage: ./images/quora.png
 ---
 

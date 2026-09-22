@@ -6,14 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
 - histoire
+- sante
 - virus
-- epidemiologie
-- maladies
-- mortalite
 - virologie
-- pandemie
 - maladies-infectieuses
 coverImage: ./images/quora.png
 ---

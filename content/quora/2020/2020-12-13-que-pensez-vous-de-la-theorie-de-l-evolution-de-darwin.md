@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- charles-darwin
-- evolution-processus
-- theorie-de-l-evolution
+- evolution
 - biologie
-- evolution-humaine
-- evolution-biologique-des-especes
-- evolution-biologie
-- darwin
-- biologie-de-l-evolution
+- theorie
+- processus
 coverImage: ./images/quora.png
 ---
 

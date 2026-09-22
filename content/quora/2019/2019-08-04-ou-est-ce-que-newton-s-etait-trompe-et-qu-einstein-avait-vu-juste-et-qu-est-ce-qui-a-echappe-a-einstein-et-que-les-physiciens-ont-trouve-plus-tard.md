@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- isaac-newton
-- histoire-des-sciences
-- albert-einstein-physicien
-- theorie-de-la-relativite
-- mecanique-classique
-- decouvertes-scientifiques
+- sciences
+- histoire
+- theorie
 - physique-theorique
-- physique-moderne
-- histoire-de-la-physique
 coverImage: ./images/quora.png
 ---
 

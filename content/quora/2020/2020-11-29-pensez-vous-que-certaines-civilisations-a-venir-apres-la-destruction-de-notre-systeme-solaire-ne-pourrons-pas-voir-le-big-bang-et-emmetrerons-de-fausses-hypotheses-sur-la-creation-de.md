@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- univers
 - cosmologie
-- hypotheses
 - systeme-solaire
+- origines
 - expansion-de-l-univers
-- civilisations-extraterrestres
-- origine-de-l-univers
-- scenarios-scientifiques-hypothetiques
-- hypotheses-scientifiques
 coverImage: ./images/quora.png
 ---
 

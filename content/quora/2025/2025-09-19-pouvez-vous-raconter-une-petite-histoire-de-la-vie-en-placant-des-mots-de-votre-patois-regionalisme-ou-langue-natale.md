@@ -9,12 +9,8 @@ tags:
 - histoire
 - ecriture-creative
 - langues
-- regionalisme
 - langue-maternelle
-- dialectes
 - ecriture
-- langue-native
-- langues-maternelles
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
+- univers
 - recherche-scientifique
-- nasa
 - exploration-spatiale
-- exoplanetes
-- l-univers-astronomie
-- astronomy
-- decouvertes-scientifiques
 - science-spatiale
-- missions-spatiales
 coverImage: ./images/qimg-d85b41f8cc722cead218c92b4463ab38.jpg
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- systeme
+- gouvernement
+- elections
 - elections-presidentielles
-- systeme-de-gouvernement
-- histoire-politique-des-etats-unis-d-amerique
-- droit-constitutionnel
-- suffrage-universel
 - politique-americaine
-- systeme-d-election
-- systemes-politiques
-- elections-democratiques
-- droit-politique-americain
 coverImage: ./images/quora.png
 ---
 

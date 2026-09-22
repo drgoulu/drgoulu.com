@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- securite-informatique
+- informatique
+- technologies
+- securite
+- innovation
 - nouvelles-technologies
-- cryptologie
-- sciences-informatiques
-- protection-des-donnees
-- techniques-scientifiques
-- technologie-et-innovation
-- cryptographie
-- securite-des-logiciels
 coverImage: ./images/quora.png
 ---
 

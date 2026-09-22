@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- croyance
-- deite
-- preuve
 - religion
+- croyance
 - spiritualite
-- theisme
-- preuve-de-dieu
 - atheisme
-- religions
 coverImage: ./images/quora.png
 ---
 

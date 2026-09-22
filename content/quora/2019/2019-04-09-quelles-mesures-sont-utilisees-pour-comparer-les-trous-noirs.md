@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs-supermassifs
 - astronomie
-- comparaison
-- science-spatiale
 - astrophysique
 - trous-noirs
-- mesures-physiques
-- astronomie-et-astrophysique
+- science-spatiale
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
+- environnement
 - changement-climatique
-- methane
-- effet-de-serre
-- protocole-de-kyoto
-- chimie-atmospherique
-- sciences-du-climat
-- gaz-a-effet-de-serre
-- le-rechauffement-climatique
-- science-de-l-environnement
+- rechauffement-climatique
+- climats
 coverImage: ./images/quora.png
 ---
 

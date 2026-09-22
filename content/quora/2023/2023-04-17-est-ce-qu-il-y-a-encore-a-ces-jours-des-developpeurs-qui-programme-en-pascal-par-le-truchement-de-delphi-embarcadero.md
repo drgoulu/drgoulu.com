@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- langages-de-programmation
+- environnement
+- programmation
+- langage
+- developpement
 - developpement-logiciel
-- embarcadero-technologies
-- developpeurs-experimentes
-- environnement-de-developpement
-- delphi-langage-de-programmation
-- pascal-langage-de-programmation
-- developpeurs-d-applications
-- developpeurs-professionnel
-- developpeurs
 coverImage: ./images/quora.png
 ---
 

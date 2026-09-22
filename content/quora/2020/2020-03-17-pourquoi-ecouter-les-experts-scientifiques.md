@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sciences
+- sante
 - sante-publique
+- risques
 - medias
-- amiante
-- risque-et-risques
-- cancer
-- scientifiques
-- risques-pour-la-sante
-- autorites-sanitaires
-- sante-et-securite-publiques
 coverImage: ./images/quora.png
 ---
 

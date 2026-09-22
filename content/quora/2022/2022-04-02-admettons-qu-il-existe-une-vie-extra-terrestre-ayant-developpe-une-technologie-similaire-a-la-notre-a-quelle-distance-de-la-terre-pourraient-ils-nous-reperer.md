@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- l-univers
-- detection-d-objets
+- univers
+- terre
+- planetes
 - exploration-spatiale
-- terre-planete
-- distance
-- vie-extraterrestre
-- science-spatiale
-- radioastronomie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- terre
+- vie
 - recherche-scientifique
-- oxygene
-- fond-marin
-- vie-sur-terre
-- photosynthese
 - theorie-scientifique
-- hypotheses-scientifiques
-- science-de-la-vie-et-de-la-terre
 - decouvertes-scientifiques
-- demarche-scientifique
 coverImage: ./images/quora.png
 ---
 

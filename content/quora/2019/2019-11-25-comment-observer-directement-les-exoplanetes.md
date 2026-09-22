@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- methodes-de-recherche
-- exoplanetes
-- science-spatiale
 - astrophysique
-- objets-astronomiques
-- planetes-astronomie
-- astronomie-d-observation
-- exoplanetologie
+- planetes
+- science-spatiale
+- recherche
 coverImage: ./images/qimg-eb3b276eff59bf838b61fdfacf3ab154.jpg
 ---
 

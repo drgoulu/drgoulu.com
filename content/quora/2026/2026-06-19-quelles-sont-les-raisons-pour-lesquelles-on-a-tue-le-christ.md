@@ -8,14 +8,9 @@ categories:
 tags:
 - religion
 - theologie
-- mort-de-jesus
-- histoire-de-la-chretiente
-- evangile
 - christianisme
 - jesus-christ
-- jesus-historique
-- histoire-du-christianisme
-- crucifixion-de-jesus
+- histoire
 coverImage: ./images/quora.png
 ---
 

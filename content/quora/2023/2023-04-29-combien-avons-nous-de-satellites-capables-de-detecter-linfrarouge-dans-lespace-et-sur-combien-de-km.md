@@ -8,14 +8,9 @@ categories:
 tags:
 - astronomie
 - espace
-- infra-rouge
 - exploration-spatiale
-- distance
-- satellites
-- observatoires-spatiaux
-- technologie-spatiale
-- la-lumiere-infrarouge
 - science-spatiale
+- technologie-spatiale
 coverImage: ./images/quora.png
 ---
 

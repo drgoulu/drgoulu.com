@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- la-vie-apres-la-mort
-- conscience
-- religion
-- spiritualite
-- existence
 - theorie
-- la-philosophie
-- vie-apres-la-mort
+- religion
+- conscience
+- spiritualite
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - changement-climatique
-- transport-aerien
-- greta-thunberg
-- developpement-durable
-- voyage-en-avion
-- impact-environnemental
-- emissions-de-carbone
 - rechauffement-climatique
-- engagement-ecologique
+- voyage
+- developpement-durable
 - crise-climatique
 coverImage: ./images/quora.png
 ---

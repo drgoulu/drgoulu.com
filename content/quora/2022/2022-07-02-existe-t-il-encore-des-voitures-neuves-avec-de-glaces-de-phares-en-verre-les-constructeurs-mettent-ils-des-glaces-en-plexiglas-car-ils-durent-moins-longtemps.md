@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- voitures-et-automobiles
-- verre
+- voitures
+- automobile
 - durabilite
-- plexiglas
 - materiaux
-- phares-maritimes
 - industrie-automobile
-- fenetres-de-voiture
-- constructeurs-automobiles
-- voitures-neuves
 coverImage: ./images/quora.png
 ---
 

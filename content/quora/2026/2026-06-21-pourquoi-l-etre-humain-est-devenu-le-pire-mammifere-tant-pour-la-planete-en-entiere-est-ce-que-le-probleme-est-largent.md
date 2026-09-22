@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- comportement-humain
-- argent
+- terre
+- planetes
 - societe
-- mammiferes
-- terre-planete
+- comportement-humain
 - impact-environnemental
-- problemes-sociaux
-- ecologie-humaine
-- activite-humaine
-- problemes-environnementaux
 coverImage: ./images/quora.png
 ---
 

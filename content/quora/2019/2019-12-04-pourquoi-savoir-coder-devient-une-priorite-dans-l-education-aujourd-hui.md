@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- education
-- technologie-moderne
-- marche-du-travail
-- competences-en-programmation-informatique
-- innovation
-- priorite
 - technologies
-- metiers-du-numerique
-- competences
-- competences-techniques
+- education
+- innovation
+- travail
+- technologie-moderne
 coverImage: ./images/quora.png
 ---
 

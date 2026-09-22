@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- politique-francaise
-- comportement
 - opinion-publique
 - personne
-- brigitte-macron
-- femme
+- politique-francaise
+- comportement
 - critique
-- presidents-francais
-- emmanuel-macron
-- image-publique
 coverImage: ./images/quora.png
 ---
 

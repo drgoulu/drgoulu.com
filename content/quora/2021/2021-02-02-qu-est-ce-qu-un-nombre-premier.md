@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - mathematiques
-- nombres-positifs
-- theorie-des-nombres-premiers
-- nombres-naturels
-- sciences-mathematiques
-- theorie-du-nombre
-- post
-- theoreme-des-nombres-premiers
-- theorie-des-nombres
+- theorie
+- nombres
+- nombres-premiers
 coverImage: ./images/quora.png
 ---
 

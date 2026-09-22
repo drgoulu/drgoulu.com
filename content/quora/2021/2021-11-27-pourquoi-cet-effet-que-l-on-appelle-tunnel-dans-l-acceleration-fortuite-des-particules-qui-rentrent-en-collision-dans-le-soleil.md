@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- le-soleil
-- effet-tunnel
-- astrophysique-des-hautes-energies
-- acceleration-physique
+- soleil
 - astrophysique
 - collision-physique
 - phenomenes-physiques
-- physique-des-accelerateurs
 coverImage: ./images/qimg-569904abad416647e49668ac5bd8d669.jpg
 ---
 

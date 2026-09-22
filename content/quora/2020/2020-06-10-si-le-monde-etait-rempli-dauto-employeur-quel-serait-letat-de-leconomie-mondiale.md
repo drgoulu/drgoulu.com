@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- entrepreneuriat
-- scenarios-hypothetiques
-- marche-du-travail
-- economie-mondiale
+- travail
 - emploi
-- travailleur-independant
-- employeurs
-- economie-generale
-- l-entrepreneuriat
-- travail-independant
+- economie-mondiale
+- scenarios-hypothetiques
+- entrepreneuriat
 coverImage: ./images/quora.png
 ---
 

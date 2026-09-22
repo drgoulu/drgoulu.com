@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- futur
-- libre-arbitre
-- effet-papillon
-- consequences
 - temps
-- determinisme
-- theorie-du-chaos
-- philosophie-et-psychologie
-- philosophie-et-science
+- psychologie
+- futur
 coverImage: ./images/quora.png
 ---
 

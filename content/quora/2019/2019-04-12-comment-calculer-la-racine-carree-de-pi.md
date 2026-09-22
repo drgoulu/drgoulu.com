@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - mathematiques
-- pi
-- racine-carree
 - calcul
-- approximations
-- le-nombre-pi
-- estimation
-- calcul-de-pi
+- pi
 - calcul-mathematique
-- racines-carrees-fonctions
+- nombre-pi
 coverImage: ./images/quora.png
 ---
 

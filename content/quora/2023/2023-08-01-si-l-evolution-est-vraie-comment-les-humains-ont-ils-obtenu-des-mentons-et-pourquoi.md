@@ -7,16 +7,11 @@ categories:
 - Pourquoi
 - Comment
 tags:
-- biologie-humaine
-- menton
-- evolution-processus
-- anthropologie
+- evolution
+- biologie
+- processus
 - evolution-humaine
-- anatomie-humaine
-- evolution-biologie
-- origines-humaines
-- anatomie-et-physiologie
-- biologie-evolutive-humaine
+- biologie-humaine
 coverImage: ./images/quora.png
 ---
 

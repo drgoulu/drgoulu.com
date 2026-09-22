@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- france
+- histoire
 - politique
-- emmanuel-macron
-- grandeur
-- questions-d-opinion
-- presidence-de-la-republique-francaise
-- histoire-de-france
-- politique-francaise
-- image-de-la-france
-- politique-en-france
+- france
+- opinion
+- questions
 coverImage: ./images/qimg-5ffc566d70ed080277307f78572966c5.jpg
 ---
 

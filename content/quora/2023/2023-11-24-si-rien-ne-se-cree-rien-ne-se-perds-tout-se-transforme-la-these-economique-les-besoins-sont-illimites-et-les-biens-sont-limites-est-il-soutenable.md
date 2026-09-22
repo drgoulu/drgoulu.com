@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
 - theorie
-- besoins-humains
-- economie-generale
-- ressources-en-eau
-- rarete-economique
-- philosophie-de-l-economie
-- besoins-de-base
-- theorie-economique
-- rarete-des-ressources
-- besoins-vitaux
+- economie
+- eau
+- ressources
 coverImage: ./images/quora.png
 ---
 

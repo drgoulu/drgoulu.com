@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- histoire
 - biologie
-- changement-climatique
-- universite-harvard
-- l-environnement
-- histoire-de-la-terre
-- etude-scientifique
-- extinction-de-masse
-- extinction-des-especes
-- sciences-de-la-terre
+- terre
+- environnement
 coverImage: ./images/quora.png
 ---
 

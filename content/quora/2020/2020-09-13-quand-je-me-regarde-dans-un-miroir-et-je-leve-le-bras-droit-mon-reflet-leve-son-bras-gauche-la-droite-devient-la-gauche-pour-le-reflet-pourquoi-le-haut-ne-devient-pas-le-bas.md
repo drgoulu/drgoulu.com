@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - perception
-- miroirs
-- illusion-d-optique
-- symetrie
-- reflexion-physique
-- perception-visuelle
-- image-miroir
 - optique
+- reflexion
+- perception-visuelle
 coverImage: ./images/qimg-6c213eed32c990fab2b6fd3afbffb24f.jpg
 ---
 

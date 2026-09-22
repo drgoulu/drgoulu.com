@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espace
 - astronomie
-- le-vide
-- theorie-cosmologique
 - cosmologie
-- matiere-physique
-- vide-espace
 - physique-theorique
-- espace-dimension
+- espace
 coverImage: ./images/quora.png
 ---
 

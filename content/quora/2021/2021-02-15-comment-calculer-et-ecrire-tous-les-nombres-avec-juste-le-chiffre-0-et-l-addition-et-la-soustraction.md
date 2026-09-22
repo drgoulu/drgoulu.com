@@ -7,14 +7,9 @@ categories:
 - Comment
 tags:
 - mathematiques
-- soustraction
-- nombres-naturels
-- chiffres
-- calcul-mental
-- addition
-- nombres-mathematiques
-- notation-mathematique
+- nombres
 - calcul
+- nombres-naturels
 - arithmetique
 coverImage: ./images/quora.png
 ---

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- communication
-- nouvelles-technologies
-- appel-video
-- holographie
+- technologies
+- futur
 - innovation
-- reseaux-et-telecommunications
-- conferences-video
-- technologie-du-futur
-- telecommunications
-- technologies-a-venir
+- nouvelles-technologies
+- communication
 coverImage: ./images/quora.png
 ---
 

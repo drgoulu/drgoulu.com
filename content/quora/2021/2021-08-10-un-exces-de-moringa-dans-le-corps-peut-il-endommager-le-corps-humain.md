@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- moringa
-- effets-negatifs
 - corps-humains
 - alimentation
-- toxicologie
-- plantes-medicinales
+- effet
 - nutrition
-- effets-sur-la-sante
-- sante-humaine
 coverImage: ./images/quora.png
 ---
 

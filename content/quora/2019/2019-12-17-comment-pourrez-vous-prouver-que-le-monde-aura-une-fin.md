@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- philosophie
-- scenarios-de-fin-du-monde
-- question-existentielle
-- preuve
 - sciences
+- philosophie
 - cosmologie
-- theorie-scientifique
-- la-fin-du-monde
-- philosophie-des-sciences
 - theorie
+- theorie-scientifique
 coverImage: ./images/quora.png
 ---
 

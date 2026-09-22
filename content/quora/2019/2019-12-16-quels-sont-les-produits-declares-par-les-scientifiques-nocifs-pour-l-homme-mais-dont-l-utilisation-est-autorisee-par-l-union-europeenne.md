@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sante
 - sante-publique
-- union-europeenne
-- produits-chimiques-dangereu
-- reglementation
-- risques-pour-la-sante
-- substances-toxiques
-- sante-et-securite-publiques
-- lois-et-reglementations
-- produit-chimique-toxique
-- produits-dangereux
+- risques
+- loi
+- securite-publique
 coverImage: ./images/quora.png
 ---
 

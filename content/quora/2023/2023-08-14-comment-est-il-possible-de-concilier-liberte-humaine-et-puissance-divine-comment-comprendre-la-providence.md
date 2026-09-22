@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - philosophie
-- providence
-- foi
-- question-existentielle
 - religion
+- question-existentielle
 - puissance
-- liberte-personnelle
-- theologie
-- la-foi
-- providence-religion
+- foi
 coverImage: ./images/quora.png
 ---
 

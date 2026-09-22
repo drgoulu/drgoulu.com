@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- energie
+- environnement
 - france
 - energie-nucleaire
-- l-environnement
-- developpement-durable
-- sources-d-energie
 - energie-renouvelable
-- energie-solaire
-- energie
 coverImage: ./images/qimg-966a77961c08026941a4d91e387fe7d5.jpg
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- voler
-- corps-humains
-- question-hypothetique
 - sciences
 - biologie
-- formules-mathematiques
-- superficie
-- aerodynamique
-- anatomie-humaine
+- mathematiques
+- question-hypothetique
 coverImage: ./images/quora.png
 ---
 

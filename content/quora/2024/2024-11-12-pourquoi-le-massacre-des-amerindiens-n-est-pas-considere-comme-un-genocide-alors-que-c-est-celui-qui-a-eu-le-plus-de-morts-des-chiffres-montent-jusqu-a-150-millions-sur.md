@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- genocide
-- peuples-indigenes
-- colonisation-europeenne
-- ethnie
-- histoire-des-etats-unis-d-amerique
-- massacres
+- etats-unis
+- ameriques
 - colonisation
-- histoire-des-amerindiens
-- histoire-des-ameriques
+- genocide
 coverImage: ./images/quora.png
 ---
 

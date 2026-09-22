@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- evolution
 - biologie
-- evolution-processus
-- etres-vivants
-- adn
-- genetique
-- sciences-de-la-vie
-- phenomene
-- vie-biologique
-- organismes-vivants
-- evolution-biologie
+- vie
+- processus
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- le-christianisme-primitif
-- marxisme
 - ideologies-politiques
-- le-communisme
-- histoire-des-religions
-- christianisme
-- anciens-chretiens
 - communisme
-- histoire-du-christianisme
+- religion
+- christianisme
 coverImage: ./images/quora.png
 ---
 

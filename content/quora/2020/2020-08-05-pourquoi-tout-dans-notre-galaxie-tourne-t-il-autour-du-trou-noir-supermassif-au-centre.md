@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- trous-noirs-supermassifs
-- galaxie-de-la-voie-lactee
 - astronomie
-- l-univers-astronomie
-- rotation-physique
-- galaxies
 - astrophysique
+- univers
 - trous-noirs
-- voie-lactee
 coverImage: ./images/quora.png
 ---
 

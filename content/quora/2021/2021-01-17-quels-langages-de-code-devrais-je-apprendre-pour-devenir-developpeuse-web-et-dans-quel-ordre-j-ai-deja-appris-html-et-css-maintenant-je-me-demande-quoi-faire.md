@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- programmation
+- langage
 - apprentissage
-- langages-de-programmation
 - developpement-web
-- css
-- javascript
-- developpeur
 - programmation-web
-- html
-- langages-de-programmation-web
 coverImage: ./images/qimg-2b1cc345c5670b61c1b8340dd9459262.jpg
 ---
 

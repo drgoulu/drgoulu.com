@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- transport
+- energie
 - energie-nucleaire
+- transports
 - impact-environnemental
-- uranium
-- recyclage
-- production-d-energie
-- les-centrales-nucleaires
-- infrastructure-du-nucleaire
-- industrie-nucleaire
+- production
 coverImage: ./images/quora.png
 ---
 

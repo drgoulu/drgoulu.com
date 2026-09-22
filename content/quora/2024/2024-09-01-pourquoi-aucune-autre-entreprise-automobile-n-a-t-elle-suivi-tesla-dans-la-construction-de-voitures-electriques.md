@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- entreprises
 - innovation
-- tesla-motors-compagnie
-- strategie-d-entreprise
-- elon-musk
+- strategie
 - voitures-electriques
-- marche-mondial
-- industrie-automobile
-- constructeurs-automobiles
 - technologie-automobile
-- strategies-pour-les-entreprises
 coverImage: ./images/quora.png
 ---
 

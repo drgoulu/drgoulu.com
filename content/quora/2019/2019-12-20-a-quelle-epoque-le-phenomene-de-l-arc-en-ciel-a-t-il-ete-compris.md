@@ -4,15 +4,10 @@ date: 2019-12-20
 draft: false
 tags:
   - physique
-  - arc-en-ciel
-  - histoire-des-sciences
-  - effet-optique
-  - phenomenes
+  - sciences
+  - histoire
   - optique
-  - phenomene-naturel
-  - histoire-de-la-physique
-  - phenomene
-  - histoire-de-la-science
+  - phenomenes-naturels
 categories:
   - Quora
 slug: a-quelle-epoque-le-phenomene-de-l-arc-en-ciel-a-t-il-ete-compris

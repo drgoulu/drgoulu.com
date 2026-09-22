@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - philosophie
-- mal
-- degagement
 - religion
 - planete-terre
-- spiritualite
 - metaphysique
-- philosophique
-- la-spiritualite
-- religions
+- spiritualite
 coverImage: ./images/quora.png
 ---
 

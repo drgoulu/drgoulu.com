@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- comportement-animal
-- milan
-- mythes
-- ecologie
 - nature
-- feux-de-forets
+- ecologie
 - faune
-- oiseaux
-- mythologie
-- comportement-des-oiseaux
+- comportement-animal
+- comportement
 coverImage: ./images/quora.png
 ---
 

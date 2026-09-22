@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- mysteres
 - vie-extraterrestre
-- ovnis
 - phenomene
-- conspirations
-- aliens
+- mysteres
 - extraterrestres
-- phenomene-paranormal
-- les-choses-mysterieuses
-- mystere
+- ovni
 coverImage: ./images/quora.png
 ---
 

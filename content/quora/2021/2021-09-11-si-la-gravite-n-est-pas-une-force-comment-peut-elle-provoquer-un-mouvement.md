@@ -9,13 +9,8 @@ tags:
 - physique
 - sciences
 - mouvement
-- force-de-gravite
-- force-physique
-- physics
-- mouvement-physique
+- force
 - gravite
-- la-gravite
-- gravite-physique
 coverImage: ./images/quora.png
 ---
 

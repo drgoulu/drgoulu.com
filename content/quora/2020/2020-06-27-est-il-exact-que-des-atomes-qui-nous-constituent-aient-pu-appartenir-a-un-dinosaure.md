@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- histoire-du-monde
-- corps-humains
 - sciences
-- paleontologie
-- dinosaures
-- atomes
+- histoire
+- monde
 - chimie
-- histoire-des-sciences
-- le-corps-humains
 coverImage: ./images/quora.png
 ---
 

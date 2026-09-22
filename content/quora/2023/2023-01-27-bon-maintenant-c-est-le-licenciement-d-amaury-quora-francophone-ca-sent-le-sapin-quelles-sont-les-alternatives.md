@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- quora
+- sites-internet
+- questions-reponses
 - plateformes-en-ligne
-- communaute
-- quora-entreprise
-- francophone
-- alternatives
-- licenciement
-- sites-internet-de-questions-reponses
-- quorans-francais
 - communautes-en-ligne
-- quora-en-francais
 coverImage: ./images/quora.png
 ---
 

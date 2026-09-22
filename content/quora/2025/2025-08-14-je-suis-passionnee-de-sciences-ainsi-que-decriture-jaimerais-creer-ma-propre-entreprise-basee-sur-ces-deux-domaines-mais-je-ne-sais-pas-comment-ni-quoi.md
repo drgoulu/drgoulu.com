@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- entrepreneuriat
-- ecriture
-- demarrage-d-une-entreprise
-- conseils-business
-- entreprendre
-- creation-d-entreprise
-- sciences-et-technologies
-- conseils-aux-entrepreneurs
-- lancement-d-entreprise
+- technologies
+- creation
+- entreprises
+- conseils
 coverImage: ./images/quora.png
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- langages-de-programmation
+- programmation
+- langage
+- conseils
+- python
 - developpement-logiciel
-- syntaxe
-- developpeurs-python
-- python-langage-de-programmation
-- conseil-de-programmation-en-python
-- programmation-en-python
-- syntaxe-langages-de-programmation
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astrophysique
+- environnement
 - changement-climatique
-- le-soleil
-- glaciation
-- climatologie
-- sciences-de-l-environnement
-- activite-solaire
 - rechauffement-climatique
-- crise-climatique
 coverImage: ./images/quora.png
 ---
 

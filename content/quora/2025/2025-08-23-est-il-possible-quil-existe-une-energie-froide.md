@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- recherche-scientifique
 - energie
+- recherche-scientifique
 - nature
-- science-physique
-- science-nature
-- recherche
-- energie-physique
-- etude-scientifique
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- espace
-- l-univers-astronomie
 - astronomie
-- matiere-noire
-- couleur
-- cosmologie
-- univers-observable
 - astrophysique
-- l-univers
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- recherche-et-developpement-de-vaccins
-- serum
-- micro-organismes
 - biologie
-- fabrication-des-medicaments
+- sante
+- recherche
 - medecine
-- immunite-biologie
-- immunologie
-- microbiologie
+- developpement
 coverImage: ./images/quora.png
 ---
 

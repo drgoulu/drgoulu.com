@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- evenement-marquant
-- terre-planete
-- extinction-des-especes
-- bombe-nucleaire
-- asteroides
-- catastrophes-naturelles
-- extinction-de-masse
-- evenement-historique
-- l-extinction-humaine
+- terre
+- planetes
+- especes
+- extinction
 coverImage: ./images/quora.png
 ---
 

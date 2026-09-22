@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- efficacite
-- medecine-de-complement-et-alternative
-- appareils-medicaux
 - medecine
-- traitements-medicaux
+- medecine-de-complement-et-alternative
 - medecine-non-conventionnelle
-- sante-alternative
-- medecine-naturelle
+- traitements-medicaux
 coverImage: ./images/quora.png
 ---
 

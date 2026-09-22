@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- le-cercle
-- forme-geometrie
-- geometrie-des-cercles
-- histoire-des-mathematiques
-- figures-geometriques
-- geometrie
 - cercles
+- geometrie
+- histoire
 - post
-- histoire-du-mathematique
 coverImage: ./images/quora.png
 ---
 

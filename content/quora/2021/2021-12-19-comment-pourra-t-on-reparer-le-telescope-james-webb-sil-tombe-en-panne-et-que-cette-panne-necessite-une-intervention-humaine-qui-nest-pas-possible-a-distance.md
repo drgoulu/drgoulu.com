@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- telescope-spatial-james-webb
 - astronomie
-- panne
-- reparation
-- technologie-spatiale
-- intervention
-- les-telescopes
 - astrophysique
 - science-spatiale
+- technologie-spatiale
 coverImage: ./images/quora.png
 ---
 

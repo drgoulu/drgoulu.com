@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - astronomie
-- contenu-adulte
-- le-soleil
 - terre
-- heure
-- lumiere-du-jour
-- rotation-de-la-terre
-- coucher-de-soleil
-- lever-du-soleil
-- science-de-la-terre
+- lumiere
+- soleil
 coverImage: ./images/quora.png
 ---
 

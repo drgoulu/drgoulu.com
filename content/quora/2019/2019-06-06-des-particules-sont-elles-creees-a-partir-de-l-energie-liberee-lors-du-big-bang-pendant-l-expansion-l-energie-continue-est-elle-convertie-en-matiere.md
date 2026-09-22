@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- univers-en-expansion
-- creation
+- univers
 - cosmologie
-- energie-physique
-- particules
-- origine-de-l-univers
-- cosmologie-du-big-bang
-- expansion-de-l-univers
+- energie
+- origines
 coverImage: ./images/quora.png
 ---
 

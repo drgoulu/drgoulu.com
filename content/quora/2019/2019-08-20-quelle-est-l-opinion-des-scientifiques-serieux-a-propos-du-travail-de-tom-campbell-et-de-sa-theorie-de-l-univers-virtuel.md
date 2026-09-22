@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- sciences
 - physique
-- theorie-de-la-simulation
-- pensee-scientifique
-- theories-univers
+- sciences
+- philosophie
+- theorie
 - physique-theorique
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

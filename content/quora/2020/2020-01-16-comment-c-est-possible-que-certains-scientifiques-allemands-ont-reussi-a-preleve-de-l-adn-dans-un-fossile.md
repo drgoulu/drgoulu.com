@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- histoire
 - recherche-scientifique
-- allemagne
-- adn
-- fossiles
-- paleontologie
-- extraction-d-adn
-- histoire-de-l-allemagne
 - recherche
 - etude-scientifique
+- paleontologie
 coverImage: ./images/quora.png
 ---
 

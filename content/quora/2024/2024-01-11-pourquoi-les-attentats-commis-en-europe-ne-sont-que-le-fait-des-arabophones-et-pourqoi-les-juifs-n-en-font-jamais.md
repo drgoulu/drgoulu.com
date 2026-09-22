@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sociologie
 - religion
-- stereotypes
-- l-europe
-- arabes
-- prejuge
-- terrorisme
-- culture-science-sociale
+- sociologie
+- europe
 - islam
+- culture-science-sociale
 coverImage: ./images/quora.png
 ---
 

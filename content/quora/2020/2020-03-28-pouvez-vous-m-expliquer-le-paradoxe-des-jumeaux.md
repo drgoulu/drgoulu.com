@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- scenarios-de-voyage-dans-le-temps
-- espace-temps
-- relativite-restreinte
-- temps-physique
-- theorie-de-la-relativite
-- relativite-generale
-- relativite-physique
-- voyage-dans-le-temps
+- theorie
+- relativite
+- temps
+- voyage
 coverImage: ./images/quora.png
 ---
 

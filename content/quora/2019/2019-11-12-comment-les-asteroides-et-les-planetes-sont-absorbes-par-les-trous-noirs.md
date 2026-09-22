@@ -7,13 +7,9 @@ categories:
 - Comment
 tags:
 - physique
-- trous-noirs-supermassifs
-- espace
 - astronomie
-- corps-celestes
-- absorption
-- asteroides
 - astrophysique
+- espace
 - trous-noirs
 coverImage: ./images/quora.png
 ---

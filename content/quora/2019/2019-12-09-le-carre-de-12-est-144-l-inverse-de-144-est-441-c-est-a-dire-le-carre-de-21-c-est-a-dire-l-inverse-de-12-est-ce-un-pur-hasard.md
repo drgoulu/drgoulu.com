@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - mathematiques
-- inverse
 - curiosite
-- carres-mathematiques
-- fonctions-inverses-mathematiques
-- nombres-mathematiques
-- questions-mathematiques
-- inversion
-- curiosites
+- nombres
+- questions
 - post
 coverImage: ./images/quora.png
 ---

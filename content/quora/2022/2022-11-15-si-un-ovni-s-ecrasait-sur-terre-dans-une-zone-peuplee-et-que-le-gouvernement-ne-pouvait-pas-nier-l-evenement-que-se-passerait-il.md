@@ -9,12 +9,8 @@ tags:
 - science-fiction-genre
 - theories-du-complot
 - gouvernement
-- ovni
-- reaction-humaine
-- films-de-science-fiction
-- situation-catastrophique
-- conspirations
-- le-phenomene-extraterrestre
+- films
+- science-fiction
 coverImage: ./images/quora.png
 ---
 

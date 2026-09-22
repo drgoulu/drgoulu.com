@@ -6,13 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - relations-internationales
-- personne
-- vladimir-poutine
-- assassinats
-- consequences
 - politique-internationale
-- assassinat-politique
+- personne
 - politique-etrangere
 coverImage: ./images/quora.png
 ---

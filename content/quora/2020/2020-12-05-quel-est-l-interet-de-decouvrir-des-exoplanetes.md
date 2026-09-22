@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
+- univers
+- planetes
 - recherche-scientifique
 - exploration-spatiale
-- vie-extraterrestre
-- l-univers-astronomie
-- planetes-astronomie
-- exoplanetes
-- science-spatiale
-- astrobiologie
-- recherche-spatiale
 coverImage: ./images/quora.png
 ---
 

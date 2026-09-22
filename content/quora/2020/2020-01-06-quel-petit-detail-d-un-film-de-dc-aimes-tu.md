@@ -8,8 +8,6 @@ categories:
 tags:
 - culture-populaire
 - cinema
-- super-heros-films
-- comics-de-dc
 - films
 - univers-cinematique-de-dc
 - super-heros

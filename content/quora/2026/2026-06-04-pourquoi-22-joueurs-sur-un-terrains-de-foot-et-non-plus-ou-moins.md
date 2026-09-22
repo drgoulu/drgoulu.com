@@ -6,15 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sports
-- regles-de-football-etats-unis
+- sport
 - football
 - joueurs
-- terrain-de-foot
-- sports-collectifs
-- regles-du-jeu
 - football-sport
-- sports-d-equipe
 - sport-football
 coverImage: ./images/quora.png
 ---

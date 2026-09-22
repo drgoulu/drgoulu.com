@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
+- univers
+- terre
 - espace
-- voie-lactee
-- orbites
-- mecanique-celeste
-- l-univers-astronomie
-- orbite-de-la-terre
 - galaxies
-- galaxie-de-la-voie-lactee
-- la-voie-lactee-astronomie
 coverImage: ./images/quora.png
 ---
 

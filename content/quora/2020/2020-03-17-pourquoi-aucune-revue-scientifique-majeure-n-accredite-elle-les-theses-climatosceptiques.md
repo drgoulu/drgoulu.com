@@ -8,14 +8,9 @@ categories:
 tags:
 - recherche-scientifique
 - changement-climatique
-- accreditation-academique
+- etude-scientifique
 - climatologie
-- climatosceptiques
-- scepticisme-sur-le-changement-climatique
-- revues-scientifiques
-- etudes-scientifiques
 - publications-scientifiques
-- recherche-academique
 coverImage: ./images/quora.png
 ---
 

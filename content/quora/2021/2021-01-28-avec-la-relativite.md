@@ -7,14 +7,9 @@ categories:
 - Comment
 tags:
 - physique
-- temps
-- dilation-du-temps
-- theorie-de-la-relativite
-- perception-du-temps
-- temps-physique
+- philosophie
+- theorie
 - physique-theorique
-- philosophie-du-temps
-- relativite-physique
 - relativite
 coverImage: ./images/quora.png
 ---

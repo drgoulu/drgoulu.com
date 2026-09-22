@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- gaz
-- ballons
-- extraction-miniere
+- sciences
+- terre
 - nature
-- l-helium
-- science-de-la-terre
 - chimie
-- gaz-naturel
-- sciences-de-la-nature
 coverImage: ./images/quora.png
 ---
 

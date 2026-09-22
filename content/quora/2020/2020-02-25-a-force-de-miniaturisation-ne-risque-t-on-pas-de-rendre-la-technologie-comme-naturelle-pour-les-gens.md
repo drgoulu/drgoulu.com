@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- la-technologie
-- naturel
-- l-impact-social
-- miniaturisation
-- changement-technologique
-- evolution-de-la-technologie
-- philosophie-de-la-technologie
-- non-naturel
-- technologie-et-societe
+- philosophie
+- evolution
+- technologies
+- societe
+- impact-social
 coverImage: ./images/quora.png
 ---
 

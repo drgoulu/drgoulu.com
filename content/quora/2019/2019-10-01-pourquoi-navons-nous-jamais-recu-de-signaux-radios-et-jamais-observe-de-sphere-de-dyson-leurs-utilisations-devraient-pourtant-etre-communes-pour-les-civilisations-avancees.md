@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- spheres-de-dyson
-- exploration-spatiale
-- hypotheses-scientifiques
-- civilisations-extraterrestres
 - astrophysique
-- vie-extraterrestre
+- recherche-scientifique
+- exploration-spatiale
 - technologie-spatiale
-- radioastronomie
-- recherches-scientifiques
 coverImage: ./images/quora.png
 ---
 

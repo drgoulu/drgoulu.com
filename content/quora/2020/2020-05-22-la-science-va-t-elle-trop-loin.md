@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- progres-de-la-science
-- limites
 - sciences
-- l-ethique
-- avancee-scientifique
-- ethique-philosophie-morale
-- philosophie-et-science
-- philosophie-des-sciences
+- philosophie
+- ethique
 - progres-scientifique
+- ethique-philosophie-morale
 coverImage: ./images/quora.png
 ---
 

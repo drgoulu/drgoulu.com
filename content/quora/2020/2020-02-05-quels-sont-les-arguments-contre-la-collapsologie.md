@@ -8,14 +8,9 @@ categories:
 tags:
 - changement-climatique
 - ecologie
-- arguments-et-argumentations
-- collapsologie
-- theories-ecologiques
 - catastrophes-environnementales
-- arguments-fallacieux
 - crise-climatique
 - catastrophe-climatique
-- catastrophe-environnementale
 coverImage: ./images/quora.png
 ---
 

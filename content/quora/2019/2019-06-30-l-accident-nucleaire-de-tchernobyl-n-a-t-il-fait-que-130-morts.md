@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- desastre-nucleaire-de-tchernobyl-avril-1986
-- radiation
-- victimes
 - energie-nucleaire
-- deces
-- les-catastrophes-nucleaires
-- tchernobyl
 - radioactivite
-- accident-nucleaire
+- catastrophes-nucleaires
+- radiation
 coverImage: ./images/quora.png
 ---
 

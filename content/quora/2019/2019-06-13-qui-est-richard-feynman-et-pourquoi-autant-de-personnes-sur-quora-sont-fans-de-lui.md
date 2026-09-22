@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- reseaux-sociaux
-- personnalite
-- quora
-- richard-feynman-physicien
-- scientifiques
-- popularite-sur-quora
-- popularite
-- physiciens
 - physique-theorique
+- quora
+- personnalites
+- scientifiques
 coverImage: ./images/qimg-d5f4b587f3f04a5f9274f11535f8880d.png
 ---
 

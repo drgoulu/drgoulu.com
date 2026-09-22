@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- comportement-humain
+- especes
+- anthropologie
 - guerre
 - sociologie
-- especes
-- ethologie
-- violence
-- anthropologie
-- espece-humaine
-- comportement-animal
-- ethnologie
+- comportement-humain
 coverImage: ./images/qimg-6d26ee38b78dd52aa39c24c0395ce8f7.jpg
 ---
 

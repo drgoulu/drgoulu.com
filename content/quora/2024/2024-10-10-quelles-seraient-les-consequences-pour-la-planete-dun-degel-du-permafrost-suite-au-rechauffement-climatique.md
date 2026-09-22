@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - changement-climatique
-- consequences
-- planete-terre
-- permafrost
-- impact-environnemental
-- catastrophes-environnementales
 - rechauffement-climatique
+- planete-terre
 - crise-climatique
-- le-rechauffement-climatique
-- impacts-environnementaux
+- impact-environnemental
 coverImage: ./images/quora.png
 ---
 

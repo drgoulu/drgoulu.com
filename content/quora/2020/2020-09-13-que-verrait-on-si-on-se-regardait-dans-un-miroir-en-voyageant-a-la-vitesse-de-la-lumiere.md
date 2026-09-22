@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- miroirs
-- effet-optique
-- relativite-restreinte
-- reflexion-physique
-- vitesse-de-la-lumiere
-- phenomene
-- relativite-physique
-- optique
+- relativite
+- lumiere
+- vitesse
 - phenomenes-physiques
 coverImage: ./images/quora.png
 ---

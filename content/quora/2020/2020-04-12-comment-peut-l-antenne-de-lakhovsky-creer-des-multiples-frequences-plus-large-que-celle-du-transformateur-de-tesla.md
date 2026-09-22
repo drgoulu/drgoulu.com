@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- cercles-de-lakovsky
-- science-et-technologie
-- electromagnetisme
-- antenne-radioelectrique
-- le-generateur-electique-tesla
-- frequence
+- sciences
 - technologies
-- antenne
+- electromagnetisme
+- frequence
 coverImage: ./images/quora.png
 ---
 

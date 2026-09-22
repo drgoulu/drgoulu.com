@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- scenarios-hypothetiques
-- la-terre
-- force-de-gravite
+- terre
+- gravite
 - masse-physique
 - hypotheses-scientifiques
-- force-physique
-- gravite
-- la-gravite
-- gravite-physique
 coverImage: ./images/qimg-927376be38e2765b64f2e34609fad872.jpg
 ---
 

@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- science-de-l-informatique
-- achat
-- disponibilite
-- ordinateur-physique
-- technologie-quantique
-- accessibilite
-- ordinateurs-quantiques
-- l-informatique-quantique
-- systeme-informatique-quantique
+- physique
+- sciences
+- informatique
+- ordinateurs
 - informatique-quantique
 coverImage: ./images/quora.png
 ---

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- progres-technique
+- technologies
 - societe
-- science-et-technologie
-- progres-social
-- avancees-technologiques
-- philosophie-des-sciences
-- progres-humain
 - progres-scientifique
-- science-et-societe
 coverImage: ./images/quora.png
 ---
 

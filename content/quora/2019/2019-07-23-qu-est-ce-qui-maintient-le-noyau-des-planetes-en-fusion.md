@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- noyau-terrestre
-- planetes-astronomie
+- sciences
 - astronomie
-- point-de-fusion
-- sciences-de-la-nature
 - astrophysique
-- le-noyau-terrestre
+- planetes
 coverImage: ./images/quora.png
 ---
 

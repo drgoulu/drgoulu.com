@@ -8,14 +8,9 @@ categories:
 tags:
 - animaux
 - biologie-animale
-- differences-et-similitudes
-- vaches
-- bison
 - zoologie
-- animaux-terrestres
 - science-biologique
-- animaux-et-humains
-- anatomie-animale
+- humains
 coverImage: ./images/qimg-a44430299c2f2661de2da7296dc942f3.png
 ---
 

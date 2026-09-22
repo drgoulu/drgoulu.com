@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- rayons-gamma
-- theorie-de-l-electromagnetisme
-- analyse-spectrale
-- frequence-physique
-- ondes-electromagnetiques
+- theorie
 - physique-theorique
-- spectre-electromagnetique
+- electromagnetisme
 - champs-electromagnetiques
 coverImage: ./images/quora.png
 ---

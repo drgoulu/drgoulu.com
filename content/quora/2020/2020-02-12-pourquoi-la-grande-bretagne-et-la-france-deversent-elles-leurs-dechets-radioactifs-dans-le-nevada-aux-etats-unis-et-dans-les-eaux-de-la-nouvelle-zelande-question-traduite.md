@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- france
-- relations-internationales
-- les-etats-unis-d-amerique
-- energie-nucleaire
 - environnement
-- dechets-radioactifs
-- grande-bretagne
-- politique-etrangere
+- france
+- energie-nucleaire
+- relations-internationales
+- etats-unis
 coverImage: ./images/quora.png
 ---
 

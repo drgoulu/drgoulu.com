@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- comparaisons
+- consommation
+- transports
 - aviation
-- comparaison
-- transport
-- durabilite
-- voitures
-- airbus-a350-xwb
-- empreinte-carbone
-- consommation-de-carburant
 - avions
-- consommation-denergie
 coverImage: ./images/quora.png
 ---
 

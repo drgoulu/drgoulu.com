@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - astronomie
-- eau
-- terre-planete
+- terre
+- planetes
 - systeme-solaire
-- atmosphere
-- science-spatiale
-- lune-astronomie
-- sciences-de-l-atmosphere
-- astrobiologie
 coverImage: ./images/quora.png
 ---
 

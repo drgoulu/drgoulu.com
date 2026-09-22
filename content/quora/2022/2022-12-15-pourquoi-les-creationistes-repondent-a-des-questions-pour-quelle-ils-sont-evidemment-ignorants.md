@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - philosophie
-- creationnistes
-- evolution-processus
-- debat
-- ignorance
-- connaissances
-- religions
-- science-et-religion
-- philosophie-des-sciences
-- creationnisme
+- evolution
+- religion
+- processus
 coverImage: ./images/quora.png
 ---
 

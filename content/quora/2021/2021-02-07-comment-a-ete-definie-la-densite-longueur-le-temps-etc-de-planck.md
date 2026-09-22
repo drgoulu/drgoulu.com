@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- echelle-de-planck
-- constantes-mathematiques
-- mecanique-quantique
-- systeme-d-unites-de-planck
-- densite-physique
 - physique-theorique
 - physique-quantique
-- unites-de-planck
+- mecanique-quantique
+- densite
 coverImage: ./images/quora.png
 ---
 

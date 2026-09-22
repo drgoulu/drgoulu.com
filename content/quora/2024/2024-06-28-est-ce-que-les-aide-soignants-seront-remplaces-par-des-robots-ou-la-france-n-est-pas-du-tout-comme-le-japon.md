@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- comparaison-de-culture
-- robotique
-- personnel-soignant
+- comparaisons
+- culture
 - japon
-- soins-de-sante
-- robots
-- aide-soignante
-- differences-culturelles
+- robotique
 coverImage: ./images/quora.png
 ---
 

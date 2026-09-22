@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- corps-celestes
 - sciences
 - astronomie
-- vitesse-maximum
 - systeme-solaire
-- objets-astronomiques
-- vitesse-physique
-- science-physique
-- astronomy
+- vitesse
 coverImage: ./images/quora.png
 ---
 

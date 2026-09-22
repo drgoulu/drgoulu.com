@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- femme
-- scenarios-hypothetiques
 - humanite
-- genre
-- disparition
 - homme
-- femmes
-- l-humanite
+- scenarios-hypothetiques
+- disparition
+- femme
 coverImage: ./images/quora.png
 ---
 

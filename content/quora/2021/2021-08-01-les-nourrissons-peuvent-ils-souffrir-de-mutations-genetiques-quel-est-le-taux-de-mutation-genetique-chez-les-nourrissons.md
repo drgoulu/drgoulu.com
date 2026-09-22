@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- nourrisson
-- genetique-moleculaire
-- biologie-humaine
 - medecine
-- mutation-et-mutations-genetique
-- maladie-genetique
-- sante-de-l-enfant
+- biologie-humaine
 - genetique
-- genetique-medicale
+- enfants
 coverImage: ./images/quora.png
 ---
 

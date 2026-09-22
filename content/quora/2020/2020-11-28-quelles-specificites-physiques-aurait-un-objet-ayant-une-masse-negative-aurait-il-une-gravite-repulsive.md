@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- masse-negative
-- l-attraction-gravitationnelle
-- gravitation
-- gravite
-- proprietes-physiques
 - physique-theorique
-- force-gravitationnelle
 - relativite
-- physique-mathematique
+- gravite
+- gravitation
 coverImage: ./images/qimg-76102c8b87a299a0d6410e4e7454cff3.png
 ---
 

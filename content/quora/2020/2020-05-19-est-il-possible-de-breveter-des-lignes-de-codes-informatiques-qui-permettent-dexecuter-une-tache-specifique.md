@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - informatique
+- droit
+- propriete-intellectuelle
 - brevets
-- protection-juridique
-- droit-sur-la-propriete-intellectuelle
-- le-code-informatique
 - sciences-informatiques
-- droit-des-brevets
-- droit-de-propriete
-- code-informatique
-- la-propriete-intellectuelle
 coverImage: ./images/quora.png
 ---
 

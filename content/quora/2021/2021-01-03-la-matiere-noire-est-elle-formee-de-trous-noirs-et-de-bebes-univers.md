@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
 - astronomie
-- l-univers
-- matiere-noire
-- astrophysique-theorique
-- cosmologie
-- astrophysics
 - astrophysique
-- cosmologie-physique
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

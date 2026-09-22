@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- le-soleil
-- experiences-de-pensee
-- vent-solaire
-- etats-de-la-matiere
+- sciences
+- astronomie
 - astrophysique
-- matiere
-- science-de-la-matiere
-- physique-solaire
-- le-soleil-astronomie
+- soleil
 coverImage: ./images/qimg-be25f2295f87a6738688d9cdaf8d2332.jpg
 ---
 

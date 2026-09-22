@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- question-existentielle
-- religion
 - sciences
-- la-creation-de-l-univers
-- cosmologie
 - astronomie
-- l-univers
-- question-philosophique
-- science-et-religion
+- philosophie
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

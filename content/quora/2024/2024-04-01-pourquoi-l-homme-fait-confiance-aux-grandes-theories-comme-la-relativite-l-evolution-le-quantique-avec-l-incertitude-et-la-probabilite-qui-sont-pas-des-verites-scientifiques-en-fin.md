@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
+- sciences
 - philosophie
-- croyance
-- probabilite-statistiques
-- incertitude
-- verite
-- mecanique-quantique
-- la-confiance
-- relativite-physique
 - theorie
-- philosophie-des-sciences
+- relativite
 coverImage: ./images/quora.png
 ---
 

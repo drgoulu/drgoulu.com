@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- lancement-astronautique
-- catapulte
-- espace
 - astronomie
+- espace
 - exploration-spatiale
-- astronautes
-- lune-astronomie
-- voyage-dans-l-espace
-- astronautique
+- voyage
 coverImage: ./images/qimg-f10596bc06af51eea44137a5cdd9c26b.jpg
 ---
 

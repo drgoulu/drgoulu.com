@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
 - astronomie
-- etoiles-corps-celestes
-- mesures-physiques
+- mathematiques
+- planetes
 - science-spatiale
-- planetes-astronomie
-- distance-physique-et-mathematiques
-- physique-et-astronomie
-- etoiles-astronomie
-- distance-physique
 coverImage: ./images/quora.png
 ---
 

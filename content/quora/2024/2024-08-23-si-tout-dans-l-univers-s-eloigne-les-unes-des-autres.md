@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- catastrophes
-- l-univers
-- fusion-des-elements-chimiques
-- etoiles-corps-celestes
-- evenements-scientifiques
-- univers-observable
 - astrophysique
+- univers
 - galaxies
-- expansion-de-l-univers
+- etoiles-corps-celestes
 coverImage: ./images/quora.png
 ---
 

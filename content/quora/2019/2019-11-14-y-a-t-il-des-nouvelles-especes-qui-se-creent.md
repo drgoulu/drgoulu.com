@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- evolution
 - biologie
-- evolution-processus
-- especes
-- sciences-de-la-nature
-- speciation
-- evolution-biologique-des-especes
-- espece-animale
-- sciences-de-la-vie
-- evolution-biologie
-- sciences-du-vivant
+- vie
+- nature
 coverImage: ./images/quora.png
 ---
 

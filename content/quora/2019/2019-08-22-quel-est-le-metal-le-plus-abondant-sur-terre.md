@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-nature
-- terre-planete
+- sciences
+- terre
+- planetes
+- nature
 - geologie
-- abondance
-- metaux
-- science-de-la-terre
-- planete-terre
-- mineralogie-geologie
-- geologie-planetaire
 coverImage: ./images/quora.png
 ---
 

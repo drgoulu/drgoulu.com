@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - philosophie
-- le-vide
-- creation-de-l-univers
-- dictionnaire-francais
-- definition
-- metaphysique
-- philosophie-des-sciences
-- expansion-de-l-univers
-- origine-de-l-univers
+- univers
+- origines
+- creation
 coverImage: ./images/quora.png
 ---
 

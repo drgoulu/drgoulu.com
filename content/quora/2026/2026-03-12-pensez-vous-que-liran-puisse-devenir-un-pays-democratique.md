@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- gouvernement
-- changements-sociaux
+- politique
 - democratie
-- iran
-- politique-de-l-iran
-- systemes-politiques
-- choix-politique
-- reforme-politique
-- transition-societale
-- changement-de-regime
+- gouvernement
+- choix
+- changements-sociaux
 coverImage: ./images/quora.png
 ---
 

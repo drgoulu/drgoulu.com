@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- education
 - informatique
+- education
+- livres
 - enfants
-- apprentissage
-- livres-pour-enfants-et-jeunes-adultes
-- jeux-videos-educatifs
-- livre-ludique
-- ressources-educatives
 - enseignement
-- apprentissage-de-l-informatique
 coverImage: ./images/quora.png
 ---
 

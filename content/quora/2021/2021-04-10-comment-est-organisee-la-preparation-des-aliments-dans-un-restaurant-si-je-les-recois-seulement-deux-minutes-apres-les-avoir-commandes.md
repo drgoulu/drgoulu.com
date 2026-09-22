@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - cuisine
-- efficacite-gestion-du-temps
 - organisation
 - methode-de-preparation
-- restauration-rapide
-- temps-de-reaction
-- restaurants
-- preparation-des-repas
-- la-preparation-des-aliments
+- temps
+- reaction
 coverImage: ./images/quora.png
 ---
 

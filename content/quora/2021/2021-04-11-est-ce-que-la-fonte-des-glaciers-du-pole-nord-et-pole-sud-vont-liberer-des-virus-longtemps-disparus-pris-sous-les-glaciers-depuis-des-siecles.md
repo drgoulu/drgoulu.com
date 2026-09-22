@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - sciences
+- environnement
 - changement-climatique
-- pole-nord
-- virologie
-- l-environnement
-- calotte-glaciaire
 - virus
-- infections-virales
-- pole-sud
 - crise-climatique
 coverImage: ./images/quora.png
 ---

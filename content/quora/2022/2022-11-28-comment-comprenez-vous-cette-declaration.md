@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- moralite
-- histoire-de-l-europe
-- critique
-- esclavage
+- histoire
+- europe
 - responsabilite
-- colonisation-europeenne
-- morale
-- colonisation-et-esclavage
-- responsabilite-sociale
+- colonisation
+- critique
 coverImage: ./images/quora.png
 ---
 

@@ -9,12 +9,8 @@ tags:
 - consommation
 - boissons
 - industrie-alimentaire
-- fabrication-de-biere
-- brasserie
-- activite-artisanale
+- fabrication
 - prix-alimentaires
-- biere
-- biere-artisanale
 coverImage: ./images/quora.png
 ---
 

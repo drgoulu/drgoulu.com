@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- mathematiques
 - sciences
+- philosophie
+- mathematiques
 - recherche-scientifique
-- observation
-- sequence-de-fibonacci
-- philosophie-des-sciences
 - nature
-- modelisation-mathematique
-- theorie-scientifique
-- observation-scientifique
 coverImage: ./images/quora.png
 ---
 

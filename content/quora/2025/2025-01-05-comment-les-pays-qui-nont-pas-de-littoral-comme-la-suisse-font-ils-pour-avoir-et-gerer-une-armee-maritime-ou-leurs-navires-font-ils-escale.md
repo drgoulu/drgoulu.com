@@ -9,12 +9,7 @@ tags:
 - geographie
 - armee
 - suisse
-- escales
-- pays-enclaves
-- transport-maritime
-- defense-nationale
-- marine-militaire
-- geographie-politique
+- politique
 - defense
 coverImage: ./images/quora.png
 ---

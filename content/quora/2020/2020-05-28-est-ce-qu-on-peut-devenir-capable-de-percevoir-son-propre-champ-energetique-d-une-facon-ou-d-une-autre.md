@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- perception
-- spiritualite
-- conscience
 - energie
-- neuropsychologie
-- meditation
-- sensation
+- perception
+- conscience
+- spiritualite
 - conscience-de-soi
-- parapsychologie
-- la-spiritualite
 coverImage: ./images/qimg-5f2f1247fcdbef844a40359926a903a9.jpg
 ---
 

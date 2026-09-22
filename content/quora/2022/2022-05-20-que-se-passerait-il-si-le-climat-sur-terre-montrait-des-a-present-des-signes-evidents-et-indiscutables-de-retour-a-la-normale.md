@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-hypothetique
-- l-environnement
-- climatologie
-- terre-planete
+- terre
+- planetes
+- environnement
 - changement-climatique
-- scenarios-futurs
-- science-nature
-- hypotheses
 - rechauffement-climatique
-- le-rechauffement-climatique
 coverImage: ./images/qimg-66e695ff4db544543a646ecf6608c61f.png
 ---
 

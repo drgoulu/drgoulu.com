@@ -9,13 +9,8 @@ tags:
 - relations-internationales
 - guerre
 - russie
-- otan
-- menaces
+- europe
 - ukraine
-- europe-de-l-est
-- missiles
-- securite-nationale
-- politique-etrangere
 coverImage: ./images/quora.png
 ---
 

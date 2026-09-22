@@ -8,13 +8,9 @@ categories:
 tags:
 - etude-scientifique
 - radioactivite
-- source-gamma
 - sciences-nucleaires
-- equipement-de-laboratoire
+- laboratoires
 - substances-radioactives
-- application-scientifique
-- rayons-gamma
-- isotopes-radioactifs
 coverImage: ./images/quora.png
 ---
 

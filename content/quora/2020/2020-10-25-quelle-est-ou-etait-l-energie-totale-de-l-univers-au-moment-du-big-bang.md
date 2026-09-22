@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- l-univers-astronomie
+- astronomie
+- univers
 - cosmologie
-- energie-physique
-- enigmes-de-l-univers
 - physique-theorique
-- l-univers
-- origine-de-l-univers
-- cosmologie-du-big-bang
-- cosmologie-physique
 coverImage: ./images/quora.png
 ---
 

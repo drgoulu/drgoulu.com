@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - philosophie
-- espace-notion
-- noumene
-- perception
+- temps
 - univers-observable
-- essence
-- realite
-- temps-physique
-- cerveau-humain
-- conscience
+- perception
 coverImage: ./images/quora.png
 ---
 

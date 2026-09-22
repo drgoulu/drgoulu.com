@@ -8,14 +8,9 @@ categories:
 tags:
 - energie
 - energie-renouvelable
-- transition-energetique
-- sources-d-energie
 - energie-alternative
-- energies-fossiles
-- secteur-energetique
-- consommation-energetique
-- solutions-d-energie-renouvelable
-- production-d-energie
+- sources-d-energie
+- production
 coverImage: ./images/quora.png
 ---
 

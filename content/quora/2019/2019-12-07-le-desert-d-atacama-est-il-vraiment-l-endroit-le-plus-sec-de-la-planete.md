@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- monde
 - geographie
-- chili
-- desert-d-atacama
-- records-du-monde
-- humidite
 - climatologie
 - deserts-geographie-physique
-- precipitation
-- secheresse
-- geographie-physique
 coverImage: ./images/quora.png
 ---
 

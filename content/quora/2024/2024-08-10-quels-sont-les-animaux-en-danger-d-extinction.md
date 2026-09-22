@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- nature
 - animaux
 - ecologie
-- especes-menacees
 - faune
-- conservation-de-la-nature
-- extinction-animale
-- biodiversite
-- especes-rares
-- conservation-de-la-faune
+- conservation
 coverImage: ./images/qimg-0d1e7c5bb9178e569431cfb17e6db382.jpg
 ---
 

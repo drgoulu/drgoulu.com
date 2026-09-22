@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- territoires
-- palestiniens
-- jerusalem-en-tant-que-capitale
-- gouvernement-d-israel
-- population-musulmane
-- organisation-de-liberation-de-la-palestine
-- palestine-etat
-- politique-de-la-palestine
-- autorite-palestinienne
-- relations-internationales-de-la-palestine
+- politique
+- relations-internationales
+- israel
+- gouvernement
+- palestine
 coverImage: ./images/quora.png
 ---
 

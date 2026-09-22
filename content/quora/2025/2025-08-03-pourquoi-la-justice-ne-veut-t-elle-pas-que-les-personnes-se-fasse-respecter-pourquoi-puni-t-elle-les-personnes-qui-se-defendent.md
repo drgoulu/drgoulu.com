@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- philosophie
 - droit
-- peine
+- systeme
+- personne
 - justice
-- defense
-- respect-des-personnes
-- systeme-de-justice-penale
-- questions-juridiques
-- philosophie-du-droit
-- self-defense
-- injustice
 coverImage: ./images/quora.png
 ---
 

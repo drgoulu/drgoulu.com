@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- vie
 - religion
-- utopie
+- christianisme
 - theologie
 - jesus
-- croyances-personnelles
-- christianisme
-- eschatologie
-- vie-de-jesus
-- jesus-christ
-- religions
 coverImage: ./images/quora.png
 ---
 

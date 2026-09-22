@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- univers-observable
-- theorie-des-supercordes
+- univers
 - cosmologie
-- l-univers
-- dimensions-physique
-- physique-quantique
+- theorie
 - physique-theorique
-- cosmologie-du-big-bang
-- theorie-des-cordes
 coverImage: ./images/quora.png
 ---
 

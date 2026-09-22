@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- histoire
+- evolution
 - informatique
-- les-annees-80
-- reaction
-- technologie-moderne
+- technologies
 - ordinateurs
-- histoire-de-l-informatique
-- evolution-de-la-technologie
-- l-informatique
-- informaticien
-- annees-80
 coverImage: ./images/quora.png
 ---
 

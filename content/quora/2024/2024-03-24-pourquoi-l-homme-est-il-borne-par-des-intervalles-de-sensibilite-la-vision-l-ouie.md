@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - philosophie
-- ouie
-- perception-sensorielle-et-spatiale
+- animaux
+- perception
 - vision
-- neurosciences
-- physiologie-humaine
-- les-sens-humains
-- oeil-humain
-- la-perception
-- sens-humains-et-animaux
+- neuroscience
 coverImage: ./images/quora.png
 ---
 

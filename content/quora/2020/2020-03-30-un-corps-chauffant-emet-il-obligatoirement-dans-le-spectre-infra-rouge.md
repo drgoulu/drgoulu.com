@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- ondes-infrarouges
-- theorie-de-l-electromagnetisme
-- chauffage
+- theorie
+- electromagnetisme
 - thermodynamique
-- spectroscopie-infrarouge
-- infra-rouge
 - champs-electromagnetiques
-- spectre-electromagnetique
 coverImage: ./images/qimg-8082404044a4d5c354e582aafab0ebca.png
 ---
 

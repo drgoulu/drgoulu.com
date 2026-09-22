@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - mathematiques
-- pi
-- circonference
-- diametre
-- formule-de-calcul
-- geometrie-des-cercles
-- le-nombre-pi
-- constantes-mathematiques
-- calcul-de-pi
 - geometrie
+- calcul
+- pi
+- formules
 coverImage: ./images/quora.png
 ---
 

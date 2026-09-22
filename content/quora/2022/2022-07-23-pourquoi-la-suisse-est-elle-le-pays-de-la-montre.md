@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
 - suisse
-- fabrication-de-produits
-- montres
-- horlogerie
-- economie-de-la-suisse
-- histoire-de-la-suisse
-- industrie-manufacturiere
-- montres-suisses
-- culture-de-la-suisse
-- horlogerie-suisse
+- economie
+- culture
+- fabrication
 coverImage: ./images/quora.png
 ---
 

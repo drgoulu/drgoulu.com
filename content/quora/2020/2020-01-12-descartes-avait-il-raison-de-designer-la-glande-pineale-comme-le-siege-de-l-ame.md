@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - philosophie
-- glande-pineale
-- cartesianisme
-- ame-entite-metaphysique
-- rene-descartes
-- probleme-corps-esprit
-- l-esprit-humain
-- histoire-de-la-philosophie
-- corps-et-ame
+- esprit-humain
+- histoire
+- corps
 - philosophe
 coverImage: ./images/quora.png
 ---

@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - alimentation
-- records-du-monde-guinness
 - cuisine
 - piments
 - sauce-epicee
 - ingredients
-- condiments
-- epices
-- cuisine-epicee
 coverImage: ./images/quora.png
 ---
 

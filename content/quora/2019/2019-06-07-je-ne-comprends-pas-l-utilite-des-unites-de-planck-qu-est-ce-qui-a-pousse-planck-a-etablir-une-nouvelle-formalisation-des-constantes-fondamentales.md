@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- institut-max-planck
 - constantes-mathematiques
 - science-fondamentale
 - mecanique-quantique
-- systeme-d-unites-de-planck
-- max-planck-physicien
 - physique-theorique
-- physique-fondamentale
-- unites-de-planck
 coverImage: ./images/quora.png
 ---
 

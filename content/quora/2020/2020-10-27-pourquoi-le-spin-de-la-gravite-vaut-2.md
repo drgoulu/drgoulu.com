@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- spin-electronique
-- methodes-mathematiques-en-relativite-generale
-- gravitation
-- theorie-de-la-relativite
+- theorie
 - physique-theorique
-- relativite-generale
-- theories-de-la-gravitation
-- physique-mathematique
+- relativite
+- gravitation
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sante
 - covid-19-2019-2020
-- scenarios-hypothetiques
-- sante-et-securite-publiques
+- maladies-infectieuses
 - pandemie
 - mortalite
-- maladies-infectieuses
-- crise-sanitaire
-- covid-19-coronavirus
-- taux-de-mortalite
-- maladies-virales
 coverImage: ./images/quora.png
 ---
 

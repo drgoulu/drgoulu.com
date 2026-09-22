@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- expansion-de-l-espace-temps
 - astronomie
-- energie-noire
-- origine-de-l-univers
-- acceleration-cosmique
-- cosmologie
 - astrophysique
-- expansion-de-l-univers
-- exploration-de-l-univers
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

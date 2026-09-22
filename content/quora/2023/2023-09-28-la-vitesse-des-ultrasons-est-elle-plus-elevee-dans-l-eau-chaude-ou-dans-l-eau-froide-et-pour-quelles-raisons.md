@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- ultrason
-- proprietes-de-l-eau
-- les-ondes-sonores
-- propagation
+- vitesse
+- eau
 - temperatures
-- acoustique
-- vitesse-du-son
-- proprietes-physiques
-- physique-medicale
+- proprietes
 coverImage: ./images/qimg-33a2385d7e9117329834894e5d5c147f.jpg
 ---
 

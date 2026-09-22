@@ -8,13 +8,9 @@ categories:
 tags:
 - spiritualite
 - mort-et-mourir
-- phenomene-surnaturel
 - paranormal
 - esprit-humain
 - vie-apres-la-mort
-- experience-paranormale
-- le-paranormal
-- activite-paranormale-phenomenes-surnaturels
 coverImage: ./images/quora.png
 ---
 

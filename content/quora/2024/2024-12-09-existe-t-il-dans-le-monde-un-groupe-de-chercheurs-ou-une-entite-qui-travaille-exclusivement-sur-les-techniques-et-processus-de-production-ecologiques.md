@@ -8,14 +8,9 @@ categories:
 tags:
 - recherche-scientifique
 - ecologie
+- recherche
+- systeme
 - developpement-durable
-- systeme-de-production
-- entites
-- procedes-de-fabrication
-- instituts-de-recherche
-- technologie-durable
-- laboratoires-de-recherche
-- ecologique
 coverImage: ./images/quora.png
 ---
 

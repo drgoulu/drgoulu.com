@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- aviation
+- histoire
 - vitesse
-- systeme-metrique
-- histoire-navale
-- marine
+- aviation
 - altitude
 - unites-de-mesure
-- noeuds-vitesse
-- systeme-imperial
-- histoire-de-l-aviation
 coverImage: ./images/quora.png
 ---
 

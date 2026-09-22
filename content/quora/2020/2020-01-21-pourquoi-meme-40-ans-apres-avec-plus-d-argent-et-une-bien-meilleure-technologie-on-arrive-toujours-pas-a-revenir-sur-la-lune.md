@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- astronomie
+- histoire
 - exploration-spatiale
-- le-lune
-- spacex
-- le-programme-apollo
-- histoire-de-l-astronautique
-- lune-astronomie
 - technologie-spatiale
-- programmes-spatiaux
-- conquete-spatiale
-- missions-apollo
+- lune
 coverImage: ./images/quora.png
 ---
 

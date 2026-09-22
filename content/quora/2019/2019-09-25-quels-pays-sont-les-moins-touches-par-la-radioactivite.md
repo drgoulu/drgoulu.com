@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- pays
-- geographie
-- substances-radioactives
-- pollution
-- sante-environnementale
+- physique
+- politique
 - environnement
-- radioactivite
-- geographie-politique
-- geographie-physique
-- geographie-du-monde
+- monde
+- geographie
 coverImage: ./images/qimg-19b61f9a0c8118efc19289adefabfd7c.jpg
 ---
 

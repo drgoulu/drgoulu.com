@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- total-energie
-- relativite-restreinte
-- formules
-- energie-cinetique
-- quantite
-- lois-de-la-physique
-- mecanique-physique
-- relativite-physique
 - physique-theorique
+- relativite
+- mecanique
+- loi
 coverImage: ./images/quora.png
 ---
 

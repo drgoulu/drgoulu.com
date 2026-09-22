@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- afrique
-- developpement
-- l-europe
-- inegalites-de-revenu
 - etats-unis
-- pays-sous-developpes
-- developpement-economique-et-social
-- pays-europeen
-- les-inegalites-mondiales
-- pays-developpees
+- developpement
+- afrique
+- inegalite
+- europe
 coverImage: ./images/quora.png
 ---
 

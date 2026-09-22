@@ -8,14 +8,9 @@ categories:
 tags:
 - informatique
 - futur
-- generations-futures
-- archives-et-archivage
-- securite-des-donnees
-- conservation-numerique
-- supports-de-donnees
-- science-de-l-informatique
-- stockage-de-donnees
-- preservation-des-donnees
+- securite
+- donnees
+- sciences
 coverImage: ./images/quora.png
 ---
 

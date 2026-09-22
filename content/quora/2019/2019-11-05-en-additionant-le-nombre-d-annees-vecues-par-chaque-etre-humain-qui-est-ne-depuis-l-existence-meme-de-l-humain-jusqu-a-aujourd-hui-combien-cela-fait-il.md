@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- histoire-humaine
+- histoire
+- vie
+- humanite
+- statistiques
 - demographie
-- esperance-de-vie
-- population-mondiale
-- duree-de-vie
-- statistique
-- histoire-de-l-humanite
-- demographie-mondiale
-- duree-de-vie-humaine
-- l-esperance-de-vie
 coverImage: ./images/qimg-3c9eebee99149d58c5ab2f30dbd20aa5.png
 ---
 

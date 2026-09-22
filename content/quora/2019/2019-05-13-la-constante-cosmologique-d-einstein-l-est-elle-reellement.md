@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- expansion-de-l-univers
-- albert-einstein-physicien
+- univers
 - cosmologie
-- theorie-de-la-relativite
-- constante-cosmologique
+- theorie
 - physique-theorique
-- origine-de-l-univers
-- relativite-physique
-- physique-mathematique
 coverImage: ./images/quora.png
 ---
 

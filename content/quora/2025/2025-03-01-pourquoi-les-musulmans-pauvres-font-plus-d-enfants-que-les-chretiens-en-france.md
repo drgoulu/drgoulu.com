@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- religion
 - france
-- sociologie-de-la-religion
-- pauvrete
-- chretiens
+- sociologie
 - demographie
-- musulmans
-- les-musulmans-en-france
-- natalite
-- groupes-sociaux
-- religion-en-france
+- pauvrete
 coverImage: ./images/quora.png
 ---
 

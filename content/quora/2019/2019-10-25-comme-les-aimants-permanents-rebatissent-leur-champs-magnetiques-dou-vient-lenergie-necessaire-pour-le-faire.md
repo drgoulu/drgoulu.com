@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- aimants
 - electromagnetisme
-- machine-synchrone-a-aimants-permanents
-- energie-physique
-- flux-magnetique
+- energie
 - champs-magnetiques
-- champs-magnetiques-permanents-aimants
 - magnetisme
-- force-magnetique
 coverImage: ./images/quora.png
 ---
 

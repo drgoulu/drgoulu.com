@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- voitures-et-automobiles
-- transport
-- peinture
-- or
 - materiaux
-- voiture
-- vehicules
-- materiaux-de-construction
-- transport-personnel
+- transports
+- voitures
+- or
+- construction
 coverImage: ./images/qimg-d3e9adaf2e3b291b3e14ad37000e64f5.jpg
 ---
 

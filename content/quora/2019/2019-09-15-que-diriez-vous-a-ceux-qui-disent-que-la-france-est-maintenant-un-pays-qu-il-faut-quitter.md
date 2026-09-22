@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
+- vie
+- societe
 - france
-- opinion-publique
-- la-societe-en-france
-- emigration
-- debat
-- qualite-de-vie
-- debats-de-societe
-- societe-francaise
-- opinion-politique
-- qualite-de-vie-en-france
+- opinion
 coverImage: ./images/quora.png
 ---
 

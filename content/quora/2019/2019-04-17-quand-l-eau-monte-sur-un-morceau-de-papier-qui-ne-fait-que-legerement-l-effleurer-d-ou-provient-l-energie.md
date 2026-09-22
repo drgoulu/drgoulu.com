@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - eau
-- capillarite
-- papier
-- tension-superficielle
 - phenomene
-- eau-chimie
+- chimie
 - phenomenes-physiques
-- physique-chimie
-- phenomene-physique
 coverImage: ./images/qimg-984b770eab544f25168f89eab572ace1.jpg
 ---
 

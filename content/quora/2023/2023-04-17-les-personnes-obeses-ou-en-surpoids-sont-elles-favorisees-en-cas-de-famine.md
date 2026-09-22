@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- faim
-- poids-corporel
-- les-personnes
-- surpoids
-- alimentation-et-nutrition
-- famines
+- personne
+- alimentation
+- nutrition
 - conditions-de-vie
-- obesite
 coverImage: ./images/quora.png
 ---
 

@@ -10,11 +10,7 @@ tags:
 - geologie
 - catastrophes-naturelles
 - volcans
-- eruptions-volcaniques
 - dangers-naturels
-- volcanologie
-- geologue
-- supervolcans
 coverImage: ./images/quora.png
 ---
 

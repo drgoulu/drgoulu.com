@@ -9,13 +9,8 @@ tags:
 - relations-internationales
 - guerre
 - responsabilite
-- invasions
-- violations-des-droits-de-l-homme
-- sanctions
-- droit-international-public
-- conflits-internationaux
-- organisations-internationales
 - droit-international
+- organisation-internationale
 coverImage: ./images/quora.png
 ---
 

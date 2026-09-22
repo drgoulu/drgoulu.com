@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- centre-d-inertie
-- alignement
-- phenomenes-physiques
-- gravite
+- planetes
 - systeme-solaire
 - science-spatiale
-- planetes-du-systeme-solaire
-- phenomenes
+- gravite
 coverImage: ./images/qimg-0d6d3b9467cbe0d3b9fa0087b95fa132.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- personne
+- physique
+- sciences
+- histoire
 - geographie
-- jesus
-- histoire-des-sciences
-- galilee-region
-- judee
-- galilee
-- histoire-de-la-physique
-- jesus-christ
+- personne
 coverImage: ./images/quora.png
 ---
 

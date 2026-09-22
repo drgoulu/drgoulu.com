@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- france
-- etudes-demographiques
-- islam-en-france
-- islam
 - evolution
-- population-francaise
+- france
 - statistiques
-- population-musulmane
 - demographie
-- les-musulmans-en-france
+- islam
 coverImage: ./images/quora.png
 ---
 

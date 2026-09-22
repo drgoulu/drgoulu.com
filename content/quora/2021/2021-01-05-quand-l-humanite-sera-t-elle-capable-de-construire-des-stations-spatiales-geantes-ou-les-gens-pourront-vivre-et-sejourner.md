@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- espace
 - exploration-spatiale
-- science-fiction-genre
-- avenir-de-l-humanite
-- colonisation-de-l-espace
-- ingenierie-et-technologie-spatiale
-- voyage-spatial
-- conquete-spatiale
-- l-avenir-de-la-science
-- stations-spatiales
-- technologie-spaciale
+- humanite
+- ingenierie
 coverImage: ./images/quora.png
 ---
 

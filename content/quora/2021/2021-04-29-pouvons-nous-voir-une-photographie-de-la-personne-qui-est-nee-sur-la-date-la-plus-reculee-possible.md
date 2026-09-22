@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- personnalite
-- photographie
-- archives-et-archivage
-- personne
 - recherche
-- date-de-naissance
+- personnalites
 - histoire-humaine
-- l-histoire
+- personne
 coverImage: ./images/qimg-f879baea1323839689c7314f17bb8720.jpg
 ---
 

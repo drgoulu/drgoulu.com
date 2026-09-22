@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- biologie
-- evolution-processus
-- etres-vivants
-- sciences-de-la-vie
-- theorie-de-l-evolution
-- processus-biologique
-- evolution-biologique-des-especes
+- sciences
 - evolution
-- organismes-vivants
-- evolution-biologie
+- biologie
+- theorie
+- vie
 coverImage: ./images/quora.png
 ---
 

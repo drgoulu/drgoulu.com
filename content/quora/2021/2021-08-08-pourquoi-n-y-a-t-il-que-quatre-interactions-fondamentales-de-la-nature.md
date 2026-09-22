@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- interaction-elementaire
 - modele-standard-de-la-physique-des-particules
-- principes-fondamentaux
 - science-fondamentale
-- physique-des-particules-experimentale
 - physique-theorique
 - forces-fondamentales
-- physique-fondamentale
 coverImage: ./images/quora.png
 ---
 

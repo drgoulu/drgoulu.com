@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
+- nature
 - changement-climatique
-- responsabilite
-- l-environnement
+- especes
 - ecologie
-- extinction-des-especes
-- biodiversite
-- conservation-de-la-nature
-- evolution-biologique-des-especes
-- le-changement-climatique
-- extinction-animale
 coverImage: ./images/quora.png
 ---
 

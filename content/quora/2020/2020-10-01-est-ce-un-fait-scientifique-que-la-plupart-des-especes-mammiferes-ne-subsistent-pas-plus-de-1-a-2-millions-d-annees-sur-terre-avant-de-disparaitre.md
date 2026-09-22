@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-vie
-- evolution-processus
-- paleontologie
-- disparition
-- especes
-- mammiferes
+- sciences
 - evolution
-- extinction-des-especes
-- duree-de-vie
-- extinction
+- vie
+- processus
+- especes
 coverImage: ./images/qimg-36ba3ffe12cacd5929fd071a33e7c6f2.png
 ---
 

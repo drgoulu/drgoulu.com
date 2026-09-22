@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- futur
-- danger
-- utopie
+- sciences
+- energie
+- technologies
 - energie-nucleaire
 - risques
-- energie
-- dangers
 coverImage: ./images/quora.png
 ---
 

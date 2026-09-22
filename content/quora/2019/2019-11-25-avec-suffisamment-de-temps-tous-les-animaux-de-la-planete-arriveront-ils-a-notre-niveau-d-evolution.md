@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- animaux
-- question-existentielle
-- evolution-processus
-- humanite
-- biologie
-- evolution-biologique-des-especes
-- evolution-humaine
-- philosophie-des-sciences
 - evolution
+- biologie
+- processus
 coverImage: ./images/quora.png
 ---
 

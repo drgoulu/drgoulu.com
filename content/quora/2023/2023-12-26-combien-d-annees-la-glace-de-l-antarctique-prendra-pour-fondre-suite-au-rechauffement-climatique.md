@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- sciences
+- environnement
 - changement-climatique
-- glaciers
-- antarctique
-- glaciologie
-- sciences-de-l-environnement
 - rechauffement-climatique
 - crise-climatique
-- adaptation-au-changement-climatique
-- le-rechauffement-climatique
 coverImage: ./images/quora.png
 ---
 

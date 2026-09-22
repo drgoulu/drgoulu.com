@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-nature
-- gravite-physique
+- physique
+- sciences
 - nature
-- arbres-plantes
+- gravite
 - botanique
-- croissance-des-plantes
-- physiologie-vegetale
-- sciences-vegetales
-- la-gravite
-- les-sciences-naturelles
 coverImage: ./images/quora.png
 ---
 

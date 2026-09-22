@@ -8,14 +8,9 @@ categories:
 tags:
 - psychologie
 - catastrophes
-- procrastination
 - comportement-humain
-- gestion-de-crise
 - motivation
 - philosophie
-- motivation-personnelle
-- philosophie-et-psychologie
-- psychologie-et-comportement-humain
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- securite-informatique
+- informatique
+- securite
 - virus
-- cryptage
-- malware
+- donnees
 - cryptographie
-- securite-des-donnees
-- decryptage
-- virus-informatiques
-- cybersecurite
 coverImage: ./images/quora.png
 ---
 

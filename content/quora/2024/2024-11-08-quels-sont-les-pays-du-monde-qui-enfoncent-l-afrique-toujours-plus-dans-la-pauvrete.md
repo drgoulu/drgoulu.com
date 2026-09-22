@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- monde
+- economie
 - relations-internationales
-- pauvrete
-- developpement-economique-et-social
-- afrique
-- pays-du-monde
-- economies
 - politique-internationale
-- pays-africain
-- economie-internationale
+- pays
 coverImage: ./images/quora.png
 ---
 

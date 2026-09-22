@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - chimie
-- or
-- diamants
-- fabrication
+- materiaux
+- ingenierie
 - geologie
-- science-des-materiaux-et-ingenierie
-- industrie-miniere
-- diamant-industriel
-- mineraux
-- science-des-materiaux-et-ingenieries
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- galaxie-de-la-voie-lactee
 - sciences
-- trou-noir
 - astronomie
-- l-univers
-- galaxies
 - astrophysique
-- la-voie-lactee-astronomie
+- univers
 coverImage: ./images/quora.png
 ---
 

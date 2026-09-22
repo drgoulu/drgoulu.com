@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- terre
+- monde
 - geographie
-- bitume
-- surface
 - planete-terre
-- ressources-planetaire
-- superficie-de-la-surface
-- asphalte-bitume
-- geographie-physique
-- geographie-du-monde
-- surface-de-la-terre
 coverImage: ./images/quora.png
 ---
 

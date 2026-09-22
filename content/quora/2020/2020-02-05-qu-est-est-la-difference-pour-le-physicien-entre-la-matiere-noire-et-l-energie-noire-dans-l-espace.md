@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espace
 - astronomie
-- energie-noire
-- enigmes-de-l-univers
-- cosmologie
-- matiere-noire
 - astrophysique
-- exploration-de-l-univers
-- origine-de-l-univers
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

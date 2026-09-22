@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - philosophie
-- desirs
 - religion
-- la-vie
+- vie
 - mortalite
-- le-desir
 - atheisme
-- la-religion
-- immortalite
 coverImage: ./images/quora.png
 ---
 

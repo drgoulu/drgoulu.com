@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- communication
 - sciences
-- evolution-processus
-- opinions-et-croyances
-- philosophie-des-sciences
-- explications
-- changer-d-avis
-- croyances
-- biologie-de-l-evolution
-- theorie-de-l-evolution
+- philosophie
+- evolution
+- biologie
+- theorie
 coverImage: ./images/quora.png
 ---
 

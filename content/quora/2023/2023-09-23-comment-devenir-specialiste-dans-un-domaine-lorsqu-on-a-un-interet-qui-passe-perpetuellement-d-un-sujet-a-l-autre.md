@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - education
-- changement-d-habitudes
-- interet
-- conseil
-- carriere
-- specialistes
+- conseils
 - formation
-- interets-personnels
-- specialisation
+- changement
+- carriere
 coverImage: ./images/quora.png
 ---
 

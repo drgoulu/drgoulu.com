@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- personnalites
-- isaac-newton
-- james-clerk-maxwell-physicien
-- histoire-des-sciences
+- sciences
+- histoire
 - electromagnetisme
-- scientifiques-celebres
-- scientifiques
-- histoire-des-decouvertes
-- histoire-de-la-physique
+- personnalites
 coverImage: ./images/quora.png
 ---
 

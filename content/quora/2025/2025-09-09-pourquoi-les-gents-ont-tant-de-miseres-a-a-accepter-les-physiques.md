@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - psychologie
-- confiance-en-soi
-- relations-humaines
-- images-corporelles
-- problemes-sociaux
-- sante-mentale
 - sociologie
-- image-de-soi
-- acceptation-de-soi
 - psychologie-humaine
+- relations-humaines
+- sante-mentale
 coverImage: ./images/quora.png
 ---
 

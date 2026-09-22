@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- astronomie
+- histoire
 - exploration-spatiale
-- lune-astronomie
-- nasa
-- atterrisages-sur-la-lune
-- histoire-de-l-astronautique
 - science-spatiale
-- programme-spatial-americain
-- voyage-spatial
-- conquete-spatiale
-- missions-spatiales
+- lune
 coverImage: ./images/qimg-38a6ce7f582c4f290f631d12e1916fc4.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- medecine
-- genes
 - biologie
-- edition-genomique
-- maladie-genetique
-- genetique
+- medecine
 - biologie-humaine
-- genomes
+- genetique
 - genie-genetique
-- edition-de-genes
 coverImage: ./images/quora.png
 ---
 

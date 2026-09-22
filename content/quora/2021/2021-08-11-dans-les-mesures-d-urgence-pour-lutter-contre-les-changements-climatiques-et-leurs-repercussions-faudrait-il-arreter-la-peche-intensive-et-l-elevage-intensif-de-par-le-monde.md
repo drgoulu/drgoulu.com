@@ -8,10 +8,8 @@ categories:
 tags:
 - changement-climatique
 - ecologie
-- agriculture-intensive
 - developpement-durable
 - environnement
-- production-alimentaire
 - politiques-environnementales
 coverImage: ./images/qimg-14cca9abae443ef14c2d5774d6ee88c3.jpg
 ---

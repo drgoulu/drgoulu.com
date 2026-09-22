@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- exploration-spatiale
+- astronomie
+- histoire
 - espace
-- lune-astronomie
-- astronautes
-- histoire-de-l-astronautique
+- exploration-spatiale
 - science-spatiale
-- voyage-spatial
-- missions-spatiales
-- astronautique
 coverImage: ./images/quora.png
 ---
 

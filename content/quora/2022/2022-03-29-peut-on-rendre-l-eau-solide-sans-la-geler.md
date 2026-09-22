@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
+- sciences
+- matiere
 - eau
-- changement-de-phase
-- solides
-- etats-de-la-matiere
-- gel
-- science-de-la-matiere
-- physique-des-solides
-- phases-de-la-matiere
-- physique-de-la-matiere
+- etat
 coverImage: ./images/qimg-6adaab6eb5ac8e31852b4371685191c6.jpg
 ---
 

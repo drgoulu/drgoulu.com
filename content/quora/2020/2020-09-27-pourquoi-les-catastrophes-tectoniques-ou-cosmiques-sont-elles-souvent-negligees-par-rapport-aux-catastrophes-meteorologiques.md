@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - cosmologie
-- risque-et-risques
-- meteo
-- catastrophes-naturelles
 - geologie
-- plaques-tectoniques
 - climatologie
-- catastrophe-climatique
-- dangers-naturels
-- risques-naturels
+- catastrophes-naturelles
+- risque-et-risques
 coverImage: ./images/quora.png
 ---
 

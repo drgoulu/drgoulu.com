@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- humanite
+- sante-publique
 - comportement-humain
 - covid-19-2019-2020
-- planete-terre
-- comparaison
-- sante-publique
-- pandemie
-- humanite
-- comportement
-- sante-humaine
+- comparaisons
 coverImage: ./images/quora.png
 ---
 

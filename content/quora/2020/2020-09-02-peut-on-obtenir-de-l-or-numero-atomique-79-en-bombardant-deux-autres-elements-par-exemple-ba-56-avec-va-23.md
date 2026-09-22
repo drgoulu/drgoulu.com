@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - chimie
-- baryum
-- or
-- elements-radioactifs
-- nombre-atomique
-- chimie-nucleaire
-- elements-chimie
-- element-chimique
 - elements-chimiques
+- or
+- chimie-nucleaire
+- elements-radioactifs
 coverImage: ./images/qimg-7a6f85678ae7919dfa44160d851aee0f.jpg
 ---
 

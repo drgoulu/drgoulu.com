@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
+- sciences
 - energie
+- environnement
 - eau
-- sciences-de-l-environnement
-- ressources-en-eau
-- energie-physique
-- stockage-de-l-electricite
-- sources-d-energie
-- stockage-d-energie
-- science-de-l-environnement
 coverImage: ./images/quora.png
 ---
 

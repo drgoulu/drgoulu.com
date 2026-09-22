@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- louis-antoine-leon-de-saint-juste
-- karl-marx-philosophe-auteur-economiste
-- citation-societe
-- philosophie-politique
+- philosophie
+- politique
 - liberte
-- oppression
-- les-citations
-- karl-marx
+- citations
 coverImage: ./images/quora.png
 ---
 

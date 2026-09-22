@@ -7,12 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- saveur
 - sciences
-- modele-standard-de-la-physique-des-particules
-- physiciens-des-particules
-- physique-quantique
 - physique-theorique
+- physique-quantique
+- particules
 coverImage: ./images/quora.png
 ---
 

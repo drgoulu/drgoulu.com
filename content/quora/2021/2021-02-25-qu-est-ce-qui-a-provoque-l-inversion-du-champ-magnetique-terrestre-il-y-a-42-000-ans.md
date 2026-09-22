@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-terre
-- evenement-naturel
-- geophysique
-- histoire-de-la-terre
-- paleoclimatologie
-- inversion-du-champ-magnetique-terrestre
-- phenomene-geologique
-- evenements-anciens
+- sciences
+- histoire
+- terre
 - champ-magnetique-terrestre
+- paleoclimatologie
 coverImage: ./images/quora.png
 ---
 

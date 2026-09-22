@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sciences
-- changement-climatique
-- defaut
-- scepticisme
-- qualite
 - recherche-scientifique
+- changement-climatique
+- etude-scientifique
 - climatologie
-- sceptique
-- etudes-scientifiques
 coverImage: ./images/quora.png
 ---
 

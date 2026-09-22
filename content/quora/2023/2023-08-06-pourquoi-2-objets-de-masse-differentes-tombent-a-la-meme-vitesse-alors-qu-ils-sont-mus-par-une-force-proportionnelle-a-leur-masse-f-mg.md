@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- chute-libre
-- lois-du-mouvement-de-newton
-- principes-fondamentaux
-- acceleration-physique
+- nature
 - gravite
-- concepts-majeurs-en-physique
+- loi
 - masse-physique
-- lois-de-la-nature
-- force-physique
 coverImage: ./images/quora.png
 ---
 

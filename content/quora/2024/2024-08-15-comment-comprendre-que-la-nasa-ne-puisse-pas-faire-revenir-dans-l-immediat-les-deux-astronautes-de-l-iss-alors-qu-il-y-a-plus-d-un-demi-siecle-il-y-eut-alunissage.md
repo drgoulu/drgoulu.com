@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- exploration-spatiale
 - espace
-- nasa
-- alunissage
-- astronautes
-- station-spatiale-internationale
+- exploration-spatiale
 - technologie-spatiale
-- vaisseau-spatial
-- iss
 - voyage-spatial
+- nasa
 coverImage: ./images/quora.png
 ---
 

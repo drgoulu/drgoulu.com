@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
 - relations-internationales
-- union-europeenne
-- ethnie-et-peuple-russe
-- ukrainien-langue
-- relations-russo-ukrainiennes
-- histoire-de-la-russie
-- integration-europeenne
-- politique-etrangere-de-la-russie
-- politique-etrangere-de-l-ukraine
+- russie
+- ukraine
+- politique-etrangere
 coverImage: ./images/quora.png
 ---
 

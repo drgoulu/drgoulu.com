@@ -7,12 +7,9 @@ categories:
 - Quora
 tags:
 - sciences
-- energie-nucleaire
-- tritium
 - chimie
-- isotopes-radioactifs
+- energie-nucleaire
 - radioactivite
-- elements-radioactifs
 - substances-radioactives
 coverImage: ./images/quora.png
 ---

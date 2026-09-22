@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- conscience
-- etres-vivants
-- la-vie
-- sciences-cognitives
+- vie
+- psychologie
 - question-philosophique
-- vie-biologique
-- etre-humain
-- philosophie-et-psychologie
-- conscience-humaine
+- conscience
 coverImage: ./images/quora.png
 ---
 

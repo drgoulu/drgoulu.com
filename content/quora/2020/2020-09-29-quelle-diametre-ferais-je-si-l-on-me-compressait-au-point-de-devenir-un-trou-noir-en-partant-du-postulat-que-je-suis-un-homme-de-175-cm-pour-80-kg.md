@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- question-hypothetique
-- taille-anthropometrie
 - trous-noirs
-- masse-physique
+- question-hypothetique
 - hypotheses
-- densite-physique
-- masse-corporelle
-- taille
-- physique-humain
+- masse-physique
 coverImage: ./images/quora.png
 ---
 

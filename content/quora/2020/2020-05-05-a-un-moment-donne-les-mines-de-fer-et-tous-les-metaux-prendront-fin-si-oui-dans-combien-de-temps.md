@@ -8,14 +8,9 @@ categories:
 tags:
 - ressources-naturelles
 - metaux
-- minerai-de-fer
-- epuisement-des-peches
-- mines
-- limitation-des-ressources
+- ressources
 - gestion-des-resssources-naturelles
-- extraction-de-minerai-de-fer
-- rarete-des-ressources
-- ressource-naturelle
+- rarete
 coverImage: ./images/quora.png
 ---
 

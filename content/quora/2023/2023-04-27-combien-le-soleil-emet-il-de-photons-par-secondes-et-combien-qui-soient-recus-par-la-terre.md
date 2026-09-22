@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - physique
-- le-soleil
-- terre-planete
 - astronomie
-- lumiere-du-soleil
-- photons
-- lumiere-physique
-- radiation
 - astrophysique
-- le-soleil-astronomie
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

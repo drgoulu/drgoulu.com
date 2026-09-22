@@ -8,13 +8,9 @@ categories:
 tags:
 - sciences
 - changement-climatique
-- '2050'
-- climats
+- monde
+- rechauffement-climatique
 - climatologie
-- temperatures
-- le-monde-en-2050
-- previsions-meteo
-- le-rechauffement-climatique
 coverImage: ./images/quora.png
 ---
 

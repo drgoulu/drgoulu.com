@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - corps-humains
-- les-ecrans-tactiles
 - electronique
 - capteurs
-- telephones-portables
-- interfaces-utilisateur
-- technologie-de-pointe
-- technologie-tactile
+- telephone-portable
+- interface-utilisateur
 coverImage: ./images/qimg-c7bb4f3a15d14403a33ac0dce9a0feb3.png
 ---
 

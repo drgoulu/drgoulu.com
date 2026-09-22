@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- desintegration-radioactive
-- vie-moyenne
 - atomes
-- la-physique-nucleaire
-- isotopes-radioactifs
+- physique-nucleaire
 - radioactivite
 - elements-radioactifs
-- desintegration
 coverImage: ./images/qimg-f2b9829644ef7b13c8eff8a4905bf7e8.png
 ---
 

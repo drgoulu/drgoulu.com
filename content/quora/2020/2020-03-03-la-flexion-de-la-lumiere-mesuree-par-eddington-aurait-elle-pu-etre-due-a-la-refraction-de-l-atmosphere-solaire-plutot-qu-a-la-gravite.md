@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- le-soleil
 - astronomie
-- vitesse-de-la-lumiere
-- relativite-generale
-- gravitation
-- refraction
 - astrophysique
-- relativite-physique
+- relativite
+- lumiere
 coverImage: ./images/qimg-d4eb6ff8878bfa7e66408e1db8d30296.jpg
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- societe
-- travail-emploi
-- intelligence-artificielle
+- sciences
 - technologies
-- science-et-technologie
-- automatisation
-- robots
-- futur-du-travail
+- societe
+- futur
 - nouvelles-technologies
-- travail
 coverImage: ./images/quora.png
 ---
 

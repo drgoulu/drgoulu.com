@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- question-hypothetique
-- l-univers
-- vitesse-de-la-lumiere
-- theorie-de-la-relativite
-- univers-observable
-- temps-physique
-- hypotheses-scientifiques
-- relativite-physique
-- hypotheses
+- univers
+- theorie
+- relativite
+- temps
 coverImage: ./images/quora.png
 ---
 

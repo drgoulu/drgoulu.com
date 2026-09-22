@@ -7,14 +7,9 @@ categories:
 - Combien
 tags:
 - physique
-- voyager-2-sonde-spatiale
-- horloges
+- relativite
+- temps
 - exploration-spatiale
-- relativite-restreinte
-- temps-physique
-- sondes-spatiales
-- relativite-physique
-- horloges-atomiques
 - relativite-generale
 coverImage: ./images/quora.png
 ---

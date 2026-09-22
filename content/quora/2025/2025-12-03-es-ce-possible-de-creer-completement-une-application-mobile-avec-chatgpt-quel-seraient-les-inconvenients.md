@@ -8,13 +8,8 @@ categories:
 tags:
 - nouvelles-technologies
 - intelligence-artificielle
-- applications-mobiles
-- chat-gpt
 - technologies
-- chatbot
-- creation-des-app
-- developpement-d-applications-mobiles
-- ia-chatgpt
+- developpement
 - chatgpt
 coverImage: ./images/quora.png
 ---

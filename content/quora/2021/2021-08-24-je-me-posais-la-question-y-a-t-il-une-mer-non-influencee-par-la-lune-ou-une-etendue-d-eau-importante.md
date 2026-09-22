@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- geographie
-- mers
-- eau
-- lune-astronomie
-- sciences-de-la-nature
-- marees
-- la-mer
-- geographie-physique
-- science-de-la-terre
-- sciences-de-l-environnement
+- physique
+- sciences
+- astronomie
+- terre
+- environnement
 coverImage: ./images/qimg-1a5eb0b3385e0572a64551bbb8baa782.jpg
 ---
 

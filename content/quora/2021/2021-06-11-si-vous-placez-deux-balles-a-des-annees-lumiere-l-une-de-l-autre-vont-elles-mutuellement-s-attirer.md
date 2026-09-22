@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- balle
-- annee-lumiere
-- attraction-universelle
-- astrophysics
 - force-gravitationnelle
-- annees-lumiere-distance-astronomique
-- lois-de-la-physique
-- distance-physique
+- loi
+- distance
 - gravitation
 coverImage: ./images/quora.png
 ---

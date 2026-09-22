@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sciences
-- equation-de-drake
 - astronomie
-- vie-extraterrestre
-- cosmologie
-- recherche-spatiale
-- astrophysique-theorique
 - astrophysique
-- astrobiologie
-- cosmologie-physique
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

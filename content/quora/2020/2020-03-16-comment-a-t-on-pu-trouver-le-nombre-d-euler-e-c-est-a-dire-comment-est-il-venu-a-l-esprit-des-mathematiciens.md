@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
+- histoire
 - mathematiques
-- histoire-des-sciences
+- origines
 - decouvertes-scientifiques
-- histoire-du-calcul
-- constantes-mathematiques
-- origine-des-mathematiques
-- equations-mathematiques
-- recherche-mathematique
-- mathematiciens
-- histoire-des-mathematiques
 coverImage: ./images/quora.png
 ---
 

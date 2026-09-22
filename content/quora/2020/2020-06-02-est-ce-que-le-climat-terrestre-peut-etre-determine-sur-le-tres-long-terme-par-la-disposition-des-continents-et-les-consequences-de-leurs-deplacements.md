@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - changement-climatique
 - geologie
-- derive-des-continents
 - climatologie
-- atmospheres-planetaires
-- sciences-du-climat
-- paleoclimatologie
-- geologie-planetaire
-- geomorphologie
+- climats
 coverImage: ./images/qimg-3676bb08a29ae4ced18d10023ab538ed.jpg
 ---
 

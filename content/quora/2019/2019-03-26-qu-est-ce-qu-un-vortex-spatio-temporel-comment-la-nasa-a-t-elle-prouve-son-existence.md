@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- nasa
 - sciences
 - astronomie
-- espace-temps
-- recherche-scientifique
-- cosmologie
 - astrophysique
-- physique-theorique
-- decouvertes-scientifiques
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

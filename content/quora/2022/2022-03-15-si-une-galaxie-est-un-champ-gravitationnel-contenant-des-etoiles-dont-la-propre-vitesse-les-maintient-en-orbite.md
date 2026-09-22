@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - astronomie
-- rotation
-- champ-gravitationnel
-- etoiles-corps-celestes
-- l-univers-astronomie
 - astrophysique
+- univers
 - galaxies
-- forces-gravitationnelles
-- rotation-physique
-- galaxies-astronomie
 coverImage: ./images/qimg-1eabaa6e3b1d722c9e2f9e131b20f81f.jpg
 ---
 

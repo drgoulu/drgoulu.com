@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- terre-planete
+- terre
+- planetes
 - science-spatiale
-- meteo
-- telecommunications
-- images-satellites
-- communication-satellite
-- previsions-meteo
-- satellites
 - technologie-spatiale
-- meteorologie
+- satellites
 coverImage: ./images/quora.png
 ---
 

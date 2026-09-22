@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- armes
-- l-antimatiere
-- sciences-nucleaires
-- bombes
-- physiciens
-- anti-particules
 - physique-theorique
+- sciences-nucleaires
+- antimatiere
+- armes
 coverImage: ./images/quora.png
 ---
 

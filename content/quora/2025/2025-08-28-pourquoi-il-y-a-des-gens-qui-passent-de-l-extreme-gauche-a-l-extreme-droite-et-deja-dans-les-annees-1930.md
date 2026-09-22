@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
 - politique
-- les-annees-30
 - politique-francaise
-- changements-sociaux
-- extreme-gauche
 - ideologies-politiques
-- histoire-des-idees-politiques
-- concepts-politiques
-- ideologie-politique
-- extreme-droite
+- changements-sociaux
 coverImage: ./images/quora.png
 ---
 

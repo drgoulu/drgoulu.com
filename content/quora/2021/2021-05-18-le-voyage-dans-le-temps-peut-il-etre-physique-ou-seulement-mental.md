@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- science-fiction-genre
-- voyage-dans-le-temps
 - physique
-- relativite-physique
-- voyage-mental
-- theorie-du-temps
-- paradoxe
-- philosophie-des-sciences
+- sciences
+- philosophie
+- theorie
+- relativite
 coverImage: ./images/quora.png
 ---
 

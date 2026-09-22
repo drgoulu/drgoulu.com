@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- personnalite
+- personnalites
 - souvenir
 - medias
-- culture-caractere-national
-- programme-de-television
-- vie-culturelle
 - television
-- medias-communication
 coverImage: ./images/quora.png
 ---
 

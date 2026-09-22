@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-nature
-- influence
-- faille
-- champs-electromagnetiques
-- eau-souterraine
+- sciences
+- vie
+- nature
 - etude-scientifique
-- observations-de-la-vie
-- champs-magnetiques
+- observation
 coverImage: ./images/qimg-a4972db1b6d5ee9b975c68ceeae10eb0.jpg
 ---
 

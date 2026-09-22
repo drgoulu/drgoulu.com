@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- energie-sombre
-- cosmologie-du-big-bang
+- philosophie
 - astrophysique
 - cosmologie
-- physique-theorique
-- philosophie-de-la-cosmologie
-- energie-noire
-- cosmologie-physique
 coverImage: ./images/quora.png
 ---
 

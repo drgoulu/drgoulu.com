@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - statistiques
-- le-loto
-- jeux-de-hasard
-- strategie
+- jeux
 - probabilite-statistiques
-- loterie
-- le-hasard
-- probabilites
-- jeux-de-chance
 - probabilite
+- hasard
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- geomorphologie
-- tsunami
-- risques-naturels
-- oceanographie
-- catastrophes-naturelles
 - risques
-- geographie-marine
 - geologie
-- dangers-naturels
+- catastrophes-naturelles
+- oceanographie
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - changement-climatique
-- activite-humaine
-- images-satellites
-- industrie-petroliere-et-gaziere
-- preuves-scientifiques
-- gaz-a-effet-de-serre
-- emissions-de-carbone
 - rechauffement-climatique
-- le-changement-climatique
-- production-de-petrole-et-de-gaz
+- preuves-scientifiques
+- emission
+- carbone
 coverImage: ./images/quora.png
 ---
 

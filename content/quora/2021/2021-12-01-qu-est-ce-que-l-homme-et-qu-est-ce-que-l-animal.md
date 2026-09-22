@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- comportement-humain
-- question-existentielle
-- l-humain-et-les-animaux
-- anthropologie
-- zoologie
-- nature-humaine
 - biologie
-- condition-humaine
-- comportement-animal
+- animaux
+- anthropologie
+- question-existentielle
 coverImage: ./images/quora.png
 ---
 

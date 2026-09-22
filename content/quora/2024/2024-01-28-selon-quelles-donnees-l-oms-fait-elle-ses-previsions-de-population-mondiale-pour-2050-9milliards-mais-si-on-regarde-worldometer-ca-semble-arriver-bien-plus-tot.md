@@ -8,13 +8,9 @@ categories:
 tags:
 - statistiques
 - demographie
-- organisation-mondiale-de-la-sante-oms
-- worldometer
-- population-mondiale
 - donnees
-- croissance-demographique
-- sante-mondiale
 - demographie-mondiale
+- population-mondiale
 coverImage: ./images/quora.png
 ---
 

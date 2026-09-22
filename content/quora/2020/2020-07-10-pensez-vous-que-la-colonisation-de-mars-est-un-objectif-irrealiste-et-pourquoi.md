@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- planetes
+- espace
 - exploration-spatiale
-- science-fiction-genre
-- objectifs
-- avenir-de-l-humanite
-- mars-planete
-- vie-extraterrestre
-- colonisation-de-l-espace
-- terraformation-de-mars
-- exploration-de-mars
-- l-avenir-du-monde
+- monde
+- humanite
 coverImage: ./images/quora.png
 ---
 

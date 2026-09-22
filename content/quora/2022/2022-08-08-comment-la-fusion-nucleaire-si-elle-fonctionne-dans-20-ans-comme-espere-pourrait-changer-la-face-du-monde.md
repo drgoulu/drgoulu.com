@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- science-et-technologie
-- futur
+- physique
+- sciences
+- energie
+- technologies
 - changement-climatique
-- energie-physique
-- nouvelles-technologies
-- impact-mondial
-- futur-du-monde
-- energie-nucleaire
 coverImage: ./images/quora.png
 ---
 

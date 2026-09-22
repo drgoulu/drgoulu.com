@@ -7,12 +7,9 @@ categories:
 - Pourquoi
 tags:
 - energie-nucleaire
-- neutrons
-- technologie-propre
 - radioactivite
-- reacteurs-a-fusion
 - sciences-nucleaires
-- materiaux-radioactifs
+- reacteurs-a-fusion
 - radiation-nucleaire
 coverImage: ./images/quora.png
 ---

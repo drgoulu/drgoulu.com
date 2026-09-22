@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- biologie
-- animaux
-- eucalyptus
-- evolution-processus
-- adaptation
-- koalas-marsupiaux
-- faune
-- biologie-animale
 - evolution
-- evolution-animale
+- biologie
+- processus
+- animaux
+- biologie-animale
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- espace
 - astronomie
-- vitesse-de-liberation
-- la-gravite
-- atmosphere
-- vitesse-physique
-- physique-de-l-atmosphere
-- gravite-physique
+- espace
+- vitesse
 coverImage: ./images/quora.png
 ---
 

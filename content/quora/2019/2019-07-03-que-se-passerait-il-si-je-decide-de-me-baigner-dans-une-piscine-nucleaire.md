@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-de-sondage
+- questions
 - energie-nucleaire
-- risque
-- substances-radioactives
-- situations-hypothetiques
 - question-hypothetique
-- maladie-des-radiations
+- risques
 - radioactivite
-- question-enfantine
-- le-nucleaire
 coverImage: ./images/qimg-1c73ebfeb266619a63cdfaf471760f55.png
 ---
 

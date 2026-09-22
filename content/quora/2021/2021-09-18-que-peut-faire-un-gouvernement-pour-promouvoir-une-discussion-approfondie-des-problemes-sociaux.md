@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- opinion-publique
 - societe
-- discussion
+- opinion-publique
 - debat
-- problemes-sociaux
-- engagement-civique
 - gouvernement
-- sciences-politiques
-- politique-sociale
 coverImage: ./images/quora.png
 ---
 

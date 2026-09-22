@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- terre-planete
+- sciences
+- terre
+- planetes
 - electromagnetisme
-- geoscience
-- champ-magnetique-terrestre
-- magnetosphere
-- sciences-de-la-terre
-- magnetisme
-- geophysique
-- champs-magnetiques
 coverImage: ./images/quora.png
 ---
 

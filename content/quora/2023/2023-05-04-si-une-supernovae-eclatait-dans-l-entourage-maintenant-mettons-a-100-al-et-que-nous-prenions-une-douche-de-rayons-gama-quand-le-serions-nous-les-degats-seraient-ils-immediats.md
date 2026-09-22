@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- supernova
 - astronomie
-- dommages
-- rayons-gamma
-- effets-visuels
-- distance
-- temps-physique
 - astrophysique
 - physique-theorique
+- temps
 coverImage: ./images/quora.png
 ---
 

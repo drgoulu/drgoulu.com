@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
+- informatique
+- technologies
+- systeme
 - personne
-- logiciel
-- steve-ballmer
-- l-histoire-de-la-technologie
-- systemes-d-exploitation
-- windows-vs-linux
-- microsoft-entreprise
-- linux
-- histoire-de-l-informatique
 coverImage: ./images/qimg-96656cff3215bf81c8ea4cec4cd029f4.jpg
 ---
 

@@ -10,12 +10,7 @@ tags:
 - biologie-animale
 - comportement-animal
 - ethologie
-- interaction-avec-les-animaux
-- relation-homme-animal
-- communication-animale
 - psychologie-animale
-- science-animale
-- comportements-animaliers
 coverImage: ./images/quora.png
 ---
 

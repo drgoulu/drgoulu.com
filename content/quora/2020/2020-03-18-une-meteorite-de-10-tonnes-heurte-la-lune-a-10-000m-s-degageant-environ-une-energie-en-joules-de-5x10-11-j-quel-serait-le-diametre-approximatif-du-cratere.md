@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - astronomie
-- impact
-- meteorites
-- calcul-mathematique
-- energie-physique
-- science-physique
-- crateres-d-impact
-- lune-astronomie
-- formules-scientifiques
-- effets
+- energie
+- lune
 coverImage: ./images/quora.png
 ---
 

@@ -9,11 +9,8 @@ tags:
 - mathematiques
 - nombres-naturels
 - suite-d-entiers
-- theorie-des-nombres
-- sequences-entieres
-- nombres-consecutifs
-- nombres-composes
-- theorie-du-nombre
+- theorie
+- nombres
 coverImage: ./images/quora.png
 ---
 

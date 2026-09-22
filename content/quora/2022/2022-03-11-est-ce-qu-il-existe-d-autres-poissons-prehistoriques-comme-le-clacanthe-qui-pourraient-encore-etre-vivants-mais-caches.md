@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- evolution-biologie
-- animaux-marins
+- evolution
+- biologie
 - paleontologie
-- poissons
-- biologie-marine
-- especes-eteintes
-- faune-marine
 - vie-marine
-- animaux-disparus
-- paleobiologie
+- biologie-marine
 coverImage: ./images/quora.png
 ---
 

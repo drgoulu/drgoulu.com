@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- minage
-- lune-astronomie
+- sciences
+- astronomie
+- technologies
 - exploration-spatiale
-- difficulte
-- ressources-planetaire
 - science-spatiale
-- conquete-spatiale
-- missions-spatiales
 coverImage: ./images/quora.png
 ---
 

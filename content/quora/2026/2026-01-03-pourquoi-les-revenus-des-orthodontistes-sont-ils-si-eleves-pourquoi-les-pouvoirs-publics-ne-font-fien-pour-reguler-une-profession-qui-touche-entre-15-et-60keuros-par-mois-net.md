@@ -8,14 +8,9 @@ categories:
 tags:
 - professionnels-medicaux
 - reglementation
-- revenus-personnels
-- orthodontie
-- pouvoirs-publics
-- secteur-de-sante
-- profession-reglementee
-- orthodontistes
-- economie-de-la-sante
-- professions-et-professionnels-medicaux
+- economie
+- sante
+- profession
 coverImage: ./images/quora.png
 ---
 

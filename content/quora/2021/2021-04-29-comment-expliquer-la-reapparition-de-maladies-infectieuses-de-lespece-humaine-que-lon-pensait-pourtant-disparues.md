@@ -7,13 +7,9 @@ categories:
 - Comment
 tags:
 - sante
-- reapparition
-- epidemies
-- risques-pour-la-sante
-- sante-et-securite-publiques
-- maladies-infectieuses
-- conditions-medicales-et-maladies
 - sante-publique
+- risques
+- maladies-infectieuses
 - epidemiologie
 coverImage: ./images/quora.png
 ---

@@ -8,13 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- recherche-scientifique
-- exploration-spatiale
-- exoplanetes
 - astrophysique
-- planetes-astronomie
-- decouvertes-scientifiques
-- radioastronomie
+- planetes
+- recherche-scientifique
 coverImage: ./images/quora.png
 ---
 

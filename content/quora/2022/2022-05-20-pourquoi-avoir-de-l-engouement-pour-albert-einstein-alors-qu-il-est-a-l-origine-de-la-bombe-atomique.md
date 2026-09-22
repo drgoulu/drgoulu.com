@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- personnalite
-- histoire-des-sciences
+- physique
+- sciences
+- histoire
 - albert-einstein-physicien
-- bombe-atomique
-- guerre-froide
-- sciences-nucleaires
-- personnalite-publique
-- histoire-de-la-physique
+- personnalites
 coverImage: ./images/quora.png
 ---
 

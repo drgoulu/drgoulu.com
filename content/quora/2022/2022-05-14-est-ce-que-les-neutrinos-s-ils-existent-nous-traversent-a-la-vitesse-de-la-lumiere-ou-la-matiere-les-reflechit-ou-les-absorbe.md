@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-physique
-- vitesse-de-la-lumiere
-- neutrinos
-- absorption
-- matiere-physique
-- physique-des-particules-experimentale
-- reflexion-physique
-- nucl-physics
+- physique
+- sciences
+- lumiere
+- vitesse
+- matiere
 coverImage: ./images/quora.png
 ---
 

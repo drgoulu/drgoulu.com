@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- expansion-de-l-univers
 - astronomie
-- theorie
+- univers
 - cosmologie
-- physique-theorique
-- origine-de-l-univers
-- theorie-scientifique
-- exploration-de-l-univers
+- theorie
 coverImage: ./images/quora.png
 ---
 

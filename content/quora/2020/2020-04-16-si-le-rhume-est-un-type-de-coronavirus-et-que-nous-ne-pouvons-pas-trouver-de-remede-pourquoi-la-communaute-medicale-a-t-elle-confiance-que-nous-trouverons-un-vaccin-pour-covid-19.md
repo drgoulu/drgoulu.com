@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- covid-19-2019-2020
 - recherche-scientifique
-- rhume
-- vaccins
+- covid-19-2019-2020
 - virus
-- vaccination
-- communaute-scientifique
-- vaccin-covid-19
 - recherche-medicale
-- immunisations
+- vaccins
 coverImage: ./images/quora.png
 ---
 

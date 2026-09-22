@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - religion
-- le-messie-haendel
-- histoire-du-christianisme
+- christianisme
 - jesus
 - judaisme
-- christianisme
-- jesus-historique
-- christianisme-et-judaisme
-- histoire-biblique
-- judaisme-messianique
 coverImage: ./images/quora.png
 ---
 

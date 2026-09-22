@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- exploration-spatiale
+- terre
+- planetes
 - environnement
-- terre-planete
-- conditions-de-vie
-- habitabilite-planetaire
+- exploration-spatiale
 - science-spatiale
-- mars-planete
-- habitabilite
-- conditions-environnementales
 coverImage: ./images/quora.png
 ---
 

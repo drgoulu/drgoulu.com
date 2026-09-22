@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- experiences-personnelles
-- question-de-sondage
+- questions
 - experience
-- survivre
-- situations-dangereuses
-- experiences
+- sondages
+- experiences-personnelles
 - experience-humaine
-- question-d-enquete
-- histoires-personnelles
-- situations-difficiles
 coverImage: ./images/quora.png
 ---
 

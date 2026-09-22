@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- la-creation-de-l-univers
 - astronomie
-- cosmogonie
-- theorie-scientifique
-- cosmologie
-- theories-physiques
 - astrophysique
-- origine-de-l-univers
-- creation-de-l-univers
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

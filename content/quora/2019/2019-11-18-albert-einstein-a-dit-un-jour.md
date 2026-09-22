@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- experiences-personnelles
-- personne
-- albert-einstein-physicien
-- reflexion
-- les-citations
-- le-jugement
+- psychologie
 - experience
-- philosophie-et-psychologie
+- albert-einstein-physicien
+- personne
 coverImage: ./images/quora.png
 ---
 

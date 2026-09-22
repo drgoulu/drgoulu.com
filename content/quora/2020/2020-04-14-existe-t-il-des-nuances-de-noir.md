@@ -8,11 +8,7 @@ categories:
 tags:
 - perception-visuelle
 - nuance
-- noir-couleur
-- couleurs
-- signifiants
-- connotations
-- nuancier
+- couleur
 - systeme-visuel
 - communication-visuelle
 coverImage: ./images/qimg-89f2347010d011c2d8346382401a776e.jpg

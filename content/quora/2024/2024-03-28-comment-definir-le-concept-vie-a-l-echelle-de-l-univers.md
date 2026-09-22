@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - philosophie
-- la-vie
-- concepts
-- definition
-- l-univers
+- univers
 - cosmologie
-- vie-biologique
-- philosophie-de-la-cosmologie
-- philosophie-des-sciences
-- definitions
+- vie
 coverImage: ./images/quora.png
 ---
 

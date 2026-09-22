@@ -6,13 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- energie
 - question-hypothetique
 - science-fiction-genre
-- energie-physique
-- lasers
-- noyau-terrestre
 - hypotheses-scientifiques
-- crise-de-l-energie
 coverImage: ./images/quora.png
 ---
 

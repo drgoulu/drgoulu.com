@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - histoire
-- alchimistes
-- vivre-au-moyen-age
-- metiers
-- groupes-sociaux
-- histoire-de-la-science
-- moyen-age
-- alchimie
 - histoire-humaine
-- chimistes
+- moyen-age
+- groupes-sociaux
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- nature
 - animaux
 - biologie-animale
 - comportement-animal
-- homosexualite
-- sciences-de-la-nature
-- ethologie
-- sexualite-animale
-- reproduction-animale
-- sciences-du-vivant
 coverImage: ./images/quora.png
 ---
 

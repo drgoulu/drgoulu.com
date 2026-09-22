@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- l-univers
-- cosmologie
-- univers-observable
-- origine-de-l-univers
 - astrophysique
-- expansion-de-l-univers
-- l-univers-astronomie
-- age-de-l-univers
+- univers
+- cosmologie
 coverImage: ./images/qimg-ceb209e04e505d80395d1045e59427c2.jpg
 ---
 

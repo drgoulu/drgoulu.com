@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- ethique
-- sentiment
-- developpement-economique
+- histoire
 - suisse
-- proprietaires-d-esclaves
-- bresil
-- pays-riches
-- histoire-de-l-esclavage
-- histoire-de-la-suisse
-- commerce-des-esclaves
+- ethique
+- sentiments
+- developpement-economique
 coverImage: ./images/quora.png
 ---
 

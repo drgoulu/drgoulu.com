@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - philosophie
-- progres-humain
-- histoire-de-l-humanite
-- question-philosophique
+- humanite
 - evolution-humaine
-- l-humanite
-- reflexions-philosophiques
-- civilisation-humaine
-- developpement-humain
-- histoire-humaine
+- question-philosophique
 coverImage: ./images/quora.png
 ---
 

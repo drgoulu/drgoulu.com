@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- histoire-des-sciences
+- sciences
+- histoire
+- technologies
 - invention
-- californie-etat
-- laboratoire-national-lawrence-livermore
-- ampoules-electriques
 - eclairage
-- l-histoire-de-la-technologie
-- histoire-des-inventions
-- ampoules-a-incandescence
 coverImage: ./images/qimg-123cbb705c9174fb7ffebb18a9fa2d67.jpg
 ---
 

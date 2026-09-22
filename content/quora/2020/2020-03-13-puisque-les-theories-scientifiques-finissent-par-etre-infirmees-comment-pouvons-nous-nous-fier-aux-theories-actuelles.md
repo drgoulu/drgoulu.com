@@ -6,12 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- philosophie-des-sciences
+- philosophie
+- sciences
 - scepticisme-scientifique
 - connaissances-scientifiques
-- philosophie-et-science
 - theorie-scientifique
-- la-philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

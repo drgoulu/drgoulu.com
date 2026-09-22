@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - informatique
-- interpretes
-- python-langage-de-programmation
-- developpement-logiciel
-- langages-de-programmation
-- interprete-informatique
-- science-de-l-informatique
-- programmation-en-python
-- creation-logicielle
-- langage-de-programmation
+- programmation
+- langage
+- python
 coverImage: ./images/quora.png
 ---
 

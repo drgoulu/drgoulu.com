@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- physique
 - astronomie
 - etoiles-corps-celestes
-- distance
-- instruments-de-mesure
-- objets-astronomiques
-- observation-des-astres
-- distance-physique
 - etoiles
-- etoiles-astronomie
+- observation
 coverImage: ./images/qimg-38a2d10c977a322da56dfb5319d7f5bc.png
 ---
 

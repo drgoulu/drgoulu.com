@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- comportement-humain
-- mammiferes
 - biologie
+- psychologie
 - especes
-- naissance
-- espece-humaine
-- emotions-humaines
-- comportement-animal
-- psychologie-et-comportement-humain
 - biologie-humaine
+- comportement-humain
 coverImage: ./images/quora.png
 ---
 

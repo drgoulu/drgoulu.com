@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- carriere
-- l-univers
-- etude-scientifique
-- cosmologie
-- univers-observable
 - astrophysique
-- exploration-de-l-univers
-- carriere-professionnelle
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

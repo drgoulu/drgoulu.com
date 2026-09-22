@@ -8,15 +8,10 @@ categories:
 - Combien
 tags:
 - france
+- economie
 - relations-internationales
-- dette
-- economie-francaise
 - finances-publiques
-- dette-exterieure
-- dette-francaise
 - dette-publique
-- relations-economiques-internationales
-- economie-de-france
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - religion
+- croyance
 - sante-publique
 - covid-19-2019-2020
-- foi
-- croyance
-- prier-et-prieres
-- la-desinformation
-- les-athees
-- croyants-religion
-- science-et-religion
 coverImage: ./images/quora.png
 ---
 

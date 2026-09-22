@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - chimie
 - eau
-- proprietes-physiques
-- brulures-et-combustion
-- science-physique
-- combustion
-- proprietes-de-l-eau
-- chimie-physique
 - proprietes
-- la-physique
 coverImage: ./images/qimg-8d944f985fd11b8316291a72e0b83dbb.jpg
 ---
 

@@ -10,11 +10,7 @@ tags:
 - culture-populaire
 - jeux-video
 - mode-de-divertissement
-- experience-personnelle
-- jeu-favori
-- culture-de-masse
-- avis-personnel
-- jeux-preferes
+- experiences-personnelles
 coverImage: ./images/quora.png
 ---
 

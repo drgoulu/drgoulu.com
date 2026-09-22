@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - relations-internationales
-- donald-trump
-- volodymyr-zelenskyi-homme-politique-ukrainien
-- personnalite-publique
-- afrique
-- guerre-en-ukraine
-- personnalites-politiques
+- guerre
 - politique-internationale
-- continent-africain
-- politique-mondiale
+- afrique
+- ukraine
 coverImage: ./images/quora.png
 ---
 

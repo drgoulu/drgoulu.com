@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
 - astronomie
-- temperatures
-- cosmologie
 - astrophysique
+- cosmologie
 - physique-theorique
-- astronomie-d-observation
-- radioastronomie
-- trou-noir
 coverImage: ./images/quora.png
 ---
 

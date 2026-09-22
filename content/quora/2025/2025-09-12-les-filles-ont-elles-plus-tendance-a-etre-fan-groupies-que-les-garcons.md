@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- comportement-humain
-- fans
 - sociologie
-- garcons
-- groupie
-- interaction-sociale
-- filles
+- comportement-humain
 - comportement
 - genre-humain
-- comportements-sociaux
+- interaction-sociale
 coverImage: ./images/quora.png
 ---
 

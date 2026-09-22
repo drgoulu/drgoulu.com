@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-europe
+- europe
 - culture-anthropologie
 - adolf-hitler
 - prejuge
-- sentiment-de-superiorite
-- carrefour-entreprise
-- discrimination-raciale
-- nazis
-- race-et-ethnicite
-- prejuge-racial
+- sentiments
 coverImage: ./images/quora.png
 ---
 

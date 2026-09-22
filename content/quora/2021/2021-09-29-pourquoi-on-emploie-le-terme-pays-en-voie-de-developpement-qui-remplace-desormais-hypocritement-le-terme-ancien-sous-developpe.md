@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- evolution
+- langage
 - sociologie
-- les-pays-en-voie-de-developpement
 - developpement
-- l-hypocrisie-social
-- terminologies
-- evolution-du-langage
-- hypocrisie
-- pays-sous-developpes
 - developpement-economique-et-social
-- sous-developpement
 coverImage: ./images/quora.png
 ---
 

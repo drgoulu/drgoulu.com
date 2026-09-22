@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- politique
+- sante
 - sante-publique
 - covid-19-2019-2020
-- suede
 - pandemie
-- mesures-politiques
-- gestion-de-crise
-- taux-de-mortalite
-- sante-et-securite-publiques
-- epidemies
-- politique-de-la-sante
 coverImage: ./images/qimg-06097dfc4816815b8d3c5962ba7c3aa2.jpg
 ---
 

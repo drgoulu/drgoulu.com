@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - biologie-humaine
+- couleur
 - psychologie-cognitive
-- perception-visuelle
-- neurosciences
-- l-oeil-humain
 - sciences-cognitives
-- vision-des-couleurs
-- fonctions-cognitives
-- oeil-humain
+- vision
 coverImage: ./images/quora.png
 ---
 

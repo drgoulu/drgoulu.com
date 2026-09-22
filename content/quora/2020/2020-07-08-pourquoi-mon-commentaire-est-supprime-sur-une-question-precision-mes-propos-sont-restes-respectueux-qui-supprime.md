@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - questions
-- plateformes-en-ligne
-- moderation-quora
-- commentaire
+- contenu
 - respect
-- filtrage-de-contenu
-- communaute-en-ligne
-- question-contenu
-- activite-en-ligne
-- moderation-de-contenu
+- plateformes-en-ligne
+- commentaire
 coverImage: ./images/quora.png
 ---
 

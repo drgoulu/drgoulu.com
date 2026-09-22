@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - epidemiologie
-- grippe
-- reservoirs
-- sars-cov-2
 - maladies-virales
-- infections
 - virologie
-- saison-de-la-grippe
+- saisons
 - mutation-des-virus
-- infectiologie
 coverImage: ./images/quora.png
 ---
 

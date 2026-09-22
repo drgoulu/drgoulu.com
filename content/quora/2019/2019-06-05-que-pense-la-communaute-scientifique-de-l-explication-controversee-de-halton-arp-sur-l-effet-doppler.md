@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- halton-arp
-- opinion-controversee
-- effet-doppler
 - astronomie
-- communaute-scientifique
-- theorie-scientifique
-- cosmologie
-- controverses
 - astrophysique
+- cosmologie
+- theorie-scientifique
 coverImage: ./images/quora.png
 ---
 

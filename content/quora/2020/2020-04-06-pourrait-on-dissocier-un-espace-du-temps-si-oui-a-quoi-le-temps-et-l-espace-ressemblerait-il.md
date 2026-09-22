@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- philosophie
+- theorie
+- relativite
 - espace
-- relativite-physique
-- relation-espce-temps
-- temps-physique
-- philosophie-de-la-physique
-- espace-temps
-- theorie-du-temps
-- espace-et-temps
-- dimension-espace-temps
 coverImage: ./images/quora.png
 ---
 

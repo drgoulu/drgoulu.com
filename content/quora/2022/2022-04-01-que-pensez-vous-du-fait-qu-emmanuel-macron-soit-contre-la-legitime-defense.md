@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- opinion-publique
-- emmanuel-macron
 - droit
-- politique-francaise
+- securite
+- opinion-publique
 - debat
-- legitime-defense
-- debats-politiques
-- securite-et-defense
-- discussions-politiques
 coverImage: ./images/quora.png
 ---
 

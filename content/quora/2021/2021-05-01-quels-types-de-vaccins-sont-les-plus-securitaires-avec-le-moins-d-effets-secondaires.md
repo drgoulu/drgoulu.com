@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - sante
-- effets-secondaires-du-vaccin-covid-19
-- vaccins
-- immunite-biologie
-- securite-des-vaccins
 - medecine
-- effets-secondaires
-- immunisations
+- securite
+- vaccins
 - vaccination
 coverImage: ./images/quora.png
 ---

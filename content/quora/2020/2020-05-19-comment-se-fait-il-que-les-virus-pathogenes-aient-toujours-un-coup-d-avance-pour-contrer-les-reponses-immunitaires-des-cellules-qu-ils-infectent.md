@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- evolution-processus
+- evolution
+- processus
 - virus
-- systeme-immunitaire
 - virologie
-- pathogenes
 - maladies-virales
-- cellules-biologie
-- infections
-- immunite-biologie
-- immunologie
 coverImage: ./images/quora.png
 ---
 

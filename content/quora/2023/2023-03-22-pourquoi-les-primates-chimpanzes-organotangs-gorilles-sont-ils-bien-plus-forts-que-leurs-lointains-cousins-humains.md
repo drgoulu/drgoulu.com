@@ -6,13 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- anatomie-humaine
-- primates
-- evolution-biologie
-- force-physique
-- etre-humain
-- chimpanzes
-- anatomie-animale
+- physique
+- evolution
+- biologie
+- force
 - espece-humaine
 coverImage: ./images/quora.png
 ---

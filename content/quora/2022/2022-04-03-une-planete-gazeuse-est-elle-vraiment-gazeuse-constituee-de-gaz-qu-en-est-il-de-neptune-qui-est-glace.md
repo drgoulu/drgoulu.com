@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- gaz
-- glace
-- geantes-gazeuses
+- terre
+- planetes
 - systeme-solaire
-- neptune-planete
-- science-de-la-terre
-- planetes-du-systeme-solaire
 coverImage: ./images/quora.png
 ---
 

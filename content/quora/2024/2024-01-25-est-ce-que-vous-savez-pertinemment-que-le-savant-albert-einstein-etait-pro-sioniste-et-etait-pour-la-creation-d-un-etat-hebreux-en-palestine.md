@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- personnalites
-- le-judaisme-en-israel
-- histoire-du-xxe-siecle
+- histoire
+- vie
 - albert-einstein-physicien
-- sionisme
-- palestine-etat
-- histoire-du-moyen-orient
-- vie-de-albert-einstein
-- histoire-d-israel
-- histoire-de-la-palestine
+- israel
+- personnalites
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- zones-demilitarisees
-- impact-environnemental
-- meteorites
-- sciences-de-la-nature
-- effets
+- terre
+- nature
 - catastrophes-naturelles
-- crateres-d-impact
-- dangers-naturels
-- science-de-la-terre
 coverImage: ./images/qimg-31965a95199c898ee72c7970911b34c9.jpg
 ---
 

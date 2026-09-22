@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- voyage-dans-l-espace
 - astronomie
-- relativite-restreinte
-- exploration-spatiale
-- theorie-de-la-relativite
 - astrophysique
-- relativite-generale
-- relativite-physique
-- voyage-spatial
+- theorie
+- relativite
 coverImage: ./images/quora.png
 ---
 

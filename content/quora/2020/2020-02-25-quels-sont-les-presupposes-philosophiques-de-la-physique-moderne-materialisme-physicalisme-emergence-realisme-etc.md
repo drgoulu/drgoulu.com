@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- emergence
 - realisme
 - physique-moderne
-- materialisme-philosophie
-- philosophie-de-la-physique
-- physicalisme
-- philosophie-moderne
-- science-moderne
-- philosophie-des-sciences
+- physique
+- sciences
 coverImage: ./images/quora.png
 ---
 

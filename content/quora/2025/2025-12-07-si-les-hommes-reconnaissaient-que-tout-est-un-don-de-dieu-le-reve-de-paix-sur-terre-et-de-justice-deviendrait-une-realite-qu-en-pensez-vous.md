@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- espoir
-- justice
-- societe
-- ideaux
+- terre
+- vie
 - religion
-- paix-dans-le-monde
-- vie-sur-terre
-- idealisme
-- la-religion
+- monde
 coverImage: ./images/quora.png
 ---
 

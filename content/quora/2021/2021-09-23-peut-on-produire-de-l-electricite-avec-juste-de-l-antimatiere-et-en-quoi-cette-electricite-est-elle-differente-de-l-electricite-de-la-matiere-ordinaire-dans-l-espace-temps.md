@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- l-antimatiere
-- espace-temps
-- conversion-de-l-energie
-- electricite
-- asymetrie-matiere-antimatiere
 - physique-theorique
-- sources-d-energie
+- electricite
+- espace-temps
 coverImage: ./images/quora.png
 ---
 

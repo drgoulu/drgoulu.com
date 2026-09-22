@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - medias
-- sionisme
-- conspirations
-- assassinat-politique
-- journalisme
-- avertissements
-- medias-d-information
-- journalistes
 - assassinats
-- sionistes
+- politique
+- journalisme
+- information
 coverImage: ./images/quora.png
 ---
 

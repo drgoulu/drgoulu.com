@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- anthropologie
-- espece-humaine
 - evolution
-- paleontologie
-- histoire-de-l-humanite
-- especes
-- prehistoire
+- humanite
 - evolution-humaine
-- paleoanthropologie
+- especes
 coverImage: ./images/quora.png
 ---
 

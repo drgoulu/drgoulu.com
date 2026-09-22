@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- energie
 - energie-nucleaire
-- consommation-d-energie
+- consommation
 - sources-d-energie
-- petit-reacteur-nucleaire
-- technologie-nucleaire
-- production-d-energie
-- reacteurs-nucleaires
-- industrie-nucleaire
-- l-energie-electrique
+- production
 coverImage: ./images/quora.png
 ---
 

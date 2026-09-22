@@ -8,14 +8,9 @@ categories:
 tags:
 - chine
 - union-europeenne
-- impression-3d
 - regles-et-reglementations
-- thermomix
 - fabrication
-- conformite
 - certifications
-- marche-europeen
-- lois-et-legislations
 coverImage: ./images/quora.png
 ---
 

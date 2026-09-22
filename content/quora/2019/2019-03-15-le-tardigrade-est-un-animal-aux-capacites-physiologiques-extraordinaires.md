@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
+- biologie
 - biologie-animale
-- tardigrade
-- extraterrestres
-- adaptation
-- resistance-physique
-- conditions-environnementales
 - zoologie
-- evolution-biologie
 - vie-extraterrestre
-- evolution-animale
 coverImage: ./images/quora.png
 ---
 

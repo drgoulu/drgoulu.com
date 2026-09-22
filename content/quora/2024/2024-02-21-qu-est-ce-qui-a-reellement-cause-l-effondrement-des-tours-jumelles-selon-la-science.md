@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- effondrement-des-tours-du-world-trade-center
-- history-of-architecture
 - ingenierie
 - catastrophes
-- attentats-du-11-septembre-2001
-- art-architecture
 - architecture
-- les-attentats-du-11-septembre
+- art-architecture
 coverImage: ./images/quora.png
 ---
 

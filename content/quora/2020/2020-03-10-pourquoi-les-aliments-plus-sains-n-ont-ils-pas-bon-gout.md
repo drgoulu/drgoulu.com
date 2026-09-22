@@ -8,14 +8,9 @@ categories:
 tags:
 - alimentation
 - gout-sens
-- cuisine-saine
-- jugement-de-gout
-- gouts-acquis
-- gout-personnel
+- jugement
 - gouts
-- aliments-sains
 - alimentation-saine
-- nourriture-plus-saine
 coverImage: ./images/quora.png
 ---
 

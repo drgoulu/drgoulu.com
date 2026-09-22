@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - relations-internationales
-- ukraine
-- financement
-- nations-unies
-- crise-humanitaire
 - politique-internationale
+- ukraine
 - droit-international
-- organisation-des-nations-unies
-- aide-humanitaire
+- nations-unies
 coverImage: ./images/quora.png
 ---
 

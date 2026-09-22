@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- perte-d-energie
-- luminosite
-- energie-thermique
-- vitesse-de-la-lumiere
+- energie
+- lumiere
+- vitesse
 - masse-physique
-- physique-des-rayonnements
-- energie-physique
-- physique-de-rayonnement
 coverImage: ./images/qimg-cd4fa49a05f32efcdaf7f523f6f6008f.gif
 ---
 

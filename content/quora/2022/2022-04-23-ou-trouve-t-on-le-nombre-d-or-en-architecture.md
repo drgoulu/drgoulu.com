@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - mathematiques
-- art
-- proportion
-- nombre-d-or
-- histoire-de-l-art
-- architecture
+- nombres
 - geometrie
-- art-architecture
-- arts
+- art
 coverImage: ./images/quora.png
 ---
 

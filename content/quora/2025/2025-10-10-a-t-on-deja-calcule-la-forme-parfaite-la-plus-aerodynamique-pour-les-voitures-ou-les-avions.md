@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- avions
+- sciences
 - ingenierie
 - transports
-- forme
-- aerodynamique
-- voitures
-- aircraft
-- science-physique
+- avions
 coverImage: ./images/quora.png
 ---
 

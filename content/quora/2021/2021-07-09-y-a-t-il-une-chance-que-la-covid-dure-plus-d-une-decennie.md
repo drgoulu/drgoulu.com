@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante-publique
-- predictions
 - pandemie
-- duree
-- crise-sanitaire
-- decennie
-- prevision
 - epidemiologie
-- pandemie-de-covid19
+- predictions
+- duree
 coverImage: ./images/quora.png
 ---
 

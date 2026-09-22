@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- etats-unis
+- ameriques
 - elections
-- donald-trump
 - preuve
-- joe-biden-homme-politique
-- politique-americaine
-- allegations-de-fraude-electorale-de-2020
-- elections-aux-etats-unis-d-amerique
-- fraude-electorale
+- donald-trump
 coverImage: ./images/qimg-901ba5596be1b1a82de3a7fbc6e27667.gif
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- emploi
-- afrique
+- economie
 - developpement
-- marche-du-travail
-- opportunites
-- infrastructures
-- developpement-economique-et-social
-- opportunites-d-emploi
-- economie-en-afrique
-- marche-de-l-emploi
+- afrique
+- travail
+- emploi
 coverImage: ./images/quora.png
 ---
 

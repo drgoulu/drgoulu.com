@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- ressources-naturelles
-- nouvelles-technologies
+- sciences
+- technologies
 - materiaux
 - developpement-durable
-- terres-rares
-- industrie
-- ressources-planetaire
-- metaux-rares
-- technologie-durable
+- nouvelles-technologies
 coverImage: ./images/quora.png
 ---
 

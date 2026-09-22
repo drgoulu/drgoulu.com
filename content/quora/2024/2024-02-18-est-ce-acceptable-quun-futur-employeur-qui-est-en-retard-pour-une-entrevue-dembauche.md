@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- emplois
+- emploi
+- carriere
 - comportement-ethique
-- conseils-pour-les-entretiens-d-embauche
-- ponctualite
 - employeurs
-- emploi-et-carriere
-- entretiens-d-embauche
-- preparation-entretien-d-embauche
-- les-entretiens-dembauche
+- conseils-pour-les-entretiens-d-embauche
 coverImage: ./images/quora.png
 ---
 

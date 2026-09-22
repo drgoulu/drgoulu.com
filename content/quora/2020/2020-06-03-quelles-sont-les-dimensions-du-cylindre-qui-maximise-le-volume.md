@@ -8,13 +8,9 @@ categories:
 tags:
 - mathematiques
 - volume
-- cylindre-forme
 - optimisation
 - geometrie
 - dimensions
-- magnitude
-- volume-mathematiques
-- cylindre
 coverImage: ./images/quora.png
 ---
 

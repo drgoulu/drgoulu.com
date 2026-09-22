@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-navale
+- voile
+- navigation
 - vent
 - navigation-maritime
-- bateaux-et-vaisseaux
-- histoire-maritime
-- sciences-maritimes
-- tradition-maritime
-- bateaux-a-voile
-- navigation-traditionnelle
-- navigation-a-voile
+- bateaux
 coverImage: ./images/qimg-0d51dede96197da525a2ab3fe68df353.jpg
 ---
 

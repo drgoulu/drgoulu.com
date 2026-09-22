@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sciences-politiques
+- politique
+- france
+- systeme
+- sociologie
 - democratie
-- systeme-de-gouvernement
-- sociologie-politique
-- analyse-politique
-- referendums
-- science-politique
-- democratie-en-france
-- democratie-participative
-- systeme-gouvernemental
 coverImage: ./images/quora.png
 ---
 

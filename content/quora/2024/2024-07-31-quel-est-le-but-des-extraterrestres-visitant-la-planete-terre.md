@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- theories-du-complot
-- terre-planete
-- ovni
-- astrobiologie
+- terre
+- planetes
 - vie-extraterrestre
-- aliens
-- extraterrestres
-- rencontres-extra-terrestres
-- invasions-extraterrestres
-- theories-du-complot-specifiques
+- theories-du-complot
+- astrobiologie
 coverImage: ./images/quora.png
 ---
 

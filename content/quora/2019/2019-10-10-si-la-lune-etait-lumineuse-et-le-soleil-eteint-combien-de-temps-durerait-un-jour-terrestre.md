@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- physique
+- sciences
 - astronomie
-- sciences-de-la-nature
-- journee
-- lumiere-physique
-- le-soleil-astronomie
-- eclipse-solaire
-- duree
-- lune-astronomie
-- science-de-la-vie-et-de-la-terre
-- science-de-la-terre
+- terre
+- nature
 coverImage: ./images/quora.png
 ---
 

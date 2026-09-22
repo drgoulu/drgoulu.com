@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- question-existentielle
 - securite
-- blessures
-- saut-en-parachute
-- objets-hypothetiques
 - question-hypothetique
-- parachutes
-- situations-hypothetiques
+- question-existentielle
+- blessures
 coverImage: ./images/qimg-f10596bc06af51eea44137a5cdd9c26b.jpg
 ---
 

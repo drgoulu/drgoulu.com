@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - astronomie
-- horloges-atomiques
-- rotation-planetes
-- stabilite
-- mesure-du-temps
-- observation-des-astres
-- temps-physique
 - astrophysique
-- rotation-physique
+- planetes
+- temps
 coverImage: ./images/quora.png
 ---
 

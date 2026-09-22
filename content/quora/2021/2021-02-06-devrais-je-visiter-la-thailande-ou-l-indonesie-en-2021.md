@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - voyage-international
-- annees-2020
-- asie-du-sud-est
 - destinations-de-voyage
-- indonesie
-- conseils-pour-voyage-a-l-etranger
-- recommandations-de-voyage
-- destinations-de-reve
+- conseils
+- voyage
+- etrangers
 coverImage: ./images/quora.png
 ---
 

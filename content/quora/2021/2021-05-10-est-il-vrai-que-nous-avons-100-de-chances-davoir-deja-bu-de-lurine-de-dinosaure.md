@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- question-hypothetique
-- histoire-du-monde
-- faune
+- histoire
+- terre
+- monde
 - eau
-- paleontologie
-- cycles-naturels
-- urine
-- dinosaures
-- histoire-de-la-terre
 coverImage: ./images/quora.png
 ---
 

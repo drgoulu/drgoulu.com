@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - animaux
-- l-europe
+- europe
 - bien-etre-animal
-- legislation-europeenne
-- euthanasie-animale
-- protection-des-animaux
+- protection
 - politique-europeenne
-- sante-animale
-- soins-aux-animaux
-- droit-europeen
 coverImage: ./images/quora.png
 ---
 

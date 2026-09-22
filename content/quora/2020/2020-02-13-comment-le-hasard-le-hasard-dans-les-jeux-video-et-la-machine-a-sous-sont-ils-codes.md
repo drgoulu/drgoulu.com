@@ -7,13 +7,9 @@ categories:
 - Comment
 tags:
 - informatique
-- jeux-video
-- hasard-statistiques
-- machine-a-sous
-- probabilite
+- statistiques
 - algorithmes
 - sciences-informatiques
-- statistiques-et-probabilites
 - probabilite-statistiques
 coverImage: ./images/quora.png
 ---

@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - etre-humain
-- consommation-d-energie
+- consommation
+- energie
 - repos
-- sprints-sport
-- appareils
-- metabolisme-biochimie
-- marcher-activite
-- running
-- metabolisme-humain
 - consommation-energetique
 coverImage: ./images/quora.png
 ---

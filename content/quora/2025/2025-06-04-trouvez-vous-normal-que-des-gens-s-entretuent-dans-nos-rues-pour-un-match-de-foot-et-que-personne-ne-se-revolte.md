@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- securite-urbaine
-- liberte-personnelle
-- football
-- critique-sociale
 - securite
+- critique-sociale
+- liberte-personnelle
 - politique-sociale
-- vie-urbaine
-- insecurite
 coverImage: ./images/quora.png
 ---
 

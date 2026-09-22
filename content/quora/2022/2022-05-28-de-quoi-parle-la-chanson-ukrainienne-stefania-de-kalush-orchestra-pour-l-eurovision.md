@@ -9,12 +9,8 @@ tags:
 - culture
 - musique
 - ukraine
-- concours-eurovision-de-la-chanson
 - chanson
 - titre-de-chanson
-- paroles-de-chansons
-- eurovision
-- chansons
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- libre-arbitre
+- opinion
 - croyance
 - question-existentielle
-- determinisme
-- liberte
-- non-croyants
-- opinions-et-croyances
 - existence
-- pensee-philosophique
 coverImage: ./images/quora.png
 ---
 

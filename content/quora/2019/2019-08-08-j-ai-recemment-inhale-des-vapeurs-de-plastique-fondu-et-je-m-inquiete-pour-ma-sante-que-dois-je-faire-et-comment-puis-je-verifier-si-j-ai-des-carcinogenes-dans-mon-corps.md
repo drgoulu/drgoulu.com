@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - sante
+- questions
+- risques
+- conseils
 - plastique
-- toxicologie
-- cancerogenes
-- conseil-medical
-- risques-pour-la-sante
-- questions-de-sante
-- conseils-de-sante
-- cancerogene-chimique
 coverImage: ./images/quora.png
 ---
 

@@ -9,13 +9,8 @@ tags:
 - sciences
 - utilite
 - recherche-scientifique
-- disciplines
-- domaine-scientifique
-- usage
-- branches-des-sciences
 - recherche
 - etude-scientifique
-- utilitaire
 coverImage: ./images/quora.png
 ---
 

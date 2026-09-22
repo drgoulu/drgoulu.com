@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - astronomie
-- vitesse-de-rotation-de-la-terre
-- sciences-de-la-nature
-- terre-planete
-- position-geographie
-- forme-de-la-terre
-- orbite-de-la-terre
-- rotation-planetes
-- rotation-de-la-terre
+- terre
+- planetes
+- nature
 coverImage: ./images/qimg-45260bec49ce266bf291486b2f361e31.gif
 ---
 

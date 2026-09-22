@@ -8,11 +8,9 @@ categories:
 tags:
 - france
 - reacteurs-a-fusion
-- iter
-- electricite-de-france
-- prix-de-l-energie
-- reseaux-electriques
-- tarifs-d-electricite
+- electricite
+- prix
+- energie
 coverImage: ./images/quora.png
 ---
 

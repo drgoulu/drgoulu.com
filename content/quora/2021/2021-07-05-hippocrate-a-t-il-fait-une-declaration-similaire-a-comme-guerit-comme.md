@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- histoire
+- philosophie
 - medecine
-- personnalite
-- hippocrates
-- guerison
-- histoire-des-sciences
-- citation-academique
-- philosophie-des-sciences
-- personnages-historiques
-- medecins
-- histoire-de-la-medecine
+- personnalites
 coverImage: ./images/quora.png
 ---
 

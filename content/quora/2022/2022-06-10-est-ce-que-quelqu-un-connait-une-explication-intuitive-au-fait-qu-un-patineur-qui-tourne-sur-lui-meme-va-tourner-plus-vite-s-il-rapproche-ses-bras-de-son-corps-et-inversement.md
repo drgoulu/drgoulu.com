@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- explications-intuitives
-- patinage-sur-glace
-- mouvements
-- moment-angulaire-physique
-- mecanique-de-rotation
-- vitesse-physique
-- vitesse-de-rotation
-- patinage-artistique
-- moment-d-inertie-physique
+- vitesse
+- rotation
+- mecanique
+- mouvement
 coverImage: ./images/quora.png
 ---
 

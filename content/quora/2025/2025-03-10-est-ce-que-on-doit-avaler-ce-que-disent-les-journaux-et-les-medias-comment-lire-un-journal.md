@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- information
 - medias
+- journalisme
 - lecture
 - pensee-critique
-- information
-- journalisme
-- acces-a-l-information
-- presse-ecrite
-- medias-d-information
-- critique-mediatique
-- lecture-critique
 coverImage: ./images/quora.png
 ---
 

@@ -7,13 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- neutrinos
-- decouvertes-scientifiques
-- theorie-scientifique
-- theories-physiques
-- etude-scientifique
 - physique-theorique
-- demarche-scientifique
+- etude-scientifique
+- theorie-scientifique
+- decouvertes-scientifiques
 coverImage: ./images/quora.png
 ---
 

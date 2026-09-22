@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - biologie
-- fourmis
-- systematique-des-insectes
+- animaux
+- especes
 - zoologie
-- especes-de-fourmis
 - taxonomie
-- classification-biologique
-- entomologie
-- classification-des-animaux
 coverImage: ./images/qimg-07fb831f6351c1a1b838d2896f8010d6.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- psychologie
-- recherche-de-la-verite
-- epistemologie
-- comportement-humain
 - philosophie
-- nature-humaine
-- verite
-- psychologie-humaine
-- condition-humaine
-- la-nature-humaine
+- psychologie
+- recherche
+- comportement-humain
+- epistemologie
 coverImage: ./images/quora.png
 ---
 

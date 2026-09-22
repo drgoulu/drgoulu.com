@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- exploration-spatiale
 - espace
-- donnees-scientifiques
-- sondes-spatiales
-- images-spatiales
-- voyage-spatial
+- exploration-spatiale
 - science-spatiale
 - missions-spatiales
-- sonde-spatiale
 coverImage: ./images/quora.png
 ---
 

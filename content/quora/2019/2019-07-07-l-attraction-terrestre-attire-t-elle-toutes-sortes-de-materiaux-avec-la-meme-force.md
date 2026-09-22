@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- l-attraction-gravitationnelle
+- terre
+- chimie
 - gravite
-- masse-physique
-- constante-de-gravitation
-- matiere-physique
-- force-gravitationnelle
-- gravite-de-la-terre
-- physique-chimie
 coverImage: ./images/quora.png
 ---
 

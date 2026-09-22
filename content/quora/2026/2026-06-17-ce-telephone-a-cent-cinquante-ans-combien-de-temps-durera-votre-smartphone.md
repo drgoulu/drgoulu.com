@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- vie
+- innovation-technologique
+- duree
 - technologie-moderne
 - telephone-portable
-- innovation-technologique
-- duree-de-vie
-- smartphones
-- appareils-electroniques
-- obsolescence
-- electronique-grand-public
-- lobsolescence-programmee
 coverImage: ./images/qimg-930b7019479a0530d08da0eea81a3d0c.jpg
 ---
 

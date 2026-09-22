@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- tricheur
+- histoire
+- recherche
+- ethique
 - integrite
-- ethique-de-recherche
-- histoire-des-sciences
-- fausse-science
-- tricherie-etudiant
-- science-et-ethique
-- tricherie
-- histoire-de-la-science
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- le-soleil
 - astronomie
-- l-attraction-gravitationnelle
-- stabilite
-- systeme-solaire
-- gravitation
 - astrophysique
-- forces-gravitationnelles
+- systeme-solaire
+- soleil
 coverImage: ./images/quora.png
 ---
 

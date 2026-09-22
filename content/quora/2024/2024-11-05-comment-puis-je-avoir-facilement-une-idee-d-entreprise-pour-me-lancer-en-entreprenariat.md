@@ -7,13 +7,10 @@ categories:
 - Comment
 tags:
 - entrepreneuriat
-- idee-innovante
 - lancement-d-une-entreprise
-- modele-d-entreprise
-- conseils-pour-les-idees-de-startup
-- conseils-en-entrepreneuriat
-- idees-de-business
-- demarrer-une-entreprise
+- modele
+- entreprises
+- conseils
 coverImage: ./images/quora.png
 ---
 

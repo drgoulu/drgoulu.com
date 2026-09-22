@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
 - animaux
-- l-environnement
-- menaces
 - ecologie
-- especes-envahissantes
 - faune
-- danger-et-dangers
 - biodiversite
-- especes-menacees
 coverImage: ./images/quora.png
 ---
 

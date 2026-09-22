@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- or
-- conducteurs-electriques
-- metaux
 - proprietes
-- conductivite
-- le-courant-electrique
+- or
 - proprietes-physiques
+- metaux
 coverImage: ./images/quora.png
 ---
 

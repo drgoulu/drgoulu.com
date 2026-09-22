@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- experience
 - sciences
-- pile-electrique
-- electrochimie
+- energie
+- experience
 - electricite
-- science-experimentale
-- energie-physique
-- experiences-scientifiques
 coverImage: ./images/quora.png
 ---
 

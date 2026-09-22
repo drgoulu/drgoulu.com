@@ -9,12 +9,7 @@ tags:
 - perception
 - sciences-cognitives
 - son
-- phonetique-acoustique
 - localisation
-- spatialisation-du-son
-- sensibilite-auditive
-- science-de-sonorisation
-- la-neuroscience-cognitive
 - acoustique
 coverImage: ./images/qimg-aa17d5cae6ccdc2238921f1bab233277.png
 ---

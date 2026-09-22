@@ -7,14 +7,9 @@ categories:
 - Comment
 tags:
 - histoire
-- christiannisme
-- adam-et-eve-personnages-bibliques
 - religion
-- anthropologie
-- couleur-de-la-peau
-- la-bible
 - evolution-humaine
-- diversite
+- anthropologie
 - origines-humaines
 coverImage: ./images/quora.png
 ---

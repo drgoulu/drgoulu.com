@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- responsabilite
-- financement
-- democratie
-- cout
+- politique
 - loi
-- depenses-publiques
-- deputes
-- finances-publiques
-- depenses
-- responsabilite-politique
+- democratie
+- responsabilite
+- cout
 coverImage: ./images/quora.png
 ---
 

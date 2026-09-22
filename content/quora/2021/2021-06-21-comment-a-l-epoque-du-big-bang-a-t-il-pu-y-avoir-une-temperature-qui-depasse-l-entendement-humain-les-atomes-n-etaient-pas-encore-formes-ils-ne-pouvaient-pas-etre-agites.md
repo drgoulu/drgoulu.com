@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- univers-en-expansion
-- cosmologie
-- atomes
-- temperatures
 - astrophysique
-- origine-de-l-univers
+- univers
+- cosmologie
 - physique-theorique
-- cosmologie-du-big-bang
 coverImage: ./images/qimg-e68dc0ec9af4167160da1a67c796a92f.gif
 ---
 

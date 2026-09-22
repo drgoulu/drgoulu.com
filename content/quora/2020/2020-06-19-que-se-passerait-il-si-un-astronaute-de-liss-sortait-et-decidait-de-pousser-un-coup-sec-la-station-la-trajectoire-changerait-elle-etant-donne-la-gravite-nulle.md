@@ -9,13 +9,8 @@ tags:
 - physique
 - espace
 - exploration-spatiale
-- astronautes
-- trajectoire
-- gravite
-- station-spatiale-internationale
-- astronautique
 - science-spatiale
-- missions-spatiales
+- gravite
 coverImage: ./images/quora.png
 ---
 

@@ -8,12 +8,9 @@ categories:
 tags:
 - mathematiques
 - musique
-- noms-propres
+- annee
 - millenaire
-- chanteur
-- chansons
-- annees
-- chanson-francaise
+- chanson
 coverImage: ./images/quora.png
 ---
 

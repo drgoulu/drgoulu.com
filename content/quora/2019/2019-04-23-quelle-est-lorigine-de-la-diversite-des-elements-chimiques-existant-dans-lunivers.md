@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - astronomie
-- l-univers
-- elements-chimie
-- chimie
-- fusion-des-elements-chimiques
 - astrophysique
-- elements-naturels
-- chimie-nucleaire
-- astrophysique-theorique
+- univers
+- chimie
 - elements-chimiques
 coverImage: ./images/qimg-692ac5563f4790c63ba4a5558486c3ba.jpg
 ---

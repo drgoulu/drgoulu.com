@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- terre-planete
-- recherche-scientifique
+- sciences
 - astronomie
-- masse-atomique
-- sciences-de-la-nature
-- gravite-de-la-terre
-- formules-scientifiques
-- la-science-de-la-terre
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

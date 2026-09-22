@@ -8,13 +8,8 @@ categories:
 tags:
 - physique
 - sciences
-- effet-papillon
-- theorie-de-la-complexite
-- explications
-- demonstrations-scientifiques
-- raison-scientifique
+- theorie
 - physique-theorique
-- theorie-du-chaos
 - explications-scientifiques
 coverImage: ./images/qimg-d15ce48e9ee841cc5e49d41db4d440b9.gif
 ---

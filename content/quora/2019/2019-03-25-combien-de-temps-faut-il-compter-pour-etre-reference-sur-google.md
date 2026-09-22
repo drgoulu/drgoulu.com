@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- google
-- referencement
-- optimisation-pour-les-moteurs-de-recherche-seo
-- temps-de-reaction
-- seo
-- algorithme-de-recherche
-- chercher-sur-google
-- search-engine-optimization-seo
-- systeme-de-reference
-- referencement-seo
+- temps
+- recherche
+- systeme
+- algorithmes
+- reaction
 coverImage: ./images/quora.png
 ---
 

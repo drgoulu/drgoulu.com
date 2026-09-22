@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- innovation
-- creativite
-- histoire-des-inventions
-- idees
-- progres-scientifique
+- histoire
+- technologies
 - creation
-- invention-et-inventions
-- inventeurs
-- l-histoire-de-la-technologie
-- idees-creatives
+- invention
+- innovation
 coverImage: ./images/quora.png
 ---
 

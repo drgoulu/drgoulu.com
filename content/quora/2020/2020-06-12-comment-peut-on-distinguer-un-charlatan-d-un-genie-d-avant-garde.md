@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - philosophie
-- l-avant-garde
 - histoire
-- charlatanisme
-- arts
+- art
 - genie
-- distinction
-- avant-garde-artistique
-- philosophie-et-science
+- sciences
 coverImage: ./images/quora.png
 ---
 

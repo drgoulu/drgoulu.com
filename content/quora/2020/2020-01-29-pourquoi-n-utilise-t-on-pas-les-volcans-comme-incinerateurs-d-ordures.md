@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
+- terre
 - risques
-- science-de-la-terre
-- volcans
-- recyclage-des-dechets
-- incineration
 - dangers-naturels
-- sciences-de-la-terre
-- elimination-des-dechets
-- traitement-des-dechets
+- recyclage
 coverImage: ./images/quora.png
 ---
 

@@ -7,13 +7,8 @@ categories:
 - Comment
 tags:
 - comportement-animal
-- proie
-- lions
-- superpredateurs
 - chaines-alimentaires
 - animaux-sauvages
-- predation
-- proie-animaux
 - vie-sauvage
 - faune-sauvage
 coverImage: ./images/quora.png

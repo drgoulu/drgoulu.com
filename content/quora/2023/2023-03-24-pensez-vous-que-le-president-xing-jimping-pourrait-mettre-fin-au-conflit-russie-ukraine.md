@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - relations-internationales
-- xi-jinping
-- conflit-entre-la-russie-et-l-ukraine-2014-16
-- presidents-de-la-chine
-- guerre-russie-ukraine
-- diplomatie-et-diplomates
-- president
-- relations-russo-ukrainiennes
 - politique-internationale
+- chine
+- president
 - politique-mondiale
 coverImage: ./images/quora.png
 ---

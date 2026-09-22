@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- hypotheses
-- influence-de-la-lune-sur-la-terre
-- terre-planete
-- phenomenes-naturels
-- systeme-solaire
-- lune-astronomie
-- relation-terre-lune
-- science-de-la-nature
-- scenarios-scientifiques-hypothetiques
+- terre
+- planetes
+- nature
 coverImage: ./images/quora.png
 ---
 

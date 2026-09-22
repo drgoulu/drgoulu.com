@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- electricite
+- energie
 - energie-renouvelable
-- consommation-d-energie
-- panneaux-solaires
-- energie-solaire
+- electricite
+- consommation
 - energie-alternative
-- stockage-d-energie
-- energie-potentielle
-- energie-libre
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- education
-- asie
+- monde
 - anthropologie
-- controverses
-- l-europe
-- races-humaines
+- education
 - afrique
-- histoire-du-monde
 coverImage: ./images/quora.png
 ---
 

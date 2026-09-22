@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - france
-- personnalite
 - question-hypothetique
-- donald-trump
-- reaction
-- comparaison
-- president-des-etats-unis
-- hypothese-de-simulation
-- president
+- etats-unis
+- comparaisons
+- hypotheses
 coverImage: ./images/quora.png
 ---
 

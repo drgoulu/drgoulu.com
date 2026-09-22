@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
+- sciences
+- terre
+- nature
 - geographie
-- mesure
-- systeme-de-reference
-- sciences-de-la-nature
-- coordonnees
-- longitude
-- cartes-geographiques
-- systeme-de-coordonnees-geographiques
-- geographie-physique
-- sciences-de-la-terre
 coverImage: ./images/quora.png
 ---
 

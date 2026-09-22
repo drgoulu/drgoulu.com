@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- mortalite
-- armes
-- danger
-- balle-projectile
-- fusils-de-sniper
-- puissance
 - risques
-- arme-mortelle
-- danger-mortel
-- armes-a-feu
+- mortalite
+- puissance
+- dangers
+- armes
 coverImage: ./images/quora.png
 ---
 

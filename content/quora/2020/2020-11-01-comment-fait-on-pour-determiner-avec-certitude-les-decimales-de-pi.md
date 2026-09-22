@@ -8,14 +8,9 @@ categories:
 tags:
 - mathematiques
 - nombres
-- pi
-- decimales
+- geometrie
 - calcul
-- representation-decimale-de-pi
-- geometrie-des-cercles
-- nombres-irrationnels
-- le-nombre-pi
-- calcul-mathematique
+- pi
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- corps-celestes
-- geantes-gazeuses
-- systeme-solaire
-- exoplanetes
-- science-spatiale
 - astrophysique
-- planetes-du-systeme-solaire
-- planetes-astronomie
+- planetes
+- systeme-solaire
+- science-spatiale
 coverImage: ./images/qimg-e80db3d150d95cebb9470e1971c6ffe9.jpg
 ---
 

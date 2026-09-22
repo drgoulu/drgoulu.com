@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sante
 - covid-19-2019-2020
-- sante-et-securite-publiques
-- epidemiologie
-- saisons
 - virus
-- mutation-et-mutations-genetique
-- maladies-virales
 - virologie
-- covid-19-coronavirus
-- mutation-des-virus
+- epidemiologie
 coverImage: ./images/quora.png
 ---
 

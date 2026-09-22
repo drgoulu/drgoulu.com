@@ -9,9 +9,7 @@ tags:
 - education
 - suisse
 - ecole-polytechnique-federale-de-lausanne
-- conditions-d-admission
 - admissions-a-l-universite-et-dans-des-ecoles
-- baccalaureat-france
 - enseignement-superieur
 coverImage: ./images/quora.png
 ---

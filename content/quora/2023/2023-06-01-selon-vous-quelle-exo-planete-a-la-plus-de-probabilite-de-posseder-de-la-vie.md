@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- sciences-de-la-vie
+- vie
+- nature
 - exploration-spatiale
-- planetes-habitables
-- vie-extraterrestre
-- sciences-de-la-nature
-- exoplanetes
-- astrobiologie
-- habitabilite-planetaire
 coverImage: ./images/quora.png
 ---
 

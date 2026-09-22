@@ -8,12 +8,7 @@ categories:
 tags:
 - physique
 - sciences
-- comprehension-de-lecture
-- le-vide-quantique
-- wikipedia
-- mecanique-quantique
 - physique-theorique
-- comprehension
 - physique-mathematique
 - physique-quantique
 coverImage: ./images/quora.png

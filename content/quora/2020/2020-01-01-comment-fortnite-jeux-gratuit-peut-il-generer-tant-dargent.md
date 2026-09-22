@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - jeux-video
-- monetisation
 - modele-economique
 - microtransaction
 - fortnite-jeu-video
-- industrie-du-jeu-video
-- jeux-gratuits
 - jeux-en-ligne
-- economie-des-jeux-videos
-- jeux-video-gratuits
 coverImage: ./images/quora.png
 ---
 

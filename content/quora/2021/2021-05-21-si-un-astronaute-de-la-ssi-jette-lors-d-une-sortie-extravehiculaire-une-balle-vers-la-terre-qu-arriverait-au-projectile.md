@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espace
-- station-spatiale-internationale
-- astronautes
 - astronomie
 - terre
-- mouvement-d-un-projectile
+- espace
 - gravite
-- projectiles
-- astronautique
 coverImage: ./images/quora.png
 ---
 

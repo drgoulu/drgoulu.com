@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- personnalite
-- ray-dalio-philanthrope
+- sciences
+- technologies
 - nouvelles-technologies
-- confiance
 - intelligence-artificielle
-- sciences-informatiques
-- science-des-donnees
-- la-technologie
+- personnalites
 coverImage: ./images/qimg-b9aee4f730f23a51bb9228f82bc76660.jpg
 ---
 

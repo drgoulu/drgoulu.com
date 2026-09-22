@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- question-de-sondage
-- calcul
+- questions
 - statistiques
-- population-mondiale
-- date-de-naissance
 - demographie
+- calcul
 - probabilite-statistiques
-- questions-curieuses
-- jour-de-naissance
-- demographie-mondiale
 coverImage: ./images/quora.png
 ---
 

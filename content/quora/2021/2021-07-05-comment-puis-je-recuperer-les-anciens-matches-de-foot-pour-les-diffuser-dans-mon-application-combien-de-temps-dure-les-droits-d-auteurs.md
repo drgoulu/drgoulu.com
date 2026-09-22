@@ -7,16 +7,11 @@ categories:
 - Comment
 - Combien
 tags:
-- applications-mobiles
-- football
+- droit
+- gestion
+- contenu
 - droit-dauteur
-- diffusion
-- gestion-de-contenu
-- diffusion-de-programmes
-- match-de-football
-- reseaux-de-diffusion-de-contenu
-- application-mobile
-- droits-d-auteur
+- auteurs
 coverImage: ./images/quora.png
 ---
 

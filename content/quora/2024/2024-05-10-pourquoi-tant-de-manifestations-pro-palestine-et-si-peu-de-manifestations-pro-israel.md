@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - opinion-publique
-- conflit-israelo-palestinien
 - politique-internationale
-- manifestations
-- palestine
-- mouvements-sociaux
 - israel
-- palestiniens
+- conflit-israelo-palestinien
+- palestine
 coverImage: ./images/quora.png
 ---
 

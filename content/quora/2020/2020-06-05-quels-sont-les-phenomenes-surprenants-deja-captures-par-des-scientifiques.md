@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- faits-surprenants
 - recherche-scientifique
-- phenomenes
+- etude-scientifique
 - decouvertes-scientifiques
-- observation-scientifique
-- etudes-scientifiques
-- faits-scientifiques
 - phenomenes-naturels
-- recherches-scientifiques
 coverImage: ./images/qimg-43bf49ecfa93f98b5c002b428b3cfbc7.jpg
 ---
 

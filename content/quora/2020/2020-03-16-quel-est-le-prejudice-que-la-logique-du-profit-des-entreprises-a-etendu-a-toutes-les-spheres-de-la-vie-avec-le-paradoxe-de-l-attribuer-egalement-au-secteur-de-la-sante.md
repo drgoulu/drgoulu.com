@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- prejuge
-- entreprises
 - droit
-- paradoxes
+- entreprises
 - logique
-- ethique-medicale
-- industrie-de-la-sante
-- secteur-de-sante
+- industrie
 coverImage: ./images/quora.png
 ---
 

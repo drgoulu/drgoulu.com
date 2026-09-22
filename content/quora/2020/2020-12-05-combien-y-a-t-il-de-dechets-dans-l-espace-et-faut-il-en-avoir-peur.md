@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - espace
-- risque-technologique
-- l-environnement
-- science-et-technologie
-- debris-spatiaux
-- physique-spatiale
-- pollution-en-orbite-terrestre
+- environnement
+- technologies
 - missions-spatiales
-- programmes-spatiaux
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - societe
-- biais-d-autorites
-- revitalisation
-- historiens
 - democratie
-- faire-confiance-aux-autres
 - scientifiques
-- confiance-dans-les-conseils
-- avoir-confiance-dans-les-institutions
-- gagner-la-confiance
+- confiance
+- conseils
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
 - biologie
-- cortex-cerebral
-- intelligence-animale
-- neurologie
-- comparaison-des-animaux
-- evolution-biologie
-- neurones
-- anatomie-animale
+- animaux
+- comparaisons
 - zoologie
-- neurobiologie
 coverImage: ./images/qimg-973372f5b61b8aedaf330af7db901a09.png
 ---
 

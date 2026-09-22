@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
 - biologie
-- hommes
-- fecondite
-- evolution-processus
-- especes
-- deplacement-physique
-- speciation
+- processus
 - evolution-humaine
-- espece-humaine
-- evolution-biologie
+- especes
 coverImage: ./images/quora.png
 ---
 

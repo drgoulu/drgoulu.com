@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- le-soleil
-- fin-de-vie
-- sciences-de-la-nature
-- mort-thermique-de-l-univers
-- systeme-solaire
-- planete-terre
-- evolution-stellaire
 - astrophysique
-- sciences-de-la-terre
+- terre
+- nature
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - evolution
-- neurologie
-- sciences-cognitives
-- cerveau-humain
 - evolution-humaine
-- theorie-de-l-esprit
-- anatomie-neuronale
-- structures-cerebrales
-- neurobiologie
-- neurophysiologie
+- sciences-cognitives
+- neurologie
+- cerveau-humain
 coverImage: ./images/quora.png
 ---
 

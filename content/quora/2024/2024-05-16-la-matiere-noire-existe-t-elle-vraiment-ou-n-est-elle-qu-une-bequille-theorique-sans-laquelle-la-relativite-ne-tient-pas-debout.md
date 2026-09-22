@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
+- sciences
 - astronomie
-- matiere-noire
-- philosophie-des-sciences
-- relativite-physique
-- theorie
-- cosmologie
+- philosophie
 - astrophysique
-- physique-theorique
-- cosmologie-physique
 coverImage: ./images/quora.png
 ---
 

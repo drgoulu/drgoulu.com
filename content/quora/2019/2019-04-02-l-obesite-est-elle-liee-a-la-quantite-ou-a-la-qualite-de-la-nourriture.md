@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - sante
 - alimentation
-- quantites
 - nutrition
-- obesite
-- qualite-des-aliments
-- sciences-de-la-nutrition
-- sante-et-nutrition
-- alimentation-et-dietetique
-- science-alimentaire
+- qualite
 coverImage: ./images/quora.png
 ---
 

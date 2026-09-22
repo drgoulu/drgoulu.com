@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - reflexions-philosophiques
-- simone-veil
-- juif
 - exil
 - histoire-juive
-- citations-celebres
 - culture-juive
-- juif-ethnie
 - religion-juive
-- tradition-juive
 coverImage: ./images/quora.png
 ---
 

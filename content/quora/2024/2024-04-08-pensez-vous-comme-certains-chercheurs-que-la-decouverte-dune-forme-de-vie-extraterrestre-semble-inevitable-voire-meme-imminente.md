@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- opinion-personnelle
-- astrobiologie
+- philosophie
+- vie
+- recherche-scientifique
 - opinion
 - question-hypothetique
-- recherche-scientifique
-- philosophie-de-la-vie
-- rencontre-extraterrestre
-- vie-extraterrestre
-- curiosite-scientifique
-- decouvertes-scientifiques
 coverImage: ./images/quora.png
 ---
 

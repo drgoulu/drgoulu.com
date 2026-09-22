@@ -9,13 +9,8 @@ tags:
 - mathematiques
 - youtube
 - organisation
-- videos-explicatives
-- hasard-statistiques
-- chaines-educatives-youtube
 - probabilite-statistiques
-- youtubers
-- philosophie-des-mathematiques
-- education-mathematique
+- philosophie
 coverImage: ./images/quora.png
 ---
 

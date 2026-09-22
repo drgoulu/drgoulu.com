@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- question-existentielle
-- sens-de-la-vie
+- vie
+- psychologie
 - recherche
-- metaphysique
-- question-philosophique
-- problemes-existentiels
-- philosophie-et-psychologie
-- la-philosophie
-- questions-existentielles
+- question-existentielle
 coverImage: ./images/quora.png
 ---
 

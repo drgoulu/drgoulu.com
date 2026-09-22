@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- jeune
-- medecine-de-complement-et-alternative
-- cancer
-- prevention-du-cancer
-- recherche-medicale
 - medecine
-- traitement-du-cancer
-- medecine-naturelle
+- recherche-medicale
+- cancer
+- traitements
 coverImage: ./images/quora.png
 ---
 

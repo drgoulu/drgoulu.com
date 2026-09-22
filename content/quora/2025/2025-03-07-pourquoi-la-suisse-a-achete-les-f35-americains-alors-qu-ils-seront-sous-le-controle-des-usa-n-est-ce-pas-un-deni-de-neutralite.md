@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- politique-etrangere
-- lockheed-martin-f-35-lightning-ii
-- suisse-pays
-- aviation-de-chasse
-- questions-relatives-aux-f-35
-- neutralite-politique-et-militaire
 - suisse
-- aviation-militaire
+- aviation
+- politique-etrangere
+- neutralite-politique-et-militaire
+- chasse
 coverImage: ./images/quora.png
 ---
 

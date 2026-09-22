@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- reflexion
 - mathematiques
-- capacites-intellectuelles
-- jeux-de-reflexion
-- logique
-- problemes-mathematiques
-- jeux-de-logique
-- enigmes-mathematiques
-- logique-mathematiques
-- questions-de-mathematiques
+- questions
+- jeux
+- probleme
+- reflexion
 coverImage: ./images/quora.png
 ---
 

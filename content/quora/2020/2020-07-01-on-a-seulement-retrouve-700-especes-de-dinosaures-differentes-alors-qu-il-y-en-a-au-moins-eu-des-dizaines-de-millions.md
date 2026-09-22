@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-du-monde
-- dinosaures
+- histoire
 - evolution
-- hominides
-- paleoanthropologie
-- especes-eteintes
-- origines-humaines
-- extinction-des-especes
-- fossiles
-- paleontologie
+- monde
+- especes
+- extinction
 coverImage: ./images/quora.png
 ---
 

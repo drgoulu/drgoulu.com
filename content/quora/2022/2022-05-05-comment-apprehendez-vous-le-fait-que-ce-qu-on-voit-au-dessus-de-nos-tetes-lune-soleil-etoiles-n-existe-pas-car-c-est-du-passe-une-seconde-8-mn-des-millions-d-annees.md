@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- philosophie
-- le-soleil
-- etoiles-corps-celestes
-- perception
-- vitesse-de-la-lumiere
-- lune-astronomie
-- temps-physique
+- physique
+- sciences
 - astronomie
-- perception-du-temps
-- philosophie-des-sciences
+- philosophie
+- temps
 coverImage: ./images/quora.png
 ---
 

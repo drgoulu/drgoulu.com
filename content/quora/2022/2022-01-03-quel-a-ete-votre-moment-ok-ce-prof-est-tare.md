@@ -8,14 +8,9 @@ categories:
 tags:
 - education
 - experiences-personnelles
-- comportement-irritant
-- moment-etrange
 - anecdotes
-- enseignant
-- experiences
+- experience
 - enseignement
-- educateurs
-- enseignants
 coverImage: ./images/quora.png
 ---
 

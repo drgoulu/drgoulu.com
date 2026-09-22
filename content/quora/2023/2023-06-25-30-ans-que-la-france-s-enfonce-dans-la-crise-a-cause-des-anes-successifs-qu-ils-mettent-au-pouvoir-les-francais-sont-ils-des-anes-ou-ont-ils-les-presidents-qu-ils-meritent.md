@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - france
 - opinion-publique
-- politique-francaise
-- elections-presidentielles
 - democratie
-- presidents-francais
-- discussions-politiques
-- analyse-politique
-- elections-en-france
-- vie-politique-francaise
+- elections
 coverImage: ./images/quora.png
 ---
 

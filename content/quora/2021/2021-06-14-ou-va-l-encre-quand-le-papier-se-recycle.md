@@ -8,14 +8,9 @@ categories:
 tags:
 - recyclage
 - dechets
-- encre
-- matieres-premieres
-- industries-graphiques
-- papier-a-ecrire
-- cartouche-d-encre
-- fabrication-de-papier
-- recyclage-des-contenus
-- matieres
+- fabrication
+- contenu
+- matiere
 coverImage: ./images/quora.png
 ---
 

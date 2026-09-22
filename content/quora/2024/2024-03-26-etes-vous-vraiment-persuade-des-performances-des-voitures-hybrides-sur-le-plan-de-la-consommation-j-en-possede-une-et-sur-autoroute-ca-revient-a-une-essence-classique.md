@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- voitures-et-automobiles
-- consommation-denergie
-- technique-automobile
-- autoroutes
-- moteurs-hybrides
-- voitures-a-essence
+- consommation
+- voitures
 - technologie-automobile
-- consommation-de-carburant
-- vehicules-hybrides
-- voitures-hybrides
+- automobile
+- essence
 coverImage: ./images/quora.png
 ---
 

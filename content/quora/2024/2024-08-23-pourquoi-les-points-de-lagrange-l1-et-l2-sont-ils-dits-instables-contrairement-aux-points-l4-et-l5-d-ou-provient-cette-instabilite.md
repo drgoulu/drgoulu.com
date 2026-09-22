@@ -7,12 +7,8 @@ categories:
 - Pourquoi
 tags:
 - physique
-- l2
 - astronomie
-- l-attraction-gravitationnelle
-- stabilite
-- mecanique-celeste
-- mecanique-de-lagrange
+- attraction-gravitationnelle
 - physique-theorique
 - force-gravitationnelle
 coverImage: ./images/qimg-ad5a34f75e7b5ed88c067d7cd20f7acf.jpg

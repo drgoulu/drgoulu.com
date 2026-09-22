@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- programmation
+- langage
 - developpement-web
-- langages-de-programmation
 - programmation-web
-- conception-de-site-web
-- apprendre-la-programmation
-- creation-sites-internet
-- langages-de-programmation-web
-- creer-des-sites-web
-- apprendre-les-langages-de-programmation
+- conception
 coverImage: ./images/quora.png
 ---
 

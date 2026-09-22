@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - relations-internationales
+- politique-internationale
+- pays
 - palestine
 - conflit-israelo-palestinien
-- pays-du-moyen-orient
-- migration-humaine
-- geopolitique
-- refugies
-- les-pays-arabes
-- politique-internationale
-- palestiniens
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- changement-climatique
-- responsabilite
-- l-environnement
-- ecologie
-- actions-humaines
 - environnement
+- changement-climatique
 - rechauffement-climatique
+- ecologie
 - ecologisme
-- le-rechauffement-climatique
-- responsabilite-personnelle
 coverImage: ./images/quora.png
 ---
 

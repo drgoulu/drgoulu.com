@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- blagues
-- culture-populaire
+- politique
 - humour
+- culture-populaire
 - union-sovietique
-- histoire-du-communisme
-- culture-russe
-- humour-politique
-- culture-generale
-- histoire-de-l-union-sovietique
 coverImage: ./images/quora.png
 ---
 

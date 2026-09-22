@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- eau
-- sciences-de-la-nature
-- planetes-specifiques-du-systeme-solaire
-- systeme-solaire
 - astrophysique
-- planetes-habitables
-- astrobiologie
-- planetes-du-systeme-solaire
+- planetes
+- nature
 coverImage: ./images/quora.png
 ---
 

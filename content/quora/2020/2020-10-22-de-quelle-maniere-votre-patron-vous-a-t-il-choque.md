@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-de-sondage
-- experiences
-- travail-emploi
-- choc-surprise
-- patrons
-- relations-professionnelles
+- questions
 - experience
-- experience-personnelle
-- question-d-enquete
-- relations-de-travail
+- sondages
+- experiences-personnelles
+- travail-emploi
 coverImage: ./images/quora.png
 ---
 

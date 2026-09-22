@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- corps-humains
 - biologie
-- temperatures
-- virus
-- maladies-infectieuses
-- virologie
 - biologie-humaine
-- microbiologie
+- virus
+- temperatures
 coverImage: ./images/quora.png
 ---
 

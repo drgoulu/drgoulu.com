@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - religion
-- histoire-du-peuple-juif
 - jesus
-- messianisme
 - judaisme
-- histoire-des-religions
-- judaisme-messianique
 - jesus-christ
-- histoire-juive
 coverImage: ./images/quora.png
 ---
 

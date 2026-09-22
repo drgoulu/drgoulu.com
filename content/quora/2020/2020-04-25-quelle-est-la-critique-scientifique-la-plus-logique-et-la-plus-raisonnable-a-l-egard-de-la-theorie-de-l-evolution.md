@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- evolution-processus
+- evolution
 - biologie
-- critique
-- theorie-de-l-evolution
-- sciences-de-la-vie
-- evolution-biologique-des-especes
-- theorie-scientifique
-- evolution-biologie
-- biologie-de-l-evolution
+- theorie
+- vie
 coverImage: ./images/quora.png
 ---
 

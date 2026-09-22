@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- la-creation-de-l-univers
-- religion
 - sciences
-- theologie
+- philosophie
+- univers
 - cosmologie
-- science-et-religion
-- philosophie-des-sciences
-- origine-de-l-univers
-- creation-de-l-univers
+- religion
 coverImage: ./images/quora.png
 ---
 

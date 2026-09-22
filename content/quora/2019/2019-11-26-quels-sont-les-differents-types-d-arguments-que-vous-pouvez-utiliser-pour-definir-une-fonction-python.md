@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- langages-de-programmation
+- programmation
+- langage
+- python
 - developpement-logiciel
-- arguments-et-argumentation
-- fonctions
 - python-langage-de-programmation
-- programmation-en-python
-- fonctions-general
-- langage-de-programmation
 coverImage: ./images/quora.png
 ---
 

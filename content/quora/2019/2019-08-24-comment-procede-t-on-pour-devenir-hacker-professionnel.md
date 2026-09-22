@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- securite-informatique
+- informatique
+- securite
 - formation
-- carriere-professionnelle
-- cybercriminalite
-- ethical-hacking
-- professionnel
-- piratage-informatique
 - cybersecurite
-- hackers-ethiques
-- piratage-informatique-securite
+- carriere-professionnelle
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- risque-et-risques
+- physique-theorique
 - energie-nucleaire
-- physique-nucleaire-et-physique-theorique
-- reacteurs-a-fusion
 - risques
+- risque-et-risques
 - sciences-nucleaires
-- industrie-nucleaire
-- la-physique-nucleaire
-- radiation-nucleaire
 coverImage: ./images/quora.png
 ---
 

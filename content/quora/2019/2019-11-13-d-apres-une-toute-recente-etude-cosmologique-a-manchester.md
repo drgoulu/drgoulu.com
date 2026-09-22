@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- universite-de-manchester
-- modeles-cosmologiques
-- l-univers
-- cosmologie
 - astrophysique
-- origine-de-l-univers
+- univers
+- cosmologie
 - physique-theorique
-- manchester-royaume-uni
-- the-university-of-manchester-royaume-uni
 coverImage: ./images/quora.png
 ---
 

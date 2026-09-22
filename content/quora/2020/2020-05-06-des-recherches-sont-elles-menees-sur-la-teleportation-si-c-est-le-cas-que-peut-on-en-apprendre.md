@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- science-fiction-genre
-- teleportation-quantique
-- recherche-scientifique
 - theorie
-- la-teleportation
 - physique-theorique
-- decouvertes-scientifiques
-- theorie-scientifique
+- recherche-scientifique
 - etude-scientifique
 coverImage: ./images/quora.png
 ---

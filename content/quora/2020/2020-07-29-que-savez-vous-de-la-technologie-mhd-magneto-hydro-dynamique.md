@@ -9,12 +9,8 @@ tags:
 - physique
 - sciences
 - ingenierie
-- magnetohydrodynamique
-- energie-physique
-- force-magnetique
+- energie
 - physique-mathematique
-- hydrodynamique
-- flux-magnetique
 coverImage: ./images/quora.png
 ---
 

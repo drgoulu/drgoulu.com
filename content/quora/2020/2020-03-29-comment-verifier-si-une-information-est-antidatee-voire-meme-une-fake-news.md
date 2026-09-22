@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - internet
+- information
 - medias
 - verification
 - journalisme
-- fake-news
-- la-desinformation
-- information
-- medias-d-information
-- verification-des-faits
 coverImage: ./images/quora.png
 ---
 

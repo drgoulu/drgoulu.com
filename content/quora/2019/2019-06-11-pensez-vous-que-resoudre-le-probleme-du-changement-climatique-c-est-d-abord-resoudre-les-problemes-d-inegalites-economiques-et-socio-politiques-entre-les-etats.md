@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - philosophie
-- inegalites-de-revenu
+- changement-climatique
 - relations-internationales
 - developpement-durable
-- justice-sociale
-- changement-climatique
-- economie-politique-internationale
-- inegalites-sociales
 - politique-internationale
 coverImage: ./images/qimg-9030402f626ed7ce6eaf26911b6dbc0f.png
 ---

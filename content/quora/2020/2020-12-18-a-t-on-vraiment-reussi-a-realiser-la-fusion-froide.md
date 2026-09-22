@@ -9,9 +9,8 @@ tags:
 - sciences
 - energie
 - recherche-scientifique
-- science-physique
+- physique
 - recherche
-- energie-physique
 coverImage: ./images/quora.png
 ---
 

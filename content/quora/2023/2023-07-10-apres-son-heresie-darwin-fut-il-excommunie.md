@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- histoire
+- evolution
+- theorie
 - religion
-- histoire-des-sciences
-- charles-darwin
-- heresie
-- christianisme
-- excommunication
-- theorie-de-l-evolution
-- darwinisme
-- science-et-religion
-- catholicisme
 coverImage: ./images/quora.png
 ---
 

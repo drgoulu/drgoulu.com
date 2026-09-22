@@ -9,10 +9,7 @@ tags:
 - physique
 - recherche-scientifique
 - astronomie
-- detection-de-collision
-- astrophysique-relativiste
 - astrophysique
-- astronomie-et-astrophysique
 - etude-scientifique
 coverImage: ./images/quora.png
 ---

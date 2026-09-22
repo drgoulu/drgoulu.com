@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- amedeo-avogadro
 - chimie
-- histoire-des-sciences
-- science-physique
+- histoire
+- physique
 - numero-d-avogadro
-- chimie-physique
-- histoire-de-la-science
 coverImage: ./images/qimg-0648098d423573646971f0155d785849.png
 ---
 

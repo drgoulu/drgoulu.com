@@ -9,13 +9,8 @@ tags:
 - reflexion
 - perspective-personnelle
 - succes
-- travailler-dur
-- philosophie-de-la-vie
-- connaissance-de-soi
-- developpement-personel
-- reflexions-personnelles
-- auto-reflexion
-- pensees-personnelles
+- philosophie
+- vie
 coverImage: ./images/quora.png
 ---
 

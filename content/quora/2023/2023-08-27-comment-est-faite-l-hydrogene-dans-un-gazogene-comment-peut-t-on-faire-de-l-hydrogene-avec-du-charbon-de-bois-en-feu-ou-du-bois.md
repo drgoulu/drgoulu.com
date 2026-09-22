@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- science-et-technologie
-- bois
-- combustion
-- energie-physique
-- chimie
-- charbon-de-bois
-- hydrogene
-- production-d-energie
+- physique
+- sciences
 - energie
+- technologies
+- chimie
 coverImage: ./images/quora.png
 ---
 

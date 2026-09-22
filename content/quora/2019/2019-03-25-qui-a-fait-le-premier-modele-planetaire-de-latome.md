@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- histoire-des-sciences
-- modele-operationnel
-- la-theorie-de-l-atome
-- structure-atomique
-- modele-de-bohr
-- composants-de-l-atome
-- la-physique-atomique
-- histoire-de-la-physique
-- histoire-de-la-science
+- sciences
+- histoire
+- theorie
+- atomes
 coverImage: ./images/quora.png
 ---
 

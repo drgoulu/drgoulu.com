@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- perception
+- monde
 - question-hypothetique
-- anatomie-humaine
-- il
-- vision-du-monde
-- illustration
-- l-imagination
-- vision
+- perception
 - hypotheses
-- oeil-humain
+- vision
 coverImage: ./images/qimg-812cb84f084d008fed4b01b462286e2f.jpg
 ---
 

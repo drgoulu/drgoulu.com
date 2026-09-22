@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sociologie
+- histoire
 - religion
-- histoire-de-l-europe
-- demographie-mondiale
-- christianisme
-- pratiques-religieuses
-- culture-europeenne
-- les-comportements-religieux
+- sociologie
 - demographie
+- europe
 coverImage: ./images/qimg-60e67869d94ad51b3eed8d320f964684.jpg
 ---
 

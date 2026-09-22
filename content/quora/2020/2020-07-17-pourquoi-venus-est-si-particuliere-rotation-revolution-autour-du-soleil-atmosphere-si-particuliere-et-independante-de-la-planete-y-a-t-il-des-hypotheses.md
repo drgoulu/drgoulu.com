@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
+- sciences
 - astronomie
-- hypotheses
-- venus-planete
 - systeme-solaire
-- rotation-physique
-- revolution
-- atmosphere
-- explications-scientifiques
-- sciences-de-l-atmosphere
+- rotation
 coverImage: ./images/qimg-81ddb8b28802c7bddb7e59ba6d0a203d.gif
 ---
 

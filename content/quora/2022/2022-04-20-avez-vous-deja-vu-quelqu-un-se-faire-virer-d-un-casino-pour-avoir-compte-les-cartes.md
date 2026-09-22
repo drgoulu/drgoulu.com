@@ -7,12 +7,8 @@ categories:
 - Quora
 tags:
 - questions
-- compte-de-cartes-casino
-- tricheur
-- gambling
-- jeux-de-hasard
-- blackjack
-- la-triche
+- jeux
+- hasard
 - tricherie
 - jeux-de-casino
 coverImage: ./images/quora.png

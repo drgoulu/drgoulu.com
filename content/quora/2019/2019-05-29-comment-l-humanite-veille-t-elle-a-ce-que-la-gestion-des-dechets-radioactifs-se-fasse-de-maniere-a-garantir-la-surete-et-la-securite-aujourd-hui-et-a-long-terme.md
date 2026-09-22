@@ -6,13 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- risque-et-risques
 - energie-nucleaire
-- surete
-- traitement-des-dechets
 - radioactivite
-- dechets-nucleaires
-- dechets-radioactifs
+- risque-et-risques
+- traitements
+- dechets
 coverImage: ./images/quora.png
 ---
 

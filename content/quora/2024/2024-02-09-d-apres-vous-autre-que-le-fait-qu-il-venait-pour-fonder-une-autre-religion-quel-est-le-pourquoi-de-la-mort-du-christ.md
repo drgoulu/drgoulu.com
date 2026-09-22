@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
 - philosophie
-- crucifixion-de-jesus
 - religion
 - christianisme
-- jesus-christ
-- histoire-des-religions
 - theologie
-- jesus-historique
-- mort-de-jesus
-- histoire-du-christianisme
 coverImage: ./images/quora.png
 ---
 

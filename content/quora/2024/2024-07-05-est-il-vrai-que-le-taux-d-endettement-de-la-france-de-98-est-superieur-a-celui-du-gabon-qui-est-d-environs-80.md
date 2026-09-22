@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- finances-publiques
-- comparaison
-- gabon
-- economie-mondiale
-- dette-francaise
-- statistiques-economiques
-- dette-publique
 - comparaisons
+- economie-mondiale
+- finances-publiques
+- dette-publique
 coverImage: ./images/quora.png
 ---
 

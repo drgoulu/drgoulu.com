@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- nature
 - animaux
-- question-d-enquete
-- extinction-des-especes
-- faune
-- biodiversite
-- conservation-de-la-nature
-- especes-menacees
-- animaux-en-voie-de-disparition
-- questions-curieuses
-- conservation-de-la-faune
+- especes
+- questions
+- extinction
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- l-environnement
-- evolution-processus
-- ecologie
-- especes-menacees
-- extinction-des-especes
-- vie-sur-terre
-- biodiversite
-- conservation
-- protection-de-l-environnement
-- conservation-de-la-nature
+- evolution
+- terre
+- environnement
+- vie
+- nature
 coverImage: ./images/quora.png
 ---
 

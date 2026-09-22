@@ -7,13 +7,8 @@ categories:
 - Quora
 tags:
 - biologie
-- tenia
-- tiques
-- vers-de-terre
-- predateurs
 - chaines-alimentaires
 - evolution
-- parasitologie
 - biologie-animale
 - evolution-biologique-des-especes
 coverImage: ./images/quora.png

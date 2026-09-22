@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
 - sciences
+- energie
 - energie-nucleaire
-- uranium
 - sources-d-energie
-- energie-physique
-- sciences-nucleaires
-- conversion-de-l-energie
-- production-d-energie
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
+- energie
 - experience
+- loi
 - preuves-scientifiques
-- energie-physique
-- thermodynamique
-- lois-de-la-physique
-- science-experimentale
-- preuve-science
-- experiences-scientifiques
-- preuves-empiriques
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- philosophie-politique
-- debat
-- democratie
-- systeme-de-gouvernement
-- theorie-politique
-- discours-et-debat
-- doctrine-politique
-- democratie-liberale
-- democratie-participative
-- psychologie-politique
+- philosophie
+- theorie
+- politique
+- psychologie
+- systeme
 coverImage: ./images/quora.png
 ---
 

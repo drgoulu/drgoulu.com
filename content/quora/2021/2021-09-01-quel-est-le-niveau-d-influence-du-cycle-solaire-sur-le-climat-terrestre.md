@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-nature
-- climatologie
+- sciences
+- planetes
+- environnement
+- nature
 - systeme-solaire
-- influence-de-l-homme-sur-la-planete
-- changement-du-climat
-- sciences-du-climat
-- sciences-de-l-environnement
-- activite-solaire
-- radiation-solaire
-- physique-solaire
 coverImage: ./images/qimg-dc3c2f81ca6a70b70dbd7e66d8badb9f.png
 ---
 

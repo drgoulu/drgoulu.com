@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - astronomie
-- crateres-d-impact
-- terre-planete
-- systeme-solaire
-- la-ceinture-d-asteroides
-- science-de-la-terre
-- asteroides
-- histoire-de-la-terre
-- collisions-d-asteroides
+- histoire
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

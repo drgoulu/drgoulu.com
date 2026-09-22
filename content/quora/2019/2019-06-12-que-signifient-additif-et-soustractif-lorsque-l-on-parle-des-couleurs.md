@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- art
-- impression
-- couleurs-vision
+- sciences
+- technologies
 - systeme
-- melange-de-couleurs
-- impression-numerique
-- couleurs
-- systeme-de-reference
-- arts
+- art
+- couleur
 coverImage: ./images/qimg-2c20f022667e9b1835a679dddb8efb3d.jpg
 ---
 

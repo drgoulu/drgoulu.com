@@ -9,13 +9,8 @@ tags:
 - questions
 - experience
 - quora
-- dissatisfaction
-- plateforme-de-question-reponses
 - systeme
 - questions-reponses
-- satisfaction
-- experience-utilisateur
-- systemes-de-questions-reponses
 coverImage: ./images/quora.png
 ---
 

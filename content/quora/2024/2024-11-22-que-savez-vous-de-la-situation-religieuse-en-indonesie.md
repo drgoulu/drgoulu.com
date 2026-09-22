@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - religion
-- pays
-- culture-science-sociale
-- indonesie
+- sociologie
 - demographie
+- pays
 - culture
-- islam
-- sociologie-de-la-religion
-- culture-religieuse
-- religions
 coverImage: ./images/quora.png
 ---
 

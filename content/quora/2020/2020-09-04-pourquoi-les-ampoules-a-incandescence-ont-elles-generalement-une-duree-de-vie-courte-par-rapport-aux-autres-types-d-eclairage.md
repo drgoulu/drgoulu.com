@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- science-et-technologie
-- ampoules-led
-- eclairage
-- duree-de-vie
+- sciences
+- vie
+- technologies
 - electricite
-- ampoules-electriques
-- technologie-et-innovation
-- eclairage-a-led
-- ampoules-a-incandescence
+- innovation
 coverImage: ./images/qimg-eb00f1508261a9a7057165889a170d44.jpg
 ---
 

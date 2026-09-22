@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- emissions-de-carbone
-- pollution-de-l-air
+- emission
+- carbone
+- pollution
+- air
 - gaz-a-effet-de-serre
-- donnees-scientifiques
-- les-objectifs-mondiaux
-- le-dioxyde-de-soufre
-- echelle-mondiale
-- recherche-mondiale
-- les-actualites-mondiales
-- pollution-environnementale
 coverImage: ./images/quora.png
 ---
 

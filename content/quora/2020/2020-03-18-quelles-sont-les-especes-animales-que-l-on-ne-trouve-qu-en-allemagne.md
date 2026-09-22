@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- geographie
+- environnement
 - animaux
-- allemagne
-- espece-endemique
-- biodiversite
-- faune
 - especes
-- allemagne-historique
-- geographie-environnementale
-- biodiversite-et-environnement
+- geographie
+- faune
 coverImage: ./images/quora.png
 ---
 

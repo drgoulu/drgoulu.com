@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- sciences
+- evolution
 - biologie
+- vie
 - temps
-- evolution-processus
-- especes
-- sciences-de-la-vie
-- evolution-biologique-des-especes
-- espece-animale
-- processus-biologique
-- evolution-biologie
-- evolution-animale
 coverImage: ./images/qimg-331d4956f05666b294c89bd270be9505.jpg
 ---
 

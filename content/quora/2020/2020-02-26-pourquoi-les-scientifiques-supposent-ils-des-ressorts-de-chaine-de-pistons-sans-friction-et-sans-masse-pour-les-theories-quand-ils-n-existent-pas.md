@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- ressort
-- moteurs-a-pistons
-- modelisation
-- hypotheses-scientifiques
-- friction
-- masse-physique
 - theorie-scientifique
-- mecanique-physique
-- pistons-moteurs
+- mecanique
+- masse-physique
+- hypotheses-scientifiques
 coverImage: ./images/quora.png
 ---
 

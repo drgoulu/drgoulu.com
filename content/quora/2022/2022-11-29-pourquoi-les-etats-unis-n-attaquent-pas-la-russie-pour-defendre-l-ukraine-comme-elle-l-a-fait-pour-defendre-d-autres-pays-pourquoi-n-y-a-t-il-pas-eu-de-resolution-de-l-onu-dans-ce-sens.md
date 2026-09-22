@@ -8,14 +8,9 @@ categories:
 tags:
 - relations-internationales
 - guerre
+- etats-unis
 - russie
-- les-etats-unis-d-amerique
-- ukraine
-- defense
-- onu
-- intervention
-- politique-etrangere
-- droit-international
+- ameriques
 coverImage: ./images/quora.png
 ---
 

@@ -9,12 +9,8 @@ tags:
 - justice-penale
 - meurtre
 - disparition
-- tribunal
 - droit-penal
 - procedure-judiciaire
-- affaires-criminelles
-- homicide
-- procedure-penale
 coverImage: ./images/quora.png
 ---
 

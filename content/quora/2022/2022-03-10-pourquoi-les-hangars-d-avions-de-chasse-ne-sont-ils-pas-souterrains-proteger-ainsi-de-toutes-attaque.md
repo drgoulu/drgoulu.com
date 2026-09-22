@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - securite
-- avion-de-chasse
-- technologie-militaire
-- hangars-a-avions
-- attaque
+- avions
 - aeronautique
+- chasse
 - defense-militaire
-- strategie-militaire
-- aviation-militaire
-- architecture-militaire
 coverImage: ./images/qimg-02247a202897a170069ec55d0be6b71c.jpg
 ---
 

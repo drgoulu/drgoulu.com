@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- zone-habitable
-- pulsars-etoiles
-- etoiles-a-neutrons
-- exoplanetes
 - astrophysique
+- planetes
 - etoiles-corps-celestes
-- habitabilite
-- planetes-astronomie
-- habitabilite-planetaire
+- etoiles
 coverImage: ./images/quora.png
 ---
 

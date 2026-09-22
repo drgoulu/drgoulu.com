@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - mathematiques
-- operateur-hamiltonien
-- electromagnetisme
-- theorie-quantique-des-champs
-- mecanique-quantique
-- equations-differentielles
-- equations
 - physique-mathematique
-- post
+- electromagnetisme
+- equations
 coverImage: ./images/quora.png
 ---
 

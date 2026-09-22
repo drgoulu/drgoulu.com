@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- modernisation
+- histoire
 - evolution
-- histoire-de-la-medecine
-- medecine-traditionnelle
+- sante
 - medecine
-- futur-de-la-medecine
-- medecine-moderne
-- sciences-medicales
-- medecine-humaine
+- futur
 coverImage: ./images/quora.png
 ---
 

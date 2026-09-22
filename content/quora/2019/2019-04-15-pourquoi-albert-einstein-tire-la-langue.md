@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- histoire
-- albert-einstein-physicien
 - physique
-- personne
-- culture-populaire
-- art-photographique
-- culture-generale
+- histoire
 - physique-theorique
-- photographie
-- l-histoire
+- albert-einstein-physicien
+- personne
 coverImage: ./images/qimg-088e213fe4596f62962162234f3f1404.jpg
 ---
 

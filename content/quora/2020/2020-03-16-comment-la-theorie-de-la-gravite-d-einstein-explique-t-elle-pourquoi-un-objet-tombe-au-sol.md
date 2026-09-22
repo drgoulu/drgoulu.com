@@ -8,15 +8,10 @@ categories:
 - Comment
 tags:
 - physique
-- chute-libre
-- equations-de-terrain-d-einstein
-- astrophysics
-- force-de-gravite
-- theories-de-la-gravitation
-- relativite
-- gravitation
+- theorie
 - physique-theorique
-- gravite-physique
+- relativite
+- gravite
 coverImage: ./images/qimg-b0c71b8859de8b7be11ccbe1059b0aa1.png
 ---
 

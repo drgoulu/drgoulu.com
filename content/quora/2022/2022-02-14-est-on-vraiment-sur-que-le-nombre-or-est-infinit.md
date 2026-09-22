@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
 - mathematiques
-- serie-infinie
-- nombre-d-or
-- theorie-analytique-des-nombres
-- infini-mathematiques
-- infinite
-- philosophie-des-mathematiques
-- infinite-general
-- theorie-du-nombre
-- theorie-des-nombres
+- theorie
+- nombres
+- infini
 coverImage: ./images/quora.png
 ---
 

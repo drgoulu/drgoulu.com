@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- histoire-des-sciences
+- sciences
+- histoire
+- terre
 - geologie
-- alfred-wegener
-- plaques
-- derive-des-continents
-- sciences-de-la-terre
-- tectoniques-des-plaques
-- histoire-des-decouvertes
-- geologie-historique
-- histoire-de-la-science
+- decouvertes
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- science-et-technologie
+- sciences
+- technologies
 - droit
 - consommation
 - mythe
-- juridique
-- delits
-- obsolescence-programmee
-- consommateur
-- droit-public
 coverImage: ./images/quora.png
 ---
 

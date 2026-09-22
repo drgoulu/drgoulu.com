@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- microorganisme
-- infections
 - biologie
 - maladies-infectieuses
 - biologie-humaine
 - microbiologie
-- micro-organismes
-- micro-biologie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- changement-climatique
-- tourisme-guide-touristique
-- suisse
-- paysage
-- glaciers
+- planetes
 - environnement
-- sites-touristiques
-- effets-du-rechauffement-de-la-planete
-- catastrophe-climatique
-- le-rechauffement-climatique
+- changement-climatique
+- rechauffement-climatique
+- suisse
 coverImage: ./images/quora.png
 ---
 

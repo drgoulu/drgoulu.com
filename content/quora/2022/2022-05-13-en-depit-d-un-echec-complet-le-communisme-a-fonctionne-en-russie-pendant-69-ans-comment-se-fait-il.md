@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - histoire
+- systeme
 - russie
-- echec
+- gouvernement
 - ideologies-politiques
-- systeme-de-gouvernement
-- communisme
-- duree
-- histoire-de-l-urss
-- histoire-de-la-russie
 coverImage: ./images/quora.png
 ---
 

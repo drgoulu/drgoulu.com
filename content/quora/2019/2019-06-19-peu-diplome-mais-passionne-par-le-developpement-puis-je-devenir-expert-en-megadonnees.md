@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - education
-- analyse-de-megadonnees
-- passion
+- developpement
 - travail
 - donnees
-- carriere
-- expertise-technique
-- developpement
 - formation
-- expertise
 coverImage: ./images/quora.png
 ---
 

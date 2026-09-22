@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- finance
+- emploi
 - argent
-- travail-emploi
+- finance
 - revenu
-- objectifs
-- gagner-de-l-argent
-- planification-financiere
-- emplois
-- faire-de-l-argent
+- travail-emploi
 coverImage: ./images/quora.png
 ---
 

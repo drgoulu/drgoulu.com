@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-de-sondage
-- experience-personnelle
+- questions
+- sondages
+- experiences-personnelles
 - glace
-- saveurs-de-creme-glacee
 - preferences
-- les-desserts
-- preferences-personnelles
-- donnee-personnelle
-- vue-personnelle
 coverImage: ./images/quora.png
 ---
 

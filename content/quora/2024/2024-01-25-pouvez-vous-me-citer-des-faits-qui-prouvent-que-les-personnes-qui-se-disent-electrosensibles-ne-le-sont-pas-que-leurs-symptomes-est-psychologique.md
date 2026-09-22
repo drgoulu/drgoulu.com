@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- psychologie
-- electrohypersensibilite
 - sante
-- groupes-de-personnes
-- troubles-psychologiques
-- symptomes-medicaux
-- effets-psychologiques
+- psychologie
+- personne
+- groupes
 - psychologie-humaine
-- diagnostics-psychologiques
 coverImage: ./images/quora.png
 ---
 

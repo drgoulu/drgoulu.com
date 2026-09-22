@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- '2015'
-- catastrophes-naturelles
-- espace
-- terre-planete
-- sciences-de-la-nature
-- crateres-d-impact
-- collisions-d-asteroides
-- asteroides
+- terre
+- planetes
+- nature
 coverImage: ./images/quora.png
 ---
 

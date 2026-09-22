@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire
-- etoile-de-bethleem
-- christianisme
-- religion
-- comete
+- sciences
 - astronomie
-- la-bible
-- histoire-biblique
-- science-et-religion
-- l-histoire
+- histoire
+- religion
+- christianisme
 coverImage: ./images/quora.png
 ---
 

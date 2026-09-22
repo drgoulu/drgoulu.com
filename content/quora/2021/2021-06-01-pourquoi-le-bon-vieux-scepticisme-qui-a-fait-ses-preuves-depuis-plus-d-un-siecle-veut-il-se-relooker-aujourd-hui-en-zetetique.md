@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
+- histoire
 - philosophie
-- raison
-- scepticisme
-- changement-et-evolution
-- histoire-des-idees
-- methode
-- zetetique
-- philosophie-des-sciences
-- methodologie
-- sceptiques
+- evolution
+- methodes
 coverImage: ./images/quora.png
 ---
 

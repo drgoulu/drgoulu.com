@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- personnalite
+- sciences
+- histoire
+- philosophie
 - mathematiques
-- inde
-- histoire-des-sciences
-- srinivasa-ramanujan-mathematicien-indien
-- theorie-des-nombres
-- philosophie-des-mathematiques
-- sciences-et-mathematiques
-- histoire-des-mathematiques
-- mathematiciens
+- theorie
 coverImage: ./images/quora.png
 ---
 

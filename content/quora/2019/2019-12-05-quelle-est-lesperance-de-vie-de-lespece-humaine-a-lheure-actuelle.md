@@ -6,14 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- vie
 - sante
-- demographie-humaine
-- esperance-de-vie
-- espece-humaine
 - biologie-humaine
-- sciences-de-la-vie
-- sante-humaine
-- sciences-de-la-sante
 - demographie
 coverImage: ./images/qimg-36ba3ffe12cacd5929fd071a33e7c6f2.png
 ---

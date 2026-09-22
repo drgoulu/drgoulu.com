@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- croissance-economique
-- dette
+- politique
+- economie
 - finances-publiques
-- politique-fiscale
-- macroeconomie
-- economie-politique
 - dette-publique
 - depenses-publiques
-- politique-economique
 coverImage: ./images/quora.png
 ---
 

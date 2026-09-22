@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- communication
-- reseaux-sociaux
 - opinion
-- peur
+- communication
 - controverses
 - critique
-- discussion
-- commentaire
-- conversations
-- opinions
+- reseaux-sociaux
 coverImage: ./images/quora.png
 ---
 

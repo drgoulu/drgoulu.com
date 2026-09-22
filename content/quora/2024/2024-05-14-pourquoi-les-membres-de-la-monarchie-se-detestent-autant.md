@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - famille
-- conflit
-- relations-et-dynamiques-familiales
-- monarchies
-- liens-familiaux
-- dispute
-- la-monarchie
-- familles-royales
-- les-relations-familiales
 - conflits
+- monarchie
+- liens-familiaux
+- familles-royales
 coverImage: ./images/quora.png
 ---
 

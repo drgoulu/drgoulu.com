@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- juridique
+- sante
+- droit
 - vaccination
-- refus
-- droit-de-la-famille
-- ecole-maternelle
-- obligation
-- litige
-- sante-de-l-enfant
-- droits-des-enfants
-- droits-parentaux
+- enfants
+- famille
 coverImage: ./images/quora.png
 ---
 

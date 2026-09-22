@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- scepticisme
-- terre-planete
-- l-environnement
-- l-anthropocentrisme
-- humanite
-- ethique
-- ecologie
-- philosophie-des-sciences
+- terre
+- planetes
+- environnement
 coverImage: ./images/quora.png
 ---
 

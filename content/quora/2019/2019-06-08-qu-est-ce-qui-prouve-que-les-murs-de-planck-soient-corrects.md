@@ -7,11 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- unites-de-planck
 - mecanique-quantique
 - gravite
 - physique-theorique
-- gravite-quantique
 - physique-quantique
 coverImage: ./images/quora.png
 ---

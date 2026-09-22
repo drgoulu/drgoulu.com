@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- decalage-vers-le-rouge
 - astronomie
-- l-univers
-- matiere-noire
-- lumiere-physique
-- cosmologie-du-big-bang
-- cosmologie
 - astrophysique
-- physique-theorique
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

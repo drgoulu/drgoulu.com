@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- genetique
-- evolution-processus
+- evolution
+- biologie
+- processus
 - especes
-- taux-d-evolution
-- mutation-et-mutations-genetique
-- evolution-biologie
-- espece-animale
-- evolution-biologique-des-especes
-- genetique-animale
-- evolution-animale
+- genetique
 coverImage: ./images/quora.png
 ---
 

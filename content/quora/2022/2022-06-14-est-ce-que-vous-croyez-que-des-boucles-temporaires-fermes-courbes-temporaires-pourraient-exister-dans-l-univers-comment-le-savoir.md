@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- scenarios-de-voyage-dans-le-temps
 - astronomie
-- l-univers
-- relativite-physique
-- cosmologie
 - astrophysique
-- physique-theorique
-- theorie-de-la-relativite
-- voyage-dans-le-temps
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

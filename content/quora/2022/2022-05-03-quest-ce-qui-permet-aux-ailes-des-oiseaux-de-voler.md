@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- ailes-d-avion
-- anatomie-animale
 - biologie
-- aerodynamique
-- comportement-des-oiseaux
 - zoologie
-- biologie-des-oiseaux
-- physique-et-biologie
+- avions
+- comportement
 coverImage: ./images/quora.png
 ---
 

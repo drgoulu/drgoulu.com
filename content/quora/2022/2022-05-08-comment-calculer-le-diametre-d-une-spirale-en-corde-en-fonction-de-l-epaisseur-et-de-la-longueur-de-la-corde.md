@@ -8,14 +8,9 @@ categories:
 tags:
 - mathematiques
 - corde
-- spirale
-- longueur
 - calcul
-- millimetre
 - geometrie
-- formule-de-calcul
-- centimetres
-- diametre
+- formules
 coverImage: ./images/quora.png
 ---
 

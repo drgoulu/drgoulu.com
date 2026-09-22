@@ -8,12 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- le-vide
-- nanoparticule
+- matiere
 - atomes
 - structure-atomique
-- matiere-physique
-- la-physique-atomique
 coverImage: ./images/quora.png
 ---
 

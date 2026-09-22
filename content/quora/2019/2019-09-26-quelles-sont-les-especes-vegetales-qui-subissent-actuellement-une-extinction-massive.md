@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
+- nature
 - changement-climatique
-- l-environnement
-- ecologie
 - especes
-- botanique
-- extinction-des-especes
-- biodiversite
-- conservation-de-la-nature
-- sciences-vegetales
-- extinction-massive
+- ecologie
 coverImage: ./images/qimg-edf0782a34a3d33176293498882a1f63.png
 ---
 

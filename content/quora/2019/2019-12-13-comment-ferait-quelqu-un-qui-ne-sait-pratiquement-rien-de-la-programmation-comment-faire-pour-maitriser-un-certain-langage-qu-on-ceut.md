@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- apprentissage
-- langages-de-programmation
-- programmation-pour-debutants
-- developpement-de-logiciels
-- apprentissage-de-l-informatique
-- competences-en-programmation
-- methode-pour-apprendre-la-programmation
-- apprendre-les-langages-de-programmation
-- apprendre-la-programmation
+- informatique
+- programmation
+- langage
+- developpement
+- methodes
 coverImage: ./images/quora.png
 ---
 

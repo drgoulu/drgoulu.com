@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - enfants
-- cabane
-- creativite
-- souvenirs-d-enfance
-- imagination
-- jeux-d-aventures
+- souvenir
 - enfance
-- activites-creatives
-- l-imagination
-- jeux-d-enfant
+- imagination
+- jeux
 coverImage: ./images/quora.png
 ---
 

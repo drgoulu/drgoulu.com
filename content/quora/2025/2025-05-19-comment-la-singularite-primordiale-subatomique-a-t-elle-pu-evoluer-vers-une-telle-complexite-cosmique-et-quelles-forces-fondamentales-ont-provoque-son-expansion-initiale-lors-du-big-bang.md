@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- expansion-de-l-univers
-- singularite
-- cosmologie
-- forces-fondamentales
-- le-big-bang
 - astrophysique
-- cosmologie-de-l-univers-primordial
-- origine-de-l-univers
-- cosmologie-du-big-bang
+- univers
+- cosmologie
+- origines
 coverImage: ./images/qimg-25dc98a240bb6c466687da83cc598418.jpg
 ---
 

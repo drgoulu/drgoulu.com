@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- mathematiques
 - sciences
-- la-loi-de-murphy
+- mathematiques
+- theorie
 - statistiques
-- theorie-des-probabilites
 - probabilite-statistiques
-- enigmes-de-probabilites
-- distributions-de-probabilites
-- statistiques-et-probabilites
-- probabilites
 coverImage: ./images/quora.png
 ---
 

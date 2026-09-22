@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sciences-de-la-nature
-- terre-planete
-- geologie
+- sciences
+- terre
+- planetes
+- nature
 - systeme-solaire
-- differences-fondamentales
-- planetes-du-systeme-solaire
-- planetologie
-- geologie-planetaire
-- planetes-specifiques-du-systeme-solaire
 coverImage: ./images/quora.png
 ---
 

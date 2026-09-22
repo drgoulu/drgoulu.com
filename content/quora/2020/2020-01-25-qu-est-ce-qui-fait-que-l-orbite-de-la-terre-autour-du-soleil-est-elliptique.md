@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- le-soleil-astronomie
-- ellipses-geometrie
-- orbites
+- sciences
 - astronomie
-- terre-planete
-- sciences-de-la-nature
-- systeme-solaire
-- orbite-de-la-terre
-- dynamique-du-systeme-solaire
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

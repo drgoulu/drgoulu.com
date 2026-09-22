@@ -8,13 +8,8 @@ categories:
 tags:
 - physique
 - mathematiques
-- ponts-suspendus
-- chaines
 - optimisation
-- surface
-- calcul-des-variations
 - geometrie
-- courbes-mathematiques
 - physique-mathematique
 coverImage: ./images/quora.png
 ---

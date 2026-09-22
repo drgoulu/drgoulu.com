@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - astronomie
-- conversion-de-l-energie
-- l-univers
-- energie-physique
-- astrophysique-theorique
-- cosmologie
-- matiere-physique
-- physique-theorique
 - astrophysique
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

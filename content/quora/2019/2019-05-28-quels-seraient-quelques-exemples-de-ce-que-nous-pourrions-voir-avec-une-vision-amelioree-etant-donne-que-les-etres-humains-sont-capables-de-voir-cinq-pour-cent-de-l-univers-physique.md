@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- perception
 - sciences
 - univers-observable
-- capacites-du-cerveau-humain
-- amelioration
-- perception-visuelle
+- perception
 - vision
-- capacites
-- amelioration-de-la-vue
 coverImage: ./images/qimg-aeddb6ebd181839f3c52b3972265ea87.png
 ---
 

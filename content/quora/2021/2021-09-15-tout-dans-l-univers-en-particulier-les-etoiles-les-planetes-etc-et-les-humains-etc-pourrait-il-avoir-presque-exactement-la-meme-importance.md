@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
+- univers
 - etoiles-corps-celestes
 - espece-humaine
-- importance
-- l-univers
-- metaphysique
-- etre-humain
-- l-etre-humain
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

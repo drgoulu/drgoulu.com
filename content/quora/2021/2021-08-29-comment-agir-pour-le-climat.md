@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- environnement
 - changement-climatique
-- l-environnement
 - ecologie
 - developpement-durable
-- action-pour-le-climat
-- education-environnementale
-- politique-climatique
 - crise-climatique
-- ecologisme
-- lutte-contre-le-changement-climatique
 coverImage: ./images/quora.png
 ---
 

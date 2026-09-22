@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- nuages
-- vapeur-d-eau
-- effet-de-serre
-- lumiere-du-soleil
-- sciences-du-climat
-- reflexion-physique
-- gaz-a-effet-de-serre
-- physique-de-l-atmosphere
-- sciences-de-l-atmosphere
+- sciences
+- lumiere
+- soleil
+- eau
 coverImage: ./images/quora.png
 ---
 

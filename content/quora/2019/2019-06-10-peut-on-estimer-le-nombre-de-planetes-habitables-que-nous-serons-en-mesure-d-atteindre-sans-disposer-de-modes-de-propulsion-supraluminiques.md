@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- exploration-spatiale
-- vitesse-supraluminique
-- propulsion
-- planetes-habitables
 - astrophysique
-- voyage-dans-l-espace
-- planetes-astronomie
-- technologie-spatiale
-- missions-spatiales
+- planetes
+- espace
+- exploration-spatiale
 coverImage: ./images/quora.png
 ---
 

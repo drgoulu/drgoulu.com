@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- consommation
 - aviation
+- pollution
 - impact-environnemental
-- transport-aerien
-- consommation-de-carburant
-- gaz-a-effet-de-serre
-- pollution-de-l-air
-- emissions-de-carbone
-- problemes-environnementaux
-- avions-de-ligne
-- consommation-denergie
+- emission
 coverImage: ./images/quora.png
 ---
 

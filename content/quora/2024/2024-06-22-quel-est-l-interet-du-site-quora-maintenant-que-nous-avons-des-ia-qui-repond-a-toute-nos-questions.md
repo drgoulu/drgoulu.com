@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - internet
-- intelligence-artificielle
+- questions
 - nouvelles-technologies
+- intelligence-artificielle
 - quora
-- plateformes-de-contenu
-- reponses
-- sites-internet
-- les-questions-et-les-reponses
-- sites-internet-de-questions-reponses
 coverImage: ./images/quora.png
 ---
 

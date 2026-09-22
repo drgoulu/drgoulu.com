@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- finance
-- echanges
-- or
-- monnaie-numerique
 - economie-mondiale
-- proposition
-- systeme-financier
-- monnaie-mondiale
-- econonomie
+- finance
+- or
 - systeme-monetaire
+- econonomie
 coverImage: ./images/quora.png
 ---
 

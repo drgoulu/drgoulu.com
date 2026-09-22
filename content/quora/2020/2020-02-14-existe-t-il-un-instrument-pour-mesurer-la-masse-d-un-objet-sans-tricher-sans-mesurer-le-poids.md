@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- instrument-de-mesure
-- mesure
-- masse-physique
-- science-physique
-- poids-physique
-- unites-de-mesure
+- chimie
 - physique-mathematique
-- physique-et-chimie
+- masse-physique
 coverImage: ./images/quora.png
 ---
 

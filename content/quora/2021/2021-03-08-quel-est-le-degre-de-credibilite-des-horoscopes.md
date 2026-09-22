@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- information
 - predictions
-- horoscopes-astrologie
-- credibilite-de-l-information
-- sciences-occultes
-- croyances-superstitieuses
-- superstitions
-- astrologues
 - credibilite
-- predictions-astrologie
+- horoscopes-astrologie
+- sciences-occultes
 coverImage: ./images/quora.png
 ---
 

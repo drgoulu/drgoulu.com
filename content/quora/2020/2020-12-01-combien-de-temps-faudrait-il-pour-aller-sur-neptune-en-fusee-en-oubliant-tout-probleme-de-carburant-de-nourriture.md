@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- espace
+- temps
 - exploration-spatiale
-- fusees
-- temps-de-travail
-- neptune-planete
-- voyage-dans-l-espace
 - science-spatiale
-- voyage-spatial
-- technologie-spatiale
-- missions-spatiales
+- voyage
 coverImage: ./images/quora.png
 ---
 

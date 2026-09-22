@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- services-de-streaming-en-ligne
-- serveur
-- technologie-informatique
-- netflix
-- streaming
-- logiciels-et-applications
-- plateformes-de-contenu
-- plateformes-video
-- reseaux-informatiques
-- infrastructure-informatique
+- informatique
+- technologies
+- contenu
+- infrastructures
+- plateforme
 coverImage: ./images/quora.png
 ---
 

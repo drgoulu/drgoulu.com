@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
 - animaux
-- chats
-- protection-de-l-environnement
-- biodiversite
 - faune
-- especes-menacees
-- espece-animale
 - conservation
-- faune-sauvage
-- conservation-de-la-faune
+- biodiversite
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - recherche-scientifique
 - statistiques
-- conclusion
-- methodes-de-recherche
-- echantillonnage-statistiques
-- signification-statistique
-- analyse-statistique
-- statistiques-descriptives
-- inference-statistique
-- methodologie-de-recherche
+- methodes
+- recherche
+- methodologie
 coverImage: ./images/quora.png
 ---
 

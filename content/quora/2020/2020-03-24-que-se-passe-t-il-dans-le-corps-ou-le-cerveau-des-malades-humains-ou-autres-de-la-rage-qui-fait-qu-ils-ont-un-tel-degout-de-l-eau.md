@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- medecine
-- corps-humains
-- rage
-- cerveau
 - biologie
-- maladies-virales
-- symptomes-medicaux
+- medecine
 - biologie-humaine
+- corps-humains
 - maladies
-- maladies-rares
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs-supermassifs
 - astronomie
-- collision-inelastique
-- l-univers
-- vitesse-de-la-lumiere
-- astrophysique-theorique
-- phenomenes-physiques
-- trous-noirs
 - astrophysique
+- univers
+- lumiere
 coverImage: ./images/qimg-8f594fe077f9ae3f8309f88be31a1fa5.jpg
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- science-fiction-genre
-- etoiles-astronomie
 - astronomie
-- spheres-de-dyson
-- mecanique-celeste
-- masse-physique
-- astrophysique-theorique
-- physique-stellaire
 - astrophysique
+- etoiles
+- science-fiction-genre
 coverImage: ./images/quora.png
 ---
 

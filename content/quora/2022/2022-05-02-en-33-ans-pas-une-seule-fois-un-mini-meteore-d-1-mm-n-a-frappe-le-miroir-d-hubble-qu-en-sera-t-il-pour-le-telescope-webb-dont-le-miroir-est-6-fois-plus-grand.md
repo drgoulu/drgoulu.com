@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- telescope-spatial-james-webb
 - astronomie
-- miroirs
 - espace
-- les-telescopes
-- technologie-spaciale
-- observatoires-spatiaux
-- astronomie-d-observation
-- telescope-spatial-hubble
+- observation
+- telescopes
 coverImage: ./images/quora.png
 ---
 

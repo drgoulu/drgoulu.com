@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- science-fiction-genre
-- trous-noirs
-- livres
 - astronomie
-- culture-scientifique
-- livres-de-science-fiction
-- cosmologie
 - astrophysique
-- livres-scientifiques
+- cosmologie
+- trous-noirs
 coverImage: ./images/quora.png
 ---
 

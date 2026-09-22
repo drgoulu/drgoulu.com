@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- neant
-- origine-de-l-univers
+- sciences
+- philosophie
+- univers
 - cosmologie
-- philosophie-des-sciences
-- creation
-- theorie
-- physique-theorique
-- cosmologie-du-big-bang
-- theorie-scientifique
 coverImage: ./images/quora.png
 ---
 

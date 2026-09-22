@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - biologie
+- vie
+- nature
 - animaux
-- sciences-de-la-nature
-- classification-des-animaux
-- definition-scientifique
-- zoologie
-- biologie-animale
-- taxonomie
-- sciences-de-la-vie
-- classification-biologique
 coverImage: ./images/quora.png
 ---
 

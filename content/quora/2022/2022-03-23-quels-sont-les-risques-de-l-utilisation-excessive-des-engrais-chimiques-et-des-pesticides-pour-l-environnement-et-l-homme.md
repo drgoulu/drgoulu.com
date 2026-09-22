@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
 - sante
-- pesticides
-- impacts-environnementaux
-- agriculture
 - risque-et-risques
-- l-environnement
-- effets-sur-la-sante
-- sante-environnementale
-- problemes-environnementaux
-- sante-humaine
+- impact-environnemental
+- effet
 coverImage: ./images/qimg-59798e74cf810147c6ec7c3063d3c958.jpg
 ---
 

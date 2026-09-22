@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- biologie
-- aretes-de-poisson
-- especes
-- poissons
 - evolution
-- morphologie-du-poisson
-- anatomie-animale
-- zoologie
+- biologie
+- especes
 - biologie-animale
-- evolution-biologie
+- zoologie
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- ampere
-- volt
 - sciences
-- systeme-international-d-unites
 - instruments-de-mesure
-- ohm-unite-si
 - electricite
-- conversions-d-unites
 - unites-de-mesure
 coverImage: ./images/quora.png
 ---

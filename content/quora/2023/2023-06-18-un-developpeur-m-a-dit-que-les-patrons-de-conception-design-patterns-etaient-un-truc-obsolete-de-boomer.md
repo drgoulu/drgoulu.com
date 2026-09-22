@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- opinion-personnelle
-- developpement-logiciel
+- informatique
+- programmation
 - opinion
-- conception-et-programmation
-- opinions
-- ingenieurs-logiciel
-- developpeur-informatique
-- ingenierie-logicielle
-- developpement-de-logiciels
+- developpement
+- opinion-personnelle
 coverImage: ./images/quora.png
 ---
 

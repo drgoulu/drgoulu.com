@@ -7,14 +7,9 @@ categories:
 - Comment
 tags:
 - physique
-- aimants
-- projets-faits-maison-diy
 - sciences
 - electromagnetisme
 - fabrication
-- diy
-- physics
-- manufacturing
 - magnetisme
 coverImage: ./images/quora.png
 ---

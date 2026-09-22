@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- energie
 - humanite
-- energie-physique
+- ingenierie
 - energie-renouvelable
-- sources-d-energie
-- durabilite-energetique
-- energie-solaire
-- puissance-physique
-- energie-alternative
-- l-ingenierie-des-energies-renouvelables
-- energies-renouvelables
 coverImage: ./images/quora.png
 ---
 

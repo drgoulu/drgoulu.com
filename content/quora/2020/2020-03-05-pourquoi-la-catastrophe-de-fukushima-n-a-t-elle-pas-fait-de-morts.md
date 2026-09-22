@@ -8,14 +8,9 @@ categories:
 tags:
 - histoire
 - energie-nucleaire
-- tsunami
-- japon
-- catastrophe-de-tchernobyl
-- fukushima
+- catastrophes
+- catastrophes-nucleaires
 - accident-nucleaire
-- les-catastrophes-nucleaires
-- reacteurs-nucleaires
-- radiation-nucleaire
 coverImage: ./images/quora.png
 ---
 

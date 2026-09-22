@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - mathematiques
-- ensemble-vide
-- nombres-irrationnels
-- theorie-des-ensembles
-- theorie-de-la-mesure
-- nombres-naturels
-- ensembles-mathematiques
-- sciences-mathematiques
+- theorie
 - post
+- mesure
 coverImage: ./images/quora.png
 ---
 

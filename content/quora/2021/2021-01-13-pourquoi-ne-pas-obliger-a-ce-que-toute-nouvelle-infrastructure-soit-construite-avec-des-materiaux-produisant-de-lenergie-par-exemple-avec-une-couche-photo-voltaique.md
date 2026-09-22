@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- energie
 - environnement
-- construction
+- economie
+- materiaux
 - energie-renouvelable
-- developpement-durable
-- materiaux-de-construction
-- infrastructure
-- la-photo-voltaique
-- energie-solaire
-- economies-d-energie
-- energie-alternative
 coverImage: ./images/quora.png
 ---
 

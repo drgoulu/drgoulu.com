@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - education
-- ideologies-politiques
-- grec-ancien-langue
-- litterature-erotique
-- critique-sociale
-- sciences-exactes
-- latin-langue
-- enseignement-superieur
 - enseignement
-- ideologies
+- ideologies-politiques
+- enseignement-superieur
+- critique-sociale
 coverImage: ./images/quora.png
 ---
 

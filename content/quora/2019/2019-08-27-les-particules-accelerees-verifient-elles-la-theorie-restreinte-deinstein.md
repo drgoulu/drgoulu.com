@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- albert-einstein-physicien
-- methode-experimentale
-- accelerateurs-de-particules
-- relativite-restreinte
-- verification
-- physique-des-particules-experimentale
-- relativite-physique
 - physique-theorique
+- relativite
+- albert-einstein-physicien
+- relativite-restreinte
 coverImage: ./images/quora.png
 ---
 

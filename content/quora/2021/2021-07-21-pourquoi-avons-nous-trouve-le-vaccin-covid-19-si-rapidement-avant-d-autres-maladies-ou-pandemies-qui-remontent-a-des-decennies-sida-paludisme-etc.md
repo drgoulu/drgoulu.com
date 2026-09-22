@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- covid-19-2019-2020
 - recherche-scientifique
-- pandemie
-- paludisme
-- sida
-- vaccin-covid-19
-- pandemie-de-covid19
-- recherche-et-developpement-de-vaccins
+- recherche
+- covid-19-2019-2020
+- developpement
 - recherche-medicale
-- vaccination-covid-19
 coverImage: ./images/quora.png
 ---
 

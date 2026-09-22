@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- voyageurs
+- aviation
 - mysteres
+- disparition
+- accidents
 - enquetes
-- disparition-des-abeilles
-- accidents-et-incidents-d-aviation
-- boeing-777
-- passagers
-- malaysia-airlines
 coverImage: ./images/quora.png
 ---
 

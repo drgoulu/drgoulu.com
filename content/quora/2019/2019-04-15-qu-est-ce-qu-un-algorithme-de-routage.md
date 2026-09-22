@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - informatique
-- routage
-- reseaux-de-telecommunication
-- algorithmes-de-graphe
-- protocoles-de-routage
+- algorithmes
 - sciences-informatiques
-- reseaux-d-ordinateurs
-- science-de-l-informatique
-- algorithmes-de-routage
+- graphes
 coverImage: ./images/quora.png
 ---
 

@@ -10,11 +10,7 @@ tags:
 - nombres
 - frequence
 - statistiques
-- nombres-specifiques
 - nombres-naturels
-- nombres-mathematiques
-- nombre
-- statistique
 coverImage: ./images/qimg-de5995b534c3b49bd85808f584825b46.jpg
 ---
 

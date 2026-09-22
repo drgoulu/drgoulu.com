@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - histoire
+- religion
 - christianisme
 - preuves-scientifiques
-- jesus
-- etudes-bibliques
-- histoire-des-religions
-- science-et-religion
-- jesus-historique
-- histoire-du-christianisme
-- etudes-religieuses
 coverImage: ./images/quora.png
 ---
 

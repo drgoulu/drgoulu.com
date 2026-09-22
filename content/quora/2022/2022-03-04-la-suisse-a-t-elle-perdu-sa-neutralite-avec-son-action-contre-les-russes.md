@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- relations-internationales
-- russie
-- histoire-de-la-suisse
-- neutralite-politique-et-militaire
-- sanctions
+- histoire
 - suisse
+- relations-internationales
 - politique-internationale
-- politique-etrangere
-- diplomatie-et-relation-internationale
+- russie
 coverImage: ./images/quora.png
 ---
 

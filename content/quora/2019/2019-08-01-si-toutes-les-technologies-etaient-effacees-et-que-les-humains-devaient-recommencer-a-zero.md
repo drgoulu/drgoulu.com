@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- humanite
+- evolution-humaine
 - question-hypothetique
 - innovation-technologique
-- humanite
-- technologie-moderne
-- evolution-humaine
-- scenarios-hypothetiques
 - progres-scientifique
-- reinvention
-- revolution-technologique
 coverImage: ./images/quora.png
 ---
 

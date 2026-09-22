@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- frederic-chopin-compositeur
-- george-sand
-- tetu-magazine
 - personnalites
 - sexualite
 - culture
-- presse
-- ecrivains
-- homosexualite
+- ecrivain
 coverImage: ./images/quora.png
 ---
 

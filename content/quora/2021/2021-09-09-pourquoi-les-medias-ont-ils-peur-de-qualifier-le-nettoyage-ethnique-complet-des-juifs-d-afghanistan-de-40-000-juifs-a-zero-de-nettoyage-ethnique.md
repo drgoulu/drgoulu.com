@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - medias
-- afghanistan
-- l-histoire-du-peuple-juif
 - genocide
-- droits-de-l-homme
-- nettoyage-ethnique
-- histoire-de-l-afghanistan
-- ethnies-et-peuple-juif
-- taliban
-- histoire-du-peuple-juif
+- droit
+- homme
+- histoire
 coverImage: ./images/quora.png
 ---
 

@@ -9,13 +9,8 @@ tags:
 - entreprises
 - experience-humaine
 - carriere-professionnelle
-- monde-du-travail
-- perte-d-emploi
-- licenciement
-- relations-de-travail
-- experience-professionnelle
-- communication-professionnelle
-- licencie
+- monde
+- travail
 coverImage: ./images/quora.png
 ---
 

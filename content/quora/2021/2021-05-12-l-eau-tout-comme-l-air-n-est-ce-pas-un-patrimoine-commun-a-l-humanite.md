@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- air
-- ressources-naturelles
-- le-bien-commun
-- patrimoine
-- humanites
-- eau
-- l-environnement
+- environnement
 - humanite
-- biens-communs
+- eau
+- ressources-naturelles
 coverImage: ./images/quora.png
 ---
 

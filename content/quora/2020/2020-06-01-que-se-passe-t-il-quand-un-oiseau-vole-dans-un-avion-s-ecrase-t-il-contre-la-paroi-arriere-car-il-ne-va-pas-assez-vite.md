@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- aviation
 - vitesse
-- voler
-- collision-physique
-- oiseaux
-- securite-aerienne
-- accidents
+- securite
+- aviation
 - avions
-- vitesse-terminale
-- securite-des-avions
+- oiseaux
 coverImage: ./images/quora.png
 ---
 

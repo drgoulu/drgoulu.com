@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sciences
-- bombe-nucleaire
-- luminosite
-- physique-des-reacteurs
-- science-physique
 - technologie-nucleaire
 - armes-nucleaires
 - explosions-nucleaires
-- radiation-nucleaire
 coverImage: ./images/quora.png
 ---
 

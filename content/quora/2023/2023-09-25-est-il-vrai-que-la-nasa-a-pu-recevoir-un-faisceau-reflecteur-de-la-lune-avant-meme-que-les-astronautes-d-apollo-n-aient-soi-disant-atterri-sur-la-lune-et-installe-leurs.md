@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- theories-du-complot
 - exploration-spatiale
-- le-programme-apollo
-- nasa
-- lune-astronomie
-- voyage-spatial
 - science-spatiale
-- missions-apollo
-- theories-du-complot-de-la-nasa
+- lune
+- theories-du-complot
 coverImage: ./images/quora.png
 ---
 

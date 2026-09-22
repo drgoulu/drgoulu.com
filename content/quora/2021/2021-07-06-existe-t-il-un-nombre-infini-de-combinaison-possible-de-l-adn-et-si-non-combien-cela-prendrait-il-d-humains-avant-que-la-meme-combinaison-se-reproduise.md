@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - biologie
-- probabilite-statistiques
-- combinaison
-- adn
-- genetique
-- statistiques
 - biologie-humaine
-- genetique-moleculaire
-- genomique
+- statistiques
+- genetique
 coverImage: ./images/quora.png
 ---
 

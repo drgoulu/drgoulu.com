@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sante-publique
-- covid-19-coronavirus
+- recherche-scientifique
+- sante
 - etude-scientifique
-- les-masques
-- prevention
-- organisation-mondiale-de-la-sante-oms
-- masques-faciaux-equipement-de-protection
-- sante-et-securite-publiques
-- recherches-scientifiques
-- etudes-scientifiques
+- sante-publique
+- securite-publique
 coverImage: ./images/quora.png
 ---
 

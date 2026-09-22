@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- elementary-particles
-- symetrie-de-jauge
-- modele-standard-de-la-physique-des-particules
-- asymetrie
-- anti-particules
-- symetrie-en-physique
 - particules
+- modele-standard-de-la-physique-des-particules
 - symetrie
+- anti-particules
 coverImage: ./images/qimg-58ef0552b682ead1d6ae4a20e1fb8bc8.jpg
 ---
 

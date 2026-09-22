@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
+- religion
+- opinion
 - croyance
 - question-existentielle
-- perspective-personnelle
-- religion
-- spiritualite
-- opinions-et-croyances
-- vie-apres-la-mort
-- avis-personnel
 coverImage: ./images/quora.png
 ---
 

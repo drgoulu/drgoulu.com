@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- histoire
 - philosophie
-- grand-filtre
-- age-de-pierre
-- histoire-humaine
 - evolution
-- anthropologie
-- origines-humaines
-- philosophie-des-sciences
-- evolution-humaine
-- histoire-de-l-humanite
+- humanite
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
+- anthropologie
 - sociologie
-- liens-familiaux
 - genetique
 - famille
-- consanguinite
-- anthropologie
-- genealogie
-- histoire-de-famille
-- rapports-familiaux
-- genealogie-genetique
 coverImage: ./images/quora.png
 ---
 

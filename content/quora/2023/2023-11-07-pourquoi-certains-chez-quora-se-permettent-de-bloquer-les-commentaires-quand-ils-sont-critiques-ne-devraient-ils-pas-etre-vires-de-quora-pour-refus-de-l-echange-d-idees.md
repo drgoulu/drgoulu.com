@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- systeme
 - quora
-- critique
-- sites-internet-de-questions-reponses
+- contenu
 - liberte-d-expression
-- censure
-- desactivation-des-commentaires-sur-quora
-- moderation-de-contenu
-- echanges-d-idees
-- systemes-de-commentaires
-- moderation-quora
+- critique
 coverImage: ./images/quora.png
 ---
 

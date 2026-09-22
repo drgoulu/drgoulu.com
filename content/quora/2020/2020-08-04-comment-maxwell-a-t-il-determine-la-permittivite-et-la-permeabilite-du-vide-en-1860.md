@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- james-clerk-maxwell-physicien
-- electromagnetisme
-- histoire-de-la-science
-- determination
-- equations-de-maxwell
+- sciences
+- histoire
 - etude-scientifique
 - decouvertes-scientifiques
-- science-experimentale
-- histoire-de-la-physique
 coverImage: ./images/quora.png
 ---
 

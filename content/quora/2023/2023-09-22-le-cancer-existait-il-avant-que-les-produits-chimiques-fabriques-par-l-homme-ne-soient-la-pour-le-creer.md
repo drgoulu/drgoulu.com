@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- evolution-biologie
-- substances-chimiques
-- cancer
-- environnement
-- histoire-de-la-medecine
+- histoire
+- evolution
 - biologie
-- medecine
-- biologie-humaine
-- sante-humaine
+- environnement
+- sante
 coverImage: ./images/quora.png
 ---
 

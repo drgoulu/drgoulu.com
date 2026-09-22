@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- espace
-- courbure-de-l-espace
-- relativite-generale
-- gravitation
-- masse-physique
-- theorie-de-la-relativite
+- theorie
 - physique-theorique
-- espace-temps
+- relativite
+- espace
 coverImage: ./images/quora.png
 ---
 

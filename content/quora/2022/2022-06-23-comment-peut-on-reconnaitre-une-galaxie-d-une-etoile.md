@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- reconnaissance-d-objets
-- etoiles-corps-celestes
-- objets-astronomiques
 - galaxies
-- observation-des-astres
+- etoiles-corps-celestes
 - etoiles
-- galaxies-astronomie
-- etoiles-astronomie
+- observation
 coverImage: ./images/qimg-8d6895f9c6481fdf2f1daf8900c7da6a.jpg
 ---
 

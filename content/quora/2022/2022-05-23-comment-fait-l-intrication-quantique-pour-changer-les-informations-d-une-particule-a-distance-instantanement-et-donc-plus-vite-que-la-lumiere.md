@@ -7,13 +7,9 @@ categories:
 - Comment
 tags:
 - physique
-- information
-- vitesse-de-la-lumiere
-- mecanique-quantique
-- particules
-- intrication-quantique
 - physique-theorique
-- information-quantique
+- lumiere
+- vitesse
 - physique-quantique
 coverImage: ./images/quora.png
 ---

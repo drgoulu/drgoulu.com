@@ -8,11 +8,8 @@ categories:
 tags:
 - electricite
 - energie
-- centrales-nucleraires
 - perte-d-energie
 - consommation-electrique
-- reseau-electrique
-- centrale-thermique
 - centrales-electriques
 coverImage: ./images/quora.png
 ---

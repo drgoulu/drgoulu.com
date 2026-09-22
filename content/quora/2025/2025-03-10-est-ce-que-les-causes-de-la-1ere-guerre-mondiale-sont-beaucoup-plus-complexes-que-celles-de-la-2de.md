@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- comparaisons
+- monde
 - guerre
-- la-seconde-guerre-mondiale
-- histoire-de-la-premiere-guerre-mondiale
-- histoire-du-monde
-- histoire-militaire
-- guerres-et-conflits
-- histoire-de-la-seconde-guerre-mondiale
-- premiere-guerre-mondiale
+- comparaisons
+- conflits
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
+- biologie
+- theorie
 - recherche-scientifique
-- evolution-processus
-- evolution-humaine
-- theorie-de-l-evolution
-- evolutionnistes
-- evolution-biologie
-- evolution-biologique-des-especes
-- etudes-scientifiques
-- travail-scientifique
-- evolutionnisme
+- processus
 coverImage: ./images/quora.png
 ---
 

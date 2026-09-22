@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
+- sciences
+- environnement
+- technologies
 - changement-climatique
-- l-environnement
 - energie-nucleaire
-- planete-terre
-- developpement-durable
-- energie-renouvelable
-- energie-alternative
-- technologie-durable
 coverImage: ./images/quora.png
 ---
 

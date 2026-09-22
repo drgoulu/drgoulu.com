@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- logique-deductive
-- recherche-scientifique
-- processus-creatif
-- methodologie-en-sciences
-- theorie-scientifique
-- theories-physiques
+- sciences
 - physique-theorique
-- demarche-scientifique
-- la-methode-scientifique
+- recherche-scientifique
+- theorie-scientifique
 coverImage: ./images/qimg-0ae513fa2aee6a37b883981e4564090f.jpg
 ---
 

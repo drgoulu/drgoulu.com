@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- science-fiction-genre
-- cinema
-- scenarios-de-voyage-dans-le-temps
-- paradoxe
-- theorie-de-la-relativite
-- films-de-science-fiction
-- concept-philosophique-lie-au-temps
-- voyage-dans-le-temps
-- philosophie-du-temps
+- philosophie
+- theorie
+- relativite
+- temps
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - mathematiques
-- serie-infinie
 - calcul
-- suite-geometrique
 - algorithmes
-- infini-mathematiques
-- formule-de-calcul
+- infini
 - calcul-mathematique
-- algorithmes-numeriques
-- suites-mathematiques
 coverImage: ./images/quora.png
 ---
 

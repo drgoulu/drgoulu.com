@@ -9,13 +9,8 @@ tags:
 - physique
 - sciences
 - cosmologie
-- recherche-scientifique
-- theorie-de-la-relativite
-- gravite
+- theorie
 - physique-theorique
-- relativite-generale
-- decouvertes-scientifiques
-- etude-scientifique
 coverImage: ./images/quora.png
 ---
 

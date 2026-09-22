@@ -8,14 +8,9 @@ categories:
 tags:
 - innovation
 - propriete-intellectuelle
-- espionnage-industriel
-- competitivite
-- veille-technologique
 - secrets-commerciaux
-- brevet-d-invention
+- brevets
 - invention
-- l-invention
-- secret-industriel
 coverImage: ./images/quora.png
 ---
 

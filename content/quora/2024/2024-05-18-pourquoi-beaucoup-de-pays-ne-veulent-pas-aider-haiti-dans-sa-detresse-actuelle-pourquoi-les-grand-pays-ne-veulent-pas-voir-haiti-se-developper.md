@@ -8,13 +8,9 @@ categories:
 tags:
 - relations-internationales
 - pays
-- haiti
 - developpement-economique-et-social
-- pays-developpes
-- crise-humanitaire
 - developpement
 - politique-internationale
-- aide-humanitaire
 coverImage: ./images/quora.png
 ---
 

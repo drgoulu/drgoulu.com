@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
+- entreprises
 - aviation
-- faillite
-- responsabilite-des-entreprises
-- concorde
-- compagnies-du-secteur-aeronautique
-- boeing
+- responsabilite
 - avions
-- histoire-de-l-aviation
-- accidents-et-incidents-d-aviation
 coverImage: ./images/quora.png
 ---
 

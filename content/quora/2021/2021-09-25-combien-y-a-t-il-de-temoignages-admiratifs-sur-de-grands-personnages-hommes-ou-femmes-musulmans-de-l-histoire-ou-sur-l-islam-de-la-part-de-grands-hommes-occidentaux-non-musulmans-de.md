@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - histoire
-- islam
+- religion
 - personnalites
+- islam
 - culture-science-sociale
-- civilisation-occidentale
-- temoignage
-- histoire-de-l-islam
-- personnages-religieux
-- l-islam
-- histoire-des-religions
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- religion
-- covid-19-2019-2020
+- sciences
 - recherche-scientifique
-- opinions-et-croyances
-- eau-benite
-- systemes-de-croyance
-- science-et-religion
-- croyances
-- religion-catholique
-- religion-et-croyance
+- religion
+- opinion
+- croyance
 coverImage: ./images/quora.png
 ---
 

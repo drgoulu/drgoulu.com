@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
+- opinion
+- questions
 - ressources-naturelles
-- questions-d-opinion
-- phenomenes-inexpliques
-- informations-bancaires
-- theorie-economique
-- faits-meconnus
-- ressources-planetaire
 - philosophique
-- ressource-naturelle
 coverImage: ./images/qimg-66ca64ffbe0b371f65a26bafbc6bd29e.gif
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- terre-planete
-- systeme-solaire
 - cosmologie
-- exoplanetes
-- venus-planete
-- planetaire
-- planetes-astronomie
-- mars-planete
-- dynamique-du-systeme-solaire
+- terre
+- planetes
+- systeme-solaire
 coverImage: ./images/quora.png
 ---
 

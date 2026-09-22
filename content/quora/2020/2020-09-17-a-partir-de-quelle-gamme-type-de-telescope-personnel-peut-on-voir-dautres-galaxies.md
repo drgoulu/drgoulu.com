@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- les-telescopes
-- exploration-de-l-univers
-- objets-astronomiques
+- univers
 - galaxies
-- types-d-astronomie
-- astronomie-d-observation
-- galaxies-astronomie
+- observation
+- exploration
 coverImage: ./images/quora.png
 ---
 

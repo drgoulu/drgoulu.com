@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- innovation
-- economie-generale
-- propriete-intellectuelle
-- brevets
-- droit-sur-la-propriete-intellectuelle
+- droit
+- economie
 - invention
-- economie-d-entreprise
-- droits-de-propriete-intellectuelle
+- entreprises
+- innovation
 coverImage: ./images/quora.png
 ---
 

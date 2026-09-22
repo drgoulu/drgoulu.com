@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
+- philosophie
+- univers
 - cosmologie
-- l-univers
-- theories-de-tout-physique
-- theorie
-- physique-theorique
-- philosophie-de-la-cosmologie
-- theories-physiques
 coverImage: ./images/quora.png
 ---
 

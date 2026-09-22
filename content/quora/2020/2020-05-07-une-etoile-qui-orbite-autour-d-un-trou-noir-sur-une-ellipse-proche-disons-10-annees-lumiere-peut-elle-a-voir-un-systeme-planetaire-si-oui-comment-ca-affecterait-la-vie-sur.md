@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- trous-noirs
-- ellipses-geometrie
-- habitabilite
-- annee-lumiere
-- etoiles-corps-celestes
+- univers
 - systeme-solaire
-- orbites
-- vie-extraterrestre
-- l-univers-astronomie
+- trous-noirs
+- etoiles-corps-celestes
 coverImage: ./images/qimg-edcaad2d98b2f8c17b6b7e7d5a87bf5b.jpg
 ---
 

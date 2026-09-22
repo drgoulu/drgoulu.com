@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- solutions-d-energie-renouvelable
-- changement-climatique
 - sciences
-- l-helium
 - energie
 - environnement
-- energie-physique
-- crise-climatique
-- le-rechauffement-climatique
+- changement-climatique
 coverImage: ./images/quora.png
 ---
 

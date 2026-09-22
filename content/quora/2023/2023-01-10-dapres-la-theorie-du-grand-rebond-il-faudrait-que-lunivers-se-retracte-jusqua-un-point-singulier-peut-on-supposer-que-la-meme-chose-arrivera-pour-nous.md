@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- physique-theorique
+- univers
 - cosmologie
-- l-univers
-- singulier
-- expansion-de-l-espace-temps
-- origine-de-l-univers
-- theorie-cosmologique
-- univers-en-expansion
-- cosmologie-du-big-bang
+- physique-theorique
+- origines
 - expansion-de-l-univers
 coverImage: ./images/quora.png
 ---

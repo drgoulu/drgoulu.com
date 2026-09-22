@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- responsabilite
-- debats-de-societe
-- parentalite
+- societe
+- droit
 - debat
-- etat
-- politique-sociale
-- droit-de-la-famille
-- discussions-politiques
-- role-parental
-- droits-parentaux
+- responsabilite
+- famille
 coverImage: ./images/quora.png
 ---
 

@@ -8,13 +8,8 @@ categories:
 tags:
 - theories-du-complot
 - risque-et-risques
-- apocalypse
-- scenarios
-- catastrophes-nucleaires
-- fin-du-monde
 - catastrophes
-- scenarios-de-fin-du-monde
-- catastrophe-climatique
+- catastrophes-nucleaires
 - catastrophes-environnementales
 coverImage: ./images/quora.png
 ---

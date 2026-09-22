@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- reflexion
+- sciences
 - astronomie
-- lumiere-du-jour
-- sciences-de-la-nature
-- phenomenes-optiques
-- science-de-la-terre
-- phenomenes-physiques
-- reflexion-physique
-- lumiere-du-soleil
+- terre
+- nature
 coverImage: ./images/quora.png
 ---
 

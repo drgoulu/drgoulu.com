@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- finance
-- terre-planete
+- terre
+- planetes
 - catastrophes-environnementales
-- anticapitalisme
 - economie-mondiale
-- dette-publique
-- population-mondiale
-- crise-ecologique
-- econonomie
-- capitalisme
+- finance
 coverImage: ./images/quora.png
 ---
 

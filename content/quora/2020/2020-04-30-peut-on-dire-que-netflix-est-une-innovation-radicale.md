@@ -8,11 +8,8 @@ categories:
 tags:
 - medias
 - innovation
-- services-de-streaming-en-ligne
-- industrie-du-divertissement
 - netflix
 - plateformes-video
-- streaming
 - innovation-digitale
 coverImage: ./images/quora.png
 ---

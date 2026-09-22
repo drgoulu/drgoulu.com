@@ -7,14 +7,9 @@ categories:
 - Pourquoi
 tags:
 - physique
-- nikola-tesla
-- histoire-des-inventions
+- sciences
+- histoire
 - recherche-scientifique
-- scientifiques
-- inventeurs
-- histoire-de-la-physique
-- decouvertes-scientifiques
-- histoire-des-sciences
 - recherche
 coverImage: ./images/quora.png
 ---

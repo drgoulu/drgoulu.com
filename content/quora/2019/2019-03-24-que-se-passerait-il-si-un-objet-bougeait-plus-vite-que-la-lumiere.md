@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- question-hypothetique
-- voyage-temporel
-- vitesse-de-la-lumiere
-- theorie-de-la-relativite
-- voyage-interstellaire
-- hypotheses
-- phenomenes-physiques
+- theorie
 - physique-theorique
-- relativite-physique
+- relativite
+- lumiere
 coverImage: ./images/quora.png
 ---
 

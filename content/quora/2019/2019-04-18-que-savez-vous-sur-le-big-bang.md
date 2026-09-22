@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- expansion-de-l-univers
 - astronomie
-- cosmologie
 - astrophysique
-- age-de-l-univers
-- origine-de-l-univers
-- exploration-de-l-univers
+- univers
 coverImage: ./images/qimg-74c8f803c79feaa4afb2115dad66957e.jpg
 ---
 

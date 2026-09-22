@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - projet
-- saut-en-hauteur
-- sportif
-- bilan-energetique
+- saut
+- hauteur
 - recherche
-- pratique-du-sport
-- biomecanique
-- athletisme
-- projet-scolaire
 coverImage: ./images/quora.png
 ---
 

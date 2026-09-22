@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
-- terre-planete
 - astronomie
-- taille
-- l-univers
-- cosmologie
 - astrophysique
-- poids-physique
-- physique-theorique
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- histoire
 - philosophie
-- contenu-adulte
-- question-existentielle
-- masturbation
-- histoire-de-la-sexualite
+- evolution
+- biologie
 - evolution-humaine
-- reproduction
-- sexualite
-- evolution-biologie
-- sexualite-humaine
 coverImage: ./images/quora.png
 ---
 

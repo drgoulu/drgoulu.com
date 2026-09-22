@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- simulation-par-ordinateur
-- transhumanisme
+- theorie
+- ethique
 - conscience
-- nouvelles-technologies
-- intelligence-artificielle
-- immortalite
-- l-ethique
-- theorie-de-la-simulation
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

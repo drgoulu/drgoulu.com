@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- cinema
+- etudes
 - comprehension
+- analyse
 - films
-- analyse-de-film
-- interpretation
-- cinephile
-- experience-cinematographique
-- etudes-du-cinema
-- critiques-de-films
-- cinematique
+- cinema
 coverImage: ./images/quora.png
 ---
 

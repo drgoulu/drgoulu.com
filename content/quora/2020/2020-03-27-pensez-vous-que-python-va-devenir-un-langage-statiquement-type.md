@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - informatique
-- python-langage-de-programmation
-- developpement-logiciel
-- statique
-- langages-de-programmation
-- science-de-l-informatique
-- programmation-en-python
-- informatique-general
-- langage-de-programmation
+- programmation
+- langage
+- python
 coverImage: ./images/quora.png
 ---
 

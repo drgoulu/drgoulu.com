@@ -7,12 +7,9 @@ categories:
 - Quora
 tags:
 - astronomie
-- energie-nucleaire
-- neutrinos
-- etoiles-corps-celestes
-- evolution-stellaire
 - astrophysique
-- physique-stellaire
+- energie-nucleaire
+- etoiles-corps-celestes
 - astrophysique-theorique
 coverImage: ./images/quora.png
 ---

@@ -8,12 +8,8 @@ categories:
 tags:
 - philosophie
 - preuve
-- evidence
 - epistemologie
 - sciences
-- donnees-scientifiques
-- philosophie-et-science
-- philosophie-des-sciences
 - preuve-science
 coverImage: ./images/quora.png
 ---

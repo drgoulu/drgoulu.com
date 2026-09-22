@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - histoire
-- mortalite
-- demographie-mondiale
-- histoire-de-l-humanite
-- population-humaine
-- histoire-du-monde
+- monde
+- humanite
 - demographie
 - histoire-humaine
-- population-mondiale
 coverImage: ./images/qimg-76593301b25be4f61e6ee4b04ffc1c78.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- education
-- questions
-- astronomie
 - sciences
-- representation-visuelle
+- astronomie
 - systeme-solaire
-- quiz
-- representation-des-connaissances
-- representations
-- representation
+- questions
+- education
 coverImage: ./images/qimg-b30f2b9d1a12e64615932bf2975738e9.jpg
 ---
 

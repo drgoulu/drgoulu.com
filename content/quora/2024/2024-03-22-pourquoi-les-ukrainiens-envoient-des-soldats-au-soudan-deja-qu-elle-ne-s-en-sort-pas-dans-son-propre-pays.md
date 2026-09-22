@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - relations-internationales
-- soudan
-- conflit
-- armee
+- conflits
 - afrique
-- forces-armees-ukrainiennes
-- soldats
-- intervention
-- politique-etrangere-de-l-ukraine
+- ukraine
+- politique-etrangere
 coverImage: ./images/quora.png
 ---
 

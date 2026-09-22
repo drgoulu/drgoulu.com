@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- informatique
-- personnalite
+- sciences
+- histoire
 - mathematiques
-- histoire-des-sciences
-- etymologie-des-mots-francais
-- algorithmes
-- personnages-historiques
-- etymologie
-- histoire-des-mathematiques
-- mathematiques-et-sciences
+- informatique
+- personnalites
 coverImage: ./images/quora.png
 ---
 

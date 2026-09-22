@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- sursaut-gamma
-- phenomenes-physiques
-- observation-scientifique
 - astrophysique
+- phenomenes-physiques
 - objets-astronomiques
-- rayons-gamma
-- astronomie-et-astrophysique
-- phenomenes
+- phenomene
 coverImage: ./images/quora.png
 ---
 

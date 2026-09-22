@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - christianisme
-- la-bible
-- critique-textuelle
-- manuscrits
+- bible
 - textes-sacres
-- histoire-de-la-bible
-- etudes-bibliques
-- histoire-du-christianisme
-- questions-bibliques
-- critique-biblique
+- histoire
+- etude-biblique
 coverImage: ./images/qimg-e16391e3204561259dd6de6d2adb6b11.jpg
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - philosophie
-- infiniment-grand
 - perception
-- cerveau-humain
 - sciences-cognitives
-- cognition
-- univers-infini
-- infiniment-petit
-- philosophie-des-sciences
+- cerveau-humain
 coverImage: ./images/quora.png
 ---
 

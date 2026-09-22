@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- l-univers-astronomie
-- energie-noire
-- modeles-cosmologiques
+- astronomie
+- univers
 - cosmologie
-- mecanismes
-- theories-de-la-gravitation
-- matiere-noire
-- physique-theorique
-- theorie-cosmologique
+- theorie
 coverImage: ./images/quora.png
 ---
 

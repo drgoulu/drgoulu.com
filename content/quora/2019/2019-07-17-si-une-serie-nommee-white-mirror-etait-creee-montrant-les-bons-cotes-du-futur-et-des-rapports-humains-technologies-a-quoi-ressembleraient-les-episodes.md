@@ -8,12 +8,8 @@ categories:
 tags:
 - relations-humaines
 - science-fiction-genre
-- black-mirror-serie-de-tele
-- futures
 - nouvelles-technologies
 - episodes-maniaques
-- episodes-serie-televisee
-- rapports-humains
 - interactions-humaines
 coverImage: ./images/quora.png
 ---

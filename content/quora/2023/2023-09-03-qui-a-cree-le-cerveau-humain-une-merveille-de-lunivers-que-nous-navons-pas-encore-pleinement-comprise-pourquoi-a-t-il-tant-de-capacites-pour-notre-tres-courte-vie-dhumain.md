@@ -6,15 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - philosophie
-- mysteres
-- capacites-du-cerveau-humain
-- neuropsychologie
-- la-vie-humaine
 - biologie-humaine
-- capacites
-- cerveau-humain
-- philosophie-des-sciences
+- mysteres
 - neurologie
 coverImage: ./images/quora.png
 ---

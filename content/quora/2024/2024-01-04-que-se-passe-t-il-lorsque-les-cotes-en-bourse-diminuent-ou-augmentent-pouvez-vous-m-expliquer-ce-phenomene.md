@@ -8,14 +8,9 @@ categories:
 tags:
 - finance
 - investissement
-- cotation
-- action
-- marches-boursiers
 - economie-generale
-- fluctuation
-- bourses
-- cours-boursier
 - marches-financiers
+- action
 coverImage: ./images/quora.png
 ---
 

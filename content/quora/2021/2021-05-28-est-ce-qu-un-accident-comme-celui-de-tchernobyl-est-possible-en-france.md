@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- desastre-nucleaire-de-tchernobyl-avril-1986
-- risque-technologique
-- les-centrales-nucleaires
-- accidents-nucleaires-civils
-- technologie-nucleaire
-- catastrophes-nucleaires
-- accident-nucleaire
 - energie-nucleaire
-- industrie-nucleaire
+- catastrophes-nucleaires
+- centrales-nucleaires
+- technologie-nucleaire
 coverImage: ./images/quora.png
 ---
 

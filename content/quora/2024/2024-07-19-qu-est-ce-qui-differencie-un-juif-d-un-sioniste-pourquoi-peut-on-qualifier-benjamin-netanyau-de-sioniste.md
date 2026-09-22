@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- benjamin-netanyahu
-- sionisme
 - politique
-- groupes
+- religion
 - israel
-- identite
-- religions
-- judaisme
-- identite-nationale
+- groupes
 coverImage: ./images/quora.png
 ---
 

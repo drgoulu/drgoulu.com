@@ -8,9 +8,7 @@ categories:
 tags:
 - energie
 - rendement
-- faisabilite
 - eoliennes
-- performance-economique
 - sources-d-energie
 - energie-environnementale
 coverImage: ./images/quora.png

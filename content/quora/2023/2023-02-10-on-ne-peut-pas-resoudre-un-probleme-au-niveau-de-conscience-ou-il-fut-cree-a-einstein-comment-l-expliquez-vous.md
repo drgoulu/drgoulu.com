@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - philosophie
-- citations-albert-einstein
-- trouver-des-solutions
-- conscience
-- pensee
-- citation-academique
 - albert-einstein-physicien
-- resolution-de-problemes
-- la-philosophie
-- philosophie-et-science
+- conscience
+- probleme
 coverImage: ./images/quora.png
 ---
 

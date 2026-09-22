@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- science-des-materiaux-et-ingenierie
-- bijoux
-- valeur-des-produits
-- diamants
-- pierres-precieuses
-- essais-en-laboratoire
-- industrie-du-diamant
-- bijouterie
-- techniques-de-laboratoire-en-biologie
+- sciences
+- biologie
+- materiaux
+- ingenierie
+- industrie
 coverImage: ./images/quora.png
 ---
 

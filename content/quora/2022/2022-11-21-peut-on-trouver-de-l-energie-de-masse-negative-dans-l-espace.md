@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espace
-- masse-negative
 - astronomie
-- energie-physique
-- cosmologie
-- astrophysique-relativiste
-- physique-theorique
 - astrophysique
-- energie-negative
+- cosmologie
+- physique-theorique
 coverImage: ./images/quora.png
 ---
 

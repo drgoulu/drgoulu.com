@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- question-hypothetique
 - societe
-- progres
+- question-hypothetique
 - electricite
-- pensee-philosophique
-- la-vie-quotidienne
 - question-philosophique
-- histoire-humaine
 coverImage: ./images/quora.png
 ---
 

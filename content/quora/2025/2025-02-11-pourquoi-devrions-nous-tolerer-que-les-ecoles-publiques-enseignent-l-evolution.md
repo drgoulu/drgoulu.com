@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- education
-- biologie
 - sciences
-- controverses
-- evolution-processus
-- theorie-de-l-evolution
-- enseignement
-- ecole
-- education-publique
-- enseignement-des-sciences
+- evolution
+- biologie
+- theorie
+- processus
 coverImage: ./images/quora.png
 ---
 

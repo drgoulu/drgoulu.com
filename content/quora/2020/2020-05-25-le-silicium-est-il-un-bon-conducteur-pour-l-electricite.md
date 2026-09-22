@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- conducteurs-electriques
-- silicium-element
+- sciences
 - materiaux
-- science-des-materiaux-et-ingenierie
-- conductivite
-- sciences-de-la-matiere
-- scientifiques-des-materiaux
-- physique-des-materiaux
-- la-science-des-materiaux
+- ingenierie
+- matiere
 coverImage: ./images/quora.png
 ---
 

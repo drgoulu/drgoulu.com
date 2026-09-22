@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
 - philosophie
-- domination
-- inegalite-de-genre
-- machisme
-- histoire-de-la-sexualite
+- droit
 - sociologie
-- droits-de-la-femme
-- feminisme
-- egalite-des-sexes
-- sexisme
+- inegalite
 coverImage: ./images/quora.png
 ---
 

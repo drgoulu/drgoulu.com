@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- voyage-international
-- mont-saint-michel
-- monuments
-- attraits-touristiques
-- voyageurs
-- touristes
-- sites-de-voyage
 - voyage
-- lieux-touristiques
+- voyage-international
+- touristes
+- voyageurs
 coverImage: ./images/qimg-6f37cdb4c1096db4cdd5aef6ef9e438f.jpg
 ---
 

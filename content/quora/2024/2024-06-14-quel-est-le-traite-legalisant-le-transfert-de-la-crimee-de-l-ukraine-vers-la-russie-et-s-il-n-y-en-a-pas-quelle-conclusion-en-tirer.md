@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- crimee
-- russie
 - politique
+- monde
+- russie
 - ukraine
-- traites
-- droit-international
-- histoire-du-monde
-- histoire-de-la-crimee
-- annexion-de-la-crimee
 coverImage: ./images/quora.png
 ---
 

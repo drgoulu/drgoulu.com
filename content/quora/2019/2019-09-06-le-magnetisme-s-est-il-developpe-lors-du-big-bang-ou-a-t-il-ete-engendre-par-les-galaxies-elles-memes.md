@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - astronomie
-- magnetisme
-- cosmologie-du-big-bang
-- origine-de-l-univers
-- galaxies
-- champs-magnetiques
-- cosmologie
 - astrophysique
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

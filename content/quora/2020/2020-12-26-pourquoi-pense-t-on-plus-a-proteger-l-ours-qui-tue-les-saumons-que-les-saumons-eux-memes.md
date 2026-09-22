@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - environnement
+- animaux
 - faune
-- saumon
-- ours-animal
-- predation
-- chaines-alimentaires
-- protection-des-animaux
-- protection-de-l-environnement
-- gestion-de-la-faune
-- conservation-de-la-faune
+- conservation
+- gestion
 coverImage: ./images/quora.png
 ---
 

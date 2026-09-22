@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sante
 - corps-humains
-- cafe
-- stimulants
-- physiologie
-- effets-de-la-cafeine-sur-la-sante
-- reactions-chimiques
-- boissons-cafeinees
+- effet
 - physiologie-humaine
-- cafeine
-- reaction-physiologique
+- physiologie
 coverImage: ./images/quora.png
 ---
 

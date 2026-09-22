@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- destruction
-- virus
-- l-univers
-- responsabilite
-- nature-humaine
-- ethique
+- univers
 - humanite
-- l-humanite
-- philosophie-des-sciences
+- ethique
 coverImage: ./images/quora.png
 ---
 

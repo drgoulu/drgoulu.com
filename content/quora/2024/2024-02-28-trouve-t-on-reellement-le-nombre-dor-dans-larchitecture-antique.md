@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- art-architecture
-- antiquite-classique
-- nombre-d-or
+- nombres
 - geometrie
-- art-et-civilisation
-- architecture-ancienne
-- art-antique
-- art-et-culture
+- art
+- culture
 coverImage: ./images/quora.png
 ---
 

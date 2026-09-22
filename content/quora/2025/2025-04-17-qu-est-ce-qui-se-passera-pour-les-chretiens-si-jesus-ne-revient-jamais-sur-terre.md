@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - christianisme
+- fin-du-monde
 - theologie
 - jesus
-- fin-du-monde
-- chretiens
-- eschatologie
-- vie-chretienne
-- christologie
 - jesus-christ
-- foi-chretienne
 coverImage: ./images/quora.png
 ---
 

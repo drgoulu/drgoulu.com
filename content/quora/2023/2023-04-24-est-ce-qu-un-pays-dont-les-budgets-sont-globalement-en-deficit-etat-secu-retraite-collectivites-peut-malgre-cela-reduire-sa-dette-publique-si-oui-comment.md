@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- economies
-- gestion-des-finances-personnelles
+- economie
+- gestion
 - dette-publique
-- deficit
 - finances-publiques
-- gestion-de-budget
 - depenses-publiques
-- economistes
 coverImage: ./images/qimg-495b8147a16a437768cf5f0171c00f48.jpg
 ---
 

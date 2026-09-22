@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - entrainement
-- le-paranormal
-- magie
-- arts-du-spectacle
-- trucs-et-astuces
-- pouvoir-magique
-- performance-artistique
 - paranormal
-- magiciens
+- art
+- spectacles
 - magie-illusion
 coverImage: ./images/quora.png
 ---

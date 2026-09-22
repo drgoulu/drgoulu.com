@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- anthropologie
 - evolution
-- hominides
-- especes
-- paleontologie
-- pre-histoire
-- archeologie
 - evolution-humaine
-- histoire-evolutive-des-hominides
-- espece-humaine
+- especes
+- anthropologie
+- paleontologie
 coverImage: ./images/quora.png
 ---
 

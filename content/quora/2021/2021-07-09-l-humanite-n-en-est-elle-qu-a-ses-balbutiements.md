@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- progres
 - histoire
-- question-existentielle
-- humanites
+- philosophie
 - evolution
-- civilisation
-- histoire-humaine
-- l-humanite
 - humanite
+- question-existentielle
 coverImage: ./images/qimg-36ba3ffe12cacd5929fd071a33e7c6f2.png
 ---
 

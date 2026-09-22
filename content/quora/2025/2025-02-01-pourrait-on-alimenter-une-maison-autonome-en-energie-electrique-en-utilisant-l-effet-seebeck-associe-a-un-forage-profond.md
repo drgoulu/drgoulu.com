@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - electricite
-- forage
 - energie
-- geothermie
 - sources-d-energie
-- thermoelectricite
-- alimentation-electrique
 - conversion-de-l-energie
-- production-d-energie
-- energie-thermique
+- production
 coverImage: ./images/quora.png
 ---
 

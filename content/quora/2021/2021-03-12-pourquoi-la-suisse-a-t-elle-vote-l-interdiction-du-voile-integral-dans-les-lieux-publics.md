@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- opinion-publique
-- islam
+- societe
 - droit
-- voile-integral
 - suisse
-- interdiction
-- femmes-musulmanes
-- liberte-personnelle
-- debats-de-societe
-- lieux-publics
+- opinion-publique
+- debat
 coverImage: ./images/quora.png
 ---
 

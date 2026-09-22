@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- monde
 - sante-publique
 - covid-19-2019-2020
-- dirigeants-du-monde
 - pandemie
-- comparaison-entre-pays-europeens
-- gestion-de-crise
 - covid-19-coronavirus
-- gestion-des-soins-de-sante
-- gouvernance-mondiale
-- dirigeants
 coverImage: ./images/quora.png
 ---
 

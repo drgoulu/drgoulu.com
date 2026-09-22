@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- processus
 - biologie-humaine
-- vieillissement
-- replication-de-l-adn
 - genetique
 - adn
-- mutation-et-mutations-genetique
-- genetique-moleculaire
-- processus-de-vieillissement
-- le-vieillissement
-- genomique
+- vieillissement
 coverImage: ./images/quora.png
 ---
 

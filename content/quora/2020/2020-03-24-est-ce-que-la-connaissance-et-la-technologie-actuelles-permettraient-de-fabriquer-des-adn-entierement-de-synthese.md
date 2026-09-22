@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- nouvelles-technologies
+- sciences
+- vie
 - recherche-scientifique
+- nouvelles-technologies
 - genetique
-- sciences-de-la-vie
-- sequencage-adn
-- biotechnologie
-- biologie-synthetique
-- ingenierie-genetique
-- genomique
 coverImage: ./images/quora.png
 ---
 

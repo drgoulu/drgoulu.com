@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- planetes
+- exploration-spatiale
+- mars
 - nouvelles-technologies
 - journalisme
-- exploration-spatiale
-- erreur
-- robots
-- mars-planete
-- autonomie
-- telecommandes
-- robotique
-- journalisme-scientifique
 coverImage: ./images/quora.png
 ---
 

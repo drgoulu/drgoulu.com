@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- vie
 - sante
-- futur
-- predictions
-- vieillissement
-- esperance-de-vie
-- demographie
-- sciences-de-la-vie
 - medecine
-- sciences-de-la-sante
+- futur
 coverImage: ./images/qimg-fd650793a4b6e40fe13fe3e0d8525359.jpg
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - demographie
-- les-pays-en-voie-de-developpement
-- evolution-culturelle
-- developpement-economique
-- baisse-du-taux-de-natalite
-- pays-developpees
-- taux-de-naissance
-- etudes-demographiques
 - demographie-mondiale
+- developpement-economique
+- taux-de-naissance
+- pays-en-voie-de-developpement
 coverImage: ./images/qimg-c68f7e6230693c373bef9f1648e76b07.png
 ---
 

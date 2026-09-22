@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
+- changement-climatique
 - societe
 - futur
-- gafa
-- changement-climatique
-- multinationales
-- responsabilite
-- dirigeants
-- l-environnement
-- biodiversite
-- responsabilite-sociale-d-entreprise
+- entreprises
 coverImage: ./images/quora.png
 ---
 

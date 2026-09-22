@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - tourisme-guide-touristique
-- lacs
 - suisse
 - paysage
-- collines
 - exploration
 - sites-touristiques
-- visiter-et-voyager-en-train
-- alpes
-- alpes-suisses
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - changement-climatique
-- koalas-marsupiaux
-- geographie-australienne
-- biodiversite
-- extinction-des-especes
-- la-faune-en-australie
 - rechauffement-climatique
-- adaptation-au-changement-climatique
-- le-rechauffement-climatique
-- faune-d-australie
+- especes
+- extinction
+- faune
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- image-miroir
-- corps-humains
-- nourriture
-- la-reproduction
-- physiologie-humaine
-- etre-humain
 - biologie
 - biologie-humaine
-- le-corps-humain
+- corps-humains
+- etre-humain
 coverImage: ./images/quora.png
 ---
 

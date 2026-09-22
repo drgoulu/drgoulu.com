@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- monde
 - relations-internationales
+- politique-internationale
 - russie
 - puissance
-- hegemonie
-- paix-dans-le-monde
-- guerre-mondiale
-- politique-internationale
-- puissance-mondiale
 coverImage: ./images/quora.png
 ---
 

@@ -9,8 +9,6 @@ tags:
 - elements-chimiques
 - hydrogene
 - sciences-nucleaires
-- positron
-- deuterium-isotope
 - chimie-nucleaire
 - reactions-nucleaires
 coverImage: ./images/quora.png

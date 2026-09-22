@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- puissance
-- calcul-mental
-- arithmetique-modulaire
-- notation-mathematique
 - calcul
 - calcul-mathematique
+- puissance
 - arithmetique
-- arithmetique-elementaire
 coverImage: ./images/quora.png
 ---
 

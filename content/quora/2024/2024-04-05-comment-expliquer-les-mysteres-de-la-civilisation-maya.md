@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - histoire
-- culture-amerindienne
-- amerique-centrale
 - mysteres
 - archeologie
-- mesoamerique
 - civilisations-anciennes
-- civilisation-maya
-- les-ameriques
-- mysteres-anciens
+- ameriques
 coverImage: ./images/quora.png
 ---
 

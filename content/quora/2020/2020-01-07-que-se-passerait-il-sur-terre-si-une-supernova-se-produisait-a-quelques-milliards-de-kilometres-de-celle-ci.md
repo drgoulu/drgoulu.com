@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espace
-- catastrophes-environnementales
-- terre-planete
-- supernova
+- sciences
 - astronomie
-- sciences-de-la-nature
-- cosmologie
 - astrophysique
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

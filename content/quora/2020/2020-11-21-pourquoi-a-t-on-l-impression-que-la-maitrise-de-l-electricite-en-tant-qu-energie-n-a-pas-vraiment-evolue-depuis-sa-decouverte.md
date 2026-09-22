@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- science-et-technologie
-- perception
-- energie-physique
-- progres-de-la-science
-- decouvertes-scientifiques
-- perception-du-temps
-- electricite
-- technologie-et-innovation
-- recherches-scientifiques
-- progres-scientifique
+- physique
+- sciences
+- energie
+- recherche-scientifique
+- technologies
 coverImage: ./images/quora.png
 ---
 

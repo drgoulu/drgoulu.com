@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- personne
 - quora
+- personne
+- liberte-d-expression
 - plateformes-de-medias-sociaux
 - terrorisme
-- liberte-d-expression
-- curation-de-contenu
-- anti-semitisme
-- moderation-quora
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - questions
 - motivation
-- l-environnement
-- engagement-citoyen
-- protection-environnementale
-- respect-de-l-environnement
-- engagement-ecologique
-- preservation-de-l-environnement
-- motivations
-- protection-de-l-environnement
+- environnement
+- respect
+- protection
 coverImage: ./images/quora.png
 ---
 

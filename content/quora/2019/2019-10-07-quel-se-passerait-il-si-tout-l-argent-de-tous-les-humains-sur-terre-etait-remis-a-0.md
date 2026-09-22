@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- argent
-- scenarios-hypothetiques
-- economie-mondiale
 - humanite
-- dette
-- repartition-des-richesses
-- systeme-monetaire
-- consequences-economiques
-- crises-economiques
-- systeme-economique
+- richesse
+- argent
+- economie-mondiale
+- scenarios-hypothetiques
 coverImage: ./images/quora.png
 ---
 

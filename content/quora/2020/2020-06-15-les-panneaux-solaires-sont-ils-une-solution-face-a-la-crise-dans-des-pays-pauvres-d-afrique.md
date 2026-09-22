@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- afrique
-- pauvrete
 - energie-renouvelable
-- developpement-economique-et-social
-- les-pays-en-voie-de-developpement
-- panneaux-solaires
 - developpement-durable
+- afrique
 - energie-solaire
-- technologie-durable
+- pauvrete
 coverImage: ./images/quora.png
 ---
 

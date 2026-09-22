@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
+- univers
+- planetes
 - recherche-scientifique
 - systeme-solaire
-- vie-extraterrestre
-- planete-terre
-- l-univers-astronomie
-- exoplanetes
-- planetes-astronomie
-- astrobiologie
 coverImage: ./images/quora.png
 ---
 

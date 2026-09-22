@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - france
-- democratie-representative
-- xviiie-siecle
-- vote
-- systeme-gouvernemental
-- majorite
-- systemes-de-vote
+- systeme
 - democratie
-- representation
-- systeme-d-election
+- elections
+- vote
 coverImage: ./images/quora.png
 ---
 

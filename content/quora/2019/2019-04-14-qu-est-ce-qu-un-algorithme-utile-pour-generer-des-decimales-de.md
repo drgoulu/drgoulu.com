@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- informatique
-- pi
 - mathematiques
-- representation-decimale-de-pi
+- informatique
+- nombres
+- calcul
 - algorithmes
-- analyse-numerique
-- nombres-mathematiques
-- sciences-informatiques
-- calcul-de-pi
-- algorithmes-numeriques
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - sante-publique
 - covid-19-2019-2020
-- alphabet-grec
-- noms-et-appellation
 - virus
 - epidemiologie
 - maladies-virales
-- organisation-mondiale-de-la-sante-oms
-- mutation-des-virus
-- sante-mondiale
 coverImage: ./images/quora.png
 ---
 

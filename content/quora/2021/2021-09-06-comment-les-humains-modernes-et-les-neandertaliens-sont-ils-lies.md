@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- anthropologie
-- genetique
-- evolution-humaine
-- homo-sapiens
+- histoire
 - evolution
-- histoire-de-l-humanite
-- paleoanthropologie
-- tests-genetiques
-- genomique
+- humanite
+- evolution-humaine
+- anthropologie
 coverImage: ./images/qimg-9ecf1a5bafba7dcefd91d38eac6ec351.png
 ---
 

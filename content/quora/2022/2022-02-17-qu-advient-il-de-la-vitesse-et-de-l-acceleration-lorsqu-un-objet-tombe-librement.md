@@ -9,13 +9,8 @@ tags:
 - physique
 - sciences
 - vitesse
-- chute-libre
+- gravite
 - mouvement
-- force-de-gravite
-- acceleration-physique
-- vitesse-terminale
-- mouvement-physique
-- gravite-physique
 coverImage: ./images/qimg-927376be38e2765b64f2e34609fad872.jpg
 ---
 

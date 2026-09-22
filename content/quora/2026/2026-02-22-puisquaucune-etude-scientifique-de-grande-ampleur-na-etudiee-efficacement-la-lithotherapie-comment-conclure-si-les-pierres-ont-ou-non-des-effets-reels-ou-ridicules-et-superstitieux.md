@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- recherche-scientifique
 - etude-scientifique
-- superstitions
-- medecine-de-complement-et-alternative
-- pierres-naturelles
 - scientifiques
-- lithotherapie
+- medecine-de-complement-et-alternative
 - medecine-non-conventionnelle
-- recherches-scientifiques
-- croyances-superstitieuses
-- medecine-traditionnelle
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-sondage
-- animaux
+- environnement
 - changement-climatique
-- ecologie
-- l-environnement
+- rechauffement-climatique
+- animaux
 - especes
-- biodiversite
-- extinction-animale
-- adaptation-au-changement-climatique
-- le-rechauffement-climatique
 coverImage: ./images/qimg-e9ca89fcecb7abe79e997f71061d70a9.jpg
 ---
 

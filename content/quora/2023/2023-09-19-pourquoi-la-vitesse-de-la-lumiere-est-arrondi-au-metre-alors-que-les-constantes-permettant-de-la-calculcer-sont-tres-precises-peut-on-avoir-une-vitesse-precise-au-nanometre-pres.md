@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- vitesse-de-la-lumiere
-- precision
-- nanometre
-- mesure
-- constante-gravitationnelle
+- sciences
 - physique-theorique
-- science-physique
-- mesures-physiques
+- lumiere
+- vitesse
 coverImage: ./images/quora.png
 ---
 

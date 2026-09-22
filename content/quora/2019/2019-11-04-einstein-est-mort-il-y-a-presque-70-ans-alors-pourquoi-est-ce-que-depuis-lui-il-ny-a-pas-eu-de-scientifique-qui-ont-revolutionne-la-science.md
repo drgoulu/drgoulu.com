@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- personnalites
-- histoire-des-sciences
-- albert-einstein-physicien
-- progres-scientifique
-- decouvertes-scientifiques
+- sciences
+- histoire
 - physique-theorique
-- histoire-de-la-physique
+- decouvertes-scientifiques
 coverImage: ./images/quora.png
 ---
 

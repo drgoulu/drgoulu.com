@@ -8,14 +8,9 @@ categories:
 tags:
 - energie-nucleaire
 - risques
-- sud-ouest-de-la-france
-- tchernobyl
-- evacuations
+- catastrophes
 - catastrophes-nucleaires
-- les-centrales-nucleaires
-- accident-nucleaire
-- catastrophe-de-tchernobyl
-- radiation-nucleaire
+- centrales-nucleaires
 coverImage: ./images/quora.png
 ---
 

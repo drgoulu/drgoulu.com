@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- ondes
-- son
-- les-ondes-sonores
-- isolation
-- champs-gravitationnels
-- lumiere-physique
-- propagation
+- lumiere
 - force-gravitationnelle
+- champ-gravitationnel
+- ondes
 coverImage: ./images/quora.png
 ---
 

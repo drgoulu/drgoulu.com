@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- travail-emploi
+- droit
 - suisse
-- stages
-- legalite
-- droit-de-l-entreprise
-- stagiaires
-- conditions-de-travail
-- droit-du-travail
-- droit-des-employes
+- entreprises
+- travail
+- travail-emploi
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- vitesse-de-la-lumiere
-- theorie-de-la-relativite
-- atomes
-- atome-physique-quantique
-- relativite-restreinte
+- theorie
 - physique-theorique
-- relativite-physique
-- physique-mathematique
+- relativite
 coverImage: ./images/quora.png
 ---
 

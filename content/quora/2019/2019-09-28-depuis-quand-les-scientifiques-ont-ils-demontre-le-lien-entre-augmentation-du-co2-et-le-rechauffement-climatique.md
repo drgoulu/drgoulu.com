@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- changement-climatique
 - recherche-scientifique
-- ecologie
-- gaz-a-effet-de-serre
-- climatologie
-- emissions-de-carbone
+- changement-climatique
 - rechauffement-climatique
-- le-rechauffement-climatique
+- ecologie
 coverImage: ./images/quora.png
 ---
 

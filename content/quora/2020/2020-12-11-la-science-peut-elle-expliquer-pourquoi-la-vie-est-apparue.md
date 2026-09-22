@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- question-existentielle
 - sciences
-- biologie
-- evolution-processus
-- philosophie-des-sciences
-- sciences-de-la-vie
-- evolution-biologique-des-especes
+- philosophie
 - evolution
-- origine-de-la-vie
-- philosophie-de-la-vie
+- biologie
+- vie
 coverImage: ./images/quora.png
 ---
 

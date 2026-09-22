@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - changement-climatique
-- l-environnement
-- amazonie
-- feux-de-forets
-- deforestation
-- foret-amazonienne
+- environnement
+- feu
 - crise-climatique
-- le-rechauffement-climatique
-- lamazonie
-- le-changement-climatique
+- rechauffement-climatique
 coverImage: ./images/quora.png
 ---
 

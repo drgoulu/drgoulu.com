@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- debat
-- albert-einstein-physicien
-- philosophie-des-sciences
-- mecanique-quantique
-- physiciens
+- sciences
+- histoire
+- philosophie
 - theorie
-- histoire-de-la-physique
-- physique-theorique
-- physique-quantique
 coverImage: ./images/quora.png
 ---
 

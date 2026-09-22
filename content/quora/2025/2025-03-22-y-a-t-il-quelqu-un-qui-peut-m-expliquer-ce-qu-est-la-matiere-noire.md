@@ -9,13 +9,8 @@ tags:
 - physique
 - sciences
 - astronomie
-- matiere-noire
-- astrophysique-theorique
-- cosmologie
-- physique-theorique
-- science-physique
 - astrophysique
-- cosmologie-physique
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

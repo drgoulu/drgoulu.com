@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- etoiles-corps-celestes
 - astronomie
-- emission
-- force-gravitationnelle
-- masse-physique
-- phenomenes-physiques
 - astrophysique
+- etoiles-corps-celestes
+- phenomenes-physiques
 coverImage: ./images/quora.png
 ---
 

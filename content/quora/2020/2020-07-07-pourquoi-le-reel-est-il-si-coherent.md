@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - philosophie
 - perception
-- realite
-- epistemologie
 - conscience
-- sciences-et-metaphysique
-- cognition
-- philosophie-et-science
-- philosophie-des-sciences
-- metaphysique
+- realite
 coverImage: ./images/quora.png
 ---
 

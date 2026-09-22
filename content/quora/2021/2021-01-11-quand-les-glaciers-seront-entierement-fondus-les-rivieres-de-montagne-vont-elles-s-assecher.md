@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- geographie
+- physique
+- environnement
 - changement-climatique
-- l-environnement
-- rivieres
-- montagnes-et-lacs
-- secheresse
-- glaciers
-- geographie-physique
+- geographie
 - catastrophe-climatique
-- le-changement-climatique
 coverImage: ./images/qimg-16927ad05c9edbb818c82d65dfc0eb99.jpg
 ---
 

@@ -8,10 +8,7 @@ categories:
 tags:
 - justice
 - actualites
-- tir
-- jacob
 - violence-policiere
-- intervention-policiere
 - policier
 - brutalite-policiere
 coverImage: ./images/quora.png

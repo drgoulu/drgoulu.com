@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - ecologie
-- penseur
-- penseurs-eminents
-- les-penseurs
 - penseurs-libres
 - ecologistes
 - ecologisme
-- penseurs-verts
-- ecologue
 - penseurs-independants
 coverImage: ./images/quora.png
 ---

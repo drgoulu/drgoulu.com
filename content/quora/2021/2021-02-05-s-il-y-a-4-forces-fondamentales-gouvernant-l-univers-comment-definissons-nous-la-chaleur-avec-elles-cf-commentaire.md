@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- chaleur
-- l-univers
-- lois-de-la-thermodynamique
-- forces-fondamentales
-- chaleur-et-temperature
-- thermodynamique
-- science-fondamentale
-- physique-fondamentale
+- univers
+- loi
+- temperatures
 coverImage: ./images/quora.png
 ---
 

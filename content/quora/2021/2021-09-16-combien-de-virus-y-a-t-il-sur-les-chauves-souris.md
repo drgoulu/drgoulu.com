@@ -8,13 +8,9 @@ categories:
 tags:
 - biologie
 - animaux
-- maladies-virales
-- chauve-souris
-- virus
 - faune
-- virologie
 - zoologie
-- maladies
+- virus
 coverImage: ./images/quora.png
 ---
 

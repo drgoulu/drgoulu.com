@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- enfants
 - sciences
+- theorie
+- relativite
 - albert-einstein-physicien
-- explications-intuitives
-- pedagogie
-- theorie-de-la-relativite
-- relativite-physique
-- explications-scientifiques
-- explications-pour-enfants
 coverImage: ./images/quora.png
 ---
 

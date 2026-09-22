@@ -8,13 +8,8 @@ categories:
 tags:
 - physique
 - mercure
-- vapeur
-- energie-d-ionisation
-- plasma
 - explosions
 - electrotechnique
-- physique-des-plasmas
-- mercure-element
 - electronique
 coverImage: ./images/quora.png
 ---

@@ -8,14 +8,9 @@ categories:
 tags:
 - societe
 - opinion-publique
+- debat
 - theories-du-complot
-- discours
-- pensee-analytique
 - liberte-d-expression
-- esprit-critique
-- debats-de-societe
-- communication-publique
-- pensee-critique
 coverImage: ./images/quora.png
 ---
 

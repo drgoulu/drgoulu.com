@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- terre
+- environnement
+- vie
 - changement-climatique
-- ecologie
-- consequences
-- vie-sur-terre
-- energie-solaire
-- sciences-de-l-environnement
-- rechauffement-climatique
-- impacts-environnementaux
-- catastrophe-climatique
-- radiation-solaire
 coverImage: ./images/qimg-99294820e98a2ff6e90f8f49b8841864.png
 ---
 

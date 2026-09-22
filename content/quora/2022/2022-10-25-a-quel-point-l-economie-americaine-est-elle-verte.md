@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
 - ecologie
 - energie-renouvelable
-- durabilite
 - developpement-durable
-- environnement
-- economie-americaine
-- emissions-de-carbone
-- technologies-vertes
 - ecologisme
-- economie-durable
 coverImage: ./images/quora.png
 ---
 

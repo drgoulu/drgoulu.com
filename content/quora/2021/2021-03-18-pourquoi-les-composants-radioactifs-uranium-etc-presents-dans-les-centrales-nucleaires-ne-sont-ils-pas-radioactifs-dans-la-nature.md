@@ -8,13 +8,9 @@ categories:
 tags:
 - sciences
 - energie-nucleaire
-- uranium
-- composants-de-l-atome
-- isotopes-radioactifs
-- les-centrales-nucleaires
+- atomes
 - radioactivite
-- elements-radioactifs
-- substances-radioactives
+- centrales-nucleaires
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- environnement
 - changement-climatique
-- avions
-- l-environnement
-- voitures
-- filtres
-- bateaux
-- emissions-de-carbone
-- pollution-de-l-air
 - rechauffement-climatique
+- pollution
+- avions
 coverImage: ./images/quora.png
 ---
 

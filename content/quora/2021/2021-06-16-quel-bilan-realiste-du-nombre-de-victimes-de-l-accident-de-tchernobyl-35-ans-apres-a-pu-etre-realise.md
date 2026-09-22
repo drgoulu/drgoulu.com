@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- desastre-nucleaire-de-tchernobyl-avril-1986
-- consequences
-- victimes
-- 35-age
-- bilan-comptable
-- catastrophes-nucleaires
-- tchernobyl
 - recherche
-- evenement-historique
+- catastrophes-nucleaires
+- consequences
+- tchernobyl
 coverImage: ./images/quora.png
 ---
 

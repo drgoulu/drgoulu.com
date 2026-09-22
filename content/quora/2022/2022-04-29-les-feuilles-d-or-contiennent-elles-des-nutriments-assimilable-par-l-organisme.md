@@ -9,13 +9,8 @@ tags:
 - alimentation
 - corps-humains
 - or
-- feuilles
 - nutrition
-- assimilation
-- alimentation-et-nutrition
 - aliments
-- nutrition-humaine
-- nutriments
 coverImage: ./images/quora.png
 ---
 

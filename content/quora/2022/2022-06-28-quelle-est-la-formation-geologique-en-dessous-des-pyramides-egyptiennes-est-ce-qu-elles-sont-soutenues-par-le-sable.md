@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - geologie
-- sable
+- architecture
 - egypte-ancienne
-- grande-pyramide-de-gizeh
-- egyptologie
-- histoire-de-l-egypte
-- pyramide-de-kheops
-- lieux-en-egypte
-- pyramides-d-egypte
-- architecture-de-l-egypte-ancienne
+- egypte
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - philosophie
-- comportement
-- evolution-processus
-- intelligence-humaine
-- espece-humaine
+- evolution
 - biologie
-- evolution-humaine
-- philosophie-des-sciences
-- comportement-animal
+- processus
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-existentielle
 - espace
-- films-catastrophes
-- asteroides
-- question-philosophique
-- scenarios-de-fin-du-monde
-- catastrophes-naturelles
 - question-hypothetique
-- la-fin-du-monde
-- collisions-d-asteroides
+- question-existentielle
+- question-philosophique
+- catastrophes-naturelles
 coverImage: ./images/quora.png
 ---
 

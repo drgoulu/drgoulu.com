@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- fiabilite
+- questions
+- information
 - nations-unies
-- informations
 - verification
-- sources-fiables
-- credibilite-de-l-information
-- sources-d-information
-- verification-des-faits
-- verification-de-la-question
+- credibilite
 coverImage: ./images/quora.png
 ---
 

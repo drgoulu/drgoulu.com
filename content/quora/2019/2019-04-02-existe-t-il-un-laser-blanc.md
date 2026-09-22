@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- rayons-laser
-- la-lumiere
+- lumiere
 - optique
 - couleur
 - lasers
-- lumiere-physique
-- lumiere-blanche
-- photonique
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- trous-noirs
+- sciences
 - astronomie
-- images-spatiales
-- couleur
-- science-de-la-vision
-- objets-astronomiques
 - astrophysique
-- astronomie-d-observation
+- trous-noirs
 coverImage: ./images/quora.png
 ---
 

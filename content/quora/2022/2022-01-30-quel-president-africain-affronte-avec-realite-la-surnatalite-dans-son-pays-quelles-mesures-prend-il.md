@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- afrique
-- natalite
-- problemes-de-societe
-- croissance-demographique
-- presidents-africains
+- societe
 - demographie
-- mesures-politiques
-- strategies-politiques
-- la-demographie
+- probleme
+- afrique
 coverImage: ./images/quora.png
 ---
 

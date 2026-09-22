@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- ingenierie
+- technologie-spatiale
 - nouvelles-technologies
-- avion-de-chasse
-- propulsion
-- aerodynamique
-- industrie-aerospatiale
-- aviation-militaire
-- ingenierie-et-technologie-spatiale
-- combustion
-- aeronautique-et-astronautique
+- avions
+- astronautique
 coverImage: ./images/quora.png
 ---
 

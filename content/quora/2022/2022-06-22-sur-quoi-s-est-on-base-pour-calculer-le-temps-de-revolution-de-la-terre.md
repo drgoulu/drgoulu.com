@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- terre-planete
+- sciences
 - astronomie
-- mouvement
-- calcul-mathematique
-- sciences-de-la-nature
-- terre-ronde
-- evolution-de-la-terre
-- planetaire
-- rotation-de-la-terre
+- evolution
+- terre
 coverImage: ./images/quora.png
 ---
 

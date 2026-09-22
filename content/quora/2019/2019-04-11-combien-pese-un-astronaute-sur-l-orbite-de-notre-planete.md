@@ -7,14 +7,10 @@ categories:
 - Combien
 tags:
 - physique
-- espace
-- terre-planete
-- astronautes
 - astronomie
-- poids
-- gravite
-- poids-physique
-- gravite-de-la-terre
+- terre
+- planetes
+- espace
 coverImage: ./images/quora.png
 ---
 

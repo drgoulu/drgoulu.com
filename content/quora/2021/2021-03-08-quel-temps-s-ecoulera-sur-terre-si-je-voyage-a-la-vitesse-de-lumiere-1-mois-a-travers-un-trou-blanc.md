@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- voyage-dans-l-espace
-- trous-blancs
 - astronomie
-- vitesse-de-la-lumiere
-- relativite-restreinte
-- temps-physique
-- cosmologie
 - astrophysique
-- relativite-physique
+- cosmologie
+- relativite
 coverImage: ./images/quora.png
 ---
 

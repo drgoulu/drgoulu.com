@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - informatique
-- apprentissage
-- defis
-- competences
-- patience
-- developpement-web
-- apprentissage-de-l-informatique
 - sciences-informatiques
-- competences-techniques
+- apprentissage
+- developpement-web
+- competences
 coverImage: ./images/quora.png
 ---
 

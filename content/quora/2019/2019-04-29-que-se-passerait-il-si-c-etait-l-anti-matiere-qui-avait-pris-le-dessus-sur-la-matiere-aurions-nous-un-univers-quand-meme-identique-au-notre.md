@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- scenarios-scientifiques-hypothetiques
-- l-antimatiere
-- l-univers
-- cosmologie
-- theorie-de-la-relativite
 - astrophysique
-- matiere-physique
-- physique-theorique
-- hypotheses-scientifiques
+- univers
+- cosmologie
+- theorie
 coverImage: ./images/quora.png
 ---
 

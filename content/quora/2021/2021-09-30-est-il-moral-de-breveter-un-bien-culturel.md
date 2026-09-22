@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- culture-science-sociale
-- l-ethique
+- droit
+- ethique
+- propriete-intellectuelle
 - brevets
-- droit-sur-la-propriete-intellectuelle
-- morale
 - ethique-philosophie-morale
-- patrimoine-culturel
-- droit-des-brevets
-- heritage-culturel
-- droits-de-propriete-intellectuelle
 coverImage: ./images/quora.png
 ---
 

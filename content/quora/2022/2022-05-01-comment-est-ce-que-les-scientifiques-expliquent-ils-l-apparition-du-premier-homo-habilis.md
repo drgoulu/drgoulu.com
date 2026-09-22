@@ -7,14 +7,9 @@ categories:
 - Comment
 tags:
 - histoire
-- anthropologie
-- evolution-humaine
-- paleolithique
-- prehistoire
-- histoire-de-lhomme
-- paleoanthropologie
-- origines-humaines
 - evolution
+- evolution-humaine
+- anthropologie
 - paleontologie
 coverImage: ./images/quora.png
 ---

@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - mathematiques
-- zfe
 - theorie-des-ensembles
-- logique-mathematiques
-- fondements-des-mathematiques
-- philosophie-des-mathematiques
-- ensembles-mathematiques
-- mathematique-et-philosophie
+- logique
+- philosophie
 - post
 coverImage: ./images/quora.png
 ---

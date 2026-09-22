@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- l-environnement
+- environnement
 - energie-nucleaire
-- surete
 - risque-et-risques
 - secheresse
 - transition-energetique
-- crise-ecologique
-- crise-de-l-energie
 coverImage: ./images/quora.png
 ---
 

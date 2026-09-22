@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sciences
-- brulures-et-combustion
+- chimie
 - eau
 - proprietes
-- chimie
 - hydrogene
-- combustion
-- substances-chimiques
-- proprietes-chimiques
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sante
+- animaux
 - comportement-animal
-- adult-question-user
-- drogues
 - effets-secondaires
-- chiens-animaux-domestiques
 - toxicologie
-- cocaine
-- drogues-illicites
-- sante-des-animaux
-- toxicite
 coverImage: ./images/quora.png
 ---
 

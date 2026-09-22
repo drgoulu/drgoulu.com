@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- l-environnement
-- ecologie
+- planetes
+- environnement
 - nature
-- influence-de-l-homme-sur-la-planete
-- conservation-de-la-nature
-- interaction-homme-environnement
-- protection-de-l-environnement
-- ecologisme
-- respect-de-l-environnement
-- conservation-de-l-environnement
+- ecologie
+- conservation
 coverImage: ./images/quora.png
 ---
 

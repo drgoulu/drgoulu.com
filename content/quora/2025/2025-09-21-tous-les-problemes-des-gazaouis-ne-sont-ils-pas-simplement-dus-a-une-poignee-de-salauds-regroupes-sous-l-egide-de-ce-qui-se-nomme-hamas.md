@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- hamas
-- conflit-israelo-palestinien
-- le-moyen-orient
-- terrorisme
-- conflit
 - israel
-- bande-de-gaza
+- conflits
+- conflit-israelo-palestinien
 - palestine
-- palestiniens
 coverImage: ./images/quora.png
 ---
 

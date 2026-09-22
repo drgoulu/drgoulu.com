@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- economies
-- finances
-- euro-devise
+- economie
+- finance
+- pouvoir
+- achat
 - inflation-economie
-- monnaie-unique
-- pouvoir-d-achat
-- l-euro
-- la-monnaie
-- valeur-de-la-monnaie
 coverImage: ./images/qimg-a191f94d201eca8848f9583200199735.jpg
 ---
 

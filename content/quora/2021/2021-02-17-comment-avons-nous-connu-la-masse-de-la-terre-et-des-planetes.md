@@ -7,12 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- terre-planete
+- sciences
 - astronomie
-- sciences-de-la-nature
-- systeme-solaire
-- mesures-physiques
-- planete-terre
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

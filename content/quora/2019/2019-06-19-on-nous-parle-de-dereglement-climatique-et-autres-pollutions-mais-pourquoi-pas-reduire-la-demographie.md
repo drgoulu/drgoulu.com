@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- environnement
 - changement-climatique
-- l-environnement
 - ecologie
-- demographie
-- pollution
 - developpement-durable
-- surpopulation
-- croissance-demographique
-- demographie-mondiale
-- le-changement-climatique
+- demographie
 coverImage: ./images/quora.png
 ---
 

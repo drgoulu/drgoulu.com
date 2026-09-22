@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- relations-internationales
-- russie
-- union-europeenne
 - suisse
-- geopolitique
-- neutralite-politique-et-militaire
-- sanctions-economiques
+- relations-internationales
 - politique-internationale
+- russie
 - politique-etrangere
-- diplomatie-et-relation-internationale
 coverImage: ./images/quora.png
 ---
 

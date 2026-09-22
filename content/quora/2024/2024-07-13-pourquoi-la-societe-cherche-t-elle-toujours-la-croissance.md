@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- philosophie
+- politique
+- vie
 - societe
-- question-philosophique
-- developpement-durable
-- objectifs-de-vie
-- theorie-economique
-- croissance-economique
-- philosophie-politique
-- doctrine-economique
-- philosophie-morale
-- philosophie-de-l-economie
+- economie
 coverImage: ./images/quora.png
 ---
 

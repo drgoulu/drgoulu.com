@@ -8,13 +8,9 @@ categories:
 tags:
 - technologies
 - electricite
-- supercondensateurs
-- composants-electroniques
-- stockage-d-energie
-- batteries
+- puissance
 - electronique
-- electronique-de-puissance
-- condensateurs
+- stockage-d-energie
 coverImage: ./images/quora.png
 ---
 

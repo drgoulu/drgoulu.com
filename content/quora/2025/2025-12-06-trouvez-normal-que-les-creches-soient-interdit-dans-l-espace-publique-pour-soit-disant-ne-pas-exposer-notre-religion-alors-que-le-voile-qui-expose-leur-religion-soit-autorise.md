@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - religion
-- espace-public
 - voile
-- creche
-- vetements-et-habillement
-- libertes-individuelles
 - laicite
-- discrimination-religieuse
 - islam
-- liberte-de-religion
+- liberte
 coverImage: ./images/quora.png
 ---
 

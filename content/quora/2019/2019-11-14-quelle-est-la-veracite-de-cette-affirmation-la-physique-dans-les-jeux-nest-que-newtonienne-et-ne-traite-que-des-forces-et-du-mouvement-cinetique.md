@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- developpement-de-jeux-video
-- lois-du-mouvement-de-newton
-- cinetiques
-- science-de-l-informatique
+- developpement
 - jeux-video
-- energie-cinetique
-- moteurs-de-jeux-videos
-- physique-numerique
-- mecanique-newtonienne
+- sciences
+- informatique
 coverImage: ./images/quora.png
 ---
 

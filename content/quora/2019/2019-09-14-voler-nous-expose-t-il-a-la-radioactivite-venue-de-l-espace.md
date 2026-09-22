@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espace
+- sciences
 - astronomie
-- vol-spatial
-- rayons-cosmiques
+- espace
 - radioactivite
-- meteo-de-l-espace
-- physique-des-rayonnements
-- science-physique
-- physique-de-rayonnement
 coverImage: ./images/quora.png
 ---
 

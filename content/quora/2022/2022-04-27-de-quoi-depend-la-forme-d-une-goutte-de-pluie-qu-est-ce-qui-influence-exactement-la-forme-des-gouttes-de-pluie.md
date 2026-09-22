@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- goutte-de-pluie
-- forme-geometrie
-- sciences-de-la-nature
-- meteorologie
-- pluie
-- phenomene-meteorologique
+- sciences
+- nature
+- eau
 - forme
-- eau-de-pluie
 coverImage: ./images/qimg-72a7fcbf4f0492ec0cc1ff6ff6a0c5f2.jpg
 ---
 

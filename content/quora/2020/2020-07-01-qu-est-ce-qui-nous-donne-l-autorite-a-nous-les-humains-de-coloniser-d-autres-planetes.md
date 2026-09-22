@@ -6,14 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- colonisation-de-l-espace
-- humanite-attribut
-- responsabilite
-- l-ethique
+- espace
 - exploration-spatiale
-- ethique-philosophie-morale
-- philosophie-et-science
 - humanite
 coverImage: ./images/quora.png
 ---

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- avantages-et-inconvenients
-- humanite-attribut
-- science-et-ethique
-- inconvenients-de-la-science
-- philosophie-des-sciences
-- inconvenients
 - humanite
+- ethique
+- humanite-attribut
 coverImage: ./images/quora.png
 ---
 

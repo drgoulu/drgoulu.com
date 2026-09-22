@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - psychologie
-- sommeil
-- conscience
-- reve-lucide
 - experience
-- neuroscience
-- reves
-- conscience-de-soi
+- conscience
 - psychologie-cognitive
-- experience-humaine
+- neuroscience
 coverImage: ./images/quora.png
 ---
 

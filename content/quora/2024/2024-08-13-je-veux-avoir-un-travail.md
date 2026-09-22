@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - travail-emploi
-- emplois
-- recherche-d-emploi
 - emploi
+- recherche
 - offres-d-emploi
-- chercheurs-d-emploi
-- cherche-d-emploi
-- recherches-d-emploi
-- recherches-d-emplois
-- offres-d-emplois
+- chercheurs
 coverImage: ./images/quora.png
 ---
 

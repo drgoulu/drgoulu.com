@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
+- politique
 - ecologie
-- croissance-economique
-- economies
+- economie
 - developpement-durable
-- modele-economique
-- philosophie-de-l-economie
-- systeme-economique
-- ecologisme
-- ecologie-politique
 coverImage: ./images/qimg-f46c6ef7bb4226d8e24ef781e2968113.jpg
 ---
 

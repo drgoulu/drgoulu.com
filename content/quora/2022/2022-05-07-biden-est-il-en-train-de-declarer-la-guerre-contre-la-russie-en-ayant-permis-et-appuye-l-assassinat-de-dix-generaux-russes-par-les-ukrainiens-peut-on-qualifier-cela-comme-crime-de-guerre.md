@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- russie
+- droit
+- guerre
+- etats-unis
 - politique-internationale
-- ukraine
-- assassinats
-- generaux
-- joe-biden-homme-politique
-- crimes-de-guerre-et-criminels
-- droit-de-la-guerre
-- politique-etrangere-des-etats-unis
+- russie
 coverImage: ./images/quora.png
 ---
 

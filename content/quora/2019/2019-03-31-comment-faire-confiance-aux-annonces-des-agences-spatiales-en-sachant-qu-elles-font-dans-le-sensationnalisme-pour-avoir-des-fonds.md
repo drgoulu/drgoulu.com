@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- communication
 - exploration-spatiale
-- medias
-- rationalisme
-- sensationnel
-- confiance-excessive
-- financement
-- la-confiance
 - science-spatiale
+- medias
+- communication
+- confiance
 coverImage: ./images/quora.png
 ---
 

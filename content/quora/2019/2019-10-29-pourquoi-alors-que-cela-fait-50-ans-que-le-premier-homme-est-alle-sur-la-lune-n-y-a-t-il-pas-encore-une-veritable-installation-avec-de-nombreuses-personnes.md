@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- astronomie
+- histoire
+- espace
 - exploration-spatiale
-- lune-astronomie
-- le-programme-apollo
-- histoire-de-l-astronomie
-- voyage-dans-l-espace
-- colonisation-lunaire
-- colonisation-de-l-espace
-- programmes-spatiaux
-- missions-apollo
-- stations-spatiales
+- voyage
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Combien
 tags:
 - question-hypothetique
-- ville
-- prix
-- milliardaires
-- base-quotidienne
-- baguette-de-pain
-- cout
 - hypotheses
-- necessites-quotidiennes
+- prix
+- cout
+- ville
 coverImage: ./images/qimg-2f378a82f97af69c7e16289a6a9535b6.jpg
 ---
 

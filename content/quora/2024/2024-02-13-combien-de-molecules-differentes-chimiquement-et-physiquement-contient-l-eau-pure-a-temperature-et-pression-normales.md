@@ -7,13 +7,9 @@ categories:
 - Combien
 tags:
 - physique
-- eau-pure
 - pression
-- proprietes-chimiques
 - molecules
 - chimie
-- substance-pure
-- chimie-physique
 - proprietes-physiques
 coverImage: ./images/quora.png
 ---

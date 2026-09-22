@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- trous-noirs
-- albert-einstein-physicien
-- histoire-des-sciences
+- sciences
 - astronomie
-- relativite-generale
-- decouvertes-scientifiques
-- cosmologie
+- histoire
 - astrophysique
-- physique-theorique
 coverImage: ./images/quora.png
 ---
 

@@ -11,11 +11,6 @@ tags:
 - religion
 - sciences
 - spiritualite
-- philosophie-de-la-religion
-- science-et-religion
-- philosophie-des-sciences
-- philosophie-et-science
-- la-spiritualite
 coverImage: ./images/quora.png
 ---
 

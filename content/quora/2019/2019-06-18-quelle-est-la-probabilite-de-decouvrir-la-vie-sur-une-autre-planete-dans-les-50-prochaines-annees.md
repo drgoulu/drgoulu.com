@@ -8,13 +8,9 @@ categories:
 tags:
 - astronomie
 - recherche-scientifique
-- probabilite-statistiques
 - exploration-spatiale
-- vie-extraterrestre
-- exoplanetes
 - science-spatiale
-- astrobiologie
-- missions-spatiales
+- vie-extraterrestre
 coverImage: ./images/quora.png
 ---
 

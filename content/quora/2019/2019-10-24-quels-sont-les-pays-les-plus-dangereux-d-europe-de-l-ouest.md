@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- voyage
 - securite
 - pays
+- europe
 - voyage-international
-- europe-de-l-ouest
-- tourisme-guide-touristique
-- taux-de-criminalite
-- dangerosite
-- voyages
-- securite-personnelle
-- criminalite
 coverImage: ./images/quora.png
 ---
 

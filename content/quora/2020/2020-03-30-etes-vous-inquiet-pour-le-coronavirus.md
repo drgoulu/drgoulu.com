@@ -9,12 +9,8 @@ tags:
 - sante
 - questions
 - covid-19-2019-2020
-- prevoyance
 - maladies-infectieuses
-- corona
 - pandemie
-- preoccupation
-- covid-19-coronavirus
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - informatique
-- ressources-educatives
-- conseils-pour-devenir-un-bon-programmeur
-- langages-de-programmation
-- methodes-d-apprentissage
-- apprendre-a-programmer
-- conseils-de-programmation-informatique
-- apprendre-les-langages-de-programmation
-- methodes-pedagogiques
-- ressources-d-apprentissage
+- programmation
+- langage
+- methodes
+- ressources
 coverImage: ./images/quora.png
 ---
 

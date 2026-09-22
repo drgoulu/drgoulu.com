@@ -8,14 +8,9 @@ categories:
 tags:
 - consommation
 - energie
-- transport
-- developpement-durable
-- zone-de-confort
-- problemes-societaux
-- confort
-- mobilite
 - transports
-- mobilite-durable
+- developpement-durable
+- problemes-societaux
 coverImage: ./images/qimg-5d56fb5f12e9c5d15220a1edf2945815.jpg
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- point-zero
-- physique-theorique
-- expansion-de-l-univers
-- cosmologie
 - astrophysique
+- univers
+- cosmologie
 - theorie
-- origine-de-l-univers
-- theorie-scientifique
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- physique-theorique
+- physique
 - cosmologie
-- dimension
-- espace-temps
-- temps-physique
-- relativite-physique
-- quatrieme-dimension
-- theorie-de-la-relativite
-- dimensions-physique
-- 4e-dimension
+- theorie
+- physique-theorique
+- relativite
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - france
-- juillet-mois
 - phenomene-meteorologique
-- cannes-cote-d-azur-france
-- saison-d-ete
-- canicule
+- saisons
 - temperatures
 - meteo
-- provence-alpes-cote-d-azur-france
 coverImage: ./images/qimg-896dea39f919837c3bff7a4caa41cc8d.jpg
 ---
 

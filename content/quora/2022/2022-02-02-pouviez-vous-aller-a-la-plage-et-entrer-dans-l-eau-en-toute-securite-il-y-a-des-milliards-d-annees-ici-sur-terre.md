@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-du-monde
-- securite-personnelle
-- plages
-- faune-marine
-- evolution-biologie
-- paleontologie
-- animaux-marins
-- biologie-marine
-- vie-marine
-- histoire-de-la-terre
+- histoire
+- evolution
+- biologie
+- terre
+- monde
 coverImage: ./images/quora.png
 ---
 

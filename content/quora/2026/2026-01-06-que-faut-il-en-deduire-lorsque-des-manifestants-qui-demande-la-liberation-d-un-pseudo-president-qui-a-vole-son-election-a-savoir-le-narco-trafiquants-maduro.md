@@ -8,14 +8,9 @@ categories:
 tags:
 - manifestations
 - president
-- trafic-de-drogue
 - venezuela
 - fraude-electorale
-- politique-au-venezuela
-- protestations
-- nicolas-maduro
-- narcotrafiquant
-- manifestant
+- politique
 coverImage: ./images/quora.png
 ---
 

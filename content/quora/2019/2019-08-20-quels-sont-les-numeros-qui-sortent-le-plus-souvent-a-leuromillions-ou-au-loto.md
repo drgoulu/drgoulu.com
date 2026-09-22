@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - statistiques
-- euromillions-jeu-de-loterie
-- jeux-de-hasard
-- numeros
+- jeux
+- hasard
 - probabilite-statistiques
-- gagner-au-loto
-- probabilites-et-loteries
-- le-hasard
-- gagner-a-la-loterie
+- probabilite
 coverImage: ./images/quora.png
 ---
 

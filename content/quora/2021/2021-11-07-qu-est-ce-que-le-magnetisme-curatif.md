@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- therapies
 - medecine-naturelle
 - magnetisme
 - medecine-de-complement-et-alternative
 - medecine-non-conventionnelle
-- sante-holistique
-- intuition-magnetique
-- magnetiseur
 - sante-alternative
-- medecine-holistique
 coverImage: ./images/quora.png
 ---
 

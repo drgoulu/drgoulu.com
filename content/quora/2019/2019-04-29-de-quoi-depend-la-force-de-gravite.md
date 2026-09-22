@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- force-de-gravite
-- theorie-de-la-relativite
-- lois-de-la-physique
+- sciences
+- theorie
 - physique-theorique
-- science-physique
-- theories-de-la-gravitation
-- gravite
-- la-gravite
-- gravite-physique
+- relativite
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - psychologie
-- peur
-- comportement
-- rationnalite
-- emotions
 - comportement-humain
-- irrationalisme
-- psychologie-humaine
+- comportement
 - psychologie-cognitive
-- irrationalite
+- psychologie-humaine
 coverImage: ./images/qimg-223258fba0f4d7c0d3a70c7480b5aa00.jpg
 ---
 

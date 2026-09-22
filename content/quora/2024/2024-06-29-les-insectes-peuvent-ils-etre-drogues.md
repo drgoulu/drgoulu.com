@@ -8,13 +8,9 @@ categories:
 tags:
 - sciences
 - biologie
-- toxicite
-- drogues
-- comportement-des-insectes
-- pharmacologie
 - biologie-animale
+- comportement
 - toxicologie
-- biologie-chimique
 coverImage: ./images/qimg-2090ab7d36cee3c112c93d5892ce21b4.jpg
 ---
 

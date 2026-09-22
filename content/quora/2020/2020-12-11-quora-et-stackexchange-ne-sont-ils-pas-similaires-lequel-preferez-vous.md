@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - internet
-- preferences
+- comparaisons
 - quora
-- sites-internet-de-questions-reponses
-- stack-exchange-site-web
 - sites-internet
-- comparaisons-de-sites-web
-- sites-similaires
+- questions-reponses
 coverImage: ./images/quora.png
 ---
 

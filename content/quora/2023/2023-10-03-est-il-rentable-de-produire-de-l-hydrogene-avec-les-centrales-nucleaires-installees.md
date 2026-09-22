@@ -7,12 +7,10 @@ categories:
 - Quora
 tags:
 - energie
-- rentabilite
-- les-centrales-nucleaires
 - energie-nucleaire
-- hydrogene
 - sources-d-energie
-- profitabilite
+- hydrogene
+- centrales-nucleaires
 coverImage: ./images/quora.png
 ---
 

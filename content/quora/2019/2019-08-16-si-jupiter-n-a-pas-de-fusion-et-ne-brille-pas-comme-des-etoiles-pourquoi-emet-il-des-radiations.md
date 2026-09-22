@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- jupiter-planete
 - astronomie
-- etoiles-corps-celestes
+- astrophysique
 - systeme-solaire
 - science-spatiale
-- astrophysique
-- physique-des-rayonnements
 coverImage: ./images/quora.png
 ---
 

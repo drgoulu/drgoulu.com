@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- theorie
 - informatique
-- interpretation
-- python-langage-de-programmation
-- developpement-logiciel
-- compilateurs
-- langages-de-programmation
-- science-de-l-informatique
-- programmation-en-python
-- theorie-du-langage-de-programmation
-- langage-de-programmation
+- programmation
+- langage
 coverImage: ./images/quora.png
 ---
 

@@ -8,13 +8,9 @@ categories:
 tags:
 - relations-internationales
 - guerre
-- iran
-- peuple-iranien
-- conflit
-- guerres-et-histoire-militaire
-- comprehension-interculturelle
 - politique-internationale
-- politique-mondiale
+- conflits
+- histoire-militaire
 coverImage: ./images/quora.png
 ---
 

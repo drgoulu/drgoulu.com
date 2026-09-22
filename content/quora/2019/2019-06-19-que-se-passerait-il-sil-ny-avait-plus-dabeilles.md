@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- alimentation
-- abeilles
-- consequences
-- l-environnement
-- agriculture
-- pollinisation
-- biodiversite
-- ecosystemes
-- impact-environnemental
 - environnement
+- biodiversite
+- alimentation
+- impact-environnemental
+- consequences
 coverImage: ./images/quora.png
 ---
 

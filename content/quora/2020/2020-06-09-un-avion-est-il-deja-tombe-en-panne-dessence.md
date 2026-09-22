@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- securite
 - aviation
-- reservoir-d-essence
-- enquetes-sur-les-accidents-davion
-- transport-aerien
-- panne-de-moteur
 - avions
-- securite-aerienne
-- accidents-et-incidents-d-aviation
-- accidents-aeriens
-- securite-du-transport-aerien
+- moteur
+- accidents
 coverImage: ./images/quora.png
 ---
 

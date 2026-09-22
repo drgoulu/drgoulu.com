@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- philosophie
-- libre-arbitre
-- epistemologie
 - sciences
-- determinisme
-- metaphysique
+- philosophie
 - question-philosophique
-- philosophie-et-science
-- philosophie-des-sciences
-- philosophique
+- metaphysique
+- epistemologie
 coverImage: ./images/quora.png
 ---
 

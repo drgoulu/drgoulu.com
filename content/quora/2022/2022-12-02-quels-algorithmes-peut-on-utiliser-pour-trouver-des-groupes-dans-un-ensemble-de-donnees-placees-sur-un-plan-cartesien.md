@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-informatiques
+- sciences
 - statistiques
-- clustering
+- sciences-informatiques
 - algorithmes
-- classification-apprentissage-automatique
-- analyse-des-donnees
 - donnees
-- science-des-donnees
-- algorithmes-de-graphe
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- responsabilite
-- l-environnement
-- sante-humaine
-- dommages-aux-nerfs
-- inconvenients-de-la-science
-- science-et-ethique
+- environnement
 - humanite
+- ethique
 - impact-environnemental
-- dommages-aux-cheveux
 coverImage: ./images/quora.png
 ---
 

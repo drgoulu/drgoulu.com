@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- hasard
-- inevitable
-- sciences-de-la-vie
-- evolution-biologie
-- biologie
-- origine-de-la-vie
-- philosophie-des-sciences
-- philosophie-de-la-vie
 - evolution
+- biologie
+- vie
 coverImage: ./images/quora.png
 ---
 

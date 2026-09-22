@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- biologie
-- controverses
-- charles-darwin
-- baleines
 - evolution
-- darwinisme
+- biologie
+- theorie
 - zoologie
-- theorie-de-l-evolution
 - evolution-biologique-des-especes
-- biologie-de-l-evolution
 coverImage: ./images/quora.png
 ---
 

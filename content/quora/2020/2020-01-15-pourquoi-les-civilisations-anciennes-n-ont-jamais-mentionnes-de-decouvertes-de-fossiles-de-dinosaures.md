@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- dinosaures
+- recherche-scientifique
 - decouvertes-scientifiques
 - paleontologie
-- histoire-et-civilisations-de-lantiquite
-- archeologie-antique
-- cultures-anciennes
-- fossiles
-- recherches-scientifiques
-- civilisations-anciennes
+- dinosaures
 coverImage: ./images/quora.png
 ---
 

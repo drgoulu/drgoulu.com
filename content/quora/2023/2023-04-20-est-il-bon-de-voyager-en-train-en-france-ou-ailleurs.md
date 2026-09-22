@@ -9,12 +9,8 @@ tags:
 - france
 - transports-en-commun
 - voyage
-- voyage-en-france
-- moyen-de-transport
 - transports
-- le-voyage
-- transport-public
-- mode-de-transport
+- mode
 coverImage: ./images/quora.png
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- nature
 - changement-climatique
-- greta-thunberg
-- especes-rares
-- biodiversite
-- extinction-des-especes
-- conservation-de-la-nature
-- lutte-contre-le-rechauffement
-- le-rechauffement-climatique
+- rechauffement-climatique
+- especes
+- extinction
 coverImage: ./images/quora.png
 ---
 

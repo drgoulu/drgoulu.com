@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- le-soleil
-- planetes-du-systeme-solaire
 - astronomie
-- satellites-naturels
-- rotation-physique
-- science-spatiale
+- planetes
 - systeme-solaire
-- dynamique-du-systeme-solaire
+- science-spatiale
 coverImage: ./images/quora.png
 ---
 

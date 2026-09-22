@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- planetes
 - exploration-spatiale
-- ingenierie
-- nasa
-- mars-planete
-- robotique
-- curiosite-mars-rover
 - science-spatiale
-- mission-sur-mars
+- ingenierie
 - technologie-spatiale
-- sonde-spatiale
 coverImage: ./images/quora.png
 ---
 

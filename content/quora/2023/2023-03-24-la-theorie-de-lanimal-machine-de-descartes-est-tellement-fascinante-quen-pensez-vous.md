@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- dualisme
-- rene-descartes
-- relation-homme-animal
-- theorie-des-automates
-- theorie-de-l-esprit
-- philosophie-et-psychologie
-- philosophe
-- philosophie-et-science
+- psychologie
 - philosophie-de-l-esprit
+- philosophe
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- terre
+- planetes
 - changement-climatique
+- monde
 - eau
-- terre-planete
-- ressources-en-eau
-- les-problemes-du-monde
-- la-terre
-- penurie-de-l-eau
-- planete-terre
-- le-changement-climatique
 coverImage: ./images/quora.png
 ---
 

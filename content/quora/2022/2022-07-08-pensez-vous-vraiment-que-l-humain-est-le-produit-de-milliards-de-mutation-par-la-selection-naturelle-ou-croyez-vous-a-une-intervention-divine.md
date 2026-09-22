@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- creationnisme
-- intervention-divine
-- religion
 - sciences
-- selection-naturelle
-- origine-de-la-vie
-- humanite
-- theorie-de-l-evolution
-- biologie-de-l-evolution
+- philosophie
+- evolution
+- biologie
+- theorie
 coverImage: ./images/quora.png
 ---
 

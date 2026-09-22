@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- risques-pour-la-sante
-- electromagnetisme
-- ondes-radio
-- frequence
-- sante-physique
-- spectre-electromagnetique
+- sante
 - risques
-- physique-des-rayonnements
+- electromagnetisme
+- spectre-electromagnetique
 coverImage: ./images/quora.png
 ---
 

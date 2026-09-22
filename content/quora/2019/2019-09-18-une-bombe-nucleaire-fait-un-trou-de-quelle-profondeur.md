@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- armes-nucleaires
-- destruction
-- cratere
-- guerre-nucleaire
 - sciences-nucleaires
-- fission-nucleaire
-- bombe-nucleaire
-- attaque-nucleaire
-- explosion-nucleaire
+- cratere
+- armes-nucleaires
+- explosions-nucleaires
+- guerre-nucleaire
 coverImage: ./images/qimg-ce48b693cd7fc675096101ffa8db1e0c.jpg
 ---
 

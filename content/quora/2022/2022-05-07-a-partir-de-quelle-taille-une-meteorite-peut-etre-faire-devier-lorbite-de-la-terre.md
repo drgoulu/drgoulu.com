@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- crateres-d-impact
-- deviation
-- meteorites
-- terre-planete
-- taille-de-pierre
-- orbites
-- science-de-la-terre
-- impacts-environnementaux
-- orbite-de-la-terre
+- terre
+- planetes
+- impact-environnemental
 coverImage: ./images/quora.png
 ---
 

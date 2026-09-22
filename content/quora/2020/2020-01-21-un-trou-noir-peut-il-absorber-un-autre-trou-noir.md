@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs-supermassifs
 - astronomie
-- fusion-de-fichiers
-- gravite
-- evaporation-des-trous-noirs
-- objets-astronomiques
-- cosmologie
 - astrophysique
+- cosmologie
 - trous-noirs
 coverImage: ./images/qimg-3296f1e05f7bf9143f68609798c39357.jpg
 ---

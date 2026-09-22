@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - comparaisons
-- economies
-- inegalites-de-revenu
-- indice-de-developpement-humain
-- coefficient-de-gini
-- revenu-par-tete
+- economie
 - inegalite
+- revenu
 - statistiques-economiques
-- economies-nationales
-- donnees-economiques
 coverImage: ./images/quora.png
 ---
 

@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- energie-physique
-- thermodynamique
-- lois-de-la-physique
+- philosophie
 - physique-theorique
-- science-physique
-- philosophie-de-la-physique
-- la-physique
+- energie
 coverImage: ./images/quora.png
 ---
 

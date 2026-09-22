@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - philosophie
-- licences
 - religion
-- morale
 - ethique
 - atheisme
-- moralisme
 - moralite
-- la-philosophie
-- philosophie-ethique
 coverImage: ./images/quora.png
 ---
 

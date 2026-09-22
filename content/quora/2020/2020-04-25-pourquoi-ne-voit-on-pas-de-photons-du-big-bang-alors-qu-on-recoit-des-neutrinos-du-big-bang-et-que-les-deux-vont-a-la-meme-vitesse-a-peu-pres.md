@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- neutrinos
-- fond-diffus-cosmologique
-- vitesse-de-la-lumiere
 - cosmologie
-- photons
-- radiation
-- cosmologie-du-big-bang
+- lumiere
+- vitesse
+- big-bang
 coverImage: ./images/quora.png
 ---
 

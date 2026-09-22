@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - histoire
+- temps
+- voyage
 - question-hypothetique
-- adolf-hitler
-- consequences
-- l-holocauste
-- la-seconde-guerre-mondiale
-- voyage-dans-le-temps
-- nazisme
-- evenements-historiques
 - hypotheses
 coverImage: ./images/quora.png
 ---

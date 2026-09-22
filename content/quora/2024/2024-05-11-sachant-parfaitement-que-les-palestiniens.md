@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- exil
-- conflit-israelo-palestinien
 - relations-internationales
-- la-solution-a-deux-etats
-- palestine
-- eradication
 - israel
-- palestiniens
+- conflit-israelo-palestinien
+- palestine
 coverImage: ./images/quora.png
 ---
 

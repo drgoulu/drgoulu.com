@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- georg-cantor-mathematicien
 - mathematiques
-- theorie-des-ensembles
-- philosophie-des-mathematiques
-- philosophie-et-science
-- mathematiciens
 - post
+- mathematiciens
 coverImage: ./images/quora.png
 ---
 

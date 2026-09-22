@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- terre
+- planetes
+- environnement
 - changement-climatique
-- l-environnement
-- geologie
-- permafrost
-- sciences-de-la-terre
-- rechauffement-climatique
-- effets-du-rechauffement-de-la-planete
-- crise-climatique
-- catastrophe-climatique
 coverImage: ./images/quora.png
 ---
 

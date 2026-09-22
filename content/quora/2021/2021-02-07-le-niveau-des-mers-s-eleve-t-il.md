@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - changement-climatique
-- phenomenes-naturels
-- hausse-du-niveau-de-la-mer
 - rechauffement-climatique
 - crise-climatique
-- le-rechauffement-climatique
-- catastrophe-climatique
-- phenomenes-climatiques
-- changement-du-climat
+- phenomenes-naturels
+- climats
 coverImage: ./images/quora.png
 ---
 

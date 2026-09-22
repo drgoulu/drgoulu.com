@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- imprimantes-3d
-- nouvelles-technologies
 - sciences
-- fabrication
-- matieres
-- science-et-technologie
-- atomes
-- matiere-physique
+- technologies
+- matiere
+- nouvelles-technologies
 coverImage: ./images/qimg-a766f1be4145b6186a9f2d3795457242.jpg
 ---
 

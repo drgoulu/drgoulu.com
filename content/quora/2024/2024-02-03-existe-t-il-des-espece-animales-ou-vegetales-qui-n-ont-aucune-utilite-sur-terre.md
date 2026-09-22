@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - biologie
-- utilitarisme
-- impact-environnemental
+- vie
+- nature
 - especes
-- ecologie
-- sciences-de-la-nature
-- biodiversite
-- utilite
-- espece-animale
-- sciences-de-la-vie
 coverImage: ./images/quora.png
 ---
 

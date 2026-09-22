@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- geographie
-- ponts-structure
+- physique
+- monde
 - ingenierie
+- geographie
 - transports
-- oceans
-- logistique
-- continents
-- geographie-physique
-- geographie-du-monde
-- transport-et-logistique
 coverImage: ./images/qimg-18fb67a5efa7ab01f1dcb485d1253711.jpg
 ---
 

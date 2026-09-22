@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
+- planetes
 - recherche-scientifique
-- uranus-planete
 - systeme-solaire
 - exploration-spatiale
-- planetes-du-systeme-solaire
-- science-spatiale
-- neptune-planete
-- missions-spatiales
 coverImage: ./images/quora.png
 ---
 

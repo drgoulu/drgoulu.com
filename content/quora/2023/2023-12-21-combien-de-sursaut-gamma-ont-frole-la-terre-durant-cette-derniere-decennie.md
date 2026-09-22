@@ -7,13 +7,10 @@ categories:
 - Combien
 tags:
 - astronomie
-- recherche-scientifique
-- sursaut-gamma
-- evenements-d-actualite
 - astrophysique
-- rayons-gamma
-- curiosite-scientifique
+- recherche-scientifique
 - decouvertes-scientifiques
+- curiosite-scientifique
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- terre-planete
-- ressources-naturelles
+- terre
+- planetes
 - geologie
-- silicium-element
-- mineraux
+- ressources-naturelles
 - ressources-planetaire
-- substance-minerale
-- mineralogie
-- matiere-minerale
 coverImage: ./images/quora.png
 ---
 

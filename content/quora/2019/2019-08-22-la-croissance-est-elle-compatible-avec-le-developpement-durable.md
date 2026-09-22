@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
 - societe
 - ecologie
-- developpement
-- l-environnement
-- economie-durable
-- croissance-economique
-- environnement-et-developpement-durable
 - developpement-durable
-- ecologie-humaine
+- developpement
 coverImage: ./images/qimg-9030402f626ed7ce6eaf26911b6dbc0f.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - opinion-publique
+- information
+- politique-internationale
 - russie
 - quora
-- otan
-- manipulation
-- politique-internationale
-- propagande
-- medias-d-information
-- influence
 coverImage: ./images/quora.png
 ---
 

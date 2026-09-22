@@ -9,12 +9,8 @@ tags:
 - sciences
 - astronomie
 - espace
-- satellites-artificiels
-- terre-planete
-- pollution-en-orbite-terrestre
-- debris-spatiaux
-- physique-spatiale
-- programmes-spatiaux
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

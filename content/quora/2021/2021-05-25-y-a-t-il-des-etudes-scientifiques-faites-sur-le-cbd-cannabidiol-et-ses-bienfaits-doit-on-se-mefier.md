@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- cannabidiol-cbd
 - recherche-scientifique
-- effets-du-cannabis
-- cannabis
+- sante
 - medecine
-- cbd
-- cannabis-medical
-- etudes-scientifiques
+- etude-scientifique
 - recherche-medicale
 coverImage: ./images/quora.png
 ---

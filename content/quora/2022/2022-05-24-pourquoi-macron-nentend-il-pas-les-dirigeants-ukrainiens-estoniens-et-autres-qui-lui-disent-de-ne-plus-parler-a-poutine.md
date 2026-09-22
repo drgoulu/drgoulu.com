@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - relations-internationales
-- emmanuel-macron
-- ukraine
-- estonie
-- vladimir-poutine
-- diplomatie
 - politique-internationale
+- ukraine
 - politique-etrangere
-- politique-etrangere-francaise
+- vladimir-poutine
 coverImage: ./images/quora.png
 ---
 

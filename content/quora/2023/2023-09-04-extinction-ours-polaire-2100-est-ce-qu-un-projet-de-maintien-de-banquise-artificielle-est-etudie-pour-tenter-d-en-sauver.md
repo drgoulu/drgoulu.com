@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
 - recherche-scientifique
 - changement-climatique
-- '2100'
-- banquise
-- ours-polaires
-- l-arctique
-- technologie-durable
-- protection-de-l-environnement
-- extinction-des-especes
 - rechauffement-climatique
+- especes
 coverImage: ./images/quora.png
 ---
 

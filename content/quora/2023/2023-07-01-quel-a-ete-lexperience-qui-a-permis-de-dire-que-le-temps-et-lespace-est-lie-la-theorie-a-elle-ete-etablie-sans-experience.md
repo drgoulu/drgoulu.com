@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- experience
+- theorie
+- relativite
 - espace
-- relativite-restreinte
-- etude-scientifique
-- temps-physique
-- theorie-de-la-relativite
-- espace-temps
-- relativite-generale
-- relativite-physique
+- temps
 coverImage: ./images/quora.png
 ---
 

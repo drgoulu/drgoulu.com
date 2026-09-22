@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- preferences
-- series-televisees-britanniques
-- culture-de-l-espagne
+- etats-unis
+- culture
 - differences-culturelles
-- chauvinisme
+- preferences
 - espagne
-- affinites-culturelles
-- series-tv-des-etats-unis
-- la-culture-espagnole
 coverImage: ./images/quora.png
 ---
 

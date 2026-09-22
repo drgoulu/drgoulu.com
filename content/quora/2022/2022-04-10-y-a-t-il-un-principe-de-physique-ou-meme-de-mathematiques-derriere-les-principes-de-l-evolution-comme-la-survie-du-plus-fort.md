@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- mathematiques
-- evolution-processus
-- survie-du-plus-apte
-- lois-et-principes-scientifiques
-- theorie-de-l-evolution
-- evolution-biologique-des-especes
-- evolutionisme
 - evolution
-- biologie-de-l-evolution
+- biologie
+- mathematiques
+- theorie
 coverImage: ./images/quora.png
 ---
 

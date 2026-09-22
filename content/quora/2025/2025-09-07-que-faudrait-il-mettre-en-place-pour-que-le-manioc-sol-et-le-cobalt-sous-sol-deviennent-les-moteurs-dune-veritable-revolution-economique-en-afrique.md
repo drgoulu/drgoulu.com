@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- afrique
-- manioc
-- cobalt-element
 - ressources-naturelles
+- afrique
+- agriculture
 - developpement-economique
-- industrie-miniere
 - croissance-economique
-- economie-africaine
-- ressources-naturelles-des-pays-africains
-- agriculture-en-afrique
 coverImage: ./images/quora.png
 ---
 

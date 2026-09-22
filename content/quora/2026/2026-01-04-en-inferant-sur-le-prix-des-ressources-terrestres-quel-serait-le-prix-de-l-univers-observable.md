@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- ressources-naturelles
-- prix
-- l-univers
-- economie-generale
+- astrophysique
+- univers
 - cosmologie
 - univers-observable
-- astrophysique
-- cout
-- l-univers-astronomie
 coverImage: ./images/quora.png
 ---
 

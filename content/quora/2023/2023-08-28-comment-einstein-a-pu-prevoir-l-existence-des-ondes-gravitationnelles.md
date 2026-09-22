@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- albert-einstein-physicien
-- electromagnetisme
-- relativite-generale
-- theorie-scientifique
-- physique-theorique
-- philosophie-de-la-physique
+- philosophie
 - theorie
+- physique-theorique
 coverImage: ./images/quora.png
 ---
 

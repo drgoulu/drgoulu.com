@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - animaux
-- disparition
-- especes-eteintes
+- especes
+- extinction
 - faune
-- les-elephants
-- extinction-des-especes
-- animaux-disparus
-- elephants
-- extinction-animale
+- disparition
 coverImage: ./images/qimg-d0d5d6d7591ef15d573f268e1cbe4ff6.png
 ---
 

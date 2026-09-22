@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- faune
-- evenements-d-actualite
-- '2020'
-- disparition
+- nature
 - especes
-- biodiversite
-- extinction-des-especes
-- conservation-de-la-nature
-- annees-2020
-- extinction-animale
+- extinction
+- faune
+- conservation
 coverImage: ./images/quora.png
 ---
 

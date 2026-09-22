@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - animaux
-- drogues-illicites
 - douane
-- dressage-des-chiens
-- cocaine
-- chiens-de-police
+- chiens
 - drogues
-- comportement-des-chiens
-- depistage-de-drogues
-- chiens-de-drogue
+- comportement
 coverImage: ./images/quora.png
 ---
 

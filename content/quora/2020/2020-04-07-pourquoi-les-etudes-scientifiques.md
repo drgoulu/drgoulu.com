@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sante
-- acces-aux-donnees
-- transparence
-- efficacite
 - recherche-scientifique
-- prix-des-medicaments
-- etudes-scientifiques
+- sante
+- etude-scientifique
 - recherche-medicale
+- prix
 coverImage: ./images/quora.png
 ---
 

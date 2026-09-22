@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - mathematiques
+- theorie
+- nombres
+- nombres-premiers
 - nombres-naturels
-- fonction-croissante
-- theorie-des-nombres-premiers
-- numeros-entiers
-- fonction-exponentielle
-- arithmetique
-- theorie-analytique-des-nombres
-- theorie-du-nombre
-- theorie-des-nombres
 coverImage: ./images/quora.png
 ---
 

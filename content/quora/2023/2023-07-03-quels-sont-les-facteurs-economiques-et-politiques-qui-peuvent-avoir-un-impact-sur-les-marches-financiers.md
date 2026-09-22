@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- finance
 - politique
-- investissement
-- facteurs-de-production
+- production
 - economie-mondiale
-- marches-financiers
-- indicateurs-economiques
-- secteurs-economiques
-- donnees-economiques
-- facteurs-economiques
+- finance
+- investissement
 coverImage: ./images/quora.png
 ---
 

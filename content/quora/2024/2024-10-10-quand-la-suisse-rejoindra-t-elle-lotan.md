@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- relations-internationales
 - suisse
-- otan
-- l-europe
-- defense
-- securite-nationale
-- adhesion-a-l-otan
+- relations-internationales
 - politique-internationale
-- pays-europeen
+- europe
 - politique-etrangere
 coverImage: ./images/quora.png
 ---

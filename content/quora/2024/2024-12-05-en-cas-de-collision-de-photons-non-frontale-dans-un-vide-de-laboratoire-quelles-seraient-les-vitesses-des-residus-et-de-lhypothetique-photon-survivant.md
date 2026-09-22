@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- residus
-- vide-espace
-- theorie-quantique-des-champs
-- vitesse-de-la-lumiere
-- laboratoires
-- photons
-- collision-physique
 - physique-theorique
-- laboratoire
+- lumiere
+- vitesse
+- photons
 coverImage: ./images/quora.png
 ---
 

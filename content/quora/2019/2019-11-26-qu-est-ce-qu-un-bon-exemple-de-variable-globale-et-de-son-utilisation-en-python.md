@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- langages-de-programmation
+- programmation
+- langage
+- conseils
+- python
 - developpement-logiciel
-- variables
-- variable-globale
-- conseil-de-programmation-en-python
-- python-langage-de-programmation
-- programmation-en-python
-- language-de-programmation
 coverImage: ./images/quora.png
 ---
 

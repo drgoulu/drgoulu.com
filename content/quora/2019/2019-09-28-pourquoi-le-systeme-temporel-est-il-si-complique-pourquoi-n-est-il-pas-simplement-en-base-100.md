@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
+- sciences
 - mathematiques
-- le-temps
+- temps
 - systeme
-- temps-physique
-- mesure-du-temps
-- systeme-de-numeration
-- systeme-horaire
-- systeme-numerique
-- sciences-mathematiques
-- calcul-du-temps
 coverImage: ./images/quora.png
 ---
 

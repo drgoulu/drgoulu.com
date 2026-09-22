@@ -9,12 +9,8 @@ tags:
 - ressources-naturelles
 - biologie-marine
 - oceans
-- pecher
-- gestion-des-stocks-halieutiques
 - oceanographie
-- peche-industrielle
 - gestion-des-resssources-naturelles
-- sciences-halieutiques
 coverImage: ./images/quora.png
 ---
 

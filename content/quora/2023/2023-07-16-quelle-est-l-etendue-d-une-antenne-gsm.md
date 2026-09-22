@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - telecommunications
-- portee-de-reception
-- reseau-mobile-gsm
 - antenne-radioelectrique
 - transmission-du-signal
 - antennes
 - reseaux-de-telecommunication
-- telecommunications-mobiles
-- reseau-de-telephonie-mobile
 coverImage: ./images/quora.png
 ---
 

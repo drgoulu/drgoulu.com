@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- experiences
 - sciences
-- question-directe
-- magnetisme
-- phenomenes-naturels
-- question-d-enquete
-- experience-personnelle
+- questions
 - experience
-- experience-humaine
+- phenomenes-naturels
 coverImage: ./images/quora.png
 ---
 

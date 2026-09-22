@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- opinion
+- croyance
 - culture-populaire
-- signes-du-soleil-astrologie
-- opinions-et-croyances
-- astrologie-occidentale
-- signes-du-zodiaque
-- croyances
 - croyances-personnelles
-- astrologie-solaire
+- signes-du-soleil-astrologie
 coverImage: ./images/quora.png
 ---
 

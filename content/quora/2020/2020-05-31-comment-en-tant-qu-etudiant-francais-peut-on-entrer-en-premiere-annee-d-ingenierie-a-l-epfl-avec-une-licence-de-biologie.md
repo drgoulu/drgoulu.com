@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
+- ingenierie
 - education
-- epfl
-- ecole-polytechnique-federale-de-lausanne
-- admissions-a-l-universite-et-dans-des-ecoles
-- etudes-en-ingenierie
-- etudiants-francais
+- etudes
 - enseignement-superieur
-- etudes-de-sciences
-- etudier-l-ingenierie
 coverImage: ./images/quora.png
 ---
 

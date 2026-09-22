@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- education
 - physique
-- mathematiques
-- trous-noirs
 - astronomie
-- astrophysique-relativiste
-- enseignement
-- physique-theorique
 - astrophysique
-- mathematiques-et-physique
+- mathematiques
+- physique-theorique
 coverImage: ./images/quora.png
 ---
 

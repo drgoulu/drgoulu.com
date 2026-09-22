@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- culture-populaire
+- theories-du-complot
 - medias
 - realite
-- fiction
-- theories-du-complot
-- les-simpson-serie-tele
 - predictions
-- television
-- theories-du-complot-specifiques
+- fiction
 coverImage: ./images/quora.png
 ---
 

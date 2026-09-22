@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- environnement
 - technologies
-- l-environnement
-- solar-impulse
 - aviation
 - energie-solaire
-- progres-scientifique
-- tour-du-monde
 - avions
-- voyage-autour-du-monde
-- progres-humain
 coverImage: ./images/quora.png
 ---
 

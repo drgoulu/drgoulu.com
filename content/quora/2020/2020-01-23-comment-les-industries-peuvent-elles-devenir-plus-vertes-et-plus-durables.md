@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- environnement
+- developpement-durable
+- entreprises
 - innovation
 - durabilite
-- responsabilite-sociale-d-entreprise
-- developpement-durable
-- industrie
-- transition-ecologique
-- technologie-durable
-- l-innovation
-- environnement-et-developpement-durable
-- economie-durable
 coverImage: ./images/quora.png
 ---
 

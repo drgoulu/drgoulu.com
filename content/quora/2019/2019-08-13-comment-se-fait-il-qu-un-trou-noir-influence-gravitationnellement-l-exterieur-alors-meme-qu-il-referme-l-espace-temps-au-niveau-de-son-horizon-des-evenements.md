@@ -7,14 +7,9 @@ categories:
 - Comment
 tags:
 - physique
-- trous-noirs
 - astronomie
-- horizon-des-evenements
-- espace-temps
-- gravitation
-- cosmologie
 - astrophysique
-- relativite
+- cosmologie
 - physique-theorique
 coverImage: ./images/quora.png
 ---

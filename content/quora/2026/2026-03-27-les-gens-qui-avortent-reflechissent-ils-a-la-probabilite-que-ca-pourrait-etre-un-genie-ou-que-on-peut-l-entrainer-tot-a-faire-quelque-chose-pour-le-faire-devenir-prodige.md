@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- enfant-prodige
-- reflexion
 - societe
-- avortement
-- genie
-- ethique-medicale
-- developpement-de-l-enfant
+- psychologie
 - ethique
-- philosophie-et-psychologie
+- developpement
 coverImage: ./images/quora.png
 ---
 

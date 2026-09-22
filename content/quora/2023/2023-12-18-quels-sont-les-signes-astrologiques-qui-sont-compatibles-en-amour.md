@@ -7,11 +7,8 @@ categories:
 - Quora
 tags:
 - relations-romantiques
-- amour
-- zodiac
 - signes-du-soleil-astrologie
 - compatibilite
-- predictions-astrologiques
 - horoscopes-astrologie
 - signes-du-zodiaque
 coverImage: ./images/quora.png

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- informatique
+- sciences
 - mathematiques
-- nombres-naturels
-- calcul
-- theorie-des-nombres-premiers
-- ordinateurs-portables
-- science-de-l-informatique
-- calcul-mathematique
-- theorie-des-nombres
+- theorie
+- informatique
+- nombres
 coverImage: ./images/quora.png
 ---
 

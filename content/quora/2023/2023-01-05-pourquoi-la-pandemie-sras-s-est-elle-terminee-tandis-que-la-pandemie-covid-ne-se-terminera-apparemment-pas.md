@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- pandemie
-- sante-et-securite-publiques
+- sante
 - virus
-- syndrome-respiratoire-aigu-severe-sras
-- maladies-virales
 - virologie
-- sars-coronavirus
-- epidemies
-- pandemie-de-covid19
+- pandemie
+- securite-publique
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- question-philosophique
-- anthropologie
-- biologie-humaine
+- histoire
 - evolution
-- couleur-de-la-peau
-- histoire-de-l-humanite
-- origines-humaines
+- humanite
 - evolution-humaine
-- anthropologie-societe
-- biologie-evolutive-humaine
+- biologie-humaine
 coverImage: ./images/quora.png
 ---
 

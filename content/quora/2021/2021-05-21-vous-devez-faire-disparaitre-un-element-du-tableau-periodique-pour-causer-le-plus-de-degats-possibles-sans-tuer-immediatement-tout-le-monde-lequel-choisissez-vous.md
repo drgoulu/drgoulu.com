@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- question-hypothetique
-- destruction
-- scenario
-- elements-du-tableau-periodique
 - chimie
-- catastrophes
-- elements-chimiques
+- question-hypothetique
 - hypotheses
-- tableau-periodique
+- catastrophes
 coverImage: ./images/quora.png
 ---
 

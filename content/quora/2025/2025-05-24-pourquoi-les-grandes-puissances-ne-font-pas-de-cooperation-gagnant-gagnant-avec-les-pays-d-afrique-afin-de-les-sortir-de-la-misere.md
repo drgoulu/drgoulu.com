@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - relations-internationales
-- pauvrete
-- afrique
-- developpement-economique
-- cooperation
-- grandes-puissances-mondiales
-- la-pauvrete-en-afrique
-- aide-au-developpement
 - developpement
-- cooperation-economique
+- afrique
+- pauvrete
+- developpement-economique
 coverImage: ./images/quora.png
 ---
 

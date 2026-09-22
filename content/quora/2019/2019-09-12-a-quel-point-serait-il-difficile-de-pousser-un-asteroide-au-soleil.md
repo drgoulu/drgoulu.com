@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- le-soleil-astronomie
-- espace
 - astronomie
-- difficulte
-- mecanique-celeste
-- collisions-d-asteroides
+- espace
 - systeme-solaire
-- objets-astronomiques
-- asteroides
+- soleil
 coverImage: ./images/quora.png
 ---
 

@@ -6,13 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- innovation
-- energie-nucleaire
-- nouvelles-technologies
-- recherche-scientifique
-- production-d-energie
+- sciences
 - energie
+- recherche-scientifique
+- technologies
+- energie-nucleaire
 coverImage: ./images/quora.png
 ---
 

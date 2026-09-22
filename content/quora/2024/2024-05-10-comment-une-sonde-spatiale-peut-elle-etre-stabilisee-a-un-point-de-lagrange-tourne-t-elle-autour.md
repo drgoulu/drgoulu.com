@@ -9,11 +9,7 @@ tags:
 - astronomie
 - exploration-spatiale
 - rotation
-- stabilisateur
-- mecanique-celeste
-- mecanique-orbitale
-- rotation-physique
-- sonde-spatiale
+- physique
 - science-spatiale
 coverImage: ./images/qimg-38552433484a5055cb9cc2c08634c42e.png
 ---

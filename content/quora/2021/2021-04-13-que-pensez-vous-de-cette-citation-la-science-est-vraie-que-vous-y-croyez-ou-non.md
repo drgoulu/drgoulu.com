@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
 - croyance
 - epistemologie
-- les-citations
-- sciences
 - verite
-- philosophie-et-science
-- philosophie-des-sciences
-- croyances
 coverImage: ./images/quora.png
 ---
 

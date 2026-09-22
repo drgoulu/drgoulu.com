@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- alchimie
-- philosophie-des-sciences
-- histoire-de-la-science
+- histoire
+- philosophie
+- nature
 - chimie
-- science-de-la-nature
-- sciences-technologies
-- histoire-et-science
-- histoire-des-sciences
 coverImage: ./images/quora.png
 ---
 

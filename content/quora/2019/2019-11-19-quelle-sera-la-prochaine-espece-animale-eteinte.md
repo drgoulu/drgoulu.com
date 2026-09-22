@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- predictions
+- nature
+- especes
+- extinction
 - faune
-- extinction-des-especes
-- biodiversite
-- conservation-de-la-nature
-- gestion-de-la-faune
-- evolution-biologique-des-especes
-- extinction-de-masse
-- conservation-de-la-biodiversite
-- extinction-animale
+- conservation
 coverImage: ./images/quora.png
 ---
 

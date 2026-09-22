@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sciences-de-la-nature
-- geologie
+- sciences
 - theorie
-- derive-des-continents
-- tectoniques-des-plaques
+- nature
 - theorie-scientifique
-- geologie-planetaire
-- geologie-historique
-- geologie-structurale
+- geologie
 coverImage: ./images/quora.png
 ---
 

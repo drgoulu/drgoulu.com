@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - informatique
-- les-questions-et-les-reponses
-- debat
-- intelligence-artificielle
-- recuperation-d-informations
-- recherche-sur-internet
-- science-de-l-informatique
-- repondre-a-des-questions
-- l-intelligence-artificielle
+- recherche
+- internet
+- questions
 coverImage: ./images/quora.png
 ---
 

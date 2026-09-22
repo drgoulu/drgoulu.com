@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- philosophie
-- perception
-- espace
-- realite
-- pensee-abstraite
-- dimensions-physique
 - physique
+- philosophie
+- espace
 - geometrie
-- conception
-- espace-dimension
+- perception
 coverImage: ./images/quora.png
 ---
 

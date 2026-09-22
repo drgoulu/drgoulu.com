@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- l-europe
+- energie
+- economie
 - electricite
-- resistance-physique
-- prix-de-l-energie
-- energie-economie
-- distribution-de-l-energie-electrique
-- reseaux-electriques
-- tarifs-d-electricite
+- europe
+- prix
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- detection-de-fraude
-- aide-sociale
-- systeme-fiscal
-- fraude-fiscal
 - fiscalite
-- protection-sociale
-- prevention-de-la-fraude
-- droit-fiscal
+- prevention
 - politique-fiscale
+- fraude
 coverImage: ./images/quora.png
 ---
 

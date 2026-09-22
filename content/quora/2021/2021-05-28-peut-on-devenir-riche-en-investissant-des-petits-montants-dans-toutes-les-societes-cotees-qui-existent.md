@@ -8,14 +8,9 @@ categories:
 tags:
 - finance
 - investissement
-- entreprises-cotees-en-bourse
-- marche-mondial
 - richesse
-- diversification-finance
 - rendement
-- strategies-d-investissement
-- marches-boursiers
-- investissement-financier
+- strategie
 coverImage: ./images/quora.png
 ---
 

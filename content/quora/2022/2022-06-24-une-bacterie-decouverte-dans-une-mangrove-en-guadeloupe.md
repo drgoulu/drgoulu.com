@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - biologie
-- mangrove
-- guadeloupe
 - recherche-scientifique
-- decouvertes
-- bacterie
-- faits-scientifiques
-- microbiologie
-- decouvertes-scientifiques
 - etude-scientifique
+- decouvertes-scientifiques
+- decouvertes
 coverImage: ./images/quora.png
 ---
 

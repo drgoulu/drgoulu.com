@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- intelligence-artificielle
-- brevets
-- juridique
+- droit
 - creation
-- droit-des-brevets
+- intelligence-artificielle
 - propriete-intellectuelle
-- droit-de-propriete
-- la-propriete-intellectuelle
+- brevets
 coverImage: ./images/quora.png
 ---
 

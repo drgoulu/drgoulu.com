@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- tachyons
-- hypotheses
-- vitesse-de-la-lumiere
-- relativite-restreinte
-- explications-scientifiques
-- relativite-physique
 - physique-theorique
-- hypotheses-scientifiques
+- relativite
+- lumiere
+- vitesse
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - histoire
-- toutankhamon-pharaon
 - egyptologie
-- tombes
 - pharaons
-- l-histoire-de-l-egypte-ancienne
-- archeologie
 - egypte-ancienne
-- histoire-de-l-afrique-ancienne
+- archeologie
 coverImage: ./images/quora.png
 ---
 

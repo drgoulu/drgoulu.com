@@ -7,15 +7,11 @@ categories:
 - Pourquoi
 - Comment
 tags:
-- la-vie
-- geologie
+- sciences
+- terre
+- vie
+- nature
 - eau
-- science-de-la-vie-et-de-la-terre
-- cohabitation
-- science-de-la-nature
-- volcanologie
-- sciences-de-la-terre
-- coexistence
 coverImage: ./images/qimg-40262e04e700dd7702b5da0894f0b683.jpg
 ---
 

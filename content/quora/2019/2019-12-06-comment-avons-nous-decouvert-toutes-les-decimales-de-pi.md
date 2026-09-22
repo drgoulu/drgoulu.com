@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
+- histoire
 - mathematiques
-- histoire-des-sciences
-- pi
-- approximation
-- representation-decimale-de-pi
-- curiosite-scientifique
-- algorithmes-d-approximation
 - decouvertes-scientifiques
-- calcul-de-pi
-- histoire-des-mathematiques
+- calcul
 coverImage: ./images/quora.png
 ---
 

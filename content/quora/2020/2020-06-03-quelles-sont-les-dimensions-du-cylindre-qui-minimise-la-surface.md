@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - mathematiques
-- surface
-- cylindre-forme
-- optimisation
-- calcul-des-variations
-- geometrie-differentielle
 - geometrie
 - calcul-mathematique
-- sciences-mathematiques
 - post
 coverImage: ./images/quora.png
 ---

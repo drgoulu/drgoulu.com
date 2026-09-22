@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- catastrophes-environnementales
-- volcanologie
-- histoire-du-monde
-- eruptions-volcaniques
-- histoire-humaine
-- donnees-sur-les-catastrophes-naturelles
-- l-histoire
+- monde
 - catastrophes-naturelles
+- histoire-humaine
+- donnees
 coverImage: ./images/quora.png
 ---
 

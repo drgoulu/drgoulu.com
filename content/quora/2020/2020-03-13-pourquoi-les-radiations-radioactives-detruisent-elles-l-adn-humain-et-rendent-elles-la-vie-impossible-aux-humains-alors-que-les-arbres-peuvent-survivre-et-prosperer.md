@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - biologie
-- arbres-plantes
-- resistance-physique
-- adn
-- radioactivite
 - nature
-- botanique
 - biologie-humaine
-- biologie-medicale
+- radioactivite
 coverImage: ./images/quora.png
 ---
 

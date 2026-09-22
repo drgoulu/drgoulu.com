@@ -11,9 +11,6 @@ tags:
 - personne
 - relations-internationales
 - politique
-- finlande
-- pays-europeen
-- adhesion-a-l-otan
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- hemisphere-sud
-- sterilisation
-- sursaut-gamma
 - population-humaine
 - astrophysique
 - rayons-gamma
-- la-reproduction-humaine
-- hemisphere
-- hemisphere-nord
+- reproduction-humaine
 coverImage: ./images/quora.png
 ---
 

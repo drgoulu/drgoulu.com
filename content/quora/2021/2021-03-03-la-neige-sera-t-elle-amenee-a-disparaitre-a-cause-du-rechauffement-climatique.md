@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- planetes
+- environnement
 - changement-climatique
-- l-environnement
-- phenomenes-naturels
-- climatologie
-- la-neige
 - rechauffement-climatique
-- effets-du-rechauffement-de-la-planete
-- sciences-de-l-environnement
-- crise-climatique
-- le-rechauffement-climatique
 coverImage: ./images/qimg-81cf947598e9804b5c5ce3e5030af898.jpg
 ---
 

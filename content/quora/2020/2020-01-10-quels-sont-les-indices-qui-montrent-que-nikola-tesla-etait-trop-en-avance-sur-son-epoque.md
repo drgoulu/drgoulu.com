@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- innovation
-- electricite
+- histoire
+- technologies
 - ingenierie
-- nikola-tesla
-- progres-scientifique
-- l-histoire-de-la-technologie
-- invention-et-inventions
-- histoire-des-inventions
-- inventeurs
+- invention
+- electricite
 coverImage: ./images/quora.png
 ---
 

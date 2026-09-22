@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- piments
-- alimentation
-- capsaicine
-- toxicologie
-- mortalite
-- toxique
 - medecine
-- aliments
+- alimentation
+- mortalite
+- toxicologie
 coverImage: ./images/quora.png
 ---
 

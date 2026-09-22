@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- pfizer-entreprise
-- effets-secondaires
-- vaccins
-- pharmacologie
-- maladies
-- recherche-medicale
 - medecine
-- immunisations
+- recherche-medicale
+- vaccins
+- maladies
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- afrique
-- anthropologie
-- exode
+- histoire
+- humanite
 - evolution-humaine
+- anthropologie
 - paleontologie
-- homo-sapiens
-- histoire-de-l-humanite
-- histoire-evolutive-des-hominides
-- paleoanthropologie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-vie
-- evolution-processus
-- regnes-biologie
-- etres-vivants
-- evolution-biologie
-- evolutionnistes
-- evolution-biologique-des-especes
-- organismes-vivants
-- sciences-du-vivant
-- evolutionisme
+- sciences
+- evolution
+- biologie
+- vie
+- processus
 coverImage: ./images/quora.png
 ---
 

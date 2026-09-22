@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- phenomenes-naturels
-- lune-astronomie
-- oceanographie
-- sciences-de-la-terre
-- marees
-- geographie-marine
-- phenomene-physique
-- phenomene-naturel
-- les-marees
+- sciences
+- astronomie
+- terre
+- lune
+- phenomenes-physiques
 coverImage: ./images/quora.png
 ---
 

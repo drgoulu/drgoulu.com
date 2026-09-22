@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
+- sciences
 - changement-climatique
-- temps-physique
-- difference
-- climatologie
-- sciences-de-l-atmosphere
-- le-temps
-- differences-et-similitudes
-- meteorologie
-- le-changement-climatique
-- sciences-du-climat
+- temps
+- atmosphere
 coverImage: ./images/quora.png
 ---
 

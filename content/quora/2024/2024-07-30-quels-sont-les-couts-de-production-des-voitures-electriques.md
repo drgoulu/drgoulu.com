@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- economies
-- prix
 - energie
-- technologie-automobile
+- economie
+- systeme
 - production
-- cout
-- voitures-electriques
-- industrie-automobile
-- systeme-de-production
+- prix
 coverImage: ./images/quora.png
 ---
 

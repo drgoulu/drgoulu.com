@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- comprehension
-- espace-temps
-- cosmologie
-- gravitation
-- relativite-generale
 - astrophysique
+- cosmologie
 - physique-theorique
-- relativite
 coverImage: ./images/quora.png
 ---
 

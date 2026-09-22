@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- personne
-- nikola-tesla
-- albert-einstein-physicien
-- histoire-des-sciences
-- formules-mathematiques
-- theorie-de-la-relativite
-- physique-theorique
-- science-physique
-- histoire-de-la-physique
+- sciences
+- histoire
+- mathematiques
+- theorie
 coverImage: ./images/quora.png
 ---
 

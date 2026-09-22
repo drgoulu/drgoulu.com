@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- animaux
+- recherche
 - sante-publique
-- vaccins
-- methodes-de-recherche
-- bien-etre-animal
-- ethique-medicale
-- recherche-medicale
-- sciences-des-animaux
-- laboratoires-de-recherche
-- experimentation-animale
-- ethique-de-recherche
+- ethique
 coverImage: ./images/quora.png
 ---
 

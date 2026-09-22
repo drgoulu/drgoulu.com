@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
+- opinion
 - opinion-publique
-- joe-biden-homme-politique
-- forces-armees-des-etats-unis
-- opinions
-- profession
-- retraite-des-militaires
-- politique-des-etats-unis-d-amerique
-- personnel-militaire
-- armee-americaine
+- etats-unis
+- ameriques
 coverImage: ./images/quora.png
 ---
 

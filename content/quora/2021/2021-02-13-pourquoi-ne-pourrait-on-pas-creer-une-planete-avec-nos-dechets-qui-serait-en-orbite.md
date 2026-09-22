@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- science-fiction-genre
-- recyclage
 - espace
 - exploration-spatiale
+- science-fiction-genre
 - pollution
-- dechets
-- colonisation-spatiale
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- terre-planete
 - astronomie
-- gravitation
-- mouvement-physique
-- lune-astronomie
-- relativite
+- terre
 - physique-theorique
-- force-physique
+- planetes
 coverImage: ./images/quora.png
 ---
 

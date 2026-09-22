@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- risques-pour-la-sante
-- science-physique
-- desastre-nucleaire-de-tchernobyl-avril-1986
-- radioactivite
-- accidents-nucleaires-civils
-- tchernobyl
+- physique
+- sciences
+- sante
 - risques
-- centrale-nucleaire-de-tchernobyl
-- catastrophes-nucleaires
-- materiaux-radioactifs
+- radioactivite
 coverImage: ./images/quora.png
 ---
 

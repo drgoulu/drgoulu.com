@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
 - temps
-- complexite-du-temps
+- perception
 - question-philosophique
-- perception-du-temps
-- philosophie-du-temps
-- pensee-philosophique
-- philosophie-et-science
-- idees-philosophiques
-- philosophie-culture
 coverImage: ./images/quora.png
 ---
 

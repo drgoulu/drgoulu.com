@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
-- espace
 - astronomie
-- corps-celestes
-- singularite
-- force-gravitationnelle
-- cosmologie
 - astrophysique
+- cosmologie
 - physique-theorique
 coverImage: ./images/quora.png
 ---

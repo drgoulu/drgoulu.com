@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - education
-- consequences
-- performance-academique
-- eleves
-- systeme-educatif
 - enseignement
-- niveau-scolaire
-- resultats
+- consequences
 - etudiants
-- systeme-scolaire
+- systeme-educatif
 coverImage: ./images/qimg-9835555a5952d0ce5915318bf49765d8.jpg
 ---
 

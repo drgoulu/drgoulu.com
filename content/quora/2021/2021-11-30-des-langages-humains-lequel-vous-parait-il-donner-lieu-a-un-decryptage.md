@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- langues
-- cryptanalyse
-- linguistique
-- decryptage
 - langage
-- langues-et-cultures
+- culture
+- linguistique
+- langues
 - cryptographie
-- langage-humain
-- linguistique-et-litterature
-- la-linguistique
 coverImage: ./images/qimg-ab9607e096bfdb796c7b96633dd4457c.gif
 ---
 

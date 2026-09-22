@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- avion-supersonique
-- vitesse-de-la-lumiere
-- voyage-supraluminique
-- theorie-scientifique
-- physique-theorique
-- vitesse-supraluminique
-- supersonique
 - theorie
-- aviation-supersonique
+- physique-theorique
+- lumiere
+- vitesse
 coverImage: ./images/quora.png
 ---
 

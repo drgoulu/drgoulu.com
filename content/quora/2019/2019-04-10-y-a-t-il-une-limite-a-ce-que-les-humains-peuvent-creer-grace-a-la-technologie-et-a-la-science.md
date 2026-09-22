@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- creation-humaine
-- science-et-technologie
-- philosophie-des-sciences
+- philosophie
+- technologies
 - creation
-- philosophie-de-la-technologie
-- technologie-et-innovation
-- sciences-technologies
-- la-philosophie-des-sciences
+- innovation
 coverImage: ./images/quora.png
 ---
 

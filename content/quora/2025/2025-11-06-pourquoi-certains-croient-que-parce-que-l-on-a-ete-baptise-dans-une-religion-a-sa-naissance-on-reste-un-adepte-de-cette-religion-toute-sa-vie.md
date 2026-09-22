@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - religion
-- questionnement-socratique
-- identite-personnelle
-- bapteme
+- sociologie
+- culture
 - pratiques-religieuses
-- sociologie-de-la-religion
-- croyances-personnelles
 - culture-religieuse
-- etudes-religieuses
-- religion-et-culture
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- croyance
-- univers-en-expansion
 - sciences
-- astrophysique
-- l-univers
-- cosmologie
 - astronomie
-- philosophie-des-sciences
-- expansion-de-l-univers
+- philosophie
+- astrophysique
+- univers
 coverImage: ./images/quora.png
 ---
 

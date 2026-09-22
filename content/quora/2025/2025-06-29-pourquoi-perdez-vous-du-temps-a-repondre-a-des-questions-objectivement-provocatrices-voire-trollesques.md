@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- gestion-du-temps
-- troll
-- questions-absurdes-sur-quora
-- comportement-humain-sur-internet
-- discussion-en-ligne
-- interaction-interpersonnelle-en-ligne
-- questions-trolls-mal-ecrites
-- trolling
-- mauvais-comportement-sur-internet
-- comportements-sur-internet
+- temps
+- internet
+- comportement-humain
+- gestion
+- comportement
 coverImage: ./images/quora.png
 ---
 

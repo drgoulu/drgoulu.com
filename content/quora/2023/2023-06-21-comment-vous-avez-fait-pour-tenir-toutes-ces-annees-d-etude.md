@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- questions
-- motivation
-- etudiants
-- resilience
+- sciences
 - temps
-- motivation-personnelle
+- questions
 - etudes
-- motivation-reel
-- motivation-sportive
-- etudes-de-sciences
+- motivation
 coverImage: ./images/quora.png
 ---
 

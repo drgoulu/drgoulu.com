@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - theories-du-complot
-- fake
-- archeologie
-- l-histoire-de-l-egypte-ancienne
-- documentaires
-- correlations
-- histoire-de-l-egypte
 - theories-du-complot-specifiques
+- archeologie
+- egypte-ancienne
 coverImage: ./images/quora.png
 ---
 

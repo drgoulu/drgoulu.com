@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - astronomie
-- geocroiseurs
-- terre-planete
-- distances
-- systeme-solaire
-- asteroides
-- objets-astronomiques
-- science-de-la-terre
-- distance-physique
-- le-systeme-solaire
+- terre
+- planetes
 coverImage: ./images/qimg-67bad13b8730295de57a81c694b3c6e4.jpg
 ---
 

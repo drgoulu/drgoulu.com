@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- recherche-scientifique
-- metaux
-- hypotheses
-- cosmologie
-- origine-de-l-univers
-- geologie
 - astrophysique
-- metaux-precieux
-- hypotheses-scientifiques
+- univers
+- cosmologie
+- recherche-scientifique
 coverImage: ./images/qimg-c7f7951479810ee7ba8565614227995d.jpg
 ---
 

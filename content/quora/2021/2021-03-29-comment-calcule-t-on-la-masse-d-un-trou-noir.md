@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- trous-noirs
 - sciences
 - astronomie
-- calculs
-- astrophysique-des-hautes-energies
-- masse-physique
 - astrophysique
 - physique-theorique
-- astrophysique-relativiste
 coverImage: ./images/quora.png
 ---
 

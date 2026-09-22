@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - informatique
-- developpeurs-javascript
-- langages-de-programmation
-- developpement-web
+- programmation
+- langage
 - sciences-informatiques
-- programmation-web
-- javascript-langage-de-programmation
-- developpement-web-et-mobile
-- langages-de-programmation-web
+- developpement-web
 coverImage: ./images/quora.png
 ---
 

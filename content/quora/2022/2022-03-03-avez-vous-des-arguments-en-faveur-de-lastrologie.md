@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
+- opinion
 - croyance
 - spiritualite
-- arguments-et-argumentation
-- horoscopes-astrologie
-- sciences-occultes
-- opinions-et-croyances
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

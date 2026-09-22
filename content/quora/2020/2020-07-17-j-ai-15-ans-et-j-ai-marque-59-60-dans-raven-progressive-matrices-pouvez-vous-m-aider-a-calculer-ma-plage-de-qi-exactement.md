@@ -10,9 +10,6 @@ tags:
 - evaluation
 - calculs-matriciels
 - test-de-qi
-- psychometrie
-- tests-standardises
-- qi-de-haut-niveau
 - score-de-qi
 coverImage: ./images/quora.png
 ---

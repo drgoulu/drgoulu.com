@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- nature
+- securite
 - phenomenes-physiques
-- la-nature
-- conseils-de-securite
-- mers
-- oceans
-- vie-marine
-- phenomenes-naturels
-- courants-marins
-- nage-en-mer
-- securite-des-personnes
+- conseils
+- personne
 coverImage: ./images/quora.png
 ---
 

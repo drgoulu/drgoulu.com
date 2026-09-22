@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - aviation
-- vitesse-terminale
-- plantages
-- systeme-moteur
-- portance-aerodynamique
-- planeur
-- altitude
 - avions
-- panne-de-moteur
 - aerodynamique
+- altitude
+- moteur
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- recherche-scientifique
-- l-univers
-- probabilite-statistiques
-- vie-extraterrestre
-- estimation
-- cosmologie
 - astrophysique
-- l-univers-astronomie
-- astrobiologie
+- univers
+- cosmologie
+- recherche-scientifique
 coverImage: ./images/quora.png
 ---
 

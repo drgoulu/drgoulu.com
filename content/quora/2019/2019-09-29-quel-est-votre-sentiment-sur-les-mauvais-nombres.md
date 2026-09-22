@@ -11,11 +11,6 @@ tags:
 - sentiments
 - opinion
 - nombres
-- opinions
-- mon-opinion
-- opinion-generale
-- opinions-personnelles
-- nombres-mathematiques
 coverImage: ./images/quora.png
 ---
 

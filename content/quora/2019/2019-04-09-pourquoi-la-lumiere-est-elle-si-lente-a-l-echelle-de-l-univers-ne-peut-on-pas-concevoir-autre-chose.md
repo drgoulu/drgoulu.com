@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- cosmos
 - sciences
-- univers-observable
-- vitesse-de-la-lumiere
-- l-univers
-- lumiere-physique
-- concepts-en-physique
+- univers
 - physique-theorique
-- theories-physiques
+- lumiere
 coverImage: ./images/quora.png
 ---
 

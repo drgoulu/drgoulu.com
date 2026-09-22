@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- chute-libre
-- aiguilles
-- modelisation-mathematique
-- mouvement
-- probabilite-statistiques
-- rotation-physique
-- mecanique-physique
+- rotation
+- mecanique
 - physique-mathematique
-- modelisation
+- mouvement
 coverImage: ./images/quora.png
 ---
 

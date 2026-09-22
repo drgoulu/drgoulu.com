@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- formation
-- l-univers
-- mort-thermique-de-l-univers
+- univers
 - cosmologie
-- origine-de-l-univers
-- expansion-de-l-univers
-- age-de-l-univers
-- la-creation-de-l-univers
-- creation-de-l-univers
+- origines
+- creation
 coverImage: ./images/quora.png
 ---
 

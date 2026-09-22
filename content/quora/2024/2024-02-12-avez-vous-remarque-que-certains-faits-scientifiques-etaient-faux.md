@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - recherche-scientifique
-- adult-question-user
-- self-harm-user
-- anomalies-scientifiques
-- mythe-scientifique
+- etude-scientifique
 - decouvertes-scientifiques
-- culture-scientifique
-- erreur-scientifique
-- etudes-scientifiques
 - faits-scientifiques
+- culture-scientifique
 coverImage: ./images/quora.png
 ---
 

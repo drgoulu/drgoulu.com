@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- theories-du-complot
-- ovni
-- mysteres
-- crop-circle
 - vie-extraterrestre
-- phenomenes-inexpliques
-- aliens
+- theories-du-complot
+- mysteres
 - extraterrestres
-- rencontres-extra-terrestres
-- les-choses-mysterieuses
+- ovni
 coverImage: ./images/quora.png
 ---
 

@@ -9,12 +9,8 @@ tags:
 - nouvelles-technologies
 - science-fiction-genre
 - armes
-- star-wars
-- canon-laser-arme
-- films-de-science-fiction
-- star-wars-films-et-emissions-de-television
-- star-wars-franchise-de-cinema
-- star-wars-serie-de-films
+- films
+- science-fiction
 coverImage: ./images/quora.png
 ---
 

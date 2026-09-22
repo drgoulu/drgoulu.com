@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- energie-physique
+- energie
+- physique
 - volcans
 - energie-renouvelable
-- en-r-geothermie
-- volcanologie
 - energie-alternative
-- energie-geothermique
-- geothermie
 coverImage: ./images/quora.png
 ---
 

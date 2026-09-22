@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- hasard
-- probabilite-statistiques
-- sciences-de-la-vie
-- hypotheses-scientifiques
 - theorie
-- hasard-statistiques
-- origine-de-la-vie
-- philosophie-des-sciences
-- probabilite
+- vie
+- origines
 coverImage: ./images/quora.png
 ---
 

@@ -10,11 +10,7 @@ tags:
 - bras
 - voie-lactee
 - systeme-solaire
-- les-galaxies
 - galaxies
-- galaxie-de-la-voie-lactee
-- la-voie-lactee-astronomie
-- galaxies-astronomie
 coverImage: ./images/quora.png
 ---
 

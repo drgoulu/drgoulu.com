@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- iter
-- interet
-- financement-de-projet
-- energie-nucleaire
+- sciences
 - recherche-scientifique
+- technologies
+- energie-nucleaire
 - projet
-- interets-economiques
 coverImage: ./images/quora.png
 ---
 

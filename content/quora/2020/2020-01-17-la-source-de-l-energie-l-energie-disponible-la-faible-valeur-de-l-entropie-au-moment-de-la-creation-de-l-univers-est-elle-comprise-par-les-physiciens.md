@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- creation-de-l-univers
+- sciences
+- univers
 - cosmologie
-- entropie-physique
-- theorie-scientifique
-- comprehension-de-la-science
-- energie-physique
-- theories-physiques
 - physique-theorique
-- origine-de-l-univers
 coverImage: ./images/quora.png
 ---
 

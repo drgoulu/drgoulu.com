@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- l-etude-de-la-bible
-- education
 - religion
-- la-bible
-- ecoliers
-- etudes-religieuses
+- education
 - enseignement
-- ecole
-- etude-biblique
+- etudes
 coverImage: ./images/quora.png
 ---
 

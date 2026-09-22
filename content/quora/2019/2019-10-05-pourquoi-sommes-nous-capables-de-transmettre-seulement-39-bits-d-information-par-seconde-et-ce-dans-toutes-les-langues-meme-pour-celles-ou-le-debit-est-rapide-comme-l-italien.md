@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- information
 - communication
-- langues
 - psychologie-cognitive
-- traitement-de-l-information
-- linguistique
-- italien-langue
-- fonctions-cognitives
 - sciences-cognitives
-- linguistique-et-litterature
-- la-linguistique
+- traitements
 coverImage: ./images/quora.png
 ---
 

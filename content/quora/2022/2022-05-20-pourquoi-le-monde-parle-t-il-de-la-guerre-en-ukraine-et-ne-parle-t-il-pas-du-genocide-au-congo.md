@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- opinion-publique
+- droit
 - relations-internationales
-- medias
-- republique-democratique-du-congo
-- crimes-contre-l-humanite
-- guerres-et-conflits
-- droits-de-l-homme
-- droit-international-des-droits-de-l-homme
+- guerre
+- opinion-publique
+- homme
 coverImage: ./images/quora.png
 ---
 

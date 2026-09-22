@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- interaction-homme-environnement
-- durabilite
+- environnement
 - nature
-- ecologie
 - humanite
-- l-environnement
-- nature-humaine
-- ecologie-humaine
+- ecologie
 coverImage: ./images/qimg-627716ed7d929571b31b52a6bdc98b00.jpg
 ---
 

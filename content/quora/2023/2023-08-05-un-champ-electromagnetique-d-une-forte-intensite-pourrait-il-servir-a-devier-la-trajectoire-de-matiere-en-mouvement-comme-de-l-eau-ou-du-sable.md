@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- sable
+- matiere
 - eau
+- mouvement
 - electromagnetisme
-- trajectoire
-- deviation
-- mouvement-physique
-- matiere-physique
-- champs-electromagnetiques
-- forces-electromagnetiques
 coverImage: ./images/quora.png
 ---
 

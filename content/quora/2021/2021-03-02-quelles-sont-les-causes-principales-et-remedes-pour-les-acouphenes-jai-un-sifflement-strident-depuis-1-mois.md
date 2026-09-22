@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - sante
-- perte-de-l-audition
-- sifflement
-- acouphenes
 - oreilles
-- maladies-auditives
 - medecine
-- remedes-de-sante
+- remedes
 - troubles-de-l-audition
 coverImage: ./images/quora.png
 ---

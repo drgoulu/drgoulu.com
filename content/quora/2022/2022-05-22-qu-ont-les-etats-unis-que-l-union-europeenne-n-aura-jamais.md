@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- les-etats-unis-d-amerique
-- differences-et-similitudes
-- union-europeenne
-- culture
-- systeme-economique
 - geographie
+- etats-unis
 - comparaisons
+- ameriques
 coverImage: ./images/qimg-2e461e2354a48ec5082ab82556021544.jpg
 ---
 

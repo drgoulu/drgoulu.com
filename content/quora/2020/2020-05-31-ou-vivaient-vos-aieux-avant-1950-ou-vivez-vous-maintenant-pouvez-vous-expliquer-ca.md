@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
+- vie
 - france
-- experiences-personnelles
-- aieux
-- migration
-- geographie-humaine
-- lieu-de-naissance
-- histoire-de-famille
 - histoire-humaine
-- lieu-d-habitation
-- histoire-de-vie
+- experiences-personnelles
 coverImage: ./images/quora.png
 ---
 

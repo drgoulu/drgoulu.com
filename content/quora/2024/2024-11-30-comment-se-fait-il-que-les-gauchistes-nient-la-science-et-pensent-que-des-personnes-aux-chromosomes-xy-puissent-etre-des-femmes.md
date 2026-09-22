@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- identite
+- societe
 - debat
+- identite
 - genre
-- gauchisme
-- chromosomes-x-et-y
-- debats-de-societe
-- sexe-et-sexualite
-- chromosomes
-- identite-sexuelle
 coverImage: ./images/quora.png
 ---
 

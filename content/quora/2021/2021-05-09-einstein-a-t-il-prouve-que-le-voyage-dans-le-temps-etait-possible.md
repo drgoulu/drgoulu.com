@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- science-fiction-genre
-- scenarios-de-voyage-dans-le-temps
-- albert-einstein-physicien
-- paradoxes
-- theorie-de-la-relativite
-- physiciens
+- theorie
 - physique-theorique
-- relativite-physique
-- voyage-dans-le-temps
+- relativite
+- temps
 coverImage: ./images/quora.png
 ---
 

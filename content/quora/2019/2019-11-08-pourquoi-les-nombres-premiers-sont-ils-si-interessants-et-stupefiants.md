@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - mathematiques
-- curiosites
-- theorie-des-nombres-premiers
+- theorie
+- nombres
+- questions
 - proprietes
-- beaute-mathematique
-- questions-de-mathematiques
-- mathematiques-pures
-- theorie-des-nombres
-- theoreme-des-nombres-premiers
 coverImage: ./images/quora.png
 ---
 

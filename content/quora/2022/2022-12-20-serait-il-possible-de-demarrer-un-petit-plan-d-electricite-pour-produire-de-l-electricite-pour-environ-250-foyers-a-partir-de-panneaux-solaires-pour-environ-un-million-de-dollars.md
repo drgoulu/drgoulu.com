@@ -6,14 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- investissement
-- energie-solaire-photovoltaique
+- systeme-solaire
+- energie-renouvelable
 - electricite
 - energie-alternative
-- panneaux-solaires
-- energie-renouvelable
-- systemes-solaires
-- installation-de-panneaux-solaires
 - energie-solaire
 coverImage: ./images/quora.png
 ---

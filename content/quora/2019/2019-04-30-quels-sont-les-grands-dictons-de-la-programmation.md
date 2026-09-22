@@ -8,13 +8,9 @@ categories:
 tags:
 - informatique
 - conseils
-- sagesse
-- proverbes
-- dictons
 - developpement-logiciel
-- proverbes-dictons-et-adages
 - sciences-informatiques
-- langage-informatique
+- langage
 coverImage: ./images/quora.png
 ---
 

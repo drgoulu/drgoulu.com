@@ -8,14 +8,9 @@ categories:
 tags:
 - politique
 - politique-francaise
-- promesses-electorales
 - elections-presidentielles
-- communication-politique
-- electeurs
-- campagnes-electorales
-- electorat
+- communication
 - elections
-- election-presidentielle
 coverImage: ./images/quora.png
 ---
 

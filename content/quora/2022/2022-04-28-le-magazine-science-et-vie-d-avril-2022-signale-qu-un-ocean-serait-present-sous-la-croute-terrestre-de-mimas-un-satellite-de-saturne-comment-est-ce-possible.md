@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- '2022'
 - recherche-scientifique
-- magazines
-- croute-terrestre
-- oceans
-- saturne-planete
 - exploration-spatiale
-- satellites
 - geologie
+- oceans
 coverImage: ./images/quora.png
 ---
 

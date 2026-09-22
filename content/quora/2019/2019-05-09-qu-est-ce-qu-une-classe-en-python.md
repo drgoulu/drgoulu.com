@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- langages-de-programmation
-- classe
-- langages-orientes-objet
+- langage
+- programmation
 - python-langage-de-programmation
-- programmation-en-python
+- python
 - programmation-orientee-objet
-- classe-programmation
-- classes
-- language-de-programmation
 coverImage: ./images/quora.png
 ---
 

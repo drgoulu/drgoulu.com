@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - societe
-- pauvrete
-- drogues
-- industrie-de-l-alcool-et-du-vin
 - consommation
+- inegalite
 - richesse
-- agriculture
-- inegalites-de-revenu
-- systeme-economique
-- industrie-du-tabac
+- revenu
 coverImage: ./images/quora.png
 ---
 

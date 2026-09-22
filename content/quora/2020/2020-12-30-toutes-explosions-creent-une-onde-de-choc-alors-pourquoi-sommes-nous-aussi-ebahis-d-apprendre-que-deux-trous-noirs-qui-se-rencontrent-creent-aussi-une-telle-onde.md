@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- onde-de-choc
-- espace-notion
 - sciences
-- l-univers-astronomie
-- trous-noirs
 - astronomie
-- astrophysiciens
 - astrophysique
-- astrophysique-relativiste
+- univers
 coverImage: ./images/quora.png
 ---
 

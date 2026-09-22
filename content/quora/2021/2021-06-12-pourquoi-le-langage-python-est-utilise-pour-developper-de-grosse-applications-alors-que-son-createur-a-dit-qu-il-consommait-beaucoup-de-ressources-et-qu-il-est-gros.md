@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- langages-de-programmation
-- guido-van-rossum-programmeur-neerlandais
-- taille-du-fichier
-- developpement-d-applications
+- theorie
+- programmation
+- langage
+- python
 - python-langage-de-programmation
-- programmation-en-python
-- theorie-du-langage-de-programmation
-- langage-de-programmation
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- histoire-des-sciences
-- vih
+- sciences
+- histoire
 - recherche-scientifique
-- epidemiologie
-- virus
-- maladies-infectieuses
-- sida
-- recherche-medicale
-- histoire-de-la-medecine
+- sante
+- medecine
 coverImage: ./images/quora.png
 ---
 

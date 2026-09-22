@@ -7,14 +7,10 @@ categories:
 - Combien
 tags:
 - physique
-- ressort
 - degradation
-- plasticite
-- elasticite-physique
 - proprietes-physiques
 - mecanique
-- physique-des-materiaux
-- mecanique-physique
+- materiaux
 coverImage: ./images/quora.png
 ---
 

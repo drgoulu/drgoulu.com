@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- conflit-israelo-palestinien
 - genetique
-- palestine
-- ancetres
-- israeliens
-- genealogie
 - israel
-- genealogie-genetique
-- palestiniens
+- conflit-israelo-palestinien
+- palestine
 coverImage: ./images/quora.png
 ---
 

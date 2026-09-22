@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- loisirs
 - vitesse
-- roues
-- planche-a-roulettes
-- sports-de-glisse
-- friction
-- deux-roues
-- vitesse-physique
+- loisirs
 - physique-humain
+- friction
 coverImage: ./images/quora.png
 ---
 

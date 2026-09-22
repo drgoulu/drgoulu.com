@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- reflexion
 - energie-solaire
-- reflexion-physique
 - effet-de-serre
-- intensite
-- lumiere-fluorescente
-- physique-de-rayonnement
-- panneaux-photovoltaiques
 - radiation-solaire
-- lumiere-incandescente
 coverImage: ./images/quora.png
 ---
 

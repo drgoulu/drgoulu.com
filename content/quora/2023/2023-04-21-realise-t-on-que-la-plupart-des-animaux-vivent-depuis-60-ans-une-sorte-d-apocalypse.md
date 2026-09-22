@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- animaux
+- environnement
 - changement-climatique
-- l-environnement
-- ecologie
-- catastrophes
-- extinction
-- l-apocalypse
-- biodiversite
-- extinction-des-especes
-- le-rechauffement-climatique
+- rechauffement-climatique
+- animaux
+- especes
 coverImage: ./images/quora.png
 ---
 

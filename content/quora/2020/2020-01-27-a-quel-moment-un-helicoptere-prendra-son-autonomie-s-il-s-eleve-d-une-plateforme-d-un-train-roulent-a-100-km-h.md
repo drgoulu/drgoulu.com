@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - vitesse
-- decollage-aviation
-- trains
-- helicopteres
-- autonomie
-- aerodynamique
 - mecanique
-- vitesse-physique
+- aerodynamique
+- helicopteres
 coverImage: ./images/quora.png
 ---
 

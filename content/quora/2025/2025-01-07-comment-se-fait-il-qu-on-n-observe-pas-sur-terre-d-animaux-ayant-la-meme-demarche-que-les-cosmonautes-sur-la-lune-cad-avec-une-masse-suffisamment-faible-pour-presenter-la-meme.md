@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- animaux
-- exploration-spatiale
 - biologie
-- poids-corporel
+- exploration-spatiale
+- animaux
 - gravite
-- physiologie-animale
-- exploration-de-la-lune
-- biologie-animale
-- masse-corporelle
 coverImage: ./images/quora.png
 ---
 

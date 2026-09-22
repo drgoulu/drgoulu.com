@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- le-programme-apollo
 - exploration-spatiale
-- nasa
-- lune-astronomie
-- programmes-de-la-nasa
-- images-spatiales
+- lune
 - voyage-spatial
-- missions-apollo
-- exploration-spatiale-de-la-nasa
+- nasa
 coverImage: ./images/quora.png
 ---
 

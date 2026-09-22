@@ -9,13 +9,8 @@ tags:
 - physiologie-humaine
 - sens
 - perception-visuelle
-- frequence-de-rafraichissement
-- images-par-seconde
-- l-oeil-humain
-- vitesse-d-affichage
-- systeme-visuel
-- vision-humain
 - oeil-humain
+- vision-humain
 coverImage: ./images/quora.png
 ---
 

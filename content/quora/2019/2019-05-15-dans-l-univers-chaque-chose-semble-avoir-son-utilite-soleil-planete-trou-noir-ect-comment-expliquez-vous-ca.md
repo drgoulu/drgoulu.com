@@ -7,13 +7,10 @@ categories:
 - Comment
 tags:
 - astrophysique
-- l-univers
-- trous-noirs
+- univers
 - cosmologie
-- theorie-scientifique
-- univers-observable
-- origine-de-l-univers
-- exploration-de-l-univers
+- trous-noirs
+- origines
 coverImage: ./images/quora.png
 ---
 

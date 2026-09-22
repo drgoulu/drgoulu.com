@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- psychologie-cognitive
-- resolution-de-problemes
+- probleme
 - intelligence-humaine
-- cognition
-- pensee-critique
+- psychologie-cognitive
+- resolutions
 - enigmes
-- fonctions
-- esprit-creatif
-- pensee-creative
 coverImage: ./images/quora.png
 ---
 

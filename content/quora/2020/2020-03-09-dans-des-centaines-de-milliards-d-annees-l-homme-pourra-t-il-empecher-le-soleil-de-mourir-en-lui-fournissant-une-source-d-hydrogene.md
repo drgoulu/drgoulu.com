@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- contenu-adulte
-- le-soleil
-- science-fiction-genre
-- scenarios-scientifiques-hypothetiques
-- avenir-de-l-humanite
-- hydrogene
 - astrophysique
-- l-avenir-du-monde
-- hypotheses-scientifiques
+- monde
+- humanite
+- soleil
 coverImage: ./images/quora.png
 ---
 

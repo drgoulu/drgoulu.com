@@ -8,10 +8,7 @@ categories:
 tags:
 - sante
 - vaccins
-- l-auto-immunite
-- securite-des-vaccins
-- immunologie
-- systeme-immunitaire
+- securite
 - immunisations
 - vaccination
 coverImage: ./images/quora.png

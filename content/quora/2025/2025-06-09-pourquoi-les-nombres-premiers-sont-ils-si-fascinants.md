@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- philosophie
 - mathematiques
-- fascination
-- nombres-premiers
-- theorie-des-nombres-premiers
-- beaute-mathematique
-- philosophie-des-mathematiques
-- recherche-mathematique
-- questions-mathematiques
-- theorie-du-nombre
-- theorie-des-nombres
+- theorie
+- nombres
+- questions
 coverImage: ./images/quora.png
 ---
 

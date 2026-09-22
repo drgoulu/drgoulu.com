@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - psychologie
-- effet-dunning-kruger
-- experiences-personnelles
-- comportement-humain
-- conscience-de-soi
 - experience
-- comprendre-le-soi
-- psychologie-et-comportement-humain
+- comportement-humain
+- experiences-personnelles
 - psychologie-cognitive
-- connaissance-de-soi
 coverImage: ./images/quora.png
 ---
 

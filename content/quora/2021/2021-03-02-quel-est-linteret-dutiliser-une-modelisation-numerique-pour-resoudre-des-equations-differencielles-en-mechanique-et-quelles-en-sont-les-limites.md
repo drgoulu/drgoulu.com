@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - informatique
-- modelisation
-- equations-differentielles
-- simulation-numerique
-- mathematiques-appliquees
 - mecanique
-- analyse-numerique
 - physique-mathematique
-- modelisation-mathematique
+- modelisation
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- technologie-moderne
+- technologies
 - consommation
 - durabilite
-- lobsolescence-programmee
-- valeur-des-produits
 - consommateur
-- la-technologie
-- consommation-de-masse
-- obsolescence-programmee
+- technologie-moderne
 coverImage: ./images/quora.png
 ---
 

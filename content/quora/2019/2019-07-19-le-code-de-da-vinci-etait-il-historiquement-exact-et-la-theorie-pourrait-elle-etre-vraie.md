@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- the-da-vinci-code-livre-2003
-- christianisme
-- theories-du-complot
 - religion
+- theories-du-complot
 - art
-- la-cene-leonard-de-vinci
-- symboles
-- histoire-de-l-art
-- catholicisme
+- christianisme
 coverImage: ./images/quora.png
 ---
 

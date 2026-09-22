@@ -6,14 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- creation
 - richesse
-- systeme-monetaire
+- argent
 - depenses-publiques
-- pouvoir-d-achat
-- inflation-economie
-- creation-de-l-argent
-- dette-gouvernementale
-- politique-monetaire
 - dette-publique
 coverImage: ./images/quora.png
 ---

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- comportement-humain
-- cuisine
-- alimentation
-- homo-sapiens
-- anthropologie
-- histoire-de-l-alimentation
-- origines-humaines
-- sapiens
+- histoire
 - evolution-humaine
-- anthropologie-culturelle
+- anthropologie
+- comportement-humain
+- alimentation
 coverImage: ./images/quora.png
 ---
 

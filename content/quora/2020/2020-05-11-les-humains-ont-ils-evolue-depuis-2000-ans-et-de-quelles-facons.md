@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-humaine
-- genetique
-- anthropologie
+- histoire
 - evolution
+- humanite
 - evolution-humaine
-- anthropologie-culturelle
-- histoire-de-l-humanite
-- anthropologie-sociale
-- genomique
-- histoire-de-lhomme
+- anthropologie
 coverImage: ./images/qimg-d57cdac61587614612453867645ab0a2.jpg
 ---
 

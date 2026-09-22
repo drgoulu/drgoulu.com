@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- metaux-precieux
-- chimie-de-synthese
-- fabrication
-- or
 - chimie
-- laboratoires
 - elements-chimiques
-- synthese
-- elements-synthetiques
+- or
+- fabrication
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sciences
-- le-soleil
 - astronomie
-- mercure
-- phenomene
 - systeme-solaire
-- planete-mercure
-- astronomy
-- phenomenes-optiques
+- soleil
+- phenomene
 coverImage: ./images/qimg-772805d8a00df394d52e4226caf75f53.jpg
 ---
 

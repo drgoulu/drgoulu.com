@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- vaccins
-- ebola-maladie
-- immunologie
-- epidemies
 - medecine
-- maladies-infectieuses
 - sante-publique
-- immunisations
-- epidemiologie
+- maladies-infectieuses
+- vaccins
 coverImage: ./images/quora.png
 ---
 

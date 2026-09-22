@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- chimie
-- terre-planete
-- eau
-- sciences-de-la-nature
-- calculs
-- quantite
-- molecules
-- science-de-la-terre
-- chimie-physique
-- quantites-physiques
+- physique
+- sciences
+- terre
+- planetes
+- nature
 coverImage: ./images/quora.png
 ---
 

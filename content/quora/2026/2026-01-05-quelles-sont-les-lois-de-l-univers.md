@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- lois-de-la-nature
+- philosophie
+- univers
 - cosmologie
-- l-univers
-- philosophie-des-sciences
-- physique-theorique
-- science-physique
-- lois-de-la-physique
 coverImage: ./images/quora.png
 ---
 

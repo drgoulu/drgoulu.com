@@ -9,13 +9,8 @@ tags:
 - physique
 - sciences
 - observation
-- detonation
-- stabilite
-- atomes
-- phenomenes
-- la-physique-atomique
-- observation-scientifique
 - phenomenes-physiques
+- atomes
 coverImage: ./images/quora.png
 ---
 

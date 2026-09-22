@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- biologie
-- anthropologie
-- homo-sapiens
-- selection-naturelle
-- evolution-humaine
-- sciences-de-la-vie
-- darwinisme
-- biologie-humaine
-- sciences-de-la-nature
+- sciences
 - evolution
+- biologie
+- vie
+- nature
 coverImage: ./images/quora.png
 ---
 

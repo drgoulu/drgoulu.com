@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- evaporation-des-trous-noirs
 - astronomie
-- rayonnement-de-hawking
-- relativite-physique
-- trous-noirs
-- astrophysiciens
-- physique-quantique
-- physique-theorique
 - astrophysique
+- physique-theorique
+- relativite
 coverImage: ./images/quora.png
 ---
 

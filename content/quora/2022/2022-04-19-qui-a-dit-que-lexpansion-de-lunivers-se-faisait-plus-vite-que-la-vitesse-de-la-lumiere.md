@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- expansion-de-l-espace-temps
 - astronomie
-- vitesse-de-la-lumiere
-- creation-de-l-univers
-- cosmologie
 - astrophysique
-- physique-theorique
-- univers-en-expansion
-- expansion-de-l-univers
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

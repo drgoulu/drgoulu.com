@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie
-- observation
-- evolution-processus
-- especes
-- zoologie
-- evolution-biologique-des-especes
-- espece-animale
 - evolution
-- observation-scientifique
-- evolution-animale
+- biologie
+- processus
+- especes
+- observation
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- risques-pour-la-sante
-- exploration-spatiale
-- venus-planete
-- sciences-de-la-vie
-- effets-secondaires
-- radiation
-- voyage-dans-l-espace
-- vaisseau-spatial
-- sciences-de-la-sante
+- vie
+- sante
+- espace
 coverImage: ./images/qimg-d2333714fb8ac2e48cdef9d25109abde.jpg
 ---
 

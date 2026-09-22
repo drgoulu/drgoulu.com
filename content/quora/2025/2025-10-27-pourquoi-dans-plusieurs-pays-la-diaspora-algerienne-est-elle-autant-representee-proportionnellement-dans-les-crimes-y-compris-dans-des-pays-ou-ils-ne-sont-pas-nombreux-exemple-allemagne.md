@@ -8,14 +8,9 @@ categories:
 tags:
 - immigration
 - allemagne
-- groupes-sociaux
-- criminalite
-- algeriens
-- diaspora-africaine
-- groupes-ethniques
 - migration
-- la-criminologie
-- taux-de-criminalite
+- criminalite
+- groupes-sociaux
 coverImage: ./images/quora.png
 ---
 

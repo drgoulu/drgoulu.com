@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - informatique
-- web-scraping
-- developpement-web
+- programmation
+- langage
+- donnees
 - python-langage-de-programmation
-- collecte-de-donnees
-- langages-de-programmation
-- programmation-web
-- acquisition-de-donnees
 coverImage: ./images/quora.png
 ---
 

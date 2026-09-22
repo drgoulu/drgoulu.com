@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- dirigeants-du-monde
-- realite
-- ideologue
 - politique
-- leadership
-- vision-du-monde
-- leader-mondial
-- idealisme
-- ideologies
+- monde
+- realite
+- vision
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - recherche-scientifique
+- proprietes
 - construction
-- financement
-- propriete
-- cern-organisation
 - organisation
-- organisation-internationale
-- projets-scientifiques
-- financement-public
-- propriete-publique
+- financement
 coverImage: ./images/quora.png
 ---
 

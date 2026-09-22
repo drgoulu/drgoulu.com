@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- innovation-technologique
+- evolution
+- technologies
 - energie-renouvelable
-- panneaux-solaires
-- energie-solaire
-- evolution-de-la-technologie
-- avancees-technologiques
 - energie-alternative
-- developpement-technologique
+- energie-solaire
 coverImage: ./images/qimg-ac1600d9eeb7dfef5d2f89d819cba910.jpg
 ---
 

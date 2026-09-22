@@ -8,13 +8,9 @@ categories:
 tags:
 - suisse
 - qualite
-- fabrication-de-produits
+- fabrication
 - horlogerie
-- criteres
-- autorite-de-certification
-- swiss-made
-- critere-d-eligibilite
-- horlogerie-suisse
+- produit
 coverImage: ./images/quora.png
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - philosophie
-- question-existentielle
-- extraterrestres
-- impact-social
 - decouvertes-scientifiques
-- curiosite-scientifique
+- question-existentielle
 - vie-extraterrestre
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - environnement
-- transport
+- consommation
+- transports
 - technologie-automobile
-- efficacite-energetique
-- consommation-de-carburant
-- moteurs-thermiques
-- vehicules-hybrides
-- consommation-denergie
-- ingenierie-automobile
-- moteurs-hybrides
+- carburants
 coverImage: ./images/qimg-e3f2004359b2ea67205f73eb18c9780c.gif
 ---
 

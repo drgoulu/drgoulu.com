@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
+- histoire
+- theorie
+- relativite
 - experience
-- relativite-restreinte
-- dilation-du-temps
-- etude-scientifique
-- histoire-de-la-physique
-- theorie-de-la-relativite
-- experiences-scientifiques
-- relativite-physique
-- science-experimentale
 coverImage: ./images/quora.png
 ---
 

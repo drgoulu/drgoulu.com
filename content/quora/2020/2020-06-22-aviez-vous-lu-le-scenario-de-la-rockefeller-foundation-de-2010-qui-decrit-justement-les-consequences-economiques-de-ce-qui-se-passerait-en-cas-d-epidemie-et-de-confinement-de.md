@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - predictions
-- criminalite
-- confinement
-- evenements-d-actualite
 - consequences
-- crises-economiques
+- evenement
 - epidemies
-- scenarios-futurs
-- fondations
+- actualites
 coverImage: ./images/quora.png
 ---
 

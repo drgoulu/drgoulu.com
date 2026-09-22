@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - questions
-- chiffre-langage-d-interrogation
 - nombres
-- question-d-enquete
+- enquetes
 - question-contenu
-- questions-x
 - chiffres
-- interrogations
-- vraag
-- quiz-questions
 coverImage: ./images/qimg-a38ca24bf3d7c57cad3456af7ee9a24b.gif
 ---
 

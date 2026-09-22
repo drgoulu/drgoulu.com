@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- zoologie
+- animaux
 - especes
-- classification-biologique
-- oiseaux-sauvages
-- les-animaux
+- zoologie
 - taxonomie
-- espece-animale
-- taxonomie-des-animaux
-- classification-des-animaux
+- classification
 coverImage: ./images/quora.png
 ---
 

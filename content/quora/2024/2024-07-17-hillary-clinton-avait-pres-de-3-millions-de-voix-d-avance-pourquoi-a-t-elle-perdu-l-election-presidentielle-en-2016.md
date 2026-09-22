@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- election-presidentielle
-- donald-trump
-- politique-americaine
+- systeme
+- etats-unis
+- ameriques
+- elections
 - elections-presidentielles
-- systeme-d-election
-- hillary-clinton
-- elections-aux-etats-unis-d-amerique
-- election-presidentielle-americaine-2016
-- elections-americaines-de-2016
 coverImage: ./images/quora.png
 ---
 

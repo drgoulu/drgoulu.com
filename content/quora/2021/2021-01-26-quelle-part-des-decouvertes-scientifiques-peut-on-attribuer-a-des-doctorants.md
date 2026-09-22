@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- education
-- decouvertes-scientifiques
-- doctorant
-- universites
-- enseignement-superieur
 - recherche-scientifique
-- etudes-de-recherche
-- recherche-academique
-- doctorat
+- recherche
+- decouvertes-scientifiques
+- education
+- etudes
 coverImage: ./images/quora.png
 ---
 

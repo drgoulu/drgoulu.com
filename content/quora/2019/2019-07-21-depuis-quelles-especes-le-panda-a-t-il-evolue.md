@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie-animale
-- panda
-- evolution-processus
-- especes
-- zoologie
 - evolution
-- panda-geant
-- espece-animale
-- evolution-biologique-des-especes
-- evolution-animale
+- processus
+- especes
+- biologie-animale
+- zoologie
 coverImage: ./images/qimg-1d18825d6c123d990725b829aff1a4cb.jpg
 ---
 

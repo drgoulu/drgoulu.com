@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
+- sciences
 - astronomie
-- trous-noirs
-- l-univers
-- gravite
-- science-physique
-- cosmologie
 - astrophysique
-- physics
-- relativite
-- gravite-physique
+- univers
 coverImage: ./images/qimg-86820089dc28a1115b1c9a1061e3e564.jpg
 ---
 

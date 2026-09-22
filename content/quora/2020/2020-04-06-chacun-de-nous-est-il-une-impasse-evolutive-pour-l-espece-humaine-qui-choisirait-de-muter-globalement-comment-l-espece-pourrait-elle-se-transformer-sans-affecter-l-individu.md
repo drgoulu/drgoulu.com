@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - philosophie
-- mutation-et-mutations-genetique
-- espece-humaine
-- sciences-de-la-vie
 - evolution
-- genetique
-- biologie-humaine
 - biologie
-- philosophie-des-sciences
-- evolution-humaine
+- vie
 coverImage: ./images/quora.png
 ---
 

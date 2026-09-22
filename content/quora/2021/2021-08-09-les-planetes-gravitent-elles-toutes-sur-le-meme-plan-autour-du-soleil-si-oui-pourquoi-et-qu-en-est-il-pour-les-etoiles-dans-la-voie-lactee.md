@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- le-soleil
-- galaxie-de-la-voie-lactee
 - astronomie
-- systeme-solaire
-- etoiles-astronomie
-- science-spatiale
-- planetes-astronomie
 - astrophysique
-- voie-lactee
+- planetes
+- systeme-solaire
 coverImage: ./images/qimg-1dcfc3ff277d993c70b583f2fba9f60e.jpg
 ---
 

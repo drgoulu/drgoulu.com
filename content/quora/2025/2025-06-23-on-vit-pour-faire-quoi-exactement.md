@@ -8,14 +8,9 @@ categories:
 tags:
 - philosophie
 - question-existentielle
-- but-dans-la-vie
-- sens-de-la-vie
-- existentialisme
-- vivre-la-vie
-- raisons-de-vivre
+- sens
+- vie
 - question-philosophique
-- le-but-de-la-vie
-- but-de-la-vie
 coverImage: ./images/quora.png
 ---
 

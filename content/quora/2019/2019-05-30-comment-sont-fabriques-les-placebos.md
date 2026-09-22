@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - sante
-- placebos
-- fabrication-de-produits-pharmaceutiques
-- pharmacologie
-- recherche-medicale
-- effets-placebo-sante
 - medecine
-- developpement-de-medicaments
-- fabrication-des-medicaments
+- developpement
+- recherche-medicale
+- fabrication
 coverImage: ./images/quora.png
 ---
 

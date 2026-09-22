@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- commerce-international
+- droit
+- etats-unis
 - donald-trump
-- protectionnisme
-- regulation
-- politique-economique-des-etats-unis
+- politique-economique
 - globalisation
-- droits-de-douane
-- politique-commerciale
-- mondialisation
-- protectionnisme-americain
 coverImage: ./images/quora.png
 ---
 

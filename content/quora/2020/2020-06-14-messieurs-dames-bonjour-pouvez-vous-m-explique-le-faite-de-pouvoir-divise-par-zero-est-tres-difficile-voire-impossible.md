@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- mathematiques
+- physique
 - sciences
+- philosophie
+- mathematiques
 - cosmologie
-- division-par-zero
-- infini-mathematiques
-- le-zero
-- cosmologie-du-big-bang
-- philosophie-de-la-cosmologie
-- mathematiques-et-physique
 coverImage: ./images/qimg-a503aeeb51de79ebec689d38bde6e25d.jpg
 ---
 

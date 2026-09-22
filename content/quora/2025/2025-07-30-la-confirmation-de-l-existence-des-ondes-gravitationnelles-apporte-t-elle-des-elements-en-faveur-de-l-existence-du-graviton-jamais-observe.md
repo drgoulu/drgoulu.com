@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- graviton
-- les-ondes-gravitationnelles
-- relativite-generale
-- gravite
-- theories-physiques
 - physique-theorique
+- gravite
 - gravitation
-- physique-des-particules
+- relativite-generale
 coverImage: ./images/quora.png
 ---
 

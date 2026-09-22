@@ -8,13 +8,8 @@ categories:
 tags:
 - biologie
 - corps-humains
-- systeme-digestif
 - biologie-humaine
-- fonctionnement-du-corps
-- bacterie
-- cellules-biologie
-- le-corps-humain
-- micro-biologie
+- corps-humain
 - microbiologie
 coverImage: ./images/quora.png
 ---

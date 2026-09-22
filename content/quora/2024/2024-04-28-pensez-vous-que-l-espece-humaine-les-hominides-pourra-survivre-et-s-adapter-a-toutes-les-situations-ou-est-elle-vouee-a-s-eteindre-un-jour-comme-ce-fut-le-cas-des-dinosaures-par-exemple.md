@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- extinction-des-especes
-- dinosaures
-- adaptation
-- hominides
-- evolution-processus
-- espece-humaine
-- extinction
 - evolution
+- processus
+- especes
+- extinction
 coverImage: ./images/quora.png
 ---
 

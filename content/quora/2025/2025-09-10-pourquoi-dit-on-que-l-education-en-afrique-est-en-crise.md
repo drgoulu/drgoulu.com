@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- monde
 - education
-- crise-economique
-- continent-africain
-- defis-culturels
-- perturbation-de-l-education
-- systeme-educatif
 - afrique
 - enseignement
-- education-en-afrique
-- education-dans-le-monde
+- systeme-educatif
 coverImage: ./images/quora.png
 ---
 

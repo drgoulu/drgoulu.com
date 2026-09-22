@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- naine-blanche-corps-stellaire
-- collision-physique
-- evolution-stellaire
-- etoiles-astronomie
 - astrophysique
-- physique-spatiale
 - etoiles-corps-celestes
-- physique-stellaire
+- etoiles
+- evolution-stellaire
 coverImage: ./images/quora.png
 ---
 

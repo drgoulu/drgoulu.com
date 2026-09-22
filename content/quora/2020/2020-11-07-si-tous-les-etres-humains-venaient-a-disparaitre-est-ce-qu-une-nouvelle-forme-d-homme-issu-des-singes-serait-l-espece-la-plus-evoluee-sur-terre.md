@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- evolution-processus
-- hypotheses
-- primates
+- evolution
+- processus
 - evolution-humaine
-- extinction-des-especes
-- espece-superieure
-- espece-humaine
+- especes
 - extinction
-- evolution-biologique-des-especes
-- l-extinction-humaine
 coverImage: ./images/quora.png
 ---
 

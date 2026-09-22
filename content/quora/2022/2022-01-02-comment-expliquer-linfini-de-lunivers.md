@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- infini
 - sciences
 - astronomie
-- l-univers
-- philosophie-de-la-cosmologie
-- cosmologie
+- philosophie
 - astrophysique
-- univers-infini
-- physique-theorique
 coverImage: ./images/qimg-08f7f1f36a7f18aad8e0a7c2ec94a55b.jpg
 ---
 

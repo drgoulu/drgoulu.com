@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- la-reproduction-humaine
-- probabilite-statistiques
 - mathematiques
-- naissance
-- existence
-- statistiques
 - evolution-humaine
-- philosophie-des-sciences
-- probabilites
+- statistiques
 coverImage: ./images/quora.png
 ---
 

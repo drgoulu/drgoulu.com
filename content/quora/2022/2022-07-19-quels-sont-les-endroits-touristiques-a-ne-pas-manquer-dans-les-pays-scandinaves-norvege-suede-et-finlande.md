@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - voyage-international
-- norvege
 - lieux-touristiques
 - voyage
-- pays-nordiques
-- finlande
-- suede
 - touristes
-- scandinavie
 - destinations-touristiques
 coverImage: ./images/quora.png
 ---

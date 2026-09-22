@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
+- environnement
 - changement-climatique
-- gaz-a-effet-de-serre
-- sciences-de-l-environnement
-- emissions-de-carbone
-- recherche-climatique
-- politiques-environnementales
+- rechauffement-climatique
 - crise-climatique
-- le-rechauffement-climatique
-- catastrophe-climatique
 coverImage: ./images/qimg-0d65e995ae8fb3edb850c7985a2967f7.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
+- systeme
+- comparaisons
 - pays
 - culture
-- etrangers
-- explications
-- differences-culturelles
-- systeme-de-gouvernement
-- culture-anthropologie
-- comparaison-de-culture
-- systemes-politiques
 coverImage: ./images/quora.png
 ---
 

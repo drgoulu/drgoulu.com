@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- electromagnetisme
+- sciences
 - biologie
-- sens-humain
-- champ-magnetique-terrestre
-- sciences-de-la-nature
-- la-sensibilite
+- nature
 - biologie-humaine
-- physique-et-biologie
-- champs-magnetiques
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- cosmos
 - sciences
-- vitesse-de-la-lumiere
-- theorie-cosmologique
-- relativite-physique
+- theorie
 - physique-theorique
-- science-physique
-- theorie-de-la-relativite
-- physique-mathematique
+- relativite
 coverImage: ./images/quora.png
 ---
 

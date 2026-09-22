@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- education
 - sociologie
-- fuite-des-cerveaux
-- pays-musulmans
+- education
 - developpement-economique-et-social
-- capacites-intellectuelles
 - groupes-sociaux
 - emigration
-- antropologie
-- education-superieur
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- evolution
 - biologie
+- vie
 - recherche-scientifique
-- sciences-de-la-vie
-- evolution-biologie
-- theorie-scientifique
-- hypotheses-scientifiques
-- origine-de-la-vie
-- science-biologique
-- etude-scientifique
 coverImage: ./images/quora.png
 ---
 

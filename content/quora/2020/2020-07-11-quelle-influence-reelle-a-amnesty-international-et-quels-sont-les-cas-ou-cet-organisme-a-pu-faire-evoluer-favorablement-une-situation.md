@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- droits-de-l-homme
+- droit
+- homme
 - influence
-- ong
 - situation
-- influence-sociale
-- cas-pratique
-- actions-humanitaires
-- amnesty-international
 - droit-humain
-- organisations-humanitaires
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- non-newtonian-fluids
-- indice-de-viscosite
-- mecanique-des-fluides
-- fluidite
-- les-fluides
-- sciences-et-technologies
-- viscosite
-- physique-chimie
+- technologies
+- chimie
+- mecanique
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
 - biologie
-- contenu-adulte
-- evolution-processus
-- oiseaux
-- selection-sexuelle
-- determination
-- systeme
-- genetique
+- processus
 - biologie-animale
-- evolution-biologie
+- systeme
 coverImage: ./images/qimg-b59645f82f3f485f3f41ffbf5c89b857.jpg
 ---
 

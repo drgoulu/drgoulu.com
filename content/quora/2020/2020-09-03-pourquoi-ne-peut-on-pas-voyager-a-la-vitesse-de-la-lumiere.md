@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- espace
-- voyage-interstellaire
-- vitesse-de-la-lumiere
-- theorie-de-la-relativite
-- temps-physique
-- voyage-dans-l-espace
+- theorie
 - physique-theorique
-- relativite-physique
-- espace-dimension
+- relativite
+- espace
 coverImage: ./images/quora.png
 ---
 

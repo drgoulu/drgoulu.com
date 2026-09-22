@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- alimentation
-- consequences-de-la-disparition-des-abeilles
-- abeilles
-- agriculture
+- especes
+- extinction
 - biodiversite
-- pollinisation
-- extinction-des-especes
-- apiculture
-- disparition-des-abeilles
+- alimentation
+- disparition
 coverImage: ./images/quora.png
 ---
 

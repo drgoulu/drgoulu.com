@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- intelligence-artificielle-generale
-- conscience-de-soi
-- cognition
 - humanite
-- existence
-- sciences-cognitives
-- l-intelligence-artificielle
-- philosophie-et-psychologie
+- psychologie
 - intelligence-artificielle
+- existence
 coverImage: ./images/quora.png
 ---
 

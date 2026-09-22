@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- histoire-des-sciences
-- rayons-x-radiation-electro-magnetique
-- demarche-scientifique
-- curiosite-scientifique
-- science-physique
+- sciences
+- histoire
 - decouvertes-scientifiques
-- histoire-de-la-physique
-- physique-medicale
-- histoire-de-la-science
+- curiosite-scientifique
 coverImage: ./images/quora.png
 ---
 

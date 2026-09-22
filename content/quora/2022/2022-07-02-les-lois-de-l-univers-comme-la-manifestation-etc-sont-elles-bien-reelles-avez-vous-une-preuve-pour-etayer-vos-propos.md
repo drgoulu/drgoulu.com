@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- preuve
-- realite
-- manifestation
-- lois-universelles
+- physique
 - sciences
-- origine-de-l-univers
+- philosophie
+- univers
 - cosmologie
-- lois-de-la-physique
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

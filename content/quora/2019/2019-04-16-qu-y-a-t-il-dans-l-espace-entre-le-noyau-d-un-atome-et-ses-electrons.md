@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- ensemble-vide
-- modele-operationnel
-- noyau-d-atome
-- espace-libre
-- electrons
 - atomes
+- hydrogene
 - structure-atomique
-- atome-d-hydrogene
-- la-physique-atomique
+- electrons
 coverImage: ./images/quora.png
 ---
 

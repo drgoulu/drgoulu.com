@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - chimie
-- metaux-de-terres-rares
-- tableau-periodique
+- metaux
 - mineraux
-- elements-chimiques-specifiques
-- nomenclature-chimique
+- tableau-periodique
 - ressources-minerales
-- elements-du-tableau-periodique
-- terres-rares
 coverImage: ./images/quora.png
 ---
 

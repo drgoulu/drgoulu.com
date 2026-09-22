@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - biologie
-- ethique-philosophie-morale
-- fecondite
-- grossesse
-- technologie-medicale
-- sante-reproductive
 - biologie-humaine
-- fecondation-biologie
-- l-ethique
+- ethique
+- ethique-philosophie-morale
 - ethique-medicale
 coverImage: ./images/qimg-42fbf0c55e2be6530420ec5f83848e99.jpg
 ---

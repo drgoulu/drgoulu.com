@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- russie
-- futur
 - exploration-spatiale
-- agence-spatiale-federale-russe
 - technologie-spatiale
-- programme-spatial-russe
-- stations-spatiales
-- conquete-spatiale
+- futur
 - missions-spatiales
-- industrie-spatiale
+- russie
 coverImage: ./images/quora.png
 ---
 

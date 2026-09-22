@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - economie-mondiale
-- finances
-- dette
-- dette-de-l-etat
+- finance
 - finances-publiques
-- dette-transnationale
+- etat
 - dette-publique
-- dette-exterieure
-- dette-gouvernementale
-- economie-internationale
 coverImage: ./images/quora.png
 ---
 

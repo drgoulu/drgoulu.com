@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- mathematiques
 - sciences
-- pi
-- l-univers
-- theorie-des-nombres
-- physique-theorique
-- constantes-mathematiques
-- mathematiques-et-physique
-- physique-mathematique
+- mathematiques
+- univers
+- theorie
 coverImage: ./images/quora.png
 ---
 

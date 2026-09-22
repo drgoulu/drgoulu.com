@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- ethique
-- science-fiction-genre
+- planetes
 - exploration-spatiale
-- genie-genetique-humain
-- conditions-de-vie
-- mars-planete
-- surhumain
-- exploration-humaine-sur-mars
-- genie-genetique
+- science-fiction-genre
+- ethique
+- mars
 coverImage: ./images/quora.png
 ---
 

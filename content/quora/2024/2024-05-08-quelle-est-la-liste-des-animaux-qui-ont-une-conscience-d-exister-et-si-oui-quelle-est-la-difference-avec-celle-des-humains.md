@@ -8,14 +8,9 @@ categories:
 tags:
 - philosophie
 - animaux
-- conscience-de-soi
-- etre-humain
-- ethologie
-- comportement-animal
-- intelligence-animale
 - conscience
-- psychologie-animale
-- conscience-humaine
+- comportement-animal
+- etre-humain
 coverImage: ./images/quora.png
 ---
 

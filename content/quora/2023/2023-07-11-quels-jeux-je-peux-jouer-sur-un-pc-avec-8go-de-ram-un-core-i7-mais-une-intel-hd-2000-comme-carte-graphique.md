@@ -9,13 +9,8 @@ tags:
 - jeux-video
 - ram
 - compatibilite
-- intel-core-i7
 - configuration
-- carte-graphique-integree
 - processeurs
-- jeux-pc
-- cartes-graphiques
-- configuration-pc
 coverImage: ./images/quora.png
 ---
 

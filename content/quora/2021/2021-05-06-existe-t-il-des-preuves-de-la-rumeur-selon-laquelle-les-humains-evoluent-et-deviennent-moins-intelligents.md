@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie
-- intelligence-humaine
-- anthropologie
-- rumeurs
-- preuves-scientifiques
 - evolution
-- biologie-humaine
-- theorie-scientifique
-- les-humains-en-evolution
+- biologie
 - evolution-humaine
+- biologie-humaine
+- anthropologie
 coverImage: ./images/quora.png
 ---
 

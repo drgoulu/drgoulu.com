@@ -9,11 +9,8 @@ tags:
 - physique
 - sciences
 - astronomie
-- amplitude
-- cosmologie
 - astrophysique
-- physique-theorique
-- cosmologie-physique
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

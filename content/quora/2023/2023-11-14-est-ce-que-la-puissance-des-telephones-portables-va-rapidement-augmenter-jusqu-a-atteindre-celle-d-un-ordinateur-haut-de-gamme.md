@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- telephone-portable
+- sciences
+- evolution
+- technologies
+- innovation
 - nouvelles-technologies
-- puissance-de-calcul
-- ordinateurs
-- technologie-moderne
-- evolution-de-la-technologie
-- avancees-technologiques
-- technologie-et-innovation
 coverImage: ./images/quora.png
 ---
 

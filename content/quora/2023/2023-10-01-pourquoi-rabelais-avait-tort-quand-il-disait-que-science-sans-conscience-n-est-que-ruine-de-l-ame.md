@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - philosophie
-- francois-rabelais
-- ecrivain-francais
 - conscience
 - humanisme
 - ecrivain
-- philosophie-et-science
-- philosophie-des-sciences
+- sciences
 coverImage: ./images/quora.png
 ---
 

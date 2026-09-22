@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
-- etoiles-corps-celestes
 - astronomie
-- l-univers
-- electrons
-- atomes
-- cosmologie
 - astrophysique
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

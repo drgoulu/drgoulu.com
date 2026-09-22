@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- transparent
-- metaux
-- science-des-materiaux-et-ingenieries
+- sciences
+- materiaux
+- ingenierie
 - proprietes
-- transparence-optique
-- physique-des-materiaux
-- la-science-des-materiaux
-- propriete
-- science-des-materiaux-et-ingenierie
 coverImage: ./images/qimg-a8470c98f8253f9471555defc0c52982.jpg
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- monde
 - france
-- consequences-economiques
-- pib
-- les-plus-riches-au-monde
-- union-europeenne
-- brexit
-- pays-riches
-- grande-bretagne
 - economie-mondiale
-- classement-des-pays-par-pib
+- union-europeenne
+- pays-riches
 coverImage: ./images/quora.png
 ---
 

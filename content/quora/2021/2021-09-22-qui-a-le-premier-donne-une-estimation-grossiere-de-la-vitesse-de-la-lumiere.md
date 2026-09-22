@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- histoire-des-decouvertes
-- vitesse-de-la-lumiere
-- estimation
-- optique
-- histoire-de-la-physique
-- approximations
-- science-physique
-- histoire-des-sciences
-- physique-mathematique
+- sciences
+- histoire
+- lumiere
+- vitesse
 coverImage: ./images/quora.png
 ---
 

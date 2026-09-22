@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
+- vie
 - opinion
 - conscience
-- frontieres
-- sciences
-- la-vie
-- metaphysique
-- philosophie-et-science
-- opinions
-- conscience-humaine
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- modele-janus
-- univers-observable
-- cosmologie
-- l-univers
 - astrophysique
-- modeles-cosmologiques
+- univers
+- cosmologie
 - physique-theorique
-- theorie-cosmologique
-- cosmologie-physique
 coverImage: ./images/quora.png
 ---
 

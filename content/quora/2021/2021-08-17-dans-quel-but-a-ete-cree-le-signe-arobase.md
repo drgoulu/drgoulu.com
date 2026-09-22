@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- communication
-- langues
-- arobase
-- histoire-de-l-internet
-- adressage-reseau
-- langage-informatique
-- l-histoire-de-la-technologie
-- histoire-du-web
-- langages-informatiques
-- histoire-d-internet
+- histoire
+- informatique
+- technologies
+- internet
+- langage
 coverImage: ./images/quora.png
 ---
 

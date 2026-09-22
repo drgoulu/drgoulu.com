@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - psychologie
-- opinion-publique
 - croyance
-- scepticisme
-- complotiste
-- comportement-humain
-- theories-du-complot
+- opinion-publique
 - sociologie
-- les-complotistes
-- complotisme
+- comportement-humain
 coverImage: ./images/qimg-2ec7a80318f2eb8019359f8f8a3f1ff5.jpg
 ---
 

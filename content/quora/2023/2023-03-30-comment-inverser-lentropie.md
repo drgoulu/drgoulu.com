@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- entropie
-- inversion-du-temps
-- lois-de-la-thermodynamique
+- philosophie
 - physique-theorique
-- thermodynamique
-- philosophie-de-la-physique
-- physique-mathematique
-- entropie-physique
+- temps
 coverImage: ./images/quora.png
 ---
 

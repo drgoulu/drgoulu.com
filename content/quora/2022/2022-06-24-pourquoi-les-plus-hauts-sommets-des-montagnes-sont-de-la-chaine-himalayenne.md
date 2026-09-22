@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - geographie
-- formation
-- plaques-tectoniques
-- montagnes
-- himalaya
-- altitude
-- chaines-de-montagnes
 - geologie
+- formation
+- altitude
 - geomorphologie
-- tectoniques-des-plaques
 coverImage: ./images/qimg-fc607423c57ea3674f23a9fb38f7e8a9.gif
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- humanite
+- especes
+- extinction
+- risques
 - catastrophes-naturelles
-- avenir-de-l-humanite
-- meteorites
-- extinction-des-especes
-- scenarios-de-fin-du-monde
-- civilisation-humaine
-- fin-du-monde
-- risques-de-disparition-de-l-espece-humaine
-- catastrophe-environnementale
-- l-extinction-humaine
 coverImage: ./images/quora.png
 ---
 

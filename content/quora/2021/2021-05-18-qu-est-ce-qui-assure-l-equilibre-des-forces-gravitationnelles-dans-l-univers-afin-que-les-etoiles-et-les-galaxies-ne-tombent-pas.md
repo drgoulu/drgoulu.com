@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- etoiles-corps-celestes
 - astronomie
-- l-univers
-- force-gravitationnelle
-- galaxies
-- gravitation
-- cosmologie
 - astrophysique
-- etoiles
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

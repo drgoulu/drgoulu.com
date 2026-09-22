@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- univers
 - exploration-spatiale
-- drones
-- temperatures
-- venus-planete
-- nasa
 - science-spatiale
-- conditions-environnementales
-- ingenierie-et-technologie-spatiale
-- exploration-de-l-univers
-- technologie-spaciale
+- ingenierie
+- technologie-spatiale
 coverImage: ./images/qimg-f224be668022cd116348ac765de3b307.jpg
 ---
 

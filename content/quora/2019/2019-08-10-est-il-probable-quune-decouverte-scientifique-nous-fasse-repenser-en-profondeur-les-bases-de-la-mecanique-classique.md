@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- recherche-scientifique
-- philosophie-des-sciences
-- mecanique-classique
+- sciences
+- philosophie
 - physique-theorique
-- revolutions-scientifiques
-- progres-scientifique
-- decouvertes-scientifiques
-- theorie-scientifique
+- recherche-scientifique
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- mathematiques
 - statistiques
 - demographie
-- analyse-des-donnees
-- taux-de-mortalite
-- la-croissance-demographique
-- mathematiques-et-statistiques
-- etudes-demographiques
-- taux-de-naissance
-- croissance-demographique
-- demographie-humaine
+- donnees
+- analyse
 coverImage: ./images/quora.png
 ---
 

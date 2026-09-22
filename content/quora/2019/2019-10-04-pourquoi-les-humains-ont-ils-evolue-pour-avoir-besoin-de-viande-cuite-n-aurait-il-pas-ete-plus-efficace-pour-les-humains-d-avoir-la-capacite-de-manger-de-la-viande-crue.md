@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- alimentation
-- biologie
-- nutrition
-- anthropologie
-- viande
-- evolution-humaine
-- adaptation
-- cuisson-des-aliments
-- biologie-humaine
 - evolution
+- biologie
+- evolution-humaine
+- biologie-humaine
+- anthropologie
 coverImage: ./images/quora.png
 ---
 

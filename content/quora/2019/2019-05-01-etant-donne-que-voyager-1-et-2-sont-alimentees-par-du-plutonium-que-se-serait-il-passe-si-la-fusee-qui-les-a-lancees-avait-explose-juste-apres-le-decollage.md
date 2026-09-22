@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - exploration-spatiale
-- scenarios-hypothetiques
-- fusees
-- plutonium
 - energie-nucleaire
 - nasa
-- voyager-1-sonde-spatiale
-- explosions
-- lancement-astronautique
-- voyager-2-sonde-spatiale
+- scenarios-hypothetiques
+- fusees
 coverImage: ./images/quora.png
 ---
 

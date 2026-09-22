@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- anthropologie
 - evolution
-- primates
 - theorie
-- hypotheses-scientifiques
-- paleontologie
-- homo-sapiens
 - evolution-humaine
-- paleoanthropologie
+- anthropologie
+- paleontologie
 coverImage: ./images/quora.png
 ---
 

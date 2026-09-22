@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- espace
 - astronomie
-- vide-spatial
-- fond-diffus-cosmologique
-- temperatures
-- cosmologie
 - astrophysique
-- mesures-physiques
-- radioastronomie
+- cosmologie
+- espace
 coverImage: ./images/quora.png
 ---
 

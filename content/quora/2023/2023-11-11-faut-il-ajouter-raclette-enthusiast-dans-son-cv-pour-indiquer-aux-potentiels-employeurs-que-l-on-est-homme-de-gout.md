@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- emploi
+- creation
+- conseils
 - humour
-- gout-esthetique
-- conseils-de-carriere
-- raclette
-- cv
-- employeurs
-- humour-francais
-- creation-de-cv
-- gout-personnel
+- emploi
+- carriere
 coverImage: ./images/quora.png
 ---
 

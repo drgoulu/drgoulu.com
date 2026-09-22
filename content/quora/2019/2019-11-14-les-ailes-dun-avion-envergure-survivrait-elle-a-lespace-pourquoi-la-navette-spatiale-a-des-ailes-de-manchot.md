@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- ailes-d-avion
-- espace
 - astronomie
-- aviation
-- vol-spatial
+- espace
 - ingenierie
-- aeronautique
-- conception-d-aeronefs
+- aviation
 coverImage: ./images/qimg-42f5085f0c695621b71168412672701f.png
 ---
 

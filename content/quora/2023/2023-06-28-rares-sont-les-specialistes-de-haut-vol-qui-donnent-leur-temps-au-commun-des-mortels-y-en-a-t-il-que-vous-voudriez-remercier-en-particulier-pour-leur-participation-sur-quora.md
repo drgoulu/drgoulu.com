@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - quora
-- communaute
-- specialistes
-- bienveillance
-- partage-des-connaissances
-- gratitude
-- expertise
-- remerciements
+- connaissances
+- partage
 - communautes-en-ligne
-- reconnaissance
+- communaute
 coverImage: ./images/quora.png
 ---
 

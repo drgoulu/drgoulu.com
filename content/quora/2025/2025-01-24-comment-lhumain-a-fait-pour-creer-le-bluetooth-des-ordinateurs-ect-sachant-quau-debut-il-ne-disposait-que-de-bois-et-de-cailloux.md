@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- histoire-des-inventions
-- ordinateur-physique
-- bluetooth
-- histoire-de-l-informatique
-- histoire-de-la-science
-- l-histoire-de-la-technologie
-- les-ordinateurs
-- histoire-des-techniques
-- histoire-de-l-ingenierie-electronique
-- histoire-de-l-internet
+- physique
+- sciences
+- histoire
+- informatique
+- technologies
 coverImage: ./images/quora.png
 ---
 

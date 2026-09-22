@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sante
-- telephone-portable
-- cerveau
-- science-et-technologie
-- risques-pour-la-sante
-- medecine
+- sciences
 - recherche-scientifique
-- effets-sur-la-sante
-- recherches-scientifiques
+- sante
+- technologies
+- medecine
 coverImage: ./images/quora.png
 ---
 

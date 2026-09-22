@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- pyramides-d-egypte
-- architecture-antique
-- sites-touristiques
-- egypte
 - exploration
-- monuments
 - architecture
-- tourisme-en-egypte
 - egypte-ancienne
+- egypte
 coverImage: ./images/qimg-063453287db010f4dc7f37afbb570b3a.png
 ---
 

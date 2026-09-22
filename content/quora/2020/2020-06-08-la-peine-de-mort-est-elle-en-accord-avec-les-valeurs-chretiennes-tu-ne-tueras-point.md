@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - religion
-- peine-de-mort
-- ethique
 - droit
-- les-dix-commandements
-- valeurs-fondamentales
+- ethique
 - christianisme
 - moralite-humaine
-- philosophie-morale
-- valeurs-chretiennes
 coverImage: ./images/quora.png
 ---
 

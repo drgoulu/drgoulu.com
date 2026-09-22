@@ -8,13 +8,8 @@ categories:
 tags:
 - sciences
 - biologie
-- elements-chimie
-- oxygene
-- physiologie-humaine
-- la-respiration
 - chimie
 - biologie-humaine
-- physiologie
 - elements-chimiques
 coverImage: ./images/quora.png
 ---

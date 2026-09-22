@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- expansion-de-l-univers
 - astronomie
-- univers-observable
-- l-univers
+- univers
 - cosmologie
 - physique-theorique
-- dynamique-physique
-- exploration-de-l-univers
-- cosmologie-physique
 coverImage: ./images/quora.png
 ---
 

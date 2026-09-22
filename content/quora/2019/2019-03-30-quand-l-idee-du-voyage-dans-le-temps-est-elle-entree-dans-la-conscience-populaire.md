@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- culture-populaire
-- cinema
+- sciences
+- histoire
+- temps
+- voyage
 - science-fiction-genre
-- histoire-des-sciences
-- litterature
-- voyage-dans-le-temps
-- fiction
-- films-de-science-fiction
-- histoire-des-idees
-- livres-de-science-fiction
 coverImage: ./images/quora.png
 ---
 

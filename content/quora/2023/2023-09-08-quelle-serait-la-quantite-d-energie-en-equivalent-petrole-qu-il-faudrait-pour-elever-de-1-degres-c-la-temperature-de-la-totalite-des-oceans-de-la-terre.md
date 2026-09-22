@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- changement-climatique
-- terre-planete
-- oceans
-- sciences-de-la-nature
-- petrole-energie-fossile
-- temperatures
-- energie-physique
-- oceanographie
-- le-rechauffement-climatique
+- sciences
+- terre
+- planetes
+- energie
 coverImage: ./images/quora.png
 ---
 

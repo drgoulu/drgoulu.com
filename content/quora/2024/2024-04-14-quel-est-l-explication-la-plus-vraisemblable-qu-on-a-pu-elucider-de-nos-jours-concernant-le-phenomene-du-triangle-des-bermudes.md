@@ -8,13 +8,8 @@ categories:
 tags:
 - geographie
 - theories-du-complot
-- triangle-des-bermudes
+- phenomenes-naturels
 - mysteres
-- histoire-navale
-- explications
-- phenomene-naturel
-- oceanographie
-- sciences-maritimes
 - explications-scientifiques
 coverImage: ./images/quora.png
 ---

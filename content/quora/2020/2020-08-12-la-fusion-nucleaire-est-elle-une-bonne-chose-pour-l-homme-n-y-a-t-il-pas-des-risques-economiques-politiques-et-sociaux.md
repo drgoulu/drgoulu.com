@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- risques-pour-la-sante
+- sciences
 - energie
-- developpement-durable
-- crise-politique
-- science-et-societe
-- problemes-economiques
-- risques-industriels
-- risques-sociaux
-- probleme-politique
+- sante
+- societe
+- risques
 coverImage: ./images/quora.png
 ---
 

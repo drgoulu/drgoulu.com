@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- hydrogene-vert
-- solutions-d-energie-renouvelable
-- nouvelles-technologies
-- energie-alternative
-- technologie-d-energie-propre
-- production-d-energie
+- sciences
+- energie
+- technologies
 - energie-renouvelable
-- technologie-et-innovation
-- technologie-propre
+- innovation
 coverImage: ./images/quora.png
 ---
 

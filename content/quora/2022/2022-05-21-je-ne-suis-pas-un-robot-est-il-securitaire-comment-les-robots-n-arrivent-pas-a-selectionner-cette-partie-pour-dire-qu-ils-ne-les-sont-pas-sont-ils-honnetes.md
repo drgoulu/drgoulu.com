@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - informatique
-- honnetete
-- robots
-- recaptcha
-- securite-informatique
-- science-et-technologie
+- technologies
+- securite
 - intelligence-artificielle
-- captcha
-- securite-des-donnees
 coverImage: ./images/quora.png
 ---
 

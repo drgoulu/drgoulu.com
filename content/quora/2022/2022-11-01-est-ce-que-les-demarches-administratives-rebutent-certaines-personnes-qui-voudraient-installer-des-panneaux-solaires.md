@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- energie
 - energie-renouvelable
-- procedure-administrative
-- consommation-d-energie
-- panneaux-solaires
-- energie-solaire
+- consommation
 - energie-alternative
-- demarches-administratives
-- gestion-administrative
-- taches-administratives
-- installation-de-panneaux-solaires
+- energie-solaire
 coverImage: ./images/quora.png
 ---
 

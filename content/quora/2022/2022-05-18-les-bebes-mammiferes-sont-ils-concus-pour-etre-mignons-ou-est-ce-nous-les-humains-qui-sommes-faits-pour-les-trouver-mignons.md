@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- psychologie
-- mammiferes
-- evolution-processus
-- comportement-humain
-- la-perception
-- biologie-animale
-- sciences-cognitives
-- perception-visuelle
-- psychologie-humaine
 - evolution
+- processus
+- psychologie
+- biologie-animale
+- comportement-humain
 coverImage: ./images/qimg-f1bb029aedf0bad3d9be711ea2e255a6.jpg
 ---
 

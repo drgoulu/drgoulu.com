@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espoir
-- science-et-technologie
-- anti-gravite
-- recherche-scientifique
-- esperance
-- gravite
+- sciences
 - physique-theorique
-- curiosite-scientifique
-- decouvertes-scientifiques
+- recherche-scientifique
+- technologies
 coverImage: ./images/quora.png
 ---
 

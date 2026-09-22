@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- sciences-de-la-vie
-- evolution-processus
-- charles-darwin
-- histoire-des-sciences
+- sciences
+- histoire
 - evolution
-- theorie-de-l-evolution
-- evolution-biologique-des-especes
-- histoire-de-la-biologie
-- evolutionisme
-- darwin
+- biologie
+- theorie
 coverImage: ./images/quora.png
 ---
 

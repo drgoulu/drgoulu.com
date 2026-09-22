@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- chimie-nucleaire
-- uranium
-- elements-chimiques-specifiques
-- isotopes
 - chimie
 - radioactivite
-- elements-radioactifs
 - elements-chimiques
+- chimie-nucleaire
 coverImage: ./images/quora.png
 ---
 

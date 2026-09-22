@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- france
+- securite
+- loi
 - securite-publique
-- personnes-agees
-- lois-sur-les-armes-a-feu
-- casier-judiciaire
-- armes-de-poing
-- port-d-armes
-- les-seniors
-- possession-d-armes
-- securite-des-armes-a-feu
-- lois-sur-les-armes-en-france
+- armes
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- noyau-terrestre
-- detection-d-objets
 - composition-chimique
-- determination
 - exoplanetes
 - science-spatiale
 - astrophysique
-- physique-planetaire
 coverImage: ./images/quora.png
 ---
 

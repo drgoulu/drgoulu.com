@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- levitation
-- science-nature
-- phenomenes
-- lois-de-la-physique
+- sciences
 - physique-theorique
-- science-physique
-- phenomene-physique
-- la-physique
 - phenomenes-physiques
+- loi
 coverImage: ./images/qimg-b69271ece2f9d7770b78e4d210fa915d.jpg
 ---
 

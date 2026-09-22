@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- equipement
 - navigation-maritime
-- systeme-de-securite
+- systeme
+- securite
 - bateaux
-- sports-nautiques
-- securite-en-voyage
-- droit-maritime
-- dispositifs-de-securite
-- navigation-de-plaisance
-- equipement-de-securite
+- voyage
 coverImage: ./images/quora.png
 ---
 

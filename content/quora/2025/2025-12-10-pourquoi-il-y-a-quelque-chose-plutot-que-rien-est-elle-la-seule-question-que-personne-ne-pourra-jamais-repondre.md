@@ -8,14 +8,9 @@ categories:
 tags:
 - philosophie
 - question-existentielle
+- question-philosophique
 - metaphysique
 - existence
-- les-grandes-questions-philosophiques
-- ontologie-philosophie
-- question-philosophique
-- problemes-existentiels
-- philosophique
-- questions-existentielles
 coverImage: ./images/quora.png
 ---
 

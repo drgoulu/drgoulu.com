@@ -6,14 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
+- sciences
 - astronomie
-- venus-planete
-- densite-physique
-- atmospheres-planetaires
 - theorie
-- planetologie
-- sciences-de-l-atmosphere
-- physique-planetaire
 - theorie-scientifique
 coverImage: ./images/quora.png
 ---

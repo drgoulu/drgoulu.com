@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - mathematiques
-- nombres-de-fibonacci
-- recursion
+- nombres
 - algorithmes
-- relations-de-recurrence
-- suites-mathematiques
-- formules-mathematiques
-- equations-mathematiques
-- suite-de-fibonacci
-- langage-mathematique
+- equations
+- formules
 coverImage: ./images/quora.png
 ---
 

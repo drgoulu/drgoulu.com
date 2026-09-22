@@ -9,13 +9,8 @@ tags:
 - philosophie
 - occident
 - epistemologie
-- rationalistes
-- irrationalite
 - culture-occidentale
-- pensee-rationnelle
-- philosophie-et-science
-- rationalite
-- philosophie-occidentale
+- sciences
 coverImage: ./images/quora.png
 ---
 

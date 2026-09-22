@@ -8,14 +8,9 @@ categories:
 tags:
 - societe
 - opinion
-- islam
 - opinion-publique
-- integration-culturelle
-- groupes
-- opinions-personnelles
-- musulmans
-- opinions
-- integration-sociale
+- islam
+- opinion-personnelle
 coverImage: ./images/quora.png
 ---
 

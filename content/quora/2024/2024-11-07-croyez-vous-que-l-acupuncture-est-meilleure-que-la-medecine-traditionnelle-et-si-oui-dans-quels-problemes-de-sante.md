@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- medecine-traditionnelle-chinoise
-- acupuncture
-- traitements-medicaux
-- medecine-de-complement-et-alternative
 - medecine
-- problemes-de-sante
-- medecine-traditionnelle
+- probleme
+- medecine-de-complement-et-alternative
+- traitements-medicaux
 coverImage: ./images/quora.png
 ---
 

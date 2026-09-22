@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- terre-planete
-- le-soleil
-- nouvel-an
-- calendrier-gregorien
-- position-geographie
-- annee-calendrier
-- rotation-de-la-terre
-- calendrier
-- orbite-de-la-terre
+- terre
+- planetes
+- soleil
+- rotation
+- orbites
 coverImage: ./images/quora.png
 ---
 

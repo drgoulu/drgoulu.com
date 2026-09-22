@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- conflit-israelo-palestinien
-- crimee
+- politique
 - relations-internationales
+- conflit-israelo-palestinien
 - palestine
-- colonisation
-- analyse-politique
-- geopolitique
-- annexion-de-la-crimee
 coverImage: ./images/quora.png
 ---
 

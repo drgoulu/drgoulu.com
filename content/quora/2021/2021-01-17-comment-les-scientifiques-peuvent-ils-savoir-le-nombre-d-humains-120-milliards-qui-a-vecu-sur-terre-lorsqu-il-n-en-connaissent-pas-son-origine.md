@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- histoire-humaine
-- estimation-statistiques
+- histoire
 - recherche-scientifique
-- population-mondiale
+- humanite
 - demographie
-- hypotheses-scientifiques
-- etudes-demographiques
-- donnees-scientifiques
-- histoire-de-l-humanite
 coverImage: ./images/qimg-efe60b077ab340dd9b2c140ec2bb8322.png
 ---
 

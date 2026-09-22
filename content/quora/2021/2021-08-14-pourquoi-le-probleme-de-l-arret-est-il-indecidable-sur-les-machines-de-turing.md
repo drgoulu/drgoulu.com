@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- mathematiques
+- theorie
 - informatique
-- probleme-d-arret
-- indecision
-- machine-de-turing
-- calcul-mathematique
-- theorie-du-langage-de-programmation
-- logique-mathematiques
-- theorie-de-la-calculabilite-informatique
-- theorie-de-la-complexite-informatique
-- informatique-theorique
+- programmation
+- langage
 coverImage: ./images/quora.png
 ---
 

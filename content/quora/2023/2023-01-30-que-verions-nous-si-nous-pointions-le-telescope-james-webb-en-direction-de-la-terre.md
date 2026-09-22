@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
+- terre
+- planetes
 - espace
-- telescope-spatial-james-webb
 - exploration-spatiale
-- terre-planete
-- les-telescopes
-- objets-astronomiques
-- astronomy
-- james-webb-space-telescope
 coverImage: ./images/quora.png
 ---
 

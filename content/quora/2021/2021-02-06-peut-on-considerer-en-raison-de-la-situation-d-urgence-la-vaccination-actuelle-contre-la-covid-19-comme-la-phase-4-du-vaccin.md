@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- covid-19-2019-2020
 - recherche-scientifique
-- sante-et-securite-publiques
-- efficacite
-- situations-d-urgence
-- vaccination-pour-adultes
-- tests-cliniques
-- pandemie-de-covid19
-- vaccin-covid-19
+- sante
+- covid-19-2019-2020
 - recherche-medicale
+- vaccination
 coverImage: ./images/quora.png
 ---
 

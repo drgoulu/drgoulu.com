@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- nouvelles-technologies
-- moteurs
-- gravitation
-- energie
-- science-et-technologie
-- force-gravitationnelle
-- technologies
+- sciences
 - physique-theorique
-- energie-physique
+- energie
+- technologies
 coverImage: ./images/qimg-38d3bdc28119190ef2da903c969013de.jpg
 ---
 

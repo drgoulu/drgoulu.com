@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-physique
-- mysteres
+- physique
+- sciences
 - phenomenes-naturels
-- explications-scientifiques
-- curiosite-scientifique
-- phenomenes-inexpliques
-- anomalies-scientifiques
-- phenomenes
-- mysteres-inexpliques
+- phenomene
+- mysteres
 coverImage: ./images/quora.png
 ---
 

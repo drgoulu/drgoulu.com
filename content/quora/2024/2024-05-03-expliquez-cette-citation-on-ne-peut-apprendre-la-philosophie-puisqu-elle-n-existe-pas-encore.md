@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- histoire
 - philosophie
-- apprentissage
 - epistemologie
-- les-citations
 - existence
-- histoire-de-la-philosophie
-- sur-la-philosophie
-- philosophie-des-sciences
-- philosophe
-- la-philosophie
 coverImage: ./images/quora.png
 ---
 

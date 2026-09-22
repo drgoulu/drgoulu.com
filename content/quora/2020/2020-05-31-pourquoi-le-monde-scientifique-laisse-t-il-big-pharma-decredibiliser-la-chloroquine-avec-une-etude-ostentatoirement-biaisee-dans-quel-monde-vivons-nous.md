@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - recherche-scientifique
-- manipulation
-- big-pharma
-- industrie-pharmaceutique
+- recherche
 - etude-scientifique
-- etudes-de-recherche
-- enquetes-scientifiques
-- recherches-scientifiques
+- etudes
+- industrie-pharmaceutique
 coverImage: ./images/quora.png
 ---
 

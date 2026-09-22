@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- argent
-- travail-emploi
-- ville
-- consommation
+- vie
 - societe
-- vitesse-de-deplacement
-- conscience-de-soi
 - conscience
-- vie-en-societe
+- consommation
 coverImage: ./images/quora.png
 ---
 

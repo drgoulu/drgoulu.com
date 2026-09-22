@@ -8,12 +8,9 @@ categories:
 tags:
 - formation
 - profession
-- pharmacie
-- education-des-adultes
-- professions-et-professionnels-medicaux
-- formation-continue
-- formation-professionnelle-dadultes
-- pharmacien
+- education
+- adulte
+- professionnels-medicaux
 coverImage: ./images/quora.png
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- geographie
-- parc-national-de-la-vallee-de-la-mort
+- physique
 - ecologie
-- les-plantes
-- amerique-du-nord
-- deserts-geographie-physique
-- flore
-- geographie-physique
+- geographie
+- ameriques
+- plantes
 coverImage: ./images/quora.png
 ---
 

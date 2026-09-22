@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- canon-laser-arme
-- produits-commerciaux
-- energie-d-ionisation
-- lasers
-- armes-militaires
 - optique
-- les-particules-de-l-air
-- rayons-laser
-- photonique
+- particules
+- air
+- lasers
 coverImage: ./images/quora.png
 ---
 

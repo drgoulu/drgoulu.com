@@ -8,14 +8,9 @@ categories:
 tags:
 - geologie
 - catastrophes-naturelles
-- echelle
-- onde-sismique
-- magnitude-sismologie
 - seismes
 - dangers-naturels
 - sismologie
-- securite-sismique
-- geologie-structurale
 coverImage: ./images/qimg-026ff2a171a6c9b04f352b53da827102.jpg
 ---
 

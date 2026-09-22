@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- opinion-publique
-- japon
-- dechets-nucleaires
-- pollution
-- risques-pour-la-sante
-- gouvernement-japonais
+- sante
 - energie-nucleaire
-- catastrophes-nucleaires
+- opinion-publique
+- risques
 coverImage: ./images/quora.png
 ---
 

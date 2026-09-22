@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- connaissances
+- comparaisons
 - culture
-- esprit-scientifique
-- pensee
-- comparaison
-- pensee-scientifique
-- philosophie-et-science
-- philosophie-des-sciences
-- esprit-humain
+- connaissances
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- le-soleil
-- univers-observable
 - astronomie
-- lumiere-du-soleil
-- hypotheses-scientifiques
-- forme-des-planetes
-- l-univers
-- origine-de-l-univers
-- theorie-scientifique
+- univers
+- planetes
+- lumiere
 coverImage: ./images/quora.png
 ---
 

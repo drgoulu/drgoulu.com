@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- l-univers
-- langage-mathematique
+- mathematiques
+- univers
 - cosmologie
-- theories-de-tout-physique
 - theorie
-- equations-mathematiques
-- physique-theorique
-- formules-mathematiques
-- physique-mathematique
 coverImage: ./images/qimg-94d6218669cb253284be3835aedb9c0c.jpg
 ---
 

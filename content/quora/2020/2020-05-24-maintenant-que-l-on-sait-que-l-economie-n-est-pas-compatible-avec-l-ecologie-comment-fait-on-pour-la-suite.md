@@ -8,11 +8,8 @@ categories:
 tags:
 - changement-climatique
 - ecologie
-- ressources-naturelles
-- croissance-economique
 - developpement-durable
-- impact-environnemental
-- politiques-environnementales
+- ressources-naturelles
 - ecologisme
 coverImage: ./images/qimg-23ce19fddf528dfd4417f73c7b961f52.jpg
 ---

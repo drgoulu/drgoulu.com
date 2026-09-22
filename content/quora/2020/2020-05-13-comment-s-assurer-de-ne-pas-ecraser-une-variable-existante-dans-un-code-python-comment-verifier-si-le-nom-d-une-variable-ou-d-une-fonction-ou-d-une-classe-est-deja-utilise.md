@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- informatique
+- programmation
+- developpement
+- python
 - developpement-logiciel
-- classes
-- nom-de-variable
-- fonctions-general
-- python-langage-de-programmation
-- variables
-- developpeur-informatique
-- programmation-en-python
-- developpement-de-logiciels
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- histoire-du-monde
-- or
-- meteorites
-- mineralogie
-- cosmologie
+- histoire
 - astrophysique
-- geologie-planetaire
-- histoire-de-l-astronomie
+- cosmologie
+- monde
 coverImage: ./images/quora.png
 ---
 

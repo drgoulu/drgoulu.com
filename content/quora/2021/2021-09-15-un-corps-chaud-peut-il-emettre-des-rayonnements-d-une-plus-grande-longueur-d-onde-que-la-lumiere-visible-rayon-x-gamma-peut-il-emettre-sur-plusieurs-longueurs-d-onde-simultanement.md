@@ -9,10 +9,6 @@ tags:
 - physique
 - rayons-gamma
 - spectre-electromagnetique
-- corps-energies
-- longueur-donde
-- temperature-corporelle
-- rayons-x-radiation-electro-magnetique
 - physique-des-rayonnements
 - physique-medicale
 coverImage: ./images/quora.png

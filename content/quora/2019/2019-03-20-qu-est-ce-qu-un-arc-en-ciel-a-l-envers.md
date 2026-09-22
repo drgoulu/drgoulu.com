@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- arcenciel
-- illusion-d-optique
-- phenomene-meteorologique
+- phenomenes-physiques
 - optique
-- arc-en-ciel
 - phenomenes-naturels
-- effet-optique
-- phenomene-physique
-- phenomene-naturel
+- illusion
 coverImage: ./images/qimg-042272efba0a4f9802c41ac4f134e1cc.jpg
 ---
 

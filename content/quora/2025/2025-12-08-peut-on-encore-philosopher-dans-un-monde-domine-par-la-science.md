@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- monde-moderne
 - epistemologie
 - sciences
-- histoire-et-philosophie-des-sciences
+- histoire
 - pensee-philosophique
-- philosophie-et-science
-- philosophie-des-sciences
-- la-philosophie-des-sciences
-- sciences-et-philosophie
 coverImage: ./images/quora.png
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-du-monde
-- evolution-biologie
-- extinction-de-masse
-- phenomene-geologique
-- paleontologie
-- sciences-de-la-terre
-- histoire-de-la-science
-- histoire-de-la-terre
+- sciences
+- histoire
+- evolution
+- biologie
+- terre
 coverImage: ./images/quora.png
 ---
 

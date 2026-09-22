@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - questions
-- epidemiologie
 - covid-19-2019-2020
-- question-d-enquete
 - virus
-- origine-de-covid-19
-- coronavirus-general
 - virologie
-- question-contenu
-- interrogations
+- epidemiologie
 coverImage: ./images/quora.png
 ---
 

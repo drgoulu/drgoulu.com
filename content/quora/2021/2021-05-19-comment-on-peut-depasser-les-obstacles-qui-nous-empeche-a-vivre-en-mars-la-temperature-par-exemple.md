@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- planetes
+- espace
 - exploration-spatiale
-- conditions-de-vie
-- mars-planete
-- difficultes-d-exploration
 - science-spatiale
-- exploration-humaine-sur-mars
-- colonisation-de-l-espace
-- terraformation-de-mars
-- voyage-spatial-vers-mars
-- colonisation-spatiale
+- mars
 coverImage: ./images/quora.png
 ---
 

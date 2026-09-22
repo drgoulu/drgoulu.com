@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- ingenierie
-- architecture
+- terre
 - materiaux
-- bolivie
-- amerique-du-sud
-- hotels
-- techniques-de-construction
-- materiaux-de-construction
-- pays-d-amerique-latine
-- construction-en-terre
+- ingenierie
+- ameriques
+- pays
 coverImage: ./images/qimg-9f0a94e0c205b1b7bdaca34e666577a7.jpg
 ---
 

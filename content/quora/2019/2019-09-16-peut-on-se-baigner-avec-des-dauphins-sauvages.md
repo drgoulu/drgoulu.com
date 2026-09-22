@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - securite
-- dauphins
-- baignade
-- animaux-sauvages
-- gestion-de-l-environnement-et-de-la-faune
-- interaction-avec-les-animaux
 - securite-personnelle
-- vie-sauvage
 - faune-sauvage
+- dauphins
+- animaux-sauvages
 coverImage: ./images/quora.png
 ---
 

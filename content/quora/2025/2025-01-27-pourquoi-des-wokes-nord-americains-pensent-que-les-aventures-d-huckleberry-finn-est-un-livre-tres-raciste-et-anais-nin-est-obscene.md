@@ -7,14 +7,9 @@ categories:
 - Pourquoi
 tags:
 - racisme
-- les-aventures-de-huckleberry-finn
-- culture-americaine
 - anais-nin-auteur
-- analyse-et-critique-litteraire
-- obscenite
-- mark-twain-auteur
-- ecrivains-americains
-- critique-de-livres
+- critique
+- livres
 - litterature-americaine
 coverImage: ./images/quora.png
 ---

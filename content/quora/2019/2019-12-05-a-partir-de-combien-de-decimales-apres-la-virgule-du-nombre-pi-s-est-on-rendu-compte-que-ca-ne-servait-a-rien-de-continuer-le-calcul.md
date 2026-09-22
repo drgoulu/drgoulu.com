@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- histoire
 - mathematiques
-- pi
-- decimales
-- histoire-du-calcul
 - calcul
-- chiffres-decimaux
-- le-nombre-pi
+- pi
 - constantes-mathematiques
-- calcul-de-pi
-- histoire-des-mathematiques
 coverImage: ./images/quora.png
 ---
 

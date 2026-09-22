@@ -8,12 +8,8 @@ categories:
 tags:
 - physique
 - sciences
-- intrication-quantique
 - mecanique-quantique
 - physique-theorique
-- science-physique
-- la-physique-quantique
-- theories-quantiques
 - physique-quantique
 coverImage: ./images/quora.png
 ---

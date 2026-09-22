@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- france
+- comparaisons
 - prix
-- histoire-economique-de-france
-- inflation-economie
-- les-annees-1900
-- pouvoir-d-achat
-- objets-de-valeur
-- augmentation-des-prix
-- comparaison-des-prix
-- histoire-economique
-- objet-de-valeur
+- pouvoir
+- achat
 coverImage: ./images/quora.png
 ---
 

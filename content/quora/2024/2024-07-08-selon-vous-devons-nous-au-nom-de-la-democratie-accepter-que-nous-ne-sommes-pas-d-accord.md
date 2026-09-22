@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie-politique
-- liberte-d-expression
+- philosophie
+- politique
 - democratie
-- desaccord-et-desaccords
-- pluralisme
-- democratie-liberale
-- post-democratie
-- liberte-de-pensee
-- concept-de-philosophie-politique
-- accord-ou-desaccord
+- concepts
+- liberte-d-expression
 coverImage: ./images/quora.png
 ---
 

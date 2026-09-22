@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espace
-- etoiles-corps-celestes
 - astronomie
-- terre-planete
-- gravite
-- temps-physique
-- relativite-physique
-- espace-temps
+- terre
+- planetes
+- relativite
 coverImage: ./images/quora.png
 ---
 

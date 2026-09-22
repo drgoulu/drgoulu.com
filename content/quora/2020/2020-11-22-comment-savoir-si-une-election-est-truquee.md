@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- sondages
+- systeme
 - democratie
-- sciences-politiques
-- integrite
 - elections
-- fraude-electorale
-- systeme-d-election
-- campagnes-electorales
-- electorat
-- systemes-electoraux
+- sondages
+- sciences-politiques
 coverImage: ./images/quora.png
 ---
 

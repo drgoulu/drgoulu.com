@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- question-philosophique
-- l-univers
+- philosophie
+- univers
 - cosmologie
-- temps-physique
-- l-eternite
-- origine-de-l-univers
-- expansion-de-l-univers
-- philosophie-de-la-cosmologie
-- age-de-l-univers
+- temps
 coverImage: ./images/quora.png
 ---
 

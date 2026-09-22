@@ -8,14 +8,9 @@ categories:
 tags:
 - france
 - relations-internationales
-- pays
-- annexion
-- souverainete
-- espagne
-- reactions-nucleaires
-- politique-mondiale
-- droit-international
 - politique-internationale
+- pays
+- droit-international
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- transport
+- comparaisons
+- transports
+- prix
 - voitures-electriques
 - essence
-- comparaisons-de-prix
-- stations-de-recharge-pour-vehicules-electriques
-- prix-des-carburants
-- recharge-electrique
-- tarifs-d-electricite
-- vehicules-electriques
 coverImage: ./images/quora.png
 ---
 

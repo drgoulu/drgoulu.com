@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
+- nombres
+- education
+- formation
 - cognition
-- competences
-- raisonnement
-- lecture-de-nombres
-- education-francaise
-- formation-et-education
-- les-nombres
-- competences-cognitives
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - philosophie
-- raison
-- preuve
-- la-methode-scientifique
-- raisonnement-logique
-- methodologie
 - theorie-scientifique
-- logique-philosophie
-- philosophie-et-logique
-- philosophie-des-sciences
+- logique
+- methode-scientifique
 coverImage: ./images/quora.png
 ---
 

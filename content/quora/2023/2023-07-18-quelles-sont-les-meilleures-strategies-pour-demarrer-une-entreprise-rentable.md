@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- creation
+- entreprises
+- gestion
 - entrepreneuriat
-- gestion-des-entreprises
-- lancement-d-une-entreprise
-- conseils-business
-- strategie-d-entreprise
-- creation-d-entreprise
-- financement-d-entreprise
-- demarrer-une-entreprise
-- demarrage-d-une-entreprise
-- strategie-d-affaires
+- strategie
 coverImage: ./images/quora.png
 ---
 

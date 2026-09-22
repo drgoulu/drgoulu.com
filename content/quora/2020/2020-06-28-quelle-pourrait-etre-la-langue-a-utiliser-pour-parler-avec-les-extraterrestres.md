@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- communication
-- langues
-- vie-extraterrestre
-- linguistique
-- contact-humain
 - langage
-- les-extraterrestres
-- la-communication
+- vie-extraterrestre
+- communication
 - extraterrestres
-- la-vie-extraterrestre
+- linguistique
 coverImage: ./images/qimg-ecdd5debdbd7aeaa4d511f9fee60e316.gif
 ---
 

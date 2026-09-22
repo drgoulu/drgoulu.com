@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- scepticisme
-- preuve-science
 - epistemologie
-- verification-des-faits
-- la-methode-scientifique
-- preuve-historique
-- pensee-scientifique
 - preuves-scientifiques
-- scepticisme-scientifique
+- methode-scientifique
+- pensee-scientifique
 coverImage: ./images/quora.png
 ---
 

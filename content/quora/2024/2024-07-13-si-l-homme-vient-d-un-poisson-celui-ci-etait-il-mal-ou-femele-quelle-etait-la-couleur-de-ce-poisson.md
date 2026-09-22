@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie
-- sexe
-- couleur
-- origines-humaines
 - evolution
-- theorie-de-l-evolution
-- origine-de-la-vie
-- evolution-humaine
-- biologie-de-l-evolution
+- biologie
+- theorie
+- vie
+- origines
 coverImage: ./images/qimg-01d3c2202e8569e77e1bf49f2590d197.png
 ---
 

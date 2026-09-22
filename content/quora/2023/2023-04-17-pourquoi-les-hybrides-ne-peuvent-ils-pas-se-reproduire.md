@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
+- evolution
 - biologie
-- animaux-hybrides
-- genetique
-- sciences-de-la-nature
-- la-reproduction-humaine
-- evolution-biologie
-- hybride
-- reproduction
-- reproduction-animale
-- sciences-de-la-vie
+- vie
+- nature
 coverImage: ./images/quora.png
 ---
 

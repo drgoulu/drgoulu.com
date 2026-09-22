@@ -9,13 +9,8 @@ tags:
 - sciences
 - physique-quantique
 - photons
-- emission-du-photon
-- science-physique
-- optique-quantique
-- physics
-- photon-unique
-- technologie-quantique
-- atome-physique-quantique
+- emission
+- physique
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-philosophique
-- biologie
-- animaux
-- evolution-processus
-- adaptation
-- evolution-biologique-des-especes
-- zoologie
-- biologie-animale
 - evolution
+- biologie
+- processus
+- animaux
+- biologie-animale
 coverImage: ./images/quora.png
 ---
 

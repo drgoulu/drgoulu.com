@@ -8,13 +8,8 @@ categories:
 tags:
 - substances-chimiques
 - petrole
-- risques-professionnels
-- wax
 - industrie-petroliere-et-gaziere
-- gestion-des-pipelines
-- produits-dangereux
 - secteur-petrolier
-- danger-chimique
 - risques-industriels
 coverImage: ./images/quora.png
 ---

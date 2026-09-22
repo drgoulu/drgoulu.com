@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
+- terre
 - changement-climatique
+- especes
 - ecologie
-- histoire-de-la-terre
-- 6-eme-extinction
-- paleontologie
-- biodiversite
-- extinction-des-especes
-- catastrophes-environnementales
-- extinction-massive
-- evenements-d-extinction
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- verre
-- solides-amorphes
-- etats-de-la-matiere
-- les-fluides
-- matiere-physique
-- fluidite
-- liquides
-- phases-de-la-matiere
+- etat
+- matiere
+- fluides
 - solides
 coverImage: ./images/quora.png
 ---

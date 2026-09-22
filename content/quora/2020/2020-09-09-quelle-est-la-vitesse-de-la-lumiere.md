@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- vitesse-de-la-lumiere
-- constantes-mathematiques
-- concepts-en-physique
+- lumiere
+- vitesse
 - phenomenes-physiques
-- proprietes-physiques
-- mesures-physiques
-- vitesse-de-deplacement
-- quantites-physiques
 coverImage: ./images/quora.png
 ---
 

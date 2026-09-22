@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- trous-noirs
 - sciences
 - astronomie
-- lumiere-physique
-- gravitation
-- phenomenes
 - astrophysique
 - relativite
-- phenomenes-physiques
 coverImage: ./images/quora.png
 ---
 

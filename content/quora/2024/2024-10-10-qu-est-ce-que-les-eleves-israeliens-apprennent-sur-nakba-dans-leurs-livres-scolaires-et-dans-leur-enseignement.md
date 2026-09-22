@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - education
+- israel
 - conflit-israelo-palestinien
-- nakba-exode-palestinien-de-1948-un-evenement
-- l-education-en-israel
-- histoire-de-la-palestine
-- livres-educatifs
-- matieres-scolaires
-- enseignement
-- editions-scolaires
-- histoire-d-israel
+- palestine
 coverImage: ./images/quora.png
 ---
 

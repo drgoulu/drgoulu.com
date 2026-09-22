@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- comparaisons
-- le-soleil
-- taille
-- etoiles-corps-celestes
-- data-visualisation
-- echelle
 - systeme-solaire
-- le-soleil-astronomie
-- visualisation
+- soleil
+- etoiles-corps-celestes
+- comparaisons
 coverImage: ./images/qimg-4b899735e3be31c9cef28ef346cd335c.jpg
 ---
 

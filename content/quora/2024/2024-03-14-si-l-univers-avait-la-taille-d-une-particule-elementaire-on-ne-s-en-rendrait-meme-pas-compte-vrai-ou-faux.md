@@ -7,10 +7,8 @@ categories:
 - Quora
 tags:
 - physique
-- univers-infini
 - astronomie
-- elementary-particles
-- l-univers
+- univers
 - cosmologie
 - univers-observable
 coverImage: ./images/quora.png

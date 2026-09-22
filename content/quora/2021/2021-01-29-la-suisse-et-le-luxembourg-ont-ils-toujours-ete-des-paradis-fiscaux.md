@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- pays
-- histoire-economique
 - suisse
+- pays
 - fiscalite
-- paradis-fiscaux
-- evasion-fiscale
-- luxembourg
-- systeme-fiscal
-- droit-fiscal
+- histoire-economique
 - politique-fiscale
 coverImage: ./images/quora.png
 ---

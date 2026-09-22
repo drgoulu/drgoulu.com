@@ -8,14 +8,9 @@ categories:
 tags:
 - sante
 - questions
-- cafe
-- boissons
-- effets-du-cafe-sur-la-sante
-- stimulants
-- energie-alimentation
+- alimentation
+- effet
 - nutrition
-- alimentation-et-nutrition
-- cafeine
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
+- sciences
 - histoire
-- franklin-d-roosevelt
-- albert-einstein-physicien
+- monde
 - energie-nucleaire
-- lettre
-- la-seconde-guerre-mondiale
-- histoire-de-la-physique
-- histoire-du-monde
-- bombe-nucleaire
-- histoire-des-sciences
 coverImage: ./images/quora.png
 ---
 

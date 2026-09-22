@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - histoire
-- premiere-guerre-mondiale
-- demographie-humaine
-- histoire-du-xxe-siecle
-- la-seconde-guerre-mondiale
-- histoire-du-monde
+- seconde-guerre-mondiale
+- monde
 - population-mondiale
-- etudes-demographiques
-- histoire-de-la-seconde-guerre-mondiale
 - demographie
 coverImage: ./images/qimg-2f5f731c01d4e0c68b6cc71e4b5fe03a.jpg
 ---

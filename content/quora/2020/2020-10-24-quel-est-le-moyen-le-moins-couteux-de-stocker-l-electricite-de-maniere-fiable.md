@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- cout
-- solutions-d-energie-renouvelable
-- electricite
+- sciences
+- energie
 - technologies
-- stockage-d-energie
-- technologie-energetique
+- economie
 - energie-renouvelable
-- sources-d-energie
-- economie-d-energie
 coverImage: ./images/qimg-6e6adc7186283d41b32408687cbb5a12.jpg
 ---
 

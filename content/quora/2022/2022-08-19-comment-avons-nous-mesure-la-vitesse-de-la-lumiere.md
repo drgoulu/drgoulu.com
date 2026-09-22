@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- vitesse-de-la-lumiere
-- histoire-des-sciences
-- science-physique
-- mesures-physiques
-- histoire-de-la-physique
-- physique-chimie
-- histoire-de-la-science
+- histoire
+- chimie
+- lumiere
 coverImage: ./images/qimg-9d7aacfb8d06fe7358a9931502f7bd7e.jpg
 ---
 

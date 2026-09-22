@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- planetes-du-systeme-solaire
-- sciences-de-la-vie
-- astrobiologie
-- vie-extraterrestre
-- terre-planete
+- sciences
 - astronomie
-- systeme-solaire
-- philosophie-des-sciences
+- philosophie
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

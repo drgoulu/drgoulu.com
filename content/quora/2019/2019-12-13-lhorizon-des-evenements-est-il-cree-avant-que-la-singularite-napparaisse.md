@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
-- horizon-des-evenements
-- singularite
-- cosmologie
-- relativite-physique
 - astrophysique
+- cosmologie
 - physique-theorique
-- cosmologie-physique
-- astrophysique-relativiste
+- relativite
 coverImage: ./images/quora.png
 ---
 

@@ -7,11 +7,9 @@ categories:
 - Quora
 tags:
 - sante
-- variant-delta
 - virus
-- taux-de-mortalite
-- epidemiologie
 - virologie
+- epidemiologie
 - mortalite
 coverImage: ./images/quora.png
 ---

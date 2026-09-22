@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- sommet
-- stephen-hawking
-- question-hypothetique
-- maladie
 - physique
-- physiciens
-- question-philosophique
-- science-physique
+- sciences
+- philosophie
 - physique-theorique
+- question-hypothetique
 coverImage: ./images/quora.png
 ---
 

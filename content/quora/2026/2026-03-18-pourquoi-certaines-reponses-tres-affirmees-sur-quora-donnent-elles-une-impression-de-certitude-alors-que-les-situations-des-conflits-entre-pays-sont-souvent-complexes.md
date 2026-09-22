@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sociologie
-- guerre
 - relations-internationales
+- guerre
+- sociologie
 - quora
-- biais-cognitif
-- complexite
-- psychologie-cognitive
-- geopolitique
-- guerres-et-conflits
-- conflits-internationaux
+- conflits
 coverImage: ./images/quora.png
 ---
 

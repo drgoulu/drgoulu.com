@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- energie-renouvelable
-- gravite
-- energie-physique
-- sciences-et-technologies
-- energie-potentielle
+- energie
 - relativite
-- energie-environnementale
-- gravite-physique
+- technologies
 coverImage: ./images/quora.png
 ---
 

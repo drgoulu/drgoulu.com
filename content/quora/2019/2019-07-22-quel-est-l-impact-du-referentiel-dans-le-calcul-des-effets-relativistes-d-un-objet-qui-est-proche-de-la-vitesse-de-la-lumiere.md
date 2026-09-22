@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- referentiel
-- vitesse-de-la-lumiere
-- calcul
-- theorie-de-la-relativite
-- relativite-restreinte
-- calcul-mathematique
+- theorie
 - physique-theorique
-- relativite-physique
-- physique-mathematique
+- relativite
+- lumiere
 coverImage: ./images/quora.png
 ---
 

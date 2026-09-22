@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- innovation-technologique
 - sciences
-- energie-nucleaire
-- recherche-scientifique
-- reacteurs-a-fusion
 - physique-theorique
-- energie-physique
-- recherche
+- energie
+- recherche-scientifique
 coverImage: ./images/quora.png
 ---
 

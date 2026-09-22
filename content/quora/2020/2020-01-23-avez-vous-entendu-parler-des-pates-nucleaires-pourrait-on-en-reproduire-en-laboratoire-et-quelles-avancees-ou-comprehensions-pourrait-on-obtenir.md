@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- energie-nucleaire
-- comprehension
 - recherche-scientifique
-- laboratoires
-- progres-scientifique
-- laboratoire-de-recherche
-- sciences-nucleaires
 - recherche
+- energie-nucleaire
+- progres-scientifique
 coverImage: ./images/quora.png
 ---
 

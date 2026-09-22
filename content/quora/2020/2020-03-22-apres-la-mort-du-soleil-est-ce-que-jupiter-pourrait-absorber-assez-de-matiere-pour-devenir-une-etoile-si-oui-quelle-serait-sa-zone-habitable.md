@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- le-soleil
-- zone-habitable
-- etoiles-corps-celestes
-- systeme-solaire
-- jupiter-planete
-- evolution-stellaire
 - astrophysique
-- physique-planetaire
-- physique-stellaire
+- systeme-solaire
+- soleil
+- etoiles-corps-celestes
 coverImage: ./images/quora.png
 ---
 

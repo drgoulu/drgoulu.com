@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- histoire
+- physique-theorique
 - energie-nucleaire
-- j-robert-oppenheimer-physicien
-- histoire-de-la-physique
-- armes-nucleaires
-- physique-nucleaire-et-physique-theorique
 - sciences-nucleaires
-- fission-nucleaire
-- reactions-nucleaires
-- la-physique-nucleaire
-- physique-nucleaire-theorique
 coverImage: ./images/quora.png
 ---
 

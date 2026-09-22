@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- politique
+- sante
+- societe
 - sante-publique
-- vaccins
-- debats-de-societe
-- efficacite
-- hesitation-a-la-vaccination
-- effets-secondaires
-- industrie-pharmaceutique
-- prix-des-medicaments
-- sciences-de-la-sante
-- politique-de-la-sante
 coverImage: ./images/quora.png
 ---
 

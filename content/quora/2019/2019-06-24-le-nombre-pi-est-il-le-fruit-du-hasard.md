@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- philosophie
 - mathematiques
-- hasard
-- pi
-- nombre
-- theorie-des-nombres
-- geometrie
-- philosophie-des-mathematiques
-- sciences-mathematiques
-- geometrie-des-cercles
+- theorie
+- nombres
 coverImage: ./images/quora.png
 ---
 

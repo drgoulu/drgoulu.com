@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- etoiles-corps-celestes
-- supernova
-- evolution-stellaire
 - astrophysique
-- observation-des-astres
+- etoiles-corps-celestes
 - etoiles
-- physique-stellaire
-- etoiles-astronomie
+- observation
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- changement-climatique
-- l-environnement
-- energie-physique
-- developpement-durable
-- energie-renouvelable
-- consommation-d-energie
-- transition-energetique
+- physique
 - energie
-- consommation-energetique
+- environnement
+- changement-climatique
+- energie-renouvelable
 coverImage: ./images/quora.png
 ---
 

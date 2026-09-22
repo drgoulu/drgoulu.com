@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - relations-internationales
-- reglement-des-differends
-- conflit-et-conflits
+- gestion
 - politique-internationale
-- resolution-de-conflit
-- securite-internationale
-- organisations-internationales
-- gestion-des-conflits
-- diplomatie-et-relation-internationale
-- affaires-internationales
+- conflits
+- resolutions
 coverImage: ./images/quora.png
 ---
 

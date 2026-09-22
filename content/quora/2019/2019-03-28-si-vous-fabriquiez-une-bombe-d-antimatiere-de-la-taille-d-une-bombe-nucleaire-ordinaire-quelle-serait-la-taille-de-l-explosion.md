@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- l-antimatiere
-- energie-nucleaire
-- taille
-- explosions
 - physique-theorique
-- bombe-nucleaire
-- explosion-nucleaire
+- energie-nucleaire
+- antimatiere
+- taille
 coverImage: ./images/quora.png
 ---
 

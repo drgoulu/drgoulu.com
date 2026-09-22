@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- consequences
 - astronomie
-- energie-noire
-- l-univers
-- mecanismes
-- cosmologie
-- matiere-noire
 - astrophysique
-- physique-theorique
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

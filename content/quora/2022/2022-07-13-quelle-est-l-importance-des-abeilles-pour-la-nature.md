@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- agriculture
 - environnement
-- abeilles
 - nature
-- roles-et-responsabilites
-- consequences-de-la-disparition-des-abeilles
-- pollinisation
 - biodiversite
-- disparition-des-abeilles
+- disparition
+- consequences
 coverImage: ./images/quora.png
 ---
 

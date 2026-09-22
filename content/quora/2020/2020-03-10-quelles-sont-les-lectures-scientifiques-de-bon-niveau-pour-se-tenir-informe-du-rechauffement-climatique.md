@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - changement-climatique
-- ouvrages-scientifiques
-- climatologie
-- etudes-scientifiques
 - rechauffement-climatique
-- textes-scientifiques
-- livres-scientifiques
-- le-rechauffement-climatique
-- publications-scientifiques
+- etude-scientifique
+- climatologie
 coverImage: ./images/quora.png
 ---
 

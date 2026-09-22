@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- radioactivite
-- composants-de-l-atome
-- atomes
 - chimie
-- recherche-atomique
-- la-physique-atomique
-- structure-atomique
-- physique-et-chimie
+- atomes
+- radioactivite
 coverImage: ./images/quora.png
 ---
 

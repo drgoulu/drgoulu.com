@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - changement-climatique
-- consommation
-- responsabilite
 - ecologie
 - developpement-durable
+- consommation
 - pollution
-- impact-environnemental
-- emissions-de-carbone
-- consommation-responsable
-- responsabilite-personnelle
 coverImage: ./images/quora.png
 ---
 

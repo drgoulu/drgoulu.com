@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- desastre-nucleaire-de-tchernobyl-avril-1986
 - opinion
+- catastrophes
 - catastrophes-nucleaires
-- tchernobyl
-- centrale-nucleaire-de-tchernobyl
-- opinions
 - accident-nucleaire
-- catastrophe-de-tchernobyl
 coverImage: ./images/quora.png
 ---
 

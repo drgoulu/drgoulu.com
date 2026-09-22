@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- dichroisme-circulaire
-- vitesse-de-la-lumiere
-- mouvement-harmonique-simple
-- optique
-- mouvement-physique
-- lumiere-physique
 - physique-theorique
-- mouvement-circulaire
-- photonique
+- lumiere
+- vitesse
+- mouvement
 coverImage: ./images/qimg-6c61b1e0cf41177c9203d359d34741da.png
 ---
 

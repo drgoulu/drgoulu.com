@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - consommateur
-- design
 - fonctionnalite
 - plastique
-- ergonomie
 - emballage
 - forme
-- bouteilles-d-eau
-- emballages-alimentaires
-- packaging
 coverImage: ./images/quora.png
 ---
 

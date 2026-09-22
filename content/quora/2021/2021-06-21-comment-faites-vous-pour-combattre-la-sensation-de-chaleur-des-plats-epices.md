@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- cuisine
-- lait
-- sensation-de-brulure
 - eau
+- conseils
+- chaleur
+- cuisine
 - boissons
-- la-chaleur
-- conseils-alimentaires
-- nourriture-epicee
-- aliments-et-boissons
-- conseils-de-cuisine
 coverImage: ./images/quora.png
 ---
 

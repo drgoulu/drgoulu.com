@@ -9,13 +9,8 @@ tags:
 - musique
 - intelligence-artificielle
 - plagiat
-- nick-cave-musicien-australien
 - chatgpt
-- imitation
 - chanteur
-- creation-artistique
-- style-musicale
-- creation-musicale
 coverImage: ./images/quora.png
 ---
 

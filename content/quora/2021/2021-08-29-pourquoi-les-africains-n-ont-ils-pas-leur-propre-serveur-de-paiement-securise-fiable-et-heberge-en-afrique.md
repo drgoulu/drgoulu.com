@@ -8,13 +8,9 @@ categories:
 tags:
 - securite
 - afrique
-- commerce-electronique
 - developpement-technologique
-- infrastructure-informatique
-- systemes-de-paiement
-- economie-numerique
-- service-de-paiement-en-ligne
-- infrastructure-digital
+- infrastructures
+- informatique
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- developpement-de-logiciels
-- exception
-- langages-orientes-objet
-- observation-des-erreurs
-- langage-et-programation
-- gestion-des-exceptions
-- programmation-orientee-objet
-- ingenerie-logiciel
-- conception-de-logiciels
-- conception-orientee-objet
+- observation
+- developpement
+- gestion
+- logiciels
+- conception
 coverImage: ./images/quora.png
 ---
 

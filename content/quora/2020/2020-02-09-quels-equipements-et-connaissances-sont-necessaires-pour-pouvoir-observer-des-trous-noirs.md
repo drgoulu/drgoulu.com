@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- trous-noirs
-- equipement-de-laboratoire
-- connaissances-scientifiques
-- observatoires-spatiaux
 - astrophysique
+- trous-noirs
+- observation
 - objets-astronomiques
-- observation-scientifique
-- astronomie-d-observation
 coverImage: ./images/quora.png
 ---
 

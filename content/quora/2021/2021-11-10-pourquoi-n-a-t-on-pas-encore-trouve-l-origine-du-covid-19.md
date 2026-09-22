@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- covid-19-2019-2020
 - recherche-scientifique
-- sante-et-securite-publiques
-- pandemie
-- virologie
-- epidemiologie
-- origine-de-covid-19
+- sante
 - recherche
-- recherche-medicale
-- epidemies
+- covid-19-2019-2020
+- virologie
 coverImage: ./images/quora.png
 ---
 

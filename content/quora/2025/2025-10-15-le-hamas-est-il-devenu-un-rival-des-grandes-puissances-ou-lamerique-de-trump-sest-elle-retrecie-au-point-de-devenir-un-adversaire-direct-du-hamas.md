@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- les-etats-unis-d-amerique
+- etats-unis
 - politique-internationale
-- hamas
-- donald-trump
+- ameriques
+- politique-etrangere
 - conflit-israelo-palestinien
-- rivalite
-- geopolitique
-- adversaires
-- acteurs-politiques
-- politique-etrangere-des-etats-unis
 coverImage: ./images/quora.png
 ---
 

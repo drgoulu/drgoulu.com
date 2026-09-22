@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- realite
 - physique
+- sciences
+- philosophie
 - cosmologie
-- metaphysique
-- la-realite-physique
-- philosophie-de-la-physique
 - physique-theorique
-- philosophie-des-sciences
-- cosmologie-physique
 coverImage: ./images/quora.png
 ---
 

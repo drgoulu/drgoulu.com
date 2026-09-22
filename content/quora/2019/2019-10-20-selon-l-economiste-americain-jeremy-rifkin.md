@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - energie
-- jeremy-rifkin-ecrivain
-- energie-renouvelable
-- econome
-- prix-de-l-energie
+- economie
 - energie-nucleaire
+- energie-renouvelable
 - energie-solaire
-- economie-d-energie
 coverImage: ./images/quora.png
 ---
 

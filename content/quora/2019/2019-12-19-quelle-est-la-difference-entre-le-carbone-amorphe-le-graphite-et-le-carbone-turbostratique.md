@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - chimie
 - materiaux
-- forme-allotropique-du-carbone
-- graphite
-- science-des-materiaux-et-ingenierie
-- carbone
-- science-de-la-matiere
-- chimie-physique
-- graphene
-- science-des-materiaux-et-ingenieries
+- ingenierie
 coverImage: ./images/quora.png
 ---
 

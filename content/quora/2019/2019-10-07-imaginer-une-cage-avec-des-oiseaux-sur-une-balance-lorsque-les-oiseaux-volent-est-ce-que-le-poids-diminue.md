@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- vols
-- cage
-- experiences-de-pensee
-- oiseaux
-- balance-instrument
-- poids
+- experience
 - masse-physique
-- voler
-- poids-physique
+- oiseaux
+- poids
 coverImage: ./images/qimg-1dc8d35b92e7331ee89b07071e655eac.gif
 ---
 

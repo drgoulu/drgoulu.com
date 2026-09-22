@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- atomes
-- chimie-nucleaire
-- modele-standard-de-la-physique-des-particules
-- hydrogene
-- chimie
-- structure-atomique
 - physique-theorique
-- la-physique-atomique
-- chimie-physique
+- chimie
+- atomes
+- hydrogene
 coverImage: ./images/quora.png
 ---
 

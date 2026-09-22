@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - preferences
-- immobilier
 - suisse
 - achat
 - maison
 - locations
-- marche-du-logement
-- immobilier-en-suisse
-- immobilier-residentiel
 coverImage: ./images/quora.png
 ---
 

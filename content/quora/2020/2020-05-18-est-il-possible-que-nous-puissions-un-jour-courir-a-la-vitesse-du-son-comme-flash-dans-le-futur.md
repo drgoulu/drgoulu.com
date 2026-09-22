@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- the-flash-franchise-creative
+- vitesse
 - futur
 - science-fiction-genre
-- super-heros
-- possibilites
-- vitesse-du-son
-- flash-personnage-de-dc
 - capacites
 coverImage: ./images/qimg-1ee8ec51bf0e41dd3e09cc06ad2b158b.jpg
 ---

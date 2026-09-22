@@ -8,13 +8,9 @@ categories:
 tags:
 - changement-climatique
 - economie-mondiale
-- incertitude
-- retraite
-- prevision-economique
-- les-problemes-mondiaux
+- problemes-mondiaux
 - crise-climatique
-- retraite-en-france
-- le-changement-climatique
+- france
 coverImage: ./images/quora.png
 ---
 

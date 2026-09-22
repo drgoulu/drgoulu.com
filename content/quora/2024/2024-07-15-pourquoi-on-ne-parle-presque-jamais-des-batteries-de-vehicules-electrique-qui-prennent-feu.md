@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- science-et-technologie
+- sciences
+- technologies
+- risques
 - medias
-- risque
-- incendie
-- batteries-lithium-ion
-- securite-automobile
 - voitures-electriques
-- medias-communication
-- vehicules-electriques
 coverImage: ./images/quora.png
 ---
 

@@ -8,13 +8,9 @@ categories:
 tags:
 - france
 - politique
-- forces-et-faiblesses
-- l-assemblee-nationale-francaise
 - politique-francaise
-- systeme-parlementaire
-- analyse-politique
+- analyse
 - crise-politique
-- assemblee-nationale
 coverImage: ./images/quora.png
 ---
 

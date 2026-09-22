@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- effets-secondaires-du-vaccin-covid-19
-- vaccins
-- risque-et-risques
 - sciences
+- sante
 - covid-19-2019-2020
-- effets-secondaires
-- immunisations
-- vaccin-covid-19
-- covid-19-coronavirus
+- risque-et-risques
+- vaccins
 coverImage: ./images/quora.png
 ---
 

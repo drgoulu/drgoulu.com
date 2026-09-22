@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- question-philosophique
-- biologie
-- ailes
-- adaptation
-- evolution-humaine
-- question-hypothetique
-- philosophique
-- biologie-humaine
 - evolution
+- biologie
+- evolution-humaine
+- biologie-humaine
 coverImage: ./images/quora.png
 ---
 

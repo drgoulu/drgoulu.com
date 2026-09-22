@@ -8,13 +8,8 @@ categories:
 tags:
 - physique
 - sciences
+- terre
 - geographie
-- courbure-terrestre
-- navires
-- geometrie-spherique
-- forme-de-la-terre
-- terre-spherique
-- surface-de-la-terre
 - geometrie
 coverImage: ./images/quora.png
 ---

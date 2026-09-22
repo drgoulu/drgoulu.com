@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - islam
-- circoncision-masculine
 - pratiques-religieuses
-- religions
-- histoire-de-l-islam
-- culture-islamique
-- l-islam
-- les-comportements-religieux
-- circoncision
+- religion
+- histoire
+- comportements-religieux
 coverImage: ./images/quora.png
 ---
 

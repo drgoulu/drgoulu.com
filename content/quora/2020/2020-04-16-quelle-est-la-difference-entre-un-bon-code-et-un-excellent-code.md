@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- informatique
+- programmation
+- ingenierie
 - developpement-logiciel
-- codes
-- qualite-du-code
-- competences-en-programmation
-- ingenierie-informatique
-- revision-des-codes
-- qualite-du-logiciel
-- ingenierie-logicielle
+- logiciels
 coverImage: ./images/quora.png
 ---
 

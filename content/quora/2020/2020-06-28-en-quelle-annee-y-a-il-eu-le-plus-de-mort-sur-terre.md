@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
+- monde
+- demographie
 - mortalite
 - demographie-mondiale
-- histoire-du-monde
-- evenement-histoire
-- taux-de-mortalite
-- la-demographie
-- la-mortalite
-- demographie
-- population-mondiale
 coverImage: ./images/qimg-f46c6ef7bb4226d8e24ef781e2968113.jpg
 ---
 

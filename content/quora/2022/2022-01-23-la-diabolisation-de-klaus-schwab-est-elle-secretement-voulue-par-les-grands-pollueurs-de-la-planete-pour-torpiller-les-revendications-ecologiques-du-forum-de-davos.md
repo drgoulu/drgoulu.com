@@ -10,10 +10,6 @@ tags:
 - theories-du-complot
 - economie-mondiale
 - pollution
-- public-eye-on-davos
-- grands-groupes-industriels
-- forum-de-davos
-- forum-economique-mondial
 - theories-du-complot-specifiques
 coverImage: ./images/quora.png
 ---

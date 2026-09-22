@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- catastrophes-naturelles
-- evenement
-- meteorites
-- terre-planete
-- sciences-de-la-nature
-- crateres-d-impact
-- dangers-naturels
-- planete-terre
-- catastrophes-environnementales
+- terre
+- planetes
+- nature
 coverImage: ./images/quora.png
 ---
 

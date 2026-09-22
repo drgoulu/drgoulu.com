@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - biologie
-- vocabulaire-de-la-langue-francaise
-- energie-physique
-- le-corps-humain
-- metabolisme
-- physiologie-humaine
+- energie
 - etres-vivants
-- vocabulaire
-- physiologie
-- corps-humain
+- physiologie-humaine
 coverImage: ./images/quora.png
 ---
 

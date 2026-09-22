@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- prison
 - education
-- budget
+- finances-publiques
 - depenses-publiques
 - justice-penale
-- politiques-publiques
-- services-publiques
-- finances-publiques
 coverImage: ./images/quora.png
 ---
 

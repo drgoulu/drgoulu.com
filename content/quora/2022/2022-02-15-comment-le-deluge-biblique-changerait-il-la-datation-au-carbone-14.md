@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- histoire
-- carbone-14
-- le-grand-deluge-bible
-- religion
 - sciences
-- la-bible
+- histoire
+- religion
+- bible
 - archeologie
-- histoire-biblique
-- science-et-religion
-- datation-par-carbone-14
 coverImage: ./images/quora.png
 ---
 

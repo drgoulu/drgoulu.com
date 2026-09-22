@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- planetes
+- environnement
 - changement-climatique
-- l-environnement
 - ecologie
-- durabilite
 - developpement-durable
-- equilibre
-- solutions-au-rechauffement-de-la-planete
-- sante-environnementale
-- adaptation-au-changement-climatique
-- environnement-et-developpement-durable
 coverImage: ./images/quora.png
 ---
 

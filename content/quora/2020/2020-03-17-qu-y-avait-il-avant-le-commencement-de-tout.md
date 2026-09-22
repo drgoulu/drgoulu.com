@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - philosophie
-- l-origine-de-l-univers
-- temps-physique
-- existence
+- univers
 - cosmologie
-- theorie-scientifique
-- philosophie-et-science
-- philosophie-des-sciences
-- creation-de-l-univers
-- origine-de-l-univers
 coverImage: ./images/quora.png
 ---
 

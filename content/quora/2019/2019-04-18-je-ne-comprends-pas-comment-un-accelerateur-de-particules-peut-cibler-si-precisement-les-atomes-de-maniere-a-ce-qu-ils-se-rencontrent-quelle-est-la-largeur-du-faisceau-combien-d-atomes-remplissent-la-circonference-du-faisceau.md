@@ -7,14 +7,11 @@ categories:
 - Comment
 - Combien
 tags:
-- science-et-technologie
+- physique
+- sciences
+- technologies
 - atomes
-- collision-physique
-- les-dimensions
-- accelerateurs-de-particules
-- science-physique
-- longueur-physique
-- particules
+- dimensions
 coverImage: ./images/quora.png
 ---
 

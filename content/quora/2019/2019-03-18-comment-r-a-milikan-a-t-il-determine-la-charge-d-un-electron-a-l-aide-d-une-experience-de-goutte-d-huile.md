@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
+- sciences
+- histoire
 - experience
-- histoire-de-la-science
-- la-charge-electrique
-- electron
 - etude-scientifique
-- electrons
-- experiences-scientifiques
-- science-experimentale
-- histoire-de-la-physique
 coverImage: ./images/quora.png
 ---
 

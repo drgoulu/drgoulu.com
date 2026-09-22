@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - mathematiques
-- nombres-naturels
-- infinite-general
-- theorie-des-nombres-premiers
-- infini-mathematiques
-- sciences-mathematiques
-- theorie-des-nombres
-- mathematiques-et-sciences
-- theoreme-des-nombres-premiers
+- theorie
+- nombres
+- nombres-premiers
 coverImage: ./images/quora.png
 ---
 

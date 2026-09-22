@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- mathematiques
 - sciences
-- vision-du-monde
-- ingenierie
-- philosophie-des-sciences
-- la-methode-scientifique
-- methodologie-en-sciences
-- mathematiciens
-- philosophie-de-la-physique
+- philosophie
+- mathematiques
+- monde
 coverImage: ./images/quora.png
 ---
 

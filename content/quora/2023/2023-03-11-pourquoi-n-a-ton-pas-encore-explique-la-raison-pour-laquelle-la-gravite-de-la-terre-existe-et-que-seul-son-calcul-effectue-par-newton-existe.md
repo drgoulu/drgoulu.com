@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- albert-einstein
-- terre-planete
-- loi-universelle-de-la-gravitation
-- theorie-scientifique
+- terre
+- planetes
 - gravite
-- isaac-newton
-- lois-de-la-physique
-- theories-physiques
+- theorie-scientifique
 coverImage: ./images/quora.png
 ---
 

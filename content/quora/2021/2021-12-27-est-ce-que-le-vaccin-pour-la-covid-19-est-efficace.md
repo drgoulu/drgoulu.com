@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- recherche-scientifique
 - sante-publique
 - covid-19-2019-2020
-- recherche-scientifique
-- vaccins
-- efficacite
 - maladies-infectieuses
-- vaccination
-- vaccin-covid-19
 - recherche-medicale
-- immunisations
 coverImage: ./images/quora.png
 ---
 

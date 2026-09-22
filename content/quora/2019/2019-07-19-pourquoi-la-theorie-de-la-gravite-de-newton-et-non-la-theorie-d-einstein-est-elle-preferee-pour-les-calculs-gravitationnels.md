@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- isaac-newton
-- albert-einstein-physicien
-- loi-universelle-de-la-gravitation
-- gravitation
-- mecanique-newtonienne
-- relativite-generale
+- theorie
 - physique-theorique
-- theories-de-la-gravitation
-- lois-du-mouvement-de-newton
+- gravitation
+- albert-einstein-physicien
 coverImage: ./images/quora.png
 ---
 

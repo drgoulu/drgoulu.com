@@ -6,13 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
+- gravite
 - ingenierie
-- rentabilite
-- heures-de-pointe
-- stockage-d-energie
 - eoliennes
-- alternateurs
-- la-gravite
+- stockage-d-energie
 - energie-potentielle
 coverImage: ./images/quora.png
 ---

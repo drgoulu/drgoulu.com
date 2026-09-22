@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- science-fiction-genre
-- trous-de-ver
-- voyage-dans-l-espace
 - astronomie
-- theorie-scientifique
-- cosmologie
 - astrophysique
+- cosmologie
 - physique-theorique
-- voyage-dans-le-temps
 coverImage: ./images/quora.png
 ---
 

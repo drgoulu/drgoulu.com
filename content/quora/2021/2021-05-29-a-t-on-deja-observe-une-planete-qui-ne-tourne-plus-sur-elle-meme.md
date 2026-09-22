@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - astronomie
+- planetes
+- systeme-solaire
 - rotation
-- systemes-solaires
-- planetes-astronomie
-- observation-des-astres
-- rotation-physique
-- rotation-planetes
-- le-systeme-solaire
 coverImage: ./images/quora.png
 ---
 

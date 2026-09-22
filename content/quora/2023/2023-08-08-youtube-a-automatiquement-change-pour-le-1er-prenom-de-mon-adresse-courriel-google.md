@@ -9,13 +9,8 @@ tags:
 - identite
 - plateformes-de-medias-sociaux
 - google
-- adresses-e-mail
-- confidentialite-internet
-- noms-d-utilisateurs
 - profils-en-ligne
 - youtube
-- gmail
-- identite-numerique
 coverImage: ./images/quora.png
 ---
 

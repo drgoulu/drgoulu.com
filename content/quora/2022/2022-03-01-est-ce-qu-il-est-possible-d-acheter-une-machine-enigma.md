@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- machine-enigma
-- collectionneur
-- marche-de-l-occasion
-- cryptographie
-- la-seconde-guerre-mondiale
-- histoire-de-l-informatique
-- objets-de-collection
-- histoire-des-inventions
-- l-histoire-de-la-technologie
+- informatique
+- technologies
+- invention
+- seconde-guerre-mondiale
 coverImage: ./images/quora.png
 ---
 

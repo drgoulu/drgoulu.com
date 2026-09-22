@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- expansion-de-l-espace-temps
 - astronomie
-- l-univers
-- cosmologie
 - astrophysique
-- univers-en-expansion
-- l-univers-astronomie
-- expansion-de-l-univers
+- univers
 coverImage: ./images/quora.png
 ---
 

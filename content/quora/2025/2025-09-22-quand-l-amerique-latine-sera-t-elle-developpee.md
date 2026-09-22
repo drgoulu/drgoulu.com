@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- economie-mondiale
+- economie
+- entreprises
 - developpement
-- les-pays-en-voie-de-developpement
-- amerique-latine
+- economie-mondiale
 - developpement-economique-et-social
-- pays-sous-developpes
-- developpement-economique
-- economie-generale
-- economie-d-entreprise
-- pays-developpes
 coverImage: ./images/qimg-16297c1c502a7327e206d38f5a4b693f.jpg
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- changement-climatique
-- energie-physique
-- histoire-des-inventions
-- pollution
-- machines-a-vapeur
+- physique
+- sciences
+- histoire
 - energie
-- histoire-de-la-science
-- histoire-des-techniques
+- changement-climatique
 coverImage: ./images/qimg-667f9bfb3344a354be7209f0551fd365.jpg
 ---
 

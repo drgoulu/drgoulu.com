@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- concepts-principaux-lies-au-temps
-- concept-philosophique
-- energie-physique
-- definition-scientifique
-- temps-physique
-- pensee-scientifique
+- energie
+- temps
 - theorie-scientifique
+- pensee-scientifique
 coverImage: ./images/quora.png
 ---
 

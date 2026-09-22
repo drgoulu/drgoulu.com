@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - france
-- pertes-financieres
-- economie-francaise
-- budget-de-l-etat
+- economie
+- etat
 - depenses-publiques
-- fiscalite-en-france
-- consequences-economiques
-- economies
-- politique-economique
-- crises-economiques
+- fiscalite
 coverImage: ./images/qimg-e18d032c74684554b3807c65703da3c2.jpg
 ---
 

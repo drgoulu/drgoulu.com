@@ -9,13 +9,8 @@ tags:
 - astronomie
 - voie-lactee
 - etoiles-corps-celestes
-- constellations
 - galaxies
 - etoiles
-- galaxie-de-la-voie-lactee
-- constellations-d-etoiles
-- la-voie-lactee-astronomie
-- constellation
 coverImage: ./images/qimg-44467603c40618a55da62bb6f18c4963.jpg
 ---
 

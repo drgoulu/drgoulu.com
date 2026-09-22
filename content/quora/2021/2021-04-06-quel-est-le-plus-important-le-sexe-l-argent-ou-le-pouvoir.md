@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- argent
-- contenu-adulte
+- vie
+- societe
+- debat
 - reflexion
-- debats-de-societe
-- pouvoir
-- sexe
-- valeurs-humaines
-- pensees-personnelles
-- priorites-de-la-vie
 coverImage: ./images/quora.png
 ---
 

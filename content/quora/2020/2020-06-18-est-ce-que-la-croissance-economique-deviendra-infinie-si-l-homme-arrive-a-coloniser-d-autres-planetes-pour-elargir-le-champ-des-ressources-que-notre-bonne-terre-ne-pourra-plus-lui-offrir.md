@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- terre
+- planetes
+- espace
 - exploration-spatiale
-- ressources-naturelles
-- terre-planete
-- croissance-economique
-- avenir-de-l-humanite
-- sciences-economiques
-- colonisation-de-l-espace
-- l-avenir-du-monde
-- conquete-spatiale
+- monde
 coverImage: ./images/quora.png
 ---
 

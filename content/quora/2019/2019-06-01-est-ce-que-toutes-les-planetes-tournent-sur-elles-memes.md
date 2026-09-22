@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - astronomie
-- rotation
+- planetes
 - systeme-solaire
 - science-spatiale
-- planetes-astronomie
-- planetes-du-systeme-solaire
-- rotation-physique
-- rotation-planetes
-- le-systeme-solaire
 coverImage: ./images/quora.png
 ---
 

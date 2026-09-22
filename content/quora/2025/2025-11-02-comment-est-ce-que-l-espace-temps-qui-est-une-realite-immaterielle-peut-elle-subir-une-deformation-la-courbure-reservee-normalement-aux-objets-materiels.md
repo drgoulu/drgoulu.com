@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- courbure-de-l-espace
+- sciences
 - cosmologie
-- espace-temps
-- relativite-generale
-- concepts-en-physique
 - physique-theorique
-- espace-et-temps
-- science-physique
-- relativite-physique
+- relativite
 coverImage: ./images/quora.png
 ---
 

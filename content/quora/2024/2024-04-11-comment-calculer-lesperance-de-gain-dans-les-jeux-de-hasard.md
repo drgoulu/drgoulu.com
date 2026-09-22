@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - mathematiques
-- gains
-- esperance
 - statistiques
-- jeux-de-hasard
+- jeux
 - probabilite-statistiques
-- jeux-et-probabilites
-- calcul-mathematique
-- mathematiques-et-statistiques
-- probabilites
+- probabilite
 coverImage: ./images/quora.png
 ---
 

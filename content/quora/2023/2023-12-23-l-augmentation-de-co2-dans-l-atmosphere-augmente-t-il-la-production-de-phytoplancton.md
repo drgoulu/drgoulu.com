@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - changement-climatique
-- plancton
-- co2
-- oceanographie
-- sciences-de-l-atmosphere
-- co2-atmospherique
 - rechauffement-climatique
-- adaptation-au-changement-climatique
-- plancton-organismes
-- oceanographie-biologique
+- atmosphere
+- adaptation
 coverImage: ./images/quora.png
 ---
 

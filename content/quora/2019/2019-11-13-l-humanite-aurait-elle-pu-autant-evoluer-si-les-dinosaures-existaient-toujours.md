@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-hypothetique
-- dinosaures
-- sciences-de-la-vie
+- sciences
+- histoire
 - evolution
-- histoire-de-l-humanite
-- paleontologie
-- extinction-des-especes
-- hypotheses
-- extinction
-- evolution-humaine
+- vie
+- humanite
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
+- monde
 - relations-internationales
-- pouvoir
-- influence
-- conseil-de-securite-des-nations-unies
-- influence-des-usa-dans-le-monde
-- histoire-des-nations-unies
+- securite
 - politique-internationale
-- nations-unies
-- organisation-internationale
 coverImage: ./images/quora.png
 ---
 

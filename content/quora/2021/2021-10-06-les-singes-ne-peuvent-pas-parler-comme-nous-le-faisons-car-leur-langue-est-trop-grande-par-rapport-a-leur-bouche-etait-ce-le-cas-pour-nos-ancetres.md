@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- linguistique
-- singes
-- anatomie-humaine
-- langage
-- ancetres
-- communication-animale
 - evolution-humaine
-- anatomie
+- langage
 - origines-humaines
 - anatomie-animale
+- anatomie-humaine
 coverImage: ./images/quora.png
 ---
 

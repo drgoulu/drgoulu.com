@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- cadres-de-reference
-- vitesse-de-la-lumiere
-- photons
-- theorie-de-la-relativite
-- mouvement-physique
-- relativite-restreinte
-- systeme-de-reference
-- relativite-physique
+- theorie
 - relativite
+- lumiere
+- vitesse
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-fiction-genre
-- anthropologie
-- changements-physiques
-- evolution-biologie
-- futuristes
-- speculation
+- evolution
+- biologie
 - evolution-humaine
-- anthropologie-culturelle
-- futurologie
-- anthropologie-sociale
+- anthropologie
+- science-fiction-genre
 coverImage: ./images/quora.png
 ---
 

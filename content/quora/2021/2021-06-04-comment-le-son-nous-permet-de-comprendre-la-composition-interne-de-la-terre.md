@@ -7,13 +7,10 @@ categories:
 - Comment
 tags:
 - geologie
-- ondes-sonores
 - composition-chimique
-- les-sismologues
 - sismologie
 - geophysique
 - geoscience
-- geologue
 coverImage: ./images/quora.png
 ---
 

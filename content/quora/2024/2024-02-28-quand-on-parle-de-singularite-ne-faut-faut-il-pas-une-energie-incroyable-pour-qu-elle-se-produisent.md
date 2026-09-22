@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- la-singularite-technologique
-- energie-physique
-- singularite
-- changement-technologique
+- energie
 - physique-theorique
-- science-physique
-- theorie-de-la-singularite
+- theorie
 coverImage: ./images/quora.png
 ---
 

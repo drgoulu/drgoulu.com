@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- isaac-newton
-- comparaisons-entre-les-personnes
-- richard-feynman-physicien
-- albert-einstein-physicien
-- physiciens
-- histoire-de-la-physique
+- histoire
+- philosophie
 - physique-theorique
-- philosophie-de-la-physique
+- albert-einstein-physicien
 coverImage: ./images/quora.png
 ---
 

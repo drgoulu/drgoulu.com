@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- telescope-spatial-james-webb
 - astronomie
-- trous-noirs
-- physique-theorique
-- rayonnement-de-hawking
-- les-telescopes
-- cosmologie
 - astrophysique
-- astronomie-d-observation
+- cosmologie
+- physique-theorique
 coverImage: ./images/quora.png
 ---
 

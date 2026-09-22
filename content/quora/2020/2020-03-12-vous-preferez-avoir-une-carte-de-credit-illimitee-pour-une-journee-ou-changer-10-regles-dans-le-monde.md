@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - question-hypothetique
-- dilemme
-- pouvoirs-magiques
 - scenarios-hypothetiques
-- experiences-de-reflexion
-- dilemmes-personnels
-- choix-personnels-dans-des-scenarios-hypothetiques
+- experience
+- reflexion
 - situations-hypothetiques
-- pouvoir-magique
 coverImage: ./images/quora.png
 ---
 

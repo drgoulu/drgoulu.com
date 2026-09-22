@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-environnement
-- activites
-- ski
-- emissions-de-carbone
-- remontees-mecaniques
-- sports-d-hiver
+- environnement
 - impact-environnemental
-- activites-en-plein-air
-- la-respiration
-- le-ski
+- emission
+- carbone
+- sport
 coverImage: ./images/quora.png
 ---
 

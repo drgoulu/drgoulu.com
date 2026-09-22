@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- phenomenes-inexpliques
 - recherche-scientifique
 - mysteres
-- objets-trouves
-- anomalies-scientifiques
 - decouvertes
 - curiosite-scientifique
-- objets-inconnus
-- science-mysterieuse
 coverImage: ./images/qimg-69ec145a2c2421d30922eaa24bdbc33f.jpg
 ---
 

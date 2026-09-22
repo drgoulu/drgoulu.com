@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - jeux-video
-- echolocation
-- aveugles
 - handicap-et-infirmite
-- accessibilite-numerique
 - conception-du-jeu
-- personnages-de-jeux-video
 - handicaps-physiques
-- aveuglement
 - accessibilite
 coverImage: ./images/quora.png
 ---

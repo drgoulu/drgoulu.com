@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- theorie-des-supercordes
-- l-univers
-- modele-standard-de-la-physique-des-particules
-- theories-de-tout-physique
+- univers
+- theorie
 - physique-theorique
-- theoriciens-des-cordes
-- theorie-des-cordes
+- modele-standard-de-la-physique-des-particules
 coverImage: ./images/quora.png
 ---
 

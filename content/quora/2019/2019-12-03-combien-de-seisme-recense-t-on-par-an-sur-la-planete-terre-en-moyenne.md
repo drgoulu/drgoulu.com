@@ -6,14 +6,10 @@ draft: false
 categories:
 - Combien
 tags:
+- terre
+- planetes
 - france
-- magnitude-sismologie
-- donnees-sur-les-catastrophes-naturelles
-- terre-planete
 - statistiques
-- les-sismologues
-- seismes
-- sismologie
 - catastrophes-naturelles
 coverImage: ./images/quora.png
 ---

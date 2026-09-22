@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - epistemologie
 - preuves-scientifiques
-- revision
-- methode-experimentale
-- la-methode-scientifique
-- scepticisme-scientifique
-- erreur-scientifique
-- faits-scientifiques
-- methodologie-en-sciences
+- methode-scientifique
+- methodologie
 coverImage: ./images/quora.png
 ---
 

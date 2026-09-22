@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- recherche-scientifique
-- anomalie
 - cosmologie
-- fond-diffus-cosmologique
-- asymetrie
-- rayonnement-fossile
-- lois-de-la-physique
+- recherche-scientifique
 - decouvertes-scientifiques
-- symetrie
+- loi
 coverImage: ./images/quora.png
 ---
 

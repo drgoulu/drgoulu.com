@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - biologie
+- vie
 - recherche-scientifique
-- sciences-de-la-vie
-- code-genetique
-- theorie-cellulaire
-- biologie-humaine
-- cellules-biologie
-- sciences-de-la-nature
-- cellules-humaines
-- biologie-cellulaire
+- nature
 coverImage: ./images/quora.png
 ---
 

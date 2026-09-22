@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- series-et-sequences
+- nombres
 - probleme
-- questions-logiques
 - suites-arithmetiques
-- nombres-mathematiques
-- sequences-mathematiques
-- problemes-mathematiques
 - sequences-de-nombres
-- puzzles-logiques
 coverImage: ./images/quora.png
 ---
 

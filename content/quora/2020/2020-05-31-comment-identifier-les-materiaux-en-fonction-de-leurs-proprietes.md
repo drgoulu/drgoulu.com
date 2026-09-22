@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- ingenierie
+- sciences
+- chimie
 - materiaux
+- ingenierie
 - proprietes
-- chimie-des-materiaux
-- science-des-materiaux-et-ingenierie
-- proprietes-physiques
-- la-science-des-materiaux
-- proprietes-chimiques
 coverImage: ./images/qimg-a9dd0904ae1cae8c23ddbc5f60dc2829.jpg
 ---
 

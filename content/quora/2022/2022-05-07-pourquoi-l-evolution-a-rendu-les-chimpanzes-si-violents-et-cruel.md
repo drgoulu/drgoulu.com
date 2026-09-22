@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- comportement-animal
-- violence
-- evolution-processus
-- chimpanzes
-- cruaute
-- ethologie
-- primates
 - evolution
+- processus
+- comportement-animal
 - evolution-animale
-- comportements-animaliers
+- primates
 coverImage: ./images/quora.png
 ---
 

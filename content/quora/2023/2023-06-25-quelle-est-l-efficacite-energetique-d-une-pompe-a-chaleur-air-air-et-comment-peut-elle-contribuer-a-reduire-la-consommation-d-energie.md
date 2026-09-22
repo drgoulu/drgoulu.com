@@ -6,13 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- consommation-d-energie
+- consommation
+- energie
 - chauffage
-- climatisation
 - transition-energetique
-- reduction-des-depenses
-- efficacite-energetique
-- reduire-sa-facture-d-electricite
+- depenses
 coverImage: ./images/quora.png
 ---
 

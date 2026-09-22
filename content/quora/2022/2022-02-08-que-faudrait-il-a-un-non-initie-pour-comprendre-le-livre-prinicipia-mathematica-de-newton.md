@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- mathematiques
-- isaac-newton
 - sciences
-- comprehension
-- livre
-- principia-mathematica
+- mathematiques
 - physique-mathematique
-- mathematiques-et-physique
+- livres
 coverImage: ./images/quora.png
 ---
 

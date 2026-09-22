@@ -8,14 +8,9 @@ categories:
 tags:
 - quora
 - plateformes-en-ligne
-- service-d-assistance
-- les-questions-et-les-reponses
-- devoirs-scolaires
+- service
+- questions
 - reponses
-- assistance
-- aide-sociale
-- soutien-scolaire
-- repondre-a-des-questions
 coverImage: ./images/quora.png
 ---
 

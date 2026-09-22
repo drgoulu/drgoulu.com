@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- la-vie-quotidienne
-- technologie-et-innovation
-- mathematiques-informatique-applique
-- champs-d-applications-des-mathematiques
-- sciences-et-technologies
-- mathematiques-et-applications
-- mathematiques-fondamentales
-- mathematiques-appliquees
-- mathematiques-et-sciences
+- vie-quotidienne
+- technologies
+- innovation
+- sciences
 coverImage: ./images/quora.png
 ---
 

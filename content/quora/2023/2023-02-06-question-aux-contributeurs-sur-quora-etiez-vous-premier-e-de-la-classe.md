@@ -11,11 +11,6 @@ tags:
 - plateformes-en-ligne
 - sondages
 - quora
-- contributeurs-quora
-- classe
-- premiere-classe
-- classe-superieure
-- sondage-statistique
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
 - astronomie
-- theories-de-la-gravitation
-- cosmologie
-- astrophysiciens
-- physique-theorique
 - astrophysique
-- astronomie-et-astrophysique
-- astrophysique-relativiste
+- cosmologie
+- theorie
 coverImage: ./images/quora.png
 ---
 

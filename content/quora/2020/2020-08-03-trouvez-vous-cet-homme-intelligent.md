@@ -8,13 +8,9 @@ categories:
 tags:
 - opinion-personnelle
 - opinion
-- hommes
-- l-intelligence
-- opinions
-- l-homme
-- intelligent
-- opinions-personnelles
 - homme
+- intelligence
+- intelligent
 coverImage: ./images/quora.png
 ---
 

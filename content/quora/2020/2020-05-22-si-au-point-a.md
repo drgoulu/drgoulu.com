@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- trous-noirs
-- espace
 - astronomie
-- lumiere-physique
-- gravitation
-- temps-physique
-- relativite-physique
 - astrophysique
-- espace-temps
+- relativite
+- espace
 coverImage: ./images/qimg-c1f5c162973cf4e0062cf886efe30522.jpg
 ---
 

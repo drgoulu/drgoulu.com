@@ -6,14 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- psychologie
-- sante
-- placebos
 - recherche-scientifique
-- effets-placebo-sante
-- effets-psychologiques
+- sante
+- psychologie
 - medecine
-- etudes-de-recherche-medicale
 - recherche-medicale
 coverImage: ./images/quora.png
 ---

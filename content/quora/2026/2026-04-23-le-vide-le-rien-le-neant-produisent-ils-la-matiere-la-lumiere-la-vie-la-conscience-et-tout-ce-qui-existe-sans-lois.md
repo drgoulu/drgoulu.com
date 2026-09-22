@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - philosophie
-- neant
-- question-existentielle
-- le-vide
-- conscience
-- lumiere-physique
-- absence
-- la-vie
-- existence
-- matiere-physique
+- vie
+- lumiere
+- matiere
 coverImage: ./images/quora.png
 ---
 

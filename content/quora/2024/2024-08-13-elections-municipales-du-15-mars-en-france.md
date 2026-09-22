@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- empreintes-digitales
-- elections-municipales
-- xxieme-siecle
-- reconnaissance-faciale-techniques-logicielles
+- systeme
 - innovation-technologique
+- vote
 - democratie-participative
-- vote-electronique
-- systemes-de-vote
-- innovation-digitale
 coverImage: ./images/quora.png
 ---
 

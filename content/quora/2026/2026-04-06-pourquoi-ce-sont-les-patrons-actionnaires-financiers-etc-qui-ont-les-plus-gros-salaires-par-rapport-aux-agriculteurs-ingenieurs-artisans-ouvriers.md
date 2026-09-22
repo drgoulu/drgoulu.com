@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- economie
+- entreprises
+- inegalite
 - finance
-- patrons-difficiles
-- salaires-et-remunerations
-- artisans
-- economie-d-entreprise
-- agriculteurs
-- inegalites-de-revenu
-- ouvriers
-- actionnaires
+- revenu
 coverImage: ./images/quora.png
 ---
 

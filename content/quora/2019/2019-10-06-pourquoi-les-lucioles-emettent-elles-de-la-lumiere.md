@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - biologie
-- lucioles
-- sciences-de-la-nature
-- bioluminescence
-- zoologie
+- nature
+- animaux
 - biologie-animale
-- entomologie
-- sciences-du-vivant
-- sciences-des-animaux
 coverImage: ./images/quora.png
 ---
 

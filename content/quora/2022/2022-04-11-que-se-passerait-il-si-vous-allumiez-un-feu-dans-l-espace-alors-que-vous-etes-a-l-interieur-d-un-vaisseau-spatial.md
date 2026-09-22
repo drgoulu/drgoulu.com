@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- question-hypothetique
 - sciences
 - espace
 - technologie-spatiale
-- feu
-- vol-spatial
-- situations-hypothetiques
-- vaisseau-spatial
-- voyage-spatial
+- question-hypothetique
 coverImage: ./images/quora.png
 ---
 

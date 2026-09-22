@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
 - astronomie
-- force-centrifuge
-- galaxies-spirales
-- gravitation
-- rotation-physique
 - astrophysique
+- trous-noirs
 - galaxies
-- force-centripete
 coverImage: ./images/qimg-56ebc3196a70fbfccd572ec73bd6e322.jpg
 ---
 

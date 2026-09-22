@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- evolution-processus
-- incarnation
-- theorie-de-l-evolution
-- evolution-humaine
-- reincarnation
-- evolution-biologique-des-especes
-- philosophie-des-sciences
 - evolution
-- biologie-de-l-evolution
+- biologie
+- theorie
 coverImage: ./images/quora.png
 ---
 

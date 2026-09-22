@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- terre-plate
-- l-univers
-- planetes-du-systeme-solaire
+- univers
 - cosmologie
-- science-spatiale
-- forme-des-planetes
-- planete-terre
-- forme-de-la-terre
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

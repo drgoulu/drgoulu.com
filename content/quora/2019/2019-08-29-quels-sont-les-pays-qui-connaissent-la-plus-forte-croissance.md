@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- economie
 - pays
 - economie-mondiale
-- classements
-- croissance-economique
-- economies
-- indicateurs-economiques
 - developpement-economique
-- analyse-economique
-- statistiques-economiques
-- economie-internationale
+- croissance-economique
 coverImage: ./images/quora.png
 ---
 

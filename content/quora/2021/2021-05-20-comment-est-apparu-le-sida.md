@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- histoire
+- recherche
+- medecine
 - sante-publique
 - virus
-- recherche-sur-le-sida
-- epidemiologie
-- maladies
-- histoire-de-la-medecine
-- maladies-infectieuses
-- vih
-- sida
-- infections-virales
 coverImage: ./images/qimg-a1ea6f61a221f543cb6d7215db9d7143.jpg
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante
-- aluminium
-- maladies-neurodegeneratives
 - recherche-scientifique
-- recherche-sur-la-maladie-d-alzheimer
-- information-medicale
+- sante
 - medecine
-- maladie-d-alzheimer
 - recherche-medicale
+- information-medicale
 coverImage: ./images/quora.png
 ---
 

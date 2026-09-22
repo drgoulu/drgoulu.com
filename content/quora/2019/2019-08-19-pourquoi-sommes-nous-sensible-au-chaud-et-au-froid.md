@@ -10,12 +10,7 @@ tags:
 - froid
 - sensation
 - chaleur
-- thermoregulation
 - physiologie-humaine
-- sens-humain
-- temperature-corporelle
-- le-corps-humains
-- biologie-physiologie-humaine
 coverImage: ./images/quora.png
 ---
 

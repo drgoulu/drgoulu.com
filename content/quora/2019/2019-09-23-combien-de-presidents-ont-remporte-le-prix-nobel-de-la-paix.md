@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - histoire
-- laureats-du-prix-nobel-de-la-paix
+- politique
 - personnalites
-- presidents
-- recompenses
-- histoire-de-la-politique
+- president
 - personnages-historiques
-- personnalites-politiques
-- distinctions
-- prix-nobel-de-la-paix
 coverImage: ./images/quora.png
 ---
 

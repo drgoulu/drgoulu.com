@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- marches-financiers
-- investissement
-- or
-- scenarios-hypothetiques
-- consequences-economiques
 - suisse
-- systeme-financier
-- marche-mondial
+- scenarios-hypothetiques
+- or
+- investissement
 coverImage: ./images/quora.png
 ---
 

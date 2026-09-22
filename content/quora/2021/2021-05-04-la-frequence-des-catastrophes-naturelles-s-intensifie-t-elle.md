@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - changement-climatique
-- risque-et-risques
-- phenomenes-naturels
+- rechauffement-climatique
 - catastrophes-naturelles
-- dangers-naturels
 - crise-climatique
-- le-rechauffement-climatique
-- catastrophe-climatique
-- le-changement-climatique
-- risques-naturels
+- phenomenes-naturels
 coverImage: ./images/qimg-d1681b0afdd2dd7927ceb96cfa79ef83.jpg
 ---
 

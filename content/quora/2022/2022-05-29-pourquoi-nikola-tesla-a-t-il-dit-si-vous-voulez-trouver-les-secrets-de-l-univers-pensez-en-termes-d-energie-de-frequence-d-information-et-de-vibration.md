@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- personne
-- nikola-tesla
-- citation-societe
-- information
-- l-univers
-- frequence
+- univers
 - energie
-- les-citations
-- vibrations-physique
+- information
+- personne
 coverImage: ./images/quora.png
 ---
 

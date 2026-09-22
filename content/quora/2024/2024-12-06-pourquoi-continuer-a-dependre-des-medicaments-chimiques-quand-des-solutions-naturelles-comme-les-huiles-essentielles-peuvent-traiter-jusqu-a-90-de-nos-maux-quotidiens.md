@@ -7,14 +7,9 @@ categories:
 - Pourquoi
 tags:
 - sante
-- huiles-essentielles
-- bien-etre
-- medecine-de-complement-et-alternative
-- remedes-naturels
 - medecine
-- medicaments
+- medecine-de-complement-et-alternative
 - traitements-medicaux
-- remedes
 - medecine-naturelle
 coverImage: ./images/quora.png
 ---

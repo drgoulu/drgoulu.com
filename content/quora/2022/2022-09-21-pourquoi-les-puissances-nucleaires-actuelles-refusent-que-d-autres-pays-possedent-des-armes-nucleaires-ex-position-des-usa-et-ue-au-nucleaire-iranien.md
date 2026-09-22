@@ -7,14 +7,9 @@ categories:
 - Pourquoi
 tags:
 - relations-internationales
-- les-etats-unis-d-amerique
-- iran
-- union-europeenne
-- le-programme-nucleaire-iranien
-- proliferation-nucleaire
-- puissance-mondiale
-- armes-nucleaires
+- etats-unis
 - politique-internationale
+- ameriques
 - politique-etrangere
 coverImage: ./images/quora.png
 ---

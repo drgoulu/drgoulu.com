@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - histoire
-- scientifiques-celebres
+- invention
 - personnalites
-- l-invention
-- histoire-des-inventions
-- invention-et-inventions
 - scientifiques
-- histoire-de-la-science
-- histoire-des-sciences
-- post
 coverImage: ./images/quora.png
 ---
 

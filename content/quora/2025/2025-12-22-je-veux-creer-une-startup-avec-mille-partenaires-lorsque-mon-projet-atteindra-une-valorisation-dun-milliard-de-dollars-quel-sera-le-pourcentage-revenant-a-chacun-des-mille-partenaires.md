@@ -8,14 +8,9 @@ categories:
 tags:
 - entrepreneuriat
 - milliard
-- valorisation
-- partenaires
-- financement-d-entreprise
-- idees-de-startup
+- financement
+- entreprises
 - start-up
-- partenariat
-- entreprise-et-startup
-- gestion-de-startups
 coverImage: ./images/quora.png
 ---
 

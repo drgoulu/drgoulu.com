@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- expansion-de-l-univers
 - astronomie
-- date
-- temps-physique
+- univers
 - cosmologie
-- age-de-l-univers
-- origine-de-l-univers
 coverImage: ./images/quora.png
 ---
 

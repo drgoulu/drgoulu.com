@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- comportement-humain
-- ethique
-- indifference
-- crise-environnementale
-- tendance-suicidaire
-- biodiversite
-- l-environnement
+- environnement
+- psychologie
+- especes
 - ecologie
-- extinction-des-especes
-- psychologie-et-comportement-humain
+- extinction
 coverImage: ./images/quora.png
 ---
 

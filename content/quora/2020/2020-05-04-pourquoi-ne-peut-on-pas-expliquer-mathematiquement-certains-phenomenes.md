@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - philosophie
-- limites-de-l-analyse-de-soi
-- explications
 - mathematiques
-- phenomenes
-- raison-scientifique
-- philosophie-des-mathematiques
-- philosophie-des-sciences
-- explications-scientifiques
 - phenomenes-physiques
+- phenomene
 coverImage: ./images/quora.png
 ---
 

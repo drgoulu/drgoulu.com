@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - materiaux
-- acier-de-damas
 - avantages
-- lames
 - proprietes
-- la-science-des-materiaux
+- sciences
 - acier
-- fabrication-artisanale
-- avantage-comparatif
-- fabrication-en-metal
 coverImage: ./images/quora.png
 ---
 

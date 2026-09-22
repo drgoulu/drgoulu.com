@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- philosophie
 - psychologie
 - conscience
-- identite
-- cerveau-humain
-- philosophie
 - sciences-cognitives
-- fonctionnement-du-cerveau
 - neurologie
-- conscience-de-soi
-- neuropsychologie
 coverImage: ./images/quora.png
 ---
 

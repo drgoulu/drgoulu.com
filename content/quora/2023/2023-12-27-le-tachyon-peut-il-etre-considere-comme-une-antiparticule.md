@@ -7,12 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- tachyons
-- anti-particules
-- physique-des-particules-experimentale
-- physique-quantique
 - physique-theorique
+- physique-quantique
 - particules
+- anti-particules
 coverImage: ./images/quora.png
 ---
 

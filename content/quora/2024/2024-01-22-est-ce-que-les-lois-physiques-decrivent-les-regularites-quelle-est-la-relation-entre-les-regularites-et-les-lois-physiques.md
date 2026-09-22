@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- philosophie-des-sciences
-- la-methode-scientifique
-- concepts-en-physique
-- lois-de-la-physique
+- philosophie
+- loi
 - theories-physiques
-- philosophie-de-la-physique
-- la-philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
 - astronomie
-- l-antimatiere
-- relativite-physique
-- anti-particules
 - astrophysique
-- collision-physique
-- theorie-de-la-relativite
-- astrophysique-relativiste
+- theorie
+- relativite
 coverImage: ./images/quora.png
 ---
 

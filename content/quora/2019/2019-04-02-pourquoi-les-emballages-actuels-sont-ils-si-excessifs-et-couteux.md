@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- l-environnement
+- environnement
 - consommation
 - prix
 - durabilite
-- emballage
-- industrie
-- couteux
 - cout
-- consommateur
-- packaging
 coverImage: ./images/quora.png
 ---
 

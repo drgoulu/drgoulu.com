@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- nouvelles-technologies
 - sciences
-- induction-electromagnetisme
-- ondes-electromagnetiques
-- energie-physique
+- energie
+- nouvelles-technologies
 - electromagnetisme
-- champs-electromagnetiques
 coverImage: ./images/quora.png
 ---
 

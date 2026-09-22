@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - ingredients
-- bonbons
 - porc
 - fausses-croyances
-- haribo
-- confiseries
 - composition-ingredients
-- oursons-bonbon
-- fabrication-de-bonbons
-- fausses-idees
+- fabrication
 coverImage: ./images/quora.png
 ---
 

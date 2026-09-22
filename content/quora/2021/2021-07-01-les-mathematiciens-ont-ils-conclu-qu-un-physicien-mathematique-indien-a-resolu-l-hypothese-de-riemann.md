@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- indien
-- hypothese-de-riemann
-- scientifiques
-- theorie-des-nombres-premiers
-- fonction-zeta-de-riemann
+- theorie
+- nombres
 - physique-mathematique
-- mathematiciens
-- theorie-analytique-des-nombres
-- theorie-des-nombres
+- scientifiques
 coverImage: ./images/quora.png
 ---
 

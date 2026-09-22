@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- electromagnetisme
-- photons
-- energie-physique
-- ondes-electromagnetiques
-- radiation
-- spectre-electromagnetique
-- physique-quantique
+- energie
 - physique-mathematique
+- electromagnetisme
+- physique-quantique
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - informatique
-- registres
-- vitesse-d-execution
-- variables-dependantes
-- gestion-de-la-performance
-- optimisation-de-conversion
-- l-architecture-des-ordinateurs
-- architecture-du-processeur
-- test-de-performance
-- architecture-informatique
+- vitesse
+- architecture
+- ordinateurs
+- processeurs
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - humanite
-- anthropologie
 - evolution-humaine
-- homosapiens
+- anthropologie
 - paleontologie
-- histoire-de-l-humanite
-- homo-sapiens
-- genre-humain
-- paleoanthropologie
-- histoire-des-humains
 coverImage: ./images/quora.png
 ---
 

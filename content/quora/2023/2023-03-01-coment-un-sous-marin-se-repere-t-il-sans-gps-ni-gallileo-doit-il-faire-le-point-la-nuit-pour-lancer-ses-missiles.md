@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - guerre
-- navigation-maritime
-- galileo
-- missiles
-- technologie-militaire
-- sous-marins
-- gps
-- defense-militaire
 - navigation
-- science-militaire
+- navigation-maritime
+- defense-militaire
+- technologie-militaire
 coverImage: ./images/quora.png
 ---
 

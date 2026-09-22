@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- personne
-- quora
+- terre
+- planetes
 - science-fiction-genre
-- terre-planete
-- ecrivains
-- champs-magnetiques
-- imagerie-par-satellite
-- journalistes
-- donnees-scientifiques
+- quora
 coverImage: ./images/quora.png
 ---
 

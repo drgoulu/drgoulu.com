@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- futur
-- nouvelles-technologies
-- eau
 - sciences
-- creation
-- science-et-technologie
-- production-d-eau
+- technologies
 - chimie
+- eau
 coverImage: ./images/qimg-8d944f985fd11b8316291a72e0b83dbb.jpg
 ---
 

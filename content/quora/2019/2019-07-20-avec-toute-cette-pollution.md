@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - changement-climatique
-- l-environnement
-- siberie
+- environnement
 - pollution
 - catastrophes-naturelles
-- calotte-glaciaire
 - rechauffement-climatique
-- science-environnementale
 coverImage: ./images/qimg-23999968fcf6b57fab3754376a1e3fd3.jpg
 ---
 

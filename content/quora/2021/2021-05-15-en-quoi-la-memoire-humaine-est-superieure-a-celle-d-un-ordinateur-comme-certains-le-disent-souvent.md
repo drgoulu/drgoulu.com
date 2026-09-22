@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- informatique
+- comparaisons
 - intelligence-artificielle
-- comparaison
 - psychologie-cognitive
-- memoire-humaine
-- cognition
-- sciences-cognitives
-- memoire-informatique
-- fonctions-cognitives
-- science-du-cerveau
 coverImage: ./images/quora.png
 ---
 

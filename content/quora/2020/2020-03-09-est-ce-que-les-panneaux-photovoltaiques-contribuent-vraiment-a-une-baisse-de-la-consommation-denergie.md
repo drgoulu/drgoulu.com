@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-environnement
+- energie
+- environnement
 - energie-renouvelable
 - developpement-durable
-- consommation-energetique
-- panneaux-photovoltaiques
-- energie-solaire
-- production-d-energie
 - energie-alternative
-- technologie-durable
-- consommation-denergie
 coverImage: ./images/qimg-38e5f7c1e32bc6b2fbcd419f8d2bc76e.jpg
 ---
 

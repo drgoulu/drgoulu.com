@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- programmation
+- langage
+- comparaisons
 - intelligence-artificielle
-- langages-de-programmation
-- comparaison-de-langue
-- choix-de-programme
-- prolog-langage-de-programmation
-- python-langage-de-programmation
-- comparaisons-de-langage-de-programmation
-- logique-de-programmation
-- programmation-de-logiciels
-- l-intelligence-artificielle
+- logique
 coverImage: ./images/quora.png
 ---
 

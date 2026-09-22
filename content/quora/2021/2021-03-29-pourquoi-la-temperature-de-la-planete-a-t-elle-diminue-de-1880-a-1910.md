@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
+- histoire
+- terre
 - changement-climatique
-- histoire-des-sciences
-- epoque
-- planete-terre
-- temperatures
 - climatologie
-- periode-historique
-- histoire-de-la-terre
-- refroidissement-climatique
 coverImage: ./images/qimg-8d21afb5de63279a9de904b01d15417f.jpg
 ---
 

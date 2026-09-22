@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- developpement-durable
-- science-et-technologie
-- l-environnement
-- energie-renouvelable
-- sources-d-energie
+- sciences
 - environnement
-- technologie-durable
-- sciences-technologies
+- technologies
+- energie-renouvelable
 coverImage: ./images/quora.png
 ---
 

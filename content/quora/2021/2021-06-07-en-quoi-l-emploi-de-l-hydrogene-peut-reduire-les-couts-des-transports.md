@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- nouvelles-technologies
-- cout
 - energie
-- transports
-- developpement-durable
 - energie-renouvelable
-- hydrogene
-- energie-alternative
-- technologie-durable
+- developpement-durable
+- nouvelles-technologies
+- transports
 coverImage: ./images/qimg-e1870b0f02bac876ad33c36b776b6e13.png
 ---
 

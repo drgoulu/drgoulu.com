@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- psychologie
-- superstitions
-- la-loi-de-murphy
-- etudes-de-recherche
-- probabilite-statistiques
 - philosophie
-- enquetes-scientifiques
+- recherche-scientifique
+- psychologie
+- recherche
 - etude-scientifique
-- probabilites
-- recherches-scientifiques
 coverImage: ./images/quora.png
 ---
 

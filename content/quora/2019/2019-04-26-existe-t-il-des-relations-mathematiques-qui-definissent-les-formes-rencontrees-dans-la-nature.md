@@ -8,14 +8,9 @@ categories:
 tags:
 - mathematiques
 - nature
-- forme-geometrie
-- figures-geometriques
 - geometrie
-- relations-mathematiques
-- formules-mathematiques
-- equations-mathematiques
-- concepts-mathematiques
-- objets-geometriques
+- concepts
+- equations
 coverImage: ./images/qimg-b75f2ffd3a191e36cd53a549270c2149.jpg
 ---
 

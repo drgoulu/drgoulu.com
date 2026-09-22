@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - biologie
-- race-et-ethnies
 - espece-humaine
-- definition-scientifique
-- race
 - taxonomie
-- classification-biologique
 - races-humaines
-- races
+- classification-biologique
 coverImage: ./images/quora.png
 ---
 

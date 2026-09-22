@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique-francaise
-- '2025'
-- appel-a-l-action
-- francois-bayrou
-- contestation
-- manifestations-politiques
 - vie-politique-francaise
 - partis-politiques-francais
-- francois-bayrou-politicien-francais
-- politique-en-france
+- politique
+- france
 coverImage: ./images/quora.png
 ---
 

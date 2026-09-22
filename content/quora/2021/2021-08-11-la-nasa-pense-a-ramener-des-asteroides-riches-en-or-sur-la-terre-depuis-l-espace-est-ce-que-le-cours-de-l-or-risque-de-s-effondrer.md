@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - exploration-spatiale
-- economie-mondiale
-- or
-- nasa
-- prix-de-l-or
-- ressources-minerales
-- asteroides
 - science-spatiale
 - voyage-spatial
-- extraction-d-asteroides
+- nasa
+- asteroides
 coverImage: ./images/quora.png
 ---
 

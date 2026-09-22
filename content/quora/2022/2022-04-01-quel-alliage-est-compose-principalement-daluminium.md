@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - chimie
-- metaux
-- aluminium
-- science-des-materiaux-et-ingenierie
-- alliage
-- alliages-de-metaux
-- physique-des-materiaux
-- ingenieurie-des-materiaux
-- chimie-des-materiaux
+- materiaux
+- ingenierie
 coverImage: ./images/quora.png
 ---
 

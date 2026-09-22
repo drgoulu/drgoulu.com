@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - biologie
-- mammouth
 - recherche-scientifique
-- adn
-- genetique
-- mammiferes
-- extinction-des-especes
+- especes
+- extinction
 - paleontologie
-- clonage-biologie
-- genie-genetique
 coverImage: ./images/quora.png
 ---
 

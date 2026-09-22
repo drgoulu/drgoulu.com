@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
+- vie
+- societe
 - humanite
-- problemes-societaux
-- vision-commune
 - peuples
-- cooperation
-- philosophie-et-societe
-- obstacles-dans-la-vie
-- vision-globale
-- cause-commune
-- peuple
 coverImage: ./images/quora.png
 ---
 

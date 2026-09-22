@@ -9,13 +9,8 @@ tags:
 - sante-publique
 - covid-19-2019-2020
 - theories-du-complot
-- sida
-- maladies-infectieuses
 - virus
-- la-desinformation
-- seropositifs
-- vih
-- covid-19-coronavirus
+- maladies-infectieuses
 coverImage: ./images/quora.png
 ---
 

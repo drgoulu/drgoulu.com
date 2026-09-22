@@ -8,13 +8,9 @@ categories:
 tags:
 - biologie-humaine
 - vitesse
-- ultra-marathons
-- endurance
 - course-a-pied
 - humains
-- entrainement-au-marathon
-- course-d-endurance
-- marathons
+- entrainement
 coverImage: ./images/quora.png
 ---
 

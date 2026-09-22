@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-vie
-- evolution-processus
-- geologie
-- reptiles
-- histoire-des-sciences
-- preuves-scientifiques
-- paleontologie
-- fossiles
-- explications-scientifiques
-- dinosaures
+- sciences
+- histoire
+- evolution
+- vie
+- processus
 coverImage: ./images/qimg-8ba364de442c0a67f56c39dbed438bcd.jpg
 ---
 

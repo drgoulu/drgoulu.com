@@ -8,13 +8,8 @@ categories:
 tags:
 - physique
 - sciences
-- terre-planete
 - astronomie
-- energie-noire
-- l-univers
-- recherche-scientifique
-- supersymetrie
-- microscopie
+- univers
 - cosmologie
 coverImage: ./images/quora.png
 ---

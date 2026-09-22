@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- expansion-de-l-univers
-- vide-spatial
 - astronomie
-- cosmologie-du-big-bang
-- theorie-de-la-relativite
-- cosmologie
 - astrophysique
-- physique-theorique
-- origine-de-l-univers
+- univers
+- cosmologie
 coverImage: ./images/qimg-328c447606d6daeefc2821cd0be04c94.jpg
 ---
 

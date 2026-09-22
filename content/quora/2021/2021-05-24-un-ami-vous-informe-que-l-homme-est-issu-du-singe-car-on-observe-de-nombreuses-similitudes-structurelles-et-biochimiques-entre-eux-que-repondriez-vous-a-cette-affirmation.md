@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie
-- primates
-- origines-humaines
-- anatomie-comparee
 - evolution
-- biologie-humaine
-- theorie-de-l-evolution
-- biochimie
+- biologie
+- theorie
 - evolution-humaine
-- biologie-de-l-evolution
+- biologie-humaine
 coverImage: ./images/quora.png
 ---
 

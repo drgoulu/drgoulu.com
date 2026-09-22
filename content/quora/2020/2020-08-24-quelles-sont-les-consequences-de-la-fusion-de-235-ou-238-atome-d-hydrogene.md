@@ -6,13 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sciences
-- chimie-nucleaire
-- hydrogene
 - atomes
-- science-physique
-- isotopes
-- reactions-nucleaires
+- hydrogene
+- chimie-nucleaire
 coverImage: ./images/quora.png
 ---
 

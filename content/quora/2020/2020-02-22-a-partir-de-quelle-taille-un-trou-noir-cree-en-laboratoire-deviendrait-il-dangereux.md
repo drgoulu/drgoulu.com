@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- experience
-- danger
+- physique-theorique
 - recherche-scientifique
 - trous-noirs
-- taille
-- laboratoires
-- physique-theorique
-- science-experimentale
-- dangers
+- experience
 coverImage: ./images/quora.png
 ---
 

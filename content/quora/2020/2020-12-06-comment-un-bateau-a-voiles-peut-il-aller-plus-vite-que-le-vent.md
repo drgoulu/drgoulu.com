@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- bateaux-a-voile
-- aerodynamisme
-- navigation
-- voile
-- course-a-la-voile
-- voiliers
-- marine-a-voile
-- navigation-a-voile
 - aerodynamique
+- voile
+- navigation
+- bateaux
 coverImage: ./images/quora.png
 ---
 

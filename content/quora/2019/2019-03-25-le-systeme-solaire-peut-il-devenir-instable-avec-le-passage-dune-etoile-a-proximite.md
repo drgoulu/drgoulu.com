@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espace
-- etoiles-corps-celestes
 - astronomie
-- instabilite
-- systeme-solaire
 - astrophysique
-- etoiles-astronomie
-- dynamique-du-systeme-solaire
-- le-systeme-solaire
+- espace
+- systeme-solaire
 coverImage: ./images/quora.png
 ---
 

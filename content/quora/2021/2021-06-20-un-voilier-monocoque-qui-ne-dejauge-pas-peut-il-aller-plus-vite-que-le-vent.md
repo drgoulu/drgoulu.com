@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- vitesse
+- sport
 - voile
-- vitesse-de-deplacement
-- les-vents
-- direction-du-vent
-- navigation-a-voile
-- voiliers
-- vitesse-du-vent
-- sport-de-voile
-- course-a-la-voile
+- navigation
+- vent
 coverImage: ./images/qimg-31a5dace6352a6a04cd945723f242013.jpg
 ---
 

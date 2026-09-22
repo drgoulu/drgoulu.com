@@ -6,13 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- corps-humains
-- incineration
+- physique
 - sciences
-- matiere-physique
+- philosophie
+- matiere
 - physique-quantique
-- le-corps-humain
 coverImage: ./images/quora.png
 ---
 

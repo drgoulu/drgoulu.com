@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- jeux-video
-- contenu
-- photographie
-- propriete-intellectuelle
+- droit
 - creation
-- droit-dauteur
-- droit-des-biens
-- droit-prive
-- contenu-digital
-- droit-de-propriete
+- propriete-intellectuelle
+- proprietes
+- contenu
 coverImage: ./images/quora.png
 ---
 

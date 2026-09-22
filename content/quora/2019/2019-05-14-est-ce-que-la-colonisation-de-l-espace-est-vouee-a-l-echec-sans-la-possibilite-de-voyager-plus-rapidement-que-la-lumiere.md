@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- voyage-dans-l-espace
 - astronomie
-- vitesse-de-la-lumiere
+- espace
 - exploration-spatiale
-- colonisation-de-l-espace
-- vaisseau-spatial
-- voyage-interstellaire
-- conquete-spatiale
-- science-spatiale
+- lumiere
 coverImage: ./images/quora.png
 ---
 

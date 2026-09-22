@@ -8,14 +8,9 @@ categories:
 tags:
 - changement-climatique
 - agriculture
-- ble
-- production-alimentaire
-- histoire-de-l-agriculture
-- exploitation-agricole
+- histoire
 - agriculteurs
 - conditions-climatiques
-- production-agricole
-- le-changement-climatique
 coverImage: ./images/qimg-bf7b2337e7d5dcb2b1d77364cb8cb417.png
 ---
 

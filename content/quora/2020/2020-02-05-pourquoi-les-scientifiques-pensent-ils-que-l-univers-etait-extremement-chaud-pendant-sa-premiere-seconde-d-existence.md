@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- expansion-de-l-univers
-- cosmologie
-- univers-observable
 - astrophysique
-- l-univers
-- age-de-l-univers
-- origine-de-l-univers
-- cosmologie-du-big-bang
+- univers
+- cosmologie
+- origines
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- conseils-pour-etudier
-- etudiants-etrangers
-- vie-etudiante
 - ecoles-d-ingenieurs
-- preparation-au-test
-- lausanne-suisse
 - etudier-a-l-etranger
 - ecole-polytechnique-federale-de-lausanne
-- etudes-de-sciences
+- etudes
+- sciences
 coverImage: ./images/quora.png
 ---
 

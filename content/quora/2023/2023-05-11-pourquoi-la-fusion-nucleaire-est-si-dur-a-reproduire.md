@@ -6,14 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- science-et-technologie
-- energie-nucleaire
+- physique
+- sciences
 - recherche-scientifique
-- science-physique
-- reacteurs-a-fusion
-- physique-des-reacteurs
-- sciences-nucleaires
-- technologie-nucleaire
+- technologies
+- energie-nucleaire
 coverImage: ./images/quora.png
 ---
 

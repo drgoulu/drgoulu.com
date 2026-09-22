@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- felix-baumgartner-parachutiste
-- livre-guinness-des-records
-- chute-libre
-- mur-du-son
-- vitesse-terminale
+- monde
+- vitesse
 - aerodynamique
-- records-du-monde
-- vitesse-physique
+- chute-libre
 coverImage: ./images/qimg-69177068086acc0b2700c2643ec546d0.jpg
 ---
 

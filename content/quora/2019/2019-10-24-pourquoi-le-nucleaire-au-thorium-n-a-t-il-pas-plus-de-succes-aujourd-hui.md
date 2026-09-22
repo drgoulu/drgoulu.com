@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- innovation-technologique
-- thorium
+- physique
 - energie
-- sciences-nucleaires
 - energie-nucleaire
 - energie-alternative
-- energie-physique
-- reacteurs-nucleaires
-- industrie-nucleaire
-- technologie-nucleaire
+- innovation-technologique
 coverImage: ./images/quora.png
 ---
 

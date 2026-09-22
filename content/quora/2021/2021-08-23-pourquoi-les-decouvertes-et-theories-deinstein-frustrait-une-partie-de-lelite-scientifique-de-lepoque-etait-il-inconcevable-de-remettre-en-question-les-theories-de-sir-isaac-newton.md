@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- isaac-newton
-- histoire-des-sciences
-- albert-einstein-physicien
-- theorie-de-la-relativite
-- mecanique-newtonienne
-- scientifiques
-- revolutions-scientifiques
+- sciences
+- histoire
+- theorie
 - physique-theorique
-- histoire-de-la-physique
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- aviation
 - ingenierie
-- pneus-de-voiture-et-d-automobile
-- force-centrifuge
-- atterrissage
 - mecanique
-- aeronautique
+- aviation
 - avions
-- securite-aerienne
-- ingenierie-aeronautique
+- aeronautique
 coverImage: ./images/quora.png
 ---
 

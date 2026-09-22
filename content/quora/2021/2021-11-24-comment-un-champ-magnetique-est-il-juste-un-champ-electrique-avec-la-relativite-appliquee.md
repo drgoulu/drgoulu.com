@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- induction-electromagnetisme
-- relativite-restreinte
-- champs-magnetiques
-- theorie-de-l-electromagnetisme
-- relativite-physique
-- force-electromagnetique
+- theorie
+- relativite
 - electromagnetisme
-- champs-electromagnetiques
+- relativite-restreinte
 coverImage: ./images/quora.png
 ---
 

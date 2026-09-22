@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - chimie
-- tableau-periodique
-- proprietes
 - radioactivite
-- elements-chimiques-specifiques
-- structure-atomique
-- elements-radioactifs
-- nombre-atomique
-- elements-du-tableau-periodique
+- proprietes
 - elements-chimiques
+- structure-atomique
 coverImage: ./images/quora.png
 ---
 

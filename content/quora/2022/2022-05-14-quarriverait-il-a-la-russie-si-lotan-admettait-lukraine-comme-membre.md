@@ -8,13 +8,8 @@ categories:
 tags:
 - relations-internationales
 - securite
-- ukraine
 - russie
-- otan
-- consequences
-- geopolitique
-- adhesion-a-l-otan
-- relations-otan-ukraine
+- ukraine
 - politique-etrangere
 coverImage: ./images/quora.png
 ---

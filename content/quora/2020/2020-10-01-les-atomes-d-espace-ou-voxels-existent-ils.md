@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- vox
 - espace
-- numerisation-3d
 - atomes
-- voxel-art
 - particules
-- visualisation-3d
-- modelisation-3d
 - espace-3d
 coverImage: ./images/qimg-dc5f7657d37960d76f57d1bb00a831cc.gif
 ---

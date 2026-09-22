@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- navette-spatiale-americaine
-- atterrissage
-- descente-graduelle
-- ingenierie-et-technologie-spatiale
-- aerodynamique
-- atmosphere
 - science-spatiale
+- ingenierie
 - technologie-spatiale
+- atmosphere
 coverImage: ./images/qimg-42f5085f0c695621b71168412672701f.png
 ---
 

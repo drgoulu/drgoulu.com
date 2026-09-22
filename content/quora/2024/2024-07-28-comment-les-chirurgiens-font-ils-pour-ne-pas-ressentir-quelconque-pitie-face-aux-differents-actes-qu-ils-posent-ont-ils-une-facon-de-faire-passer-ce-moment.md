@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - psychologie
-- pitie
-- sentiments
-- professionnels-medicaux
 - medecine
-- emotions
+- sentiments
 - ethique-medicale
-- chirurgie
-- chirurgiens
+- emotions
 coverImage: ./images/quora.png
 ---
 

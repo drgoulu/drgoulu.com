@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - experience
-- entrepreneuriat
-- motivation
-- revenus
+- creation
 - entreprises
-- salaries
-- demarrage-d-une-entreprise
-- salariat
-- creation-d-entreprise
-- entrepreneuriat-et-business
+- entrepreneuriat
+- revenu
 coverImage: ./images/quora.png
 ---
 

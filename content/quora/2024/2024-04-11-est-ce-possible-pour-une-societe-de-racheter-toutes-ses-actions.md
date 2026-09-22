@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - finance
-- offre-publique-de-rachat-d-actions
 - marches-financiers
-- actions-finances
 - investir-sur-actions
 - rachat-d-entreprise
 - actifs-financiers
-- operations-finance
-- operations-sur-actions
 coverImage: ./images/quora.png
 ---
 

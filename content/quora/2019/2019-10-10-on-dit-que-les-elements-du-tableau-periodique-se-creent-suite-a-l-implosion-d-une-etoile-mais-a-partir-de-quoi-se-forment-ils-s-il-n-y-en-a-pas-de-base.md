@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- energie-nucleaire
 - astronomie
-- elements-du-tableau-periodique
-- etoiles-corps-celestes
-- fusion-des-elements-chimiques
-- cosmologie
 - astrophysique
-- tableau-periodique
+- cosmologie
+- energie-nucleaire
 coverImage: ./images/qimg-4937d3a2a24f846a8ba77c14fd2d080d.jpg
 ---
 

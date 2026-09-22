@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- mensch
-- echelle
 - taille
 - atomes
-- l-humain
-- atome-physique-quantique
-- mankind
-- humain
+- humains
 - physique-humain
 coverImage: ./images/quora.png
 ---

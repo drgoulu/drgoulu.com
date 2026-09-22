@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - religion
-- adam-et-eve-personnages-bibliques
-- mythes-de-creation-du-monde
-- dinosaures
-- dieu
-- la-genese
+- monde
+- origines
 - creation
-- origine-du-monde
-- livre-de-la-genese
-- religions
+- livres
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- ecart-entre-nombres-premiers
-- theorie-analytique-des-nombres
-- formule-empirique
+- theorie
+- nombres
 - algorithmes
-- formules-mathematiques
-- algorithmes-numeriques
-- theorie-des-nombres-premiers
-- theorie-des-nombres
+- nombres-premiers
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - religion
-- les-temps-difficiles
-- foi
 - humanite
-- spiritualite
-- la-bible
 - christianisme
-- importance
-- la-foi
-- l-importance
+- spiritualite
+- foi
 coverImage: ./images/quora.png
 ---
 

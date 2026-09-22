@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- ideologies-politiques
-- definition
+- philosophie
+- politique
 - democratie
-- liberte
-- philosophie-politique
-- valeurs-fondamentales
-- systemes-politiques
-- libertes-civiles
-- concepts-politiques
+- definition
+- ideologies-politiques
 coverImage: ./images/quora.png
 ---
 

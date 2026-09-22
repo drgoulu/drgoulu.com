@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- croyances-athees
-- morale
+- psychologie
 - ethique-philosophie-morale
-- reflexions-philosophiques
-- moralite-humaine
-- les-athees
-- philosophie-et-psychologie
 - idees-philosophiques
+- morale
 coverImage: ./images/quora.png
 ---
 

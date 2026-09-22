@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- histoire
+- terre
 - changement-climatique
-- planete-terre
-- biodiversite
-- extinction-de-masse
-- sciences-de-la-terre
-- extinction-des-especes
-- conservation-de-la-biodiversite
-- histoire-de-la-terre
-- crise-climatique
-- le-rechauffement-climatique
+- rechauffement-climatique
 coverImage: ./images/quora.png
 ---
 

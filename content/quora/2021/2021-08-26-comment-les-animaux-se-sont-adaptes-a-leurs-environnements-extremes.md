@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- animaux
-- evolution-processus
-- ecologie
-- conditions-meteorologiques-extremes
-- faune
 - evolution
-- ethologie
-- evolution-animale
+- processus
+- animaux
+- ecologie
+- faune
 coverImage: ./images/quora.png
 ---
 

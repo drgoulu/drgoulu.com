@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - astronomie
-- le-soleil
-- etoiles-corps-celestes
+- planetes
 - systeme-solaire
-- rotation-physique
 - science-spatiale
-- le-soleil-astronomie
-- activite-solaire
-- rotation-planetes
-- le-systeme-solaire
 coverImage: ./images/quora.png
 ---
 

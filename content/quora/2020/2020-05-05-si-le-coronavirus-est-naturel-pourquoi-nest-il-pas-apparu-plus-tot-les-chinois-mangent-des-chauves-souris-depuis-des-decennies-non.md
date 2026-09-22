@@ -8,12 +8,8 @@ categories:
 tags:
 - sante-publique
 - covid-19-2019-2020
-- chauve-souris
-- culture-chinoise
 - epidemiologie
 - maladies-virales
-- origine-de-covid-19
-- coronavirus-general
 - maladies-infectieuses
 coverImage: ./images/quora.png
 ---

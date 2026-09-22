@@ -8,12 +8,8 @@ categories:
 tags:
 - entreprises
 - voitures-electriques
-- transport-public
-- actualites
 - industrie-automobile
-- fabricants-d-automobiles
-- transports-en-commun
-- constructeurs-automobiles
+- actualites
 - vehicules-electriques
 coverImage: ./images/quora.png
 ---

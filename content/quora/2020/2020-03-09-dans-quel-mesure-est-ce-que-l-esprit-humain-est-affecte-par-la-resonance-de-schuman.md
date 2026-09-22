@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante-mentale
+- espace
 - exploration-spatiale
-- resonance
+- voyage
 - biologie-humaine
-- neurosciences
-- esprit-humain
-- voyage-dans-l-espace
-- sante-psychique
 - voyage-spatial
-- voyage-spatial-vers-mars
 coverImage: ./images/qimg-8c6eb79d85c47739b333b719df00e734.jpg
 ---
 

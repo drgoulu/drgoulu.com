@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- neurotransmetteurs
 - cerveau
-- dopamine
-- supplements-alimentaires
 - neurobiologie
 - medecine
 - medecine-naturelle
-- neuropharmacologie
 coverImage: ./images/quora.png
 ---
 

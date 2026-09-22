@@ -6,14 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- energie-physique
-- energie-renouvelable
-- eoliennes
-- les-centrales-nucleaires
+- physique
+- energie
 - energie-nucleaire
-- sources-d-energie
+- energie-renouvelable
 - energie-alternative
-- centrales-electriques
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - exploration-spatiale
-- lune-satellite-naturel
-- progres-humain
-- science-et-societe
+- societe
 - science-spatiale
-- programme-spatial-americain
-- progres-scientifique
-- conquete-spatiale
 - missions-spatiales
-- progres-de-la-science
 coverImage: ./images/quora.png
 ---
 

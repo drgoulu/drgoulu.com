@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- cinema
-- souvenir
-- partage
+- video
+- photo
 - films
-- image
-- videos
-- scenes
+- cinema
 - memoire
-- photos
-- scenes-de-film
 coverImage: ./images/qimg-a9999fe3b7391e82ed6c255886bf6cfd.jpg
 ---
 

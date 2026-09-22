@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
+- vie
+- perception
+- art
 - argent
-- travail-emploi
-- loisirs
-- factures
-- sens-de-la-vie
-- philosophie-du-quotidien
-- art-de-la-vie
-- perception-de-la-vie
-- philosophie-de-la-vie
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- etoiles-corps-celestes
-- masse-physique
-- evolution-stellaire
-- luminosite
 - astrophysique
-- types-d-etoiles
+- etoiles-corps-celestes
 - etoiles
-- physique-stellaire
-- etoiles-astronomie
+- masse-physique
 coverImage: ./images/quora.png
 ---
 

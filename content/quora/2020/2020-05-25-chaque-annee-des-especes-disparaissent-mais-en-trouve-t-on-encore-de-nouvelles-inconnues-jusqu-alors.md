@@ -9,13 +9,8 @@ tags:
 - biologie
 - recherche-scientifique
 - especes
-- faune
 - ecologie
-- extinction-des-especes
-- decouvertes
-- biodiversite
-- curiosite-scientifique
-- etude-scientifique
+- extinction
 coverImage: ./images/quora.png
 ---
 

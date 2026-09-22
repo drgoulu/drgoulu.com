@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- monde
+- phenomene
 - connaissances
-- verite
-- demarche-scientifique
-- phenomenes
-- contre-intuitif
-- connaissance-du-monde
 - curiosite-scientifique
-- faits-scientifiques
+- verite
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- isaac-newton
-- albert-einstein-physicien
-- courbure-de-l-espace
-- relativite-generale
-- espace-temps
-- gravitation
-- histoire-de-la-physique
-- theorie-de-la-relativite
+- histoire
+- theorie
 - physique-theorique
+- relativite
 coverImage: ./images/quora.png
 ---
 

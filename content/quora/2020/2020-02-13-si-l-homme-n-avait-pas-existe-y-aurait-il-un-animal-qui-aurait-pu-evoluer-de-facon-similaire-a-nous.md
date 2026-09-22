@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- animal
-- question-existentielle
-- humanite-attribut
-- evolution-processus
-- biologie-animale
-- l-humanite
-- biologie
 - evolution
-- evolution-biologie
+- biologie
+- processus
+- animaux
 coverImage: ./images/quora.png
 ---
 

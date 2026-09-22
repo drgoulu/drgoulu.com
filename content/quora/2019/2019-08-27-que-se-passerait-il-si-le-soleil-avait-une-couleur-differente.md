@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- question-hypothetique
-- le-soleil-astronomie
 - astronomie
-- scenarios
-- couleur
 - astrophysique
-- hypotheses
-- le-soleil
-- scenario
+- soleil
+- question-hypothetique
 coverImage: ./images/qimg-d6fbfb92744d5e684e5e9df01c5c2269.jpg
 ---
 

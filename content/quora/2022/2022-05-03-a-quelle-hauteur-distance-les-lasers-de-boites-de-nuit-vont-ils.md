@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- distance
-- eclairage
-- vfx-et-effets-speciaux
-- lieux-de-divertissement
-- lasers
-- boites-de-nuit
-- hauteur
-- distance-physique
+- physique
 - dimensions
+- distance
+- lasers
+- hauteur
 coverImage: ./images/quora.png
 ---
 

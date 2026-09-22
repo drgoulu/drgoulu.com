@@ -8,14 +8,9 @@ categories:
 tags:
 - biologie
 - covid-19-2019-2020
-- maladies-infectieuses
 - virus
 - virologie
-- pathologie
-- microbiologie
-- maladies-virales
-- biologie-medicale
-- infectiologie
+- maladies-infectieuses
 coverImage: ./images/quora.png
 ---
 

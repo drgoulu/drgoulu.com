@@ -7,14 +7,9 @@ categories:
 - Pourquoi
 tags:
 - france
-- maladies-parasitaires
-- camargue
-- marais
 - moyen-age
 - paludisme
-- geographie-de-la-france
-- les-maladies-infectieuses
-- epoque-medievale
+- geographie
 - maladies-infectieuses
 coverImage: ./images/quora.png
 ---

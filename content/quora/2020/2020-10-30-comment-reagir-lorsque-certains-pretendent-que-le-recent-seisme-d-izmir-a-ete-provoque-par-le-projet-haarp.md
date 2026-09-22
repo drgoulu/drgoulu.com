@@ -7,13 +7,10 @@ categories:
 - Comment
 tags:
 - theories-du-complot
-- turquie-pays
 - catastrophes-naturelles
-- attitude-et-reaction
+- reaction
 - seismes
-- izmir-turquie
 - reaction-humaine
-- theories-conspirationnistes
 coverImage: ./images/qimg-a9e84428469d17116baf1f639b82590a.jpg
 ---
 

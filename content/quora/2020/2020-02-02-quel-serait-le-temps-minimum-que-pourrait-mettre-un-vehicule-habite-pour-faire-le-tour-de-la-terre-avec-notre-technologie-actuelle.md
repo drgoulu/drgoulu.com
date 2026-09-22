@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- technologie-moderne
 - exploration-spatiale
-- tour-du-monde
-- aeronautique-et-astronautique
-- vol-spatial-habite
 - science-spatiale
-- vaisseau-spatial
-- vehicule-spatial
 - technologie-spatiale
 - astronautique
+- vaisseau-spatial
 coverImage: ./images/quora.png
 ---
 

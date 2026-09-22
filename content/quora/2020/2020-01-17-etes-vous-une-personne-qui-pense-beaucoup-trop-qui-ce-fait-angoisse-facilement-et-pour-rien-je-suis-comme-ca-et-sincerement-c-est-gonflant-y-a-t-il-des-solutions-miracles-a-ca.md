@@ -8,12 +8,8 @@ categories:
 tags:
 - psychologie
 - conseils
-- troubles-de-l-anxiete
 - bien-etre
-- pensees-intrusives
 - sante-mentale
-- anxiete
-- sante-emotionnelle
 - hygiene-mentale
 coverImage: ./images/quora.png
 ---

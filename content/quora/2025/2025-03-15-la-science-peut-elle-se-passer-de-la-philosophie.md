@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- epistemologie
 - sciences
-- methodologie-en-sciences
-- histoire-et-philosophie-des-sciences
+- histoire
+- philosophie
 - theorie-scientifique
-- la-methode-scientifique
-- philosophie-et-science
-- philosophie-des-sciences
-- la-philosophie-des-sciences
+- epistemologie
 coverImage: ./images/quora.png
 ---
 

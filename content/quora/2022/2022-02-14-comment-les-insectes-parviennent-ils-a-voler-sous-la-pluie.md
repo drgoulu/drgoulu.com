@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - biologie
-- voler
-- pluie
-- adaptation
-- mecanique-des-fluides
-- zoologie
 - biologie-animale
-- entomologie
-- science-biologique
+- mecanique
+- zoologie
+- adaptation
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- voyage-dans-l-espace
-- relativite-restreinte
-- immortalite
-- dilation-du-temps
-- vitesse-de-la-lumiere
-- temps-physique
-- vaisseau-spatial
-- relativite-physique
-- voyage-spatial
+- relativite
+- espace
+- temps
+- lumiere
 coverImage: ./images/quora.png
 ---
 

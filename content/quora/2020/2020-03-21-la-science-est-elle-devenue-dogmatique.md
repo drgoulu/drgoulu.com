@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - epistemologie
-- dogme
-- philosophie-des-sciences
+- philosophie
 - dogmatisme
 - concept-epistemologique
-- philosophie-et-science
-- dogme-scientifique
-- la-philosophie-des-sciences
-- epistomologie
 coverImage: ./images/quora.png
 ---
 

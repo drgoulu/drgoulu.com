@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
+- politique
 - relations-internationales
 - guerre
-- libye
-- histoire-de-l-afrique
-- guerre-civile-libyenne-2011
-- conflits-geopolitiques
-- politique-en-libye
-- guerres-et-conflits
-- politique-etrangere
-- conflit-militaire
+- afrique
 coverImage: ./images/quora.png
 ---
 

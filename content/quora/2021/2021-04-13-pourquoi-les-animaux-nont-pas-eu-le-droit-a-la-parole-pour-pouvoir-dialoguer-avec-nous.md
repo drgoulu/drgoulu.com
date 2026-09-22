@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
 - philosophie
+- droit
 - animaux
 - langage
-- l-ethique
-- communication-avec-les-animaux
-- intelligence-animale
-- droits-des-animaux
-- ethique-philosophie-morale
-- langage-humain
-- philosophie-et-science
 coverImage: ./images/quora.png
 ---
 

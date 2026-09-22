@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - energie
-- technologie-durable
+- ingenierie
 - energie-renouvelable
-- energie-physique
-- sources-d-energie
 - energie-alternative
-- ressource-energetique-durable
-- l-ingenierie-des-energies-renouvelables
-- energies-renouvelables
 coverImage: ./images/quora.png
 ---
 

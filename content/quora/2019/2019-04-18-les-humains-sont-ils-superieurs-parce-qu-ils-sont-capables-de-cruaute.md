@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - philosophie
-- question-existentielle
-- cruaute
-- superiorite
-- la-nature-humaine
 - humanite
+- question-existentielle
 - question-philosophique
-- condition-humaine
-- sentiment-de-superiorite
 - nature-humaine
 coverImage: ./images/quora.png
 ---

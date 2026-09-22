@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- l-univers
-- ciel-nocturne
-- etoiles
-- cosmologie
-- univers-observable
 - astrophysique
-- observation-des-astres
-- observation-astronomique
-- etoiles-astronomie
+- univers
+- cosmologie
+- etoiles
 coverImage: ./images/quora.png
 ---
 

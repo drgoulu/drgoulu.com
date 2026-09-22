@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - sciences
+- terre
+- planetes
+- environnement
 - changement-climatique
-- terre-planete
-- durabilite
-- pollution
-- ecologie
-- l-environnement
-- sante-environnementale
-- rechauffement-climatique
-- le-changement-climatique
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- equivalence-de-masses-energetiques
-- explosion-nucleaire
-- impact-environnemental
-- energie-physique
-- relativite-physique
+- energie
+- relativite
 - masse-physique
-- radiation-nucleaire
-- impacts-environnementaux
+- impact-environnemental
 coverImage: ./images/quora.png
 ---
 

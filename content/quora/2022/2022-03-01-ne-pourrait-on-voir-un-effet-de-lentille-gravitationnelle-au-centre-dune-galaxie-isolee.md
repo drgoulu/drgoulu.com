@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espace
 - astronomie
-- lentille-gravitationnelle
-- galaxies
-- cosmologie
-- phenomenes-physiques
 - astrophysique
-- forces-gravitationnelles
-- galaxies-astronomie
+- cosmologie
+- espace
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - mathematiques
-- langues
-- francais-langue
-- linguistique-francaise
-- theorie-des-nombres
+- theorie
+- nombres
 - langage
-- histoire-des-mathematiques
-- grammaire-francaise
-- francais
-- histoire-du-mathematique
 coverImage: ./images/quora.png
 ---
 

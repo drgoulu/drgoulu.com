@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- menaces
-- securite
-- annees-1950
+- environnement
 - changement-climatique
-- guerre-nucleaire
-- l-environnement
-- dangers
-- menace-nucleaire
-- le-rechauffement-climatique
+- rechauffement-climatique
+- securite
 coverImage: ./images/quora.png
 ---
 

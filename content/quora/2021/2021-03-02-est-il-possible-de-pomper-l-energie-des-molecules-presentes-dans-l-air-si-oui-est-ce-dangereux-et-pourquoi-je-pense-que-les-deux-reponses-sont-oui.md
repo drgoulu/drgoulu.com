@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- danger
 - sciences
-- air
 - energie
-- molecules
 - chimie
-- physique-et-chimie
-- energie-physique
-- dangers
+- air
 coverImage: ./images/quora.png
 ---
 

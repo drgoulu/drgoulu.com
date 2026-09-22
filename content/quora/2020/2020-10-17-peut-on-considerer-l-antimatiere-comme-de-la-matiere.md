@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- l-antimatiere
-- matiere
-- asymetrie-matiere-antimatiere
 - physique-theorique
-- physics
-- physique-et-chimie
-- matiere-physique
-- antimatiere
+- chimie
+- matiere
 coverImage: ./images/quora.png
 ---
 

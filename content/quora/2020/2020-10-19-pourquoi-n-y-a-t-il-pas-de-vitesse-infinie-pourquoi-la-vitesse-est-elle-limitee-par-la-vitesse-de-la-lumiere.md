@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- vitesse-maximale
-- theorie-cosmologique
-- relativite-physique
-- vitesse-de-la-lumiere
+- theorie
 - physique-theorique
-- sciences-et-technologies
-- theorie-de-la-relativite
-- physique-chimie
+- relativite
 coverImage: ./images/quora.png
 ---
 

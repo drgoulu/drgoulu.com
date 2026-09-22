@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - astronomie
-- le-soleil
 - espace
-- vision
-- distance
-- lumiere-physique
-- le-lune
-- lune-astronomie
-- distance-physique
-- vision-humain
+- lumiere
+- soleil
 coverImage: ./images/quora.png
 ---
 

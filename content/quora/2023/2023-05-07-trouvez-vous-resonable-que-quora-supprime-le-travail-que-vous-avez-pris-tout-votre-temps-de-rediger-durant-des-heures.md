@@ -8,14 +8,9 @@ categories:
 tags:
 - quora
 - travail
-- plateformes-de-contenu
 - contenu
-- suppression-de-fichier
-- redaction-de-contenu
-- contenus-internet
-- contenu-sur-quora
-- filtrage-de-contenu
-- moderation-de-contenu
+- moderation
+- plateforme
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - communication
-- bijoux-en-argent
-- strategie-marketing
-- exclusivites
-- marques-de-luxe
+- argent
+- produit
 - marketing
-- objets-de-luxe
-- communication-marketing
-- marketing-de-luxe
-- produits-de-luxe
+- objet
 coverImage: ./images/quora.png
 ---
 

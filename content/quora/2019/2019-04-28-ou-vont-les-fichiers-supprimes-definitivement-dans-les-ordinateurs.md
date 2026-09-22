@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - informatique
-- la-corbeille
-- fichiers-supprimes
-- systeme-d-exploitation
-- supports-de-stockage-informatique
-- gestion-de-fichiers-numeriques
+- systeme
+- gestion
 - ordinateurs
-- stockage-de-donnees
-- suppression-de-fichier
-- gestion-de-fichier
+- exploitation
 coverImage: ./images/quora.png
 ---
 

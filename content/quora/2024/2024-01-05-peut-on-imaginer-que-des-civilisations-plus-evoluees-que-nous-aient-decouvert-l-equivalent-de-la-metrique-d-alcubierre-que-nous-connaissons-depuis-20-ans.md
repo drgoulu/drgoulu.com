@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- science-fiction-genre
-- voyage-dans-l-espace
-- entrainement-alcubierre
-- hypotheses-scientifiques
-- technologie-du-futur
-- civilisations-extraterrestres
+- espace
+- technologies
+- voyage
 - theorie-scientifique
-- voyage-interstellaire
-- science-futur
 coverImage: ./images/quora.png
 ---
 

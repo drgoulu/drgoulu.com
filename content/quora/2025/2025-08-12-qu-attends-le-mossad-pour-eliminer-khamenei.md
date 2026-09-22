@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - relations-internationales
-- personne-reelle
-- mossad
-- ali-khamenei-guide-supreme-de-l-iran
-- israel
 - theories-du-complot
-- assassinat
-- iran
 - politique-internationale
+- israel
 - theories-du-complot-specifiques
 coverImage: ./images/quora.png
 ---

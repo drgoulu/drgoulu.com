@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
+- mathematiques
 - perception
 - realite
-- epistemologie
-- mathematiques
-- representation
-- cognition
-- philosophie-et-science
-- philosophie-des-sciences
-- sciences-mathematiques
 coverImage: ./images/qimg-59fdd295517e823a28c699480a582222.jpg
 ---
 

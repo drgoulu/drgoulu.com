@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-de-sondage
-- experiences
-- reaction
-- evenements-traumatiques-de-la-vie
-- experience-personnelle
+- questions
+- experience
+- sondages
+- experiences-personnelles
 - experience-humaine
-- questions-de-sondage-et-de-sondage-sur-quora
-- experiences-traumatisantes
-- reaction-humaine
-- incidents-traumatisants
 coverImage: ./images/quora.png
 ---
 

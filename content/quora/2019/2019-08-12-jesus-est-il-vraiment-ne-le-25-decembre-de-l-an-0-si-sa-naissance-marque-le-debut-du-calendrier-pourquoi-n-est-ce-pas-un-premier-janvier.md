@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
+- bible
 - jesus
-- calendrier
-- histoire-de-la-bible
-- fetes-religieuses
-- date-de-naissance
-- jour-de-noel
-- naissance-de-jesus
-- calendrier-gregorien
-- calendrier-chretien
-- fetes-chretiennes
+- jours
+- date
 coverImage: ./images/quora.png
 ---
 

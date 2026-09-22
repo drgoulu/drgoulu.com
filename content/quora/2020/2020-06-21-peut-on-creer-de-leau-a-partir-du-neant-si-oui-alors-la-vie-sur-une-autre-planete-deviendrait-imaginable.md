@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- vie-extraterrestre
 - astronomie
-- creation
-- chimie
-- cosmologie
 - astrophysique
-- astrobiologie
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

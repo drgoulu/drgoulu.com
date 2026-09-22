@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- france
-- guerres-civiles
+- politique
+- vie
 - societe
-- l-instabilite-politique
-- les-pays-bas
-- angleterre
-- resolution-de-conflit
-- vie-en-societe
-- gestion-des-conflits
+- france
+- gestion
 coverImage: ./images/quora.png
 ---
 

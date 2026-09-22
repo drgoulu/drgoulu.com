@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- histoire
 - evolution
-- histoire-des-sciences
-- crocodiles
-- evolution-processus
+- processus
 - paleontologie
-- reptiles
-- evolution-biologique-des-especes
-- evolution-animale
-- paleobiologie
 coverImage: ./images/quora.png
 ---
 

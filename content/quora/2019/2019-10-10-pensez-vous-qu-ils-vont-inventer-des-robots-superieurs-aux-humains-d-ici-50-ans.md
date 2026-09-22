@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- intelligence-artificielle
+- humanite
 - futur
 - science-fiction-genre
-- humanite
-- predictions
+- intelligence-artificielle
 - innovation-technologique
-- robotique
-- l-humanite
-- superintelligence-artificielle
 coverImage: ./images/quora.png
 ---
 

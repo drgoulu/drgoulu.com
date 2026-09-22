@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- astronomie
 - astrophysique
-- le-soleil
-- etoiles-corps-celestes
-- etude-scientifique
 - science-spatiale
-- composition-chimique
-- decouvertes-scientifiques
-- le-soleil-astronomie
-- astronomie-et-astrophysique
-- astrophysiciens
+- soleil
+- etoiles-corps-celestes
 coverImage: ./images/quora.png
 ---
 

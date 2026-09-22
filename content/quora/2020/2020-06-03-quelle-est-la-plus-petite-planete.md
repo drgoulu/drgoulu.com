@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sciences
 - astronomie
+- planetes
 - systeme-solaire
-- planetes-astronomie
-- science-physique
-- planetaire
-- astronomy
-- science-nature
-- le-systeme-solaire
 coverImage: ./images/quora.png
 ---
 

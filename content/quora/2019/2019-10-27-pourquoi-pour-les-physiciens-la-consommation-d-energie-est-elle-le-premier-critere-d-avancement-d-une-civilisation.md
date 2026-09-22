@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- philosophie
-- consommation-d-energie
-- criteres
-- evolution-culturelle
-- sciences
 - physique
+- sciences
+- philosophie
 - energie
-- civilisation
-- philosophie-des-sciences
-- l-utilisation-d-energie
+- consommation
 coverImage: ./images/quora.png
 ---
 

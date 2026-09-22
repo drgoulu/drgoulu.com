@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- preferences
-- canada
+- vie
 - climatologie
-- dubai-emirats-arabes-unis
-- impots
-- qualite-de-vie
-- migration
-- comparaison-des-pays-et-des-cultures
-- comparaisons-de-villes
+- comparaisons
+- qualite
+- ville
 coverImage: ./images/quora.png
 ---
 

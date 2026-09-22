@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - geographie
-- iles-kerguelen
-- statut-independant
 - etat
 - habitabilite
-- souverainete
-- territoires
-- independance
-- geographie-politique
 - geographie-humaine
 coverImage: ./images/quora.png
 ---

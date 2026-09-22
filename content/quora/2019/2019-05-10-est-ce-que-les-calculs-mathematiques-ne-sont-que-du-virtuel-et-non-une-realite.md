@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- realite
-- nature-de-la-vie-humaine
-- abstraction
 - mathematiques
-- la-realite
-- philosophie-des-mathematiques
-- la-philosophie
-- philosophie-et-science
-- verite
+- nature
+- realite
 coverImage: ./images/quora.png
 ---
 

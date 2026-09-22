@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - sociologie
 - developpement-durable
-- inegalites-sociales
-- equite
-- justice-sociale
-- les-inegalites-mondiales
-- inegalites-de-revenu
-- sociologie-politique
-- injustice-sociale
 - inegalite
+- revenu
 coverImage: ./images/qimg-8c2fd0363ac9dda3645675fc13feac7f.jpg
 ---
 

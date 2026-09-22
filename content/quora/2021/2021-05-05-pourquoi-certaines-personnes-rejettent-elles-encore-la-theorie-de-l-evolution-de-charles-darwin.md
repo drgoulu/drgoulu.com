@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- philosophie
-- charles-darwin
-- controverses
-- evolution-processus
 - sciences
-- theorie-de-l-evolution
+- philosophie
+- evolution
 - biologie
-- philosophie-des-sciences
-- darwin
-- biologie-de-l-evolution
+- theorie
 coverImage: ./images/quora.png
 ---
 

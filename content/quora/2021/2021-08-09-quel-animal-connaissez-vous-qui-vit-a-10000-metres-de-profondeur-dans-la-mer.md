@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-de-sondage
+- questions
+- sondages
 - oceans
-- faune-marine
-- exploration-des-abysses
-- vie-aquatique
-- sciences-marine
-- animaux-marins
-- ocean-profond
-- biologie-marine
 - vie-marine
+- faune-marine
 coverImage: ./images/quora.png
 ---
 

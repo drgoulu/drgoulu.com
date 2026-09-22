@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- histoire
+- planetes
+- environnement
 - changement-climatique
-- histoire-des-sciences
-- sciences-de-l-environnement
-- rechauffement-climatique
-- impacts-environnementaux
-- effets-du-rechauffement-de-la-planete
-- crise-climatique
-- le-rechauffement-climatique
-- sciences-du-climat
-- le-changement-climatique
 coverImage: ./images/quora.png
 ---
 

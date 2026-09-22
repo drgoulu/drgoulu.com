@@ -8,14 +8,9 @@ categories:
 tags:
 - entreprises
 - nouvelles-technologies
-- beton-et-ciment-materiaux-de-construction
 - crise-climatique
-- decarbonation
-- industrie-manufacturiere
 - technologie-durable
-- la-fabrication-de-ciment
 - technologie-propre
-- technologies-vertes
 coverImage: ./images/quora.png
 ---
 

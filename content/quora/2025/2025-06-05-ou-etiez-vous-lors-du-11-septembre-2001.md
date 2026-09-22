@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- new-york-city
-- question-sondage
-- les-etats-unis-d-amerique
-- terrorisme
+- monde
+- etats-unis
+- ameriques
 - souvenir
-- attentats-du-11-septembre
-- histoire-du-monde
-- 11-9-attentats-terroristes
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - sante-publique
 - covid-19-2019-2020
-- mutation-genetique
 - virus
-- epidemiologie
-- maladies-virales
 - virologie
-- sars-coronavirus
-- mutation-des-virus
-- infections-virales
+- epidemiologie
 coverImage: ./images/quora.png
 ---
 

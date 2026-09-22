@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- internet
-- humanite
-- telephone-portable
-- innovation-technologique
-- les-machines
+- histoire
 - nature
-- histoire-des-inventions
-- ordinateurs
-- progres-scientifique
-- l-histoire-de-la-technologie
+- technologies
+- humanite
+- internet
 coverImage: ./images/qimg-3b79bf940f35023d950ebd7d73c42fca.png
 ---
 

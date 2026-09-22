@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante-publique
-- preuve-science
-- faire-ses-courses-en-france
-- belgique
-- mortalite
-- mesures-politiques
-- passe-sanitaire
 - preuves-scientifiques
+- mortalite
 - taux-de-mortalite
+- preuve-science
 coverImage: ./images/qimg-dbf135f0c33d79a244d65a6ae6b72ec4.jpg
 ---
 

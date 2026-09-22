@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- droit
 - recherche-scientifique
-- brevets
-- propriete-intellectuelle
-- publication-academique
-- droit-des-brevets
-- droit-civil
-- droit-sur-la-propriete-intellectuelle
+- droit
 - recherche
-- publications-scientifiques
+- propriete-intellectuelle
+- brevets
 coverImage: ./images/quora.png
 ---
 

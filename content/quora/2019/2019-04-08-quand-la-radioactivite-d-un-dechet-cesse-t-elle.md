@@ -9,11 +9,8 @@ tags:
 - radioactivite
 - sciences-nucleaires
 - substances-radioactives
-- radiation-nucleaire
-- demi-vie-radioactivite
 - elements-radioactifs
-- dechets-radioactifs
-- isotopes-radioactifs
+- radiation-nucleaire
 coverImage: ./images/qimg-9b1ccf14982eb794908b0cee95525c96.jpg
 ---
 

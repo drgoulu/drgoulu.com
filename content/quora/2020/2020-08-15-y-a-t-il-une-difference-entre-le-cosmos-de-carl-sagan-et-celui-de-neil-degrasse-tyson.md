@@ -7,11 +7,8 @@ categories:
 - Quora
 tags:
 - sciences
-- neil-degrasse-tyson-astrophysicien
-- cosmos-serie-tv
 - astronomie
 - comparaisons
-- carl-sagan-astronome-auteur
 - cosmologie
 - astrophysique
 coverImage: ./images/quora.png

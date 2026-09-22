@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- communication
-- doute
-- mefiance
-- preuves-scientifiques
-- medias-d-information
+- recherche-scientifique
+- etude-scientifique
 - information
-- etudes-scientifiques
-- les-medias
-- recherches-scientifiques
+- medias
+- preuves-scientifiques
 coverImage: ./images/quora.png
 ---
 

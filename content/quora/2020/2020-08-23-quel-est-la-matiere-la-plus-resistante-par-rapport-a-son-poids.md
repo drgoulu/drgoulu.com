@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
+- sciences
 - materiaux
-- science-des-materiaux-et-ingenierie
-- resistance-physique
-- densite-physique
-- genie-des-materiaux
-- poids-physique
-- physique-des-materiaux
-- resistance-des-materiaux
-- la-science-des-materiaux
+- ingenierie
+- densite
 coverImage: ./images/qimg-c5e8b303529222c8e0a5c9c07f73a2d1.png
 ---
 

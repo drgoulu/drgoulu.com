@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - israel
-- droit-international
+- afrique
 - conflit-israelo-palestinien
-- onu
-- afrique-du-sud
-- bande-de-gaza
 - palestine
-- cisjordanie-moyen-orient
-- apartheid
+- droit-international
 coverImage: ./images/quora.png
 ---
 

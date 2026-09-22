@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- experience
-- eau
 - sciences
-- point-de-congelation
-- temperatures
-- phenomene
-- science-physique
+- eau
+- experience
 - phenomenes-physiques
-- congelation
 coverImage: ./images/quora.png
 ---
 

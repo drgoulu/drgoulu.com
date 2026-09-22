@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- croyances
-- vie-apres-la-mort
-- religion
 - sciences
-- spiritualite
-- reincarnation
-- preuves-scientifiques
-- opinions-et-croyances
-- philosophie-et-science
+- philosophie
+- religion
+- opinion
+- croyance
 coverImage: ./images/quora.png
 ---
 

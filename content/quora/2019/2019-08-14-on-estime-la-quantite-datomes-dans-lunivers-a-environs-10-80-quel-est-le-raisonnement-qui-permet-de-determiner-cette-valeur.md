@@ -9,13 +9,8 @@ tags:
 - physique
 - sciences
 - astronomie
-- extrapolation
-- l-univers
-- atomes
-- cosmologie
-- approximations
-- estimation
 - astrophysique
+- univers
 coverImage: ./images/quora.png
 ---
 

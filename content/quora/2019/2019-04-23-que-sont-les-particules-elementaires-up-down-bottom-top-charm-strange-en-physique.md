@@ -7,11 +7,8 @@ categories:
 - Quora
 tags:
 - physique
-- upwork
 - charme
 - quarks
-- etrangete
-- subatomique
 - modele-standard-de-la-physique-des-particules
 - elementary-particles
 coverImage: ./images/quora.png

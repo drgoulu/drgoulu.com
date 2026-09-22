@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - questions
-- armement-militaire
-- legende
-- science-politique
 - mysteres
-- testament
+- sciences-politiques
+- legende
 - propheties
-- secrets
-- armes-militaires
 coverImage: ./images/quora.png
 ---
 

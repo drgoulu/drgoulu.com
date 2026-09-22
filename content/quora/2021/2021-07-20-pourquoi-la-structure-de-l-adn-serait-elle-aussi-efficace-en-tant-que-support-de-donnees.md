@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
+- vie
 - informatique
-- adn
-- sciences-de-la-vie
 - genetique
-- stockage-de-donnees
-- structure-de-l-adn
-- biologie-moleculaire
 - sciences-informatiques
-- supports-de-donnees
 coverImage: ./images/quora.png
 ---
 

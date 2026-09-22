@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- science-physique
-- marees
-- oceanographie
-- mesure
+- physique
+- sciences
 - phenomenes-physiques
-- niveau-de-la-mer
-- maregraphe
-- sciences-de-la-mer
-- les-marees
-- phenomene-physique
+- mesure
+- oceanographie
 coverImage: ./images/qimg-9d4f823ddb2a7c14461befe8776e9c90.gif
 ---
 

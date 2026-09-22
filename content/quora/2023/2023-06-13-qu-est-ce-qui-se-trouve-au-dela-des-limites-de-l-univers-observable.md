@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- l-univers
-- cosmologie
-- univers-observable
 - astrophysique
-- les-confin-de-l-univers
-- origine-de-l-univers
-- univers-en-expansion
-- enigmes-de-l-univers
-- expansion-de-l-univers
+- univers
+- cosmologie
+- origines
 coverImage: ./images/quora.png
 ---
 

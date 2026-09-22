@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- l-environnement
-- activite-humaine
-- ecologie
+- environnement
+- societe
 - evolution-humaine
-- anthropocene
-- impact-environnemental
+- ecologie
 - espece-humaine
-- environnement-et-societe
-- ecologie-humaine
-- impacts-environnementaux
 coverImage: ./images/quora.png
 ---
 

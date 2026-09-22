@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - psychologie
-- echec
-- succes
-- surmonter-l-echec
 - comportement-humain
-- motivation
-- facteurs-de-succes
-- les-secrets-de-la-reussite
 - psychologie-humaine
-- motivation-personnelle
+- echec
+- motivation
 coverImage: ./images/quora.png
 ---
 

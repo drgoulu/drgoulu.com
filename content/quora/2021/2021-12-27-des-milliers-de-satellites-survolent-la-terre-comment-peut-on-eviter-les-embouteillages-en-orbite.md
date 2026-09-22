@@ -8,14 +8,9 @@ categories:
 tags:
 - astronomie
 - espace
-- gestion-du-trafic
 - exploration-spatiale
-- satellites
-- ingenierie-et-technologie-spatiale
 - science-spatiale
-- technologie-spaciale
-- industrie-spatiale
-- gestion-du-trafic-aerien
+- ingenierie
 coverImage: ./images/quora.png
 ---
 

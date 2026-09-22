@@ -8,10 +8,6 @@ categories:
 tags:
 - personnalite-publique
 - theories-du-complot
-- charles-schwab-courtage
-- conviction
-- la-grande-reinitialisation-2020
-- forum-economique-mondial
 - personnalites-politiques
 - politique-mondiale
 - theories-du-complot-specifiques

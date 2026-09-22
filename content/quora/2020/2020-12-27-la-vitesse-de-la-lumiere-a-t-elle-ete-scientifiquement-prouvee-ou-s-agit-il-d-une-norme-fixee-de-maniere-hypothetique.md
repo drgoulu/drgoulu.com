@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- preuves-empiriques
-- vitesse-de-la-lumiere
-- theorie-scientifique
-- preuve-science
-- pensee-scientifique
 - physique-theorique
-- science-physique
-- preuves-scientifiques
+- lumiere
+- vitesse
 coverImage: ./images/quora.png
 ---
 

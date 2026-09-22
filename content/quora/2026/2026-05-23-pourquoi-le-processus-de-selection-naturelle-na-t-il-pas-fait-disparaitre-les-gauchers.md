@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- evolution
 - biologie
-- groupes-de-personnes
-- gauchere
-- evolution-processus
-- genetique
-- selection-naturelle
-- anatomie-humaine
-- biologie-humaine
+- processus
 - evolution-humaine
-- types-de-personnes
+- biologie-humaine
 coverImage: ./images/quora.png
 ---
 

@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- le-microcosme
-- explications
-- theorie-des-cordes
-- information-scientifique
-- mecanique-quantique
-- dimensions-physique
+- theorie
 - physique-theorique
+- dimensions
 - explications-scientifiques
 coverImage: ./images/quora.png
 ---

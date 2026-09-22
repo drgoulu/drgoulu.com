@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- philosophie
-- interpretation
 - sciences
-- methodes
-- la-methode-scientifique
+- philosophie
+- theorie
 - nature
 - theorie-scientifique
-- interpretations-philosophie
-- philosophie-des-sciences
-- theorie
 coverImage: ./images/quora.png
 ---
 

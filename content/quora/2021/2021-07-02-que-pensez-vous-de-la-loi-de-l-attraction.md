@@ -6,14 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
 - psychologie
 - opinion
 - croyance
-- loi-de-l-attraction
-- pensee-positive
-- spiritualite
-- philosophie
-- opinions-et-croyances
 - opinion-personnelle
 coverImage: ./images/quora.png
 ---

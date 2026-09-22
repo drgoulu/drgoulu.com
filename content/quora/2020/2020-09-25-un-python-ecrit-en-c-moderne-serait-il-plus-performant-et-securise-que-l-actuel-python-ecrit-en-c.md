@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- theorie
 - informatique
-- securite-informatique
-- python-langage-de-programmation
-- developpement-logiciel
-- c-programmation
-- conception-des-langages-de-programmation
-- langages-de-programmation
-- theorie-du-langage-de-programmation
-- c-langage-de-programmation
+- programmation
+- securite
+- langage
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- l-environnement
-- mortalite
-- energie-physique
-- risques-pour-la-sante
-- environnement
-- sources-d-energie
-- energie-nucleaire
+- physique
 - energie
-- taux-de-mortalite
+- environnement
+- sante
+- energie-nucleaire
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
 - evolution
-- oiseaux
-- histoire-de-la-terre
-- taille-de-l-animal
-- evolution-processus
-- paleontologie
-- extinction-des-especes
-- jurassique
-- histoire-naturelle
-- extinction
+- terre
+- processus
+- animaux
 coverImage: ./images/quora.png
 ---
 

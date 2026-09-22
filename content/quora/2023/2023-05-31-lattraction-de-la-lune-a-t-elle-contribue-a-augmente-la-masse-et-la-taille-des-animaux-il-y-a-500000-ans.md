@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-nature
-- evolution-biologie
-- lune-satellite-naturel
-- l-attraction-gravitationnelle
-- taille-de-l-animal
-- paleontologie
-- histoire-de-la-terre
-- masse-corporelle
-- forces-gravitationnelles
-- evolution-animale
+- sciences
+- histoire
+- evolution
+- biologie
+- terre
 coverImage: ./images/quora.png
 ---
 

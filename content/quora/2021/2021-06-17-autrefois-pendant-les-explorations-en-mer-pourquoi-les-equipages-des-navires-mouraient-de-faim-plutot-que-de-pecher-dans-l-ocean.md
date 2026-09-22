@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- conditions-de-vie
-- histoire-de-l-alimentation
-- navigation-maritime
+- histoire
+- alimentation
 - vie-marine
-- histoire-navale
-- pecher
-- activites-maritimes
-- histoire-maritime
-- voyages-maritimes
+- conditions-de-vie
+- navigation-maritime
 coverImage: ./images/quora.png
 ---
 

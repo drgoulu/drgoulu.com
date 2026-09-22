@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- l-univers
-- theorie
-- hypotheses-scientifiques
+- univers
 - cosmologie
-- galaxies
-- univers-en-expansion
-- astronomes
-- expansion-de-l-univers
+- theorie
 coverImage: ./images/qimg-88bcb8cb6dda375e617e9cd196095f83.jpg
 ---
 

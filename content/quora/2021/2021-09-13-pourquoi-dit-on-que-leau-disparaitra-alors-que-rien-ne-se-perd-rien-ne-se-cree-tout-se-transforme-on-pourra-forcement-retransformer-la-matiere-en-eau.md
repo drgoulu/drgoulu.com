@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- eau
 - sciences
-- transformation-de-systeme
-- conservation-de-la-nature
-- cycle-de-l-eau
+- nature
 - chimie
-- transformation-physique
-- eau-chimie
-- physique-et-chimie
+- eau
 coverImage: ./images/qimg-20f55fa4cb7deac2dfb05874c28089af.jpg
 ---
 

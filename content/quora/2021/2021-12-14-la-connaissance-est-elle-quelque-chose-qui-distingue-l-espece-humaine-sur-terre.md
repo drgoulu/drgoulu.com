@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- evolution-processus
-- connaissances
-- especes
-- l-intelligence
-- nature-humaine
-- espece-humaine
-- intelligence-humaine
-- philosophie-des-sciences
-- evolution-biologie
+- evolution
+- biologie
+- processus
 coverImage: ./images/qimg-303be610593d90975cbf5f7396ec0828.jpg
 ---
 

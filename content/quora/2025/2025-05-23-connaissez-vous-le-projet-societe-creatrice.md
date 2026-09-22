@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - societe
-- activites-creatrices
 - projet
 - creation
-- projet-de-societe
-- conception-de-projet
-- les-projets
+- conception
 - createurs
-- creation-de-projet
-- projets
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
-- charles-darwin
-- evolution-processus
 - sciences
-- darwinisme
-- theorie-de-l-evolution
-- biologie
-- philosophie-des-sciences
+- philosophie
 - evolution
-- evolutionisme
+- biologie
+- theorie
 coverImage: ./images/quora.png
 ---
 

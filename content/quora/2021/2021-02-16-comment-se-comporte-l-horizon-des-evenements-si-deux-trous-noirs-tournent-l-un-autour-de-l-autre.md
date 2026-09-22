@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- trous-noirs
-- espace
 - astronomie
-- horizon-des-evenements
-- gravitation
-- cosmologie
-- astrophysique-relativiste
-- relativite
 - astrophysique
+- cosmologie
+- relativite
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - quora
-- fonctionnalite
-- frustration
-- site-web
-- experience-client
-- photos
-- zoom
-- experience-utilisateur
-- insatisfaction
+- photo
 - images
+- fonctionnalite
+- site-web
 coverImage: ./images/qimg-5fcb98ad039a59387b738bebefa2639c.jpg
 ---
 

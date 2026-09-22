@@ -8,14 +8,9 @@ categories:
 tags:
 - sante-publique
 - covid-19-2019-2020
-- vaccins
-- developpement-de-medicaments
-- crise-sanitaire
+- developpement
 - recherche-medicale
-- vaccination
-- pandemie-de-covid19
-- vaccin-covid-19
-- recherche-clinique
+- vaccins
 coverImage: ./images/quora.png
 ---
 

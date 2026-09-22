@@ -6,14 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- l-environnement
-- energie-physique
-- durabilite
-- performance-economique
-- energie-renouvelable
-- environnement
-- impact-environnemental
+- physique
 - energie
+- environnement
+- energie-renouvelable
 - energie-alternative
 coverImage: ./images/quora.png
 ---

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-de-sondage
-- chute
-- blessures
-- danger
+- questions
+- risques
+- sondages
 - science-nature
-- situations-hypothetiques
-- noix-de-coco
-- risque
-- questions-rhetoriques
-- question-enfantine
+- dangers
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- anthropologie-culturelle
-- calendrier-lunaire
-- culture
-- xxieme-siecle
-- peuples-indigenes
-- peuples
-- histoire-du-monde
-- culture-anthropologie
+- monde
 - anthropologie
+- culture
+- anthropologie-culturelle
 coverImage: ./images/quora.png
 ---
 

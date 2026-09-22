@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- comportement-humain
-- sociologie
-- curiosite
-- ethique
-- differences-raciales
-- racisme
 - anthropologie
+- sociologie
+- ethique
+- comportement-humain
 - races-humaines
-- bioethique
-- philosophie-ethique
 coverImage: ./images/quora.png
 ---
 

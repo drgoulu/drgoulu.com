@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - geographie
-- detroit-de-gibraltar
 - marees
-- mer-mediterranee
-- phenomene-naturel
-- hydrographie
-- ocean-atlantique
+- phenomenes-naturels
 - oceanographie
-- gibraltar
 - geographie-marine
 coverImage: ./images/qimg-d9d4ac7132abbc3f03203203366494eb.gif
 ---

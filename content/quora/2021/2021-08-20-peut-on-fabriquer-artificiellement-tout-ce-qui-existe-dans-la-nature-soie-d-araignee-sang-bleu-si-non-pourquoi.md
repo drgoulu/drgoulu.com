@@ -8,14 +8,9 @@ categories:
 tags:
 - biologie
 - materiaux
-- soie-d-araignee
-- biomimetisme
-- science-des-materiaux-et-ingenierie
+- sciences
+- ingenierie
 - chimie
-- materiaux-artificiels
-- biologie-chimique
-- chimie-biologie
-- science-des-materiaux-et-ingenieries
 coverImage: ./images/quora.png
 ---
 

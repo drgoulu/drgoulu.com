@@ -8,13 +8,9 @@ categories:
 tags:
 - france
 - politique
-- reforme-des-retraites-en-france-en-2019
-- journee-internationale-des-femmes
 - personne
 - emmanuel-macron
-- hommage
 - politique-francaise
-- systeme-francais-de-retraite-par-repartition
 coverImage: ./images/quora.png
 ---
 

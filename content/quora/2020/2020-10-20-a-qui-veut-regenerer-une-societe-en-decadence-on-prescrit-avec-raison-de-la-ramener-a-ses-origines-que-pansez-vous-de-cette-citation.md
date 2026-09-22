@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- philosophie
 - histoire
-- citation-societe
+- philosophie
 - societe
-- regeneration-biologie
-- decadence
-- sociologie
-- les-citations
 - origines
-- philosophique
+- sociologie
 coverImage: ./images/quora.png
 ---
 

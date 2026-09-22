@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - religion
-- pays
 - suisse
+- pays
 - christianisme
-- orthodoxe-religion
-- groupes-religieux
 - religion-catholique
-- culture-religieuse
-- catholicisme
 coverImage: ./images/quora.png
 ---
 

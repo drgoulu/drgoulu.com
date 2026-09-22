@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- experience
+- sciences
+- sante
 - securite
-- accelerateurs-de-particules
-- effets-sur-la-sante
-- sciences-technologies
-- risque
-- science-experimentale
-- science-physique
-- physique-des-accelerateurs
+- experience
 coverImage: ./images/qimg-9532f9befec842474878ee13d927c5b8.jpg
 ---
 

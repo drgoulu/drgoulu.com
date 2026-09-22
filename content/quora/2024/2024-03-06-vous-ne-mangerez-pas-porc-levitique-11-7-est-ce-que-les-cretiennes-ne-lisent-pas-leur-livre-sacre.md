@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - religion
-- livre-du-levitique
-- porc
-- nourriture
-- christianisme-et-judaisme
-- la-bible
-- textes-sacres
-- chretiens
-- livres-de-la-bible
+- livres
+- christianisme
+- bible
 - judaisme
 coverImage: ./images/quora.png
 ---

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- question-existentielle
 - astronomie
-- recherche-scientifique
-- l-univers
-- vie-extraterrestre
-- exploration-spatiale
-- cosmologie
 - astrophysique
-- science-spatiale
-- la-vie-extraterrestre
+- univers
+- cosmologie
+- recherche-scientifique
 coverImage: ./images/quora.png
 ---
 

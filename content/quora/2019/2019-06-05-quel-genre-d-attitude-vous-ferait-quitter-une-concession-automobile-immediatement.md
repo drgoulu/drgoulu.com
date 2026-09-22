@@ -8,14 +8,9 @@ categories:
 tags:
 - experience-client
 - comportement-inapproprie
-- service-a-la-clientele
-- concessions-automobiles
 - relations-aux-clients
 - comportement-client
 - mauvais-comportement
-- vendeurs-de-voitures
-- comportement-non-ethique
-- gestion-clientele
 coverImage: ./images/quora.png
 ---
 

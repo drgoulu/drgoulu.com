@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- energie
+- environnement
 - changement-climatique
-- l-environnement
+- rechauffement-climatique
 - ecologie
-- durabilite
-- consommation-d-energie
-- empreinte-carbone
-- ecologisme
-- le-rechauffement-climatique
-- consommation-energetique
 coverImage: ./images/quora.png
 ---
 

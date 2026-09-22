@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- evolution-stellaire
 - astronomie
-- refroidissement
-- pression
-- etoiles
-- thermodynamique
 - astrophysique
-- physique-stellaire
-- etoiles-astronomie
+- etoiles
+- evolution-stellaire
 coverImage: ./images/quora.png
 ---
 

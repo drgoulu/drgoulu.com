@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- facteurs-sociaux
-- histoire-des-inventions
-- progres-technique
+- histoire
+- invention
 - innovation
-- facteurs
-- histoire-des-sciences
-- facteurs-economiques
 - progres-scientifique
-- facteurs-humains
 coverImage: ./images/quora.png
 ---
 

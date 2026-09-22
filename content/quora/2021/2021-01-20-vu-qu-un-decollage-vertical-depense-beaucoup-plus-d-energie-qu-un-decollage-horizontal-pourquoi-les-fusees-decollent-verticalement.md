@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- espace
-- decollage-aviation
-- fusees
-- ingenierie
-- aerodynamique
+- sciences
 - energie
-- science-des-fusees
-- fusee-astronautique
-- moteurs-fusee
+- espace
+- ingenierie
 coverImage: ./images/qimg-cd905bdf2663a726a07b6941693af5f5.png
 ---
 

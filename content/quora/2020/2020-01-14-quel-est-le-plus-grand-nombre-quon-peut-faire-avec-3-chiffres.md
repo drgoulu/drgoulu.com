@@ -8,14 +8,9 @@ categories:
 tags:
 - mathematiques
 - nombres
-- chiffres
-- probleme-mathematique-integral
+- questions
+- probleme
 - nombres-naturels
-- questions-de-mathematiques
-- nombres-mathematiques
-- problemes-mathematiques
-- mathematques
-- nombre
 coverImage: ./images/quora.png
 ---
 

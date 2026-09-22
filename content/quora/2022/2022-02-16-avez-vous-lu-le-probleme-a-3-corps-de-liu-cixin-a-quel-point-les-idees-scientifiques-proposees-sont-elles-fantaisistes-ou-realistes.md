@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- liu-cixin
-- science-fiction-genre
-- auteurs
 - astronomie
-- realisme
-- litterature
-- livres-de-science-fiction
+- science-fiction-genre
+- livres
+- science-fiction
 coverImage: ./images/quora.png
 ---
 

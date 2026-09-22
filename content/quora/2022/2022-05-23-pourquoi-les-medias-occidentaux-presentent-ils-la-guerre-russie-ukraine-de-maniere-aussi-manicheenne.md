@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- politique
+- relations-internationales
 - opinion-publique
 - russie
-- relations-internationales
-- manicheisme
 - ukraine
-- propagande
-- journalisme
-- medias-occidentaux
-- analyse-politique
-- guerre-russie-ukraine
 coverImage: ./images/quora.png
 ---
 

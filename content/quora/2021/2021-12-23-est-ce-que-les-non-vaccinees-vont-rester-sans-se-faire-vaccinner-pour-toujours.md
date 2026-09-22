@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- societe
 - sante-publique
+- debat
 - vaccins
-- debats-de-societe
 - pandemie
-- covid-19-coronavirus
-- personnes-non-vaccinees
-- questions-sociales
-- vaccination
-- sujet-societe
-- anti-vaccins
 coverImage: ./images/quora.png
 ---
 

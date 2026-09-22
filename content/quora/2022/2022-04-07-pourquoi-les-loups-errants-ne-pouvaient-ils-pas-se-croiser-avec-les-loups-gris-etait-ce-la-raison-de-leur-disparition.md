@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - animaux
+- especes
 - ecologie
-- loups
-- zoologie
-- extinction-des-especes
+- extinction
 - faune
-- conservation-de-la-faune
-- animaux-disparus
-- ethologie
 coverImage: ./images/qimg-b1789ceb4179d972cd8ef56dca895817.png
 ---
 

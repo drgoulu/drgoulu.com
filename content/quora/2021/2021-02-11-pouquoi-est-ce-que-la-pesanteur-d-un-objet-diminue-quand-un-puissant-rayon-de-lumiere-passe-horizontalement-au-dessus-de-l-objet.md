@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- pesanteur
-- objet
-- lumiere-physique
-- gravitation
-- phenomene
 - physique-theorique
-- phenomenes-physiques
+- lumiere
+- gravitation
 coverImage: ./images/quora.png
 ---
 

@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - mathematiques
-- proportion
+- theorie
+- nombres
 - statistiques
-- theorie-des-nombres-premiers
-- probabilite-statistiques
-- sciences-mathematiques
-- theorie-du-nombre
-- theorie-des-nombres
 coverImage: ./images/quora.png
 ---
 

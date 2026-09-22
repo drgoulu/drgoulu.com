@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- le-soleil
-- exposition-photographie
+- soleil
 - espace
-- lumiere-physique
-- images-spatiales
-- astrophotographie
-- la-lumiere
-- le-soleil-astronomie
+- lumiere
+- physique
 coverImage: ./images/qimg-6d349c3a490d5163ea9a8fbb4f0fbc23.jpg
 ---
 

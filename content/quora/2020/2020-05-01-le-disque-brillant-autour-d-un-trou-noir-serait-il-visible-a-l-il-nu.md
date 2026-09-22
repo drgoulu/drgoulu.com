@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
 - astronomie
-- spectre-visible
-- disques
-- objets-astronomiques
 - astrophysique
 - physique-theorique
-- astronomie-et-astrophysique
+- trous-noirs
 coverImage: ./images/quora.png
 ---
 

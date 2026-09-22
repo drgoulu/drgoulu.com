@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- betelgeuse
-- etoiles-corps-celestes
-- phenomenes-physiques
-- supernova
-- evolution-stellaire
-- observation-scientifique
 - astrophysique
+- etoiles-corps-celestes
 - etoiles
+- phenomenes-physiques
 coverImage: ./images/quora.png
 ---
 

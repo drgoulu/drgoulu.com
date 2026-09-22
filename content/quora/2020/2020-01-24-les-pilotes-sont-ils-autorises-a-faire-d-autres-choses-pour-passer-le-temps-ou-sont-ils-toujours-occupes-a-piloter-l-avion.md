@@ -9,12 +9,8 @@ tags:
 - travail-emploi
 - avions
 - activite
-- temps-libre
-- les-pilotes
 - aviation
-- pilotage-d-avion
 - travail
-- pilotes-d-avions
 coverImage: ./images/quora.png
 ---
 

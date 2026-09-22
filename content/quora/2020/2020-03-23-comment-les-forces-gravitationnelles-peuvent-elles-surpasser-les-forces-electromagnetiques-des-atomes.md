@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- theorie-de-l-electromagnetisme
-- l-attraction-gravitationnelle
-- atomes
-- forces-intermoleculaires
-- champs-electromagnetiques
+- theorie
 - physique-theorique
-- forces-gravitationnelles
-- force-electromagnetique
+- electromagnetisme
+- atomes
 coverImage: ./images/quora.png
 ---
 

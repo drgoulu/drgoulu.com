@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - histoire
+- humanite
 - anthropologie
-- cro-magnon-premiers-humains-europeens-modernes
-- population-humaine
 - paleontologie
-- histoire-de-l-humanite
 - demographie
-- prehistoire
-- population
-- histoire-des-humains
 coverImage: ./images/quora.png
 ---
 

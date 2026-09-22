@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - france
-- catastrophes-nucleaires
-- confiance
-- transparence-politique
-- gestion-des-risques
-- information-publique
-- autorites
-- croyances
-- accident-nucleaire
-- gestion-de-crise
+- croyance
+- risques
+- gestion
 coverImage: ./images/quora.png
 ---
 

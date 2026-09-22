@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
+- histoire
 - evolution
-- histoire-des-sciences
-- charles-darwin
-- evolution-processus
-- decouvertes-scientifiques
-- darwinisme
-- theorie-de-l-evolution
-- demarche-scientifique
-- histoire-de-la-biologie
-- histoire-de-la-science
+- biologie
+- theorie
 coverImage: ./images/quora.png
 ---
 

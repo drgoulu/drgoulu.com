@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- lois-de-conservation
-- transformations
-- conservation-de-l-elan-physique
-- lois-de-la-physique
+- loi
+- conservation
 - physique-theorique
-- transformation-physique
-- philosophie-de-la-physique
+- philosophie
 coverImage: ./images/quora.png
 ---
 

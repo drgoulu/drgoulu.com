@@ -6,16 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
+- sciences
+- vie
 - question-existentielle
-- contenu-adulte
 - statistiques
 - question-philosophique
-- sciences-de-la-vie
-- peur-de-mourir
-- mortalite
-- esperance-de-vie
-- probabilites-statistiques
-- taux-de-mortalite
 coverImage: ./images/qimg-a8e3d791d89746af85c08b0ef536cc3a.png
 ---
 

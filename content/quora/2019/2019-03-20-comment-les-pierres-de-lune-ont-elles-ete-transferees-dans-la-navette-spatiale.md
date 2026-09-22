@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- exploration-spatiale
 - espace
-- mineraux
+- exploration-spatiale
 - science-spatiale
-- vaisseau-spatial
 - technologie-spatiale
 - voyage-spatial
-- exploration-spatiale-de-la-nasa
-- mineralogie
 coverImage: ./images/qimg-51a8aa730144a678e574e8209780b221.gif
 ---
 

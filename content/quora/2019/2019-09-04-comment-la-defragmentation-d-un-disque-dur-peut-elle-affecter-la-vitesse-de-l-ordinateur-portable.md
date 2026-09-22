@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - informatique
-- defragmentation
-- systeme-d-exploitation
-- disque-dur-hdd
-- vitesse-du-site-web
-- stockage-de-fichiers
-- ordinateurs-portables
-- performances-du-materiel-informatique
-- informatique-general
-- technique-informatique
+- vitesse
+- systeme
+- technique
+- exploitation
 coverImage: ./images/quora.png
 ---
 

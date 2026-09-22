@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- violet-couleur
-- lumiere-blanche
-- longueur-donde
-- combinaison-des-couleurs
-- spectre-visible
+- combinaison
 - couleur
-- rouge-couleur
-- vision-des-couleurs
-- melange-de-couleurs
+- spectre-visible
+- vision
 coverImage: ./images/quora.png
 ---
 

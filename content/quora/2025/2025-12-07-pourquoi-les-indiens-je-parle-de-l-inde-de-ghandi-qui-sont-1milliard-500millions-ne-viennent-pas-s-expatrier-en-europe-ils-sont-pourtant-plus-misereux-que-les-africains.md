@@ -6,14 +6,10 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- immigration
 - pauvrete
+- immigration
 - inde
-- les-pays-en-voie-de-developpement
-- mahatma-gandhi
-- migration-humaine
-- pays-sous-developpes
-- emigration
+- pays-en-voie-de-developpement
 - migration
 coverImage: ./images/quora.png
 ---

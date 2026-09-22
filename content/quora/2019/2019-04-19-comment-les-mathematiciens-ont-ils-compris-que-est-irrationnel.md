@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
+- histoire
 - mathematiques
-- histoire-des-sciences
-- pi
-- nombres-irrationnels
-- theorie-des-nombres
-- le-nombre-pi
-- calcul-de-pi
-- histoire-des-mathematiques
-- mathematiciens
-- nombres-rationnels
+- theorie
+- nombres
 coverImage: ./images/quora.png
 ---
 

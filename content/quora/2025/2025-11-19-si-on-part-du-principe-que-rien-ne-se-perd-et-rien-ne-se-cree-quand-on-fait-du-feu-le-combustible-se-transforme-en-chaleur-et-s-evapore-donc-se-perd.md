@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- evaporation
-- lois-de-conservation
-- chaleur
-- combustion
 - chimie
-- science-physique
-- physique-et-chimie
-- combustible
+- loi
+- conservation
 coverImage: ./images/quora.png
 ---
 

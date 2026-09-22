@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- energie-physique
-- infrastructure
-- batteries
+- physique
+- sciences
+- energie
 - technologies
-- durabilite-energetique
 - energie-renouvelable
-- stockage-d-energie
-- energie-solaire
 coverImage: ./images/quora.png
 ---
 

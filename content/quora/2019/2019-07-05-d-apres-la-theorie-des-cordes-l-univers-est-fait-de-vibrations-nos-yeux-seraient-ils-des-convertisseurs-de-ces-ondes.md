@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- perception
 - sciences
-- l-univers
-- theorie-des-cordes
-- les-yeux
-- perception-visuelle
-- sensation
-- vibrations-physique
+- univers
+- theorie
 - physique-theorique
 coverImage: ./images/quora.png
 ---

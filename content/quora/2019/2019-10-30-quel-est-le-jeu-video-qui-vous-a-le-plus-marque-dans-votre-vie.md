@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-de-sondage
-- culture-populaire
-- experiences
-- jeux-video
-- souvenir
+- questions
 - experience
-- souvenirs-d-enfance
-- experience-personnelle
-- jeux-informatiques
-- jeux-electroniques
+- sondages
+- experiences-personnelles
+- culture-populaire
 coverImage: ./images/quora.png
 ---
 

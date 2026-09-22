@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- tunnel
 - electromagnetisme
-- silence
-- prisme
 - geometrie
-- spheres
-- force-physique
+- force
 - magnetisme
 coverImage: ./images/quora.png
 ---

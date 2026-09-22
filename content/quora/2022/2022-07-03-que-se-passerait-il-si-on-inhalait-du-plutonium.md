@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante-physique
+- physique
+- sciences
+- sante
 - risques
-- inhalant
-- plutonium-element-chimique
 - radioactivite
-- substances-toxiques
-- risques-pour-la-sante
-- science-physique
-- substances-radioactives
 coverImage: ./images/quora.png
 ---
 

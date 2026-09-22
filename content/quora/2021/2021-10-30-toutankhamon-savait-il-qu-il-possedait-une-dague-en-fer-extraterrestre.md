@@ -8,13 +8,8 @@ categories:
 tags:
 - histoire
 - fer
-- toutankhamon-pharaon
-- l-art-egyptien-antique
-- les-extraterrestres
-- archeologie-antique
+- extraterrestres
 - egypte-ancienne
-- l-histoire-de-l-egypte-ancienne
-- l-egyptologie-antique
 - archeologie
 coverImage: ./images/quora.png
 ---

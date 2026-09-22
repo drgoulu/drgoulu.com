@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- quasar
-- trous-noirs
 - astronomie
-- corps-celestes
-- theorie-des-cordes
-- relativite-generale
 - astrophysique
+- theorie
 - physique-theorique
-- relativite-physique
 coverImage: ./images/quora.png
 ---
 

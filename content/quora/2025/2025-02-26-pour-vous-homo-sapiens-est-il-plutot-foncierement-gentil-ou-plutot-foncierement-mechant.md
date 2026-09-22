@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- psychologie
-- bien-et-mal
-- homo-sapiens
-- comportement-humain
 - philosophie
-- moralite-humaine
+- psychologie
+- comportement-humain
 - nature-humaine
-- condition-humaine
-- philosophie-morale
-- la-nature-humaine
+- homo-sapiens
 coverImage: ./images/quora.png
 ---
 

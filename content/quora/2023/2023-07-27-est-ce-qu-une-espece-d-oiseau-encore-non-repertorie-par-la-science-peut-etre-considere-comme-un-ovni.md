@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - biologie
-- ovni
-- phenomenes-inexpliques
 - especes
-- observation-des-oiseaux
-- ornithologie
+- observation
 - zoologie
-- biologie-des-oiseaux
-- phenomenes
 coverImage: ./images/quora.png
 ---
 

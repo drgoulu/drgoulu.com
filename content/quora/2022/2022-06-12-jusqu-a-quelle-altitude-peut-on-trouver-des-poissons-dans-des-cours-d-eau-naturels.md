@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- ecologie
 - geographie
 - biologie-animale
-- ecologie
-- poissons
-- cours-d-eau
 - altitude
-- faune-sauvage
-- organisme-aquatique
-- ecosysteme-aquatique
-- vie-aquatique
+- poissons
 coverImage: ./images/quora.png
 ---
 

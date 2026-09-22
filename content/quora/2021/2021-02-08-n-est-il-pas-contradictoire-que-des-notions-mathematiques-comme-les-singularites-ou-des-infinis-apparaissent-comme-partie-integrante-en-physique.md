@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - mathematiques
-- contradictions
-- singularite
-- la-philosophie-des-sciences
-- philosophie-des-mathematiques
+- philosophie
+- sciences
 - physique-mathematique
-- mathematiques-et-physique
-- philosophie-de-la-physique
-- contradictoire
 coverImage: ./images/quora.png
 ---
 

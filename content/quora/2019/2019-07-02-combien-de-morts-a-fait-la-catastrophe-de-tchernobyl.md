@@ -7,14 +7,10 @@ categories:
 - Combien
 tags:
 - histoire
-- desastre-nucleaire-de-tchernobyl-avril-1986
-- deces
+- monde
 - catastrophes
-- accident-nucleaire
-- tchernobyl
-- centrale-nucleaire-de-tchernobyl
-- histoire-du-monde
 - catastrophes-nucleaires
+- accident-nucleaire
 coverImage: ./images/quora.png
 ---
 

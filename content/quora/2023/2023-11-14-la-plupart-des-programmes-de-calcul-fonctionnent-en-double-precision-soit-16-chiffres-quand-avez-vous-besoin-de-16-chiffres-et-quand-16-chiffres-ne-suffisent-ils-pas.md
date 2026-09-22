@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - informatique
-- erreurs
 - precision
 - calcul
-- chiffres-significatifs
-- langage-et-programation
 - calcul-mathematique
 - sciences-informatiques
-- l-informatique
 coverImage: ./images/quora.png
 ---
 

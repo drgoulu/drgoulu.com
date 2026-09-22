@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- corps-celestes
-- composition-ingredients
-- sciences-de-la-terre
-- lune-astronomie
 - astrophysique
-- composition-chimique
-- chemie
-- astronomie-et-astrophysique
-- science-de-la-nature
+- terre
+- nature
 coverImage: ./images/quora.png
 ---
 

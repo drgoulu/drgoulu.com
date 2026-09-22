@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
 - animaux
-- question-hypothetique
-- sauter
 - biologie-animale
-- mouvement-physique
-- elephants
-- raison-scientifique
+- question-hypothetique
 - zoologie
-- science-biologique
-- anatomie-animale
 coverImage: ./images/quora.png
 ---
 

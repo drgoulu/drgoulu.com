@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - recherche-scientifique
-- methodologie
-- biais-cognitif
-- valeur-du-travail
-- qualite-des-donnees
-- methodologie-de-recherche
-- biais-humain
+- recherche
 - etude-scientifique
-- travail-scientifique
-- recherches-scientifiques
+- donnees
+- methodologie
 coverImage: ./images/quora.png
 ---
 

@@ -7,13 +7,8 @@ categories:
 - Pourquoi
 tags:
 - questions
-- comportement-de-l-utilisateur
-- refus
-- moderateurs
 - effet
-- masque
-- communaute-en-ligne
-- experience-utilisateur
+- communautes-en-ligne
 - moderation-quora
 - moderation
 coverImage: ./images/quora.png

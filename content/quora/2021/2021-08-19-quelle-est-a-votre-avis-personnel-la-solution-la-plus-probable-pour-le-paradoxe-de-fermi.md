@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- science-fiction-genre
-- l-univers
-- paradoxe-de-fermi
-- exploration-spatiale
-- hypotheses-scientifiques
-- cosmologie
-- vie-extraterrestre
 - astrophysique
-- theorie-scientifique
+- univers
+- cosmologie
+- exploration-spatiale
 coverImage: ./images/quora.png
 ---
 

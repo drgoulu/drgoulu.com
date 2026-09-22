@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- conducteurs-electriques
-- vitesse-de-la-lumiere
+- lumiere
+- vitesse
 - electricite
-- le-courant-electrique
-- cables-et-fils
-- circuit-electrique
-- intensite-du-courant
-- electrotechnique
+- courant-electrique
 coverImage: ./images/quora.png
 ---
 

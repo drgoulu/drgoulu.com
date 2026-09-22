@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- securite
+- sciences
 - recherche-scientifique
+- nature
+- securite
 - meteorites
-- organisme
-- objet-precieux
-- sciences-de-la-nature
-- communaute-scientifique
-- objet-suprenant
-- securite-personnelle
-- objet-de-desir
 coverImage: ./images/quora.png
 ---
 

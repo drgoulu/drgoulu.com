@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
-- espace
-- terre-planete
 - astronomie
-- l-univers
-- astrophysique-theorique
-- physique-theorique
 - astrophysique
-- astrophysiciens
+- univers
+- terre
 coverImage: ./images/quora.png
 ---
 

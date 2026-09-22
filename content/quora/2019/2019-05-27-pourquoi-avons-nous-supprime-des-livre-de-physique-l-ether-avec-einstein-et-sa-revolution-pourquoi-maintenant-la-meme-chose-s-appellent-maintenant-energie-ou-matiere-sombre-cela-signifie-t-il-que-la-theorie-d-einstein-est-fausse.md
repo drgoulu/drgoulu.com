@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- albert-einstein-physicien
-- histoire-des-sciences
-- energie-noire
-- theorie-de-la-relativite
-- matiere-noire
-- physique-theorique
-- relativite-physique
-- philosophie-de-la-physique
-- histoire-de-la-physique
+- sciences
+- histoire
+- philosophie
+- theorie
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- question-de-sondage
-- experiences
-- sentiment
 - voyage
-- souvenir-d-enfance
-- experience-personnelle
-- sentiments-humains
-- experience-humaine
-- questions-de-recherche
+- recherche
+- questions
+- experience
+- sondages
 coverImage: ./images/quora.png
 ---
 

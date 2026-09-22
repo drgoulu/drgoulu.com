@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- singes
-- evolution-processus
-- primates
-- chaines-alimentaires
-- intelligence-humaine
-- humanite
-- homo-sapiens
 - evolution
+- processus
+- humanite
+- intelligence-humaine
 coverImage: ./images/quora.png
 ---
 

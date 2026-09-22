@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - physique
-- corps-humains
-- lancement-astronautique
-- inconscience
-- astronautes
-- force-centrifuge
-- aeronautique-et-astronautique
-- science-des-fusees
+- sciences
 - force
-- physiologie-humaine
+- corps-humains
+- astronautique
 coverImage: ./images/qimg-df3d1bc7605f95578a3d11db11e3e109.png
 ---
 

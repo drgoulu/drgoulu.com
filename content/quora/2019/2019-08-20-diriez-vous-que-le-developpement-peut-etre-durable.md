@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- developpement-durable
 - politique
-- l-environnement
-- sociologie
+- environnement
 - ecologie
-- developpement
-- sciences-politiques
+- sociologie
 coverImage: ./images/qimg-dd703733a86ceb73a487861de264d3f8.png
 ---
 

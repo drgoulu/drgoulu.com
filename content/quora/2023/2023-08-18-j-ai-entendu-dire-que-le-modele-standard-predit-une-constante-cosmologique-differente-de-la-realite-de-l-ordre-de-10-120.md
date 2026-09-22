@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
 - sciences
 - cosmologie
-- modele-standard-de-la-physique-des-particules
-- physique-theorique
-- concepts-majeurs-en-physique
-- constante-cosmologique
 - theorie
-- theorie-scientifique
+- physique-theorique
 coverImage: ./images/quora.png
 ---
 

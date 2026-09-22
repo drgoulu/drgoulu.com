@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - ingenierie
-- finances
-- architecture
-- contrainte
-- construction
-- hauteur
-- budget
 - dimensions
-- longueur
-- construction-de-batiments
+- architecture
+- finance
+- construction
 coverImage: ./images/quora.png
 ---
 

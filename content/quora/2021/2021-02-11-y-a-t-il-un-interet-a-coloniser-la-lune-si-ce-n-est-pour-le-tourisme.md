@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- astronomie
 - recherche-scientifique
-- lune-astronomie
+- espace
 - exploration-spatiale
-- ressources-planetaire
-- colonisation-lunaire
-- technologie-spatiale
 - science-spatiale
-- colonisation-de-l-espace
-- tourisme-spatial
-- missions-spatiales
 coverImage: ./images/quora.png
 ---
 

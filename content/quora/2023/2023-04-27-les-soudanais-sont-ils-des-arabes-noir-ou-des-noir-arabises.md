@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - histoire
-- les-noirs
-- arabe
-- soudan
-- culture-anthropologie
 - identite
-- race-et-ethnies
-- ethnologie
-- identite-nationale
+- culture-anthropologie
+- race
 - ethnie
 coverImage: ./images/quora.png
 ---

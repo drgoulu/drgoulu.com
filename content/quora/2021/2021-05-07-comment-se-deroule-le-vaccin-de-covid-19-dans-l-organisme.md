@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sante
-- covid-19-2019-2020
-- systeme-immunitaire
-- virologie
 - medecine
-- sars-coronavirus
-- immunite-covid-19
+- covid-19-2019-2020
+- virologie
 - vaccin-covid-19
-- immunite-biologie
-- immunologie
 coverImage: ./images/quora.png
 ---
 

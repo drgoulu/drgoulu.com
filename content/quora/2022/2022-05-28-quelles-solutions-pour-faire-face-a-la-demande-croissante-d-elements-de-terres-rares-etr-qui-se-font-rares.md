@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - ressources-naturelles
-- industrie
-- solutions
 - elements-chimiques
-- rarete-economique
-- metaux-de-terres-rares
-- matieres-premieres-minerales
-- production-industrielle
-- gestion-des-ressources-environnementales
-- ressources-minerales
+- solutions
+- industrie
+- metaux
 coverImage: ./images/quora.png
 ---
 

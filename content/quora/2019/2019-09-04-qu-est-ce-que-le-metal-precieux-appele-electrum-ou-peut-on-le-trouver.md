@@ -8,14 +8,9 @@ categories:
 tags:
 - geologie
 - ressources-naturelles
-- pierre-precieuse
-- mineraux
-- metaux-rares
 - geologie-planetaire
-- metaux-precieux
-- ressources-minerales
+- mineraux
 - mineralogie
-- matiere-minerale
 coverImage: ./images/quora.png
 ---
 

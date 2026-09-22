@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- biologie
-- froid
-- adaptation
-- mutation-genetique
-- evolution-humaine
-- sciences-de-la-vie
-- biologie-humaine
+- sciences
 - evolution
-- biologie-evolutive-humaine
-- mutation-et-mutations-genetique
+- biologie
+- vie
+- evolution-humaine
 coverImage: ./images/quora.png
 ---
 

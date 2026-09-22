@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- nikola-tesla
 - sciences
-- technologie-sans-fil
-- inventeurs
-- science-et-technologie
-- electricite
+- technologies
 - theorie-scientifique
-- invention-et-inventions
-- energie-sans-fil
+- electricite
 coverImage: ./images/quora.png
 ---
 

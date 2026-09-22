@@ -8,13 +8,9 @@ categories:
 tags:
 - astronomie
 - espace
-- autoroutes
-- exploration-spatiale
 - systeme-solaire
-- voyage-dans-l-espace
-- vaisseau-spatial
+- exploration-spatiale
 - science-spatiale
-- missions-spatiales
 coverImage: ./images/quora.png
 ---
 

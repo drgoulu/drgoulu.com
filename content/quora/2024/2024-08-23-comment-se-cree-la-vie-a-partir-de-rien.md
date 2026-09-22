@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- question-existentielle
-- biologie
-- question-philosophique
-- sciences-de-la-nature
-- abiogenese
+- sciences
+- philosophie
 - evolution
-- philosophie-de-la-vie
-- origine-de-la-vie
-- sciences-de-la-vie
-- evolution-biologie
+- biologie
+- vie
 coverImage: ./images/quora.png
 ---
 

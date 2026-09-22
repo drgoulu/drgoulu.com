@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- expansion-de-l-univers
 - astronomie
-- modelisation-mathematique
+- univers
 - cosmologie
 - physique-theorique
-- origine-de-l-univers
-- astronomie-d-observation
 coverImage: ./images/quora.png
 ---
 

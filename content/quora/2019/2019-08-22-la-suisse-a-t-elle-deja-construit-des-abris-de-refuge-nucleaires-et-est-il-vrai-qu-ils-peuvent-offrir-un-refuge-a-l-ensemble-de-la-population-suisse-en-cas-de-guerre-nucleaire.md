@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- defense
 - suisse
 - securite-nationale
 - guerre-nucleaire
 - population-humaine
-- abri-antiatomique
-- infrastructures
-- menace-nucleaire
-- bunker-anti-atomique
+- defense
 coverImage: ./images/quora.png
 ---
 

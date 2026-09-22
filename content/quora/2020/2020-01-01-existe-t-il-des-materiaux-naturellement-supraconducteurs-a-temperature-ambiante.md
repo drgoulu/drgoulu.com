@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- supraconducteurs
-- temperature-ambiante
-- materiaux-de-synthese
-- science-des-materiaux-et-ingenierie
-- chimie-des-materiaux
-- la-supraconductivite
-- ingenieurie-des-materiaux
-- physique-des-materiaux
+- materiaux
+- sciences
+- ingenierie
+- chimie
 coverImage: ./images/quora.png
 ---
 

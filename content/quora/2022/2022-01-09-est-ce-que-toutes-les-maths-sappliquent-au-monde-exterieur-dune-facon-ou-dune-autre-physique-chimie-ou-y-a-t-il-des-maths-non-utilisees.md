@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- mathematiques
 - sciences
+- philosophie
+- mathematiques
 - chimie
-- champs-d-applications-des-mathematiques
-- philosophie-des-mathematiques
-- mathematiques-appliquees
-- physique-mathematique
-- physique-et-chimie
-- mathematiques-et-physique
 coverImage: ./images/quora.png
 ---
 

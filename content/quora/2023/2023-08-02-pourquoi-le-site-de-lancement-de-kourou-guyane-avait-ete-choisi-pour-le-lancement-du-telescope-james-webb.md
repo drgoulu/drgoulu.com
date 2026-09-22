@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- geographie-de-la-guyane-francaise
 - geographie
 - telescope-spatial-james-webb
 - exploration-spatiale
-- lancement-astronautique
-- systeme-de-lancement-spatial
 - science-spatiale
-- guyane-francaise
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- problemes-mathematiques
-- theorie-des-nombres
-- nombres-naturels
-- arithmetique
-- probleme
-- nombre
-- questions-de-mathematiques
+- mathematiques
+- theorie
 - nombres
-- nombres-composes
-- enigmes-mathematiques
+- questions
+- probleme
 coverImage: ./images/quora.png
 ---
 

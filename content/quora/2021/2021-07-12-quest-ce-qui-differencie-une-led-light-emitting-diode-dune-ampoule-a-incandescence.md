@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- led
 - ampoules-a-incandescence
 - eclairage
 - electronique
-- diodes-lumineuses
-- lumiere-incandescente
 - electricite
-- ampoules-led
-- ampoules-electriques
 coverImage: ./images/quora.png
 ---
 

@@ -7,12 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- energie-nucleaire
-- rentabilite
-- impact-environnemental
-- rendement
 - energie
-- sciences-et-technologies
+- technologies
+- energie-nucleaire
+- impact-environnemental
 coverImage: ./images/quora.png
 ---
 

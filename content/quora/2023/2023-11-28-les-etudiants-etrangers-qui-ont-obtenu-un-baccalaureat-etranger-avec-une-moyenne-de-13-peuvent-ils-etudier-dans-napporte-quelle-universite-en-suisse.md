@@ -9,13 +9,8 @@ tags:
 - enseignement-superieur
 - suisse
 - admissions-a-l-universite-et-dans-des-ecoles
-- etudiants-internationaux
 - systeme-educatif-suisse
-- universites-et-facultes-en-suisse
-- baccalaureat
-- moyennes-scolaires-et-admissions-universitaires
-- education-en-suisse
-- education-superieur
+- education
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - sante-publique
 - covid-19-2019-2020
-- mutation-genetique
-- vaccins
 - virologie
-- grippe
-- epidemiologie
+- vaccins
 - vaccination
-- mutation-des-virus
-- immunologie
 coverImage: ./images/qimg-5684c3b696ea474ff8be125923a2bcaa.gif
 ---
 

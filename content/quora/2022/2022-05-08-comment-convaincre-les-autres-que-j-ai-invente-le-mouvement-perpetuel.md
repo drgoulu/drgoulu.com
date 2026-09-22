@@ -7,13 +7,9 @@ categories:
 - Comment
 tags:
 - physique
-- convaincre
 - machines-a-mouvement-perpetuel
-- arguments-et-argumentations
 - invention
-- demonstration-philosophique
-- mouvements
-- texte-argumentatif
+- mouvement
 - demonstrations
 coverImage: ./images/quora.png
 ---

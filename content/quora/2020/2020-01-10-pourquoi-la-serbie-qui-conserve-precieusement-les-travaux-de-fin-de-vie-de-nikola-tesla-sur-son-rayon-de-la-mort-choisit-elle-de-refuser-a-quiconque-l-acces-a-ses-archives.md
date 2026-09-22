@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- physique
+- sciences
 - histoire
-- nikola-tesla
-- confidentialite
-- serbie
 - theories-du-complot
-- science-physique
-- activite-humaine
-- archives-et-archivage
-- histoire-de-la-science
+- nikola-tesla
 coverImage: ./images/quora.png
 ---
 

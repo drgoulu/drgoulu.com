@@ -6,14 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- investissement
-- coree-du-sud
+- economie
+- developpement
 - pauvrete
-- burundi
-- pays-sous-developpes
-- pays-riches
-- economie-du-developpement
-- croissance-economique
+- investissement
 - developpement-economique
 coverImage: ./images/quora.png
 ---

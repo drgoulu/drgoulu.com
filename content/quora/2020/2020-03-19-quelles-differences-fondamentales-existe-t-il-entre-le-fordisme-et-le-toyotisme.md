@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- management
-- histoire-economique
-- taylorisme
-- production-industrielle
-- economie-d-entreprise
-- systeme-de-gestion
-- systeme-de-production
-- histoire-economique-de-france
-- histoire-de-la-pensee-economique
-- mode-de-production
+- france
+- economie
+- systeme
+- entreprises
+- gestion
 coverImage: ./images/quora.png
 ---
 

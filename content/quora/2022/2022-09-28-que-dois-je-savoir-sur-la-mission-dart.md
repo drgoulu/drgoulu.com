@@ -8,14 +8,9 @@ categories:
 tags:
 - astronomie
 - espace
-- mission
-- spacex
-- defense-planetaire
-- technologie-spatiale
-- nasa
-- asteroides
 - science-spatiale
-- ingenierie-et-technologie-spatiale
+- ingenierie
+- technologie-spatiale
 coverImage: ./images/quora.png
 ---
 

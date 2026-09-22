@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- terre-planete
-- sciences-de-l-atmosphere
-- oxygene
-- la-terre
-- sciences-de-la-terre
-- atmosphere
-- sciences-de-l-environnement
-- chimie-atmospherique
-- physique-de-l-atmosphere
+- physique
+- sciences
+- terre
+- planetes
+- environnement
 coverImage: ./images/qimg-4bfb082c3ebc39c9ed388c49e757b820.gif
 ---
 

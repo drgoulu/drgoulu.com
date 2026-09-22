@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - securite
-- animaux-marins
-- requins
 - dangers
-- biologie-marine
 - securite-personnelle
 - vie-marine
-- faune-marine
-- danger
+- biologie-marine
 coverImage: ./images/quora.png
 ---
 

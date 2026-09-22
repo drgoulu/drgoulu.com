@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- apprentissage
-- ecologie
-- developpement
-- connaissances
-- systeme
-- integrite
 - environnement
+- ecologie
+- systeme
 - developpement-durable
-- systemes
+- developpement
 coverImage: ./images/qimg-ff3ce28dd77a69b72f4cf449d444958c.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - philosophie
-- infini
-- univers-observable
-- l-esprit-humain
+- univers
 - cosmologie
-- l-univers
-- univers-infini
-- esprit-humain
-- philosophie-de-la-cosmologie
-- philosophie-des-sciences
+- univers-observable
 coverImage: ./images/quora.png
 ---
 

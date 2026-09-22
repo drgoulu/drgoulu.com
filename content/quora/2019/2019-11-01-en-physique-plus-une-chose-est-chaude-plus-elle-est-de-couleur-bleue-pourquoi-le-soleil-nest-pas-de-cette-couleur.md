@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- le-soleil
-- spectre-electromagnetique
-- lumiere-du-soleil
-- temperature-de-couleur
-- lumiere-physique
+- astronomie
+- lumiere
+- soleil
 - temperatures
-- couleur
-- le-soleil-astronomie
 coverImage: ./images/qimg-290a9cd4976085af3134712a102f2514.jpg
 ---
 

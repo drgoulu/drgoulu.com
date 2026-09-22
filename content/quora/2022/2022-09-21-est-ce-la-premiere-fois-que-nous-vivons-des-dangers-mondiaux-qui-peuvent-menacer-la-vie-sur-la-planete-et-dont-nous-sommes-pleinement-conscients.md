@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- conscience
+- terre
+- vie
 - changement-climatique
-- risques-existentiels
-- l-humanite
-- catastrophes
-- vie-sur-terre
-- les-problemes-mondiaux
-- catastrophes-environnementales
-- le-rechauffement-climatique
+- rechauffement-climatique
+- humanite
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- evolution
 - biologie
-- evolution-processus
-- sciences-de-la-vie
-- organismes-unicellulaires
-- theorie-de-l-evolution
-- evolution-biologique-des-especes
-- organismes
-- origine-de-la-vie
-- evolution-biologie
-- organismes-vivants
+- theorie
+- vie
 coverImage: ./images/quora.png
 ---
 

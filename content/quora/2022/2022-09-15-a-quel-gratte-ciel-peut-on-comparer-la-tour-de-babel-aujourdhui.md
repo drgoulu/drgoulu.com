@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- tour-de-babel
-- gratte-ciels
+- monde
 - comparaisons
-- art-architecture
-- mythique
-- histoire-du-monde
 - architecture
-- mythes
-- mythologie
+- mythe
 coverImage: ./images/qimg-372dfb384d3b1db1291cd35789e50b14.jpg
 ---
 

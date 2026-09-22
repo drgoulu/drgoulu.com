@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
+- sciences
+- technologies
 - futur
-- ecrans
-- conception
 - innovation
 - nouvelles-technologies
-- technologie-digitale
-- innovation-technologique
 coverImage: ./images/quora.png
 ---
 

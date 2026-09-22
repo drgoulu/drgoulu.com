@@ -10,9 +10,7 @@ tags:
 - sciences
 - structure-atomique
 - particules
-- science-de-la-matiere
-- matiere-physique
-- physique-de-la-matiere
+- matiere
 coverImage: ./images/qimg-34d242d6f3345ff99de54f8d492af134.jpg
 ---
 

@@ -9,12 +9,7 @@ tags:
 - securite
 - adult-question-user
 - justice
-- viol
 - pedophiles
-- recidiviste
-- juges
-- mise-en-danger
-- la-pedophilie
 - securite-publique
 coverImage: ./images/quora.png
 ---

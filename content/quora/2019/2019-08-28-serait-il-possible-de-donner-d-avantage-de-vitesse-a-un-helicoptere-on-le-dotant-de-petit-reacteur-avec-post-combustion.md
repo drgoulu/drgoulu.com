@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
+- sciences
+- technologies
 - vitesse
-- combustion
-- helicopteres
 - aerodynamique
-- moteurs-a-reaction
-- ingenierie-aeronautique
-- vitesse-maximale
+- moteur
 coverImage: ./images/quora.png
 ---
 

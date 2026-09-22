@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- l-antimatiere
-- invisibilite
-- couleurs
-- asymetrie-matiere-antimatiere
 - physique-theorique
-- physique-medicale
-- physique-chimie
-- visibilite
+- chimie
 - couleur
+- antimatiere
 coverImage: ./images/quora.png
 ---
 

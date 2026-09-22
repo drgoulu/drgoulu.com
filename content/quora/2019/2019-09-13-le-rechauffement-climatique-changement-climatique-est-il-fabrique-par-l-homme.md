@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - changement-climatique
-- debat
-- effet-de-serre
-- pensee-scientifique
-- sciences-de-l-atmosphere
-- anthropocene
-- gaz-a-effet-de-serre
 - rechauffement-climatique
-- crise-climatique
-- science-environnementale
+- atmosphere
+- debat
 coverImage: ./images/qimg-15cad9faae958aeaa48a7bb9e9c0dff1.jpg
 ---
 

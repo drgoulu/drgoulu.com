@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- la-lumiere-infrarouge
-- photons
-- spectre-electromagnetique
-- lumiere-physique
+- lumiere
+- materiaux
 - optique
-- fluorescence
-- spectroscopie-infrarouge
-- physique-des-materiaux
+- photons
 coverImage: ./images/qimg-6a3b64e77a92291b4e1c2cbf8f0b29fa.png
 ---
 

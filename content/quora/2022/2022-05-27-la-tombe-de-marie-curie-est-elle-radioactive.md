@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- marie-curie-scientifique
 - physique
 - personne
-- tombes
 - sciences
 - radioactivite
-- institut-curie
-- histoire-de-la-physique
-- histoire-des-sciences
 coverImage: ./images/quora.png
 ---
 

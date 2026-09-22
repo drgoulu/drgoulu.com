@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - informatique
-- pseudo-aleatoire
-- simulation
-- generateurs-de-nombres-aleatoires-rng
-- probabilite-statistiques
 - statistiques
-- simulation-par-ordinateur
 - sciences-informatiques
-- aleatoire
-- sciences-du-numerique
+- probabilite-statistiques
 coverImage: ./images/quora.png
 ---
 

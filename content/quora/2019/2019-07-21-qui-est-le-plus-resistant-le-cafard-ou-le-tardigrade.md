@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - biologie
-- cafards
 - animaux
-- comparaison
-- tardigrade
-- resistance-physique
-- resilience
-- anatomie-animale
-- zoologie
 - biologie-animale
+- comparaisons
+- zoologie
 coverImage: ./images/quora.png
 ---
 

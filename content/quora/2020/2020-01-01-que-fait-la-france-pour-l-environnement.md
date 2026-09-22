@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- france
-- ecologisme
-- lutte-contre-le-rechauffement
-- l-environnement
-- developpement-durable
-- engagement-ecologique
-- politiques-environnementales
 - environnement
-- action-pour-le-climat
-- protection-de-l-environnement
+- france
+- developpement-durable
+- climats
+- ecologisme
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- naine-blanche-corps-stellaire
-- le-soleil
 - astronomie
-- geante-rouge
-- evolution-stellaire
-- astrophysique-theorique
 - astrophysique
-- physique-stellaire
-- astronomie-et-astrophysique
+- soleil
+- astrophysique-theorique
 coverImage: ./images/qimg-40e98ca189079f0928617539f147607f.png
 ---
 

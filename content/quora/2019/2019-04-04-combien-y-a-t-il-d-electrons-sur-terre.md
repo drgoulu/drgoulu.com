@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- terre-planete
-- electrons-libres
-- electron
-- la-terre
-- electrons
-- sciences-et-technologies
-- planete-terre
-- physique-chimie
+- terre
+- planetes
+- technologies
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - relations-internationales
-- alain-bauer
-- groenland-danemark
-- l-europe
-- geographie-politique
+- geographie
+- europe
 - geopolitique
-- danemark
-- groenland
-- diplomatie-et-relation-internationale
-- relations-internationales-europeennes
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- le-soleil
 - astronomie
-- cendres-poudre
-- brulures-et-combustion
-- corps-celestes
-- combustion
 - astrophysique
+- soleil
 - etoiles-corps-celestes
-- astronomy
 coverImage: ./images/quora.png
 ---
 

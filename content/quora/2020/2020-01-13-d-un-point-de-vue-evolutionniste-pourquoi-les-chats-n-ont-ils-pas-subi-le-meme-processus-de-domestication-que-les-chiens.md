@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- evolution
+- processus
 - animaux
-- chats
-- evolution-processus
 - biologie-animale
 - comportement-animal
-- chiens
-- domestication
-- evolution-animale
-- domestication-animale
 coverImage: ./images/quora.png
 ---
 

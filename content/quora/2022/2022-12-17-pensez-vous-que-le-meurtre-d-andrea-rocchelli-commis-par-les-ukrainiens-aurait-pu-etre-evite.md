@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- personnalites
+- droit
 - guerre
+- personnalites
+- homme
 - ukraine
-- journalisme
-- droits-de-l-homme
-- responsabilite
-- conflits-geopolitiques
-- evenement-historique
-- journalistes
 coverImage: ./images/quora.png
 ---
 

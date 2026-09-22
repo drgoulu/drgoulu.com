@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- univers
+- cosmologie
+- theorie
 - physique-theorique
 - espace
-- cosmologie
-- l-univers
-- hypotheses-scientifiques
-- univers-observable
-- origine-de-l-univers
-- theorie
-- bord-de-l-univers
-- enigmes-de-l-univers
 coverImage: ./images/quora.png
 ---
 

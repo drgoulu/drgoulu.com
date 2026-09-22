@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- etoiles-corps-celestes
-- le-soleil-astronomie
-- systeme-solaire
-- exploration-de-l-univers
-- science-spatiale
 - astrophysique
-- l-univers-astronomie
-- etoiles
-- le-systeme-solaire
+- univers
+- systeme-solaire
+- science-spatiale
 coverImage: ./images/qimg-846723c711d8f91dbc14aceebd6b9db5.png
 ---
 

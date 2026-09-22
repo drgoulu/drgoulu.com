@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
 - securite
-- voyage-international
 - israel
-- l-instabilite-politique
-- conseils-pour-les-vacances
-- pays-dangereux
-- tourisme-guide-touristique
-- instabilite
-- recommandations-de-voyage
+- conseils
+- voyage-international
 coverImage: ./images/quora.png
 ---
 

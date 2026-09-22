@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - psychologie
-- opinions
+- opinion
 - communication
-- influence-sociale
-- pensee-critique
-- la-persuasion
 - opinion-personnelle
 - psychologie-cognitive
-- esprit-critique
 coverImage: ./images/quora.png
 ---
 

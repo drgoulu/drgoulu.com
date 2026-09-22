@@ -8,11 +8,8 @@ categories:
 tags:
 - physique
 - appareils-electroniques
-- cable
 - electricite
 - accelerateurs-de-particules
-- potentiel-electrique
-- cables-et-fils
 - electronique
 coverImage: ./images/quora.png
 ---

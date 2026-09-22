@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- philosophie
 - mathematiques
 - nombres
-- division-par-zero
-- infini-mathematiques
-- le-zero
-- notation-mathematique
-- nombres-complexes
-- constantes-mathematiques
-- equations-mathematiques
-- philosophie-des-mathematiques
+- equations
+- infini
 coverImage: ./images/quora.png
 ---
 

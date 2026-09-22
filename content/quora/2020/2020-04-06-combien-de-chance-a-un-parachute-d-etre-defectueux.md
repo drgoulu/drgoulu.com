@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - securite
-- defaut
-- saut-en-parachute
-- probabilites-statistiques
-- risque
-- taux-de-defaillance
-- parachutes
-- parachutisme
-- securite-personnelle
+- risques
 - probabilite
+- securite-personnelle
+- probabilites-statistiques
 coverImage: ./images/quora.png
 ---
 

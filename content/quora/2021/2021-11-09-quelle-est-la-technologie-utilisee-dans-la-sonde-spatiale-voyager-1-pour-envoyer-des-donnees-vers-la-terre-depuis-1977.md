@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
 - exploration-spatiale
-- telecommunications
-- voyager-1-sonde-spatiale
-- histoire-de-l-astronautique
-- transmission-de-donnees
 - technologie-spatiale
 - voyage-spatial
-- sonde-spatiale
-- communications-spatiales
-- transmission-des-donnees
+- astronautique
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- decalage-vers-le-rouge
-- expansion-de-l-univers
-- distance-physique-et-mathematiques
+- astrophysique
+- mathematiques
 - cosmologie
 - galaxies
-- universum
-- theorie-cosmologique
-- astronomie-et-astrophysique
-- galaxies-astronomie
 coverImage: ./images/quora.png
 ---
 

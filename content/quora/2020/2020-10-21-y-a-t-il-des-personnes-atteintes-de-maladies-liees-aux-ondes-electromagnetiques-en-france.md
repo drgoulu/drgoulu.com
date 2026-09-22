@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sante
 - france
-- ondes-electromagnetiques
 - sante-publique
-- groupes
-- maladie
-- les-personnes
-- risques-pour-la-sante
-- conditions-medicales-et-maladies
-- champs-electromagnetiques
+- risques
+- personne
 coverImage: ./images/quora.png
 ---
 

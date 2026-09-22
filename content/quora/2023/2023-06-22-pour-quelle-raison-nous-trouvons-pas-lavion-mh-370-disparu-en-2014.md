@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- malaysia-airlines
-- enquetes-sur-les-accidents-davion
-- avions
-- mysteres
-- evenements-d-actualite
-- boeing-777
-- accidents-et-incidents-d-aviation
 - aviation
+- mysteres
+- avions
+- evenement
 coverImage: ./images/quora.png
 ---
 

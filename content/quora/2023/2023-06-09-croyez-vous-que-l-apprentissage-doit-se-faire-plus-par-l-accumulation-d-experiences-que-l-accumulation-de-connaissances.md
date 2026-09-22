@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- education
-- experiences
-- apprentissage
-- connaissances
-- philosophie-de-l-education
+- sciences
+- philosophie
 - experience
+- education
 - enseignement
-- pedagogie
-- apprentissage-informel
-- sciences-de-l-education
 coverImage: ./images/quora.png
 ---
 

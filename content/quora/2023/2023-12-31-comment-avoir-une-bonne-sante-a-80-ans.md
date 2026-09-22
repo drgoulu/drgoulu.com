@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
 - sante
-- les-seniors
+- conseils
 - vieillissement
-- conseils-nutritionnels
-- bien-etre
-- activite-physique
-- sante-des-personnes-agees
-- personnes-agees
-- sante-et-activite-physique
-- conseils-de-sante
+- activite
 coverImage: ./images/quora.png
 ---
 

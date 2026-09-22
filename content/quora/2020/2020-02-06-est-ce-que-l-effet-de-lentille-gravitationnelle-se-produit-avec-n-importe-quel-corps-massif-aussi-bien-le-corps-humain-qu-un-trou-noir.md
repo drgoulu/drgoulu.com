@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- corps-humains
 - astronomie
-- trous-noirs
-- lentille-gravitationnelle
-- gravitation
-- flexion-gravitationnelle-de-la-lumiere
 - astrophysique
-- relativite
 - physique-theorique
+- relativite
 coverImage: ./images/quora.png
 ---
 

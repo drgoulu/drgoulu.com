@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
 - philosophie
-- comprehension
-- nature-de-la-vie-humaine
-- l-univers
-- metaphysique
-- philosophie-de-la-cosmologie
-- la-philosophie-des-sciences
-- la-philosophie
-- philosophie-et-science
-- philosophie-des-sciences
+- univers
+- cosmologie
+- nature
 coverImage: ./images/quora.png
 ---
 

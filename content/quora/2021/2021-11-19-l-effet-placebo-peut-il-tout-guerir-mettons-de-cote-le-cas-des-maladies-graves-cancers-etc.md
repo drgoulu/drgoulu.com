@@ -7,13 +7,9 @@ categories:
 - Quora
 tags:
 - psychologie
-- guerison
 - sante
-- placebos
 - recherche-scientifique
-- effets-placebo-sante
-- medecine-humaine
-- etudes-de-recherche-medicale
+- etudes
 - recherche-medicale
 coverImage: ./images/quora.png
 ---

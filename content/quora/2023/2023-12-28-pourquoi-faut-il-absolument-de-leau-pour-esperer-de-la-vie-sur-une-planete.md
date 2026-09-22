@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- sciences-de-la-nature
+- sciences
+- univers
+- vie
+- nature
 - eau
-- extraterrestres
-- astrobiologie
-- sciences-de-la-vie
-- planetes-habitables
-- vie-extraterrestre
-- conditions-de-vie
-- univers-et-extraterrestres
 coverImage: ./images/quora.png
 ---
 

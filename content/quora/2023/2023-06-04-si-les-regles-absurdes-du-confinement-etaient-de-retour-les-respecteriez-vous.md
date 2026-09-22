@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- comportement-humain
+- vie
+- sante
 - societe
-- restrictions
-- sante-et-securite-publiques
-- crise-sanitaire
-- regles-et-reglementations
-- covid-19-coronavirus
+- comportement-humain
 - comportement
-- confinement
-- vie-en-societe
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- difficultes-de-communication
-- explications
-- divers-publics
-- culture-scientifique
-- communication-mediatique
-- communication-humaine
+- communication
 - explications-scientifiques
-- communication-scientifique
+- explications
 coverImage: ./images/quora.png
 ---
 

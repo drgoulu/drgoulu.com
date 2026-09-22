@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- argent
 - sociologie
 - culture
 - richesse
-- perspectives-economiques
-- niveau-de-vie
-- differences-culturelles
+- argent
 - economie-mondiale
-- culture-science-sociale
-- comparaisons-culturelles
 coverImage: ./images/quora.png
 ---
 

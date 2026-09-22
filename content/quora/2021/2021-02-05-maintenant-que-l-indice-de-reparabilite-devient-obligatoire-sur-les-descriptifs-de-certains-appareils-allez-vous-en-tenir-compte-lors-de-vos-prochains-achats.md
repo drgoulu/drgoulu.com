@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- droit
 - consommation
-- appareils-electroniques
+- comportement
 - durabilite
-- comportement-du-consommateur
-- reparable
-- mode-de-consommation
-- droits-des-consommateurs
-- objets-electroniques
-- appareils-electriques
+- consommateur
 coverImage: ./images/quora.png
 ---
 

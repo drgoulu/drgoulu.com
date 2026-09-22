@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
+- sciences
+- technologies
 - elon-musk
-- post-humanisme
-- futurologie
-- immortalite
-- singularite-technologique
-- biotechnologie-medicale
-- transhumanisme
-- technologie-et-innovation
-- les-biotechnologies
+- innovation
+- biotechnologie
 coverImage: ./images/quora.png
 ---
 

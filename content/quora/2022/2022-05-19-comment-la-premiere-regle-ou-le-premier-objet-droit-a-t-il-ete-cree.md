@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - philosophie
-- question-existentielle
+- univers
+- origines
 - creation
-- metaphysique
-- l-origine-de-l-univers
-- question-philosophique
-- la-creation-de-l-univers
-- idee-philosophique
-- philosophique
-- origine-de-l-univers
+- question-existentielle
 coverImage: ./images/quora.png
 ---
 

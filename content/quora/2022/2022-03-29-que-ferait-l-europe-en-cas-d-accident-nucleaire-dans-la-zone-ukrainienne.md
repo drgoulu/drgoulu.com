@@ -6,15 +6,10 @@ draft: false
 categories:
 - Comment
 tags:
-- ukraine
 - risque-et-risques
-- l-europe
-- fleuves
-- prevention
-- consequences
+- europe
+- ukraine
 - catastrophes-nucleaires
-- mer-mediterranee
-- accident-nucleaire
 - catastrophes-environnementales
 coverImage: ./images/quora.png
 ---

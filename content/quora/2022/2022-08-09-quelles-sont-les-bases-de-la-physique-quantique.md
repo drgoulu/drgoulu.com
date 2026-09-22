@@ -8,11 +8,7 @@ categories:
 tags:
 - physique
 - sciences
-- concepts-majeurs
-- mecanique-quantique
-- principes-fondamentaux
 - physique-theorique
-- theories-quantiques
 - physique-mathematique
 - physique-quantique
 coverImage: ./images/quora.png

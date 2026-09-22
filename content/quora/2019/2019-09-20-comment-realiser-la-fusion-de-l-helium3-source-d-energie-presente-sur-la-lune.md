@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- energie-renouvelable
-- helium-3
-- lune-astronomie
-- recherche-scientifique
 - astronomie
 - energie
-- energie-alternative
-- helium
+- recherche-scientifique
+- energie-renouvelable
 coverImage: ./images/quora.png
 ---
 

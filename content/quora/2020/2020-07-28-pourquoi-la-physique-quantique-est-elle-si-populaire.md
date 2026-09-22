@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- popularite-sur-quora
-- originalite
-- notoriete
-- popularite
+- quora
 - physique-quantique
-- viralite
-- popularite-sur-internet
-- popularite-sociale
+- internet
 coverImage: ./images/quora.png
 ---
 

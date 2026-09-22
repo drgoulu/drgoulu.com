@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- le-soleil
-- avenir-de-l-humanite
-- fin-du-monde
-- evolution-stellaire
+- histoire
 - cosmologie
-- l-humanite
-- histoire-de-l-humanite
-- le-soleil-astronomie
+- humanite
+- soleil
 coverImage: ./images/quora.png
 ---
 

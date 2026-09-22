@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - chute-libre
-- flottabilite
-- immersion
-- mecanique-des-fluides
+- mecanique
+- fluides
 - densite
-- vitesse-de-liberation
-- les-fluides
-- fluidite
-- densite-physique
 coverImage: ./images/quora.png
 ---
 

@@ -9,13 +9,8 @@ tags:
 - opinion-personnelle
 - sciences
 - opinion
-- kilogramme-unite-si
 - mesure
-- systeme-international-d-unites
-- opinions
-- kg
-- science-physique
-- physics
+- physique
 coverImage: ./images/quora.png
 ---
 

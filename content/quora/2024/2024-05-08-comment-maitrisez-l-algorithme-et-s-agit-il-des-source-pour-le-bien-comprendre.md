@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - informatique
-- apprentissage
-- comprehension
-- recherche-d-information
+- recherche
+- information
 - algorithmes
 - sciences-informatiques
-- apprentissage-informel
-- l-informatique
-- sources-d-information
 coverImage: ./images/quora.png
 ---
 

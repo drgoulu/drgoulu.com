@@ -7,15 +7,10 @@ categories:
 - Combien
 tags:
 - politique
-- anarchie
-- ideologies-politiques
-- opinion-politique
-- sociologie-politique
+- opinion
+- sociologie
 - sciences-politiques
-- analyse-politique
-- idees-politiques
-- positions-politiques
-- opinions-politiques
+- analyse
 coverImage: ./images/qimg-c52d6124c8aeb6fe98d15ef77f6810f4.jpg
 ---
 

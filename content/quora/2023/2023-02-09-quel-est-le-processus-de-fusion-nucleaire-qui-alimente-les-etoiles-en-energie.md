@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
+- sciences
 - astronomie
-- processus
-- energie-physique
-- etoiles-corps-celestes
-- science-physique
 - astrophysique
-- etoiles
-- la-physique
+- energie
 coverImage: ./images/qimg-535c83f1c80808242ce2628322132173.jpg
 ---
 

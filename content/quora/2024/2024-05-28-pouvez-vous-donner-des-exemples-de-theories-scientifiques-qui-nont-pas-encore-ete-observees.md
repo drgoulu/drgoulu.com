@@ -9,11 +9,8 @@ tags:
 - sciences
 - theorie
 - recherche-scientifique
-- observation
-- hypotheses
-- explications-scientifiques
-- observation-scientifique
 - theorie-scientifique
+- observation
 coverImage: ./images/quora.png
 ---
 

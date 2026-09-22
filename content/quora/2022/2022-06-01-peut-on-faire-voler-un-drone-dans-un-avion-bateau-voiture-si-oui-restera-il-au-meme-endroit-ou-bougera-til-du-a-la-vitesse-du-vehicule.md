@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- drones
-- science-et-technologie
+- sciences
+- technologies
 - vitesse
-- transports
-- aviation
-- mouvement-physique
-- navigation
-- avions
+- mouvement
 coverImage: ./images/quora.png
 ---
 

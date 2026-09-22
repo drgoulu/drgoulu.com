@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- aimants
 - sciences
+- vie
+- chimie
 - electromagnetisme
-- duree-de-vie
-- force-magnetique
-- science-physique
-- magnetisme
-- sciences-technologies
-- physique-chimie
 coverImage: ./images/quora.png
 ---
 

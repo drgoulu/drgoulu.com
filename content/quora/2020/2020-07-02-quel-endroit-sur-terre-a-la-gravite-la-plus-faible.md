@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- terre-planete
-- geographie
-- la-gravite
-- la-terre
-- science-physique
-- geographie-physique
-- gravite-physique
-- planete-terre
+- sciences
+- terre
+- planetes
 - gravite
 coverImage: ./images/quora.png
 ---

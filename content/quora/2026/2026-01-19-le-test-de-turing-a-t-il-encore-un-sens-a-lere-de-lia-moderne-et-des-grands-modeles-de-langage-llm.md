@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - informatique
-- recherche-sur-l-ia
-- philosophie-de-l-esprit
-- technologie-moderne
+- recherche
 - intelligence-artificielle
-- test-de-turing
-- test-d-intelligence
-- machine-de-turing
-- intelligence-artificielle-generale
+- technologie-moderne
+- philosophie-de-l-esprit
 coverImage: ./images/quora.png
 ---
 

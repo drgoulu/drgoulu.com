@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- science-et-technologie
-- machine
-- autonomie
+- sciences
 - energie
+- technologies
 - gravite
-- ingenierie
-- les-machines
-- force-physique
 coverImage: ./images/quora.png
 ---
 

@@ -7,13 +7,9 @@ categories:
 - Pourquoi
 tags:
 - psychologie
-- experience-de-mort-imminente
+- experience
 - conscience
-- temoignage
 - spiritualite
-- phenomene-paranormal
-- vie-apres-la-mort
-- experiences
 - psychologie-humaine
 coverImage: ./images/quora.png
 ---

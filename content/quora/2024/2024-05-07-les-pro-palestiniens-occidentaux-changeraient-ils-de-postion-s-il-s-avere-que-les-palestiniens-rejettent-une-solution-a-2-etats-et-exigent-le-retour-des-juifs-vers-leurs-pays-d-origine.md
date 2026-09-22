@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - opinion-publique
-- conflit-israelo-palestinien
 - politique-internationale
-- palestine
-- la-solution-a-deux-etats
-- droit-de-retour-palestinien
 - israel
-- palestiniens
+- conflit-israelo-palestinien
+- palestine
 coverImage: ./images/quora.png
 ---
 

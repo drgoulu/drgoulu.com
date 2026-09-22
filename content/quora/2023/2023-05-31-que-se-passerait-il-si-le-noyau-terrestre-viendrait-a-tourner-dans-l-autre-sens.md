@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- question-hypothetique
-- terre-planete
-- consequences
-- geophysique
-- noyau-terrestre
-- rotation-physique
-- sciences-de-la-terre
-- hypotheses
-- rotation-de-la-terre
-- planete-terre
+- physique
+- sciences
+- terre
+- planetes
+- rotation
 coverImage: ./images/quora.png
 ---
 

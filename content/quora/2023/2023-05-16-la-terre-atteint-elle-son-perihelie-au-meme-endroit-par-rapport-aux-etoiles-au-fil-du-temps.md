@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- terre-planete
-- mouvement
-- etoiles-corps-celestes
+- terre
+- planetes
 - systeme-solaire
-- orbites-des-satellites
-- etoiles
-- orbite-de-la-terre
-- dynamique-du-systeme-solaire
-- le-systeme-solaire
+- etoiles-corps-celestes
 coverImage: ./images/qimg-7701b8c8f88875a512e1f23ca5de147e.png
 ---
 

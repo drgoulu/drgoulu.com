@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- champ-gravitationnel
-- astrophysics
-- science-fondamentale
-- relativite-generale
-- gravitation-quantique
-- gravitation
-- theories-de-la-gravitation
+- theorie
 - physique-theorique
-- forces-fondamentales
+- gravitation
+- relativite-generale
 coverImage: ./images/quora.png
 ---
 

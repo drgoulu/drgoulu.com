@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - relations-internationales
-- russie
-- volodymyr-zelenskyi-homme-politique-ukrainien
-- vladimir-poutine
-- personnalite-publique
-- occident
-- ukraine
 - politique-internationale
+- russie
+- ukraine
+- vladimir-poutine
 coverImage: ./images/quora.png
 ---
 

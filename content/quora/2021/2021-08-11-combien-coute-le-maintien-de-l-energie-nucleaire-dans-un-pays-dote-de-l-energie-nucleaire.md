@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- prix
 - energie
-- cout
-- technologie-nucleaire
-- l-utilisation-d-energie
-- les-couts
+- economie
 - energie-nucleaire
-- energie-economie
-- industrie-nucleaire
+- prix
+- cout
 coverImage: ./images/quora.png
 ---
 

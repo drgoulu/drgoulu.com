@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- 1i-oumuamua
-- corps-celestes
 - sciences
 - astronomie
-- voyage-interstellaire
-- acceleration-physique
-- objets-astronomiques
 - astrophysique
-- astronomie-et-astrophysique
+- objets-astronomiques
 coverImage: ./images/qimg-d8405df9a848337ae02f7233207f1f8b.gif
 ---
 

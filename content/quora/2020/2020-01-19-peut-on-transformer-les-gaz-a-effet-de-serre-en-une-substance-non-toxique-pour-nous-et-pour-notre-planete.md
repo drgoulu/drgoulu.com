@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - sciences
+- environnement
 - changement-climatique
-- nouvelles-technologies
-- durabilite
-- effet-de-serre
-- pollution
 - chimie
-- l-environnement
-- gaz-a-effet-de-serre
 - rechauffement-climatique
 coverImage: ./images/quora.png
 ---

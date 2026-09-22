@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- france
-- science-fiction-genre
-- nouvelles-technologies
+- physique
+- sciences
 - astronomie
-- spheres-de-dyson
-- energie-physique
-- exploration-spatiale
-- science-et-technologie
-- energie-solaire
-- technologie-spatiale
+- energie
+- technologies
 coverImage: ./images/quora.png
 ---
 

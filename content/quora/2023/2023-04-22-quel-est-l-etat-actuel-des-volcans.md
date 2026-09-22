@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- activite
-- volcans
-- sciences-de-la-nature
+- sciences
+- environnement
+- nature
 - geologie
 - catastrophes-naturelles
-- eruptions-volcaniques
-- dangers-naturels
-- volcanologie
-- sciences-de-l-environnement
 coverImage: ./images/quora.png
 ---
 

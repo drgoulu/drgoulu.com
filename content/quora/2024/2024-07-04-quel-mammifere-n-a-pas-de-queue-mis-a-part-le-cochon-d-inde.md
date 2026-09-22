@@ -8,14 +8,9 @@ categories:
 tags:
 - biologie
 - animaux
-- queue
-- cochon-d-inde
-- mammiferes
-- l-anatomie-animale
+- anatomie-animale
 - zoologie
 - biologie-animale
-- animaux-terrestres
-- anatomie-animale
 coverImage: ./images/quora.png
 ---
 

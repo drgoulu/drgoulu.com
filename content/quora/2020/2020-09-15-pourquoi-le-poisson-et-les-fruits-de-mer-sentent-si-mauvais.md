@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- alimentation
 - biologie
-- cuisine
-- sentir-et-odeurs
-- fruits-de-mer
 - chimie
 - biologie-animale
-- odeur-corporelle
-- odeurs
+- alimentation
+- mer
 coverImage: ./images/quora.png
 ---
 

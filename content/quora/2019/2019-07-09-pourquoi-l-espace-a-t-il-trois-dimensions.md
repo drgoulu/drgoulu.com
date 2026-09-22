@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- question-existentielle
-- espace
+- philosophie
 - cosmologie
-- geometrie
-- question-philosophique
-- dimensions-physique
 - physique-theorique
-- philosophie-de-la-cosmologie
-- espace-dimension
+- espace
 coverImage: ./images/qimg-b81707cc06b349231795e946aa8a054f.png
 ---
 

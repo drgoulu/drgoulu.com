@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
 - biologie
-- creatures
-- terre-planete
-- evolution-processus
-- question-de-classification
-- faune
-- etres-vivants
-- vie-biologique
-- biologie-animale
-- organismes-vivants
+- terre
+- planetes
+- processus
 coverImage: ./images/quora.png
 ---
 

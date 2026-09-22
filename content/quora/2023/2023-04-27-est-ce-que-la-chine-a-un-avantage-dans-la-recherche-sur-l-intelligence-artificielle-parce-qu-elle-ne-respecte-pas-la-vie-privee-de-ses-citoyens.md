@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- vie-privee
-- chine
-- intelligence-artificielle
-- surveillance
+- sciences
+- technologies
+- droit
 - recherche
-- surveillance-du-public
-- droit-a-la-vie-privee
+- intelligence-artificielle
 coverImage: ./images/quora.png
 ---
 

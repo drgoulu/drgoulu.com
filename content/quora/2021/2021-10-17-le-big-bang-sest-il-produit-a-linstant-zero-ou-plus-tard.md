@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- physique-theorique
+- physique
+- philosophie
+- univers
 - cosmologie
-- expansion-de-l-univers
-- temps-physique
-- origine-de-l-univers
-- theorie-scientifique
-- cosmologie-du-big-bang
-- philosophie-de-la-cosmologie
-- age-de-l-univers
-- l-origine-de-l-univers
+- physique-theorique
 coverImage: ./images/quora.png
 ---
 

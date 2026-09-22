@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- le-lune
-- crateres-d-impact
-- exploration-spatiale
 - systeme-solaire
-- geologie
-- lune-astronomie
+- exploration-spatiale
 - science-spatiale
-- geologie-planetaire
+- lune
 coverImage: ./images/quora.png
 ---
 

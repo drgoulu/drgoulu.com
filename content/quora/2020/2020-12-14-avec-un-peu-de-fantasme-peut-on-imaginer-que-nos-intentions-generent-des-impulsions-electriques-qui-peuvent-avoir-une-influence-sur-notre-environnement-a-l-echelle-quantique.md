@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- conscience
-- l-environnement
-- mecanique-quantique
 - theorie
-- impulsions-electriques
-- intentions
-- theories-de-tout-physique
-- conscience-humaine
-- effets-quantiques
+- environnement
+- conscience
 - physique-quantique
+- mecanique-quantique
 coverImage: ./images/quora.png
 ---
 

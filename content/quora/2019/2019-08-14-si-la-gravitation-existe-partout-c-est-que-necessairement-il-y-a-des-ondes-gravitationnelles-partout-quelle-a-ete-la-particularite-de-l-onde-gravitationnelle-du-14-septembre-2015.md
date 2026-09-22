@@ -7,12 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- evenement-historique
 - astronomie
-- decouvertes-scientifiques
-- gravitation
-- cosmologie
 - astrophysique
+- cosmologie
 - relativite
 coverImage: ./images/quora.png
 ---

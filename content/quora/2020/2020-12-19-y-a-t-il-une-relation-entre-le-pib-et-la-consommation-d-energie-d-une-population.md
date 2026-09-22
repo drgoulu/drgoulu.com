@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- economies
+- economie
 - population
 - energie
-- pib
 - etude-scientifique
-- correlations
-- consommation-d-energie
-- recherche-economique
-- economie-et-population
-- econometrie
+- consommation
 coverImage: ./images/quora.png
 ---
 

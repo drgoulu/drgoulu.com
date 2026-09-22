@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- biologie
-- animaux
-- evolution-processus
-- symetrie
-- sciences-de-la-nature
-- anatomie-animale
-- biologie-animale
+- sciences
 - evolution
-- anatomie
-- sciences-du-vivant
+- biologie
+- nature
+- processus
 coverImage: ./images/quora.png
 ---
 

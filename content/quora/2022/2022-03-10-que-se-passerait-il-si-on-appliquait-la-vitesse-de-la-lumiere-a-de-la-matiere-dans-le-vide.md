@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- vide-espace
-- vitesse-de-la-lumiere
-- theorie-de-la-relativite
-- matiere-physique
-- relativite-restreinte
-- theories-physiques
+- theorie
 - physique-theorique
-- relativite-physique
-- physique-classique
+- relativite
+- lumiere
 coverImage: ./images/quora.png
 ---
 

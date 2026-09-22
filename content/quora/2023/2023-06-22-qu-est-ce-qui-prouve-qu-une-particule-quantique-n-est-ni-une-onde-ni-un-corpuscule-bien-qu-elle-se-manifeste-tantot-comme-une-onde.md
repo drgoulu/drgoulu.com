@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- dualite-onde-particule
-- mecanique-quantique
-- dualite
 - physique-theorique
-- phenomenes-quantiques
-- mesure-quantique
-- theories-quantiques
 - physique-quantique
+- mecanique-quantique
 coverImage: ./images/quora.png
 ---
 

@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - astronomie
-- communaute-scientifique
-- matiere-noire
-- theorie-scientifique
-- histoire-de-la-physique
-- cosmologie
+- histoire
 - astrophysique
-- physique-theorique
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

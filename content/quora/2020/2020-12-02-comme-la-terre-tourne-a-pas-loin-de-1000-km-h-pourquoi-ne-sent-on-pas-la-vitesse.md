@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- vitesse
-- terre-planete
-- perception-sensorielle-et-spatiale
-- sciences-de-la-nature
-- vitesse-de-rotation-de-la-terre
-- rotation-planetes
-- rotation-de-la-terre
-- vitesse-de-rotation
+- sciences
+- terre
+- planetes
+- nature
 coverImage: ./images/quora.png
 ---
 

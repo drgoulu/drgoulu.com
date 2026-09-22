@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - philosophie
-- evolution-processus
-- les-insectes
-- reproduction-animale
-- cycles-de-vie
+- evolution
 - biologie
+- processus
 - evolution-biologique-des-especes
-- la-reproduction
 coverImage: ./images/quora.png
 ---
 

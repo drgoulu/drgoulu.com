@@ -10,11 +10,7 @@ tags:
 - question-existentielle
 - realite
 - metaphysique
-- verite-ultime
-- la-realite
-- la-philosophie
-- philosophie-et-science
-- realite-ultime
+- sciences
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- espace
-- terre-planete
-- voyage-dans-le-temps
-- mouvement
 - theorie
-- relativite-physique
+- terre
 - physique-theorique
-- espace-temps
 coverImage: ./images/quora.png
 ---
 

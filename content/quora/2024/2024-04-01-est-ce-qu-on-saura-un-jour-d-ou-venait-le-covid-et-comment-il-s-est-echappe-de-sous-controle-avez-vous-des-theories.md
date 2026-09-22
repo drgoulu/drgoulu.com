@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sante
 - sante-publique
 - theories-du-complot
 - virus
-- pandemie
-- origine-de-covid-19
-- crise-sanitaire
 - virologie
-- epidemiologie
-- sante-et-securite-publiques
 coverImage: ./images/quora.png
 ---
 

@@ -8,13 +8,9 @@ categories:
 tags:
 - impots
 - suisse
-- economie-sociale
 - comparaison-entre-pays-europeens
 - pays-scandinaves
 - protection-sociale
-- systemes-sociaux
-- etudes-scandinaves
-- la-protection-sociale
 coverImage: ./images/quora.png
 ---
 

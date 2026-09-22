@@ -9,11 +9,7 @@ tags:
 - physique
 - mouvement-circulaire
 - force-centrifuge
-- differences-fondamentales
-- cinematique
-- force-physique
-- physique-appliquee
-- centrifugation
+- force
 - force-centripete
 coverImage: ./images/qimg-eab84c9ce68a787e1451e606b1bb5323.jpg
 ---

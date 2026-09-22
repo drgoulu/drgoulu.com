@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- taille-de-vaisseaux
-- peur-d-asteroides
 - systeme-solaire
 - science-spatiale
-- collisions-d-asteroides
-- la-ceinture-d-asteroides
 - asteroides
-- extraction-d-asteroides
+- collisions-d-asteroides
 coverImage: ./images/quora.png
 ---
 

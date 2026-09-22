@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- objets-inconnus
-- vitesse-de-la-lumiere
-- optique
-- theorie-de-la-relativite
-- illusion-d-optique
+- theorie
 - physique-theorique
-- relativite-physique
-- optique-quantique
-- physique-mathematique
+- relativite
+- lumiere
 coverImage: ./images/quora.png
 ---
 

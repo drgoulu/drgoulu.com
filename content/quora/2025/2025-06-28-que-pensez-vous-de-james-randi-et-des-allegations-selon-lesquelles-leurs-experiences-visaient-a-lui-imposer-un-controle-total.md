@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- spiritualite
 - controverses
-- magie-paranormal
-- le-surnaturel
-- occultisme
-- james-randi-magicien
-- le-paranormal
-- science-et-spiritualite
-- opinion-controversee
+- paranormal
 - phenomene-paranormal
-- sciences-spirituelles-et-spiritisme
 coverImage: ./images/quora.png
 ---
 

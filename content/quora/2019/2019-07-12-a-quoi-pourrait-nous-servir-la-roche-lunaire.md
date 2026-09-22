@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- astronomie
 - recherche-scientifique
-- lune-astronomie
-- ressources-naturelles
 - exploration-spatiale
-- geologie
 - science-spatiale
-- ressources-planetaire
-- conquete-spatiale
-- tourisme-spatial
-- geologie-planetaire
+- lune
 coverImage: ./images/quora.png
 ---
 

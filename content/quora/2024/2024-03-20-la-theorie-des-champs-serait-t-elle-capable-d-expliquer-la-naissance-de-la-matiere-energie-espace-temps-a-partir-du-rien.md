@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espace-temps
-- theorie-quantique-des-champs
-- exploration-de-l-univers
+- univers
 - cosmologie
-- matiere-physique
 - physique-theorique
-- origine-de-l-univers
-- cosmologie-physique
-- theorie-des-champs
+- origines
 coverImage: ./images/quora.png
 ---
 

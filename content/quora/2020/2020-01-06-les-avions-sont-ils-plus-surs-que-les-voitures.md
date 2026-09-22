@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - securite
+- risques
 - comparaisons
-- transport
-- voitures
 - statistiques
-- accidents
-- aviation
-- risque
-- securite-personnelle
 - transports
 coverImage: ./images/quora.png
 ---

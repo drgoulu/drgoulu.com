@@ -8,13 +8,9 @@ categories:
 tags:
 - physique
 - energie-renouvelable
-- infrason
 - electricite
-- energie-alimentation
-- technologie-d-energie-propre
 - energie-alternative
-- energie-physique
-- les-infrasons
+- energie
 coverImage: ./images/quora.png
 ---
 

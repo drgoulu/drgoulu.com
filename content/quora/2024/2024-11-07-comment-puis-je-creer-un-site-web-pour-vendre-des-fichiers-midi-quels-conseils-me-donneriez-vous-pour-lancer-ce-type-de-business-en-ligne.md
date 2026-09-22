@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - musique
-- commerce-en-ligne
 - fichiers
-- noms-de-domaine
 - developpement-web
-- strategie-d-affaires
-- midi
-- hebergement-web
-- creation-sites-internet
-- e-commerce
+- strategie
+- affaires
 coverImage: ./images/quora.png
 ---
 

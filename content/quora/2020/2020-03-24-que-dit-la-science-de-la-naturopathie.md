@@ -7,12 +7,9 @@ categories:
 - Quora
 tags:
 - medecine
-- naturopathie
 - medecine-de-complement-et-alternative
-- sante-naturelle
 - medecine-non-conventionnelle
 - medecine-traditionnelle
-- medecine-naturopathique
 - medecine-naturelle
 coverImage: ./images/quora.png
 ---

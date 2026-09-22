@@ -9,11 +9,8 @@ tags:
 - astronomie
 - espace
 - exploration-spatiale
-- les-telescopes
-- observatoires-spatiaux
-- technologie-spatiale
-- voyage-spatial
 - science-spatiale
+- technologie-spatiale
 coverImage: ./images/quora.png
 ---
 

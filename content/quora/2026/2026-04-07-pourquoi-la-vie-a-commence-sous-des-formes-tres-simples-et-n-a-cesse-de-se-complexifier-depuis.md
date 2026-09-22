@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- biologie
-- la-vie
-- sciences-de-la-vie
+- sciences
 - evolution
-- theorie-de-l-evolution
-- vie-biologique
-- origine-de-la-vie
-- science-biologique
-- evolution-biologie
-- biologie-de-l-evolution
+- biologie
+- theorie
+- vie
 coverImage: ./images/qimg-e2cf72956757d319de37bf42aab01dac.jpg
 ---
 

@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- raison
-- preuves
-- connaissances
 - epistemologie
-- verite
-- demonstration-philosophique
-- connaitre
-- philosophie-des-sciences
+- connaissances
 - preuve
 coverImage: ./images/qimg-33793184b0259b41b28896ca84d3cba3.jpg
 ---

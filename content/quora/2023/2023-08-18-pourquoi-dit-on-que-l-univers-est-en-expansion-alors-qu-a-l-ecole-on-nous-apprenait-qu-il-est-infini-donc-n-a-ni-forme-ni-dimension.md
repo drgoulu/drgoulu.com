@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- infini-mathematiques
-- expansion-de-l-univers
 - astronomie
-- cosmologie-du-big-bang
-- l-univers
-- cosmologie
-- physique-theorique
-- origine-de-l-univers
+- mathematiques
+- univers
 coverImage: ./images/quora.png
 ---
 

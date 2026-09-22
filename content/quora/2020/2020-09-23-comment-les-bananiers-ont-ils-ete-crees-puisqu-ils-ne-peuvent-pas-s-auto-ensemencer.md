@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - agriculture
-- bananes
 - botanique
-- reproduction-asexuee
-- fruits
-- les-plantes
-- culture-des-plantes
+- plantes
+- culture
 - sciences-vegetales
-- propagation-des-plantes
-- plant-science
 coverImage: ./images/qimg-21ff55891eea0443c4574890c9ecad92.jpg
 ---
 

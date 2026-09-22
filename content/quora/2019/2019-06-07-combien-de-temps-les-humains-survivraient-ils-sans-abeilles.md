@@ -6,15 +6,11 @@ draft: false
 categories:
 - Combien
 tags:
-- sciences-de-la-vie
+- sciences
+- vie
 - agriculture
 - environnement
-- abeilles
-- pollinisation
 - biodiversite
-- principe-de-survie
-- taux-de-survie
-- techniques-de-survie
 coverImage: ./images/quora.png
 ---
 

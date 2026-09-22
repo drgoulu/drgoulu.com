@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sante
-- croyance
-- guerison
-- magnetisme
-- medecine-de-complement-et-alternative
-- opinions-et-croyances
-- therapies
+- opinion
 - medecine
-- medecine-non-conventionnelle
+- croyance
+- magnetisme
 coverImage: ./images/quora.png
 ---
 

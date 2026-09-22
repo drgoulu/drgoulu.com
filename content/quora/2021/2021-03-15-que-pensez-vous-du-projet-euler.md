@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- informatique
 - mathematiques
-- project-euler-site-internet
-- communaute
-- resolution-de-problemes
+- informatique
+- programmation
+- probleme
 - algorithmes
-- defis-de-programmation
-- communautes-en-ligne
-- enigmes-mathematiques
-- resolution-de-problemes-en-mathematiques
 coverImage: ./images/quora.png
 ---
 

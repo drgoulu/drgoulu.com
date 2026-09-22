@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- nombres-naturels
-- theorie-des-nombres-premiers
-- sequences-de-nombres
-- formules-mathematiques
-- equations-mathematiques
-- theorie-analytique-des-nombres
-- theorie-des-nombres
-- theoreme-des-nombres-premiers
+- theorie
+- nombres
+- nombres-premiers
+- equations
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Combien
 tags:
 - physique
-- saut
-- impact
-- terre-planete
-- calcul
-- force-de-gravite
-- mouvement-physique
-- effet
+- terre
+- planetes
 - gravite
+- mouvement
 coverImage: ./images/quora.png
 ---
 

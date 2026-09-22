@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- changement
-- societe
 - temps
-- generation-actuelle
+- societe
 - sociologie
-- societe-moderne
-- generations
-- generation
+- changement
 coverImage: ./images/quora.png
 ---
 

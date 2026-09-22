@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espace
-- l-univers-astronomie
+- sciences
 - astronomie
-- vide-espace
-- cosmologie
-- univers-observable
 - astrophysique
-- science-physique
-- l-univers
+- univers
 coverImage: ./images/quora.png
 ---
 

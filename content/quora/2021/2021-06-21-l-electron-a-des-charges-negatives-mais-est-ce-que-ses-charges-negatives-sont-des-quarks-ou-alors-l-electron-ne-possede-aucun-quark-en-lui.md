@@ -7,10 +7,7 @@ categories:
 - Quora
 tags:
 - physique
-- leptons-du-modele-standard
 - quarks
-- interaction-elementaire
-- la-charge-electrique
 - electrons
 - structure-atomique
 - modele-standard-de-la-physique-des-particules

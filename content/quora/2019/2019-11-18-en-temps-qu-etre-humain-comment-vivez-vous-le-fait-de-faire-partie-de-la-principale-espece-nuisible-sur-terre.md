@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - philosophie
-- impact-environnemental
-- conscience-de-soi
-- anthropocentrisme
-- espece-humaine
-- responsabilite-personnelle
+- planetes
 - ecologie
-- influence-de-l-homme-sur-la-planete
-- moralite-humaine
-- responsabilite
+- homme
+- espece-humaine
 coverImage: ./images/quora.png
 ---
 

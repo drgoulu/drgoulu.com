@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - opinion-publique
-- voitures-electriques
-- pollution
 - transports
-- sante-environnementale
+- pollution
+- air
 - transition-energetique
-- industrie-automobile
-- mobilite
-- moteurs-a-essence
-- pollution-de-l-air
 coverImage: ./images/quora.png
 ---
 

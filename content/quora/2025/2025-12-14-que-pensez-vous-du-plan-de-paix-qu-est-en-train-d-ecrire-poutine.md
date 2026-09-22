@@ -8,14 +8,9 @@ categories:
 tags:
 - relations-internationales
 - russie
-- vladimir-poutine
+- conflits
 - ukraine
 - geopolitique
-- conflit-en-ukraine
-- accords-de-paix
-- diplomatie
-- guerre-russie-ukraine
-- poutine
 coverImage: ./images/quora.png
 ---
 

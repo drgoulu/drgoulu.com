@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- societe
 - sciences
-- virologie
+- environnement
+- societe
 - debat
-- l-environnement
-- anthropocene
-- solutions
-- causes
 - virus
-- sante-environnementale
 coverImage: ./images/quora.png
 ---
 

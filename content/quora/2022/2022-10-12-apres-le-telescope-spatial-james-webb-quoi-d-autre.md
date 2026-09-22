@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- telescope-spatial-james-webb
+- astrophysique
 - exploration-spatiale
-- instruments-de-mesure
-- observatoires-spatiaux
-- technologie-spatiale
-- astronomie-et-astrophysique
 - science-spatiale
-- missions-spatiales
-- recherche-spatiale
+- technologie-spatiale
 coverImage: ./images/qimg-cacdba8253d89dd3ee0cb8562c84295d.jpg
 ---
 

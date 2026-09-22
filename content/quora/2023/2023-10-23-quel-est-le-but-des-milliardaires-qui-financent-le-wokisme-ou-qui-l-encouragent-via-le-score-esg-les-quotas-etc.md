@@ -6,14 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- finance
 - politique
 - societe
-- quota
-- milliardaires
-- ideologies
-- gouvernance
 - sciences-politiques
+- finance
 - ideologies-politiques
 coverImage: ./images/quora.png
 ---

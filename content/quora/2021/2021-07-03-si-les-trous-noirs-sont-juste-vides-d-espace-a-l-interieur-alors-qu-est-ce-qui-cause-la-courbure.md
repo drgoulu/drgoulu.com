@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
-- espace
 - astronomie
-- courbure-de-l-espace
-- gravitation
-- theorie-cosmologique
 - astrophysique
 - relativite
-- astrophysique-relativiste
+- espace
 coverImage: ./images/quora.png
 ---
 

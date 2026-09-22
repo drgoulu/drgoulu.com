@@ -8,12 +8,9 @@ categories:
 tags:
 - psychologie
 - changement
-- amelioration-personnelle
 - philosophie
-- livres-de-developpement-personnel
-- psychologie-de-l-auto-amelioration
-- developpement-de-la-personne
-- epanouissement-personnel
+- developpement
+- personne
 coverImage: ./images/quora.png
 ---
 

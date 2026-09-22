@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- sciences
+- environnement
 - changement-climatique
 - durabilite
-- le-dioxyde-de-carbone
-- stockage-d-energie
-- gaz-a-effet-de-serre
-- sciences-de-l-environnement
-- compensation-carbone
-- emissions-de-carbone
-- le-changement-climatique
-- science-de-l-environnement
+- emission
 coverImage: ./images/quora.png
 ---
 

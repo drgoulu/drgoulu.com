@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- tenseurs-mathematiques
-- courbure-de-l-espace
-- geometrie-differentielle
-- espace-temps
+- mathematiques
 - gravitation
-- equations-de-terrain-d-einstein
-- relativite-generale
 - physique-mathematique
-- tenseurs
+- relativite-generale
 coverImage: ./images/quora.png
 ---
 

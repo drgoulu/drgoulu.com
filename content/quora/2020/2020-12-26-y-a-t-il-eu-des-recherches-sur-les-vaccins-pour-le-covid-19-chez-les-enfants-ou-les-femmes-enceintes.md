@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- enfants
+- recherche-scientifique
 - sante-publique
 - covid-19-2019-2020
-- recherche-scientifique
-- vaccins
-- femmes-enceintes
-- essais-de-vaccins-covid-19
-- vaccination
 - recherche-medicale
-- recherche-clinique
+- vaccins
 coverImage: ./images/quora.png
 ---
 

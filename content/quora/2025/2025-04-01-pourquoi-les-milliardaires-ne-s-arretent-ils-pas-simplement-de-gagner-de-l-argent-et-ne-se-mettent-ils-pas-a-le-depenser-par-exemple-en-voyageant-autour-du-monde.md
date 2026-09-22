@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - philosophie
-- argent
-- voyage
-- milliardaires
-- consommation
 - societe
-- richesse
+- voyage
 - ethique
-- questions-sociales
-- debats-de-societe
+- debat
 coverImage: ./images/quora.png
 ---
 

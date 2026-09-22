@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- transport
-- comparaisons-de-prix
-- compagnies-aeriennes
-- econome
-- les-trains
-- economie-des-transports
-- prix-des-billets-d-avion
-- tarifs-du-train
-- compagnies-aeriennes-low-cost
-- comparaison-des-prix
+- transports
+- comparaisons
+- prix
+- trains
+- economie
 coverImage: ./images/quora.png
 ---
 

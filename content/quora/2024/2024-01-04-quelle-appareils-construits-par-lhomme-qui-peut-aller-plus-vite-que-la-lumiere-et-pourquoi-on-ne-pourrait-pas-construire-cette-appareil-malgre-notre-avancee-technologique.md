@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- science-fiction-genre
-- voyage-dans-l-espace
-- science-et-technologie
-- vitesse-de-la-lumiere
-- theorie-de-la-relativite
-- voyage-interstellaire
-- relativite-physique
-- voyage-spatial
+- sciences
+- theorie
+- relativite
+- espace
 coverImage: ./images/quora.png
 ---
 

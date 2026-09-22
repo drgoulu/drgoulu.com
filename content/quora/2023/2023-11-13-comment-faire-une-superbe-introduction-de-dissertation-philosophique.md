@@ -7,12 +7,10 @@ categories:
 - Comment
 tags:
 - philosophie
-- conseils-d-ecriture
-- introductions
-- redaction-etudiant
+- conseils
 - ecriture
+- introductions
 - redaction
-- conseils-pour-ecriture
 coverImage: ./images/quora.png
 ---
 

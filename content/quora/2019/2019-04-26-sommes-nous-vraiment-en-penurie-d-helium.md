@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- penurie
-- gaz
-- ressources-naturelles
-- helium
 - chimie
-- elements-chimiques-specifiques
-- l-helium
+- ressources-naturelles
 - elements-chimiques
-- ressource-naturelle
+- gaz
 coverImage: ./images/quora.png
 ---
 

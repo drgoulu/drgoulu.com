@@ -8,13 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
+- planetes
 - espace
-- techniques-de-survie
-- exploration-spatiale
 - systeme-solaire
-- planetes-du-systeme-solaire
-- voyage-spatial
-- astrobiologie
 coverImage: ./images/quora.png
 ---
 

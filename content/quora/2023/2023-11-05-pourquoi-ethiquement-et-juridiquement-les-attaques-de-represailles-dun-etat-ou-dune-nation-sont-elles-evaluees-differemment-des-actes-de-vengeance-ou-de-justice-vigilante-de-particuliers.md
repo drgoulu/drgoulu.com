@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - droit
-- l-ethique
-- vigilantes
+- ethique
 - justice
-- individus
-- represailles
-- nation
 - etat
 - justice-penale
-- justice-vigilante
 coverImage: ./images/quora.png
 ---
 

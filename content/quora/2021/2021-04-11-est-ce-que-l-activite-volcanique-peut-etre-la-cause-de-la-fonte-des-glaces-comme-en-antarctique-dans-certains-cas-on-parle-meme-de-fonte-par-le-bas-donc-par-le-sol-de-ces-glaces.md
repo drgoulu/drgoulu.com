@@ -9,11 +9,8 @@ tags:
 - changement-climatique
 - geologie
 - volcans
-- antarctique
 - climatologie
-- eruption-volcanique
 - rechauffement-climatique
-- glaciologie
 coverImage: ./images/quora.png
 ---
 

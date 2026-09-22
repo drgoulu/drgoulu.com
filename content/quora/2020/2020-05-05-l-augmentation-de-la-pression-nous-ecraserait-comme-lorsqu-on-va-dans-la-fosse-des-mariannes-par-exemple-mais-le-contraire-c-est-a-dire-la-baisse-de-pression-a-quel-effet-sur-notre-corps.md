@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- physiologie-humaine
-- sciences-de-la-nature
-- fosse-des-mariannes
-- plongee-sous-marine
-- pression-atmospherique
-- sciences-de-la-vie
-- physiologie
-- sciences-de-la-sante
-- pression-de-l-eau
-- pression-de-l-air
+- sciences
+- vie
+- sante
+- nature
+- eau
 coverImage: ./images/quora.png
 ---
 

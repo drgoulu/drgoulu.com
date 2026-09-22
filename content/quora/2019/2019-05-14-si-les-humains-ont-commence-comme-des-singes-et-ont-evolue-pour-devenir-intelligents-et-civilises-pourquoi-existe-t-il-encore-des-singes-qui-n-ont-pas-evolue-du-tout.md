@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- intelligence-humaine
 - evolution
-- singes
-- primates
-- civilisation
+- biologie
+- theorie
 - evolution-humaine
-- homo-sapiens
-- theorie-de-l-evolution
-- origines-humaines
-- biologie-de-l-evolution
+- intelligence-humaine
 coverImage: ./images/quora.png
 ---
 

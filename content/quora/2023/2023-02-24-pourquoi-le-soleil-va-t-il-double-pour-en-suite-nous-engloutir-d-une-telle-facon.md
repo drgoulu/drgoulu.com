@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- le-soleil
-- scenarios-de-fin-du-monde
-- geante-rouge
-- systeme-solaire
-- evolution-stellaire
 - astrophysique
-- fin-du-monde
-- physique-stellaire
+- systeme-solaire
+- soleil
+- evolution-stellaire
 coverImage: ./images/quora.png
 ---
 

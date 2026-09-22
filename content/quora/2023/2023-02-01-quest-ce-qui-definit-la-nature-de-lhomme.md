@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- condition-humaine
-- humanisme
-- question-philosophique
+- psychologie
 - anthropologie
+- question-philosophique
 - nature-humaine
-- philosophie-ethique
-- philosophie-et-psychologie
-- anthropologie-philosophie
-- la-nature-humaine
 coverImage: ./images/quora.png
 ---
 

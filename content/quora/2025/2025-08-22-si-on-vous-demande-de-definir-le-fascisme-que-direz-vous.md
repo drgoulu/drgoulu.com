@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- fascisme
 - definition
-- ideologies
-- systemes-politiques
-- idees-politiques
-- definitions-des-termes
-- ideologie-politique
-- concepts-politiques
 - ideologies-politiques
+- systemes-politiques
+- ideologies
 coverImage: ./images/quora.png
 ---
 

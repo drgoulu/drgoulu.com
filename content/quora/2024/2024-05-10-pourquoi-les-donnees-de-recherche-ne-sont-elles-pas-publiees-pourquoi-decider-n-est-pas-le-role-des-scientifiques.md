@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sciences
-- roles-et-responsabilites
-- publication-academique
 - recherche-scientifique
+- recherche
+- ethique
 - scientifiques
-- ecriture-scientifique
-- ethique-de-recherche
-- donnees-scientifiques
-- communication-scientifique
 coverImage: ./images/quora.png
 ---
 

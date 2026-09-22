@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- air
-- micro-organismes
-- solides
+- mecanique
 - proprietes
-- mecanique-des-fluides
-- microscopie
-- liquides
-- organismes
-- proprietes-physiques
+- fluides
+- air
 coverImage: ./images/quora.png
 ---
 

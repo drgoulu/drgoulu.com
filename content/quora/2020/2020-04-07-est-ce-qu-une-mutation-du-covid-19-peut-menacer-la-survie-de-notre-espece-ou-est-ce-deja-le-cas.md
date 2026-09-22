@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sante-publique
-- covid-19-2019-2020
-- evolution-processus
-- risques-de-disparition-de-l-espece-humaine
-- pandemie
-- virus
+- evolution
+- processus
 - evolution-humaine
-- virologie
-- epidemiologie
-- mutation-des-virus
+- sante-publique
+- risques
 coverImage: ./images/quora.png
 ---
 

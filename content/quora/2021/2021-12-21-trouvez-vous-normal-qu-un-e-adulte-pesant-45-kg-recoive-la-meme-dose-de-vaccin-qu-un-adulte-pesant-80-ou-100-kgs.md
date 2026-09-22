@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sante
-- poids-corporel
-- vaccins
-- adulte
 - medecine
-- poids
-- questions-de-sante
-- vaccination
-- poids-physique
+- questions
+- vaccins
 coverImage: ./images/quora.png
 ---
 

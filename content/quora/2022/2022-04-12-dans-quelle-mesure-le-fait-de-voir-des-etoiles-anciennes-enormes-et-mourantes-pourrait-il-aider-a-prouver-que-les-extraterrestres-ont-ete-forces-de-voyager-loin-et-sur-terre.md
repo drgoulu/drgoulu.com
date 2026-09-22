@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- l-univers
-- etoiles-corps-celestes
-- preuves-scientifiques
-- voyage-interstellaire
-- extraterrestres
-- theorie-scientifique
 - astrophysique
-- vie-extraterrestre
-- l-univers-astronomie
+- univers
+- etoiles-corps-celestes
+- theorie-scientifique
 coverImage: ./images/quora.png
 ---
 

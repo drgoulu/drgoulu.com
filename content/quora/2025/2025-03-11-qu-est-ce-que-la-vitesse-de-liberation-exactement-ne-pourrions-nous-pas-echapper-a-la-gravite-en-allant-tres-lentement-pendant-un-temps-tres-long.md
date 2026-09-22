@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espace
 - astronomie
-- vitesse-de-liberation
-- l-attraction-gravitationnelle
+- espace
 - gravite
-- mouvement-physique
-- champ-gravitationnel
-- force-de-gravite
-- gravite-physique
+- mouvement
 coverImage: ./images/quora.png
 ---
 

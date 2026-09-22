@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - philosophie
-- catastrophes-environnementales
-- scenarios-hypothetiques
-- comportement-animal
-- intelligence-humaine
-- evolution-biologie
-- protection-de-l-environnement
+- evolution
+- biologie
+- environnement
 - hypotheses
-- intelligence-animale
 coverImage: ./images/qimg-a75f8b430b5454ea88be7965a21bb602.jpg
 ---
 

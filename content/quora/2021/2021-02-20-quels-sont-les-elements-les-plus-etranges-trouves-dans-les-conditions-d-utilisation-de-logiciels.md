@@ -9,13 +9,8 @@ tags:
 - droit
 - logiciels-et-applications
 - curiosite
-- clauses-de-contrat
-- conditions-d-utilisation
 - faits-etranges
-- faits-interessants
 - droit-des-contrats
-- la-curiosite
-- termes-et-conditions
 coverImage: ./images/quora.png
 ---
 

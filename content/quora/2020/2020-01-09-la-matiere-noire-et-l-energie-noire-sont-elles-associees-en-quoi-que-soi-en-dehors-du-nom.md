@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- l-univers-astronomie
 - astronomie
-- energie-noire
-- cosmologie
-- univers-observable
-- matiere-noire
 - astrophysique
-- l-univers
-- cosmologie-physique
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - chimie
-- la-nature
-- question-de-classification
-- produits-naturels
 - nature
-- produits-chimiques-commodites
-- natural-habitat
-- environmental
-- science-nature
+- questions
 - classification
+- science-nature
 coverImage: ./images/quora.png
 ---
 

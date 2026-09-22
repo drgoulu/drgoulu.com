@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- cadres-conversationnels
-- test-de-turing
-- chatbot
-- modele-statistique
-- intelligence-artificielle
 - informatique
-- chatgpt
-- philosophie-des-sciences
+- intelligence-artificielle
 - sciences-informatiques
 coverImage: ./images/quora.png
 ---

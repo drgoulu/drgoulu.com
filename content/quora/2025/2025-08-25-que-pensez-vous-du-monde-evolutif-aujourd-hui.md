@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- question-existentielle
+- evolution
+- vie
 - monde
 - societe
-- evolution-processus
-- changements-sociaux
-- evolution-humaine
-- vie-en-societe
-- philosophie-et-psychologie
-- evolution
 coverImage: ./images/quora.png
 ---
 

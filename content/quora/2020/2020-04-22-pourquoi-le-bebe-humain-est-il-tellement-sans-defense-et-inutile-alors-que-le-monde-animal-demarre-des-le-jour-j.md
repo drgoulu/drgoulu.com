@@ -8,14 +8,9 @@ categories:
 tags:
 - biologie
 - animaux
-- developpement
-- enfance
-- dependance
-- comparaison-des-animaux
-- bebes
 - biologie-humaine
 - biologie-animale
-- developpement-infantile
+- comparaisons
 coverImage: ./images/quora.png
 ---
 

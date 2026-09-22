@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- l-extinction-humaine
-- catastrophes
-- demographie-mondiale
-- surpopulation
-- ethique-philosophie-morale
-- avenir-de-l-humanite
-- philosophie-des-sciences
+- humanite
 - demographie
+- catastrophes
 coverImage: ./images/qimg-d5d7fc778b62b8f350339d3d12b41acd.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- environnement
+- nature
+- especes
 - ecologie
-- tigre
-- faune
-- animaux-en-voie-de-disparition
 - extinction
-- protection-de-l-environnement
-- biodiversite
-- extinction-des-especes
-- conservation-de-la-faune
-- conservation-de-la-nature
 coverImage: ./images/quora.png
 ---
 

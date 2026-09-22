@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- femmes-dans-les-disciplines-stem
-- reconnaissance
 - invention
 - decouvertes-scientifiques
-- histoire-de-la-science
-- femmes-et-sciences
-- les-femmes-dans-la-science
-- histoire-des-sciences
+- sciences
+- femme
 coverImage: ./images/qimg-b6eb2f0f854bd98c6eb6ecd5dbf18ecf.jpg
 ---
 

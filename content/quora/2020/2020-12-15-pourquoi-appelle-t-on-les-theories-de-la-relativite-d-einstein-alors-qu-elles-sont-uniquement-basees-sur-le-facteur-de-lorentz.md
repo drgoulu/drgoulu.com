@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- facteur-de-lorentz
-- histoire-des-sciences
-- albert-einstein-physicien
-- relativite-restreinte
-- physiciens
-- theorie-de-la-relativite
-- relativite-generale
-- relativite-physique
-- histoire-de-la-physique
+- sciences
+- histoire
+- theorie
+- relativite
 coverImage: ./images/quora.png
 ---
 

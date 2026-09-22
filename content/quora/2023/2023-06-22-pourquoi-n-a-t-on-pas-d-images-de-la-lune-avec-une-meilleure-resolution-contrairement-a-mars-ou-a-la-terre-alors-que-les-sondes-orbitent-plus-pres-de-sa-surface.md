@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
+- terre
+- planetes
 - exploration-spatiale
-- terre-planete
-- resolution-d-ecran
-- lune-astronomie
-- images-spatiales
-- sonde-spatiale
-- mars-planete
+- lune
 coverImage: ./images/quora.png
 ---
 

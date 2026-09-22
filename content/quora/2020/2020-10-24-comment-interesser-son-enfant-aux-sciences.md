@@ -8,14 +8,9 @@ categories:
 tags:
 - education
 - sciences
-- developpement-infantile
-- stimulation-intellectuelle
-- l-education-des-enfants
-- passionne-de-sciences
-- enseignement-de-la-science
-- education-de-la-petite-enfance
-- developpement-de-l-enfant
-- enseignement-des-sciences
+- enfants
+- enseignement
+- developpement
 coverImage: ./images/quora.png
 ---
 

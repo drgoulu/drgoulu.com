@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- bien-et-mal
+- psychologie
 - especes
 - conscience
-- comportement-animal
-- morale
-- ethique-philosophie-morale
 - espece-humaine
-- moralite
-- philosophie-et-psychologie
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - sante-publique
 - theories-du-complot
+- maladies-infectieuses
 - vaccins
 - pandemie
-- maladies-infectieuses
-- conspirations
-- organisation-mondiale-de-la-sante-oms
-- vaccination
-- covid-19-theories-du-complot-coronavirus
-- sante-mondiale
 coverImage: ./images/quora.png
 ---
 

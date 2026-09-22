@@ -8,13 +8,9 @@ categories:
 tags:
 - biologie
 - animaux
-- agriculture
-- vaches
-- genetique
-- elevage-bovin
-- zoologie
 - biologie-animale
-- elevage-animal
+- zoologie
+- genetique
 coverImage: ./images/quora.png
 ---
 

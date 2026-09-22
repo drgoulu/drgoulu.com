@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- pays
-- neutralite-politique-et-militaire
-- premiere-guerre-mondiale
+- monde
 - suisse
-- politique-etrangere
-- guerres
-- la-seconde-guerre-mondiale
-- histoire-de-la-suisse
-- histoire-du-monde
+- guerre
+- pays
 coverImage: ./images/qimg-291d3505a54e57d7608084cd788adb63.jpg
 ---
 

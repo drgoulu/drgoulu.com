@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- experience
-- le-soleil
 - sciences
-- energie-gratuite
-- soleil-artificiel
-- energie-physique
-- science-physique
-- energie-solaire
-- energie-infinie
+- energie
+- soleil
+- experience
 coverImage: ./images/qimg-2e7741e553171b4bbe6241c5846f044e.jpg
 ---
 

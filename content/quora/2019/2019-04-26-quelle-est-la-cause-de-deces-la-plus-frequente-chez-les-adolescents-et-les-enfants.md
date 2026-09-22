@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- enfants
 - sante-publique
-- adolescents-et-adolescence
-- deces
+- enfants
 - mortalite
-- tranches-d-age
-- adolescents-tout
-- causes-de-deces
-- mortalite-infantile
-- enfants-et-adolescents
+- deces
+- causes
 coverImage: ./images/quora.png
 ---
 

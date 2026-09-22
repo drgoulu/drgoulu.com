@@ -10,12 +10,7 @@ tags:
 - crimes
 - criminologie
 - meurtre
-- reinsertion-sociale
 - criminels
-- psychologie-criminelle
-- rehabilitation
-- reeducation
-- psychologie-judiciaire
 coverImage: ./images/quora.png
 ---
 

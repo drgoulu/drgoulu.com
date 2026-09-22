@@ -10,11 +10,7 @@ tags:
 - pandemie
 - efficacite
 - mesures-politiques
-- couvre-feu
-- propagation-des-coronavirus
 - crise-sanitaire
-- sante-public
-- sante-publique-generale
 coverImage: ./images/qimg-036c9d4966dd406da1e9d5ed26b115be.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- question-philosophique
 - astronomie
-- expansion-de-l-espace-temps
-- creation-de-l-univers
-- theorie-cosmologique
+- univers
 - cosmologie
-- univers-en-expansion
-- expansion-de-l-univers
-- la-creation-de-l-univers
+- creation
 coverImage: ./images/quora.png
 ---
 

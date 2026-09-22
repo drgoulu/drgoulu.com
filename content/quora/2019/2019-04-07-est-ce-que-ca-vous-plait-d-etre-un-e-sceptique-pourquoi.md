@@ -8,14 +8,9 @@ categories:
 tags:
 - philosophie
 - croyance
-- personnalite
-- raison
-- scepticisme
-- doute
-- attitude
+- personnalites
 - philosophique
-- sceptiques
-- croyances
+- scepticisme
 coverImage: ./images/quora.png
 ---
 

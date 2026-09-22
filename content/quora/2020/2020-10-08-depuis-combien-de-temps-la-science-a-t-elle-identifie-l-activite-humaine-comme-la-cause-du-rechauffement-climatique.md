@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - changement-climatique
-- activite-humaine
-- ecologisme
-- climatologie
-- rechauffement-climatique-anthropique
 - rechauffement-climatique
+- climatologie
 - crise-climatique
-- actions-humaines
-- le-rechauffement-climatique
 coverImage: ./images/quora.png
 ---
 

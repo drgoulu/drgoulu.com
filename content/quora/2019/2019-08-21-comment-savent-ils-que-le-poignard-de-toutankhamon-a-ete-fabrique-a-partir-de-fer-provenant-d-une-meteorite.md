@@ -3,15 +3,11 @@ title: Comment savent-ils que le poignard de Toutankhamon a été fabriqué à p
 date: 2019-08-21
 draft: false
 tags:
-  - archeologie
-  - science-des-materiaux-et-ingenierie
-  - fer
-  - toutankhamon-pharaon
-  - egypte-ancienne
+  - sciences
+  - materiaux
+  - ingenierie
   - meteorites
-  - composition-chimique
-  - egyptologie
-  - analyse-physico-chimique
+  - archeologie
 categories:
   - Comment
 slug: comment-savent-ils-que-le-poignard-de-toutankhamon-a-ete-fabrique-a-partir-de-fer-provenant-d-une-meteorite

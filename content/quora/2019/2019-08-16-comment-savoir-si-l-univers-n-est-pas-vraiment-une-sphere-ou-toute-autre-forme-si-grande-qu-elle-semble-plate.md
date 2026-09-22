@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
+- univers
 - cosmologie
-- l-univers
 - theorie
-- forme-de-la-terre
-- hypotheses-scientifiques
-- univers-observable
-- la-physique
-- age-de-l-univers
-- bord-de-l-univers
+- terre
 coverImage: ./images/quora.png
 ---
 

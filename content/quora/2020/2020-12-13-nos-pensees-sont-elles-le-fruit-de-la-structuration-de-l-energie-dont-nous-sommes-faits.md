@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- conscience
-- corps-humain
-- pensee
 - energie
+- conscience
 - metaphysique
-- nature-humaine
-- pensee-philosophique
-- philosophie-et-science
-- conscience-humaine
 coverImage: ./images/quora.png
 ---
 

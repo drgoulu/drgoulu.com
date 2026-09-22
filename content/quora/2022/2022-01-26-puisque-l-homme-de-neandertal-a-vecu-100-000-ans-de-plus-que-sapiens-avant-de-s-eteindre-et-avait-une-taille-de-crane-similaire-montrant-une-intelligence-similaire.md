@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- homme-de-neandertal
+- evolution
+- technologies
 - anthropologie
 - homo-sapiens
-- technologies
-- evolution
-- humains
-- neandertaliens
-- archeologie
 coverImage: ./images/qimg-ac142ffcd6b424419490b47857201332.png
 ---
 

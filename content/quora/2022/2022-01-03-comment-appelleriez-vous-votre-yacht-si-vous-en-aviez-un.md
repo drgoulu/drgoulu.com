@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- recherche
+- questions
+- sondages
+- enquetes
 - question-sondage
-- loisirs
-- yachts
-- question-de-sondage
-- luxe
-- bateaux
-- question-d-enquete
-- questions-de-sondage-et-de-sondage-sur-quora
-- questions-de-recherche
-- loisir
 coverImage: ./images/qimg-6971fce788b8fb42f0bbee84cb59b3c6.jpg
 ---
 

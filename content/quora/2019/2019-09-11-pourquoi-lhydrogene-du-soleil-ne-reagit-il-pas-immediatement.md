@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- le-soleil
-- etoiles-corps-celestes
 - astronomie
-- temps-de-reaction
-- evolution-stellaire
-- hydrogene
-- duree-de-vie
 - astrophysique
+- vie
+- temps
 coverImage: ./images/quora.png
 ---
 

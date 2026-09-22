@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
+- monde
 - question-existentielle
-- inconnu
-- mystere
-- incomprehension
-- les-choses-mysterieuses
-- philosophie-des-sciences
-- mysteres-du-monde
-- l-inconnu
 - mysteres
 coverImage: ./images/quora.png
 ---

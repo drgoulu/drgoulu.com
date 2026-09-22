@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- histoire-des-sciences
+- sciences
 - astronomie
-- matiere-noire
-- rotation-physique
-- cosmologie
-- astrophysique
-- philosophie-de-la-physique
-- histoire-de-la-physique
+- histoire
+- philosophie
 coverImage: ./images/quora.png
 ---
 

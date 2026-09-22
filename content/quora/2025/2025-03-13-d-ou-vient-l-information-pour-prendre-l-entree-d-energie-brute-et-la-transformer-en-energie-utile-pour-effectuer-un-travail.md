@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- conversion-de-l-energie
 - energie
-- thermodynamique
-- travail-physique
-- mecanique-physique
+- mecanique
+- travail
 - sources-d-energie
-- energie-physique
-- transfert-d-energie
-- production-d-energie
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
 - politique
-- pays
-- relations-internationales
 - suisse
-- union-europeenne
-- construction-europeenne
-- histoire-de-la-suisse
-- expansion-de-l-ue
-- integration-europeenne
-- politique-europeenne
+- relations-internationales
+- pays
 coverImage: ./images/quora.png
 ---
 

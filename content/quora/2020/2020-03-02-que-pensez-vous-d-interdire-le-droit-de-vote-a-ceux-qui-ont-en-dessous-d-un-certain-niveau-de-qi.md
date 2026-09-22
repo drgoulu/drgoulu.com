@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- test-de-qi
-- exclusion-sociale
-- droit-public
-- electeur
-- elections
+- droit
 - democratie
+- elections
 - sciences-politiques
-- droit-de-vote
 coverImage: ./images/quora.png
 ---
 

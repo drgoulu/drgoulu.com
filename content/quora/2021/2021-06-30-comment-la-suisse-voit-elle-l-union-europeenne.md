@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- opinion-publique
-- relations-internationales
-- pays
 - suisse
-- union-europeenne
+- relations-internationales
+- opinion-publique
 - politique-internationale
-- image-publique
-- relations-exterieures-de-l-union-europeenne
-- politique-etrangere
-- relations-internationales-europeennes
+- pays
 coverImage: ./images/quora.png
 ---
 

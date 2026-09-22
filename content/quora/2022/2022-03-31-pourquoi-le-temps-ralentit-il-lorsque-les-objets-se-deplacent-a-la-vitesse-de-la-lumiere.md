@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- espace-temps
-- vitesse-de-la-lumiere
-- theorie-de-la-relativite
-- temps-physique
-- dilation-du-temps
-- relativite-restreinte
+- theorie
 - physique-theorique
-- relativite-physique
 - relativite
+- temps
 coverImage: ./images/quora.png
 ---
 

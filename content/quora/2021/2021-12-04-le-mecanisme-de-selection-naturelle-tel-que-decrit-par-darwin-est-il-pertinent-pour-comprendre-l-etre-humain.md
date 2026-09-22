@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- charles-darwin
-- selection-naturelle
-- etre-humain
-- biologie-de-l-evolution
-- anthropologie
-- homo-sapiens
+- evolution
 - biologie
-- darwin
-- theorie-de-l-evolution
+- theorie
+- anthropologie
 coverImage: ./images/quora.png
 ---
 

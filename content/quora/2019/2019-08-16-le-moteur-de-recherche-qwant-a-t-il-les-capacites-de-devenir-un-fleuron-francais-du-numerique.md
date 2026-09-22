@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - innovation
-- qwant
-- entreprises-francaises
-- moteurs-de-recherche
-- concurrence
-- industrie-de-la-technologie
-- secteurs-economiques
-- numerique
-- business-en-france
+- moteur
+- recherche
+- industrie
+- technologies
 coverImage: ./images/quora.png
 ---
 

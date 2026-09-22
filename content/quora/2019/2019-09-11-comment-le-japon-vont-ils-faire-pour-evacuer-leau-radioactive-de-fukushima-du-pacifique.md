@@ -10,7 +10,6 @@ tags:
 - pollution
 - catastrophes-nucleaires
 - radioactivite
-- fukushima
 - dechets-radioactifs
 coverImage: ./images/quora.png
 ---

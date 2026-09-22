@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- le-soleil
-- mercure
-- terre-planete
-- phenomenes-naturels
+- terre
+- planetes
 - systeme-solaire
-- venus-planete
-- eclipse-solaire
-- phenomenes-optiques
+- soleil
 coverImage: ./images/qimg-a4bf56c1864a229d653182152243da36.jpg
 ---
 

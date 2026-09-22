@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- science-fiction-genre
-- question-hypothetique
-- recherche-scientifique
-- machines-a-remonter-le-temps
 - theorie
-- voyage-dans-le-temps
-- hypotheses
-- recherche
-- etude-scientifique
+- recherche-scientifique
+- temps
+- voyage
 coverImage: ./images/quora.png
 ---
 

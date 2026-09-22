@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- relations-internationales
+- histoire
 - religion
-- l-europe
-- conflit-israelo-palestinien
-- jerusalem
-- geopolitique
-- histoire-d-israel
-- islam
+- relations-internationales
 - israel
-- conflits-au-moyen-orient
+- conflits
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- corps-humains
 - sciences
-- terre-planete
-- anomalies
-- gravitation
-- force-gravitationnelle
+- terre
+- planetes
 - relativite
-- anomalies-scientifiques
-- gravity
 coverImage: ./images/qimg-3d92b35c4c41b308c96ecabdd0e3a3ab.jpg
 ---
 

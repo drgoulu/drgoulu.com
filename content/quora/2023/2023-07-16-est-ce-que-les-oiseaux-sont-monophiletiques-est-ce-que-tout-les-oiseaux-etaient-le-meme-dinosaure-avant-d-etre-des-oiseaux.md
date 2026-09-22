@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- evolution
 - biologie
-- evolution-processus
-- oiseaux
-- dinosaures
-- paleontologie
-- phylogenetique
-- zoologie
+- processus
 - biologie-animale
-- taxonomie
-- evolution-biologie
+- paleontologie
 coverImage: ./images/quora.png
 ---
 

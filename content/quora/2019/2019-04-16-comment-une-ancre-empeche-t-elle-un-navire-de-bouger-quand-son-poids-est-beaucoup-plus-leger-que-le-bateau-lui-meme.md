@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- ancres
-- navigation-maritime
-- bateaux
-- flottabilite
-- force
 - mecanique
-- poids-physique
-- force-physique
-- ancre
+- force
+- poids
+- navigation-maritime
 coverImage: ./images/qimg-4b28effbbb9f4b735095c497d2462c9c.gif
 ---
 

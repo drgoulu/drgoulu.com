@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-militaire
-- la-seconde-guerre-mondiale
+- histoire
 - suisse
-- guerres-et-histoire-militaire
-- premiere-guerre-mondiale
-- histoire-de-la-suisse
-- neutralite-politique-et-militaire
-- guerre-mondiale
-- histoire-de-la-guerre
-- histoire-militaire-de-la-suisse
+- guerre
+- histoire-militaire
+- seconde-guerre-mondiale
 coverImage: ./images/quora.png
 ---
 

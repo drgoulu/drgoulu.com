@@ -7,11 +7,7 @@ categories:
 - Pourquoi
 tags:
 - finance
-- annees-1980
-- histoire-de-la-pensee-economique
-- evasion-fiscale
 - globalisation
-- fiscalite-internationale
 - paradis-fiscaux
 - fiscalite
 - histoire-economique

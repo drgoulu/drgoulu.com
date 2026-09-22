@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-nature
+- sciences
 - nature
-- cristallisation
-- flocons-de-neige
 - phenomenes-naturels
-- la-nature
 - cristaux
 - cristallographie
-- phenomene-naturel
-- science-de-la-nature
 coverImage: ./images/quora.png
 ---
 

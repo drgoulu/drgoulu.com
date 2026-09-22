@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sciences
-- nikola-tesla
-- la-tour-de-pise
-- electricite
-- histoire-des-inventions
+- histoire
 - ingenierie
-- inventeurs
-- invention-et-inventions
-- electrotechnique
+- invention
+- electricite
 coverImage: ./images/quora.png
 ---
 

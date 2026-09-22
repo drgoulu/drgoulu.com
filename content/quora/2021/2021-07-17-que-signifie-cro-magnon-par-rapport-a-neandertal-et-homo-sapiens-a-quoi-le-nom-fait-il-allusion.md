@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- homme-de-neandertal
-- anthropologie
-- cro-magnon-premiers-humains-europeens-modernes
-- homo-sapiens
+- humanite
 - evolution-humaine
+- anthropologie
 - paleontologie
-- histoire-de-l-humanite
-- neandertaliens
-- prehistoire
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
 - astronomie
-- annee-lumiere
-- etoiles-corps-celestes
-- instruments-de-mesure
-- distance-physique-et-mathematiques
-- science-spatiale
 - astrophysique
-- etoiles-astronomie
-- distance-physique
+- mathematiques
+- science-spatiale
 coverImage: ./images/quora.png
 ---
 

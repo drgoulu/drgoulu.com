@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- echec
-- l-univers
-- combinaison
+- univers
 - atomes
+- echec
 - theorie-du-jeu
-- jeu-d-echecs
-- analyse-combinatoire
-- combinaison-mathematique
-- echecs
 coverImage: ./images/quora.png
 ---
 

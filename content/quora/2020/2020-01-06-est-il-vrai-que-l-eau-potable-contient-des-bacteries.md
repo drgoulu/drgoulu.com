@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- eau
 - sante-publique
-- microbiologie
-- eau-potable
-- hygiene
 - sante-humaine
-- qualite-de-l-eau
-- infections-bacteriennes
-- bacterie
-- microbiologie-medicale
-- bacteriologie
+- qualite
+- microbiologie
 coverImage: ./images/quora.png
 ---
 

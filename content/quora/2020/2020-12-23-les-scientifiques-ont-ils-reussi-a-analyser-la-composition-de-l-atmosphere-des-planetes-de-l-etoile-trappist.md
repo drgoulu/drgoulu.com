@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - astronomie
-- trappist-1
-- recherche-scientifique
-- atmospheres-planetaires
-- etoiles
-- composition-chimique
 - astrophysique
-- exoplanetes
-- sciences-de-l-atmosphere
+- recherche-scientifique
+- etoiles
 coverImage: ./images/qimg-71bd0f43c9692805970ecfc4bf56c121.jpg
 ---
 

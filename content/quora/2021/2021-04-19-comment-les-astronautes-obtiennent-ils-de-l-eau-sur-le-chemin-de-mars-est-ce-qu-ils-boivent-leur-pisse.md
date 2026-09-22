@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- planetes
+- vie
+- espace
 - exploration-spatiale
-- eau
-- recyclage
-- astronautes
-- gestion-des-ressources-en-eau
-- mars-planete
-- vie-dans-l-espace
-- voyage-spatial-vers-mars
-- voyage-dans-l-espace
-- recyclage-de-l-eau
+- voyage
 coverImage: ./images/quora.png
 ---
 

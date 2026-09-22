@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- question-hypothetique
-- frondeur
-- mouvement-circulaire
-- vitesse-de-la-lumiere
-- relativite-restreinte
-- relativite-physique
+- sciences
 - physique-theorique
-- science-physique
-- physique-mathematique
+- relativite
+- lumiere
 coverImage: ./images/quora.png
 ---
 

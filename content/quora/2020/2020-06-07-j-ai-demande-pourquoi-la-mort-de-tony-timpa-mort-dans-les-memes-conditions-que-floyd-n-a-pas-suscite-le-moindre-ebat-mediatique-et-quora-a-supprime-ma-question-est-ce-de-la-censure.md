@@ -10,11 +10,7 @@ tags:
 - quora
 - plateformes-en-ligne
 - liberte-d-expression
-- george-floyd
 - censure
-- censure-sur-quora
-- medias-communication
-- la-liberte-d-expression
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- anthropologie
+- evolution
 - biologie
-- evolution-processus
+- processus
 - humanite
-- genetique
-- evolution-humaine
-- biologie-humaine
-- sciences-humaines
-- evolution-biologie
 coverImage: ./images/quora.png
 ---
 

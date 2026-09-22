@@ -9,13 +9,8 @@ tags:
 - theories-du-complot
 - mysteres
 - archeologie
-- objet-volant-non-identifie
-- monolithe
+- objets-volants-non-identifies
 - decouvertes
-- phenomenes-etranges
-- objets-insolites
-- mysteres-inexpliques
-- archeologie-antique
 coverImage: ./images/quora.png
 ---
 

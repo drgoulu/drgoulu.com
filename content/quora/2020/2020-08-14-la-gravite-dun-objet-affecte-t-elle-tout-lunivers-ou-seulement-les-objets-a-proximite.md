@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - astronomie
-- l-univers
-- champ-gravitationnel
-- gravite
-- cosmologie
-- force-physique
 - astrophysique
-- physique-theorique
-- force-gravitationnelle
+- univers
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

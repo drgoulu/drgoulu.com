@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- le-soleil-astronomie
 - sciences
-- papier
-- lumiere-du-soleil
-- velours
-- lune-satellite-naturel
-- reflexion-physique
-- lumiere-physique
+- astronomie
+- lumiere
+- soleil
 coverImage: ./images/quora.png
 ---
 

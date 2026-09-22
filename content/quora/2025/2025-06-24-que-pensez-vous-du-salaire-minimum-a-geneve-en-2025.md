@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- salaires-et-remunerations
+- vie
 - suisse
-- '2025'
-- ville-de-geneve
-- cout-de-la-vie-en-suisse
-- geneve-suisse
-- cout-de-la-vie
-- salaire-minimum
-- canton-de-geneve
+- cout
 - geneve
+- ville
 coverImage: ./images/quora.png
 ---
 

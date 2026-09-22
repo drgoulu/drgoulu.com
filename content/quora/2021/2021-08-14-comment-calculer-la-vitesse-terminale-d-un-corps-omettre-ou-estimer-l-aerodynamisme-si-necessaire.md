@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- vitesse-terminale
-- calcul
-- force-gravitationnelle
-- aerodynamique
-- mouvement-physique
-- force-de-trainee-physique
 - mecanique
-- calcul-applique
 - physique-mathematique
+- mouvement
+- calcul
 coverImage: ./images/quora.png
 ---
 

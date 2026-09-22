@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- sciences
+- histoire
 - informatique
-- alan-turing
 - calcul
-- machine-de-turing
-- histoire-de-l-informatique
-- science-de-l-informatique
-- informatique-theorique
-- technique-informatique
-- sciences-mathematiques-informatique
-- science-de-l-ordinateur
+- ordinateurs
 coverImage: ./images/quora.png
 ---
 

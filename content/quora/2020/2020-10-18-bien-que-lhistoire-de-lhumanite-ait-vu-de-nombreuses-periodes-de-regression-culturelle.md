@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- obscurantisme
-- changements-culturels
 - societe
-- histoire-des-idees
-- histoire-intellectuelle
-- societe-future
+- histoire
+- idees
 - evolution-culturelle
-- transformation-culturelle
 coverImage: ./images/quora.png
 ---
 

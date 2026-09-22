@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- astronomie
 - astrophysique
 - changement-climatique
-- le-soleil
-- grand-minimum-solaire
-- avenir-de-l-humanite
-- climatologie
-- sciences-de-l-atmosphere
-- l-avenir-de-la-science
-- crise-climatique
-- le-soleil-astronomie
+- humanite
 coverImage: ./images/qimg-6b8b8573ca3082b74b5bf57e901955b2.png
 ---
 

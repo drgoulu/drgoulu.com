@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- histoire-des-sciences
-- lasers
-- nikola-tesla
-- accelerateurs-de-particules
-- prix-nobel
+- sciences
+- histoire
 - decouvertes-scientifiques
-- rayons-x-radiation-electro-magnetique
 - electrons
-- rayons-cosmiques
+- nikola-tesla
 coverImage: ./images/quora.png
 ---
 

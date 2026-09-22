@@ -7,12 +7,10 @@ categories:
 - Quora
 tags:
 - relations-internationales
-- ukraine
-- onu
-- actualites
 - politique-internationale
-- organisations-internationales
-- affaires-internationales
+- ukraine
+- actualites
+- organisation-internationale
 coverImage: ./images/quora.png
 ---
 

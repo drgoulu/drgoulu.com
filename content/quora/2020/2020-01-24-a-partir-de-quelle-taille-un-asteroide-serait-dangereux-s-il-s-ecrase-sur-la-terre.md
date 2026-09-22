@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-nature
-- terre-planete
-- extinction-humaine-via-la-frappe-d-asteroides
-- crateres-d-impact
-- catastrophes-naturelles
-- asteroides
-- dangers-naturels
-- planetes-astronomie
-- collisions-d-asteroides
+- sciences
+- astronomie
+- terre
+- planetes
+- nature
 coverImage: ./images/qimg-32a23f8663967436d6c9afeae42f2005.png
 ---
 

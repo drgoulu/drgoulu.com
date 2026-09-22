@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- ecologie
-- philosophie-politique
-- developpement-durable
-- capitalisme
-- modele-economique
+- philosophie
+- politique
 - environnement
-- systeme-economique
-- ecologie-politique
-- anti-capitalisme
+- ecologie
+- developpement-durable
 coverImage: ./images/qimg-cf3880ab37a5ed8c29bd2c8815d2c09b.png
 ---
 

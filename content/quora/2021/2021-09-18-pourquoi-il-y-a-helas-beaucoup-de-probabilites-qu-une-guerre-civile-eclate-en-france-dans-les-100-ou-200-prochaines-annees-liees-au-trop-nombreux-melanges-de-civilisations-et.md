@@ -6,15 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- france
-- guerre-civile
-- predictions
+- histoire
 - religion
-- histoire-de-france
+- monde
+- france
 - conflits
-- cultures-du-monde
-- civilizations
-- civilisation
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- physique
 - sciences
+- philosophie
+- univers
 - cosmologie
-- principe-anthropique
-- existence
-- l-univers
-- philosophie-des-sciences
-- nature
-- science-physique
-- philosophie-et-science
-- cosmologie-physique
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- personnalites
-- architecture-de-l-egypte-ancienne
-- elon-musk
+- histoire
 - theories-du-complot
-- archeologie
-- aliens
-- pyramides-d-egypte
-- histoire-de-l-egypte
-- l-histoire-de-l-egypte-ancienne
+- personnalites
+- architecture
 - theories-du-complot-specifiques
 coverImage: ./images/quora.png
 ---

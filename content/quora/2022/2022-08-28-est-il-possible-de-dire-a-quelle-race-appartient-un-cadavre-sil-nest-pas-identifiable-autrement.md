@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - anthropologie
-- medecin-legiste
 - race
-- cadavres
-- identification-de-personnes
-- droit-penal-et-sciences-criminelles
+- droit-penal
 - races-humaines
-- autopsie
 - medecine-legale
-- sciences-criminelles
 coverImage: ./images/quora.png
 ---
 

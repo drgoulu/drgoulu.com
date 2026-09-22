@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- philosophie
 - psychologie
 - conscience
-- philosophie
-- pensee-consciente
-- cognition
-- conscience-de-soi
-- philosophie-et-psychologie
 - psychologie-cognitive
-- conscience-humaine
+- conscience-de-soi
 coverImage: ./images/qimg-6fd758a0a54d6aa099db6cae4133b459.jpg
 ---
 

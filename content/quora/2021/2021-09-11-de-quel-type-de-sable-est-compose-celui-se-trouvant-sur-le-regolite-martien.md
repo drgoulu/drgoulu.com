@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- terre
+- planetes
 - geologie
-- sable
-- mars-planete
-- composition-chimique
-- sciences-de-la-terre
-- exploration-de-mars
-- geologie-planetaire
-- composition-du-sol
-- mineralogie-geologie
-- science-de-la-terre
+- mars
 coverImage: ./images/quora.png
 ---
 

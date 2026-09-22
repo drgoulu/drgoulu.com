@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- katana
-- epees
-- travail-du-metal
-- titane
+- materiaux
+- fabrication
 - armes
 - moyen-age
-- fabrication
-- materiaux
 coverImage: ./images/quora.png
 ---
 

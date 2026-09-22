@@ -10,10 +10,7 @@ tags:
 - corps-humains
 - films
 - physiologie
-- liquides
-- la-respiration
 - physiologie-humaine
-- respiration
 coverImage: ./images/quora.png
 ---
 

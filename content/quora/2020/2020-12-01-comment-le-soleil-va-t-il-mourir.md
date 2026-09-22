@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- contenu-adulte
-- le-soleil
-- mort-de-celebrites
-- evolution-stellaire
+- astrophysique
 - cosmologie
 - science-spatiale
-- astrophysique
-- physique-stellaire
-- astronomie-et-astrophysique
+- soleil
 coverImage: ./images/qimg-d244d0a823d1153c09aa2f586e5da596.jpg
 ---
 

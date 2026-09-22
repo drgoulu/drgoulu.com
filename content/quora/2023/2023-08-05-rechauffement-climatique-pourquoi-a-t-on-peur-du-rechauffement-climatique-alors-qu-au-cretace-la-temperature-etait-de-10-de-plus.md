@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - changement-climatique
-- cretace
-- temperatures
-- climatologie
 - rechauffement-climatique
-- paleoclimatologie
+- climatologie
 - crise-climatique
-- le-rechauffement-climatique
+- temperatures
 coverImage: ./images/qimg-753ccc3bd550956713077262789a8918.png
 ---
 

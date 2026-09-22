@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- science-fiction-genre
 - sciences
-- fiction
-- philosophie-des-sciences
-- theories-physiques
+- philosophie
 - physique-theorique
-- science-physique
-- philosophie-et-science
-- philosophie-de-la-physique
+- science-fiction-genre
 coverImage: ./images/quora.png
 ---
 

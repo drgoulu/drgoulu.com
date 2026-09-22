@@ -6,13 +6,10 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- comparaisons
+- sciences
+- technologies
 - energie-renouvelable
-- panneaux-solaires
-- comparaisons-de-produits-et-services
-- energie-solaire-photovoltaique
-- la-technologie
+- comparaisons
 - energie-solaire
 coverImage: ./images/quora.png
 ---

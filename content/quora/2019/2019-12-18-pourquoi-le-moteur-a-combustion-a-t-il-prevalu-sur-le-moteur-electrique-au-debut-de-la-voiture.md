@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- voitures-et-automobiles
-- energie-physique
-- moteur-a-combustion-interne
-- technique-automobile
-- histoire-de-l-automobile
-- moteurs-electriques
-- ingenierie-automobile
-- histoire-de-l-electricite
-- voiture-electrique
-- moteurs-a-combustion
+- physique
+- histoire
+- energie
+- electricite
+- voitures
 coverImage: ./images/qimg-a7e8c5f222e08f6565d4319e7ee5b5bd.jpg
 ---
 

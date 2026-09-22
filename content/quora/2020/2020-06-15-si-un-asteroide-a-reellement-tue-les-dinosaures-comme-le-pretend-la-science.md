@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- especes
+- extinction
 - paleontologie
-- preuves-scientifiques
-- extinction-des-especes
 - asteroides
-- crateres-d-impact
-- geologie-planetaire
-- la-ceinture-d-asteroides
-- collisions-d-asteroides
-- extinction-de-masse
-- paleontologie-des-dinosaures
+- preuves-scientifiques
 coverImage: ./images/qimg-7af4487c13db531ca4f1c8f2c1fe3f58.jpg
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- marketing
-- arnaque
-- poids-physique
+- physique
 - consommateur
-- image
+- poids
 - produit
-- packaging
-- marketing-produit
-- volume-physique
+- marketing
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- medecine
-- zona
-- herpes
-- virus
 - biologie
-- grippe
-- maladies-infectieuses
-- virologie
+- medecine
 - biologie-humaine
-- maladies-virales
+- virus
+- virologie
 coverImage: ./images/quora.png
 ---
 

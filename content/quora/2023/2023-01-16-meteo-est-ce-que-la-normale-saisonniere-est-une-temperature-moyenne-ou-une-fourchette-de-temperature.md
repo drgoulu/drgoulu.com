@@ -8,14 +8,9 @@ categories:
 tags:
 - climatologie
 - temperatures
-- meteo
-- fourchettes
-- saisons
-- normalite
-- previsions-meteo
-- concepts-meteorologiques
+- mesure
 - meteorologie
-- mesures-de-temperature
+- meteo
 coverImage: ./images/quora.png
 ---
 

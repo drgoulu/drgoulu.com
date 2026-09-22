@@ -9,13 +9,8 @@ tags:
 - politique-mondiale
 - armes-nucleaires
 - guerre-nucleaire
-- securite-internationale
-- denuclearisation
 - proliferation-nucleaire
-- desarmement
 - menace-nucleaire
-- dissuasion-nucleaire
-- puissances-nucleaire
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- trous-noirs
 - astronomie
-- lois-du-mouvement-de-newton
-- force-de-gravite
-- astrophysique-theorique
-- theorie-de-la-relativite
 - astrophysique
-- mecanique-newtonienne
-- gravite
+- theorie
+- relativite
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- intelligence-artificielle
-- nouvelles-technologies
+- sciences
 - technologies
-- technologie-digitale
-- intelligence-humaine
-- technologie-moderne
-- technologie-et-innovation
-- intelligence-artificielle-generale
-- superintelligence-artificielle
+- innovation
+- nouvelles-technologies
+- intelligence-artificielle
 coverImage: ./images/qimg-7f5be7b4efc668cb0b8aa4eb7e932c72.jpg
 ---
 

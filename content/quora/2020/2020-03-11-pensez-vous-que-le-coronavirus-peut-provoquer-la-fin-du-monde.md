@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sante
+- question-hypothetique
 - question-existentielle
 - covid-19-2019-2020
-- sante-et-securite-publiques
 - theories-du-complot
-- philosophique
-- pandemie
-- question-philosophique
-- la-fin-du-monde
-- crise-sanitaire
-- question-hypothetique
 coverImage: ./images/quora.png
 ---
 

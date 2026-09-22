@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- desastre-nucleaire-de-tchernobyl-avril-1986
 - ukraine
-- ouvriers
-- les-centrales-nucleaires
-- disparitions
-- union-sovietique
-- tchernobyl
+- disparition
+- centrales-nucleaires
 - accident-nucleaire
-- travailleurs
 coverImage: ./images/quora.png
 ---
 

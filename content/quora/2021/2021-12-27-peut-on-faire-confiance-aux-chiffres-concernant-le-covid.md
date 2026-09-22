@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sante
 - sante-publique
 - statistiques
 - pandemie
-- fiabilite
-- confidentialite-des-donnees
-- crise-sanitaire
 - donnees
-- donnees-de-sante
-- qualite-des-donnees
 coverImage: ./images/quora.png
 ---
 

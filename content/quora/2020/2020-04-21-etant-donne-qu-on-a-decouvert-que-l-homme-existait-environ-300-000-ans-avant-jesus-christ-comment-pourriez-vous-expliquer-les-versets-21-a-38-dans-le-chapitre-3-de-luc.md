@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- la-bible
-- interpretation
-- jesus
-- histoire-de-l-humanite
-- evangile-de-luc
-- chronologie
-- etude-biblique
-- jesus-christ
+- histoire
+- humanite
 - origines-humaines
-- histoire-biblique
+- bible
+- jesus
 coverImage: ./images/quora.png
 ---
 

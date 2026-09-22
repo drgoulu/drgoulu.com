@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- politique
+- environnement
 - changement-climatique
-- l-environnement
-- ecologie
 - suisse
-- pays-riches
-- developpement-durable
-- economie-politique
-- action-pour-le-climat
-- politique-climatique
-- lutte-contre-le-changement-climatique
+- ecologie
 coverImage: ./images/quora.png
 ---
 

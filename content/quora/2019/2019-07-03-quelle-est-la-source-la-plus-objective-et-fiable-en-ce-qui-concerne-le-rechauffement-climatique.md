@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- terre
 - changement-climatique
-- fiabilite
-- sources-d-information
-- climatologie
-- objectivite
-- science-de-la-terre
 - rechauffement-climatique
-- recherche-climatique
-- les-informations
-- sciences-du-climat
+- climatologie
 coverImage: ./images/quora.png
 ---
 

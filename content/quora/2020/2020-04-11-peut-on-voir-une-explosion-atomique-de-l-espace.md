@@ -9,11 +9,8 @@ tags:
 - sciences
 - astronomie
 - espace
-- explosions-nucleaires
 - exploration-spatiale
-- observation-des-astres
-- bombe-atomique
-- astronomie-d-observation
+- observation
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- relations-humaines
 - communication
-- carriere
-- developpement-personel
-- managers
 - respect
-- gestion-d-equipe
-- leadership
+- carriere
+- relations-humaines
 - management
-- gestion-du-personnel
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- informatique
 - mathematiques
-- developpement-logiciel
+- informatique
+- programmation
+- langage
 - algorithmes
-- langage-de-programmation
-- mathematiques-avancees
-- sciences-informatiques
-- code-informatique
-- programmeurs-informatiques
 coverImage: ./images/quora.png
 ---
 

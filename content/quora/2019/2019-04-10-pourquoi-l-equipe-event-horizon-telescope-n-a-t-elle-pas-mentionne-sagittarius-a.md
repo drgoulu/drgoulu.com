@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- trous-noirs
-- recherche-scientifique
-- evenement-marquant
-- sagittarius-a-observation-astronomique
-- horizon-des-evenements
 - astrophysique
+- recherche-scientifique
+- trous-noirs
 - galaxies
-- travail-scientifique
 coverImage: ./images/quora.png
 ---
 

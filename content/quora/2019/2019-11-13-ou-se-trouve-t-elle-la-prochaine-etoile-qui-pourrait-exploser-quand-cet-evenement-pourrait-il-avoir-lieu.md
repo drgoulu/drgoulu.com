@@ -7,13 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- nova
-- etoiles-corps-celestes
-- supernova
 - astrophysique
+- etoiles-corps-celestes
+- etoiles
 - objets-astronomiques
-- types-d-etoiles
-- etoiles-astronomie
 coverImage: ./images/quora.png
 ---
 

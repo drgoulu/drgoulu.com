@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- comportement-animal
-- peur
-- genetique
 - biologie-animale
-- loups
+- genetique
+- comportement-animal
+- comportement
 - ethologie
-- relation-homme-animal
-- emotions-animales
-- comportement-des-chiens
-- genetique-animale
 coverImage: ./images/quora.png
 ---
 

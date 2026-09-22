@@ -6,14 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
 - astronomie
-- corps-celestes
-- lumiere-physique
-- spectre-electromagnetique
 - astrophysique
+- lumiere
 - objets-astronomiques
-- spectroscopie
-- analyse-spectrale
 coverImage: ./images/quora.png
 ---
 

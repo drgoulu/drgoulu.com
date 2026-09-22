@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- electricite
-- consequences
-- scenario-d-effondrement
 - energie
-- catastrophes-nucleaires
 - energie-nucleaire
-- les-centrales-nucleaires
-- scenario-futur
-- accident-nucleaire
+- electricite
+- catastrophes-nucleaires
+- centrales-nucleaires
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - astrophysique
-- comprehension
 - recherche-scientifique
-- methodes
-- domaine-scientifique
-- la-methode-scientifique
-- methodes-de-recherche
+- recherche
 - etude-scientifique
-- astrophysiciens
 coverImage: ./images/quora.png
 ---
 

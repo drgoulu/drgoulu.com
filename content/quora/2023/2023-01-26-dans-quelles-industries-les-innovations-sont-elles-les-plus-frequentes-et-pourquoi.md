@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- nouvelles-technologies
-- innovation
-- secteur-d-activite
 - technologies
-- competitivite
-- industrie
-- innovation-technologique
-- recherche-et-developpement
-- secteurs-economiques
-- domaine-d-activite
+- recherche
+- innovation
+- developpement
+- nouvelles-technologies
 coverImage: ./images/quora.png
 ---
 

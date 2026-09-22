@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- histoire-du-monde
-- terre-planete
+- sciences
+- histoire
 - evolution
-- sciences-de-la-nature
-- origine-de-la-vie
-- sciences-de-la-vie
-- histoire-de-la-science
-- evolution-biologique-des-especes
-- planete-terre
-- sciences-de-la-nature-et-de-la-vie
+- terre
+- planetes
 coverImage: ./images/quora.png
 ---
 

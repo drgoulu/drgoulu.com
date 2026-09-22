@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
+- physique
 - sciences
-- paleoclimatologie
-- histoire-de-la-terre
-- atmosphere
+- histoire
+- terre
 - geologie
-- histoire-des-sciences
-- chimie-atmospherique
-- science-de-la-terre
-- sciences-de-l-atmosphere
-- physique-de-l-atmosphere
 coverImage: ./images/qimg-bbf9a171f1cb69ea0f84c7fef8458841.jpg
 ---
 

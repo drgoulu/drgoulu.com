@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - hypotheses
-- biologie-marine
-- dauphins
-- intelligence-animale
-- communication-avec-les-animaux
-- psychologie-animale
-- scenarios-scientifiques-hypothetiques
-- sciences-marine
 - hypotheses-scientifiques
-- communication-animale
+- intelligence-animale
+- biologie-marine
+- psychologie-animale
 coverImage: ./images/qimg-9d3345e22e51c623062567b2f0ba73a8.jpg
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- histoire
 - exploration-spatiale
 - theories-du-complot
-- nasa
-- drapeau-des-etats-unis
-- alunissage
-- le-programme-apollo
-- histoire-de-l-astronautique
 - voyage-spatial
-- missions-apollo
-- theories-du-complot-de-la-nasa
+- nasa
 coverImage: ./images/quora.png
 ---
 

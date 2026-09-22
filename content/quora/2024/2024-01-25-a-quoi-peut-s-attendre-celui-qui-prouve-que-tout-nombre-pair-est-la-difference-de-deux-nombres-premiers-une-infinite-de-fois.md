@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- nombres-impairs
-- conjecture-de-goldbach
-- theorie-des-nombres
-- infini-mathematiques
-- demonstration-mathematiques
+- theorie
+- nombres
+- infini
 - nombres-naturels
-- induction-mathematique
-- nombres-pairs
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
-- medecine
-- mysteres
+- sciences
 - recherche-scientifique
-- neuroscience
-- biologie-humaine
-- cerveau-humain
-- connaissances-scientifiques
-- science-du-cerveau
-- progres-scientifique
 - recherche
+- medecine
+- biologie-humaine
 coverImage: ./images/quora.png
 ---
 

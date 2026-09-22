@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - sciences
-- espace
-- vitesse-de-la-lumiere
-- theorie-de-la-relativite
-- temps-physique
-- relativite-restreinte
+- theorie
 - physique-theorique
-- relativite-physique
-- espace-dimension
+- relativite
 coverImage: ./images/quora.png
 ---
 

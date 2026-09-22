@@ -8,14 +8,9 @@ categories:
 tags:
 - astronomie
 - trous-noirs
-- galaxies-spirales
-- astrophysique-des-hautes-energies
 - astrophysique
 - galaxies
 - trous-noirs-supermassifs
-- astronomie-et-astrophysique
-- les-trous-noir
-- galaxies-astronomie
 coverImage: ./images/quora.png
 ---
 

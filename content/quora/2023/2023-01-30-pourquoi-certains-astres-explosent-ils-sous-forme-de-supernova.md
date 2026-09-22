@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- etoiles-corps-celestes
-- supernova
-- evolution-stellaire
 - astrophysique
-- types-d-etoiles
+- etoiles-corps-celestes
 - etoiles
-- physique-stellaire
 - astrophysique-theorique
-- etoiles-astronomie
 coverImage: ./images/quora.png
 ---
 

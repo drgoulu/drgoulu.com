@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- mysteres
-- evenement-historique
-- mars-planete
-- explications
+- planetes
+- mars
+- phenomenes-naturels
 - phenomene
-- information-scientifique
-- explications-scientifiques
-- evenement-marquant
-- phenomene-naturel
-- evenement-naturel
+- mysteres
 coverImage: ./images/qimg-68a35b150169da750e5cafdb7dca5126.jpg
 ---
 

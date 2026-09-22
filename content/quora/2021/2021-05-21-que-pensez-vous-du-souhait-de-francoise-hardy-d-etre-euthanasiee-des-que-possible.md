@@ -7,10 +7,8 @@ categories:
 - Quora
 tags:
 - opinion-publique
-- artiste-chanteuse-francaise
 - mort-et-mourir
 - questions-ethiques
-- chanteuses
 - fin-de-vie
 - communication-publique
 coverImage: ./images/quora.png

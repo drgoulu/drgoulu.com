@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - catastrophes-naturelles
-- scenarios-de-fin-du-monde
 - asteroides
-- population-humaine
-- gouvernements-des-grandes-puissances
-- information-publique
 - fin-du-monde
 - collisions-d-asteroides
-- grandes-puissances-mondiales
-- information-du-public
+- scenarios-de-fin-du-monde
 coverImage: ./images/quora.png
 ---
 

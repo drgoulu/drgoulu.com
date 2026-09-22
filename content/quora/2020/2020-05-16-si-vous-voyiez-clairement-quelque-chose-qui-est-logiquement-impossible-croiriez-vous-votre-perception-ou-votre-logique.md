@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
+- psychologie
 - perception
-- realite
 - question-philosophique
-- hallucinations
-- cognition
-- logique-philosophie
-- pensee-philosophique
-- philosophie-et-psychologie
-- la-philosophie
+- realite
 coverImage: ./images/quora.png
 ---
 

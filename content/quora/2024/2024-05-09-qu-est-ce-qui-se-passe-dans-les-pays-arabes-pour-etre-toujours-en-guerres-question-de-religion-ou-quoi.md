@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- histoire
+- politique
 - religion
 - guerre
-- politique-au-moyen-orient
-- conflit
-- les-pays-arabes
-- culture-islamique
-- islam
-- pays-du-moyen-orient
-- histoire-du-moyen-orient
-- culture-arabe
+- pays
 coverImage: ./images/quora.png
 ---
 

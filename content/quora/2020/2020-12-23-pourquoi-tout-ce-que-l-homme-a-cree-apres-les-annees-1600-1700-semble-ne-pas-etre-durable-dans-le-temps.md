@@ -8,13 +8,9 @@ categories:
 tags:
 - histoire
 - societe
-- durabilite
-- creation-humaine
-- xviiie-siecle
-- culture-et-societe
 - histoire-humaine
-- l-histoire
-- xviie-siecle
+- culture
+- durabilite
 coverImage: ./images/quora.png
 ---
 

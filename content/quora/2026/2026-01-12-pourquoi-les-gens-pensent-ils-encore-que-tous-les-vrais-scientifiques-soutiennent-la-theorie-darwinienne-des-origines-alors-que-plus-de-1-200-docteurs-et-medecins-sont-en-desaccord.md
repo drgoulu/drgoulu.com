@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sciences
-- debats-de-societe
+- evolution
 - biologie
-- creationnisme
-- groupes-de-personnes
-- theorie-de-l-evolution
-- darwinisme
-- groupes-religieux
-- debats
-- biologie-de-l-evolution
+- theorie
+- societe
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- histoire-humaine
+- histoire
+- humanite
 - anthropologie
-- propagande
-- afrocentrisme
-- histoire-de-l-afrique
-- anthropologie-culturelle
-- races-humaines
-- origines-humaines
-- histoire-de-l-humanite
-- histoire-de-l-afrique-ancienne
+- histoire-humaine
+- afrique
 coverImage: ./images/quora.png
 ---
 

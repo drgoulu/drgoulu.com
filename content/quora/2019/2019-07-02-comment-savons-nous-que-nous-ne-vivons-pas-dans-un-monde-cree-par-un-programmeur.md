@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - philosophie
+- theorie
 - question-existentielle
-- conscience
-- realite
-- simulation
-- existence
-- theorie-de-la-simulation
 - question-philosophique
-- realite-simulee
-- conscience-humaine
+- conscience
 coverImage: ./images/quora.png
 ---
 

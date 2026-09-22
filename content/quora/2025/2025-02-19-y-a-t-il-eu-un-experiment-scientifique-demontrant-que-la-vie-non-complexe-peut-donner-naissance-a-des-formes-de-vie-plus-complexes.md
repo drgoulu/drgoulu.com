@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- biologie
-- recherche-scientifique
-- origine-de-la-vie
 - evolution
-- sciences-de-la-vie
-- evolution-biologique-des-especes
-- science-experimentale
-- evolution-biologie
+- biologie
+- vie
+- recherche-scientifique
 coverImage: ./images/qimg-31bc77298de8e4da2c88ea034560269f.jpg
 ---
 

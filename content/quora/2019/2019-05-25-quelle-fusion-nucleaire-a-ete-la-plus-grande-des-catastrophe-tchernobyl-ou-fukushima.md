@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- reacteurs-fukushima-dai-ichi
 - tchernobyl
-- accidents-nucleaires-civils
-- comparaison
+- comparaisons
 - catastrophes
-- desastre-nucleaire-de-tchernobyl-avril-1986
-- fukushima
-- les-catastrophes-nucleaires
+- catastrophes-nucleaires
 coverImage: ./images/quora.png
 ---
 

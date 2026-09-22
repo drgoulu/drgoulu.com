@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- l-oeil-humain
-- photons
-- lumiere-physique
+- biologie
+- lumiere
 - optique
-- perception-visuelle
-- photonics
-- physique-et-biologie
-- vision-humain
-- oeil-humain
+- photons
 coverImage: ./images/quora.png
 ---
 

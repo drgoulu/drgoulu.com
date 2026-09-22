@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - nouvelles-technologies
-- transport
+- transports
+- astronautique
 - aeronautique
-- magnetohydrodynamique
-- navigation-maritime
 - navigation
-- hydrodynamique
-- aeronautique-et-astronautique
 coverImage: ./images/quora.png
 ---
 

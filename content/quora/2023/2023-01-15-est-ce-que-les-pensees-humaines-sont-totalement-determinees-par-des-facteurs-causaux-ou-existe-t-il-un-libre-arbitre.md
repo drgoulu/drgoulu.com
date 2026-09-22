@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- libre-arbitre
-- action-de-causer-et-causalite
+- psychologie
 - conscience
 - determinisme
-- pensee-humaine
-- questions-principales-de-la-philosophie
-- inference-causale
-- philosophie-et-psychologie
-- causalite
+- libre-arbitre
 coverImage: ./images/quora.png
 ---
 

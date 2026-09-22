@@ -10,12 +10,7 @@ tags:
 - confidentialite
 - suisse-pays
 - paradis-fiscaux
-- serment
-- compte-en-banque
-- services-bancaires
-- information-confidentielle
-- argent-noir
-- confidentialite-des-informations
+- information
 coverImage: ./images/quora.png
 ---
 

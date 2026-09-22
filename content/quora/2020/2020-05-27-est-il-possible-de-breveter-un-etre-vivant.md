@@ -8,13 +8,9 @@ categories:
 tags:
 - biologie
 - droit
-- ethique-philosophie-morale
-- etres-vivants
+- propriete-intellectuelle
 - brevets
-- droit-sur-la-propriete-intellectuelle
-- biotechnologie
-- droit-des-brevets
-- droit-de-propriete
+- proprietes
 coverImage: ./images/quora.png
 ---
 

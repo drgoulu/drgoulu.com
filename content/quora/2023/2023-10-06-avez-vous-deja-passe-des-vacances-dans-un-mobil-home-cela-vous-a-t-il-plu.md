@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- opinion
+- experience
+- experiences-personnelles
 - opinion-personnelle
-- experiences
-- opinions
-- camping-cars
 - loisirs
-- hebergement
-- maisons-mobiles
-- vacances
-- experience-personnelle
-- camping
 coverImage: ./images/quora.png
 ---
 

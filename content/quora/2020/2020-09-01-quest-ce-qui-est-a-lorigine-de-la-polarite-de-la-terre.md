@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- sciences-de-la-nature
-- terre-planete
-- inversion-du-champ-magnetique-terrestre
-- geophysique
-- origine-du-monde
-- evolution-de-la-terre
-- les-poles-magnetiques-de-la-terre
-- sciences-de-la-terre
-- geoscience
-- champ-magnetique-terrestre
+- sciences
+- evolution
+- terre
+- planetes
+- nature
 coverImage: ./images/quora.png
 ---
 

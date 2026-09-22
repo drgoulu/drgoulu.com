@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- evolution-processus
-- l-unicite
-- univers-observable
-- intelligence-humaine
+- evolution
+- processus
 - humanite
 - evolution-humaine
-- l-humanite
-- unicite
 coverImage: ./images/quora.png
 ---
 

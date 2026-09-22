@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sciences
-- voyager-golden-record
-- communication-interculturelle
 - exploration-spatiale
-- extraterrestres
-- voyager-program
-- communication-externe
-- rencontres-extra-terrestres
 - vie-extraterrestre
 - voyage-spatial
+- extraterrestres
 coverImage: ./images/quora.png
 ---
 

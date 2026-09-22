@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- entropie-thermodynamique
-- conversion-de-l-energie
-- energie-physique
-- lois-de-la-thermodynamique
+- energie
+- loi
+- production
 - thermodynamique
-- energie-chimique
-- energie-thermique
-- production-d-energie
-- transfert-d-energie
 coverImage: ./images/quora.png
 ---
 

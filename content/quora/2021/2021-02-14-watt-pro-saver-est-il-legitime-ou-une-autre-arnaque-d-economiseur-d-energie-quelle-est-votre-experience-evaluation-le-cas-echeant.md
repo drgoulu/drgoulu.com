@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
-- arnaques
-- produit
-- consommation-d-energie
-- avis-produit
-- arnaques-en-ligne
-- nom-du-produit
-- economiseurs-d-energie
-- economie-d-energie
+- sciences
+- energie
+- technologies
+- economie
+- consommation
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- histoire
+- terre
+- planetes
 - changement-climatique
-- terre-planete
-- histoire-des-sciences
-- climats
-- atmosphere
-- la-terre
-- sciences-de-l-atmosphere
-- histoire-de-la-terre
-- atmospheres-planetaires
-- changement-du-climat
 coverImage: ./images/quora.png
 ---
 

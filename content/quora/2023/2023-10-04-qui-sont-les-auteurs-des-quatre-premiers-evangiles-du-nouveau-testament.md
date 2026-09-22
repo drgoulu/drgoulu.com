@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - christianisme
-- la-bible
+- bible
 - personnages-bibliques
-- evangile
-- histoire-de-la-chretiente
-- le-nouveau-testament
-- ecrivains-chretiens
-- livres-de-la-bible
-- histoire-du-christianisme
+- livres
+- histoire
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- voyager-2-sonde-spatiale
-- exploration-spatiale
-- vitesse-de-la-lumiere
-- voyager-program
 - astrophysique
-- sondes-spatiales
-- ingenierie-et-technologie-spatiale
-- science-spatiale
-- voyager-1-sonde-spatiale
+- exploration-spatiale
+- lumiere
+- vitesse
 coverImage: ./images/qimg-3560f73d6faf401ebf38f9de0611efaa.jpg
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - philosophie
 - comportement-humain
-- erreurs-de-pertinence
 - reflexion
-- questionnement-socratique
 - pensee
-- impertinence
-- raisonnement
 - pensee-humaine
-- pertinence
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- l-univers
-- histoire-des-sciences
-- avancee-scientifique
+- histoire
+- univers
 - cosmologie
-- univers-observable
-- exploration-de-l-univers
-- progres-scientifique
-- histoire-de-l-astronomie
 coverImage: ./images/quora.png
 ---
 

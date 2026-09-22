@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - sante
-- conseils-de-shopping
-- electromenager
-- protection-contre-les-radiations
-- securite-personnelle
-- fours-a-micro-ondes
-- champs-electromagnetiques
 - securite
-- conseils-d-achat
+- conseils
+- champs-electromagnetiques
+- securite-personnelle
 coverImage: ./images/quora.png
 ---
 

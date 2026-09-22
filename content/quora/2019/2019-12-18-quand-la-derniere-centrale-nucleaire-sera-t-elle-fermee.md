@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- france
-- energie-nucleaire
-- fermeture-d-entreprise
-- l-environnement
-- politique-energetique-francaise
-- centrale-thermique
-- les-centrales-nucleaires
-- energie-economie
-- centrales-nucleaires
 - energie
+- environnement
+- france
+- economie
+- energie-nucleaire
 coverImage: ./images/quora.png
 ---
 

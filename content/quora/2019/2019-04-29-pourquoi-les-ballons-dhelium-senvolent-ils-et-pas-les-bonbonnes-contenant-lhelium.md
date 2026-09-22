@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- gaz
 - sciences
-- ballons
-- flottabilite
-- helium
+- chimie
 - densite
-- l-helium
-- physique-et-chimie
-- densite-physique
+- gaz
 coverImage: ./images/quora.png
 ---
 

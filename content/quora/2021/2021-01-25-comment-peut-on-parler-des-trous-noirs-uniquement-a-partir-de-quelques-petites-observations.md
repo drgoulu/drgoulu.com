@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- trous-noirs
 - astronomie
-- observation-scientifique
-- objets-astronomiques
-- cosmologie
 - astrophysique
-- astronomie-d-observation
-- les-trous-noir
+- cosmologie
+- trous-noirs
 coverImage: ./images/quora.png
 ---
 

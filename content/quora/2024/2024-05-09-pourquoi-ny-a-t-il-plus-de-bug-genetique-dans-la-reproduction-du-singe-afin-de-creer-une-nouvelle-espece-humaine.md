@@ -6,16 +6,11 @@ draft: false
 categories:
 - Pourquoi
 tags:
+- evolution
 - biologie
-- singes
-- evolution-processus
-- especes
-- genetique
-- reproduction
+- processus
 - evolution-humaine
-- espece-humaine
-- reproduction-animale
-- genie-genetique
+- especes
 coverImage: ./images/qimg-568d424d8e6039767598027bb862d371.jpg
 ---
 

@@ -7,12 +7,8 @@ categories:
 - Quora
 tags:
 - changement-climatique
-- arcachon
-- plages
 - animaux-marins
-- evacuations
 - biologie-marine
-- environnement-marin
 - faune-marine
 - vie-marine
 coverImage: ./images/quora.png

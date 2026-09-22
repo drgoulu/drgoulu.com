@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - mathematiques
-- preuve
-- suite-d-entiers
-- conjecture-de-syracuse
-- conjectures
-- theorie-des-nombres
-- preuves-empiriques
-- problemes-mathematiques
-- suite-arithmetique
-- questions-mathematiques
+- theorie
+- nombres
+- questions
+- probleme
 coverImage: ./images/quora.png
 ---
 

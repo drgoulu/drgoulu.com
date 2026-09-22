@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- calcul-vectoriel
-- vitesse-de-la-lumiere
-- l-attraction-gravitationnelle
-- pression
+- relativite
+- lumiere
+- vitesse
 - gravitation
-- relativite-physique
-- mouvement-physique
-- force-gravitationnelle
 coverImage: ./images/quora.png
 ---
 

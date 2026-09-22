@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- philosophie
-- missions-spatiales
-- infini-mathematiques
-- l-univers
-- cosmologie
-- univers-observable
+- sciences
 - astronomie
-- science-spatiale
-- philosophie-des-sciences
-- exploration-spatiale
+- philosophie
+- mathematiques
+- univers
 coverImage: ./images/quora.png
 ---
 

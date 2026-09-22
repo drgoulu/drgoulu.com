@@ -6,14 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- politique
+- systeme
 - opinion-publique
-- politique-des-etats-unis-d-amerique
-- democratie
-- systeme-de-gouvernement
-- citoyens-americains
-- sociologie-politique
-- le-president-des-etats-unis
-- electeurs
+- sociologie
+- etats-unis
 coverImage: ./images/quora.png
 ---
 

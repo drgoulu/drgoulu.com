@@ -7,13 +7,8 @@ categories:
 - Comment
 tags:
 - histoire
-- chasseurs
-- archeologie-prehistorique
+- humanite
 - evolution-humaine
-- la-chasse
-- paleolithique
-- histoire-de-l-humanite
-- pre-histoire
 - histoire-humaine
 - histoire-de-lhomme
 coverImage: ./images/quora.png

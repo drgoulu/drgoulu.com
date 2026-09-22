@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- espace
-- univers-observable
+- univers
 - cosmologie
-- geometrie
-- l-univers
-- dimensions-physique
 - physique-theorique
-- theorie-cosmologique
-- espace-dimension
+- espace
 coverImage: ./images/quora.png
 ---
 

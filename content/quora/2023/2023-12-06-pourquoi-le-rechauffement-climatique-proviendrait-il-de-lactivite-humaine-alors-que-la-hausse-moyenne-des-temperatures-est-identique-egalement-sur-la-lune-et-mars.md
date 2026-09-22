@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
+- planetes
 - changement-climatique
-- activite-humaine
-- mars-planete
-- temperatures
-- climatologie
-- science-spatiale
-- lune-astronomie
 - rechauffement-climatique
+- science-spatiale
 coverImage: ./images/qimg-c9774372bc68b4288cdc68d1728dfb41.jpg
 ---
 

@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- langages-de-programmation
-- type-de-donnees
-- code-informatique
-- python-langage-de-programmation
-- programmation-des-ordinateurs
-- structures-de-donnees
-- programmation-en-python
-- langage-informatique
-- langages-informatiques
+- informatique
+- programmation
+- langage
+- python
+- donnees
 coverImage: ./images/quora.png
 ---
 

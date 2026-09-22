@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- science-et-technologie
+- sciences
+- technologies
+- futur
 - nouvelles-technologies
 - informatique-quantique
-- technologies
-- ordinateur-quantique
-- technologie-du-futur
-- l-informatique-quantique
-- la-technologie
-- technologie-quantique
-- technologies-a-venir
 coverImage: ./images/quora.png
 ---
 

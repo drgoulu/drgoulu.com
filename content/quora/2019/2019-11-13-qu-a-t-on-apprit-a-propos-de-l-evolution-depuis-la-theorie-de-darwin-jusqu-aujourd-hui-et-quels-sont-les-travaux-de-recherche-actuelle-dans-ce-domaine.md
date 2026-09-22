@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
-- recherche-scientifique
-- evolution-processus
-- histoire-des-sciences
-- theorie-de-l-evolution
-- travaux-academiques
-- evolution-biologique-des-especes
-- decouvertes-scientifiques
-- evolution-biologie
-- histoire-de-la-biologie
-- recherches-scientifiques
+- sciences
+- histoire
+- evolution
+- biologie
+- theorie
 coverImage: ./images/quora.png
 ---
 

@@ -7,12 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- neutrinos
 - cosmologie
-- modele-standard-de-la-physique-des-particules
-- masse-physique
-- physique-quantique
 - physique-theorique
+- physique-quantique
+- masse-physique
 coverImage: ./images/quora.png
 ---
 

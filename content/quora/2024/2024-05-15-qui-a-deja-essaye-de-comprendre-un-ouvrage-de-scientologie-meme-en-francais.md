@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- livres-sur-la-religion
-- langues
-- comprehension
 - religion
-- lecture
-- francais-langue
-- scientologie
-- lecture-critique
-- comprehension-de-lecture
+- livres
+- comprehension
+- langues
 coverImage: ./images/quora.png
 ---
 

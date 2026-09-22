@@ -9,11 +9,7 @@ tags:
 - sante
 - vaccins-a-arnm
 - decouvertes
-- maladies-incurables
 - recherche-scientifique
-- sciences-medicales
-- recherche-biomedicale
-- recherche-experimentale
 - recherche-medicale
 coverImage: ./images/quora.png
 ---

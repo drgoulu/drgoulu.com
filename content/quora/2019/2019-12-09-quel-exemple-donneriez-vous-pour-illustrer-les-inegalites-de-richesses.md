@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- questions
 - sociologie
-- question-d-enquete
-- exemples
-- inegalites-sociales
-- repartition-des-richesses
-- les-inegalites-mondiales
-- inegalites-de-revenu
-- par-exemple
 - inegalite
+- richesse
+- revenu
 coverImage: ./images/qimg-f977e4385a9cfb8b023bf5f58ef97502.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- trappist-1
 - simulation-par-ordinateur
-- zone-habitable
-- les-etoiles
+- etoiles
 - atmospheres-planetaires
 - astrophysique
-- planetologie
-- exoplanetologie
-- simulation-numerique
 coverImage: ./images/quora.png
 ---
 

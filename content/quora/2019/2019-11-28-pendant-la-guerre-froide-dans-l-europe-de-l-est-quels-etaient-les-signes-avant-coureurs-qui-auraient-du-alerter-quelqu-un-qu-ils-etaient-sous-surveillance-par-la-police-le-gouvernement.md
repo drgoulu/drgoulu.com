@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- avant-coureur
 - securite
-- europe-de-l-est
-- signes-annonciateurs
-- police
-- la-guerre-froide
+- europe
 - gouvernement
-- surveillance
-- policier
+- guerre-froide
 coverImage: ./images/quora.png
 ---
 

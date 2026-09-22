@@ -9,12 +9,7 @@ tags:
 - science-fiction-genre
 - theories-du-complot
 - extraterrestres
-- temoins
 - vaisseau-spatial
-- systeme-radar
-- rencontres-extra-terrestres
-- les-voyages-spaciaux
-- detecteurs-radar
 - theories-du-complot-specifiques
 coverImage: ./images/qimg-7068196c4f8d147eecf98e709f4da350.jpg
 ---

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- espace
-- astronautes
 - astronomie
-- vol-spatial
-- gravite-de-la-terre
-- orbites
+- terre
+- espace
 - gravite
-- vaisseau-spatial
-- voyage-spatial
 coverImage: ./images/quora.png
 ---
 

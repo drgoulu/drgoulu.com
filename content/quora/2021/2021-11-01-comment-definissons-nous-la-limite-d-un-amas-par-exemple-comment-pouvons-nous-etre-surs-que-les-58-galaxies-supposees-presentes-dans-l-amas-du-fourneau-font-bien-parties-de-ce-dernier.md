@@ -8,13 +8,9 @@ categories:
 tags:
 - sciences
 - astronomie
-- definition
-- limites
-- l-univers-astronomie
-- objets-astronomiques
+- astrophysique
+- univers
 - galaxies
-- astronomie-et-astrophysique
-- galaxies-astronomie
 coverImage: ./images/quora.png
 ---
 

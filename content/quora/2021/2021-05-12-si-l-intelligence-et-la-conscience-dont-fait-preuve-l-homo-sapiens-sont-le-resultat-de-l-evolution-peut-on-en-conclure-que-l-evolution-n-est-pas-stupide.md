@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
 - philosophie
-- evolution-processus
-- conscience
-- homo-sapiens
-- intelligence-humaine
-- nature-humaine
-- evolution-humaine
-- philosophie-des-sciences
 - evolution
+- processus
+- evolution-humaine
 coverImage: ./images/quora.png
 ---
 

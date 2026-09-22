@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
-- le-soleil-astronomie
+- sciences
 - astronomie
-- terre-planete
-- sciences-de-la-nature
-- energie-solaire
-- energie-physique
 - astrophysique
-- science-de-la-terre
-- radiation-solaire
+- terre
 coverImage: ./images/quora.png
 ---
 

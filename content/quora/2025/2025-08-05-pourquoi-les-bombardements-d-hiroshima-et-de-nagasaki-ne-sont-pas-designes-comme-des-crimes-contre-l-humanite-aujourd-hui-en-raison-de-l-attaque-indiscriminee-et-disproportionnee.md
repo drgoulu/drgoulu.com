@@ -7,13 +7,9 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- crimes-contre-l-humanite
 - guerre
-- la-seconde-guerre-mondiale
-- nagasaki-japon
-- bombardements
-- victimes-civiles
-- guerres-et-conflits
+- seconde-guerre-mondiale
+- conflits
 - hiroshima-japon
 coverImage: ./images/quora.png
 ---

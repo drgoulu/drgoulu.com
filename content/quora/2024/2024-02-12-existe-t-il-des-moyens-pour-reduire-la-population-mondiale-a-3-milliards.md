@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - demographie
-- contraception-et-controle-des-naissances
-- surpopulation
-- population-mondiale
-- baisse-du-taux-de-natalite
-- croissance-demographique
-- taux-de-naissance
-- population-humaine
 - demographie-mondiale
+- population-mondiale
+- surpopulation
+- croissance-demographique
 coverImage: ./images/qimg-79c5c0712958227f3f314675f0079b2f.jpg
 ---
 

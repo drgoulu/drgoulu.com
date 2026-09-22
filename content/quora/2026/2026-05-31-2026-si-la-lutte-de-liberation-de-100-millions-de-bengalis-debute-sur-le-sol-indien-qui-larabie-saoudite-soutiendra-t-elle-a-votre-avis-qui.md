@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - relations-internationales
-- inde
-- arabie-saoudite
-- bengali
-- conflits-geopolitiques
-- lutte-de-pouvoir
 - geopolitique
-- bangladesh
-- conflits-internationaux
 - diplomatie-et-relation-internationale
+- inde
+- conflits-geopolitiques
 coverImage: ./images/quora.png
 ---
 

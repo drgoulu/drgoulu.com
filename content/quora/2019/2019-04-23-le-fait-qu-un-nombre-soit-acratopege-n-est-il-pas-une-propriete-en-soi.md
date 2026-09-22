@@ -6,15 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- sciences
+- philosophie
 - mathematiques
-- nombres-naturels
-- proprietes
-- theorie-des-nombres
-- philosophie-des-mathematiques
-- sciences-mathematiques
-- mathematique-et-philosophie
-- post
-- theorie-du-nombre
+- theorie
+- nombres
 coverImage: ./images/qimg-de5995b534c3b49bd85808f584825b46.jpg
 ---
 

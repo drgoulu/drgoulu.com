@@ -6,16 +6,11 @@ draft: false
 categories:
 - Comment
 tags:
-- philosophie-des-sciences
-- etienne-klein
-- chercheurs
-- doctorat
-- perception-du-temps
-- specialiste
-- vulgarisation-scientifique
-- concept-philosophique-lie-au-temps
-- theorie-du-temps
-- philosophie-du-temps
+- sciences
+- philosophie
+- theorie
+- temps
+- perception
 coverImage: ./images/quora.png
 ---
 

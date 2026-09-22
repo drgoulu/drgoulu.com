@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - theories-du-complot
-- evenement
-- date
-- la-fin-du-monde
-- propheties
-- scenarios-de-fin-du-monde
-- evenement-en-cours
-- event
+- fin-du-monde
 - theories-du-complot-specifiques
-- theorie-du-complot
+- evenement
+- scenarios-de-fin-du-monde
 coverImage: ./images/quora.png
 ---
 

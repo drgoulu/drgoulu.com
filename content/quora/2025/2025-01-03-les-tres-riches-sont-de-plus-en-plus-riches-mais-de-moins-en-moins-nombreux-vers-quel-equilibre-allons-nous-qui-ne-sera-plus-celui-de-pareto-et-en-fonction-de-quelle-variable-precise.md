@@ -6,16 +6,11 @@ draft: false
 categories:
 - Quora
 tags:
+- inegalite
 - richesse
+- revenu
 - inegalites-sociales
-- economie-generale
-- principe-de-pareto
-- repartition-des-richesses
-- sciences-economiques
-- inegalites-de-revenu
-- les-inegalites-mondiales
-- redistribution-de-la-richesse
-- inegalite-des-revenus
+- repartition
 coverImage: ./images/qimg-97d0f16ae7307d8d316b725474c9a47c.png
 ---
 
