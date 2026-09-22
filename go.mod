@@ -8,7 +8,7 @@ require (
 )
 
 require (
-	github.com/drgoulu/headless-cms v0.0.0-20260915065257-9af8f27257f7 // indirect
+	github.com/drgoulu/headless-cms v0.0.0-20260922195411-0d741f896343 // indirect
 	github.com/goulu/altmetric4hugo v0.0.0-20260830112131-f7ced6beec3d // indirect
 	github.com/goulu/openbook4hugo v0.0.0-20260824202545-558dfae2ba58 // indirect
 )

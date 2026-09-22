@@ -137,6 +137,9 @@
           {{ .ReadingTime }} {{ i18n "minute_read" }}
         </span>
         {{ end }}
+
+        {{/* Bouton Éditer dans Sveltia / Decap CMS si connecté */}}
+        {{ partial "headless-cms/edit-button.html" (dict "page" . "class" "ml-2") }}
         </div>
 
         <div class="mt-3">

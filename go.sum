@@ -8,6 +8,8 @@ github.com/drgoulu/headless-cms v0.0.0-20260912170201-520a42fbe5c6 h1:CQsrxb/07d
 github.com/drgoulu/headless-cms v0.0.0-20260912170201-520a42fbe5c6/go.mod h1:aG1LMciGe9o0CCn6AG6aP5DN3Rz452wOoyW+wYZeeis=
 github.com/drgoulu/headless-cms v0.0.0-20260915065257-9af8f27257f7 h1:wLBtRxJOA0LVf8ZRMdQNHbrx9JAqc96cU4CeAGW3zQM=
 github.com/drgoulu/headless-cms v0.0.0-20260915065257-9af8f27257f7/go.mod h1:aG1LMciGe9o0CCn6AG6aP5DN3Rz452wOoyW+wYZeeis=
+github.com/drgoulu/headless-cms v0.0.0-20260922195411-0d741f896343 h1:akdSbldeR2FAMVps04QpZEd86CxP4/1k89vQx3apuJQ=
+github.com/drgoulu/headless-cms v0.0.0-20260922195411-0d741f896343/go.mod h1:aG1LMciGe9o0CCn6AG6aP5DN3Rz452wOoyW+wYZeeis=
 github.com/goulu/altmetric4hugo v0.0.0-20260830112131-f7ced6beec3d h1:z2dN11ZWFEYXqVgX2cyO8QLGCB5HTYxCLJHoJTx4fgM=
 github.com/goulu/altmetric4hugo v0.0.0-20260830112131-f7ced6beec3d/go.mod h1:s35Egc4KPTJXRCqFPqByu7aU2N39ZtIjREeF1+2B6+8=
 github.com/goulu/openbook4hugo v0.0.0-20260824202545-558dfae2ba58 h1:ygUULY5boFyDg8uhnia6la9wyN7NpMEOCIJPAbPo+Gk=
