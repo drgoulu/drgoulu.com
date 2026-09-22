@@ -1,16 +1,13 @@
 ---
 title: Youtube a automatiquement changé pour le 1er prénom de mon adresse courriel Google, mais je veux être sur le net avec mon 3e prénom, comme ici sur Quora. Comment ces fascistes sont-ils légitimes pour changer sans permission ?
-slug: youtube-a-automatiquement-change-pour-le-1er-prenom-de-mon-adresse-courriel-google
-date: '2023-08-08'
-draft: false
-categories:
-- Comment
+date: 2023-08-08
+draft: true
 tags:
-- identite
-- plateformes-de-medias-sociaux
-- google
-- profils-en-ligne
-- youtube
+  - théorie
+  - complot
+categories:
+  - Comment
+slug: youtube-a-automatiquement-change-pour-le-1er-prenom-de-mon-adresse-courriel-google
 coverImage: ./images/quora.png
 ---
 
