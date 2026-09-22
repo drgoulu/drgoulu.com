@@ -1,16 +1,12 @@
 ---
 title: Quel est le but des extraterrestres visitant la planète Terre ?
-slug: quel-est-le-but-des-extraterrestres-visitant-la-planete-terre
-date: '2024-07-31'
+date: 2024-07-31
 draft: false
-categories:
-- Quora
 tags:
-- terre
-- planetes
-- vie-extraterrestre
-- theories-du-complot
-- astrobiologie
+  - extraterrestres
+categories:
+  - Quora
+slug: quel-est-le-but-des-extraterrestres-visitant-la-planete-terre
 coverImage: ./images/quora.png
 ---
 
