@@ -43,21 +43,33 @@ build:
 EOF
 fi
 
-# 1. Construire le site et générer l'index Pagefind pour que la recherche fonctionne en local
-echo "🔍 Construction du site et indexation Pagefind pour la recherche locale..."
-(cd "$SITE_DIR" && hugo --environment sveltia --cleanDestinationDir --buildFuture && pnpm exec pagefind --site public --output-path static/pagefind)
+# 1. Construire le site et générer l'index Pagefind uniquement si nécessaire ou demandé
+FORCE_PAGEFIND=false
+if [ "$1" = "--pagefind" ] || [ "$1" = "-p" ]; then
+  FORCE_PAGEFIND=true
+fi
+
+if [ "$FORCE_PAGEFIND" = true ] || [ ! -f "$SITE_DIR/static/pagefind/pagefind.js" ]; then
+  echo "🔍 Construction du site et indexation Pagefind pour la recherche locale..."
+  (cd "$SITE_DIR" && hugo --environment sveltia --cleanDestinationDir --buildFuture && pnpm exec pagefind --site public --output-path static/pagefind)
+else
+  echo "⚡ Index Pagefind déjà existant dans static/pagefind/ (passez --pagefind pour forcer la réindexation)."
+fi
 
 # 2. Lancer le serveur Vite de Sveltia CMS en arrière-plan
+echo "🚀 Lancement de Sveltia CMS (Vite)..."
 (cd "$SVELTIA_DIR" && VITE_SITE_URL="http://localhost:1313" HUGO_CONTENT_DIR="$SITE_DIR/content" ./node_modules/.bin/vite) &
 
 # Petit délai pour laisser Vite démarrer
 sleep 1
 
-# 3. Lancer le serveur Hugo avec rechargement automatique (sans publier les brouillons)
+# 3. Lancer le serveur Hugo avec rechargement automatique (sans publier les brouillons et sans générer les flux/taxonomies)
+echo "🌐 Démarrage du serveur Hugo (http://localhost:1313)..."
+echo "   ℹ️ Première compilation du site en cours (~30s pour ~6900 pages)..."
 (
   cd "$SITE_DIR"
   while true; do
-    hugo server --environment sveltia --buildFuture --disableLiveReload || true
+    hugo server --environment sveltia --buildFuture --disableLiveReload --disableKinds=RSS,sitemap,taxonomy,term || true
     echo "⚠️ Hugo server s'est arrêté. Redémarrage automatique dans 2 secondes..."
     sleep 2
   done

@@ -6,7 +6,8 @@
   "description": "Blog starter template for Hugo Blox with Tailwind CSS v4",
   "scripts": {
     "dev": "hugo server --disableFastRender",
-    "dev:sveltia": "bash ./scripts/dev-sveltia.sh",
+    "dev:sveltia": "./scripts/dev-sveltia.sh",
+    "dev:sveltia:pagefind": "./scripts/dev-sveltia.sh --pagefind",
     "build": "python3 scripts/filter_single_tags.py && hugo --cleanDestinationDir --gc --minify && pnpm run pagefind",
     "pagefind": "pagefind --site public"
   },
