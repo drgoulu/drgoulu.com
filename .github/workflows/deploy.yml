@@ -72,26 +72,7 @@ jobs:
       - name: Index search with Pagefind
         run: pnpm run pagefind
 
-      # Artefact pour le déploiement Infomaniak
-      - name: Upload site artifact for Infomaniak
-        uses: actions/upload-artifact@v4
-        with:
-          name: public-site
-          path: ./public
-          retention-days: 1
-
-  # Déploiement : Infomaniak (via rsync / SSH)
-  deploy-infomaniak:
-    name: Deploy to Infomaniak
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Download built site artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: public-site
-          path: ./public
-
+      # Déploiement : Infomaniak (via rsync / SSH)
       - name: Normalize SSH deploy settings
         env:
           RAW_REMOTE_USER: ${{ secrets.INFOMANIAK_SSH_USER || secrets.INFOMANIAK_USER }}
