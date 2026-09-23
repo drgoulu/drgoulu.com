@@ -1,26 +1,21 @@
 ---
 title: L'énergie n'est pas une chose
-slug: l-energie-n-est-pas-une-chose
-date: '2017-12-21'
+date: 2017-12-21
 draft: false
-categories:
-- Quora
-- Réponses Fréquentes
 tags:
-- physique
-- equivalence-de-masses-energetiques
-- systeme-isole
-- mecanique-classique
-- energie-potentielle
-- relativite-physique
-- energie-physique
-- systeme
-coverImage: ./images/quora.png
+  - physique
+  - energie
+  - systeme
+categories:
+  - Quora
+  - Réponses Fréquentes
+slug: l-energie-n-est-pas-une-chose
+coverImage: ./images/Gemini_Generated_Image_9aq2r19aq2r19aq2.jpeg
 ---
 
-*Réponse publiée [sur Quora](https://reponsesfrequentes.quora.com/L-énergie-n-est-pas-une-chose)*
+_Réponse publiée_ [_sur Quora_](https://reponsesfrequentes.quora.com/L-énergie-n-est-pas-une-chose)
 
-L’ [énergie](w:Énergie_(physique)) n’est pas une chose, un fluide mystérieux, ni une propriété de la matière comme la [masse](w:) . Ce n’est qu’une mesure, une valeur mathématique qui reste constante lors des transformations d’un système isolé. C’est l’invariant par translation dans le temps selon le [Théorème de Noether.](w:Théorème_de_Noether_(physique))
+L’ [énergie](w:Énergie_\(physique\)) n’est pas une chose, un fluide mystérieux, ni une propriété de la matière comme la [masse](w:) . Ce n’est qu’une mesure, une valeur mathématique qui reste constante lors des transformations d’un système isolé. C’est l’invariant par translation dans le temps selon le [Théorème de Noether.](w:Théorème_de_Noether_\(physique\))
 
 Il en résulte que l’ “énergie pure” n’existe pas.
 
@@ -34,13 +29,13 @@ C’est là qu’il faut se souvenir que l’énergie se conserve dans un systè
 
 Donc l’énergie potentielle n’est pas de l’énergie liée au caillou mais au “[potentiel](w:Potentiel_d'un_champ_vectoriel)” du système. C’est juste un nombre qui permet au système de conserver une énergie constante. D’ailleurs l’expression E=m.g.h dépend autant de la masse du caillou que de la gravité (ici terrestre) et de la hauteur.
 
-**E=m.c^2 et l’ “équivalence masse-énergie”**
+**$E=m.c^2$ et l’ “équivalence masse-énergie”**
 
-Einstein n’a pas écrit “E=mc^2” dans le sens d’une équivalence. Ce qu’il a écrit dans [1] et qui est parfaitement exact, c’est
+Einstein n’a pas écrit $E=mc^2$ dans le sens d’une équivalence. Ce qu’il a écrit dans [1] et qui est parfaitement exact, c’est
 
-> si un corps perd une énergie L sous forme de rayonnement, sa masse diminue de L/c^2.
+> si un corps perd une énergie L sous forme de rayonnement, sa masse diminue de $L/c^2$.
 
-Le mot important c’est “rayonnement” : une perte de masse produit l’émission de particules dotées de l’énergie correspondante. Par exemple [l’annihilation matière-antimatière](w:Annihilation_(physique))produit des photons gamma (= à haute énergie).
+Le mot important c’est “rayonnement” : une perte de masse produit l’émission de particules dotées de l’énergie correspondante. Par exemple [l’annihilation matière-antimatière](w:Annihilation_\(physique\))produit des photons gamma (= à haute énergie).
 
 **Référence:**
 

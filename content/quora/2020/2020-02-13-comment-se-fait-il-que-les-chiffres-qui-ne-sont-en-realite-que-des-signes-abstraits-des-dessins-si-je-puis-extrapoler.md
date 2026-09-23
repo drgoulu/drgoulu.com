@@ -1,23 +1,16 @@
 ---
 title: Comment se fait il que les chiffres qui ne sont en réalité que des signes abstraits des dessins si je puis extrapoler
-slug: comment-se-fait-il-que-les-chiffres-qui-ne-sont-en-realite-que-des-signes-abstraits-des-dessins-si-je-puis-extrapoler
-date: '2020-02-13'
-draft: false
-categories:
-- Comment
-- Quora
-- Notre ancêtre Urgh
+date: 2020-02-13
+draft: true
 tags:
-- physique
-- mathematiques
-- sciences
-- philosophie-des-sciences
-- demarche-scientifique
-- histoire-des-sciences
-- modelisation-mathematique
-- raison-scientifique
-- physique-theorique
-- mathematiques-et-physique
+  - physique
+  - mathematiques
+  - sciences
+categories:
+  - Comment
+  - Quora
+  - Notre ancêtre Urgh
+slug: comment-se-fait-il-que-les-chiffres-qui-ne-sont-en-realite-que-des-signes-abstraits-des-dessins-si-je-puis-extrapoler
 coverImage: ./images/quora.png
 ---
 
