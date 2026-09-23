@@ -1,16 +1,15 @@
 ---
 title: Pourquoi le nombre de cancers a-t-il augmenté vertigineusement depuis la vaccination ARN messager de masse ?
-slug: pourquoi-le-nombre-de-cancers-a-t-il-augmente-vertigineusement-depuis-la-vaccination-arn-messager-de-masse
-date: '2024-04-01'
-draft: false
-categories:
-- Pourquoi
+date: 2024-04-01
+draft: true
 tags:
-- sante-publique
-- theories-du-complot
-- vaccination
-- epidemiologie
-- vaccin-covid-19
+  - vaccination
+  - epidemiologie
+  - covid-19
+  - désinformation
+categories:
+  - Pourquoi
+slug: pourquoi-le-nombre-de-cancers-a-t-il-augmente-vertigineusement-depuis-la-vaccination-arn-messager-de-masse
 coverImage: ./images/quora.png
 ---
 

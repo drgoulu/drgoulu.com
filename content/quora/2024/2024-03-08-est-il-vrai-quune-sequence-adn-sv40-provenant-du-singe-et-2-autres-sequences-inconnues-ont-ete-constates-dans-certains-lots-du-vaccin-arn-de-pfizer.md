@@ -1,16 +1,15 @@
 ---
 title: Est-il vrai qu’une séquence ADN SV40 (provenant du singe) et 2 autres séquences inconnues ont été constatés dans certains lots du vaccin ARN de Pfizer ? Est-il vrai qu’ils peuvent s’ajouter à notre ADN ?
-slug: est-il-vrai-quune-sequence-adn-sv40-provenant-du-singe-et-2-autres-sequences-inconnues-ont-ete-constates-dans-certains-lots-du-vaccin-arn-de-pfizer
-date: '2024-03-08'
+date: 2024-03-08
 draft: false
-categories:
-- Quora
 tags:
-- theories-du-complot
-- genetique
-- vaccins
-- vaccination
-- vaccin-covid-19
+  - theories-du-complot
+  - genetique
+  - vaccins
+  - covid
+categories:
+  - Quora
+slug: est-il-vrai-quune-sequence-adn-sv40-provenant-du-singe-et-2-autres-sequences-inconnues-ont-ete-constates-dans-certains-lots-du-vaccin-arn-de-pfizer
 coverImage: ./images/quora.png
 ---
 

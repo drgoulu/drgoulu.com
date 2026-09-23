@@ -1,16 +1,13 @@
 ---
-title: Qu'attends le mossad pour éliminer khamenei ?
-slug: qu-attends-le-mossad-pour-eliminer-khamenei
-date: '2025-08-12'
+title: Qu'attend le Mossad pour éliminer Khamenei ?
+date: 2025-08-12
 draft: false
-categories:
-- Quora
 tags:
-- relations-internationales
-- theories-du-complot
-- politique-internationale
-- israel
-- theories-du-complot-specifiques
+  - iran
+  - israel
+categories:
+  - Quora
+slug: qu-attends-le-mossad-pour-eliminer-khamenei
 coverImage: ./images/quora.png
 ---
 

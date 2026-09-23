@@ -1,16 +1,13 @@
 ---
 title: Je m’étais laissé prendre par ce concept mensonger d’”enfants indigo”. Quel était leur but, en diffusant ce mensonge ? J’aimerais juste en connaître les raisons.
-slug: je-metais-laisse-prendre-par-ce-concept-mensonger-denfants-indigo-quel-etait-leur-but-en-diffusant-ce-mensonge-jaimerais-juste-en-connaitre-les-raisons
-date: '2025-01-15'
+date: 2025-01-15
 draft: false
-categories:
-- Quora
 tags:
-- psychologie
-- mythes-et-idees-fausses
-- desinformation
-- theories-du-complot
-- manipulation
+  - psychologie
+  - pseudo
+categories:
+  - Quora
+slug: je-metais-laisse-prendre-par-ce-concept-mensonger-denfants-indigo-quel-etait-leur-but-en-diffusant-ce-mensonge-jaimerais-juste-en-connaitre-les-raisons
 coverImage: ./images/quora.png
 ---
 
