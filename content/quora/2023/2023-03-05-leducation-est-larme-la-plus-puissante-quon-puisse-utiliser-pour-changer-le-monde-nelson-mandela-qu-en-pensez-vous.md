@@ -1,11 +1,14 @@
 ---
 title: '"L’éducation est l’arme la plus puissante qu’on puisse utiliser pour changer le monde" (Nelson Mandela). Qu''en pensez-vous ?'
-slug: leducation-est-larme-la-plus-puissante-quon-puisse-utiliser-pour-changer-le-monde-nelson-mandela-qu-en-pensez-vous
-date: '2023-03-05'
+date: 2023-03-05
 draft: false
+tags:
+  - citation
+  - Mandela
+  - education
 categories:
-- Quora
-tags: []
+  - Quora
+slug: leducation-est-larme-la-plus-puissante-quon-puisse-utiliser-pour-changer-le-monde-nelson-mandela-qu-en-pensez-vous
 coverImage: ./images/quora.png
 ---
 
