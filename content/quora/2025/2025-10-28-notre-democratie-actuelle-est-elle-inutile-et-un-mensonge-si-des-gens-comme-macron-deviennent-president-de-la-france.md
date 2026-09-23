@@ -2,15 +2,20 @@
 title: Notre démocratie actuelle est-elle inutile et un mensonge si des gens comme Macron deviennent président de la France ?
 slug: notre-democratie-actuelle-est-elle-inutile-et-un-mensonge-si-des-gens-comme-macron-deviennent-president-de-la-france
 date: '2025-10-28'
-draft: false
+draft: true
 categories:
 - Quora
 tags:
-- politique
 - france
-- democratie
-- gouvernement
+- systemes-politiques
+- emmanuel-macron
 - politique-francaise
+- gouvernement
+- democratie
+- presidents-francais
+- presidence-de-la-republique-francaise
+- democratie-en-france
+- politique-en-france
 coverImage: ./images/quora.png
 ---
 

@@ -18,6 +18,12 @@
     {
       "path": "../.github",
     },
+    {
+      "path": "../../quora/export",
+    },
+    {
+      "path": "../../quora/quora2hugo",
+    },
   ],
   "settings": {
     "git.ignoreLimitWarning": true,

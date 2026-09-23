@@ -2,15 +2,20 @@
 title: Je veux créer une entreprise mais je n'ai pas trop d'idée, pourriez vous me proposer quelques idées ?
 slug: je-veux-creer-une-entreprise-mais-je-n-ai-pas-trop-d-idee-pourriez-vous-me-proposer-quelques-idees
 date: '2024-05-03'
-draft: false
+draft: true
 categories:
 - Quora
 tags:
-- creation
-- entreprises
-- conseils
 - entrepreneuriat
-- projet
+- idees-de-projets
+- demarrage-d-une-entreprise
+- conseils-commerciaux
+- opportunites-d-affaires
+- creation-d-entreprise
+- conseils-aux-entrepreneurs
+- idees-de-business
+- l-entrepreneuriat
+- conseils-business
 coverImage: ./images/quora.png
 ---
 

@@ -5,12 +5,18 @@ date: '2021-04-05'
 draft: false
 categories:
 - Comment
+- Quora
+- Ça vaut la peine d'en parler
 tags:
-- sciences
 - philosophie
-- univers
+- creationnisme
+- belgique
+- univers-infini
+- religion
 - cosmologie
+- l-univers
 - theorie
+- science-et-religion
 coverImage: ./images/quora.png
 ---
 

@@ -2,15 +2,19 @@
 title: Comment les scientifiques travaillent-ils avec des experts en IA pour intégrer efficacement des techniques d'apprentissage automatique dans leurs travaux de recherche ?
 slug: comment-les-scientifiques-travaillent-ils-avec-des-experts-en-ia-pour-integrer-efficacement-des-techniques-d-apprentissage-automatique-dans-leurs-travaux-de-recherche
 date: '2024-04-26'
-draft: false
+draft: true
 categories:
 - Comment
 tags:
-- recherche-scientifique
-- recherche
-- matiere
 - intelligence-artificielle
-- methodes
+- recherche-scientifique
+- integration-de-systemes
+- experts-en-la-matiere
+- collaboration-en-ligne
+- transfert-de-technologies
+- scientifiques
+- methodes-de-recherche
+- communication-scientifique
 coverImage: ./images/quora.png
 ---
 

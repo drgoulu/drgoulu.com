@@ -1,16 +1,15 @@
 ---
-title: Qu en pensez vous ? Une super novae productrice d anti matiere ?
+title: Qu'en pensez vous Une super novae productrice d'anti matiere
 slug: qu-en-pensez-vous-une-super-novae-productrice-d-anti-matiere
 date: '2019-08-25'
 draft: true
 categories:
 - Quora
+- Là où je vais
 tags: []
 coverImage: ./images/quora.png
 ---
 
-*Réponse publiée [sur Quora](https://fr.quora.com/Qu-en-pensez-vous-Une-super-novae-productrice-d-anti-matiere/answer/Dr-Goulu)*
+*Réponse publiée [sur Quora](https://laoujevais.quora.com/Qu-en-pensez-vous-Une-super-novae-productrice-d-anti-matiere-1)*
 
-Une [Supernova par production de paires](w:) produit très temporairement une grosse quantité de positons et un nombre rigoureusement égal d'électrons qui s'annihilent mutuellement juste après.
 
-Ce que j'en pense ? Que l'univers est vraiment plein de surprises.

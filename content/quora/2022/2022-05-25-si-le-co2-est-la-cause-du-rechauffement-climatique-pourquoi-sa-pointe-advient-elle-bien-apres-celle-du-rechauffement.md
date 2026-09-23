@@ -5,12 +5,19 @@ date: '2022-05-25'
 draft: false
 categories:
 - Pourquoi
+- Quora
+- En.R et Climat
 tags:
-- sciences
 - changement-climatique
+- co2
+- effet-de-serre
+- le-dioxyde-de-carbone
+- sciences-de-l-atmosphere
+- emissions-de-carbone
+- gaz-a-effet-de-serre
 - rechauffement-climatique
-- atmosphere
-- emission
+- co2-atmospherique
+- le-rechauffement-climatique
 coverImage: ./images/quora.png
 ---
 

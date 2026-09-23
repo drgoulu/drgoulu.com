@@ -2,10 +2,20 @@
 title: Est ce que les palestiniens ont d autres options autre que la violence armée pour libérer leur territoire et vivre librement dans leur ?
 slug: est-ce-que-les-palestiniens-ont-d-autres-options-autre-que-la-violence-armee-pour-liberer-leur-territoire-et-vivre-librement-dans-leur
 date: '2024-05-15'
-draft: false
+draft: true
 categories:
 - Quora
-tags: []
+tags:
+- droits-de-l-homme
+- conflit-israelo-palestinien
+- liberte
+- israel
+- territoires
+- solutions-de-pointage
+- violence-armee
+- palestine
+- protestations-pacifiques
+- palestiniens
 coverImage: ./images/quora.png
 ---
 

@@ -2,15 +2,20 @@
 title: Pourquoi la Terre tournera-t-elle plus vite cet été ?
 slug: pourquoi-la-terre-tournera-t-elle-plus-vite-cet-ete
 date: '2025-07-17'
-draft: false
+draft: true
 categories:
 - Pourquoi
 tags:
-- sciences
 - astronomie
-- terre
-- planetes
-- nature
+- vitesse-de-rotation-de-la-terre
+- phenomenes-naturels
+- sciences-de-la-terre
+- rotation-planetes
+- rotation-de-la-terre
+- science-de-la-nature
+- phenomene-physique
+- vitesse-de-rotation
+- phenomenes-physiques
 coverImage: ./images/quora.png
 ---
 

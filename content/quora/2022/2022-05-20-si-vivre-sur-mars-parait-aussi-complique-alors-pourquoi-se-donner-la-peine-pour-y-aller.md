@@ -5,6 +5,8 @@ date: '2022-05-20'
 draft: true
 categories:
 - Pourquoi
+- Quora
+- Astuces pour devenir un génie
 tags: []
 coverImage: ./images/quora.png
 ---

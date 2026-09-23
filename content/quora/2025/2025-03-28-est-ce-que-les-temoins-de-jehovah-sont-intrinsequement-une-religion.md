@@ -13,8 +13,4 @@ coverImage: ./images/quora.png
 
 > Intrinsèquement : en soi, par nature.
 
-Puisque les
-
-[https://fr.wikipedia.org/wiki/T%...](w:Témoins_de_Jéhovah)
-
-se réclament du christianisme, il ne sont pas "intrinsèquement une religion". C'est une [secte](w:) du christianisme.
+Puisque les [Témoins de Jéhovah](w:)se réclament du christianisme, il ne sont pas "intrinsèquement une religion". C'est une [secte](w:) du christianisme.

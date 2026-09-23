@@ -2,10 +2,19 @@
 title: Pourquoi les nations du conseil de sécurité ont-elle le droit d'utiliser leur véto contre les sanctions qui les visent directement ?
 slug: pourquoi-les-nations-du-conseil-de-securite-ont-elle-le-droit-d-utiliser-leur-veto-contre-les-sanctions-qui-les-visent-directement
 date: '2022-03-01'
-draft: false
+draft: true
 categories:
 - Pourquoi
-tags: []
+tags:
+- relations-internationales
+- droit-de-veto
+- nations-unies
+- sanctions
+- diplomatie
+- politique-internationale
+- droit-international-public
+- conseil-de-securite-des-nations-unies
+- droit-international
 coverImage: ./images/quora.png
 ---
 

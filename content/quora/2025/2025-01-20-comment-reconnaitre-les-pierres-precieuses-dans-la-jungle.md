@@ -2,10 +2,20 @@
 title: Comment reconnaître les pierres précieuses dans la jungle ?
 slug: comment-reconnaitre-les-pierres-precieuses-dans-la-jungle
 date: '2025-01-20'
-draft: false
+draft: true
 categories:
 - Comment
-tags: []
+tags:
+- mineraux
+- jungle
+- pierre-naturelle
+- pierres-precieuses
+- mineralogie
+- substance-minerale
+- matiere-minerale
+- mineralogie-geologie
+- pierre-precieuse
+- pierres-naturelles
 coverImage: ./images/quora.png
 ---
 

@@ -5,7 +5,19 @@ date: '2025-05-21'
 draft: false
 categories:
 - Pourquoi
-tags: []
+- Quora
+- Grands Principes de la Démocratie
+tags:
+- russie
+- propagande
+- ukraine
+- crimee
+- independance
+- donbass
+- kremlin
+- guerre-en-ukraine
+- propagande-russe
+- annexion-de-la-crimee
 coverImage: ./images/quora.png
 ---
 

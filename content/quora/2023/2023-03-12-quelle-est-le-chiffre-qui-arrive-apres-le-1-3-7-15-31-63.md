@@ -2,15 +2,20 @@
 title: Quelle est le chiffre qui arrive apres le 1 3 7 15 31 63?
 slug: quelle-est-le-chiffre-qui-arrive-apres-le-1-3-7-15-31-63
 date: '2023-03-12'
-draft: false
+draft: true
 categories:
 - Quora
 tags:
 - mathematiques
-- nombres
+- series-et-sequences
 - probleme
+- questions-logiques
 - suites-arithmetiques
+- nombres-mathematiques
+- sequences-mathematiques
+- problemes-mathematiques
 - sequences-de-nombres
+- puzzles-logiques
 coverImage: ./images/quora.png
 ---
 

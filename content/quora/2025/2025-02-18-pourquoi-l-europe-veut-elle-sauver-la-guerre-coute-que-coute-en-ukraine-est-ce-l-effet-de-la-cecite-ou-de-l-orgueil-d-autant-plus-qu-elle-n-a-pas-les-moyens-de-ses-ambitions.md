@@ -2,14 +2,24 @@
 title: Pourquoi l' Europe veut elle sauver la guerre coûte que coûte en Ukraine ? Est ce l'effet de la cecité ou de l'orgueil ? D'autant plus qu'elle n'a pas les moyens de ses ambitions ?
 slug: pourquoi-l-europe-veut-elle-sauver-la-guerre-coute-que-coute-en-ukraine-est-ce-l-effet-de-la-cecite-ou-de-l-orgueil-d-autant-plus-qu-elle-n-a-pas-les-moyens-de-ses-ambitions
 date: '2025-02-18'
-draft: false
+draft: true
 categories:
 - Pourquoi
-tags: []
+tags:
+- geopolitique
+- operation-militaire-russe-en-ukraine
+- orgueilleux
+- analyse-politique
+- cecite
+- conflit-en-ukraine
+- politique-europeenne
+- enjeux-geopolitiques
+- guerre-en-ukraine
+- politique-de-l-union-europeenne
 coverImage: ./images/quora.png
 ---
 
-*Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-l-Europe-veut-elle-sauver-la-guerre-co%C3%BBte-que-co%C3%BBte-en-Ukraine-Est-ce-l-effet-de-la-cecit%C3%A9-ou-de-l-orgueil-D-autant-plus-qu-elle-n-a-pas-les-moyens-de-ses-ambitions/answer/Dr-Goulu)*
+*Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-l-Europe-veut-elle-sauver-la-guerre-co%C3%BBte-que-co%C3%BBte-en-Ukraine-Est-ce-leffet-de-la-cecit%C3%A9-ou-de-lorgueil-Dautant-plus-quelle-na-pas-les-moyens-de-ses-ambitions/answer/Dr-Goulu)*
 
 C'est l'effet de la mémoire :
 
@@ -26,3 +36,5 @@ Mais au contraire d'Hitler, Poutine n'a pas promis qu'il s'arrêterait après l'
 Comme son inspirateur moustachu, Poutine va éventuellement mettre l'Europe à feu et à sang, mais il va très certainement ruiner son peuple, lui coller une honte indélébile pour des générations pour les crimes de guerre qu'ils ont commis, et peut-être provoquer le morcellement du territoire de la "Sainte Russie" dont de nombreux peuples ne voudront pas partager le funeste destin.
 
 Quant aux "moyens de ses ambitions", l'Europe n'a que l'ambition de défendre les pays qui la composent, et l'Ukraine en fait désormais partie. Contre un pays qui a le PIB de l'Espagne, exsangue après avoir échoué à envahir un pays pacifique 4x moins peuplé, je vous promets que l'Europe se donnera très vite les moyens de ne pas se faire entuber une seconde fois par un dictateur mégalomane.
+
+Pour mémoire, l'OTAN était moribond, et grâce à l'attaque sur l'Ukraine de Poutine il y gagné deux membres de plus, dont un à sa frontière. Aujourd'hui grâce à Poutine je voterais oui à l'adhésion de la Suisse à l'OTAN, et pour ma part les USA peuvent s'en retirer s'ils veulent, on a pas besoin de lâcheurs, voire de traîtres dans une alliance.

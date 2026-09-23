@@ -5,7 +5,19 @@ date: '2022-01-29'
 draft: false
 categories:
 - Pourquoi
-tags: []
+- Quora
+- Science, s'il vous plaît !
+tags:
+- comportement
+- biologie
+- feu
+- differences-et-similitudes
+- primates
+- anthropologie
+- cognition
+- evolution-humaine
+- homo-sapiens
+- evolution-biologie
 coverImage: ./images/quora.png
 ---
 
@@ -17,10 +29,10 @@ Je pense que vous vouliez plutôt parler des [Hominidés](w:Hominidae), la famil
 
 Ces cousins vivent dans des forêts humides où le feu n'est pas courant, et quand ça brûle il vaut mieux partir très vite. Les curieux qui voulaient comprendre ce que c était ne se sont pas reproduits…
 
-Nos ancêtres [Australopithèques](w:Australopithèque) étaient des singes de savane, marchant souvent debout pour repérer nourriture et prédateurs. On peut penser qu'ils voyaient plus souvent des arbres foudroyés, et qu'en cas d'incendie ils ont vite appris à contourner le feu et "compris" l effet du vent, ce qui brûlait et ce qui ne brûlait pas, jusqu'au jour où mon ancêtre Urgh a été assez courageux pour ramasser une branche enflammée…
+Nos ancêtres [Australopithèques](w:Australopithèque) étaient des singes de savane, marchant souvent debout pour repérer nourriture et prédateurs. On peut penser qu'ils voyaient plus souvent des arbres foudroyés, et qu'en cas d'incendie ils ont vite appris à contourner le feu et "compris" l effet du vent, ce qui brûlait et ce qui ne brûlait pas, jusqu'au jour où mon ancêtre Urgh a été assaz courageux pour ramasser une branche enflammée…
 
 La [Domestication du feu](w:)a certainement pris encore très longtemps avant qu'on ne sache allumer un feu, conséquence probable de l'utilisation d'outils plus complexes, par exemple en voulant forer un trou en tournant une baguette, ou en taillant des silex.
 
-Le feu a certainement eu un rôle décisif, en attendrissant les aliments ce qui a permis à nos maxillaires de s'alléger et à notre gorge de produire des sons plus contrôlés et modulés.
+Le feu a certainement eu un rôle décisif, en atendrissant les aliments ce qui a permis à nos maxillaires de s'alléger et à notre gorge de produire des sons plus contrôlés et modulés.
 
 Le langage articulé est la différence clé avec les autres Hominidés (et a fortiori les primates). Il nous a permis de transmettre nos connaissances à plus de nos congénères, sans avoir besoin de répéter indéfiniment les expériences. Ça a développé la capacité à imaginer, puis à penser des choses abstraites et à les communiquer.

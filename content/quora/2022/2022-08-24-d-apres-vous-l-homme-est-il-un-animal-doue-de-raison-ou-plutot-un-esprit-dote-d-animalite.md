@@ -5,10 +5,11 @@ date: '2022-08-24'
 draft: true
 categories:
 - Quora
+- Sciences humaines
 tags: []
 coverImage: ./images/quora.png
 ---
 
 *Réponse publiée [sur Quora](https://fr.quora.com/D-apr%C3%A8s-vous-l-Homme-est-il-un-animal-dou%C3%A9-de-raison-ou-plut%C3%B4t-un-esprit-dot%C3%A9-d-animalit%C3%A9/answer/Dr-Goulu)*
 
-comme je n'ai jamais vu d'esprit ni de raison, je dirais un animal avec un cerveau capable assez puissant pour imaginer des choses fictives…
+comme je n'ai jamais vu d' esprit ni de raison, je dirais un animal avec un cerveau assez puissant pour imaginer des choses fictives …

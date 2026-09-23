@@ -2,15 +2,20 @@
 title: L'Europe est critiquée comme un continent en déperdition, du fait des pratiques pervers souvent contre nature. Elle se défend de vouloir exprimer la liberté d'expression comme valeur démocratique. Peut on accorder du crédit à cette position ?
 slug: l-europe-est-critiquee-comme-un-continent-en-deperdition
 date: '2024-07-28'
-draft: false
+draft: true
 categories:
 - Quora
 tags:
-- europe
+- l-europe
 - critique
 - liberte-d-expression
 - valeurs-fondamentales
+- contre-culture
+- democratique
 - critique-sociale
+- analyse-critique
+- valeurs-europeennes
+- la-liberte-d-expression
 coverImage: ./images/quora.png
 ---
 

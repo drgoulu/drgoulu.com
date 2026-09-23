@@ -5,15 +5,33 @@ date: '2026-06-17'
 draft: true
 categories:
 - Quora
-tags: []
+tags:
+- geopolitique
+- hamas
+- terrorisme
+- la-maison-blanche
+- al-qaida
+- hezbollah
+- attaques-terroristes
+- extremisme
+- terroristes
+- groupes-terroristes
 coverImage: ./images/quora.png
 ---
 
-*Réponse publiée [sur Quora](https://fr.quora.com/Les-concepts-de-terrorisme-et-d-extr%C3%A9misme-sont-ils-d%C3%A9nu%C3%A9s-de-sens-Al-Qa%C3%AFda-%C3%A9tait-une-organisation-terroriste-pourtant-ses-dirigeants-se-sont-rendus-%C3%A0-la-Maison-Blanche-Ce-principe/answer/Dr-Goulu)*
+*Réponse publiée [sur Quora](https://fr.quora.com/Les-concepts-de-terrorisme-et-dextr%C3%A9misme-sont-ils-d%C3%A9nu%C3%A9s-de-sens-Al-Qa%C3%AFda-%C3%A9tait-une-organisation-terroriste-pourtant-ses-dirigeants-se-sont-rendus-%C3%A0-la-Maison-Blanche-Ce-principe/answer/Dr-Goulu)*
 
 Ces mots ne sont pas dénués de sens, ils en ont trop.
 
-J'ai demandé à Gemini IA le nombre de définitions officielles du terrorisme, il y en a plus de 100.[[1]](#aMJnz)
+J'ai demandé à Gemini IA le nombre de définitions officielles du terrorisme, il y en a plus de 100.[[1]](#WhBOj)
+
+Sa conclusion est intéressante
+
+> Cette absence de consensus fait du terrorisme un concept dit "essentiellement contesté", où les critères varient selon que l'on se place du point de vue du droit pénal, du droit de la guerre, de la politique ou des sciences sociales.
+
+Pour l'extrémisme c'est encore pire.
+
+Pour rappel , Yasser Arafat, Menachem Begin, Nelson Mandela et Sean Mc Bride (fondateur d'Amnesty International) ont reçu le prix Nobel de la Paix après avoir été condamnés pour terrorisme.
 
 Notes de bas de page
 

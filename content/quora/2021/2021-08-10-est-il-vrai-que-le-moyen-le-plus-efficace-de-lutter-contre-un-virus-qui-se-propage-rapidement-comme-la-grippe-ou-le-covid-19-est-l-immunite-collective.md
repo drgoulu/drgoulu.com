@@ -5,12 +5,18 @@ date: '2021-08-10'
 draft: false
 categories:
 - Quora
+- Science, s'il vous plaît !
 tags:
 - sante-publique
 - covid-19-2019-2020
-- virus
-- maladies-infectieuses
 - vaccins
+- grippe
+- immunite-biologie
+- maladies-infectieuses
+- virus
+- vaccination
+- epidemies
+- immunite-des-troupeaux
 coverImage: ./images/quora.png
 ---
 

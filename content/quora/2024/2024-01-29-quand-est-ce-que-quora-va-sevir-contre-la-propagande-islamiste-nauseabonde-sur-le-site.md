@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quand-est-ce-que-Quora-va-s%C3%A9vir-contre-la-propagande-islamiste-naus%C3%A9abonde-sur-le-site/answer/Dr-Goulu)*
 
-Quand vous signalerez systématiquement les auteurs et leurs publications pour
+Quand vous signalerez systématiquement les auteurs et leurs publications pour "incitation à la haine", "harcèlement et intimidation " ou "activités préjudiciables".
 
 Plusieurs se sont déjà fait éjecter.
 

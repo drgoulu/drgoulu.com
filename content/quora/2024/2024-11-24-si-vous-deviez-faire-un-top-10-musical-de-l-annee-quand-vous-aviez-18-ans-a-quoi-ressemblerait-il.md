@@ -5,6 +5,7 @@ date: '2024-11-24'
 draft: true
 categories:
 - Quora
+- Les nostalgiques
 tags: []
 coverImage: ./images/quora.png
 ---

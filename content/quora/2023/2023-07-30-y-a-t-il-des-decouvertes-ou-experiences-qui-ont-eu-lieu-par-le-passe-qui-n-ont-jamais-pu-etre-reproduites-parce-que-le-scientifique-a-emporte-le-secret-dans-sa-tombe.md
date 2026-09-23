@@ -5,6 +5,7 @@ date: '2023-07-30'
 draft: true
 categories:
 - Quora
+- Ça vaut la peine d'en parler
 tags: []
 coverImage: ./images/quora.png
 ---

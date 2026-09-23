@@ -2,14 +2,24 @@
 title: 'Que dit la science sur la corde d''argent lors des NDE (Near Death Experiance : Expérience de Mort Imminente)?'
 slug: que-dit-la-science-sur-la-corde-d-argent-lors-des-nde-near-death-experiance-experience-de-mort-imminente
 date: '2024-07-15'
-draft: false
+draft: true
 categories:
 - Quora
-tags: []
+tags:
+- sciences
+- spiritualite
+- conscience
+- experience-de-mort-imminente
+- recherche-scientifique
+- activite-paranormale-phenomenes-surnaturels
+- phenomene-surnaturel
+- religion-et-spiritualite
+- etude-scientifique
+- mort-imminente
 coverImage: ./images/quora.png
 ---
 
-*Réponse publiée [sur Quora](https://fr.quora.com/Que-dit-la-science-sur-la-corde-d-argent-lors-des-NDE-Near-Death-Experiance-Exp%C3%A9rience-de-Mort-Imminente/answer/Dr-Goulu)*
+*Réponse publiée [sur Quora](https://fr.quora.com/Que-dit-la-science-sur-la-corde-dargent-lors-des-NDE-Near-Death-Experiance-Exp%C3%A9rience-de-Mort-Imminente/answer/Dr-Goulu)*
 
 Que la science ne s'occupe que de phénomènes reproductibles, pas de témoignages.
 

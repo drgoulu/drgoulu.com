@@ -5,6 +5,8 @@ date: '2020-11-24'
 draft: true
 categories:
 - Comment
+- Quora
+- Astronomie
 tags: []
 coverImage: ./images/quora.png
 ---
@@ -13,9 +15,9 @@ coverImage: ./images/quora.png
 
 parce qu' à l'échelle de l'Univers, la [Galaxie d'Andromède](w:) est tout près.
 
-Elle n'est qu'à 2.54 millions d'années lumière (tiens, on dirait des pouces…) alors que le [Rayon de Hubble](w:) est de 13.8 milliards d'années-lumière, 5400 fois plus …
+Elle n'est qu'à [2](w:Galaxie_d'Andromède).54 millions d'années lumière (tiens, on dirait des pouces…) alors que le [Rayon de Hubble](w:) est de 13.8 milliards d'années-lumière, 5400 fois plus …
 
-Si on multiplie la distance d'Andromède (0.778 [Mpc](https://fr.wiktionary.org/wiki/mégaparsec)) par la [Constante de Hubble](w:)qui vaut 70km/s/Mpc, on trouve que l'expansion de l'Univers correspond à un éloignement d'Andromède de 55 km/s seulement.
+Si on multiplie la distance d'Andromède (0.778 [Mpc](https://fr.wiktionary.org/wiki/mégaparsec)) par la [Constante de Hubble](w:)qui vaut 70km/s/Mpc, on trouve que l'expansion de l'Univers correspont à un éloignement d'Andromède de 55 km/s seulement.
 
 Andromède se rapproche beaucoup plus vite que ça de la Voie Lactée, à 300 km/s environ, à cause de la gravitation entre les galaxies du [Groupe local](w:).
 

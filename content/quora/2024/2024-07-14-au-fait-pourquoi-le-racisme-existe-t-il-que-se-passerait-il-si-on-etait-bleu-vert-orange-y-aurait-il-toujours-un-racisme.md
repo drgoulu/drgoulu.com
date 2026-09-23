@@ -2,7 +2,7 @@
 title: Au fait pourquoi le racisme existe-t-il ? Que se passerait-il si on etait bleu, vert, orange…Y'aurait-il toujours un racisme ? 🤣
 slug: au-fait-pourquoi-le-racisme-existe-t-il-que-se-passerait-il-si-on-etait-bleu-vert-orange-y-aurait-il-toujours-un-racisme
 date: '2024-07-14'
-draft: false
+draft: true
 categories:
 - Pourquoi
 tags: []

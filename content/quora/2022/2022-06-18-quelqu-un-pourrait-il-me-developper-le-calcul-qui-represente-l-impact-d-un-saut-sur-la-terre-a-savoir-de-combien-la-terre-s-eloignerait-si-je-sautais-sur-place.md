@@ -2,15 +2,19 @@
 title: Quelqu'un pourrait-il me développer le calcul qui représente l'impact d'un saut sur la terre ? A savoir de combien la Terre s'éloignerait si je sautais sur place ?
 slug: quelqu-un-pourrait-il-me-developper-le-calcul-qui-represente-l-impact-d-un-saut-sur-la-terre-a-savoir-de-combien-la-terre-s-eloignerait-si-je-sautais-sur-place
 date: '2022-06-18'
-draft: false
+draft: true
 categories:
 - Combien
 tags:
 - physique
-- terre
-- planetes
+- saut
+- impact
+- terre-planete
+- calcul
+- force-de-gravite
+- mouvement-physique
+- effet
 - gravite
-- mouvement
 coverImage: ./images/quora.png
 ---
 

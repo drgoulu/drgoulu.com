@@ -2,15 +2,19 @@
 title: Pourquoi a t'on créé des machines faîtes de silicium et autres métaux ,surpuissantes pour assister des êtres biologiques, au lieu de créer des êtres biologiques surpuissants ?
 slug: pourquoi-a-t-on-cree-des-machines-faites-de-silicium-et-autres-metaux-surpuissantes-pour-assister-des-etres-biologiques-au-lieu-de-creer-des-etres-biologiques-surpuissants
 date: '2023-12-17'
-draft: false
+draft: true
 categories:
 - Pourquoi
 tags:
-- sciences
 - philosophie
-- evolution
-- processus
+- nouvelles-technologies
+- evolution-processus
+- creation
+- intelligence-artificielle
+- l-humanite
 - humanite
+- philosophie-des-sciences
+- superintelligence-artificielle
 coverImage: ./images/quora.png
 ---
 

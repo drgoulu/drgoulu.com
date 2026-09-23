@@ -2,15 +2,19 @@
 title: Pourquoi peut-on trouver des animaux préhistoriques parfaitement conservés dans l'ambre et la glace, mais pas de dinosaures ?
 slug: pourquoi-peut-on-trouver-des-animaux-prehistoriques-parfaitement-conserves-dans-l-ambre-et-la-glace-mais-pas-de-dinosaures
 date: '2022-08-23'
-draft: false
+draft: true
 categories:
 - Pourquoi
 tags:
 - paleontologie
-- conservation
+- glace
 - dinosaures
-- fossiles
+- la-vie-prehistorique
+- conservation
 - prehistoire
+- glaciers
+- fossiles
+- animaux-prehistoriques
 coverImage: ./images/quora.png
 ---
 

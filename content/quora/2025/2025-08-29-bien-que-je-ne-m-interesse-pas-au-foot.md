@@ -5,6 +5,8 @@ date: '2025-08-29'
 draft: true
 categories:
 - Pourquoi
+- Quora
+- Espace de Le Gaulois
 tags: []
 coverImage: ./images/quora.png
 ---

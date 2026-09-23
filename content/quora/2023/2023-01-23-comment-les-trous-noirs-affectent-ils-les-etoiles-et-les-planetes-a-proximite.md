@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Pas plus qu'une étoile de même masse.
 
-Les trous noirs sont très petits : leur [rayon](w:Rayon_de_Schwarzschild)vaut 3km par masse solaire
+Les trous noirs sont très petits : leur [rayon](w:Rayon_de_Schwarzschild)vaut 3km par masse solaire, donc quelques dizaines de km pour des trous noirs stellaires, et quelques millions à quelques milliards de km pour des trous noirs supermassifs, donc la taille d'une étoile.

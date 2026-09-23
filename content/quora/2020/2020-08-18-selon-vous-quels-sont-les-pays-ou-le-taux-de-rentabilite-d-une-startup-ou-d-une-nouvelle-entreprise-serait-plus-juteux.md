@@ -5,12 +5,16 @@ date: '2020-08-18'
 draft: false
 categories:
 - Quora
+- Idées d'entrepreneuriat
 tags:
-- economie
-- entreprises
+- investissement
 - pays
-- economie-mondiale
 - entrepreneuriat
+- economie-mondiale
+- croissance-economique
+- start-up
+- economie-d-entreprise
+- entrepreneuriat-et-business
 coverImage: ./images/quora.png
 ---
 
