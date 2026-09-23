@@ -20,4 +20,4 @@ La vitesse de la lumière est un cas particulier de la constante universelle c q
 
 Concevoir “autre chose” comme les [Tachyons](w:Tachyon), c’est modifier complètement la relation entre le temps et l’espace, et donc la causalité (apparente dirait [Frédéric](https://fr.quora.com/profile/Fredocaster) ) qui fait que nous pouvons exister. Concevoir ceci est une chose, le démontrer expérimentalement en est une autre …
 
-Voir [La vitesse de la lumière sur mes Réponses Fréquentes](https://reponsesfrequentes.quora.com/La-vitesse-de-la-lumi%C3%A8re)
+Voir [La vitesse de la lumière sur mes Réponses Fréquentes](/2017/2017-12-28-la-vitesse-de-la-lumiere)

@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 on entend rien du tout, on entend par les oreilles :-)
 
-Sérieusement, cette expression est soit utilisée dans un sens métaphorique , soit par des gens qui n'ont pas compris que [L'énergie n'est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose). Elle n'existe pas vraiment. C'est un mot commun à diverses grandeurs dont la somme pondérée par différents facteurs a l'étrange particularité de rester constante dans un système isolé.
+Sérieusement, cette expression est soit utilisée dans un sens métaphorique , soit par des gens qui n'ont pas compris que [L'énergie n'est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose). Elle n'existe pas vraiment. C'est un mot commun à diverses grandeurs dont la somme pondérée par différents facteurs a l'étrange particularité de rester constante dans un système isolé.
 
 C'est vraiment bizarre : vous prenez un caillou, vous le laissez tomber et vous additionnez :
 

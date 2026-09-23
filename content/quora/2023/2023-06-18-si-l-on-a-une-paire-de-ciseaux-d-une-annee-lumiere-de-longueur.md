@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Devant l'abondance de questions similaires, j'ai pondu une "réponse fréquente" :
 
-[Publication de Dr. Goulu dans Réponses Fréquentes](https://reponsesfrequentes.quora.com/Pourquoi-si-je-pousse-tire-tourne-un-long-objet-lautre-bout-ne-se-met-pas-instantan%C3%A9ment-%C3%A0-bouger-donc-plus-vite-que)
+[Publication de Dr. Goulu dans Réponses Fréquentes](/2023/2023-06-18-pourquoi-si-je-pousse-tire-tourne-un-long-objet-lautre-bout-ne-se-met-pas-instantanement-a-bouger-donc-plus-vite-que)

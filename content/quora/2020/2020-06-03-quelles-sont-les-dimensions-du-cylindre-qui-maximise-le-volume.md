@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 … avec une surface S donnée, je parie ?
 
-bon alors je "retourne" ma [Réponse à Quelles sont les dimensions du cylindre qui minimise la surface ?](https://fr.quora.com/Quelles-sont-les-dimensions-du-cylindre-qui-minimise-la-surface/answer/Philippe-Guglielmetti?ch=10&share=7f892870&srid=3iJbP), petit malin ….
+bon alors je "retourne" ma [Réponse à Quelles sont les dimensions du cylindre qui minimise la surface ?](/2020/2020-06-03-quelles-sont-les-dimensions-du-cylindre-qui-minimise-la-surface), petit malin ….
 
 on a la surface $S=2\pi.r^2 + 2\pi.r.h$ (1)
 

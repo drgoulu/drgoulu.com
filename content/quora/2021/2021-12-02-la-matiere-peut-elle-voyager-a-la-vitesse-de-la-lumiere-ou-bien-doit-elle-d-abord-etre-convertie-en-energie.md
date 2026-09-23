@@ -26,4 +26,4 @@ Et si la conversion de particules "lourdes" en particules "légères" les expuls
 
 Notes de bas de page
 
-[[1]](#cite-aBqeO)[L’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose)
+[[1]](#cite-aBqeO)[L’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose)

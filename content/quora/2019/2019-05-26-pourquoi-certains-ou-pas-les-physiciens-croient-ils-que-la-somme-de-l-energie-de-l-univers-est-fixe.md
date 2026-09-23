@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Pourquoi-certains-ou-pas-les-physiciens-croient-ils-que-la-somme-de-l%C3%A9nergie-de-lunivers-est-fixe/answer/Dr-Goulu)*
 
-Il faut bien comprendre que [L’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose). C'est juste un nombre qui reste constant lors des transformations d'un **système isolé**. Le [Théorème de Noether](w:Théorème_de_Noether_(physique)) a démontré mathématiquement que pour toute "symétrie" en physique, il existe un tel nombre.
+Il faut bien comprendre que [L’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose). C'est juste un nombre qui reste constant lors des transformations d'un **système isolé**. Le [Théorème de Noether](w:Théorème_de_Noether_(physique)) a démontré mathématiquement que pour toute "symétrie" en physique, il existe un tel nombre.
 
 Par exemple le fait que l'espace est isotrope (= n'a pas de direction particulière) fait que les lois de la physique produisent le même résultat quelle que soit l'orientation d'une expérience dans l'espace. On dit que la physique est "invariante par rotation dans l'espace", et selon le théorème de Noether il existe alors un nombre qui reste invariant lorsqu'un système isolé tourne : le [Moment cinétique](w:). Mais il me semble clair que le moment cinétique se calcule, ce n'est pas "quelque chose" qui est "possédé" par le système en question.
 

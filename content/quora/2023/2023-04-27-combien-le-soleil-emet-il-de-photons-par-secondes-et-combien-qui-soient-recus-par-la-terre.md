@@ -20,9 +20,9 @@ Ca fait deux questions.
 
 la première a déjà été posée (cherchez avant de re-poser une question svp) ici
 
-[Combien de photons le Soleil émet-il chaque seconde ?](https://fr.quora.com/Combien-de-photons-le-Soleil-%C3%A9met-il-chaque-seconde)
+[Combien de photons le Soleil émet-il chaque seconde ?](/2020/2020-05-22-combien-de-photons-le-soleil-emet-il-chaque-seconde)
 
-et [j'y ai répondu ici](https://fr.quora.com/Combien-de-photons-le-Soleil-%C3%A9met-il-chaque-seconde/answer/Dr-Goulu) : 10^45 environ
+et [j'y ai répondu ici](/2020/2020-05-22-combien-de-photons-le-soleil-emet-il-chaque-seconde) : 10^45 environ
 
 la deuxième a aussi déjà été posée sous une forme légèrement différente :
 

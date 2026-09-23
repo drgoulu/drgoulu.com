@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non. l’Univers n’a pas d’extérieur, pas de limite. Sinon au delà de la limite il y aurait “autre chose”, et l’Univers contient par définition tout ce qui existe.
 
-[La vitesse de la lumière](https://reponsesfrequentes.quora.com/La-vitesse-de-la-lumi%C3%A8re) est la vitesse infinie pour les passagers de l’ “hypothétique vaisseau spatial”. Il ne sortira donc même pas de l’[Univers observable](w:).
+[La vitesse de la lumière](/2017/2017-12-28-la-vitesse-de-la-lumiere) est la vitesse infinie pour les passagers de l’ “hypothétique vaisseau spatial”. Il ne sortira donc même pas de l’[Univers observable](w:).

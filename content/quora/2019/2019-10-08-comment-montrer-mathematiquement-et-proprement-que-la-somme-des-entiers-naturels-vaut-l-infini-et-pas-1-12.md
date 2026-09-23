@@ -26,7 +26,7 @@ Comme le montre [David Louapre](https://fr.quora.com/profile/David-Louapre) dans
 >
 > Autre manière de le dire, on trouve que 1 + 2 + 3 + 4 + … est infini, mais égal à -1/12, modulo $\int x.dx$
 
-Edit après découverte lors de [cette réponse](https://fr.quora.com/Est-on-enfin-arriv%C3%A9-%C3%A0-comprendre-les-travaux-math%C3%A9matiques-de-lindien-Srinivasa-Ramanujan/answer/Dr-Goulu) : Ramanujan n'avait pas écrit
+Edit après découverte lors de [cette réponse](/2019/2019-10-11-est-on-enfin-arrive-a-comprendre-les-travaux-mathematiques-de-l-indien-srinivasa-ramanujan) : Ramanujan n'avait pas écrit
 
 $1+2+3+\cdots = -\frac1{12}\$
 

@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 
 Gravitropisme
 
-[Réponse de Dr. Goulu à Qu'est-ce qui pousse les arbres à pousser vers le haut alors même qu'ils sont plantés dans une pente ?](https://fr.quora.com/Quest-ce-qui-pousse-les-arbres-%C3%A0-pousser-vers-le-haut-alors-m%C3%AAme-quils-sont-plant%C3%A9s-dans-une-pente/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Qu'est-ce qui pousse les arbres à pousser vers le haut alors même qu'ils sont plantés dans une pente ?](/2021/2021-06-08-qu-est-ce-qui-pousse-les-arbres-a-pousser-vers-le-haut-alors-meme-qu-ils-sont-plantes-dans-une-pente)

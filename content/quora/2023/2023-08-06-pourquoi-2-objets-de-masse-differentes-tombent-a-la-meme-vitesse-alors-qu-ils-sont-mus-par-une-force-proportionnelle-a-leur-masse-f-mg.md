@@ -28,4 +28,4 @@ Il n'y a qu'UNE seule explication possible au fait que les objets tombent, c'est
 
 2 objets de masses différentes tombent à la même vitesse parce que c'est la surface de la Terre qui "accélère" vers eux à g.
 
-[Gravi* (gravité, gravitation, champ gravitationnel, graviton…)](https://reponsesfrequentes.quora.com/Gravi-gravit%C3%A9-gravitation-champ-gravitationnel-graviton)
+[Gravi* (gravité, gravitation, champ gravitationnel, graviton…)](/2018/2018-06-26-gravi-gravite-gravitation-champ-gravitationnel-graviton)

@@ -12,7 +12,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Je-suis-curieux-et-m-int%C3%A9resse-de-plus-en-plus-%C3%A0-la-physique-quantique-mais-je-ne-comprends-pas-De-ce-que-je-sais-un-photon-n-a-pas-de-masse-mais-transporte-une-%C3%A9nergie-Mais-cela-entre-en/answer/Dr-Goulu)*
 
-avant d'attaquer la MQ, il est assez conseillé de bien comprendre la mécanique "classique". Notamment que [L’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose) , c'est juste un nombre qui reste constant lors des transformations d'un système.
+avant d'attaquer la MQ, il est assez conseillé de bien comprendre la mécanique "classique". Notamment que [L’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose) , c'est juste un nombre qui reste constant lors des transformations d'un système.
 
 Un photon n'a pas vraiment d'énergie, il a une fréquence, et un atome n'a pas d'énergie mais une masse et un électron n'a pas d'énergie cinétique mais une vitesse etc.
 

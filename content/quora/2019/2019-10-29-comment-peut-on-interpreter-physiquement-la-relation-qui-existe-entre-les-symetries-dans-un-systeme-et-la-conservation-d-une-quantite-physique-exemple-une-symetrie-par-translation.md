@@ -29,4 +29,4 @@ Ce sont juste des nombres pratiques pour calculer ce qui se passe quand on utili
 
 Le cas le plus frappant est celui de l'énergie, qui se conserve par translation dans le temps. Quand on voit qu'elle s'exprime de manière différente pour chaque phénomène physique, qu'on doit même y incorporer la notion d'[Énergie potentielle](w:) et qu'on a jamais vu le moindre grain d'énergie passer de l'eau à une turbine puis à un aimant tournant dans une bobine pour arriver dans une ampoule électrique, on ne peut arriver qu'à une seule conclusion :
 
-[L'énergie n'est pas une chose.](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose)
+[L'énergie n'est pas une chose.](/2017/2017-12-21-l-energie-n-est-pas-une-chose)

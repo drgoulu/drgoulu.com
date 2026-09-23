@@ -33,4 +33,4 @@ Le premier étage de la fusée Saturn V avait une puissance de 120 GW, donc il s
 
 Voilà. Ca serait à notre portée si on avait une raison de le faire.
 
-[https://qr.ae/pKkvCW](https://reponsesfrequentes.quora.com/Gravi-gravit%C3%A9-gravitation-champ-gravitationnel-graviton?ch=10&oid=7232972&share=9178fba7&srid=3iJbP&target_type=post)
+[https://qr.ae/pKkvCW](/2018/2018-06-26-gravi-gravite-gravitation-champ-gravitationnel-graviton)

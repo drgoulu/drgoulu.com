@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Si-un-photon-contient-de-l-%C3%A9nergie-combien-lui-en-resterait-il-s-il-se-trouvait-au-bord-de-l-univers-visible-apr%C3%A8s-13-8-d-ann%C3%A9es-d-existence/answer/Dr-Goulu)*
 
-Un photon ne "contient" pas d'énergie, car [l'énergie n’est pas une chose.](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose)
+Un photon ne "contient" pas d'énergie, car [l'énergie n’est pas une chose.](/2017/2017-12-21-l-energie-n-est-pas-une-chose)
 
 L'énergie attribuée au photon est proportionnelle à sa fréquence, et [ne diminue pas avec le temps ni la distance](w:Lumière_fatiguée) car le photon n'a pas de [temps propre](w:). Pour lui, tout est instantané, et la distance entre son émission et son absorption est nulle.
 

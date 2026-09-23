@@ -24,4 +24,4 @@ Par exemple, la [Conservation du moment cinétique](w:)résulte de la symétrie 
 
 Emmy Noether a démontré que la [Conservation de l'énergie](w:)résulte de la symétrie par translation dans le temps : le fait qu'une expérience (dans un système isolé) donne le même résultat aujourd'hui qu'hier implique que l'énergie dans ce système ne varie pas.
 
-Il en résulte aussi que [l'énergie n'est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose). C'est juste un nombre.
+Il en résulte aussi que [l'énergie n'est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose). C'est juste un nombre.

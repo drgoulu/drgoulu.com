@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Oui, mais pas pour la raison indiquée.
 
-[L’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose) , il n'existe pas d' "énergie pure". L'énergie, c'est juste une grandeur qui se conserve, un nombre qui reste constant pour un système isolé donné.
+[L’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose) , il n'existe pas d' "énergie pure". L'énergie, c'est juste une grandeur qui se conserve, un nombre qui reste constant pour un système isolé donné.
 
 Ce que signifie $e=m.c^2$ c'est exactement ce qu'Einstein a écrit dans son article en 1905 :
 

@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Si-la-masse-est-de-l%C3%A9nergie-et-vice-versa-peut-on-compacter-de-l%C3%A9nergie-en-mati%C3%A8re-Quels-seraient-les-effets-sur-lenvironnement-proche/answer/Dr-Goulu)*
 
-[L’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose), c’est juste un nombre qui traduit une propriété fondamentale de l’Univers : la symétrie par translation dans le temps[[1]](#Uqbqk)
+[L’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose), c’est juste un nombre qui traduit une propriété fondamentale de l’Univers : la symétrie par translation dans le temps[[1]](#Uqbqk)
 
 On sait convertir de la masse en particules à haute énergie (énergie nucléaire etc.) et on sait faire l’inverse aussi dans les accélérateurs de particules, qui produisent des particules plus massives que celles (au repos) qui entrent en collision.
 

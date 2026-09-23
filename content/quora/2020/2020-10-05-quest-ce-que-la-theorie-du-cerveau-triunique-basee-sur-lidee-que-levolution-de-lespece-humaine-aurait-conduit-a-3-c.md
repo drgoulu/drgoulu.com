@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 
 Triunique
 
-[Réponse de Dr. Goulu à Qu'est-ce que la théorie du cerveau triunique (basée sur l'idée que l'évolution de l'espèce humaine aurait conduit à 3 cerveaux distincts) ?](https://fr.quora.com/Quest-ce-que-la-th%C3%A9orie-du-cerveau-triunique-bas%C3%A9e-sur-lid%C3%A9e-que-l%C3%A9volution-de-lesp%C3%A8ce-humaine-aurait-conduit-%C3%A0-3-cerveaux-distincts/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Qu'est-ce que la théorie du cerveau triunique (basée sur l'idée que l'évolution de l'espèce humaine aurait conduit à 3 cerveaux distincts) ?](/2020/2020-10-05-qu-est-ce-que-la-theorie-du-cerveau-triunique-basee-sur-l-idee-que-l-evolution-de-l-espece-humaine-aurait-conduit-a-3-cerveaux-distincts)

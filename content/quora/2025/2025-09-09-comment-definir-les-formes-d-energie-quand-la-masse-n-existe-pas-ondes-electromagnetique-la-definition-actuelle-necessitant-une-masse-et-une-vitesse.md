@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non, seule la définition de l'énergie cinétique nécessite une masse, une vitesse, et un référentiel (à ne pas oublier)
 
-[L’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose). C'est juste un nombre qui reste constant (dans un référentiel donné) en raison de la "symétrie" de la physique par translation dans le temps (théorème de Noether)
+[L’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose). C'est juste un nombre qui reste constant (dans un référentiel donné) en raison de la "symétrie" de la physique par translation dans le temps (théorème de Noether)

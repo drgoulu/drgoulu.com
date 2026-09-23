@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 C'est une grosse bêtise résultant de la sur vulgarisation de la mauvaise vulgarisation d'une vulgarisation de résultat scientifique.
 
-[https://qr.ae/pGLlPj](https://fr.quora.com/Faut-il-vraiment-sinqui%C3%A9ter-de-loscillation-de-lorbite-de-la-Lune-annonc%C3%A9e-par-la-NASA/answer/Philippe-Guglielmetti?ch=10&oid=295912130&share=f080711f&srid=3iJbP&target_type=answer)
+[https://qr.ae/pGLlPj](/2021/2021-07-15-faut-il-vraiment-s-inquieter-de-l-oscillation-de-l-orbite-de-la-lune-annoncee-par-la-nasa)

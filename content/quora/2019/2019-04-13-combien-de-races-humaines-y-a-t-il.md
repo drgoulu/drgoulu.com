@@ -26,4 +26,4 @@ Une seule [Race humaine](w:).
 
 ,
 
-[Publication de Dr. Goulu dans Réponses Fréquentes](https://reponsesfrequentes.quora.com/La-grande-majorit%C3%A9-des-esp%C3%A8ces-animales-ont-des-races-attribu%C3%A9es-alors-pourquoi-nen-avons-nous-pas)
+[Publication de Dr. Goulu dans Réponses Fréquentes](/2020/2020-08-11-la-grande-majorite-des-especes-animales-ont-des-races-attribuees-alors-pourquoi-nen-avons-nous-pas)

@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Latome-est-il-tangible-ou-est-ce-une-forme-d%C3%A9nergie-comme-la-chaleur-par-exemple-Est-il-sph%C3%A9rique/answer/Dr-Goulu)*
 
-La première remarque, c'est que [L’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose). Elle n'existe pas vraiment. C'est un nombre qui reste constant lors des transformations d'un système isolé.
+La première remarque, c'est que [L’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose). Elle n'existe pas vraiment. C'est un nombre qui reste constant lors des transformations d'un système isolé.
 
 La chaleur, c'est un mouvement de particules, en principe des atomes ou des molécules, éventuellement additionné de la fréquence de photons. Sans particules, il n'y a pas d énergie, encore moins de chaleur.
 

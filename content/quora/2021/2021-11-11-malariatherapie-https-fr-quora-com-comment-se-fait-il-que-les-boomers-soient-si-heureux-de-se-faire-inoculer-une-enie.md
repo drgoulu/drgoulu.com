@@ -15,4 +15,4 @@ coverImage: ./images/quora.png
 
 Malariathérapie
 
-[Réponse de Dr. Goulu à Comment se fait-il que les boomers soient si heureux de se faire inoculer une énième fois ?](https://fr.quora.com/Comment-se-fait-il-que-les-boomers-soient-si-heureux-de-se-faire-inoculer-une-%C3%A9ni%C3%A8me-fois/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Comment se fait-il que les boomers soient si heureux de se faire inoculer une énième fois ?](/2021/2021-11-11-comment-se-fait-il-que-les-boomers-soient-si-heureux-de-se-faire-inoculer-une-enieme-fois)

@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Selon-la-premi%C3%A8re-loi-de-la-thermodynamique-on-dit-que-l%C3%A9nergie-n%C3%AAst-ni-cr%C3%A9%C3%A9e-ni-d%C3%A9truite-Alors-do%C3%B9-vient-l%C3%A9nergie-sans-se-baser-sur-sa-formule-On-dit-quelle-se-transforme/answer/Dr-Goulu)*
 
-La première chose à comprendre, c'est que [l’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose). C'est une grandeur (=un nombre) qui reste constante lors des transformations d'un "système isolé" . Ça découle d'une symétrie des lois de la physique (voir [Théorème de Noether](w:Théorème_de_Noether_(physique)))
+La première chose à comprendre, c'est que [l’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose). C'est une grandeur (=un nombre) qui reste constante lors des transformations d'un "système isolé" . Ça découle d'une symétrie des lois de la physique (voir [Théorème de Noether](w:Théorème_de_Noether_(physique)))
 
 Donc si vous pouvez calculer l'énergie d'un "système isolé", il l'a toujours eue. La même. Sous une autre forme probablement, mais la même.
 

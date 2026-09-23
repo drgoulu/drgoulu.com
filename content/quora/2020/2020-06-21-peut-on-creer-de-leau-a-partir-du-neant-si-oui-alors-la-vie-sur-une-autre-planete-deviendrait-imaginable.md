@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Peut-on-cr%C3%A9er-de-l-eau-%C3%A0-partir-du-n%C3%A9ant-Si-oui-alors-la-vie-sur-une-autre-plan%C3%A8te-deviendrait-imaginable/answer/Dr-Goulu)*
 
-Ne répétez pas vos questions svp. J'ai déjà répondu à [Peut-on créer de l’eau à partir du néant ou de quelque chose qui n’a strictement rien à avoir avec la forme finale d’eau ?](https://fr.quora.com/Peut-on-cr%C3%A9er-de-l-eau-%C3%A0-partir-du-n%C3%A9ant-ou-de-quelque-chose-qui-n-a-strictement-rien-%C3%A0-avoir-avec-la-forme-finale-d-eau)
+Ne répétez pas vos questions svp. J'ai déjà répondu à [Peut-on créer de l’eau à partir du néant ou de quelque chose qui n’a strictement rien à avoir avec la forme finale d’eau ?](/2020/2020-06-21-peut-on-creer-de-leau-a-partir-du-neant-ou-de-quelque-chose-qui-na-strictement-rien-a-avoir-avec-la-forme-finale-deau)
 
 Je ne vois pas le rapport avec "la vie sur une autre planète deviendrait imaginable". L'apparition de la vie nécessite beaucoup d'autres conditions que juste de l'eau, qui existe très probablement sur de nombreuses planètes.
 

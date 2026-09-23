@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Je me suis rappelé d'une question similaire et voulais fusionner les questions, mais en fait c'était la question "inverse"
 
-[Réponse de Dr. Goulu à Comment se forment dans les étoiles les atomes de numéro atomiques impairs ?](https://fr.quora.com/Comment-se-forment-dans-les-%C3%A9toiles-les-atomes-de-num%C3%A9ro-atomiques-impairs/answer/Dr-Goulu)
+[Réponse de Dr. Goulu à Comment se forment dans les étoiles les atomes de numéro atomiques impairs ?](/2021/2021-12-09-comment-se-forment-dans-les-etoiles-les-atomes-de-numero-atomiques-impairs)
 
 Pour être plus précis ici, l'[Effet d'Oddo-Harkins](w:)s'explique par
 

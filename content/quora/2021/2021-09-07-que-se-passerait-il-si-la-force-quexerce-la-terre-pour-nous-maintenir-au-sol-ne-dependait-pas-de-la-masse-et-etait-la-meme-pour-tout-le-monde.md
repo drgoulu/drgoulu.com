@@ -30,7 +30,7 @@ Et là Albert se marre, parce qu'il nous le répète depuis 1915 : y'a pas de gr
 
 la Terre ne nous attire pas vers le bas, c'est elle qui "accélère" vers le haut !
 
-Oui je sais, ça choque. Je ne m'en suis toujours pas remis moi-même. Mais avant de hurler dans les commentaires lisez svp [Réponse de Dr. Goulu à Comment le fait que l'espace soit courbé fait-il que la gravité nous tire vers le bas ?](https://fr.quora.com/Comment-le-fait-que-lespace-soit-courb%C3%A9-fait-il-que-la-gravit%C3%A9-nous-tire-vers-le-bas/answer/Dr-Goulu) jusqu'à la fin, y compris la traduction du petit document du Perimeter Institute hébergé au CERN à la fin, comme ça j'ai pas besoin de tout répéter.
+Oui je sais, ça choque. Je ne m'en suis toujours pas remis moi-même. Mais avant de hurler dans les commentaires lisez svp [Réponse de Dr. Goulu à Comment le fait que l'espace soit courbé fait-il que la gravité nous tire vers le bas ?](/2020/2020-12-15-comment-le-fait-que-l-espace-soit-courbe-fait-il-que-la-gravite-nous-tire-vers-le-bas) jusqu'à la fin, y compris la traduction du petit document du Perimeter Institute hébergé au CERN à la fin, comme ça j'ai pas besoin de tout répéter.
 
 Ici je vais juste répondre à la question, enfin…
 

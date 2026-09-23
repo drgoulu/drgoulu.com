@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 g = G.M/R
 
-[Gravi* (gravité, gravitation, champ gravitationnel, graviton…)](https://reponsesfrequentes.quora.com/Gravi-gravit%C3%A9-gravitation-champ-gravitationnel-graviton?ch=10&oid=7232972&share=9178fba7&srid=3iJbP&target_type=post)
+[Gravi* (gravité, gravitation, champ gravitationnel, graviton…)](/2018/2018-06-26-gravi-gravite-gravitation-champ-gravitationnel-graviton)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ça fait beaucoup de questions qui ont déjà été répondues x fois sur Quora. Cherchez avant de demander svp.
 
-[Publication de Dr. Goulu dans Réponses Fréquentes](https://reponsesfrequentes.quora.com/Est-ce-que-les-recherches-concernant-ce-qui-sest-pass%C3%A9-avant-le-Big-Bang-continuent?ch=10&oid=47117073&share=b15aac0d&srid=3iJbP&target_type=post)
+[Publication de Dr. Goulu dans Réponses Fréquentes](/2020/2020-04-22-est-ce-que-les-recherches-concernant-ce-qui-sest-passe-avant-le-big-bang-continuent)

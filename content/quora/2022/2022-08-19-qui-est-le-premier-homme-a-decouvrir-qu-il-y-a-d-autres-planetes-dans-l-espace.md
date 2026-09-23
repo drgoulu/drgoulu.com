@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://notreancetreurgh.quora.com/https-fr-quora-com-Qui-est-le-premier-homme-à-découvrir-quil-y-a-dautres-planètes-dans-lespace-answer-Philippe-Gugliel)*
 
-[Réponse de Dr. Goulu à Qui est le premier homme à découvrir qu'il y a d'autres planètes dans l'espace ?](https://fr.quora.com/Qui-est-le-premier-homme-%C3%A0-d%C3%A9couvrir-quil-y-a-dautres-plan%C3%A8tes-dans-lespace/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Qui est le premier homme à découvrir qu'il y a d'autres planètes dans l'espace ?](/2022/2022-03-07-qui-est-le-premier-homme-a-decouvrir-qu-il-y-a-d-autres-planetes-dans-l-espace)

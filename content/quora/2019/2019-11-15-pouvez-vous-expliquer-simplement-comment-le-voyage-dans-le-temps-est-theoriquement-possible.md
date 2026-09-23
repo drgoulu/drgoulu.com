@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://reponsesfrequentes.quora.com/Pouvez-vous-expliquer-simplement-comment-le-voyage-dans-le-temps-est-théoriquement-possible)*
 
-[Réponse de Dr. Goulu à Pouvez-vous expliquer simplement comment le voyage dans le temps est théoriquement possible ?](https://fr.quora.com/Pouvez-vous-expliquer-simplement-comment-le-voyage-dans-le-temps-est-th%C3%A9oriquement-possible/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Pouvez-vous expliquer simplement comment le voyage dans le temps est théoriquement possible ?](/2022/2022-05-09-pouvez-vous-expliquer-simplement-comment-le-voyage-dans-le-temps-est-theoriquement-possible)

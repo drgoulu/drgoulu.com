@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/D-o%C3%B9-provient-l-%C3%A9nergie-du-Big-Bang-Car-apr%C3%A8s-tout-n-est-ce-pas-qu-une-projection-d-%C3%A9nergie/answer/Dr-Goulu)*
 
-[L’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose). C’est juste un nombre qui reste constant lors des transformations d’un système fermé.
+[L’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose). C’est juste un nombre qui reste constant lors des transformations d’un système fermé.
 
 Pour l’Univers:
 

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Justement, à cette altitude c'est possible.
 
-[Réponse de Dr. Goulu à En sachant qu'un être humain tombe en chute libre à +/- 200, 250 km/h, comment Baumgartner a-t-il pu franchir le mur du son ?](https://fr.quora.com/En-sachant-quun-%C3%AAtre-humain-tombe-en-chute-libre-%C3%A0-200-250-km-h-comment-Baumgartner-a-t-il-pu-franchir-le-mur-du-son/answer/Philippe-Guglielmetti?ch=10&oid=1477743667670924&share=856f5398&srid=3iJbP&target_type=answer)
+[Réponse de Dr. Goulu à En sachant qu'un être humain tombe en chute libre à +/- 200, 250 km/h, comment Baumgartner a-t-il pu franchir le mur du son ?](/2023/2023-05-20-en-sachant-qu-un-etre-humain-tombe-en-chute-libre-a-200-250-km-h-comment-baumgartner-a-t-il-pu-franchir-le-mur-du-son)

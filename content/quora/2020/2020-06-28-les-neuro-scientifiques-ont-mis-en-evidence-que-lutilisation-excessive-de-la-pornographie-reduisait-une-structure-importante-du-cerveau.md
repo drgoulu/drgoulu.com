@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Les-neuro-scientifiques-ont-mis-en-%C3%A9vidence-que-l-utilisation-excessive-de-la-pornographie-r%C3%A9duisait-une-structure-importante-du-cerveau-le-noyau-caud%C3%A9-Peut-on-d%C3%A9duire-que-l-addiction-%C3%A0/answer/Dr-Goulu)*
 
-Non, comme indiqué dans ma [ma réponse à votre question Comment peut-on expliquer scientifiquement que la pornographie détruit e lobe frontal ? Est-ce que ça signifie que son utilisation accélère aussi le vieillissement ?](https://fr.quora.com/Comment-peut-on-expliquer-scientifiquement-que-la-pornographie-d%C3%A9truit-e-lobe-frontal-Est-ce-que-%C3%A7a-signifie-que-son-utilisation-acc%C3%A9l%C3%A8re-aussi-le-vieillissement/answer/Philippe-Guglielmetti?ch=10&share=5d411bcf&srid=3iJbP)
+Non, comme indiqué dans ma [ma réponse à votre question Comment peut-on expliquer scientifiquement que la pornographie détruit e lobe frontal ? Est-ce que ça signifie que son utilisation accélère aussi le vieillissement ?](/2020/2020-06-28-comment-peut-on-expliquer-scientifiquement-que-la-pornographie-detruit-e-lobe-frontal-est-ce-que-ca-signifie-que-son-utilisation-accelere-aussi-le-vieillissement)
 
 les neuro-scientifiques n'ont PAS "mis en évidence que l’utilisation excessive de la pornographie réduisait une structure importante du cerveau, le noyau caudé" mais qu'il y avait une corrélation. Ca pourrait tout aussi bien être l'inverse, qu'un petit noyau caudé incite à regarder du Q.
 

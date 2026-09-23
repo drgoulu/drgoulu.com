@@ -26,4 +26,4 @@ C'est ce grand G qu'il faut utiliser pour calculer la force de gravitation $F=G.
 
 Après vous calculez $a=F/M$pour chacun des astres, Terre et Lune en l'occurrence, et vous obtenez l'[Accélération centripète](w:)du centre de gravité de chaque astre autour du centre de gravité des deux.
 
-[Gravi* (gravité, gravitation, champ gravitationnel, graviton…)](https://reponsesfrequentes.quora.com/Gravi-gravit%C3%A9-gravitation-champ-gravitationnel-graviton)
+[Gravi* (gravité, gravitation, champ gravitationnel, graviton…)](/2018/2018-06-26-gravi-gravite-gravitation-champ-gravitationnel-graviton)

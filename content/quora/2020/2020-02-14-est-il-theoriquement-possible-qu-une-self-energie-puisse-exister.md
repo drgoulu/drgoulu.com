@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Est-il-th%C3%A9oriquement-possible-qu-une-self-%C3%A9nergie-puisse-exister/answer/Dr-Goulu)*
 
-[L'énergie n'existe pas vraiment](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose), "self" ou pas self. L'énergie est un nombre invariant lors des transformations d'un système isolé.
+[L'énergie n'existe pas vraiment](/2017/2017-12-21-l-energie-n-est-pas-une-chose), "self" ou pas self. L'énergie est un nombre invariant lors des transformations d'un système isolé.
 
 Il est très possible que l'[Univers ait une énergie totale nulle](w:Univers_à_énergie_nulle).
 

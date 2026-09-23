@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://reponsesfrequentes.quora.com/Est-ce-qu-il-y-a-une-explication-scientifique-de-l-effet-papillon)*
 
-[Réponse de Dr. Goulu à Est-ce qu’il y a une explication scientifique de l’effet papillon ?](https://fr.quora.com/Est-ce-qu-il-y-a-une-explication-scientifique-de-l-effet-papillon/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Est-ce qu’il y a une explication scientifique de l’effet papillon ?](/2020/2020-04-23-est-ce-quil-y-a-une-explication-scientifique-de-leffet-papillon)

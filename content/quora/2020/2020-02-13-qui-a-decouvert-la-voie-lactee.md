@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://notreancetreurgh.quora.com/Qui-a-découvert-la-Voie-Lactée)*
 
-[Réponse de Dr. Goulu à Qui a découvert la Voie Lactée ?](https://fr.quora.com/Qui-a-d%C3%A9couvert-la-Voie-Lact%C3%A9e/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Qui a découvert la Voie Lactée ?](/2019/2019-08-20-qui-a-decouvert-la-voie-lactee)

@@ -20,7 +20,7 @@ Déjà les physiciens ne comprennent pas le mot "création".
 
 Ils préfèrent "origine de l'Univers", avec un U majuscule à [Univers](w:) s'il vous plaît. Parce que si Univers n'a pas de majuscule, alors rien n'a le droit d'en avoir une tellement Il est Grand.
 
-Ensuite, [l'énergie n'est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose). C'est juste un nombre qui reste constant lors des transformations d'un système fermé, c'est l'invariant qui correspond à la symétrie des lois de la physique par décalage dans le temps selon le génial [Théorème de Noether](w:Théorème_de_Noether_(physique)).
+Ensuite, [l'énergie n'est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose). C'est juste un nombre qui reste constant lors des transformations d'un système fermé, c'est l'invariant qui correspond à la symétrie des lois de la physique par décalage dans le temps selon le génial [Théorème de Noether](w:Théorème_de_Noether_(physique)).
 
 Si on met de côté le fait qu'on ignore si l'Univers est un système fermé et si les lois de la physique étaient les mêmes à l'époque du [Big Bang](w:), alors il n'y a pas de "source" de l'énergie : l'énergie totale de l'Univers doit rester constante.
 

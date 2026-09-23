@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quel-serait-un-bon-mod%C3%A8le-thermodynamique-pour-expliquer-le-changement-de-temp%C3%A9rature-dune-chute-deau/answer/Dr-Goulu)*
 
-Une première idée, c'est que l'énergie potentielle de l'eau se transforme en énergie cinétique ([magique …](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose)) qui se transforme en chaleur par frottement dans l'air et un peu de bruit en bas de la chute.
+Une première idée, c'est que l'énergie potentielle de l'eau se transforme en énergie cinétique ([magique …](/2017/2017-12-21-l-energie-n-est-pas-une-chose)) qui se transforme en chaleur par frottement dans l'air et un peu de bruit en bas de la chute.
 
 Sous vide, 1 kg d'eau qui tomberait de h mètres dégagerait 10.h [Joule](w:) d'énergie, soit 2.39*h [Calorie](w:), ce qui réchaufferait le kg d'eau de h*0.00239 °
 

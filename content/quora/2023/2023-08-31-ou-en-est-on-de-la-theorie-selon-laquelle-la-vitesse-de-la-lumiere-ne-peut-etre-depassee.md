@@ -22,4 +22,4 @@ Ce qu'il faut comprendre c'est que la vitesse de la lumière est infinie pour l'
 
 [https://www.drgoulu.com/2004/08/...](/2004/08/09/acceleration/)
 
-[La vitesse de la lumière](https://reponsesfrequentes.quora.com/La-vitesse-de-la-lumi%C3%A8re)
+[La vitesse de la lumière](/2017/2017-12-28-la-vitesse-de-la-lumiere)

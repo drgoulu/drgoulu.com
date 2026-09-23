@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-l-energie-se-transforme-d-une-forme-en-autre/answer/Dr-Goulu)*
 
-[L’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose) . L'énergie pure, ça n'existe pas, et ça se transforme encore moins.
+[L’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose) . L'énergie pure, ça n'existe pas, et ça se transforme encore moins.
 
 L'énergie c'est juste un nombre qui reste constant lors des transformations d'un système isolé.
 
@@ -42,4 +42,4 @@ La forme d'énergie la plus étrange, c'est l'énergie "potentielle". C'est en c
 
 Donc lisez :
 
-[L’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose)
+[L’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose)

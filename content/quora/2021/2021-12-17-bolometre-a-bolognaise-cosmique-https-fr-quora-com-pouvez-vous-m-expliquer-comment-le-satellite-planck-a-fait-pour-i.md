@@ -15,4 +15,4 @@ coverImage: ./images/quora.png
 
 bolomètre à bolognaise cosmique.
 
-[Réponse de Dr. Goulu à Pouvez-vous m’expliquer comment le satellite Planck a fait pour imager le fond diffus cosmologique ?](https://fr.quora.com/Pouvez-vous-m-expliquer-comment-le-satellite-Planck-a-fait-pour-imager-le-fond-diffus-cosmologique/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Pouvez-vous m’expliquer comment le satellite Planck a fait pour imager le fond diffus cosmologique ?](/2021/2021-12-17-pouvez-vous-mexpliquer-comment-le-satellite-planck-a-fait-pour-imager-le-fond-diffus-cosmologique)

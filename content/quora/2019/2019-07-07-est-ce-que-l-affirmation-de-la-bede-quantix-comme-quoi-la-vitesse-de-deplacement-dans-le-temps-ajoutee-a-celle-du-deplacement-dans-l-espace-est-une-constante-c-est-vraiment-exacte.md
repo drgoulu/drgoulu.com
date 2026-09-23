@@ -26,4 +26,4 @@ Personnellement je préfère l'expliquer ainsi (dites moi si c'est plus clair…
 
 - la valeur de c de 299’792’458 m/s provient de nos unités, le mètre et la seconde. Mais la "vraie" valeur de c dans un [Système d'unités naturelles](w:) ne peut être que 1. Un. Sans unités. Ce sont les unités qu'il faut définir à partir de c, pas l'inverse. C'est ce que font les [Unités de Planck](w:), mais elles ne sont pas pratiques à notre échelle, alors il n'y a que les physiciens qui les utilisent.
 
-voir aussi [La vitesse de la lumière sur mes Réponses Fréquentes](https://reponsesfrequentes.quora.com/La-vitesse-de-la-lumi%C3%A8re)
+voir aussi [La vitesse de la lumière sur mes Réponses Fréquentes](/2017/2017-12-28-la-vitesse-de-la-lumiere)

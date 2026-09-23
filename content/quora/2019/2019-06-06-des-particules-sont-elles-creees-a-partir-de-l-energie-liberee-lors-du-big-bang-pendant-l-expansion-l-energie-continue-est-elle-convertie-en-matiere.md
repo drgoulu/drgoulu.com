@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Des-particules-sont-elles-cr%C3%A9%C3%A9es-%C3%A0-partir-de-l%C3%A9nergie-lib%C3%A9r%C3%A9e-lors-du-Big-Bang-Pendant-lexpansion-l%C3%A9nergie-continue-est-elle-convertie-en-mati%C3%A8re/answer/Dr-Goulu)*
 
-[L’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose), il n'existe pas d' "énergie pure". L'énergie est juste un nombre qui reste constant lors des transformations d'un système isolé.
+[L’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose), il n'existe pas d' "énergie pure". L'énergie est juste un nombre qui reste constant lors des transformations d'un système isolé.
 
 Pour autant que l'Univers respecte les conditions du [Théorème de Noether](w:Théorème_de_Noether_(physique)) (ce qui n'est pas sur…), la somme de la matière "normale, de la matière noire, de l'énergie "normale" et de l'énergie noire est restée constante depuis le Big Bang a maintenant. Et peut-être même "avant" le Big Bang, si ça a un sens.
 

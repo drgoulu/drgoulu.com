@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-une-force-multipli%C3%A9-par-une-distance-donne-une-grandeur-qui-quantifie-la-capacit%C3%A9-dint%C3%A9raction-dun-syst%C3%A8me-Pourquoi-multipli%C3%A9-par-une-distance-autrement-dis-pourquoi-l%C3%A9nergie/answer/Dr-Goulu)*
 
-Il faut comprendre ce qu'est l'énergie : rien qu'une grandeur qui reste constante lors des transformations d'un système. [L’énergie n’est pas une chose.](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose)
+Il faut comprendre ce qu'est l'énergie : rien qu'une grandeur qui reste constante lors des transformations d'un système. [L’énergie n’est pas une chose.](/2017/2017-12-21-l-energie-n-est-pas-une-chose)
 
 C'est ce qu'a compris et démontré[Emmy Noether avec son fameux théorème](w:Théorème_de_Noether_(physique)) il y a plus d'un siècle.
 

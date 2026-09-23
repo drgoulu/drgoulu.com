@@ -15,4 +15,4 @@ Non. Le problème n'est pas rouler plus de 1500km par jour mais de faire des pil
 
 Si on savait le faire, en extrapolant les données du viaduc de Millau, il faudrait mettre le péage pour une voiture à 172'000 Euro. Le jet privé est moins cher, même avec le kérosène à 10 euro le kilo.
 
-[Réponse de Dr. Goulu à Pourquoi ne construit-on pas des ponts au-dessus des océans pour relier les continents ?](https://fr.quora.com/Pourquoi-ne-construit-on-pas-des-ponts-au-dessus-des-oc%C3%A9ans-pour-relier-les-continents/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Pourquoi ne construit-on pas des ponts au-dessus des océans pour relier les continents ?](/2020/2020-12-22-pourquoi-ne-construit-on-pas-des-ponts-au-dessus-des-oceans-pour-relier-les-continents)

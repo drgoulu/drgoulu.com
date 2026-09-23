@@ -17,6 +17,6 @@ Dans le cas particulier la pomme accélère à a = g = 9.81 m/s^2 vers la Terre 
 
 la Terre accélère aussi vers la pomme, mais avec a = minuscule, car elle a une très grande masse
 
-[voir Gravi* dans mes Réponses Fréquentes](https://reponsesfrequentes.quora.com/Gravi-gravit%C3%A9-gravitation-champ-gravitationnel-graviton)
+[voir Gravi* dans mes Réponses Fréquentes](/2018/2018-06-26-gravi-gravite-gravitation-champ-gravitationnel-graviton)
 
 (la gravitation s'exerce entre tous les atomes de la pomme et tous les atomes de la Terre. On peut démontrer que la somme de ces forces microscopiques se ramène à deux forces opposées entre les centres de gravité)

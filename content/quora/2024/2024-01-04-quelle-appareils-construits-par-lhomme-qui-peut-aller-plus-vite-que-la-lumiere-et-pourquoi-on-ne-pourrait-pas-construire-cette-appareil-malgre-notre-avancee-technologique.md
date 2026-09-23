@@ -22,7 +22,7 @@ A cette vitesse, les protons ont une "[Masse relativiste](w:Masse_au_repos)" 700
 
 Ca explique pourquoi rien, jamais, nulle part n'ira plus vite que la lumière.
 
-Parce que [La vitesse de la lumière](https://reponsesfrequentes.quora.com/La-vitesse-de-la-lumi%C3%A8re) correspond en réalité à une vitesse infinie pour l'objet qui se déplace.
+Parce que [La vitesse de la lumière](/2017/2017-12-28-la-vitesse-de-la-lumiere) correspond en réalité à une vitesse infinie pour l'objet qui se déplace.
 
 Notes de bas de page
 

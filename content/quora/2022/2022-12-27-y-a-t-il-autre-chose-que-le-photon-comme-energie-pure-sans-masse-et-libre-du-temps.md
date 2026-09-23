@@ -18,4 +18,4 @@ coverImage: ./images/quora.png
 
 Le [Photon](w:)n'est pas de l'énergie pure. Il a une fréquence, un spin, une polarisation, des caractéristiques qui font de lui un [Bosons de jauge](w:Boson_de_jauge) parmi les autres (W et Z et gluon). Le gluon a aussi une masse nulle, donc pas de temps propre.
 
-L'énergie pure n'existe pas. [L’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose) , c'est juste une quantité qui se conserve lors de l'évolution d'un système fermé en vertu du [Théorème de Noether](w:Théorème_de_Noether_(physique)).
+L'énergie pure n'existe pas. [L’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose) , c'est juste une quantité qui se conserve lors de l'évolution d'un système fermé en vertu du [Théorème de Noether](w:Théorème_de_Noether_(physique)).

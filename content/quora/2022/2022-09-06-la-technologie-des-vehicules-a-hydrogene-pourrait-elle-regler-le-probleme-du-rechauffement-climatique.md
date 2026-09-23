@@ -28,7 +28,7 @@ Ca signifie que si on voulait produire l'hydrogène de nos voitures par électro
 
 L'hydrogène, c'est mort…
 
-*(edit après le*[*commentaire/remarque*](https://fr.quora.com/La-technologie-des-v%C3%A9hicules-%C3%A0-hydrog%C3%A8ne-pourrait-elle-r%C3%A9gler-le-probl%C3%A8me-du-r%C3%A9chauffement-climatique/answer/Dr-Goulu)*de*[*Philippe Fabre*](https://fr.quora.com/profile/Philippe-Fabre)*ci-dessous)*
+*(edit après le*[*commentaire/remarque*](/2022/2022-09-06-la-technologie-des-vehicules-a-hydrogene-pourrait-elle-regler-le-probleme-du-rechauffement-climatique)*de*[*Philippe Fabre*](https://fr.quora.com/profile/Philippe-Fabre)*ci-dessous)*
 
 … du moins si on a de l'électricité propre.
 

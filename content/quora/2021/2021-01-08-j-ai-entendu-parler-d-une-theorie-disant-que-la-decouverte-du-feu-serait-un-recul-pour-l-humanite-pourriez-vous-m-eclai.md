@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://notreancetreurgh.quora.com/J-ai-entendu-parler-d-une-théorie-disant-que-la-découverte-du-feu-serait-un-recul-pour-l-humanité-Pourriez-vous-m-éclai)*
 
-[Réponse de Dr. Goulu à J’ai entendu parler d’une théorie disant que la découverte du feu serait un recul pour l’humanité. Pourriez vous m’éclairer ?](https://fr.quora.com/J-ai-entendu-parler-d-une-th%C3%A9orie-disant-que-la-d%C3%A9couverte-du-feu-serait-un-recul-pour-l-humanit%C3%A9-Pourriez-vous-m-%C3%A9clairer/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à J’ai entendu parler d’une théorie disant que la découverte du feu serait un recul pour l’humanité. Pourriez vous m’éclairer ?](/2021/2021-01-08-jai-entendu-parler-dune-theorie-disant-que-la-decouverte-du-feu-serait-un-recul-pour-lhumanite-pourriez-vous-meclairer)

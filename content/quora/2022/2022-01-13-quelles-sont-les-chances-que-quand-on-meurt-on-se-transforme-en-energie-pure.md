@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Aucune, l'énergie pure n'existe pas.
 
-[L’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose)
+[L’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose)

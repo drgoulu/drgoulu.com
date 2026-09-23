@@ -25,6 +25,6 @@ Si vous voulez épater la galerie avec l'univers et l'énergie, essayez plutôt 
 
 Notes de bas de page
 
-[[1]](#cite-KzKYl)[L’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose)
+[[1]](#cite-KzKYl)[L’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose)
 
 [[2]](#cite-TpYsF)[Énergie potentielle gravitationnelle — Wikipédia](w:Énergie_potentielle_gravitationnelle)

@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/L-%C3%A9nergie-est-elle-la-brique-%C3%A9l%C3%A9mentaire-de-l-univers/answer/Dr-Goulu)*
 
-Non. [L’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose) . C'est juste une grandeur qui reste constante lors des transformations d'un système isolé, un truc pratique pour les calculs.
+Non. [L’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose) . C'est juste une grandeur qui reste constante lors des transformations d'un système isolé, un truc pratique pour les calculs.
 
 [Emmy Noether a démontré il y a plus d'un siècle](w:Théorème_de_Noether_(physique))que l'énergie est un invariant lié à une symétrie de la physique, la "translation dans le temps". Le simple fait que les lois de la physique restent constantes* fait que l'énergie existe.
 

@@ -15,4 +15,4 @@ Toujours. A moins de les avoir faites avant. Mais même dans ce cas je vérifie.
 
 D'ailleurs même si le je les mets, certains ne suivent pas les liens et demandent quand même.
 
-[Source : ici](https://fr.quora.com/Est-ce-que-vous-faites-souvent-quelques-recherches-avant-de-r%C3%A9pondre-aux-questions/answer/Dr-Goulu)
+[Source : ici](/2021/2021-02-10-est-ce-que-vous-faites-souvent-quelques-recherches-avant-de-repondre-aux-questions)

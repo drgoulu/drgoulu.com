@@ -24,6 +24,6 @@ Grâce au [Facteur de Lorentz](w:) lorsqu'un objet se déplace à 84% de c, le t
 
 En quoi le fait que cette vitesse infinie corresponde à une limite finie pour un observateur "au repos" est-il un problème pour vous ?
 
-[La vitesse de la lumière sur mes Réponses Fréquentes](https://reponsesfrequentes.quora.com/La-vitesse-de-la-lumi%C3%A8re)
+[La vitesse de la lumière sur mes Réponses Fréquentes](/2017/2017-12-28-la-vitesse-de-la-lumiere)
 
 [Accélération : Journal de bord d’un voyage relativiste -](/2004/08/09/acceleration/)sur mon blog

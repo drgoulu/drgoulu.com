@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Combien-de-fois-Albert-Einstein-a-pass%C3%A9-son-baccalaur%C3%A9at/answer/Dr-Goulu)*
 
-Une seule, voir [Réponse de Dr. Goulu à Combien de fois Albert Einstein a échoué au bac ?](https://fr.quora.com/Combien-de-fois-Albert-Einstein-a-%C3%A9chou%C3%A9-au-bac/answer/Dr-Goulu)
+Une seule, voir [Réponse de Dr. Goulu à Combien de fois Albert Einstein a échoué au bac ?](/2020/2020-03-28-combien-de-fois-albert-einstein-a-echoue-au-bac)

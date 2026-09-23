@@ -20,4 +20,4 @@ Les électrons n'ont pas d' "énergie circulaire", ils n'orbitent pas autour du 
 
 Autour du noyau, les électrons doivent être vus comme des ondes stationnaires remplissant les [Orbitales atomiques](w:Orbitale_atomique), chacune ayant un niveau d'énergie bien déterminé.
 
-Rappel : [L’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose), c'est juste le nombre qui reste constant lors des transformations d'un système isolé selon le théorème de Noether.
+Rappel : [L’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose), c'est juste le nombre qui reste constant lors des transformations d'un système isolé selon le théorème de Noether.

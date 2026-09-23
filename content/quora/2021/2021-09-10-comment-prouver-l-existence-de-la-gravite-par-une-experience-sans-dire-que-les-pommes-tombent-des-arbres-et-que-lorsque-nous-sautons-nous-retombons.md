@@ -19,4 +19,4 @@ La constante de la gravitation peut être mesurée avec un pendule de torsion ho
 
 Notes de bas de page
 
-[[1]](#cite-yDToo)[Gravi* (gravité, gravitation, champ gravitationnel, graviton…)](https://reponsesfrequentes.quora.com/Gravi-gravit%C3%A9-gravitation-champ-gravitationnel-graviton)
+[[1]](#cite-yDToo)[Gravi* (gravité, gravitation, champ gravitationnel, graviton…)](/2018/2018-06-26-gravi-gravite-gravitation-champ-gravitationnel-graviton)

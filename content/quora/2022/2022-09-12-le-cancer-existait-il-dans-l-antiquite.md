@@ -38,4 +38,4 @@ Extraits de [Le cancer à travers les siècles sur le site de la Ligue contre le
 >
 > Les anciens hindous, **2000 ans avant notre ère**, essayèrent de détruire les cancers en y appliquant des cataplasmes de pâte corrosive contenant de l'arsenic. Pour la petite histoire, les personnes qui ne mourraient pas du cancer mourraient empoisonnées par l'arsenic.
 
-edit : j'ai retrouvé ma [Réponse de Dr. Goulu à Quand est apparu le premier cancer ?](https://fr.quora.com/Quand-est-apparu-le-premier-cancer/answer/Dr-Goulu)
+edit : j'ai retrouvé ma [Réponse de Dr. Goulu à Quand est apparu le premier cancer ?](/2021/2021-01-08-quand-est-apparu-le-premier-cancer)

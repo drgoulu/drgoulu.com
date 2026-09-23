@@ -17,4 +17,4 @@ Si vous trouvez ça incohérent, c'est que vos notions de physique datent de plu
 
 De très nombreuses mesures et expériences sont incohérentes avec l'idée d'un temps absolu.
 
-[La vitesse de la lumière](https://reponsesfrequentes.quora.com/La-vitesse-de-la-lumi%C3%A8re?ch=10&oid=7232280&share=8069c592&srid=3iJbP&target_type=post)
+[La vitesse de la lumière](/2017/2017-12-28-la-vitesse-de-la-lumiere)

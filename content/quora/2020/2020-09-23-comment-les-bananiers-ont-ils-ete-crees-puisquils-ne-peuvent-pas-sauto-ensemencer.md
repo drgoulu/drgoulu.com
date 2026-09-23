@@ -15,4 +15,4 @@ coverImage: ./images/quora.png
 
 Parthénocarpie
 
-[Réponse de Dr. Goulu à Comment les bananiers ont-ils été créés, puisqu'ils ne peuvent pas s'auto-ensemencer ?](https://fr.quora.com/Comment-les-bananiers-ont-ils-%C3%A9t%C3%A9-cr%C3%A9%C3%A9s-puisquils-ne-peuvent-pas-sauto-ensemencer/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Comment les bananiers ont-ils été créés, puisqu'ils ne peuvent pas s'auto-ensemencer ?](/2020/2020-09-23-comment-les-bananiers-ont-ils-ete-crees-puisqu-ils-ne-peuvent-pas-s-auto-ensemencer)

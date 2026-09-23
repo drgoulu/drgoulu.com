@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://notreancetreurgh.quora.com/En-quelle-année-pensez-vous-que-les-êtres-humains-vont-disparaître)*
 
-[Réponse de Dr. Goulu à En quelle année pensez-vous que les êtres humains vont disparaître ?](https://fr.quora.com/En-quelle-ann%C3%A9e-pensez-vous-que-les-%C3%AAtres-humains-vont-dispara%C3%AEtre/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à En quelle année pensez-vous que les êtres humains vont disparaître ?](/2019/2019-07-22-en-quelle-annee-pensez-vous-que-les-etres-humains-vont-disparaitre)

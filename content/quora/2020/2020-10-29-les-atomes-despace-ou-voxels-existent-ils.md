@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 
 Pentachore
 
-[Réponse de Dr. Goulu à Les atomes d'espace ou "voxels" existent-ils ?](https://fr.quora.com/Les-atomes-despace-ou-voxels-existent-ils/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Les atomes d'espace ou "voxels" existent-ils ?](/2020/2020-10-01-les-atomes-d-espace-ou-voxels-existent-ils)

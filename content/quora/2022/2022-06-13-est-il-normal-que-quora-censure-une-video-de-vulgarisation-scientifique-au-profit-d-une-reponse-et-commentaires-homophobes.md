@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Est-il-normal-que-Quora-censure-une-vid%C3%A9o-de-vulgarisation-scientifique-au-profit-dune-r%C3%A9ponse-et-commentaires-homophobes/answer/Dr-Goulu)*
 
-(cas décrit [dans le commentaire de la question](https://fr.quora.com/Est-il-normal-que-Quora-censure-une-vid%C3%A9o-de-vulgarisation-scientifique-au-profit-dune-r%C3%A9ponse-et-commentaires-homophobes) )
+(cas décrit [dans le commentaire de la question](/2022/2022-06-13-est-il-normal-que-quora-censure-une-video-de-vulgarisation-scientifique-au-profit-d-une-reponse-et-commentaires-homophobes) )
 
 Je n'ai pas tout le contexte, mais normalement Quora ne "censure" pas les réponses à moins qu'elles contreviennent aux règles, et dans ce cas vous avez du recevoir un message expliquant pourquoi votre réponse a été sabrée, vous pouvez recourir contre cette décision (je l'ai fait plusieurs fois avec succès, parfois en modifiant un peu la réponse)
 

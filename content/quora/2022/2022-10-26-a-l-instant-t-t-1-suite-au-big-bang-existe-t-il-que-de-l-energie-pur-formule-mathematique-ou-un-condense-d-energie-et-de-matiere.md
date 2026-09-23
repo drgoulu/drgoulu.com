@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/A-l-instant-T-t1-suite-au-big-bang-exist%C3%A9-t-il-que-de-l-%C3%A9nergie-pur-formule-math%C3%A9matique-ou-un-condens%C3%A9-d-%C3%A9nergie-et-de-mati%C3%A8re/answer/Dr-Goulu)*
 
-[L'énergie pure n'existe pas.](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose) et [l'énergie totale de l'univers pourrait être nulle](w:Univers_à_énergie_nulle).
+[L'énergie pure n'existe pas.](/2017/2017-12-21-l-energie-n-est-pas-une-chose) et [l'énergie totale de l'univers pourrait être nulle](w:Univers_à_énergie_nulle).
 
 On se sait pas quelle était la forme de la matière à l'[Ère de Planck](w:), ça dépend des différentes théories cosmologiques (cordes, branes, graphes, photons…l qu'on ne peut pas vérifier expérimentalement.
 

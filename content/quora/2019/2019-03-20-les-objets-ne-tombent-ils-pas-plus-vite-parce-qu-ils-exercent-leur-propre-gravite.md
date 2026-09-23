@@ -28,4 +28,4 @@ Maintenant, si on veut être précis ou que le corps qui tombe a une masse m qui
 
 De ce point de vue, c’est de nouveau oui : le gros objet tombe plus vite que le petit parce qu’il attire la Terre vers lui.
 
-[Gravi* (gravité, gravitation, champ gravitationnel, graviton…) sur mes Réponses Fréquentes](https://reponsesfrequentes.quora.com/Gravi-gravit%C3%A9-gravitation-champ-gravitationnel-graviton)
+[Gravi* (gravité, gravitation, champ gravitationnel, graviton…) sur mes Réponses Fréquentes](/2018/2018-06-26-gravi-gravite-gravitation-champ-gravitationnel-graviton)

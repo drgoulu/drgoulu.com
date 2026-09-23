@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://reponsesfrequentes.quora.com/Avez-vous-prouvé-lexistence-de-la-matière-noire-par-une-expérience-Comment-pourrions-nous-le-faire)*
 
-[Réponse de Dr. Goulu à Avez-vous prouvé l'existence de la matière noire par une expérience ? Comment pourrions-nous le faire ?](https://fr.quora.com/Avez-vous-prouv%C3%A9-lexistence-de-la-mati%C3%A8re-noire-par-une-exp%C3%A9rience-Comment-pourrions-nous-le-faire/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Avez-vous prouvé l'existence de la matière noire par une expérience ? Comment pourrions-nous le faire ?](/2020/2020-04-30-avez-vous-prouve-l-existence-de-la-matiere-noire-par-une-experience-comment-pourrions-nous-le-faire)

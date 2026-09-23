@@ -23,7 +23,7 @@ coverImage: ./images/quora.png
 La [**Gravitation**](w:Gravitation)est l'une des quatre [interactions fondamentales](w:Interaction_élémentaire) qui régissent l'[Univers](w:), responsable de l'[attraction](w:Cohésion_(physique)) des [corps](w:Matière) [massifs](w:Masse) entre eux.
 la [Loi universelle de la gravitation](w:) de Newton permet de calculer la force d’attraction entre (presque) n’importe quels corps massifs A et B : ${F}_{{A/B}}={F}_{{B/A}}=G{\frac{M_{A}M_{B}}{d^{2}}}$où:
 
-- G (Grand G !) $G=6,67408\times 10^{-11} N.m^2/kg^2$est la [Constante gravitationnelle](w:), une des constantes universelles
+- G (Grand G !) $G=6,67408\times 10^{-11} N.m^2/kg^2$ est la [Constante gravitationnelle](w:), une des constantes universelles
 - $M_{A}$ et $M_{B}$ sont les masses des deux corps A et B, en $kg$
 - d est la distance en $m$entre les deux corps, entre leurs [Centres de gravité](w:Centre_de_gravité) pour être précis.
 Comme d est au carré au dénominateur, la gravitation (de Newton) est une [Loi en carré inverse](w:) : la force diminue d’un facteur 100 lorsque d augmente d’un facteur 10, mais n’est jamais nulle
@@ -53,6 +53,6 @@ Le problème est qu’on n’a jamais détecté le moindre graviton, et que d’
 
 Notes de bas de page
 
-[[1]](#cite-uSfVu)[La vitesse de la lumière](https://reponsesfrequentes.quora.com/La-vitesse-de-la-lumi%C3%A8re)
+[[1]](#cite-uSfVu)[La vitesse de la lumière](/2017/2017-12-28-la-vitesse-de-la-lumiere)
 
 [[2]](#cite-QTNDJ)[Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/02/14/einstein-et-les-ondes-gravitationnelles/#.WzJik9L-iCo)

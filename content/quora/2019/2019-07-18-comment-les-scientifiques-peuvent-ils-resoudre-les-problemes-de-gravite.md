@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 1. en les distinguant bien des problèmes de [Gravitation](w:), beaucoup plus compliqués
 2. en utilisant la fameuse accélération de la [Gravité](w:Pesanteur) de g=9.81 m/s^2 introduite dans l'équation de Newton F=m.a , ils s'en sortent très bien dans 99.99% des cas, merci.
 
-voir [Gravi* (gravité, gravitation, champ gravitationnel, graviton…) sur mes Réponses Fréquentes](https://reponsesfrequentes.quora.com/Gravi-gravit%C3%A9-gravitation-champ-gravitationnel-graviton)
+voir [Gravi* (gravité, gravitation, champ gravitationnel, graviton…) sur mes Réponses Fréquentes](/2018/2018-06-26-gravi-gravite-gravitation-champ-gravitationnel-graviton)

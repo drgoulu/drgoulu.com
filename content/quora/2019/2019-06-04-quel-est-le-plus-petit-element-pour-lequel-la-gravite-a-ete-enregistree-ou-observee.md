@@ -20,7 +20,7 @@ L'atome. Il existe de gravimètres qui mesurent g avec une précision de 10^-9 e
 
 cette mesure est à distinguer de la mesure de la gravitation et de sa constante G.
 
-[Gravi* (gravité, gravitation, champ gravitationnel, graviton…) sur mes Réponses Fréquentes](https://reponsesfrequentes.quora.com/Gravi-gravit%C3%A9-gravitation-champ-gravitationnel-graviton)
+[Gravi* (gravité, gravitation, champ gravitationnel, graviton…) sur mes Réponses Fréquentes](/2018/2018-06-26-gravi-gravite-gravitation-champ-gravitationnel-graviton)
 
 Notes de bas de page
 

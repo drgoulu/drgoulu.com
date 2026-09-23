@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 non, c'est juste parce qu'il est très chaud.
 
-Voir [Réponse de Dr. Goulu à Pourquoi les ampoules à incandescence ont-elles généralement une durée de vie courte par rapport aux autres types d'éclairage ?](https://fr.quora.com/Pourquoi-les-ampoules-%C3%A0-incandescence-ont-elles-g%C3%A9n%C3%A9ralement-une-dur%C3%A9e-de-vie-courte-par-rapport-aux-autres-types-d%C3%A9clairage/answer/Dr-Goulu)
+Voir [Réponse de Dr. Goulu à Pourquoi les ampoules à incandescence ont-elles généralement une durée de vie courte par rapport aux autres types d'éclairage ?](/2020/2020-09-04-pourquoi-les-ampoules-a-incandescence-ont-elles-generalement-une-duree-de-vie-courte-par-rapport-aux-autres-types-d-eclairage)

@@ -32,4 +32,4 @@ Et ben c'est parce que la force ci-dessus fait accélérer l'objet B, et que son
 
 Donc la force sur la tonne est 1000x plus forte que sur le kilo, mais comme le kilo accélère "1000x plus facilement", ils tombent tous les deux avec exactement la même accélération, qui sur Terre vaut les fameux $g=9.81 m/s^2$
 
-voir aussi [Gravi* (gravité, gravitation, champ gravitationnel, graviton…) sur mes Réponses Fréquentes](https://reponsesfrequentes.quora.com/Gravi-gravit%C3%A9-gravitation-champ-gravitationnel-graviton)
+voir aussi [Gravi* (gravité, gravitation, champ gravitationnel, graviton…) sur mes Réponses Fréquentes](/2018/2018-06-26-gravi-gravite-gravitation-champ-gravitationnel-graviton)

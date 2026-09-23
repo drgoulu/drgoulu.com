@@ -26,4 +26,4 @@ Une seule explication permet de rendre ces observations cohérentes : c'est l'ob
 
 La suite :
 
-[Réponse de Dr. Goulu à Comment pouvons-nous être sûr que la gravité est une force qui attire les objets vers le bas et pas comme le pensait Einstein un accélération du sol vers le haut ?](https://fr.quora.com/Comment-pouvons-nous-%C3%AAtre-s%C3%BBr-que-la-gravit%C3%A9-est-une-force-qui-attire-les-objets-vers-le-bas-et-pas-comme-le-pensait-Einstein-un-acc%C3%A9l%C3%A9ration-du-sol-vers-le-haut/answer/Philippe-Guglielmetti?ch=10&oid=292052723&share=78fc9558&srid=3iJbP&target_type=answer)
+[Réponse de Dr. Goulu à Comment pouvons-nous être sûr que la gravité est une force qui attire les objets vers le bas et pas comme le pensait Einstein un accélération du sol vers le haut ?](/2021/2021-06-27-comment-pouvons-nous-etre-sur-que-la-gravite-est-une-force-qui-attire-les-objets-vers-le-bas-et-pas-comme-le-pensait-einstein-un-acceleration-du-sol-vers-le-haut)

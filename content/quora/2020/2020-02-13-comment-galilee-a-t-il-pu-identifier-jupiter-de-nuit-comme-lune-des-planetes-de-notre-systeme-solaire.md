@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://notreancetreurgh.quora.com/Comment-Galilée-a-t-il-pu-identifier-Jupiter-de-nuit-comme-lune-des-planètes-de-notre-système-solaire)*
 
-[Réponse de Dr. Goulu à Comment Galilée a-t-il pu identifier Jupiter de nuit comme l'une des planètes de notre système solaire ?](https://fr.quora.com/Comment-Galil%C3%A9e-a-t-il-pu-identifier-Jupiter-de-nuit-comme-lune-des-plan%C3%A8tes-de-notre-syst%C3%A8me-solaire/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Comment Galilée a-t-il pu identifier Jupiter de nuit comme l'une des planètes de notre système solaire ?](/2019/2019-08-27-comment-galilee-a-t-il-pu-identifier-jupiter-de-nuit-comme-l-une-des-planetes-de-notre-systeme-solaire)

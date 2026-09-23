@@ -4,6 +4,10 @@
 {{- $title := .Title -}}
 {{- $is_wiki := false -}}
 
+{{- if findRE `^/\d{4}/\d{4}-\d{2}-\d{2}-` $dest -}}
+  {{- $dest = replaceRE `^/(\d{4})/\d{4}-(\d{2})-(\d{2})-(.*?)/?$` `/$1/$2/$3/$4/` $dest -}}
+{{- end -}}
+
 {{- if or (strings.HasPrefix $dest "w:") (strings.HasPrefix $dest "wiki:") -}}
   {{- $is_wiki = true -}}
   {{- $raw := strings.TrimPrefix "wiki:" (strings.TrimPrefix "w:" $dest) -}}

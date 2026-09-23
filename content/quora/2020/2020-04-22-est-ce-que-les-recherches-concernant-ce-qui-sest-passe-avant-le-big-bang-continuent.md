@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://reponsesfrequentes.quora.com/Est-ce-que-les-recherches-concernant-ce-qui-sest-passé-avant-le-Big-Bang-continuent)*
 
-[Réponse de Dr. Goulu à Est-ce que les recherches concernant ce qui s'est passé avant le Big Bang continuent ?](https://fr.quora.com/Est-ce-que-les-recherches-concernant-ce-qui-sest-pass%C3%A9-avant-le-Big-Bang-continuent/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Est-ce que les recherches concernant ce qui s'est passé avant le Big Bang continuent ?](/2020/2020-04-22-est-ce-que-les-recherches-concernant-ce-qui-s-est-passe-avant-le-big-bang-continuent)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 L’ accélération de chaque corps est proportionnelle à la force de gravitation sur lui, qui est proportionnelle à sa masse, et inversément proportionnelle à leur masse en raison de l’inertie, donc l’accélération est constante (sur Terre g=9.81 m/s^2)
 
-Détails ici : [Gravi* (gravité, gravitation, champ gravitationnel, graviton…) sur mes Réponses Fréquentes](https://reponsesfrequentes.quora.com/Gravi-gravit%C3%A9-gravitation-champ-gravitationnel-graviton)
+Détails ici : [Gravi* (gravité, gravitation, champ gravitationnel, graviton…) sur mes Réponses Fréquentes](/2018/2018-06-26-gravi-gravite-gravitation-champ-gravitationnel-graviton)

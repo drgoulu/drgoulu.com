@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-le-mouvement-perp%C3%A9tuel-est-il-impossible/answer/Dr-Goulu)*
 
-Oui. [L'énergie n'est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose). Ce n’est pas un fluide mystérieux ou “quelque chose” qui se transfère d’un objet à un autre. L’énergie est juste un nombre qui reste constant lors des transformations d’un système, comme l'a [démontré mathématiquement Emmy Noether en 1915.](w:Théorème_de_Noether_(physique))
+Oui. [L'énergie n'est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose). Ce n’est pas un fluide mystérieux ou “quelque chose” qui se transfère d’un objet à un autre. L’énergie est juste un nombre qui reste constant lors des transformations d’un système, comme l'a [démontré mathématiquement Emmy Noether en 1915.](w:Théorème_de_Noether_(physique))
 
 Donc voilà, il n'y a aucun moyen d'extraire de l'énergie indéfiniment d'un système. [Dites NON au mouvement perpétuel - Pourquoi Comment Combien](/2012/05/27/dites-non-au-mouvement-perpetuel/).
 

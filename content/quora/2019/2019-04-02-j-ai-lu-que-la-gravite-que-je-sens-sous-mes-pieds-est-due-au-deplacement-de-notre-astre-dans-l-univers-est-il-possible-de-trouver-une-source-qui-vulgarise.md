@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Jai-lu-que-la-gravit%C3%A9-que-je-sens-sous-mes-pieds-est-due-au-d%C3%A9placement-de-notre-astre-dans-lunivers-Est-il-possible-de-trouver-une-source-qui-vulgarise/answer/Dr-Goulu)*
 
-Vous avez mal lu. La [gravité sur Terre est un cas particulier de la gravitation](https://reponsesfrequentes.quora.com/Gravi-gravit%C3%A9-gravitation-champ-gravitationnel-graviton), qui est la “force” d’attraction entre les corps dotés d’une masse. Elle n’a rien à voir avec le mouvement de ces corps.
+Vous avez mal lu. La [gravité sur Terre est un cas particulier de la gravitation](/2018/2018-06-26-gravi-gravite-gravitation-champ-gravitationnel-graviton), qui est la “force” d’attraction entre les corps dotés d’une masse. Elle n’a rien à voir avec le mouvement de ces corps.
 
 Ce que vous avez peut-être lu, c’est que la “force” (que j’avais mis entre guillemets exprès) n’en est pas une et que la gravitation peut être décrite par une déformation de l’espace (et du temps) causée par les masses. C’est l’apport de la [Relativité générale](w:) d’Einstein à la théorie classique de la “force” de Newton.
 

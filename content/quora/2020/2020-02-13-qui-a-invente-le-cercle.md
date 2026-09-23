@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://notreancetreurgh.quora.com/Qui-a-inventé-le-cercle)*
 
-[Réponse de Dr. Goulu à Qui a inventé le cercle ?](https://fr.quora.com/Qui-a-invent%C3%A9-le-cercle/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Qui a inventé le cercle ?](/2019/2019-12-21-qui-a-invente-le-cercle)

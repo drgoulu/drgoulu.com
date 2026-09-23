@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 
 Endozoochorie
 
-[Réponse de Dr. Goulu à Quels types de vie y a-t-il dans un lac de cratère de volcan ?](https://fr.quora.com/Quels-types-de-vie-y-a-t-il-dans-un-lac-de-crat%C3%A8re-de-volcan/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Quels types de vie y a-t-il dans un lac de cratère de volcan ?](/2022/2022-12-08-quels-types-de-vie-y-a-t-il-dans-un-lac-de-cratere-de-volcan)

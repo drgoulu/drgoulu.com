@@ -28,4 +28,4 @@ $g=G {\frac{M_{Terre}}{R_{Terre}^{2}}} = 9.81 m/s^2$
 
 La **gravité**se résume donc à une accélération qui dépend de la **masse de l’astre et de son rayon** seulement.
 
-détails sur [Gravi* (gravité, gravitation, champ gravitationnel, graviton…) sur mes Réponses Fréquentes](https://reponsesfrequentes.quora.com/Gravi-gravit%C3%A9-gravitation-champ-gravitationnel-graviton)
+détails sur [Gravi* (gravité, gravitation, champ gravitationnel, graviton…) sur mes Réponses Fréquentes](/2018/2018-06-26-gravi-gravite-gravitation-champ-gravitationnel-graviton)

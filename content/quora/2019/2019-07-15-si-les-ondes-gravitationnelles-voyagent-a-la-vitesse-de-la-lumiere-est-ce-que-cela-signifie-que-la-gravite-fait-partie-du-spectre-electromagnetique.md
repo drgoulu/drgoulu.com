@@ -11,6 +11,6 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Si-les-ondes-gravitationnelles-voyagent-%C3%A0-la-vitesse-de-la-lumi%C3%A8re-est-ce-que-cela-signifie-que-la-gravit%C3%A9-fait-partie-du-spectre-%C3%A9lectromagn%C3%A9tique/answer/Dr-Goulu)*
 
-Non, ça signifie que la vitesse de la lumière est plus fondamentale que [la vitesse de la lumière ( voir sur mes Réponses Fréquentes)](https://reponsesfrequentes.quora.com/La-vitesse-de-la-lumi%C3%A8re).
+Non, ça signifie que la vitesse de la lumière est plus fondamentale que [la vitesse de la lumière ( voir sur mes Réponses Fréquentes)](/2017/2017-12-28-la-vitesse-de-la-lumiere).
 
 Tout ce qui n'a aucune masse ne peut que se propager à c dans le vide.

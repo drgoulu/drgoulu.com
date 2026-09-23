@@ -54,7 +54,7 @@ coverImage: ./images/quora.png
 
 A mon humble avis, un siècle après le génial Théorème de Noether[[1]](#DodZf) , plus personne ne devrait voir l'énergie comme un mystérieux fluide. Ce n'est que **le nombre qui reste constant lors des transformations d'un système isolé**.
 
-Voir ["L'énergie n'est pas une chose" dans mes Réponses Fréquentes](https://fr.quora.com/q/ufhohvwrjiscyflm/L-%C3%A9nergie-n-est-pas-une-chose?ch=10&share=c14f6910)
+Voir ["L'énergie n'est pas une chose" dans mes Réponses Fréquentes](/2017/2017-12-21-l-energie-n-est-pas-une-chose)
 
 Notes de bas de page
 

@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://notreancetreurgh.quora.com/Depuis-quand-l-atmosphère-est-elle-pollué)*
 
-[Réponse de Dr. Goulu à Depuis quand l’atmosphère est-elle pollué ?](https://fr.quora.com/Depuis-quand-l-atmosph%C3%A8re-est-elle-pollu%C3%A9/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Depuis quand l’atmosphère est-elle pollué ?](/2020/2020-05-01-depuis-quand-latmosphere-est-elle-pollue)

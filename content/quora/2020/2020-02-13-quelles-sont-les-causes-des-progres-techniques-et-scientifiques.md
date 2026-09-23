@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://notreancetreurgh.quora.com/Quelles-sont-les-causes-des-progrès-techniques-et-scientifiques)*
 
-[Réponse de Dr. Goulu à Quelles sont les causes des progrès techniques et scientifiques ?](https://fr.quora.com/Quelles-sont-les-causes-des-progr%C3%A8s-techniques-et-scientifiques/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Quelles sont les causes des progrès techniques et scientifiques ?](/2019/2019-11-28-quelles-sont-les-causes-des-progres-techniques-et-scientifiques)

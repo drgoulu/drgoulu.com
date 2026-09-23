@@ -15,4 +15,4 @@ Il ne l'est pas. L'énergie pure n'existe pas, c'est juste un nombre pratique po
 
 Pas de matière, pas d'énergie, pas d'univers, pas de temps.
 
-[L’énergie n’est pas une chose](https://reponsesfrequentes.quora.com/L-%C3%A9nergie-n-est-pas-une-chose?ch=10&oid=7232292&share=beb104af&srid=3iJbP&target_type=post)
+[L’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-une-chose)

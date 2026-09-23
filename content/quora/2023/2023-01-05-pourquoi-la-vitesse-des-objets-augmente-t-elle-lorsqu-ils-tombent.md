@@ -15,6 +15,6 @@ Elle ne le fait pas. Si vous êtes sur un objet qui tombe vous ne ressentez pas 
 
 Ce n'est donc pas l'objet qui accelère vers le bas mais le sol qui accelère vers le haut !
 
-[Réponse de Dr. Goulu à Comment le fait que l'espace soit courbé fait-il que la gravité nous tire vers le bas ?](https://fr.quora.com/Comment-le-fait-que-lespace-soit-courb%C3%A9-fait-il-que-la-gravit%C3%A9-nous-tire-vers-le-bas/answer/Philippe-Guglielmetti?no_redirect=1)
+[Réponse de Dr. Goulu à Comment le fait que l'espace soit courbé fait-il que la gravité nous tire vers le bas ?](/2020/2020-12-15-comment-le-fait-que-l-espace-soit-courbe-fait-il-que-la-gravite-nous-tire-vers-le-bas)
 
 oir

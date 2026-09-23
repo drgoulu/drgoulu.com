@@ -15,4 +15,4 @@ coverImage: ./images/quora.png
 
 Apocatastase
 
-[Réponse de Dr. Goulu à Pourquoi le 17 février 1600, Giordano Bruno a-t-il été brûlé vif par l’Église ?](https://fr.quora.com/Pourquoi-le-17-f%C3%A9vrier-1600-Giordano-Bruno-a-t-il-%C3%A9t%C3%A9-br%C3%BBl%C3%A9-vif-par-l-%C3%89glise/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à Pourquoi le 17 février 1600, Giordano Bruno a-t-il été brûlé vif par l’Église ?](/2020/2020-09-20-pourquoi-le-17-fevrier-1600-giordano-bruno-a-t-il-ete-brule-vif-par-leglise)

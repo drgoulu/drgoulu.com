@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://reponsesfrequentes.quora.com/Doù-vient-le-coronavirus-et-pourquoi-a-t-il-été-créé)*
 
-[Réponse de Dr. Goulu à D'où vient le coronavirus, et pourquoi a-t-il été créé ?](https://fr.quora.com/Do%C3%B9-vient-le-coronavirus-et-pourquoi-a-t-il-%C3%A9t%C3%A9-cr%C3%A9%C3%A9/answer/Philippe-Guglielmetti)
+[Réponse de Dr. Goulu à D'où vient le coronavirus, et pourquoi a-t-il été créé ?](/2020/2020-04-23-d-ou-vient-le-coronavirus-et-pourquoi-a-t-il-ete-cree)

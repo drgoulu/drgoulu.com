@@ -15,4 +15,4 @@ Méfiez vous des évidences en physique.
 
 Et révisez vos cours pour distinguer g et G. Résumé ici :
 
-[Gravi* (gravité, gravitation, champ gravitationnel, graviton…)](https://reponsesfrequentes.quora.com/Gravi-gravit%C3%A9-gravitation-champ-gravitationnel-graviton)
+[Gravi* (gravité, gravitation, champ gravitationnel, graviton…)](/2018/2018-06-26-gravi-gravite-gravitation-champ-gravitationnel-graviton)
