@@ -1,13 +1,15 @@
 ---
-title: Pourquoi lHomme a choisi cette division du temps et pourquoi mettre tout sur le dos de lastronomie
-slug: pourquoi-lhomme-a-choisi-cette-division-du-temps-et-pourquoi-mettre-tout-sur-le-dos-de-lastronomie
-date: '2021-05-29'
+title: Pourquoi l'Homme a choisi cette division du temps et pourquoi mettre tout sur le dos de l'astronomie
+date: 2021-05-29
 draft: true
+tags:
+  - temps
+  - histoire
 categories:
-- Pourquoi
-- Quora
-- Notre ancêtre Urgh
-tags: []
+  - Pourquoi
+  - Quora
+  - Notre ancêtre Urgh
+slug: pourquoi-lhomme-a-choisi-cette-division-du-temps-et-pourquoi-mettre-tout-sur-le-dos-de-lastronomie
 coverImage: ./images/quora.png
 ---
 
