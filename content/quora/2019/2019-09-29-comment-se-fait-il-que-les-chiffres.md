@@ -1,11 +1,15 @@
 ---
 title: Comment se fait-il que les chiffres, qui ne sont en réalité que des signes abstraits, des dessins si je puis extrapoler mes propos, puissent permettre d'obtenir des résultats scientifiques aussi concrets et vérifiables dans le monde physique ?
-slug: comment-se-fait-il-que-les-chiffres
-date: '2019-09-29'
-draft: true
+date: 2019-09-29
+draft: false
+tags:
+  - mathématiques
+  - physique
+  - réalité
 categories:
-- Comment
-tags: []
+  - Comment
+  - Notre ancêtre Urgh
+slug: comment-se-fait-il-que-les-chiffres
 coverImage: ./images/quora.png
 ---
 
