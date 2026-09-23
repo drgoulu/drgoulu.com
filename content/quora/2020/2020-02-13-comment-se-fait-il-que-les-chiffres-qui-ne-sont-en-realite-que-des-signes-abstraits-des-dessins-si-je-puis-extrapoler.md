@@ -1,7 +1,7 @@
 ---
 title: Comment se fait il que les chiffres qui ne sont en réalité que des signes abstraits des dessins si je puis extrapoler
 date: 2020-02-13
-draft: false
+draft: true
 tags:
   - physique
   - mathematiques
