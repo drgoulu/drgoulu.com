@@ -65,9 +65,7 @@ jobs:
         env:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
-        run: |
-          python3 scripts/filter_single_tags.py
-          hugo --gc --minify -b "https://drgoulu.com/"
+        run: hugo --gc --minify -b "https://drgoulu.com/"
 
       - name: Index search with Pagefind
         run: pnpm run pagefind

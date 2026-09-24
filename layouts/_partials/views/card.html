@@ -121,11 +121,13 @@
       {{ if and $item.Params.tags (gt (len $item.Params.tags) 0) }}
       <div class="flex flex-wrap items-center gap-2">
         {{ range ($item.GetTerms "tags") }}
+        {{ if and .LinkTitle .RelPermalink }}
         <a href="{{ .RelPermalink }}">
           <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300 hover:bg-primary-200 dark:hover:bg-primary-800/60 transition-colors">
-            {{ .Page.LinkTitle }}
+            {{ .LinkTitle | default .Title }}
           </span>
         </a>
+        {{ end }}
         {{ end }}
       </div>
       {{ end }}
