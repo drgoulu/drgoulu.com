@@ -6,16 +6,11 @@ draft: true
 categories:
 - Quora
 tags:
+- physique
 - philosophie
 - materiaux
-- l-univers
-- lois-de-la-physique
-- physique
 - metaphysique
-- matiere-physique
 - philosophie-des-sciences
-- materialite
-- philosophie-de-la-physique
 coverImage: ./images/quora.png
 ---
 

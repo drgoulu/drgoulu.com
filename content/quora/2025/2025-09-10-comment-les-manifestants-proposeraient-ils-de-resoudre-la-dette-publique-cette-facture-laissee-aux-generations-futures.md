@@ -6,16 +6,11 @@ draft: true
 categories:
 - Comment
 tags:
-- resolution-de-problemes
-- manifestations
-- politique-fiscale
 - finances-publiques
-- generations-futures
-- dette-gouvernementale
-- protestations
-- politiques-publiques
-- manifestant
 - dette-publique
+- politique-fiscale
+- manifestations
+- politiques-publiques
 coverImage: ./images/quora.png
 ---
 

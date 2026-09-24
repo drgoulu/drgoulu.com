@@ -8,13 +8,8 @@ categories:
 tags:
 - france
 - opinion-publique
-- jean-luc-melenchon
 - politique-francaise
-- marine-le-pen
 - elections-presidentielles
-- emmanuel-macron
-- election-presidentielle-francaise-2022
-- opinion-generale
 - vie-politique-francaise
 coverImage: ./images/quora.png
 ---

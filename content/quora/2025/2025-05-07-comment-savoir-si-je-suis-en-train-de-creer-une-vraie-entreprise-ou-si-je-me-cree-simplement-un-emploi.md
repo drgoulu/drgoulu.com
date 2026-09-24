@@ -7,13 +7,10 @@ categories:
 - Comment
 tags:
 - entrepreneuriat
-- independance
 - emploi
 - demarrage-d-une-entreprise
-- self-emploi
+- independance
 - creation-d-entreprise
-- comment-demarrer-une-entreprise
-- lancement-d-une-entreprise
 coverImage: ./images/quora.png
 ---
 

@@ -6,15 +6,11 @@ draft: true
 categories:
 - Comment
 tags:
-- intelligence-artificielle
 - recherche-scientifique
-- integration-de-systemes
-- experts-en-la-matiere
-- collaboration-en-ligne
-- transfert-de-technologies
+- intelligence-artificielle
 - scientifiques
-- methodes-de-recherche
 - communication-scientifique
+- integration-de-systemes
 coverImage: ./images/quora.png
 ---
 

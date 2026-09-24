@@ -8,13 +8,9 @@ categories:
 - Au cas où le commentaire serait supprimé
 tags:
 - geologie
-- etudes-scientifiques
-- methane
-- tremblements-de-terre
-- gaz-naturel-liquefie
-- tectoniques-des-plaques
-- sources-chaudes
 - sismologie
+- methane
+- tectoniques-des-plaques
 - recherches-scientifiques
 coverImage: ./images/quora.png
 ---

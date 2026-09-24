@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - religion
-- culture-science-sociale
 - culture
 - christianisme
-- pays-catholiques
+- culture-science-sociale
 - differences-culturelles
-- catholicisme
-- protestantisme
-- religions
 coverImage: ./images/quora.png
 ---
 

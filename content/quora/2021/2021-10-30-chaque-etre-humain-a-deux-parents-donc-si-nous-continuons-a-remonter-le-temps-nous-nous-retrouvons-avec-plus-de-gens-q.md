@@ -7,16 +7,11 @@ categories:
 - Quora
 - Le mot du jour
 tags:
-- psychologie
-- charlemagne
-- arbres-genealogiques
-- la-race-et-la-condition-humaine
 - sciences
-- paradoxes
 - physique
-- histoire-de-l-humanite
 - philosophie
-- genealogie
+- psychologie
+- histoire-de-l-humanite
 coverImage: ./images/quora.png
 ---
 

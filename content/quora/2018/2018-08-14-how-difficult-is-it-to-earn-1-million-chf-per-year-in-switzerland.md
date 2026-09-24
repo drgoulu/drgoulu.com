@@ -7,16 +7,10 @@ categories:
 - Quora
 tags:
 - english
-- personal-finance
 - switzerland
-- salaries-and-wages
-- income
 - cost-of-living
-- financial-goals
-- swiss-franc
 - economy-of-switzerland
-- income-level
-- annual-income
+- personal-finance
 coverImage: ./images/quora.png
 ---
 

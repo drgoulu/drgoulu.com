@@ -12,8 +12,6 @@ tags:
 - sailing
 - blackbird
 - speed-record
-- sailboats
-- sailing-technology
 coverImage: ./images/quora.png
 ---
 

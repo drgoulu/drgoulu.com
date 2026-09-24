@@ -6,16 +6,11 @@ draft: true
 categories:
 - Quora
 tags:
-- philosophie
-- creationnisme
-- probabilite-statistiques
-- matiere
 - sciences
-- chimie-inorganique
-- l-univers
-- origine-de-la-vie
+- philosophie
 - biologie
-- philosophie-des-sciences
+- matiere
+- probabilite-statistiques
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - question-existentielle
-- mendiant
 - ethique-philosophie-morale
+- mendiant
 - aider-les-gens
 - generosite
-- precarite
-- reflexions-philosophiques
-- mendicite
-- l-ethique
-- aider-les-autres
 coverImage: ./images/quora.png
 ---
 

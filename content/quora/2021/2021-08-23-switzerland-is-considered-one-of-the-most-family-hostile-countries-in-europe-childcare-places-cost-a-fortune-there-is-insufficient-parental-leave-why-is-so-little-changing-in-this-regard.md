@@ -7,16 +7,10 @@ categories:
 - Quora
 tags:
 - english
-- social-issues
 - europe
-- government-policy
-- shared-parental-leave
-- cost-of-living
-- child-care
 - switzerland
-- family-rights
-- child-and-family-policy
-- social-and-political-issues
+- social-issues
+- cost-of-living
 coverImage: ./images/quora.png
 ---
 

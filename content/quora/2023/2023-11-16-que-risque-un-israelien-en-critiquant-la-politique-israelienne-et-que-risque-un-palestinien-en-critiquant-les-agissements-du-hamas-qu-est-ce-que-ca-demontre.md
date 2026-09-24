@@ -6,16 +6,11 @@ draft: true
 categories:
 - Quora
 tags:
-- opinion-politique
 - israel
-- critique
-- liberte-d-expression
-- hamas
-- gazaisrael-conflict
 - palestine
-- politique-de-la-palestine
+- liberte-d-expression
+- critique
 - palestiniens
-- politique-d-israel
 coverImage: ./images/quora.png
 ---
 

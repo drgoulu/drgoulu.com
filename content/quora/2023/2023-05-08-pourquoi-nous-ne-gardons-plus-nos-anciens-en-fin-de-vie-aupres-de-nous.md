@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - societe
-- vieillissement
-- soins-palliatifs
-- evolution-culturelle
 - famille
-- conditionnement-social
+- vieillissement
+- evolution-culturelle
 - fin-de-vie
-- soins-aux-seniors
-- vieillesse
-- vie-de-famille
 coverImage: ./images/quora.png
 ---
 

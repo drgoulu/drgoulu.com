@@ -6,16 +6,11 @@ draft: true
 categories:
 - Quora
 tags:
-- physique
-- trous-de-ver
-- cosmos
 - sciences
-- albert-einstein-physicien
+- physique
 - astronomie
-- relativite-physique
-- cosmologie
 - astrophysique
-- physique-theorique
+- cosmologie
 coverImage: ./images/quora.png
 ---
 

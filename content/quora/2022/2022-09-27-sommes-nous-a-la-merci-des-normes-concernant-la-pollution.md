@@ -6,13 +6,11 @@ draft: true
 categories:
 - Quora
 tags:
-- risques-pour-la-sante
-- pollution
 - crise-climatique
-- histoire-de-la-science
+- pollution
+- risques-pour-la-sante
 - normes-publiques
-- science-et-societe
-- menace-ecologique
+- histoire-de-la-science
 coverImage: ./images/quora.png
 ---
 

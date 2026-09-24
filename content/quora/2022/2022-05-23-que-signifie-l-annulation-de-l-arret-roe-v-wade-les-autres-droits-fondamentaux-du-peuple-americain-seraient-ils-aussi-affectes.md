@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - politique-des-etats-unis-d-amerique
+- droit-constitutionnel
 - droit-de-la-famille
 - roe-v-wade-decision-scotus-de-1973
-- droit-constitutionnel
 - cour-supreme-des-etats-unis
-- droit-a-l-autodetermination
-- droits-civils
-- droit-a-l-avortement
-- droits-fondamentaux
 coverImage: ./images/quora.png
 ---
 

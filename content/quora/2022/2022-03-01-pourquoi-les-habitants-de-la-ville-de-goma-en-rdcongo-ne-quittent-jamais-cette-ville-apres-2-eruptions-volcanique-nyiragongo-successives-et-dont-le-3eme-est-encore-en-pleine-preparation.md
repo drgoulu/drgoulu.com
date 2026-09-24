@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - geographie
-- goma-rdcongo
 - risque-et-risques
-- republique-democratique-du-congo
 - catastrophes-naturelles
-- migration-humaine
-- eruption-volcanique
 - geographie-humaine
-- eruptions-volcaniques
+- goma-rdcongo
 coverImage: ./images/quora.png
 ---
 

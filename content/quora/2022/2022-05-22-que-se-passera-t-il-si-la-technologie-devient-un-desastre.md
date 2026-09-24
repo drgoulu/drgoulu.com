@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - societe
+- risque-et-risques
 - futur
 - catastrophes
-- revolution-technologique
-- risque-et-risques
 - consequences
-- desastres
-- evolution-de-la-technologie
-- gestion-des-risques
 coverImage: ./images/quora.png
 ---
 

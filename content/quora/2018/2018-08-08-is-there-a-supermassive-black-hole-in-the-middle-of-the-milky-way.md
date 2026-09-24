@@ -7,16 +7,10 @@ categories:
 - Quora
 tags:
 - english
-- astrophysics
-- outer-space
-- in-milky-way-galaxy
 - space-and-astronomy
-- specific-galaxies
-- black-holes-astronomy
-- galaxies-astronomy
-- the-milky-way-astronomy
-- black-hole-physics
+- astrophysics
 - space-science-astrophysics
+- black-holes-astronomy
 coverImage: ./images/quora.png
 ---
 

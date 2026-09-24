@@ -13,11 +13,6 @@ tags:
 - activite
 - succes
 - fortnite-jeu-video
-- popularite-sur-internet
-- industrie-du-jeu-video
-- avis-sur-les-jeux-video
-- succes-commercial
-- jeux-videos-en-ligne
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - paleontologie
-- glace
-- dinosaures
-- la-vie-prehistorique
 - conservation
+- dinosaures
 - prehistoire
-- glaciers
-- fossiles
-- animaux-prehistoriques
+- glace
 coverImage: ./images/quora.png
 ---
 

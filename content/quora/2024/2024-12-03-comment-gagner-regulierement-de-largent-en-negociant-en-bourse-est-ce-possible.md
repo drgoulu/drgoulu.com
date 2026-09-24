@@ -8,14 +8,9 @@ categories:
 tags:
 - finance
 - investissement
-- strategies-de-trading
 - marches-financiers
+- strategies-de-trading
 - negociant-en-bourse
-- revenus-financiers
-- investissement-en-bourse
-- strategies-d-investissement
-- marches-boursiers
-- gains-financiers
 coverImage: ./images/quora.png
 ---
 

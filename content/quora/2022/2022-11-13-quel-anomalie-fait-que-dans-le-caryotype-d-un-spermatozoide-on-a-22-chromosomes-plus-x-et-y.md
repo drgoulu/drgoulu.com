@@ -8,15 +8,10 @@ categories:
 - Les Biomystères de Gaïa
 tags:
 - biologie-humaine
-- meiose
-- spermatozoide
 - genetique
-- anomalie
-- chromosomes
 - reproduction
-- la-reproduction-humaine
-- chromosomes-sexuels
 - genetique-medicale
+- meiose
 coverImage: ./images/quora.png
 ---
 

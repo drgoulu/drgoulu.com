@@ -7,16 +7,10 @@ categories:
 - Quora
 tags:
 - english
+- politics-and-government
 - survey-question
-- political-theory
 - government
 - public-opinion
-- citizenship
-- social-sciences
-- government-systems
-- politics-and-government
-- political-science
-- political-systems
 coverImage: ./images/quora.png
 ---
 

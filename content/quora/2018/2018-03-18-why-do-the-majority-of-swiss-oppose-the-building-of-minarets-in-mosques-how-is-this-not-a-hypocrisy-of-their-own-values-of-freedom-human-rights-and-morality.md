@@ -7,16 +7,10 @@ categories:
 - Quora
 tags:
 - english
-- social-issues
-- muslims
 - switzerland
+- social-issues
 - public-opinion
-- religious-architecture
-- human-rights
-- minarets
-- cultural-values
-- freedom-of-religion
-- mosques
+- muslims
 coverImage: ./images/quora.png
 ---
 

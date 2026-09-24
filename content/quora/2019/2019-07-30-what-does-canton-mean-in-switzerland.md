@@ -11,12 +11,6 @@ tags:
 - political-divisions
 - canton-of-basel-stadt
 - canton
-- physical-geography-of-switzerland
-- division-of-europe
-- swiss-cities
-- canton-of-valais
-- places-of-switzerland
-- swiss-cantons
 coverImage: ./images/quora.png
 ---
 

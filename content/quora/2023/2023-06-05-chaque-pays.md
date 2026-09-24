@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - justice
-- peine
-- systeme-carceral
-- alternative
-- prison
-- droit-penal
-- rehabilitation
-- sanctions
-- punition
 - justice-penale
+- droit-penal
+- peine
+- prison
 coverImage: ./images/quora.png
 ---
 

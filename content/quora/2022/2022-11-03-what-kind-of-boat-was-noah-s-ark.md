@@ -11,12 +11,6 @@ tags:
 - ships-and-vessels
 - religious-scriptures
 - noah-s-flood
-- ancient-texts
-- religious-literature
-- biblical-stories
-- boats
-- vessels
-- biblical-mythology
 coverImage: ./images/quora.png
 ---
 

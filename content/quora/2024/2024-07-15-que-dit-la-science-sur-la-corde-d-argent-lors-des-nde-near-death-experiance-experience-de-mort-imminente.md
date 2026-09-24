@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - sciences
-- spiritualite
-- conscience
-- experience-de-mort-imminente
 - recherche-scientifique
-- activite-paranormale-phenomenes-surnaturels
-- phenomene-surnaturel
-- religion-et-spiritualite
 - etude-scientifique
-- mort-imminente
+- conscience
+- spiritualite
 coverImage: ./images/quora.png
 ---
 

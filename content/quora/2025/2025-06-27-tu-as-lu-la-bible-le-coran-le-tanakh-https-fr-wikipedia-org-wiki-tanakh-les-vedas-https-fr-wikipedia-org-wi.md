@@ -10,11 +10,8 @@ tags:
 - humour
 - alice-au-pays-des-merveilles-livre-de-1865
 - religion-et-spiritualite
-- manifeste
 - pastafarisme
-- livres-sacres
-- ecritures-religieuses
-- humour-litteraire
+- manifeste
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - sociologie
-- enfants-de-riches
 - richesse
 - inegalites-sociales
-- classe-sociale
-- vie-de-luxe
-- statut-social
-- familles-riches
-- personnes-riches
 - inegalites-de-revenu
+- enfants-de-riches
 coverImage: ./images/quora.png
 ---
 

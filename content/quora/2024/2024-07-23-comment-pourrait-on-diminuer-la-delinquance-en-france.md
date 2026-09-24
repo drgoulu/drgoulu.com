@@ -9,15 +9,10 @@ categories:
 - Ça c'est de la science !
 tags:
 - france
-- criminologie-et-justice-penale
 - societe
-- prisonniers
-- recidive
-- vivre-en-france
-- systeme-carceral-americain
-- politiques-publiques
-- reinsertion-sociale
 - criminalite
+- politiques-publiques
+- criminologie-et-justice-penale
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - histoire
-- anthropologie
 - evolution
-- paleontologie
-- archeologie
-- histoire-de-lhomme
-- pre-histoire
+- anthropologie
 - histoire-humaine
-- paleoanthropologie
+- paleontologie
 coverImage: ./images/quora.png
 ---
 

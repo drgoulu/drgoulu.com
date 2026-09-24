@@ -6,16 +6,11 @@ draft: true
 categories:
 - Pourquoi
 tags:
-- les-etats-unis-d-amerique
 - chine
+- depenses
+- les-etats-unis-d-amerique
 - comparaison
 - economies
-- systeme-de-soins-de-sante
-- ocde
-- depenses
-- esperance-de-vie
-- soins-de-sante
-- systemes-de-sante-publics
 coverImage: ./images/quora.png
 ---
 

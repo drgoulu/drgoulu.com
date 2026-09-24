@@ -6,16 +6,11 @@ draft: true
 categories:
 - Quora
 tags:
-- personnalite
 - question-philosophique
 - oiseaux
 - imagination
+- personnalite
 - questions-d-opinion
-- provoquer-la-reflexion
-- jeu-de-reflexion
-- vos-reflexions
-- individualite
-- l-imagination
 coverImage: ./images/quora.png
 ---
 

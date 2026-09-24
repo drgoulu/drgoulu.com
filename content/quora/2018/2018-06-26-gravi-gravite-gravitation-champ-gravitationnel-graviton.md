@@ -8,13 +8,10 @@ categories:
 - Réponses Fréquentes
 tags:
 - physique
-- graviton
-- constante-gravitationnelle
-- theories-de-tout-physique
-- relativite-generale
-- gravitation-quantique
-- champ-gravitationnel
 - gravitation
+- relativite-generale
+- theories-de-tout-physique
+- champ-gravitationnel
 coverImage: ./images/quora.png
 ---
 
@@ -45,7 +42,7 @@ Le [**Champ gravitationnel**](w:Champ_gravitationnel) était un outil de calcul 
 
 Mais que fait-elle donc là ? Elle dit que la gravitation n’est pas instantanée mais se propage à la même vitesse que la lumière, c. Ceci explique par exemple l’[Avance du périhélie de Mercure](w:Tests_expérimentaux_de_la_relativité_générale), connue depuis longtemps et qu’Einstein a pu calculer correctement en 1915.
 
-Ca explique aussi les [**Ondes gravitationnelles**](w:Onde_gravitationnelle), qui n’ont été détectées que très récemment car il faut des masses énormes en mouvement très rapide pour causer des amplitudes extraordinairement faible ici. En fait même Einstein doutait qu’il soit possible de les mesurer un jour, et il a même douté un moment qu’elles existent tout court ![[2]](#QTNDJ)
+Ca explique aussi les [**Ondes gravitationnelles**](w:Onde_gravitationnelle), qui n’ont été détectées que très récemment car il faut des masses énormes en mouvement très rapide pour causer des amplitudes extraordinairement faible ici. En fait même Einstein doutait qu’il soit possible de les mesurer un jour, et il a même douté un moment qu’elles existent tout court ! [[2]](#QTNDJ)
 
 Avec une équation de champ très similaires aux équations de l’électromagnétisme de Maxwell, des ondes qui se propagent à c, Einstein et d’autres ont longtemps pensé qu’il devait être possible de relier la gravitation aux trois autres interactions [déjà unifiées](w:Grande_unification) pour obtenir une “[Théorie du tout](w:)”. Pour cela il suffirait de développer une théorie de la [Gravité quantique](w:), qui postule l’existence d’une particule de la gravité, le [**Graviton**](w:Graviton).
 

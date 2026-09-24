@@ -6,15 +6,11 @@ draft: true
 categories:
 - Comment
 tags:
-- france
 - politique
-- promesses
-- pouvoir
-- confiance-sociale
-- elections-presidentielles
+- france
 - politique-francaise
-- candidats-politiques
 - elections
+- elections-presidentielles
 coverImage: ./images/quora.png
 ---
 

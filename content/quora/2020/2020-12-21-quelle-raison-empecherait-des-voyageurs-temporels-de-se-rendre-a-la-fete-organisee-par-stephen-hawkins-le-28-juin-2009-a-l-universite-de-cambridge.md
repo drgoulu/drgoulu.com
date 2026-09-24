@@ -8,14 +8,10 @@ categories:
 - Intéressantes
 tags:
 - histoire
-- stephen-hawking
-- science-fiction-genre
-- universite-de-cambridge
 - personnalites
-- fete
+- science-fiction-genre
+- stephen-hawking
 - paradoxe
-- voyage-dans-le-temps
-- evenements
 coverImage: ./images/quora.png
 ---
 

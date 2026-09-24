@@ -6,15 +6,11 @@ draft: true
 categories:
 - Quora
 tags:
-- science-et-technologie
-- les-etats-unis-d-amerique
-- chine
-- suprematie
 - developpement
-- competition
 - innovation-technologique
-- guerre-technologique
+- chine
 - developpement-technologique
+- les-etats-unis-d-amerique
 coverImage: ./images/quora.png
 ---
 

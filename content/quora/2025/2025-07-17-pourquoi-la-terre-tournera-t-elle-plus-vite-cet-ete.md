@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - astronomie
-- vitesse-de-rotation-de-la-terre
-- phenomenes-naturels
-- sciences-de-la-terre
-- rotation-planetes
-- rotation-de-la-terre
-- science-de-la-nature
-- phenomene-physique
-- vitesse-de-rotation
 - phenomenes-physiques
+- phenomenes-naturels
+- vitesse-de-rotation-de-la-terre
+- sciences-de-la-terre
 coverImage: ./images/quora.png
 ---
 

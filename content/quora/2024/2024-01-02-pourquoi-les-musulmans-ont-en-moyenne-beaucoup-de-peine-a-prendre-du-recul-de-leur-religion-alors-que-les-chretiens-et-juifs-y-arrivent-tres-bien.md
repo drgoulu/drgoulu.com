@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - religion
-- culture-science-sociale
-- opinions-et-croyances
-- judaisme
 - christianisme
-- comparaison-de-culture
 - islam
-- culture-religieuse
-- croyances
-- foi-et-religion
+- judaisme
+- culture-science-sociale
 coverImage: ./images/quora.png
 ---
 

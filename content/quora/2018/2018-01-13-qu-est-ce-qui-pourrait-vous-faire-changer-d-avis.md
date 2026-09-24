@@ -7,16 +7,11 @@ categories:
 - Quora
 - Réponses Fréquentes
 tags:
-- philosophie
-- le-paranormal
-- experience
-- changer-d-avis
-- pseudoscience
 - sciences
+- philosophie
+- experience
 - preuves-scientifiques
 - science-experimentale
-- la-methode-scientifique
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

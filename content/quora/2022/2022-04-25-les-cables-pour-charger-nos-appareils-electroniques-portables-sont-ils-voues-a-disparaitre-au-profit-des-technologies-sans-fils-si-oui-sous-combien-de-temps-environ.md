@@ -13,10 +13,6 @@ tags:
 - technologie-sans-fil
 - chargement-de-batterie
 - cables-et-fils
-- technologies-a-venir
-- appareils-portatifs
-- appareils-mobiles
-- chargeurs-sans-fil
 coverImage: ./images/quora.png
 ---
 

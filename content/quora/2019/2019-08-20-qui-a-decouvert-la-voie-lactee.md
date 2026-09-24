@@ -2,9 +2,10 @@
 title: Qui a découvert la Voie Lactée ?
 slug: qui-a-decouvert-la-voie-lactee
 date: '2019-08-20'
-draft: true
+draft: false
 categories:
-- Quora
+  - Quora
+  - Notre ancêtre Urgh
 tags: []
 coverImage: ./images/quora.png
 ---

@@ -8,14 +8,9 @@ categories:
 tags:
 - physique
 - mathematiques
-- referentiel
-- theorie-des-ensembles
-- concepts-majeurs-en-physique
-- concepts-mathematiques
-- ensembles-mathematiques
 - physique-mathematique
-- concepts-en-physique
 - post
+- theorie-des-ensembles
 coverImage: ./images/quora.png
 ---
 

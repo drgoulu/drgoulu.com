@@ -6,15 +6,11 @@ draft: true
 categories:
 - Pourquoi
 tags:
-- opinion-publique
-- russie
 - relations-internationales
-- conflit-en-ukraine
+- opinion-publique
 - politique-internationale
+- russie
 - opinion-politique
-- conflits-internationaux
-- ukraine-et-russie
-- opinions-populaires
 coverImage: ./images/quora.png
 ---
 

@@ -7,16 +7,10 @@ categories:
 - Quora
 tags:
 - english
-- physics
-- hypothetical-scenarios
-- black-holes-astronomy
-- science
-- astrophysical-sciences-college-major
 - space-and-astronomy
+- hypothetical-scenarios
 - cosmology
-- theoretical-physics
 - astrophysics
-- black-hole-theory
 coverImage: ./images/quora.png
 ---
 

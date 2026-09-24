@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - religion
-- judaisme
 - christianisme
-- post
-- religions-abrahamiques
 - islam
-- l-islam
-- religions-islamique
-- religions
-- religion-abrahamique
+- post
+- judaisme
 coverImage: ./images/quora.png
 ---
 

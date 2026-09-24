@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - psychologie
-- apprentissage
-- differences-individuelles-et-de-groupe
-- habitudes-d-apprentissage
-- individus
-- specifite
-- les-personnes
 - sciences-cognitives
 - psychologie-humaine
-- difficultes-d-apprentissage
+- apprentissage
+- individus
 coverImage: ./images/quora.png
 ---
 

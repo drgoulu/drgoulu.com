@@ -6,16 +6,11 @@ draft: true
 categories:
 - Quora
 tags:
+- critique-sociale
+- modele-economique
 - philosophie-politique
 - troc
-- modele-economique
 - troubles-obsessionnels-compulsifs-toc
-- critique-sociale
-- capitalisme
-- economie-comportementale
-- theorie-economique
-- systeme-economique
-- philosophie-de-l-economie
 coverImage: ./images/quora.png
 ---
 

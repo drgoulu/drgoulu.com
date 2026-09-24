@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- systemes-politiques
-- emmanuel-macron
+- democratie
 - politique-francaise
 - gouvernement
-- democratie
-- presidents-francais
-- presidence-de-la-republique-francaise
-- democratie-en-france
-- politique-en-france
+- systemes-politiques
 coverImage: ./images/quora.png
 ---
 

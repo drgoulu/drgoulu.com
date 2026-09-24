@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - politique
-- comparaisons-parmi-les-systemes-de-fonctionnement
-- normes-publiques
-- gouvernance-mondiale
-- comparaison-des-pays-et-des-cultures
-- analyse-politique
-- politique-comparative
-- gouvernance
 - politiques-publiques
-- analyse-des-politiques
+- normes-publiques
+- analyse-politique
+- gouvernance
 coverImage: ./images/quora.png
 ---
 

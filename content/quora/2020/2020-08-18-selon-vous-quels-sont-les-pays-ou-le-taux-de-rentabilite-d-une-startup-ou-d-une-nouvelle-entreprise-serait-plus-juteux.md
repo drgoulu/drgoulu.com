@@ -7,14 +7,11 @@ categories:
 - Quora
 - Idées d'entrepreneuriat
 tags:
-- investissement
 - pays
-- entrepreneuriat
 - economie-mondiale
+- entrepreneuriat
+- investissement
 - croissance-economique
-- start-up
-- economie-d-entreprise
-- entrepreneuriat-et-business
 coverImage: ./images/quora.png
 ---
 

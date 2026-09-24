@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - astronomie
-- sciences-de-la-nature
-- terre-planete
 - systeme-solaire
-- orbite-de-la-terre
-- astronomie-et-astrophysique
 - planete-terre
-- dynamique-du-systeme-solaire
-- le-systeme-solaire
+- terre-planete
+- sciences-de-la-nature
 coverImage: ./images/quora.png
 ---
 

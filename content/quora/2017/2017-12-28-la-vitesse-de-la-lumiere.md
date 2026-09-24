@@ -7,15 +7,11 @@ categories:
 - Quora
 - Réponses Fréquentes
 tags:
-- relativite-physique
 - voyage-spatial
 - photons
+- relativite-physique
 - vitesse-de-la-lumiere
-- ondes-electromagnetiques
 - relativite-restreinte
-- theorie-du-temps
-- protons
-- astrophysique-relativiste
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - sciences
+- botanique
+- sciences-vegetales
 - l-eau-de-coco
 - biologie-moleculaire-vegetale
-- fruit
-- botanique
-- plant-science
-- noix-de-coco
-- sciences-vegetales
-- physiologie-vegetale
 coverImage: ./images/quora.png
 ---
 

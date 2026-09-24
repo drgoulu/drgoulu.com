@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - relations-internationales
-- droit-de-veto
-- nations-unies
-- sanctions
-- diplomatie
 - politique-internationale
-- droit-international-public
-- conseil-de-securite-des-nations-unies
 - droit-international
+- nations-unies
+- diplomatie
 coverImage: ./images/quora.png
 ---
 

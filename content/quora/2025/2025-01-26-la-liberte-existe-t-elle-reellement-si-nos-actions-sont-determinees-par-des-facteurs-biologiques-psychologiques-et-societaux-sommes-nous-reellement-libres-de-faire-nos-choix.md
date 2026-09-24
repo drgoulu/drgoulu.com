@@ -6,16 +6,11 @@ draft: true
 categories:
 - Quora
 tags:
+- philosophie
 - psychologie
 - choix
-- libre-arbitre
-- facteur-biologique
-- determinisme
 - liberte
-- facteurs-sociaux
-- philosophie
-- philosophie-et-psychologie
-- facteurs-humains
+- libre-arbitre
 coverImage: ./images/quora.png
 ---
 

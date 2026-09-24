@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- courbure-de-l-espace
-- progres-scientifique
-- relativite-generale
-- espace-temps
 - masse-physique
+- progres-scientifique
 - explications-scientifiques
-- structure-espace-temps
-- theories-de-la-gravitation
-- avancee-scientifique
+- relativite-generale
 coverImage: ./images/quora.png
 ---
 

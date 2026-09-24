@@ -9,15 +9,10 @@ categories:
 - Grands Principes de la Démocratie
 tags:
 - russie
-- propagande
 - ukraine
-- crimee
+- propagande
 - independance
-- donbass
-- kremlin
 - guerre-en-ukraine
-- propagande-russe
-- annexion-de-la-crimee
 coverImage: ./images/quora.png
 ---
 

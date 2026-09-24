@@ -6,16 +6,11 @@ draft: true
 categories:
 - Comment
 tags:
-- anthropologie
 - evolution
-- capacites-cognitives
-- cro-magnon-premiers-humains-europeens-modernes
-- histoire-de-l-humanite
-- homme-moderne
-- selection-naturelle
-- paleontologie-humaine
 - evolution-humaine
-- capacite-du-cerveau
+- anthropologie
+- histoire-de-l-humanite
+- capacites-cognitives
 coverImage: ./images/quora.png
 ---
 

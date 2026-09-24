@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - mineraux
+- mineralogie
 - jungle
 - pierre-naturelle
 - pierres-precieuses
-- mineralogie
-- substance-minerale
-- matiere-minerale
-- mineralogie-geologie
-- pierre-precieuse
-- pierres-naturelles
 coverImage: ./images/quora.png
 ---
 

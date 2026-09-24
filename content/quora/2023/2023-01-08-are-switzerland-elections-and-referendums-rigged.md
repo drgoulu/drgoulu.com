@@ -10,13 +10,7 @@ tags:
 - elections
 - switzerland
 - political-systems
-- democracy
-- voting-methods
-- politics-of-switzerland
 - referendums
-- swiss-democracy
-- electoral-systems
-- government-of-switzerland
 coverImage: ./images/quora.png
 ---
 

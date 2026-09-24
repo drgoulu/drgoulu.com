@@ -7,12 +7,11 @@ categories:
 - Quora
 - Le mot du jour
 tags:
+- sciences
 - physique
 - ondes
-- sciences
 - son
 - vitesse-du-son
-- physique-de-la-vie-de-tous-les-jours
 coverImage: ./images/quora.png
 ---
 

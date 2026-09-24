@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - biologie
-- adn-ancien
-- mineraux
-- genetique
-- sciences-de-la-vie
-- fossiles
 - paleontologie
+- genetique
+- mineraux
 - adn
-- genetique-moleculaire
-- paleobiologie
 coverImage: ./images/quora.png
 ---
 

@@ -9,14 +9,10 @@ categories:
 - Ça vaut la peine d'en parler
 tags:
 - philosophie
-- creationnisme
-- belgique
-- univers-infini
-- religion
-- cosmologie
-- l-univers
 - theorie
-- science-et-religion
+- cosmologie
+- religion
+- l-univers
 coverImage: ./images/quora.png
 ---
 

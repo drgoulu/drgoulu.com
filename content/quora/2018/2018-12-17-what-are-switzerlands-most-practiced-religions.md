@@ -6,17 +6,11 @@ draft: true
 categories:
 - Quora
 tags:
-- english
 - religion
-- countries-and-states
-- switzerland
-- religious-faith
-- christianity
+- english
 - islam
-- world-countries
-- protestantism
-- religious-demographics
-- catholicism
+- switzerland
+- countries-and-states
 coverImage: ./images/quora.png
 ---
 

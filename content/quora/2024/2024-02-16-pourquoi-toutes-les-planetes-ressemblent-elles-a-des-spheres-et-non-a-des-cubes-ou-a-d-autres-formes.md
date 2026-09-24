@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - physique
-- planetes-astronomie
 - astronomie
-- forme-geometrie
-- sciences-de-la-nature
-- gravitation
-- forme-de-la-terre
 - astrophysique
-- forme-des-planetes
+- gravitation
+- sciences-de-la-nature
 coverImage: ./images/quora.png
 ---
 

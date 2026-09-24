@@ -6,17 +6,11 @@ draft: true
 categories:
 - Quora
 tags:
+- france
 - english
 - social-issues
-- france
 - cities-and-towns
 - government-bureaucracy
-- developing-countries
-- crime-statistics
-- quality-of-life
-- urban-environment
-- sustainable-cities
-- urban-areas
 coverImage: ./images/quora.png
 ---
 

@@ -11,12 +11,6 @@ tags:
 - consciousness
 - time-travel-past
 - dreams-and-visions
-- human-cognition
-- time-machines
-- the-human-mind
-- dreams-and-dreaming
-- time-travel
-- human-thinking
 coverImage: ./images/quora.png
 ---
 

@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - philosophie
-- amusant
-- exemple-concret
-- contre-intuitif
-- sciences-dures
-- contradictions
-- par-exemple
+- philosophique
 - philosophie-et-science
 - exemples
-- philosophique
+- amusant
 coverImage: ./images/quora.png
 ---
 

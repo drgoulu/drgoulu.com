@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - astronomie
-- marees
-- la-terre
-- l-attraction-gravitationnelle
 - systeme-solaire
-- terre-planete
-- force-de-gravite
-- relation-terre-lune
-- lune-astronomie
 - force-gravitationnelle
+- marees
+- terre-planete
 coverImage: ./images/quora.png
 ---
 

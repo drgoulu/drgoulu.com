@@ -6,15 +6,11 @@ draft: true
 categories:
 - Combien
 tags:
-- argent
-- fraude
 - securite
-- pertes-financieres
+- argent
 - transports
-- activites-lucratives
+- fraude
 - criminalite
-- fraude-fiscale
-- risque-financier
 coverImage: ./images/quora.png
 ---
 

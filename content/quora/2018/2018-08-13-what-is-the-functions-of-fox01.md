@@ -11,12 +11,6 @@ tags:
 - foxo1
 - genetics-and-heredity
 - protein-function
-- gene-regulation
-- molecular-and-cellular-biology
-- genes
-- molecular-genetics
-- biological-functions
-- gene-expression
 coverImage: ./images/quora.png
 ---
 

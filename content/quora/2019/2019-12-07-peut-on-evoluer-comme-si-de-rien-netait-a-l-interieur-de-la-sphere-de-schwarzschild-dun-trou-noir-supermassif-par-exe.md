@@ -7,16 +7,11 @@ categories:
 - Quora
 - Réponses Fréquentes
 tags:
-- physique
-- trous-noirs-supermassifs
-- tachyons
 - sciences
-- horizon-des-evenements
+- physique
 - astronomie
-- principe-holographique
-- l-univers
-- espace-et-temps
 - relativite-physique
+- l-univers
 coverImage: ./images/quora.png
 ---
 

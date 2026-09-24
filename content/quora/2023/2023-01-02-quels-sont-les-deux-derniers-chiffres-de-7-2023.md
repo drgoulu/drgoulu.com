@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - mathematiques
-- puissance
-- calcul-mental
-- theorie-des-nombres-premiers
-- arithmetique-modulaire
-- geometrie-arithmetique
 - calcul-mathematique
-- theorie-analytique-des-nombres
+- puissance
 - arithmetique
-- theorie-des-nombres
+- theorie-analytique-des-nombres
 coverImage: ./images/quora.png
 ---
 

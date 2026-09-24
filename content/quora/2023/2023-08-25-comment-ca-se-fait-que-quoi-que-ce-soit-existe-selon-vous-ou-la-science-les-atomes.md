@@ -6,15 +6,11 @@ draft: true
 categories:
 - Comment
 tags:
-- philosophie
-- nebuleuse
-- matiere-noire
 - physique
+- astronomie
+- philosophie
 - astrophysique
 - cosmologie
-- astronomie
-- physique-theorique
-- philosophie-des-sciences
 coverImage: ./images/quora.png
 ---
 

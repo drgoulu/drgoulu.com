@@ -8,11 +8,10 @@ categories:
 - Pastalicisme
 tags:
 - religion
-- alice-au-pays-des-merveilles-livre-de-1865
 - humour
-- pastafarianisme
-- nouveaux-mouvements-religieux
+- alice-au-pays-des-merveilles-livre-de-1865
 - pastafarisme
+- pastafarianisme
 coverImage: ./images/quora.png
 ---
 

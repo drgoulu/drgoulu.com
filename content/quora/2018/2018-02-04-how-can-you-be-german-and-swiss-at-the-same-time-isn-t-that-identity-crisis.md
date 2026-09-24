@@ -7,16 +7,10 @@ categories:
 - Quora
 tags:
 - english
+- switzerland
 - germany
 - personal-identity
 - dual-citizenship-treaty
-- nationality
-- switzerland
-- identity-philosophical
-- sense-of-identity
-- social-identity
-- multiple-citizenship
-- dual-nationality
 coverImage: ./images/quora.png
 ---
 

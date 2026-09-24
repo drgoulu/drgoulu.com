@@ -7,14 +7,10 @@ categories:
 - Comment
 tags:
 - pollution
-- resilience
 - oceans
-- exxonmobil-entreprise
-- petrole
 - catastrophes-environnementales
-- alaska-etat
-- maree-noire
-- hydrocarbures
+- petrole
+- resilience
 coverImage: ./images/quora.png
 ---
 

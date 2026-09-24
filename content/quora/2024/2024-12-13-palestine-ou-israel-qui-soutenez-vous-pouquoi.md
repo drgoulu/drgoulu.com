@@ -6,16 +6,11 @@ draft: true
 categories:
 - Quora
 tags:
-- opinion-publique
 - relations-internationales
-- israel
-- sondages
-- conflits
-- conflit-israelo-palestinien
-- questions-d-opinion
-- palestine-etat
-- palestine
+- opinion-publique
 - politique-internationale
+- israel
+- conflit-israelo-palestinien
 coverImage: ./images/quora.png
 ---
 

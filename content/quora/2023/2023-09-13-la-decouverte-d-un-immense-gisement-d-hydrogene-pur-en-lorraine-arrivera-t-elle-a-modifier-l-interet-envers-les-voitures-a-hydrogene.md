@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - energie
-- ressources-naturelles
-- industrie-automobile
-- lorraine
 - energie-renouvelable
-- transition-energetique
-- hydrogene
+- ressources-naturelles
 - energie-alternative
-- la-lorraine-en-france
-- voitures-a-hydrogene
+- hydrogene
 coverImage: ./images/quora.png
 ---
 

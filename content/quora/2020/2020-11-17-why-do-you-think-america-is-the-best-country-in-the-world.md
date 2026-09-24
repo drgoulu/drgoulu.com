@@ -8,15 +8,9 @@ categories:
 tags:
 - english
 - survey-question
+- nationalism
 - political-thought-and-philosophy
 - the-u-s
-- nationalism
-- political-views
-- patriotism-and-allegiance
-- u-s-american
-- political-philosophical-opinion
-- u-s-nation
-- political-survey-question
 coverImage: ./images/quora.png
 ---
 

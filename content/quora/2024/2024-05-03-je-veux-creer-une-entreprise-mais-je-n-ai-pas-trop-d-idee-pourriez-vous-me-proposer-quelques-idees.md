@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - entrepreneuriat
-- idees-de-projets
 - demarrage-d-une-entreprise
-- conseils-commerciaux
-- opportunites-d-affaires
 - creation-d-entreprise
-- conseils-aux-entrepreneurs
-- idees-de-business
-- l-entrepreneuriat
-- conseils-business
+- idees-de-projets
+- conseils-commerciaux
 coverImage: ./images/quora.png
 ---
 

@@ -8,14 +8,9 @@ categories:
 tags:
 - opinion-publique
 - russie
-- vladimir-poutine
 - sondages
-- dictatures
 - liberte-d-expression
-- censure
-- image-publique
-- opinions-societales
-- la-liberte-d-expression
+- vladimir-poutine
 coverImage: ./images/quora.png
 ---
 

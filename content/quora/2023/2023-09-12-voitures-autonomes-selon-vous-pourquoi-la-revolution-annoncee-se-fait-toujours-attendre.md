@@ -7,13 +7,10 @@ categories:
 - Pourquoi
 tags:
 - opinion
-- intelligence-artificielle
 - developpement
+- intelligence-artificielle
 - innovation-technologique
-- conduite-autonome
 - revolution-technologique
-- vehicules-autonomes
-- l-intelligence-artificielle
 coverImage: ./images/quora.png
 ---
 

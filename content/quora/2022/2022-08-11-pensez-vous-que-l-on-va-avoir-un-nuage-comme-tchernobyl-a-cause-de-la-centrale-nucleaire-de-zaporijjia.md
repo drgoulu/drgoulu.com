@@ -6,15 +6,10 @@ draft: true
 categories:
 - Quora
 tags:
-- ukraine
-- risque-et-risques
-- nuage
-- desastre-nucleaire-de-tchernobyl-avril-1986
 - energie-nucleaire
+- risque-et-risques
+- ukraine
 - catastrophes-nucleaires
-- centrale-nucleaire-de-tchernobyl
-- les-centrales-nucleaires
-- russia
 - accident-nucleaire
 coverImage: ./images/quora.png
 ---

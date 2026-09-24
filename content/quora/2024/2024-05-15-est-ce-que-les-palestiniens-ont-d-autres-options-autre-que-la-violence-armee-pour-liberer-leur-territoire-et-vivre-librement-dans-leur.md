@@ -6,15 +6,10 @@ draft: true
 categories:
 - Quora
 tags:
-- droits-de-l-homme
-- conflit-israelo-palestinien
-- liberte
 - israel
-- territoires
-- solutions-de-pointage
-- violence-armee
+- conflit-israelo-palestinien
 - palestine
-- protestations-pacifiques
+- liberte
 - palestiniens
 coverImage: ./images/quora.png
 ---

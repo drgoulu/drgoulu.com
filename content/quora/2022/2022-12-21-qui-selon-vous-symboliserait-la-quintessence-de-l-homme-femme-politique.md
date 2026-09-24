@@ -8,14 +8,9 @@ categories:
 tags:
 - opinion
 - personnalites
-- femme-politique-francaise
-- symboles
-- qualites
-- vie-politique
-- opinions
 - opinion-politique
 - personnalites-politiques
-- homme-politique-francais
+- femme-politique-francaise
 coverImage: ./images/quora.png
 ---
 

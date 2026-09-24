@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - geopolitique
-- operation-militaire-russe-en-ukraine
-- orgueilleux
-- analyse-politique
-- cecite
-- conflit-en-ukraine
 - politique-europeenne
-- enjeux-geopolitiques
-- guerre-en-ukraine
-- politique-de-l-union-europeenne
+- operation-militaire-russe-en-ukraine
+- analyse-politique
+- conflit-en-ukraine
 coverImage: ./images/quora.png
 ---
 

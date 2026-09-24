@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - france
-- inegalites-de-revenu
-- smic
-- millionnaire
-- logement
 - richesse
 - pauvrete
-- societe-francaise
-- pauvrete-en-france
 - inegalites-sociales
+- inegalites-de-revenu
 coverImage: ./images/quora.png
 ---
 

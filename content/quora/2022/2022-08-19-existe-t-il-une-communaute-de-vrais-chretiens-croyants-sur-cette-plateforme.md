@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - christianisme
-- plateformes-en-ligne
 - foi
-- les-personnes
+- plateformes-en-ligne
 - religions
 - communaute
-- association-chretienne
-- la-foi
-- communautes-religieuses
-- communautes-chretiennes
 coverImage: ./images/quora.png
 ---
 

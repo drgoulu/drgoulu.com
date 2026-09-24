@@ -8,14 +8,9 @@ categories:
 tags:
 - philosophie
 - reflexion
-- paradoxal
-- paradoxes-philosophiques
-- logique-philosophie
-- reflexions-profondes
-- philosophie-et-logique
+- logique
 - paradoxe
 - paradoxes
-- logique
 coverImage: ./images/quora.png
 ---
 

@@ -9,14 +9,9 @@ categories:
 tags:
 - physique
 - atomes
-- recherche-atomique
-- atome-physique-quantique
-- science-physique
 - structure-atomique
-- physique-de-la-matiere
-- physique-et-chimie
+- science-physique
 - la-physique-atomique
-- physique-chimie
 coverImage: ./images/quora.png
 ---
 

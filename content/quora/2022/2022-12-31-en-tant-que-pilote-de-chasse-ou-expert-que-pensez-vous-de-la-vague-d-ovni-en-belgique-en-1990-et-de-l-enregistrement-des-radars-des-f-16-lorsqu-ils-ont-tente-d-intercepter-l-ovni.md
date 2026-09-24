@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - opinion
-- f-16-fighting-falcon-avion-de-combat
-- annees-1990
 - ovni
+- annees-1990
 - belgique
-- pilotes-de-chasse
-- radar
-- expertise
 - observations-d-ovni
-- aviation-de-chasse
 coverImage: ./images/quora.png
 ---
 

@@ -8,12 +8,9 @@ categories:
 - Réponses Fréquentes
 tags:
 - france
-- question-existentielle
-- nematode
-- les-lombrics
 - ecologie
-- culture-generale
 - biologie-animale
+- question-existentielle
 - biodiversite
 coverImage: ./images/quora.png
 ---

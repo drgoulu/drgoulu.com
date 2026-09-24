@@ -7,16 +7,10 @@ categories:
 - Quora
 tags:
 - english
+- switzerland
+- citizenship
 - personal-experiences
 - expats-and-immigrants-in-switzerland
-- citizenship
-- life-and-living
-- switzerland
-- permanent-residency
-- relocating-to-switzerland
-- swiss-citizenship
-- permanent-residency-in-switzerland
-- immigration-to-switzerland
 coverImage: ./images/quora.png
 ---
 

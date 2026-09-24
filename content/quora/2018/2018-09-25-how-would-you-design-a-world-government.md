@@ -8,15 +8,9 @@ categories:
 tags:
 - english
 - hypothetical-scenarios
+- politics-and-government
 - government
 - political-science
-- global-governance
-- politics-and-government
-- alternative-political-systems
-- government-systems
-- political-institutions
-- world-governments
-- political-philosophy
 coverImage: ./images/quora.png
 ---
 

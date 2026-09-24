@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - histoire
-- sociologie
-- conflit
-- terrorisme-islamiste
 - religion
+- sociologie
 - guerre
-- pays-musulmans
-- histoire-du-monde
 - islam
-- terrorisme
 coverImage: ./images/quora.png
 ---
 

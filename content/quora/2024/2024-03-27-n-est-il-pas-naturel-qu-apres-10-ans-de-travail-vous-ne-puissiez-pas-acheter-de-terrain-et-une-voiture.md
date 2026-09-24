@@ -8,13 +8,9 @@ categories:
 tags:
 - societe
 - argent
+- voitures
 - travail-emploi
 - inegalites-de-revenu
-- terrain
-- voitures
-- propriete-immobiliere
-- injustice-sociale
-- precarite-sociale
 coverImage: ./images/quora.png
 ---
 

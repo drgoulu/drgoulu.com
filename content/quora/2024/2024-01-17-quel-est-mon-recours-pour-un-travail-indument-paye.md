@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - salaires-et-remunerations
-- litige
 - employes
-- droit-du-travail
-- recours-collectifs
-- conseils-juridiques
-- litiges-et-proces
 - employeurs
-- droit-des-employes
-- droit-au-travail
+- litige
+- droit-du-travail
 coverImage: ./images/quora.png
 ---
 

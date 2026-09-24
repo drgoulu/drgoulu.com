@@ -7,16 +7,11 @@ categories:
 - Quora
 - Les Biomystères de Gaïa
 tags:
-- opinion-publique
-- faune
-- perception
-- chauve-souris
-- protection-de-l-environnement
-- animaux
-- biodiversite
-- ecosystemes
 - environnement
-- conservation-de-la-faune
+- animaux
+- opinion-publique
+- perception
+- faune
 coverImage: ./images/quora.png
 ---
 

@@ -7,16 +7,10 @@ categories:
 - Quora
 tags:
 - english
+- switzerland
+- economy-of-switzerland
 - manufacturing
 - luxury-watch-brands
-- switzerland
-- luxury-goods-and-services
-- watch-industry
-- swiss-companies
-- economy-of-switzerland
-- swiss-watches
-- manufacturing-industry
-- watchmaking
 coverImage: ./images/quora.png
 ---
 

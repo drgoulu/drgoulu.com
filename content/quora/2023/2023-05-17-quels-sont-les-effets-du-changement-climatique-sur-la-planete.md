@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - changement-climatique
-- l-environnement
-- climatologie
-- sciences-de-l-atmosphere
 - rechauffement-climatique
-- effets-du-rechauffement-de-la-planete
+- climatologie
 - crise-climatique
-- science-environnementale
-- le-rechauffement-climatique
-- changement-du-climat
+- l-environnement
 coverImage: ./images/quora.png
 ---
 

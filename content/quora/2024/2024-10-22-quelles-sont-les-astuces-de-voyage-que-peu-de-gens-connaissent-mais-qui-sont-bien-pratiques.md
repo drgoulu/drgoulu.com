@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - voyage
-- conseils-pratiques
 - tourisme-guide-touristique
-- conseils-pour-voyage-a-l-etranger
 - voyageurs
-- astuces-de-voyage
-- tourisme-culturel
-- conseils-pour-les-vacances
-- secrets-de-voyage
+- conseils-pratiques
+- conseils-pour-voyage-a-l-etranger
 coverImage: ./images/quora.png
 ---
 

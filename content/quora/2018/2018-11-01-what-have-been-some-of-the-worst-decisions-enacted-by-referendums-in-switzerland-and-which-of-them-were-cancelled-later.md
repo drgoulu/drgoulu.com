@@ -7,16 +7,10 @@ categories:
 - Quora
 tags:
 - english
-- history-and-politics
 - switzerland
-- federal-government-decisionmaking
 - referendums
-- politics-and-government-of-switzerland
-- political-decisions
-- swiss-history
-- swiss-parliament
 - swiss-democracy
-- government-decision-making
+- history-and-politics
 coverImage: ./images/quora.png
 ---
 

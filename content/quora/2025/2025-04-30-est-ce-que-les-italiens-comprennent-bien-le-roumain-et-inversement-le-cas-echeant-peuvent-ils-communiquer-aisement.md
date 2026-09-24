@@ -6,16 +6,11 @@ draft: true
 categories:
 - Quora
 tags:
+- comprehension
 - langues
 - communication-interpersonnelle
-- comprehension
 - roumains
 - italiens
-- linguistique-comparee
-- langues-romanes
-- italien-langue
-- roumain-langue
-- comparaison-des-langues
 coverImage: ./images/quora.png
 ---
 

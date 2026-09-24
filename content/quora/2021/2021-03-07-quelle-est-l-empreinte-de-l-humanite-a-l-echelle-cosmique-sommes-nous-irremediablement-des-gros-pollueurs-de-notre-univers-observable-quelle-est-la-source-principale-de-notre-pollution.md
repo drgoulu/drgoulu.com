@@ -7,15 +7,10 @@ categories:
 - Quora
 - Science, s'il vous plaît !
 tags:
-- l-environnement
 - cosmologie
-- echelle
-- avenir-de-l-humanite
-- univers-observable
 - pollution
-- l-humanite
-- influence-de-l-homme-sur-la-planete
-- pollution-environnementale
+- univers-observable
+- l-environnement
 - histoire-de-l-humanite
 coverImage: ./images/quora.png
 ---

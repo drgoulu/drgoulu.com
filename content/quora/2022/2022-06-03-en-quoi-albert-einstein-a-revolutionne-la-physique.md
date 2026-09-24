@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- personnalite
-- revolution-intellectuelle
-- albert-einstein-physicien
-- theorie-de-la-relativite
-- progres-scientifique
-- histoire-de-la-physique
 - physique-theorique
-- revolutions-scientifiques
+- albert-einstein-physicien
+- progres-scientifique
 - relativite-physique
 coverImage: ./images/quora.png
 ---

@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - france
-- attaques-terroristes
-- otage
-- l-islam
-- victimes
+- islam
 - reaction
 - terrorisme
-- islam
-- terrorisme-islamiste
-- actes-terroristes
+- attaques-terroristes
 coverImage: ./images/quora.png
 ---
 

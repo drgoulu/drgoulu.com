@@ -11,12 +11,6 @@ tags:
 - decimal-expansions
 - high-precision
 - pi-number
-- computer-simulation
-- computational-number-theory
-- scientific-models
-- fractions-and-decimals
-- computational-science
-- number-theory
 coverImage: ./images/quora.png
 ---
 

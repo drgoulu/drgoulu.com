@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - psychologie
-- amitie
-- communication
-- activites
 - comportement-humain
-- conseil
-- relation-interpersonnelles
+- communication
 - comportement
-- conseil-de-vie
-- interaction-interpersonnnelle
+- amitie
 coverImage: ./images/quora.png
 ---
 

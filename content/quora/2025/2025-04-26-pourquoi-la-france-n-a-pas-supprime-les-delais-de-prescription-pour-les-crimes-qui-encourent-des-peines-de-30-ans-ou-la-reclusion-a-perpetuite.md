@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - france
-- peine
-- delai-de-prescription
 - politique-francaise
+- peine
 - crimes
-- systeme-penal-en-france
-- justice-en-france
-- droit-penal-francais
-- crime
+- delai-de-prescription
 coverImage: ./images/quora.png
 ---
 

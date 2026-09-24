@@ -11,10 +11,6 @@ tags:
 - ventes
 - strategie-d-entreprise
 - recherche-de-marche
-- strategie-marketing
-- segmentation-du-marche
-- analyse-de-marche
-- etude-de-marche
 coverImage: ./images/quora.png
 ---
 

@@ -7,14 +7,10 @@ categories:
 - Quora
 tags:
 - argent
-- scenarios-economiques-hypothetiques
 - gouvernement
 - inflation-economie
-- marche-du-logement
-- citoyens
 - politique-monetaire
-- immobilier
-- valeur-economie
+- scenarios-economiques-hypothetiques
 coverImage: ./images/quora.png
 ---
 

@@ -7,16 +7,11 @@ categories:
 - Quora
 - Le mot du jour
 tags:
-- physique
 - sciences
-- composes-covalents
-- chiralite-chimie
-- geometrie-moleculaire
-- liaisons-d-hydrogene
-- atomes
+- physique
 - chimie
+- atomes
 - la-physique-atomique
-- chimie-organique-physique
 coverImage: ./images/quora.png
 ---
 

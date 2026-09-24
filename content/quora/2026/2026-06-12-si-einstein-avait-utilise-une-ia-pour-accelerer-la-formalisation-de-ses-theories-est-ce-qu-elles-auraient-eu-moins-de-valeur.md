@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - physique
+- physique-theorique
 - intelligence-artificielle
-- einstein
-- histoire-des-sciences
-- methodologie
-- theorie-de-la-relativite
-- la-methode-scientifique
 - albert-einstein-physicien
 - theories-physiques
-- physique-theorique
 coverImage: ./images/quora.png
 ---
 

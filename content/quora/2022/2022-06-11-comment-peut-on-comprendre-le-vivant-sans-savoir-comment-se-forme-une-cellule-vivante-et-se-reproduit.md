@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - biologie
-- comprendre-la-vie
-- cycle-cellulaire
+- vie-biologique
 - sciences-de-la-vie
 - reproduction-animale
-- vie-biologique
-- cellules-biologie
-- cellule-vegetale
-- biologie-cellulaire
-- theorie-cellulaire
+- comprendre-la-vie
 coverImage: ./images/quora.png
 ---
 

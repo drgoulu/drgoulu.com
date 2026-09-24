@@ -6,16 +6,11 @@ draft: true
 categories:
 - Quora
 tags:
-- investissement
 - entrepreneuriat
 - developpement-logiciel
-- impots
-- droit-fiscal
-- depenses
-- fiscalite-de-l-entreprise
-- entreprises-de-logiciels
+- investissement
 - fiscalite
-- developpement-de-logiciels
+- impots
 coverImage: ./images/quora.png
 ---
 

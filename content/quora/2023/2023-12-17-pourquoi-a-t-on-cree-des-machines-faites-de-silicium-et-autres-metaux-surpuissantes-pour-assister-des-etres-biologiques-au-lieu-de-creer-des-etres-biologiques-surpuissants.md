@@ -7,14 +7,10 @@ categories:
 - Pourquoi
 tags:
 - philosophie
-- nouvelles-technologies
-- evolution-processus
-- creation
-- intelligence-artificielle
-- l-humanite
 - humanite
-- philosophie-des-sciences
-- superintelligence-artificielle
+- nouvelles-technologies
+- intelligence-artificielle
+- creation
 coverImage: ./images/quora.png
 ---
 

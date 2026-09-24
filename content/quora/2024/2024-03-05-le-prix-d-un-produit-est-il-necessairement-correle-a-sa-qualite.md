@@ -6,15 +6,11 @@ draft: true
 categories:
 - Quora
 tags:
-- marketing
 - consommation
 - prix
-- econometrie
 - qualite
+- marketing
 - produit
-- prix-de-vente
-- marketing-produit
-- qualite-produit
 coverImage: ./images/quora.png
 ---
 

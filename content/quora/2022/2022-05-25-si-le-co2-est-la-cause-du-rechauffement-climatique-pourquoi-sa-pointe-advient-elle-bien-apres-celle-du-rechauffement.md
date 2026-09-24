@@ -9,15 +9,10 @@ categories:
 - En.R et Climat
 tags:
 - changement-climatique
-- co2
-- effet-de-serre
-- le-dioxyde-de-carbone
-- sciences-de-l-atmosphere
-- emissions-de-carbone
-- gaz-a-effet-de-serre
 - rechauffement-climatique
-- co2-atmospherique
-- le-rechauffement-climatique
+- gaz-a-effet-de-serre
+- sciences-de-l-atmosphere
+- effet-de-serre
 coverImage: ./images/quora.png
 ---
 

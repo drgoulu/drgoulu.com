@@ -7,15 +7,10 @@ categories:
 - Pourquoi
 tags:
 - france
-- resultats-des-elections
 - politique-francaise
-- evenement-en-cours
-- systeme-d-election
-- elections-legislatives
-- travaux-en-cours
-- francia
 - elections
-- affaires-en-cours
+- resultats-des-elections
+- evenement-en-cours
 coverImage: ./images/quora.png
 ---
 

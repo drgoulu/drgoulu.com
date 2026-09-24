@@ -8,15 +8,10 @@ categories:
 - Notre ancêtre Urgh
 tags:
 - philosophie
-- experience-de-mort-imminente
-- scepticisme
-- conscience
-- experiences
 - religion
-- vie-apres-la-mort
+- conscience
+- scepticisme
 - mort-et-mourir
-- science-et-religion
-- philosophie-et-science
 coverImage: ./images/quora.png
 ---
 

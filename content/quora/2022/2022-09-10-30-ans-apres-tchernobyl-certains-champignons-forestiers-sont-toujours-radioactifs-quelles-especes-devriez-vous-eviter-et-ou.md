@@ -7,16 +7,11 @@ categories:
 - Quora
 - Les Biomystères de Gaïa
 tags:
-- risques-pour-la-sante
-- desastre-nucleaire-de-tchernobyl-avril-1986
-- champignons
-- forets
 - radioactivite
 - catastrophes-nucleaires
-- ramasser-des-champignons
-- securite-alimentaire
-- sante-environnementale
 - substances-radioactives
+- risques-pour-la-sante
+- desastre-nucleaire-de-tchernobyl-avril-1986
 coverImage: ./images/quora.png
 ---
 

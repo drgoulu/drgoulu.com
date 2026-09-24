@@ -8,12 +8,9 @@ categories:
 tags:
 - physique
 - recherche-scientifique
-- accelerateurs-de-particules
 - particules
 - collision-physique
 - science-physique
-- physique-des-accelerateurs
-- recherches-scientifiques
 coverImage: ./images/quora.png
 ---
 

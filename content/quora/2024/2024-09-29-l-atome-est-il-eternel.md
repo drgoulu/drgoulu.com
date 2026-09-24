@@ -7,14 +7,9 @@ categories:
 - Quora
 tags:
 - physique
-- vie-eternelle
 - atomes
-- philosophie-des-sciences
 - structure-atomique
-- immortalite
-- la-permanence
-- sciences-de-la-matiere
-- l-eternite
+- philosophie-des-sciences
 - philosophie-de-la-physique
 coverImage: ./images/quora.png
 ---

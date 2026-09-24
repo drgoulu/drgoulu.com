@@ -7,15 +7,10 @@ categories:
 - Comment
 tags:
 - physique
-- etoiles-corps-celestes
 - astronomie
-- bougies
-- calculs
-- luminosite
 - astrophysique
-- le-calcul
+- etoiles-corps-celestes
 - etoiles
-- mesures-physiques
 coverImage: ./images/quora.png
 ---
 

@@ -6,16 +6,11 @@ draft: true
 categories:
 - Quora
 tags:
-- les-etats-unis-d-amerique
-- guerre-commerciale
-- regime-autoritaire
-- politique-americaine
 - relations-economiques-internationales
-- protectionnisme-americain
-- gouvernement-totalitaire
-- economie-americaine
+- politique-americaine
+- les-etats-unis-d-amerique
 - politique-des-etats-unis-d-amerique
-- politique-economique-des-etats-unis
+- guerre-commerciale
 coverImage: ./images/quora.png
 ---
 

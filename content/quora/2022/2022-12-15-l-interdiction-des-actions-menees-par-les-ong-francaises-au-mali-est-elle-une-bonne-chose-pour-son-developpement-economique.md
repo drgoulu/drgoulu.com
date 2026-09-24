@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - politique
-- mali
 - relations-internationales
-- developpement-economique
-- afrique
 - politique-francaise
-- interdictions
-- organisations-non-gouvernementales-ong
-- aide-humanitaire
-- commerce-international
+- afrique
+- developpement-economique
 coverImage: ./images/quora.png
 ---
 

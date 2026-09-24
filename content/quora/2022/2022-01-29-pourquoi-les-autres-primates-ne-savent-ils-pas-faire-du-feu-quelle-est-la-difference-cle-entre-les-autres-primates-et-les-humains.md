@@ -8,16 +8,11 @@ categories:
 - Quora
 - Science, s'il vous plaît !
 tags:
-- comportement
 - biologie
-- feu
-- differences-et-similitudes
-- primates
-- anthropologie
-- cognition
 - evolution-humaine
-- homo-sapiens
-- evolution-biologie
+- anthropologie
+- comportement
+- primates
 coverImage: ./images/quora.png
 ---
 

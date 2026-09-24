@@ -8,12 +8,9 @@ categories:
 tags:
 - relations-internationales
 - guerre
-- hamas
-- conflit-israelo-palestinien
-- israel
-- citoyen-du-monde
-- paix-dans-le-monde
 - politique-internationale
+- israel
+- conflit-israelo-palestinien
 coverImage: ./images/quora.png
 ---
 

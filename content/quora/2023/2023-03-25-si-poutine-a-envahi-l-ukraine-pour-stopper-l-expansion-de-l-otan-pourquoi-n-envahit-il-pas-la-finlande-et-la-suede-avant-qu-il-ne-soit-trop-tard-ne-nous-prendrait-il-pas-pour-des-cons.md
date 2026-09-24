@@ -6,16 +6,11 @@ draft: true
 categories:
 - Pourquoi
 tags:
-- opinion-publique
 - relations-internationales
-- ukraine
+- opinion-publique
 - guerre
 - perception
-- vladimir-poutine
-- suede
-- otan
-- strategie
-- finlande
+- ukraine
 coverImage: ./images/quora.png
 ---
 

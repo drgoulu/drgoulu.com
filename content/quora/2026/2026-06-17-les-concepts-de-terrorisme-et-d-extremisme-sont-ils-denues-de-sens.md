@@ -9,13 +9,8 @@ tags:
 - geopolitique
 - hamas
 - terrorisme
-- la-maison-blanche
-- al-qaida
-- hezbollah
 - attaques-terroristes
-- extremisme
-- terroristes
-- groupes-terroristes
+- la-maison-blanche
 coverImage: ./images/quora.png
 ---
 

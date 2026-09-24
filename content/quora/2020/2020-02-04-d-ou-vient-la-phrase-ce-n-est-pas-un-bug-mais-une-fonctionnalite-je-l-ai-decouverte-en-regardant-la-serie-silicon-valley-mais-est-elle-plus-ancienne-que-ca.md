@@ -9,14 +9,9 @@ categories:
 tags:
 - informatique
 - culture-populaire
-- silicon-valley-series-tv
-- citation-societe
-- origines-d-expressions
 - fonctionnalite
-- series-televisees
-- bug-informatique
 - culture-generale
-- l-informatique
+- citation-societe
 coverImage: ./images/quora.png
 ---
 

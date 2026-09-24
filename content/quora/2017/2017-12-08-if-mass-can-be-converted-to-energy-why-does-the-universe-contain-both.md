@@ -7,15 +7,10 @@ categories:
 - Quora
 tags:
 - english
-- physics
-- mass-energy-equivalence
-- the-universe
-- science-theories
 - cosmology
-- physical-chemistry
+- physics
 - theoretical-physics
-- mass-energy-theory
-- scientific-theory
+- mass-energy-equivalence
 coverImage: ./images/quora.png
 ---
 

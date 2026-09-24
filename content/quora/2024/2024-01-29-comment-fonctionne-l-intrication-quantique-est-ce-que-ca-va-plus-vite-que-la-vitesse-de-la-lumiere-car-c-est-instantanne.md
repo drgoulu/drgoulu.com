@@ -6,16 +6,11 @@ draft: true
 categories:
 - Comment
 tags:
-- physique
 - sciences
-- instantane
-- vitesse-de-la-lumiere
-- mecanique-quantique
-- intrication-quantique
+- physique
 - physique-theorique
-- science-physique
-- information-quantique
 - physique-quantique
+- mecanique-quantique
 coverImage: ./images/quora.png
 ---
 
