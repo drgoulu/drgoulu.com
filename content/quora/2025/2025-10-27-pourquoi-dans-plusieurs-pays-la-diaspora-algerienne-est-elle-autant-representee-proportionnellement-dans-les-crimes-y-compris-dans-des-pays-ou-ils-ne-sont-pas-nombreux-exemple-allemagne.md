@@ -1,16 +1,14 @@
 ---
 title: 'Pourquoi dans plusieurs pays, la diaspora Algerienne est-elle autant représentée proportionnellement dans les crimes ? Y compris dans des pays où ils ne sont pas nombreux (exemple : Allemagne)'
-slug: pourquoi-dans-plusieurs-pays-la-diaspora-algerienne-est-elle-autant-representee-proportionnellement-dans-les-crimes-y-compris-dans-des-pays-ou-ils-ne-sont-pas-nombreux-exemple-allemagne
-date: '2025-10-27'
+date: 2025-10-27
 draft: false
-categories:
-- Pourquoi
 tags:
-- immigration
-- allemagne
-- migration
-- criminalite
-- groupes-sociaux
+  - immigration
+  - allemagne
+  - criminalite
+categories:
+  - Pourquoi
+slug: pourquoi-dans-plusieurs-pays-la-diaspora-algerienne-est-elle-autant-representee-proportionnellement-dans-les-crimes-y-compris-dans-des-pays-ou-ils-ne-sont-pas-nombreux-exemple-allemagne
 coverImage: ./images/quora.png
 ---
 
