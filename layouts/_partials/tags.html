@@ -8,8 +8,7 @@
     {{ end }}
   {{ end }}
   {{ range $tags }}
-    {{/* Only show tags that link to at least 2 articles */}}
-    {{ if and (gt (len .Pages) 1) .LinkTitle .RelPermalink }}
+    {{ if and .LinkTitle .RelPermalink }}
       <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
     {{ end }}
   {{ end }}

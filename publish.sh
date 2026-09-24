@@ -94,9 +94,6 @@ fi
 # 2. Compilation préalable si demandée
 if [ "$DO_BUILD" = true ]; then
   echo "🔨 Compilation du site avec Hugo..."
-  if [ -f "scripts/filter_single_tags.py" ]; then
-    python3 scripts/filter_single_tags.py
-  fi
   HUGO_ENVIRONMENT=production hugo --gc --minify -b "https://drgoulu.com/"
   if command -v pnpm &>/dev/null && [ -f "package.json" ]; then
     echo "🔍 Indexation Pagefind..."
