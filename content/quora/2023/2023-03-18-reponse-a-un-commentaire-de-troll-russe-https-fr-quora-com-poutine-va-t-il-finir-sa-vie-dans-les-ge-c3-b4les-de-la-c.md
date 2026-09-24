@@ -1,21 +1,21 @@
 ---
 title: réponse à un commentaire de troll russe https fr quora com Poutine va t'il finir sa vie dans les ge C3 B4les de la C
-slug: reponse-a-un-commentaire-de-troll-russe-https-fr-quora-com-poutine-va-t-il-finir-sa-vie-dans-les-ge-c3-b4les-de-la-c
-date: '2023-03-18'
+date: 2023-03-18
 draft: false
-categories:
-- Quora
-- Au cas où le commentaire serait supprimé
 tags:
-- politique
-- ukraine
-- guerre
-- russie
-- otan
+  - ukraine
+  - guerre
+  - russie
+  - otan
+  - droit international
+categories:
+  - Quora
+  - Au cas où le commentaire serait supprimé
+slug: reponse-a-un-commentaire-de-troll-russe-https-fr-quora-com-poutine-va-t-il-finir-sa-vie-dans-les-ge-c3-b4les-de-la-c
 coverImage: ./images/quora.png
 ---
 
-*Réponse publiée [sur Quora](https://aucasoulecommentaireseraitsupprime.quora.com/réponse-à-un-commentaire-de-troll-russe-https-fr-quora-com-Poutine-va-t-il-finir-sa-vie-dans-les-ge-C3-B4les-de-la-C)*
+_Réponse publiée_ [_sur Quora_](https://aucasoulecommentaireseraitsupprime.quora.com/réponse-à-un-commentaire-de-troll-russe-https-fr-quora-com-Poutine-va-t-il-finir-sa-vie-dans-les-ge-C3-B4les-de-la-C)
 
 (réponse à un commentaire de troll russe
 
@@ -28,5 +28,3 @@ Alors:
 3. Sur l'[Opération Force alliée](w:) en Serbie, on peut discuter. Plusieurs dirigeants occidentaux ont admis que c'était une erreur, y compris Clinton pour l'ambassade de Chine. Mais là encore, si vous avez des preuves que les bombardements visaient des infrastructures civiles, vous pouvez les déposer à la CPI. Ou ici…
 
 Si un tribunal ne punit pas les policiers qui font des bavures, ça doit être corrigé mais ce n'est pas une raison pour que le même tribunal épargne les criminels.
-
-Vu que vous en avez clairement le profil, je vous bloque et vous signale comme troll russe.
