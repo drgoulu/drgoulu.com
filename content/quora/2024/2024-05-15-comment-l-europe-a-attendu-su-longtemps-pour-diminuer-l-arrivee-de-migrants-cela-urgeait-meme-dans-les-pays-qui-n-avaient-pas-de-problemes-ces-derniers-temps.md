@@ -1,16 +1,14 @@
 ---
 title: Comment l'Europe a attendu su longtemps pour diminuer l'arrivée de migrants ? Cela urgeait, même dans les pays qui n'avaient pas de problèmes ces derniers temps.
-slug: comment-l-europe-a-attendu-su-longtemps-pour-diminuer-l-arrivee-de-migrants-cela-urgeait-meme-dans-les-pays-qui-n-avaient-pas-de-problemes-ces-derniers-temps
-date: '2024-05-15'
+date: 2024-05-15
 draft: false
-categories:
-- Comment
 tags:
-- politique
-- europe
-- migration
-- pays-europeens
-- immigration
+  - politique
+  - europe
+  - immigration
+categories:
+  - Comment
+slug: comment-l-europe-a-attendu-su-longtemps-pour-diminuer-l-arrivee-de-migrants-cela-urgeait-meme-dans-les-pays-qui-n-avaient-pas-de-problemes-ces-derniers-temps
 coverImage: ./images/quora.png
 ---
 

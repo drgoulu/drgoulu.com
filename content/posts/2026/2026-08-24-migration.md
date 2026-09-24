@@ -5,6 +5,8 @@ draft: false
 tags:
   - Wordpress
   - Hugo
+  - migration
+  - Sveltia
 categories:
   - Comment
 slug: migration

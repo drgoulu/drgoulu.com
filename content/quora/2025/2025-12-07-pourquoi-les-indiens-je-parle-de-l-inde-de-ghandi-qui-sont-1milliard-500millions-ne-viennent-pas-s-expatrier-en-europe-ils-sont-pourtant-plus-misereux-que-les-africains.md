@@ -1,16 +1,14 @@
 ---
 title: Pourquoi les indiens (je parle de l'Inde de Ghandi),qui sont 1milliard 500millions ne viennent pas s'expatrier en Europe ? Ils sont pourtant plus miséreux que les Africains !
-slug: pourquoi-les-indiens-je-parle-de-l-inde-de-ghandi-qui-sont-1milliard-500millions-ne-viennent-pas-s-expatrier-en-europe-ils-sont-pourtant-plus-misereux-que-les-africains
-date: '2025-12-07'
+date: 2025-12-07
 draft: false
-categories:
-- Pourquoi
 tags:
-- pauvrete
-- immigration
-- inde
-- pays-en-voie-de-developpement
-- migration
+  - pauvrete
+  - immigration
+  - inde
+categories:
+  - Pourquoi
+slug: pourquoi-les-indiens-je-parle-de-l-inde-de-ghandi-qui-sont-1milliard-500millions-ne-viennent-pas-s-expatrier-en-europe-ils-sont-pourtant-plus-misereux-que-les-africains
 coverImage: ./images/quora.png
 ---
 
