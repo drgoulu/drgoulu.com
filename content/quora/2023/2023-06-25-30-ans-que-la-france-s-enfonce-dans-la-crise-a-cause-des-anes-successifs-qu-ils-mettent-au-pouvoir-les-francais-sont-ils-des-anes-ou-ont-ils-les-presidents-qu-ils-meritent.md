@@ -1,20 +1,19 @@
 ---
 title: 30 ans que la France s'enfonce dans la crise à cause des ânes successifs qu'ils mettent au pouvoir les français sont ils des ânes ou ont-ils les présidents qu'ils méritent ?
-slug: 30-ans-que-la-france-s-enfonce-dans-la-crise-a-cause-des-anes-successifs-qu-ils-mettent-au-pouvoir-les-francais-sont-ils-des-anes-ou-ont-ils-les-presidents-qu-ils-meritent
-date: '2023-06-25'
+date: 2023-06-25
 draft: false
-categories:
-- Quora
 tags:
-- politique
-- france
-- opinion-publique
-- democratie
-- elections
+  - politique
+  - france
+  - dette
+  - finances
+categories:
+  - Quora
+slug: 30-ans-que-la-france-s-enfonce-dans-la-crise-a-cause-des-anes-successifs-qu-ils-mettent-au-pouvoir-les-francais-sont-ils-des-anes-ou-ont-ils-les-presidents-qu-ils-meritent
 coverImage: ./images/quora.png
 ---
 
-*Réponse publiée [sur Quora](https://fr.quora.com/30-ans-que-la-France-senfonce-dans-la-crise-%C3%A0-cause-des-%C3%A2nes-successifs-quils-mettent-au-pouvoir-les-fran%C3%A7ais-sont-ils-des-%C3%A2nes-ou-ont-ils-les-pr%C3%A9sidents-quils-m%C3%A9ritent/answer/Dr-Goulu)*
+_Réponse publiée_ [_sur Quora_](https://fr.quora.com/30-ans-que-la-France-senfonce-dans-la-crise-%C3%A0-cause-des-%C3%A2nes-successifs-quils-mettent-au-pouvoir-les-fran%C3%A7ais-sont-ils-des-%C3%A2nes-ou-ont-ils-les-pr%C3%A9sidents-quils-m%C3%A9ritent/answer/Dr-Goulu)
 
 Mon impression de l'extérieur est que vous comptez beaucoup trop sur votre Président.
 
@@ -22,7 +21,7 @@ Vous êtes encore dans le trip de la monarchie où la France est riche grâce à
 
 D'ailleurs votre système électoral consiste à nommer un roi quasi intouchable pour 2x5 ans, qui peut changer le gouvernement à sa guise, dissoudre l'Assemblée Nationale, envoyer ou retirer ses armées où il veut, et même lancer des armes nucléaires
 
-[https://www.youtube.com/watch?v=...](https://www.youtube.com/watch?v=vr5WEsODh9U)
+{{< youtube "vr5WEsODh9U" >}}
 
 Alors évidemment, avec tous ces super pouvoirs, ILAKA résoudre tous vos problèmes d'un coup de baguette magique, n'est-ce pas ? Semaine de 24h, retraite à 50 ans, gaz et électricité gratuits, rien ne devrait être impossible avec un bon Président …
 
