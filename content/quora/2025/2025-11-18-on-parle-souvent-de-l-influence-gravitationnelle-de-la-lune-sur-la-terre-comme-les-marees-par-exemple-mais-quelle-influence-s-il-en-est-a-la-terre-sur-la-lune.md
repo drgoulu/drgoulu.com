@@ -1,20 +1,20 @@
 ---
 title: On parle souvent de l'influence gravitationnelle de la lune sur la Terre (comme les marées par exemple), mais quelle influence, s'il en est, a la Terre sur la lune ?
-slug: on-parle-souvent-de-l-influence-gravitationnelle-de-la-lune-sur-la-terre-comme-les-marees-par-exemple-mais-quelle-influence-s-il-en-est-a-la-terre-sur-la-lune
-date: '2025-11-18'
+date: 2025-11-18
 draft: false
-categories:
-- Quora
 tags:
-- astronomie
-- terre
-- planetes
-- systeme-solaire
-- gravite
+  - astronomie
+  - terre
+  - Lune
+  - gravite
+  - marées
+categories:
+  - Quora
+slug: on-parle-souvent-de-l-influence-gravitationnelle-de-la-lune-sur-la-terre-comme-les-marees-par-exemple-mais-quelle-influence-s-il-en-est-a-la-terre-sur-la-lune
 coverImage: ./images/quora.png
 ---
 
-*Réponse publiée [sur Quora](https://fr.quora.com/On-parle-souvent-de-linfluence-gravitationnelle-de-la-lune-sur-la-Terre-comme-les-mar%C3%A9es-par-exemple-mais-quelle-influence-sil-en-est-a-la-Terre-sur-la-lune/answer/Dr-Goulu)*
+_Réponse publiée_ [_sur Quora_](https://fr.quora.com/On-parle-souvent-de-linfluence-gravitationnelle-de-la-lune-sur-la-Terre-comme-les-mar%C3%A9es-par-exemple-mais-quelle-influence-sil-en-est-a-la-Terre-sur-la-lune/answer/Dr-Goulu)
 
 Elle a été si forte qu'elle a freiné la rotation de la Lune au point de la stopper.
 
@@ -24,4 +24,4 @@ Les marées ralentissent aussi la rotation de la Terre de deux millisecondes par
 
 Les marées "liquides" de nos océans ne sont qu'un épiphénomène (= de surface) d'un phénomène astronomique bien plus important et général.
 
-[https://drgoulu.com/2017/08/15/c...](/2017/08/15/combien-de-maree/)
+Voir [Combien de marées](/2017/08/15/combien-de-maree/)
