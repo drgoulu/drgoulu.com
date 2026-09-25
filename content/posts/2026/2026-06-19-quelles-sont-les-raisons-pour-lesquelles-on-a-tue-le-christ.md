@@ -1,16 +1,15 @@
 ---
 title: Quelles sont les raisons pour lesquelles on a tué le Christ ?
-slug: quelles-sont-les-raisons-pour-lesquelles-on-a-tue-le-christ
-date: '2026-06-19'
+date: 2026-06-19
 draft: false
-categories:
-- Quora
 tags:
-- religion
-- theologie
-- christianisme
-- jesus-christ
-- histoire
+  - religion
+  - christianisme
+  - jesus-christ
+  - histoire
+categories:
+  - Quora
+slug: quelles-sont-les-raisons-pour-lesquelles-on-a-tue-le-christ
 coverImage: ./images/quora.png
 ---
 
