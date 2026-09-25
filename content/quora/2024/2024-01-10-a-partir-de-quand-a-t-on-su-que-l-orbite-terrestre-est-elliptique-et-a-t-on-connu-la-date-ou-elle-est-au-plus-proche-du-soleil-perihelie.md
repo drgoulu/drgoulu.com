@@ -1,16 +1,16 @@
 ---
 title: A partir de quand a-t-on su que l'orbite terrestre est elliptique et a-t-on connu la date où elle est au plus proche du soleil (périhélie) ?
-slug: a-partir-de-quand-a-t-on-su-que-l-orbite-terrestre-est-elliptique-et-a-t-on-connu-la-date-ou-elle-est-au-plus-proche-du-soleil-perihelie
-date: '2024-01-10'
+date: 2024-01-10
 draft: false
-categories:
-- Quora
 tags:
-- sciences
-- astronomie
-- histoire
-- terre
-- planetes
+  - sciences
+  - astronomie
+  - histoire
+  - terre
+  - orbite
+categories:
+  - Quora
+slug: a-partir-de-quand-a-t-on-su-que-l-orbite-terrestre-est-elliptique-et-a-t-on-connu-la-date-ou-elle-est-au-plus-proche-du-soleil-perihelie
 coverImage: ./images/quora.png
 ---
 
