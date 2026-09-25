@@ -1,16 +1,16 @@
 ---
 title: A partir de combien de décimales après la virgule du nombre Pi s'est-on rendu compte que ça ne servait à rien de continuer le calcul ?
-slug: a-partir-de-combien-de-decimales-apres-la-virgule-du-nombre-pi-s-est-on-rendu-compte-que-ca-ne-servait-a-rien-de-continuer-le-calcul
-date: '2019-12-05'
+date: 2019-12-05
 draft: false
-categories:
-- Combien
 tags:
-- histoire
-- mathematiques
-- calcul
-- pi
-- constantes-mathematiques
+  - histoire
+  - mathematiques
+  - calcul
+  - pi
+  - constantes-mathematiques
+categories:
+  - Combien
+slug: a-partir-de-combien-de-decimales-apres-la-virgule-du-nombre-pi-s-est-on-rendu-compte-que-ca-ne-servait-a-rien-de-continuer-le-calcul
 coverImage: ./images/quora.png
 ---
 
