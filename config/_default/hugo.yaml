@@ -158,26 +158,6 @@ params:
           - { label: Slug, name: slug, widget: string, required: false }
           - { label: Image, name: coverImage, widget: image, required: false }
           - { label: Corps, name: body, widget: richtext }
-      quora:
-        name: "quora"
-        label: "Quora"
-        label_singular: "Article Quora"
-        folder: "content/quora"
-        media_folder: "./images"
-        public_folder: "./images"
-        icon: "question_answer"
-        filter:
-          field: draft
-          value: false
-        fields:
-          - { label: Titre, name: title, widget: string }
-          - { label: Date, name: date, widget: datetime, type: date }
-          - { label: Brouillon, name: draft, widget: boolean, default: false }
-          - { label: Tags, name: tags, widget: list, required: false }
-          - { label: Categories, name: categories, widget: list, required: false }
-          - { label: Slug, name: slug, widget: string, required: false }
-          - { label: Image, name: coverImage, widget: image, required: false }
-          - { label: Corps, name: body, widget: richtext }
       drafts:
         name: "drafts"
         label: "Brouillons"

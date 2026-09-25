@@ -1,11 +1,14 @@
 ---
 title: Parler français comme langue maternelle est assez courant à Kinshasa et Libreville, mais qu'en est-il des autres villes ou pays francophones ? Existe-t-il d'autres endroits où le nombre de francophones natifs est significatif ?
-slug: parler-francais-comme-langue-maternelle-est-assez-courant-a-kinshasa-et-libreville
-date: '2026-07-19'
+date: 2026-07-19
 draft: false
+tags:
+  - langue
+  - française
+  - afrique
 categories:
-- Quora
-tags: []
+  - Quora
+slug: parler-francais-comme-langue-maternelle-est-assez-courant-a-kinshasa-et-libreville
 coverImage: ./images/quora.png
 ---
 
