@@ -1,15 +1,18 @@
 ---
 title: Pourquoi supposons-nous que la vie extraterrestre est basée sur le carbone ? N'est-ce pas une vision très centrée sur la Terre ? Il me semble probable qu'il existe de nombreux éléments que nous n'avons même pas découverts?
-slug: pourquoi-supposons-nous-que-la-vie-extraterrestre-est-basee-sur-le-carbone
-date: '2026-06-06'
+date: 2026-06-06
 draft: false
+tags:
+  - vie
+  - extraterrestre
+  - chimie
 categories:
-- Pourquoi
-tags: []
+  - Pourquoi
+slug: pourquoi-supposons-nous-que-la-vie-extraterrestre-est-basee-sur-le-carbone
 coverImage: ./images/quora.png
 ---
 
-*Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-supposons-nous-que-la-vie-extraterrestre-est-bas%C3%A9e-sur-le-carbone-Nest-ce-pas-une-vision-tr%C3%A8s-centr%C3%A9e-sur-la-Terre-Il-me-semble-probable-quil-existe-de-nombreux-%C3%A9l%C3%A9ments-que/answer/Dr-Goulu)*
+_Réponse publiée_ [_sur Quora_](https://fr.quora.com/Pourquoi-supposons-nous-que-la-vie-extraterrestre-est-bas%C3%A9e-sur-le-carbone-Nest-ce-pas-une-vision-tr%C3%A8s-centr%C3%A9e-sur-la-Terre-Il-me-semble-probable-quil-existe-de-nombreux-%C3%A9l%C3%A9ments-que/answer/Dr-Goulu)
 
 Non, nous connaissons tous les éléments chimiques, stables et un peu instables.
 
@@ -17,9 +20,7 @@ Et nous sommes capables de faire des expériences, mais aussi de calculer et sti
 
 Nous savons donc qu'il y a très peu d'éléments qui peuvent former de grosses molécules complexes, et nous pouvons déterminer dans quel solvant, à quelles températures et pressions ces molécules peuvent se former et rester stables.
 
-C'est résumé dans
-
-[https://fr.wikipedia.org/wiki/Bi...](w:Biochimies_hypothétiques)
+C'est résumé dans [Biochimies_hypothétiques](w:)
 
 A part le Carbone, il y a essentiellement le Silicium mais il n'existe pas vraiment de solvant dans lequel une vie au silicium pourrait se développer.
 
