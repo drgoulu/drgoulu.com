@@ -52,9 +52,11 @@ Pour créer un site, on tape dans un shell :
 {{< highlight bash >}}
 
 
+
 # Requires Node.js
 npm install -g hugoblox
 hugoblox create site
+
 
 
 {{< /highlight >}}
@@ -73,6 +75,7 @@ Donc j'ai plutôt choisi de n'utiliser GitHub que comme repo du projet source (e
 
 {{< highlight bash >}}
 
+
 #!/bin/sh
 # ----------------------------------------------------------------------
 # ~/git_depot/drgoulu.git/hooks/post-receive
@@ -90,6 +93,7 @@ echo "📦 Déploiement des fichiers sur Infomaniak..."
 git --work-tree=$TARGET --git-dir=$GIT_DIR checkout -f
 
 echo "✅ Site Hugo mis à jour avec succès !"
+
 
 {{< /highlight >}}
 
@@ -111,6 +115,17 @@ Et il fait un rendu un peu intermédiaire, certaines choses étant wysiwyg et d'
 ### Les Shortcodes
 
 La difficulté tient aux "shortcodes" qui permettent d'étendre Markdown pour afficher du code formaté, des videos YouTube etc.
+
+Hugo en [supporte déjà pas mal et par défaut](https://gohugo.io/shortcodes/) permet d'en définir très facilement en [écrivant un simple fichier "template"](https://gohugo.io/templates/shortcode/), mais ensuite il faut passer par la compilation du projet Hugo pour obtenir un rendu correct 
+
+### Sveltia 
+
+C'est en cherchant une solution à ceci que je suis tombé sur sveltia-cms. Comme l'indique son nom, l'ambition de ce projet open source est de réaliser un "content management system" complet, mais l'éditeur de markdown me et semblait proche de ce dont j'avais besoin.
+
+Après quelques échanges avec son auteur principal, j'ai constaté que nous objectifs étaient assez différents, donc je me suis résolu à maintenir mon propre fork de sveltia que j'ai complété notamment avec :
+
+- Une prévisualisation dynamique en local 
+- 
 
 ## LA MIGRATION
 
@@ -145,7 +160,9 @@ en ça :
 {{< highlight python >}}
 
 
+
 def r(a): i=a.find('0') if i<0:print a [m in[(i-j)%9*(i/9^j/9)*(i/27^j/27|i%9/3^j%9/3)or a[j]for j in range(81)]or r(a[:i]+m+a[i+1:])for m in`14**7*9`]r(raw_input())
+
 
 {{< /highlight >}}
 
@@ -170,6 +187,7 @@ Uncaught Error: parseColor received unparseable color: oklch(...)
 Pour isoler Disqus des styles `oklch` globaux, des règles CSS explicites ont été ajoutées dans `assets/css/custom.css` afin de forcer des formats de couleurs traditionnels (Hex / RGB) sur le conteneur `#disqus_thread`, son texte d'arrière-plan et ses liens internes (`#disqus_thread a`), pour les thèmes clair et sombre :
 
 {{< highlight css >}}
+
 
 /* Forcer des couleurs standards (Hex/RGB) pour Disqus */
 #disqus_thread,
@@ -209,6 +227,7 @@ Pour isoler Disqus des styles `oklch` globaux, des règles CSS explicites ont é
 .dark .dsq-brlink a {
   color: #60a5fa !important;
 }
+
 
 {{< /highlight >}}
 
