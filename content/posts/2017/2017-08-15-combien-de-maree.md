@@ -1,16 +1,18 @@
 ---
-title: "Combien de marée"
-slug: "combien-de-maree"
+title: Combien de marée
 date: 2017-08-15
+draft: false
+tags:
+  - astro
+  - energie
+  - oceans
+  - terre
+  - marées
 categories:
-  - "Combien"
-  - "Pourquoi"
-tags: 
-  - "astro"
-  - "energie"
-  - "oceans"
-  - "terre"
-coverImage: "./images/image.png"
+  - Combien
+  - Pourquoi
+slug: combien-de-maree
+coverImage: ./images/image.png
 ---
 
 Cet été, les Goulus ont exploré le pays des grandes marées : la Bretagne et la Normandie. Notre périple a d'ailleurs commencé aux [iles Chausey](w:), un des rares endroits au monde où l'amplitude des marées peut atteindre 14 m, changeant le paysage de manière spectaculaire en quelques heures. Devant un tel spectacle on ne peut que se demander "mais comment donc est-ce possible" ?
