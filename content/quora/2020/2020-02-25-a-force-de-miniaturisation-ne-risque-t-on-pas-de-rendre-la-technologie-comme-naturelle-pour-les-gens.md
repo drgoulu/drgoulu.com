@@ -1,16 +1,16 @@
 ---
 title: A force de miniaturisation ne Risque t on pas de rendre la technologie comme naturelle pour les gens ?
-slug: a-force-de-miniaturisation-ne-risque-t-on-pas-de-rendre-la-technologie-comme-naturelle-pour-les-gens
-date: '2020-02-25'
+date: 2020-02-25
 draft: false
-categories:
-- Quora
 tags:
-- philosophie
-- evolution
-- technologies
-- societe
-- impact-social
+  - philosophie
+  - evolution
+  - technologies
+  - societe
+  - transhumanisme
+categories:
+  - Quora
+slug: a-force-de-miniaturisation-ne-risque-t-on-pas-de-rendre-la-technologie-comme-naturelle-pour-les-gens
 coverImage: ./images/quora.png
 ---
 
