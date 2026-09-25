@@ -130,9 +130,10 @@ function onFileChange(eventType, filename) {
   if (filename.startsWith('.') || filename.endsWith('~') || filename.endsWith('.tmp')) return;
 
   clearTimeout(debounceTimer);
+  const delay = filename.includes('admin-preview.md') ? 150 : 600;
   debounceTimer = setTimeout(() => {
     runHugoBuild(filename);
-  }, 600);
+  }, delay);
 }
 
 // Surveillance récursive du dossier content/

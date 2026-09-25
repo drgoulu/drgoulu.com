@@ -1,18 +1,17 @@
 ---
-title: Savez vous quil existe plus de 4000 espèces de cloportes https fr wikipedia org wiki Cloporte dont 218 rien que
-slug: savez-vous-quil-existe-plus-de-4000-especes-de-cloportes-https-fr-wikipedia-org-wiki-cloporte-dont-218-rien-que
-date: '2026-07-14'
+title: Savez vous qu'il existe plus de 4000 espèces de cloportes ?
+date: 2026-07-14
 draft: false
-categories:
-- Quora
-- Réponses Fréquentes
 tags:
-- france
-- ecologie
-- biologie-animale
-- question-existentielle
-- biodiversite
-coverImage: ./images/quora.png
+  - ecologie
+  - biodiversite
+  - évolution
+  - créationnisme
+categories:
+  - Quora
+  - Réponses Fréquentes
+slug: savez-vous-quil-existe-plus-de-4000-especes-de-cloportes
+coverImage: ./images/Armadillidium_vulgare_001.jpg
 ---
 
 *Réponse publiée [sur Quora](https://reponsesfrequentes.quora.com/Savez-vous-quil-existe-plus-de-4000-espèces-de-cloportes-https-fr-wikipedia-org-wiki-Cloporte-dont-218-rien-que)*

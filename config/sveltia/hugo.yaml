@@ -2,3 +2,8 @@
 params:
   headless_cms:
     dev_server: "http://localhost:5173"
+
+# En mode dev Sveltia CMS, ignorer les articles du dossier posts/ pour que la recompilation
+# de l'aperçu (admin-preview.md) prenne ~2s au lieu de 2 minutes.
+ignoreFiles:
+  - '/posts/.*\.md$'

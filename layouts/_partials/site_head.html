@@ -69,8 +69,8 @@
   {{ end }}
 
   {{/* Tailwind CSS v4 Processing */}}
-  {{/* In development/server mode, call directly to avoid __hdeferred unresolved placeholders during FastRender */}}
-  {{ if hugo.IsServer }}
+  {{/* In development/server mode or sveltia dev, call directly to avoid __hdeferred unresolved placeholders during FastRender/preview */}}
+  {{ if or hugo.IsServer (eq hugo.Environment "sveltia") }}
     {{ partial "css.html" . }}
   {{ else }}
     {{ with (templates.Defer (dict "key" "tailwind-css")) }}

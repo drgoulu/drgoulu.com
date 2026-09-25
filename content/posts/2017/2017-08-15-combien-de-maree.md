@@ -12,12 +12,12 @@ categories:
   - Combien
   - Pourquoi
 slug: combien-de-maree
-coverImage: ./images/image.png
+coverImage: ./images/chausey-maree.jpg
 ---
 
 Cet été, les Goulus ont exploré le pays des grandes marées : la Bretagne et la Normandie. Notre périple a d'ailleurs commencé aux [iles Chausey](w:), un des rares endroits au monde où l'amplitude des marées peut atteindre 14 m, changeant le paysage de manière spectaculaire en quelques heures. Devant un tel spectacle on ne peut que se demander "mais comment donc est-ce possible" ?
 
-![](./images/image.png)
+![](./images/chausey-maree.jpg)
 
 Iles Chausey à pleine mer et à basse mer . Photos d'Éric Guillemot extraites du livre "Marée basse" [[1]](#ref-1)
 
