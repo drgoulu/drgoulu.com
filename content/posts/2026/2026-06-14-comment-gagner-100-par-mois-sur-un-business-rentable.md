@@ -1,20 +1,18 @@
 ---
 title: Comment gagner 100$ Par mois sur un business rentable ?
-slug: comment-gagner-100-par-mois-sur-un-business-rentable
-date: '2026-06-14'
+date: 2026-06-14
 draft: false
-categories:
-- Comment
 tags:
-- conseils
-- argent
-- entrepreneuriat
-- modele-economique
-- gagner-de-l-argent
+  - argent
+  - entrepreneuriat
+  - business
+categories:
+  - Combien
+slug: comment-gagner-100-par-mois-sur-un-business-rentable
 coverImage: ./images/quora.png
 ---
 
-*Réponse publiée [sur Quora](https://fr.quora.com/Comment-gagner-100-Par-mois-sur-un-business-rentable/answer/Dr-Goulu)*
+_Réponse publiée_ [_sur Quora_](https://fr.quora.com/Comment-gagner-100-Par-mois-sur-un-business-rentable/answer/Dr-Goulu)
 
 100$ par mois ? C'est ridiculement bas, un business rentable doit vous rapporter au moins 100 fois plus, sinon c'est de la mendicité, pas un business !
 
@@ -22,7 +20,7 @@ Je n'exagère pas [Mendier c'est 90, 110 ou 150€ par jour](https://www.sudinfo
 
 J'ai déjà raconté l'histoire d'un pote de formation en création d'entreprise qui ne voulait pas dire quel était son projet. Nous on était tous dans la tech, et lui parlait d'import export.
 
-Finalement on l'a tellement tanné en lui demandant si c'était de la drogue qu'il a lâché le morceau : des champignons. Dans son village natal en Serbie, tout le monde ramassait des tonnes de champignons. Il voulait aller en chercher en camionnette et les vendre sur les marchés en Suisse.
+Finalement on l'a tellement tanné en lui demandant si c'était de la drogue qu'il a lâché le morceau : des champignons! Dans son village natal en Serbie, tout le monde ramassait des tonnes de champignons. Il voulait aller en chercher en camionnette et les vendre sur les marchés en Suisse.
 
 On a regardé son business plan, on lui a dit d'aller proposer ses produits à la grande distribution.
 
