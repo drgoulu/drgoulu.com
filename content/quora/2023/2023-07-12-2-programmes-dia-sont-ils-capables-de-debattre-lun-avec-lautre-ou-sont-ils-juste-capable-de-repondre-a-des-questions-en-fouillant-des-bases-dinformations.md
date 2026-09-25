@@ -1,16 +1,16 @@
 ---
 title: 2 programmes d’IA sont ils capables de débattre l’un avec l’autre où sont ils juste capable de répondre à des questions en fouillant des bases d’informations ?
-slug: 2-programmes-dia-sont-ils-capables-de-debattre-lun-avec-lautre-ou-sont-ils-juste-capable-de-repondre-a-des-questions-en-fouillant-des-bases-dinformations
-date: '2023-07-12'
+date: 2023-07-12
 draft: false
-categories:
-- Quora
 tags:
-- sciences
-- informatique
-- recherche
-- internet
-- questions
+  - sciences
+  - informatique
+  - recherche
+  - internet
+  - IA
+categories:
+  - Quora
+slug: 2-programmes-dia-sont-ils-capables-de-debattre-lun-avec-lautre-ou-sont-ils-juste-capable-de-repondre-a-des-questions-en-fouillant-des-bases-dinformations
 coverImage: ./images/quora.png
 ---
 
