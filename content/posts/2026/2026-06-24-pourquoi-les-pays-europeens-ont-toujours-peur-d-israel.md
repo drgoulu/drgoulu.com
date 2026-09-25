@@ -1,15 +1,16 @@
 ---
 title: Pourquoi les pays européens ont toujours peur d'ISRAEL ?
-slug: pourquoi-les-pays-europeens-ont-toujours-peur-d-israel
-date: '2026-06-24'
+date: 2026-06-24
 draft: false
+tags:
+  - israel
 categories:
-- Pourquoi
-tags: []
+  - Pourquoi
+slug: pourquoi-les-pays-europeens-ont-toujours-peur-d-israel
 coverImage: ./images/quora.png
 ---
 
-*Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-les-pays-europ%C3%A9ens-ont-toujours-peur-d-ISRAEL/answer/Dr-Goulu)*
+_Réponse publiée_ [_sur Quora_](https://fr.quora.com/Pourquoi-les-pays-europ%C3%A9ens-ont-toujours-peur-d-ISRAEL/answer/Dr-Goulu)
 
 On a pas peur, on est tristes, déçus, dégoûtés.
 
@@ -23,7 +24,7 @@ Ensuite, le gouvernement israélien ne fait pas le moindre pas en direction de l
 
 Israël devient de plus en plus théocratique , sioniste, se permettant de violer de plus en plus de résolutions de l'ONU et de droits humanitaires.
 
-Israël détient dans des prisons des gens qui auraient pu être des interlocuteurs valables, comme Marwan Barghouti, mais les brise par des mauvais traitements. Et tue les autres.
+Israël détient dans des prisons des gens qui auraient pu être des interlocuteurs valables, comme [Marwan Barghouti](w:), mais les brise par des mauvais traitements. Et tue les autres.
 
 Netanyahu a fait perdre à Israël quasiment tous ses soutiens. S'il perd aussi celui des USA, il se retrouvera menotté au tribunal de la Haye. Mais il aura ce petit sourire narquois du type prêt à se sacrifier pour ses idées, comme l'assassin de Rabin…
 
