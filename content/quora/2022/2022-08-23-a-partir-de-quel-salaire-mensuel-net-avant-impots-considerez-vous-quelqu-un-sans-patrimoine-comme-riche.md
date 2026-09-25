@@ -1,11 +1,11 @@
 ---
 title: À partir de quel salaire mensuel net avant impôts considérez-vous quelqu'un sans patrimoine comme riche ?
-slug: a-partir-de-quel-salaire-mensuel-net-avant-impots-considerez-vous-quelqu-un-sans-patrimoine-comme-riche
-date: '2022-08-23'
+date: 2022-08-23
 draft: false
-categories:
-- Quora
 tags: []
+categories:
+  - Quora
+slug: a-partir-de-quel-salaire-mensuel-net-avant-impots-considerez-vous-quelqu-un-sans-patrimoine-comme-riche
 coverImage: ./images/qimg-72c635b5f32985237a884a48bc445d34.jpg
 ---
 
