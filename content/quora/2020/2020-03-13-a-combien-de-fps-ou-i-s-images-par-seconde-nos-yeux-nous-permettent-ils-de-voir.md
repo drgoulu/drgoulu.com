@@ -1,16 +1,16 @@
 ---
 title: 'À combien de FPS (ou i/s : images par seconde) nos yeux nous permettent-ils de voir ?'
-slug: a-combien-de-fps-ou-i-s-images-par-seconde-nos-yeux-nous-permettent-ils-de-voir
-date: '2020-03-13'
+date: 2020-03-13
 draft: false
-categories:
-- Combien
 tags:
-- physiologie-humaine
-- sens
-- perception-visuelle
-- oeil-humain
-- vision-humain
+  - physiologie
+  - neurologie
+  - humain
+  - oeil
+  - vision
+categories:
+  - Combien
+slug: a-combien-de-fps-ou-i-s-images-par-seconde-nos-yeux-nous-permettent-ils-de-voir
 coverImage: ./images/quora.png
 ---
 
