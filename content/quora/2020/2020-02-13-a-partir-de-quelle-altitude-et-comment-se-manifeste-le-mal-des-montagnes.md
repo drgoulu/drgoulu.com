@@ -1,27 +1,23 @@
 ---
 title: À partir de quelle altitude et comment se manifeste le mal des montagnes ?
-slug: a-partir-de-quelle-altitude-et-comment-se-manifeste-le-mal-des-montagnes
-date: '2020-02-13'
+date: 2020-02-13
 draft: false
-categories:
-- Comment
 tags:
-- sante
-- voyage
-- voyage-international
-- altitude
-- activites-en-plein-air
+  - sante
+  - voyage
+  - altitude
+  - voyage
+categories:
+  - Comment
+slug: a-partir-de-quelle-altitude-et-comment-se-manifeste-le-mal-des-montagnes
 coverImage: ./images/quora.png
 ---
 
-*Réponse publiée [sur Quora](https://fr.quora.com/%C3%80-partir-de-quelle-altitude-et-comment-se-manifeste-le-mal-des-montagnes/answer/Dr-Goulu)*
+_Réponse publiée_ [_sur Quora_](https://fr.quora.com/%C3%80-partir-de-quelle-altitude-et-comment-se-manifeste-le-mal-des-montagnes/answer/Dr-Goulu)
 
 Le [Mal aigu des montagnes](w:)
 
 > a une incidence variable, mais qui augmente très rapidement avec l'altitude ; elle serait de 15 % à 2 000 mètres d'altitude et de 60 % à 4 000 mètres.
->
->
->
 > Ce mal apparaît habituellement dans les 4 à 12 heures qui suivent l'arrivée en altitude : il régresse avec l'acclimatation et disparaît immédiatement à la descente.
 
 A court terme le rythme cardiaque et la respiration s'accélèrent, et on devient somnolent pour économiser l'énergie… Puis en quelques jours le corps produit plus de globules rouges, ce qui épaissit le sang, provoque un mal de tête et peut résulter en oedème pulmonaire ou cérébral.
