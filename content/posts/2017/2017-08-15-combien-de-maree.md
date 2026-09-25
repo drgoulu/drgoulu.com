@@ -26,25 +26,11 @@ Iles Chausey à pleine mer et à basse mer . Photos d'Éric Guillemot extraites 
 Le mécanisme des [marées](w:marée)  est habituellement expliqué comme ceci :
 
 1. L'attraction de la Lune déforme les océans en créant une "bosse d'eau" dans la région qu'elle survole. Comme la Terre tourne sur elle-même en 24h et que la Lune tourne autour de la Terre en 27 jours, la Lune repasse au dessus de la même région\* toutes les 24h et 50 minutes environ.
+2. Mais puisque la Terre est ronde\*\* et que le système Terre+Lune tourne en réalité autour d'un centre de gravité qui n'est pas au centre de la Terre, la force centrifuge crée une deuxième bosse à l'opposé de la première, ce qui fait qu'il y a deux marées par jour, plus précisément toutes les 12h et 25 minutes environ. On appelle cette marée "semi diurne lunaire", notée M2 (M pour Moon)
+3. L'attraction du Soleil crée aussi deux bosses plus petites\*\*\*, là où le Soleil est au zénith (forcément à midi) et au [nadir](w:nadir_\(astronomie\)) (à minuit), donc avec une période de 12h. C'est la "semi-diurne solaire", S2
+4. Comme ces deux périodes sont proches, la somme des marées M2+S2 varie avec les phases de la Lune. En effet, à la Nouvelle Lune, la Lune est approximativement alignée dans la direction du Soleil, à la Pleine Lune elle est alignée à l'opposé du Soleil, et aux quartiers elle est dans une direction perpendiculaire à celle du Soleil, donc M2 et S2 sont en opposition de phase et leur effet se soustrait plutôt que de s'additionner:  
 
-3. Mais puisque la Terre est ronde\*\* et que le système Terre+Lune tourne en réalité autour d'un centre de gravité qui n'est pas au centre de la Terre, la force centrifuge crée une deuxième bosse à l'opposé de la première, ce qui fait qu'il y a deux marées par jour, plus précisément toutes les 12h et 25 minutes environ. On appelle cette marée "semi diurne lunaire", notée M2 (M pour Moon)
-
-5. L'attraction du Soleil crée aussi deux bosses plus petites\*\*\*, là où le Soleil est au zénith (forcément à midi) et au [nadir](w:nadir_(astronomie)) (à minuit), donc avec une période de 12h. C'est la "semi-diurne solaire", S2
-
-7. Comme ces deux périodes sont proches, la somme des marées M2+S2 varie avec les phases de la Lune. En effet, à la Nouvelle Lune, la Lune est approximativement alignée dans la direction du Soleil, à la Pleine Lune elle est alignée à l'opposé du Soleil, et aux quartiers elle est dans une direction perpendiculaire à celle du Soleil, donc M2 et S2 sont en opposition de phase et leur effet se soustrait plutôt que de s'additionner:  
-    
-
-<figure>
-
-[![](./images/e78bc28f1bfacbe5e3dc52b9a14fcaa4.jpg)](http://www.voilesetvoiliers.com/cultures-voiles/syzygie-perihelie-perigee-equinoxe-saros-ecliptique/)
-
-<figcaption>
-
-illustration SHOM
-
-</figcaption>
-
-</figure>
+{{< figure align="alignright" link="http://www.voilesetvoiliers.com/cultures-voiles/syzygie-perihelie-perigee-equinoxe-saros-ecliptique/" src="images/e78bc28f1bfacbe5e3dc52b9a14fcaa4.jpg" >}}
 
 Comme la Lune ne tourne pas autour de la Terre dans le plan de l'[écliptique](w:), que l'axe de la Terre est incliné, et que les orbites de la Terre et de la Lune ne sont pas des cercles mais des ellipses, d'autres phénomènes astronomiques à longue période viennent encore moduler ceci, produisant par exemple les grandes marées d'équinoxe [[2]](#ref-2).
 
@@ -52,15 +38,14 @@ Tout ceci a été expliqué par le grand [Isaac Newton](w:) en 1687 déjà dans 
 
 ## En réalité, c'est plus compliqué ...
 
-!["Débutant" par Goulu sur Flickr](./images/image-4-169x300.png)
+{{< figure align="alignright" caption="\"Débutant\" par Goulu sur Flickr" src="images/image-4.png" >}}
 
 Il y a juste un léger détail  : ça ne colle pas du tout à la réalité ! Il y a notamment deux gros problèmes :
 
 1. Selon Newton, quand la Lune est à son point le plus haut dans le ciel ce devrait être la pleine mer. Mais en réalité, à ce moment là c'est plutôt la marée basse !
+2. Les amplitudes des ondes M2 et S2 calculées par Newton valent respectivement 34 cm et 16 cm [[3]](#ref-3). Son modèle n'explique donc pas les marées supérieures à 50 cm, sans parler de celles de plus de 10 mètres ...
 
-3. Les amplitudes des ondes M2 et S2 calculées par Newton valent respectivement 34 cm et 16 cm [[3]](#ref-3). Son modèle n'explique donc pas les marées supérieures à 50 cm, sans parler de celles de plus de 10 mètres ...
-
-En 1747, [Jean le Rond D'Alembert](w:)**** se pose une question qui survient tout naturellement lorsqu'on se balance dans sa baignoire : quelle est la [fréquence propre](w:) des océans ? Il la calcule comme si la Terre n'avait aucun continent et était recouverte d'un océan d'une profondeur uniforme de 4000m, et trouve une période d'environ 23 heures. Or nous avons vu que S2 force l'océan à osciller avec une période plus courte, de 12h25. Dans un tel cas, comme très bien expliqué dans [[3]](#ref-3) , l'oscillation se produit en sens inverse de l'excitation, ce qui résout le premier problème.
+En 1747, [Jean le Rond D'Alembert](w:)\*\*\*\* se pose une question qui survient tout naturellement lorsqu'on se balance dans sa baignoire : quelle est la [fréquence propre](w:) des océans ? Il la calcule comme si la Terre n'avait aucun continent et était recouverte d'un océan d'une profondeur uniforme de 4000m, et trouve une période d'environ 23 heures. Or nous avons vu que S2 force l'océan à osciller avec une période plus courte, de 12h25. Dans un tel cas, comme très bien expliqué dans [[3]](#ref-3) , l'oscillation se produit en sens inverse de l'excitation, ce qui résout le premier problème.
 
 [Pierre-Simon de Laplace](w:) résolut le second dans son "Traité de Mécanique Céleste" en 1799. Le modèle "statique" de Newton considère que l'eau de l'océan se dilate verticalement, se gonfle quasi instantanément pour former les "bosses". C'est évidemment faux pour l'eau des marées qui se déplace à la surface des océans en créant des courants. Mais la vague de d'Alembert n'est pas possible non plus car elle devrait se déplacer de 40000km en 23h soit à environ 1700 km/h. Laplace considère les marées comme un phénomène "dynamique" : l'attraction de la Lune et du Soleil excitent  la surface de l’océan en créant des vagues qui se propagent, rebondissent contre les côtes, et se combinent pour provoquer à certains endroits d'énormes marées par [résonance](w:).
 
@@ -70,7 +55,6 @@ L'animation ci-dessous montre comment la marée se propage réellement dans les 
 
 ![](./images/m2anim72.gif)
 
-  
 Remarquez qu'il n'y a PAS de "bosses" et de "creux" espacés régulièrement de 90° ! Il faut bien retenir que l'explication de Newton décrit correctement les forces qui excitent l'océan, mais pas du tout sa réponse dynamique qui donne l'amplitude des marées.
 
 La figure ci-dessous est une autre représentation de ceci :
@@ -114,12 +98,9 @@ Car le potentiel n'est pas aussi élevé que l'on peut croire:
 
 Newton avait un peu trop simplifié les marées océaniques, mais pour le reste il avait raison : la Lune et le Soleil déforment non seulement les océans, mais toute la Terre ! Vous montez et descendez d'environ 30 cm deux fois par jour, et cette fois en phase avec la Lune sous l'effet de cette marée "solide" qui a des effets plus ou moins sensibles:
 
-- L'énergie dissipée [réchauffe la planète](w:Réchauffement_par_effet_de_marée) ! Je ne parle pas de l'atmosphère, mais de l'entier du volume solide ou pâteux de notre globe. Je n'ai pas trouvé la puissance de ce chauffage, mais ça doit être beaucoup plus que celle de la marée liquide. Et nous ne sommes pas une exception : [Io, une lune de Jupiter](w:IO_(lune)), est l'astre le plus volcaniquement actif de notre Système Solaire et il est chauffé par environ 130 TW d'effet de marée.
-
+- L'énergie dissipée [réchauffe la planète](w:Réchauffement_par_effet_de_marée) ! Je ne parle pas de l'atmosphère, mais de l'entier du volume solide ou pâteux de notre globe. Je n'ai pas trouvé la puissance de ce chauffage, mais ça doit être beaucoup plus que celle de la marée liquide. Et nous ne sommes pas une exception : [Io, une lune de Jupiter](w:IO_\(lune\)), est l'astre le plus volcaniquement actif de notre Système Solaire et il est chauffé par environ 130 TW d'effet de marée.
 - La marée ralentit la rotation des lunes et planètes. Ainsi le jour terrestre se rallonge d'environ 2.3 microsecondes par siècle. Le même effet eu le temps d'arrêter totalement la Lune par rapport à nous: elle est désormais en [rotation synchrone](w:) avec la Terre. C'est le cas d'autres petites lunes du Système Solaire, mais pas de Mercure comme je le croyais. Mercure est en [résonance spin-orbite](w:), mais je n'ai pas compris si c'est un effet de la marée du Soleil.
-
 - Mais si la rotation de la Terre ralentit, comment le [moment cinétique](w:) peut-il se conserver ? Et bien la Lune accélère en proportion !  Et en accélérant, elle "monte" dans le [puits gravitationnel](/2012/09/05/un-petit-pas-pour-lhomme/) de la Terre, et donc s'éloigne de nous de 3.8 cm par an.
-
 - La marée solide perturbe même les mesures du CERN, qui ont du en tenir compte!
 
 C'est quand même surprenant que les énormes marées des îles Chausey et le fait que la Lune nous montre toujours la même face ont la même cause, non ? La science est comme ça : elle unifie, elle décrit de manière cohérente des faits apparemment distincts. J'y vois une différence fondamentale avec les pseudo sciences dont on parle beaucoup (trop) ces temps-ci : il me semble qu'elles ont plutôt tendance à formuler au moins une hypothèse (chacune...) pour chaque fait \*\*. Mais ceci est une autre histoire...
@@ -129,17 +110,17 @@ Bonne rentrée à tous, et surtout : restez curieux !
 ### Notes:
 
 \* Plus précisément au dessus du même méridien, mais en deux passages successifs l'élévation ne change pas beaucoup...  
-  
+
 \*\* Viens de découvrir que les platistes doivent inventer des phénomènes électromagnétiques pour expliquer les marées... (arf arf arf ! ... et désespoir...)  
-  
+
 \*\*\* Pas vraiment compris pourquoi la marée solaire est plus faible que la lunaire... d'après [mes calculs](/2004/06/30/astrologie/) l'attraction solaire est plus forte...  
-  
+
 \*\*\*\* Voilà ce qui arrive quand votre mère vous abandonne devant l'[église Saint-Jean-le-Rond de Paris](w:) ...
 
 ### Références :
 
-1. <span id="ref-1"></span>Eric Fottorino and Eric Guillemot (2006) : *Marée basse*. 2006, ISBN: 2742416552.
-2. <span id="ref-2"></span>Dominique Bourgeois (2015) : [*Syzygie, périhélie, périgée, équinoxe, saros, écliptique…*](http://www.voilesetvoiliers.com/cultures-voiles/syzygie-perihelie-perigee-equinoxe-saros-ecliptique/). Voiles & Voiliers (Ed.): 2015.
-3. <span id="ref-3"></span>Frédéric Chambat (2015) : [*Déformation des océans sous l'effet de la force de marée*](http://culturesciencesphysique.ens-lyon.fr/ressource/maree-chambat.xml). CultureSciences Physique (Ed.): 2015.
-4. <span id="ref-4"></span>S. Speich, B. Blanke, V. Thierry, G. Roullet, E. Da Costa, T. Huck, L. Hua, Ph. Le Bot (2015) : [*L'océan en mouvement - cours d'océanographie*](http://stockage.univ-brest.fr/~speich/Enseignement/Master1/Poly_Maree_web.pdf). Laboratoire de Physique des Océans (DRO/LPO) Unité mixte de recherche CNRS-IFREMER-UBO n° 6523 (Ed.): 2015.
-5. <span id="ref-5"></span>P. Rocher and B. Mosser : [*Promenade dans le système solaire - les marées*](https://promenade.imcce.fr/fr/pages4/438.html). IMCCE - Observatoire de Paris (Ed.).
+1. <span id="ref-1"></span>Eric Fottorino and Eric Guillemot (2006) : _Marée basse_. 2006, ISBN: 2742416552.
+2. <span id="ref-2"></span>Dominique Bourgeois (2015) : [_Syzygie, périhélie, périgée, équinoxe, saros, écliptique…_](http://www.voilesetvoiliers.com/cultures-voiles/syzygie-perihelie-perigee-equinoxe-saros-ecliptique/). Voiles & Voiliers (Ed.): 2015.
+3. <span id="ref-3"></span>Frédéric Chambat (2015) : [_Déformation des océans sous l'effet de la force de marée_](http://culturesciencesphysique.ens-lyon.fr/ressource/maree-chambat.xml). CultureSciences Physique (Ed.): 2015.
+4. <span id="ref-4"></span>S. Speich, B. Blanke, V. Thierry, G. Roullet, E. Da Costa, T. Huck, L. Hua, Ph. Le Bot (2015) : [_L'océan en mouvement - cours d'océanographie_](http://stockage.univ-brest.fr/~speich/Enseignement/Master1/Poly_Maree_web.pdf). Laboratoire de Physique des Océans (DRO/LPO) Unité mixte de recherche CNRS-IFREMER-UBO n° 6523 (Ed.): 2015.
+5. <span id="ref-5"></span>P. Rocher and B. Mosser : [_Promenade dans le système solaire - les marées_](https://promenade.imcce.fr/fr/pages4/438.html). IMCCE - Observatoire de Paris (Ed.).
