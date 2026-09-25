@@ -1,11 +1,14 @@
 ---
 title: Pourquoi l'adultère n'est-il pas considéré comme une infraction pénale dans les pays européens ? Si tu dis que cela relève de la vie privée, accepterais-tu que ta femme me donne l'argent qu'elle avait économisé pour les soins médicaux d vos enfants ?
-slug: pourquoi-l-adultere-n-est-il-pas-considere-comme-une-infraction-penale-dans-les-pays-europeens
-date: '2026-06-15'
+date: 2026-06-15
 draft: false
+tags:
+  - droit
+  - adultère
+  - société
 categories:
-- Pourquoi
-tags: []
+  - Pourquoi
+slug: pourquoi-l-adultere-n-est-il-pas-considere-comme-une-infraction-penale-dans-les-pays-europeens
 coverImage: ./images/quora.png
 ---
 
