@@ -69,4 +69,4 @@ C'est évidemment extraordinairement simplifié mais rend l'idée fondamentale d
 
 A ce niveau, le fameux résultat gravé sur la tombe d'Urs Würgler dit comment fabriquer les n-ièmes lunettes à partir des lunettes précédentes.
 
-La discussion s'est poursuivie sur le thème de la vulgarisation : Pour un vulgarisateur vaut-il mieux bien connaître le sujet ou bien connaître le public cible ? L'IA nous donne la seule réponse désormais possible : les deux ?
+La discussion s'est poursuivie sur le thème de la vulgarisation : Pour un vulgarisateur vaut-il mieux bien connaître le sujet ou bien connaître le public cible ? L'IA nous donne la seule réponse désormais possible : les deux !
