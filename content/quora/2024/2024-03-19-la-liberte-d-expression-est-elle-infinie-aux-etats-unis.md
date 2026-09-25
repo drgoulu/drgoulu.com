@@ -1,16 +1,15 @@
 ---
 title: La liberté d'expression est-elle infinie aux États-Unis ?
-slug: la-liberte-d-expression-est-elle-infinie-aux-etats-unis
-date: '2024-03-19'
+date: 2024-03-19
 draft: false
-categories:
-- Quora
 tags:
-- droit
-- etats-unis
-- homme
-- liberte-d-expression
-- usa
+  - droit
+  - usa
+  - liberte
+  - expression
+categories:
+  - Quora
+slug: la-liberte-d-expression-est-elle-infinie-aux-etats-unis
 coverImage: ./images/quora.png
 ---
 
