@@ -1,16 +1,16 @@
 ---
-title: '7 milliards d''humains sur notre planète ;192 milliards de milliards d''euros de dette totale mondiale :: le capitalisme n''est il pas sur le point de faire exploser la planète ?'
-slug: 7-milliards-d-humains-sur-notre-planete-192-milliards-de-milliards-d-euros-de-dette-totale-mondiale-le-capitalisme-n-est-il-pas-sur-le-point-de-faire-exploser-la-planete
-date: '2020-04-02'
+title: "7 milliards d'humains sur notre planète ;192 milliards de milliards d'euros de dette totale mondiale :: le capitalisme n'est il pas sur le point de faire exploser la planète ?"
+date: 2020-04-02
 draft: false
-categories:
-- Quora
 tags:
-- terre
-- planetes
-- catastrophes-environnementales
-- economie-mondiale
-- finance
+  - terre
+  - planetes
+  - catastrophes-environnementales
+  - economie-mondiale
+  - finance
+categories:
+  - Quora
+slug: 7-milliards-d-humains-sur-notre-planete-192-milliards-de-milliards-d-euros-de-dette-totale-mondiale-le-capitalisme-n-est-il-pas-sur-le-point-de-faire-exploser-la-planete
 coverImage: ./images/quora.png
 ---
 
