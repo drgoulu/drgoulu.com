@@ -1,11 +1,11 @@
 ---
 title: A partir de quelle profondeur dans l'eau aucune lumière (zéro photon) ne passent ?
-slug: a-partir-de-quelle-profondeur-dans-l-eau-aucune-lumiere-zero-photon-ne-passent
-date: '2022-08-27'
+date: 2022-08-27
 draft: false
-categories:
-- Quora
 tags: []
+categories:
+  - Quora
+slug: a-partir-de-quelle-profondeur-dans-l-eau-aucune-lumiere-zero-photon-ne-passent
 coverImage: ./images/quora.png
 ---
 
