@@ -1,16 +1,15 @@
 ---
 title: Pourquoi n'impose-t-on pas des sanctions commerciales et financières à l'Indonésie pour l'empêcher de déboiser 3 millions d'hectares en Nouvelle-Guinée ?
-slug: pourquoi-n-impose-t-on-pas-des-sanctions-commerciales-et-financieres-a-l-indonesie-pour-l-empecher-de-deboiser-3-millions-d-hectares-en-nouvelle-guinee
-date: '2026-06-21'
+date: 2026-06-21
 draft: false
-categories:
-- Pourquoi
 tags:
-- ecologisme
-- politique-economique
-- ecologie
-- politique
-- politiques-environnementales
+  - ecologisme
+  - politique
+  - déforestation
+  - Indonésie
+categories:
+  - Pourquoi
+slug: pourquoi-n-impose-t-on-pas-des-sanctions-commerciales-et-financieres-a-l-indonesie-pour-l-empecher-de-deboiser-3-millions-d-hectares-en-nouvelle-guinee
 coverImage: ./images/quora.png
 ---
 
