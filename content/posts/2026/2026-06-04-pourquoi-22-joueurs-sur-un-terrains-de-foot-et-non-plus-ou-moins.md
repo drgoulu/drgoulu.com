@@ -1,16 +1,13 @@
 ---
 title: Pourquoi 22 joueurs sur un terrains de foot et non plus ou moins ?
-slug: pourquoi-22-joueurs-sur-un-terrains-de-foot-et-non-plus-ou-moins
-date: '2026-06-04'
+date: 2026-06-04
 draft: false
-categories:
-- Pourquoi
 tags:
-- sport
-- football
-- joueurs
-- football-sport
-- sport-football
+  - sport
+  - football
+categories:
+  - Pourquoi
+slug: pourquoi-22-joueurs-sur-un-terrains-de-foot-et-non-plus-ou-moins
 coverImage: ./images/quora.png
 ---
 
