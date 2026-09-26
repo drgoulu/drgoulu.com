@@ -1,11 +1,14 @@
 ---
 title: Est-il possible qu'une étude scientifique examinée par les pairs soit complètement inventée ?
-slug: est-il-possible-qu-une-etude-scientifique-examinee-par-les-pairs-soit-completement-inventee
-date: '2022-08-30'
+date: 2022-08-30
 draft: false
+tags:
+  - fraude
+  - publication
+  - scientifique
 categories:
-- Quora
-tags: []
+  - Quora
+slug: est-il-possible-qu-une-etude-scientifique-examinee-par-les-pairs-soit-completement-inventee
 coverImage: ./images/quora.png
 ---
 
