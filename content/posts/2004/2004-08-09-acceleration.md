@@ -1,17 +1,16 @@
 ---
-title: "Accélération : Journal de bord d’un voyage relativiste"
-slug: "acceleration"
+title: 'Accélération : Journal de bord d’un voyage relativiste'
 date: 2004-08-09
+draft: false
+tags:
+  - fiction
+  - relativite
+  - science
 categories:
-  - "Comment"
-tags: 
-  - "fiction"
-  - "relativite"
-  - "science"
-coverImage: "./images/d2b44e244e51e5c087d124bfeb9e4ce3.jpg"
+  - Comment
+slug: acceleration
+coverImage: ./images/d2b44e244e51e5c087d124bfeb9e4ce3.jpg
 ---
-
-{{< figure src="./images/d2b44e244e51e5c087d124bfeb9e4ce3.jpg" alt="intersellar" link="./images/intersellar.jpg" >}}
 
 Ce petit texte est basé sur un calcul (faux\*) fait [sur un tableur](https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fspreadsheets.google.com%2Fccc%3Fkey%3Drc4P1ifhL9e6cFJec1T6m5g%26hl%3Den%26pref%3D2&followup=https%3A%2F%2Fspreadsheets.google.com%2Fccc%3Fkey%3Drc4P1ifhL9e6cFJec1T6m5g%26hl%3Den%26pref%3D2&hl=en) : un vaisseau spatial accélère à 1G (9.81 m/s^2) de manière à créer une gravité artificielle. La vitesse augmente ainsi de manière constante jusqu’à approcher de très près la vitesse de la lumière. Arrivé à mi-parcours, le vaisseau se retourne et freine à 1G jusqu’à destination.
 
@@ -51,7 +50,7 @@ Il est donc temps de passer à la phase de freinage. Nous coupons le moteur, jou
 
 Je ne peux m'empêcher de penser que nous aurions pu parcourir des dizaines d'années lumières de plus en accélérant encore pendant quelques jours "prime". En fait nous aurions pu traverser toute la Voie Lactée, parcourir peut être 20'000 années-lumière en un mois de notre vie. Peut-être coloniserons-nous l'Univers ainsi ? Peut-être sommes-nous même condamnés à le faire en vertu du Principe de Saturation Cubique...
 
-* * *
+* \* \*
 
 note\*(edit du 9.2.18) malheureusement ce calcul est faux. Les bonnes formules se trouvent [sur la wikipedia](w:en:Space_travel_using_constant_acceleration) et dans le commentaire de Jean Bossaert ci-dessous. je vais soit modifier ce texte (mais il ne sera plus aussi spectaculaire...) soit en écrire une version "intergalactique" ...
 
