@@ -111,12 +111,8 @@ Intégration responsive respectant la vie privée (via `youtube-nocookie.com`) :
 
 ---
 
-### 8. Rétroliens dans « Sur le même sujet » (Module backlinks4hugo)
-La section **« Sur le même sujet »** au bas de chaque article met en avant en priorité les articles qui citent l'article courant via un lien interne, complétés au besoin par la similarité standard (tags et catégories) grâce au module Hugo Blox [`backlinks4hugo`](https://github.com/drgoulu/backlinks4hugo) :
-
-* **Indexeur en Go ultra-rapide :** L'outil CLI Go (`go run github.com/drgoulu/backlinks4hugo`) extrait tous les liens internes et génère l'index inversé `data/backlinks.json` en moins de 500 ms.
-* **Module Hugo Blox natif :** Fournit le template `layouts/_partials/page_related.html` qui lit l'index en $O(1)$ sans impacter le temps de compilation.
-* **Intégration transparente :** L'index est synchronisé automatiquement avant chaque build (`pnpm run build`, `publish.sh`, Netlify) et au lancement de `pnpm run dev`.
+### 8. Rétroliens (Backlinks)
+La section « Sur le même sujet » met en avant en priorité les articles qui citent la page consultée grâce au module [`backlinks4hugo`](https://github.com/drgoulu/backlinks4hugo).
 
 ---
 
