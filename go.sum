@@ -1,11 +1,9 @@
 github.com/HugoBlox/kit/modules/blox v0.0.0-20260527025321-61f41d3667f1 h1:JBLSLEfVXqErxi9+DO70n4VX++C+rO103d45CDajzmE=
 github.com/HugoBlox/kit/modules/blox v0.0.0-20260527025321-61f41d3667f1/go.mod h1:0F2Ss2NeylmaBP7+qx0U6zFPeMZ9NoLbAQakKXDqygo=
-github.com/HugoBlox/kit/modules/blox v0.12.0 h1:IFw9heH1MBgs2kCdproVZeUu2z2x+cjy9vCAegyldjc=
-github.com/HugoBlox/kit/modules/blox v0.12.0/go.mod h1:0F2Ss2NeylmaBP7+qx0U6zFPeMZ9NoLbAQakKXDqygo=
-github.com/HugoBlox/kit/modules/integrations/netlify v0.0.0-20260327032542-ef8ed449c7e8 h1:lPk5L2PGVluHJKHWytWBEaZI4d1x8z9QMYwcYtMhF3w=
-github.com/HugoBlox/kit/modules/integrations/netlify v0.0.0-20260327032542-ef8ed449c7e8/go.mod h1:UuppRGml2K1EmlDkN+HemycohgZLjOy0QPGYOnoPnY4=
 github.com/HugoBlox/kit/modules/integrations/netlify v1.3.0 h1:OP7H3ZaN9cXQrGEzOXt2uD1IRD1MNFGbI5qIM75gth8=
 github.com/HugoBlox/kit/modules/integrations/netlify v1.3.0/go.mod h1:UuppRGml2K1EmlDkN+HemycohgZLjOy0QPGYOnoPnY4=
+github.com/drgoulu/backlinks4hugo v0.0.0-20260926112207-f6ed3cdbdc3b h1:8MGvfMFZZMGMQ7UDE8wZYBZ8gR/TCxk4gHuOhPO67tI=
+github.com/drgoulu/backlinks4hugo v0.0.0-20260926112207-f6ed3cdbdc3b/go.mod h1:ZTmoeSc9o7+7GqAh1gxqija7rq5cCt3VpX9NGtMxQbA=
 github.com/drgoulu/headless-cms v0.0.0-20260922195411-0d741f896343 h1:akdSbldeR2FAMVps04QpZEd86CxP4/1k89vQx3apuJQ=
 github.com/drgoulu/headless-cms v0.0.0-20260922195411-0d741f896343/go.mod h1:aG1LMciGe9o0CCn6AG6aP5DN3Rz452wOoyW+wYZeeis=
 github.com/goulu/altmetric4hugo v0.0.0-20260830112131-f7ced6beec3d h1:z2dN11ZWFEYXqVgX2cyO8QLGCB5HTYxCLJHoJTx4fgM=

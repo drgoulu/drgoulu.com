@@ -1,15 +1,16 @@
 ---
 title: "&quot;jeu de l'année&quot; 2012 et autres : c'est fini."
-slug: "jeu-de-lannee-2012-et-autres-cest-fini"
 date: 2012-01-18
+draft: false
+tags:
+  - casse-tetes
+  - maths
+  - programmation
+  - python
 categories:
-  - "Comment"
-tags: 
-  - "casse-tetes"
-  - "maths"
-  - "programmation"
-  - "python"
-coverImage: "./images/09a817e0eb516e6d72357bbf47b564a3.jpg"
+  - Comment
+slug: jeu-de-lannee-2012-et-autres-cest-fini
+coverImage: ./images/09a817e0eb516e6d72357bbf47b564a3.jpg
 ---
 
 _(mis à jour plusieurs foirs après correction de bugs et améliorations, cf commentaires...)_ 

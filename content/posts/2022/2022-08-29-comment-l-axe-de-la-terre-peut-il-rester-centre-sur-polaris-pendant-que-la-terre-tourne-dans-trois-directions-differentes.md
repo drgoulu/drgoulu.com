@@ -1,11 +1,12 @@
 ---
 title: Comment l'axe de la Terre peut-il rester centré sur Polaris pendant que la Terre tourne dans trois directions différentes ?
-slug: comment-l-axe-de-la-terre-peut-il-rester-centre-sur-polaris-pendant-que-la-terre-tourne-dans-trois-directions-differentes
-date: '2022-08-29'
+date: 2022-08-29
 draft: false
+tags:
+  - astronomie
 categories:
-- Comment
-tags: []
+  - Comment
+slug: comment-l-axe-de-la-terre-peut-il-rester-centre-sur-polaris-pendant-que-la-terre-tourne-dans-trois-directions-differentes
 coverImage: ./images/qimg-42ced662c4f3f7cb5284786fdd630aaa.gif
 ---
 
