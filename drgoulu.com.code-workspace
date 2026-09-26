@@ -19,10 +19,10 @@
       "path": "../.github",
     },
     {
-      "path": "../../quora/export",
+      "path": "../../quora/quora2hugo",
     },
     {
-      "path": "../../quora/quora2hugo",
+      "path": "../backlinks4hugo",
     },
   ],
   "settings": {

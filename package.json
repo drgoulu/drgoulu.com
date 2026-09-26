@@ -5,11 +5,11 @@
   "packageManager": "pnpm@10.14.0",
   "description": "Blog starter template for Hugo Blox with Tailwind CSS v4",
   "scripts": {
-    "dev": "python3 ./scripts/update_backlinks.py && hugo server --disableFastRender",
+    "dev": "pnpm run backlinks && hugo server --disableFastRender",
     "dev:sveltia": "./scripts/dev-sveltia.sh",
     "dev:sveltia:pagefind": "./scripts/dev-sveltia.sh --pagefind",
-    "backlinks": "python3 ./scripts/update_backlinks.py",
-    "build": "python3 ./scripts/update_backlinks.py && hugo --cleanDestinationDir --gc --minify && pnpm run pagefind",
+    "backlinks": "go run github.com/drgoulu/backlinks4hugo",
+    "build": "pnpm run backlinks && hugo --cleanDestinationDir --gc --minify && pnpm run pagefind",
     "pagefind": "pagefind --site public"
   },
   "dependencies": {
