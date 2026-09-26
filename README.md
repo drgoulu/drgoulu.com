@@ -111,6 +111,15 @@ Intégration responsive respectant la vie privée (via `youtube-nocookie.com`) :
 
 ---
 
+### 8. Rétroliens dans « Sur le même sujet » (Backlinks)
+La section **« Sur le même sujet »** au bas de chaque article met en avant en priorité les articles qui citent l'article courant via un lien interne, complétés au besoin par la similarité standard (tags et catégories) :
+
+* **Index statique ultra-rapide :** Le script [`scripts/update_backlinks.py`](scripts/update_backlinks.py) extrait tous les liens internes et génère l'index inversé `data/backlinks.json` en ~0,5 s.
+* **Zéro ralentissement Hugo :** Le template [`layouts/_partials/page_related.html`](layouts/_partials/page_related.html) consulte directement cet index en temps constant $O(1)$ sans impacter le temps de compilation.
+* **Intégration transparente :** L'index est synchronisé automatiquement avant chaque build (`pnpm run build`, `publish.sh`, Netlify) et au lancement de `pnpm run dev`.
+
+---
+
 ## 💻 Développement local
 
 ### Prérequis
@@ -122,7 +131,10 @@ Intégration responsive respectant la vie privée (via `youtube-nocookie.com`) :
 # Installer les dépendances
 pnpm install
 
-# Lancer le serveur de développement local
+# Mettre à jour l'index des rétroliens
+pnpm run backlinks
+
+# Lancer le serveur de développement local (met à jour les rétroliens puis lance Hugo)
 pnpm run dev
 # ou
 hugo server --disableFastRender

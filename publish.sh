@@ -93,6 +93,8 @@ fi
 
 # 2. Compilation préalable si demandée
 if [ "$DO_BUILD" = true ]; then
+  echo "🔨 Mise à jour de l'index des rétroliens..."
+  python3 "$SCRIPT_DIR/scripts/update_backlinks.py"
   echo "🔨 Compilation du site avec Hugo..."
   HUGO_ENVIRONMENT=production hugo --gc --minify -b "https://drgoulu.com/"
   if command -v pnpm &>/dev/null && [ -f "package.json" ]; then
