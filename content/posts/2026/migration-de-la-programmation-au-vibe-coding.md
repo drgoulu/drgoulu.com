@@ -9,7 +9,7 @@ tags:
   - vibe coding
 categories:
   - Comment
-slug: ''
+slug: 'migration-de-la-programmation-au-vibe-coding'
 coverImage: ''
 ---
 

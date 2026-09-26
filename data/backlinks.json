@@ -3577,12 +3577,12 @@
       "date": "2019-04-18"
     },
     {
-      "url": "/2019/04/18/je-ne-comprends-pas-comment-un-accelerateur-de-particules-peut-cibler-si-precisement-les-atomes-de-maniere-a-ce-qu-ils-se-rencontrent-quelle-est-la-largeur-du-faisceau-combien-d-atomes-remplissent-la/",
+      "url": "/2019/04/18/je-ne-comprends-pas-comment-un-accelerateur-de-particules-peut-cibler-si-precisement-les-atomes-de-maniere-a-ce-qu-ils-se-rencontrent/",
       "title": "Je ne comprends pas comment un accélérateur de particules peut cibler si précisément les atomes de manière à ce qu",
       "date": "2019-04-18"
     },
     {
-      "url": "/2019/04/18/je-ne-comprends-pas-comment-un-accelerateur-de-particules-peut-cibler-si-precisement-les-atomes-de-maniere-a-ce-qu-ils-se-rencontrent/",
+      "url": "/2019/04/18/je-ne-comprends-pas-comment-un-accelerateur-de-particules-peut-cibler-si-precisement-les-atomes-de-maniere-a-ce-qu-ils-se-rencontrent-quelle-est-la-largeur-du-faisceau-combien-d-atomes-remplissent-la/",
       "title": "Je ne comprends pas comment un accélérateur de particules peut cibler si précisément les atomes de manière à ce qu",
       "date": "2019-04-18"
     },
@@ -4628,12 +4628,12 @@
       "date": "2019-03-19"
     },
     {
-      "url": "/2019/03/19/les-trous-noirs-tournent-rapidement-sur-eux-memes-mais-dans-quel-sens-pourraient-ils-etre-une-sorte-de-pivot-des-galaxies-spiralees-quelle-est-la-difference-entre-la-force-centrifuge-ou-centripete-et-la-gravitation/",
+      "url": "/2019/03/19/les-trous-noirs-tournent-rapidement-sur-eux-memes-mais-dans-quel-sens/",
       "title": "Les trous noirs tournent rapidement sur eux-mêmes (mais dans quel sens ?), pourraient-ils être une sorte de pivot des galaxies spiralées ? Quelle est la différence entre la force centrifuge (ou centripète) et la gravitation ?",
       "date": "2019-03-19"
     },
     {
-      "url": "/2019/03/19/les-trous-noirs-tournent-rapidement-sur-eux-memes-mais-dans-quel-sens/",
+      "url": "/2019/03/19/les-trous-noirs-tournent-rapidement-sur-eux-memes-mais-dans-quel-sens-pourraient-ils-etre-une-sorte-de-pivot-des-galaxies-spiralees-quelle-est-la-difference-entre-la-force-centrifuge-ou-centripete-et-la-gravitation/",
       "title": "Les trous noirs tournent rapidement sur eux-mêmes (mais dans quel sens ?), pourraient-ils être une sorte de pivot des galaxies spiralées ? Quelle est la différence entre la force centrifuge (ou centripète) et la gravitation ?",
       "date": "2019-03-19"
     },
@@ -5579,7 +5579,7 @@
       "date": "2021-12-15"
     },
     {
-      "url": "/2026/09/20//",
+      "url": "/2026/09/20/la-k-theorie-de-morava-pour-les-enfants/",
       "title": "La K-théorie de Morava pour les enfants",
       "date": "2026-09-20"
     }
@@ -6842,17 +6842,17 @@
       "date": "2019-05-07"
     },
     {
-      "url": "/2019/05/13/comment-les-grandes-puissances-mondiales-reagiraient-si-un-asteroide-de-100-km-de-diametre-devait-percuter-la-terre-dans-un-an-sans-possibilite-d-etre-stoppe-la-population-de-la-planete-en-serait/",
-      "title": "Comment les grandes puissances mondiales réagiraient si un astéroïde de 100 km de diamètre devait percuter la terre, dans un an, sans possibilité d",
-      "date": "2019-05-13"
-    },
-    {
       "url": "/2019/05/13/comment-les-grandes-puissances-mondiales-reagiraient-si-un-asteroide-de-100-km-de-diametre-devait-percuter-la-terre/",
       "title": "Comment les grandes puissances mondiales réagiraient si un astéroïde de 100 km de diamètre devait percuter la terre, dans un an, sans possibilité d",
       "date": "2019-05-13"
     },
     {
       "url": "/2019/05/13/comment-les-grandes-puissances-mondiales-reagiraient-si-un-asteroide-de-100-km-de-diametre-devait-percuter-la-terre-dans-un-an-sans-possibilite-d-etre-stoppe-la-population-de-la-planete-en-serait-elle-informee/",
+      "title": "Comment les grandes puissances mondiales réagiraient si un astéroïde de 100 km de diamètre devait percuter la terre, dans un an, sans possibilité d",
+      "date": "2019-05-13"
+    },
+    {
+      "url": "/2019/05/13/comment-les-grandes-puissances-mondiales-reagiraient-si-un-asteroide-de-100-km-de-diametre-devait-percuter-la-terre-dans-un-an-sans-possibilite-d-etre-stoppe-la-population-de-la-planete-en-serait/",
       "title": "Comment les grandes puissances mondiales réagiraient si un astéroïde de 100 km de diamètre devait percuter la terre, dans un an, sans possibilité d",
       "date": "2019-05-13"
     },
@@ -7575,6 +7575,11 @@
       "url": "/2021/10/22/quelle-est-la-destination-de-ce-qu-on-supprime-sur-nos-portable/",
       "title": "Quelle est la destination de ce qu",
       "date": "2021-10-22"
+    },
+    {
+      "url": "/2026/08/24/migration/",
+      "title": "Migration : de Wordpress à Hugo",
+      "date": "2026-08-24"
     }
   ],
   "/2012/11/05/glace-9/": [
@@ -9239,13 +9244,13 @@
       "date": "2020-02-25"
     },
     {
-      "url": "/2020/03/30/comment-les-virus-sont-capables-de-survivre-ds-temperatures-basses-en-dehors-dun-hote-et-aussi-dans-linterieur-dun-corps-humain-tres-chaud/",
-      "title": "Comment les virus sont capables de survivre ds températures basses en dehors d’un hôte et aussi dans l’intérieur d’un corps humain très chaud ?",
+      "url": "/2020/03/30/quelles-seront-les-mesures-de-l-humanite-pour-qu-une-telle-pandemie-de-coronavirus-ne-se-reproduise-plus/",
+      "title": "Quelles seront les mesures de l",
       "date": "2020-03-30"
     },
     {
-      "url": "/2020/03/30/quelles-seront-les-mesures-de-l-humanite-pour-qu-une-telle-pandemie-de-coronavirus-ne-se-reproduise-plus/",
-      "title": "Quelles seront les mesures de l",
+      "url": "/2020/03/30/comment-les-virus-sont-capables-de-survivre-ds-temperatures-basses-en-dehors-dun-hote-et-aussi-dans-linterieur-dun-corps-humain-tres-chaud/",
+      "title": "Comment les virus sont capables de survivre ds températures basses en dehors d’un hôte et aussi dans l’intérieur d’un corps humain très chaud ?",
       "date": "2020-03-30"
     },
     {
@@ -9761,7 +9766,7 @@
       "date": "2023-03-07"
     },
     {
-      "url": "/2026/09/20//",
+      "url": "/2026/09/20/la-k-theorie-de-morava-pour-les-enfants/",
       "title": "La K-théorie de Morava pour les enfants",
       "date": "2026-09-20"
     }
@@ -10361,9 +10366,16 @@
   ],
   "/2026/08/24/migration/": [
     {
-      "url": "/2026/09/17//",
+      "url": "/2026/09/17/migration-de-quora-a-hugo/",
       "title": "Migration : de Quora à Hugo",
       "date": "2026-09-17"
+    }
+  ],
+  "/2026/09/20/la-k-theorie-de-morava-pour-les-enfants/": [
+    {
+      "url": "/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/",
+      "title": "L",
+      "date": "2016-12-02"
     }
   ]
 }

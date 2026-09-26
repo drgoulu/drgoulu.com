@@ -9,7 +9,7 @@ tags:
   - Migration
 categories:
   - Comment
-slug: ''
+slug: 'migration-de-quora-a-hugo'
 coverImage: ./images/fea4d197-1588-4364-a829-955e901a8c18.jpeg
 ---
 

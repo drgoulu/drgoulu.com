@@ -9,7 +9,7 @@ tags:
   - pseudo
 categories:
   - Pourquoi
-slug: ''
+slug: 'le-gang-des-cerises-trottinettes'
 coverImage: ./images/raoult.webp
 ---
 

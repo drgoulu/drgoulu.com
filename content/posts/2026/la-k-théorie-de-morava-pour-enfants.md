@@ -11,7 +11,7 @@ tags:
 categories:
   - Pourquoi
   - Comment
-slug: ''
+slug: 'la-k-theorie-de-morava-pour-les-enfants'
 coverImage: ./images/Gemini_Generated_Image_20upn420upn420up.jpeg
 ---
 
