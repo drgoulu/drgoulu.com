@@ -53,9 +53,13 @@ Pour créer un site, on tape dans un shell :
 
 
 
+
+
 # Requires Node.js
 npm install -g hugoblox
 hugoblox create site
+
+
 
 
 
@@ -67,35 +71,9 @@ C'est tout.
 
 Il n'y a plus qu'à écrire des articles en [Markdown](w:), un format de texte enrichi autrefois réservé à de simples fichiers readme.md qui devient très à la mode avec les IA.
 
-A ce moment, il devient très naturel de gérer toutes les modifications apportées au site dans un dépôt git pour être sur de NE PLUS JAMAIS RIEN PERDRE.
+A ce moment, il devient très naturel de gérer toutes les modifications apportées au site dans un dépôt git pour être sur de [NE PLUS JAMAIS RIEN PERDRE](/2012/10/31/la-penible-mort-des-donnees/).
 
-Un petit site peut d'ailleurs être très facilement être <a href="https://gohugo.io/host-and-deploy/host-on-github-pages/" target="_blank" rel="noopener">buildé et publié automatiquement sur GitHub pages</a> à chaque push sur GitHub, mais dans le cas de drgoulu.com le build dépassait les 10 minutes autorisées (ce qui est étonnant...) et de toutes façons je voulais le publier chez mon hébergeur (infomaniak)
-
-Donc j'ai plutôt choisi de n'utiliser GitHub que comme repo du projet source (et images...) et de lancer les build en local pousser uniquement le dossier "public" avec les pages HTML générées chez Infomaniak, avec un "hook" qui les met au bon endroit :
-
-{{< highlight bash >}}
-
-
-#!/bin/sh
-# ----------------------------------------------------------------------
-# ~/git_depot/drgoulu.git/hooks/post-receive
-# Hook post-receive : Déploiement direct des fichiers statiques compilés
-# ----------------------------------------------------------------------
-
-# 1. Définir le dossier de destination (le dossier web de votre sous-domaine Hugo)
-TARGET="/home/clients/VOTRE_ID_CLIENT/web"
-
-# 2. Définir l'emplacement du dépôt Git distant actuel
-GIT_DIR="/home/clients/VOTRE_ID_CLIENT/git_depot/drgoulu.git"
-
-# 3. Extraire les fichiers poussés directement dans le dossier Web
-echo "📦 Déploiement des fichiers sur Infomaniak..."
-git --work-tree=$TARGET --git-dir=$GIT_DIR checkout -f
-
-echo "✅ Site Hugo mis à jour avec succès !"
-
-
-{{< /highlight >}}
+Un site peut d'ailleurs être très facilement être [buildé et publié automatiquement sur GitHub pages](https://gohugo.io/host-and-deploy/host-on-github-pages/) à chaque push sur GitHub, mais dans le cas de drgoulu.com , je voulais le conserver chez mon hébergeur (infomaniak). J'ai donc configuré une "action" GitHub qui builde le site et synchronise le dossier /public généré avec infomaniak par [rsync](w:) ssh. Ca prend environ 6 minutes, ce qui est lent mais acceptable quand on publie un article...
 
 ### Markdown
 
@@ -106,36 +84,55 @@ L'approche standard est d'utiliser des plugins de VSCode qui lancent un serveur 
 * [Hugo IntelliSense](https://marketplace.visualstudio.com/items?itemName=hugoblox.hugo), qui est tout neuf et pas très convaincant pour l'instant
 * [Ownable](https://ownable.dev) plus abouti actuellement me semble t'il, mais pas encore top.
 
-Sinon, il existe bien des choses comme [Cloudcannon](cloudcannon.com), un éditeur et gestionnaire de site Hugo en ligne via GitHub, que j'utilise pour écrire ces lignes parce qu'il est gratuit pendant 20 jours, mais assez cher ensuite, ce qui fait que je ne vais pas le garder, hélas.
-
-Et il fait un rendu un peu intermédiaire, certaines choses étant wysiwyg et d'autres pas. Voici par exemple un extrait du présent article tel que je le vois dans Cloudcannon:
-
-![](./images/cloudcannon.png)
+Sinon, il existe bien des choses comme [Cloudcannon](https://cloudcannon.com), un éditeur et gestionnaire de site Hugo en ligne via GitHub, que j'utilise pour écrire ces lignes parce qu'il est gratuit pendant 20 jours, mais assez cher ensuite, ce qui fait que je ne vais pas le garder, hélas. De plus il fait un rendu un peu intermédiaire, certaines choses étant wysiwyg et d'autres pas. 
 
 ### Les Shortcodes
 
 La difficulté tient aux "shortcodes" qui permettent d'étendre Markdown pour afficher du code formaté, des videos YouTube etc.
 
-Hugo en [supporte déjà pas mal et par défaut](https://gohugo.io/shortcodes/) permet d'en définir très facilement en [écrivant un simple fichier "template"](https://gohugo.io/templates/shortcode/), mais ensuite il faut passer par la compilation du projet Hugo pour obtenir un rendu correct 
+Hugo en [supporte déjà pas mal et par défaut](https://gohugo.io/shortcodes/) permet d'en définir très facilement en [écrivant un simple fichier "template"](https://gohugo.io/templates/shortcode/). Je l'ai fait notamment pour:
+
+- [openbook4hugo](https://github.com/drgoulu/openbook4hugo), un simple portage du [openbook data plugin](https://github.com/goulu/openbook) pour WordPress que je m'étais fatigué à maintenir tellement il m'était indispensable, utilisé dans une multitude d'articles pour afficher des références et des couvertures de livres
+- [altmetric4hugo](https://github.com/drgoulu/altmetric4hugo), un portage de [Altmetric WordPress Plugin](https://github.com/goulu/Altmetric) qui décore les références d'articles scientifiques
+
+Mais avec ça, impossible d'obtenir un rendu "wysiwyg" sans passer par une compilation Hugo...
 
 ### Sveltia 
 
-C'est en cherchant une solution à ceci que je suis tombé sur sveltia-cms. Comme l'indique son nom, l'ambition de ce projet open source est de réaliser un "content management system" complet, mais l'éditeur de markdown me et semblait proche de ce dont j'avais besoin.
+C'est en cherchant une solution à ceci que je suis tombé sur [sveltia-cms](https://github.com/sveltia/sveltia-cms). Comme l'indique son nom, l'ambition de ce projet open source est de réaliser un "content management system" complet, mais l'éditeur de markdown me semblait proche de ce dont j'avais besoin.
 
-Après quelques échanges avec son auteur principal, j'ai constaté que nous objectifs étaient assez différents, donc je me suis résolu à maintenir mon propre fork de sveltia que j'ai complété notamment avec :
+Le petit wrapper [headless-cms](https://github.com/drgoulu/headless-cms) permet d'intégrer Sveltia comme un module Hugo, et de faire l'interface, notamment en ajoutant un bouton "edit" aux articles, visible uniquement si on est authentifié avec droit d'écriture sur le projet GitHub. (donc moi uniquement...)
 
-- Une prévisualisation dynamique en local 
-- 
+Après quelques échanges avec l'auteur principal de sveltia-cms, j'ai constaté que nous objectifs étaient assez différents, donc je me suis résolu à maintenir [mon propre fork de sveltia](https://github.com/drgoulu/sveltia-cms) que j'ai complété notamment avec :
+
+- Le support des shortcodes utilisés sur drgoulu.com
+- La gestion de la structure des dossiers d'articles, organisés par année
+- L'intégration du moteur de recherche interne dans la boite de création des liens
+- et surtout, la ...
+
+#### Prévisualisation en (quasi) temps réel
+
+Il faut l'admettre, la possibilité d'éditer des articles sur le site lui-même est un peu contradictoire avec la notion de "site statique", car il faut alors un serveur plus sophistiqué qu'un simple serveur web de pages statiques.
+
+Le cycle de compilation normal du site suite à un commit+push de nouveau contenu sur GitHub mentionné plus haut est beaucoup trop lent, puisqu'il prend environ 6 minutes.
+
+Il faut donc un serveur spécifique, en l'occurrence on utilise le serveur de développement de hugo qui permet une compilation simplifiée en 5 à 6 secondes seulement.
+
+J'envisage installer ceci sur Infomaniak un de ces jours, mais pour l'instant je ne l'utilise que pour la rédaction des articles en local.
 
 ## LA MIGRATION
+
+L'exportation du contenu de l'ancien drgoulu.com s'est passée sans difficulté grâce à [wordpress-to-hugo-exporter](https://github.com/SchumacherFM/wordpress-to-hugo-exporter). 
+
+Les problèmes sont apparus après car mon vieux site était quand même bien abîmé .
 
 ### IA = Indispensable Assistant
 
 Franchement, sans l'IA (Gemini) intégrée dans Antigravity (l'IDE que j'utilise de préférence à VSCode), j'aurais abandonné.
 
-Elle a permis de faire des dizaines de recherche/remplace qui m'auraient pris de heures à la main ou à écrire les regex en quelques minutes.
+Elle a permis de faire des dizaines de recherches/remplacements qui m'auraient pris de heures à la main ou à écrire les regex en quelques minutes.
 
-Le plus incroyable s'est produit lorsque je lui ai demandé de retrouver des images qui avaient disparu car je les avais "hotlinké" sans m'en rendre compte, et que le site d'origine avait bien entendu changé ou disparu. L'IA a pensé "toute seule" à les chercher sur la Wayback Machine qui conserve les anciennes versions de pratiquement tout internet ! Et les a toutes retrouvées, téléchargées dans le site Hugo, et insérées proprement dans les articles. Wow. En quelques minutes !
+Le plus incroyable s'est produit lorsque je lui ai demandé de retrouver des images qui avaient disparu car je les avais "hotlinké" sans m'en rendre compte, et que le site d'origine avait bien entendu changé ou disparu. L'IA a pensé "toute seule" à les chercher sur l' [Internet Wayback Machine](https://web.archive.org/web/20260000000000*/drgoulu.com) qui conserve les anciennes versions de pratiquement tout internet ! Et les a toutes retrouvées, téléchargées dans le site Hugo, et insérées proprement dans les articles. Wow. En quelques minutes !
 
 > dans [2007-10-11-la-bonne-maniere-de-calculer-des-trucs](dans%202007-10-11-la-bonne-maniere-de-calculer-des-trucs).md, transforme en latex les deux équations sur la fonction slerp qui sont écrites en texte, en t'appuyant sur la wayback machine
 
@@ -161,75 +158,30 @@ en ça :
 
 
 
+
+
 def r(a): i=a.find('0') if i<0:print a [m in[(i-j)%9*(i/9^j/9)*(i/27^j/27|i%9/3^j%9/3)or a[j]for j in range(81)]or r(a[:i]+m+a[i+1:])for m in`14**7*9`]r(raw_input())
+
+
 
 
 {{< /highlight >}}
 
 (mauvais exemple car le code est sur une seule ligne...)
 
-## Commentaires Disqus
+### Commentaires Disqus
 
-L'intégration des commentaires historiques du blog repose sur [Disqus](https://disqus.com/). Lors de la migration vers Hugo Blox / Tailwind CSS, un problème d'incompatibilité est apparu :
+Un aspect de drgoulu.com auquel je tiens a aussi été rendu difficile par le passage é Hugo : les commentaires.
 
-### Incompatibilité OKLCH et Disqus `embed.js`
+J'ai du revenir à [Disqus](https://disqus.com/). J'avais utilisé cette solution commericale pendant un temps, puis abandonnée pour revenir aux commentaires natifs de WordPress.
 
-Le script d'intégration de Disqus (`embed.js`) analyse automatiquement l'environnement de la page (`getComputedStyle`) pour adapter les couleurs du fil de discussion (mode clair/sombre, couleur des liens).
+Je n'ai pas beaucoup hésité :  il n'y a pas vraiment d'alternative et une bonne partie des commentaires y étaient déjà, donc j'ai installé, et un peu ramé...
 
-Or, Tailwind CSS et Hugo Blox utilisent désormais le format de couleur moderne `oklch(...)`. Le parseur interne de Disqus (`parseColor`), n'étant pas compatible avec `oklch`, échouait avec l'erreur :
+Il y a notamment eu un problème un peu technique que j'ai remonté au support Disqus, il est documenté dans un commentaire ci-dessous, que je supprimerai quand il sera résolu.
 
-```text
-Uncaught Error: parseColor received unparseable color: oklch(...)
-```
+Et je cherche toujours quelques années de commentaires WordPress qui n'ont pas migré sous Disqus pour une raison inconnue ...
 
-### Solution mise en place
-
-Pour isoler Disqus des styles `oklch` globaux, des règles CSS explicites ont été ajoutées dans `assets/css/custom.css` afin de forcer des formats de couleurs traditionnels (Hex / RGB) sur le conteneur `#disqus_thread`, son texte d'arrière-plan et ses liens internes (`#disqus_thread a`), pour les thèmes clair et sombre :
-
-{{< highlight css >}}
-
-
-/* Forcer des couleurs standards (Hex/RGB) pour Disqus */
-#disqus_thread,
-#disqus_thread * {
-  color: #111827 !important;
-}
-
-#disqus_thread {
-  background-color: #ffffff !important;
-}
-
-#disqus_thread a,
-#disqus_thread a:link,
-#disqus_thread a:visited,
-#disqus_thread a:hover,
-#disqus_thread a:active,
-.dsq-brlink,
-.dsq-brlink a {
-  color: #2563eb !important;
-}
-
-.dark #disqus_thread,
-.dark #disqus_thread * {
-  color: #f8fafc !important;
-}
-
-.dark #disqus_thread {
-  background-color: #0f172a !important;
-}
-
-.dark #disqus_thread a,
-.dark #disqus_thread a:link,
-.dark #disqus_thread a:visited,
-.dark #disqus_thread a:hover,
-.dark #disqus_thread a:active,
-.dark .dsq-brlink,
-.dark .dsq-brlink a {
-  color: #60a5fa !important;
-}
-
-
-{{< /highlight >}}
+Le gros morceau qui reste, c'est mon projet de [migrer mes milliers de réponses Quora ici... J'y consacre un article séparé.](/2026/09/17/2026/migration-de-quora-à-hugo/)
 
 ## Références:
 
