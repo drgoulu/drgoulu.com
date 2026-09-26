@@ -9,7 +9,7 @@ tags:
   - pseudo
 categories:
   - Pourquoi
-slug: 'le-gang-des-cerises-trottinettes'
+slug: le-gang-des-cerises-trottinettes
 coverImage: ./images/raoult.webp
 ---
 
@@ -34,7 +34,7 @@ En fait il suffit de connaître le fonctionnement de base de la recherche scient
 
 Et avec les moyens de communication d'aujourd'hui, quelques personnes  partageant les mêmes préoccupations peuvent facilement créer un "gang". En l'occurrence ce sont :
 
-- **Guillaume Limousin** professeur de mathématiques (mais ancien chercheur) 
+- **Guillaume Limousin** professeur de mathématiques (et ancien chercheur) 
 - **Alexander Samuel** : Enseignant, titulaire d'un doctorat en sciences et chanteur de metal.
 - **Fabrice Frank** : Chef d'entreprise dans l'informatique et passionné de surf.
 - **Samuel** : Chercheur titulaire d'un doctorat en sciences (son nom de famille n'est pas rendu public dans le documentaire).
@@ -50,7 +50,7 @@ Le documentaire montre très bien que la force de ce groupe vient de leur compl�
 
 Car ce qui m'a le plus estomaqué, c'est l'incroyable agressivité des "pro Raoult" qui ont harcelé les critiques sur les réseaux sociaux jusqu'à pousser au suicide, les ont menacé de mort, et même agressés physiquement. 
 
-C'est un phénomène déjà vu avec les fans de Tesla, de Montagnier ou de JPP : des hordes de gens qui n'ont aucune compétence scientifique se mettent à transformer un scientifique en gourou intouchable, quasi religieusement.
+C'est un phénomène déjà vu avec les [fans de Tesla](/2012/08/19/nikola-tesla-genie-mais-connu/), de [Montagnier](/2020/04/18/pensez-vous-que-le-professeur-montagner-prix-nobel-de-medecine-2008-est-devenu-complotiste-en-affirmant-que-le-covid-19-a-ete-fabrique-par-l-etre-humain-voir-la-video-youtube/) ou de JPP : des hordes de gens qui n'ont aucune compétence scientifique se mettent à transformer un scientifique en gourou intouchable, quasi religieusement.
 
 Dans le cas de Raoult, le contexte du Covid-19 a certainement conduit de nombreuses personnes à voir en lui un sauveur providentiel, d'autant qu'auréolé de sa réputation, il prévoyait que tout rentrerait dans l'ordre en été 2020, sans deuxième vague ni vaccins...
 
@@ -60,7 +60,7 @@ La meilleure nouvelle du documentaire, c'est qu'un "pro Raoult" a fini par être
 
 Un des petits reproches que je ferais au documentaire est de ne pas décrire les grosses failles "niveau collège" qui ont rapidement été détectées dans les publications (à part le très faible nombre de sujets de la première étude). Apparemment des juges les ont comprises [1], donc on aurait pu les comprendre aussi...
 
-Un autre petit reproche est de ne pas avoir mentionné [Elizabeth Bik](w:), une chercheuse qui s'est spécialisée dans la détection de fraude scientifique notamment par les images truquées. Elle aussi a détecté des anomalies, a été attaquée en justice par Raoult, et a reçu tellement de soutien qu'il a abandonné les poursuites.
+Un autre petit reproche est de ne pas avoir mentionné [Elisabeth Bik](w:), une chercheuse qui s'est spécialisée dans la détection de fraude scientifique notamment par les images truquées. Elle aussi a détecté des anomalies, a été attaquée en justice par Raoult, et a reçu tellement de soutien qu'il a abandonné les poursuites.
 
 En fin de compte, l'obstination de Raoult l'a éjecté du panthéon de la science française . De "grand scientifique" encensé par le Président Macron, il est tombé dans la poubelle de la science et de l'histoire
 
