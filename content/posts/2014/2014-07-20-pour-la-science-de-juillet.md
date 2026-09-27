@@ -69,7 +69,7 @@ En combinant les deux équations, on en arrive à l'idée que tous les corps tom
 
 Il faut dire que si les masses inerte et grave d'un corps ne sont pas égales, ça serait grave (sic) : la loi de la gravitation serait fausse, y compris la relativité générale qui est son interprétation actuelle, et c'est peut-être pour ça qu'on arrive pas à la relier à la mécanique quantique. C'est pourquoi les expériences récentes tentent de mesurer la gravitation (qui est l'[interaction élémentaire](w:) la plus faible, et de loin) au niveau atomique, mais ce n'est pas simple.
 
-Par exemple, l'équipe de [Steven Chu](w:) est parvenue à mesurer la chute d'un seul atome en 1999, mais l'équipe de [Claude_Cohen Tannoudji](w:) (co-lauréat du Nobel 1997 avec Chu) n'est apparemment pas d'accord sur l’interprétation de cette expérience qui mesure le [décalage vers le rouge](https://fr.wikipedia.org/wiki/décalage d' Einstein) de la fréquence de Compton de l'atome...
+Par exemple, l'équipe de [Steven Chu](w:) est parvenue à mesurer la chute d'un seul atome en 1999, mais l'équipe de [Claude_Cohen Tannoudji](w:) (co-lauréat du Nobel 1997 avec Chu) n'est apparemment pas d'accord sur l’interprétation de cette expérience qui mesure le [décalage vers le rouge](w:décalage_d'_Einstein) de la fréquence de Compton de l'atome...
 
 ### Energies renouvelables
 

@@ -24,7 +24,7 @@ Voici une traduction en français de leur proposition :
 
 Pourtant il y a eu [près de 150 participations "sérieuses"](http://forums.randi.org/forumdisplay.php?f=43) jusqu'ici .
 
-Actuellement, une [pétition en ligne](http://www.ipetitions.com/petition/cmonsylvia/) demande à [Sylvia Browne](https://fr.wikipedia.org/wiki/Sylvia Browne) , la plus célèbre voyante des USA de tenir [l'engagement qu'elle a pris publiquement à plusieurs reprises](http://www.randi.org/sylvia/index.html) de passer le test il y a 5 ans, mais ne l'a jamais fait. Cette initiative vient évidemment des milieux "skeptics" qui ont même créé le site [www.stopsylviabrowne.com...](http://stopsylviabrowne.com/)
+Actuellement, une [pétition en ligne](http://www.ipetitions.com/petition/cmonsylvia/) demande à [Sylvia Browne](w:Sylvia_Browne) , la plus célèbre voyante des USA de tenir [l'engagement qu'elle a pris publiquement à plusieurs reprises](http://www.randi.org/sylvia/index.html) de passer le test il y a 5 ans, mais ne l'a jamais fait. Cette initiative vient évidemment des milieux "skeptics" qui ont même créé le site [www.stopsylviabrowne.com...](http://stopsylviabrowne.com/)
 
 Mon point de vue est plus mesuré. La JREF propose une démarche scientifique rigoureuse, comme on le voit par exemple dans l'émission "Homeopathy: The Test" de la BBC, décrite en français [ici](http://www.blogparanormal.com/insolite/medecines-douces-et-therapies-alternatives-une-menace-sectaire/) et dont le texte complet en anglais est [ici.](http://www.bbc.co.uk/science/horizon/2002/homeopathytrans.shtml)
 

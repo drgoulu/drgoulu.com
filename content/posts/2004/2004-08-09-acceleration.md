@@ -52,7 +52,7 @@ Je ne peux m'empêcher de penser à ce qu'il se passerait si nous n'avions pas f
 
 La première version de cet article (2004) reposait sur un calcul pas-à-pas numérique qui comportait une erreur de différentiation relativiste : le terme $dv$ y était divisé par $\gamma$ au lieu de $\gamma^3$ (ou $\gamma^2$ selon la base de temps), provoquant une sous-estimation du ralentissement de l'accélération coordonnée, conduisant à une vitesse dépassant $c$ et à l'explosion des valeurs vers le 500ᵉ jour, puis à des erreurs `#NUM!` au jour 996.
 
-Comme l'a justement rappelé **Jean Bossaert** en commentaire, le mouvement à accélération propre constante $g$ est un **mouvement hyperbolique** en relativité restreinte ([Space travel under constant acceleration](https://en.wikipedia.org/wiki/Space_travel_under_constant_acceleration)), dont les équations analytiques exactes en fonction du temps propre $\tau$ du voyageur sont :
+Comme l'a justement rappelé **Jean Bossaert** en commentaire, le mouvement à accélération propre constante $g$ est un **mouvement hyperbolique** en relativité restreinte ([Space travel under constant acceleration](w:en:Space_travel_under_constant_acceleration)), dont les équations analytiques exactes en fonction du temps propre $\tau$ du voyageur sont :
 
 1. **Rapidité / paramètre d'accélération** :
    $$\theta = \frac{g\,\tau}{c}$$

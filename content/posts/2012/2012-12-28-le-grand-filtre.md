@@ -55,7 +55,7 @@ Il n'y a pas de limite évidente à la vitesse d'un vaisseau spatial (autre que 
 
 ### Le Point de Donnée
 
-Par conséquent, pendant le prochain million d'années (au plus), nos descendants pourraient avoir une chance envisageable (supérieure à un pour mille) d'atteindre un "point explosif" d'où ils s'étendront vers l'extérieur à une vitesse proche de celle de la lumière, pour coloniser notre galaxie, puis l'univers, en écrasant toute forme de vie moins développée sur son chemin. Le voyage à [vitesse supraluminique](https://fr.wikipedia.org/wiki/vitesse supraluminique) impliquerait une expansion encore plus rapide.
+Par conséquent, pendant le prochain million d'années (au plus), nos descendants pourraient avoir une chance envisageable (supérieure à un pour mille) d'atteindre un "point explosif" d'où ils s'étendront vers l'extérieur à une vitesse proche de celle de la lumière, pour coloniser notre galaxie, puis l'univers, en écrasant toute forme de vie moins développée sur son chemin. Le voyage à [vitesse supraluminique](w:vitesse_supraluminique) impliquerait une expansion encore plus rapide.
 
 Nous nous attendons à ce qu'une telle explosion comble toutes les niches disponibles contenant des ressources massiques ou néguentropiques utilisables. Et même si la plupart des précieuses ressources sont situées entre les étoiles ou aux centres galactiques, nous devons nous attendre à ce que certains de nos descendants fassent usage de la plupart de la matière et des ressources énergétiques qu'ils pourront économiquement atteindre, y compris celles situées dans des systèmes solaires "marginaux" comme le nôtre et ceux proches du nôtre.
 

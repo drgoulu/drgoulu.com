@@ -28,7 +28,7 @@ L'échelle est logarithmique : une augmentation de 1 de la magnitude correspond 
 
 Le séisme de magnitude 9 [qui vient de frapper le Japon](w:Séisme_et_tsunami_de_Sendai_(2011)) a dégagé au moins [l'équivalent](w:Ordre_de_grandeur_(énergie)) d'une bonne dizaine de [Tsar Bomba](w:), soit environ 600 mégatonnes de TNT, ou encore de la consommation annuelle d'électricité de la France, mais peut être beaucoup plus car sa durée a été exceptionnellement longue.
 
-Mieux vaut donc se trouver le plus loin possible de l'épicentre d'un tel phénomène car l'intensité (à ne pas confondre avec la magnitude définie ci-dessus) décroit rapidement avec la distance, et dépend donc de l'endroit où on se trouve. L'intensité se mesure avec l'[échelle Medvedev-Sponheuer-Karnik](https://fr.wikipedia.org/wiki/échelle Medvedev-Sponheuer-Karnik) (MSK), qui décrit le niveau des destructions provoqué, et que l'on note en chiffres romains pour la distinguer de l'échelle de magnitude à laquelle elle ressemble trop.
+Mieux vaut donc se trouver le plus loin possible de l'épicentre d'un tel phénomène car l'intensité (à ne pas confondre avec la magnitude définie ci-dessus) décroit rapidement avec la distance, et dépend donc de l'endroit où on se trouve. L'intensité se mesure avec l'[échelle Medvedev-Sponheuer-Karnik](w:échelle_Medvedev-Sponheuer-Karnik) (MSK), qui décrit le niveau des destructions provoqué, et que l'on note en chiffres romains pour la distinguer de l'échelle de magnitude à laquelle elle ressemble trop.
 
 Comme on le voit sur cette carte, le terrible séisme au large du Japon n'a causé "que" une intensité de VII à VIII dans la région de Sendai, peut-être de IX localement sur l'avancée de terre la plus proche de l'épicentre, zone où Murphy avait précisément construit des centrales nucléaires...
 
@@ -44,7 +44,7 @@ En Suisse, un document [[1]](#ref-1) spécifie que les grands barrages doivent s
 
 {{< figure src="./images/3bb9b731af9479eca85ba46e97b328ba.png" alt="seismesuisse" caption="Intensité MSK d'un tremblement de terre de probabilité 1% par siècle en Suisse" link="./images/3bb9b731af9479eca85ba46e97b328ba.png" align="aligncenter" width="593" >}}
 
-Comme le voient ceux qui connaissent la géographie helvétique, les barrages alpins sont tous situés dans la zone pouvant subir une intensité VIII ou plus, et quelques très grands barrages comme la [Grande-Dixence](https://fr.wikipedia.org/wiki/barrage_de_la Grande-Dixence) ou [Mauvoisin](https://fr.wikipedia.org/wiki/lac_de Mauvoisin) sont en zone IX. Ces ouvrages auraient donc résisté de justesse à la récente secousse japonaise, mais pas à Kobe ou Haïti.
+Comme le voient ceux qui connaissent la géographie helvétique, les barrages alpins sont tous situés dans la zone pouvant subir une intensité VIII ou plus, et quelques très grands barrages comme la [Grande-Dixence](w:barrage_de_la_Grande-Dixence) ou [Mauvoisin](w:lac_de_Mauvoisin) sont en zone IX. Ces ouvrages auraient donc résisté de justesse à la récente secousse japonaise, mais pas à Kobe ou Haïti.
 
 Une risque de 1/10'000 par an peut paraître faible, mais ça signifie que la probabilité d'en subir un plus élevé est inférieure à 1% par siècle, donc non négligeable quand on a plusieurs barrages qui vont durer plus d'un siècle. Que se passerait-il si lorsque l'un d'eux cédaitera ?
 

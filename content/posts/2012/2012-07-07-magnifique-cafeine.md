@@ -26,7 +26,7 @@ Cette image obtenue par microscopie électronique à balayage montre environ 4
 
 Je savais que tu étais une molécule assez simple et qu'on t'appelle aussi théine, mais j'ignorais que tu pouvais cristalliser. J'ai découvert comment le faire sur le [wiki de scienceamusante.net](http://scienceamusante.net/wiki/index.php?title=La_caf%C3%A9ine) et plein d'autres choses intéressantes sur [toi sur wikipedia](w:caféine). Par exemple qu'un café contenant environ 80 milligrammes de toi, je devrais en  boire environ 200 en [quelques heures](w:Caféine#Métabolisme_et_demi-vie) avant que tu ne me tues.
 
-Car certains te traitent d'[alcaloïde toxique](https://fr.wikipedia.org/wiki/alcaloïde toxique), mais tu es plutôt une [xanthine](w:). Les biologistes pensent que les plantes te synthétisent pour éloigner les insectes et les araignées, qui ne t'aiment pas du tout, et aussi que ta présence dans les graines empêchent les autres graines proches de germer.
+Car certains te traitent d'[alcaloïde toxique](w:alcaloïde_toxique), mais tu es plutôt une [xanthine](w:). Les biologistes pensent que les plantes te synthétisent pour éloigner les insectes et les araignées, qui ne t'aiment pas du tout, et aussi que ta présence dans les graines empêchent les autres graines proches de germer.
 
 [Dans mon cerveau](w:Caféine#Mode_d'action), tu es un "inhibiteur compétitif" de l'[adénosine](w:), à laquelle les chimistes disent que tu ressemble assez pour te fixer sur les récepteurs cellulaires de l'adénosine, mais sans les activer.
 

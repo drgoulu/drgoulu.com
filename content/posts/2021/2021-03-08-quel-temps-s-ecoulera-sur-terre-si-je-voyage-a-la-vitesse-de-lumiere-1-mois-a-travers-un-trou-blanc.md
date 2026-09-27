@@ -22,4 +22,4 @@ C'est pour ça que la vitesse de la lumière est infranchissable : elle est infi
 
 Bref, vous n'avez aucun moyen de mesurer le moment où il faudra faire demi-tour, ou freiner pour vous arrêter. Et, hélas, vous n'aurez aucun moyen d'observer un [trou blanc](w:), ce qui serait vachement intéressant parce qu'on en a jamais vu aucune trace.
 
-Maintenant, si vous acceptez de l'aller qu'à 99% de la vitesse de la lumière, le [facteur de Lorentz](https://fr.wikipedia.org/wiki/Facteur_de_Lorentz) vaudra 7, donc 7 mois passeront sur Terre. Et si vous allez à 99.9% de c, alors ce sera 22.4 mois.
+Maintenant, si vous acceptez de l'aller qu'à 99% de la vitesse de la lumière, le [facteur de Lorentz](w:Facteur_de_Lorentz) vaudra 7, donc 7 mois passeront sur Terre. Et si vous allez à 99.9% de c, alors ce sera 22.4 mois.

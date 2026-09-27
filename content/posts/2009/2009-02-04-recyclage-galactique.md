@@ -24,7 +24,7 @@ L'image ci-dessus combine en fait des mesures faites avec 3 instruments différe
 
 1. l'image optique vient du [télescope de 2.2m de l'ESO](http://www.ls.eso.org/lasilla/Telescopes/2p2T/) au Chili
 2. les zones oranges correspondent aux ondes radio submilimétriques mesurées par le [télescope APEX](http://www.apex-telescope.org/) au Chili aussi
-3. le rayonnement X, représenté en bleu, a été mesuré par le [télescope spatial Chandra](https://fr.wikipedia.org/wiki/_Chandra_ (télescope_spatial))
+3. le rayonnement X, représenté en bleu, a été mesuré par le [télescope spatial Chandra](w:_Chandra__(télescope_spatial))
 
 On y distingue les jets du trou noir, en particulier celui en haut à gauche, dont on a mesuré la longueur (13'000 années lumière) et la vitesse initiale (c/2). Mais on voit aussi que les jets ne sont pas infinis : ils créent des ondes de choc et des volutes de gaz, qui ne peuvent rien faire d'autre que retomber lentement dans le disque galactique pour y être recyclées en étoiles fraiches dans quelques millions d'années.
 

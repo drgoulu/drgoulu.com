@@ -32,13 +32,13 @@ Dans un réacteur nucléaire, chaque atome d'Uranium bombardé par un neutron�
 - 11,8% ont des [périodes radioactives](w:période_radioactive) de plus de 100 milliards d'années, donc peuvent être considérés comme stables
 - 6,8% ont des périodes entre 10 et 100 ans. Ce sont essentiellement le [césium 137](w:) et le [strontium 90](w:) bien connus à Tchernobyl et Fukushima, ainsi que le [krypton 85](w:), qui est un [gaz noble](w:), donc pas facile à traiter chimiquement. La période du césium 137 étant de 30,15 ans et celle du strontium 90 de 28,79 ans, on a défini les [déchets HAVL](w:) comme étant ceux dont la période est supérieure à 31 ans, comme ça ces trois isotopes n'ont légalement pas à être stockés sous terre... (je n'ai pas trouvé comment ils sont traités. Sont-ils intégrés aux déchets HA-VL et décroissent-ils en surface ?)
 - Enfin, les 10.4% restants sont constitués de 7 isotopes qui constituent une bonne partie des déchets HA-VL :
-    - 3,45 % de [césium 135](https://fr.wikipedia.org/wiki/césium 135), d'une demi-vie de 2,3 millions d’années
-    - 3,06 % de [zirconium 93](https://fr.wikipedia.org/wiki/zirconium 93), d'une demi-vie de 1,53 million d’années
+    - 3,45 % de [césium 135](w:césium_135), d'une demi-vie de 2,3 millions d’années
+    - 3,06 % de [zirconium 93](w:zirconium_93), d'une demi-vie de 1,53 million d’années
     - 3,06 % aussi de [technétium 99](w:) d'une demi-vie de 211'100 ans
-    - 0,64 % d’[iode 129](https://fr.wikipedia.org/wiki/iode 129), demi-vie de 15,7 millions d’années
-    - 0,09 % de [palladium 107](https://fr.wikipedia.org/wiki/palladium 107), demi-vie de 6,5 millions d’années
-    - 0,03 % d' [étain 126](https://fr.wikipedia.org/wiki/étain 126), demi-vie de 100'000 ans.
-    - 0,025 % de [sélénium 79](https://fr.wikipedia.org/wiki/sélénium 79), d'une demi-vie de 280 000 anstous ces isotopes se désintègrent par [radioactivité β](w:), en émettant des électrons.
+    - 0,64 % d’[iode 129](w:iode_129), demi-vie de 15,7 millions d’années
+    - 0,09 % de [palladium 107](w:palladium_107), demi-vie de 6,5 millions d’années
+    - 0,03 % d' [étain 126](w:étain_126), demi-vie de 100'000 ans.
+    - 0,025 % de [sélénium 79](w:sélénium_79), d'une demi-vie de 280 000 anstous ces isotopes se désintègrent par [radioactivité β](w:), en émettant des électrons.
 
 A part les produits de fission, une centrale nucléaire fabrique des "[actinides mineurs](w:)". En gros il s'agit des atomes d'uranium 238 qui n'ont pas éclaté en capturant un neutron mais se sont transformés en autre chose, principalement du plutonium 240 (6 500 ans) et du [plutonium 239](w:) (24 000 ans), mais aussi de l'[américium](w:) 242 et 243, du [curium](w:) 245, 246 et 250, du [californium](w:) 249 et 251, etc. produits selon ce graphique:
 

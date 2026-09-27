@@ -22,7 +22,7 @@ L'introduction du livre présente les [pavages](w:pavage) périodiques et [de P
 
 où A est l'aire totale à recouvrir, et
 
-$$\zeta(c,N) = \sum_{k=0}^\infty (N+k)^{-c}$$ la [fonction zêta de Hurwitz](https://fr.wikipedia.org/wiki/fonction zêta_de_Hurwitz),
+$$\zeta(c,N) = \sum_{k=0}^\infty (N+k)^{-c}$$ la [fonction zêta de Hurwitz](w:fonction_zêta_de_Hurwitz),
 
 et c et N deux constantes.
 

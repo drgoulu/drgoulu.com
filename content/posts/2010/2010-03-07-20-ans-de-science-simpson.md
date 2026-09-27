@@ -26,7 +26,7 @@ Il faut dire que [beaucoup d'auteurs d'épisodes ont des formations scientifique
 
 ![](./images/ed01255774ecaa1f2fca34ada814f160.gif)
 
-Mais vous qui savez que le [dernier théorème de Fermat](https://fr.wikipedia.org/wiki/dernier théorème_de_Fermat) dit qu'il n'existe pas de solution de l'équation an+bn\=cn pour a,b,c,n entiers et n>2, vous bondissez sur votre calculatrice et, ô stupeur, vous croyez l'espace qu'il existe un contre exemple invalidant la démonstration de plusieurs centaines de pages due à [Andrew Wiles](w:) ! En réalité il s'agit d'un hommage à ce résultat impressionnant publié en 1994 quelques semaines avant l'épisode des Simpson, et il faut effectuer le calcul avec beaucoup de chiffres significatifs ou être assez observateur \[5\] pour voir que l'égalité est fausse.
+Mais vous qui savez que le [dernier théorème de Fermat](w:dernier_théorème_de_Fermat) dit qu'il n'existe pas de solution de l'équation an+bn\=cn pour a,b,c,n entiers et n>2, vous bondissez sur votre calculatrice et, ô stupeur, vous croyez l'espace qu'il existe un contre exemple invalidant la démonstration de plusieurs centaines de pages due à [Andrew Wiles](w:) ! En réalité il s'agit d'un hommage à ce résultat impressionnant publié en 1994 quelques semaines avant l'épisode des Simpson, et il faut effectuer le calcul avec beaucoup de chiffres significatifs ou être assez observateur \[5\] pour voir que l'égalité est fausse.
 
 ### Médecins, inventeur et vrais scientifiques
 

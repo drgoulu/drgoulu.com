@@ -35,7 +35,7 @@ Dans le livre "Systems Performance: Enterprise and the Cloud" [[2]](#ref-2) se 
 | accès au [cache](w:Mémoire_cache\) L1 | 0.9 ns | 3 s |
 | accès au cache L2 | 2.8 ns | 9 s |
 | accès au cache L3 | 12.9 ns | 43 s |
-| accès à la [mémoire vive](https://fr.wikipedia.org/wiki/mémoire vive) | 120 ns | 6 min |
+| accès à la [mémoire vive](w:mémoire_vive) | 120 ns | 6 min |
 | entrée/sortie à un disque [SSD](w:Solid-state_drive\) | 50-150 μs | 2-6 jours |
 | entrée/sortie à un [disque dur](w:) | 1-10 ms | 1-12 mois |
 | Internet: San Francisco - New-York | 40 ms | 4 ans |

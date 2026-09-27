@@ -20,7 +20,7 @@ L'explosion d'étoile la plus violente jamais mesurée a été annoncée hier. U
 quelques autres depuis:
 
 - [Cassiopeia A](w: "Cassiopeia A") a du exploser vers 1680 et aurait normalement pu être observée sur Terre. On ne sait pas pourquoi personne ne l'a vue.
-- [](http://fr.wikipedia.org/wiki/1885 "1885")[SN 1885A](w: "SN 1885A") - visible à l'œil nu dans la [galaxie d'Andromède](http://fr.wikipedia.org/wiki/Galaxie_d%27Androm%C3%A8de "Galaxie d'Andromède") très voisine de la nôtre
+- [](w:1885 "1885")[SN 1885A](w: "SN 1885A") - visible à l'œil nu dans la [galaxie d'Andromède](w:Galaxie_d%27Androm%C3%A8de "Galaxie d'Andromède") très voisine de la nôtre
 - [SN 1987A](w:Supernova_1987A "Supernova 1987A") - observée dès le début dans le [Grand Nuage de Magellan](w: "Grand Nuage de Magellan").
 - [SN 2006gy](http://fr.wikipedia.org/w/index.php?title=Supernova_SN_2006gy&action=edit "Supernova SN 2006gy") - décrite au début de cet article
 

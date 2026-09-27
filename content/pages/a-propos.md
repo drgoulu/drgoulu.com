@@ -54,7 +54,7 @@ Donc : n'hésitez pas à participer aux discussions dans un esprit constructif !
 
 ### Cookies & Co
 
-La Suisse n'étant pas membre de l'Union Européenne, ce site n'a pas à se plier à l'absurde "[paquet télécom](https://www.cnil.fr/fr/cookies-traceurs-que-dit-la-loi)" qui impose à tous les sites de faire accepter aux visiteurs la pose de [cookies](https://fr.wikipedia.org/wiki/cookie_(informatique)) en cliquant sur un bouton \[OK\] auquel ils ne comprennent rien.
+La Suisse n'étant pas membre de l'Union Européenne, ce site n'a pas à se plier à l'absurde "[paquet télécom](https://www.cnil.fr/fr/cookies-traceurs-que-dit-la-loi)" qui impose à tous les sites de faire accepter aux visiteurs la pose de [cookies](w:cookie_(informatique)) en cliquant sur un bouton \[OK\] auquel ils ne comprennent rien.
 
 Dr. Goulu se voulant instructif, vous trouverez [plus d'infos et mes recommandations  à ce sujet ici](/2016/08/14/bits-en-vrac-2/).
 
@@ -64,9 +64,9 @@ J'ai créé mon [premier site web en 1998](http://goulus.tripod.com) sous Fron
 
 En 2026 j'ai [migré](2026/08/17/migration) le blog vers [Hugo](https://gohugo.io/), un générateur de sites statiques.
 
-Je suis un grand fan et un modeste [contributeur](https://fr.wikipedia.org/wiki/Utilisateur:Goulu) de la Wikipédia que j'utilise intensivement (mais pas exclusivement) pour me documenter, pour me rafraîchir la mémoire sur certaines notions scolaires et pour vérifier des infos. Une forte proportion des liens qui émaillent mes articles pointent donc vers la Wikipédia, à tel point que j'ai installé le plugin WordPress "[reference-2-wiki](http://wordpress.org/plugins/reference-2-wiki/)" pour me permettre de créer ces liens plus simplement, en utilisant la \[ \[notation wikipedia\] \].
+Je suis un grand fan et un modeste [contributeur](w:Utilisateur:Goulu) de la Wikipédia que j'utilise intensivement (mais pas exclusivement) pour me documenter, pour me rafraîchir la mémoire sur certaines notions scolaires et pour vérifier des infos. Une forte proportion des liens qui émaillent mes articles pointent donc vers la Wikipédia, à tel point que j'ai installé le plugin WordPress "[reference-2-wiki](http://wordpress.org/plugins/reference-2-wiki/)" pour me permettre de créer ces liens plus simplement, en utilisant la \[ \[notation wikipedia\] \].
 
-Comme ce plugin ajoute un attribut class="wikipedia" à tous les <a href...> qu'il gère, je me suis dit que j'allais customiser tous les liens pointant vers la Wikipédia. J'aurais pu les signaler par une couleur différente, j'ai choisi pour l'instant d'y ajouter le [symbole Ⓦ](http://www.iam.uni-bonn.de/~alt/html/unicode_170.html) disponible en [Unicode](https://fr.wikipedia.org/wiki/Unicode) à l'aide d'astuces CSS que je ne connaissais pas, "after" et "content":
+Comme ce plugin ajoute un attribut class="wikipedia" à tous les <a href...> qu'il gère, je me suis dit que j'allais customiser tous les liens pointant vers la Wikipédia. J'aurais pu les signaler par une couleur différente, j'ai choisi pour l'instant d'y ajouter le [symbole Ⓦ](http://www.iam.uni-bonn.de/~alt/html/unicode_170.html) disponible en [Unicode](w:Unicode) à l'aide d'astuces CSS que je ne connaissais pas, "after" et "content":
 
 {{< highlight css >}}
 .wikipedia:after {

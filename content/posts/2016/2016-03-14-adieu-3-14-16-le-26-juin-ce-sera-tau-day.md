@@ -22,7 +22,7 @@ C'est ce que suggère un article de 2001, "Pi est faux!" [[1]](#ref-1). Son aute
 
 Le "Tau manifesto" [[2]](#ref-2) de Michael Hartl donne pas mal de bonnes raisons à l'introduction de τ=2π.
 
-- dans la plupart des équations\*, π apparaît accompagné d'un facteur 2. C'est le cas dans [la loi normale de Gauss et la transformée de Fourier](/2014/03/16/17-equations-qui-ont-change-le-monde/) et beaucoup d'autres [[2]](#ref-2), y compris en physique de la troisième [loi de Képler](w:) aux [équations d'Einstein](w:) en passant par la [loi de Coulomb](https://fr.wikipedia.org/wiki/loi_de Coulomb_(électrostatique))
+- dans la plupart des équations\*, π apparaît accompagné d'un facteur 2. C'est le cas dans [la loi normale de Gauss et la transformée de Fourier](/2014/03/16/17-equations-qui-ont-change-le-monde/) et beaucoup d'autres [[2]](#ref-2), y compris en physique de la troisième [loi de Képler](w:) aux [équations d'Einstein](w:) en passant par la [loi de Coulomb](w:loi_de_Coulomb_(électrostatique))
 - c'est normal puisque [τ correspond à un tour](w:en:Turn_(geometry)#Tau_proposal), d'où le choix du τ, lettre d'origine du T comme "tour" ou "turn"
 - historiquement [[4]](#ref-4), [[5]](#ref-5) on a calculé et utilisé aussi bien τ que π :
     - [Archimède](w:) détermina que π était proche de 22/7 à l'aide de polygones réguliers inscrits et circonscrits

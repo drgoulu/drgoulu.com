@@ -16,12 +16,22 @@
   
   {{- if strings.Contains $raw ":" -}}
     {{- $parts := split $raw ":" -}}
-    {{- $lang = index $parts 0 -}}
-    {{- $article = delimit (after 1 $parts) ":" -}}
+    {{- $first := index $parts 0 -}}
+    {{- if findRE `^[a-z]{2,3}$` $first -}}
+      {{- $lang = $first -}}
+      {{- $article = delimit (after 1 $parts) ":" -}}
+    {{- else -}}
+      {{- $article = $raw -}}
+    {{- end -}}
   {{- else if strings.Contains $raw "/" -}}
     {{- $parts := split $raw "/" -}}
-    {{- $lang = index $parts 0 -}}
-    {{- $article = delimit (after 1 $parts) "/" -}}
+    {{- $first := index $parts 0 -}}
+    {{- if findRE `^[a-z]{2,3}$` $first -}}
+      {{- $lang = $first -}}
+      {{- $article = delimit (after 1 $parts) "/" -}}
+    {{- else -}}
+      {{- $article = $raw -}}
+    {{- end -}}
   {{- else if or (eq $raw "en") (eq $raw "de") (eq $raw "es") (eq $raw "it") -}}
     {{- $lang = $raw -}}
     {{- $article = "" -}}

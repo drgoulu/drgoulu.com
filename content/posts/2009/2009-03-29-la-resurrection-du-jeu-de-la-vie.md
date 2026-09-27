@@ -12,7 +12,7 @@ tags:
 coverImage: "./images/a470c29cf6c88b820cc608831b61f545.gif"
 ---
 
-Le [Jeu de  vie](https://fr.wikipedia.org/wiki/Jeu_de _vie) imaginé par [John Conway](w:) en 1970 est un automate cellulaire célébrissime pour au moins deux raisons:
+Le [Jeu de  vie](w:Jeu_de__vie) imaginé par [John Conway](w:) en 1970 est un automate cellulaire célébrissime pour au moins deux raisons:
 
 1. {{< figure src="./images/a470c29cf6c88b820cc608831b61f545.gif" alt="Un canon à planeurs" caption="Un &quot;canon à planeurs&quot;" width="250" >}}
     

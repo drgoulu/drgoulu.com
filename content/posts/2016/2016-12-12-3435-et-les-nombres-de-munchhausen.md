@@ -22,7 +22,7 @@ La réponse est "oui, mais ça dépend". Il y a de toutes façons le 1 parce que
 
 Et voilà, ce sont les seuls [nombres de Münchhausen](w:nombre_de_Münchhausen) ([A046253](https://oeis.org/A046253)), ainsi nommés dans l'article qui les a découverts [[2]](#ref-2) par similitude avec les  ([A005188](https://oeis.org/A005188)) comme .
 
-Les chiffres des nombres narcissiques sont élevés à la puissance , [Baron de Münchhausen](https://fr.wikipedia.org/wiki/Baron_de Münchhausen) étant considéré comme le Narcisse ultime.
+Les chiffres des nombres narcissiques sont élevés à la puissance , [Baron de Münchhausen](w:Baron_de_Münchhausen) étant considéré comme le Narcisse ultime.
 
  
 

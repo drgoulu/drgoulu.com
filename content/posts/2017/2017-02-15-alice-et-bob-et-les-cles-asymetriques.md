@@ -17,7 +17,7 @@ A la fin de mon [article sur HTTPS](/2017/01/11/drgoulu-com-passe-en-https/), j
 
 ### Petit rappel historique
 
-Depuis l'Antiquité, [Alice et Bob](https://fr.wikipedia.org/wiki/Alice et_Bob) ont utilisé des [clefs symétriques](w:Cryptographie_symétrique) pour chiffrer et déchiffrer leurs messages secrets. La sécurité de leur transmission [chiffrée](w:chiffrement) reposait donc sur le secret de la clé : si [Trudy l'ennemie](w:Alice_et_Bob#Adversaires) arrivait à l'intercepter, c'était cuit.
+Depuis l'Antiquité, [Alice et Bob](w:Alice_et_Bob) ont utilisé des [clefs symétriques](w:Cryptographie_symétrique) pour chiffrer et déchiffrer leurs messages secrets. La sécurité de leur transmission [chiffrée](w:chiffrement) reposait donc sur le secret de la clé : si [Trudy l'ennemie](w:Alice_et_Bob#Adversaires) arrivait à l'intercepter, c'était cuit.
 
 Pourtant, [comme nous l'avions vu](/2013/03/09/alice-bob-coffre-xor/) dans un épisode précédent, il existe des méthodes étonnamment simples permettant à Alice et Bob de s'envoyer des messages indécryptables utilisant des clés qu'ils n'ont pas besoin de s'échanger. Mais si [Eve la curieuse](w:Alice_et_Bob#Adversaires) parvient à écouter les 3 messages échangés, elle peut reconstituer les clés, et c'est cuit aussi.
 

@@ -25,5 +25,5 @@ D'après le forum "[Respirer un autre fluide que l'oxygène?](http://forums.futu
 
 ### Sources:
 
-- "[plongée sous-marine](w:)" sur Wikipedia[](http://fr.wikipedia.org/wiki/Plong%C3%A9e_sous-marine#Les_gaz_inertes)
+- "[plongée sous-marine](w:)" sur Wikipedia[](w:Plong%C3%A9e_sous-marine#Les_gaz_inertes)
 - forum "[Respirer un autre fluide que l'oxygène?](http://forums.futura-sciences.com/biologie/42479-respirer-un-fluide-loxygene.html)" sur Futura-Sciences, avec infos très complètes de "fafapas"

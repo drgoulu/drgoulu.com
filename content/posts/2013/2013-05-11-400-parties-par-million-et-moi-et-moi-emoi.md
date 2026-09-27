@@ -48,7 +48,7 @@ on obtient ceci, à apprendre par coeur pour la prochaine fois:
 L'intérêt de l'équation de Kaya, c'est que les 3 fractions qui se multiplient à droite correspondent à des indicateurs économiques:
 
 - PIB/POP est le [PIB par habitant](w:)
-- TEP/PIB est l'[intensité énergétique](w:) de l'économie, qui indique combien d'énergie est utilisée pour produire le PIB [](http://fr.wikipedia.org/wiki/PIB_par_habitant)
+- TEP/PIB est l'[intensité énergétique](w:) de l'économie, qui indique combien d'énergie est utilisée pour produire le PIB [](w:PIB_par_habitant)
 - CO2/TEP est le [contenu CO2](w:) de l'énergie, sa mesure de "propreté".
 
 Et puis il y a le facteur POPulation. Or voici comment ont évolué ces 4 facteurs et leur produit (le CO2 émis donc) depuis 1971, qui est presque la date de la chanson de Dutronc (1966):
