@@ -7,7 +7,6 @@ categories:
 tags: 
   - "maths"
   - "nombres"
-  - "researchblogging"
   - "sloane"
 coverImage: "./images/6643a793eee57076e1124150e56b6ae6.png"
 ---
@@ -40,4 +39,4 @@ A suivre...
 2. <span id="ref-2"></span>"[Psychologie, mathématiques et choses connexes](http://psymath.blogspot.com/)", blog de Nicolas Gauvrit
 3. <span id="ref-3"></span>Nicolas Gauvrit, Jean-Paul Delahaye et Hector Zenil, « [Le fossé de Sloane](http://www.mathrix.org/zenil/sloane_03.pdf) », [Mathématiques et sciences humaines](http://msh.revues.org/12014), 194 | Eté 2011
 4. <span id="ref-4"></span>Nicolas Gauvrit, Jean-Paul Delahaye, Hector Zenil, "[Sloane’s Gap. Mathematical and Social Factors Explain the Distribution of Numbers in the OEIS](http://arxiv.org/abs/1101.4470)", 2011, {{< altmetric arxiv="1101.4470" >}}
-5. <span id="ref-5"></span>[![ResearchBlogging.org](./images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org) Nicolas J.-P. Gauvrit, Jean-Paul Delahaye, & Hector Zenil (2013). Sloane’s Gap: Do Mathematical and Social Factors Explain the Distribution of Numbers in the OEIS? Journal of Humanistic Mathematics, 3 (1), 3-16 {{< altmetric doi="10.5642/jhummath.201301.03" >}} _(ajouté le 19.10.2013)_
+5. <span id="ref-5"></span>Nicolas J.-P. Gauvrit, Jean-Paul Delahaye, & Hector Zenil (2013). Sloane’s Gap: Do Mathematical and Social Factors Explain the Distribution of Numbers in the OEIS? Journal of Humanistic Mathematics, 3 (1), 3-16 {{< altmetric doi="10.5642/jhummath.201301.03" >}} _(ajouté le 19.10.2013)_

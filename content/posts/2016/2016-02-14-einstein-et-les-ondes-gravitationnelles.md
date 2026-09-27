@@ -9,7 +9,6 @@ tags:
   - "einstein"
   - "physique"
   - "relativite"
-  - "researchblogging"
 coverImage: "./images/0.png"
 ---
 

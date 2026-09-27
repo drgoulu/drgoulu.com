@@ -7,7 +7,6 @@ categories:
 tags: 
   - "fluides"
   - "pseudo"
-  - "researchblogging"
   - "trou-noir"
 coverImage: "./images/2f50fa3be379ea5d67171aa270269feb.gif"
 ---
@@ -40,4 +39,4 @@ Pourtant, le résultat principal de l'article est de grande valeur : leur métho
 
 ### Référence:
 
-1. [![ResearchBlogging.org](./images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org) Haller, G., & Beron-Vera, F. J (2013). Coherent Lagrangian vortices: The black holes of turbulence Journal of Fluid Mechanics, 731 {{< altmetric doi="10.1017/jfm.2013.391" >}} [(Article pdf](http://arxiv.org/pdf/1308.2352.pdf) + [Appendices](http://journals.cambridge.org/action/displaySuppMaterial?cupCode=1&type=4&jid=FLM&volumeId=731&issueId=-1&aid=8998179))
+1. Haller, G., & Beron-Vera, F. J (2013). Coherent Lagrangian vortices: The black holes of turbulence Journal of Fluid Mechanics, 731 {{< altmetric doi="10.1017/jfm.2013.391" >}} [(Article pdf](http://arxiv.org/pdf/1308.2352.pdf) + [Appendices](http://journals.cambridge.org/action/displaySuppMaterial?cupCode=1&type=4&jid=FLM&volumeId=731&issueId=-1&aid=8998179))

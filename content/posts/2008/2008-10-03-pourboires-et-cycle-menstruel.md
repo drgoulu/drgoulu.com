@@ -9,7 +9,6 @@ tags:
   - "economie"
   - "humour"
   - "ignobel"
-  - "researchblogging"
 coverImage: "./images/9a4b749b91985103ade9dc84ffb1c4811.jpg"
 ---
 

@@ -8,7 +8,6 @@ tags:
   - "ecologisme"
   - "economie"
   - "obsolescence"
-  - "researchblogging"
 coverImage: "./images/90ef9129e3556b64ffce4779ca947b96.gif"
 ---
 
@@ -213,7 +212,7 @@ Personnellement, je pense qu'on attribue communément à l'obsolescence programm
 
 9. <span id="ref-9"></span>Alain Geldron, "[L'obsolescence programmée est-elle une stratégie répandue ?](https://www.pourlascience.fr/sd/technologie/lobsolescence-programmee-est-elle-une-strategie-repandue-7222.php)", 2013, Pour La Science No 425
 
-11. <span id="ref-11"></span>[![ResearchBlogging.org](./images/9b4815e17b204f85d8e432352b9e6ed4.png)](http://www.researchblogging.org) Jeremy Bulow (1980). An Economic Theory of Planned Obsolescence Quarterly Journal of Economics, 101 (4), 729-750 {{< altmetric doi="10.2307/1884176" >}} [(pdf)](https://faculty-gsb.stanford.edu/bulow/articles/an%20economic%20theory%20of%20planned%20obsolescence.pdf)
+11. <span id="ref-11"></span>Jeremy Bulow (1980). An Economic Theory of Planned Obsolescence Quarterly Journal of Economics, 101 (4), 729-750 {{< altmetric doi="10.2307/1884176" >}} [(pdf)](https://faculty-gsb.stanford.edu/bulow/articles/an%20economic%20theory%20of%20planned%20obsolescence.pdf)
 
 13. <span id="ref-13"></span>J. Guiltinan, "[Creative Destruction and Destructive Creations: Environmental Ethics and Planned Obsolescence](http://www.grid.unep.ch/FP2011/step1/pdf/023a_guiltinan_2009.pdf)", 2008, Journal of Business Ethics, vol. 89, no. S1, pp. 19–28, Aug. 2008.
 
