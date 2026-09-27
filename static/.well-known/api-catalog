@@ -1,0 +1,19 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://drgoulu.com/",
+      "service-doc": [
+        {
+          "href": "https://drgoulu.com/",
+          "type": "text/html"
+        }
+      ],
+      "service-desc": [
+        {
+          "href": "https://drgoulu.com/index.xml",
+          "type": "application/rss+xml"
+        }
+      ]
+    }
+  ]
+}

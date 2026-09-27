@@ -88,6 +88,18 @@ ErrorDocument 404 /404.html
     Header set Cache-Control "no-cache, must-revalidate"
   </FilesMatch>
 
+  # Découverte d'agents IA (RFC 8288 & RFC 9727)
+  <FilesMatch "\.html$">
+    Header set Link "</.well-known/api-catalog>; rel=\"api-catalog\""
+  </FilesMatch>
+  SetEnvIf Request_URI "^/(index\.html)?$" AGENT_DISCOVERY=1
+  Header set Link "</.well-known/api-catalog>; rel=\"api-catalog\"" env=AGENT_DISCOVERY
+
   # Sécurité
   Header always set X-Content-Type-Options "nosniff"
 </IfModule>
+
+# Type MIME pour le catalogue d'API agent (RFC 9727)
+<Files "api-catalog">
+  ForceType "application/linkset+json; charset=utf-8"
+</Files>
