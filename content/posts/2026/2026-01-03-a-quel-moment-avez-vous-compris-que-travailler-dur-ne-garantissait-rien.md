@@ -1,16 +1,13 @@
 ---
 title: À quel moment avez-vous compris que travailler dur ne garantissait rien ?
-slug: a-quel-moment-avez-vous-compris-que-travailler-dur-ne-garantissait-rien
-date: '2026-01-03'
+date: 2026-01-03
 draft: false
-categories:
-- Quora
 tags:
-- reflexion
-- perspective-personnelle
-- succes
-- philosophie
-- vie
+  - vie
+  - travail
+categories:
+  - Quora
+slug: a-quel-moment-avez-vous-compris-que-travailler-dur-ne-garantissait-rien
 coverImage: ./images/quora.png
 ---
 
