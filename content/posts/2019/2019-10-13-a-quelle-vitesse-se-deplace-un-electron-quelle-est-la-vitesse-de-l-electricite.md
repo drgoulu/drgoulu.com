@@ -1,16 +1,14 @@
 ---
 title: À quelle vitesse se déplace un électron ? Quelle est la vitesse de l'électricité ?
-slug: a-quelle-vitesse-se-deplace-un-electron-quelle-est-la-vitesse-de-l-electricite
-date: '2019-10-13'
+date: 2019-10-13
 draft: false
-categories:
-- Quora
 tags:
-- physique
-- sciences
-- theorie
-- vitesse
-- electricite
+  - physique
+  - vitesse
+  - electricite
+categories:
+  - Quora
+slug: a-quelle-vitesse-se-deplace-un-electron-quelle-est-la-vitesse-de-l-electricite
 coverImage: ./images/quora.png
 ---
 
