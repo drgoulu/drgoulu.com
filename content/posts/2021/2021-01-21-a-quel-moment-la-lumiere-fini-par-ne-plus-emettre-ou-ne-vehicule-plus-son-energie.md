@@ -1,16 +1,15 @@
 ---
 title: A quel moment la lumière fini par ne plus émettre ou ne véhicule plus son énergie ?
-slug: a-quel-moment-la-lumiere-fini-par-ne-plus-emettre-ou-ne-vehicule-plus-son-energie
-date: '2021-01-21'
+date: 2021-01-21
 draft: false
-categories:
-- Quora
 tags:
-- physique
-- energie
-- lumiere
-- phenomenes-physiques
-- phenomene
+  - physique
+  - lumiere
+  - relativité
+  - temps
+categories:
+  - Quora
+slug: a-quel-moment-la-lumiere-fini-par-ne-plus-emettre-ou-ne-vehicule-plus-son-energie
 coverImage: ./images/quora.png
 ---
 
