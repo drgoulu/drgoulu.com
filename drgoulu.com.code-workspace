@@ -24,6 +24,9 @@
     {
       "path": "../backlinks4hugo",
     },
+    {
+      "path": "../../Dust-as-a-solar-shield",
+    },
   ],
   "settings": {
     "git.ignoreLimitWarning": true,

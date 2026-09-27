@@ -38,7 +38,7 @@ Pour l'instant, les températures correspondent effectivement à celles atteinte
 
 On sait parfaitement où on se situe dans ces cycles par mesures astronomiques, et la vitesse du réchauffement actuel ne correspond pas du tout à ça, mais parfaitement à nos émissions de CO2.
 
-Et on sait aussi très bien comment était le climat quand il y avait 400 ppm de CO2 dans l'atmosphère. C'était au Pliocène, il y a 3 millions d'années. Soit une bonne vingtaine de glaciations…
+Et on sait aussi très bien comment était le climat quand il y avait [400 ppm](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/) de CO2 dans l'atmosphère. C'était au Pliocène, il y a 3 millions d'années. Soit une bonne vingtaine de glaciations…
 
 La température était de 2 à 4. degrés supérieure à aujourd'hui,.
 
