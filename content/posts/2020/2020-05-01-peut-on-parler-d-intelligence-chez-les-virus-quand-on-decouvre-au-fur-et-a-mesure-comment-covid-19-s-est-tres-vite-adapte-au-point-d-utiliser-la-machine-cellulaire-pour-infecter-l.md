@@ -15,6 +15,6 @@ coverImage: ./images/quora.png
 
 L'occasion de rereremontrer ma vidéo préférée sur l'évolution :
 
-[https://youtu.be/yybsSqcB7mE](https://youtu.be/yybsSqcB7mE)
+{{< youtube "yybsSqcB7mE" >}}
 
 Ca se passe en une semaine, sur 1m2, avec quelques bactéries d'une seule espèce…

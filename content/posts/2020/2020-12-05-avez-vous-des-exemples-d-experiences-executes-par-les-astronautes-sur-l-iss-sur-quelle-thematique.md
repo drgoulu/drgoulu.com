@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ma préférée est celle-ci
 
-[https://youtu.be/GK_hK2k4As0](https://youtu.be/GK_hK2k4As0)
+{{< youtube "GK_hK2k4As0" >}}

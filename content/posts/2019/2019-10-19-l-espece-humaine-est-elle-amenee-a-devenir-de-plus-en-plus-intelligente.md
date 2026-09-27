@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Pourquoi faire ? Si c'est un avantage évolutif, on deviendra plus intelligents. Mais pas forcément, comme le montre le merveilleux lancement de "idiocracy"
 
-[https://youtu.be/4ltVtbPp1wo](https://youtu.be/4ltVtbPp1wo)
+{{< youtube "4ltVtbPp1wo" >}}
 
 L'évolution ne suit pas de plan. Elle travaille au hasard et favorise ce qui marche.

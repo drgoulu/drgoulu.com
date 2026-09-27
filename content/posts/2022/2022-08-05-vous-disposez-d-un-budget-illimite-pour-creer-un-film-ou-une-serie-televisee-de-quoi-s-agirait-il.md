@@ -17,7 +17,7 @@ Il y a eu plusieurs projets d'adaptation, mais aucun ne s'est concrétisé, hél
 
 Quelqu'un a fait cette intro qui me donne à chaque fois le vertige :
 
-[https://youtu.be/sR2296df-bc](https://youtu.be/sR2296df-bc)
+{{< youtube "sR2296df-bc" >}}
 
 Ce qui fait que ce roman dépasse le Space opéra :
 

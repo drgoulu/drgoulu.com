@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Vous voulez dire une chute libre sur un astre, verticale et sans vitesse initiale, comme le marteau et la plume sur la Lune ?
 
-[https://youtu.be/WgxkSvr7qMM?si=...](https://youtu.be/WgxkSvr7qMM?si=AracO04CFcdLAr3r)
+{{< youtube "WgxkSvr7qMM" >}}
 
 Non, les deux objets se rapprochent, pour deux raisons :
 

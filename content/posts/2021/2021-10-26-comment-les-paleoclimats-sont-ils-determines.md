@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Une technique assez incroyable est le "thermomètre isotopique" à oxygène.
 
-[https://youtu.be/9lTuoKXkC18](https://youtu.be/9lTuoKXkC18)
+{{< youtube "9lTuoKXkC18" >}}

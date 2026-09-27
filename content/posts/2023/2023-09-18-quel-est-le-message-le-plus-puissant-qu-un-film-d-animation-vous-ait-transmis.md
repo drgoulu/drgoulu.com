@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quel-est-le-message-le-plus-puissant-qu-un-film-d-animation-vous-ait-transmis/answer/Dr-Goulu)*
 
-[https://youtu.be/teKygneXkX8?si=...](https://youtu.be/teKygneXkX8?si=lKro4tatMN5jspJ0)
+{{< youtube "teKygneXkX8" >}}
 
 Le premier film que j'ai vu, au cinéma à 5 ans.
 

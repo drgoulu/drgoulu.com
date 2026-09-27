@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Vous pouvez aussi aller dans une région polaire, et là plus besoin de courir
 
-[https://youtu.be/ndlQNicOeso](https://youtu.be/ndlQNicOeso)
+{{< youtube "ndlQNicOeso" >}}
 
 [Combien dure un jour - Pourquoi Comment Combien](/2013/08/11/combien-dure-un-jour/)

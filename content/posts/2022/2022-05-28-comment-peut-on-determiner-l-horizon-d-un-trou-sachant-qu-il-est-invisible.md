@@ -22,4 +22,4 @@ La masse d'un trou noir est déterminée par la 3ème loi de Kepler à partir de
 
 Par exemple pour le trou noir central de la Voie lactée , c'est [l'étoile S2](w:S2_(étoile))qui a permis de trouver que [Sagittarius A*](w:)fait dans les 4 millions de masses solaires.
 
-[https://youtu.be/495OIRMV-1c](https://youtu.be/495OIRMV-1c)
+{{< youtube "495OIRMV-1c" >}}

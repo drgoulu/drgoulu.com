@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce qu'on a des fossiles avec écailles
 
-[https://youtu.be/CehqV3lfayA](https://youtu.be/CehqV3lfayA)
+{{< youtube "CehqV3lfayA" >}}

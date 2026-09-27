@@ -36,7 +36,7 @@ Au points L1, L2 ou L3, la sonde peut orbiter toute seule dans un plan perpendic
 
 Ceci est le cas du téléscope spatial James Web en L2, dont l'orbite est calculée pour que ses panneaux solaires soient alimentés, mais que son bouclier thermique le protège aussi du rayonnement terrestre
 
-[https://youtu.be/6cUe4oMk69E?si=...](https://youtu.be/6cUe4oMk69E?si=lCjLp9aKE6OwCHB2)
+{{< youtube "6cUe4oMk69E" >}}
 
 Ajout suite à commentaire de [Yodus Dumbleda](https://fr.quora.com/profile/Yodus-Dumbleda) : en fait L4 et L5 sont stables parce que tout ça tourne !
 

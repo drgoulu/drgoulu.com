@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Y-a-t-il-une-exp%C3%A9rience-scientifique-qui-d%C3%A9montre-que-le-centre-de-gravit%C3%A9-se-d%C3%A9place-en-fonction-de-la-masse/answer/Dr-Goulu)*
 
-[https://youtu.be/z6yvzry1ClM?si=...](https://youtu.be/z6yvzry1ClM?si=nsikwksVhH6rM3kx)
+{{< youtube "z6yvzry1ClM" >}}

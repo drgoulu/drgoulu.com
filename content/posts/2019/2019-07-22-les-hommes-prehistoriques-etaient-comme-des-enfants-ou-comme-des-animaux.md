@@ -26,7 +26,7 @@ Ces espèces connaissaient la technologie (essayez de faire une pointe de lance 
 
 Il faut bien comprendre que l'évolution humaine depuis notre ancêtre commun avec le chimpanzé a pris 8 MILLIONS d'années, et que malgré ça nos cousins arrivent à nous battre à plate couture aux jeux video :
 
-[https://youtu.be/JkNV0rSndJ0](https://youtu.be/JkNV0rSndJ0)
+{{< youtube "JkNV0rSndJ0" >}}
 
 ( [Mémoire eidétique - Pourquoi Comment Combien](/2008/06/04/memoire-eidetique/) )
 

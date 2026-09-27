@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il n'y a pas eu de premiers humains sur Terre.
 
-[https://youtu.be/xdWLhXi24Mo](https://youtu.be/xdWLhXi24Mo)
+{{< youtube "xdWLhXi24Mo" >}}

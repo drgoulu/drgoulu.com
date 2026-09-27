@@ -66,4 +66,4 @@ Pour me faire pardonner de bloquer les commentaires, je termine avec une superbe
 
 > Les victimes innocentes d'un camp ne diminuent pas celles de l'autre, elle s'ajoutent.
 
-[https://youtu.be/PCyZbem80gE?si=...](https://youtu.be/PCyZbem80gE?si=kHLmzBfsx6sL0KG9)
+{{< youtube "PCyZbem80gE" >}}

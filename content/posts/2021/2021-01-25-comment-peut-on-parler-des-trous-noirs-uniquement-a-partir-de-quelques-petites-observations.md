@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Parmi les "petites observations", il y a celle là :
 
-[https://youtu.be/u_gggKHvfGw](https://youtu.be/u_gggKHvfGw)
+{{< youtube "u_gggKHvfGw" >}}
 
 Vous voyez la région centrale de notre galaxie, ou plusieurs étoiles décrivent des orbites autour de… Rien
 

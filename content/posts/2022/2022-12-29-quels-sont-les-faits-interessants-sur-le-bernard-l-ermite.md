@@ -15,4 +15,4 @@ La chaîne d'échange des coquilles !
 
 Pas seulement intéressant, c'est juste Incroyable.
 
-[https://youtu.be/LN4heY49lu8](https://youtu.be/LN4heY49lu8)
+{{< youtube "LN4heY49lu8" >}}

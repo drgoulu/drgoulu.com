@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui, l'univers n'a pas besoin de quelque chose dans quoi s'étendre.
 
-[https://youtu.be/_kO2kp9je5o?si=...](https://youtu.be/_kO2kp9je5o?si=dyD9B7HoQCzhp8h3)
+{{< youtube "_kO2kp9je5o" >}}

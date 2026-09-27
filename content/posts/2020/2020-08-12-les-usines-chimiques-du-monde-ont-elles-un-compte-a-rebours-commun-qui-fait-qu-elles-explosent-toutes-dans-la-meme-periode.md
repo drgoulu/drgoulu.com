@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Les-usines-chimiques-du-monde-ont-elles-un-compte-%C3%A0-rebours-commun-qui-fait-qu-elles-explosent-toutes-dans-la-m%C3%AAme-p%C3%A9riode/answer/Dr-Goulu)*
 
-[https://youtu.be/sYU_eDMr4xE](https://youtu.be/sYU_eDMr4xE)
+{{< youtube "sYU_eDMr4xE" >}}

@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Vous voulez parler de ça ?
 
-[https://youtu.be/JkNV0rSndJ0?si=...](https://youtu.be/JkNV0rSndJ0?si=ZIxj4Z1qGcZLSKeo)
+{{< youtube "JkNV0rSndJ0" >}}
 
 > Les auteurs de l’étude initiale supposent que la mémoire eidétique résulte de l’évolution dans les sociétés de singes, et que la plupart des hommes auraient perdu cette faculté au profit d’autres, comme le langage.
 >

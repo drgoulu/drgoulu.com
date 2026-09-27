@@ -17,6 +17,6 @@ Ils sont tous en développement plus ou moins rapide, suivant des trajectoires t
 
 Le regretté Hans Rosling montre ça très bien dans ses conférences, notamment [celle-ci](https://youtu.be/YpKbO6O3O3M?si=ChdCILgk_PKQPL5e)
 
-[https://youtu.be/YpKbO6O3O3M?si=...](https://youtu.be/YpKbO6O3O3M?si=ChdCILgk_PKQPL5e)
+{{< youtube "YpKbO6O3O3M" >}}
 
 Donc : patience. L'Afrique est le prochain eldorado.

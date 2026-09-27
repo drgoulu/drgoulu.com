@@ -15,4 +15,4 @@ Absolument. Pour vos exemples on parlerait plutôt d'infini [dénombrable](w:Ens
 
 Cette vidéo explique ceci avec l'exemple célébre de l'[Hôtel de Hilbert](w:).
 
-[https://youtu.be/N_cDA6tF-40](https://youtu.be/N_cDA6tF-40)
+{{< youtube "N_cDA6tF-40" >}}

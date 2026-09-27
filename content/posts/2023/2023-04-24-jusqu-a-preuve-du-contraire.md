@@ -21,4 +21,4 @@ Idem pour les théories des cordes, qui sont devenues si nombreuses que certains
 
 Une des approches les plus actives actuellement est [La gravité quantique à boucles](https://scienceetonnante.com/2016/09/02/la-gravite-quantique-a-boucles/). David a fait une superbe vidéo à ce sujet, après une thèse de doctorat dans ce sujet.
 
-[https://youtu.be/3MJJvXGuDag](https://youtu.be/3MJJvXGuDag)
+{{< youtube "3MJJvXGuDag" >}}

@@ -26,7 +26,7 @@ Grâce à cet algorithme on a pu montrer que le jeu de la vie pouvait réaliser 
 
 et puisqu'on peut réaliser un ordinateur en jeu de la vie, on peut faire ça :
 
-[https://youtu.be/wkOEeQsKEvU](https://youtu.be/wkOEeQsKEvU)
+{{< youtube "wkOEeQsKEvU" >}}
 
 non vous ne rêvez pas, c'est le jeu de la vie simulé dans le jeu de la vie …
 

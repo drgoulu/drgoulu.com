@@ -19,6 +19,6 @@ Remarquez que Ferrari ou Lamborghini ne font pas de pub tv non plus…
 
 Mais il y a quand même des pubs tv pour moto, la plus géniale étant celle-ci :
 
-[https://youtu.be/ZQWipQ302Sc](https://youtu.be/ZQWipQ302Sc)
+{{< youtube "ZQWipQ302Sc" >}}
 
 (oui oui, ça n'a pas l'air mais c'est bien celle là…)

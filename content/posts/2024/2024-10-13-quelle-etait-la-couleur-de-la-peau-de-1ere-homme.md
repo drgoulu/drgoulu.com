@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Il n'y a pas eu de premier homme.
 
-[https://youtu.be/xdWLhXi24Mo?si=...](https://youtu.be/xdWLhXi24Mo?si=MKa5ytwCucGsN1Ci)
+{{< youtube "xdWLhXi24Mo" >}}
 
 La [Couleur de la peau humaine](w:)change très vite (20`000 ans), elle a changé plusieurs fois au cours de l'évolution et des migrations humaines.
 

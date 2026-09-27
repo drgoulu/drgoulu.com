@@ -15,4 +15,4 @@ Ah mais vous n'avez absolument rien à prouver, je suis totalement convaincu. Mo
 
 Mais on peut remonter encore beaucoup plus haut.
 
-[https://youtu.be/xdWLhXi24Mo](https://youtu.be/xdWLhXi24Mo)
+{{< youtube "xdWLhXi24Mo" >}}

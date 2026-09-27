@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Ah ouais, un riff de Eddie Van Halen, ça détruit tout, les météorites n'ont aucune chance :
 
-[https://youtu.be/M4Czx8EWXb0?si=...](https://youtu.be/M4Czx8EWXb0?si=YM2YzWc-v6J_kAlX)
+{{< youtube "M4Czx8EWXb0" >}}
 
 Quelques conseils d'ami :
 

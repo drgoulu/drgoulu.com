@@ -15,4 +15,4 @@ coverImage: ./images/quora.png
 
 Le plus petit fait 80m3 et on ne peut pas faire plus petit.
 
-[https://youtu.be/n784qHE5R7c](https://youtu.be/n784qHE5R7c)
+{{< youtube "n784qHE5R7c" >}}

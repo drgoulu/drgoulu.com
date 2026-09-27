@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 L'eau est très légèrement [Diamagnétique](w:Diamagnétisme) donc on risquerait de ressembler à cette grenouille soumise à un champ de 16 Tesla:
 
-[https://youtu.be/A1vyB-O5i6E](https://youtu.be/A1vyB-O5i6E)
+{{< youtube "A1vyB-O5i6E" >}}
 
 La grenouille n'a pas été blessée, sinon [Andre Geim](w:)n'aurait pas reçu le prix IgNobel de physique en 2000 pour cette performance.
 

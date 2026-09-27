@@ -19,4 +19,4 @@ Les galaxies sont aplaties parce qu'elles sont produites par l'effondrement d'un
 
 Simulation avec un très gros ordinateur
 
-[https://youtu.be/O674AZ_UKZk](https://youtu.be/O674AZ_UKZk)
+{{< youtube "O674AZ_UKZk" >}}

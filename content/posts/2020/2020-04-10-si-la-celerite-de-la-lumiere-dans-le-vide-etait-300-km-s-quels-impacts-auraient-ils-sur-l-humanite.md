@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 1. l’univers n’existerait pas car les atomes, voir les particules ne seraient pas stables
 2. mais s’il existait quand même ça ressemblerait à celui du jeu [A Slower Speed of Light](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
 
-[https://youtu.be/uu7jA8EHi_0](https://youtu.be/uu7jA8EHi_0)
+{{< youtube "uu7jA8EHi_0" >}}

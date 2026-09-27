@@ -15,7 +15,7 @@ Je ne suis pas sur de comprendre la question, mais elle me fait penser aux [Powe
 
 Voiici l'original :
 
-[https://youtu.be/0fKBhvDjuy0](https://youtu.be/0fKBhvDjuy0)
+{{< youtube "0fKBhvDjuy0" >}}
 
 il montre que la nature semble structurée et "solide" uniquement à notre échelle et environs disons entre un nanomètre et 1 milliard de kilomètres pour englober de grosses étoiles et rester symétrique. 10^{-9} à 10^9 : 18 ordres de grandeur, même pas la moitié des 44 que nous connaissons aujourd'hui.
 

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Il existe de bons cours en ligne, par exemple
 
-[https://youtu.be/DtJAwfouGfY](https://youtu.be/DtJAwfouGfY)
+{{< youtube "DtJAwfouGfY" >}}
 
 Faire beaucoup d'exercices, parce qu en vidéo tout est simple, on croit avoir compris…

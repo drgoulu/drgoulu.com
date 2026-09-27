@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Essayez encore en clignant des yeux TRES vite
 
-[https://youtu.be/EtsXgODHMWk](https://youtu.be/EtsXgODHMWk)
+{{< youtube "EtsXgODHMWk" >}}

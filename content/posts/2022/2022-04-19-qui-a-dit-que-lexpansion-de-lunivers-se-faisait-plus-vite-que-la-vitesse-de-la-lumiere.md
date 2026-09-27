@@ -20,7 +20,7 @@ Personne. L'expansion de l'univers ne donne pas vraiment une vitesse aux galaxie
 
 Voir
 
-[https://youtu.be/lms2jQeHnVs](https://youtu.be/lms2jQeHnVs)
+{{< youtube "lms2jQeHnVs" >}}
 
 Pour la nuance.
 

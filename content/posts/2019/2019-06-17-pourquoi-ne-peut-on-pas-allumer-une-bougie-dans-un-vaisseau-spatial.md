@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 On peut, mais elle brûle mal car en apesanteur il n'y a pas de mouvements de convection qui amènent de l'oxygène à la flamme.
 
-[https://youtu.be/BxxqCLxxY3M](https://youtu.be/BxxqCLxxY3M)
+{{< youtube "BxxqCLxxY3M" >}}

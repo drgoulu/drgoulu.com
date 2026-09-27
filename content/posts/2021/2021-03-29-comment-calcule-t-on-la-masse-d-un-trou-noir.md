@@ -22,7 +22,7 @@ qui permet de calculer la masse M de l'astre central, le trou noir dans notre ca
 
 Exemple avec l'[étoile S2](w:S2_(étoile)) qui orbite autour de SagA*, le trou noir central de notre galaxie, où il se passe ça (en plusieurs années, voir le calendrier qui défile en haut):
 
-[https://youtu.be/495OIRMV-1c](https://youtu.be/495OIRMV-1c)
+{{< youtube "495OIRMV-1c" >}}
 
 S2 orbite en T=16.0518 ans et a=0.12540 parsec. En unités physiques on a:
 

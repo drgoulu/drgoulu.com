@@ -23,7 +23,7 @@ Il y a plein de documentaires de vulgarisation spécifiques à plein d'espèces.
 
 Une très courte et très parlante est [cette expérience](https://youtu.be/plVk4NVIUh8?si=MeFPBtjWpGerBy1d) qui montre l'adaptation des bactéries aux antibiotiques
 
-[https://youtu.be/plVk4NVIUh8?si=...](https://youtu.be/plVk4NVIUh8?si=MeFPBtjWpGerBy1d)
+{{< youtube "plVk4NVIUh8" >}}
 
 Sinon vous pouvez lire la fabuleuse histoire de la [Phalène du bouleau sur Wikipédia](w:Phalène_du_bouleau)
 

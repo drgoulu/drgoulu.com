@@ -36,7 +36,7 @@ Mais puisque la question concerne **un exemple**, je vais en donner un très con
 
 C'est Hans Rosling qui explique ceci en montrant que le fossé entre les pays développés et l'ex "Tiers-Monde" s'est comblé par le développement économique des [BRICS](w:):
 
-[https://youtu.be/yAP09ITNWN4](https://youtu.be/yAP09ITNWN4)
+{{< youtube "yAP09ITNWN4" >}}
 
 Notes de bas de page
 

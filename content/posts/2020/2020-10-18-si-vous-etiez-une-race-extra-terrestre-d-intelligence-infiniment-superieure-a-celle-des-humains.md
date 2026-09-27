@@ -11,6 +11,6 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Si-vous-%C3%A9tiez-une-race-extra-terrestre-d-intelligence-infiniment-sup%C3%A9rieure-%C3%A0-celle-des-humains-Pour-partager-le-secret-de-votre-visite-sur-terre-et-vos-technologies-vous-choisiriez-le/answer/Dr-Goulu)*
 
-[https://youtu.be/sYU_eDMr4xE](https://youtu.be/sYU_eDMr4xE)
+{{< youtube "sYU_eDMr4xE" >}}
 
 Je détruirais la Terre, ou du moins les humains. Tôt ou tard il y aura conflit entre espèces en croissance exponentielle, je ne peux pas prendre ce risque.

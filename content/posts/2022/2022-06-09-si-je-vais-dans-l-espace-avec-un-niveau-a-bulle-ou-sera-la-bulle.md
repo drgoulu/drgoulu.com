@@ -15,7 +15,7 @@ N'importe où en fonction des mouvements (accélérations) que vous aurez fait f
 
 Et si vous le secouez trop, il va se passer ceci :
 
-[https://youtu.be/tLCeAD6Z6FI](https://youtu.be/tLCeAD6Z6FI)
+{{< youtube "tLCeAD6Z6FI" >}}
 
 Les bulles d'air vont se retrouver n'importe où dans l'eau (et vice versa) car aucune poussée d'Archimède ne va les séparer.
 

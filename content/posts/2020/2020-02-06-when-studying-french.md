@@ -18,6 +18,6 @@ Well that’s not very surprising since 29% of English words come from French an
 
 Ever heard a French scientist speaking English by translating almost word to word ? Check for example The Nobel Prize talk given by Michel Mayor (who is Swiss, by the way…)
 
-[https://youtu.be/Vgt88xw6iG0](https://youtu.be/Vgt88xw6iG0)
+{{< youtube "Vgt88xw6iG0" >}}
 
 To me, English looks like a simplified French …

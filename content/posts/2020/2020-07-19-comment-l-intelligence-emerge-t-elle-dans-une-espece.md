@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Il y a plusieurs travaux qui proposent de définir et de mesurer l'intelligence par la capacité à anticiper ce qui va se produire. Les corbeaux peuvent sortir une noix d'un labyrinthe en évitant de la pousser dans des voies sans issues ou piégées, idem pour les poulpes notamment. Les grands singes et cétacés organisent des techniques de chasse avec un objectif à plusieurs minutes. Ma préférée est celle-ci :
 
-[https://youtu.be/gghKo4HTVDk](https://youtu.be/gghKo4HTVDk)
+{{< youtube "gghKo4HTVDk" >}}
 
 Les humains peuvent planifier leurs actions sur plusieurs heures (enfants) ou jours, semaines, voire mois (adultes).
 

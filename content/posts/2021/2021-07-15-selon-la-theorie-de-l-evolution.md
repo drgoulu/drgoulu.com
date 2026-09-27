@@ -19,7 +19,7 @@ Vos cousins germains ont le même degré de parenté avec vos grands-parents com
 
 Tout comme vous n'êtes pas plus évolué que vos cousins, vous n'êtes pas plus évolué que les chimpanzés. Vous êtes peut-être plus doué pour réfléchir et parler, mais pour survivre dans la jungle et en [mémoire eidétique](/2008/06/04/memoire-eidetique/) , vous êtes nul.
 
-[https://youtu.be/JkNV0rSndJ0](https://youtu.be/JkNV0rSndJ0)
+{{< youtube "JkNV0rSndJ0" >}}
 
 Tout comme vos cousins vont vivre leur vie et avoir leur propre descendance, les chimpanzés vont suivre leur propre évolution, ou disparaître, ou devenir une espèce technologique si nous disparaissons, mais ils ne deviendront jamais humains car nous sommes le résultat de notre propre évolution. SI nous ne disparaissons pas, nous continuerons à évoluer en nous adaptant à notre environnement, ou même à nos environnements puisque nous nous sommes répandus sur toute la planète.
 

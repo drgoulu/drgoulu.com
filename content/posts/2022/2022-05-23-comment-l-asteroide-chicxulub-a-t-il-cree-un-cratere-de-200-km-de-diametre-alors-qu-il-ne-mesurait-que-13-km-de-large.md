@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Comme ça
 
-[https://youtu.be/f9tySQsUokc](https://youtu.be/f9tySQsUokc)
+{{< youtube "f9tySQsUokc" >}}
 
 Référence [Dynamic fault weakening and the formation of large impact craters](https://www.sciencedirect.com/science/article/abs/pii/S0012821X09005172)
 

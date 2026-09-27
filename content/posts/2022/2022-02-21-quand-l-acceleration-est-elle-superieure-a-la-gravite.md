@@ -15,7 +15,7 @@ Ah j'ai un cas génial d'objet qui "tombe plus vite que la gravité" !
 
 Regardez ces deux chaînes identiques en chute libre filmées à haute vitesse. Celle qui heurte la table est plus accélérée vers le bas que l'autre :
 
-[https://youtu.be/i9gLi4pBgpk](https://youtu.be/i9gLi4pBgpk)
+{{< youtube "i9gLi4pBgpk" >}}
 
 Référence et explications ici :
 

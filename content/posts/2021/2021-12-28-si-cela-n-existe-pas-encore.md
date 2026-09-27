@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Ça existe déjà
 
-[https://youtu.be/7wFEYnRVjc0](https://youtu.be/7wFEYnRVjc0)
+{{< youtube "7wFEYnRVjc0" >}}
 
 La F1 et le GP moto ont toujours de l'avenir parce que les pilotes risquent leur vie, et que la plèbe aime ça depuis Ben Hur.
 

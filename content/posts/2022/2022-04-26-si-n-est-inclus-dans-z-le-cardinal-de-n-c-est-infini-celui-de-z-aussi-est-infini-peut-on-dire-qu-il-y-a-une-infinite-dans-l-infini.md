@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Vous êtes mûr pour
 
-[https://youtu.be/N_cDA6tF-40](https://youtu.be/N_cDA6tF-40)
+{{< youtube "N_cDA6tF-40" >}}

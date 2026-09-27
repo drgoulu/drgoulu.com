@@ -24,7 +24,7 @@ Ensuite j'ai appris les [Équations de Maxwell](w:) et tout ce qu'il faut savoir
 
 Quand on connait tout ça, on peut faire de la magie[[1]](#yhhqS) :
 
-[https://youtu.be/AJ7fMVp_O5s](https://youtu.be/AJ7fMVp_O5s)
+{{< youtube "AJ7fMVp_O5s" >}}
 
 > Toute technologie suffisamment avancée est indiscernable de la magie
 >

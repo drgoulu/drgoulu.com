@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Ce n'est pas intuitif du tout, comme le montre notamment "l'hôtel de Hilbert"
 
-[https://youtu.be/N_cDA6tF-40](https://youtu.be/N_cDA6tF-40)
+{{< youtube "N_cDA6tF-40" >}}
 
 Mais le fait qu'on puisse toujours trouver un nombre plus grand que le plus grand nombre auquel on puisse penser est une bonne introduction à cette notion.

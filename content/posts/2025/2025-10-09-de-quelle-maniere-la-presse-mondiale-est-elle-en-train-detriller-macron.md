@@ -17,4 +17,4 @@ Vous l'avez élu, il essaie de faire son boulot mais c'est mission impossible av
 
 En Suisse on n'étrille pas Macron, on compatit.
 
-[https://youtu.be/ql9JkICds3g?si=...](https://youtu.be/ql9JkICds3g?si=ZylCkv4ChZ2Oqu-x)
+{{< youtube "ql9JkICds3g" >}}

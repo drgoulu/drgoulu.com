@@ -20,7 +20,7 @@ coverImage: ./images/quora.png
 
 Avec l' [Hypothèse de l'impact géant](w:)dominante actuellement, des simulations telles que celle ci-dessous montrent que quelques dizaines d heures seulement ont suffi à former une Lune "en un seul morceau" :
 
-[https://youtu.be/BoU9OA92trA](https://youtu.be/BoU9OA92trA)
+{{< youtube "BoU9OA92trA" >}}
 
 Ensuite la Lune a été recouverte d'un [Océan magmatique](w:Océan_magmatique_lunaire)qui a mis environ 200 millions d'années à se solidifier, probablement encore bombardé d'impacteurs de diverses tailles.
 

@@ -48,7 +48,7 @@ Arrêtez d'ajouter des lois vous en avez plus qu'assez. Essayez d'en enlever pou
 
 Petit morceau d'anthologie : [Bayrou et le code du travail Suisse](https://youtu.be/8edUganBrNg?si=BsMyEpUbQzwbZkrr)
 
-[https://youtu.be/8edUganBrNg?si=...](https://youtu.be/8edUganBrNg?si=BsMyEpUbQzwbZkrr)
+{{< youtube "8edUganBrNg" >}}
 
 Notes de bas de page
 

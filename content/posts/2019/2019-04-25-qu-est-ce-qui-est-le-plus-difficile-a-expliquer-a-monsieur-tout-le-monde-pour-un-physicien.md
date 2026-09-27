@@ -20,7 +20,7 @@ Par exemple “pourquoi des aimants se repoussent”.
 
 regardez la peine qu’a Richard Feynman, Prix Nobel de Physique et pédagogue hors pair d’expliquer ça à un journaliste :
 
-[https://youtu.be/MO0r930Sn_8](https://youtu.be/MO0r930Sn_8)
+{{< youtube "MO0r930Sn_8" >}}
 
 En fait il élude la question en commençant par demander “qu’entendez-vous par pourquoi ?”, et en continuant par expliquer que le “pourquoi” dépend des connaissances de la personne qui pose la question.
 

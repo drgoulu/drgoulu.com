@@ -21,4 +21,4 @@ Ce sont des [Paradisiers noirs](w:Paradisier_noir). Si on veut chipoter, leur pl
 
 En video :
 
-[https://youtu.be/XWjx6oSgC4M](https://youtu.be/XWjx6oSgC4M)
+{{< youtube "XWjx6oSgC4M" >}}

@@ -28,4 +28,4 @@ Les "rares accidents" ([Enjambement](w:Enjambement_(génétique)), recombinaison
 
 Je mets toujours le même [exemple d'évolution tellement rapide qu'on peut le filmer](https://youtu.be/plVk4NVIUh8?si=pvaE9GroeEMZleuq) :
 
-[https://youtu.be/plVk4NVIUh8?si=...](https://youtu.be/plVk4NVIUh8?si=pvaE9GroeEMZleuq)
+{{< youtube "plVk4NVIUh8" >}}

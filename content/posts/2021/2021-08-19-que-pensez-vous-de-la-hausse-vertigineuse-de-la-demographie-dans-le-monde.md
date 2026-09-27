@@ -15,4 +15,4 @@ du moment qu'elle est causée en grande partie par l'allongement de l'espérance
 
 C'est montré de manière magnifique par Hans Rosling dans cette conférence, à partir de 10:00 si vous êtes pressé, mais je vous encourage à la regarder en entier
 
-[https://youtu.be/ezVk1ahRF78](https://youtu.be/ezVk1ahRF78)
+{{< youtube "ezVk1ahRF78" >}}

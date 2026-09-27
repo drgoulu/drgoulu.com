@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Voir le magnifique [cartoon de Bowling for Columbine](https://youtu.be/58BDrZH7SX8?si=B9QWvqlEC0fzeSUB) sur la "culture de la peur" :
 
-[https://youtu.be/58BDrZH7SX8?si=...](https://youtu.be/58BDrZH7SX8?si=B9QWvqlEC0fzeSUB)
+{{< youtube "58BDrZH7SX8" >}}
 
 Certains ayatollahs créent de véritables régimes de terreur, d'autres dictateurs liquident les opposants dont ils ont peur. Aux USA il suffit de cultiver la peur enracinée dans la population pour leur faire gober n'importe quoi.

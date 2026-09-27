@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Bien sur. Il suffit d'observer notre cousin Ayumu en plein travail :
 
-[https://youtu.be/JkNV0rSndJ0](https://youtu.be/JkNV0rSndJ0)
+{{< youtube "JkNV0rSndJ0" >}}
 
 Cette expérience japonaise
 

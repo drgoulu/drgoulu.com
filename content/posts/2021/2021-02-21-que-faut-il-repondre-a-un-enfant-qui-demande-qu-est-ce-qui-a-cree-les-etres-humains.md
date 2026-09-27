@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Montrez lui cette vidéo (helas en anglais, mais il y a des sous-titres en français
 
-[https://youtu.be/xdWLhXi24Mo](https://youtu.be/xdWLhXi24Mo)
+{{< youtube "xdWLhXi24Mo" >}}

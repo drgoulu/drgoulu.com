@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Commencez par montrer que c'est le cas, on répondra ensuite.
 
-[https://youtu.be/_6n9e23WPUk?si=...](https://youtu.be/_6n9e23WPUk?si=lgGRET4ZkoOMZis0)
+{{< youtube "_6n9e23WPUk" >}}

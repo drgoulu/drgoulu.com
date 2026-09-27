@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Non, le frottement dans l'air les limite à 50km/h environ [[1]](#pyyAB)
 
-[https://youtu.be/PHxvMLoKRWg](https://youtu.be/PHxvMLoKRWg)
+{{< youtube "PHxvMLoKRWg" >}}
 
 Notes de bas de page
 

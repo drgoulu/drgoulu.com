@@ -22,4 +22,4 @@ Les toutes petites inhomogénéités locales ont produit des [Protogalaxies](w:P
 
 Cette video montre une simulation de la formation d'une galaxie à partir d'un nuage de gaz presque homogène :
 
-[https://youtu.be/O674AZ_UKZk?si=...](https://youtu.be/O674AZ_UKZk?si=KpmEY6XRXxDNGnPv)
+{{< youtube "O674AZ_UKZk" >}}

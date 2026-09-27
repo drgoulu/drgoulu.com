@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Il la rate en permanence.
 
-[https://youtu.be/x-9_3ccju7U](https://youtu.be/x-9_3ccju7U)
+{{< youtube "x-9_3ccju7U" >}}
 
 Autrement dit c'est la vitesse du satellite, naturel ou artificiel, qui est suffisamment élevée pour qu'il ne tombe pas.
 

@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Ce n'est pas le cas. Ils fonctionnent aussi sur les grenouilles :
 
-[https://youtu.be/A1vyB-O5i6E](https://youtu.be/A1vyB-O5i6E)
+{{< youtube "A1vyB-O5i6E" >}}
 
 Tous les matériaux ont une [Susceptibilité magnétique](w:), mais certains en ont une plusieurs millions de fois supérieure à d'autres.
 

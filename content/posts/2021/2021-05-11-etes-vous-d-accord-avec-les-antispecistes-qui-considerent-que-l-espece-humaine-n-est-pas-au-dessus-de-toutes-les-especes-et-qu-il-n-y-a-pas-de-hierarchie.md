@@ -24,4 +24,4 @@ J'admire toutes ces espèces pour ce qu'elles ont réussi à accomplir, et je ma
 
 J'ai fait cette petite capture de [Lifemap](http://lifemap.univ-lyon1.fr/explore.html) (trop rapide…) pour nous remettre à notre place:
 
-[https://youtu.be/ZtHFC7DcCVU](https://youtu.be/ZtHFC7DcCVU)
+{{< youtube "ZtHFC7DcCVU" >}}

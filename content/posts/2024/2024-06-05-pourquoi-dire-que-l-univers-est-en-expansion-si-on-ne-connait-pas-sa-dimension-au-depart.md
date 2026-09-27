@@ -29,4 +29,4 @@ Il faut bien comprendre que l'univers ne s'étend pas "dans quelque chose", c'es
 
 David Louapre explique ça très bien dans cette video :
 
-[https://youtu.be/_kO2kp9je5o?si=...](https://youtu.be/_kO2kp9je5o?si=B2YSGtVfcVnUJZp8)
+{{< youtube "_kO2kp9je5o" >}}

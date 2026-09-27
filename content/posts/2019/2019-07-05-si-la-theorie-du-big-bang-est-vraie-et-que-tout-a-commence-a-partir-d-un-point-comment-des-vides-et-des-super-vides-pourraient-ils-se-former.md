@@ -37,4 +37,4 @@ Elle montre des variations de température inférieures à 1/10'000 ème de degr
 
 Le projet [Illustris](http://www.illustris-project.org/) a réalisé des simulations de cette phase
 
-[https://youtu.be/NjSFR40SY58](https://youtu.be/NjSFR40SY58)
+{{< youtube "NjSFR40SY58" >}}

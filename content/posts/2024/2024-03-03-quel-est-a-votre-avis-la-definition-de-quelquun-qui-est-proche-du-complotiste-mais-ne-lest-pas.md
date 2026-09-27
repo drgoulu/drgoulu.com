@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Un sacheur.
 
-[https://youtu.be/KWp7usESwvU?si=...](https://youtu.be/KWp7usESwvU?si=cIyby5kP41d4vD41)
+{{< youtube "KWp7usESwvU" >}}

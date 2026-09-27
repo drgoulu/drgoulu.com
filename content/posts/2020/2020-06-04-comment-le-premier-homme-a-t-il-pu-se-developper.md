@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-le-premier-homme-a-t-il-pu-se-d%C3%A9velopper/answer/Dr-Goulu)*
 
-[https://youtu.be/xdWLhXi24Mo](https://youtu.be/xdWLhXi24Mo)
+{{< youtube "xdWLhXi24Mo" >}}

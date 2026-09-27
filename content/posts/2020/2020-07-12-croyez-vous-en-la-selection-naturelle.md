@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non. C'est un fait expérimental, alors la question d'y croire ou pas ne se pose pas : je sais que ce phénomène est à la base de la diversité de la vie.
 
-[https://youtu.be/plVk4NVIUh8](https://youtu.be/plVk4NVIUh8)
+{{< youtube "plVk4NVIUh8" >}}

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 merci Archimède pour ces belles images :
 
-[https://youtu.be/4os6issnLhs](https://youtu.be/4os6issnLhs)
+{{< youtube "4os6issnLhs" >}}

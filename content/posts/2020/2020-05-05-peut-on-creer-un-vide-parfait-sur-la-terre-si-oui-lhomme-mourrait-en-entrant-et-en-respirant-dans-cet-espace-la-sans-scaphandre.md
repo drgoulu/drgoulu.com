@@ -15,4 +15,4 @@ Le vide n'a pas besoin d'être "parfait" pour qu'on ne puisse pas respirer.
 
 Sur cette vidéo vous pouvez voir une (vieille) chambre à vide pour tester les combinaisons spatiales, et l'accident qui est arrivé à Jim Leblanc, un ingénieur qui a été soudain exposé au vide quelques secondes.
 
-[https://youtu.be/KO8L9tKR4CY](https://youtu.be/KO8L9tKR4CY)
+{{< youtube "KO8L9tKR4CY" >}}

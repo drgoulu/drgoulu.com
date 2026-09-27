@@ -19,4 +19,4 @@ Reste la question : pourquoi l'air dans le train n'est pas "plaqué au fond"?
 
 Et bien il l'est, comme le montre cette magnifique expérience.
 
-[https://youtu.be/y8mzDvpKzfY](https://youtu.be/y8mzDvpKzfY)
+{{< youtube "y8mzDvpKzfY" >}}

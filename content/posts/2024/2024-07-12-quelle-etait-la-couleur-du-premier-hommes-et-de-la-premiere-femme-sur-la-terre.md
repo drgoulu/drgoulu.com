@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il n'y a pas eu de premier homme ni de première femme. C'est en anglais, mais vous allez comprendrez quand même
 
-[https://youtu.be/xdWLhXi24Mo?si=...](https://youtu.be/xdWLhXi24Mo?si=Y1uWbLFSAPIb4jKp)
+{{< youtube "xdWLhXi24Mo" >}}

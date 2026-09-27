@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 En marchant, comme le raconte la légende.
 
-[https://youtu.be/KwklAaPYzjk](https://youtu.be/KwklAaPYzjk)
+{{< youtube "KwklAaPYzjk" >}}
 
 [La technique à été reproduite](https://youtu.be/KwklAaPYzjk) par des d'archéologues et les résultats sont cohérents avec la forme de la base de la statue, les encoches pour les yeux, et les moais abandonnés après un chute lors du transport.
 

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Toutes et tous. Le Tiers-Monde n'existe plus.
 
-[https://youtu.be/KVhWqwnZ1eM](https://youtu.be/KVhWqwnZ1eM)
+{{< youtube "KVhWqwnZ1eM" >}}

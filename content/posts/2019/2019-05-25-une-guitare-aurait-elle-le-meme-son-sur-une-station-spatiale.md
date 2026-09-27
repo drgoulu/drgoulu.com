@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Réponse en images
 
-[https://youtu.be/AvAnfi8WpVE](https://youtu.be/AvAnfi8WpVE)
+{{< youtube "AvAnfi8WpVE" >}}

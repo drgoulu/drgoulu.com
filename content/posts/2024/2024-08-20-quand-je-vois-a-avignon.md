@@ -19,4 +19,4 @@ Le monde change vite. La France aussi. Et vous ?
 
 Notes de bas de page
 
-[[1]](#cite-RLHLL)[https://youtu.be/RUwS1uAdUcI?si=...](https://youtu.be/RUwS1uAdUcI?si=XeKvZwIRDc3oB5oR)
+[[1]](#cite-RLHLL){{< youtube "RUwS1uAdUcI" >}}

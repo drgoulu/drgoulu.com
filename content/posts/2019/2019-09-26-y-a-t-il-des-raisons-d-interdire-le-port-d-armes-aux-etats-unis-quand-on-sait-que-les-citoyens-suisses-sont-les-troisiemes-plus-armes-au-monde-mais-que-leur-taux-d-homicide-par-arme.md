@@ -15,7 +15,7 @@ Ce que je trouve intéressant dans le graphique illustrant l'article [List of co
 
 On voit que ce n'est pas un problème d'armes, mais de culture. Les USA ont une culture de la peur, merveilleusement illustrée dans le film Bowling for Columbine de Michael Moore:
 
-[https://youtu.be/lGYFRzf2Xww](https://youtu.be/lGYFRzf2Xww)
+{{< youtube "lGYFRzf2Xww" >}}
 
 En Europe nous n'avons pas cette culture.
 

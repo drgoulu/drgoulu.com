@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 L'article [Evolutionary musicology - Wikipedia](w:en:Evolutionary_musicology) est intéressant et bien développé. J'y ai appris que Darwin mentionnait déjà ce sujet dans [La Filiation de l'homme et la sélection liée au sexe](w:), notant notamment que les gibbons chantent
 
-[https://youtu.be/MSmg48orZqI](https://youtu.be/MSmg48orZqI)
+{{< youtube "MSmg48orZqI" >}}

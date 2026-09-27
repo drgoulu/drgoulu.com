@@ -22,7 +22,7 @@ Non, ça résulte de l'observation de millions d'étoiles et de leur positionnem
 
 Il y a une extraordinaire video qui montre l'établissement du diagramme en triant simplement les étoiles d'une photo de Hubble par couleur puis par luminosité :
 
-[https://youtu.be/mY2edzGYWyU](https://youtu.be/mY2edzGYWyU)
+{{< youtube "mY2edzGYWyU" >}}
 
 Yapluka expliquer pourquoi les étoiles forment ce diagramme bizarre alors qu'elles ne se distinguent que par leur masse et leur âge (qui fait varier leur composition) …
 

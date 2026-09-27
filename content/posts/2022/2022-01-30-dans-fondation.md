@@ -17,4 +17,4 @@ Elle est souvent involontaire, notamment par défaut de lubrification. C'est arr
 
 Mais c'est aussi utilisé volontairement, principalement pour le "bonding" des puces avec des fils d'or. Il suffit d appuyer le fil sur une surface dorée ou de silicium très propre pour qu'il se soude
 
-[https://youtu.be/P0qYilCqi3I](https://youtu.be/P0qYilCqi3I)
+{{< youtube "P0qYilCqi3I" >}}

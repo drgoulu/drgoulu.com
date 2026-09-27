@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Le convertir aux drogues légales peut-être ?
 
-[https://youtu.be/d4JMep1LcJo](https://youtu.be/d4JMep1LcJo)
+{{< youtube "d4JMep1LcJo" >}}

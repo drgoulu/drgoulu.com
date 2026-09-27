@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Comme ça ?
 
-[https://youtu.be/jgAB9pqRTM8?si=...](https://youtu.be/jgAB9pqRTM8?si=VZ1U3Sb51ZxHdPGR)
+{{< youtube "jgAB9pqRTM8" >}}
 
 Il suffit d'un fort vent de face…

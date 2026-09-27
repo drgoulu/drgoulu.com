@@ -19,4 +19,4 @@ coverImage: ./images/quora.png
 
 La magie est réelle : c'est de la technologie pas comprise.
 
-[https://youtu.be/AJ7fMVp_O5s](https://youtu.be/AJ7fMVp_O5s)
+{{< youtube "AJ7fMVp_O5s" >}}

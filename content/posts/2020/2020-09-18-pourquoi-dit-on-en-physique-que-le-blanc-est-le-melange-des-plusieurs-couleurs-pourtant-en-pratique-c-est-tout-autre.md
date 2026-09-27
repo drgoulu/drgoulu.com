@@ -15,6 +15,6 @@ Parce que vous pensez à la [Synthèse soustractive](w:)qui se produit avec des 
 
 Mais il existe une autre manière tout à fait pratique de "faire du blanc" : le disque de Newton
 
-[https://youtu.be/ctpbmnT_vgc](https://youtu.be/ctpbmnT_vgc)
+{{< youtube "ctpbmnT_vgc" >}}
 
 Physiquement, le "blanc" est en effet un spectre très large de longueurs d'ondes couvrant celui de toutes les couleurs

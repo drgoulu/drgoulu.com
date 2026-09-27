@@ -28,4 +28,4 @@ Ce ne sont que des programmes, mais ils sont meilleurs que vous.
 
 Regardez la tête de Lee Sedol battu au go par une machine qui a "inventé" plusieurs coups jamais vus dans l'histoire :
 
-[https://youtu.be/WXuK6gekU1Y](https://youtu.be/WXuK6gekU1Y)
+{{< youtube "WXuK6gekU1Y" >}}

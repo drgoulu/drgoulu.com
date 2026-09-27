@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Non, c'est assez facile de s'imaginer un monde fini sans limite. Il suffit de jouer à Asteroids :
 
-[https://youtu.be/WYSupJ5r2zo](https://youtu.be/WYSupJ5r2zo)
+{{< youtube "WYSupJ5r2zo" >}}
 
 Ou a d'autres jeux à monde sphérique ou torique, et d'imaginer la même chose en 3D.
 

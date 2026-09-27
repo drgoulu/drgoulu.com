@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 La grue à réaction ? Ah oui ça c'est un problème cool !
 
-[https://youtu.be/4czjS9h4Fpg](https://youtu.be/4czjS9h4Fpg)
+{{< youtube "4czjS9h4Fpg" >}}

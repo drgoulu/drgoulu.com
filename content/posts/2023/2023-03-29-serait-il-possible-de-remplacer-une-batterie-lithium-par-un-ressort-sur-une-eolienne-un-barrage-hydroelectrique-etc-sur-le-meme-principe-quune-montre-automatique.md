@@ -26,7 +26,7 @@ Ce n'est pas pour rien que les montres connectées ne sont pas automatiques, mê
 
 On peut aussi le voir avec la géniale "automobile de Léonard" (de Vinci) qui était propulsée par des ressorts et a été reconstituée (avec de l'acier ressort moderne…) : elle a une autonomie de quelques secondes. Assez pour épater un roi de l'époque mais aujourd'hui n'imorte quel gamin a une voiture télécommandée 100x mieux.
 
-[https://youtu.be/FIkizxqkPmI](https://youtu.be/FIkizxqkPmI)
+{{< youtube "FIkizxqkPmI" >}}
 
 Pour les barrages, 1 litre d'eau qui descend de 400m fournit (e=m.g.h) environ 4 kJ, disons 3 avec les pertes et on se retrouve avec la même densité d'énergie que notre ressort en nanotubes de carbones qui n'existent pas encore, mais avec de la bête eau qui se trouve par millions de m3 à la pelle…
 

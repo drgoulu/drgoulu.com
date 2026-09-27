@@ -22,7 +22,7 @@ Je réfléchis à comment compléter ma réponse mais je ne vois pas que dire de
 
 On sait faire et expliquer ça :
 
-[https://youtu.be/AJ7fMVp_O5s](https://youtu.be/AJ7fMVp_O5s)
+{{< youtube "AJ7fMVp_O5s" >}}
 
 On sait pourquoi les étoiles à neutrons et les trous noirs ont des champs magnétiques très intenses alors qu'ils n'ont quasi plus de charges électriques.
 

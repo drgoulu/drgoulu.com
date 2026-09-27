@@ -17,4 +17,4 @@ La vitesse max est atteinte quand elle quitte la raquette, après elle freine à
 
 Il suffit de mesurer la distance parcourue par la balle entre deux images d'une video par exemple
 
-[https://youtu.be/VHV1YbeznCo?si=...](https://youtu.be/VHV1YbeznCo?si=B4X3SJQHr1q9HAIN)
+{{< youtube "VHV1YbeznCo" >}}

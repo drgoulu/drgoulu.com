@@ -25,6 +25,6 @@ Et ils sont tous approximatifs:
 
 Ceci est le résultat des effondrements de nuages de gaz en conservant le moment cinétique. Voilà ce que ça donne en simulation :
 
-[https://youtu.be/IFfNQ6V01j8?fea...](https://youtu.be/IFfNQ6V01j8?feature=shared)
+{{< youtube "IFfNQ6V01j8" >}}
 
 Le nuage de gaz homogène du départ est exactement celui produit par le Big Bang.

@@ -13,11 +13,11 @@ coverImage: ./images/quora.png
 
 Il y a effectivement une génération talentueuse, vous avez oublié Yann Marguet (mon sketch préféré:)
 
-[https://youtu.be/KWp7usESwvU?si=...](https://youtu.be/KWp7usESwvU?si=NaIsH0edS0HJ7nyC)
+{{< youtube "KWp7usESwvU" >}}
 
 Thomas Wiesel (mon sketch préféré)
 
-[https://youtu.be/PCyZbem80gE?si=...](https://youtu.be/PCyZbem80gE?si=WA2EDA91SlXXd6BX)
+{{< youtube "PCyZbem80gE" >}}
 
 L'imitateur Yann Lambiel et bien d'autres.
 

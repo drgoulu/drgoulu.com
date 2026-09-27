@@ -22,7 +22,7 @@ Vous voulez quoi ? Battre des ailes comme les oiseaux ? Calculez la puissance qu
 
 Avec beaucoup d'entraînement vous arriverez peut-être à vous arracher à 3m de haut pendant 1 min en fournissant entre 1100 et 600 watts comme ça:
 
-[https://youtu.be/syJq10EQkog](https://youtu.be/syJq10EQkog)
+{{< youtube "syJq10EQkog" >}}
 
 Bon, là les ailes tournent et le gars pédale, parce que c'est plus efficace que de battre des bras pour nous, mais on peut avec 100% de propulsion humaine. Et du carbone. Et du kevlar.
 

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 [Celle là](https://youtu.be/plVk4NVIUh8), reproductible en laboratoire en 11 jours :
 
-[https://youtu.be/plVk4NVIUh8](https://youtu.be/plVk4NVIUh8)
+{{< youtube "plVk4NVIUh8" >}}

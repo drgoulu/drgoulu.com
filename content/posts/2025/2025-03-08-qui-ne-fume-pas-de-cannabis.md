@@ -15,4 +15,4 @@ Moi. Jamais été tenté de fumer quoi que ce soit. J'aime mon cerveau et mes po
 
 [Même Coluche avait clairement averti sur les dangers du cannabis.](https://youtu.be/d4JMep1LcJo?si=lR98jrwwjND9PpTz)
 
-[https://youtu.be/d4JMep1LcJo?si=...](https://youtu.be/d4JMep1LcJo?si=lR98jrwwjND9PpTz)
+{{< youtube "d4JMep1LcJo" >}}

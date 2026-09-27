@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui, presque en temps réel même.
 
-[https://youtu.be/yybsSqcB7mE](https://youtu.be/yybsSqcB7mE)
+{{< youtube "yybsSqcB7mE" >}}

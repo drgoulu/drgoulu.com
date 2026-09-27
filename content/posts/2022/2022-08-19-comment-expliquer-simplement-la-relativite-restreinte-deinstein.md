@@ -19,6 +19,6 @@ Le plus simplement possible :
 
 La meilleure explication que je connaisse en français est cette video
 
-[youtu.be/JTaMfufMl1o](http://youtu.be/JTaMfufMl1o)
+{{< youtube "JTaMfufMl1o" >}}
 
 [lien pour ceux qui ne peuvent pas la voir ici](https://youtu.be/JTaMfufMl1o)

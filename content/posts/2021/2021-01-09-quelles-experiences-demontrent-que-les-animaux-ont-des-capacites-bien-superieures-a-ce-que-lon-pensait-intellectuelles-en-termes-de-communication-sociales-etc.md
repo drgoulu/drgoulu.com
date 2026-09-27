@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Celle-ci :
 
-[https://youtu.be/JkNV0rSndJ0](https://youtu.be/JkNV0rSndJ0)
+{{< youtube "JkNV0rSndJ0" >}}
 
 Regardez bien parce que ça va si vite qu'on ne comprend pas forcément : mon cousin Ayumu appuie sur les cases qui cachent les chiffres de 1 à 9 dans l ordre après ne les avoir vu qu'une fraction de seconde.
 

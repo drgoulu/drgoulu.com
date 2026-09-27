@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Leçon par De Niro:
 
-[https://youtu.be/t7aMkW2Ilx8?si=...](https://youtu.be/t7aMkW2Ilx8?si=Huj7cISWdsghjhFJ)
+{{< youtube "t7aMkW2Ilx8" >}}
 
 Mais ça finit mal… Allez voir un psy.

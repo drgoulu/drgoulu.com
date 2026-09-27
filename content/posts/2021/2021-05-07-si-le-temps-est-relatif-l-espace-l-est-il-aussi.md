@@ -15,4 +15,4 @@ Oui, la relativité décrit l'[Espace-temps](w:) comme une seule "chose" à 4 di
 
 Notamment, à haute vitesse l'[espace se contracte](w:Contraction_des_longueurs) dans la direction du déplacement du même facteur que le temps se contracte. Cette vidéo explique ça assez bien :
 
-[https://youtu.be/JTaMfufMl1o](https://youtu.be/JTaMfufMl1o)
+{{< youtube "JTaMfufMl1o" >}}

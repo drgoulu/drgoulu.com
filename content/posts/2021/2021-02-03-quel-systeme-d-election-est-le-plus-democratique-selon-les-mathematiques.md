@@ -50,4 +50,4 @@ est une variante plus sophistiquée permettant d'indiquer un ordre de préféren
 
 Lê a consacré plusieurs vidéos à ce système, si ça vous intéresse :
 
-[https://youtu.be/wKimU8jy2a8](https://youtu.be/wKimU8jy2a8)
+{{< youtube "wKimU8jy2a8" >}}

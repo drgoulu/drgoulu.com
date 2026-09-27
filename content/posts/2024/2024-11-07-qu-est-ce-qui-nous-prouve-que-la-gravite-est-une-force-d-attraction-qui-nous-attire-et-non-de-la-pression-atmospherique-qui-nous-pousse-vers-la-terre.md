@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Une chambre à vide
 
-[https://youtu.be/EJN4GrScwW8?si=...](https://youtu.be/EJN4GrScwW8?si=JCxbO6kha9ktlsM-)
+{{< youtube "EJN4GrScwW8" >}}

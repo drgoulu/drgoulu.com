@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Vous parlez de ça ?
 
-[https://youtu.be/Kj038P9LhqY](https://youtu.be/Kj038P9LhqY)
+{{< youtube "Kj038P9LhqY" >}}
 
 On ne filme évidemment pas un seul photon mais une impulsion laser qui en contient une multitude, donc certains sont diffusés par l'air ambiant vers la caméra.
 

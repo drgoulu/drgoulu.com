@@ -17,4 +17,4 @@ Si la biologie avait permis le développement d'organes tournants, les oiseaux a
 
 Mais pour la performance technique, on sait faire
 
-[https://youtu.be/nnR8fDW3Ilo](https://youtu.be/nnR8fDW3Ilo)
+{{< youtube "nnR8fDW3Ilo" >}}

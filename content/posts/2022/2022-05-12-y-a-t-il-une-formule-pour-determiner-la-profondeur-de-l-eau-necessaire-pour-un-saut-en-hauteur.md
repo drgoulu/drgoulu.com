@@ -15,4 +15,4 @@ Le grand dauphin arrive à sauter à 7m de hauteur avec 2m d'eau environ.
 
 Darren Taylor alias [Professor Splash](w:en:Professor_Splash)arrive à sauter de 11m50 dans 30cm d'eau seulement, mais il a besoin d'une échelle pour monter ;-)
 
-[https://youtu.be/ZCFBC8aXz-g](https://youtu.be/ZCFBC8aXz-g)
+{{< youtube "ZCFBC8aXz-g" >}}

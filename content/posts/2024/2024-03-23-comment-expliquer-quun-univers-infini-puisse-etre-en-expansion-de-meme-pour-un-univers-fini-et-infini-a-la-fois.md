@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 La meilleure explication est celle donnée par David Louapre de Science Etonnante
 
-[https://youtu.be/_kO2kp9je5o?si=...](https://youtu.be/_kO2kp9je5o?si=E0BTaHB96Rxy3hiv)
+{{< youtube "_kO2kp9je5o" >}}

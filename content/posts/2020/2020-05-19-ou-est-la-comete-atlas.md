@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 [C/2019 Y4 (ATLAS)](w:) s'est brisée en 4 gros morceaux et au moins une vingtaine de petits, photographiés par Hubble:
 
-[https://youtu.be/poeqny9K-WM](https://youtu.be/poeqny9K-WM)
+{{< youtube "poeqny9K-WM" >}}
 
 En ce moment elle est visible entre la Girafe et Orion.

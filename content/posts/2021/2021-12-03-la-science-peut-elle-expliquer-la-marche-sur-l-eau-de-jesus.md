@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 La science s'intéresse aux phénomènes reproductibles. Il faudrait donc qu'il le refasse. Comme lui :
 
-[https://youtu.be/ydk0EnUbnjk](https://youtu.be/ydk0EnUbnjk)
+{{< youtube "ydk0EnUbnjk" >}}

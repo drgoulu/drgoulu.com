@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Ca:
 
-[https://youtu.be/GKcuiQx3Sl4](https://youtu.be/GKcuiQx3Sl4)
+{{< youtube "GKcuiQx3Sl4" >}}
 
 Dans l'espace on meurt "simplement" d'asphyxie.

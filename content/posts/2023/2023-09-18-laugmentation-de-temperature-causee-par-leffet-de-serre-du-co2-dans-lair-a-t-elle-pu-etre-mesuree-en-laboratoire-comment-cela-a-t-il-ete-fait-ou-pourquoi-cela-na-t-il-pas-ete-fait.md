@@ -20,4 +20,4 @@ Vérifier ceci est à la portée de n'importe qui avec du matériel de cuisine e
 
 [Petite video](https://www.youtube.com/watch?v=_8W6BikafE4)
 
-[https://youtu.be/_8W6BikafE4?si=...](https://youtu.be/_8W6BikafE4?si=T25lQsy8gQyg_FVt)
+{{< youtube "_8W6BikafE4" >}}

@@ -30,7 +30,7 @@ Ensuite on a détecté beaucoup d'autres [Binaires X](w:Binaire_X) dont certaine
 
 Dans notre Voie Lactée, on a découvert [Sagittarius A*](w:)grace aux étoiles qui orbitent autour de lui à une vitesse incroyable, notamment l' [étoile S2](w:S2_(étoile))
 
-[https://youtu.be/u_gggKHvfGw](https://youtu.be/u_gggKHvfGw)
+{{< youtube "u_gggKHvfGw" >}}
 
 Toutes ces observations et bien d'autres prouvent que les calculs de Mitchell et les nombreux autres théoriciens après lui sont non seulement justes, mais correspondent à la réalité.
 

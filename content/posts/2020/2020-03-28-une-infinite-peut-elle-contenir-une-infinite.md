@@ -15,4 +15,4 @@ Oui, et même plus ;-)
 
 Regardez ça :
 
-[https://youtu.be/N_cDA6tF-40](https://youtu.be/N_cDA6tF-40)
+{{< youtube "N_cDA6tF-40" >}}

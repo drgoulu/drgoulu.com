@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Est-ce-qu-un-objet-qui-absorbe-100-de-la-lumi%C3%A8re-et-qui-%C3%A0-l-inverse-en-%C3%A9met-0-peut-il-%C3%AAtre-visible/answer/Dr-Goulu)*
 
-[https://youtu.be/9v0_fID_jvA](https://youtu.be/9v0_fID_jvA)
+{{< youtube "9v0_fID_jvA" >}}

@@ -22,6 +22,6 @@ Historiquement, l'[Effet papillon](w:) a été mentionné par Edward Lorenz lors
 
 Ceci fait qu'une minuscule perturbation, si elle se produit au bon moment, peut faire "bifurquer" le système d'un mode à l'autre.
 
-[https://youtu.be/wgPrso3_DMs](https://youtu.be/wgPrso3_DMs)
+{{< youtube "wgPrso3_DMs" >}}
 
 Certains travaux récents montrent cependant que la vraie météo est moins chaotique que les équations de Lorenz, et qu'en réalité un battement d'ailes de papillon ne suffit pas à déclencher un cyclone.

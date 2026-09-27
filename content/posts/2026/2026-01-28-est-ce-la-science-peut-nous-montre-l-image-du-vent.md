@@ -15,7 +15,7 @@ Oui
 
 [https://www.onera.fr/fr/actualit...](https://www.onera.fr/fr/actualites/la-dgv-ou-la-photographie-des-vitesses-par-laser)
 
-[https://youtu.be/GrCoBbkwY6U?si=...](https://youtu.be/GrCoBbkwY6U?si=zztGWQO8lC1fXbth)
+{{< youtube "GrCoBbkwY6U" >}}
 
 [https://drgoulu.com/2010/01/27/u...](/2010/01/27/un-vent-de-haute-technologie/)
 

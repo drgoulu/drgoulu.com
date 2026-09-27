@@ -17,4 +17,4 @@ Question stupide, mais réponse incroyable trouvée en 30 secondes grâce à Goo
 
 [https://www.recordholders.org/fr...](https://www.recordholders.org/fr/list/backwards-running.html)
 
-[https://youtu.be/lUQSMs5X0w4?si=...](https://youtu.be/lUQSMs5X0w4?si=pMZa3V-mXW0fsvq5)
+{{< youtube "lUQSMs5X0w4" >}}

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ce n est pas le nombre, c'est le manque de contrôle et un problème culturel bien illustré dans Bowling for Columbine.
 
-[https://youtu.be/ZIkbiLIo4mw](https://youtu.be/ZIkbiLIo4mw)
+{{< youtube "ZIkbiLIo4mw" >}}

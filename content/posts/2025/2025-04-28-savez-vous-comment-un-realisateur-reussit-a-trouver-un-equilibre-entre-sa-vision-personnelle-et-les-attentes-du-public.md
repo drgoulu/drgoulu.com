@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Comme l'explique très bien le cinéaste Suisse Tommy Kung dans [cet interview](https://youtu.be/HzNXOrdQto0?si=Jv6ZQSwczCcEoWJ-) :
 
-[https://youtu.be/HzNXOrdQto0?si=...](https://youtu.be/HzNXOrdQto0?si=Jv6ZQSwczCcEoWJ-)
+{{< youtube "HzNXOrdQto0" >}}
 
 vous devez choisir entre faire un film pour le public , ou faire un film pour votre mère.

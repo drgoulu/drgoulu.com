@@ -22,4 +22,4 @@ On part d'une sorte d'eprouvette en PET qui a déjà le filetage pour le bouchon
 
 Et tout ça fonctionne à une cadence de malade, 6 bouteille par seconde sur la machine que je connais, et celle ci a l'air d'aller encore plus vite
 
-[https://youtu.be/eyiu18DsItk](https://youtu.be/eyiu18DsItk)
+{{< youtube "eyiu18DsItk" >}}

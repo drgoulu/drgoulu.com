@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Non. Plein d'animaux ont une pensée (terme restant à définir clairement), un niveau d'abstraction suffisant pour réussir le [Test du miroir](w:)ou des tests nécessitant de planifier une succession d'actions dans un but futur par exemple.
 
-[https://youtu.be/3Aecbc-rIro?si=...](https://youtu.be/3Aecbc-rIro?si=tQVFGLYUEP5vHYYm)
+{{< youtube "3Aecbc-rIro" >}}
 
 Les bébés humains ne sont pas capables de ça avant 18 mois environ.

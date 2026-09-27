@@ -26,4 +26,4 @@ Donc il n'y a rien à croire. C'est un type qui connaît des trucs pour vous ép
 
 Je pense que les prestidigitateurs de tous types pourraient /devraient jouer un plus grand rôle dans la lutte contre les charlatans et autres adeptes de parapsychologie, comme l'a fait le regretté [James Randi](w:)dont je ne recommanderai jamais assez la présentation au TED
 
-[https://youtu.be/c0Z7KeNCi7g](https://youtu.be/c0Z7KeNCi7g)
+{{< youtube "c0Z7KeNCi7g" >}}

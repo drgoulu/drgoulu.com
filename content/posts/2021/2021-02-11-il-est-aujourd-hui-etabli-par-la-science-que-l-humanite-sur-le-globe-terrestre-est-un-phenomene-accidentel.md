@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il n'y a pas eu de "premier homme", et ses parents étaient de la même espèce que lui.
 
-[https://youtu.be/xdWLhXi24Mo](https://youtu.be/xdWLhXi24Mo)
+{{< youtube "xdWLhXi24Mo" >}}

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce qu'ils boivent moins que leurs parents
 
-[https://youtu.be/w8Oa70HmXVU](https://youtu.be/w8Oa70HmXVU)
+{{< youtube "w8Oa70HmXVU" >}}

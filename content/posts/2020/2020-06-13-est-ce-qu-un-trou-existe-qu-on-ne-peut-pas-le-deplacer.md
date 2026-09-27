@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Beep-beep et les électroniciens le peuvent :
 
-[https://youtu.be/bFNx7YFwFfI](https://youtu.be/bFNx7YFwFfI)
+{{< youtube "bFNx7YFwFfI" >}}
 
 [Trou d'électron — Wikipédia](w:Trou_d'électron)

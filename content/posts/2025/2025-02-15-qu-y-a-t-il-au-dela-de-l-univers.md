@@ -15,7 +15,7 @@ L'Univers n'a pas de limite car, comme vous le dites bien, il y aurait alors que
 
 Le fait que l'Univers soit en expansion n'implique pas qu'il y ait une limite. Vous connaissez le jeu Astéroïds ?
 
-[https://youtu.be/BgloG8yt-jA?si=...](https://youtu.be/BgloG8yt-jA?si=kBeCuI5pGo1l6Be1)
+{{< youtube "BgloG8yt-jA" >}}
 
 L'univers de ce jeu est torique, il n'a pas de bord, pas de limite.
 

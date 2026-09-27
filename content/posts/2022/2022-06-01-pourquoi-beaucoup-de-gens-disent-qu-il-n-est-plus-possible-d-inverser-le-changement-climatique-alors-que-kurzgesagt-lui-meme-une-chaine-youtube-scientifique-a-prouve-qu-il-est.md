@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Vous voulez parler de cette vidéo ?
 
-[https://youtu.be/LxgMdjyw8uw](https://youtu.be/LxgMdjyw8uw)
+{{< youtube "LxgMdjyw8uw" >}}
 
 ?
 

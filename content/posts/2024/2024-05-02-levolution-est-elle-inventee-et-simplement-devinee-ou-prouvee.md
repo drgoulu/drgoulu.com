@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Prouvée
 
-[https://youtu.be/plVk4NVIUh8?si=...](https://youtu.be/plVk4NVIUh8?si=ehJI4J9cVl6wFayR)
+{{< youtube "plVk4NVIUh8" >}}

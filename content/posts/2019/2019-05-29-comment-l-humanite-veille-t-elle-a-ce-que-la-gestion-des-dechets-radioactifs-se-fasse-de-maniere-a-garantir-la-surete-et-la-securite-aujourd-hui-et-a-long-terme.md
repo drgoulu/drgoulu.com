@@ -25,7 +25,7 @@ Si ce sujet vous intéresse, vous recommande vivement:
 1. d'aller visiter le laboratoire de l'ANDRA à Bure, proche du futur site Cigéo. C'est vraiment très intéressant[[2]](#vHgIF)
 2. de voir le documentaire finlandais “[Into Eternity](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=Into_Eternity_(film))” dont voici le lancement. Il est fait par un indépendant et focalise sur les aspects humains, vraiment très bien.
 
-[https://youtu.be/81wZs7la8dc](https://youtu.be/81wZs7la8dc)
+{{< youtube "81wZs7la8dc" >}}
 
 Cela dit, je suis pour ma part persuadé qu'on utilisera ces "déchets" . Ils sont gorgés d'énergie, et il existe des possibilités de les "incinérer": réacteurs à sels fondus au thorium, surgénérateurs, ou réacteurs dédiés[[3]](#HscKe) . Il faut donc que les dépôts soient "réversibles" le temps que ces solutions s'imposent.
 

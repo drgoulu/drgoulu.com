@@ -18,19 +18,19 @@ coverImage: ./images/quora.png
 
 Ils fusionnent comme montré dans cette simulation
 
-[https://youtu.be/I_88S8DWbcU](https://youtu.be/I_88S8DWbcU)
+{{< youtube "I_88S8DWbcU" >}}
 
 [Simulation : fusion de deux trous noirs](https://www.apod.tv/collection/simulation-fusion-de-deux-trous-noirs)
 
 Avec la visualisation des ondes gravitationnelles émises lors de l'événement GW190412 détectée par LIGO ça donne ça :
 
-[https://youtu.be/5AkT4bPk-00](https://youtu.be/5AkT4bPk-00)
+{{< youtube "5AkT4bPk-00" >}}
 
 © N. Fischer, H. Pfeiffer, A. Buonanno (*Max Planck Institute for Gravitational Physics*), *Simulating eXtreme Spacetimes project*.
 
 Ces simulations ne montrent pas les disques d'accrétion des trous noirs. Celle là oui:
 
-[https://youtu.be/i2u-7LMhwvE](https://youtu.be/i2u-7LMhwvE)
+{{< youtube "i2u-7LMhwvE" >}}
 
 source : [New Simulation Sheds Light on Spiraling Supermassive Black Holes](https://www.nasa.gov/feature/goddard/2018/new-simulation-sheds-light-on-spiraling-supermassive-black-holes)
 

@@ -20,7 +20,7 @@ C'est une certitude : pas demain mais dans quatre milliards d'années la [Collis
 
 Ca va ressembler à ça :
 
-[https://youtu.be/kvyeP_bI4bc](https://youtu.be/kvyeP_bI4bc)
+{{< youtube "kvyeP_bI4bc" >}}
 
 Dans cette gigantesque réunion d'au moins 200 milliards d'étoiles, il est extrêmement peu probable que des collisions d'étoiles se produisent, à fortiori de planètes.
 

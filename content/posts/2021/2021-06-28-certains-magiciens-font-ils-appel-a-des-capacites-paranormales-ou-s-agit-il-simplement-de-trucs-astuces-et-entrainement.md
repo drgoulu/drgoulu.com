@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Aucun n'a pu prendre un[Million de Dollars](w:One_Million_Dollar_Paranormal_Challenge) à [James Randi](w:), dont j'ai eu le plaisir de traduire l'excellente présentation au TED
 
-[https://youtu.be/c0Z7KeNCi7g](https://youtu.be/c0Z7KeNCi7g)
+{{< youtube "c0Z7KeNCi7g" >}}
 
 Chaque fois que quelqu'un vous montre un pouvoir "paranormal", demandez-vous en quoi c'est différent d'un excellent tour de prestidigitation. En général la réponse est : rien.
 

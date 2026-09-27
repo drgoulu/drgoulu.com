@@ -14,6 +14,6 @@ coverImage: ./images/quora.png
 
 You might like [A Slower Speed of Light](http://gamelab.mit.edu/games/a-slower-speed-of-light/), a video game by the MIT game lab that simulates exactly that
 
-[https://youtu.be/TCz7oIzcpBE](https://youtu.be/TCz7oIzcpBE)
+{{< youtube "TCz7oIzcpBE" >}}
 
 I really hope someone will make a new version of it…

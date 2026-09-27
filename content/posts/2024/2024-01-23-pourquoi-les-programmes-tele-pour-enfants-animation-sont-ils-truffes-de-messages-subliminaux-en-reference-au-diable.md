@@ -13,9 +13,9 @@ coverImage: ./images/quora.png
 
 Maintenant que vous le dites, j'ai commencé à aimer le death metal après avoir regardé les Bisounours avec mes filles…La relation est frappante :
 
-[https://youtu.be/_tuqrgAPLD8?fea...](https://youtu.be/_tuqrgAPLD8?feature=shared)
+{{< youtube "_tuqrgAPLD8" >}}
 
-[https://youtu.be/Tk1Y1HL_IcY?si=...](https://youtu.be/Tk1Y1HL_IcY?si=rsQeoQcRJJ0Qk7vU)
+{{< youtube "Tk1Y1HL_IcY" >}}
 
 Je vais immédiatement arrêter de regarder les Bisounours.
 

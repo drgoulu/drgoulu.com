@@ -17,4 +17,4 @@ Les kangourous sont ainsi très rapides et ils peuvent franchir des buissons ou 
 
 Mais quand ils broutent tranquillement ils peuvent marcher à 4 pattes en s'aidant de leur queue, ce qui nécessite probablement moins d'energie
 
-[https://youtu.be/WaZ_EMrK1yE](https://youtu.be/WaZ_EMrK1yE)
+{{< youtube "WaZ_EMrK1yE" >}}

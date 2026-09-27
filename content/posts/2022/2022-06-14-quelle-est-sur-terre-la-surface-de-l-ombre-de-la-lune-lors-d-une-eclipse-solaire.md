@@ -17,4 +17,4 @@ Les calculs sont là : [La géométrie des éclipses de Soleil](https://media4.o
 
 et les images ici :
 
-[https://youtu.be/2i4PJWCNBaM](https://youtu.be/2i4PJWCNBaM)
+{{< youtube "2i4PJWCNBaM" >}}

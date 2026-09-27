@@ -26,4 +26,4 @@ Alors lisez, informez-vous. Il n'y a plus beaucoup de mystères sur les Mayas de
 
 Regardez cet excellent documentaire.
 
-[https://youtu.be/QL5W2USQCsk?si=...](https://youtu.be/QL5W2USQCsk?si=ckuuCOL67Hi_dFVH)
+{{< youtube "QL5W2USQCsk" >}}

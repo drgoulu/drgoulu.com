@@ -19,7 +19,7 @@ Alors voilà : vous tenez beaucoup plus longtemps que ce que disent les autres r
 
 D'abord vous n'explosez pas, et vos poumons ne pètent pas. La preuve : [Jim le Blanc n'est pas mort lorsque ça lui est arrivé en 1965](https://youtu.be/KO8L9tKR4CY) :
 
-[https://youtu.be/KO8L9tKR4CY](https://youtu.be/KO8L9tKR4CY)
+{{< youtube "KO8L9tKR4CY" >}}
 
 et des chimpanzés n'ont eu aucune séquelle à long terme après plusieurs minutes d'exposition au vide sans respirateur ( [Survival in Space Unprotected Is Possible--Briefly](https://www.scientificamerican.com/article/survival-in-space-unprotected-possible) )
 

@@ -37,7 +37,7 @@ C'est le cas du Soleil (Classe G, magnitude 4.74). Le [Cycle solaire](w:) de 11 
 
 Sur le diagramme HR, ne manquez pas cette extraordinaire video qui le construit à partir d'une image de Hubble, en "triant" les étoiles :
 
-[https://youtu.be/lhSFQXrVr48](https://youtu.be/lhSFQXrVr48)
+{{< youtube "lhSFQXrVr48" >}}
 
 Notes de bas de page
 

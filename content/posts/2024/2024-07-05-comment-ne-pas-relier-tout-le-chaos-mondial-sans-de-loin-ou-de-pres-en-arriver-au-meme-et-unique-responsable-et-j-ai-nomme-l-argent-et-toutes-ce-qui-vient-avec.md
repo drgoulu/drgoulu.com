@@ -17,4 +17,4 @@ On a jamais vécu aussi nombreux, aussi longtemps et en aussi bonne santé, et �
 
 En 50 ans le fossé entre Tiers-Monde et pays développés a disparu. Des millions de paysans misérables ont maintenant des tracteurs, des engrais, des enfants à l'université.
 
-[https://youtu.be/RUwS1uAdUcI?si=...](https://youtu.be/RUwS1uAdUcI?si=ZYJlntEVcdMCcZ72)
+{{< youtube "RUwS1uAdUcI" >}}

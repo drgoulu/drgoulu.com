@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 A ça :
 
-[https://youtu.be/jtlpxlkInlM](https://youtu.be/jtlpxlkInlM)
+{{< youtube "jtlpxlkInlM" >}}

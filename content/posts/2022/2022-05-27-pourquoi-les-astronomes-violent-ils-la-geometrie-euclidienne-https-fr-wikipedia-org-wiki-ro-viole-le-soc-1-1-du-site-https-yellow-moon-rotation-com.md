@@ -23,4 +23,4 @@ C'est le cas notamment du téléscope UV chinois monté sur la sonde
 
 [Remembering the First Moon-Based Telescope](https://www.nasa.gov/feature/remembering-the-first-moon-based-telescope)
 
-[https://youtu.be/QKJY7gH2n9I](https://youtu.be/QKJY7gH2n9I)
+{{< youtube "QKJY7gH2n9I" >}}

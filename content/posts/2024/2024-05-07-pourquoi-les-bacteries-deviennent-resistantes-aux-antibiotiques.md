@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Pour survivre. Sur ce film vous voyez des bactéries se développer sur un substrat nutritif sur lequel on a déposé des antibiotiques en concentrations croissantes :
 
-[https://youtu.be/yybsSqcB7mE?si=...](https://youtu.be/yybsSqcB7mE?si=_Sdg08xneAcZxfNV)
+{{< youtube "yybsSqcB7mE" >}}
 
 C'est juste l'évolution qui se déroule là, sous vos yeux, presque en temps réel (en réalité l'expérience dure une dizaine de jours)

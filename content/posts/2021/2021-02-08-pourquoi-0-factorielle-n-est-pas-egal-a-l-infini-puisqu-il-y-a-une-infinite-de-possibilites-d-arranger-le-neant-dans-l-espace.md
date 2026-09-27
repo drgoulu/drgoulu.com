@@ -21,4 +21,4 @@ Idem pour les limites qui conduisent à la notion d'infini.
 
 Et après, on scotche les philosophes en leur démontrant qu'il y a des infinis infiniment plus grands que d'autres infinis
 
-[https://youtu.be/N_cDA6tF-40](https://youtu.be/N_cDA6tF-40)
+{{< youtube "N_cDA6tF-40" >}}

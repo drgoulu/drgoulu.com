@@ -20,6 +20,6 @@ Sauf erreur, le seul site de [Stockage des déchets radioactifs en couche géolo
 
 Le film "[Into Eternity](w:Into_Eternity_(film))" consacré à ce dépôt est vraiment bien, à voir absolument par toute personne intéressée à ce sujet. Lancement:
 
-[https://youtu.be/81wZs7la8dc](https://youtu.be/81wZs7la8dc)
+{{< youtube "81wZs7la8dc" >}}
 
 voir [Bure, plongée dans l'éternité - Pourquoi Comment Combien](/2014/05/24/bure-pour-leternite/)

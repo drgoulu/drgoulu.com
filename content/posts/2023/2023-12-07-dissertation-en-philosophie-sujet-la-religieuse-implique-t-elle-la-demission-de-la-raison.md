@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Oui, absolument, quand je vois la religieuse, c'est plus fort que moi, il faut que je la bouffe.
 
-[https://youtu.be/ya-gQCIYGlY?si=...](https://youtu.be/ya-gQCIYGlY?si=fBw7YYwC4DMKEX_j)
+{{< youtube "ya-gQCIYGlY" >}}
 
 Ah c'est ça la philosophie ? On m'aurait menti ? Ah ben finalement c'est pas mal…

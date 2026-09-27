@@ -22,6 +22,6 @@ D'ailleurs c'est la même chose pour l'avion lui-même, qui vole au dessus d'une
 
 Si vous voulez voir un truc étonnant qui se passe dans l'air d'un véhicule, regardez plutôt ça
 
-[https://youtu.be/y8mzDvpKzfY](https://youtu.be/y8mzDvpKzfY)
+{{< youtube "y8mzDvpKzfY" >}}
 
 (explications : [Le mystère du ballon en voiture](https://kidiscience.cafe-sciences.org/articles/le-mystere-du-ballon-en-voiture/) )

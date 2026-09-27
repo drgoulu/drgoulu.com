@@ -17,4 +17,4 @@ Mathématiquement c'est ce qu'on appelle la [Métrique](w:Métrique_(physique)).
 
 David Louapre explique ça super bien avec des lignes de métro dans cette video
 
-[https://youtu.be/_kO2kp9je5o?si=...](https://youtu.be/_kO2kp9je5o?si=Ulx4RwCIxgGnIJ7Z)
+{{< youtube "_kO2kp9je5o" >}}

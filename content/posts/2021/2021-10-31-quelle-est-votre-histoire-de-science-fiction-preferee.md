@@ -17,4 +17,4 @@ Outre celles déjà citées, l'Anneau-Monde
 
 Hélas pas encore adapté au cinéma, mais il y a quand même une petite vidéo teasing pas piquée des vers :
 
-[https://youtu.be/sR2296df-bc](https://youtu.be/sR2296df-bc)
+{{< youtube "sR2296df-bc" >}}

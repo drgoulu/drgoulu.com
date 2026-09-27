@@ -15,4 +15,4 @@ Au temps des rois, on complotait plutôt contre eux, le but était de devenir ca
 
 Ça n'a pas changé. Le complotisme consiste toujours à tromper les gens pour gagner du pouvoir sur eux.
 
-[https://youtu.be/KWp7usESwvU?si=...](https://youtu.be/KWp7usESwvU?si=2O9lGvBRfVQnNmMa)
+{{< youtube "KWp7usESwvU" >}}

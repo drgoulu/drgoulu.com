@@ -21,4 +21,4 @@ Le phénomène s"appelle la [Transition démographique](w:) et il a lieu partout
 
 Hans Rosling explique ça merveilleusement bien avec des boîtes, à 11:00 de cette conférence géniale :
 
-[https://youtu.be/ezVk1ahRF78?si=...](https://youtu.be/ezVk1ahRF78?si=D75bReTCHWyLB38x)
+{{< youtube "ezVk1ahRF78" >}}

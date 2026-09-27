@@ -15,7 +15,7 @@ Oui, c'est même une certitude.
 
 l'[Évolution stellaire](w:)est désormais bien connue, et on est même capables d'obtenir le [Diagramme de Hertzsprung-Russell](w:)expérimentalement :
 
-[https://youtu.be/lhSFQXrVr48](https://youtu.be/lhSFQXrVr48)
+{{< youtube "lhSFQXrVr48" >}}
 
 Dans ce diagramme, le Soleil suivra cette évolution depuis sa position actuelle sur la séquence principale (en noir en bas)
 

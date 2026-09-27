@@ -17,7 +17,7 @@ Personnellement je préfère l'expliquer ainsi (dites moi si c'est plus clair…
 
 - la relativité voit le temps comme une dimension perpendiculaire à l'espace. Si vous connaissez les nombres complexes, on peut même dire que [Le temps est une 4ème dimension imaginaire](/2007/02/07/le-temps-une-4eme-dimension-imaginaire/) au sens mathématique, comme on le voit dans la [Métrique de Minkowski](w:). Et si vous n'êtes pas bon en maths, vous pouvez voir le temps comme l'épaisseur d'un flipbook, perpendiculaire aux pages (2D) et formant une dimension d'une "nature" différente:
 
-[https://youtu.be/UocF4ycBnYE](https://youtu.be/UocF4ycBnYE)
+{{< youtube "UocF4ycBnYE" >}}
 
 - Historiquement nous avons inventé le mètre pour mesurer l'espace et la seconde pour mesurer le temps, mais la relativité nous a montré de multiples manières que ces deux unités sont fondamentalement liées par la constante universelle c. A tel point qu'aujourd'hui le [Mètre est défini](w:Mètre) à partir de la seconde et de c.
 - c est la pente du [Cône de lumière](w:) sur lequel se trouve tous les événements passés perçus comme simultanés par un observateur (au sommet du cône), et tous les observateurs futurs qui verront l'événement du sommet du cône comme simultané avec un événement local pour eux.

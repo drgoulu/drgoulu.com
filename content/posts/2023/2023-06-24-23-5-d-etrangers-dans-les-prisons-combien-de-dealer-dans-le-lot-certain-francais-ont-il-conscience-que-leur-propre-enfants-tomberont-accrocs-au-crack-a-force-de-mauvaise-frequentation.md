@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Leur mauvaise fréquentation ou leur mauvaise éducation ?
 
-[https://youtu.be/d4JMep1LcJo](https://youtu.be/d4JMep1LcJo)
+{{< youtube "d4JMep1LcJo" >}}

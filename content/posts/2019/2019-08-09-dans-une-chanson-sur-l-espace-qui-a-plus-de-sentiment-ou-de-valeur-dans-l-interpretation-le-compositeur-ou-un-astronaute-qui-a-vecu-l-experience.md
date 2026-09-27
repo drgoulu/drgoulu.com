@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Dans-une-chanson-sur-l-espace-qui-a-plus-de-sentiment-ou-de-valeur-dans-l-interpr%C3%A9tation-le-compositeur-ou-un-astronaute-qui-a-v%C3%A9cu-l-exp%C3%A9rience/answer/Dr-Goulu)*
 
-[https://youtu.be/KaOC9danxNo](https://youtu.be/KaOC9danxNo)
+{{< youtube "KaOC9danxNo" >}}

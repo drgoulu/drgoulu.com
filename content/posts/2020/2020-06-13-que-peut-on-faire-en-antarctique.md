@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Du ski !
 
-[https://youtu.be/zOBuEqGO5m8](https://youtu.be/zOBuEqGO5m8)
+{{< youtube "zOBuEqGO5m8" >}}
 
 (oui je suis en manque…plus courte saison de ski depuis 50 ans…)

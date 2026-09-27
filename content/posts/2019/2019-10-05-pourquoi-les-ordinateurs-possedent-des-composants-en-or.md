@@ -15,4 +15,4 @@ Juste les contacts, car ils ne s'oxydent pas et forment une bonne surface de con
 
 Et aussi les minuscules fils de bonding qui lient les puces en silicium aux pattes des circuits intégrés car ils se soudent par simple pression.
 
-[https://youtu.be/xAw7CzuyrV0](https://youtu.be/xAw7CzuyrV0)
+{{< youtube "xAw7CzuyrV0" >}}

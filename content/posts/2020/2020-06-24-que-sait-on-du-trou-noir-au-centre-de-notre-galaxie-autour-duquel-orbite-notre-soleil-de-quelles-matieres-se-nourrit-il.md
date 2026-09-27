@@ -22,7 +22,7 @@ Sag A* ne représente que quelques millionièmes de la masse de la [Voie lactée
 
 Si vous voulez voir des étoiles vraiment orbiter autour de Sag A*, regardez ça :
 
-[https://youtu.be/495OIRMV-1c](https://youtu.be/495OIRMV-1c)
+{{< youtube "495OIRMV-1c" >}}
 
 C'est une vidéo du mouvement des étoiles proches pendant une quinzaine d'années . Vous voyez notamment [S2 (étoile)](w:)qui orbite autour de Sag A* en 15.2 ans, atteignant 2.6% de la vitesse de la lumière !!!
 

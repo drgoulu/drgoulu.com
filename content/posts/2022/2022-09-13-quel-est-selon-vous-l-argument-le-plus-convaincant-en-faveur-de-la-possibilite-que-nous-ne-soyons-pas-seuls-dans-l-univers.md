@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Juste la taille de l'univers.
 
-[https://youtu.be/tXFYxBdKiNY](https://youtu.be/tXFYxBdKiNY)
+{{< youtube "tXFYxBdKiNY" >}}
 
 [Lien vers la video](https://www.youtube.com/watch?v=tXFYxBdKiNY)

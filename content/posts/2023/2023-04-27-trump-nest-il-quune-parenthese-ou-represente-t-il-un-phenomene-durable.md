@@ -19,4 +19,4 @@ Ce qui a changé, c'est que Trump n'en a même pas conscience…
 
 prochaine étape :
 
-[https://youtu.be/sGUNPMPrxvA](https://youtu.be/sGUNPMPrxvA)
+{{< youtube "sGUNPMPrxvA" >}}

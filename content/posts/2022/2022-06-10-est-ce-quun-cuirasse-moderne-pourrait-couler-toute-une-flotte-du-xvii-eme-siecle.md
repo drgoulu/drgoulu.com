@@ -24,4 +24,4 @@ A un missile par bateau ennemi ils pourraient réduire la flotte ennemie à néa
 
 Mais ça ferait cher en missiles.. . Autant éperonner ces coques de bois minuscules en les arrosant de tirs de canons antiaériens ou anti torpilles tout en regardant leurs boulets rebondir sur la coque du croiseur, pour le fun…
 
-[https://youtu.be/YUCuR4_S0Bg](https://youtu.be/YUCuR4_S0Bg)
+{{< youtube "YUCuR4_S0Bg" >}}

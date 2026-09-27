@@ -17,4 +17,4 @@ L'[Évolution stellaire](w:) tient compte des réactions de fusion possibles pou
 
 Je ne résiste pas à la tentation de vous remontrer cette superbe vidéo dans laquelle on trie les étoiles d'une photo astronomique réelle :
 
-[https://youtu.be/lhSFQXrVr48](https://youtu.be/lhSFQXrVr48)
+{{< youtube "lhSFQXrVr48" >}}

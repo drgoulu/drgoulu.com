@@ -15,4 +15,4 @@ Il n'y a pas de forces antigravitationnelles.
 
 Le sol accelère vers le haut, tout simplement.
 
-[https://youtu.be/KOOAAo1v9fE](https://youtu.be/KOOAAo1v9fE)
+{{< youtube "KOOAAo1v9fE" >}}

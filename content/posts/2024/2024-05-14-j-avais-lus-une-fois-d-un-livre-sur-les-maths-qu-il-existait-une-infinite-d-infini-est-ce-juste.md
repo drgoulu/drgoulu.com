@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 C'est exact. Une jolie introduction au sujet se trouve dans [cette video](https://youtu.be/N_cDA6tF-40?si=f4KTMgIFkgNb3rvh)
 
-[https://youtu.be/N_cDA6tF-40?si=...](https://youtu.be/N_cDA6tF-40?si=f4KTMgIFkgNb3rvh)
+{{< youtube "N_cDA6tF-40" >}}

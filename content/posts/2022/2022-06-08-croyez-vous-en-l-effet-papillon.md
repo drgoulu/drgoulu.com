@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 je n'y crois pas, je sais que ça existe :
 
-[https://youtu.be/63uVU3GR-qI](https://youtu.be/63uVU3GR-qI)
+{{< youtube "63uVU3GR-qI" >}}
 
 [https://auditoires-physique.epfl...](https://auditoires-physique.epfl.ch/experiment/71/mouvement-chaotique-double-pendule)

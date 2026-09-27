@@ -30,7 +30,7 @@ Mais encore plus extraordinaire, sur terre un véhicule peut aller plus vite que
 
 La première fois que j'ai vu ça, j'ai pensé à une arnaque au mouvement perpétuel de plus :
 
-[https://youtu.be/5CcgmpBGSCI](https://youtu.be/5CcgmpBGSCI)
+{{< youtube "5CcgmpBGSCI" >}}
 
 Mais non, c'est juste très très fûté …
 

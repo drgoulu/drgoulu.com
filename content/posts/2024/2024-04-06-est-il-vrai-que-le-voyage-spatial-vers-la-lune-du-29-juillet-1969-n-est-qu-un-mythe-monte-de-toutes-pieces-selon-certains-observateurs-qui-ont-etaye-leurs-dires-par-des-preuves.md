@@ -15,6 +15,6 @@ Toutes les "preuves" des complotistes se retournent contre eux une fois qu'on co
 
 Regardez l'épisode des Mythbusters, spécialistes des effets spéciaux où ils démontent vos "preuves" une à une
 
-[https://youtu.be/uGg6ywErf9Y?si=...](https://youtu.be/uGg6ywErf9Y?si=GF7joWnRwPQeRZZ-)
+{{< youtube "uGg6ywErf9Y" >}}
 
 Et accessoirement, il y a eu 5 autres alunissages humains.

@@ -15,4 +15,4 @@ Oui
 
 [https://en.wikipedia.org/wiki/Sy...](w:en:Synthetic_setae)
 
-[https://youtu.be/1Jutfdx8_Yk](https://youtu.be/1Jutfdx8_Yk)
+{{< youtube "1Jutfdx8_Yk" >}}

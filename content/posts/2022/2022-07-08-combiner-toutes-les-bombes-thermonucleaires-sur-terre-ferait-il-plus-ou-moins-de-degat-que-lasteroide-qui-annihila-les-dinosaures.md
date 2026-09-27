@@ -34,4 +34,4 @@ En cas de guerre nucléaire totale, on aurit surtout un problème différent ave
 
 Là les avis divergent sur les chances de survie des grands animaux dont nous sommes. Ceux qui vivront loin des grandes villes ou auront des abris bien équipés s'en sortiront peut-être …
 
-[https://youtu.be/JyECrGp-Sw8](https://youtu.be/JyECrGp-Sw8)
+{{< youtube "JyECrGp-Sw8" >}}

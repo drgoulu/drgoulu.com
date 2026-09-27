@@ -24,4 +24,4 @@ Mais vous pouvez vous fixer à vous même de le courir en moins de 45 secondes (
 
 Et en cas d'échec, vous pouvez simplement changer d'objectif pour devenir une célébrité inoubliable comme Derek Redmond. Moi qui ne suis pas vraiment sportif je me souvenais parfaitement de lui, et comme les 3000 autres personnes qui ont assisté à sa conférence, je ne me souvenais pas du tout de qui avait gagné la course ce jour là.
 
-[https://youtu.be/dYQ2IyMuPes](https://youtu.be/dYQ2IyMuPes)
+{{< youtube "dYQ2IyMuPes" >}}

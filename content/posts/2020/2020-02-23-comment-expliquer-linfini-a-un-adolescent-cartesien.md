@@ -17,4 +17,4 @@ Une fois qu'on a ce nombre, on lui ajoute un et hop ! Il décrit un univers impo
 
 Cartésien ou matheux, il faut choisir…
 
-[https://youtu.be/N_cDA6tF-40](https://youtu.be/N_cDA6tF-40)
+{{< youtube "N_cDA6tF-40" >}}

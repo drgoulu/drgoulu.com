@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Tout est dans le Roi Lion
 
-[https://youtu.be/IyJax_5c-aI](https://youtu.be/IyJax_5c-aI)
+{{< youtube "IyJax_5c-aI" >}}
 
 Cette scène est absolument géniale !
 

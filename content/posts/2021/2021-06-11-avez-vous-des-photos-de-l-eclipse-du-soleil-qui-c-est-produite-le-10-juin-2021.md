@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Mieux : cette vidéo qui m'a laissé sur le Q :
 
-[https://youtu.be/T_a4CqSxrXg](https://youtu.be/T_a4CqSxrXg)
+{{< youtube "T_a4CqSxrXg" >}}
 
 (Crédit : [Eric Ashkar, Société Astronomique de Genève](https://www.astro-ge.net/?author=11) et RTS)

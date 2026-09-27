@@ -26,6 +26,6 @@ Bon votre terme de "champ électromagnétique d'une forte intensité" n'est pas 
 
 Le top du top, c'est de perturber un champ magnétique avec de la lumière en jouant avec un matériau diamagnétique
 
-[https://youtu.be/AJ7fMVp_O5s](https://youtu.be/AJ7fMVp_O5s)
+{{< youtube "AJ7fMVp_O5s" >}}
 
 [https://www.drgoulu.com/2014/03/...](/2014/03/15/le-carbone-pyrolytique-cest-fantastique/)

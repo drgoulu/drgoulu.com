@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 cet hélicoptère ultra moderne est extrêmement silencieux :
 
-[https://youtu.be/syJq10EQkog](https://youtu.be/syJq10EQkog)
+{{< youtube "syJq10EQkog" >}}
 
 ([L'hélicoptère à pédales existe enfin - Pourquoi Comment Combien](/2013/07/14/lhelicoptere-a-pedales-existe-enfin/) )
 

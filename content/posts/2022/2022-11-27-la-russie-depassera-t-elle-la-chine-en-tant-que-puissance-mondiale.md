@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/La-Russie-d%C3%A9passera-t-elle-la-Chine-en-tant-que-puissance-mondiale/answer/Dr-Goulu)*
 
-[https://youtu.be/sYU_eDMr4xE](https://youtu.be/sYU_eDMr4xE)
+{{< youtube "sYU_eDMr4xE" >}}

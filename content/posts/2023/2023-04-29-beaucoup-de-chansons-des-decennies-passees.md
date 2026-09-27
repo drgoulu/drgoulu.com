@@ -15,7 +15,7 @@ Suzi Quatro, ma découverte simultanée du rock, des rockeuses en cuir moulant e
 
 ([Can the Can, 1973](https://youtu.be/7SXWgC0SLCA))
 
-[https://youtu.be/7SXWgC0SLCA](https://youtu.be/7SXWgC0SLCA)
+{{< youtube "7SXWgC0SLCA" >}}
 
 et comme je suis très fidèle, 50 ans plus tard j'écoute toujours du "metal à chanteuses" : Epica, Delain, Within Temptation, Arch Enemy, Visions of Atlantis, Nightwish, Flyleaf etc.
 

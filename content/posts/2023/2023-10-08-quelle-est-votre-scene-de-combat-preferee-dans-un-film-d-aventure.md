@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Indiana Jones dans les aventuriers de l'arche perdue
 
-[https://youtu.be/kQKrmDLvijo?si=...](https://youtu.be/kQKrmDLvijo?si=Gqgr5YbjaOyk0d1u)
+{{< youtube "kQKrmDLvijo" >}}
 
 En plus c'était pas prévu comme ça
 

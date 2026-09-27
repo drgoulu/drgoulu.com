@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Les aveugles capables d'[Écholocalisation humaine](w:).
 
-[https://youtu.be/lAtVOK04XvA](https://youtu.be/lAtVOK04XvA)
+{{< youtube "lAtVOK04XvA" >}}
 
 [https://www.drgoulu.com/2016/05/...](/2016/05/18/comment-voir-avec-ses-oreilles/#.ZEQtQaS-g0E)

@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Notre-plan%C3%A8te-a-t-elle-un-instinct-de-survie-quand-elle-se-sent-menacer-Ex-le-coronavirus-est-il-un-signe-de-l-instinct-de-survie-de-La-Terre/answer/Dr-Goulu)*
 
-[https://youtu.be/sYU_eDMr4xE](https://youtu.be/sYU_eDMr4xE)
+{{< youtube "sYU_eDMr4xE" >}}

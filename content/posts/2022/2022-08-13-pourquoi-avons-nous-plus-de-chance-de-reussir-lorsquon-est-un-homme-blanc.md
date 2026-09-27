@@ -17,4 +17,4 @@ Vous avez plus de chances de réussir ce que vos parents et votre environnement 
 
 Regardez Keka aux Marquises. Il a aussi bien "réussi" qu 'un trader new yorkais non?
 
-[https://youtu.be/Xq7GHB8o0lE](https://youtu.be/Xq7GHB8o0lE)
+{{< youtube "Xq7GHB8o0lE" >}}

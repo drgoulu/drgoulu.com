@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Les-collisions-du-CERN-pourraient-elles-cr%C3%A9er-dautres-univers-dans-des-dimensions-diff%C3%A9rentes-Y-a-t-il-un-comit%C3%A9-d%C3%A9thique-qui-envisage-cette-possibilit%C3%A9-dans-le-cas-o%C3%B9-ces-univers/answer/Dr-Goulu)*
 
-[https://youtu.be/sYU_eDMr4xE](https://youtu.be/sYU_eDMr4xE)
+{{< youtube "sYU_eDMr4xE" >}}
 
 En plus je ne vous pas le problème éthique de créer des univers qui pourraient abriter la vie, mais bon…
 

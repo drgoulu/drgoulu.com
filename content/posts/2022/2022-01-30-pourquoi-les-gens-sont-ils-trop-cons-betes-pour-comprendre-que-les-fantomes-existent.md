@@ -17,4 +17,4 @@ Je veux pouvoir voir / tester ça moi même, ou à la rigueur quelqu'un décrive
 
 Conditions contrôlées parce que des prestidigitateurs comme [James Randi](w:)ont montré comment certaines personnes un peu moins connes et bêtes peuvent profiter de la connerie et de la bêtise des autres pour se faire du fric sur leur dos.
 
-[https://youtu.be/c0Z7KeNCi7g](https://youtu.be/c0Z7KeNCi7g)
+{{< youtube "c0Z7KeNCi7g" >}}

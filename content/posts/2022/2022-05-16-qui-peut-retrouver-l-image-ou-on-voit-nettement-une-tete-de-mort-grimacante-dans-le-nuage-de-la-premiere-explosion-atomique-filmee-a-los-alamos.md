@@ -15,6 +15,6 @@ Moi.
 
 Vous pouvez regarder le film de l'explosion ici
 
-[https://youtu.be/7dfK9G7UDok](https://youtu.be/7dfK9G7UDok)
+{{< youtube "7dfK9G7UDok" >}}
 
 En ce qui me concerne, la [Paréidolie](w:)est maximale à 0:41 environ.

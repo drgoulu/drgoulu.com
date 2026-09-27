@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Heureusement pour le salut de mon âme , le black metal est de la musique religieuse, donc pas profane.
 
-[https://youtu.be/96Sotk_GiEY](https://youtu.be/96Sotk_GiEY)
+{{< youtube "96Sotk_GiEY" >}}

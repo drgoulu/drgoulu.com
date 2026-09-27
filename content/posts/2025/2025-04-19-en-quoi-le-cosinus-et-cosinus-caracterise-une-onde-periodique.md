@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/En-quoi-le-cosinus-et-cosinus-caract%C3%A9rise-une-onde-p%C3%A9riodique/answer/Dr-Goulu)*
 
-[https://youtu.be/zBanLkLAVp8?si=...](https://youtu.be/zBanLkLAVp8?si=PiBl6dW56rlgR_Pm)
+{{< youtube "zBanLkLAVp8" >}}

@@ -24,4 +24,4 @@ Mais pour vous rien be change fondamentalement . Le premier principe de la relat
 
 Le trajet des rayons lumineux devient bizarre, mais les simultions montrent que vous voyez toujours bien le trou noir. Ou plutôt que vous voyez du noir avec tout plein d'étoiles autour.
 
-[https://youtu.be/JcHneuh6DKo?si=...](https://youtu.be/JcHneuh6DKo?si=cUvXtV2cHfhI2MPA)
+{{< youtube "JcHneuh6DKo" >}}

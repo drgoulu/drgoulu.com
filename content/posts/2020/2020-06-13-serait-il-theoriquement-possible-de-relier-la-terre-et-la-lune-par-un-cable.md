@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Serait-il-th%C3%A9oriquement-possible-de-relier-la-terre-et-la-Lune-par-un-c%C3%A2ble/answer/Dr-Goulu)*
 
-[https://youtu.be/sYU_eDMr4xE](https://youtu.be/sYU_eDMr4xE)
+{{< youtube "sYU_eDMr4xE" >}}
 
 1. La Lune n'est pas en orbite geostationnaire, donc où attacher le câble sur Terre pour avoir une vue permanente sur la Lune ?
 2. Un câble de 400'000 km d'un mm2 de section à un volume de 400 m3. En [Nanotube de carbone](w:), ça fait 800 tonnes à remorquer derrière le LEM qui faisait 15 tonnes…

@@ -15,4 +15,4 @@ Dans rien, c'est l'espace lui même qui gonfle.
 
 David Louapre explique ça très bien dans cette vidéo
 
-[https://youtu.be/lms2jQeHnVs](https://youtu.be/lms2jQeHnVs)
+{{< youtube "lms2jQeHnVs" >}}

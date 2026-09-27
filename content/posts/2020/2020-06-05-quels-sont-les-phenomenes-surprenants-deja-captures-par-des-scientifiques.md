@@ -33,7 +33,7 @@ Du deuxième cas, je mentionnerais encore un truc qui tombe, mais cette fois con
 
 C'est une chaîne (à gauche) qui tombe "plus vite que la gravité" en heurtant une table que celle de droite qui tombe dans le vide[[1]](#Gksow) . Mais il faut une caméra haute vitesse pour le voir:
 
-[https://youtu.be/i9gLi4pBgpk](https://youtu.be/i9gLi4pBgpk)
+{{< youtube "i9gLi4pBgpk" >}}
 
 Anoop Grewal, Philip Johnson and Andy Ruina, "A chain that accelerates, rather than slows, due to collisions: how compression can cause tension" American Journal of Physics, Volume 79, Issue 7, pp. 723, July 2011 [http://ajp.aapt.org/resource/1/ajpias](https://www.youtube.com/redirect?event=video_description&v=i9gLi4pBgpk&q=http://ajp.aapt.org/resource/1/ajpias&redir_token=TWTYIof6KsDQNow1rR2PgcGAE2N8MTU5MTQ1NTIwMkAxNTkxMzY4ODAy)
 

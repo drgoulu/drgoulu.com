@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 C'est un petit moteur électrique qui fait tourner une petite masse décentrée.
 
-[https://youtu.be/iwEGqBpYaqc](https://youtu.be/iwEGqBpYaqc)
+{{< youtube "iwEGqBpYaqc" >}}

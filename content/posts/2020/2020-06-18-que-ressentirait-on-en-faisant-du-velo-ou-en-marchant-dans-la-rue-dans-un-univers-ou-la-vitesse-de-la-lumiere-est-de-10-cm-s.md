@@ -17,6 +17,6 @@ Mais pour c=10 m/s, soit 36km/h, ce serait très intéressant .
 
 Le jeu [A Slower Speed of Light](http://gamelab.mit.edu/games/a-slower-speed-of-light/) du MIT simule ça :
 
-[https://youtu.be/uu7jA8EHi_0](https://youtu.be/uu7jA8EHi_0)
+{{< youtube "uu7jA8EHi_0" >}}
 
 Vous voyez que les objets se courbent et le spectre des couleurs se décale.

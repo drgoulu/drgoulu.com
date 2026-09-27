@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/L-%C3%A9criture-est-elle-en-fait-le-cryptage-de-la-pens%C3%A9e-%C3%A0-l-%C3%A9poque-o%C3%B9-on-communiquait-par-t%C3%A9l%C3%A9pathie/answer/Dr-Goulu)*
 
-[https://youtu.be/sYU_eDMr4xE](https://youtu.be/sYU_eDMr4xE)
+{{< youtube "sYU_eDMr4xE" >}}

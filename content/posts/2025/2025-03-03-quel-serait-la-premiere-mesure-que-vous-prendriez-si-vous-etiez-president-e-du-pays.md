@@ -24,6 +24,6 @@ L'actuelle présidente est la [101ème présidents de la Confédération suisse]
 
 Le seul réel challenge quand on est président est de faire un meilleur discours de nouvel an que [celui d'Adolf Ogi pour l'an 2000](https://youtu.be/i3jZ-iBD_b0?si=TcI1ecuOoB3IPaO3), qui restera dans l'Histoire :
 
-[https://youtu.be/i3jZ-iBD_b0?si=...](https://youtu.be/i3jZ-iBD_b0?si=TcI1ecuOoB3IPaO3)
+{{< youtube "i3jZ-iBD_b0" >}}
 
 Donc voilà, en tant que président Suisse, je bosserai toute l'année pour tenter de faire un meilleur discours que ça en décembre…

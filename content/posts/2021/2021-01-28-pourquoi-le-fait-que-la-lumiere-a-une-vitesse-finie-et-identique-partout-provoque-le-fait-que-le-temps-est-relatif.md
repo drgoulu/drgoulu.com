@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 cette petite vidéo répond à votre première question:
 
-[https://youtu.be/JTaMfufMl1o](https://youtu.be/JTaMfufMl1o)
+{{< youtube "JTaMfufMl1o" >}}
 
 (voir [Comment expliquer la relativité aux enfants - Pourquoi Comment Combien](/2013/12/15/comment-expliquer-la-relativite-aux-enfants/#.YBLHDuhsOCo) )
 

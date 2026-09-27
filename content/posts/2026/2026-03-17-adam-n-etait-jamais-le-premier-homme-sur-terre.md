@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il n'y a pas eu de premier homme sur Terre
 
-[https://youtu.be/xdWLhXi24Mo?si=...](https://youtu.be/xdWLhXi24Mo?si=5sGz0YpdwdPunzz0)
+{{< youtube "xdWLhXi24Mo" >}}

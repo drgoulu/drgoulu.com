@@ -22,6 +22,6 @@ Pour l [Infini](w:), je ne suis pas sur du tout que ce soit une notion "innée".
 
 Regardez ça, pour voir si votée notion de l infini est si évidente que ça :
 
-[https://youtu.be/N_cDA6tF-40](https://youtu.be/N_cDA6tF-40)
+{{< youtube "N_cDA6tF-40" >}}
 
 Bref, méfiez-vous de vos intuitions, de votre sens inné et de tous ces trucs produits par l’évolution du cerveau ces derniers 300'000 ans.

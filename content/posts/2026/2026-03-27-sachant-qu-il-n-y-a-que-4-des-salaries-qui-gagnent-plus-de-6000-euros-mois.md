@@ -19,4 +19,4 @@ Parmi eux, beaucoup de Français qui préfèrent travailler 42h par semaine, jus
 
 Alors pourquoi pas vous ?
 
-[https://youtu.be/8edUganBrNg?is=...](https://youtu.be/8edUganBrNg?is=sNkA8EKeIatR6N3b)
+{{< youtube "8edUganBrNg" >}}

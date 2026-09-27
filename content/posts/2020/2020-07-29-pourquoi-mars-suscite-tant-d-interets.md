@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce que c'est notre nature d'être curieux, d'explorer et de conquérir. Nous avons traversé tous les déserts et océans, gravi toutes les montagnes, ce n'est pas quelques minutes lumière de vide qui vont nous empêcher d'aller là bas.
 
-[https://youtu.be/zFwaRmpzvjo](https://youtu.be/zFwaRmpzvjo)
+{{< youtube "zFwaRmpzvjo" >}}

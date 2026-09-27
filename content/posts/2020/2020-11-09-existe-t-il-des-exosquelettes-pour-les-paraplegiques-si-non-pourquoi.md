@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 oui ça commence à exister :
 
-[https://youtu.be/PphYGkNENGw](https://youtu.be/PphYGkNENGw)
+{{< youtube "PphYGkNENGw" >}}
 
 [Un exosquelette pour retrouver le monde vertical](https://actu.epfl.ch/news/un-exosquelette-pour-retrouver-le-monde-vertical/)
 

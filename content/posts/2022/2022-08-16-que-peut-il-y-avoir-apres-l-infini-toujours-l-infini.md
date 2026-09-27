@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il ne faut pas considérer l'infini comme un nombre ou un "endroit". C'est un concept beaucoup plus perturbant que ça. Regardez :
 
-[https://youtu.be/N_cDA6tF-40](https://youtu.be/N_cDA6tF-40)
+{{< youtube "N_cDA6tF-40" >}}

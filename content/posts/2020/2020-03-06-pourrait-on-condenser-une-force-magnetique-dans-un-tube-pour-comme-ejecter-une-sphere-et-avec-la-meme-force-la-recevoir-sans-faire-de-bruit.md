@@ -22,6 +22,6 @@ Je ne comprends pas bien votre passage sur les formes géométriques…la bobine
 
 Pour le tunnel etc, voyez cette variante à [Moteur homopolaire](w:) où la source d'énergie est dans le projectile/vehicule :
 
-[https://youtu.be/Y1MDOerruDU](https://youtu.be/Y1MDOerruDU)
+{{< youtube "Y1MDOerruDU" >}}
 
 Les [Train à sustentation magnétique](w:) sont plus élaborés, mais sur le même principe physique.

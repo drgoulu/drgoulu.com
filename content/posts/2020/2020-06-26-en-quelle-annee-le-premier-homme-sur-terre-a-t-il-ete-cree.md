@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Il n'y a pas eu de premier homme:
 
-[https://youtu.be/xdWLhXi24Mo](https://youtu.be/xdWLhXi24Mo)
+{{< youtube "xdWLhXi24Mo" >}}
 
 Et il n'a pas été créé.

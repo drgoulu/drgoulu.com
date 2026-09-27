@@ -15,4 +15,4 @@ coverImage: ./images/quora.png
 
 C est ceux qui vendent des bouquins à sensation à des gogos qui y gagnent.
 
-[https://youtu.be/KWp7usESwvU](https://youtu.be/KWp7usESwvU)
+{{< youtube "KWp7usESwvU" >}}

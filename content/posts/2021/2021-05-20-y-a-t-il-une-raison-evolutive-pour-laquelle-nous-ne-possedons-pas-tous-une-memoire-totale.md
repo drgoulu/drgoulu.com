@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Un truc comme ça ?
 
-[https://youtu.be/JkNV0rSndJ0](https://youtu.be/JkNV0rSndJ0)
+{{< youtube "JkNV0rSndJ0" >}}
 
 Selon Inoue, S. & Matsuzawa, T. “[Working memory of numerals in chimpanzees](http://langint.pri.kyoto-u.ac.jp/ai/en/publication/SanaInoue/Inoue2007.html).”, 2007, Curr. Biol. 17: R1004-R1005.
 

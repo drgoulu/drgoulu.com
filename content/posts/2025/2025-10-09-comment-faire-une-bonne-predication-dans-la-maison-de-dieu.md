@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 La meilleure possible :
 
-[https://youtu.be/I2CYxY1_JwA?si=...](https://youtu.be/I2CYxY1_JwA?si=c9O9nL6zLuPVhdwe)
+{{< youtube "I2CYxY1_JwA" >}}
 
 Succès garanti !

@@ -30,6 +30,6 @@ et dont je cause ici : [Selon Newton, l'univers serait discret - Pourquoi Commen
 
 D'autres comme Lee Smolin, [Timothy Budd](http://www.nbi.dk/~budd/) ou [Fotini Markopoulou](http://www.wikipedia.org/search-redirect.php?language=en&go=Go&search=Fotini+Markopoulou) proposent plutôt que l’espace émerge d’une structure de graphe. Ca s'appelle “[triangulation dynamique causale](http://www.wikipedia.org/search-redirect.php?language=en&go=Go&search=causal+dynamical+triangulation)” ou “[graphité quantique](http://www.wikipedia.org/search-redirect.php?language=en&go=Go&search=quantum+graphity)” (sic) et c'est incompréhensible mais fait des vidéos très jolies :
 
-[https://youtu.be/lzJpC78zduo](https://youtu.be/lzJpC78zduo)
+{{< youtube "lzJpC78zduo" >}}
 
 voir [La Renaissance du temps 2/2 - Pourquoi Comment Combien](/2015/12/31/la-renaissance-du-temps-22/)

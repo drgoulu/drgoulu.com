@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Je pense que vous voulez parler de la [Sympathie des horloges](w:), montrée ici avec des métronomes:
 
-[https://youtu.be/MpLMJdu_zMs](https://youtu.be/MpLMJdu_zMs)
+{{< youtube "MpLMJdu_zMs" >}}
 
 C'est un support peu rigide qui transmet la force de réaction du mouvement de chaque balancier aux autres pendules.

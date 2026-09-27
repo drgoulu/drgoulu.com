@@ -17,7 +17,7 @@ le nombre d'or n'est pas du tout présent dans la nature
 
 l'angle d'or à la rigueur car c'est la solution d'un problème d'optimisation illustré par cette petite vidéo
 
-[https://youtu.be/9Qy8QnNqB4A](https://youtu.be/9Qy8QnNqB4A)
+{{< youtube "9Qy8QnNqB4A" >}}
 
 Quand à ln(2) je ne l'ai vu que dans la décroissance (radioactive) , mais c'est simplement parce que la demi-vie est donnée par $e^{-t}=1/2$, donc t=ln(2) …
 

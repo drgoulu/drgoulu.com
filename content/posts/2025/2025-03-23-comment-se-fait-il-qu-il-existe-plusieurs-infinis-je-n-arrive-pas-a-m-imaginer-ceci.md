@@ -15,4 +15,4 @@ Le verbe "exister" est un peu compliqué à utiliser avec des notions mathémati
 
 [Cette video](https://youtu.be/N_cDA6tF-40?si=OJEm7xMiMPVbAJji)est la meilleure que je connaisse pour une initiation au sujet :
 
-[https://youtu.be/N_cDA6tF-40?si=...](https://youtu.be/N_cDA6tF-40?si=OJEm7xMiMPVbAJji)
+{{< youtube "N_cDA6tF-40" >}}

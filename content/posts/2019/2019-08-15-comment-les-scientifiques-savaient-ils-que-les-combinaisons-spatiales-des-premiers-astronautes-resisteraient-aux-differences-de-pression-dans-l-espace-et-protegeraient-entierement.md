@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 En faisant des tests. Par exemple celui-ci a montré que ce n'était pas encore au point :
 
-[https://youtu.be/KO8L9tKR4CY](https://youtu.be/KO8L9tKR4CY)
+{{< youtube "KO8L9tKR4CY" >}}

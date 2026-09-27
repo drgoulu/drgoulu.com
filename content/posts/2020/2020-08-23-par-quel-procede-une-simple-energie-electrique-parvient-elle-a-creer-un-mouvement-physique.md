@@ -15,6 +15,6 @@ Principalement par la [Force de](w:Force_de_Laplace)Laplace : un aimant créé u
 
 On peut créer des moteurs extrêmement simples avec juste un aimant et une pile, comme le [Moteur homopolaire](w:)
 
-[https://youtu.be/w2f6RD1hT6Q](https://youtu.be/w2f6RD1hT6Q)
+{{< youtube "w2f6RD1hT6Q" >}}
 
 Les autres moteurs électriques sont plus sophistiqués, mais sur le même principe. On peut même remplacer les aimants par des électroaimants, et hop : plus d'aimants.

@@ -15,4 +15,4 @@ On fait ça avec les [Réflecteur lunaire](w:)posés par les astronautes sur la 
 
 Sinon avec des caméras ultra-rapides on arrive maintenant à suivre la propagation d'une impulsion lumineuse.
 
-[https://youtu.be/EtsXgODHMWk](https://youtu.be/EtsXgODHMWk)
+{{< youtube "EtsXgODHMWk" >}}

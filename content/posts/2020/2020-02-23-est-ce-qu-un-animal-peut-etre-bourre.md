@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 C'est même fréquent grâce au [Marula](w:)
 
-[https://youtu.be/STgHrXgX4J4](https://youtu.be/STgHrXgX4J4)
+{{< youtube "STgHrXgX4J4" >}}

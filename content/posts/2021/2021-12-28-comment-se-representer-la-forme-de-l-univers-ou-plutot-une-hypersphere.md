@@ -15,7 +15,7 @@ Commencez facile avec un hypertore.
 
 Vous prenez un cube et vous raccordez par la pensée les paires de faces opposées. Vous obtenez l'analogue 3D du monde 2D du jeu Astéroïds
 
-[https://youtu.be/WYSupJ5r2zo](https://youtu.be/WYSupJ5r2zo)
+{{< youtube "WYSupJ5r2zo" >}}
 
 C est un univers plat, fini, sans bords.
 
@@ -23,7 +23,7 @@ Le [Three-torus model of the universe](w:en:Three-torus_model_of_the_universe)es
 
 Pour l'hypersphère, il faut beaucoup plus s'accrocher. Chaque fois que je regarde cette vidéo (ça doit faire 5 fois) j'ai l'impression de la capter un peu plus
 
-[https://youtu.be/dy_MUfBuq2I](https://youtu.be/dy_MUfBuq2I)
+{{< youtube "dy_MUfBuq2I" >}}
 
 Bonne chance !
 

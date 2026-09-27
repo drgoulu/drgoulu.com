@@ -17,6 +17,6 @@ Il y a par exemple le [Moustique du métro de Londres](w:), ou le [Mycète radio
 
 Sur [cette video](https://youtu.be/plVk4NVIUh8?si=JC_ZMjU8aLn4J8GI) d' une expérience réelle vous voyez apparaître des dizaines de lignées de bactéries résistantes aux antibiotiques
 
-[https://youtu.be/plVk4NVIUh8?si=...](https://youtu.be/plVk4NVIUh8?si=JC_ZMjU8aLn4J8GI)
+{{< youtube "plVk4NVIUh8" >}}
 
 Et bien sûr il y a toutes les plantes et animaux obtenus par sélection artificielle dans l'agriculture et l'élevage. Le doberman et le chuhuahua font toujours partie de la même espèce que le loup, mais ça ne va pas durer…

@@ -17,7 +17,7 @@ Et en passant, un champ magnétique ne génère pas de courant. Vous pouvez lais
 
 Bon, il est l'heure de vous montrer un type absolument génial, lauréat du Prix de Nobel de Physique et pour lequel j'ai une admiration sans borne être très très embêté par une question similaire à la votre [[1]](#XiQoc)
 
-[https://youtu.be/MO0r930Sn_8](https://youtu.be/MO0r930Sn_8)
+{{< youtube "MO0r930Sn_8" >}}
 
 En gros il explique que la réponse à une telle question dépend énormément de votre niveau de formation. Si vous maîtrisez les [Équations de Maxwell](w:), c'est "évident". J'ai eu des clients dans l'industrie des systèmes électromécaniques qui "voyaient" les champs avant que le logiciel d'éléments finis que je leur vendais ne les calcule. Et franchement je suis loin de ce niveau.
 

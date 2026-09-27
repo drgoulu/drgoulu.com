@@ -20,6 +20,6 @@ Le mien date du [25 août 1991](https://www.daily-rock.com/monsters-of-rock-91-a
 
 Je me rappelle même de l'instant exact : 3 minutes et 24 secondes après le début de ce morceau :
 
-[https://youtu.be/8fPf6L0XNvM](https://youtu.be/8fPf6L0XNvM)
+{{< youtube "8fPf6L0XNvM" >}}
 
 Visiblement, les canons ont été déplacés vers l'arrière de la scène et pointés vers le haut depuis, mais à l'époque ils étaient sur les côtés, juste au dessus de l'endroit où je me trouvais. Je les avais trouvé décoratifs, je ne savais pas qu'ils étaient chargés…
