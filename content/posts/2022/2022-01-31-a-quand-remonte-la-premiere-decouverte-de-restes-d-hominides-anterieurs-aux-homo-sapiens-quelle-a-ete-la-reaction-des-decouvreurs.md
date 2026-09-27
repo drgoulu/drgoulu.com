@@ -19,8 +19,6 @@ Un des premiers fossiles "non Sapiens" découvert et analysé scientifiquement e
 
 Pas très ancien donc. 30 à 50'000 ans seulement.
 
-Un des premiers fossiles découverts antérieur à Sapiens est
-
-[https://fr.wikipedia.org/wiki/Ho...](w:Homme_de_Java)
+Un des premiers fossiles découverts antérieur à Sapiens est l'[Homme de Java](w:)
 
 > Les premiers vestiges fossiles ont été découverts en 1891 et 1892 par le médecin et anatomiste néerlandais [Eugène Dubois](w:). Ils lui ont permis de définir en 1894 l'espèce _Pithecanthropus erectus_, renommée dans les années 1960 [_Homo erectus_](w:Homo_erectus). D'autres fossiles ont été mis au jour par la suite à Trinil, en 1898 et 1900, puis en 1978. L'attribution de certains d'entre eux à l'espèce _Homo erectus_ est discutée. Selon la dernière étude de datation publiée en 2014, la couche géologique des fossiles de 1891 serait datée d'environ 500 000 ans.
