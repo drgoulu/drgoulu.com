@@ -1,16 +1,14 @@
 ---
 title: À partir de quelle taille un astéroïde serait dangereux s'il s'écrase sur la Terre ?
-slug: a-partir-de-quelle-taille-un-asteroide-serait-dangereux-s-il-s-ecrase-sur-la-terre
-date: '2020-01-24'
+date: 2020-01-24
 draft: false
-categories:
-- Quora
 tags:
-- sciences
-- astronomie
-- terre
-- planetes
-- nature
+  - astronomie
+  - catastrophe
+  - météorite
+categories:
+  - Quora
+slug: a-partir-de-quelle-taille-un-asteroide-serait-dangereux-s-il-s-ecrase-sur-la-terre
 coverImage: ./images/qimg-32a23f8663967436d6c9afeae42f2005.png
 ---
 

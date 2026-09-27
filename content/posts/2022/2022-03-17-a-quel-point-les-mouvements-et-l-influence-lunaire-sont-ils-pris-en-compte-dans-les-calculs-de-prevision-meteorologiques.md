@@ -1,11 +1,13 @@
 ---
 title: A quel point les mouvements et l'influence lunaire sont-ils pris en compte dans les calculs de prévision météorologiques ?
-slug: a-quel-point-les-mouvements-et-l-influence-lunaire-sont-ils-pris-en-compte-dans-les-calculs-de-prevision-meteorologiques
-date: '2022-03-17'
+date: 2022-03-17
 draft: false
+tags:
+  - marées
+  - meteorologie
 categories:
-- Quora
-tags: []
+  - Quora
+slug: a-quel-point-les-mouvements-et-l-influence-lunaire-sont-ils-pris-en-compte-dans-les-calculs-de-prevision-meteorologiques
 coverImage: ./images/quora.png
 ---
 

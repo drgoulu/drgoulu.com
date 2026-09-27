@@ -1,20 +1,20 @@
 ---
 title: À quel moment en tant que programmeur informatique avez-vous commencé à utiliser les mathématiques avancées dans votre code ?
-slug: a-quel-moment-en-tant-que-programmeur-informatique-avez-vous-commence-a-utiliser-les-mathematiques-avancees-dans-votre-code
-date: '2020-03-20'
+date: 2020-03-20
 draft: false
-categories:
-- Quora
 tags:
-- mathematiques
-- informatique
-- programmation
-- langage
-- algorithmes
+  - mathematiques
+  - informatique
+  - programmation
+  - langage
+  - algorithmes
+categories:
+  - Quora
+slug: a-quel-moment-en-tant-que-programmeur-informatique-avez-vous-commence-a-utiliser-les-mathematiques-avancees-dans-votre-code
 coverImage: ./images/quora.png
 ---
 
-*Réponse publiée [sur Quora](https://fr.quora.com/%C3%80-quel-moment-en-tant-que-programmeur-informatique-avez-vous-commenc%C3%A9-%C3%A0-utiliser-les-math%C3%A9matiques-avanc%C3%A9es-dans-votre-code/answer/Dr-Goulu)*
+_Réponse publiée_ [_sur Quora_](https://fr.quora.com/%C3%80-quel-moment-en-tant-que-programmeur-informatique-avez-vous-commenc%C3%A9-%C3%A0-utiliser-les-math%C3%A9matiques-avanc%C3%A9es-dans-votre-code/answer/Dr-Goulu)
 
 Ca dépend de ce que vous appelez "mathématiques avancées", mais mon premier programme était un simulateur d'alunissage donc contenait un double intégrateur numérique. (histoire ici : [Pourquoi je kiffe la science - Pourquoi Comment Combien](/2013/04/28/pourquoi-je-kiffe-la-science/) )
 
@@ -24,6 +24,6 @@ Récemment j'ai du revenir à ce bon vieux SQL, et j'ai réalisé que comprendre
 
 Aujourd'hui il existe évidemment des librairies de code mathématique très performantes, fiables et avancées pour plein d'applications en vision, machine learning, optimisation etc, mais encore faut-il savoir quelle méthode utiliser…
 
-Notes de bas de page
+###### Notes de bas de page
 
 [[1]](#cite-ygeUY)[Query Optimization in Relational Algebra - GeeksforGeeks](https://www.geeksforgeeks.org/query-optimization-in-relational-algebra/)

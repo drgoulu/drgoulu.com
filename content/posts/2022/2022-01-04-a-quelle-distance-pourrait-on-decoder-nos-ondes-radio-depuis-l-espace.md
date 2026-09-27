@@ -1,15 +1,19 @@
 ---
 title: A quelle distance pourrait-on décoder nos ondes "radio" depuis l'espace ?
-slug: a-quelle-distance-pourrait-on-decoder-nos-ondes-radio-depuis-l-espace
-date: '2022-01-04'
+date: 2022-01-04
 draft: false
+tags:
+  - astro
+  - radio
+  - extraterrestres
+  - calcul
 categories:
-- Quora
-tags: []
+  - Quora
+slug: a-quelle-distance-pourrait-on-decoder-nos-ondes-radio-depuis-l-espace
 coverImage: ./images/quora.png
 ---
 
-*Réponse publiée [sur Quora](https://fr.quora.com/A-quelle-distance-pourrait-on-d%C3%A9coder-nos-ondes-radio-depuis-l-espace/answer/Dr-Goulu)*
+_Réponse publiée_ [_sur Quora_](https://fr.quora.com/A-quelle-distance-pourrait-on-d%C3%A9coder-nos-ondes-radio-depuis-l-espace/answer/Dr-Goulu)
 
 Pas d'accord avec les autres réponses.
 
@@ -27,7 +31,7 @@ Et ça, c'est à une petite année-lumière de rien du tout, encore dans la banl
 
 Plus loin, le $d^2$ au dénominateur [Loi en carré inverse](w:) fait très mal au SETI :
 
-- à 4 années-lumière (~Proxima du Centaure), on reçoit 16x moins
+- à 4 années-lumière (\~Proxima du Centaure), on reçoit 16x moins
 - à 10 années-lumière, on reçoit 100x moins
 - à 100 années-lumière mentionnées dans d'autres réponses, on reçoit 10'000 fois moins.
 
@@ -36,9 +40,9 @@ Par contre, comme ça a été dit ailleurs, on émet désormais avec des émette
 Bon, ça c'était pour nos émissions "à usage interne". Parce qu'effectivement, si on veut émettre un signal destiné à E.T., on peut espérer le faire :
 
 1. avec des antennes très directionnelles dirigée vers un récepteur potentiel présumé. Par exemple les émetteurs du [Deep Space Network](w:)qui communiquent avec nos sondes lointaines peuvent émettre 400 kW, mais focalisés dans un angle $\theta = 0.2°$environ, ce qui fait que la densité surfacique de puissance reçue à une distance d vaut[https://fr.wikipedia.org/wiki/Densité_surfacique_de_puissance](w:Densité_surfacique_de_puissance)$\varphi = P/\left(2\pi.d^2.(1-\cos{\theta})\right)$ . A une année-lumière on reçoit $1.167\times 10^{-22}$ Watt par m2, ce qui commence a être presque détectable
-2. en envoyant un message étudié pour être simple, clair, résistant aux erreurs comme le [Cosmic Call — Wikipédia](w:Cosmic_Call)
-3. et en le répétant plusieurs fois, jusqu'à ce qu'on lise [La Forêt sombre](w:)et qu'on s'aperçoive que c'est une grosse bêtise.
+2. en envoyant un message étudié pour être simple, clair, résistant aux erreurs comme le [Cosmic Call](w:Cosmic_Call)
+3. et en le répétant plusieurs fois, jusqu'à ce qu'on lise [La Forêt sombre](w:) et qu'on s'aperçoive que c'est une grosse bêtise.
 
 Mais bon, même comme ça, il n'y a raisonnablement aucune chance qu'un tel message puisse être reçu et décodé à plus de 10 années lumière. A 100, vous oubliez.
 
-[https://www.drgoulu.com/2011/09/...](/2011/09/25/comment-comptent-les-extraterrestres/)
+[comment comptent les extraterrestres ](/2011/09/25/comment-comptent-les-extraterrestres/)

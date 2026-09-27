@@ -1,22 +1,22 @@
 ---
-title: <<La philosophie est-elle une activité futile ? >> Introduction par citation et développement.
-slug: la-philosophie-est-elle-une-activite-futile-introduction-par-citation-et-developpement
-date: '2024-12-04'
+title: La philosophie est-elle une activité futile ? Introduction par citation et développement.
+date: 2024-12-04
 draft: false
-categories:
-- Quora
 tags:
-- philosophie
-- developpement
-- philosophique
-- activite-humaine
-- activite
+  - philosophie
+  - activite
+categories:
+  - Quora
+slug: la-philosophie-est-elle-une-activite-futile-introduction-par-citation-et-developpement
 coverImage: ./images/quora.png
 ---
 
-*Réponse publiée [sur Quora](https://fr.quora.com/La-philosophie-est-elle-une-activit%C3%A9-futile-Introduction-par-citation-et-d%C3%A9veloppement/answer/Dr-Goulu)*
+_Réponse publiée_ [_sur Quora_](https://fr.quora.com/La-philosophie-est-elle-une-activit%C3%A9-futile-Introduction-par-citation-et-d%C3%A9veloppement/answer/Dr-Goulu)
 
-Citation : "l'intelligence c'est pas sorcier : il suffit de penser à une connerie et de dire l'inverse" (Michel Colucci, philosophe du 20ème siècle)
+Citation : 
+
+> l'intelligence c'est pas sorcier : il suffit de penser à une connerie et de dire l'inverse
+> (Michel Colucci, philosophe du 20ème siècle)
 
 Développement : pour chaque point de vue philosophique, on trouve un philosopheux qui défend le contraire.
 

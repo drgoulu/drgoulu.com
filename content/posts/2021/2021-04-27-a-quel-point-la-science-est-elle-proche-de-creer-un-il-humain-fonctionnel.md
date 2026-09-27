@@ -1,11 +1,14 @@
 ---
 title: À quel point la science est-elle proche de créer un œil humain fonctionnel ?
-slug: a-quel-point-la-science-est-elle-proche-de-creer-un-il-humain-fonctionnel
-date: '2021-04-27'
+date: 2021-04-27
 draft: false
+tags:
+  - oeil
+  - vision
+  - technologie
 categories:
-- Quora
-tags: []
+  - Quora
+slug: a-quel-point-la-science-est-elle-proche-de-creer-un-il-humain-fonctionnel
 coverImage: ./images/quora.png
 ---
 

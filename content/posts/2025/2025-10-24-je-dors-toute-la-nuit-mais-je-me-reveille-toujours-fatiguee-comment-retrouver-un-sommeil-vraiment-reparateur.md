@@ -1,16 +1,13 @@
 ---
-title: '> Je dors toute la nuit, mais je me réveille toujours fatiguée. Comment retrouver un sommeil vraiment réparateur ?'
-slug: je-dors-toute-la-nuit-mais-je-me-reveille-toujours-fatiguee-comment-retrouver-un-sommeil-vraiment-reparateur
-date: '2025-10-24'
+title: Je dors toute la nuit, mais je me réveille toujours fatiguée. Comment retrouver un sommeil vraiment réparateur ?
+date: 2025-10-24
 draft: false
-categories:
-- Comment
 tags:
-- sciences
-- vie
-- sante
-- qualite
-- bien-etre
+  - sommeil
+  - sante
+categories:
+  - Comment
+slug: je-dors-toute-la-nuit-mais-je-me-reveille-toujours-fatiguee-comment-retrouver-un-sommeil-vraiment-reparateur
 coverImage: ./images/quora.png
 ---
 
