@@ -1,60 +1,11 @@
-Rapport des collisions résolues par fusion (59 fusions)
+Rapport des collisions résolues par fusion (47 fusions)
 Date d'exécution : 2026-09-27
 ================================================================================
-
-Fichier cible : content/posts/2019/ces-dernieres-annees-les-progres-technologiques-ont-ete-epoustouflants-ils-nous-ont-rendu-la-vie-plus-facile-mais-compte-tenu-de-la-puissance-de-la-technologie-l-impact-negatif-l-emporte-t-il-sur-le-positif.md
-Articles d'origine fusionnés (2) :
-  - 2019-04-24-ces-dernieres-annees-les-progres-technologiques-ont-ete-epoustouflants-ils-nous-ont-rendu-la-vie-plus-facile-mais-compte-tenu-de-la-puissance-de-la-technologie-l-impact-negatif-l-emporte-t-il-sur-le-positif.md
-  - 2019-04-24-ces-dernieres-annees.md
-
---------------------------------------------------------------------------------
-
-Fichier cible : content/posts/2019/comment-les-grandes-puissances-mondiales-reagiraient-si-un-asteroide-de-100-km-de-diametre-devait-percuter-la-terre-dans-un-an-sans-possibilite-d-etre-stoppe-la-population-de-la-planete-en-serait-elle-informee.md
-Articles d'origine fusionnés (2) :
-  - 2019-05-13-comment-les-grandes-puissances-mondiales-reagiraient-si-un-asteroide-de-100-km-de-diametre-devait-percuter-la-terre-dans-un-an-sans-possibilite-d-etre-stoppe-la-population-de-la-planete-en-serait-elle-informee.md
-  - 2019-05-13-comment-les-grandes-puissances-mondiales-reagiraient-si-un-asteroide-de-100-km-de-diametre-devait-percuter-la-terre.md
-
---------------------------------------------------------------------------------
 
 Fichier cible : content/posts/2019/comment-les-scientifiques-savaient-ils-que-les-combinaisons-spatiales-des-premiers-astronautes-resisteraient-aux-differences-de-pression-dans-l-espace-et-protegeraient-entierement.md
 Articles d'origine fusionnés (2) :
   - 2019-04-07-comment-les-scientifiques-savaient-ils-que-les-combinaisons-spatiales-des-premiers-astronautes-resisteraient-aux-differences-de-pression-dans-l-espace-et-protegeraient-entierement.md
   - 2019-08-15-comment-les-scientifiques-savaient-ils-que-les-combinaisons-spatiales-des-premiers-astronautes-resisteraient-aux-differences-de-pression-dans-l-espace-et-protegeraient-entierement.md
-
---------------------------------------------------------------------------------
-
-Fichier cible : content/posts/2019/compte-tenu-de-la-qualite-et-de-l-intensite-de-la-veille-technologique-que-devient-la-valeur-et-l-utilite-du-brevet-d-invention-au-cours-duquel-vous-devoilez-vos-secrets-de-fabrication-en-comparaison-avec-le-secret-industriel.md
-Articles d'origine fusionnés (2) :
-  - 2019-05-16-compte-tenu-de-la-qualite-et-de-l-intensite-de-la-veille-technologique-que-devient-la-valeur-et-l-utilite-du-brevet-d-invention-au-cours-duquel-vous-devoilez-vos-secrets-de-fabrication-en-comparaison-avec-le-secret-industriel.md
-  - 2019-05-16-compte-tenu-de-la-qualite-et-de-l-intensite-de-la-veille-technologique.md
-
---------------------------------------------------------------------------------
-
-Fichier cible : content/posts/2019/dans-une-revue-de-science-vie-de-1945-on-prevoyait-pouvoir-predire-la-meteo-sous-5-jours-alors-que-tant-de-sciences-ont-progresse-ces-derniers-75-ans-pourquoi-la-meteorologie-reste-t-elle-en-panne.md
-Articles d'origine fusionnés (2) :
-  - 2019-05-15-dans-une-revue-de-science-vie-de-1945-on-prevoyait-pouvoir-predire-la-meteo-sous-5-jours-alors-que-tant-de-sciences-ont-progresse-ces-derniers-75-ans-pourquoi-la-meteorologie-reste-t-elle-en-panne.md
-  - 2019-05-15-dans-une-revue-de-science-vie-de-1945.md
-
---------------------------------------------------------------------------------
-
-Fichier cible : content/posts/2019/les-trous-noirs-tournent-rapidement-sur-eux-memes-mais-dans-quel-sens-pourraient-ils-etre-une-sorte-de-pivot-des-galaxies-spiralees-quelle-est-la-difference-entre-la-force-centrifuge-ou-centripete-et-la-gravitation.md
-Articles d'origine fusionnés (2) :
-  - 2019-03-19-les-trous-noirs-tournent-rapidement-sur-eux-memes-mais-dans-quel-sens-pourraient-ils-etre-une-sorte-de-pivot-des-galaxies-spiralees-quelle-est-la-difference-entre-la-force-centrifuge-ou-centripete-et-la-gravitation.md
-  - 2019-03-19-les-trous-noirs-tournent-rapidement-sur-eux-memes-mais-dans-quel-sens.md
-
---------------------------------------------------------------------------------
-
-Fichier cible : content/posts/2019/pourquoi-a-votre-avis-eht-a-pu-capturer-une-image-du-trou-noir-pourtant-situe-dans-une-galaxie-lointaine-de-la-notre-m87-sans-pouvoir-avoir-un-portrait-du-trou-noir-sagittarius-a-de-notre-galaxie-mere-qui-est-plus-pres.md
-Articles d'origine fusionnés (2) :
-  - 2019-04-11-pourquoi-a-votre-avis-eht-a-pu-capturer-une-image-du-trou-noir-pourtant-situe-dans-une-galaxie-lointaine-de-la-notre-m87-sans-pouvoir-avoir-un-portrait-du-trou-noir-sagittarius-a-de-notre-galaxie-mere-qui-est-plus-pres.md
-  - 2019-04-11-pourquoi.md
-
---------------------------------------------------------------------------------
-
-Fichier cible : content/posts/2019/pourquoi-est-ce-que-la-communaute-scientifique-depuis-une-centaine-d-annees-tente-de-detruire-l-influence-des-hommes-comme-halton-arp-immanuel-velikovsky-nikola-tesla-pour-ne-citer-qu-eux-d-une-grande-listes-de-paria-pour-la-science.md
-Articles d'origine fusionnés (2) :
-  - 2019-04-28-pourquoi-est-ce-que-la-communaute-scientifique-depuis-une-centaine-d-annees-tente-de-detruire-l-influence-des-hommes-comme-halton-arp-immanuel-velikovsky-nikola-tesla-pour-ne-citer-qu-eux-d-une-grande-listes-de-paria-pour-la-science.md
-  - 2019-04-28-pourquoi-est-ce-que-la-communaute-scientifique-depuis-une-centaine-d-annees-tente-de-detruire-l-influence-des-hommes-comme-halton-arp.md
 
 --------------------------------------------------------------------------------
 
@@ -80,45 +31,10 @@ Articles d'origine fusionnés (3) :
 
 --------------------------------------------------------------------------------
 
-Fichier cible : content/posts/2019/quel-type-de-communications-intelligentes-extraterrestres-pourrait-atteindre-la-terre-pourrions-nous-recevoir-actuellement-ces-tentatives-de-communication-et-combien-de-temps-faudrait-il-pour-les-comprendre.md
-Articles d'origine fusionnés (2) :
-  - 2019-04-08-quel-type-de-communications-intelligentes-extraterrestres-pourrait-atteindre-la-terre-pourrions-nous-recevoir-actuellement-ces-tentatives-de-communication-et-combien-de-temps-faudrait-il-pour-les-comprendre.md
-  - 2019-04-08-quel-type-de-communications-intelligentes-extraterrestres-pourrait-atteindre-la-terre.md
-
---------------------------------------------------------------------------------
-
 Fichier cible : content/posts/2019/quelles-seront-les-prochaines-especes-a-disparaitre.md
 Articles d'origine fusionnés (2) :
   - 2019-05-26-quelles-seront-les-prochaines-especes-a-disparaitre.md
   - 2019-08-18-quelles-seront-les-prochaines-especes-a-disparaitre.md
-
---------------------------------------------------------------------------------
-
-Fichier cible : content/posts/2019/qui-pense-que-l-apocalypse-ne-sera-pas-causee-par-une-guerre-nucleaire-ou-par-des-zombies-mais-plutot-par-le-deplacement-magnetique-de-la-terre-si-vous-avez-une-autre-raison-qui-n-est-pas-specifie-pouvez-vous-s-il-vous-plait-l-indiquer.md
-Articles d'origine fusionnés (2) :
-  - 2019-04-04-qui-pense-que-l-apocalypse-ne-sera-pas-causee-par-une-guerre-nucleaire-ou-par-des-zombies-mais-plutot-par-le-deplacement-magnetique-de-la-terre-si-vous-avez-une-autre-raison-qui-n-est-pas-specifie-pouvez-vous-s-il-vous-plait-l-indiquer.md
-  - 2019-04-04-qui-pense-que-l-apocalypse-ne-sera-pas-causee-par-une-guerre-nucleaire-ou-par-des-zombies-mais-plutot-par-le-deplacement-magnetique-de-la-terre-si-vous-avez-une-autre-raison-qui-n-est-pas-specifie.md
-
---------------------------------------------------------------------------------
-
-Fichier cible : content/posts/2019/si-je-prenais-une-video-image-par-image-d-un-atome-d-hydrogene-et-de-son-electron-est-ce-que-je-trouverais-cet-electron-se-deplacant-le-long-d-une-trajectoire-ou-se-teleportant-au-hasard-dans-le-nuage.md
-Articles d'origine fusionnés (2) :
-  - 2019-05-08-si-je-prenais-une-video-image-par-image-d-un-atome-d-hydrogene-et-de-son-electron-est-ce-que-je-trouverais-cet-electron-se-deplacant-le-long-d-une-trajectoire-ou-se-teleportant-au-hasard-dans-le-nuage.md
-  - 2019-05-08-si-je-prenais-une-video-image-par-image-d-un-atome-d-hydrogene-et-de-son-electron.md
-
---------------------------------------------------------------------------------
-
-Fichier cible : content/posts/2019/si-l-evolution-biologique-est-vraie-pourquoi-ne-voyons-nous-pas-des-especes-a-des-stades-intermediaires-de-developpement-ou-sont-les-poissons-aux-pattes-qui-essaient-de-sortir-de-l-ocean-ou-les-grands-singes-qui-perdent-leurs-cheveux.md
-Articles d'origine fusionnés (2) :
-  - 2019-04-10-si-l-evolution-biologique-est-vraie-pourquoi-ne-voyons-nous-pas-des-especes-a-des-stades-intermediaires-de-developpement-ou-sont-les-poissons-aux-pattes-qui-essaient-de-sortir-de-l-ocean-ou-les-grands-singes-qui-perdent-leurs-cheveux.md
-  - 2019-04-10-si-l-evolution-biologique-est-vraie.md
-
---------------------------------------------------------------------------------
-
-Fichier cible : content/posts/2019/si-une-fusee-etait-lancee-directement-dans-l-espace-sans-forces-gravitationnelles-proches-de-sa-trajectoire-et-sans-rien-a-percuter-se-deplacerait-elle-reellement-en-ligne-droite-ou-prendrait-elle-une-courbe-sur-son-passage.md
-Articles d'origine fusionnés (2) :
-  - 2019-05-08-si-une-fusee-etait-lancee-directement-dans-l-espace-sans-forces-gravitationnelles-proches-de-sa-trajectoire-et-sans-rien-a-percuter-se-deplacerait-elle-reellement-en-ligne-droite-ou-prendrait-elle-une-courbe-sur-son-passage.md
-  - 2019-05-08-si-une-fusee-etait-lancee-directement-dans-l-espace.md
 
 --------------------------------------------------------------------------------
 

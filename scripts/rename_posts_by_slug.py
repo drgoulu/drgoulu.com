@@ -5,9 +5,11 @@ Renomme tous les fichiers .md dans content/posts/ selon leur champ 'slug'.
 Si un slug a été tronqué à la virgule (ex: 'pourquoi' ou 'bonjour' pour une question Quora complète),
 le slug est recalculé à partir du titre sans considérer la virgule comme délimiteur,
 et mis à jour dans le front-matter du fichier.
-Pour les fichiers ayant le même slug dans le même dossier d'année (vraies collisions) :
+Pour les fichiers ayant le même slug dans le même dossier d'année (collisions) :
 - fusionne le contenu et les métadonnées dans un fichier unique <slug>.md
-- consigne la liste détaillée des fusions dans 'collisions.txt' à la racine.
+- si les fichiers ont la même date et le même contenu, conserve le nom de fichier le plus long,
+  supprime le plus court et ne l'inscrit pas dans collisions.txt
+- consigne la liste détaillée des vraies fusions (dates ou contenus différents) dans 'collisions.txt'.
 """
 
 import os
@@ -191,11 +193,18 @@ def main():
     # 2. Traitement des collisions
     print("Processing collisions...")
     collision_logs = []
+    identical_duplicates_count = 0
     for (root, target_fname), flist in sorted(collision_groups.items(), key=lambda x: (x[0][0], x[0][1])):
         flist.sort()
         file_paths = [os.path.join(root, f) for f in flist]
         target_path = os.path.join(root, target_fname)
         target_slug = os.path.splitext(target_fname)[0]
+
+        parsed = [parse_markdown(p) for p in file_paths]
+        dates = set(str(fm.get("date", "")) for fm, _, _, _ in parsed)
+        bodies = [body.strip() for _, body, _, _ in parsed]
+        same_date = len(dates) == 1
+        same_body = all(b == bodies[0] for b in bodies)
 
         merged_content = merge_collision_group(file_paths, target_path, target_slug)
 
@@ -208,10 +217,15 @@ def main():
             if p != target_path:
                 os.remove(p)
 
-        collision_logs.append({
-            "target": target_path,
-            "sources": file_paths,
-        })
+        # Si même date et même contenu, il s'agissait d'un simple doublon avec nom tronqué
+        # On ne consigne dans collisions.txt que les vraies fusions nécessitant un suivi
+        if same_date and same_body:
+            identical_duplicates_count += 1
+        else:
+            collision_logs.append({
+                "target": target_path,
+                "sources": file_paths,
+            })
 
     # 3. Traitement des renommages simples
     print("Processing single renames...")
@@ -238,8 +252,8 @@ def main():
     print(f"Terminé avec succès !")
     print(f"- {len(slug_corrections)} slugs mis à jour dans le front-matter.")
     print(f"- {renamed_count} fichiers renommés.")
-    print(f"- {len(collision_logs)} groupes de collisions fusionnés.")
-    print(f"- Rapport généré dans {COLLISIONS_FILE}.")
+    print(f"- {identical_duplicates_count} doublons identiques éliminés (même date & contenu, nom plus court supprimé).")
+    print(f"- {len(collision_logs)} groupes de vraies collisions fusionnés et consignés dans {COLLISIONS_FILE}.")
 
 if __name__ == "__main__":
     main()
