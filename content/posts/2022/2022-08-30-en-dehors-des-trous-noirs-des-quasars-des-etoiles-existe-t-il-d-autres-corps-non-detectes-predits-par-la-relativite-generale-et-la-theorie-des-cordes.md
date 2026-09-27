@@ -1,16 +1,16 @@
 ---
 title: En dehors des trous noirs, des quasars, des étoiles, existe-t-il d'autres corps non détectés prédits par la relativité générale et la théorie des cordes ?
-slug: en-dehors-des-trous-noirs-des-quasars-des-etoiles-existe-t-il-d-autres-corps-non-detectes-predits-par-la-relativite-generale-et-la-theorie-des-cordes
-date: '2022-08-30'
+date: 2022-08-30
 draft: false
-categories:
-- Quora
 tags:
-- physique
-- astronomie
-- astrophysique
-- theorie
-- physique-theorique
+  - physique
+  - astronomie
+  - astrophysique
+  - theorie
+  - cordes
+categories:
+  - Quora
+slug: en-dehors-des-trous-noirs-des-quasars-des-etoiles-existe-t-il-d-autres-corps-non-detectes-predits-par-la-relativite-generale-et-la-theorie-des-cordes
 coverImage: ./images/quora.png
 ---
 
