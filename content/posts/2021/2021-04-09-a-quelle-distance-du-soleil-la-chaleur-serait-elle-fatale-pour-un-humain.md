@@ -1,25 +1,26 @@
 ---
 title: À quelle distance du soleil la chaleur serait-elle fatale pour un humain ?
-slug: a-quelle-distance-du-soleil-la-chaleur-serait-elle-fatale-pour-un-humain
-date: '2021-04-09'
+date: 2021-04-09
 draft: false
+tags:
+  - astronomie
+  - calcul
+  - thermique
 categories:
-- Quora
-tags: []
+  - Quora
+slug: a-quelle-distance-du-soleil-la-chaleur-serait-elle-fatale-pour-un-humain
 coverImage: ./images/qimg-a3b6d2f0306edf110fa50da465823306.png
 ---
 
-*Réponse publiée [sur Quora](https://fr.quora.com/%C3%80-quelle-distance-du-soleil-la-chaleur-serait-elle-fatale-pour-un-humain/answer/Dr-Goulu)*
+_Réponse publiée_ [_sur Quora_](https://fr.quora.com/%C3%80-quelle-distance-du-soleil-la-chaleur-serait-elle-fatale-pour-un-humain/answer/Dr-Goulu)
 
 C'est donné par l'équation
 
 $${\displaystyle T_{\mathrm {eq} }={\left({\frac {L_{o}\left(1-a\right)}{16\sigma \pi d^{2}}}\right)}^{1/4}}$$
 
-utilisée pour le calcul de la
+utilisée pour le calcul de la [température d'équilibre à la surface d'une planète ](w:)
 
-[https://fr.wikipedia.org/wiki/Te...](w:Température_d'équilibre_à_la_surface_d'une_planète)
-
-où $L_0$ est la luminosité du Soleil ($3,828 10^{26} W$), *σ* est la [constante de Stefan–Boltzmann](w:Constante_de_Stefan-Boltzmann), et d la distance de l'objet au Soleil.
+où $L_0$ est la luminosité du Soleil ($3,828 10^{26} W$), _σ_ est la [constante de Stefan–Boltzmann](w:Constante_de_Stefan-Boltzmann), et d la distance de l'objet au Soleil.
 
 La seule variable à choisir est $a$, l'[albedo](w:Albédo_de_Bond) qui définit la quantité de lumière réfléchie par l'objet. L'albedo de la peau humaine est d'environ 0.4, mais dans une combinaison blanche d'astronaute elle vaut plutôt 0.9.
 
