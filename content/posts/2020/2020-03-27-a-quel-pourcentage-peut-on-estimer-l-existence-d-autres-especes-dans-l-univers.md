@@ -1,16 +1,16 @@
 ---
 title: A quel pourcentage peut-on estimer l'existence d'autres espèces dans l'Univers ?
-slug: a-quel-pourcentage-peut-on-estimer-l-existence-d-autres-especes-dans-l-univers
-date: '2020-03-27'
+date: 2020-03-27
 draft: false
-categories:
-- Quora
 tags:
-- astronomie
-- astrophysique
-- univers
-- cosmologie
-- recherche-scientifique
+  - astronomie
+  - astrophysique
+  - univers
+  - probabilité
+  - vie
+categories:
+  - Quora
+slug: a-quel-pourcentage-peut-on-estimer-l-existence-d-autres-especes-dans-l-univers
 coverImage: ./images/quora.png
 ---
 
