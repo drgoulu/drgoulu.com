@@ -1,16 +1,14 @@
 ---
 title: À propos de la création de la terre, croyez-vous dans la théorie biblique ou dans la théorie du Big Bang ?
-slug: a-propos-de-la-creation-de-la-terre-croyez-vous-dans-la-theorie-biblique-ou-dans-la-theorie-du-big-bang
-date: '2022-01-23'
+date: 2022-01-23
 draft: false
-categories:
-- Quora
 tags:
-- sciences
-- astronomie
-- univers
-- cosmologie
-- religion
+  - univers
+  - religion
+  - créationnisme
+categories:
+  - Quora
+slug: a-propos-de-la-creation-de-la-terre-croyez-vous-dans-la-theorie-biblique-ou-dans-la-theorie-du-big-bang
 coverImage: ./images/quora.png
 ---
 
