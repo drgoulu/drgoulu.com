@@ -1,0 +1,21 @@
+---
+
+title: Des fois, j'ai l'impression qu'il vaut mieux être philosophe que scientifique quand je vois que beaucoup de scientifiques n'aiment pas penser mais se contentent d'apprendre dans les deux sens du terme, vous en pensez quoi ?
+slug: des-fois-j-ai-l-impression-qu-il-vaut-mieux-etre-philosophe-que-scientifique-quand-je-vois-que-beaucoup-de-scientifiques-n-aiment-pas-penser-mais-se-contentent-d-apprendre-dans-les-deux-sens-du-terme-vous-en-pensez-quoi
+date: '2024-09-14'
+draft: false
+categories:
+- Quora
+tags: []
+coverImage: ./images/quora.png
+---
+
+*Réponse publiée [sur Quora](https://fr.quora.com/Des-fois-jai-limpression-quil-vaut-mieux-%C3%AAtre-philosophe-que-scientifique-quand-je-vois-que-beaucoup-de-scientifiques-naiment-pas-penser-mais-se-contentent-dapprendre-dans-les-deux-sens-du/answer/Dr-Goulu)*
+
+En sciences on a appris à se méfier de nos [Biais cognitif](w:). Effectivement, la science moderne est beaucoup plus basé sur l"expérimentation ([Empirisme](w:)) que sur la pensée (c'est quoi ? Vous voulez dire la raison ? [Rationalisme](w:) ? )
+
+A mon sens les philosopheux font l'inverse. Ils cultivent des biais cognitifs, comme l'[erreur fondamentale d'attribution](w:)pour justifier leurs avis divergents sur absolument tout.
+
+Pour rappel, le titre de philosophe n'est pas protégé. N'importe qui peut se déclarer philosophe. Ce qui est protégé c'est les titres universitaires (licence, master, doctorat) qui signifient juste que vous avez étudié quelqus philosopheux. Ou même pas : votre serviteur a est titulaire d'un "PhD", abréviation de [philosophiae doctor](w:en:Doctor_of_Philosophy) après une thèse de robotique…
+
+Donc voilà, si vous voulez raconter n'importe quoi sur ce que vous ignorez, devenez philosophe. Mais ne venez pas pleurer si personne ne vous paie pour ça.

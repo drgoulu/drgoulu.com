@@ -1,0 +1,419 @@
+Rapport des collisions résolues par fusion (59 fusions)
+Date d'exécution : 2026-09-27
+================================================================================
+
+Fichier cible : content/posts/2019/ces-dernieres-annees-les-progres-technologiques-ont-ete-epoustouflants-ils-nous-ont-rendu-la-vie-plus-facile-mais-compte-tenu-de-la-puissance-de-la-technologie-l-impact-negatif-l-emporte-t-il-sur-le-positif.md
+Articles d'origine fusionnés (2) :
+  - 2019-04-24-ces-dernieres-annees-les-progres-technologiques-ont-ete-epoustouflants-ils-nous-ont-rendu-la-vie-plus-facile-mais-compte-tenu-de-la-puissance-de-la-technologie-l-impact-negatif-l-emporte-t-il-sur-le-positif.md
+  - 2019-04-24-ces-dernieres-annees.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2019/comment-les-grandes-puissances-mondiales-reagiraient-si-un-asteroide-de-100-km-de-diametre-devait-percuter-la-terre-dans-un-an-sans-possibilite-d-etre-stoppe-la-population-de-la-planete-en-serait-elle-informee.md
+Articles d'origine fusionnés (2) :
+  - 2019-05-13-comment-les-grandes-puissances-mondiales-reagiraient-si-un-asteroide-de-100-km-de-diametre-devait-percuter-la-terre-dans-un-an-sans-possibilite-d-etre-stoppe-la-population-de-la-planete-en-serait-elle-informee.md
+  - 2019-05-13-comment-les-grandes-puissances-mondiales-reagiraient-si-un-asteroide-de-100-km-de-diametre-devait-percuter-la-terre.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2019/comment-les-scientifiques-savaient-ils-que-les-combinaisons-spatiales-des-premiers-astronautes-resisteraient-aux-differences-de-pression-dans-l-espace-et-protegeraient-entierement.md
+Articles d'origine fusionnés (2) :
+  - 2019-04-07-comment-les-scientifiques-savaient-ils-que-les-combinaisons-spatiales-des-premiers-astronautes-resisteraient-aux-differences-de-pression-dans-l-espace-et-protegeraient-entierement.md
+  - 2019-08-15-comment-les-scientifiques-savaient-ils-que-les-combinaisons-spatiales-des-premiers-astronautes-resisteraient-aux-differences-de-pression-dans-l-espace-et-protegeraient-entierement.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2019/compte-tenu-de-la-qualite-et-de-l-intensite-de-la-veille-technologique-que-devient-la-valeur-et-l-utilite-du-brevet-d-invention-au-cours-duquel-vous-devoilez-vos-secrets-de-fabrication-en-comparaison-avec-le-secret-industriel.md
+Articles d'origine fusionnés (2) :
+  - 2019-05-16-compte-tenu-de-la-qualite-et-de-l-intensite-de-la-veille-technologique-que-devient-la-valeur-et-l-utilite-du-brevet-d-invention-au-cours-duquel-vous-devoilez-vos-secrets-de-fabrication-en-comparaison-avec-le-secret-industriel.md
+  - 2019-05-16-compte-tenu-de-la-qualite-et-de-l-intensite-de-la-veille-technologique.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2019/dans-une-revue-de-science-vie-de-1945-on-prevoyait-pouvoir-predire-la-meteo-sous-5-jours-alors-que-tant-de-sciences-ont-progresse-ces-derniers-75-ans-pourquoi-la-meteorologie-reste-t-elle-en-panne.md
+Articles d'origine fusionnés (2) :
+  - 2019-05-15-dans-une-revue-de-science-vie-de-1945-on-prevoyait-pouvoir-predire-la-meteo-sous-5-jours-alors-que-tant-de-sciences-ont-progresse-ces-derniers-75-ans-pourquoi-la-meteorologie-reste-t-elle-en-panne.md
+  - 2019-05-15-dans-une-revue-de-science-vie-de-1945.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2019/les-trous-noirs-tournent-rapidement-sur-eux-memes-mais-dans-quel-sens-pourraient-ils-etre-une-sorte-de-pivot-des-galaxies-spiralees-quelle-est-la-difference-entre-la-force-centrifuge-ou-centripete-et-la-gravitation.md
+Articles d'origine fusionnés (2) :
+  - 2019-03-19-les-trous-noirs-tournent-rapidement-sur-eux-memes-mais-dans-quel-sens-pourraient-ils-etre-une-sorte-de-pivot-des-galaxies-spiralees-quelle-est-la-difference-entre-la-force-centrifuge-ou-centripete-et-la-gravitation.md
+  - 2019-03-19-les-trous-noirs-tournent-rapidement-sur-eux-memes-mais-dans-quel-sens.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2019/pourquoi-a-votre-avis-eht-a-pu-capturer-une-image-du-trou-noir-pourtant-situe-dans-une-galaxie-lointaine-de-la-notre-m87-sans-pouvoir-avoir-un-portrait-du-trou-noir-sagittarius-a-de-notre-galaxie-mere-qui-est-plus-pres.md
+Articles d'origine fusionnés (2) :
+  - 2019-04-11-pourquoi-a-votre-avis-eht-a-pu-capturer-une-image-du-trou-noir-pourtant-situe-dans-une-galaxie-lointaine-de-la-notre-m87-sans-pouvoir-avoir-un-portrait-du-trou-noir-sagittarius-a-de-notre-galaxie-mere-qui-est-plus-pres.md
+  - 2019-04-11-pourquoi.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2019/pourquoi-est-ce-que-la-communaute-scientifique-depuis-une-centaine-d-annees-tente-de-detruire-l-influence-des-hommes-comme-halton-arp-immanuel-velikovsky-nikola-tesla-pour-ne-citer-qu-eux-d-une-grande-listes-de-paria-pour-la-science.md
+Articles d'origine fusionnés (2) :
+  - 2019-04-28-pourquoi-est-ce-que-la-communaute-scientifique-depuis-une-centaine-d-annees-tente-de-detruire-l-influence-des-hommes-comme-halton-arp-immanuel-velikovsky-nikola-tesla-pour-ne-citer-qu-eux-d-une-grande-listes-de-paria-pour-la-science.md
+  - 2019-04-28-pourquoi-est-ce-que-la-communaute-scientifique-depuis-une-centaine-d-annees-tente-de-detruire-l-influence-des-hommes-comme-halton-arp.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2019/pourquoi-la-suisse-est-elle-toujours-neutre.md
+Articles d'origine fusionnés (2) :
+  - 2019-07-07-pourquoi-la-suisse-est-elle-toujours-neutre.md
+  - 2019-08-19-pourquoi-la-suisse-est-elle-toujours-neutre.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2019/pourquoi-les-avions-ne-traversent-ils-pas-le-pacifique.md
+Articles d'origine fusionnés (2) :
+  - 2019-03-26-pourquoi-les-avions-ne-traversent-ils-pas-le-pacifique.md
+  - 2019-10-11-pourquoi-les-avions-ne-traversent-ils-pas-le-pacifique.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2019/pourquoi-lhomme-ne-retourne-t-il-pas-sur-la-lune.md
+Articles d'origine fusionnés (3) :
+  - 2019-04-25-pourquoi-lhomme-ne-retourne-t-il-pas-sur-la-lune.md
+  - 2019-05-14-pourquoi-lhomme-ne-retourne-t-il-pas-sur-la-lune.md
+  - 2019-10-06-pourquoi-lhomme-ne-retourne-t-il-pas-sur-la-lune.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2019/quel-type-de-communications-intelligentes-extraterrestres-pourrait-atteindre-la-terre-pourrions-nous-recevoir-actuellement-ces-tentatives-de-communication-et-combien-de-temps-faudrait-il-pour-les-comprendre.md
+Articles d'origine fusionnés (2) :
+  - 2019-04-08-quel-type-de-communications-intelligentes-extraterrestres-pourrait-atteindre-la-terre-pourrions-nous-recevoir-actuellement-ces-tentatives-de-communication-et-combien-de-temps-faudrait-il-pour-les-comprendre.md
+  - 2019-04-08-quel-type-de-communications-intelligentes-extraterrestres-pourrait-atteindre-la-terre.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2019/quelles-seront-les-prochaines-especes-a-disparaitre.md
+Articles d'origine fusionnés (2) :
+  - 2019-05-26-quelles-seront-les-prochaines-especes-a-disparaitre.md
+  - 2019-08-18-quelles-seront-les-prochaines-especes-a-disparaitre.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2019/qui-pense-que-l-apocalypse-ne-sera-pas-causee-par-une-guerre-nucleaire-ou-par-des-zombies-mais-plutot-par-le-deplacement-magnetique-de-la-terre-si-vous-avez-une-autre-raison-qui-n-est-pas-specifie-pouvez-vous-s-il-vous-plait-l-indiquer.md
+Articles d'origine fusionnés (2) :
+  - 2019-04-04-qui-pense-que-l-apocalypse-ne-sera-pas-causee-par-une-guerre-nucleaire-ou-par-des-zombies-mais-plutot-par-le-deplacement-magnetique-de-la-terre-si-vous-avez-une-autre-raison-qui-n-est-pas-specifie-pouvez-vous-s-il-vous-plait-l-indiquer.md
+  - 2019-04-04-qui-pense-que-l-apocalypse-ne-sera-pas-causee-par-une-guerre-nucleaire-ou-par-des-zombies-mais-plutot-par-le-deplacement-magnetique-de-la-terre-si-vous-avez-une-autre-raison-qui-n-est-pas-specifie.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2019/si-je-prenais-une-video-image-par-image-d-un-atome-d-hydrogene-et-de-son-electron-est-ce-que-je-trouverais-cet-electron-se-deplacant-le-long-d-une-trajectoire-ou-se-teleportant-au-hasard-dans-le-nuage.md
+Articles d'origine fusionnés (2) :
+  - 2019-05-08-si-je-prenais-une-video-image-par-image-d-un-atome-d-hydrogene-et-de-son-electron-est-ce-que-je-trouverais-cet-electron-se-deplacant-le-long-d-une-trajectoire-ou-se-teleportant-au-hasard-dans-le-nuage.md
+  - 2019-05-08-si-je-prenais-une-video-image-par-image-d-un-atome-d-hydrogene-et-de-son-electron.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2019/si-l-evolution-biologique-est-vraie-pourquoi-ne-voyons-nous-pas-des-especes-a-des-stades-intermediaires-de-developpement-ou-sont-les-poissons-aux-pattes-qui-essaient-de-sortir-de-l-ocean-ou-les-grands-singes-qui-perdent-leurs-cheveux.md
+Articles d'origine fusionnés (2) :
+  - 2019-04-10-si-l-evolution-biologique-est-vraie-pourquoi-ne-voyons-nous-pas-des-especes-a-des-stades-intermediaires-de-developpement-ou-sont-les-poissons-aux-pattes-qui-essaient-de-sortir-de-l-ocean-ou-les-grands-singes-qui-perdent-leurs-cheveux.md
+  - 2019-04-10-si-l-evolution-biologique-est-vraie.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2019/si-une-fusee-etait-lancee-directement-dans-l-espace-sans-forces-gravitationnelles-proches-de-sa-trajectoire-et-sans-rien-a-percuter-se-deplacerait-elle-reellement-en-ligne-droite-ou-prendrait-elle-une-courbe-sur-son-passage.md
+Articles d'origine fusionnés (2) :
+  - 2019-05-08-si-une-fusee-etait-lancee-directement-dans-l-espace-sans-forces-gravitationnelles-proches-de-sa-trajectoire-et-sans-rien-a-percuter-se-deplacerait-elle-reellement-en-ligne-droite-ou-prendrait-elle-une-courbe-sur-son-passage.md
+  - 2019-05-08-si-une-fusee-etait-lancee-directement-dans-l-espace.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2020/976-observation-dune-correlation-non-predite-entre-galaxies-satellites-masse-de-bulbe-et-masse-baryonique-ca-se-p.md
+Articles d'origine fusionnés (2) :
+  - 2020-02-03-976-observation-dune-correlation-non-predite-entre-galaxies-satellites-masse-de-bulbe-et-masse-baryonique-ca-se-p.md
+  - 2020-02-05-976-observation-dune-correlation-non-predite-entre-galaxies-satellites-masse-de-bulbe-et-masse-baryonique-ca-se-p.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2020/comment-fabriquer-un-aimant.md
+Articles d'origine fusionnés (2) :
+  - 2020-02-24-comment-fabriquer-un-aimant.md
+  - 2020-12-18-comment-fabriquer-un-aimant.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2020/comment-faire-un-voyage-astral.md
+Articles d'origine fusionnés (2) :
+  - 2020-01-20-comment-faire-un-voyage-astral.md
+  - 2020-03-16-comment-faire-un-voyage-astral.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2020/comment-pensez-vous-que-lhumanite-disparaitra.md
+Articles d'origine fusionnés (2) :
+  - 2020-03-13-comment-pensez-vous-que-lhumanite-disparaitra.md
+  - 2020-05-26-comment-pensez-vous-que-lhumanite-disparaitra.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2020/crois-tu-en-l-astrologie.md
+Articles d'origine fusionnés (2) :
+  - 2020-05-28-crois-tu-en-l-astrologie.md
+  - 2020-06-01-crois-tu-en-l-astrologie.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2020/d-ou-vient-la-phrase-ce-n-est-pas-un-bug-mais-une-fonctionnalite-je-l-ai-decouverte-en-regardant-la-serie-silicon-valley-mais-est-elle-plus-ancienne-que-ca.md
+Articles d'origine fusionnés (2) :
+  - 2020-02-04-d-ou-vient-la-phrase-ce-n-est-pas-un-bug-mais-une-fonctionnalite-je-l-ai-decouverte-en-regardant-la-serie-silicon-valley-mais-est-elle-plus-ancienne-que-ca.md
+  - 2020-02-28-d-ou-vient-la-phrase-ce-n-est-pas-un-bug-mais-une-fonctionnalite-je-l-ai-decouverte-en-regardant-la-serie-silicon-valley-mais-est-elle-plus-ancienne-que-ca.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2020/est-ce-que-le-covid-19-serait-l-un-des-signes-de-la-fin-du-monde-et-de-l-humanite.md
+Articles d'origine fusionnés (2) :
+  - 2020-04-04-est-ce-que-le-covid-19-serait-l-un-des-signes-de-la-fin-du-monde-et-de-l-humanite.md
+  - 2020-04-28-est-ce-que-le-covid-19-serait-l-un-des-signes-de-la-fin-du-monde-et-de-l-humanite.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2020/la-lune-seloigne-de-la-terre-mais-dans-quelle-direction-va-t-elle.md
+Articles d'origine fusionnés (2) :
+  - 2020-12-05-la-lune-seloigne-de-la-terre-mais-dans-quelle-direction-va-t-elle.md
+  - 2020-12-06-la-lune-seloigne-de-la-terre-mais-dans-quelle-direction-va-t-elle.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2020/les-trous-noirs-finissent-ils-par-disparaitre.md
+Articles d'origine fusionnés (2) :
+  - 2020-05-11-les-trous-noirs-finissent-ils-par-disparaitre.md
+  - 2020-07-22-les-trous-noirs-finissent-ils-par-disparaitre.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2020/lumieres-sur-l-obscur-02-el-chupacabras-chupa-pas-chou.md
+Articles d'origine fusionnés (2) :
+  - 2020-01-21-lumieres-sur-l-obscur-02-el-chupacabras-chupa-pas-chou.md
+  - 2020-02-02-lumieres-sur-l-obscur-02-el-chupacabras-chupa-pas-chou.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2020/pourquoi-ne-peut-on-pas-creuser-jusquau-centre-de-la-terre.md
+Articles d'origine fusionnés (2) :
+  - 2020-05-07-pourquoi-ne-peut-on-pas-creuser-jusquau-centre-de-la-terre.md
+  - 2020-09-11-pourquoi-ne-peut-on-pas-creuser-jusquau-centre-de-la-terre.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2020/pourquoi-parle-t-on-abusivement-de-lentille-gravitationnelle-alors-qu-en-principe-une-lentille-possede-une-distance-focale-ce-qui-n-est-pas-le-cas-pour-un-objet-massif-ne-devrait-on-pas-parler-de-mirage-gravitationnel.md
+Articles d'origine fusionnés (2) :
+  - 2020-12-05-pourquoi-parle-t-on-abusivement-de-lentille-gravitationnelle-alors-qu-en-principe-une-lentille-possede-une-distance-focale.md
+  - 2020-12-06-pourquoi-parle-t-on-abusivement-de-lentille-gravitationnelle-alors-qu-en-principe-une-lentille-possede-une-distance-focale.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2020/pourquoi-selon-vous-le-jeux-video-fortnite-marche-toujours.md
+Articles d'origine fusionnés (2) :
+  - 2020-09-15-pourquoi-selon-vous-le-jeux-video-fortnite-marche-toujours.md
+  - 2020-09-16-pourquoi-selon-vous-le-jeux-video-fortnite-marche-toujours.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2020/que-sont-les-tardigrades.md
+Articles d'origine fusionnés (2) :
+  - 2020-05-04-que-sont-les-tardigrades.md
+  - 2020-08-31-que-sont-les-tardigrades.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2020/quel-s-sens-donnez-vous-a-ce-qui-nous-arrive-en-ce-moment-covid-19.md
+Articles d'origine fusionnés (2) :
+  - 2020-12-01-quel-s-sens-donnez-vous-a-ce-qui-nous-arrive-en-ce-moment-covid-19.md
+  - 2020-12-05-quel-s-sens-donnez-vous-a-ce-qui-nous-arrive-en-ce-moment-covid-19.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2020/quelle-raison-empecherait-des-voyageurs-temporels-de-se-rendre-a-la-fete-organisee-par-stephen-hawkins-le-28-juin-2009-a-l-universite-de-cambridge.md
+Articles d'origine fusionnés (2) :
+  - 2020-11-17-quelle-raison-empecherait-des-voyageurs-temporels-de-se-rendre-a-la-fete-organisee-par-stephen-hawkins-le-28-juin-2009-a-l-universite-de-cambridge.md
+  - 2020-12-21-quelle-raison-empecherait-des-voyageurs-temporels-de-se-rendre-a-la-fete-organisee-par-stephen-hawkins-le-28-juin-2009-a-l-universite-de-cambridge.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2020/quelles-sont-les-races-humaines.md
+Articles d'origine fusionnés (3) :
+  - 2020-12-01-quelles-sont-les-races-humaines.md
+  - 2020-12-02-quelles-sont-les-races-humaines.md
+  - 2020-12-04-quelles-sont-les-races-humaines.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2021/cop-26.md
+Articles d'origine fusionnés (2) :
+  - 2021-10-15-cop-26.md
+  - 2021-10-24-cop-26.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2021/en-chimie-peut-on-dire-que-plusieurs-produits-qui-contiennent-une-vitamine-par-exemple-vitamine-c-et-qui-seraient-melanges-ensemble-donnerait-un-melange-hypervitamine-c.md
+Articles d'origine fusionnés (2) :
+  - 2021-04-05-en-chimie-peut-on-dire-que-plusieurs-produits-qui-contiennent-une-vitamine-par-exemple-vitamine-c-et-qui-seraient-melanges-ensemble-donnerait-un-melange-hypervitamine-c.md
+  - 2021-04-08-en-chimie-peut-on-dire-que-plusieurs-produits-qui-contiennent-une-vitamine-par-exemple-vitamine-c-et-qui-seraient-melanges-ensemble-donnerait-un-melange-hypervitamine-c.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2021/etes-vous-d-accord-avec-le-fait-que-les-chauves-souris-sont-inoffensives-et-utiles-a-l-ecosysteme-contrairement-a-la-pensee-populaire.md
+Articles d'origine fusionnés (2) :
+  - 2021-04-03-etes-vous-d-accord-avec-le-fait-que-les-chauves-souris-sont-inoffensives-et-utiles-a-l-ecosysteme-contrairement-a-la-pensee-populaire.md
+  - 2021-04-05-etes-vous-d-accord-avec-le-fait-que-les-chauves-souris-sont-inoffensives-et-utiles-a-l-ecosysteme-contrairement-a-la-pensee-populaire.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2021/les-humains-sont-pratiquement-sans-defense-pourquoi-les-animaux-sauvages-ne-nous-attaquent-ils-pas-davantage.md
+Articles d'origine fusionnés (2) :
+  - 2021-08-14-les-humains-sont-pratiquement-sans-defense-pourquoi-les-animaux-sauvages-ne-nous-attaquent-ils-pas-davantage.md
+  - 2021-08-17-les-humains-sont-pratiquement-sans-defense-pourquoi-les-animaux-sauvages-ne-nous-attaquent-ils-pas-davantage.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2021/on-dit-que-le-chien-descend-du-loup.md
+Articles d'origine fusionnés (2) :
+  - 2021-03-31-on-dit-que-le-chien-descend-du-loup.md
+  - 2021-04-01-on-dit-que-le-chien-descend-du-loup.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2021/pourquoi-pretendre-qu-il-n-y-a-pas-de-justification-scientifique-aux-races-humaines-alors-que-les-races-sont-une-consideration-commerciale-et-non-pas-scientifique.md
+Articles d'origine fusionnés (2) :
+  - 2021-07-19-pourquoi-pretendre-qu-il-n-y-a-pas-de-justification-scientifique-aux-races-humaines-alors-que-les-races-sont-une-consideration-commerciale-et-non-pas-scientifique.md
+  - 2021-07-22-pourquoi-pretendre-qu-il-n-y-a-pas-de-justification-scientifique-aux-races-humaines-alors-que-les-races-sont-une-consideration-commerciale-et-non-pas-scientifique.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2021/que-sait-on-sur-l-origine-du-virus-covid-19.md
+Articles d'origine fusionnés (2) :
+  - 2021-02-25-que-sait-on-sur-l-origine-du-virus-covid-19.md
+  - 2021-05-04-que-sait-on-sur-l-origine-du-virus-covid-19.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2021/quelle-est-l-empreinte-de-l-humanite-a-l-echelle-cosmique-sommes-nous-irremediablement-des-gros-pollueurs-de-notre-univers-observable-quelle-est-la-source-principale-de-notre-pollution.md
+Articles d'origine fusionnés (2) :
+  - 2021-03-07-quelle-est-l-empreinte-de-l-humanite-a-l-echelle-cosmique-sommes-nous-irremediablement-des-gros-pollueurs-de-notre-univers-observable-quelle-est-la-source-principale-de-notre-pollution.md
+  - 2021-03-08-quelle-est-l-empreinte-de-l-humanite-a-l-echelle-cosmique-sommes-nous-irremediablement-des-gros-pollueurs-de-notre-univers-observable-quelle-est-la-source-principale-de-notre-pollution.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2021/si-nous-pouvions-percevoir-les-ultrasons-seraient-ils-tellement-aigus-que-nous-en-deviendrions-sourds.md
+Articles d'origine fusionnés (2) :
+  - 2021-01-10-si-nous-pouvions-percevoir-les-ultrasons-seraient-ils-tellement-aigus-que-nous-en-deviendrions-sourds.md
+  - 2021-01-11-si-nous-pouvions-percevoir-les-ultrasons-seraient-ils-tellement-aigus-que-nous-en-deviendrions-sourds.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2022/est-ce-que-vous-aussi-la-theorie-deinstein-vous-semble-incomprehensible.md
+Articles d'origine fusionnés (2) :
+  - 2022-08-29-est-ce-que-vous-aussi-la-theorie-deinstein-vous-semble-incomprehensible.md
+  - 2022-08-30-est-ce-que-vous-aussi-la-theorie-deinstein-vous-semble-incomprehensible.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2022/il-est-dit-que-la-sibylle-brula-six-des-neufs-livres-prophetiques-en-sa-possession-ne-laissant-que-les-trois-derniers-intacts-sur-les-choses-de-l-etat-que-suggerez-vous-qu-aurait-pu-contenir-les-six-autres-livres.md
+Articles d'origine fusionnés (2) :
+  - 2022-04-14-il-est-dit-que-la-sibylle-brula-six-des-neufs-livres-prophetiques-en-sa-possession.md
+  - 2022-04-21-il-est-dit-que-la-sibylle-brula-six-des-neufs-livres-prophetiques-en-sa-possession.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2022/pourquoi-les-loups-errants-ne-pouvaient-ils-pas-se-croiser-avec-les-loups-gris-etait-ce-la-raison-de-leur-disparition.md
+Articles d'origine fusionnés (2) :
+  - 2022-04-07-pourquoi-les-loups-errants-ne-pouvaient-ils-pas-se-croiser-avec-les-loups-gris-etait-ce-la-raison-de-leur-disparition.md
+  - 2022-04-08-pourquoi-les-loups-errants-ne-pouvaient-ils-pas-se-croiser-avec-les-loups-gris-etait-ce-la-raison-de-leur-disparition.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2022/quel-anomalie-fait-que-dans-le-caryotype-d-un-spermatozoide-on-a-22-chromosomes-plus-x-et-y.md
+Articles d'origine fusionnés (2) :
+  - 2022-11-13-quel-anomalie-fait-que-dans-le-caryotype-d-un-spermatozoide-on-a-22-chromosomes-plus-x-et-y.md
+  - 2022-11-19-quel-anomalie-fait-que-dans-le-caryotype-d-un-spermatozoide-on-a-22-chromosomes-plus-x-et-y.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2022/qui-est-le-premier-homme-a-decouvrir-qu-il-y-a-d-autres-planetes-dans-l-espace.md
+Articles d'origine fusionnés (2) :
+  - 2022-03-07-qui-est-le-premier-homme-a-decouvrir-qu-il-y-a-d-autres-planetes-dans-l-espace.md
+  - 2022-08-19-qui-est-le-premier-homme-a-decouvrir-qu-il-y-a-d-autres-planetes-dans-l-espace.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2022/qui-selon-vous-symboliserait-la-quintessence-de-l-homme-femme-politique.md
+Articles d'origine fusionnés (2) :
+  - 2022-12-20-qui-selon-vous-symboliserait-la-quintessence-de-l-homme-femme-politique.md
+  - 2022-12-21-qui-selon-vous-symboliserait-la-quintessence-de-l-homme-femme-politique.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2023/en-admettant-l-apparition-de-la-vie-issue-de-l-inerte-comment-se-fait-il-que-dans-un-environnement-terrestre-sans-doute-plus-favorable-on-n-observe-pas-d-apparition-ex-nihilo-de-celle-ci-comme-au-moins-1-fois-en-tant-que-generation.md
+Articles d'origine fusionnés (2) :
+  - 2023-03-25-en-admettant-l-apparition-de-la-vie-issue-de-l-inerte.md
+  - 2023-03-27-en-admettant-l-apparition-de-la-vie-issue-de-l-inerte.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2023/existe-t-il-encore-une-maison-qui-remonte-directement-a-charlemagne-dans-le-cas-contraire-quand-s-est-elle-eteinte-et-quelle-etait-elle.md
+Articles d'origine fusionnés (2) :
+  - 2023-11-07-existe-t-il-encore-une-maison-qui-remonte-directement-a-charlemagne-dans-le-cas-contraire-quand-s-est-elle-eteinte-et-quelle-etait-elle.md
+  - 2023-11-08-existe-t-il-encore-une-maison-qui-remonte-directement-a-charlemagne-dans-le-cas-contraire-quand-s-est-elle-eteinte-et-quelle-etait-elle.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2023/la-decouverte-d-un-immense-gisement-d-hydrogene-pur-en-lorraine-arrivera-t-elle-a-modifier-l-interet-envers-les-voitures-a-hydrogene.md
+Articles d'origine fusionnés (2) :
+  - 2023-09-11-la-decouverte-d-un-immense-gisement-d-hydrogene-pur-en-lorraine-arrivera-t-elle-a-modifier-l-interet-envers-les-voitures-a-hydrogene.md
+  - 2023-09-13-la-decouverte-d-un-immense-gisement-d-hydrogene-pur-en-lorraine-arrivera-t-elle-a-modifier-l-interet-envers-les-voitures-a-hydrogene.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2023/pourquoi-les-climato-septiques-utilisent-ils-l-optimum-climatique-medieval-comme-argument-pour-justifier-que-le-rechauffement-climatique-n-est-pas-d-origine-entropique.md
+Articles d'origine fusionnés (2) :
+  - 2023-01-12-pourquoi-les-climato-septiques-utilisent-ils-l-optimum-climatique-medieval-comme-argument-pour-justifier-que-le-rechauffement-climatique-n-est-pas-d-origine-entropique.md
+  - 2023-01-13-pourquoi-les-climato-septiques-utilisent-ils-l-optimum-climatique-medieval-comme-argument-pour-justifier-que-le-rechauffement-climatique-n-est-pas-d-origine-entropique.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2023/quelles-sont-les-photos-qui-ne-peuvent-etre-expliquees-logiquement.md
+Articles d'origine fusionnés (2) :
+  - 2023-01-19-quelles-sont-les-photos-qui-ne-peuvent-etre-expliquees-logiquement.md
+  - 2023-05-08-quelles-sont-les-photos-qui-ne-peuvent-etre-expliquees-logiquement.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2023/si-les-humains-ont-evolue-par-selection-naturelle-comment-expliquez-vous-que-cro-magnon-ait-eu-un-plus-grande-capacite-cerebrale-que-l-homme-moderne-on-estime-que-sa-capacite-cerebrale-etait-d-environ-1-600-cc.md
+Articles d'origine fusionnés (2) :
+  - 2023-07-26-si-les-humains-ont-evolue-par-selection-naturelle.md
+  - 2023-07-27-si-les-humains-ont-evolue-par-selection-naturelle.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2024/a-l-ere-du-fond-diffus-cosmologique-quelle-etait-la-temperature-de-l-univers.md
+Articles d'origine fusionnés (2) :
+  - 2024-03-27-a-l-ere-du-fond-diffus-cosmologique-quelle-etait-la-temperature-de-l-univers.md
+  - 2024-05-11-a-l-ere-du-fond-diffus-cosmologique-quelle-etait-la-temperature-de-l-univers.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2024/comment-creer-un-monde-sans-guerre.md
+Articles d'origine fusionnés (2) :
+  - 2024-11-25-comment-creer-un-monde-sans-guerre.md
+  - 2024-12-06-comment-creer-un-monde-sans-guerre.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2024/comment-gagner-regulierement-de-largent-en-negociant-en-bourse-est-ce-possible.md
+Articles d'origine fusionnés (2) :
+  - 2024-11-30-comment-gagner-regulierement-de-largent-en-negociant-en-bourse-est-ce-possible.md
+  - 2024-12-03-comment-gagner-regulierement-de-largent-en-negociant-en-bourse-est-ce-possible.md
+
+--------------------------------------------------------------------------------
+
+Fichier cible : content/posts/2025/on-parle-souvent-de-l-influence-gravitationnelle-de-la-lune-sur-la-terre-comme-les-marees-par-exemple-mais-quelle-influence-s-il-en-est-a-la-terre-sur-la-lune.md
+Articles d'origine fusionnés (2) :
+  - 2025-11-18-on-parle-souvent-de-l-influence-gravitationnelle-de-la-lune-sur-la-terre-comme-les-marees-par-exemple-mais-quelle-influence-s-il-en-est-a-la-terre-sur-la-lune.md
+  - 2025-11-19-on-parle-souvent-de-l-influence-gravitationnelle-de-la-lune-sur-la-terre-comme-les-marees-par-exemple-mais-quelle-influence-s-il-en-est-a-la-terre-sur-la-lune.md
+
+--------------------------------------------------------------------------------
+

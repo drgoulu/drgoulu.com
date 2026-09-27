@@ -1,0 +1,36 @@
+---
+
+title: Alors, l’attaque israélienne contre l’Iran du 13 juin 2025… on la classe dans la catégorie “légitime défense préventive démocratique” ou faut-il attendre qu’un pays occidental nous souffle discrètement si c’est un crime ou un acte de civilisation ?
+slug: alors-lattaque-israelienne-contre-liran-du-13-juin-2025-on-la-classe-dans-la-categorie-legitime-defense-preventive-democratique-ou-faut-il-attendre-quun-pays-occidental-nous-souffle-discretement-si-cest-un-crime-ou-un-acte-de
+date: '2025-06-15'
+draft: false
+categories:
+- Quora
+tags:
+- relations-internationales
+- guerre
+- israel
+- conflits
+- politique-internationale
+coverImage: ./images/quora.png
+---
+
+*Réponse publiée [sur Quora](https://fr.quora.com/Alors-l-attaque-isra%C3%A9lienne-contre-l-Iran-du-13-juin-2025-on-la-classe-dans-la-cat%C3%A9gorie-l%C3%A9gitime-d%C3%A9fense-pr%C3%A9ventive-d%C3%A9mocratique-ou-faut-il-attendre-qu-un-pays-occidental-nous-souffle/answer/Dr-Goulu)*
+
+Chacun la classe comme il veut, mais en droit international c'est un " recours à la force" illégal[[1]](#aWIyL).
+
+Avec viol de l'espace aérien des pays survolés, en passant.
+
+Comme la notion de "préventif" n'existe pas, c'est l'Iran qui est objectivement en état de légitime défense. A condition de ne viser que des objectifs militaires bien sur.
+
+Les responsables politiques et les scientifiques du programme nucléaire sont des civils. Cibles interdites.
+
+Les pays occidentaux n'ont pas à vous souffler quoi que ce soit. Tout ça est relativement clair dans les milieux diplomatiques.
+
+J'entendais ce soir à "C politique" un intervenant disant que ce que font Putin, Trump, Netanyahu et d'autres est du "légicide", la négation des lois (internationales). Il expliquait que chaque fois qu'on accepte une entorse à la loi qui nous arrange (personne ne va pleurer sur la destruction du programme nucléaire iranien), on s'expose à des retours de bâton..
+
+Au fait, qui a aidé Israël à avoir cette saleté de bombe au mépris du TNP ?
+
+Notes de bas de page
+
+[[1]](#cite-aWIyL)[Rapport sur les résultats de la conférence | Le droit international et la réglementation du recours à la force : Épuisement, destruction, renaissance ? - European Society of International Law | Société européenne de droit international](https://esil-sedi.eu/fr/rapport-sur-les-resultats-de-la-conference-le-droit-international-et-la-reglementation-du-recours-a-la-force-epuisement-destruction-renaissance/)

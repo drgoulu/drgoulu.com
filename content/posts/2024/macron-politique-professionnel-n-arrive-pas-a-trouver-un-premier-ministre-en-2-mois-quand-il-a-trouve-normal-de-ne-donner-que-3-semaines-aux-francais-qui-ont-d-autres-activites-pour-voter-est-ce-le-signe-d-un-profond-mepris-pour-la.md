@@ -1,0 +1,19 @@
+---
+
+title: Macron, politique professionnel, n'arrive pas à trouver un premier ministre en 2 mois quand il a trouvé normal de ne donner que 3 semaines aux français, qui ont d'autres activités, pour voter. Est-ce le signe d'un profond mépris pour la démocratie ?
+slug: macron-politique-professionnel-n-arrive-pas-a-trouver-un-premier-ministre-en-2-mois-quand-il-a-trouve-normal-de-ne-donner-que-3-semaines-aux-francais-qui-ont-d-autres-activites-pour-voter-est-ce-le-signe-d-un-profond-mepris-pour-la
+date: '2024-09-05'
+draft: true
+categories:
+- Quora
+tags: []
+coverImage: ./images/quora.png
+---
+
+*Réponse publiée [sur Quora](https://fr.quora.com/Macron-politique-professionnel-n-arrive-pas-%C3%A0-trouver-un-premier-ministre-en-2-mois-quand-il-a-trouv%C3%A9-normal-de-ne-donner-que-3-semaines-aux-fran%C3%A7ais-qui-ont-d-autres-activit%C3%A9s-pour/answer/Dr-Goulu)*
+
+Aucun doute qu'à sa place, vous auriez attendu quelques jours de plus que le RN fasse tomber le gouvernement Attal, comme ça les législatives seraient tombées en plein JO dans une France sans gouvernement, et qu'aujourd'hui vous seriez en train de nommer le 4 ou 5ème premier ministre à être censuré au bout d'une semaine.
+
+Mais ça prouverait certainement votre profond respect de la démocratie.
+
+Faites bien votre métier et laissez Macron faire le sien. Vous l'avez nommé à ce job. Deux fois.

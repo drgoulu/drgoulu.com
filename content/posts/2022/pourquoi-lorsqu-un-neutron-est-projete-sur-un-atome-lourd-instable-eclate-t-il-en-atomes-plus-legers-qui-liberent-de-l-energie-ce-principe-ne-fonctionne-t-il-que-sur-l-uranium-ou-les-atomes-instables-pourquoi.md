@@ -1,0 +1,26 @@
+---
+
+title: Pourquoi, lorsqu'un neutron est projeté sur un atome lourd instable, éclate-t-il en atomes plus légers qui libèrent de l'énergie ? Ce principe ne fonctionne-t-il que sur l'uranium ou les atomes instables ? Pourquoi ?
+slug: pourquoi-lorsqu-un-neutron-est-projete-sur-un-atome-lourd-instable-eclate-t-il-en-atomes-plus-legers-qui-liberent-de-l-energie-ce-principe-ne-fonctionne-t-il-que-sur-l-uranium-ou-les-atomes-instables-pourquoi
+date: '2022-09-07'
+draft: false
+categories:
+- Pourquoi
+tags: []
+coverImage: ./images/quora.png
+---
+
+*Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-lorsqu-un-neutron-est-projet%C3%A9-sur-un-atome-lourd-instable-%C3%A9clate-t-il-en-atomes-plus-l%C3%A9gers-qui-lib%C3%A8rent-de-l-%C3%A9nergie-Ce-principe-ne-fonctionne-t-il-que-sur-l-uranium-ou-les/answer/Dr-Goulu)*
+
+Ca marche de deux manières distinctes :
+
+1. Sur un [Isotope fissile](w:), le "choc" du neutron suffit à déclencher une fission du noyau qui serait arrivée tôt ou tard. Le seul isotope fissile naturel par des neutrons thermiques est l'[uranium 235](w:).
+2. Sur des [Isotopes fertiles](w:Isotope_fertile), le neutron peut être absorbé par le noyau ce qui le transforme en un [Isotope fissile](w:)artificiel, et on remonte au paragraphe précédent. Il n'y en a que deux isotopes fertiles présents dans la nature : le [thorium 232](w:) et l'[uranium 238](w:).
+
+> L'[uranium 238](w:) qui capture un neutron se transforme instantanément en [uranium 239](w:) instable, lequel se transforme en [plutonium 239](w:) par deux [désintégrations β–](w:Radioactivité_β)
+>
+>
+>
+> Le [Thorium 232](w:)qui capture un neutron se transforme en [thorium 233](w:), lequel se transforme en [uranium 233](w:) par deux [désintégrations β–](w:Radioactivité_β) :
+
+Donc oui, ça ne marche que sur des isotopes très lourds tout au bout de la [Vallée de stabilité](w:).

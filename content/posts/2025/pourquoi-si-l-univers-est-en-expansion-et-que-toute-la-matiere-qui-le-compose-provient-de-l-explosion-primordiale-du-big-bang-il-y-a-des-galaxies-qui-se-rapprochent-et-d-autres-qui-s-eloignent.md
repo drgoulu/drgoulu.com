@@ -1,0 +1,33 @@
+---
+
+title: Pourquoi, si l'univers est en expansion et que toute la matière qui le compose provient de l'explosion primordiale du Big Bang, il y a des galaxies qui se rapprochent et d'autres qui s'éloignent ?
+slug: pourquoi-si-l-univers-est-en-expansion-et-que-toute-la-matiere-qui-le-compose-provient-de-l-explosion-primordiale-du-big-bang-il-y-a-des-galaxies-qui-se-rapprochent-et-d-autres-qui-s-eloignent
+date: '2025-04-24'
+draft: false
+categories:
+- Pourquoi
+tags: []
+coverImage: ./images/quora.png
+---
+
+*Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-si-l-univers-est-en-expansion-et-que-toute-la-mati%C3%A8re-qui-le-compose-provient-de-l-explosion-primordiale-du-Big-Bang-il-y-a-des-galaxies-qui-se-rapprochent-et-d-autres-qui-s/answer/Dr-Goulu)*
+
+(Le [Big Bang](w:)n'est pas un explosion.)
+
+Parce que la matière n'est pas uniformément répartie, la gravitation agit entre les galaxies, formant des [Amas de galaxies](w:), eux-mêmes groupés en [Superamas](w:Superamas_de_galaxies).
+
+Dans ces structures, les galaxies ont une [Dispersion des vitesses](w:)assez élevée (que l'on peut mesurer ce qui permet d'estimer la masse de la structure via le [Théorème du viriel](w:), mais je digresse…)
+
+Pour des galaxies pas trop lointaines, cette vitesse peut être supérieure à celle de l'expansion.
+
+Le cas le plus évident est celui de notre voisine, la [Galaxie d'Andromède](w:), qui fonce vers nous à 300 km/s alors que l'espace entre nous (778 kpc, soit 2.5 al) se dilate de 70 km/s par Mpc donc de 70*0.778 = 54.48 km/s "seulement"
+
+Plus loin (50 à 60 al) il y a par exemple M86, M89, M90, et IC 3258 qui ont un décalage vers le bleu par rapport à nous parce qu'elles tombent vers le centre de l'[Amas de la Vierge](w:)auquel La voie Lactée appartient aussi.
+
+Au total, on connait une centaine de galaxies "décalées vers le bleu" sur les milliards observées (on peut en obtenir la liste sur [NASA/IPAC Extragalactic Database](https://ned.ipac.caltech.edu/) ), donc l'expansion est très largement dominante à grande distance.
+
+On trouve aussi des choses étranges[[1]](#kbsMG) comme [PG 1543+489](w:en:PG_1543+489), un quasar à 4.5 Gal qui s'éloigne vite à cause de l'expansion, mais crache de la matière, dont de l'oxygène, à des vitesses relativistes dans notre direction, ce qui fait que la raie spectrale de l'oxygène est décalée vers le bleu.
+
+Notes de bas de page
+
+[[1]](#cite-kbsMG)[Blue outliers among intermediate redshift quasars](https://ui.adsabs.harvard.edu/abs/2016Ap&SS.361....3M/abstract)

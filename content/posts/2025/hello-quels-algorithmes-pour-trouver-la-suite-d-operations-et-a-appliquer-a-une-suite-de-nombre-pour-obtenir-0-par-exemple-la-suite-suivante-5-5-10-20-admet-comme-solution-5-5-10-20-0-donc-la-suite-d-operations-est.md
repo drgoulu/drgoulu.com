@@ -1,0 +1,40 @@
+---
+
+title: 'Hello, quels algorithmes pour trouver la suite d''opérations (+ et -) à appliquer à une suite de nombre pour obtenir 0 ? Par exemple la suite suivante : (5, 5, 10, 20) admet comme solution 5+5+10-20 = 0, donc la suite d''opérations est (+,+,+,-).'
+slug: hello-quels-algorithmes-pour-trouver-la-suite-d-operations-et-a-appliquer-a-une-suite-de-nombre-pour-obtenir-0-par-exemple-la-suite-suivante-5-5-10-20-admet-comme-solution-5-5-10-20-0-donc-la-suite-d-operations-est
+date: '2025-12-02'
+draft: true
+categories:
+- Quora
+tags: []
+coverImage: ./images/quora.png
+---
+
+*Réponse publiée [sur Quora](https://fr.quora.com/Hello-quels-algorithmes-pour-trouver-la-suite-d-op%C3%A9rations-et-%C3%A0-appliquer-%C3%A0-une-suite-de-nombre-pour-obtenir-0-Par-exemple-la-suite-suivante-5-5-10-20-admet-comme-solution-5510-20-0-donc/answer/Dr-Goulu)*
+
+Ben déjà, ça ne marche pas pour toutes les suites : bonne chance avec 5,5,10,19 …
+
+Ensuite l'ordre des nombres de votre suite n'a aucune importance, donc tout ce qu'il faut trouver est le signe de chaque terme de la suite.
+
+Exception pour le premier si vous ne permettez pas qu'il soit négatif, mais ça ne change rien puisque si a-b=0 alors -a+b=0 aussi.
+
+Dans le pire des cas, il faudra essayer les 2^(N-1) combinaisons possibles des deux signes.
+
+Peut-être qu'on peut essayer d'être malin en triant les nombres par ordre décroissant et en les rangeant alternativement dans un ensemble des nombres positifs et négatifs en oscillant autour du zéro.
+
+Dans mon cas ça donnerait pour 19, 10, 5 5 :
+
+- je range 19 dans les positifs, somme 19
+- puisque la somme est positive je range le 10 dans les négatifs , somme 9
+- puisque la somme est positive j'ajoute le 5 dans les négatifs , somme 4
+- puisque la somme est positive j'ajoute le 5 dans les négatifs , somme -1
+- damned, la somme n'est pas zéro et je n'ai plus de nombre … (dans votre cas, on aurait la solution)
+- [Retour sur trace](w:): je change le signe du dernier 5 en le passant dans les positifs : somme 9
+- je remonte d'un cran, je change le signe du premier 5, et je redescend en les passant le 2ème 5. Dans le cas particulier, ça ne change rien : somme 9
+- je remonte d'un cran en changeant le signe de 10 : somme 29 …
+- je redescend changer le signe des 5, ça aide pas …
+- quand je remonte jusqu'à changer le signe du premier nombre, c'est mort.
+
+il y a peut-être encore plus malin, mais ça ne faut la peine de se casser la tête que si la suite a N>30 peut-être …
+
+Un matheux pourrait peut-être trouver une condition simple pour déterminer si le problème a une solution ou pas …

@@ -1,0 +1,29 @@
+---
+
+title: La SNCF, cet opérateur n'est-il pas ignoble & honteux et devrait disparaître, car quand vous voulez aller de Besançon à Limoges, il vous fait passer par Paris alors vous payez plus cher car le trajet est beaucoup plus long à cause de l'énorme détour?
+slug: la-sncf-cet-operateur-n-est-il-pas-ignoble-honteux-et-devrait-disparaitre-car-quand-vous-voulez-aller-de-besancon-a-limoges-il-vous-fait-passer-par-paris-alors-vous-payez-plus-cher-car-le-trajet-est-beaucoup-plus-long-a-cause-de-l
+date: '2024-07-16'
+draft: false
+categories:
+- Quora
+tags: []
+coverImage: ./images/qimg-44287d6ac97583d7eb82c0762faa73bb.png
+---
+
+*Réponse publiée [sur Quora](https://fr.quora.com/La-SNCF-cet-op%C3%A9rateur-n-est-il-pas-ignoble-honteux-et-devrait-dispara%C3%AEtre-car-quand-vous-voulez-aller-de-Besan%C3%A7on-%C3%A0-Limoges-il-vous-fait-passer-par-Paris-alors-vous-payez-plus-cher-car/answer/Dr-Goulu)*
+
+Un petit coup d'œil à la carte des voies ferrées :
+
+![](./images/qimg-44287d6ac97583d7eb82c0762faa73bb.png)
+
+Tiens, on dirait qu'il y a une légère tendance à la centralisation, chez vous…
+
+Et Google confirme que c'est 1h plus rapide de passer par Paris que par Lyon et Vierzon.
+
+![](./images/qimg-ce9cee266cd36381a0a58e4340ac2925.jpg)
+
+Mais le plus rapide semble être de prendre le bus pour Dijon, puis le train pour Nevers et Vierzon.
+
+![](./images/qimg-1d97c74a9655ef2040882a657779a024.jpg)
+
+Plus rapide, plus court, pour le prix je vous laisse voir…

@@ -1,0 +1,23 @@
+---
+
+title: Une corde, plaquée au sol, permet de faire le tour de la Terre autour de l'équateur. On ajoute 1 mètre à cette corde. On obtient donc un cercle un peu plus grand. Une souris pourrait-elle passer sous la corde ?
+slug: une-corde-plaquee-au-sol-permet-de-faire-le-tour-de-la-terre-autour-de-l-equateur-on-ajoute-1-metre-a-cette-corde-on-obtient-donc-un-cercle-un-peu-plus-grand-une-souris-pourrait-elle-passer-sous-la-corde
+date: '2019-08-26'
+draft: true
+categories:
+- Quora
+tags: []
+coverImage: ./images/quora.png
+---
+
+*Réponse publiée [sur Quora](https://fr.quora.com/Une-corde-plaqu%C3%A9e-au-sol-permet-de-faire-le-tour-de-la-Terre-autour-de-l-%C3%A9quateur-On-ajoute-1-m%C3%A8tre-%C3%A0-cette-corde-On-obtient-donc-un-cercle-un-peu-plus-grand-Une-souris-pourrait-elle/answer/Dr-Goulu)*
+
+Facilement.
+
+le périmètre d'un cercle vaut p=tau.r, donc le rayon r=p/tau
+
+en ajoutant 1 à p on obtient un rayon R=(p+1)/tau = p/tau + 1/tau = r+1/tau
+
+Quel que soit le rayon initial, le rayon est augmenté de 1/tau, donc d'environ 16 centimètres.
+
+Tout ça sans promener un 2 totalement inutile : une preuve de plus de la puissance de [Tau](/2016/03/14/adieu-3-14-16-le-26-juin-ce-sera-tau-day/)

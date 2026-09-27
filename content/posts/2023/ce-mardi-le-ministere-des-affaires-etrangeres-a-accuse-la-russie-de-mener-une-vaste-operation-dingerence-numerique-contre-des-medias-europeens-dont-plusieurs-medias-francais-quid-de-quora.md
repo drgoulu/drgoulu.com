@@ -1,0 +1,33 @@
+---
+
+title: Ce mardi, le ministère des Affaires étrangères a accusé la Russie de mener une vaste opération d’ingérence numérique contre des médias européens dont plusieurs médias français. Quid de Quora ?
+slug: ce-mardi-le-ministere-des-affaires-etrangeres-a-accuse-la-russie-de-mener-une-vaste-operation-dingerence-numerique-contre-des-medias-europeens-dont-plusieurs-medias-francais-quid-de-quora
+date: '2023-06-21'
+draft: true
+categories:
+- Quora
+tags: []
+coverImage: ./images/quora.png
+---
+
+*Réponse publiée [sur Quora](https://fr.quora.com/Ce-mardi-le-minist%C3%A8re-des-Affaires-%C3%A9trang%C3%A8res-a-accus%C3%A9-la-Russie-de-mener-une-vaste-op%C3%A9ration-d-ing%C3%A9rence-num%C3%A9rique-contre-des-m%C3%A9dias-europ%C3%A9ens-dont-plusieurs-m%C3%A9dias-fran%C3%A7ais-Quid/answer/Dr-Goulu)*
+
+Quora n'est pas français ni européen. Le site est américain et la modération, bien que réduite depuis le licenciement d'Amaury, reste raisonnablement efficace à mon avis. Plusieurs trolls que j'ai signalés ont été dégagés.
+
+Les récentes attaques russrs ont consisté principalement en [Attaque par déni de service](w:)et aussi en [Typosquattage](w:)des sites de certains média.
+
+[https://www.huffingtonpost.fr/in...](https://www.huffingtonpost.fr/international/article/guerre-en-ukraine-qu-est-ce-que-l-operation-doppelganger-que-la-russie-a-menee-en-france_219177.html)
+
+Quora n'a pas été visé, mais ce n est pas vraiment un média.
+
+Une qui m épate de plus en plus c est Wikipédia qui parvient à maintenir des pages comme
+
+[https://fr.wikipedia.org/wiki/D%...](w:Désinformation_lors_de_la_crise_russo-ukrainienne_de_2021-2022)
+
+Ou
+
+[https://en.wikipedia.org/wiki/Di...](w:en:Disinformation_in_the_Russian_invasion_of_Ukraine)
+
+Qui sont manifestement "corrigées" par des trolls dont les modifications sont presque immédiatement révoquées.
+
+Mais il est vrai que la page n'existe pas en russe…

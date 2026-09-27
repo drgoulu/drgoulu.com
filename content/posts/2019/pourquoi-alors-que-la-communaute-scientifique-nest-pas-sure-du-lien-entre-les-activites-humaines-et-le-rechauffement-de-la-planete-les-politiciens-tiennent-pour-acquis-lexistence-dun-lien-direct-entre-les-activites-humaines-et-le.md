@@ -1,0 +1,21 @@
+---
+
+title: Pourquoi, alors que la communauté scientifique n’est pas sûre du lien entre les activités humaines et le réchauffement de la planète, les politiciens tiennent pour acquis l’existence d’un lien direct entre les activités humaines et le réchauffement ?
+slug: pourquoi-alors-que-la-communaute-scientifique-nest-pas-sure-du-lien-entre-les-activites-humaines-et-le-rechauffement-de-la-planete-les-politiciens-tiennent-pour-acquis-lexistence-dun-lien-direct-entre-les-activites-humaines-et-le
+date: '2019-09-15'
+draft: true
+categories:
+- Pourquoi
+tags: []
+coverImage: ./images/qimg-15cad9faae958aeaa48a7bb9e9c0dff1.jpg
+---
+
+*Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-alors-que-la-communaut%C3%A9-scientifique-n-est-pas-s%C3%BBre-du-lien-entre-les-activit%C3%A9s-humaines-et-le-r%C3%A9chauffement-de-la-plan%C3%A8te-les-politiciens-tiennent-pour-acquis-l-existence-d-un/answer/Dr-Goulu)*
+
+Il n'y a absolument aucun doute sur ce lien direct.
+
+Il y a 12 ans, des simulations montraient déjà que les résultats mesurés ne “collent pas” si l’on ne simule que les phénomènes naturels (bleu), mais collent très bien en considérant l’activité humaine (rouge), et ceci dans toutes les régions du monde, sur terre et sur mer :
+
+![](./images/qimg-15cad9faae958aeaa48a7bb9e9c0dff1.jpg)
+
+Aujourd'hui le raffinement des modèles montre ceci de façon indiscutable. On arrive même à retrouver dans les données que l'influence humaine sur le climat date d'avant 1800.

@@ -1,0 +1,15 @@
+---
+
+title: Comment, intuitivement, peut-on comprendre que la lumière doit avoir une vitesse fixe indépendante de tout référenciel ? Quelles seraient les conséquences pour l'univers si ce n'était pas le cas ?
+slug: comment-intuitivement-peut-on-comprendre-que-la-lumiere-doit-avoir-une-vitesse-fixe-independante-de-tout-referenciel-quelles-seraient-les-consequences-pour-l-univers-si-ce-n-etait-pas-le-cas
+date: '2019-07-20'
+draft: true
+categories:
+- Comment
+tags: []
+coverImage: ./images/quora.png
+---
+
+*Article initialement publié sur [Quora](https://fr.quora.com/Comment-intuitivement-peut-on-comprendre-que-la-lumi%C3%A8re-doit-avoir-une-vitesse-fixe-ind%C3%A9pendante-de-tout-r%C3%A9f%C3%A9renciel-Quelles-seraient-les-cons%C3%A9quences-pour-l-univers-si-ce-n-%C3%A9tait-pas/answer/Dr-Goulu)*
+
+Ça n'est pas intuitif du tout, mais l'espace et le temps ne sont pas des choses distinctes. Ils sont intimement liés par la constante universelle c. [La vitesse de la lumière](/2017/2017-12-28-la-vitesse-de-la-lumiere) n'est qu'un cas particulier de ce fait beaucoup plus fondamental.
