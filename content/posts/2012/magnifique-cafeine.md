@@ -1,15 +1,16 @@
 ---
-title: "Magnifique caféine"
-slug: "magnifique-cafeine"
+title: Magnifique caféine
 date: 2012-07-07
+draft: false
+tags:
+  - biologie
+  - cafe
+  - chimie
+  - photo
 categories:
-  - "Pourquoi"
-tags: 
-  - "biologie"
-  - "cafe"
-  - "chimie"
-  - "photo"
-coverImage: "./images/5c837c6405891a43753218d4613a49ec.png"
+  - Pourquoi
+slug: magnifique-cafeine
+coverImage: images/c9b758484cf57d39e6aa03b044e875c5.jpg
 ---
 
 _(article repris dans {{< openbook booknumber="ISBN:978-2-89544-454-1" templatenumber="5" >}})_
