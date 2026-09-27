@@ -4,7 +4,7 @@ slug: "drgoulu-com-passe-en-https"
 date: 2017-01-11
 categories:
   - "Comment"
-tags: 
+tags:
   - "cryptographie"
   - "internet"
   - "securite"
@@ -17,7 +17,7 @@ Ca fait un moment que je pensais le faire, et je craignais que ce soit compliqu�
 
 Les révélations de Snowden\* et les piratages de plus en plus massifs ont fini de convaincre la plupart des géants du web, mais aussi des petits nains comme vous (?) et moi: internet sera encrypté, ou ne sera plus. Pour encourager la sécurisation du web, Google Chrome va très bientôt marquer comme "Not secure" les sites encore en HTTP  ainsi : ![](./images/google-HTTP-HTTPS-not-secure-rouge.jpg). Google va probablement aussi les défavoriser dans les résultats du moteur de recherche le plus utilisé du système solaire et environs. Rien que pour ça, il faut convertir les sites à HTTPS.
 
-{{< figure src="./images/2017-01-11_110908.png" alt="pas cool, et surtout pas smart du tout." caption="pas cool, et surtout pas &quot;smart&quot; du tout." width="400" >}}
+{{< figure src="./images/2017-01-11_110908.png" alt="pas cool, et surtout pas smart du tout." caption="pas cool, et surtout pas \"smart\" du tout." width="400" >}}
 
 J'espère aussi être débarrassé de la nuisance que représente le "[SmartScreen](w:en)" de Microsoft sur Internet Explorer. Il semblerait qu'il suffise à quelques personnes mal intentionnées de cocher "Report this website as unsafe" dans IE pour que mon tout beau site tout propre affiche la page ci-contre, fort dissuasive. Il aurait apparemment suffi que suffisamment de gentils lecteurs cliquent "Report that this site does not contain threats", mais il faut évidemment cliquer sur "More information" d'abord pour le voir... On m'a informé 3x de ceci, et à chaque fois j'ai du remplir un gros formulaire, tellement caché sur le monstrueux site de Microsoft que je ne le retrouve plus, pour dire que j'étais un gentil. Hier c'était la fois de trop : ma propre maman m'a suspecté de phishing ! ;-) Alors j'ai commencé par me dire "tant pis pour les 7% de [laggards](w:en:Diffusion_of_innovations) qui utilisent encore IE", puis "y'en a peut-être que 7% parce que les autres ont eu peur à cause de SmartScreen" puis "peut-être qu'en HTTPS ça ira mieux, on y va!"
 
@@ -43,7 +43,7 @@ Reste encore un petit problème à traiter par ceux qui utilisent  [Google Ana
 
 Voilà, tout est donc bien encrypté dans le meilleur des monde paranoïaque. Mais dans un prochain épisode je vous montrerai que le sentiment de sécurité que vous inspire le petit cadenas vert peut être fort illusoire ...
 
-Note \* : ayant vu le [film sur Snowden](w:Snowden_(film)) et quelques uns de ses interviews notamment le ["Pardonnez moi" avec Darius Rochebin](http://www.rts.ch/info/suisse/6637002-edward-snowden-la-suisse-la-cia-et-son-possible-refuge-en-suisse.html), je pense que ce type remarquable entrera dans l'Histoire. Il est de la trempe d'un Nelson Mandela, prêt à se sacrifier, et probablement à passer de nombreuses années en prison pour des principes fondamentaux. Peut-être qu'il sera Président, un jour ...
+Note \* : ayant vu le [film sur Snowden](<w:Snowden_(film)>) et quelques uns de ses interviews notamment le ["Pardonnez moi" avec Darius Rochebin](http://www.rts.ch/info/suisse/6637002-edward-snowden-la-suisse-la-cia-et-son-possible-refuge-en-suisse.html), je pense que ce type remarquable entrera dans l'Histoire. Il est de la trempe d'un Nelson Mandela, prêt à se sacrifier, et probablement à passer de nombreuses années en prison pour des principes fondamentaux. Peut-être qu'il sera Président, un jour ...
 
 ### Références
 

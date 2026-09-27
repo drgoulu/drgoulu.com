@@ -5,7 +5,7 @@ date: 2008-09-06
 categories:
   - "Combien"
   - "Comment"
-tags: 
+tags:
   - "economie"
   - "energie"
   - "eolienne"
@@ -20,7 +20,7 @@ En Suisse, les barrages alpins construits au milieu du siècle passé produisent
 
 Selon un rapport récent du MINEFI \[2\], la France n'exploite que 70 TWh de son potentiel de 98TWh et pourrait produire 23TWh de plus simplement en développant ses installations existantes, en encore 5TWh avec de mini turbines qui produisent de l'électricité plus chère (mais on [subventionne bien les moulins à vent,](/2008/08/30/rentabilite-des-eoliennes/) pourquoi pas ceux à eau ?  ) Pour quelques milliards, EDF pourrait donc accroitre de 5% la part d'hydroélectricité, qui offre donc un potentiel supérieur à l'éolien (2% environ) à un cout moindre.
 
-{{< figure src="./images/0d139593626e193aae1677c3794e9fce.jpg" alt="Le barrage dEmosson, à la frontière franco-suisse" caption="Le barrage d'Emosson, à la frontière franco-suisse. Il appartient en partie à EDF et en partie au CFF, les chemins de fers suisses, et sert de base à la future installation de turbinage-pompage &quot;Nant de Drance&quot;" link="http://www.flickr.com/photos/doozzle/46480671/" align="aligncenter" width="400" >}}
+{{< figure src="./images/0d139593626e193aae1677c3794e9fce.jpg" alt="Le barrage dEmosson, à la frontière franco-suisse" caption="Le barrage d'Emosson, à la frontière franco-suisse. Il appartient en partie à EDF et en partie au CFF, les chemins de fers suisses, et sert de base à la future installation de turbinage-pompage \"Nant de Drance\"" link="http://www.flickr.com/photos/doozzle/46480671/" align="aligncenter" width="400" >}}
 
 ### Une énergie modulable
 
@@ -40,11 +40,11 @@ L'eau de pluie est collectée naturellement dans les bassins versants et concent
 
 Voici les caractéristiques de ces antiquités comparées à une éolienne et à des cellule photovoltaïques du 21ème siècle, pour ne pas dire du futur (il m'arrive de douter légèrement du progrès, pas vous ? ) :
 
-|  | Pelton | Francis | Eolienne | Photovoltaïque |
-| --- | --- | --- | --- | --- |
-| diamètre | 1-3m | 1-10m | 80m | 144m (16'000 m2) |
-| rendement | 90% | 80 - 95% | max 59% ([limite de Betz](w:)) | 10-40% |
-| puissance | 60-400 MW | 1 - 100 MW | 2 MW | 2 MW |
+|           | Pelton    | Francis    | Eolienne                       | Photovoltaïque   |
+| --------- | --------- | ---------- | ------------------------------ | ---------------- |
+| diamètre  | 1-3m      | 1-10m      | 80m                            | 144m (16'000 m2) |
+| rendement | 90%       | 80 - 95%   | max 59% ([limite de Betz](w:)) | 10-40%           |
+| puissance | 60-400 MW | 1 - 100 MW | 2 MW                           | 2 MW             |
 
 Ces chiffres montrent qu'un tout petit potentiel hydroélectrique est équivalent à un énorme potentiel éolien ou solaire grâce à l'effet d'entonnoir naturel décrit plus haut, et à la densité de l'eau.
 

@@ -4,7 +4,7 @@ slug: "le-passe-des-photons"
 date: 2013-12-03
 categories:
   - "Pourquoi"
-tags: 
+tags:
   - "optique"
   - "physique"
   - "quantique"
@@ -34,7 +34,7 @@ Dans une version récente de l'expérience, [Lev Vaidman](w:en) et ses collègu
 
 Dans l’expérience de Tel-Aviv, un interféromètre de Mach–Zehnder "interne" est placé sur l'un des chemins d'un interféromètre "externe" de façon à ce que le faisceau recombiné poursuive son chemin à travers l'appareil "externe" jusqu'à un détecteur (voir la figure ci-dessous). Un photon a donc trois chemins possibles entre sa source et le détecteur. Le but de l'expérience est de découvrir quels chemins ont été empruntés par les photons arrivant au détecteur, du moins une partie d'entre eux. Ceci s'appelle une "[mesure faible](w:)", et est consistant avec les lois de la mécanique quantique car ça n'implique pas de mesurer la trajectoire suivie par un photon spécifique.
 
-{{< figure src="./images/6c48c5def9e651b8b3f7d89f46a124de.jpg" alt="Avec le formalisme vectoriel à deux états, la probabilité de trouver un photon est définie par une onde se propageant depuis la source (en rouge) et une onde se rétro-propageant depuis le détecteur (en vert). Un photon ne peut se trouver que là où les deux sont non nulles . (illustration: Lev Vaidman)" caption="Avec le &quot;formalisme vectoriel à deux états&quot;, la probabilité de trouver un photon est définie par une onde se propageant depuis la source (en rouge) et une onde se rétro-propageant depuis le détecteur (en vert). Un photon ne peut se trouver que là où les deux sont non nulles . (illustration: Lev Vaidman)" align="aligncenter" width="560" >}}
+{{< figure src="./images/6c48c5def9e651b8b3f7d89f46a124de.jpg" alt="Avec le formalisme vectoriel à deux états, la probabilité de trouver un photon est définie par une onde se propageant depuis la source (en rouge) et une onde se rétro-propageant depuis le détecteur (en vert). Un photon ne peut se trouver que là où les deux sont non nulles . (illustration: Lev Vaidman)" caption="Avec le \"formalisme vectoriel à deux états\", la probabilité de trouver un photon est définie par une onde se propageant depuis la source (en rouge) et une onde se rétro-propageant depuis le détecteur (en vert). Un photon ne peut se trouver que là où les deux sont non nulles . (illustration: Lev Vaidman)" align="aligncenter" width="560" >}}
 
 Pour effectuer leurs mesures, les physiciens ont fait vibrer les miroirs des interféromètres chacun à une fréquence différente. En vibrant, chaque miroir altère légèrement la longueur du rayon lumineux qu'il réfléchit, ce qui change l'intensité détectée. Comme chaque miroir vibre à une fréquence distincte, la présence d'un pic à chacune de ces fréquences sur le signal détecté indique que des photons sont passés par le miroir correspondant.
 

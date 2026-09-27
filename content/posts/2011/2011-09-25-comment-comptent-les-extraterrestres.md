@@ -4,7 +4,7 @@ slug: "comment-comptent-les-extraterrestres"
 date: 2011-09-25
 categories:
   - "Pourquoi"
-tags: 
+tags:
   - "humour"
   - "maths"
   - "seti"
@@ -13,7 +13,7 @@ coverImage: "./images/3b039ade3ae028aaf0caaa07e5b9dfb71.gif"
 
 Nos (vaines) tentatives de communication avec les extraterrestres [[1]](#ref-1)  reposent sur l'idée que les mathématiques forment un langage universel. Par exemple cette page du message "Cosmic Call" [[2]](#ref-2) émis en 1999 nous semble assez clairement concerner Pi et Pythagore, mais est-ce le cas pour un Klingon ?
 
-{{< figure src="./images/3b039ade3ae028aaf0caaa07e5b9dfb7.gif" alt="page 5 du Cosmic Call. Cliquer dessus pour les 22 autres" caption="page 5 du &quot;Cosmic Call&quot;. Cliquer dessus pour les 22 autres" link="http://www.flickr.com/photos/goulu/sets/72157627617474131/" align="aligncenter" width="533" >}}
+{{< figure src="./images/3b039ade3ae028aaf0caaa07e5b9dfb7.gif" alt="page 5 du Cosmic Call. Cliquer dessus pour les 22 autres" caption="page 5 du \"Cosmic Call\". Cliquer dessus pour les 22 autres" link="http://www.flickr.com/photos/goulu/sets/72157627617474131/" align="aligncenter" width="533" >}}
 
 Et d'abord, quels sont les pré-requis mathématiques nécessaires pour reconstituer cette "image" à partir du message émis point par point ?
 
@@ -21,7 +21,7 @@ La notion la plus élémentaire des maths est certainement celle de nombre entie
 
 C'est ainsi qu'en recevant un message composé d'une séquence de 1681 signaux, il devrait rapidement avoir l'idée de les arranger en tableau de 41 negils par 41 neloncos, ou le contraire, ou [l'inverse](/2009/04/04/miroir/).
 
-Jusqu'ici nous n'avons pas eu besoin de la notion de [base](w:base_(arithmétique)). Si les Shadoks, qui comptent en base 4 comme chacun sait, reçoivent [BUZOZOBUGABU](http://www.dcode.fr/shadoks-ga-bu-zo-meu) signaux, il en feront un carré de ZOZOBU par ZOZOBU [[3]](#ref-3), [[4]](#ref-4) : les nombres premiers le sont dans toutes les bases. De plus, toutes les bases sont des bases 10, ainsi que le démontre ce merveilleux cartoon traduit de l'anglais rien que pour vous [[5]](#ref-5) :
+Jusqu'ici nous n'avons pas eu besoin de la notion de [base](<w:base_(arithmétique)>). Si les Shadoks, qui comptent en base 4 comme chacun sait, reçoivent [BUZOZOBUGABU](http://www.dcode.fr/shadoks-ga-bu-zo-meu) signaux, il en feront un carré de ZOZOBU par ZOZOBU [[3]](#ref-3), [[4]](#ref-4) : les nombres premiers le sont dans toutes les bases. De plus, toutes les bases sont des bases 10, ainsi que le démontre ce merveilleux cartoon traduit de l'anglais rien que pour vous [[5]](#ref-5) :
 
 {{< figure src="./images/67d33688baf9e90d5306e90ed88b21fb.png" alt="base10" caption="(si vous ne comprenez pas la blague, cliquez dessus)" link="http://eljjdx.canalblog.com/archives/2011/09/25/22139069.html" align="aligncenter" width="500" >}}
 

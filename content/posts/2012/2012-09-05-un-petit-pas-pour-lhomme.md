@@ -5,7 +5,7 @@ date: 2012-09-05
 categories:
   - "Comment"
   - "Pourquoi"
-tags: 
+tags:
   - "astro"
   - "graphisme"
   - "histoire"
@@ -26,9 +26,9 @@ La mort de Neil Armstrong me fait penser à plusieurs petites choses, et à une 
 Après ça,  il est allé tranquillement au bureau des astronautes faire du travail administratif...
 
 - La transcription d'une conversation entre John Fitzgerald Kennedy et [James E. Webb](w:) en 1963 [[2]](#ref-2) révèle que le coût de la course à la Lune n'était pas facile à justifier:
-    - Kennedy : "_La température va continuer à monter à moins que nous ne puissions dire que ça a une justification militaire, et pas seulement du prestige_".
-    - Webb : "_Je pense que ça générera la technologie qui fera la différence pour ce pays bien au delà de l'espace_" ("far beyond space", j'aime bien ;-) ).
-    - Et lorsque Kennedy lui demande la Lune pourra être conquise lors de son second mandat (1965-1969 s'il n'avait pas été assassiné), Webb répond catégoriquement "_Non_". Puis "_Ca prendra juste plus longtemps que ça. C'est un sacré boulot, vraiment un sacré boulot..._"
+  - Kennedy : "_La température va continuer à monter à moins que nous ne puissions dire que ça a une justification militaire, et pas seulement du prestige_".
+  - Webb : "_Je pense que ça générera la technologie qui fera la différence pour ce pays bien au delà de l'espace_" ("far beyond space", j'aime bien ;-) ).
+  - Et lorsque Kennedy lui demande la Lune pourra être conquise lors de son second mandat (1965-1969 s'il n'avait pas été assassiné), Webb répond catégoriquement "_Non_". Puis "_Ca prendra juste plus longtemps que ça. C'est un sacré boulot, vraiment un sacré boulot..._"
 - Et puis Neil et les 11 autres l'ont fait. En prenant des risques fous comme le montre par exemple l'[AMDEC](w:) de la fusée Saturn V [[3]](#ref-3) : "_The total [S-IVB](w:) propulsion stage reliability for the engine. TVC, tank and feed system is: P = (.9522) (.9939) (.9940) = .938_". 6% de risque d'échec rien que pour le 3ème étage ...
 - Pourtant, pour aller sur Mars, certains sont prêts à courir un risque de 100% d'y rester. Et pas forcément des illuminés : même notre [Claude Nicollier](w:) national serait prêt à faire un voyage simple course [[4]](#ref-4) ! En fait, si on y réfléchit ce ne serait pas idiot : la grosse difficulté d'une mission humaine vers Mars, c'est d'y amener un véhicule capable de revenir. L'Australie et quelques autres contrées lointaines ont été colonisées par des prisonniers partis sans espoir de retour, pourquoi pas Mars ?
 - Pour ma part, la question posée par Nikos Pranzos [[5]](#ref-5) continue de me tarabuster : après avoir dépensé tant d'énergie pour sortir de notre puits gravitationnel, pourquoi redescendre dans un autre ? Pourquoi ne pas rester dans l'espace, où tout est si léger, si accessible ?
@@ -61,17 +61,17 @@ Par contre, une fois passée l'orbite des astéroïdes, pousser jusqu'à Jupiter
 La problématique d'un vol habité vers Mars apparaît dans deux détails de ce génial dessin:
 
 | [![](./images/4df50ad10de1c7c9b6a608d477aae846.png)](http://xkcd.com/681/) | [![](./images/95cd209cae391212256923227b5e8a1a.jpg "Zoom sur les puits locaux")](http://xkcd.com/681/) |
-| --- | --- |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 
 L'illustration de gauche révèle que depuis Apollo, les humains sont confinés dans quelques centaines de km au fond de leur puits. La défunte navette spatiale ne permettait que de monter que de quelques centaines de km (proche de la Terre, les km de puits sont approximativement égaux à des altitudes), et assembler un vaisseau spatial au niveau de la [station spatiale internationale](w:) n'aiderait pas beaucoup à sortir du puits. Par contre, l'[orbite géostationnaire](w:) à 35'786 km d'altitude est toute proche de la sortie du puits, mais sauf erreur aucun véhicule habité n'est capable d'y aller.
 
-A droite, on voit qu'un voyage vers Mars nécessiterait un véhicule beaucoup, beaucoup plus puissant que le [Module de service Apollo](w:) car il devra gravir le puits du Soleil entre les deux planètes, plus haut que celui de la Terre. _"This is a tough job, a real tough job."_ comme dirait James Webb.
+A droite, on voit qu'un voyage vers Mars nécessiterait un véhicule beaucoup, beaucoup plus puissant que le [Module de service Apollo](w:) car il devra gravir le puits du Soleil entre les deux planètes, plus haut que celui de la Terre. *"This is a tough job, a real tough job."* comme dirait James Webb.
 
 Voilà pourquoi après le "petit pas pour l'homme" de Neil Armstrong en bordure de notre puits, le "grand bond pour l'humanité" devra attendre que l'on dispose de systèmes de propulsion très puissants et légers.
 
-En attendant, on pourrait commencer par installer de vraies bases spatiales aux points de Lagrange, [exploiter les astéroïdes](http://www.planetaryresources.com/) et pourquoi pas, proposer quelques voyages "simple course". Je serais éventuellement tenté par [Titan](w:Titan_(lune)), autour de mon 90ème anniversaire...
+En attendant, on pourrait commencer par installer de vraies bases spatiales aux points de Lagrange, [exploiter les astéroïdes](http://www.planetaryresources.com/) et pourquoi pas, proposer quelques voyages "simple course". Je serais éventuellement tenté par [Titan](<w:Titan_(lune)>), autour de mon 90ème anniversaire...
 
-{{< figure src="./images/41b38c839993f9476c19c2a71806173e.jpg" alt="Cliquer pour http://fr.wikipedia.org/wiki/Point_de_Lagrange" caption="les puits du Soleil, de la Terre et de la Lune &quot;vus de dessus&quot;, en courbes de niveau, permettent de visualiser les &quot;points de Lagrange&quot; L1 à L5" link="http://fr.wikipedia.org/wiki/Point_de_Lagrange" align="aligncenter" width="489" >}}
+{{< figure src="./images/41b38c839993f9476c19c2a71806173e.jpg" alt="Cliquer pour http://fr.wikipedia.org/wiki/Point_de_Lagrange" caption="les puits du Soleil, de la Terre et de la Lune \"vus de dessus\", en courbes de niveau, permettent de visualiser les \"points de Lagrange\" L1 à L5" link="http://fr.wikipedia.org/wiki/Point_de_Lagrange" align="aligncenter" width="489" >}}
 
 ### Notes:
 

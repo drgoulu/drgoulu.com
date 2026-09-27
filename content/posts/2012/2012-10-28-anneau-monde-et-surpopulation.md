@@ -5,7 +5,7 @@ date: 2012-10-28
 categories:
   - "Combien"
   - "Comment"
-tags: 
+tags:
   - "demographie"
   - "fiction"
   - "futur"
@@ -38,7 +38,7 @@ Dans un prochain article, nous verrons que la démographie humaine du 21ème si�
 
 Mais si nous consacrons toutes les ressources de la planète à notre survie, nous serons irrémédiablement limités à une [civilisation de type I](w:échelle_de_Kardashev) bloquée au fond de son [trou gravitationnel](/2012/09/05/un-petit-pas-pour-lhomme/). Ne sommes-nous pas devant un choix plus fondamental encore ? Ne devrions-nous pas réduire drastiquement (mais pacifiquement, par une politique mondiale de l'enfant unique étalée sur un siècle par exemple) notre population pour disposer des énormes réserves d'énergie et de ressources nécessaires pour partir, construire des [vaisseaux-mondes](w:vaisseau-mode) et essaimer dans l'espace à la conquête de plus de ressources, d'énergie et de surface ?
 
-{{< figure src="./images/379d0d704eab862a57e1d259a74ee89d.jpg" alt="http://www.abalakin.de/" caption="The Return to Abalakin d'Alexander Preuss : un &quot;vaisseau-monde&quot; qui fait presque envie, non ?" link="http://www.abalakin.de/" align="aligncenter" width="650" >}}
+{{< figure src="./images/379d0d704eab862a57e1d259a74ee89d.jpg" alt="http://www.abalakin.de/" caption="The Return to Abalakin d'Alexander Preuss : un \"vaisseau-monde\" qui fait presque envie, non ?" link="http://www.abalakin.de/" align="aligncenter" width="650" >}}
 
 Note\*: la chance n'étant pas un caractère héréditaire, elle ne peut pas être un avantage sélectif.
 

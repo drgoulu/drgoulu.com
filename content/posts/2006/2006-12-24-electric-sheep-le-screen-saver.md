@@ -1,10 +1,10 @@
 ---
-title: "&quot;electric sheep&quot;, LE screen-saver"
+title: '"electric sheep", LE screen-saver'
 slug: "electric-sheep-le-screen-saver"
 date: 2006-12-24
 categories:
   - "Comment"
-tags: 
+tags:
   - "logiciels"
 coverImage: "./images/electricsheep.247.06157.jpg"
 ---

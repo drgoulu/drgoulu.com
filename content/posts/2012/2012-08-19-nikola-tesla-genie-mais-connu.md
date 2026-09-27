@@ -4,7 +4,7 @@ slug: "nikola-tesla-genie-mais-connu"
 date: 2012-08-19
 categories:
   - "Comment"
-tags: 
+tags:
   - "brevet"
   - "electricite"
   - "energie"
@@ -18,20 +18,19 @@ Le nom de [Nikola Tesla](w:) (1856-1943) apparaît fréquemment sur les pages
 
 > "Toute technologie suffisamment avancée est indiscernable de la magie." (Arthur C. Clarke).
 
-En effet, les inventions de Tesla étaient tellement inattendues et spectaculaires à son époque qu'elles ont souvent été mal comprises du public, auréolées de mystère et perpétuées sous forme de légendes urbaines ayant abouti à de véritables [mythes](w:Nikola_Tesla#Le_mythe_.2F_les_influences_culturelles), dont le sommet est probablement atteint dans le [film "Le Prestige"](w:Le_Prestige_(film)).
+En effet, les inventions de Tesla étaient tellement inattendues et spectaculaires à son époque qu'elles ont souvent été mal comprises du public, auréolées de mystère et perpétuées sous forme de légendes urbaines ayant abouti à de véritables [mythes](w:Nikola_Tesla#Le_mythe_.2F_les_influences_culturelles), dont le sommet est probablement atteint dans le [film "Le Prestige"](<w:Le_Prestige_(film)>).
 
 Aujourd'hui, d'un point de vue scientifique, il ne reste aucun mystère sur les inventions de Tesla. On sait pourquoi celles qui fonctionnent fonctionnent, et pourquoi les autres n'ont pas fonctionné.
 
 ## Les inventions de Tesla
 
-Tesla était un inventeur, pas un théoricien. Il a déposé [environ 300 brevets](w:en:List_of_Tesla_patents), plus un certain nombres attribués à Edison, son employeur d'un temps, mais pas une seule équation, principe ou théorie ne porte son nom. Même le nom de [l'unité de champ magnétique](w:Tesla_(unité)) est un honneur posthume.
+Tesla était un inventeur, pas un théoricien. Il a déposé [environ 300 brevets](w:en:List_of_Tesla_patents), plus un certain nombres attribués à Edison, son employeur d'un temps, mais pas une seule équation, principe ou théorie ne porte son nom. Même le nom de [l'unité de champ magnétique](<w:Tesla_(unité)>) est un honneur posthume.
 
 Le génie de Tesla est d'avoir rapidement compris et appliqué les [équations de Maxwell](w:) (1865) liant le champ magnétique et le champ électrique :
 
 - en 1887 il invente la [Machine synchrone](w:)  qui permet de transformer l'énergie électrique en énergie mécanique (moteur) ou vice-versa ([alternateur](w:)). Il comprend que le [courant alternatif](w:) est plus facile à transporter que le courant continu promu par Edison et il s'associe à Westinghouse. Ensemble ils construisent et exploitent dès 1896, la [première usine électrique industrielle, hydroélectrique, aux chutes du Niagara](w:Guerre_des_courants#Chutes_du_Niagara), qui alimente la ville de Buffalo, à 30 km de là.
-- {{< figure src="./images/c2ced4096aa1d71c1375fae6f102af4f.jpg" alt="Modern Thinker de Peter Terren (aka Dr Electric) . Cliquer pour le making of et les précautions d'usage..." caption="&quot;Modern Thinker&quot; de Peter Terren (aka Dr Electric) . Cliquer pour le &quot;making of&quot; et les précautions d'usage..." link="http://tesladownunder.com/ModernThinker.htm" width="289" >}}
-    
-    Autour de 1891, il invente sa fameuse ["bobine de Tesla"](w:Bobine_Tesla), un transformateur à résonance produisant de hautes tensions à haute fréquence. A haute puissance, son montage peut produire de jolis arcs électriques qui font la joie des producteurs d'effets spéciaux et l'étonnement des spectateurs depuis un bon siècle.
+- {{< figure src="./images/c2ced4096aa1d71c1375fae6f102af4f.jpg" alt="Modern Thinker de Peter Terren (aka Dr Electric) . Cliquer pour le making of et les précautions d'usage..." caption="\"Modern Thinker\" de Peter Terren (aka Dr Electric) . Cliquer pour le \"making of\" et les précautions d'usage..." link="http://tesladownunder.com/ModernThinker.htm" width="289" >}}
+  Autour de 1891, il invente sa fameuse ["bobine de Tesla"](w:Bobine_Tesla), un transformateur à résonance produisant de hautes tensions à haute fréquence. A haute puissance, son montage peut produire de jolis arcs électriques qui font la joie des producteurs d'effets spéciaux et l'étonnement des spectateurs depuis un bon siècle.
 - Mais le transformateur de Tesla est surtout un [émetteur radio](w:en:Invention_of_radio#Tesla) plus efficace que celui de [Hertz](w:en:Invention_of_radio#Hertz) datant de 1887. Dès 1893, Tesla en décrit de multiples applications [[1]](#ref-1) et réalise les premières transmissions sans fil, quelques années avant [Marconi](w:en:Invention_of_radio#Marconi). En effet, Marconi n'est plus considéré comme l'inventeur de la radio depuis 1943, date à laquelle la Cour Suprême des Etats-Unis a considéré que son brevet de 1896 n'apportait aucune invention par rapport à ceux de Tesla, Lodge et Stone, antérieurs.
 - En 1897-8, Tesla construisit deux maquettes de bateaux télécommandés. Son brevet [[2]](#ref-2) contient "accessoirement" celui de la première [porte logique](w:Fonction_logique).
 

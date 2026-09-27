@@ -5,7 +5,7 @@ date: 2010-06-07
 categories:
   - "Combien"
   - "Comment"
-tags: 
+tags:
   - "electrique"
   - "energie"
   - "moteur"
@@ -18,7 +18,7 @@ Pourriez-vous remporter le Tour de France avec un vélo "amélioré" par rapport
 
 Un cycliste amateur peut développer pendant quelques heures une puissance moyenne de 150 watts, un pro autour de 190 watts. Différence : 40 watts. Pas de problème pour le moteur, nos amis modélistes  disposent de [moteurs de 20 mm de diamètre produisant 200 W](http://www.exceedrc.com/eliteseries.html) pour leurs engins volants. Pour la batterie, c'est plus compliqué en raison du volume réduit à l'intérieur du cadre. On dispose d'environ 0.25 l si on utilise qu'un seul tube rond de 25 mm, et de près d'1 litre si on remplit un cadre profilé dans les règles de l'Union Cycliste Internationale (UCI) , ce qui permet de disposer des batteries lithium-ion d'une capacité de 100 à 400 Wattheures.
 
-{{< figure src="./images/975c6722f00927bf13519f3752ac8cf1.jpg" alt="le Lithium Vivi RX-10S de Matsushita, avec une batterie de 400 Wh/l qu'on pourrait presque loger dans le cadre ..." caption="le &quot;Lithium Vivi RX-10S&quot; de Matsushita, avec une batterie de 400 Wh/l qu'on pourrait presque loger dans le cadre ..." align="aligncenter" width="449" >}}
+{{< figure src="./images/975c6722f00927bf13519f3752ac8cf1.jpg" alt="le Lithium Vivi RX-10S de Matsushita, avec une batterie de 400 Wh/l qu'on pourrait presque loger dans le cadre ..." caption="le \"Lithium Vivi RX-10S\" de Matsushita, avec une batterie de 400 Wh/l qu'on pourrait presque loger dans le cadre ..." align="aligncenter" width="449" >}}
 
 Donc oui, une assistance électrique discrète peut vous propulser au niveau des pros du peloton pendant plusieurs heures.
 

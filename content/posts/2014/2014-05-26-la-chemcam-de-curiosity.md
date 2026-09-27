@@ -4,7 +4,7 @@ slug: "la-chemcam-de-curiosity"
 date: 2014-05-26
 categories:
   - "Comment"
-tags: 
+tags:
   - "aerospace"
   - "geologie"
   - "laser"
@@ -14,7 +14,7 @@ coverImage: "./images/chemcamdetail1.png"
 
 Vu la photo ci-dessous dans un [article](http://www.universetoday.com/111930/curiosity-says-goodbye-kimberley-after-parting-laser-blasts-and-seeking-new-adventures-ahead/) consacré au [robot "Curiosity" sur Mars](w:Mars_Science_Laboratory). C'est juste un forage sur Mars... Mais qu'est-ce donc que cette ligne de points noirs ? D'après la légende, ils ont été faits par un "rock-zapping laser"... Le mystère s'épaississait, il fallait que je cherche, que je sache.
 
-{{< figure src="./images/chemcamdetail1.png" alt="fsdad" caption="trou foré sur Mars par le robot Curiosity et, dans le trou, une ligne de cicatrices produit par son &quot;rock-zapping laser&quot;. ∅ trou 16 mm environ (détail d'une image NASA, cliquer pour l'image complète)" link="http://mars.jpl.nasa.gov/msl-raw-images/msss/00629/mhli/0629MH0004130000203715R00_DXXX.jpg" align="aligncenter" width="600" >}}
+{{< figure src="./images/chemcamdetail1.png" alt="fsdad" caption="trou foré sur Mars par le robot Curiosity et, dans le trou, une ligne de cicatrices produit par son \"rock-zapping laser\". ∅ trou 16 mm environ (détail d'une image NASA, cliquer pour l'image complète)" link="http://mars.jpl.nasa.gov/msl-raw-images/msss/00629/mhli/0629MH0004130000203715R00_DXXX.jpg" align="aligncenter" width="600" >}}
 
 En fait il s'agit de traces de mesures faites par la [ChemCam](http://www.msl-chemcam.com/), un dispositif digne d'un Maître Jedi : un laser vaporise la matière, et un spectromètre analyse la lumière émise par le plasma pour en déterminer les constituants. Ca s'appelle [Spectroscopie sur plasma induit par laser](w:) ou "LIBS" en anglais.
 

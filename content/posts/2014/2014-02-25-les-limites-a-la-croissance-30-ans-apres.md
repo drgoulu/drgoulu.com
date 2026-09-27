@@ -1,16 +1,16 @@
 ---
 title: Les Limites à la Croissance, 30 ans après
 slug: les-limites-a-la-croissance-30-ans-apres
-date: '2014-02-25'
+date: "2014-02-25"
 categories:
   - "Combien"
   - "Comment"
   - "Pourquoi"
 tags:
-- demographie
-- ecologisme
-- monde
-- simulation
+  - demographie
+  - ecologisme
+  - monde
+  - simulation
 coverImage: "./images/Scenario9.png"
 draft: true
 ---
@@ -29,7 +29,7 @@ Effectivement, le monde tel qu'il est aujourd'hui ne correspond pas à plusieurs
 
 {{< figure src="./images/b96ea322b4185ee1b1d84c1a6dece3b3.jpg" alt="En 1972, les graphiques ressemblaient à ça... [[2]](#ref-2)" caption="En 1972, les graphiques ressemblaient à ça... [[2]](#ref-2)" link="./images/b96ea322b4185ee1b1d84c1a6dece3b3.jpg" align="aligncenter" width="423" >}}La "mise à jour des 30 ans" propose 10 scénarios, dont le scénario 1 baptisé "point de référence" est une mise à jour du "scénario standard" de 1972. Il décrit comment une "crise des ressources non renouvelables" telles que le pétrole mais aussi les phosphates nécessaires aux engrais industriels pourrait causer une chute de la production industrielle entraînant celle de la production alimentaire, causant une forte baisse de la population mondiale tant quantitative que qualitative, aboutissant en 2100 à environ 3.5 milliards d'habitants (7 actuellement...) avec une espérance de vie de 33 ans et un niveau de vie comparable à celui de 1900 :
 
-{{< figure src="./images/b4c5e8620b9d8c985be34771fb69849b.jpg" alt="Scénario 1 Point de repère [[3]](#ref-3)" caption="Scénario 1 &quot;Point de repère&quot; [[3]](#ref-3)" align="aligncenter" width="425" >}}Le scenario 2 suppose qu'il reste encore 2x plus de ressources non renouvelables que ce que l'on imagine, et aboutit au même résultat : effondrement de la population, encore plus brutal du à une explosion de la pollution. Les autres scénarios aboutissent tous au même type de comportement de "dépassement et effondrement" à des degrés divers. Seul le scénario 9 impliquant des actions rapides et énergiques au niveau mondial pour réduire l'empreinte écologique des humains dès aujourd'hui permettrait éventuellement de stabiliser la population autour de 8 milliards sans baisse notable de la qualité ou de l'espérance de vie, et le scénario 10 montre qu'on aurait eu intérêt de commencer il y a 30 ans :
+{{< figure src="./images/b4c5e8620b9d8c985be34771fb69849b.jpg" alt="Scénario 1 Point de repère [[3]](#ref-3)" caption="Scénario 1 \"Point de repère\" [[3]](#ref-3)" align="aligncenter" width="425" >}}Le scenario 2 suppose qu'il reste encore 2x plus de ressources non renouvelables que ce que l'on imagine, et aboutit au même résultat : effondrement de la population, encore plus brutal du à une explosion de la pollution. Les autres scénarios aboutissent tous au même type de comportement de "dépassement et effondrement" à des degrés divers. Seul le scénario 9 impliquant des actions rapides et énergiques au niveau mondial pour réduire l'empreinte écologique des humains dès aujourd'hui permettrait éventuellement de stabiliser la population autour de 8 milliards sans baisse notable de la qualité ou de l'espérance de vie, et le scénario 10 montre qu'on aurait eu intérêt de commencer il y a 30 ans :
 
 {{< figure src="./images/Scenario9.png" alt="Scenario9" caption="Scenario 9" link="./images/Scenario9.png" align="aligncenter" width="503" >}}
 
@@ -48,7 +48,7 @@ Le taux de croissance de ces croissances exponentielles est donné respectivemen
 
 > Si un éventuel effondrement nous inquiète, ce n'est pas parce que estimons que l'humanité est sur le point d'épuiser les stockes d'énergie et de matières premières de la planète. Tous les scénarios produits par World3 indiquent en effet qu'en 2100, la planète disposera encore d'une part importante des ressource qu'elle avait en 1900. Lorsque nous analysons les projections de World3, **nous nous inquiétons davantage des coûts** croissants de l'exploitation des sources et exutoires de notre planète. Les données sur ces coûts ne sont pas toutes pertinentes et sucitent d'âpres débats, mais nous pouvons en conclure que l'exploitation croissante des ressources renouvelables, la disparition des matières non renouvelables et le remplissage des exutoires font ensemble augmenter, lentement mais surement, la somme d'énergie et de capitaux requise pour continuer à assurer la quantité et la qualité des flux de matière qu'exige notre économie. Ces coûts résultent d'une association de facteurs physiques, environnementaux et sociaux. A terme, ils seront trop élevés pour que l'industrie puisse continuer à se développer. Lorsque nous en serons là, la boucle de rétroaction positive qui a rendu possible l'expansion de l'économie matérielle va faire machine arrière et l'économie va se contracter. Nous ne sommes pas en mesure de prouver cette affirmation.
 
-Ca, c'est la première phrase du paragraphe suivant [http://vensim.com/free-download/](http://vensim.com/free-download/) Merci à [http://rs6.risingnet.net/~ddcc/wbi/World3Again.html](http://rs6.risingnet.net/~ddcc/wbi/World3Again.html) [http://majorityrights.com/weblog/comments/forresters\_limits\_to\_growth\_model\_for\_your\_personal\_computer/](http://majorityrights.com/weblog/comments/forresters_limits_to_growth_model_for_your_personal_computer/) [http://enuncombatdouteux.blogspot.fr/2012/10/nous-navons-pas-mis-fin-la-croissance.html](http://enuncombatdouteux.blogspot.fr/2012/10/nous-navons-pas-mis-fin-la-croissance.html) [http://www.terraeco.net/Dennis-Meadows-Nous-n-avons-pas,44114.html](http://www.terraeco.net/Dennis-Meadows-Nous-n-avons-pas,44114.html) Critiques. L'ONU prévoit 9 milliards d'humains en 2050 et 11 milliards en 2100, soit une croissance de l'ordre de 80% pendant ce siècle. Pour ma part j'ai noté quelques affirmations discutables, comme "_les modes de croissance actuels perpétuent la pauvreté et accentuent le fossé entre les riches et les pauvres_" (p.82)  avec laquelle Rosling n'est clairement pas d'accord (voir la vidéo [ici](/2009/03/21/combien-dinegalite/))
+Ca, c'est la première phrase du paragraphe suivant [http://vensim.com/free-download/](http://vensim.com/free-download/) Merci à [http://rs6.risingnet.net/~ddcc/wbi/World3Again.html](http://rs6.risingnet.net/~ddcc/wbi/World3Again.html) [http://majorityrights.com/weblog/comments/forresters_limits_to_growth_model_for_your_personal_computer/](http://majorityrights.com/weblog/comments/forresters_limits_to_growth_model_for_your_personal_computer/) [http://enuncombatdouteux.blogspot.fr/2012/10/nous-navons-pas-mis-fin-la-croissance.html](http://enuncombatdouteux.blogspot.fr/2012/10/nous-navons-pas-mis-fin-la-croissance.html) [http://www.terraeco.net/Dennis-Meadows-Nous-n-avons-pas,44114.html](http://www.terraeco.net/Dennis-Meadows-Nous-n-avons-pas,44114.html) Critiques. L'ONU prévoit 9 milliards d'humains en 2050 et 11 milliards en 2100, soit une croissance de l'ordre de 80% pendant ce siècle. Pour ma part j'ai noté quelques affirmations discutables, comme "_les modes de croissance actuels perpétuent la pauvreté et accentuent le fossé entre les riches et les pauvres_" (p.82)  avec laquelle Rosling n'est clairement pas d'accord (voir la vidéo [ici](/2009/03/21/combien-dinegalite/))
 
 ### Notes:
 
@@ -60,8 +60,7 @@ Ca, c'est la première phrase du paragraphe suivant [http://vensim.com/free-down
 2. <span id="ref-2"></span>{{< openbook booknumber="ISBN:0930031555" templatenumber="5" >}} (non traduit en français à ma connaissance)
 3. <span id="ref-3"></span>{{< openbook booknumber="ISBN:9782917770351" templatenumber="5" >}} [synopsis en anglais](http://www.sustainer.org/pubs/limitstogrowth.pdf)
 4. <span id="ref-4"></span>Graham Turner "[A Comparison of the Limits to Growth with Thirty Years of Reality](http://www.csiro.au/files/files/plje.pdf)", 2008 ,CSIRO Working Paper
-5. <span id="ref-5"></span>[http://www.slate.com/articles/business/project\_syndicate/2013/06/climate\_panic\_ecological\_collapse\_is\_not\_upon\_us\_and\_we\_haven\_t\_run\_out.html](http://www.slate.com/articles/business/project_syndicate/2013/06/climate_panic_ecological_collapse_is_not_upon_us_and_we_haven_t_run_out.html)
+5. <span id="ref-5"></span>[http://www.slate.com/articles/business/project_syndicate/2013/06/climate_panic_ecological_collapse_is_not_upon_us_and_we_haven_t_run_out.html](http://www.slate.com/articles/business/project_syndicate/2013/06/climate_panic_ecological_collapse_is_not_upon_us_and_we_haven_t_run_out.html)
 6. <span id="ref-6"></span>[http://nextbigfuture.com/2013/06/limits-to-growth-30-year-update-claimed.html](http://nextbigfuture.com/2013/06/limits-to-growth-30-year-update-claimed.html)
 7. <span id="ref-7"></span>"[Le scénario de l’effondrement l’emporte - Interview de Dennis Meadows](http://www.liberation.fr/terre/2012/06/15/le-scenario-de-l-effondrement-l-emporte_826664)", Libération, 15 juin 2012
-    
 8. <span id="ref-8"></span>https://interstices.info/jcms/ni\_77270/les-limites-de-la-croissance-dans-un-monde-fini

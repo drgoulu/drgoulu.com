@@ -4,7 +4,7 @@ slug: "photomontages-mathematiques"
 date: 2009-03-12
 categories:
   - "Comment"
-tags: 
+tags:
   - "art"
   - "geometrie"
   - "photo"
@@ -15,7 +15,7 @@ Comment faire des photos telles que celles-ci ?
 
 {{< figure src="./images/c8ce1a1ea0c2f6c95d1430f041a1eadf.jpg" alt="Lost in Time par diogosousa sur flickr" caption="Lost in Time par diogosousa sur flickr" link="http://www.flickr.com/photos/diogo_sousa/485034803/" width="300" >}}
 
-{{< figure src="./images/166f99e8aa7c8ac823f890f9d92781f3.jpg" alt="Gaby fountain drosted par ocelotan sur flickr" caption="&quot;Gaby fountain drosted&quot; par ocelotan sur flickr" link="http://www.flickr.com/photos/71283408@N00/401396348/" width="305" >}}
+{{< figure src="./images/166f99e8aa7c8ac823f890f9d92781f3.jpg" alt="Gaby fountain drosted par ocelotan sur flickr" caption="\"Gaby fountain drosted\" par ocelotan sur flickr" link="http://www.flickr.com/photos/71283408@N00/401396348/" width="305" >}}
 
 C'est l'[effet Droste](w:), du nom de la marque de cacao hollandais qui l'utilisa sur ses publicités dès 1904. Il est très probable que le petit [Maurits Cornelis Escher](w:) né aux Pays-Bas en 1898 l'ait remarqué puisqu'[il utilisa abondamment cet effet](http://escherdroste.math.leidenuniv.nl/index.php) dans ses oeuvres.
 

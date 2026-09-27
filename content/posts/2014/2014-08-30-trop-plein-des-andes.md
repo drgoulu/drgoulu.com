@@ -6,7 +6,7 @@ categories:
   - "Combien"
   - "Comment"
   - "Pourquoi"
-tags: 
+tags:
   - "histoire"
   - "monde"
   - "trop-plein"
@@ -48,14 +48,14 @@ Mais la comparaison s'arrête là, car expérience faite, la feuille de coca à 
 
 ### Les camélidés américains
 
-Le [lama](w:) et l'[alpaga](w:) sont des cousins des chameaux. Les [camélidés](w:Camelidae) sont tous originaires de l'Amérique du Nord d'où ils ont essaimé vers l'Asie pour devenir le [genre regroupant chameaux et dromadaires](w:Camelus) (qui peuvent s'hybrider pour donner le [turkoman](w:Turkoman_(hybride)) à une bosse et demie),  et vers l'Amérique du Sud pour donner deux autres "genres":
+Le [lama](w:) et l'[alpaga](w:) sont des cousins des chameaux. Les [camélidés](w:Camelidae) sont tous originaires de l'Amérique du Nord d'où ils ont essaimé vers l'Asie pour devenir le [genre regroupant chameaux et dromadaires](w:Camelus) (qui peuvent s'hybrider pour donner le [turkoman](<w:Turkoman_(hybride)>) à une bosse et demie),  et vers l'Amérique du Sud pour donner deux autres "genres":
 
-- le [genre lama](w:Lama_(genre)), qui regroupe:
-    - le [lama](w:Lama_(animal)) proprement dit. Domestiqué pour sa laine et sa viande, il peut aussi transporter une charge d'une vingtaine de kilos.
-    - le [guanaco](w:) est sauvage et sa laine peu abondante n'est pas prisée. Par contre il a été tellement chassé pour sa viande que c'est désormais une espèce protégée.
+- le [genre lama](<w:Lama_(genre)>), qui regroupe:
+  - le [lama](<w:Lama_(animal)>) proprement dit. Domestiqué pour sa laine et sa viande, il peut aussi transporter une charge d'une vingtaine de kilos.
+  - le [guanaco](w:) est sauvage et sa laine peu abondante n'est pas prisée. Par contre il a été tellement chassé pour sa viande que c'est désormais une espèce protégée.
 - le genre [Vicugna](w:), avec:
-    - la [vigogne](w:). Le plus petit des camélidés est aussi sauvage, mais il est capturé et tondu pour sa laine extraordinairement fine, chaude et chère [[1]](#ref-1), [[2]](#ref-2). Tellement chère que des braconniers tuent ces magnifiques animaux, désormais aussi protégés.
-    - l'[alpaga](w:), peut-être le plus courant depuis qu'il est élevé dans le monde entier pour sa laine remarquable. Sa viande n'est pas mal non plus (je sais, je suis incorrigible...)
+  - la [vigogne](w:). Le plus petit des camélidés est aussi sauvage, mais il est capturé et tondu pour sa laine extraordinairement fine, chaude et chère [[1]](#ref-1), [[2]](#ref-2). Tellement chère que des braconniers tuent ces magnifiques animaux, désormais aussi protégés.
+  - l'[alpaga](w:), peut-être le plus courant depuis qu'il est élevé dans le monde entier pour sa laine remarquable. Sa viande n'est pas mal non plus (je sais, je suis incorrigible...)
 
 Quant aux camélidés d'Amérique du Nord, ils ont disparu assez récemment. Certains paléontologues pensent qu'ils sont été exterminés par des chasseurs un peu trop avides de viande. Pourtant tout le monde sait que les amérindiens vivaient en parfaite harmonie avec la Nature...
 
@@ -66,19 +66,17 @@ La [civilisation inca](w:) n'avait qu'un [embryon d'écriture](w:Civilisation_i
 - Pizarro a profité d'une guerre civile entre les partisans de deux héritiers au trône inca, [Atahualpa](w:) et [Huascar](w:). Par traîtrise il capture Atahualpa, qui lui fait apporter 5 tonnes d'objets en or et le double en argent en échange de sa liberté Le montant de cette rançon est assez bien connu car Pizarro devait verser 20% de ses gains au roi d'Espagne pour bénéficier de sa protection.
 - Après avoir touché la rançon, Pizarro exécute Atahualpa au lieu de le libérer et, comme Huascar s'est fait assassiner entre temps, Pizarro n'a plus qu'à entrer dans [Cuzco](w:) et la mettre la capitale à sac. On sait que les conquistadors y ont notamment trouvé 12 statues de taille naturelle en or et argent, et une statue de femme en or massif qui pesait une trentaine de kilos à elle toute seule. Tout ceci a été fondu avant que quiconque n'ait eu le temps ne serait-ce que de les dessiner, mais au total on estime que les trésors de Cuzco dépassaient un peu la rançon d'Atahualpa [[3]](#ref-3)
 
-{{< figure src="./images/lima_museo_de_oro.jpg" alt="Seuls quelques (petits) objets en or ont échappé aux conquistadors. La plupart sont au &quot;Museo de Oro&quot; de Lima" caption="Seuls quelques (petits) objets en or ont échappé aux conquistadors. La plupart sont au &quot;Museo de Oro&quot; de Lima" link="http://www.museoroperu.com.pe/" width="374" >}}
+{{< figure src="./images/lima_museo_de_oro.jpg" alt="Seuls quelques (petits) objets en or ont échappé aux conquistadors. La plupart sont au \"Museo de Oro\" de Lima" caption="Seuls quelques (petits) objets en or ont échappé aux conquistadors. La plupart sont au \"Museo de Oro\" de Lima" link="http://www.museoroperu.com.pe/" width="374" >}}
 
 Voilà, c'est à peu près tout ce qu'on sait à propos de l'or volé aux incas. Peut-être que le butin total a été deux ou trois fois plus élevé, disons 30 tonnes d'or et 60 d'argent, mais probablement pas beaucoup plus. En visitant le "Museo de Oro" de Lima, on constate que l'art précolombien utilisait surtout de minces feuilles d'or, souvent plaquées sur du bois ou cousues sur du tissu. Il y a très peu d'objets massifs, et en visitant l'[isla del Sol](w:) je n'ai pas réussi à croire que les rochers et les temples étaient recouverts de tonnes d'or dont on ne trouve pas trace d'un système de fixation.
 
 Par contre, dès l'invasion les mines d'or et d'argent des Incas (et des Aztèques) ont été exploitées avec les méthodes de l'époque, incluant le mépris total de la vie des mineurs locaux. Et là effectivement, un flux d'or et d'argent s'est établi de l'Amérique vers l'Espagne dès le XVIème siècle : a elle seule, la mine de [Potosi](w:) a produit 41000 tonnes d'argent pendant la période coloniale, au prix de milliers de vies.
 
-Selon l' économiste [Earl J._Hamilton](w:)[[4]](#ref-4), cet afflux de métaux précieux a eu pour effet de produire une inflation de 300% en Espagne entre 1500 et 1600 car l'or et l'argent y sont soudain devenus moins rares. Les produits espagnols sont devenus trop chers pour être exportés, par contre les espagnols ont commencé à importer massivement les produits de toute l'Europe en plus de ceux qu'ils obtenaient de leur immense empire colonial, situation dont les effets se sont fait sentir jusqu'au milieu du XXème siècle.
+Selon l' économiste [Earl J.\_Hamilton](w:)[[4]](#ref-4), cet afflux de métaux précieux a eu pour effet de produire une inflation de 300% en Espagne entre 1500 et 1600 car l'or et l'argent y sont soudain devenus moins rares. Les produits espagnols sont devenus trop chers pour être exportés, par contre les espagnols ont commencé à importer massivement les produits de toute l'Europe en plus de ceux qu'ils obtenaient de leur immense empire colonial, situation dont les effets se sont fait sentir jusqu'au milieu du XXème siècle.
 
 ### Références
 
 1. <span id="ref-1"></span>"[Les camélidés américains](http://www.welcominperu.com/index.php/faune/les-camelides-d-americains)" sur welcome in Peru
 2. <span id="ref-2"></span>"[Une laine qui vaut son pesant d’or](http://www.greenetvert.fr/2010/11/08/une-laine-qui-vaut-son-pesant-dor/10160)" sur Green et Vert
-    
 3. <span id="ref-3"></span>Christopher Minster "[The Treasure of the Inca](http://latinamericanhistory.about.com/od/theconquestofperu/p/The-Treasure-Of-The-Inca.htm)"
-    
 4. <span id="ref-4"></span>Tejvan Pettinger, "[What happened to the Spanish Gold from the Incas?](http://www.economicshelp.org/blog/7785/concepts/what-happened-to-the-spanish-gold-from-the-incas/)"

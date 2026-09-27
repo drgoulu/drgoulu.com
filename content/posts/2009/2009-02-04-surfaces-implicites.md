@@ -4,7 +4,7 @@ slug: "surfaces-implicites"
 date: 2009-02-04
 categories:
   - "Comment"
-tags: 
+tags:
   - "3d"
   - "art"
   - "geometrie"
@@ -22,7 +22,7 @@ Jusqu'à récemment, seuls les logiciels de maths comme Maple ou [Mathematica](h
 
 Le plus avancé est "[Surfer](http://www.imaginary2008.de/surfer.php)", développé l'an passé en Allemagne, pays où 2008 fut décrété "année des mathématiques". L'[exposition itinérante "Imaginary 2008"](http://www.imaginary2008.de/) présentait des [oeuvres produites avec Surfer](http://www.imaginary2008.de/galerie.php) par des artistes ou par les participants à un [concours de la plus belle surface](http://www.imaginary2008.de/galerie_view.php?gal=29).
 
-{{< figure src="./images/cfde4c4738f15eeac11350853a7476ac.png" alt="Tülle, par Herwig Hauser, produit avec le logiciel Surfer" caption="&quot;Tülle&quot;, par Herwig Hauser, produit avec le logiciel Surfer" link="http://images.math.cnrs.fr/spip.php?page=image&id_document=733" align="aligncenter" width="439" >}}
+{{< figure src="./images/cfde4c4738f15eeac11350853a7476ac.png" alt="Tülle, par Herwig Hauser, produit avec le logiciel Surfer" caption="\"Tülle\", par Herwig Hauser, produit avec le logiciel Surfer" link="http://images.math.cnrs.fr/spip.php?page=image&id_document=733" align="aligncenter" width="439" >}}
 
 Surfer est disponible pour Windows et pour Linux (avec code source C++), mais aussi sous forme d'une [applet Java,  JSurfer](http://www.imaginary2008.de/jsurfer.php).
 

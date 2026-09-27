@@ -5,7 +5,7 @@ date: 2010-09-30
 categories:
   - "Combien"
   - "Comment"
-tags: 
+tags:
   - "aerospace"
   - "aviation"
   - "ecologisme"
@@ -18,7 +18,7 @@ Après le tour du monde de [SolarTaxi](http://www.louispalmer.ch/en/solartaxi/)
 
 Je me demande si ces projets permettent réellement de faire avancer le [schmilblick](w:). Est-ce que ces engins préfigurent vraiment les véhicules de nos petits enfants ? J'ai des doutes...
 
-{{< figure src="./images/9a440aa4e1cd0fe13d8938d79cc00f26.jpg" alt="La Jamais Contente, première voiture ayant atteint 100 km/h, en 1899. Elle était électrique, déjà ..." caption="La &quot;Jamais Contente&quot;, première voiture ayant atteint 100 km/h, en 1899. Elle était électrique, déjà ..." link="http://fr.wikipedia.org/wiki/Jamais_Contente" align="aligncenter" width="400" >}}
+{{< figure src="./images/9a440aa4e1cd0fe13d8938d79cc00f26.jpg" alt="La Jamais Contente, première voiture ayant atteint 100 km/h, en 1899. Elle était électrique, déjà ..." caption="La \"Jamais Contente\", première voiture ayant atteint 100 km/h, en 1899. Elle était électrique, déjà ..." link="http://fr.wikipedia.org/wiki/Jamais_Contente" align="aligncenter" width="400" >}}
 
 D'abord, une évidence parfois oubliée : un véhicule "solaire" est en fait un véhicule à propulsion électrique dont la batterie est rechargée par des panneaux solaires. La propulsion électrique, on sait faire depuis assez longtemps, et ces dernières années ont permis de disposer des [panneaux à rendement acceptable](/2010/05/09/comment-on-mesure-le-rendement-des-cellules-solaires/) et des batteries à hautes performances nécessaires.
 
@@ -34,7 +34,7 @@ Sur le site de Solar Impulse, on trouve [cette comparaison](http://www.solarimpu
 
 Si Solar Impulse peut envisager un tour du monde alors que les frères Wright ne volèrent que quelques centaines de mètres, c'est grâce au progrès de l'aéronautique qui permettent de réaliser aujourd'hui un moto planeur aux performances étonnantes plus que grâce au solaire. En effet, si au lieu d'embarquer 400 kg de batteries, un "Petrol Impulse" équivalent  chargeait 400 kg de kérosène, il pourrait voler environ 1000 heures avec des moteurs de même puissance (et chauffer l'équipage et ses repas en prime...), donc également boucler un tour du monde sans escale.
 
-{{< figure src="./images/3c4bf620ecd687e421e57163e58e74c1.png" alt="PlanetSolar" caption="&quot;Planet Solar&quot; au large de Monaco" link="http://www.planetsolar.org" align="aligncenter" width="400" >}}
+{{< figure src="./images/3c4bf620ecd687e421e57163e58e74c1.png" alt="PlanetSolar" caption="\"Planet Solar\" au large de Monaco" link="http://www.planetsolar.org" align="aligncenter" width="400" >}}
 
 Le projet que je trouve le plus incompréhensible est celui de Planet Solar. Quelle drôle d'idée de construire un bateau solaire, alors qu'on fait déjà  des [circumnavigation](w:) à l'énergie renouvelable depuis presque 500 ans !  Des voiliers en bois ont transporté des centaines d'hommes et des tonnes de marchandises dans les eaux dangereuses des mers du sud pratiquement sans prévisions météo. Comment peut-on considérer comme un progrès de faire un tour du monde par les canaux de Panama et de Suez sur un bateau léger dont toute la surface est occupée par des panneaux ? Où est donc l'innovation dans ce projet ?
 

@@ -4,7 +4,7 @@ slug: "comment-stocker-lenergie"
 date: 2012-10-06
 categories:
   - "Comment"
-tags: 
+tags:
   - "ecologisme"
   - "electricite"
   - "energie"
@@ -19,7 +19,7 @@ Claude me demande pourquoi on ne stockerait pas la surproduction éolienne avec 
 
 ### Jamais contente
 
-{{< figure src="./images/5ea50d06e4ba4f1d76ceaf6139608347.jpg" alt="la Jamais Contente" caption="la &quot;Jamais Contente&quot;" width="280" >}}
+{{< figure src="./images/5ea50d06e4ba4f1d76ceaf6139608347.jpg" alt="la Jamais Contente" caption="la \"Jamais Contente\"" width="280" >}}
 
 La première voiture à avoir atteint la stupéfiante vitesse de 100 km/h était une voiture électrique, la "[Jamais Contente](w:)", et c'était en 1899. De nos jours, la "[White Zombie](http://www.plasmaboyracing.com/whitezombie.php)" [laisse sur place une Maserati](http://www.youtube.com/watch?v=vGQSQAz9v6c) de 400 chevaux. Mais pourquoi donc nos routes ne sont-elles toujours pas envahies de voitures électriques ?
 
@@ -27,7 +27,7 @@ La réponse est pour beaucoup liée à la faible [densité d'énergie](w:) des 
 
 Même si le moteur de votre voiture ne parvient à transformer qu'un tiers\* de cette énergie en mouvement, un réservoir d'essence reste au moins 20x plus léger qu'une bonne batterie équivalente. Donc un réservoir de 40 litres d'essence (~ 30 kg)  correspond à environ 600 kg de batteries. Et même si un moteur électrique est sensiblement plus petit qu'un moteur à combustion de la même puissance, les batteries restent un handicap de poids pour un véhicule.
 
-Evidemment, on peut réduire la taille de la batterie en récupérant l'énergie cinétique d'un véhicule à la descente, ou au freinage. Mais là se pose un autre problème : la [puissance](w:Puissance_(physique)) de charge ou décharge des batteries est également limitée.. Il faut par exemple 3.5 heures pour recharger complètement le [Roadster Tesla](w:en:Tesla_Roadster#Battery_system) de mes rêves, ce qui nécessite une alimentation électrique d'une puissance de 4.8 kW. Or comme je l'avais calculé [ici](/2011/07/03/srec/), une voiture qui ralentit de 36km/h à 0 en 5 secondes produit une puissance de 26 kW.  C'est pour cela que les voitures hybrides comme la [Toyota Prius](w:) n'utilisent pas des batteries Li-ion, mais plutôt des [NiMH](w:Accumulateur_nickel-hydrure_métallique) de densité énergétique inférieure, mais permettant des courants de charge/décharge plus élevés.
+Evidemment, on peut réduire la taille de la batterie en récupérant l'énergie cinétique d'un véhicule à la descente, ou au freinage. Mais là se pose un autre problème : la [puissance](<w:Puissance_(physique)>) de charge ou décharge des batteries est également limitée.. Il faut par exemple 3.5 heures pour recharger complètement le [Roadster Tesla](w:en:Tesla_Roadster#Battery_system) de mes rêves, ce qui nécessite une alimentation électrique d'une puissance de 4.8 kW. Or comme je l'avais calculé [ici](/2011/07/03/srec/), une voiture qui ralentit de 36km/h à 0 en 5 secondes produit une puissance de 26 kW.  C'est pour cela que les voitures hybrides comme la [Toyota Prius](w:) n'utilisent pas des batteries Li-ion, mais plutôt des [NiMH](w:Accumulateur_nickel-hydrure_métallique) de densité énergétique inférieure, mais permettant des courants de charge/décharge plus élevés.
 
 ### Alors on stocke l'énergie, ou la puissance ?
 
@@ -73,7 +73,7 @@ D'autres types de batteries sont actuellement en développement comme la  [batt
 
 La densité d'énergie de ces systèmes n'est pas vraiment plus élevée que celles de batteries Li-ion, donc on parle toujours d'installations de centaines de tonnes. Leur avantage est que la puissance est stockée/fournie par un élément relativement petit, alors que l'énergie stockable peut être augmentée à volonté en augmentant simplement le volume des réservoirs d'électrolytes. Ceci permet de réduire le coût de ces solutions par rapport à un wagon train de batteries plus classiques.
 
-Je ne vois pas d'autre solution économique et utilisable à cette échelle actuellement ou dans un futur proche, mais dans un futur plus lointain, on pourrait imaginer utiliser  le [stockage d'énergie magnétique à supraconducteur](w:SMES) (SMES en anglais). L'idée est de faire tourner du courant électrique en circuit fermé dans un anneau supraconducteur. Ceci crée un champ magnétique extrêmement fort, autour de 20 [Tesla](w:Tesla_(unité)) duquel on peut ensuite retirer l'énergie par induction. Lorsqu'on sait que le champ magnétique terrestre est environ un million de fois moins puissant, on comprend que les pièces métalliques ne sont pas bienvenues à proximité d'un SMES, qui pose une quantité de problèmes technologiques intéressants. Les installations de labo actuelles sont plutôt orientées "puissance", mais on pourrait imaginer des SMES de quelques dizaines de kilomètres de diamètre pour le stockage d'énergie [[5]](#ref-5).
+Je ne vois pas d'autre solution économique et utilisable à cette échelle actuellement ou dans un futur proche, mais dans un futur plus lointain, on pourrait imaginer utiliser  le [stockage d'énergie magnétique à supraconducteur](w:SMES) (SMES en anglais). L'idée est de faire tourner du courant électrique en circuit fermé dans un anneau supraconducteur. Ceci crée un champ magnétique extrêmement fort, autour de 20 [Tesla](<w:Tesla_(unité)>) duquel on peut ensuite retirer l'énergie par induction. Lorsqu'on sait que le champ magnétique terrestre est environ un million de fois moins puissant, on comprend que les pièces métalliques ne sont pas bienvenues à proximité d'un SMES, qui pose une quantité de problèmes technologiques intéressants. Les installations de labo actuelles sont plutôt orientées "puissance", mais on pourrait imaginer des SMES de quelques dizaines de kilomètres de diamètre pour le stockage d'énergie [[5]](#ref-5).
 
 Mais sur le graphique on constate un gros trou qui sépare toutes ces "petites" solutions de celles déjà utilisées aujourd'hui dans la production d'énergie centralisée.
 
@@ -88,7 +88,7 @@ Et enfin le "stockage hydraulique gravitaire" réalisé par de nombreuses instal
 
 L'[énergie potentielle](w:énergie_potentielle_de_pesanteur) d'une masse m élevée d'une hauteur h est de E=m.g.h Joules, où g=9.81 que j'arrondis à 10. Pour stocker 1 kWh = 3.6 MJ, il faut donc élever 3'600 litres d'eau de 100m. Ou 360 litres de 1000m. Donc une montagne, c'est mieux qu'une colline. Et un grand lac aussi parce que pour stocker 1GWh il faut un million de fois plus d'eau. Et stocker une puissance de 1GW, ça veut dire pomper 1000 m³ d'eau par seconde à 10 bars, ou 100 m³ d'eau par seconde à 100 bars. Impressionnant, mais on sait faire depuis assez longtemps. Jusqu'ici, ça nécessitait des pompes spéciales, distinctes des turbines, mais l'arrivée des imprévisibles éoliennes motive la recherche de turbines réversibles, capables de passer du mode turbinage au mode pompage en quelques minutes, comme la turbine [Hydrodyna](http://hydrodyna.epfl.ch/projet) de l'EPFL [[7]](#ref-7) \*\*\*.
 
-{{< figure src="./images/64c5da256dab01f12526df752ff0074c.jpg" alt="le site Nant de Drance à la frontière franco-suisse près de Chamonix. Une STEP souterraine de 900 MW y est en construction pour exploiter les 250m de différence de niveau entre les deux barrages. Cliquer pour plus d'infos" caption="le site &quot;Nant de Drance&quot; à la frontière franco-suisse près de Chamonix. Une STEP souterraine de 900 MW y est en construction pour exploiter les 250m de différence de niveau entre les deux barrages. Cliquer pour plus d'infos" link="http://www.nant-de-drance.ch/" align="aligncenter" width="600" >}}
+{{< figure src="./images/64c5da256dab01f12526df752ff0074c.jpg" alt="le site Nant de Drance à la frontière franco-suisse près de Chamonix. Une STEP souterraine de 900 MW y est en construction pour exploiter les 250m de différence de niveau entre les deux barrages. Cliquer pour plus d'infos" caption="le site \"Nant de Drance\" à la frontière franco-suisse près de Chamonix. Une STEP souterraine de 900 MW y est en construction pour exploiter les 250m de différence de niveau entre les deux barrages. Cliquer pour plus d'infos" link="http://www.nant-de-drance.ch/" align="aligncenter" width="600" >}}
 
 D'après [cette liste](w:en:List_of_pumped-storage_hydroelectric_power_stations) il existe actuellement au moins 50 "STEPs" d'une puissance de plus de 1 GW dans le monde, dont le [barrage de Grand'Maison](w:) en France, celui de [Linth-Limmern](w:de:Kraftwerke_Linth-Limmern) en Suisse et même la [Centrale de Coo-Trois-Ponts](w:) en Belgique (rien au Québec ?) Avec de nombreuses autres installations de puissance inférieure, la capacité de stockage hydraulique représente au niveau mondial une puissance de 100 GW et une énergie que, fautes de données j'évalue à X TWh en multipliant les 100 GWh par X dizaines d'heures.
 

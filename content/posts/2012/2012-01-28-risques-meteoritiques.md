@@ -4,7 +4,7 @@ slug: "risques-meteoritiques"
 date: 2012-01-28
 categories:
   - "Pourquoi"
-tags: 
+tags:
   - "astro"
   - "meteorite"
 coverImage: "./images/382eab9bc9a7fb3838c9a892ac66c40b.png"
@@ -22,11 +22,11 @@ D'abord, il s'avère que l'espace est assez caillouteux. Le "[Near Earth Object 
 
 Un objet de moins de 20m tel que 2012 BX34 n'y est pas considéré comme méritant un attention particulière même s'il était sur une trajectoire de collision certaine. Avec un peu de chance, ça en fait une attraction touristique comme à [Hoba, en Namibie](/2010/08/28/namibie/). Pour les objets plus gros, les astronomes commenceraient à les examiner avec attention dans la zone jaune, la politique commencerait à s'inquiéter quelques décennies avant une rencontre possible dans la zone orange, en essayant peut-être d'envoyer une mission spatiale pour dévier l'objet.
 
-{{< figure src="./images/METEOR CRATER VU PAR D'AVION 1.jpg" alt="Meteor Crater. Dans ma liste à visiter" caption="Meteor Crater. Dans ma liste &quot;à visiter&quot;" link="http://fr.wikipedia.org/wiki/Meteor_Crater" align="aligncenter" width="550" >}}
+{{< figure src="./images/METEOR CRATER VU PAR D'AVION 1.jpg" alt="Meteor Crater. Dans ma liste à visiter" caption="Meteor Crater. Dans ma liste \"à visiter\"" link="http://fr.wikipedia.org/wiki/Meteor_Crater" align="aligncenter" width="550" >}}
 
 Dans la zone rouge, c'est le scénario catastrophe. Au niveau 8 ça va encore : tous les quelques siècles un caillou fait un cratère du genre [Meteor](w:) Crater, ratiboise une forêt comme à la [Toungouska](w:événement_de_la_Toungouska) en 1908 ou tombe à l'eau en ne tuant que quelques poissons. Sur une ville, évidemment, ça ferait des dégâts comparables à une [Tsar Bomba](w:) ... Une collision de niveau 9 se produit tous les quelques millénaires et pourrait détruire une région entière. Des centaines de milliers d'années s'écoulent en moyenne entre des collisions de niveau 10. Là c'est [Manicouagan ou Rochechouart](/2009/04/16/de-manicouagan-a-rochechouart/) par exemple : continents dévastés, voire grand reset planétaire.
 
-Pas de panique: pour l'instant il n'y a que [2 objets classifiés "niveau 1" et aucun plus haut](http://neo.jpl.nasa.gov/risk/). Seul [Apophis](w:(99942)_Apophis) (250m) a été classé 2, puis 4 en 2004, avant que les astronomes n'écartent tout risque de collision pour le 13 avril 2029, mais comme ils avaient un doute sur son passage suivant en 2036 ils l'ont laissé "niveau 1" avant de le remettre au niveau 0 une fois ce risque écarté lui aussi. Déçus, les astronomes ont créé une [échelle de Palerme](w:) beaucoup plus fine que celle de Turin pour pouvoir continuer à classer les géocroiseurs par risques microscopiques.
+Pas de panique: pour l'instant il n'y a que [2 objets classifiés "niveau 1" et aucun plus haut](http://neo.jpl.nasa.gov/risk/). Seul [Apophis](<w:(99942)_Apophis>) (250m) a été classé 2, puis 4 en 2004, avant que les astronomes n'écartent tout risque de collision pour le 13 avril 2029, mais comme ils avaient un doute sur son passage suivant en 2036 ils l'ont laissé "niveau 1" avant de le remettre au niveau 0 une fois ce risque écarté lui aussi. Déçus, les astronomes ont créé une [échelle de Palerme](w:) beaucoup plus fine que celle de Turin pour pouvoir continuer à classer les géocroiseurs par risques microscopiques.
 
 D'un autre côté, [Bad Astronomer](http://blogs.discovermagazine.com/badastronomy/2008/10/13/death-by-meteorite/) estime que ce risque n'est pas négligeable : puisque la probabilité qu'une météorite géante détruise toute vie humaine sur Terre est de 1/100'000'000 par année sur le long terme, et comme nous sommes 7 milliards, les impacts de niveau 10 font 70 morts par année en moyenne! Et en tenant compte de la [loi de puissance](w:) qui lie la probabilité d'un impact à sa gravité, il estime statistiquement qu'une personne sur 700'000 meurt tuée par une météorite :-)
 

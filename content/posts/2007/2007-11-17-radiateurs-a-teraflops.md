@@ -5,7 +5,7 @@ date: 2007-11-17
 categories:
   - "Combien"
   - "Comment"
-tags: 
+tags:
   - "electricite"
   - "energie"
   - "futur"
@@ -13,7 +13,7 @@ tags:
 coverImage: "./images/f8ddbd206f9330c8aded99829d972930.jpg"
 ---
 
-{{< figure src="./images/f8ddbd206f9330c8aded99829d972930.jpg" alt="Human Energy par Caneles" caption="&quot;Human Energy&quot; par Caneles" link="http://flickr.com/photos/94446676@N00/4144235691" width="240" >}}
+{{< figure src="./images/f8ddbd206f9330c8aded99829d972930.jpg" alt="Human Energy par Caneles" caption="\"Human Energy\" par Caneles" link="http://flickr.com/photos/94446676@N00/4144235691" width="240" >}}
 
 En réfléchissant un peu sur le sujet des [ampoules fluocompactes](/2007/11/07/ampoules-a-faible-consommation/), je me demande si je ne devrais pas également remplacer mes radiateurs électriques \* par des appareils utilisant plus efficacement l'énergie.
 

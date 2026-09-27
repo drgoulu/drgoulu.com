@@ -4,7 +4,7 @@ slug: "les-geniales-pendules-de-marcel-betrisey"
 date: 2011-09-20
 categories:
   - "Comment"
-tags: 
+tags:
   - "art"
   - "horlogerie"
 coverImage: "./images/d8fcc71af87afbb19c7cd4fe6014f659.jpg"
@@ -28,7 +28,7 @@ Entre des pendules d'apparence baroques, Marcel poursuit également une quête d
 
 Les deux objectifs sont atteints par exemple avec "[Florence](http://www.betrisey.ch/florence.html)", propulsée une fois par heure par la chute d'une seule bille, et qui ne dévie que d'une seconde par mois !
 
-{{< figure src="./images/fed0bc25222e0bcb84533ed9527198cf.jpg" alt="Le moteur de Florence : une bille par heure" caption="Le moteur de &quot;Florence&quot; : une bille par heure" link="http://www.flickr.com/photos/goulu/6166891188/in/photostream/" align="aligncenter" width="375" >}}
+{{< figure src="./images/fed0bc25222e0bcb84533ed9527198cf.jpg" alt="Le moteur de Florence : une bille par heure" caption="Le moteur de \"Florence\" : une bille par heure" link="http://www.flickr.com/photos/goulu/6166891188/in/photostream/" align="aligncenter" width="375" >}}
 
 Le "[Chronolithe](http://www.betrisey.ch/cronolit.html)" et la "[Conti](http://www.betrisey.ch/conti.html)" sont les plus incroyables pendules qu'il m'ait été donné de voir. Leur long balancier n'est propulsé que par la [pression de la lumière](w:Pression_de_radiation), comme le [radiomètre de Crookes](w:), ces petits moulins de pales argentées d'un côté et noircies de l'autre tourniquant sous vide d'air dans certaines vitrines de l'ère pré-numérique. Bouger un pendule de 4 Kg avec une force de quelques micronewtons : il l'a fait !
 

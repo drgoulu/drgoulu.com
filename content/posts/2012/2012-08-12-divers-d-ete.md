@@ -4,7 +4,7 @@ slug: "divers-d-ete"
 date: 2012-08-12
 categories:
   - "Pourquoi"
-tags: 
+tags:
   - "biologie"
   - "ecologisme"
   - "economie"
@@ -22,13 +22,13 @@ Billet vite fait en forme de pot-pourri de découvertes estivales.
 
 Ce pays est bien plus qu'une destination de vacances de rêve. L'archipel est un "micro-continent" granitique peuplé d'espèces endémiques surprenantes, préservées de toute présence humaine jusque vers 1750. Actuellement, ce micro-état de 90'000 habitants seulement traverse des crises importantes mais m'a semblé sur la bonne voie pour les résoudre : bon niveau de formation, ouverture, dialogue social et politique, conscience écologique.
 
-{{< figure src="./images/2b007b382f92fe7ce4fc7096c1a36864.jpg" alt="Dr. Goulu et la coco fesse (sur flickr)" caption="&quot;Dr. Goulu et la coco fesse&quot; (sur flickr)" link="http://www.flickr.com/photos/goulu/7735872512" width="240" >}}
+{{< figure src="./images/2b007b382f92fe7ce4fc7096c1a36864.jpg" alt="Dr. Goulu et la coco fesse (sur flickr)" caption="\"Dr. Goulu et la coco fesse\" (sur flickr)" link="http://www.flickr.com/photos/goulu/7735872512" width="240" >}}
 
 On trouve aux Seychelles des [tortues géantes](w:tortue_géante_des_Seychelles), "Aldabrachelys gigantea", plus grosses que celles des Galapagos. Charles Darwin était d'ailleurs intervenu en faveur de leur protection, car elles étaient menacées à la fin du XIXème siècle. Les autorités avaient alors eu une excellente idée pour tenir les braconniers à l'écart de Curieuse, une île affectionnée par les tortues : y construire une léproserie!
 
 Il y a le [cocotier de mer](w:) "Lodoicea maldivica" qui n'est ni de mer, ni des Maldives mais produit bien les plus grosses graines du monde, les magnifiques "coco fesses". De la même [famille](w:Arecaceae) que "[Cocos nucifera](w:)", il n'est de loin pas autant répandu puisqu'il n'en existe que quelques milliers d'arbres, pour la plupart à la [Vallée de Mai](http://whc.unesco.org/fr/list/261/) sur l'ile de Praslin. [Certains](http://salem.blog.24heures.ch/archive/2007/12/06/cucul-la-praline.html) prétendent d'ailleurs que la "coco de Praslin" a donné l'expression "[cucul la praline](http://www.expressio.fr/expressions/cucul-la-praline.php)", mais c'est douteux. Pour ma part, je me demande toujours quel est l'[avantage sélectif](w:) de produire si peu de graines si grosses qu'il leur faut 7 ans pour mûrir.
 
-A part ça, les "fruit bats" des Seychelles sont de  [grosses chauve-souris](w:Pteropodidae) "[[Pteropus seychellensis comorensis](w:Pteropus_seychellensis_comorensis "Pteropus seychellensis comorensis")](https://fr.wikipedia.org/wiki/[Pteropus_seychellensis_comorensis](w:Pteropus_seychellensis_comorensis_"Pteropus_seychellensis_comorensis"))" qui se nourrissent exclusivement de fruits. J'ai été étonné par leur vol en ligne droite, de jour, mais je ne les ai pas trouvées aussi goûteuses que vantées par les Seychellois...
+A part ça, les "fruit bats" des Seychelles sont de  [grosses chauve-souris](w:Pteropodidae) "[[Pteropus seychellensis comorensis](w:Pteropus_seychellensis_comorensis "Pteropus seychellensis comorensis")](<https://fr.wikipedia.org/wiki/[Pteropus_seychellensis_comorensis](w:Pteropus_seychellensis_comorensis_"Pteropus_seychellensis_comorensis")>)" qui se nourrissent exclusivement de fruits. J'ai été étonné par leur vol en ligne droite, de jour, mais je ne les ai pas trouvées aussi goûteuses que vantées par les Seychellois...
 
 ### {{< openbook booknumber="ISBN:9782843441134" templatenumber="1" >}}
 
@@ -40,7 +40,7 @@ Ce roman de "hard science fiction" raconte un voyage interstellaire à vitesse r
 
 Par contre je n'ai pas aimé du tout {{< openbook booknumber="OLID:OL23231925M" templatenumber="5" >}} Ou plutôt j'ai été très déçu par ce pamphlet politique commis par Alain Grandjean, économiste simpliste, et Jean-Marc Jancovici dont je pense pourtant toujours beaucoup de bien depuis que j'ai découvert son site [Manicore](/2009/02/15/manicore/).
 
-Comme ma critique de ce bouquin prend de la place, je vais y consacrer un prochain article. Ici je ne m'attaquerai  qu'à l'allégorie utilisée par les auteurs tout au long de leur argumentation : l'[écocide](w:) de l'[île de Pâques](w:). Selon l'hypothèse du [syndrôme de l'île de Pâques](w:) développée entre autres par [Jared Diamond](w:) dans "[Effondrement](w:Effondrement_(livre))", cette île initialement paradisiaque aurait été déforestée par ses habitants sous l'influence des monarques obsédés par l'édification des fameux [Moaï](w:), au point de la rendre quasi inhabitable.
+Comme ma critique de ce bouquin prend de la place, je vais y consacrer un prochain article. Ici je ne m'attaquerai  qu'à l'allégorie utilisée par les auteurs tout au long de leur argumentation : l'[écocide](w:) de l'[île de Pâques](w:). Selon l'hypothèse du [syndrôme de l'île de Pâques](w:) développée entre autres par [Jared Diamond](w:) dans "[Effondrement](<w:Effondrement_(livre)>)", cette île initialement paradisiaque aurait été déforestée par ses habitants sous l'influence des monarques obsédés par l'édification des fameux [Moaï](w:), au point de la rendre quasi inhabitable.
 
 Or ceci apparaît de plus en plus comme une [éco fable](http://fabiusmaximus.com/2010/02/04/easter/). En particulier, après avoir montré en 2006 que la colonisation de l'île de Pâques était bien plus tardive qu'on ne l'imaginait [[1]](#ref-1), Hunt et Lipo viennent de prouver que les moaïs pouvaient être déplacés sans nécessiter de bois, en marchant !
 

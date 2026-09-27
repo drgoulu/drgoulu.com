@@ -4,7 +4,7 @@ slug: "comment-produire-des-nombres-premiers"
 date: 2012-04-15
 categories:
   - "Comment"
-tags: 
+tags:
   - "histoire"
   - "internet"
   - "maths"
@@ -12,7 +12,7 @@ tags:
 coverImage: "./images/df243304c6b9c3dc459bb7fec074fb31.jpg"
 ---
 
-{{< figure src="./images/1971d1afbb614c35babb0033c509adc3.jpg" alt="the centrality of prime numbers par barabeke sur Flickr" caption="&quot;the centrality of prime numbers&quot; par barabeke sur Flickr" link="http://www.flickr.com/photos/barabeke/2205492728/" width="240" >}}
+{{< figure src="./images/1971d1afbb614c35babb0033c509adc3.jpg" alt="the centrality of prime numbers par barabeke sur Flickr" caption="\"the centrality of prime numbers\" par barabeke sur Flickr" link="http://www.flickr.com/photos/barabeke/2205492728/" width="240" >}}
 
 Les [nombres premiers](w:Nombre_premier) ont beau être étudiés depuis au moins 2300 ans, ils n'ont jamais été aussi mystérieux ni utiles qu'aujourd'hui.
 

@@ -11,7 +11,7 @@ tags:
   - programmation
 ---
 
-{{< figure alt="&quot;The Right Way to Calculate Stuff&quot;" link="http://www.plunk.org/~hatch/rightway.php" src="./images/df243304c6b9c3dc459bb7fec074fb31.jpg" >}}
+{{< figure alt="\"The Right Way to Calculate Stuff\"" link="http://www.plunk.org/~hatch/rightway.php" src="./images/df243304c6b9c3dc459bb7fec074fb31.jpg" >}}
 
 ["The Right Way to Calculate Stuff"](http://www.plunk.org/~hatch/rightway.php) est une page pour informaticiens dans mon genre : elle contient des petits "snippets" de code utile pour contourner certains pièges tendus par les maths et la géométrie.
 
@@ -27,7 +27,7 @@ mais ce n'est peut-être pas suffisant. Si x est très petit, la division de deu
 
 {{< highlight cpp >}}
 
-if (1. + x*x == 1.) return 1. else return sin(x)/x;
+if (1. + x\*x == 1.) return 1. else return sin(x)/x;
 
 {{< /highlight >}}
 
@@ -48,9 +48,9 @@ une deuxième approche est: 2\*atan2(abs(u-v),abs(u+v)). Pas mal mais couteux e
 {{< highlight cpp >}}
 
 if (dot(u,v) < 0.)
-  return M_PI - 2*asin(abs(-v-u)/2)
+return M_PI - 2*asin(abs(-v-u)/2)
 else
-  return 2*asin(abs(v,u)/2);
+return 2*asin(abs(v,u)/2);
 
 {{< /highlight >}}
 

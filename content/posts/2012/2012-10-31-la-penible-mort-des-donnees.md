@@ -4,7 +4,7 @@ slug: "la-penible-mort-des-donnees"
 date: 2012-10-31
 categories:
   - "Comment"
-tags: 
+tags:
   - "informatique"
   - "internet"
   - "securite"
@@ -23,7 +23,7 @@ D'abord, les données sont défendues contre leur pire ennemi : l'homme. Il y a 
 
 Pour des raisons techniques que nous allons expliquer plus bas, l'informatique actuelle combine les 3 stratégies au point qu'effacer des données est devenu une opération redoutablement complexe.
 
-{{< figure src="./images/0abc70ee659ffda517e3ff039cdf3bea.jpg" alt="Dead Data par Stinging Eyes sur Flickr" caption="&quot;Dead Data&quot; par Stinging Eyes sur Flickr" link="http://www.flickr.com/photos/martinlatter/299981441/" width="240" >}}
+{{< figure src="./images/0abc70ee659ffda517e3ff039cdf3bea.jpg" alt="Dead Data par Stinging Eyes sur Flickr" caption="\"Dead Data\" par Stinging Eyes sur Flickr" link="http://www.flickr.com/photos/martinlatter/299981441/" width="240" >}}
 
 D'abord, il faut réaliser que l'écrasement est la principale cause de mortalité des données. Il y en a un tout petit peu qui meurent d'inanition lorsque l'alimentation d'un PC flanche, un peu plus qui meurent dans un crash de disque dur mécanique ou magnétique, mais la plupart meurent écrasées par d'autres données écrites au même emplacement mémoire qu'elles.
 
@@ -50,7 +50,7 @@ Le niveau le plus bas de la hiérarchie mémoire pose le plus gros problème. A 
 
 Or tant que tous les clones d'une donnée n'ont pas été écrasés, voire broyés, elle peut ressusciter   :
 
-- En RAM, des programmes mal fichus peuvent continuer à utiliser des [pointeurs](w:pointeur_(programmation)) vers des données tuées, voire les ressusciter en les copiant à un emplacement valide.
+- En RAM, des programmes mal fichus peuvent continuer à utiliser des [pointeurs](<w:pointeur_(programmation)>) vers des données tuées, voire les ressusciter en les copiant à un emplacement valide.
 - Sur disque, des [programmes spéciaux](http://pcsupport.about.com/od/filerecovery/tp/free-file-recovery-programs.htm) peuvent "dés-effacer" des fichiers.
 - Sur internet, on peut retrouver une page effacée dans le [cache des moteurs de recherche](http://webcache.googleusercontent.com/search?q=cache:drgoulu.com) ou sur un [site d'archives](http://wayback.archive.org/web/*//) par exemple. Et la republier.
 - Et toute donnée ayant au moins une copie de sécurité (n'est-ce pas ?), une catastrophe peut paradoxalement rendre la vie à des données effacées après la création de la copie...
@@ -59,7 +59,7 @@ Or tant que tous les clones d'une donnée n'ont pas été écrasés, voire broy�
 
 Quand une donnée est tuée, il faut en informer ses proches: les références. Au sens large, ce sont toutes les autres données qui se réfèrent à la disparue et qui risquent l'équivalent informatique de la gaffe "ah, et bien des choses à ta femme de ma part !" - "... elle est morte la semaine passée..." :  le crash.
 
-En RAM, les [pointeurs](w:pointeur_(programmation)) vers la donnée effacée indiquent désormais une tombe. Les suivre invoque l'[Écran Bleu de la Mort](w:) ainsi nommé en raison de son apparence sous Windows, mais il se présente aussi sous forme [sonore pour les pommes](http://www.youtube.com/watch?v=4FOOmoukpJc) et [paniquée chez les pingouins](w:panique_du_noyau), entre autres. Dans tous les cas, vous allez perdre un peu de temps à redémarrer votre machine, et parfois beaucoup de données saines...
+En RAM, les [pointeurs](<w:pointeur_(programmation)>) vers la donnée effacée indiquent désormais une tombe. Les suivre invoque l'[Écran Bleu de la Mort](w:) ainsi nommé en raison de son apparence sous Windows, mais il se présente aussi sous forme [sonore pour les pommes](http://www.youtube.com/watch?v=4FOOmoukpJc) et [paniquée chez les pingouins](w:panique_du_noyau), entre autres. Dans tous les cas, vous allez perdre un peu de temps à redémarrer votre machine, et parfois beaucoup de données saines...
 
 {{< figure src="./images/72ba586f15ac6d1b1a168cebae92cd41.jpg" alt="Ne vous laissez pas distraire : ceci est l'Écran Bleu de la MORT !" caption="Ne vous laissez pas distraire : ceci est l'Écran Bleu de la MORT !" align="aligncenter" width="648" >}}
 
@@ -71,7 +71,7 @@ Mais l'Écran Bleu de la Mort envahit aussi internet, le niveau le plus bas de l
 
 Pour vous qui surfez, ce problème occasionnel peut souvent se résoudre en utilisant un moteur de recherche pour retrouver une autre page avec le même contenu. Sur drgoulu.com, ça devient embêtant : malgré l'utilisation d'un [outil](http://wordpress.org/extend/plugins/broken-link-checker/) qui gère les redirections  425 liens sur 6110 se sont brisés au fil des ans. J'en répare manuellement quelques uns, parfois. Les autres apparaissent [comme ça](http://ozone3d.net/404). Mais il y a pire : de plus en plus de sites web utilisent du contenu, voire du code, stocké sur un[Content Delivery Network](w:) (CDN). Si de tels liens se cassent, ça peut rendre indisponible des sites entiers.
 
-Les informaticiens ont développé de nombreux et intenses efforts pour repousser l'Écran Bleu de la Mort, avec des succès variés. Ils ont assez bien réussi à remplacer les dangereux pointeurs par des [références](w:référence_(informatique)) en mémoire plus intelligentes, qui prennent une valeur précise (en général nulle) au moment même où la donnée qu'ils pointent meurt. Dans les bases de données, ils ont eu l'idée des contraintes d'[intégrité référentielle](w:). C'est très bien, très rigoureux et tout, mais ça oblige à effacer en cascade tous les enregistrements liés aux enregistrements effacés par des [clés étrangères](w:clé_étrangère). Une petite mort naturelle peut ainsi causer un holocauste, donc si on l'utilise, on préfère désactiver la possibilité d'effacer les données...
+Les informaticiens ont développé de nombreux et intenses efforts pour repousser l'Écran Bleu de la Mort, avec des succès variés. Ils ont assez bien réussi à remplacer les dangereux pointeurs par des [références](<w:référence_(informatique)>) en mémoire plus intelligentes, qui prennent une valeur précise (en général nulle) au moment même où la donnée qu'ils pointent meurt. Dans les bases de données, ils ont eu l'idée des contraintes d'[intégrité référentielle](w:). C'est très bien, très rigoureux et tout, mais ça oblige à effacer en cascade tous les enregistrements liés aux enregistrements effacés par des [clés étrangères](w:clé_étrangère). Une petite mort naturelle peut ainsi causer un holocauste, donc si on l'utilise, on préfère désactiver la possibilité d'effacer les données...
 
 Certains [systèmes de fichiers](w:système_de_fichier) utilisent des concepts inspirés des bases de données, mais je n'en connais toujours aucun qui permette de déplacer ou de renommer un fichier système sans tout casser : les fichiers n'ont toujours pas une "adresse" unique.
 
@@ -79,13 +79,13 @@ Les [URL](w:Uniform_Resource_Locator) d'internet peuvent être vues comme des 
 
 ## La Fragmentation
 
-Le quatrième monstre qui défend les données contre la mort porte un nom de grenade mortelle : la [fragmentation](w:fragmentation_(informatique)).
+Le quatrième monstre qui défend les données contre la mort porte un nom de grenade mortelle : la [fragmentation](<w:fragmentation_(informatique)>).
 
 Commençons par parler de la mémoire RAM. Une donnée effacée y laisse un trou.  Cet emplacement libre est par la suite ré-alloué à une  donnée naissante, mais celle-ci ne peut pas être plus grande que le trou, donc il y a de fortes chances que le trou ne soit que partiellement rempli par une donnée plus petite, en laissant un reste de trou encore plus petit. Au bout d'un certain temps, la mémoire disponible sera fragmentée en beaucoup de petits trous dans lesquels les grosses données ne pourront plus se caser.
 
 ![](./images/ba62079087cf8b5893d8b1094654597b.gif)
 
-En RAM, l'utilisation de références adaptées et la vitesse de copie de la mémoire permet de [ramasser les miettes](w:Ramasse-miettes_(informatique)) de temps en temps, mais sur des supports plus lents comme les disques on préfère diviser au besoin un gros fichier en une chaîne de petits blocs remplissant exactement les trous laissés libres par les fichiers effacés. Mais cette fragmentation des fichiers ralentit l'accès aux données.
+En RAM, l'utilisation de références adaptées et la vitesse de copie de la mémoire permet de [ramasser les miettes](<w:Ramasse-miettes_(informatique)>) de temps en temps, mais sur des supports plus lents comme les disques on préfère diviser au besoin un gros fichier en une chaîne de petits blocs remplissant exactement les trous laissés libres par les fichiers effacés. Mais cette fragmentation des fichiers ralentit l'accès aux données.
 
 ## Les données doivent-elles mourir ?
 

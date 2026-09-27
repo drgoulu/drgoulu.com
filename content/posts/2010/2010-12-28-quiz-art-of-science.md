@@ -1,10 +1,10 @@
 ---
-title: "Quiz &quot;Art of Science&quot;"
+title: 'Quiz "Art of Science"'
 slug: "quiz-art-of-science"
 date: 2010-12-28
 categories:
   - "Combien"
-tags: 
+tags:
   - "art"
   - "photo"
 coverImage: "./images/2010-12-28_1620061.png"
@@ -16,7 +16,7 @@ coverImage: "./images/2010-12-28_1620061.png"
 
 Pour cette fin d'année, ils ont organisé un [petit Quiz sympa](http://www.sciencephoto.com/quiz) : il s'agit de reconnaître les peintres célèbres dont les oeuvres ressemblent à la douzaine de photos ci-contre.
 
-Envoyez vos réponses à [marketing@sciencephoto.com](mailto:marketing@sciencephoto.com) jusqu'au 14 janvier 2011. Avec un peu de chance vous gagnerez un abonnement d'une année aux [Tate Galleries](w:Tate_(galerie)) de Londres.
+Envoyez vos réponses à [marketing@sciencephoto.com](mailto:marketing@sciencephoto.com) jusqu'au 14 janvier 2011. Avec un peu de chance vous gagnerez un abonnement d'une année aux [Tate Galleries](<w:Tate_(galerie)>) de Londres.
 
 Moi je cherche toujours les 7, 8 et 12 ...
 

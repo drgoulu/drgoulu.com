@@ -4,7 +4,7 @@ slug: "pourquoi-les-fabricants-de-machines-tirent-la-langue"
 date: 2009-06-06
 categories:
   - "Combien"
-tags: 
+tags:
   - "economie"
   - "production"
 coverImage: "./images/ccc806a5160dee07a8e894b7daedff5b.jpg"
@@ -49,7 +49,7 @@ Chaque joueur doit satisfaire son client en maintenant le coût de son stock à 
 
 Il existe plusieurs variantes du jeu, mais toutes montrent clairement l'effet fouet : plus on remonte la chaine, plus l'incertitude augmente, ce qui incite à constituer un stock plus important et à commander des quantités de bière avec des variations plus élevées:
 
-{{< figure src="./images/e964c92e352125a95722234b4a0aadd0.png" alt="beergame" caption="résultats typiques du &quot;beer game&quot; : les variations de la production de bière sont beaucoup plus importantes que celles de la consommation (cliquer pour agrandir)" link="./images/e964c92e352125a95722234b4a0aadd0.png" align="aligncenter" width="402" >}}
+{{< figure src="./images/e964c92e352125a95722234b4a0aadd0.png" alt="beergame" caption="résultats typiques du \"beer game\" : les variations de la production de bière sont beaucoup plus importantes que celles de la consommation (cliquer pour agrandir)" link="./images/e964c92e352125a95722234b4a0aadd0.png" align="aligncenter" width="402" >}}
 
 Il existe plusieurs moyens de réduire, voire d'éliminer l'effet fouet, du moins dans une même organisation, mais il subsistera probablement toujours entre entreprises. Et en temps de crise, l'industrie des biens de production (machines) souffrira plus que celle des biens de consommation.
 

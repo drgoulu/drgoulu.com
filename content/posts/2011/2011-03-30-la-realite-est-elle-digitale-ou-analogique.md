@@ -4,7 +4,7 @@ slug: "la-realite-est-elle-digitale-ou-analogique"
 date: 2011-03-30
 categories:
   - "Pourquoi"
-tags: 
+tags:
   - "maths"
   - "physique"
   - "quantique"
@@ -14,7 +14,7 @@ tags:
 coverImage: "./images/4e33f9d9b863d16f7ddd3e4fa09660e3.jpg"
 ---
 
-{{< figure src="./images/4e33f9d9b863d16f7ddd3e4fa09660e3.jpg" alt="images/4e33f9d9b863d16f7ddd3e4fa09660e3.jpg" caption="&quot;Deconstitutionalisation 29&quot; par maistora sur Flickr" link="http://www.flickr.com/photos/maistora/5162217634/" width="201" >}}
+{{< figure src="./images/4e33f9d9b863d16f7ddd3e4fa09660e3.jpg" alt="images/4e33f9d9b863d16f7ddd3e4fa09660e3.jpg" caption="\"Deconstitutionalisation 29\" par maistora sur Flickr" link="http://www.flickr.com/photos/maistora/5162217634/" width="201" >}}
 
 C'est le sujet du [concours FQXi 2011 d'essais scientifiques](http://www.fqxi.org/community/essay), motivé par cette réflexion\*:
 

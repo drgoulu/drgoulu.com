@@ -4,14 +4,14 @@ slug: "ya-t-il-des-trous-noirs-dans-la-mer"
 date: 2013-10-05
 categories:
   - "Pourquoi"
-tags: 
+tags:
   - "fluides"
   - "pseudo"
   - "trou-noir"
 coverImage: "./images/2f50fa3be379ea5d67171aa270269feb.gif"
 ---
 
-{{< figure src="./images/2f50fa3be379ea5d67171aa270269feb.gif" alt="Règle pour le journalisme scientifique : si votre article peut être résumé par Non, ne l'écrivez pas." caption="Règle pour le journalisme scientifique : si votre article peut être résumé par &quot;Non&quot;, ne l'écrivez pas." link="http://www.smbc-comics.com/index.php?db=comics&id=2075" width="270" >}}
+{{< figure src="./images/2f50fa3be379ea5d67171aa270269feb.gif" alt="Règle pour le journalisme scientifique : si votre article peut être résumé par Non, ne l'écrivez pas." caption="Règle pour le journalisme scientifique : si votre article peut être résumé par \"Non\", ne l'écrivez pas." link="http://www.smbc-comics.com/index.php?db=comics&id=2075" width="270" >}}
 
 Voici un article que je ne devrais pas écrire, en vertu de la [loi du journalisme de SNBC](http://www.smbc-comics.com/index.php?db=comics&id=2075) illustrée ci-contre.
 
@@ -33,9 +33,9 @@ De plus, les auteurs ne prétendent absolument pas que ces tourbillons océaniqu
 
 A mon humble avis, la petite similitude mathématiques aurait mérité une phrase dans l'article, éventuellement un paragraphe, mais sa présence dans l'abstract et même le titre de l'article sent plutôt la recherche du buzz, qui touche même le monde de la publication scientifique. 
 
-{{< figure src="./images/364b6d33b6c808980d1f923735d454e2.jpg" alt="Un tourbillon de 100km de diamètre détecté par Terra dans le courant des Aiguilles de l'Océan Indien (Image Celestial Convergence)" caption="Un tourbillon de 100km de diamètre détecté par Terra dans le courant des Aiguilles de l'Océan Indien (Image &quot;Celestial Convergence&quot;)" link="http://thecelestialconvergence.blogspot.ch/2012/02/monumental-earth-changes-underwater.html" align="aligncenter" width="560" >}}
+{{< figure src="./images/364b6d33b6c808980d1f923735d454e2.jpg" alt="Un tourbillon de 100km de diamètre détecté par Terra dans le courant des Aiguilles de l'Océan Indien (Image Celestial Convergence)" caption="Un tourbillon de 100km de diamètre détecté par Terra dans le courant des Aiguilles de l'Océan Indien (Image \"Celestial Convergence\")" link="http://thecelestialconvergence.blogspot.ch/2012/02/monumental-earth-changes-underwater.html" align="aligncenter" width="560" >}}
 
-Pourtant, le résultat principal de l'article est de grande valeur : leur méthode permet de détecter de tels tourbillons par des satellites comme [Terra](w:Terra_(satellite)) et de suivre leur déplacement dans l'océan jusqu'au moment ou leur disparition (inexplicable par l'analogie avec un trou noir) provoque le mélange de l'eau transportée par le tourbillon avec l'eau environnante. Et ça, c'est vraiment très fort.
+Pourtant, le résultat principal de l'article est de grande valeur : leur méthode permet de détecter de tels tourbillons par des satellites comme [Terra](<w:Terra_(satellite)>) et de suivre leur déplacement dans l'océan jusqu'au moment ou leur disparition (inexplicable par l'analogie avec un trou noir) provoque le mélange de l'eau transportée par le tourbillon avec l'eau environnante. Et ça, c'est vraiment très fort.
 
 ### Référence:
 

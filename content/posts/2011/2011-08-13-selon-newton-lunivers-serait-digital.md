@@ -4,7 +4,7 @@ slug: "selon-newton-lunivers-serait-digital"
 date: 2011-08-13
 categories:
   - "Pourquoi"
-tags: 
+tags:
   - "maths"
   - "physique"
   - "temps"
@@ -13,7 +13,7 @@ tags:
 coverImage: "./images/4e33f9d9b863d16f7ddd3e4fa09660e3.jpg"
 ---
 
-{{< figure src="./images/27bf5cc2da41ae4eea2abd0a531ba54f.jpg" alt="An experimental sonic black hole par E8 Album HQR Initiative sur flickr.com" caption="&quot;An experimental sonic black hole&quot; par &quot;E8 Album HQR Initiative&quot; sur flickr.com" link="http://www.flickr.com/photos/e8albumdkmatai/4279809666/" align="alignleft" width="240" >}}
+{{< figure src="./images/27bf5cc2da41ae4eea2abd0a531ba54f.jpg" alt="An experimental sonic black hole par E8 Album HQR Initiative sur flickr.com" caption="\"An experimental sonic black hole\" par \"E8 Album HQR Initiative\" sur flickr.com" link="http://www.flickr.com/photos/e8albumdkmatai/4279809666/" align="alignleft" width="240" >}}
 
 C'est du moins ce qu'illustre Jarmo Mäkelä dans son essai "Is Reality Digital or Analog?" [[1]](#ref-1) qui a remporté le premier [prix du concours FQXi 2011](http://www.fqxi.org/community/essay/winners/2011.1) dont [je vous ai causé](/2011/03/30/la-realite-est-elle-digitale-ou-analogique/) il y a quelques mois.
 

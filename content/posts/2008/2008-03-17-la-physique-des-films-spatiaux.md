@@ -1,10 +1,10 @@
 ---
-title: "La physique des films &quot;spatiaux&quot;"
+title: 'La physique des films "spatiaux"'
 slug: "la-physique-des-films-spatiaux"
 date: 2008-03-17
 categories:
   - "Comment"
-tags: 
+tags:
   - "cinema"
   - "fiction"
   - "physique"

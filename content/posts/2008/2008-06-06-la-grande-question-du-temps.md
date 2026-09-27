@@ -4,7 +4,7 @@ slug: "la-grande-question-du-temps"
 date: 2008-06-06
 categories:
   - "Pourquoi"
-tags: 
+tags:
   - "astro"
   - "philosophie"
   - "physique"
@@ -13,7 +13,7 @@ tags:
 coverImage: "./images/0f6551a2b725cf5aff440b54b767ca4a.jpg"
 ---
 
-{{< figure src="./images/adf871d124dba234f4afb0f80ebbb26f.jpg" alt="Big Bang par ToniVC sur flickr" caption="&quot;Big Bang&quot; par ToniVC sur flickr" link="http://www.flickr.com/photos/tonivc/835288945/" width="240" >}}
+{{< figure src="./images/adf871d124dba234f4afb0f80ebbb26f.jpg" alt="Big Bang par ToniVC sur flickr" caption="\"Big Bang\" par ToniVC sur flickr" link="http://www.flickr.com/photos/tonivc/835288945/" width="240" >}}
 
 Dès que l'on parle du [Big Bang à l'origine de l'Univers](/2008/05/30/le-big-bang-en-une-image/), la première question qui se pose est "qu'y avait-il avant ?". C'est la Grande Question du Temps. La réponse de la physique actuelle est "la question n'a pas de sens". Dans cet article, je vais tenter de montrer que ce n'est de loin pas une façon de contourner la difficulté de la question.
 
@@ -37,7 +37,7 @@ Heureusement, en 1967 on a défini la seconde comme \[1\]:
 
 C'est mieux, ça sonne bien physique. Mais [il n'existe pas d'atomes de césium à 0°K dans la nature](/2007/05/09/plus-froid-que-lespace/), et d'ailleurs les premiers atomes sont apparus 300'000 "ans" après le Big Bang, et le césium plutôt après 1'000'000'000 d'années, avec les premières étoiles. Avec quelle horloge pouvait-on mesurer le temps avant ? Ou autrement dit, comment savoir si les secondes du début de l'Univers avaient la même durée que les secondes actuelles ?
 
-{{< figure src="./images/34219472a867937057256c0f094f2d7e.jpg" alt="fig 2 : Histoire microscopique de l'Univers (cliquer pour la macroscopique)" caption="fig 2 : Histoire &quot;microscopique&quot; de l'Univers (cliquer pour la &quot;macroscopique&quot;)" link="/2008/05/30/le-big-bang-en-une-image/" align="aligncenter" width="472" >}}
+{{< figure src="./images/34219472a867937057256c0f094f2d7e.jpg" alt="fig 2 : Histoire microscopique de l'Univers (cliquer pour la macroscopique)" caption="fig 2 : Histoire \"microscopique\" de l'Univers (cliquer pour la \"macroscopique\")" link="/2008/05/30/le-big-bang-en-une-image/" align="aligncenter" width="472" >}}
 
 ###  Le Grand Métronome Absolu
 
@@ -63,7 +63,7 @@ L'idée selon laquelle le Big Bang a eu lieu à un "instant" précis est le rés
 
 ### Sources:
 
-1. ["seconde" sur Wikipedia](w:Seconde_(temps))
+1. ["seconde" sur Wikipedia](<w:Seconde_(temps)>)
 2. ["Big Bang" sur Wikipedia](w:Big_Bang)
 3. Etienne Klein, "[Le temps de la physique](http://basarab.nicolescu.perso.sfr.fr/ciret/bulletin/b12/b12c5.htm)", dans {{< openbook booknumber="ISBN:9782226096111" templatenumber="5" >}}
 4. "[The Observable Universe](http://universe-review.ca/F02-cosmicbg.htm)"

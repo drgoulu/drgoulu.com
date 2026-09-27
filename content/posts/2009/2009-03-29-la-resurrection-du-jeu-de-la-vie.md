@@ -4,7 +4,7 @@ slug: "la-resurrection-du-jeu-de-la-vie"
 date: 2009-03-29
 categories:
   - "Comment"
-tags: 
+tags:
   - "informatique"
   - "logiciels"
   - "programmation"
@@ -14,9 +14,10 @@ coverImage: "./images/a470c29cf6c88b820cc608831b61f545.gif"
 
 Le [Jeu de  vie](w:Jeu_de__vie) imaginé par [John Conway](w:) en 1970 est un automate cellulaire célébrissime pour au moins deux raisons:
 
-1. {{< figure src="./images/a470c29cf6c88b820cc608831b61f545.gif" alt="Un canon à planeurs" caption="Un &quot;canon à planeurs&quot;" width="250" >}}
-    
-    A partir de règles toutes simples, le jeu de la vie génère une "vie" artificielle étrangement complexe et imprévisible, posant toutes sortes de questions intéressantes
+1. {{< figure src="./images/a470c29cf6c88b820cc608831b61f545.gif" alt="Un canon à planeurs" caption="Un \"canon à planeurs\"" width="250" >}}
+
+   A partir de règles toutes simples, le jeu de la vie génère une "vie" artificielle étrangement complexe et imprévisible, posant toutes sortes de questions intéressantes
+
 2. Le Jeu de la Vie étant très facile à programmer, des générations d'étudiants ont codé des programmes "Life" dans tous les langages imaginables.
 
 Après une flambée d'intérêt dans les années 1980 où on a même vu apparaitre des processeurs spécialisés dans l'exécution d'automates cellulaires, le soufflé est retombé dans la décennie suivante car la simulation de grands automates demandait beaucoup de puissance de calcul et de mémoire.

@@ -20,7 +20,7 @@ coverImage: ./images/328f7398c97abb8dc01a010269c6b96c.jpg
 
 Assisté l'autre jour à la conférence "[Crée ou crève! : Inutile d'être génial ou savant pour être innovant!](http://www.rezonance.ch/rezo/classes/ft-first-tuesday/geneve/2012-06-19/)" d'Elmar Mock consacrée à l' "innovation de rupture".
 
-Elmar Mock est l'un des inventeurs de la [Swatch](w:Swatch_\(marque\)) [[1]](#ref-1), une montre en rupture totale avec l'horlogerie suisse des années 1980. Comme il l'explique dans [la vidéo](https://vimeo.com/44659294) par une analogie assez grivoise pour capter l'attention (autour de 10:00), cette rupture a plutôt été la conséquence d'une avalanche de problèmes que le résultat d'une [vision géniale](/2007/05/15/montre-mecanique-contre-quartz/).
+Elmar Mock est l'un des inventeurs de la [Swatch](<w:Swatch_(marque)>) [[1]](#ref-1), une montre en rupture totale avec l'horlogerie suisse des années 1980. Comme il l'explique dans [la vidéo](https://vimeo.com/44659294) par une analogie assez grivoise pour capter l'attention (autour de 10:00), cette rupture a plutôt été la conséquence d'une avalanche de problèmes que le résultat d'une [vision géniale](/2007/05/15/montre-mecanique-contre-quartz/).
 
 Assez marqué par cette expérience pour en parler encore avec émotion 30 ans plus tard, Elmar Mock est devenu un "serial innovateur" et a fondé l'entreprise [Creaholic](http://creaholic.com/) pour aider les entreprises (suisses) sur le dur chemin de l'innovation (où elles sont plutôt bien placées [[2]](#ref-2))
 
@@ -57,7 +57,7 @@ Finalement, où est la "rupture" de la Swatch ? le prix ? l'irréparabilité ? C
 
 N'est-il pas plus "facile" d'innover dans une entreprise, voire une industrie en train de couler que dans une qui va bien ?
 
-{{< figure alt="L' Innovation à Lausanne 1935/1948 ( photos Musée Historique de Lausanne)" caption="&quot;L' Innovation&quot; à Lausanne 1935/1948 ( photos Musée Historique de Lausanne)" link="http://www.notrehistoire.ch/group/nos-grands-magasins/" src="./images/78503155b50ff5cc1f30663e46e02e48.gif" width="320" >}}
+{{< figure alt="L' Innovation à Lausanne 1935/1948 ( photos Musée Historique de Lausanne)" caption="\"L' Innovation\" à Lausanne 1935/1948 ( photos Musée Historique de Lausanne)" link="http://www.notrehistoire.ch/group/nos-grands-magasins/" src="./images/78503155b50ff5cc1f30663e46e02e48.gif" width="320" >}}
 
 Le mot "innovation" évoque pour moi encore une chaîne de ["grands magasins" de Suisse Romande](http://www.notrehistoire.ch/group/nos-grands-magasins/), aujourd'hui disparue. Dès 1935, le mot "innovation" trônait en lettres majuscules au centre de plusieurs villes. Mes parents appelait même "Sainte Innovation" un certain jour férié dans notre Valais catholique et consacré aux gros achats annuels chez nos voisins protestants.
 

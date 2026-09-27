@@ -4,7 +4,7 @@ slug: "einstein-et-les-ondes-gravitationnelles"
 date: 2016-02-14
 categories:
   - "Pourquoi"
-tags: 
+tags:
   - "astro"
   - "einstein"
   - "physique"
@@ -12,7 +12,7 @@ tags:
 coverImage: "./images/0.png"
 ---
 
-{{< figure src="./images/0.png" alt="Dessin de Valott paru dans &quot;24 Heures&quot;" caption="Dessin de Valott paru dans &quot;24 Heures&quot;" link="http://www.24heures.ch/news/standard/L-actu-croquee-par-nos-dessinateurs-partie-2/story/25268155" width="320" >}}
+{{< figure src="./images/0.png" alt="Dessin de Valott paru dans \"24 Heures\"" caption="Dessin de Valott paru dans \"24 Heures\"" link="http://www.24heures.ch/news/standard/L-actu-croquee-par-nos-dessinateurs-partie-2/story/25268155" width="320" >}}
 
 En recherchant où et quand Einstein avait prévu l'existence des ondes gravitationnelles dont tout le monde parle, je suis tombé non seulement sur son article en allemand de 1918 [[1]](#ref-1), mais aussi sur un court article qui en retrace l'historique [[2]](#ref-2).
 

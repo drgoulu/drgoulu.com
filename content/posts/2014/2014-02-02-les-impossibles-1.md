@@ -4,7 +4,7 @@ slug: "les-impossibles-1"
 date: 2014-02-02
 categories:
   - "Pourquoi"
-tags: 
+tags:
   - "histoire"
   - "logique"
   - "science"
@@ -47,7 +47,7 @@ La solidité des [démonstration](w:)s des théorèmes repose sur celle de deux 
 
 A cette époque, les logiciens ont formalisé mathématiquement leur propre langage. Grâce aux [calcul des prédicats](w:), une démonstration peut s'écrire comme une grosse formule que l'on peut évaluer sans risque de commettre des erreurs liées au langage humain. Voici par exemple une partie de la démonstration formelle que 1 + 1 = 2, datant de 1910 \[3\] :
 
-{{< figure src="./images/112.png" alt="Démonstration formelle que 1+1=2 \[2\]" caption="Démonstration formelle que 1+1=2 , &quot;Principia Mathematica&quot;(1910) \[3\]" link="http://quod.lib.umich.edu/u/umhistmath/aat3201.0001.001/401?page=root;size=100;view=image" align="aligncenter" width="566" >}}Aujourd'hui, une partie des théorèmes les plus importants des mathématiques ont été formalisés ainsi, et leurs démonstrations vérifiées, souvent à l'aide de logiciels "[assistant de preuve](w:)" \[5\].
+{{< figure src="./images/112.png" alt="Démonstration formelle que 1+1=2 \[2\]" caption="Démonstration formelle que 1+1=2 , \"Principia Mathematica\"(1910) \[3\]" link="http://quod.lib.umich.edu/u/umhistmath/aat3201.0001.001/401?page=root;size=100;view=image" align="aligncenter" width="566" >}}Aujourd'hui, une partie des théorèmes les plus importants des mathématiques ont été formalisés ainsi, et leurs démonstrations vérifiées, souvent à l'aide de logiciels "[assistant de preuve](w:)" \[5\].
 
 Encore faut-il que les axiomes sur lesquels tout ceci est construit soient eux aussi solides.  Et là, les mathématiciens ont eu une énorme surprise en 1931 lorsque Kurt Gödel démontra que, quels que soient les axiomes choisis , il existe toujours des énoncés "[indécidable](w:)s" qu'il est [impossible](w:Théorèmes_d'incomplétude_de_Gödel) de démontrer. Le cas le plus typique est celui des propositions se référant aux 'axiomes eux-mêmes comme "cette proposition ne peut pas être démontrée avec les axiomes X".
 
@@ -71,6 +71,6 @@ Références
 
 1. Simon Newcomb "[Is the airship coming ?](http://invention.psychology.msstate.edu/library/Magazines/Airship_Coming.html)" McClure's Magazine, 17, September 1901, pp. 432-435 [pdf](http://www.unz.org/Pub/McClures-1901sep-00432)
 2. {{< openbook booknumber="ISBN:0312279590" templatenumber="5" >}}
-3. {{< openbook booknumber="OLID:OL14245342M" templatenumber="5" >}}  _p. 379 \*54.43 : [1+1=2](http://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?c=umhistmath&cc=umhistmath&idno=aat3201.0001.001&frm=frameset&view=image&seq=401)_
+3. {{< openbook booknumber="OLID:OL14245342M" templatenumber="5" >}}  *p. 379 \*54.43 : [1+1=2](http://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?c=umhistmath&cc=umhistmath&idno=aat3201.0001.001&frm=frameset&view=image&seq=401)*
 4. Ian Stewart, "[Les théorèmes de l’impossible](http://www.pourlascience.fr/ewb_pages/a/article-les-theoremes-de-l-impossible-27765.php)", 2000, Pour la Science, No 268, pp. 92–93
 5. J.-P. Delahaye, "[Du rêve à la réalité des preuves](http://www.pourlascience.fr/ewb_pages/a/article-du-reve-a-la-realite-des-preuves-26716.php)", 2011, Pour La Science, No. 402, p. 90, 2011 [texte sur interstices](https://interstices.info/jcms/int_63417/du-reve-a-la-realite-des-preuves)

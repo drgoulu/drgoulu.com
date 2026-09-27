@@ -4,14 +4,14 @@ slug: "de-quelle-couleur-est-lours"
 date: 2013-10-08
 categories:
   - "Comment"
-tags: 
+tags:
   - "geometrie"
   - "humour"
   - "maths"
 coverImage: "./images/teddy_bear_rainbow.png"
 ---
 
-Parfois, un membre du [C@fé des Sciences](http://www.cafe-sciences.org/) lance une "chaîne" de billets sur un thème donné. Là c'est Rock 'n' Science qui a lancé la chaîne des [blagues à caractère scientifique](http://sproutchlagrenouille.wordpress.com/2013/10/02/blagues-a-caractere-scientifique-une-chaine/), déjà complétée par plusieurs de mes estimés confrères. Ayant déjà [blogué sur ce thème](/tags/humour/) par le passé et n'osant pas répéter les horreurs circulant sur notre forum interne, ma modeste contribution cette fois-ci se résume à ce petit problème plus mignon que drôle: [![teddy\_bear\_rainbow](./images/teddy_bear_rainbow.png)](./images/teddy_bear_rainbow.png)
+Parfois, un membre du [C@fé des Sciences](http://www.cafe-sciences.org/) lance une "chaîne" de billets sur un thème donné. Là c'est Rock 'n' Science qui a lancé la chaîne des [blagues à caractère scientifique](http://sproutchlagrenouille.wordpress.com/2013/10/02/blagues-a-caractere-scientifique-une-chaine/), déjà complétée par plusieurs de mes estimés confrères. Ayant déjà [blogué sur ce thème](/tags/humour/) par le passé et n'osant pas répéter les horreurs circulant sur notre forum interne, ma modeste contribution cette fois-ci se résume à ce petit problème plus mignon que drôle: [![teddy_bear_rainbow](./images/teddy_bear_rainbow.png)](./images/teddy_bear_rainbow.png)
 
 > Un explorateur quitte son campement et marche 20 km plein sud, puis il tourne à angle droit et marche 20 km tout droit en direction de l'est. Puis il tourne à nouveau à angle droit et marche 20 km parfaitement vers le nord. Il arrive en plein sur son campement, où il découvre un ours en train de dévorer ses provisions. De quelle couleur est l'ours ?
 
@@ -35,7 +35,7 @@ Bon, il n'est pas vraiment drôle cet article, alors j'en rajoute une courte:
 
 Une logicienne rentre de congé maternité. Un collègue lui demande "ton bébé, c'est un garçon ou une fille ?" Elle : "Vrai."
 
-{{< figure src="./images/bear3.jpg" alt="Le &quot;triangle&quot; qu'aurait pu parcourir l'explorateur autour du pôle Sud" caption="Le &quot;triangle&quot; qu'aurait pu parcourir l'explorateur autour du pôle Sud" link="http://www.qedcat.com/archive/theres_a_bear.html" width="200" >}}
+{{< figure src="./images/bear3.jpg" alt="Le \"triangle\" qu'aurait pu parcourir l'explorateur autour du pôle Sud" caption="Le \"triangle\" qu'aurait pu parcourir l'explorateur autour du pôle Sud" link="http://www.qedcat.com/archive/theres_a_bear.html" width="200" >}}
 
 _Ajout du 9.10.13 :_ le commentaire d'Ysmi me plonge dans un émerveillement teinté de regrets, voire de honte. J'aurais du être plus prudent en écrivant qu'il n'y a que la solution du pôle Nord. En fait j'en ai cherché une preuve mathématique que je n'ai pas trouvée, car elle n'existe pas : il existe une solution au pôle Sud, trouvée il y a bien longtemps par Martin Gardner, [décrite en anglais là](http://www.qedcat.com/archive/theres_a_bear.html) et illustrée ci-contre.
 

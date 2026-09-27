@@ -4,13 +4,13 @@ slug: "on-brulera-vraiment-tout"
 date: 2007-05-25
 categories:
   - "Combien"
-tags: 
+tags:
   - "economie"
   - "energie"
 coverImage: "./images/c736ab5918c3cd1145d9a87e57131cff.png"
 ---
 
-{{< figure src="./images/b17c4350f981b95ef7b83404d93960cd.jpg" alt="Dimday of Our Time par A. Radonic sur Flicker" caption="&quot;Dimday of Our Time&quot; par A. Radonic sur Flicker" link="https://www.flickr.com/photos/radonic/83096145/" width="240" >}}
+{{< figure src="./images/b17c4350f981b95ef7b83404d93960cd.jpg" alt="Dimday of Our Time par A. Radonic sur Flicker" caption="\"Dimday of Our Time\" par A. Radonic sur Flicker" link="https://www.flickr.com/photos/radonic/83096145/" width="240" >}}
 
 Il y a 3 ans, j'avais publié "[On brûlera tout !](/2004/06/29/on-brulera-tout/)", qui dit en substance que le pétrole et le charbon étant tellement bon marché par rapport à toute énergie "alternative", l'humanité consommera de toutes façons toutes les réserves disponibles.
 
@@ -28,4 +28,4 @@ Et il va même plus loin:
 
 ### Référence :
 
-1.  Ivar Ekeland "[Le pétrole sera-t-il bradé ?](https://www.pourlascience.fr/sd/economie/le-petrole-sera-t-il-brade-2919.php)", Pour la Science No 356,  juin 2007,
+1.   Ivar Ekeland "[Le pétrole sera-t-il bradé ?](https://www.pourlascience.fr/sd/economie/le-petrole-sera-t-il-brade-2919.php)", Pour la Science No 356,  juin 2007,
