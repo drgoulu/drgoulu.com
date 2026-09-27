@@ -1,16 +1,14 @@
 ---
 title: À partir de quel prix pensez-vous que Disneyland pourrait théoriquement augmenter le prix des billets d'entrée dans le parc de façon à ce que les gens soient toujours prêts à payer mais qu'il n'y ait plus d'attente pour les attractions ?
-slug: a-partir-de-quel-prix-pensez-vous-que-disneyland-pourrait-theoriquement-augmenter-le-prix-des-billets-d-entree-dans-le-parc-de-facon-a-ce-que-les-gens-soient-toujours-prets-a
-date: '2022-05-22'
+date: 2022-05-22
 draft: false
-categories:
-- Quora
 tags:
-- economie
-- gestion
-- tourisme
-- offre-et-la-demande-economie
-- gestion-du-tourisme-et-des-loisirs
+  - economie
+  - gestion
+  - tourisme
+categories:
+  - Quora
+slug: a-partir-de-quel-prix-pensez-vous-que-disneyland-pourrait-theoriquement-augmenter-le-prix-des-billets-d-entree-dans-le-parc-de-facon-a-ce-que-les-gens-soient-toujours-prets-a
 coverImage: ./images/quora.png
 ---
 
