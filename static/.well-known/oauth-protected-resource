@@ -1,0 +1,13 @@
+{
+  "resource": "https://drgoulu.com",
+  "authorization_servers": [
+    "https://drgoulu.com"
+  ],
+  "scopes_supported": [
+    "read"
+  ],
+  "bearer_methods_supported": [
+    "header"
+  ],
+  "resource_documentation": "https://drgoulu.com"
+}

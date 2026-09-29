@@ -23,8 +23,8 @@ ErrorDocument 404 /404.html
   # 4. Redirection de /tag ou /tag/ vers /tags/ (index de tous les tags)
   RewriteRule ^tag/?$ /tags/ [R=301,L]
 
-  # 5. Normalisation /.well-known/api-catalog/ -> /.well-known/api-catalog
-  RewriteRule ^\.well-known/api-catalog/$ /.well-known/api-catalog [R=301,L]
+  # 5. Normalisation /.well-known/ endpoints (trailing slash)
+  RewriteRule ^\.well-known/(api-catalog|openid-configuration|oauth-authorization-server|oauth-protected-resource)/$ /.well-known/$1 [R=301,L]
 </IfModule>
 
 # Types MIME modernes
@@ -38,6 +38,7 @@ ErrorDocument 404 /404.html
   AddType image/webp .webp
   AddType image/avif .avif
   AddType font/woff2 .woff2
+  AddType text/markdown .md
 </IfModule>
 
 # ----------------------------------------------------------------------
@@ -47,8 +48,9 @@ ErrorDocument 404 /404.html
   ExpiresActive On
   ExpiresDefault "access plus 1 month"
 
-  # HTML / XML / JSON : validation immédiate pour mise à jour rapide
+  # HTML / XML / JSON / Markdown : validation immédiate pour mise à jour rapide
   ExpiresByType text/html "access plus 0 seconds"
+  ExpiresByType text/markdown "access plus 0 seconds"
   ExpiresByType application/linkset+json "access plus 0 seconds"
   ExpiresByType text/xml "access plus 1 hour"
   ExpiresByType application/xml "access plus 1 hour"
@@ -92,17 +94,17 @@ ErrorDocument 404 /404.html
     Header set Cache-Control "no-cache, must-revalidate"
   </FilesMatch>
 
-  # API Catalog revalidé
-  <Files "api-catalog">
+  # Métadonnées pour agents IA revalidées (API Catalog, OAuth/OIDC, Auth.md)
+  <FilesMatch "^(api-catalog|openid-configuration|oauth-authorization-server|oauth-protected-resource|jwks\.json|auth\.md)$">
     Header set Cache-Control "no-cache, must-revalidate"
-  </Files>
+  </FilesMatch>
 
-  # Découverte d'agents IA (RFC 8288 & RFC 9727)
+  # Découverte d'agents IA (RFC 8288, RFC 9727, RFC 9728)
   <FilesMatch "\.html$">
-    Header set Link "</.well-known/api-catalog>; rel=\"api-catalog\""
+    Header set Link "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/oauth-protected-resource>; rel=\"oauth-protected-resource\""
   </FilesMatch>
   SetEnvIf Request_URI "^/(index\.html)?$" AGENT_DISCOVERY=1
-  Header set Link "</.well-known/api-catalog>; rel=\"api-catalog\"" env=AGENT_DISCOVERY
+  Header set Link "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/oauth-protected-resource>; rel=\"oauth-protected-resource\"" env=AGENT_DISCOVERY
 
   # Sécurité
   Header always set X-Content-Type-Options "nosniff"
@@ -112,3 +114,14 @@ ErrorDocument 404 /404.html
 <Files "api-catalog">
   ForceType "application/linkset+json; charset=utf-8"
 </Files>
+
+# Type MIME pour les métadonnées OAuth / OIDC sans extension
+<FilesMatch "^(openid-configuration|oauth-authorization-server|oauth-protected-resource)$">
+  ForceType "application/json; charset=utf-8"
+</FilesMatch>
+
+# Type MIME pour auth.md
+<Files "auth.md">
+  ForceType "text/markdown; charset=utf-8"
+</Files>
+
