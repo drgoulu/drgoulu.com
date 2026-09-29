@@ -1,0 +1,107 @@
+<!-- WebMCP (Web Model Context Protocol) for browser-based AI agent tools -->
+<form id="webmcp-search-form" action="/" method="GET" toolname="search_articles" tooldescription="Search scientific and technical articles published on Dr. Goulu" style="display:none;" aria-hidden="true">
+  <input type="search" name="q" toolparamdescription="Search query keywords or topic" />
+</form>
+<script>
+(function() {
+  var webMcpTools = [
+    {
+      name: "search_articles",
+      description: "Search scientific and technical articles published on Dr. Goulu by query or keyword.",
+      inputSchema: {
+        type: "object",
+        properties: {
+          query: {
+            type: "string",
+            description: "Search query keywords or topic"
+          }
+        },
+        required: ["query"]
+      },
+      execute: async function(params) {
+        var q = (params && params.query) ? encodeURIComponent(params.query) : "";
+        if (typeof window !== "undefined") {
+          window.location.href = "/?q=" + q;
+        }
+        return { success: true, url: "https://drgoulu.com/?q=" + q };
+      }
+    },
+    {
+      name: "read_article",
+      description: "Fetch article content formatted in Markdown via content negotiation.",
+      inputSchema: {
+        type: "object",
+        properties: {
+          path: {
+            type: "string",
+            description: "Path or URL of the article, e.g. /2026/09/slug/"
+          }
+        },
+        required: ["path"]
+      },
+      execute: async function(params) {
+        if (!params || !params.path) return { error: "Path is required" };
+        var res = await fetch(params.path, { headers: { "Accept": "text/markdown" } });
+        var text = await res.text();
+        return { content: text };
+      }
+    },
+    {
+      name: "get_llms_txt",
+      description: "Get summary index of site content and topics for AI agents from /llms.txt.",
+      inputSchema: {
+        type: "object",
+        properties: {},
+        additionalProperties: false
+      },
+      execute: async function() {
+        var res = await fetch("/llms.txt");
+        var text = await res.text();
+        return { content: text };
+      }
+    }
+  ];
+
+  function registerWebMCP() {
+    var mc = (typeof document !== "undefined" && document.modelContext) ||
+             (typeof navigator !== "undefined" && navigator.modelContext) ||
+             (typeof window !== "undefined" && window.modelContext);
+    if (!mc) return;
+
+    var controller = typeof AbortController !== "undefined" ? new AbortController() : null;
+    var opts = controller ? { signal: controller.signal } : {};
+
+    var targets = [];
+    if (typeof document !== "undefined" && document.modelContext) targets.push(document.modelContext);
+    if (typeof navigator !== "undefined" && navigator.modelContext && targets.indexOf(navigator.modelContext) === -1) targets.push(navigator.modelContext);
+    if (typeof window !== "undefined" && window.modelContext && targets.indexOf(window.modelContext) === -1) targets.push(window.modelContext);
+
+    for (var i = 0; i < targets.length; i++) {
+      var target = targets[i];
+      if (typeof target.registerTool === "function") {
+        for (var j = 0; j < webMcpTools.length; j++) {
+          try {
+            var res = target.registerTool(webMcpTools[j], opts);
+            if (res && typeof res.catch === "function") res.catch(function() {});
+          } catch (e) {}
+        }
+      }
+      if (typeof target.provideContext === "function") {
+        try {
+          var pRes = target.provideContext({ tools: webMcpTools });
+          if (pRes && typeof pRes.catch === "function") pRes.catch(function() {});
+        } catch (e) {}
+      }
+    }
+  }
+
+  registerWebMCP();
+
+  if (typeof document !== "undefined") {
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", registerWebMCP);
+    }
+    window.addEventListener("load", registerWebMCP);
+  }
+})();
+</script>
