@@ -16,9 +16,9 @@
 
 {{/* Resolve image */}}
 {{- $img := "" -}}
-{{- $is_remote := strings.HasPrefix $src "http" -}}
+{{- $is_remote := or (strings.HasPrefix $src "http") (strings.HasPrefix $src "blob:") (strings.HasPrefix $src "data:") -}}
 {{- if not $is_remote -}}
-  {{- $clean_dest := strings.TrimPrefix "./" $src -}}
+  {{- $clean_dest := urls.PathUnescape (strings.TrimPrefix "./" $src) -}}
   {{- $img = (.Page.Resources.ByType "image").GetMatch $clean_dest -}}
   {{/* Check <collection>/<year>/images/ in assets */}}
   {{- if not $img -}}

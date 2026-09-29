@@ -2,7 +2,7 @@
 {{/* Load image from page dir falling back to year folder, media library, assets, or remote URI. */}}
 
 {{ $destination := .Destination }}
-{{ $is_remote := strings.HasPrefix $destination "http" }}
+{{ $is_remote := or (strings.HasPrefix $destination "http") (strings.HasPrefix $destination "blob:") (strings.HasPrefix $destination "data:") }}
 {{ $caption := .Title | default "" }}
 {{ $zoom := "true" }}
 {{ $id := anchorize ($caption | plainify) }}
@@ -16,7 +16,7 @@
 
 {{- $img := "" -}}
 {{- if and (not $is_remote) (not (strings.HasPrefix $destination "#")) -}}
-  {{- $clean_dest := strings.TrimPrefix "/" (strings.TrimPrefix "./" $destination) -}}
+  {{- $clean_dest := urls.PathUnescape (strings.TrimPrefix "/" (strings.TrimPrefix "./" $destination)) -}}
   {{/* 1. Page bundle resources */}}
   {{- $img = (.Page.Resources.ByType "image").GetMatch $clean_dest -}}
   {{/* 2. Check <collection>/<year>/images/ in assets */}}
