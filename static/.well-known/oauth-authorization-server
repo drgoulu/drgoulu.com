@@ -21,7 +21,9 @@
   "grant_types_supported": [
     "authorization_code",
     "refresh_token",
-    "client_credentials"
+    "client_credentials",
+    "urn:ietf:params:oauth:grant-type:jwt-bearer",
+    "urn:workos:agent-auth:grant-type:claim"
   ],
   "token_endpoint_auth_methods_supported": [
     "client_secret_basic",
@@ -34,24 +36,32 @@
   "agent_auth": {
     "skill": "https://drgoulu.com/auth.md",
     "register_uri": "https://drgoulu.com/oauth/register",
+    "identity_endpoint": "https://drgoulu.com/oauth/register",
+    "claim_uri": "https://drgoulu.com/oauth/claim",
+    "claim_endpoint": "https://drgoulu.com/oauth/claim",
+    "revocation_uri": "https://drgoulu.com/oauth/revoke",
+    "revocation_endpoint": "https://drgoulu.com/oauth/revoke",
     "identity_types_supported": [
       "anonymous",
       "identity_assertion"
     ],
     "identity_assertion": {
       "assertion_types_supported": [
-        "verified_email"
+        "verified_email",
+        "urn:ietf:params:oauth:token-type:id-jag"
       ],
       "credential_types_supported": [
         "api_key"
       ],
-      "claim_uri": "https://drgoulu.com/oauth/claim"
+      "claim_uri": "https://drgoulu.com/oauth/claim",
+      "claim_endpoint": "https://drgoulu.com/oauth/claim"
     },
     "anonymous": {
       "credential_types_supported": [
         "api_key"
       ],
-      "claim_uri": "https://drgoulu.com/oauth/claim"
+      "claim_uri": "https://drgoulu.com/oauth/claim",
+      "claim_endpoint": "https://drgoulu.com/oauth/claim"
     }
   }
 }

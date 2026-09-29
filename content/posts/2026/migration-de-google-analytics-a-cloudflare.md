@@ -4,13 +4,14 @@ date: 2026-09-27
 draft: true
 tags:
   - migration
-  - google
-  - cloudflare
+  - internet
+  - sécurité
   - IA
+  - web
 categories:
   - Comment
 slug: migration-de-google-analytics-a-cloudflare
-coverImage: ./images/cloudflare.png
+coverImage: ./images/BDES-5287_ProtectedByCloudflareBadge_web_badges_1.png
 ---
 
 Sur l'ancien drgoulu.com, j'utilisais Google Analytics pour obtenir les statistiques sur l'accès au site. J'aurais pu continuer avec eux, mais
@@ -39,8 +40,6 @@ Mais après avoir [migré sous Hugo](/2026/08/24/migration/), mon contenu est d�
 "Il suffit de" dire à Cloudflare d'aller chercher sur GitHub le Markdown correspondant à chaque page HTML sur drgoulu.com. Ca se fait avec un "worker", un petit bout de code que Cloudflare exécute sur toute requête idoine, et voilà :
 
 {{< highlight javascript >}}
-
-
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
@@ -82,9 +81,6 @@ export default {
     return fetch(request);
   },
 };
-
-
-
 {{< /highlight >}}
 
 c'est gratuit et ça prend moins d'une milliseconde (!!!) par requête:
@@ -94,11 +90,11 @@ c'est gratuit et ça prend moins d'une milliseconde (!!!) par requête:
 il y a deux petites astuces :
 
 1. sur github, le contenu est rangé par année alors que sur drgoulu.com il l'est par année/mois/jour. Le worker doit faire une petite conversion
-2. il faut faire de petites exceptions, notamment pour le fichier
+2. il faut faire de petites exceptions, notamment pour les fichiers robots.txt et auth.md
 
 ## robots.txt (avec Content-Signal)
 
-je crois que c'est Google qui avait lancé ça il y a longtemps. C'est un petit fichier texte qui dit aux robots qui indexent le web quoi indexer et comment.
+je crois que c'est Google qui avait lancé ça il y a longtemps. robots.txt est un petit fichier  présent sur tous les sites web qui dit aux moteurs de recherche quoi indexer.
 
 Le mien contient désormais:
 
@@ -117,9 +113,14 @@ C'est elle qui dit aux IA bien élevées [ce qu'elles ont le droit de faire](htt
 
 J'ai un peu hésité sur `ai-train` qui permet aux IA d'apprendre à partir du contenu du site. Et puis je me suis dit que mon contenu était publié sous licence [Creative Commons](/2013/01/26/acanthapis-petax-cc-et-wikipedia/)  [CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/ch/deed.fr), donc que pour autant qu''une IA me cite comme source de temps à autres, elle pouvait apprendre des choses aussi bien que vous ;-)
 
+## API, Auth, MCP & Skill Discovery
+
+- L'IA lit ce fichier pour savoir instantanément quelles sont les procédures de connexion requises. Cela lui évite de tenter des actions interdites qui pourraient déclencher des alertes de sécurité ou bloquer le site.
+- 
+
 Je ne me suis évidemment pas fatigué à écrire ce code, c'est 
 
-## l'IA de Cloudflare
+## Jamais sans les IA
 
 qui s'en est chargée. 
 
@@ -128,6 +129,8 @@ qui s'en est chargée.
 # 
 
 {{< highlight markdown >}}
+
+
 Implement Link Response Headers
 Add Link response headers to your homepage for agent discovery per
 RFC 8288 and
@@ -148,4 +151,6 @@ Content-Type: application/json
 {"url": "https://drgoulu.com"}
 ```
 Check that `checks.discoverability.linkHeaders.status` is `"pass"`.
+
+
 {{< /highlight >}}
