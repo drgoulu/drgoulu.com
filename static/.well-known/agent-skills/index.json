@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "search-articles",
+      "type": "skill-md",
+      "description": "Search and read scientific and technical articles published on Dr. Goulu in Markdown format.",
+      "url": "/.well-known/agent-skills/search-articles/SKILL.md",
+      "digest": "sha256:cf53ca8dcabf3186333a5eea3973a389e42b446c3205615590b99f33d7cd86e3"
+    },
+    {
+      "name": "mcp-tools",
+      "type": "skill-md",
+      "description": "Connect to Dr. Goulu's Model Context Protocol (MCP) server for tool and resource discovery.",
+      "url": "/.well-known/agent-skills/mcp-tools/SKILL.md",
+      "digest": "sha256:4d19a7ef4ccff12309f49f1f0535ac37d841ecfc35b586f9c36571ccbfdca8c4"
+    }
+  ]
+}

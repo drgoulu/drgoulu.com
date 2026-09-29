@@ -94,8 +94,8 @@ ErrorDocument 404 /404.html
     Header set Cache-Control "no-cache, must-revalidate"
   </FilesMatch>
 
-  # Métadonnées pour agents IA revalidées (API Catalog, OAuth/OIDC, Auth.md, MCP)
-  <FilesMatch "^(api-catalog|openid-configuration|oauth-authorization-server|oauth-protected-resource|jwks\.json|auth\.md|server-card\.json)$">
+  # Métadonnées pour agents IA revalidées (API Catalog, OAuth/OIDC, Auth.md, MCP, Skills)
+  <FilesMatch "^(api-catalog|openid-configuration|oauth-authorization-server|oauth-protected-resource|jwks\.json|auth\.md|server-card\.json|index\.json|SKILL\.md)$">
     Header set Cache-Control "no-cache, must-revalidate"
   </FilesMatch>
 
@@ -120,14 +120,19 @@ ErrorDocument 404 /404.html
   ForceType "application/json; charset=utf-8"
 </FilesMatch>
 
-# Type MIME pour auth.md
-<Files "auth.md">
+# Type MIME pour auth.md et SKILL.md
+<FilesMatch "^(auth\.md|SKILL\.md)$">
   ForceType "text/markdown; charset=utf-8"
-</Files>
+</FilesMatch>
 
 # Type MIME pour MCP Server Card (SEP-1649)
 <Files "server-card.json">
   ForceType "application/mcp-server-card+json; charset=utf-8"
+</Files>
+
+# Type MIME pour Agent Skills Index (RFC v0.2.0)
+<Files "index.json">
+  ForceType "application/json; charset=utf-8"
 </Files>
 
 
