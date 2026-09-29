@@ -1,0 +1,64 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Dr. Goulu",
+    "identifier": "did:web:drgoulu.com"
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:drgoulu.com:server:mcp",
+      "displayName": "Dr. Goulu MCP Server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://drgoulu.com/.well-known/mcp/server-card.json",
+      "representativeQueries": [
+        "search science articles on Dr. Goulu",
+        "find physics and astronomy blog posts",
+        "connect to Dr. Goulu MCP server"
+      ]
+    },
+    {
+      "identifier": "urn:air:drgoulu.com:skills:search-articles",
+      "displayName": "Article Search & Retrieval Skill",
+      "type": "text/markdown",
+      "url": "https://drgoulu.com/.well-known/agent-skills/search-articles/SKILL.md",
+      "representativeQueries": [
+        "read Dr. Goulu articles in markdown",
+        "how to search Dr. Goulu blog",
+        "fetch science blog posts with content negotiation"
+      ]
+    },
+    {
+      "identifier": "urn:air:drgoulu.com:skills:mcp-tools",
+      "displayName": "MCP Tools Connection Skill",
+      "type": "text/markdown",
+      "url": "https://drgoulu.com/.well-known/agent-skills/mcp-tools/SKILL.md",
+      "representativeQueries": [
+        "connect to MCP server at drgoulu.com",
+        "discover Model Context Protocol tools on Dr. Goulu",
+        "SEP-1649 MCP connection instructions"
+      ]
+    },
+    {
+      "identifier": "urn:air:drgoulu.com:api:catalog",
+      "displayName": "Dr. Goulu RFC 9727 API Catalog",
+      "type": "application/linkset+json",
+      "url": "https://drgoulu.com/.well-known/api-catalog",
+      "representativeQueries": [
+        "discover Dr. Goulu APIs and feeds",
+        "find RSS and sitemap endpoints",
+        "RFC 9727 API catalog for drgoulu.com"
+      ]
+    },
+    {
+      "identifier": "urn:air:drgoulu.com:api:llms-overview",
+      "displayName": "LLM Context Overview",
+      "type": "text/plain",
+      "url": "https://drgoulu.com/llms.txt",
+      "representativeQueries": [
+        "site overview and summary for large language models",
+        "llms.txt index of Dr. Goulu blog",
+        "list of key topics and articles for AI assistants"
+      ]
+    }
+  ]
+}

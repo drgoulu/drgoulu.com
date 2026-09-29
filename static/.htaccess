@@ -48,8 +48,9 @@ ErrorDocument 404 /404.html
   ExpiresActive On
   ExpiresDefault "access plus 1 month"
 
-  # HTML / XML / JSON / Markdown : validation immédiate pour mise à jour rapide
+  # HTML / XML / JSON / Markdown / Text : validation immédiate pour mise à jour rapide
   ExpiresByType text/html "access plus 0 seconds"
+  ExpiresByType text/plain "access plus 0 seconds"
   ExpiresByType text/markdown "access plus 0 seconds"
   ExpiresByType application/linkset+json "access plus 0 seconds"
   ExpiresByType text/xml "access plus 1 hour"
@@ -94,17 +95,18 @@ ErrorDocument 404 /404.html
     Header set Cache-Control "no-cache, must-revalidate"
   </FilesMatch>
 
-  # Métadonnées pour agents IA revalidées (API Catalog, OAuth/OIDC, Auth.md, MCP, Skills)
-  <FilesMatch "^(api-catalog|openid-configuration|oauth-authorization-server|oauth-protected-resource|jwks\.json|auth\.md|server-card\.json|index\.json|SKILL\.md)$">
+  # Métadonnées pour agents IA revalidées (API Catalog, OAuth/OIDC, Auth.md, MCP, Skills, ARD, robots.txt)
+  <FilesMatch "^(robots\.txt|api-catalog|openid-configuration|oauth-authorization-server|oauth-protected-resource|jwks\.json|auth\.md|server-card\.json|index\.json|SKILL\.md|ai-catalog\.json)$">
     Header set Cache-Control "no-cache, must-revalidate"
+    Header set Access-Control-Allow-Origin "*"
   </FilesMatch>
 
-  # Découverte d'agents IA (RFC 8288, RFC 9727, RFC 9728)
+  # Découverte d'agents IA (RFC 8288, RFC 9727, RFC 9728, ARD)
   <FilesMatch "\.html$">
-    Header set Link "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/oauth-protected-resource>; rel=\"oauth-protected-resource\""
+    Header set Link "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/oauth-protected-resource>; rel=\"oauth-protected-resource\", </.well-known/ai-catalog.json>; rel=\"ai-catalog\""
   </FilesMatch>
   SetEnvIf Request_URI "^/(index\.html)?$" AGENT_DISCOVERY=1
-  Header set Link "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/oauth-protected-resource>; rel=\"oauth-protected-resource\"" env=AGENT_DISCOVERY
+  Header set Link "</.well-known/api-catalog>; rel=\"api-catalog\", </.well-known/oauth-protected-resource>; rel=\"oauth-protected-resource\", </.well-known/ai-catalog.json>; rel=\"ai-catalog\"" env=AGENT_DISCOVERY
 
   # Sécurité
   Header always set X-Content-Type-Options "nosniff"
@@ -130,9 +132,9 @@ ErrorDocument 404 /404.html
   ForceType "application/mcp-server-card+json; charset=utf-8"
 </Files>
 
-# Type MIME pour Agent Skills Index (RFC v0.2.0)
-<Files "index.json">
+# Type MIME pour Agent Skills Index (RFC v0.2.0) et ARD ai-catalog.json
+<FilesMatch "^(index\.json|ai-catalog\.json)$">
   ForceType "application/json; charset=utf-8"
-</Files>
+</FilesMatch>
 
 

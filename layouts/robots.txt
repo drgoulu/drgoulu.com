@@ -3,3 +3,4 @@ Disallow: /admin/
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 
 Sitemap: {{ "sitemap.xml" | absURL }}
+Agentmap: https://drgoulu.com/.well-known/ai-catalog.json
