@@ -1,0 +1,43 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/v1/server-card.schema.json",
+  "name": "com.drgoulu/drgoulu",
+  "title": "Dr. Goulu",
+  "description": "Scientific dissemination blog and article search MCP server.",
+  "version": "1.0.0",
+  "websiteUrl": "https://drgoulu.com/",
+  "repository": {
+    "source": "github",
+    "url": "https://github.com/drgoulu/drgoulu.com"
+  },
+  "serverInfo": {
+    "name": "com.drgoulu/drgoulu",
+    "version": "1.0.0"
+  },
+  "endpoint": "https://drgoulu.com/mcp",
+  "transport": {
+    "type": "streamable-http",
+    "endpoint": "https://drgoulu.com/mcp"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://drgoulu.com/mcp",
+      "supportedProtocolVersions": [
+        "2026-07-28",
+        "2025-11-25",
+        "2025-06-18"
+      ]
+    }
+  ],
+  "capabilities": {
+    "tools": {
+      "listChanged": false
+    },
+    "resources": {
+      "listChanged": false
+    },
+    "prompts": {
+      "listChanged": false
+    }
+  }
+}
