@@ -1,22 +1,24 @@
 ---
 title: Ce téléphone a cent cinquante ans. Combien de temps durera votre smartphone ?
-slug: ce-telephone-a-cent-cinquante-ans-combien-de-temps-durera-votre-smartphone
-date: '2026-06-17'
+date: 2026-06-17
 draft: false
-categories:
-- Combien
 tags:
-- vie
-- innovation-technologique
-- duree
-- technologie-moderne
-- telephone-portable
-coverImage: ./images/qimg-930b7019479a0530d08da0eea81a3d0c.jpg
+  - vie
+  - innovation-technologique
+  - duree
+  - technologie-moderne
+  - telephone-portable
+categories:
+  - Combien
+slug: ce-telephone-a-cent-cinquante-ans-combien-de-temps-durera-votre-smartphone
+coverImage: ./images/main-qimg-b81cfc3133dee15d218816fcd67e89f0.jpeg
 ---
 
-*Réponse publiée [sur Quora](https://fr.quora.com/Ce-t%C3%A9l%C3%A9phone-a-cent-cinquante-ans-Combien-de-temps-durera-votre-smartphone/answer/Dr-Goulu)*
+_Réponse publiée_ [_sur Quora_](https://fr.quora.com/Ce-t%C3%A9l%C3%A9phone-a-cent-cinquante-ans-Combien-de-temps-durera-votre-smartphone/answer/Dr-Goulu)
 
 Le téléphone de la photo de [Laurent](https://fr.quora.com/profile/Laurent-737) ne fonctionne plus. Sur aucun réseau téléphonique du monde, depuis longtemps. Regardez le , il n'a même pas de cadran : il fallait des opératrices pour vous connecter manuellement au "22 à Asnières"…
+
+{{< figure align="alignright" src="./images/main-qimg-b81cfc3133dee15d218816fcd67e89f0.jpeg" >}}
 
 Pour fixer les idées, en 1900, la France avait environ 56 000 abonnés au téléphone pour une population de 40 millions d'habitants, soit à peine 0,14 %.
 
