@@ -25,7 +25,7 @@ La [sélection naturelle](w:) c'est la "_survie du plus apte_" n'est ce pas ? En
 
 > Mais l'expression qu'emploie souvent M. Herbert Spencer : "la persistance du plus apte" (survival of the fittest), est plus exacte et quelquefois tout aussi commode.
 
-Le problème est que Herbert Spencer était un disciple de [Lamarck](w:) : il croyait en l'hérédité la persistance des caractères acquis, donc que l'évolution était "dirigée" vers une amélioration des espèces. C'est en fait Spencer qui donna naissance au "[Darwinisme social](w:)" dont s'inspirèrent hélas des idéologies meurtrières pour justifier l'extermination de "races inférieures". Ce désastre n'est pas terminé, quoique heureusement à une autre échelle, puisque les cré(a)ti(on)nistes n'hésitent pas à faire des [amalgames horribles](https://donotlink.it/nPXo) \*\*.
+Le problème est que Herbert Spencer était un disciple de [Lamarck](w:) : il croyait en l'hérédité la persistance des caractères acquis, donc que l'évolution était "dirigée" vers une amélioration des espèces. C'est en fait Spencer qui donna naissance au "[Darwinisme social](w:)" dont s'inspirèrent hélas des idéologies meurtrières pour justifier l'extermination de "races inférieures". Ce désastre n'est pas terminé, quoique heureusement à une autre échelle, puisque les cré(a)ti(on)nistes n'hésitent pas à faire des [amalgames horribles](https://web.archive.org/web/20090306060611/http://www.eclj.org/PDF/070621_ECLJ_Response.pdf) \*\*.
 
 #### C'est pourquoi il est dangereux de résumer faussement le travail de Darwin en lui attribuant des citations de La Fontaine ou de Spencer.
 
@@ -49,4 +49,5 @@ Si "la raison du plus fort était la meilleure", il n'y aurait plus d'agneaux, p
 
 ### Notes:
 
-\* le Wordle est fait à partir à partir du [texte anglais](https://archive.org/stream/originofspecies00darwuoft/originofspecies00darwuoft_djvu.txt), parce que Wordle n'élimine pas bien les mots sans intérêt dans la  [version française](http://www.wordle.net/show/wrdl/457324/L%27Origine_des_Esp%C3%A8ces) \*\* désolé pour ce lien, mais ça pourrait devenir une [Google Bomb](w:Bombardement_Google) ...
+\* le Wordle est fait à partir à partir du [texte anglais](https://archive.org/stream/originofspecies00darwuoft/originofspecies00darwuoft_djvu.txt), parce que Wordle n'élimine pas bien les mots sans intérêt dans la  [version française](http://www.wordle.net/show/wrdl/457324/L%27Origine_des_Esp%C3%A8ces) 
+\*\* désolé pour ce lien, mais ça pourrait devenir une [Google Bomb](w:Bombardement_Google) ...

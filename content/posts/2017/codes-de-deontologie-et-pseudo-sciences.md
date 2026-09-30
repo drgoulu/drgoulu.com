@@ -26,7 +26,7 @@ Le 27 juillet 2014, il a publié [une excellente BD](https://web.archive.org/web
 > - (...)
 > - s’abstenir de dénigrer un autre pharmacien **ou un autre professionnel;** (...)
 
-Or justement, les acupuncteurs du Québec ont également [un Ordre professionnel](https://donotlink.it/X5oR), avec un [code de déontologie doté d’un article similaire](http://legisquebec.gouv.qc.ca/fr/ShowDoc/cr/A-5.1,%20r.%203/?#se:51), et ont estimé que le Pharmachien dénigrait leur profession.
+Or justement, les acupuncteurs du Québec ont également [un Ordre professionnel](w:Office_des_professions_du_Québec#Liste_des_ordres_professionnels), avec un [code de déontologie doté d’un article similaire](http://legisquebec.gouv.qc.ca/fr/ShowDoc/cr/A-5.1,%20r.%203/?#se:51), et ont estimé que le Pharmachien dénigrait leur profession.
 
 L’enquête menée par l’Ordre des Pharmaciens a finalement conclu qu’il n’y avait pas eu d’infraction ou de manquement à l’éthique professionnelle, mais a appris à Olivier Bernard que son appartenance à un Ordre “restreint sa liberté d’expression”. Il a donc tout de même décidé de retirer son oeuvre de son site dans un souci d’apaisement.
 
@@ -77,7 +77,7 @@ La BD du Pharmachien est une excellente vulgarisation de l’état des connaissa
 
 > Dans ses déclarations publiques traitant de l’exercice de la pharmacie, le pharmacien doit s’appuyer sur des données scientifiquement acceptables et des normes professionnelles reconnues; il doit éviter le recours à l’exagération.
 
-A l’inverse, le code de déontologie des acupuncteurs du Québec ne fait aucune référence à la science et la page de l’ordre sur [les "preuves scientifiques"](https://donotlink.it/pl11) ne contient qu’un lien cassé vers une [publication épuisée](http://apps.who.int/bookorders/anglais/detart1.jsp?codlan=1&codcol=93&codcch=196#).
+A l’inverse, le code de déontologie des acupuncteurs du Québec ne fait aucune référence à la science et la page de l’ordre sur [les "preuves scientifiques"](https://web.archive.org/web/20171027052904/http://www.o-a-q.org/fr/acces-public/l-acupuncture/les-preuves-scientifiques.aspx) ne contient qu’un lien cassé vers une [publication épuisée](https://web.archive.org/web/20180815114007/http://apps.who.int/bookorders/anglais/detart1.jsp?codlan=1&codcol=93&codcch=196).
 
 ## Conclusion
 

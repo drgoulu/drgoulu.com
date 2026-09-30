@@ -36,7 +36,7 @@ Ce blog est un lieu de discussion entre gens curieux et polis. Vos commentaires 
 2. respectueux des personnes et de leurs idées.
 3. rédigés en français intelligible, ou éventuellement en anglais.
 4. "originaux", donc pas des copiés/collés intégraux d'autres pages ou de 100 autres copies d'un commentaires identiques postés ailleurs.
-5. non commerciaux, donc pas destinés principalement à créer du trafic vers un autre site. Mais si c'est en rapport avec l'article, ça peut être ok. Je me réserve le droit de raccourcir vos liens avec [http://www.donotlink.it](https://donotlink.it/) .
+5. non commerciaux, donc pas destinés principalement à créer du trafic vers un autre site. Mais si c'est en rapport avec l'article, ça peut être ok. Je me réserve le droit de cacher vos liens derrière la [Wayback Machine](https://web.archive.org) .
 
 **Bien que ce site utilise dorénavant le service [Disqus](http://disqus.com/) pour différentes raisons, vous pouvez toujours déposer un commentaire anonymement. Il vous suffit d'indiquer une adresse e-mail bidon et de cocher "I'd rather post as a guest".**
 

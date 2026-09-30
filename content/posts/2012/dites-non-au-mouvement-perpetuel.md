@@ -76,6 +76,6 @@ _\* Note ajoutée le 11.10.2013_ : en fait le [théorème de Noether](w:théor�
 
 1. <span id="ref-1"></span>Gilles Charles, "[Rampe de lancement](http://www.supermagnete.de/fre/project68)", site supermagnete.de
 2. <span id="ref-2"></span>Hartman, Emil T., "[U.S. Patent 4,215,330](http://www.google.com/patents?vid=4215330)", 1977
-3. <span id="ref-3"></span>"[MACHINES A "MOUVEMENT PERPETUEL](https://donotlink.it/ZWZN)" sur Quant'Homme
+3. <span id="ref-3"></span>[MACHINES A "MOUVEMENT PERPETUEL"](https://web.archive.org/web/20120504030343/http://quanthomme.free.fr/energielibre/machines/MVP.htm) sur Quant'Homme
 4. <span id="ref-4"></span>Donald E. Simanek, "[Perpetual Futility A short history of the search for perpetual motion.](http://www.lhup.edu/~dsimanek/museum/people/people.htm)"
 5. <span id="ref-5"></span>{{< openbook booknumber="ISBN:9780917914539" templatenumber="5" >}}

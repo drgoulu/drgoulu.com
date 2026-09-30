@@ -85,4 +85,4 @@ Une De Lorean volante propulsée par un réacteur à fusion thermonucléaire ali
 5. <span id="ref-5"></span>["Goldstone Demo of Wireless Power Transmission" video sur Youtube](http://www.youtube.com/watch?v=sy1vqRT-vqI)
 6. <span id="ref-6"></span>Franklin Hadley "[Goodbye wires!](http://web.mit.edu/newsoffice/2007/wireless-0607.html)", 2007, MIT NEWS
 7. <span id="ref-7"></span>Nikola Tesla "[Experiments with Alternating Currents of High Frequency](http://www.gutenberg.org/files/13476/13476-h/13476-h.htm)", 20 mai 1891 conférence à l’Université Columbia de New York
-8. <span id="ref-8"></span>Igor Spajic, "[La voiture à énergie libre de Nikola Tesla](https://donotlink.it/EVvl "http://www.amessi.org/La-voiture-a-energie-libre-de-Nikola-Tesla")", revue Nexus, sur amessi.org
+8. <span id="ref-8"></span>Igor Spajic, "[La voiture à énergie libre de Nikola Tesla](https://web.archive.org/web/20120815065550/http://www.amessi.org/La-voiture-a-energie-libre-de-Nikola-Tesla)", revue Nexus, sur amessi.org

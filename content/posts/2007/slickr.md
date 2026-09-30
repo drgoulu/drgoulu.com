@@ -1,11 +1,13 @@
 ---
-title: "Slickr"
-slug: "slickr"
+title: Slickr
 date: 2007-04-26
+draft: true
+tags:
+  - photo
 categories:
-  - "Comment"
-tags: 
-  - "photo"
+  - Comment
+slug: slickr
+coverImage: ''
 ---
 
 Après avoir mis "[Nebula Carina](/2007/04/25/nebula-carina/)" en fond d'écran, il me fallait un screen-saver (= économiseur d'écran ...) à la hauteur. Jusqu'ici j'avais:

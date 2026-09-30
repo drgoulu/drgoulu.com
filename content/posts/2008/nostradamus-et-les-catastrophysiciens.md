@@ -15,7 +15,7 @@ coverImage: "./images/8c9a7b3dd416eb7f53406a60a01c0a22.jpg"
 
 Après Superman, James Bond et Georges W. Bush, de nouveaux super-héros sont en train de [sauver le monde](/2008/04/17/on-va-tous-mourir/) de la destruction totale par les méchants.
 
-N'écoutant que leur courage, les Catastrophysiciens Luis Sancho et Walter Wagner ont pointé leur [Super-Arme](http://www.donotlink.com/cjq5 "http://www.lhcdefense.org/pdf/Sancho%20v%20Doe%20-%20Complaint.pdf") contre les savants fous qui se préparent à donner la Terre à avaler au micro trou noir qu'ils vont produire avec le LHC du CERN.
+N'écoutant que leur courage, les Catastrophysiciens Luis Sancho et Walter Wagner ont pointé leur [Super-Arme](https://web.archive.org/web/20090225220447/http://www.lhcdefense.org/pdf/Sancho%20v%20Doe%20-%20Complaint.pdf) contre les savants fous qui se préparent à donner la Terre à avaler au micro trou noir qu'ils vont produire avec le LHC du CERN.
 
 A l'appui de leur théorie, les amis de Catastrophysiciens citent une référence de poids : [Nostradamus](w:)! Voici le quatrain qui annonce la catastrophe :
 
@@ -29,9 +29,9 @@ Notez comme l'énigmatique mot "Raypoz" de la prédiction trouve tout son sens a
 
 On voit bien les deux poissons (Nostradamus ne savait pas bien dessiner les protons...) qui se croisent en sens inverse, lançés avec un arc à supraconducteur, et le trou dans le sol creusé par le micro trou noir qui descend au centre de la Terre, d'où il absorbera tout, comme dans ce joli film :
 
-{{< youtube id="BXzugu39pKM" width="640" >}}
+{{< youtube id="BXzugu39pKM" >}}
 
-Tout est limpide n'est ce pas ? Sauf que d'après le texte on peut s'en tirer en fuyant Genève, ce qui fait que d'autres voient plutôt une annonce d' [attaque terroriste nucléaire sur Genève](http://www.donotlink.com/cjq9 "http://nostradamus.nostradamia.com/1cGrandConflit/Default.php") d'après le même texte...
+Tout est limpide n'est ce pas ? Sauf que d'après le texte on peut s'en tirer en fuyant Genève, ce qui fait que d'autres voient plutôt une annonce d' [attaque terroriste nucléaire sur Genève](https://web.archive.org/web/20080314221433/http://nostradamus.nostradamia.com/1cGrandConflit/Default.php) d'après le même texte...
 
 Concrètement donc, des juges américains ont considéré comme recevable la plainte de Luis Sancho et Walter Wagner, et assigné le [FermiLab](http://www.fnal.gov/) partenaire du CERN en justice.  Les physiciens du monde entier vont devoir probablement prouver que leurs expériences au LHC sont sans danger, alors que c'est justement le but du LHC de valider scientifiquement les prédictions de la théorie du "modèle standard" et/ou de ses diverses ramifications.
 
@@ -42,8 +42,8 @@ Les scientifiques signent tous implicitement ce que j'appelle le "Serment de Pac
 ### Références :
 
 1. <span id="ref-1"></span>Alan Gillis "[Nostradamus and the LHC](http://bigsciencenews.blogspot.com/2008/05/nostradamus-and-lhc.html)", the Science of Conundrum
-2. <span id="ref-2"></span>["Lost Book of Nostradamus: Images and Quatrains"](http://www.donotlink.com/cjqj "http://www.crystalinks.com/lostbookofnostradamus.html")
+2. <span id="ref-2"></span>["Lost Book of Nostradamus: Images and Quatrains"](https://web.archive.org/web/20080514004905/http://www.crystalinks.com/lostbookofnostradamus.html)
 3. <span id="ref-3"></span>["Nostradamus : The Lost Book" video](http://www.history.com/shows/nostradamus-effect/videos) (en anglais) sur history.com
 4. <span id="ref-4"></span>"[le CERN au banc des accusés](http://zebrablog.net/sugus/index.php/2008/06/08/916-le-cern-au-banc-des-accuses)" sur le ZebraBlog de Sugus, qui a trouvé le document juridique et motivé ce second article, merci !
 5. <span id="ref-5"></span>Alan Boyle, "[Doomsday fears spark lawsuit](http://cosmiclog.msnbc.msn.com/_news/2008/03/27/4350402-doomsday-fears-spark-lawsuit)" sur CosmicLog
-6. <span id="ref-6"></span>[http://www.lhcconcerns.com/](http://www.donotlink.com/cjqh "http://www.lhcconcerns.com/") un forum initié par les catastrophysiciens avec un début de débat
+6. <span id="ref-6"></span>[http://www.lhcconcerns.com/](https://web.archive.org/web/20080516211732/http://www.lhcconcerns.com/) un forum initié par les catastrophysiciens avec un début de débat
