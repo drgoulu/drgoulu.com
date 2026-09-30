@@ -1,16 +1,13 @@
 ---
 title: Pourquoi les nombres premiers sont-ils si fascinants ?
-slug: pourquoi-les-nombres-premiers-sont-ils-si-fascinants
-date: '2025-06-09'
+date: 2025-06-09
 draft: false
-categories:
-- Pourquoi
 tags:
-- philosophie
-- mathematiques
-- theorie
-- nombres
-- questions
+  - nombres
+  - premiers
+categories:
+  - Pourquoi
+slug: pourquoi-les-nombres-premiers-sont-ils-si-fascinants
 coverImage: ./images/quora.png
 ---
 
