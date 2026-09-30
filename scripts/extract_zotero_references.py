@@ -502,7 +502,7 @@ def fetch_openlibrary_metadata(key_type, value, cache):
         return cache[cache_key]
 
     bibkey = f"ISBN:{value}" if key_type == 'isbn' else f"OLID:{value}"
-    url = f"https://openlibrary.org/api/books?bibkeys={bibkey}&format=json&jscmd=data"
+    url = f"https://openlibrary.org/api/books.json?bibkeys={bibkey}&format=json&jscmd=data"
     
     for attempt in range(2):
         try:

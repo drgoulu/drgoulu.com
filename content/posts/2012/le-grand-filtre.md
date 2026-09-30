@@ -278,12 +278,12 @@ Maintenant, considérons N étapes difficiles de type "essais et erreurs" qui do
 - John A. Ball (1973) "The Zoo Hypothesis", _Icarus_, 19:347. {{< altmetric doi="10.1016/0019-1035(73)90111-5" >}}
 - Michael Balter (1996) "Looking for Clues to the Mystery of Life on Earth", _Science_, 273:870-872. {{< altmetric doi="10.1126/science.273.5277.870" >}}
 - {{< openbook booknumber="ISBN:9780192821478" templatenumber="5" >}}
-- Gregory Benford (1981) "Extraterrestrial Intelligence?", [_Q. Jl. R. astr. Soc._](http://www.blacksci.co.uk/products/journals/qjras.htm), 22:217.
+- Gregory Benford (1981) "Extraterrestrial Intelligence?", R. astr. Soc., 22:217.
 - David Bennett, Kim Driest, Christopher Stubbs, Alex Rodgers, Kem Cook, Will Sutherland (1996) ["Researchers Determine Machos May Comprise Fifty Percent of Galactic Dark Matter"](http://wwwmacho.mcmaster.ca/Pubs/PressRelease/AAS96.html), Press Release, AAS Meeting, San Antonio, Texas, January 16.
-- Glen David Brin (1983) "The 'Great Silence': The Controversy Concerning Extraterrestrial Intelligent Life", [_Q. Jl. R. astr. Soc._](http://www.blacksci.co.uk/products/journals/qjras.htm), 24:283-309.
+- Glen David Brin (1983) "The 'Great Silence': The Controversy Concerning Extraterrestrial Intelligent Life", R. astr. Soc., 24:283-309.
 - Brandon Carter (1983) "The Anthropic principle and its implications for biological evolution", _Phil. Trans. R. Soc. Lond._ A 310:347-363. {{< altmetric doi="10.1098/rsta.1983.0096" >}}
 - Brandon Carter (1993) "The Anthropic Selection Principle and the Ultra-Darwinian Synthesis", in _The Anthropic Principle_, ed. F. Bertola, U. Curi, Cambridge Univ. Press, 33-63.
-- I. A. Crawford (1995) "Some Thoughts on the Implications of Faster-Than Light Interstellar Space Travel", [_Q. Jl. R. astr. Soc._](http://www.blacksci.co.uk/products/journals/qjras.htm), 36:205-218.
+- I. A. Crawford (1995) "Some Thoughts on the Implications of Faster-Than Light Interstellar Space Travel", R. astr. Soc., 36:205-218.
 - Francis Crick, L.E. Orgel (1973) "Directed Panspermia", _Icarus_, 19:341. {{< altmetric doi="10.1016/0019-1035(73)90110-3" >}}
 - {{< openbook booknumber="ISBN:9780671255626" templatenumber="5" >}}
 - David R. Criswell (1985) "Solar System Industrialization: Implications for Interstellar Migrations", in _Interstellar Migration and the Human Experience_, ed. Finney & Jones, 50-87.
@@ -296,7 +296,7 @@ Maintenant, considérons N étapes difficiles de type "essais et erreurs" qui do
 - Robert Forward (1986) "Feasibility of Interstellar Travel: A Review", _Journal of the British Interplanetary Society_, 39:379-394.
 - {{< openbook booknumber="ISBN:9780520058989" templatenumber="5" >}}
 - Ben R. Finney, Eric M. Jones (1985) "Fermi's Question", in _Interstellar Migration and the Human Experience_, ed. Finney & Jones, 298-300.
-- {{< openbook booknumber="ISBN:9780309051972" templatenumber="5" >}}
+- Walter M. Fitch, Francisco J. Ayala (1995) _Tempo and Mode in Evolution, Genetics and Paleontology 50 Years After Simpson_, National Academy Press, Washington D.C. ISBN:9780309051972
 - F. E. Freiheit (1993) "The Possibilities of FTL: Or Fermi's Paradox Reconsidered", [http://www-personal.engin.umich.edu/~fritx/Ftlessay/essay.html](http://www-personal.engin.umich.edu/~fritx/Ftlessay/essay.html)
 - {{< openbook booknumber="ISBN:9780935702026" templatenumber="5" >}}
 - J. Richard Gott (1982) "Cosmology and Life in the Universe", in _Extraterrestrials, Where Are They?_, ed. M. Hart & B. Zuckerman, 122-134.
@@ -314,28 +314,28 @@ Maintenant, considérons N étapes difficiles de type "essais et erreurs" qui do
 - Ernst Mayr (1985) "The probability of extraterrestrial intelligent life", in _Extraterrestrials, Science and alien intelligence_, ed. Regis, 23-30.
 - Ernst Mayr (1995) ["Can SETI Succeed? Not Likely"](http://www.transatlantech.com/TPS/hot-top-d-mayr.html), _Bioastronomy News_, 7:3.
 - David S. McKay, Everett K Gibson Jr., Kathie L. Thomas-Keprta, Hojatollah Vali, Christopher S. Romanek, Simon J. Clemett, Xavier D.F. Chillier, Claude R. Maechling, Richard N. Zare (1996) "Search for Past Life on Mars: Possible Relic Biogenic Activity in Martian Meteorite ALH84001", _Science_, August 16, 273:924-930. {{< altmetric doi="10.1126/science.273.5277.924" >}}
-- Christopher Miller (1995) "Cosmic Hide and Seek: the Search for the Missing Mass", [http://w3.gti.net/cmmiller/drkmttr.html](http://w3.gti.net/cmmiller/drkmttr.html)
+- Christopher Miller (1995) "Cosmic Hide and Seek: the Search for the Missing Mass"
 - John Ostrom (1992) "A History of Vertebrate Successes", in _Major Events in the History of Life_, ed. J.W. Schopf, 119-139.
-- Michael D. Papagiannis (1978) "Are We Alone, or Could They be in the Asteroid Belt?", [_Q. Jl. R. astr. Soc._](http://www.blacksci.co.uk/products/journals/qjras.htm), 19:277.
-- Michael D. Papagiannis (1984) "Natural Selection of Stellar Civilizations by the Limits of Growth", [_Q. Jl. R. astr. Soc._](http://www.blacksci.co.uk/products/journals/qjras.htm), 25:309-318.
+- Michael D. Papagiannis (1978) "Are We Alone, or Could They be in the Asteroid Belt?", Q. Jl. R. astr. Soc., 19:277.
+- Michael D. Papagiannis (1984) "Natural Selection of Stellar Civilizations by the Limits of Growth", Q. Jl. R. astr. Soc., 25:309-318.
 - {{< openbook booknumber="ISBN:9780521348522" templatenumber="5" >}}
 - {{< openbook booknumber="ISBN:9780865422261" templatenumber="5" >}}
 - Dale A. Russell (1983) "Exponential Evolution: Implications for Intelligent Extraterrestrial Life", _Adv. Space Res._, 3(9):95-103. {{< altmetric doi="10.1016/0273-1177(83)90045-5" >}}
-- Carl Sagan, William I. Newman (1983) "The Solipsist Approach to Extraterrestrial Intelligence", [_Q. Jl. R. astr. Soc._](http://www.blacksci.co.uk/products/journals/qjras.htm), 24:113-121.
+- Carl Sagan, William I. Newman (1983) "The Solipsist Approach to Extraterrestrial Intelligence", Q. Jl. R. astr. Soc., 24:113-121.
 - Don Savage, Jim Sahli, Ray Villard (1995) "Astronomers Announce First Clear Evidence of a Brown Dwarf", Space Telescope Press Release No. STScI-PR95-48, November 29.
-- Louis K. Scheffer (1994) "Machine Intelligence, the Cost of Interstellar Travel and Fermi's Paradox", [_Q. Jl. R. astr. Soc._](http://www.blacksci.co.uk/products/journals/qjras.htm), 35:157-175.
+- Louis K. Scheffer (1994) "Machine Intelligence, the Cost of Interstellar Travel and Fermi's Paradox", Q. Jl. R. astr. Soc., 35:157-175.
 - J. William Schopf (1992) "The Oldest Fossils and What They Mean", in _Major Events in the History of Life_, ed. J.W. Schopf, 29-63.
 - {{< openbook booknumber="ISBN:9780867202687" templatenumber="5" >}}
 - J. William Schopf (1995) "Disparate Rates, Differing Fates: Tempo and Mode of Evolution Changed from the Precambrian to the Phanerozoic", in _Tempo and Mode in Evolution, Genetics and Paleontology 50 Years After Simpson_, ed. Fitch & Ayala, 41-61. {{< altmetric doi="10.1073/pnas.91.15.6735" >}}
 - Robert Shapiro, Gerald Feinberg (1982) "Possible Forms of Life in Environments Very Different from the Earth", in _Extraterrestrials, Where Are They?_, ed. M. Hart & B. Zuckerman, 113-121.
 - George G. Simpson (1964) "The nonprevalence of humanoids", _Science_, 143:769. {{< altmetric doi="10.1126/science.143.3608.769" >}}
-- {{< openbook booknumber="ISBN:9780201544404" templatenumber="5" >}}
-- David G. Stephenson (1979) "Extraterrestrial Cultures within the Solar System?", [_Q. Jl. R. astr. Soc._](http://www.blacksci.co.uk/products/journals/qjras.htm), 20:422.
-- David G. Stephenson (1982) "Models of Interstellar Exploration", [_Q. Jl. R. astr. Soc._](http://www.blacksci.co.uk/products/journals/qjras.htm), 23:236-251.
-- Frank J. Tipler (1980) "Extraterrestrial Intelligent Beings do not Exist", [_Q. Jl. R. astr. Soc._](http://www.blacksci.co.uk/products/journals/qjras.htm), 21:267-281.
-- Frank J. Tipler (1981) "Additional Remarks on Extraterrestrial Intelligence", [_Q. Jl. R. astr. Soc._](http://www.blacksci.co.uk/products/journals/qjras.htm), 22:279-292.
+- Peter Skelton (1993) _Evolution: A Biological and Palaeontological Approach_, Addison-Wesley, NY. ISBN:9780201544404
+- David G. Stephenson (1979) "Extraterrestrial Cultures within the Solar System?", Q. Jl. R. astr. Soc., 20:422.
+- David G. Stephenson (1982) "Models of Interstellar Exploration", Q. Jl. R. astr. Soc., 23:236-251.
+- Frank J. Tipler (1980) "Extraterrestrial Intelligent Beings do not Exist", Q. Jl. R. astr. Soc., 21:267-281.
+- Frank J. Tipler (1981) "Additional Remarks on Extraterrestrial Intelligence", Q. Jl. R. astr. Soc., 22:279-292.
 - P. Weber, J.M. Greenberg (1985) "Can Spores Survive in Interstellar Space?", _Nature_, 316:403-407. {{< altmetric doi="10.1038/316403a0" >}}
-- Paul S. Wesson (1990) "Cosmology, Extraterrestrial Intelligence, and a Resolution of the Fermi-Hart Paradox", [_Q. Jl. R. astr. Soc._](http://www.blacksci.co.uk/products/journals/qjras.htm), 31:161-170.
+- Paul S. Wesson (1990) "Cosmology, Extraterrestrial Intelligence, and a Resolution of the Fermi-Hart Paradox", Q. Jl. R. astr. Soc., 31:161-170.
 - D.P. Whitmire, D.P. Wright (1980) "Nuclear Waste Spectrum as Evidence of Technological Extraterrestrial Civilizations", _Icarus_, 42:149-156. {{< altmetric doi="10.1016/0019-1035(80)90253-5" >}}
 - O.B. Zaslavskii (1996) "Generalized second law and the Bekenstein entropy bound in _Gedankenexperiments_ with black holes", _Class. Quantum Grav._, 13:L7-L11. {{< altmetric doi="10.1088/0264-9381/13/1/002" >}}
-- B. Zuckerman (1985) "Stellar Evolution: Motivation for Mass Interstellar Migrations", [_Q. Jl. R. astr. Soc._](http://www.blacksci.co.uk/products/journals/qjras.htm), 26:56-59.
+- B. Zuckerman (1985) "Stellar Evolution: Motivation for Mass Interstellar Migrations", Q. Jl. R. astr. Soc., 26:56-59.

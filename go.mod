@@ -10,6 +10,6 @@ require (
 require (
 	github.com/drgoulu/backlinks4hugo v0.0.0-20260926201124-4b65945a0620 // indirect
 	github.com/drgoulu/headless-cms v0.0.0-20260922195411-0d741f896343 // indirect
+	github.com/drgoulu/openbook4hugo v0.0.0-20260930072802-4597e1317a2c // indirect
 	github.com/goulu/altmetric4hugo v0.0.0-20260830112131-f7ced6beec3d // indirect
-	github.com/goulu/openbook4hugo v0.0.0-20260824202545-558dfae2ba58 // indirect
 )
