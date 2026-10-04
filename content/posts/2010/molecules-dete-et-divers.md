@@ -1,17 +1,18 @@
 ---
-title: "Molécules d'été et divers"
-slug: "molecules-dete-et-divers"
+title: Molécules d'été et divers
 date: 2010-08-01
-categories:
-  - "Comment"
-  - "Pourquoi"
+draft: false
 tags:
-  - "biologie"
-  - "chimie"
-coverImage: "./images/41fc5fd4e31c34907ca2011dbb74ed61.gif"
+  - biologie
+  - chimie
+categories:
+  - Comment
+  - Pourquoi
+slug: molecules-dete-et-divers
+coverImage: ./images/41fc5fd4e31c34907ca2011dbb74ed61.gif
 ---
 
-{{< figure src="./images/41fc5fd4e31c34907ca2011dbb74ed61.gif" alt="représentation 3D de la molécule de menthol (wikipedia)" caption="représentation 3D de la molécule de menthol (wikipedia)" link="http://fr.wikipedia.org/wiki/Menthol" width="256" >}}
+{{< figure alt="représentation 3D de la molécule de menthol (wikipedia)" caption="représentation 3D de la molécule de menthol (wikipedia)" link="http://fr.wikipedia.org/wiki/Menthol" src="./images/41fc5fd4e31c34907ca2011dbb74ed61.gif" width="256" >}}
 
 Il fait chaud et vous appréciez le goût rafraîchissant de la menthe ? Dites merci au [menthol](w:), la molécule contenue dans ces plantes, et désormais également synthétisée par l'industrie chimico-alimentaire. Le menthol a la propriété d'agir chimiquement sur les récepteurs de notre bouche normalement sensibles à la température des aliments, en particulier via un [canal ionique TRP](w:en:Transient_receptor_potential) [[1]](#ref-1), le TRPM8 qui nous signale qu'un aliment est agréablement frais.
 
@@ -33,6 +34,6 @@ Enfin, si vous avez une processeur à plus de 2 coeurs, vous n'avez plus aucune 
 
 ### Références
 
-1. <span id="ref-1"></span>Daniel Abegg, "les thermo TRP - des canaux ioniques sensibles à la température", 2009, Université de Genève ([pdf](https://perso.univ-rennes1.fr/francois.tiaho/L3-physio.%20G-tiaho/Bibliographie/thermorecepteurs/2009-Abegg-revue%20francaise%20TRP.pdf))
+1. <span id="ref-1"></span>Daniel Abegg, "les thermo TRP - des canaux ioniques sensibles à la température", 2009, Université de Genève [pdf](</posts/2010/images/Abegg - 2009 - Les thermo TRP, Des canaux ioniques sensibles à la température.pdf>)
 2. <span id="ref-2"></span>David D McKemy, "How cold is it? TRPM8 and TRPA1 in the molecular logic of cold sensation", Molecular Pain 2005, 1:16 {{< altmetric pmid="15847696" >}}
 3. <span id="ref-3"></span>M Lison, S H Blondheim, and R N Melmed "A polymorphism of the ability to smell urinary metabolites of asparagus.",Br Med J. 1980 December 20; 281(6256): 1676–1678 {{< altmetric pmid="7448566" >}}

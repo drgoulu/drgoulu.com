@@ -45,6 +45,8 @@
   {{- end -}}
 {{- end -}}
 
+{{- $article = replace $article "\\" "" -}}
+{{- $text = replace $text "\\" "" -}}
 {{- $article_clean := replace (strings.TrimSpace $article) " " "_" -}}
 {{- $url := printf "https://%s.wikipedia.org/wiki/%s" $lang $article_clean -}}
 <a href="{{ $url }}" class="wikipedia" target="_blank" rel="noopener">{{ $text }}</a>

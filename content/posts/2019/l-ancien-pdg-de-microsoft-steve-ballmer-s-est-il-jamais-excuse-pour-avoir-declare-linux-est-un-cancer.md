@@ -1,16 +1,15 @@
 ---
-title: 'L''ancien PDG de Microsoft, Steve Ballmer, s''est-il jamais excusé pour avoir déclaré : «Linux est un cancer» ?'
-slug: l-ancien-pdg-de-microsoft-steve-ballmer-s-est-il-jamais-excuse-pour-avoir-declare-linux-est-un-cancer
-date: '2019-07-07'
+title: "L'ancien PDG de Microsoft, Steve Ballmer, s'est-il jamais excusé pour avoir déclaré : «Linux est un cancer» ?"
+date: 2019-07-07
 draft: false
-categories:
-- Quora
 tags:
-- histoire
-- informatique
-- technologies
-- systeme
-- personne
+  - histoire
+  - informatique
+  - technologies
+  - Microsoft
+categories:
+  - Quora
+slug: l-ancien-pdg-de-microsoft-steve-ballmer-s-est-il-jamais-excuse-pour-avoir-declare-linux-est-un-cancer
 coverImage: ./images/qimg-96656cff3215bf81c8ea4cec4cd029f4.jpg
 ---
 
