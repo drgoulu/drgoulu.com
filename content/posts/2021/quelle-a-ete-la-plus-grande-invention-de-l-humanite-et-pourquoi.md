@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Absolument aucun doute à ce sujet : la
 
-[https://fr.wikipedia.org/wiki/Do...](w:Domestication_du_feu)
+[Domestication du feu](w:Domestication_du_feu)
 
 Cette invention est à la base de toutes les autres.

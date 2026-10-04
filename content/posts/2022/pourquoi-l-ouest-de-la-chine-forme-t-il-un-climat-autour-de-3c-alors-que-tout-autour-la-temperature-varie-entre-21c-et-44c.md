@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 peut-être parce qu'il y a de hautes montagnes et plateaux désertiques ?
 
-[https://fr.wikipedia.org/wiki/G%...](w:Géographie_de_la_Chine)
+[Géographie de la Chine](w:Géographie_de_la_Chine)

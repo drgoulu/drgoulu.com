@@ -15,4 +15,4 @@ Minime.
 
 La lithosphère sédimente et fossilise environ 0.4 Gt de carbone par an alors que nous cramons environ 8 Gt par an de ressources fossiles
 
-[https://fr.wikipedia.org/wiki/Cy...](w:Cycle_du_carbone)
+[Cycle du carbone](w:Cycle_du_carbone)

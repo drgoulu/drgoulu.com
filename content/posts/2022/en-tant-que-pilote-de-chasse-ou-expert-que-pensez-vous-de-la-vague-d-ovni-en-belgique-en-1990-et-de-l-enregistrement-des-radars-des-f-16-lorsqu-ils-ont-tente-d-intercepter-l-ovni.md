@@ -22,7 +22,7 @@ La fois où ils ont poursuivi des lasers de discothèque, ou une autre ?
 
 Le paragraphe [Controverse sur les échos radars](w:Vague_belge_d'ovnis) de l'article
 
-[https://fr.wikipedia.org/wiki/Va...](w:Vague_belge_d'ovnis)
+[Vague belge d'ovnis](w:Vague_belge_d'ovnis)
 
 montre qu'il y a plusieurs explications physiques des données disponibles, et qu'il semblerait bien qu'il n'y ait qu'un seul des deux F-16 qui ait ramené un relevé bizarre, l'autre ne montrant rien du tout.
 

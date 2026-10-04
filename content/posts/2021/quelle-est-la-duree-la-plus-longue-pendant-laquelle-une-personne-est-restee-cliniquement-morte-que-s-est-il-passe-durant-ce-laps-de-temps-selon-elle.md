@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Si c'est l'objet de votre question, les
 
-[https://fr.wikipedia.org/wiki/Ex...](w:Expérience_de_mort_imminente)
+[Expérience de mort imminente](w:Expérience_de_mort_imminente)
 
 ne sont pas corrélées à la durée du coma ou de la "mort clinique".
 

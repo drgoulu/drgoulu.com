@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Pas besoin de conditionnel, c'est déjà arrivé au moins une fois.
 
-[https://fr.wikipedia.org/wiki/US...](w:USS_Thresher_(SSN-593))
+[USS Thresher (SSN-593)](w:USS_Thresher_\(SSN-593\))

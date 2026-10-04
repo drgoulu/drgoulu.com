@@ -26,4 +26,4 @@ coverImage: ./images/quora.png
 
 Dès 1729, les estimations obtenues par des procédés physiques ont rapidement convergé vers 300'000, puis 299'792,458 …
 
-[https://fr.wikipedia.org/wiki/Vi...](w:Vitesse_de_la_lumière)
+[Vitesse de la lumière](w:Vitesse_de_la_lumière)

@@ -15,4 +15,4 @@ N'importe quelle rencontre avec des extraterrestres intelligents causera une gue
 
 Une guerre avec des ET chats a été imaginee par Larry Niven dès 1966 et publiée depuis 1988 dans de très nombreuses nouvelles.
 
-[https://en.wikipedia.org/wiki/Ma...](w:en:Man-Kzin_Wars)
+[Man-Kzin Wars](w:en:Man-Kzin_Wars)

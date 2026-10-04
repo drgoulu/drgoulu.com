@@ -22,6 +22,6 @@ Sinon le Canada est au dixième rang de l'indice de développement humain, Dubai
 
 Même les princesses ne sont pas libres
 
-[https://fr.wikipedia.org/wiki/La...](w:Latifa_Al_Maktoum_(1985))
+[Latifa Al Maktoum (1985)](w:Latifa_Al_Maktoum_\(1985\))
 
-[https://fr.wikipedia.org/wiki/Sh...](w:Shamsa_Al_Maktoum)
+[Shamsa Al Maktoum](w:Shamsa_Al_Maktoum)

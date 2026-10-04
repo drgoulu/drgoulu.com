@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 L'
 
-[https://fr.wikipedia.org/wiki/%C...](w:Échelle_de_Kardachev)
+[Échelle de Kardachev](w:Échelle_de_Kardachev)
 
 est un classement des civilisations en fonction de leur consommation énergétique.
 

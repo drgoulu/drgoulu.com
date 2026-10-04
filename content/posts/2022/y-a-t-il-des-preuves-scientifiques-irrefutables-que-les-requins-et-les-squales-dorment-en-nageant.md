@@ -17,4 +17,4 @@ Oui
 
 Mais ce ne sont pas des preuves irréfutables. Toutes les "preuves" scientifiques sont refutables par définition.
 
-[https://fr.wikipedia.org/wiki/R%...](w:Réfutabilité)
+[Réfutabilité](w:Réfutabilité)

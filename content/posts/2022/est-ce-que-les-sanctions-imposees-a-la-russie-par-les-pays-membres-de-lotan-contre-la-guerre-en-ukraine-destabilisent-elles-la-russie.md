@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 les sanctions ne sont pas imposées par l'OTAN, elles sont le choix de nombreux pays dont certains sont membres de l'OTAN, et d'autres pas (Japon, Australie, Suisse…) et d'autres sont membres de l'OTAN mais n'appliquent pas de sanctions (Turquie). Un indice de plus que l'OTAN n'a rien à voir dans cette histoire.
 
-[https://fr.wikipedia.org/wiki/Sa...](w:Sanctions_contre_la_Russie)
+[Sanctions contre la Russie](w:Sanctions_contre_la_Russie)
 
 Je ne sais pas si ça déstabilise la Russie, on verra. Nelson Mandela a toujours dit que les sanctions contre l'Afrique du Sud avaient joué un grand rôle dans le changement de régime.
 

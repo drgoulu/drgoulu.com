@@ -19,4 +19,4 @@ Le photon a aussi une impulsion (généralisation de la quantité de mouvement) 
 
 Donc c'esr plutôt l'impulsion que l'énergie qui est liée au mouvement du photon.
 
-[https://fr.wikipedia.org/wiki/Ph...](w:Photon)
+[Photon](w:Photon)

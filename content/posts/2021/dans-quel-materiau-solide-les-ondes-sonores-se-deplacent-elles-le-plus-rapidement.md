@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Le diamant, 18 km/s
 
-[https://fr.wikipedia.org/wiki/Vi...](w:Vitesse_du_son)
+[Vitesse du son](w:Vitesse_du_son)

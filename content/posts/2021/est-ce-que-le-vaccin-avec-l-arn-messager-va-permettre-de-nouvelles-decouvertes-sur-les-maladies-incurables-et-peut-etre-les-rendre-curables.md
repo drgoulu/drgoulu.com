@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 C'était même le but premier des recherches sur l'ARNm. L'entreprise
 
-[https://fr.wikipedia.org/wiki/Bi...](w:BioNTech)
+[BioNTech](w:BioNTech)
 
 a été fondée pour utiliser l'ARNm dans l'[immunothérapie du cancer](w:Immunologie_des_tumeurs). L'idée était, et est toujours, d'apprendre au système immunitaire à combattre ses les cellules cancéreuses du patient. En gros ils cherchaient un vaccin personnalisé en fonction de votre cancer.
 

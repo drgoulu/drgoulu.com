@@ -28,7 +28,7 @@ Au début de la période que vous mentionnez, il y a eu [la célèbre éruption 
 
 Ensuite, la période 1900–1920 correspond à un minimum de l'
 
-[https://fr.wikipedia.org/wiki/Os...](w:Oscillation_atlantique_multidécennale)
+[Oscillation atlantique multidécennale](w:Oscillation_atlantique_multidécennale)
 
 dont on s'est aperçu[[1]](#vzwRa) qu'elle avait une influence beaucoup plus large, notamment sur la mousson en Inde.
 

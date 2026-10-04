@@ -13,14 +13,14 @@ coverImage: ./images/quora.png
 
 Il y en a beaucoup. Je citerais
 
-[https://fr.wikipedia.org/wiki/Em...](w:Emmy_Noether)
+[Emmy Noether](w:Emmy_Noether)
 
-[https://fr.wikipedia.org/wiki/Jo...](w:Jocelyn_Bell)
+[Jocelyn Bell](w:Jocelyn_Bell)
 
-[https://fr.wikipedia.org/wiki/Ve...](w:Vera_Rubin)
+[Vera Rubin](w:Vera_Rubin)
 
-[https://fr.wikipedia.org/wiki/Ro...](w:Rosalind_Franklin)
+[Rosalind Franklin](w:Rosalind_Franklin)
 
-[https://fr.wikipedia.org/wiki/Es...](w:Esther_Lederberg)
+[Esther Lederberg](w:Esther_Lederberg)
 
 Parmi de nombreuses autres, hélas…

@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 
 Mais on peut. Il faut juste déplacer le fil électrique (vite) dans le (faible) champ magnétique.
 
-[https://fr.wikipedia.org/wiki/C%...](w:Câble_électrodynamique)
+[Câble électrodynamique](w:Câble_électrodynamique)

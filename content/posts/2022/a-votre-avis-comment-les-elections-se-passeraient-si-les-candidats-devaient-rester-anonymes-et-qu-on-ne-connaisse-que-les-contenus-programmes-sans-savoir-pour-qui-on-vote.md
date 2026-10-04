@@ -21,7 +21,7 @@ Si vous cherchez un autre [Système électoral](w:), il y en a en effet beaucoup
 
 Un système ultra simple, utilisé pour des associations de mathématiques est le
 
-[https://fr.wikipedia.org/wiki/Vo...](w:Vote_par_approbation)
+[Vote par approbation](w:Vote_par_approbation)
 
 Ah j'ai changé de programme: faire de la France le premier pays à utiliser le vote par approbation.
 

@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Puisque-le-rayonnement-thermique-d-une-%C3%A9toile-ne-se-perd-pas-tant-qu-il-ne-rencontre-rien-pourquoi-un-objet-lointain-ne-recevra-quasi-aucune-chaleur-Est-ce-simplement-l-angle-extr%C3%AAmement-r/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Lo...](w:Loi_en_carré_inverse)
+[Loi en carré inverse](w:Loi_en_carré_inverse)

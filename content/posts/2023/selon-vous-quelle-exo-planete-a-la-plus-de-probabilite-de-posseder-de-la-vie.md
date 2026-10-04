@@ -20,7 +20,7 @@ celles dont l'[Indice de similarité avec la Terre](w:)est proche de 1
 
 La [liste est là](https://astronomical.fandom.com/wiki/Earth_Similarity_Index).
 
-Parmi les planètes confirmées [Teegarden](https://fr.wikipedia.org/w/index.php?title=Teegarden_b)b est celle qui a l'indice le plus élevé 0.97. Mais elle orbite très près d'une "naine ultra froide", en 4 jours seulement , ce qui la rend quand même assez différente de la Terre mais ces caractéristiques ne sont pas prises en compte dans l'indice.
+Parmi les planètes confirmées [Teegarden](w:Teegarden_b)b est celle qui a l'indice le plus élevé 0.97. Mais elle orbite très près d'une "naine ultra froide", en 4 jours seulement , ce qui la rend quand même assez différente de la Terre mais ces caractéristiques ne sont pas prises en compte dans l'indice.
 
 [KOI-4878.01](w:en:KOI-4878.01)a un indice de 0.98 mais elle est encore non confirmée, c'est-à-dire qu'il n'y a pas eu suffisamment d'observations. Par contre elle orbiterait autour d'une étoile de même type que le Soleil, en 449 jours, ce qui est plus raisonnable.
 

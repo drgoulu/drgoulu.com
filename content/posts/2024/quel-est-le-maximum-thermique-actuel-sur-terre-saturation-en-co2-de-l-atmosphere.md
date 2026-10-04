@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Approximativement la situation de Venus, 460°C
 
-[https://fr.wikipedia.org/wiki/At...](w:Atmosphère_de_Vénus)
+[Atmosphère de Vénus](w:Atmosphère_de_Vénus)
 
 Contrairement à ce que disent d'autres réponses, Venus n'est pas (ou plus) plus chaude que la Terre en raison d'une plus forte irradiation solaire.
 

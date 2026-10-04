@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 c'est un
 
-[https://fr.wikipedia.org/wiki/Ha...](w:Halo_(phénomène_optique))
+[Halo (phénomène optique)](w:Halo_\(phénomène_optique\))

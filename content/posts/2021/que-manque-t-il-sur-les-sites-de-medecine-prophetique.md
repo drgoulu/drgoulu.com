@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 des références à des
 
-[https://fr.wikipedia.org/wiki/Es...](w:Essai_randomisé_contrôlé)
+[Essai randomisé contrôlé](w:Essai_randomisé_contrôlé)
 
 montrant que ça marche …

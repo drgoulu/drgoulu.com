@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Il y a des
 
-[https://fr.wikipedia.org/wiki/Bi...](w:Biochimies_hypothétiques)
+[Biochimies hypothétiques](w:Biochimies_hypothétiques)
 
 qui pourraient éventuellement peut-être se développer dans l'ammoniac ou le fluorure d'hydrogène.

@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Les philosophes ne s'entendent même pas sur la définition de la vérité, alors…
 
-[https://fr.wikipedia.org/wiki/V%...](w:Vérité)
+[Vérité](w:Vérité)
 
 Les mots "philosoph*" apparaissent 102 fois dans cet article !!!
 

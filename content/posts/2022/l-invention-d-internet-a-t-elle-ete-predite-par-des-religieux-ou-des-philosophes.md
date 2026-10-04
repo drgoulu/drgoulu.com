@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 non, par des militaires.
 
-[https://fr.wikipedia.org/wiki/AR...](w:ARPANET)
+[ARPANET](w:ARPANET)

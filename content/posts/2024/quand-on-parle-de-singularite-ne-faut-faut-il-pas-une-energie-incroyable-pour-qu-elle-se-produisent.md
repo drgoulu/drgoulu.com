@@ -53,7 +53,7 @@ Si vous pensiez plutôt à la fameuse "singularité du Big Bang", alors :
 5. Mais si on admet que notre [Univers observable](w:) reçoit autant d'énergie de ses voisins qu'il leur en transmet, alors la partie de la "singularité" du Big Bang qui correspondait à notre univers observable avait à quelque chose près la même énergie que notre univers observable, puisque l'énergie se conserve.
 6. Et ça pourrait bien être ZERO !
 
-[https://fr.wikipedia.org/wiki/Un...](w:Univers_à_énergie_nulle)
+[Univers à énergie nulle](w:Univers_à_énergie_nulle)
 
 Notes de bas de page
 

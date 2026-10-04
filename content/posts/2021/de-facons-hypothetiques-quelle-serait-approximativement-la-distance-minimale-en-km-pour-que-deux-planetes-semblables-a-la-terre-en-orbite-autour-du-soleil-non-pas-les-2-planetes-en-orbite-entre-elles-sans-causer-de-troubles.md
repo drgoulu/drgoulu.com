@@ -16,19 +16,19 @@ La gravitation s'exerçant à distance infinie, il n'existe pas de "distance de 
 
 En fait, un système planétaire n'est pas stable, il est chaotique : il est impossible de prévoir son état au delà d'une limite appelée
 
-[https://fr.wikipedia.org/wiki/Du...](w:Durée_de_Liapounov)
+[Durée de Liapounov](w:Durée_de_Liapounov)
 
 qui vaut environ 50 millions d années pour le système solaire, seulement.
 
 Le problème est que toutes les planètes se perturbent mutuellement, de façon périodique, ce qui peut causer des résonances et augmenter (ou diminuer) l'excentricité des orbites. Voir
 
-[https://fr.wikipedia.org/wiki/Pe...](w:Perturbation_(astronomie))
+[Perturbation (astronomie)](w:Perturbation_\(astronomie\))
 
 Il n'y a donc pas vraiment de réponse à votre question tellement ça dépend des masses des planètes et de la période de leurs orbites.
 
 Cependant la
 
-[https://fr.wikipedia.org/wiki/Lo...](w:Loi_de_Titius-Bode)
+[Loi de Titius-Bode](w:Loi_de_Titius-Bode)
 
 A été proposée il y a longtemps et "colle" assez bien aux données du système solaire, mais elle n'a pas vraiment de justification physique.
 

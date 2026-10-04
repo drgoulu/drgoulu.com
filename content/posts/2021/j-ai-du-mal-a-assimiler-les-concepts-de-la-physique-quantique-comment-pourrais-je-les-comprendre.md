@@ -17,6 +17,6 @@ Soyons clairs : sans cours universitaires sur solides bases mathématiques, c'es
 
 Vous pouvez toujours vous attaquer à l article
 
-[https://fr.wikipedia.org/wiki/M%...](w:Mécanique_quantique)
+[Mécanique quantique](w:Mécanique_quantique)
 
 Et si vous pigez tout sauf les équations c'est déjà très bien.

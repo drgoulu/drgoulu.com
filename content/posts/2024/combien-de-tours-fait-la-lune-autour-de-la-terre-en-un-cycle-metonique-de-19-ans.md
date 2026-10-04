@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Environ 235
 
-[https://fr.wikipedia.org/wiki/Cy...](w:Cycle_métonique)
+[Cycle métonique](w:Cycle_métonique)

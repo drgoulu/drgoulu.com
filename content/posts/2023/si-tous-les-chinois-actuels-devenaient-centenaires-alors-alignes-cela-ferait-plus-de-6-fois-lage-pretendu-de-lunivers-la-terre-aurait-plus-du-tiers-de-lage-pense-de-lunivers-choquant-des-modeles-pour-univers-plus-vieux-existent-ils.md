@@ -18,4 +18,4 @@ Bravo vous venez de découvrir que les êtres vivants se reproduisent selon une 
 
 Effectivement, l'Univers est tout jeune, et la Terre encore plus, mais des milliards d'années ce n'est rien par rapport à la durée de vie de l'Univers. Et la durée de vie cumulée de tous les êtres humains, voire même de tous les êtres vivants sur Terre aura été un battement de cils en comparaison.
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)

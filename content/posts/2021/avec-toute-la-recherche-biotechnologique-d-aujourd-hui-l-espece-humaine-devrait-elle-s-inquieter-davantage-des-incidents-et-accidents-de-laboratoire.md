@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 On peut difficilement s'inquiéter plus qu'en faisant ces expériences dans des
 
-[https://fr.wikipedia.org/wiki/La...](w:Laboratoire_P4)
+[Laboratoire P4](w:Laboratoire_P4)
 
 Les gens qui font ces expériences sont comme vous : ils tiennent à la vie et connaissent leur métier. La variole a été éradiqué, la polyomelite est en train de l'être grâce à leur travail, ils méritent votre confiance.

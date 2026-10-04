@@ -13,13 +13,13 @@ coverImage: ./images/quora.png
 
 Lequel ? Il y en a 4 pour l'instant :
 
-[https://fr.wikipedia.org/wiki/Ad...](w:Ad5-nCoV)
+[Ad5-nCoV](w:Ad5-nCoV)
 
-[https://fr.wikipedia.org/wiki/BB...](w:BBIBP-CorV)
+[BBIBP-CorV](w:BBIBP-CorV)
 
-[https://fr.wikipedia.org/wiki/Co...](w:CoronaVac)
+[CoronaVac](w:CoronaVac)
 
-[https://en.wikipedia.org/wiki/WI...](w:en:WIBP-CorV)
+[WIBP-CorV](w:en:WIBP-CorV)
 
 Pour des réponses précises, posez des questions précises svp .
 

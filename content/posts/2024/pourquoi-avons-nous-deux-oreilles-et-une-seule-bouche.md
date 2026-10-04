@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce que nous sommes des [Bilateria](w:), qui se forment par enroulement autour du tube digestif.
 
-[https://fr.wikipedia.org/wiki/D%...](w:Développement_du_système_digestif)
+[Développement du système digestif](w:Développement_du_système_digestif)

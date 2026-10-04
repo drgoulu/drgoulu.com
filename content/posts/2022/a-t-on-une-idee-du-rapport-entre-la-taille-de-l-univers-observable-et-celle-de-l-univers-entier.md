@@ -26,4 +26,4 @@ coverImage: ./images/quora.png
 >
 > On ne sait donc toujours pas si l'Univers a une courbure positive, négative ou nulle. Cependant on peut affirmer que **le rayon de l'Univers est supérieur à 19 fois le**[**rayon de Hubble**](w:Rayon_de_Hubble)**si la courbure de l'Univers est positive et supérieur à 33 fois le rayon de Hubble si la courbure de l'Univers est négative**
 
-[https://fr.wikipedia.org/wiki/Co...](w:Courbure_spatiale)
+[Courbure spatiale](w:Courbure_spatiale)

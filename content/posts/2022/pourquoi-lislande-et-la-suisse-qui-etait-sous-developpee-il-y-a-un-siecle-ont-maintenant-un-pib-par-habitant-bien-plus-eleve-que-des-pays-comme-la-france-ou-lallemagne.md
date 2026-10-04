@@ -28,7 +28,7 @@ Et tout ceci produit une balance commerciale désespérément positive
 
 > Le [commerce extérieur](w:Commerce_international) est le principal contributeur du produit intérieur brut de la Suisse et représente 36 106 [dollars](w:Dollar_américain) par habitant en [2008](w:) contre 20 738 pour l'[Allemagne](w:), 12 343 pour la [France](w:),
 
-[https://fr.wikipedia.org/wiki/%C...](w:Économie_de_la_Suisse)
+[Économie de la Suisse](w:Économie_de_la_Suisse)
 
 Notes de bas de page
 

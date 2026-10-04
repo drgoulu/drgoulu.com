@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Les jeux d'argent font gagner ceux qui les organisent, pas ceux qui y jouent.
 
-[https://fr.wikipedia.org/wiki/Es...](w:Espérance_mathématique) est négative pour tous les jeux d'argent :
+[Espérance mathématique](w:Espérance_mathématique) est négative pour tous les jeux d'argent :
 
 - -1/37 pour la roulette (-2/38 pour les roulettes avec 00) parce qu'on ne peut pas parier sur le 0 ou le 00

@@ -18,9 +18,9 @@ coverImage: ./images/quora.png
 
 ce pays n'existe pas. Il existe la Libye, et des correcteurs d'orthographe.
 
-[https://fr.wikipedia.org/wiki/R%...](w:Résolution_1970_du_Conseil_de_sécurité_des_Nations_unies)
+[Résolution 1970 du Conseil de sécurité des Nations unies](w:Résolution_1970_du_Conseil_de_sécurité_des_Nations_unies)
 
-[https://fr.wikipedia.org/wiki/R%...](w:Résolution_1973_du_Conseil_de_sécurité_des_Nations_unies)
+[Résolution 1973 du Conseil de sécurité des Nations unies](w:Résolution_1973_du_Conseil_de_sécurité_des_Nations_unies)
 
 petite anecdote :
 

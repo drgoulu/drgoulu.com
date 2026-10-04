@@ -18,4 +18,4 @@ coverImage: ./images/quora.png
 
 > Depuis l'essor de la cladistique et surtout du [cladisme](w:), un nombre croissant de chercheurs considère que le mot *reptile* ne doit plus être utilisé comme un taxon valide car il ne désigne pas un groupe [*monophylétique*](w:Monophylétique) (dont les espèces descendraient toutes d'un [ancêtre commun](w:) « reptilien » exclusif), mais forment un regroupement paraphylétique d'espèces semblables par les [caractères](w:Caractère_phénotypique) de l'ectothermie et des écailles. Le groupe « reptiles » serait ainsi [paraphylétique](w:Paraphylie) parce que les ancêtres communs du groupe ont aussi produit une descendance ne possédant pas de tels caractères : les [oiseaux](w:Oiseau) et les [mammifères](w:Mammifère).
 
-[https://fr.wikipedia.org/wiki/Re...](w:Reptile)
+[Reptile](w:Reptile)

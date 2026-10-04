@@ -33,6 +33,6 @@ Et pour justifier l'aviation civile, je dirais que
 
 Notes de bas de page
 
-[[1]](#cite-trtvh)[https://fr.wikipedia.org/wiki/Im...](w:Impact_climatique_du_transport_aérien)
+[[1]](#cite-trtvh)[Impact climatique du transport aérien](w:Impact_climatique_du_transport_aérien)
 
 [[2]](#cite-JvyyK)[Deforestation and climate change - Wikipedia](w:en:Deforestation_and_climate_change)

@@ -27,4 +27,4 @@ Tout le monde est à peu près d'accord sur ce qui s'est passé après le premie
 
 Vous trouverez des détails et des liens là dessus ici :
 
-[https://fr.wikipedia.org/wiki/Hi...](w:Histoire_et_chronologie_de_l'Univers)
+[Histoire et chronologie de l'Univers](w:Histoire_et_chronologie_de_l'Univers)

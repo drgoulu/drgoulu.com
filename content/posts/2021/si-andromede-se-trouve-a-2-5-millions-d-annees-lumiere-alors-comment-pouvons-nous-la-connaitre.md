@@ -21,7 +21,7 @@ qui est clairement l'équation paramétrique d'un [Cône de révolution](w:) d'a
 
 Le présent, c'est la surface de l'hypercône du passé découpé dans l'espace-temps et dont le sommet est situé précisément entre nos deux yeux. On l'appelle
 
-[https://fr.wikipedia.org/wiki/C%...](w:Cône_de_lumière)
+[Cône de lumière](w:Cône_de_lumière)
 
 et il est différent pour chaque observateur.
 

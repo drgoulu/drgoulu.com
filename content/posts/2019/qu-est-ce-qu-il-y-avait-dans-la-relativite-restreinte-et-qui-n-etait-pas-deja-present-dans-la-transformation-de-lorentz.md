@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quest-ce-quil-y-avait-dans-la-relativit%C3%A9-restreinte-et-qui-n%C3%A9tait-pas-d%C3%A9j%C3%A0-pr%C3%A9sent-dans-la-transformation-de-Lorentz/answer/Dr-Goulu)*
 
-L'article [https://fr.m.wikipedia.org/wiki/...](w:Relativité_restreinte) mentionne:
+L'article [Relativité restreinte](w:Relativité_restreinte) mentionne:
 
 > Des [formules de transformation](w:Transformations_de_Lorentz) pour passer d'un observateur à un autre furent établies par [Hendrik Lorentz](w:) avant 1904 ; il s'agissait d'équations de compatibilité dont la signification n'était pas claire aux yeux de leur auteur
 

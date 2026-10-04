@@ -14,7 +14,7 @@ coverImage: ./images/quora.png
 
 3000K
 
-[https://fr.wikipedia.org/wiki/Re...](w:Recombinaison_(cosmologie))
+[Recombinaison (cosmologie)](w:Recombinaison_\(cosmologie\))
 
 ---
 
@@ -22,4 +22,4 @@ coverImage: ./images/quora.png
 
 3000K, c'est la température où un plasma de protons et électrons devient transparent en passant à l'état gazeux.
 
-[https://fr.wikipedia.org/wiki/Re...](w:Recombinaison_(cosmologie))
+[Recombinaison (cosmologie)](w:Recombinaison_\(cosmologie\))

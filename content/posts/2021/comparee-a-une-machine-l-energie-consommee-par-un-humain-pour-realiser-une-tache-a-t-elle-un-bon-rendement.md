@@ -20,7 +20,7 @@ Le rendement énergétique du corps humain (énergie consommée par rapport au t
 
 et entre 14 et 27% selon
 
-[https://fr.wikipedia.org/wiki/Ef...](w:Efficacité_énergétique_(thermodynamique))
+[Efficacité énergétique (thermodynamique)](w:Efficacité_énergétique_\(thermodynamique\))
 
 C'est comparable à un mauvais moteur à combustion, mais faible par rapport aux moteurs électriques
 

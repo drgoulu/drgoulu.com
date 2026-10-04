@@ -15,7 +15,7 @@ E=mc^2 n'est pas une [puissance](w:Puissance_(physique)) mais une [énergie](w:�
 
 Si vous recherchez une jolie équation donnant les émissions de CO2, je vous recommande l'
 
-[https://fr.wikipedia.org/wiki/Id...](w:Identité_de_Kaya)
+[Identité de Kaya](w:Identité_de_Kaya)
 
 Jean-Marc Jancovici l'explique super bien ici : [Qu’est-ce que l’équation de Kaya ?](https://jancovici.com/changement-climatique/economie/quest-ce-que-lequation-de-kaya/)
 

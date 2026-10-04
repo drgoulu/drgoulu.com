@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Vous vivez dans un monde parallèle ?
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_de_voitures_électriques)
+[Liste de voitures électriques](w:Liste_de_voitures_électriques)
 
 La plus ancienne mentionnée dans cette liste est [Peugeot VLV](w:)de 1941, mais il y a aussi la Renault 5 électrique de 1972, la Fiat Panda électrique de 1990, des Toyota, des Nissan, des Ford et quelques autres avant le Tesla Roadster de 2008.
 

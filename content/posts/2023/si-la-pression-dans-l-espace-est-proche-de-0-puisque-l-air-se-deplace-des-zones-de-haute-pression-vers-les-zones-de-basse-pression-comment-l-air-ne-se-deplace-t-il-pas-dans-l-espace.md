@@ -15,6 +15,6 @@ peut-être parce que l'air a une masse qui fait que la Terre l'attire ?
 
 Mais il y a quand même un
 
-[https://fr.wikipedia.org/wiki/%C...](w:Échappement_atmosphérique)
+[Échappement atmosphérique](w:Échappement_atmosphérique)
 
 qui fait que l'atmosphère terrestre ne retient pas l'hydrogène ni l'hélium.

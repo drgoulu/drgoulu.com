@@ -19,4 +19,4 @@ Si vous êtes un très bon géologue, vous arriverez peut-être à trouver quelq
 
 Ça me semble plus simple de trouver une [Météorite lunaire](w:).
 
-[https://fr.wikipedia.org/wiki/Ro...](w:Roche_lunaire)
+[Roche lunaire](w:Roche_lunaire)

@@ -17,4 +17,4 @@ Par contre le système solaire n'aurait pas pu se former dans le halo, trop loin
 
 On est pile dans la
 
-[https://fr.wikipedia.org/wiki/Zo...](w:Zone_habitable_galactique)
+[Zone habitable galactique](w:Zone_habitable_galactique)

@@ -13,11 +13,11 @@ coverImage: ./images/quora.png
 
 Ça s'appelle une
 
-[https://fr.wikipedia.org/wiki/No...](w:Nomenclature)
+[Nomenclature](w:Nomenclature)
 
 Dans les entreprises actuelles, c est un logiciel PLM de
 
-[https://fr.wikipedia.org/wiki/Ge...](w:Gestion_du_cycle_de_vie_des_produits)
+[Gestion du cycle de vie des produits](w:Gestion_du_cycle_de_vie_des_produits)
 
 couplé à la CAO 3D qui assigné un numéro de pièce unique au moment où la concepteur la crée, en suivant un standard de l'entreprise ou de l'industrie.
 

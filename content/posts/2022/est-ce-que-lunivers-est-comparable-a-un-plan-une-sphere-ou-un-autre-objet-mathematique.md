@@ -15,4 +15,4 @@ Probablement un plan, en 3d, qui gonfle.
 
 Non, un plan en 3d n'est pas un cube car il n'a pas de faces, arêtes, sonnets, limites.
 
-[https://fr.wikipedia.org/wiki/Co...](w:Courbure_spatiale)
+[Courbure spatiale](w:Courbure_spatiale)

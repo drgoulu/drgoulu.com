@@ -16,7 +16,7 @@ Vous avez fait une étude de corrélation qui montre que c'est plus lié à la r
 
 Parce que quand les pays musulmans étaient plus riches que les chrétiens, c'était l'inverse
 
-[https://fr.wikipedia.org/wiki/Sc...](w:Sciences_arabes)
+[Sciences arabes](w:Sciences_arabes)
 
 .
 

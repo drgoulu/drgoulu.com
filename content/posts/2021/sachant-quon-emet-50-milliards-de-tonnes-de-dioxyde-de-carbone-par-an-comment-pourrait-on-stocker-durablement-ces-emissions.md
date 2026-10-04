@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Il y a plusieurs techniques de
 
-[https://fr.wikipedia.org/wiki/S%...](w:Séquestration_du_dioxyde_de_carbone)
+[Séquestration du dioxyde de carbone](w:Séquestration_du_dioxyde_de_carbone)
 
 à l'étude ou à l'essai, mais il ne faut pas trop rêver.
 

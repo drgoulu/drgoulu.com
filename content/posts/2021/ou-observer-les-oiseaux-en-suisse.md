@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 J'habite près de l'
 
-[https://fr.wikipedia.org/wiki/%C...](w:Île_aux_Oiseaux_(Préverenges))
+[Île aux Oiseaux (Préverenges)](w:Île_aux_Oiseaux_\(Préverenges\))
 
 Et il y a toujours des passionnés par là bas.

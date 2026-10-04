@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 La
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Projection_de_Peters)
+[Projection de Peters](w:Projection_de_Peters)
 
 conserve les surfaces.

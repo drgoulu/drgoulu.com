@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Ça dépend comment on mesure, mais il y en a plutôt 3 dont les
 
-[https://en.wikipedia.org/wiki/Ge...](w:en:Genetic_distance)
+[Genetic distance](w:en:Genetic_distance)
 
 sont environ égales entre elles
 

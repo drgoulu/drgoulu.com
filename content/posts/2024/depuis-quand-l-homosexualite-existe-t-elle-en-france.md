@@ -13,8 +13,8 @@ coverImage: ./images/quora.png
 
 570'000 ans environ.
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Préhistoire_de_la_France)
+[Préhistoire de la France](w:Préhistoire_de_la_France)
 
 Plus en comptant les mammouths.
 
-[https://fr.wikipedia.org/wiki/Co...](w:Comportement_homosexuel_chez_les_animaux)
+[Comportement homosexuel chez les animaux](w:Comportement_homosexuel_chez_les_animaux)

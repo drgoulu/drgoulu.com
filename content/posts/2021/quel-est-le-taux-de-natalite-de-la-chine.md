@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 1.16%
 
-[https://fr.wikipedia.org/wiki/D%...](w:Démographie_de_la_Chine)
+[Démographie de la Chine](w:Démographie_de_la_Chine)

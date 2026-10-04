@@ -15,4 +15,4 @@ Pour les sommets, les 16 vecteurs de dimension 4 ayant toutes les combinaisons d
 
 Pour les arêtes, la matrice d'adjascence du graphe
 
-[https://fr.wikipedia.org/wiki/Hy...](w:Hypercube_(graphe))
+[Hypercube (graphe)](w:Hypercube_\(graphe\))

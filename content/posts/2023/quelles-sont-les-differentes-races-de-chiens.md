@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il y en a des centaines
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_races_de_chiens)
+[Liste des races de chiens](w:Liste_des_races_de_chiens)

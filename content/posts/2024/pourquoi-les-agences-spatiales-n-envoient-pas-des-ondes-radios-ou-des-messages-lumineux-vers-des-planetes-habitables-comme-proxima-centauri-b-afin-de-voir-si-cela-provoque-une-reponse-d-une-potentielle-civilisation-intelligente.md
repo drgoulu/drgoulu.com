@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 
 On le fait
 
-[https://en.wikipedia.org/wiki/Li...](w:en:List_of_interstellar_radio_messages)
+[List of interstellar radio messages](w:en:List_of_interstellar_radio_messages)

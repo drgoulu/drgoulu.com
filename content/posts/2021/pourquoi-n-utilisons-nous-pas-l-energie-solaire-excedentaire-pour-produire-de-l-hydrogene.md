@@ -25,7 +25,7 @@ Mais aujourd'hui dans le monde, seul 4% de l'hydrogène est produit par électro
 
 L'hydrogène est le plus bel exemple actuel de "greenwashing".
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Production_d'hydrogène)
+[Production d'hydrogène](w:Production_d'hydrogène)
 
 Notes de bas de page
 

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il n'y a pas de récit original de la naissance de Jésus, donc il n'y a aucun interprétation correcte.
 
-[https://fr.wikipedia.org/wiki/Na...](w:Nativité)
+[Nativité](w:Nativité)

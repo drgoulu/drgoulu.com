@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 le premier avril 1'856'743'972.
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)

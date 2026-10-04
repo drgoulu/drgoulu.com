@@ -22,7 +22,7 @@ L'analyse dira ce qui s'est passé, mais même avec les meilleurs ingénieurs du
 
 Avec les réseaux électriques c'est plus rare, mais ça arrive.
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_de_pannes_de_courant_importantes)
+[Liste de pannes de courant importantes](w:Liste_de_pannes_de_courant_importantes)
 
 Selon cet article, la panne ibérique serait due à
 

@@ -20,7 +20,7 @@ Le protocole est la publication dans une revue scientifique. Toute découverte s
 
 Notez qu'il y a déjà eu plusieurs annonces de découvertes d'anciennes traces de vie sur des
 
-[https://fr.wikipedia.org/wiki/M%...](w:Météorite_martienne)
+[Météorite martienne](w:Météorite_martienne)
 
 par exemple
 

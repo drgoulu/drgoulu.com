@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Le
 
-[https://fr.wikipedia.org/wiki/Dr...](w:Dragon_de_Komodo)
+[Dragon de Komodo](w:Dragon_de_Komodo)
 
 est un gros lézard, il n est pas du tout un descendant des dinosaures.
 

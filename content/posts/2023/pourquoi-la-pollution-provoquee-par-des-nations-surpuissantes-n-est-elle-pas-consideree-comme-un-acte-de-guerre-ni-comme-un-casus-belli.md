@@ -24,7 +24,7 @@ Il n y a qu'un seul moyen de mesurer la pollution (et beaucoup d autres choses) 
 
 Pour le CO2 c est là
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_pays_par_émissions_de_dioxyde_de_carbone_par_habitant)
+[Liste des pays par émissions de dioxyde de carbone par habitant](w:Liste_des_pays_par_émissions_de_dioxyde_de_carbone_par_habitant)
 
 Et ô surprise : un américain pollue moins qu'un Canadien ou un Australien ! Et à peine plus qu'un Luxembourgeois.
 

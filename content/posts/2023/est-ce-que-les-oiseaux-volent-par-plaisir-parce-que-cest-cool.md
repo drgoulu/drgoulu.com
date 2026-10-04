@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Certains oui, notamment le
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chocard_à_bec_jaune)
+[Chocard à bec jaune](w:Chocard_à_bec_jaune)
 
 Dans les Alpes vous en verrez souvent s'élancer, piquer le long d'une falaise, puis utiliser les courants ascendants pour revenir se poser exactement où ils sont partis, sans donner un seul coup d'ailes.
 

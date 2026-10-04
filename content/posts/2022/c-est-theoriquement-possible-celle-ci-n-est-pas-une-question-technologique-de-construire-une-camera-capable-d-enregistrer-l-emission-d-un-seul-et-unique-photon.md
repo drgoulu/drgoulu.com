@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Pas seulement théoriquement, on sait faire des détecteurs de photons uniques, et même les compter un à un s'ils ne sont pas trop rapprochés dans le temps.
 
-[https://en.wikipedia.org/wiki/Ph...](w:en:Photon_counting)
+[Photon counting](w:en:Photon_counting)
 
 (un article qui mériterait d'être traduit en français, s'il y a un volontaire…)
 

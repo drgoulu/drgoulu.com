@@ -15,4 +15,4 @@ Houlala c est très très ancien, parce que les [Primates](w:)se sont distingué
 
 Le plus ancien fossile connu d:ancêtre de primate est [Purgatorius](w:), 63 millions d années et le plus ancien fossile connu qui soit clairement d'un primate date de 55 millions d'années.
 
-[https://en.wikipedia.org/wiki/Ar...](w:en:Archicebus)
+[Archicebus](w:en:Archicebus)

@@ -20,7 +20,7 @@ L'aérodynamique fait ce qu'elle veut, mais les ingénieurs de la NASA ont été
 
 Vous trouverez des infos intéressantes dans
 
-[https://fr.wikipedia.org/wiki/Re...](w:Rentrée_atmosphérique)
+[Rentrée atmosphérique](w:Rentrée_atmosphérique)
 
 Notamment au chapitre "La trajectoire d'un objet portant" où se trouve cette figure :
 

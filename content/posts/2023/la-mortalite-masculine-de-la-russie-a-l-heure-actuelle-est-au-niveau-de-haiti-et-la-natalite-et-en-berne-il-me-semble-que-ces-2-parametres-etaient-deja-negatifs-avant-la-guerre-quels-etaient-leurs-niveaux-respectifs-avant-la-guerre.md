@@ -24,4 +24,4 @@ Voyant ça, les femmes souvent plus éduquées et raffinées préfèrent ne pas 
 
 [https://www.insee.fr/fr/statisti...](https://www.insee.fr/fr/statistiques/2383448)
 
-[https://fr.wikipedia.org/wiki/D%...](w:Démographie_de_la_Russie)
+[Démographie de la Russie](w:Démographie_de_la_Russie)

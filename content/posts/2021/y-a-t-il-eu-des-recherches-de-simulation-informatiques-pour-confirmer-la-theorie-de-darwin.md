@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 oui bien sur ça a même donné toute une gamme d'
 
-[https://fr.wikipedia.org/wiki/Al...](w:Algorithme_évolutionniste)
+[Algorithme évolutionniste](w:Algorithme_évolutionniste)
 
 qui "trouvent" tous seuls la bonne solution à un problème.
 

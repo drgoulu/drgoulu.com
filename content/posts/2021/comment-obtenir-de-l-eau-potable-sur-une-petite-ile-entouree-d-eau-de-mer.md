@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 De nos jours on peut utiliser la desalination par
 
-[https://fr.wikipedia.org/wiki/Os...](w:Osmose_inverse)
+[Osmose inverse](w:Osmose_inverse)
 
 C'est ce qui équipe les bateaux de plaisance, les sportifs qui rament à travers les océans et les résidences de luxe sur îles privées.

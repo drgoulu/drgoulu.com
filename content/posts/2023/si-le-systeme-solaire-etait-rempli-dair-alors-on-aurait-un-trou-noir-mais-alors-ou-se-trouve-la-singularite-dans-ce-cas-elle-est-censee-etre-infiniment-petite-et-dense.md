@@ -42,7 +42,7 @@ on obtient $M=7.5\times 10^{39} kg$ soit **3.775 milliards de masse solaires.**
 
 C'est gros, plus gros que le trou noir central de notre galaxie, mais plus petit que le maintenant célèbre
 
-[https://fr.wikipedia.org/wiki/M87*](w:M87*)
+[M87*](w:M87*)
 
 qui fait 6.5 milliards de masses solaires, et qui a donc une densité plus faible que l'air !
 

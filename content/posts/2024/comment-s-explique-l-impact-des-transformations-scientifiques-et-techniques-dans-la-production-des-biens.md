@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Par l'augmentation colossale de la
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Productivité)
+[Productivité](w:Productivité)

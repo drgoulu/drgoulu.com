@@ -17,4 +17,4 @@ On le savait depuis longtemps mais ça a été vérifié récemment en détectan
 
 (ajout de la référence suite à commentaire ci-dessous :
 
-[https://fr.wikipedia.org/wiki/Fu...](w:Fusion_d'étoiles_à_neutrons_du_17_août_2017)
+[Fusion d'étoiles à neutrons du 17 août 2017](w:Fusion_d'étoiles_à_neutrons_du_17_août_2017)

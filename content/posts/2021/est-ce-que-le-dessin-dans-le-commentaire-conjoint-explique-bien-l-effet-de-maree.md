@@ -22,7 +22,7 @@ Non rien à voir. Avec un peu d'imagination votre dessin représente des [puits 
 
 Un bon dessin, conforme à l'explication déjà donnée dans une autre réponse à une autre de vos questions sur le sujet, est celui figurant dans
 
-[https://fr.wikipedia.org/wiki/Fo...](w:Force_de_marée)
+[Force de marée](w:Force_de_marée)
 
 ![](./images/qimg-017303b439bdffb2c00c79834908d508.png)
 

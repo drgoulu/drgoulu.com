@@ -13,9 +13,9 @@ coverImage: ./images/quora.png
 
 Ca simplifierait beaucoup de problèmes, notamment le
 
-[https://fr.wikipedia.org/wiki/Pa...](w:Paradoxe_de_l'information)
+[Paradoxe de l'information](w:Paradoxe_de_l'information)
 
-[https://fr.wikipedia.org/wiki/Gr...](w:Gravitation_quantique_à_boucles)
+[Gravitation quantique à boucles](w:Gravitation_quantique_à_boucles)
 
 introduction à ce sujet :
 

@@ -17,4 +17,4 @@ Et que si vous voulez que les religions soient représentées politiquement de f
 
 La démocratie ne fait pas bon ménage avec la religion.
 
-[https://fr.wikipedia.org/wiki/R%...](w:République_centrafricaine)
+[République centrafricaine](w:République_centrafricaine)

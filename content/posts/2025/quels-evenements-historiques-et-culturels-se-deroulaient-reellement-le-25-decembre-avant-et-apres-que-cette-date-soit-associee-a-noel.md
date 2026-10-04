@@ -17,6 +17,6 @@ Quand le christianisme est devenu religion d'état, les romains ont converti Sol
 
 Pour le reste de votre question, consultez
 
-[https://fr.wikipedia.org/wiki/25...](w:25_décembre)
+[25 décembre](w:25_décembre)
 
 (Wikipédia a un article très complet sur l'histoire pour chaque jour de l'année.)

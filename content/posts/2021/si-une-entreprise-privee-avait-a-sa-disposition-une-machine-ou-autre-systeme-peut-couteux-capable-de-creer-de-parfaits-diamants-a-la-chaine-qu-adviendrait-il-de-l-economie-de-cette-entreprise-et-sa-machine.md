@@ -14,7 +14,7 @@ coverImage: ./images/quora.png
 
 Les
 
-[https://fr.wikipedia.org/wiki/Di...](w:Diamant_synthétique)
+[Diamant synthétique](w:Diamant_synthétique)
 
 existent depuis longtemps, il y a plusieurs entreprises utilisant plusieurs techniques qui en fabriquent, surtout pour l'industrie et les laboratoires.
 

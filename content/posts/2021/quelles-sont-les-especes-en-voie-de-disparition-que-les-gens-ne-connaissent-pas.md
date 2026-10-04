@@ -28,11 +28,11 @@ Sur la page [Catégorie:Statut UICN En danger critique d'extinction — Wikipéd
 
 vous allez en trouver 2000 de plus qui sont quasi condamnées. Parmi les 200 premières par ordre alphabétique allez peut-être connaître l'
 
-[https://fr.wikipedia.org/wiki/Addax](w:Addax)
+[Addax](w:Addax)
 
 et l'
 
-[https://fr.wikipedia.org/wiki/An...](w:Anguille_d'Europe)
+[Anguille d'Europe](w:Anguille_d'Europe)
 
 et encore quelques autres. Disons que si vous vous intéressez à la nature et que vous connaissez 5% de ces espèces, c'est bien.
 

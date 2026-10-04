@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 C'est pas de la chimie, c'est de la physique.
 
-[https://fr.wikipedia.org/wiki/Di...](w:Dilatation_thermique)
+[Dilatation thermique](w:Dilatation_thermique)

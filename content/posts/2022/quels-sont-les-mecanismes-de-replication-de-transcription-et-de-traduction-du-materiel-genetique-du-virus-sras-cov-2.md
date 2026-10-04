@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 C'est [SARS-CoV-2](w:)(pas SRAS) et l'article
 
-[https://fr.wikipedia.org/wiki/Cy...](w:Cycle_de_réplication_du_SARS-CoV-2)
+[Cycle de réplication du SARS-CoV-2](w:Cycle_de_réplication_du_SARS-CoV-2)
 
 vous dira à peu près tout si vous n'êtes pas un spécialiste mais avez un bon bagage scientifique

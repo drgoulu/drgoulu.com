@@ -15,4 +15,4 @@ coverImage: ./images/quora.png
 
 Afrique
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_de_fossiles_d'hominidés)
+[Liste de fossiles d'hominidés](w:Liste_de_fossiles_d'hominidés)

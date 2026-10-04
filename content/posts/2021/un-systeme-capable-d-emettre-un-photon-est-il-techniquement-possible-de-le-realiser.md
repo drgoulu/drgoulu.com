@@ -15,7 +15,7 @@ Oui, ça existe.
 
 [https://www.pourlascience.fr/sd/...](https://www.pourlascience.fr/sd/physique/manipuler-la-lumiere-photon-par-photon-2575.php)
 
-[https://en.wikipedia.org/wiki/Si...](w:en:Single-photon_source)
+[Single-photon source](w:en:Single-photon_source)
 
 Article très détaillé:
 

@@ -20,7 +20,7 @@ Il peut quitter l'atmosphère, mais si sa vitesse n'est pas suffisante il retomb
 
 La notion de
 
-[https://fr.wikipedia.org/wiki/Vi...](w:Vitesse_de_libération)
+[Vitesse de libération](w:Vitesse_de_libération)
 
 désigne en général à la vitesse $v_0=\sqrt{2GM/R}$qu'il faudrait donner à un projectile depuis la surface d'un astre de rayon R et de masse M pour que la gravité ne suffise pas à le faire retomber. Sur Terre, elle vaut 11.2 km/s (c'est la [deuxième vitesse cosmique](w:Vitesse_cosmique))
 

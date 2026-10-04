@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 L'espace (3D) que nous voyons est une coupe conique de l'espace-temps 4D
 
-[https://fr.wikipedia.org/wiki/C%...](w:Cône_de_lumière)
+[Cône de lumière](w:Cône_de_lumière)
 
 Si un objet nous apparaît* à une distance d, alors il est forcément dans le passé à $t=d/c$, où c est la "vitesse de la lumière". Et vice-versa.
 

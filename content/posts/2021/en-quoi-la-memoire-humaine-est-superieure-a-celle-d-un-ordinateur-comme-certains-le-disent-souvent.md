@@ -28,7 +28,7 @@ En informatique, il faut savoir où est stockée l'information (= son adresse) p
 
 ations super preciseonos, par exemple une fois qu'on a
 
-[https://fr.wikipedia.org/wiki/Ar...](w:Arbre)
+[Arbre](w:Arbre)
 
 On peut retrouver toutes les espèces d'arbres, leur nom en latin, des photos de leurs feuilles etc.
 

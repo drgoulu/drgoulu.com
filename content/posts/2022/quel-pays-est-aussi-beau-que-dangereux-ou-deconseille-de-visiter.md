@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 L'instabilité politique tue extrêmement peu de touristes. Le risque no 1 du voyageur, c'est la route.
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_pays_par_taux_de_mortalité_routière)
+[Liste des pays par taux de mortalité routière](w:Liste_des_pays_par_taux_de_mortalité_routière)
 
 45% des décès de voyageurs sont dus à des accidents. Faites gaffe en traversant la route, surtout dans les pays où on conduit à gauche !
 

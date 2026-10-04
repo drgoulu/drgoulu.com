@@ -19,7 +19,7 @@ coverImage: ./images/quora.png
 
 L'évolution est vraie, c'est ce qui fait que nous avons un [menton](w:Menton_(anatomie))
 
-> Cette caractéristique distinctive peut être due à une [autapomorphie](w:) d’[*Homo sapiens*](w:Homo_sapiens), mais elle apparaît en fait chez le genre [*Homo*](w:Homo), quoique l'[Homme de Néandertal](w:), cousin de l'*Homo sapiens*, en soit dépourvu. Les [Hominoïdes](w:Hominoidea) non humains ont par contre une mâchoire inférieure incurvée à l'intérieur, d'où la présence à cet endroit d'une bordure saillante, appelée [bord simien](https://fr.wikipedia.org/w/index.php?title=Bord_simien&action=edit&redlink=1).
+> Cette caractéristique distinctive peut être due à une [autapomorphie](w:) d’[*Homo sapiens*](w:Homo_sapiens), mais elle apparaît en fait chez le genre [*Homo*](w:Homo), quoique l'[Homme de Néandertal](w:), cousin de l'*Homo sapiens*, en soit dépourvu. Les [Hominoïdes](w:Hominoidea) non humains ont par contre une mâchoire inférieure incurvée à l'intérieur, d'où la présence à cet endroit d'une bordure saillante, appelée [bord simien](w:Bord_simien).
 >
 >
 >

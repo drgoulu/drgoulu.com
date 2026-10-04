@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ben notre cerveau est optimisé pour ça. Ça fait des millions d'années qu'il analyse les images [Stéréoscopiques](w:Stéréoscopie) de nos yeux pour reconstituer l'espace autour de nous, en mesurant la distance des bananes et des lions.
 
-[https://fr.wikipedia.org/wiki/Co...](w:Cortex_visuel)
+[Cortex visuel](w:Cortex_visuel)

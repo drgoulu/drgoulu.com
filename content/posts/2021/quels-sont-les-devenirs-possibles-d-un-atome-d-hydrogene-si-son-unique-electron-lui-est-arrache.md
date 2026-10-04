@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 il redevient ce qu'il était avant la
 
-[https://fr.wikipedia.org/wiki/Re...](w:Recombinaison_(cosmologie))
+[Recombinaison (cosmologie)](w:Recombinaison_\(cosmologie\))
 
 : un proton.

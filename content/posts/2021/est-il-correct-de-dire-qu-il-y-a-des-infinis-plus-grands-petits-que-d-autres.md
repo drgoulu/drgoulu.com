@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui. Cantor l'a démontré en 1891, il serait temps que les philosophes avalent ça.
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorème_de_Cantor)
+[Théorème de Cantor](w:Théorème_de_Cantor)

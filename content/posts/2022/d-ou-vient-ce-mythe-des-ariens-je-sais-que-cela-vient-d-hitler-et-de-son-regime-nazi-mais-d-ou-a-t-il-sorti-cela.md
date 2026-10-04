@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Avec un Y, vous auriez trouvé la réponse avec Google :
 
-[https://fr.wikipedia.org/wiki/Ar...](w:Aryens)
+[Aryens](w:Aryens)

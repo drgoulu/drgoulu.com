@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Le
 
-[https://fr.wikipedia.org/wiki/R%...](w:Réacteur_nucléaire_naturel_d'Oklo)
+[Réacteur nucléaire naturel d'Oklo](w:Réacteur_nucléaire_naturel_d'Oklo)

@@ -26,4 +26,4 @@ On peut faire la même chose avec l'Uranium 235 et le thorium, et toutes les mé
 
 Admirez la précision.
 
-[https://fr.wikipedia.org/wiki/Da...](w:Datation_uranium-plomb)
+[Datation uranium-plomb](w:Datation_uranium-plomb)

@@ -13,12 +13,12 @@ coverImage: ./images/quora.png
 
 C'est interdit par le
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Traité_de_l'espace)
+[Traité de l'espace](w:Traité_de_l'espace)
 
 On peut imaginer que si un pays le violait, il serait dénoncé par les autres, donc la réponse à votre question est : pas beaucoup, et probablement zéro.
 
 En passant, ce traité empêche la réalisation de
 
-[https://fr.wikipedia.org/wiki/Ce...](w:Centrale_solaire_orbitale)
+[Centrale solaire orbitale](w:Centrale_solaire_orbitale)
 
 Car le faisceau de micro-ondes ramenant l énergie sur Terre pourrait être utilisé comme arme…

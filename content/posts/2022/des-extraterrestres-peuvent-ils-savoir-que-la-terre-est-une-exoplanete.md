@@ -22,6 +22,6 @@ Nous (et eux) sommes capables de détecter des planètes qui tournent vite autou
 
 Il faut aussi être à peu près dans le plan de l'[Écliptique](w:) des planètes observées, parce qu'elles doivent transiter devant leur étoile, ou produire une oscillation de sa vitesse radiale suffisante
 
-[https://fr.wikipedia.org/wiki/M%...](w:Méthodes_de_détection_des_exoplanètes)
+[Méthodes de détection des exoplanètes](w:Méthodes_de_détection_des_exoplanètes)
 
 Donc non, la Terre est trop petite et il faudrait trop longtemps (des dizaines d'années) pour la détecter

@@ -20,18 +20,18 @@ coverImage: ./images/quora.png
 
 Scientifiquement, les "canards" regroupent surtout la famille des [Anatidae](w:) qui contient 173 espèces toutes herbivores sauf le genre
 
-[https://fr.wikipedia.org/wiki/Me...](w:Mergus)
+[Mergus](w:Mergus)
 
 qui contient les 4 espèces de **Harles**, qui mangent du poisson.
 
 Et sinon il y a les 22 espèces de "canards"
 
-[https://fr.wikipedia.org/wiki/Me...](w:Mergini)
+[Mergini](w:Mergini)
 
 qui sont piscivores aussi.
 
 Si on appelle "canards" des oiseaux pas trop gros qui nagent, alors on peut aussi citer les
 
-[https://fr.wikipedia.org/wiki/Po...](w:Podicipedidae)
+[Podicipedidae](w:Podicipedidae)
 
 qui sont la famille des 22 espèces de **Grèbes**, toutes piscivores.

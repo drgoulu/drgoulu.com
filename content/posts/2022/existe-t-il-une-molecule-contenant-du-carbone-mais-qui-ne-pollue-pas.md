@@ -15,4 +15,4 @@ coverImage: ./images/quora.png
 
 Pratiquement toutes les molécules qui composent les êtres vivants contiennent du carbone.
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chimie_organique)
+[Chimie organique](w:Chimie_organique)

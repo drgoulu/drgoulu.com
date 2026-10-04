@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 La biologie des petits trucs.
 
-[https://fr.wikipedia.org/wiki/Mi...](w:Microbiologie)
+[Microbiologie](w:Microbiologie)

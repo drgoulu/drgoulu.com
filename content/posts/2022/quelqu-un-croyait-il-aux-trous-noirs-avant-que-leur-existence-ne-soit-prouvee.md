@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Oui, il y a plus de deux siècles déjà. Selon [Historique des trous noirs — Wikipédia](w:Historique_des_trous_noirs) :
 
-> en 1783, le révérend [John Michell](w:), géologue et astronome[https://fr.wikipedia.org/wiki/Astronomie_amateur](w:Astronomie_amateur)amateur anglais, expose dans un article envoyé à la [Royal Society](w:) le concept d'un corps si massif que même la lumière ne pourrait s'en échapper
+> en 1783, le révérend [John Michell](w:), géologue et astronome[Astronomie amateur](w:Astronomie_amateur)amateur anglais, expose dans un article envoyé à la [Royal Society](w:) le concept d'un corps si massif que même la lumière ne pourrait s'en échapper
 
 Treize ans plus tard, en 1796
 

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 La Chine n'a jamais fait mystère que le Dalaï Lama se réincarnera dans une famille chinoise membre du Parti communiste…
 
-[https://en.wikipedia.org/wiki/Su...](w:en:Succession_of_the_14th_Dalai_Lama)
+[Succession of the 14th Dalai Lama](w:en:Succession_of_the_14th_Dalai_Lama)
 
 Mais le Dalaï Lama a déjà prévenu qu'il se réincarnera dans un pays libre.

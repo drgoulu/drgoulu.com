@@ -17,7 +17,7 @@ coverImage: ./images/quora.png
 
 Etc pour tous les êtres vivants jusqu à LUCA, notre
 
-[https://fr.wikipedia.org/wiki/De...](w:Dernier_ancêtre_commun_universel)
+[Dernier ancêtre commun universel](w:Dernier_ancêtre_commun_universel)
 
 Et là, la réponse est
 

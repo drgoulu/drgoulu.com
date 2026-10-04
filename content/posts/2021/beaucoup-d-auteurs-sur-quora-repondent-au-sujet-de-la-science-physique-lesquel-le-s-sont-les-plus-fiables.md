@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 ceux qui citent leurs sources pour que vous puissiez vérifier ce qu'ils radotent et apprendre par vous-même
 
-[https://fr.wikipedia.org/wiki/Ph...](w:Physique)
+[Physique](w:Physique)
 
 ;-)

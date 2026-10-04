@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 La production de biens et de services se mesure par la
 
-[https://fr.wikipedia.org/wiki/Va...](w:Valeur_ajoutée)
+[Valeur ajoutée](w:Valeur_ajoutée)
 
 Donc vous l'obtenez facilement à partir de la TVA qui rapporte autour de 200 miliards à l état français : la valeur ajoutée est donc de 1000 milliards, soit un peu moins que la moitié du PIB.

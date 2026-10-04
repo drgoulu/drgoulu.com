@@ -15,4 +15,4 @@ Oui, mais le rayonnement de Hawking est (théoriquement) formé de photons résu
 
 Ce rayonnement est encore plus froid que le fonds diffus cosmologique pour un trou nor stellaire ou supermassif. Il est totalement indétectable.
 
-[https://fr.wikipedia.org/wiki/%C...](w:Évaporation_des_trous_noirs)
+[Évaporation des trous noirs](w:Évaporation_des_trous_noirs)

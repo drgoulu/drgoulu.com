@@ -19,4 +19,4 @@ Et pourtant extrêmement toxiques. Si on frotte leur peau et qu'on met la main �
 
 J'en ai vu plein au Costa Rica, juste à côté de fourmis "bala"…
 
-[https://fr.wikipedia.org/wiki/Pa...](w:Paraponera)
+[Paraponera](w:Paraponera)

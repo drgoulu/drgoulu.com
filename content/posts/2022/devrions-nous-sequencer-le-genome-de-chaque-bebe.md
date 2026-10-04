@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Devrions-nous-s%C3%A9quencer-le-g%C3%A9nome-de-chaque-b%C3%A9b%C3%A9/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Bi...](w:Bienvenue_à_Gattaca)
+[Bienvenue à Gattaca](w:Bienvenue_à_Gattaca)

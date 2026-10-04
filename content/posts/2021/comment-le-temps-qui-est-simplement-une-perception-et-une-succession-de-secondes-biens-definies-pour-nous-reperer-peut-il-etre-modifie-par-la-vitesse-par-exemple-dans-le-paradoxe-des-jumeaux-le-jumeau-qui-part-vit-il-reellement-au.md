@@ -18,7 +18,7 @@ Donc non, le temps n'est pas "simplement une perception", ou alors disons que c'
 
 En relativité, ce quelque chose est carrément une dimension de l'espace-temps, un truc irrémédiablement lié à l espace par la constante universelle c, communément appelée "vitesse de la lumière".
 
-[https://fr.wikipedia.org/wiki/Es...](w:Espace-temps)
+[Espace-temps](w:Espace-temps)
 
 Les équations du Grand Albert, vérifiées par toutes les observations et expériences faites depuis un siècle montrent que c'est bien comme ça : l'espace et le temps sont "relatifs" à un observateur, déformés par les grosses masses et les hautes vitesses.
 

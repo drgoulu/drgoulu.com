@@ -15,6 +15,6 @@ coverImage: ./images/quora.png
 
 > L '[atmosphère terrestre](w:) ne contient plus assez de [dioxyde de carbone](w:) pour permettre la [photosynthèse C4](w:Fixation_du_carbone_en_C4). La vie multicellulaire s'éteint.
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)
 
 Un accident peut toujours arriver avant.

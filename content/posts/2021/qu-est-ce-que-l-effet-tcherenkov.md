@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 un truc qu'on trouve sur Wikipedia, donc pas la peine de déranger des humains pour ça.
 
-[https://fr.wikipedia.org/wiki/Ef...](w:Effet_Tcherenkov)
+[Effet Tcherenkov](w:Effet_Tcherenkov)

@@ -14,6 +14,6 @@ coverImage: ./images/quora.png
 
 L'Algorithme de Trémaux, voir
 
-[https://fr.wikipedia.org/wiki/R%...](w:Résolution_de_labyrinthe)
+[Résolution de labyrinthe](w:Résolution_de_labyrinthe)
 
 Je ne suis pas absolument certain que ça marche en N dimensions, mais il me semble que oui.

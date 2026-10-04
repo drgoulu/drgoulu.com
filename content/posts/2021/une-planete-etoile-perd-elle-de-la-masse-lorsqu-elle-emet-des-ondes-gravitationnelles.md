@@ -20,7 +20,7 @@ Un objet tout seul n'émet pas d'ondes gravitationnelles. Il en faiut deux qui s
 
 Voir
 
-[https://fr.wikipedia.org/wiki/OJ...](w:OJ_287)
+[OJ 287](w:OJ_287)
 
 Par exemple. Ce genre d objets (Il y en a d'autres) à prouvé l'existence des ondes gravitationnelles avant qu'on ne les détecte directement sur Terre.
 

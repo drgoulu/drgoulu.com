@@ -24,4 +24,4 @@ Mais bon, il y a effectivement un traitement "générique" qui fonctionne contre
 
 Certaines personnes infectées par des staphylocoques résistants aux antibiotiques ont pu éviter des amputations grâce à ça.
 
-[https://fr.wikipedia.org/wiki/An...](w:Antibactérien)
+[Antibactérien](w:Antibactérien)

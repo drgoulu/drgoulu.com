@@ -32,6 +32,6 @@ Et les deux masses n'ont même pas besoin d'être égales… Bravo ! nous avons 
 
 Bon, cela dit certains se demandent quand même s'il n'y aurait pas une différence pour les les accélérations sont très faibles, donc des objets très distants. C'est notamment le cas de la
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorie_MOND)
+[Théorie MOND](w:Théorie_MOND)
 
 mais on cause plutôt de milliers, voire de millions d'années lumière.

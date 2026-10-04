@@ -17,4 +17,4 @@ Avec "votre" base 2, ca ne marche pas. Ce n'est pas un problème d'addition, c'e
 
 ou alors il faut redéfinir l'incrémentation comme dans le
 
-[https://fr.wikipedia.org/wiki/Co...](w:Code_de_Gray)
+[Code de Gray](w:Code_de_Gray)

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 D'après [Marsupial - Wikipedia](w:en:Marsupial) (en anglais), le plus récent ancêtre commun connu des marsupiaux est
 
-[https://en.wikipedia.org/wiki/Si...](w:en:Sinodelphys)
+[Sinodelphys](w:en:Sinodelphys)
 
 125 millions d'années, dont vous pouvez voir un fossile au musée d'Histoire Naturelle à Paris

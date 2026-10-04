@@ -27,4 +27,4 @@ Mon copain y a trouvé une paire de skis !
 
 article intéressant :
 
-[https://fr.wikipedia.org/wiki/%C...](w:Étage_nival)
+[Étage nival](w:Étage_nival)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 A peu près tout le monde sauf vous
 
-[https://fr.wikipedia.org/wiki/Gr...](w:Grand_remplacement)
+[Grand remplacement](w:Grand_remplacement)

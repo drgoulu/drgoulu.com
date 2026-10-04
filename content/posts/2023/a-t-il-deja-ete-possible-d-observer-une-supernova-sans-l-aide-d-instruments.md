@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 oui, en 185, 393, 1006, 1054, 1181, 1572 et 1604
 
-[https://fr.wikipedia.org/wiki/Su...](w:Supernova_historique)
+[Supernova historique](w:Supernova_historique)

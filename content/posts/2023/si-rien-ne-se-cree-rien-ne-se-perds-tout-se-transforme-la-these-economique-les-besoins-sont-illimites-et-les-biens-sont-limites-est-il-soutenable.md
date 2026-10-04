@@ -22,4 +22,4 @@ Les besoins qu'on arrive à satisfaire sont évidemment limités par les ressour
 
 Si vous voulez relier ces deux domaines, je vous conseille plutôt de creuser la
 
-[https://fr.wikipedia.org/wiki/N%...](w:Néguentropie)
+[Néguentropie](w:Néguentropie)

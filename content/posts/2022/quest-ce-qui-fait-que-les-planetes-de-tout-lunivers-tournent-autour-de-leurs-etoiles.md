@@ -15,4 +15,4 @@ Elles se sont formées en même temps.
 
 Les planètes sont des grumeaux de
 
-[https://fr.wikipedia.org/wiki/Di...](w:Disque_protoplanétaire)
+[Disque protoplanétaire](w:Disque_protoplanétaire)

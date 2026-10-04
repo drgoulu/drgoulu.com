@@ -15,7 +15,7 @@ Google n'a jamais publié l'algorithme qu'ils utilisent.
 
 Beaucoup de systèmes de routage utilisent l'
 
-[https://fr.wikipedia.org/wiki/Al...](w:Algorithme_A*)
+[Algorithme A*](w:Algorithme_A*)
 
 qui est une extension de l'[Algorithme de Dijkstra](w:) favorisant la recherche dans une bande entourant la ligne droite entre les deux points.
 

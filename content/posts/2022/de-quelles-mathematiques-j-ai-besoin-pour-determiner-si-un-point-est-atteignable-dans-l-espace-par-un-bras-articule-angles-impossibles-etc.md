@@ -11,8 +11,8 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/De-quelles-math%C3%A9matiques-j-ai-besoin-pour-d%C3%A9terminer-si-un-point-est-atteignable-dans-l-espace-par-un-bras-articul%C3%A9-angles-impossibles-etc/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Ci...](w:Cinématique_inverse)
+[Cinématique inverse](w:Cinématique_inverse)
 
-[https://fr.wikipedia.org/wiki/Ma...](w:Matrice_jacobienne)
+[Matrice jacobienne](w:Matrice_jacobienne)
 
-[https://fr.wikipedia.org/wiki/De...](w:Denavit-Hartenberg)
+[Denavit-Hartenberg](w:Denavit-Hartenberg)

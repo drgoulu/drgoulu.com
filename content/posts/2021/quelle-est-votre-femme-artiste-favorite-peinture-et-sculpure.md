@@ -18,7 +18,7 @@ coverImage: ./images/qimg-a19fa6fb398659da545fa29edf7558b1.jpg
 
 J'ai tout de suite pensé à Camille Claudel, mais à la réflexion, je dirais
 
-[https://fr.wikipedia.org/wiki/Ni...](w:Niki_de_Saint_Phalle)
+[Niki de Saint Phalle](w:Niki_de_Saint_Phalle)
 
 J'adore ses énormes "nanas" colorées, comme cet ange dans la gare de Zurich :
 

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Un truc comme la
 
-[https://fr.wikipedia.org/wiki/Co...](w:Cour_internationale_de_justice)
+[Cour internationale de justice](w:Cour_internationale_de_justice)
 
 ? Ça existe déjà.

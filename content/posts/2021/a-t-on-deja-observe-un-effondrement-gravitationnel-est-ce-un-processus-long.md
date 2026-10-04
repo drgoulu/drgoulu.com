@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 oui , notamment
 
-[https://fr.wikipedia.org/wiki/N6...](w:N6946-BH1)
+[N6946-BH1](w:N6946-BH1)
 
 mais malheureusement pas en direct.
 

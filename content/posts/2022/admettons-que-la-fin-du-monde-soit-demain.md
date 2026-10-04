@@ -15,6 +15,6 @@ Tous les ouvrages en béton non armé comme les barrages , ceux en pierre et peu
 
 Merci pour la question qui m'a permis d'apprendre que le
 
-[https://fr.wikipedia.org/wiki/Pa...](w:Panthéon_(Rome))
+[Panthéon (Rome)](w:Panthéon_\(Rome\))
 
 possède une coupole en béton non armé qui tient pratiquement sans entretien depuis 1900 ans.

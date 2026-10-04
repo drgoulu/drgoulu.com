@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Wikipédia fait ça très bien
 
-[https://fr.wikipedia.org/wiki/Cr...](w:Cristal_temporel)
+[Cristal temporel](w:Cristal_temporel)

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Lisez ça:
 
-[https://fr.wikipedia.org/wiki/As...](w:Astrophysique)
+[Astrophysique](w:Astrophysique)
 
 et suivez les liens qui vous intéressent.

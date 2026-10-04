@@ -24,4 +24,4 @@ La population mondiale augmente actuellement autant par allongement de l'espéra
 
 > La prévision est un art difficile, surtout quand elle concerne l'avenir (Pierre Dac)
 
-[https://fr.wikipedia.org/wiki/Po...](w:Population_mondiale)
+[Population mondiale](w:Population_mondiale)

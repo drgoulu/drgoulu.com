@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 tous les animaux, toutes les plantes, toutes les bactéries et toutes les archées du monde descendent de LUCA, acronyme anglosaxon du
 
-[https://fr.wikipedia.org/wiki/De...](w:Dernier_ancêtre_commun_universel)
+[Dernier ancêtre commun universel](w:Dernier_ancêtre_commun_universel)
 
 > L'existence de LUCA n'est pas prouvée par des fossiles, mais est présumée par l'analyse des lignées génétiques du vivant. Les [caractères](w:Caractère_(biologie)) de LUCA sont déduits de ceux partagés par ses descendants. Les travaux en [biologie de l'évolution](w:) permettent de décrire avec de plus en plus de précision l'histoire des êtres vivants, et notamment comment sont apparues les caractéristiques partagées ou non par les grands [domaines du vivant](w:Classification_phylogénétique).
 >

@@ -20,4 +20,4 @@ coverImage: ./images/quora.png
 7. Botswana
 8. Maroc
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_pays_par_IDH)
+[Liste des pays par IDH](w:Liste_des_pays_par_IDH)

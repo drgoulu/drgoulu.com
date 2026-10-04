@@ -15,4 +15,4 @@ Ils doivent aussi renoncer à rouler seuls dans une petite voiture puisqu'un avi
 
 Ou rêver à l avion nucléaire, qu'on saurait faire depuis les années 1970
 
-[https://fr.wikipedia.org/wiki/Av...](w:Avion_à_propulsion_nucléaire)
+[Avion à propulsion nucléaire](w:Avion_à_propulsion_nucléaire)

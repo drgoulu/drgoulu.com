@@ -17,4 +17,4 @@ Si vous aviez demandé "existe-t-il quelque chose de **moins** puissant qu'un tr
 
 Bon en fait on peut tirer de l'énergie d'un trou noir, mais seulement parce qu'il tourne, et c'est compliqué.
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Processus_de_Penrose)
+[Processus de Penrose](w:Processus_de_Penrose)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 En nous zigouillant tous.
 
-[https://fr.wikipedia.org/wiki/Te...](w:Terminator_2_:_Le_Jugement_dernier)
+[Terminator 2 : Le Jugement dernier](w:Terminator_2_:_Le_Jugement_dernier)

@@ -17,6 +17,6 @@ C'est "soutenable" puisque c'est la puissance que la Terre reçoit en continu du
 
 Et ça n'est que la première étape. La seconde est un milliard de fois plus élevée 3,86 × 10^26 W, la puissance du Soleil collectée sur une sphère de Dyson par exemple.
 
-[https://fr.wikipedia.org/wiki/%C...](w:Échelle_de_Kardachev)
+[Échelle de Kardachev](w:Échelle_de_Kardachev)
 
 Je ne dis pas que c est ce que je souhaite, je réponds juste à la question ;-)

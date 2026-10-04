@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Elle n'arriverait pas à nous frôler à 15 km, elle se disloquerait bien avant, vers 10'000 km (et la Terre probablement aussi) sous l'effet de la marée.
 
-[https://fr.wikipedia.org/wiki/Li...](w:Limite_de_Roche)
+[Limite de Roche](w:Limite_de_Roche)
 
 On meurt tous™

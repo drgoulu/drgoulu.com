@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-sait-on-que-lunivers-s%C3%A9tend-constamment/answer/Dr-Goulu)*
 
-Historiquement par le [Décalage vers le rouge](w:),[https://fr.wikipedia.org/wiki/Décalage_vers_le_rouge?wprov=sfla1](w:Décalage_vers_le_rouge)mesuré dès les années 1920 et compris par Hubble en 1929 : les galaxies s'éloignent (statistiquement) les unes des autres d'autant plus vite qu'elles sont éloignées.
+Historiquement par le [Décalage vers le rouge](w:),[Décalage vers le rouge](w:Décalage_vers_le_rouge)mesuré dès les années 1920 et compris par Hubble en 1929 : les galaxies s'éloignent (statistiquement) les unes des autres d'autant plus vite qu'elles sont éloignées.
 
 A l'extrême, des objets très lointains devraient d'éloigner à la vitesse de la lumière…et c'est ce qu'on observe ! Le [Fond diffus cosmologique](w:)découvert en 1964 et mesuré avec une grande précision ce siècle correspond à la [Surface de dernière diffusion](w:), le moment où l'univers a été suffisamment dilaté et refroidi pour devenir transparent.
 

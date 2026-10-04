@@ -15,4 +15,4 @@ Oui. Ils sont notre seule source fiable d'informations. (les informations ne son
 
 La science (=connaissance) moderne est totalement basée sur l'
 
-[https://fr.wikipedia.org/wiki/Em...](w:Empirisme)
+[Empirisme](w:Empirisme)

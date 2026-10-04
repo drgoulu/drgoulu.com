@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 voir :
 
-[https://fr.wikipedia.org/wiki/Ce...](w:Cellule_photovoltaïque_à_pérovskite)
+[Cellule photovoltaïque à pérovskite](w:Cellule_photovoltaïque_à_pérovskite)
 
 ça ressemble beaucoup l'histoire des [Cellule solaire à pigment photosensible](w:) dont je cause dans
 

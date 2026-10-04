@@ -15,9 +15,9 @@ Impossible avec les jeux de hasard pur comme la roulette ils sont "étudiés pou
 
 Possible dans certains jeux en utilisant des techniques de jeu sophistiquées que les casino ne connaissent pas encore. Exemple :
 
-[https://fr.wikipedia.org/wiki/MI...](w:MIT_Blackjack_Team)
+[MIT Blackjack Team](w:MIT_Blackjack_Team)
 
-[https://en.wikipedia.org/wiki/Jo...](w:en:Jon_Hirschtick)
+[Jon Hirschtick](w:en:Jon_Hirschtick)
 
 A financé ses études au MIT et lancé la société SolidWorks comme ça.
 

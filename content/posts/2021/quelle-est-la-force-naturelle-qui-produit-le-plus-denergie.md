@@ -15,4 +15,4 @@ La [Fusion nucléaire du Soleil](w:Fusion_nucléaire)
 
 La minuscule fraction (un demi milliardième) qui arrive sur Terre représente 173 Petawatts ($10^{15}$ Watt), soit un peu moins de 10'000 fois notre consommation totale d'énergie primaire (charbon, pétrole, gaz, nucléaire, biomasse et bricoles renouvelables comprises)
 
-[https://fr.wikipedia.org/wiki/Re...](w:Ressources_et_consommation_énergétiques_mondiales)
+[Ressources et consommation énergétiques mondiales](w:Ressources_et_consommation_énergétiques_mondiales)

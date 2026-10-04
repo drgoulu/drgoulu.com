@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Toutes les
 
-[https://fr.wikipedia.org/wiki/Lo...](w:Loi_de_conservation)
+[Loi de conservation](w:Loi_de_conservation)
 
 s'appliquent, donc tous les invariants correspondant à des symétries selon le [Théorème de Noether](w:Théorème_de_Noether_(physique)), soit :
 

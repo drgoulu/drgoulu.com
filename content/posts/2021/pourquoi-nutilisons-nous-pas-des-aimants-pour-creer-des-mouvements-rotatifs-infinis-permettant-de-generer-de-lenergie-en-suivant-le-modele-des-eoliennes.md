@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Un point qui a été omis dans les autres réponses est que les éoliennes ralentissent le vent qui les traverse. Elles extraient au maximum 60% de l'énergie cinétique de l'air, ce qui le ralentit d'un facteur 3
 
-[https://fr.wikipedia.org/wiki/Li...](w:Limite_de_Betz)
+[Limite de Betz](w:Limite_de_Betz)

@@ -14,7 +14,7 @@ coverImage: ./images/quora.png
 
 Regardez le tableau de
 
-[https://fr.wikipedia.org/wiki/De...](w:Densité_massique_d'énergie)
+[Densité massique d'énergie](w:Densité_massique_d'énergie)
 
 Un kg de pétrole fournit 13 kWh environ.
 

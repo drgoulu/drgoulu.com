@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Que la
 
-[https://fr.wikipedia.org/wiki/G%...](w:Géo-ingénierie)
+[Géo-ingénierie](w:Géo-ingénierie)
 
 est très risquée, qu'on ne l'utilisera qu'en dernier recours.

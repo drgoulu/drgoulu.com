@@ -26,4 +26,4 @@ On ne peut pas faire grand chose contre ça, mais on peut stopper le réchauffem
 
 Remarquez que le méthane et les autres gaz à effet de serre d'origine anthropique sont pris en compte dans la notion d'[Équivalent CO2](w:).
 
-[https://fr.wikipedia.org/wiki/Ga...](w:Gaz_à_effet_de_serre)
+[Gaz à effet de serre](w:Gaz_à_effet_de_serre)

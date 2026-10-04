@@ -28,6 +28,6 @@ Si un astre n'a pas d'atmosphère, il ne peut pas retenir son eau liquide ou vap
 
 Sur la lune il reste un peu de glace au fond de certains cratères polaires, peu ou pas éclairés par le soleil
 
-[https://fr.wikipedia.org/wiki/Ea...](w:Eau_sur_la_Lune)
+[Eau sur la Lune](w:Eau_sur_la_Lune)
 
 [https://planet-terre.ens-lyon.fr/](https://planet-terre.ens-lyon.fr/)

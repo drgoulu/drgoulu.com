@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Le Big Bang n est ni l'origine de tout ni une explosion
 
-[https://fr.wikipedia.org/wiki/Bi...](w:Big_Bang)
+[Big Bang](w:Big_Bang)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il n'y a pas eu de création et il n'y a eu plus d'oxygène qu'aujourd'hui qu'au Carbonifère, de – 359 à – 299 millions d'années, donc beaucoup plus près d'aujourd'hui que de la formation de la planète (plus de 4 milliards d'années), de l'apparition de la vie (plus de 3 miliards) ou de la pollution massive de l'atmosphère par l'oxygène **(**[Grande Oxydation](w:), 2 milliards d'années)
 
-[https://fr.wikipedia.org/wiki/Hi...](w:Histoire_géologique_de_l'oxygène)
+[Histoire géologique de l'oxygène](w:Histoire_géologique_de_l'oxygène)

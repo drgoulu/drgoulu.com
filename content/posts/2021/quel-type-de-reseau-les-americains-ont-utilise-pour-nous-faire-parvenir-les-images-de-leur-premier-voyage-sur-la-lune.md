@@ -13,12 +13,12 @@ coverImage: ./images/quora.png
 
 Ça s'appelait
 
-[https://en.wikipedia.org/wiki/Un...](w:en:Unified_S-band)
+[Unified S-band](w:en:Unified_S-band)
 
 Et ça combinait tous les signaux de télémétrie, d'audio et de TV.
 
 Pour la TV, la bande passante à disposition n'était que de 500kHz alors il a fallu construire une
 
-[https://en.wikipedia.org/wiki/Ap...](w:en:Apollo_TV_camera)
+[Apollo TV camera](w:en:Apollo_TV_camera)
 
 Qui ne balayait que 320 lignes à 10 images par seconde. Le signal était converti en NTSC sur Terre pour transmission en direct.

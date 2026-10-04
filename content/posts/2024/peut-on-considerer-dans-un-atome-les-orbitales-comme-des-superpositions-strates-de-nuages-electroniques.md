@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ça s'appelle des [couches électroniques](w:Couche_électronique), et elles ne sont pas vraiment superposées, elles ont des formes de lobes qui s'interpénètrent : un électron d'une couche externe a une probabilité non nulle de se retrouver dans une couche inférieure
 
-[https://fr.wikipedia.org/wiki/Or...](w:Orbitale_atomique)
+[Orbitale atomique](w:Orbitale_atomique)

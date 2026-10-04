@@ -37,7 +37,7 @@ On a même trouvé une tête complète d'[Oculudentavis](w:) fossilisée dans l'
 
 La science moderne est pleine de ressources, et elles notamment capable de retrouver des
 
-[https://fr.wikipedia.org/wiki/M%...](w:Mélanosome)
+[Mélanosome](w:Mélanosome)
 
 fossilisés comme expliqué dans cet article :
 

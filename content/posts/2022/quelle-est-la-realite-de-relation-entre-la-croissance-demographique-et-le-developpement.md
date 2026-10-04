@@ -20,7 +20,7 @@ C'est pas simple, il faut le voir comme un processus.
 
 Pour compléter la réponse de [Fayçal Laib](https://fr.quora.com/profile/Fay%C3%A7al-Laib) , je vous conseille l'article
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Transition_démographique)
+[Transition démographique](w:Transition_démographique)
 
 En gros les phases sont les suivantes:
 

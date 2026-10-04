@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Parce qu'ils survivent. Voir
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Transition_démographique)
+[Transition démographique](w:Transition_démographique)
 
 Si vous voulez parler du phénomène récent de [Dénatalité](w:) correspondant à un taux de fécondité inférieur au taux de remplacement (2.1 enfant par femme), c'est plus complexe et variable d'un pays à l'autre. Facteurs sociaux, économiques, environnementaux…

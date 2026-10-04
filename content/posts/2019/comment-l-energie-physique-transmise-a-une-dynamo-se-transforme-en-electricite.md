@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Par [Induction électromagnétique](w:).
 
-Une [https://fr.wikipedia.org/wiki/Dy...](w:Dynamo) fait tourner une bobine entre des(electro) aimants, ce qui induit un courant dans la bobine
+Une [Dynamo](w:Dynamo) fait tourner une bobine entre des(electro) aimants, ce qui induit un courant dans la bobine

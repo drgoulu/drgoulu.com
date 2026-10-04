@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Chacun de vos gènes est composé de deux
 
-[https://fr.wikipedia.org/wiki/Al...](w:Allèle)
+[Allèle](w:Allèle)
 
 un reçu de votre mère , l autre de votre père.

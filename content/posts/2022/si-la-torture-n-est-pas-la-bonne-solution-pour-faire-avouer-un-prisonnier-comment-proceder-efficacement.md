@@ -17,4 +17,4 @@ Les aveux soulagent la conscience du coupable, ils ne doivent en aucun cas être
 
 Un nombre incalculable d'erreurs judiciaires sont dues à de faux aveux.
 
-[https://fr.wikipedia.org/wiki/Fa...](w:Faux_aveux)
+[Faux aveux](w:Faux_aveux)

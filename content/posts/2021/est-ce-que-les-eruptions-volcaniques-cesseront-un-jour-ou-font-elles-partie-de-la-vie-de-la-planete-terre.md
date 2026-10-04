@@ -17,4 +17,4 @@ La tectonique des plaques devrait cesser dans 1.45 milliards d'années environ.
 
 Ca correspond environ à la fin de la vie sur Terre selon
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)

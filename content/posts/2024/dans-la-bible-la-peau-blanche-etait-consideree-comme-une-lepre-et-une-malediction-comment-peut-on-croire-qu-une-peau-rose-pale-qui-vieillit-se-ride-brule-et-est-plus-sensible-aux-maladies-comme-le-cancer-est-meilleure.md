@@ -16,4 +16,4 @@ Elle est meilleure sous les hautes latitudes, car la mélanine des peaux sombres
 
 La couleur de la peau humaine est un excellent exemple de l'évolution, un truc que la bible et les racistes ignorent totalement.
 
-[https://fr.wikipedia.org/wiki/Co...](w:Couleur_de_la_peau_humaine)
+[Couleur de la peau humaine](w:Couleur_de_la_peau_humaine)

@@ -17,6 +17,6 @@ La religion n'est pas un critère d'adhésion, il y a beaucoup d'autres raisons 
 
 La principale est qu'elle ne fait aucun effort pour devenir membre.
 
-[https://fr.wikipedia.org/wiki/Re...](w:Relations_entre_la_Turquie_et_l'Union_européenne)
+[Relations entre la Turquie et l'Union européenne](w:Relations_entre_la_Turquie_et_l'Union_européenne)
 
 La Suisse non plus, remarquez …

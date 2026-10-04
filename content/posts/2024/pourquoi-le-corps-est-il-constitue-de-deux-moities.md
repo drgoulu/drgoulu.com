@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Parce que comme plein d'autres animaux, nous sommes des descendants des
 
-[https://fr.wikipedia.org/wiki/Bi...](w:Bilateria)
+[Bilateria](w:Bilateria)
 
 Il y a plusieurs hypothèses sur l'origine des premiers bilatériens il y a environ 555 millions d'années, mais dans tous les cas l'essentiel est que cette évolution a été efficace puisque nous sommes là.

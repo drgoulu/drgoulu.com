@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 L'
 
-[https://fr.wikipedia.org/wiki/%C...](w:Émission_de_proton)
+[Émission de proton](w:Émission_de_proton)
 
 est un mode de désintégration radioactive assez rare. L'atome remonte d'une case dans la liste des éléments
 

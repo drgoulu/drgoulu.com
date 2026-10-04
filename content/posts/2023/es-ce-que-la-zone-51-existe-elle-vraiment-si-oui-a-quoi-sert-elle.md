@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Es-ce-que-la-zone-51-existe-elle-vraiment-si-oui-%C3%80-quoi-sert-elle/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Zo...](w:Zone_51)
+[Zone 51](w:Zone_51)

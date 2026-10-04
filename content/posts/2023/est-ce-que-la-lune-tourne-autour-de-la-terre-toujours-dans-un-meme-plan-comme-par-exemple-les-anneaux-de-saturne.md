@@ -19,4 +19,4 @@ coverImage: ./images/quora.png
 
 Jupiter, Uranus et Neptune ont aussi des anneaux. Ceux de Saturne sont particulièrement visibles car ils sont formés de glace très réfléchissante
 
-[https://fr.wikipedia.org/wiki/An...](w:Anneaux_de_Saturne)
+[Anneaux de Saturne](w:Anneaux_de_Saturne)

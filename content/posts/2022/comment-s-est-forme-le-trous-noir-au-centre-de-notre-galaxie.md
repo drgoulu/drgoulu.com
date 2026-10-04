@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il se s'est probablement formé à partir d'un [Trou noir primordial](w:)du Big Bang, puis par accrétion et fusion de galaxies pour les raisons expliquées au paragraphe "formation" de
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Trou_noir_supermassif)
+[Trou noir supermassif](w:Trou_noir_supermassif)

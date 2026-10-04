@@ -15,4 +15,4 @@ Un champ vectoriel où localement, un vecteur tourne.
 
 Vous pouvez simplement en créer un en faisant tourner un aimant, ou en alimentant 3 électro-aimants fixés avec des courants sinusoïdaux déphasés comme monsieur Tesla l'a montré il y a 150 ans
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Champ_magnétique_tournant)
+[Champ magnétique tournant](w:Champ_magnétique_tournant)

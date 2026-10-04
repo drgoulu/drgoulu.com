@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quelle-th%C3%A9orie-vous-a-le-plus-boulevers%C3%A9e/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Un...](w:Univers_à_énergie_nulle)
+[Univers à énergie nulle](w:Univers_à_énergie_nulle)

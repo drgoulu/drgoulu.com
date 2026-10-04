@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Admettons-qu-une-arme-%C3%A0-feu-est-assez-de-puissance-pour-que-la-balle-puisse-faire-quelques-centaines-de-kilom%C3%A8tres-Si-on-tire-%C3%A0-l-horizontale-la-balle-suivra-t-elle-la-courbure-de-la/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Ca...](w:Canon_de_Newton)
+[Canon de Newton](w:Canon_de_Newton)

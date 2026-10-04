@@ -20,7 +20,7 @@ Vous voulez sûrement dire dans le monde bassement matériel de la physique, par
 
 C'est une question intéressante. J'ai pensé à la
 
-[https://fr.wikipedia.org/wiki/Lo...](w:Loi_de_Stefan-Boltzmann)
+[Loi de Stefan-Boltzmann](w:Loi_de_Stefan-Boltzmann)
 
 Qui est en puissance 4 de la température.
 
@@ -30,17 +30,17 @@ Après j'ai cherché et trouvé
 
 Qui mentionne une puissance 6 dans l'
 
-[https://fr.wikipedia.org/wiki/Ex...](w:Expérience_des_deux_ballons)
+[Expérience des deux ballons](w:Expérience_des_deux_ballons)
 
 Et aussi le
 
-[https://fr.wikipedia.org/wiki/Po...](w:Potentiel_de_Lennard-Jones)
+[Potentiel de Lennard-Jones](w:Potentiel_de_Lennard-Jones)
 
 Ou l'on trouve des puissances 6 et 12
 
 Et enfin le
 
-[https://en.wikipedia.org/wiki/Is...](w:en:Ising_critical_exponents)
+[Ising critical exponents](w:en:Ising_critical_exponents)
 
 Fait apparaître une puissance $\delta=15$ dans le cas d=2
 

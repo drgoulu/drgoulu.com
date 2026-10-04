@@ -24,4 +24,4 @@ Le premier vol d’un hélicoptère avec un être humain à bord date du 24 aoû
 
 Ce n'est ni une "amélioration" de l'avion ni une invention fondamentalement différente. Le but était simplement de voler.
 
-[https://fr.wikipedia.org/wiki/Hi...](w:Histoire_de_l'hélicoptère_et_autres_voilures_tournantes)
+[Histoire de l'hélicoptère et autres voilures tournantes](w:Histoire_de_l'hélicoptère_et_autres_voilures_tournantes)

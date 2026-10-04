@@ -19,4 +19,4 @@ En fait l'Ukraine est devenue indépendante de l'URSS en 1991, et comme pour tou
 
 Il n'y a que quelques pays non reconnus ou reconnus partiellement par les autres pays, et l'Ukraine n'est pas du nombre. Elle est même reconnue par la Russie …
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_États_non_reconnus_internationalement)
+[Liste des États non reconnus internationalement](w:Liste_des_États_non_reconnus_internationalement)

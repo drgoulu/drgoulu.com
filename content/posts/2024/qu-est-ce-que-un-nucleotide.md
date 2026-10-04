@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Un truc qu'on trouve avec Google, donc aucune raison de demander ici.
 
-[https://fr.wikipedia.org/wiki/Nu...](w:Nucléotide)
+[Nucléotide](w:Nucléotide)

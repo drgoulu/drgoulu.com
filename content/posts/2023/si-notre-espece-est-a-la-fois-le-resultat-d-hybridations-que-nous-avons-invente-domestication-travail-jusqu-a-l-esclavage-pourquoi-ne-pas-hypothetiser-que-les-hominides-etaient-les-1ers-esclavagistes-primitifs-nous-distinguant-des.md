@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 
 Non.
 
-[https://fr.wikipedia.org/wiki/Fo...](w:Fourmi_esclavagiste)
+[Fourmi esclavagiste](w:Fourmi_esclavagiste)

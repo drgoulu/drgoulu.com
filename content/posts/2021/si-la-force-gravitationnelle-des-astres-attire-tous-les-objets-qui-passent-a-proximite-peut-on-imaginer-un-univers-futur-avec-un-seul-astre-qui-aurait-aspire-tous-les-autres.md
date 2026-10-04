@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 C'est l'idée du
 
-[https://fr.wikipedia.org/wiki/Bi...](w:Big_Crunch)
+[Big Crunch](w:Big_Crunch)
 
 Mais notre Univers est en expansion trop rapide pour que ça arrive.

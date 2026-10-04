@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 le
 
-[https://fr.wikipedia.org/wiki/Co...](w:Condensat_de_Bose-Einstein)
+[Condensat de Bose-Einstein](w:Condensat_de_Bose-Einstein)
 
 il apparaît avec de la matière ultra froide, plus froide (2.17K) que le rayonnement cosmologique (2.728K) donc
 

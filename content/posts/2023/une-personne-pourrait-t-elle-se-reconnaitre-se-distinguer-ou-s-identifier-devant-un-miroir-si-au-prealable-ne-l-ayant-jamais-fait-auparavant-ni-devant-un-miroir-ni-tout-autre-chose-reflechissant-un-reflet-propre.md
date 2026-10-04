@@ -14,6 +14,6 @@ coverImage: ./images/quora.png
 
 D'autres animaux y arrivent, alors pourquoi pas nous ?
 
-[https://fr.wikipedia.org/wiki/Te...](w:Test_du_miroir)
+[Test du miroir](w:Test_du_miroir)
 
 En fait les bébés humains n'y arrivent que dès 18 mois environ.

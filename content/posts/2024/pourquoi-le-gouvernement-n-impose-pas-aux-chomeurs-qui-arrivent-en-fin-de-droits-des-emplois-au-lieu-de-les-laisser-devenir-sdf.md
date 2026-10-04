@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Le travail obligatoire est interdit par une convention internationale ratifiée par la France.
 
-[https://fr.wikipedia.org/wiki/Co...](w:Convention_C105_sur_l'abolition_du_travail_forcé)
+[Convention C105 sur l'abolition du travail forcé](w:Convention_C105_sur_l'abolition_du_travail_forcé)

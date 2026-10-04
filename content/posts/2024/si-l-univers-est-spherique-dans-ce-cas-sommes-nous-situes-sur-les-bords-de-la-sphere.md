@@ -15,4 +15,4 @@ Non.
 
 L'univers n'est pas sphérique et n'a pas de bords.
 
-[https://fr.wikipedia.org/wiki/Fo...](w:Forme_de_l'Univers)
+[Forme de l'Univers](w:Forme_de_l'Univers)

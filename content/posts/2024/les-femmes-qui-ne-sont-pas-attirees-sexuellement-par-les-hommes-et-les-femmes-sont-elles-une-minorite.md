@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 C'est visiblement une obsession pour vous [Andy Delort](https://fr.quora.com/profile/Andy-Delort-4) alors lisez
 
-[https://fr.wikipedia.org/wiki/St...](w:Statistiques_démographiques_sur_l'orientation_sexuelle)
+[Statistiques démographiques sur l'orientation sexuelle](w:Statistiques_démographiques_sur_l'orientation_sexuelle)
 
 Et la référence
 

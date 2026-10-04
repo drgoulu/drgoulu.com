@@ -17,4 +17,4 @@ Ensuite il y a plusieurs explications, on ne sait pas vraiment laquelle est la b
 
 L'effet Mpemba a pu être prédit et vérifié pour certaines solutions coloīdales, donc j'aurais tendance à soutenir les hypothèses impliquant les impuretés.
 
-[https://fr.wikipedia.org/wiki/Ef...](w:Effet_Mpemba).
+[Effet Mpemba](w:Effet_Mpemba).

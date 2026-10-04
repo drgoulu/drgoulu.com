@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Les
 
-[https://fr.wikipedia.org/wiki/R%...](w:Réseau_de_Feistel)
+[Réseau de Feistel](w:Réseau_de_Feistel)
 
 étaient surs, aujourd'hui il faut faire attention à pas mal de choses pour qu'ils le soient.

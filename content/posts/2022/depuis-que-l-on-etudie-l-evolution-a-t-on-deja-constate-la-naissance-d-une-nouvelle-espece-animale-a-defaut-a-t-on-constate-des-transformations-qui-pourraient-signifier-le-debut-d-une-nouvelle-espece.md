@@ -14,13 +14,13 @@ coverImage: ./images/quora.png
 
 Oui.
 
-[https://fr.wikipedia.org/wiki/Mo...](w:Moustique_du_métro_de_Londres)
+[Moustique du métro de Londres](w:Moustique_du_métro_de_Londres)
 
-[https://fr.wikipedia.org/wiki/Ph...](w:Phalène_du_bouleau)
+[Phalène du bouleau](w:Phalène_du_bouleau)
 
 Les
 
-[https://fr.wikipedia.org/wiki/Hy...](w:Hybride)
+[Hybride](w:Hybride)
 
 comme le mulet montrent que l'âne et le cheval sont en train de diverger, comme le lien et le tigre par exemple aussi
 
@@ -32,7 +32,7 @@ Mais l'évolution est surtout visible chez les organismes unicellulaires, qui se
 
 Un exemple spectaculaire a été découvert à Tchernobyl :
 
-[https://fr.wikipedia.org/wiki/My...](w:Mycète_radiotrophe)
+[Mycète radiotrophe](w:Mycète_radiotrophe)
 
 Mais mon exemple préféré reste l'adaptation des bactéries aux antibiotiques, en 3 jours environ:
 

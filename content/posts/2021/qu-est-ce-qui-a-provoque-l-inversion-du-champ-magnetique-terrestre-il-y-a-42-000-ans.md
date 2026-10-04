@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 La derniere
 
-[https://fr.wikipedia.org/wiki/In...](w:Inversion_du_champ_magnétique_terrestre)
+[Inversion du champ magnétique terrestre](w:Inversion_du_champ_magnétique_terrestre)
 
 date de 780'000 ans, pas 42'000.
 

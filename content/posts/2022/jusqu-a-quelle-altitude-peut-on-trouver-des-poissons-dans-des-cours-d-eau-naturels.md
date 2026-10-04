@@ -20,6 +20,6 @@ Question intéressante :-)
 
 D'après [Which species of fish lives at the highest altitude? - Kids Portal For Parents](https://www.4to40.com/kids-questions-answers/social-science-questions-answers/which-species-of-fish-lives-at-the-highest-altitude/) c'est 5200m d'altitude dans l'Himalaya. On y trouve
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Triplophysa_stolickai)
+[Triplophysa stolickai](w:Triplophysa_stolickai)
 
 (j'ai un petit doute car la photo de la "tibetan loach" de l'article ne correspond pas à celle de la [Tibetan stone loach - Wikipedia](w:en:Tibetan_stone_loach) dont [Triplophysa stolickai](w:)est à la fois le nom officiel et la page WP version française)

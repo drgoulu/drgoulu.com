@@ -15,6 +15,6 @@ Quand vous affirmez "l'immunité est liée aux sentiments affectifs", on suppose
 
 [https://www.ncbi.nlm.nih.gov/pmc...](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6674934/)
 
-[https://en.wikipedia.org/wiki/Bo...](w:en:Body_odour_and_sexual_attraction)
+[Body odour and sexual attraction](w:en:Body_odour_and_sexual_attraction)
 
 Une raison de plus de vous faire vacciner ;-)

@@ -22,6 +22,6 @@ Mais il y a d'autres [Modèles cycliques de l'Univers](w:Modèle_cyclique) comme
 
 Sinon, si l'[Univers a une énergie nulle](w:Univers_à_énergie_nulle), yaka attendre une nouvelle fluctuation quantique après la [Mort thermique de l'Univers](w:)
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)
 
 Mais dans tous les cas ça ne sera pas "pour nous", on parle de cycles de milliards de milliards (de milliards…) d'années

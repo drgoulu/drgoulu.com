@@ -17,4 +17,4 @@ Il y a eu quelques cas où des gens en train de mourir de faim ont mangé ceux q
 
 Sinon il y a [Armin Meiwes](w:). Là j'ai pas d'explication…
 
-[https://fr.wikipedia.org/wiki/An...](w:Anthropophagie)
+[Anthropophagie](w:Anthropophagie)

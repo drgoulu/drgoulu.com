@@ -14,7 +14,7 @@ coverImage: ./images/quora.png
 
 C'est en cours
 
-[https://fr.wikipedia.org/wiki/Ha...](w:Habitable_Worlds_Observatory)
+[Habitable Worlds Observatory](w:Habitable_Worlds_Observatory)
 
 Ça coûte BEAUCOUP moins cher que 6 mois de salaire. 11 milliards de dollars, ça fait à peine plus d'un euro par humain. 30 par américain.
 

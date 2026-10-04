@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 On monte les
 
-[https://fr.wikipedia.org/wiki/Ba...](w:Barre_de_contrôle_(nucléaire))
+[Barre de contrôle (nucléaire)](w:Barre_de_contrôle_\(nucléaire\))

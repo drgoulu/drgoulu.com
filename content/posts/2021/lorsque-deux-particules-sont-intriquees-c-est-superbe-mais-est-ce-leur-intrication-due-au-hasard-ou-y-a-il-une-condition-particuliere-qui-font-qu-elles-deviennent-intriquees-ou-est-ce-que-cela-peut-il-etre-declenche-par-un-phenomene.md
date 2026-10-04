@@ -16,6 +16,6 @@ Elles ont été produites intriquées par un phénomène physique unique.
 
 L'image "classique" que j'en ai est la pierre jetée dans un canal. Ca produit des vagues qui se propagent dans les 2 sens du canal mais c'est "la même vague en deux endroits".
 
-[https://fr.wikipedia.org/wiki/In...](w:Intrication_quantique)
+[Intrication quantique](w:Intrication_quantique)
 
 (Je me rappelle que quelqu'un a mentionné sur Quora une expérience dans laquelle des particules ont été intriquées après coup, mais je ne retrouve plus… sauf erreur, c'est plutôt une transmission de l'état intriqué d'une particule à une autre…)

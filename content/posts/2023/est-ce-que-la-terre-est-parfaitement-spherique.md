@@ -15,4 +15,4 @@ Vous avez déjà vu un lac ou une montagne ?
 
 Alors non.
 
-[https://fr.wikipedia.org/wiki/G%...](w:Géoïde)
+[Géoïde](w:Géoïde)

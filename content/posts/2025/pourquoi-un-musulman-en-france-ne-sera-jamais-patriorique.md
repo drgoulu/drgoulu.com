@@ -15,4 +15,4 @@ Il y en a qui sont meilleurs en orthographe que vous, ça c'est sûr.
 
 Et en histoire :
 
-[https://fr.wikipedia.org/wiki/In...](w:Indigènes)
+[Indigènes](w:Indigènes)

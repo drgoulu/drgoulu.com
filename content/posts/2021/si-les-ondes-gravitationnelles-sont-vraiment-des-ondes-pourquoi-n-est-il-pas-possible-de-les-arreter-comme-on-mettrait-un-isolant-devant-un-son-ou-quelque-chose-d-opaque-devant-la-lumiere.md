@@ -27,13 +27,13 @@ Les ondes gravitationnelles sont émises par d'énormes trucs qui tournent autou
 
 Comme on le voit sur la petite animation de l'article Wikipédia
 
-[https://fr.wikipedia.org/wiki/On...](w:Onde_gravitationnelle)
+[Onde gravitationnelle](w:Onde_gravitationnelle)
 
 ça émet des ondes d'une fréquence double de la période de révolution.
 
 Dans des cas comme
 
-[https://fr.wikipedia.org/wiki/OJ...](w:OJ_287)
+[OJ 287](w:OJ_287)
 
 la période vaut 12 ans, donc la longueur d'onde des ondes gravitationnelles est de 6 années lumière.
 
@@ -41,7 +41,7 @@ Même si vous trouvez un isolant à ondes gravitationnelles (et à part un mur d
 
 En fait nos détecteurs comme LIGO et Virgo
 
-[https://fr.wikipedia.org/wiki/La...](w:Laser_Interferometer_Gravitational-Wave_Observatory)
+[Laser Interferometer Gravitational-Wave Observatory](w:Laser_Interferometer_Gravitational-Wave_Observatory)
 
 Avec leurs 4km de long sont tout juste capables de détecter des ondes gravitationnelles entre 100Hz et 200Hz, donc des étoiles à neutrons ou trous noirs qui se tournent autour entre 50 et 100 fois par seconde !
 

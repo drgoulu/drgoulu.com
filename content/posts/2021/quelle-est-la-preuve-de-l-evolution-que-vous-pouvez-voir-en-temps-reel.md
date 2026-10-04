@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Moi j'aime bien le
 
-[https://fr.wikipedia.org/wiki/My...](w:Mycète_radiotrophe)
+[Mycète radiotrophe](w:Mycète_radiotrophe)
 
 Découvert dans les décombres du réacteur nucléaire de Tchernobyl

@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 On cherche "agate formation" dans Google, on trouve
 
-[https://en.wikipedia.org/wiki/Ag...](w:en:Agate)
+[Agate](w:en:Agate)
 
 et on google-traduit le paragraphe :
 

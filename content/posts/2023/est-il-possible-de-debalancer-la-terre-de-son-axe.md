@@ -22,7 +22,7 @@ Chaque fois que vous vous déplacez du Nord au sud ou vice versa vous "debalance
 
 Sinon, la Lune fait varier l axe d'environ 25 econdes d'arc périodiquement.
 
-[https://fr.wikipedia.org/wiki/Nu...](w:Nutation)
+[Nutation](w:Nutation)
 
 Si vous voulez changer les saisons, il faudrait dévier un objet de la taille de Mars pour créer un impact colossal, du type de celui qui a formé la Lune.
 

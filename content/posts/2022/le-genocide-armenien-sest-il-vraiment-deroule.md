@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Absolument
 
-[https://fr.wikipedia.org/wiki/G%...](w:Génocide_arménien)
+[Génocide arménien](w:Génocide_arménien)

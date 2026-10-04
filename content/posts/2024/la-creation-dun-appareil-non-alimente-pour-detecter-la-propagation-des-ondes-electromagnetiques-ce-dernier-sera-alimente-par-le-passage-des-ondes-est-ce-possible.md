@@ -20,7 +20,7 @@ Au début du 20e siècle, avant l' invention de l'amplificateur, c'était même 
 
 Actuellement les "puces RFID" fonctionnent aussi en absorbant l'énergie d'une onde
 
-[https://fr.wikipedia.org/wiki/Ra...](w:Radio-identification)
+[Radio-identification](w:Radio-identification)
 
 Dans les deux cas il faut un émetteur puissant et ne pas en être trop loin car la puissance décroît comme le carré de la distance…
 

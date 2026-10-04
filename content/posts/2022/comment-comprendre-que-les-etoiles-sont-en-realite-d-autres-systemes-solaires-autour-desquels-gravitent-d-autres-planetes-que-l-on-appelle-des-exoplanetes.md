@@ -15,6 +15,6 @@ Avec un téléscope.
 
 C'est au début du 20ème siècle qu'on a un peu compris les différentes familles d'étoiles, leur évolution et leur formation grâce à l'analyse du spectre de la lumière
 
-[https://fr.wikipedia.org/wiki/Di...](w:Diagramme_de_Hertzsprung-Russell)
+[Diagramme de Hertzsprung-Russell](w:Diagramme_de_Hertzsprung-Russell)
 
 Ensuite il a fallu attendre 1995 pour disposer de spectrometres suffisamment précis pour détecter des exoplanètes via les oscillations de leur étoile.

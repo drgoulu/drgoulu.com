@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 jusqu'à 4296
 
-[https://fr.wikipedia.org/wiki/Co...](w:Code_QR)
+[Code QR](w:Code_QR)

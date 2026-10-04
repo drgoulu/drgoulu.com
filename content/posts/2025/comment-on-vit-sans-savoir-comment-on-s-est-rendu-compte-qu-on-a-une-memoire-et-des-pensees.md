@@ -28,7 +28,7 @@ Votre cerveau s'est formé, câblé et programmé très progressivement, en plus
 
 La même chose est valable au niveau de l'espèce : comme tous nos cousins [Hominidés](w:Hominidae) passent le [Test du miroir](w:), on peut raisonnablement penser que la conscience était déjà bien développée chez nos ancêtres d'il y a 10 millions d'années au moins.
 
-[https://fr.wikipedia.org/wiki/%C...](w:Évolution_de_l'intelligence_humaine)
+[Évolution de l'intelligence humaine](w:Évolution_de_l'intelligence_humaine)
 
 Mais vous êtes parmi les premiers (à 10'000 ans près) à faire de la méta-introspection, Bravo !
 

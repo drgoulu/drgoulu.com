@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 par [Processus r](w:)lors de [Fusion d'étoiles à neutrons](w:).
 
-[https://fr.wikipedia.org/wiki/Or...](w:Or)
+[Or](w:Or)

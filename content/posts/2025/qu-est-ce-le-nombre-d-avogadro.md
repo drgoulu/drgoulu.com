@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Qu-est-ce-le-nombre-d-Avogadro/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/No...](w:Nombre_d'Avogadro)
+[Nombre d'Avogadro](w:Nombre_d'Avogadro)

@@ -29,4 +29,4 @@ Etudions la physique de ça, et laissons l'intérieur du trou noir aux matheux.
 
 [https://www.drgoulu.com/2011/08/...](/2011/08/13/selon-newton-lunivers-serait-digital/)
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Principe_holographique)
+[Principe holographique](w:Principe_holographique)

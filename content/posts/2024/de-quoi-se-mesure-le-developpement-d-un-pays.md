@@ -13,10 +13,10 @@ coverImage: ./images/quora.png
 
 Un bon indicateur est l'
 
-[https://fr.wikipedia.org/wiki/In...](w:Indice_de_développement_humain)
+[Indice de développement humain](w:Indice_de_développement_humain)
 
 À mon avis il faudrait aussi y intégrer l'
 
-[https://fr.wikipedia.org/wiki/In...](w:Indice_de_démocratie)
+[Indice de démocratie](w:Indice_de_démocratie)
 
 mais ça favoriserait peut être trop "l'occident".

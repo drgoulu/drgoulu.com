@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Les
 
-[https://fr.wikipedia.org/wiki/Ra...](w:Rayon_gamma)
+[Rayon gamma](w:Rayon_gamma)
 
 sont des photons a haute énergie
 

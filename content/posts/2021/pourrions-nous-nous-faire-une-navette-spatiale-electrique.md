@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Non. La
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Propulsion_électrique_(spatial))
+[Propulsion électrique (spatial)](w:Propulsion_électrique_\(spatial\))
 
 Permet de générer de petites poussées pendant longtemps, mais absolument pas les énormes poussées nécessaires au décollage du moindre engin depuis la Terre.

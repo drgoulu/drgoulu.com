@@ -15,4 +15,4 @@ Oui c est ça. Cette énergie est convertie en partie en énergie cinétique des
 
 Si vous voulez tout comprendre aux fusées, il faut comprendre l'
 
-[https://fr.wikipedia.org/wiki/%C...](w:Équation_de_Tsiolkovski)
+[Équation de Tsiolkovski](w:Équation_de_Tsiolkovski)

@@ -39,13 +39,13 @@ Mais
 
 Ce modèle a été proposé en 1984 par by [Alexei Starobinsky](w:en:Alexei_Starobinsky) et [Yakov Borisovich Zel'dovich](w:en:Yakov_Borisovich_Zel'dovich)
 
-[https://en.wikipedia.org/wiki/Th...](w:en:Three-torus_model_of_the_universe)
+[Three-torus model of the universe](w:en:Three-torus_model_of_the_universe)
 
 mais balayé par Stephen Hawking en 1992 comme étant instable[[1]](#iyVnn)
 
 De tels modèles ont cependant été étudiés, y compris des topologies plus complexes dans lesquelles on devrait voir plusieurs copies d'un même objet si l'univers n'est pas trop grand
 
-[https://fr.wikipedia.org/wiki/Un...](w:Univers_en_tore_bidimensionnel)
+[Univers en tore bidimensionnel](w:Univers_en_tore_bidimensionnel)
 
 En passant : l'univers torique d'Astéroïd était généré dans une mémoire d'ordinateur linéaire, comme les univers 3D des jeux actuels d'ailleurs. Ca fait réfléchir sur la notion de dimension non ?
 

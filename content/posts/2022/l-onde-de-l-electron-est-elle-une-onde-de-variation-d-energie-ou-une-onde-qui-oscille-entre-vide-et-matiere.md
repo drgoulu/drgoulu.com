@@ -13,8 +13,8 @@ coverImage: ./images/quora.png
 
 Ni l'un ni l'autre. C'est une
 
-[https://fr.wikipedia.org/wiki/Fo...](w:Fonction_d'onde)
+[Fonction d'onde](w:Fonction_d'onde)
 
 La distance au noyau n'est qu'un des paramètres d'une
 
-[https://fr.wikipedia.org/wiki/Or...](w:Orbitale_atomique)
+[Orbitale atomique](w:Orbitale_atomique)

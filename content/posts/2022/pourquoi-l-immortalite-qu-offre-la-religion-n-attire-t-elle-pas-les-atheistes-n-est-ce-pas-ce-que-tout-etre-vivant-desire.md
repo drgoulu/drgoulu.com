@@ -22,6 +22,6 @@ Un truc que je n'avais pas réalisé avant qu'un chauffeur ne me l'explique au S
 
 Pour la version scientifique c'est là :
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)
 
 (qu'est-ce qu'un dieu éternel doit se faire chier entre deux Big Bangs… )

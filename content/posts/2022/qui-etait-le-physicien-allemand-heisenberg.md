@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Son prénom était Werner, pas Allemand. Il était de nationalité allemande, ce qui s'écrit avec une minuscule, et
 
-[https://fr.wikipedia.org/wiki/We...](w:Werner_Heisenberg)
+[Werner Heisenberg](w:Werner_Heisenberg)
 
 vous dira tout.

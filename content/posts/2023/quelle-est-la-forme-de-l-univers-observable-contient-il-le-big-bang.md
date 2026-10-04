@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Sphérique, centré sur nous par définition
 
-[https://fr.wikipedia.org/wiki/Un...](w:Univers_observable)
+[Univers observable](w:Univers_observable)
 
 Non. Rien ne contient le Big Bang puisqu'il concerne l'univers entier. C'est plutôt tout l'univers observable (et le reste) qui était "contenu" dans le Big Bang.
 

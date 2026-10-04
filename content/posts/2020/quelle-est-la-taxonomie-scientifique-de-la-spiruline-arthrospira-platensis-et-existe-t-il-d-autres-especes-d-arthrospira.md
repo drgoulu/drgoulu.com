@@ -21,7 +21,7 @@ coverImage: ./images/quora.png
 > - [Règne](w:Règne_(biologie)) : [Bacteria](w:Eubacteria)
 > - [Embranchement](w:Embranchement_(biologie)) : [Cyanobacteria](w:)
 > - [Classe](w:Classe_(biologie)) : [Cyanophyceae](w:)
-> - [Sous-classe](w:Sous-classe_(biologie)): [Oscillatoriophycidae](https://fr.wikipedia.org/w/index.php?title=Oscillatoriophycidae&action=edit&redlink=1)
+> - [Sous-classe](w:Sous-classe_(biologie)): [Oscillatoriophycidae](w:Oscillatoriophycidae)
 > - [Ordre](w:Ordre_(biologie)): [Oscillatoriales](w:)
 > - [Famille](w:Famille_(biologie)): [Phormidiaceae](w:)
 > - [Genre](w:Genre_(biologie)): [Arthrospira](w:)

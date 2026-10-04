@@ -15,4 +15,4 @@ Tiens, encore une théorie du complot d'extrême droite raciste et antisémite q
 
 Pour vous remercier de m'instruire, hop ! Blocage et signalement.
 
-[https://fr.wikipedia.org/wiki/Pl...](w:Plan_Kalergi)
+[Plan Kalergi](w:Plan_Kalergi)

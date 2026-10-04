@@ -26,7 +26,7 @@ A chacun de juger si c'est "utile" selon qu'il est bobo des villes, éleveur arg
 
 En passant, les chauve-souris du genre
 
-[https://fr.wikipedia.org/wiki/Rh...](w:Rhinolophe)
+[Rhinolophe](w:Rhinolophe)
 
 Sont les hôtes d'une bonne partie des coronavirus connus, dont ceux qui sont à l'origine du Sars, du MRAS et de l'épidémie de Covid-19 actuelle.
 

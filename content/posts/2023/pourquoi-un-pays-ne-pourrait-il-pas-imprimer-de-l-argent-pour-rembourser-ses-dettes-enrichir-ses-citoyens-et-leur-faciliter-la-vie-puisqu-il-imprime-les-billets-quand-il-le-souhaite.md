@@ -23,4 +23,4 @@ Donc un pays n'imprime pas de la monnaie quand il le souhaite, il l'imprime quan
 
 Sinon, ça donne ça :
 
-[https://fr.wikipedia.org/wiki/Do...](w:Dollar_du_Zimbabwe)
+[Dollar du Zimbabwe](w:Dollar_du_Zimbabwe)

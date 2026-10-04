@@ -17,4 +17,4 @@ L'influence de l orbite est faible et varie au cours du temps. Actuellement la T
 
 Plus d'informations ici :
 
-[https://fr.wikipedia.org/wiki/Sa...](w:Saison)
+[Saison](w:Saison)

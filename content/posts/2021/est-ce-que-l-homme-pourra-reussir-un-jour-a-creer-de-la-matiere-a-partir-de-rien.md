@@ -20,11 +20,11 @@ Montrez un peu de rien dans une bouteille à l'homme, et il vous dira si on peut
 
 Avec du vide parfait, l'homme vous met deux plaques très planes très près l'une de l'autre et vous prouve que de la "matière" se "crée" entre les deux par le fait qu'elles s'attirent par
 
-[https://fr.wikipedia.org/wiki/Ef...](w:Effet_Casimir)
+[Effet Casimir](w:Effet_Casimir)
 
 Sinon, ce que l'homme sait faire aussi, c'est projeter deux protons de 938 MeV (au repos) chacun l'un contre l'autre très vite dans un accélérateur de particules et fabriquer des
 
-[https://fr.wikipedia.org/wiki/Bo...](w:Boson_W)
+[Boson W](w:Boson_W)
 
 80 fois plus massifs que le proton (40 fois plus que les deux protons qui le produisent)
 

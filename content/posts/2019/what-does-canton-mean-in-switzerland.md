@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://www.quora.com/What-does-Canton-mean-in-Switzerland/answer/Dr-Goulu)*
 
-Switzerland is a federal state like USA. The [https://en.wikipedia.org/wiki/Ca...](w:en:Cantons_of_Switzerland) are the member States.
+Switzerland is a federal state like USA. The [Cantons of Switzerland](w:en:Cantons_of_Switzerland) are the member States.
 
 Historically, Swiss and US constitutions were very close[[1]](#ZutCx) [[2]](#gWARn), then ours evolved…
 

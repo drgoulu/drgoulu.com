@@ -15,7 +15,7 @@ Comme indiqué dans d'autres réponse, l'ovule fécondé est déjà un "être vi
 
 Selon :
 
-[https://fr.wikipedia.org/wiki/F%...](w:Fœtus_humain)
+[Fœtus humain](w:Fœtus_humain)
 
 > Le **fœtus humain** est le [fœtus](w:) de l'[espèce humaine](w:Homo_sapiens), stade du [développement prénatal](w:) qui succède à l'[embryon](w:) et aboutit à la [naissance](w:).
 >

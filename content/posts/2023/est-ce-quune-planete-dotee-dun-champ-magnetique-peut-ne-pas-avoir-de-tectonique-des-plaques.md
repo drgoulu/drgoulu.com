@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 oui, c'est le cas des géantes gazeuses qui ont un champ magnétique plus fort que la Terre, et de Mercure
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Champ_magnétique_planétaire)
+[Champ magnétique planétaire](w:Champ_magnétique_planétaire)

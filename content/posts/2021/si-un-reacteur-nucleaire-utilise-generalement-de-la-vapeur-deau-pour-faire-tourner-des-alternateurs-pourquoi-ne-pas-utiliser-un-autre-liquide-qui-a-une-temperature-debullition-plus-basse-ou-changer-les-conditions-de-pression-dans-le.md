@@ -18,6 +18,6 @@ Là où on peut discuter, c'est pour le circuit primaire qui passe dans le réac
 
 On a aussi envisagé des
 
-[https://fr.wikipedia.org/wiki/R%...](w:Réacteur_nucléaire_à_sels_fondus)
+[Réacteur nucléaire à sels fondus](w:Réacteur_nucléaire_à_sels_fondus)
 
 Notamment pour la filière thorium. Le "sel" serait alors du fluorure de béryllium ou de lithium…

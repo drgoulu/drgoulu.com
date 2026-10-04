@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Qu-est-ce-que-le-syndrome-de-Diog%C3%A8ne/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Sy...](w:Syndrome_de_Diogène)
+[Syndrome de Diogène](w:Syndrome_de_Diogène)

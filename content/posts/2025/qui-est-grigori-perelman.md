@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Qui-est-Grigori-Perelman/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Gr...](w:Grigori_Perelman)
+[Grigori Perelman](w:Grigori_Perelman)

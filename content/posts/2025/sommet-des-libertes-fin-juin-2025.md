@@ -15,7 +15,7 @@ Séparez les questions s'il vous plaît.
 
 Le budget de l'état français est public, vous savez très bien où passe votre argent.
 
-[https://fr.wikipedia.org/wiki/Bu...](w:Budget_de_l'État_français)
+[Budget de l'État français](w:Budget_de_l'État_français)
 
 Vous avez aussi toutes les informations sur la [Balance commerciale de la France](https://www.lafinancepourtous.com/2022/02/18/faut-il-sinquieter-du-deficit-record-de-la-balance-commerciale-de-la-france/)qui est négative depuis 23 ans, donc sur les [Déficits jumeaux](w:).
 

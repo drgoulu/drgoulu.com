@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui.
 
-[https://fr.wikipedia.org/wiki/Dr...](w:Droit_de_superficie)
+[Droit de superficie](w:Droit_de_superficie)

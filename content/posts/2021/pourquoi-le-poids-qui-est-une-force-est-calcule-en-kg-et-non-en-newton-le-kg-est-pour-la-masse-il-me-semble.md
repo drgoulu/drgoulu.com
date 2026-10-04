@@ -15,4 +15,4 @@ Tout à fait juste.
 
 En fait à la surface de la Terre on a peu tendance à confondre masse et poids et à oublier le petit indice f du
 
-[https://fr.wikipedia.org/wiki/Ki...](w:Kilogramme-force)
+[Kilogramme-force](w:Kilogramme-force)

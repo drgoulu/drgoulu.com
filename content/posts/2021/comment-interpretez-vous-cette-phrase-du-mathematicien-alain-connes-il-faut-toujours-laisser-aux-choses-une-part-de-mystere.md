@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Il est platonicien, donc mystique.
 
-[https://fr.wikipedia.org/wiki/Pl...](w:Platonisme_(doctrine_philosophique))
+[Platonisme (doctrine philosophique)](w:Platonisme_\(doctrine_philosophique\))
 
-[https://fr.wikipedia.org/wiki/My...](w:Mystique)
+[Mystique](w:Mystique)

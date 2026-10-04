@@ -17,7 +17,7 @@ Les protons (et quelques neutrons) n'existaient pas avant l'[Ère hadronique](w:
 
 Et ainsi de suite. En remontant le temps, la matière svest transformée plusieurs fois, voir
 
-[https://fr.wikipedia.org/wiki/Hi...](w:Histoire_de_l'Univers)
+[Histoire de l'Univers](w:Histoire_de_l'Univers)
 
 Et rien ne prouve qu'il y ait eu un commencement de l'univers ou un temps t=0.
 

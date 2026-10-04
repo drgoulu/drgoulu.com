@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 oui. en base N ça devient la "preuve par N-1"
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Preuve_par_neuf)
+[Preuve par neuf](w:Preuve_par_neuf)

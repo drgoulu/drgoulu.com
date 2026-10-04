@@ -20,30 +20,30 @@ Dans la nature, les choses n'ont pas d'utilité. Elles sont comme ça en raison 
 
 Dans les étoiles, la principale source de neutrinos est la
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chaîne_proton-proton)
+[Chaîne proton-proton](w:Chaîne_proton-proton)
 
 qui fusionne deux noyaux d'hydrogène (= protons) en un noyau de deutérium (1 proton + 1 neutron) avant de fusionner 1 proton de plus en hélium3, puis 2 helium3 en un hélium4 + 2 protons.
 
 Chacune de ces réactions doit satisfaire les
 
-[https://fr.wikipedia.org/wiki/Lo...](w:Loi_de_conservation)
+[Loi de conservation](w:Loi_de_conservation)
 
 Or la première étape proton+proton donne un deuterium en "transformant" un proton en neutron (parce que l'hélium n'est pas stable)
 
 On a donc une désintégration beta +
 
-[https://fr.wikipedia.org/wiki/Ra...](w:Radioactivité_β)
+[Radioactivité β](w:Radioactivité_β)
 
 La conservation de la charge implique l'émission d'un positon, et la conservation du
 
-[https://fr.wikipedia.org/wiki/No...](w:Nombre_leptonique)
+[Nombre leptonique](w:Nombre_leptonique)
 
 implique l'émission d'un neutrino.
 
 Historiquement, c'est l'inverse qui s'est passé. En 1930 Wolfgang Pauli s'est aperçu que les particules émises par la radioactivité bêta ne respectaient ni la conservation de l énergie ni la conservation de la quantité de mouvement. Il a donc postulé l'existence du
 
-[https://fr.wikipedia.org/wiki/Ne...](w:Neutrino)
+[Neutrino](w:Neutrino)
 
 C'est en se demandant pourquoi cette particule était émise qu'il a découvert l'
 
-[https://fr.wikipedia.org/wiki/In...](w:Interaction_faible)
+[Interaction faible](w:Interaction_faible)

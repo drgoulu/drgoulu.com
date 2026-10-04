@@ -20,7 +20,7 @@ coverImage: ./images/quora.png
 
 Voyez le film
 
-[https://fr.wikipedia.org/wiki/Le...](w:Le_Fondateur_(film))
+[Le Fondateur (film)](w:Le_Fondateur_\(film\))
 
 sur la fondation d'une célèbre chaîne de restaurants de hamburgers par deux frères, [Richard et Maurice McDonald](w:), puis [Ray Kroc](w:) qui les a franchisés. Vous comprendrez quelques notions clé, non seulement de la restauration rapide, mais aussi de toute production industrielle.
 

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce que les humains sont devenus bipèdes en se spécialisant pour l'endurance, pas le sprint.
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorie_du_coureur_de_fond)
+[Théorie du coureur de fond](w:Théorie_du_coureur_de_fond)

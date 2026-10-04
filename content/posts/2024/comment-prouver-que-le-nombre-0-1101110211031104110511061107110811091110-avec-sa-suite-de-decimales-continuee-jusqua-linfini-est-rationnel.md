@@ -15,4 +15,4 @@ Les décimales n'ont pas de période finie ?
 
 Alors le nombre n'est pas rationnel.
 
-[https://fr.wikipedia.org/wiki/D%...](w:Développement_décimal_périodique)
+[Développement décimal périodique](w:Développement_décimal_périodique)

@@ -13,7 +13,7 @@ coverImage: ./images/qimg-ed0d2890b6cd510ce8aa3fec018c73c7.png
 
 Non, les verifications experimentales de l'
 
-[https://fr.wikipedia.org/wiki/Ef...](w:Effet_Casimir)
+[Effet Casimir](w:Effet_Casimir)
 
 ne permettent pas de voir l'effet à l'œil nu. La distance entre les "plaques" doit être inferieure a la longueur d'onde de la lumière
 

@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 " je m’y pose plein de questions." : commencez par lire sur le sujet pour ne pas (vous) poser des questions trop bêtes. Vous gagnerez du temps… Lisez par exemple
 
-[https://fr.wikipedia.org/wiki/Gr...](w:Grand_collisionneur_de_hadrons)
+[Grand collisionneur de hadrons](w:Grand_collisionneur_de_hadrons)
 
 [https://home.cern/fr/resources/f...](https://home.cern/fr/resources/faqs/facts-and-figures-about-lhc)
 

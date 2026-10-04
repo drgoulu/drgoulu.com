@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Parce que ce sont les romains qui ont fondé le catholicisme au
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Premier_concile_de_Nicée)
+[Premier concile de Nicée](w:Premier_concile_de_Nicée)
 
 Dans leur version, ces pauvres romains n'ont fait qu'appliquer les lois sous la pression de leurs administrés juifs…

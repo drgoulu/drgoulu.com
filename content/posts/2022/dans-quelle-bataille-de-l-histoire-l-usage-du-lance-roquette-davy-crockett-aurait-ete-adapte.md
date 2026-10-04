@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Peut-être
 
-[https://fr.wikipedia.org/wiki/Da...](w:Davy_Crockett_(arme_nucléaire))
+[Davy Crockett (arme nucléaire)](w:Davy_Crockett_\(arme_nucléaire\))

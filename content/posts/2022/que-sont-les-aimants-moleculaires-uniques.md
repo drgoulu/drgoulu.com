@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 En français ça s'appelle des
 
-[https://fr.wikipedia.org/wiki/Ai...](w:Aimant_monomoléculaire)
+[Aimant monomoléculaire](w:Aimant_monomoléculaire)
 
 Ce sont d'assez grosses molécules (100 à 1000 atomes) qui
 

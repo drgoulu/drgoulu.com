@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Vous trouvez tous les détails dans le paragraphe "scandale judiciaire" de
 
-[https://fr.wikipedia.org/wiki/Th...](w:Thalidomide)
+[Thalidomide](w:Thalidomide)

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Il y a eu plusieurs essais, notamment le
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Projet_HARP)
+[Projet HARP](w:Projet_HARP)
 
 qui a tiré un projectile de 180 kg à 180 km de haut en 1966 déjà.

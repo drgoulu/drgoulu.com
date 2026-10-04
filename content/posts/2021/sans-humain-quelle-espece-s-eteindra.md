@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Le
 
-[https://fr.wikipedia.org/wiki/Po...](w:Pou_du_pubis)
+[Pou du pubis](w:Pou_du_pubis)

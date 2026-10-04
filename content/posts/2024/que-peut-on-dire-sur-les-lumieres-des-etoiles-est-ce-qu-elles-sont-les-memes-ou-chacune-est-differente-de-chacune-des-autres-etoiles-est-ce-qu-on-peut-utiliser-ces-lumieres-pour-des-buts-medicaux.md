@@ -14,7 +14,7 @@ coverImage: ./images/quora.png
 
 La lumière des étoiles dépend beaucoup de leur température de surface (entre 3000 et 50000 degrés, 5500 pour le Soleil) et un tout petit peu de leur composition.
 
-[https://fr.wikipedia.org/wiki/Ty...](w:Type_spectral)
+[Type spectral](w:Type_spectral)
 
 À part le soleil, assez puissant pour bronzer et faire produite des vitamines, aucune application médicale.
 

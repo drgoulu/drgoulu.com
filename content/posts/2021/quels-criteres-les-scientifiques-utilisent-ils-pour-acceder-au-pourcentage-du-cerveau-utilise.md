@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 > l'imagerie cérébrale : les technologies telles que la [tomographie par émission de positrons](w:Tomographie_par_émission_de_positons) (TEP) et l'[imagerie par résonance magnétique fonctionnelle](w:) (IRMf) permettent de suivre l'activité cérébrale d'un humain vivant. Elles démontrent que chaque partie du cerveau est en activité, au moins partiellement, même pendant le [sommeil](w:).
 
-[https://fr.wikipedia.org/wiki/My...](w:Mythe_de_l'utilisation_incomplète_du_cerveau)
+[Mythe de l'utilisation incomplète du cerveau](w:Mythe_de_l'utilisation_incomplète_du_cerveau)

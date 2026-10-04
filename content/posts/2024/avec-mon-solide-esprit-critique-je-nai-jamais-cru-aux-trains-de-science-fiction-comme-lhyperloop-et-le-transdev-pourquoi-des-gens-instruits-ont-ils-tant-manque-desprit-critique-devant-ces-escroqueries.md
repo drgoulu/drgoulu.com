@@ -16,7 +16,7 @@ Ce ne sont pas des escroqueries mais des "projets d'ingénieur".
 
 J'ai eu l'occasion de voir un de ces projets d'assez près :
 
-[https://fr.wikipedia.org/wiki/Sw...](w:Swissmetro)
+[Swissmetro](w:Swissmetro)
 
 Quand j'étudiais à l'EPFL il y avait plein de jolis projets pointus à ce propos : sustentation magnétique, propulsion, pompes à vide, sas des gares etc. Vraiment cool.
 

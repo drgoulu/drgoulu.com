@@ -15,13 +15,13 @@ C'est le [Mycète radiotrophe](w:).
 
 Comment est-ce possible ? bah, ça prouve l'efficacité de l'évolution pour s'adapter à presque n'importe quel environnement … ou se ré-adapter:
 
-> La [*radiotrophie*](https://fr.wikipedia.org/w/index.php?title=Radiotrophie&action=edit&redlink=1) pourrait être un mécanisme ancien et important de l'[évolution](w:Évolution_(biologie)) au moment de l'[émergence de la vie](w:) hors des eaux, qui aurait aidé les plantes à produire l'oxygène, et les champignons et lichens à survivre aux environnement plus radioactifs de la Terre primitive, certains organismes [extrêmophiles](w:Extrêmophile) pouvant encore survivre dans des environnements radioactifs extrêmes.
+> La [*radiotrophie*](w:Radiotrophie) pourrait être un mécanisme ancien et important de l'[évolution](w:Évolution_(biologie)) au moment de l'[émergence de la vie](w:) hors des eaux, qui aurait aidé les plantes à produire l'oxygène, et les champignons et lichens à survivre aux environnement plus radioactifs de la Terre primitive, certains organismes [extrêmophiles](w:Extrêmophile) pouvant encore survivre dans des environnements radioactifs extrêmes.
 
 les applications possibles sont citées dans l'article wikipédia:
 
 > - Des astronautes pourraient en cultiver comme source de nourriture inépuisable lors de longues missions ou pour coloniser ou terraformer d'autres planètes. La radiotrophie permettrait à ces champignons noirs de se développer en gagnant de l'énergie grâce aux niveaux élevés de rayonnements ionisants ;
 > - «La mélanine pourrait être utile à la conception de nouveaux matériaux [biomimétiques](w:Biomimétique) radioprotecteurs. Ils pourraient avoir un large éventail d'applications, dont par exemple la protection de la [moelle osseuse](w:) durant une [radiothérapie](w:) anticancéreuse, la protection des personnels impliqués dans l'[énergie nucléaire](w:), la protection de matériels et de personnels lors de l'[exploration spatiale](w:) ;
-> - La [dépollution](w:) ou [décontamination radioactive](https://fr.wikipedia.org/w/index.php?title=Décontamination_radioactive&action=edit&redlink=1) : des champignons radiorésistants pourraient être cultivés sur des filtres destinés à absorber des composés radioactifs de l'environnement ; par exemple suite à un [accident nucléaire](w:) ou à une contamination chronique par des effluents industriels.
+> - La [dépollution](w:) ou [décontamination radioactive](w:Décontamination_radioactive) : des champignons radiorésistants pourraient être cultivés sur des filtres destinés à absorber des composés radioactifs de l'environnement ; par exemple suite à un [accident nucléaire](w:) ou à une contamination chronique par des effluents industriels.
 
 mais (comme toujours…) il y a aussi des risques :
 

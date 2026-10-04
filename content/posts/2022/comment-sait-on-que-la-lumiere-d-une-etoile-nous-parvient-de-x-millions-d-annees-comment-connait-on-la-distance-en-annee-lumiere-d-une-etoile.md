@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 La distance des étoiles proches est mesurée par
 
-[https://fr.wikipedia.org/wiki/Pa...](w:Parallaxe)
+[Parallaxe](w:Parallaxe)
 
 Plus loin dans notre galaxie, on estime les distances en comparant la magnitude apparente de l'étoile à la magnitude absolue qu'elle devrait avoir selon son type spectral. C'est assez approximatif.
 
@@ -26,4 +26,4 @@ A des " millions d'années lumière", les étoiles sont dans une autre galaxie e
 
 Ce n'est que pour des galaxies tellement lointaines qu'on ne distingue plus les étoiles, donc les chandelles standard qu'utilise le
 
-[https://fr.wikipedia.org/wiki/D%...](w:Décalage_vers_le_rouge)
+[Décalage vers le rouge](w:Décalage_vers_le_rouge)

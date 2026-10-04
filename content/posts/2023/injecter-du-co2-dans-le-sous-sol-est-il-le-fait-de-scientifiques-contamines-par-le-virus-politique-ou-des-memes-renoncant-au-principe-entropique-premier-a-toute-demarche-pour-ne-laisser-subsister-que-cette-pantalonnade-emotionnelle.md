@@ -21,7 +21,7 @@ En français ça donnerait quoi ? C'est quoi le "principe entropique" ? Vous vou
 
 Depuis 4 milliards d'années, le sous-sol a stocké environ 37 millions de Gigatonnes de carbone dans les roches carbonatées (les calcaires essentiellement) et les roches carbonées (charbon, schistes, pétrole etc)
 
-[https://fr.wikipedia.org/wiki/Cy...](w:Cycle_du_carbone)
+[Cycle du carbone](w:Cycle_du_carbone)
 
 Donc l'idée d'en stocker 2 ou 3 Gt par an, soit la moitié de ce que nous extrayons et cramons de ce même sous-sol me semble une idée relativement raisonnable, surtout de la part de géologues qui connaissent ce qui précède, eux.
 

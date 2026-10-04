@@ -30,7 +30,7 @@ Parce que la culture est différente. L'impressionnisme ou le cubisme ont un sen
 
 Par exemple Qi Bashi
 
-> fit preuve d'une audace remarquable en créant le style « fleurs rouges et feuillage d'encre » (红花墨叶, [hónghuā mòyè](https://fr.wikipedia.org/w/index.php?title=Hónghuā_mòyè&action=edit&redlink=1)) qui consistait à employer des couleurs vives en contraste avec les noirs et gris du lavis. L'effet fut comparable à celui du fauvisme en Europe, vigoureux et décoratif. La peinture chinoise lui doit certainement cette prise de conscience du rôle des couleurs.
+> fit preuve d'une audace remarquable en créant le style « fleurs rouges et feuillage d'encre » (红花墨叶, [hónghuā mòyè](w:Hónghuā_mòyè)) qui consistait à employer des couleurs vives en contraste avec les noirs et gris du lavis. L'effet fut comparable à celui du fauvisme en Europe, vigoureux et décoratif. La peinture chinoise lui doit certainement cette prise de conscience du rôle des couleurs.
 >
 >
 >

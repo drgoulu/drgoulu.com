@@ -58,7 +58,7 @@ Selon Gemini IA :
 >
 >
 >
-> [3] [https://en.wikipedia.org](w:en:Solar_irradiance)
+> [3] [Solar irradiance](w:en:Solar_irradiance)
 >
 >
 >
@@ -78,6 +78,6 @@ Selon Gemini IA :
 >
 >
 >
-> [8] [https://fr.wikipedia.org](w:Sursaut_gamma)
+> [8] [Sursaut gamma](w:Sursaut_gamma)
 
 Ensuite comme indiqué dans d'autres réponses, l'atmosphère filtre les rayons Gamma, ils n'arrivent pas au sol. On a détecté (avec surprise) les GRB avec des satellites envoyés pour détecter les explosions nucléaires sur Terre…

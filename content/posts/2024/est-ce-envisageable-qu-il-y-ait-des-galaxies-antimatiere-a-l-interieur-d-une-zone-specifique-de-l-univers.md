@@ -17,4 +17,4 @@ De plus les antiparticules sont rarissimes dans le [Rayonnement cosmique](w:).
 
 Donc si c'est le cas, l'antimatière se trouverait en dehors de notre univers observable.
 
-[https://fr.wikipedia.org/wiki/As...](w:Asymétrie_baryonique)
+[Asymétrie baryonique](w:Asymétrie_baryonique)

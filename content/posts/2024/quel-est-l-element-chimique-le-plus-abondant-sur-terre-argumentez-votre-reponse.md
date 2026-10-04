@@ -19,4 +19,4 @@ C'est l'oxygène :
 - 46.1% dans la croûte (silicium 26.2%)
 - 85.7% sans les océans (ou l'hydrogène si vous comptez en nombre d'atomes)
 
-[https://fr.wikipedia.org/wiki/Ab...](w:Abondance_des_éléments_chimiques)
+[Abondance des éléments chimiques](w:Abondance_des_éléments_chimiques)

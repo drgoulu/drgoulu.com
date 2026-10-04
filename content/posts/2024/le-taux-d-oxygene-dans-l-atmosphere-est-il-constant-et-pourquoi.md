@@ -13,7 +13,7 @@ coverImage: ./images/qimg-1454e17aa56cdafbef1b9e4d998a1fd9.png
 
 Sur le long terme il a beaucoup varié, le taux actuel ne datant que de 540 millions d'années
 
-[https://fr.wikipedia.org/wiki/Hi...](w:Histoire_géologique_de_l'oxygène)
+[Histoire géologique de l'oxygène](w:Histoire_géologique_de_l'oxygène)
 
 Sur le très court terme, il diminue au fur et à mesure que le CO2 augmente
 

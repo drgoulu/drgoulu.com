@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Aux-%C3%89tats-Unis-certains-%C3%A9tats-ont-pr%C3%A9lev%C3%A9-l-ADN-%C3%A0-la-naissance-et-ils-utilisent-aussi-celui-envoy%C3%A9-%C3%A0-des-entreprises-priv%C3%A9es-pour-des-recherches-g%C3%A9n%C3%A9alogiques-pour-confondre-des/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Bi...](w:Bienvenue_à_Gattaca)
+[Bienvenue à Gattaca](w:Bienvenue_à_Gattaca)

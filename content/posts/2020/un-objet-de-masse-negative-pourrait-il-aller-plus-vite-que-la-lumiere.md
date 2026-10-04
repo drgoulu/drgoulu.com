@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Non, il faudrait une masse imaginaire (au sens mathématique) :
 
-> La [relation énergie-quantité de mouvement](https://fr.wikipedia.org/w/index.php?title=Relation_énergie-quantité_de_mouvement&action=edit&redlink=1) [(en)](w:en:Energy–momentum_relation) présente l'énergie (${\displaystyle E}$) en fonction de la [masse](w:) (${\displaystyle m}$), de la vitesse de la lumière dans le vide (${\displaystyle c}$), du [facteur de Lorentz](w:) (${\displaystyle \gamma }$) et de la [quantité de mouvement](w:) (${\displaystyle p}$) sous la forme :
+> La [relation énergie-quantité de mouvement](w:Relation_énergie-quantité_de_mouvement) [(en)](w:en:Energy–momentum_relation) présente l'énergie (${\displaystyle E}$) en fonction de la [masse](w:) (${\displaystyle m}$), de la vitesse de la lumière dans le vide (${\displaystyle c}$), du [facteur de Lorentz](w:) (${\displaystyle \gamma }$) et de la [quantité de mouvement](w:) (${\displaystyle p}$) sous la forme :
 >
 >
 >

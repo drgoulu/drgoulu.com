@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non.
 
-[https://fr.wikipedia.org/wiki/My...](w:Mysticisme_quantique)
+[Mysticisme quantique](w:Mysticisme_quantique)

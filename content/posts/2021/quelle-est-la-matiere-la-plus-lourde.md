@@ -15,10 +15,10 @@ Vous voulez probablement dire la plus dense.
 
 Dans les conditions habituelles à la surface de notre planète , c'est l'
 
-[https://fr.wikipedia.org/wiki/Os...](w:Osmium)
+[Osmium](w:Osmium)
 
 Ailleurs dans l'univers, c'est probablement le
 
-[https://fr.wikipedia.org/wiki/Ne...](w:Neutronium)
+[Neutronium](w:Neutronium)
 
 Qui constitue les étoiles à neutrons.

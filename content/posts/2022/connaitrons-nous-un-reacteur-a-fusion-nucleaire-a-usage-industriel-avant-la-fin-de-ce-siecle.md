@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Ça dépendra uniquement du prix du kWh produit par
 
-[https://fr.wikipedia.org/wiki/De...](w:Demo_(réacteur))
+[Demo (réacteur)](w:Demo_\(réacteur\))
 
 Qu'on connaîtra dans 30 ans.
 

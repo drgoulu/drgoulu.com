@@ -22,7 +22,7 @@ D'ailleurs à peu près tous les physiciens après lui ont essayé aussi, c'est 
 
 Il y a un prix du millénaire, au moins un Nobel et une célébrité "éternelle" à la clé, mais jusqu'ici on a surtout progressé en éliminant les approches simples, dont celle suivie par Einstein[[1]](#IZSOL) .
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorie_du_tout)
+[Théorie du tout](w:Théorie_du_tout)
 
 Notes de bas de page
 

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Lisez absolument cet article Wikipedia
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Projet_Alpha)
+[Projet Alpha](w:Projet_Alpha)

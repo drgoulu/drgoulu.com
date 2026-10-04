@@ -15,7 +15,7 @@ Non c'est votre "impression" qu'ils sont plus nombreux qui est biaisée.
 
 Vous n'avez qu'à mesurer votre consommation de liquide lave glaces pour le constater
 
-[https://fr.wikipedia.org/wiki/Ef...](w:Effet_pare-brise)
+[Effet pare-brise](w:Effet_pare-brise)
 
 Il y a une intéressante méthode plus rigoureuse à laquelle vous pouvez participer : vous prenez simplement en photo votre plaque d'immatriculation et une app compte les insectes écrasés sur cette surface bien définie.
 

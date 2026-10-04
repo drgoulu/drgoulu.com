@@ -17,4 +17,4 @@ C est le cas actuellement, la Terre tourne en une milliseconde de moins que la m
 
 C'est probablement du à des mouvements internes du manteau + noyau. Si ça dure quelques années, on doit introduire une
 
-[https://fr.wikipedia.org/wiki/Se...](w:Seconde_intercalaire)
+[Seconde intercalaire](w:Seconde_intercalaire)

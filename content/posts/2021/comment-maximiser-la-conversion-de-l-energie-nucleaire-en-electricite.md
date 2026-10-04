@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Avec la
 
-[https://fr.wikipedia.org/wiki/Fu...](w:Fusion_aneutronique)
+[Fusion aneutronique](w:Fusion_aneutronique)
 
 Dans un siècle peut-être…

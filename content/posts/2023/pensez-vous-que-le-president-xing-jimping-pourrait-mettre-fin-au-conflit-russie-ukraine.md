@@ -20,6 +20,6 @@ Très facilement en rompant tout commerce avec la Russie et en appliquant des sa
 
 Poutine a certainement obtenu le soutien de Xi avant d'attaquer l'Ukraine, et Xi le lui a donné car ils sont en train de créer un nouveau "bloc de l'Est" autour de l'
 
-[https://fr.wikipedia.org/wiki/Or...](w:Organisation_de_coopération_de_Shanghai)
+[Organisation de coopération de Shanghai](w:Organisation_de_coopération_de_Shanghai)
 
 Donc là, toute solution proposée par Xi consistera forcément à faire adhérer l'Ukraine à ce bloc.

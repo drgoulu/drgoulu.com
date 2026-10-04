@@ -28,4 +28,4 @@ Les arbres et le corail font ça très bien, et transforment le CO2 en bois et e
 2. Émettre moins de CO2
 3. Capter le CO2 produit par certaines usines très polluantes comme le centrales électriques à charbon ou les aciéries, et le stocker en utilisant une technique de
 
-[https://fr.wikipedia.org/wiki/S%...](w:Séquestration_du_dioxyde_de_carbone)
+[Séquestration du dioxyde de carbone](w:Séquestration_du_dioxyde_de_carbone)

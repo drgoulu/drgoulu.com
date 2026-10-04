@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 
 Actually they decreased
 
-[https://en.wikipedia.org/wiki/Sw...](w:en:Swiss_People's_Party)
+[Swiss People's Party](w:en:Swiss_People's_Party)

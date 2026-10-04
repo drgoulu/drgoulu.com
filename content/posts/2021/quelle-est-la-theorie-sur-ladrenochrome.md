@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 [Adrénochrome — Wikipédia](w:Adrénochrome):
 
-> [Abram Hoffer](https://fr.wikipedia.org/w/index.php?title=Abram_Hoffer&action=edit&redlink=1) [(en)](w:en:Abram_Hoffer) et [Humphry Osmond](w:) ont affirmé que l’adrénochrome était une substance hallucinogène et que sa consommation pouvait entraîner une [schizophrénie](w:) ou autres [troubles mentaux](w:Trouble_psychique). Dans ce qu’ils ont nommé « l’hypothèse adrénochrome », ils ont conjecturé que des doses massives de [vitamines C](w:Vitamine_C) et [B3](w:Vitamine_B3) pouvaient soigner la schizophrénie, en réduisant le taux d’adrénochrome dans le cerveau. Cette hypothèse a créé la controverse à propos de la classification de l’adrénochrome comme substance [psychotrope](w:).
+> [Abram Hoffer](w:Abram_Hoffer) [(en)](w:en:Abram_Hoffer) et [Humphry Osmond](w:) ont affirmé que l’adrénochrome était une substance hallucinogène et que sa consommation pouvait entraîner une [schizophrénie](w:) ou autres [troubles mentaux](w:Trouble_psychique). Dans ce qu’ils ont nommé « l’hypothèse adrénochrome », ils ont conjecturé que des doses massives de [vitamines C](w:Vitamine_C) et [B3](w:Vitamine_B3) pouvaient soigner la schizophrénie, en réduisant le taux d’adrénochrome dans le cerveau. Cette hypothèse a créé la controverse à propos de la classification de l’adrénochrome comme substance [psychotrope](w:).
 >
 >
 >

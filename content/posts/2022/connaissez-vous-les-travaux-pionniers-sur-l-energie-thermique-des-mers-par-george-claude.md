@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Non, mais
 
-[https://fr.wikipedia.org/wiki/%C...](w:Énergie_thermique_des_mers)
+[Énergie thermique des mers](w:Énergie_thermique_des_mers)
 
 maintenant oui, alors merci.

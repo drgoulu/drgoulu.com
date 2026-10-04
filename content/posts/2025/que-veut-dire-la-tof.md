@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Que-veut-dire-la-TOF/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/TO...](w:TOF)
+[TOF](w:TOF)

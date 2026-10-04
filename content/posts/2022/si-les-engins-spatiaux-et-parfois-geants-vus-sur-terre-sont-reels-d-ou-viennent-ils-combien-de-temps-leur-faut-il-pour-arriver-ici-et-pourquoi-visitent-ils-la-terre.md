@@ -16,4 +16,4 @@ Si d'énormes vaisseaux spatiaux arrivent sur Terre, c'est après des millénair
 
 Comme nous ne sommes ni envahis, ni colonisés, ni éradiqués, les choses dont vous parlez sont soit irréelles, soit naturelles, mais en aucun cas des vaisseaux interstellaires.
 
-[https://fr.wikipedia.org/wiki/Ph...](w:Phénomène_lumineux_transitoire)
+[Phénomène lumineux transitoire](w:Phénomène_lumineux_transitoire)

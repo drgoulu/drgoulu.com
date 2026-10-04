@@ -15,4 +15,4 @@ Il ne tourne pas et n'est pas suspendu dans le vide.
 
 Les particules sont "en même temps" des ondes, et autour d'un noyau atomique, un électron se comporte comme une onde qui forme une
 
-[https://fr.wikipedia.org/wiki/Or...](w:Orbitale_atomique)
+[Orbitale atomique](w:Orbitale_atomique)

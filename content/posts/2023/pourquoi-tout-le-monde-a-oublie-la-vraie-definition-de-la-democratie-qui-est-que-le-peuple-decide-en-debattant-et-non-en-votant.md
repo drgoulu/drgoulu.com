@@ -29,7 +29,7 @@ Tout ça pour appuyer l'idée que la démocratie est non binaire. Un pays peut �
 
 On peut certainement discuter des 60 critères utilisées[[2]](#Lzsqy) pour établir l'
 
-[https://fr.wikipedia.org/wiki/In...](w:Indice_de_démocratie)
+[Indice de démocratie](w:Indice_de_démocratie)
 
 mais il a le mérite de bien souligner la complexité d'avoir une "vraie définition" de la démocratie.
 

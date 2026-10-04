@@ -15,6 +15,6 @@ En aucun cas. J'y ai fait un stop de 3 jours en allant à Oman, c'est plus qu'as
 
 Après vous apprenez l'histoire de
 
-[https://fr.wikipedia.org/wiki/La...](w:Latifa_Al_Maktoum_(1985))
+[Latifa Al Maktoum (1985)](w:Latifa_Al_Maktoum_\(1985\))
 
 et de sa soeur [Shamsa Al Maktoum](w:), parmi d'autres probablement, et vous décidez si un tel pays est compatible avec vos valeurs…

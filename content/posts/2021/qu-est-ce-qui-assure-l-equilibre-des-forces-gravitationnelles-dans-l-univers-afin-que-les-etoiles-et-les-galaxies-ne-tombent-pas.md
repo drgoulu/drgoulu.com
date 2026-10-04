@@ -23,7 +23,7 @@ Depuis 13.8 milliards d'années, la gravitation a fait "tomber" le gaz en étoil
 
 Dans 10^{10^26} ans, si le proton est stable, toute la matière se sera effondrée en trous noirs, puis évaporée en photons
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)
 
 Et l'Univers sera prêt pour une nouvelle fluctuation quantique / Big Bang.
 

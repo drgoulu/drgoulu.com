@@ -27,6 +27,6 @@ Pourquoi un bon siècle ? Parce qu'une grosse partie du CO2 émis est absorbé p
 
 Lisez
 
-[https://fr.wikipedia.org/wiki/Cy...](w:Cycle_du_carbone)
+[Cycle du carbone](w:Cycle_du_carbone)
 
 c'est vraiment un article complet et bien fait.

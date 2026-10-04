@@ -13,8 +13,8 @@ coverImage: ./images/quora.png
 
 La
 
-[https://fr.wikipedia.org/wiki/Pe...](w:Pendule_Atmos)
+[Pendule Atmos](w:Pendule_Atmos)
 
 Ou l'
 
-[https://fr.wikipedia.org/wiki/Oi...](w:Oiseau_buveur)
+[Oiseau buveur](w:Oiseau_buveur)

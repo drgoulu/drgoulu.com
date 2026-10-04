@@ -17,6 +17,6 @@ En inversant le temps de Planck vous obtenez la [Fréquence de Planck](w:)et pui
 
 Pour la durée de l'univers voyez
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)
 
 On est plutôt autour de $10^{10^{120}}$ ans…

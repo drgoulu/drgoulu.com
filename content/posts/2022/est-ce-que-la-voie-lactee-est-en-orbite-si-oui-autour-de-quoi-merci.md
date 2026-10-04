@@ -22,4 +22,4 @@ La Voie Lactée fait partie du [Groupe local](w:)d'une soixantaine de galaxies q
 
 Les Nuages de Magellan tournent plus ou moins autour de la Voie Lactée, qui se dirige peu à peu vers Andromède, et vice-versa, ce qui fait qu'une jolie collision de galaxies est prévue dans 4 milliards d'années environ.
 
-[https://fr.wikipedia.org/wiki/Co...](w:Collision_entre_la_galaxie_d'Andromède_et_la_Voie_lactée)
+[Collision entre la galaxie d'Andromède et la Voie lactée](w:Collision_entre_la_galaxie_d'Andromède_et_la_Voie_lactée)

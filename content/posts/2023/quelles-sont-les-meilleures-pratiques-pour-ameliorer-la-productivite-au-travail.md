@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Éliminer les gaspillages
 
-[https://fr.wikipedia.org/wiki/Le...](w:Lean_(production))
+[Lean (production)](w:Lean_\(production\))

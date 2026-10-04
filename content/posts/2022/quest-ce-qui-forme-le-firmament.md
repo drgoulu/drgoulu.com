@@ -15,4 +15,4 @@ Notre cerveau.
 
 Pour lui c'est plus simple de croire que les étoiles sont collées sur une fine sphère qui entoure la Terre
 
-[https://fr.wikipedia.org/wiki/Fi...](w:Firmament)
+[Firmament](w:Firmament)

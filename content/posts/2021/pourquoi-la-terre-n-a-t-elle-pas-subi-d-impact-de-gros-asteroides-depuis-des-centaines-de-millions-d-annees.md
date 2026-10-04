@@ -20,8 +20,8 @@ coverImage: ./images/quora.png
 
 Et depuis il y en a eu quand même pas mal, voir
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_de_cratères_d'impact_sur_Terre)
+[Liste de cratères d'impact sur Terre](w:Liste_de_cratères_d'impact_sur_Terre)
 
-[https://fr.wikipedia.org/wiki/Me...](w:Meteor_Crater)
+[Meteor Crater](w:Meteor_Crater)
 
 n'a que 50'000 ans environ, et ce cratère de 1200m de diamètre a été fait par un caillou de 50m seulement…

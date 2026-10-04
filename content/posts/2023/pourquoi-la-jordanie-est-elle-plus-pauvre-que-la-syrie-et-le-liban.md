@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Alors sur
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_pays_par_PIB_(PPA)_par_habitant)
+[Liste des pays par PIB (PPA) par habitant](w:Liste_des_pays_par_PIB_\(PPA\)_par_habitant)
 
 je vois que le Liban 68ème avec 19480 $/an
 

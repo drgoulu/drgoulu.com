@@ -40,4 +40,4 @@ L'article [L'intrication quantique, ou le rêve de la communication instantanée
 
 Mais il y a une application intéressante, c'est la transmission quantique. Là on utilise le fait qu'une particule lue est détruire : si la communication est interceptée, l émetteur sven aperçoit instantanément. C'est donc une transmission 100% fiable, même sans cryptage.
 
-[https://fr.wikipedia.org/wiki/Im...](w:Impossibilité_du_clonage_quantique)
+[Impossibilité du clonage quantique](w:Impossibilité_du_clonage_quantique)

@@ -22,4 +22,4 @@ coverImage: ./images/quora.png
 >
 > La magnétothérapie fait l'objet d'un marché important, estimé à **252 millions d'euros dans le monde**, à travers notamment la vente de bijoux ou de patches aux prétendues vertus thérapeutiques[6](w:Magnétothérapie). Un business des « bijoux magnétiques thérapeutiques » a vu le jour, sans le moindre indice d'efficacité. En 2009, l'[Agence nationale de sécurité du médicament et des produits de santé](w:) (ANSM) a publiquement réprouvé ce commerce, assimilable à de la « ***fake medecine*** »
 
-[https://fr.wikipedia.org/wiki/Ma...](w:Magnétothérapie)
+[Magnétothérapie](w:Magnétothérapie)

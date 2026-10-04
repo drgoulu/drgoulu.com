@@ -20,7 +20,7 @@ Comment savez-vous que la conscience est exclusivement humaine ?
 
 Le
 
-[https://fr.wikipedia.org/wiki/Te...](w:Test_du_miroir)
+[Test du miroir](w:Test_du_miroir)
 
 semble montrer que des animaux ont un certain niveau de conscience.
 

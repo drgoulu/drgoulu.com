@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 15% de l'électricité, qui représente 23% de l'énergie totale, donc 3.45%.
 
-[https://fr.wikipedia.org/wiki/%C...](w:Énergie_au_Canada)
+[Énergie au Canada](w:Énergie_au_Canada)

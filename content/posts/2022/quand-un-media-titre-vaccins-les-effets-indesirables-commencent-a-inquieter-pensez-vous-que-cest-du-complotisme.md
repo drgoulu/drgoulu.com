@@ -26,7 +26,7 @@ Donc je me sens parfaitement à l'aise pour rappeler que des milliers de personn
 
 Encore aujourd'hui il y a plus de cas dérivés du vaccin (voir commentaire ci-dessous) que de cas endémiques (104 contre 33 en 2018). Nous sommes tous désolés pour eux, mais c'est hélas le prix à payer pour arriver enfin à éradiquer définitivement cette terrible maladie
 
-[https://fr.wikipedia.org/wiki/%C...](w:Éradication_de_la_poliomyélite)
+[Éradication de la poliomyélite](w:Éradication_de_la_poliomyélite)
 
 Les vaccins contre le Covid ont évité la mort, des séquelles graves et de coûteuses hospitalisations à des millions de personnes dans le monde.
 

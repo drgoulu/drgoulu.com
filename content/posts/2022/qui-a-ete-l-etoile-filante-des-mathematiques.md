@@ -13,10 +13,10 @@ coverImage: ./images/quora.png
 
 Il y en a eu beaucoup, les mathématiciens étant surtout productifs jeunes, mais si on pense à ceux morts trop tôt on peut citer
 
-[https://fr.wikipedia.org/wiki/Sr...](w:Srinivasa_Ramanujan)
+[Srinivasa Ramanujan](w:Srinivasa_Ramanujan)
 
 et
 
-[https://fr.wikipedia.org/wiki/%C...](w:Évariste_Galois)
+[Évariste Galois](w:Évariste_Galois)
 
 (J'ai enlevé tous les sujets de la question qui avaient été ajoutés pour faire la promotion de la fumeuse théorie de l'auteur)

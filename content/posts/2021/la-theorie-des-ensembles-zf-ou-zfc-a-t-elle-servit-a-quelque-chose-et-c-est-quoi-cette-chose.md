@@ -20,17 +20,17 @@ Oui, elles ont servi à éviter les paradoxes de la logique découverts au débu
 
 La
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorie_des_ensembles_de_Zermelo-Fraenkel)
+[Théorie des ensembles de Zermelo-Fraenkel](w:Théorie_des_ensembles_de_Zermelo-Fraenkel)
 
 définit les axiomes de la théorie des ensembles sur laquelle sont construites les mathématiques usuelles, notamment en introduisant l'
 
-[https://fr.wikipedia.org/wiki/Ax...](w:Axiome_du_choix)
+[Axiome du choix](w:Axiome_du_choix)
 
 (qui donne la théorie ZFC).
 
 Cette revolution des bases des maths a ouvert la voie à des résultats fondamentaux comme les
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorèmes_d'incomplétude_de_Gödel)
+[Théorèmes d'incomplétude de Gödel](w:Théorèmes_d'incomplétude_de_Gödel)
 
 Si ce sujet vous intéresse, je vous recommande
 

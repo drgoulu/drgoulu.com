@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 à quelque chose près, le centre de l'
 
-[https://fr.wikipedia.org/wiki/Un...](w:Univers_observable)
+[Univers observable](w:Univers_observable)
 
 est bel et bien à la [gare de Perpignan](https://www.garesetconnexions.sncf/fr/gare/frpgf/perpignan/actualite/16104/gare-perpignan-centre-du-monde-dali).
 

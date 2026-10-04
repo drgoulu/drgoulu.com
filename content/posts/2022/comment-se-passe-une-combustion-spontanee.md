@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Si ça existe, c'est (jusqu'à preuve du contraire) un "effet de mèche"
 
-[https://fr.wikipedia.org/wiki/Co...](w:Combustion_humaine_spontanée)
+[Combustion humaine spontanée](w:Combustion_humaine_spontanée)

@@ -16,4 +16,4 @@ Rien du tout, rien à voir.
 
 Si la taille et la stabilité des groupes humains vous intéresse commencez par
 
-[https://fr.wikipedia.org/wiki/No...](w:Nombre_de_Dunbar)
+[Nombre de Dunbar](w:Nombre_de_Dunbar)

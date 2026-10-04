@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Vous voulez dire comme en Suisse ?
 
-[https://fr.wikipedia.org/wiki/Sy...](w:Système_des_trois_piliers)
+[Système des trois piliers](w:Système_des_trois_piliers)
 
 Vous savez bien que rien de ce qui marche ailleurs ne peut marcher en France…

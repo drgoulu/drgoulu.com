@@ -24,6 +24,6 @@ Et il y a des solutions pour aller vers le futur "plus vite" : dormir, se faire 
 
 Voyager vers le passé est beaucoup, beaucoup plus compliqué. Certains disent que c'est impossible, je leur répond qu'il faut essayer.
 
-[https://fr.wikipedia.org/wiki/Co...](w:Courbe_fermée_de_type_temps)
+[Courbe fermée de type temps](w:Courbe_fermée_de_type_temps)
 
-[https://fr.wikipedia.org/wiki/Co...](w:Comment_construire_une_machine_à_explorer_le_temps)
+[Comment construire une machine à explorer le temps](w:Comment_construire_une_machine_à_explorer_le_temps)

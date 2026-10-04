@@ -15,7 +15,7 @@ Oui, j'adore les déserts, qui ne le sont pas tellement que ça quand on les reg
 
 Sauf dans la
 
-[https://fr.wikipedia.org/wiki/Va...](w:Valle_de_la_Luna)
+[Valle de la Luna](w:Valle_de_la_Luna)
 
 la plus désertique des régions désertiques que j'aie visité, et probablement du monde tout court.
 

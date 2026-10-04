@@ -15,6 +15,6 @@ Le mieux est de suivre en cours ;-)
 
 Sinon, la page
 
-[https://fr.wikipedia.org/wiki/No...](w:Nombre_complexe)
+[Nombre complexe](w:Nombre_complexe)
 
 te dira à peu près tout ce qu'il y a à savoir.

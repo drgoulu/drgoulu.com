@@ -24,7 +24,7 @@ Le [Nombre de chromosomes](w:Nombre_de_chromosomes_de_différentes_espèces)est 
 
 Si on considère le code génétique dans son ensemle, cette petit fleur de rien du tout a le plus grand génome, avec 150 milliards de paires de bases dans son ADN (nous en avons 3.2 milliards) :
 
-[https://fr.wikipedia.org/wiki/Pa...](w:Paris_japonica)
+[Paris japonica](w:Paris_japonica)
 
 mais on soupçonne qu'elle triche en ayant beaucoup de gènes à double , voire beaucoup d'exemplaires.
 

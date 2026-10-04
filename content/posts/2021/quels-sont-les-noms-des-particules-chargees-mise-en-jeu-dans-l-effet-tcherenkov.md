@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 n'importe quelle particule chargée arrivant en excès de vitesse dans un milieu en perturbe les couches électroniques et produit l'
 
-[https://fr.wikipedia.org/wiki/Ef...](w:Effet_Tcherenkov)
+[Effet Tcherenkov](w:Effet_Tcherenkov)
 
 Dans une piscine nucléaire, les particules en question sont le plus souvent des électrons résultant des [désintégrations β-](w:Radioactivité_β), mais ça peut être aussi des muons, des tau, des bosons W et leurs antiparticules dans les [Détecteur Tcherenkov](w:)des accélérateurs de particules.

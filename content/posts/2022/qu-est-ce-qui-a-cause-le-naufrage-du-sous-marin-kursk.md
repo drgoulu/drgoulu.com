@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Probablement un accident avec une torpille
 
-[https://fr.wikipedia.org/wiki/VA...](w:VA-111_Chkval)
+[VA-111 Chkval](w:VA-111_Chkval)
 
 Ca expliquerait
 

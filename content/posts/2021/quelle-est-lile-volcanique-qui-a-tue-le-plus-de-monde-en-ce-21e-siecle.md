@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 D'après
 
-[https://en.wikipedia.org/wiki/Li...](w:en:List_of_volcanic_eruptions_by_death_toll)
+[List of volcanic eruptions by death toll](w:en:List_of_volcanic_eruptions_by_death_toll)
 
 c'est l'éruption du [Anak Krakatoa ("enfant du Krakatoa"…](w:en:Anak_Krakatoa) ) en 2018 et le tsunami qui s'en est ensuivi, qui ont causé 426 ou 437 morts selon les sources.

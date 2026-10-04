@@ -19,4 +19,4 @@ Ca ne ressemble pas à la Terre du tout.
 
 [https://www.astronomes.com/le-sy...](https://www.astronomes.com/le-systeme-solaire-externe/jupiter)
 
-[https://fr.wikipedia.org/wiki/Ju...](w:Jupiter_(planète))
+[Jupiter (planète)](w:Jupiter_\(planète\))

@@ -18,7 +18,7 @@ coverImage: ./images/qimg-17a44670d40badec7c1f34e91aed409d.jpg
 
 L'homme non. Des milliards d'hommes oui.
 
-[https://fr.wikipedia.org/wiki/D%...](w:Déforestation)
+[Déforestation](w:Déforestation)
 
 > La moitié des forêts de la planète a ainsi été détruite au cours du XXe siècle.
 

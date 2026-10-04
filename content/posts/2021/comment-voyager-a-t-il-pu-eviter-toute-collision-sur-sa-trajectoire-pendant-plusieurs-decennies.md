@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 L'espace est extrêmement vide. C'est une des informations que nous ont apporté les deux sondes Voyager, les sondes Pionneer 10 et 11, Cassini, Deep Horizons et des dizaines d'autres. Aucune n'a touché le moindre caillou. Tout le noir qu'on voit la nuit, c'est vraiment du vide.
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_sondes_spatiales)
+[Liste des sondes spatiales](w:Liste_des_sondes_spatiales)

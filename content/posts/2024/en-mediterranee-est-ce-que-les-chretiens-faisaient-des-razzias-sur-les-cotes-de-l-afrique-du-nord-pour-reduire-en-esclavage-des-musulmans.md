@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non, c'était l'inverse
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Traite_des_esclaves_de_Barbarie)
+[Traite des esclaves de Barbarie](w:Traite_des_esclaves_de_Barbarie)

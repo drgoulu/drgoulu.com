@@ -21,7 +21,7 @@ Evidemment, ça marche aussi pour des quantités beaucoup plus faibles, donc nor
 
 Donc quand je disais qu'on ne peut pas mesurer ça dans sa cuisine, ce n'est pas vrai, il faut juste une balance capable de mesurer des milliardièmes de grammes…
 
-[https://fr.wikipedia.org/wiki/Or...](w:Ordres_de_grandeur_d'énergie)
+[Ordres de grandeur d'énergie](w:Ordres_de_grandeur_d'énergie)
 
 Après, si par "expliquer" vous vouliez dire "pourquoi c'est comme ça", ben c'est une simple conséquence de la relativité, comme le montre le génial article d'Einstein[[1]](#STTwv)qui l'établit en 3 pages seulement (!!!) Il ne fait qu'appliquer l'[Invariance de Lorentz](w:)à l'énergie d'un système masse+particule en écrivant cette énergie dans le référentiel de la masse et dans celui de la particule émise, et voilà !
 

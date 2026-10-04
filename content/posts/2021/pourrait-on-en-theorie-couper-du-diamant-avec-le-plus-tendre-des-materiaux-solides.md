@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Coup de bol, le diamant est conducteur, donc on peut le couper, voire même le percer par
 
-[https://fr.wikipedia.org/wiki/%C...](w:Électro-érosion)
+[Électro-érosion](w:Électro-érosion)
 
 Donc même sans le toucher ! On utilise ce procédé pour rectifier des meules diamantées.
 

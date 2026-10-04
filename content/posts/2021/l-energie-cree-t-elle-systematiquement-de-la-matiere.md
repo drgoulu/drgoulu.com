@@ -15,7 +15,7 @@ L'énergie pure n'existe pas. L'énergie est une grandeur qui se conserve lors d
 
 Quand on dit "e=m.c^2" on dit qu'une masse peut se transformer en particules de masses inférieures mais de plus haute énergie. L'exemple le plus clair est l'annihilation matière/antimatière qui ne produit pas de l'énergie pure, mais des particules à haute énergie. Par exemple l'
 
-[https://fr.wikipedia.org/wiki/An...](w:Annihilation_électron-positron)
+[Annihilation électron-positron](w:Annihilation_électron-positron)
 
 produit deux photons a très exactement 511 keV, qui est l'énergie correspondant à la masse de l'électron et du positron.
 
@@ -23,7 +23,7 @@ L'équation d'Einstein a un signe égal qui dit que l'égalité est valable dans
 
 Donc oui, un photon très énergétique (de plus de 2 x 511 keV) peut "créer" une paire d'électron+positon. Ca arrive dans la nature et dans des accélérateurs de particules.
 
-[https://fr.wikipedia.org/wiki/Cr...](w:Création_de_paires)
+[Création de paires](w:Création_de_paires)
 
 Pour des particules plus compliquées comme le proton, il n'y a actuellement aucune chance que de multiples interactions se produisent juste comme il faut dans un volume assez petit pour former des quarks et des gluons bien comme il faut.
 

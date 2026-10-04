@@ -17,8 +17,8 @@ de plus, les inventions prennent environ 30 ans pour passer du labo scientifique
 
 Je mettrai là dedans:
 
-[https://fr.wikipedia.org/wiki/Ba...](w:Batterie_aluminium-air)
+[Batterie aluminium-air](w:Batterie_aluminium-air)
 
-[https://fr.wikipedia.org/wiki/In...](w:Informatique_quantique)
+[Informatique quantique](w:Informatique_quantique)
 
-[https://fr.wikipedia.org/wiki/Co...](w:Connectome)
+[Connectome](w:Connectome)

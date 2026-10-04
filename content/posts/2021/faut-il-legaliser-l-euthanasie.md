@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Non mais il faut tolérer l'
 
-[https://fr.wikipedia.org/wiki/Ai...](w:Aide_au_suicide)
+[Aide au suicide](w:Aide_au_suicide)
 
 , ce qui est très différent.
 
@@ -21,6 +21,6 @@ On ne peut pas accepter qu'une personne mette fin à la vie d'une autre sans qu'
 
 Ensuite c'est à la justice de décider si un homicide en est un ou pas, comme dans le fameux cas de l'
 
-[https://fr.wikipedia.org/wiki/Af...](w:Affaire_Vincent_Humbert)
+[Affaire Vincent Humbert](w:Affaire_Vincent_Humbert)
 
 Mais en aucun cas il ne faut laisser des politiciens écrire dans la loi ce qui est acceptable ou pas dans ce domaine, il y aura toujours des cas limites et ça ouvre trop la porte à l'eugénisme selon moi.

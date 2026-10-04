@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Le Hamas a remporté à la régulière les dernières
 
-[https://fr.wikipedia.org/wiki/%C...](w:Élections_législatives_palestiniennes_de_2006)
+[Élections législatives palestiniennes de 2006](w:Élections_législatives_palestiniennes_de_2006)

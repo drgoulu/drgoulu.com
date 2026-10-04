@@ -15,7 +15,7 @@ Définissez "en direct".
 
 Si vous voulez dire "sur le
 
-[https://fr.wikipedia.org/wiki/C%...](w:Cône_de_lumière)
+[Cône de lumière](w:Cône_de_lumière)
 
 " alors oui. Si vous voulez dire" sur l'hyperplan du présent "alors non.
 

@@ -16,4 +16,4 @@ coverImage: ./images/quora.png
 
 L'assemblage par implosion est beaucoup plus rapide, ce qui est indispensable pour une bombe au plutonium (je sais pas pourquoi). La bombe de Nagasaki était de ce type là.
 
-[https://fr.wikipedia.org/wiki/Bo...](w:Bombe_A)
+[Bombe A](w:Bombe_A)

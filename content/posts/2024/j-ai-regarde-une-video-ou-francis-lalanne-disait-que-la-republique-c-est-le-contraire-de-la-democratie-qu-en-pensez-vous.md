@@ -17,4 +17,4 @@ Je propose de mesurer le niveau par P*V où P est le nombre de partis représent
 
 En Suisse on a P=11 et V=10 environ…
 
-[https://fr.wikipedia.org/wiki/D%...](w:Démocratie)
+[Démocratie](w:Démocratie)

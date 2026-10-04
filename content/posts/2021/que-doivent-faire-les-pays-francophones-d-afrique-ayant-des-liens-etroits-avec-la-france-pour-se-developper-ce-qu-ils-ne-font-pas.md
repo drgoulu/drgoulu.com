@@ -30,7 +30,7 @@ vous verrez que l'Erythrée, le Rwanda, Djibouti et l'Ethiopie sont dans les top
 
 Mais vous me direz qu'il n'y a pas que le pognon dans la vie, et vous aurez raison. Alors triez la
 
-[https://en.wikipedia.org/wiki/Li...](w:en:List_of_countries_by_Human_Development_Index)
+[List of countries by Human Development Index](w:en:List_of_countries_by_Human_Development_Index)
 
 par croissance de l'[Indice de développement humain](w:), qui intègre aussi l'éducation et l'espérance de vie. Vous allez obtenir ça :
 

@@ -28,6 +28,6 @@ Les photons sont les ondes électromagnétiques, dont la lumière, et vice-versa
 
 Tout ça est résumé dans le
 
-[https://fr.wikipedia.org/wiki/Mo...](w:Modèle_standard_de_la_physique_des_particules)
+[Modèle standard de la physique des particules](w:Modèle_standard_de_la_physique_des_particules)
 
 On recherche activement une mystérieuse "matière noire" qui doit être plus abondante que la matière "normale" pour expliquer certaines observations, mais ne serait pas constituée de ces particules.

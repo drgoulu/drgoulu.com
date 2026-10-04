@@ -18,7 +18,7 @@ coverImage: ./images/qimg-bbf9a171f1cb69ea0f84c7fef8458841.jpg
 
 Grâce aux bulles d'air retrouvées dans les
 
-[https://fr.wikipedia.org/wiki/Ca...](w:Carotte_de_glace)
+[Carotte de glace](w:Carotte_de_glace)
 
 de l'Antarctique. Voilà à quoi ressemble cette glace vers 1837m de profondeur:
 

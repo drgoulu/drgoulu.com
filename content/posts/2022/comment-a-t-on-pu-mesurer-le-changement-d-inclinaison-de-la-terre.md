@@ -13,10 +13,10 @@ coverImage: ./images/quora.png
 
 Historiquement en mesurant la position des étoiles à un moment
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Précession_des_équinoxes)
+[Précession des équinoxes](w:Précession_des_équinoxes)
 
-[https://fr.wikipedia.org/wiki/Po...](w:Point_vernal)
+[Point vernal](w:Point_vernal)
 
-[https://fr.wikipedia.org/wiki/In...](w:Interférométrie_à_très_longue_base)
+[Interférométrie à très longue base](w:Interférométrie_à_très_longue_base)
 
 [https://physics.aps.org/articles...](https://physics.aps.org/articles/v13/115)

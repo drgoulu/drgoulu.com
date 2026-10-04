@@ -20,7 +20,7 @@ Parce qu'elle est là.
 
 (pour paraphraser
 
-[https://fr.wikipedia.org/wiki/Ge...](w:George_Mallory)
+[George Mallory](w:George_Mallory)
 
 )
 

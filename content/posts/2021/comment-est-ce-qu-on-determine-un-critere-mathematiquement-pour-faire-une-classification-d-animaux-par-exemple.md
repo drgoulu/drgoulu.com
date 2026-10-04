@@ -13,10 +13,10 @@ coverImage: ./images/quora.png
 
 En génétique on peut utiliser la
 
-[https://fr.wikipedia.org/wiki/Di...](w:Distance_génétique_(génétique_formelle))
+[Distance génétique (génétique formelle)](w:Distance_génétique_\(génétique_formelle\))
 
 Mais si vous pensez à la reconnaissance d'images, on utilise des méthodes d'apprentissage.
 
-[https://fr.wikipedia.org/wiki/Ap...](w:Apprentissage_automatique)
+[Apprentissage automatique](w:Apprentissage_automatique)
 
 Là on renonce à déterminer le critère chien/chat formellement tellement ça dépend des images utilisées pour l'apprentissage.

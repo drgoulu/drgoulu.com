@@ -22,7 +22,7 @@ Evidemment il y a eu de légères corrections au cours des 150 ans de science qu
 
 La version moderne s'appelle
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorie_synthétique_de_l'évolution)
+[Théorie synthétique de l'évolution](w:Théorie_synthétique_de_l'évolution)
 
 > (ou TSE) est une [théorie](w:) darwinienne de l'[évolution](w:Évolution_(biologie)) basée sur la sélection naturelle de variations aléatoires du génome[1](w:Théorie_synthétique_de_l'évolution). Elle est aussi appelée **synthèse néodarwinienne**, **théorie néodarwinienne de l'évolution** ou plus simplement **néodarwinisme**.
 >
@@ -32,6 +32,6 @@ La version moderne s'appelle
 
 Aujourd'hui il existe des variations ou des compléments de cette théorie comme la
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorie_endosymbiotique)
+[Théorie endosymbiotique](w:Théorie_endosymbiotique)
 
 pour mieux expliquer les "sauts évolutifs" rapides par exemple.

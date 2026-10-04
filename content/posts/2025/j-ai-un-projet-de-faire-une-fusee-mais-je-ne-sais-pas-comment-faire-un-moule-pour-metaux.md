@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/J-ai-un-projet-de-faire-une-fus%C3%A9e-mais-je-ne-sais-pas-comment-faire-un-moule-pour-m%C3%A9taux-Comme-l-aluminium-J-essaie-avec-du-sable-mais-pour-l-instant-il-faut-d-abord-pouvoir-faire-fondre/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Fo...](w:Fonderie_d'aluminium)
+[Fonderie d'aluminium](w:Fonderie_d'aluminium)

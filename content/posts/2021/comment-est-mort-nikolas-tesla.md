@@ -15,4 +15,4 @@ De vieillesse (86 ans) et de maladie (il a souffert de paludisme toute sa vie) a
 
 Vous trouvez toutes ces informations dans
 
-[https://fr.wikipedia.org/wiki/Ni...](w:Nikola_Tesla)
+[Nikola Tesla](w:Nikola_Tesla)

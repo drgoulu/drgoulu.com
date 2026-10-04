@@ -15,7 +15,7 @@ Nos corps ne sont pas conçus pour la Terre, ils ont évolué par la Terre.
 
 Il nous faut une "gravité artificielle", par exemple en faisant tourner un vaisseau cylindrique
 
-[https://fr.wikipedia.org/wiki/Va...](w:Vaisseau_générationnel)
+[Vaisseau générationnel](w:Vaisseau_générationnel)
 
 Ou, vachement plus cool, d'accélérer à 1g
 

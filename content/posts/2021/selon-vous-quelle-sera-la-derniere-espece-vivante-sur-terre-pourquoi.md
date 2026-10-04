@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Une bactérie thermophile dans 1.5 milliard d'années environ, parce que la luminosité du Soleil chauffera trop la surface
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)

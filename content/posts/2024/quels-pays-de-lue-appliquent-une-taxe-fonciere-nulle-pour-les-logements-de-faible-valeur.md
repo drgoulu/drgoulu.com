@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Le système et le taux est très différent selon les pays
 
-[https://fr.wikipedia.org/wiki/Ta...](w:Taxe_foncière)
+[Taxe foncière](w:Taxe_foncière)

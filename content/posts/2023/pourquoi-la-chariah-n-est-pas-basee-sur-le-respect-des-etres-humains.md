@@ -19,4 +19,4 @@ D'ailleurs la Charia n'était pas très différente des lois chrétiennes ou jui
 
 Puis certains ont évolué, et d'autres pas. Ou plutôt ils ont soigneusement choisi les bénéfices de la modernité qui leur permettent de maintenir leur pouvoir.
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Charia)
+[Charia](w:Charia)

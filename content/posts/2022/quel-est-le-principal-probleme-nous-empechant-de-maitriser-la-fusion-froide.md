@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Le fait que, faute d'arriver à reproduire les expériences qui montrent que ça existe, on doit admettre que ça n'existe pas. (ce qui est conforme à la théorie d'ailleurs)
 
-[https://fr.wikipedia.org/wiki/Fu...](w:Fusion_froide)
+[Fusion froide](w:Fusion_froide)
 
 Il y a plus de dix ans, j'avais écrit [Tiède fusion - Pourquoi Comment Combien](/2011/06/11/tiede-fusion/) sur le [Catalyseur d'énergie de Rossi et Focardi — Wikipédia](w:Catalyseur_d'énergie_de_Rossi_et_Focardi) . Je vois les nouvelles sur la [version anglaise](w:en:Energy_Catalyzer) :
 

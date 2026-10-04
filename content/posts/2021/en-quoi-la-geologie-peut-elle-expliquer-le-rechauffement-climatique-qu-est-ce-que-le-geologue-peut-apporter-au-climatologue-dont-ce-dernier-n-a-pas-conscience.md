@@ -25,7 +25,7 @@ Le flux de chaleur provenant de la terre est bien connu, il vaut environ 300 mil
 
 Le rayonnement solaire au sol est de 340 Watt par m2 en moyenne, soit 5600 fois plus.
 
-[https://fr.wikipedia.org/wiki/Co...](w:Constante_solaire)
+[Constante solaire](w:Constante_solaire)
 
 D'autre part, l'augmentation du forçage radiatif anthropique entre 1750 et 2011 est évaluée à 2,29 (1,13 à 3,33) Watt/m2 par le cinquième rapport du [GIEC](w:Groupe_d'experts_intergouvernemental_sur_l'évolution_du_climat), soit près de 4 fois la totalité du flux géothermique
 
@@ -33,4 +33,4 @@ On peut donc quasiment négliger le flux géothermique, qui n'a aucun effet sur 
 
 Par contre la géologie, et plus précisément le volcanisme provoque des périodes (courtes) de refroidissement par l'émission de particules et de SO2 dans l'atmosphère.
 
-[https://fr.wikipedia.org/wiki/Hi...](w:Hiver_volcanique)
+[Hiver volcanique](w:Hiver_volcanique)

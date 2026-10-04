@@ -19,4 +19,4 @@ Non, non et non.
 
 Lisez ça :
 
-[https://fr.wikipedia.org/wiki/Bi...](w:Big_Bang)
+[Big Bang](w:Big_Bang)

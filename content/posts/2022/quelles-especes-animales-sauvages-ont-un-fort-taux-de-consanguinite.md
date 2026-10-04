@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quelles-esp%C3%A8ces-animales-sauvages-ont-un-fort-taux-de-consanguinit%C3%A9/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Gu...](w:Guépard)
+[Guépard](w:Guépard)

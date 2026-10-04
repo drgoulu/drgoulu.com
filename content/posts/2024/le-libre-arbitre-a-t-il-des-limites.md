@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il en a tellement que peut-être qu'il n'existe pas.
 
-[https://fr.wikipedia.org/wiki/Li...](w:Libre_arbitre)
+[Libre arbitre](w:Libre_arbitre)

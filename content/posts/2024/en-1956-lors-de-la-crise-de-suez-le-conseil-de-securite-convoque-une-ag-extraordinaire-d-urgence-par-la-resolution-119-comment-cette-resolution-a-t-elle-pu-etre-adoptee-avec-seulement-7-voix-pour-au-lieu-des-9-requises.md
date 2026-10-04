@@ -16,4 +16,4 @@ Pourquoi 9 ? Il y avait 11 membres du [Conseil de sécurité des Nations unies](
 
 Et deux se sont abstenus (Australie et Belgique) donc la majorité était à 5, et les deux votes contre (UK et France) ne comptaient pas comme veto car c'était un "vote procedural"
 
-[https://fr.wikipedia.org/wiki/R%...](w:Résolution_119_du_Conseil_de_sécurité_des_Nations_unies)
+[Résolution 119 du Conseil de sécurité des Nations unies](w:Résolution_119_du_Conseil_de_sécurité_des_Nations_unies)

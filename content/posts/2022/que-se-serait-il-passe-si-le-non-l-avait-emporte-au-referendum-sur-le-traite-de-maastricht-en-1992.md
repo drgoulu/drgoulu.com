@@ -15,4 +15,4 @@ Regardez le Danemark qui a aussi refusé le traité par référendum, négocié 
 
 Je viens d'y aller, ils ne vont pas plus mal que la France…
 
-[https://fr.wikipedia.org/wiki/R%...](w:Référendum_danois_de_1992)
+[Référendum danois de 1992](w:Référendum_danois_de_1992)

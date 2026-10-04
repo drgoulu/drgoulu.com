@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 et d'où viendrait l'oxygène ?
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Triangle_du_feu)
+[Triangle du feu](w:Triangle_du_feu)

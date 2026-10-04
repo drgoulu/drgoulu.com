@@ -19,4 +19,4 @@ La carrière de Gizeh, juste à côté.
 
 Seuls les matériaux "nobles" de décoration venaient de loin.
 
-[https://fr.wikipedia.org/wiki/Ca...](w:Carrières_de_pierres_dans_l'Égypte_antique)
+[Carrières de pierres dans l'Égypte antique](w:Carrières_de_pierres_dans_l'Égypte_antique)

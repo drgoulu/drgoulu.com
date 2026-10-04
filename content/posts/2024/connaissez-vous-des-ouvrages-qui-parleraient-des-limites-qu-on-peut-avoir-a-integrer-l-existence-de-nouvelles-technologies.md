@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Vous m'avez l'air mur pour la
 
-[https://fr.wikipedia.org/wiki/Si...](w:Singularité_technologique)
+[Singularité technologique](w:Singularité_technologique)
 
 Le livre clé, c'est
 

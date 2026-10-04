@@ -14,7 +14,7 @@ coverImage: ./images/quora.png
 
 On a les idées assez claires sur les
 
-[https://fr.wikipedia.org/wiki/Bi...](w:Biochimies_hypothétiques)
+[Biochimies hypothétiques](w:Biochimies_hypothétiques)
 
 qui pourraient être des alternatives à la chimie du carbone dans l'eau.
 

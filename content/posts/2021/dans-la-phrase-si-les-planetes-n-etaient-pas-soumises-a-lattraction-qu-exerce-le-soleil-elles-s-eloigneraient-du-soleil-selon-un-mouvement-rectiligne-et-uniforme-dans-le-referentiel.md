@@ -15,4 +15,4 @@ Centré sur le soleil.
 
 Le mouvement se définit toujours par rapport à un
 
-[https://fr.wikipedia.org/wiki/R%...](w:Référentiel_(physique))
+[Référentiel (physique)](w:Référentiel_\(physique\))

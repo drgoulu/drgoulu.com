@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Je dirais que le
 
-[https://fr.wikipedia.org/wiki/Pl...](w:Plan_de_partage_de_la_Palestine)
+[Plan de partage de la Palestine](w:Plan_de_partage_de_la_Palestine)
 
 qui a mis fin au mandat britannique créait 2 états, un juif et un arabe, avec un statut particulier pour Jerusalem, et qu'un Etat "Palestinien" a autant le droit d'exister qu'Israël, qui doit se limiter aux territoires prévus par ce plan, éventuellement corrigé par des négociations et traités signés.
 

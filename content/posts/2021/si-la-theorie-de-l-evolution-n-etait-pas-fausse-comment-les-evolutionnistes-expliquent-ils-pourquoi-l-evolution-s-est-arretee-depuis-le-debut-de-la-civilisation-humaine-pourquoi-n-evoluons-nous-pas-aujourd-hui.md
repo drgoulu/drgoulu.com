@@ -25,7 +25,7 @@ qui est très intéressante car elle est différente dans les hauts plateaux Eth
 
 il y a aussi la
 
-[https://fr.wikipedia.org/wiki/In...](w:Intolérance_au_lactose)
+[Intolérance au lactose](w:Intolérance_au_lactose)
 
 On devrait plutôt parler de tolérance au lactose, puisque les populations pratiquant l'élevage pour le lait ont acquis une mutation qui leur permet de continuer à digérer le lait après l'enfance.
 

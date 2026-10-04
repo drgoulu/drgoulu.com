@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Des professeurs en soutane dans un lycée public.
 
-[https://fr.wikipedia.org/wiki/Ly...](w:Lycée-collège_de_l'Abbaye_de_Saint-Maurice)
+[Lycée-collège de l'Abbaye de Saint-Maurice](w:Lycée-collège_de_l'Abbaye_de_Saint-Maurice)

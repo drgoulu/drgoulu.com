@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 On pense que 15 à 20 gènes influent sur la
 
-[https://fr.wikipedia.org/wiki/Co...](w:Couleur_de_la_peau_humaine)
+[Couleur de la peau humaine](w:Couleur_de_la_peau_humaine)
 
 Ca donne des milliers de variations comme le montre cette photographe géniale :
 

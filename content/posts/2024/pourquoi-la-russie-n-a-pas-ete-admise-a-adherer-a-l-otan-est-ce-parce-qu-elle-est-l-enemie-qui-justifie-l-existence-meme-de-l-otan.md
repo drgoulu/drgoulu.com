@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui, et elle l'a démontré en occupant la Crimée en 2014.
 
-[https://fr.wikipedia.org/wiki/Re...](w:Relations_entre_l'OTAN_et_la_Russie)
+[Relations entre l'OTAN et la Russie](w:Relations_entre_l'OTAN_et_la_Russie)

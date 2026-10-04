@@ -23,6 +23,6 @@ C'est encore un sujet de recherche.
 
 L'article en anglais
 
-[https://en.wikipedia.org/wiki/Su...](w:en:Supermassive_black_hole)
+[Supermassive black hole](w:en:Supermassive_black_hole)
 
 est plus détaillé et présentes plus d'hypothèses et de références.

@@ -15,7 +15,7 @@ Lesquels ? Combien ? Pendant combien de temps ? Extérieur ou intérieur (matiè
 
 C'est une domaine très complexe.
 
-[https://fr.wikipedia.org/wiki/Ra...](w:Rayonnement_ionisant)
+[Rayonnement ionisant](w:Rayonnement_ionisant)
 
 vous dira presque tout.
 

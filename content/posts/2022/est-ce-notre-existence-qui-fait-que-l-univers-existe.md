@@ -17,4 +17,4 @@ L'univers n'a que faire de notre minuscule étoile, ses ridicules planètes et l
 
 Des milliards de milliards de milliards d'astres existeront des milliards de milliards de milliards d'années après vous.
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)

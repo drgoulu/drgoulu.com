@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Probablement des
 
-[https://fr.wikipedia.org/wiki/Im...](w:Impacts_sur_la_Lune)
+[Impacts sur la Lune](w:Impacts_sur_la_Lune)

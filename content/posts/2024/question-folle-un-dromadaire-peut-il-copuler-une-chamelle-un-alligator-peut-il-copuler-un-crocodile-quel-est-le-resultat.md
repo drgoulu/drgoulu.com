@@ -24,7 +24,7 @@ Le rejeton s'appelle un [Hybride](w:)et c'est assez courant.
 
 L'hybride du dromadaire et du chameau est le
 
-[https://fr.wikipedia.org/wiki/Tu...](w:Turkoman_(hybride))
+[Turkoman (hybride)](w:Turkoman_\(hybride\))
 
 Plus étonnant, le dromadaire peut faire un petit à une femelle lama, le [Cama](w:Cama_(animal)), parce que les lamas, alpagas, guanacos d'Amérique du Sud sont des camélidés.
 

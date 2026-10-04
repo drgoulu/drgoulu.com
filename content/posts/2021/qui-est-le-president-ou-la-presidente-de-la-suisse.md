@@ -15,4 +15,4 @@ les autres réponses omettent un point important : nos 7 ministres (conseillers 
 
 Il/elle a surtout un rôle de représentation
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Président_de_la_Confédération_suisse)
+[Président de la Confédération suisse](w:Président_de_la_Confédération_suisse)

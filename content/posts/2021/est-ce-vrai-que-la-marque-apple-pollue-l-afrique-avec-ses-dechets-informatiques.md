@@ -15,7 +15,7 @@ Apple ayant vendu des produits neufs à des gens, ce ne sont plus "ses" déchets
 
 La
 
-[https://fr.wikipedia.org/wiki/Co...](w:Convention_de_Bâle)
+[Convention de Bâle](w:Convention_de_Bâle)
 
 interdit l'exportation de déchets dangereux vers les pays en développement.
 

@@ -17,7 +17,7 @@ pour les récentes, on en a vu des spécimen et on en voit plus.
 
 la
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_rouge_de_l'UICN)
+[Liste rouge de l'UICN](w:Liste_rouge_de_l'UICN)
 
 fait une distinction entre les espèces
 

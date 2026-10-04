@@ -20,6 +20,6 @@ Oui, sauf ce qui est contraire aux accords internationaux signés (droits de l'h
 
 Par exemple en Suisse la démocratie directe existe dans certaines communes ([Législatif communal en Suisse](w:)) voire certains cantons, mais seulement sur les sujets locaux.
 
-[https://fr.wikipedia.org/wiki/D%...](w:Démocratie_directe)
+[Démocratie directe](w:Démocratie_directe)
 
 Au niveau fédéral, les pouvoirs législatif et exécutif sont délégués à des élus, mais le peuple conserve un droit de référendum et d'initiative total, sauf si elles sont contraires au droit international.

@@ -11,10 +11,10 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quelles-especes-d-elephants-sont-encore-presentes-%C3%A0-l-%C3%A9tat-sauvage/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/%C...](w:Éléphant_de_savane_d'Afrique)
+[Éléphant de savane d'Afrique](w:Éléphant_de_savane_d'Afrique)
 
-[https://fr.wikipedia.org/wiki/%C...](w:Éléphant_de_forêt_d'Afrique)
+[Éléphant de forêt d'Afrique](w:Éléphant_de_forêt_d'Afrique)
 
-[https://fr.wikipedia.org/wiki/%C...](w:Éléphant_d'Asie)
+[Éléphant d'Asie](w:Éléphant_d'Asie)
 
 [Éléphant — Wikipédia](w:Éléphant)

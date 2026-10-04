@@ -22,6 +22,6 @@ Pour une voiture, on ne cherche surtout pas la portance max, sinon la voiture pe
 
 Pour des ailes ou ailerons, on cherche le meilleur rapport portance /traînée, ce qui conduit à des profils différents en fonction de la vitesse.
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Profil_(aérodynamique))
+[Profil (aérodynamique)](w:Profil_\(aérodynamique\))
 
 Les pales d hélice ont des profils d'aile, souvent évolutifs le long de l hélice pour tenir compte de la différence de vitesse de l air

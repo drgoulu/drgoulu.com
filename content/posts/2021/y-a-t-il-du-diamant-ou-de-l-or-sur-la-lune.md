@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Il y a beaucoup mieux :
 
-[https://fr.wikipedia.org/wiki/H%...](w:Hélium_3)
+[Hélium 3](w:Hélium_3)
 
 100'000 tonnes, à plusieurs milliards de $ la tonne quand on saura l'utiliser. Et ça se ramasse avec un gros aspirateur.

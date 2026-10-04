@@ -17,7 +17,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Un-atome-peut-il-d%C3%A9g%C3%A9n%C3%A9rer/answer/Dr-Goulu)*
 
-"dégénérer" n'est pas le bon mot. Certains isotopes (la plupart en fait…) subissent des [désintégrations radioactives](https://fr.wikipedia.org/w/index.php?title=Désintégration_radioactive) successives jusqu'à ce que leur noyau devienne stable.
+"dégénérer" n'est pas le bon mot. Certains isotopes (la plupart en fait…) subissent des [désintégrations radioactives](w:Désintégration_radioactive) successives jusqu'à ce que leur noyau devienne stable.
 
 Ces désintégrations sont principalement des transformations d'un proton en neutron quand il n'y a pas assez de neutrons dans le noyau, ou de neutron en proton quand il y en a trop. Ce changement du nombre de proton "transmute" donc l'élément chimique en un autre.
 

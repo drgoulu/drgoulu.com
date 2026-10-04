@@ -30,4 +30,4 @@ Un des plus importants est le fossile de [Deinonychus](w:)découvert aux USA en 
 
 Bref, je ne sais pas ce que vous appelez "longtemps", mais un siècle pour passer d'une hypothèse à une théorie solide, c'est assez courant en sciences.
 
-[https://en.wikipedia.org/wiki/Or...](w:en:Origin_of_birds)
+[Origin of birds](w:en:Origin_of_birds)

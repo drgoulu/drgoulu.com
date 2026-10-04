@@ -13,8 +13,8 @@ coverImage: ./images/quora.png
 
 Oui, voir le chapitre "experimentations" de
 
-[https://fr.wikipedia.org/wiki/As...](w:Astrologie)
+[Astrologie](w:Astrologie)
 
 Ainsi que la page
 
-[https://fr.wikipedia.org/wiki/%C...](w:Étude_statistique_de_l'astrologie)
+[Étude statistique de l'astrologie](w:Étude_statistique_de_l'astrologie)

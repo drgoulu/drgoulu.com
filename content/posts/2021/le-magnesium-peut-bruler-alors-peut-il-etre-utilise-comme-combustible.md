@@ -17,4 +17,4 @@ Ca permet d'en faire des [Pile à combustible magnésium-air](w:), en effet.
 
 L'aluminium est une alternative tout aussi efficace, et peut-être moins dangereuse.
 
-[https://fr.wikipedia.org/wiki/Ba...](w:Batterie_aluminium-air)
+[Batterie aluminium-air](w:Batterie_aluminium-air)

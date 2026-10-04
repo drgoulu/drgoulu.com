@@ -15,4 +15,4 @@ Bien pire. Les russes ont perdu 15000 soldats en 10 ans en Afghanistan[[1]](#mxf
 
 Notes de bas de page
 
-[[1]](#cite-mxfms)[https://fr.wikipedia.org/wiki/Gu...](w:Guerre_d'Afghanistan_(1979-1989))
+[[1]](#cite-mxfms)[Guerre d'Afghanistan (1979-1989)](w:Guerre_d'Afghanistan_\(1979-1989\))

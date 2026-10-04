@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 A trouver l' optimum local d'une fonction à N dimensions en descendant itérativement une "pente".
 
-[https://fr.wikipedia.org/wiki/Al...](w:Algorithme_du_gradient)
+[Algorithme du gradient](w:Algorithme_du_gradient)

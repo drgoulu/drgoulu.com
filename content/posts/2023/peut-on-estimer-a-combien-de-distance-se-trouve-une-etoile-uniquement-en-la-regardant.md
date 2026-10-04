@@ -26,4 +26,4 @@ C'est la [Mesure de distance par la parallaxe annuelle](w:Parallaxe) : on mesure
 
 Aujourd'hui on connaît la distance des quelques 8000 étoiles les plus proches par cette méthode.
 
-[https://fr.wikipedia.org/wiki/Me...](w:Mesure_des_distances_en_astronomie)
+[Mesure des distances en astronomie](w:Mesure_des_distances_en_astronomie)

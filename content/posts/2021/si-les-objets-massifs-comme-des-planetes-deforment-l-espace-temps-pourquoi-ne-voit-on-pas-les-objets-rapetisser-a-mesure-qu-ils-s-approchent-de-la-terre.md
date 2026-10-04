@@ -15,7 +15,7 @@ On le voit. Pas avec des objets (mesures pas assez précises) , mais avec la lon
 
 Le
 
-[https://fr.wikipedia.org/wiki/D%...](w:Décalage_d'Einstein)
+[Décalage d'Einstein](w:Décalage_d'Einstein)
 
 a été mesuré la première fois en 1959 lors de l'[expérience de Pound-Rebka](w:) sur une différence d'altitude de 22,6 mètres dans une tour de l'[université Harvard](w:).
 

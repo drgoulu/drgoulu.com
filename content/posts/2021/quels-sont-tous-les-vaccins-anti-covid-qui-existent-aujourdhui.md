@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 à ce jour il y en a 11 commercialisés (phase IV) ou encore en [phase III](w:Essai_clinique), plus 2 en phase de test préclinique et 2 en phases de test I et II , tous listés ici :
 
-[https://fr.wikipedia.org/wiki/Va...](w:Vaccin_contre_la_Covid-19)
+[Vaccin contre la Covid-19](w:Vaccin_contre_la_Covid-19)

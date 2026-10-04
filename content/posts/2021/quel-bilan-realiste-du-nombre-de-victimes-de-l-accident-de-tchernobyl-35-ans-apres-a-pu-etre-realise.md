@@ -22,7 +22,7 @@ Lu quelque part que les estimations varient de 10^2 à 10^6 morts, donc que la m
 
 10^6 (un million…) est le chiffre articulé dans ce livre
 
-[https://en.wikipedia.org/wiki/Ch...](w:en:Chernobyl:_Consequences_of_the_Catastrophe_for_People_and_the_Environment)
+[Chernobyl: Consequences of the Catastrophe for People and the Environment](w:en:Chernobyl:_Consequences_of_the_Catastrophe_for_People_and_the_Environment)
 
 dont je viens de trouver la traduction française en pdf ici [[1]](#DcdVT) .
 

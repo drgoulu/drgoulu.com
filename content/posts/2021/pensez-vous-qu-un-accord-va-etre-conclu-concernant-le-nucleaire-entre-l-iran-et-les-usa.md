@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Un accord a déjà été conclu en 2015
 
-[https://fr.wikipedia.org/wiki/Ac...](w:Accord_de_Vienne_sur_le_nucléaire_iranien)
+[Accord de Vienne sur le nucléaire iranien](w:Accord_de_Vienne_sur_le_nucléaire_iranien)
 
 Trump a unilatéralement dénoncé cet accord en 2018, au grand dam de tous les autres signataires.
 

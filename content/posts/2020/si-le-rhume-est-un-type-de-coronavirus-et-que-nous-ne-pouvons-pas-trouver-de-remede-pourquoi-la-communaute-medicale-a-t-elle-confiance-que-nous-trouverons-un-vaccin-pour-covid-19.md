@@ -22,11 +22,11 @@ Cet article décrit les difficultés de développer un vaccin contre les rhinovi
 
 Pour les [Coronavirus](w:) :
 
-> Sept principaux coronavirus sont généralement cités comme pouvant contaminer l'[humain](w:Homo_sapiens) . Un huitième a été identifié : le [B814](https://fr.wikipedia.org/w/index.php?title=B814&action=edit&redlink=1) (le premier coronavirus humain identifié), mais cette souche semble ne plus circuler.
+> Sept principaux coronavirus sont généralement cités comme pouvant contaminer l'[humain](w:Homo_sapiens) . Un huitième a été identifié : le [B814](w:B814) (le premier coronavirus humain identifié), mais cette souche semble ne plus circuler.
 >
 >
 >
-> Quatre coronavirus en circulation sont considérés comme sans gravité : [229E](https://fr.wikipedia.org/w/index.php?title=Coronavirus_humain_229E&action=edit&redlink=1) [(en)](w:en:Human_coronavirus_229E), [NL63](https://fr.wikipedia.org/w/index.php?title=Coronavirus_humain_NL63&action=edit&redlink=1) [(en)](w:en:Human_coronavirus_NL63), [OC43](https://fr.wikipedia.org/w/index.php?title=Coronavirus_humain_OC43&action=edit&redlink=1) [(en)](w:en:Human_coronavirus_OC43) et [HKU1](https://fr.wikipedia.org/w/index.php?title=Coronavirus_humain_HKU1&action=edit&redlink=1) [(en)](w:en:Human_coronavirus_HKU1). Ils seraient la cause de 15 à 30 % des rhumes courants.
+> Quatre coronavirus en circulation sont considérés comme sans gravité : [229E](w:Coronavirus_humain_229E) [(en)](w:en:Human_coronavirus_229E), [NL63](w:Coronavirus_humain_NL63) [(en)](w:en:Human_coronavirus_NL63), [OC43](w:Coronavirus_humain_OC43) [(en)](w:en:Human_coronavirus_OC43) et [HKU1](w:Coronavirus_humain_HKU1) [(en)](w:en:Human_coronavirus_HKU1). Ils seraient la cause de 15 à 30 % des rhumes courants.
 >
 >
 >

@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 La réponse dépend beaucoup de ce que vous appelez
 
-[https://fr.wikipedia.org/wiki/In...](w:Intelligence)
+[Intelligence](w:Intelligence)
 
 mais les mouches sont capables d'apprendre, donc oui, elles ont une "intelligence".
 

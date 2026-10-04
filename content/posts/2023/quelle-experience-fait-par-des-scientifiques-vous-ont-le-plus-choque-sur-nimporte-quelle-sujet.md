@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quelle-exp%C3%A9rience-fait-par-des-scientifiques-vous-ont-le-plus-choqu%C3%A9-sur-n-importe-quelle-sujet/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Ex...](w:Expérience_de_Milgram)
+[Expérience de Milgram](w:Expérience_de_Milgram)
 
 Cette expérience "explique" beaucoup d'autres "expériences" éthiquement indéfendables par le comportement humain.
 

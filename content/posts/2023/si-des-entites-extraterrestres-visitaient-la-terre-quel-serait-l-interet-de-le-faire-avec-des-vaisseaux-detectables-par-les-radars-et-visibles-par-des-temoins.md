@@ -32,4 +32,4 @@ Plus sérieusement :
 
 encore plus sérieusement
 
-[https://fr.wikipedia.org/wiki/La...](w:La_Forêt_sombre)
+[La Forêt sombre](w:La_Forêt_sombre)

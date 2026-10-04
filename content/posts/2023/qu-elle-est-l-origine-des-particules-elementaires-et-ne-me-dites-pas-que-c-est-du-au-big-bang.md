@@ -15,4 +15,4 @@ Pourquoi on ne doit pas vous dire que c est dû au Big Bang ?
 
 Le Big Bang n'est pas un événement, c'est un processus
 
-[https://fr.wikipedia.org/wiki/Hi...](w:Histoire_et_chronologie_de_l'Univers)
+[Histoire et chronologie de l'Univers](w:Histoire_et_chronologie_de_l'Univers)

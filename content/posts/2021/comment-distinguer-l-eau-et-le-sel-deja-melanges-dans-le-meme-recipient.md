@@ -15,6 +15,6 @@ En evaporant l'eau,
 
 Ou par
 
-[https://fr.wikipedia.org/wiki/Os...](w:Osmose_inverse)
+[Osmose inverse](w:Osmose_inverse)
 
 Ou des réactions chimiques qui captureraient les ions Na et Cl du sel.

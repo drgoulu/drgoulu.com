@@ -15,4 +15,4 @@ coverImage: ./images/quora.png
 
 Ne gaspillez pas votre temps ou votre argent, "naturopathe" n'est pas un titre protégé, n'importe qui peut s'intituler "naturopathe" et même "formateur en naturopathie", l'important est de n'avoir aucun scrupule à escroquer autrui avec une pseudo science
 
-[https://fr.wikipedia.org/wiki/Na...](w:Naturopathie)
+[Naturopathie](w:Naturopathie)

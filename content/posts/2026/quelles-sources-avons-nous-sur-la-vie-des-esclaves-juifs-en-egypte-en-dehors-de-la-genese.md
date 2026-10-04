@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il n'y avait pas d'esclaves du tout en Egypte antique au sens (gréco-romain) où nous l'entendons.
 
-[https://fr.wikipedia.org/wiki/Se...](w:Servitude_dans_l'Égypte_antique)
+[Servitude dans l'Égypte antique](w:Servitude_dans_l'Égypte_antique)

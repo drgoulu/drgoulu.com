@@ -19,7 +19,7 @@ Ce n'est pas le seul invariant, il y a aussi le moment cinetique, la quantité d
 
 Et tous sont unis dans un seul théorème, un "monument de la pensée mathématiques" comme l a appelé Einstein, le
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorème_de_Noether_(physique))
+[Théorème de Noether (physique)](w:Théorème_de_Noether_\(physique\))
 
 Bref : l'énergie pure n'existe pas.
 

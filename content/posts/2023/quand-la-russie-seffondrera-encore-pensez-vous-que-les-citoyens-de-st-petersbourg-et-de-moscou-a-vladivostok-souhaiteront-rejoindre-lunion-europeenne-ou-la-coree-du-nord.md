@@ -15,4 +15,4 @@ La vraie question est de savoir si les citoyens russes auront le droit de souhai
 
 L 'URSS 2.0 a clairement choisi son camp en adhérant à l'
 
-[https://fr.wikipedia.org/wiki/Or...](w:Organisation_de_coopération_de_Shanghai)
+[Organisation de coopération de Shanghai](w:Organisation_de_coopération_de_Shanghai)

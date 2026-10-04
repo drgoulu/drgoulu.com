@@ -17,7 +17,7 @@ Ensuite il faudrait distinguer votre offre de celles des très nombreuses religi
 
 Après, il faudrait corriger la page
 
-[https://fr.wikipedia.org/wiki/Pe...](w:Pensée_positive)
+[Pensée positive](w:Pensée_positive)
 
 Qui qualifie votre mouvement de pseudo-science ayant des effets négatifs sur certaines personnes selon certaines études.
 

@@ -24,4 +24,4 @@ Quand vous lancez un nouveau produit, vous avez tout intérêt à fixer un prix 
 
 Si vous démarrez avec un prix trop bas, c'est très difficile de l'augmenter ensuite.
 
-[https://fr.wikipedia.org/wiki/Of...](w:Offre_et_demande)
+[Offre et demande](w:Offre_et_demande)

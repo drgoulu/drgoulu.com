@@ -17,7 +17,7 @@ Ceci est évidemment automatisé pour les montres produites industriellement, ou
 
 Les "timegraphers" sont étalonnés une fois par mois environ en utilisant une horloge de référence de laboratoire, généralement à quartz, elle même étalonnée régulièrement par rapport à une horloge atomique disponible dans tout bon institut de métrologie.
 
-[https://fr.wikipedia.org/wiki/Ho...](w:Horloge_atomique)
+[Horloge atomique](w:Horloge_atomique)
 
 Peut être même que ça peut se faire à distance maintenant en utilisant un service réseau comne
 

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Aluminium
 
-[https://fr.wikipedia.org/wiki/Ab...](w:Abondance_des_éléments_dans_la_croûte_terrestre)
+[Abondance des éléments dans la croûte terrestre](w:Abondance_des_éléments_dans_la_croûte_terrestre)

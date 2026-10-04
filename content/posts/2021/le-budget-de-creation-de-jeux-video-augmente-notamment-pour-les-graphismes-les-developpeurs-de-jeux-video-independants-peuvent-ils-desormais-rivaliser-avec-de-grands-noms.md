@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Quand on voit que
 
-[https://fr.wikipedia.org/wiki/Va...](w:Valheim)
+[Valheim](w:Valheim)
 
 a été développé par une équipe de 5 personnes, je dirais oui.

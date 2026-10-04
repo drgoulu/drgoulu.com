@@ -14,7 +14,7 @@ coverImage: ./images/quora.png
 En complément des autres réponses, "on" y est retournés plusieurs fois depuis 1972[[1]](#INaEd)
 
 - 18 août 1976, [Union soviétique](w:Union_des_républiques_socialistes_soviétiques) : [Luna 24](w:) dernière mission russe sur la Lune, avec retour réussi d'échantillons lunaires sur Terre.
-- 14 novembre 2008, [Inde](w:) : l'impacteur [Moon Impact Probe](https://fr.wikipedia.org/w/index.php?title=Moon_Impact_Probe&action=edit&redlink=1), élément de la sonde indienne [Chandrayaan-1](w:), s'écrase comme prévu sur la Lune.
+- 14 novembre 2008, [Inde](w:) : l'impacteur [Moon Impact Probe](w:Moon_Impact_Probe), élément de la sonde indienne [Chandrayaan-1](w:), s'écrase comme prévu sur la Lune.
 - 14 décembre 2013, [Chine](w:) : le rover d'exploration Yutu, élément de la sonde chinoise [Chang'e 3](w:), se pose sur la Lune.
 - 3 janvier 2019, [Chine](w:) : la sonde chinoise [Chang'e 4](w:) se pose sur la [face cachée de la Lune](w:).
 - 1er décembre 2020, [Chine](w:) : [Chang'e 5](w:) se pose sur la lune dans le but de [récupérer des échantillons](w:Programme_chinois_d'exploration_lunaire) du [sol lunaire](w:).

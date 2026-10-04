@@ -18,11 +18,11 @@ coverImage: ./images/quora.png
 
 [Cosmologie non standard # Cosmologie du plasma — Wikipédia](w:Cosmologie_non_standard) :
 
-> Selon [Anthony L. Peratt](https://fr.wikipedia.org/w/index.php?title=Anthony_L._Peratt&action=edit&redlink=1) [(en)](w:en:Anthony_L._Peratt), physicien américain de la [physique des plasmas](w:) et de la [fusion nucléaire](w:), la [cosmologie](w:) du [plasma](w:Plasma_astrophysique) (*Plasma Astrophysics and Cosmology*) a fêté le centenaire de sa fondation en 1996 et ses origines peuvent être attribuées à la recherche fondamentale publiée pour la première fois par [Kristian Birkeland](w:) en 1896
+> Selon [Anthony L. Peratt](w:Anthony_L._Peratt) [(en)](w:en:Anthony_L._Peratt), physicien américain de la [physique des plasmas](w:) et de la [fusion nucléaire](w:), la [cosmologie](w:) du [plasma](w:Plasma_astrophysique) (*Plasma Astrophysics and Cosmology*) a fêté le centenaire de sa fondation en 1996 et ses origines peuvent être attribuées à la recherche fondamentale publiée pour la première fois par [Kristian Birkeland](w:) en 1896
 >
 >
 >
-> Ce [paradigme](w:) cosmologique a été soutenu par le [Prix Nobel de physique](w:) [Hannes Alfvén](w:) qui l'a nommé « [*Plasma cosmology*](https://fr.wikipedia.org/w/index.php?title=Cosmologie_du_plasma&action=edit&redlink=1)[*(en)*](w:en:Plasma_cosmology) ». La principale caractéristique de son approche est d'affirmer que les phénomènes de nature [électromagnétique](w:Électromagnétisme) jouent un rôle d'égale importance que celle de la [gravitation](w:) dans la structuration de l'univers à grande échelle
+> Ce [paradigme](w:) cosmologique a été soutenu par le [Prix Nobel de physique](w:) [Hannes Alfvén](w:) qui l'a nommé « [*Plasma cosmology*](w:Cosmologie_du_plasma)[*(en)*](w:en:Plasma_cosmology) ». La principale caractéristique de son approche est d'affirmer que les phénomènes de nature [électromagnétique](w:Électromagnétisme) jouent un rôle d'égale importance que celle de la [gravitation](w:) dans la structuration de l'univers à grande échelle
 >
 >
 >

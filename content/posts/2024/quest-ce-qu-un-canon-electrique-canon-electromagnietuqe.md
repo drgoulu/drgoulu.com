@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Un truc qu'on trouve avec Google
 
-[https://fr.wikipedia.org/wiki/Ca...](w:Canon_électrique)
+[Canon électrique](w:Canon_électrique)

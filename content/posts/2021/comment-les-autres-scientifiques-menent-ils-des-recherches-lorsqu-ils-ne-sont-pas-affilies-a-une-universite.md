@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Dans les entreprises. En France, la recherche privée représente 63% de la recherche, 70% en Suisse.
 
-[https://fr.wikipedia.org/wiki/St...](w:Statistiques_mondiales_de_recherche_et_développement)
+[Statistiques mondiales de recherche et développement](w:Statistiques_mondiales_de_recherche_et_développement)

@@ -30,4 +30,4 @@ Les éléments actuels (et définitifs) sont donc le résultat de plusieurs gén
 
 Il a fallu 13.8 milliards d'années pour produire 2% d'autre chose que de l'hydrogène ou de l'hélium.
 
-[https://fr.wikipedia.org/wiki/Ab...](w:Abondance_des_éléments_chimiques)
+[Abondance des éléments chimiques](w:Abondance_des_éléments_chimiques)

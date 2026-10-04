@@ -17,6 +17,6 @@ L'[Intelligence animale](w:)est un bon exemple de [Convergence évolutive](w:): 
 
 Pour la conscience de soi il y a le
 
-[https://fr.wikipedia.org/wiki/Te...](w:Test_du_miroir)
+[Test du miroir](w:Test_du_miroir)
 
 mais pour la conscience tout court ? Comment pouvez-vous me prouver que vous en avez une, vous ?

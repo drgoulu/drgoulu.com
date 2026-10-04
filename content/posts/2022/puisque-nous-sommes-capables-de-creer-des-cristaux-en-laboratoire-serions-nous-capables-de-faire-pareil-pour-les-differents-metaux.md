@@ -24,4 +24,4 @@ Les métaux cristallisent naturellement, votre petite cuillère est constituée 
 
 Avec les métaux, la difficulté est plutôt qu'ils ne cristallisent pas. Et ça on sait le faire encore mieux que la nature, car il faut un refroidissement extrêmement rapide
 
-[https://fr.wikipedia.org/wiki/Al...](w:Alliage_métallique_amorphe)
+[Alliage métallique amorphe](w:Alliage_métallique_amorphe)

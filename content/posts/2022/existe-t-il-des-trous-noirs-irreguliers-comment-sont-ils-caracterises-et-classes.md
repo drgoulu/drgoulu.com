@@ -19,4 +19,4 @@ un trou noir est entièrement caractérisé par 3 valeurs seulement:
 
 C'est tout. C'est comme une particule : masse, spin, charge, et c'est tout.
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Trou_noir)
+[Trou noir](w:Trou_noir)

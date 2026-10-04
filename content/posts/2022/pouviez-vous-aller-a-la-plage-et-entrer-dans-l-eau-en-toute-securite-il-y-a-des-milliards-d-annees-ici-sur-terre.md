@@ -24,8 +24,8 @@ Avant ça, il n'y avait que des organismes unicellulaires encore plus simples co
 
 En principe aucun danger pour se baigner.
 
-[https://fr.wikipedia.org/wiki/Hi...](w:Histoire_évolutive_du_vivant)
+[Histoire évolutive du vivant](w:Histoire_évolutive_du_vivant)
 
 Le problème aurait plutôt été de respirer parce qu'il y avait très peu d'oxygène dans l'air avant un milliard d'années
 
-[https://fr.wikipedia.org/wiki/Gr...](w:Grande_Oxydation)
+[Grande Oxydation](w:Grande_Oxydation)

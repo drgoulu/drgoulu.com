@@ -20,7 +20,7 @@ Outre les lentilles gravitationnelles mentionnées dans les autres réponses, il
 
 Un autre phénomène est aussi important, le
 
-[https://fr.wikipedia.org/wiki/D%...](w:Décalage_d'Einstein)
+[Décalage d'Einstein](w:Décalage_d'Einstein)
 
 Car il peut être "facilement" mesuré aujourd'hui au sol, entre le haut et le bas d'un petit immeuble, mais surtout parce que :
 

@@ -15,4 +15,4 @@ C'est quand même fou ce qu'on trouve en cherchant un peu :
 
 > Dans la culture [aymarane](w:Aymara_(peuple)), les **fœtus de lamas** sont des porte-bonheur particulièrement recherchés, utilisés comme offrande à la déesse-terre [Pachamama](w:).
 
-[https://fr.wikipedia.org/wiki/F%...](w:Fœtus_de_lama)
+[Fœtus de lama](w:Fœtus_de_lama)

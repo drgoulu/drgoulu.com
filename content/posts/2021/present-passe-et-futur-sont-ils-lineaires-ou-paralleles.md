@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 côniques.
 
-[https://fr.wikipedia.org/wiki/C%...](w:Cône_de_lumière)
+[Cône de lumière](w:Cône_de_lumière)

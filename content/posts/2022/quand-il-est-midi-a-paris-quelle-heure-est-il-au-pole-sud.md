@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 L'heure officielle au pôle sud est celle de la Nouvelle Zélande.
 
-[https://fr.wikipedia.org/wiki/He...](w:Heure_en_Antarctique)
+[Heure en Antarctique](w:Heure_en_Antarctique)

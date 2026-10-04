@@ -17,7 +17,7 @@ D'autre part le squelette des oiseaux a plein de particularités qu'on ne retrou
 
 Voilà de la lecture:
 
-[https://fr.wikipedia.org/wiki/Hi...](w:Histoire_évolutive_des_oiseaux)
+[Histoire évolutive des oiseaux](w:Histoire_évolutive_des_oiseaux)
 
 Et aussi des images de fossiles :
 

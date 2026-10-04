@@ -15,4 +15,4 @@ Bienvenue dans le monde merveilleux de la relativité.
 
 La notion fondamentale pour résoudre le "paradoxe" est le
 
-[https://fr.wikipedia.org/wiki/C%...](w:Cône_de_lumière)
+[Cône de lumière](w:Cône_de_lumière)

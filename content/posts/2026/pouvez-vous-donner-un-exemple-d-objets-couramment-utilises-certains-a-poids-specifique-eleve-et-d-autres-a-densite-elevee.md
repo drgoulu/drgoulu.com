@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ce sont les mêmes, au facteur g constant près
 
-[https://fr.wikipedia.org/wiki/Po...](w:Poids_spécifique)
+[Poids spécifique](w:Poids_spécifique)

@@ -15,4 +15,4 @@ coverImage: ./images/qimg-904f252c2953a49d211f829fa5e8bc2b.jpg
 
 > Une roche du Wyoming (États-Unis), avec une couche intermédiaire d'argile qui contient 1 000 fois plus d'[iridium](w:) que les couches supérieures et inférieures ; photo prise au musée d'histoire naturelle de San Diego.
 
-[https://fr.wikipedia.org/wiki/Ex...](w:Extinction_Crétacé-Paléogène)
+[Extinction Crétacé-Paléogène](w:Extinction_Crétacé-Paléogène)

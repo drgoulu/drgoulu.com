@@ -22,7 +22,7 @@ Ce sera le cas dans environ 2 milliards d'années. L'évolution du [Soleil](w:)p
 
 Selon
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)
 
 ça posera un problème bien avant, dans un milliard d'années déjà :
 

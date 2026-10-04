@@ -19,7 +19,7 @@ Dans le cas que vous mentionnez , vous trouvez :
 
 L'auteur initial est donc
 
-[https://fr.wikipedia.org/wiki/Ut...](w:Utilisateur:ADM)
+[Utilisateur:ADM](w:Utilisateur:ADM)
 
 un québécois . Il tient une liste de ses [contributions](w:Utilisateur:ADM/contributions)où on voit qu'il traite surtout de personnalités québécoises et de sciences.
 

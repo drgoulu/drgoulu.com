@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 C'est l'idée mais une telle "étoile" aurait des caractéristiques particulières, notamment au niveau du spectre de la lumière émise, et on en a découvert aucune.
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Trou_blanc)
+[Trou blanc](w:Trou_blanc)

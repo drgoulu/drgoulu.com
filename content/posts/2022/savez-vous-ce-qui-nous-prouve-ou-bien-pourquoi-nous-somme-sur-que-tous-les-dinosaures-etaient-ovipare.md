@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Plein de fossiles d'œufs de dinosaures dont certains ont les petits dedans, ce qui a permis d'identifier l'espèce et d'apprendre plein de choses.
 
-[https://fr.wikipedia.org/wiki/%C...](w:Œuf_de_dinosaure)
+[Œuf de dinosaure](w:Œuf_de_dinosaure)

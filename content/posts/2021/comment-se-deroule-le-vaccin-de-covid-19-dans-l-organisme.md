@@ -24,7 +24,7 @@ lequel ?
 >
 > - deux [vaccins à ARN](w:Vaccin_à_ARN) par [Pfizer-BioNTech](w:Tozinaméran) et [Moderna](w:MRNA-1273),
 > - quatre [vaccins à vecteur viral](w:Vecteur_viral) : [Sputnik V](w:Gam-COVID-Vac), [vaccin Oxford–AstraZeneca](w:Vaccin_d'AstraZeneca-Oxford_contre_la_Covid-19), [Convidecia](w:Ad5-nCoV) et [vaccin Johnson & Johnson](w:Ad26.COV2.S)
-> - cinq [vaccins à virus inactivé](w:Virus_inactivé) : [BBIBP-Corv](w:), [CoronaVac](w:), [Covaxin](w:BBV152), [WIBP-CorV](https://fr.wikipedia.org/w/index.php?title=WIBP-CorV&action=edit&redlink=1) et [CoviVac](w:)
+> - cinq [vaccins à virus inactivé](w:Virus_inactivé) : [BBIBP-Corv](w:), [CoronaVac](w:), [Covaxin](w:BBV152), [WIBP-CorV](w:WIBP-CorV) et [CoviVac](w:)
 > - deux [vaccins de sous-unité protéique](w:Sous-unité_protéique) : [EpiVacCorona](w:) et [RBD-Dimer](w:ZF2001).
 
-[https://fr.wikipedia.org/wiki/Va...](w:Vaccin_contre_la_Covid-19)
+[Vaccin contre la Covid-19](w:Vaccin_contre_la_Covid-19)

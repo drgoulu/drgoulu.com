@@ -20,4 +20,4 @@ Mais on doit souvent monter si haut dans la hiérarchie qu'on préfère mettre l
 
 Donc ça marche mieux avec une hiérarchie plate.
 
-[https://fr.wikipedia.org/wiki/Ci...](w:Cinq_pourquoi)
+[Cinq pourquoi](w:Cinq_pourquoi)

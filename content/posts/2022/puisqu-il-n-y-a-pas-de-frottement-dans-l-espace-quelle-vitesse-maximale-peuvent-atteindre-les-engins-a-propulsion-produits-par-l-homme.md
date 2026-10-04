@@ -17,4 +17,4 @@ A des vitesses relativistes, ça n'est plus négligeable (mais je cherche toujou
 
 1/10ème de la vitesse de la lumière me paraît pifométriquement envisageable. D'ailleurs c'est envisagé par le projet
 
-[https://fr.wikipedia.org/wiki/Br...](w:Breakthrough_Starshot)
+[Breakthrough Starshot](w:Breakthrough_Starshot)

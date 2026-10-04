@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Qu-est-ce-que-le-RIC-le-R%C3%A9f%C3%A9rundum-d-initiative-Citoyenne-dont-on-parle-tant/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/R%...](w:Référendum_d'initiative_citoyenne)
+[Référendum d'initiative citoyenne](w:Référendum_d'initiative_citoyenne)

@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Ils sont extrêmement difficiles puisqu'ils résistent au mathématiciens depuis des décennies mais ce dont aussi des problèmes importants du point de vue des applications en physique (Yang-Mills), en informatique (P=NP) voire en ingénierie (Navier-Stokes)
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Problèmes_du_prix_du_millénaire)
+[Problèmes du prix du millénaire](w:Problèmes_du_prix_du_millénaire)
 
 Il y a certainement d'autres problèmes tout aussi difficiles voire plus, mais il n'y a pas encore de fondation qui offre un million pour les résoudre.
 

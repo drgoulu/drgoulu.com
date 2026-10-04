@@ -20,15 +20,15 @@ oui, il est sur Wikipédia :-)
 
 Commencez là :
 
-[https://fr.wikipedia.org/wiki/Ai...](w:Aide:Débuter/Tutoriel)
+[Aide:Débuter/Tutoriel](w:Aide:Débuter/Tutoriel)
 
 puis ici :
 
-[https://fr.wikipedia.org/wiki/Ai...](w:Aide:Débuter)
+[Aide:Débuter](w:Aide:Débuter)
 
 et là :
 
-[https://fr.wikipedia.org/wiki/Ai...](w:Aide:Accueil)
+[Aide:Accueil](w:Aide:Accueil)
 
 Commencez par faire de petites corrections de fautes de grammaire, ou clarifiez certains passages sans en changer de sens. Puis essayez d'ajouter des références que vous connaissez là où elles sont demandées, ou des images dont vous avez les droits (= dont vous êtes auteur).
 

@@ -18,8 +18,8 @@ coverImage: ./images/quora.png
 
 Oui [Evelyne D](https://fr.quora.com/profile/Evelyne-D-4), c’est sur [Saveur (physique) — Wikipédia](w:Saveur_(physique)):
 
-> Le terme « saveur» aurait été trouvé lorsque [Murray Gell-Mann](w:) et [Harald Fritzsch](https://fr.wikipedia.org/w/index.php?title=Harald_Fritzsch&action=edit&redlink=1), allant prendre leur lunch, seraient passés devant la célèbre publicité de [Baskin-Robbins](w:) vantant son offre de 31 saveurs différentes de crème glacée.
+> Le terme « saveur» aurait été trouvé lorsque [Murray Gell-Mann](w:) et [Harald Fritzsch](w:Harald_Fritzsch), allant prendre leur lunch, seraient passés devant la célèbre publicité de [Baskin-Robbins](w:) vantant son offre de 31 saveurs différentes de crème glacée.
 >
 >
 >
-> Gell-Mann, dans son ouvrage '[*Le Quark et le Jaguar*](https://fr.wikipedia.org/w/index.php?title=Le_Quark_et_le_Jaguar&action=edit&redlink=1), a écrit « On dit que le [u](w:Quark_up) et le [d](w:Quark_down) ont des « saveurs » de quarks différentes. Outre la saveur, les quarks ont une autre propriété, encore plus importante, qui porte le nom de « [couleur](w:Couleur_(physique_des_particules)) », bien qu’elle n’ait dans ce contexte pas plus à voir avec une couleur réelle que la saveur avec les parfums des crèmes glacées ».
+> Gell-Mann, dans son ouvrage '[*Le Quark et le Jaguar*](w:Le_Quark_et_le_Jaguar), a écrit « On dit que le [u](w:Quark_up) et le [d](w:Quark_down) ont des « saveurs » de quarks différentes. Outre la saveur, les quarks ont une autre propriété, encore plus importante, qui porte le nom de « [couleur](w:Couleur_(physique_des_particules)) », bien qu’elle n’ait dans ce contexte pas plus à voir avec une couleur réelle que la saveur avec les parfums des crèmes glacées ».

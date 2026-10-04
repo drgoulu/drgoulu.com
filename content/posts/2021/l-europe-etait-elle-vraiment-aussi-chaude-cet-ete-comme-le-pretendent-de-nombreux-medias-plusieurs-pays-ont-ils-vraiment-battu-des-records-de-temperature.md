@@ -24,7 +24,7 @@ Et record mondial battu à la vallée de la mort, usa : 54.4[[3]](#gYmCu)
 
 Et les 9 années les plus chaudes en moyenne jamais enregistrées sont entre 2010 et 2020
 
-[https://fr.wikipedia.org/wiki/Re...](w:Records_de_température_sur_Terre)
+[Records de température sur Terre](w:Records_de_température_sur_Terre)
 
 Mais on fera mieux l'année prochaine ou celle d'après.
 

@@ -19,4 +19,4 @@ Fin des travaux:
 - [1912](w:) (achèvement du campanile)
 - [1923](w:) (fin de la construction)
 
-[https://fr.wikipedia.org/wiki/Ba...](w:Basilique_du_Sacré-Cœur_de_Montmartre)
+[Basilique du Sacré-Cœur de Montmartre](w:Basilique_du_Sacré-Cœur_de_Montmartre)

@@ -23,4 +23,4 @@ Le christianisme se serait éteint comme les nombreuses autres sectes messianiqu
 
 Notes de bas de page
 
-[[1]](#cite-bwujv)[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_prétendants_juifs_à_la_messianité)
+[[1]](#cite-bwujv)[Liste des prétendants juifs à la messianité](w:Liste_des_prétendants_juifs_à_la_messianité)

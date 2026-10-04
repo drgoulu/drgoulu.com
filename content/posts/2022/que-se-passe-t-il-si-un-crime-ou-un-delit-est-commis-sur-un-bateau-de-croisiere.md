@@ -15,4 +15,4 @@ Si ça se passe dans les eaux territoriales d'un pays, c est à la police + just
 
 Dans les eaux internationales, c est le pays du pavillon du bateau. Et malheureusement le commissaire de bord n est pas Hercule Poirot mais un employé de la compagnie, qui a tout intérêt à étouffer l'affaire.
 
-[https://fr.wikipedia.org/wiki/Dr...](w:Droit_de_la_mer)
+[Droit de la mer](w:Droit_de_la_mer)

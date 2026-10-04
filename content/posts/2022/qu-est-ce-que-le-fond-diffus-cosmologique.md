@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 un truc qu'on trouve sur Wikipédia via Google
 
-[https://fr.wikipedia.org/wiki/Fo...](w:Fond_diffus_cosmologique)
+[Fond diffus cosmologique](w:Fond_diffus_cosmologique)
 
 donc qui vaut un downvote de la question et un questionneur caché de plus.

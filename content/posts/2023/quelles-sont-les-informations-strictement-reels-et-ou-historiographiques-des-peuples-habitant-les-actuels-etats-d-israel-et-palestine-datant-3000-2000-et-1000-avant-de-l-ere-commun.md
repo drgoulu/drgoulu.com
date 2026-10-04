@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Article très intéressant
 
-[https://fr.wikipedia.org/wiki/Pe...](w:Peuplement_des_hautes_terres_par_les_Israélites)
+[Peuplement des hautes terres par les Israélites](w:Peuplement_des_hautes_terres_par_les_Israélites)
 
 En gros, on se sait pas, il y a plusieurs hypothèses.

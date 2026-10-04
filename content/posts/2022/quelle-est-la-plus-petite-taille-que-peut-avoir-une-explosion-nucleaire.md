@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 La plus petite arme nucléaire réalisée est le lance-roquette
 
-[https://fr.wikipedia.org/wiki/Da...](w:Davy_Crockett_(arme_nucléaire))
+[Davy Crockett (arme nucléaire)](w:Davy_Crockett_\(arme_nucléaire\))
 
 qui tirait à 4km max (!!) des pruneaux de 34 kg d'une puissance de 10 ou de 20 tonnes de TNT
 

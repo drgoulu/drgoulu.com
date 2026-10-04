@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui, si a et b sont pairs, et b>2 pour éviter le 2 quand x=0.
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorie_des_nombres)
+[Théorie des nombres](w:Théorie_des_nombres)

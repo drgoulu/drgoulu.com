@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Parce que les enfants ne meurent plus en bas âge.
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Transition_démographique)
+[Transition démographique](w:Transition_démographique)
 
 Dans les pays riches, cette transition a eu lieu au siècle passé, en Afrique c'est maintenant.

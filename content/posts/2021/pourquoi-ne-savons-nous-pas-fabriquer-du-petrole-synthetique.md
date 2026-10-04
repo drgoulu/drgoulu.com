@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 On sait. Mais ça consomme plus d'énergie que ce que le carburant produira en brûlant. Et c'est donc bien plus cher que le pétrole naturel.
 
-[https://fr.wikipedia.org/wiki/Es...](w:Essence_synthétique)
+[Essence synthétique](w:Essence_synthétique)

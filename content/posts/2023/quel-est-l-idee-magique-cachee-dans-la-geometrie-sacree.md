@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Une deconnade de philosophe de plus, en l'occurrence Platon.
 
-[https://fr.wikipedia.org/wiki/G%...](w:Géométrie_sacrée)
+[Géométrie sacrée](w:Géométrie_sacrée)

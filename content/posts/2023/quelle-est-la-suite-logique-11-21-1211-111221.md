@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quelle-est-la-suite-logique-11-21-1211-111221/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Su...](w:Suite_de_Conway)
+[Suite de Conway](w:Suite_de_Conway)

@@ -28,7 +28,7 @@ Dans l'article ci-dessus, on présente une nouvelle version [AlphaGo Zero](w:) q
 
 [AlphaZero](w:)est un programme identique, mais non spécifique au go. On peut simplement lui programmer les règles d'un jeu, et il apprend tout seul à jouer, contre lui même.
 
-> Selon DeepMind, **AlphaZero a atteint en 24 heures un niveau de jeu supérieur aux humains au jeu d'échecs, au shogi et au go** en battant les programmes champions du monde [Stockfish](w:Stockfish_(programme_d'échecs)) (échecs), [Elmo](https://fr.wikipedia.org/w/index.php?title=Elmo_(programme_de_shogi)&action=edit&redlink=1) (shogi) et la version d’AlphaGo Zero ayant eu trois jours d'apprentissage.
+> Selon DeepMind, **AlphaZero a atteint en 24 heures un niveau de jeu supérieur aux humains au jeu d'échecs, au shogi et au go** en battant les programmes champions du monde [Stockfish](w:Stockfish_(programme_d'échecs)) (échecs), [Elmo](w:Elmo_\(programme_de_shogi\)) (shogi) et la version d’AlphaGo Zero ayant eu trois jours d'apprentissage.
 >
 >
 >

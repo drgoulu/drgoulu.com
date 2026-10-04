@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Non.
 
-[https://en.wikipedia.org/wiki/(2...](w:en:(231937)_2001_FO32)
+[(231937) 2001 FO32](w:en:\(231937\)_2001_FO32)
 
 passera a 2 millions de kilomètres, soit 5 fois plus loin que la Lune. C'est carrément honteux que des journalistes utilisent le verbe "frôler" pour parler de ce non-événement.
 

@@ -18,6 +18,6 @@ A l'inverse, des entreprises non étatsuniennes collaborent puisqu'il y a beauco
 
 Yahoo était implanté en Chine et devait se conformer aux lois chinoises. Ils se sont fait taper sur les doigts par le Congrès ricain après cette histoire.
 
-[https://fr.wikipedia.org/wiki/Sh...](w:Shi_Tao_(journaliste))
+[Shi Tao (journaliste)](w:Shi_Tao_\(journaliste\))
 
 Mais remarquez que Yahoo a quasi disparu du paysage, alors que Google est florissant…

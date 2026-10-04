@@ -20,4 +20,4 @@ Parce que le pilote a tout fait pour qu'on ne le retrouve pas et que l'océan in
 
 > Selon l'expert en accidents d'avion canadien Larry Vance, principal enquêteur pour le Bureau de la sécurité des transports du Canada, « la taille et l'érosion d'un aileron haute-vitesse de l'avion, retrouvé sur une plage de l'île de la Réunion, en juillet 2015, plaident pour l'hypothèse d'un crash volontaire ». Pour lui, l'avion a été piloté jusqu'à sa chute dans l'eau. « La force de l'eau est vraiment la seule chose qui pourrait faire ce bord dentelé que nous voyons. Il n'a pas été rompu. Si ça avait été le cas, ce serait une rupture nette », explique l'expert.
 
-[https://fr.wikipedia.org/wiki/Vo...](w:Vol_Malaysia_Airlines_370)
+[Vol Malaysia Airlines 370](w:Vol_Malaysia_Airlines_370)

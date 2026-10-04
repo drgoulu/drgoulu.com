@@ -24,4 +24,4 @@ La première expérience qui concerne plus directement la dilatation du temps es
 
 L'[Expérience de Pound et Rebka](w:)en 1960 est la première à mesurer cet effet directement sur Terre, sur une différence d'altitude de 22.5m seulement.
 
-[https://fr.wikipedia.org/wiki/Te...](w:Tests_expérimentaux_de_la_relativité_générale)
+[Tests expérimentaux de la relativité générale](w:Tests_expérimentaux_de_la_relativité_générale)

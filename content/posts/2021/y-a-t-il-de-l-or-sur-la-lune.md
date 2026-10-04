@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 pas qu'on sache, mais il y a beaucoup mieux :
 
-[https://fr.wikipedia.org/wiki/H%...](w:Hélium_3)
+[Hélium 3](w:Hélium_3)
 
 environ 1.5 millions de dollars le kilo ! l'or c'est de la crotte de bique en comparaison.

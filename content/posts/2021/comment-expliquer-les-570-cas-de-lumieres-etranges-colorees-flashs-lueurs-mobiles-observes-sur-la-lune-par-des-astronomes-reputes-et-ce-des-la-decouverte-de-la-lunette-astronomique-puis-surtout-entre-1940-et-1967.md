@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-expliquer-les-570-cas-de-lumi%C3%A8res-%C3%A9tranges-color%C3%A9es-flashs-lueurs-mobiles-observ%C3%A9s-sur-la-Lune-par-des-astronomes-r%C3%A9put%C3%A9s-et-ce-d%C3%A8s-la-d%C3%A9couverte-de-la-lunette-astronomique/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Im...](w:Impacts_sur_la_Lune)
+[Impacts sur la Lune](w:Impacts_sur_la_Lune)

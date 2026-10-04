@@ -15,7 +15,7 @@ Comme tous les pays développés avant elle.
 
 Petits rappels historiques :
 
-[https://fr.wikipedia.org/wiki/Gr...](w:Grand_smog_de_Londres)
+[Grand smog de Londres](w:Grand_smog_de_Londres)
 
 ![](./images/qimg-3dd733a1952397396ed8abbbf47e7533.jpg)
 

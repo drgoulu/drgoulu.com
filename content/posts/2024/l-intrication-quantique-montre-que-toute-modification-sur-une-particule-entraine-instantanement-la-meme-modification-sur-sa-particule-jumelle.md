@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Vous trouverez une liste d'expériences ici
 
-[https://fr.wikipedia.org/wiki/In...](w:Intrication_quantique)
+[Intrication quantique](w:Intrication_quantique)
 
 Le meilleur article de vulgarisation que je connaisse sur le sujet est celui-ci :
 

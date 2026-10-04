@@ -13,10 +13,10 @@ coverImage: ./images/quora.png
 
 La
 
-[https://fr.wikipedia.org/wiki/Ta...](w:Table_des_isotopes)
+[Table des isotopes](w:Table_des_isotopes)
 
 Donne tous les noyaux atomiques, donc protons + neutrons stables (en noir) ou radioactifs (en couleur)
 
 Il est assez difficile de prévoir si un noyau est stable ou pas, voir
 
-[https://fr.wikipedia.org/wiki/Va...](w:Vallée_de_stabilité)
+[Vallée de stabilité](w:Vallée_de_stabilité)

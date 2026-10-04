@@ -34,4 +34,4 @@ Mais comme dit plus haut, il y a des exemples actuels de ce phénomène naturel 
 
 Il y a de nombreuses preuves de duplications partielles chez l'être humain, je vous laisse les découvrir dans l'article Wikipedia, c'est passionnant. Mais un peu technique quand même.
 
-[https://fr.wikipedia.org/wiki/Du...](w:Duplication_(génétique))
+[Duplication (génétique)](w:Duplication_\(génétique\))

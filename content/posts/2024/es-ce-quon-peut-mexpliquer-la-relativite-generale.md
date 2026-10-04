@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Exactement comme expliqué ici
 
-[https://fr.wikipedia.org/wiki/In...](w:Introduction_à_la_relativité_générale)
+[Introduction à la relativité générale](w:Introduction_à_la_relativité_générale)
 
 En fait vous pouvez juste lui refiler le lien, parce que dedans il y a des liens vers d'autres notions qui pourraient lui manquer.

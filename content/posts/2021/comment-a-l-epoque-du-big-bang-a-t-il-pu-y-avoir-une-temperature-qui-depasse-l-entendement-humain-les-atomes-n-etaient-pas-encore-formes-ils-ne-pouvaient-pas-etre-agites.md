@@ -18,7 +18,7 @@ coverImage: ./images/qimg-e68dc0ec9af4167160da1a67c796a92f.gif
 
 "Température" est un peu un abus de langage dans ce cas. On parle plutôt d'énergie des photons, comme on le voit dans l'article
 
-[https://fr.wikipedia.org/wiki/Bi...](w:Big_Bang)
+[Big Bang](w:Big_Bang)
 
 > … lorsque sa température descend en dessous de 0,1 MeV (soit environ un milliard de degrés) que les [nucléons](w:Nucléon) peuvent se combiner pour former des noyaux atomiques.
 >

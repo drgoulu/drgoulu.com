@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 De celle là :
 
-[https://fr.wikipedia.org/wiki/Te...](w:Tenseur_énergie-impulsion)
+[Tenseur énergie-impulsion](w:Tenseur_énergie-impulsion)

@@ -33,7 +33,7 @@ Les bananes sont particulièrement radioactives en raison de leur forte teneur e
 
 Ca a donné l'idée à certains de mesurer les petites doses de radioactivité en bananes :-)
 
-[https://fr.wikipedia.org/wiki/Do...](w:Dose_équivalente_en_banane)
+[Dose équivalente en banane](w:Dose_équivalente_en_banane)
 
 Notes de bas de page
 

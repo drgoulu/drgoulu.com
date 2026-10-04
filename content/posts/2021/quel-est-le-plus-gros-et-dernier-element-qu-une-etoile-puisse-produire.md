@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Par fusion "normale", c est le fer. Plus exactement la
 
-[https://fr.wikipedia.org/wiki/Fu...](w:Fusion_du_silicium)
+[Fusion du silicium](w:Fusion_du_silicium)
 
 qui a lieu pendant les dernières 1 à 3 semaines de "vie" d'une étoile massive produit du nickel 56 instable qui transmute en fer 56.
 

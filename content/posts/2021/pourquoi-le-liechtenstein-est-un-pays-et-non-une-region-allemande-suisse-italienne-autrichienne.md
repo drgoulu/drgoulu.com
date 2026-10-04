@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Lisez
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liechtenstein)
+[Liechtenstein](w:Liechtenstein)
 
 C'est très intéressant. En gros c est une propriété que la famille noble "von Lichtenstein" ,qui n'est pas du tout originaire de là, a acheté à l'empereur d Allemagne en 1699 et 1712.
 

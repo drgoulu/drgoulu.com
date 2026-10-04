@@ -13,7 +13,7 @@ coverImage: ./images/qimg-63652071e2240fd0db52d40237cd830d.png
 
 Voir
 
-[https://fr.wikipedia.org/wiki/Nu...](w:Nucléosynthèse)
+[Nucléosynthèse](w:Nucléosynthèse)
 
 Et le tableau périodique
 

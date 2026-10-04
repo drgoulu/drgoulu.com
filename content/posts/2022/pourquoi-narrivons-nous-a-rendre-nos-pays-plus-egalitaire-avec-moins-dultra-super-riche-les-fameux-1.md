@@ -22,7 +22,7 @@ Si vous étudiez un peu les inégalités, vous allez tomber le [Coefficient de G
 
 Vous voulez un pays égalitaire ? combattez la pauvreté et le chômage. D'ailleurs les pays les plus égalitaires sont les pays du nord de l'Europe et les anciens pays de l'Europe de l'Est, y compris (surprise…) l'Ukraine qui était le pays le plus égalitaire du monde en 2016 selon la Banque Mondiale avec un Gini de 25 (France 32,7, Suisse 32.5[[1]](#guexQ) , Russie 37.7 comme la Tanzanie …)
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_pays_par_égalité_de_revenus)
+[Liste des pays par égalité de revenus](w:Liste_des_pays_par_égalité_de_revenus)
 
 Notes de bas de page
 

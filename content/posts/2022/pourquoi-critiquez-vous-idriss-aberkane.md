@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Pas besoin, il s'est grillé tout seul.
 
-[https://fr.wikipedia.org/wiki/Id...](w:Idriss_Aberkane)
+[Idriss Aberkane](w:Idriss_Aberkane)

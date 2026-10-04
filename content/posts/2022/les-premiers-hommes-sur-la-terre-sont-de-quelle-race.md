@@ -24,7 +24,7 @@ Quand on remonte notre arbre généalogique, on distingue des espèces car il y 
 
 On considère actuellement que l'ancêtre le plus lointain des Homo Sapiens qui ne soit pas en même temps un ancêtre de nos cousins chimpanzés et bonobos est
 
-[https://fr.wikipedia.org/wiki/To...](w:Toumaï)
+[Toumaï](w:Toumaï)
 
 de l'espèce [Sahelanthropus tchadensis](w:), ancêtre probable ou du moins possible des diverses espèces d'[Australopithèques](w:Australopithèque), dont une est l'ancêtre des diverses espèces d'[Homo](w:), dont nous sommes la seule branche survivante.
 

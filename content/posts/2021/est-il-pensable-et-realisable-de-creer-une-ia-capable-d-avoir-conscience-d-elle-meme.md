@@ -17,13 +17,13 @@ Si nous nous rencontrions, je pourrais utiliser ma vue optimisée par des millio
 
 Mais à distance, je ne peux que vous faire passer le
 
-[https://fr.wikipedia.org/wiki/Te...](w:Test_de_Turing)
+[Test de Turing](w:Test_de_Turing)
 
 que vous réussirez probablement.
 
 Mais vous pourriez aussi être
 
-[https://fr.wikipedia.org/wiki/Cl...](w:Cleverbot)
+[Cleverbot](w:Cleverbot)
 
 qui trompe la moitié des humains…
 

@@ -24,7 +24,7 @@ en [pdf ici](https://www.brainmaster.com/software/pubs/physics/Hawking Particle 
 
 Les calculs un peu vulgarisés sont là :
 
-[https://fr.wikipedia.org/wiki/%C...](w:Évaporation_des_trous_noirs)
+[Évaporation des trous noirs](w:Évaporation_des_trous_noirs)
 
 Et si vous voulez juste appliquer les formules, vous pouvez utiliser le génial
 

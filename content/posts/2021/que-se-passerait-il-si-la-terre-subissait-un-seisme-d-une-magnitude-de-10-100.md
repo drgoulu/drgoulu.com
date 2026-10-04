@@ -17,12 +17,12 @@ Donc on a $E_m = 2 \times 10^6 \times (10^{1.5})^m$
 
 et ça, pour m=100 ça fait $2 \times 10^{156}$ Joule, donc largement plus que $10^{69}$Joule, la masse-énergie totale de l'Univers observable.
 
-[https://fr.wikipedia.org/wiki/Or...](w:Ordres_de_grandeur_d'énergie)
+[Ordres de grandeur d'énergie](w:Ordres_de_grandeur_d'énergie)
 
 Donc ça peut pas exister.
 
 Le "tremblement de quelque chose" le plus violent qu'on connaisse est le
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Tremblement_d'étoile)
+[Tremblement d'étoile](w:Tremblement_d'étoile)
 
 de certaines étoiles à neutrons, qui peut atteindre la magnitude 32. Seulement.

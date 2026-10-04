@@ -15,10 +15,10 @@ Dans ce cas un pétard chinois est en quelque sorte une mini supernova…
 
 Lisez
 
-[https://fr.wikipedia.org/wiki/Su...](w:Supernova)
+[Supernova](w:Supernova)
 
 Et
 
-[https://fr.wikipedia.org/wiki/Bo...](w:Bombe_H)
+[Bombe H](w:Bombe_H)
 
 Pour voir qu'à part "explosion" il n'y a pas grand chose de commun.

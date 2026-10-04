@@ -16,7 +16,7 @@ Vous imaginez bien que les concepteurs y ont pensé…
 
 Ce détecteur ne detecte que les neutrinos arrivant depuis le fond de la mer, pas ceux venant de la surface.
 
-[https://fr.wikipedia.org/wiki/KM...](w:KM3NeT)
+[KM3NeT](w:KM3NeT)
 
 Vous connaissez cette magnifique image du soleil ?
 

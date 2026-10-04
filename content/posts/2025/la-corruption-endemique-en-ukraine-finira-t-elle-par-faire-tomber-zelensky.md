@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Si la corruption ne fait pas tomber Putin dans sa Russie où elle empire chaque année, pourquoi ferait-elle tomber Zelensky dans l'Ukraine où elle s'améliore ?
 
-[https://fr.wikipedia.org/wiki/In...](w:Indice_de_perception_de_la_corruption)
+[Indice de perception de la corruption](w:Indice_de_perception_de_la_corruption)

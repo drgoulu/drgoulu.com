@@ -20,7 +20,7 @@ mmmhh… un cycle du Gulf Stream doit bien prendre quelques mois, et un cycle de
 
 Mais effectivement, sur une plage où le ressac vous tire au large, vous pouvez espérer atteindre une zone plus favorable en nageant parallèlement à la plage pour sortir d'un
 
-[https://fr.wikipedia.org/wiki/Co...](w:Courant_d'arrachement)
+[Courant d'arrachement](w:Courant_d'arrachement)
 
 qui se produit notamment dans les "baïnes" :
 

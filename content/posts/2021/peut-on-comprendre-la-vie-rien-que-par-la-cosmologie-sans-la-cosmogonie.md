@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Quelle
 
-[https://fr.wikipedia.org/wiki/Co...](w:Cosmogonie)
+[Cosmogonie](w:Cosmogonie)
 
 ? Il y en a autant que de peuples, de croyances et de religions.
 

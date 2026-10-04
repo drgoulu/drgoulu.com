@@ -22,10 +22,10 @@ La chaleur, c'est un mouvement de particules, en principe des atomes ou des mol�
 
 Les atomes sont des aggregats de particules : protons et neutrons (eux mêmes formés de quarks) tout à fait tangibles autour desquels se baladent des électrons tout à fait tangibles sur des
 
-[https://fr.wikipedia.org/wiki/Or...](w:Orbitale_atomique)
+[Orbitale atomique](w:Orbitale_atomique)
 
 Qui ont des formes dépendant de l'atome et des "niveaux d'énergie" des électrons. C'est un sujet assez complexe mais en gros, en première approximation les atomes sont à peu près sphériques et apparaissent ainsi sur les images de microscopie à effet tunnel ou à force électronique.
 
-[https://fr.wikipedia.org/wiki/Mi...](w:Microscope_à_effet_tunnel)
+[Microscope à effet tunnel](w:Microscope_à_effet_tunnel)
 
 Ils sont donc tout à fait tangibles, autant qu'un caillou qui n'est somme toute qu'un gros paquet d'atomes.

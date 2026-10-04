@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Tous les [Organisme unicellulaire](w:)se reproduisent comme ça, et si vous en voulez un gros, il y a
 
-[https://fr.wikipedia.org/wiki/Ph...](w:Physarum_polycephalum)
+[Physarum polycephalum](w:Physarum_polycephalum)
 
 dit "le Blob".
 

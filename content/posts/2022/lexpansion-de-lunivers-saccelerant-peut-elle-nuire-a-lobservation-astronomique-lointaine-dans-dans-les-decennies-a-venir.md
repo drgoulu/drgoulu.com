@@ -15,7 +15,7 @@ En quelques décennies elle n'a aucun effet, juste les quelques centaines de gal
 
 Selon
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)
 
 > - Dans 100 milliards d'années L'[expansion de l'Univers](w:) conduit toutes les [galaxies](w:Galaxie) en dehors du [Groupe local](w:) à disparaître au-delà de l'[univers observable](w:)
 > - Dans 1000 milliards d'années, l'expansion de l'Univers, en supposant une densité d'[énergie sombre](w:) constante, multiplie la longueur d'onde du fonds diffus cosmologique par 10^29, dépassant l'échelle de l'[horizon cosmique](w:Horizon_cosmologique) et rendant cette preuve du [Big Bang](w:) indétectable.

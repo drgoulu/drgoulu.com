@@ -25,4 +25,4 @@ Le "petit" dégagerait chaque seconde l'énergie de l'explosion du Krakatoa ou d
 
 Le "gros" dégagerait L'[Énergie de liaison gravitationnelle](w:)de la Terre en 10'000 secondes (3 heures environ). C'est pas encore l'[Étoile de la mort](w:), mais presque.
 
-[https://fr.wikipedia.org/wiki/Or...](w:Ordres_de_grandeur_d'énergie)
+[Ordres de grandeur d'énergie](w:Ordres_de_grandeur_d'énergie)

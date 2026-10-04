@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quel-type-d-%C3%A9l%C3%A9ment-est-un-protactinium/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Protactinium)
+[Protactinium](w:Protactinium)

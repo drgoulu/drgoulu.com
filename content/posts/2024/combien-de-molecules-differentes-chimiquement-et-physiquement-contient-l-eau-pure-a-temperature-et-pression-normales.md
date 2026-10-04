@@ -34,4 +34,4 @@ Et quand on dit "pas d'endotoxines détectables" (produites par des bactéries q
 
 Donc en gros, en étant prudent il y a des milliers de molécules différentes dans un peu d'eau, chacune présente à des millions ou milliards d'exemplaires.
 
-[https://fr.wikipedia.org/wiki/Pu...](w:Purification_de_l'eau)
+[Purification de l'eau](w:Purification_de_l'eau)

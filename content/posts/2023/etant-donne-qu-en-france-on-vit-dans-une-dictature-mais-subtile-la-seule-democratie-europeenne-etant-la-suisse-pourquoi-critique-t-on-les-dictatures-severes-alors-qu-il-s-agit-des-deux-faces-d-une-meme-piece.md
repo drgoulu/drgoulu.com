@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 
 Faut pas déconner quand même.
 
-[https://fr.wikipedia.org/wiki/In...](w:Indice_de_démocratie)
+[Indice de démocratie](w:Indice_de_démocratie)

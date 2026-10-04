@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non, mais il y a plein de charlatans et d'escrocs qui vous font croire que si. Et vous ne pourrez pas leur faire de procès parce que vous serez mort.
 
-[https://fr.wikipedia.org/wiki/Sc...](w:Sclérose_latérale_amyotrophique)
+[Sclérose latérale amyotrophique](w:Sclérose_latérale_amyotrophique)

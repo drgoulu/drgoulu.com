@@ -15,7 +15,7 @@ la gravité est un cas particulier de la gravitation.[[1]](#yDToo)
 
 La constante de la gravitation peut être mesurée avec un pendule de torsion horizontal, c'est la fameuse
 
-[https://fr.wikipedia.org/wiki/Ex...](w:Expérience_de_Cavendish)
+[Expérience de Cavendish](w:Expérience_de_Cavendish)
 
 Notes de bas de page
 

@@ -15,7 +15,7 @@ C'est faux et faux.
 
 Il existe de nombreux cas documentés de
 
-[https://fr.wikipedia.org/wiki/Su...](w:Suicide_animal)
+[Suicide animal](w:Suicide_animal)
 
 chez de nombreuses espèces : canards, dauphins, chiens, et ce n'est pas par amour, terme très anthropomorphique.
 

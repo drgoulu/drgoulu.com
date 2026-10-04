@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Non, pire : il considérait que c'était une conséquence numérogique au fait que la [Constante de structure fine](w:)$\alpha$ valait, croyait-il, exactement 1/136.
 
-[https://fr.wikipedia.org/wiki/No...](w:Nombre_d'Eddington)
+[Nombre d'Eddington](w:Nombre_d'Eddington)
 
 Mais elle n'est pas trop fausse, les estimations actuelles sont de l'ordre de $10^{80}$ protons dans l'Univers observable.
 

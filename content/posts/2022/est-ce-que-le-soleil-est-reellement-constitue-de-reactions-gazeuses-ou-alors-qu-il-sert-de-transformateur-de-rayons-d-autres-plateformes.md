@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 "[Fusion nucléaire"](w:Fusion_nucléaire)est plus approprié que "réactions gazeuses". De l'hydrogène chauffé à 15 millions de degrés et comprimé à 200 milliards de bars ce qui le rend 12 fois plus dense que le plomb n'est plus vraiment un gaz …
 
-[https://fr.wikipedia.org/wiki/No...](w:Noyau_solaire)
+[Noyau solaire](w:Noyau_solaire)
 
 Dans les petites étoiles comme le Soleil, la réaction principale est la [Chaîne proton-proton](w:), et le [Cycle carbone-azote-oxygène](w:)dans les étoiles plus massives , mais il existe aussi un peu dans le Soleil.
 

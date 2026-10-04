@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Il y a énormément de
 
-[https://fr.wikipedia.org/wiki/Co...](w:Consensus_scientifique)
+[Consensus scientifique](w:Consensus_scientifique)
 
 . Ça correspond simplement à la phrase qui précède implicitement tout énoncé scientifique
 

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Un puzzle casse-tête que je ne connaissais pas, merci!
 
-[https://fr.wikipedia.org/wiki/Lo...](w:Loculus_d'Archimède)
+[Loculus d'Archimède](w:Loculus_d'Archimède)

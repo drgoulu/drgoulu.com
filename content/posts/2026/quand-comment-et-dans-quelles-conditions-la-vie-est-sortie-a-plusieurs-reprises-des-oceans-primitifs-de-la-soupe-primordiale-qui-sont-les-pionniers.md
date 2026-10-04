@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Tous les détails sont ici
 
-[https://fr.wikipedia.org/wiki/So...](w:Sortie_des_eaux)
+[Sortie des eaux](w:Sortie_des_eaux)

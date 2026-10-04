@@ -15,4 +15,4 @@ par une équipe internationale, en utilisant une nouvelle façon de définir les
 
 Tully, R. B., Courtois, H., Hoffman, Y., & Pomarède, D. (2014). [The Laniakea supercluster of galaxies](https://doi.org/10.1038/nature13674). *Nature*, *513*(7516), 71–73. ( [PDF sur arXiv](https://arxiv.org/abs/1409.0880))
 
-[https://fr.wikipedia.org/wiki/La...](w:Laniakea)
+[Laniakea](w:Laniakea)

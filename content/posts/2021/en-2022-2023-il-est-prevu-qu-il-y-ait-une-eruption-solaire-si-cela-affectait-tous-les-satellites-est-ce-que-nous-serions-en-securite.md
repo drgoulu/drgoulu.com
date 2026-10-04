@@ -24,7 +24,7 @@ La dernière qui nous a presque atteint était la [Tempête solaire de juillet 2
 
 Au cours de l'histoire il y a eu des tempêtes solaires qui ont eu des effets remarquables, notamment des aurores boréales à nos latitudes. Dans certains cas on a même retrouvé des traces d'un bombardement de rayons cosmiques sous forme d'excédents de carbone 14 dans les cernes des arbres.
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_de_tempêtes_solaires)
+[Liste de tempêtes solaires](w:Liste_de_tempêtes_solaires)
 
 Et ça dure depuis des millions d'années et nous avons toujours survécu.
 

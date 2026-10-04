@@ -23,4 +23,4 @@ Il y a à peu près la même quantité d'azote sur Vénus que sur Terre, mais il
 
 Pour terraformer Vénus, maintenant, il faudrait transformer le CO2 en H2O…
 
-[https://fr.wikipedia.org/wiki/At...](w:Atmosphère_de_Vénus)
+[Atmosphère de Vénus](w:Atmosphère_de_Vénus)

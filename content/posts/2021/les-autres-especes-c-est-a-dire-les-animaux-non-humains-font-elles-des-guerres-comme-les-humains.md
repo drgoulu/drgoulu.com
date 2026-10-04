@@ -15,6 +15,6 @@ Oh que oui. J'ai observé pendant 3 jours la bataille à mort entre deux fourmil
 
 Pour comparaison, une des batailles les plus meurtrières, la
 
-[https://fr.wikipedia.org/wiki/Ba...](w:Bataille_du_Chemin_des_Dames)
+[Bataille du Chemin des Dames](w:Bataille_du_Chemin_des_Dames)
 
 n'a tué "que" 20% des soldats environ.

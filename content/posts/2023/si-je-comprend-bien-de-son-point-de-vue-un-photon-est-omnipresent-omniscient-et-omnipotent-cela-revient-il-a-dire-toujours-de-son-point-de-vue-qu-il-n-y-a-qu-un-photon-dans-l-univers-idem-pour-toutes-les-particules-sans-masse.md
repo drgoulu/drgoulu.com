@@ -20,4 +20,4 @@ le photon est un petit truc de rien du tout, une bougie en émet un milliard de 
 
 Comme pour les autres autres particules sans masse, il ne fait que transporter un "quantum d'énergie". Pour le photon c'est de l'énergie électromagnétique correspondant à l'accélération d'une charge, un électron d'un atome de la flamme de la bougie à un atome du mur. Ou vice-versa.
 
-[https://fr.wikipedia.org/wiki/Ph...](w:Photon)
+[Photon](w:Photon)

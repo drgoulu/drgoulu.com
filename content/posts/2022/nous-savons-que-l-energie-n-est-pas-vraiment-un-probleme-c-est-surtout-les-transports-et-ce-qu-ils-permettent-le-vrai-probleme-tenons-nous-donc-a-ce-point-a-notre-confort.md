@@ -18,7 +18,7 @@ coverImage: ./images/qimg-5d56fb5f12e9c5d15220a1edf2945815.jpg
 
 les transports ne représentent "que" 29% de la consommation d'énergie, soit autant que l'industrie, et un peu plus que le résidentiel (éclairage, chauffage, électroménager…) qui en utilise 21%, le secteur tertiaire (bureaux, telecommunications) 8%
 
-[https://fr.wikipedia.org/wiki/Re...](w:Ressources_et_consommation_énergétiques_mondiales)
+[Ressources et consommation énergétiques mondiales](w:Ressources_et_consommation_énergétiques_mondiales)
 
 Le problème est donc qu'il n'y a pas qu'un problème, mais 3 d'importance comparable.
 

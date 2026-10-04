@@ -17,6 +17,6 @@ Les collapsologistes pensent que ce sera ce siècle, je pense que non.
 
 J'allais dire qu'on aura toujours la solution
 
-[https://fr.wikipedia.org/wiki/So...](w:Soleil_vert)
+[Soleil vert](w:Soleil_vert)
 
 Et je vois que ce livre datant de 1966 et le film de 1973 prévoyaient l'histoire en 2022..

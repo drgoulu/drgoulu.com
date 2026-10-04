@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Quand on éternue ou qu'on tousse, la vitesse de l air peut atteindre 55 km/h.
 
-[https://fr.wikipedia.org/wiki/%C...](w:Éternuement)
+[Éternuement](w:Éternuement)

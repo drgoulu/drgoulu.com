@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 ça:
 
-[https://fr.wikipedia.org/wiki/Py...](w:Pyramides_chinoises)
+[Pyramides chinoises](w:Pyramides_chinoises)

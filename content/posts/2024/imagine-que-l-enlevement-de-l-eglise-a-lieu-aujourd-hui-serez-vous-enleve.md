@@ -15,4 +15,4 @@ Ben non, chuis pas chrétien. Pas évangéliste en tout cas.
 
 Donc j'irai faire ma grande tribulation au bistrot du coin en vous regardant planer sur vos nuées, ça doit être marrant.
 
-[https://fr.wikipedia.org/wiki/En...](w:Enlèvement_de_l'Église)
+[Enlèvement de l'Église](w:Enlèvement_de_l'Église)

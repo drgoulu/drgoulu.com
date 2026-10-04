@@ -17,4 +17,4 @@ Il faut donc trouver une bestiole qui peut vivre dans du CO2 quasi pur, ce qui s
 
 On a plein de bactéries extrêmophiles de tous types sur Terre, mais aucune ne se reproduit sans eau.
 
-[https://fr.wikipedia.org/wiki/At...](w:Atmosphère_de_Vénus)
+[Atmosphère de Vénus](w:Atmosphère_de_Vénus)

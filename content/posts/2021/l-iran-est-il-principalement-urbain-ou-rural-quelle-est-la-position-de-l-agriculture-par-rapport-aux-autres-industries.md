@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/L-Iran-est-il-principalement-urbain-ou-rural-Quelle-est-la-position-de-l-agriculture-par-rapport-aux-autres-industries/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/%C...](w:Économie_de_l'Iran)
+[Économie de l'Iran](w:Économie_de_l'Iran)
 
 PIB par [secteur](w:Secteur_économique)
 

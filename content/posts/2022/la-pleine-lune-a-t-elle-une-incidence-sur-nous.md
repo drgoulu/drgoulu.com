@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Les études scientifiques n'ont montré aucun effet.
 
-[https://fr.wikipedia.org/wiki/In...](w:Influence_lunaire)
+[Influence lunaire](w:Influence_lunaire)

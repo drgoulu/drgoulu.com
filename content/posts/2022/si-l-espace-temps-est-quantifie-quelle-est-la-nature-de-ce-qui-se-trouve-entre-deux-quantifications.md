@@ -28,6 +28,6 @@ Prenez un papier quadrillé, et faites tendre la longueur d des carreaux vers 0 
 
 L'idée principale de ces théories est (une fois de plus en sciences) d'inverser notre intuition : il n'y a pas un espace-temps rempli de trucs, il y a des trucs qui nous donnent l'impression d'un espace-temps.
 
-Dans le même genre d'idées il y a par exemple la "[Causal dynamical triangulation](w:en:Causal_dynamical_triangulation)" et la [Quantum graphity](https://en.wikipedia.org/w/index.php?title=Quantum_graphity) dont cause Smolin au chapitre 15 du bouquin dont je cause ici :
+Dans le même genre d'idées il y a par exemple la "[Causal dynamical triangulation](w:en:Causal_dynamical_triangulation)" et la [Quantum graphity](w:en:Quantum_graphity) dont cause Smolin au chapitre 15 du bouquin dont je cause ici :
 
 [https://www.drgoulu.com/2015/12/...](/2015/12/31/la-renaissance-du-temps-22/)

@@ -34,4 +34,4 @@ A cause d'une seule mention dans un seul passage de l'[Apocalypse](w:) de [Jean 
 
 Wow… vous avez pigé quéchose ? A mon avis Jean de Patmos il a écrit ça en mâchant du khat après son omelette aux psilo..
 
-[https://fr.wikipedia.org/wiki/No...](w:Nombre_de_la_Bête)
+[Nombre de la Bête](w:Nombre_de_la_Bête)

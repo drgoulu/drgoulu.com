@@ -24,4 +24,4 @@ A un certain moment, la proto étoile atteint la [Ligne de naissance stellaire](
 
 Si son coeur atteint une température et une pression suffisante, la [Chaîne proton-proton](w:) s'amorce (et/ou le [Cycle CNO](w:Cycle_carbone-azote-oxygène) si la température et pression sont plus élevées) et une étoile naît. Sinon elle devient une [Naine brune](w:).
 
-[https://fr.wikipedia.org/wiki/Na...](w:Naissance_des_étoiles)
+[Naissance des étoiles](w:Naissance_des_étoiles)

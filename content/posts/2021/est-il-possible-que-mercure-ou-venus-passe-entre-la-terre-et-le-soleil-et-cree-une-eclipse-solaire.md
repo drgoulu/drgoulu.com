@@ -22,7 +22,7 @@ Nous voyons Mercure passer devant le soleil 13 ou 14 fois par siècle. Le 8 nove
 
 ![](./images/qimg-a4bf56c1864a229d653182152243da36.jpg)
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Transit_de_Mercure)
+[Transit de Mercure](w:Transit_de_Mercure)
 
 Pour Vénus les transits suivent une séquence qui se répète tous les 243 ans, avec des paires de transits espacés de 8 ans séparées par 121,5 puis 105,5 ans.
 
@@ -32,7 +32,7 @@ La dernière paire de transits à eu lieu en 2004 et 2012. Photo :
 
 (Vénus est le disque noir en haut)
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Transit_de_Vénus)
+[Transit de Vénus](w:Transit_de_Vénus)
 
 Comme vous le voyez, ces transits sont loin de pouvoir provoquer des éclipses. Les planètes sont beaucoup trop petites.
 

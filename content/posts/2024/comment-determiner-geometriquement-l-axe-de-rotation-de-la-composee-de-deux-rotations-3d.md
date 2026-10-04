@@ -13,8 +13,8 @@ coverImage: ./images/quora.png
 
 Deux rotations l'une après l'autre ?
 
-[https://fr.wikipedia.org/wiki/Co...](w:Coordonnées_homogènes)
+[Coordonnées homogènes](w:Coordonnées_homogènes)
 
 Deux rotations simultanées ?
 
-[https://fr.wikipedia.org/wiki/Qu...](w:Quaternion)
+[Quaternion](w:Quaternion)

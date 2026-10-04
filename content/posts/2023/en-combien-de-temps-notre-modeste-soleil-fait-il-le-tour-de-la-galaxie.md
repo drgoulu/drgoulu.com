@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 En une
 
-[https://fr.wikipedia.org/wiki/An...](w:Année_galactique)
+[Année galactique](w:Année_galactique)

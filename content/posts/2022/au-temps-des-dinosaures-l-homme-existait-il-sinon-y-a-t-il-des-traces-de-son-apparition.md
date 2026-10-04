@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Oui, il y a plein de traces de l'apparition des Hominidés
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_de_fossiles_d'hominidés)
+[Liste de fossiles d'hominidés](w:Liste_de_fossiles_d'hominidés)
 
 Ils ont tous au moins 60 millions d'années de moins que l'[Extinction Crétacé-Paléogène](w:).
 

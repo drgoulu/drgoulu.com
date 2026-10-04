@@ -15,6 +15,6 @@ Oui, sans problème.
 
 Il y avait un projet russe,
 
-[https://fr.wikipedia.org/wiki/Me...](w:Mercury-P)
+[Mercury-P](w:Mercury-P)
 
 Mais il a été repoussé aux calendes grecques.

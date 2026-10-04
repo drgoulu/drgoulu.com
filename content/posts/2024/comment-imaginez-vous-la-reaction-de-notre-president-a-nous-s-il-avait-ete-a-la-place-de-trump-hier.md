@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Notre présidente à nous c'est
 
-[https://fr.wikipedia.org/wiki/Vi...](w:Viola_Amherd)
+[Viola Amherd](w:Viola_Amherd)
 
 du moins cette année.
 

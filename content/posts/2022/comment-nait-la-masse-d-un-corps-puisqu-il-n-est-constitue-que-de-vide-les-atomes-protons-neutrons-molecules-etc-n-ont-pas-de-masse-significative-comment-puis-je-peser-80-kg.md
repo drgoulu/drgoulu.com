@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce qu'il y a des miliards de milliards de milliards d'atomes (10^27) dans une dizaine de kilos de matière
 
-[https://fr.wikipedia.org/wiki/No...](w:Nombre_d'Avogadro)
+[Nombre d'Avogadro](w:Nombre_d'Avogadro)

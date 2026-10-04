@@ -17,6 +17,6 @@ On ne sait pas encore exactement, mais selon une étude de 2015, les fœtus de f
 
 Intéressant l'article
 
-[https://en.wikipedia.org/wiki/Hu...](w:en:Human_sex_ratio)
+[Human sex ratio](w:en:Human_sex_ratio)
 
 N est pas traduit en français ou autres langues européennes, mais en plein de langues asiatiques et indiennes…

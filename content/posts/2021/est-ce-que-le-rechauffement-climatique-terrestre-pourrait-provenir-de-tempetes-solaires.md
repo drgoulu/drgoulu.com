@@ -15,7 +15,7 @@ Nous sommes capables de détecter des variations de luminosité des étoiles de 
 
 Ici nous avons des instruments tout aussi sensibles qui observent notre soleil en continu depuis des décennies, comme
 
-[https://fr.wikipedia.org/wiki/ST...](w:STEREO)
+[STEREO](w:STEREO)
 
 Qui observe en particulier les éruptions solaires.
 
@@ -23,6 +23,6 @@ Résultat : il est absolument certain que le soleil ne joue aucun rôle dans le 
 
 Les
 
-[https://fr.wikipedia.org/wiki/R%...](w:Résonances_de_Schumann)
+[Résonances de Schumann](w:Résonances_de_Schumann)
 
 Sont un phénomène très bien compris aussi. Pas de relation directe avec le réchauffement (la température de l'atmosphère modifie les fréquences, mais pas le contraire)

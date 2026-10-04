@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non. Pas de masse initiale, et peut-être pas d'énergie non plus.
 
-[https://fr.wikipedia.org/wiki/Un...](w:Univers_à_énergie_nulle)
+[Univers à énergie nulle](w:Univers_à_énergie_nulle)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ça s'appelle le temps.
 
-[https://fr.wikipedia.org/wiki/Fl...](w:Flèche_du_temps)
+[Flèche du temps](w:Flèche_du_temps)

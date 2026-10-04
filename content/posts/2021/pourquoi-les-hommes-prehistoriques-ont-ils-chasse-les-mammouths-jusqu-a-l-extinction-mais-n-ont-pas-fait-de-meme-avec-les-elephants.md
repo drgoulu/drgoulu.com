@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Les cousins d'Urgh ont quand même zigouillé une bonne dizaine d'espèces d'
 
-[https://fr.wikipedia.org/wiki/%C...](w:Éléphant_nain)
+[Éléphant nain](w:Éléphant_nain)
 
 un peu partout sur la planète.
 

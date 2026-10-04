@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Existe-t-il-un-mat%C3%A9riau-qui-se-contracte-au-contact-de-l-%C3%A9lectricit%C3%A9-Ou-l-inverse/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Pi...](w:Piézoélectricité)
+[Piézoélectricité](w:Piézoélectricité)

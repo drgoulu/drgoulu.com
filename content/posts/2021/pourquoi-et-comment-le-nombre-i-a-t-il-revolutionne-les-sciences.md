@@ -34,7 +34,7 @@ $e^{i\theta} = cos(\theta) + i.sin(\theta)$
 
 A partir de là, ça a été le festival : tous les trucs qui oscillent ou qui tournent peuvent être représentés par des exponentielles de nombres complexes, qui se trouvent être les solutions des équations différentielles représentant les trucs qui vibrent et oscillent, comme les sons, les photons, les chiffons, les cheveux bleus, et là vous voyez le rapport avec Alissa et tout le reste[[2]](#yxYry) .
 
-[https://fr.wikipedia.org/wiki/Hi...](w:Histoire_des_nombres_complexes)
+[Histoire des nombres complexes](w:Histoire_des_nombres_complexes)
 
 Notes de bas de page
 

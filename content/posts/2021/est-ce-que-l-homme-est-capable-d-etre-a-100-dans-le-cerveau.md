@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui.
 
-[https://fr.wikipedia.org/wiki/Sy...](w:Syndrome_d'enfermement)
+[Syndrome d'enfermement](w:Syndrome_d'enfermement)

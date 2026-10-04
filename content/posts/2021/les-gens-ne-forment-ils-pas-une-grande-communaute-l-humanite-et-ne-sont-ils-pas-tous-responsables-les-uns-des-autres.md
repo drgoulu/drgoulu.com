@@ -15,4 +15,4 @@ Vous confondez avec les Bisounours.
 
 Homo Sapiens est un primate qui vit en familles élargies ou tribus limitées par le
 
-[https://fr.wikipedia.org/wiki/No...](w:Nombre_de_Dunbar)
+[Nombre de Dunbar](w:Nombre_de_Dunbar)

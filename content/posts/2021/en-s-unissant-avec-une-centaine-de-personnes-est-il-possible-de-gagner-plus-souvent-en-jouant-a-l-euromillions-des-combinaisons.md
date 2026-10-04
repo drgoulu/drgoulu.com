@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Avec 100 personnes qui jouent des grilles différentes, vous allez gagner 100x plus souvent des gains que vous aller diviser par 100 : L'
 
-[https://fr.wikipedia.org/wiki/Es...](w:Espérance_mathématique)
+[Espérance mathématique](w:Espérance_mathématique)
 
 ne varie pas d'un iota.

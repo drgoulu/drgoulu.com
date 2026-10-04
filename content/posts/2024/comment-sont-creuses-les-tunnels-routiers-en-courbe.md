@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Comme les ferroviaires, mais en plus simple.
 
-[https://fr.wikipedia.org/wiki/Tu...](w:Tunnel_hélicoïdal)
+[Tunnel hélicoïdal](w:Tunnel_hélicoïdal)
 
 Certains de ces tunnels ont été percés au début du 20ème siècle, donc avant l'invention du GPS et des télémètres laser, mais les [Théodolites](w:Théodolite)existaient déjà, et la trigonométrie aussi.

@@ -18,14 +18,14 @@ coverImage: ./images/quora.png
 
 Jusqu'à [preuve du contraire](w:Réfutabilité), oui.
 
-[https://fr.wikipedia.org/wiki/Un...](w:Univers_à_énergie_nulle)
+[Univers à énergie nulle](w:Univers_à_énergie_nulle)
 
-[https://fr.wikipedia.org/wiki/Fl...](w:Fluctuation_quantique)
+[Fluctuation quantique](w:Fluctuation_quantique)
 
-[https://fr.wikipedia.org/wiki/Nu...](w:Nucléosynthèse)
+[Nucléosynthèse](w:Nucléosynthèse)
 
-[https://fr.wikipedia.org/wiki/Hy...](w:Hypothèse_du_monde_à_ARN)
+[Hypothèse du monde à ARN](w:Hypothèse_du_monde_à_ARN)
 
-[https://fr.wikipedia.org/wiki/Co...](w:Conscience_(biologie))
+[Conscience (biologie)](w:Conscience_\(biologie\))
 
 Le problème des "lois" c'est où sont elles ? Comment un électron consulte t'il la loi pour savoir dans quelle direction tourner dans un champ magnétique ?

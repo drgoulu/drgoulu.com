@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Ça s'appelle la
 
-[https://fr.wikipedia.org/wiki/Vi...](w:Vitesse_terminale)
+[Vitesse terminale](w:Vitesse_terminale)
 
 C'est très difficile à calculer car la forme des gouttes n'est pas sphérique et dépend de leur diamètre.
 

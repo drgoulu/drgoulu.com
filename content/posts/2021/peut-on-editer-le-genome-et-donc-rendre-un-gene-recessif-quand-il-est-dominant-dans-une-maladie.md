@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 C'est le principe de la
 
-[https://fr.wikipedia.org/wiki/Th...](w:Thérapie_génique)
+[Thérapie génique](w:Thérapie_génique)
 
 Elle donnait de grands espoirs dans les années 1980. J'avais un pote atteint de [mucoviscidose](w:) qui disait "le but est de survivre jusqu'à ce que ça marche" mais il n'a pas survécu. Ça ne marche toujours pas assez bien.
 
@@ -26,6 +26,6 @@ Un des problèmes est qu'il faut "éditer" de nombreuses cellules en les infecta
 
 Aujourd'hui les personnes porteuses de maladies héréditaires ont plutôt recours au
 
-[https://fr.wikipedia.org/wiki/Di...](w:Diagnostic_préimplantatoire)
+[Diagnostic préimplantatoire](w:Diagnostic_préimplantatoire)
 
 La modification génétique d'un embryon humain est interdite mondialement. Un savant fou chinois qui prétend l avoir fait a été condamné.

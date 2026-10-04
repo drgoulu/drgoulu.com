@@ -15,4 +15,4 @@ Non. [L’énergie n’est pas une chose](/2017/2017-12-21-l-energie-n-est-pas-u
 
 Il est envisageable que l'énergie totale de l'univers soit nulle.
 
-[https://fr.wikipedia.org/wiki/Un...](w:Univers_à_énergie_nulle)
+[Univers à énergie nulle](w:Univers_à_énergie_nulle)

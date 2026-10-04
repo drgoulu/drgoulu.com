@@ -17,4 +17,4 @@ J'ai testé le crocodile là bas aussi (l'intérieur de la bête qui fait des sa
 
 La viande "exotique" la plus délicieuse que l'aie goûtée, ou plutôt dévoré, c'est de l'oryx, en Namibie. Digne du bœuf de Kobe, mais comme me l'a dit le fermier allemand qui me l'a servi "reprenez-en, ça coûte une balle pour 30 kg…"
 
-[https://fr.wikipedia.org/wiki/Or...](w:Oryx)
+[Oryx](w:Oryx)

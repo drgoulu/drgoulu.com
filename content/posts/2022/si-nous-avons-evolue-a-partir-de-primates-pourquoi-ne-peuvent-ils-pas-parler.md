@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 En complément de la réponse traduite par Philippe Jaran, plusieurs facultés liées au langage sont liées à la
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Protéine_Forkhead-P2)
+[Protéine Forkhead-P2](w:Protéine_Forkhead-P2)
 
 Encodée par le gène FOXP2. Les autres animaux ayant soit des capacités d'imitation des sons (certains oiseaux) soit un langage (cétacés) ont aussi des modifications de ce gène.
 

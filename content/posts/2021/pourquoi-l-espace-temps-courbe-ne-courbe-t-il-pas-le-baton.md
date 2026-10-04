@@ -22,7 +22,7 @@ La courbure de la lumière près d'astres massifs a été mesurée de nombreuses
 
 A proximité de la Terre, le satellite [Gravity Probe B](w:)a mesuré cet [Effet Einstein-de Sitter](w:)en 2012[[2]](#Pozbg) , mais aussi l'[Effet Lense-Thirring](w:) qui est encore plus spectaculaire que la "courbure" : c'est une "torsion", ou plutôt un "enroulement" de l'espace entraîné par la rotation de la Terre.
 
-[https://fr.wikipedia.org/wiki/Te...](w:Tests_expérimentaux_de_la_relativité_générale)
+[Tests expérimentaux de la relativité générale](w:Tests_expérimentaux_de_la_relativité_générale)
 
 Notes de bas de page
 

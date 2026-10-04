@@ -27,4 +27,4 @@ coverImage: ./images/quora.png
 
 Tous les détails sur
 
-[https://fr.wikipedia.org/wiki/Mo...](w:Moteur-fusée_à_ergols_liquides)
+[Moteur-fusée à ergols liquides](w:Moteur-fusée_à_ergols_liquides)

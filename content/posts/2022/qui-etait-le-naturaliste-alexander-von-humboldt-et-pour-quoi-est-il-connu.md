@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Qui-%C3%A9tait-le-naturaliste-Alexander-von-Humboldt-et-pour-quoi-est-il-connu/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Al...](w:Alexander_von_Humboldt)
+[Alexander von Humboldt](w:Alexander_von_Humboldt)

@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Methode-roulette/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Ma...](w:Martingale)
+[Martingale](w:Martingale)

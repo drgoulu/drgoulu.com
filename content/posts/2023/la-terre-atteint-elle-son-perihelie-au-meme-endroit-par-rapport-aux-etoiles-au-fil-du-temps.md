@@ -20,7 +20,7 @@ Presque.
 
 La précession du périhélie de l'orbite de la Terre est d'environ 12 secondes d'arc par année, ça prend environ 112'000 ans. pour qu'elle fasse un tour de l'orbite, ce qui correspond a un des [Paramètres de Milanković](w:)
 
-[https://en.wikipedia.org/wiki/Ap...](w:en:Apsidal_precession)
+[Apsidal precession](w:en:Apsidal_precession)
 
 Merci pour la question qui m'a permis de découvrir cette page
 

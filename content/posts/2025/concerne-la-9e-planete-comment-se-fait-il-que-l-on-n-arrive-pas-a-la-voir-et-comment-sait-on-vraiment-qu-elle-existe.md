@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 On ne sait pas si elle existe
 
-[https://fr.wikipedia.org/wiki/Pl...](w:Planète_X)
+[Planète X](w:Planète_X)
 
 On l'a tellement cherchée que la raison la plus probable pour qu'on ne la voit pas est qu'elle n'existe pas.
 

@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 La
 
-[https://fr.wikipedia.org/wiki/Lo...](w:Loi_de_l'attraction_(Nouvelle_Pensée))
+[Loi de l'attraction (Nouvelle Pensée)](w:Loi_de_l'attraction_\(Nouvelle_Pensée\))
 
 est une idée mystique NewAge, elle n'a strictement rien à voir ni avec la physique, ni avec l'Univers.
 

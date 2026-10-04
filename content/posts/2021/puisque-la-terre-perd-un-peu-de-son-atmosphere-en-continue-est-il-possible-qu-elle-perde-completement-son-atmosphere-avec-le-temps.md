@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 En principe pas. D'après
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)
 
 L'augmentation du rayonnement solaire provoquera une évaporation des océans importante dans 1 mliard d'années et l'atmosphère terrestre deviendra une "serre humide" jusqu'à provoquer un climat venusien sur Terre dans 3.5 milliards d'années, avant que le Soleil ne devienne une géante rouge.

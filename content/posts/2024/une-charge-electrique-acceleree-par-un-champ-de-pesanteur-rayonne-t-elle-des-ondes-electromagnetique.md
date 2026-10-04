@@ -30,4 +30,4 @@ Bref il a démontré une fois de plus que c'est le sol qui accélère vers le ha
 
 Page très complète en anglais qui mériterait d'être traduite en français :
 
-[https://en.wikipedia.org/wiki/Pa...](w:en:Paradox_of_radiation_of_charged_particles_in_a_gravitational_field)
+[Paradox of radiation of charged particles in a gravitational field](w:en:Paradox_of_radiation_of_charged_particles_in_a_gravitational_field)

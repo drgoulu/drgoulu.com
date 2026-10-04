@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 2009
 
-[https://fr.wikipedia.org/wiki/Quora](w:Quora)
+[Quora](w:Quora)

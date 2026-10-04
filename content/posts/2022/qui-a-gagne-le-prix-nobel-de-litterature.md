@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 115 personnes listées ici :
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Prix_Nobel_de_littérature)
+[Prix Nobel de littérature](w:Prix_Nobel_de_littérature)

@@ -13,6 +13,6 @@ coverImage: ./images/qimg-68871c252465029195ff3316a0c28718.png
 
 Wikipedia est votre amie
 
-[https://fr.wikipedia.org/wiki/Ri...](w:Risk)
+[Risk](w:Risk)
 
 ![](./images/qimg-68871c252465029195ff3316a0c28718.png)

@@ -15,4 +15,4 @@ Non. La contraction des longueurs c'est la [Relativité restreinte](w:)et la cou
 
 Et ce n'est plus Einstein qui le dit, ce sont toutes les expériences qui le montrent.
 
-[https://fr.wikipedia.org/wiki/Te...](w:Tests_expérimentaux_de_la_relativité_générale)
+[Tests expérimentaux de la relativité générale](w:Tests_expérimentaux_de_la_relativité_générale)

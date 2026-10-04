@@ -91,7 +91,7 @@ Selon Gemini IA:
 >
 >
 >
-> [7] [https://fr.wikipedia.org](w:Islamisme_chiite)
+> [7] [Islamisme chiite](w:Islamisme_chiite)
 >
 >
 >

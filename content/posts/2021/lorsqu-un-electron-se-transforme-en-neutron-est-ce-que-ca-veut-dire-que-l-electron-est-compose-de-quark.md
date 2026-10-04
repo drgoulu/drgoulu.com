@@ -13,10 +13,10 @@ coverImage: ./images/quora.png
 
 Un électron ne peut pas se transformer en neutron, ce sont des particules trop différentes.
 
-[https://fr.wikipedia.org/wiki/Mo...](w:Modèle_standard_de_la_physique_des_particules)
+[Modèle standard de la physique des particules](w:Modèle_standard_de_la_physique_des_particules)
 
 Le proton peut transmuter en neutron et vice-versa car ils sont composés de 3 quarks . Dans ce cas un électron (ou un positon) est émis pour conserver la charge, et un neutrino pour conserver la quantité de mouvement de l'ensemble.
 
 C'est la
 
-[https://fr.wikipedia.org/wiki/Ra...](w:Radioactivité_β)
+[Radioactivité β](w:Radioactivité_β)

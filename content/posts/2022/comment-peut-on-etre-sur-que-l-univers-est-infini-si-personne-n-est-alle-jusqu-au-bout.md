@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Les estimations de la taille de l'univers se basent sur la mesure de la
 
-[https://fr.wikipedia.org/wiki/Co...](w:Courbure_spatiale)
+[Courbure spatiale](w:Courbure_spatiale)
 
 > La courbure spatiale de l'Univers est déterminée en analysant les anisotropies du [fond diffus cosmologique](w:). Actuellement, les données les plus précises sont celles qui ont été fournies par le [satellite Planck](w:) en 2013.
 >

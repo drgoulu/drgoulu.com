@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Je vis dans un pays où aucun parti n'a eu de majorité absolue au Parlement depuis plus d'un siècle.
 
-[https://fr.wikipedia.org/wiki/Co...](w:Conseil_national_(Suisse))
+[Conseil national (Suisse)](w:Conseil_national_\(Suisse\))
 
 On a même un gouvernement "de cohabitation" entre 4 partis depuis 1959.
 

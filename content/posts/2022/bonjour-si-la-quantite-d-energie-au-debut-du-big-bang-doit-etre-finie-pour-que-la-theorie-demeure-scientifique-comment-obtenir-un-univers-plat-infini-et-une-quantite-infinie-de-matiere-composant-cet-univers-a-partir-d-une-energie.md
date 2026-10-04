@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 
 Simple : l'univers a (peut-être) une énergie totale nulle !
 
-[https://fr.wikipedia.org/wiki/Un...](w:Univers_à_énergie_nulle)
+[Univers à énergie nulle](w:Univers_à_énergie_nulle)

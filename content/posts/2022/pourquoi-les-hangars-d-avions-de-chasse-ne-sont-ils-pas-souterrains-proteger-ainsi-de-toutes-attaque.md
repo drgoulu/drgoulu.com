@@ -30,6 +30,6 @@ autres images et infos :
 
 [http://www.loutan.net/olivier/ar...](http://www.loutan.net/olivier/archives/2014/06/09/ouvrage-fortifie-bunker-abris-a-avion-aviation-suisse/)
 
-[https://fr.wikipedia.org/wiki/Fo...](w:Forces_aériennes_suisses)
+[Forces aériennes suisses](w:Forces_aériennes_suisses)
 
 le truc, c'est qu'il faut une montagne juste à côté d'une vallée assez plate pour construire la piste …

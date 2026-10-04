@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-dit-on-que-42-est-le-chiffre-de-l-univers/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/La...](w:La_grande_question_sur_la_vie,_l'univers_et_le_reste)
+[La grande question sur la vie, l'univers et le reste](w:La_grande_question_sur_la_vie,_l'univers_et_le_reste)

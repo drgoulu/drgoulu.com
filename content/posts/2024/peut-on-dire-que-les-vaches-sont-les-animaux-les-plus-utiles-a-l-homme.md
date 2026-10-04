@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 On peut dire que nous avons fait en sorte que les vaches nous soient très utiles.
 
-[https://fr.wikipedia.org/wiki/Do...](w:Domestication_de_Bos_taurus)
+[Domestication de Bos taurus](w:Domestication_de_Bos_taurus)

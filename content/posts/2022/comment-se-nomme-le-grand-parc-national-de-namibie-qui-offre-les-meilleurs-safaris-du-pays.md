@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-se-nomme-le-grand-parc-national-de-Namibie-qui-offre-les-meilleurs-safaris-du-pays/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Pa...](w:Parc_national_d'Etosha)
+[Parc national d'Etosha](w:Parc_national_d'Etosha)

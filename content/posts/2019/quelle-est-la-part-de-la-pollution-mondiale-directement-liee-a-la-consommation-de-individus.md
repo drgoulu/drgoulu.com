@@ -22,7 +22,7 @@ coverImage: ./images/quora.png
 
 Mais comme:
 
-> Par extension, le mot désigne aussi parfois les conséquences de phénomènes géologiques comme une éruption[https://fr.m.wikipedia.org/wiki/Éruption_volcanique](w:Éruption_volcanique)volcanique.
+> Par extension, le mot désigne aussi parfois les conséquences de phénomènes géologiques comme une éruption[Éruption volcanique](w:Éruption_volcanique)volcanique.
 
 On peut considérer qu'il ya quelques % de "pollution naturelle" de certains gaz:
 

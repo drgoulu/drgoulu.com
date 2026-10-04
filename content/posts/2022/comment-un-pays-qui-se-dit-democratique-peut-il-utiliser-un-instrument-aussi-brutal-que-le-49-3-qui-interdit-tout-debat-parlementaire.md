@@ -15,4 +15,4 @@ La France est une république, pas une démocratie.
 
 Vous élisez un monarque pour 5 ans.
 
-[https://fr.wikipedia.org/wiki/In...](w:Indice_de_démocratie)
+[Indice de démocratie](w:Indice_de_démocratie)

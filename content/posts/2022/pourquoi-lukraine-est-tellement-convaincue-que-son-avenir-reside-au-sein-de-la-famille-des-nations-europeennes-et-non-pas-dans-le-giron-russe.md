@@ -17,6 +17,6 @@ Mais maintenant l'invasion russe rend les choses très claires.
 
 L'historique de la page Wikipédia me semble bien fait :
 
-[https://fr.wikipedia.org/wiki/Co...](w:Conflit_russo-ukrainien)
+[Conflit russo-ukrainien](w:Conflit_russo-ukrainien)
 
 En tout cas il me semble correspondre à ce qu'un ami qui a de la famille dans le Donbass et y allait régulièrement me raconte depuis des années.

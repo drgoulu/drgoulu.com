@@ -13,8 +13,8 @@ coverImage: ./images/quora.png
 
 Il en existe des dizaines . Commencez par la Wikipédia, vous trouverez des références au bas des articles
 
-[https://fr.wikipedia.org/wiki/No...](w:Nombre_premier)
+[Nombre premier](w:Nombre_premier)
 
-[https://fr.wikipedia.org/wiki/No...](w:Nombre_parfait)
+[Nombre parfait](w:Nombre_parfait)
 
-[https://fr.wikipedia.org/wiki/Pi...](w:Pi)
+[Pi](w:Pi)

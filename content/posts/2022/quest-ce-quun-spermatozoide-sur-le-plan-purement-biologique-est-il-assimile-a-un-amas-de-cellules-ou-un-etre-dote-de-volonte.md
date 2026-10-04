@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 C'est une seule cellule, avec la moitié du génome de l'organisme qui l'a produit.
 
-[https://fr.wikipedia.org/wiki/Sp...](w:Spermatozoïde)
+[Spermatozoïde](w:Spermatozoïde)
 
 Idem pour l'ovule.
 

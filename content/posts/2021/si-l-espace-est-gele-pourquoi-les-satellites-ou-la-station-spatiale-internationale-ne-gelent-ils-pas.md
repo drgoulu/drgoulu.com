@@ -15,7 +15,7 @@ Ils gèlent, mais très lentement.
 
 L'intérieur de
 
-[https://fr.wikipedia.org/wiki/Sa...](w:Saliout_7)
+[Saliout 7](w:Saliout_7)
 
 était à 3 ou 4° C après 4 mois de panne électrique totale.
 

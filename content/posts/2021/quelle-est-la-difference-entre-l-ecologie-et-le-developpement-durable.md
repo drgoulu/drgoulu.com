@@ -18,19 +18,19 @@ coverImage: ./images/quora.png
 
 L'
 
-[https://fr.wikipedia.org/wiki/%C...](w:Écologie)
+[Écologie](w:Écologie)
 
 est la science qui étudie les interactions des [êtres vivants](w:Vie) entre eux et avec leur [milieu](w:Milieu_extérieur),
 
 à ne pas confondre avec l'
 
-[https://fr.wikipedia.org/wiki/%C...](w:Écologisme)
+[Écologisme](w:Écologisme)
 
 , tout comme la sociologie est distincte du socialisme.
 
 Le
 
-[https://fr.wikipedia.org/wiki/D%...](w:Développement_durable)
+[Développement durable](w:Développement_durable)
 
 est
 

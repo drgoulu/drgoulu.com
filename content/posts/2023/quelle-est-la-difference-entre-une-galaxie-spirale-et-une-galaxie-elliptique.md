@@ -15,4 +15,4 @@ L'âge depuis la dernière fusion de la galaxie.
 
 Les galaxies commencent par être elliptique (les étoiles orbitent dans tous les sens) puis elles s'aplatissent et les spirales se forment, et quand elles rencontrent une autre galaxie ça redevient le chaos elliptique et ça recommence…
 
-[https://fr.wikipedia.org/wiki/Fo...](w:Formation_et_évolution_des_galaxies)
+[Formation et évolution des galaxies](w:Formation_et_évolution_des_galaxies)

@@ -22,7 +22,7 @@ Comparer Homo Sapiens "au dauphin" c'est comme comparer [Tursiops Truncatus](w:G
 
 Donc si vous voulez comparer l'intelligence d'Homo Sapiens aux dauphins, il faut préciser lesquels.
 
-[https://fr.wikipedia.org/wiki/Da...](w:Dauphin)
+[Dauphin](w:Dauphin)
 
 Ensuite il faut expliquer comment vous mesurez et comparez l'intelligence de deux espèces si différentes. Mais pour fixer les idées on sait aujourd'hui (références scientifiques dans une autre de mes réponses que je ne retrouve plus:
 

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Non elle diminue
 
-[https://fr.wikipedia.org/wiki/D%...](w:Décalage_d'Einstein)
+[Décalage d'Einstein](w:Décalage_d'Einstein)
 
 Et pas besoin de trou noir, ça se mesure déjà sur Terre.

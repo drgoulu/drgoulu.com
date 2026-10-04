@@ -15,4 +15,4 @@ Vous avez le numéro du brevet svp ?
 
 C'est probablement pour les rendre résistantes à un herbicide.
 
-[https://fr.wikipedia.org/wiki/R%...](w:Résistance_aux_herbicides)
+[Résistance aux herbicides](w:Résistance_aux_herbicides)

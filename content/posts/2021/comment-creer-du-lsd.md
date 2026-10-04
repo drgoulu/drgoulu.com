@@ -15,6 +15,6 @@ On ne "crée" pas une molécule, on la synthétise.
 
 La recette est dans
 
-[https://fr.wikipedia.org/wiki/LS...](w:LSD)
+[LSD](w:LSD)
 
 Mais en principe vous aurez de la visite dès que vous vous procurerez les ingrédients.

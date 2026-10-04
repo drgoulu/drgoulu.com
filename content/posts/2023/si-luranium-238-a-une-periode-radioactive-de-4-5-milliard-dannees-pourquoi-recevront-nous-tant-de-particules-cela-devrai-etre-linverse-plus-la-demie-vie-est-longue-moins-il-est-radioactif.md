@@ -14,7 +14,7 @@ coverImage: ./images/quora.png
 
 C'est exactement ça. L'Uranium naturel (238) est très peu radioactif, vous pouvez le manipuler à la main.
 
-[https://fr.wikipedia.org/wiki/Ur...](w:Uranium)
+[Uranium](w:Uranium)
 
 Vous recevez "tant de particules" parce que l'Uranium n'est pas rare dans la nature, il y en a un peu partout, et chaque fois qu'un atome se désintègre il crée une [chaîne de désintégration](w:Uranium_238) de plusieurs éléments beaucoup plus radioactifs, notamment le radium et le radon.
 

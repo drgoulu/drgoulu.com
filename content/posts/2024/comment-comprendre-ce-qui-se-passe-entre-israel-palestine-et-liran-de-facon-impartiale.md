@@ -24,6 +24,6 @@ Vous ne trouverez pas beaucoup de sources appuyant le gouvernement iranien, mais
 
 Pour Israël / Palestine, plus je relis l'article
 
-[https://fr.wikipedia.org/wiki/Pl...](w:Plan_de_partage_de_la_Palestine)
+[Plan de partage de la Palestine](w:Plan_de_partage_de_la_Palestine)
 
 plus je le trouve remarquable.

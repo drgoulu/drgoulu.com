@@ -22,4 +22,4 @@ Aujourd'hui on observe le champ magnétique solaire, sa couronne, les taches, on
 
 Si nous sommes là, c'est parce que le Soleil est une étoile très stable depuis 4 milliards d'années, et que ça va continuer pour quelques milliards d'années de plus.
 
-[https://fr.wikipedia.org/wiki/%C...](w:Évolution_stellaire)
+[Évolution stellaire](w:Évolution_stellaire)

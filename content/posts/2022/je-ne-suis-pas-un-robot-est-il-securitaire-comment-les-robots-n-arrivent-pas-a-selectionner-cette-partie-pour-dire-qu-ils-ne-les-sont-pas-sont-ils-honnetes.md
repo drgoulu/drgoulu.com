@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Oui, les
 
-[https://fr.wikipedia.org/wiki/CA...](w:CAPTCHA)
+[CAPTCHA](w:CAPTCHA)
 
 Sont assez "sécuritaires", pour parler québécois.
 

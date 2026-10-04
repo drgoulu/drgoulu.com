@@ -15,4 +15,4 @@ Attendre calmement. Un [Détournement d'avion](w:)consiste sauf rare exceptions 
 
 Merci pour la question qui m'a fait découvrir l'incroyable histoire de
 
-[https://fr.wikipedia.org/wiki/D....](w:D._B._Cooper)
+[D. B. Cooper](w:D._B._Cooper)

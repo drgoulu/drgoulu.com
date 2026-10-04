@@ -22,7 +22,7 @@ C'est vrai aussi pour la France
 
 Et l article
 
-[https://fr.wikipedia.org/wiki/Fu...](w:Fuite_des_cerveaux)
+[Fuite des cerveaux](w:Fuite_des_cerveaux)
 
 mentionne beaucoup d'autres pays montrant que le phénomène est bien plus lié à l'économie qu'à la religion.
 

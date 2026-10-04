@@ -15,4 +15,4 @@ Un peu comme le cortex visuel analyse les images fournies par les yeux : il a é
 
 Details ici
 
-[https://fr.wikipedia.org/wiki/Am...](w:Amygdale_(cerveau))
+[Amygdale (cerveau)](w:Amygdale_\(cerveau\))

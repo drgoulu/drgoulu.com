@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Pas énorme (0.5% des émissions humaines de CO2) mais après il faudra reconstruire, et le béton et l'acier sont très énergivores.
 
-[https://en.wikipedia.org/wiki/En...](w:en:Environmental_impact_of_the_Russian_invasion_of_Ukraine)
+[Environmental impact of the Russian invasion of Ukraine](w:en:Environmental_impact_of_the_Russian_invasion_of_Ukraine)

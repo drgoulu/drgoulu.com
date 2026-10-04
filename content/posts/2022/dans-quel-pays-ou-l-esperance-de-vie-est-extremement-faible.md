@@ -21,4 +21,4 @@ C est extraordinaire parce qu'un siècle plus tôt, en 1917, aucun pays du monde
 
 Il n'y a donc plus de pays à espérance de vie "extrêmement faible". Il y a des pays en début de transition démographique, donc avec une mortalité infantile encore élevée.
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Transition_démographique)
+[Transition démographique](w:Transition_démographique)

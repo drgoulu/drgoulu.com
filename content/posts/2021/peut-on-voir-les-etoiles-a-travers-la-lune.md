@@ -15,7 +15,7 @@ Patience.
 
 Ceci est une "image" du Soleil prise à travers la Terre par le détecteur de neutrinos
 
-[https://fr.wikipedia.org/wiki/Su...](w:Super-Kamiokande)
+[Super-Kamiokande](w:Super-Kamiokande)
 
 ![](./images/qimg-59feef1f91c5450fe61550de8147d50f.jpg)
 

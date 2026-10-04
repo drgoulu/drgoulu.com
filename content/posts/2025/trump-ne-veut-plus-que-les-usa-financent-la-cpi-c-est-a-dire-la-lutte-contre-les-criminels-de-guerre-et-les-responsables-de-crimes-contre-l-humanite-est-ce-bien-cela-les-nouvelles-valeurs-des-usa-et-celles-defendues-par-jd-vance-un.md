@@ -20,4 +20,4 @@ Ce qui est extrêmement grave par contre, c'est que Trump a en fait décrété d
 
 Comme arrêter Poutine ou Netanyahu par exemple…
 
-[https://en.wikipedia.org/wiki/Un...](w:en:United_States_and_the_International_Criminal_Court)
+[United States and the International Criminal Court](w:en:United_States_and_the_International_Criminal_Court)

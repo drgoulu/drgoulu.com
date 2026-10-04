@@ -21,4 +21,4 @@ Par contre les "sociétés anthroposophiques" ont l'air de se porter très bien 
 
 De nombreux aspects de l'anthroposophie la rapprochent d'une secte. En Suisse elle n' est pas considérée comme telle, mais la France la considère comme "mouvement sectaire important", et ça me paraît correct.
 
-[https://fr.wikipedia.org/wiki/An...](w:Anthroposophie)
+[Anthroposophie](w:Anthroposophie)

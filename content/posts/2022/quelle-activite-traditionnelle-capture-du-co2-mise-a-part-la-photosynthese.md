@@ -17,4 +17,4 @@ Les coraux constituent un des principaux puits de carbone, produisant du carbona
 
 Toutes les roches calcaires de la planète ont été produites par ces bestioles.
 
-[https://fr.wikipedia.org/wiki/Cy...](w:Cycle_du_carbone)
+[Cycle du carbone](w:Cycle_du_carbone)

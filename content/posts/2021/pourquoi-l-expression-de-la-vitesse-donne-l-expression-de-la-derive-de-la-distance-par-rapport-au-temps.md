@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 parce que c'est sa définition.
 
-[https://fr.wikipedia.org/wiki/Vi...](w:Vitesse)
+[Vitesse](w:Vitesse)

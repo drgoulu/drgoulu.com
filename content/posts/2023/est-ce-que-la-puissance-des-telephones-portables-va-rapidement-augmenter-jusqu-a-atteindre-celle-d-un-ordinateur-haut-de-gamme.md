@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Mon smartphone est aussi puissant que le
 
-[https://en.wikipedia.org/wiki/Cr...](w:en:Cray-2)
+[Cray-2](w:en:Cray-2)
 
 devant lequel nous nous prosternions quand j'étais étudiant à l'EPFL.
 

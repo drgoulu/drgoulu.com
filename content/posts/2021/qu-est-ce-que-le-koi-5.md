@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Qu-est-ce-que-le-KOI-5/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/KOI-5](w:KOI-5)
+[KOI-5](w:KOI-5)

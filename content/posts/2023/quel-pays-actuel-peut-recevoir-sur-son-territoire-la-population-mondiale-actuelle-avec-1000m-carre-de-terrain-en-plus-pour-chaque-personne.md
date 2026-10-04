@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Les 6 plus grands
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_pays_et_territoires_par_superficie)
+[Liste des pays et territoires par superficie](w:Liste_des_pays_et_territoires_par_superficie)

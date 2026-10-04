@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quel-est-le-trait%C3%A9-l%C3%A9galisant-le-transfert-de-la-Crim%C3%A9e-de-lUkraine-vers-la-Russie-et-sil-ny-en-a-pas-quelle-conclusion-en-tirer/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/An...](w:Annexion_de_la_Crimée_par_la_Russie_en_2014)
+[Annexion de la Crimée par la Russie en 2014](w:Annexion_de_la_Crimée_par_la_Russie_en_2014)
 
 > L'[Assemblée générale de l'ONU](w:Assemblée_générale_des_Nations_unies) adopte le 27 mars 2014 avec 100 voix pour et 11 contre, une [résolution](w:Résolution_68/262_de_l'Assemblée_générale_des_Nations_unies) non contraignante qui souligne le caractère invalide du référendum en Crimée et le rattachement de cette péninsule à la Russie.
 

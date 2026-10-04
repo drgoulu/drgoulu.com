@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Dans la longue liste des [Espèces en danger critique](w:Espèce_en_danger_critique)d'extinction, j'ai choisi
 
-[https://fr.wikipedia.org/wiki/Ri...](w:Risiocnemis_seidenschwarzi)
+[Risiocnemis seidenschwarzi](w:Risiocnemis_seidenschwarzi)
 
 Une libellule des Philippines.
 

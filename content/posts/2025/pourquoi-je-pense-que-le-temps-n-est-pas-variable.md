@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Heu…non. Votre intuition est incompatible avec la constance de la vitesse de la lumière. La physique n'est pas un jeu de devinettes. Relisez votre cours de relativité.
 
-[https://fr.wikipedia.org/wiki/Re...](w:Relativité_restreinte)
+[Relativité restreinte](w:Relativité_restreinte)

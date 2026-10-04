@@ -15,6 +15,6 @@ draft: true
 
 [http://blogs.discovermagazine.com/cosmicvariance/2011/07/13/free-will-is-as-real-as-baseball/](http://blogs.discovermagazine.com/cosmicvariance/2011/07/13/free-will-is-as-real-as-baseball/)
 
-[http://fr.wikipedia.org/wiki/Incompatibilisme](w:Incompatibilisme)
+[Incompatibilisme](w:Incompatibilisme)
 
-[http://en.wikipedia.org/wiki/Compatibilism](w:en:Compatibilism)
+[Compatibilism](w:en:Compatibilism)

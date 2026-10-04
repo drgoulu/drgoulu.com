@@ -20,4 +20,4 @@ le langage articulé est le résultat de toute une série d'adaptations physique
 
 Notamment, on sait depuis 1998 que la [Protéine Forkhead-P2 codée par le gène FOXP2](w:Protéine_Forkhead-P2) joue un rôle très important dans la maîtrise du langage, et depuis 2015 on pense que la dernière mutation de ce gène date de 200'000 à 100'000 ans environ chez l’ancêtre commun d’[*Homo sapiens*](w:Homo_sapiens) et de l'[Homme de Néandertal](w:) , ce qui coïncide avec l’estimation de l’apparition du langage articulé.
 
-[https://fr.wikipedia.org/wiki/Or...](w:Origine_du_langage)
+[Origine du langage](w:Origine_du_langage)

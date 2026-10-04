@@ -14,7 +14,7 @@ coverImage: ./images/qimg-2dc7a30a75f8198eb394f05657dd991b.jpg
 
 voir
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Premier_peuplement_de_l'Amérique)
+[Premier peuplement de l'Amérique](w:Premier_peuplement_de_l'Amérique)
 
 pendant la dernière glaciation, le niveau des océans était environ 100m plus bas que maintenant. On sait que les chevaux passaient à pattes d'un continent à l'autre dans cette région[[1]](#ZbUcg) jusqu'à il y a 11'600 ans.
 

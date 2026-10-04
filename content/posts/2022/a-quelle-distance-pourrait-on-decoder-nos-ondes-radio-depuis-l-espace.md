@@ -39,7 +39,7 @@ Par contre, comme ça a été dit ailleurs, on émet désormais avec des émette
 
 Bon, ça c'était pour nos émissions "à usage interne". Parce qu'effectivement, si on veut émettre un signal destiné à E.T., on peut espérer le faire :
 
-1. avec des antennes très directionnelles dirigée vers un récepteur potentiel présumé. Par exemple les émetteurs du [Deep Space Network](w:)qui communiquent avec nos sondes lointaines peuvent émettre 400 kW, mais focalisés dans un angle $\theta = 0.2°$environ, ce qui fait que la densité surfacique de puissance reçue à une distance d vaut[https://fr.wikipedia.org/wiki/Densité_surfacique_de_puissance](w:Densité_surfacique_de_puissance)$\varphi = P/\left(2\pi.d^2.(1-\cos{\theta})\right)$ . A une année-lumière on reçoit $1.167\times 10^{-22}$ Watt par m2, ce qui commence a être presque détectable
+1. avec des antennes très directionnelles dirigée vers un récepteur potentiel présumé. Par exemple les émetteurs du [Deep Space Network](w:)qui communiquent avec nos sondes lointaines peuvent émettre 400 kW, mais focalisés dans un angle $\theta = 0.2°$environ, ce qui fait que la densité surfacique de puissance reçue à une distance d vaut[Densité surfacique de puissance](w:Densité_surfacique_de_puissance)$\varphi = P/\left(2\pi.d^2.(1-\cos{\theta})\right)$ . A une année-lumière on reçoit $1.167\times 10^{-22}$ Watt par m2, ce qui commence a être presque détectable
 2. en envoyant un message étudié pour être simple, clair, résistant aux erreurs comme le [Cosmic Call](w:Cosmic_Call)
 3. et en le répétant plusieurs fois, jusqu'à ce qu'on lise [La Forêt sombre](w:) et qu'on s'aperçoive que c'est une grosse bêtise.
 

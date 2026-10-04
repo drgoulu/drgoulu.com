@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Toute ressemblance avec des îles vietnamienes, philippines, malaises, ou indonésiennes qui seraient proches de la Chine ne serait que pure coincidence…
 
-[https://fr.wikipedia.org/wiki/Co...](w:Conflit_en_mer_de_Chine_méridionale)
+[Conflit en mer de Chine méridionale](w:Conflit_en_mer_de_Chine_méridionale)

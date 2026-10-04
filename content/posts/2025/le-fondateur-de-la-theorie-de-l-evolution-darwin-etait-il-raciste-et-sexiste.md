@@ -17,4 +17,4 @@ Darwin était clairement anti esclavagiste et plutôt anti raciste
 
 Il était par contre clairement sexiste, comme tous les hommes de son époque
 
-[https://fr.wikipedia.org/wiki/Op...](w:Opinions_de_Darwin_sur_les_femmes)
+[Opinions de Darwin sur les femmes](w:Opinions_de_Darwin_sur_les_femmes)

@@ -13,11 +13,11 @@ coverImage: ./images/quora.png
 
 La troisième loi de Newton s'appelle aujourd'hui la
 
-[https://fr.wikipedia.org/wiki/Co...](w:Conservation_de_la_quantité_de_mouvement)
+[Conservation de la quantité de mouvement](w:Conservation_de_la_quantité_de_mouvement)
 
 et c est l'une des lois de conservation, liées aux symétries en physique par le
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorème_de_Noether_(physique))
+[Théorème de Noether (physique)](w:Théorème_de_Noether_\(physique\))
 
 Bref, si vous poussez un truc dans une direction, vous devez pousser un bidule en sens inverse.
 

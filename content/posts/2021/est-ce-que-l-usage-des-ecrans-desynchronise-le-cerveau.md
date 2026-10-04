@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Le cerveau est asynchrone. C'est une machine très massivement parallèle, chaque neurone communique avec ses voisins en modulation de fréquence.
 
-[https://fr.wikipedia.org/wiki/Po...](w:Potentiel_d'action)
+[Potentiel d'action](w:Potentiel_d'action)
 
 Le cerveau est donc insensible aux fréquences constantes, à des intensités raisonnables évidemment.

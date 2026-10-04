@@ -11,6 +11,6 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Que-penseriez-vous-si-vous-voyiez-des-oiseaux-former-le-nom-d-Allah-dans-le-ciel-Moi-je-l-ai-vu-%C3%A0-9-ans-Pour-moi-%C3%A7a-prouve-Son-existence-M%C3%AAme-sans-%C3%A7a-le-Coran-se-r%C3%A9alise-surtout-les/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Pa...](w:Paréidolie)
+[Paréidolie](w:Paréidolie)
 
 Désolé je suis "égaré" depuis que j'ai été à l'école…

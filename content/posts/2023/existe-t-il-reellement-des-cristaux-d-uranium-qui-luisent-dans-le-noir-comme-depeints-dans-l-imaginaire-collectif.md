@@ -15,6 +15,6 @@ Pour être lumineuse, une matière radioactive doit soit être très chaude (des
 
 C est la
 
-[https://fr.wikipedia.org/wiki/Ra...](w:Radioluminescence)
+[Radioluminescence](w:Radioluminescence)
 
 L'uranium n'est pas radioluminescent. A ma connaissance seuls le radium et le tritium le sont.

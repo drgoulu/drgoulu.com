@@ -19,4 +19,4 @@ Ensuite on a pu utiliser les mesures du [Fond diffus cosmologique](w:) faites pa
 
 C'est un peu technique (= j'ai pas tout compris…) mais ces mesures ont permis de déterminer l'âge accepté actuellement **13,787 ± 0,020 milliards d'années**soit une précision assez extraordinaire de 0.14%
 
-[https://fr.wikipedia.org/wiki/%C...](w:Âge_de_l'Univers)
+[Âge de l'Univers](w:Âge_de_l'Univers)

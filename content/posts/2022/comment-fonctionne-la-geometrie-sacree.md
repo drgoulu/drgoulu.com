@@ -11,6 +11,6 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-fonctionne-la-g%C3%A9om%C3%A9trie-sacr%C3%A9e/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/G%...](w:Géométrie_sacrée)
+[Géométrie sacrée](w:Géométrie_sacrée)
 
 ca ne fonctionne pas, c'est juste joli pour certains.

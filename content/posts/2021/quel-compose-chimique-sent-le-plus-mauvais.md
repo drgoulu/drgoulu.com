@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Je dirais l'
 
-[https://fr.wikipedia.org/wiki/Ac...](w:Acide_butanoïque)
+[Acide butanoïque](w:Acide_butanoïque)
 
 On en avait amené discrètement au collège … la récré avait été prolongée d'une demi-heure pour bien aérer :-D

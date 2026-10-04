@@ -27,7 +27,7 @@ or aux USA, seule la Cour Suprême a le pouvoir d'amender la sacro sainte Consti
 
 Par contre les Etats peuvent édicter des lois locales restreignant l'accès aux armes, et il y a déjà de grosses différences entre Etats, voir
 
-[https://en.wikipedia.org/wiki/Gu...](w:en:Gun_laws_in_the_United_States_by_state)
+[Gun laws in the United States by state](w:en:Gun_laws_in_the_United_States_by_state)
 
 Les données[[1]](#TpUAy) montrent clairement que ces Etats restreignant l'accès aux armes ont moins de tueries de masse, mais certains crânes sont imperméables à la science. Ou alors ces crânes préfèrent tirer à la mitrailleuse le week-end pour s'amuser que de protéger leurs enfants à l'école. Question de priorités…
 

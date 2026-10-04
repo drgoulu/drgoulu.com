@@ -15,6 +15,6 @@ Une bonne voiture.
 
 Pour la
 
-[https://fr.wikipedia.org/wiki/R%...](w:Région_du_Darién)
+[Région du Darién](w:Région_du_Darién)
 
 Il faut la mettre sur un ferry.

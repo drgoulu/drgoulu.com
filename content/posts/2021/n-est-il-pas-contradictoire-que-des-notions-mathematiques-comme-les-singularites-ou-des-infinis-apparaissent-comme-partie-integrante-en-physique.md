@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Ces notions n'apparaissent pas en physique, la
 
-[https://fr.wikipedia.org/wiki/Ce...](w:Censure_cosmique)
+[Censure cosmique](w:Censure_cosmique)
 
 y veille…
 

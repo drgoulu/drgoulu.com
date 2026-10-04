@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Aucun batracien ne figure comme
 
-[https://fr.wikipedia.org/wiki/Or...](w:Organisme_modèle)
+[Organisme modèle](w:Organisme_modèle)
 
 Donc vous avez sûrement vu ça dans un contexte particulier.

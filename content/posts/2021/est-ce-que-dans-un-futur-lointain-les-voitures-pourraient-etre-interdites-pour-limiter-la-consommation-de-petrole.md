@@ -15,4 +15,4 @@ On assimile le trafic automobile aux émissions de CO2, mais tous les transports
 
 La production d'électricité, c'est 25%, la déforestation à peu près autant (24%) et l'industrie 21%.
 
-[https://fr.wikipedia.org/wiki/%C...](w:Émission_de_dioxyde_de_carbone)
+[Émission de dioxyde de carbone](w:Émission_de_dioxyde_de_carbone)

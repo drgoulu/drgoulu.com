@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 C'est hélas loin d'être le cas. Selon
 
-[https://fr.wikipedia.org/wiki/In...](w:Indice_de_démocratie)
+[Indice de démocratie](w:Indice_de_démocratie)
 
 - 5.7% de la population mondiale vit dans une "démocratie plein"
 - 42,7% (dont les USA…) vivent dans une "démocratie imparfaite"

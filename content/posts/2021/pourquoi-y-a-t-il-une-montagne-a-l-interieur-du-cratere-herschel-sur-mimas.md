@@ -30,4 +30,4 @@ Quoique
 
 Et
 
-[https://fr.wikipedia.org/wiki/As...](w:Astroblème_de_Rochechouart-Chassenon)
+[Astroblème de Rochechouart-Chassenon](w:Astroblème_de_Rochechouart-Chassenon)

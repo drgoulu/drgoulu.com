@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 C'est exactement ça. En relativité, il n y a aucune différence, c'est le
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Principe_d'équivalence)
+[Principe d'équivalence](w:Principe_d'équivalence)
 
 (fort)
 

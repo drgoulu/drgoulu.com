@@ -24,7 +24,7 @@ Ensuite, chaque molécule chimique absorbe certaines longueurs d'onde. Les raies
 
 Il faut donc évidemment tenir compte de l atmosphère terrestre, donc des
 
-[https://fr.wikipedia.org/wiki/Ra...](w:Raies_de_Fraunhofer)
+[Raies de Fraunhofer](w:Raies_de_Fraunhofer)
 
 qui sont les premières raies d'absorption observées, au début du 19ème siècle siècle.
 

@@ -19,4 +19,4 @@ Introduction :
 
 Précisions :
 
-[https://fr.wikipedia.org/wiki/M%...](w:Métrique_de_Minkowski)
+[Métrique de Minkowski](w:Métrique_de_Minkowski)

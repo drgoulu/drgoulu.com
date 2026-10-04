@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Avec des instruments comme LIGO
 
-[https://fr.wikipedia.org/wiki/La...](w:Laser_Interferometer_Gravitational-Wave_Observatory)
+[Laser Interferometer Gravitational-Wave Observatory](w:Laser_Interferometer_Gravitational-Wave_Observatory)
 
 On mesure la différence de longueur de deux bras perpendiculaires de 4km chacun par interférométrie, avec une précision de l'ordre du diamètre d'un proton …

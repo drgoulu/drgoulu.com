@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 L'évolution a favorisé le
 
-[https://fr.wikipedia.org/wiki/Gr...](w:Gravitropisme)
+[Gravitropisme](w:Gravitropisme)
 
 parce qu'il permet à l'arbre de capter un max d'énergie solaire en prenant un minimum de risques de tomber.
 

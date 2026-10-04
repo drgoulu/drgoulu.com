@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Si-tu-%C3%A9tais-un-oiseau-%C3%A0-quoi-ressemblerait-il/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chocard_à_bec_jaune)
+[Chocard à bec jaune](w:Chocard_à_bec_jaune)
 
 Le plus extraordinaire planeur acrobatique paresseux que je connaisse.
 

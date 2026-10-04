@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Ceux qui n'ont pas assez de neutrons "expirent" aussi parce qu'un noyau atomique n'est stable que dans certains cas.
 
-[https://fr.wikipedia.org/wiki/Va...](w:Vallée_de_stabilité)
+[Vallée de stabilité](w:Vallée_de_stabilité)
 
 [Formule de Weizsäcker — Wikipédia](w:Formule_de_Weizsäcker)

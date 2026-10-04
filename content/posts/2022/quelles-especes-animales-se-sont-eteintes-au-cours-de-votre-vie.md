@@ -22,14 +22,14 @@ Juste quelques espèces [Éteintes à l'état sauvage](w:Éteint_à_l'état_sauv
 - [Stenodus leucichthys](w:)
 - [Tortue noire à carapace molle](w:Nilssonia_nigricans) (éteinte à l'état sauvage depuis 2002)
 - [Cyprinodon longidorsalis](w:)
-- [Encephalartos brevifoliolatus](https://fr.wikipedia.org/w/index.php?title=Encephalartos_brevifoliolatus&action=edit&redlink=1) (éteint à l'état sauvage depuis 2006)
+- [Encephalartos brevifoliolatus](w:Encephalartos_brevifoliolatus) (éteint à l'état sauvage depuis 2006)
 - [Franklinia alatamaha](w:)
-- [Skiffia francesae](https://fr.wikipedia.org/w/index.php?title=Skiffia_francesae&action=edit&redlink=1), le skiffia doré
+- [Skiffia francesae](w:Skiffia_francesae), le skiffia doré
 - [Martin-chasseur cannelle](w:) (éteint à l'état sauvage depuis 1986)
 - [Corneille d'Hawaï](w:)
 - [Nectophrynoides asperginis](w:)
-- [Leptogryllus deceptor](https://fr.wikipedia.org/w/index.php?title=Leptogryllus_deceptor&action=edit&redlink=1)
-- [Galaxias pedderensis](https://fr.wikipedia.org/w/index.php?title=Galaxias_pedderensis&action=edit&redlink=1)
+- [Leptogryllus deceptor](w:Leptogryllus_deceptor)
+- [Galaxias pedderensis](w:Galaxias_pedderensis)
 - [Cerf du père David](w:) (éteint à l'état sauvage depuis 2008)
 - [Oryx algazelle](w:)
 - [Tourterelle de Socorro](w:) (éteint à l'état sauvage depuis 1972)

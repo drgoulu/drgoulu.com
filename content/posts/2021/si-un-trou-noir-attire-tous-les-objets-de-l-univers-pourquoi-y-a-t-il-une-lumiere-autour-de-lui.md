@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Un trou noir n'attire pas plus qu'une étoile de même masse. Il peut y avoir des objets en orbite autour de lui. À une certaine distance, la vitesse orbitale est si élevée que les objets forment un
 
-[https://fr.wikipedia.org/wiki/Di...](w:Disque_d'accrétion)
+[Disque d'accrétion](w:Disque_d'accrétion)
 
 Le frottement entre les particules de ce disque est si intense qu'il se chauffe et devient "lumineux"
 
@@ -26,6 +26,6 @@ Je mets "lumineux" entre guillemets parce que le disque n'est pas forcément ass
 
 En effet, les mesures faites par l'
 
-[https://fr.wikipedia.org/wiki/Ev...](w:Event_Horizon_Telescope)
+[Event Horizon Telescope](w:Event_Horizon_Telescope)
 
 Ont nécessité beaucoup de traitement numérique pour produire une image visible.

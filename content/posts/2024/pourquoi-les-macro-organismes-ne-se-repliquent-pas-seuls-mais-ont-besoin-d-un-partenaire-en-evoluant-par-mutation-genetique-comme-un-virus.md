@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce que l'évolution a trouvé que c'était mieux. Ça permet le brassage génétique.
 
-[https://fr.wikipedia.org/wiki/Se...](w:Sexualité_(reproduction))
+[Sexualité (reproduction)](w:Sexualité_\(reproduction\))

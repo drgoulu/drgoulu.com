@@ -20,7 +20,7 @@ On calcule la magnitude absolue à partir de la magnitude apparente et de la dis
 
 Il y a des étoiles des milliers, voire des millions de fois plus brillantes que le soleil. Le record actuel est
 
-[https://fr.wikipedia.org/wiki/R1...](w:R136a1)
+[R136a1](w:R136a1)
 
 Elle émet en 4 secondes autant de lumière que le soleil en une année.
 

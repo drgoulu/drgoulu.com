@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 La pleine lune n'a aucun effet statistiquement démontrable (à part un peu plus de lumière ) sur rien
 
-[https://fr.wikipedia.org/wiki/In...](w:Influence_lunaire)
+[Influence lunaire](w:Influence_lunaire)
 
 Une croyance infondée peut difficilement avoir de l'effet sur une autre croyance infondée…

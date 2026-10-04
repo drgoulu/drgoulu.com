@@ -30,6 +30,6 @@ Le progrès technique / scientifique à quelques caractéristiques:
 
 Donc tout va de plus en plus extraordinairement vite, au point que certaines personnes dont moi pensent que la
 
-[https://fr.wikipedia.org/wiki/Si...](w:Singularité_technologique)
+[Singularité technologique](w:Singularité_technologique)
 
 est proche.

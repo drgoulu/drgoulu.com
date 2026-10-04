@@ -22,7 +22,7 @@ Les guerres se préparent aux cours d'histoire/géo voire de politique à l'éco
 
 Pour ça il faut une presse libre. Quand je militais pour Amnesty International, j'écrivais pour soutenir des opposants politiques, Nelson Mandela, Aung Sang Suu Kyi et des centaines d'autres qui n'ont pas eu le prix Nobel. Aujourd'hui je pense que des journalistes sont au moins aussi importants.
 
-[Dmitri Mouratov](w:)a eu le prix Nobel, mais Igor Domnikov, [Iouri Chtchekotchikhine](https://fr.wikipedia.org/w/index.php?title=Iouri_Chtchekotchikhine&action=edit&redlink=1), [Anna Politkovskaïa](w:), Anastassia Babourova, Natalia Estemirova et Stanislav Markelov tous journalistes du même journal ont été tués. Ils auraient peut-être pu éviter une guerre rien qu'en faisant leur travail.
+[Dmitri Mouratov](w:)a eu le prix Nobel, mais Igor Domnikov, [Iouri Chtchekotchikhine](w:Iouri_Chtchekotchikhine), [Anna Politkovskaïa](w:), Anastassia Babourova, Natalia Estemirova et Stanislav Markelov tous journalistes du même journal ont été tués. Ils auraient peut-être pu éviter une guerre rien qu'en faisant leur travail.
 
 Informez-vous auprès de sources multiples et indépendantes, et ne propagez que les informations vérifiées et sourcées.
 

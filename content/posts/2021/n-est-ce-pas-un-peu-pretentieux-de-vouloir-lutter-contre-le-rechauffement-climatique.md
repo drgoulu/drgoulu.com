@@ -17,6 +17,6 @@ Certains pensent qu'on est prétentieux d'imaginer modifier le climat, mais c'es
 
 Et petit à petit, nous allons "maîtriser la nature", en effet. Nous grimpons l'
 
-[https://fr.wikipedia.org/wiki/%C...](w:Échelle_de_Kardachev)
+[Échelle de Kardachev](w:Échelle_de_Kardachev)
 
 Lentement, mais sûrement.

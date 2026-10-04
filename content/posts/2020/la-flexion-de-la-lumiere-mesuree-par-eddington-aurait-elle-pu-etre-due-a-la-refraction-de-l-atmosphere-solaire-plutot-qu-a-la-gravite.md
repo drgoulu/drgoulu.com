@@ -16,7 +16,7 @@ coverImage: ./images/qimg-d4eb6ff8878bfa7e66408e1db8d30296.jpg
 
 *Réponse publiée [sur Quora](https://fr.quora.com/La-flexion-de-la-lumi%C3%A8re-mesur%C3%A9e-par-Eddington-aurait-elle-pu-%C3%AAtre-due-%C3%A0-la-r%C3%A9fraction-de-latmosph%C3%A8re-solaire-plut%C3%B4t-qu%C3%A0-la-gravit%C3%A9/answer/Dr-Goulu)*
 
-La réfraction dévie la lumière d'un angle variable en fonction de longueur d'onde provoquant une [dispersion](w:Dispersion_(mécanique_ondulatoire)) de la[https://fr.m.wikipedia.org/wiki/Dispersion_(mécanique_ondulatoire)?wprov=sfla1](w:Dispersion_(mécanique_ondulatoire))couleur.
+La réfraction dévie la lumière d'un angle variable en fonction de longueur d'onde provoquant une [dispersion](w:Dispersion_(mécanique_ondulatoire)) de la[Dispersion (mécanique ondulatoire)](w:Dispersion_\(mécanique_ondulatoire\))couleur.
 
 Donc voyons la photo d'époque :
 

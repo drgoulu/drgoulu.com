@@ -13,11 +13,11 @@ coverImage: ./images/quora.png
 
 Les dinosaures se sont développés après l'
 
-[https://fr.wikipedia.org/wiki/Ex...](w:Extinction_Trias-Jurassique)
+[Extinction Trias-Jurassique](w:Extinction_Trias-Jurassique)
 
 Il y a 200 millions d'années. Ils ont succédé entre autres aux
 
-[https://fr.wikipedia.org/wiki/Th...](w:Therapsida)
+[Therapsida](w:Therapsida)
 
 Qui ont presque disparu à ce moment là.
 

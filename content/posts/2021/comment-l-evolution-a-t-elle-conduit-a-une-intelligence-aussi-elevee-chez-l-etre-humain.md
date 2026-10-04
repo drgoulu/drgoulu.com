@@ -17,7 +17,7 @@ L'intelligence est très consommatrice d'énergie : notre cerveau consomme 20% d
 
 A un certain moment, la
 
-[https://fr.wikipedia.org/wiki/Do...](w:Domestication_du_feu)
+[Domestication du feu](w:Domestication_du_feu)
 
 A brusquement changé la donne :
 

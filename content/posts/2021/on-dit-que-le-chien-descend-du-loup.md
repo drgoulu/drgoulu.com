@@ -25,7 +25,7 @@ Darwin a plusieurs fois mentionné les éleveurs de chevaux, qui ont aussi produ
 
 Techniquement, le chien est toujours un loup. L'espèce s'appelle
 
-[https://fr.wikipedia.org/wiki/Ca...](w:Canis_lupus)
+[Canis lupus](w:Canis_lupus)
 
 car tous ses représentants peuvent se reproduire entre eux pour autant qu'ils résolvent certains problèmes mécaniques de taille….
 

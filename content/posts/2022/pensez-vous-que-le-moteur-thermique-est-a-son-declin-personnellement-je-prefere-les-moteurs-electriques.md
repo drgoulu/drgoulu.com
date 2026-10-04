@@ -22,7 +22,7 @@ Pour les voitures, il y a eu une période à la fin du 19e siècle où il y en a
 
 En 1899, la première automobile à franchir 100 km/h a été
 
-[https://fr.wikipedia.org/wiki/La...](w:La_Jamais_contente)
+[La Jamais contente](w:La_Jamais_contente)
 
 et elle était électrique.
 

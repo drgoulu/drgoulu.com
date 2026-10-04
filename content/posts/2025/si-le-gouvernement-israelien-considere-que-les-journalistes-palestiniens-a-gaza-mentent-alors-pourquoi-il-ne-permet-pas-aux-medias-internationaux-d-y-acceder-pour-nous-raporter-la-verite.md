@@ -19,7 +19,7 @@ Si le journaliste est Gazaoui, il arrive que la bombe tombe plutôt chez lui, tu
 
 Ça doit vraiment être une malédiction, parce que si tsahal faisait ça volontairement, avec des renseignements et des armes super précises, ils seraient moins efficaces.
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_journalistes_tués_pendant_la_guerre_de_Gaza)
+[Liste des journalistes tués pendant la guerre de Gaza](w:Liste_des_journalistes_tués_pendant_la_guerre_de_Gaza)
 
 D'ailleurs ce phénomène étrange touche aussi les humanitaires de MSF et autres, les ambulances etc.
 

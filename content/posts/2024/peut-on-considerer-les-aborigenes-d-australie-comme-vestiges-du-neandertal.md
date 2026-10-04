@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non. Ce sont des Sapiens comme vous et moi, arrivés il y a 60 à 40000 ans.
 
-[https://fr.wikipedia.org/wiki/Ab...](w:Aborigènes_d'Australie)
+[Aborigènes d'Australie](w:Aborigènes_d'Australie)

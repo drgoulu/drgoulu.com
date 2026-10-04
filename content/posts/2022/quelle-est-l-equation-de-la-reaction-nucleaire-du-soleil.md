@@ -13,8 +13,8 @@ coverImage: ./images/quora.png
 
 Principalement
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chaîne_proton-proton)
+[Chaîne proton-proton](w:Chaîne_proton-proton)
 
 Et aussi un peu de
 
-[https://fr.wikipedia.org/wiki/Cy...](w:Cycle_carbone-azote-oxygène)
+[Cycle carbone-azote-oxygène](w:Cycle_carbone-azote-oxygène)

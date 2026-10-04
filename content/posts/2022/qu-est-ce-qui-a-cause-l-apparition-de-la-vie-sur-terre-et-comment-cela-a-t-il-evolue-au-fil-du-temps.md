@@ -28,4 +28,4 @@ les auteurs ont fabriqué des ribozymes dont le nombre double en 5 minutes. Apr�
 
 L'apparition du premier ribozyme a peut-être pris des millions d'années d'essais et d'erreurs, mais ensuite ça a été très vite. Enfin, ça a pris plusieurs milliards d'années quand même jusqu'à l'[Explosion cambrienne](w:)qui est à l'origine d'à peu près tous les [embranchements](w:Phylum) actuels et disparus.
 
-[https://fr.wikipedia.org/wiki/Hi...](w:Histoire_évolutive_du_vivant)
+[Histoire évolutive du vivant](w:Histoire_évolutive_du_vivant)

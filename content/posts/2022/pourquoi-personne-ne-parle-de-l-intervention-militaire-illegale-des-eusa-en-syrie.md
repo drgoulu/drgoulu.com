@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Personne ? Il y a même une page Wikipédia là dessus
 
-[https://fr.wikipedia.org/wiki/Co...](w:Coalition_internationale_en_Irak_et_en_Syrie)
+[Coalition internationale en Irak et en Syrie](w:Coalition_internationale_en_Irak_et_en_Syrie)
 
 Si ce tyran de Bashar avait fait le boulot pour lequel son père Hafez avait été propulsé au pouvoir en 1971, en même temps que Saddam Hussein en Irak et Anouar El-Sadate en Égypte, à savoir faire obstacle aux islamistes, on l'aurait laissé massacrer tranquillement sa population sans lever le petit doigt.
 

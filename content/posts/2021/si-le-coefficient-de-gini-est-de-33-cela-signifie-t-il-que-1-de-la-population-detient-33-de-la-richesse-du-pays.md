@@ -15,7 +15,7 @@ Non pas du tout.
 
 Le
 
-[https://fr.wikipedia.org/wiki/Co...](w:Coefficient_de_Gini)
+[Coefficient de Gini](w:Coefficient_de_Gini)
 
 Estt une mesure des inégalités qui tient compte de tous les revenus ou fortune. Il y a plusieurs distributions qui peuvent donner le même gini.
 

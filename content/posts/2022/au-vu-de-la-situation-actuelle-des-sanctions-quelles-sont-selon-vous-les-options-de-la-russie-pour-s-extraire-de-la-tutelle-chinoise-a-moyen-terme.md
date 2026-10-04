@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Aucune. La Russie a choisi son camp en adhérant à l'
 
-[https://fr.wikipedia.org/wiki/Or...](w:Organisation_de_coopération_de_Shanghai)
+[Organisation de coopération de Shanghai](w:Organisation_de_coopération_de_Shanghai)
 
 Comme très bien dit dans l'article :
 

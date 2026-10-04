@@ -15,6 +15,6 @@ Le christianisme date de moins de 2000 ans (il a été fondé au concile de Nic�
 
 L'idée que le moyen âge chrétien croyait à la Terre plate est largement un mythe
 
-[https://fr.wikipedia.org/wiki/My...](w:Mythe_de_la_Terre_plate)
+[Mythe de la Terre plate](w:Mythe_de_la_Terre_plate)
 
 Le christianisme n'a rien à voir avec le Terre plate et vice versa.

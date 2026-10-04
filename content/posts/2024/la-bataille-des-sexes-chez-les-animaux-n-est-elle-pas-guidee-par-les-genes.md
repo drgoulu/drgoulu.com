@@ -19,4 +19,4 @@ Ce qui est intéressant, c'est qu'il existe une multitude de stratégies de repr
 
 Voir
 
-[https://fr.wikipedia.org/wiki/St...](w:Stratégie_évolutivement_stable)
+[Stratégie évolutivement stable](w:Stratégie_évolutivement_stable)

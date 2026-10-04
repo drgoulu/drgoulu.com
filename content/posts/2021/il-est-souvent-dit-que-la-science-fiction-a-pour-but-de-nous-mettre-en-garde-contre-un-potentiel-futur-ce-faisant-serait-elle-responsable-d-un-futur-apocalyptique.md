@@ -22,6 +22,6 @@ Mais si les dystopies nous mettent en garde, alors on ne peut pas leur reprocher
 
 L a
 
-[https://fr.wikipedia.org/wiki/Sc...](w:Science-fiction)
+[Science-fiction](w:Science-fiction)
 
 est plutôt positive et inspiratrice. Donc on pourrait lui chercher des poux si ça tourne mal. Par exemple Wernher von Braun a dit qu'il avait été très motivé à travailler sur les fusées par Jules Verne. Peut-on vraiment accuser Jules Verne de complicité dans les bombardements de Londres par les V1 et V2 allemands ?

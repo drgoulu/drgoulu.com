@@ -24,6 +24,6 @@ C'est vraiment cool, cette sensation très agréable de flotter.
 
 Mais il n'y a rien de magique, ce n'est qu'une activation d'une zone du cerveau, le gyrus angulaire, et on sait provoquer ça artificiellement
 
-[https://fr.wikipedia.org/wiki/Ex...](w:Expérience_de_hors-corps)
+[Expérience de hors-corps](w:Expérience_de_hors-corps)
 
 Quant au "voyage astral", jamais personne n'a pu en ramener une information en conditions contrôlées. Jusqu'à preuve du contraire, ce n'est qu'un fantasme mystique : on ne perçoit rien qui ne soit pas perceptible via notre corps.

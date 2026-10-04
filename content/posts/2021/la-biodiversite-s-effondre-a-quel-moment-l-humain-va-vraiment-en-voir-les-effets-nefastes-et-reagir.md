@@ -17,4 +17,4 @@ Jusqu'ici c'est plutôt le contraire qui s'est produit. Nous sommes passés de q
 
 Une erreur commune est de croire que c'est un phénomène récent. Il s'est accéléré énormément dans des 2 derniers siècles, mais notre impact sur la faune à commencé il y a très longtemps.
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_des_extinctions_au_cours_de_l'Holocène)
+[Chronologie des extinctions au cours de l'Holocène](w:Chronologie_des_extinctions_au_cours_de_l'Holocène)

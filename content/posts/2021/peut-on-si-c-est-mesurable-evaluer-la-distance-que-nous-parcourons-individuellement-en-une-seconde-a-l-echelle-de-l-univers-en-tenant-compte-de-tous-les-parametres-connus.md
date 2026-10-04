@@ -15,6 +15,6 @@ Par rapport à quoi ? Il n y a pas d' "échelle de l'univers", rien de fixe, auc
 
 Bon, si on considère le
 
-[https://fr.wikipedia.org/wiki/Fo...](w:Fond_diffus_cosmologique)
+[Fond diffus cosmologique](w:Fond_diffus_cosmologique)
 
 Comme une référence absolue, alors tout le groupe local auquel appartient la Voie Lactée se déplace à environ 627 km/s

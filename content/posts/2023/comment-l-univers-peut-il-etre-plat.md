@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 En ayant des triangles dont la somme des angles vaut 180°.
 
-[https://fr.wikipedia.org/wiki/Co...](w:Courbure_spatiale)
+[Courbure spatiale](w:Courbure_spatiale)

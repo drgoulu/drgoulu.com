@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce qu'ils éjectent très peu de matière par seconde. C'est d'ailleurs ce qui leur donne une grande
 
-[https://fr.wikipedia.org/wiki/Im...](w:Impulsion_spécifique)
+[Impulsion spécifique](w:Impulsion_spécifique)

@@ -17,7 +17,7 @@ Mignon, mais un peu réducteur …
 
 Citez aussi
 
-[https://fr.wikipedia.org/wiki/Vi...](w:Virus_transmis_par_des_chauves-souris)
+[Virus transmis par des chauves-souris](w:Virus_transmis_par_des_chauves-souris)
 
 pour être "objectif". (Mais je comprends que votre but n'est pas de l'être).
 

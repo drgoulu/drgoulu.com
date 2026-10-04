@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Cliquez dessus et vous arriverez sur
 
-[https://fr.wikipedia.org/wiki/Mo...](w:Modèle:Admissibilité_à_vérifier)
+[Modèle:Admissibilité à vérifier](w:Modèle:Admissibilité_à_vérifier)
 
 Qui vous expliquera tout :
 

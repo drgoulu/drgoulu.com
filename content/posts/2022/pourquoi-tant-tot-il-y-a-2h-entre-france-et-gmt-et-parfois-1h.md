@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-tant-t%C3%B4t-il-y-a-2h-entre-France-et-GMT-et-parfois-1h/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/He...](w:Heure_d'été)
+[Heure d'été](w:Heure_d'été)

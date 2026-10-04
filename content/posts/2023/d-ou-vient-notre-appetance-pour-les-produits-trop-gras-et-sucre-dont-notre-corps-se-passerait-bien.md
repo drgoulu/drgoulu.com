@@ -20,7 +20,7 @@ Des famines auxquelles nos ancêtres survivaient en stockant autant de graisse q
 
 Vous avez remarqué comme les plus anciennes sculptures représentent des corps "bien en chair" ?
 
-[https://fr.wikipedia.org/wiki/V%...](w:Vénus_de_Hohle_Fels)
+[Vénus de Hohle Fels](w:Vénus_de_Hohle_Fels)
 
 La sélection naturelle a fait moins mourir les gros et leurs enfants…
 

@@ -13,18 +13,18 @@ coverImage: ./images/quora.png
 
 Vous voulez dire des preuves expérimentales de l'
 
-[https://fr.wikipedia.org/wiki/%C...](w:Électrodynamique_quantique)
+[Électrodynamique quantique](w:Électrodynamique_quantique)
 
 ?
 
 il y en a une floppée sous
 
-[https://en.wikipedia.org/wiki/Pr...](w:en:Precision_tests_of_QED)
+[Precision tests of QED](w:en:Precision_tests_of_QED)
 
 La confirmation de la QED vient du fait que des mesures très différentes de la constante de structure fine donnent des valeurs très proches (10^-8) , notamment entre les valeurs d'alpha tirées des mesures du
 
-[https://fr.wikipedia.org/wiki/Mo...](w:Moment_magnétique_anomal)
+[Moment magnétique anomal](w:Moment_magnétique_anomal)
 
 et de la
 
-[https://fr.wikipedia.org/wiki/Co...](w:Constante_de_Rydberg)
+[Constante de Rydberg](w:Constante_de_Rydberg)

@@ -15,7 +15,7 @@ Les progrès de l'hygiène, la vaccination et une meilleure alimentation ont fai
 
 Le temps que les femmes soient suffisamment éduquées pour s'en apercevoir et fassent moins d'enfants, la population a augmenté par les naissances. Ça s'appelle la
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Transition_démographique)
+[Transition démographique](w:Transition_démographique)
 
 Maintenant la population augmente aussi parce qu'il y a moins de morts : l'espérance de vie augmente partout.
 

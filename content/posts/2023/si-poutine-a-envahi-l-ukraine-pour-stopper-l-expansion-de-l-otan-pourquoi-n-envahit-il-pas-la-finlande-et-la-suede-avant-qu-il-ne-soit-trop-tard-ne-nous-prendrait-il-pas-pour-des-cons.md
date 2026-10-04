@@ -24,4 +24,4 @@ L Ukraine a demandé son adhésion à l'OTAN en 2008, puis à nouveau en 2014, e
 
 L'agression de Poutine a réussi à faire adhérer la Finlande et la Suède, deux pays neutres, en quelques mois.
 
-[https://fr.wikipedia.org/wiki/Re...](w:Relations_entre_l'OTAN_et_l'Ukraine)
+[Relations entre l'OTAN et l'Ukraine](w:Relations_entre_l'OTAN_et_l'Ukraine)

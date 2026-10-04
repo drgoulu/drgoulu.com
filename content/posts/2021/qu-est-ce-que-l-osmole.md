@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Qu-est-ce-que-l-osmole/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Os...](w:Osmole)
+[Osmole](w:Osmole)

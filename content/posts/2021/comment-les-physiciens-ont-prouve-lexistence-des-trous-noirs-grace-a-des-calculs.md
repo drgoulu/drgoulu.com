@@ -34,4 +34,4 @@ Dans notre Voie Lactée, on a découvert [Sagittarius A*](w:)grace aux étoiles 
 
 Toutes ces observations et bien d'autres prouvent que les calculs de Mitchell et les nombreux autres théoriciens après lui sont non seulement justes, mais correspondent à la réalité.
 
-[https://fr.wikipedia.org/wiki/Hi...](w:Historique_des_trous_noirs)
+[Historique des trous noirs](w:Historique_des_trous_noirs)

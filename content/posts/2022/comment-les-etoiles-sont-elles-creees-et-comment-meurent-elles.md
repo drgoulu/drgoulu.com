@@ -15,6 +15,6 @@ Elles ne sont pas créées, elles se forment ou "naissent" nuance …
 
 Tous les détails sont là :
 
-[https://fr.wikipedia.org/wiki/Na...](w:Naissance_des_étoiles)
+[Naissance des étoiles](w:Naissance_des_étoiles)
 
-[https://fr.wikipedia.org/wiki/%C...](w:Évolution_stellaire)
+[Évolution stellaire](w:Évolution_stellaire)

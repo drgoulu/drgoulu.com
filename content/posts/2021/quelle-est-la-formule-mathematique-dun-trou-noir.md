@@ -15,4 +15,4 @@ Il y en a quelques unes…
 
 Mais si vous comprenez $R_s=\frac{2GM}{c^2}$, ce sera un bon début.
 
-[https://fr.wikipedia.org/wiki/Ra...](w:Rayon_de_Schwarzschild)
+[Rayon de Schwarzschild](w:Rayon_de_Schwarzschild)

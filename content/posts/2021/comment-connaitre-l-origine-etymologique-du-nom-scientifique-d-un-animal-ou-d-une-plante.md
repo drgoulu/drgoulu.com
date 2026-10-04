@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Les pages Wikipédia le précisent souvent. Au hasard je cherche géranium et sur
 
-[https://fr.wikipedia.org/wiki/Ge...](w:Geranium)
+[Geranium](w:Geranium)
 
 Je lis
 

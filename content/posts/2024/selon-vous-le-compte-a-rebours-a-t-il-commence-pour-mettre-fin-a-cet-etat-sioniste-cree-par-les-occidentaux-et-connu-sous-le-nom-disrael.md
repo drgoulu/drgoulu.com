@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Aucune chance. Les occidentaux ont créé en même temps l'Etat de Palestine. Réclamez votre dû, finissez de créer cet État et vivez en paix.
 
-[https://fr.wikipedia.org/wiki/Pl...](w:Plan_de_partage_de_la_Palestine)
+[Plan de partage de la Palestine](w:Plan_de_partage_de_la_Palestine)

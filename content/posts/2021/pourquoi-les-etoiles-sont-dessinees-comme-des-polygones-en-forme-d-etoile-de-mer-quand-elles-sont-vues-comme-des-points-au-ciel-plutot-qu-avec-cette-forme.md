@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 L'
 
-[https://fr.wikipedia.org/wiki/%C...](w:Étoile_à_cinq_branches)
+[Étoile à cinq branches](w:Étoile_à_cinq_branches)
 
 est un symbole assez répandu, qui n' a pas toujours de lien avec les "étoiles astres".
 

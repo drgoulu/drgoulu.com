@@ -15,4 +15,4 @@ non, mais cette guerre froide est en train de se produire quand même, et peut s
 
 Pour l'instant le "bloc de l'est" est surtout économique et contient 4 puissances nucléaires qui ne sont pas d'accord entre elles, mais ça peut changer.
 
-[https://fr.wikipedia.org/wiki/Or...](w:Organisation_de_coopération_de_Shanghai)
+[Organisation de coopération de Shanghai](w:Organisation_de_coopération_de_Shanghai)

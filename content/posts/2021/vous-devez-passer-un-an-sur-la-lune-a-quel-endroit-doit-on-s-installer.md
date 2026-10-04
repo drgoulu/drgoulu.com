@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Vous-devez-passer-un-an-sur-la-Lune-A-quel-endroit-doit-on-s-installer/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Tu...](w:Tunnel_de_lave_lunaire)
+[Tunnel de lave lunaire](w:Tunnel_de_lave_lunaire)

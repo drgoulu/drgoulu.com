@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Voir
 
-[https://fr.wikipedia.org/wiki/Je...](w:Jeanne_d'Arc)
+[Jeanne d'Arc](w:Jeanne_d'Arc)
 
 En particulier le chapitre sur les sources historiques qui mentionne
 

@@ -22,7 +22,7 @@ la raison est que les matériaux produits par des êtres vivants sont souvent ex
 
 Par exemple pour la
 
-[https://fr.wikipedia.org/wiki/So...](w:Soie_d'araignée)
+[Soie d'araignée](w:Soie_d'araignée)
 
 > Les fibres de soie sont formées de fibroïnes ([protéines filamenteuses](w:Protéine_fibreuse), appelées aussi spidroïnes, composées de [copolymères](w:Copolymère) à blocs [hydrophiles](w:Hydrophile) et [hydrophobes](w:Hydrophobe)) constituées à 25-30 % d'[alanine](w:) et à 40 % de [glycine](w:Glycine_(acide_aminé)).
 >
@@ -56,7 +56,7 @@ Donc voilà, quand on arrive à reproduire de tels matériaux, leur coût ne vau
 
 Certaines substances sont obtenues par
 
-[https://fr.wikipedia.org/wiki/Bi...](w:Biotechnologie)
+[Biotechnologie](w:Biotechnologie)
 
 en faisant travailler des organismes vivants, parfois modifiés génétiquement, dans une installation industrielle. A vous de voir si c'est naturel ou artificiel, la distinction n'est parfois pas évidente, si vous pensez au vin ou à la bière par exemple.
 

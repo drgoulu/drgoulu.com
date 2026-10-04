@@ -18,4 +18,4 @@ L'énergie (de quoi que ce soit) n'a pas de cause. C'est une grandeur qui reste 
 
 Le gros problème qu'on a, c'est que selon la théorie, elle devrait être gigantesque. Il y a donc probablement un gros bug dans la théorie, et oui, il y a beaucoup de recherche pour résoudre ça (prix Nobel certain à la clé)
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Problème_de_la_constante_cosmologique)
+[Problème de la constante cosmologique](w:Problème_de_la_constante_cosmologique)

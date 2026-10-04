@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 C'est à cause de la
 
-[https://fr.wikipedia.org/wiki/Li...](w:Ligne_des_glaces)
+[Ligne des glaces](w:Ligne_des_glaces)
 
 > Elle marque la séparation entre les [planètes telluriques](w:Planète_tellurique) et les [planètes géantes](w:Planète_géante), celles-ci ne pouvant se former qu'au-delà de la ligne des glaces. En effet, lors de la formation d'un système planétaire, les seuls composés chimiques existant à l'état solide en deçà de la ligne des glaces sont les [éléments lourds](w:Métallicité) tels que les [métaux](w:Métal) et les [silicates](w:Silicate). Étant relativement peu [abondants](w:Abondance_d'un_élément_chimique), la quantité de matière solide disponible est limitée et seules des planètes telluriques peuvent se former par [accrétion](w:) des particules solides du disque protoplanétaire. Au-delà de la ligne des glaces, la quantité de matière solide disponible est plus importante grâce à la contribution des glaces — méthane (CH4), ammoniac (NH3), [neige carbonique](w:Dioxyde_de_carbone) (CO2), [glace d'eau](w:Glace) (H2O), etc. — et des planètes plus massives, les planètes géantes, peuvent se former.
 

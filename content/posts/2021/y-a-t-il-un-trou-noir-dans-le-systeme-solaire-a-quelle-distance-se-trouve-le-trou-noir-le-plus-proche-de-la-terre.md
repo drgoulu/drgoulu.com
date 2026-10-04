@@ -20,6 +20,6 @@ Le plus petit trou noir stable à une masse d'environ 3 fois celle du soleil (vo
 
 S'il y en avait un dans le système solaire ou à proximité, le soleil tournerait autour et les orbites des planètes ne seraient pas du tout de belles ellipses quasi parfaites. En fait il n'y aurait pas de planète en orbite stable autour du soleil.
 
-[https://fr.wikipedia.org/wiki/HR...](w:HR_6819)
+[HR 6819](w:HR_6819)
 
 est un système comportant une, voire deux étoiles et un trou noir, qui est le plus proche connu. Il est à 1120 années lumière d'ici.

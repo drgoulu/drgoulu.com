@@ -17,4 +17,4 @@ La [force de traînée aérodynamique](w:Traînée) est directement proportionne
 
 Après, pour calculer la distance en tenant compte du frottement dans l'air, c'est pas tout simple. Les formules sont là :
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Trajectoire_d'un_projectile)
+[Trajectoire d'un projectile](w:Trajectoire_d'un_projectile)

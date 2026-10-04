@@ -15,7 +15,7 @@ Fondamental.
 
 Plus de doute après les nombreuses
 
-[https://fr.wikipedia.org/wiki/Ex...](w:Expériences_sur_les_inégalités_de_Bell)
+[Expériences sur les inégalités de Bell](w:Expériences_sur_les_inégalités_de_Bell)
 
 réalisées à la suite de celle d'Alain Aspect en 1982.
 

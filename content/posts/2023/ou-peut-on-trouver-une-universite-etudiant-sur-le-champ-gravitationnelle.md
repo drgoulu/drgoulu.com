@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Partout. Un cours de physique dans n'importe quelle université vous expliquera ce que c'est et comment ça s'écrit
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Champ_gravitationnel)
+[Champ gravitationnel](w:Champ_gravitationnel)

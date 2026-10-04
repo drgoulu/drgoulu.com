@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Selon
 
-[https://fr.wikipedia.org/wiki/%C...](w:Échelle_de_Turin)
+[Échelle de Turin](w:Échelle_de_Turin)
 
 Au dessus de 1km on est au niveau 10: "catastrophe climatique globale pouvant menacer l'avenir de l'humanité"

@@ -17,4 +17,4 @@ La réponse à votre question dépend donc du nombre de gènes activés et de la
 
 A la louche, je dirais quelques millions par cellule humaine en moyenne.
 
-[https://fr.wikipedia.org/wiki/Ac...](w:Acide_ribonucléique_messager)
+[Acide ribonucléique messager](w:Acide_ribonucléique_messager)

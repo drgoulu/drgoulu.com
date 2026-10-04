@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Wikipedia est là pour ça.
 
-[https://fr.wikipedia.org/wiki/Is...](w:Isotope)
+[Isotope](w:Isotope)
 
 Sinon l'infinitif est utile aussi, parfois…

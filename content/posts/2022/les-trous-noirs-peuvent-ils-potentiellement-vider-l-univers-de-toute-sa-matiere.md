@@ -24,4 +24,4 @@ Dans ce cas, dans 10^43 ans il n'y aura plus que des trous noirs. Et il s'evapor
 
 Et une nouvelle fluctuation quantique pourra former un nouveau "big bang"
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)

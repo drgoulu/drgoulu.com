@@ -17,4 +17,4 @@ Bon, pour l'aventure c'est un peu tard, le Titanic a coulé.
 
 Mais pour le charme il y a par exemple le
 
-[https://fr.wikipedia.org/wiki/Qu...](w:Queen_Mary_2)
+[Queen Mary 2](w:Queen_Mary_2)

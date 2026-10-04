@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Qu-est-ce-que-le-groupe-Wagner/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Gr...](w:Groupe_Wagner)
+[Groupe Wagner](w:Groupe_Wagner)

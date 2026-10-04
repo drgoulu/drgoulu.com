@@ -15,4 +15,4 @@ Non.
 
 Par contre le principe d'Archimède est basé sur la gravité.
 
-[https://fr.wikipedia.org/wiki/Po...](w:Poussée_d'Archimède)
+[Poussée d'Archimède](w:Poussée_d'Archimède)

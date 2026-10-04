@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Si vous y avez été exposé professionnellement pendant plusieurs années et que vous développez une maladie reconnue, oui.
 
-[https://fr.wikipedia.org/wiki/Am...](w:Amiante_(maladie_professionnelle))
+[Amiante (maladie professionnelle)](w:Amiante_\(maladie_professionnelle\))

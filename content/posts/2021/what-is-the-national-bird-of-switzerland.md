@@ -16,6 +16,6 @@ I’m not aware of an official national bird in Switzerland.
 
 The
 
-[https://en.wikipedia.org/wiki/Sp...](w:en:Spotted_nutcracker)
+[Spotted nutcracker](w:en:Spotted_nutcracker)
 
 is the official bird of the National Park

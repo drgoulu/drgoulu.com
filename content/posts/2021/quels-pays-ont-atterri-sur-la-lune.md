@@ -23,4 +23,4 @@ d'autres s'y sont écrasés plus ou moins volontairement:
 - Israël : [Beresheet](w:)22 février 2019
 - Inde : [Chandrayaan-2](w:) 22 juillet 2019
 
-[https://fr.wikipedia.org/wiki/Ex...](w:Exploration_de_la_Lune)
+[Exploration de la Lune](w:Exploration_de_la_Lune)

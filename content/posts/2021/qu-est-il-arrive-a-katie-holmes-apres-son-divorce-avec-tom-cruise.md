@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Tout est écrit dans
 
-[https://fr.wikipedia.org/wiki/Ka...](w:Katie_Holmes)
+[Katie Holmes](w:Katie_Holmes)

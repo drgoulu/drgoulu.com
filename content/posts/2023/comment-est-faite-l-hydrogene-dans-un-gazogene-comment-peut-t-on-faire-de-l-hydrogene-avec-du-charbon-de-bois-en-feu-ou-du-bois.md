@@ -30,4 +30,4 @@ coverImage: ./images/quora.png
 >
 > Soit la production de combustible CO et H2 et d'un peu de chaleur, le CO2 devant être évacué le plus vite possible
 
-[https://fr.wikipedia.org/wiki/Ga...](w:Gazogène)
+[Gazogène](w:Gazogène)

@@ -15,7 +15,7 @@ La diversité de la vie sur la Terre est directement produite par l'[Évolution]
 
 L'évolution n'est ni "positive" ni "une lente dégénérescence". Elle n'a pas de direction, elle ne fait qu'adapter les espèces à leur environnement.
 
-Les ["Sauriens"](https://fr.wikipedia.org/w/index.php?title=Sauriens) ne sont pas (ou plus) clairement définis dans la [Classification phylogénétique](w:) moderne. Si vous voulez parler de la période précédant l'[Extinction Crétacé-Paléogène](w:) dite "des dinosaures", il y a eu, comme lors des extinctions précédentes, repeuplement des niches écologiques laissées libres par [Radiation évolutive](w:) de nouvelles espèces.
+Les ["Sauriens"](w:Sauriens) ne sont pas (ou plus) clairement définis dans la [Classification phylogénétique](w:) moderne. Si vous voulez parler de la période précédant l'[Extinction Crétacé-Paléogène](w:) dite "des dinosaures", il y a eu, comme lors des extinctions précédentes, repeuplement des niches écologiques laissées libres par [Radiation évolutive](w:) de nouvelles espèces.
 
 Sans moyen de compter le nombre d'espèces existant à l'époque, il est difficile de comparer la [Biodiversité](w:) de l'époque à la nôtre.
 

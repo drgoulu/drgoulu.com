@@ -15,4 +15,4 @@ Foutaise pseudo médicale de plus.
 
 Dangereuse en prime
 
-[https://fr.wikipedia.org/wiki/Ry...](w:Ryke_Geerd_Hamer)
+[Ryke Geerd Hamer](w:Ryke_Geerd_Hamer)

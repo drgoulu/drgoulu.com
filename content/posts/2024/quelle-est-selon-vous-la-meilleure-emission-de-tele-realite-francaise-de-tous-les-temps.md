@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Elle n'était pas française mais francophone, et c'était la seule regardable, sur un concept qui pourrait être reproduit sans difficultés
 
-[https://fr.wikipedia.org/wiki/La...](w:La_Course_autour_du_monde)
+[La Course autour du monde](w:La_Course_autour_du_monde)

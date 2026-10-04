@@ -15,4 +15,4 @@ coverImage: ./images/quora.png
 
 L'euthanasie pratiquée par un tiers n'est légale (sous des conditions très strictes) que dans 4 pays : la [Colombie](w:), les [Pays-Bas](w:), la [Belgique](w:) et le [Luxembourg](w:)
 
-[https://fr.wikipedia.org/wiki/L%...](w:Législation_sur_l'euthanasie_et_le_suicide_assisté_par_pays)
+[Législation sur l'euthanasie et le suicide assisté par pays](w:Législation_sur_l'euthanasie_et_le_suicide_assisté_par_pays)

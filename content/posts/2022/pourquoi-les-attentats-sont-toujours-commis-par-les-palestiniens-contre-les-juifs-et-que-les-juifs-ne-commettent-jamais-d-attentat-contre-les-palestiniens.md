@@ -15,6 +15,6 @@ coverImage: ./images/qimg-59fc4d460aab821d44fc75308a14fe7a.jpg
 
 [https://www.un.org/unispal/fr/fa...](https://www.un.org/unispal/fr/faits-et-chiffres/)
 
-[https://fr.wikipedia.org/wiki/Te...](w:Terrorisme_sioniste_en_Palestine_mandataire)
+[Terrorisme sioniste en Palestine mandataire](w:Terrorisme_sioniste_en_Palestine_mandataire)
 
 pas de commentaires, les faits parlent d'eux-mêmes.

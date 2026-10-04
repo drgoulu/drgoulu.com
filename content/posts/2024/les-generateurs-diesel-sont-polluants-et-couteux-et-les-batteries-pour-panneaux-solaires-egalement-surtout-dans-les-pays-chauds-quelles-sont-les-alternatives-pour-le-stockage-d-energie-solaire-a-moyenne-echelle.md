@@ -24,7 +24,7 @@ j'étais tombé sur un graphique intéressant décrivant les techniques de stock
 
 Une solution méconnue pour stocker des centaines de kWh est la
 
-[https://fr.wikipedia.org/wiki/Ba...](w:Batterie_à_flux_redox)
+[Batterie à flux redox](w:Batterie_à_flux_redox)
 
 Les batteries ne sont pas polluantes, elles se recyclent très bien. Mais elles sont "chères", en effet ça double ou triple le prix d'une installation solaire…
 

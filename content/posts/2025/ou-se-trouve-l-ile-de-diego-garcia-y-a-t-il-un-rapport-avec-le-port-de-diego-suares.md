@@ -11,6 +11,6 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Ou-se-trouve-l-%C3%AEle-de-Diego-Garcia-Y-a-t-il-un-rapport-avec-le-port-de-Diego-suares/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Di...](w:Diego_Garcia)
+[Diego Garcia](w:Diego_Garcia)
 
 Diego est un prénom, il y autant de rapport qu'entre Paul VI et Paul Ricard…

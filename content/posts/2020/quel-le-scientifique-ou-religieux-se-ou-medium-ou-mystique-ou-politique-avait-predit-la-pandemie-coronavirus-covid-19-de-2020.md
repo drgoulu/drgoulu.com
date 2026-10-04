@@ -22,7 +22,7 @@ Menachery, V. D., Yount, B. L., Debbink, K., Agnihothram, S., Gralinski, L. E., 
 
 Je traduis :
 
-> Notre travail suggère un risque potentiel de ré-émergence du [SARS-CoV](https://fr.wikipedia.org/w/index.php?title=SARSr-CoV) à partir de virus circulant actuellement dans les populations de chauve-souris.
+> Notre travail suggère un risque potentiel de ré-émergence du [SARS-CoV](w:SARSr-CoV) à partir de virus circulant actuellement dans les populations de chauve-souris.
 
 Plus précis tu meurs.
 

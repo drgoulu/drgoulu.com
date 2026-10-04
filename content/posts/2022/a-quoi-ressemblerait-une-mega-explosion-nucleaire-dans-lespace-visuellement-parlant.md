@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 A ça
 
-[https://fr.wikipedia.org/wiki/St...](w:Starfish_Prime)
+[Starfish Prime](w:Starfish_Prime)
 
 (1.4 mégatonnes à 400km d'altitude)

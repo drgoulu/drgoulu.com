@@ -22,7 +22,7 @@ L'attribution aux 4 apôtres date du 2ème siècle, et le choix des 4 évangiles
 
 Détails ici :
 
-[https://fr.wikipedia.org/wiki/%C...](w:Évangile)
+[Évangile](w:Évangile)
 
 Tout ceci se comprend très bien si on regarde l excellente série documentaire [L'Origine du christianisme](w:). Les premiers chrétiens attendaient la fin du monde, apocalypse, retour de jésus et jugement dernier juste après la mort du Christ, au pire après la destruction du temple de Jérusalem en 70. C'est pour ça qu'ils donnaient tout, se faisaient volontiers bouffer par les lions des romains, et ils ne se fatiguaient pas trop à écrire des trucs que personne ne savait lire.
 

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Il y a environ 1.5 milliards d'années, en même temps que les eucaryotes.
 
-[https://fr.wikipedia.org/wiki/Se...](w:Sexualité_(reproduction))
+[Sexualité (reproduction)](w:Sexualité_\(reproduction\))
 
 (mignon ce gif animé qui ne montre que des fleurs pour parler de sexe…)

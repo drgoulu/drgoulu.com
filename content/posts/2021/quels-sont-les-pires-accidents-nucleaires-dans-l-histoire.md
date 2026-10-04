@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quels-sont-les-pires-accidents-nucl%C3%A9aires-dans-l-histoire/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_d'accidents_nucléaires)
+[Liste d'accidents nucléaires](w:Liste_d'accidents_nucléaires)

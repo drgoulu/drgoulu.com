@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 La Russie n'est pas isolée, elle a choisi son bloc en 2001
 
-[https://fr.wikipedia.org/wiki/Or...](w:Organisation_de_coopération_de_Shanghai)
+[Organisation de coopération de Shanghai](w:Organisation_de_coopération_de_Shanghai)

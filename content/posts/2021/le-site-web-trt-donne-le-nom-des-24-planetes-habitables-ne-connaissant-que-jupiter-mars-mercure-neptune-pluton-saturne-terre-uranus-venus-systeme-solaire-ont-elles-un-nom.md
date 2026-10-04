@@ -24,7 +24,7 @@ Pour les systèmes "simples", avec une seule étoile, on donne aux planètes le 
 
 Par exemple
 
-[https://fr.wikipedia.org/wiki/Gl...](w:Gliese_581)
+[Gliese 581](w:Gliese_581)
 
 est un système comprenant les planètes Gliese 581 e, Gliese 581 b, [Gliese 581 c](w:), [Gliese 581 g](w:), [Gliese 581 d](w:), Gliese 581 f dans l'ordre à partir de l'étoile.
 
@@ -34,10 +34,10 @@ Les trois que j'ai mis en lien (c, g et d) sont considérées comme "habitables"
 
 Actuellement on utilise le
 
-[https://en.wikipedia.org/wiki/Ea...](w:en:Earth_Similarity_Index)
+[Earth Similarity Index](w:en:Earth_Similarity_Index)
 
 pour qualifier plus finement l'habitabilité par rapport à la Terre. Sur cette échelle, la Terre vaut 1.0, Mars 0.70 et on connaît 28 exoplanètes classées entre deux.
 
 La plus similaire dont l'existence ne fait plus de doute est
 
-[https://fr.wikipedia.org/wiki/TR...](w:TRAPPIST-1_e)
+[TRAPPIST-1 e](w:TRAPPIST-1_e)

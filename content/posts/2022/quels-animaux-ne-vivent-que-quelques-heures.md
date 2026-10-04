@@ -20,7 +20,7 @@ On mentionne souvent que les [Ephemères](w:Ephemeroptera) ne vivraient qu'un jo
 
 D'après le [Top 10 des animaux qui ont la durée de vie la plus courte, pouf déjà mort](https://www.topito.com/top-animal-duree-vie-court) de Topito, le
 
-[https://fr.wikipedia.org/wiki/Ga...](w:Gastrotricha)
+[Gastrotricha](w:Gastrotricha)
 
 un petit ver , ne vit dans le sable que 3 à 21 jours.
 

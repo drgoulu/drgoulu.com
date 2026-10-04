@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Ces régions ont été attribuées au futur état palestinien par le
 
-[https://fr.wikipedia.org/wiki/Pl...](w:Plan_de_partage_de_la_Palestine)
+[Plan de partage de la Palestine](w:Plan_de_partage_de_la_Palestine)
 
 De 1947.
 

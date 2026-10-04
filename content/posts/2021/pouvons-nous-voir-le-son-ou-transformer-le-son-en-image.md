@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pouvons-nous-voir-le-son-Ou-transformer-le-son-en-image/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/So...](w:Sonagramme)
+[Sonagramme](w:Sonagramme)

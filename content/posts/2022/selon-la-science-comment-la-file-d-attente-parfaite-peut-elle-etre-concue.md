@@ -17,4 +17,4 @@ La file d'attente parfaite pour le service, c'est quand il y a un seul guichet :
 
 Entre deux, voir
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorie_des_files_d'attente)
+[Théorie des files d'attente](w:Théorie_des_files_d'attente)

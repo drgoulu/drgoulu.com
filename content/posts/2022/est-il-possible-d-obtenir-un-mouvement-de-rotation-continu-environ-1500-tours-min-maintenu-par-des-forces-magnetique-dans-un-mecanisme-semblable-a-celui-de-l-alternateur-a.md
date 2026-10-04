@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Première partie de la question
 
-[https://fr.wikipedia.org/wiki/Pa...](w:Palier_magnétique)
+[Palier magnétique](w:Palier_magnétique)
 
 Seconde partie
 

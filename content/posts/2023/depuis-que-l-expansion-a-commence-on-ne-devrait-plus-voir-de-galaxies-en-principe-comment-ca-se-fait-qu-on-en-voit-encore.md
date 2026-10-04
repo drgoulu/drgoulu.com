@@ -17,4 +17,4 @@ Enfin presque, parce que l'[Accélération de l'expansion de l'Univers](w:)fait 
 
 Le phénomène que vous décrivez se produira dans environ 2000 miliards d'années, "on" ne verra plus que notre propre galaxie.
 
-[https://fr.wikipedia.org/wiki/Fu...](w:Futur_d'un_univers_en_expansion)
+[Futur d'un univers en expansion](w:Futur_d'un_univers_en_expansion)

@@ -15,7 +15,7 @@ Hominidé n'est pas le terme correct pour votre question parce que
 
 > Les **Hominidé**sont une [famille](w:Famille_(biologie)) de [primates](w:) [simiiformes](w:) rassemblant les [genres](w:Genre_(biologie)) actuels [orang-outan](w:), [gorille](w:), [chimpanzé](w:) et [*Homo*](w:Homo)*(Wikipédia)*
 
-[https://fr.wikipedia.org/wiki/Ho...](w:Hominidae)
+[Hominidae](w:Hominidae)
 
 Il faudrait plutôt parler des hominina:
 
@@ -23,7 +23,7 @@ Il faudrait plutôt parler des hominina:
 
 dont le plus ancien fossile connu est
 
-[https://fr.wikipedia.org/wiki/To...](w:Toumaï)
+[Toumaï](w:Toumaï)
 
 Mais il n est pas sur que nous soyons des descendants de son espèce. Beaucoup de genres d'hominina ont disparu sans descendance.
 

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Dans ce cas elle devrait être assez grosse pour retenir une atmosphère, donc aussi grosse que la Terre, et on aurait un cas théoriquement possible de
 
-[https://fr.wikipedia.org/wiki/Pl...](w:Planète_double)
+[Planète double](w:Planète_double)
 
 On pourrait ausdi imaginer deux (ou plus) gros satellites d'une planète de type [Jupiter chaud](w:)orbitant en zone habitable.

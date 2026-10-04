@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Justement : sa masse correspond à de l'énergie "empruntée" au vide, donc son énergie est négative par rapport au vide.
 
-[https://fr.wikipedia.org/wiki/Pa...](w:Particule_virtuelle)
+[Particule virtuelle](w:Particule_virtuelle)
 
 L'énergie potentielle d'une balle de golf sur un green est nulle. Mais si elle tombe dans le trou, elle aura une énergie potentielle négative, puisqu'il faudra fournir de l'énergie pour la sortir.
 

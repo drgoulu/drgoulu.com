@@ -17,4 +17,4 @@ Il a bien meilleur temps de rester au Tchad et de contribuer au développement d
 
 Ce n'est pas facile, mais c'est là qu'il sera le plus efficace et le plus heureux.
 
-[https://fr.wikipedia.org/wiki/%C...](w:Économie_du_Tchad)
+[Économie du Tchad](w:Économie_du_Tchad)

@@ -20,4 +20,4 @@ En géologie on utilise plutôt les vibrations à très basse fréquence produit
 
 > En comparant les temps d'arrivée des différentes [ondes sismiques](w:Onde_sismique) les unes relativement aux autres et à différents endroits, on déduit comment les vitesses de [propagation](w:Propagation_des_ondes) de ces ondes varient à l’intérieur du globe terrestre. À partir de ces données expérimentales, on construit des modèles tridimensionnels de vitesses d'ondes. Les variations de vitesse dans l'espace sont ensuite interprétées comme des variations de [température](w:) locale ou de composition des matériaux (chimique ou minéralogique).
 
-[https://fr.wikipedia.org/wiki/To...](w:Tomographie_sismique)
+[Tomographie sismique](w:Tomographie_sismique)

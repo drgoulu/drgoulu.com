@@ -17,4 +17,4 @@ Effet allasonique
 
 Nommé aussi
 
-[https://fr.wikipedia.org/wiki/Ef...](w:Effet_chocolat_chaud)
+[Effet chocolat chaud](w:Effet_chocolat_chaud)

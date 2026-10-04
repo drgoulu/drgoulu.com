@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Celui que vous voulez. N'importe lequel pourvu qu'il soit "galiléen". Non accéléré.
 
-[https://fr.wikipedia.org/wiki/R%...](w:Référentiel_galiléen)
+[Référentiel galiléen](w:Référentiel_galiléen)

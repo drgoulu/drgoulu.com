@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Les simulations montrent qu'il ne soit pas en rester grand chose, et que s'il en reste, c'est au fond du
 
-[https://fr.wikipedia.org/wiki/Cr...](w:Cratère_de_Chicxulub)
+[Cratère de Chicxulub](w:Cratère_de_Chicxulub)
 
 À environ 30km sous la surface, plus du double du forage le plus profond jamais réalisé.
 

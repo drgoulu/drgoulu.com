@@ -15,4 +15,4 @@ Non. La climat de Vénus n'a que peu à voir avec sa vitesse de rotation.
 
 Vénus a dissocié presque toute son eau en hydrogène qui s'est échappé dans l'espace et en oxygène qui a oxydé sa surface et produit des montagnes de CO2.
 
-[https://fr.wikipedia.org/wiki/At...](w:Atmosphère_de_Vénus)
+[Atmosphère de Vénus](w:Atmosphère_de_Vénus)

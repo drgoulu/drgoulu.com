@@ -30,4 +30,4 @@ Le truc "magique" c'est qu'un observant le spin d'une particule, on détruit "in
 
 Par contre il pourra dire "bizarre, le message que je reçois en considérant
 
-[https://fr.wikipedia.org/wiki/Cr...](w:Cryptographie_quantique)
+[Cryptographie quantique](w:Cryptographie_quantique)

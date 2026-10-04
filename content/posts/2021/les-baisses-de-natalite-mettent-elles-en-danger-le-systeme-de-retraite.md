@@ -13,10 +13,10 @@ coverImage: ./images/quora.png
 
 Les
 
-[https://fr.wikipedia.org/wiki/Re...](w:Retraite_par_répartition)
+[Retraite par répartition](w:Retraite_par_répartition)
 
 oui, mais les
 
-[https://fr.wikipedia.org/wiki/Re...](w:Retraite_par_capitalisation)
+[Retraite par capitalisation](w:Retraite_par_capitalisation)
 
 non…

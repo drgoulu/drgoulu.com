@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Les collisions d étoiles produisent des
 
-[https://fr.wikipedia.org/wiki/No...](w:Nova_rouge_lumineuse)
+[Nova rouge lumineuse](w:Nova_rouge_lumineuse)
 
 Et on en connaît très peu, 3 en 30 ans dans notre galaxie et 4 ou 5 autres dans les galaxies voisines.
 

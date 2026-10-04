@@ -21,4 +21,4 @@ Apatride depuis la naissance car née dans un camp palestinien en Syrie.
 
 Nationalité française depuis 2010
 
-[https://fr.wikipedia.org/wiki/Ri...](w:Rima_Hassan)
+[Rima Hassan](w:Rima_Hassan)

@@ -24,4 +24,4 @@ Cette vignette a été acceptée par référendum en 1984, peu après l'ouvertur
 
 C 'est de fait un impôt sur le transit étranger, complété par une [Redevance poids lourds liée aux prestations](w:) censée inciter les poids lourds à utiliser le ferroutage à travers les Alpes, mais ça n'a pas marché.
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Transports_en_Suisse)
+[Transports en Suisse](w:Transports_en_Suisse)

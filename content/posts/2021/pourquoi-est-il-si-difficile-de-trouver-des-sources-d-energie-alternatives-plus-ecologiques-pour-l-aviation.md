@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ça existe mais on ose pas encore.
 
-[https://fr.wikipedia.org/wiki/Av...](w:Avion_à_propulsion_nucléaire)
+[Avion à propulsion nucléaire](w:Avion_à_propulsion_nucléaire)

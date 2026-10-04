@@ -23,4 +23,4 @@ c'est des milliers de fois moins que le solaire ou l'éolien, et encore plus dif
 
 L'Islande produit 31% de son électricité par géothermie (derrière le Kenya, 45% !) , mais ça ne représente que 6 TWh/an , soit 684 MW de puissance continue, moins qu'un réacteur nucléaire …
 
-[https://fr.wikipedia.org/wiki/Ce...](w:Centrale_géothermique)
+[Centrale géothermique](w:Centrale_géothermique)

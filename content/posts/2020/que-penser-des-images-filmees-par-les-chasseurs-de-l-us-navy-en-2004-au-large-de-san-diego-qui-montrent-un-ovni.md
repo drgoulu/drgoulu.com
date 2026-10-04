@@ -25,7 +25,7 @@ coverImage: ./images/quora.png
 >
 >
 >
-> Selon le professeur de journalisme [Keith Kloor](https://fr.wikipedia.org/w/index.php?title=Keith_Kloor&action=edit&redlink=1) [(en)](w:en:Keith_Kloor), le consensus qui ressort sur Internet de l'analyse des images du Nimitz et du USS Roosevelt par de nombreuses personnes expérimentées dans les questions aéronautiques et aérospatiales, est qu'au lieu d'« **anomalies », les phénomènes perçus seraient plutôt explicables par des essais de missiles ou aéronefs secrets, peut-être un dron**e.
+> Selon le professeur de journalisme [Keith Kloor](w:Keith_Kloor) [(en)](w:en:Keith_Kloor), le consensus qui ressort sur Internet de l'analyse des images du Nimitz et du USS Roosevelt par de nombreuses personnes expérimentées dans les questions aéronautiques et aérospatiales, est qu'au lieu d'« **anomalies », les phénomènes perçus seraient plutôt explicables par des essais de missiles ou aéronefs secrets, peut-être un dron**e.
 >
 >
 >
@@ -33,7 +33,7 @@ coverImage: ./images/quora.png
 >
 >
 >
-> Le journaliste scientifique et sceptique [Mick West](https://fr.wikipedia.org/w/index.php?title=Mick_West&action=edit&redlink=1) [(en)](w:en:Mick_West), connu pour ses analyses d'images de [chemtrails](w:Théorie_conspirationniste_des_chemtrails) et d'ovnis, affirme qu'il ne sait pas ce que les pilotes ont vu mais que la vidéo montre **un objet qui ne bouge pas vraiment, n'a « rien de vraiment intéressant », et a pour explication la plus probable un avion de ligne**
+> Le journaliste scientifique et sceptique [Mick West](w:Mick_West) [(en)](w:en:Mick_West), connu pour ses analyses d'images de [chemtrails](w:Théorie_conspirationniste_des_chemtrails) et d'ovnis, affirme qu'il ne sait pas ce que les pilotes ont vu mais que la vidéo montre **un objet qui ne bouge pas vraiment, n'a « rien de vraiment intéressant », et a pour explication la plus probable un avion de ligne**
 
 le "NI" de OVNI signifie "Non Identifié". Ca veut dire que par définition on ne sait pas ce que c'est.
 

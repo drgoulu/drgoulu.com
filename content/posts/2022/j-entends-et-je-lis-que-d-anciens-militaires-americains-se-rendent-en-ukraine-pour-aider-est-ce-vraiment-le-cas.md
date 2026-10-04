@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Il existe en effet une
 
-[https://fr.wikipedia.org/wiki/L%...](w:Légion_internationale_pour_la_défense_territoriale_de_l'Ukraine)
+[Légion internationale pour la défense territoriale de l'Ukraine](w:Légion_internationale_pour_la_défense_territoriale_de_l'Ukraine)
 
 D'environ 20'000 hommes de diversrs nationalités, dont des américains.

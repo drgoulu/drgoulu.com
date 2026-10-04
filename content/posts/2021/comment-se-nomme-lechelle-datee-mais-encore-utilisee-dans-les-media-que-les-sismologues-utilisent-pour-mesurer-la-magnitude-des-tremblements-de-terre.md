@@ -13,10 +13,10 @@ coverImage: ./images/quora.png
 
 la nouvelle depuis 1977 ?
 
-[https://fr.wikipedia.org/wiki/Ma...](w:Magnitude_de_moment)
+[Magnitude de moment](w:Magnitude_de_moment)
 
 ou l'
 
-[https://fr.wikipedia.org/wiki/%C...](w:Échelle_Medvedev-Sponheuer-Karnik)
+[Échelle Medvedev-Sponheuer-Karnik](w:Échelle_Medvedev-Sponheuer-Karnik)
 
 utilisée depuis 1964 qui mesure l'intensité ? (chose différente de la magnitude…)

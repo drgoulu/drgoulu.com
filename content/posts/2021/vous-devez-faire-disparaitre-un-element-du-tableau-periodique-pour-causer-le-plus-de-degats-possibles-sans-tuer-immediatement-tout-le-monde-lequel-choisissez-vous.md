@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Encore une question de Maître (moche et) Méchant potentiel… C'est pour que les Minions viennent chez vous ? Bon alors je réponds:
 
-[https://fr.wikipedia.org/wiki/Ma...](w:Magnésium)
+[Magnésium](w:Magnésium)
 
 Pourquoi ? Parce que [Chlorophylle](w:).
 

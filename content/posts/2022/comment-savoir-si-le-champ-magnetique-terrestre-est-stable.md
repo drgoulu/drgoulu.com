@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il ne l'est pas et ça se mesure dans la magnétite formée dans les laves
 
-[https://fr.wikipedia.org/wiki/Pa...](w:Paléomagnétisme)
+[Paléomagnétisme](w:Paléomagnétisme)

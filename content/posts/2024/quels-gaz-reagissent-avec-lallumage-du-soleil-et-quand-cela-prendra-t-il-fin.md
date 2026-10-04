@@ -20,13 +20,13 @@ Il faut trop chaud pour que soit des gaz.
 
 On parle de plasma d'hydrogène, et la réaction la plus importante dans le soleil est la
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chaîne_proton-proton)
+[Chaîne proton-proton](w:Chaîne_proton-proton)
 
 qui produit des noyaux d'helium 4.
 
 Il y a aussi un peu de
 
-[https://fr.wikipedia.org/wiki/Cy...](w:Cycle_carbone-azote-oxygène)
+[Cycle carbone-azote-oxygène](w:Cycle_carbone-azote-oxygène)
 
 qui transforme aussi des protons en helium.
 
@@ -34,4 +34,4 @@ qui transforme aussi des protons en helium.
 
 En toussant, il produira un
 
-[https://fr.wikipedia.org/wiki/Fl...](w:Flash_de_l'hélium)
+[Flash de l'hélium](w:Flash_de_l'hélium)

@@ -17,4 +17,4 @@ Qu'appelez vous "langue" ?
 
 Qu'appelez vous "parler" ?
 
-[https://fr.wikipedia.org/wiki/Or...](w:Origine_du_langage)
+[Origine du langage](w:Origine_du_langage)

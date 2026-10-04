@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ce sont deux invariants qui correspondent à deux symétries différentes par le
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorème_de_Noether_(physique))
+[Théorème de Noether (physique)](w:Théorème_de_Noether_\(physique\))

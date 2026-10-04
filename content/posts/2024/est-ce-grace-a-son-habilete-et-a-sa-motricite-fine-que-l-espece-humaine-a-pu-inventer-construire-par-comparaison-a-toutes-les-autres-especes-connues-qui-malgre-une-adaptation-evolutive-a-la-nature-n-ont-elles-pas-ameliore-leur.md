@@ -20,4 +20,4 @@ Et pour être efficace il faut pouvoir transmettre le savoir par le langage, lui
 
 Il y avait sans doute des outils et des armes avant, mais l'étape fondamentale a certainement été la
 
-[https://fr.wikipedia.org/wiki/Do...](w:Domestication_du_feu)
+[Domestication du feu](w:Domestication_du_feu)

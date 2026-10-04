@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ils sont en baisse partout, parce que les enfants ne meurent plus en bas âge.
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Transition_démographique)
+[Transition démographique](w:Transition_démographique)

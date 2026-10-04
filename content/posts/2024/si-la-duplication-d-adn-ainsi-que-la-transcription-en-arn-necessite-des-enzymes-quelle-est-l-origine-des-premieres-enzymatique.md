@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 La vie a probablement commencé avec l'ARN, pas d'ADN
 
-[https://fr.wikipedia.org/wiki/Hy...](w:Hypothèse_du_monde_à_ARN)
+[Hypothèse du monde à ARN](w:Hypothèse_du_monde_à_ARN)
 
-[https://fr.wikipedia.org/wiki/Ri...](w:Ribozyme)
+[Ribozyme](w:Ribozyme)

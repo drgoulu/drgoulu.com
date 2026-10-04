@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 proton isolé ? non. Sa demi-vie est donc supérieure à 10^34 ans
 
-[https://fr.wikipedia.org/wiki/D%...](w:Désintégration_du_proton)
+[Désintégration du proton](w:Désintégration_du_proton)
 
 Dans un noyau lourd, un proton peut se transformer en neutron en [émettant un positon](w:Émission_de_positron).

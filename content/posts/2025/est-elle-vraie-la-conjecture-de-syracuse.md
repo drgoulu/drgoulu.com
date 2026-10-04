@@ -21,6 +21,6 @@ Pour l'instant elle a été vérifiée pour tous les nombres testés, mais elle 
 
 Dans ce cas ça ne serait plus une conjecture, mais un ou plusieurs théorèmes.
 
-[https://fr.wikipedia.org/wiki/Co...](w:Conjecture_de_Syracuse)
+[Conjecture de Syracuse](w:Conjecture_de_Syracuse)
 
 Il est aussi fort probable que ce soit un énoncé indécidable au sens des [Théorèmes d'incomplétude de Gödel](w:).

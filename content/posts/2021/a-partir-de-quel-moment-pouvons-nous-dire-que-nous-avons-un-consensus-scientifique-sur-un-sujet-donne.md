@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Quasi unanimité des spécialistes.
 
-[https://fr.wikipedia.org/wiki/Co...](w:Consensus_scientifique)
+[Consensus scientifique](w:Consensus_scientifique)

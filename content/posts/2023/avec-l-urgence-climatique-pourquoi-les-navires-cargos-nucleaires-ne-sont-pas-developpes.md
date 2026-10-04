@@ -15,4 +15,4 @@ Les réacteurs utilisés pour les sous-marins et porte-avions sont beaucoup plus
 
 Ce serait vraiment une mauvaise idée d'avoir des centaines de milliers de bombes sales potentielles qui se baladent sur les mers, mais surtout dans les ports du monde entier.
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Propulsion_nucléaire_navale)
+[Propulsion nucléaire navale](w:Propulsion_nucléaire_navale)

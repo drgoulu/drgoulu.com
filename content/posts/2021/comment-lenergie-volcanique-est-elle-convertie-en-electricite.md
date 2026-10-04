@@ -20,7 +20,7 @@ Il n'y a pas de centrale électrique fonctionnant directement avec un volcan,
 
 Il y a des
 
-[https://fr.wikipedia.org/wiki/Ce...](w:Centrale_géothermique)
+[Centrale géothermique](w:Centrale_géothermique)
 
 qui utilisent la chaleur de la Terre à certains endroits où le sous-sol est chaud à faible profondeur, ce qui est le cas dans certaines régions volcaniques comme l'Islande ou l'Indonésie, mais aussi à d'autres endroits où c'est moins évident
 

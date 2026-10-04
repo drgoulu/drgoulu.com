@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Il y a une idée en ce sens due à Lee Smolin, la
 
-[https://fr.wikipedia.org/wiki/S%...](w:Sélection_naturelle_cosmologique)
+[Sélection naturelle cosmologique](w:Sélection_naturelle_cosmologique)
 
 Mais plein de choses ne collent pas, il ne la défend plus vraiment.
 
@@ -21,6 +21,6 @@ Un des problèmes est que notre univers est "presque plat", donc énorme voire i
 
 Paradoxalement, les hypothèses actuelles sont plus proches de la mécanique quantique, et notamment des
 
-[https://fr.wikipedia.org/wiki/Fl...](w:Fluctuation_quantique)
+[Fluctuation quantique](w:Fluctuation_quantique)
 
-[https://fr.wikipedia.org/wiki/Fl...](w:Fluctuation_quantique)
+[Fluctuation quantique](w:Fluctuation_quantique)

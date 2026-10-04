@@ -36,6 +36,6 @@ Et tout ça c'est avec plein d approximations plutôt favorables, donc le vrai r
 
 La modification de l'albédo à parfois été évoquée comme technique de
 
-[https://fr.wikipedia.org/wiki/G%...](w:Géo-ingénierie)
+[Géo-ingénierie](w:Géo-ingénierie)
 
 Mais c'est plutôt en peignant des villes entières, et donc en ne mettant pas de panneaux solaires sur les toits…

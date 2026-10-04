@@ -27,6 +27,6 @@ Mais dans les populations qui pratiquent l'élevage pour le lait depuis des mill
 
 Là encore, il y a en réalité 6 mutations différentes qui produisent le même effet, et toutes sont des
 
-[https://fr.wikipedia.org/wiki/Po...](w:Polymorphisme_nucléotidique)
+[Polymorphisme nucléotidique](w:Polymorphisme_nucléotidique)
 
 , soit le changement d'une seule paire de base dans une région qui en comporte environ 14'000.

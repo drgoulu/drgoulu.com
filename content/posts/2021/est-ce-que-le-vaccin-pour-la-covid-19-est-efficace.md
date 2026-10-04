@@ -24,7 +24,7 @@ Vingt-et-un vaccins sont approuvés par au moins une autorité nationale pour ad
 
 > - deux vaccins à ARN par [Pfizer-BioNTech](w:Tozinaméran) et [Moderna](w:MRNA-1273) ;
 > - cinq vaccins à vecteur viral : [Spoutnik V](w:Gam-COVID-Vac), [Spoutnik Light](w:), [Oxford–AstraZeneca](w:Vaccin_d'AstraZeneca-Oxford_contre_la_Covid-19), [Convidecia](w:Ad5-nCoV) et [Janssen](w:Ad26.COV2.S) ;
-> - six vaccins de [sous-unité protéique](w:) : [NVX-CoV2373](w:), [EpiVacCorona](w:), [ZF2001](w:), [Abdala](w:CIGB-66), [SOBERANA 02](w:) et [MVC-COV1901](https://fr.wikipedia.org/w/index.php?title=MVC-COV1901&action=edit&redlink=1) [**(en)**](w:en:MVC-COV1901) ;
+> - six vaccins de [sous-unité protéique](w:) : [NVX-CoV2373](w:), [EpiVacCorona](w:), [ZF2001](w:), [Abdala](w:CIGB-66), [SOBERANA 02](w:) et [MVC-COV1901](w:MVC-COV1901) [**(en)**](w:en:MVC-COV1901) ;
 > - neuf vaccins à virus inactivé : [BBIBP-Corv](w:), [WIBP-CorV](w:), [CoronaVac](w:), [Covaxin](w:BBV152), [CoviVac](w:), [Covidful](w:), [KCONVAC](w:Vaccin_Minhai_contre_la_Covid-19), [COVIran Barekat](w:) et [QazCovid-in](w:).
 
 En faisant une petite recherche je suis tombé sur cet article récent en accès libre qui compare les 5 distribués en Hongrie, histoire d'avoir un son de cloche un peu "indépendant"

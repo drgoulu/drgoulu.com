@@ -24,6 +24,6 @@ Nous avons une description mathématique de la naissance de l Univers qui colle 
 
 Si vous aimez les hypothèses " illogiques", ou plutôt contraires à l'intuition, je vous recommande l'hypothèse de l'
 
-[https://fr.wikipedia.org/wiki/Un...](w:Univers_à_énergie_nulle)
+[Univers à énergie nulle](w:Univers_à_énergie_nulle)
 
 La somme de tout ce qui existe vaut rigoureusement zéro…Ça remue un peu notre intuition, non ?

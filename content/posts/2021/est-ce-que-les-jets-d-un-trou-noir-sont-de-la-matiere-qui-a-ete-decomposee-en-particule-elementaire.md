@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 On ne connaît pas encore bien le mécanisme des
 
-[https://fr.wikipedia.org/wiki/Je...](w:Jet_(astrophysique))
+[Jet (astrophysique)](w:Jet_\(astrophysique\))
 
 mais c'est bien une partie de la matière tombant du disque d'accrétion vers le trou qui est éjectée avant d'atteindre l'horizon.
 

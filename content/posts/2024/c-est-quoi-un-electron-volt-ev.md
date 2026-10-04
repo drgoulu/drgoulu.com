@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/C-est-quoi-un-electron-volt-ev/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/%C...](w:Électronvolt)
+[Électronvolt](w:Électronvolt)

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 L'article Wikipedia
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théories_Gaïa)
+[Théories Gaïa](w:Théories_Gaïa)
 
 est très bien, que voulez-vous de plus ?

@@ -15,4 +15,4 @@ Non, pas plus qu'il n'existe de moment cinétique pur ou de charge électrique s
 
 Ces grandeurs (énergie, moment cinétique, charge) sont des grandeurs invariantes qui correspondent à des symétries de la physique, ainsi que l'a démontré Emmy Noether en 1915.
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorème_de_Noether_(physique))
+[Théorème de Noether (physique)](w:Théorème_de_Noether_\(physique\))

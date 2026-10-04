@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Do%C3%B9-vient-la-conjecture-de-Fermat-Selon-laquelle-n-%C3%A9tant-un-entier-naturel-strictement-sup%C3%A9rieur-%C3%A0-deux-l%C3%A9quation-xn-yn-zn-na-pas-de-solutions-positives-enti%C3%A8res/answer/Dr-Goulu)*
 
-Ce n'est pas une conjecture mais un théorème, parce que Fermat croyait l'avoir démontré, et que [Andrew Wiles](w:)l'a vraiment démontré en 1995 . En fait il a démontré une partie de la [Conjecture de Shimura-Taniyama-Weil](https://fr.wikipedia.org/w/index.php?title=Conjecture_de_Shimura-Taniyama-Weil&redirect=no) qui correspond au théorème de Fermat, et qui s'appelle [Théorème de modularité](w:)depuis.
+Ce n'est pas une conjecture mais un théorème, parce que Fermat croyait l'avoir démontré, et que [Andrew Wiles](w:)l'a vraiment démontré en 1995 . En fait il a démontré une partie de la [Conjecture de Shimura-Taniyama-Weil](w:Conjecture_de_Shimura-Taniyama-Weil) qui correspond au théorème de Fermat, et qui s'appelle [Théorème de modularité](w:)depuis.
 
 Historiquement
 

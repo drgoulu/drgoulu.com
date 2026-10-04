@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 comme on vous l'a appris en cours.
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Produit_matriciel)
+[Produit matriciel](w:Produit_matriciel)

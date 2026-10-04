@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 La question est très imprécise. Si l idée est de regrouper les
 
-[https://fr.wikipedia.org/wiki/D%...](w:Débris_spatial)
+[Débris spatial](w:Débris_spatial)
 
 Qui sont déjà dans l'espace, alors :
 

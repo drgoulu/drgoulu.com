@@ -15,4 +15,4 @@ Sans changement jusqu'à il y a 12'000 ans environ, à la fin de la dernière gl
 
 Après, les gros mammifères que nous avons exterminés existeraient toujours, il y aurait beaucoup plus de forêt, les fleuves feraient des méandres en inondant les environs et il y aurait 280 ppm de CO2 dans l'air au lieu de 420.
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_des_extinctions_au_cours_de_l'Holocène)
+[Chronologie des extinctions au cours de l'Holocène](w:Chronologie_des_extinctions_au_cours_de_l'Holocène)

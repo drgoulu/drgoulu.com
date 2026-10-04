@@ -17,4 +17,4 @@ Et même si c'était possible, la Chine opposerait son veto.
 
 Soyez bien conscient de l'existence de l'
 
-[https://fr.wikipedia.org/wiki/Or...](w:Organisation_de_coopération_de_Shanghai)
+[Organisation de coopération de Shanghai](w:Organisation_de_coopération_de_Shanghai)

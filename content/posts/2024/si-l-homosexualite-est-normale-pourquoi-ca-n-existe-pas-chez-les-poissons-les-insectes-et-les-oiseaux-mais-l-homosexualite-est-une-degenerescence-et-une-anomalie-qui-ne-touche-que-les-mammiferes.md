@@ -36,4 +36,4 @@ J'avais tout faux aussi. Liste de poissons chez qui on a remarqué des comportem
 > - [Ten-spined stickleback](w:en:Ten-spined_stickleback)[[56]](w:en:List_of_animals_displaying_homosexual_behavior)
 > - [Three-spined stickleback](w:en:Three-spined_stickleback)[[56]](w:en:List_of_animals_displaying_homosexual_behavior)
 
-[https://en.wikipedia.org/wiki/Li...](w:en:List_of_animals_displaying_homosexual_behavior)
+[List of animals displaying homosexual behavior](w:en:List_of_animals_displaying_homosexual_behavior)

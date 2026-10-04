@@ -17,4 +17,4 @@ Un looping inversé produit au moins 2 g négatifs : le sang vous monte au cerve
 
 Il y a quelques pilotes acrobatiques qui le font, jamais avec des passagers à ma connaissance.
 
-[https://fr.wikipedia.org/wiki/G_...](w:G_(accélération))
+[G (accélération)](w:G_\(accélération\))

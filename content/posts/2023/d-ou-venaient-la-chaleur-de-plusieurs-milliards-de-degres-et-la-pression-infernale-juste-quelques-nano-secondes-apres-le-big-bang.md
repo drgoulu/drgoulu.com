@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Nanosecondes? $10^{-9}$ ? C'était pendant l' [Ère des quarks](w:)mais il s'est passé plein de choses avant, quand il faisait encore plus chaud et dense.
 
-[https://fr.wikipedia.org/wiki/Hi...](w:Histoire_et_chronologie_de_l'Univers)
+[Histoire et chronologie de l'Univers](w:Histoire_et_chronologie_de_l'Univers)
 
 Pourquoi ça devrait "venir de quelque part" ?
 

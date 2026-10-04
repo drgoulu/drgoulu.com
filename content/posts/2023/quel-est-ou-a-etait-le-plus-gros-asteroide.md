@@ -26,7 +26,7 @@ coverImage: ./images/quora.png
 
 Initialement on appelait astéroïdes les objets de la [Ceinture d'astéroïdes](w:)entre Mars et Jupiter, mais depuis la découverte des transnuptuniens on préfère parler de
 
-[https://fr.wikipedia.org/wiki/Pe...](w:Petit_corps_du_Système_solaire)
+[Petit corps du Système solaire](w:Petit_corps_du_Système_solaire)
 
 Le plus gros est [(4) Vesta](w:), environ 530 km de diamètre, presque sphérique mais pas assez pour être classée planète naine comme [(1) Cérès](w:), 950 km de diamètre et qui représente le tiers de la masse de la ceinture d'astéroïdes.
 

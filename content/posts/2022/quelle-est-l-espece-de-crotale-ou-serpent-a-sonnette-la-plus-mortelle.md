@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Une recherche Google ou directement
 
-[https://fr.wikipedia.org/wiki/Cr...](w:Crotalus)
+[Crotalus](w:Crotalus)
 
 vous fournit la réponse.
 

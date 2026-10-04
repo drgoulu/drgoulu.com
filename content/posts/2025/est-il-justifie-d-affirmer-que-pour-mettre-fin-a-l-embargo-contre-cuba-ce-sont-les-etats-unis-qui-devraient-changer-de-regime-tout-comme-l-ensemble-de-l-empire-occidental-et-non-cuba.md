@@ -17,4 +17,4 @@ Cet embargo est du à un sale gosse mauvais perdant. Obama avait commencé à as
 
 Les Etats-Unis ont changé de régime…
 
-[https://fr.wikipedia.org/wiki/Em...](w:Embargo_des_États-Unis_contre_Cuba)
+[Embargo des États-Unis contre Cuba](w:Embargo_des_États-Unis_contre_Cuba)

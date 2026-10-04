@@ -18,6 +18,6 @@ coverImage: ./images/quora.png
 
 A part qu'elles existent, elles nous apprennent que des fusions de trous noirs ou d'étoiles à neutrons détectables se produisent plusieurs fois par année.
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_d'ondes_gravitationnelles)
+[Liste d'ondes gravitationnelles](w:Liste_d'ondes_gravitationnelles)
 
 En étudiant statistiquement ces événements de plus en plus nombreux, et en les extrapolant aux distances où ils sont encore indétectables, on va pouvoir déterminer la distribution des masses des étoiles à neutrons et des trous noirs stellaires, et plein de choses passionnantes

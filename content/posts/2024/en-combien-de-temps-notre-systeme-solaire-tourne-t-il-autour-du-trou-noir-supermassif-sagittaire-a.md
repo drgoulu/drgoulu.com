@@ -17,4 +17,4 @@ D'ailleurs le système solaire ne "tourne" pas vraiment car l'influence des éto
 
 La durée d"une révolution est donc imprécise et variable, entre 225 et 250 millions d'années.
 
-[https://fr.wikipedia.org/wiki/An...](w:Année_galactique)
+[Année galactique](w:Année_galactique)

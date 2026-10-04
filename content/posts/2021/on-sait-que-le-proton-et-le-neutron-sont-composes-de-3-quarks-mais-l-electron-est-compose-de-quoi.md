@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 De rien, c est une particule élémentaire du
 
-[https://fr.wikipedia.org/wiki/Mo...](w:Modèle_standard_de_la_physique_des_particules)
+[Modèle standard de la physique des particules](w:Modèle_standard_de_la_physique_des_particules)

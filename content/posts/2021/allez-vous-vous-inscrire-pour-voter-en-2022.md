@@ -17,4 +17,4 @@ Pourquoi devez-vous vous inscrire pour exercer un droit de citoyen ?
 
 Cette année je vais voter 13 référendums et initiatives populaires sans inscription.
 
-[https://fr.wikipedia.org/wiki/Vo...](w:Votations_fédérales_de_2021_en_Suisse)
+[Votations fédérales de 2021 en Suisse](w:Votations_fédérales_de_2021_en_Suisse)

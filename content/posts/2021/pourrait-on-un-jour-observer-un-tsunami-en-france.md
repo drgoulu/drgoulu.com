@@ -18,20 +18,20 @@ coverImage: ./images/quora.png
 
 Il y en a eu plusieurs, voir
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_de_tsunamis_notables)
+[Liste de tsunamis notables](w:Liste_de_tsunamis_notables)
 
 Déjà 3 au 20ème siècle :
 
-[https://fr.wikipedia.org/wiki/Ts...](w:Tsunami_de_l'aéroport_de_Nice)
+[Tsunami de l'aéroport de Nice](w:Tsunami_de_l'aéroport_de_Nice)
 
 en 1979, un en 1985:
 
-[https://fr.wikipedia.org/wiki/Ra...](w:Raz-de-marée_des_Saintes-Maries-de-la-Mer)
+[Raz-de-marée des Saintes-Maries-de-la-Mer](w:Raz-de-marée_des_Saintes-Maries-de-la-Mer)
 
 et le dernier en 2003 a eu lieu en Algérie, mais la vague a traversé la Méditerranée jusqu'en France
 
-[https://fr.wikipedia.org/wiki/S%...](w:Séisme_de_2003_à_Boumerdès)
+[Séisme de 2003 à Boumerdès](w:Séisme_de_2003_à_Boumerdès)
 
 Et en 563 l'effondrement d'une montagne dans le Léman a provoqué une vague de 8 mètres à l'emplacement de l'actuelle Evian-les-Bains.
 
-[https://fr.wikipedia.org/wiki/Ta...](w:Tauredunum)
+[Tauredunum](w:Tauredunum)

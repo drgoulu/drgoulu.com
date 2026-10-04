@@ -15,4 +15,4 @@ coverImage: ./images/quora.png
 
 Il y a des exceptions locales, par exemple les brevets européens pour des appareils médicaux peuvent être prolongés de 5 ans.
 
-[https://fr.wikipedia.org/wiki/Br...](w:Brevet)
+[Brevet](w:Brevet)

@@ -22,6 +22,6 @@ C’est le cas. Les fossiles sont tous des espèces éteintes ou “[transitionn
 
 C’est le fait qu’il n’existe pas de fossiles d’espèces actuelles qui montre que l’évolution est une réalité.
 
-J’entends déjà réagir “faux ! le [Coelacanthe](https://fr.wikipedia.org/w/index.php?title=Coelacanthe) par exemple…”. Alors je cite la Wikipedia:
+J’entends déjà réagir “faux ! le [Coelacanthe](w:Coelacanthe) par exemple…”. Alors je cite la Wikipedia:
 
 > On lit souvent que les cœlacanthes ont subsisté sans modification biologique pendant des millions d'années, mais à vrai dire les deux espèces modernes (et même leur [genre](w:Genre_(biologie))) ne sont pas représentées dans les strates fossiles de l'[ère secondaire](w:).

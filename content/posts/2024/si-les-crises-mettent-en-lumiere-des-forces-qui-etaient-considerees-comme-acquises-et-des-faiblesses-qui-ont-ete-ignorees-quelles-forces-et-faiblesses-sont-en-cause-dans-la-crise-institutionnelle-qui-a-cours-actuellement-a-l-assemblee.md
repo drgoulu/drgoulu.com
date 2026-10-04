@@ -29,4 +29,4 @@ Notes de bas de page
 
 [[1]](#cite-BWjaU)[Du système majoritaire au système proportionnel](https://www.ch.ch/fr/elections2023/histoire-des-elections/mode-de-scrutin/)
 
-[[2]](#cite-XQFyi)[https://fr.wikipedia.org/wiki/Fo...](w:Formule_magique_(Suisse))
+[[2]](#cite-XQFyi)[Formule magique (Suisse)](w:Formule_magique_\(Suisse\))

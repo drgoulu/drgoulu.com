@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quelles-sont-les-cons%C3%A9quences-d-une-personne-atteinte-du-syndrome-de-Williams-Beuren/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Sy...](w:Syndrome_de_Williams)
+[Syndrome de Williams](w:Syndrome_de_Williams)

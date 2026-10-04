@@ -42,4 +42,4 @@ Cependant ce calcul ne tient pas compte du phénomène qui est arrivé (en résu
 
 Ca arrivera sur Terre dans environ un milliard d'années quand la luminosité du Soleil aura assez augmenté .
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)

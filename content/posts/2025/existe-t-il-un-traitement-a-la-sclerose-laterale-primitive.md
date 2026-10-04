@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Traitements des symptomes seulement, désolé…
 
-[https://fr.wikipedia.org/wiki/Sc...](w:Sclérose_latérale_primitive)
+[Sclérose latérale primitive](w:Sclérose_latérale_primitive)
 
 Méfiez-vous comme la peste des charlatans qui proposent plein de choses, mais surtout de prendre votre fric (vécu.)

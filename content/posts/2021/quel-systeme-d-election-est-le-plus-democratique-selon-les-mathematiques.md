@@ -20,7 +20,7 @@ Excellente question.
 
 Pour commencer, les mathématiques ont démontré un truc terrible : il ne peut pas exister de système électoral parfait.
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorème_d'impossibilité_d'Arrow)
+[Théorème d'impossibilité d'Arrow](w:Théorème_d'impossibilité_d'Arrow)
 
 Par "parfait" on entend un système satisfaisant simultanément 3 conditions apparemment simples:
 
@@ -28,7 +28,7 @@ Par "parfait" on entend un système satisfaisant simultanément 3 conditions app
 2. Les élus le sont à la majorité absolue
 3. En cas de "duels", Si le candidat A bat B, et que B bat C alors C ne peut pas battre A
 
-[https://fr.wikipedia.org/wiki/Pa...](w:Paradoxe_de_Condorcet)
+[Paradoxe de Condorcet](w:Paradoxe_de_Condorcet)
 
 Par exemple, en France 1 et 2 sont satisfaits, mais le système à deux tours fait que 3 ne l est pas.
 
@@ -44,7 +44,7 @@ C'est tout simple et utilisé comme système de vote dans certaines sociétés d
 
 Le
 
-[https://fr.wikipedia.org/wiki/Sc...](w:Scrutin_de_Condorcet_randomisé)
+[Scrutin de Condorcet randomisé](w:Scrutin_de_Condorcet_randomisé)
 
 est une variante plus sophistiquée permettant d'indiquer un ordre de préférence. Le dépouillement nécessite des moyens informatiques, raison pour laquelle il n'est hélas pas largement utilisé. Il existe des sites permettant d'organiser de tels scrutins pour élire le comité de votre club ou choisir une date pour un événement.
 

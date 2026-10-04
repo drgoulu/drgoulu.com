@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 (Je pars de l'idée que la question concerne le
 
-[https://fr.wikipedia.org/wiki/Je...](w:Jeu_de_la_vie)
+[Jeu de la vie](w:Jeu_de_la_vie)
 
 )
 

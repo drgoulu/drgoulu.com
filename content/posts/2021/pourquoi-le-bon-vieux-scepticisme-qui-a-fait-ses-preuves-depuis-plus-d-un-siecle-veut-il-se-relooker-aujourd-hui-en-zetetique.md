@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Pour éviter la confusion entre scepticisme philosophique et
 
-[https://fr.wikipedia.org/wiki/Sc...](w:Scepticisme_scientifique)
+[Scepticisme scientifique](w:Scepticisme_scientifique)
 
 > Le scepticisme scientifique est différent du [scepticisme philosophique](w:) tel qu'on le trouve chez [Pyrrhon d'Élis](w:) par exemple, qui consiste à dire qu'on ne peut se déterminer sur la possibilité d'une accession à un savoir certain. Il s'agit plutôt d'une forme dérivée du doute méthodique de [René Descartes](w:) ou encore du « scepticisme modéré » de [David Hume](w:).
 >

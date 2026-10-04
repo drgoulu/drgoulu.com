@@ -19,7 +19,7 @@ Or elles bougent comment le montrent les télescopes installés sur la Lune, qui
 
 C'est le cas notamment du téléscope UV chinois monté sur la sonde
 
-[https://en.wikipedia.org/wiki/Ch...](w:en:Chang'e_3)
+[Chang'e 3](w:en:Chang'e_3)
 
 [Remembering the First Moon-Based Telescope](https://www.nasa.gov/feature/remembering-the-first-moon-based-telescope)
 

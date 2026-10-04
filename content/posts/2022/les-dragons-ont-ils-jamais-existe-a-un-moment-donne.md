@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 ils existent encore
 
-[https://fr.wikipedia.org/wiki/Dr...](w:Dragon_de_Komodo)
+[Dragon de Komodo](w:Dragon_de_Komodo)

@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 La liste est là :
 
-[https://fr.wikipedia.org/wiki/Li...](w:Listes_d'éruptions_volcaniques)
+[Listes d'éruptions volcaniques](w:Listes_d'éruptions_volcaniques)
 
 1. [Éruption du Tambora en](w:Éruption_du_Tambora_en_1815)1815 : 92 000 morts
 2. [Éruption du Krakatoa en](w:Éruption_du_Krakatoa_en_1883)1883 : 36 417

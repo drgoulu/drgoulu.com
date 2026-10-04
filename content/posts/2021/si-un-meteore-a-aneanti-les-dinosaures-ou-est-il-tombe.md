@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Si-un-m%C3%A9t%C3%A9ore-a-an%C3%A9anti-les-dinosaures-o%C3%B9-est-il-tomb%C3%A9/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Cr...](w:Cratère_de_Chicxulub)
+[Cratère de Chicxulub](w:Cratère_de_Chicxulub)

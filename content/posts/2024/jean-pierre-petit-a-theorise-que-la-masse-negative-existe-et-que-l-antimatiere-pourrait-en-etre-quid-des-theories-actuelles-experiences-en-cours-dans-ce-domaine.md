@@ -30,7 +30,7 @@ Le mot "exper*" n'apparaît qu'une fois dans l'article Wikipédia anglophone, da
 
 "exper*" apparaît 2x dans l'article francophone, dont une pour dire à propos des particules supersymétriques (de masse négative notamment) :
 
-> Mais aucune des expériences dédiées à la détection de ces particules ([XENON](w:), [LUX](https://fr.m.wikipedia.org/w/index.php?title=Large_Underground_Xenon_experiment&action=edit&redlink=1) pour les plus importantes) n'en a découvert.
+> Mais aucune des expériences dédiées à la détection de ces particules ([XENON](w:), [LUX](w:Large_Underground_Xenon_experiment) pour les plus importantes) n'en a découvert.
 
 Donc c'est plutôt mal barré pour JPP et les nombreuses hypothèses similaires dont vous n'entendrez jamais parler si vous ne lisez que le français.
 

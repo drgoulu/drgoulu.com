@@ -30,4 +30,4 @@ Mais depuis la découverte de l'[Accélération de l'expansion de l'Univers](w:)
 
 SI un autre univers réapparaît après ça, ce sera plutôt d'une nouvelle fluctuation quantique du vide, dans quelque chose comme $10^{10^{10^{56}}}$ années …
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)

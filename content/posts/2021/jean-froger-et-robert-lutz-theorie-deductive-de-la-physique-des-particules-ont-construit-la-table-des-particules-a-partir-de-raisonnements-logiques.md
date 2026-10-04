@@ -21,6 +21,6 @@ J'ai eu beau chercher, je n'ai trouvé aucun résumé décrivant leurs travaux d
 
 Il faut bien réaliser que des "théories" de ce genre, il en sort tous les jours où presque. Et c'est très rare qu'une résiste aux premiers examens sérieux. Voir par exemple
 
-[https://fr.wikipedia.org/wiki/An...](w:Antony_Garrett_Lisi)
+[Antony Garrett Lisi](w:Antony_Garrett_Lisi)
 
 Mais lui avait au moins publié sur Arxiv…

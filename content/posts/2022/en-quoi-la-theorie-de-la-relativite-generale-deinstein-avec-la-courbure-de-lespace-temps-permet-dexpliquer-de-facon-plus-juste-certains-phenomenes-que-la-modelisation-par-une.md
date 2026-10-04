@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Beaucoup sont décrits ici :
 
-[https://fr.wikipedia.org/wiki/Te...](w:Tests_expérimentaux_de_la_relativité_générale)
+[Tests expérimentaux de la relativité générale](w:Tests_expérimentaux_de_la_relativité_générale)

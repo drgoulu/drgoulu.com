@@ -15,4 +15,4 @@ Non. Les chasseurs sont arrivés trop tard, n'avaient pas l'ordre d'abattre l'av
 
 L'angle du choc (44 degrés) et les débris montrent que l'avion a été délibérément mis en piqué.
 
-[https://fr.wikipedia.org/wiki/Vo...](w:Vol_United_Airlines_93)
+[Vol United Airlines 93](w:Vol_United_Airlines_93)

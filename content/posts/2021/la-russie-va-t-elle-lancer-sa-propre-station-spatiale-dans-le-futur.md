@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Même pas besoin de la lancer, ils peuvent désarrimer le
 
-[https://fr.wikipedia.org/wiki/Se...](w:Segment_orbital_russe)
+[Segment orbital russe](w:Segment_orbital_russe)
 
 qui représente 25% de la masse de l'ISS , le mettre sur une orbite différente, y ajouter un ou deux modules et voilà : ils ont leur station.
 

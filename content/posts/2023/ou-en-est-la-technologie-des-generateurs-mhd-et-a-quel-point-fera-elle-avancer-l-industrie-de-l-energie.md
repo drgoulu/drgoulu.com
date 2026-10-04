@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Vous saurez tout en lisant
 
-[https://fr.wikipedia.org/wiki/G%...](w:Générateur_MHD)
+[Générateur MHD](w:Générateur_MHD)
 
 En bref, si ça marchait bien on aurait peut-être de meilleurs rendement pour les génératrices des centrales thermiques (60, voire 80% au lieu de 40% avec les turbines à vapeur actuelles)
 

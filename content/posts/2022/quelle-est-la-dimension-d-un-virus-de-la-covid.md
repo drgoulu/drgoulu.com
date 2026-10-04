@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 60 a 140 nanomètres
 
-[https://fr.wikipedia.org/wiki/SA...](w:SARS-CoV-2)
+[SARS-CoV-2](w:SARS-CoV-2)

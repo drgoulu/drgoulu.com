@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 il n'y a pas d'extraterrestres amis. Le jour où "ils" nous trouveront, ils feront exactement ce que nous ferons si nous les trouvons en premier : destruction totale.
 
-[https://fr.wikipedia.org/wiki/La...](w:La_Forêt_sombre)
+[La Forêt sombre](w:La_Forêt_sombre)

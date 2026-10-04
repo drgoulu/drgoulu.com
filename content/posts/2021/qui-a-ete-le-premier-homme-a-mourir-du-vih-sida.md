@@ -17,4 +17,4 @@ Ou une de ses femmes. Ou l'amant d'une de ses femmes. Quel importance, qui est m
 
 Ce qui est intéressant, c'est qu'une épidémie peut remonter à des décennies avant qu'elle ne soit détectée, et même sur un autre continent.
 
-[https://fr.wikipedia.org/wiki/Or...](w:Origine_du_virus_de_l'immunodéficience_humaine)
+[Origine du virus de l'immunodéficience humaine](w:Origine_du_virus_de_l'immunodéficience_humaine)

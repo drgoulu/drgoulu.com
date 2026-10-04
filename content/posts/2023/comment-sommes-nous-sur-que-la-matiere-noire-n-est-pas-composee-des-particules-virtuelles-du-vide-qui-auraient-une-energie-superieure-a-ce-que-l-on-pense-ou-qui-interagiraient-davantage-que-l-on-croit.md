@@ -16,7 +16,7 @@ Ben publiez votre théorie dans un journal scientifique à comité de lecture, e
 
 C'est ce qu'on a fait pour une bonne douzaine de [WIMPs](w:Weakly_interacting_massive_particles) : le neutralino et plein de particules supersymétriques, plus d'autres du "[secteur caché](w:en:Hidden_sector)" des particules comme l'[Axion](w:), le [Neutrino stérile](w:)et le [dark photon](w:en:Dark_photon) dont je découvre l'hypothèse et le fait qu'il n'a pas de page [Wikipedia.fr](http://Wikipedia.fr)
 
-On les cherche tous depuis des décennies avec des expériences ( [AMS](w:Spectromètre_magnétique_Alpha), [PAMELA,](w:PAMELA)[AMANDA](w:Antarctic_Muon_and_Neutrino_Detector_Array) puis [*IceCube*](w:IceCube), [ANTARES,](w:Antares_(expérience))[EDELWEISS](w:), [MIMAC](https://fr.wikipedia.org/w/index.php?title=MIMAC&action=edit&redlink=1), [PICO](w:) et j'en passe). qui ont coûté des centaines de millions, et on en a pas trouvé une seule. Pas le moindre indice du moindre soupçon de la moindre queue de la moindre particule de matière noire.
+On les cherche tous depuis des décennies avec des expériences ( [AMS](w:Spectromètre_magnétique_Alpha), [PAMELA,](w:PAMELA)[AMANDA](w:Antarctic_Muon_and_Neutrino_Detector_Array) puis [*IceCube*](w:IceCube), [ANTARES,](w:Antares_(expérience))[EDELWEISS](w:), [MIMAC](w:MIMAC), [PICO](w:) et j'en passe). qui ont coûté des centaines de millions, et on en a pas trouvé une seule. Pas le moindre indice du moindre soupçon de la moindre queue de la moindre particule de matière noire.
 
 Donc bonne chance.
 

@@ -15,4 +15,4 @@ Pour ça il faudrait d'abord montrer que l'esprit existe.
 
 Mettez m'en un flacon pour analyse svp, je vous dis quelle est la relation illico après.
 
-[https://fr.wikipedia.org/wiki/Ma...](w:Matérialisme)
+[Matérialisme](w:Matérialisme)

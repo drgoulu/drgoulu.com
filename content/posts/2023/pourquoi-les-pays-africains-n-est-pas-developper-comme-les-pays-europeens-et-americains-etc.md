@@ -20,11 +20,11 @@ Ce n'est qu'une question de temps. D'ailleurs les 54 pays africains ont des nive
 
 La moitié des pays africains ont désormais un
 
-[https://fr.wikipedia.org/wiki/Ta...](w:Taux_de_fécondité)
+[Taux de fécondité](w:Taux_de_fécondité)
 
 inférieur à 4, ce qui est le seuil de la
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Transition_démographique)
+[Transition démographique](w:Transition_démographique)
 
 Ces pays ne vont plus s'épuiser à faire survivre des enfants, ils vont pouvoir commencer à les instruire, les former, leur permettre de travailler à améliorer leur vie.
 

@@ -19,4 +19,4 @@ Mais voilà, il peut aussi imaginer plein de trucs qui n'ont aucune chance d'exi
 
 Mais si ça nous aide à vivre, le but est atteint, non ?
 
-[https://fr.wikipedia.org/wiki/R%...](w:Réseau_du_mode_par_défaut)
+[Réseau du mode par défaut](w:Réseau_du_mode_par_défaut)

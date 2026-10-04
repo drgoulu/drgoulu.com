@@ -13,16 +13,16 @@ coverImage: ./images/quora.png
 
 Il y a plusieurs
 
-[https://fr.wikipedia.org/wiki/Fo...](w:Forme_de_l'Univers)
+[Forme de l'Univers](w:Forme_de_l'Univers)
 
 qui correspondent aux mesures d'isotropie et d'homogénéité du fonds diffus cosmologique, ainsi qu'à une courbure spatiale nulle ou quasi nulle.
 
 La plus franco-francaise est l
 
-[https://fr.wikipedia.org/wiki/Es...](w:Espace_dodécaédrique_de_Poincaré)
+[Espace dodécaédrique de Poincaré](w:Espace_dodécaédrique_de_Poincaré)
 
 Il y a 4 autres
 
-[https://fr.wikipedia.org/wiki/Va...](w:Variété_plate)
+[Variété plate](w:Variété_plate)
 
 À 3 dimensions qui satisfont aussi les conditions de connectivité, de platitude et d'absence de bord.

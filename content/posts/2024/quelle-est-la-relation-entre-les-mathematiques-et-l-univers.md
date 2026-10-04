@@ -15,4 +15,4 @@ Les maths sont juste un langage formel permettant de décrire et de communiquer 
 
 Les platoniciens qui croient que les mathématiques existent en physique doivent expliquer comment un électron calcule sa déflexion en entrant dans un champ magnétique…
 
-[https://fr.wikipedia.org/wiki/Ph...](w:Philosophie_des_mathématiques)
+[Philosophie des mathématiques](w:Philosophie_des_mathématiques)

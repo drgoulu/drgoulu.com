@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quel-pr%C3%A9sident-mort-vivant-r%C3%AAveriez-vous-d-avoir-%C3%A0-la-t%C3%AAte-de-votre-pays/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Al...](w:Alain_Berset)
+[Alain Berset](w:Alain_Berset)
 
 Ce sera son tour d'être président de la Suisse en 2023, il a été très bon comme ministre de la santé pendant le Covid-19, et il n'a pas peur de se faire dégommer par la chasse française
 

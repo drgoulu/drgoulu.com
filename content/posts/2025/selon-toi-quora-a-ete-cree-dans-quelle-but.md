@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Gagner de l'argent.
 
-[https://en.wikipedia.org/wiki/Qu...](w:en:Quora)
+[Quora](w:en:Quora)

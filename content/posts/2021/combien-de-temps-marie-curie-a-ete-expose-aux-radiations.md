@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Plus de 20 ans, de 1898 au début des années 1920
 
-[https://fr.wikipedia.org/wiki/Ma...](w:Marie_Curie)
+[Marie Curie](w:Marie_Curie)

@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 oui, il y a des cas limites comme les
 
-[https://fr.wikipedia.org/wiki/Na...](w:Naine_brune)
+[Naine brune](w:Naine_brune)
 
 En particulier les objets d'environ 13 masses de Jupiter (Mj) peuvent fusionner du deutérium juste quelques millions d'années puis s'éteindre.
 
@@ -23,6 +23,6 @@ La convention actuelle est :
 - plus de 85 Mj (= 0.08 masses du Soleil) : étoiles
 - entre deux :
 
-[https://fr.wikipedia.org/wiki/Ob...](w:Objet_substellaire)
+[Objet substellaire](w:Objet_substellaire)
 
 dont les naines brunes.

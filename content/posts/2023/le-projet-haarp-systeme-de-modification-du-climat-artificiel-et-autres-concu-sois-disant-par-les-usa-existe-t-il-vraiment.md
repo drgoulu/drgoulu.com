@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 C'est un projet d'étude de l'ionosphère avec des applications aux télécommunications, rien à voir avec la modification du climat.
 
-[https://fr.wikipedia.org/wiki/Hi...](w:High_frequency_active_auroral_research_program)
+[High frequency active auroral research program](w:High_frequency_active_auroral_research_program)
 
 Mais si vous êtes complotiste, vous ne le croirez pas.

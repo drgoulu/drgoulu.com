@@ -17,4 +17,4 @@ Les ET sont forcément agressifs
 
 Le 2ème tome du Problème à Trois Corps l'illustre à merveille avec
 
-[https://fr.wikipedia.org/wiki/La...](w:La_Forêt_sombre)
+[La Forêt sombre](w:La_Forêt_sombre)

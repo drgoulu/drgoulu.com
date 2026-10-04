@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 il y a 4 ou 5 méthodes qui donnent des résultats cohérents
 
-[https://fr.wikipedia.org/wiki/D%...](w:Détermination_de_la_constante_de_Hubble)
+[Détermination de la constante de Hubble](w:Détermination_de_la_constante_de_Hubble)

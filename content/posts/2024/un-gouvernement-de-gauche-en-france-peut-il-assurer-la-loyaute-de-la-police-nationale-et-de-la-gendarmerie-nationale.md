@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Mitterrand, il était bien de gauche, non ?
 
-[https://fr.wikipedia.org/wiki/Af...](w:Affaire_du_Rainbow_Warrior)
+[Affaire du Rainbow Warrior](w:Affaire_du_Rainbow_Warrior)

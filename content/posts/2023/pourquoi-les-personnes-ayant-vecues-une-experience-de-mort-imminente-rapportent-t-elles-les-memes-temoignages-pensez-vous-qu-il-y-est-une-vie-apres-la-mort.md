@@ -20,7 +20,7 @@ Seuls 2 à 12% des gens ayant vécu une EMI en ont un "souvenir", et ils ne rapp
 
 > 4 % des personnes décrivent cependant cette expérience comme effrayante ou désespérante. Certaines études menées dans des contextes différents contestent ce constat et montrent une grande variation du sentiment agréable/désagréable en fonction du milieu culturel et religieux
 
-[https://fr.wikipedia.org/wiki/Ex...](w:Expérience_de_mort_imminente)
+[Expérience de mort imminente](w:Expérience_de_mort_imminente)
 
 Donc pour la dizaines de pourcents de témoignages concordants dans une certaines mesure, il y a deux explications possibles :
 

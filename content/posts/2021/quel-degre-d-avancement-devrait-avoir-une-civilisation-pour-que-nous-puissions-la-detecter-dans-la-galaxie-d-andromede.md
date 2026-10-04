@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Elle devrait être au moins de type II sur l'échelle de
 
-[https://fr.wikipedia.org/wiki/%C...](w:Échelle_de_Kardachev)
+[Échelle de Kardachev](w:Échelle_de_Kardachev)
 
 donc être capable d'utiliser l'énergie totale d'une étoile au moins, mais plutôt de plusieurs pour qu'on puisse la détecter.
 

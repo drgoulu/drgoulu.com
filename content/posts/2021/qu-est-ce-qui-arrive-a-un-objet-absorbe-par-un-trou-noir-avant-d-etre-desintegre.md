@@ -15,6 +15,6 @@ Rien de spécial, il tombe en chute libre, donc en apesanteur, donc si c'était 
 
 L'objet est désintégré par les "forces de marées" . Dans le contexte des trous noirs, on appelle ça
 
-[https://fr.wikipedia.org/wiki/Sp...](w:Spaghettification)
+[Spaghettification](w:Spaghettification)
 
 Pour de très gros trous noirs supermassifs, on peut calculer que ça se passerait à l'intérieur de l'horizon des événements, alors que pour des petits, ça se passe quelques kilomètres à l'extérieur.

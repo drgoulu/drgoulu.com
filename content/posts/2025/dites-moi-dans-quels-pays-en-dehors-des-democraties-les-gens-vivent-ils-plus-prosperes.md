@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Dites-moi-dans-quels-pays-en-dehors-des-d%C3%A9mocraties-les-gens-vivent-ils-plus-prosp%C3%A8res/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_pays_par_PIB_(PPA)_par_habitant)
+[Liste des pays par PIB (PPA) par habitant](w:Liste_des_pays_par_PIB_\(PPA\)_par_habitant)

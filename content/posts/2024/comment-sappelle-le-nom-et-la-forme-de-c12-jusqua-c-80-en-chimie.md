@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-s-appelle-le-nom-et-la-forme-de-c12-jusqu-%C3%A0-c-80-en-chimie/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Fu...](w:Fullerène)
+[Fullerène](w:Fullerène)

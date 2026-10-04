@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 D'après
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_sondes_spatiales)
+[Liste des sondes spatiales](w:Liste_des_sondes_spatiales)
 
 - Mercure a été visitée par la NASA, l'ESA européenne et la JAXA japonaise
 - Venus : missions russes, NASA, ESA et JAXA

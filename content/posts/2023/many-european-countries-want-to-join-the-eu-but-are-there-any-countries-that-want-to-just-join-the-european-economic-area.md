@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://www.quora.com/Many-European-countries-want-to-join-the-EU-but-are-there-any-countries-that-want-to-just-join-the-European-Economic-Area/answer/Dr-Goulu)*
 
-[https://en.wikipedia.org/wiki/Sw...](w:en:Swiss_National_Bank)
+[Swiss National Bank](w:en:Swiss_National_Bank)

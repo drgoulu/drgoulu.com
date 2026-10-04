@@ -14,7 +14,7 @@ coverImage: ./images/quora.png
 
 Si on mentionne aussi les stérilisations forcées à la Réunion, pourquoi pas ?
 
-[https://fr.wikipedia.org/wiki/St...](w:Stérilisation_contrainte)
+[Stérilisation contrainte](w:Stérilisation_contrainte)
 
 Et si votre question concerne
 

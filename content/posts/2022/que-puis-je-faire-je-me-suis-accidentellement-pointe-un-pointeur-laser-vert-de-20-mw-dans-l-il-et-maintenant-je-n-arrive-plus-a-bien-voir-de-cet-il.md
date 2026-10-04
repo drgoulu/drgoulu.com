@@ -15,4 +15,4 @@ Avec un laser de 20 MW vous devriez avoir un trou à travers tout le crâne, don
 
 Si c était 20 mW, donc un milliard de fois moins, foncez chez un ophtalmo, mais c'est probablement deja trop tard, hélas.
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Préfixes_du_Système_international_d'unités)
+[Préfixes du Système international d'unités](w:Préfixes_du_Système_international_d'unités)

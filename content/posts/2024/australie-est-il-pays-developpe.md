@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il y a 40ans Un ami australien me disait que c'est un pays développé avec une économie de pays du Tiers-Monde, (basée sur les matières premières et l'agriculture.), mais beaucoup de choses ont changé depuis, preuve que c'est possible
 
-[https://fr.wikipedia.org/wiki/%C...](w:Économie_de_l'Australie)
+[Économie de l'Australie](w:Économie_de_l'Australie)

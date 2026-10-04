@@ -14,10 +14,10 @@ coverImage: ./images/quora.png
 
 Heu… Votre réflexion sur l'infini ne vaut pas triplette. On a des moyens beaucoup plus sérieux de connaître la taille de l'univers, voir
 
-[https://fr.wikipedia.org/wiki/Co...](w:Courbure_spatiale)
+[Courbure spatiale](w:Courbure_spatiale)
 
 La question de savoir si nous vivons dans une simulation se pose régulièrement sur Quora et ailleurs. Ça s'appelle l'
 
-[https://fr.wikipedia.org/wiki/Hy...](w:Hypothèse_de_simulation)
+[Hypothèse de simulation](w:Hypothèse_de_simulation)
 
 on a aucun indice montrant que ce pourrait être le cas, et ça ne résout rien : ceux qui nous simulent doivent vivre dans un univers, fini ou pas…

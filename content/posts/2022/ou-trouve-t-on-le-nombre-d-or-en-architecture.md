@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Quelques œuvres de Le Corbusier basées sur son
 
-[https://fr.wikipedia.org/wiki/Mo...](w:Modulor)
+[Modulor](w:Modulor)
 
 Le Corbusier a grandement propagé le mythe du [nombre d'or](w:)lancé au 19ème siècle par [Adolf Zeising](w:).
 

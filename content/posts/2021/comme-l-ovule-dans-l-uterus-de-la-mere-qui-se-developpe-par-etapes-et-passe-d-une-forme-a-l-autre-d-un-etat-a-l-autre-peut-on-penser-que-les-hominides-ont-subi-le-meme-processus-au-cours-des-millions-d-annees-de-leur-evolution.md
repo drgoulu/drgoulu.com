@@ -14,12 +14,12 @@ coverImage: ./images/quora.png
 
 Oui, on peut le penser. D'ailleurs certains y ont pensé à la fin du 19e siècle et ont proposé la
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorie_de_la_récapitulation)
+[Théorie de la récapitulation](w:Théorie_de_la_récapitulation)
 
 qui suggère que l embryon se développe en suivant l'évolution de son espèce en accéléré.
 
 Ce n'est pas le cas, cette théorie a été largement infirmée, mais certaines observations sont pertinentes et ont été intégrées à la
 
-[https://fr.wikipedia.org/wiki/Bi...](w:Biologie_évolutive_du_développement)
+[Biologie évolutive du développement](w:Biologie_évolutive_du_développement)
 
 moderne.

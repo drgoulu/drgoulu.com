@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Les désintégrations radioactives ne produisent pas directement de lumière visible. La
 
-[https://fr.wikipedia.org/wiki/Ra...](w:Radioluminescence)
+[Radioluminescence](w:Radioluminescence)
 
 Du radium et du tritium par exemple est en fait produite par un autre élément (phosphore ou sulfure de zinc par exemple) qui capture un électron émis par une désintégration bêta.
 

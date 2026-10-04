@@ -17,6 +17,6 @@ Pas vraiment pour nous protéger, mais surtout pour protéger les échantillons 
 
 En passant, on a déjà 262
 
-[https://fr.wikipedia.org/wiki/M%...](w:Météorite_martienne)
+[Météorite martienne](w:Météorite_martienne)
 
 Et on est toujours là…

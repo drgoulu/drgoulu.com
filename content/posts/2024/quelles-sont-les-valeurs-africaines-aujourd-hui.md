@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Avec 54 pays et 2000 à 3000 ethnies, la liste est longue…
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_groupes_ethniques_d'Afrique)
+[Liste des groupes ethniques d'Afrique](w:Liste_des_groupes_ethniques_d'Afrique)

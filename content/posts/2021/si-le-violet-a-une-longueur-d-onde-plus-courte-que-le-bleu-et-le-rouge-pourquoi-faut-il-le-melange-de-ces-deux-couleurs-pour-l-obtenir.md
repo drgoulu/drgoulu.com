@@ -22,4 +22,4 @@ Ces sont des couleurs "métamères" (ne le prenez pas mal, ça s'appelle comme �
 
 En gros nos yeux ne sont pas des spectromètres, ils ne font "que" combiner les signaux provenant de 3 types de [cônes](w:Cône_(photorécepteur))ayant des courbes de réponse assez aplaties, donc des lumières de spectre différents peuvent provoquer la même réponse.
 
-[https://fr.wikipedia.org/wiki/Co...](w:Couleur_métamère)
+[Couleur métamère](w:Couleur_métamère)

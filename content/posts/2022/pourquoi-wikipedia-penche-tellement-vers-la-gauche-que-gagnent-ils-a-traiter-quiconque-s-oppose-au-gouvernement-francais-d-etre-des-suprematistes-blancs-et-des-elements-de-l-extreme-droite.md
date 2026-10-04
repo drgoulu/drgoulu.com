@@ -14,14 +14,14 @@ coverImage: ./images/quora.png
 
 Wikipédia, ce sont d'abord des contributeurs comme vous et moi. Il n'y a pas de "ils" qui peut vous traiter de quoi que ce soit. Vous êtes peut-être tombé sur un troll qui n'a pas apprécié votre contribution, mais tant que vous respectez le principe
 
-[https://fr.wikipedia.org/wiki/Wi...](w:Wikipédia:Neutralité_de_point_de_vue)
+[Wikipédia:Neutralité de point de vue](w:Wikipédia:Neutralité_de_point_de_vue)
 
 il n'a rien à dire, ou alors vous pouvez dénoncer en suivant
 
-[https://fr.wikipedia.org/wiki/Wi...](w:Wikipédia:Pas_d'attaque_personnelle)
+[Wikipédia:Pas d'attaque personnelle](w:Wikipédia:Pas_d'attaque_personnelle)
 
 Si vous estimez qu'un article n'est pas neutre, suivez la procédure décrite sous
 
-[https://fr.wikipedia.org/wiki/Wi...](w:Wikipédia:Controverse_de_neutralité)
+[Wikipédia:Controverse de neutralité](w:Wikipédia:Controverse_de_neutralité)
 
 C'est rigolo d'expliquer sur Quora comment fonctionne Wikipédia qui est des millions de fois plus gros et rigoureux…

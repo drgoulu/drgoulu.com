@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce que ça marche sur quelques cellules en labo, pas sur des centaines de miliards protégées par toutes sortes de mécanismes.
 
-[https://fr.wikipedia.org/wiki/Ca...](w:Cas9)
+[Cas9](w:Cas9)

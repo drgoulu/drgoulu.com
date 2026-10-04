@@ -24,4 +24,4 @@ Si c'est la physique qui vous intéresse, familiarisez-vous avec le concept d'[U
 
 Ou si vous n'avez pas le courage, représentez vous le temps sur une échelle logarithmique, comme ça vous verrez que le Big Bang n'est pas un événement mais une transformation continue de l'Univers , et que dans très très, mais alors vraiment très longtemps, l'Univers sera à nouveau dans une état de vide tel qu'une nouvelle grosse fluctuation quantique alias Big Bang pourra se reproduire.
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)

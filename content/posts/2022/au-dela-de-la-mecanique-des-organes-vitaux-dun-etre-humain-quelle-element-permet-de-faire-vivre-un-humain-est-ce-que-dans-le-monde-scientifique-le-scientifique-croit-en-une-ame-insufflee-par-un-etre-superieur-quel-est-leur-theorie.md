@@ -25,10 +25,10 @@ Ce qui permet de faire vivre un être humain n'a rien de particulier par rapport
 
 La théorie (et en sciences ce terme signifie beaucoup plus qu'une hypothèse) qui décrit pourquoi il y a tant de firmes de vie un peu différentes, mais basées sur la même chimie est que toutes les formes de vie ont évolué à partir d'un ancêtre commun. Ça s'appelle la
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorie_synthétique_de_l'évolution)
+[Théorie synthétique de l'évolution](w:Théorie_synthétique_de_l'évolution)
 
 L'hypothèse (et ça c'est moins qu'une théorie) actuellement favorite pour l'apparition de la vie est qu'un brin d'ARN est devenu capable de se répliquer par autocatalyse.
 
-[https://fr.wikipedia.org/wiki/Hy...](w:Hypothèse_du_monde_à_ARN)
+[Hypothèse du monde à ARN](w:Hypothèse_du_monde_à_ARN)
 
 A part le fait qu'on ne constate aucune trace d'un "être supérieur", admettre son existence pose un gros problème aux scientifiques : et lui, il sort d'où ?

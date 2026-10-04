@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 J'en sais ce qui est écrit dans l'article
 
-[https://fr.wikipedia.org/wiki/Gu...](w:Guerre_du_Kivu)
+[Guerre du Kivu](w:Guerre_du_Kivu)
 
 mais je n'y comprends rien. Les forces en présence ne me semblent n'avoir aucun autre objectif que de devenir "calife à la place du calife".
 

@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 comme décrit ici :
 
-[https://fr.wikipedia.org/wiki/Da...](w:Datation_au_carbone_14_du_suaire_de_Turin)
+[Datation au carbone 14 du suaire de Turin](w:Datation_au_carbone_14_du_suaire_de_Turin)
 
 vous trouverez toutes les références scientifiques en bas de l'article.
 

@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 il y a principalement trois méthodes de
 
-[https://fr.wikipedia.org/wiki/Me...](w:Mesure_des_distances_en_astronomie)
+[Mesure des distances en astronomie](w:Mesure_des_distances_en_astronomie)
 
 1. la [parallaxe](w:). On mesure la différence de l'angle de visée de l'étoile à 6 mois d'intervalle, ce qui permet d'utiliser le diamètre de l'orbite de la Terre comme base d'un triangle. Ca marche jusqu'à quelques centaines d'années lumière, donc pour toutes les étoiles visibles à l'oeil nu et quelques milliers d'autres.
 2. les [céphéides](w:Céphéide). Ce sont des étoiles variables : leur luminosité change avec une période qui dépend directement de leur luminosité absolue. En mesurant cette période et la luminosité apparente que nous recevons sur Terre, on peut déduire leur distance. Ca marche pour toutes les galaxies où on peut distinguer de telles étoiles, soit jusqu'à 80 millions d'années lumière environ. C'est la méthode qu'on utiliserait pour votre étoile à "30 millions d'années lumière", qui serait donc forcément dans une autre galaxie.

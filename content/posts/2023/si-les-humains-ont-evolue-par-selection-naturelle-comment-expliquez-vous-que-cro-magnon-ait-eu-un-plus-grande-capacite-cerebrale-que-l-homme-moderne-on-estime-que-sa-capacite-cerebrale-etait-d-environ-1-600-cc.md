@@ -26,4 +26,4 @@ coverImage: ./images/quora.png
 4. La raison de la dernière diminution de volume n'est pas encore établie, mais elle coïncide avec l'apparition de l'agriculture et de sociétés plus structurées dans lesquelles les rôles sont répartis. On a (peut-être) eu moins besoin d'êtres "bons en tout"
 5. "Les sociétés industrielles des 100 dernières années ont cependant vu la taille du cerveau rebondir. La meilleure nutrition infantile et la diminution du nombre des maladies pourraient en être la raison, ou plus simplement la croissance de la taille corporelle moyenne. " (Wikipédia)
 
-[https://fr.wikipedia.org/wiki/%C...](w:Évolution_du_cerveau)
+[Évolution du cerveau](w:Évolution_du_cerveau)

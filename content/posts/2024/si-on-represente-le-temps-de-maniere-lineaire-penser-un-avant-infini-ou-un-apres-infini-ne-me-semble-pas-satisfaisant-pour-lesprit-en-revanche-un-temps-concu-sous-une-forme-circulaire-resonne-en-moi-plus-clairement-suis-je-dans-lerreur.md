@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 
 Le temps est local. Il est possible qu'il y ait des endroits où il boucle
 
-[https://fr.wikipedia.org/wiki/Co...](w:Courbe_fermée_de_type_temps)
+[Courbe fermée de type temps](w:Courbe_fermée_de_type_temps)

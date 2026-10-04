@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Premier niveau : comprendre toute la page
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Programme_de_Hamilton)
+[Programme de Hamilton](w:Programme_de_Hamilton)
 
 Deuxième niveau : comprendre les trois articles
 

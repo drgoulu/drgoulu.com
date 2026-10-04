@@ -26,4 +26,4 @@ Selon [Histoire évolutive des dinosaures — Wikipédia](w:Histoire_évolutive_
 
 ensuite sur [Nyasasaurus — Wikipédia](w:Nyasasaurus):
 
-> Nyasasaurus (signifiant « lézard du [lac Nyasa](w:) ») est un [genre](w:Genre_(biologie)) éteint de [dinosauriformes](w:) du [Trias moyen](w:) découvert dans le [Manda Beds](https://fr.wikipedia.org/w/index.php?title=Manda_Beds&action=edit&redlink=1) [(en)](w:en:Manda_Beds) en [Tanzanie](w:). C'est peut-être le [dinosaure](w:) le plus ancien connu. (…)
+> Nyasasaurus (signifiant « lézard du [lac Nyasa](w:) ») est un [genre](w:Genre_(biologie)) éteint de [dinosauriformes](w:) du [Trias moyen](w:) découvert dans le [Manda Beds](w:Manda_Beds) [(en)](w:en:Manda_Beds) en [Tanzanie](w:). C'est peut-être le [dinosaure](w:) le plus ancien connu. (…)

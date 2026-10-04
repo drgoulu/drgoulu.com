@@ -17,4 +17,4 @@ Au loto par contre la probabilité de gros lot est de 1/19068840, qui est loin d
 
 Heureusement, la vitesse relativiste des muons produits par les rayons cosmiques fait qu'ils durent us longtemps de notre point de vue, ce qui fait qu'on peut les utiliser pour la
 
-[https://fr.wikipedia.org/wiki/To...](w:Tomographie_muonique)
+[Tomographie muonique](w:Tomographie_muonique)

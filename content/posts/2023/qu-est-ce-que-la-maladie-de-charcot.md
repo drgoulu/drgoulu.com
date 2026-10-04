@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Nom francophone de la
 
-[https://fr.wikipedia.org/wiki/Sc...](w:Sclérose_latérale_amyotrophique)
+[Sclérose latérale amyotrophique](w:Sclérose_latérale_amyotrophique)

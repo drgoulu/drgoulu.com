@@ -24,7 +24,7 @@ La courbure de l'espace-temps sur l'horizon des événements n'a pas besoin d'ê
 
 Ca s'appelle le
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Principe_holographique)
+[Principe holographique](w:Principe_holographique)
 
 Et c'est en écrivant
 

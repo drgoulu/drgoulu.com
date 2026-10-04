@@ -16,6 +16,6 @@ C'est en discussion. La [Commission internationale de stratigraphie](w:)étudie 
 
 La question est surtout de savoir si l'
 
-[https://fr.wikipedia.org/wiki/An...](w:Anthropocène)
+[Anthropocène](w:Anthropocène)
 
 sera une ère géologique, ou juste une mince couche separant deux ères géologiques…

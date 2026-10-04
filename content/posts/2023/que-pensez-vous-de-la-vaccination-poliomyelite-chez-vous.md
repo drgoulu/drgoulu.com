@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Il faut absolument faire les derniers efforts pour arriver à l'
 
-[https://fr.wikipedia.org/wiki/%C...](w:Éradication_de_la_poliomyélite)
+[Éradication de la poliomyélite](w:Éradication_de_la_poliomyélite)
 
 Après cela, comme pour la variole, le monde entier pourra se passer de ce vaccin, mais surtout de cette menace pour toujours.
 

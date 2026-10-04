@@ -15,7 +15,7 @@ R6éférence de votre "fait établi" siouplait ?
 
 Vous êtes libre de modifier Wikipédia. Tout ce qu'il faut, ce sont des références.
 
-[https://fr.wikipedia.org/wiki/Wi...](w:Wikipédia:Sources_primaires,_secondaires_et_tertiaires)
+[Wikipédia:Sources primaires, secondaires et tertiaires](w:Wikipédia:Sources_primaires,_secondaires_et_tertiaires)
 
 !!! Ajout du 25 : le "fait établi" l'est effectivement, mais sur le fork de Wikipédia contrôlé par le gouvernement russe
 

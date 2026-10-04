@@ -15,4 +15,4 @@ Le même poids que son volume en eau.
 
 Un poisson d'un volume de 1dm3 pèse 1kg.
 
-[https://fr.wikipedia.org/wiki/Po...](w:Poussée_d'Archimède)
+[Poussée d'Archimède](w:Poussée_d'Archimède)

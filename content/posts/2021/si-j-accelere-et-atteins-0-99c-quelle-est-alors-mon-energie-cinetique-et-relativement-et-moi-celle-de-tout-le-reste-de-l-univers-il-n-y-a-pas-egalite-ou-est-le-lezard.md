@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 À 0.99c, votre
 
-[https://fr.wikipedia.org/wiki/Fa...](w:Facteur_de_Lorentz)
+[Facteur de Lorentz](w:Facteur_de_Lorentz)
 
 Est légèrement supérieur à 7.
 

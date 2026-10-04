@@ -16,6 +16,6 @@ Ca s'appellerait un [Avion-fusée](w:)voire un [Avion spatial](w:).
 
 Votre réservoir d'oxygène prendrait environ la moitié du volume occupé par les réservoirs, donc la quantité de carburant emporté serait divisée par 2 par rapport à un avion atmosphérique, donc même avec une petite réduction de la traînée, vous allez vous retrouver avec une autonomie réduite.
 
-Accessoirement, on sait faire des avions stratosphériques qui peuvent encore utiliser l'oxygène de l'air à 20'000m ( [Lockheed U-2,](w:Lockheed_U-2) Concorde[https://fr.wikipedia.org/wiki/Lockheed_U-2](w:Lockheed_U-2)) voire plus haut.
+Accessoirement, on sait faire des avions stratosphériques qui peuvent encore utiliser l'oxygène de l'air à 20'000m ( [Lockheed U-2,](w:Lockheed_U-2) Concorde[Lockheed U-2](w:Lockheed_U-2)) voire plus haut.
 
 Si on ne le fait pas, c'est certainement pour des raisons économiques le surcoût de la technologie de l'avion n'équilibre plus l'économie de carburant.

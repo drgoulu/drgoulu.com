@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Les
 
-[https://fr.wikipedia.org/wiki/Ra...](w:Rayon_gamma)
+[Rayon gamma](w:Rayon_gamma)
 
 Dans le corps humain ce sont les rayons X mais ils ne sont pas d'origine nucléaire.

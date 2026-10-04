@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 La mission de Persévérance est prévue jusqu en Avril 2023.
 
-[https://fr.wikipedia.org/wiki/Ex...](w:Exploration_de_Mars_par_Perseverance)
+[Exploration de Mars par Perseverance](w:Exploration_de_Mars_par_Perseverance)
 
 Mais comme ses prédécesseurs, il durera probablement plus longtemps
 

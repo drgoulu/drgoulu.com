@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Les ancêtres des oiseaux qui vivaient au Jurassique étaient petits et ne volaient pas
 
-[https://fr.wikipedia.org/wiki/Hi...](w:Histoire_évolutive_des_oiseaux)
+[Histoire évolutive des oiseaux](w:Histoire_évolutive_des_oiseaux)
 
 Vous pensez peut-être aux [Pterosaures](w:Pterosauria), mais ce ne sont pas les ancêtres des oiseaux, et ce ne sont pas non plus des dinosaures. Ce sont des reptiles volants (rappel : les dinosaures ne sont pas des reptiles)
 

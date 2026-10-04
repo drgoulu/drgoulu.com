@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Qu-est-ce-que-la-radio-identification/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Ra...](w:Radio-identification)
+[Radio-identification](w:Radio-identification)

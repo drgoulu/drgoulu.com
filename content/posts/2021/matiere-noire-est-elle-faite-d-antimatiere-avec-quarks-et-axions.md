@@ -17,6 +17,6 @@ Non, si la matière noire était constituée d'antimatière (antiprotons et/ou p
 
 Les
 
-[https://fr.wikipedia.org/wiki/Ax...](w:Axion)
+[Axion](w:Axion)
 
 Sont une hypothèse envisagée, mais ces particules sont elles-mêmes une hypothèse. On ne les a pas détectées alors qu'on les cherche depuis 1977.

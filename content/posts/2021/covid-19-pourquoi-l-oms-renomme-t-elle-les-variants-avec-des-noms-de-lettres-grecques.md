@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Covid-19-pourquoi-lOMS-renomme-t-elle-les-variants-avec-des-noms-de-lettres-grecques/answer/Dr-Goulu)*
 
-Le [Virus de la grippe A](w:)H11N18 ne s'appelle pas "grippe[https://fr.wikipedia.org/wiki/Virus_de_la_grippe_A?wprov=sfla1](w:Virus_de_la_grippe_A)de la chauve-souris du Pérou."
+Le [Virus de la grippe A](w:)H11N18 ne s'appelle pas "grippe[Virus de la grippe A](w:Virus_de_la_grippe_A)de la chauve-souris du Pérou."
 
 Pourtant c'est bien là bas qu'on l'a trouvé. Ce qui ne veut pas dire que ce virus soit apparu là bas, et encore moins que les autorités péruviennes sont responsables.
 

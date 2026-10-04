@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Essayez vous-même !
 
-Vous pouvez jouer au jeu [https://fr.wikipedia.org/wiki/Pl...](w:Plague_Inc). ou à ce petit simulateur en ligne tout simple et très intéressant:
+Vous pouvez jouer au jeu [Plague Inc](w:Plague_Inc). ou à ce petit simulateur en ligne tout simple et très intéressant:
 
 [http://www.shodor.org/featured/D...](http://www.shodor.org/featured/DiseaseModel/JavaScript)
 

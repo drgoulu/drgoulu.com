@@ -24,7 +24,7 @@ Je suppose que vous vouliez dire :
 
 Dans ce cas lisez
 
-[https://fr.wikipedia.org/wiki/Pa...](w:Patriarcat_(sociologie))
+[Patriarcat (sociologie)](w:Patriarcat_\(sociologie\))
 
 Vous y trouverez les "raisons" historiques culturelles voire religieuses.
 

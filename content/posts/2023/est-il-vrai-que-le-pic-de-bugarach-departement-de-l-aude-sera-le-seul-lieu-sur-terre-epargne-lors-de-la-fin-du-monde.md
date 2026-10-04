@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Encore une fin du monde ? Mais il n'arrête pas de finir, ce monde…
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_de_prédictions_de_la_fin_du_monde)
+[Liste de prédictions de la fin du monde](w:Liste_de_prédictions_de_la_fin_du_monde)
 
 C est celle des témoins de Jéhovah ou une autre ?
 

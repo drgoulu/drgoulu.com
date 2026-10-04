@@ -11,13 +11,13 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Que-pensez-vous-de-la-r%C3%A9cente-vid%C3%A9o-de-debunkage-18-mensonges-contre-didier-Raoult-d-Idriss-Aberkane-Vid%C3%A9o-visible-dans-le-commentaire-ci-dessous/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Id...](w:Idriss_Aberkane)
+[Idriss Aberkane](w:Idriss_Aberkane)
 
 me dispense de regarder la vidéo, je sais déjà tout, y compris pourquoi cette vidéo a été supprimée de YouTube : c'est un ramassis de conneries de plus, habituelles avec lui.
 
 En voici une qui fait du boulot de scientifique professionnelle sur Raoult et consorts :
 
-[https://fr.wikipedia.org/wiki/El...](w:Elisabeth_Bik)
+[Elisabeth Bik](w:Elisabeth_Bik)
 
 et une vidéo, non censurée parce que factuelle, et rien que factuelle :
 

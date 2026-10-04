@@ -15,4 +15,4 @@ un pointeur a la taille d'une adresse en mémoire (32 ou 64 bits)
 
 un int fait normalement 16 bits (15 s'il est signé), un long 32 bits et un long long 64 bits.
 
-[https://fr.wikipedia.org/wiki/Ty...](w:Types_de_donnée_du_langage_C)
+[Types de donnée du langage C](w:Types_de_donnée_du_langage_C)

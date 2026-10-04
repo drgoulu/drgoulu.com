@@ -28,8 +28,8 @@ Dans les grosses étoiles, ces cycles sont plus courts car leur puissance doit c
 
 Mais la fusion du fer ne produit pas d'énergie, elle en consomme. Donc la pression de radiation diminue brutalement et l'étoile s'effondre en quelques secondes, jusqu'à comprimer les noyaux atomiques les uns contre les autres : le cœur de l'étoile devient extraordinairement "dur" et les couches externes de l'étoile se compriment dessus au point de déclencher la fusion de tout ce qui restait d'éléments légers dans les couches externes de l'étoile, et l'onde de choc les propulse dans l'espace.
 
-[https://fr.wikipedia.org/wiki/Nu...](w:Nucléosynthèse_stellaire)
+[Nucléosynthèse stellaire](w:Nucléosynthèse_stellaire)
 
 on distingue des "types" de supernova différents suivant la composition de l'étoile, donc principalement sa masse, au moment où ça se produit. Détails ici :
 
-[https://fr.wikipedia.org/wiki/Su...](w:Supernova)
+[Supernova](w:Supernova)

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 qu'on en connait des milliers
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_de_fossiles_d'hominidés)
+[Liste de fossiles d'hominidés](w:Liste_de_fossiles_d'hominidés)
 
 à noter qu'ils ont été trouvés principalement dans une portion de l'Afrique où les conditions de conservation des fossiles sont bonnes. Il est probable que d'autres "espèces intermédiaires" n'ont laissé aucune trace géologique.

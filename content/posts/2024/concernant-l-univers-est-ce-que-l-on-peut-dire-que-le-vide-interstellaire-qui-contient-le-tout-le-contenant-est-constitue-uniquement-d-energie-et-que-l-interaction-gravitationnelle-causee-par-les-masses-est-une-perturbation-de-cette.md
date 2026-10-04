@@ -22,7 +22,7 @@ La troisième est que le vide interstellaire n'est pas un contenant. Il fait par
 
 Si vous voulez épater la galerie avec l'univers et l'énergie, essayez plutôt avec ça :
 
-[https://fr.wikipedia.org/wiki/Un...](w:Univers_à_énergie_nulle)
+[Univers à énergie nulle](w:Univers_à_énergie_nulle)
 
 Notes de bas de page
 

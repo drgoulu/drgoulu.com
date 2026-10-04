@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce que dans certains pays ils risquent carrément la mort.
 
-[https://fr.wikipedia.org/wiki/Di...](w:Discrimination_contre_les_athées)
+[Discrimination contre les athées](w:Discrimination_contre_les_athées)

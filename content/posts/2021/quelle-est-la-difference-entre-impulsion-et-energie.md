@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Selon le très important
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorème_de_Noether_(physique))
+[Théorème de Noether (physique)](w:Théorème_de_Noether_\(physique\))
 
 l'impulsion est l'invariant par translation dans l espace et l'énergie est l'invariant par translation dans le temps.
 

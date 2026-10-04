@@ -13,10 +13,10 @@ coverImage: ./images/quora.png
 
 C'est un peu brutal comme raccourci. Il faut un système capable de
 
-[https://fr.wikipedia.org/wiki/Ph...](w:Photosynthèse)
+[Photosynthèse](w:Photosynthèse)
 
 Donc utilisant l'énergie solaire pour réduire chimiquement le CO2.
 
 Et "ressource" est très relatif. Ce processus dégage un gaz qui a causé la plus grande catastrophe écologique de tous les temps, la
 
-[https://fr.wikipedia.org/wiki/Gr...](w:Grande_Oxydation)
+[Grande Oxydation](w:Grande_Oxydation)

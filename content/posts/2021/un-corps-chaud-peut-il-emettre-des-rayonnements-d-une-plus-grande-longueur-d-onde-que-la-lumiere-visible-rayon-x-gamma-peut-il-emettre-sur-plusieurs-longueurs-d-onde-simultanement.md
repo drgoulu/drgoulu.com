@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Un corps chaud émet tout un spectre de longueurs d'ondes définies par le
 
-[https://fr.wikipedia.org/wiki/Ra...](w:Rayonnement_du_corps_noir)
+[Rayonnement du corps noir](w:Rayonnement_du_corps_noir)
 
 A 5800K, le Soleil émet déjà une partie de son rayonnement dans les UV , mais il y a des étoiles beaucoup plus chaudes, comme [PG 1159](w:Étoile_PG_1159)dont la surface est à près de 200'000K qui émettent surtout dans l'ultra-violet.
 
@@ -26,7 +26,7 @@ A partir de 100'000K une partie du rayonnement est dans les rayons X. C'est le c
 
 Par contre l'énergie des [Rayon gamma](w:)est telle qu'il n'y a pas vraiment d'objet suffisamment chaud pour en produire un spectre. Ils sont émis par des phénomènes nucléaires comme la fusion dans les étoiles
 
-[https://fr.wikipedia.org/wiki/Su...](w:Sursaut_gamma)
+[Sursaut gamma](w:Sursaut_gamma)
 
 Dans ces processus, chaque événement nucléaire produit un photon gamma d'une énergie, donc d'une longueur d'onde bien précise.
 

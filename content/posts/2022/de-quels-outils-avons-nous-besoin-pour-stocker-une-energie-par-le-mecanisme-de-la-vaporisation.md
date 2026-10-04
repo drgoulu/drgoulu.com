@@ -15,4 +15,4 @@ Un gros réservoir de vapeur sous pression bien isolé.
 
 Mais c'est une mauvaise idée, vous n en récupérerez que 40% à tout casser.
 
-[https://fr.wikipedia.org/wiki/Cy...](w:Cycle_de_Carnot)
+[Cycle de Carnot](w:Cycle_de_Carnot)

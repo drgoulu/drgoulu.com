@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui.
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_de_logiciels_Python)
+[Liste de logiciels Python](w:Liste_de_logiciels_Python)

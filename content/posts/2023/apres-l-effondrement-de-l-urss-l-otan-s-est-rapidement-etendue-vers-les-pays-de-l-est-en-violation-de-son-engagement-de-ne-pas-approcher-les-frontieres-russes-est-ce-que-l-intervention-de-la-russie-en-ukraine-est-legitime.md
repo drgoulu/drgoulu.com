@@ -34,4 +34,4 @@ Bravo Vladimir…
 
 (source des citations b
 
-[https://fr.wikipedia.org/wiki/Re...](w:Relations_entre_l'OTAN_et_l'Ukraine)
+[Relations entre l'OTAN et l'Ukraine](w:Relations_entre_l'OTAN_et_l'Ukraine)

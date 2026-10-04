@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 
 Tout est là :
 
-[https://fr.wikipedia.org/wiki/Ge...](w:Georgia_Guidestones)
+[Georgia Guidestones](w:Georgia_Guidestones)

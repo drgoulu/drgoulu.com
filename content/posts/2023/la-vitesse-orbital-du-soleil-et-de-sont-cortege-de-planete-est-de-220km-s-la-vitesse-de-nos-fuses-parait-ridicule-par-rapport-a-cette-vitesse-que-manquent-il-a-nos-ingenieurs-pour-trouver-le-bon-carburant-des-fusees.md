@@ -18,4 +18,4 @@ Une "vitesse orbitale" n'a pas de sens physique, il n'y a aucun objet vers leque
 
 J'ai mis "orbite" entre guillemets parce que les étoiles ne sont pas sur des orbites autour de la galaxie. Elles ont un mouvement global autour, mais la dispersion de la matière fait que les interactions avec les autres étoiles est loin d'être négligeable. Le Soleil ne tourne pas sur une jolie ellipse mais "papillonne en rond".
 
-[https://fr.wikipedia.org/wiki/Vi...](w:Vitesse_cosmique)
+[Vitesse cosmique](w:Vitesse_cosmique)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce qu'il y a plus de nombres premiers dont l'écart est 6 que 8.
 
-[https://fr.wikipedia.org/wiki/%C...](w:Écart_entre_nombres_premiers)
+[Écart entre nombres premiers](w:Écart_entre_nombres_premiers)

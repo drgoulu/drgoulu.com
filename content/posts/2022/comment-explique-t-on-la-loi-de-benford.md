@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Il y a plusieurs explications et théorèmes liés sur
 
-[https://fr.wikipedia.org/wiki/Lo...](w:Loi_de_Benford)
+[Loi de Benford](w:Loi_de_Benford)
 
 L'idée est que les variable aléatoires qui s'étendent sur plusieurs ordres de grandeur ne suivent pas une [Loi uniforme](w:Loi_uniforme_continue).

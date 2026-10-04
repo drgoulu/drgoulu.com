@@ -15,7 +15,7 @@ Sur cette carte illustrant déjà mon [article sur le cercle polaire](/2013/08/1
 
 [![Arctique](./images/478px-Arctic_circle.svg_.png)](http://fr.wikipedia.org/wiki/Arctique)
 
-[http://fr.wikipedia.org/wiki/Oc%C3%A9an\_Arctique](w:Océan_Arctique)
+[Océan Arctique](w:Océan_Arctique)
 
 ![](./images/29708513aad7bafc84af200d45efdff6.gif)
 

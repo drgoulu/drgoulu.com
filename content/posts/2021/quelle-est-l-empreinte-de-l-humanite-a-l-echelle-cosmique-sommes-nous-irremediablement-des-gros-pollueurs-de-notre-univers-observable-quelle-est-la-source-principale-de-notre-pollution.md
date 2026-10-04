@@ -27,7 +27,7 @@ Au niveau "cosmique", c'est comparable à quelques milliards de milliards de mil
 
 Mais si vous vous restreignez aux êtres vivants, alors il ne faut pas oublier les cyanobactéries, responsables de la plus grande catastrophe écologique que la Terre ait connu, la
 
-[https://fr.wikipedia.org/wiki/Gr...](w:Grande_Oxydation)
+[Grande Oxydation](w:Grande_Oxydation)
 
 Il y a 2.4 milliards d'années, ces sales bestioles ont complètement contaminé la Terre avec un gaz toxique qui a exterminé les autres formes de vie, a changé la composition des océans et de l'atmosphère, et a transformé la planète en [boule de neige pendant 300 millions d'années](w:Glaciation_huronienne) ce qui a presque achevé de la stériliser.
 
@@ -45,7 +45,7 @@ Au niveau "cosmique", c'est comparable à quelques milliards de milliards de mil
 
 Mais si vous vous restreignez aux êtres vivants, alors il ne faut pas oublier les cyanobactéries, responsables de la plus grande catastrophe écologique que la Terre ait connu, la
 
-[https://fr.wikipedia.org/wiki/Gr...](w:Grande_Oxydation)
+[Grande Oxydation](w:Grande_Oxydation)
 
 Il y a 2.4 milliards d'années, ces sales bestioles ont complètement contaminé la Terre avec un gaz toxique qui a exterminé les autres formes de vie, a changé la composition des océans et de l'atmosphère, et a transformé la planète en [boule de neige pendant 300 millions d'années](w:Glaciation_huronienne) ce qui a presque achevé de la stériliser.
 

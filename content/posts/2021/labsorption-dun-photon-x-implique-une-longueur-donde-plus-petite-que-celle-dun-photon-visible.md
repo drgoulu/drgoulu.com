@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui. Les rayons X ont des longueurs d'onde de l'ordre du nanomètre, alors que le visible est entre 400 et 700 nm environ.
 
-[https://fr.wikipedia.org/wiki/Sp...](w:Spectre_électromagnétique)
+[Spectre électromagnétique](w:Spectre_électromagnétique)

@@ -15,4 +15,4 @@ Oui, c'est le principe…
 
 Surtout que vous pouvez être condamné à rester dans une zone plus ou moins grande, ou au contraire à ne pas entrer dans une certaine zone, voire à proximité d'une autre personne elle aussi géocalisée.
 
-[https://fr.wikipedia.org/wiki/Su...](w:Surveillance_électronique)
+[Surveillance électronique](w:Surveillance_électronique)

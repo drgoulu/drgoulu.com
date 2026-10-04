@@ -15,4 +15,4 @@ Le vent solaire exerce une force minuscule, totalement négligeable pour un sate
 
 9.4 millionièmes de Newton / m2
 
-[https://fr.wikipedia.org/wiki/Vo...](w:Voile_solaire)
+[Voile solaire](w:Voile_solaire)

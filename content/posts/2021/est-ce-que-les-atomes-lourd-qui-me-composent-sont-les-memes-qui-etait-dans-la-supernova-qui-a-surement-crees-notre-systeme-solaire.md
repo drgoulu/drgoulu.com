@@ -13,7 +13,7 @@ coverImage: ./images/qimg-a2a53c1637e4c1838b7b72a325ded078.png
 
 "rien ne se perd, rien ne se crée, tout se transforme" est l'énoncé du principe de Lavoisier, valable en chimie mais qui date d'avant la découverte de la fusion nucléaire dans les étoiles (voir
 
-[https://fr.wikipedia.org/wiki/Nu...](w:Nucléosynthèse_stellaire)
+[Nucléosynthèse stellaire](w:Nucléosynthèse_stellaire)
 
 )
 
@@ -21,7 +21,7 @@ Il s'avère que l'hydrogène "crée" des éléments plus lourds, en effet.
 
 sur
 
-[https://fr.wikipedia.org/wiki/Nu...](w:Nucléosynthèse)
+[Nucléosynthèse](w:Nucléosynthèse)
 
 Il y a un joli "tableau de Mendeleiev" qui montre l'origine des différents éléments:
 

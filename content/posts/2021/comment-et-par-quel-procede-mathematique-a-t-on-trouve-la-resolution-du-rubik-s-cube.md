@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 L'article
 
-[https://fr.wikipedia.org/wiki/Al...](w:Algorithmes_optimaux_de_résolution_du_Rubik's_Cube)
+[Algorithmes optimaux de résolution du Rubik's Cube](w:Algorithmes_optimaux_de_résolution_du_Rubik's_Cube)
 
 vous renseignera en détail mais je vous préviens : c'est "musclé" …

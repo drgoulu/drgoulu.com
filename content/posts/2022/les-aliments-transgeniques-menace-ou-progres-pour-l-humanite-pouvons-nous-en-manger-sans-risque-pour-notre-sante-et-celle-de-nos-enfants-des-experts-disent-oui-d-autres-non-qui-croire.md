@@ -15,4 +15,4 @@ Ne croyez rien. Lisez, vérifiez, comparez et choisissez. Rien ne vous oblige à
 
 Les OGM ont certainement des inconvénients, mais s'ils présentaient le moindre risque pour la santé humaine ils n'auraient pas été autorisés.
 
-[https://fr.wikipedia.org/wiki/R%...](w:Réglementation_des_OGM_dans_l'Union_européenne)
+[Réglementation des OGM dans l'Union européenne](w:Réglementation_des_OGM_dans_l'Union_européenne)

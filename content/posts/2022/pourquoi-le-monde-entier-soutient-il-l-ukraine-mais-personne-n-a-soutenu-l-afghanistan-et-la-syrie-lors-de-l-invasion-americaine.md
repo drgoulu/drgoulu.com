@@ -15,6 +15,6 @@ Parce que le monde entier sait que Bashar, Vladimir et les talibans sont des sal
 
 La Russie a soutenu la Syrie
 
-[https://fr.wikipedia.org/wiki/In...](w:Intervention_militaire_de_la_Russie_en_Syrie)
+[Intervention militaire de la Russie en Syrie](w:Intervention_militaire_de_la_Russie_en_Syrie)
 
 Le Qatar a soutenu les talibans, arrivant même à faire signer l'[Accord de Doha](w:Accord_de_Doha_(2020))à Trump chez eux !

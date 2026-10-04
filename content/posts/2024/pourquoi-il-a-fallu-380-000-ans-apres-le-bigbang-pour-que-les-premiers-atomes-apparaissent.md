@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce qu'il faisait trop chaud. Au dessus de 5000K environ, la matière est sous forme de plasma, donc les électrons ont trop d'énergie pour rester liés aux noyaux.
 
-[https://fr.wikipedia.org/wiki/Re...](w:Recombinaison_(cosmologie))
+[Recombinaison (cosmologie)](w:Recombinaison_\(cosmologie\))

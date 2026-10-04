@@ -26,6 +26,6 @@ Bref, c'est un Gourou New Age de plus.
 
 Si vous cherchez des informations sur la recherche scientifique, lisez le paragraphe "mécanismes neurobiologiques" de la page
 
-[https://fr.wikipedia.org/wiki/Ef...](w:Effet_placebo)
+[Effet placebo](w:Effet_placebo)
 
 et ses références.

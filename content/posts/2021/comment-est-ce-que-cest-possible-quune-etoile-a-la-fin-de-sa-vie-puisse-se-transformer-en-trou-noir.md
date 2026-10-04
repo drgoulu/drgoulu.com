@@ -19,4 +19,4 @@ Quand la fusion s'achève, elle s'effondre, et si aucune nouvelle réaction de f
 - Une étoile à neutrons pour les moyennes
 - Un trou noir pour les grosses.
 
-[https://fr.wikipedia.org/wiki/%C...](w:Évolution_stellaire)
+[Évolution stellaire](w:Évolution_stellaire)

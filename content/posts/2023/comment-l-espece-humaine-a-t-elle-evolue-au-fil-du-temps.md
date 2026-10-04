@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 A question générale, réponse générale :
 
-[https://fr.wikipedia.org/wiki/Hi...](w:Histoire_évolutive_de_la_lignée_humaine)
+[Histoire évolutive de la lignée humaine](w:Histoire_évolutive_de_la_lignée_humaine)

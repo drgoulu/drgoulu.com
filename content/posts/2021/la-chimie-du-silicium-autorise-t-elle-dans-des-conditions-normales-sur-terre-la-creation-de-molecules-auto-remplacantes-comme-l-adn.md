@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 L'article
 
-[https://fr.wikipedia.org/wiki/Bi...](w:Biochimies_hypothétiques)
+[Biochimies hypothétiques](w:Biochimies_hypothétiques)
 
 donne plusieurs raisons pour laquelle une biochimie du silicium est envisageable, mais peu probable.
 

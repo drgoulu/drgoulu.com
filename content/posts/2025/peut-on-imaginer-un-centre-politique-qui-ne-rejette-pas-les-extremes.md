@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Oui. En Suisse nous avons plusieurs gouvernements cantonaux et le gouvernement fédéral où des membres socialistes, du centre, de la droite libérale et de la droite conservatrice dite extrême travaillent ensemble. (avec l'extrême gauche dans certaines villes, notamment Genève)
 
-[https://fr.wikipedia.org/wiki/Fo...](w:Formule_magique_(Suisse))
+[Formule magique (Suisse)](w:Formule_magique_\(Suisse\))
 
 Et ça marche plutôt bien depuis 1959.
 

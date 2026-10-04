@@ -16,4 +16,4 @@ Qu'est ce qui vous fait penser que l'univers aurait pu être différent ?
 
 Peut-être que le "phénomène de sélection des lois" que vous cherchez n'est rien d'autre que le temps. Des organismes complexes tels que nous ne peuvent subsister que quelques milliards d'années, une infime fraction de la durée de l'univers, beaucoup trop chaud et homogène avant, beaucoup trop froid et dilué après.
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)

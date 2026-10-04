@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Il existe 28 [Pavages de l'espace](w:Pavage_de_l'espace) par des [Polyèdres convexes uniformes](w:Polyèdre_uniforme), ils sont tous là :
 
-[https://en.wikipedia.org/wiki/Co...](w:en:Convex_uniform_honeycomb)
+[Convex uniform honeycomb](w:en:Convex_uniform_honeycomb)
 
 De plus il existe d'autres pavages [isoédriques](w:Polyèdre_isoédrique) comme le [pavage dodécaédrique rhombique](w:en:Rhombic_dodecahedral_honeycomb) et le pavage par des [dodécaèdres rhombo-hexagonaux](w:en:Rhombo-hexagonal_dodecahedron).
 

@@ -18,4 +18,4 @@ Ils en sédimentent et fossilisent 0.4 Gt qui se retrouveront un jour sous forme
 
 Les 1.6 Gt restants sont la cause de l'[Acidification des océans](w:), un problème au moins aussi important que le réchauffement de l'atmosphère.
 
-[https://fr.wikipedia.org/wiki/Cy...](w:Cycle_du_carbone)
+[Cycle du carbone](w:Cycle_du_carbone)

@@ -20,7 +20,7 @@ Nous avons des images de la Lune avec une excellente résolution.
 
 La sonde
 
-[https://fr.wikipedia.org/wiki/Lu...](w:Lunar_Reconnaissance_Orbiter)
+[Lunar Reconnaissance Orbiter](w:Lunar_Reconnaissance_Orbiter)
 
 fournit chaque jour environ 400 Go d'images d'une résolution de 50 cm.
 

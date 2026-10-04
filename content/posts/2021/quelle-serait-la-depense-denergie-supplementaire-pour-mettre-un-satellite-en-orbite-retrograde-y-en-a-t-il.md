@@ -17,4 +17,4 @@ Donc vous prenez un lanceur normal et vous lui ajoutez un étage pour l'accélé
 
 Oui, il y a quelques satellites rétrogrades, en particulier ceux qui nécessitent d'observer la Terre toujours sous le même angle d'éclairage par le soleil.
 
-[https://en.wikipedia.org/wiki/Ar...](w:en:Artificial_satellites_in_retrograde_orbit)
+[Artificial satellites in retrograde orbit](w:en:Artificial_satellites_in_retrograde_orbit)

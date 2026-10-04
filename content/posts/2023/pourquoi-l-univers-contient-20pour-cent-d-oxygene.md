@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 L'Univers contient environ 1% d'oxygène (en masse), pas 20%
 
-[https://fr.wikipedia.org/wiki/Ab...](w:Abondance_des_éléments_chimiques)
+[Abondance des éléments chimiques](w:Abondance_des_éléments_chimiques)
 
 L'oxygène est principalement produit par le [Cycle carbone-azote-oxygène](w:)des étoiles massives.
 

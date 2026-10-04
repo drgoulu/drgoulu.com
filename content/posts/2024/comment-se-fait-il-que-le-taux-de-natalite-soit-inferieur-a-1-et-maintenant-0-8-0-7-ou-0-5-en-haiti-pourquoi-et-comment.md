@@ -22,7 +22,7 @@ Donc je ne sais pas ce que sont vos chiffres, mais ce qui est sur c'est qu'Haiti
 
 C'est une étape fondamentale du développement, donc plutôt une bonne nouvelle…
 
-[https://fr.wikipedia.org/wiki/D%...](w:Démographie_d'Haïti)
+[Démographie d'Haïti](w:Démographie_d'Haïti)
 
 Notes de bas de page
 

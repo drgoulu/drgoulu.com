@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Pourquoi impossible ? Il suffit de chercher et on trouve immédiatement
 
-[https://fr.wikipedia.org/wiki/Ef...](w:Effet_Flynn)
+[Effet Flynn](w:Effet_Flynn)
 
 qui donne en référence
 
@@ -30,4 +30,4 @@ Et en cherchant mieux :
 
 Qui suggère que l'effet Flynn est local et temporaire, qu'il est toujours en cours en Asie mais a cessé en "Occident" sous l'effet de facteurs environnementaux, voire du
 
-[https://fr.wikipedia.org/wiki/Dy...](w:Dysgénisme) (décrit dans "Idiocracy"…)
+[Dysgénisme](w:Dysgénisme) (décrit dans "Idiocracy"…)

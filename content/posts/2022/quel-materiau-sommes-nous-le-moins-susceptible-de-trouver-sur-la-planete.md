@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 [Krypton](w:), [Xénon](w:), [Protactinium](w:), [Radium](w:), [Actinium](w:), [Polonium](w:)et [Radon](w:)sont présents à moins de 1 [ppb](w:Partie_par_milliard).
 
-[https://fr.wikipedia.org/wiki/Ab...](w:Abondance_des_éléments_dans_la_croûte_terrestre)
+[Abondance des éléments dans la croûte terrestre](w:Abondance_des_éléments_dans_la_croûte_terrestre)

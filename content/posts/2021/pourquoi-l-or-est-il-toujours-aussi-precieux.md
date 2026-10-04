@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Juste parce que vous en achetez comme
 
-[https://fr.wikipedia.org/wiki/Va...](w:Valeur_refuge)
+[Valeur refuge](w:Valeur_refuge)
 
 Historiquement, c'est parce qu il est inimitable

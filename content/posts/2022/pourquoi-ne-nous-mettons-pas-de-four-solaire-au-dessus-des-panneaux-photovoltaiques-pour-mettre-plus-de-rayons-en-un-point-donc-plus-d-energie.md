@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Très bonne idée. La preuve : ça existe déjà
 
-[https://fr.wikipedia.org/wiki/Pa...](w:Panneau_photovoltaïque_à_concentration)
+[Panneau photovoltaïque à concentration](w:Panneau_photovoltaïque_à_concentration)

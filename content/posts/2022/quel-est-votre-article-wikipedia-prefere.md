@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 je ne l'avais jamais vu avant, mais je me suis dit qu'il devait exister alors j'ai cherché et … oui ! il existe un article Wikipédia sur la Wikipédia :
 
-[https://fr.wikipedia.org/wiki/Wi...](w:Wikipédia)
+[Wikipédia](w:Wikipédia)

@@ -15,7 +15,7 @@ Votre assiette aussi reflète de la lumière dans tous les sens, et elle est pla
 
 Les galaxies sont aplaties parce qu'elles sont produites par l'effondrement d'un énorme nuage d'hydrogène qui tournait légèrement sur lui-même.
 
-[https://fr.wikipedia.org/wiki/Fo...](w:Formation_et_évolution_des_galaxies)
+[Formation et évolution des galaxies](w:Formation_et_évolution_des_galaxies)
 
 Simulation avec un très gros ordinateur
 

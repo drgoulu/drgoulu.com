@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 il y a le
 
-[https://fr.wikipedia.org/wiki/C%...](w:Câble_électrodynamique)
+[Câble électrodynamique](w:Câble_électrodynamique)
 
 Ca permet de produire quelques watts par induction dans le champ magnétique terrestre.
 

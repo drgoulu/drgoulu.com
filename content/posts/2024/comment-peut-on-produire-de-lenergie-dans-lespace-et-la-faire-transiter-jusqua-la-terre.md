@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Avec des faisceaux de micro ondes ou laser depuis l'orbite géostationnaire.
 
-[https://fr.wikipedia.org/wiki/Ce...](w:Centrale_solaire_orbitale)
+[Centrale solaire orbitale](w:Centrale_solaire_orbitale)
 
 Le problème est que c'est interdit par le [Traité sur l'espace](w:)parce que le faisceau peut aussi cramer une ville…

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 rayon 15% de celui du Soleil, masse 12% de celle du Soleil
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Proxima_Centauri)
+[Proxima Centauri](w:Proxima_Centauri)
 
 vous auriez pu trouver ça en googlant, donc downvote.

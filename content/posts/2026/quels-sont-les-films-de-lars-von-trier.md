@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Pourquoi poser la question ici ? Ce genre de question ne mérite que des downvotes et ne plus voir…
 
-[Lars von Trier — Wikipédia](https://fr.wikipedia.org/w/index.php?title=Lars_von_Trier&action=edit&section=7) :
+[Lars von Trier — Wikipédia](w:Lars_von_Trier) :
 
 > **Longs métrages**
 >
@@ -40,19 +40,19 @@ Pourquoi poser la question ici ? Ce genre de question ne mérite que des downvot
 >
 >
 >
-> - [1967](w:1967_au_cinéma) : [*Turen til Squashland*](https://fr.wikipedia.org/w/index.php?title=Turen_til_Squashland&action=edit&redlink=1)
-> - [1968](w:1968_au_cinéma) : [*Nat, skat*](https://fr.wikipedia.org/w/index.php?title=Nat,_skat&action=edit&redlink=1)
-> - [1969](w:1969_au_cinéma) : [*En røvsyg oplevelse*](https://fr.wikipedia.org/w/index.php?title=En_røvsyg_oplevelse&action=edit&redlink=1)
-> - 1969 : [*Et skakspil*](https://fr.wikipedia.org/w/index.php?title=Et_skakspil&action=edit&redlink=1)
-> - [1970](w:1970_au_cinéma) : [*Hvorfor flygte fra det du ved du ikke kan flygte fra? Fordi du er en kujon*](https://fr.wikipedia.org/w/index.php?title=Hvorfor_flygte_fra_det_du_ved_du_ikke_kan_flygte_fra?_Fordi_du_er_en_kujon&action=edit&redlink=1)
-> - [1971](w:1971_au_cinéma) : [*En blomst*](https://fr.wikipedia.org/w/index.php?title=En_blomst&action=edit&redlink=1)
-> - [1977](w:1977_au_cinéma) : [*Le Jardinier d'orchidées*](https://fr.wikipedia.org/w/index.php?title=Le_Jardinier_d'orchidées&action=edit&redlink=1) (*Orchidégartneren*)
-> - [1979](w:1979_au_cinéma) : [*Menthe - la bienheureuse*](https://fr.wikipedia.org/w/index.php?title=Menthe_:_La_bienheureuse&action=edit&redlink=1)
+> - [1967](w:1967_au_cinéma) : [*Turen til Squashland*](w:Turen_til_Squashland)
+> - [1968](w:1968_au_cinéma) : [*Nat, skat*](w:Nat,_skat)
+> - [1969](w:1969_au_cinéma) : [*En røvsyg oplevelse*](w:En_røvsyg_oplevelse)
+> - 1969 : [*Et skakspil*](w:Et_skakspil)
+> - [1970](w:1970_au_cinéma) : [*Hvorfor flygte fra det du ved du ikke kan flygte fra? Fordi du er en kujon*](w:Hvorfor_flygte_fra_det_du_ved_du_ikke_kan_flygte_fra?_Fordi_du_er_en_kujon)
+> - [1971](w:1971_au_cinéma) : [*En blomst*](w:En_blomst)
+> - [1977](w:1977_au_cinéma) : [*Le Jardinier d'orchidées*](w:Le_Jardinier_d'orchidées) (*Orchidégartneren*)
+> - [1979](w:1979_au_cinéma) : [*Menthe - la bienheureuse*](w:Menthe_:_La_bienheureuse)
 > - [1980](w:1980_au_cinéma) : [*Nocturne*](w:Nocturne_(film,_1980))
-> - [1981](w:1981_au_cinéma) : [*Le Dernier Détail*](https://fr.wikipedia.org/w/index.php?title=Le_Dernier_Détail&action=edit&redlink=1)
+> - [1981](w:1981_au_cinéma) : [*Le Dernier Détail*](w:Le_Dernier_Détail)
 > - [1982](w:1982_au_cinéma) : [*Images d'une libération*](w:Images_d'une_libération) (*Befrielsesbilleder*)
 > - [2007](w:2007_au_cinéma) : [*Chacun son cinéma*](w:Chacun_son_cinéma) - segment *Occupations*
-> - [2010](w:2010_au_cinéma) : [*Dimension 1991-2024*](https://fr.wikipedia.org/w/index.php?title=Dimension_1991-2024&action=edit&redlink=1) (long métrage inachevé)
+> - [2010](w:2010_au_cinéma) : [*Dimension 1991-2024*](w:Dimension_1991-2024) (long métrage inachevé)
 >
 >
 >
@@ -60,8 +60,8 @@ Pourquoi poser la question ici ? Ce genre de question ne mérite que des downvot
 >
 >
 >
-> - [1988](w:1988_à_la_télévision) : [*Medea*](https://fr.wikipedia.org/w/index.php?title=Medea_(téléfilm,_1988)&action=edit&redlink=1)
-> - [2000](w:2000_à_la_télévision) : [*D-Dag*](https://fr.wikipedia.org/w/index.php?title=D-Dag_(téléfilm,_1988)&action=edit&redlink=1) (segment *Lise*)
+> - [1988](w:1988_à_la_télévision) : [*Medea*](w:Medea_\(téléfilm,_1988\))
+> - [2000](w:2000_à_la_télévision) : [*D-Dag*](w:D-Dag_\(téléfilm,_1988\)) (segment *Lise*)
 >
 >
 >
@@ -85,7 +85,7 @@ Pourquoi poser la question ici ? Ce genre de question ne mérite que des downvot
 
 **Publicités**
 
-- [1988](w:1988_à_la_télévision) : *Grandes personnes*, 26 spots publicitaires pour les supermarchés [Irma](https://fr.wikipedia.org/w/index.php?title=Irma_(supermarché)&action=edit&redlink=1)
+- [1988](w:1988_à_la_télévision) : *Grandes personnes*, 26 spots publicitaires pour les supermarchés [Irma](w:Irma_\(supermarché\))
 - 1988 : 2 publicités pour [Ekstra Bladet](w:)
 - 1988 : 2 publicités pour [Politiken](w:)
 - 1988 : publicité pour la [Croix-Rouge](w:Mouvement_international_de_la_Croix-Rouge_et_du_Croissant-Rouge)

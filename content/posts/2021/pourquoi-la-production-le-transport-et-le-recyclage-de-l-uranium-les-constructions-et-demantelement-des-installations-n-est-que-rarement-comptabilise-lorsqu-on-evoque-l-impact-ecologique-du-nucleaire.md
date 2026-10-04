@@ -21,7 +21,7 @@ Bien sur qu'on en tient conpte, tout comme on tient compte de la fabrication du 
 
 Le problème est que les antinucléaires ne veulent pas croire que le kwh nucléaire dégage 4x moins de CO2 que le solaire, et autant que l'éolien, parce qu'ils ne réalisent pas la densité d'énergie de l'uranium
 
-[https://fr.wikipedia.org/wiki/%C...](w:Émission_de_gaz_à_effet_de_serre_par_source_d'énergie_électrique)
+[Émission de gaz à effet de serre par source d'énergie électrique](w:Émission_de_gaz_à_effet_de_serre_par_source_d'énergie_électrique)
 
 Alors ils parlent des déchets (qui ne sont pas mentionnés dans la question) mais qui est allé visiter le labo de l'andra à Bure ? Moi.
 

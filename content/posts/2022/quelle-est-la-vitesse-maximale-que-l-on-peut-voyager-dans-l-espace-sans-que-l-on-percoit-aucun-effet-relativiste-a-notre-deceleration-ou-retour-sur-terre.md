@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 C'est donné par le
 
-[https://fr.wikipedia.org/wiki/Fa...](w:Facteur_de_Lorentz)
+[Facteur de Lorentz](w:Facteur_de_Lorentz)
 
 Il faut atteindre 15% de c pour voir 1% d'effet relativiste, 40% de c pour voir 10%, et après ça augmente très vite
 

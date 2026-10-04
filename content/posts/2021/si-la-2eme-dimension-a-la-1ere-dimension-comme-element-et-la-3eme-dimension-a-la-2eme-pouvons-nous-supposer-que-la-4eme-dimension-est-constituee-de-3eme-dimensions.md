@@ -25,4 +25,4 @@ Mais si c'est l'objet de votre question, l'espace-temps (à 4 dimensions) n'est 
 
 ça a l'intéressante propriété que des "tranches" d'espace 3D selon l'axe du temps sont des "hypercônes" en 4D, qu'on appelle
 
-[https://fr.wikipedia.org/wiki/C%...](w:Cône_de_lumière)
+[Cône de lumière](w:Cône_de_lumière)

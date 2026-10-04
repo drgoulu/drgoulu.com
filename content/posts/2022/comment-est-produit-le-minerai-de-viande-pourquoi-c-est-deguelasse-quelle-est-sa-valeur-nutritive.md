@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-est-produit-le-minerai-de-viande-pourquoi-c-est-d%C3%A9guelasse-quelle-est-sa-valeur-nutritive/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Mi...](w:Minerai_de_viande)
+[Minerai de viande](w:Minerai_de_viande)

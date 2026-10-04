@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Je réponds peut-être à côté de la plaque, mais la
 
-[https://fr.wikipedia.org/wiki/Co...](w:Correspondance_entre_Albert_Einstein_et_Max_Born)
+[Correspondance entre Albert Einstein et Max Born](w:Correspondance_entre_Albert_Einstein_et_Max_Born)
 
 (donc avec Max Born, pas Niels Bohr) permet aussi de comprendre la position d'Einstein, ou plutôt de constater qu' il ne pouvait pas admettre les bouleversements que la mq a apporté à la vision mécaniste de la physique.
 

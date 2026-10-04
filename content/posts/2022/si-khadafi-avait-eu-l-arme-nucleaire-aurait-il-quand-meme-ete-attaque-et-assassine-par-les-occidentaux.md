@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Khadafi a été attaqué et lynché par sa propre population.
 
-[https://fr.wikipedia.org/wiki/Mo...](w:Mort_de_Mouammar_Kadhafi)
+[Mort de Mouammar Kadhafi](w:Mort_de_Mouammar_Kadhafi)
 
 L'[Intervention militaire de 2011 en Libye](w:)s'est faite sur mandat de l'ONU, et à part l'OTAN et la Suède, les [Émirats arabes unis](w:), le [Qatar](w:) et la [Jordanie](w:) y ont participé aussi. Elle a eu lieu en application de la [Résolution 1970 du Conseil de sécurité des Nations unies](w:) condamnant à l'unamimité, sans aucune abstention, le régime de Khadafi pour usage d'armes mortelles contre sa propre population.
 

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 C'est tout simple : vous demandez aux gens s'ils sont heureux ou non et vous obtenez le
 
-[https://fr.wikipedia.org/wiki/Ra...](w:Rapport_mondial_sur_le_bonheur)
+[Rapport mondial sur le bonheur](w:Rapport_mondial_sur_le_bonheur)
 
 Notez qu'on peut très bien mesurer de manière objective une valeur subjective, et le bonheur en est clairement une. Si vous voyagez un peu, vous verrez que le bonheur est extrêmement culturel

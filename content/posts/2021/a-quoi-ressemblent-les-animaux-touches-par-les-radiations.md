@@ -20,7 +20,7 @@ Quels animaux ? Quelles radiations ? Combien ?
 
 On pense que la radioactivité naturelle joue un rôle dans les mutations génétiques "naturelles" . Si les éléphants ont des trompes, c'est peut-être parce qu'un troupeau de leurs ancêtres est passé trop près du
 
-[https://fr.wikipedia.org/wiki/R%...](w:Réacteur_nucléaire_naturel_d'Oklo)
+[Réacteur nucléaire naturel d'Oklo](w:Réacteur_nucléaire_naturel_d'Oklo)
 
 (oui ma mauvaise foi est inspirée de celle de Mr. Burns[[1]](#PjLkR) mais c'est pour illustrer …)
 

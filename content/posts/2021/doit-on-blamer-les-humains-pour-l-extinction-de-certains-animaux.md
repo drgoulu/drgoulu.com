@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Pas "de certains animaux" mais de centaines d espèces, oui :
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_espèces_animales_disparues_durant_la_période_historique)
+[Liste des espèces animales disparues durant la période historique](w:Liste_des_espèces_animales_disparues_durant_la_période_historique)

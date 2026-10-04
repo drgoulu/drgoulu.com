@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce que c'est est une, ou plusieurs
 
-[https://fr.wikipedia.org/wiki/Pl...](w:Plaque_tectonique)
+[Plaque tectonique](w:Plaque_tectonique)

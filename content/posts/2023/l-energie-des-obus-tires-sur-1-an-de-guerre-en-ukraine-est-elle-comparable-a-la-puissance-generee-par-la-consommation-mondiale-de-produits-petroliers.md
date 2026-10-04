@@ -19,7 +19,7 @@ Pour 9 millions d'obus on aurait 180'000 tonnes de TNT . Je multiplie par 4'184'
 
 Je cherche dans
 
-[https://fr.wikipedia.org/wiki/Or...](w:Ordres_de_grandeur_d'énergie)
+[Ordres de grandeur d'énergie](w:Ordres_de_grandeur_d'énergie)
 
 C est deux fois la consommation annuelle d'électricité du Togo, le cinquième des pertes d'électricité sur le réseau français et
 

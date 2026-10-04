@@ -15,4 +15,4 @@ Jusqu'à preuve du contraire, rien n'a été créé. L'Univers se structure au c
 
 Cet article Wikipedia est très bien
 
-[https://fr.wikipedia.org/wiki/Hi...](w:Histoire_et_chronologie_de_l'Univers)
+[Histoire et chronologie de l'Univers](w:Histoire_et_chronologie_de_l'Univers)

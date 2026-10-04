@@ -15,4 +15,4 @@ Elle ne l'est pas. La [Lèpre](w:)est une maladie faiblement contagieuse, mais q
 
 Des cas rares de transmission congénitale (donc de la mère au fœtus) ont été observés chez le tatou à neuf bandes, un des rares animaux souffrant de la lèpre. Un seul cas de transmission du tatou à un éleveur est suspecté.
 
-[https://fr.wikipedia.org/wiki/L%...](w:Lèpre)
+[Lèpre](w:Lèpre)

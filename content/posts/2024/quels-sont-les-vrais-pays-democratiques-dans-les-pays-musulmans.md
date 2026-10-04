@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 D'après
 
-[https://fr.wikipedia.org/wiki/In...](w:Indice_de_démocratie)
+[Indice de démocratie](w:Indice_de_démocratie)
 
 Le plus démocratique des pays à majorité musulmane est l'Indonésie, qui est d'ailleurs le plus grand pays musulman du monde.
 

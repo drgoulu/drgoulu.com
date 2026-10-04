@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Les trous noirs s'évaporent très très lentement, mais de plus en plus vite. La
 
-[https://fr.wikipedia.org/wiki/Te...](w:Température_de_Hawking)
+[Température de Hawking](w:Température_de_Hawking)
 
 Est inversement proportionnelle à la masse du trou noir, donc à la fin, pendant les dernières heures avant l'évaporation totale, ce rayonnement devient visible, extraordinairement intense, puis passe dans les UV, les X et les gamma.
 
@@ -26,4 +26,4 @@ Le fait qu'on ait jamais observé ceci prouve qu'aucun micro trou noir ne s'est 
 
 Ou qu'Hawking s'est trompé.
 
-[https://fr.wikipedia.org/wiki/%C...](w:Évaporation_des_trous_noirs)
+[Évaporation des trous noirs](w:Évaporation_des_trous_noirs)

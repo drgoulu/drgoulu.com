@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 
 Beaucoup d'inconvénients
 
-[https://fr.wikipedia.org/wiki/Ca...](w:Canon_électrique)
+[Canon électrique](w:Canon_électrique)

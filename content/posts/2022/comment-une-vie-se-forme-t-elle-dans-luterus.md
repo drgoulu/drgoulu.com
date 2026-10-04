@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-une-vie-se-forme-t-elle-dans-l-ut%C3%A9rus/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Em...](w:Embryogenèse_humaine)
+[Embryogenèse humaine](w:Embryogenèse_humaine)

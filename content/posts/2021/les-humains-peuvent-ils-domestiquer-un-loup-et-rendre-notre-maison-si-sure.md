@@ -15,7 +15,7 @@ Un loup domestiqué, ça s'appelle un chien.
 
 Le loup et le chien sont toujours de la même espèce
 
-[https://fr.wikipedia.org/wiki/Ca...](w:Canis_lupus)
+[Canis lupus](w:Canis_lupus)
 
 Touteses races de chiens sont de la sous espèce Canis Lupus Domesticus, qui ont été sélectionnées par nos ancêtres pour "rendre leur caverne si sure".
 

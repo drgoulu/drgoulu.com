@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 93%
 
-[https://fr.wikipedia.org/wiki/Ma...](w:Matière_nucléaire_de_qualité_militaire)
+[Matière nucléaire de qualité militaire](w:Matière_nucléaire_de_qualité_militaire)

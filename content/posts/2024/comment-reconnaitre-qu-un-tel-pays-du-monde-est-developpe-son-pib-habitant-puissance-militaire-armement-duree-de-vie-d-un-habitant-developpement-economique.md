@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Il y a plein de critères possibles, mais on utilise souvent l'
 
-[https://fr.wikipedia.org/wiki/In...](w:Indice_de_développement_humain)
+[Indice de développement humain](w:Indice_de_développement_humain)
 
 qui combine l'espérance de vie, le niveau d'éducation des adultes, et le logarithme du PIB.

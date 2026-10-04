@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 18 à 24 mois
 
-[https://fr.wikipedia.org/wiki/St...](w:Stade_du_miroir)
+[Stade du miroir](w:Stade_du_miroir)

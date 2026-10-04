@@ -15,7 +15,7 @@ oui, la force de frottement est égale à la force normale (le poids du véhicul
 
 le coefficient de frottement pneu/glace vaut environ 0.05[[1]](#ArfPi) , donc avec une voiture de 2 tonnes, vous avez une force de frottement de l'ordre de 100 kgf, 25kgf par roue, assez pour faire avancer le véhicule et résister à des forces latérales
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liaisons_mécaniques_avec_frottement)
+[Liaisons mécaniques avec frottement](w:Liaisons_mécaniques_avec_frottement)
 
 [https://www.researchgate.net/pub...](https://www.researchgate.net/publication/228635239_Contact_Roue-Sol_Comparaison_de_modeles_d'efforts)
 

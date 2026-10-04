@@ -20,7 +20,7 @@ Vous avez fait exprès d'oublier "sans mortalité anormale" ou vous vous en fich
 
 A part dans quelques atolls du pacifique qui n'ont pas été touchés du fait de leur isolement, le Covid 19 a fait **7 millions de morts**. Probablement plus car certains pays notamment la Chine ont clairement menti sur leurs chiffres.
 
-[https://fr.wikipedia.org/wiki/Pa...](w:Pandémie_de_Covid-19_par_pays_et_territoire)
+[Pandémie de Covid-19 par pays et territoire](w:Pandémie_de_Covid-19_par_pays_et_territoire)
 
 Les estimations de l effet du confinement sont très variables, entre 3 millions de vies sauvées rien qu'en Europe et 0.2%.
 

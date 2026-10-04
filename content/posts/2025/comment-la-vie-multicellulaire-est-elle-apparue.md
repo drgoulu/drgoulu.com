@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Je veux que vous lisiez ça
 
-[https://fr.wikipedia.org/wiki/%C...](w:Évolution_de_la_multicellularité)
+[Évolution de la multicellularité](w:Évolution_de_la_multicellularité)
 
 Et aussi ça :
 

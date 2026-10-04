@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 C'est assez sport, alors je vous recommande
 
-[https://fr.wikipedia.org/wiki/In...](w:Interaction_électrofaible)
+[Interaction électrofaible](w:Interaction_électrofaible)
 
 qui donne l'impression de comprendre quand on le lit…

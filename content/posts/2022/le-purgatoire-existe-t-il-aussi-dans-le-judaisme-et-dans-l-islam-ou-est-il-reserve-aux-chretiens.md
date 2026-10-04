@@ -15,4 +15,4 @@ C'est même pas chrétien, c'est uniquement catholique, inclus au canon depuis l
 
 Histoire complète ici :
 
-[https://fr.wikipedia.org/wiki/Pu...](w:Purgatoire)
+[Purgatoire](w:Purgatoire)

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 La "dilatation" est donnée par le
 
-[https://fr.wikipedia.org/wiki/Fa...](w:Facteur_de_Lorentz)
+[Facteur de Lorentz](w:Facteur_de_Lorentz)
 
 qui devient infini à la vitesse de la lumière et sur l'horizon des événements d'un trou noir.

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ça s'appelle la
 
-[https://fr.wikipedia.org/wiki/Si...](w:Singularité_technologique)
+[Singularité technologique](w:Singularité_technologique)

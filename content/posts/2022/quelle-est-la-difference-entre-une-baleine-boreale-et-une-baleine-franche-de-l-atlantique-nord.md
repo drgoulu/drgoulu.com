@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Tout est là.
 
-[https://fr.wikipedia.org/wiki/Ba...](w:Baleine_boréale)
+[Baleine boréale](w:Baleine_boréale)
 
-[https://fr.wikipedia.org/wiki/Ba...](w:Baleine_franche_de_l'Atlantique_nord)
+[Baleine franche de l'Atlantique nord](w:Baleine_franche_de_l'Atlantique_nord)

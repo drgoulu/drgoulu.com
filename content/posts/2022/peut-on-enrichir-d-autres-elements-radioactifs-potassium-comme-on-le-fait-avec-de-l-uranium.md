@@ -25,4 +25,4 @@ En consultant la liste des [Isotopes du potassium](w:), on voit qu'ils se désin
 
 Mais comme les isotopes stables 39 et 41 ne sont pas plus fertiles que le 40, il n'y a aucun espoir de faire une bombe à bananes, hélas.
 
-[https://fr.wikipedia.org/wiki/Do...](w:Dose_équivalente_en_banane)
+[Dose équivalente en banane](w:Dose_équivalente_en_banane)

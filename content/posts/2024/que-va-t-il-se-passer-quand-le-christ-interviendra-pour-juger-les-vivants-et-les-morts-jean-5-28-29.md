@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 On ira boire un coup au bistrot du coin comme après toutes les fins du monde annoncées jusqu'ici
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_de_prédictions_de_la_fin_du_monde)
+[Liste de prédictions de la fin du monde](w:Liste_de_prédictions_de_la_fin_du_monde)

@@ -19,4 +19,4 @@ Ensuite, le CO2 est produit très chaud lors de la combustion de charbon, gaz ou
 
 Les gaz à effet de serre absorbent des infrarouges du spectre de rayonnement de la surface terrestre et les ré-émettent dans toutes les directions y compris vers la Terre plutôt qu'ils s'échappent tout droit dans l espace.
 
-[https://fr.wikipedia.org/wiki/Bi...](w:Bilan_radiatif_de_la_Terre)
+[Bilan radiatif de la Terre](w:Bilan_radiatif_de_la_Terre)

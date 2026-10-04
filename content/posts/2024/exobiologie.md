@@ -15,4 +15,4 @@ Oui, mais c'est très peu probable.
 
 Voir cet excellent article
 
-[https://fr.wikipedia.org/wiki/Bi...](w:Biochimies_hypothétiques)
+[Biochimies hypothétiques](w:Biochimies_hypothétiques)

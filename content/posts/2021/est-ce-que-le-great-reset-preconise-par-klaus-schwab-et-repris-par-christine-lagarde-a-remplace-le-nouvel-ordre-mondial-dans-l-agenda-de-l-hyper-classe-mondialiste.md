@@ -15,15 +15,15 @@ Je ne sais pas ce qu'est "l'hyper-classe mondialiste", mais chez les complotiste
 
 il y avait
 
-[https://fr.wikipedia.org/wiki/No...](w:Nouvel_ordre_mondial_(relations_internationales))
+[Nouvel ordre mondial (relations internationales)](w:Nouvel_ordre_mondial_\(relations_internationales\))
 
 et
 
-[https://fr.wikipedia.org/wiki/No...](w:Nouvel_ordre_mondial_(théorie_du_complot))
+[Nouvel ordre mondial (théorie du complot)](w:Nouvel_ordre_mondial_\(théorie_du_complot\))
 
 et maintenant on a la même chose avec
 
-[https://fr.wikipedia.org/wiki/La...](w:La_grande_réinitialisation)
+[La grande réinitialisation](w:La_grande_réinitialisation)
 
 et après il y aura le Grand Schtroumpf Rose, et encore et encore , c'est que le début d'accord d'accord …
 

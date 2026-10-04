@@ -19,4 +19,4 @@ Bon en fait l'électroaimant consomme un peu d'énergie pour établir le champ m
 
 La force exercée par ce champ magnétique sur une pièce de métal est très difficile à calculer. Elle dépend de la forme de la pièce, des matériaux etc, et elle varie beaucoup en fonction de la distance, vous trouverez quelques formules approximatives là :
 
-[https://fr.wikipedia.org/wiki/%C...](w:Électroaimant)
+[Électroaimant](w:Électroaimant)

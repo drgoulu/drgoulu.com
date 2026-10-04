@@ -26,4 +26,4 @@ Or il y a $1,2×10^{15}$ tonnes d'[Oxygène](w:) dans l'atmosphère, donc il en 
 
 $1,2×10^{15}/(267×10^9) = 4500$ans environ, au rythme de la consommation actuelle, qui inclut les plantes d'ailleurs.
 
-[https://fr.wikipedia.org/wiki/Cy...](w:Cycle_de_l'oxygène)
+[Cycle de l'oxygène](w:Cycle_de_l'oxygène)

@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Selon [Baiser — Wikipédia](w:Baiser) :
 
-> Le baiser avec échange de salive est pratiqué par de nombreuses espèces animales et trouve sa signification évolutive dans l'exploration du [système immunitaire](w:) du partenaire sexuel, via le [système voméro-nasal,](https://fr.wikipedia.org/w/index.php?title=Système_voméro-nasal,&action=edit&redlink=1) favorisant, selon le biologiste [Thierry Lodé](w:) la recherche [exogamique](w:Exogamie) d'un partenaire et l'évitement de [consanguinité](w:).
+> Le baiser avec échange de salive est pratiqué par de nombreuses espèces animales et trouve sa signification évolutive dans l'exploration du [système immunitaire](w:) du partenaire sexuel, via le [système voméro-nasal,](w:Système_voméro-nasal,) favorisant, selon le biologiste [Thierry Lodé](w:) la recherche [exogamique](w:Exogamie) d'un partenaire et l'évitement de [consanguinité](w:).
 
 La référence donnée est
 

@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 ouaip, c'est même étudié pour
 
-[https://fr.wikipedia.org/wiki/Mo...](w:Moteur_à_ondes_de_détonation_pulsées)
+[Moteur à ondes de détonation pulsées](w:Moteur_à_ondes_de_détonation_pulsées)
 
 > Un [Rutan Long-EZ](w:) modifié par un laboratoire de l'USAF, le *Borealis*, est devenu officiellement le premier avion à utiliser un [moteur à ondes de détonation pulsées](w:) lors d'un vol le 31 janvier 2008 .
 

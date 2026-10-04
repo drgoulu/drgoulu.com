@@ -21,4 +21,4 @@ Le carbone ne fond pas mais se sublime (=devient gazeux) à 3825°C
 
 Le [carbure de tantale-hafnium](w:) Ta4HfC5 est un des [matériaux réfractaires](w:Matériau_réfractaire) qui ont le point de fusion le plus élevé : 4215°C
 
-[https://fr.wikipedia.org/wiki/Po...](w:Point_de_fusion)
+[Point de fusion](w:Point_de_fusion)

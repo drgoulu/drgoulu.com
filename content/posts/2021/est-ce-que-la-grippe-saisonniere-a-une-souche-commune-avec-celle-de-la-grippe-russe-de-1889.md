@@ -15,8 +15,8 @@ Il y a quatre souches de grippe saisonnières: le [virus de la grippe A](w:), le
 
 La
 
-[https://fr.wikipedia.org/wiki/Gr...](w:Grippe_russe_de_1889-1890)
+[Grippe russe de 1889-1890](w:Grippe_russe_de_1889-1890)
 
 etait probablement une H3N8, donc du groupe A
 
-[https://fr.wikipedia.org/wiki/Vi...](w:Virus_de_la_grippe_A_(H3N8))
+[Virus de la grippe A (H3N8)](w:Virus_de_la_grippe_A_\(H3N8\))

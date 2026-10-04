@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Le livre de Dostoïevski
 
-[https://fr.wikipedia.org/wiki/Le...](w:Le_Joueur_(roman))
+[Le Joueur (roman)](w:Le_Joueur_\(roman\))

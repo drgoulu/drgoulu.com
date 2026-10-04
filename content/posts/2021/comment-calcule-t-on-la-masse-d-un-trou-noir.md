@@ -35,10 +35,10 @@ C'est moins que les 4.3 milliards de Ms estimées actuellement (je ne sais pas p
 
 Pour des trous noirs stellaires, il faut qu'un autre objet visible l'orbite, non seulement pour évaluer les masses, mais déjà pour détecter la présence du trou noir. A 4 exceptions près, tous les trous noirs stellaires connus font partie d'une
 
-[https://fr.wikipedia.org/wiki/Bi...](w:Binaire_X)
+[Binaire X](w:Binaire_X)
 
 Quand il n'y a pas d'objet en orbite autour du trou noir ou qu'il est trop loin pour en distinguer une, on utilise la technique de la
 
-[https://en.wikipedia.org/wiki/Re...](w:en:Reverberation_mapping)
+[Reverberation mapping](w:en:Reverberation_mapping)
 
 En gros on mesure la distance entre le trou noir et une zone de l'espace où l'hydrogène est ionisé par le rayonnement du disque d'accrétion.

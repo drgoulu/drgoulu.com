@@ -15,8 +15,8 @@ L'univers actuel a une densité extrêmement faible, donc la gravitation a un ef
 
 Le consensus, ou plutôt les maths, est que le rapport $\Omega$ à la
 
-[https://fr.wikipedia.org/wiki/De...](w:Densité_critique)
+[Densité critique](w:Densité_critique)
 
 détermine la courbure de l'univers, et les mesures de cette densité montrent qu'elle est très proche de la densité critique. Donc l'univers est plat ou presque plat, avec un très léger avantage en faveur d' une courbure positive.
 
-[https://fr.wikipedia.org/wiki/Co...](w:Courbure_spatiale)
+[Courbure spatiale](w:Courbure_spatiale)

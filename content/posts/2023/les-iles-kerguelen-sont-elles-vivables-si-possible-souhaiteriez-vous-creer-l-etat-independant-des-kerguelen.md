@@ -20,7 +20,7 @@ coverImage: ./images/quora.png
 
 Il y a une base hébergeant 120 personnes ([Port-aux-Français — Wikipédia](w:Port-aux-Français)) qui apprécient le ravitaillement par le Marion-Dufresne, donc si vous leur proposez l'indépendance en échange de neamger que du mouton et de la légine.
 
-[https://fr.wikipedia.org/wiki/%C...](w:Îles_Kerguelen)
+[Îles Kerguelen](w:Îles_Kerguelen)
 
 Rappellez vous qu'avant de s'appeller Kerguelen, cet archipel s'appelait "îles de la désolation".
 

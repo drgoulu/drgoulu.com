@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 parce que son atmosphère n'est pas assez dense pour créer un effet de serre
 
-[https://fr.wikipedia.org/wiki/Te...](w:Température_d'équilibre_à_la_surface_d'une_planète)
+[Température d'équilibre à la surface d'une planète](w:Température_d'équilibre_à_la_surface_d'une_planète)

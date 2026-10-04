@@ -22,4 +22,4 @@ La tension électrique très élevée entre le nuage et la terre ionise peu à p
 
 Ce n'est qu'ensuite que le courant électrique s'établit dans le canal ionisé. Et là ce courant est éventuellement un peu limité par la résistance, mais il est suffisant pour chauffer l air à une température où il devient lumineux, et un arbre à une température où il prend feu.
 
-[https://fr.wikipedia.org/wiki/Fo...](w:Foudre)
+[Foudre](w:Foudre)

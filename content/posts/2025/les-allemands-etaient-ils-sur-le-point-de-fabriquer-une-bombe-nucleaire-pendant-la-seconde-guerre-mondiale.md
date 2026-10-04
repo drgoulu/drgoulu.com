@@ -13,8 +13,8 @@ coverImage: ./images/quora.png
 
 Non, ils en étaient très loin.
 
-[https://fr.wikipedia.org/wiki/Re...](w:Recherches_atomiques_sous_le_Troisième_Reich)
+[Recherches atomiques sous le Troisième Reich](w:Recherches_atomiques_sous_le_Troisième_Reich)
 
 Notez que les japonais étaient aussi sur le coup :
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Programme_d'armement_nucléaire_japonais)
+[Programme d'armement nucléaire japonais](w:Programme_d'armement_nucléaire_japonais)

@@ -15,7 +15,7 @@ coverImage: ./images/quora.png
 
 La théorie découle de l'effet de marée qui freine la rotation des objets en orbite.
 
-[https://fr.wikipedia.org/wiki/Ro...](w:Rotation_synchrone)
+[Rotation synchrone](w:Rotation_synchrone)
 
 La réponse à votre deuxième question est dans cet article :
 

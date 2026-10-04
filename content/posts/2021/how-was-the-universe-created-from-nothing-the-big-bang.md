@@ -18,4 +18,4 @@ However, here are a few hints.
 
 First, the Universe might still be “nothing”
 
-[https://en.wikipedia.org/wiki/Ze...](w:en:Zero-energy_universe)
+[Zero-energy universe](w:en:Zero-energy_universe)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Sans leur accord, mais sans leur veto non plus : ils ne sont bêtement pas venus à la séance !
 
-[https://fr.wikipedia.org/wiki/R%...](w:Résolution_84_du_Conseil_de_sécurité_des_Nations_unies)
+[Résolution 84 du Conseil de sécurité des Nations unies](w:Résolution_84_du_Conseil_de_sécurité_des_Nations_unies)

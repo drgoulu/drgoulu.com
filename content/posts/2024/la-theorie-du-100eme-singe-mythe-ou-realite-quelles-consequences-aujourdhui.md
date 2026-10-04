@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Je ne connaissais pas mais
 
-[https://fr.wikipedia.org/wiki/Ce...](w:Centième_singe)
+[Centième singe](w:Centième_singe)
 
 semble assez clair : mythe, ou en tout cas résultat non reproductible.

@@ -22,4 +22,4 @@ Je dirais que le pays le moins connu que j'aie visité est la Bolivie. Des lieux
 
 Un coin ou j'irai un jour, c'est Samoa. Juste pour le plaisir de traverser la ligne de changement de date 2 ou 3 fois…
 
-[https://fr.wikipedia.org/wiki/Sa...](w:Samoa)
+[Samoa](w:Samoa)

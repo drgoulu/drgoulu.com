@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Leur vitesse moyenne est proportionnelle à la racine carrée de la température
 
-[https://fr.wikipedia.org/wiki/Lo...](w:Loi_de_distribution_des_vitesses_de_Maxwell)
+[Loi de distribution des vitesses de Maxwell](w:Loi_de_distribution_des_vitesses_de_Maxwell)

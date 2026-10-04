@@ -20,7 +20,7 @@ La plupart des autres réponses parlent de la [Sélection de survie](w:), qui n'
 
 L'autre moitié, c'est la
 
-[https://fr.wikipedia.org/wiki/S%...](w:Sélection_sexuelle)
+[Sélection sexuelle](w:Sélection_sexuelle)
 
 > Initialement proposée par Darwin dès 1859, l'idée d'une sélection sexuelle a été rejetée pendant plus d'un siècle, victime des *a priori* des biologistes. Ce n'est que dans les années 1990 que ce domaine de recherche a pris son essor, la sélection sexuelle se révélant être en réalité une pierre angulaire de la sélection naturelle.
 

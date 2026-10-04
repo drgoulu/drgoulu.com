@@ -17,4 +17,4 @@ Intrinsèquement lié à l ' "esprit" humain. Voir la brillante démonstration p
 
 Tous les animaux sont beaux vus par un spécimen de leur espèce de sexe opposé, même le
 
-[https://fr.wikipedia.org/wiki/Ra...](w:Rat-taupe_nu)
+[Rat-taupe nu](w:Rat-taupe_nu)

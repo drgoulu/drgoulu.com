@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quel-livre-vous-a-donn%C3%A9-le-sentiment-d-%C3%AAtre-plus-intelligent-apr%C3%A8s-l-avoir-lu/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/G%...](w:Gödel,_Escher,_Bach_:_Les_Brins_d'une_Guirlande_Éternelle)
+[Gödel, Escher, Bach : Les Brins d'une Guirlande Éternelle](w:Gödel,_Escher,_Bach_:_Les_Brins_d'une_Guirlande_Éternelle)

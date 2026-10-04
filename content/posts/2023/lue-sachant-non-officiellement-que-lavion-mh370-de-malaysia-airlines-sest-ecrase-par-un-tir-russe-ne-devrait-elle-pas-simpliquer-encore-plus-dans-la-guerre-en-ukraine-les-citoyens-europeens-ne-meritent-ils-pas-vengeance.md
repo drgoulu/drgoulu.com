@@ -14,7 +14,7 @@ coverImage: ./images/quora.png
 
 Vous confondez avec le
 
-[https://fr.wikipedia.org/wiki/Vo...](w:Vol_Malaysia_Airlines_17)
+[Vol Malaysia Airlines 17](w:Vol_Malaysia_Airlines_17)
 
 Le procès à eu lien en 2020 devant la cour européenne de justice et deux haut gradés russes et un ukrainien dirigeant un groupe séparatiste pro-russes ont été condamnés à la prison à vie, par contumace puisque évidemment ils n'étaient pas venus au procès. Ils sont recherchés par mandat d'arrêt international.
 

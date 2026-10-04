@@ -15,4 +15,4 @@ La baleine bleue. La "personne moyenne" pense qu'il y avait des dinosaures beauc
 
 Pesant jusqu'à 180 tonnes, la baleine bleue est le plus gros animal ayant vécu à notre connaissance.
 
-[https://fr.wikipedia.org/wiki/Ba...](w:Baleine_bleue)
+[Baleine bleue](w:Baleine_bleue)

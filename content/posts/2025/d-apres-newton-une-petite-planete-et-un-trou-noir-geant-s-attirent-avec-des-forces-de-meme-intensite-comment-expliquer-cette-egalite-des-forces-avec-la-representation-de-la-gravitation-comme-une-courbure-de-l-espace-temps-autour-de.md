@@ -22,4 +22,4 @@ La planète tourne très vite autour du trou noir qui déforme beaucoup l'espace
 
 La difficulté conceptuelle, c'est qu'en mécanique classique (Newton) l'espace et le temps sont indépendants (l'accélération est la dérivée seconde de la position par rapport au temps d²x/dt²) alors qu'en relativité, l'espace et le temps sont liés (par la vitesse de la lumière), donc les "accélérations" sont des dérivées partielles du second ordre, correspondant à la courbure de l'espace-temps en chaque point.
 
-[https://fr.wikipedia.org/wiki/Re...](w:Relativité_générale)
+[Relativité générale](w:Relativité_générale)

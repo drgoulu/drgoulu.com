@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Essentiellement génétiques
 
-[https://fr.wikipedia.org/wiki/Ca...](w:Causes_de_la_maladie_d'Alzheimer)
+[Causes de la maladie d'Alzheimer](w:Causes_de_la_maladie_d'Alzheimer)

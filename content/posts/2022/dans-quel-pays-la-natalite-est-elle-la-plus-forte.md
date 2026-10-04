@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Dans-quel-pays-la-natalit%C3%A9-est-elle-la-plus-forte/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_pays_par_taux_de_natalité)
+[Liste des pays par taux de natalité](w:Liste_des_pays_par_taux_de_natalité)

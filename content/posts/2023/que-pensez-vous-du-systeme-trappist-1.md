@@ -20,7 +20,7 @@ Qu'est ce qu'on peut bien **penser** d'un étoile ?
 
 On **sait** des choses sur elle et ses planètes, mais il n'y a rien à en penser, elle est comme elle est…
 
-[https://fr.wikipedia.org/wiki/TR...](w:TRAPPIST-1)
+[TRAPPIST-1](w:TRAPPIST-1)
 
 C'est une naine rouge ultrafroide. Avec 8% de la masse du soleil, c'est tout juste une étoile. Ses planètes tournent très près d'elle, toute à une distance inférieure à l'orbite de Mercure.
 

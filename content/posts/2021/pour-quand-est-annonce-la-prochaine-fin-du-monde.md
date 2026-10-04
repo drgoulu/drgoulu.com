@@ -28,4 +28,4 @@ Au cas où ça raterait encore, il reste quelques créneaux jusqu'au 31 décembr
 
 etc. etc.
 
-[https://en.wikipedia.org/wiki/Li...](w:en:List_of_dates_predicted_for_apocalyptic_events)
+[List of dates predicted for apocalyptic events](w:en:List_of_dates_predicted_for_apocalyptic_events)

@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Oui, ça a d'ailleurs été fait à [Odeillo](w:Four_solaire_d'Odeillo)(pas "type odello"…)
 
-[https://fr.wikipedia.org/wiki/Cr...](w:Craquage_de_l'eau)
+[Craquage de l'eau](w:Craquage_de_l'eau)
 
 Comme toujours, on peut faire plein de choses techniquement, mais la technique qui gagne c'est la moins chère..
 

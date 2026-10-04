@@ -24,4 +24,4 @@ J'en ai vu un en action à l'aéroport de La Paz, un petit toutou de rien du tou
 
 On dit que dans le temps les chiens étaient drogués et qu'ils recherchaient la drogue en état de manque. Si c'est vrai, ce n'est plus el cas maintenant.
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chien_de_détection)
+[Chien de détection](w:Chien_de_détection)

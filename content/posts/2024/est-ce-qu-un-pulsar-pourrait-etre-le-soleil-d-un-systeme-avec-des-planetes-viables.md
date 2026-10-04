@@ -28,4 +28,4 @@ Mais on connaît apparemment 5 pulsars ayant des planètes sur les 3000 connus a
 
 Voir notamment
 
-[https://fr.wikipedia.org/wiki/PS...](w:PSR_B1257+12)
+[PSR B1257+12](w:PSR_B1257+12)

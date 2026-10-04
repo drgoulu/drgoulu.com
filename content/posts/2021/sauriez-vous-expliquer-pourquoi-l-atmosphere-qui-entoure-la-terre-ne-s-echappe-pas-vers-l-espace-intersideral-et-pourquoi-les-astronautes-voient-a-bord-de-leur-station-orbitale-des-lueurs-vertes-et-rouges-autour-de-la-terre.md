@@ -18,10 +18,10 @@ En fait l atmosphère s'échappe, très lentement.
 
 C'est principalement du au vent solaire qui "souffle" la très haute atmosphère malgré le champ magnétique.
 
-[https://fr.wikipedia.org/wiki/%C...](w:Échappement_atmosphérique)
+[Échappement atmosphérique](w:Échappement_atmosphérique)
 
 Les lueurs qu'on voit dans la haute atmosphère sont des aurores polaires (plutot vertes) et autres
 
-[https://fr.wikipedia.org/wiki/Ph...](w:Phénomène_lumineux_transitoire)
+[Phénomène lumineux transitoire](w:Phénomène_lumineux_transitoire)
 
 Plutôt rouges et bleus.

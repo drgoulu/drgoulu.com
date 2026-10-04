@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Mes arguments sont les mêmes que ceux exposés dans
 
-[https://fr.wikipedia.org/wiki/%C...](w:Étoile_de_Bethléem)
+[Étoile de Bethléem](w:Étoile_de_Bethléem)

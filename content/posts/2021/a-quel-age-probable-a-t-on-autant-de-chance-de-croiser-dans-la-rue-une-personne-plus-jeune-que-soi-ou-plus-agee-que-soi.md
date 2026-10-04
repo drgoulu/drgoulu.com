@@ -19,4 +19,4 @@ En France il était de 41.1 ans en 2020
 
 Dans le monde, c'est légèrement plus de 30 ans
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_pays_par_âge_médian)
+[Liste des pays par âge médian](w:Liste_des_pays_par_âge_médian)

@@ -20,30 +20,30 @@ il n'y a pas de [Races humaines](w:Race_humaine)mais il y a eu plusieurs espèce
 
 On a actuellement répertorié 14 espèces d'Homo disparues :
 
-[https://fr.wikipedia.org/wiki/Ho...](w:Homo_habilis)
+[Homo habilis](w:Homo_habilis)
 
-[https://fr.wikipedia.org/wiki/Ho...](w:Homo_rudolfensis)
+[Homo rudolfensis](w:Homo_rudolfensis)
 
-[https://fr.wikipedia.org/wiki/Ho...](w:Homo_gautengensis)
+[Homo gautengensis](w:Homo_gautengensis)
 
-[https://fr.wikipedia.org/wiki/Ho...](w:Homo_georgicus)
+[Homo georgicus](w:Homo_georgicus)
 
-[https://fr.wikipedia.org/wiki/Ho...](w:Homo_ergaster)
+[Homo ergaster](w:Homo_ergaster)
 
-[https://fr.wikipedia.org/wiki/Ho...](w:Homo_erectus)
+[Homo erectus](w:Homo_erectus)
 
-[https://fr.wikipedia.org/wiki/Ho...](w:Homo_antecessor)
+[Homo antecessor](w:Homo_antecessor)
 
-[https://fr.wikipedia.org/wiki/Ho...](w:Homo_heidelbergensis)
+[Homo heidelbergensis](w:Homo_heidelbergensis)
 
-[https://fr.wikipedia.org/wiki/Ho...](w:Homo_rhodesiensis)
+[Homo rhodesiensis](w:Homo_rhodesiensis)
 
-[https://fr.wikipedia.org/wiki/Ho...](w:Homo_naledi)
+[Homo naledi](w:Homo_naledi)
 
-[https://fr.wikipedia.org/wiki/Ho...](w:Homme_de_Florès)
+[Homme de Florès](w:Homme_de_Florès)
 
-[https://fr.wikipedia.org/wiki/Ho...](w:Homme_de_Callao)
+[Homme de Callao](w:Homme_de_Callao)
 
-[https://fr.wikipedia.org/wiki/Ho...](w:Homme_de_Néandertal)
+[Homme de Néandertal](w:Homme_de_Néandertal)
 
-[https://fr.wikipedia.org/wiki/Ho...](w:Homme_de_Denisova)
+[Homme de Denisova](w:Homme_de_Denisova)

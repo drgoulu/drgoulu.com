@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 La rivière
 
-[https://en.wikipedia.org/wiki/Sh...](w:en:Shanay-Timpishka)
+[Shanay-Timpishka](w:en:Shanay-Timpishka)
 
 Est alimentée par de l'eau geothermale alimentée par le gradient thermique "normal" à cet endroit.

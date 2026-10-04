@@ -39,7 +39,7 @@ Mais vous le voyez bien, il n'y a pas de manière de faire ça pour une démonst
 
 En fait le fameux "j'en ai découvert une démonstration véritablement merveilleuse que cette marge est trop étroite pour contenir" parle certainement d'une des nombreuses démonstrations faites entre 1670 et 1994, mais qui étaient incorrectes.
 
-[https://fr.wikipedia.org/wiki/De...](w:Dernier_théorème_de_Fermat)
+[Dernier théorème de Fermat](w:Dernier_théorème_de_Fermat)
 
 Notes de bas de page
 

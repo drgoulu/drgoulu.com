@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Est-ce-que-tout-ce-qui-est-vivant-poss%C3%A8de-un-ADN/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Ri...](w:Richard_Dawkins)
+[Richard Dawkins](w:Richard_Dawkins)
 
 Dirait que c est l'inverse, puisque l'ADN (ou ARN) a inventé la vie pour se reproduire…
 

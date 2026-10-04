@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Aucune. Les endroits où la concentration en uranium était suffisamment élevée ont déjà subi des réactions en chaîne il y a longtemps, 2 milliards d'années environ. Voir
 
-[https://fr.wikipedia.org/wiki/R%...](w:Réacteur_nucléaire_naturel_d'Oklo)
+[Réacteur nucléaire naturel d'Oklo](w:Réacteur_nucléaire_naturel_d'Oklo)
 
 Aujourd'hui la concentration d'uranium est plus basse, et de tels endroits ont une probabilité quasi nulle d'apparaître.
 

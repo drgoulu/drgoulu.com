@@ -22,4 +22,4 @@ Le record actuel est détenu par [R136a1](w:)une étoile environ 315 fois plus m
 
 Je dis "record actuel" parce qu'on pourrait en trouver une plus grosse, mais surtout parce que des étoiles de cette masse ne "vivent" que quelque millions d'années, l'hypernova est pour "bientôt" …
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_étoiles_les_plus_massives)
+[Liste des étoiles les plus massives](w:Liste_des_étoiles_les_plus_massives)

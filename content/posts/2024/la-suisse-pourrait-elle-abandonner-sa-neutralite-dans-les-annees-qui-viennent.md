@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Un point important est que la Suisse n'a pas choisi d'être neutre. Elle y a été forcée par les Congrès de Vienne et de Paris en 1815 en échange de la reconnaissance de son indépendance, donc de l'inviolabilité de son territoire par les états signataires
 
-[https://fr.wikipedia.org/wiki/Ne...](w:Neutralité_perpétuelle_de_la_Suisse)
+[Neutralité perpétuelle de la Suisse](w:Neutralité_perpétuelle_de_la_Suisse)
 
 C'était une sorte de [Mémorandum de Budapest](w:Mémorandums_de_Budapest)avant l'heure, avec des mercenaires à la place des armes atomiques…
 

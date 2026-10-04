@@ -16,4 +16,4 @@ Dans le visible peut-être, mais le James Webb est surtout un téléscope infrar
 
 Même si ces télescopes font tous de jolies images "grand public", leurs objectifs scientifiques sont différents, et complémentaires.
 
-[https://fr.wikipedia.org/wiki/Ja...](w:James-Webb_(télescope_spatial))
+[James-Webb (télescope spatial)](w:James-Webb_\(télescope_spatial\))

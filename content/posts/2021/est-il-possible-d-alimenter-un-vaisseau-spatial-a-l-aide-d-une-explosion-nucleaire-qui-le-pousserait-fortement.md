@@ -13,10 +13,10 @@ coverImage: ./images/quora.png
 
 Ça s'appelle la
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Propulsion_nucléaire_pulsée)
+[Propulsion nucléaire pulsée](w:Propulsion_nucléaire_pulsée)
 
 Aujourd'hui on préfère les poussées très faibles mais continues avec le
 
-[https://fr.wikipedia.org/wiki/Mo...](w:Moteur_ionique)
+[Moteur ionique](w:Moteur_ionique)
 
 par exemple

@@ -17,4 +17,4 @@ Ca va peut-être arriver dans 4 milliards d'années quand le Soleil deviendra un
 
 La Terre sera aussi déserte, sèche et stérile que la Lune.
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)

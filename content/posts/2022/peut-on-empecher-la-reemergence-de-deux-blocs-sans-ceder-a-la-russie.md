@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il y a déjà au moins deux iblocs. La Russie est membre de
 
-[https://fr.wikipedia.org/wiki/Or...](w:Organisation_de_coopération_de_Shanghai)
+[Organisation de coopération de Shanghai](w:Organisation_de_coopération_de_Shanghai)

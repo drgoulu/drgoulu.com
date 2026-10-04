@@ -19,7 +19,7 @@ Les plans B, car il y en a plusieurs, ont des coûts encore plus faramineux et/o
 
 Ça s'appelle la
 
-[https://fr.wikipedia.org/wiki/G%...](w:Géoingénierie)
+[Géoingénierie](w:Géoingénierie)
 
 Dans le catalogue, il y en a deux qui me paraissent intéressantes:
 

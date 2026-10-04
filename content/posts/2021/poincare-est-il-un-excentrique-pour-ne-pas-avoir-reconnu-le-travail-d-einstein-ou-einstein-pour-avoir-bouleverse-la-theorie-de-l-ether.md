@@ -24,7 +24,7 @@ Einstein a changé la physique en relativisant le temps, et en supprimant toute 
 
 L'article
 
-[https://fr.wikipedia.org/wiki/Co...](w:Controverse_sur_la_paternité_de_la_relativité)
+[Controverse sur la paternité de la relativité](w:Controverse_sur_la_paternité_de_la_relativité)
 
 est assez complet sur ce sujet, mais c'est le paragraphe "Poincaré et la relativité" de [Henri Poincaré — Wikipédia](w:Henri_Poincaré) qui me semble le mieux résumer la situation (parce que je suis E1/P1):
 

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 La Russie a toujours été dans la "sphère d'influence" russe, et Obama respectait cela. Peut-être à tort.
 
-[https://fr.wikipedia.org/wiki/Re...](w:Relations_entre_la_Russie_et_la_Syrie)
+[Relations entre la Russie et la Syrie](w:Relations_entre_la_Russie_et_la_Syrie)

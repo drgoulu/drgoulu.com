@@ -19,4 +19,4 @@ Sur l'[Indice de développement humain](w:)qui combine:
 
 La [Liste des pays par IDH est là](w:Liste_des_pays_par_IDH)
 
-L'ONU a défini les [Pays les moins avancés](https://fr.wikipedia.org/w/index.php?title=Pays_les_moins_avancés)sur la base de l'IDH et de quelques autres critères.
+L'ONU a défini les [Pays les moins avancés](w:Pays_les_moins_avancés)sur la base de l'IDH et de quelques autres critères.

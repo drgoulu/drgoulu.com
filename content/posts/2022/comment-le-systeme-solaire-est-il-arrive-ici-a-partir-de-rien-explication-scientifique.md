@@ -24,7 +24,7 @@ Lors de l'effondrement de ce nuage et de l'ignition de l'étoile, divers phénom
 
 On observe un tel disque notamment autour de [HL Tauri](w:), il sert d'illustration à cet article qui vous donnera plus de détails :
 
-[https://fr.wikipedia.org/wiki/Fo...](w:Formation_et_évolution_du_Système_solaire)
+[Formation et évolution du Système solaire](w:Formation_et_évolution_du_Système_solaire)
 
 Deux ou trois choses importantes pour bien comprendre:
 

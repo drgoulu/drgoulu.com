@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Merci pour la question qui m'a permis de (re) découvrir
 
-[https://fr.wikipedia.org/wiki/%C...](w:Étienne_Bonnot_de_Condillac)
+[Étienne Bonnot de Condillac](w:Étienne_Bonnot_de_Condillac)
 
 Qui dit exactement le contraire en imaginant les êtres vivants comme des
 

@@ -13,7 +13,7 @@ coverImage: ./images/qimg-69fa0660bf4c9ecd9efa5704b8a82e84.jpg
 
 Oui bien sur. voir
 
-[https://fr.wikipedia.org/wiki/D%...](w:Défense_antimissile_des_États-Unis)
+[Défense antimissile des États-Unis](w:Défense_antimissile_des_États-Unis)
 
 les russes et les chinois ont certainement un équivalent.
 

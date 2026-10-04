@@ -14,6 +14,6 @@ coverImage: ./images/quora.png
 
 Et bien votre connaissance est fausse. L'homosexualité est très fréquente dans le monde animal, elle a été documentée chez plus de 1500 espèces.
 
-[https://fr.wikipedia.org/wiki/Co...](w:Comportement_homosexuel_chez_les_animaux)
+[Comportement homosexuel chez les animaux](w:Comportement_homosexuel_chez_les_animaux)
 
 Il y a plusieurs hypothèses sur les raisons évolutives de ces comportements, voire le paragraphe "utilité" de l'article Wikipedia.

@@ -18,7 +18,7 @@ Seuls des modèles très naïfs de l'Univers ont une limite. Aucun ne décrit ce
 
 Comme le dit
 
-[https://en.wikipedia.org/wiki/Sh...](w:en:Shape_of_the_universe)
+[Shape of the universe](w:en:Shape_of_the_universe)
 
 > **Avec ou sans limite**
 >

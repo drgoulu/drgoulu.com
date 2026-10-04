@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Ce n'est pas la "rondeur des électrons" (personne ne dit que les électrons sont ronds… mais pas le contraire non plus…) mais la
 
-[https://fr.wikipedia.org/wiki/Sy...](w:Symétrie_CP)
+[Symétrie CP](w:Symétrie_CP)
 
 qui a effectivement un très léger défaut de symétrie. Effectivement, un anti-électron (symétrie C) vu dans un miroir (symétrie P) ne se comporte pas de manière totalement symétrique à l'électron. C'est a priori valable pour toutes les particules et ça a été détecté la première fois sur des kaons : la transformation d’un kaon en antikaon est très légèrement (1 milliardième) plus rare que la transformation d’un antikaon en kaon.
 

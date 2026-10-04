@@ -15,4 +15,4 @@ Parce que tous les êtres vivants ont beaucoup de points communs, notamment 155 
 
 Grâce à ces points communs, on a une assez bonne idée de ce qu'était LUCA, notre
 
-[https://fr.wikipedia.org/wiki/De...](w:Dernier_ancêtre_commun_universel)
+[Dernier ancêtre commun universel](w:Dernier_ancêtre_commun_universel)

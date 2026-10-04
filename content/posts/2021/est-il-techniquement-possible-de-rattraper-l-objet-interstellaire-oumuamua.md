@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Oui, le
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Projet_Lyra)
+[Projet Lyra](w:Projet_Lyra)
 
 propose de le faire, mais il ne faut pas trop attendre, Oumuamua s'éloigne vite.
 
@@ -30,6 +30,6 @@ Pour ma part je pense que c'est trop tard. On devrait plutôt préparer une sond
 
 Parce que maintenant qu'on a des systèmes de détection de ces objets, on se dit qu'il y en a peut-être "assez souvent", vu qu'on a détecté
 
-[https://fr.wikipedia.org/wiki/2I...](w:2I/Borissov)
+[2I/Borissov](w:2I/Borissov)
 
 2 ans après Oumuamua …

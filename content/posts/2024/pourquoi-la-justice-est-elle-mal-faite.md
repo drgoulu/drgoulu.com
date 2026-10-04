@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 On ne compte plus le nombre de cas où "tout le monde sait qui est le coupable" et qu'on condamne un innocent.
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_erreurs_judiciaires_en_France)
+[Liste des erreurs judiciaires en France](w:Liste_des_erreurs_judiciaires_en_France)
 
 Sans procès, vous allez juste encore augmenter ce nombre.
 

@@ -18,6 +18,6 @@ Selon [Avenir de la Terre — Wikipédia](w:Avenir_de_la_Terre) :
 
 Le phénomène est donc l'
 
-[https://fr.wikipedia.org/wiki/Al...](w:Altération_des_silicates)
+[Altération des silicates](w:Altération_des_silicates)
 
 Qui produit une grande partie des roches carbonatées en piégeant d'autant plus de CO2 qu'il fait chaud.

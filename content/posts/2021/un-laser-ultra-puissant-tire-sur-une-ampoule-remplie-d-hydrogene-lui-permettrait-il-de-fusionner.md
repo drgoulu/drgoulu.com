@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 C'est exactement ce qu'on fait avec le
 
-[https://fr.wikipedia.org/wiki/Co...](w:Confinement_inertiel_par_laser)
+[Confinement inertiel par laser](w:Confinement_inertiel_par_laser)
 
 Il y a 3 projets en cours :
 

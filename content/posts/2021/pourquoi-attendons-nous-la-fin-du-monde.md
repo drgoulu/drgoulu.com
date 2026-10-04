@@ -15,4 +15,4 @@ Pour se marrer. Toutes les fins du monde annoncées depuis des siècles se sont 
 
 Je me réjouis déjà de la prochaine.
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_de_prédictions_de_la_fin_du_monde)
+[Liste de prédictions de la fin du monde](w:Liste_de_prédictions_de_la_fin_du_monde)

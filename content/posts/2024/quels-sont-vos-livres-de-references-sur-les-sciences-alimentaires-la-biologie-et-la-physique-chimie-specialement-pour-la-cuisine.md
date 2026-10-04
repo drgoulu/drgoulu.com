@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Tous ceux de
 
-[https://fr.wikipedia.org/wiki/He...](w:Hervé_This)
+[Hervé This](w:Hervé_This)

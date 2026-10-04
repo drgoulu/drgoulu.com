@@ -15,4 +15,4 @@ Comment définissez vous l'inégalité de la répartition de la population ?
 
 Si vous voulez dire qu'un max de gens vivent en ville, alors consultez la
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_pays_par_taux_d'urbanisation)
+[Liste des pays par taux d'urbanisation](w:Liste_des_pays_par_taux_d'urbanisation)

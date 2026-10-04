@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 L'
 
-[https://fr.wikipedia.org/wiki/%C...](w:Échappement_atmosphérique)
+[Échappement atmosphérique](w:Échappement_atmosphérique)
 
 dépend de la température, en effe

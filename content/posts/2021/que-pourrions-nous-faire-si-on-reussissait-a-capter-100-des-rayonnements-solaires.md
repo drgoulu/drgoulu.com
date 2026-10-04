@@ -30,4 +30,4 @@ de 0 plutôt que 0.3, on recevrait 30% de chaleur en plus. Or 10% suffiront à f
 
 Donc on mourrait tous assez vite, mais heureux d'avoir atteint le niveau I sur l'
 
-[https://fr.wikipedia.org/wiki/%C...](w:Échelle_de_Kardachev)
+[Échelle de Kardachev](w:Échelle_de_Kardachev)

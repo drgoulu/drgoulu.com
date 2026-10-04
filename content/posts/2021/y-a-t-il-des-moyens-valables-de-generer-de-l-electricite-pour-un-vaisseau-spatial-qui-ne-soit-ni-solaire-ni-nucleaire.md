@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 En orbite autour d'une astre doté d'un champ magnétique, on peut utiliser un
 
-[https://fr.wikipedia.org/wiki/C%...](w:Câble_électrodynamique)
+[Câble électrodynamique](w:Câble_électrodynamique)

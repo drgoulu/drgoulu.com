@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Oui. Passez la sixième, ça fait 50 ans que vous en causez (et c'est le seul point où je suis d'accord avec Mélanchon, qui ne l'aurait probablement pas appliqué une fois élu)
 
-[https://fr.wikipedia.org/wiki/Si...](w:Sixième_République)
+[Sixième République](w:Sixième_République)
 
 Mais vos changements de république se sont faits dans la douleur, et vous ne souffrez pas encore assez.
 

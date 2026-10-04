@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Oui
 
-[https://en.wikipedia.org/wiki/Sy...](w:en:Synthetic_setae)
+[Synthetic setae](w:en:Synthetic_setae)
 
 {{< youtube "1Jutfdx8_Yk" >}}

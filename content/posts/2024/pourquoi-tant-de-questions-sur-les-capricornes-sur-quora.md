@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce que ce sont des bestioles super intéressantes
 
-[https://fr.wikipedia.org/wiki/Ce...](w:Cerambycidae)
+[Cerambycidae](w:Cerambycidae)

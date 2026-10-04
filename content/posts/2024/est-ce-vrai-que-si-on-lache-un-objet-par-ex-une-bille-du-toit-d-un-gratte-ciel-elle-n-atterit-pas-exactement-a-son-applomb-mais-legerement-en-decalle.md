@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui.
 
-[https://fr.wikipedia.org/wiki/D%...](w:Déviation_vers_l'est)
+[Déviation vers l'est](w:Déviation_vers_l'est)

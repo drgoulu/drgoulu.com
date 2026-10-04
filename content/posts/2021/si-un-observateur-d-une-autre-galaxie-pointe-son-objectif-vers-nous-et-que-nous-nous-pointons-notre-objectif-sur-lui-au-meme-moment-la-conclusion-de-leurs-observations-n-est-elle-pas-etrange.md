@@ -16,6 +16,6 @@ Qu appelez vous "au même moment" ?
 
 La conclusion "étrange" de leurs observations résulte simplement du fait qu'il n'y a pas de "même moment". Chacun observe son propre
 
-[https://fr.wikipedia.org/wiki/C%...](w:Cône_de_lumière)
+[Cône de lumière](w:Cône_de_lumière)
 
 , son propre présent. Il n y a pas d autre "présent" commun à deux observateurs que l'intersection de leurs cônes de lumière respectifs.

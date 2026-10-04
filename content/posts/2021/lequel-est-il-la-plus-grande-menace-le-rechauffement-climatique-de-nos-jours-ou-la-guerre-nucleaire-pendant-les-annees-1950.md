@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Clairement la guerre nucléaire.
 
-Le réchauffement climatique va au pire réduire "lentement" la population de quelques pourcents. Et on a quelques idées de [https://fr.wikipedia.org/wiki/G%...](w:Géo-ingénierie) de la dernière chance si ça tourne vraiment mal.
+Le réchauffement climatique va au pire réduire "lentement" la population de quelques pourcents. Et on a quelques idées de [Géo-ingénierie](w:Géo-ingénierie) de la dernière chance si ça tourne vraiment mal.
 
 La guerre nucléaire totale, c'est la disparition de l'espèce humaine en quelques heures. Bon disons quelques années en comptant les quelques individus planqués dans des bunkers.
 

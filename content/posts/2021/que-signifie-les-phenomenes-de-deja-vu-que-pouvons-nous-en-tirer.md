@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ils signifient que notre cerveau a des bugs, comme n'importe quel ordinateur.
 
-[https://fr.wikipedia.org/wiki/D%...](w:Déjà-vu)
+[Déjà-vu](w:Déjà-vu)

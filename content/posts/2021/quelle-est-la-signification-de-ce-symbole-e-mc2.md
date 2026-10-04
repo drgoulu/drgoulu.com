@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 ce n'est pas un symbole, c'est une équation:
 
-[https://fr.wikipedia.org/wiki/E%...](w:E=mc2)
+[E=mc2](w:E=mc2)
 
 et vous en trouvez tellement de bonnes explications sur internet qu'ici, je vous mets juste un downvote.

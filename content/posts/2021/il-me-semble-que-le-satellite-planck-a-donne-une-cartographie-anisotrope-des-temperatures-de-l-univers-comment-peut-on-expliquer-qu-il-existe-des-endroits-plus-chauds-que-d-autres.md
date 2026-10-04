@@ -15,6 +15,6 @@ La différence maximale de température est de l'ordre de 0,0001 degré Kelvin. 
 
 L article
 
-[https://fr.wikipedia.org/wiki/Fo...](w:Fond_diffus_cosmologique)
+[Fond diffus cosmologique](w:Fond_diffus_cosmologique)
 
 Décrit les sources des anisotropies aux différentes échelles.

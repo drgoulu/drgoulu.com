@@ -15,4 +15,4 @@ La Norvège ne fait pas partie de l'UE et l'Irlande et l'Espagne ne sont pas les
 
 > La Suède devient en 2014 le premier pays de l'UE à reconnaître l'Etat de Palestine, la République tchèque, la Hongrie, la Pologne, la Bulgarie, la Roumanie et Chypre l'ayant fait avant de rejoindre l'Union européenne.
 
-[https://fr.wikipedia.org/wiki/Li...](w:Liste_des_pays_reconnaissant_l'État_de_Palestine)
+[Liste des pays reconnaissant l'État de Palestine](w:Liste_des_pays_reconnaissant_l'État_de_Palestine)

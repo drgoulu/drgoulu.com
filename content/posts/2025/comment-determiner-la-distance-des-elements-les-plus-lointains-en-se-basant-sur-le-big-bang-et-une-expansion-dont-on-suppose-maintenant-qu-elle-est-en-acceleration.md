@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Les calculs et explications sont dans
 
-[https://fr.wikipedia.org/wiki/Ho...](w:Horizon_cosmologique)
+[Horizon cosmologique](w:Horizon_cosmologique)
 
 La distance est calculée par une intégrale de la forme
 

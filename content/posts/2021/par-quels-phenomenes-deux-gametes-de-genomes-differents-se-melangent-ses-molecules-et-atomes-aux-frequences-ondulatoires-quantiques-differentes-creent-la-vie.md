@@ -22,11 +22,11 @@ La caractéristique principale d'un organisme vivant est de pouvoir créer des c
 
 L'hypothèse la plus vraisemblable actuellement concernant l'apparition de la vie est l'
 
-[https://fr.wikipedia.org/wiki/Hy...](w:Hypothèse_du_monde_à_ARN)
+[Hypothèse du monde à ARN](w:Hypothèse_du_monde_à_ARN)
 
 Qui aurait impliqué des molécules capables de s'autorepliquer, les
 
-[https://fr.wikipedia.org/wiki/Ri...](w:Ribozyme)
+[Ribozyme](w:Ribozyme)
 
 On sait en fabriquer en laboratoire qui se répliquent à toute vitesse (exponentiellement, doublement toutes les 5 minutes environ sans mon souvenir) et qui évoluent immédiatement
 

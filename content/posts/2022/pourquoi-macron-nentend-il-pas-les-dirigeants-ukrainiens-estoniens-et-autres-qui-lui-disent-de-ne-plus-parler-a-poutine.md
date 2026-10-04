@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 En partie parce que la France et l'Allemagne étaient médiateurs de l'accord de
 
-[https://fr.wikipedia.org/wiki/Mi...](w:Minsk_II)
+[Minsk II](w:Minsk_II)
 
 que Vladimir prétend violé par l'Ukraine, et signé par ma compatriote [Heidi Tagliavini](w:en:Heidi_Tagliavini)pour le compte de l'OSCE.
 

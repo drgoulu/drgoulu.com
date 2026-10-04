@@ -23,6 +23,6 @@ En plus l'eau est beaucoup plus abondante que les autres solvants "semblables" c
 
 La vie terrestre est en fait basée sur la chimie du carbone (chimie "organique") dans de l'eau. Les autres combinaisons théoriquement possibles ont été étudiées, mais , vous le verrez en lisant l'article ci-dessous, elles ont toutes des inconvénients importants par rapport à la chimie organique dans l'eau.
 
-[https://fr.wikipedia.org/wiki/Bi...](w:Biochimies_hypothétiques)
+[Biochimies hypothétiques](w:Biochimies_hypothétiques)
 
 Je pense que nous verrons probablement bientôt des formes de vie basées sur le silicium, mais qui n'aimeront pas l'eau : nous sommes en train de les créer ! (voir les [Réplicateurs de Stargate](w:Réplicateurs_(Stargate)) et l'[Entité V'Ger](w:) de StarTrek )

@@ -15,4 +15,4 @@ La même que dans les pays développés, avant.
 
 Quand la mortalité infantile baisse et que l'éducation des femmes augmente, la fécondité baisse, mais avec un retard pendant lequel a lieu une augmentation de la population rapide, mais temporaire.
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Transition_démographique)
+[Transition démographique](w:Transition_démographique)

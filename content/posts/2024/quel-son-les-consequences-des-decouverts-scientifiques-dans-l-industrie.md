@@ -15,4 +15,4 @@ De nouveaux produits, de nouveaux matériaux, de nouveaux procédés de fabricat
 
 Ça s'appelle l'
 
-[https://fr.wikipedia.org/wiki/In...](w:Innovation)
+[Innovation](w:Innovation)

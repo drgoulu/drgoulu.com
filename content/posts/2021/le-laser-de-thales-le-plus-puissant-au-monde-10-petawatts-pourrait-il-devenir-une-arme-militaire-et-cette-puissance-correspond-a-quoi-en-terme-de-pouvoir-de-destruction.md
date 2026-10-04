@@ -20,13 +20,13 @@ Le "pouvoir de destruction" se mesure par l énergie dégagée, égale à la pui
 
 Le laser le plus puissant énergétique est le
 
-[https://fr.wikipedia.org/wiki/La...](w:Laser_Mégajoule)
+[Laser Mégajoule](w:Laser_Mégajoule)
 
 Qui combine 160 lasers pendant quelques nanosecondes. Comme son nom l'indique il devait atteindre 1 million de joules.
 
 d'après
 
-[https://fr.wikipedia.org/wiki/Or...](w:Ordres_de_grandeur_d'énergie)
+[Ordres de grandeur d'énergie](w:Ordres_de_grandeur_d'énergie)
 
 1 Mégajoule équivaut à moins de 200 grammes de dynamite…
 

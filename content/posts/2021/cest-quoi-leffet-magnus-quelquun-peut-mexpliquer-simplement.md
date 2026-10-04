@@ -13,4 +13,4 @@ coverImage: ./images/qimg-e0a5f7491a270d0ccccf3f5e1dda805a.gif
 
 ![](./images/qimg-e0a5f7491a270d0ccccf3f5e1dda805a.gif)
 
-[https://fr.wikipedia.org/wiki/Ef...](w:Effet_Magnus)
+[Effet Magnus](w:Effet_Magnus)

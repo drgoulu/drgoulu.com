@@ -15,4 +15,4 @@ Rien. Derek Chauvin est poursuivi pour meurtre, homicide involontaire, et violen
 
 Ce sont les statistiques qui montrent que les noirs ont deux à trois fois plus de risques que les blancs d'être tués par la police lors d'une arrestation.
 
-[https://en.wikipedia.org/wiki/Po...](w:en:Police_use_of_deadly_force_in_the_United_States)
+[Police use of deadly force in the United States](w:en:Police_use_of_deadly_force_in_the_United_States)

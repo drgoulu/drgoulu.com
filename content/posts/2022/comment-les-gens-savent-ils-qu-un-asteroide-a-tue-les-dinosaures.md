@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 à cause du
 
-[https://fr.wikipedia.org/wiki/Cr...](w:Cratère_de_Chicxulub)
+[Cratère de Chicxulub](w:Cratère_de_Chicxulub)
 
 L'âge correspond, et la taille du cratère a permis de simuler ce qui s'est passé ensuite : des tremblements de terre fantastiques, un gigantesque tsunami avec des vagues de plus de 100m, des bombardements de débris et des incendies sur toute la planète.
 

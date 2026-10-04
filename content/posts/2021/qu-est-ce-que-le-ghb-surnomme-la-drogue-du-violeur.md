@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Qu-est-ce-que-le-GHB-surnomm%C3%A9-la-drogue-du-violeur/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Ac...](w:Acide_gamma-hydroxybutyrique)
+[Acide gamma-hydroxybutyrique](w:Acide_gamma-hydroxybutyrique)

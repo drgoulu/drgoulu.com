@@ -11,13 +11,13 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-les-gens-peuvent-croire-en-la-th%C3%A9orie-de-l%C3%A9volution-alors-que-les-animaux-sont-dune-grande-beaut%C3%A9-La-beaut%C3%A9-est-inutile-pour-la-survie/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Ra...](w:Rat-taupe_nu)
+[Rat-taupe nu](w:Rat-taupe_nu)
 
-[https://fr.wikipedia.org/wiki/Ac...](w:Acanthaspis_petax)
+[Acanthaspis petax](w:Acanthaspis_petax)
 
-[https://fr.wikipedia.org/wiki/Po...](w:Poisson_abyssal)
+[Poisson abyssal](w:Poisson_abyssal)
 
-[https://fr.wikipedia.org/wiki/Ma...](w:Marabout_d'Afrique)
+[Marabout d'Afrique](w:Marabout_d'Afrique)
 
 Etc etc…
 

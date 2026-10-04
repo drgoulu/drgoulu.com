@@ -20,7 +20,7 @@ Il n'y a pas beaucoup d'endroits où la mer est profonde de 10'000m. Le plancher
 
 En fait il n'y a que 5[fosses océaniques](w:Liste_de_fosses_océaniques)de plus de 10'000m.
 
-[https://fr.wikipedia.org/wiki/Ps...](w:Pseudoliparis_swirei)
+[Pseudoliparis swirei](w:Pseudoliparis_swirei)
 
 A été filmé à 8130m dans la fosse des Mariannes, ce qui en fait le poisson le plus "profond" connu
 

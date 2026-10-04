@@ -21,4 +21,4 @@ où $g(h)$ est la dépendance de g par rapport à h.
 
 Il faudrait intégrer $g(h) = g [ 1 − 2 h R ]$où R est le rayon de la Terre et introduire les h correspondant à vos valeurs de g pour répondre précisément à votre question.
 
-[https://en.wikipedia.org/wiki/Gr...](w:en:Gravitational_time_dilation)
+[Gravitational time dilation](w:en:Gravitational_time_dilation)

@@ -26,7 +26,7 @@ Simplement, ces éléments sont si dispersés qu'ils ne produisent pas la fameus
 
 Sauf à certains endroits comme le
 
-[https://fr.wikipedia.org/wiki/R%...](w:Réacteur_nucléaire_naturel_d'Oklo)
+[Réacteur nucléaire naturel d'Oklo](w:Réacteur_nucléaire_naturel_d'Oklo)
 
 Un quart du rayonnement ionisant que vous recevez provient de la terre, et la moitié provient d'un "déchets" de la désintégration de l'uranium, le Radon. Comme c'est un gaz, il peut remonter à la surface par des fissures et stagner dans des caves mal ventilées.
 

@@ -20,4 +20,4 @@ Vous ne pouvez pas descendre des chimpanzés ou des bonobos, ce sont vos cousins
 
 Vous faites partie de la famille de vos grands parents, vous faites partie de celle de votre ancêtre
 
-[https://fr.wikipedia.org/wiki/Ho...](w:Hominini)
+[Hominini](w:Hominini)

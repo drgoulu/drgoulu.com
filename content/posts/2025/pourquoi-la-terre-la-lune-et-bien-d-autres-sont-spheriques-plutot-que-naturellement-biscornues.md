@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-la-terre-la-lune-et-bien-d-autres-sont-sph%C3%A9riques-plut%C3%B4t-que-naturellement-biscornues/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/%C...](w:Équilibre_hydrostatique)
+[Équilibre hydrostatique](w:Équilibre_hydrostatique)

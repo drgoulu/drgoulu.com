@@ -28,4 +28,4 @@ Fin des étoiles dans 100'000 milliards d'années
 
 Et, jusqu'à la [Mort thermique de l'Univers](w:), et peut-être un nouveau Big Bang…
 
-[https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+[Chronologie du futur lointain](w:Chronologie_du_futur_lointain)

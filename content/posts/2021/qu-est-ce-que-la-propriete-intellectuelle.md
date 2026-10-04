@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Qu-est-ce-que-la-propri%C3%A9t%C3%A9-intellectuelle/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/Pr...](w:Propriété_intellectuelle)
+[Propriété intellectuelle](w:Propriété_intellectuelle)

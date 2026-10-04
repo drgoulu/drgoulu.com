@@ -13,8 +13,8 @@ coverImage: ./images/quora.png
 
 Comme décrit dans ces articles Wikipedia
 
-[https://fr.wikipedia.org/wiki/Fo...](w:Formation_et_évolution_des_galaxies)
+[Formation et évolution des galaxies](w:Formation_et_évolution_des_galaxies)
 
-[https://fr.wikipedia.org/wiki/Na...](w:Naissance_des_étoiles)
+[Naissance des étoiles](w:Naissance_des_étoiles)
 
 Franchement votre question est beaucoup trop vaste pour qu'on se fatigue à y répondre sur Quora…

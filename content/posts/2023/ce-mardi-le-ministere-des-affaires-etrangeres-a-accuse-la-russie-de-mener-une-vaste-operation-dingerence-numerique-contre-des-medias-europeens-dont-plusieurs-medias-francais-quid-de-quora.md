@@ -22,11 +22,11 @@ Quora n'a pas été visé, mais ce n est pas vraiment un média.
 
 Une qui m épate de plus en plus c est Wikipédia qui parvient à maintenir des pages comme
 
-[https://fr.wikipedia.org/wiki/D%...](w:Désinformation_lors_de_la_crise_russo-ukrainienne_de_2021-2022)
+[Désinformation lors de la crise russo-ukrainienne de 2021-2022](w:Désinformation_lors_de_la_crise_russo-ukrainienne_de_2021-2022)
 
 Ou
 
-[https://en.wikipedia.org/wiki/Di...](w:en:Disinformation_in_the_Russian_invasion_of_Ukraine)
+[Disinformation in the Russian invasion of Ukraine](w:en:Disinformation_in_the_Russian_invasion_of_Ukraine)
 
 Qui sont manifestement "corrigées" par des trolls dont les modifications sont presque immédiatement révoquées.
 

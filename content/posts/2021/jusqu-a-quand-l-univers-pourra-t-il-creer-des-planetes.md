@@ -22,7 +22,7 @@ Dans mille milliards d'années, à quelques jours près :
 >
 >
 >
-> [https://fr.wikipedia.org/wiki/Ch...](w:Chronologie_du_futur_lointain)
+> [Chronologie du futur lointain](w:Chronologie_du_futur_lointain)
 
 de plus, à cette époque :
 

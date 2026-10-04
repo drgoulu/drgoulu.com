@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 il y en a au moins 3:
 
-1. La façon qui a 100% de rendement mais qui est un peu dommage : la faire passer dans des [résistances électriques](https://fr.wikipedia.org/w/index.php?title=Résistance_électrique&redirect=no).
+1. La façon qui a 100% de rendement mais qui est un peu dommage : la faire passer dans des [résistances électriques](w:Résistance_électrique).
 2. La façon qui a 100% de rendement aussi, mais beacoup moins dommage : la faire passer dans des ordinateurs[[1]](#wGnUB)
 3. La façon qui a ~300% de rendement (plus précisément de [Coefficient de performance](w:) (COP)) : en la faisant passer dans une [Pompe à chaleur](w:).
 

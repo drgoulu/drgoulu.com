@@ -15,4 +15,4 @@ Peut-être par souci de cohérence car il s'apprête à faire don au Mexique de 
 
 Non, ça doit pas être ça…
 
-[https://fr.wikipedia.org/wiki/Es...](w:Espagnol_des_États-Unis)
+[Espagnol des États-Unis](w:Espagnol_des_États-Unis)

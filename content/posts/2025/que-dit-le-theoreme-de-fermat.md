@@ -15,4 +15,4 @@ Lequel ? Il y en a au moins huit.
 
 Essayez Google ou Wikipédia, ça marche bien dans ces cas là.
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorème_de_Fermat)
+[Théorème de Fermat](w:Théorème_de_Fermat)

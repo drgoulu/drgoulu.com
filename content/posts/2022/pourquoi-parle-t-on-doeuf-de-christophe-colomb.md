@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-parle-t-on-d-oeuf-de-Christophe-Colomb/answer/Dr-Goulu)*
 
-[https://fr.wikipedia.org/wiki/%C...](w:Œuf_de_Colomb)
+[Œuf de Colomb](w:Œuf_de_Colomb)

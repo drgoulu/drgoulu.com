@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Les mesures actuelles de la
 
-[https://fr.wikipedia.org/wiki/Co...](w:Courbure_spatiale)
+[Courbure spatiale](w:Courbure_spatiale)
 
 ne l'excluent pas, en effet. Mais elles n'excluent pas non plus l'hypersphère, ni l'univers "plat", infini.

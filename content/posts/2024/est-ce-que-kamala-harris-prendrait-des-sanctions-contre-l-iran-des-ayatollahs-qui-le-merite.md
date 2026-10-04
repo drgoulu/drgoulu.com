@@ -15,4 +15,4 @@ Elle peut difficilement en prendre plus, l'Iran est totalement isolé, mais les 
 
 L'Iran fait partie de l'autre bloc, celui de l'
 
-[https://fr.wikipedia.org/wiki/Or...](w:Organisation_de_coopération_de_Shanghai)
+[Organisation de coopération de Shanghai](w:Organisation_de_coopération_de_Shanghai)

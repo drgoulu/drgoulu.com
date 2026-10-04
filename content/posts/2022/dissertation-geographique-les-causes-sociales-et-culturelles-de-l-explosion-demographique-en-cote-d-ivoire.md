@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 En côte d'ivoire ou ailleurs, l'explosion démographique est une conséquence de la
 
-[https://fr.wikipedia.org/wiki/Tr...](w:Transition_démographique)
+[Transition démographique](w:Transition_démographique)
 
 Qui est un mécanisme universel. En Europe il a eu lieu au début du 20ème siècle, en Asie à la fin du 20ème, en Afrique maintenant.
 

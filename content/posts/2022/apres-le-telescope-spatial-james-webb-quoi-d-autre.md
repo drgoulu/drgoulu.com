@@ -44,4 +44,4 @@ On est pas en reste au sol :
 
 Donc vous voyez, il y a de nombreux projets de télescopes spatiaux après JWST, et il y en a d'ailleurs eu plusieurs entre Hubble et JWST, moins médiatiques mais scientifiquement tout aussi importants comme Planck, WMAP, Herschel , Spitzer et bien d'autres
 
-[https://fr.wikipedia.org/wiki/T%...](w:Télescope_spatial)
+[Télescope spatial](w:Télescope_spatial)

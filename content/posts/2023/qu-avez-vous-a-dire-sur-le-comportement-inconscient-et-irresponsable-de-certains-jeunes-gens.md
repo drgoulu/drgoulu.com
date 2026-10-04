@@ -13,8 +13,8 @@ coverImage: ./images/quora.png
 
 Que toutes les sociétés ont des rites de passage à l'âge adulte, souvent dangereux ou douloureux, par exemple :
 
-[https://fr.wikipedia.org/wiki/Sa...](w:Saut_du_gol_(Vanuatu))
+[Saut du gol (Vanuatu)](w:Saut_du_gol_\(Vanuatu\))
 
-[https://fr.wikipedia.org/wiki/Sa...](w:Satéré-mawé)
+[Satéré-mawé](w:Satéré-mawé)
 
 Alors pourquoi pas le wheeling en scooter…

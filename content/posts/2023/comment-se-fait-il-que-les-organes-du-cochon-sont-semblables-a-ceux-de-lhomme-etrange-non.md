@@ -15,4 +15,4 @@ Pourquoi étrange ? C'est un mammifère omnivore d'à peu près notre poids…
 
 Ses organes sont moins semblables aux nôtres que ceux du gorille, mais on a moins de scrupules à élever des cochons modifiés génétiquement pour prélever leurs organes.
 
-[https://fr.wikipedia.org/wiki/X%...](w:Xénogreffe)
+[Xénogreffe](w:Xénogreffe)

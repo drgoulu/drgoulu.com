@@ -15,4 +15,4 @@ Toujours au même point : on a donné ces noms à des effets que l on observe, m
 
 Je pense de plus en plus qu'il y a une bulle dans les équations quelque part. Un truc genre
 
-[https://fr.wikipedia.org/wiki/Th...](w:Théorie_MOND)
+[Théorie MOND](w:Théorie_MOND)

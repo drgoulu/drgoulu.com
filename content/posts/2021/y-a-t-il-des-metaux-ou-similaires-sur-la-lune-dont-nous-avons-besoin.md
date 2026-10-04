@@ -17,7 +17,7 @@ Mais il y manque les phénomènes qui concentrent les minéraux en gisements et 
 
 La ressource de la Lune qui vaudra des centaines de milliards un jour, c'est l'[Hélium 3](w:). Cet isotope rarissime sur Terre est amené sur la Lune par le vent solaire et se plante dans le [Régolithe](w:) sur une faible profondeur. Quand on saura faire de la fusion nucléaire contrôlée, l'Helium-3 permettra de viser la [Fusion aneutronique](w:) et là on aura des bases et des mines sur la Lune, sur et certain.
 
-[https://fr.wikipedia.org/wiki/G%...](w:Géologie_de_la_Lune)
+[Géologie de la Lune](w:Géologie_de_la_Lune)
 
 Notes de bas de page
 
