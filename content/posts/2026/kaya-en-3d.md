@@ -42,6 +42,6 @@ Le résultat est ci-dessous (et sur [https://goulu.github.io/kaya/](https://goul
 
 On y voit plein de choses intéressantes, mais surtout (c'était le but) que les situations des pays sont TRES différentes, et que par conséquent leurs priorités pour limiter, puis réduire leurs émissions sont forcément différentes aussi.
 
-Là où mon IA de codage m'a une fois de plus scotché, c'est qu'elle a ajouté "toute seule" l'échelle de temps. J'avais juste dit "visualise façon Gapminder" en pensant aux bulles par pays, mais cette fonction d'animation montre de façon très claire la tendance générale à l'efficacité énergétique et à la réduction des émissions. Si si, regardez bien ...
+Là où mon IA de codage m'a une fois de plus scotché, c'est qu'elle a ajouté "toute seule" l'échelle de temps. J'avais juste dit "visualise façon Gapminder" en pensant aux bulles par pays, mais cette fonction d'animation montre de façon très claire la [tendance générale à l'efficacité énergétique](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/) et à la (lente) réduction des émissions. Si si, regardez bien ...
 
 (le [source est sur GitHub](https://github.com/goulu/kaya), si vous voulez contribuer ou remonter des bugs...)
