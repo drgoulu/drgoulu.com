@@ -1,17 +1,18 @@
 ---
-title: "Le carbone pyrolytique, c'est fantastique"
-slug: "le-carbone-pyrolytique-cest-fantastique"
+title: Le carbone pyrolytique, c'est fantastique
 date: 2014-03-15
+draft: false
+tags:
+  - chimie
+  - magnetisme
+  - materiaux
 categories:
-  - "Comment"
-tags: 
-  - "chimie"
-  - "magnetisme"
-  - "materiaux"
-coverImage: "./images/0408116c8f483e02475f15c658313033.gif"
+  - Comment
+slug: le-carbone-pyrolytique-cest-fantastique
+coverImage: ./images/0408116c8f483e02475f15c658313033.gif
 ---
 
-{{< figure src="./images/0408116c8f483e02475f15c658313033.gif" alt="Réseaux cristallins du carbone pyrolytique (a) et du graphite (b)" caption="Réseaux cristallins du carbone pyrolytique (a) et du graphite (b)" link="http://www.onxlti.com/product-divisions/contract-manufacturing-products/on-x-pyrolytic-carbon/" width="300" >}}
+{{< figure alt="Réseaux cristallins du carbone pyrolytique (a) et du graphite (b)" caption="Réseaux cristallins du carbone pyrolytique (a) et du graphite (b)" link="http://www.onxlti.com/product-divisions/contract-manufacturing-products/on-x-pyrolytic-carbon/" src="./images/0408116c8f483e02475f15c658313033.gif" width="300" >}}
 
 Découvert l'existence d'une forme de carbone méconnue : le [carbone pyrolytique](w:). C'est un empilement de couches de [graphène](w:) moins régulier que dans le [graphite](w:) \*.
 
@@ -31,15 +32,13 @@ Mais il y a plus fort encore : la lumière modifie la [susceptibilité magnétiq
 
 En pratique, un morceau de carbone pyrolytique en lévitation magnétique glisse en direction d'un spot lumineux [[1]](#ref-1), [[2]](#ref-2) :
 
-{{< youtube id="AJ7fMVp_O5s" width="640" >}}
+{{< youtube "AJ7fMVp_O5s" >}}
 
 Incroyable, non ? Comme dirait Marc "voilà une solution vraiment innovante, il n'y a plus qu'à trouver le problème correspondant."
 
 Note: \* j'ai pas vraiment compris la différence des liaisons covalentes entre plans de graphène dans les deux structures, si quelqu'un peut aider ...
 
 ### Références:
-
- {{< altmetric pmid="23234502" >}}
-
+ 
 1. <span id="ref-1"></span>Phillip Broadwith "[Laser guided maglev graphite air hockey](http://www.rsc.org/chemistryworld/2013/01/laser-guided-maglev-graphite-air-hockey)", 2013, Chemistry World
 2. <span id="ref-2"></span>Kobayashi M, & Abe J (2012). Optical motion control of maglev graphite. Journal of the American Chemical Society, 134 (51), 20593-6 PMID:{{< altmetric pmid="23234502" >}}
