@@ -46,8 +46,9 @@ On y voit plein de choses intéressantes, mais surtout (c'était le but) que les
 
 Là où mon IA de codage m'a une fois de plus scotché, c'est qu'elle a ajouté "toute seule" l'échelle de temps. J'avais juste dit "visualise façon Gapminder" en pensant aux bulles par pays, mais cette fonction d'animation montre de façon très claire la [tendance générale à l'efficacité énergétique](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/) et à la (lente) réduction des émissions. Si si, regardez bien ...
 
-Edit du 7 ocrobre : bon, suite à une discussion avec PFC, j'ai ajouté les données d' "émissions basées sur la consommation" selon le [Global Carbon Project](w:) qui publie  
+Edit du 7 octobre : suite à une discussion avec PFC, j'ai ajouté dans les volumes des sphères sélectionnables les données d' "émissions basées sur la consommation" selon le [Global Carbon Project](w:) qui publie  
 
 Friedlingstein et al., « Global Carbon Budget 2025 ». [Earth System Science Data](https://www.earth-system-science-data.net/), [Volume 18, issue 5](https://essd.copernicus.org/articles/18/issue5.html), 3211–3288, 2026, {{< altmetric doi="10.5194/essd-18-3211-2026" >}}
 
 Les données [globales sont là](https://ourworldindata.org/grapher/consumption-co2-emissions) et ici [par personne](https://ourworldindata.org/explorers/co2?tab=map&Gas+or+warming=CO%E2%82%82&Accounting=Consumption-based&Count=Per+capita&Relative+to+world+total=false&country=CHN~USA~IND~GBR~OWID_WRL)
+Comme ces données ne sont pas disponibles pour tous les pays et pas avant 1990, le graphique affiche de petits points  aux coordonnées XYZ en cas de données indisponibles
