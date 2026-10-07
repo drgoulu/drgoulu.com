@@ -30,7 +30,7 @@ hugoblox:
     style: minimal
     language_switcher: false
   copyright:
-    notice: © {year} {name}
+    notice: '© {year} Ph. Guglielmetti, contenu disponible sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)'
   content:
     math:
       enable: true

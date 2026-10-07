@@ -16,7 +16,7 @@ coverImage: https://images.frandroid.com/wp-content/uploads/2025/11/gemini-gener
 
 Dès sa sortie en 1985, j'ai trouvé [Microsoft Windows](w:) gros et moche. Je travaillais l'été dans une boutique qui vendait des Apple [Macintosh](w:) puis des Commodore [Amiga](w:), et Windows était juste gros et moche en comparaison. 
 
-Mais surtout, en Suisse on avait le  [Smacky 8](https://www.smaky.ch/chapitre-4-smaky-8/) dès 1981 déjà, avec système multitâche et interface graphique. Windows était gros, moche, et arriéré.
+Mais surtout, en Suisse on avait le [Smaky 100](https://www.smaky.ch/chapitre-4-smaky-100/) avec système multitâche et interface graphique multi fenêtres. Windows était gros, moche, et arriéré en plus.
 
 Windows n'a pas arrêté de devenir encore plus gros à force de copier les autres, très gourmand en ressources pour tenter d'être beau, et depuis peu il est devenu intrusif en plus en forçant l'adoption d'outils gros et moches comme Internet Explorer puis Edge, et maintenant l'IA Copilot.
 
@@ -36,8 +36,10 @@ Et c'est passé comme une lettre à la poste. Depuis plus dun an je n'utilise pl
 
 La vraie raison pour laquelle je n'ai plus retouché à Linux en 20 ans , ce sont les jeux. "Hardcore Gamer", j'avais absolument besoin d'un système capable de faire tourner les derniers jeux, et Linux ne l'était pas, ou pas facilement.
 
-Puis il y a eu [Wine](w:), qui signifiait initialement "WINdows Emulator", mais maintenant c'est "Wine Is Not an Emulator", parce que de fait c'est une couche de compatibilité qui permet à des logiciels Windows de tourner sur Linux. Même le vénérable [wpanorama](http://www.wpanorama.com/wpanorama.php) écrit en Delphi il y a un certain temps fonctionne sans anicroche :
+Puis il y a eu [Wine](w:), qui signifiait initialement "WINdows Emulator", mais maintenant c'est "Wine Is Not an Emulator", parce que de fait c'est devenu une couche de compatibilité qui permet à des logiciels Windows de tourner sur Linux. Même le vénérable [wpanorama](http://www.wpanorama.com/wpanorama.php) écrit en Delphi il y a un certain temps fonctionne sans anicroche :
 
 {{< figure link="http://www.wpanorama.com/wpanorama.php" src="./images/497db1a8-a3e9-4def-a2bd-e4c76c6952dc.jpeg" >}}
 
-Mais surtout, il y a [Steam](w:) et son [Proton](w:Proton_\(logiciel\))
+Mais surtout, il y a [Steam](w:) et son [Proton](w:Proton_\(logiciel\)) (le logiciel, pas l'entreprise suisse dont je parle plus bas)
+
+## Infomaniak ou Proton ?

@@ -1,19 +1,18 @@
 ---
-title: "There's Plenty of Room at the Bottom"
-slug: "il-y-a-plein-de-place-en-bas"
+title: There's Plenty of Room at the Bottom
 date: 2008-06-13
+draft: false
+tags:
+  - feynman
+  - histoire
+  - miniaturisation
+  - nano
+  - traduction
 categories:
-  - "Comment"
-tags: 
-  - "feynman"
-  - "histoire"
-  - "miniaturisation"
-  - "nano"
-  - "traduction"
-coverImage: "./images/4f2f9839f3addc8bad647a1c0d413415.jpg"
+  - Comment
+slug: il-y-a-plein-de-place-en-bas
+coverImage: ./images/4f2f9839f3addc8bad647a1c0d413415.jpg
 ---
-
-{{< figure src="./images/4f2f9839f3addc8bad647a1c0d413415.jpg" link="http://www.dailytech.com/Intel+Reveals+4+Watt+Diamondville+Processor+Details/article10876.htm" >}}
 
 En préparant un prochain article, je suis retombé sur un texte fondateur de la technologie moderne, celui de la présentation que [Richard Feynman](w:) a donné le 29 décembre 1959 à la réunion annuelle de l'American Physical Society à (Caltech).
 
@@ -40,5 +39,4 @@ Feynman continue avec une description très précise des technologies actuelleme
 ### Références:
 
 1. <span id="ref-1"></span>Feynman, Richard P. “[There's Plenty of Room at the Bottom](http://www.zyvex.com/nanotech/feynman.html).” Engineering and Science, Février 1960.
-2. <span id="ref-2"></span>Feynman, Richard P. “[There's Plenty of Room at the Bottom](http://blog.modernmechanix.com/2006/04/13/theres-plenty-of-room-at-the-bottom/).” Popular Science, Novembre 1960.
-3. <span id="ref-3"></span>Feynman, Richard P. "Vous voulez rire, Monsieur Feynman !", 2007, Éditions Odile Jacob, [ISBN](http://www.worldcat.org/title/vous-voulez-rire-monsieur-feynman-entretiens-avec-ralph-leighton/oclc/190760479) : une biographie marrante et passionnante de cet incorrigible curieux lauréat du Prix Nobel de physique
+2. <span id="ref-3"></span>{{< openbook "9782738107718" "5" >}}Une biographie marrante et passionnante de cet incorrigible curieux lauréat du Prix Nobel de physique
