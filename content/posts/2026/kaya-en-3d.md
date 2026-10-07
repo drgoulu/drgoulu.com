@@ -40,8 +40,14 @@ Le résultat est ci-dessous (et sur [https://goulu.github.io/kaya/](https://goul
   </iframe>
 </div>
 
+(le [source est sur GitHub](https://github.com/goulu/kaya), si vous voulez contribuer ou remonter des bugs...)
+
 On y voit plein de choses intéressantes, mais surtout (c'était le but) que les situations des pays sont TRES différentes, et que par conséquent leurs priorités pour limiter, puis réduire leurs émissions sont forcément différentes aussi.
 
 Là où mon IA de codage m'a une fois de plus scotché, c'est qu'elle a ajouté "toute seule" l'échelle de temps. J'avais juste dit "visualise façon Gapminder" en pensant aux bulles par pays, mais cette fonction d'animation montre de façon très claire la [tendance générale à l'efficacité énergétique](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/) et à la (lente) réduction des émissions. Si si, regardez bien ...
 
-(le [source est sur GitHub](https://github.com/goulu/kaya), si vous voulez contribuer ou remonter des bugs...)
+Edit du 7 ocrobre : bon, suite à une discussion avec PFC, j'ai ajouté les données d' "émissions basées sur la consommation" selon le [Global Carbon Project](w:) qui publie  
+
+Friedlingstein et al., « Global Carbon Budget 2025 ». [Earth System Science Data](https://www.earth-system-science-data.net/), [Volume 18, issue 5](https://essd.copernicus.org/articles/18/issue5.html), 3211–3288, 2026, {{< altmetric doi="10.5194/essd-18-3211-2026" >}}
+
+Les données [globales sont là](https://ourworldindata.org/grapher/consumption-co2-emissions) et ici [par personne](https://ourworldindata.org/explorers/co2?tab=map&Gas+or+warming=CO%E2%82%82&Accounting=Consumption-based&Count=Per+capita&Relative+to+world+total=false&country=CHN~USA~IND~GBR~OWID_WRL)
