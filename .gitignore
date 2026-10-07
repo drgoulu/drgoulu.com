@@ -82,3 +82,4 @@ content/tags/*/_index.md
 .pourlascience_cache.html
 .link_cache.json
 
+__pycache__/

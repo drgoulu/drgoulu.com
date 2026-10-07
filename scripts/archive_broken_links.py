@@ -33,6 +33,7 @@ import json
 import os
 import re
 import sys
+import threading
 import time
 import urllib.parse
 from datetime import datetime
@@ -70,6 +71,17 @@ ARCHIVE_HOSTS = {
     "archive.md",
 }
 
+# Domaines exclus à ne pas tester ni archiver (Quora, YouTube, etc.)
+EXCLUDED_HOSTS = {
+    "fr.quora.com",
+    "quora.com",
+    "www.quora.com",
+    "www.youtube.com",
+    "youtube.com",
+    "m.youtube.com",
+    "youtu.be",
+}
+
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -79,13 +91,62 @@ USER_AGENT = (
 DEFAULT_CACHE_FILE = ".link_cache.json"
 
 
+def is_excluded_url(url: str) -> bool:
+    """Détermine si l'URL doit être strictement ignorée (archives, Quora, YouTube)."""
+    if not url:
+        return True
+    u_clean = url.strip()
+    u_lower = u_clean.lower()
+
+    # Vérification par préfixe ou motif textuel
+    if (
+        u_lower.startswith("https://web.archive.org")
+        or u_lower.startswith("http://web.archive.org")
+        or u_lower.startswith("https://archive.org")
+        or u_lower.startswith("http://archive.org")
+        or "web.archive.org" in u_lower
+        or "archive.org/web" in u_lower
+        or u_lower.startswith("https://fr.quora.com")
+        or u_lower.startswith("http://fr.quora.com")
+        or u_lower.startswith("https://www.quora.com")
+        or u_lower.startswith("http://www.quora.com")
+        or u_lower.startswith("https://quora.com")
+        or u_lower.startswith("http://quora.com")
+        or u_lower.startswith("https://www.youtube.com")
+        or u_lower.startswith("http://www.youtube.com")
+        or u_lower.startswith("https://youtube.com")
+        or u_lower.startswith("http://youtube.com")
+        or u_lower.startswith("https://youtu.be")
+        or u_lower.startswith("http://youtu.be")
+        or u_lower.startswith("https://m.youtube.com")
+        or u_lower.startswith("http://m.youtube.com")
+    ):
+        return True
+
+    try:
+        parsed = urllib.parse.urlparse(u_lower)
+        host = (parsed.hostname or "").lower()
+        if not host:
+            return True
+        if host in INTERNAL_HOSTS:
+            return True
+        if any(host == ah or host.endswith("." + ah) for ah in ARCHIVE_HOSTS):
+            return True
+        if any(host == eh or host.endswith("." + eh) for eh in EXCLUDED_HOSTS):
+            return True
+    except Exception:
+        return True
+
+    return False
+
+
 class LinkChecker:
     def __init__(
         self,
         cache_path: str = DEFAULT_CACHE_FILE,
         workers: int = 15,
         timeout: int = 8,
-        redirect_mode: str = "all",
+        redirect_mode: str = "follow",
         verify_anterior: bool = True,
         use_cache: bool = True,
         verbose: bool = False,
@@ -101,6 +162,7 @@ class LinkChecker:
         self.cache: Dict[str, dict] = {}
         self.archive_cache: Dict[str, dict] = {}
         self.cache_dirty = False
+        self.lock = threading.Lock()
 
         self.archive_session = requests.Session()
         self.archive_session.headers.update({"User-Agent": USER_AGENT})
@@ -125,19 +187,24 @@ class LinkChecker:
         atexit.register(self.save_cache)
 
     def save_cache(self):
-        """Sauvegarde atomique du cache JSON."""
-        if not self.use_cache or not self.cache_dirty:
+        """Sauvegarde atomique et thread-safe du cache JSON."""
+        if not self.use_cache:
             return
+
+        with self.lock:
+            if not self.cache_dirty:
+                return
+            payload = {
+                "url_checks": dict(self.cache),
+                "archive_resolutions": dict(self.archive_cache),
+            }
+            self.cache_dirty = False
+
         temp_path = self.cache_path + ".tmp"
         try:
             with open(temp_path, "w", encoding="utf-8") as f:
-                payload = {
-                    "url_checks": self.cache,
-                    "archive_resolutions": self.archive_cache,
-                }
                 json.dump(payload, f, ensure_ascii=False, indent=2)
             os.replace(temp_path, self.cache_path)
-            self.cache_dirty = False
         except Exception as e:
             if os.path.exists(temp_path):
                 try:
@@ -150,7 +217,8 @@ class LinkChecker:
     def is_external_url(url: str) -> bool:
         """
         Détermine si l'URL est une URL externe à vérifier.
-        Exclut immédiatement tout lien commençant par https://web.archive.org ou autre archive.
+        Exclut immédiatement tout lien commençant par https://web.archive.org,
+        https://fr.quora.com, https://www.youtube.com, etc.
         """
         if not url:
             return False
@@ -159,31 +227,7 @@ class LinkChecker:
         if not (u_clean.startswith("http://") or u_clean.startswith("https://")):
             return False
 
-        u_lower = u_clean.lower()
-
-        # Évite explicitement de tester ou re-tester les liens web.archive.org et services d'archives
-        if (
-            u_lower.startswith("https://web.archive.org")
-            or u_lower.startswith("http://web.archive.org")
-            or u_lower.startswith("https://archive.org")
-            or u_lower.startswith("http://archive.org")
-            or "web.archive.org/" in u_lower
-            or "archive.org/web/" in u_lower
-        ):
-            return False
-
-        try:
-            parsed = urllib.parse.urlparse(u_clean)
-            host = (parsed.hostname or "").lower()
-            if not host:
-                return False
-            if host in INTERNAL_HOSTS:
-                return False
-            if any(host == ah or host.endswith("." + ah) for ah in ARCHIVE_HOSTS):
-                return False
-            return True
-        except Exception:
-            return False
+        return not is_excluded_url(u_clean)
 
     def probe_url(self, url: str) -> dict:
         """Effectue la requête réseau réelle et stocke les caractéristiques HTTP brutes."""
@@ -305,16 +349,24 @@ class LinkChecker:
 
     def get_or_probe(self, url: str) -> dict:
         """Récupère l'entrée en cache ou effectue la requête réseau."""
-        if self.use_cache and url in self.cache:
-            return self.cache[url]
+        if self.use_cache:
+            with self.lock:
+                if url in self.cache:
+                    return self.cache[url]
 
         entry = self.probe_url(url)
 
         if self.use_cache:
-            self.cache[url] = entry
-            self.cache_dirty = True
+            with self.lock:
+                self.cache[url] = entry
+                self.cache_dirty = True
 
         return entry
+
+    def check_url(self, url: str) -> Tuple[bool, str, int]:
+        """Vérifie une URL unique (utilise le cache si disponible)."""
+        entry = self.get_or_probe(url)
+        return self.evaluate_entry(url, entry)
 
     def batch_check_urls(self, urls: Set[str]) -> Dict[str, Tuple[bool, str, int]]:
         """Vérifie un lot d'URLs en parallèle."""
@@ -359,9 +411,11 @@ class LinkChecker:
         full_target_ts = target_ts if len(target_ts) == 14 else target_ts[:8] + "235959"
         cache_key = f"{url}@{full_target_ts}"
 
-        if self.use_cache and cache_key in self.archive_cache:
-            c = self.archive_cache[cache_key]
-            return c["archive_url"], c["is_anterior"], c["note"]
+        if self.use_cache:
+            with self.lock:
+                if cache_key in self.archive_cache:
+                    c = self.archive_cache[cache_key]
+                    return c["archive_url"], c["is_anterior"], c["note"]
 
         if not self.verify_anterior:
             arch_url = f"https://web.archive.org/web/{full_target_ts[:8]}/{url}"
@@ -380,8 +434,9 @@ class LinkChecker:
                     fallback = f"https://web.archive.org/web/{full_target_ts[:8]}/{url}"
                     res = (fallback, False, "Non archivé (404)")
                     if self.use_cache:
-                        self.archive_cache[cache_key] = {"archive_url": res[0], "is_anterior": res[1], "note": res[2]}
-                        self.cache_dirty = True
+                        with self.lock:
+                            self.archive_cache[cache_key] = {"archive_url": res[0], "is_anterior": res[1], "note": res[2]}
+                            self.cache_dirty = True
                     return res
 
                 if location:
@@ -394,8 +449,9 @@ class LinkChecker:
                             clean_url = f"https://web.archive.org/web/{found_ts}/{url}"
                             res = (clean_url, True, f"Instantané antérieur le plus proche ({found_ts} <= {full_target_ts})")
                             if self.use_cache:
-                                self.archive_cache[cache_key] = {"archive_url": res[0], "is_anterior": res[1], "note": res[2]}
-                                self.cache_dirty = True
+                                with self.lock:
+                                    self.archive_cache[cache_key] = {"archive_url": res[0], "is_anterior": res[1], "note": res[2]}
+                                    self.cache_dirty = True
                             return res
 
                         # Cas 2 : L'instantané est POSTÉRIEUR -> consulter le TimeMap
@@ -414,15 +470,17 @@ class LinkChecker:
                                     clean_url = f"https://web.archive.org/web/{best_ts}/{url}"
                                     res = (clean_url, True, f"Ajusté au snapshot antérieur le plus proche ({best_ts} <= {full_target_ts})")
                                     if self.use_cache:
-                                        self.archive_cache[cache_key] = {"archive_url": res[0], "is_anterior": res[1], "note": res[2]}
-                                        self.cache_dirty = True
+                                        with self.lock:
+                                            self.archive_cache[cache_key] = {"archive_url": res[0], "is_anterior": res[1], "note": res[2]}
+                                            self.cache_dirty = True
                                     return res
                                 else:
                                     clean_url = f"https://web.archive.org/web/{found_ts}/{url}"
                                     res = (clean_url, False, f"Aucun antérieur existant (premier connu le {found_ts})")
                                     if self.use_cache:
-                                        self.archive_cache[cache_key] = {"archive_url": res[0], "is_anterior": res[1], "note": res[2]}
-                                        self.cache_dirty = True
+                                        with self.lock:
+                                            self.archive_cache[cache_key] = {"archive_url": res[0], "is_anterior": res[1], "note": res[2]}
+                                            self.cache_dirty = True
                                     return res
                         except Exception:
                             pass
@@ -430,8 +488,9 @@ class LinkChecker:
                         clean_url = f"https://web.archive.org/web/{found_ts}/{url}"
                         res = (clean_url, False, f"Instantané postérieur ({found_ts} > {full_target_ts})")
                         if self.use_cache:
-                            self.archive_cache[cache_key] = {"archive_url": res[0], "is_anterior": res[1], "note": res[2]}
-                            self.cache_dirty = True
+                            with self.lock:
+                                self.archive_cache[cache_key] = {"archive_url": res[0], "is_anterior": res[1], "note": res[2]}
+                                self.cache_dirty = True
                         return res
 
                 break
@@ -446,9 +505,11 @@ class LinkChecker:
         fallback = f"https://web.archive.org/web/{full_target_ts[:8]}/{url}"
         res = (fallback, False, "Redirection standard")
         if self.use_cache:
-            self.archive_cache[cache_key] = {"archive_url": res[0], "is_anterior": res[1], "note": res[2]}
-            self.cache_dirty = True
+            with self.lock:
+                self.archive_cache[cache_key] = {"archive_url": res[0], "is_anterior": res[1], "note": res[2]}
+                self.cache_dirty = True
         return res
+
 
 
 
@@ -499,16 +560,7 @@ def find_urls_in_post(content: str) -> List[str]:
     def _should_include(raw_url: str) -> bool:
         if not raw_url:
             return False
-        clean = raw_url.strip().lower()
-        if (
-            clean.startswith("https://web.archive.org")
-            or clean.startswith("http://web.archive.org")
-            or clean.startswith("https://archive.org")
-            or clean.startswith("http://archive.org")
-            or "web.archive.org" in clean
-        ):
-            return False
-        return True
+        return not is_excluded_url(raw_url)
 
     # Liens Markdown : [texte](url) ou [texte](url "titre") (exclut les images ![alt](src))
     for m in re.finditer(
@@ -642,12 +694,12 @@ def main():
     parser.add_argument(
         "--redirect-mode",
         choices=["all", "ignore-https", "follow"],
-        default="all",
+        default="follow",
         help=(
             "Politique pour les redirections 3xx : "
-            "'all' = toute redirection remplace par l'archive ; "
-            "'ignore-https' = conserve le lien s'il s'agit d'une simple redirection http vers https valide 200 ; "
-            "'follow' = suit les redirections et remplace uniquement si la cible finale est en erreur."
+            "'follow' (par défaut) = suit les redirections et ne remplace que si la destination finale est en erreur (tolère les passages http->https et redirections valides) ; "
+            "'ignore-https' = conserve le lien uniquement si redirection http vers https valide 200, remplace les autres redirections ; "
+            "'all' = toute redirection est considérée brisée et remplacée par l'archive."
         ),
     )
     parser.add_argument(
@@ -758,63 +810,34 @@ def main():
             all_external_urls.update(ext_urls)
 
     print(f"[*] Total d'URLs externes uniques à tester : {len(all_external_urls)}")
+    print(f"[*] Articles contenant des liens à analyser : {len(post_links)}")
 
-    # 2. Étape de test parallèle des URLs
-    url_results = checker.batch_check_urls(all_external_urls)
-
-    # 3. Étape de résolution des instantanés d'archive pour les liens à remplacer
-    broken_targets: List[Tuple[str, str, str, str]] = []  # (fpath, url, date_ts, reason)
-    for fpath, (date_ts, urls, _) in post_links.items():
-        for u in urls:
-            if u in url_results:
-                is_broken, reason, _ = url_results[u]
-                if is_broken:
-                    broken_targets.append((fpath, u, date_ts, reason))
-
-    print(f"\n[*] Résolution des archives antérieures pour {len(broken_targets)} lien(s) défaillant(s)...")
-
-    # Résolution en parallèle des snapshots avec vérification d'antériorité
-    resolved_archives: Dict[Tuple[str, str], Tuple[str, bool, str]] = {}
-    unique_pairs = {(u, date_ts) for (_, u, date_ts, _) in broken_targets}
-
-    with concurrent.futures.ThreadPoolExecutor(max_workers=min(checker.workers, 3)) as executor:
-        future_to_pair = {
-            executor.submit(checker.resolve_closest_anterior_snapshot, u, d_ts): (u, d_ts)
-            for (u, d_ts) in unique_pairs
-        }
-        done = 0
-        total_p = len(unique_pairs)
-        for future in concurrent.futures.as_completed(future_to_pair):
-            pair = future_to_pair[future]
-            try:
-                res = future.result()
-            except Exception as e:
-                res = (f"https://web.archive.org/web/{pair[1][:8]}/{pair[0]}", False, f"Exception ({e})")
-            resolved_archives[pair] = res
-            done += 1
-            if done % 10 == 0 or done == total_p:
-                print(f"    Progression résolution archives : {done}/{total_p} ({done * 100 // total_p}%)")
-                checker.save_cache()
-
-    checker.save_cache()
-
-    # 4. Étape d'application chirurgicale des remplacements dans les fichiers
+    # 2. Analyse, résolution et mise à jour progressive des articles
     total_modified_files = 0
     total_replaced_links = 0
     anterior_count = 0
     non_anterior_count = 0
+    processed_count = 0
+    total_posts = len(post_links)
+    stats_lock = threading.Lock()
 
-    print("\n[*] Application des remplacements dans les fichiers...")
-    for fpath, (date_ts, urls, content) in post_links.items():
+    print("\n[*] Analyse et mise à jour immédiate des articles au fil de l'eau...")
+
+    def process_single_post(item):
+        nonlocal total_modified_files, total_replaced_links, anterior_count, non_anterior_count, processed_count
+        fpath, (date_ts, urls, content) = item
+
         replacements = {}
         for u in urls:
-            if (u, date_ts) in resolved_archives:
-                arch_url, is_anterior, note = resolved_archives[(u, date_ts)]
+            is_broken, reason, _ = checker.check_url(u)
+            if is_broken:
+                arch_url, is_anterior, note = checker.resolve_closest_anterior_snapshot(u, date_ts)
                 replacements[u] = arch_url
-                if is_anterior:
-                    anterior_count += 1
-                else:
-                    non_anterior_count += 1
+                with stats_lock:
+                    if is_anterior:
+                        anterior_count += 1
+                    else:
+                        non_anterior_count += 1
 
                 if args.verbose or args.dry_run:
                     rel_path = os.path.relpath(fpath, repo_root)
@@ -823,13 +846,10 @@ def main():
                     print(f"    - URL originale : {u}")
                     print(f"    - Date article  : {date_ts[:4]}-{date_ts[4:6]}-{date_ts[6:8]}")
                     print(f"    - Archive cible : {arch_url}")
-                    print(f"    - Détails       : {note}")
+                    print(f"    - Motif / Note  : {reason} | {note}")
 
         if replacements:
             new_content = replace_urls_in_post(content, replacements)
-            total_replaced_links += len(replacements)
-            total_modified_files += 1
-
             if not args.dry_run:
                 try:
                     with open(fpath, "w", encoding="utf-8") as fp:
@@ -837,11 +857,26 @@ def main():
                 except Exception as e:
                     print(f"[!] Erreur d'écriture sur {fpath} : {e}")
 
+            with stats_lock:
+                total_modified_files += 1
+                total_replaced_links += len(replacements)
+                rel_path = os.path.relpath(fpath, repo_root)
+                print(f"[✓ Sauvegardé {total_modified_files}] {rel_path} ({len(replacements)} lien(s) remplacé(s))")
+
+        with stats_lock:
+            processed_count += 1
+            if processed_count % 25 == 0 or processed_count == total_posts:
+                print(f"    Progression : {processed_count}/{total_posts} articles ({processed_count * 100 // total_posts}%) - {total_modified_files} modifiés")
+                checker.save_cache()
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as executor:
+        list(executor.map(process_single_post, post_links.items()))
+
     checker.save_cache()
 
     print("\n================== BILAN ==================")
     print(f"Articles analysés        : {len(files)}")
-    print(f"Articles concernés       : {total_modified_files}")
+    print(f"Articles modifiés        : {total_modified_files}")
     print(f"Liens remplacés          : {total_replaced_links}")
     if checker.verify_anterior:
         print(f"  - Instantanés antérieurs confirmés : {anterior_count}")
@@ -849,7 +884,7 @@ def main():
     if args.dry_run:
         print("[!] Mode simulation : AUCUN fichier n'a été modifié sur le disque.")
     else:
-        print("[+] Modifications écrites avec succès dans les fichiers Markdown.")
+        print("[+] Modifications écrites au fil de l'eau avec succès dans les fichiers Markdown.")
 
 
 if __name__ == "__main__":
