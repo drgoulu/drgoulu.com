@@ -1,17 +1,17 @@
 ---
-title: "Placebo et nocebo"
-slug: "placebo-et-nocebo"
-date: 2009-05-20
-categories:
-  - "Pourquoi"
-tags:
-  - "homeopathie"
-  - "psychologie"
-  - "sante"
-coverImage: "./images/fe628e8cff89937c9285a9079e6ae761.jpg"
-
 aliases:
-  - "/2009/05/21/placebo-et-nocebo/"
+  - /2009/05/21/placebo-et-nocebo/
+title: Placebo et nocebo
+date: 2009-05-21
+draft: false
+tags:
+  - homeopathie
+  - psychologie
+  - sante
+categories:
+  - Pourquoi
+slug: placebo-et-nocebo
+coverImage: ./images/fe628e8cff89937c9285a9079e6ae761.jpg
 ---
 
 {{< figure src="./images/fe628e8cff89937c9285a9079e6ae761.jpg" alt="les placebos colorés et chers ont plus deffet que du sucre blanc" caption="les placebos colorés et chers ont plus d'effet que du sucre blanc" width="297" >}}
