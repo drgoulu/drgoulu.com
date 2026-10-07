@@ -34,6 +34,6 @@ Enfin, si vous avez une processeur à plus de 2 coeurs, vous n'avez plus aucune 
 
 ### Références
 
-1. <span id="ref-1"></span>Daniel Abegg, "les thermo TRP - des canaux ioniques sensibles à la température", 2009, Université de Genève [pdf](</posts/2010/images/Abegg - 2009 - Les thermo TRP, Des canaux ioniques sensibles à la température.pdf>)
+1. <span id="ref-1"></span>Daniel Abegg, "les thermo TRP - des canaux ioniques sensibles à la température", 2009, Université de Genève ([pdf](</posts/2010/images/Abegg - 2009 - Les thermo TRP, Des canaux ioniques sensibles à la température.pdf>) gracieusement transmis par l'auteur en octobre 2026 )
 2. <span id="ref-2"></span>David D McKemy, "How cold is it? TRPM8 and TRPA1 in the molecular logic of cold sensation", Molecular Pain 2005, 1:16 {{< altmetric pmid="15847696" >}}
 3. <span id="ref-3"></span>M Lison, S H Blondheim, and R N Melmed "A polymorphism of the ability to smell urinary metabolites of asparagus.",Br Med J. 1980 December 20; 281(6256): 1676–1678 {{< altmetric pmid="7448566" >}}
