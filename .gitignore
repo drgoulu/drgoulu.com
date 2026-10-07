@@ -80,4 +80,5 @@ content/tags/*/_index.md
 # Reference extraction caches
 .ref_cache.json
 .pourlascience_cache.html
+.link_cache.json
 
