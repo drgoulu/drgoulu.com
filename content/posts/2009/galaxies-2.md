@@ -1,14 +1,15 @@
 ---
-title: "Galaxies proches et lointaines"
-slug: "galaxies-2"
+title: Galaxies proches et lointaines
 date: 2009-02-17
+draft: false
+tags:
+  - astro
+  - galaxies
+  - hubble
 categories:
-  - "Pourquoi"
-tags: 
-  - "astro"
-  - "galaxies"
-  - "hubble"
-coverImage: "./images/eff463f983c0f0eca3b8f3299bd0927d.jpg"
+  - Pourquoi
+slug: galaxies-2
+coverImage: ./images/eff463f983c0f0eca3b8f3299bd0927d.jpg
 ---
 
 Hubble nous fournit une fois encore une [image magnifique](http://www.spacetelescope.org/news/heic0901/) :
@@ -31,6 +32,7 @@ Voilà donc encore quelques centaines de galaxies de plus à classifier et à é
 
 Source : "[La galaxie NGC 4921 photographiée par le télescope Hubble](http://www.lecosmographe.com/blog/?p=836)" sur Le Cosmographe, un bon blog d'astro que je découvre à l'instant
 
-Mise à jour du 21.2.09 : Le [HubbleCast](/2008/04/26/hubblecast/) #26 est consacré à cette image:
+Mise à jour du 21.2.2009 : Le [HubbleCast](/2008/04/26/hubblecast/) #26 est consacré à cette image:
+mise à jour du 8.10.2026 : video convertie de .flv en .mp4
 
-\[embed\]http://www.spacetelescope.org/static/archives/videos/medium\_flash/heic0901c.flv\[/embed\]
+{{< video "./videos/heic0901c.mp4" >}}

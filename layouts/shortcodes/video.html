@@ -1,0 +1,29 @@
+{{ $src := .Get 0 | default (.Get "src") }}
+{{ $video_url := $src }}
+
+{{ if or (strings.HasPrefix $src "http://") (strings.HasPrefix $src "https://") (strings.HasPrefix $src "/") }}
+  {{ $video_url = $src | relURL }}
+{{ else }}
+  {{ $clean := strings.TrimPrefix "./" $src }}
+  {{ $res := .Page.Resources.GetMatch $clean }}
+  {{ if $res }}
+    {{ $video_url = $res.RelPermalink }}
+  {{ else }}
+    {{ $year := .Page.Date.Format "2006" }}
+    {{ $section := .Page.Section | default "posts" }}
+    {{ $video_url = printf "/%s/%s/%s" $section $year $clean | relURL }}
+  {{ end }}
+{{ end }}
+
+{{ $ext := path.Ext $video_url | strings.TrimPrefix "." | lower }}
+{{ $type := "video/mp4" }}
+{{ if eq $ext "webm" }}
+  {{ $type = "video/webm" }}
+{{ else if eq $ext "ogg" }}
+  {{ $type = "video/ogg" }}
+{{ end }}
+
+<video width="100%" controls>
+    <source src="{{ $video_url }}" type="{{ .Get "type" | default $type }}">
+    Votre navigateur ne supporte pas la lecture de cette vidéo.
+</video>
