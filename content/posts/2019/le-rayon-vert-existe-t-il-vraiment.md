@@ -1,16 +1,16 @@
 ---
 title: Le rayon vert existe-t-il vraiment ?
-slug: le-rayon-vert-existe-t-il-vraiment
-date: '2019-12-16'
-draft: false
-categories:
-- Quora
+date: 2019-12-16
+draft: true
 tags:
-- sciences
-- nature
-- phenomenes-physiques
-- optique
-- phenomenes-naturels
+  - sciences
+  - nature
+  - phenomenes-physiques
+  - optique
+  - phenomenes-naturels
+categories:
+  - Quora
+slug: le-rayon-vert-existe-t-il-vraiment
 coverImage: ./images/qimg-dd19246a0c1ad82f3e97763c69714139.gif
 ---
 
