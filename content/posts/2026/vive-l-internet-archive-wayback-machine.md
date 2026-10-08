@@ -36,11 +36,13 @@ Un quart d'heure plus tard, ça n'a pas corrigé tous les problèmes, mais beauc
 
 
 
+
 Articles analysés        : 18255
 Articles modifiés        : 1895
 Liens remplacés          : 3252
     - Instantanés antérieurs confirmés : 1335
     - Sans capture antérieure trouvée  : 2045
+
 
 
 
@@ -55,7 +57,7 @@ Là encore c'était faisable sans IA, et peut être sous WordPress, mais beaucou
 
 La Wayback Machine remplit désormais aussi une autre fonction sur drgoulu : lier les sites que je ne voulais pas référencer.
 
-Pour illustrer certains articles sur les pseudo sciences, je voulais faire des liens mais sans permettre aux sites visés de se prévaloir d'une référence de ma part, qui aurait fait monter leur score sur Google. J'ai donc utilisé le site [donotlink.it/](https://web.archive.org/web/20201101112122/https://donotlink.it/) qui saisait ça, mais qui a disparu.
+Pour illustrer certains articles sur les pseudo sciences, je voulais faire des liens mais sans permettre aux sites visés de se prévaloir d'une référence de ma part, qui aurait fait monter leur score sur Google. J'ai donc utilisé le site [donotlink.it](https://web.archive.org/web/20201101112122/https://donotlink.it/) qui faisait ça, mais qui a disparu.
 
 Je découvre grâce à la Wayback Machine que son [code est sur GitHub](https://github.com/connyduck/donotlink), mais je n'ai pas l'intention de ressusciter ce site désormais peu utile.
 
