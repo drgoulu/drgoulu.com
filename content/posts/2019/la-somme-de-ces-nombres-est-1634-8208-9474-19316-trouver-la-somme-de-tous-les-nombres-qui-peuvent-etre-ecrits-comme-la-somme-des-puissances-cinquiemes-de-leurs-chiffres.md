@@ -28,6 +28,6 @@ def problem_030():
 
 ```
 
-la fonction digits étant dans ma librairie [Goulib.math2](https://goulib.readthedocs.io/en/latest/_modules/Goulib/math2.html#digits) .
+la fonction digits étant dans ma librairie [Goulib.math2](https://web.archive.org/web/20230925195105/https://goulib.readthedocs.io/en/latest/_modules/Goulib/math2.html#digits) .
 
 [Programmer pour le fun - Pourquoi Comment Combien](/2009/02/24/project_euler/)

@@ -35,8 +35,8 @@ On pourrait peut-être l'éradiquer à coups de vaccins obligatoires comme pour 
 
 Notes de bas de page
 
-[[1]](#cite-PIXLQ)[A Rare Case of Human Coronavirus 229E Associated with Acute Respiratory Distress Syndrome in a Healthy Adult](https://www.hindawi.com/journals/criid/2018/6796839/)
+[[1]](#cite-PIXLQ)[A Rare Case of Human Coronavirus 229E Associated with Acute Respiratory Distress Syndrome in a Healthy Adult](https://web.archive.org/web/20210423002624/https://www.hindawi.com/journals/criid/2018/6796839/)
 
 [[2]](#cite-GxZyH)[Le coronavirus, déjà l’origine d’une épidémie il y a plus de 20 000 ans](https://www.la-croix.com/France/Le-coronavirus-deja-lorigine-dune-epidemie-20-000-ans-2021-06-30-1201164093)
 
-[[3]](#cite-sGoHG)[An ancient viral epidemic involving host coronavirus interacting genes more than 20,000 years ago in East Asia](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00794-6?_returnURL=https://linkinghub.elsevier.com/retrieve/pii/S0960982221007946?showall=true# )
+[[3]](#cite-sGoHG)[An ancient viral epidemic involving host coronavirus interacting genes more than 20,000 years ago in East Asia](https://web.archive.org/web/20210620085211/https://www.cell.com/current-biology/fulltext/S0960-9822(21)00794-6?_returnURL=https://linkinghub.elsevier.com/retrieve/pii/S0960982221007946?showall=true# )

@@ -12,7 +12,7 @@ tags:
 coverImage: "./images/e53c119c903b376dcfc13774fb184660.jpg"
 ---
 
-Vu cette passionnante [présentation au TED de Kevin Kelly intitulée "Prédiction sur les 5000 prochains jours du web"](http://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web.html), disponible aussi sur YouTube :
+Vu cette passionnante [présentation au TED de Kevin Kelly intitulée "Prédiction sur les 5000 prochains jours du web"](https://web.archive.org/web/20081207045911/http://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web.html), disponible aussi sur YouTube :
 
 {{< youtube id="yDYCf4ONh5M" >}}
 
@@ -55,20 +55,20 @@ Considérant que la puissance totale de La Machine actuelle est proche de celle 
 ### Références:
 
 1. <span id="ref-1"></span>"[Stats - Web Worldwide](http://www.clickz.com/stats)" sur clickZ
-2. <span id="ref-2"></span>"[Mobile Messaging Futures 2007-2012](http://www.portioresearch.com/MMF07-12.html)", Portio Research
+2. <span id="ref-2"></span>"[Mobile Messaging Futures 2007-2012](https://web.archive.org/web/20081112020641/http://www.portioresearch.com/MMF07-12.html)", Portio Research
 3. <span id="ref-3"></span>"[World Factbook](https://www.cia.gov/library/publications/the-world-factbook/index.html)", CIA
-4. <span id="ref-4"></span>Jonathan G. Koomey, "[Estimating Total Power Consumption by Servers in the U.S. and the World](http://enterprise.amd.com/Downloads/svrpwrusecompletefinal.pdf)", AMD, February 15, 2007
+4. <span id="ref-4"></span>Jonathan G. Koomey, "[Estimating Total Power Consumption by Servers in the U.S. and the World](https://web.archive.org/web/20081128063903/http://enterprise.amd.com/Downloads/svrpwrusecompletefinal.pdf)", AMD, February 15, 2007
 5. <span id="ref-5"></span>"[Number of Neurons in a Human Brain](http://hypertextbook.com/facts/2002/AniciaNdabahaliye2.shtml)",  [The Physics Factbook](http://hypertextbook.com/facts/)
-6. <span id="ref-6"></span>[Marcus P. Zillman](http://www.llrx.com/authors/398), "[Deep Web Research 2007](http://www.llrx.com/features/deepweb2007.htm)", December 17, 2006
+6. <span id="ref-6"></span>[Marcus P. Zillman](https://web.archive.org/web/20081209035611/http://www.llrx.com/authors/398), "[Deep Web Research 2007](https://web.archive.org/web/20090102030923/http://www.llrx.com/features/deepweb2007.htm)", December 17, 2006
 7. <span id="ref-7"></span>Andrei Z. Broder, Marc Najork, Janet L. Wiener, "[Efficient URL Caching for World Wide Web Crawling](http://research.microsoft.com/en-us/projects/sv-pubs/p96-broder/p96-broder.pdf)", WWW2003, May 20–24, 2003, Budapest, Hungary.
-8. <span id="ref-8"></span>"[The Radicati Group, Inc. Releases Q2 2007 Market Numbers Update](http://www.marketwire.com/mw/rel_us_print.jsp?id=752247)"
+8. <span id="ref-8"></span>"[The Radicati Group, Inc. Releases Q2 2007 Market Numbers Update](https://web.archive.org/web/20071109193347/http://www.marketwire.com/mw/rel_us_print.jsp?id=752247)"
 9. <span id="ref-9"></span>"[IT Facts](http://www.itfacts.biz/?id=P7846)"
-10. <span id="ref-10"></span>[Sean Michael Kerner](http://www.internetnews.com/feedback.php/http://www.internetnews.com/stats/article.php/3521456) "[IM Accounts to Number in The Billions](http://www.internetnews.com/stats/article.php/3521456)", InternetNews.com, July 19, 2005
+10. <span id="ref-10"></span>[Sean Michael Kerner](https://web.archive.org/web/20081205075830/http://www.internetnews.com/feedback.php/http://www.internetnews.com/stats/article.php/3521456) "[IM Accounts to Number in The Billions](https://web.archive.org/web/20081204095612/http://www.internetnews.com/stats/article.php/3521456)", InternetNews.com, July 19, 2005
 11. <span id="ref-11"></span>Kevin Kelly "[How much does one search cost?](http://www.kk.org/thetechnium/archives/2007/10/how_much_does_o.php)"
-12. <span id="ref-12"></span>[Nielsen Online](http://www.nielsen-online.com/press.jsp?section=pr_netv&nav=3)
+12. <span id="ref-12"></span>[Nielsen Online](https://web.archive.org/web/20081115162634/http://www.nielsen-online.com/press.jsp?section=pr_netv&nav=3)
 13. <span id="ref-13"></span>"[Global Bandwidth Research Service](http://www.kk.org/reCCearch/Executive_Summary.pdf)", Primetrica, 2007
-14. <span id="ref-14"></span>[Peter Lyman](http://people.ischool.berkeley.edu/~plyman) et al. "[HOW MUCH INFORMATION 2003?](http://www2.sims.berkeley.edu/research/projects/how-much-info-2003/printable_report.pdf)", Université de Berkeley
-15. <span id="ref-15"></span>"[The Diverse and Exploding Digital Universe](http://www.emc.com/collateral/analyst-reports/diverse-exploding-digital-universe.pdf) - An Updated Forecast of Worldwide Information Growth Through 2011", IDC
+14. <span id="ref-14"></span>[Peter Lyman](https://web.archive.org/web/20081217150452/http://people.ischool.berkeley.edu/~plyman) et al. "[HOW MUCH INFORMATION 2003?](https://web.archive.org/web/20080510134353/http://www2.sims.berkeley.edu/research/projects/how-much-info-2003/printable_report.pdf)", Université de Berkeley
+15. <span id="ref-15"></span>"[The Diverse and Exploding Digital Universe](https://web.archive.org/web/20090206002918/http://www.emc.com/collateral/analyst-reports/diverse-exploding-digital-universe.pdf) - An Updated Forecast of Worldwide Information Growth Through 2011", IDC
 16. <span id="ref-16"></span>Kevin Kelly "[How Much Power Does the Internet Consume?](http://www.kk.org/thetechnium/archives/2007/10/how_much_power.php)", 17 octobre 2007
 
 ### Autres articles sur ce thème

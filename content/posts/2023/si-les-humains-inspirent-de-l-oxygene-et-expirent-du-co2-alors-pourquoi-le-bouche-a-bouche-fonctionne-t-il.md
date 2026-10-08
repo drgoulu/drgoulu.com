@@ -15,7 +15,7 @@ coverImage: ./images/quora.png
 >
 >
 >
-> ( [Ligue Pulmonaire](http://iguepulmonaire.ch/fr/preserver-les-poumons/connaissances/poumons-et-voies-respiratoires.html))
+> ( [Ligue Pulmonaire](https://web.archive.org/web/20230331/http://iguepulmonaire.ch/fr/preserver-les-poumons/connaissances/poumons-et-voies-respiratoires.html))
 
 Donc le patient inhale encore 80% du taux d'oxygène normal, ce qui correspond environ à ce que vous respirez en montant de 1500m en montagne.
 

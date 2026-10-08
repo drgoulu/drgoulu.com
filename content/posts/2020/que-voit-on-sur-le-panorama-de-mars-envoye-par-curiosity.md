@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Que-voit-on-sur-le-panorama-de-Mars-envoy%C3%A9-par-Curiosity/answer/Dr-Goulu)*
 
-Lequel ? [Curiosity rover: Mars panorama](https://www.360pano.eu/show/?id=733) ? Des cailloux, du sable, c'est magnifique.
+Lequel ? [Curiosity rover: Mars panorama](https://web.archive.org/web/20201108144034/https://www.360pano.eu/show/?id=733) ? Des cailloux, du sable, c'est magnifique.

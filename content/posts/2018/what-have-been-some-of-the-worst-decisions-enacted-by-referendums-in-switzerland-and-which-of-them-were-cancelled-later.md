@@ -29,9 +29,9 @@ The famous [Swiss minaret referendum of 2009](w:en:Swiss_minaret_referendum,_200
 
 On the other side, you should consider that at least 4 intiatives have a strong impact on modern Switzerland:
 
-- 1918 [Proportional election of the](http://www.admin.ch/ch/f/pore/vi/vis12.html) [National Council](w:en:National_Council_(Switzerland)) ( ~ US Congress). it allowed socialists to be represented, and then enter the (proportional also) government in 1943.
-- 1921 [Référendum for interational treaties](http://www.admin.ch/ch/f/pore/vi/vis11.html). Because (or thanks ?) to it, the people would have to vote to enter EU for exemple.
-- 1949 [Return of direct democracy](http://www.admin.ch/ch/f/pore/vi/vis56.html), which was restricted during WW2. Surprisingly, 49.3% of the Swiss citizens were ready to abandon their political rights to form something closer to a Republic.
-- 2002 [Adhesion to UNO](http://www.admin.ch/ch/f/pore/vi/vis292t.html). It was the wish of the swiss population to join, not of the government.
+- 1918 [Proportional election of the](https://web.archive.org/web/20190701155641/http://www.admin.ch/ch/f/pore/vi/vis12.html) [National Council](w:en:National_Council_(Switzerland)) ( ~ US Congress). it allowed socialists to be represented, and then enter the (proportional also) government in 1943.
+- 1921 [Référendum for interational treaties](https://web.archive.org/web/20160303193126/http://www.admin.ch/ch/f/pore/vi/vis11.html). Because (or thanks ?) to it, the people would have to vote to enter EU for exemple.
+- 1949 [Return of direct democracy](https://web.archive.org/web/20200731003041/http://www.admin.ch/ch/f/pore/vi/vis56.html), which was restricted during WW2. Surprisingly, 49.3% of the Swiss citizens were ready to abandon their political rights to form something closer to a Republic.
+- 2002 [Adhesion to UNO](https://web.archive.org/web/20170202061439/http://www.admin.ch/ch/f/pore/vi/vis292t.html). It was the wish of the swiss population to join, not of the government.
 
 So I’d say initiatives are efficient to orient the general politics in the country. Even if only 10% are accepted, all generate a debate, sometimes the government proposes a more moderate “counter project” to fight initiatives that are too extreme but have good ideas, but sometimes politics fails to understand a popular worry, and this might exceptionally result in something like having the construction of minarets forbidden in a Constitution…

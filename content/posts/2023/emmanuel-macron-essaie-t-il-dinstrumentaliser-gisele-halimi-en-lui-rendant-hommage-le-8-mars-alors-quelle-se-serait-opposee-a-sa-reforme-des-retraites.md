@@ -30,4 +30,4 @@ En 2020, l'espérance de vie des femmes était de 85.1 ans (en recul de 0.5 ans 
 
 Elle aurait peut-être été contrainte de s'opposer à la réforme pour des motifs politiques, mais je pense qu'une femme intelligente et soucieuse de solidarité comme Gisèle Halimi serait mal à l'aise de faire payer sa longue retraite à ses filles.
 
-[https://www.ined.fr/fr/tout-savo...](https://www.ined.fr/fr/tout-savoir-population/graphiques-cartes/graphiques-interpretes/esperance-vie-france/)
+[https://www.ined.fr/fr/tout-savo...](https://web.archive.org/web/20230308184921/https://www.ined.fr/fr/tout-savoir-population/graphiques-cartes/graphiques-interpretes/esperance-vie-france/)

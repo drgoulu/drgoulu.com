@@ -35,6 +35,6 @@ Les [Résonances de Schumann](w:) sont certes des oscillations à très basse fr
 
 qui sont excitées notamment par les orages, donc oui, à proximité d'un orage vous allez constater plus d'harmoniques élevées. En fait c'est même comme ça qu'on mesure l'activité orageuse globale, et elle correspond aux prévisions du réchauffement climatique, pas à l'excursion magnétique en cours.
 
-(et re-référence : [Study on monitoring global warming by using the data of Schumann resonance](https://ui.adsabs.harvard.edu/abs/2009AGUFMAE43B0267H/abstract) )
+(et re-référence : [Study on monitoring global warming by using the data of Schumann resonance](https://web.archive.org/web/20230423022300/https://ui.adsabs.harvard.edu/abs/2009AGUFMAE43B0267H/abstract) )
 
 Pas besoin de nous "expliquer cette connexion à la résonance de Schumann", un lien vers une publication revue par les pairs suffira.

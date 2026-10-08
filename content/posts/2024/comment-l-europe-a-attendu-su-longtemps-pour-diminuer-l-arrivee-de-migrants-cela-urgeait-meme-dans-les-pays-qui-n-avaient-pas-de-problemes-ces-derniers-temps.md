@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 Pourquoi ça urgeait s'il n'y avait pas de problèmes? L'Allemagne a accueilli un million de syriens parce qu'elle avait besoin de main d'œuvre et ça a globalement bien marché
 
-[https://www.lesechos.fr/monde/eu...](https://www.lesechos.fr/monde/europe/comment-lallemagne-a-integre-ses-refugies-1347849)
+[https://www.lesechos.fr/monde/eu...](https://web.archive.org/web/20240717102136/https://www.lesechos.fr/monde/europe/comment-lallemagne-a-integre-ses-refugies-1347849)
 
 La Suisse a 25% de population étrangère plus 220'000 frontaliers français qui viennent travailler en Suisse chaque jour et ça se passe assez bien merci.
 

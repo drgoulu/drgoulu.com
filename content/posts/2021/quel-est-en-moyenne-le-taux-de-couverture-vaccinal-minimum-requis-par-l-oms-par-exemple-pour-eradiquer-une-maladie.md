@@ -15,7 +15,7 @@ Ca dépend beaucoup de la contagiosité de la maladie et de l'efficacité des va
 
 Pour les grandes épidémies du passé dont on a déjà oublié qu'elles ont fait des millions de morts et de handicapés (variole, rougeole, poliomyélite), il a fallu des taux de vaccination de 95% voire plus :
 
-[https://www.lemonde.fr/les-decod...](https://www.lemonde.fr/les-decodeurs/article/2017/08/01/comment-les-vaccins-ont-durablement-fait-reculer-les-maladies_5167442_4355770.html#rougeole)
+[https://www.lemonde.fr/les-decod...](https://web.archive.org/web/20211231135838/https://www.lemonde.fr/les-decodeurs/article/2017/08/01/comment-les-vaccins-ont-durablement-fait-reculer-les-maladies_5167442_4355770.html#rougeole)
 
 Pour la Covid-19, on pensait initialement qu'un taux d'environ 70% suffirait mais l'apparition rapides de nouveaux variants rend les choses plus complexes.
 

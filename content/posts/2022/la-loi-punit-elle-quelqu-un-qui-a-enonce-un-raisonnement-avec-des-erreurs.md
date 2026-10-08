@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Fort heureusement, la loi protège le droit de dire n'importe quoi, avec quelques limites tout de même, surtout pour des propos intentionnellement destinés à nuire.
 
-[https://www.maisondesjournaliste...](https://www.maisondesjournalistes.org/les-limites-de-la-liberte-dexpression/)
+[https://www.maisondesjournaliste...](https://web.archive.org/web/20220522225648/https://www.maisondesjournalistes.org/les-limites-de-la-liberte-dexpression/)
 
 Après, si vous êtes un professionnel et que votre "raisonnement avec des erreurs" conduit à un accident type effondrement de pont ou amputation de la mauvaise jambe (ou plutôt de la bonne…), on va vous poursuivre (ou votre assurance RC) parce qu'on vous a payé pour ne pas faire d'erreur…

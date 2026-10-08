@@ -25,7 +25,7 @@ La derniere fois qu'il a fait aussi chaud que maintenant sur l'ensemble de la pl
 
 Il n'y a aucun silence, juste des gens qui ne lisent pas les publications scientifiques.
 
-Maintenant si vous aimez le vin, vous pouvez consulter [La date des vendanges à Beaune](https://www.lemonde.fr/climat/article/2024/09/16/la-date-des-vendanges-a-beaune-temoin-du-changement-climatique_6319877_1652612.html)
+Maintenant si vous aimez le vin, vous pouvez consulter [La date des vendanges à Beaune](https://web.archive.org/web/20250818193722/https://www.lemonde.fr/climat/article/2024/09/16/la-date-des-vendanges-a-beaune-temoin-du-changement-climatique_6319877_1652612.html)
 
 ![](./images/qimg-fa46ce9eac75c70347eb3229e82b280d.jpg)
 

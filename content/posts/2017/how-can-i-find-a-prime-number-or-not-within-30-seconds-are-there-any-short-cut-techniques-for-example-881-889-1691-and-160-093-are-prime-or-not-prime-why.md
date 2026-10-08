@@ -12,7 +12,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://www.quora.com/How-can-I-find-a-prime-number-or-not-within-30-seconds-Are-there-any-short-cut-techniques-For-example-8818891691-and-160093-are-prime-or-not-prime-why/answer/Dr-Goulu)*
 
-Check [Chris Taylor’s answer to “a quick way to determine whether a number is prime by hand”](https://math.stackexchange.com/a/783414/131826)on StackExchange :
+Check [Chris Taylor’s answer to “a quick way to determine whether a number is prime by hand”](https://web.archive.org/web/20171120/https://math.stackexchange.com/a/783414/131826)on StackExchange :
 
 There's no super-fast way to determine if an arbitrary number is prime by hand. However, you can often quickly determine when a number *isn't* prime, which is often good enough, especially if you are only dealing with smallish numbers, as you often are in math competitions.
 

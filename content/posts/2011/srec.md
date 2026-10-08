@@ -14,7 +14,7 @@ coverImage: "./images/8a8cdacd9aa187f7e98e9c39ffc274e81.jpg"
 
 Chaque fois que vous arrêtez votre voiture à un feu rouge, son [énergie cinétique](w:) et la votre sont dissipées sous forme de chaleur dans vos freins. Quand le feu passe au vert, votre moteur régénère cette énergie cinétique en accélérant votre véhicule. Dès les années 50, Richard Feynman ([encore lui](/tags/feynman/)) avait imaginé un [système de récupération de l'énergie cinétique](w:) (SREC, ou KERS en anglais)  pour récupérer l'énergie au freinage, la stocker quelques instants, puis la réinjecter au démarrage. Aujourd'hui, les progrès technologiques permettent de réaliser cette idée.
 
-{{< figure src="./images/8a8cdacd9aa187f7e98e9c39ffc274e8.jpg" alt="les freins, ça chauffe... Some Damage 350/365 par attila acs sur flickr" caption="les freins, ça chauffe... \"Some Damage 350/365\" par attila acs sur flickr" link="http://www.flickr.com/photos/attilaacs/5107170944/in/photostream/" align="aligncenter" width="500" >}}
+{{< figure src="./images/8a8cdacd9aa187f7e98e9c39ffc274e8.jpg" alt="les freins, ça chauffe... Some Damage 350/365 par attila acs sur flickr" caption="les freins, ça chauffe... \"Some Damage 350/365\" par attila acs sur flickr" link="https://web.archive.org/web/20260203051710/http://www.flickr.com/photos/attilaacs/5107170944/in/photostream/" align="aligncenter" width="500" >}}
 
 L'énergie cinétique d'une voiture est étonnamment faible : lorsqu'une voiture de 1300 kg roule à 50 km/h , elle ne vaut que 130 [kilojoules](w:Joule), soit 36 [Wh](w:Kilowatt-heure) seulement en unités électriques, l'équivalent de la charge d'une batterie de laptop. Le problème est que cette énergie est libérée dans les quelques secondes que dure un freinage, donc la puissance à absorber est relativement élevée.
 
@@ -22,7 +22,7 @@ Dans notre exemple, en supposant un freinage bien doux de 5 secondes,  il faudr
 
 Volvo vient d'annoncer [[1]](#ref-1), [[2]](#ref-2) une alternative purement mécanique basée sur un volant d'inertie de 6 kg, mesurant 20 cm de diamètre et tournant jusqu'à 60 000 tours par minute sous vide. Après un petit calcul, on trouve que ce cylindre peut stocker 1.2 megajoules au moins\*\*, ce qui permet d'absorber l'énergie cinétique d'une voiture de 2 tonnes roulant à 90 km/h. Au démarrage, le système peut restituer 80 chevaux de puissance, soit 60 kW pendant 20 secondes, assez pour réduire la consommation d'essence de 20% selon Volvo. De plus, le "flywheel KERS" de Volvo se monte sur l'essieu arrière d'une traction avant et est donc totalement indépendant du bloc moteur :
 
-[![](./images/0c8e7bb46560ffbda2244f994fa9ea0c.jpg)](http://www.actinnovation.com/innovation-automobile/volvo-flywheel-kers-une-roue-dinertie-capable-de-reduire-de-20-la-consommation-de-carburant-2376.html)Encore plus que le volant d'inertie, l'élément clé du système est le "CVT module", un [variateur de vitesse mécanique](w:) couplant le volant d'inertie à l'essieu arrière par un rapport de transmission variable, commandé électroniquement en fonction des vitesses des deux éléments et des actions sur les pédales de frein et de gaz. Selon certaines sources, ce serait l'entreprise [Torotrak](http://www.torotrak.com/) qui produirait le CVT du système Volvo après avoir collaboré à des projets KERS pour la F1
+[![](./images/0c8e7bb46560ffbda2244f994fa9ea0c.jpg)](http://www.actinnovation.com/innovation-automobile/volvo-flywheel-kers-une-roue-dinertie-capable-de-reduire-de-20-la-consommation-de-carburant-2376.html)Encore plus que le volant d'inertie, l'élément clé du système est le "CVT module", un [variateur de vitesse mécanique](w:) couplant le volant d'inertie à l'essieu arrière par un rapport de transmission variable, commandé électroniquement en fonction des vitesses des deux éléments et des actions sur les pédales de frein et de gaz. Selon certaines sources, ce serait l'entreprise [Torotrak](https://web.archive.org/web/20110701162226/http://www.torotrak.com/) qui produirait le CVT du système Volvo après avoir collaboré à des projets KERS pour la F1
 
 {{< youtube id="h5bR0Z9EaEw" width="640" >}}
 
@@ -36,8 +36,8 @@ En effet, la Formule 1 autorise les KERS depuis 2009 [[3]](#ref-3), [[4]](#ref-4
 
 ### Références
 
-1. <span id="ref-1"></span>Rémy Devaureix "[Volvo développe un KERS pour ses futurs véhicules](http://www.auto-buzz.com/volvo-flywheel-kers-530884.html)" 30 mai 2011, sur AutoBuzz.com
+1. <span id="ref-1"></span>Rémy Devaureix "[Volvo développe un KERS pour ses futurs véhicules](https://web.archive.org/web/20110803001110/http://www.auto-buzz.com/volvo-flywheel-kers-530884.html)" 30 mai 2011, sur AutoBuzz.com
 2. <span id="ref-2"></span>[Volvo FlyWheel KERS : une roue d’inertie capable de réduire de 20% la consommation de carburant](http://www.actinnovation.com/innovation-automobile/volvo-flywheel-kers-une-roue-dinertie-capable-de-reduire-de-20-la-consommation-de-carburant-2376.html) 2 juin 2011 sur actinnovation.com
 3. <span id="ref-3"></span>Paul Evans "[Formula One KERS Explained](http://www.gizmag.com/formula-one-kers/11324/)" 26 mars 2009 sur gizmag.com
 4. <span id="ref-4"></span>[F1 - Le KERS en six questions](http://news.sportauto.fr/news/1438361/kers-fonctionnement-saison-2011-explications) 24 mars 2011 sur sportauto.fr
-5. <span id="ref-5"></span>[KTM beats F1 with secret KERS](http://www.crash.net/motogp/news/142605/1/ktm_beats_f1_with_secret_kers_debut.html) 4 février 2009 sur crash.net
+5. <span id="ref-5"></span>[KTM beats F1 with secret KERS](https://web.archive.org/web/20110813182013/http://www.crash.net/motogp/news/142605/1/ktm_beats_f1_with_secret_kers_debut.html) 4 février 2009 sur crash.net

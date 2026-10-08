@@ -28,4 +28,4 @@ Notes de bas de page
 
 [[1]](#cite-AIMae)[Pertes humaines pendant la guerre de Gaza — Wikipédia](w:Pertes_humaines_pendant_la_guerre_de_Gaza)
 
-[[2]](#cite-UhAch)[https://www.ohchr.org/fr/instrum...](https://www.ohchr.org/fr/instruments-mechanisms/instruments/convention-prevention-and-punishment-crime-genocide)
+[[2]](#cite-UhAch)[https://www.ohchr.org/fr/instrum...](https://web.archive.org/web/20250926212917/https://www.ohchr.org/fr/instruments-mechanisms/instruments/convention-prevention-and-punishment-crime-genocide)

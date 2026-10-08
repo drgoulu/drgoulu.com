@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Bagnes 98
 
-[https://www.facebook.com/fromage...](https://www.facebook.com/fromagerieetiez/)
+[https://www.facebook.com/fromage...](https://web.archive.org/web/20260518221313/https://www.facebook.com/fromagerieetiez/)
 
 Sinon Bagnes 1, Bagnes 2, Bagnes 3 ..

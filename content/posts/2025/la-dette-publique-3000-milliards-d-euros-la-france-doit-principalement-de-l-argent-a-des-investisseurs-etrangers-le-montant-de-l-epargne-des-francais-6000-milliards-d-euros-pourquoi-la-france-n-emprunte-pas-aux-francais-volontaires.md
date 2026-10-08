@@ -14,7 +14,7 @@ coverImage: ./images/quora.png
 
 "principalement" = 54%, donc c'est assez partagé.
 
-Bien sur que la France emprunte aux français volontaires : vous allez à votre banque et vous leur dites d'acheter des [OAT](https://www.aft.gouv.fr/fr/oat-particuliers) pour vous et voilà.
+Bien sur que la France emprunte aux français volontaires : vous allez à votre banque et vous leur dites d'acheter des [OAT](https://web.archive.org/web/20251017052757/https://www.aft.gouv.fr/fr/oat-particuliers) pour vous et voilà.
 
 Ça vous permettra de tester votre banque : si elle vous dit "mais bien sur, c'est un excellent placement", changez de banque… c'est pas pour rien que ni les banques, ni l'Etat ne font de la pub pour les OAT et autres "bons du trésor".
 

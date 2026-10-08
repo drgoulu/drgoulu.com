@@ -15,4 +15,4 @@ Oui. L'office fédéral de la statistique évalue à environ 8% la proportion de
 
 > En 2017, le seuil de pauvreté se situait en moyenne à 2259 francs par mois pour une personne seule et à 3990 francs par mois pour un ménage avec deux adultes et deux enfants de moins de 14 ans.
 
-Voir [Pauvreté](https://www.bfs.admin.ch/bfs/fr/home/statistiques/situation-economique-sociale-population/bien-etre-pauvrete/pauvrete-et-privations-materielles/pauvrete.html) sur le site de l'OFS.
+Voir [Pauvreté](https://web.archive.org/web/20190820154856/https://www.bfs.admin.ch/bfs/fr/home/statistiques/situation-economique-sociale-population/bien-etre-pauvrete/pauvrete-et-privations-materielles/pauvrete.html) sur le site de l'OFS.

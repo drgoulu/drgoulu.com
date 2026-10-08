@@ -18,7 +18,7 @@ coverImage: "./images/2e0c010b810b68fc3aea91efcdb69bdb.jpg"
 
 {{< figure src="./images/2e0c010b810b68fc3aea91efcdb69bdb.jpg" alt="Hans Rosling" caption="Hans Rosling" width="200" >}}
 
-Hans Rosling a donné une conférence au [Département d'Etat](w:Département_d'État_des_États-Unis) des USA, conférence [reprise au TED](http://www.ted.com/talks/hans_rosling_at_state.html) tellement passionnante que je l'ai traduite en français¹. Vous pouvez la voir [ici en choisissant les sous-titres en Français](http://dotsub.com/view/a85f347f-9b20-4096-a22d-b91efafc92ab) (Canada)² et attendant que ma traduction soit validée [au TED³.](http://www.ted.com/talks/hans_rosling_at_state.html) La v.o. est sur YouTube:
+Hans Rosling a donné une conférence au [Département d'Etat](w:Département_d'État_des_États-Unis) des USA, conférence [reprise au TED](https://web.archive.org/web/20090919093334/http://www.ted.com/talks/hans_rosling_at_state.html) tellement passionnante que je l'ai traduite en français¹. Vous pouvez la voir [ici en choisissant les sous-titres en Français](http://dotsub.com/view/a85f347f-9b20-4096-a22d-b91efafc92ab) (Canada)² et attendant que ma traduction soit validée [au TED³.](https://web.archive.org/web/20090919093334/http://www.ted.com/talks/hans_rosling_at_state.html) La v.o. est sur YouTube:
 
 {{< youtube id="KVhWqwnZ1eM" width="640" >}}
 
@@ -36,6 +36,6 @@ A voir d'urgence.
 
 ### Notes:
 
-1. Le texte traduit est [ici](https://docs.google.com/Doc?docid=0AV_D4zS2T4QoZGR0d2trcTlfMzFnaDJkd2ZmYw&hl=en) si vous voulez le lire tranquillement, mais sans images.
+1. Le texte traduit est [ici](https://web.archive.org/web/20090919/https://docs.google.com/Doc?docid=0AV_D4zS2T4QoZGR0d2trcTlfMzFnaDJkd2ZmYw&hl=en) si vous voulez le lire tranquillement, mais sans images.
 2. Parce que le traducteur qui s'est attaqué à la traduction en français de France traine les pieds.
-3. Les traductions des conférences TED doivent être validées par un autre traducteur, et ça prend du temps. Ce qui serait bien, ce serait que [vous deveniez aussi traducteur](http://www.ted.com/translate/forted) et que vous validiez ma traduction...
+3. Les traductions des conférences TED doivent être validées par un autre traducteur, et ça prend du temps. Ce qui serait bien, ce serait que [vous deveniez aussi traducteur](https://web.archive.org/web/20090925114714/http://www.ted.com/translate/forted) et que vous validiez ma traduction...

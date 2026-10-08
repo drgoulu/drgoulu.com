@@ -17,4 +17,4 @@ Rien de nouveau donc.
 
 Pour le reste, les media sérieux en France et ailleurs vérifient leurs infos, et celle là est évidemment une fake news comme on va en voir pleuvoir ces prochains mois.
 
-[https://apnews.com/article/fact-...](https://apnews.com/article/fact-check-elections-voting-noncitizens-immigration-032459547370)
+[https://apnews.com/article/fact-...](https://web.archive.org/web/20240303044706/https://apnews.com/article/fact-check-elections-voting-noncitizens-immigration-032459547370)

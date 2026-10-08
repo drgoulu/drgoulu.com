@@ -17,4 +17,4 @@ Si c'est pas brillant ça !
 
 Il m'a bien fallu 2 minutes pour reconstituer le stock de rhodopsine.
 
-[https://www.caminteresse.fr/scie...](https://www.caminteresse.fr/sciences/pourquoi-est-on-aveugle-apres-un-flash-1163679/)
+[https://www.caminteresse.fr/scie...](https://web.archive.org/web/20230417/https://www.caminteresse.fr/sciences/pourquoi-est-on-aveugle-apres-un-flash-1163679/)

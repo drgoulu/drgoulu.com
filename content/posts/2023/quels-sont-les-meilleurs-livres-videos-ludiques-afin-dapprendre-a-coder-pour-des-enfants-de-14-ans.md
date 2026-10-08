@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 le mieux pour apprendre à coder, c'est de coder.
 
-Il y a plein de programmes comme [Alice](http://www.alice.org/) ou [Ceebot](http://www.ceebot.com/) (en français), ou encore des sites comme [CheckiO](https://checkio.org/)ou [Coding Games](https://www.codingame.com/)qui permettent d'apprendre à programmer tout en s'amusant, dans un environnement qui ressemble à ce qu'on veut faire à cet âge : jouer.
+Il y a plein de programmes comme [Alice](https://web.archive.org/web/20230323134116/http://www.alice.org/) ou [Ceebot](https://web.archive.org/web/20230323074429/http://www.ceebot.com/) (en français), ou encore des sites comme [CheckiO](https://web.archive.org/web/20230327233556/https://checkio.org/)ou [Coding Games](https://www.codingame.com/)qui permettent d'apprendre à programmer tout en s'amusant, dans un environnement qui ressemble à ce qu'on veut faire à cet âge : jouer.
 
 Parce que sinon, apprendre à programmer en faisant les exercices d'un tutoriel en mode texte à cet âge, c'est chiant.
 

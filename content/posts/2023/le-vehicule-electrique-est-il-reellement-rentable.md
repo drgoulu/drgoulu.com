@@ -18,7 +18,7 @@ coverImage: ./images/qimg-681697cd9b2554592d58cfea51fa89ca.png
 
 Pour que quelque chose soit rentable, il faut que ça vous rapporte du fric. Donc un véhicule électrique rentable, c'est un train sur une bonne ligne, un trolleybus bien subventionné ou un taxi électrique (il y en a de plus en plus) Ou une voiture de location à la rigueur.
 
-Votre véhicule à vous, il vous coûte, il n'est jamais [r](http://rentable.Il)entable. Il peut juste vous coûter plus ou moins cher.
+Votre véhicule à vous, il vous coûte, il n'est jamais [r](https://web.archive.org/web/20230525/http://rentable.Il)entable. Il peut juste vous coûter plus ou moins cher.
 
 Et là ya pas photo : le coût au km d'une voiture électrique est environ le tiers de son équivalent à essence
 

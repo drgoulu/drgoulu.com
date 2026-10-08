@@ -32,4 +32,4 @@ Il y a quelques idées, par exemple de gonfler une grosse balle de mousse dans l
 
 Notes de bas de page
 
-[[1]](#cite-Jlbxi)[Le satellite éboueur de l'espace](https://www.lesechos.fr/idees-debats/sciences-prospective/le-satellite-eboueur-de-lespace-139900)
+[[1]](#cite-Jlbxi)[Le satellite éboueur de l'espace](https://web.archive.org/web/20200922061016/https://www.lesechos.fr/idees-debats/sciences-prospective/le-satellite-eboueur-de-lespace-139900)

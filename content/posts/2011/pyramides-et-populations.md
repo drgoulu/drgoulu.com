@@ -36,7 +36,7 @@ Avec des [tables de mortalité](w:) et des [taux de fécondité](w:), les démog
 
 ### Références:
 
-1. <span id="ref-1"></span>[Demographic Indicators from International Data Base (IDB), U.S. Census Bureau](http://www.census.gov/ipc/www/idb/country.php) (Pyramides des âges de tous pays et presque toutes dates)
+1. <span id="ref-1"></span>[Demographic Indicators from International Data Base (IDB), U.S. Census Bureau](https://web.archive.org/web/20110429213959/http://www.census.gov/ipc/www/idb/country.php) (Pyramides des âges de tous pays et presque toutes dates)
 2. <span id="ref-2"></span>Xénia Melo & Pascal Rocha da Silva "[Projection de la population chinoise 2000-2050](http://www.sinoptic.ch/textes/articles/2007/2007_Projection.population.Chine.pdf)", Cours-séminaire de Modèles et perspectives démographiques, Université de Genève, Printemps 2007
-3. <span id="ref-3"></span>[la pyramide des âges de la France au premier janvier 1968](http://www.insee.fr/fr/ppp/bases-de-donnees/irweb/sd2005/dd/pdf/sd2005_pyra1968.pdf)
-4. <span id="ref-4"></span>[Evolution démographique avec Sysquake](http://www.calerga.com/products/Sysquake/demogr-fr.html) (un peu de pub pour le génial "Matlab interactif" d'un collègue)
+3. <span id="ref-3"></span>[la pyramide des âges de la France au premier janvier 1968](https://web.archive.org/web/20240619173720/http://www.insee.fr/fr/ppp/bases-de-donnees/irweb/sd2005/dd/pdf/sd2005_pyra1968.pdf)
+4. <span id="ref-4"></span>[Evolution démographique avec Sysquake](https://web.archive.org/web/20110131103421/http://www.calerga.com/products/Sysquake/demogr-fr.html) (un peu de pub pour le génial "Matlab interactif" d'un collègue)

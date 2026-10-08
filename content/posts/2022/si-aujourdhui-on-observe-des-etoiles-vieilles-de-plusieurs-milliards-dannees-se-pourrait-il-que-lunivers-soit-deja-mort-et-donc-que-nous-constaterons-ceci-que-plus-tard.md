@@ -17,6 +17,6 @@ On observe aussi des étoiles en train de se former et les modèles montrent que
 
 Toutes les étoiles auront épuisé leur combustible dans 120'000 milliards d'années au maximum.
 
-Fred Adams et Gregory Laughlin, « A dying universe: the long-term fate et evolution of astrophysical objects », *Reviews of Modern Physics*, vol. 69, no 2,‎ avril 1997, p. 337–372 ([DOI](w:Digital_Object_Identifier) [10.1103/RevModPhys.69.337](https://dx.doi.org/10.1103/RevModPhys.69.337), [Bibcode](w:) [1997RvMP...69..337A](https://ui.adsabs.harvard.edu/abs/1997RvMP...69..337A), [arXiv](w:) [astro-ph/9701131](https://arxiv.org/abs/astro-ph/9701131)).
+Fred Adams et Gregory Laughlin, « A dying universe: the long-term fate et evolution of astrophysical objects », *Reviews of Modern Physics*, vol. 69, no 2,‎ avril 1997, p. 337–372 ([DOI](w:Digital_Object_Identifier) [10.1103/RevModPhys.69.337](https://web.archive.org/web/20220929201816/https://dx.doi.org/10.1103/RevModPhys.69.337), [Bibcode](w:) [1997RvMP...69..337A](https://web.archive.org/web/20221108121441/https://ui.adsabs.harvard.edu/abs/1997RvMP...69..337A), [arXiv](w:) [astro-ph/9701131](https://arxiv.org/abs/astro-ph/9701131)).
 
 [Chronologie du futur lointain](w:Chronologie_du_futur_lointain)

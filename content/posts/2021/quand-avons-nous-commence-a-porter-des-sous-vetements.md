@@ -17,6 +17,6 @@ quand les [Poux](w:Pediculus_humanus) se sont divisés en deux sous-espèces, le
 
 Selon
 
-Ralf Kittler, Manfred Kayser et Mark Stoneking, « [Molecular Evolution of Pediculus humanus and the Origin of Clothing](https://www.sciencedirect.com/science/article/pii/S0960982203005074) », *Current Biology*, vol. 13, no 16,‎ 19 août 2003, p. 1414-1417 ([DOI](w:Digital_Object_Identifier) [10.1016/S0960-9822(03)00507-4](https://dx.doi.org/10.1016/S0960-9822(03)00507-4)).
+Ralf Kittler, Manfred Kayser et Mark Stoneking, « [Molecular Evolution of Pediculus humanus and the Origin of Clothing](https://web.archive.org/web/20211019150137/https://www.sciencedirect.com/science/article/pii/S0960982203005074) », *Current Biology*, vol. 13, no 16,‎ 19 août 2003, p. 1414-1417 ([DOI](w:Digital_Object_Identifier) [10.1016/S0960-9822(03)00507-4](https://web.archive.org/web/20220119114106/https://dx.doi.org/10.1016/S0960-9822(03)00507-4)).
 
 c'était il y a 72'000 ans, mais avec une grosse marge d'erreur (42'000 ans)

@@ -22,4 +22,4 @@ Et en passant, nous avons eu des canicules en été en Europe, mais en Asie ils 
 
 ![](./images/qimg-013c8313ea458a730aa47600f3fcc708.jpg)
 
-Distribution mondiale de la température en [Juillet 2022](https://www.meteosuisse.admin.ch/home/actualite/meteosuisse-blog.subpage.html/fr/data/blogs/2022/8/juillet-2022-au-niveau-mondial.html). L’écart (en °C) à la norme 1991-2020 est représenté (basé sur les données ERA5). Source : Copernicus
+Distribution mondiale de la température en [Juillet 2022](https://web.archive.org/web/20220811070558/https://www.meteosuisse.admin.ch/home/actualite/meteosuisse-blog.subpage.html/fr/data/blogs/2022/8/juillet-2022-au-niveau-mondial.html). L’écart (en °C) à la norme 1991-2020 est représenté (basé sur les données ERA5). Source : Copernicus

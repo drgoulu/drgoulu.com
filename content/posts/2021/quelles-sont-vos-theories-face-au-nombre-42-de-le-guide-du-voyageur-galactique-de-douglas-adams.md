@@ -20,7 +20,7 @@ que vous avez mal lu [La Dernière Question](w:).
 
 42 est la réponse à [La grande question sur la vie, l'univers et le reste](w:) dans [Le Guide du voyageur galactique](w:).
 
-Ma théorie sur le fait que dans les deux cas, la raison de la réponse d'un super ordinateur après un très long de calcul soit surprenante est inspirée de [cette réponse sur la fiabilité des tests de primalité probabilistes](https://stackoverflow.com/a/4160517/1395973)
+Ma théorie sur le fait que dans les deux cas, la raison de la réponse d'un super ordinateur après un très long de calcul soit surprenante est inspirée de [cette réponse sur la fiabilité des tests de primalité probabilistes](https://web.archive.org/web/20210112/https://stackoverflow.com/a/4160517/1395973)
 
 En fait, la probabilité qu'un rayon cosmique ou une fluctuation quantique altère le résultat d'un très long test déterministe est supérieure à la probabilité de tomber sur un pseudo-premier avec un test déterministe rapide.
 

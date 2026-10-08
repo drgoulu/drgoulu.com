@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Oui
 
-[https://www.karger.com/Article/F...](https://www.karger.com/Article/FullText/504123)
+[https://www.karger.com/Article/F...](https://web.archive.org/web/20220409015315/https://www.karger.com/Article/FullText/504123)
 
 Mais ce ne sont pas des preuves irréfutables. Toutes les "preuves" scientifiques sont refutables par définition.
 

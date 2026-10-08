@@ -6,7 +6,7 @@ tags:
   - "jeux"
 ---
 
-Un petit jeu énervant, genre Lemmings : [The Odyssey Winds of Athena](http://www.liquiddragon.com/odyssey.php)
+Un petit jeu énervant, genre Lemmings : [The Odyssey Winds of Athena](https://web.archive.org/web/20061023161015/http://www.liquiddragon.com/odyssey.php)
 
 On peut jouer longtemps avec la version démo.
 

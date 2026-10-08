@@ -30,4 +30,4 @@ Dennett ponctue sa lecture animée de cette citation par deux profonds "Exactly!
 
 ### Liens:
 
-- Daniel Dennett "[Show me the Science](http://www.nytimes.com/2005/08/28/opinion/28dennett.html)", New York Times, 28 août 2005
+- Daniel Dennett "[Show me the Science](https://web.archive.org/web/20090429214044/http://www.nytimes.com/2005/08/28/opinion/28dennett.html)", New York Times, 28 août 2005

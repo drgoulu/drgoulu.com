@@ -22,7 +22,7 @@ Pour répondre à votre question, il faut bien réaliser l'énorme intervalle qu
 
 Les plus anciens animaux retrouvés dans la glace datent de ~40'000 ans, 150 fois moins longtemps que les derniers dinosaures. Si des dinosaures se sont fait piéger, ils sont tout au fond des glaciers de l'Antarctique, broyés par des millions d'années de mouvement des glaciers.
 
-[https://www.nouvelles-du-monde.c...](https://www.nouvelles-du-monde.com/ces-5-animaux-prehistoriques-retrouves-pieges-dans-la-glace/)
+[https://www.nouvelles-du-monde.c...](https://web.archive.org/web/20210717015540/https://www.nouvelles-du-monde.com/ces-5-animaux-prehistoriques-retrouves-pieges-dans-la-glace/)
 
 Sinon, l'ambre, c'est de la résine d'arbre alors ça ne peut pas coller un dinosaure entier, juste un petit bout de queue
 

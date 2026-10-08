@@ -28,7 +28,7 @@ Comme d'habitude, on commence l'année par quelques faits numériques liés au n
 - 2015 écrit en binaire est un [palindrome](w:) ne comportant qu'un seul zéro : 11111011111 ([A129868](https://oeis.org/A129868))
 - Il y aura 3 vendredi 13 en 2015. Que les superstitieux en profitent car ça n'arrivera plus avant 2026 ([A190653](https://oeis.org/A190653))
 
-Sinon, une équipe anglophone qui n'a [pas compris mon article](/2012/01/18/jeu-de-lannee-2012-et-autres-cest-fini/) m'a invité au concours du "[jeu de l'année 2015](http://mathforum.org/yeargames/)": après les quelques minutes nécessaires à redémarrer mon vieux programme Python, il ne me manque plus que des solutions pour 76, 79, 83, 88, 92 et 93. J'aimerais bien trouver une solution du type de [celle-là](/2014/12/14/comment-obtenir-100-avec-123456789-dans-lordre/)...
+Sinon, une équipe anglophone qui n'a [pas compris mon article](/2012/01/18/jeu-de-lannee-2012-et-autres-cest-fini/) m'a invité au concours du "[jeu de l'année 2015](https://web.archive.org/web/20141203144815/http://mathforum.org/yeargames/)": après les quelques minutes nécessaires à redémarrer mon vieux programme Python, il ne me manque plus que des solutions pour 76, 79, 83, 88, 92 et 93. J'aimerais bien trouver une solution du type de [celle-là](/2014/12/14/comment-obtenir-100-avec-123456789-dans-lordre/)...
 
 Autrement, je me souhaite d'avoir le temps d'écrire un peu plus en 2015 qu'en 2014, ne serait-ce que pour diminuer l'effrayante liste de brouillons en attente... Certains comme celui sur "les limites de la croissance" attendent depuis plus de deux ans que j'aie le courage d'écrire quelques indispensables articles d'introduction aux systèmes dynamiques.
 

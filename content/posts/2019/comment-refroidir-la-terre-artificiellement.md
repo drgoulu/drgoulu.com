@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Il y a plusieurs idées de [Géo-ingénierie.](w:Géo-ingénierie)
 
-Une idée toute bête serait d'absorber le CO2 de l'atmosphère. [Planter des arbres](w:Géo-ingénierie) étant trop évident, il existe des idées plus techniques d' "arbres artificiels" par exemple. Le [Virgin Earth Challenge](https://www.virginearth.com/) est un concours d'idées de ce genre.
+Une idée toute bête serait d'absorber le CO2 de l'atmosphère. [Planter des arbres](w:Géo-ingénierie) étant trop évident, il existe des idées plus techniques d' "arbres artificiels" par exemple. Le [Virgin Earth Challenge](https://web.archive.org/web/20191017051213/https://www.virginearth.com/) est un concours d'idées de ce genre.
 
 D'autres techniques sont plus "actives" :
 

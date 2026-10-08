@@ -22,7 +22,7 @@ Bien sur. Il suffit d'observer notre cousin Ayumu en plein travail :
 
 Cette expérience japonaise
 
-Inoue, S. & Matsuzawa, T. “[Working memory of numerals in chimpanzees](http://langint.pri.kyoto-u.ac.jp/ai/en/publication/SanaInoue/Inoue2007.html).”, 2007, Curr. Biol. 17: R1004-R1005.
+Inoue, S. & Matsuzawa, T. “[Working memory of numerals in chimpanzees](https://web.archive.org/web/20200218044518/http://langint.pri.kyoto-u.ac.jp/ai/en/publication/SanaInoue/Inoue2007.html).”, 2007, Curr. Biol. 17: R1004-R1005.
 
 montre que nous avons **perdu**la [Mémoire eidétique](w:) que nos ancêtres avaient probablement pour reconnaître d'un seul coup d’œil la position de leurs congénères en cas de danger. Nous considérons comme "superpouvoir" un reste d'instinct…
 

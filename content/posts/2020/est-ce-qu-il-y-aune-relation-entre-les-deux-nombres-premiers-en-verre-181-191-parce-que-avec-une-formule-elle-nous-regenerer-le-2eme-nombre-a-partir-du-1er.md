@@ -104,4 +104,4 @@ donc vous voyez:
 1. l'écart 10 est très fréquent
 2. les autres écarts (pairs) sont très fréquents aussi (avec un écart de 100 on obtient
 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000040341 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000040441 )
-3. ma lib python [Goulib.math2](https://goulib.readthedocs.io/en/latest/modules/Goulib.math2.html) est très rapide ;-)
+3. ma lib python [Goulib.math2](https://web.archive.org/web/20211205120258/https://goulib.readthedocs.io/en/latest/modules/Goulib.math2.html) est très rapide ;-)

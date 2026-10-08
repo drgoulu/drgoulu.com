@@ -18,7 +18,7 @@ Pour trier un jeu de 72 cartes, je prends une carte de mon jeu mélangé, et je 
 
 ### Un TeraByte pour commencer
 
-Dans le même temps de 68 secondes, [Google vient d'arriver à trier 10 milliards de "cartes"](http://googleblog.blogspot.com/2008/11/sorting-1pb-with-mapreduce.html), améliorant d'un facteur 3 le [record de Yahoo!](http://developer.yahoo.com/blogs/hadoop/posts/2008/07/apache_hadoop_wins_terabyte_sort_benchmark/) obtenu plus tôt cette année. Suivant les règles du  "[terabyte sort benchmark](http://www.hpl.hp.com/hosted/sortbenchmark/)" proposé par [Jim Gray](http://research.microsoft.com/en-us/um/people/gray/) en 1998, les cartes contenaient 100 bytes, ce qui représente au total un TeraByte, l'équivalent, grosso-modo, d'un annuaire qui inclurait tous les habitants de la planète.
+Dans le même temps de 68 secondes, [Google vient d'arriver à trier 10 milliards de "cartes"](http://googleblog.blogspot.com/2008/11/sorting-1pb-with-mapreduce.html), améliorant d'un facteur 3 le [record de Yahoo!](http://developer.yahoo.com/blogs/hadoop/posts/2008/07/apache_hadoop_wins_terabyte_sort_benchmark/) obtenu plus tôt cette année. Suivant les règles du  "[terabyte sort benchmark](https://web.archive.org/web/20090206154555/http://www.hpl.hp.com/hosted/sortbenchmark/)" proposé par [Jim Gray](http://research.microsoft.com/en-us/um/people/gray/) en 1998, les cartes contenaient 100 bytes, ce qui représente au total un TeraByte, l'équivalent, grosso-modo, d'un annuaire qui inclurait tous les habitants de la planète.
 
 Un TeraByte, c'est la capacité d'un gros disque dur actuel, mais on ne peut y lire ou écrire "que" 300 MegaByte par seconde : il faudrait au mieux une heure pour lire les donner à trier dans une mémoire de 1000 GigaByte (qui n'existe pas...) et une autre heure pour réécrire la liste triée, sans compter le temps du tri proprement dit . Google a donc utilisé 1000 ordinateurs, et au moins autant de disques durs formant une partie du "Google File System" [[1]](#ref-1), le gigantesque système de stockage de Google.
 
@@ -47,12 +47,12 @@ S'il y a un sujet sur lesquel j'aurais du me documenter avant d'[aller voir Goog
 
 Le MapReduce de Google contient en fait un algorithme de partitionnement qui répartir les résultats des "map" sur les "reduce", et un algorithme de tri incorporé à la partie "Reduce", car les fonctions "reduce" peuvent presque toujours être rendues plus efficaces si leurs données sont triées. De ce fait, il semblerait que le record du tri ait été obtenu avec une fonction "map" triviale, et une "reduce" qui ne l'est pas moins!
 
-MapReduce est probablement la plus géniale idée des ingénieurs de Google, et une contribution majeure à l'informatique du futur. Le code n'est pas public, mais [tout le monde peut l'utiliser](/2008/04/08/google-ouvre-son-infrastructure/).  D'autre part la fondation Apache a un [équivalent OpenSource](http://wiki.apache.org/hadoop/HadoopMapReduce), qui se base sur [Hadoop](http://hadoop.apache.org/), leur équivalent du Google File System. C'est en utilisant ce système + 1000 lignes de Java seulement que Yahoo! a pu trier le TeraByte en 209 secondes [[4]](#ref-4). 3x moins bien que Google, c'est quand même pas mal du tout...
+MapReduce est probablement la plus géniale idée des ingénieurs de Google, et une contribution majeure à l'informatique du futur. Le code n'est pas public, mais [tout le monde peut l'utiliser](/2008/04/08/google-ouvre-son-infrastructure/).  D'autre part la fondation Apache a un [équivalent OpenSource](https://web.archive.org/web/20081111062616/http://wiki.apache.org/hadoop/HadoopMapReduce), qui se base sur [Hadoop](https://web.archive.org/web/20081204060623/http://hadoop.apache.org/), leur équivalent du Google File System. C'est en utilisant ce système + 1000 lignes de Java seulement que Yahoo! a pu trier le TeraByte en 209 secondes [[4]](#ref-4). 3x moins bien que Google, c'est quand même pas mal du tout...
 
 Pour en savoir plus sur MapReduce vous pouvez lire la référence [[2]](#ref-2), et/ou :
 
 - regarder cette vidéo {{< youtube id="NXCIItzkn3E" >}}
-- consulter ces [slides de présentation](http://labs.google.com/papers/mapreduce-osdi04-slides/index.html), plus techniques, avec exemple de code [[2]](#ref-2) et performances
+- consulter ces [slides de présentation](https://web.archive.org/web/20081218220326/http://labs.google.com/papers/mapreduce-osdi04-slides/index.html), plus techniques, avec exemple de code [[2]](#ref-2) et performances
 
 ### Et un [PetaByte](w:en), un !
 
@@ -64,11 +64,11 @@ Le tri du PetaByte pose une autre problème intéressant : les données étaient
 
 ### Et après ?
 
-Peu de groupes au monde disposent d'assez de ressources pour tenter de faire mieux que Google. Mais heureusement, les [records de tri](http://sortbenchmark.org/) sont ouverts à d'autres catégories:
+Peu de groupes au monde disposent d'assez de ressources pour tenter de faire mieux que Google. Mais heureusement, les [records de tri](https://web.archive.org/web/20090518024241/http://sortbenchmark.org/) sont ouverts à d'autres catégories:
 
 - la catégorie "penny" consiste à trier le plus de nombres possibles pour un "cout" d'un penny, environ 1.3 centimes d'Euro. Le record actuel a été obtenu sur un PC doté d'un AMD 64 sous Linux, mais surtout de 4 disques dur SATA, qui a trié 1'812'000 enregistrements de 100 bytes en 2.408 secondes
 - la catégorie "Minute" limite le temps de calcul à 60 secondes. Une machine parallèle du MIT a trié 2.140 Milliards d'enregistrements de 100 bytes toujours en 2007.
-- la catégorie "[JouleSort](http://joulesort.stanford.edu/)" me semble plus intéressante au niveau du matériel que du logiciel : il s'agit de trier un maximum de nombres par [Joule](w:) d'énergie consommée par l'ordinateur. Le record appartient à un ordinateur portable utilisant un processeur intel Mobile Core 2 Duo doté de 13 (!) disques durs, et qui trie environ 11'300 enregistrements par Joule [[7]](#ref-7). Si les machines de Google avaient la même efficacité énergiétique, le tri du PetyBytes aurait consommé 0.885 GigaJoule, soit 246KWh. Répartis sur 6 jours, ça donne une puissance de 1.7 KW seulement. [Un petit radiateur](/2007/11/17/radiateurs-a-teraflops/). Mais avec 4000 gros PC et 48'000 disques durs, Google est probablemet autour de 20x plus.
+- la catégorie "[JouleSort](https://web.archive.org/web/20090131211153/http://joulesort.stanford.edu/)" me semble plus intéressante au niveau du matériel que du logiciel : il s'agit de trier un maximum de nombres par [Joule](w:) d'énergie consommée par l'ordinateur. Le record appartient à un ordinateur portable utilisant un processeur intel Mobile Core 2 Duo doté de 13 (!) disques durs, et qui trie environ 11'300 enregistrements par Joule [[7]](#ref-7). Si les machines de Google avaient la même efficacité énergiétique, le tri du PetyBytes aurait consommé 0.885 GigaJoule, soit 246KWh. Répartis sur 6 jours, ça donne une puissance de 1.7 KW seulement. [Un petit radiateur](/2007/11/17/radiateurs-a-teraflops/). Mais avec 4000 gros PC et 48'000 disques durs, Google est probablemet autour de 20x plus.
 
 ### Et les spaghetti dans tout ça ?
 
@@ -92,11 +92,11 @@ Plus sérieusement, si on a besoin de trier des objets physiques (des grains de 
 2. <span id="ref-2"></span>Jeffrey Dean and Sanjay Ghemawat, "[MapReduce: Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/fr//archive/mapreduce-osdi04.pdf)" OSDI'04: Sixth Symposium on Operating System Design and Implementation, San Francisco, CA, December, 2004.
 3. <span id="ref-3"></span>Jim Wyllie, "[SPsort: How to Sort a Terabyte Quickly](http://sortbenchmark.org/SPsort.pdf)", IBM, February 4, 1999
 4. <span id="ref-4"></span>Owen O’Malley, "[TeraByte Sort on Apache Hadoop](http://sortbenchmark.org/YahooHadoop.pdf)", Yahoo!, May 2008
-5. <span id="ref-5"></span>[Sort Benchmark Home Page](http://sortbenchmark.org/) : records de tri de données depuis 1987
+5. <span id="ref-5"></span>[Sort Benchmark Home Page](https://web.archive.org/web/20090518024241/http://sortbenchmark.org/) : records de tri de données depuis 1987
 6. <span id="ref-6"></span>“[A Measure of Transaction Processing Power](http://research.microsoft.com/en-us/um/people/gray/papers/AMeasureOfTransactionProcessingPower.pdf)“  Datamation, V 31.7, April 1985, pp 112-118.
-7. <span id="ref-7"></span>Eduardo Pinheiro, Wolf-Dietrich Weber and Luiz André Barroso, "[Failure Trends in a Large Disk Drive Population](http://static.googleusercontent.com/external_content/untrusted_dlcp/labs.google.com/en/us/papers/disk_failures.pdf)", Google Inc. Proceedings of the 5th USENIX Conference on File and Storage Technologies (FAST’07), February 2007.
-8. <span id="ref-8"></span>Suzanne Rivoire et al. "[JouleSort: A Balanced Energy-Efficiency Benchmark](http://adrem.ua.ac.be/sites/adrem.ua.ac.be/files/2007.jsort_.sigmod.pdf)",SIGMOD’07, June 11–14, 2007, Beijing, China
+7. <span id="ref-7"></span>Eduardo Pinheiro, Wolf-Dietrich Weber and Luiz André Barroso, "[Failure Trends in a Large Disk Drive Population](https://web.archive.org/web/20100331025008/http://static.googleusercontent.com/external_content/untrusted_dlcp/labs.google.com/en/us/papers/disk_failures.pdf)", Google Inc. Proceedings of the 5th USENIX Conference on File and Storage Technologies (FAST’07), February 2007.
+8. <span id="ref-8"></span>Suzanne Rivoire et al. "[JouleSort: A Balanced Energy-Efficiency Benchmark](https://web.archive.org/web/20240619080518/http://adrem.ua.ac.be/sites/adrem.ua.ac.be/files/2007.jsort_.sigmod.pdf)",SIGMOD’07, June 11–14, 2007, Beijing, China
 9. <span id="ref-9"></span>Dewdney, A. K."On the spaghetti computer and other analog gadgets for problem solving", Scientific American, (June 1984), 250 (6): 19-26
-10. <span id="ref-10"></span>Niall Murphy et al. "[Implementations of a model of physical sorting](http://www.bcri.ucc.ie/~dw5/download/dw20-UC06-sort.pdf)", [International Journal of Unconventional Computing](http://www.oldcitypublishing.com/IJUC/IJUC.html),2008, Vol 4 nr 1, pages 3-12
+10. <span id="ref-10"></span>Niall Murphy et al. "[Implementations of a model of physical sorting](https://web.archive.org/web/20110721132619/http://www.bcri.ucc.ie/~dw5/download/dw20-UC06-sort.pdf)", [International Journal of Unconventional Computing](https://web.archive.org/web/20081220233336/http://www.oldcitypublishing.com/IJUC/IJUC.html),2008, Vol 4 nr 1, pages 3-12
 
 _Note\* : il existe des algorithmes de tri de complexité linéaire sur des données satisfaisant certaines hypothèses, comme Hervé me l'a fait remarquer dans un commentaire_

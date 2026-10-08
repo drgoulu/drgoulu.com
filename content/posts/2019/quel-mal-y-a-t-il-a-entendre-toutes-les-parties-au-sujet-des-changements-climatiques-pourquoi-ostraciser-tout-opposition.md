@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Il y a deux "parties" :
 
-1. ceux qui savent de quoi ils parlent : des centaines de climatologues, physiciens, spécialistes des systèmes dynamiques et informaticiens du monde entier qui travaillent depuis des années et publient des centaines d'articles dans [des journaux scientifiques réputés](http://archive.sciencewatch.com/ana/st/climate/journals/) et dont les conclusions sont que nous vivons un important réchauffement climatique d'origine anthropique qui aura un impact considérable sur notre civilisation dans quelques décennies
+1. ceux qui savent de quoi ils parlent : des centaines de climatologues, physiciens, spécialistes des systèmes dynamiques et informaticiens du monde entier qui travaillent depuis des années et publient des centaines d'articles dans [des journaux scientifiques réputés](https://web.archive.org/web/20190927142457/http://archive.sciencewatch.com/ana/st/climate/journals/) et dont les conclusions sont que nous vivons un important réchauffement climatique d'origine anthropique qui aura un impact considérable sur notre civilisation dans quelques décennies
 2. et ceux qui disent que non, parce qu'ils ont vu un site web ou un tweet qui dit que non.
 
 C'est de l'ostracisme ? oui. Quand vous allez chez le garagiste et que vous lui dites "j'ai lu sur internet que ça pourrait être le joint de culasse de l'alternateur …", il vous ostracise, et il a bien raison.

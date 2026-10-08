@@ -37,7 +37,7 @@ Ce qui est certain, c'est que tant que vous n'aurez pas de [Budget](w:Budget_de_
 
 Ben voilà, la situation de votre Etat est exactement celle là.
 
-[https://www.economie.gouv.fr/dec...](https://www.economie.gouv.fr/decryptage-5-minutes-pour-comprendre-la-dette-publique)
+[https://www.economie.gouv.fr/dec...](https://web.archive.org/web/20250725231506/https://www.economie.gouv.fr/decryptage-5-minutes-pour-comprendre-la-dette-publique)
 
 La seule différence est que ses revenus (TVA, impôts et taxes variées) ne sont pas aussi fixes que votre salaire, surtout parce que c'est le résultat du travail (et de la consommation) de tous les français.
 

@@ -24,4 +24,4 @@ Environ 90 pays ont mis en place des mécanismes de [Frein à l'endettement](w:)
 
 Apparemment certains français totalement désespérés pourraient éventuellement commencer à envisager l'idée de copier (un peu) ce concept "[not invented here](w:)" :
 
-[Pour en finir avec les déficits et la dette publique, instaurons un frein à l’endettement !](https://www.lepoint.fr/debats/pour-en-finir-avec-les-deficits-et-la-dette-publique-instaurons-un-frein-a-l-endettement-26-04-2024-2558729_2.php)
+[Pour en finir avec les déficits et la dette publique, instaurons un frein à l’endettement !](https://web.archive.org/web/20250922113631/https://www.lepoint.fr/debats/pour-en-finir-avec-les-deficits-et-la-dette-publique-instaurons-un-frein-a-l-endettement-26-04-2024-2558729_2.php)

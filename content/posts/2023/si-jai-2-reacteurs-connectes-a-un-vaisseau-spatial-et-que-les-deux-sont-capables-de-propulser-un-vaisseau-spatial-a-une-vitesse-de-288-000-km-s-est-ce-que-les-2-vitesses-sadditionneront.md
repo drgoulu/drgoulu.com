@@ -15,7 +15,7 @@ coverImage: ./images/quora.png
 
 Mais pas tout à fait.
 
-Si vous tenez compte de la relativité , la [composition des vitesses](https://keisan.casio.com/exec/system/1224060487) vous donnera en fait **575,99946842365 km/s**
+Si vous tenez compte de la relativité , la [composition des vitesses](https://web.archive.org/web/20220928095926/https://keisan.casio.com/exec/system/1224060487) vous donnera en fait **575,99946842365 km/s**
 
 Et si vous vouliez dire 288 000 km/s alors vous obtiendrez **299 551,225071 km/s**
 

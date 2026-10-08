@@ -36,4 +36,4 @@ Notes de bas de page
 
 [[2]](#cite-teHTh)[Hamas : est-il vrai que le groupe militant palestinien est une création du gouvernement israélien ? - BBC News Afrique](https://www.bbc.com/afrique/articles/c0xy0l391g0o)
 
-[[3]](#cite-ZGzAG)[7 Octobre : le renseignement israélien était au courant d’un plan d’attaque du Hamas](https://www.liberation.fr/international/moyen-orient/7-octobre-le-renseignement-israelien-etait-au-courant-dun-plan-dattaque-du-hamas-20240618_65RQQGTDDFA4HNJLMHFTOUVNDU/)
+[[3]](#cite-ZGzAG)[7 Octobre : le renseignement israélien était au courant d’un plan d’attaque du Hamas](https://web.archive.org/web/20250114182017/https://www.liberation.fr/international/moyen-orient/7-octobre-le-renseignement-israelien-etait-au-courant-dun-plan-dattaque-du-hamas-20240618_65RQQGTDDFA4HNJLMHFTOUVNDU/)

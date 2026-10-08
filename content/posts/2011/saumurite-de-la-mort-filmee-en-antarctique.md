@@ -13,7 +13,7 @@ coverImage: "./images/f5e31d50298e7daa89df370158cca054.jpg"
 
 Après avoir vu ça, je me suis dit une fois de plus qu'on vit sur une planète aussi étrange que surprenante: {{< youtube id="WyWn1XJ9kTE" width="640" >}}
 
-Plutôt que de réécrire la roue, je traduis ci-dessous l'explication du phénomène ci-dessus donnée sur la [page de BBC Nature](http://www.bbc.co.uk/nature/15835017).
+Plutôt que de réécrire la roue, je traduis ci-dessous l'explication du phénomène ci-dessus donnée sur la [page de BBC Nature](https://web.archive.org/web/20111126214439/http://www.bbc.co.uk/nature/15835017).
 
 ### Comment se forme une "saumurite"\*
 

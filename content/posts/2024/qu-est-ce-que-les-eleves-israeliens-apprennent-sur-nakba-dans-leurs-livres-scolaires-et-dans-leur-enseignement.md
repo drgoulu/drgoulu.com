@@ -26,4 +26,4 @@ On trouve cette info dans [Polémique sur les manuels scolaires palestiniens —
 
 Autre référence intéressante, concernant plutôt la représentation de ces faits dans les manuels français :
 
-[https://orientxxi.info/magazine/...](https://orientxxi.info/magazine/la-nakba-palestinienne-dans-les-manuels-scolaires-une-representation,6730)
+[https://orientxxi.info/magazine/...](https://web.archive.org/web/20241008161733/https://orientxxi.info/magazine/la-nakba-palestinienne-dans-les-manuels-scolaires-une-representation,6730)

@@ -21,4 +21,4 @@ Les "timegraphers" sont étalonnés une fois par mois environ en utilisant une h
 
 Peut être même que ça peut se faire à distance maintenant en utilisant un service réseau comne
 
-[https://www.metas.ch/metas/fr/ho...](https://www.metas.ch/metas/fr/home/fabe/zeit-und-frequenz/time-dissemination.html)
+[https://www.metas.ch/metas/fr/ho...](https://web.archive.org/web/20221005190804/https://www.metas.ch/metas/fr/home/fabe/zeit-und-frequenz/time-dissemination.html)

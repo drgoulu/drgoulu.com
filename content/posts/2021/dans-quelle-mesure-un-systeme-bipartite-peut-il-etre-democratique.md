@@ -44,4 +44,4 @@ Faut dire que ce classement est fait par "The Economist", journal anglais …
 
 Notes de bas de page
 
-[[1]](#cite-XnzJB)[http://file:///C:/Users/guglie0p...](http://file:///C:/Users/guglie0p/Downloads/democracy-index-2020.pdf)
+[[1]](#cite-XnzJB)[http://file:///C:/Users/guglie0p...](https://web.archive.org/web/20211209/http://file:///C:/Users/guglie0p/Downloads/democracy-index-2020.pdf)

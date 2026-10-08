@@ -20,7 +20,7 @@ En effet, 2017 est un "nombre hypotenuse" ([A009003](https://oeis.org/A009003)),
 
 {{< figure src="./images/artmaths0202.gif" alt="(3,4,5), le premier et le plus célèbre des triplets pythagoriciens" caption="(3,4,5), le premier et le plus célèbre des triplets pythagoriciens" width="312" >}}
 
-Car comme on le voit dans [cette liste](http://www.tsm-resources.com/alists/trip.html), il existe deux sortes de triplets pythagoriciens: les [primitifs](w:Triplet_pythagoricien#Triplets_primitifs) et les composés, qui sont des multiples de triplets plus petits, par exemple (6,8,10) obtenu en doublant (3,4,5). Ca va avoir de l'importance plus bas.
+Car comme on le voit dans [cette liste](https://web.archive.org/web/20161204152220/http://www.tsm-resources.com/alists/trip.html), il existe deux sortes de triplets pythagoriciens: les [primitifs](w:Triplet_pythagoricien#Triplets_primitifs) et les composés, qui sont des multiples de triplets plus petits, par exemple (6,8,10) obtenu en doublant (3,4,5). Ca va avoir de l'importance plus bas.
 
 ### Comment générer les triplets pythagoriciens
 
@@ -34,13 +34,13 @@ Un autre matheux nommé Barning ayant montré en 1963\*\* que chaque triplet n'e
 
 ![](./images/1000px-Pythagorean.tree_.svg_.png)
 
-Ensuite, un autre bout de code peut multiplier chaque triplet primitif par 2,3,4,... pour ajouter les triplets composés et produire ainsi tous les triplets pythagoriciens l'un après l'autre. C'est ce que fait très efficacement ce [code Python de Kyle Guillon trouvé sur StackOverflow](http://stackoverflow.com/questions/575117/generating-unique-ordered-pythagorean-triplets/8263898#8263898).
+Ensuite, un autre bout de code peut multiplier chaque triplet primitif par 2,3,4,... pour ajouter les triplets composés et produire ainsi tous les triplets pythagoriciens l'un après l'autre. C'est ce que fait très efficacement ce [code Python de Kyle Guillon trouvé sur StackOverflow](https://web.archive.org/web/20160728111451/http://stackoverflow.com/questions/575117/generating-unique-ordered-pythagorean-triplets/8263898#8263898).
 
 ### Oui mais dans l'ordre svp
 
-Une difficulté supplémentaire apparaît si on veut obtenir les triplets triés dans un ordre croissant, par exemple de leur hypoténuse, puis du long côté comme dans [la liste](http://www.tsm-resources.com/alists/trip.html) ou dans [A020882](https://oeis.org/A020882) et d'autres séries de l'OEIS. Evidemment, si on ne s'intéresse qu'aux N premiers triplets, on peut toujours les générer, et les trier ensuite. Mais si on veut chercher par exemple le plus petit triplet dont la longueur de hypoténuse est un carré ainsi que la somme des côtés\*, on ne  connait a priori pas N...
+Une difficulté supplémentaire apparaît si on veut obtenir les triplets triés dans un ordre croissant, par exemple de leur hypoténuse, puis du long côté comme dans [la liste](https://web.archive.org/web/20161204152220/http://www.tsm-resources.com/alists/trip.html) ou dans [A020882](https://oeis.org/A020882) et d'autres séries de l'OEIS. Evidemment, si on ne s'intéresse qu'aux N premiers triplets, on peut toujours les générer, et les trier ensuite. Mais si on veut chercher par exemple le plus petit triplet dont la longueur de hypoténuse est un carré ainsi que la somme des côtés\*, on ne  connait a priori pas N...
 
-Pour générer les triplets dans un ordre croissant, j'ai incorporé le tri aux fonctions précédentes à l'aide de [listes triées](w:), mais je ne vais pas accentuer votre mal de cheveux annuel en vous détaillant ça ici. Pour ceux que ça intéresse, [le résultat se trouve dans le module math2](http://goulib.readthedocs.io/en/latest/modules/Goulib.math2.html#Goulib.math2.primitive_triples) de ma librairie Goulib dont je vous reparlerai très bientôt, et [aussi sur StackOverflow](http://stackoverflow.com/a/41146390/1395973) où vous pouvez voter pour moi...
+Pour générer les triplets dans un ordre croissant, j'ai incorporé le tri aux fonctions précédentes à l'aide de [listes triées](w:), mais je ne vais pas accentuer votre mal de cheveux annuel en vous détaillant ça ici. Pour ceux que ça intéresse, [le résultat se trouve dans le module math2](https://web.archive.org/web/20160529185958/http://goulib.readthedocs.io/en/latest/modules/Goulib.math2.html#Goulib.math2.primitive_triples) de ma librairie Goulib dont je vous reparlerai très bientôt, et [aussi sur StackOverflow](https://web.archive.org/web/20170102/http://stackoverflow.com/a/41146390/1395973) où vous pouvez voter pour moi...
 
 Mais bon, juste parce que j'en suis assez content, en testant mon code j'ai découvert une erreur dans [A121727](https://oeis.org/A121727) : le 20ème terme de la série est 145, pas 142. Et j'ai ainsi pu constater que l'OEIS est un bon site scientifique car il est doté d'un système rigoureux mais efficace de correction des erreurs.
 
@@ -60,5 +60,5 @@ Mes chers lecteurs, je vous souhaite à tous l'indispensable Santé, le très im
 
 1. <span id="ref-1"></span>{{< openbook booknumber="OLID:OL26208349M" templatenumber="5" >}}
 2. <span id="ref-2"></span>Berggren, "Pytagoreiska trianglar", 1934, Tidskrift för elementär matematik, fysik och kemi, vol. 17, p. 129-139.
-3. <span id="ref-3"></span>Barning, F. J. M. "Over pythagorese en bijna-pythagorese driehoeken en een generatieproces met behulp van unimodulaire matrices", 1963 Math. Centrum Amsterdam Afd. Zuivere Wisk. ZW-011: 37, ([pdf](http://oai.cwi.nl/oai/asset/7151/7151A.pdf))
+3. <span id="ref-3"></span>Barning, F. J. M. "Over pythagorese en bijna-pythagorese driehoeken en een generatieproces met behulp van unimodulaire matrices", 1963 Math. Centrum Amsterdam Afd. Zuivere Wisk. ZW-011: 37, ([pdf](https://web.archive.org/web/20160928225445/http://oai.cwi.nl/oai/asset/7151/7151A.pdf))
 4. <span id="ref-4"></span>Spezeski, W. J. "[Rethinking Pythagorean Triples](https://www.pvamu.edu/mathematics/wp-content/uploads/sites/49/Spezeski-AAM-R50-WS-080207-Final-_9_-6-13-08.pdf)", 2008, Applications and Applied Mathematics: An International Journal, 3(1), 100–112. Retrieved from http://pvamu.edu/aam

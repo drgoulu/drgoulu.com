@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Votre nombre est un nombre de Mersenne. Vous pouvez donc appliquer le [Test de primalité de Lucas-Lehmer pour les nombres de Mersenne](w:).
 
-Il se trouve dans ma [goulib.math2](https://goulib.readthedocs.io/en/latest/_modules/Goulib/math2.html#lucas_lehmer) mais vient en fait [d'ici](http://rosettacode.org/wiki/Lucas-Lehmer_test#Python). En l'utilisant :
+Il se trouve dans ma [goulib.math2](https://web.archive.org/web/20230925195105/https://goulib.readthedocs.io/en/latest/_modules/Goulib/math2.html#lucas_lehmer) mais vient en fait [d'ici](https://web.archive.org/web/20210422033410/http://rosettacode.org/wiki/Lucas-Lehmer_test#Python). En l'utilisant :
 
 ```
 >>> from Goulib import *
@@ -67,7 +67,7 @@ True
 
 ma machine prend plusieurs secondes, et comme 82589933 est le plus grand exposant de Mersenne premier connu actuellement (depuis 2018) et a été obtenu par GIMPS ([Great Internet Mersenne Prime Search](w:)) avec une puissance de calcul colossale, je doute beaucoup que la primalité de 2^1572383149-1 puisse être testée avant longtemps.
 
-Note* : en fait c'est plus compliqué que ça, voir la doc de [Goulib.math2.is_prime](https://goulib.readthedocs.io/en/latest/modules/Goulib.math2.html#Goulib.math2.is_prime)
+Note* : en fait c'est plus compliqué que ça, voir la doc de [Goulib.math2.is_prime](https://web.archive.org/web/20211205120258/https://goulib.readthedocs.io/en/latest/modules/Goulib.math2.html#Goulib.math2.is_prime)
 
 Plus sur ce sujet :
 

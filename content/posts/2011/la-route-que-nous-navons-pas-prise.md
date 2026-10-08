@@ -11,7 +11,7 @@ tags:
 coverImage: "./images/e1a66eb59353f1769ce72d31701ad351.jpg"
 ---
 
-A la base, c'est le titre de l'article "[One weird theory could make anti-gravity and faster-than-light travel possible](http://io9.com/5855461/one-weird-theory-could-make-anti+gravity-and-faster+than+light-travel-possible)" d'io9 qui m'a fait bondir. Aucune théorie ne "permet" ou "rend possible" quelque chose. Les théories décrivent en langage humain les lois de l'Univers, et ce sont elles seules qui fixent les limites. Si la théorie permet quelque chose que l'Univers interdit, ou vice-versa, c'est une mauvaise théorie. Je ne sais pas si la [théorie de Heim](w:) mentionnée dans l'article a été formellement infirmée, mais tant qu'elle n'aura pas été confirmée expérimentalement, elle ne "permet" rien du tout.
+A la base, c'est le titre de l'article "[One weird theory could make anti-gravity and faster-than-light travel possible](https://web.archive.org/web/20111105172353/http://io9.com/5855461/one-weird-theory-could-make-anti+gravity-and-faster+than+light-travel-possible)" d'io9 qui m'a fait bondir. Aucune théorie ne "permet" ou "rend possible" quelque chose. Les théories décrivent en langage humain les lois de l'Univers, et ce sont elles seules qui fixent les limites. Si la théorie permet quelque chose que l'Univers interdit, ou vice-versa, c'est une mauvaise théorie. Je ne sais pas si la [théorie de Heim](w:) mentionnée dans l'article a été formellement infirmée, mais tant qu'elle n'aura pas été confirmée expérimentalement, elle ne "permet" rien du tout.
 
 ![](./images/e1a66eb59353f1769ce72d31701ad351.jpg)Sauf de rêver.
 
@@ -37,7 +37,7 @@ Une autre raison est le [principe totalitaire](w:) de Gell-Mann : "tout ce qui 
 
 ### Références
 
-Recueils contenant la nouvelle "The road not taken": ([liste complète](http://www.isfdb.org/cgi-bin/title.cgi?48609))
+Recueils contenant la nouvelle "The road not taken": ([liste complète](https://web.archive.org/web/20121026092954/http://www.isfdb.org/cgi-bin/title.cgi?48609))
 
 - {{< openbook booknumber="ISBN:0-812-54959-7" templatenumber="5" >}}
 - {{< openbook booknumber="ISBN:0-345-36477-5" templatenumber="5" >}}

@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/J%C3%A9sus-peut-il-survivre-sans-le-dogme-trinitaire-h%C3%A9rit%C3%A9-du-concile-de-Nic%C3%A9e/answer/Dr-Goulu)*
 
-Bien sûr. Il y a plein d'églises et de mouvements [Unitaristes](w:Unitarisme_(théologie)), voir [Liste des églises unitariennes, universalistes et unitariennes universalistes](https://wikiland.org/fr/List_of_Unitarian,_Universalist,_and_Unitarian_Universalist_churches) qui en mentionne environ 200.
+Bien sûr. Il y a plein d'églises et de mouvements [Unitaristes](w:Unitarisme_(théologie)), voir [Liste des églises unitariennes, universalistes et unitariennes universalistes](https://web.archive.org/web/20251024141729/https://wikiland.org/fr/List_of_Unitarian,_Universalist,_and_Unitarian_Universalist_churches) qui en mentionne environ 200.
 
 Chaque concile a provoqué un ou plusieurs schismes , chaque branche ayant donné naissance à d'autres mouvements etc. (Fraternité Saint Pie X pour Vatican 2 par exemple)
 

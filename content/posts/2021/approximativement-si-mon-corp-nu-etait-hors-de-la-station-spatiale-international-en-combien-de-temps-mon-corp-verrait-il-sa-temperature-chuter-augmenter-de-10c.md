@@ -41,4 +41,4 @@ Bref, en réalité c'est probablement beaucoup plus que mon calcul. Au pif je di
 
 Notes de bas de page
 
-[[1]](#cite-XULCc)[https://www.lycee-champollion.fr...](https://www.lycee-champollion.fr/IMG/pdf/ds_no4.pdf)
+[[1]](#cite-XULCc)[https://www.lycee-champollion.fr...](https://web.archive.org/web/20210116/https://www.lycee-champollion.fr/IMG/pdf/ds_no4.pdf)

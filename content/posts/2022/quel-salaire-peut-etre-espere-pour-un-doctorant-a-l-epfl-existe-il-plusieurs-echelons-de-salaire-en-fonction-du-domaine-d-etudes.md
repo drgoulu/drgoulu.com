@@ -20,6 +20,6 @@ Une petite recherche Google vous aurait renseigné :
 
 [https://www.epfl.ch/education/ph...](https://www.epfl.ch/education/phd/fr/structure-generale-des-etudes-doctorales/salaires-des-doctorants/)
 
-CHF 52'700 par an, c'est la moitié de ce que vous gagnez comme ingénieur débutant en Suisse (104'000) [selon Salarium](https://www.gate.bfs.admin.ch/salarium/public/index.html#/calculation?regionCode=1&nogaId=72&skillLevelCode=21&mgmtLevelCode=3&weeklyHourValue=40&educationCode=1&ageCode=32&workYearsCode=0&companySizeCode=3&month13SalaryCode=1&specialFeesCode=0&hourSalaryCode=0), ce qui explique pourquoi il n'y a pratiquement plus de Suisses qui font un doctorat EPFL.
+CHF 52'700 par an, c'est la moitié de ce que vous gagnez comme ingénieur débutant en Suisse (104'000) [selon Salarium](https://web.archive.org/web/20220712052437/https://www.gate.bfs.admin.ch/salarium/public/index.html#/calculation?regionCode=1&nogaId=72&skillLevelCode=21&mgmtLevelCode=3&weeklyHourValue=40&educationCode=1&ageCode=32&workYearsCode=0&companySizeCode=3&month13SalaryCode=1&specialFeesCode=0&hourSalaryCode=0), ce qui explique pourquoi il n'y a pratiquement plus de Suisses qui font un doctorat EPFL.
 
 De mon temps c'était quasiment le même salaire, en partie parce qu'on avait pas mal de "projets industriels" qui payaient bien …

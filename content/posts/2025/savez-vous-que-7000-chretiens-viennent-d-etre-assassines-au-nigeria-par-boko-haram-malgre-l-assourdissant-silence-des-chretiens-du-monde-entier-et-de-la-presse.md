@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Maintenant je le sais suite à la référence fournie en commentaire, et l'"assourdissant silence" vient de ce que le rapport est tout récent, mais ça commence à faire des vagues dans la presse :
 
-[https://www.washingtonpost.com/o...](https://www.washingtonpost.com/opinions/2025/10/10/persecution-christians-nigeria/)
+[https://www.washingtonpost.com/o...](https://web.archive.org/web/20251019202401/https://www.washingtonpost.com/opinions/2025/10/10/persecution-christians-nigeria/)

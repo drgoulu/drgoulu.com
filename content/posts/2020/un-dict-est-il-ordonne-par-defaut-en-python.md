@@ -22,6 +22,6 @@ Je ne vois pas vraiment la raison de ceci vu que la librairie standard [collecti
 
 D'autant que les dicts sont des [tables de hachage](w:Table_de_hachage), les structures de données au cœur de Python, donc chaque nanoseconde compte …
 
-Plus d'infos dans cette réponse à [How are Python's Built In Dictionaries Implemented?](https://stackoverflow.com/a/9022835/1395973) sur StackAdvisor
+Plus d'infos dans cette réponse à [How are Python's Built In Dictionaries Implemented?](https://web.archive.org/web/20201106/https://stackoverflow.com/a/9022835/1395973) sur StackAdvisor
 
 le code source est sur GitHub [python/cpython/objects/dictobject.c](https://github.com/python/cpython/blob/master/Objects/dictobject.c)

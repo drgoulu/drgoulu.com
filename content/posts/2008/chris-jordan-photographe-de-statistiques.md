@@ -16,9 +16,9 @@ tags:
 coverImage: "./images/629cb77f8e7b730969d6cf3d489fd9f6.jpg"
 ---
 
-Découvert le photographe [Chris Jordan](w:) grâce à sa [conférence "Picturing Excess" au TED](http://www.ted.com/index.php/talks/chris_jordan_pictures_some_shocking_stats.html) ([disponible sur YouTube](http://www.youtube.com/watch?v=f09lQ8Q1iKE)).
+Découvert le photographe [Chris Jordan](w:) grâce à sa [conférence "Picturing Excess" au TED](https://web.archive.org/web/20080731064039/http://www.ted.com/index.php/talks/chris_jordan_pictures_some_shocking_stats.html) ([disponible sur YouTube](http://www.youtube.com/watch?v=f09lQ8Q1iKE)).
 
-[Sur son site](http://www.chrisjordan.com/) vous pourrez admirer son travail récent "[Running the Numbers - An American Self-Portrait](http://www.chrisjordan.com/gallery/rtn/) " qui illustre par d'immenses [photomosaïques](/2007/08/19/grandes-images/) la boulimie de consommation de ses compatriotes étatsuniens et autres travers relayés par les statistiques, comme:
+[Sur son site](http://www.chrisjordan.com/) vous pourrez admirer son travail récent "[Running the Numbers - An American Self-Portrait](https://web.archive.org/web/20100625042624/http://www.chrisjordan.com/gallery/rtn/) " qui illustre par d'immenses [photomosaïques](/2007/08/19/grandes-images/) la boulimie de consommation de ses compatriotes étatsuniens et autres travers relayés par les statistiques, comme:
 
 - ma préférée (allez savoir pourquoi...) :
 

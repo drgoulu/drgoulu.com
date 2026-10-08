@@ -24,4 +24,4 @@ Seul 1/1000 ème du sable de silice est utilisé pour produire du silicium "mét
 
 Le silicium est le 2eme élément le plus abondant de la croûte terrestre, c'est pas demain qu'il en manquera.
 
-[https://www.mineralinfo.fr/fr/ec...](https://www.mineralinfo.fr/fr/ecomine/silicium-un-element-chimique-tres-abondant-un-affinage-strategique)
+[https://www.mineralinfo.fr/fr/ec...](https://web.archive.org/web/20231208065532/https://www.mineralinfo.fr/fr/ecomine/silicium-un-element-chimique-tres-abondant-un-affinage-strategique)

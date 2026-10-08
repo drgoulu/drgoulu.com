@@ -23,7 +23,7 @@ La notion de race se trouve dans plein de documents officiels de certains pays a
 
 Exemple au hasard :
 
-[https://www.ojjdp.gov/ojstatbb/c...](https://www.ojjdp.gov/ojstatbb/crime/ucr.asp?table_in=2)
+[https://www.ojjdp.gov/ojstatbb/c...](https://web.archive.org/web/20210714135021/https://www.ojjdp.gov/ojstatbb/crime/ucr.asp?table_in=2)
 
 Rien de commercial là dedans.
 

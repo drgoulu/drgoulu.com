@@ -30,6 +30,6 @@ En 2013 le [Superbolide de Tcheliabinsk](w:) qui avait fait des blessés et dég
 
 En fait les scientifiques qui ont adopté l'échelle de Turin en 1999 sont un peu frustrés, parce que depuis il n'y a eu que quelques alertes niveau 1, et une seule fois une 2, puis 4 pour le fameux [(99942) Apophis](w:) qui est ensuite retombé à 0.
 
-Alors ils ont inventé L'[Échelle de Palerme](w:) qui mesure plus finement le risque de collision, comme ça ils peuvent s'occuper en faisant des listes mises à jour en temps réel comme [Sentry: Earth Impact Monitoring](https://cneos.jpl.nasa.gov/sentry/) …
+Alors ils ont inventé L'[Échelle de Palerme](w:) qui mesure plus finement le risque de collision, comme ça ils peuvent s'occuper en faisant des listes mises à jour en temps réel comme [Sentry: Earth Impact Monitoring](https://web.archive.org/web/20200118181004/https://cneos.jpl.nasa.gov/sentry/) …
 
 [Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)

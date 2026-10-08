@@ -13,7 +13,7 @@ coverImage: "./images/ensip1.gif"
 
 {{< figure src="./images/ensip1.gif" alt="ensip1" link="./images/ensip1.gif" >}}
 
-Raymond m'a fait parvenir un document précieux : la [Norme des Unités Pifométriques](http://pifometrie.indriya.org/index.php) . Elle est aussi disponible au format pdf en plusieurs versions, [ici](http://www.allquality.org/doc-download/upload/9/0/Nouvelle_Norme.pdf) et [là](http://lancelot.pecquet.org/download/jokes/science/misc/norme_pifometrique.pdf) notamment.
+Raymond m'a fait parvenir un document précieux : la [Norme des Unités Pifométriques](http://pifometrie.indriya.org/index.php) . Elle est aussi disponible au format pdf en plusieurs versions, [ici](https://web.archive.org/web/20221003035541/http://www.allquality.org/doc-download/upload/9/0/Nouvelle_Norme.pdf) et [là](https://web.archive.org/web/20080723140105/http://lancelot.pecquet.org/download/jokes/science/misc/norme_pifometrique.pdf) notamment.
 
 C'est en effet amusant de constater l'abondance d'expressions représentant des quantités approximatives, et le fait de les promouvoir au rang d'unité peut se défendre.
 

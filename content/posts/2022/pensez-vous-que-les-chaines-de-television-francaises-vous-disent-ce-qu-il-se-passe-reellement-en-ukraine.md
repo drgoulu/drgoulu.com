@@ -21,4 +21,4 @@ Donc oui. Les médias occidentaux sont beaucoup mieux informés et plus objectif
 
 Ici on n'assassine pas les journalistes.
 
-[https://www.lemonde.fr/internati...](https://www.lemonde.fr/international/article/2018/05/30/arkadi-babtchenko-un-mort-de-plus-sur-la-longue-liste-des-journalistes-russes-assassines_5307065_3210.html)
+[https://www.lemonde.fr/internati...](https://web.archive.org/web/20220909113104/https://www.lemonde.fr/international/article/2018/05/30/arkadi-babtchenko-un-mort-de-plus-sur-la-longue-liste-des-journalistes-russes-assassines_5307065_3210.html)

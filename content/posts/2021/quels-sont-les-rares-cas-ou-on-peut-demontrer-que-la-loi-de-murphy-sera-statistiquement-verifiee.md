@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 En 1995, Robert J Matthews a fait considérablement progresser la recherche scientifique dans ce domaine avec son article
 
-Matthews, R. A. J. (1995). "[Tumbling toast, Murphy's Law and the fundamental constants](https://www.researchgate.net/publication/230693562_Tumbling_toast_Murphy's_Law_and_the_fundamental_constants)". *European Journal of Physics*. **16** (4): 172–176. [Bibcode](w:en:Bibcode_(identifier)):[1995EJPh...16..172M](https://ui.adsabs.harvard.edu/abs/1995EJPh...16..172M).
+Matthews, R. A. J. (1995). "[Tumbling toast, Murphy's Law and the fundamental constants](https://www.researchgate.net/publication/230693562_Tumbling_toast_Murphy's_Law_and_the_fundamental_constants)". *European Journal of Physics*. **16** (4): 172–176. [Bibcode](w:en:Bibcode_(identifier)):[1995EJPh...16..172M](https://web.archive.org/web/20210308053750/https://ui.adsabs.harvard.edu/abs/1995EJPh...16..172M).
 
 Il a d'ailleurs été récompensé en 1996 par le prix igNobel de physique pour cette contribution fondamentale.
 

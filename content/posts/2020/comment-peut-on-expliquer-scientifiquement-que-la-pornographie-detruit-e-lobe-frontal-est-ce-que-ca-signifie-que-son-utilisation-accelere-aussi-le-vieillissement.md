@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-peut-on-expliquer-scientifiquement-que-la-pornographie-d%C3%A9truit-e-lobe-frontal-Est-ce-que-%C3%A7a-signifie-que-son-utilisation-acc%C3%A9l%C3%A8re-aussi-le-vieillissement/answer/Dr-Goulu)*
 
-Selon l'article [The Brain and Pornography Consumption](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1874574) qui a l'air à l'origine des nombreuses vulgarisations que l'on trouve sur internet[[1]](#PrViI) , ce n'est pas le lobe frontal qui est "détruit" mais le [Noyau caudé](w:)(littéralement "noyau avec une queue…") qui est légerement plus petit chez les personnes regardant plusieurs heures de Q par semaine.
+Selon l'article [The Brain and Pornography Consumption](https://web.archive.org/web/20200629080229/https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1874574) qui a l'air à l'origine des nombreuses vulgarisations que l'on trouve sur internet[[1]](#PrViI) , ce n'est pas le lobe frontal qui est "détruit" mais le [Noyau caudé](w:)(littéralement "noyau avec une queue…") qui est légerement plus petit chez les personnes regardant plusieurs heures de Q par semaine.
 
 Première interprétation, qu'il ne faut jamais oublier lorsqu'on observe une corrélation, que ce soit le fait d'avoir un petit noyau caudé qui incité à rechercher plus de stimulation sexuelle…
 

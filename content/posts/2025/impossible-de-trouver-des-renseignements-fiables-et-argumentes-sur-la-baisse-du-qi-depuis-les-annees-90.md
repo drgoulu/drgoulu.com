@@ -26,7 +26,7 @@ qui donne en référence
 
 Et en cherchant mieux :
 
-- B. Bratsberg,& O. Rogeberg, Flynn effect and its reversal are both environmentally caused, Proc. Natl. Acad. Sci. U.S.A. 115 (26) 6674-6678, [https://doi.org/10.1073/pnas.171...](https://doi.org/10.1073/pnas.1718793115) (2018).
+- B. Bratsberg,& O. Rogeberg, Flynn effect and its reversal are both environmentally caused, Proc. Natl. Acad. Sci. U.S.A. 115 (26) 6674-6678, [https://doi.org/10.1073/pnas.171...](https://web.archive.org/web/20250415144949/https://doi.org/10.1073/pnas.1718793115) (2018).
 
 Qui suggère que l'effet Flynn est local et temporaire, qu'il est toujours en cours en Asie mais a cessé en "Occident" sous l'effet de facteurs environnementaux, voire du
 

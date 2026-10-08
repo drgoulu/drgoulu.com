@@ -17,6 +17,6 @@ Pourquoi devrais-je me fatiguer à vous répondre si vous ne vous donnez pas un 
 
 Alors je :
 
-- vous donne un lien : [Nassim Haramein](https://rationalwiki.org/wiki/Nassim_Haramein) qui montre clairement que non
+- vous donne un lien : [Nassim Haramein](https://web.archive.org/web/20230125055304/https://rationalwiki.org/wiki/Nassim_Haramein) qui montre clairement que non
 - downvote votre question
 - vous mets en "ne plus voir", l'étape juste avant "bloqué".

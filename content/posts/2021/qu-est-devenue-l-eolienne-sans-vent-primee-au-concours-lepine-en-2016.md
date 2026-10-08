@@ -17,6 +17,6 @@ Elle existe toujours
 
 Le brevet est là
 
-[https://worldwide.espacenet.com/...](https://worldwide.espacenet.com/publicationDetails/biblio?CC=EP&NR=3423708A1&KC=A1&FT=D)
+[https://worldwide.espacenet.com/...](https://web.archive.org/web/20211010/https://worldwide.espacenet.com/publicationDetails/biblio?CC=EP&NR=3423708A1&KC=A1&FT=D)
 
 Vous pouvez contacter l inventeur pour lui commander une éolienne ou investir dans sa boîte.

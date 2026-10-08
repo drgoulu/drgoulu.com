@@ -13,7 +13,7 @@ tags:
 coverImage: "./images/7273235-L.jpg"
 ---
 
-{{< figure src="./images/7273235-L.jpg" alt="17 équations qui ont changé le monde" link="http://openlibrary.org/books/OL25439324M/17_équations_qui_ont_changé_le_monde" >}}
+{{< figure src="./images/7273235-L.jpg" alt="17 équations qui ont changé le monde" link="https://web.archive.org/web/20140322032259/http://openlibrary.org/books/OL25439324M/17_équations_qui_ont_changé_le_monde" >}}
 
 Ce livre [[1]](#ref-1) est l'une des raisons pour lesquelles je n'ai pas encore terminé la suite des "[impossibles](/2014/02/02/les-impossibles-1/)". [Ian Stewart](w:Ian_Stewart_(mathématicien)) attaque le sujet dès la première page:
 
@@ -25,7 +25,7 @@ Ce livre [[1]](#ref-1) est l'une des raisons pour lesquelles je n'ai pas encore 
 
 Les 17 équations retenues par Stewart sont autant de chapitres sur des ponts établis entre mathématiques et réalité au cours des siècles:
 
-|  | titre du chapitre | [formule](http://www.vincentabry.com/wp-content/uploads/2014/03/equations.png) | auteur | date |
+|  | titre du chapitre | [formule](https://web.archive.org/web/20140914202824/http://www.vincentabry.com/wp-content/uploads/2014/03/equations.png) | auteur | date |
 | --- | --- | --- | --- | --- |
 | 1 | Le carré de l'hippopotame (le théorème de Pythagore) | $a^2+b^2=c^2$ | Pythagore | \-530 |
 | 2 | Ecourter les procédures (les logarithmes) | $\log xy=\log x+\log y$ | John Napier | 1610 |

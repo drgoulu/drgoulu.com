@@ -19,7 +19,7 @@ Je tombe par hasard sur cet article[[3]](#ZngkZ) qui suggère d'ajouter de place
 
 Notes de bas de page
 
-[[1]](#cite-WpovP)[Why nuclear energy is sustainable and has to be part of the energy mix](https://www.sciencedirect.com/science/article/pii/S2214993714000050#s0035)
+[[1]](#cite-WpovP)[Why nuclear energy is sustainable and has to be part of the energy mix](https://web.archive.org/web/20211228180254/https://www.sciencedirect.com/science/article/pii/S2214993714000050#s0035)
 
 [[2]](#cite-wttcA)[Measuring electromagnetic fields (EMF) around wind turbines in Canada: is there a human health concern? - PubMed](https://pubmed.ncbi.nlm.nih.gov/24529028/)
 

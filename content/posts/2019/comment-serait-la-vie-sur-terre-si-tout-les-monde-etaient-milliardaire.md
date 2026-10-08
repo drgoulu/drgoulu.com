@@ -28,6 +28,6 @@ Avec ce billet de cent mille milliards de dollars zimbabwéens, vous pouviez vou
 
 Notes de bas de page
 
-[[1]](#cite-mMKtA)[La capitalisation boursière mondiale a fondu de 15% en 2018-WEF](https://investir.lesechos.fr/marches/actualites/la-capitalisation-boursiere-mondiale-a-fondu-de-15-en-2018-wef-1826834.php)
+[[1]](#cite-mMKtA)[La capitalisation boursière mondiale a fondu de 15% en 2018-WEF](https://web.archive.org/web/20190212220643/https://investir.lesechos.fr/marches/actualites/la-capitalisation-boursiere-mondiale-a-fondu-de-15-en-2018-wef-1826834.php)
 
 [[2]](#cite-JgDKZ)[Le Zimbabwe, ce pays où tous les habitants sont multi-milliardaires](https://www.capital.fr/entreprises-marches/le-zimbabwe-ce-pays-ou-tous-les-habitants-sont-multi-milliardaires-1048158)

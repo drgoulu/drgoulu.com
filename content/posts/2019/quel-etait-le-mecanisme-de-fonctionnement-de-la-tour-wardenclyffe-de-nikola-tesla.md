@@ -28,4 +28,4 @@ Bref le grand projet de Tesla à été tué par la [Loi en carré inverse](w:), 
 
 Notes de bas de page
 
-[[1]](#cite-MIsqX)[Nikola Tesla On Wireless Energy Transmission](http://www.teslaradio.com/pages/tesla.htm#schumann)
+[[1]](#cite-MIsqX)[Nikola Tesla On Wireless Energy Transmission](https://web.archive.org/web/20190802124522/http://www.teslaradio.com/pages/tesla.htm#schumann)

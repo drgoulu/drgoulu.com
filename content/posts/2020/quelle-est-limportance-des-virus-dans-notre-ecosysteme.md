@@ -22,7 +22,7 @@ Vous savez pourquoi vous pouvez vous baigner dans la mer sans risque de vous fai
 
 Lisez le livre [Planète de virus](/2016/03/28/planete-de-virus/#.XqPuWGiiGCo) de Carl Zimmer. C'est un excellent bouquin de vulgarisation, passionnant. Deux extraits pour les antivax de passage ici:
 
-> Ne sous-estimez jamais la créativité d’un virus qui peut transformer des lapins en [jackalopes](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=jackalope) et des [hommes en arbres](http://www.maxisciences.com/peau/l-039-effrayante-maladie-de-l-039-homme-arbre-dont-la-peau-se-change-en-039-039-ecorce-039-039_art34058.html)
+> Ne sous-estimez jamais la créativité d’un virus qui peut transformer des lapins en [jackalopes](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=jackalope) et des [hommes en arbres](https://web.archive.org/web/20190709222134/http://www.maxisciences.com/peau/l-039-effrayante-maladie-de-l-039-homme-arbre-dont-la-peau-se-change-en-039-039-ecorce-039-039_art34058.html)
 >
 >
 >

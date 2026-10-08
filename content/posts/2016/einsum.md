@@ -68,8 +68,8 @@ Si vous n'avez pas tout suivi, retenez juste ceci:
 
 ### Références
 
-1. <span id="ref-1"></span> Åhlander, K. (2002). "Einstein summation for multidimensional arrays", Computers and Mathematics with Applications, 44, 1007–1017. {{< altmetric doi="10.1016/S0898-1221(02)00210-9" >}} [pdf](http://www.nik.no/2000/Krister.Aahlander.pdf)
+1. <span id="ref-1"></span> Åhlander, K. (2002). "Einstein summation for multidimensional arrays", Computers and Mathematics with Applications, 44, 1007–1017. {{< altmetric doi="10.1016/S0898-1221(02)00210-9" >}} [pdf](https://web.archive.org/web/20150915023534/http://www.nik.no/2000/Krister.Aahlander.pdf)
 2. <span id="ref-2"></span>Alex Riley, "[A basic introduction to NumPy's einsum](http://ajcr.net/Basic-guide-to-einsum/)"
 3. <span id="ref-3"></span>[Einstein summation](http://mathworld.wolfram.com/EinsteinSummation.html) sur MathWorld
-4. <span id="ref-4"></span>[Einsum tutorial](https://github.com/dgasmith/psi4numpy/blob/master/Tutorials/03_einsum/README.md) sur GitHub
-5. <span id="ref-5"></span>[Code source en C de la fonction einsum de NumPy](https://github.com/numpy/numpy/blob/master/numpy/core/src/multiarray/einsum.c.src) (pas simple...)
+4. <span id="ref-4"></span>[Einsum tutorial](https://web.archive.org/web/20160117/https://github.com/dgasmith/psi4numpy/blob/master/Tutorials/03_einsum/README.md) sur GitHub
+5. <span id="ref-5"></span>[Code source en C de la fonction einsum de NumPy](https://web.archive.org/web/20220424213955/https://github.com/numpy/numpy/blob/master/numpy/core/src/multiarray/einsum.c.src) (pas simple...)

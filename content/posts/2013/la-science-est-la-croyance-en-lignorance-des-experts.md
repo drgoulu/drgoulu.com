@@ -66,7 +66,7 @@ J'aimerais vous apporter une autre preuve que les mathématiques ne sont que des
 
 J'écoutais une conversation entre deux filles, et l'une expliquait que si vous voulez faire une ligne droite, voyez-vous, vous vous déplacez d'un certain nombre de carreaux vers la droite pour chaque ligne de carreaux que vous traversez, ou autrement dit, si vous répétez le même déplacement vers la droite pour chaque ligne vers le haut, vous faites une ligne droite. Un grand principe de géométrie analytique ! J'était stupéfait. Je n'avais pas réalisé que l'esprit féminin était capable de comprendre la géométrie analytique.\*
 
-{{< figure src="./images/92bc1f747296c8b698790fb3c424c13f.jpg" alt=") Application de la géométrie analytique" caption=") Application de la géométrie analytique" link="https://en.wikipedia.org/wiki/Argyle_(pattern" width="259" >}}
+{{< figure src="./images/92bc1f747296c8b698790fb3c424c13f.jpg" alt=") Application de la géométrie analytique" caption=") Application de la géométrie analytique" link="https://web.archive.org/web/20210417070110/https://en.wikipedia.org/wiki/Argyle_(pattern" width="259" >}}
 
 Elle continua en disant "Suppose que tu as une autre ligne venant d'une autre direction et que tu cherches où elles vont se croiser. Suppose qu'une ligne va 2 à droite pour 1 en haut, et que l'autre va 3 à droite pour 1 en haut et qu'elles commencent à 20 lignes d'écart." etc. J'étais époustouflé. Elle arriva à dire où l'intersection se produisait. Et puis je compris qu'elle expliquait à l'autre comment tricoter des bas "[argyle](w:en:Argyle_(pattern))".
 

@@ -9,7 +9,7 @@ tags:
 coverImage: "./images/c7e574486450dc0aef7d93851a81f709.jpg"
 ---
 
-Je voulais écrire un petit article de pub pour [Kidi'Science](http://kidiscience.cafe-sciences.org/), le site du C@fé des Sciences destiné aux enfants. Et puis Sirtin a écrit [pourquoi il kiffe la science](http://www.sirtin.fr/2013/04/25/pourquoi-je-kiffe-la-science/) et lancé parmi les c@fetiers l'idée d'une chaîne d'articles expliquant pourquoi nous aimons la science. Et je me suis dit que j'allais faire d'une pierre deux coups.
+Je voulais écrire un petit article de pub pour [Kidi'Science](http://kidiscience.cafe-sciences.org/), le site du C@fé des Sciences destiné aux enfants. Et puis Sirtin a écrit [pourquoi il kiffe la science](https://web.archive.org/web/20130517035624/http://www.sirtin.fr/2013/04/25/pourquoi-je-kiffe-la-science/) et lancé parmi les c@fetiers l'idée d'une chaîne d'articles expliquant pourquoi nous aimons la science. Et je me suis dit que j'allais faire d'une pierre deux coups.
 
 Comme je le mets dans certains profils, je suis "tombé dans la science quand j'étais petit".
 

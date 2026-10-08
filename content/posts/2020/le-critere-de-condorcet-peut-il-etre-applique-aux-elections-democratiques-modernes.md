@@ -37,4 +37,4 @@ Le dernier mentionné est celui des élections présidentielles dans de nombreux
 
 Selon le [Théorème d'impossibilité d'arrow](w:), Satisfaire le critère de Condorcet, c'est renoncer à ce que le président soit élu par une majorité d'électeurs.
 
-Il existe plusieurs services en ligne pour organiser une élection de Condorcet, par exemple [Condorcet Internet Voting Service](https://civs.cs.cornell.edu/)
+Il existe plusieurs services en ligne pour organiser une élection de Condorcet, par exemple [Condorcet Internet Voting Service](https://web.archive.org/web/20201016100307/https://civs.cs.cornell.edu/)

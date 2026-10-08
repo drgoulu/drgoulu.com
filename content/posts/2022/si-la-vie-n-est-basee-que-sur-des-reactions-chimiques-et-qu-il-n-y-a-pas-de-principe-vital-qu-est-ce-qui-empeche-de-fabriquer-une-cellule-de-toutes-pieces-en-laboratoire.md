@@ -22,4 +22,4 @@ Pour l'instant on sait modifier le code génétique d'une cellule pour qu'elle p
 
 On sait fabriquer des [Ribozymes](w:Ribozyme)qui se répliquent "tous seuls" en 5 minutes environ, et au bout de quelques heures on constate qu'ils évoluent déjà , si c'était le sens de votre question.
 
-[https://www.sciencedirect.com/sc...](https://www.sciencedirect.com/science/article/pii/S1074552113004262)
+[https://www.sciencedirect.com/sc...](https://web.archive.org/web/20220701033148/https://www.sciencedirect.com/science/article/pii/S1074552113004262)

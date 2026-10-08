@@ -37,4 +37,4 @@ Voilà les faits.
 
 Notes de bas de page
 
-[[1]](#cite-dyGOp)[$CPT$-Symmetric Universe](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.251301)
+[[1]](#cite-dyGOp)[$CPT$-Symmetric Universe](https://web.archive.org/web/20230322144316/https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.251301)

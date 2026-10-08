@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Voir
 
-[https://stackoverflow.com/a/2637138](https://stackoverflow.com/a/2637138)
+[https://stackoverflow.com/a/2637138](https://web.archive.org/web/20201010115912/https://stackoverflow.com/a/2637138)

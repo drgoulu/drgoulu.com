@@ -17,4 +17,4 @@ Ce n'est pas Google mais Facebook, et le "langage incompréhensible" était celu
 
 En fait leur expérience n'était pas concluante du tout.
 
-[https://blog.athenagt.com/truth-...](https://blog.athenagt.com/truth-behind-why-fb-shut-down-ai-not-because-it-invented-new-language/)
+[https://blog.athenagt.com/truth-...](https://web.archive.org/web/20190722114457/https://blog.athenagt.com/truth-behind-why-fb-shut-down-ai-not-because-it-invented-new-language/)

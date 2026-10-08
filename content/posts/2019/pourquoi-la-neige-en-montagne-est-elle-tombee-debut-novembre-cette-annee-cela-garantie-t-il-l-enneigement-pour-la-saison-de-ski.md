@@ -24,7 +24,7 @@ Voici par exemple le graphique pour la station de ski d'Arosa, où on voit que N
 
 ![](./images/qimg-16d984c1dabad6fc96b3c24404980a3d.png)
 
-Sur [Historique des chutes de neige sur Verbier](https://fr.skiinfo.ch/valais/verbier/historique-enneigement.html?y=0) vous pouvez voir que les chutes de neige sont extrêmement variables d'une année sur l'autre, et n'ont pas l'air d'être liées à la date de la première neige.
+Sur [Historique des chutes de neige sur Verbier](https://web.archive.org/web/20170817013129/https://fr.skiinfo.ch/valais/verbier/historique-enneigement.html?y=0) vous pouvez voir que les chutes de neige sont extrêmement variables d'une année sur l'autre, et n'ont pas l'air d'être liées à la date de la première neige.
 
 Mon expérience est que [trois jours de foehn](w:Effet_de_foehn) suffisent à réduire n'importe quelle couche de neige à presque rien, la température étant parfois si élevée que les canons à neige ne peuvent pas fonctionner. Pour bien skier, il faut surtout qu'il n'y ait pas eu de foehn depuis la dernière chute de neige.
 

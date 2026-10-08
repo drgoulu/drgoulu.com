@@ -18,7 +18,7 @@ draft: true
 
 la démarche TRIZ est constituées d'étapes séquentielles (qui vont plus loin que la fameuse table qui fait l'essentiel de l'[article Wikipédia](w:TRIZ)
 
-Il existe des logiciels comme [STEPS](http://www.time-to-innovate.com/content/steps) pour formaliser la démarche et effectuer certaines opérations automatiquement
+Il existe des logiciels comme [STEPS](https://web.archive.org/web/20140104064836/http://www.time-to-innovate.com/content/steps) pour formaliser la démarche et effectuer certaines opérations automatiquement
 
 ### 1 Analyse de la Situation Initiale
 
@@ -78,7 +78,7 @@ note : pour TRIZ l'innovation "de rupture" est une innovation au niveau du supe
     - techniques : lorsqu'on améliore un paramètre, un autre se dégrade. 70% de ces contradictions ont déjà trouvé une solution dans le passé : exploiter cette connaissance ! Seuls 30% se ramènent à des contradiction physiques
     - physiques : pas de compromis possible
 - outil : formalisation dialectique : SI (le paramètre) EST (plus grand/petit etc.) QUE (une valeur numérique) ALORS (liste d'avantages ET d'inconvénients) SINON (liste d'avantages ET d'inconvénients)
-- [exemple en ligne](http://www.time-to-innovate.com/steps_matrix)
+- [exemple en ligne](https://web.archive.org/web/20140116071947/http://www.time-to-innovate.com/steps_matrix)
 
 ### 6 La Matrice
 

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 comme ça:
 
-[https://www.wolframalpha.com/inp...](https://www.wolframalpha.com/input?i=cos(x)+++cos(2x)+-+3cos(x)+=+1)
+[https://www.wolframalpha.com/inp...](https://web.archive.org/web/20210427153655/https://www.wolframalpha.com/input?i=cos(x)+++cos(2x)+-+3cos(x)+=+1)

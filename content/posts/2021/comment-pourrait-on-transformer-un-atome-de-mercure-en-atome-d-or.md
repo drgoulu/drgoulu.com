@@ -38,4 +38,4 @@ L'autre solution, c'est d'utiliser des neutrons rapides pour "shooter" des neutr
 
 Ca donne toutes sortes d'isotopes, dont de l'or radioactif, et ça a été fait en 1941 déjà :
 
-[https://journals.aps.org/pr/abst...](https://journals.aps.org/pr/abstract/10.1103/PhysRev.60.473)
+[https://journals.aps.org/pr/abst...](https://web.archive.org/web/20210305005521/https://journals.aps.org/pr/abstract/10.1103/PhysRev.60.473)

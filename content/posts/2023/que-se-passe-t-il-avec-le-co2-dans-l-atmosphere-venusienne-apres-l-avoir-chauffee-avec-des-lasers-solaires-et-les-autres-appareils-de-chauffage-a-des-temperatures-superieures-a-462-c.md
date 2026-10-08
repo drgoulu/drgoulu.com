@@ -13,7 +13,7 @@ coverImage: ./images/qimg-66d94c8a27cabde3a04aeb418bbc5294.jpg
 
 A 1200 °C vous obtenez la thermolyse du CO2 en O2 et en CO.
 
-[https://pubs.rsc.org/en/content/...](https://pubs.rsc.org/en/content/articlelanding/2017/cc/c6cc08801e)
+[https://pubs.rsc.org/en/content/...](https://web.archive.org/web/20221229172310/https://pubs.rsc.org/en/content/articlelanding/2017/cc/c6cc08801e)
 
 En refroidissant, le [Monoxyde de carbone](w:)se recombine avec lui même selon la réaction
 

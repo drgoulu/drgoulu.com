@@ -11,7 +11,7 @@ tags:
 coverImage: "./images/e84477e20ee5ffe6ba1dcb969c41c2dc.png"
 ---
 
-Dans la [Tribune de Genève d'hier, le conseiller national André Reymond (UDC) motive son attaque contre l'aide au développement suisse](http://www.tdg.ch/pages/home/tribune_de_geneve/l_actu/opinions__1/opinions_detail/\(contenu\)/235175) par "_la lente agonie du continent africain, qui témoigne de la faillite de l'aide aux pays en voie de développement_". Or si l'idée selon laquelle l'Afrique régresse est assez répandue, elle ne correspond pas aux faits.
+Dans la [Tribune de Genève d'hier, le conseiller national André Reymond (UDC) motive son attaque contre l'aide au développement suisse](https://web.archive.org/web/20080611/http://www.tdg.ch/pages/home/tribune_de_geneve/l_actu/opinions__1/opinions_detail/\(contenu\)/235175) par "_la lente agonie du continent africain, qui témoigne de la faillite de l'aide aux pays en voie de développement_". Or si l'idée selon laquelle l'Afrique régresse est assez répandue, elle ne correspond pas aux faits.
 
 A l'aide du fantastique outil [Gapminder.org](http://www.gapminder.org/) dont j'ai déjà parlé [ici](/2007/07/08/gapminderorg/) et [là](/2007/08/21/les-mythes-sur-le-tiers-monde/), on peut constater que le pouvoir d'achat par habitant de tous les pays africains (sauf la Rép. Dém. du Congo) a au moins doublé depuis 1950, mais aussi que l'espérance de vie a augmenté de 15 à 20 ans pendant cette période.
 

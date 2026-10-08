@@ -17,4 +17,4 @@ Accessoirement, les ffp3 coûtent 100x plus cher que les ffp2…
 
 Notes de bas de page
 
-[[1]](#cite-FrqhS)[Qu’est-ce que le « R0 », le taux de reproduction du virus ?](https://www.lemonde.fr/les-decodeurs/article/2020/06/26/qu-est-ce-que-le-r0-le-taux-de-reproduction-du-virus_6044327_4355770.html)
+[[1]](#cite-FrqhS)[Qu’est-ce que le « R0 », le taux de reproduction du virus ?](https://web.archive.org/web/20240910125200/https://www.lemonde.fr/les-decodeurs/article/2020/06/26/qu-est-ce-que-le-r0-le-taux-de-reproduction-du-virus_6044327_4355770.html)

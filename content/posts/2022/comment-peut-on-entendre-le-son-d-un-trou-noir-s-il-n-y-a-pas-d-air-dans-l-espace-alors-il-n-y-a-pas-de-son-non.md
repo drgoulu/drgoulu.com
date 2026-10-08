@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 en lisant l'article, pas seulement son titre.
 
-[https://www.slate.fr/story/22746...](https://www.slate.fr/story/227464/trou-noir-chante-ecouter-nasa-son-audio)
+[https://www.slate.fr/story/22746...](https://web.archive.org/web/20220509202853/https://www.slate.fr/story/227464/trou-noir-chante-ecouter-nasa-son-audio)

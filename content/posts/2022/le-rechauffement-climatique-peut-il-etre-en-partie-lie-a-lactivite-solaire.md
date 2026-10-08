@@ -25,4 +25,4 @@ Et à rien d'autre.
 
 Notes de bas de page
 
-[[1]](#cite-DaOvS)[L'augmentation de l'effet de serre et ses conséquences](https://planet-terre.ens-lyon.fr/ressource/effet-de-serre-royer.xml)
+[[1]](#cite-DaOvS)[L'augmentation de l'effet de serre et ses conséquences](https://web.archive.org/web/20230130231141/https://planet-terre.ens-lyon.fr/ressource/effet-de-serre-royer.xml)

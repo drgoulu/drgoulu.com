@@ -34,10 +34,10 @@ Je vous **encourage vraiment** à regarder les vidéos d’[Hans Rosling](/2017/
 
 Notes de bas de page
 
-[[1]](#cite-hHVwg)[Transcript of "Les meilleures statistiques jamais vues"](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen/transcript?language=fr)
+[[1]](#cite-hHVwg)[Transcript of "Les meilleures statistiques jamais vues"](https://web.archive.org/web/20170428224634/https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen/transcript?language=fr)
 
 [[2]](#cite-gEKtH)[Liste des pays par densité de population — Wikipédia](w:Liste_des_pays_par_densité_de_population)
 
-[[3]](#cite-wwzkK)[Hans Rosling à propos de la croissance de la population mondiale](https://www.ted.com/talks/hans_rosling_on_global_population_growth?language=fr)
+[[3]](#cite-wwzkK)[Hans Rosling à propos de la croissance de la population mondiale](https://web.archive.org/web/20190409101209/https://www.ted.com/talks/hans_rosling_on_global_population_growth?language=fr)
 
 [[4]](#cite-tcLam)[400 parties par million, et moi, et moi, émoi ? - Pourquoi Comment Combien](/2013/05/11/400-parties-par-million-et-moi-et-moi-emoi/)

@@ -76,7 +76,7 @@ Selon l' économiste [Earl J.\_Hamilton](w:)[[4]](#ref-4), cet afflux de métau
 
 ### Références
 
-1. <span id="ref-1"></span>"[Les camélidés américains](http://www.welcominperu.com/index.php/faune/les-camelides-d-americains)" sur welcome in Peru
+1. <span id="ref-1"></span>"[Les camélidés américains](https://web.archive.org/web/20141115200458/http://www.welcominperu.com/index.php/faune/les-camelides-d-americains)" sur welcome in Peru
 2. <span id="ref-2"></span>"[Une laine qui vaut son pesant d’or](http://www.greenetvert.fr/2010/11/08/une-laine-qui-vaut-son-pesant-dor/10160)" sur Green et Vert
-3. <span id="ref-3"></span>Christopher Minster "[The Treasure of the Inca](http://latinamericanhistory.about.com/od/theconquestofperu/p/The-Treasure-Of-The-Inca.htm)"
-4. <span id="ref-4"></span>Tejvan Pettinger, "[What happened to the Spanish Gold from the Incas?](http://www.economicshelp.org/blog/7785/concepts/what-happened-to-the-spanish-gold-from-the-incas/)"
+3. <span id="ref-3"></span>Christopher Minster "[The Treasure of the Inca](https://web.archive.org/web/20140712071707/http://latinamericanhistory.about.com/od/theconquestofperu/p/The-Treasure-Of-The-Inca.htm)"
+4. <span id="ref-4"></span>Tejvan Pettinger, "[What happened to the Spanish Gold from the Incas?](https://web.archive.org/web/20140801222250/http://www.economicshelp.org/blog/7785/concepts/what-happened-to-the-spanish-gold-from-the-incas/)"

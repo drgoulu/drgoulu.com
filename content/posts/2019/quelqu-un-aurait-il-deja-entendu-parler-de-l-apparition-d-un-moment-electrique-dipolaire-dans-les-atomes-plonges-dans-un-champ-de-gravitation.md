@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quelquun-aurait-il-d%C3%A9j%C3%A0-entendu-parler-de-lapparition-dun-moment-%C3%A9lectrique-dipolaire-dans-les-atomes-plong%C3%A9s-dans-un-champ-de-gravitation/answer/Dr-Goulu)*
 
-Non, mais une petite recherche donne des choses comme ça : [Virtual gravitational dipoles: The key for the understanding of the Universe?](https://www.sciencedirect.com/science/article/pii/S2212686414000077) ou [http://cds.cern.ch/record/301697...](http://cds.cern.ch/record/301697/files/9604044.pdf)
+Non, mais une petite recherche donne des choses comme ça : [Virtual gravitational dipoles: The key for the understanding of the Universe?](https://web.archive.org/web/20211112151518/https://www.sciencedirect.com/science/article/pii/S2212686414000077) ou [http://cds.cern.ch/record/301697...](http://cds.cern.ch/record/301697/files/9604044.pdf)
 
 Le premier est construit sur l'hypothèse que l'antimatière "tombe vers le haut" (Les expériences Alpha-G et GBAR du CERN[[1]](#xJdUr) vont confirmer si les premiers résultats montrant qu'elle tombe "normalement" sont corrects)
 

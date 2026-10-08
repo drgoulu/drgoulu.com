@@ -17,4 +17,4 @@ L'auteur de cette thèse [[1]](#LOLxy) a trouvé 750 taxons de bactéries dans u
 
 Notes de bas de page
 
-[[1]](#cite-LOLxy)[https://www.researchgate.net/pub...](https://www.researchgate.net/publication/30517767_Bacteries_du_sable_de_Merzouga)
+[[1]](#cite-LOLxy)[https://www.researchgate.net/pub...](https://web.archive.org/web/20200105/https://www.researchgate.net/publication/30517767_Bacteries_du_sable_de_Merzouga)

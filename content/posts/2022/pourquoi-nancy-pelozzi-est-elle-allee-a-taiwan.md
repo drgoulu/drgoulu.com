@@ -29,6 +29,6 @@ N'oubliez jamais que la démocratie n'est un droit que parce que des gens ont pa
 
 Notes de bas de page
 
-[[1]](#cite-DPEXu)[Nancy Pelosi à Taïwan : l'administration Biden avait émis des réserves sur ce voyage](https://www.europe1.fr/international/nancy-pelosi-a-taiwan-ladministration-biden-avait-emis-des-reserves-sur-ce-voyage-4126351)
+[[1]](#cite-DPEXu)[Nancy Pelosi à Taïwan : l'administration Biden avait émis des réserves sur ce voyage](https://web.archive.org/web/20221115054105/https://www.europe1.fr/international/nancy-pelosi-a-taiwan-ladministration-biden-avait-emis-des-reserves-sur-ce-voyage-4126351)
 
 [[2]](#cite-vAxYZ)[Agression du mari de Nancy Pelosi: le suspect inculpé de tentatives de meurtre et d'enlèvement](https://www.letemps.ch/monde/agression-mari-nancy-pelosi-suspect-inculpe-tentatives-meurtre-denlevement)

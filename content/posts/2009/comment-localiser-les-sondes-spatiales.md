@@ -20,7 +20,7 @@ Dans les deux autres direction requises pour obtenir une position dans l'espace,
 
 La précision du positionnement peut encore être améliorée en tenant compte de [l'attraction des corps](/2008/11/16/le-probleme-a-n-corps/) célestes : en observant l'orbite de Cassini dans le système de Saturne, la position de la sonde est connue à moins d'1 km près, ce qui n'est pas mal si l'on considère qu'elle est à plus d'un milliard de kilomètres d'ici.
 
-{{< figure src="./images/00215804ecc0102f0e333984c4c7439c.png" alt="position des 4 sondes ayant dépassé lorbite de Pluton" caption="position des 4 sondes ayant dépassé l" link="http://www.heavens-above.com/SolarEscape.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=CET" align="aligncenter" width="400" >}}
+{{< figure src="./images/00215804ecc0102f0e333984c4c7439c.png" alt="position des 4 sondes ayant dépassé lorbite de Pluton" caption="position des 4 sondes ayant dépassé l" link="https://web.archive.org/web/20120219193127/http://www.heavens-above.com/SolarEscape.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=CET" align="aligncenter" width="400" >}}
 
 ### Vers un GPS galactique
 
@@ -34,5 +34,5 @@ On connait aujourd'hui environ 700 pulsars milliseconde dans notre Galaxie, dont
 
 1. <span id="ref-1"></span>Jeremy Jones "[How do space probes navigate large distances with such accuracy](http://www.scientificamerican.com/article.cfm?id=how-do-space-probes-navig) ?", 2006, Scientific American
 2. <span id="ref-2"></span>[Millisecond Pulsars for Starship Navigation](http://www.centauri-dreams.org/?p=8041) sur Centauri Dreams
-3. <span id="ref-3"></span>Josep Sala et al, "[Feasibility Study for a Spacecraft Navigation System relying on Pulsar Timing Information](http://www.esa.int/gsp/ACT/doc/ARI/ARI%20Study%20Report/ACT-RPT-MAD-ARI-03-4202-Pulsar%20Navigation-UPC.pdf)",  2004, ESA, ARIADNA 03/4202 report
-4. <span id="ref-4"></span>Bartolomé Coll and Albert Tarantola, "[Using Pulsars to Define Space-Time Coordinates](http://arxiv.org/PS_cache/arxiv/pdf/0905/0905.4121v1.pdf)", 2009
+3. <span id="ref-3"></span>Josep Sala et al, "[Feasibility Study for a Spacecraft Navigation System relying on Pulsar Timing Information](https://web.archive.org/web/20130630042530/http://www.esa.int/gsp/ACT/doc/ARI/ARI%20Study%20Report/ACT-RPT-MAD-ARI-03-4202-Pulsar%20Navigation-UPC.pdf)",  2004, ESA, ARIADNA 03/4202 report
+4. <span id="ref-4"></span>Bartolomé Coll and Albert Tarantola, "[Using Pulsars to Define Space-Time Coordinates](https://web.archive.org/web/20240326195246/http://arxiv.org/PS_cache/arxiv/pdf/0905/0905.4121v1.pdf)", 2009

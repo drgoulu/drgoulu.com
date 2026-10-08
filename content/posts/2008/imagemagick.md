@@ -41,6 +41,6 @@ Mais ceci est fastidieux pour une police complète, et pour des raisons de progr
 
 Ces 2 lignes génèrent automatiquement 130 fichiers de belles lettres prêtes à être utilisées comme textures dans votre jeu. A noter que ces fichiers pèsent déjà 10 Mb au total, soit plus que l'exécutable d'ImageMagick : il peut donc être intéressant d'inclure ImageMagick à votre produit et de l'utiliser pour créer les polices nécessaires lors de l'installation plutôt que d'alourdir votre distribution...
 
-Enfin, si vous trouvez les polices ci-dessus un peu trop carrées, visitez [cette page](http://www.imagemagick.org/Usage/fonts/) qui vous donnera une petite idée des effets possibles, et explorez [celle-ci](http://www.imagemagick.org/Usage/) pour une vision plus complète.
+Enfin, si vous trouvez les polices ci-dessus un peu trop carrées, visitez [cette page](https://web.archive.org/web/20080512215411/http://www.imagemagick.org/Usage/fonts/) qui vous donnera une petite idée des effets possibles, et explorez [celle-ci](https://web.archive.org/web/20080510233539/http://www.imagemagick.org/Usage/) pour une vision plus complète.
 
 [_(this article is available in English here)_](http://3dmon.wordpress.com/2008/05/10/generation-of-high-quality-bitmap-fonts/)

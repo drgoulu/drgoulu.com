@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Comment-r%C3%A9solvez-vous-cette-%C3%A9quation-x%C2%B2-5x-6-0/answer/Dr-Goulu)*
 
-En la coupant/collant dans [Wolfram|Alpha](https://www.wolframalpha.com/input/?i=x²+++5x+-+6+=+0)
+En la coupant/collant dans [Wolfram|Alpha](https://web.archive.org/web/20190502/https://www.wolframalpha.com/input/?i=x²+++5x+-+6+=+0)

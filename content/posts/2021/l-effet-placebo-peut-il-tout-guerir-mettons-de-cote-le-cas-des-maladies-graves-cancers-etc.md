@@ -30,4 +30,4 @@ Non. Depuis le début du siècle se développe une compréhension neurophysiolog
 
 Reference
 
-1. Predrag Petrovic et al. “[Placebo and Opioid Analgesia – Imaging a Shared Neuronal Network](http://www.wisebrain.org/papers/Placebo.pdf)“,Science 1 March 2002, Vol. 295. no. 5560, pp. 1737 – 1740
+1. Predrag Petrovic et al. “[Placebo and Opioid Analgesia – Imaging a Shared Neuronal Network](https://web.archive.org/web/20220818000801/http://www.wisebrain.org/papers/Placebo.pdf)“,Science 1 March 2002, Vol. 295. no. 5560, pp. 1737 – 1740

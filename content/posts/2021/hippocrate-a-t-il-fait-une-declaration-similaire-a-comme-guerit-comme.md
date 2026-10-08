@@ -17,7 +17,7 @@ coverImage: ./images/quora.png
 *Réponse publiée [sur Quora](https://fr.quora.com/Hippocrate-a-t-il-fait-une-d%C3%A9claration-similaire-%C3%A0-comme-gu%C3%A9rit-comme/answer/Dr-Goulu)*
 
 > similia similibus cur(a/e)ntur
-> ([List of Latin phrases (S) - Wikipedia](https://fr.xcv.wiki/wiki/List_of_Latin_phrases_(S)))
+> ([List of Latin phrases (S) - Wikipedia](https://web.archive.org/web/20210705/https://fr.xcv.wiki/wiki/List_of_Latin_phrases_(S)))
 >
 >
 >

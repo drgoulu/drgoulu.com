@@ -20,4 +20,4 @@ Le [Décibel](w:) n'est pas une unité de puissance. C'est un rapport entre deux
 
 En acoustique on mesure le niveau sonore ainsi, ou la deuxième puissance "de référence" est un son juste en dessous de la limite de l'audible.
 
-On estime que les bombes atomiques de Hiroshima et Nagasaki ont dégagé un niveau sonore de 170 dB, le bruit de l’explosion ayant été entendu à plus de 100 km de distance. ( [Edition du soir Ouest France](https://www.ouest-france.fr/leditiondusoir/data/82930/reader/reader.html#!preferred/1/package/82930/pub/117248/page/16) )
+On estime que les bombes atomiques de Hiroshima et Nagasaki ont dégagé un niveau sonore de 170 dB, le bruit de l’explosion ayant été entendu à plus de 100 km de distance. ( [Edition du soir Ouest France](https://web.archive.org/web/20200304165223/https://www.ouest-france.fr/leditiondusoir/data/82930/reader/reader.html#!preferred/1/package/82930/pub/117248/page/16) )

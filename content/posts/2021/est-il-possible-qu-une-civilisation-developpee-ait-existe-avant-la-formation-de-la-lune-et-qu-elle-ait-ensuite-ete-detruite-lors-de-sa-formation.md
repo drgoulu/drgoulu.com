@@ -30,4 +30,4 @@ Ce petit tableau résume la [Chronologie de l'évolution du vivant](w:):
 
 Notes de bas de page
 
-[[1]](#cite-bWDBR)[Comment sont nés les océans ?](http://www.linternaute.com/science/environnement/comment/06/oceans/oceans.shtml)
+[[1]](#cite-bWDBR)[Comment sont nés les océans ?](https://web.archive.org/web/20210503104913/http://www.linternaute.com/science/environnement/comment/06/oceans/oceans.shtml)

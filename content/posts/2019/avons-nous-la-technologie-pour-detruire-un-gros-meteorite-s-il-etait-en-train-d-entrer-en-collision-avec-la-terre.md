@@ -15,4 +15,4 @@ Non, et ce serait une mauvaise idée, ça ferait plusieurs impacts au lieu d'un 
 
 On a éventuellement la technologie pour modifier l'orbite d'un gros caillou si on sait plusieurs années à l'avance qu'il va nous impacter, et on a déjà la technologie pour détecter ces caillous et prévoir leur trajectoire plusieurs années à l'avance
 
-[ESA - European Space Agency](http://neo.ssa.esa.int/risk-page)
+[ESA - European Space Agency](https://web.archive.org/web/20190503013639/http://neo.ssa.esa.int/risk-page)

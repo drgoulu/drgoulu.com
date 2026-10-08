@@ -18,7 +18,7 @@ _Réponse publiée_ [_sur Quora_](https://fr.quora.com/Qui-peut-mexpliquer-comme
 
 Le blog technique de Netflix est passionnant si vous vous intéressez à ces questions
 
-[https://netflixtechblog.com/](https://netflixtechblog.com/)
+[https://netflixtechblog.com/](https://web.archive.org/web/20251114005642/https://netflixtechblog.com/)
 
 Une partie de leur code source est public, régalez-vous
 
@@ -26,7 +26,7 @@ Une partie de leur code source est public, régalez-vous
 
 Mais l'essentiel est dans leurs brevets :
 
-[https://patents.justia.com/assig...](https://patents.justia.com/assignee/netflix-inc)
+[https://patents.justia.com/assig...](https://web.archive.org/web/20250717064126/https://patents.justia.com/assignee/netflix-inc)
 
 En gros, ils ont leur propre [CDN](w:Réseau_de_diffusion_de_contenu) appelé [Open Connect](w:en:Open_Connect)et installé chez les principaux FAI. Ils uploadent le contenu à l'avance en fonction des prédictions faites sur l'utilisation des clients locaux.
 

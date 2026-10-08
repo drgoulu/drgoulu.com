@@ -63,7 +63,7 @@ Alors qu'avec un site statique comme Hugo, je pouvais voir le résultat immédia
 
 C'est une des raisons qui a fini de me décider à abandonner WordPress pour un générateur de site statique, Hugo en l'occurrence.
 
-Une fois cette décision prise, j'ai simplement demandé à mon IA préférée de réaliser [quora2hugo](https://github.com/drgoulu/quora2hugo) sur la base de quora2wordpress en générant des fichiers markdown contenant chaque article, avec les images placées au bon endroit, des shortcodes hugo pour les images, les liens, les références bibliographiques, etc.
+Une fois cette décision prise, j'ai simplement demandé à mon IA préférée de réaliser [quora2hugo](https://web.archive.org/web/20260917/https://github.com/drgoulu/quora2hugo) sur la base de quora2wordpress en générant des fichiers markdown contenant chaque article, avec les images placées au bon endroit, des shortcodes hugo pour les images, les liens, les références bibliographiques, etc.
 
 De plus je ne voulais pas noyer drgoulu.com sous 15'000 articles Quora dont beaucoup sont des réponses lapidaires, donc j'ai défini que toutes les réponses de moins de 500 caractères devaient être considérées comme des brouillons que je publierai le cas échéant.
 

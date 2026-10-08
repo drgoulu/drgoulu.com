@@ -28,9 +28,9 @@ et en effet, la technologie générée a été telle qu’aujourd’hui des robo
 
 Notes de bas de page
 
-[[1]](#cite-ojVeI)[New tape: JFK fretted moon program was tough sell](https://phys.org/news/2011-05-tape-jfk-fretted-moon-tough.html)
+[[1]](#cite-ojVeI)[New tape: JFK fretted moon program was tough sell](https://web.archive.org/web/20190823031020/https://phys.org/news/2011-05-tape-jfk-fretted-moon-tough.html)
 
-[[2]](#cite-gLEaD)[NASA - Lunar Exploration Objectives](https://www.nasa.gov/exploration/home/why_moon_objectives.html)
+[[2]](#cite-gLEaD)[NASA - Lunar Exploration Objectives](https://web.archive.org/web/20190923013153/https://www.nasa.gov/exploration/home/why_moon_objectives.html)
 
 ---
 
@@ -50,7 +50,7 @@ Pour justifier le coût colossal d’une base habitée sur la Lune, il faudra tr
 
 Notes de bas de page
 
-[[1]](#cite-ElEeS)[NASA - Lunar Exploration Objectives](https://www.nasa.gov/exploration/home/why_moon_objectives.html)
+[[1]](#cite-ElEeS)[NASA - Lunar Exploration Objectives](https://web.archive.org/web/20190923013153/https://www.nasa.gov/exploration/home/why_moon_objectives.html)
 
 ---
 

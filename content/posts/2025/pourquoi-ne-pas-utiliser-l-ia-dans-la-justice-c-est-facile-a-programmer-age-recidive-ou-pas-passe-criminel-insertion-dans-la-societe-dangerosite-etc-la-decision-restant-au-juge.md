@@ -17,6 +17,6 @@ Une IA pourrait connaître tous les cas similaires, tous les jugements donnés d
 
 Et elle ne serait pas influencée par la faim ou la digestion, comme l'a démontré cette étude entre autres:
 
-[https://www.pnas.org/doi/10.1073...](https://www.pnas.org/doi/10.1073/pnas.1018033108)
+[https://www.pnas.org/doi/10.1073...](https://web.archive.org/web/20250724095414/https://www.pnas.org/doi/10.1073/pnas.1018033108)
 
 On pourrait commencer par utiliser une IA pour les libérations anticipées ou conditionnelles…

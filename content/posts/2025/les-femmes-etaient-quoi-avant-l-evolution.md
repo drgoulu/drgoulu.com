@@ -28,5 +28,5 @@ Références:
 
 1. Robertson, M. P., & Joyce, G. F. (2014). Highly efficient self-replicating RNA enzymes. *Chemistry and Biology*, *21*(2), 238–245. [https://doi.org/10.1016/j.chembi...](https://doi.org/10.1016/j.chembiol.2013.12.004)
 2. [Adaptation humaine à la haute altitude — Wikipédia](w:Adaptation_humaine_à_la_haute_altitude)
-3. [L’humain est-il un polygame refoulé ? Partie 1/3 : l’homme, ce parasite sexuel.](https://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/) (GENIAL !)
+3. [L’humain est-il un polygame refoulé ? Partie 1/3 : l’homme, ce parasite sexuel.](https://web.archive.org/web/20250114184715/https://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/) (GENIAL !)
 4. [Fille ou garçon ? Le développement des organes génitaux](https://robertdebre.aphp.fr/wp-content/blogs.dir/137/files/2013/08/LivretInfo.developpement_OGE.pdf), Hôpitaux de Paris

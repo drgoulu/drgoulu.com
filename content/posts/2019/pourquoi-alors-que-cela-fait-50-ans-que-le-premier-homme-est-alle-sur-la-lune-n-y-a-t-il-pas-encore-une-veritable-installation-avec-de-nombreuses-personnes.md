@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Pour y faire quoi ?
 
-Une enquête de la NASA [[1]](#ujMhy) a répertorié [181 choses](http://www.nasa.gov/pdf/163560main_LunarExplorationObjectives.pdf) intéressantes à faire sur la Lune, réparties en [6 thèmes](http://www.nasa.gov/exploration/home/why_moon.html):
+Une enquête de la NASA [[1]](#ujMhy) a répertorié [181 choses](https://web.archive.org/web/20190919005030/http://www.nasa.gov/pdf/163560main_LunarExplorationObjectives.pdf) intéressantes à faire sur la Lune, réparties en [6 thèmes](https://web.archive.org/web/20190818020632/http://www.nasa.gov/exploration/home/why_moon.html):
 
 1. connaissances scientifiques : installation d’instruments de mesure, de télescopes et d’expériences de physique
 2. expansion économique : systèmes d’observation et de mesure de la Terre fournissant des données commercialisables, pour beaucoup en relation avec le climat
@@ -35,4 +35,4 @@ Pour justifier le coût colossal d’une base habitée sur la Lune, il faudra tr
 
 Notes de bas de page
 
-[[1]](#cite-ujMhy)[NASA - Lunar Exploration Objectives](https://www.nasa.gov/exploration/home/why_moon_objectives.html)
+[[1]](#cite-ujMhy)[NASA - Lunar Exploration Objectives](https://web.archive.org/web/20190923013153/https://www.nasa.gov/exploration/home/why_moon_objectives.html)

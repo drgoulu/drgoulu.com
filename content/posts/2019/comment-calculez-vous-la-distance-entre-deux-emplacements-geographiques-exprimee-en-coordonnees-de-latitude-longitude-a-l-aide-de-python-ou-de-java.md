@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 le package [geopy](https://pypi.org/project/geopy/) a deux [fonctions distance](https://geopy.readthedocs.io/en/stable/#module-geopy.distance) (grand cercle et géodésique) dont le [code est là](https://github.com/geopy/geopy/blob/master/geopy/distance.py)
 
-La version plus simple est là : [Getting distance between two points based on latitude/longitude](https://stackoverflow.com/a/19412565)
+La version plus simple est là : [Getting distance between two points based on latitude/longitude](https://web.archive.org/web/20210725081956/https://stackoverflow.com/a/19412565)

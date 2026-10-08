@@ -24,4 +24,4 @@ Ca m’est revenu en mémoire suite à la réponse traduite par [Gérard Briais]
 
 [Les requins sont-ils attirés par le sang ? - Pourquoi Comment Combien](/2014/04/19/les-requins-sont-ils-attires-par-le-sang/)
 
-Note* : série hautement recommandée, à commencer par l’épisode [Moon Landing Hoax.](https://www.dailymotion.com/video/x2m7k1z)
+Note* : série hautement recommandée, à commencer par l’épisode [Moon Landing Hoax.](https://web.archive.org/web/20190324031947/https://www.dailymotion.com/video/x2m7k1z)

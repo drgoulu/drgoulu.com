@@ -28,6 +28,6 @@ Il existe cependant un article 9 de cette convention qui dit :
 >
 > La Suisse s’est appuyée sur cet article 9 pour autoriser le tir de plusieurs loups appartenant à la population alpine (France, Italie, Suisse) qui avaient causé d’importants dégâts au bétail.
 
-([Convention de Berne: le loup toujours strictement protégé](https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-8525.html))
+([Convention de Berne: le loup toujours strictement protégé](https://web.archive.org/web/20240625085924/https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-8525.html))
 
 Personnellement je regrette qu'il n'y ait pas une commission d'experts internationaux qui définissent clairement le nombre de loups qui peuvent vivre dans une région donnée. En Suisse j'ai l'impression que les chasseurs et éleveurs ont une influence locale déterminante.

@@ -22,7 +22,7 @@ Par exemple cette séquence :
 
 > 211,190,16,57,178,95,209,29,26,38,101,243,20,139,33,40,112
 
-est-elle générée par [RANDOM.ORG - Sequence Generator](https://www.random.org/sequences/) ou est-ce une suite d’octets extraite de [SainteBible.zip](http://SainteBible.zip) ? (par définition, une excellente compression produit un excellent hasard, méditez là dessus…)
+est-elle générée par [RANDOM.ORG - Sequence Generator](https://www.random.org/sequences/) ou est-ce une suite d’octets extraite de [SainteBible.zip](https://web.archive.org/web/20200422/http://SainteBible.zip) ? (par définition, une excellente compression produit un excellent hasard, méditez là dessus…)
 
 Si vous ne savez pas comment elle a été produite, tout ce que vous pouvez faire est d’utiliser des [tests statistiques](w:Générateur_de_nombres_aléatoires) pour voir si la séquence est “de bonne qualité”, mais il vous faudra beaucoup plus de nombres que ci-dessus pour obtenir un résultat fiable, mais jamais certain à 100%.
 

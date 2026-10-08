@@ -21,7 +21,7 @@ Oui c'est possible, puisque c'est ce qui est arrivé dans les pays développés,
 
 Le développement suit partout à peu près la même trajectoire, comme le montre très bien Hans Rosling dans plusieurs de ses conférences, par exemple :
 
-[https://www.ted.com/talks/hans_r...](https://www.ted.com/talks/hans_rosling_new_insights_on_poverty?language=fr)
+[https://www.ted.com/talks/hans_r...](https://web.archive.org/web/20210630194915/https://www.ted.com/talks/hans_rosling_new_insights_on_poverty?language=fr)
 
 En gros :
 

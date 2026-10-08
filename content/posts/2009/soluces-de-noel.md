@@ -39,12 +39,12 @@ Merci et Bravo à [Xochipili](http://www.webinet.blogspot.com/), qui m'a soumis 
 
 ### Les boulets de canon
 
-les [solutions](http://www.ffjm.org/upload/fichiers/reponsesQuartsFinIndividuel.pdf) aux problèmes des quarts de finales de la FFJM sont disponibles. J'ai surtout ramé au problème No 16 pour lequel je n'ai pas trouvé de méthode, et au dernier, celui des boulets de canon, qui est très beau.
+les [solutions](https://web.archive.org/web/20240327012844/http://www.ffjm.org/upload/fichiers/reponsesQuartsFinIndividuel.pdf) aux problèmes des quarts de finales de la FFJM sont disponibles. J'ai surtout ramé au problème No 16 pour lequel je n'ai pas trouvé de méthode, et au dernier, celui des boulets de canon, qui est très beau.
 
 Une pile de boulets formée sur une base rectangulaire se termine par une couche ne contenant qu'une ligne de m boulets. La couche juste inférieure contient 2 lignes de m+1 boulets, la suivante 3 lignes de m+2 boulets et ainsi de suite. La i-ème couche contient donc i.(m+i-1) boulets et le nombre de boulets d'une pile contenant c couches est de
 
 $n= sum_{i=1}^{c} i.(m+i-1) = m.sum_{i=1}^{c} i + m.sum_{i=1}^{c} i^2 -c$
 
-En utilisant la formule de la somme des premiers entiers et celle de la [somme des premiers carrés](http://www.les-suites.fr/somme-des-n-premiers-carres.htm), on obtient n=c.(c+1).(3m+2c-2)/6, résultat que l'on retrouve déjà dans un "[Cours de mathématiques: à l'usage des écoles impériales militaires](http://books.google.ch/books?id=2NI2AAAAMAAJ&pg=RA1-PA211&lpg=RA1-PA211&dq=pile+de+boulets+de+canon&source=web&ots=MpGduIk45L&sig=8T6edoA5xMKAYbnbJSmOvlHHNrA&hl=fr&sa=X&oi=book_result&resnum=4&ct=result)" de 1813!
+En utilisant la formule de la somme des premiers entiers et celle de la [somme des premiers carrés](https://web.archive.org/web/20090218231450/http://www.les-suites.fr/somme-des-n-premiers-carres.htm), on obtient n=c.(c+1).(3m+2c-2)/6, résultat que l'on retrouve déjà dans un "[Cours de mathématiques: à l'usage des écoles impériales militaires](http://books.google.ch/books?id=2NI2AAAAMAAJ&pg=RA1-PA211&lpg=RA1-PA211&dq=pile+de+boulets+de+canon&source=web&ots=MpGduIk45L&sig=8T6edoA5xMKAYbnbJSmOvlHHNrA&hl=fr&sa=X&oi=book_result&resnum=4&ct=result)" de 1813!
 
 Dans le problème posé, la largeur de la pile de base étant égale à m, on a c=m et donc n=m.(m+1).(5m-2)/6 . Reste à trouver la valeur de m donnant un n qui soit un carré parfait. C'est vite fait à la main : m=6 donne 14^2=196 boulets. Mais il existe une autre solution: m=49 donne 99'225 boulets, le carré de 49. Sans Python, j'ai raté celle là ...

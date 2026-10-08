@@ -17,7 +17,7 @@ Mais comme on le voit sur le graphique ci-dessous, ça doit plutôt être un "ac
 
 ![](./images/qimg-0f46489fa7eab7281b937899aea5627d.png)
 
-[(source : Financial Times](https://www.ft.com/content/008ea78a-8bc1-4954-b283-700608d3dc6c) )
+[(source : Financial Times](https://web.archive.org/web/20211125195807/https://www.ft.com/content/008ea78a-8bc1-4954-b283-700608d3dc6c) )
 
 On dirait l'effet d'un virus.. mais la Chine n'a pas annoncé autant de décès alors elle conteste ces chiffres et dit que sa population a augmenté en 2020[[1]](#nefDW)
 

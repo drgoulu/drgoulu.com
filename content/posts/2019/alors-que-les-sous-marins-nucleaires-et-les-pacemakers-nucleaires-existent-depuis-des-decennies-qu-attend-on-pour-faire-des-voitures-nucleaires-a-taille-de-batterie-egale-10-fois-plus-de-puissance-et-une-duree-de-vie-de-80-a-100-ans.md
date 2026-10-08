@@ -25,4 +25,4 @@ Donc voilà, outre le risque d'accident ou d'incendie (ces trucs chauffent même
 
 Notes de bas de page
 
-[[1]](#cite-UcUPi)[NASA Doesn’t Have Enough Nuclear Fuel For Its Deep Space Missions](https://medium.com/starts-with-a-bang/nasa-doesnt-have-enough-nuclear-fuel-for-its-deep-space-missions-550632c9e61a)
+[[1]](#cite-UcUPi)[NASA Doesn’t Have Enough Nuclear Fuel For Its Deep Space Missions](https://web.archive.org/web/20221119035049/https://medium.com/starts-with-a-bang/nasa-doesnt-have-enough-nuclear-fuel-for-its-deep-space-missions-550632c9e61a)

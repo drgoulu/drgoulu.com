@@ -6,4 +6,4 @@ tags:
   - "informatique"
 ---
 
-[déplacé ici](http://microclub.ch/2008/09/10/u3-les-nouvelles-cles-usbu3-les-nouvelles-cles-usb/)
+[déplacé ici](https://web.archive.org/web/20070223/http://microclub.ch/2008/09/10/u3-les-nouvelles-cles-usbu3-les-nouvelles-cles-usb/)

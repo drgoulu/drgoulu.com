@@ -22,4 +22,4 @@ Mais si vous voulez publier ça dans un article scientifique, il ne faudra plus 
 
 C'est ce que font les gens qui travaillent sur l'[Imagerie cérébrale](w:). Ils arrivent de mieux en mieux à capter les signaux électromagnétiques émis par nos neurones (avec des capteurs utilisant des effets quantiques puisque ce mot se trouve dans la question), et à les interpréter. Avec un peu d'entrainement, certaines personnes très lourdement handicapées arrivent désormais à commander des machines par la pensée.
 
-[Quand un tétraplégique commande un exosquelette par la pensée : les dessous d'une première mondiale - IA](https://www.usinenouvelle.com/editorial/quand-un-tetraplegique-commande-un-exosquelette-par-la-pensee-les-dessous-d-une-premiere-mondiale.N891369)
+[Quand un tétraplégique commande un exosquelette par la pensée : les dessous d'une première mondiale - IA](https://web.archive.org/web/20200628080337/https://www.usinenouvelle.com/editorial/quand-un-tetraplegique-commande-un-exosquelette-par-la-pensee-les-dessous-d-une-premiere-mondiale.N891369)

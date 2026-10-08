@@ -16,4 +16,4 @@ coverImage: ./images/quora.png
 1. Aucune solution entière
 2. n=4, 5, 6, 7 (joli…)
 
-[https://www.wolframalpha.com/inp...](https://www.wolframalpha.com/input/?i=(n^3-n)/(n-3))
+[https://www.wolframalpha.com/inp...](https://web.archive.org/web/20211230/https://www.wolframalpha.com/input/?i=(n^3-n)/(n-3))

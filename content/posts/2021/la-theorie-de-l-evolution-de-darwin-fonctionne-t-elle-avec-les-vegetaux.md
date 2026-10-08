@@ -20,4 +20,4 @@ Oui d'ailleurs Darwin a écrit environ la moitié de ses articles sur les plante
 
 > Je dois ajouter un mot de justification…que toutes mes idées sur la manière dont les espèces se modifient proviennent d’une longue étude continue des travaux (et des conversation) des agriculteurs et des horticulteurs ; et je crois que je vois assez clairement quels sont les moyens utilisés par la nature pour changer ses espèces et les adapter aux merveilleuses contingences de beauté raffinée auxquelles chaque être vivant est exposé…
 
-[https://www.cairn.info/revue-bul...](https://www.cairn.info/revue-bulletin-d-histoire-et-d-epistemologie-des-sciences-de-la-vie-2011-2-page-169.htm)
+[https://www.cairn.info/revue-bul...](https://web.archive.org/web/20220621023510/https://www.cairn.info/revue-bulletin-d-histoire-et-d-epistemologie-des-sciences-de-la-vie-2011-2-page-169.htm)

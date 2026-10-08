@@ -11,7 +11,7 @@ tags:
 coverImage: "./images/cca4452f760f90c149ee059695675b54.gif"
 ---
 
-Selon un [récent sondage effectué aux USA](http://www.calacademy.org/newsroom/releases/2009/scientific_literacy.php) par la [California Academy of Sciences:](http://www.calacademy.org/)
+Selon un [récent sondage effectué aux USA](https://web.archive.org/web/20090309063046/http://www.calacademy.org/newsroom/releases/2009/scientific_literacy.php) par la [California Academy of Sciences:](http://www.calacademy.org/)
 
 - Seuls 53% des adultes américains savent en combien de temps la Terre tourne autour du Soleil.
 - 59% savent que les premiers humains et les dinosaures ne vivaient pas en même temps.
@@ -35,7 +35,7 @@ Si vous lisez l'anglais, vous pouvez tester votre culture scientifique sur des q
 ### Sources et Références:
 
 1. [Science Literacy - American Adults 'Flunk' Basic Science, Says Survey](http://www.science20.com/news_releases/science_literacy_american_adults_flunk_basic_science_says_survey) sur Scientific Blogging
-2. ["47% of Americans need to be launched into a heliocentric orbit"](http://blogs.discovermagazine.com/badastronomy/2009/03/13/47-of-americans-need-to-be-launched-into-a-heliocentric-orbit/ "Permanent Link: 47% of Americans need to be launched into a heliocentric orbit") sur BadAstronomy
+2. ["47% of Americans need to be launched into a heliocentric orbit"](https://web.archive.org/web/20090317065559/http://blogs.discovermagazine.com/badastronomy/2009/03/13/47-of-americans-need-to-be-launched-into-a-heliocentric-orbit/ "Permanent Link: 47% of Americans need to be launched into a heliocentric orbit") sur BadAstronomy
 3. National Science Board "Science and Technology: [Public Attitudes and Understanding](http://www.nsf.gov/statistics/seind04/c7/c7s2.htm)", 2004
-4. Jim Hartz, Rick Chappel "[Worlds Apart](http://www.freedomforum.org/publications/first/worldsapart/worldsapart.pdf) : How the distance between science and journalism threatens America's future" , 1997, First Amendment Center ([_livre complet en ligne_](http://www.freedomforum.org/publications/first/worldsapart/worldsapart.pdf))
+4. Jim Hartz, Rick Chappel "[Worlds Apart](https://web.archive.org/web/20090225035951/http://www.freedomforum.org/publications/first/worldsapart/worldsapart.pdf) : How the distance between science and journalism threatens America's future" , 1997, First Amendment Center ([_livre complet en ligne_](https://web.archive.org/web/20090225035951/http://www.freedomforum.org/publications/first/worldsapart/worldsapart.pdf))
 5. Richard Carrier "[Test Your Scientific Literacy! (2001)](http://www.infidels.org/library/modern/richard_carrier/SciLit.html)" sur infidels.org

@@ -24,6 +24,6 @@ D'ici 3000 ans on devrait revenir à une période glaciaire[[2]](#nsOUy) , donc 
 
 Notes de bas de page
 
-[[1]](#cite-HiMoy)[High-resolution projections of the aridity in Europe under climate change](https://www.sciencedirect.com/science/article/pii/B9780128221846000090)
+[[1]](#cite-HiMoy)[High-resolution projections of the aridity in Europe under climate change](https://web.archive.org/web/20220406112734/https://www.sciencedirect.com/science/article/pii/B9780128221846000090)
 
 [[2]](#cite-nsOUy)[https://www.notre-planete.info/a...](https://www.notre-planete.info/actualites/3284-prochaine_ere_glaciaire)

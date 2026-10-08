@@ -24,4 +24,4 @@ Les deux systèmes se sont combinés pendant le moyen âge, ou les minutes puis 
 
 Faute de moyens de mesure, il semble qu'il n'y ait pas eu de subdivisions officielles de l'heure avant, à part le quart d'heure vaudois.
 
-Source : [La longue histoire de la seconde](https://m.simplyscience.ch/archives-jeunes/articles/la-longue-histoire-de-la-seconde.html)
+Source : [La longue histoire de la seconde](https://web.archive.org/web/20191215104931/https://m.simplyscience.ch/archives-jeunes/articles/la-longue-histoire-de-la-seconde.html)

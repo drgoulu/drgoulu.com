@@ -24,9 +24,9 @@ Bizarrement, depuis que la Chine communiste a libéralisé son économie, 1 mill
 
 Il faut absolument voir cette conférence de Hans Rosling pour comprendre ce fantastique changement :
 
-[https://www.ted.com/talks/hans_r...](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=fr)
+[https://www.ted.com/talks/hans_r...](https://web.archive.org/web/20210518115727/https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=fr)
 
-Accessoirement, je viens de découvrir cette figure [ici](https://www.stlouisfed.org/on-the-economy/2017/october/how-us-income-inequality-compare-worldwide) :
+Accessoirement, je viens de découvrir cette figure [ici](https://web.archive.org/web/20210518013559/https://www.stlouisfed.org/on-the-economy/2017/october/how-us-income-inequality-compare-worldwide) :
 
 ![](./images/qimg-c5a562a4a104b1448c1df1e41668f76b.png)
 

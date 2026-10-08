@@ -22,8 +22,8 @@ Mais en Suisse tout est plus simple. Ici c'est comme si l'état, c'était nous. 
 
 Notes de bas de page
 
-[[1]](#cite-dJduo)[Barèmes](https://www.estv.admin.ch/estv/fr/home/direkte-bundessteuer/direkte-bundessteuer/fachinformationen/tarife.html)
+[[1]](#cite-dJduo)[Barèmes](https://web.archive.org/web/20200814090057/https://www.estv.admin.ch/estv/fr/home/direkte-bundessteuer/direkte-bundessteuer/fachinformationen/tarife.html)
 
-[[2]](#cite-tNLEo)[Barèmes | État de Vaud](https://www.vd.ch/themes/etat-droit-finances/impots/formulaires-directives-et-baremes/baremes/)
+[[2]](#cite-tNLEo)[Barèmes | État de Vaud](https://web.archive.org/web/20190923025542/https://www.vd.ch/themes/etat-droit-finances/impots/formulaires-directives-et-baremes/baremes/)
 
 [[3]](#cite-oPuKw)[Trop-plein de Mai - Pourquoi Comment Combien](/2014/05/28/trop-plein-de-mai/)

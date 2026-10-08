@@ -30,4 +30,4 @@ Sur la lune il reste un peu de glace au fond de certains cratères polaires, peu
 
 [Eau sur la Lune](w:Eau_sur_la_Lune)
 
-[https://planet-terre.ens-lyon.fr/](https://planet-terre.ens-lyon.fr/)
+[https://planet-terre.ens-lyon.fr/](https://web.archive.org/web/20220519083054/https://planet-terre.ens-lyon.fr/)

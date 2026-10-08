@@ -54,4 +54,4 @@ https://www.grahamcluley.com/2013/09/nsa-cheated-cryptography/
 5. <span id="ref-5"></span>Jeremy Kun "[Elliptic Curves as Algebraic Structures](http://jeremykun.com/2014/02/16/elliptic-curves-as-algebraic-structures/)", 2014
 6. <span id="ref-6"></span>Jeremy Kun "[Elliptic Curve Diffie-Hellman](http://jeremykun.com/2014/03/31/elliptic-curve-diffie-hellman/)", 2014
 7. <span id="ref-7"></span>Jeremy Kun "[Elliptic Curves as Python Objects](http://jeremykun.com/2014/02/24/elliptic-curves-as-python-objects/)", 2014
-8. <span id="ref-8"></span>Brown, E. (2000). "[Three Fermat Trails to Elliptic Curves](http://www.maa.org/sites/default/files/pdf/upload_library/22/Polya/07468342.di020792.02p05747.pdf)". The College Mathematics Journal, 31, 162–172. Retrieved from
+8. <span id="ref-8"></span>Brown, E. (2000). "[Three Fermat Trails to Elliptic Curves](https://web.archive.org/web/20150906010223/http://www.maa.org/sites/default/files/pdf/upload_library/22/Polya/07468342.di020792.02p05747.pdf)". The College Mathematics Journal, 31, 162–172. Retrieved from

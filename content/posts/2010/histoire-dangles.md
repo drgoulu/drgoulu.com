@@ -31,5 +31,5 @@ Je voulais encore citer d'autres [unités d'angle](w:) découvertes en rédigean
 
 ### Références
 
-1. <span id="ref-1"></span>[Trigo Historique](http://maths-03.site2.ac-strasbourg.fr/archives/maths_02/activite/trigo/trigo_historique.htm)
-2. <span id="ref-2"></span>[Les origines des notations mathématiques](http://mapage.noos.fr/r.ferreol/langage/notations/notations.htm)
+1. <span id="ref-1"></span>[Trigo Historique](https://web.archive.org/web/20081210101029/http://maths-03.site2.ac-strasbourg.fr/archives/maths_02/activite/trigo/trigo_historique.htm)
+2. <span id="ref-2"></span>[Les origines des notations mathématiques](https://web.archive.org/web/20100126181354/http://mapage.noos.fr/r.ferreol/langage/notations/notations.htm)

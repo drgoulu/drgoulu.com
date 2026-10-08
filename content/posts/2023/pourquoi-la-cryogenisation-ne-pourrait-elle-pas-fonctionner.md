@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Des animaux peuvent le faire, donc c'est possible
 
-[https://www.nationalgeographic.f...](https://www.nationalgeographic.fr/animaux/2022/12/insolite-pour-survivre-a-lhiver-ces-animaux-se-changent-en-glacon)
+[https://www.nationalgeographic.f...](https://web.archive.org/web/20231130080035/https://www.nationalgeographic.fr/animaux/2022/12/insolite-pour-survivre-a-lhiver-ces-animaux-se-changent-en-glacon)
 
 La difficulté est de rapprocher notre organisme suffisamment de celui de ces bestioles sans que ça nous tue avant la congélation…
 

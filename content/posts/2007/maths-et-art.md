@@ -12,11 +12,11 @@ coverImage: "./images/b98a6af36cbc5269e7bf566c65613be7.jpg"
 
 Les maths, ça peut être très beau. Si si. Il y a même des artistes qui utilisent des logiciels de calcul d'objets géométriques pour réaliser des oeuvres étonnantes comme celle-ci par exemple:
 
- [![](./images/b98a6af36cbc5269e7bf566c65613be7.jpg) _Supershape Combo 5_](http://www.renderosity.com/mod/gallery/index.php?image_id=852417&member) _de [Luc Benard](http://www.renderosity.com/mod/gallery/browse.php?user_id=119539)_
+ [![](./images/b98a6af36cbc5269e7bf566c65613be7.jpg) _Supershape Combo 5_](http://www.renderosity.com/mod/gallery/index.php?image_id=852417&member) _de [Luc Benard](https://web.archive.org/web/20110414041330/http://www.renderosity.com/mod/gallery/browse.php?user_id=119539)_
 
- Cette image est une combinaison de surfaces calculées avec la géniale formule mathématique des "[supershapes 3D](http://paulbourke.net/miscellaneous/supershape3d/)" dont je reparlerai très bientôt, puisque mon projet projet "[Supershape Exporer : a first experience with DevLib](/)" commencé en 2004 a repris avec [Hyperion.](/)
+ Cette image est une combinaison de surfaces calculées avec la géniale formule mathématique des "[supershapes 3D](https://web.archive.org/web/20070919/http://paulbourke.net/miscellaneous/supershape3d/)" dont je reparlerai très bientôt, puisque mon projet projet "[Supershape Exporer : a first experience with DevLib](/)" commencé en 2004 a repris avec [Hyperion.](/)
 
-En admirant les autres oeuvres de [Luc Benard](http://www.renderosity.com/mod/gallery/browse.php?user_id=119539), je suis tombé  sur celle-ci, montrant d'autres objets mathématiques intéressants :
+En admirant les autres oeuvres de [Luc Benard](https://web.archive.org/web/20110414041330/http://www.renderosity.com/mod/gallery/browse.php?user_id=119539), je suis tombé  sur celle-ci, montrant d'autres objets mathématiques intéressants :
 
 [![](./images/0eabea8fd85590c66d6aaae6677e5cc0.jpg)](http://www.renderosity.com/mod/gallery/index.php?image_id=1298076&member)
 

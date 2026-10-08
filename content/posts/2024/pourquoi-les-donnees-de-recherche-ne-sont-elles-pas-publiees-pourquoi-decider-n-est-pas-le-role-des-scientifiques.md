@@ -22,4 +22,4 @@ Les données sont de plus en plus publiées, ou du moins accessibles à d'autres
 
 Demandez à votre patron de publier sa comptabilité pour avoir une idée du problème…
 
-Les scientifiques ne décident pas parce que ce n'est pas leur boulot. Mais vous pouvez les élire si vous voulez. En Suisse nous avons deux ingénieurs de l'EPFZ (en agronomie et en sciences de l'environnement) et un médecin parmi [les sept membres du Conseil fédéral](https://www.admin.ch/gov/fr/accueil/conseil-federal/membres-du-conseil-federal.html)
+Les scientifiques ne décident pas parce que ce n'est pas leur boulot. Mais vous pouvez les élire si vous voulez. En Suisse nous avons deux ingénieurs de l'EPFZ (en agronomie et en sciences de l'environnement) et un médecin parmi [les sept membres du Conseil fédéral](https://web.archive.org/web/20240510225646/https://www.admin.ch/gov/fr/accueil/conseil-federal/membres-du-conseil-federal.html)

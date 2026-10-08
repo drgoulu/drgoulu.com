@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 La position du gouvernement suisse est ici
 
-[https://www.eda.admin.ch/eda/fr/...](https://www.eda.admin.ch/eda/fr/dfae/politique-exterieure/politique-securite/desarmement-non-proliferation/nukleare-abruestung/kernwaffenverbotsvertrag.html)
+[https://www.eda.admin.ch/eda/fr/...](https://web.archive.org/web/20221214092735/https://www.eda.admin.ch/eda/fr/dfae/politique-exterieure/politique-securite/desarmement-non-proliferation/nukleare-abruestung/kernwaffenverbotsvertrag.html)
 
 En gros le gouvernement suisse estime que "la contribution du TIAN au désarmement était incertaine." et que donc il ne sert à rien de signer un papier inutile, mais réévaluera sa position périodiquement.
 

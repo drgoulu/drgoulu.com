@@ -13,9 +13,9 @@ tags:
 coverImage: "./images/7284147-L.jpg"
 ---
 
-{{< figure src="./images/temps-dessin-pour-Pierre-mail.jpg" link="http://thema.cafe-sciences.org/articles/category/le-temps/" >}}
+{{< figure src="./images/temps-dessin-pour-Pierre-mail.jpg" link="https://web.archive.org/web/20150207032227/http://thema.cafe-sciences.org/articles/category/le-temps/" >}}
 
-A l'occasion de la [semaine thématique sur le temps](http://thema.cafe-sciences.org/articles/category/le-temps/) du C@fé des Sciences, voici un compte rendu du livre "grand public" de [Lee Smolin](w:), physicien théoricien passionné par ce sujet. Je n'ai pas réussi à résumer en un seul article ce livre de 300 pages extrêmement denses en informations et idées étonnantes.
+A l'occasion de la [semaine thématique sur le temps](https://web.archive.org/web/20150207032227/http://thema.cafe-sciences.org/articles/category/le-temps/) du C@fé des Sciences, voici un compte rendu du livre "grand public" de [Lee Smolin](w:), physicien théoricien passionné par ce sujet. Je n'ai pas réussi à résumer en un seul article ce livre de 300 pages extrêmement denses en informations et idées étonnantes.
 
 Donc voici ce que j'ai retenu de la première partie du livre intitulée "Le poids : la mort du temps", dans laquelle Smolin décrit comment le temps a progressivement quasiment disparu de la physique au point que de nombreux scientifiques le considèrent comme une illusion ou une [émergence](w:).
 
@@ -96,4 +96,4 @@ Ca fait envie ? Patientez quelques jours pour [la suite](/2015/12/31/la-renaissa
 
 1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:9782100706679" templatenumber="5" >}}
 2. <span id="ref-2"></span>Bernard Dugué "[La renaissance du temps : pour en finir avec la crise de la physique ?](http://www.agoravox.fr/actualites/technologies/article/la-renaissance-du-temps-pour-en-151868)", 2013, sur Agoravox
-3. <span id="ref-3"></span>Jean-Paul Baquiast, "[présentation de Time Reborn](http://www.admiroutes.asso.fr/larevue/2013/136/smolin.htm)", 2013, Revue Automates Intelligents No 136
+3. <span id="ref-3"></span>Jean-Paul Baquiast, "[présentation de Time Reborn](https://web.archive.org/web/20160305091847/http://www.admiroutes.asso.fr/larevue/2013/136/smolin.htm)", 2013, Revue Automates Intelligents No 136

@@ -15,4 +15,4 @@ Oui bien sur. Les micro-ondes sont bloquées par le grillage ou la métallisatio
 
 Les normes d'exposition sont de 5mW par cm2 (50 watts par m2) à 5cm du four, ce qui est inférieur aux normes sur les autres rayonnements non ionisants. La plupart des fours récents sont au moins 10 fois en-dessous de ces valeurs.
 
-[http://www.who.int/peh-emf/publi...](http://www.who.int/peh-emf/publications/facts/micro_ondes_info_sheet2005.pdf)
+[http://www.who.int/peh-emf/publi...](https://web.archive.org/web/20200730112551/http://www.who.int/peh-emf/publications/facts/micro_ondes_info_sheet2005.pdf)

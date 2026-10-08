@@ -36,4 +36,4 @@ Je me suis limité aux champs magnétiques constants ou presque liés à la ques
 
 Notes de bas de page
 
-[[1]](#cite-vRPWQ)[https://physics.nyu.edu/kentlab/...](https://physics.nyu.edu/kentlab/Lectures/Pappas_Tutorial_APSMM2008.pdf)
+[[1]](#cite-vRPWQ)[https://physics.nyu.edu/kentlab/...](https://web.archive.org/web/20210413183329/https://physics.nyu.edu/kentlab/Lectures/Pappas_Tutorial_APSMM2008.pdf)

@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-calculer-cette-int%C3%A9grale-3x-3-x-2-x1-2-dx/answer/Dr-Goulu)*
 
-comme ça : [integral of ((3x-3) ÷ ((x^2-x+1) ^2)) dx - Wolfram|Alpha](https://www.wolframalpha.com/input/?i=integral+of+((3x-3)+÷+((x^2-x+1)+^2))+dx)
+comme ça : [integral of ((3x-3) ÷ ((x^2-x+1) ^2)) dx - Wolfram|Alpha](https://web.archive.org/web/20191023/https://www.wolframalpha.com/input/?i=integral+of+((3x-3)+÷+((x^2-x+1)+^2))+dx)
 
 cliquez sur "step by step solution" pour les détails.
 

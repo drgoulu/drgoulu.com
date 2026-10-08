@@ -19,6 +19,6 @@ Le temps passe plus vite pour vos cheveux que pour vos orteils.
 
 Notes de bas de page
 
-[[1]](#cite-aXDfR)[Time ticks faster on the moon by 57 microseconds per Earth day](https://www.newscientist.com/article/2437577-time-ticks-faster-on-the-moon-by-57-microseconds-per-earth-day/)
+[[1]](#cite-aXDfR)[Time ticks faster on the moon by 57 microseconds per Earth day](https://web.archive.org/web/20241004123040/https://www.newscientist.com/article/2437577-time-ticks-faster-on-the-moon-by-57-microseconds-per-earth-day/)
 
 [[2]](#cite-LhndG)[JILA Atomic Clocks Measure Einstein’s General Relativity at Millimeter Scale](https://www.nist.gov/news-events/news/2022/02/jila-atomic-clocks-measure-einsteins-general-relativity-millimeter-scale)

@@ -15,4 +15,4 @@ Que ce soit les autres qui paient des impôts, bien sûr ! C'est tellement évid
 
 En tant que Suisse qui peut voter sur ses propres impôts, je suis donc "au pouvoir" et je vous remercie, chers voisins, de payer des impôts à la place des riches et des entreprises que vous avez chassés chez nous, donc à ma place.
 
-[La France championne du monde de la pression fiscale](https://www.lesechos.fr/amp/236486)
+[La France championne du monde de la pression fiscale](https://web.archive.org/web/20200603064554/https://www.lesechos.fr/amp/236486)

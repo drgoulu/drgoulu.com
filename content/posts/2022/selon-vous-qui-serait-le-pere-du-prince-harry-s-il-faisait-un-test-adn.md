@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 et le votre ? on s'en tape le coquillard.
 
-[https://homofabulus.com/lhomme-e...](https://homofabulus.com/lhomme-est-il-un-polygame-refoule-partie-33/)
+[https://homofabulus.com/lhomme-e...](https://web.archive.org/web/20230204062225/https://homofabulus.com/lhomme-est-il-un-polygame-refoule-partie-33/)

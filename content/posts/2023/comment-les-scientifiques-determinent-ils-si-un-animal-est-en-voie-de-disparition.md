@@ -32,7 +32,7 @@ L' [Union internationale pour la conservation de la nature](w:)(UICN) qui mainti
 >
 > ( [La Liste rouge mondiale des espèces menacées - UICN France](https://uicn.fr/liste-rouge-mondiale/) )
 
-En utilisant leur [fantastique base de données](https://www.iucnredlist.org/) vous pouvez accéder aux publications qui justifient le classement de chaque espèce. Je ne donne pas l'[exemple de l'ours blanc](https://www.iucnredlist.org/species/22823/14871490) parce que c'est une "espèce emblématique" qui cache l'ampleur du vrai problème : l'UICN répertorie **42'100 espèces en voie de disparition** dont personne n'a rien à cirer, alors que l'ours blanc n'est classé "que" VUlnérable.
+En utilisant leur [fantastique base de données](https://web.archive.org/web/20230503153949/https://www.iucnredlist.org/) vous pouvez accéder aux publications qui justifient le classement de chaque espèce. Je ne donne pas l'[exemple de l'ours blanc](https://web.archive.org/web/20230328022757/https://www.iucnredlist.org/species/22823/14871490) parce que c'est une "espèce emblématique" qui cache l'ampleur du vrai problème : l'UICN répertorie **42'100 espèces en voie de disparition** dont personne n'a rien à cirer, alors que l'ours blanc n'est classé "que" VUlnérable.
 
 Donc je vais prendre une des espèces mise en avant sur la page d'accueil, mais mignonne quand même parce qu'il y en a ici qui considèrent les insectes et les serpents comme ayant moins de valeur que les ours blancs. Donc ce sera
 
@@ -40,7 +40,7 @@ Donc je vais prendre une des espèces mise en avant sur la page d'accueil, mais 
 
 La Taupe dorée de Juliana ( [Juliana's golden mole - Wikipedia](w:en:Juliana's_golden_mole) ), qui vit encore dans 3 ou 4 petites zones d'Afrique du Sud.
 
-[Sur sa page de l'UICN](https://www.iucnredlist.org/species/1089/21285354), vous pouvez consulter toutes les informations et l'historique relatif à son classement.
+[Sur sa page de l'UICN](https://web.archive.org/web/20221025145922/https://www.iucnredlist.org/species/1089/21285354), vous pouvez consulter toutes les informations et l'historique relatif à son classement.
 
 Il y a notamment la section "Bibliographie" qui liste toutes les études scientifiques relatives à cette mignonne taupe dont vous n'avez jamais entendu parler :
 
@@ -51,7 +51,7 @@ Il y a notamment la section "Bibliographie" qui liste toutes les études scienti
 5. Bronner, G.N. 2013. Neamblysomus julianae. In: J. Kingdon, D. Happold, T. Butynski, M. Hoffmann, M. Happold and J. Kalina (eds), Mammals of Africa, Volume I: Introductory Chapters and Afrotheria, pp. 253-254. Bloomsbury Publishing, London.
 6. Bronner, G.N. and Bennett, N.C. 2005. Order Afrosoricida. In: J.D. Skinner and C.T. Chimimba (eds), The Mammals of the Southern African Subregion, 3rd edn, Cambridge University Press, Cambridge.
 7. Bronner, G.N. and Jenkins, P.D. 2005. Order Afrosoricida. In: D.E. Wilson and D.M. Reeder (eds), Mammal Species of the World, pp. 70-81. The Johns Hopkins University Press, Baltimore, MD, USA.
-8. IUCN. 2015. The IUCN Red List of Threatened Species. Version 2015.2. Available at: [The IUCN Red List of Threatened Species](http://www.iucnredlist.org). (Accessed: 23 June 2015).
+8. IUCN. 2015. The IUCN Red List of Threatened Species. Version 2015.2. Available at: [The IUCN Red List of Threatened Species](https://web.archive.org/web/20230503153949/http://www.iucnredlist.org). (Accessed: 23 June 2015).
 9. Jackson, C.R. 2007. The ecology and conservation of Juliana's golden mole (Neamblysomus julianae) . University of Pretoria.
 10. Jackson, C.R. and Robertson, M.P. 2011. Predicting the potential distribution of an endangered cryptic subterranean mammal from few occurrence records. Journal for Nature Conservation 19: 87-94.
 11. Jackson, C.R., Lubbe, N.R., Robertson, M.P., Setsaas, T.H., van der Waals, J. and Bennett, N.C. 2007. Soil properties and the distribution of the endangered Juliana’s golden mole. Journal of Zoology 274: 13-17.

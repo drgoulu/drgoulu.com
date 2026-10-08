@@ -15,7 +15,7 @@ Découvert avec stupéfaction l'existence de l'[écholocation humaine](w:) : que
 
 Un des plus célèbres était Ben Underwood, hélas décédé. Il était capable d'éviter des obstacles sur le trottoir, de rouler à bicyclette et de jouer au basket, entre autres activités étonnantes pour un aveugle [[1]](#ref-1)
 
-Aujourd'hui le plus célèbre est probablement [Daniel Kish](w:) qui, après avoir étudié ce sujet [[2]](#ref-2), a fondé une [ONG](http://www.worldaccessfortheblind.org/) qui enseigne sa technique aux jeunes aveugles. Sa [conférence au TED](https://www.ted.com/talks/daniel_kish_how_i_use_sonar_to_navigate_the_world?language=fr) vaut le coup... d’œil :
+Aujourd'hui le plus célèbre est probablement [Daniel Kish](w:) qui, après avoir étudié ce sujet [[2]](#ref-2), a fondé une [ONG](http://www.worldaccessfortheblind.org/) qui enseigne sa technique aux jeunes aveugles. Sa [conférence au TED](https://web.archive.org/web/20160529102708/https://www.ted.com/talks/daniel_kish_how_i_use_sonar_to_navigate_the_world?language=fr) vaut le coup... d’œil :
 
 https://www.ted.com/talks/daniel\_kish\_how\_i\_use\_sonar\_to\_navigate\_the\_world?language=fr
 

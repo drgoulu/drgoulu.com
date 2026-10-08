@@ -25,4 +25,4 @@ Une photo osée sur Dr. Goulu ???
 
 Patience, il se pourrait bien que vous ayez une surprise...
 
-[Source](http://www.moillusions.com/2007/04/not-woman-body-illusion.html)
+[Source](https://web.archive.org/web/20070501134602/http://www.moillusions.com/2007/04/not-woman-body-illusion.html)

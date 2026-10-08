@@ -24,7 +24,7 @@ En astrophysique, la distinction se fait en observant le décalage des raies d'�
 
 ![](./images/qimg-2eaa7fa2edfabaf6da0f11303934938c.jpg)
 
-(source [http://www.ifa.hawaii.edu/users/...](http://www.ifa.hawaii.edu/users/acowie/class05/home9_sol.html) )
+(source [http://www.ifa.hawaii.edu/users/...](https://web.archive.org/web/20190924230406/http://www.ifa.hawaii.edu/users/acowie/class05/home9_sol.html) )
 
 On y voit très nettement le pic [Hα](w:) de l'Hydrogène et deux pics de l'oxygène. Sur la mesure, le pic de l'hydrogène est à 810 nm, alors que [Hα](w:) est à 656.3 nm au repos.
 

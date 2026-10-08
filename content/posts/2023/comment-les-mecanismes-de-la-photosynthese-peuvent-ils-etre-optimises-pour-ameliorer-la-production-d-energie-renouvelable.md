@@ -15,6 +15,6 @@ Ya un truc cool, c'est d'augmenter la concentration de CO2 dans l'atmosphère. L
 
 En fait le rendement de la photosynthèse est limité par la disponibilité de carbone, pas par la quantité de lumière ou la biochimie.
 
-[https://www.researchgate.net/fig...](https://www.researchgate.net/figure/influence-de-la-concentration-en-CO2-sur-la-photosynthese-de-plantes-en-C3-et-en-C4_fig4_340256653)
+[https://www.researchgate.net/fig...](https://web.archive.org/web/20230131/https://www.researchgate.net/figure/influence-de-la-concentration-en-CO2-sur-la-photosynthese-de-plantes-en-C3-et-en-C4_fig4_340256653)
 
 Mais les panneaux photovoltaïques ont un rendement 5 à 10 fois meilleur que la photosynthèse….

@@ -48,10 +48,10 @@ Note \* : le passé antérieur conditionnel passé 2ème forme en jette moins q
 ## Références et liens
 
 1. <span id="ref-1"></span>"[Durée du jour](w:)" sur Wikipédia
-2. <span id="ref-2"></span>"[Durée du jour en fonction de la date et de la latitude](http://maths-au-quotidien.fr/lycee/duree.pdf)" sur maths au quotidien
+2. <span id="ref-2"></span>"[Durée du jour en fonction de la date et de la latitude](https://web.archive.org/web/20170118115025/http://maths-au-quotidien.fr/lycee/duree.pdf)" sur maths au quotidien
 3. <span id="ref-3"></span>Xavier Hubaut, "[Mathématique du secondaire - Le jour et la nuit](http://xavier.hubaut.info/coursmath/var/jour.htm)"
 4. <span id="ref-4"></span>François Lagarde, "[Les saisons, les tropiques, le cercle polaire](http://www.flagarde.fr/voyages/point_geo/les_saisons.htm)"
 
-- [Day and Night World Map](http://www.timeanddate.com/worldclock/sunearth.html) : carte du monde avec zones jour/nuit
+- [Day and Night World Map](https://web.archive.org/web/20130813182355/http://www.timeanddate.com/worldclock/sunearth.html) : carte du monde avec zones jour/nuit
 - [Jour et nuit au cours d'une année](http://www.appannie.com/app/ios/jour-et-nuit-au-cours-dune/) : application didactique pour iPad
 - [pyephem](http://rhodesmill.org/pyephem/), un package Python qui permet des calculs d'éphémérides astronomiques précis.

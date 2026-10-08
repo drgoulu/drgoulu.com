@@ -22,11 +22,11 @@ De fait, l'Australie est le plus grand exportateur de charbon du monde, un secte
 
 D'après cette magnifique annonce vue il y a quelques temps déjà dans les journaux australiens \[8\], les mineurs de charbon ont une autre crainte : "l'énergie nucléaire tuera l'industrie du charbon".
 
-{{< figure src="./images/9694e8421356d58466dc97ffd670410e.jpg" alt="anti-nuclear_coal_ad_md" caption="(cliquer pour rigoler un peu)" link="http://depletedcranium.com/nuclear-is-bad-because-it-will-take-out-jobs-coal-miners/" align="aligncenter" width="638" >}}
+{{< figure src="./images/9694e8421356d58466dc97ffd670410e.jpg" alt="anti-nuclear_coal_ad_md" caption="(cliquer pour rigoler un peu)" link="https://web.archive.org/web/20111122032015/http://depletedcranium.com/nuclear-is-bad-because-it-will-take-out-jobs-coal-miners/" align="aligncenter" width="638" >}}
 
 Même si l'Australie n'a jamais construit de centrale nucléaire, elle m'y a pas non plus définitivement renoncé \[9\]. Il faut dire qu'elle est aussi le deuxième exportateur mondial d'Uranium, derrière le Canada, et que son territoire est l'un des plus stables de la planète géologiquement... Ses immenses régions désertiques ont même vu quelques champignons atomiques dans les années 1950 \[10\]. Et le nucléaire, ça ne dégage quasi pas de CO2 et ça coûte à peine plus cher que le charbon. (Si vous voulez compter les risques et les déchets, alors comptez-les aussi les 1500 Euros/tonne de CO2 pour le charbon svp...)
 
-Mais finalement, que l'Australie passe au nucléaire ou pas ne change rien. Comme nous l'a rappelé François Gaille de [l'IESE](http://iese.heig-vd.ch/fr-ch/Accueil/Pages/Accueil.aspx) lors du [2](http://www.cett.ch/fr/seminaire_energie_adnv_iese.php)[0ème séminaire de la Comission Energie du CETT](http://www.cett.ch/fr/seminaire_energie_adnv_iese.php)  il y a quelques jours, les programmes nucléaires dans les BRICKS vont bon train, à peine ralentis par Fukushima/Tsunami (score : toujours zéro morts à 30'000 ...). La Chine va terminer ses 27 réacteurs en construction et compte multiplier sa production d'électricité nucléaire par 8 d'ici 2020 \[11\]. L'Inde, qui a 20 réacteurs en activité, va multiplier sa production par 12 \[12\]
+Mais finalement, que l'Australie passe au nucléaire ou pas ne change rien. Comme nous l'a rappelé François Gaille de [l'IESE](http://iese.heig-vd.ch/fr-ch/Accueil/Pages/Accueil.aspx) lors du [2](https://web.archive.org/web/20111022013922/http://www.cett.ch/fr/seminaire_energie_adnv_iese.php)[0ème séminaire de la Comission Energie du CETT](https://web.archive.org/web/20111022013922/http://www.cett.ch/fr/seminaire_energie_adnv_iese.php)  il y a quelques jours, les programmes nucléaires dans les BRICKS vont bon train, à peine ralentis par Fukushima/Tsunami (score : toujours zéro morts à 30'000 ...). La Chine va terminer ses 27 réacteurs en construction et compte multiplier sa production d'électricité nucléaire par 8 d'ici 2020 \[11\]. L'Inde, qui a 20 réacteurs en activité, va multiplier sa production par 12 \[12\]
 
 L'avenir s'annonce donc radieux pour les mineurs australiens, qu'ils piochent dans du charbon ou dans de la [pechblende](w:). .. Sinon, les australiens n'ont pas abandonné leur projet de tour solaire d'un km de haut \[13\], mais il y a un petit problème :
 
@@ -39,16 +39,16 @@ Et c'est vrai que pour voir ça, j'irais volontiers une fois de plus jusqu'en Au
 ### Sources:
 
 1. [Coal in Australia](w:en) sur Wikipedia
-2. [Coal in Australia](http://www.newgencoal.com.au/coal-in-australia.aspx) sur NewGenCoal
-3. [The Australian Coal Industry - CoalExports](http://www.australiancoal.com.au/the-australian-coal-industry_coal-exports.aspx)
+2. [Coal in Australia](https://web.archive.org/web/20111129123804/http://www.newgencoal.com.au/coal-in-australia.aspx) sur NewGenCoal
+3. [The Australian Coal Industry - CoalExports](https://web.archive.org/web/20111117213557/http://www.australiancoal.com.au/the-australian-coal-industry_coal-exports.aspx)
 4. "[Combien de CO2 dégage un 1 kWh électrique ?](http://www.greenit.fr/article/energie/combien-de-co2-degage-un-1-kwh-electrique)" sur greenit
-5. "[Paul Broutin (IFP) : quel coût pour le captage de CO2 ?](http://energie.lexpansion.com/energies-fossiles/paul-broutin-ifp-quel-cout-pour-le-captage-de-co2-_a-31-395.html)" sur l'Expansion / L'Express
+5. "[Paul Broutin (IFP) : quel coût pour le captage de CO2 ?](https://web.archive.org/web/20111222074746/http://energie.lexpansion.com/energies-fossiles/paul-broutin-ifp-quel-cout-pour-le-captage-de-co2-_a-31-395.html)" sur l'Expansion / L'Express
 6. "[Clean Coal](Clean Coal)" sur Rising Tide Australia
 7. Jean-Marc Jancovici "[Combien plus cher payerions nous les choses avec une taxe carbone ?](http://www.manicore.com/documentation/serre/taxe_C.html)" sur Manicore
 8. [“Nuclear is bad because it will take out jobs” - Coal Miners](http://depletedcranium.com/?p=751 "Permanent Link: “Nuclear is bad because it will take out jobs” - Coal Miners") [sur Depleted Cranium, 27 août 2008](http://depletedcranium.com/?p=751 "Permanent Link: “Nuclear is bad because it will take out jobs” - Coal Miners")
 9. [Nuclear Power in Australia](w:en) sur Wikipedia
-10. "[Les vieux démons nucléaires de l'Australie. De 1952 à 1957, douze essais britanniques à l'air libre ont contaminé Aborigènes et soldats.](http://www.liberation.fr/monde/0101153525-les-vieux-demons-nucleaires-de-l-australie-de-1952-a-1957-douze-essais-britanniques-a-l-air-libre-ont-contamine-aborigenes-et-soldats)" sur Libération
+10. "[Les vieux démons nucléaires de l'Australie. De 1952 à 1957, douze essais britanniques à l'air libre ont contaminé Aborigènes et soldats.](https://web.archive.org/web/20130106081546/http://www.liberation.fr/monde/0101153525-les-vieux-demons-nucleaires-de-l-australie-de-1952-a-1957-douze-essais-britanniques-a-l-air-libre-ont-contamine-aborigenes-et-soldats)" sur Libération
 11. [World nuclear energy production and uranium demand to 2020](http://nextbigfuture.com/2011/05/world-nuclear-energy-production-and.html) sur NextBigFuture
 12. [China and India Rethink Nuclear Power Use after Japan Earthquake](http://www.2point6billion.com/news/2011/03/21/china-and-india-rethink-nuclear-power-use-after-japan-earthquake-8869.html) sur 2.6 billions
-13. [Technology Overview](http://www.enviromission.com.au/EVM/content/technology_technologyover.html) chez EnviroMission
+13. [Technology Overview](https://web.archive.org/web/20111124070557/http://www.enviromission.com.au/EVM/content/technology_technologyover.html) chez EnviroMission
 14. "[Tour solaire / le projet australien](w:Tour_solaire#Le_projet_australien)" sur Wikipedia

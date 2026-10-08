@@ -38,6 +38,6 @@ Lorsque des projets doivent être abandonnés, la technique ci-dessus permet de 
 
 Mais aussi lorsqu'on doit défendre des projets, demander un budget : seuls ceux pour lesquels on serait prêts à quitter la boîte pour les poursuivre valent vraiment la peine.
 
-Pour la petite histoire, la technologie sur laquelle nous travaillions a donné des brevets et de nombreuses publications académiques encore récemment comme [https://www.researchgate.net/pub...](https://www.researchgate.net/publication/297896318_EDM_of_Insulating_Ceramics_by_Electrical_Conductive_Surface_Layer_Control)
+Pour la petite histoire, la technologie sur laquelle nous travaillions a donné des brevets et de nombreuses publications académiques encore récemment comme [https://www.researchgate.net/pub...](https://web.archive.org/web/20201022/https://www.researchgate.net/publication/297896318_EDM_of_Insulating_Ceramics_by_Electrical_Conductive_Surface_Layer_Control)
 
 Mais n'est toujours pas exploitée commercialement, faute de marché

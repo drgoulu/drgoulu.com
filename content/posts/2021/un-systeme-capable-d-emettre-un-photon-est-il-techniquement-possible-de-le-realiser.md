@@ -19,4 +19,4 @@ Oui, ça existe.
 
 Article très détaillé:
 
-Senellart, P., Giesz, V., & Lanco, L. (2015). [Des sources de photons uniques… ultrabrillantes](https://www.photoniques.com/articles/photon/pdf/2015/04/photon201577p36.pdf (https://www.photoniques.com/articles/photon/pdf/2015/04/photon201577p36.pdf)). *Photoniques*, *77*, 36–40. DOI:[10.1051/PHOTON/20157736](https://doi.org/10.1051/PHOTON/20157736)
+Senellart, P., Giesz, V., & Lanco, L. (2015). [Des sources de photons uniques… ultrabrillantes](https://www.photoniques.com/articles/photon/pdf/2015/04/photon201577p36.pdf (https://www.photoniques.com/articles/photon/pdf/2015/04/photon201577p36.pdf)). *Photoniques*, *77*, 36–40. DOI:[10.1051/PHOTON/20157736](https://web.archive.org/web/20240511065902/https://doi.org/10.1051/PHOTON/20157736)

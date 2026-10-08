@@ -16,6 +16,6 @@ Un pays dont des territoires sont occupés illégalement est très bien placé p
 
 Fort heureusement, certains pays ont encore quelques principes qu'ils placent au dessus de considérations bassement matérielles.
 
-[https://press.un.org/fr/2022/ag1...](https://press.un.org/fr/2022/ag12475.doc.htm)
+[https://press.un.org/fr/2022/ag1...](https://web.archive.org/web/20221203042219/https://press.un.org/fr/2022/ag12475.doc.htm)
 
-[https://press.un.org/fr/2022/cps...](https://press.un.org/fr/2022/cpsd771.doc.htm)
+[https://press.un.org/fr/2022/cps...](https://web.archive.org/web/20221112225413/https://press.un.org/fr/2022/cpsd771.doc.htm)

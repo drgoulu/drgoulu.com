@@ -12,6 +12,6 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Si-je-poste-une-vid%C3%A9o-sur-YouTube-o%C3%B9-j-explique-en-quoi-ma-voiture-diesel-d-occasion-est-plus-%C3%A9cologique-qu-une-voiture-%C3%A9lectrique-neuve-la-plateforme-peut-elle-supprimer-ma-vid%C3%A9o-sous/answer/Dr-Goulu)*
 
-Très probablement non. Il y a une telle quantité de vidéos publiées que seules celles qui enfreignent clairement le [Règlement de la communauté YouTube](https://support.google.com/youtube/answer/9288567?hl=fr), qui ont une certaine influence et qui sont dénoncées pour violation sont potentiellement supprimées.
+Très probablement non. Il y a une telle quantité de vidéos publiées que seules celles qui enfreignent clairement le [Règlement de la communauté YouTube](https://web.archive.org/web/20200307151032/https://support.google.com/youtube/answer/9288567?hl=fr), qui ont une certaine influence et qui sont dénoncées pour violation sont potentiellement supprimées.
 
 Si votre argumentation est solide et respectueuse des autres, je ne la dénoncerai pas ;-)

@@ -22,8 +22,8 @@ Objectivement le ministre japonais qui vient de se faire sermonner a raison : il
 
 Notes de bas de page
 
-[[1]](#cite-QtaOD)[Fukushima : eaux radioactives](http://www.laradioactivite.com/site/pages/Eaux_Radioactives.htm)
+[[1]](#cite-QtaOD)[Fukushima : eaux radioactives](https://web.archive.org/web/20190915170034/http://www.laradioactivite.com/site/pages/Eaux_Radioactives.htm)
 
-[[2]](#cite-pOYnP)[PART 1: Radioactive water at Fukushima Daiichi: What should be done?](https://blog.safecast.org/2018/06/part-1-radioactive-water-at-fukushima-daiichi-what-should-be-done/)
+[[2]](#cite-pOYnP)[PART 1: Radioactive water at Fukushima Daiichi: What should be done?](https://web.archive.org/web/20190921073307/https://blog.safecast.org/2018/06/part-1-radioactive-water-at-fukushima-daiichi-what-should-be-done/)
 
 [[3]](#cite-hEsco)[Is it safe to dump Fukushima waste into the sea? | Karl Mathiesen](https://www.theguardian.com/environment/2016/apr/13/is-it-safe-to-dump-fukushima-waste-into-the-sea)

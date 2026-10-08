@@ -14,7 +14,7 @@ j'avais déjà été sidéré par [Mame](http://www.mame.net/) et d'autres ému
 
 La puissance des ordinateurs doublant tous les 18 mois, il arrive un moment ou il devient possible d'écrire un programme qui simule le fonctionnement d'un ordinateur plus ancien. C'est un "émulateur". Quelques Exemples:
 
-- [DOSBox](http://dosbox.sourceforge.net/) simule un bon vieux PC sous MS/DOS. DOSBox existe pour Windows, mais aussi Linux, Mac OS X etc, ce qui prouve que non seulement le logiciel, mais aussi le fonctionnement du matériel de la machine d'origine peut être simulé sur un matériel totalement différent.
+- [DOSBox](https://web.archive.org/web/20060909161645/http://dosbox.sourceforge.net/) simule un bon vieux PC sous MS/DOS. DOSBox existe pour Windows, mais aussi Linux, Mac OS X etc, ce qui prouve que non seulement le logiciel, mais aussi le fonctionnement du matériel de la machine d'origine peut être simulé sur un matériel totalement différent.
 - [Mame](http://www.mame.net/) est un "Muliple Arcade Machine Emulator" permet de retrouver toutes les pompes à fric qui peuplaient les bistrots de ma jeunesse : de "Space Invaders" à "Out Run", des centaines de microprocesseurs et de puces graphiques et sonores sont simulées sur des PC musclés, mais aussi sur des téléphones portables! Encore une illustration spectaculaire de la Loi de Moore : un téléphone actuel contient un ordinateur plus puissant que le top de la machine multimedia il y a 20 ans!
 
 A part l'aspect ludique et éducatif, les éditeurs de systèmes d'exploitations sont très intéressés à garantir une compatibilité maximale avec leurs systèmes précédents pour conserver leur clientèle. Exemple:
@@ -50,11 +50,11 @@ Je n'ai pas encore fait le tour des énormes possibilités de ceci, mais par exe
 - on peut faire tourner un Linux dans une fenêtre Windows
 - préparer des machines préconfigurées avec des logiciels pour démonstration, formation ou expérimentation. Chaque fois qu'on en a besoin, on utilise une copie "propre" qu'on lance sur un PC et qu'on jette après emploi, sans avoir modifié quoi que ce soit à l'"hôte"
 - faire tourner plusieurs "serveurs virtuels" sur une machine réelle : si un problème se produit sur une machine virtuelle, les autres continuent à fonctionner et il suffit de relancer une nouvelle copie
-- configurer un système complexe en combinant des machines virtuelles pré-configurées, chacune réalisant une fonction du système. C'est l'idée des "appliances" dont certaines sont [téléchargeables gratuitement](http://www.vmware.com/vmtn/appliances/) (principalement celles basées sur Linux)
+- configurer un système complexe en combinant des machines virtuelles pré-configurées, chacune réalisant une fonction du système. C'est l'idée des "appliances" dont certaines sont [téléchargeables gratuitement](https://web.archive.org/web/20060903022717/http://www.vmware.com/vmtn/appliances/) (principalement celles basées sur Linux)
 
 #### Référence
 
 - [PlanetEMU](http://planetemu.net/) site spécialisé sur les émulateurs ludiques
-- [VirtuaMag.net](http://www.virtuamag.net/web/) site spécialisé sur la virtualisation
+- [VirtuaMag.net](https://web.archive.org/web/20061211083955/http://www.virtuamag.net/web/) site spécialisé sur la virtualisation
 
 ([article aussi publié sur le site du Microclub](http://microclub.ch/2006/09/15/emulation-et-virtualisation/))

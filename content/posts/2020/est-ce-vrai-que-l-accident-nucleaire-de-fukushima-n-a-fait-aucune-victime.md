@@ -19,4 +19,4 @@ Une étude sur 360'000 résidents a montré une hausse d'environ 212 cancers de 
 
 Par contre le tsunami a fait plus de 18'000 morts , auxquelles on peut ajouter environ 2200 suicides et morts indirectes liées à l'évacuation de la zone irradiée ou détruite par le tsunami.
 
-(source : [Est-il vrai que l’accident nucléaire de Fukushima n’a causé aucun mort ?](https://www.liberation.fr/checknews/2019/04/20/est-il-vrai-que-l-accident-nucleaire-de-fukushima-n-a-cause-aucun-mort_1720075))
+(source : [Est-il vrai que l’accident nucléaire de Fukushima n’a causé aucun mort ?](https://web.archive.org/web/20200804053537/https://www.liberation.fr/checknews/2019/04/20/est-il-vrai-que-l-accident-nucleaire-de-fukushima-n-a-cause-aucun-mort_1720075))

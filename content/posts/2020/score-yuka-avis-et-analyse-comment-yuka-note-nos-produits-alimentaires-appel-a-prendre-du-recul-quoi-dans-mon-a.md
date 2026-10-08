@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://cafedessciences.quora.com/Score-YUKA-avis-et-analyse-comment-YUKA-note-nos-produits-alimentaires-Appel-à-prendre-du-recul-Quoi-dans-mon-a)*
 
-[https://quoidansmonassiette.fr/s...](https://quoidansmonassiette.fr/score-yuka-notation-avis-analyse-comment-yuka-note-nos-produits-alimentaires/)
+[https://quoidansmonassiette.fr/s...](https://web.archive.org/web/20200425101109/https://quoidansmonassiette.fr/score-yuka-notation-avis-analyse-comment-yuka-note-nos-produits-alimentaires/)

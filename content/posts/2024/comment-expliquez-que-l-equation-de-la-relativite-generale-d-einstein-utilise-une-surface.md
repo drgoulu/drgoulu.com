@@ -19,4 +19,4 @@ Une meilleure représentation de l'espace autour d'une masse au cours du temps e
 
 [https://commons.m.wikimedia.org/...](https://commons.m.wikimedia.org/wiki/File:General_relativity_time_and_space_distortion.ogv)
 
-([The Best Representation of Space-Time Distortion I’ve Ever Seen](https://julianorighetto.medium.com/the-best-representation-of-space-time-distortion-ive-ever-seen-4968eb17ab56))
+([The Best Representation of Space-Time Distortion I’ve Ever Seen](https://web.archive.org/web/20240229123716/https://julianorighetto.medium.com/the-best-representation-of-space-time-distortion-ive-ever-seen-4968eb17ab56))

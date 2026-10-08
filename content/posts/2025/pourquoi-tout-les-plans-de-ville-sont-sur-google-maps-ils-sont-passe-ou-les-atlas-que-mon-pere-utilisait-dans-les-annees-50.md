@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Les atlas sont chez les bouquinistes, vous pouvez les utiliser pour voir tout ce qui a été construit en 70 ans…
 
-Je vous écris ceci depuis un arrêt de bus à Londres, dans un quartier qui n'existait pas il y a 20 [ans.Google](http://ans.Google) Maps m'a indiqué que mon bus aura 4 minutes de retard.
+Je vous écris ceci depuis un arrêt de bus à Londres, dans un quartier qui n'existait pas il y a 20 [ans.Google](https://web.archive.org/web/20250712/http://ans.Google) Maps m'a indiqué que mon bus aura 4 minutes de retard.
 
 Le voilà, pile avec le retard prévu…

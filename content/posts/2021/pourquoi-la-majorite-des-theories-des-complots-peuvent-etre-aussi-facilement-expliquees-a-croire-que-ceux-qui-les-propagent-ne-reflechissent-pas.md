@@ -20,7 +20,7 @@ J'avais assisté à une très intéressante présentation de [Mehdi Moussaïd](h
 
 En fait on arrive aujourd'hui à classifier automatiquement la véracité des informations par leur mode de propagation sur Twitter :
 
-Meyers, M., Weiss, G., & Spanakis, G. (2020). [Fake News Detection on Twitter Using Propagation Structures](https://doi.org/10.1007/978-3-030-61841-4_10). In Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) (Vol. 12259 LNCS, pp. 138–158). Springer ( [pdf](https://www.researchgate.net/publication/345601404_Fake_News_Detection_on_Twitter_Using_Propagation_Structures) )
+Meyers, M., Weiss, G., & Spanakis, G. (2020). [Fake News Detection on Twitter Using Propagation Structures](https://doi.org/10.1007/978-3-030-61841-4_10). In Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) (Vol. 12259 LNCS, pp. 138–158). Springer ( [pdf](https://web.archive.org/web/20230207032146/https://www.researchgate.net/publication/345601404_Fake_News_Detection_on_Twitter_Using_Propagation_Structures) )
 
 En gros les vraies infos sont propagées plutôt par des gens qui en suivent peu d'autres et ont beaucoup de followers. Elles se propagent donc "horizontalement".
 

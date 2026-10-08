@@ -13,7 +13,7 @@ tags:
 coverImage: "./images/vc100.jpg"
 ---
 
-Retrouvé par hasard ce film réalisé en 1977 (30 ans...) par [les designers Ray et Charles Eames](http://www.eamesgallery.com/) pour le compte d'IBM. Le commentaire est un peu "années 60", mais "[Powers of Ten](w:)" m'émerveille toujours autant.
+Retrouvé par hasard ce film réalisé en 1977 (30 ans...) par [les designers Ray et Charles Eames](https://web.archive.org/web/20080515224324/http://www.eamesgallery.com/) pour le compte d'IBM. Le commentaire est un peu "années 60", mais "[Powers of Ten](w:)" m'émerveille toujours autant.
 
 {{< youtube id="0fKBhvDjuy0" >}}
 

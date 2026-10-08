@@ -46,4 +46,4 @@ De bonnes lunettes "anti lumière bleue" sont les "filtres jaunes", mais alors l
 
 Notes de bas de page
 
-[[1]](#cite-FsFwM)[UV et lumière bleue | Essilor France](https://www.essilor.fr/la-vue/lumiere/uv-et-lumiere-bleue)
+[[1]](#cite-FsFwM)[UV et lumière bleue | Essilor France](https://web.archive.org/web/20200919055208/https://www.essilor.fr/la-vue/lumiere/uv-et-lumiere-bleue)

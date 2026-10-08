@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il n'y a pas de trous dans le [Gruyère suisse](w:), le seul, le vrai. Il y en a dans de pâles copies qui usurpent ce nom, et dans l'Emmental parce que des bactéries fermentent et produisent des bulles de CO2
 
-[Question (pas) bête : pourquoi y-a-t-il des trous dans l’emmental ?](https://www.produits-laitiers.com/article/pourquoi-y-a-t-il-des-trous-dans-l-emmental)
+[Question (pas) bête : pourquoi y-a-t-il des trous dans l’emmental ?](https://web.archive.org/web/20190504235708/https://www.produits-laitiers.com/article/pourquoi-y-a-t-il-des-trous-dans-l-emmental)

@@ -17,4 +17,4 @@ Oui si le nombre d'enfants par femme reste à 2.44 comme actuellement.
 
 Non si le nombre d'enfants par femme augmente à 11 ou 12…
 
-jouez avec le [Simulateur de population](https://www.ined.fr/_modules/SimulateurPopulation/?lang=en) de l'ined
+jouez avec le [Simulateur de population](https://web.archive.org/web/20200102231731/https://www.ined.fr/_modules/SimulateurPopulation/?lang=en) de l'ined

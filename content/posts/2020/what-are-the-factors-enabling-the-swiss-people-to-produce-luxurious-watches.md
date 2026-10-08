@@ -25,4 +25,4 @@ History, tradition, marketing, marketing and marketing.
 
 Footnotes
 
-[[1]](#cite-KRBkn)[The History of the Swiss Watch Industry Part One - First Class Watches Blog](https://www.firstclasswatches.co.uk/blog/2015/07/the-history-of-the-swiss-watch-industry-part-one/)
+[[1]](#cite-KRBkn)[The History of the Swiss Watch Industry Part One - First Class Watches Blog](https://web.archive.org/web/20191019204215/https://www.firstclasswatches.co.uk/blog/2015/07/the-history-of-the-swiss-watch-industry-part-one/)

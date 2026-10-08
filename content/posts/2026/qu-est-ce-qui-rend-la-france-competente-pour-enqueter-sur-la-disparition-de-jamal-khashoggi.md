@@ -23,4 +23,4 @@ Ca:
 >
 > Le juge devra notamment chercher si cet assassinat a été commis dans le cadre "d'un plan concerté" du pouvoir saoudien à l'encontre de ses opposants, constituant "une attaque généralisée ou systématique" contre des civils.
 
-([Un juge français va enquêter après une plainte contre Mohammed ben Salmane sur la mort de Khashoggi](https://www.france24.com/fr/info-en-continu/20260516-un-juge-français-va-enquêter-après-une-plainte-contre-mohammed-ben-salmane-sur-la-mort-de-khashoggi) )
+([Un juge français va enquêter après une plainte contre Mohammed ben Salmane sur la mort de Khashoggi](https://web.archive.org/web/20260516184840/https://www.france24.com/fr/info-en-continu/20260516-un-juge-français-va-enquêter-après-une-plainte-contre-mohammed-ben-salmane-sur-la-mort-de-khashoggi) )

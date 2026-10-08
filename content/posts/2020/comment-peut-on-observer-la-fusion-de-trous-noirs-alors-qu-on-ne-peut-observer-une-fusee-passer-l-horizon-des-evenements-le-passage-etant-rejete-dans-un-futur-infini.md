@@ -35,4 +35,4 @@ Vous imaginez ça ??? deux objets 30 fois plus massifs que le Soleil qui se tour
 
 Suis tombé sur ce document extraordinaire qui montre la conception de LIGO
 
-[https://indico.cern.ch/event/806...](https://indico.cern.ch/event/806261/attachments/1925101/3186017/CERN_Academic_Lecture_3_Jo_van_den_Brand.pdf)
+[https://indico.cern.ch/event/806...](https://web.archive.org/web/20210423150800/https://indico.cern.ch/event/806261/attachments/1925101/3186017/CERN_Academic_Lecture_3_Jo_van_den_Brand.pdf)

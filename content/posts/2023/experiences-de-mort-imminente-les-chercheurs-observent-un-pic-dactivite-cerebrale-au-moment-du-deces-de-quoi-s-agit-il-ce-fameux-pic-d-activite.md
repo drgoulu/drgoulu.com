@@ -17,7 +17,7 @@ Bon alors après avoir du tirer les vers du nez du questionneur pour une référ
 
 qui est une mention vachement romancée, biaisée voire poétique de cet article, qu'ils ont au moins le mérite de donner en lien, eux :
 
-Xu, G., Mihaylova, T., Li, D., Tian, F., Farrehi, P. M., Parent, J. M., Mashour, G. A., Wang, M. M., & Borjigin, J. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *Proceedings of the National Academy of Sciences*, *120*(19), e2216268120. [https://doi.org/10.1073/PNAS.221...](https://doi.org/10.1073/PNAS.2216268120)
+Xu, G., Mihaylova, T., Li, D., Tian, F., Farrehi, P. M., Parent, J. M., Mashour, G. A., Wang, M. M., & Borjigin, J. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *Proceedings of the National Academy of Sciences*, *120*(19), e2216268120. [https://doi.org/10.1073/PNAS.221...](https://web.archive.org/web/20230506200226/https://doi.org/10.1073/PNAS.2216268120)
 
 dont voici l'abstract traduit pour vous par Google Translate parce que j'ai déjà beaucoup trop bossé sur cette réponse:
 
@@ -40,4 +40,4 @@ Notes de bas de page
 
 [[1]](#cite-Ogfrx)[Y'a-t-il des trous noirs dans la mer ? - Pourquoi Comment Combien](/2013/10/05/ya-t-il-des-trous-noirs-dans-la-mer/#.ZFZEkXZByCo)
 
-[[2]](#cite-aBeeI)[https://www.researchgate.net/pub...](https://www.researchgate.net/publication/255790950_Surge_of_neurophysiological_coherence_and_connectivity_in_the_dying_brain)
+[[2]](#cite-aBeeI)[https://www.researchgate.net/pub...](https://web.archive.org/web/20230506/https://www.researchgate.net/publication/255790950_Surge_of_neurophysiological_coherence_and_connectivity_in_the_dying_brain)

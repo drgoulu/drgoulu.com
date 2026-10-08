@@ -15,4 +15,4 @@ La relation sexuelle est symétrique, mais pas ses conséquences.
 
 Instruisez vous en vous marrant avec ce super article en 3 parties
 
-[https://homofabulus.com/homme-es...](https://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/)
+[https://homofabulus.com/homme-es...](https://web.archive.org/web/20230607180226/https://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/)

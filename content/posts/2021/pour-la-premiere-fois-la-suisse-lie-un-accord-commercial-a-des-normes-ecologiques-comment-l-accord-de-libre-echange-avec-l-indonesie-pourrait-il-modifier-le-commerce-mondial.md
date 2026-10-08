@@ -15,7 +15,7 @@ Houlala vous faites de sacrés raccourcis.
 
 L'
 
-[https://www.seco.admin.ch/seco/f...](https://www.seco.admin.ch/seco/fr/home/seco/Abstimmungen/abkommen-efta-indonesien.html)
+[https://www.seco.admin.ch/seco/f...](https://web.archive.org/web/20210208065225/https://www.seco.admin.ch/seco/fr/home/seco/Abstimmungen/abkommen-efta-indonesien.html)
 
 a été signé par les 4 membres de l'AELE (Norvège, Islande, Liechtenstein et Suisse) et contient effectivement des clauses "écologiques".
 

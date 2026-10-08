@@ -24,7 +24,7 @@ Et effectivement, si vous regardez la carte de la densité de population en Aust
 
 ![](./images/qimg-d0941a7918d346d52cddb8431f3525a0.gif)
 
-(source [PopulationData.net](https://www.populationdata.net/cartes/australie-densite-2012/) d'après bureau australien des statistiques)
+(source [PopulationData.net](https://web.archive.org/web/20230321020530/https://www.populationdata.net/cartes/australie-densite-2012/) d'après bureau australien des statistiques)
 
 vous voyez qu'aux abords des grandes villes, la densité atteint celle de la France (106 hab/km2)
 

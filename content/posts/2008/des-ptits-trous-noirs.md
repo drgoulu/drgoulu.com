@@ -19,4 +19,4 @@ Les petits trous noirs ont aussi un "effet de marée" plus intense que les grand
 
 ![](./images/de966d974b8c8143f25172211bc75356.jpg)
 
-source : [Scientific American : "](http://www.scientificamerican.com/gallery_directory.cfm?photo_id=0C159570-0816-D40C-935EECCAA921250A&sc=rss)[The Smallest Known Black Hole:"](http://www.scientificamerican.com/gallery_directory.cfm?photo_id=0C159570-0816-D40C-935EECCAA921250A&sc=rss) article agrémenté de cette belle vue d'artiste, hélas peu relativiste.
+source : [Scientific American : "](https://web.archive.org/web/20080402/http://www.scientificamerican.com/gallery_directory.cfm?photo_id=0C159570-0816-D40C-935EECCAA921250A&sc=rss)[The Smallest Known Black Hole:"](https://web.archive.org/web/20080402/http://www.scientificamerican.com/gallery_directory.cfm?photo_id=0C159570-0816-D40C-935EECCAA921250A&sc=rss) article agrémenté de cette belle vue d'artiste, hélas peu relativiste.

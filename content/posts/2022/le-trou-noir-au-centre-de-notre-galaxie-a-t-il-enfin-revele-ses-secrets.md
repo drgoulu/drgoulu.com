@@ -26,4 +26,4 @@ Cela dit, je suis étonné par l'image du disque d'accrétion produit par le eve
 
 Notes de bas de page
 
-[[1]](#cite-eBEgJ)[Measuring spin of a supermassive black hole at the Galactic centre — implications for a unique spin](https://academic.oup.com/mnrasl/article/403/1/L74/1187293)
+[[1]](#cite-eBEgJ)[Measuring spin of a supermassive black hole at the Galactic centre — implications for a unique spin](https://web.archive.org/web/20220319203132/https://academic.oup.com/mnrasl/article/403/1/L74/1187293)

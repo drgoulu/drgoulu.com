@@ -16,4 +16,4 @@ Les ondes gravitationnelles interagissent extrêmement peu avec la matière , vo
 
 Avec de tels monstres dans notre système solaire, les ondes gravitationnelles seraient le cadet de nos soucis.
 
-[https://www.forbes.com/sites/sta...](https://www.forbes.com/sites/startswithabang/2020/02/15/ask-ethan-could-gravitational-waves-ever-cause-damage-on-earth/)
+[https://www.forbes.com/sites/sta...](https://web.archive.org/web/20220322214545/https://www.forbes.com/sites/startswithabang/2020/02/15/ask-ethan-could-gravitational-waves-ever-cause-damage-on-earth/)

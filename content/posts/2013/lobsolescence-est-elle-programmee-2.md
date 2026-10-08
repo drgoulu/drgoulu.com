@@ -23,7 +23,7 @@ Pourtant, j'ai des doutes. Je sais que l'obsolescence programmée a été théor
 
 Car après avoir vu "Prêt à jeter" deux fois, analysé et compris la [raison de la limitation de la durée de vie des ampoules](/2011/10/16/la-veritable-histoire-de-lampoule-de-livermore/) fréquemment citée comme preuve, lu et contribué à plusieurs forums et discussions sur le sujet, et entendu [Serge Latouche](w:) face à [Alexandre Delaigue](http://econoclaste.org.free.fr/econoclaste/?p=7583) à la radio \[4\] je n'ai toujours trouvé aucun cas documenté d'obsolescence volontairement planifiée pour accroître la consommation.
 
-Et je ne suis pas le seul. Dans un article récent dans "Pour La Science" \[5\], Alain Geldron de l'[ADEME](http://ademe.fr) confesse:
+Et je ne suis pas le seul. Dans un article récent dans "Pour La Science" \[5\], Alain Geldron de l'[ADEME](https://web.archive.org/web/20130430220607/http://ademe.fr) confesse:
 
 > Ces exemples (NdG : ampoules, bas nylons...) sont toutefois anciens et l'obsolescence programmée ne semble pas être la règle aujourd'hui. De nombreux témoignages d'utilisateurs font peser de sérieux soupçons sur quelques produits, telles des imprimantes qui tombent systématiquement en panne après un certain nombre d'impressions, mais ces cas restent rares et **aucune stratégie des industriels pour limiter la durée de vie des produits n'a pu être prouvée.**
 
@@ -128,7 +128,7 @@ Grâce à [ce commentaire](/2011/10/16/la-veritable-histoire-de-lampoule-de-liv
 
 {{< youtube id="i3a6uV7Bp7Q" >}}
 
-Mais il y a une chose qu’on oublie, c’est que ces merveilleux aspirateurs immortels coûtaient très cher. Ma maman a retrouvé la facture de son Electrolux Z325 acheté en 1976 : CHF 648.- , soit environ 1125 Euros actuels en comptant une [inflation de 2%](http://fr.global-rates.com/statistiques-economiques/inflation/indice-des-prix-a-la-consommation/ipc/suisse.aspx). Selon \[12\], seuls 50% des ménages avaient un aspirateur à la fin 1968; si on extrapole la baisse de prix de 30% en 8 ans de l’électroménager (soit 4.5% par an), on trouve que les aspirateurs coûtent aujourd’hui environ 7.5 fois moins cher qu’en 1968. Comme un aspirateur Electrolux coûte maintenant dans les 200 Euros, celui de nos mamans coûtait l’équivalent de 1500 Euros actuels. Alors, quel aspirateur revient moins cher ? L’Electrolux à 1500 Euros sur 25 ans ou l’autre à 200 sur 4 ?
+Mais il y a une chose qu’on oublie, c’est que ces merveilleux aspirateurs immortels coûtaient très cher. Ma maman a retrouvé la facture de son Electrolux Z325 acheté en 1976 : CHF 648.- , soit environ 1125 Euros actuels en comptant une [inflation de 2%](https://web.archive.org/web/20130518184310/http://fr.global-rates.com/statistiques-economiques/inflation/indice-des-prix-a-la-consommation/ipc/suisse.aspx). Selon \[12\], seuls 50% des ménages avaient un aspirateur à la fin 1968; si on extrapole la baisse de prix de 30% en 8 ans de l’électroménager (soit 4.5% par an), on trouve que les aspirateurs coûtent aujourd’hui environ 7.5 fois moins cher qu’en 1968. Comme un aspirateur Electrolux coûte maintenant dans les 200 Euros, celui de nos mamans coûtait l’équivalent de 1500 Euros actuels. Alors, quel aspirateur revient moins cher ? L’Electrolux à 1500 Euros sur 25 ans ou l’autre à 200 sur 4 ?
 
 Si vous préférez le "durable", alors payez 1000 Euros pour un aspirateur dit "professionnel", dimensionné pour une utilisation quotidienne intensive, et ne l’employez qu’une fois par semaine : il durera des décennies  Et oui, on trouve des sacs pour ces aspirateurs pendant tout ce temps, parce qu'on a payé pour.
 
@@ -136,7 +136,7 @@ Corollaire : vous voulez une loi pour allonger les garanties et forcer les four
 
 ### La Bolex de mon papa
 
-Mon papa possède encore une caméra [Super 8](w:), une [Bolex 7.5](http://www.bolexcollector.com/cameras/75macro.html) en parfait état de marche. Elle a filmé mon enfance et la vie de la famille à la fin des années 60, début des 70, puis les méchants japonais ont flanqué par terre notre belle industrie mécanique \[13\] avec leurs vidéos et autres gadgets électroniques bon marché.
+Mon papa possède encore une caméra [Super 8](w:), une [Bolex 7.5](https://web.archive.org/web/20120826200411/http://www.bolexcollector.com/cameras/75macro.html) en parfait état de marche. Elle a filmé mon enfance et la vie de la famille à la fin des années 60, début des 70, puis les méchants japonais ont flanqué par terre notre belle industrie mécanique \[13\] avec leurs vidéos et autres gadgets électroniques bon marché.
 
 Dans une caméra mécanique, il y a un mécanisme qui fait avancer le film par saccades de 24 images par seconde, et un obturateur qui s'ouvre et se ferme à la même cadence. Donc des pièces qui bougent avec des accélérations assez fortes pour se déformer un peu et causer de la fatigue des matériaux, des frottements qui les usent etc.
 
@@ -212,13 +212,13 @@ Personnellement, je pense qu'on attribue communément à l'obsolescence programm
 
 9. <span id="ref-9"></span>Alain Geldron, "[L'obsolescence programmée est-elle une stratégie répandue ?](https://www.pourlascience.fr/sd/technologie/lobsolescence-programmee-est-elle-une-strategie-repandue-7222.php)", 2013, Pour La Science No 425
 
-11. <span id="ref-11"></span>Jeremy Bulow (1980). An Economic Theory of Planned Obsolescence Quarterly Journal of Economics, 101 (4), 729-750 {{< altmetric doi="10.2307/1884176" >}} [(pdf)](https://faculty-gsb.stanford.edu/bulow/articles/an%20economic%20theory%20of%20planned%20obsolescence.pdf)
+11. <span id="ref-11"></span>Jeremy Bulow (1980). An Economic Theory of Planned Obsolescence Quarterly Journal of Economics, 101 (4), 729-750 {{< altmetric doi="10.2307/1884176" >}} [(pdf)](https://web.archive.org/web/20131204172550/https://faculty-gsb.stanford.edu/bulow/articles/an%20economic%20theory%20of%20planned%20obsolescence.pdf)
 
-13. <span id="ref-13"></span>J. Guiltinan, "[Creative Destruction and Destructive Creations: Environmental Ethics and Planned Obsolescence](http://www.grid.unep.ch/FP2011/step1/pdf/023a_guiltinan_2009.pdf)", 2008, Journal of Business Ethics, vol. 89, no. S1, pp. 19–28, Aug. 2008.
+13. <span id="ref-13"></span>J. Guiltinan, "[Creative Destruction and Destructive Creations: Environmental Ethics and Planned Obsolescence](https://web.archive.org/web/20130531000627/http://www.grid.unep.ch/FP2011/step1/pdf/023a_guiltinan_2009.pdf)", 2008, Journal of Business Ethics, vol. 89, no. S1, pp. 19–28, Aug. 2008.
 
 15. <span id="ref-15"></span>R. Sherman and G. Hoffer, “Does Automobile Style Change Payoff?,” Applied Economics, vol. 3, no. 3, pp. 153–165, 1971.
 
-17. <span id="ref-17"></span>T. Iizuka, “[An Empirical Analysis of Planned Obsolescence](http://www.aeaweb.org/assa/2005/0107_1015_0616.pdf)” Journal of Economics Management Strategy, vol. 16, no. 1, pp. 191–226, 2007.
+17. <span id="ref-17"></span>T. Iizuka, “[An Empirical Analysis of Planned Obsolescence](https://web.archive.org/web/20130525022934/http://www.aeaweb.org/assa/2005/0107_1015_0616.pdf)” Journal of Economics Management Strategy, vol. 16, no. 1, pp. 191–226, 2007.
 
 19. <span id="ref-19"></span>{{< openbook booknumber="ISBN:0674022033" templatenumber="5" >}}
 
@@ -226,4 +226,4 @@ Personnellement, je pense qu'on attribue communément à l'obsolescence programm
 
 23. <span id="ref-23"></span>"[L'équipement des français en biens durables fin 1968](http://www.persee.fr/web/revues/home/prescript/article/estat_0336-1454_1969_num_3_1_1875)" Economie et statistique , Année 1969, Volume 3, Numéro 3, pp. 65-68
 
-25. <span id="ref-25"></span>Urs Maurer "[Paillard - Bolex: il ne reste que le mythe](http://www.swissinfo.ch/fre/A_La_une/Archive/Paillard_-_Bolex:_il_ne_reste_que_le_mythe.html?cid=3764886)" swissinfo.ch 2004
+25. <span id="ref-25"></span>Urs Maurer "[Paillard - Bolex: il ne reste que le mythe](https://web.archive.org/web/20170702082839/http://www.swissinfo.ch/fre/A_La_une/Archive/Paillard_-_Bolex:_il_ne_reste_que_le_mythe.html?cid=3764886)" swissinfo.ch 2004

@@ -19,7 +19,7 @@ coverImage: ./images/quora.png
 
 Le pourquoi précède le comment : s'il n'y a pas de raison d'y retourner, il ne faut pas se casser la tête sur les moyens…
 
-EN 2006, Une enquête de la NASA [[1]](#swKhz) a répertorié [181 choses](http://www.nasa.gov/pdf/163560main_LunarExplorationObjectives.pdf) intéressantes à faire sur la Lune, réparties en [6 thèmes](http://www.nasa.gov/exploration/home/why_moon.html)
+EN 2006, Une enquête de la NASA [[1]](#swKhz) a répertorié [181 choses](https://web.archive.org/web/20190919005030/http://www.nasa.gov/pdf/163560main_LunarExplorationObjectives.pdf) intéressantes à faire sur la Lune, réparties en [6 thèmes](https://web.archive.org/web/20190818020632/http://www.nasa.gov/exploration/home/why_moon.html)
 
 - connaissances scientifiques : installation d’instruments de mesure, de télescopes et d’expériences de physique
 - expansion économique : systèmes d’observation et de mesure de la Terre fournissant des données commercialisables, pour beaucoup en relation avec le climat
@@ -36,4 +36,4 @@ Pour justifier le coût colossal d’une base habitée sur la Lune, il faudra tr
 
 Notes de bas de page
 
-[[1]](#cite-swKhz)[NASA - Lunar Exploration Objectives](https://www.nasa.gov/exploration/home/why_moon_objectives.html)
+[[1]](#cite-swKhz)[NASA - Lunar Exploration Objectives](https://web.archive.org/web/20190923013153/https://www.nasa.gov/exploration/home/why_moon_objectives.html)

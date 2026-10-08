@@ -21,7 +21,7 @@ en zoomant sur la zone du visible :
 
 (ces petites bosses sont vraiment intrigantes …) le minimum est à 415 nm
 
-Avec ma p'tite fonction [Goulib.colors.lambda2RGB](https://goulib.readthedocs.io/en/latest/modules/Goulib.colors.html#Goulib.colors.lambda2RGB) et Jupyter ça donne ça:
+Avec ma p'tite fonction [Goulib.colors.lambda2RGB](https://web.archive.org/web/20211205113910/https://goulib.readthedocs.io/en/latest/modules/Goulib.colors.html#Goulib.colors.lambda2RGB) et Jupyter ça donne ça:
 
 ![](./images/qimg-3ff9658189cdc5da0e0b8879bd4100a7.png)
 

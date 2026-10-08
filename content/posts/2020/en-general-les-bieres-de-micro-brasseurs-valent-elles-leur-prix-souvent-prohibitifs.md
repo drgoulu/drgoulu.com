@@ -23,7 +23,7 @@ Rappelez vous toujours ceci : une vente a lieu si et seulement si ces deux condi
 1. Le prix est supérieur à la valeur (coût) pour le vendeur
 2. Le prix est inférieur à la valeur pour l'acheteur
 
-Pour la bière, j'ai trouvé [Combien coûte une bière à brasser ? Prix de revient - LE BEAR Trotter](https://lebeartrotter.com/prix-revient-biere-artisanale/) qui montre que le prix de revient d'une bouteille de 33cl est d'environ 1.6 euro et qu il faut pouvoir la vendre 3 euro pour pouvoir en vivre.
+Pour la bière, j'ai trouvé [Combien coûte une bière à brasser ? Prix de revient - LE BEAR Trotter](https://web.archive.org/web/20201001064542/https://lebeartrotter.com/prix-revient-biere-artisanale/) qui montre que le prix de revient d'une bouteille de 33cl est d'environ 1.6 euro et qu il faut pouvoir la vendre 3 euro pour pouvoir en vivre.
 
 Le distributeur / bar veut encore faire une marge dessus, donc vous pouvez avoir votre bière pour 5 ou 6 euros, ou plus.
 

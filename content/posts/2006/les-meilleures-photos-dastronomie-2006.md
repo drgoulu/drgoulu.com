@@ -11,7 +11,7 @@ tags:
 coverImage: "./images/c183a5365cb5dd27cd4652865d8fd6b8.jpg"
 ---
 
-Sur le ["Bad Astronomy blog"](http://blogs.discovermagazine.com/badastronomy/) j'ai trouvé quelques fabuleuses photos astronomiques :
+Sur le ["Bad Astronomy blog"](https://web.archive.org/web/20080702175758/http://blogs.discovermagazine.com/badastronomy/) j'ai trouvé quelques fabuleuses photos astronomiques :
 
 [![](./images/85e863a87b39077c7923f66d2af2f0eb.jpg)](http://ciclops.org/view.php?id=2230) Saturne éclairée en arrière plan par le Soleil ! (photo prise par la sonde Cassini)
 

@@ -23,7 +23,7 @@ Les pays africains suivent la même trajectoire de développement que tous les a
 
 Notes de bas de page
 
-[[1]](#cite-VHXtu)[https://www.afdb.org/fr/news-and...](https://www.afdb.org/fr/news-and-events/press-releases/lafrique-au-deuxieme-rang-mondial-des-regions-la-croissance-la-plus-rapide-avec-41-pays-en-forte-croissance-en-2024-selon-les-perspectives-economiques-de-lafrique-de-la-banque-africaine-de-developpement-71401)
+[[1]](#cite-VHXtu)[https://www.afdb.org/fr/news-and...](https://web.archive.org/web/20241003053415/https://www.afdb.org/fr/news-and-events/press-releases/lafrique-au-deuxieme-rang-mondial-des-regions-la-croissance-la-plus-rapide-avec-41-pays-en-forte-croissance-en-2024-selon-les-perspectives-economiques-de-lafrique-de-la-banque-africaine-de-developpement-71401)
 
 [[2]](#cite-BQqnB)[https://fr.tradingeconomics.com/...](https://fr.tradingeconomics.com/country-list/gdp-per-capita?continent=africa)
 

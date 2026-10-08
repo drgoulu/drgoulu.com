@@ -20,7 +20,7 @@ Quelques unes : [Google Scholar "cannabidiol benefits"](https://scholar.google.c
 
 Dans les premiers listés, j'ai trouvé celui-ci intéressant (choix purement subjectif) :
 
-[https://journals.sagepub.com/doi...](https://journals.sagepub.com/doi/full/10.1177/2045125320954992)
+[https://journals.sagepub.com/doi...](https://web.archive.org/web/20201101111444/https://journals.sagepub.com/doi/full/10.1177/2045125320954992)
 
 Il montre que les résultats scientifiques sont obtenus avec du CBD de qualité médicale alors que les produits grand public sont très différents, très souvent sous-dosés au point qu'il n'y a pas de preuve scientifique qu'ils aient un effet…
 

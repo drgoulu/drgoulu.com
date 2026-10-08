@@ -38,4 +38,4 @@ Notes de bas de page
 
 [[2]](#cite-WexaF)[Régime hypocalorique pour les orangs-outans](https://www.pourlascience.fr/sd/biologie-animale/regime-hypocalorique-pour-les-orangs-outans-10641.php)
 
-[[3]](#cite-hIbUa)[Le gros cerveau des humains? Une histoire de métabolisme](https://www.slate.fr/story/117795/gros-cerveau-humains-histoire-metabolisme)
+[[3]](#cite-hIbUa)[Le gros cerveau des humains? Une histoire de métabolisme](https://web.archive.org/web/20220524112854/https://www.slate.fr/story/117795/gros-cerveau-humains-histoire-metabolisme)

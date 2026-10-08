@@ -34,4 +34,4 @@ Notes de bas de page
 
 [[1]](#cite-ZVMer)[Population mondiale — Wikipédia](w:Population_mondiale)
 
-[[2]](#cite-RBhke)[L'incroyable alphabétisation du monde](https://www.lepoint.fr/societe/l-incroyable-alphabetisation-du-monde-10-09-2019-2334818_23.php)
+[[2]](#cite-RBhke)[L'incroyable alphabétisation du monde](https://web.archive.org/web/20191226022224/https://www.lepoint.fr/societe/l-incroyable-alphabetisation-du-monde-10-09-2019-2334818_23.php)

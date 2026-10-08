@@ -18,7 +18,7 @@ coverImage: ./images/qimg-3e9934171dfdeba7862df9f37a31cd0e.jpg
 
 Mon score à ce test américain (centre du carré vert gauche/libertarien) importe peu, mais ces représentations politiques à deux dimensions sont très intéressantes. Le problème du [Quadrant politique](w:)de Political Compass ou du [Diagramme de Nolan](w:), c'est qu'ils se basent sur des axes définis a priori. On peut aussi se demander si un deuxième axe a vraiment du sens, encore plus dans un système bipartite …
 
-D'autres méthodes comme le [smartvote](https://www.smartvote.ch/fr/group/2/election/19_ch_nr/smartmap?locale=fr_CH) suisse utilisent des méthodes mathématiques comme l'[Analyse en composantes principales](w:) pour déterminer automatiquement les deux axes, et même pour démontrer qu le troisième n'est pas significatif. Avec ces méthodes, les dénominations "libéral/conservateur" et même "gauche/droite" sont posées a posteriori, pas a priori.
+D'autres méthodes comme le [smartvote](https://web.archive.org/web/20191125/https://www.smartvote.ch/fr/group/2/election/19_ch_nr/smartmap?locale=fr_CH) suisse utilisent des méthodes mathématiques comme l'[Analyse en composantes principales](w:) pour déterminer automatiquement les deux axes, et même pour démontrer qu le troisième n'est pas significatif. Avec ces méthodes, les dénominations "libéral/conservateur" et même "gauche/droite" sont posées a posteriori, pas a priori.
 
 Voici par exemple la carte du positionnement des 200 parlementaires fraîchement élus à notre [Conseil National](w:Conseil_national_(Suisse)) :
 

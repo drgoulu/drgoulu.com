@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/C-est-quoi-la-g%C3%A9nocide/answer/Dr-Goulu)*
 
-Exactement ce qui est défini à l'article 2 de la [**Convention pour la prévention et la répression du crime de génocide**](https://www.ohchr.org/fr/instruments-mechanisms/instruments/convention-prevention-and-punishment-crime-genocide)
+Exactement ce qui est défini à l'article 2 de la [**Convention pour la prévention et la répression du crime de génocide**](https://web.archive.org/web/20250801235630/https://www.ohchr.org/fr/instruments-mechanisms/instruments/convention-prevention-and-punishment-crime-genocide)
 
 > le génocide s'entend de l'un quelconque des actes ci-après, commis dans l'intention de détruire, ou tout ou en partie, un groupe national, ethnique, racial ou religieux, comme tel :
 >

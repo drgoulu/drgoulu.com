@@ -16,4 +16,4 @@ coverImage: ./images/quora.png
 
 Even if you include installation and disposal, a modern panel will produce about 10x its energy cost.
 
-[https://www.nrel.gov/docs/fy04os...](https://www.nrel.gov/docs/fy04osti/35489.pdf)
+[https://www.nrel.gov/docs/fy04os...](https://web.archive.org/web/20230420045713/https://www.nrel.gov/docs/fy04osti/35489.pdf)

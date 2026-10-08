@@ -15,4 +15,4 @@ Quora n'est pas fait pour publier des théories.
 
 Envoyez votre article à un journal scientifique. Liste ici
 
-[http://archive.sciencewatch.com/...](http://archive.sciencewatch.com/ana/st/earthquakes2/journals/)
+[http://archive.sciencewatch.com/...](https://web.archive.org/web/20240922012308/http://archive.sciencewatch.com/ana/st/earthquakes2/journals/)

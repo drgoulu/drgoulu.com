@@ -20,7 +20,7 @@ coverImage: ./images/quora.png
 
 Et puis s'il y en a de "vrais", c'est donc qu'il y en a de "faux"…
 
-Sur [Branches du christianisme — Wikipédia](w:Branches_du_christianisme) ils en distinguent 11, mais j'en compte 25 rien que sur la [Liste des Eglises et Communautés Membres](http://www.recg.ch/qui-nous-sommes/eglises-membres.html) du [Rassemblement des Eglises et Communautés Chrétiennes de Genève](http://www.recg.ch/) . D'après [Liste des plus grandes églises évangéliques](w:), on répertorie plus de 1 668 [Megaéglises](w:Megachurch) évangéliques (ou -istes..) rien qu'aux USA.
+Sur [Branches du christianisme — Wikipédia](w:Branches_du_christianisme) ils en distinguent 11, mais j'en compte 25 rien que sur la [Liste des Eglises et Communautés Membres](https://web.archive.org/web/20220814162146/http://www.recg.ch/qui-nous-sommes/eglises-membres.html) du [Rassemblement des Eglises et Communautés Chrétiennes de Genève](https://web.archive.org/web/20220317040837/http://www.recg.ch/) . D'après [Liste des plus grandes églises évangéliques](w:), on répertorie plus de 1 668 [Megaéglises](w:Megachurch) évangéliques (ou -istes..) rien qu'aux USA.
 
 Lesquelles font partie de votre "communauté de vrais chrétiens croyants" ? Quels sont les
 

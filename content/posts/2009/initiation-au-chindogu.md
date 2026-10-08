@@ -13,7 +13,7 @@ coverImage: "./images/325dff208fdb8165cfbd0ffd89897751.jpg"
 
 La réunion annuelle de la société secrète (dont j'ai déjà [trop parlé ici](/2009/03/08/combien-pour-ce-brevet/)) a été partiellement consacrée au [Chindogu](w:), l'art japonais des inventions absurdes.
 
-Lancée par Kenji Kawakami, l '[International Chindogu Society](http://chindogu.com/) spécifie [10 règles](http://chindogu.com/tenets.html) définissant une oeuvre chindogu :
+Lancée par Kenji Kawakami, l '[International Chindogu Society](https://web.archive.org/web/20091213090651/http://chindogu.com/) spécifie [10 règles](https://web.archive.org/web/20120329022139/http://chindogu.com/tenets.html) définissant une oeuvre chindogu :
 
 1. Un chindogu ne doit pas réellement être utilisable. Il est dans l'esprit fondamental du Chindogu que les inventions revendiquant le statut de chindogu doivent être d'un point de vue pratique (presque) complètement inutiles. Si vous inventez quelque chose qui se révèle si pratique que vous l'utilisez tout le temps, alors vous avez raté votre chindogu. Essayez l' Office des Brevets....
     
@@ -44,6 +44,6 @@ Peut être qu'en pensant à tous les cadeaux de Noël inutiles que vous offrez e
 
 ### références:
 
-1. <span id="ref-1"></span>Soline Ledéser, "[Kawakami, maître du chindogu, l'art de l'invention presque inutile](http://www.rue89.com/2009/07/07/kawakami-maitre-du-chindogu-lart-de-linvention-presque-inutile)" sur Rue89
+1. <span id="ref-1"></span>Soline Ledéser, "[Kawakami, maître du chindogu, l'art de l'invention presque inutile](https://web.archive.org/web/20090709232037/http://www.rue89.com/2009/07/07/kawakami-maitre-du-chindogu-lart-de-linvention-presque-inutile)" sur Rue89
 2. <span id="ref-2"></span>[Le concours Lepine Japonais ou les merveilleuses inventions pour la vie](http://fredasie.free.fr/fredasie/Japonlepine.html), page avec de nombreuses photos
-3. <span id="ref-3"></span>[Galerie de chindogu de CoisaPakka sur flickr](https://login.yahoo.com/config/login?.src=flickrsignin&.pc=8190&.scrumb=0&.pd=c%3DJvVF95K62e6PzdPu7MBv2V8-&.intl=us&.done=https%3A%2F%2Flogin.yahoo.com%2Fconfig%2Fvalidate%3F.src%3Dflickrsignin%26.pc%3D8190%26.scrumb%3D0%26.pd%3Dc%253DJvVF95K62e6PzdPu7MBv2V8-%26.intl%3Dus%26.done%3Dhttp%253A%252F%252Fwww.flickr.com%252Fsignin%252Fyahoo%252F%253Fredir%253D%25252Fphotos%25252Fcoisapakka%25252Fsets%25252F72157609550110954%25252F)
+3. <span id="ref-3"></span>[Galerie de chindogu de CoisaPakka sur flickr](https://web.archive.org/web/20091224/https://login.yahoo.com/config/login?.src=flickrsignin&.pc=8190&.scrumb=0&.pd=c%3DJvVF95K62e6PzdPu7MBv2V8-&.intl=us&.done=https%3A%2F%2Flogin.yahoo.com%2Fconfig%2Fvalidate%3F.src%3Dflickrsignin%26.pc%3D8190%26.scrumb%3D0%26.pd%3Dc%253DJvVF95K62e6PzdPu7MBv2V8-%26.intl%3Dus%26.done%3Dhttp%253A%252F%252Fwww.flickr.com%252Fsignin%252Fyahoo%252F%253Fredir%253D%25252Fphotos%25252Fcoisapakka%25252Fsets%25252F72157609550110954%25252F)

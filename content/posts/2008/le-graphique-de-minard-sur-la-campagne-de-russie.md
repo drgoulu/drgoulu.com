@@ -22,5 +22,5 @@ A ce sujet, j'avais appris au Collège (=Lycée) que l'étain dont étaient fait
 
 ### Sources:
 
-- ["Vital Statistics of a Deadly Campaign: the Minard Map" sur strange maps](http://bigthink.com/ideas/21281) , un excellent blog consacré aux cartes et à la représentation de l'information
-- ["Charts Worth a thousand words" sur Economist.com](http://www.economist.com/node/10278643?story_id=10278643) , article où d'autres cartes de ce type sont présentées
+- ["Vital Statistics of a Deadly Campaign: the Minard Map" sur strange maps](https://web.archive.org/web/20101229082014/http://bigthink.com/ideas/21281) , un excellent blog consacré aux cartes et à la représentation de l'information
+- ["Charts Worth a thousand words" sur Economist.com](https://web.archive.org/web/20100806135242/http://www.economist.com/node/10278643?story_id=10278643) , article où d'autres cartes de ce type sont présentées

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 L'énoncé rigoureux du "problème du millénaire" de l'institut Clay est ci-joint.
 
-[https://www.claymath.org/sites/d...](https://www.claymath.org/sites/default/files/pvsnp.pdf)
+[https://www.claymath.org/sites/d...](https://web.archive.org/web/20201226060909/https://www.claymath.org/sites/default/files/pvsnp.pdf)

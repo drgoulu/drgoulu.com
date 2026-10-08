@@ -37,4 +37,4 @@ La comparaison avec la Norvège est frappante : pour les mêmes coûts totaux et
 
 Diviser par deux les primes d'assurance maladie en Suisse ne tient qu'à un choix politique.
 
-\*et un [imparfait du subjonctif](http://grammaire.reverso.net/2_1_43_fut-ce_fusse_fussent.shtml), un !
+\*et un [imparfait du subjonctif](https://web.archive.org/web/20090917010536/http://grammaire.reverso.net/2_1_43_fut-ce_fusse_fussent.shtml), un !

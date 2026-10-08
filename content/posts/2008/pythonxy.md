@@ -15,9 +15,9 @@ coverImage: "./images/49238e1e3d4c1b710576025c40060844.png"
 [![](./images/49238e1e3d4c1b710576025c40060844.png "pythonxy-logo")](./images/49238e1e3d4c1b710576025c40060844.png)[Python(x,y)](http://code.google.com/p/pythonxy/) résout tout ces problèmes en proposant un installeur unique de la Parfaite Panoplie du Petit Programmeur Scientifique. Elle inclut:
 
 - [Python](http://www.python.org/), évidemment (version 2.5.2 actuellement)
-- [Eclipse](http://www.eclipse.org/), le meilleur IDE de la Galaxie. Concu initialement pour Java, Eclipse permet de développer dans pratiquement tous les langages connus à l'aide de plugins. [PyDev](http://pydev.sourceforge.net/) est celui qui supporte Python.
+- [Eclipse](http://www.eclipse.org/), le meilleur IDE de la Galaxie. Concu initialement pour Java, Eclipse permet de développer dans pratiquement tous les langages connus à l'aide de plugins. [PyDev](https://web.archive.org/web/20081216034427/http://pydev.sourceforge.net/) est celui qui supporte Python.
 - [MinGW](http://www.mingw.org/), le "Minimalist GNU for Windows" qui comprend le célèbre compilateur C++ "GCC". Grâce au plugin Eclipse [CDT](http://www.eclipse.org/cdt/) également fourni, Python(x,y) est donc en même temps un environnement de développement C++ très complet
-- [PyQt](http://www.riverbankcomputing.co.uk/software/pyqt/intro) pour exploiter [Qt](http://qt.nokia.com/products), le framework d'applications multiplateforme de Nokia. Intégré à Eclipse, l'ensemble permet de créer des GUI (Interfaces Utilisateur Graphiques, à l'envers en anglais)
+- [PyQt](http://www.riverbankcomputing.co.uk/software/pyqt/intro) pour exploiter [Qt](https://web.archive.org/web/20090814121450/http://qt.nokia.com/products), le framework d'applications multiplateforme de Nokia. Intégré à Eclipse, l'ensemble permet de créer des GUI (Interfaces Utilisateur Graphiques, à l'envers en anglais)
 - une myriade de librairies scientifiques pour le traitement du signal et d'images, le calcul symbolique, la visualisation graphique 2D et 3D, le calcul parallèle etc. La liste complète est [ici](http://code.google.com/p/pythonxy/wiki/StandardPlugins) et le tout est résumé dans ce beau "mind map" :
 
 ![](./images/6d05e9aa0deff401627a1d6e6ceeabae.png)

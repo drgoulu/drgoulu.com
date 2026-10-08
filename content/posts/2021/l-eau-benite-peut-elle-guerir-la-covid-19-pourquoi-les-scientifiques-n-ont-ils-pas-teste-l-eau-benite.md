@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Il l ont testée. En termes scientifiques, ça s'appelle "placebo" et des études comparatives comme
 
-[https://www.thelancet.com/journa...](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00947-8/fulltext)
+[https://www.thelancet.com/journa...](https://web.archive.org/web/20210719123723/https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00947-8/fulltext)
 
 ont montré que c était beaucoup moins efficace que les vaccins.
 

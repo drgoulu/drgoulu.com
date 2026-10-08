@@ -22,4 +22,4 @@ coverImage: ./images/quora.png
 
 Vous pouvez donc avoir la normale saisonnière de la température (moyenne) de votre région, mais aussi de la température maximale ou minimale (moyenne des 30 températures max ou min du mois, relevées chaque année)
 
-[https://www.meteocontact.fr/clim...](https://www.meteocontact.fr/climatologie/france/normales-saisonnieres)
+[https://www.meteocontact.fr/clim...](https://web.archive.org/web/20230128090359/https://www.meteocontact.fr/climatologie/france/normales-saisonnieres)

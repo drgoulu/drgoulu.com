@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Au moment où ils arrêtent de croire au Père Noël.
 
-Lisez ça : [Pascal Broulis, l'impôt heureux](https://mobile.payot.ch/Detail/9782828912482).
+Lisez ça : [Pascal Broulis, l'impôt heureux](https://web.archive.org/web/20260325/https://mobile.payot.ch/Detail/9782828912482).

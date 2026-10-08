@@ -18,7 +18,7 @@ En pondant [ce commentaire](http://www.les-crises.fr/climat-8-analyse-rechauffem
 
 ![](./images/f1484309c68d335566ef5d223364ee75.png)
 
-[Ce graphique](http://www.globalwarmingart.com/wiki/File:Atmospheric_Transmission_png), oeuvre de [Robert A. Rohde](http://www.globalwarmingart.com/wiki/User:Robert_A._Rohde) de [globalwarmingart.com](http://www.globalwarmingart.com/) montre des tas de choses fondamentales, et quelques unes de mes interrogations:
+[Ce graphique](https://web.archive.org/web/20111122090018/http://www.globalwarmingart.com/wiki/File:Atmospheric_Transmission_png), oeuvre de [Robert A. Rohde](https://web.archive.org/web/20111027172443/http://www.globalwarmingart.com/wiki/User:Robert_A._Rohde) de [globalwarmingart.com](http://www.globalwarmingart.com/) montre des tas de choses fondamentales, et quelques unes de mes interrogations:
 
 1. le rayonnement "entrant" dans l'atmosphère est la somme de deux "rayonnements du corps noir" : celui du soleil à 5525 K par le haut, et celui de la Terre à 288 K environ actuellement, par le bas.
 2. L'ozone nous protège des ultraviolets solaires, mais aussi la [diffusion Rayleigh](w:), qui nous donne ce joli ciel bleu. O3 mérite-t-il d'être considéré comme un méchant [gaz à effet de serre](w:) à cause de quelques petits pics dans l’infrarouge ?

@@ -26,7 +26,7 @@ Ce qui pourrait faire peur, c'est qu'aucun humain ne sait vraiment quelle métho
 
 ### La loi de Schneier
 
-[Bruce Schneier](w:) est mon gourou de sécurité informatique, et de sécurité tout court. Je suis assidument [son blog](https://www.schneier.com/blog) depuis que j'ai lu son excellent bouquin "[Liars and outliers](/2013/08/25/liars-and-outliers/)". Et à propos de la nouvelle ci-dessus, il s'est fendu d'un tout petit article [[2]](#ref-2) pour le moins critique que je vous traduis intégralement :
+[Bruce Schneier](w:) est mon gourou de sécurité informatique, et de sécurité tout court. Je suis assidument [son blog](https://web.archive.org/web/20161112150636/https://www.schneier.com/blog) depuis que j'ai lu son excellent bouquin "[Liars and outliers](/2013/08/25/liars-and-outliers/)". Et à propos de la nouvelle ci-dessus, il s'est fendu d'un tout petit article [[2]](#ref-2) pour le moins critique que je vous traduis intégralement :
 
 > Cette histoire concerne plus l'intelligence artificielle et les réseaux de neurones que la cryptographie. L'algorithme ne vaut rien mais est un parfait exemple de ce que j'ai entendu nommer "la loi de Schneier": n'importe qui peut concevoir un [chiffrement](w:) qu'il n'est pas capable de casser lui-même.
 
@@ -47,8 +47,8 @@ Note\* : en tirant les bits à pile ou face, on obtient la moitié des bits du m
 ### Références:
 
 1. <span id="ref-1"></span>Martin Abadi and David G. Andersen "[Learning to protect communications with adversarial neural cryptograph](https://arxiv.org/pdf/1610.06918v1.pdf)", 2016 {{< altmetric arxiv="1610.06918" >}}
-2. <span id="ref-2"></span>Bruce Schneier "[Teaching a Neural Network to Encrypt](https://www.schneier.com/blog/archives/2016/11/teaching_a_neur.html)" 2016
+2. <span id="ref-2"></span>Bruce Schneier "[Teaching a Neural Network to Encrypt](https://web.archive.org/web/20161106111138/https://www.schneier.com/blog/archives/2016/11/teaching_a_neur.html)" 2016
 3. <span id="ref-3"></span>Bruce Schneier "[Schneier's Law](https://www.schneier.com/blog/archives/2011/04/schneiers_law.html)" 2011
-4. <span id="ref-4"></span>Charles Babbage "Passages from the Life of a Philosopher", 1864 (extrait "[Charles Babbage and deciphering codes](http://www-history.mcs.st-and.ac.uk/history/Extras/Babbage_deciphering.html)")
+4. <span id="ref-4"></span>Charles Babbage "Passages from the Life of a Philosopher", 1864 (extrait "[Charles Babbage and deciphering codes](https://web.archive.org/web/20160521162155/http://www-history.mcs.st-and.ac.uk/history/Extras/Babbage_deciphering.html)")
 5. <span id="ref-5"></span>Cory Doctorow, "[Microsoft Research DRM talk](http://craphound.com/msftdrm.txt)", June 17, 2004
-6. <span id="ref-6"></span>Kruger, J., & Dunning, D. "[Unskilled and Unaware of It: How Difficulties in Recognizing One’s Own Incompetence Lead to Inflated Self-Assessments](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.64.2655&rep=rep1&type=pdf)", 1999. Journal of Personality and Social Psychology, 77(6), 121–1134. DOI:10.1.1.64.2655 {{< altmetric pmid="10626367" >}}
+6. <span id="ref-6"></span>Kruger, J., & Dunning, D. "[Unskilled and Unaware of It: How Difficulties in Recognizing One’s Own Incompetence Lead to Inflated Self-Assessments](https://web.archive.org/web/20161013003242/http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.64.2655&rep=rep1&type=pdf)", 1999. Journal of Personality and Social Psychology, 77(6), 121–1134. DOI:10.1.1.64.2655 {{< altmetric pmid="10626367" >}}

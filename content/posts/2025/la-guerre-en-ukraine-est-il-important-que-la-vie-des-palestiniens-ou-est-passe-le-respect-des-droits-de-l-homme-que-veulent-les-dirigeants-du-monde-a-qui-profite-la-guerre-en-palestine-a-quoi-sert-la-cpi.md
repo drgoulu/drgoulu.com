@@ -22,4 +22,4 @@ coverImage: ./images/quora.png
 
 Notes de bas de page
 
-[[1]](#cite-ayuvn)[Ce qui attend Poutine : histoire des procès internationaux de crimes de guerre • Ukraїner](https://www.ukrainer.net/fr/crimes-de-guerre/)
+[[1]](#cite-ayuvn)[Ce qui attend Poutine : histoire des procès internationaux de crimes de guerre • Ukraїner](https://web.archive.org/web/20250425055950/https://www.ukrainer.net/fr/crimes-de-guerre/)

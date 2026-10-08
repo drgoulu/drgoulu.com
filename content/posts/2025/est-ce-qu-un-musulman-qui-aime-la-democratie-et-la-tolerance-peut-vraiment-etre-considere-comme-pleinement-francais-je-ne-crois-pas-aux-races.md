@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Est-ce-qu-un-musulman-qui-aime-la-d%C3%A9mocratie-et-la-tol%C3%A9rance-peut-vraiment-%C3%AAtre-consid%C3%A9r%C3%A9-comme-pleinement-fran%C3%A7ais-Je-ne-crois-pas-aux-races/answer/Dr-Goulu)*
 
-Il peut être considéré comme pleinement citoyen de n'importe quel pays dont il a la nationalité. La liberté de religion est garantie par la [Déclaration universelle des droits de l'homme](https://www.un.org/fr/universal-declaration-human-rights/) , Article 18:
+Il peut être considéré comme pleinement citoyen de n'importe quel pays dont il a la nationalité. La liberté de religion est garantie par la [Déclaration universelle des droits de l'homme](https://web.archive.org/web/20250131104128/https://www.un.org/fr/universal-declaration-human-rights/) , Article 18:
 
 > Toute personne a droit à la liberté de pensée, de conscience et de religion ; ce droit implique la liberté de changer de religion ou de conviction ainsi que la liberté de manifester sa religion ou sa conviction seule ou en commun, tant en public qu'en privé, par l'enseignement, les pratiques, le culte et l'accomplissement des rites.
 

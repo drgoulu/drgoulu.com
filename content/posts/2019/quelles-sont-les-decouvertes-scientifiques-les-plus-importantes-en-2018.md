@@ -22,7 +22,7 @@ Synthèse personnelle de [[1]](#PUfac) [[2]](#eUcxV) [[3]](#ZEFnY) :
 2. Des neurologistes ont identifié [la cause physique de l’anxiété](https://trustmyscience.com/decouverte-source-physique-anxiete-dans-le-cerveau/) : des cellules particulière situées dans l’hippocampe.
 3. Les zoologistes ont enfin confirmé [l’existence de rapaces mettant délibérément le feu aux forêts](https://trustmyscience.com/rapaces-pyromanes-mettant-le-feu-aux-forets-australiennes/) en Australie
 4. des astrophysiciens ont détecté [des planètes en dehors de notre galaxie](https://trustmyscience.com/detection-de-planetes-dans-une-autre-galaxie/).
-5. Un lac souterrain a été découvert sur Mars où jamais un tel volume d’eau liquide n’avait encore été trouvé. Le lac fait environ 20 km de largeur et laisse envisager la présence de davantage d’eau, voire de vie, sur la planète rouge, selon un article publié dans la revue américaine [*Science*](https://www.sciencemag.org/)*.*
+5. Un lac souterrain a été découvert sur Mars où jamais un tel volume d’eau liquide n’avait encore été trouvé. Le lac fait environ 20 km de largeur et laisse envisager la présence de davantage d’eau, voire de vie, sur la planète rouge, selon un article publié dans la revue américaine [*Science*](https://web.archive.org/web/20190618030247/https://www.sciencemag.org/)*.*
 
 Notes de bas de page
 

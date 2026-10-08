@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 La tectonique des plaques devrait cesser dans 1.45 milliards d'années environ.
 
-[https://www.nationalgeographic.f...](https://www.nationalgeographic.fr/sciences/que-se-passera-t-il-lorsque-les-plaques-tectoniques-ne-se-deplaceront-plus)
+[https://www.nationalgeographic.f...](https://web.archive.org/web/20211016021746/https://www.nationalgeographic.fr/sciences/que-se-passera-t-il-lorsque-les-plaques-tectoniques-ne-se-deplaceront-plus)
 
 Ca correspond environ à la fin de la vie sur Terre selon
 

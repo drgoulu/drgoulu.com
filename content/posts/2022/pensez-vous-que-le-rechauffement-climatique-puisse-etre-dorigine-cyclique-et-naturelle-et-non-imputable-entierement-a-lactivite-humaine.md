@@ -20,9 +20,9 @@ Ce que je pense n'a aucune importance.
 
 De nombreux travaux scientifiques évaluent depuis longtemps toutes les causes "cycliques et naturelles" possibles.
 
-La seule qui ne soit pas négligeable est l'[Irradiation solaire](w:). L'activité solaire peut varier de 0.1% environ en fonction des cycles solaires, de l'orbite terrestre (les fameux [Cycles de Milankovitch](https://planet-terre.ens-lyon.fr/ressource/milankovitch.xml)) etc.
+La seule qui ne soit pas négligeable est l'[Irradiation solaire](w:). L'activité solaire peut varier de 0.1% environ en fonction des cycles solaires, de l'orbite terrestre (les fameux [Cycles de Milankovitch](https://web.archive.org/web/20221119081250/https://planet-terre.ens-lyon.fr/ressource/milankovitch.xml)) etc.
 
-En 2007 [Cette figure du rapport du GIEC](https://archive.ipcc.ch/publications_and_data/ar4/wg1/fr/figure-spm-2.html) chiffrait le "forçage radiatif" naturel entre 0.06 et 0.30 W/m2 et celui du aux activités humaines (y compris l'émission d'aérosols qui ont un effet de refroidissement) était évaluée entre 0.6 et 2.4 W/m2. Donc y'avait pas photo.
+En 2007 [Cette figure du rapport du GIEC](https://web.archive.org/web/20191219034015/https://archive.ipcc.ch/publications_and_data/ar4/wg1/fr/figure-spm-2.html) chiffrait le "forçage radiatif" naturel entre 0.06 et 0.30 W/m2 et celui du aux activités humaines (y compris l'émission d'aérosols qui ont un effet de refroidissement) était évaluée entre 0.6 et 2.4 W/m2. Donc y'avait pas photo.
 
 Je viens de trouver cette figure mise à jour dans le rapport de 2013[[1]](#aqNSL)
 

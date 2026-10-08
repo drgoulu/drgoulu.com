@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quel-volcan-ferait-le-plus-de-d%C3%A9g%C3%A2ts-s-il-venait-%C3%A0-rentrer-en-activit%C3%A9/answer/Dr-Goulu)*
 
-D'après la géniale base de données [Global Volcanism Program](https://volcano.si.edu/database/search_volcano_results.cfm) il y a 92 volcans répertoriés où plus d'un million de personnes habitent à moins de 30km.
+D'après la géniale base de données [Global Volcanism Program](https://web.archive.org/web/20200205040823/https://volcano.si.edu/database/search_volcano_results.cfm) il y a 92 volcans répertoriés où plus d'un million de personnes habitent à moins de 30km.
 
 Dans la liste, on trouve le Vésuve, avec près de 4 millions d'habitants à Pompéi et environs…
 

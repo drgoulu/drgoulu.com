@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Pour la Suisse : stabilité politique grâce à la [Formule magique](w:Formule_magique_(Suisse)), [Scrutin proportionnel plurinominal](w:)généralisé aux 3 niveaux de décentralisation (fédéral, cantons, communes), droit d'[Initiative populaire](w:Initiative_populaire_fédérale)et de [référendum](w:Référendum_facultatif).
 
-Eficacité économique grâce à la [Paix du travail](w:), [compétitivité record](https://agefi.com/actualites/marches/competitivite-la-suisse-reste-premiere-pour-linnovation-selon-lonu)malgré des salaires élevés grâce à l'innovation et la formation, notamment la[formation duale](https://www.swissinfo.ch/fre/economie/école-et-travail_la-formation-duale-suisse--un-système-unique-au-monde/45475114). Travail 40h par semaine, 4 semaines de vacances, jusqu'à 65 ans (64 pour les femmes, mais ça va pas durer…)
+Eficacité économique grâce à la [Paix du travail](w:), [compétitivité record](https://web.archive.org/web/20211021020528/https://agefi.com/actualites/marches/competitivite-la-suisse-reste-premiere-pour-linnovation-selon-lonu)malgré des salaires élevés grâce à l'innovation et la formation, notamment la[formation duale](https://www.swissinfo.ch/fre/economie/école-et-travail_la-formation-duale-suisse--un-système-unique-au-monde/45475114). Travail 40h par semaine, 4 semaines de vacances, jusqu'à 65 ans (64 pour les femmes, mais ça va pas durer…)
 
 I ndépendance de la [Banque nationale suisse](w:)qui lutte principalement contre l'inflation. [Péréquation financière](w:Péréquation_financière_en_Suisse)entre cantons "riches" et "pauvres".
 

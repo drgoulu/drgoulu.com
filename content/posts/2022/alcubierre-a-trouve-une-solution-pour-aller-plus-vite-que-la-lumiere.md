@@ -20,11 +20,11 @@ Il y en a surement qui poursuivent la "sculpture sur nuages"* comme Fell & Heise
 
 Dans le pire, l'article
 
-Santiago, J., Schuster, S., & Visser, M. (2021). [Generic warp drives violate the null energy condition](https://doi.org/10.1103/physrevd.105.064038)
+Santiago, J., Schuster, S., & Visser, M. (2021). [Generic warp drives violate the null energy condition](https://web.archive.org/web/20220601004646/https://doi.org/10.1103/physrevd.105.064038)
 
 montre déjà que ça ne marchera pas.
 
-(références ci-dessus trouvées sur StackExchange / Physics / [Erik Lentz's faster-than-light soliton](https://physics.stackexchange.com/questions/632346/erik-lentzs-faster-than-light-soliton) . J'aime bien Quora, c'est sympa, mais pour les trucs pointus StackExchange est nettement au dessus)
+(références ci-dessus trouvées sur StackExchange / Physics / [Erik Lentz's faster-than-light soliton](https://web.archive.org/web/20220519194539/https://physics.stackexchange.com/questions/632346/erik-lentzs-faster-than-light-soliton) . J'aime bien Quora, c'est sympa, mais pour les trucs pointus StackExchange est nettement au dessus)
 
 Ce qu'il faut bien comprendre dans ces histoires, c'est que l'[Équation d'Einstein](w:)est une équation différentielle aux dérivées partielles qui admet de nombreuses solutions qu’on peut classer ainsi:
 
@@ -54,4 +54,4 @@ Notes de bas de page
 
 [[1]](#cite-cjvcO)[Positive Energy Warp Drive from Hidden Geometric Structures](https://arxiv.org/abs/2104.06488)
 
-[[2]](#cite-zMqSb)[Équations d'Einstein](https://dournac.org/sciences/general_relativity/node31.html#SECTION00544000000000000000)
+[[2]](#cite-zMqSb)[Équations d'Einstein](https://web.archive.org/web/20220525/https://dournac.org/sciences/general_relativity/node31.html#SECTION00544000000000000000)

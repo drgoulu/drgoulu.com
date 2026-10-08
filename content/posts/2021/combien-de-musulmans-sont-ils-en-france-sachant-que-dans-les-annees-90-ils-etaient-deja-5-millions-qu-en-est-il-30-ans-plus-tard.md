@@ -18,11 +18,11 @@ coverImage: ./images/quora.png
 
 Les chiffres des différentes études sur la [Religion en France](w:)sont assez variables suivant le sens donné à l'appartenance religieuse, mais selon
 
-[*Enquête sur la diversité des populations en France*](http://www.ined.fr/fichier/t_telechargement/45660/telechargement_fichier_fr_dt168.13janvier11.pdf), [INED](https://fr.quora.com/ans_frontend/Institut_national_d'%C3%A9tudes_d%C3%A9mographiques), 2008-2009
+[*Enquête sur la diversité des populations en France*](https://web.archive.org/web/20210316113910/http://www.ined.fr/fichier/t_telechargement/45660/telechargement_fichier_fr_dt168.13janvier11.pdf), [INED](https://fr.quora.com/ans_frontend/Institut_national_d'%C3%A9tudes_d%C3%A9mographiques), 2008-2009
 
 il y a 8% de musulmans soit 5.3 millions de personnes . C'est aussi le chiffre retenu par le CIA factbook.
 
-L'euro [baromètre](https://fr.quora.com/ans_frontend/Eurobarom%C3%A8tre) de décembre 2018 donne 5% et [*État des lieux de la laïcité en France*](http://www.institut-viavoice.com/wp-content/uploads/2019/01/Etat-des-lieux-de-la-laïcité-en-France.-Etude-Viavoice-pour-lObservatoire-de-la-laïcité.pdf), [Observatoire de la laïcité](https://fr.quora.com/ans_frontend/Observatoire_de_la_la%C3%AFcit%C3%A9), 2019 donne 3%
+L'euro [baromètre](https://fr.quora.com/ans_frontend/Eurobarom%C3%A8tre) de décembre 2018 donne 5% et [*État des lieux de la laïcité en France*](https://web.archive.org/web/20201107205754/http://www.institut-viavoice.com/wp-content/uploads/2019/01/Etat-des-lieux-de-la-laïcité-en-France.-Etude-Viavoice-pour-lObservatoire-de-la-laïcité.pdf), [Observatoire de la laïcité](https://fr.quora.com/ans_frontend/Observatoire_de_la_la%C3%AFcit%C3%A9), 2019 donne 3%
 
 (plus d'infos sur [Religion en France — Wikipédia](w:Religion_en_France))
 

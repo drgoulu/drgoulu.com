@@ -26,4 +26,4 @@ Ce qu'on peut faire, c'est ommettre les cours de maths qu'il faut pour les compr
 
 La [Statistique bayésienne](w:)est hélas enseignée trop tard alors qu'elle est fondamentale dans notre compréhension du monde, au point que notre cerveau apprend probablement (…) comme ça
 
-[https://www.sciencedirect.com/sc...](https://www.sciencedirect.com/science/article/abs/pii/S0013700621002608)
+[https://www.sciencedirect.com/sc...](https://web.archive.org/web/20230511040700/https://www.sciencedirect.com/science/article/abs/pii/S0013700621002608)

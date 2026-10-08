@@ -19,4 +19,4 @@ Si je vais à Cuba un jour, ce que j'espère, j'irai tester ça. Mais je n'irai 
 
 Notes de bas de page
 
-[[1]](#cite-zucZo)[Le centre cubain qui a « transformé en médicament » le placenta humain](https://fr.granma.cu/cuba/2021-05-06/le-centre-cubain-qui-a-transforme-en-medicament-le-placenta-humain)
+[[1]](#cite-zucZo)[Le centre cubain qui a « transformé en médicament » le placenta humain](https://web.archive.org/web/20210812062514/https://fr.granma.cu/cuba/2021-05-06/le-centre-cubain-qui-a-transforme-en-medicament-le-placenta-humain)

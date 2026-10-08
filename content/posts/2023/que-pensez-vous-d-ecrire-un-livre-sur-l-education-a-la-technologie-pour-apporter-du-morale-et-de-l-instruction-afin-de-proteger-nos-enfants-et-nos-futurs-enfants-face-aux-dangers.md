@@ -27,11 +27,11 @@ Un ici
 
 Et encore un là :
 
-[https://www.fnac.com/a16808183/L...](https://www.fnac.com/a16808183/Lubna-Brioual-Nouvelles-technologies-risques-pour-l-humanite)
+[https://www.fnac.com/a16808183/L...](https://web.archive.org/web/20231110/https://www.fnac.com/a16808183/Lubna-Brioual-Nouvelles-technologies-risques-pour-l-humanite)
 
 Et encore 5 ici :
 
-[https://revue.leslibraires.ca/ar...](https://revue.leslibraires.ca/articles/sur-le-livre/des-livres-sur-la-technologie-et-ses-enjeux/)
+[https://revue.leslibraires.ca/ar...](https://web.archive.org/web/20221130134103/https://revue.leslibraires.ca/articles/sur-le-livre/des-livres-sur-la-technologie-et-ses-enjeux/)
 
 Vous les avez lus et ce n'est pas ce que vous cherchiez ? C'est bien ce que je disais : les écrire est une chose, les lire en est une autre.
 

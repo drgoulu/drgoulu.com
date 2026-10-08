@@ -41,7 +41,7 @@ C'est très beau, mais il faut être conscient des risques[[3]](#rLhYA)
 
 Notes de bas de page
 
-[[1]](#cite-yaQeZ)[Accueil - Culture Sciences Physique](https://culturesciencesphysique.ens-lyon.fr/)
+[[1]](#cite-yaQeZ)[Accueil - Culture Sciences Physique](https://web.archive.org/web/20260110140606/https://culturesciencesphysique.ens-lyon.fr/)
 
 [[2]](#cite-YgkJT)[L'abstraction mathématique gravée dans le marbre - Pourquoi Comment Combien](/2016/12/02/abstraction-mathematique-gravee-dans-le-marbre/)
 

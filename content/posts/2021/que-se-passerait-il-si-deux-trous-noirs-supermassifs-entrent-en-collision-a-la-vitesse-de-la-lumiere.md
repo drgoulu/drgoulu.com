@@ -26,4 +26,4 @@ En pratique les collisions sont rarement frontales, les objets sont plutôt en o
 
 ![](./images/qimg-8f594fe077f9ae3f8309f88be31a1fa5.jpg)
 
-[https://astronomy.stackexchange....](https://astronomy.stackexchange.com/questions/26811/what-is-the-actual-black-hole-merger-speed)
+[https://astronomy.stackexchange....](https://web.archive.org/web/20211019173516/https://astronomy.stackexchange.com/questions/26811/what-is-the-actual-black-hole-merger-speed)

@@ -22,7 +22,7 @@ On connait la distance moyenne entre la Terre et le Soleil avec une précision d
 
 La technique de mesure "radiométrique" utilisée a été présentée pour la première fois en 1968 dans cet article :
 
-[https://academic.oup.com/mnras/a...](https://academic.oup.com/mnras/article/140/4/537/2604425)
+[https://academic.oup.com/mnras/a...](https://web.archive.org/web/20220501031657/https://academic.oup.com/mnras/article/140/4/537/2604425)
 
 Elle consiste à mesurer la vitesse de la Terre sur son orbite par l'effet Doppler de la [Raie à 21 centimètres](w:) émise par plusieurs nuages d'hydrogène. Comme on connait la [Période de révolution](w:)de la Terre autour su Soleil avec une grande précision, on peut déterminer ainsi les grand axe, petit axe et rayon moyen de l'orbite sans même observer le Soleil ni connaître sa masse.
 

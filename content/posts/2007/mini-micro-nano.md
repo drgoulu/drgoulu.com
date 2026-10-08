@@ -32,7 +32,7 @@ Des raisonnements similaires expliquent pourquoi un microprocesseur contenant de
 
 le seul vrai obstacle à la miniaturisation est l'outillage permettant la production de très petits composants. La fabrication d'une montre requiert nettement plus d'outils qu'elle ne comporte de pièces, à commencer par une bonne loupe et des doigts habiles. En électronique, des technologies issues de la photographie permettent de produire des circuits incroyablement complexes en alternant attaque chimique et déposition. On arrive même aujourd'hui à appliquer ces techniques à la mécanique pour produire des pièces en silicium ou de minuscules moules, donc des outils pour produire en série des pièces encore plus petites.
 
-L'outil ultime de la miniaturisation est le [microscope à effet tunnel](w:), développé par une équipe d'IBM à Zürich et qui a valu le prix Nobel de physique à ses concepteurs. Non seulement il permet de distinguer chaque atome à la surface d'un objet, mis il permet dans certaines conditions d'arracher un atome à un endroit et de le déposer ailleurs. L'[équipe d'IBM](http://www.almaden.ibm.com/vis/stm/atomo.html) ainsi écrit les lettres IBM en déposant un à un 35 atomes de xenon (et pas 52) sur une surface de nickel
+L'outil ultime de la miniaturisation est le [microscope à effet tunnel](w:), développé par une équipe d'IBM à Zürich et qui a valu le prix Nobel de physique à ses concepteurs. Non seulement il permet de distinguer chaque atome à la surface d'un objet, mis il permet dans certaines conditions d'arracher un atome à un endroit et de le déposer ailleurs. L'[équipe d'IBM](https://web.archive.org/web/20070405234156/http://www.almaden.ibm.com/vis/stm/atomo.html) ainsi écrit les lettres IBM en déposant un à un 35 atomes de xenon (et pas 52) sur une surface de nickel
 
 ![](./images/8c2255c913532b5cc6b89d1aba3c4022.jpg)
 
@@ -44,7 +44,7 @@ Or on peut désormais envisager la construction de "nano machines" constituées 
 
 ![](./images/017fb06123664e3bbfd3f21dcce3afc9.gif)
 
-_nano-différentiel conçu avec Nano-Engineer-1 de [Nanorex](http://www.nanoengineer-1.com/content/) et simulé avec [Nano-Hive](http://www.nanohive-1.org/atHome/), un projet [BOINC](/2007/01/20/calcul-distribue-avec-boinc/)_
+_nano-différentiel conçu avec Nano-Engineer-1 de [Nanorex](http://www.nanoengineer-1.com/content/) et simulé avec [Nano-Hive](https://web.archive.org/web/20070329152129/http://www.nanohive-1.org/atHome/), un projet [BOINC](/2007/01/20/calcul-distribue-avec-boinc/)_
 
 ![](./images/7361c93cd57289efa593dc16407eef21.png)Une voie pourrait être la combinaison de procédés chimiques, biologiques et informatiques : la chimie devient capable de produire des nanomatériaux comme les "[fullerènes](w:Fullerène)", sphères de carbone dont la découverte a stupéfait le monde.
 

@@ -15,4 +15,4 @@ La hauteur de la tour de Babel / Babylone a été évaluée par les archéologue
 
 Le [Burj Khalifa](w:)fait 828m de haut…
 
-[https://www.nationalgeographic.f...](https://www.nationalgeographic.fr/histoire/la-tour-de-babel-ce-que-larcheologie-revele-du-mythe)
+[https://www.nationalgeographic.f...](https://web.archive.org/web/20210508222651/https://www.nationalgeographic.fr/histoire/la-tour-de-babel-ce-que-larcheologie-revele-du-mythe)

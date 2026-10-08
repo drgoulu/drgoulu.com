@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quels-sont-les-animaux-les-plus-rares-et-les-plus-menac%C3%A9s-dans-le-monde-aujourd-hui/answer/Dr-Goulu)*
 
-Listés ici : [https://www.iucnredlist.org/search](https://www.iucnredlist.org/search)
+Listés ici : [https://www.iucnredlist.org/search](https://web.archive.org/web/20240701122304/https://www.iucnredlist.org/search)
 
 Sélectionnez la recherche avancée, "Animalia" dans la taxonomie et "CR" pour danger critique dans la catégorie, et vous allez obtenir les 4067 résultats actuels.
 

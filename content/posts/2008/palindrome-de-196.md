@@ -15,7 +15,7 @@ coverImage: "./images/ba5485f7dc2d3ad49c29a5e809e739641.jpg"
 
 Prenons un nombre au hasard : 1729. Ecrivons-le à l'envers : 9271 et additionnons les deux nombres : 1729+9271=11000. Recommençons avec ce nombre : 11000+00011 = 11011.
 
-Ce nombre est égal à lui même écrit à l'envers, c'est un nombre [palindrome](w:), comme le mot "radar" ou la phrase "élu par cette crapule" si on ne tient pas compte des espaces, ou encore "[le grand palindrome](http://homepage.urbanet.ch/cruci.com/lexique/palindrome.htm)", un texte de 5566 lettres écrit par Georges Perec en 1969.
+Ce nombre est égal à lui même écrit à l'envers, c'est un nombre [palindrome](w:), comme le mot "radar" ou la phrase "élu par cette crapule" si on ne tient pas compte des espaces, ou encore "[le grand palindrome](https://web.archive.org/web/20080919221059/http://homepage.urbanet.ch/cruci.com/lexique/palindrome.htm)", un texte de 5566 lettres écrit par Georges Perec en 1969.
 
 Tiens, refaisons le calcul avec 1969 pour voir : 1969+9691 = 11660 11660+06611 = 18271 18271+17281 = 35552 35552+25553 = 61105 61105+50116 = 111221 111221+122111 = 23332 : palindrome !
 

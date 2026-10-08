@@ -22,5 +22,5 @@ Mais les maths permettent des choses que la physique ne permet pas, voir [Soluti
 
 Références:
 
-1. Einstein, A., & Rosen, N. (1935). [The Particle Problem in the General Theory of Relativity](https://doi.org/10.1103/PhysRev.48.73)y. Physical Review, 48(1), 73–77.
-2. Morris, M. S., & Thorne, K. S. (1988). [Wormholes in spacetime and their use for interstellar travel: A tool for teaching general relativity](https://doi.org/10.1119/1.15620). American Journal of Physics, 56(5), 395–412.
+1. Einstein, A., & Rosen, N. (1935). [The Particle Problem in the General Theory of Relativity](https://web.archive.org/web/20200512045214/https://doi.org/10.1103/PhysRev.48.73)y. Physical Review, 48(1), 73–77.
+2. Morris, M. S., & Thorne, K. S. (1988). [Wormholes in spacetime and their use for interstellar travel: A tool for teaching general relativity](https://web.archive.org/web/20200518113948/https://doi.org/10.1119/1.15620). American Journal of Physics, 56(5), 395–412.

@@ -22,4 +22,4 @@ Si les deux facteurs ont à peu près la moitié de la taille (115 bits), il va 
 
 Notes de bas de page
 
-[[1]](#cite-UcFSH)[Deux nouveaux records en cryptographie ont été battus par des équipes principalement françaises | | Le Diligent](https://www.lediligent.com/2019/12/04/deux-nouveaux-records-en-cryptographie-ont-ete-battus-par-des-equipes-principalement-francaises/)
+[[1]](#cite-UcFSH)[Deux nouveaux records en cryptographie ont été battus par des équipes principalement françaises | | Le Diligent](https://web.archive.org/web/20201129191106/https://www.lediligent.com/2019/12/04/deux-nouveaux-records-en-cryptographie-ont-ete-battus-par-des-equipes-principalement-francaises/)

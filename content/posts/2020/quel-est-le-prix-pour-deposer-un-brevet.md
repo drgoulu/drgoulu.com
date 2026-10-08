@@ -26,4 +26,4 @@ Et faites quelques centaines de milliers d'euro de réserve pour défendre votre
 
 Notes de bas de page
 
-[[1]](#cite-GQCyq)[Déposer un brevet - Quel prix ?](https://droit-finances.commentcamarche.com/faq/34110-deposer-un-brevet-quel-prix)
+[[1]](#cite-GQCyq)[Déposer un brevet - Quel prix ?](https://web.archive.org/web/20190710220932/https://droit-finances.commentcamarche.com/faq/34110-deposer-un-brevet-quel-prix)

@@ -16,7 +16,7 @@ coverImage: "./images/975c6722f00927bf13519f3752ac8cf11.jpg"
 
 Pourriez-vous remporter le Tour de France avec un vélo "amélioré" par rapport à ceux des autres concurrents ?  Que diriez-vous d'un petit moteur électrique caché dans le cadre ?
 
-Un cycliste amateur peut développer pendant quelques heures une puissance moyenne de 150 watts, un pro autour de 190 watts. Différence : 40 watts. Pas de problème pour le moteur, nos amis modélistes  disposent de [moteurs de 20 mm de diamètre produisant 200 W](http://www.exceedrc.com/eliteseries.html) pour leurs engins volants. Pour la batterie, c'est plus compliqué en raison du volume réduit à l'intérieur du cadre. On dispose d'environ 0.25 l si on utilise qu'un seul tube rond de 25 mm, et de près d'1 litre si on remplit un cadre profilé dans les règles de l'Union Cycliste Internationale (UCI) , ce qui permet de disposer des batteries lithium-ion d'une capacité de 100 à 400 Wattheures.
+Un cycliste amateur peut développer pendant quelques heures une puissance moyenne de 150 watts, un pro autour de 190 watts. Différence : 40 watts. Pas de problème pour le moteur, nos amis modélistes  disposent de [moteurs de 20 mm de diamètre produisant 200 W](https://web.archive.org/web/20100202031401/http://www.exceedrc.com/eliteseries.html) pour leurs engins volants. Pour la batterie, c'est plus compliqué en raison du volume réduit à l'intérieur du cadre. On dispose d'environ 0.25 l si on utilise qu'un seul tube rond de 25 mm, et de près d'1 litre si on remplit un cadre profilé dans les règles de l'Union Cycliste Internationale (UCI) , ce qui permet de disposer des batteries lithium-ion d'une capacité de 100 à 400 Wattheures.
 
 {{< figure src="./images/975c6722f00927bf13519f3752ac8cf1.jpg" alt="le Lithium Vivi RX-10S de Matsushita, avec une batterie de 400 Wh/l qu'on pourrait presque loger dans le cadre ..." caption="le \"Lithium Vivi RX-10S\" de Matsushita, avec une batterie de 400 Wh/l qu'on pourrait presque loger dans le cadre ..." align="aligncenter" width="449" >}}
 
@@ -41,8 +41,8 @@ Mais en 1934, l'UCI a interdit les vélos couchés, et elle a ensuite beaucoup l
 
 ### Références
 
-1. <span id="ref-1"></span>"[Batteries lithium-ion : la société Matsushita donne un coup d'accélérateur](http://www.caradisiac.com/Batteries-lithium-ion-la-societe-Matsushita-donne-un-coup-d-accelerateur-4290.htm)" sur Caradisiac (2008)
-2. <span id="ref-2"></span>"[Les calculs de puissance dans les cols du Tour de France](http://www.cyclismag.com/article.php?sid=2523)" sur Cyclismag (2006)
+1. <span id="ref-1"></span>"[Batteries lithium-ion : la société Matsushita donne un coup d'accélérateur](https://web.archive.org/web/20100612021047/http://www.caradisiac.com/Batteries-lithium-ion-la-societe-Matsushita-donne-un-coup-d-accelerateur-4290.htm)" sur Caradisiac (2008)
+2. <span id="ref-2"></span>"[Les calculs de puissance dans les cols du Tour de France](https://web.archive.org/web/20100104111802/http://www.cyclismag.com/article.php?sid=2523)" sur Cyclismag (2006)
 3. <span id="ref-3"></span>"[Puissance musculaire humaine et bicyclette](w:)" sur Wikipédia
-4. <span id="ref-4"></span>"[Règles techniques de la bicyclette](http://www.uci.ch/Modules/BUILTIN/getObject.asp?MenuId=MTk3Nw&ObjTypeCode=FILE&type=FILE&id=NTI0MDU&La%20ngId=2)", UCI
+4. <span id="ref-4"></span>"[Règles techniques de la bicyclette](https://web.archive.org/web/20100618085125/http://www.uci.ch/Modules/BUILTIN/getObject.asp?MenuId=MTk3Nw&ObjTypeCode=FILE&type=FILE&id=NTI0MDU&La%20ngId=2)", UCI
 5. <span id="ref-5"></span>[Quoi attendre de l'énergie humaine?](http://velomobile.free.fr/quoi_attendre_de_l-energie_humaine.html)

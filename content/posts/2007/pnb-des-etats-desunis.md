@@ -13,7 +13,7 @@ coverImage: "./images/a2adec89b6875ca564097ad77693a325.jpg"
 
 Les Etats Unis d'Amérique (USA) forment la plus grosse économie du monde, avec un Produit National Brut (PNB) de 13220 milliards de $.
 
-[Cet article sur "strange maps"](http://bigthink.com/ideas/21182) présente une carte des USA dans laquelle chaque état est rebaptisé comme un pays ayant le PNB le plus proche de celui de l'Etat :
+[Cet article sur "strange maps"](https://web.archive.org/web/20100726115905/http://bigthink.com/ideas/21182) présente une carte des USA dans laquelle chaque état est rebaptisé comme un pays ayant le PNB le plus proche de celui de l'Etat :
 
 [![](./images/1028ee8a2031a7d6fd67bcd67bb93951.jpg)](http://bigthink.com/ideas/21182)
 

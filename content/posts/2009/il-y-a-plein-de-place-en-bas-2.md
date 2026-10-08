@@ -21,7 +21,7 @@ coverImage: "./images/7890daf3a9aa78a370f3c8eb3902df02.jpg"
 
 _Traduction de la présentation que [Richard Feynman](w:) a donné le 29 décembre 1959 à la réunion annuelle de l'American Physical Society à (Caltech). Intitulé "[There's Plenty of Room at the Bottom](http://www.zyvex.com/nanotech/feynman.html)", ce discours visionnaire pose les bases de la course à la miniaturisation qui nous fournit chaque année des ordinateurs et autres gadgets plus puissants, plus fiables et moins chers, et qui nous amène vers les [nanotechnologies](/2007/04/15/mini-micro-nano/)._
 
-_Traduit par Philippe Guglielmetti ([www.drgoulu.com](/)) et Maxence Dolle\* en 2009 [(sur Google Docs)](https://docs.google.com/Doc?id=ddtwkkq9_11svn7rdc3)_
+_Traduit par Philippe Guglielmetti ([www.drgoulu.com](/)) et Maxence Dolle\* en 2009 [(sur Google Docs)](https://web.archive.org/web/20100712235534/https://docs.google.com/Doc?id=ddtwkkq9_11svn7rdc3)_
 
 ### Introduction
 

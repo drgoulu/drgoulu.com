@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 D'après ce que je lis ici :
 
-[https://www.reuters.com/article/...](https://www.reuters.com/article/factcheck-coronavirus-pfizer-idUSL2N2VK1G1)
+[https://www.reuters.com/article/...](https://web.archive.org/web/20230404220449/https://www.reuters.com/article/factcheck-coronavirus-pfizer-idUSL2N2VK1G1)
 
 la délétion 1p36 (et pas ip36, vous pourriez au moins vérifier avec Google…) est simplement listé dans l'annexe de la demande d'homologation du vaccin auprès de la FDA[[1]](#JnMwf) dans une liste de huit pages de centaines d'effets secondaires potentiels qui ont été vérifiés .
 
@@ -35,4 +35,4 @@ Et, non, je ne répondrai pas aux centaines de questions que vous pourriez poser
 
 Notes de bas de page
 
-[[1]](#cite-JnMwf)[https://phmpt.org/wp-content/upl...](https://phmpt.org/wp-content/uploads/2021/11/5.3.6-postmarketing-experience.pdf?fbclid=IwAR0MtPA5vQ4wrubFmMO_QQS5eGQAV7feZ9RP8mRqniiZR7sD0CMeRGryWfg)
+[[1]](#cite-JnMwf)[https://phmpt.org/wp-content/upl...](https://web.archive.org/web/20230404220449/https://phmpt.org/wp-content/uploads/2021/11/5.3.6-postmarketing-experience.pdf?fbclid=IwAR0MtPA5vQ4wrubFmMO_QQS5eGQAV7feZ9RP8mRqniiZR7sD0CMeRGryWfg)

@@ -23,4 +23,4 @@ Notes de bas de page
 
 [[1]](#cite-iORbX)[Sur le risque sanitaire lié à la présence d’arsenic dans l’eau minérale naturelle alimentant les établissements thermaux selon la concentration en arsenic de l’eau et l’orientation thérapeutique pratiquée - Académie nationale de médecine | Une institution dans son temps](https://www.academie-medecine.fr/sur-le-risque-sanitaire-lie-a-la-presence-darsenic-dans-leau-minerale-naturelle-alimentant-les-etablissements-thermaux-selon-la-concentration-en-arsenic-de-leau-et-l/)
 
-[[2]](#cite-YKSgn)[La fontaine radioactive de Finhaut](https://www.alpevasion.ch/la-fontaine-radioactive-de-finhaut/)
+[[2]](#cite-YKSgn)[La fontaine radioactive de Finhaut](https://web.archive.org/web/20230327175834/https://www.alpevasion.ch/la-fontaine-radioactive-de-finhaut/)

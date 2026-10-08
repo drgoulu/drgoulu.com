@@ -15,7 +15,7 @@ C'était une erreur régulièrement rappelée par les trolls russes pour justifi
 
 Personne n'est dupe.
 
-[https://press.un.org/fr/2024/cs1...](https://press.un.org/fr/2024/cs15642.doc.htm)
+[https://press.un.org/fr/2024/cs1...](https://web.archive.org/web/20240529085539/https://press.un.org/fr/2024/cs15642.doc.htm)
 
 Mais c'est vrai, juridiquement on aurait du laisser Milosevic massacrer tous les kosovars puisque la Russie n'aurait jamais donné son feu vert à une action de l'ONU. Comme en Ukraine actuellement.
 

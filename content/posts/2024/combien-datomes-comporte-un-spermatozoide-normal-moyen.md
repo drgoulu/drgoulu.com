@@ -26,6 +26,6 @@ Donc le nombre d'atomes du spermatozoïde est environ égal au nombre d'Avogadro
 
 Notes de bas de page
 
-[[1]](#cite-hCzhg)[Dry mass of sperm](https://bionumbers.hms.harvard.edu/bionumber.aspx?s=n&v=3&id=106854)
+[[1]](#cite-hCzhg)[Dry mass of sperm](https://web.archive.org/web/20240525183828/https://bionumbers.hms.harvard.edu/bionumber.aspx?s=n&v=3&id=106854)
 
 [[2]](#cite-JzfaR)[Average Atomic mass of the human body?](https://www.physicsforums.com/threads/average-atomic-mass-of-the-human-body.131795/)

@@ -23,7 +23,7 @@ Mais c'est en passant au Chili, par une pistes de sable et de cailloux qui se tr
 
 Voilà à qui ça ressemble là-bas:
 
-[https://yvesvandewalle.typepad.f...](https://yvesvandewalle.typepad.fr/photos/album/lithium.html)
+[https://yvesvandewalle.typepad.f...](https://web.archive.org/web/20240530011949/https://yvesvandewalle.typepad.fr/photos/album/lithium.html)
 
 Et en traversant les Andes en bus vers Salta en Argentine, j'ai vu plusieurs mines de potasse, et d'énormes camions qui transportent la matière vers les ports chiliens.
 

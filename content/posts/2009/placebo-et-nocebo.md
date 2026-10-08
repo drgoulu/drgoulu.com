@@ -47,10 +47,10 @@ Je termine cet article en remerciant Benjamin de m'avoir fait découvrir l'effet
 
 ### Références:
 
-1. <span id="ref-1"></span>Shang A, Huwiler K. Nartey L, Jüni P, Dörig S, Stern J, Pewsner D, Egger M. "Are the clinical effects of homoeopathy placebo effects? Comparative study of placebo-controlled trials of homoeopathy and allopathy". The Lancet 2005; 366:726-732 {{< altmetric pmid="16125589" >}} ([lisible sur ResearchGate](https://www.researchgate.net/publication/7409163_Are_the_clinical_effects_of_homoeopathy_placebo_effects))
+1. <span id="ref-1"></span>Shang A, Huwiler K. Nartey L, Jüni P, Dörig S, Stern J, Pewsner D, Egger M. "Are the clinical effects of homoeopathy placebo effects? Comparative study of placebo-controlled trials of homoeopathy and allopathy". The Lancet 2005; 366:726-732 {{< altmetric pmid="16125589" >}} ([lisible sur ResearchGate](https://web.archive.org/web/20090521/https://www.researchgate.net/publication/7409163_Are_the_clinical_effects_of_homoeopathy_placebo_effects))
 2. <span id="ref-2"></span>Chamayou G, "[L'essai 'contre placebo' et le charlatanisme](http://www.lesgeniesdelascience.fr/ewb_pages/f/fiche-article-l-essai-contre-placebo-et-le-charlatanisme-19804.php)", Les génies de la science, février-avril 2009, p14-17
 3. <span id="ref-3"></span>Dr. Patrick Lemoine "[Pharmacologie du placebo](http://www.charlatans.info/placebo.shtml)"
-4. <span id="ref-4"></span>"[Placebo](http://www.sceptiques.qc.ca/dictionnaire/placebo.html)" sur le dictionnaire des sceptiques du Québec
-5. <span id="ref-5"></span>Predrag Petrovic et al. "[Placebo and Opioid Analgesia - Imaging a Shared Neuronal Network](http://www.wisebrain.org/papers/Placebo.pdf)",Science 1 March 2002, Vol. 295. no. 5560, pp. 1737 - 1740 {{< altmetric doi="10.1126/science.1067176" >}}
-6. <span id="ref-6"></span>liste de [liens sur l'effet placebo](http://www.chu-rouen.fr/ssf/envir/effetplacebo.html), CHU de Rouen
+4. <span id="ref-4"></span>"[Placebo](https://web.archive.org/web/20090727074424/http://www.sceptiques.qc.ca/dictionnaire/placebo.html)" sur le dictionnaire des sceptiques du Québec
+5. <span id="ref-5"></span>Predrag Petrovic et al. "[Placebo and Opioid Analgesia - Imaging a Shared Neuronal Network](https://web.archive.org/web/20090921002833/http://www.wisebrain.org/papers/Placebo.pdf)",Science 1 March 2002, Vol. 295. no. 5560, pp. 1737 - 1740 {{< altmetric doi="10.1126/science.1067176" >}}
+6. <span id="ref-6"></span>liste de [liens sur l'effet placebo](https://web.archive.org/web/20090429102014/http://www.chu-rouen.fr/ssf/envir/effetplacebo.html), CHU de Rouen
 7. <span id="ref-7"></span>Herbert Benson et al., "Study of the Therapeutic Effects of Intercessory Prayer (STEP) in cardiac bypass patients: A multicenter randomized trial of uncertainty and certainty of receiving intercessory prayer", American Heart Journal, Volume 151, No 4, 934-42 (2006) {{< altmetric pmid="16569567" >}}

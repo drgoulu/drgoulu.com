@@ -32,7 +32,7 @@ Je vais donc essayer de formater mes articles futurs en paragraphes comme suit:
 
 ### Pourquoi ...
 
-...la réponse successive aux 3 questions prend-elle des décennies, voire plus d'un siècle, par exemple de la découverte de l'[effet photoélectrique en 1839](w:Photoélectrique) jusqu'à la compétitivité de l'électricité solaire [vers 2030 si tout va bien](http://photovoltaique.pureforum.net/divers-f21/le-solaire-photovoltaique-competitif-en-2030-t291.htm), alors que [les panneaux photovoltaïques](http://www2.cnrs.fr/presse/communique/371.htm) existent depuis les années 1960 ?
+...la réponse successive aux 3 questions prend-elle des décennies, voire plus d'un siècle, par exemple de la découverte de l'[effet photoélectrique en 1839](w:Photoélectrique) jusqu'à la compétitivité de l'électricité solaire [vers 2030 si tout va bien](https://web.archive.org/web/20071206071431/http://photovoltaique.pureforum.net/divers-f21/le-solaire-photovoltaique-competitif-en-2030-t291.htm), alors que [les panneaux photovoltaïques](http://www2.cnrs.fr/presse/communique/371.htm) existent depuis les années 1960 ?
 
 A mon avis et selon ma modeste expérience, le processus qui mène de l'idée au produit est freiné par un phénomène fondamental : la dévalorisation, voire la négation de l'échec. On ne publie et documente que les quelques pourcents de l'activité humaine qui mène aux succès, pas les échecs, beaucoup plus nombreux. A l'école on apprend ce qui marche, ce qui est vrai, mais on ne dit que très peu sur les erreurs. De ce fait, les chercheurs, ingénieurs et managers sont condamnés à reproduire des échecs passés, sous les regards jouissifs de leurs prédescesseurs.
 

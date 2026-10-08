@@ -18,7 +18,7 @@ C'est ce qu'on appelle un critère nécessaire, mais pas suffisant. Par exemple 
 
 Le problème avec ce genre de tests, c'est qu'ils ont tous des "faux positifs" qu'on appelle plutôt des [Nombres pseudo-premiers](w:Nombre_pseudo-premier).
 
-Les tests de primalité modernes comme le [Baillie–PSW](w:en:Baillie–PSW_primality_test) que j'ai implanté dans en Python dans [Goulib.math2.is_prime2](https://goulib.readthedocs.io/en/latest/modules/Goulib.math2.html#Goulib.math2.is_prime) sont capables de dire en une fraction de seconde lequel de ces deux nombres est premier. Et vous ?
+Les tests de primalité modernes comme le [Baillie–PSW](w:en:Baillie–PSW_primality_test) que j'ai implanté dans en Python dans [Goulib.math2.is_prime2](https://web.archive.org/web/20211205120258/https://goulib.readthedocs.io/en/latest/modules/Goulib.math2.html#Goulib.math2.is_prime) sont capables de dire en une fraction de seconde lequel de ces deux nombres est premier. Et vous ?
 
 - 4547337172376300111955330758342147474062293202868155909393
 - 4547337172376300111955330758342147474062293202868155909489

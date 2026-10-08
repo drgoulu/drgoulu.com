@@ -21,6 +21,6 @@ Sur cette carte illustrant déjà mon [article sur le cercle polaire](/2013/08/1
 
 ### Références
 
-1. <span id="ref-1"></span>Jean-Louis Etienne, "[L'Océan Arctique et la circulation océanique](http://www.jeanlouisetienne.com/images/encyclo/imprimer/18.htm)"
+1. <span id="ref-1"></span>Jean-Louis Etienne, "[L'Océan Arctique et la circulation océanique](https://web.archive.org/web/20130609220853/http://www.jeanlouisetienne.com/images/encyclo/imprimer/18.htm)"
 2. <span id="ref-2"></span>R. Seager, D. S. Battisti et al. "[Is the Gulf Stream responsible for Europe’s mild winters?](http://www.atmos.washington.edu/~david/Gulf.pdf)", 2002, Q. J. R. Meteorol. Soc. 128, pp. 2563–2586
-3. <span id="ref-3"></span>M. Latif, E. Roeckner et al. "[Tropical Stabilization of the Thermohaline Circulation in a Greenhouse Warming Simulation](http://eprints.uni-kiel.de/12858/1/Tropical.pdf)", 2000, Journal of Climate vol 13.
+3. <span id="ref-3"></span>M. Latif, E. Roeckner et al. "[Tropical Stabilization of the Thermohaline Circulation in a Greenhouse Warming Simulation](https://web.archive.org/web/20130820/http://eprints.uni-kiel.de/12858/1/Tropical.pdf)", 2000, Journal of Climate vol 13.

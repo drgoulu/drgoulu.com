@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-la-Suisse-na-t-elle-jamais-d%C3%A9velopp%C3%A9-des-armes-nucl%C3%A9aires-Ne-serait-il-une-avantage-majeur-pour-sa-dite-neutralit%C3%A9-arm%C3%A9e/answer/Dr-Goulu)*
 
-Elle avait un projet d'arme nucléaire, en collaboration avec l'Afrique du Sud, cf l'étude de mon camarade [Christian Bühlmann - Le développement de l'arme atomique en Suisse](https://christianbuehlmann.com/CMS/CMS2/recherches/presentations/item/2708-le-developpement-de-l-arme-atomique-en-suisse-conference-a-la-societe-militaire-de-geneve-le-1er-mars).
+Elle avait un projet d'arme nucléaire, en collaboration avec l'Afrique du Sud, cf l'étude de mon camarade [Christian Bühlmann - Le développement de l'arme atomique en Suisse](https://web.archive.org/web/20190924090857/https://christianbuehlmann.com/CMS/CMS2/recherches/presentations/item/2708-le-developpement-de-l-arme-atomique-en-suisse-conference-a-la-societe-militaire-de-geneve-le-1er-mars).
 
 Pour des raisons diplomatiques et de politique intérieure, la Suisse a préféré signer le TNP.
 

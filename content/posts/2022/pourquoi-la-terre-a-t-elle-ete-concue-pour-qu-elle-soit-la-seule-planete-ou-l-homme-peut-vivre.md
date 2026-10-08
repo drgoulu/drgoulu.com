@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-la-Terre-a-t-elle-%C3%A9t%C3%A9-con%C3%A7ue-pour-quelle-soit-la-seule-plan%C3%A8te-ou-lHomme-peut-vivre-Alors-que-dans-lUnivers-il-y-a-une-infinit%C3%A9-de-plan%C3%A8tes-mais-quaucune-delle-ne-lui/answer/Dr-Goulu)*
 
-D'après nos observations actuelles, environ 1 exoplanètes sur 1000 ressemble à la Terre (voir [Earth Similarity Index](https://astronomical.fandom.com/wiki/Earth_Similarity_Index)) et ce chiffre est probablement sous estimé parce que nos instruments détectent mieux les grosses planètes que celles de la taille de la Terre.
+D'après nos observations actuelles, environ 1 exoplanètes sur 1000 ressemble à la Terre (voir [Earth Similarity Index](https://web.archive.org/web/20220921191533/https://astronomical.fandom.com/wiki/Earth_Similarity_Index)) et ce chiffre est probablement sous estimé parce que nos instruments détectent mieux les grosses planètes que celles de la taille de la Terre.
 
 Il y a donc probablement un milliard de planètes "habitables" rien que dans notre galaxie
 

@@ -93,10 +93,10 @@ Cet ouvrage se situe à Riddes, à mi-chemin de Martigny et de Sion. Il s'agit d
 
 - Guglielmetti, Umberto "[Ponts sur le Rhône à Riddes, Suisse](/wp-content/uploads/2005/07/bse-re-003_1991_64_a_005_d-1.pdf)",Bridges — Interaction between construction technology and design, IABSE Symposium, Leningrad, USSR 1991{{< altmetric doi="10.5169/seals-49266" >}}
 - {{< openbook booknumber="ISBN:8438001483" templatenumber="5" >}}  pp. 468
-- [Guide des ponts de l’EPFL](http://dgcwww.epfl.ch/guide_des_ponts/valais/riddes.htm) [(format PDF)](http://drgoulu.files.wordpress.com/2007/03/riddesepfl.pdf "fichier PDF")
+- [Guide des ponts de l’EPFL](https://web.archive.org/web/20050114035537/http://dgcwww.epfl.ch/guide_des_ponts/valais/riddes.htm) [(format PDF)](http://drgoulu.files.wordpress.com/2007/03/riddesepfl.pdf "fichier PDF")
 - [“Ponts de Riddes”, brochure 12 pages en couleur du service des routes nationales](http://drgoulu.files.wordpress.com/2007/03/n9riddes.pdf "“Ponts de Riddes”, brochure 12 pages en couleur du service des routes nationales")
-- [fiche entreprise Evequoz](http://www.evequoz.ch/_assets/000/050/005/686/a1734071de764362824c59995ed3a373.pdf)
-- [fiche Structurae](http://structurae.info/ouvrages/pont-de-riddes)
+- [fiche entreprise Evequoz](https://web.archive.org/web/20150404094631/http://www.evequoz.ch/_assets/000/050/005/686/a1734071de764362824c59995ed3a373.pdf)
+- [fiche Structurae](https://web.archive.org/web/20150403003931/http://structurae.info/ouvrages/pont-de-riddes)
 
 ### Viaducs "Bois-Homogène"
 
@@ -134,7 +134,7 @@ Cet ouvrage se situe à Riddes, à mi-chemin de Martigny et de Sion. Il s'agit d
 
 #### Documents:
 
-- [http://www.isatis.ch/gueuroz/gueuroz2.html](http://www.isatis.ch/gueuroz/gueuroz2.html)
+- [http://www.isatis.ch/gueuroz/gueuroz2.html](https://web.archive.org/web/20050315030434/http://www.isatis.ch/gueuroz/gueuroz2.html)
 - ["Le pont neuf des gorges du Trient", François Besson, Journal de la Construction No14, décembre 1993, pages 23-27](http://drgoulu.files.wordpress.com/2007/03/gueroz-art1.pdf)
 - ["La restauration du pont routier de Gueuroz sur la gorge du Trient", Jacques Gubler, Ingénieurs et architectes suisses No 7 mars 1991, pages 64 à 71](http://drgoulu.files.wordpress.com/2007/03/gueroz-art2.pdf)
 

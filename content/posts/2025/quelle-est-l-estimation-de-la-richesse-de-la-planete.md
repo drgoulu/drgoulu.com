@@ -19,4 +19,4 @@ Dans les 500'000 milliards de dollars[[1]](#PwZFM).
 
 Notes de bas de page
 
-[[1]](#cite-PwZFM)[Global Wealth Report 2023 - La richesse mondiale devrait augmenter de 38% ces cinq prochaines années](https://www.ubs.com/global/fr/media/display-page-ndp/fr-20230815-global-wealth-report-2023.html)
+[[1]](#cite-PwZFM)[Global Wealth Report 2023 - La richesse mondiale devrait augmenter de 38% ces cinq prochaines années](https://web.archive.org/web/20250518074240/https://www.ubs.com/global/fr/media/display-page-ndp/fr-20230815-global-wealth-report-2023.html)

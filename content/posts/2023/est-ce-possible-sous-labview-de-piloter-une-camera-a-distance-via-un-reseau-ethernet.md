@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Ce genre de question est trop pointue pour Quora. Cherchez avec Google (en anglais) et vous trouverez
 
-[https://knowledge.ni.com/Knowled...](https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z0000019SIPSA2)
+[https://knowledge.ni.com/Knowled...](https://web.archive.org/web/20230621/https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z0000019SIPSA2)
 
 Bonne chance

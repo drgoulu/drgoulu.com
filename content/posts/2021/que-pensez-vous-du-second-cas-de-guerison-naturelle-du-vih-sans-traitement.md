@@ -32,10 +32,10 @@ De plus
 >
 >
 >
-> ( [John Frater](https://www.ndm.ox.ac.uk/team/john-frater) , spécialiste des maladies infectieuses à l’université d’Oxford, cité par [Le Courrier International)](https://www.courrierinternational.com/article/sante-un-second-cas-de-guerison-spontanee-du-sida-sans-intervention-medicale)
+> ( [John Frater](https://web.archive.org/web/20211117171424/https://www.ndm.ox.ac.uk/team/john-frater) , spécialiste des maladies infectieuses à l’université d’Oxford, cité par [Le Courrier International)](https://www.courrierinternational.com/article/sante-un-second-cas-de-guerison-spontanee-du-sida-sans-intervention-medicale)
 
 Dans tous les cas, la “patiente Esperanza” a eu beaucoup de chance, et son cas va certainement être examiné de plus près par de nombreux chercheurs pour comprendre le mécanisme de sa guérison. Et peut-être l'utiliser pour un traitement un jour.
 
 Notes de bas de page
 
-[[1]](#cite-wlCOb)[A Possible Sterilizing Cure of HIV-1 Infection Without Stem Cell Transplantation | Annals of Internal Medicine](https://www.acpjournals.org/doi/10.7326/L21-0297)
+[[1]](#cite-wlCOb)[A Possible Sterilizing Cure of HIV-1 Infection Without Stem Cell Transplantation | Annals of Internal Medicine](https://web.archive.org/web/20211117225039/https://www.acpjournals.org/doi/10.7326/L21-0297)

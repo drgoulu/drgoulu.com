@@ -20,7 +20,7 @@ Parce que chacun a le droit de penser ce qu'il veut.
 
 C'est même garanti par la
 
-[Déclaration des droits de l'homme](https://www.amnesty.ch/fr/themes/droits-humains/declaration-des-droits-de-l-homme)
+[Déclaration des droits de l'homme](https://web.archive.org/web/20220303024027/https://www.amnesty.ch/fr/themes/droits-humains/declaration-des-droits-de-l-homme)
 
 > **Article 18**
 > Toute personne a droit à la liberté de pensée, de conscience et de religion ; ce droit implique la liberté de changer de religion ou de conviction ainsi que la liberté de manifester sa religion ou sa conviction seule ou en commun, tant en public qu'en privé, par l'enseignement, les pratiques, le culte et l'accomplissement des rites.

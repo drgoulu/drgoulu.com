@@ -17,6 +17,6 @@ Ascension droite 23h 57m 40s, déclinaison +23° 28’ 43”, à 5'307'892'154 k
 
 Donc "dans l'Univers" est un peu grandiloquent pour un caillou du système solaire…
 
-[https://theskylive.com/where-is-...](https://theskylive.com/where-is-oumuamua)
+[https://theskylive.com/where-is-...](https://web.archive.org/web/20230605102015/https://theskylive.com/where-is-oumuamua)
 
-[https://theskylive.com/how-far-i...](https://theskylive.com/how-far-is-oumuamua)
+[https://theskylive.com/how-far-i...](https://web.archive.org/web/20230329080231/https://theskylive.com/how-far-is-oumuamua)

@@ -34,4 +34,4 @@ vaut plus que zero.
 
 Notes de bas de page
 
-[[1]](#cite-xCfZz)[Space Is Full Of Planets, And Most Of Them Don't Even Have Stars](https://www.forbes.com/sites/startswithabang/2018/03/13/space-is-full-of-planets-and-most-of-them-dont-even-have-stars/)
+[[1]](#cite-xCfZz)[Space Is Full Of Planets, And Most Of Them Don't Even Have Stars](https://web.archive.org/web/20221206132435/https://www.forbes.com/sites/startswithabang/2018/03/13/space-is-full-of-planets-and-most-of-them-dont-even-have-stars/)

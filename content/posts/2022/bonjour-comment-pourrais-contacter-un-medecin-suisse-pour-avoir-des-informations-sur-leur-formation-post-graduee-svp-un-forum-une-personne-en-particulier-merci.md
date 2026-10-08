@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Bonjour-comment-pourrais-contacter-un-m%C3%A9decin-suisse-pour-avoir-des-informations-sur-leur-formation-post-gradu%C3%A9e-svp-Un-forum-Une-personne-en-particulier-Merci/answer/Dr-Goulu)*
 
-[https://www.fmh.ch/fr/](https://www.fmh.ch/fr/)
+[https://www.fmh.ch/fr/](https://web.archive.org/web/20220119102004/https://www.fmh.ch/fr/)

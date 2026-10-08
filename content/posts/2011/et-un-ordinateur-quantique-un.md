@@ -36,9 +36,9 @@ _(Edit du 28.9.2012 suite au commentaire de Manu : cette phrase n'est [probablem
 ### Références:
 
 1. <span id="ref-1"></span>M. W. Johnson et al "[Quantum annealing with manufactured spins](http://www.nature.com/nature/journal/v473/n7346/full/nature10012.html)", 2011, Nature R. 473, pp 194–198
-2. <span id="ref-2"></span>Newns & Tsuei, "[Quantum computing with d-wave superconductors](http://www.freepatentsonline.com/6495854.html)", 2002, United States Patent 6495854
+2. <span id="ref-2"></span>Newns & Tsuei, "[Quantum computing with d-wave superconductors](https://web.archive.org/web/20140719051436/http://www.freepatentsonline.com/6495854.html)", 2002, United States Patent 6495854
 3. <span id="ref-3"></span>"[Learning to program the D-Wave One](http://dwave.wordpress.com/2011/05/11/learning-to-program-the-d-wave-one/)" sur "[Hack the Multiverse](http://dwave.wordpress.com/)", le blog de D-Wave
 4. <span id="ref-4"></span>"Catching quantum mechanics in the act…" sur "[Hack the Multiverse](http://dwave.wordpress.com/)", le blog de D-Wave
-5. <span id="ref-5"></span>Hartmut Neven, "[Machine Learning with Quantum Algorithms](http://googleresearch.blogspot.com/2009/12/machine-learning-with-quantum.html)", 2009, Google Research Blog
+5. <span id="ref-5"></span>Hartmut Neven, "[Machine Learning with Quantum Algorithms](https://web.archive.org/web/20110708041601/http://googleresearch.blogspot.com/2009/12/machine-learning-with-quantum.html)", 2009, Google Research Blog
 6. <span id="ref-6"></span>page "[D-Wave Systems](w:)" sur Wikipedia
-7. <span id="ref-7"></span>"[Discrete Optimization Methods](http://www.cs.sunysb.edu/~algorith/implement/syslo/implement.shtml)" sur The Stony Brook Algorithm Repository
+7. <span id="ref-7"></span>"[Discrete Optimization Methods](https://web.archive.org/web/20110516233907/http://www.cs.sunysb.edu/~algorith/implement/syslo/implement.shtml)" sur The Stony Brook Algorithm Repository

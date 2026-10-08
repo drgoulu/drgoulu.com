@@ -20,4 +20,4 @@ son cerveau n'est peut-être pas câblé pour avoir peur, mais il devrait avoir 
 > **Son seul prédateur, l'homme**
 > La chair du requin est appréciée et utilisée pour les engrais et les fertilisants ; les ailerons, la peau, les dents, les cartilages sont également vendus car ils sont utilisés dans la fabrication de médicaments. La pollution perturbe les cycles de reproduction. Sa capture est devenue un véritable exploit depuis 1975, date de sortie du premier volet des "Dents de la mer", de Steven Spielberg.
 
-(source : [Le grand requin blanc](http://www.linternaute.com/nature-animaux/animaux/dossier/especes-menacees/top-10/requin-blanc.shtml) )
+(source : [Le grand requin blanc](https://web.archive.org/web/20200705233426/http://www.linternaute.com/nature-animaux/animaux/dossier/especes-menacees/top-10/requin-blanc.shtml) )

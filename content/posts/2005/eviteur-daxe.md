@@ -28,7 +28,7 @@ Je me suis mis à concevoir ce mécanisme en 3D avec SolidWorks
 
 ![Eviteur d’axe](./images/Shaftpasser1.jpg)![Eviteur d’axe](./images/Shaftpasser2.jpg)
 
-Suite à une [discussion sur comp.cad.solidworks](http://compgroups.net/comp.cad.solidworks/ot-looking-for-info-on-axis-avoider-or-ca/172134), j'ai reçu l'image ci-dessous, tirée d'un vieux magazine (edit du 19.2.2015 : retrouvé la référence !!! [Devon Francis "Their war is not over", Popular Science Janvier 1946 p. 74](http://books.google.com/books?id=WCEDAAAAMBAJ&lpg=PP1&hl=fr&pg=PA74#v=onepage&q&f=true)) qui montre l'application originale:
+Suite à une [discussion sur comp.cad.solidworks](https://web.archive.org/web/20170131211922/http://compgroups.net/comp.cad.solidworks/ot-looking-for-info-on-axis-avoider-or-ca/172134), j'ai reçu l'image ci-dessous, tirée d'un vieux magazine (edit du 19.2.2015 : retrouvé la référence !!! [Devon Francis "Their war is not over", Popular Science Janvier 1946 p. 74](http://books.google.com/books?id=WCEDAAAAMBAJ&lpg=PP1&hl=fr&pg=PA74#v=onepage&q&f=true)) qui montre l'application originale:
 
 [![minesweeper\_shaft\_passer](./images/minesweeper_shaft_passer.png)](http://books.google.com/books?id=WCEDAAAAMBAJ&lpg=PP1&hl=fr&pg=PA74#v=onepage&q&f=true)
 

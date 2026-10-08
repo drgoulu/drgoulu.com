@@ -22,4 +22,4 @@ Une équipe de l'Université de Cambridge a montré que c'est le trou noir super
 
 Mais tant de puissance et de beauté font que certains entrevoient une [autre explication.](http://pastafari.wordpress.com/2008/08/23/34/)..
 
-sources : [NewScientist](http://www.newscientist.com/article/dn14573?DCMP=ILC-hmts&nsref=news1_head_dn14573) et [Techno-Sciences](http://www.techno-science.net/?onglet=news&news=5721)
+sources : [NewScientist](https://web.archive.org/web/20090220203351/http://www.newscientist.com/article/dn14573?DCMP=ILC-hmts&nsref=news1_head_dn14573) et [Techno-Sciences](http://www.techno-science.net/?onglet=news&news=5721)

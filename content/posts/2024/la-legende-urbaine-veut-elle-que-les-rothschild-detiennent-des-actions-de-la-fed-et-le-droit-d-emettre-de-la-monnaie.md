@@ -23,4 +23,4 @@ La fortune de toute la famille (des dizaines de personnes…) est évaluée à 5
 
 Votre "légende urbaine" est en fait une vieille rumeur antisémite.
 
-[https://www.usatoday.com/story/n...](https://www.usatoday.com/story/news/factcheck/2023/03/31/fact-check-false-claim-rothschild-family-owns-dozens-central-banks/11572271002/)
+[https://www.usatoday.com/story/n...](https://web.archive.org/web/20240920023639/https://www.usatoday.com/story/news/factcheck/2023/03/31/fact-check-false-claim-rothschild-family-owns-dozens-central-banks/11572271002/)

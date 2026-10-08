@@ -18,4 +18,4 @@ Mais pas sur car Putin a pris garde d'épargner au maximum la horde de petits re
 
 Ceux là sont plutôt étouffés par l'inflation
 
-[https://www.lesechos.fr/monde/eu...](https://www.lesechos.fr/monde/europe/poutine-augmente-les-impots-en-ciblant-les-plus-riches-2097902)
+[https://www.lesechos.fr/monde/eu...](https://web.archive.org/web/20240806155810/https://www.lesechos.fr/monde/europe/poutine-augmente-les-impots-en-ciblant-les-plus-riches-2097902)

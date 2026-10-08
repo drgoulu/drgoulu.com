@@ -39,9 +39,9 @@ Donc je maintiens : la réponse à "Les requins sont attirés par une goutte de
 
 ### Références
 
-1. <span id="ref-1"></span>"[Biology of Sharks and Rays - Smell & Taste](http://elasmo-research.org/education/white_shark/smell.htm)" sur ReefQuest Centre for Shark Research
+1. <span id="ref-1"></span>"[Biology of Sharks and Rays - Smell & Taste](https://web.archive.org/web/20140427193546/http://elasmo-research.org/education/white_shark/smell.htm)" sur ReefQuest Centre for Shark Research
 2. <span id="ref-2"></span>Sheldon, R. E. , "The reactions of the dogfish to chemical stimuli", 1909 J. Comp. Neurol. Psychol. 19, 273-311
-3. <span id="ref-3"></span>Parker, G. H. "The directive influence of the sense of smell in the dogfish", 1913, In Bulletin of the United States Bureau of Fisheries, Vol. 33 (ed.Smith, H. M., Commissioner), pp. 63-68.  [pdf](http://fishbull.noaa.gov/33-1/parker.pdf)
-4. <span id="ref-4"></span> [Tricia L. Meredith](http://scholar.google.com/citations?user=Bh1X1kkAAAAJ) and S. M. Kajiura, "Olfactory morphology and physiology of elasmobranchs" J. Exp. Biol., vol. 213, no. Pt 20, pp. 3449–56, Oct. 2010. {{< altmetric doi="10.1242/jeb.045849" >}} [pdf](http://www.science.fau.edu/sharklab/pdfs/mk10b.pdf)
+3. <span id="ref-3"></span>Parker, G. H. "The directive influence of the sense of smell in the dogfish", 1913, In Bulletin of the United States Bureau of Fisheries, Vol. 33 (ed.Smith, H. M., Commissioner), pp. 63-68.  [pdf](https://web.archive.org/web/20130306174707/http://fishbull.noaa.gov/33-1/parker.pdf)
+4. <span id="ref-4"></span> [Tricia L. Meredith](http://scholar.google.com/citations?user=Bh1X1kkAAAAJ) and S. M. Kajiura, "Olfactory morphology and physiology of elasmobranchs" J. Exp. Biol., vol. 213, no. Pt 20, pp. 3449–56, Oct. 2010. {{< altmetric doi="10.1242/jeb.045849" >}} [pdf](https://web.archive.org/web/20130626115921/http://www.science.fau.edu/sharklab/pdfs/mk10b.pdf)
 5. <span id="ref-5"></span>"[Can white sharks smell a drop of blood?](http://www.sharkwatchsa.com/en/blog/category/482/post/1084/shark-fact-18-04-2012/)", 2012, SharkWatch SA Blog
 6. <span id="ref-6"></span>Devin Powell, "[Shark Smell Myth Found Fishy](http://www.insidescience.org/content/shark-smell-myth-found-fishy/1151)", 2010 sur Inside Science

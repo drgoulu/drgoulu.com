@@ -11,7 +11,7 @@ tags:
 coverImage: "./images/3c751c8b14a518a0476294924de37105.jpg"
 ---
 
-La sonde Cassini devait explorer le système de Saturne jusqu'en 2008, mais sa fantastique moisson d'informations a été [prolongée](/2008/04/16/cassini-va-fonctionner-2-ans-de-plus/) jusqu'en 2010 pour observer l'équinoxe de Saturne, le moment où la lumière du lointain Soleil rase le plan des anneaux. C'est ces jours-ci. Cassini a pris de  [fantastique photos](http://www.boston.com/bigpicture/2009/10/saturn_at_equinox.html) dont mes préférées sont ci dessous.
+La sonde Cassini devait explorer le système de Saturne jusqu'en 2008, mais sa fantastique moisson d'informations a été [prolongée](/2008/04/16/cassini-va-fonctionner-2-ans-de-plus/) jusqu'en 2010 pour observer l'équinoxe de Saturne, le moment où la lumière du lointain Soleil rase le plan des anneaux. C'est ces jours-ci. Cassini a pris de  [fantastique photos](https://web.archive.org/web/20091022073555/http://www.boston.com/bigpicture/2009/10/saturn_at_equinox.html) dont mes préférées sont ci dessous.
 
 Mais tout d'abord, une bonne nouvelle : il est question de prolonger la mission Cassini jusqu'en 2017, le prochain solstice sur Saturne !  Il faut juste convaincre la NASA de débourser $80'000'000 par an en salaires des équipes qui gèrent la sonde (ils sont beaucoup, ou bien payés ?) Ca fait cher la photo, mais ça vaut vraiment le coup. Go yankees, go !
 
@@ -23,10 +23,10 @@ Mais tout d'abord, une bonne nouvelle : il est question de prolonger la mission 
 
 {{< figure src="./images/7f0c2d19e22c8e94743393fe68ea8b2a.gif" alt="Montage montrant linfluence des lunes Prométhée et Pandore sur lanneau F (NASA/JPL/Space Science Institute)" caption="Montage montrant l'influence des lunes Prométhée et Pandore sur l'anneau F (NASA/JPL/Space Science Institute)" link="./images/7f0c2d19e22c8e94743393fe68ea8b2a.gif" align="aligncenter" width="495" >}}
 
-Si ça vous plait, regardez encore les autres photos [ici](http://www.boston.com/bigpicture/2009/10/saturn_at_equinox.html).
+Si ça vous plait, regardez encore les autres photos [ici](https://web.archive.org/web/20091022073555/http://www.boston.com/bigpicture/2009/10/saturn_at_equinox.html).
 
 Sources:
 
-- John Spencer: "[Cassini's proposed extended-extended mission tour](http://www.planetary.org/blog/article/00001856/)"
-- Le très bon [site officiel de Cassini](http://cassini-2.jpl.nasa.gov/)
+- John Spencer: "[Cassini's proposed extended-extended mission tour](https://web.archive.org/web/20100615205854/http://www.planetary.org/blog/article/00001856/)"
+- Le très bon [site officiel de Cassini](https://web.archive.org/web/20091213000932/http://cassini-2.jpl.nasa.gov/)
 - [La sonde Cassini-Huygens](<w:Cassini-Huygens_(sonde_spatiale)>) sur Wikipedia

@@ -24,4 +24,4 @@ J'ajoute que, sauf catastrophe, un nourrisson ne souffre pas de ces mutations. C
 
 Notes de bas de page
 
-[[1]](#cite-CdnSn)[https://www.medecinesciences.org...](https://www.medecinesciences.org/en/articles/medsci/full_html/2019/04/msc180300/msc180300.html)
+[[1]](#cite-CdnSn)[https://www.medecinesciences.org...](https://web.archive.org/web/20210514154040/https://www.medecinesciences.org/en/articles/medsci/full_html/2019/04/msc180300/msc180300.html)

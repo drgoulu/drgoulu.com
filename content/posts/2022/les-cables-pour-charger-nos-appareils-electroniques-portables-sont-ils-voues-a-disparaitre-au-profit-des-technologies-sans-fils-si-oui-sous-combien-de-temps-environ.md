@@ -24,4 +24,4 @@ Vous pouvez observer le marché des [Plaques de cuisson à induction](w:Plaque_�
 
 Notes de bas de page
 
-[[1]](#cite-jrjpe)[Les chargeurs sans fil de téléphone consomment-ils plus d'électricité ?](https://www.liberation.fr/checknews/2020/02/21/les-chargeurs-sans-fil-de-telephone-consomment-ils-plus-d-electricite_1779001/)
+[[1]](#cite-jrjpe)[Les chargeurs sans fil de téléphone consomment-ils plus d'électricité ?](https://web.archive.org/web/20220407000258/https://www.liberation.fr/checknews/2020/02/21/les-chargeurs-sans-fil-de-telephone-consomment-ils-plus-d-electricite_1779001/)

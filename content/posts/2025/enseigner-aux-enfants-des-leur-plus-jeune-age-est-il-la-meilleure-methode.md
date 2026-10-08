@@ -30,7 +30,7 @@ Un moment resté célèbre dans la famille est la fois où notre fille Julia est
 
 Notes de bas de page
 
-[[1]](#cite-BfKgh)[Les grandes étapes du développement cognitif chez l’enfant | Lunii](https://blog.lunii.com/2023/03/28/les-grandes-etapes-du-developpement-cognitif-chez-lenfant/)
+[[1]](#cite-BfKgh)[Les grandes étapes du développement cognitif chez l’enfant | Lunii](https://web.archive.org/web/20251209105517/https://blog.lunii.com/2023/03/28/les-grandes-etapes-du-developpement-cognitif-chez-lenfant/)
 
 [[2]](#cite-erzYX)[La science est la croyance en l'ignorance des experts - Pourquoi Comment Combien](/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)
 

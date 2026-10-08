@@ -103,7 +103,7 @@ http://www.markandclick.com/advance.html#SubString
 2. Gosper's algorithm ([_HAKMEM_, item 132](http://www.inwap.com/pdp10/hbaker/hakmem/flows.html#item132)).
 3. Brent's algorithm ("An improved Monte Carlo factorization algorithm", _BIT_ 20, pp. 176-184, 1980).
 4. Sedgewick, Szymanski, and Yao's algorithm ("The complexity of finding cycles in periodic functions", _SIAM J. Comput._ 11 (2), pp. 376-390, 1982).
-5. The "distinguished point" method (Quisquater and Delescaille, "How easy is collision search? Application to DES", _Eurocrypt '89_, [LNCS 434, pp. 429-434](http://www.springerlink.de/openurl.asp?genre=article&issn=0302-9743&volume=434&spage=429)).
+5. The "distinguished point" method (Quisquater and Delescaille, "How easy is collision search? Application to DES", _Eurocrypt '89_, [LNCS 434, pp. 429-434](https://web.archive.org/web/20191212040827/http://www.springerlink.de/openurl.asp?genre=article&issn=0302-9743&volume=434&spage=429)).
 
  
 

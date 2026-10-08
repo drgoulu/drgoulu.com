@@ -49,4 +49,4 @@ Note \* : ayant vu le [film sur Snowden](<w:Snowden_(film)>) et quelques uns de 
 
 1. <span id="ref-1"></span>Emily Schechter "[Moving towards a more secure web](https://security.googleblog.com/2016/09/moving-towards-more-secure-web.html)", September 8, 2016, Google Chrome Security Team
 2. <span id="ref-2"></span>Christophe Kasse "[Le point sur les certificats SSL, obligatoires en 2017](https://wpchannel.com/point-certificats-ssl-obligatoires-2017/)", 28 novembre 2016 sur WPChannel
-3. <span id="ref-3"></span>"[2017, l’année pour sécuriser vos sites avec un certificat SSL](https://news.infomaniak.com/securiser-site-avec-certificat-ssl/)" sur Infomaniak.com
+3. <span id="ref-3"></span>"[2017, l’année pour sécuriser vos sites avec un certificat SSL](https://web.archive.org/web/20230127191052/https://news.infomaniak.com/securiser-site-avec-certificat-ssl/)" sur Infomaniak.com

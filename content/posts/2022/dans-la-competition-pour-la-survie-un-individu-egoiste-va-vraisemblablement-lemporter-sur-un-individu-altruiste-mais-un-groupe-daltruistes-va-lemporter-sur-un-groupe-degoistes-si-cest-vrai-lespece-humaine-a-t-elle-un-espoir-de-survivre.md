@@ -14,7 +14,7 @@ coverImage: ./images/quora.png
 
 Je vous encourage à lire cet article de mon copain Homofabulus concernant son sujet de thèse
 
-[https://homofabulus.com/les-orig...](https://homofabulus.com/les-origines-de-la-morale-ma-these-et-une-faq/)
+[https://homofabulus.com/les-orig...](https://web.archive.org/web/20220205065337/https://homofabulus.com/les-origines-de-la-morale-ma-these-et-une-faq/)
 
 Il cause plutôt de "morale" par opposition à l'altruisme des sociétés d'insectes, mais ça recoupe la même idée, et il arrive à cette conclusion :
 

@@ -11,7 +11,7 @@ coverImage: ./images/qimg-a4548c5685dbac47e5d9c0048d643af6.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-trouvez-vous-les-solutions-%C3%A0-cette-%C3%A9quation-2-x-3-x-5-x-11x-2-3x/answer/Dr-Goulu)*
 
-En faisant 2 courbes comme [Wolfram|Alpha](https://www.wolframalpha.com/input/?i=solve+2^x+3^x+5^x=11x^2−3x+) :
+En faisant 2 courbes comme [Wolfram|Alpha](https://web.archive.org/web/20200205/https://www.wolframalpha.com/input/?i=solve+2^x+3^x+5^x=11x^2−3x+) :
 
 ![](./images/qimg-a4548c5685dbac47e5d9c0048d643af6.png)
 

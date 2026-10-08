@@ -24,7 +24,7 @@ R A J Matthews “Tumbling toast, Murphy's Law and the fundamental constants”,
 
 Mais ce que vous cherchez est probablement plutôt décrit dans cet article cité en référence par Matthews, mais dont je n’ai pas (encore) le pdf …
 
-William H. Press “[Man’s size in terms of fundamental constants](https://aapt.scitation.org/doi/10.1119/1.12326)”, American Journal of Physics 48, 597 (1980)
+William H. Press “[Man’s size in terms of fundamental constants](https://web.archive.org/web/20200711002659/https://aapt.scitation.org/doi/10.1119/1.12326)”, American Journal of Physics 48, 597 (1980)
 
 Notes de bas de page
 

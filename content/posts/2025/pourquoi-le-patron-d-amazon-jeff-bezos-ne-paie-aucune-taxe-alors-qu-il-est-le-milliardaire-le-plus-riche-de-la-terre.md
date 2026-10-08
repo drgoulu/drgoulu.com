@@ -15,6 +15,6 @@ Vous êtes mal informé.
 
 Bezos a payé 2.7 MILLIARDS de dollars d'impôts en 2024.
 
-[https://www.forbes.com/sites/pho...](https://www.forbes.com/sites/phoebeliu/2025/06/28/wedding-protesters-say-bezos-should-pay-more-tax-heres-how-much-he-likely-did-pay/)
+[https://www.forbes.com/sites/pho...](https://web.archive.org/web/20250827002702/https://www.forbes.com/sites/phoebeliu/2025/06/28/wedding-protesters-say-bezos-should-pay-more-tax-heres-how-much-he-likely-did-pay/)
 
 C'est peu comparé à sa fortune, ou même à l'augmentation de sa fortune, mais ça reste plus que la somme de tous les impôts de tous les manifestants à son mariage…

@@ -28,7 +28,7 @@ L'écran du système de mesure est visible dans cette trop petite photo, mais on
 
 ![](./images/qimg-7f20dd71934e13803445da32e752ead7.jpg)
 
-Je ne suis plus sur de laquelle est laquelle, mais de mémoire la grande (30) est la traînée, qui équilibre la composante du poids de [Patty Moll](http://scuba-dream.ch/kilometrelancehome.htm) dans le sens de la pente à 80% (environ 40 degrés), et la petite (13.8) est la force d'appui vertical, donc le poids moins la portance générée par le dos bombé de la skieuse.
+Je ne suis plus sur de laquelle est laquelle, mais de mémoire la grande (30) est la traînée, qui équilibre la composante du poids de [Patty Moll](https://web.archive.org/web/20191207135629/http://scuba-dream.ch/kilometrelancehome.htm) dans le sens de la pente à 80% (environ 40 degrés), et la petite (13.8) est la force d'appui vertical, donc le poids moins la portance générée par le dos bombé de la skieuse.
 
 Le but du jeu est de trouver la position qui minimise la traînée tout en gardant un appui positif … (sinon le skieur s'envole…)
 

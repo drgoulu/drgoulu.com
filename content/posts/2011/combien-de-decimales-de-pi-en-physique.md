@@ -15,7 +15,7 @@ coverImage: "./images/4432547614_68930bc76f_d.jpg"
 
 A la lecture de "[Précision mathématique ou physique ?](http://www.maths-et-physique.net/article-precision-mathematique-ou-physique-73417781.html "Précision mathématique ou physique ?")", je me suis interrogé sur le nombre de décimales de réellement π nécessaires en physique. A priori il n'est pas nécessaire de connaitre π avec une précision supérieure à celle d'autres grandeurs mesurées, alors quelles sont les expériences de haute précision faisant intervenir π explicitement ?
 
-N'en ayant aucune idée, j'en ai profité pour tester un site découvert par hasard en y [posant la question](http://physics.stackexchange.com/questions/9621/how-many-digits-of-pi-are-required-in-physics). Je n'ai pas été déçu : en quelques heures j'ai reçu des réponses de très bon niveau, dont celle de [Luboš Motl](w:) que je vous traduis ci-dessous:
+N'en ayant aucune idée, j'en ai profité pour tester un site découvert par hasard en y [posant la question](https://web.archive.org/web/20110929170730/http://physics.stackexchange.com/questions/9621/how-many-digits-of-pi-are-required-in-physics). Je n'ai pas été déçu : en quelques heures j'ai reçu des réponses de très bon niveau, dont celle de [Luboš Motl](w:) que je vous traduis ci-dessous:
 
 > Pi est très loin d'être le seul nombre dont nous ayons besoin en physique. Les prédictions théoriques typiques dépendent de nombreux autres nombres mesurés, calculés (ou les deux) que pi.
 > 

@@ -13,7 +13,7 @@ l'["Ouvroir de Littérature Potentielle"](http://www.oulipo.net/) est un groupe 
 Les contraintes les plus connues sont:
 
 - Le lipogramme, dans lequel on s'interdit d'utiliser certaines lettres. Le plus spectaculaires est le roman "La Disparition", de Georges Perec dans lequel n'apparaît pas une seule fois la lettre E, la plus fréquente de la langue française !
-- L'antistrophe, appellée couramment "contrepèterie". Il existe un [poème en alexandrins dont chaque vers contient une contrepèterie](http://membres.multimania.fr/glaborde/plainte.htm) !
+- L'antistrophe, appellée couramment "contrepèterie". Il existe un [poème en alexandrins dont chaque vers contient une contrepèterie](https://web.archive.org/web/20051030/http://membres.multimania.fr/glaborde/plainte.htm) !
 - Le pangramme consiste à utiliser toutes les lettres de l'alphabet dans un texte aussi court que possible, par exemple:
     - Portez ce vieux whisky au juge blond qui fume
     - Peux-tu m'envoyer du whisky que j'ai bu chez le forgeron ?
@@ -45,4 +45,4 @@ Créer des mots croisés sans case noire est également une discipline Oulipienn
 - horizontalement : voyelle
 - verticalement : consonne...
 
-Les records à battre sont [ici](http://ledefi.pagesperso-orange.fr/Palmares/Palmares.htm)
+Les records à battre sont [ici](https://web.archive.org/web/20110122104216/http://ledefi.pagesperso-orange.fr/Palmares/Palmares.htm)

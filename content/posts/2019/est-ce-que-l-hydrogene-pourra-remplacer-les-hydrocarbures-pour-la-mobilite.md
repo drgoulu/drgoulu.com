@@ -24,6 +24,6 @@ $CH_4 + 2H_2O \rightarrow CO_2 + 4H_2$
 
 En gros, on produit le CO2 dans l'usine qui produit l'hydrogène, et à partir d'un volume de gaz naturel et d'eau, on vous fournit un volume 4 fois plus grand d'hydrogène difficile et dangereux à stocker …
 
-Bref, c'est techniquement possible, oui, mais économiquement, l['Islande a essayé et a renoncé](http://tpesi2012.e-monsite.com/pages/ii-l-hydrogene/l-exemple-d-un-pays-tourne-vers-l-hydrogene-l-islande.html).
+Bref, c'est techniquement possible, oui, mais économiquement, l['Islande a essayé et a renoncé](https://web.archive.org/web/20200228054937/http://tpesi2012.e-monsite.com/pages/ii-l-hydrogene/l-exemple-d-un-pays-tourne-vers-l-hydrogene-l-islande.html).
 
 En passant, la bonne façon d'utiliser l'hydrogène est la [Pile à combustible](w:), beaucoup plus efficiente que de brûler l'hydrogène dans un piston ou un réacteur. Une fois que je demandais à un spécialiste pourquoi on ne faisait pas de piles à combustible à gaz naturel, il m'a dit "ah, ce serait le Graal qu'on recherche depuis que la NASA a mis des piles à combustible dans les capsules Apollo, mais on a jamais réussi, on a du se rabattre sur l'hydrogène…"

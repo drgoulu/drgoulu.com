@@ -30,4 +30,4 @@ Notes de bas de page
 
 [[1]](#cite-dOUzs)[Effet de serre](https://elmoukrie.com/effet-de-serre/)
 
-[[2]](#cite-HkBHH)[Ressources scientifiques pour l'enseignement des sciences de la Terre](https://planet-terre.ens-lyon.fr/)
+[[2]](#cite-HkBHH)[Ressources scientifiques pour l'enseignement des sciences de la Terre](https://web.archive.org/web/20230830050455/https://planet-terre.ens-lyon.fr/)

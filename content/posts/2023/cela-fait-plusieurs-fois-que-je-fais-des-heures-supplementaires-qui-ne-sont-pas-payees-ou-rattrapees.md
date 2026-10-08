@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Cela-fait-plusieurs-fois-que-je-fais-des-heures-suppl%C3%A9mentaires-qui-ne-sont-pas-pay%C3%A9es-ou-rattrap%C3%A9es-Quand-je-l-ai-signifi%C3%A9-%C3%A0-ma-manageuse-elle-m-a-r%C3%A9torqu%C3%A9-que-le-monde-du-travail/answer/Dr-Goulu)*
 
-En France vous dites simplement "[Code du travail : articles L3121-27 à 31](https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000033020379&cidTexte=LEGITEXT000006072050)"
+En France vous dites simplement "[Code du travail : articles L3121-27 à 31](https://web.archive.org/web/20230608162123/https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000033020379&cidTexte=LEGITEXT000006072050)"
 
 En Suisse vous dites simplement "[Code des obligations Art 321.c](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/fr#art_321_c)"
 

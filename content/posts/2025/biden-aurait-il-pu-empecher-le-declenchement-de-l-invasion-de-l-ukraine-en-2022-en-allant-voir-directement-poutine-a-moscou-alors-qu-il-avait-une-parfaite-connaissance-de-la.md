@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 La rencontre a eu lieu à Genève le 16 juin 2021
 
-[https://www.eda.admin.ch/eda/fr/...](https://www.eda.admin.ch/eda/fr/dfae/dfae/aktuell/newsuebersicht/2021/06/2021-geneva-summit.html)
+[https://www.eda.admin.ch/eda/fr/...](https://web.archive.org/web/20250615034747/https://www.eda.admin.ch/eda/fr/dfae/dfae/aktuell/newsuebersicht/2021/06/2021-geneva-summit.html)
 
 Le protocole de la rencontre n'est hélas pas public, mais "on dit" que Biden a promis de ne pas accepter l'Ukraine dans l'OTAN et en échange Putin a promis de ne pas attaquer l'Ukraine.
 

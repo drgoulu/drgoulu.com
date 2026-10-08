@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 C'est directement proportionnel.
 
-[https://www.hindawi.com/journals...](https://www.hindawi.com/journals/jre/2019/9639480/)
+[https://www.hindawi.com/journals...](https://web.archive.org/web/20211215012038/https://www.hindawi.com/journals/jre/2019/9639480/)
 
 Le problème est plutôt la température, qui fait décroître le rendement.

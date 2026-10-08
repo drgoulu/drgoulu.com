@@ -35,7 +35,7 @@ Sa conférence étant assez longue, j'en recommande quelques passages aux lecteu
 
 Si plusieurs joueurs identifient les mêmes exoplanètes, ils sont récompensés dans le jeu et leur découverte est transmise à des pros. Si un joueur ne trouve pas une exoplanète déjà connue ou repérée par d'autres joueurs, il n'est pas récompensé. Tout ceci est encore tout neuf et sera encore ajustée au fur et à mesure de l'expérience, mais l'idée me semble vraiment attrayante, au moins autant que [Fold It](/2008/05/21/si-on-jouait-a-plier-des-proteines/) qui m'avait occupé quelques soirées.
 
-"Project Discovery" été développée en collaboration entre CCP, les universités de Genève et Reykjavik et la startup suisse (et même valaisanne!) Massively Multiplayer Online Science ([MMOS](http://mmos.ch/)) que je n'ai pas  encore le plaisir de connaître ([mon compte LinkedIn](https://www.linkedin.com/in/goulu/) si jamais...)
+"Project Discovery" été développée en collaboration entre CCP, les universités de Genève et Reykjavik et la startup suisse (et même valaisanne!) Massively Multiplayer Online Science ([MMOS](http://mmos.ch/)) que je n'ai pas  encore le plaisir de connaître ([mon compte LinkedIn](https://web.archive.org/web/20160629175120/https://www.linkedin.com/in/goulu/) si jamais...)
 
 Bon il est vraiment temps que je me mette à chasser les exoplanètes. Si ça vous dit d'essayer, sachez que vous pouvez jouer gratuitement à EVE (avec pas mal de limitations), et que ça me ferait plaisir que vous le fassiez en cliquant sur l'image ci-dessous. A bientôt, jeunes padawans.
 
@@ -44,5 +44,5 @@ Bon il est vraiment temps que je me mette à chasser les exoplanètes. Si ça vo
 ### References
 
 1. <span id="ref-1"></span>"[EVE Online gamers to join in exoplanet search through scientific collaboration](https://www.ccpgames.com/news/2017/eve-online-gamers-to-join-in-exoplanet-search-through-scientific-collaboration/)", 22 février 20017, CCP Games
-2. <span id="ref-2"></span>Tom Fenwick "[EVE Online gamers will seek real exoplanets in virtual universe](https://www.newscientist.com/article/2127801-eve-online-gamers-will-seek-real-exoplanets-in-virtual-universe/)", 13 avril 2017, New Scientist
+2. <span id="ref-2"></span>Tom Fenwick "[EVE Online gamers will seek real exoplanets in virtual universe](https://web.archive.org/web/20170705021636/https://www.newscientist.com/article/2127801-eve-online-gamers-will-seek-real-exoplanets-in-virtual-universe/)", 13 avril 2017, New Scientist
 3. <span id="ref-3"></span>[Planetary transits : how can opne measure the mass, size, density and atmospheric composition of a planet one cannot even see ?](https://palereddot.org/planetary-transits-how-can-one-measure-the-mass-size-density-and-atmospheric-composition-of-a-planet-one-cannot-even-see/) 2016 sur Pale Red Dot

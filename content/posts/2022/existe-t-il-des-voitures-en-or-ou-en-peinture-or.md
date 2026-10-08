@@ -24,4 +24,4 @@ Quelques amoureux de bling-bling ont doré leur voiture à la feuille d'or (la p
 
 mais ils n'en ont pas trop profité :
 
-[https://www.lunion.fr/id59558/ar...](https://www.lunion.fr/id59558/article/2019-04-21/sa-porsche-recouverte-de-feuilles-dor-estimee-trop-eblouissante-par-la-police)
+[https://www.lunion.fr/id59558/ar...](https://web.archive.org/web/20190421204058/https://www.lunion.fr/id59558/article/2019-04-21/sa-porsche-recouverte-de-feuilles-dor-estimee-trop-eblouissante-par-la-police)

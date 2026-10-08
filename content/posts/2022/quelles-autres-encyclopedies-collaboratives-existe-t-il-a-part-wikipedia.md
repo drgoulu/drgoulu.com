@@ -17,7 +17,7 @@ J'adore la
 
 Et sinon
 
-[https://rationalwiki.org/wiki/Ma...](https://rationalwiki.org/wiki/Main_Page)
+[https://rationalwiki.org/wiki/Ma...](https://web.archive.org/web/20220206015720/https://rationalwiki.org/wiki/Main_Page)
 
 Mais bon, ce sont plutôt des "wiki" permettant la collaboration que des encyclopédies.
 

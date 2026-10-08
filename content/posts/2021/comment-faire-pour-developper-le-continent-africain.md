@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Ça se fait tout seul.
 
-[https://www.courrierinternationa...](https://www.courrierinternational.com/article/6-des-10-pays-la-plus-forte-croissance-en-2018-sont-africains)
+[https://www.courrierinternationa...](https://web.archive.org/web/20210413170652/https://www.courrierinternational.com/article/6-des-10-pays-la-plus-forte-croissance-en-2018-sont-africains)
 
 Et en 2020, c'est 7 sur 10
 

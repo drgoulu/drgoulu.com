@@ -17,4 +17,4 @@ Non.
 
 On ne peut pas breveter une couleur, mais on peut l'associer à une "marque déposée" en même temps qu'un logo par exemple.
 
-[https://www.inpi.fr/valoriser-vo...](https://www.inpi.fr/valoriser-vos-actifs/le-mag/peut-on-deposer-une-couleur-titre-de-marque)
+[https://www.inpi.fr/valoriser-vo...](https://web.archive.org/web/20230123002644/https://www.inpi.fr/valoriser-vos-actifs/le-mag/peut-on-deposer-une-couleur-titre-de-marque)

@@ -28,7 +28,7 @@ C'est l'idée développée par Jarmo Mäkelä dans son essai “[Is Reality Digi
 
 et dont je cause ici : [Selon Newton, l'univers serait discret - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)
 
-D'autres comme Lee Smolin, [Timothy Budd](http://www.nbi.dk/~budd/) ou [Fotini Markopoulou](http://www.wikipedia.org/search-redirect.php?language=en&go=Go&search=Fotini+Markopoulou) proposent plutôt que l’espace émerge d’une structure de graphe. Ca s'appelle “[triangulation dynamique causale](http://www.wikipedia.org/search-redirect.php?language=en&go=Go&search=causal+dynamical+triangulation)” ou “[graphité quantique](http://www.wikipedia.org/search-redirect.php?language=en&go=Go&search=quantum+graphity)” (sic) et c'est incompréhensible mais fait des vidéos très jolies :
+D'autres comme Lee Smolin, [Timothy Budd](https://web.archive.org/web/20190915065132/http://www.nbi.dk/~budd/) ou [Fotini Markopoulou](http://www.wikipedia.org/search-redirect.php?language=en&go=Go&search=Fotini+Markopoulou) proposent plutôt que l’espace émerge d’une structure de graphe. Ca s'appelle “[triangulation dynamique causale](http://www.wikipedia.org/search-redirect.php?language=en&go=Go&search=causal+dynamical+triangulation)” ou “[graphité quantique](http://www.wikipedia.org/search-redirect.php?language=en&go=Go&search=quantum+graphity)” (sic) et c'est incompréhensible mais fait des vidéos très jolies :
 
 {{< youtube "lzJpC78zduo" >}}
 

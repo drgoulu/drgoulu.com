@@ -22,4 +22,4 @@ Après l'Asie, c'est au tour de l'Afrique d'avoir un développement rapide. Sauf
 
 Regardez les extraordinaires vidéos de Hans Rosling pour démonter vos préjugés.
 
-[https://www.ted.com/talks/hans_r...](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)
+[https://www.ted.com/talks/hans_r...](https://web.archive.org/web/20231025223527/https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)

@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Est-il-vrai-que-se-mettre-sur-la-file-de-droite-nous-ferait-aller-plus-vite-dans-les-bouchons/answer/Dr-Goulu)*
 
-Dans [La malédiction de la mauvaise file](https://www.pourlascience.fr/sd/mathematiques/la-malediction-de-la-mauvaise-file-6768.php). *Pour La Science*, mai 2012, No *415*, pages 84–89. ( [pdf](https://stephane-legros.pagesperso-orange.fr/CPGE/tipe/Delahaye/Delahaye17.pdf))
+Dans [La malédiction de la mauvaise file](https://www.pourlascience.fr/sd/mathematiques/la-malediction-de-la-mauvaise-file-6768.php). *Pour La Science*, mai 2012, No *415*, pages 84–89. ( [pdf](https://web.archive.org/web/20231001212728/https://stephane-legros.pagesperso-orange.fr/CPGE/tipe/Delahaye/Delahaye17.pdf))
 
 Jean-Paul Delahaye faisait le point sur une question connexe : la file voisine semble presque toujours plus rapide que la vôtre. Vérité ou impression ?
 

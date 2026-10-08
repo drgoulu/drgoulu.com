@@ -18,7 +18,7 @@ coverImage: ./images/qimg-bf7b2337e7d5dcb2b1d77364cb8cb417.png
 
 ![](./images/qimg-bf7b2337e7d5dcb2b1d77364cb8cb417.png)
 
-(source : [La production de grain](http://acces.ens-lyon.fr/acces/thematiques/biodiversite/dossiers-thematiques/poacees/la-production-de-ble-1/la-production-de-ble) )
+(source : [La production de grain](https://web.archive.org/web/20220129033541/http://acces.ens-lyon.fr/acces/thematiques/biodiversite/dossiers-thematiques/poacees/la-production-de-ble-1/la-production-de-ble) )
 
 donc en utilisant 7 à 10 fois plus de surface (peut-être un peu moins en utilisant les céréales sélectionnées récemment) et au moins 7 à 10 fois plus d'agriculteurs (parce qu'on renonce aux machines) donc que la population comprenne à nouveau environ 2/3 d'agriculteurs, on devrait y arriver…
 

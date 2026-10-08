@@ -11,7 +11,7 @@ draft: true
 coverImage: "./images/7104760-L.jpg"
 ---
 
-{{< figure src="./images/7104760-L.jpg" alt="The Lean Startup" link="http://openlibrary.org/books/OL24982481M/The_Lean_Startup" >}}
+{{< figure src="./images/7104760-L.jpg" alt="The Lean Startup" link="https://web.archive.org/web/20150509172902/http://openlibrary.org/books/OL24982481M/The_Lean_Startup" >}}
 
 La prochaine fois que quelqu'un trouve mon CV "atypique", je lui fais lire ce bouquin.
 

@@ -26,7 +26,7 @@ qui dit notamment :
 
 donc après 3 jours, si on retrouve du cyanure, ce n'est pas celui qui a empoisonné.
 
-> La formation post-mortem de cyanure peut également compliquer les résultats trouvés : il s’agit dans ce cas de ne pas confondre une production endogène post-morte[. La](http://post-mortem.La) détection de cyanure est d’autant plus compliquée lorsque l’on a dépassé le délai de détection possible, ou que le corps de la victime est en état de décomposition avancée, ou brulé .
+> La formation post-mortem de cyanure peut également compliquer les résultats trouvés : il s’agit dans ce cas de ne pas confondre une production endogène post-morte[. La](https://web.archive.org/web/20231221/http://post-mortem.La) détection de cyanure est d’autant plus compliquée lorsque l’on a dépassé le délai de détection possible, ou que le corps de la victime est en état de décomposition avancée, ou brulé .
 
 donc oui, il y a des mécanismes naturels qui produisent un peu de cyanure.
 

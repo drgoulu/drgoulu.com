@@ -14,10 +14,10 @@ coverImage: ./images/quora.png
 
 C'est l'immense domaine étudié par l'[Écologie](w:)scientifique.
 
-Parmi les [principaux journaux](https://www.scimagojr.com/journalrank.php?category=2303) où sont publiés les recherches dans ce domaine, il y a entre autres
+Parmi les [principaux journaux](https://web.archive.org/web/20211019161042/https://www.scimagojr.com/journalrank.php?category=2303) où sont publiés les recherches dans ce domaine, il y a entre autres
 
 - [Nature Sustainability](https://www.nature.com/natsustain/)
-- [Conservation Letters](https://conbio.onlinelibrary.wiley.com/journal/1755263x)
+- [Conservation Letters](https://web.archive.org/web/20211206190700/https://conbio.onlinelibrary.wiley.com/journal/1755263x)
 - [Life Science Alliance](https://www.life-science-alliance.org/)
 
 qui sont en ["Open Access"](w:Libre_accès_(édition_scientifique)), donc vous pouvez lire les articles gratuitement

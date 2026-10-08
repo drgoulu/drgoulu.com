@@ -25,4 +25,4 @@ Notes de bas de page
 
 [[2]](#cite-dehVe)[Dalmatien Club Français affilié à la Société centrale canine. Race : dalmatien](https://www.dalmatien-club-francais.org/La-preservation-de-la-variabilite-genetique-une-necessite-_a67.html)
 
-[[3]](#cite-lSUOj)[Zoom : Maladies du Labrador](https://chien.ooreka.fr/astuce/voir/595359/maladies-du-labrador)
+[[3]](#cite-lSUOj)[Zoom : Maladies du Labrador](https://web.archive.org/web/20251116143107/https://chien.ooreka.fr/astuce/voir/595359/maladies-du-labrador)

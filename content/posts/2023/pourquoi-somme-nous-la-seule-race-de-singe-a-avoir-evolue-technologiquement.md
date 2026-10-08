@@ -18,6 +18,6 @@ coverImage: ./images/quora.png
 
 Nous sommes l'espèce (pas race) de [Grands singes](w:Hominoidea) qui a développé le plus la technologie
 
-Les gorilles, les orangs-outans, les chimpanzés et bonobos [Utilisent tous des outils](https://www.universalis.fr/encyclopedie/grands-singes/5-utilisation-d-outils/), même les singes capucins [taillent des pierres](https://www.lemonde.fr/sciences/article/2016/10/19/les-mysterieuses-pierres-taillees-de-singes-bresiliens_5016658_1650684.html)de manière très semblable à nous il y a quelques centaines de milliers d'années.
+Les gorilles, les orangs-outans, les chimpanzés et bonobos [Utilisent tous des outils](https://www.universalis.fr/encyclopedie/grands-singes/5-utilisation-d-outils/), même les singes capucins [taillent des pierres](https://web.archive.org/web/20211024202615/https://www.lemonde.fr/sciences/article/2016/10/19/les-mysterieuses-pierres-taillees-de-singes-bresiliens_5016658_1650684.html)de manière très semblable à nous il y a quelques centaines de milliers d'années.
 
 On a juste pris un peu d'avance avec le feu, et probablement la derniere mutation du[FOXP2](w:Protéine_Forkhead-P2)qui a permis le langage il y a 100 à 200'000 ans. Hier.

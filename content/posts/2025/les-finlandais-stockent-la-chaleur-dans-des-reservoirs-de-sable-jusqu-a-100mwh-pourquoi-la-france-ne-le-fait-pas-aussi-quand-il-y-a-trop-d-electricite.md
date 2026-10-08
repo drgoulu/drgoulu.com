@@ -28,4 +28,4 @@ En France (et en Suisse…) le système de stockage le plus adapté est le [Pomp
 
 Notes de bas de page
 
-[[1]](#cite-rCAjW)[Finlande : la plus grande batterie de sable au monde sera mise en service d'ici un an](https://fr.euronews.com/green/2024/03/14/finlande-la-plus-grande-batterie-de-sable-au-monde-sera-mise-en-service-dici-un-an)
+[[1]](#cite-rCAjW)[Finlande : la plus grande batterie de sable au monde sera mise en service d'ici un an](https://web.archive.org/web/20250202054418/https://fr.euronews.com/green/2024/03/14/finlande-la-plus-grande-batterie-de-sable-au-monde-sera-mise-en-service-dici-un-an)

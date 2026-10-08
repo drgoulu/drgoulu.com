@@ -29,7 +29,7 @@ Comme on le voit, si en échangeant quelques balles avec Federer vous remarquez 
 
 Le système de comptage des points au tennis amplifie donc les écarts entre les joueurs : un joueur qui gagne 51% des points contre un adversaire gagnera 62% des matches contre lui. A 52% contre 48%, il gagnera 3 matches sur 4.
 
-Lors du dernier [match de](http://www.eurosport.fr/tennis/ms-rome/2008/story_sto1567138.shtml) [Federer contre Stepanek à Rome](http://www.eurosport.fr/tennis/ms-rome/2008/story_sto1567138.shtml), le Suisse a marqué 88 pts contre 82 pts à Stépanek, ce qui lui donnait 70% de chances de victoire, mais il a perdu. Stepanek a gagné, malgré moins de balles victorieuses! C'est le prix à payer de la non-linéarité : le comptage des points fait que certaines balles sont plus importantes que d'autres, et donc que celui qui les marque peut gagner avec moins de balles.
+Lors du dernier [match de](https://web.archive.org/web/20080526110453/http://www.eurosport.fr/tennis/ms-rome/2008/story_sto1567138.shtml) [Federer contre Stepanek à Rome](https://web.archive.org/web/20080526110453/http://www.eurosport.fr/tennis/ms-rome/2008/story_sto1567138.shtml), le Suisse a marqué 88 pts contre 82 pts à Stépanek, ce qui lui donnait 70% de chances de victoire, mais il a perdu. Stepanek a gagné, malgré moins de balles victorieuses! C'est le prix à payer de la non-linéarité : le comptage des points fait que certaines balles sont plus importantes que d'autres, et donc que celui qui les marque peut gagner avec moins de balles.
 
 Si on gagnait au tennis en étant le premier à marquer, disons 90 points, Federer aurait gagné ce match, mais il en aurait statistiquement perdu beaucoup ces dernières années contre des joueurs qui ne perdent que 1 ou 2% de balles contre lui.
 

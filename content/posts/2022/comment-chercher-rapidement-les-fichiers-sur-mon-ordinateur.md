@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 J'utilise
 
-[https://everything.en.softonic.com/](https://everything.en.softonic.com/)
+[https://everything.en.softonic.com/](https://web.archive.org/web/20220405093330/https://everything.en.softonic.com/)

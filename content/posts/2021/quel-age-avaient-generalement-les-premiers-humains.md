@@ -23,7 +23,7 @@ avant 1800, l'espérance de vie des français était inférieure à celle des bo
 
 ![](./images/qimg-69eb46fec6218150903ea0824ba1fa6e.jpg)
 
-source : [L’espérance de vie en France](https://www.ined.fr/fr/tout-savoir-population/graphiques-cartes/graphiques-interpretes/esperance-vie-france/) , INED
+source : [L’espérance de vie en France](https://web.archive.org/web/20211203000901/https://www.ined.fr/fr/tout-savoir-population/graphiques-cartes/graphiques-interpretes/esperance-vie-france/) , INED
 
 Notes de bas de page
 

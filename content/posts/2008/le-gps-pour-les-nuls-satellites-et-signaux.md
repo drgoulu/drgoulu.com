@@ -64,9 +64,9 @@ Génial, non ?
 ### Références:
 
 1. <span id="ref-1"></span>[Global Positioning System](w:Global_Positioning_System) sur la Wikipedia
-2. <span id="ref-2"></span>le [GPS](http://www.meynet.ch/doc_GPS/gps.html), une page très complète sur le sujet
-3. <span id="ref-3"></span>le [GPS du Mathématicien](http://web.me.com/rouxjeanbernard/Site/AM/html/amch53.html), avec formules et code Matlab
+2. <span id="ref-2"></span>le [GPS](https://web.archive.org/web/20080927045609/http://www.meynet.ch/doc_GPS/gps.html), une page très complète sur le sujet
+3. <span id="ref-3"></span>le [GPS du Mathématicien](https://web.archive.org/web/20101210141719/http://web.me.com/rouxjeanbernard/Site/AM/html/amch53.html), avec formules et code Matlab
 4. <span id="ref-4"></span>["dBm" sur Answers.com](http://www.answers.com/topic/dbm)
-5. <span id="ref-5"></span>[GPS explained : Runtime measurements of the Signals](http://www.kowoma.de/en/gps/signals_runtime.htm)
+5. <span id="ref-5"></span>[GPS explained : Runtime measurements of the Signals](https://web.archive.org/web/20080927/http://www.kowoma.de/en/gps/signals_runtime.htm)
 
 Note\* : pour rappel, les autres merveilles du monde technologique sont le [microprocesseur](/tags/informatique/), le télescope [Hubble](/tags/hubble/), le [LHC](/tags/LHC/) du CERN, [internet](/tags/internet/), [l'hélicoptère](/2009/07/11/comment-vole-un-helicoptere/) et le [laser](/tags/laser/).

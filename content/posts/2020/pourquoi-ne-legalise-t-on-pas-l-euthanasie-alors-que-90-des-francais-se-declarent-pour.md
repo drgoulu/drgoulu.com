@@ -28,4 +28,4 @@ Je pense que c'est une très bonne solution. Il n'y a pas besoin de faire une lo
 
 Notes de bas de page
 
-[[1]](#cite-mLIZm)[Assistance au décès](https://www.bj.admin.ch/bj/fr/home/gesellschaft/gesetzgebung/archiv/sterbehilfe.html)
+[[1]](#cite-mLIZm)[Assistance au décès](https://web.archive.org/web/20200923125700/https://www.bj.admin.ch/bj/fr/home/gesellschaft/gesetzgebung/archiv/sterbehilfe.html)

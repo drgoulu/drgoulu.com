@@ -16,7 +16,7 @@ Ce "Robot parallèle"  a été largement étudié à l’EPFL, y compris par vo
 
 - [Mecartex](http://www.mecartex.ch/)produit des mécanismes ultraprécis utilisant des structures déformables. L’une est précisément un robot Delta usiné d’une seule pièce et permettant un positionnement rapide (bande passante 400 Hz) dans un peu moins d’un cm3.
 - [Mecartex](http://www.mecartex.ch/) est très proche d’AGIE (+Charmilles), le leader de l’électro-érosion pour lequel j’ai aussi travaillé quelques années. Pas étonnant donc que leur micro-Delta permette de réaliser des micro-usinages avec cette technologie...
-- [le CSEM a développé un "MicroDelta" ultrarapide+précis](http://csnej106.csem.ch/detailed/a_611-microdelta.htm) 
+- [le CSEM a développé un "MicroDelta" ultrarapide+précis](https://web.archive.org/web/20050527/http://csnej106.csem.ch/detailed/a_611-microdelta.htm) 
 
 ### Références et sites:
 

@@ -17,6 +17,6 @@ Les astronautes avaient des dosimètres comme n'importe quel professionnel expos
 
 Les données sont là
 
-[https://arc.aiaa.org/doi/abs/10....](https://arc.aiaa.org/doi/abs/10.2514/3.29217?journalCode=jsr)
+[https://arc.aiaa.org/doi/abs/10....](https://web.archive.org/web/20240326/https://arc.aiaa.org/doi/abs/10.2514/3.29217?journalCode=jsr)
 
 Les radiations n'étaient de loin pas leur principal souci de sécurité.

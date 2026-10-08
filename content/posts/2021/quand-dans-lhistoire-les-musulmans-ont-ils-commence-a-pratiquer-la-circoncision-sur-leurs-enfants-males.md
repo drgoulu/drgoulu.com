@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 La [Circoncision](w:) est bien antérieure à l'Islam. Il y en a des représentations sur des fresques de l'Egypte antique datant de 2500 avant notre ère. Hérodote la mentionne en -450 environ. Les juifs la pratiquent depuis très longtemps aussi, et probablement beaucoup de peuples de la région.
 
-Selon [Circoncision juive et circoncision musulmane](https://cybercure.fr/je-prie/priere-et-rites-dans-les-autres-confessions/article/circoncision-juive-et-circoncision-musulmane) :
+Selon [Circoncision juive et circoncision musulmane](https://web.archive.org/web/20210121181204/https://cybercure.fr/je-prie/priere-et-rites-dans-les-autres-confessions/article/circoncision-juive-et-circoncision-musulmane) :
 
 > La circoncision fait partie des pratiques de l’Islam, des actes naturels intégrés dans la religion d’Abraham. La circoncision n’est pas demandée par le Coran, elle ne bénéficie pas d’un statut privilégié en Islam, contrairement à la religion juive : aucune prière ne l’accompagne, tout comme le mariage. Le rituel de la circoncision existait avant l’Islam et le prophète Muhammad n’est pas l’instigateur de cette pratique.
 >

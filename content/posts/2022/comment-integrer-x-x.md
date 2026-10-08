@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Numériquement, parce que l'intégrale de x^x.dx est indéfinie
 
-[https://www.wolframalpha.com/inp...](https://www.wolframalpha.com/input?i=Integral+x^x)
+[https://www.wolframalpha.com/inp...](https://web.archive.org/web/20230813100700/https://www.wolframalpha.com/input?i=Integral+x^x)

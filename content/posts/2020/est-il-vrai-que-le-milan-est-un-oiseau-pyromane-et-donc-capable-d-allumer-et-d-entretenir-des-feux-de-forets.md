@@ -24,4 +24,4 @@ Par contre on n'en a encore pas vu en train d'allumer un feu proprement dit, et 
 
 Notes de bas de page
 
-[[1]](#cite-VhhYP)[Intentional Fire-Spreading by “Firehawk” Raptors in Northern Australia](https://bioone.org/journals/journal-of-ethnobiology/volume-37/issue-4/0278-0771-37.4.700/Intentional-Fire-Spreading-by-Firehawk-Raptors-in-Northern-Australia/10.2993/0278-0771-37.4.700.short)
+[[1]](#cite-VhhYP)[Intentional Fire-Spreading by “Firehawk” Raptors in Northern Australia](https://web.archive.org/web/20200214143312/https://bioone.org/journals/journal-of-ethnobiology/volume-37/issue-4/0278-0771-37.4.700/Intentional-Fire-Spreading-by-Firehawk-Raptors-in-Northern-Australia/10.2993/0278-0771-37.4.700.short)

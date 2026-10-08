@@ -43,7 +43,7 @@ fossilisés comme expliqué dans cet article :
 
 [https://www.nature.com/articles/...](https://www.nature.com/articles/nature08740)
 
-J'ai trouvé le [pdf ici](https://www.researchgate.net/publication/41166443_Fossilized_melanosomes_and_the_colour_of_Cretaceous_dinosaurs_and_birds) , avec cette illustration montrant un exemple de mélanosomes fossilisés en c.
+J'ai trouvé le [pdf ici](https://web.archive.org/web/20210417/https://www.researchgate.net/publication/41166443_Fossilized_melanosomes_and_the_colour_of_Cretaceous_dinosaurs_and_birds) , avec cette illustration montrant un exemple de mélanosomes fossilisés en c.
 
 ![](./images/qimg-a7b7b5eb3596895c46ae5f9785eda8d6.jpg)
 

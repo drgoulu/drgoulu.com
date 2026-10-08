@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://cafedessciences.quora.com/Fatigue-le-bon-la-brute-et-le-truand-Le-Labo-des-savoirs)*
 
-[https://labodessavoirs.fr/emissi...](https://labodessavoirs.fr/emissions-du-labo/fatigue-brute-truand/)
+[https://labodessavoirs.fr/emissi...](https://web.archive.org/web/20190716070959/https://labodessavoirs.fr/emissions-du-labo/fatigue-brute-truand/)

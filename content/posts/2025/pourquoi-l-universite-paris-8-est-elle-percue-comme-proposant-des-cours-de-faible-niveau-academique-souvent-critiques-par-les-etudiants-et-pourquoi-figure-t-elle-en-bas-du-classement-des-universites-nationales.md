@@ -18,4 +18,4 @@ Toutes lss universités ne peuvent pas être bonnes en tout.
 
 Apparemment Paris 8 s'est focalisée sur certains domaines (arts, histoire, psychanalyse…) où elle est bien classée.
 
-[Universite Vincennes-Saint-Denis - Paris 8 *](https://www.scimagoir.com/institution.php?idp=2727)
+[Universite Vincennes-Saint-Denis - Paris 8 *](https://web.archive.org/web/20251211143956/https://www.scimagoir.com/institution.php?idp=2727)

@@ -11,7 +11,7 @@ coverImage: ./images/qimg-7b6c516b61e5c7fbc22998999c3ad7a0.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Les-avions-de-ligne-survolent-ils-l-Himalaya/answer/Dr-Goulu)*
 
-En ce moment le trafic est plutôt calme sur [Flightradar24](https://www.flightradar24.com/) (décalage horaire…)
+En ce moment le trafic est plutôt calme sur [Flightradar24](https://web.archive.org/web/20210427024321/https://www.flightradar24.com/) (décalage horaire…)
 
 ![](./images/qimg-7b6c516b61e5c7fbc22998999c3ad7a0.png)
 

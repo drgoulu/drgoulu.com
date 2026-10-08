@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Il aurait surtout pu tenir compte des nombreux avertissements que ça allant se produire et éviter que ça se produise.
 
-[https://fr.timesofisrael.com/reg...](https://fr.timesofisrael.com/regev-et-halevi-en-desaccord-sur-les-alertes-adressees-a-netanyahu-avant-le-7-octobre/)
+[https://fr.timesofisrael.com/reg...](https://web.archive.org/web/20240526015351/https://fr.timesofisrael.com/regev-et-halevi-en-desaccord-sur-les-alertes-adressees-a-netanyahu-avant-le-7-octobre/)
 
 Maintenant que c'est fait, Israël peut faire une enquête là dessus, virer les responsables, et remettre en place un système de défense adapté au fait que Gaza est un territoire ennemi.
 

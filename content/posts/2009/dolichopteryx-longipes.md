@@ -22,5 +22,5 @@ La lumière n'est pas focalisée par réfraction par un cristallin comme tous le
 Il semblerait bien que l'évolution ait trouvé là encore une solution originale à un problème de survie : détecter la luminescence émise par certains habitants des profondeurs mieux que ceux-ci, qu'ils soient proies ou prédateurs.
 
 1. Hans-Joachim Wagner et al. "A Novel Vertebrate Eye Using Both Refractive and Reflective Optics", Current Biology, Volume 19, Issue 2, 108-114, 24 December 2008, {{< altmetric doi="10.1016/j.cub.2008.11.061" >}}
-2. Jean Etienne, "[Le poisson abyssal qui a inventé le télescope...",](http://www.futura-sciences.com/fr/news/t/biologie-3/d/le-poisson-abyssal-qui-a-invente-le-telescope_17892/) Futura-Science, 10 janvier 2009
-3. "[Dolichopteryx longipes](http://www.fishbase.org/summary/SpeciesSummary.php?id=9121&lang=French)" sur fishbase.org
+2. Jean Etienne, "[Le poisson abyssal qui a inventé le télescope...",](https://web.archive.org/web/20090310112800/http://www.futura-sciences.com/fr/news/t/biologie-3/d/le-poisson-abyssal-qui-a-invente-le-telescope_17892/) Futura-Science, 10 janvier 2009
+3. "[Dolichopteryx longipes](https://web.archive.org/web/20131010043703/http://www.fishbase.org/summary/SpeciesSummary.php?id=9121&lang=French)" sur fishbase.org

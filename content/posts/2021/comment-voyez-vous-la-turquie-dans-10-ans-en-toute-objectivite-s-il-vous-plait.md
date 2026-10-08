@@ -17,4 +17,4 @@ Je dirais qu'en tant que Suisse j'ai un respect infini pour la démocratie, et d
 
 Sinon, j'aime beaucoup Bir Başkadır …
 
-[http://www.slate.fr/story/198277...](http://www.slate.fr/story/198277/bir-baskadir-serie-netflix-turquie-istanbul-fracture-islamisme-regarder-france)
+[http://www.slate.fr/story/198277...](https://web.archive.org/web/20210415101252/http://www.slate.fr/story/198277/bir-baskadir-serie-netflix-turquie-istanbul-fracture-islamisme-regarder-france)

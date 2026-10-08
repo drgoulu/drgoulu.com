@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://cafedessciences.quora.com/Quest-ce-que-le-progrès-scientifique-Le-Labo-des-savoirs)*
 
-[https://labodessavoirs.fr/emissi...](https://labodessavoirs.fr/emissions-du-labo/quest-progres-scientifique/)
+[https://labodessavoirs.fr/emissi...](https://web.archive.org/web/20190512070650/https://labodessavoirs.fr/emissions-du-labo/quest-progres-scientifique/)

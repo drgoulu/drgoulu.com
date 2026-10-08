@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-tracer-les-graphiques-des-fonctions-y-cos%C3%A9cante-x-et-y-s%C3%A9cante-x/answer/Dr-Goulu)*
 
-[Y=cosec(x) - Wolfram|Alpha](https://www.wolframalpha.com/input?i=Y=cosec(x))
+[Y=cosec(x) - Wolfram|Alpha](https://web.archive.org/web/20240924/https://www.wolframalpha.com/input?i=Y=cosec(x))

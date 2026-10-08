@@ -13,7 +13,7 @@ coverImage: "./images/5f191d5b335e83fb624df1763b405414.jpg"
 
 Internet, c'est tellement facile : on voit une image qui nous plait pour illustrer un article, hop, on copie le lien vers l'image dans son propre blog :
 
-{{< figure src="./images/8d051439297695af67728cb76d11a944.jpg" alt="avions2 par Daprilli" caption="avions2 par Daprilli" link="http://www.d-aprilli.net//www.d-aprilli.net/GalerieAvions/index.html" width="614" >}}
+{{< figure src="./images/8d051439297695af67728cb76d11a944.jpg" alt="avions2 par Daprilli" caption="avions2 par Daprilli" link="https://web.archive.org/web/20160914170820/http://www.d-aprilli.net//www.d-aprilli.net/GalerieAvions/index.html" width="614" >}}
 
 Et voilà. L'auteur de cette magnifique photo, que je salue au passage, pourrait légitimement prétendre que je lui ai volé cette photo sans autorisation, à quoi je pourrais lui répondre que non ( si j'étais de mauvaise foi ) puisqu'elle est toujours sur son serveur  : je ne l'ai pas copiée, j'ai juste mis <img src="http://www.d-aprilli.net/www.d-aprilli.net/GalerieAvions/content/images/large/dAprilli\_Avion002.jpg"> dans le texte HTML de cet article...
 
@@ -39,17 +39,17 @@ Il faut donc permettre à Google et peut être à d'autres sites de recherche d'
 
 Si un site empêche le hotlinking, il va encourager la copie : pour intégrer une image sur un article je sauve l'image sur mon bureau, je l'uploade sur mon site et voilà.
 
-Et il est impossible d'empêcher ceci : à partir du moment où vous voyez une image sur votre browser, vous pouvez la copier. En fait elle a déjà été copiée sur votre ordinateur par le browser. Comme webmaster, vous pouvez tout au plus utiliser [certains petits trucs](http://www.cambridgeincolour.com/tutorials/protect-online-photos.htm) pour rendre la copie de l'image plus difficile pour un visiteur néophyte, mais c'est impossible contre quelqu'un qui sait lire du code source HTML et dans tous les cas il reste la possibilité de la capture d'écran...
+Et il est impossible d'empêcher ceci : à partir du moment où vous voyez une image sur votre browser, vous pouvez la copier. En fait elle a déjà été copiée sur votre ordinateur par le browser. Comme webmaster, vous pouvez tout au plus utiliser [certains petits trucs](https://web.archive.org/web/20130603034241/http://www.cambridgeincolour.com/tutorials/protect-online-photos.htm) pour rendre la copie de l'image plus difficile pour un visiteur néophyte, mais c'est impossible contre quelqu'un qui sait lire du code source HTML et dans tous les cas il reste la possibilité de la capture d'écran...
 
 L'astuce de base pour les photos, c'est de publier une version "watermarkée" et/ou basse résolution des images sur les pages web, et de garder la version haute résolution un peu cachée par des liens pour ceux qui ont le droit, éventuellement payant, d'y accéder.
 
 En faisant des copies de ces images, le lien avec le site d'origine est rompu. Si les rédacteurs n'ont pas la courtoisie d'indiquer la source de l'image avec un lien vers la page d'origine comme je l'ai fait pour la photo de D'aprilli, les visiteurs n'ont quasi aucun moyen de retrouver le photographe pour le féliciter.
 
-![](./images/2f204297ed68aefb568e162f8ad9278f.jpg)Les seuls moyens que je connaisse sont [TinEye](http://www.tineye.com/) et Google Images (encore), mais il faut [lire le mode d'emploi](http://www.google.com/insidesearch/features/images/searchbyimage.html). Ces étonnants services de "recherche inversée" d'images renvoient renvoie une liste de documents web où une image figure, même déformée, recadrée, recolorée ou passablement altérée. Je les utilise parfois pour retrouver l'original d'une image de mauvaise qualité sur le web, ou qui a piqué mes images...
+![](./images/2f204297ed68aefb568e162f8ad9278f.jpg)Les seuls moyens que je connaisse sont [TinEye](https://web.archive.org/web/20130611193701/http://www.tineye.com/) et Google Images (encore), mais il faut [lire le mode d'emploi](http://www.google.com/insidesearch/features/images/searchbyimage.html). Ces étonnants services de "recherche inversée" d'images renvoient renvoie une liste de documents web où une image figure, même déformée, recadrée, recolorée ou passablement altérée. Je les utilise parfois pour retrouver l'original d'une image de mauvaise qualité sur le web, ou qui a piqué mes images...
 
 D'après ma maigre expérience, Google trouve plus d'images car il indexe plus de sites, mais TinEye retrouve des images plus fortement modifiées.
 
-En passant, comme je m'étais intéressé à [l'algorithme de Shazam](/2009/07/11/comment-marche-shazam/) je me suis évidemment aussi posé la question pour la recherche d'images. [Sur leur forum, les gens de TinEye ne sont pas plus bavards](http://forums.tineye.com/discussion/77/does-tineye-base-on-mser-sifts/p1) que ceux de Google sur l'algorithme utilisé, et [cette discussion sur stackoverflow](http://stackoverflow.com/questions/1005115/what-algorithm-could-be-used-to-identify-if-images-are-the-same-or-similar-reg) ne permet que d'esquisser quelques pistes, parmi lesquelles:
+En passant, comme je m'étais intéressé à [l'algorithme de Shazam](/2009/07/11/comment-marche-shazam/) je me suis évidemment aussi posé la question pour la recherche d'images. [Sur leur forum, les gens de TinEye ne sont pas plus bavards](https://web.archive.org/web/20110823093931/http://forums.tineye.com/discussion/77/does-tineye-base-on-mser-sifts/p1) que ceux de Google sur l'algorithme utilisé, et [cette discussion sur stackoverflow](https://web.archive.org/web/20101221224039/http://stackoverflow.com/questions/1005115/what-algorithm-could-be-used-to-identify-if-images-are-the-same-or-similar-reg) ne permet que d'esquisser quelques pistes, parmi lesquelles:
 
 - L'algorithme [Scale-invariant feature transform (SIFT)](w:Scale-invariant_feature_transform), breveté, mais il le mérite
 - La méthode [maximally stable extremal regions (MSER)](w:en:Maximally_stable_extremal_regions)
@@ -61,13 +61,13 @@ c'est qu'ils sont assez riches pour copier tout internet chez eux, y compris les
 
 Depuis le 25 janvier 2013, Google copie même les images en pleine résolution qui ne sont pas directement visibles sur les sites indexés, et affiche ces images en pleine résolution sur les résultats de recherche, sans s'occuper de droits d'auteurs éventuels ...
 
-Il y a des sites commerciaux de photos et de fonds d'écrans qui râlent sec, et il y a de quoi quand on voit par exemple la chute du trafic enregistrée chez [pixabay.com](http://pixabay.com/) à ce moment :
+Il y a des sites commerciaux de photos et de fonds d'écrans qui râlent sec, et il y a de quoi quand on voit par exemple la chute du trafic enregistrée chez [pixabay.com](https://web.archive.org/web/20130614002737/http://pixabay.com/) à ce moment :
 
-{{< figure src="./images/c13586da587b889ab33fbafb03b381a9.png" alt="trafic chez pixabay.com au moment du changement chez Google..." caption="trafic chez pixabay.com au moment du changement chez Google..." link="http://pixabay.com/" align="aligncenter" width="640" >}}
+{{< figure src="./images/c13586da587b889ab33fbafb03b381a9.png" alt="trafic chez pixabay.com au moment du changement chez Google..." caption="trafic chez pixabay.com au moment du changement chez Google..." link="https://web.archive.org/web/20130614002737/http://pixabay.com/" align="aligncenter" width="640" >}}
 
 Le choix est cornélien : comment bénéficier du service d'indexation des images de Google tout en conservant es droits auquel tout créateur a droit ?
 
-Un excellent [article de pixabay](http://pixabay.com/en/blog/posts/hotlinking-protection-and-watermarking-for-google-32/) énumère plusieurs solutions possibles et celle choisie par pixabay : un système anti-hotlink s'appliquant à tout le monde même à Google, mais fournissant les images d'origine "watermarkées", ce qui leur a permis de récupérer une bonne part de leur audience.
+Un excellent [article de pixabay](https://web.archive.org/web/20130502184343/http://pixabay.com/en/blog/posts/hotlinking-protection-and-watermarking-for-google-32/) énumère plusieurs solutions possibles et celle choisie par pixabay : un système anti-hotlink s'appliquant à tout le monde même à Google, mais fournissant les images d'origine "watermarkées", ce qui leur a permis de récupérer une bonne part de leur audience.
 
 ### En pratique, pour WordPress
 

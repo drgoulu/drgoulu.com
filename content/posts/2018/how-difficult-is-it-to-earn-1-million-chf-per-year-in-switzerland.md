@@ -24,4 +24,4 @@ As an investor, pretty easily if you have 10–100 millions to invest ;-)
 
 Footnotes
 
-[[1]](#cite-nXedl)[Distribution of net wages](https://www.bfs.admin.ch/bfs/en/home/statistics/work-income/wages-income-employment-labour-costs/wage-levels-switzerland/distribution-net-wages.html)
+[[1]](#cite-nXedl)[Distribution of net wages](https://web.archive.org/web/20171122024319/https://www.bfs.admin.ch/bfs/en/home/statistics/work-income/wages-income-employment-labour-costs/wage-levels-switzerland/distribution-net-wages.html)

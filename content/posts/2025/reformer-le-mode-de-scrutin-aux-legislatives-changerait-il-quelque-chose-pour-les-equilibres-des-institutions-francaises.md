@@ -26,6 +26,6 @@ Pour votre élection présidentielle, je suggère le[vote par assentiment](/2007
 
 Notes de bas de page
 
-[[1]](#cite-oxWbk)[Législatives 2024 : à quoi ressemblerait l’Assemblée si on avait voté à la proportionnelle ?](https://www.ouest-france.fr/elections/legislatives/legislatives-2024-a-quoi-ressemblerait-lassemblee-si-on-avait-vote-a-la-proportionnelle-06b875ca-37bf-11ef-beb3-b5dffeb610b0)
+[[1]](#cite-oxWbk)[Législatives 2024 : à quoi ressemblerait l’Assemblée si on avait voté à la proportionnelle ?](https://web.archive.org/web/20250729205123/https://www.ouest-france.fr/elections/legislatives/legislatives-2024-a-quoi-ressemblerait-lassemblee-si-on-avait-vote-a-la-proportionnelle-06b875ca-37bf-11ef-beb3-b5dffeb610b0)
 
-[[2]](#cite-RjKub)[A quoi ressemblerait l’Assemblée nationale si les députés étaient élus à la proportionnelle intégrale ou partielle ?](https://www.lemonde.fr/les-decodeurs/article/2021/02/24/quel-serait-le-visage-de-l-assemblee-nationale-avec-la-proportionnelle-integrale-ou-partielle_6071093_4355770.html)
+[[2]](#cite-RjKub)[A quoi ressemblerait l’Assemblée nationale si les députés étaient élus à la proportionnelle intégrale ou partielle ?](https://web.archive.org/web/20250902233303/https://www.lemonde.fr/les-decodeurs/article/2021/02/24/quel-serait-le-visage-de-l-assemblee-nationale-avec-la-proportionnelle-integrale-ou-partielle_6071093_4355770.html)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Attendre qu'il ait au moins 4 ans
 
-[https://www.rigolocommelavie.org...](https://www.rigolocommelavie.org/la-perception-du-temps-par-lenfant/)
+[https://www.rigolocommelavie.org...](https://web.archive.org/web/20231128225241/https://www.rigolocommelavie.org/la-perception-du-temps-par-lenfant/)

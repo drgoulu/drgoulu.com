@@ -28,4 +28,4 @@ Remarquez qu'on n'a même pas besoin de la notion de vivant là dedans. Ca march
 Références:
 
 1. Robertson, M. P., & Joyce, G. F. (2014). [Highly Efficient Self-Replicating RNA Enzymes](https://doi.org/10.1016/j.chembiol.2013.12.004) . *Chemistry and Biology*, *21*(2), 238–245.
-2. [HTML5 Genetic Algorithm 2D Car Thingy](https://rednuht.org/genetic_cars_2/) (ce truc est génial !)
+2. [HTML5 Genetic Algorithm 2D Car Thingy](https://web.archive.org/web/20220310143043/https://rednuht.org/genetic_cars_2/) (ce truc est génial !)

@@ -25,4 +25,4 @@ Bref, on obtient des résultats assez différents selon les mesures, mais une ch
 
 Notes de bas de page
 
-[[1]](#cite-sCtfq)[En 2022, plus de quatre Français sur dix se déclarent sans religion](https://www.ouest-france.fr/societe/religions/en-2022-plus-de-quatre-francais-sur-dix-se-declarent-sans-religion-4ef0e038-4578-11ed-8c28-88bd89a03c81)
+[[1]](#cite-sCtfq)[En 2022, plus de quatre Français sur dix se déclarent sans religion](https://web.archive.org/web/20251118100014/https://www.ouest-france.fr/societe/religions/en-2022-plus-de-quatre-francais-sur-dix-se-declarent-sans-religion-4ef0e038-4578-11ed-8c28-88bd89a03c81)

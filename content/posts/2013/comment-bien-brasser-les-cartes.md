@@ -60,7 +60,7 @@ array[i] = t;
 
 Et le plus beau est que sa [complexité algorithmique](w:) est proportionnelle à N, ce qui est in exemple de plus de l’universalité du principe de Murphy de la thermodynamique de la tartine beurrée qui dit qu'il est toujours plus facile de générer du désordre que de l'ordre.
 
-D'autre part, si vous devez brasser beaucoup de données de manière irréversible, je ne sais pas moi, pour une application de vote par internet par exemple, souvenez-vous de Fisher-Yates. Et utilisez un [vrai générateur de nombres aléatoires](http://www.idquantique.com/component/content/article/9.html) , car un [générateur de nombres pseudo-aléatoires](w:) peut non seulement souffrir de biais, mais surtout être reproductible à partir de la "graine" et permettre ainsi d'inverser le brassage.
+D'autre part, si vous devez brasser beaucoup de données de manière irréversible, je ne sais pas moi, pour une application de vote par internet par exemple, souvenez-vous de Fisher-Yates. Et utilisez un [vrai générateur de nombres aléatoires](https://web.archive.org/web/20130309225208/http://www.idquantique.com/component/content/article/9.html) , car un [générateur de nombres pseudo-aléatoires](w:) peut non seulement souffrir de biais, mais surtout être reproductible à partir de la "graine" et permettre ainsi d'inverser le brassage.
 
 Bon, je voulais encore modéliser différentes techniques de brassage de vraies cartes en JavaScript pour déterminer combien d'opérations sont nécessaires pour obtenir un mélange sans biais, mais je préfère laisser ça en exercice pour ChipRaptor et d'autres.
 
@@ -80,4 +80,4 @@ Gag © Pierre-Alain de [WPanorama](http://www.wpanorama.com/)
 
 1. <span id="ref-1"></span>[Mike Bostock](http://bost.ocks.org/mike/),  "[Fisher–Yates Shuffle](http://bost.ocks.org/mike/shuffle/)", 14 janvier 2012
 2. <span id="ref-2"></span>Mike Bostock,  "[Will it shuffle ?](http://bost.ocks.org/mike/shuffle/compare.html)", 21 janvier 2012
-3. <span id="ref-3"></span>Jeff Atwood "[The danger of naïveté](http://www.codinghorror.com/blog/2007/12/the-danger-of-naivete.html)", 2007, Coding Horror
+3. <span id="ref-3"></span>Jeff Atwood "[The danger of naïveté](https://web.archive.org/web/20130103064211/http://www.codinghorror.com/blog/2007/12/the-danger-of-naivete.html)", 2007, Coding Horror

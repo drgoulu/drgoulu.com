@@ -26,4 +26,4 @@ La question de savoir si l'[Anthropocène](w:) mérite de devenir un âge géolo
 
 Notes de bas de page
 
-[[1]](#cite-iPtag)[Did the Toba volcanic eruption of ∼74 ka B.P. produce widespread glaciation?](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2008JD011652)
+[[1]](#cite-iPtag)[Did the Toba volcanic eruption of ∼74 ka B.P. produce widespread glaciation?](https://web.archive.org/web/20190529112006/https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2008JD011652)

@@ -13,8 +13,8 @@ coverImage: ./images/quora.png
 
 En planeur pur, le record est de 2257 km
 
-[https://www.fai.org/record/15702](https://www.fai.org/record/15702)
+[https://www.fai.org/record/15702](https://web.archive.org/web/20240421202808/https://www.fai.org/record/15702)
 
 En avion solaire, le record est de 7212 km
 
-[https://cleantechnica.com/2015/0...](https://cleantechnica.com/2015/07/06/solar-impulse-sets-world-record-117-hours-52-minutes-longest-solo-flight-ever-video/)
+[https://cleantechnica.com/2015/0...](https://web.archive.org/web/20240424181905/https://cleantechnica.com/2015/07/06/solar-impulse-sets-world-record-117-hours-52-minutes-longest-solo-flight-ever-video/)

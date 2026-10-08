@@ -17,4 +17,4 @@ Les coûts de maintenance font que ces avions sont moins rentables que des avion
 
 Cela dit, je reprendrai très volontiers l'A380
 
-[https://www.lesechos.fr/2018/01/...](https://www.lesechos.fr/2018/01/a380-les-quatre-raisons-dun-echec-commercial-981917)
+[https://www.lesechos.fr/2018/01/...](https://web.archive.org/web/20240321095537/https://www.lesechos.fr/2018/01/a380-les-quatre-raisons-dun-echec-commercial-981917)

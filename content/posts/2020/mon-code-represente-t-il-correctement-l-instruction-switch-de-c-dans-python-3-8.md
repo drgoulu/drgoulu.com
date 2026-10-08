@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Ouch ! Désolé ça fait mal aux yeux… Oubliez C, Python est un langage de BEAUCOUP plus haut niveau !
 
-- les [dictionnaires](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/232273-utilisez-des-dictionnaires) sont des structures très souples et hyper efficaces. Utilisez-les ! 9 fois sur 10 vous pouvez remplacer une boucle par une fonction prédéfinie de dict ou de list (dans votre code vous auriez pu utiliser [index](https://docs.python.org/fr/3/tutorial/datastructures.html) à la place de la boucle :
+- les [dictionnaires](https://web.archive.org/web/20200921044221/https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/232273-utilisez-des-dictionnaires) sont des structures très souples et hyper efficaces. Utilisez-les ! 9 fois sur 10 vous pouvez remplacer une boucle par une fonction prédéfinie de dict ou de list (dans votre code vous auriez pu utiliser [index](https://docs.python.org/fr/3/tutorial/datastructures.html) à la place de la boucle :
 
 ```
 i=liste_valeurs.index(variable)

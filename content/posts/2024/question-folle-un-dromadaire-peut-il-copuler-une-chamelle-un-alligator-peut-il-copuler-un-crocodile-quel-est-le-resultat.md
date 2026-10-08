@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Question-folle-Un-dromadaire-peut-il-copuler-une-chamelle-Un-alligator-peut-il-copuler-un-crocodile-Quel-est-le-r%C3%A9sultat/answer/Dr-Goulu)*
 
-Pour copuler, aucun problème, les animaux copulent avec n'importe quoi, il y a même [l'étrange cas du canard homosexuel nécrophile](https://www.lemonde.fr/sciences/article/2012/07/05/l-etrange-cas-du-canard-homosexuel-necrophile_1729741_1650684.html)..
+Pour copuler, aucun problème, les animaux copulent avec n'importe quoi, il y a même [l'étrange cas du canard homosexuel nécrophile](https://web.archive.org/web/20230930211055/https://www.lemonde.fr/sciences/article/2012/07/05/l-etrange-cas-du-canard-homosexuel-necrophile_1729741_1650684.html)..
 
 Pour que la copulation produise un rejeton viable, c'est plus compliqué: il faut un mâle et une femelle d'espèces "proches" , et qu'ils soient vivants…
 

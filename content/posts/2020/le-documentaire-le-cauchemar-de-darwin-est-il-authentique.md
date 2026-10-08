@@ -21,6 +21,6 @@ Ca signifie qu'il reflète plus l'opinion de son auteur que la réalité.
 
 Notes de bas de page
 
-[[1]](#cite-ujDYC)[Contre-enquête sur un cauchemar](https://www.lemonde.fr/cinema/article/2006/03/03/le-cauchemar-de-darwin-documentaire-culte-et-conteste_747203_3476.html)
+[[1]](#cite-ujDYC)[Contre-enquête sur un cauchemar](https://web.archive.org/web/20201214075454/https://www.lemonde.fr/cinema/article/2006/03/03/le-cauchemar-de-darwin-documentaire-culte-et-conteste_747203_3476.html)
 
 [[2]](#cite-mnwYt)[Enquête sur le cauchemar de Darwin de François Garçon - Editions Flammarion](https://editions.flammarion.com/Catalogue/hors-collection/enquete-sur-le-cauchemar-de-darwin)

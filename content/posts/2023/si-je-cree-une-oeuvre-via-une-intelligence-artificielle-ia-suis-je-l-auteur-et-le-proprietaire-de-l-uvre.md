@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 J'ai trouvé cet article très intéressant :
 
-[https://www.tlmr-avocats.com/la-...](https://www.tlmr-avocats.com/la-propriete-des-contenus-chatgpt/)
+[https://www.tlmr-avocats.com/la-...](https://web.archive.org/web/20230202203424/https://www.tlmr-avocats.com/la-propriete-des-contenus-chatgpt/)
 
 En résumé, d'après ce que j'en ai compris :
 
@@ -23,5 +23,5 @@ En résumé, d'après ce que j'en ai compris :
 
 L'article mentionne deux aspects particulièrement intéressants
 
-- L'analogie avec la photographie. Initialement les photos n'étaient pas considérées comme une oeuvre protégée par le droit d'auteur puisqu'il suffisait d'appuyer sur un bouton. Ca a changé avec l'augmentation des réglages de l'appareil. On pourrait donc considérer peu à peu qu'un chanson composée avec [Jukebox](https://openai.com/blog/jukebox/) pourrait être votre oeuvre …
+- L'analogie avec la photographie. Initialement les photos n'étaient pas considérées comme une oeuvre protégée par le droit d'auteur puisqu'il suffisait d'appuyer sur un bouton. Ca a changé avec l'augmentation des réglages de l'appareil. On pourrait donc considérer peu à peu qu'un chanson composée avec [Jukebox](https://web.archive.org/web/20230210214245/https://openai.com/blog/jukebox/) pourrait être votre oeuvre …
 - Mais dans ce cas, ce sont les auteurs des oeuvres protégées par le droit d'auteur qui ont été utilisées pour l'apprentissage de l'IA qui pourraient réclamer des droits. Et ça commence déjà devant les tribunaux américains.

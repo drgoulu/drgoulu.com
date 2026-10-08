@@ -32,4 +32,4 @@ Pour bien faire il faudrait multiplier la courbe ci-dessus par celle de l'espér
 
 Notes de bas de page
 
-[[1]](#cite-WfomH)[Quel est le nombre total de personnes ayant vécu sur la Terre ?](https://www.prb.org/people-ever-lived-fr/)
+[[1]](#cite-WfomH)[Quel est le nombre total de personnes ayant vécu sur la Terre ?](https://web.archive.org/web/20191118171533/https://www.prb.org/people-ever-lived-fr/)

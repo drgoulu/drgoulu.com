@@ -22,4 +22,4 @@ La [Fondation Wikimédia](w:)qui héberge Wikipedia et d'autres projets connexes
 
 Notes de bas de page
 
-[[1]](#cite-PGXSv)[https://www.ouest-france.fr/ledi...](https://www.ouest-france.fr/leditiondusoir/2021-01-15/apres-20-ans-dexistence-wikipedia-est-il-un-instrument-fiable-pour-lutter-contre-les-fake-news-d4b69b97-622e-481b-8780-f9768ecd8927)
+[[1]](#cite-PGXSv)[https://www.ouest-france.fr/ledi...](https://web.archive.org/web/20241113003453/https://www.ouest-france.fr/leditiondusoir/2021-01-15/apres-20-ans-dexistence-wikipedia-est-il-un-instrument-fiable-pour-lutter-contre-les-fake-news-d4b69b97-622e-481b-8780-f9768ecd8927)

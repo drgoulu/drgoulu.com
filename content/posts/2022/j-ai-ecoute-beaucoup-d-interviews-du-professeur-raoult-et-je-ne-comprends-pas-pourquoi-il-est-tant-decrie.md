@@ -21,6 +21,6 @@ Elizabeth Bik, chasseuse de fraudes scientifiques indépendante a trouvé plusie
 
 Raoult a commis la grave erreur de la poursuivre pour diffamation, ce qui fait que Bik a reçu le soutien de nombreux scientifiques (dont votre serviteur qui lui verse quelques euros par mois sur Patreon) et a pu trouver des irrégularités dans 63 articles de Raoult, et que d'autres chercheurs se sont mis à regarder ça de près et ont posé des questions concernant 255 articles
 
-[https://www.science.org/content/...](https://www.science.org/content/article/scientists-rally-around-misconduct-consultant-facing-legal-threat-after-challenging)
+[https://www.science.org/content/...](https://web.archive.org/web/20220907172226/https://www.science.org/content/article/scientists-rally-around-misconduct-consultant-facing-legal-threat-after-challenging)
 
 Donc en gros, Raoult est un beau parleur qui peut encore embobiner le grand public avec son discours assuré de grand ponte de naguère, mais d'un point de vue scientifique sa réputation est ruinée par son obstination à ne pas accepter la première loi de la science : " 99% du temps, tu te trompes" et son corollaire "alors ne trompe pas les autres".

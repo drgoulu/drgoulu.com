@@ -17,7 +17,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-les-%C3%A9tudes-scientifiques-comme-par-exemple-sur-lefficacit%C3%A9-dun-m%C3%A9dicament-sont-elles-payantes-%C3%A0-lacc%C3%A8s-Nest-il-pas-logique-de-vouloir-savoir-les-effets-et-de-conna%C3%AEtre-les/answer/Dr-Goulu)*
 
-Si vous êtes capables de les lire, alors vous avez en principe accès à une bibliothèque universitaire qui a accès à ces publications. Ou sinon vous pouvez en général trouver un article si vous en avez une référence précise, notamment sur [Google Scholar](https://scholar.google.com/) ou [ResearchGate](https://www.researchgate.net/), où vous pouvez même contacter les auteurs pour leur demander une copie de leur article.
+Si vous êtes capables de les lire, alors vous avez en principe accès à une bibliothèque universitaire qui a accès à ces publications. Ou sinon vous pouvez en général trouver un article si vous en avez une référence précise, notamment sur [Google Scholar](https://scholar.google.com/) ou [ResearchGate](https://web.archive.org/web/20200408000320/https://www.researchgate.net/), où vous pouvez même contacter les auteurs pour leur demander une copie de leur article.
 
 Les publications scientifiques sont le résultat du travail de gens qui veulent être payés pour ça. Puisque vous payez pour Le Monde ou Paris Match, il n'y a aucune raison que les publications scientifiques soient gratuites.
 

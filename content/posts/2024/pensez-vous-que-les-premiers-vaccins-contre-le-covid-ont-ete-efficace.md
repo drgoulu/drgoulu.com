@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Je ne pense pas, je sais lire et compter.
 
-[https://www.thelancet.com/journa...](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00320-6/fulltext)
+[https://www.thelancet.com/journa...](https://web.archive.org/web/20231008000756/https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00320-6/fulltext)
 
 démontre que les vaccins ont sauvé 20 millions de personnes en 2021

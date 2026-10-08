@@ -10,7 +10,7 @@ tags:
   - "video"
 ---
 
-Grâce à [Miro](/2008/03/09/le-futur-de-la-television-zattoo-miro-etc/), je viens de voir "[Bringing Down the Bolt](http://www.sciencefriday.com/video/06/04/2010/bringing-down-the-bolt.html)", un court reportage de Science Friday (SciFri pour les intimes) consacré à la foudre. Le passage le plus intéressant et spectaculaire concerne les travaux de Tom A. Warner de [ZTResearch](http://ztresearch.com/), qui est parvenu à faire des [films d'éclairs à haute vitesse](http://ztresearch.com/gallery/highspeed.html) montrant en particulier les "précurseurs" de la foudre :
+Grâce à [Miro](/2008/03/09/le-futur-de-la-television-zattoo-miro-etc/), je viens de voir "[Bringing Down the Bolt](https://web.archive.org/web/20121023130145/http://www.sciencefriday.com/video/06/04/2010/bringing-down-the-bolt.html)", un court reportage de Science Friday (SciFri pour les intimes) consacré à la foudre. Le passage le plus intéressant et spectaculaire concerne les travaux de Tom A. Warner de [ZTResearch](https://web.archive.org/web/20080915194052/http://ztresearch.com/), qui est parvenu à faire des [films d'éclairs à haute vitesse](https://web.archive.org/web/20080901022205/http://ztresearch.com/gallery/highspeed.html) montrant en particulier les "précurseurs" de la foudre :
 
 {{< youtube id="_1mB5rM8WHU" >}}
 

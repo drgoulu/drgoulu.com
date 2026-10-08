@@ -12,7 +12,7 @@ tags:
 coverImage: "./images/bd9992f49c372499f1597b1a6dc9f851.jpg"
 ---
 
-{{< figure src="./images/bd9992f49c372499f1597b1a6dc9f851.jpg" alt="La science du football" link="http://openlibrary.org/books/OL25426705M/La_science_du_football" >}}
+{{< figure src="./images/bd9992f49c372499f1597b1a6dc9f851.jpg" alt="La science du football" link="https://web.archive.org/web/20131208163438/http://openlibrary.org/books/OL25426705M/La_science_du_football" >}}
 
 Une blague dit que les femmes ne s'intéressent pas au football car elles ont tout compris à propos de ce jeu.  C'est mon cas aussi, surtout depuis la lecture du livre {{< openbook booknumber="ISBN:2701136008" templatenumber="5" >}}[](http://www.worldcat.org/title/science-du-football/oclc/56084567)
 

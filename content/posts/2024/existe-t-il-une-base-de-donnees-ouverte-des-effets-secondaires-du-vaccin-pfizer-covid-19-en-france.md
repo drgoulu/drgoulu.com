@@ -15,6 +15,6 @@ Un effet secondaire catastrophique du Covid-19 est la mort.
 
 Les vaccins ont permis d'éviter près de 20 millions de morts.
 
-[https://www.thelancet.com/journa...](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00320-6/fulltext)
+[https://www.thelancet.com/journa...](https://web.archive.org/web/20231008000756/https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00320-6/fulltext)
 
 Comment les antivax vont-ils se dépatouiller ? En niant ?

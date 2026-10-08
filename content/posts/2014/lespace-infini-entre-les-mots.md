@@ -46,11 +46,11 @@ Dans le livre "Systems Performance: Enterprise and the Cloud" [[2]](#ref-2) se 
 | Reboot d'un ordinateur virtualisé | 40 s | 4000 ans |
 | Reboot d'un ordinateur physique | 5 m | 32 millénaires |
 
-Les temps "internet" ci-dessus sont quelque peu optimistes. Si vous consultez [le tableau des temps de latence aux USA d'AT&T en temps réel](http://ipnetwork.bgtmo.ip.att.net/pws/network_delay.html), le temps de San Francisco à New-York est plutôt autour de 70ms. Je vais donc doubler les valeurs internet de ce tableau.
+Les temps "internet" ci-dessus sont quelque peu optimistes. Si vous consultez [le tableau des temps de latence aux USA d'AT&T en temps réel](https://web.archive.org/web/20140528162909/http://ipnetwork.bgtmo.ip.att.net/pws/network_delay.html), le temps de San Francisco à New-York est plutôt autour de 70ms. Je vais donc doubler les valeurs internet de ce tableau.
 
 La [latence](w:Latence_(informatique)) est une chose, mais il faut aussi considérer [le coût de cette bande passante](http://blog.codinghorror.com/the-economics-of-bandwidth/).
 
-A ce propos, le grand [Jim Gray](w:James_Gray_(informaticien)), avait une [intéressante manière d'expliquer ceci](http://loci.cs.utk.edu/dsi/netstore99/docs/presentations/keynote/sld023.htm) [[3]](#ref-3). Si on ramène ces temps à des distances où se trouvent les données à accéder, alors un accès à un disque est équivalent à chercher des données sur Pluton.
+A ce propos, le grand [Jim Gray](w:James_Gray_(informaticien)), avait une [intéressante manière d'expliquer ceci](https://web.archive.org/web/20140521180128/http://loci.cs.utk.edu/dsi/netstore99/docs/presentations/keynote/sld023.htm) [[3]](#ref-3). Si on ramène ces temps à des distances où se trouvent les données à accéder, alors un accès à un disque est équivalent à chercher des données sur Pluton.
 
 ![](./images/9f9369fc325a87b3c40a63c352f2bf42.png)
 
@@ -73,4 +73,4 @@ Pour les ordinateurs, nous autres humains vivons dans une échelle de temps tota
 
 1. <span id="ref-1"></span>Jeff Atwood, "[The Infinite Space Between Words](http://blog.codinghorror.com/the-infinite-space-between-words/)", 2014, Coding Horror
 2. <span id="ref-2"></span>{{< openbook booknumber="ISBN:9780133390094" templatenumber="5" >}}
-3. <span id="ref-3"></span>Jim Gray, "[When every disk is a supercomputer, then what?](http://loci.cs.utk.edu/dsi/netstore99/docs/presentations/keynote/NetStore-keynote-Gray-JG-BC-3-linked.html)", 1999, [Netstore '99](http://loci.cs.utk.edu/dsi/netstore99/)
+3. <span id="ref-3"></span>Jim Gray, "[When every disk is a supercomputer, then what?](https://web.archive.org/web/20060911230402/http://loci.cs.utk.edu/dsi/netstore99/docs/presentations/keynote/NetStore-keynote-Gray-JG-BC-3-linked.html)", 1999, [Netstore '99](https://web.archive.org/web/20210224155728/http://loci.cs.utk.edu/dsi/netstore99/)

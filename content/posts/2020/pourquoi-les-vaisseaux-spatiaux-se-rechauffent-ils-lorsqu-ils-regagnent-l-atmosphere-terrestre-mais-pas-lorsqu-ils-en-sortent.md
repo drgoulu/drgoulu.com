@@ -17,6 +17,6 @@ Ils rentrent vraiment beaucoup plus vite.
 
 Notes de bas de page
 
-[[1]](#cite-OsZas)[Le décollage](https://www2.istp.org/StudentsCorner/CoinDesEnfants98-99/ClassProj/CM2Stephane/WEBGENERAL9899/StudentWeb/BenjaminWeb/Ariane2.html)
+[[1]](#cite-OsZas)[Le décollage](https://web.archive.org/web/20210117130440/https://www2.istp.org/StudentsCorner/CoinDesEnfants98-99/ClassProj/CM2Stephane/WEBGENERAL9899/StudentWeb/BenjaminWeb/Ariane2.html)
 
-[[2]](#cite-oJKEa)[La descente : 70 minutes à haut risque](https://www.lesechos.fr/2003/02/la-descente-70-minutes-a-haut-risque-658981)
+[[2]](#cite-oJKEa)[La descente : 70 minutes à haut risque](https://web.archive.org/web/20200830/https://www.lesechos.fr/2003/02/la-descente-70-minutes-a-haut-risque-658981)

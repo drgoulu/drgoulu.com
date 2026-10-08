@@ -26,4 +26,4 @@ Merci et bravo à l'industrie pharmaceutique qui a réussi un exploit unique dan
 
 Notes de bas de page
 
-[[1]](#cite-UzXpp)[Heart Problems after COVID-19](https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/heart-problems-after-covid19)
+[[1]](#cite-UzXpp)[Heart Problems after COVID-19](https://web.archive.org/web/20230502033212/https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/heart-problems-after-covid19)

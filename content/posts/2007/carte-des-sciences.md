@@ -11,7 +11,7 @@ tags:
 coverImage: "./images/8b3bb20fb8f3eb1ec921bc421cfdecd0.jpg"
 ---
 
-Le magazine [Discover](http://discovermagazine.com/) publie dans l'article [Map: Science’s Family Tree](http://discovermagazine.com/2007/jun/map-science2019s-family-tree) une "carte des Sciences" due à [W.B. Paley](http://wbpaley.com), Kevin Boyack et Dick Klavans de l'Université de Columbia. Ils ont représenté les références entre 80'000 articles scientifiques répartis en 776 domaines dans ce superbe graphe _(cliquer dessus pour l'agrandir)_ :
+Le magazine [Discover](http://discovermagazine.com/) publie dans l'article [Map: Science’s Family Tree](https://web.archive.org/web/20070603080324/http://discovermagazine.com/2007/jun/map-science2019s-family-tree) une "carte des Sciences" due à [W.B. Paley](https://web.archive.org/web/20070605213214/http://wbpaley.com), Kevin Boyack et Dick Klavans de l'Université de Columbia. Ils ont représenté les références entre 80'000 articles scientifiques répartis en 776 domaines dans ce superbe graphe _(cliquer dessus pour l'agrandir)_ :
 
 {{< figure src="./images/8b3bb20fb8f3eb1ec921bc421cfdecd0.jpg" alt="cliquer pour agrandir (beaucoup)" caption="cliquer pour agrandir (beaucoup)" link="./images/8b3bb20fb8f3eb1ec921bc421cfdecd0.jpg" align="aligncenter" width="601" >}}
 

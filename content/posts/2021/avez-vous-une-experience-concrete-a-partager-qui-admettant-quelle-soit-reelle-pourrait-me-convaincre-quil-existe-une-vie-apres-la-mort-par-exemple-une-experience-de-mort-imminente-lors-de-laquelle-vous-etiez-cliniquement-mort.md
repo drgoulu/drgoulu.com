@@ -26,6 +26,6 @@ Profitez un max de la vie, jusqu'à la dernière seconde.
 
 Notes de bas de page
 
-[[1]](#cite-SGwpF)[Out‐of‐body experience and autoscopy of neurological origin](https://academic.oup.com/brain/article/127/2/243/347826)
+[[1]](#cite-SGwpF)[Out‐of‐body experience and autoscopy of neurological origin](https://web.archive.org/web/20210301141224/https://academic.oup.com/brain/article/127/2/243/347826)
 
 [[2]](#cite-tPaUb)[James Randi au TED - Pourquoi Comment Combien](/2010/04/25/james-randi-au-ted/#.YD87vWhsOCo)

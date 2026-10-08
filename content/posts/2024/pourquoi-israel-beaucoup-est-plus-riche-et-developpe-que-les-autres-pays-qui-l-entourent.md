@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 > Selon un récent rapport du ministère des Affaires de la Diaspora, **les Juifs de la Diaspora sont une source d'environ 58 milliards de shekels, ce qui représente 6,35 % du PIB du pays**.
 
-Source : [https://fr.timesofisrael.com/la-...](https://fr.timesofisrael.com/la-crise-avec-le-monde-juif-pourrait-couter-des-milliards-a-israel/)
+Source : [https://fr.timesofisrael.com/la-...](https://web.archive.org/web/20240619233322/https://fr.timesofisrael.com/la-crise-avec-le-monde-juif-pourrait-couter-des-milliards-a-israel/)

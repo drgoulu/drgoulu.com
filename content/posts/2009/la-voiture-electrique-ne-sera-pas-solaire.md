@@ -20,7 +20,7 @@ S'il devient techniquement possible de réaliser des [voitures électriques perf
 
 Certains imaginent que l'énergie solaire pourrait être une solution, mais ils oublient de tenir compte de quelques éléments essentiels:
 
-- le prix de l'électricité sur le [marché européen](http://www.powernext.fr/) varie d'un facteur 3 à 10 (!) chaque jour : entre 3h et 6h du matin, la surproduction des centrales thermiques (et nucléaires) est disponible à très bas prix, alors que la puissance est très recherchée lors des pointes de midi et du début de soirée.
+- le prix de l'électricité sur le [marché européen](https://web.archive.org/web/20090318052346/http://www.powernext.fr/) varie d'un facteur 3 à 10 (!) chaque jour : entre 3h et 6h du matin, la surproduction des centrales thermiques (et nucléaires) est disponible à très bas prix, alors que la puissance est très recherchée lors des pointes de midi et du début de soirée.
 
 {{< figure src="./images/142565195b93f184c11358f0b1a0ba85.png" alt="powernext" caption="\]" align="aligncenter" width="462" >}}
 
@@ -38,5 +38,5 @@ Mais n'en déplaise à mes compatriotes de [Rinspeed](http://www.motorlegend.com
 
 ### Sources:
 
-1. [Powernext.fr](http://www.powernext.fr/) : il suffit de s'inscrire (gratuit) pour obtenir les prix de l'électricité heure par heure depuis 2001
-2. Blog "[Outils solaires](http://outilssolaires.blog.ca/)"
+1. [Powernext.fr](https://web.archive.org/web/20090318052346/http://www.powernext.fr/) : il suffit de s'inscrire (gratuit) pour obtenir les prix de l'électricité heure par heure depuis 2001
+2. Blog "[Outils solaires](https://web.archive.org/web/20090314111940/http://outilssolaires.blog.ca/)"

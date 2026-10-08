@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Oui, c'est du méthane et ça peut même exploser dans vos intestins lors d'une coloscopie :
 
-Spiros D Ladas, George Karamanolis, Emmanuel Ben-Soussan, “Colonic Gas Explosion During Therapeutic Colonoscopy with Electrocautery,” , World Journal of Gastroenterology, vol. 13, no. 40, October 2007, pp. 5295–8. DOI : [10.3748/wjg.v13.i40.5295](https://dx.doi.org/10.3748/wjg.v13.i40.5295)
+Spiros D Ladas, George Karamanolis, Emmanuel Ben-Soussan, “Colonic Gas Explosion During Therapeutic Colonoscopy with Electrocautery,” , World Journal of Gastroenterology, vol. 13, no. 40, October 2007, pp. 5295–8. DOI : [10.3748/wjg.v13.i40.5295](https://web.archive.org/web/20211104033924/https://dx.doi.org/10.3748/wjg.v13.i40.5295)
 
 Heureusement, ces valeureux scientifiques français ont développé une technique pour éviter ce risque et ont obtenu un Prix IgNobel pour cela :
 

@@ -22,4 +22,4 @@ Le taux de suicide est notoirement difficile à mesurer, il y a beaucoup de cult
 
 Notes de bas de page
 
-[[1]](#cite-eGWec)[Do we need to be cautious in evaluating suicide statistics?](https://academic.oup.com/eurpub/article/16/4/445/644396)
+[[1]](#cite-eGWec)[Do we need to be cautious in evaluating suicide statistics?](https://web.archive.org/web/20210604142356/https://academic.oup.com/eurpub/article/16/4/445/644396)

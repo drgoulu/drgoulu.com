@@ -17,6 +17,6 @@ Il ne faut pas se fier à la longueur ou surface de glace, mais à son volume.
 
 La fonte des glaciers de l'Antarctique refroidit les eaux de surface de l'océan austral, ce qui favorise la formation de la banquise. (mais en profondeur, cet océan se réchauffe, comme les autres)
 
-[L’océan Austral fait monter la température | Surfrider Foundation Europe](https://surfrider.eu/sinformer/actualites/locean-austral-fait-monter-temperature-121204215168.html)
+[L’océan Austral fait monter la température | Surfrider Foundation Europe](https://web.archive.org/web/20210517200635/https://surfrider.eu/sinformer/actualites/locean-austral-fait-monter-temperature-121204215168.html)
 
-[Pourquoi la fonte des glaces de l’Antarctique inquiète autant les scientifiques](https://www.liberation.fr/planete/2019/02/24/pourquoi-la-fonte-des-glaces-de-l-antarctique-inquiete-autant-les-scientifiques_1710287/)
+[Pourquoi la fonte des glaces de l’Antarctique inquiète autant les scientifiques](https://web.archive.org/web/20211215183956/https://www.liberation.fr/planete/2019/02/24/pourquoi-la-fonte-des-glaces-de-l-antarctique-inquiete-autant-les-scientifiques_1710287/)

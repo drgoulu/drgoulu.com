@@ -46,7 +46,7 @@ l'Encyclopédie des suites nous apprend que [1548 appartient à pas moins de 115
     - 1548^3= 3709478592 = 68694048 x (3+7+0+9+4+7+8+5+9+2)
     - 1548^4=5742272860416 = 106338386304 x (5+7+4+2+2+7+2+8+6+0+4+1+6)
     - (ça ne joue plus avec 1548^5...)
-- [A112557](http://oeis.org/A112557 "Smallest number of stones in Tchoukaillon (or Mancala, or Kalahari) solitaire which make use of (2*n-1)-th hole for n>=1; a bise") : Plus petit nombre de pierres au [Tchoukaillon](http://mancala.wikia.com/wiki/Tchoukaillon) qui utilise le (2\*n-1)-ème trou
+- [A112557](http://oeis.org/A112557 "Smallest number of stones in Tchoukaillon (or Mancala, or Kalahari) solitaire which make use of (2*n-1)-th hole for n>=1; a bise") : Plus petit nombre de pierres au [Tchoukaillon](https://web.archive.org/web/20111027101431/http://mancala.wikia.com/wiki/Tchoukaillon) qui utilise le (2\*n-1)-ème trou
 - et autres folies de mathématiciens
 
 Mais il est vrai qu'avec 115 résultats, 1548 a peu de propriétés, nettement moins que  ses voisins 1547 (151) et que 1549 (304) par exemple. C'est un nombre que je qualifierais de "faiblement minéralisé" plutôt que d'acratopège.

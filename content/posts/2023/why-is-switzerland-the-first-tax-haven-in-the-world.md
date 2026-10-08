@@ -16,4 +16,4 @@ As a banker stated it here once , [Banking secrecy in Switzerland](w:en:Banking_
 
 Footnotes
 
-[[1]](#cite-yFyxI)[Billionaire Enabler States: How U.S. States Captured by the Trust Industry Help the World’s Wealthy Hide Their Fortunes - Institute for Policy Studies](https://ips-dc.org/release-billionaire-enabler-states/)
+[[1]](#cite-yFyxI)[Billionaire Enabler States: How U.S. States Captured by the Trust Industry Help the World’s Wealthy Hide Their Fortunes - Institute for Policy Studies](https://web.archive.org/web/20230325054830/https://ips-dc.org/release-billionaire-enabler-states/)

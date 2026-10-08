@@ -24,7 +24,7 @@ Une des variantes de ceci est la [Causal dynamical triangulation](w:en:Causal_dy
 
 [https://www.youtube.com/watch?v=...](https://www.youtube.com/watch?v=lzJpC78zduo)
 
-(Représentations graphiques de la triangulation dynamique causale d’un espace à 2 dimensions. voir la [page de Timothy Budd](http://www.nbi.dk/~budd/).)
+(Représentations graphiques de la triangulation dynamique causale d’un espace à 2 dimensions. voir la [page de Timothy Budd](https://web.archive.org/web/20190915065132/http://www.nbi.dk/~budd/).)
 
 Une autre est la [Graphité (sic) quantique](w:en:Event_symmetry). Dans ces approches, l'espace-temps peut être vu comme un graphe qui connecte les endroits de l'espace liés causalement.
 

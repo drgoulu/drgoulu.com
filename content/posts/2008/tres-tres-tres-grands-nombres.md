@@ -16,7 +16,7 @@ Quel est le plus grand nombre entier que vous pouvez exprimer ? neuf milliards d
 
 > ( J’ai trouvé une merveilleuse démonstration de cette proposition. Mais la marge est trop étroite pour la contenir. DrG et [PdF](w:Dernier_théorème_de_Fermat#énoncé_de_Fermat))
 
-A priori, de tels nombres n'ont aucune utilité : ils sont beaucoup [plus grands que le nombre de particules dans l'Univers](http://yoda.guillaume.pagesperso-orange.fr/N10P6/N10P20.htm) mais pourraient être intéressants tout de même :
+A priori, de tels nombres n'ont aucune utilité : ils sont beaucoup [plus grands que le nombre de particules dans l'Univers](https://web.archive.org/web/20100801113912/http://yoda.guillaume.pagesperso-orange.fr/N10P6/N10P20.htm) mais pourraient être intéressants tout de même :
 
 > Le problème avec les entiers est que nous avons seulement examiné les plus petits. Il se pourrait que les choses les plus extraordinaires arrivent pour des entiers réellement grands, ceux que l'on ne peut appréhender ou qu'on n'a simplement pas commencé à concevoir de manière très précise
 

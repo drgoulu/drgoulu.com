@@ -34,4 +34,4 @@ Notes de bas de page
 
 [[1]](#cite-LWKph)[Equateur – Un volcan, point le plus éloigné du centre de la Terre](https://www.24heures.ch/savoirs/sciences/volcan-point-eloigne-centre-terre/story/11400490)
 
-[[2]](#cite-CVYLA)[How Flat Can A Planet Be?](https://www.forbes.com/sites/startswithabang/2017/02/14/how-flat-can-a-planet-be/)
+[[2]](#cite-CVYLA)[How Flat Can A Planet Be?](https://web.archive.org/web/20210805013640/https://www.forbes.com/sites/startswithabang/2017/02/14/how-flat-can-a-planet-be/)

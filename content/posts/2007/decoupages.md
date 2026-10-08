@@ -9,9 +9,9 @@ coverImage: "./images/decoupage1.gif"
 
 Dans l'art du découpage, je connaissais ça :
 
-![](./images/decoupage1.gif) _(oeuvre d'[Anne-Marie Vallotton - Saugy](http://www.decoupage.ch/fr/presentation_fr/page_principale.htm))_
+![](./images/decoupage1.gif) _(oeuvre d'[Anne-Marie Vallotton - Saugy](https://web.archive.org/web/20071119031409/http://www.decoupage.ch/fr/presentation_fr/page_principale.htm))_
 
-Là je viens de tomber sur le travail de [Jen Stark.](http://www.jenstark.com/index.html) C'est plus ... comment dire ... coloré ?
+Là je viens de tomber sur le travail de [Jen Stark.](https://web.archive.org/web/20071012051531/http://www.jenstark.com/index.html) C'est plus ... comment dire ... coloré ?
 
 ![](./images/CoriolisEffect.jpg)
 

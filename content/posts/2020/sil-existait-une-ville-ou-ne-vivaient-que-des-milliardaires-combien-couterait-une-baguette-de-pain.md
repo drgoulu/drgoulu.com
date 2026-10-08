@@ -18,7 +18,7 @@ coverImage: ./images/qimg-2f378a82f97af69c7e16289a6a9535b6.jpg
 
 Il était une fois un pays entier peuplé de milliardaires : le Zimbabwe.
 
-En 2009, la banque centrale y a imprimé des [billets de cent mille milliards de dollars zimbabweens](https://www.lemonde.fr/afrique/article/2009/01/16/un-billet-de-cent-mille-milliards-de-dollars-au-zimbabwe_1142680_3212.html) :
+En 2009, la banque centrale y a imprimé des [billets de cent mille milliards de dollars zimbabweens](https://web.archive.org/web/20191216103904/https://www.lemonde.fr/afrique/article/2009/01/16/un-billet-de-cent-mille-milliards-de-dollars-au-zimbabwe_1142680_3212.html) :
 
 ![](./images/qimg-2f378a82f97af69c7e16289a6a9535b6.jpg)
 

@@ -35,8 +35,8 @@ Je vous recommande très vivement les vidéos du regretté Hans Rosling qui chan
 
 Une des premières, "Les meilleures statistiques jamais vues", montre que le Tiers-Monde a disparu :
 
-[https://www.ted.com/talks/hans_r...](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=fr)
+[https://www.ted.com/talks/hans_r...](https://web.archive.org/web/20220609194014/https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=fr)
 
 Sur la transition démographique et les différences culturelles (s'il y en a…) il y a "Religions et bébés"
 
-[https://www.ted.com/talks/hans_r...](https://www.ted.com/talks/hans_rosling_religions_and_babies?language=fr)
+[https://www.ted.com/talks/hans_r...](https://web.archive.org/web/20220510201548/https://www.ted.com/talks/hans_rosling_religions_and_babies?language=fr)

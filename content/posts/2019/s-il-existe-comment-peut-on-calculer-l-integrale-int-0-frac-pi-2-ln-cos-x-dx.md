@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/S-il-existe-comment-peut-on-calculer-l-int%C3%A9grale-int-0-frac-pi-2-ln-cos-x-dx/answer/Dr-Goulu)*
 
-Sans se fatiguer ? avec [Wolfram Alpha](https://www.wolframalpha.com/input/?i=integral+from+0+to+pi/2+ln(cos(x))dx)
+Sans se fatiguer ? avec [Wolfram Alpha](https://web.archive.org/web/20191123/https://www.wolframalpha.com/input/?i=integral+from+0+to+pi/2+ln(cos(x))dx)

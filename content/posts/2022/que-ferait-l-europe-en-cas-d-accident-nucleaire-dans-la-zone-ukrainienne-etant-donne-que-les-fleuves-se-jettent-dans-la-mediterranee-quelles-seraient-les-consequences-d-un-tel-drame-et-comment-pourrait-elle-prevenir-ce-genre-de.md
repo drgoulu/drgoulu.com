@@ -19,8 +19,8 @@ coverImage: ./images/quora.png
 
 Tchernobyl est en Ukraine, donc les réponses à votre question sont que c'est déjà arrivé, et qu'à part dans les environs immédiats, la pollution de l'eau n'a pas dépassé les niveaux dangereux. [[1]](#maDsl)
 
-[https://www.lemonde.fr/big-brows...](https://www.lemonde.fr/big-browser/article/2019/08/08/atomik-vodka-la-premiere-vodka-made-in-tchernobyl_5497776_4832693.html)
+[https://www.lemonde.fr/big-brows...](https://web.archive.org/web/20211128063056/https://www.lemonde.fr/big-browser/article/2019/08/08/atomik-vodka-la-premiere-vodka-made-in-tchernobyl_5497776_4832693.html)
 
 Notes de bas de page
 
-[[1]](#cite-maDsl)[L'eau de robinet de Tchernobyl: boire ou ne pas boire?](https://chernobyl-exclusive-tours.com/fr/blog/kranowka-z-czarnobyla-pic-czy-nie-pic)
+[[1]](#cite-maDsl)[L'eau de robinet de Tchernobyl: boire ou ne pas boire?](https://web.archive.org/web/20220329/https://chernobyl-exclusive-tours.com/fr/blog/kranowka-z-czarnobyla-pic-czy-nie-pic)

@@ -25,4 +25,4 @@ C'est pour son explication de l'effet photoélectrique
 
 Références:
 
-1. Einstein, A. (1905). Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt. *Annalen Der Physik*, *322*(6). [https://doi.org/10.1002/andp.190...](https://doi.org/10.1002/andp.19053220607)
+1. Einstein, A. (1905). Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt. *Annalen Der Physik*, *322*(6). [https://doi.org/10.1002/andp.190...](https://web.archive.org/web/20220601171125/https://doi.org/10.1002/andp.19053220607)

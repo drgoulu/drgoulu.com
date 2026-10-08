@@ -25,7 +25,7 @@ Ce qu'il faut bien comprendre, c'est qu'il n'y a pas de frontière claire entre 
 
 Références
 
-1. Becker, S., Feldmann, J., Wiedemann, S., Okamura, H., Schneider, C., Iwan, K., Crisp, A., Rossa, M., Amatov, T., & Carell, T. (2019). [Unified prebiotically plausible synthesis of pyrimidine and purine RNA ribonucleotides](https://www.science.org/doi/10.1126/science.aax2747). *Science*, *366*(6461), 76–82.
+1. Becker, S., Feldmann, J., Wiedemann, S., Okamura, H., Schneider, C., Iwan, K., Crisp, A., Rossa, M., Amatov, T., & Carell, T. (2019). [Unified prebiotically plausible synthesis of pyrimidine and purine RNA ribonucleotides](https://web.archive.org/web/20230509131149/https://www.science.org/doi/10.1126/science.aax2747). *Science*, *366*(6461), 76–82.
 2. Robertson, M. P., & Joyce, G. F. (2014). [Highly Efficient Self-Replicating RNA Enzymes](https://doi.org/10.1016/j.chembiol.2013.12.004) *Chemistry and Biology*, *21*(2), 238–245.
 3. [Hypothèse du monde à ARN — Wikipédia](w:Hypothèse_du_monde_à_ARN)
 
@@ -45,6 +45,6 @@ Ce qu'il faut bien comprendre, c'est qu'il n'y a pas de frontière claire entre 
 
 Références
 
-1. Becker, S., Feldmann, J., Wiedemann, S., Okamura, H., Schneider, C., Iwan, K., Crisp, A., Rossa, M., Amatov, T., & Carell, T. (2019). [Unified prebiotically plausible synthesis of pyrimidine and purine RNA ribonucleotides](https://www.science.org/doi/10.1126/science.aax2747). *Science*, *366*(6461), 76–82.
+1. Becker, S., Feldmann, J., Wiedemann, S., Okamura, H., Schneider, C., Iwan, K., Crisp, A., Rossa, M., Amatov, T., & Carell, T. (2019). [Unified prebiotically plausible synthesis of pyrimidine and purine RNA ribonucleotides](https://web.archive.org/web/20230509131149/https://www.science.org/doi/10.1126/science.aax2747). *Science*, *366*(6461), 76–82.
 2. Robertson, M. P., & Joyce, G. F. (2014). [Highly Efficient Self-Replicating RNA Enzymes](https://doi.org/10.1016/j.chembiol.2013.12.004) *Chemistry and Biology*, *21*(2), 238–245.
 3. [Hypothèse du monde à ARN — Wikipédia](w:Hypothèse_du_monde_à_ARN)

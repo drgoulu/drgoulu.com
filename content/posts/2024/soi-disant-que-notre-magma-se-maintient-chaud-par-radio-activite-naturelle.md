@@ -30,4 +30,4 @@ Donc voilà, la réalité est peut-être "comique" pour vous, mais jusqu'à ce q
 
 Notes de bas de page
 
-[[1]](#cite-IKbnf)[https://www.sciencedirect.com/sc...](https://www.sciencedirect.com/science/article/abs/pii/S0012821X08007711)
+[[1]](#cite-IKbnf)[https://www.sciencedirect.com/sc...](https://web.archive.org/web/20240422211636/https://www.sciencedirect.com/science/article/abs/pii/S0012821X08007711)

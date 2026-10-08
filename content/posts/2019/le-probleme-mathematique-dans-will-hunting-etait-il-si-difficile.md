@@ -16,7 +16,7 @@ coverImage: ./images/qimg-ffcaee595583ef13415c4c9bae026fff.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Le-probl%C3%A8me-math%C3%A9matique-dans-Will-Hunting-%C3%A9tait-il-si-difficile/answer/Dr-Goulu)*
 
-J'avais oublié le problème, mais en fait il y en a deux, décrits avec solution dans [The Math Problems from Good Will Hunting, w/ solutions](https://medium.com/cantors-paradise/the-math-problems-from-good-will-hunting-w-solutions-b081895bf379)
+J'avais oublié le problème, mais en fait il y en a deux, décrits avec solution dans [The Math Problems from Good Will Hunting, w/ solutions](https://web.archive.org/web/20190930172020/https://medium.com/cantors-paradise/the-math-problems-from-good-will-hunting-w-solutions-b081895bf379)
 
 **Le premier problème** concerne ce graphe:
 

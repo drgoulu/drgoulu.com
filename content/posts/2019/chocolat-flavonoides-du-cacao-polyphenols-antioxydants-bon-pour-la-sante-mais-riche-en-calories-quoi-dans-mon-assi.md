@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://cafedessciences.quora.com/Chocolat-flavonoïdes-du-cacao-polyphénols-antioxydants-bon-pour-la-santé-mais-riche-en-calories-Quoi-dans-mon-assi)*
 
-[https://quoidansmonassiette.fr/c...](https://quoidansmonassiette.fr/chocolat-flavonoides-cacao-bon-sante-flavanols-polyphenols-antioxydants-calories/)
+[https://quoidansmonassiette.fr/c...](https://web.archive.org/web/20190427021038/https://quoidansmonassiette.fr/chocolat-flavonoides-cacao-bon-sante-flavanols-polyphenols-antioxydants-calories/)

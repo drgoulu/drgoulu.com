@@ -24,4 +24,4 @@ Rendement : 0.
 
 Notes de bas de page
 
-[[1]](#cite-ABDqu)[National Ignition Facility surpasses long-awaited fusion milestone](https://physicstoday.scitation.org/do/10.1063/PT.6.2.20221213a/full/)
+[[1]](#cite-ABDqu)[National Ignition Facility surpasses long-awaited fusion milestone](https://web.archive.org/web/20221219092616/https://physicstoday.scitation.org/do/10.1063/PT.6.2.20221213a/full/)

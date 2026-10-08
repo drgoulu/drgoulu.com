@@ -21,4 +21,4 @@ fib(N, Value) :-
 
 ```
 
-Source : [Rosetta Code](https://rosettacode.org/wiki/Category:Prolog), le site à connaître pour ce genre de questions
+Source : [Rosetta Code](https://web.archive.org/web/20211216034955/https://rosettacode.org/wiki/Category:Prolog), le site à connaître pour ce genre de questions

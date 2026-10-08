@@ -14,4 +14,4 @@ Trouvé cette "carte du Web pensée différemment“ représentant les sites les
 
  [![](./images/2d4ed4f151bab936f56712758a9e1978.gif) _(cliquez pour ouvrir un plan interactif)_](http://www.informationarchitects.jp/en/)
 
-Des images de différents formats et même un screensaver pour Mac peuvent être obtenus sur [cette page](http://www.informationarchitects.jp/en/ia-trendmap-2007v2/), qui comporte beaucoup d'informations (en anglais) sur cette carte très bien faite.
+Des images de différents formats et même un screensaver pour Mac peuvent être obtenus sur [cette page](https://web.archive.org/web/20100923102254/http://www.informationarchitects.jp/en/ia-trendmap-2007v2/), qui comporte beaucoup d'informations (en anglais) sur cette carte très bien faite.

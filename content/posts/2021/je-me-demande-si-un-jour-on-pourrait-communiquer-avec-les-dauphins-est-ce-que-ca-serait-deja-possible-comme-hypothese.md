@@ -28,10 +28,10 @@ et qui permet des dialogues à très haut débit d'information
 
 ![](./images/qimg-9d3345e22e51c623062567b2f0ba73a8.jpg)
 
-[https://medium.com/predict/how-c...](https://medium.com/predict/how-complex-is-dolphins-communication-9b77065e313d)
+[https://medium.com/predict/how-c...](https://web.archive.org/web/20210508180058/https://medium.com/predict/how-complex-is-dolphins-communication-9b77065e313d)
 
 Le fait est que les dauphins comprennent assez facilement des phrases assez complexes de notre langage, mais nous ne comprenons que dalle au leur.
 
 Notes de bas de page
 
-[[1]](#cite-RstrO)[Baby dolphins babble when they learn language, just like humans do](https://www.pri.org/stories/2019-06-13/baby-dolphins-babble-when-they-learn-language-just-humans-do)
+[[1]](#cite-RstrO)[Baby dolphins babble when they learn language, just like humans do](https://web.archive.org/web/20210303030839/https://www.pri.org/stories/2019-06-13/baby-dolphins-babble-when-they-learn-language-just-humans-do)

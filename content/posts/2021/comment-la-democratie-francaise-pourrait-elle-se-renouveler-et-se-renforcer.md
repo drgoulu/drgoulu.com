@@ -32,6 +32,6 @@ On a ça, et ça marche. Très bien même, depuis 60 ans, parce que le [premier 
 
 Notes de bas de page
 
-[[1]](#cite-VUyTn)[La démocratie directe](https://www.eda.admin.ch/aboutswitzerland/fr/home/politik/uebersicht/direkte-demokratie.html)
+[[1]](#cite-VUyTn)[La démocratie directe](https://web.archive.org/web/20210421150654/https://www.eda.admin.ch/aboutswitzerland/fr/home/politik/uebersicht/direkte-demokratie.html)
 
 [[2]](#cite-jMHkw)[Initiatives populaires - Pourquoi Comment Combien](/2009/12/13/initiatives-populaires/#.YC0I0WhsOCo)

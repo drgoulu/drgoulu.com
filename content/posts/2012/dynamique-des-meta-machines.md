@@ -40,7 +40,7 @@ La solution a été d’utiliser un “[observateur d’état”](w:Observateur_
 Références:
 
 1. {{< openbook booknumber="ISBN:9780072824032" templatenumber="5" >}}
-2. Philippe Guglielmetti, Michel Siegenthaler, Thomas Mayer, Alex Mann "[Method for manufacturing a multi-layer composite, arrangement for positioning a sheet-like element onto a backing in a laminating unit and laminating unit](https://data.epo.org/publication-server/getpdf.jsp?pn=2305463&ki=A1&cc=EP)" 2011, Patent EP 2 305 463 A1
+2. Philippe Guglielmetti, Michel Siegenthaler, Thomas Mayer, Alex Mann "[Method for manufacturing a multi-layer composite, arrangement for positioning a sheet-like element onto a backing in a laminating unit and laminating unit](https://web.archive.org/web/20121125/https://data.epo.org/publication-server/getpdf.jsp?pn=2305463&ki=A1&cc=EP)" 2011, Patent EP 2 305 463 A1
 3. - Publié le 4 avril 2011
     
     Inventeurs :

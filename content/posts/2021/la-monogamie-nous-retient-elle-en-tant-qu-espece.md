@@ -22,6 +22,6 @@ En passant, notre monogamie n'est que sociale, et locale. Dans les faits la [pol
 
 Je vous recommande vivement la lecture de ces très instructifs et hilarants articles d'un spécialiste, mon pote Homo Fabulus :
 
-1. [L'Homme est-il un polygame refoulé ? Partie 1 : parasitisme sexuel](http://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/)
-2. [L'humain est-il un polygame refoulé ? Partie 2/3 : la monogamie en série.](http://homofabulus.com/homme-polygamie-partie-2-monogamie-en-serie/)
+1. [L'Homme est-il un polygame refoulé ? Partie 1 : parasitisme sexuel](https://web.archive.org/web/20210120091010/http://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/)
+2. [L'humain est-il un polygame refoulé ? Partie 2/3 : la monogamie en série.](https://web.archive.org/web/20201124231033/http://homofabulus.com/homme-polygamie-partie-2-monogamie-en-serie/)
 3. [L’Homme est-il un polygame refoulé ? Partie 3/3 : écologie, culture et Dr House](https://www.cafe-sciences.org/lhomme-est-il-un-polygame-refoule-partie-33-ecologie-culture-et-dr-house/)

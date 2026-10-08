@@ -34,7 +34,7 @@ coverImage: ./images/quora.png
 > - s’abstenir de fournir des mercenaires aux belligérants
 > - s’abstenir de mettre son territoire à disposition des belligérants
 
-([La neutralité et les sanctions de la Suisse](https://www.eda.admin.ch/missions/mission-eu-brussels/fr/home/dossiers-prioritaires/neutralitaet-der-schweiz.html))
+([La neutralité et les sanctions de la Suisse](https://web.archive.org/web/20250803073822/https://www.eda.admin.ch/missions/mission-eu-brussels/fr/home/dossiers-prioritaires/neutralitaet-der-schweiz.html))
 
 Donc oui. La Suisse peut parfaitement être neutre au sens du droit international et appliquer des sanctions contre un pays agresseur, qui viole à peu près tous les traités internationaux qu'il a signé et qui menace clairement la paix en Europe.
 

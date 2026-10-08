@@ -36,5 +36,5 @@ Note \*: et de [deux](/2009/09/11/problemes-de-sante/) imparfaits du subjonctif 
 ### Sources:
 
 1. [Hélium](w:) sur la Wikipédia
-2. [Epuisement du stock d Hélium](http://www.imaginascience.com/actualites/accueil_actualites.php?action=fullnews&showcomments=1&id=329) sur imaginascience
+2. [Epuisement du stock d Hélium](https://web.archive.org/web/20080330001441/http://www.imaginascience.com/actualites/accueil_actualites.php?action=fullnews&showcomments=1&id=329) sur imaginascience
 3. [Qatar : double succès sur le marché de l’hélium](http://www.airliquide.com/fr/rss/qatar-double-succes-sur-le-marche-de-lhelium.html), communiqué Air Liquide du 6 mai 2010

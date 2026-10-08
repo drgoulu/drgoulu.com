@@ -38,6 +38,6 @@ Notes de bas de page
 
 [[1]](#cite-unbdS)[In Cold Fusion 2.0, Who's Scamming Whom?](https://www.popularmechanics.com/science/energy/a20454/in-cold-fusion-20-whos-scamming-whom/)
 
-[[2]](#cite-qTSmz)[https://www.bizjournals.com/tria...](https://www.bizjournals.com/triangle/news/2017/08/03/dispute-between-inventor-and-raleigh-investor-over.html)
+[[2]](#cite-qTSmz)[https://www.bizjournals.com/tria...](https://web.archive.org/web/20200924060448/https://www.bizjournals.com/triangle/news/2017/08/03/dispute-between-inventor-and-raleigh-investor-over.html)
 
 [[3]](#cite-ADRRJ)[Dites NON au mouvement perpétuel - Pourquoi Comment Combien](/2012/05/27/dites-non-au-mouvement-perpetuel/#.X9ynbdgVOCo)

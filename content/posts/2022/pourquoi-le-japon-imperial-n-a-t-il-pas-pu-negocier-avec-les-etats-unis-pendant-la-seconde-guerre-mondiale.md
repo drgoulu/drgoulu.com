@@ -26,4 +26,4 @@ Pour rappel, la première bombe nucléaire a pété le 16 juillet ( [Trinity (es
 
 Malheureusement, les dissentions du gouvernement japonais ont fait qu'ils ont envoyé une réponse aussi claire que des pétales de cerisier en fleurs dans la douce rosée du matin, alors que les ricains pigent que "yea" ou "nay" …
 
-[https://www.slate.fr/story/91073...](https://www.slate.fr/story/91073/mokusatsu-erreur-traduction-seconde-guerre-mondiale)
+[https://www.slate.fr/story/91073...](https://web.archive.org/web/20220407020254/https://www.slate.fr/story/91073/mokusatsu-erreur-traduction-seconde-guerre-mondiale)

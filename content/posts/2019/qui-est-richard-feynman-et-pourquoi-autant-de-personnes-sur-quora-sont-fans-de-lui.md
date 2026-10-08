@@ -25,7 +25,7 @@ Pour ma part j'ai commencé par modéliser en 3D le fameux [éviteur d’axe](/2
 - [Il y a plein de place en bas](/2009/06/11/il-y-a-plein-de-place-en-bas-2/)
 - [La science est la croyance en l'ignorance des experts](/2013/12/18/la-science-est-la-croyance-en-lignorance-des-experts/)
 
-J'aimerais aussi traduire ses [observations personnelles sur la fiabilité de la Navette](https://science.ksc.nasa.gov/shuttle/missions/51-l/docs/rogers-commission/Appendix-F.txt) figurant dans le rapport de la [Commission présidentielle sur l'accident de la navette spatiale Challenger](w:Commission_Rogers) dont il était membre et électron libre.
+J'aimerais aussi traduire ses [observations personnelles sur la fiabilité de la Navette](https://web.archive.org/web/20190613043807/https://science.ksc.nasa.gov/shuttle/missions/51-l/docs/rogers-commission/Appendix-F.txt) figurant dans le rapport de la [Commission présidentielle sur l'accident de la navette spatiale Challenger](w:Commission_Rogers) dont il était membre et électron libre.
 
 Si quelqu'un veut m'aider pour cette traduction, envoyez-moi un message…
 

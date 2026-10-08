@@ -28,7 +28,7 @@ Chers voisins, vous avez (au moins) deux problèmes qui font fuir vos cerveaux:
 
 ![](./images/qimg-c824c5e484231dc5a8203caa2c391183.jpg)
 
-(fiscalité des entreprises selon [Les charges des entreprises ont-elles « augmenté tous les ans » ?](https://www.lemonde.fr/blog/decodeurs/2014/01/20/les-charges-des-entreprises-ont-elles-augmente-tous-les-ans/), Le Monde)
+(fiscalité des entreprises selon [Les charges des entreprises ont-elles « augmenté tous les ans » ?](https://web.archive.org/web/20201203063304/https://www.lemonde.fr/blog/decodeurs/2014/01/20/les-charges-des-entreprises-ont-elles-augmente-tous-les-ans/), Le Monde)
 
 Là ils réalisent qu'en France, les deux tiers de ce que leur entreprise gagnera partira en taxes sur le travail des employés. Et s'ils ne réalisent pas, leur capital-risqueur le sait très bien et déplacera l'entreprise à l'étranger dès que la boite fera des benefs.
 

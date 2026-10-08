@@ -38,4 +38,4 @@ Quels pays africains ?
 
 Source (parmi d'autres) :
 
-[https://www.afdb.org/fr/news-and...](https://www.afdb.org/fr/news-and-events/press-releases/lafrique-domine-le-classement-des-vingt-pays-la-croissance-economique-la-plus-forte-au-monde-en-2024-selon-un-rapport-macroeconomique-de-la-banque-africaine-de-developpement-68761)
+[https://www.afdb.org/fr/news-and...](https://web.archive.org/web/20241219154516/https://www.afdb.org/fr/news-and-events/press-releases/lafrique-domine-le-classement-des-vingt-pays-la-croissance-economique-la-plus-forte-au-monde-en-2024-selon-un-rapport-macroeconomique-de-la-banque-africaine-de-developpement-68761)

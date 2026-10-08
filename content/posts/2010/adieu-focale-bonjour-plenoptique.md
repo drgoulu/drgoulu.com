@@ -47,4 +47,4 @@ Notes: \* sic \*\* et re-sic :-)
 
 1. <span id="ref-1"></span>Ren Ng et al, "[Light Field Photography with a Hand-Held Plenoptic Camera](http://graphics.stanford.edu/papers/lfcamera/lfcamera-150dpi.pdf)", April 2005, Stanford University Computer Science Tech Report CSTR 2005-02
 2. <span id="ref-2"></span>Ren Ng, "[Fourier Slice Photography](http://graphics.stanford.edu/papers/fourierphoto/fourierphoto-600dpi.pdf)",  July 2005, ACM Transactions on Graphics, {{< altmetric doi="10.1145/1073204.1073256" >}}
-3. <span id="ref-3"></span>Sri Rama Prasanna Pavani "[Plenoptic camera and its Applications](http://prashub.com/prasanna/files/Plenoptic_Prasanna_Pavani_2005.pdf)", 2005, présentation MO-ISL, CU Boulder
+3. <span id="ref-3"></span>Sri Rama Prasanna Pavani "[Plenoptic camera and its Applications](https://web.archive.org/web/20170828231503/http://prashub.com/prasanna/files/Plenoptic_Prasanna_Pavani_2005.pdf)", 2005, présentation MO-ISL, CU Boulder

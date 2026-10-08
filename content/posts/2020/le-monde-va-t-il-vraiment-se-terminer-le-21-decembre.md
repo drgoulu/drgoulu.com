@@ -22,6 +22,6 @@ Ah non, correction… Les américains ont plus de fins du monde que nous. Mais m
 
 Mais entre 2021 et 2028 ce sera le retour de Jésus selon un pasteur et un évangéliste de par là-bas. Et comme chacun sait, si Jésus revient ce sera L'[Enlèvement de l'Église](w:). Et apparemment c'est pas bon pour nous, pauvres pécheurs mécréants.
 
-Notre seule chance de voir une fin du monde athée, c'est que l'astéroïde prévu par un leader soufi nous zigouille en 2026. Mais là ce sont les astronomes qui sont des mécréants, parce qu'ils ne voient pas trace de menace (voir la [Risk List de l'ESA](http://neo.ssa.esa.int/risk-page) )
+Notre seule chance de voir une fin du monde athée, c'est que l'astéroïde prévu par un leader soufi nous zigouille en 2026. Mais là ce sont les astronomes qui sont des mécréants, parce qu'ils ne voient pas trace de menace (voir la [Risk List de l'ESA](https://web.archive.org/web/20201219234155/http://neo.ssa.esa.int/risk-page) )
 
 [2012 et l'ennemi intérieur - Pourquoi Comment Combien](/2009/11/29/2012-et-lennemi-interieur/#.X949IdgVOCo)

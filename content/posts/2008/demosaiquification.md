@@ -11,7 +11,7 @@ tags:
 coverImage: "./images/e9451462598a3ecd58ddabd87a766503.jpg"
 ---
 
-{{< figure src="./images/e9451462598a3ecd58ddabd87a766503.jpg" link="http://flickr.com/photos/goulu/3077977446/" >}}
+{{< figure src="./images/e9451462598a3ecd58ddabd87a766503.jpg" link="https://web.archive.org/web/20131031093119/http://flickr.com/photos/goulu/3077977446/" >}}
 
 C'est très facile de faire une [photomosaïque](/2007/08/19/grandes-images/) comme celle ci-contre. Des sites comme [Pictosaic juxtaposent](http://www.pictosaic.com/photo-mosaic.html) en quelques secondes des centaines d'images pour approximer une image de base.
 

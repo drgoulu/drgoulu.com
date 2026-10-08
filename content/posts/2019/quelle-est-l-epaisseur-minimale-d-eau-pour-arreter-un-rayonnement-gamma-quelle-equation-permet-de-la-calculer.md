@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quelle-est-l-%C3%A9paisseur-minimale-d-eau-pour-arr%C3%AAter-un-rayonnement-gamma-Quelle-%C3%A9quation-permet-de-la-calculer/answer/Dr-Goulu)*
 
-10 centimètres d'eau divisent par 2 le nombre de photons gamma. [Gamma Attenuation](http://www.radioactivity.eu.com/site/pages/Gamma_Attenuation.htm)
+10 centimètres d'eau divisent par 2 le nombre de photons gamma. [Gamma Attenuation](https://web.archive.org/web/20190923104133/http://www.radioactivity.eu.com/site/pages/Gamma_Attenuation.htm)
 
 Donc 1m d'eau divise par 2^10 soit environ 1000
 

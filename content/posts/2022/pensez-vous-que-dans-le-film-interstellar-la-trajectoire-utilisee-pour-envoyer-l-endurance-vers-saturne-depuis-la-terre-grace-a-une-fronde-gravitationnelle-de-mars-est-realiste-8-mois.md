@@ -27,4 +27,4 @@ Interstellar est hélas plein d'incohérences très regrettables, ça en fait un
 
 Notes de bas de page
 
-[[1]](#cite-PTmta)[Endurance](https://interstellarfilm.fandom.com/wiki/Endurance)
+[[1]](#cite-PTmta)[Endurance](https://web.archive.org/web/20220120144603/https://interstellarfilm.fandom.com/wiki/Endurance)

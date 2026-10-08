@@ -18,6 +18,6 @@ C'est sur [Gabriel Attal — Wikipédia](w:Gabriel_Attal) :
 Références fournies :
 
 - [Gabriel Attal, un premier ministre aux racines orthodoxes](https://www.la-croix.com/religion/gabriel-attal-un-premier-ministre-aux-racines-orthodoxes-20240110)
-- [Gabriel Attal, sur les traces de Macron ?](https://www.lepoint.fr/politique/gabriel-attal-sur-les-traces-de-macron-01-03-2023-2510568_20.php)
+- [Gabriel Attal, sur les traces de Macron ?](https://web.archive.org/web/20240909122530/https://www.lepoint.fr/politique/gabriel-attal-sur-les-traces-de-macron-01-03-2023-2510568_20.php)
 
 L'athéisme n'est pas une religion.

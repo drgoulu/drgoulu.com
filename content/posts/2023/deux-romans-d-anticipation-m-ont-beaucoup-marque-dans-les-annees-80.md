@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Deux-romans-d-anticipation-m-ont-beaucoup-marqu%C3%A9-dans-les-ann%C3%A9es-80-Le-premier-%C3%A9tait-Malevil-le-second-parle-d-une-communaut%C3%A9-post-apocalyptique-qui-marche-le-long-d-une-ancienne/answer/Dr-Goulu)*
 
-[https://www.babelio.com/livres/B...](https://www.babelio.com/livres/Barjavel-Ravage/6590)
+[https://www.babelio.com/livres/B...](https://web.archive.org/web/20230207113834/https://www.babelio.com/livres/Barjavel-Ravage/6590)

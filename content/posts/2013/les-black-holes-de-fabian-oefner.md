@@ -13,9 +13,9 @@ coverImage: "./images/fabian-oefner.jpg"
 
 Découvert hier [grâce à io9](http://io9.com/the-physics-of-fluid-revealed-in-spellbinding-color-459293246) le travail étonnant de [Fabian Oefner](http://www.fabianoefner.com/), un compatriote photographe.
 
-Sa dernière série de clichés intitulés "[Black Hole](http://www.fabianoefner.com/64838/1159918/projects/black-hole)" est magnifique et intriguante : mais qu'est-ce donc ?
+Sa dernière série de clichés intitulés "[Black Hole](https://web.archive.org/web/20130327143606/http://www.fabianoefner.com/64838/1159918/projects/black-hole)" est magnifique et intriguante : mais qu'est-ce donc ?
 
-{{< figure src="./images/52787512af31118dcd7349b8923a373e.jpg" alt="Black Hole par Fabian Oefner" caption="\"Black Hole\" par Fabian Oefner" link="http://www.fabianoefner.com/64838/1159918/projects/black-hole" align="aligncenter" width="600" >}}
+{{< figure src="./images/52787512af31118dcd7349b8923a373e.jpg" alt="Black Hole par Fabian Oefner" caption="\"Black Hole\" par Fabian Oefner" link="https://web.archive.org/web/20130327143606/http://www.fabianoefner.com/64838/1159918/projects/black-hole" align="aligncenter" width="600" >}}
 
 La mèche est vendue par d'autres clichés pris sous un angle différent :
 

@@ -24,4 +24,4 @@ La période où Mars a éventuellement été vivable a été trop courte pour qu
 
 En fait Mars n'a qu'un [Indice de similarité avec la Terre](w:)de 0.7.
 
-On connaît aujourd'hui 20 exoplanètes qui ont un indice plus élevé que ça. (voir [Earth Similarity Index](https://astronomical.fandom.com/wiki/Earth_Similarity_Index))
+On connaît aujourd'hui 20 exoplanètes qui ont un indice plus élevé que ça. (voir [Earth Similarity Index](https://web.archive.org/web/20241128001130/https://astronomical.fandom.com/wiki/Earth_Similarity_Index))

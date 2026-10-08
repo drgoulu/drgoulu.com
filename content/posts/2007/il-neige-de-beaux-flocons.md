@@ -32,4 +32,4 @@ Comme quoi un physicien peut être un peu poête, même dans un pays ravagé ...
 
 ### Référence :
 
-1. Kenneth Libbrecht, "[La formation des cristaux de neige](http://www.pourlascience.fr/ewb_pages/a/article-19262-la-formation-des-cristaux-de-neige-.php)", Pour la Science N°352 - fevrier 2007
+1. Kenneth Libbrecht, "[La formation des cristaux de neige](https://web.archive.org/web/20171224152910/http://www.pourlascience.fr/ewb_pages/a/article-19262-la-formation-des-cristaux-de-neige-.php)", Pour la Science N°352 - fevrier 2007

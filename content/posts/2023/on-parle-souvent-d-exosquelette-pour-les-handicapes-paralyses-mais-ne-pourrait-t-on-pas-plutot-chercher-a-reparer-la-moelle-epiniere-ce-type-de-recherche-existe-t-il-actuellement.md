@@ -19,4 +19,4 @@ La startup [ONWARD](https://www.onwd.com/) est en train de faire les premiers te
 
 Notes de bas de page
 
-[[1]](#cite-oBPSM)[Page sur onwd.com](https://ir.onwd.com/static-files/7358fa48-b0f9-4d5a-9bb9-d0d99f20043b)
+[[1]](#cite-oBPSM)[Page sur onwd.com](https://web.archive.org/web/20230604164833/https://ir.onwd.com/static-files/7358fa48-b0f9-4d5a-9bb9-d0d99f20043b)

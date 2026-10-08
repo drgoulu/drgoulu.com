@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Les résultats de la méta-analyse (= combinaison de résultats de plusieurs travaux sur le sujet
 
-John L. Sherry, "[Effects of Violent Video Games on Aggression: A Meta-Analysis](https://doi.org/10.1111/j.1468-2958.2001.tb00787.x)" Human Communication Research, Volume 27, Issue 3, July 2001, Pages 409–431 ([pdf](https://ocw.metu.edu.tr/pluginfile.php/2362/mod_resource/content/1/Sherry_MetaAnalysis.pdf))
+John L. Sherry, "[Effects of Violent Video Games on Aggression: A Meta-Analysis](https://web.archive.org/web/20211127213339/https://doi.org/10.1111/j.1468-2958.2001.tb00787.x)" Human Communication Research, Volume 27, Issue 3, July 2001, Pages 409–431 ([pdf](https://ocw.metu.edu.tr/pluginfile.php/2362/mod_resource/content/1/Sherry_MetaAnalysis.pdf))
 
 sont que:
 

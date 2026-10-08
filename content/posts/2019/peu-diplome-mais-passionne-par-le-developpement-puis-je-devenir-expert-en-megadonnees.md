@@ -20,5 +20,5 @@ Dans "data scientist" il y a data et scientist : sans solides bases de maths (st
 
 Mes conseils:
 
-1. regardez : [Data Scientist : 13 compétences nécessaires pour exercer ce métier](https://www.lebigdata.fr/13-competences-necessaires-devenir-data-scientist)
+1. regardez : [Data Scientist : 13 compétences nécessaires pour exercer ce métier](https://web.archive.org/web/20190709164858/https://www.lebigdata.fr/13-competences-necessaires-devenir-data-scientist)
 2. inscrivez vous à un [MOOC dédiés en Science des données / Data science](https://www.my-mooc.com/fr/categorie/data-science) et voyez si vous arrivez à suivre. Accessoirement ça vous fera un certificat dans le domaine

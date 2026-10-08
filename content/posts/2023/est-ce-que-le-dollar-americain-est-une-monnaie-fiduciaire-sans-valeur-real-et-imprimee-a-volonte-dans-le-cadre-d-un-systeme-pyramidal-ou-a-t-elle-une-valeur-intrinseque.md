@@ -25,7 +25,7 @@ Le dollar est une "monnaie refuge", dont une grande partie est "stockée" sous d
 
 Mais si vous n'aimez pas le dollar, vous pouvez toujours investir en francs suisses. La Confédération Suisse empruntait il n'y a pas si longtemps à taux négatif, et les emprunts étaient souscrits à plus de 100%. Plein de gens voulaient prêter du fric à notre état en sachant qu'il leur rembourserait moins ! Ou alors vous pouvez stocker quelques billets de CHF 1000 dans votre coffre.
 
-[Selon la banque nationale suisse](https://www.snb.ch/fr/iabout/cash/id/cash_circulation), 55% des francs suisses en circulation sont sous la forme de 48'311'729 billets de 1000 CHF, 6 par Suisse !
+[Selon la banque nationale suisse](https://web.archive.org/web/20230405230732/https://www.snb.ch/fr/iabout/cash/id/cash_circulation), 55% des francs suisses en circulation sont sous la forme de 48'311'729 billets de 1000 CHF, 6 par Suisse !
 
 Pourtant le dernier que j'ai vu c'était il y a plus de 10 ans quand j'ai vendu une voiture d'occasion…
 

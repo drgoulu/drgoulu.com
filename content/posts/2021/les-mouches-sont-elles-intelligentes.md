@@ -17,4 +17,4 @@ La réponse dépend beaucoup de ce que vous appelez
 
 mais les mouches sont capables d'apprendre, donc oui, elles ont une "intelligence".
 
-[https://www.liberation.fr/week-e...](https://www.liberation.fr/week-end/2004/07/10/memoires-d-une-mouche_485959/)
+[https://www.liberation.fr/week-e...](https://web.archive.org/web/20210910232218/https://www.liberation.fr/week-end/2004/07/10/memoires-d-une-mouche_485959/)

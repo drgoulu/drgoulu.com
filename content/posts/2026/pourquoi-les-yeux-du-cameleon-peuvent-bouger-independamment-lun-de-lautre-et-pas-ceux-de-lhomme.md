@@ -17,4 +17,4 @@ Comme tous les mammifères, nous avons plutôt une tête assez mobile qui nous p
 
 Je suspecte que le cortex visuel du caméléon doit être assez complexe et consommer pas mal d'énergie pour gérer sa vision.
 
-[Les yeux donnent une vision à 360° — Stratégie biologique — AskNature](https://share.google/iO881YLxHdp6252Ao)
+[Les yeux donnent une vision à 360° — Stratégie biologique — AskNature](https://web.archive.org/web/20260507/https://share.google/iO881YLxHdp6252Ao)

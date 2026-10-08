@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Le Boeing 787-800 'Dreamliner'. Il existe en version 40 passagers au lieu de 335, donc c’est un jet privé. Il vous offre une autonomie de 15′000 km pour la modique somme de 300 millions de dollars environ.
 
-[What Private Jet Has The Longest Range?](https://www.airpartner.com/es/blog/which-private-jet-has-the-longest-range/)
+[What Private Jet Has The Longest Range?](https://web.archive.org/web/20191206073424/https://www.airpartner.com/es/blog/which-private-jet-has-the-longest-range/)

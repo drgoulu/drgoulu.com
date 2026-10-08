@@ -22,4 +22,4 @@ La Terre tourne sur elle même en 23 h 56 min 4,1 s et pas 24 heures, ça c'est 
 
 Comme la Lune tourne autour de la Terre en 27.3 jours, il faut ajouter 1/27.3 jour au [Jour sidéral](w:)
 
-[Wolfram|](https://www.wolframalpha.com/input/?i=23hours+56+minutes+4.1+seconds++1day/27.3+)Alpha dit que ça fait 24 heures, 48 minutes et 49 secondes.
+[Wolfram|](https://web.archive.org/web/20191010/https://www.wolframalpha.com/input/?i=23hours+56+minutes+4.1+seconds++1day/27.3+)Alpha dit que ça fait 24 heures, 48 minutes et 49 secondes.

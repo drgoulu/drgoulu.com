@@ -15,4 +15,4 @@ Le [monoxyde de dihydrogène](w:Canular_du_monoxyde_de_dihydrogène), substance 
 
 Notes de bas de page
 
-[[1]](#cite-bzeXv)[Rapport mondial sur la noyade](https://www.who.int/violence_injury_prevention/global_report_drowning/fr/)
+[[1]](#cite-bzeXv)[Rapport mondial sur la noyade](https://web.archive.org/web/20191018131445/https://www.who.int/violence_injury_prevention/global_report_drowning/fr/)

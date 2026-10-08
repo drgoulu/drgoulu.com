@@ -15,4 +15,4 @@ Ce qui est sur c'est que le gouvernement israélien était averti des semaines �
 
 [https://www.la-croix.com/interna...](https://www.la-croix.com/international/guerre-israel-hamas-jour-256-attaque-bande-gaza-otages-israel-resume-20240618)
 
-[https://fr.timesofisrael.com/ava...](https://fr.timesofisrael.com/avant-le-7-octobre-le-shin-bet-et-tsahal-avaient-averti-netanyahu-de-limminence-dune-attaque/)
+[https://fr.timesofisrael.com/ava...](https://web.archive.org/web/20250327200207/https://fr.timesofisrael.com/avant-le-7-octobre-le-shin-bet-et-tsahal-avaient-averti-netanyahu-de-limminence-dune-attaque/)

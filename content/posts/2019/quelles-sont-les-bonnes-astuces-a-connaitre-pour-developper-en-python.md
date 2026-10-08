@@ -17,7 +17,7 @@ coverImage: ./images/quora.png
 *Réponse publiée [sur Quora](https://fr.quora.com/Quelles-sont-les-bonnes-astuces-%C3%A0-conna%C3%AEtre-pour-d%C3%A9velopper-en-Python/answer/Dr-Goulu)*
 
 1. Pour du dev sérieux, utiliser la distribution [Anaconda](https://www.anaconda.com/distribution/) et un IDE comme PyCharm, VSCode, ou un Eclipse avec PyDev comme [LiClipse](https://www.liclipse.com/) par exemple.
-2. Définir un e[nvironnement virtuel](https://docs.python.org/fr/3/tutorial/venv.html) par projet et y installer uniquement les packages nécessaires. [Conda est mieux que Pip](https://www.anaconda.com/understanding-conda-and-pip/) pour les gros projets.
+2. Définir un e[nvironnement virtuel](https://docs.python.org/fr/3/tutorial/venv.html) par projet et y installer uniquement les packages nécessaires. [Conda est mieux que Pip](https://web.archive.org/web/20190920165049/https://www.anaconda.com/understanding-conda-and-pip/) pour les gros projets.
 3. Vraiment bien comprendre que tout est objet, et que les "variables" sont en fait des références à des objets. Si vous ne comprenez pas pourquoi :
 
 ```

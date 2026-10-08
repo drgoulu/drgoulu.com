@@ -22,7 +22,7 @@ Alors il faut interdire à vos jeunes de partir en visa "holiday and travel" en 
 
 Il faut donc dire à Macron de faire expulser les 200'000 français émigrés en Suisse, les 180'000 émigrés aux USA, les 130'000 en Belgique etc.
 
-[https://cultureexpatcoaching.com...](https://cultureexpatcoaching.com/les-pays-avec-le-plus-grand-nombre-dexpatries-francais/)
+[https://cultureexpatcoaching.com...](https://web.archive.org/web/20250913/https://cultureexpatcoaching.com/les-pays-avec-le-plus-grand-nombre-dexpatries-francais/)
 
 Vous pourriez aussi interdire à vos télévision publiques de faire des émissions du type "foutez le camp" comme je les appelle, où on montre des français vivant peinards voire riches en faisant de la boulangerie à Las Vegas ou de la décoration d'intérieur à Shanghaï.
 

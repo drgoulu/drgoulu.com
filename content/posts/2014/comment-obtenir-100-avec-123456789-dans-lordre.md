@@ -21,7 +21,7 @@ A la recherche d'un petit article vite fait, j'ai vu [ce problème sur Quora](h
 - \\(1\* (2 + 3) \* 4 \* 5 \* (6 - 7) \* (8 - 9)\\)
 - et des dizaines d'autres variantes
 
-Evidemment, le même problème a été posé pour [200](https://www.quora.com/Can-you-make-200-using-the-digits-1-2-3-4-5-6-7-8-9-in-order), [300](https://www.quora.com/Can-you-make-300-using-the-digits-1-2-3-4-5-6-7-8-9-in-order),[1000](https://www.quora.com/Can-you-make-1000-using-the-digits-1-2-3-4-5-6-7-8-9-in-order), [10000](https://www.quora.com/How-can-one-make-10-000-out-of-the-digits-1-2-3-4-5-6-7-8-and-9-in-order) et pourrait l'être pour [1548, 1729](/2008/08/24/nombres-acratopeges/) ou n'importe quel autre entier, mais [Michal Forišek](http://people.ksp.sk/~misof/cv.php?newlanguage=ENG) a fait très fort en proposant une solution générale, valable pour tout N :
+Evidemment, le même problème a été posé pour [200](https://www.quora.com/Can-you-make-200-using-the-digits-1-2-3-4-5-6-7-8-9-in-order), [300](https://www.quora.com/Can-you-make-300-using-the-digits-1-2-3-4-5-6-7-8-9-in-order),[1000](https://www.quora.com/Can-you-make-1000-using-the-digits-1-2-3-4-5-6-7-8-9-in-order), [10000](https://www.quora.com/How-can-one-make-10-000-out-of-the-digits-1-2-3-4-5-6-7-8-and-9-in-order) et pourrait l'être pour [1548, 1729](/2008/08/24/nombres-acratopeges/) ou n'importe quel autre entier, mais [Michal Forišek](https://web.archive.org/web/20141217005645/http://people.ksp.sk/~misof/cv.php?newlanguage=ENG) a fait très fort en proposant une solution générale, valable pour tout N :
 
 \\(N= - \\log\_{1\\cdot 2} \\left( \\log\_{3+4-5} \\sqrt{ \\sqrt{ \\cdots \\sqrt{-6+7-8+9}}}\\right)\\) où l'expression comporte N racines imbriquées.
 

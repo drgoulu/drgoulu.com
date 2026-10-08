@@ -18,6 +18,6 @@ coverImage: ./images/quora.png
 
 Par l’éducation, tout simplement. L’éducation des femmes en particulier est la clé de la [Transition démographique](w:) en cours.
 
-Il faut absolument que vous voyiez la conférence de Hans Rosling “[Religions and babies](https://www.ted.com/talks/hans_rosling_religions_and_babies/discussion?lan=french)” (il y a des sous-titres en français) à ce sujet.
+Il faut absolument que vous voyiez la conférence de Hans Rosling “[Religions and babies](https://web.archive.org/web/20200421/https://www.ted.com/talks/hans_rosling_religions_and_babies/discussion?lan=french)” (il y a des sous-titres en français) à ce sujet.
 
 A partir de 10:00, il montre d’une façon fantastique que l’accroissement de la population actuelle est due à l’augmentation de l’espérance de vie, pas à la natalité.

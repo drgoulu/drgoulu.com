@@ -20,7 +20,7 @@ Alors ça c'est une excellente question, merci de l'avoir posée car elle m'a pe
 
 Ce qui me frappe en lisant des sources comme:
 
-- [Why does rabies cause hydrophobia?](https://biology.stackexchange.com/a/57437/57612) sur StackExchange Biology
+- [Why does rabies cause hydrophobia?](https://web.archive.org/web/20200324/https://biology.stackexchange.com/a/57437/57612) sur StackExchange Biology
 - [Why Does Rabies Cause Fear Of Water? » Science ABC](https://www.scienceabc.com/humans/why-does-rabies-cause-fear-of-water.html)
 
 c'est que la réponse couvre les deux sens du mot [Pourquoi / Pour Quoi](/2009/01/04/pourquoi-pour-quoi/#.Xnnf_ohsOCo)

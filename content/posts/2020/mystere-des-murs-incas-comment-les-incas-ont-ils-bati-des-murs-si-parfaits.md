@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 L'article [Le mystère des murs incas](http://sweetrandomscience.blogspot.com/2015/05/le-mystere-des-murs-incas.html?m=1) de mon copain Karim est très complet sur ce sujet.
 
-On n'est pas encore certain de tout, mais les expériences de [Jean-Pierre-Protzen](https://ced.berkeley.edu/ced/faculty-staff/jean-pierre-protzen) montrent que la taille de ces pierres était plus rapide que ce qu'on croyait.
+On n'est pas encore certain de tout, mais les expériences de [Jean-Pierre-Protzen](https://web.archive.org/web/20201022130729/https://ced.berkeley.edu/ced/faculty-staff/jean-pierre-protzen) montrent que la taille de ces pierres était plus rapide que ce qu'on croyait.

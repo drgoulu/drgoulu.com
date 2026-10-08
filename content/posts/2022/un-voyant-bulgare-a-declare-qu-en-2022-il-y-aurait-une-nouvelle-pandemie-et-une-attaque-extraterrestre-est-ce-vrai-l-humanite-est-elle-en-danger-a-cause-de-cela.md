@@ -20,7 +20,7 @@ Je n'ai de respect que pour les voyants qui font des prédictions claires et pro
 
 Mais comme la Sainte Vierge lui a ordonné de trahir son serment, je n'ai plus de respect pour aucun.
 
-Aucun voyant n'avait prévu la pandémie de Sars-Cov2 (lire[leurs excuses bidon ici](https://www.lepoint.fr/societe/coronavirus-les-mediums-avaient-senti-une-annee-2020-catastrophique-30-12-2020-2407689_23.php)), mais cet article scientifique de 2015 l'avait fait, assez précisément
+Aucun voyant n'avait prévu la pandémie de Sars-Cov2 (lire[leurs excuses bidon ici](https://web.archive.org/web/20210916225845/https://www.lepoint.fr/societe/coronavirus-les-mediums-avaient-senti-une-annee-2020-catastrophique-30-12-2020-2407689_23.php)), mais cet article scientifique de 2015 l'avait fait, assez précisément
 
 Menachery, V. D. et al. (2015). [A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence](https://doi.org/10.1038/nm.3985). *Nature Medicine*, *21*(12), 1508–1513.
 

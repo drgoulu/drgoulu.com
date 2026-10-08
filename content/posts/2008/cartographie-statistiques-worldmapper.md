@@ -13,7 +13,7 @@ tags:
 coverImage: "./images/356.png"
 ---
 
-[Worldmapper.org](http://www.worldmapper.org/) fournit [plus de 360 cartes](http://www.worldmapper.org/atozindex.html) du "monde comme vous ne l'avez jamais vu" telles que celle-ci par exemple:
+[Worldmapper.org](http://www.worldmapper.org/) fournit [plus de 360 cartes](https://web.archive.org/web/20081005231840/http://www.worldmapper.org/atozindex.html) du "monde comme vous ne l'avez jamais vu" telles que celle-ci par exemple:
 
 [![](./images/9732a89d20399dd62586fd0a758016a9.png)](http://www.worldmapper.org/display.php?selected=356)
 

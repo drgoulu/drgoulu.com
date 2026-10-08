@@ -17,4 +17,4 @@ Coup de bol, le diamant est conducteur, donc on peut le couper, voire même le p
 
 Donc même sans le toucher ! On utilise ce procédé pour rectifier des meules diamantées.
 
-Rhoney, B. K., Shih, A. J., Scattergood, R. O., Akemon, J. L., Gust, D. J., & Grant, M. B. (2002). [Wire electrical discharge machining of metal bond diamond wheels for ceramic grinding](https://doi.org/10.1016/S0890-6955(02)00056-1). International Journal of Machine Tools and Manufacture, 42(12), 1355–1362. ([pdf](http://career.engin.umich.edu/wp-content/uploads/sites/51/2013/08/02_MTM_WEDM_diamond_wheel.pdf))
+Rhoney, B. K., Shih, A. J., Scattergood, R. O., Akemon, J. L., Gust, D. J., & Grant, M. B. (2002). [Wire electrical discharge machining of metal bond diamond wheels for ceramic grinding](https://web.archive.org/web/20220120090804/https://doi.org/10.1016/S0890-6955(02)00056-1). International Journal of Machine Tools and Manufacture, 42(12), 1355–1362. ([pdf](http://career.engin.umich.edu/wp-content/uploads/sites/51/2013/08/02_MTM_WEDM_diamond_wheel.pdf))

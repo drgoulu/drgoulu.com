@@ -23,7 +23,7 @@ Il faut dire que ce qui passe par la tête de notre cousine mammifère est diffi
 
 ### Le requin du Groenland
 
-Un autre géant de l'Océan Arctique vient de faire parler de lui : le [requin du Groenland](w:), dont on a appris qu'il [peut vivre 400 ans](http://passeurdesciences.blog.lemonde.fr/2016/08/11/ce-requin-qui-peut-vivre-quatre-siecles-1/), ce qui en fait le vertébré à la plus grande longévité connue.
+Un autre géant de l'Océan Arctique vient de faire parler de lui : le [requin du Groenland](w:), dont on a appris qu'il [peut vivre 400 ans](https://web.archive.org/web/20160821141533/http://passeurdesciences.blog.lemonde.fr/2016/08/11/ce-requin-qui-peut-vivre-quatre-siecles-1/), ce qui en fait le vertébré à la plus grande longévité connue.
 
 Avant d'aller en Islande je ne le connaissais que par un épisode de "Faut pas rêver" où le journaliste découvre le [Hákarl](w:), une redoutable spécialité culinaire:
 
@@ -39,7 +39,7 @@ Ceci explique que la production de Hákarl soit très confidentielle, limitée 
 
 ### Le rift
 
-{{< figure src="./images/thingvellir_iceland_Heradsskolinn.jpg.jpg" alt="le parc national de Thingvellir" caption="le parc national de Thingvellir" link="http://www.thingvellir.is/english.aspx" width="360" >}}
+{{< figure src="./images/thingvellir_iceland_Heradsskolinn.jpg.jpg" alt="le parc national de Thingvellir" caption="le parc national de Thingvellir" link="https://web.archive.org/web/20160820041611/http://www.thingvellir.is/english.aspx" width="360" >}}
 
 L'[Islande](w:) est une île située pile sur la [dorsale médio-atlantique](w:), là ou les plaques tectoniques nord-américaine et eurasienne s'écartent de 2 à 3 centimètres par an. Tout au long de la dorsale de nombreux volcans actifs comblent cet écartement en formant une imposante chaîne de montagnes partant du plancher océanique à environ -4000m dont les sommets sont souvent immergés, mais dépassent le niveau de l'océan de plus de 2000m en Islande, mais aussi aux [Açores](w:) par exemple.
 
@@ -51,7 +51,7 @@ Tout ça devient très concret en visitant le [rift](w:) de [Thingvellir](w:), o
 
 Dans certaines conditions, la lave sortant d'un volcan se solidifie au contact de l'air en formant un tube solide dans lequel elle peut s'écouler en restant très chaude, fluide. Quand le flux de lave se tarit, il laisse derrière lui un tube creux, un [tunnel de lave](w:) parfois tout petit, parfois de plusieurs mètres de diamètre et de centaines de mètres de long.
 
-{{< figure src="./images/19961857070_321c5aef14_z_d.jpg" alt="Photo CC Felix Haller sur Flickr" caption="Stalagmites à Vatnshellir Photo Felix Haller sur Flickr (CC BY 2.0)" link="https://www.flickr.com/photos/113254492@N04/19961857070" width="360" >}}
+{{< figure src="./images/19961857070_321c5aef14_z_d.jpg" alt="Photo CC Felix Haller sur Flickr" caption="Stalagmites à Vatnshellir Photo Felix Haller sur Flickr (CC BY 2.0)" link="https://web.archive.org/web/20160821/https://www.flickr.com/photos/113254492@N04/19961857070" width="360" >}}
 
 La grotte Vatnshellir est l'un des rares tunnels de lave  accessibles au public non spéléologue ([visite en video](https://www.youtube.com/watch?v=f79PS_5ERsA&))
 
@@ -63,7 +63,7 @@ La géologie de ces grottes étant très différente de celles des cavernes calc
 
 {{< figure src="./images/20.jpg" alt="Askja" caption="Lacs de cratère de l'Askja : Öskjuvatn au fond et Viti au premier plan. Photo Julia G." align="alignleft" width="360" >}}
 
-L'[Askja](w:) est le [volcan  No 37060](http://volcano.si.edu/volcano.cfm?vn=373060) du [Global Volcanism Program](w:) que je viens de découvrir et où on trouve des infos complètes sur tous les volcans du monde.
+L'[Askja](w:) est le [volcan  No 37060](https://web.archive.org/web/20160701102040/http://volcano.si.edu/volcano.cfm?vn=373060) du [Global Volcanism Program](w:) que je viens de découvrir et où on trouve des infos complètes sur tous les volcans du monde.
 
 Concrètement, l'Askja est un [stratovolcan](w:)  produisant assez souvent des éruptions de faible [indice d'explosivité](w:Indice_d'explosivité_volcanique). En 1875 une éruption plus violente a recouvert une bonne partie de l'Islande de cendres toxiques qui ont détruit les cultures et tué du bétail, forçant ainsi beaucoup d'islandais à émigrer.
 
@@ -77,7 +77,7 @@ Avec tous ces volcans, pas étonnant que l'Islande soit truffée de cratères, m
 
 ### Eyjafjallajökull
 
-Vous vous souvenez certainement avoir essayé de [prononcer ce nom](https://upload.wikimedia.org/wikipedia/commons/e/ed/Is-Eyjafjallaj%C3%B6kull_%282%29.oga) en 2010 lors de l'éruption qui a [immobilisé le trafic aérien](/2010/04/19/cendres-et-reacteurs/) transatlantique  pendant des semaines. En fait, [Eyjafjallajökull](w:) signifie "glacier sur les montagnes proches des îles", pas "volcan à [cendres anti aériennes](/2010/04/19/cendres-et-reacteurs/)". Le [volcan No 372020 du GVP](http://volcano.si.edu/volcano.cfm?vn=372020) est sous un glacier, et sous le volcan, il y a une grande ferme où un "[Visitor Center](http://www.icelanderupts.is/)" aussi intéressant qu'émouvant raconte cette éruption "vue du dessous".
+Vous vous souvenez certainement avoir essayé de [prononcer ce nom](https://upload.wikimedia.org/wikipedia/commons/e/ed/Is-Eyjafjallaj%C3%B6kull_%282%29.oga) en 2010 lors de l'éruption qui a [immobilisé le trafic aérien](/2010/04/19/cendres-et-reacteurs/) transatlantique  pendant des semaines. En fait, [Eyjafjallajökull](w:) signifie "glacier sur les montagnes proches des îles", pas "volcan à [cendres anti aériennes](/2010/04/19/cendres-et-reacteurs/)". Le [volcan No 372020 du GVP](https://web.archive.org/web/20160730143729/http://volcano.si.edu/volcano.cfm?vn=372020) est sous un glacier, et sous le volcan, il y a une grande ferme où un "[Visitor Center](http://www.icelanderupts.is/)" aussi intéressant qu'émouvant raconte cette éruption "vue du dessous".
 
 ### Le geyser
 

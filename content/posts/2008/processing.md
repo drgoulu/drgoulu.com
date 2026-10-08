@@ -19,11 +19,11 @@ _["Bubble Chamber"](http://www.complexification.net/gallery/machines/bubblechamb
 
 {{< vimeo id="658158" title="Bubble Chamber by Jared Tarbell" >}}
 
-_["Solar with Lyrics"](http://www.flight404.com/blog/?p=111) de [Robert Hodgin (flight404)](http://www.flight404.com/blog/?cat=1) musique "Lovely Head" de Goldfrapp_
+_["Solar with Lyrics"](https://web.archive.org/web/20080410084116/http://www.flight404.com/blog/?p=111) de [Robert Hodgin (flight404)](https://web.archive.org/web/20080410040658/http://www.flight404.com/blog/?cat=1) musique "Lovely Head" de Goldfrapp_
 
 [![](./images/6788dbafad08518db06153b64e926806.jpg)](http://www.flickr.com/photos/eskimoblood/collections/72157600002925667/)
 
-La [variété des applications](http://processing.org/exhibition/index.html) réalisées avec Proce55ing est réellement impressionnante. On trouve beaucoup d'autres [exemples sur YouTube](http://www.youtube.com/results?search_query=processing.org&search=tag) ou sur flickr [ici](http://www.flickr.com/photos/eskimoblood/collections/72157600002925667/) ou [là](http://www.flickr.com/photos/flight404/sets/72057594065151925/).
+La [variété des applications](https://web.archive.org/web/20080329083854/http://processing.org/exhibition/index.html) réalisées avec Proce55ing est réellement impressionnante. On trouve beaucoup d'autres [exemples sur YouTube](http://www.youtube.com/results?search_query=processing.org&search=tag) ou sur flickr [ici](http://www.flickr.com/photos/eskimoblood/collections/72157600002925667/) ou [là](http://www.flickr.com/photos/flight404/sets/72057594065151925/).
 
 [Xavier Gouchet](http://www.xgouchet.fr/processing.php) s'y est mis aussi et a achevé de me convaincre de regarder Processing de plus près.
 
@@ -31,16 +31,16 @@ Le langage Processing est fortement inspiré de Java, le système de développem
 
 Ma première application Processing est une version simplifiée et 2D de ma fameuse [Simulation 3D de Galaxie Spirale](/2008/02/08/galaxie-spirale-et-sequence-principale/).
 
-_(Mise à jour du 15.1.2011)_ : Elle était depuis longtemps sur [OpenProcessing](https://openprocessing.org/@Goulu/699), mais je peux enfin l'intégrer directement à ce blog :
+_(Mise à jour du 15.1.2011)_ : Elle était depuis longtemps sur [OpenProcessing](https://web.archive.org/web/20080403/https://openprocessing.org/@Goulu/699), mais je peux enfin l'intégrer directement à ce blog :
 
 <iframe src="https://openprocessing.org/sketch/699/embed/?plusEmbedHash=fe02603c&userID=573&plusEmbedTitle=true&show=sketch" width="640" height="640"></iframe>
 
-En pressant sur les touches curseur vous pourrez modifier l'ellipsité et la torsion de la galaxie en temps réel. Cette première oeuvre est assez moche, heureusement quelqu'un en a beaucoup amélioré l'esthétique [sur OpenProcessing](https://openprocessing.org/@Goulu/699).
+En pressant sur les touches curseur vous pourrez modifier l'ellipsité et la torsion de la galaxie en temps réel. Cette première oeuvre est assez moche, heureusement quelqu'un en a beaucoup amélioré l'esthétique [sur OpenProcessing](https://web.archive.org/web/20080403/https://openprocessing.org/@Goulu/699).
 
 Pour vous mettre à Processing vous aussi :
 
 1. [téléchargez le](http://processing.org/download/index.html)
-2. [lisez un peut tout ça](http://processing.org/learning/index.html)
+2. [lisez un peut tout ça](https://web.archive.org/web/20080404010727/http://processing.org/learning/index.html)
 3. lancez-vous à partir des nombreux exemples fournis
-4. consultez la liste des [processing hacks](http://wiki.processing.org/doku.php?id=hacks:contents) pour éviter de réinventer la roue et devenir un vrai gourou
+4. consultez la liste des [processing hacks](https://web.archive.org/web/20120120104934/http://wiki.processing.org/doku.php?id=hacks:contents) pour éviter de réinventer la roue et devenir un vrai gourou
 

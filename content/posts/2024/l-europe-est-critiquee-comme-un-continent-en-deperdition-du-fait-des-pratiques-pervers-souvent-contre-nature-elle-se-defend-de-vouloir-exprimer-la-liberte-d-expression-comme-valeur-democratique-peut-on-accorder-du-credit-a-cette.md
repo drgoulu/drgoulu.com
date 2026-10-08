@@ -21,4 +21,4 @@ Exemple de "pratique pervers contre nature" siouplait ?
 
 Si vous pouvez exprimer n'importe quelle bêtise sur Quora, et même dire que la Terre tourne autour du Soleil sans risquer de vous faire cramer par des fanatiques religieux, c'est justement grâce à la liberté d'expression et aux autres valeurs d'origine européenne, mais désormais universelles.
 
-[La Déclaration universelle des droits de l'homme](https://www.un.org/fr/universal-declaration-human-rights/) protège même votre droit de porter une chemise rose en Côte d'Ivoire.
+[La Déclaration universelle des droits de l'homme](https://web.archive.org/web/20240729202556/https://www.un.org/fr/universal-declaration-human-rights/) protège même votre droit de porter une chemise rose en Côte d'Ivoire.

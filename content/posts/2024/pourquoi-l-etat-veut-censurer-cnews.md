@@ -17,4 +17,4 @@ Pour l'instant il ne s'agit pas de censure mais de "surveillance accrue" pour v√
 
 Vu de Suisse :
 
-[https://www.blick.ch/fr/news/fra...](https://www.blick.ch/fr/news/france/conseil-detat-contre-cnews-censure-en-france-doit-on-croire-praud-hanouna-et-zemmour-id19432303.html)
+[https://www.blick.ch/fr/news/fra...](https://web.archive.org/web/20240402101210/https://www.blick.ch/fr/news/france/conseil-detat-contre-cnews-censure-en-france-doit-on-croire-praud-hanouna-et-zemmour-id19432303.html)

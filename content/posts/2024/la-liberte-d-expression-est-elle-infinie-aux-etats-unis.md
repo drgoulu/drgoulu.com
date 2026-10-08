@@ -27,4 +27,4 @@ Et en passant :
 
 Notes de bas de page
 
-[[1]](#cite-DUucg)[https://caselaw.findlaw.com/cour...](https://caselaw.findlaw.com/court/us-supreme-court/451/619.html)
+[[1]](#cite-DUucg)[https://caselaw.findlaw.com/cour...](https://web.archive.org/web/20240617180202/https://caselaw.findlaw.com/court/us-supreme-court/451/619.html)

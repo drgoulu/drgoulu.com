@@ -17,4 +17,4 @@ Après décryptage, vous avez postulé ("apply" en anglais c'est postuler, pas a
 
 Vous avez donc "violé les règles de la communauté" et normalement vous avez reçu un e-mail qui vous dit quelle punition vos avez eu et ce que vous pouvez faire. C'est détaillé ici :
 
-[https://support.google.com/youtu...](https://support.google.com/youtube/answer/2802032?hl=en)
+[https://support.google.com/youtu...](https://web.archive.org/web/20230710192043/https://support.google.com/youtube/answer/2802032?hl=en)

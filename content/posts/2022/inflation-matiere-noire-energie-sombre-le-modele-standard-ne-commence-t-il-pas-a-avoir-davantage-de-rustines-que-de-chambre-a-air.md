@@ -44,4 +44,4 @@ Autrement c'est juste de la "sculpture sur nuages" comme disait mon prof de phys
 
 Notes de bas de page
 
-[[1]](#cite-XJAvu)[Cosmology and convention](https://www.sciencedirect.com/science/article/pii/S1355219816301563)
+[[1]](#cite-XJAvu)[Cosmology and convention](https://web.archive.org/web/20220128002934/https://www.sciencedirect.com/science/article/pii/S1355219816301563)

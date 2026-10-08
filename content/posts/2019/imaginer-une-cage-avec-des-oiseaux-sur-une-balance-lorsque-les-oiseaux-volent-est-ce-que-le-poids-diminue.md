@@ -26,8 +26,8 @@ Du moins à chaque battement d'aile de l'oiseau : pour voler l'oiseau doit pouss
 
 **sources**:
 
-- [Est-ce qu’un camion transportant des oiseaux s’allège quand ces derniers prennent leur envol ? - GuruMeditation](https://www.gurumed.org/2015/01/17/est-ce-quun-camion-transportant-des-oiseaux-sallge-quand-ces-derniers-prennent-leur-envole/)
-- [https://arxiv.org/ftp/arxiv/pape...](https://arxiv.org/ftp/arxiv/papers/1409/1409.0304.pdf) .
+- [Est-ce qu’un camion transportant des oiseaux s’allège quand ces derniers prennent leur envol ? - GuruMeditation](https://web.archive.org/web/20210225210603/https://www.gurumed.org/2015/01/17/est-ce-quun-camion-transportant-des-oiseaux-sallge-quand-ces-derniers-prennent-leur-envole/)
+- [https://arxiv.org/ftp/arxiv/pape...](https://web.archive.org/web/20200913212533/https://arxiv.org/ftp/arxiv/papers/1409/1409.0304.pdf) .
 - video complète:
 
 [https://www.youtube.com/watch?v=...](https://www.youtube.com/watch?v=dpT80Sg19CE)

@@ -21,7 +21,7 @@ Donc l'auteur de l'article , qui se trouve comme par hasard être l'auteur de la
 
 Dans le meilleur des cas il s'est fait entuber, dans le pire il est parfaitement conscient de ceci et essaie d'acheter une légitimité scientifique à des travaux qui ne sont pas scientifiques, et peut-être pas légitimes non plus puisque le rôle des pairs est de vérifier que les travaux scientifiques antérieurs sur lesquels la publication se base, ou qu'elle étend ou corrige, sont correctement référencés et cités.
 
-Or, pour en venir à l'article [(disponible ici gratuitement par l'auteur, merci)](https://www.researchgate.net/publication/357810116_MEMS_WHICH_ALLOW_THE_EXTRACTION_OF_VACUUM_ENERGY_CONFORM_TO_EMMY_NOETHER_THEOREM), celui-ci ne mentionne absolument aucune référence.
+Or, pour en venir à l'article [(disponible ici gratuitement par l'auteur, merci)](https://web.archive.org/web/20230608/https://www.researchgate.net/publication/357810116_MEMS_WHICH_ALLOW_THE_EXTRACTION_OF_VACUUM_ENERGY_CONFORM_TO_EMMY_NOETHER_THEOREM), celui-ci ne mentionne absolument aucune référence.
 
 Par exemple, une des premières phrases de l'article est
 

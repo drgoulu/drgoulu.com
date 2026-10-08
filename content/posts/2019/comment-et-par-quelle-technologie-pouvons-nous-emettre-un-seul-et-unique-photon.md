@@ -31,6 +31,6 @@ Notes de bas de page
 
 [[1]](#cite-bDqDH)[Les sources de photons uniques](https://www.pourlascience.fr/sd/physique/les-sources-de-photons-uniques-2370.php)
 
-[[2]](#cite-UcrhX)[https://www.researchgate.net/pub...](https://www.researchgate.net/publication/238956125_Emission_de_photons_uniques_par_un_atome_unique_piege)
+[[2]](#cite-UcrhX)[https://www.researchgate.net/pub...](https://web.archive.org/web/20190404/https://www.researchgate.net/publication/238956125_Emission_de_photons_uniques_par_un_atome_unique_piege)
 
-[[3]](#cite-cItbD)[https://www.photoniques.com/arti...](https://www.photoniques.com/articles/photon/pdf/2015/04/photon201577p36.pdf)
+[[3]](#cite-cItbD)[https://www.photoniques.com/arti...](https://web.archive.org/web/20190430160647/https://www.photoniques.com/articles/photon/pdf/2015/04/photon201577p36.pdf)

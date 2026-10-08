@@ -23,6 +23,6 @@ Il est normal que les pays concernés s'opposent aux décisions de l'ONU, ça a 
 Donc :
 
 1. Aucune résolution de l'ONU n'est acceptée par moins de 66% des votants
-2. Pour prendre un exemple au hasard, la récente[résolution sur Gaza appelant à une trêve humanitaire immédiate](https://news.un.org/fr/story/2023/10/1140077) a été acceptée à 120 voix contre 14, soit à 89.5%, les 45 abstentions ne comptant pas.
+2. Pour prendre un exemple au hasard, la récente[résolution sur Gaza appelant à une trêve humanitaire immédiate](https://web.archive.org/web/20231114203629/https://news.un.org/fr/story/2023/10/1140077) a été acceptée à 120 voix contre 14, soit à 89.5%, les 45 abstentions ne comptant pas.
 
 Si ce système ne vous plaît pas, vous pouvez declancher une nouvelle guerre mondiale pour qu'on fasse un nouvelle ONU sans droit de veto, avec des voix proportionnelles au nombre d'habitants de chaque pays et majorité à 50%…

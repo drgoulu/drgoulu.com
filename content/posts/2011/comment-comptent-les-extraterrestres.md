@@ -40,5 +40,5 @@ Poli. il rédige une réponse empreinte de [logique modale](w:) et de [nombres
 1. <span id="ref-1"></span>[Messages aux extraterrestres](http://www.astrosurf.com/luxorion/seti-messages.htm) sur Luxurion (ex Astrosurf)
 2. <span id="ref-2"></span>[lexique du "Cosmic Call"](http://www.astrosurf.com/luxorion/Documents/seti-dutil-dumas.pdf) de Dutil et Dumas ([copié/collé sur Flickr](http://www.flickr.com/photos/goulu/sets/72157627617474131/))
 3. <span id="ref-3"></span>[Convertisseur de/vers la numérotation Shadok](http://www.dcode.fr/shadoks-ga-bu-zo-meu)
-4. <span id="ref-4"></span>[Exercices de maths Shadok](http://www.ann.jussieu.fr/SemaineCollege10/web/doc/shadoks.pdf) , 2010, semaine de stage des collégiens à Jussieu
+4. <span id="ref-4"></span>[Exercices de maths Shadok](https://web.archive.org/web/20110531113328/http://www.ann.jussieu.fr/SemaineCollege10/web/doc/shadoks.pdf) , 2010, semaine de stage des collégiens à Jussieu
 5. <span id="ref-5"></span>Discussion "[Alien Mathematics](http://www.reddit.com/r/math/comments/gwe4z/alien_mathematics/)" sur Reddit

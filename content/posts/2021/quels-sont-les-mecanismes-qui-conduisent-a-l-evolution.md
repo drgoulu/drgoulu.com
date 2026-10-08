@@ -28,7 +28,7 @@ Ca n'est possible que parce que la réplication de l'ARN (et de l'ADN) n'est pas
 
 Je ne me lasse jamais de jouer avec
 
-[https://rednuht.org/genetic_cars_2/](https://rednuht.org/genetic_cars_2/)
+[https://rednuht.org/genetic_cars_2/](https://web.archive.org/web/20210603033652/https://rednuht.org/genetic_cars_2/)
 
 qui simule l'évolution de petits véhicules en combinant les caractéristiques de ceux qui vont le plus loin pour la génération suivante. On voit que l'amélioration est très rapide. Mais si on met "mutation rate" à 0%, ça ne progresse plus.
 

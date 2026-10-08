@@ -20,7 +20,7 @@ Plusieurs études indépendants ont montré que c'est bien le cas.
 
 La première et la plus académique était :
 
-Markandya, A., & Wilkinson, P. (2007). Electricity generation and health. Lancet. ([pdf](https://www.academia.edu/12681524/Electricity_generation_and_health))
+Markandya, A., & Wilkinson, P. (2007). Electricity generation and health. Lancet. ([pdf](https://web.archive.org/web/20220310132432/https://www.academia.edu/12681524/Electricity_generation_and_health))
 
 mais ne compare que les énergies fossiles
 

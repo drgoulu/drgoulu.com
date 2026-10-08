@@ -11,7 +11,7 @@ tags:
 coverImage: "./images/b7c1f41a7b7703f80ef0f9d3f31b60ac.jpg"
 ---
 
-Le récent rapport "[The Diverse and Exploding Digital Universe](http://www.emc.com/collateral/analyst-reports/diverse-exploding-digital-universe.pdf) - An Updated Forecast of Worldwide Information Growth Through 2011" d'IDC\* [sponsorisé par EMC\*](http://www.emc.com/leadership/digital-universe/expanding-digital-universe.htm) est absolument passionnant. Comme le dit le sous-titre, il s'agit d'une prévision de la croissance mondiale en informations jusqu'en 2011, et c'est une mise-à-jour dans puisqu'une première version avait été publiée en 2007, suite à une étude de marché sur les [systèmes de stockage de données](http://www.idc.com/err/404error.jsp;jsessionid=5B499EE2DE7F5345EA3AACB9B0428252?requestedUrl=/groups/storagewatch/apr08/&redirectUrl=www.idc.com).
+Le récent rapport "[The Diverse and Exploding Digital Universe](https://web.archive.org/web/20080509133212/http://www.emc.com/collateral/analyst-reports/diverse-exploding-digital-universe.pdf) - An Updated Forecast of Worldwide Information Growth Through 2011" d'IDC\* [sponsorisé par EMC\*](https://web.archive.org/web/20080509181431/http://www.emc.com/leadership/digital-universe/expanding-digital-universe.htm) est absolument passionnant. Comme le dit le sous-titre, il s'agit d'une prévision de la croissance mondiale en informations jusqu'en 2011, et c'est une mise-à-jour dans puisqu'une première version avait été publiée en 2007, suite à une étude de marché sur les [systèmes de stockage de données](https://web.archive.org/web/20080410/http://www.idc.com/err/404error.jsp;jsessionid=5B499EE2DE7F5345EA3AACB9B0428252?requestedUrl=/groups/storagewatch/apr08/&redirectUrl=www.idc.com).
 
 Les principales conclusion du rapport sont :
 
@@ -34,4 +34,4 @@ Quelques réflexions:
 Notes:
 
 - [IDC](http://www.idc.com) est une importante boite d'études de marché qui "analyse le futur" (j'aime bien ce slogan...).
-- [EMC](http://www.emc.com) est un gros éditeur de solutions de "gestion de l'information". Documentum est leur produit phare.
+- [EMC](https://web.archive.org/web/20080406023607/http://www.emc.com) est un gros éditeur de solutions de "gestion de l'information". Documentum est leur produit phare.

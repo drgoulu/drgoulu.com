@@ -12,7 +12,7 @@ tags:
 coverImage: "./images/9a4b749b91985103ade9dc84ffb1c4811.jpg"
 ---
 
-Comme ["Autour des Sciences" a été le plus rapide](http://sciences.blog.lemonde.fr/2008/10/03/le-palmares-des-ig-nobels/) cette année à lister les lauréats du prix igNobel 2008, je me contente de traduire en français pour vous l'abstract de l'article "Effets du cycle ovulatoire sur les pourboires des strip-teaseuses: une preuve économique de l'œstrus humain ?" lauréat en "économie" :
+Comme ["Autour des Sciences" a été le plus rapide](https://web.archive.org/web/20081006092138/http://sciences.blog.lemonde.fr/2008/10/03/le-palmares-des-ig-nobels/) cette année à lister les lauréats du prix igNobel 2008, je me contente de traduire en français pour vous l'abstract de l'article "Effets du cycle ovulatoire sur les pourboires des strip-teaseuses: une preuve économique de l'œstrus humain ?" lauréat en "économie" :
 
 Geoffrey Miller, Joshua M. Tybur, & Brent D. Jordanie (2007). Ovulatory cycle effects on tip earnings by lap dancers:economic evidence for human estrus? Evolution and Human Behaviour, 28 (6), 375-381 {{< altmetric doi="10.1016/j.evolhumbehav.2007.06.002" >}} [(pdf)](http://www.unm.edu/~gfmiller/cycle_effects_on_tips.pdf)
 

@@ -44,6 +44,6 @@ Un attentat sucide marque beaucoup plus les esprits qu'un attentat "normal" fais
 
 1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:2268044998" templatenumber="5" >}}
 2. <span id="ref-2"></span>{{< openbook booknumber="OLID:OL5375786M" templatenumber="5" >}}
-3. <span id="ref-3"></span>[http://www.preventionsuicide.be/zfdcnet/textefdc/attentat.htm](http://www.preventionsuicide.be/zfdcnet/textefdc/attentat.htm)
-4. <span id="ref-4"></span>[Site israelien de statistiques de l'Intifada](http://www.ict.org.il/Articles/tabid/66/Articlsid/443/Default.aspx) retrouvé le 5/5/2013
-5. <span id="ref-5"></span>[Statistiques de B'Tselem](http://www.btselem.org/english/statistics/Casualties.asp) trouvé le 16/2/2008
+3. <span id="ref-3"></span>[http://www.preventionsuicide.be/zfdcnet/textefdc/attentat.htm](https://web.archive.org/web/20051219003446/http://www.preventionsuicide.be/zfdcnet/textefdc/attentat.htm)
+4. <span id="ref-4"></span>[Site israelien de statistiques de l'Intifada](https://web.archive.org/web/20120523204724/http://www.ict.org.il/Articles/tabid/66/Articlsid/443/Default.aspx) retrouvé le 5/5/2013
+5. <span id="ref-5"></span>[Statistiques de B'Tselem](https://web.archive.org/web/20060112200147/http://www.btselem.org/english/statistics/Casualties.asp) trouvé le 16/2/2008

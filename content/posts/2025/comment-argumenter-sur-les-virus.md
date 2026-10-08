@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Lisez ce bouquin :
 
-[Carl Zimmer](http://openlibrary.org/authors/OL394581A/Carl_Zimmer) "[Planète de virus](/2016/03/28/planete-de-virus/)" (2016) Belin ISBN:9782701197678 [WorldCat](http://worldcat.org/isbn/9782701197678) [Goodreads](http://www.goodreads.com/book/show/29150069) [Google Books](http://books.google.com/books?as_isbn=9782701197678) [- Pourquoi Comment Combien](/2016/03/28/planete-de-virus/)
+[Carl Zimmer](https://web.archive.org/web/20250528200312/http://openlibrary.org/authors/OL394581A/Carl_Zimmer) "[Planète de virus](/2016/03/28/planete-de-virus/)" (2016) Belin ISBN:9782701197678 [WorldCat](http://worldcat.org/isbn/9782701197678) [Goodreads](http://www.goodreads.com/book/show/29150069) [Google Books](http://books.google.com/books?as_isbn=9782701197678) [- Pourquoi Comment Combien](/2016/03/28/planete-de-virus/)

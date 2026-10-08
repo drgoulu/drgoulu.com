@@ -6,7 +6,7 @@ tags:
   - "casse-tetes"
 ---
 
-J’avais vu sur [ce super site](http://www.puzzles.com/PuzzleHelp/WordDownsizing/WordDownsizing.htm) un casse-tête intéressant : trouver un mot (anglais) de 8 lettres tel qu’en enlevant une lettre on obtienne un mot de 7 lettres correct, auquel en enlevant une lettre on tombe sur un mot anglais de 6 lettres également correct et ainsi de suite jusqu’à 1 lettre...
+J’avais vu sur [ce super site](https://web.archive.org/web/20050830225802/http://www.puzzles.com/PuzzleHelp/WordDownsizing/WordDownsizing.htm) un casse-tête intéressant : trouver un mot (anglais) de 8 lettres tel qu’en enlevant une lettre on obtienne un mot de 7 lettres correct, auquel en enlevant une lettre on tombe sur un mot anglais de 6 lettres également correct et ainsi de suite jusqu’à 1 lettre...
 
 Je me suis mis à écrire le programme [DicoLib](/2005/09/14/dicolib/) qui m’a permis de trouver de nombreuses solutions, parmi lesquelles :
 
@@ -14,7 +14,7 @@ Je me suis mis à écrire le programme [DicoLib](/2005/09/14/dicolib/) qui m’a
 - restarted, restated, restate, estate, state, sate, ate, at, a
 - streambed, streamed, steamed, teamed, tamed, tame, tam, am, a
 
-mais je n’ai bêtement pas eu l’idée d’en chercher une de 9 lettres, ce qui fait que ce n’est pas moi qui ai trouvé la [meilleure solution](http://www.puzzles.com/PuzzleHelp/WordDownsizing/WordDownsizingSol.htm):
+mais je n’ai bêtement pas eu l’idée d’en chercher une de 9 lettres, ce qui fait que ce n’est pas moi qui ai trouvé la [meilleure solution](https://web.archive.org/web/20050406201617/http://www.puzzles.com/PuzzleHelp/WordDownsizing/WordDownsizingSol.htm):
 
 - STARTLING, STARTING, STARING, STRING, STRING, SING, SIN, IN, I
 

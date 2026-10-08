@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 [heapq.merge](https://docs.python.org/fr/3.7/library/heapq.html#heapq.merge) . La fonction qu'on utilise pas souvent, mais qui transforme un problème compliqué en solution de toute beauté quand on en a besoin.
 
-En fait comme l'expliquent dans un style inimitable Sam & Max, [Heapq est un module Python incompris](http://sametmax.com/heapq-le-module-python-incompris/) mais merveilleusement pythonique.
+En fait comme l'expliquent dans un style inimitable Sam & Max, [Heapq est un module Python incompris](https://web.archive.org/web/20190622172212/http://sametmax.com/heapq-le-module-python-incompris/) mais merveilleusement pythonique.

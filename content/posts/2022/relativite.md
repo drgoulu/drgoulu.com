@@ -15,7 +15,7 @@ coverImage: ./images/quora.png
 
 Cherchons la vitesse tangentielle donnant un [Facteur de Lorentz](w:)de 1.0000027777
 
-[Find speed for Lorentz factor = 1.0000027777 - Wolfram|Alpha](https://www.wolframalpha.com/input?i=Find+speed+for+Lorentz+factor+=+1.0000027777)
+[Find speed for Lorentz factor = 1.0000027777 - Wolfram|Alpha](https://web.archive.org/web/20220226/https://www.wolframalpha.com/input?i=Find+speed+for+Lorentz+factor+=+1.0000027777)
 
 Dit que c est à 700 km/s, donc votre roue de pi m de circonférence doit faire 700'000/pi tours par seconde. Multipliez par 60 pour les tours par minute et pleurez : absolument aucun matériau ne permet de réaliser une roue qui résisterait à la force centrifuge à un millième de cette vitesse.
 

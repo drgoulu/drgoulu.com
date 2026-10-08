@@ -24,7 +24,7 @@ Utiles, car nos cartes à puces, téléphones et ordinateurs consomment des quan
 
 Ceci parait surprenant de prime abord, puisqu'on apprend à l'école à déterminer si n est premier en tentant de le diviser par les nombres premiers déjà connus inférieurs à √n, ce qui n'est autre qu'une factorisation. On découvre à l'école aussi le [crible d'Eratosthène](w:), qui fournit depuis 2000 ans les nombres premiers les uns après les autres à tous les heureux possesseurs de feuilles quadrillées ou de mémoires informatiques:
 
-{{< figure src="./images/246979fd8d7bdf29a95cdb2e08cd2e89.gif" alt="Animation du Crible d'Erathosthène (Wikipédia)" caption="Animation du Crible d'Erathosthène (Wikipédia)" link="http://fr.wikipedia.org/wiki/Crible_d'%C3%89ratosth%C3%A8ne" align="aligncenter" width="554" >}}
+{{< figure src="./images/246979fd8d7bdf29a95cdb2e08cd2e89.gif" alt="Animation du Crible d'Erathosthène (Wikipédia)" caption="Animation du Crible d'Erathosthène (Wikipédia)" link="https://web.archive.org/web/20220308122644/http://fr.wikipedia.org/wiki/Crible_d'%C3%89ratosth%C3%A8ne" align="aligncenter" width="554" >}}
 
  
 
@@ -66,7 +66,7 @@ Fin 2009, une équipe internationale a cracké un code [RSA-768](w:), en factor
 
 Nous avons vu plus haut comment obtenir tous les nombres premiers nettement plus courts, ou quelques nombres premiers nettement plus longs, mais pour RSA, nous avons besoin d'obtenir en quelques secondes des nombres premiers de 154 chiffres, avec un seul petit processeur enfermé dans le boitier d'un routeur par exemple, et sans que le nombre transite par un réseau où il pourrait être intercepté. De plus, le nombre ne doit pas être stocké dans une table dont un pirate pourrait essayer les combinaisons : il doit être généré aléatoirement.
 
-Mais au fait, existe-t-il beaucoup de nombres premiers de 154 chiffres ? Oh que oui : la densité des nombres premiers autour de n est de 1/ln(n), or [1/ln(10154)](http://www.wolframalpha.com/input/?i=1%2Fln%2810%5E154%29) donne environ 0.3% : environ 3 nombres de 154 chiffres sur 1000 sont premiers, donc il y en a des giga milliards de floppées. Donc tout ce que notre petit routeur a à faire de temps en temps c'est:
+Mais au fait, existe-t-il beaucoup de nombres premiers de 154 chiffres ? Oh que oui : la densité des nombres premiers autour de n est de 1/ln(n), or [1/ln(10154)](https://web.archive.org/web/20120520155643/http://www.wolframalpha.com/input/?i=1%2Fln%2810%5E154%29) donne environ 0.3% : environ 3 nombres de 154 chiffres sur 1000 sont premiers, donc il y en a des giga milliards de floppées. Donc tout ce que notre petit routeur a à faire de temps en temps c'est:
 
 1. générer un nombre aléatoire de 154 chiffres en tirant au hasard 511 bits à pile ou face, et en ajoutant un 512ème bit = 1 pour faire un nombre impair. facile et ultra rapide.
 2. vérifier si le nombre est premier à l'aide d'un  [test de primalité probabiliste](w:test_de_primalité#Tests_probabilistes) plus  moderne que celui de Fermat comme celui de [Miller-Rabin](w:Test_de_primalité_de_Miller-Rabin).
@@ -76,7 +76,7 @@ Pour vous faire une idée de la vitesse de ceci, allez au milieu de [cette page
 
 {{< figure src="./images/0974521d6a6097b331bf7dee56484ed8.png" alt="onlineprime" caption="cliquez sur l'image et scrollez vers le milieu de la page" link="http://www.mobilefish.com/services/rsa_key_generation/rsa_key_generation.php" align="aligncenter" width="628" >}}
 
-Oui mais, me direz vous, les tests probabilistes ne garantissent pas absolument que les nombres soient premiers. Il y a un risque qu'on encode le message avec une clé foireuse, et donc qu'il soit "facile" à décoder. Effectivement, mais on admet généralement que la probabilité qu'un nombre de cette taille soit [pseudopremier](w:Nombre_pseudopremier) est de l'ordre d'une sur 1030. Et si votre message est si précieux que vous n'êtes pas prêt à courir ce risque, réfléchissez à [ceci](http://stackoverflow.com/questions/4159333/rsa-and-prime-generator-algorithms) : le risque qu'un rayon cosmique change un bit du nombre pendant un test de primalité déterministe est un million de fois plus élevé ! J'aime bien cette idée qu'un algorithme probabiliste soit plus fiable qu'une machine considérée comme déterministe, pas vous ?
+Oui mais, me direz vous, les tests probabilistes ne garantissent pas absolument que les nombres soient premiers. Il y a un risque qu'on encode le message avec une clé foireuse, et donc qu'il soit "facile" à décoder. Effectivement, mais on admet généralement que la probabilité qu'un nombre de cette taille soit [pseudopremier](w:Nombre_pseudopremier) est de l'ordre d'une sur 1030. Et si votre message est si précieux que vous n'êtes pas prêt à courir ce risque, réfléchissez à [ceci](https://web.archive.org/web/20140423185734/http://stackoverflow.com/questions/4159333/rsa-and-prime-generator-algorithms) : le risque qu'un rayon cosmique change un bit du nombre pendant un test de primalité déterministe est un million de fois plus élevé ! J'aime bien cette idée qu'un algorithme probabiliste soit plus fiable qu'une machine considérée comme déterministe, pas vous ?
 
 Notes :
 
@@ -86,6 +86,6 @@ Notes :
 
 ## Pour en savoir plus
 
-1. [L'algorithme RSA](http://www.siteduzero.com/tutoriel-3-2320-l-algorithme-rsa.html?all=1) sur le Site du Zéro
+1. [L'algorithme RSA](https://web.archive.org/web/20100509073207/http://www.siteduzero.com/tutoriel-3-2320-l-algorithme-rsa.html?all=1) sur le Site du Zéro
 2. {{< openbook booknumber="ISBN:2842450175" templatenumber="5" >}}
-3. [nzmath.prime](http://tnt.math.se.tmu.ac.jp/nzmath/) : une librairie Python avec les fonctions qu'il faut
+3. [nzmath.prime](https://web.archive.org/web/20120610095315/http://tnt.math.se.tmu.ac.jp/nzmath/) : une librairie Python avec les fonctions qu'il faut

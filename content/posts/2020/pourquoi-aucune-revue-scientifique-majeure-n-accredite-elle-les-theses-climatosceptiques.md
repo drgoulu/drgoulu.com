@@ -32,4 +32,4 @@ Les "prix Nobel climatosceptiques" de [Attar Nadia](https://fr.quora.com/profile
 
 Notes de bas de page
 
-[[1]](#cite-GjkmX)[Journal Rankings on Atmospheric Science](https://www.scimagojr.com/journalrank.php?category=1902)
+[[1]](#cite-GjkmX)[Journal Rankings on Atmospheric Science](https://web.archive.org/web/20200609131243/https://www.scimagojr.com/journalrank.php?category=1902)

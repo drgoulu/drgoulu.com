@@ -34,4 +34,4 @@ Le taux d'endettement de l'Etat du Gabon est en effet inférieur, mais son patri
 
 Notes de bas de page
 
-[[1]](#cite-clfuq)[https://www.aft.gouv.fr/fr/budge...](https://www.aft.gouv.fr/fr/budget-etat)
+[[1]](#cite-clfuq)[https://www.aft.gouv.fr/fr/budge...](https://web.archive.org/web/20240705110709/https://www.aft.gouv.fr/fr/budget-etat)

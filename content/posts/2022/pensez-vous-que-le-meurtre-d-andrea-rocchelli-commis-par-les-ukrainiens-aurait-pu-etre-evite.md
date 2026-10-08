@@ -26,4 +26,4 @@ Comme pour la catastrophe du [Vol Malaysia Airlines 17](w:), Il faudra une longu
 
 En attendant, c'est malheureusement "les risques du métier".
 
-[https://jfj.fund/italy-sentences...](https://jfj.fund/italy-sentences-ukrainian-soldier-for-italian-photographer-murder-ukraine-says-hes-innocent/)
+[https://jfj.fund/italy-sentences...](https://web.archive.org/web/20220303082925/https://jfj.fund/italy-sentences-ukrainian-soldier-for-italian-photographer-murder-ukraine-says-hes-innocent/)

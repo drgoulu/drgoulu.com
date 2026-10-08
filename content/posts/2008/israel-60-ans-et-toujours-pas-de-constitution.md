@@ -22,13 +22,13 @@ Le comité de la Constitution de la Knesset a présenté en 2006 une série de p
 L'Etat d'Israël a clairement la forme d'une "république parlementaire multipartite et une démocratie libérale qui a adopté le suffrage universel" \[2\], et c'est très bien ainsi. Mais le fond n'est pas clair, et c'est une Constitution qui permettra à ses partenaires de savoir si Israël est :
 
 - une démocratie laïque reconnaissant l'égalité des droits entre citoyens sans distinction de religion
-- ou  un "Etat Juif" dans lequel les non-juifs sont discriminés (ne serait-ce qu'en regard de l'immigration), [comme le dénonce](http://www.voltairenet.org/article148035.html) [Azmi Bishara](http://www.voltairenet.org/article148035.html) \[3\], ex-[député israélien](http://www.knesset.gov.il/mk/eng/mk_eng.asp?mk_individual_id_t=29) arabe (chrétien ou musulman, je l'ignore)
+- ou  un "Etat Juif" dans lequel les non-juifs sont discriminés (ne serait-ce qu'en regard de l'immigration), [comme le dénonce](https://web.archive.org/web/20080505094334/http://www.voltairenet.org/article148035.html) [Azmi Bishara](https://web.archive.org/web/20080505094334/http://www.voltairenet.org/article148035.html) \[3\], ex-[député israélien](http://www.knesset.gov.il/mk/eng/mk_eng.asp?mk_individual_id_t=29) arabe (chrétien ou musulman, je l'ignore)
 - voire même une théocratie, si les religieux (ultra-)orthodoxes parviennent à empêcher l'adoption d'une Constitution...
 
 ### Sources:
 
 1. [Lois fondamentales d'Israël](w:Lois_fondamentales_d'Israël#Liste_des_lois_fondamentales) sur Wikipedia
 2. [Israël](w:Israël#Politique) sur Wikipedia
-3. [Azmi Bishara](w:), "[les raisons pour lesquelles Israël m’en veut](http://www.voltairenet.org/article148035.html)", 10 mai 2007, voltairenet.org, traduction d'un article paru dans le Los Angeles Times
+3. [Azmi Bishara](w:), "[les raisons pour lesquelles Israël m’en veut](https://web.archive.org/web/20080505094334/http://www.voltairenet.org/article148035.html)", 10 mai 2007, voltairenet.org, traduction d'un article paru dans le Los Angeles Times
 
 Note \*: Seuls le [Royaume-Uni](w:Royaume-Uni#Gouvernement) et la [Nouvelle Zélande](w:Constitution_de_la_Nouvelle-Zélande) n'ont pas non plus de Constitution écrite, fait qui résulte d'une transition douce depuis la monarchie.

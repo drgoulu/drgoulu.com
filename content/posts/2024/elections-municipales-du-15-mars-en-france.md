@@ -65,7 +65,7 @@ Notes de bas de page
 
 [[1]](#cite-AfrQO)[GitHub - republique-et-canton-de-geneve/chvote-1-0: The Geneva electronic vote system, version 1.](https://github.com/republique-et-canton-de-geneve/chvote-1-0)
 
-[[2]](#cite-PkrZj)[Secure Voting Website Using Ethereum and Smart Contracts](https://www.mdpi.com/2571-5577/6/4/70)
+[[2]](#cite-PkrZj)[Secure Voting Website Using Ethereum and Smart Contracts](https://web.archive.org/web/20240916084150/https://www.mdpi.com/2571-5577/6/4/70)
 
 [[3]](#cite-FUJot)[GitHub - Krish-Depani/Decentralized-Voting-System: A decentralized voting system using Ethereum blockchain for secure and transparent elections, with features like user authentication and real-time result tracking.](https://github.com/Krish-Depani/Decentralized-Voting-System)
 

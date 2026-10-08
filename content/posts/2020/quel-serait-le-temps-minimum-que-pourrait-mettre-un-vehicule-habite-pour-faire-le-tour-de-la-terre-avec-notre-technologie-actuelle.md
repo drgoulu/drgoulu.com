@@ -26,6 +26,6 @@ Théoriquement, les avions militaires les plus rapides pourraient faire le tour 
 
 Notes de bas de page
 
-[[1]](#cite-EfCgY)[https://www.qatarairways.com/en/...](https://www.qatarairways.com/en/press-releases/2019/July/onemoreorbit.html)
+[[1]](#cite-EfCgY)[https://www.qatarairways.com/en/...](https://web.archive.org/web/20210803083946/https://www.qatarairways.com/en/press-releases/2019/July/onemoreorbit.html)
 
 [[2]](#cite-VMvzS)[Record : le tour du monde en 52 heures et quatre vols réguliers (vidéo) | Air Journal](https://www.air-journal.fr/2018-02-16-record-le-tour-du-monde-en-52-heures-et-quatre-vols-reguliers-video-5194681.html)

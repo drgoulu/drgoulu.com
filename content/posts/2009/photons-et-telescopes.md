@@ -20,11 +20,11 @@ Désormais, nous sommes capables de capter les photons de toutes les fréquences
 
 Voici  un petit tour d'horizon des principaux instruments qui complètent Hubble et les télescopes optiques traditionnels, illustré avec les dernières images qu'ils ont fourni.
 
-Dans l'infrarouge, la découverte par [Spitzer](w:Spitzer_(télescope_spatial)) d'un gigantesque anneau de poussière entourant Saturne montre qu'on peut encore découvrir des choses surprenantes dans notre propre système solaire. (L'image ci-dessous est un dessin d'artiste, la [vraie image](http://www.spitzer.caltech.edu/search/image_set/20?search=ssc2009-19a) étant moins sexy, mais il y aura certainement bientôt une image de l'anneau complet)
+Dans l'infrarouge, la découverte par [Spitzer](w:Spitzer_(télescope_spatial)) d'un gigantesque anneau de poussière entourant Saturne montre qu'on peut encore découvrir des choses surprenantes dans notre propre système solaire. (L'image ci-dessous est un dessin d'artiste, la [vraie image](https://web.archive.org/web/20240728234926/http://www.spitzer.caltech.edu/search/image_set/20?search=ssc2009-19a) étant moins sexy, mais il y aura certainement bientôt une image de l'anneau complet)
 
 [![vue dartiste de lanneau de Saturne observé dans linfrarouge par Spitzer](./images/f2853a598c8f40e086f1433cc2f9f459.jpg)](http://science.nasa.gov/science-news/science-at-nasa/2009/07oct_giantring/)
 
-Dans l'ultraviolet, ce sont principalement [Galex](w:) et [Swift](w:SWIFT_(télescope_spatial)) qui scrutent le ciel. Swift a produit une [magnifique image de la galaxie d'Andromède](http://www.nasa.gov/mission_pages/swift/bursts/uv_andromeda.html) (M31) dans laquelle on peut distinguer 20'000 sources, principalement de jeunes étoiles. Admirez ça :
+Dans l'ultraviolet, ce sont principalement [Galex](w:) et [Swift](w:SWIFT_(télescope_spatial)) qui scrutent le ciel. Swift a produit une [magnifique image de la galaxie d'Andromède](https://web.archive.org/web/20091012185607/http://www.nasa.gov/mission_pages/swift/bursts/uv_andromeda.html) (M31) dans laquelle on peut distinguer 20'000 sources, principalement de jeunes étoiles. Admirez ça :
 
 {{< youtube id="HWxBTHVhc3I" >}}
 
@@ -38,4 +38,4 @@ Ce phénomène produira a coup sur une flambée de rayons gamma, la "lumière" l
 
 Il ne faudrait pas pour autant oublier les radiotélescopes. Après [Arecibo](w:Radiotélescope_d'Arecibo) qui ne captait que des signaux, le [Very Large Array](w:Very_Large_Array) (VLA) et  le [Very Long Baseline Array](w:VLBA) (VLBA) fournissent désormais des images "radio" avec une résolution comparable aux télescopes optiques. En combinaison avec d'autres instruments, la [radioastronomie](w:) permet de mieux comprendre des phénomènes aussi titanesques que les [jets des trous noirs](/2008/05/03/le-jets-des-trous-noirs/):
 
-{{< figure src="./images/d6078fb981f30530a1bc4f3925a01c97.jpg" alt="jets du trou noir centrale de la galaxie M87 observé par plusieurs instruments" caption="jets du trou noir centrale de la galaxie M87 observé par plusieurs instruments (cliquer pour plus d'infos)" link="http://www.nrao.edu/pr/2009/m87gamma/graphics.shtml" align="aligncenter" width="436" >}}
+{{< figure src="./images/d6078fb981f30530a1bc4f3925a01c97.jpg" alt="jets du trou noir centrale de la galaxie M87 observé par plusieurs instruments" caption="jets du trou noir centrale de la galaxie M87 observé par plusieurs instruments (cliquer pour plus d'infos)" link="https://web.archive.org/web/20090708022521/http://www.nrao.edu/pr/2009/m87gamma/graphics.shtml" align="aligncenter" width="436" >}}

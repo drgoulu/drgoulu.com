@@ -15,4 +15,4 @@ Ils ne traversent pas l'équateur. Jamais. Exactement pour la raison que vous di
 
 ![](./images/qimg-e5cb5854b13e6d573b44785a8c16fbda.jpg)
 
-C'est la trajectoire de tous les cyclones répertoriés entre 1985 et 2005 (source [Nomenclature des cyclones tropicaux | Wikiwand](https://www.wikiwand.com/fr/Nomenclature_des_cyclones_tropicaux) )
+C'est la trajectoire de tous les cyclones répertoriés entre 1985 et 2005 (source [Nomenclature des cyclones tropicaux | Wikiwand](https://web.archive.org/web/20210725220739/https://www.wikiwand.com/fr/Nomenclature_des_cyclones_tropicaux) )

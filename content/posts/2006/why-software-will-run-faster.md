@@ -9,15 +9,15 @@ tags:
   - "informatique"
 ---
 
-in "[Why Software Won't Run Any Faster Any Time Soon](http://worldcadaccess.typepad.com/blog/2006/12/why_software_wo.html)", Ralph Gabowski quotes 7 facts that look correct, but I think his conclusion isn't.
+in "[Why Software Won't Run Any Faster Any Time Soon](https://web.archive.org/web/20070105223827/http://worldcadaccess.typepad.com/blog/2006/12/why_software_wo.html)", Ralph Gabowski quotes 7 facts that look correct, but I think his conclusion isn't.
 
 Multicore (fact 3) is a hardware solution to implement multiprocessing at a "medium grain" level : it is efficient to run different programs, or processes, or threads that have little communication with others (to avoid problem mentioned in fact 5).
 
-However, there is no reason to "rewrite software for multicore" (fact 4). Compilers will soon integrate tools like [Intel's Threading Tools](http://software.intel.com/en-us/intel-sdp-home/) to generate optimized multithreaded code, perhaps with a little help from human preprocessing (with [OpenMP](http://openmp.org/wp/) for example).
+However, there is no reason to "rewrite software for multicore" (fact 4). Compilers will soon integrate tools like [Intel's Threading Tools](https://web.archive.org/web/20090308013841/http://software.intel.com/en-us/intel-sdp-home/) to generate optimized multithreaded code, perhaps with a little help from human preprocessing (with [OpenMP](https://web.archive.org/web/20080506094816/http://openmp.org/wp/) for example).
 
 The reason why I'm confident about this is that compilers already handle very well "fine grain" parallelism, or "vectorization", to execute independent operations (almost) simultaneously.
 
-GPUs are precisely "fine grain parallel" processors that were designed for graphics (fact 7), but this might change. Analysts think the purchase of ATI by AMD annouces a merge of CPUs and GPUs in the near future. We will likely see soon multicores CPUs with highly parallelized cores, each being able to work either as a GPU or as a CPU on demand. The [Cell processor from IBM](http://www.research.ibm.com/cell/), used in Sony's Playstation 3 might be considered as a first attempt in this direction. And true, few software can take advantage of its power for now.
+GPUs are precisely "fine grain parallel" processors that were designed for graphics (fact 7), but this might change. Analysts think the purchase of ATI by AMD annouces a merge of CPUs and GPUs in the near future. We will likely see soon multicores CPUs with highly parallelized cores, each being able to work either as a GPU or as a CPU on demand. The [Cell processor from IBM](https://web.archive.org/web/20061229094657/http://www.research.ibm.com/cell/), used in Sony's Playstation 3 might be considered as a first attempt in this direction. And true, few software can take advantage of its power for now.
 
 The fact that CPU clock speeds "stalled" (fact 1) doesn't mean that processing power did so. Parallelism is a way to continue to increase Flops (FLoating Point Operations per Second) without increase in Gigaherz, which proved to be a "cheap", non-innovative way to improve performance.
 

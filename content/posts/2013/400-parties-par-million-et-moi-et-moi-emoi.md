@@ -16,7 +16,7 @@ coverImage: "./images/382eab9bc9a7fb3838c9a892ac66c40b.png"
 
 Ca y'est, la concentration de CO2 dans l'atmosphère a atteint 400 [ppm](w:partie_par_million) soit 0.04%. Ca n'était plus arrivé depuis le [pliocène](w:), il y a environ 3 millions d'années. On ne sait pas vraiment ce qui a fait augmenter le CO2 à l'époque, mais pour aujourd'hui on sait : c'est nous, sans [aucun doute](/2007/05/23/faq-rechauffement-global/).
 
-Certains sont cruellement [désabusés](http://tomroud.cafe-sciences.org/2013/05/07/400-ppm-desabuse/) : malgré le GIEC, Kyoto, Copenhague et tous les efforts officiellement décidés en haut lieu, on se dirige à grands pas vers un réchauffement important de la planète, accompagné de conséquences majeures.
+Certains sont cruellement [désabusés](https://web.archive.org/web/20130710004758/http://tomroud.cafe-sciences.org/2013/05/07/400-ppm-desabuse/) : malgré le GIEC, Kyoto, Copenhague et tous les efforts officiellement décidés en haut lieu, on se dirige à grands pas vers un réchauffement important de la planète, accompagné de conséquences majeures.
 
 Pour ma part, cette nouvelle m'a fait penser à cette chanson de Jacques Dutronc :
 
@@ -78,8 +78,8 @@ Bon, je voulais encore causer de la comparaison entre le climat du [pliocène](w
 1. <span id="ref-1"></span>Jean-Marc Jancovici "[L'équation de Kaya](http://www.manicore.com/documentation/serre/kaya.html)" sur Manicore
 2. <span id="ref-2"></span>"International Energy Outlook : [Appendix H Kaya Identity factor projections](http://www.eia.gov/forecasts/ieo/pdf/apph.pdf)", 2011, U.S. Energy Information Administration[](http://www.eia.gov/forecasts/ieo/pdf/apph.pdf)
 3. <span id="ref-3"></span>"[World Population to reach 10 billion by 2100 if Fertility in all Countries Converges to Replacement Level](http://esa.un.org/unpd/wpp/Other-Information/Press_Release_WPP2010.pdf)", ONU, 2011
-4. <span id="ref-4"></span>Michael R. Raupach "[Global and regional drivers of accelerating CO2 emissions](http://www.pnas.org/content/104/24/10288/F4.expansion.html)" , 2007, Proceedings of the National Academy of Sciences of the United States of America (PNAS), vol. 104 no. 24, 10288–10293 {{< altmetric doi="10.1073/pnas.0700609104" >}}
-5. <span id="ref-5"></span>Jamais Cascio "[The Kaya Identity and the "Conservation Bomb"](http://www.openthefuture.com/wcarchive/2005/06/the_kaya_identity_and_the_cons.html), 2005
-6. <span id="ref-6"></span>Mark A. Chandler "[The Climate of the Pliocene: Simulating Earth's Last Great Warm Period](http://www.giss.nasa.gov/research/features/199704_pliocene/)", GISS-NASA, April 1997
-7. <span id="ref-7"></span>A. Fedorov et al. "[The Pliocene Paradox](http://www.aos.princeton.edu/WWWPUBLIC/gphlder/pliopar.pdf)", Science 9 June 2006: Vol. 312 no. 5779 pp. 1485-1489{{< altmetric doi="10.1126/science.1122666" >}}
-8. <span id="ref-8"></span>Daniel J. Lunt "[Cause of Pliocene warmth & Intensification of Northern Hemisphere Glaciation](http://homepages.see.leeds.ac.uk/~earamh/Files/PAGES_Pliocene/Handouts.pdf)", University of Leeds
+4. <span id="ref-4"></span>Michael R. Raupach "[Global and regional drivers of accelerating CO2 emissions](https://web.archive.org/web/20170309072956/http://www.pnas.org/content/104/24/10288/F4.expansion.html)" , 2007, Proceedings of the National Academy of Sciences of the United States of America (PNAS), vol. 104 no. 24, 10288–10293 {{< altmetric doi="10.1073/pnas.0700609104" >}}
+5. <span id="ref-5"></span>Jamais Cascio "[The Kaya Identity and the "Conservation Bomb"](https://web.archive.org/web/20080701030408/http://www.openthefuture.com/wcarchive/2005/06/the_kaya_identity_and_the_cons.html), 2005
+6. <span id="ref-6"></span>Mark A. Chandler "[The Climate of the Pliocene: Simulating Earth's Last Great Warm Period](https://web.archive.org/web/20121107084354/http://www.giss.nasa.gov/research/features/199704_pliocene/)", GISS-NASA, April 1997
+7. <span id="ref-7"></span>A. Fedorov et al. "[The Pliocene Paradox](https://web.archive.org/web/20120324163131/http://www.aos.princeton.edu/WWWPUBLIC/gphlder/pliopar.pdf)", Science 9 June 2006: Vol. 312 no. 5779 pp. 1485-1489{{< altmetric doi="10.1126/science.1122666" >}}
+8. <span id="ref-8"></span>Daniel J. Lunt "[Cause of Pliocene warmth & Intensification of Northern Hemisphere Glaciation](https://web.archive.org/web/20220811000103/http://homepages.see.leeds.ac.uk/~earamh/Files/PAGES_Pliocene/Handouts.pdf)", University of Leeds

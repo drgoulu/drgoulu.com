@@ -25,4 +25,4 @@ Ce n'est qu'en désespoir de cause qu'ils ont fondé une religion distincte 300 
 
 Notes de bas de page
 
-[[1]](#cite-ftPGz)[http://www.bristolastrosoc.org.u...](http://www.bristolastrosoc.org.uk/www/media/Publications_BAS_Documents/the_star_of_bethlehem.pdf)
+[[1]](#cite-ftPGz)[http://www.bristolastrosoc.org.u...](https://web.archive.org/web/20210719005617/http://www.bristolastrosoc.org.uk/www/media/Publications_BAS_Documents/the_star_of_bethlehem.pdf)

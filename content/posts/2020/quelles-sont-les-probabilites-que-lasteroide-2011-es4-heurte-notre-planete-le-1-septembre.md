@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quelles-sont-les-probabilit%C3%A9s-que-l-ast%C3%A9ro%C3%AFde-2011-ES4-heurte-notre-plan%C3%A8te-le-1-septembre/answer/Dr-Goulu)*
 
-1/56497, mais en 2055 selon [ESA - Risk page](http://neo.ssa.esa.int/risk-page)
+1/56497, mais en 2055 selon [ESA - Risk page](https://web.archive.org/web/20200813210037/http://neo.ssa.esa.int/risk-page)
 
 Pour cette année, ça passera à côté.
 

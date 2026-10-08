@@ -26,4 +26,4 @@ Les deux Boeing 747 sont le [KLM Flight 867](w:en:KLM_Flight_867)et le [Vol Brit
 
 Notes de bas de page
 
-[[1]](#cite-ZzWYS)[Les cendres volcaniques, un risque connu pour l’aviation](https://www.liberation.fr/terre/2010/04/15/les-cendres-volcaniques-un-risque-connu-pour-l-aviation_621083)
+[[1]](#cite-ZzWYS)[Les cendres volcaniques, un risque connu pour l’aviation](https://web.archive.org/web/20210911143941/https://www.liberation.fr/terre/2010/04/15/les-cendres-volcaniques-un-risque-connu-pour-l-aviation_621083)

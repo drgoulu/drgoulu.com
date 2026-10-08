@@ -28,4 +28,4 @@ Note *. Ça m'a scié qu'un président ose dire ça de son peuple quel qu'il soi
 
 Notes de bas de page
 
-[[1]](#cite-xkpPn)[Référendum : pour Macron, « le modèle suisse est inadapté à la France »](https://www.lepoint.fr/politique/emmanuel-berretta/referendum-pour-macron-le-modele-suisse-est-inadapte-a-la-france-01-02-2019-2290574_1897.php)
+[[1]](#cite-xkpPn)[Référendum : pour Macron, « le modèle suisse est inadapté à la France »](https://web.archive.org/web/20230405230018/https://www.lepoint.fr/politique/emmanuel-berretta/referendum-pour-macron-le-modele-suisse-est-inadapte-a-la-france-01-02-2019-2290574_1897.php)

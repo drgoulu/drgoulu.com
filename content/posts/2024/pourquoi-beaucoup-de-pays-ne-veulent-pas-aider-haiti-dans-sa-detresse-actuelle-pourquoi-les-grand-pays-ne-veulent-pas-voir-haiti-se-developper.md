@@ -20,7 +20,7 @@ coverImage: ./images/quora.png
 
 Sur la première question, je suis de loin la situation d'Haïti depuis les années 1980 sous "baby doc", et c'est la descente ininterrompue dans le chaos. A peu près tous les pays, toutes les ONG du monde ont essayé d'aider Haïti à un moment où un autre. Rien n'a marché.
 
-Pour mon pays, la Suisse, c'est décrit ici : [Relations bilatérales Suisse–Haïti](https://www.eda.admin.ch/countries/haiti/fr/home/relations-bilaterales/bilaterale.html)
+Pour mon pays, la Suisse, c'est décrit ici : [Relations bilatérales Suisse–Haïti](https://web.archive.org/web/20240911002412/https://www.eda.admin.ch/countries/haiti/fr/home/relations-bilaterales/bilaterale.html)
 
 Et comme vous pouvez le constater, même la Suisse, neutre, qui n'a jamais eu de colonie, a dû laisser tomber tellement l'insécurité a augmenté ces dernières années en Haïti.
 

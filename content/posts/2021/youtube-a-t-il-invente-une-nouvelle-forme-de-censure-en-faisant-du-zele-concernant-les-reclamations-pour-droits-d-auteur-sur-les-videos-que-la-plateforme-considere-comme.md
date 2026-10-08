@@ -15,4 +15,4 @@ Comment savez vous qu'ils sont plus zélés pour certaines vidéos ?
 
 Ils ont un outil pour faciliter la recherche de violation de copyright, donc ce serait plutôt les détenteurs des droits sur ces vidéos "indésirables ou orientées différemment" qui seraient plus zélés…
 
-[https://support.google.com/youtu...](https://support.google.com/youtube/answer/7648743?hl=fr)
+[https://support.google.com/youtu...](https://web.archive.org/web/20210510031745/https://support.google.com/youtube/answer/7648743?hl=fr)

@@ -42,4 +42,4 @@ Bonne et Chanceuse Année 2019 !
 
 ### Références :
 
-1. <span id="ref-1"></span>V. Gardiner, R. Lazarus, N. Metropolis, S. Ulam (1956) : [*Similarities between the properties of the prime numbers and lucky numbers*](https://doi.org/10.1088/0025570X.1956.11976563), Mathematics Magazine, 29 (5), p. 273–280.
+1. <span id="ref-1"></span>V. Gardiner, R. Lazarus, N. Metropolis, S. Ulam (1956) : [*Similarities between the properties of the prime numbers and lucky numbers*](https://web.archive.org/web/20190106/https://doi.org/10.1088/0025570X.1956.11976563), Mathematics Magazine, 29 (5), p. 273–280.

@@ -28,4 +28,4 @@ Ensuite, les sondes Pioneer 10 et 11 sont presque aussi loin
 
 Notes de bas de page
 
-[[1]](#cite-OIoYr)[Voyager - Mission Status](https://voyager.jpl.nasa.gov/mission/status/)
+[[1]](#cite-OIoYr)[Voyager - Mission Status](https://web.archive.org/web/20210210002506/https://voyager.jpl.nasa.gov/mission/status/)

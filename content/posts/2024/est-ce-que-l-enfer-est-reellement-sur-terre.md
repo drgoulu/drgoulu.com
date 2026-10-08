@@ -23,7 +23,7 @@ Vous voyez même "à l'œil" que les pays "riches" à droite du graphique ont un
 
 La conséquence de ceci est qu'il n'y a plus de fossé entre pays "riches" et "pauvres" depuis les années 1990 environ, comme le montre très bien Hans Rosling dans plusieurs conférences extraordinaires, par exemple celle ci:
 
-[https://www.ted.com/talks/hans_r...](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)
+[https://www.ted.com/talks/hans_r...](https://web.archive.org/web/20240421020923/https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)
 
 Si votre pays est un enfer, c'est probablement parce que les richesses y sont très mal réparties, comme c'était le cas en Europe à la fin du 19ème siècle, pas parce que d'autres vous spoilent.
 

@@ -19,4 +19,4 @@ Vous pouvez voir ça comme une hiérarchie d'allocateurs : l'OS en a un qui allo
 
 Au niveau de l'OS, l'utilisation d'un [Gestionnaire de mémoire virtuelle](w:)permet d'isoler la mémoire allouée aux différents processus pour qu'ils n'aillent pas se perturber mutuellement, donc normalement vous ne pouvez pas lire, et encore moins écrire dans une adresse mémoire qui n'a pas été allouée à votre programme.
 
-[https://stackoverflow.com/questi...](https://stackoverflow.com/questions/2213627/when-you-exit-a-c-application-is-the-malloc-ed-memory-automatically-freed)
+[https://stackoverflow.com/questi...](https://web.archive.org/web/20230106004828/https://stackoverflow.com/questions/2213627/when-you-exit-a-c-application-is-the-malloc-ed-memory-automatically-freed)

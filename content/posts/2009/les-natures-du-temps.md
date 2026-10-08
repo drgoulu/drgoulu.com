@@ -11,7 +11,7 @@ tags:
 coverImage: "./images/3e2d028ba04d3e7947015c913bcb13a0.jpg"
 ---
 
-{{< figure src="./images/3e2d028ba04d3e7947015c913bcb13a0.jpg" alt="Gear Work 2 par Curious Expeditions sur flickr" link="http://www.flickr.com/photos/curiousexpeditions/489992128/" >}}
+{{< figure src="./images/3e2d028ba04d3e7947015c913bcb13a0.jpg" alt="Gear Work 2 par Curious Expeditions sur flickr" link="https://web.archive.org/web/20110512165500/http://www.flickr.com/photos/curiousexpeditions/489992128/" >}}
 
 "Gear Work 2" par Curious Expeditions sur flickr
 
@@ -25,7 +25,7 @@ Le second prix va à [Claus Kiefer](http://www.thp.uni-koeln.de/gravitation/mit
 
 _Un problème fondamental en gravité quantique est que_ [_l'équation de Wheeler-DeWitt_](w:en:Wheeler-deWitt_equation)_, probablement notre équantion la plus fiable en gravité quantique, ne se réfère ni même ne suggère quoi que ce soit à propos du temps oude l'évolution. Dans ce contexte le temps doit émerger sous forme de relations entre un système donné et un autre qui pourrait être considéré comme une horloge. Kiefer décrit (reviews) ce problème de façon magnifique et propose comment, grâce à la "décohérence quantique", le temps décrit par l'équation de Schrödinger habituelle en mécanqiue quantique peut émerger d'un substrat dépourvu de temps, via l'imbroglio (entanglement) entre les systèmes physiques de l'espace, et la métrique spaciale qui contrôle le mouvement.\*_
 
-Le troisième prix est décerné à Sean Carroll pour “[What if Time Really Exists?](http://www.fqxi.org/community/forum/topic/318)”. (Sean maintient le [blog Cosmic Variance](http://blogs.discovermagazine.com/cosmicvariance/) [grâce auquel](http://blogs.discovermagazine.com/cosmicvariance/2008/11/24/what-if-time-really-exists/) j'ai découvert ce concours)
+Le troisième prix est décerné à Sean Carroll pour “[What if Time Really Exists?](http://www.fqxi.org/community/forum/topic/318)”. (Sean maintient le [blog Cosmic Variance](https://web.archive.org/web/20090327210437/http://blogs.discovermagazine.com/cosmicvariance/) [grâce auquel](https://web.archive.org/web/20090323023737/http://blogs.discovermagazine.com/cosmicvariance/2008/11/24/what-if-time-really-exists/) j'ai découvert ce concours)
 
 _Poursuivant sur des développements récents de la théorie des cordes , Carroll a impressionné le jury par un intéressant (exciting) rapport sur comment un espace-temps gravitationnel pourrait en fait n'être qu'une approximation holographique d'une théorie sans gravitation dans laquelle le temps "existerait vraiement" . Observant les difficultés soulevées par d'étranges récurrences dans un univers éternel, il soutient une forte condition sur l'ensemble des états quantiques permis qui interdirait ces répétition. Carroll termine en tenant de réconcilier cette image avec les observations récentes qui indiquent que l'expansion de l'univers accélère, avec des résultats surprenants._
 

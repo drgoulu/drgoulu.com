@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quelles-raisons-aurions-nous-de-retourner-sur-la-Lune/answer/Dr-Goulu)*
 
-La NASA avait fait une liste en 2006 : “[Lunar Exploration Objectives](http://www.nasa.gov/exploration/home/why_moon_objectives.html)“ contenant [181 choses](http://www.nasa.gov/pdf/163560main_LunarExplorationObjectives.pdf) intéressantes à faire sur la Lune, réparties en [6 thèmes](http://www.nasa.gov/exploration/home/why_moon.html).
+La NASA avait fait une liste en 2006 : “[Lunar Exploration Objectives](https://web.archive.org/web/20220906021005/http://www.nasa.gov/exploration/home/why_moon_objectives.html)“ contenant [181 choses](https://web.archive.org/web/20220120110442/http://www.nasa.gov/pdf/163560main_LunarExplorationObjectives.pdf) intéressantes à faire sur la Lune, réparties en [6 thèmes](https://web.archive.org/web/20220617081512/http://www.nasa.gov/exploration/home/why_moon.html).
 
 - connaissances scientifiques : installation d’instruments de mesure, de télescopes et d’expériences de physique
 - expansion économique : systèmes d’observation et de mesure de la Terre fournissant des données commercialisables, pour beaucoup en relation avec le climat

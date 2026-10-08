@@ -13,7 +13,7 @@ tags:
 coverImage: "./images/4e33f9d9b863d16f7ddd3e4fa09660e3.jpg"
 ---
 
-{{< figure src="./images/27bf5cc2da41ae4eea2abd0a531ba54f.jpg" alt="An experimental sonic black hole par E8 Album HQR Initiative sur flickr.com" caption="\"An experimental sonic black hole\" par \"E8 Album HQR Initiative\" sur flickr.com" link="http://www.flickr.com/photos/e8albumdkmatai/4279809666/" align="alignleft" width="240" >}}
+{{< figure src="./images/27bf5cc2da41ae4eea2abd0a531ba54f.jpg" alt="An experimental sonic black hole par E8 Album HQR Initiative sur flickr.com" caption="\"An experimental sonic black hole\" par \"E8 Album HQR Initiative\" sur flickr.com" link="https://web.archive.org/web/20260203032856/http://www.flickr.com/photos/e8albumdkmatai/4279809666/" align="alignleft" width="240" >}}
 
 C'est du moins ce qu'illustre Jarmo Mäkelä dans son essai "Is Reality Digital or Analog?" [[1]](#ref-1) qui a remporté le premier [prix du concours FQXi 2011](http://www.fqxi.org/community/essay/winners/2011.1) dont [je vous ai causé](/2011/03/30/la-realite-est-elle-digitale-ou-analogique/) il y a quelques mois.
 
@@ -36,5 +36,5 @@ Note: titre changé le 8.8.18 de "... digital" en "... discret" car effectivemen
 ### Références:
 
 1. <span id="ref-1"></span>Jarmo Mäkelä, "[Is Reality Digital or Analog?](http://fqxi.org/data/essay-contest-files/Mkel_FQxiessay.pdf)", FQXi 2011 {{< altmetric arxiv="1106.2541v1" >}}
-2. <span id="ref-2"></span>George Musser "[Is Reality Digital or Analog?](http://blogs.scientificamerican.com/observations/2011/06/14/is-reality-digital-or-analog-read-the-essays-and-cast-your-vote/ "Permanent Link to Is Reality Digital or Analog? Read the Essays and Cast your Vote")" sur le blog Scientific American
+2. <span id="ref-2"></span>George Musser "[Is Reality Digital or Analog?](https://web.archive.org/web/20120602001622/http://blogs.scientificamerican.com/observations/2011/06/14/is-reality-digital-or-analog-read-the-essays-and-cast-your-vote/ "Permanent Link to Is Reality Digital or Analog? Read the Essays and Cast your Vote")" sur le blog Scientific American
 3. <span id="ref-3"></span>"[Interview with Jarmo Mäkelä, the FQXI winner.](http://zone-reflex.blogspot.com/2011/06/intervju-with-jarmo-makela-fqxi-winner.html)" sur Zone-Reflex

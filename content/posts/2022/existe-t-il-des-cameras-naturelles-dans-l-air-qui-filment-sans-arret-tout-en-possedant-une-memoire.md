@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Heu… les mouches ?
 
-[https://www.lemonde.fr/planete/a...](https://www.lemonde.fr/planete/article/2009/10/16/la-memoire-de-la-drosophile_1254816_3244.htm)
+[https://www.lemonde.fr/planete/a...](https://web.archive.org/web/20220214/https://www.lemonde.fr/planete/article/2009/10/16/la-memoire-de-la-drosophile_1254816_3244.htm)

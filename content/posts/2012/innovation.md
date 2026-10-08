@@ -18,7 +18,7 @@ coverImage: ./images/328f7398c97abb8dc01a010269c6b96c.jpg
 
 {{< figure alt="iStock_000018775492XSmall" caption="j'aime bien le logo de la conf ;-) (merci istockphoto)" link="http://www.istockphoto.com/stock-photo-18775492-goldfish-disguised-as-a-shark.php?st=c9bde31" src="./images/328f7398c97abb8dc01a010269c6b96c.jpg" width="322" >}}
 
-Assisté l'autre jour à la conférence "[Crée ou crève! : Inutile d'être génial ou savant pour être innovant!](http://www.rezonance.ch/rezo/classes/ft-first-tuesday/geneve/2012-06-19/)" d'Elmar Mock consacrée à l' "innovation de rupture".
+Assisté l'autre jour à la conférence "[Crée ou crève! : Inutile d'être génial ou savant pour être innovant!](https://web.archive.org/web/20120620150437/http://www.rezonance.ch/rezo/classes/ft-first-tuesday/geneve/2012-06-19/)" d'Elmar Mock consacrée à l' "innovation de rupture".
 
 Elmar Mock est l'un des inventeurs de la [Swatch](<w:Swatch_(marque)>) [[1]](#ref-1), une montre en rupture totale avec l'horlogerie suisse des années 1980. Comme il l'explique dans [la vidéo](https://vimeo.com/44659294) par une analogie assez grivoise pour capter l'attention (autour de 10:00), cette rupture a plutôt été la conséquence d'une avalanche de problèmes que le résultat d'une [vision géniale](/2007/05/15/montre-mecanique-contre-quartz/).
 
@@ -43,7 +43,7 @@ Si vous vous intéressez à la naissance de la Swatch, consacrez une demi-heure 
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/I6wExQ3gFE1JzC" width="510" height="420"frameborder="0" marginwidth="0" marginheight="0" scrolling="no"style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px; max-width:100%;"allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://www.slideshare.net/slideshow/elmar-mock-creaholic-la-fabrique-de-linnovation/14681791" title="elmar-mock-creaholic-la-fabrique-de-linnovation" target="_blank">elmar-mock-creaholic-la-fabrique-de-linnovation</a></strong>from <strong><a href="https://www.slideshare.net/Rezonance" target="_blank">Rezonance</a></strong></div>
 
-(paragraphe ajouté le 3.6.12 :)  Elizabeth Auzan  de [http://www.thinkingpartner.ch](http://www.thinkingpartner.ch/) a réalisé en temps réel un poster de la présentation. Il est ici :
+(paragraphe ajouté le 3.6.12 :)  Elizabeth Auzan  de [http://www.thinkingpartner.ch](https://web.archive.org/web/20130103215008/http://www.thinkingpartner.ch/) a réalisé en temps réel un poster de la présentation. Il est ici :
 
 [![](./images/cfedd64dd8ab70649d3eec55c107c07c.jpg)](http://www.flickr.com/photos/rezonance/7492957692)
 
@@ -67,7 +67,7 @@ A l'époque, les enseignes affichaient "tailleur", "cordonnier" ou "fruits et 
 
 ### Références
 
-1. <span id="ref-1"></span>"[Elmar Mock](http://www.worldtempus.com/fr/encyclopedie/index-encyclopedique/histoire-de-lhorlogerie/le-phenomene-swatch/les-hommes-dans-le-mouvement-swatch/elmar-mock/)" sur l'encyclopédie WorldTempus
-2. <span id="ref-2"></span>"[Innovation Indicator 2011](http://www.telekom-stiftung.de/dtag/cms/contentblob/Telekom-Stiftung/de/1720812/blobBinary/Innovationsindikator+2011.pdf)", Deutsche Telekom Stiftung
+1. <span id="ref-1"></span>"[Elmar Mock](https://web.archive.org/web/20111222124429/http://www.worldtempus.com/fr/encyclopedie/index-encyclopedique/histoire-de-lhorlogerie/le-phenomene-swatch/les-hommes-dans-le-mouvement-swatch/elmar-mock/)" sur l'encyclopédie WorldTempus
+2. <span id="ref-2"></span>"[Innovation Indicator 2011](https://web.archive.org/web/20240619152612/http://www.telekom-stiftung.de/dtag/cms/contentblob/Telekom-Stiftung/de/1720812/blobBinary/Innovationsindikator+2011.pdf)", Deutsche Telekom Stiftung
 3. <span id="ref-3"></span>{{< openbook booknumber="ISBN:9782100577026" templatenumber="5" >}}
 4. <span id="ref-4"></span>[L'équipement des français en biens durables fin 1968](http://www.persee.fr/web/revues/home/prescript/article/estat_0336-1454_1969_num_3_1_1875), Economie et statistique, 1969, Vol.3, No 3, pp. 65-68

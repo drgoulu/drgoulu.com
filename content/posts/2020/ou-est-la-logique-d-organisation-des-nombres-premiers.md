@@ -20,6 +20,6 @@ Il n'y en a pas, parce que les nombres premiers sont ceux qui n'ont PAS la propr
 
 L'étude d'autres suites de nombres générés par de tels "cribles" notamment les [Nombres chanceux](w:Nombre_chanceux) a permis de remarquer que beaucoup de "propriétés" des nombres premiers sont en fait communes aux suites générées par des cribles
 
-Verna Gardiner, R. Lazarus, N. Metropolis and S. Ulam “On Certain Sequences of Integers Defined by Sieves” Mathematics Magazine Vol. 29, No. 3 (Jan. – Feb., 1956), pp. 117-122 DOI [10.2307/3029719](http://dx.doi.org/10.2307/3029719), zbMATH [0071.27002](http://zbmath.org/?q=an:0071.27002)
+Verna Gardiner, R. Lazarus, N. Metropolis and S. Ulam “On Certain Sequences of Integers Defined by Sieves” Mathematics Magazine Vol. 29, No. 3 (Jan. – Feb., 1956), pp. 117-122 DOI [10.2307/3029719](http://dx.doi.org/10.2307/3029719), zbMATH [0071.27002](https://web.archive.org/web/20191211232149/http://zbmath.org/?q=an:0071.27002)
 
 [2019 passée au crible - Pourquoi Comment Combien](/2019/01/06/2019-passee-au-crible/#.XoHcuoiiGCo)

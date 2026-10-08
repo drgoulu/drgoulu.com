@@ -12,7 +12,7 @@ tags:
 coverImage: "./images/3b04deebe30b8f24d81577ae0b33474c1.jpg"
 ---
 
-{{< figure src="./images/3b04deebe30b8f24d81577ae0b33474c.jpg" alt="photo d'arrigoceramista sur flickr" caption="photo d'arrigoceramista sur flickr" link="http://http://www.flickr.com/photos/arrigoceramista/501829060/" align="alignleft" width="240" >}}
+{{< figure src="./images/3b04deebe30b8f24d81577ae0b33474c.jpg" alt="photo d'arrigoceramista sur flickr" caption="photo d'arrigoceramista sur flickr" link="https://web.archive.org/web/20120629111905/http://http://www.flickr.com/photos/arrigoceramista/501829060/" align="alignleft" width="240" >}}
 
 Dans "[voir en 4 dimensions](/2007/02/06/voir-en-4-dimensions/)", je montre comment un cube peut aider à se représenter une 4ème dimension spatiale facilement.
 

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non c'est n'importe quoi.
 
-[https://apnews.com/article/fact-...](https://apnews.com/article/fact-check-congo-rocks-electricity-633884997540)
+[https://apnews.com/article/fact-...](https://web.archive.org/web/20230218171820/https://apnews.com/article/fact-check-congo-rocks-electricity-633884997540)

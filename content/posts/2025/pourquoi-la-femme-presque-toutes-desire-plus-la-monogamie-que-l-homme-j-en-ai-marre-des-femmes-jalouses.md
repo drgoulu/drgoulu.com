@@ -18,14 +18,14 @@ coverImage: ./images/quora.png
 
 Lisez ça :
 
-[L’humain est-il un polygame refoulé ? Partie 1/3 : l’homme, ce parasite sexuel.](https://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/)
+[L’humain est-il un polygame refoulé ? Partie 1/3 : l’homme, ce parasite sexuel.](https://web.archive.org/web/20251211142314/https://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/)
 
 Et ça :
 
-[L’humain est-il un polygame refoulé ? Partie 2/3 : la monogamie en série.](https://homofabulus.com/homme-polygamie-partie-2-monogamie-en-serie/)
+[L’humain est-il un polygame refoulé ? Partie 2/3 : la monogamie en série.](https://web.archive.org/web/20250911114943/https://homofabulus.com/homme-polygamie-partie-2-monogamie-en-serie/)
 
 Et ça :
 
-[L’humain est-il un polygame refoulé ? Partie 3/3 : écologie, culture et Dr House](https://homofabulus.com/lhomme-est-il-un-polygame-refoule-partie-33/)
+[L’humain est-il un polygame refoulé ? Partie 3/3 : écologie, culture et Dr House](https://web.archive.org/web/20250928013950/https://homofabulus.com/lhomme-est-il-un-polygame-refoule-partie-33/)
 
 Vous allez tout comprendre, en vous marrant en prime.

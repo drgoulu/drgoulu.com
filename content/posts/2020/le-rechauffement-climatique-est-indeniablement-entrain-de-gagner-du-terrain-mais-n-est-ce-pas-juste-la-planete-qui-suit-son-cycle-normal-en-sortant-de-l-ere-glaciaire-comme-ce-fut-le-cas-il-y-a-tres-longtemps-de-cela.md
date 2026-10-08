@@ -20,7 +20,7 @@ Les variations enregistrées pendant le palier qui dure depuis 5000 ans sont min
 
 ![](./images/qimg-f40997a131026ef772e2e6a5481fd31d.jpg)
 
-(source [Réchauffement climatique : évolution du climat mondial et en France](http://www.meteofrance.fr/climat-passe-et-futur/le-rechauffement-observe-a-l-echelle-du-globe-et-en-france))
+(source [Réchauffement climatique : évolution du climat mondial et en France](https://web.archive.org/web/20201111214648/http://www.meteofrance.fr/climat-passe-et-futur/le-rechauffement-observe-a-l-echelle-du-globe-et-en-france))
 
 Et ça c'est jusqu'à 2000, la tendance se poursuit, nous aurons sans aucun doute un réchauffement de plus de deux degrés ce siècle. 2 degrés par siècle, c'est :
 

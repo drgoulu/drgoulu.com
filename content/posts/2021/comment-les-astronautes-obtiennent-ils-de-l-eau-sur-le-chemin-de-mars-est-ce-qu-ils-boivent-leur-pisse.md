@@ -20,7 +20,7 @@ Oui. et leur transpiration, et leur haleine.
 
 Ca a déjà été fait pour les missions Apollo[[1]](#bOcwo) , et c'est fait en permanence dans l'ISS
 
-[https://www.nasa.gov/content/wat...](https://www.nasa.gov/content/water-recycling/)
+[https://www.nasa.gov/content/wat...](https://web.archive.org/web/20210805100139/https://www.nasa.gov/content/water-recycling/)
 
 Je vous traduit ce que dit dans l'article Enid Contes, la scientifique en photo :
 

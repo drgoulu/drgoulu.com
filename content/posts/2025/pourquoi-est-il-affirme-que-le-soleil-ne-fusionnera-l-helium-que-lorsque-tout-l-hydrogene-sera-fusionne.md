@@ -17,4 +17,4 @@ Le [Flash de l'hélium](w:)se produit dans les étoiles entre 0.5 et 2 masses so
 
 ![](./images/qimg-7037403fe426701023fd896180b813fb.jpg)
 
-(Source [Chapter 20, Section 2](http://lifeng.lamost.org/courses/astrotoday/CHAISSON/AT320/HTML/AT32002.HTM))
+(Source [Chapter 20, Section 2](https://web.archive.org/web/20250819052913/http://lifeng.lamost.org/courses/astrotoday/CHAISSON/AT320/HTML/AT32002.HTM))

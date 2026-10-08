@@ -26,4 +26,4 @@ Ou est-ce que vous pensez que jeter de l'huile sur le feu sur le Quora francopho
 
 Notes de bas de page
 
-[[1]](#cite-ysiDN)Pourquoi la victoire des nationalistes hindous au Bengale-Occidental est cruciale pour Modi - Les Echos [https://share.google/1RvfN67M5Vv...](https://share.google/1RvfN67M5VvYA6DVc)
+[[1]](#cite-ysiDN)Pourquoi la victoire des nationalistes hindous au Bengale-Occidental est cruciale pour Modi - Les Echos [https://share.google/1RvfN67M5Vv...](https://web.archive.org/web/20260531/https://share.google/1RvfN67M5VvYA6DVc)

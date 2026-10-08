@@ -19,4 +19,4 @@ Une explication qui me semble cohérente est que le nucléaire est disponible à
 
 ![](./images/qimg-e38c29e734cf4e6e0b2475c75c3ebf87.jpg)
 
-([Source](https://cil-gerland-guillotiere.fr/pourquoi-utiliser-lelectricite-pour-sauver-le-climat/) attention à l'échelle verticale logarithmique)
+([Source](https://web.archive.org/web/20221127063229/https://cil-gerland-guillotiere.fr/pourquoi-utiliser-lelectricite-pour-sauver-le-climat/) attention à l'échelle verticale logarithmique)

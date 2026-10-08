@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/La-mati%C3%A8re-noire-est-elle-la-cause-du-froid-dans-lunivers/answer/Dr-Goulu)*
 
-La "référence" est sans valeur, publiée dans une [Revue prédatrice](w:) ([tsijournals.com](http://tsijournals.com)) listée ici : [stop-predatory-journals/stop-predatory-journals.github.io](https://github.com/stop-predatory-journals/stop-predatory-journals.github.io/blob/master/_data/publishers.csv)
+La "référence" est sans valeur, publiée dans une [Revue prédatrice](w:) ([tsijournals.com](https://web.archive.org/web/20210730230805/http://tsijournals.com)) listée ici : [stop-predatory-journals/stop-predatory-journals.github.io](https://github.com/stop-predatory-journals/stop-predatory-journals.github.io/blob/master/_data/publishers.csv)
 
 Le contenu est du grand n'importe quoi.
 

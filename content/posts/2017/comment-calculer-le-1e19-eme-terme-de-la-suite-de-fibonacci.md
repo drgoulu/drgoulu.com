@@ -39,7 +39,7 @@ $\begin{pmatrix}1&1\\\\1&0\end{pmatrix}^{n-1}\begin{pmatrix}1\\\\0\end{pmatrix}=
 
 En fait on retrouve les termes de la suite directement dans la matrice  $Q^n = \begin{pmatrix}\mathcal F_{n+1}&\mathcal F_{n}\\\\\mathcal F_{n}&\mathcal F_{n-1}\end{pmatrix}$.
 
-L'algorithme de l'[exponentiation rapide](w:) permet d'élever la matrice Q à la puissance n en effectuant log2(n) multiplications de matrices 2x2, soit [environ 63](https://www.wolframalpha.com/input/?i=log\(10%5E19\)%2Flog\(2\)) pour n=1019. Ultra rapide, et facilement généralisable à d'autres formules de récurrence !
+L'algorithme de l'[exponentiation rapide](w:) permet d'élever la matrice Q à la puissance n en effectuant log2(n) multiplications de matrices 2x2, soit [environ 63](https://web.archive.org/web/20170425/https://www.wolframalpha.com/input/?i=log\(10%5E19\)%2Flog\(2\)) pour n=1019. Ultra rapide, et facilement généralisable à d'autres formules de récurrence !
 
 Malheureusement, la fonction [matrix\_power de la librairie Python numpy](https://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.matrix_power.html) souffre d'une [limitation, voire d'un bug](https://github.com/numpy/numpy/issues/5166) qui empêche de l'utiliser dès n=71 car elle utilise les nombres flottants. Il m'a donc fallu la réécrire, en résolvant une petite contrainte technologique au passage.
 
@@ -51,7 +51,7 @@ Vérifions. Pour n=1000, on obtient:
 
 $\mathcal F_{1000}$=43466557686937456435688527675040625802564660517371780402481729089536555417949051890403879840079255169295922593080322634775209689623239873322471161642996440906533187938298969649928516003704476137795166849228875 qui comporte bien pile 209 chiffres.
 
-Donc $\mathcal F_{10^{19}}$ comporte 2089876402499787337 chiffres ... Il faudrait [dans les 867](https://www.wolframalpha.com/input/?i=10%5E19*log\(\(1%2Bsqrt\(5\)\)%2F2\)%2Flog\(2\)%2F8) [péta](w:)octets de RAM (de préférence...) pour stocker ce nombre ...
+Donc $\mathcal F_{10^{19}}$ comporte 2089876402499787337 chiffres ... Il faudrait [dans les 867](https://web.archive.org/web/20170425/https://www.wolframalpha.com/input/?i=10%5E19*log\(\(1%2Bsqrt\(5\)\)%2F2\)%2Flog\(2\)%2F8) [péta](w:)octets de RAM (de préférence...) pour stocker ce nombre ...
 
 {{< figure src="./images/1nv66i.jpg" alt="(mon premier meme ... désolé ...)" caption="(mon premier meme ... désolé ...)" width="500" >}}
 
@@ -61,7 +61,7 @@ Fort heureusement, le problème idiot avait un petit détail en prime : il falla
 
 Ce nombre est premier (pour que ça soit plus intéressant), mais surtout il est inférieur à 230, ce qui fait que la multiplication modulo 1000000007 ne nécessite que des opérations sur des [entiers](w:Entier_(informatique)) 32 bits (signés), ultra rapide.
 
-Voici donc quelques fonctions Python tirées du [module math2 de ma librairie Goulib](https://github.com/goulu/Goulib/blob/master/Goulib/math2.py) qui effectuent:
+Voici donc quelques fonctions Python tirées du [module math2 de ma librairie Goulib](https://web.archive.org/web/20170425/https://github.com/goulu/Goulib/blob/master/Goulib/math2.py) qui effectuent:
 
 - le produit matriciel, optionnellement modulaire
 - l'exponentiation rapide d'une matrice, optionnellement modulaire, et qui corrige le bug de numpy.matrix\_power
@@ -75,6 +75,6 @@ Prochaine étape : trouver la [période de Pisano](w:) correspondante ...
 
 ### Références
 
-1. <span id="ref-1"></span>[Nth Fibonacci number for n as big as 10^19?](http://stackoverflow.com/questions/28548457/nth-fibonacci-number-for-n-as-big-as-1019) sur StackOverflow (et [réponse de will](http://stackoverflow.com/a/28549402/1395973) qui m'a inspiré cet article)
+1. <span id="ref-1"></span>[Nth Fibonacci number for n as big as 10^19?](https://web.archive.org/web/20160520235001/http://stackoverflow.com/questions/28548457/nth-fibonacci-number-for-n-as-big-as-1019) sur StackOverflow (et [réponse de will](https://web.archive.org/web/20170425/http://stackoverflow.com/a/28549402/1395973) qui m'a inspiré cet article)
 2. <span id="ref-2"></span>Weisstein, Eric W. "[Fibonacci Q-Matrix](http://mathworld.wolfram.com/FibonacciQ-Matrix.html)." From MathWorld--A Wolfram Web Resource.
 3. <span id="ref-3"></span>Arthur Charpentier "[Fibonacci, les lapins, le nombre d'or et les calculs actuariels"](https://freakonometrics.hypotheses.org/48554), 2016 sur Freakonometrics (mention spéciale pour l'image de la spirale...)

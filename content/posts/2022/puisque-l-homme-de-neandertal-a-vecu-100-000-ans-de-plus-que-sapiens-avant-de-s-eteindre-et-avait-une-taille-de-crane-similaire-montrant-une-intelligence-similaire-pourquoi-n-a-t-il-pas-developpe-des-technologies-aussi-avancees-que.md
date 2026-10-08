@@ -37,4 +37,4 @@ Sapiens avait peut-être un cerveau plus petit, mais peut-être était-il plus c
 
 Notes de bas de page
 
-[[1]](#cite-TMvPA)[https://commons.wikimedia.org/wi...](https://commons.wikimedia.org/wiki/File:Homo_extreme_splitter_(francais).png))
+[[1]](#cite-TMvPA)[https://commons.wikimedia.org/wi...](https://web.archive.org/web/20220126/https://commons.wikimedia.org/wiki/File:Homo_extreme_splitter_(francais).png))

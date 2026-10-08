@@ -22,7 +22,7 @@ Le [Fordisme](w:)concernait essentiellement l'organisation du travail "à la cha
 
 A part le décalage temporel important entre les deux, il y a aussi des différences culturelles colossales entre les USA et le Japon qui se retrouvent dans ce deux “ismes”.
 
-En pratique le "lean", manufacturing ou management, doit être adapté au contexte de l'entreprise, y compris culturel. En Gaule ça peut donner le [Management | FAVI](http://www.favi.com/management/) basé sur "les 4 principes de la péripatéticienne[[1]](#GWKxM) ". A lire absolument ! :-D
+En pratique le "lean", manufacturing ou management, doit être adapté au contexte de l'entreprise, y compris culturel. En Gaule ça peut donner le [Management | FAVI](https://web.archive.org/web/20200421045844/http://www.favi.com/management/) basé sur "les 4 principes de la péripatéticienne[[1]](#GWKxM) ". A lire absolument ! :-D
 
 Notes de bas de page
 

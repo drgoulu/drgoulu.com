@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Liste très partielle ici
 
-[https://www.consilium.europa.eu/...](https://www.consilium.europa.eu/fr/press/press-releases/2025/07/15/russian-hybrid-threats-eu-lists-nine-individuals-and-six-entities-responsible-for-destabilising-actions-in-the-eu-and-ukraine/)
+[https://www.consilium.europa.eu/...](https://web.archive.org/web/20250726011650/https://www.consilium.europa.eu/fr/press/press-releases/2025/07/15/russian-hybrid-threats-eu-lists-nine-individuals-and-six-entities-responsible-for-destabilising-actions-in-the-eu-and-ukraine/)
 
 Tu es un pitoyable troll, tu attires l'attention sur les méfaits de ton maître au lieu de le défendre.

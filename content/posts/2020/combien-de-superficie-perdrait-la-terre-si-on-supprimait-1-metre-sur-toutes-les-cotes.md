@@ -15,7 +15,7 @@ Il y a environ 620'000 km de côtes [[1]](#xXYUr)donc 620 km2, un peu moins que 
 
 Mais si la mer monte de 1m (pas prévu ce siècle, ça ne devrait être "que" 20 à 60cm en 2100) on perdrait des centaines de milliers de km2.
 
-[Quantifying Land and People Exposed to Sea‐Level Rise with No Mitigation and 1.5°C and 2.0°C Rise in Global Temperatures to Year 2300](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017EF000738)
+[Quantifying Land and People Exposed to Sea‐Level Rise with No Mitigation and 1.5°C and 2.0°C Rise in Global Temperatures to Year 2300](https://web.archive.org/web/20201002162021/https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017EF000738)
 
 Notes de bas de page
 

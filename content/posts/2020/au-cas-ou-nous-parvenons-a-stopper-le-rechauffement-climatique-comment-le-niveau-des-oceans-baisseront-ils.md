@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Ils ne baisseront que si la température baisse. La dilatation de l'eau des océans diminuera assez vite, mais il faudra quelques millénaires (ou une bonne Glaciation) pour que la masse des glaciers fondus se reconstitue, surtout en Antarctique où les précipitations sont faibles.
 
-[Global sea level linked to global temperature](https://www.pnas.org/content/106/51/21527)
+[Global sea level linked to global temperature](https://web.archive.org/web/20201004125118/https://www.pnas.org/content/106/51/21527)
 
 (joli exemple d'application d'estimation paramétrique)

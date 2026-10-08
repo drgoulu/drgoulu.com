@@ -22,4 +22,4 @@ Oui mais ce n'est pas récent
 >
 >
 >
-> [Albert Jacquard](w:), "La génétique des populations", MURS No 5, 1986 [pdf](http://documents.irevues.inist.fr/bitstream/handle/2042/8149/MURS_1986_5_37.pdf?sequence=1)
+> [Albert Jacquard](w:), "La génétique des populations", MURS No 5, 1986 [pdf](https://web.archive.org/web/20170911204659/http://documents.irevues.inist.fr/bitstream/handle/2042/8149/MURS_1986_5_37.pdf?sequence=1)

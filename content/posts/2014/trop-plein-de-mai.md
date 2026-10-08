@@ -25,31 +25,31 @@ source: [http://www.todayifoundout.com/index.php/2014/05/aluminium-cost-gold/](
 
 ## Lumière bleue et santé
 
-Sur Twitter, @zeJeep\_ m'a soumis une brochure reçue avec sa facture EDF : "économisez votre énergie : l'éclairage" ([scan](http://pbs.twimg.com/media/BofvHFyIYAEu3fg.jpg)) qui contient ce passage à propose des LED :
+Sur Twitter, @zeJeep\_ m'a soumis une brochure reçue avec sa facture EDF : "économisez votre énergie : l'éclairage" ([scan](https://web.archive.org/web/20250816050924/http://pbs.twimg.com/media/BofvHFyIYAEu3fg.jpg)) qui contient ce passage à propose des LED :
 
 > "il est recommandé d'éviter une longue exposition aux lumières froides (tirant vers le bleu) pour les personnes photosensibles."
 
-Sur le web je n'ai trouvé mention que de [photosensibilité](w:) de la peau et d'[épilepsie photosensible](http://www.epilepsymatters.com/french/faqphotosensitive.html) induite par des lumières variables. Après un [appel sur Reddit](http://www.reddit.com/r/ScienceFr/comments/26i1k0/lumi%C3%A8re_bleue_et_personnes_photosensibles/) relayé sur twitter par @MrPourquoi j'ai obtenu des réponses intéressantes:
+Sur le web je n'ai trouvé mention que de [photosensibilité](w:) de la peau et d'[épilepsie photosensible](https://web.archive.org/web/20140108084317/http://www.epilepsymatters.com/french/faqphotosensitive.html) induite par des lumières variables. Après un [appel sur Reddit](http://www.reddit.com/r/ScienceFr/comments/26i1k0/lumi%C3%A8re_bleue_et_personnes_photosensibles/) relayé sur twitter par @MrPourquoi j'ai obtenu des réponses intéressantes:
 
 - guilalune pense qu'il s'agit plutôt de [photophobie](w:)
-- selon @SamuelPEAN C'est plus lié à la dégénérescence maculaire ([page Inserm](http://www.inserm.fr/actualites/rubriques/actualites-recherche/dmla-quelles-sont-les-ondes-lumineuses-responsables-de-la-perte-de-la-vision)) Il existe des LEDs "warm white" pour limiter le problème
+- selon @SamuelPEAN C'est plus lié à la dégénérescence maculaire ([page Inserm](https://web.archive.org/web/20140214034134/http://www.inserm.fr/actualites/rubriques/actualites-recherche/dmla-quelles-sont-les-ondes-lumineuses-responsables-de-la-perte-de-la-vision)) Il existe des LEDs "warm white" pour limiter le problème
 - et @Inserm complète : A voir aussi au sujet de l'impact de la #lumière bleue sur la #santé {{< youtube id="8o5qnNzM_B0" width="640" >}}
 
 Autres référence trouvée sur [ce forum](http://www.chassimages.com/forum/index.php?topic=107845.0):
 
-- ANSES "[Systèmes d’éclairage utilisant des diodes électroluminescentes : des effets sanitaires à prendre en compte](http://www.afssa.fr/Documents/PRES2010CPA14.pdf)", 2010, Dossier de presse ANSES
+- ANSES "[Systèmes d’éclairage utilisant des diodes électroluminescentes : des effets sanitaires à prendre en compte](https://web.archive.org/web/20130730163535/http://www.afssa.fr/Documents/PRES2010CPA14.pdf)", 2010, Dossier de presse ANSES
 
 ## [![falling cat](./images/falling-cat-226x300.jpg)](./images/falling-cat.jpg)Une explication dynamique du phénomène de la chute du chat
 
 Suite d'une discussion à la pause café, retrouvé un article de légende :
 
-Kane, T. R., & Scher, M. P. "[A Dynamical Explanation of the Falling Cat Phenomenon](http://pentagono.uniandes.edu.co/~jarteaga/geosem/taller7/minicursoJK-Uniandes/robotic%20examples/kane.pdf)", 1969, Int. J. Solid Structures, 5, 663–670.
+Kane, T. R., & Scher, M. P. "[A Dynamical Explanation of the Falling Cat Phenomenon](https://web.archive.org/web/20150427122051/http://pentagono.uniandes.edu.co/~jarteaga/geosem/taller7/minicursoJK-Uniandes/robotic%20examples/kane.pdf)", 1969, Int. J. Solid Structures, 5, 663–670.
 
 Illustré par la non moins célèbre image ci-contre, on y trouve les "équations différentielles du chat" décrivant comment un acrobate peut déclencher ou stopper un mouvement de vrille, pour peu que son corps ressemble à deux cylindres...
 
 ## Indices de Lisibilité
 
-Très intéressante [émission "Médialogues" entendue à la RTS](http://www.rts.ch/la-1ere/programmes/medialogues/5712180-medialogues-du-05-04-2014.html). Eliane Ballif y a parlé des [indices de lisibilité](w:test_de_lisibilité) permettant de mesurer la difficulté de lecture des textes et, partant, la proportion de la population capable de les comprendre.
+Très intéressante [émission "Médialogues" entendue à la RTS](https://web.archive.org/web/20260202234555/http://www.rts.ch/la-1ere/programmes/medialogues/5712180-medialogues-du-05-04-2014.html). Eliane Ballif y a parlé des [indices de lisibilité](w:test_de_lisibilité) permettant de mesurer la difficulté de lecture des textes et, partant, la proportion de la population capable de les comprendre.
 
 L'un des plus utilisé et le "[Gunning fog index](w:en)" , qui mixe le nombre moyen de mots par phrase et la proportion de "mots complexes", un mot étant "complexe" s'il contient trois syllabes ou plus. La formule de l'indice:
 
@@ -68,11 +68,11 @@ correspond très approximativement au nombre d'années de scolarité nécessaire
 
 Le présent article analysé par [https://readable.io](https://readable.io) présente un indice Gunning fog de 11.7 à relativiser car l'anglais considère comme "mots complexes" ceux de plus de 3 syllabes, qui me semblent plus fréquents en français. Niveau bac, un peu au dessus de Télérama, ça me va très bien.
 
-Là où ça devient intéressant, c'est quand on considère la lisibilité des textes légaux. Le [code civil suisse](w:) par exemple a été rédigé dans l'esprit d'être compréhensible par une majorité de la population [[1]](#ref-1). En analysant [une page au hasard](http://www.admin.ch/opc/fr/classified-compilation/20012239/index.html), j'ai obtenu un indice Gunning fog de 12.9. Plus compliqué que drgoulu.com, mais toujours compréhensible par pas mal de gens.
+Là où ça devient intéressant, c'est quand on considère la lisibilité des textes légaux. Le [code civil suisse](w:) par exemple a été rédigé dans l'esprit d'être compréhensible par une majorité de la population [[1]](#ref-1). En analysant [une page au hasard](https://web.archive.org/web/20140718082443/http://www.admin.ch/opc/fr/classified-compilation/20012239/index.html), j'ai obtenu un indice Gunning fog de 12.9. Plus compliqué que drgoulu.com, mais toujours compréhensible par pas mal de gens.
 
 Mais quand on voit qu'une étude de la lisibilité des Directives Européennes [[2]](#ref-2) "a conclu que les lecteurs de ces textes doivent avoir fait des études en master en vue d’arriver à comprendre leur contenu.", on ne peut s'empêcher de se demander si elles ont vraiment été écrites pour que quelqu'un les comprenne...
 
 ## Références:
 
 1. <span id="ref-1"></span>Alexandre Flückiger,"[Le principe de clarté de la loi ou l'ambiguïté d'un idéal](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/nouveaux-cahiers-du-conseil/cahier-n-21/le-principe-de-clarte-de-la-loi-ou-l-ambiguite-d-un-ideal.50557.html)", 2007, Cahiers du Conseil constitutionnel n° 21 Dossier : La normativité - janvier 2007
-2. <span id="ref-2"></span>Karantzi Ismini "[La lisibilité des textes européens](http://www.irtea.gr/?p=429&lang=fr)", 2013, IRTEA
+2. <span id="ref-2"></span>Karantzi Ismini "[La lisibilité des textes européens](https://web.archive.org/web/20170422024502/http://www.irtea.gr/?p=429&lang=fr)", 2013, IRTEA

@@ -17,7 +17,7 @@ Pour le Yémen c'est là :
 
 Pour la Syrie c'est la:
 
-[https://news.un.org/fr/tags/syrie](https://news.un.org/fr/tags/syrie)
+[https://news.un.org/fr/tags/syrie](https://web.archive.org/web/20231029103432/https://news.un.org/fr/tags/syrie)
 
 Et pour le Congo c'est ici
 

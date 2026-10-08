@@ -28,4 +28,4 @@ A cela on peut ajouter l'éradication de la [Peste bovine](w:)au bénéfice de n
 
 Notes de bas de page
 
-[[1]](#cite-eYZDw)[Rougeole: point de la situation en Suisse](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/masern-lagebericht-schweiz.html)
+[[1]](#cite-eYZDw)[Rougeole: point de la situation en Suisse](https://web.archive.org/web/20210725131707/https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/masern-lagebericht-schweiz.html)

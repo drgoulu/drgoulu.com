@@ -21,7 +21,7 @@ Le [Diamant synthétique](w:) est difficile à produire, donc cher. Le carat uti
 
 > Chérie, tu préfères un diamant naturel unique au monde, ou un synthétique deux fois plus gros qui va être exactement le même que celui de ta copine et qui ne vaudra plus rien dans quelques années parce qu'on saura les faire encore moins chers ?
 
-La même question se pose pour les rubis, saphirs etc, mais avec un écart de prix plus grand parce qu'on sait les faire facilement par [Procédé Verneuil](w:). J'ai tenu un rubis d'environ un kilo dans les mains chez [DJEVA](http://www.djeva.ch/fr/) :
+La même question se pose pour les rubis, saphirs etc, mais avec un écart de prix plus grand parce qu'on sait les faire facilement par [Procédé Verneuil](w:). J'ai tenu un rubis d'environ un kilo dans les mains chez [DJEVA](https://web.archive.org/web/20190129155258/http://www.djeva.ch/fr/) :
 
 [https://www.youtube.com/watch?v=...](https://www.youtube.com/watch?v=jO6E8JRIjTs)
 

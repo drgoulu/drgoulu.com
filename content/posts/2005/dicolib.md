@@ -57,7 +57,7 @@ dico.lib définit la hiérarchie de classes suivantes :
 
 #### Liens
 
-- [projet DicoLib sur SourceForge](http://sourceforge.net/projects/dicolib), d'où vous pouvez télécharger le code et contribuer à le développer
+- [projet DicoLib sur SourceForge](https://web.archive.org/web/20241115231140/http://sourceforge.net/projects/dicolib), d'où vous pouvez télécharger le code et contribuer à le développer
 - [an efficient C++/STL library for word puzzles and spell checking](http://www.codeproject.com/KB/cpp/DicoLib.aspx), article sur [http://www.codeproject.com](http://www.codeproject.com)
 - des dictionnaire en mode texte sont disponibles ici:
-    - [le Petit Larousse Illustré et l'Officiel du Scrabble](http://ledefi.pagesperso-orange.fr/Dictionnaires.htm)
+    - [le Petit Larousse Illustré et l'Officiel du Scrabble](https://web.archive.org/web/20110305085614/http://ledefi.pagesperso-orange.fr/Dictionnaires.htm)

@@ -30,4 +30,4 @@ Une référence parmi beaucoup d'autres
 
 Il y aussi des gens qui se sont plaints de troubles du sommeil et même de saignements de nez après l'installation d'antennes GSM … qui n'étaient pas alimentées
 
-[Des riverains réclament le démontage d'antennes relais... inactives | Silicon](https://www.silicon.fr/des-riverains-reclament-le-demontage-dantennes-relais-inactives-35129.html)
+[Des riverains réclament le démontage d'antennes relais... inactives | Silicon](https://web.archive.org/web/20240530001740/https://www.silicon.fr/des-riverains-reclament-le-demontage-dantennes-relais-inactives-35129.html)

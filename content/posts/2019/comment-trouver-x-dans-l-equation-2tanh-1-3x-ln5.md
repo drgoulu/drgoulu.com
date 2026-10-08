@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-trouver-x-dans-l-%C3%A9quation-2tanh-1-3x-ln5/answer/Dr-Goulu)*
 
-[Wolfram alpha est votre ami](https://www.wolframalpha.com/input/?i=2tanh^-1(3x)+=ln5)
+[Wolfram alpha est votre ami](https://web.archive.org/web/20191124/https://www.wolframalpha.com/input/?i=2tanh^-1(3x)+=ln5)

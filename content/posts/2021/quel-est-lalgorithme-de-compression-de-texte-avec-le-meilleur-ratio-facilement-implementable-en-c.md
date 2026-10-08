@@ -15,6 +15,6 @@ pour du texte la compression [LZW (.zip et similaire)](w:Lempel-Ziv-Welch)donne 
 
 Le code prend environ 4 pages de C , voir par exemple
 
-[https://rosettacode.org/wiki/LZW...](https://rosettacode.org/wiki/LZW_compression#C)
+[https://rosettacode.org/wiki/LZW...](https://web.archive.org/web/20211106212502/https://rosettacode.org/wiki/LZW_compression#C)
 
 mais par pitié ne la réécrivez pas une fois de plus. Il y a 70 repos de compression LZW en C [sur GitHub](https://github.com/search?l=C&q=lzw+compression+c&type=Repositories) …

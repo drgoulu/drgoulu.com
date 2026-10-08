@@ -13,13 +13,13 @@ tags:
 coverImage: "./images/828ab78b2979a255a1efb658d3b45411.jpg"
 ---
 
-Le mensuel [Voile & Voiliers](http://www.voilesetvoiliers.com) fête ses 40 ans avec un numéro en grande partie consacré aux "voiliers volants", ces engins ultra-rapides qui se soulèvent hors de l'eau sur des hydrofoils sous la seule force du vent.
+Le mensuel [Voile & Voiliers](https://web.archive.org/web/20110514230847/http://www.voilesetvoiliers.com) fête ses 40 ans avec un numéro en grande partie consacré aux "voiliers volants", ces engins ultra-rapides qui se soulèvent hors de l'eau sur des hydrofoils sous la seule force du vent.
 
-Le grand trimaran "[L'Hydroptère](http://www.hydroptere.com/)" d'Alain Thébault en est le représentant le plus connu, détenteur d'un record de vitesse à 51.36 noeuds, soit 95 km/h. Seuls quelques kitesurfers vont plus vite à la voile, [dépassant 100 km/h dans un canal préparé au raz d'une plage](http://www.youtube.com/watch?v=Pw2g5LqQoIo).
+Le grand trimaran "[L'Hydroptère](https://web.archive.org/web/20110527215209/http://www.hydroptere.com/)" d'Alain Thébault en est le représentant le plus connu, détenteur d'un record de vitesse à 51.36 noeuds, soit 95 km/h. Seuls quelques kitesurfers vont plus vite à la voile, [dépassant 100 km/h dans un canal préparé au raz d'une plage](http://www.youtube.com/watch?v=Pw2g5LqQoIo).
 
 {{< figure src="./images/828ab78b2979a255a1efb658d3b45411.jpg" alt="L Hydroptère, Photo © Guilain Grenier (Sea & Co)" caption="L Hydroptère, Photo © Guilain Grenier (Sea & Co)" align="aligncenter" width="487" >}}
 
-Voile & Voiliers consacre aussi deux pages à deux bateaux suisses naviguant sur le Léman : le [catamaran Syz & Co](http://www.syzfoiler.com/) et l'étonnant [Mirabaud LX](http://www2.jundt.ch), le "voilier sans coque" de Thomas Jundt qui navigera dès cette saison avec un mat aile.
+Voile & Voiliers consacre aussi deux pages à deux bateaux suisses naviguant sur le Léman : le [catamaran Syz & Co](https://web.archive.org/web/20110128215345/http://www.syzfoiler.com/) et l'étonnant [Mirabaud LX](https://web.archive.org/web/20110529021154/http://www2.jundt.ch), le "voilier sans coque" de Thomas Jundt qui navigera dès cette saison avec un mat aile.
 
 {{< figure src="./images/13c06455381f48f2a676862f348ace95.jpg" alt="Mirabaud LX : mais où est donc passé la coque ???" caption="Mirabaud LX : mais où est donc passé la coque ???" align="aligncenter" width="575" >}}
 
@@ -41,4 +41,4 @@ A la fin de cet article se trouve un petit encadré qui m'a fait particulièreme
 
 Ca m'a fait très plaisir parce que j'ai créé ce blog il y a quelques années quand je me suis intéressé à ce domaine passionnant :-) Puis Fred en est devenu l'animateur principal, et grâce à lui, "Foilers!" est devenu le blog de référence en français sur les voiliers volants et plein d'autres sujets connexes. [Allez voir !](http://foils.wordpress.com/)
 
-Accessoirement, procurez vous aussi le Voile et Voiliers No 484 de Juin 2011, actuellement dans les kiosques pour lire ces articles qui ne seront pas sur Foilers! et pour participer au [concours](http://www.voilesetvoiliers.com/culture-voile/article/5695/voiles-et-voiliers-484-juin-2011-anniversaire-pour-nos-40-ans-un-numero-special-et-un-concours-exceptionne). Vous pourrez peut-être vous aussi voler sur l'Hydroptère, ou foncer sur un autre des voiliers les plus rapides du moment.
+Accessoirement, procurez vous aussi le Voile et Voiliers No 484 de Juin 2011, actuellement dans les kiosques pour lire ces articles qui ne seront pas sur Foilers! et pour participer au [concours](https://web.archive.org/web/20110521/http://www.voilesetvoiliers.com/culture-voile/article/5695/voiles-et-voiliers-484-juin-2011-anniversaire-pour-nos-40-ans-un-numero-special-et-un-concours-exceptionne). Vous pourrez peut-être vous aussi voler sur l'Hydroptère, ou foncer sur un autre des voiliers les plus rapides du moment.

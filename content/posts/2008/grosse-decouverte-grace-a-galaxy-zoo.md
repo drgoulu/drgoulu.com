@@ -15,7 +15,7 @@ coverImage: "./images/7a406ca89ba6663cc260c46920efc777.jpg"
 
 Il y a quelques temps, [je vous parlais de GalaxyZoo](/2008/04/25/galaxy-zoo-lastronomie-collaborative/), un projet permettant aux internautes de participer à l'analyse des milliards de galaxies photographiées par Hubble.
 
-Le 13 août 2007, Hanny van Arkel, une institutrice hollandaise de 25 ans à [posté sur le forum de GalaxyZoo une question simple](http://www.galaxyzooforum.org/index.php?topic=3802.0) : "c'est quoi le truc bleu en dessous ?" à propos de cette image qui lui avait été soumise :
+Le 13 août 2007, Hanny van Arkel, une institutrice hollandaise de 25 ans à [posté sur le forum de GalaxyZoo une question simple](https://web.archive.org/web/20071212045025/http://www.galaxyzooforum.org/index.php?topic=3802.0) : "c'est quoi le truc bleu en dessous ?" à propos de cette image qui lui avait été soumise :
 
 ![](./images/getjpeg.aspx)
 

@@ -21,4 +21,4 @@ Savez-vous que les juges sont plus ou moins sévères selon l'heure de la journ�
 
 Notes de bas de page
 
-[[1]](#cite-GCLSY)[https://www.pnas.org/doi/10.1073...](https://www.pnas.org/doi/10.1073/pnas.1018033108)
+[[1]](#cite-GCLSY)[https://www.pnas.org/doi/10.1073...](https://web.archive.org/web/20230214113031/https://www.pnas.org/doi/10.1073/pnas.1018033108)

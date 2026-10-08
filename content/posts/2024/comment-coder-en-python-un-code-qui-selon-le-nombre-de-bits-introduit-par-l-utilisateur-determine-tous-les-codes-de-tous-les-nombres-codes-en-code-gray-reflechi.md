@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 La bonne réponse est "faites vos devoirs vous même", mais en programmation c'est encore mieux de ne PAS réinventer la roue et de réutiliser le code existant, alors regardez
 
-[https://rosettacode.org/wiki/Gra...](https://rosettacode.org/wiki/Gray_code)
+[https://rosettacode.org/wiki/Gra...](https://web.archive.org/web/20241102231717/https://rosettacode.org/wiki/Gray_code)

@@ -22,4 +22,4 @@ En bref, cette étude montre comment quelques gènes liés à la perception des 
 Sources:
 
 1. Seehausen O., Y. Terai, I.S. Magalhaes, K.L. Carleton, H. Mrosso, R. Miyagi, I. van der Sluijs, M.V.Schneider, M.E. Maan, H. Tachida, H. Imai & N. Okada: Speciation through sensory drive in cichlid fish. _Nature, 2008{{< altmetric doi="10.1038/nature07285._" >}}
-2. [De nouvelles espèces grâce à des différences de vue](http://www.admin.ch/aktuell/00089/index.html?lang=fr&msg-id=21744) ([version anglaise](http://www.eawag.ch/medien/bulletin/20081001/index_EN))
+2. [De nouvelles espèces grâce à des différences de vue](https://web.archive.org/web/20081002/http://www.admin.ch/aktuell/00089/index.html?lang=fr&msg-id=21744) ([version anglaise](http://www.eawag.ch/medien/bulletin/20081001/index_EN))

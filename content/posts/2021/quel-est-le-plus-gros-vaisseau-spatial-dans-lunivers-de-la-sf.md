@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quel-est-le-plus-gros-vaisseau-spatial-dans-l-univers-de-la-SF/answer/Dr-Goulu)*
 
-Ca m'a rappelé l'imposant poster [Size Comparison - Science Fiction Spaceships by DirkLoechel on DeviantArt](https://www.deviantart.com/dirkloechel/art/Size-Comparison-Science-Fiction-Spaceships-398790051) mais hélas tous les vaisseaux ne sont pas à la même échelle
+Ca m'a rappelé l'imposant poster [Size Comparison - Science Fiction Spaceships by DirkLoechel on DeviantArt](https://web.archive.org/web/20210218055626/https://www.deviantart.com/dirkloechel/art/Size-Comparison-Science-Fiction-Spaceships-398790051) mais hélas tous les vaisseaux ne sont pas à la même échelle
 
 Mais j'ai trouvé cette vidéo qui montre beaucoup de vaisseaux à l'échelle
 

@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://cafedessciences.quora.com/Pour-en-finir-avec-la-PNL-Sciences-comportementales-Cabinet-Analytica)*
 
-[http://cabinet-analytica.fr/pnl-...](http://cabinet-analytica.fr/pnl-pour-en-finir-pseudosciences-developpement-personnel/)
+[http://cabinet-analytica.fr/pnl-...](https://web.archive.org/web/20200124004406/http://cabinet-analytica.fr/pnl-pour-en-finir-pseudosciences-developpement-personnel/)

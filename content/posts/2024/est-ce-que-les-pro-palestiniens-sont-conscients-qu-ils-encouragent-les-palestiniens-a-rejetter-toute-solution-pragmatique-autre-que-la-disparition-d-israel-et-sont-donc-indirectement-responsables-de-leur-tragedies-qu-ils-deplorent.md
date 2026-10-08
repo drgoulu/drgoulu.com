@@ -22,6 +22,6 @@ Tous ces gens ont appliqué "dix dents pour une dent, dix yeux pour un œil" dep
 
 Notes de bas de page
 
-[[1]](#cite-OcZCi)[L’Autorité palestinienne reçoit un large soutien à l’ONU, lors d’un vote symbolique](https://www.lemonde.fr/international/article/2024/05/11/l-autorite-palestinienne-recoit-un-large-soutien-a-l-onu-lors-d-un-vote-symbolique_6232601_3210.html)
+[[1]](#cite-OcZCi)[L’Autorité palestinienne reçoit un large soutien à l’ONU, lors d’un vote symbolique](https://web.archive.org/web/20240514045558/https://www.lemonde.fr/international/article/2024/05/11/l-autorite-palestinienne-recoit-un-large-soutien-a-l-onu-lors-d-un-vote-symbolique_6232601_3210.html)
 
 [[2]](#cite-BZeRG)[Lettre adressée par Albert EINSTEIN et Hannah ARENDT au New-York Times (02/12/1948)](https://libnanews.com/lettre-adressee-par-albert-einstein-et-hannah-arendt-au-new-york-times-02-12-1948/)

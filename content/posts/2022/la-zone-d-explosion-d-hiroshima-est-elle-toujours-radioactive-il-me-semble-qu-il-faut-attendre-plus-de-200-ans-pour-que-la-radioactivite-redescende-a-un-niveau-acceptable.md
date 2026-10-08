@@ -25,4 +25,4 @@ Il faut bien comprendre que
 
 Notes de bas de page
 
-[[1]](#cite-qfuWg)[Irradiés d'Hiroshima et Nagasaki](https://www.laradioactivite.com/site/pages/Irradies_Hiroshima_Nagasaki.htm)
+[[1]](#cite-qfuWg)[Irradiés d'Hiroshima et Nagasaki](https://web.archive.org/web/20210916223455/https://www.laradioactivite.com/site/pages/Irradies_Hiroshima_Nagasaki.htm)

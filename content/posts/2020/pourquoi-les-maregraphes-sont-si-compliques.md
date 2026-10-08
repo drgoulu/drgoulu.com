@@ -28,7 +28,7 @@ Pour analyser un tel graphique il faut recourir à [ce barbare de Fourier](/2010
 
 ![](./images/qimg-9d4f823ddb2a7c14461befe8776e9c90.gif)
 
-(source : Cours d’Océanographie – [Spectre de la marée](http://www.ifremer.fr/lpo/cours/maree/spectre.html)” sur le site IFREMER)
+(source : Cours d’Océanographie – [Spectre de la marée](https://web.archive.org/web/20190715192959/http://www.ifremer.fr/lpo/cours/maree/spectre.html)” sur le site IFREMER)
 
 Si vous n'êtes pas familier avec les spectres fréquentiels, examinez cette extraordinaire [Machine à prévoir les marées](w:)que [Lord Kelvin](http://www.wikipedia.org/search-redirect.php?language=fr&go=Go&search=Lord+Kelvin) himself avait construit en 1783 et qui fait la "transformée inverse" : à partir du spectre ci-dessus établi à Londres, elle calcule la hauteur de marée en fonction de l'heure réglée par la manivelle !
 

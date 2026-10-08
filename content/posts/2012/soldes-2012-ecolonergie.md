@@ -37,13 +37,13 @@ Embryon d'article motivé par la collision entre:
     cliquer pour agrandir
     
 2. la lecture du [paragraphe "Abondance" de l'article "Uranium" de la wikipédia](w:Uranium#Abondance) : _"Il est plus abondant dans la nature que l'or ou l'argent. (...)  Ainsi, le sous-sol d'un jardin sur un carré de 20 m de côté peut-il en contenir, sur une profondeur de 10 m, environ 24 kg. (...). L'eau de mer contient environ 3 mg d'uranium par m3, soit 4,5 milliards de tonnes d'uranium dissous dans les océans. Les eaux douces en contiennent souvent aussi en diverses concentrations ; dont par exemple le Rhône qui en charrie environ 29 t/an, provenant essentiellement du ruissellement des roches uranifères des Alpes."_
-3. l'article "[Record haul of uranium harvested from seawater](http://www.newscientist.com/article/dn22201-record-haul-of-uranium-harvested-from-seawater.html)" paru en août sur New Scientist et relayé [dans l'Usine Nouvelle](http://www.usinenouvelle.com/article/chimie-un-filet-pour-pecher-l-uranium.N180862) où l'on apprend qu'il existe des filets sur lesquels l'uranium dissous dans l'eau de mer se dépose à raison de presque 4 grammes par kilogramme de filet. Encore un petit effort et cette technologie pourrait être compétitive avec l'extraction minière et donner accès à un stock d'environ 6500 ans de consommation actuelle...
+3. l'article "[Record haul of uranium harvested from seawater](https://web.archive.org/web/20121204203432/http://www.newscientist.com/article/dn22201-record-haul-of-uranium-harvested-from-seawater.html)" paru en août sur New Scientist et relayé [dans l'Usine Nouvelle](https://web.archive.org/web/20160813002411/http://www.usinenouvelle.com/article/chimie-un-filet-pour-pecher-l-uranium.N180862) où l'on apprend qu'il existe des filets sur lesquels l'uranium dissous dans l'eau de mer se dépose à raison de presque 4 grammes par kilogramme de filet. Encore un petit effort et cette technologie pourrait être compétitive avec l'extraction minière et donner accès à un stock d'environ 6500 ans de consommation actuelle...
 
 Petit avis sans frais aux écologistes suisses : ne pas trop la ramener à propos de l'indépendance énergétique du pays, car un seul filet à uranium en travers du Rhône au Bouveret pourrait suffire...
 
 ### ![](./images/8f026070f4b019c6385c415584696ee7.png)Pourquoi je ne suis pas contre Belo Monte.
 
-Je comprends. Je suis très triste pour les 25000 indiens d'Amazonie qui perdront leurs terres, et pour les centaines de km2 de forêt vierge qui seront inondés avec leur  biodiverses plantes et bestioles. Mais je ne signerai pas [cet appel pour stopper la construction](http://amazonwatch.org/take-action/stop-the-belo-monte-monster-dam) du [barrage de Belo Monte](w:Projet_de_barrage_de_Belo_Monte) au Brésil, [ni celui du célèbre Raoni](http://raoni.fr/), même si j'y ai été invité par des proches. Voici pourquoi.
+Je comprends. Je suis très triste pour les 25000 indiens d'Amazonie qui perdront leurs terres, et pour les centaines de km2 de forêt vierge qui seront inondés avec leur  biodiverses plantes et bestioles. Mais je ne signerai pas [cet appel pour stopper la construction](http://amazonwatch.org/take-action/stop-the-belo-monte-monster-dam) du [barrage de Belo Monte](w:Projet_de_barrage_de_Belo_Monte) au Brésil, [ni celui du célèbre Raoni](https://web.archive.org/web/20120818104524/http://raoni.fr/), même si j'y ai été invité par des proches. Voici pourquoi.
 
 D'abord la cohérence. On nous rabâche qu'il faut des sources d'énergie propres et durables, or l'hydroélectricité représente [85% de l'électricité renouvelable](w:Énergie_renouvelable#Aper.C3.A7u_g.C3.A9n.C3.A9ral) produite dans le monde, et [90% de l'électricité brésilienne](w:Énergie_hydroélectrique#Br.C3.A9sil). Le barrage de Belo Monte produira 38600 [GWh](w:Watt-heure) par an, soit l'équivalent de [tous les barrages suisses](w:Énergie_en_Suisse#Installations_hydro.C3.A9lectriques) à lui tout seul. Pour produire autant d'énergie autrement, il faudrait soit:
 
@@ -71,7 +71,7 @@ Finalement, ce que je reproche le plus à Jancovici et Grandjean, c'est leur vis
 
 ### Démographie du 21ème siècle
 
-Pour comprendre la situation actuelle de la démographie humaine, 13 minutes et 21 secondes suffisent grâce à la fantastique [conférence "Religions et Bébés" de Hans Rosling au TED](http://www.ted.com/talks/hans_rosling_religions_and_babies.html)
+Pour comprendre la situation actuelle de la démographie humaine, 13 minutes et 21 secondes suffisent grâce à la fantastique [conférence "Religions et Bébés" de Hans Rosling au TED](https://web.archive.org/web/20130109101408/http://www.ted.com/talks/hans_rosling_religions_and_babies.html)
 
 Il y démontre plusieurs faits qui peuvent surprendre:
 

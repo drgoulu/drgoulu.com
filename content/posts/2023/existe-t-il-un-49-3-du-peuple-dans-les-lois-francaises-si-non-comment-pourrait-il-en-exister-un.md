@@ -17,10 +17,10 @@ Les suisses ont voté sur 223 initiatives populaires depuis 1891, soit 1.7 par a
 
 Seules 24 initiatives, soit environ 10% on été acceptées lors du vote, mais certaines ont été extrêmement importantes pour notre pays, par exemple:
 
-- 1918 [Élection proportionnelle du Conseil National](http://www.admin.ch/ch/f/pore/vi/vis12.html) (= votre Assemblée Nationale) Ce choix permit aux socialistes une bonne représentativité en pleins conflits sociaux, et leur permettra d’entrer au gouvernement (qui est informellement élu à la proportionnelle aussi) en 1943, en pleine guerre mondiale.
-- 1921 [Référendum en matière de traités internationaux](http://www.admin.ch/ch/f/pore/vi/vis11.html). C’est grâce à lui (ou à cause) que la population doit donner son aval à un adhésion à l’UE …
-- 1949 [Retour à la démocratie directe](http://www.admin.ch/ch/f/pore/vi/vis56.html). Le peuple a récupéré de justesse (50.7%) ses droits après l’usage intensif de [la clause d’urgence](http://www.hls-dhs-dss.ch/textes/f/F10092.php) pendant la 2ème guerre mondiale !
-- 2002 [Adhésion à l’ONU](http://www.admin.ch/ch/f/pore/vi/vis292t.html). Le gouvernement estimait que ça mettrait en danger notre fameuse neutralité, la population a estimé que non.
+- 1918 [Élection proportionnelle du Conseil National](https://web.archive.org/web/20230416190634/http://www.admin.ch/ch/f/pore/vi/vis12.html) (= votre Assemblée Nationale) Ce choix permit aux socialistes une bonne représentativité en pleins conflits sociaux, et leur permettra d’entrer au gouvernement (qui est informellement élu à la proportionnelle aussi) en 1943, en pleine guerre mondiale.
+- 1921 [Référendum en matière de traités internationaux](https://web.archive.org/web/20160303193126/http://www.admin.ch/ch/f/pore/vi/vis11.html). C’est grâce à lui (ou à cause) que la population doit donner son aval à un adhésion à l’UE …
+- 1949 [Retour à la démocratie directe](https://web.archive.org/web/20230416190644/http://www.admin.ch/ch/f/pore/vi/vis56.html). Le peuple a récupéré de justesse (50.7%) ses droits après l’usage intensif de [la clause d’urgence](https://web.archive.org/web/20231203074734/http://www.hls-dhs-dss.ch/textes/f/F10092.php) pendant la 2ème guerre mondiale !
+- 2002 [Adhésion à l’ONU](https://web.archive.org/web/20220422011949/http://www.admin.ch/ch/f/pore/vi/vis292t.html). Le gouvernement estimait que ça mettrait en danger notre fameuse neutralité, la population a estimé que non.
 
 [https://www.drgoulu.com/2009/12/...](/2009/12/13/initiatives-populaires/)
 

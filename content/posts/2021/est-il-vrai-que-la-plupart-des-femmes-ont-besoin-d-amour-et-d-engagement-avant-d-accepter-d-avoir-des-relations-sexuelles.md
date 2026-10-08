@@ -17,8 +17,8 @@ C'est un peu schématique, mais un peu vrai aussi pour des raisons biologiques :
 
 Sur ce sujet je vous recommande vivement les 3 articles de mon pote blogueur Homo Fabulus
 
-[https://homofabulus.com/homme-es...](https://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/)
+[https://homofabulus.com/homme-es...](https://web.archive.org/web/20220118074852/https://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/)
 
-[https://homofabulus.com/homme-po...](https://homofabulus.com/homme-polygamie-partie-2-monogamie-en-serie/)
+[https://homofabulus.com/homme-po...](https://web.archive.org/web/20220125013159/https://homofabulus.com/homme-polygamie-partie-2-monogamie-en-serie/)
 
-[https://homofabulus.com/lhomme-e...](https://homofabulus.com/lhomme-est-il-un-polygame-refoule-partie-33/)
+[https://homofabulus.com/lhomme-e...](https://web.archive.org/web/20220125023211/https://homofabulus.com/lhomme-est-il-un-polygame-refoule-partie-33/)

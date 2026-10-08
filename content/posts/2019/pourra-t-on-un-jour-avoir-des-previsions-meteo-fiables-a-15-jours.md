@@ -26,6 +26,6 @@ Donc pour répondre à la question : un jour oui, mais le lendemain, c’est pas
 
 Notes de bas de page
 
-[[1]](#cite-qqJld)[https://www.researchgate.net/pub...](https://www.researchgate.net/publication/314942923_Predictability_of_large-scale_atmospheric_motions_Lyapunov_exponents_and_error_dynamics)
+[[1]](#cite-qqJld)[https://www.researchgate.net/pub...](https://web.archive.org/web/20190425/https://www.researchgate.net/publication/314942923_Predictability_of_large-scale_atmospheric_motions_Lyapunov_exponents_and_error_dynamics)
 
-[[2]](#cite-RdqVX)[(PDF) Nonlinear dynamics of meteorological variables: Multifractality and chaotic invariants in daily records from Pastaza, Ecuador](https://www.researchgate.net/publication/226829149_Nonlinear_dynamics_of_meteorological_variables_Multifractality_and_chaotic_invariants_in_daily_records_from_Pastaza_Ecuador)
+[[2]](#cite-RdqVX)[(PDF) Nonlinear dynamics of meteorological variables: Multifractality and chaotic invariants in daily records from Pastaza, Ecuador](https://web.archive.org/web/20190425/https://www.researchgate.net/publication/226829149_Nonlinear_dynamics_of_meteorological_variables_Multifractality_and_chaotic_invariants_in_daily_records_from_Pastaza_Ecuador)

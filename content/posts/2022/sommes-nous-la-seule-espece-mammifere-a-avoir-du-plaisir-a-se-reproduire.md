@@ -39,4 +39,4 @@ Les autres cas sont pénalement et moralement interdits justement parce qu'ils p
 
 Notes de bas de page
 
-[[1]](#cite-kEEya)[Comment les humains ont-ils fini par faire le lien entre le sexe et les bébés?](https://www.slate.fr/story/67281/comment-humains-rapport-sexe-bebe)
+[[1]](#cite-kEEya)[Comment les humains ont-ils fini par faire le lien entre le sexe et les bébés?](https://web.archive.org/web/20230131142917/https://www.slate.fr/story/67281/comment-humains-rapport-sexe-bebe)

@@ -17,7 +17,7 @@ Aujourd'hui il y a 8188 espèces animales en danger **critique**d'extinction .
 
 Elles sont toutes là :
 
-[https://www.iucnredlist.org/sear...](https://www.iucnredlist.org/search?permalink=0f827f3b-2869-42dd-89c4-e5d1311d00fb)
+[https://www.iucnredlist.org/sear...](https://web.archive.org/web/20210407/https://www.iucnredlist.org/search?permalink=0f827f3b-2869-42dd-89c4-e5d1311d00fb)
 
 et 14'000 de plus classés EN danger d'extinction.
 

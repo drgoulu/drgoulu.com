@@ -15,4 +15,4 @@ Elle ne peine pas, elle suit sa trajectoire comme tous les autres pays, ce sera 
 
 Regardez cette extraordinaire conférence :
 
-[Hans Rosling : L'essor de l'Asie, quand et comment.](https://www.ted.com/talks/hans_rosling_asia_s_rise_how_and_when?language=fr)
+[Hans Rosling : L'essor de l'Asie, quand et comment.](https://web.archive.org/web/20200806173531/https://www.ted.com/talks/hans_rosling_asia_s_rise_how_and_when?language=fr)

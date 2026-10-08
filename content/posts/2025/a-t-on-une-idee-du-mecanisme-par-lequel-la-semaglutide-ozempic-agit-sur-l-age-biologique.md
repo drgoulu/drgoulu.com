@@ -26,4 +26,4 @@ Bref, on en a aucune idée pour l'instant.
 
 Et il a plein d'effets secondaires, donc ne faites pas les fous/folles.
 
-[https://www.sciencedirect.com/sc...](https://www.sciencedirect.com/science/article/abs/pii/S1568163724004008)
+[https://www.sciencedirect.com/sc...](https://web.archive.org/web/20250807/https://www.sciencedirect.com/science/article/abs/pii/S1568163724004008)

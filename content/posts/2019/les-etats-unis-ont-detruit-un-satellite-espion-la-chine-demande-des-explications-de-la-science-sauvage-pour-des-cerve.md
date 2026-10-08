@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://cafedessciences.quora.com/Les-États-Unis-ont-détruit-un-satellite-espion-la-Chine-demande-des-explications-De-la-science-sauvage-pour-des-cerve)*
 
-[http://sproutchlagrenouille.mond...](http://sproutchlagrenouille.mondoblog.org/2019/04/04/etats-unis-satellite/)
+[http://sproutchlagrenouille.mond...](https://web.archive.org/web/20190411183601/http://sproutchlagrenouille.mondoblog.org/2019/04/04/etats-unis-satellite/)

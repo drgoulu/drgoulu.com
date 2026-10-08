@@ -29,5 +29,5 @@ La force du roman est de rendre ce scénario assez vraisemblable malgré d'inév
 
 ### Voir aussi:
 
-- [le site du livre](http://www.system-dasbuch.de) et [celui de l'auteur](http://karl-olsberg.de/) (en allemand)
+- [le site du livre](https://web.archive.org/web/20090511004504/http://www.system-dasbuch.de) et [celui de l'auteur](http://karl-olsberg.de/) (en allemand)
 - "[Un monde sous influence. Critique de “Das System”, de Karl Olsberg"](http://alenvers.wordpress.com/2009/04/14/un-monde-sous-influence-critique-de-das-system-de-karl-olsberg/ "Lien permanent vers Un monde sous influence.  Critique de “Das System”, de Karl Olsberg") sur La culotte à l'envers

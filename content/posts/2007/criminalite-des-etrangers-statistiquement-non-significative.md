@@ -13,7 +13,7 @@ coverImage: "./images/7118369-L-1.jpg"
 
 {{< figure src="./images/7118369-L-1.jpg" alt="Sommes-nous tous des criminels?" >}}
 
-A la radio ce matin j'ai entendu [André Kuhn](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=801466), prof. de criminologie à l'UNIL, donner une petite leçon de "pensée différente" à propos des statistiques de la criminalité en Suisse.
+A la radio ce matin j'ai entendu [André Kuhn](https://web.archive.org/web/20070924/https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=801466), prof. de criminologie à l'UNIL, donner une petite leçon de "pensée différente" à propos des statistiques de la criminalité en Suisse.
 
 En gros il disait que oui, les étrangers commettent proportionnellement plus de crimes que les citoyens suisses, mais que non, le fait d'être étranger n'était pas "statistiquement significatif".
 
@@ -25,5 +25,5 @@ Ca me rappelle une petite étude sur les USA que j'avais fait sur un thème simi
 
 ### Plus d'infos :
 
-- [rapport final (pdf, 500 kb)](http://www.ejpd.admin.ch/content/dam/data/kriminalitaet/jugendgewalt/ber-auslaenderkriminalitaet-agak-f.pdf "bericht_auslaenderkriminalitaet_f.pdf") du Groupe de travail "Criminalité des étrangers" (AGAK) de la Conférence des chefs de départements cantonaux de justice et police (CCDJP), 5 mars 2001
-- {{< openbook booknumber="ISBN:978-2-940063-66-6" templatenumber="5" >}} , très bon bouquin [résumé ici](http://www.la-zone.ch/wp-content/uploads/Criminologie-r%C3%A9sum%C3%A9-de-Sommes-nous-tous-des-criminels.pdf) et en [vente pour Frs 10.- ici](http://www.lhebe.ch/description.php?SID=6e6e52b846150f1ff0ffcff2e5f13854)
+- [rapport final (pdf, 500 kb)](https://web.archive.org/web/20140809044557/http://www.ejpd.admin.ch/content/dam/data/kriminalitaet/jugendgewalt/ber-auslaenderkriminalitaet-agak-f.pdf "bericht_auslaenderkriminalitaet_f.pdf") du Groupe de travail "Criminalité des étrangers" (AGAK) de la Conférence des chefs de départements cantonaux de justice et police (CCDJP), 5 mars 2001
+- {{< openbook booknumber="ISBN:978-2-940063-66-6" templatenumber="5" >}} , très bon bouquin [résumé ici](https://web.archive.org/web/20070924/http://www.la-zone.ch/wp-content/uploads/Criminologie-r%C3%A9sum%C3%A9-de-Sommes-nous-tous-des-criminels.pdf) et en [vente pour Frs 10.- ici](https://web.archive.org/web/20071120222111/http://www.lhebe.ch/description.php?SID=6e6e52b846150f1ff0ffcff2e5f13854)

@@ -24,7 +24,7 @@ En cherchant un peu dans les publications scientifiques d'Urs Würgler, j'ai dé
 
 Vous ne savez pas ce que c'est ? Moi non plus. J'ai eu beau parcourir pas mal de pages Wikipédia et d'abstracts d'articles, je n'ai absolument pas réussi à saisir de quoi il s'agissait, sauf qu'apparemment les K(n) de la formule correspondent carrément à des "théories" mathématiques.
 
-Alors je me suis dit que Lê, le jeune et fringant mathématicien de [Science4All](https://fr.science4all.org/) pourrait peut-être y voir plus clair, mais sa réponse m'a confirmé que ça vole très très haut dans les nuages de l'abstraction mathématique :
+Alors je me suis dit que Lê, le jeune et fringant mathématicien de [Science4All](https://web.archive.org/web/20161216013337/https://fr.science4all.org/) pourrait peut-être y voir plus clair, mais sa réponse m'a confirmé que ça vole très très haut dans les nuages de l'abstraction mathématique :
 
 > J'ai bien peur que ça me dépasse très, très, très largement. J'estime à des années le temps qu'il me faudrait pour comprendre quelques éléments de cette K-théorie de Morava...  
 > Je crois comprendre que ça a quelque chose à voir avec [cette vidéo Hardcore](https://www.youtube.com/watch?v=yHE4HC4vf3g) que j'ai faite (or cette vidéo fait déjà 1 heure et est Hardcore...).

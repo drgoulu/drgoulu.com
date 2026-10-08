@@ -42,7 +42,7 @@ Ce que peuvent faire les pays africains et leurs habitants, c'est:
 
 - arrêter de se sous-estimer. Il n'y a plus de Tiers-Monde, le fossé entre pays "en développement" et "développés" s'est comblé. et c'est désormais un continuum. Si vous ne me croyez pas , voyez cette conférence à tout prix :
 
-[https://www.ted.com/talks/hans_r...](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=fr)
+[https://www.ted.com/talks/hans_r...](https://web.archive.org/web/20210612025529/https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=fr)
 
 - arrêtez de compter sur la France. Elle a ses propres problèmes, la pauvre. Comme disent les banquiers de mon pays "l'argent n'a pas d'odeur" : prenez-le là où il est. La Chine est un très gros investisseur en Afrique, et tant pis pour les compagnies européennes et américaines qui garderont des mauvaises habitudes néocoloniales.
 - gardez vos forces. A moins que vous ne puissiez venir étudier légalement en Europe pour retourner chez vous après, n'émigrez pas. Vous avez un meilleur avenir en développant votre pays, en participant à son économie et sa politique qu'en venant ici travailler au noir (…) ou pire. Sérieusement, si j'avais 30 ans de moins je chercherais un job ou je créerais une entreprise en Afrique aujourd'hui. (et si vous avez un poste de prof ouvert dans un endroit sympa pour ma pré-retraite, ça m''intéresse…)

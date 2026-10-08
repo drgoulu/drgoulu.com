@@ -24,6 +24,6 @@ Mais en ajoutant un peu d'hydrogène, vous pouvez obtenir du HCOOH, ou [Acide m�
 
 Mais dans tous les cas, vous redépensez en énergie une bonne partie de l'énergie produite lors de la combustion qui a produit le CO2 … Alors pourquoi ne pas laisser les plantes faire ça toutes seules par photosynthèse ?
 
-[https://new.societechimiquedefra...](https://new.societechimiquedefrance.fr/numero/la-reduction-electrocatalytique-du-dioxyde-de-carbone-une-solution-davenir-pour-la-chimie-durable-p84-n371-372/)
+[https://new.societechimiquedefra...](https://web.archive.org/web/20230209003114/https://new.societechimiquedefrance.fr/numero/la-reduction-electrocatalytique-du-dioxyde-de-carbone-une-solution-davenir-pour-la-chimie-durable-p84-n371-372/)
 
 ([pdf)](https://new.societechimiquedefrance.fr/wp-content/uploads/2019/12/2013-371-372-fev.-mars-p84-Deronzier_HD.pdf)

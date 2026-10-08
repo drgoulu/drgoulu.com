@@ -20,4 +20,4 @@ A part Homo sapiens il y a des cas documentés de [Comportement homosexuel chez 
 
 Un cas de necrophilie homosexuelle chez le canard est devenu mondialement célèbre.
 
-[https://www.ted.com/talks/kees_m...](https://www.ted.com/talks/kees_moeliker_how_a_dead_duck_changed_my_life?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)
+[https://www.ted.com/talks/kees_m...](https://web.archive.org/web/20201220092936/https://www.ted.com/talks/kees_moeliker_how_a_dead_duck_changed_my_life?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)

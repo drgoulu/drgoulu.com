@@ -31,4 +31,4 @@ Petite anecdote personnelle à ce sujet :
 
 Référence:
 
-1. Max Tegmark, “[On the dimensionality of spacetime](http://arxiv.org/PS_cache/gr-qc/pdf/9702/9702052v2.pdf)“, 1997, [arXiv:gr-qc/9702052v2](http://arxiv.org/abs/gr-qc/9702052v2), DOI [10.1088/0264-9381/14/4/002](http://arxiv.org/ct?url=http://dx.doi.org/10%2E1088/0264-9381/14/4/002&v=6f2319a0)
+1. Max Tegmark, “[On the dimensionality of spacetime](https://web.archive.org/web/20210110000749/http://arxiv.org/PS_cache/gr-qc/pdf/9702/9702052v2.pdf)“, 1997, [arXiv:gr-qc/9702052v2](http://arxiv.org/abs/gr-qc/9702052v2), DOI [10.1088/0264-9381/14/4/002](https://web.archive.org/web/20211203/http://arxiv.org/ct?url=http://dx.doi.org/10%2E1088/0264-9381/14/4/002&v=6f2319a0)

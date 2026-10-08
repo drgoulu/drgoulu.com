@@ -15,4 +15,4 @@ Non, sinon on verrait enfin la vidéo de sa partie de jambes en l'air "arrosée"
 
 Source : les 35 pages du rapport de la CIA de 2016
 
-[https://www.documentcloud.org/do...](https://www.documentcloud.org/documents/3259984-Trump-Intelligence-Allegations)
+[https://www.documentcloud.org/do...](https://web.archive.org/web/20220328030518/https://www.documentcloud.org/documents/3259984-Trump-Intelligence-Allegations)

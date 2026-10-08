@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-calculer-le-diam%C3%A8tre-dune-spirale-en-corde-en-fonction-de-l%C3%A9paisseur-et-de-la-longueur-de-la-corde/answer/Dr-Goulu)*
 
-D'après [length of spiral - Wolfram|Alpha](https://www.wolframalpha.com/input?i=length+of+spiral) la longueur d'une[spirale d'Archimède](w:) de pas a est $s(t) = 1/2 a (\sqrt{t^2 + 1} t + sinh^{-1}t)$
+D'après [length of spiral - Wolfram|Alpha](https://web.archive.org/web/20220508/https://www.wolframalpha.com/input?i=length+of+spiral) la longueur d'une[spirale d'Archimède](w:) de pas a est $s(t) = 1/2 a (\sqrt{t^2 + 1} t + sinh^{-1}t)$
 
 ou t est l'angle en radians, donc si vous connaissez cette longueur L, vous pouvez obtenir l'angle en résolvant $s(t)=L$ mais c'est pas assez simple pour la version gratuite de WolframAlpha…
 

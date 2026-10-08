@@ -12,6 +12,6 @@ Chaque semaine ils proposent un sketch hilarant réalisé en combinant des dessi
 
 Mes préférés:
 
-1. [Le Willi Waller](http://www.tetesaclaques.tv/video.php?vid=30)
-2. Le Pilote [1](http://www.tetesaclaques.tv/video.php?vid=22) et [2](http://www.tetesaclaques.tv/video.php?vid=37)
-3. [Bonne Année 2007](http://www.tetesaclaques.tv/video.php?vid=39)
+1. [Le Willi Waller](https://web.archive.org/web/20061221022411/http://www.tetesaclaques.tv/video.php?vid=30)
+2. Le Pilote [1](https://web.archive.org/web/20061221022228/http://www.tetesaclaques.tv/video.php?vid=22) et [2](https://web.archive.org/web/20070104025147/http://www.tetesaclaques.tv/video.php?vid=37)
+3. [Bonne Année 2007](https://web.archive.org/web/20070114061636/http://www.tetesaclaques.tv/video.php?vid=39)

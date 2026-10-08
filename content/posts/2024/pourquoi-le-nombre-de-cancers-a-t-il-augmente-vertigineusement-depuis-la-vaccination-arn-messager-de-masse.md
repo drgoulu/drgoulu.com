@@ -23,7 +23,7 @@ Mais je vais être beau joueur : il y a plus de cancers détectés après le cov
 
 Donc on les "rattrape" maintenant.
 
-[https://www.ouest-france.fr/sant...](https://www.ouest-france.fr/sante/cancer/pres-de-100-000-cancers-n-ont-pas-ete-detectes-a-cause-du-covid-19-selon-axel-kahn-7142949)
+[https://www.ouest-france.fr/sant...](https://web.archive.org/web/20210205030222/https://www.ouest-france.fr/sante/cancer/pres-de-100-000-cancers-n-ont-pas-ete-detectes-a-cause-du-covid-19-selon-axel-kahn-7142949)
 
 Pour être con plotiste on applique la méthode de Coluche:
 

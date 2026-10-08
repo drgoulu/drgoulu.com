@@ -40,7 +40,7 @@ Comme je l'avais remarqué lors des [deux](/2007/01/09/les-inegalites-saccroiss
 
 J'en ai tiré le graphique suivant (en enlevant le Mexique, et la Turquie, au dessus de 0.4, et en interpolant certaines valeurs pour obtenir des courbes continues):
 
-{{< figure src="./images/50f842011e28dff828c795149ff107ef.png" alt="giniocde" caption="(cliquer pour accéder aux données)" link="https://docs.google.com/spreadsheet/pub?hl=fr&hl=fr&key=0Al_D4zS2T4QodFpxYzNMZnktNDdwcEwzYnoxT3cycHc&single=true&gid=1&output=html" align="aligncenter" width="462" >}}
+{{< figure src="./images/50f842011e28dff828c795149ff107ef.png" alt="giniocde" caption="(cliquer pour accéder aux données)" link="https://web.archive.org/web/20090321/https://docs.google.com/spreadsheet/pub?hl=fr&hl=fr&key=0Al_D4zS2T4QodFpxYzNMZnktNDdwcEwzYnoxT3cycHc&single=true&gid=1&output=html" align="aligncenter" width="462" >}}
 
 Sur 23 pays, 16 ont enregistré une augmentation des inégalités internes sur la période mesurée. La tendance à l'accroissement des inégalités est claire, mais il existe d'importantes variations. Les hausses les plus marquées sont en Nouvelle-Zélande, au Royaume Uni et aux Etats Unis, qui commencent à considérer ceci comme un problème [[5]](#ref-5). L'Irlande, la Belgique, le Luxembourg, le Danemark et la Suisse [[6]](#ref-6) ont maintenu le même niveau d'inégalités. Seuls la Grèce, l'Espagne et la France ont réussi à diminuer leur coefficient de Gini. Bravo !
 
@@ -50,7 +50,7 @@ C'est exactement ce qui se passe au niveau mondial, ce que montre de façon magi
 
 {{< youtube id="yAP09ITNWN4" width="640" >}}
 
-Si vous ne comprenez pas l'anglais, regardez [une variante de la présentation en français](http://www.gapminder.org/downloads/human-development-trends-2005/), ou utilisez [cette version interactive](http://www.gapminder.org/downloads/income-distribution-2003/) qui permet de  visualiser l'évolution de la distribution des revenus dans le monde en mettant en évidence certains pays. Vous comprendrez ainsi pourquoi les inégalités diminuent au niveau mondial, comme l'indiquent la plupart des études [[2]](#ref-2).
+Si vous ne comprenez pas l'anglais, regardez [une variante de la présentation en français](https://web.archive.org/web/20100314063617/http://www.gapminder.org/downloads/human-development-trends-2005/), ou utilisez [cette version interactive](http://www.gapminder.org/downloads/income-distribution-2003/) qui permet de  visualiser l'évolution de la distribution des revenus dans le monde en mettant en évidence certains pays. Vous comprendrez ainsi pourquoi les inégalités diminuent au niveau mondial, comme l'indiquent la plupart des études [[2]](#ref-2).
 
 ### L'effet des impôts
 
@@ -60,10 +60,10 @@ Les données de l'OCDE [[4]](#ref-4) permettent d'aborder une question soulevée
 
 ### Références
 
-1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:9789264044203" templatenumber="5" >}} ([document complet](http://medias.lemonde.fr/mmpub/edt/doc/20081021/1109272_croissanceetinegalites.pdf), [résumé de 10 pages en ligne](http://www.oecd.org/dataoecd/48/9/41530189.pdf))
+1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:9789264044203" templatenumber="5" >}} ([document complet](https://web.archive.org/web/20081029021545/http://medias.lemonde.fr/mmpub/edt/doc/20081021/1109272_croissanceetinegalites.pdf), [résumé de 10 pages en ligne](https://web.archive.org/web/20081125045714/http://www.oecd.org/dataoecd/48/9/41530189.pdf))
 2. <span id="ref-2"></span>"[Inégalités de revenu](w:)" sur Wikipedia
-3. <span id="ref-3"></span>Daniel Martin "[Inégalités : courbe de Lorenz, indice de Gini](http://www.danielmartin.eu/Cours/Gini.htm)", Medias et Democratie
-4. <span id="ref-4"></span>Version [Google Docs](https://docs.google.com/spreadsheet/pub?hl=fr&hl=fr&key=0Al_D4zS2T4QodFpxYzNMZnktNDdwcEwzYnoxT3cycHc&single=true&gid=1&output=html) de la [feuille Excel de l'OCDE](http://statlinks.oecdcode.org/812008052P1G001.XLS)
-5. <span id="ref-5"></span>Jean-Claude Péclet "[La chasse aux inégalités est relancée](http://letemps.ch/Page/SysConfig/WebPortal/letemps/jsp/paywall/error/usersession.jsp;jsessionid=7328634BAE32168A40DC9DDB4595ABDE)", Le Temps, Jeudi 19 mars 2009
-6. <span id="ref-6"></span>Jean-Claude Péclet, "[Le fossé social ne s’est pas creusé](http://letemps.ch/Page/SysConfig/WebPortal/letemps/jsp/paywall/error/usersession.jsp;jsessionid=B83A8C614EFA7DBCF6AD13635FEB8530)", Le Temps, Jeudi 19 mars 2009
-7. <span id="ref-7"></span>"Inégalité de la croissance mondiale, un risque conjoncturel ?", Secrétariat d'Etat (Suisse) à l'Economie ([SECO](http://www.seco.admin.ch)) ([pdf](https://www.seco.admin.ch/dam/seco/fr/dokumente/Wirtschaft/Wirtschaftslage/Konjunkturtendenzen/Ungleiches%20Weltwirtschaftswachstum%20als%20Konjunkturrisiko.pdf.download.pdf/spezialthemaherbst04_f.pdf)) (utilise le coefficient de Gini d'une façon non standard)
+3. <span id="ref-3"></span>Daniel Martin "[Inégalités : courbe de Lorenz, indice de Gini](https://web.archive.org/web/20090305134013/http://www.danielmartin.eu/Cours/Gini.htm)", Medias et Democratie
+4. <span id="ref-4"></span>Version [Google Docs](https://web.archive.org/web/20090321/https://docs.google.com/spreadsheet/pub?hl=fr&hl=fr&key=0Al_D4zS2T4QodFpxYzNMZnktNDdwcEwzYnoxT3cycHc&single=true&gid=1&output=html) de la [feuille Excel de l'OCDE](http://statlinks.oecdcode.org/812008052P1G001.XLS)
+5. <span id="ref-5"></span>Jean-Claude Péclet "[La chasse aux inégalités est relancée](https://web.archive.org/web/20090321/http://letemps.ch/Page/SysConfig/WebPortal/letemps/jsp/paywall/error/usersession.jsp;jsessionid=7328634BAE32168A40DC9DDB4595ABDE)", Le Temps, Jeudi 19 mars 2009
+6. <span id="ref-6"></span>Jean-Claude Péclet, "[Le fossé social ne s’est pas creusé](https://web.archive.org/web/20090321/http://letemps.ch/Page/SysConfig/WebPortal/letemps/jsp/paywall/error/usersession.jsp;jsessionid=B83A8C614EFA7DBCF6AD13635FEB8530)", Le Temps, Jeudi 19 mars 2009
+7. <span id="ref-7"></span>"Inégalité de la croissance mondiale, un risque conjoncturel ?", Secrétariat d'Etat (Suisse) à l'Economie ([SECO](http://www.seco.admin.ch)) ([pdf](https://web.archive.org/web/20221002201333/https://www.seco.admin.ch/dam/seco/fr/dokumente/Wirtschaft/Wirtschaftslage/Konjunkturtendenzen/Ungleiches%20Weltwirtschaftswachstum%20als%20Konjunkturrisiko.pdf.download.pdf/spezialthemaherbst04_f.pdf)) (utilise le coefficient de Gini d'une façon non standard)

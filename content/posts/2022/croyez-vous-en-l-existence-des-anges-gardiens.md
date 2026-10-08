@@ -24,4 +24,4 @@ Mon oncle avait trouvé ça intéressant, et je ne me rappelle pas qu'il ait con
 
 Notes de bas de page
 
-[[1]](#cite-yTjry)[Gardiens invisibles : récits surprenants d'évènements vécus - Jakob Streit - Librairie Mollat Bordeaux](https://www.mollat.com/livres/1029666/jakob-streit-gardiens-invisibles-recits-surprenants-d-evenements-vecus)
+[[1]](#cite-yTjry)[Gardiens invisibles : récits surprenants d'évènements vécus - Jakob Streit - Librairie Mollat Bordeaux](https://web.archive.org/web/20220903/https://www.mollat.com/livres/1029666/jakob-streit-gardiens-invisibles-recits-surprenants-d-evenements-vecus)

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 D'après
 
-[https://statistics.btselem.org/e...](https://statistics.btselem.org/en/all-fatalities/by-date-of-incident?section=participation&tab=overview)
+[https://statistics.btselem.org/e...](https://web.archive.org/web/20231030063106/https://statistics.btselem.org/en/all-fatalities/by-date-of-incident?section=participation&tab=overview)
 
 Tsahal n'est pas beaucoup plus éthique que les groupes terroristes qu'elle affronte. Elle est juste 10x plus mortelle.

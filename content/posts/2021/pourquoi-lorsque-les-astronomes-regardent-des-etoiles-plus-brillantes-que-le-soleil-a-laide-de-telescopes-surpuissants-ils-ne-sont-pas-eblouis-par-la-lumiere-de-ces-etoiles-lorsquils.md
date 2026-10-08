@@ -16,7 +16,7 @@ coverImage: ./images/qimg-1d337473c528abdad968b814df7a11e1.jpg
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-lorsque-les-astronomes-regardent-des-%C3%A9toiles-plus-brillantes-que-le-Soleil-%C3%A0-l-aide-de-t%C3%A9lescopes-surpuissants-ils-ne-sont-pas-%C3%A9blouis-par-la-lumi%C3%A8re-de-ces-%C3%A9toiles-lorsqu-ils/answer/Dr-Goulu)*
 
-même en "zoomant" au maximum avec un télescope surpuissant, les étoiles sont rarement plus grosses qu'un point. Une des seules, si ce n'est la seule qui fasse plus d'un pixel de camera est [Bételgeuse](w:), qui est mille fois plus grosse que le Soleil. Voici sa [photo prise par le télescope spatial Hubble](https://hubblesite.org/contents/media/images/1996/04/394-Image.html) :
+même en "zoomant" au maximum avec un télescope surpuissant, les étoiles sont rarement plus grosses qu'un point. Une des seules, si ce n'est la seule qui fasse plus d'un pixel de camera est [Bételgeuse](w:), qui est mille fois plus grosse que le Soleil. Voici sa [photo prise par le télescope spatial Hubble](https://web.archive.org/web/20210525064635/https://hubblesite.org/contents/media/images/1996/04/394-Image.html) :
 
 ![](./images/qimg-1d337473c528abdad968b814df7a11e1.jpg)
 

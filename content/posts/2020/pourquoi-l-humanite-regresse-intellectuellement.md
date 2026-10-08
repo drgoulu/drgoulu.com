@@ -18,7 +18,7 @@ coverImage: ./images/qimg-df8512b798d26847f7896166e0dddf5e.jpg
 
 Ah ? et où donc avez vous vu que l'humanité régresse intellectuellement ?
 
-[L'alphabétisation du monde](https://www.lepoint.fr/societe/l-incroyable-alphabetisation-du-monde-10-09-2019-2334818_23.php) a eu une progression incroyable : plus de 80% des presque 8 milliards d'humains savent lire alors qu'il n'y avait que 20% de 1.5 milliards de cerveaux en 1900. Ca fait juste 20 fois plus de gens ayant reçu les bases nécessaires.
+[L'alphabétisation du monde](https://web.archive.org/web/20210117134036/https://www.lepoint.fr/societe/l-incroyable-alphabetisation-du-monde-10-09-2019-2334818_23.php) a eu une progression incroyable : plus de 80% des presque 8 milliards d'humains savent lire alors qu'il n'y avait que 20% de 1.5 milliards de cerveaux en 1900. Ca fait juste 20 fois plus de gens ayant reçu les bases nécessaires.
 
 Si le Q.I. moyen semble avoir baissé un peu dans certains pays (comme la France) , il a augmenté ailleurs, notamment en Asie. Or la majorité de l'humanité est là-bas :
 

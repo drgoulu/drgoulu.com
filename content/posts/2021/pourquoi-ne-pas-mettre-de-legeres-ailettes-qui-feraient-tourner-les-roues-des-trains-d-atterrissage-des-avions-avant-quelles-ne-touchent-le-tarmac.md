@@ -22,4 +22,4 @@ Selon la page ci-dessous , il y a plusieurs problèmes :
 
 donc voilà, c'est un exemple de plus qu'une bonne idée n'est pas forcément utile…
 
-[https://askfrance.me/q/pourquoi-...](https://askfrance.me/q/pourquoi-les-pneus-d-avion-ne-sont-ils-pas-pre-essores-avant-l-atterrissage-59810000937)
+[https://askfrance.me/q/pourquoi-...](https://web.archive.org/web/20210517/https://askfrance.me/q/pourquoi-les-pneus-d-avion-ne-sont-ils-pas-pre-essores-avant-l-atterrissage-59810000937)

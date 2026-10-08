@@ -24,6 +24,6 @@ They have their own education system, police, taxes, transport system. In Switze
 
 Footnotes
 
-[[1]](#cite-ZutCx)[Max Kade Institute](https://mki.wisc.edu/library/catalog/sister-republics-switzerland-and-united-states-1776-present)
+[[1]](#cite-ZutCx)[Max Kade Institute](https://web.archive.org/web/20190730/https://mki.wisc.edu/library/catalog/sister-republics-switzerland-and-united-states-1776-present)
 
-[[2]](#cite-gWARn)[The Anthology of Swiss Legal Culture](http://www.legalanthology.ch/americanization/3-contributions/swiss-and-american-states-constitutions-james-h-hutson/)
+[[2]](#cite-gWARn)[The Anthology of Swiss Legal Culture](https://web.archive.org/web/20190821090321/http://www.legalanthology.ch/americanization/3-contributions/swiss-and-american-states-constitutions-james-h-hutson/)

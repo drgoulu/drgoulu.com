@@ -15,4 +15,4 @@ Sans en tenir compte, les GPS seraient faux, et l'or ne serait pas jaune.
 
 Entre autres.
 
-[Comment la théorie de la relativité d’Einstein a changé nos vies](https://www.lemonde.fr/les-decodeurs/article/2015/11/27/comment-la-theorie-de-la-relativite-d-einstein-a-change-nos-vies_4819236_4355770.html)
+[Comment la théorie de la relativité d’Einstein a changé nos vies](https://web.archive.org/web/20200530041910/https://www.lemonde.fr/les-decodeurs/article/2015/11/27/comment-la-theorie-de-la-relativite-d-einstein-a-change-nos-vies_4819236_4355770.html)

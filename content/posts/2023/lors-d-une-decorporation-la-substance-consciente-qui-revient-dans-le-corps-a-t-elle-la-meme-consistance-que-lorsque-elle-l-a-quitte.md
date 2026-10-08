@@ -24,6 +24,6 @@ La "décorporation" est une illusion provoquée par la stimulation du gyrus angu
 
 On sait la produire artificiellement par stimulation électrique ou drogues (kétamine) , mais j'y arrive quasiment à volonté en me concentrant intensivement, comme les moines bouddhistes qui "lévitent" ou les autres qui "s'élèvent".
 
-[https://academic.oup.com/brain/a...](https://academic.oup.com/brain/article/127/2/243/347826)
+[https://academic.oup.com/brain/a...](https://web.archive.org/web/20240129080516/https://academic.oup.com/brain/article/127/2/243/347826)
 
 Ne sous estimez pas votre cerveau, il est capable de vous faire croire en des trucs qui n'existent pas et de vous faire ignorer des trucs qui existent.

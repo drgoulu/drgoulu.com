@@ -10,7 +10,7 @@ tags:
 coverImage: "./images/aerovelo-sikorsky-prize-1.png"
 ---
 
-Le team [AeroVelo](http://www.aerovelo.com/) de l'université de Toronto vient de [remporter le prix AHS Sikorsky](http://vtol.org/hph) de $250'000 lancé en 1980 pour récompenser le premier hélicoptère à propulsion humaine.
+Le team [AeroVelo](http://www.aerovelo.com/) de l'université de Toronto vient de [remporter le prix AHS Sikorsky](https://web.archive.org/web/20130715085221/http://vtol.org/hph) de $250'000 lancé en 1980 pour récompenser le premier hélicoptère à propulsion humaine.
 
 Le 13 juin 2013, leur engin a volé plus d'une minute, à atteint plus de 3m d'altitude et le pilote est resté au dessus d'un carré de 10m de côté.
 
@@ -26,4 +26,4 @@ Ce fantastique exploit comble un peu notre léger retard sur ce qui était prév
 
 ### Référence:
 
-1. Graham Warwick "[Human + Helo - How AeroVelo Won the Prize](http://aviationweek.com/blog/human-helo-how-aerovelo-won-prize)",12 juillet 2013 sur Aviation Week
+1. Graham Warwick "[Human + Helo - How AeroVelo Won the Prize](https://web.archive.org/web/20140911231439/http://aviationweek.com/blog/human-helo-how-aerovelo-won-prize)",12 juillet 2013 sur Aviation Week

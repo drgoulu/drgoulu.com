@@ -30,7 +30,7 @@ en dérivant par rapport à r on obtient
 
 S'(r)=4$\pi.r - 2V/r^2$
 
-S'(r)=0 a [une seule solution réelle positive](https://www.wolframalpha.com/input/?i=solve+4*pi*x+-+2*v/x^2=0) pour $r=\sqrt[3]{V/2\pi}$
+S'(r)=0 a [une seule solution réelle positive](https://web.archive.org/web/20200603/https://www.wolframalpha.com/input/?i=solve+4*pi*x+-+2*v/x^2=0) pour $r=\sqrt[3]{V/2\pi}$
 
 en introduisant dans (1) on obtient $h=V/\left(\pi.(V/2\pi)^{2/3}\right)$
 

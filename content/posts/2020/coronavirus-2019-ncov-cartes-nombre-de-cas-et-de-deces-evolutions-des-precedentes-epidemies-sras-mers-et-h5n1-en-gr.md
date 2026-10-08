@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://cafedessciences.quora.com/Coronavirus-2019-nCoV-cartes-nombre-de-cas-et-de-décès-évolutions-des-précédentes-épidémies-SRAS-MERS-et-H5N1-en-gr)*
 
-[https://quoidansmonassiette.fr/c...](https://quoidansmonassiette.fr/coronavirus-2019-ncov-evolution-cartes-nombre-de-cas-deces-precedentes-epidemies-sras-mers-ebola-h5n1-en-graphiques/)
+[https://quoidansmonassiette.fr/c...](https://web.archive.org/web/20200310152757/https://quoidansmonassiette.fr/coronavirus-2019-ncov-evolution-cartes-nombre-de-cas-deces-precedentes-epidemies-sras-mers-ebola-h5n1-en-graphiques/)

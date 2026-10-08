@@ -13,7 +13,7 @@ Me suis mis à programmer un peu en [Lua](http://www.lua.org), un "langage de sc
 
 LUA présente plusieurs caractéristiques étonnantes:
 
-1. il est très rapide, presque autant que JAVA mais environ 6x plus que Python ou 15x plus que PHP (voir [ici](http://www.timestretch.com/article/mandelbrot_fractal_benchmark) par exemple)
+1. il est très rapide, presque autant que JAVA mais environ 6x plus que Python ou 15x plus que PHP (voir [ici](https://web.archive.org/web/20110525012319/http://www.timestretch.com/article/mandelbrot_fractal_benchmark) par exemple)
 2. l'interpréteur LUA est très petit : moins de 100k, contre 800k pour Python et beaucoup plus pour les autres langages.
 3. LUA est à la fois un langage très simple, genre "Basic des années 80'", et offre des notions beaucoup plus avancées décrites plus bas
 4. LUA est le premier langage de programmation brazilio-catholique : il a été créé à la [Pontifícia Universidade Católica do Rio de Janeiro](http://www.puc-rio.br/index.html) et est donc mieux documenté en portugais qu'en français.
@@ -32,7 +32,7 @@ J'ai investigué d'autres environnements de développement LUA, y compris certai
 
 - En LUA comme avec beaucoup de langages de script, les variables peuvent prendre n'importe quel type sans déclaration préalable : `a=1 -- un nombre entier a=3.14 -- un nombre réel a="hello" -- une chaine`
 - comme Pascal, LUA veut qu'on ferme les blocs avec end: `function chose(x) if x<10 then return x+10 else return x end end while not quelque do for i=debut,fin do quelque=chose(i) end end`
-- voilà, vous savez tout ce qu'il faut pour programmer en LUA ;-). En fait, toutes les fonctions de LUA permettant de faire des choses utiles proviennent de [librairies standard](http://www.lua.org/manual/5.1/manual.html#5) comme math, os et string, ou d'extensions programmées en C comme celles développées dans le cadre du [projet Kepler](http://www.keplerproject.org/).
+- voilà, vous savez tout ce qu'il faut pour programmer en LUA ;-). En fait, toutes les fonctions de LUA permettant de faire des choses utiles proviennent de [librairies standard](http://www.lua.org/manual/5.1/manual.html#5) comme math, os et string, ou d'extensions programmées en C comme celles développées dans le cadre du [projet Kepler](https://web.archive.org/web/20070927084555/http://www.keplerproject.org/).
 
 ### Subtilités
 

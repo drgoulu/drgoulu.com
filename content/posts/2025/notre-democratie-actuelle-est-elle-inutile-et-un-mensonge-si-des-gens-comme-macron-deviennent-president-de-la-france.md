@@ -24,7 +24,7 @@ Que vous le vouliez ou non, vous avez élu (avec un système électoral bizarre)
 
 Et combien de referendums avez vous eu ?
 
-Dans une démocratie voisine, [nous en avons eu 74 depuis 2017](https://www.bk.admin.ch/ch/f/pore/va/vab_2_2_4_1_gesamt.html). Et un tiers environ était des initiatives populaires, donc des modifications de la constitution demandées directement par la population.
+Dans une démocratie voisine, [nous en avons eu 74 depuis 2017](https://web.archive.org/web/20250904014553/https://www.bk.admin.ch/ch/f/pore/va/vab_2_2_4_1_gesamt.html). Et un tiers environ était des initiatives populaires, donc des modifications de la constitution demandées directement par la population.
 
 Votre république n'est pas "inutile", vous avez des écoles, des infrastructures qui fonctionnent, un état de droit etc. C'est beaucoup mieux que dans la majorité des pays du monde.
 

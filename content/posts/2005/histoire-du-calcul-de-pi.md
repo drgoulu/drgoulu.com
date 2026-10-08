@@ -10,4 +10,4 @@ En 1609, Van Ceulen publia les 34 décimales de pi qu'il avait calculé pendant 
 
 Mais le gros choc eut lieu le 19 septembre 1995 à 0h29 quand Simon Plouffe découvrit une formule qui permet de calculer n'importe quelle décimale de pi sans calculer celle qui précède ! (mais en binaire).
 
-- [Histoire du calcul de Pi](http://pi.lacim.uqam.ca/fra/pihistory_fr.html)
+- [Histoire du calcul de Pi](https://web.archive.org/web/20050119213556/http://pi.lacim.uqam.ca/fra/pihistory_fr.html)

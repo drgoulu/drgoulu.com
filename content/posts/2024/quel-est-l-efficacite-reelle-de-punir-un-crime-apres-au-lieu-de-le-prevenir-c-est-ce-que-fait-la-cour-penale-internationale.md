@@ -28,4 +28,4 @@ La prévention ne marche pas toujours, peut être même rarement, mais quand ça
 
 Notes de bas de page
 
-[[1]](#cite-cNKvA)[https://www.blick.ch/fr/news/mon...](https://www.blick.ch/fr/news/monde/le-washington-post-laffirme-a-trois-reprises-la-paix-en-ukraine-aurait-pu-etre-sauvee-a-geneve-id17800483.html)
+[[1]](#cite-cNKvA)[https://www.blick.ch/fr/news/mon...](https://web.archive.org/web/20220818195151/https://www.blick.ch/fr/news/monde/le-washington-post-laffirme-a-trois-reprises-la-paix-en-ukraine-aurait-pu-etre-sauvee-a-geneve-id17800483.html)

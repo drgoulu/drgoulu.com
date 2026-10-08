@@ -26,7 +26,7 @@ principalement des souris pour vérifier le principe de fonctionnement des vacci
 
 source :
 
-[https://www.recherche-animale.or...](https://www.recherche-animale.org/la-necessite-des-essais-sur-animaux-pour-les-vaccins-anti-covid-19)
+[https://www.recherche-animale.or...](https://web.archive.org/web/20210401063208/https://www.recherche-animale.org/la-necessite-des-essais-sur-animaux-pour-les-vaccins-anti-covid-19)
 
 Les animaux utilisés pour une étude sont parfois disséqués pour analyser les résultats, sinon ils sont euthanasiés car ils ne peuvent pas être réutilisés ni placés. Les macaques ne peuvent hélas pas être domestiqués, et les zoos n'en veulent pas…
 

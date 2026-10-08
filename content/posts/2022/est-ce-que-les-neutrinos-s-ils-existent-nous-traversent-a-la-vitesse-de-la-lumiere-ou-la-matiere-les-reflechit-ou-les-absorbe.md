@@ -28,4 +28,4 @@ Ils nous traversent, et traversent même la Terre entière, avec une probabilit�
 
 Mais on fait aujourd'hui des détecteurs suffisamment sensibles, et même des [Observatoire de neutrinos](w:)capables d'identifier la direction des neutrinos et donc de produire des images comme celle-ci :
 
-[https://45secondes.fr/cette-phot...](https://45secondes.fr/cette-photo-du-soleil-a-ete-prise-de-nuit-depuis-une-mine-au-japon-et-regardant-a-travers-la-terre-au-lieu-du-ciel/)
+[https://45secondes.fr/cette-phot...](https://web.archive.org/web/20210415223735/https://45secondes.fr/cette-photo-du-soleil-a-ete-prise-de-nuit-depuis-une-mine-au-japon-et-regardant-a-travers-la-terre-au-lieu-du-ciel/)

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Taxes au km pour les véhicules et taxe CO2 sur toutes les émissions.
 
-[https://www.challenges.fr/automo...](https://www.challenges.fr/automobile/actu-auto/voitures-electriques-attention-les-taxes-pourraient-arriver-bientot_769558)
+[https://www.challenges.fr/automo...](https://web.archive.org/web/20230513224547/https://www.challenges.fr/automobile/actu-auto/voitures-electriques-attention-les-taxes-pourraient-arriver-bientot_769558)
 
-[https://reporterre.net/Le-Parlem...](https://reporterre.net/Le-Parlement-europeen-vote-la-taxe-carbone-aux-frontieres)
+[https://reporterre.net/Le-Parlem...](https://web.archive.org/web/20230606000702/https://reporterre.net/Le-Parlement-europeen-vote-la-taxe-carbone-aux-frontieres)

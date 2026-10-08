@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Lisez son article de 1915. Il ne fait que 4 misérables petites pages !
 
-[http://ui.adsabs.harvard.edu/abs...](http://ui.adsabs.harvard.edu/abs/1915SPAW.......844E/abstract)
+[http://ui.adsabs.harvard.edu/abs...](https://web.archive.org/web/20191013021846/http://ui.adsabs.harvard.edu/abs/1915SPAW.......844E/abstract)

@@ -17,5 +17,5 @@ Si vous êtes la réincarnation de [Srinivasa Ramanujan](w:), vous pouvez tenter
 Quelques liens :
 
 - [Advice for amateur mathematicians](https://math.mit.edu/~cohn/Thoughts/advice.html)
-- [https://www.ams.org/publications...](https://www.ams.org/publications/notices/noticesauthors)
+- [https://www.ams.org/publications...](https://web.archive.org/web/20220120204557/https://www.ams.org/publications/notices/noticesauthors)
 - [Le fossé de Sloane - Pourquoi Comment Combien](/2011/04/10/le-fosse-de-sloane/) (mais j'ai pas obtenu de bourse …)

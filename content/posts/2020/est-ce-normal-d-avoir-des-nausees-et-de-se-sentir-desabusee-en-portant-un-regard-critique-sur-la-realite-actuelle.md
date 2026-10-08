@@ -15,4 +15,4 @@ Oui si vous êtes pessimiste ou peu au courant de certains faits.
 
 Par exemple que l'espérance de vie n'a jamais été aussi élevée, la mortalité infantile si faible, les morts violentes si rares. Les inégalités sont globalement en baisse grâce à une croissance spectaculaire de nombreux pays de l'ancien "tiers monde" qui a disparu.
 
-[Les meilleures statistiques jamais vues](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=fr)
+[Les meilleures statistiques jamais vues](https://web.archive.org/web/20200604000408/https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=fr)

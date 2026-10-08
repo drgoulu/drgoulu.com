@@ -18,4 +18,4 @@ The financial sector represents 9.7% of the swiss GDP[[1]](#NzqAT)
 
 Footnotes
 
-[[1]](#cite-NzqAT)[SWITZERLAND](https://www.ebf.eu/switzerland/)
+[[1]](#cite-NzqAT)[SWITZERLAND](https://web.archive.org/web/20221202065045/https://www.ebf.eu/switzerland/)

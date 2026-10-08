@@ -30,7 +30,7 @@ Quand je dis "sous nos yeux ébahis", ce n'est malheureusement juste pas le cas 
 
 Voilà pour les photons. Mais une supernova de type II émet 99% de son énergie sous forme d'environ 1058 neutrinos. Dix mille milliards de milliards de milliards de milliards de milliards de milliards, pour ceux qui ne sont pas familiers avec les puissances de dix. Lors de la dernière supernova survenue dans notre galaxie, [SN 1987A](w:), [24 neutrinos avaient été détectés](w:SN_1987A#Supernova_et_neutrinos) environ 3 heures avant la lumière, ce qui est parfaitement conforme à la théorie. Depuis, on savait que ces particules vont exactement à la même vitesse que la lumière, pas un pet de plus, à moins de brancher un câble de travers...
 
-Je me suis donc dit qu' SN 2012 aw devrait aider à convaincre les derniers sceptiques que mon [compatriote Albert](http://www.swissinfo.ch/fre/A_La_une/Archive/Albert_Einstein,_citoyen_suisse.html?cid=4120480) a définitivement raison. Mais [IceCube](http://icecube.wisc.edu/), le meilleur détecteur de neutrinos que nous ayons actuellement, n'en a vu passer aucun dans son kilomètre cube de glace sous l'Antarctique. Il n'est pas assez sensible, mais il y a des idées pour arranger ça pour la prochaine SN 201x \[5\].
+Je me suis donc dit qu' SN 2012 aw devrait aider à convaincre les derniers sceptiques que mon [compatriote Albert](https://web.archive.org/web/20120324/http://www.swissinfo.ch/fre/A_La_une/Archive/Albert_Einstein,_citoyen_suisse.html?cid=4120480) a définitivement raison. Mais [IceCube](https://web.archive.org/web/20120309023705/http://icecube.wisc.edu/), le meilleur détecteur de neutrinos que nous ayons actuellement, n'en a vu passer aucun dans son kilomètre cube de glace sous l'Antarctique. Il n'est pas assez sensible, mais il y a des idées pour arranger ça pour la prochaine SN 201x \[5\].
 
 ### Notes
 
@@ -39,8 +39,8 @@ Je me suis donc dit qu' SN 2012 aw devrait aider à convaincre les derniers scep
 
 ### Sources:
 
-1. [Electronic Telegram No. 3054](http://www.cbat.eps.harvard.edu/iau/cbet/003000/CBET003054.txt), Central Bureau for Astronomical Telegrams, INTERNATIONAL ASTRONOMICAL UNION, 20 mars 2012
-2. [Breaking: possible supernova in nearby spiral M95](http://blogs.discovermagazine.com/badastronomy/2012/03/19/breaking-possible-supernova-in-nearby-spiral-m95/ "Permanent Link: Breaking: possible supernova in nearby spiral M95") sur Bad Astronomy, 19 mars 2012
-3. [Supernova 2012aw: the pictures!](http://blogs.discovermagazine.com/badastronomy/2012/03/20/supernova-2012aw-the-pictures/ "Permanent Link: Supernova 2012aw: the pictures!")  sur Bad Astronomy, 20 mars 2012
-4. [More M95 supernova news: progenitor found!](http://blogs.discovermagazine.com/badastronomy/2012/03/23/more-m95-supernova-news-progenitor-found/ "Permanent Link to More M95 supernova news: progenitor found!")  sur Bad Astronomy, 23 mars 2012
+1. [Electronic Telegram No. 3054](https://web.archive.org/web/20120323193725/http://www.cbat.eps.harvard.edu/iau/cbet/003000/CBET003054.txt), Central Bureau for Astronomical Telegrams, INTERNATIONAL ASTRONOMICAL UNION, 20 mars 2012
+2. [Breaking: possible supernova in nearby spiral M95](https://web.archive.org/web/20120322234218/http://blogs.discovermagazine.com/badastronomy/2012/03/19/breaking-possible-supernova-in-nearby-spiral-m95/ "Permanent Link: Breaking: possible supernova in nearby spiral M95") sur Bad Astronomy, 19 mars 2012
+3. [Supernova 2012aw: the pictures!](https://web.archive.org/web/20120323011244/http://blogs.discovermagazine.com/badastronomy/2012/03/20/supernova-2012aw-the-pictures/ "Permanent Link: Supernova 2012aw: the pictures!")  sur Bad Astronomy, 20 mars 2012
+4. [More M95 supernova news: progenitor found!](https://web.archive.org/web/20120325033225/http://blogs.discovermagazine.com/badastronomy/2012/03/23/more-m95-supernova-news-progenitor-found/ "Permanent Link to More M95 supernova news: progenitor found!")  sur Bad Astronomy, 23 mars 2012
 5. Markus Voge et al., "Towards an extragalactic Supernova neutrino detector at the South Pole", [Neutrino 2012 Poster Abstracts](https://wikispaces.psu.edu/display/PINGU/Neutrino+2012+Poster+Abstracts)

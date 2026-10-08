@@ -31,5 +31,5 @@ La seconde révolution vient de la technologie MEMS ("Micro Electro-Mechanical S
 ### Sources:
 
 1. [The Extraordinary Technologies of GP-B](http://einstein.stanford.edu/TECH/technology1.html)
-2. [Gyromètre piezoélectrique VIG de l'ONERA](http://www.onera.fr/dmph/capteurs-inertiels/gyro-vig.php)
+2. [Gyromètre piezoélectrique VIG de l'ONERA](https://web.archive.org/web/20090416024613/http://www.onera.fr/dmph/capteurs-inertiels/gyro-vig.php)
 3. [MEMS Gyroscopes](http://www.st.com/internet/com/support/404.jsp), excellente présentation complète de STM, en anglais

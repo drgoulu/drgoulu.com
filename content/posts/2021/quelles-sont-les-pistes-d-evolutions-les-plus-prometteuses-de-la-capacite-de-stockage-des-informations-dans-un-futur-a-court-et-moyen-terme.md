@@ -24,7 +24,7 @@ Ce nombre est inférieur au [Nombre d'Avogadro](w:)(6.23 10^23), donc on peut st
 
 Ce qui prend de la place, ce n'est plus le stockage mais la bande passante, la capacité d'accéder à ces informations rapidement, en parallèle, de manière fiable et de les transmettre loin. C'est pour ça qu'on multiplie les datacenters ou l'information est stockées de manière redondante dans des mémoires de quelques terabytes seulement qu'on peut remplacer en [Hot-swap](w:)au besoin.
 
-Le futur, c'est une meilleure maîtrise de cette redondance, comme à bien réussi à le faire Netflix par exemple, qui anticipe vos choix pour mettre vos prochains films et épisodes sur des serveurs proches de chez vous. ([Netflix TechBlog](https://netflixtechblog.com/), un blog absolument passionnant pour les geeks dans mon genre)
+Le futur, c'est une meilleure maîtrise de cette redondance, comme à bien réussi à le faire Netflix par exemple, qui anticipe vos choix pour mettre vos prochains films et épisodes sur des serveurs proches de chez vous. ([Netflix TechBlog](https://web.archive.org/web/20210131084543/https://netflixtechblog.com/), un blog absolument passionnant pour les geeks dans mon genre)
 
 Plus généralement, il faut dorénavant considérer votre disque dur comme une mémoire cache d internet, et internet comme un espace mémoire quvon devrait mieux gérer, notamment avec un "ramasse miette" capable d'identifier le contenu obsolète, inaccessible ou, idéalement, dupliqué.
 

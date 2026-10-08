@@ -33,4 +33,4 @@ Les données[[1]](#TpUAy) montrent clairement que ces Etats restreignant l'accè
 
 Notes de bas de page
 
-[[1]](#cite-TpUAy)[State gun laws, gun ownership, and mass shootings in the US: cross sectional time series](https://www.bmj.com/content/364/bmj.l542)
+[[1]](#cite-TpUAy)[State gun laws, gun ownership, and mass shootings in the US: cross sectional time series](https://web.archive.org/web/20210308150959/https://www.bmj.com/content/364/bmj.l542)

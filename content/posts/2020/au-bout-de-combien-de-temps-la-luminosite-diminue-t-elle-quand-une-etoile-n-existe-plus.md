@@ -19,4 +19,4 @@ Lors des supernova, l'étoile devient extraordinairement lumineuse pendant quelq
 
 ![](./images/qimg-5a462d97274e1c9962ca4eb016eebf7e.jpg)
 
-Source [Astrophysical explosions: from solar flares to cosmic gamma-ray bursts](https://royalsocietypublishing.org/doi/10.1098/rsta.2011.0351)
+Source [Astrophysical explosions: from solar flares to cosmic gamma-ray bursts](https://web.archive.org/web/20191118195251/https://royalsocietypublishing.org/doi/10.1098/rsta.2011.0351)

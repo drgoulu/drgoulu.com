@@ -28,4 +28,4 @@ Pour vous éviter le même sort ici, je désactive exceptionnellement les commen
 
 Notes de bas de page
 
-[[1]](#cite-VpuTC)[https://statistics.btselem.org/e...](https://statistics.btselem.org/en/all-fatalities/by-date-of-incident?section=overall&tab=overview)
+[[1]](#cite-VpuTC)[https://statistics.btselem.org/e...](https://web.archive.org/web/20240112081322/https://statistics.btselem.org/en/all-fatalities/by-date-of-incident?section=overall&tab=overview)

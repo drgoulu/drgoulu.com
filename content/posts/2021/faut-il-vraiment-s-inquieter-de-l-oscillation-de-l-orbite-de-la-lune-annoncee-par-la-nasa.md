@@ -44,7 +44,7 @@ Accessoirement, méfiez vous des "annonces par la NASA". C'est un peu comme les 
 
 edit : en fait, une des 47 références de l'article scientifique est cette autre étude
 
-[Tide Gauge Records Show That the 18.61‐Year Nodal Tidal Cycle Can Change High Water Levels by up to 30 cm](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018JC014695)
+[Tide Gauge Records Show That the 18.61‐Year Nodal Tidal Cycle Can Change High Water Levels by up to 30 cm](https://web.archive.org/web/20210716013954/https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018JC014695)
 
 qui montre que la précession des nœuds peut entraîner des variations de l'amplitude des marées jusqu'à 30 cm à certains endroits.. D'après la carte qu'ils fournissent, il n'y a pas beaucoup de ces endroits …
 

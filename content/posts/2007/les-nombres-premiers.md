@@ -45,13 +45,13 @@ En 1878, [Edouard Lucas](w:Édouard_Lucas) énonça un test de primalité très 
 
 les nombres premiers suivants furent découvert dès 1952 avec des ordinateurs.
 
-Actuellement, le plus grand nombre premier connu est 232'582'657\-1. Il fait 9'808'358 décimales et à été découvert en septembre 2006 par le projet [GIMPS](http://www.gimps.org), dont je reparle dans un [article sur le calcul distribué](/2007/01/20/calcul-distribue-avec-boinc/).
+Actuellement, le plus grand nombre premier connu est 232'582'657\-1. Il fait 9'808'358 décimales et à été découvert en septembre 2006 par le projet [GIMPS](https://web.archive.org/web/20060716015142/http://www.gimps.org), dont je reparle dans un [article sur le calcul distribué](/2007/01/20/calcul-distribue-avec-boinc/).
 
 ### Nombres premiers jumeaux
 
 En examinant la différence entre des nombres premiers consécutifs, on s'aperçoit qu'elle vaut plus souvent 2 que toute autre valeur. Il existe donc des nombres premiers "jumeaux" : 5-7, 11-13, 17-19 par exemple, mais on en connait de beaucoup plus grands. En fait on pense qu'il existe une infinité de telles paires. Comment les trouver ? Par exemple en cherchant "autour" des nombres de Mersenne !
 
-Le 15 janvier 2007, des nombres premiers jumeaux de 58'711 décimales ont été [trouvés](http://www.futura-sciences.com/fr/news/t/recherche/d/record-deux-nouveaux-nombres-premiers-jumeaux-decouverts_10230/), également en utilisant le [calcul distribué](/2007/01/20/calcul-distribue-avec-boinc/). Ce sont 2'003'663'613 × 2195'000±1
+Le 15 janvier 2007, des nombres premiers jumeaux de 58'711 décimales ont été [trouvés](https://web.archive.org/web/20080910003849/http://www.futura-sciences.com/fr/news/t/recherche/d/record-deux-nouveaux-nombres-premiers-jumeaux-decouverts_10230/), également en utilisant le [calcul distribué](/2007/01/20/calcul-distribue-avec-boinc/). Ce sont 2'003'663'613 × 2195'000±1
 
 #### Curiosités
 
@@ -84,4 +84,4 @@ Bref, ne pas se laisser impressionner par une quelconque régularité apparente 
 1. <span id="ref-1"></span>[Wikipedia](w:Nombre_premier)
 2. <span id="ref-2"></span>{{< openbook booknumber="ISBN:978-2842450175" templatenumber="5" >}}
 3. <span id="ref-3"></span>articles de Jean-Paul Delahaye dans [Pour la Science](http://www.goulu.net/wordpress/pour-la-science)
-4. <span id="ref-4"></span>[Feuille Maple sur les repunits](http://www.lifl.fr/~wegrzyno/BizPrem.html)
+4. <span id="ref-4"></span>[Feuille Maple sur les repunits](https://web.archive.org/web/20061201005645/http://www.lifl.fr/~wegrzyno/BizPrem.html)

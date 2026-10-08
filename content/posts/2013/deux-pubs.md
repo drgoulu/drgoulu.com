@@ -34,7 +34,7 @@ Sinon, en expliquant [pourquoi les montres sont devenues plus grosses](/2007/05/
 
 {{< youtube id="ohUpFhF1lg8" width="640" >}}
 
-L'association du "[Swiss made](w:)" avec "[Made in Heaven](http://www.myswitzerland.com/fr/freddie-mercury-montreux.html)" flatte mon patriotisme, et la montre me plaisait beaucoup, au point où j'ai sérieusement envisagé en acheter une. Mais finalement je ne l'ai pas fait, et aujourd'hui je me demande si le fait d'avoir vu cette pub n'a pas joué un rôle dans ma décision de ne pas passer à la caisse.
+L'association du "[Swiss made](w:)" avec "[Made in Heaven](https://web.archive.org/web/20130602051701/http://www.myswitzerland.com/fr/freddie-mercury-montreux.html)" flatte mon patriotisme, et la montre me plaisait beaucoup, au point où j'ai sérieusement envisagé en acheter une. Mais finalement je ne l'ai pas fait, et aujourd'hui je me demande si le fait d'avoir vu cette pub n'a pas joué un rôle dans ma décision de ne pas passer à la caisse.
 
 Et vous ? Cette pub vous donne-t-elle l'envie d'acheter cette montre (qui ne se fait plus, hélas) ? Ou y-a-t'il quelque chose qui vous dérange aussi ?
 

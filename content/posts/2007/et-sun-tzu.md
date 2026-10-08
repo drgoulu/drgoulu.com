@@ -32,7 +32,7 @@ Selon Sun Tzu :
 > 4. Celui qui, prudent, se prépare à affronter l’ennemi qui n’est pas encore ; celui là même sera victorieux. Tirer prétexte de sa rusticité et ne pas prévoir est le plus grand des crimes ; être prêt en-dehors de toute contingence est la plus grande des vertus.
 > 5. Etre à l’abri des ingérences du souverain dans tout ce qu’on peut tenter pour son service et la gloire de ses armes."
 
-Sur "[The American Experience and Sun Tzu](http://www.artofwarsuntzu.com/america_experiences_sun_tzu.htm)", quelques événements historiques sont analysés dans cette perspective:
+Sur "[The American Experience and Sun Tzu](https://web.archive.org/web/20070625093541/http://www.artofwarsuntzu.com/america_experiences_sun_tzu.htm)", quelques événements historiques sont analysés dans cette perspective:
 
 1. l'attaque de Pearl-Harbor, considéré comme une lâcheté en Occident, était justifié pour les Japonais dans la mesure où ils étaient conscients qu'une guerre avec les USA était inévitable. On raconte même que l'Amiral Yamamoto, ayant appris que les porte-avions US n'avaient pas été détruits, savait déjà que la guerre était perdue, dès le 1er jour...
 2. Mao Tse-Tung, grand adepte de Sun Tzu, construisit la Chine "Populaire" avec une petite guerilla, en parvenant à monter les troupes de Chine nationaliste, les Alliés et les Japonais les uns contre les autres.

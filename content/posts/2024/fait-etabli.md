@@ -19,7 +19,7 @@ Vous êtes libre de modifier Wikipédia. Tout ce qu'il faut, ce sont des référ
 
 !!! Ajout du 25 : le "fait établi" l'est effectivement, mais sur le fork de Wikipédia contrôlé par le gouvernement russe
 
-[https://korii.slate.fr/et-caeter...](https://korii.slate.fr/et-caetera/russie-clone-wikipedia-censure-passages-genants-bloque-acces-original-ruviki-encyclopedie-propagande-kremlin-poutine-internet)
+[https://korii.slate.fr/et-caeter...](https://web.archive.org/web/20241222141428/https://korii.slate.fr/et-caetera/russie-clone-wikipedia-censure-passages-genants-bloque-acces-original-ruviki-encyclopedie-propagande-kremlin-poutine-internet)
 
 La Wikimedia Foundation ne contrôle donc plus la "wikipedia" russe, qui est devenue un site de propagande de plus.
 

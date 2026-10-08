@@ -27,4 +27,4 @@ L'article anglophone mentionne des points plus fondamentaux :
 - pour se mettre en orbite autour des galaxies, mais pas dedans pour justifier la [Courbe de rotation des galaxies](w:), la matière noire devrait avoir un moyen d'éliminer de l'énergie potentielle. On ne voit pas lequel. …
 - si elle est soumise à la gravitation, elle devrait s'agglutiner pour produire des trous noirs, or justement on en voit pas
 
-[Why Doesn't Dark Matter Form Black Holes?](https://www.forbes.com/sites/startswithabang/2016/10/28/why-doesnt-dark-matter-form-black-holes/#4e5014943de1)
+[Why Doesn't Dark Matter Form Black Holes?](https://web.archive.org/web/20200729020739/https://www.forbes.com/sites/startswithabang/2016/10/28/why-doesnt-dark-matter-form-black-holes/#4e5014943de1)

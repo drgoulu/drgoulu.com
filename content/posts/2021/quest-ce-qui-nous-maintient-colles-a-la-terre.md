@@ -61,6 +61,6 @@ est courbé différemment à une altitude de 20 000 km.
 
 [![](./images/image-1024x358.png)](./images/image.png)
 
-[https://indico.cern.ch/event/507180/contributions/2197833/attachments/1312769/1965085/Curved\_Spacetime\_in\_the\_Classroom.pdf](https://indico.cern.ch/event/507180/contributions/2197833/attachments/1312769/1965085/Curved_Spacetime_in_the_Classroom.pdf)
+[https://indico.cern.ch/event/507180/contributions/2197833/attachments/1312769/1965085/Curved\_Spacetime\_in\_the\_Classroom.pdf](https://web.archive.org/web/20210918112646/https://indico.cern.ch/event/507180/contributions/2197833/attachments/1312769/1965085/Curved_Spacetime_in_the_Classroom.pdf)
 
-[https://indico.cern.ch/event/507180/contributions/2197833/attachments/1312769/1965075/Summary\_explanation.pdf](https://indico.cern.ch/event/507180/contributions/2197833/attachments/1312769/1965075/Summary_explanation.pdf)
+[https://indico.cern.ch/event/507180/contributions/2197833/attachments/1312769/1965075/Summary\_explanation.pdf](https://web.archive.org/web/20210928235544/https://indico.cern.ch/event/507180/contributions/2197833/attachments/1312769/1965075/Summary_explanation.pdf)

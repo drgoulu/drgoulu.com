@@ -28,4 +28,4 @@ Regardez bien les images et vous aurez la réponse à votre question : rien.
 
 Notes de bas de page
 
-[[1]](#cite-tgIcV)[Combien d’eau y a-t-il sur Terre ?](http://passeurdesciences.blog.lemonde.fr/2012/05/20/combien-y-a-t-il-d-eau-sur-terre/)
+[[1]](#cite-tgIcV)[Combien d’eau y a-t-il sur Terre ?](https://web.archive.org/web/20190419174215/http://passeurdesciences.blog.lemonde.fr/2012/05/20/combien-y-a-t-il-d-eau-sur-terre/)

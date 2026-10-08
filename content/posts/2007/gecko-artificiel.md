@@ -12,7 +12,7 @@ Ils l'on fait : un robot capable de grimper sur du verre en utilisant la force d
 
 \[youtube odAifbpDbhs\] ![](./images/from_inside_sml.jpg)
 
-Le [SkickyBot de l'université de Stanford](http://www.stanford.edu/~sangbae/Stickybot.htm) imite le gecko, dont on a compris comment les pattes fonctionnaient qu'en 2002.
+Le [SkickyBot de l'université de Stanford](https://web.archive.org/web/20070308222908/http://www.stanford.edu/~sangbae/Stickybot.htm) imite le gecko, dont on a compris comment les pattes fonctionnaient qu'en 2002.
 
 Depuis, il a été possible de créer des matériaux adhésifs sur le même principe. Spiderman n'est plus très loin. En attendant, une équipe de Carnegie Mellon a fait un robot moins joli, mais plus rapide et capable de marcher au plafond !
 

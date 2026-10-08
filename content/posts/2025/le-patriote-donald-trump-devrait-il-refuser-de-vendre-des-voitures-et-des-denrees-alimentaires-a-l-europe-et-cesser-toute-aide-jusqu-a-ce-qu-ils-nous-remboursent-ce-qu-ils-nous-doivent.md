@@ -30,7 +30,7 @@ Comme Trump vise clairement les deux lièvres à la fois, il table sur le nation
 
 Notes de bas de page
 
-[[1]](#cite-KFzbZ)[Fact sheet: EU-US vehicle trade](https://www.acea.auto/fact/fact-sheet-eu-us-vehicle-trade/)
+[[1]](#cite-KFzbZ)[Fact sheet: EU-US vehicle trade](https://web.archive.org/web/20250123231625/https://www.acea.auto/fact/fact-sheet-eu-us-vehicle-trade/)
 
 [[2]](#cite-PpBDO)[EU - Agricultural Sector](https://www.trade.gov/country-commercial-guides/eu-agricultural-sector)
 

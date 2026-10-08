@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Quelle-est-la-cause-de-d%C3%A9c%C3%A8s-la-plus-fr%C3%A9quente-chez-les-adolescents-et-les-enfants/answer/Dr-Goulu)*
 
-[Mortalité de l’enfant](https://www.who.int/maternal_child_adolescent/topics/child/mortality/fr/) sur le site de l’OMS:
+[Mortalité de l’enfant](https://web.archive.org/web/20180906224014/https://www.who.int/maternal_child_adolescent/topics/child/mortality/fr/) sur le site de l’OMS:
 
 > La plupart des décès chez les enfants âgés de un à cinq ans sont dus à des maladies qui peuvent être évitées, mais qui peuvent aussi être aisément traitées à domicile ou dans les centres de santé.
 >

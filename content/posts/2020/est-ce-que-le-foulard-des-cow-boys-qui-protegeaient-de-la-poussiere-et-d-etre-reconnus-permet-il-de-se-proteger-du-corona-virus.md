@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non. Les virus sont tellement petits (moins d'un micron) qu'ils passent à travers n'importe quel tissu normal, et même à travers beaucoup de masques anti poussière en papiee. Il faut un masque N95 ajusté à votre visage pour se protéger efficacement.
 
-[Les masques faciaux vous protègent-ils réellement contre le coronavirus?](https://quebec.huffingtonpost.ca/entry/coronavirus-masque-n95-masque-papier-vous-protegeront-vraiment_qc_5e2f2924c5b67d8874b7b837)
+[Les masques faciaux vous protègent-ils réellement contre le coronavirus?](https://web.archive.org/web/20200128155017/https://quebec.huffingtonpost.ca/entry/coronavirus-masque-n95-masque-papier-vous-protegeront-vraiment_qc_5e2f2924c5b67d8874b7b837)

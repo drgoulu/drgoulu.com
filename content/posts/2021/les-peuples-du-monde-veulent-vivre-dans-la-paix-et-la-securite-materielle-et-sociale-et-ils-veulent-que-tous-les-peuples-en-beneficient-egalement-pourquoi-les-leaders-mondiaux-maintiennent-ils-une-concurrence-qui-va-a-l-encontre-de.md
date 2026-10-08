@@ -21,7 +21,7 @@ Au contraire, les "leaders mondiaux" ont institué une [Mondialisation économiq
 
 Ca a permis à des milliards d'habitants des ex "pays du Tiers-Monde" de se développer rapidement et d'atteindre une sécurité matérielle proche de la notre. En 30 ans, le "Tiers-Monde" a disparu ! Regardez ça, c'est extraordinaire :
 
-[https://www.ted.com/talks/hans_r...](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=fr)
+[https://www.ted.com/talks/hans_r...](https://web.archive.org/web/20210622141805/https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=fr)
 
 Pour la paix aussi, il n'y a probablement jamais eu de période aussi pacifique que ces 20 dernières années en nombre de morts par 100'000 habitants :
 

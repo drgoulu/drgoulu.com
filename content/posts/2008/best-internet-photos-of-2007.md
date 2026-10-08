@@ -10,7 +10,7 @@ slug: best-internet-photos-of-2007
 coverImage: ./images/100926176fcf4783e6c895c3e56eb073.jpg
 ---
 
-Reçu de Rosella un [fichier .pps](http://www.calicoba.fr/PPS/portbestpictures.pps) avec les plus belles photos 2007 postées sur [Whatatop.com](http://whatatop.com), un site permettant de voter rapidement pour les photos qu'on aime. J'en ai vite fait un petit slide à partir des images prises sur [Best Internet Photos of 2007](http://www.forexoma.com/best-internet-photos-of-2007/) :
+Reçu de Rosella un [fichier .pps](https://web.archive.org/web/20081120211625/http://www.calicoba.fr/PPS/portbestpictures.pps) avec les plus belles photos 2007 postées sur [Whatatop.com](http://whatatop.com), un site permettant de voter rapidement pour les photos qu'on aime. J'en ai vite fait un petit slide à partir des images prises sur [Best Internet Photos of 2007](https://web.archive.org/web/20080225/http://www.forexoma.com/best-internet-photos-of-2007/) :
 
 (maj 29/2/2012 :Slide.com ferme, alors j'ai retrouvé les "slideshow" sur YouTube)
 

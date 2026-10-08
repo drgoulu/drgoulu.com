@@ -27,4 +27,4 @@ Bon, on pourrait arguer que l'informatique, internet etc ont eu surtout un effet
 
 Notes de bas de page
 
-[[1]](#cite-pDHhf)[L'incroyable alphabétisation du monde](https://www.lepoint.fr/societe/l-incroyable-alphabetisation-du-monde-10-09-2019-2334818_23.php)
+[[1]](#cite-pDHhf)[L'incroyable alphabétisation du monde](https://web.archive.org/web/20210117134036/https://www.lepoint.fr/societe/l-incroyable-alphabetisation-du-monde-10-09-2019-2334818_23.php)

@@ -23,7 +23,7 @@ qu'on devrait plutôt traduire par
 
 > Triste époque où il est plus difficile de briser un préjugé qu'un atome
 
-qu'on trouve selon[[1]](#MLstL) dans le journal [Facts Forum News, Vol. 4, No. 7, August 1955](https://digital.lib.uh.edu/collection/1352973/item/1399/show/1331), mais sans source :
+qu'on trouve selon[[1]](#MLstL) dans le journal [Facts Forum News, Vol. 4, No. 7, August 1955](https://web.archive.org/web/20201129031317/https://digital.lib.uh.edu/collection/1352973/item/1399/show/1331), mais sans source :
 
 ![](./images/qimg-677aabcdd09661e473b55bdd84c9ebae.jpg)
 

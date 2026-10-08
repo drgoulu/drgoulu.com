@@ -15,4 +15,4 @@ C'est en effet un des scénarios envisagés, sauf qu'il est très difficile de s
 
 [https://nssdc.gsfc.nasa.gov/plan...](https://nssdc.gsfc.nasa.gov/planetary/mars/marssurf.html)
 
-[https://www.chemistryviews.org/d...](https://www.chemistryviews.org/details/ezine/11282395/Water_Electrolyzer_for_Mars.html)
+[https://www.chemistryviews.org/d...](https://web.archive.org/web/20210623211553/https://www.chemistryviews.org/details/ezine/11282395/Water_Electrolyzer_for_Mars.html)

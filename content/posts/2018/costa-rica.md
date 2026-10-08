@@ -53,5 +53,5 @@ https://adnaturam.org/2018/08/17/quand-le-paresseux-se-met-au-vert/
 
 ## Références
 
-1. <span id="ref-1"></span>[http://www.amegaholdingsinc.com/project.html](http://www.amegaholdingsinc.com/project.html) 
+1. <span id="ref-1"></span>[http://www.amegaholdingsinc.com/project.html](https://web.archive.org/web/20170209155517/http://www.amegaholdingsinc.com/project.html) 
 2. <span id="ref-2"></span>https://www.letemps.ch/monde/concurrents-canal-panama-seveillent

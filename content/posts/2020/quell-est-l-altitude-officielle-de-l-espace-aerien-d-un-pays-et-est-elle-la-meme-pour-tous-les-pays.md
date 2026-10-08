@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il n' y a pas d'accord international sur le sujet mais les pays l'ont fixée entre 80 et 120 km environ. Elle correspond environ à la [Ligne de Kármán](w:), l'altitude au delà de laquelle les effets aérodynamiques peuvent être négligés.
 
-[Où se trouvent les limites de l'espace ? Cela dépend à qui vous posez la question](https://www.nationalgeographic.fr/espace/ou-se-trouvent-les-limites-de-lespace-cela-depend-qui-vous-posez-la-question)
+[Où se trouvent les limites de l'espace ? Cela dépend à qui vous posez la question](https://web.archive.org/web/20210508022003/https://www.nationalgeographic.fr/espace/ou-se-trouvent-les-limites-de-lespace-cela-depend-qui-vous-posez-la-question)

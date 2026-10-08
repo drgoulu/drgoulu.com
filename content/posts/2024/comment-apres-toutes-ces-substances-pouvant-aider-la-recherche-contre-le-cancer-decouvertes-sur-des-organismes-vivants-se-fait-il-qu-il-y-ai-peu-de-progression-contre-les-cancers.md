@@ -15,4 +15,4 @@ Il y a eu d'énormes progrès dans la lutte contre la plupart des cancers
 
 ![](./images/qimg-5acba60c2b71d7f41540dbb87873b0be.jpg)
 
-[https://www.cancerresearchuk.org...](https://www.cancerresearchuk.org/health-professional/cancer-statistics/survival/common-cancers-compared)
+[https://www.cancerresearchuk.org...](https://web.archive.org/web/20231031163055/https://www.cancerresearchuk.org/health-professional/cancer-statistics/survival/common-cancers-compared)

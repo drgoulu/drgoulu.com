@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ils le font (encore plus que de calculer d'inutiles décimales de pi)
 
-[https://boinc.thesonntags.com/co...](https://boinc.thesonntags.com/collatz/)
+[https://boinc.thesonntags.com/co...](https://web.archive.org/web/20220402200338/https://boinc.thesonntags.com/collatz/)

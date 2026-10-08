@@ -10,7 +10,7 @@ tags:
   - "jeux"
 ---
 
-[AntiSpore.com](http://antispore.com/) est un blog qui a fait trembler la blogosphère en 3 jours avec trois poignées d'articles sur le thème "Résister à la guerre d'Electronic Arts contre le créationnisme". Antispore combat la diffusion de [Spore](http://eu.spore.com/home.cfm?lang=fr), un jeu accusé d'enseigner lâchement la théorie de l'évolution aux enfants, tout en les exposant à la nudité de [créatures pouvues d'attributs sexuels imposants](http://www.youtube.com/watch?v=vPKvwd9vJZY), entre autres perversions.
+[AntiSpore.com](http://antispore.com/) est un blog qui a fait trembler la blogosphère en 3 jours avec trois poignées d'articles sur le thème "Résister à la guerre d'Electronic Arts contre le créationnisme". Antispore combat la diffusion de [Spore](https://web.archive.org/web/20080925112848/http://eu.spore.com/home.cfm?lang=fr), un jeu accusé d'enseigner lâchement la théorie de l'évolution aux enfants, tout en les exposant à la nudité de [créatures pouvues d'attributs sexuels imposants](http://www.youtube.com/watch?v=vPKvwd9vJZY), entre autres perversions.
 
 Les 18 articles publiés en 3 jours sur AntiSpore ont suscité plus de 6000 commentaires allant des insultes au soutien total... Jusqu'à la parution de l'article [Understand my beliefs please](http://antispore.com/2008/09/11/understand-my-beliefs-please/) (Comprenez mes croyances SVP) qui se terminait par cet étrange paragraphe (traduit pour vous):
 

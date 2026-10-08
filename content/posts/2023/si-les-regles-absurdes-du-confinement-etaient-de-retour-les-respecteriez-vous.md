@@ -26,7 +26,7 @@ Bonardi, J.P., Gallea, Q., Kalanoski, D., Lalive, R. 2020. Fast and local: How d
 
 Dont les conclusions en français sont ici :
 
-[Rapide et local: comment les politiques de confinement ont-elles influencé la propagation et la gravité du COVID-19?](https://wp.unil.ch/viral/rapide-et-local-comment-les-politiques-de-confinement-ont-elles-influence-la-propagation-et-la-gravite-du-covid-19/)
+[Rapide et local: comment les politiques de confinement ont-elles influencé la propagation et la gravité du COVID-19?](https://web.archive.org/web/20230604/https://wp.unil.ch/viral/rapide-et-local-comment-les-politiques-de-confinement-ont-elles-influence-la-propagation-et-la-gravite-du-covid-19/)
 
 > 1. Les confinements sont globalement efficaces pour freiner la propagation de la maladie et pour réduire le nombre de décès (après environ 30 jours). Mais le plus dur n’est pas le mieux : les confinements partiels sont aussi efficaces que les confinements plus stricts, mais à un coût moindre.
 > 2. Sur la base de la tendance de nos données, nous estimons qu' **environ 650 000 décès ont été évités**grâce aux mesures de confinement dans le monde.

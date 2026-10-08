@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 L'article est ici
 
-[https://www.sciencedirect.com/sc...](https://www.sciencedirect.com/science/article/pii/S0160412022001258)
+[https://www.sciencedirect.com/sc...](https://web.archive.org/web/20220502104430/https://www.sciencedirect.com/science/article/pii/S0160412022001258)
 
 Les chercheurs ont trouvé au maximum 1.6 microgramme de plastiques par ml de sang, donc même pas 2 [Partie par million](w:).
 

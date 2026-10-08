@@ -21,6 +21,6 @@ Donc si votre idée est de faire absorber plus de CO2 par du phytoplancton, "il 
 
 Notes de bas de page
 
-[[1]](#cite-iiwFr)[http://www.plancton-du-monde.org...](http://www.plancton-du-monde.org/module-formation/phyto_03.htm)
+[[1]](#cite-iiwFr)[http://www.plancton-du-monde.org...](https://web.archive.org/web/20221207/http://www.plancton-du-monde.org/module-formation/phyto_03.htm)
 
 [[2]](#cite-pujrp)[Comment le fer influence la pompe à carbone de l’océan](https://lejournal.cnrs.fr/nos-blogs/un-ocean-de-decouvertes/comment-le-fer-influence-la-pompe-a-carbone-de-locean)

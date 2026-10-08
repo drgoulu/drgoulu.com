@@ -24,6 +24,6 @@ Pourquoi Google met-il ceci à disposition gratuitement ? Lorsqu'on sait qu' ils
 
 sources:
 
-- Michael Arrington "[Google s’apprête à lancer BigTable comme service Web"](http://fr.techcrunch.com/2008/04/05/google-sapprete-a-lancer-bigtable-comme-service-web/), TechCrunch, 5 avril 2008
+- Michael Arrington "[Google s’apprête à lancer BigTable comme service Web"](https://web.archive.org/web/20080409190834/http://fr.techcrunch.com/2008/04/05/google-sapprete-a-lancer-bigtable-comme-service-web/), TechCrunch, 5 avril 2008
 - Fay Chang & al, "[Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/fr//archive/bigtable-osdi06.pdf)", [OSDI 2006](http://osdi2006.blogspot.com/2006/10/paper-bigtable-distributed-storage.html)
 - Jeffrey Dean and Sanjay Ghemawat, "[MapReduce: Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/fr//archive/mapreduce-osdi04.pdf)", OSDI 2004

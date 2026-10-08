@@ -36,4 +36,4 @@ Cette explication est très contestée, mais je trouve intéressant de faire un 
 
 Notes de bas de page
 
-[[1]](#cite-hCuKc)[Lift from Flow Turning](https://www.grc.nasa.gov/WWW/K-12/airplane/right2.html)
+[[1]](#cite-hCuKc)[Lift from Flow Turning](https://web.archive.org/web/20190625173619/https://www.grc.nasa.gov/WWW/K-12/airplane/right2.html)

@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Comme ça :
 
-Richard André-Jeannin, « [Irrationalité de la somme des inverses de certaines suites récurrentes](https://gallica.bnf.fr/ark:/12148/bpt6k5686125p/f9.image) », C. R. Acad. Sci. Paris, série I Math., vol. 308,‎ 1989, p. 539-541
+Richard André-Jeannin, « [Irrationalité de la somme des inverses de certaines suites récurrentes](https://web.archive.org/web/20201118014945/https://gallica.bnf.fr/ark:/12148/bpt6k5686125p/f9.image) », C. R. Acad. Sci. Paris, série I Math., vol. 308,‎ 1989, p. 539-541
 
 (trouvé grâce à [Suite de Fibonacci — Wikipédia](w:Suite_de_Fibonacci) )

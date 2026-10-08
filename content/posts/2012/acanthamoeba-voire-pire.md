@@ -28,7 +28,7 @@ Sauf si vous ne vous douchez pas, ou avec l'eau du même étang. Ou si vous mett
 
 Au début, ça pique les yeux comme une conjonctivite, mais les collyres ne soulagent que très temporairement. Et puis on va voir un ophtalmo qui va prescrire des antibiotiques "pour voir", le temps de faire des analyses assez longues. Il ne veut pas effrayer le patient en lui parlant de "[kératite à acanthamoeba](w:Acanthamoeba#kératite_à_acanthamoeba)" tellement c'est rare. Et on perd un temps préc-yeux, parce qu'un diagnostic rapide permet de bien limiter les dégâts. Vous voulez voir à quoi ressemble un oeil infecté par des amibes au bout de quelques temps ? Vous êtes surs ?  Sinon, vous pouvez aussi scroller vite d'une page vers le bas, c'est permis. Prêt ? alors voilà:
 
-{{< figure src="./images/d62211377ebf2ea01c0ee1b4fa32a19a.jpg" alt="Perforation de la cornée secondaire à une kératite amibienne dramatique. crédit photo Dr. Jean-Louis Bourges (Hôtel-Dieu Paris)" caption="Perforation de la cornée secondaire à une kératite amibienne dramatique. crédit photo Dr. Jean-Louis Bourges (Hôtel-Dieu Paris)" link="http://www.snof.org/maladies/amibes.html" align="aligncenter" width="500" >}}
+{{< figure src="./images/d62211377ebf2ea01c0ee1b4fa32a19a.jpg" alt="Perforation de la cornée secondaire à une kératite amibienne dramatique. crédit photo Dr. Jean-Louis Bourges (Hôtel-Dieu Paris)" caption="Perforation de la cornée secondaire à une kératite amibienne dramatique. crédit photo Dr. Jean-Louis Bourges (Hôtel-Dieu Paris)" link="https://web.archive.org/web/20120128173202/http://www.snof.org/maladies/amibes.html" align="aligncenter" width="500" >}}
 
 Bon, là c'est le stade irréversible qui nécessite une [énucléation](w:). En osant cliquer sur l'image vous verrez des stades moins avancés où un traitement médicamenteux est encore possible, et si ça ne marche pas seule une greffe de cornée permet de sauver l'oeil, à condition que l'oeil n'ait pas produit trop de vaisseaux sanguins dans la cornée pour essayer d'y amener plus de globules blancs à la rescousse. On se tient les pouces pour Caroline qui attend une cornée depuis plusieurs mois, et on remercie (d'avance...) tous les futurs donneurs d'organes, y compris les yeux.
 
@@ -56,10 +56,10 @@ Maintenant qu'on a compris, on va aussi viser ces sales bêtes nuisibles d'amibe
 
 ## Références
 
-1. <span id="ref-1"></span>[Amibes et lentilles cornéennes](http://www.snof.org/maladies/amibes.html) sur le site du SNOF
+1. <span id="ref-1"></span>[Amibes et lentilles cornéennes](https://web.archive.org/web/20120128173202/http://www.snof.org/maladies/amibes.html) sur le site du SNOF
 2. <span id="ref-2"></span>{{< openbook booknumber="ISBN:978-1-904455-43-1" templatenumber="5" >}}
-3. <span id="ref-3"></span>[Greffe de cornée](http://www.snof.org/encyclopedie/la-greffe-de-corn%C3%A9e-k%C3%A9ratoplastie-transfixiante) (kératoplastie transfixiante) sur le site du SNOF
+3. <span id="ref-3"></span>[Greffe de cornée](https://web.archive.org/web/20150924143723/http://www.snof.org/encyclopedie/la-greffe-de-corn%C3%A9e-k%C3%A9ratoplastie-transfixiante) (kératoplastie transfixiante) sur le site du SNOF
 4. <span id="ref-4"></span>S. Carrette et al "[A propos d'un cas de kératite à Acanthamoeba](http://www.ophthalmologia.be/download.php?dof_id=42)", Bull. Soc. belge Ophtalmol., 275, 49-53, 2000.
 5. <span id="ref-5"></span>Cirillo JD, Falkow S, Tompkins LS "Growth of Legionella pneumophila in Acanthamoeba castellanii enhances invasion." Infect Immun. 1994 Aug;62(8):3254-61.
-6. <span id="ref-6"></span>[MRSA use amoeba to spread, sidestepping hospital protection measures](http://www.bath.ac.uk/news/articles/releases/mrsaamoeba280206.html), University of Bath,Press Release - 28 February 2006
+6. <span id="ref-6"></span>[MRSA use amoeba to spread, sidestepping hospital protection measures](https://web.archive.org/web/20110629141907/http://www.bath.ac.uk/news/articles/releases/mrsaamoeba280206.html), University of Bath,Press Release - 28 February 2006
 7. <span id="ref-7"></span>[Pathogenic Noms for Acanthamoeba polyphaga](http://eukaryoticmicrobe.blogspot.com/2011/12/pathogenic-noms-for-acanthamoeba.html) sur le blog "Travelling small with a nucleus"

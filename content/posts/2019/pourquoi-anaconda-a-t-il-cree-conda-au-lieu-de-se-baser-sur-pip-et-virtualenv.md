@@ -17,4 +17,4 @@ Conda installe des packages écrits en n'importe quel langage, avec des modules 
 
 Il y a d'autres différences mentionnées dans:
 
-[Understanding Conda and Pip - Anaconda](https://www.anaconda.com/understanding-conda-and-pip/)
+[Understanding Conda and Pip - Anaconda](https://web.archive.org/web/20190819012748/https://www.anaconda.com/understanding-conda-and-pip/)

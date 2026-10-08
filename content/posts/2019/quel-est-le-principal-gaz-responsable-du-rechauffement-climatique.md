@@ -26,6 +26,6 @@ Mais dans la stratosphère, la quantité de vapeur d'eau a diminué, ce qui a pr
 
 Notes de bas de page
 
-[[1]](#cite-fsCHr)[Vapeur d’eau et climat](https://global-climat.com/2014/07/28/la-vapeur-deau-et-le-rechauffement-climatique/)
+[[1]](#cite-fsCHr)[Vapeur d’eau et climat](https://web.archive.org/web/20191213054314/https://global-climat.com/2014/07/28/la-vapeur-deau-et-le-rechauffement-climatique/)
 
 [[2]](#cite-rNzkU)[La vapeur d’eau stratosphérique et le réchauffement planétaire | Planète viable | Les résultats de la recherche en science du développement durable](https://planeteviable.org/vapeur-deau-stratospherique-rechauffement-planetaire/)

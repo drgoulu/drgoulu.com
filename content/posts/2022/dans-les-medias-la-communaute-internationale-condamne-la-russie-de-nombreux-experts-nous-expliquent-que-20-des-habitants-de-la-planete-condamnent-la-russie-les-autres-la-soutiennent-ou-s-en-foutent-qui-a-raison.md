@@ -20,7 +20,7 @@ coverImage: ./images/quora.png
 >
 >
 >
-> ([Source : ONU](https://news.un.org/fr/story/2022/03/1115472))
+> ([Source : ONU](https://web.archive.org/web/20220428081936/https://news.un.org/fr/story/2022/03/1115472))
 
 Ceux qui ont raison, c'est ceux qui défendent le droit international, les accords signés, et la paix, et j'ose espérer que ça fait au moins 90% de l'humanité.
 

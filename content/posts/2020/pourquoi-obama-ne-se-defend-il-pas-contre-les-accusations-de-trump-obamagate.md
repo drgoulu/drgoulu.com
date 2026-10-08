@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Obama est trop intelligent pour s'abaisser au niveau de Trump. Mais comme par hasard cette nouvelle fake news trumpesque sort quand Obama apporte son soutien à Joe Biden. C'est de la campagne électorale à la Trump. A la précédente c'était Hillary Clinton qui devait aller en prison pour trahison.
 
-[«Obamagate» : pourquoi l’ancien président américain obsède Trump](http://www.leparisien.fr/international/obamagate-pourquoi-l-ancien-president-americain-obsede-trump-16-05-2020-8318292.php)
+[«Obamagate» : pourquoi l’ancien président américain obsède Trump](https://web.archive.org/web/20200525154614/http://www.leparisien.fr/international/obamagate-pourquoi-l-ancien-president-americain-obsede-trump-16-05-2020-8318292.php)

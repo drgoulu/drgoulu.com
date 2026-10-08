@@ -25,4 +25,4 @@ Voilà la réponse : le niveau moyen des océans descendrait d'un micron environ
 
 Notes de bas de page
 
-[[1]](#cite-KvBNl)[Tonnage record pour la flotte mondiale](https://www.lesechos.fr/1992/11/tonnage-record-pour-la-flotte-mondiale-936373)
+[[1]](#cite-KvBNl)[Tonnage record pour la flotte mondiale](https://web.archive.org/web/20191214005806/https://www.lesechos.fr/1992/11/tonnage-record-pour-la-flotte-mondiale-936373)

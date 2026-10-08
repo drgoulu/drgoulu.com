@@ -10,7 +10,7 @@ tags:
 coverImage: "./images/39d9cec63b590c080d06cca8e5fafba4.jpg"
 ---
 
-{{< figure src="./images/39d9cec63b590c080d06cca8e5fafba4.jpg" alt="Pourquoi les filles sont si bonnes en maths" link="http://openlibrary.org/books/OL25424458M/Pourquoi_les_filles_sont_si_bonnes_en_maths" >}}
+{{< figure src="./images/39d9cec63b590c080d06cca8e5fafba4.jpg" alt="Pourquoi les filles sont si bonnes en maths" link="https://web.archive.org/web/20230320214223/http://openlibrary.org/books/OL25424458M/Pourquoi_les_filles_sont_si_bonnes_en_maths" >}}
 
 L'excellent livre du neurologue Laurent Cohen que je viens de dévorer s'appelle en fait  "Pourquoi les filles sont si bonnes en maths: et 40 autres histoires sur le cerveau de l'homme" [[1]](#ref-1), mais le seul reproche que je lui ferai concerne justement ce titre marketing qui dénature l'une des 40 histoires intitulé "Les filles (ne) sont (pas) nulles en maths".
 
@@ -44,7 +44,7 @@ Paru il y a un an, ce livre passionnant et très facile à lire vient d'être é
 3. <span id="ref-3"></span>J. Mehler and T. G. Bever, “Cognitive Capacity of Very Young Children,” Science, vol. 158, no. 3797, pp. 141–142, Oct. 1967.{{< altmetric doi="10.1126/science.158.3797.141" >}}
     
 4. <span id="ref-4"></span>V. Izard, C. Sann, E. S. Spelke, and A. Streri, “Newborn infants perceive abstract numbers.,” Proceedings of the National Academy of Sciences of the United States of America, vol. 106, no. 25, pp. 10382–5, Jun. 2009.
-5. <span id="ref-5"></span>S. Danziger, J. Levav, and L. Avnaim-Pesso, “[Extraneous factors in judicial decisions](http://lsolum.typepad.com/files/danziger-levav-avnaim-pnas-2011.pdf).,” Proceedings of the National Academy of Sciences of the United States of America, vol. 108, no. 17, pp. 6889–6892, 2011.
-6. <span id="ref-6"></span>R. Hamilton, J. P. Keenan, M. Catala, and A. Pascual-Leone, “[Alexia for Braille following bilateral occipital stroke in an early blind woman](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.67.4713&rep=rep1&type=pdf).,” Neuroreport, vol. 11, no. 2, pp. 237–40, Feb. 2000.
+5. <span id="ref-5"></span>S. Danziger, J. Levav, and L. Avnaim-Pesso, “[Extraneous factors in judicial decisions](https://web.archive.org/web/20121029104538/http://lsolum.typepad.com/files/danziger-levav-avnaim-pnas-2011.pdf).,” Proceedings of the National Academy of Sciences of the United States of America, vol. 108, no. 17, pp. 6889–6892, 2011.
+6. <span id="ref-6"></span>R. Hamilton, J. P. Keenan, M. Catala, and A. Pascual-Leone, “[Alexia for Braille following bilateral occipital stroke in an early blind woman](https://web.archive.org/web/20130402/http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.67.4713&rep=rep1&type=pdf).,” Neuroreport, vol. 11, no. 2, pp. 237–40, Feb. 2000.
 7. <span id="ref-7"></span>K. Christoff, A. M. Gordon, J. Smallwood, R. Smith, and J. W. Schooler, “Experience sampling during fMRI reveals default network and executive system contributions to mind wandering.,” Proceedings of the National Academy of Sciences of the United States of America, vol. 106, no. 21, pp. 8719–24, May 2009.
 8. <span id="ref-8"></span>R. L. Buckner, A. Z. Snyder, et al. “Molecular, structural, and functional characterization of Alzheimer’s disease: evidence for a relationship between default activity, amyloid, and memory.,” Journal of Neuroscience, vol. 25, no. 34, pp. 7709–7717, 2005.

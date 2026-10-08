@@ -15,7 +15,7 @@ Comme ça
 
 {{< youtube "f9tySQsUokc" >}}
 
-Référence [Dynamic fault weakening and the formation of large impact craters](https://www.sciencedirect.com/science/article/abs/pii/S0012821X09005172)
+Référence [Dynamic fault weakening and the formation of large impact craters](https://web.archive.org/web/20220523/https://www.sciencedirect.com/science/article/abs/pii/S0012821X09005172)
 
 Les échelles horizontales et verticales ne sont pas identiques
 

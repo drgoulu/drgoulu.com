@@ -34,6 +34,6 @@ Mais espérer soigner un cancer sans recourir à la médecine scientifique en es
 
 Notes de bas de page
 
-[[1]](#cite-TjZXm)[https://valterlongo.com/wp-conte...](https://valterlongo.com/wp-content/uploads/2018/11/2018_Pancreatic-Adenocarcinoma-using-MSCT_Pancreas_Iyikesici.pdf)
+[[1]](#cite-TjZXm)[https://valterlongo.com/wp-conte...](https://web.archive.org/web/20211003124621/https://valterlongo.com/wp-content/uploads/2018/11/2018_Pancreatic-Adenocarcinoma-using-MSCT_Pancreas_Iyikesici.pdf)
 
 [[2]](#cite-cnEbV)[Dietary restriction during the treatment of cancer: results of a systematic scoping review](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-019-5931-7)

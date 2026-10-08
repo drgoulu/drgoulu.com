@@ -8,11 +8,11 @@ tags:
 coverImage: "./images/visualization_2007.jpg"
 ---
 
-le journal [Science Magazine](http://www.sciencemag.org/) et la [National Science Fundation](http://www.nsf.gov/news/special_reports/scivis/index.jsp?id=win2007) états-unienne organisent chaque année un concours d'illustrations scientifiques. [Les gagnants de l'édition 2007](http://www.sciencemag.org/content/317/5846/1858.full) sont :
+le journal [Science Magazine](https://web.archive.org/web/20070929150229/http://www.sciencemag.org/) et la [National Science Fundation](http://www.nsf.gov/news/special_reports/scivis/index.jsp?id=win2007) états-unienne organisent chaque année un concours d'illustrations scientifiques. [Les gagnants de l'édition 2007](https://web.archive.org/web/20130727165506/http://www.sciencemag.org/content/317/5846/1858.full) sont :
 
 [![](./images/visualization_2007.jpg)](http://www.sciencemag.org/content/317/5846/1858/F4.expansion)
 
-Vous voyez ce que c'est ? [Cliquez sur l'image](http://www.sciencemag.org/content/317/5846/1858/F4.expansion) pour voir le poster gagnant en entier C'est une simulation de l'écoulement d'air lors du vol de la chauve souris !
+Vous voyez ce que c'est ? [Cliquez sur l'image](https://web.archive.org/web/20110403041332/http://www.sciencemag.org/content/317/5846/1858/F4.expansion) pour voir le poster gagnant en entier C'est une simulation de l'écoulement d'air lors du vol de la chauve souris !
 
 Il y a aussi cette photo étonnante :
 

@@ -18,7 +18,7 @@ Mais le titre de l'article affirme quelque chose de plus : l'augmentation des in
 
 D'une part, le texte de l’article est criblé de conditionnels et de formules de précaution allant jusqu’à admettre que "_les chiffres ne permettent pas de conclure_". Sans la remettre en question, Schumacher suppute que la relation entre inégalités et croissance doit être plus compliquée et dépendre notamment de cycles conjoncturels, ce qui lui permet d'achever sur un catalogue de recommandations bien pensantes aux politiques, tout ceci basé en définitive sur une relation hypothétique entre un fait non avéré et la sacro-sainte croissance...
 
-D'autre part, l'article est illustré par un graphique ressemblant à celui-ci, que j'ai obtenu grâce à [NationMaster :](http://www.nationmaster.com/plot/eco_gdp_rea_gro_rat-economy-gdp-real-growth-rate/eco_dis_of_fam_inc_gin_ind-distribution-family-income-gini-index/flag&id=OECD#details)
+D'autre part, l'article est illustré par un graphique ressemblant à celui-ci, que j'ai obtenu grâce à [NationMaster :](https://web.archive.org/web/20071208233736/http://www.nationmaster.com/plot/eco_gdp_rea_gro_rat-economy-gdp-real-growth-rate/eco_dis_of_fam_inc_gin_ind-distribution-family-income-gini-index/flag&id=OECD#details)
 
 [![gini-growth.png](./images/0cc8f858ee91cace96d1786059e4a32c.png)](http://www.nationmaster.com/plot/eco_gdp_rea_gro_rat-economy-gdp-real-growth-rate/eco_dis_of_fam_inc_gin_ind-distribution-family-income-gini-index/flag&id=OECD#details)
 

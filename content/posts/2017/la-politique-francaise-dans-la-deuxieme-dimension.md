@@ -30,7 +30,7 @@ De plus, il paraît difficile d'éviter une certaine subjectivité lorsqu'on rep
 
 ## Smartvote et la science des axes
 
-Ces problèmes ont été traités en profondeur en Suisse, je dirais même résolus par [Smartvote.ch](https://www.smartvote.ch/about/idea) grâce à une approche beaucoup plus rationnelle
+Ces problèmes ont été traités en profondeur en Suisse, je dirais même résolus par [Smartvote.ch](https://web.archive.org/web/20160830080706/https://www.smartvote.ch/about/idea) grâce à une approche beaucoup plus rationnelle
 
 La plateforme Smartvote propose aux candidats à chaque élection en Suisse de remplir un questionnaire sur quelques dizaines de questions de l'actualité politique, puis permet aux électeurs de répondre aux mêmes questions pour trouver les candidats ayant les opinions les plus proches.  Smartvote doit donc pouvoir calculer  des "distances" dans un espace ayant autant de dimensions que de questions, mais comme ces questions/dimensions ne sont pas indépendantes/orthogonales, on ne peut pas utiliser valablement une simple [distance euclidienne](w:) par exemple.
 
@@ -44,12 +44,12 @@ Smartvote réduit donc le nombres de dimensions de N à 2 , en utilisant une m�
 
 Autrement dit, les deux axes sont déterminés automatiquement à partir de réponses à des questions qui ne doivent pas être positionnées a priori sur ces axes !
 
-{{< figure src="./images/smartmap-vd-2017-1.png" alt="smartmap des candidats au Grand Conseil Vaudois 2017, colorés par parti" caption="smartmap des candidats au Grand Conseil Vaudois 2017, colorés par parti" link="https://www.smartvote.ch/17_vd_leg/smartmap/candidates" width="400" >}}
+{{< figure src="./images/smartmap-vd-2017-1.png" alt="smartmap des candidats au Grand Conseil Vaudois 2017, colorés par parti" caption="smartmap des candidats au Grand Conseil Vaudois 2017, colorés par parti" link="https://web.archive.org/web/20170514/https://www.smartvote.ch/17_vd_leg/smartmap/candidates" width="400" >}}
 
 Outre la correspondance électeur/candidat déjà mentionnée, il devient possible :
 
 - De produire très facilement des cartes du "paysage politique" comme celle-ci contre
-- D'appliquer une approche similaire aux consignes de vote des partis lors des nombreux référendums en Suisse, pour obtenir une [carte animée de l'évolution](http://sotomo.ch/wp/wp-content/uploads/2014/06/polraum1_optimiert.gif) du "positionnement marketing" des partis sur 30 ans a été produite [[3]](#ref-3). On y voit en particulier le spectaculaire repositionnement de l'UDC (SVP en allemand) comme parti conservateur.
+- D'appliquer une approche similaire aux consignes de vote des partis lors des nombreux référendums en Suisse, pour obtenir une [carte animée de l'évolution](https://web.archive.org/web/20170327020234/http://sotomo.ch/wp/wp-content/uploads/2014/06/polraum1_optimiert.gif) du "positionnement marketing" des partis sur 30 ans a été produite [[3]](#ref-3). On y voit en particulier le spectaculaire repositionnement de l'UDC (SVP en allemand) comme parti conservateur.
 - De vérifier que le positionnement habituel des votants de chaque circonscription ne varie pas brutalement lors d'un vote, ce qui donne une méthode de [détection de fraude électorale](/2012/12/07/fraudez-benford/) (peu) connue sous le nom de "test du modèle binomial robuste sur-dispersé". J'ai eu l'occasion de la découvrir lors de mon passage à la Commission Electorale Centrale du Canton de Genève.
 
 ## Axe principal, secondaire, et 3ème axe
@@ -70,12 +70,12 @@ A ma connaissance, il n'existe pas de telles données en France, donc pas de mo
 
 \* J'ai nommé le 2ème axe "libéral / conservateur" dans l'introduction pour qu'il ne soit pas trop abstrait, mais comme l'indique smartvote "D'autres désignations sont possibles et pertinentes". Ne voulant pas m'avancer sur le cas français par manque de données, j'en suis resté à "axe secondaire"
 
-\*\* En aucun cas je ne suggère que le FN n'est pas le parti français le plus à droite. Mais je suspecte qu'il se distingue des autres partis de droite plutôt par son conservatisme, d'une manière similaire à celle de l'[UDC suisse](w:Union_démocratique_du_centre) (SVP en allemand sur la [spectaculaire carte animée](http://sotomo.ch/wp/wp-content/uploads/2014/06/polraum1_optimiert.gif) ).
+\*\* En aucun cas je ne suggère que le FN n'est pas le parti français le plus à droite. Mais je suspecte qu'il se distingue des autres partis de droite plutôt par son conservatisme, d'une manière similaire à celle de l'[UDC suisse](w:Union_démocratique_du_centre) (SVP en allemand sur la [spectaculaire carte animée](https://web.archive.org/web/20170327020234/http://sotomo.ch/wp/wp-content/uploads/2014/06/polraum1_optimiert.gif) ).
 
 ### Références:
 
 1. <span id="ref-1"></span>Alain Cohen-Dumouchel, ["Carte 2D du Paysage Politique Français (PPF) "](http://www.gaucheliberale.org/post/2014/02/18/Carte-2D-du-Paysage-Politique-Fran%C3%A7ais-%28PPF%29-mise-%C3%A0-jour-f%C3%A9vrier-2014) février 2014
-2. <span id="ref-2"></span>"[Méthode de calcul de la carte des positions smartmap](https://www.smartvote.ch/downloads/methodology_smartmap_fr_CH.pdf) ", Smartvote
-3. <span id="ref-3"></span>"[Auswertung der Parteiparolen von 1985-2014](https://sotomo.ch/site/auswertung-der-parteiparolen-von-1985-2014/)", Sotomo ([données](https://docs.google.com/spreadsheets/d/1YV1QiCGKkoffrydb9zeYNIFVAzVAPD5ggzC24Iw7-4w/pubhtml#) !)
-4. <span id="ref-4"></span>TA Korrektorat, "[Wie sich die SVP aus dem Bürgerblock verabschiedet hat](http://blog.tagesanzeiger.ch/datenblog/index.php/1791/wie-sich-die-svp-aus-dem-buergerblock-verabschiedet-hat)", Tages Anzeiger 21\. April 2014
-5. <span id="ref-5"></span>S. Brouard, H.Rey "[La Gauche, la Droite : les limites d'une identification politique](http://www.cevipof.com/bpf/barometre/vague4/002/GaucheDroite_HR-SB.pdf)" , Février 2007, Sciences Po, [CEVIPOF](http://www.cevipof.com/)
+2. <span id="ref-2"></span>"[Méthode de calcul de la carte des positions smartmap](https://web.archive.org/web/20160115111328/https://www.smartvote.ch/downloads/methodology_smartmap_fr_CH.pdf) ", Smartvote
+3. <span id="ref-3"></span>"[Auswertung der Parteiparolen von 1985-2014](https://web.archive.org/web/20200920041537/https://sotomo.ch/site/auswertung-der-parteiparolen-von-1985-2014/)", Sotomo ([données](https://docs.google.com/spreadsheets/d/1YV1QiCGKkoffrydb9zeYNIFVAzVAPD5ggzC24Iw7-4w/pubhtml#) !)
+4. <span id="ref-4"></span>TA Korrektorat, "[Wie sich die SVP aus dem Bürgerblock verabschiedet hat](https://web.archive.org/web/20170927002906/http://blog.tagesanzeiger.ch/datenblog/index.php/1791/wie-sich-die-svp-aus-dem-buergerblock-verabschiedet-hat)", Tages Anzeiger 21\. April 2014
+5. <span id="ref-5"></span>S. Brouard, H.Rey "[La Gauche, la Droite : les limites d'une identification politique](https://web.archive.org/web/20191022223834/http://www.cevipof.com/bpf/barometre/vague4/002/GaucheDroite_HR-SB.pdf)" , Février 2007, Sciences Po, [CEVIPOF](https://web.archive.org/web/20170514163014/http://www.cevipof.com/)

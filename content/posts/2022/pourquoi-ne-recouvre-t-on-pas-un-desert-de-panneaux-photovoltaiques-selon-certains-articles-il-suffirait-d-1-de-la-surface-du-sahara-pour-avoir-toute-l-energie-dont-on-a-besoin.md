@@ -50,4 +50,4 @@ Il faut faire environ autant d'éolien (avec des difficultés similaires), et de
 
 Notes de bas de page
 
-[[1]](#cite-pCxVk)[La Chine adopte l’ultra-haute-tension pour optimiser le transport de l’électricité](https://am.pictet/fr/france/mega/chine-le-courant-continu-a-ultra-haute-tension)
+[[1]](#cite-pCxVk)[La Chine adopte l’ultra-haute-tension pour optimiser le transport de l’électricité](https://web.archive.org/web/20220819/https://am.pictet/fr/france/mega/chine-le-courant-continu-a-ultra-haute-tension)

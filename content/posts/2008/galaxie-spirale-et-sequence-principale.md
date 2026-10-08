@@ -57,4 +57,4 @@ Ainsi les étoiles vieillissent, mais pas toutes à la même vitesse, ce qui est
 ### Références
 
 - [Les Galaxies](http://www.dil.univ-mrs.fr/~gispert/enseignement/astronomie/5eme_partie/galaxies.php)
-- [Article on Demoniak3D Blog](http://www.ozone3d.net/blogs/demoniak3d/?p=71)
+- [Article on Demoniak3D Blog](https://web.archive.org/web/20080926153541/http://www.ozone3d.net/blogs/demoniak3d/?p=71)

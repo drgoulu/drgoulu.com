@@ -24,4 +24,4 @@ Donc voilà : les "tectoniques et cosmiques" sont objectivement négligeables pa
 
 Notes de bas de page
 
-[[1]](#cite-uUMRL)[22 août 1888, le jour où une météorite tue un être humain](https://www.lepoint.fr/sciences-nature/22-aout-1888-le-jour-ou-une-meteorite-tue-un-etre-humain-26-04-2020-2372939_1924.php)
+[[1]](#cite-uUMRL)[22 août 1888, le jour où une météorite tue un être humain](https://web.archive.org/web/20200820085233/https://www.lepoint.fr/sciences-nature/22-aout-1888-le-jour-ou-une-meteorite-tue-un-etre-humain-26-04-2020-2372939_1924.php)

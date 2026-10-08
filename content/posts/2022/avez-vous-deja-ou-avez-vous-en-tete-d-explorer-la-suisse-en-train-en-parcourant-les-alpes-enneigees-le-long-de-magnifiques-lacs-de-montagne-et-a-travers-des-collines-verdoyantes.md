@@ -20,10 +20,10 @@ Oui, nous avons fait un "grand huit ferroviaire de Suisse" en train en été 201
 
 - départ de chez nous pour Zermatt, 2 ou 3 jours de ballades en montagne là bas.
 - train [Glacier Express](https://www.glacierexpress.ch/fr/)de Zermatt à St.Moritz. Un must ! Nuit à l'[Hotel Waldhaus am See](https://www.waldhaus-am-see.ch/en/whiskey-wine/) et son fabuleux bar à whisky …
-- train [Bernina-express](https://www.rhb.ch/fr/panoramic-trains/bernina-express) jusqu'à Tirano à la frontière italienne. Deuxième must !
+- train [Bernina-express](https://web.archive.org/web/20220510015715/https://www.rhb.ch/fr/panoramic-trains/bernina-express) jusqu'à Tirano à la frontière italienne. Deuxième must !
 - train Tirano-Lugano en Italie. bof.
 - quelques jours à Lugano, baignade dans le lac etc.
-- [CFF Historic – Train du Saint-Gothard | CFF](https://www.sbb.ch/fr/loisirs-et-vacances/idees/offre.html/zuege/sbb-historic-erlebniszug-san-gottardo) . troisième must ! Attention, il ne circule que 2x par mois, il faut réserver longtemps à l'avance. Sinon vous êtes bons pour prendre le [Tunnel ferroviaire du Saint-Gothard](w:), le plus long tunnel du monde (57 km), impressionnant mais le paysage n'est pas terrible …
+- [CFF Historic – Train du Saint-Gothard | CFF](https://web.archive.org/web/20220516093849/https://www.sbb.ch/fr/loisirs-et-vacances/idees/offre.html/zuege/sbb-historic-erlebniszug-san-gottardo) . troisième must ! Attention, il ne circule que 2x par mois, il faut réserver longtemps à l'avance. Sinon vous êtes bons pour prendre le [Tunnel ferroviaire du Saint-Gothard](w:), le plus long tunnel du monde (57 km), impressionnant mais le paysage n'est pas terrible …
 (Dans les deux cas vous croiserez le trajet du Glacier Express, d'où le titre "grand huit ferroviaire de Suisse")
 - les touristes vont habituellement à Lucerne, son lac, son pont en bois etc, mais nous avons préféré découvrir St-Gall, ville magnifique
 - et au lieu de Zürich nous sommes allés à Schaffhouse voir des amis. Bâle est une alternative plus riche culturellement. "Collines verdoyantes" à profusion sur tout le plateau.

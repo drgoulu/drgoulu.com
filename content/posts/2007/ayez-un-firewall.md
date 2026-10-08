@@ -15,7 +15,7 @@ Si vous êtes connecté au réseau en permanence par câble ou adsl, vous devez 
 - utiliser votre ordinateur comme base pour une attaque contre d’autres ordinateurs ou pour diffuser du [spam](http://www.goulu.net/wordpress/spam). Vous pouvez en principe être poursuivi pénalement si on remonte jusqu'à vous...  
     
 
-Si vous avez un doute, évaluez votre vulnérabilité [ici](http://security.symantec.com/sscv6/home.asp?langid=fr)
+Si vous avez un doute, évaluez votre vulnérabilité [ici](https://web.archive.org/web/20070305052636/http://security.symantec.com/sscv6/home.asp?langid=fr)
 
 Pour vous protéger, vous avez besoin d’un "firewall", qui peut être soit dans votre modem/routeur ADSL, soit un programme dans votre PC, soit les deux.
 

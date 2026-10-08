@@ -32,4 +32,4 @@ Notes de bas de page
 
 [[1]](#cite-fSRaL)[Le corium de Fukushima (1) : description et données](http://www.fukushima-blog.com/article-le-corium-de-fukushima-1-description-et-donnees-81378535.html)
 
-[[2]](#cite-PxBZk)[Fukushima, quelles nouvelles ?](https://www.lemonde.fr/blog/huet/2018/03/21/fukushima-quelles-nouvelles/)
+[[2]](#cite-PxBZk)[Fukushima, quelles nouvelles ?](https://web.archive.org/web/20210216094202/https://www.lemonde.fr/blog/huet/2018/03/21/fukushima-quelles-nouvelles/)

@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 C'est une décision du CIO très bien expliquée ici :
 
-[https://olympics.com/cio/media/q...](https://olympics.com/cio/media/questions-reponses-concernant-la-declaration-sur-la-solidarite-avec-l-ukraine-sur-les-sanctions-a-l-encontre-de-la-russie-et-du-belarus)
+[https://olympics.com/cio/media/q...](https://web.archive.org/web/20240810152442/https://olympics.com/cio/media/questions-reponses-concernant-la-declaration-sur-la-solidarite-avec-l-ukraine-sur-les-sanctions-a-l-encontre-de-la-russie-et-du-belarus)
 
 Notamment la raison principale :
 

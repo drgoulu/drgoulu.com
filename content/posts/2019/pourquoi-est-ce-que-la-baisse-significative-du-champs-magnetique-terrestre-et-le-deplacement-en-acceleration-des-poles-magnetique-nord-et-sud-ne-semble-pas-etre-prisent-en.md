@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 C'est pris en compte au moins depuis 2014.
 
-[Earth's magnetic field is important for climate change at high altitudes](https://phys.org/news/2014-05-earth-magnetic-field-important-climate.html)
+[Earth's magnetic field is important for climate change at high altitudes](https://web.archive.org/web/20191112142957/https://phys.org/news/2014-05-earth-magnetic-field-important-climate.html)

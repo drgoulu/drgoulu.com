@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quelles-sont-les-solutions-de-l-%C3%A9quation-4x-3-4sqrt-3-x-2-24x-0/answer/Dr-Goulu)*
 
-[4x^3−4sqrt(3)x^2−24x=0 - Wolfram|Alpha](https://www.wolframalpha.com/input/?i=4x^3−4sqrt(3)x^2−24x=0)
+[4x^3−4sqrt(3)x^2−24x=0 - Wolfram|Alpha](https://web.archive.org/web/20200719/https://www.wolframalpha.com/input/?i=4x^3−4sqrt(3)x^2−24x=0)

@@ -34,5 +34,5 @@ Démonstration : vrai en vertu de l'axiome 1. CQFD et Ramen !
 **Références :**
 
 1. Benzmüller, C., & Woltzenlogel Paleo, B. (2014). [Automating Gödel's Ontological Proof of God's Existence with Higher-order Automated Theorem Provers](https://doi.org/10.3233/978-1-61499-419-0-93) . _Frontiers in Artificial Intelligence and Applications_, _263_. {{< altmetric doi="10.3233/978-1-61499-419-0-93" >}}
-2. Benzmüller, C. (2017). [Experiments in Computational Metaphysics: Gödel's Proof of God's Existence](https://orbilu.uni.lu/handle/10993/33621) ( [pdf](https://core.ac.uk/download/pdf/141495131.pdf) )
-3. Benzmüller, C. (2016). [The inconsistency in Gödel's ontological argument](https://dl.acm.org/doi/abs/10.5555/3060621.3060751) _Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence_, 936–942. {{< altmetric doi="abs/10.5555/3060621.3060751" >}}
+2. Benzmüller, C. (2017). [Experiments in Computational Metaphysics: Gödel's Proof of God's Existence](https://web.archive.org/web/20211108024339/https://orbilu.uni.lu/handle/10993/33621) ( [pdf](https://web.archive.org/web/20210114172512/https://core.ac.uk/download/pdf/141495131.pdf) )
+3. Benzmüller, C. (2016). [The inconsistency in Gödel's ontological argument](https://web.archive.org/web/20221011225335/https://dl.acm.org/doi/abs/10.5555/3060621.3060751) _Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence_, 936–942. {{< altmetric doi="abs/10.5555/3060621.3060751" >}}

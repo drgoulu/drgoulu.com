@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-faire-un-graphique-du-d%C3%A9placement-al%C3%A9atoire-d-un-point-sur-un-axe-vertical-sur-Python/answer/Dr-Goulu)*
 
-jouez avec [JupyterLite Retro - Notebook](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb) , vous n'avez qu'à modifier la fonction.
+jouez avec [JupyterLite Retro - Notebook](https://web.archive.org/web/20221126203034/https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb) , vous n'avez qu'à modifier la fonction.

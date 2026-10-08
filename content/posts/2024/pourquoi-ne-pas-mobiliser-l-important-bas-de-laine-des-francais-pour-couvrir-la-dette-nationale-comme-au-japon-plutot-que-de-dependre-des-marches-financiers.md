@@ -25,9 +25,9 @@ A voir si les français accepteraient que leurs impôts servent pour moitié à 
 
 Notes de bas de page
 
-[[1]](#cite-uRmYm)[L’épargne des Français : un potentiel non exploité](https://www.pwc.fr/fr/publications/2023/02/epargne-des-francais-un-potentiel-non-exploite.html)
+[[1]](#cite-uRmYm)[L’épargne des Français : un potentiel non exploité](https://web.archive.org/web/20240707022508/https://www.pwc.fr/fr/publications/2023/02/epargne-des-francais-un-potentiel-non-exploite.html)
 
-[[2]](#cite-qmclc)[https://www.aft.gouv.fr/fr/oat-p...](https://www.aft.gouv.fr/fr/oat-particuliers)
+[[2]](#cite-qmclc)[https://www.aft.gouv.fr/fr/oat-p...](https://web.archive.org/web/20240704170654/https://www.aft.gouv.fr/fr/oat-particuliers)
 
 [[3]](#cite-DRobw)[Combien vaut 1 franc ? - Pourquoi Comment Combien](/2009/04/03/combien-vaut-1-franc/)
 

@@ -22,7 +22,7 @@ J'ai trouvé cette illustration
 
 dans cet article
 
-[https://www.sciencedirect.com/sc...](https://www.sciencedirect.com/science/article/pii/S0960982206019968)
+[https://www.sciencedirect.com/sc...](https://web.archive.org/web/20210715102823/https://www.sciencedirect.com/science/article/pii/S0960982206019968)
 
 Vous voyez que les oiseaux et les [Eutheria](w:)(nous…) ont divergé il y a 310 millions d années d ancêtres qui ont divergé des Amphibiens il y a 345 millions d'années.
 

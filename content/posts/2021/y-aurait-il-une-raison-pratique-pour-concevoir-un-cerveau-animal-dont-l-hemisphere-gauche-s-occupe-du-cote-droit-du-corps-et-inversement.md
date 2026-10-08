@@ -15,4 +15,4 @@ L'evolution n'a pas de "raison pratique". Elle fait des trucs au hasard, et ce q
 
 Dans le cas de la latéralisation du cerveau, on ne sait pas quel est l'avantage évolutif, s'il y en a un.
 
-[https://www.sciencesetavenir.fr/...](https://www.sciencesetavenir.fr/sante/pourquoi-notre-cerveau-est-il-lateralise_132566)
+[https://www.sciencesetavenir.fr/...](https://web.archive.org/web/20210116151334/https://www.sciencesetavenir.fr/sante/pourquoi-notre-cerveau-est-il-lateralise_132566)

@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Je vous recommande vivement la série
 
-[https://www.arte.tv/fr/videos/RC...](https://www.arte.tv/fr/videos/RC-020461/l-origine-du-christianisme)
+[https://www.arte.tv/fr/videos/RC...](https://web.archive.org/web/20210614231233/https://www.arte.tv/fr/videos/RC-020461/l-origine-du-christianisme)
 
 Jesus était juif, pas chrétien. C'était très vraisemblablement un rabbin, probablement [essénien](w:Esséniens), certainement marié sinon il n'aurait pas été écouté et encore moins suivi. Dans ce cadre il était certainement capable de lire et d'écrire.
 

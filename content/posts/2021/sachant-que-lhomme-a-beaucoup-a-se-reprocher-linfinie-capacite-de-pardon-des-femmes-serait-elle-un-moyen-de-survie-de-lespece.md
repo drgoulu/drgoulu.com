@@ -13,8 +13,8 @@ coverImage: ./images/quora.png
 
 Houlà vous êtes mû(e) pour lire les trois merveilleux articles de mon pote Homo Fabulous :
 
-[https://homofabulus.com/homme-es...](https://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/)
+[https://homofabulus.com/homme-es...](https://web.archive.org/web/20210917034851/https://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/)
 
-[https://homofabulus.com/homme-po...](https://homofabulus.com/homme-polygamie-partie-2-monogamie-en-serie/)
+[https://homofabulus.com/homme-po...](https://web.archive.org/web/20210917032457/https://homofabulus.com/homme-polygamie-partie-2-monogamie-en-serie/)
 
-[https://homofabulus.com/lhomme-e...](https://homofabulus.com/lhomme-est-il-un-polygame-refoule-partie-33/)
+[https://homofabulus.com/lhomme-e...](https://web.archive.org/web/20210917043010/https://homofabulus.com/lhomme-est-il-un-polygame-refoule-partie-33/)

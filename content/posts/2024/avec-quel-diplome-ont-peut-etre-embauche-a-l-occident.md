@@ -19,7 +19,7 @@ Voici le classement des universités ivoiriennes :
 
 La meilleure, l'Université Félix Houphouët Boigny (Université de Cocody Abidjan) est classée 4499ème mondiale.
 
-C'est le même niveau mondial que la 138ème université française (science po Bordeaux, voir [https://www.webometrics.info/en/...](https://www.webometrics.info/en/Europe/France?page=1) )
+C'est le même niveau mondial que la 138ème université française (science po Bordeaux, voir [https://www.webometrics.info/en/...](https://web.archive.org/web/20210624040726/https://www.webometrics.info/en/Europe/France?page=1) )
 
 Et l'occident, c'est plus grand que la France…
 

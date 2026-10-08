@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Les articles de Bernard Werber dans le nouvel observateur sont là
 
-[https://bernardwerber.com/unpeup...](https://bernardwerber.com/unpeuplus/NouvelObs.php)
+[https://bernardwerber.com/unpeup...](https://web.archive.org/web/20250809085552/https://bernardwerber.com/unpeuplus/NouvelObs.php)
 
 Il suffisait de faire une recherche donc un mauvais point

@@ -11,7 +11,7 @@ coverImage: ./images/qimg-cbc8a4edfdf6dcfd4d5c874f33d84a3e.jpg
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Est-il-exact-que-certaines-m%C3%A9t%C3%A9orites-peuvent-atteindre-le-prix-d-un-million-de-dollars-am%C3%A9ricains/answer/Dr-Goulu)*
 
-D'après [Top 10 des plus chères météorites jamais proposées à la vente - Catawiki](https://www.catawiki.eu/stories/4683-top-10-des-plus-cheres-meteorites-jamais-proposees-a-la-vente) il n'y a que la [Météorite de Fukang](w:)qui a atteint ce prix, et quand on la voit, on comprend :
+D'après [Top 10 des plus chères météorites jamais proposées à la vente - Catawiki](https://web.archive.org/web/20200404174130/https://www.catawiki.eu/stories/4683-top-10-des-plus-cheres-meteorites-jamais-proposees-a-la-vente) il n'y a que la [Météorite de Fukang](w:)qui a atteint ce prix, et quand on la voit, on comprend :
 
 ![](./images/qimg-cbc8a4edfdf6dcfd4d5c874f33d84a3e.jpg)
 

@@ -15,4 +15,4 @@ Pourtant l'autorité palestinienne, qui reconnaît Israël et est en paix depuis
 
 Et pendant ces 30 ans (depuis 1993), quel effort Israël a fait pour la paix ? Qu a t'il donné aux palestiniens pour qu'ils préfèrent la voie pacifique du Fatah à la violence du Hamas ?
 
-[https://press.un.org/fr/2024/ag1...](https://press.un.org/fr/2024/ag12599.doc.htm)
+[https://press.un.org/fr/2024/ag1...](https://web.archive.org/web/20240516182711/https://press.un.org/fr/2024/ag12599.doc.htm)

@@ -15,6 +15,6 @@ Locale, culturelle et variable dans le temps.
 
 Je me permets de recommander le petit livre
 
-[André Kuhn, "Sommes nous tous des criminels ?" éditions de l'hèbe, 2019](https://mobile.payot.ch/Detail/sommes_nous_tous_des_criminels_-kuhn_andre-9782940063666?fp=1)
+[André Kuhn, "Sommes nous tous des criminels ?" éditions de l'hèbe, 2019](https://web.archive.org/web/20211127/https://mobile.payot.ch/Detail/sommes_nous_tous_des_criminels_-kuhn_andre-9782940063666?fp=1)
 
 qui explique ça de manière limpide et passionnante en 90 petites pages.

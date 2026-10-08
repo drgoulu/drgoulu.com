@@ -28,4 +28,4 @@ par contre l' [Ozone O3](w:Ozone) absorbe un peu dans l'infrarouge (pic à 10um 
 
 Notes de bas de page
 
-[[1]](#cite-lLmLF)[https://planet-terre.ens-lyon.fr...](https://planet-terre.ens-lyon.fr/article/gaz-effet-serre.xml)
+[[1]](#cite-lLmLF)[https://planet-terre.ens-lyon.fr...](https://web.archive.org/web/20191206084027/https://planet-terre.ens-lyon.fr/article/gaz-effet-serre.xml)

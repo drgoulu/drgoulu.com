@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Comment-afficher-la-couleur-d-un-code-Hexad%C3%A9cimal-RRGGBB-avec-Python-Jupyter-Lab/answer/Dr-Goulu)*
 
-Avec ma librairie [Goulib.colors](https://goulib.readthedocs.io/en/latest/modules/Goulib.colors.html) qui fait [beaucoup plus que ça.](https://nbviewer.jupyter.org/github/Goulu/Goulib/blob/master/notebooks/colors.ipynb)
+Avec ma librairie [Goulib.colors](https://web.archive.org/web/20211205113910/https://goulib.readthedocs.io/en/latest/modules/Goulib.colors.html) qui fait [beaucoup plus que ça.](https://nbviewer.jupyter.org/github/Goulu/Goulib/blob/master/notebooks/colors.ipynb)

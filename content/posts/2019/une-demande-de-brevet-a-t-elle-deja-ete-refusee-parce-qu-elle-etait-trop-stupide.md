@@ -40,4 +40,4 @@ Notes de bas de page
 
 [[2]](#cite-hDtvC)[Combien pour ce brevet ? - Pourquoi Comment Combien](/2009/03/08/combien-pour-ce-brevet/)
 
-[[3]](#cite-pCEfp)[https://www.tuv.com/media/german...](https://www.tuv.com/media/germany/50_trainingandconsulting/pdf/patente/Circular_transportation_facilitation_device.pdf)
+[[3]](#cite-pCEfp)[https://www.tuv.com/media/german...](https://web.archive.org/web/20190710010617/https://www.tuv.com/media/germany/50_trainingandconsulting/pdf/patente/Circular_transportation_facilitation_device.pdf)

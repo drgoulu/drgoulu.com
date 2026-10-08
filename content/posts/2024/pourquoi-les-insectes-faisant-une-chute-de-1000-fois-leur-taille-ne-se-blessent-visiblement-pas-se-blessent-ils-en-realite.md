@@ -26,4 +26,4 @@ Un éléphant qui tombe de 1m se tue, vous vous tordez la cheville, et une fourm
 
 Notes de bas de page
 
-[[1]](#cite-kKRWN)[https://www.researchgate.net/pub...](https://www.researchgate.net/publication/343278128_Can_electrostatic_fields_limit_the_take-off_of_tiny_whiteflies_Bemisia_tabaci)
+[[1]](#cite-kKRWN)[https://www.researchgate.net/pub...](https://web.archive.org/web/20240521/https://www.researchgate.net/publication/343278128_Can_electrostatic_fields_limit_the_take-off_of_tiny_whiteflies_Bemisia_tabaci)

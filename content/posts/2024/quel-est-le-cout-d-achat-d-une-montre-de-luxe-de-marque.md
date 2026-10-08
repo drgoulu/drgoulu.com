@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Pour l'industrie horlogère suisse, le haut de gamme correspond à des montres de plus de 3000 CHF à l'export, donc dès 5000 Euro environ à la vente.
 
-[https://www2.deloitte.com/conten...](https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/consumer-business/deloitte-ch-fr-swiss-watch-industry-study-2022.pdf)
+[https://www2.deloitte.com/conten...](https://web.archive.org/web/20221013070244/https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/consumer-business/deloitte-ch-fr-swiss-watch-industry-study-2022.pdf)

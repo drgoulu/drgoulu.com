@@ -27,7 +27,7 @@ Sérieusement, Alexandre Bompard peut connaître les prix de la viande, ses cond
 
 Pour être PDG d'un groupe comme Carrefour, il ne faut avoir aucun préjugé, il ne faut penser qu'au fric. En l'occurrence il pense à ne pas se faire casser ses magasins par les agriculteurs français.
 
-[En réponse à la colère des agriculteurs, Carrefour s’engage à ne pas vendre de viande provenant des pays du Mercosur](https://www.lemonde.fr/economie/article/2024/11/20/en-reponse-a-la-colere-des-agriculteurs-carrefour-s-engage-a-ne-pas-vendre-de-viande-provenant-des-pays-du-mercosur_6405695_3234.html)
+[En réponse à la colère des agriculteurs, Carrefour s’engage à ne pas vendre de viande provenant des pays du Mercosur](https://web.archive.org/web/20241125105504/https://www.lemonde.fr/economie/article/2024/11/20/en-reponse-a-la-colere-des-agriculteurs-carrefour-s-engage-a-ne-pas-vendre-de-viande-provenant-des-pays-du-mercosur_6405695_3234.html)
 
 Il faut vraiment être tordu pour voir du racisme dans le commerce de la viande…
 

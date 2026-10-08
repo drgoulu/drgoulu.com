@@ -26,4 +26,4 @@ mais il a aussi fait en 1844 une série de photos de personnes très âgées, pa
 
 Si cette dame a 90 ans, alors elle est née autour de 1750 …
 
-[https://www.curioctopus.fr/read/...](https://www.curioctopus.fr/read/19782/voici-les-photos-de-la-plus-ancienne-generation-de-personnes-jamais-photographiee)
+[https://www.curioctopus.fr/read/...](https://web.archive.org/web/20201116132709/https://www.curioctopus.fr/read/19782/voici-les-photos-de-la-plus-ancienne-generation-de-personnes-jamais-photographiee)

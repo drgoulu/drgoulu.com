@@ -26,6 +26,6 @@ On trouve plus souvent des représentations de ceci avec une échelle de temps l
 
 ![](./images/qimg-d165069af85f320b68ed4a5f56c747d1.jpg)
 
-source : [How small was the Universe when the hot Big Bang began?](https://bigthink.com/starts-with-a-bang/small-universe-big-bang/)
+source : [How small was the Universe when the hot Big Bang began?](https://web.archive.org/web/20220809135208/https://bigthink.com/starts-with-a-bang/small-universe-big-bang/)
 
 (tiens, faudrait que je traduise [Logarithmic timeline - Wikipedia](w:en:Logarithmic_timeline) en français…)

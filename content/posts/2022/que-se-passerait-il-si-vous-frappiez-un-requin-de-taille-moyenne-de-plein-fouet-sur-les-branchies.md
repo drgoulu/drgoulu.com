@@ -22,4 +22,4 @@ Mais si vous lui attrapez les branchies ou lui fourrez votre tuba dedans, il aim
 
 C'est pour ça que les requins se tiennent à distance de vous. Ils sentent que vous êtes dangereux. Et les chiffres le prouvent : Homo Sapiens massacre 100'000'000 de requins par année, et eux arrivent péniblement à croquer 10 surfeurs imprudents.
 
-[https://actu.fr/societe/le-nombr...](https://actu.fr/societe/le-nombre-d-attaques-de-requins-extremement-bas-en-2020_39032860.html)
+[https://actu.fr/societe/le-nombr...](https://web.archive.org/web/20210330140441/https://actu.fr/societe/le-nombre-d-attaques-de-requins-extremement-bas-en-2020_39032860.html)

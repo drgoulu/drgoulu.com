@@ -15,4 +15,4 @@ C'est très difficile de répondre parce que "riche" et "pauvre" n'ont pas la m�
 
 Dans cette extraordinaire présentation, Hans Rosling répond quand même à votre question en montrant que la situation a complètement changé ces 50 dernières années, et probablement pas comme vous le pensez :
 
-[https://www.ted.com/talks/hans_r...](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)
+[https://www.ted.com/talks/hans_r...](https://web.archive.org/web/20241127021103/https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)

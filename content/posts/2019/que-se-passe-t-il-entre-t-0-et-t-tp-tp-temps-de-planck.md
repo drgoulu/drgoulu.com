@@ -27,7 +27,7 @@ Avec un “temps logarithmique”, il s’est passé 100x plus de choses du temp
 
 Cette idée est assez spéculative et peu étayée, j’en conviens. Mon but est juste de montrer que le “Big Bang” n’existe que dans notre vision linéaire du temps, alors qu’on ne sait pas ce qu’est vraiment le temps.
 
-Pour une vision moins spéculative vous pouvez lire [The Big Bang Wasn't The Beginning, After All](https://www.forbes.com/sites/startswithabang/2017/09/21/the-big-bang-wasnt-the-beginning-after-all/), sur l’idée que l’inflation correspond à la conversion d’énergie en espace, et que c’est ce que nous appelons “Big Bang” mais que l’état précédent de l’Univers n’était pas infiniment chaud.
+Pour une vision moins spéculative vous pouvez lire [The Big Bang Wasn't The Beginning, After All](https://web.archive.org/web/20190320072057/https://www.forbes.com/sites/startswithabang/2017/09/21/the-big-bang-wasnt-the-beginning-after-all/), sur l’idée que l’inflation correspond à la conversion d’énergie en espace, et que c’est ce que nous appelons “Big Bang” mais que l’état précédent de l’Univers n’était pas infiniment chaud.
 
 Donc il n’y a peut-être jamais eu de t=0, ni d’énergie supérieure à celle de Planck.
 

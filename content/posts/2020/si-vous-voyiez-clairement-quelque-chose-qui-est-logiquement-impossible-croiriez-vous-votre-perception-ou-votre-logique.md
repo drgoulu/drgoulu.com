@@ -20,7 +20,7 @@ J'adore la magie. Chaque fois que j'ai l'occasion de voir un spectacle, je fonce
 
 Mais mon magicien préféré reste [James Randi](w:), parce qu'il explique très bien que tout ça c'est du pipeau, et que ceux qui ne reconnaissent pas être des illusionnistes abusant de vos sens sont des escrocs. Il en a d'ailleurs démasqué plusieurs.
 
-Ne manquez pas sa conférence au TED [Le paranormal plaqué au sol par James Randi.](https://www.ted.com/talks/james_randi_homeopathy_quackery_and_fraud?language=fr) (et notez le traducteur)
+Ne manquez pas sa conférence au TED [Le paranormal plaqué au sol par James Randi.](https://web.archive.org/web/20200802124018/https://www.ted.com/talks/james_randi_homeopathy_quackery_and_fraud?language=fr) (et notez le traducteur)
 
 Évidemment, si votre cerveau peut être trompé par un effet special, il peut être trompé par des phénomènes naturels aussi.
 

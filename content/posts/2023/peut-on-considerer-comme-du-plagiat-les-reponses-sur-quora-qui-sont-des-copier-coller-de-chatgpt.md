@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Oui. Peu importe la source, le plagiat consiste à d'attribuer une œuvre dont on est pas l'auteur.
 
-De plus les [Terms of use](https://openai.com/policies/terms-of-use) de Chat GPT sont clairs :
+De plus les [Terms of use](https://web.archive.org/web/20230808212444/https://openai.com/policies/terms-of-use) de Chat GPT sont clairs :
 
 > 2.c Restrictions : you may not (…) (v) represent that output from the Services was human-generated when it is not.
 

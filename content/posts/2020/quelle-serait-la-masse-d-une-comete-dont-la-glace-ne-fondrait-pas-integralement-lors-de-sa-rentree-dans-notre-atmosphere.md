@@ -18,7 +18,7 @@ coverImage: ./images/qimg-0492362687d03e764d478daf30f8c546.jpg
 
 L’échauffement d'une [Météorite](w:) (qui inclut celles de natures cométaire) est minime en entrant dans l'atmosphère. C'est surtout l'échauffement de l'air comprimé par l'objet qui est si élevé qu'il devient lumineux, produisant "l'étoile filante". Le frottement de l'air produit une ablation de la surface, et la chute est trop rapide pour produire un échauffement de la masse. Les météorites trouvées au sol juste après leur chute étaient juste tièdes, pas chaudes[[1]](#mLiry)
 
-Selon [Chute de météorites : flux et risques](https://planet-terre.ens-lyon.fr/article/chute-meteorites.xml) :
+Selon [Chute de météorites : flux et risques](https://web.archive.org/web/20210124092812/https://planet-terre.ens-lyon.fr/article/chute-meteorites.xml) :
 
 > les modèles les plus récents montrent que les corps ayant une masse inférieure à 10 kg à leur arrivée au sommet de l'atmosphère terrestre seront complètement désintégrés sous la forme de leurs atomes constitutifs au cours de leur traversée (incomplète) de l'atmosphère
 

@@ -22,4 +22,4 @@ En complément de la réponse de [François Désarménien](https://fr.quora.com/
 
 Notes de bas de page
 
-[[1]](#cite-cfulO)[Placebo and Opioid Analgesia-- Imaging a Shared Neuronal Network](https://science.sciencemag.org/content/295/5560/1737)
+[[1]](#cite-cfulO)[Placebo and Opioid Analgesia-- Imaging a Shared Neuronal Network](https://web.archive.org/web/20200120030204/https://science.sciencemag.org/content/295/5560/1737)

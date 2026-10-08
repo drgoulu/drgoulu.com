@@ -29,8 +29,8 @@ Notes de bas de page
 
 [[1]](#cite-BKbKd)[« Hamas, la fabrique d’un monstre » : comment Israël a favorisé la montée en puissance de l'organisation terroriste - L'Humanité](https://www.humanite.fr/medias/armee-israelienne/hamas-la-fabrique-dun-monstre-comment-israel-a-favorise-la-montee-en-puissance-de-lorganisation-terroriste)
 
-[[2]](#cite-uqOjA)[Le « New York Times » affirme que le renseignement israélien savait que le Hamas préparait une attaque inédite](https://www.lemonde.fr/israel-palestine/article/2023/12/01/le-new-york-times-affirme-que-le-renseignement-israelien-savait-que-le-hamas-preparait-une-attaque-inedite_6203359_1667123.html)
+[[2]](#cite-uqOjA)[Le « New York Times » affirme que le renseignement israélien savait que le Hamas préparait une attaque inédite](https://web.archive.org/web/20250516015125/https://www.lemonde.fr/israel-palestine/article/2023/12/01/le-new-york-times-affirme-que-le-renseignement-israelien-savait-que-le-hamas-preparait-une-attaque-inedite_6203359_1667123.html)
 
-[[3]](#cite-FaPYG)[https://fr.timesofisrael.com/ava...](https://fr.timesofisrael.com/avant-le-7-octobre-le-shin-bet-et-tsahal-avaient-averti-netanyahu-de-limminence-dune-attaque/)
+[[3]](#cite-FaPYG)[https://fr.timesofisrael.com/ava...](https://web.archive.org/web/20250327200207/https://fr.timesofisrael.com/avant-le-7-octobre-le-shin-bet-et-tsahal-avaient-averti-netanyahu-de-limminence-dune-attaque/)
 
-[[4]](#cite-Viyye)[https://fr.timesofisrael.com/dan...](https://fr.timesofisrael.com/danielle-aloni-ex-otage-avec-sa-fille-je-devais-choisir-la-facon-la-plus-facile-de-mourir/)
+[[4]](#cite-Viyye)[https://fr.timesofisrael.com/dan...](https://web.archive.org/web/20250209040201/https://fr.timesofisrael.com/danielle-aloni-ex-otage-avec-sa-fille-je-devais-choisir-la-facon-la-plus-facile-de-mourir/)

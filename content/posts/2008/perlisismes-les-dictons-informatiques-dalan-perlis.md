@@ -123,4 +123,4 @@ Vous trouverez encore sur [cette page quelques "perlisisms" en anglais](http://w
 
 ## Référence :
 
-1. Alan J. Perlis "[Epigrams on Programming](http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)", SIGPLAN Notices Vol. 17, No. 9, September 1982, pages 7 - 13 {{< altmetric doi="10.1145/947955.1083808" >}}
+1. Alan J. Perlis "[Epigrams on Programming](https://web.archive.org/web/20080120074855/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)", SIGPLAN Notices Vol. 17, No. 9, September 1982, pages 7 - 13 {{< altmetric doi="10.1145/947955.1083808" >}}

@@ -15,6 +15,6 @@ Si c'était vrai, vous auriez trouvé une référence à un article scientifique
 
 Un petit google vous conduit à ceci
 
-[https://www.webastro.net/forums/...](https://www.webastro.net/forums/topic/184000-fissure-de-la-lune-observable/)
+[https://www.webastro.net/forums/...](https://web.archive.org/web/20221229/https://www.webastro.net/forums/topic/184000-fissure-de-la-lune-observable/)
 
 Donc non, c'est faux.

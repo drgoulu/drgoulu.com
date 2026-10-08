@@ -15,7 +15,7 @@ coverImage: "./images/Scenario9.png"
 draft: true
 ---
 
-{{< figure src="./images/16523445a0b22fb5e789f30da8469b1d.jpg" alt="Les Limites à La Croissance (dans un monde fini)" link="http://openlibrary.org/books/OL25425763M/Les_Limites_à_La_Croissance_(dans_un_monde_fini)" >}}
+{{< figure src="./images/16523445a0b22fb5e789f30da8469b1d.jpg" alt="Les Limites à La Croissance (dans un monde fini)" link="https://web.archive.org/web/20140225/http://openlibrary.org/books/OL25425763M/Les_Limites_à_La_Croissance_(dans_un_monde_fini)" >}}
 
 En 1972, le [Club de Rome](w:) fut un précurseur de l'[écologisme](w:Écologisme#.C3.89cologie_et_.C3.A9cologisme) introduisant des notions comme l'empreinte écologique ou le développement durable\*. Une équipe du MIT fut mandatée pour réaliser des prévisions basées sur des simulations de plusieurs scénarios, et les résultats de cette étude furent publiés dans "Halte à la croissance ? : Rapport sur les limites de la croissance" [[1]](#ref-1), ouvrage qui eut un retentissement planétaire : la croissance des [Trente Glorieuses](w:) ne serait pas éternelle. Ce premier "rapport Meadows" du nom du couple d'auteurs fut suivi en 1992 d'un second, présenté comme une mise à jour des scénarios et baptisé "au delà des limites" [[2]](#ref-2) car il affirmait que l'humanité avait déjà dépassé la [capacité de charge](w:Capacité_porteuse) de la planète. La "mise à jour des 30 ans" de 2004 vient d'être traduite en français [[3]](#ref-3), et j'ai eu envie de le lire d'une part car je n'ai pas lu les précédents et d'autre part car [Jean-Marc Jancovici](/2009/02/15/manicore/) l'a préfacé. Comme en plus [Hervé](http://www.hervekabla.com/wordpress/dennis-meadows-universite-des-experts/) m'en a très aimablement fait cadeau, je l'ai lu. C'est un excellent bouquin, résultat d'un remarquable travail scientifique de modélisation et de simulation de la dynamique de l'écosystème. Et même si les auteurs partagent le pessimisme ambiant sur la capacité des humains à maîtriser les problèmes qu'ils créent, 30 ans de recul les ont également rendus attentifs à la difficulté de l'exercice, que Pierre Dac avait si bien résumé
 
@@ -58,9 +58,9 @@ Ca, c'est la première phrase du paragraphe suivant [http://vensim.com/free-down
 
 1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:0876631650" templatenumber="5" >}}
 2. <span id="ref-2"></span>{{< openbook booknumber="ISBN:0930031555" templatenumber="5" >}} (non traduit en français à ma connaissance)
-3. <span id="ref-3"></span>{{< openbook booknumber="ISBN:9782917770351" templatenumber="5" >}} [synopsis en anglais](http://www.sustainer.org/pubs/limitstogrowth.pdf)
-4. <span id="ref-4"></span>Graham Turner "[A Comparison of the Limits to Growth with Thirty Years of Reality](http://www.csiro.au/files/files/plje.pdf)", 2008 ,CSIRO Working Paper
+3. <span id="ref-3"></span>{{< openbook booknumber="ISBN:9782917770351" templatenumber="5" >}} [synopsis en anglais](https://web.archive.org/web/20130816024529/http://www.sustainer.org/pubs/limitstogrowth.pdf)
+4. <span id="ref-4"></span>Graham Turner "[A Comparison of the Limits to Growth with Thirty Years of Reality](https://web.archive.org/web/20140213005114/http://www.csiro.au/files/files/plje.pdf)", 2008 ,CSIRO Working Paper
 5. <span id="ref-5"></span>[http://www.slate.com/articles/business/project_syndicate/2013/06/climate_panic_ecological_collapse_is_not_upon_us_and_we_haven_t_run_out.html](http://www.slate.com/articles/business/project_syndicate/2013/06/climate_panic_ecological_collapse_is_not_upon_us_and_we_haven_t_run_out.html)
 6. <span id="ref-6"></span>[http://nextbigfuture.com/2013/06/limits-to-growth-30-year-update-claimed.html](http://nextbigfuture.com/2013/06/limits-to-growth-30-year-update-claimed.html)
-7. <span id="ref-7"></span>"[Le scénario de l’effondrement l’emporte - Interview de Dennis Meadows](http://www.liberation.fr/terre/2012/06/15/le-scenario-de-l-effondrement-l-emporte_826664)", Libération, 15 juin 2012
+7. <span id="ref-7"></span>"[Le scénario de l’effondrement l’emporte - Interview de Dennis Meadows](https://web.archive.org/web/20140327205645/http://www.liberation.fr/terre/2012/06/15/le-scenario-de-l-effondrement-l-emporte_826664)", Libération, 15 juin 2012
 8. <span id="ref-8"></span>https://interstices.info/jcms/ni\_77270/les-limites-de-la-croissance-dans-un-monde-fini

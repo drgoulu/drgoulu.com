@@ -25,7 +25,7 @@ Au début j'ai cru à un gag, puis à un moyen tordu de faire parler de soi, mai
 
 Si vous voulez vous préparer au pire, le [site des plaignants](http://www.lhcdefense.org/) vous dirigera vers d'autres, comme:
 
-- une véritable [caricature de pensée de cow-boy](http://www.misunderstooduniverse.com) intitulée "La France construit la machine de la Fin du Monde" dans laquelle, en plus, le CERN est soupçonné de produire assez d'antimatière pour détruire les environs (pas grave), mais surtout qu'elle pourrait être utilisée par des terroristes ! Et les commentaires sont du même niveau : lamentables.
+- une véritable [caricature de pensée de cow-boy](https://web.archive.org/web/20080425061219/http://www.misunderstooduniverse.com) intitulée "La France construit la machine de la Fin du Monde" dans laquelle, en plus, le CERN est soupçonné de produire assez d'antimatière pour détruire les environs (pas grave), mais surtout qu'elle pourrait être utilisée par des terroristes ! Et les commentaires sont du même niveau : lamentables.
 - [Unfication Theory](http://www.unificationtheory.com/god/CONCERN.html) propose un pavé indigeste démontrant que les gens du CERN ne connaissent rien à la physique et vont détruire le joli monde créé par Dieu Tout Puissant.
 - le site [notepad.ch](http://www.notepad.ch) (suisse!), dont l'auteur reprend par cut & paste des infos glanées sur le web et se fend même d'un commentaire sur [mon article consacré au LHC](/2008/04/06/plongee-dans-le-lhc-du-cern/)
 
@@ -36,7 +36,7 @@ De mon côté, je m'engage à ne plus jamais parler de physique si le LHC absorb
 A noter un site beaucoup plus sérieux, celui de la [lifeboat fundation](http://lifeboat.com/ex/main), qui étudie scientifiquement les risques menaçant l'humanité et de proposer des "shields", des protections. [Leur page sur le LHC](http://lifeboat.com/ex/particle.accelerator.shield) contient des informations et des liens très intéressants comme :
 
 - les vidéos officielles expliquant le fonctionnement d'[ATLAS sur YouTube](http://www.youtube.com/theATLASExperiment)
-- des [panorama du détecteur ATLAS](http://www.petermccready.com/portfolio/05091901.html) en construction
+- des [panorama du détecteur ATLAS](https://web.archive.org/web/20080419063555/http://www.petermccready.com/portfolio/05091901.html) en construction
 - la belle image ci-dessous, représentant la simulation de ce qu'ATLAS devrait détecter : la création d'un boson de Higgs à partir de l'énergie pure créée par le choc de deux protons.
 
 [![](./images/1825eeef1f95d9df6e868da6b7ae0da9.jpg)](http://en.wikipedia.org/wiki/File:CMS_Higgs-event.jpg)

@@ -14,6 +14,6 @@ coverImage: ./images/quora.png
 
 C'est l'histoire vraie de [Nadir Dendoune](w:).
 
-Lire [«Je ne savais pas grimper, ça les a un peu énervés»](https://www.liberation.fr/saison-en-hiver/2009/06/08/je-ne-savais-pas-grimper-ca-les-a-un-peu-enerves_562820)
+Lire [«Je ne savais pas grimper, ça les a un peu énervés»](https://web.archive.org/web/20190608112651/https://www.liberation.fr/saison-en-hiver/2009/06/08/je-ne-savais-pas-grimper-ca-les-a-un-peu-enerves_562820)
 
 Il est quand même pas mal sportif, a combiné le coup de bluff avec l'observation des autres, et eu de la chance avec la météo…

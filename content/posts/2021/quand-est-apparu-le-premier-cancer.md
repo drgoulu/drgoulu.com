@@ -22,7 +22,7 @@ On a trouvé des traces de cancer des os sur des fossiles de dinosaures et de to
 
 [Un cancer des os diagnostiqué pour la première fois sur un fossile de dinosaure](https://www.geo.fr/histoire/un-cancer-des-os-diagnostique-pour-la-premiere-fois-sur-un-fossile-de-dinosaure-201551)
 
-[Triassic Cancer—Osteosarcoma in a 240-Million-Year-Old Stem-Turtle](https://jamanetwork.com/journals/jamaoncology/fullarticle/2723578)
+[Triassic Cancer—Osteosarcoma in a 240-Million-Year-Old Stem-Turtle](https://web.archive.org/web/20201121060819/https://jamanetwork.com/journals/jamaoncology/fullarticle/2723578)
 
 Chez nos ancêtres, on a trouvé un cancer des os sur un fossile de 1.7 millions d'années.
 

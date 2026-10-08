@@ -12,6 +12,6 @@ tags:
 
 {{< youtube id="j50ZssEojtM" >}}
 
-et aussi de magnifiques images du CERN [en haute résolution ici:](http://www.boston.com/bigpicture/2008/08/the_large_hadron_collider.html)
+et aussi de magnifiques images du CERN [en haute résolution ici:](https://web.archive.org/web/20080805112849/http://www.boston.com/bigpicture/2008/08/the_large_hadron_collider.html)
 
 \[slideshare id=792633534435766241\]

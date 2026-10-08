@@ -13,7 +13,7 @@ tags:
 coverImage: "./images/8fa58f898c273fb172935b26de4e6aa21.gif"
 ---
 
-{{< figure src="./images/8fa58f898c273fb172935b26de4e6aa2.gif" alt="article0105-astrologie-2012" caption="Astromachin de 2012. Cliquez dessus pour un ramassis d'absurdités, si vous y tenez vraiment..." link="http://www.jupitair.org/articles_gany54.htm" width="245" >}}
+{{< figure src="./images/8fa58f898c273fb172935b26de4e6aa2.gif" alt="article0105-astrologie-2012" caption="Astromachin de 2012. Cliquez dessus pour un ramassis d'absurdités, si vous y tenez vraiment..." link="https://web.archive.org/web/20091216063535/http://www.jupitair.org/articles_gany54.htm" width="245" >}}
 
 D'après la [liste de prédictions de la fin du monde de la Wikipedia](w:Liste_de_prédictions_de_la_fin_du_monde), nous échappons à la fureur divine ou à un cataclysme cosmique définitif en moyenne tous les 3 ans. Mais en [2012](w:Fin_du_monde_en_2012), c'est du sérieux. Rendez-vous compte : le calendrier Maya arrive à échéance ! Ca vaut bien un film hollywoodesque et un buzz planétaire, non ?
 
@@ -44,12 +44,12 @@ Voilà donc pourquoi tant de gens lisent leur horoscope et flippent en attendant
 3. Choisissez une date de référence où l'Univers a commencé un nouveau cycle par un événement d'importance. Quel meilleur choix que ma date de naissance, le 25.12.1963 ?
 4. En ajoutant le nombre de jours calculés sous 2 à la date de référence choisie sous 3, vous obtiendrez la date à laquelle les astres choisis se retrouveront dans la même configuration les uns par rapport aux autres.
 
-L'Apocalypse selon Goulu aura donc lieu [**jeudi 20 février 12262**](https://www.wolframalpha.com/input/?i=date25%2F12%2F1963%2Blcm%28225%2C%2B365%2C%2B687%29days). Si ce jour là il ne se passe rien de spécial, promis je fais [comme Paco Rabanne](/2008/06/08/nostradamus-et-les-catastrophysiciens/) : plus de prédictions.
+L'Apocalypse selon Goulu aura donc lieu [**jeudi 20 février 12262**](https://web.archive.org/web/20231128135449/https://www.wolframalpha.com/input/?i=date25%2F12%2F1963%2Blcm%28225%2C%2B365%2C%2B687%29days). Si ce jour là il ne se passe rien de spécial, promis je fais [comme Paco Rabanne](/2008/06/08/nostradamus-et-les-catastrophysiciens/) : plus de prédictions.
 
 A part ça, 2012 sera effectivement une année assez rare : [le mois de février comptera 5 mercredis](http://oeis.org/A141039), ce qui n'est plus arrivé depuis [1984](w:1984_(roman)).
 
 ### Références
 
 1. <span id="ref-1"></span>préface de  “Johannes Kepler: Life and Letters”, Carola Baumgardt, New York, Philosophical Library, 1951.
-2. <span id="ref-2"></span>Denis Hamel "[Les grands esprits manipulés par les astrologues](http://www.sceptiques.qc.ca/assets/docs/qs57p31.pdf)", [Le Québec sceptique](http://www.sceptiques.qc.ca/) - Numéro 57
+2. <span id="ref-2"></span>Denis Hamel "[Les grands esprits manipulés par les astrologues](https://web.archive.org/web/20090509050805/http://www.sceptiques.qc.ca/assets/docs/qs57p31.pdf)", [Le Québec sceptique](http://www.sceptiques.qc.ca/) - Numéro 57
 3. <span id="ref-3"></span>[Einstein et l'astrologie](w:Albert_Einstein#Einstein_et_l.E2.80.99astrologie) sur Wikipedia

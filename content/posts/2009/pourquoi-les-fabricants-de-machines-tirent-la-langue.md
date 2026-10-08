@@ -56,11 +56,11 @@ Il existe plusieurs moyens de réduire, voire d'éliminer l'effet fouet, du moin
 ### Références
 
 1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:978-0915299881" templatenumber="5" >}}
-2. <span id="ref-2"></span>"[l’effet coup de fouet , une théorie économique qui explique le marasme horloger](http://archive.businessmontres.com/breve_612.htm)", 28 janvier 2009, sur Business Montres
+2. <span id="ref-2"></span>"[l’effet coup de fouet , une théorie économique qui explique le marasme horloger](https://web.archive.org/web/20150601044254/http://archive.businessmontres.com/breve_612.htm)", 28 janvier 2009, sur Business Montres
 3. <span id="ref-3"></span>[Effet de vague ou coup de fouet](http://chohmann.free.fr/production/bullwhip_fr.htm)
-4. <span id="ref-4"></span>Claude Balié "[Comment traiter l’Effet Coup de Fouet (Bullwhip Effect) dans une chaîne logistique?](http://www.al-consulting.com/lean/dataleanxpress/lxp3/lxp3cb.htm)"
-5. <span id="ref-5"></span>"[Présentation du Beer Game](http://www.copilotes.eu/files/Livrable_WG3_BeerGame.pdf)", 2004, site "[Copilotes](http://www.copilotes.eu/1-186-Cas-du-Beer-Game.php)"
+4. <span id="ref-4"></span>Claude Balié "[Comment traiter l’Effet Coup de Fouet (Bullwhip Effect) dans une chaîne logistique?](https://web.archive.org/web/20080617023655/http://www.al-consulting.com/lean/dataleanxpress/lxp3/lxp3cb.htm)"
+5. <span id="ref-5"></span>"[Présentation du Beer Game](https://web.archive.org/web/20160815152212/http://www.copilotes.eu/files/Livrable_WG3_BeerGame.pdf)", 2004, site "[Copilotes](https://web.archive.org/web/20080915094754/http://www.copilotes.eu/1-186-Cas-du-Beer-Game.php)"
 6. <span id="ref-6"></span>John D. Sterman " [Teaching Takes Off - Flight Simulators for Management Education - The Beer Game](http://web.mit.edu/jsterman/www/SDG/beergame.html)"  OR/MS Today, October 1992, 40-4
 7. <span id="ref-7"></span>[Beer Distribution Game](w:en) sur Wikipedia
-8. <span id="ref-8"></span>[BeerGame sur MIT forum](http://supplychain.mit.edu/games/beer-game) : pour jouer en ligne
-9. <span id="ref-9"></span>Mark Kimura, "[A Numerical Solution to The Beer Distribution Game with Limited Visibility Using Agent Based Models](http://beergame.mkimura.com/)"
+8. <span id="ref-8"></span>[BeerGame sur MIT forum](https://web.archive.org/web/20101115045710/http://supplychain.mit.edu/games/beer-game) : pour jouer en ligne
+9. <span id="ref-9"></span>Mark Kimura, "[A Numerical Solution to The Beer Distribution Game with Limited Visibility Using Agent Based Models](https://web.archive.org/web/20090213230949/http://beergame.mkimura.com/)"

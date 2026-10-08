@@ -22,7 +22,7 @@ Votre citation est incorrecte. Voilà la bonne:
 >
 >
 >
-> ([Page:Pascal - Pensées, édition de Port-Royal, 1670.djvu/120](https://fr.wikisource.org/wiki/Page:Pascal_-_Pensées,_édition_de_Port-Royal,_1670.djvu/120))
+> ([Page:Pascal - Pensées, édition de Port-Royal, 1670.djvu/120](https://web.archive.org/web/20191125/https://fr.wikisource.org/wiki/Page:Pascal_-_Pensées,_édition_de_Port-Royal,_1670.djvu/120))
 
 La première partie explique la seconde : c'est la charrue avant les boeufs. La religion dit que c'est comme ça, alors ah oui, ça semble vrai. Superbe exemple de biais de confirmation.
 

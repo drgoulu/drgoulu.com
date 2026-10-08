@@ -40,4 +40,4 @@ En combinant ces méthodes, on a notamment daté le [Cratère de Chicxulub](w:)"
 
 De même, l'[Âge de la Terre](w:)(4,543 milliards d'années) est aujourd'hui connu avec une précision d'environ 1% en combinant plusieurs méthodes et mesures distinctes
 
-En passant, il existe des rapports isotopiques influencés par la température, ce qui permet de reconstituer le climat à partir de carottes de glace, mais aussi des carbonates des roches calcaires. (voir [Thermomètre isotopique à oxygène](https://planet-terre.ens-lyon.fr/))
+En passant, il existe des rapports isotopiques influencés par la température, ce qui permet de reconstituer le climat à partir de carottes de glace, mais aussi des carbonates des roches calcaires. (voir [Thermomètre isotopique à oxygène](https://web.archive.org/web/20230228044144/https://planet-terre.ens-lyon.fr/))

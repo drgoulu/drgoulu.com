@@ -24,7 +24,7 @@ Le ministre Suisse des affaires étrangères suit donc une approche indirecte :
 
 > Ignazio Cassis a souligné l'importance de la participation aux négociations du Brésil, de l'Inde et de l'Afrique du Sud, qui siègent aux côtés de la Russie au sein des BRICS. *"Leur implication est très importante car ils dialoguent avec Moscou et conservent avec lui un certain degré de confiance",* a-t-il expliqué. *"Il nous faudra d'une manière ou d'une autre trouver un chemin pour inclure la Russie. Il n'y aura pas de paix sans que la Russie ait son mot à dire"*, a insisté le conseiller fédéral suisse Cassis. *"Mais cela ne signifie pas que nous devrions (...) attendre que la Russie fasse quelque chose. Chaque minute, des dizaines de civils en Ukraine sont tués ou blessés. Nous n'avons pas le droit d'attendre éternellement".*
 
-[https://information.tv5monde.com...](https://information.tv5monde.com/direct/direct-plus-de-80-pays-reunis-en-suisse-pour-discuter-de-la-formule-de-paix-ukrainienne)
+[https://information.tv5monde.com...](https://web.archive.org/web/20240227063357/https://information.tv5monde.com/direct/direct-plus-de-80-pays-reunis-en-suisse-pour-discuter-de-la-formule-de-paix-ukrainienne)
 
 Notes de bas de page
 

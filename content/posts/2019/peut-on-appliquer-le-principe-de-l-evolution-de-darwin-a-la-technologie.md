@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui, il y a des [Algorithme génétique](w:) permettant d'optimiser des bidules.
 
-Ma demo préférée est là : [HTML5 Genetic Algorithm 2D Car Thingy](https://rednuht.org/genetic_cars_2/)
+Ma demo préférée est là : [HTML5 Genetic Algorithm 2D Car Thingy](https://web.archive.org/web/20191119024313/https://rednuht.org/genetic_cars_2/)

@@ -32,6 +32,6 @@ Pourquoi ?
 
 Notes de bas de page
 
-[[1]](#cite-mNxMa)[Finding the potential energy of a geosynchronous satellite above earth](https://physics.stackexchange.com/questions/149271/finding-the-potential-energy-of-a-geosynchronous-satellite-above-earth)
+[[1]](#cite-mNxMa)[Finding the potential energy of a geosynchronous satellite above earth](https://web.archive.org/web/20170622235436/https://physics.stackexchange.com/questions/149271/finding-the-potential-energy-of-a-geosynchronous-satellite-above-earth)
 
-[[2]](#cite-GhSVo)[Why is using a space elevator cheaper than rocket power?](https://space.stackexchange.com/questions/30469/why-is-using-a-space-elevator-cheaper-than-rocket-power)
+[[2]](#cite-GhSVo)[Why is using a space elevator cheaper than rocket power?](https://web.archive.org/web/20230401140509/https://space.stackexchange.com/questions/30469/why-is-using-a-space-elevator-cheaper-than-rocket-power)

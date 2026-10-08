@@ -22,4 +22,4 @@ Le calcul montre qu'il y en a un peu plus dans les couches profondes, mais toujo
 
 Le Soleil n'est composé qu'à 0.2% d'autre chose que d'hydrogène (92%) ou d'hélium (7.8%). Dans les étoiles connues à forte [Métallicité](w:), cette proportion augmente à 2% seulement.
 
-[https://craq-astro.ca/phy1971/ch...](https://craq-astro.ca/phy1971/chap18/chap18b.html?hl=fr-CH)
+[https://craq-astro.ca/phy1971/ch...](https://web.archive.org/web/20240829/https://craq-astro.ca/phy1971/chap18/chap18b.html?hl=fr-CH)

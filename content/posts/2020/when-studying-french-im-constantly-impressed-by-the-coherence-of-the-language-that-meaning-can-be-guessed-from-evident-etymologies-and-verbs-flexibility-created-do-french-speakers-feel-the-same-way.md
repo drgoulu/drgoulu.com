@@ -15,7 +15,7 @@ coverImage: ./images/quora.png
 
 Well that’s not very surprising since 29% of English words come from French and another 29% from Latin, …
 
-[The English language is a lot more French than we thought, here’s why](https://medium.com/@andreas_simons/the-english-language-is-a-lot-more-french-than-we-thought-heres-why-4db2db3542b3)
+[The English language is a lot more French than we thought, here’s why](https://web.archive.org/web/20200127112012/https://medium.com/@andreas_simons/the-english-language-is-a-lot-more-french-than-we-thought-heres-why-4db2db3542b3)
 
 Ever heard a French scientist speaking English by translating almost word to word ? Check for example The Nobel Prize talk given by Michel Mayor (who is Swiss, by the way…)
 

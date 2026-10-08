@@ -17,4 +17,4 @@ Votre salaire devrait être de l'ordre de 2000 euros selon
 
 Mais vous ne pourrez pas vivre avec ça a Genève.
 
-Comme vous êtes dans une branche très demandée, demandez au moins le [Salaire minimum dans le canton de Genève](https://www.eda.admin.ch/missions/mission-onu-geneve/fr/home/manuel-application-regime/introduction/manuel-droit-travail/Salaire-minimum-dans-le-canton-de-Geneve.html) qui est de l'ordre de 4000 euro à plein temps. Avec ça vous pourrez vivre dans une colloc d'étudiants sans faire de folies.
+Comme vous êtes dans une branche très demandée, demandez au moins le [Salaire minimum dans le canton de Genève](https://web.archive.org/web/20230609053628/https://www.eda.admin.ch/missions/mission-onu-geneve/fr/home/manuel-application-regime/introduction/manuel-droit-travail/Salaire-minimum-dans-le-canton-de-Geneve.html) qui est de l'ordre de 4000 euro à plein temps. Avec ça vous pourrez vivre dans une colloc d'étudiants sans faire de folies.

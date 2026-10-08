@@ -15,4 +15,4 @@ Juste du temps.
 
 La moitié des pays africains a désormais franchi la [Transition démographique](w:).
 
-Le prochain [Siècle sera africain](https://www.imf.org/fr/Publications/fandd/issues/2023/09/PT-african-century)
+Le prochain [Siècle sera africain](https://web.archive.org/web/20240909061744/https://www.imf.org/fr/Publications/fandd/issues/2023/09/PT-african-century)

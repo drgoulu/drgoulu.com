@@ -16,4 +16,4 @@ Il existe des pays décentralisés, qui fonctionnent très bien merci.
 
 Au point qu'ils essaient de promouvoir la décentralisation dans l'aide au développement et la coopération.
 
-[https://www.eda.admin.ch/deza/fr...](https://www.eda.admin.ch/deza/fr/home/themes-ddc/reformes-etat-economie/decentralisation.html)
+[https://www.eda.admin.ch/deza/fr...](https://web.archive.org/web/20240701143205/https://www.eda.admin.ch/deza/fr/home/themes-ddc/reformes-etat-economie/decentralisation.html)

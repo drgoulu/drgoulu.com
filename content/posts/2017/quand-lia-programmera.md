@@ -19,7 +19,7 @@ Comme Alexandre est mon "+2", je me suis fait un peu mousser en commentant:
 
 > la Singularité est proche... Après le Go et la médecine, il ne reste plus à l'AI qu'à apprendre la quintessence de l'abstraction créative humaine : programmer ;-)
 
-S'en est suivi une intéressante discussion au coin café, et une [sur twitter](https://twitter.com/goulu/status/884485914088660992) où j'ai essayé d'exposer mon point de vue:
+S'en est suivi une intéressante discussion au coin café, et une [sur twitter](https://web.archive.org/web/20170830/https://twitter.com/goulu/status/884485914088660992) où j'ai essayé d'exposer mon point de vue:
 
 - l'[intelligence artificielle](w:) fait des progrès fulgurants dans beaucoup de domaines qu'on pensait à l'abri de l'automatisation,
 - mais paradoxalement elle n'est que très peu utilisée en développement logiciel, notamment pour programmer, même pour "[pisser des lignes](https://fr.wiktionary.org/wiki/pisser_des_lignes_de_code)" .

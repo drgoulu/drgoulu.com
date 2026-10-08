@@ -20,4 +20,4 @@ La pression due aux 10m d'eau oui, mais la pression atmosphérique est plus bass
 
 Mais la solubilité de l'azote dans le sang étant plus basse en altitude, le risque d'accident de décompression est plus élevé qu'en mer ! ( [Plongée en altitude — Wikipédia](w:Plongée_en_altitude) )
 
-Il faut d'ailleurs faire attention à ça aussi en prenant l'avion après des vacances de plongée. En principe on ne plonge pas le dernier jour… ([Scubapedia:Avion apres la plongee](http://www.scubapedia.ca/index.php/Article:Avion_apres_la_plongee))
+Il faut d'ailleurs faire attention à ça aussi en prenant l'avion après des vacances de plongée. En principe on ne plonge pas le dernier jour… ([Scubapedia:Avion apres la plongee](https://web.archive.org/web/20170922112427/http://www.scubapedia.ca/index.php/Article:Avion_apres_la_plongee))

@@ -24,4 +24,4 @@ L'[Acidification des océans](w:) est donc un problème au moins aussi grave que
 
 Notes de bas de page
 
-[[1]](#cite-YOwPt)[Des îles hautes aux atolls : une histoire du plancher océanique](http://planet-terre.ens-lyon.fr/article/ile-haute-atoll.xml)
+[[1]](#cite-YOwPt)[Des îles hautes aux atolls : une histoire du plancher océanique](https://web.archive.org/web/20190611153856/http://planet-terre.ens-lyon.fr/article/ile-haute-atoll.xml)

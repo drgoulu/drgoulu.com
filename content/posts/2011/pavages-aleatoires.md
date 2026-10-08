@@ -42,7 +42,7 @@ Pour ma part, j'ai réalisé la petite application ci-dessous en [Processing](ht
 
 <iframe src="https://openprocessing.org/sketch/40422/embed/?plusEmbedHash=e6247168&userID=573&plusEmbedTitle=true&show=sketch" width="640" height="640"></iframe>
 
-*(Applet p5.js disponible sur [OpenProcessing](https://openprocessing.org/@Goulu/40422) ou [GitHub Pages](https://goulu.github.io/processing/src/RandomTiling/) • Code source sur [GitHub](https://github.com/goulu/processing/tree/main/src/RandomTiling/))*  
+*(Applet p5.js disponible sur [OpenProcessing](https://web.archive.org/web/20111003/https://openprocessing.org/@Goulu/40422) ou [GitHub Pages](https://goulu.github.io/processing/src/RandomTiling/) • Code source sur [GitHub](https://github.com/goulu/processing/tree/main/src/RandomTiling/))*  
 
 En pressant sur les touches 0,1,3,4,5,6 vous pouvez changer la forme des pavés à la volée, et la touche espace relance un pavage. Contrairement à Shier et Bourke, je ne pave pas un tore mais un rectangle, en prenant garde à ce que les pavés ne soient pas "coupés" par les bords. En plus je me suis amusé à implémenter les pavés en forme d'étoiles, en prévision d'une carte de Noël. Mignon, n'est-ce pas ? Bon, il reste pas mal de noir car la détection d'intersection entre étoiles est très lente, il faudrait améliorer ça.
 
@@ -61,9 +61,9 @@ Une autre amélioration intéressante serait de remplir l'intérieur des pavés 
 
 ### Références:
 
-1. <span id="ref-1"></span>Thérèse Eveilleau ["Les 17 types de pavage](http://therese.eveilleau.pagesperso-orange.fr/pages/jeux_mat/textes/pavage_17_types.htm)" avec animations flash
+1. <span id="ref-1"></span>Thérèse Eveilleau ["Les 17 types de pavage](https://web.archive.org/web/20120127051146/http://therese.eveilleau.pagesperso-orange.fr/pages/jeux_mat/textes/pavage_17_types.htm)" avec animations flash
 2. <span id="ref-2"></span>Xavier Hubaut "[Pavages du plan](http://xavier.hubaut.info/coursmath/doc/pavages.htm)"
-3. <span id="ref-3"></span>John Shier "[Filling Space with Random Fractal Non-Overlapping Simple Shapes](http://paulbourke.net/texture_colour/randomtile/paper.pdf)", Hyperseeing, summer 2011 issue, pp. 131-140, published by ISAMA (International Society of the Arts, Mathematics, and Architecture).
+3. <span id="ref-3"></span>John Shier "[Filling Space with Random Fractal Non-Overlapping Simple Shapes](https://web.archive.org/web/20111009143923/http://paulbourke.net/texture_colour/randomtile/paper.pdf)", Hyperseeing, summer 2011 issue, pp. 131-140, published by ISAMA (International Society of the Arts, Mathematics, and Architecture).
 4. <span id="ref-4"></span>John Shier "[Statistical Geometry"](http://john-art.com/stat_geom.html)
-5. <span id="ref-5"></span>Paul Bourke "[Random space filling tiling of the plane](http://paulbourke.net/texture_colour/randomtile/)", July 2011
+5. <span id="ref-5"></span>Paul Bourke "[Random space filling tiling of the plane](https://web.archive.org/web/20111005172921/http://paulbourke.net/texture_colour/randomtile/)", July 2011
 

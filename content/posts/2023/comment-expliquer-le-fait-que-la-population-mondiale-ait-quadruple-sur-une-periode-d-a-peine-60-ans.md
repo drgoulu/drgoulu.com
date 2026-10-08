@@ -19,6 +19,6 @@ Le temps que les femmes soient suffisamment éduquées pour s'en apercevoir et f
 
 Maintenant la population augmente aussi parce qu'il y a moins de morts : l'espérance de vie augmente partout.
 
-Tout ça est magnifiquement expliqué dans les conférences du regretté Hans Rosling que je vous recommande vivement, par exemple [celle là](https://www.ted.com/talks/hans_rosling_global_population_growth_box_by_box)
+Tout ça est magnifiquement expliqué dans les conférences du regretté Hans Rosling que je vous recommande vivement, par exemple [celle là](https://web.archive.org/web/20230215204153/https://www.ted.com/talks/hans_rosling_global_population_growth_box_by_box)
 
-[https://www.ted.com/talks/hans_r...](https://www.ted.com/talks/hans_rosling_global_population_growth_box_by_box)
+[https://www.ted.com/talks/hans_r...](https://web.archive.org/web/20230215204153/https://www.ted.com/talks/hans_rosling_global_population_growth_box_by_box)

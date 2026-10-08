@@ -22,6 +22,6 @@ sur cette image, vous voyez que les températures moyennes sur les 10 dernières
 
 ![](./images/qimg-72ba55d7ef9805a19fa542e02471c667.jpg)
 
-Source : [https://data.giss.nasa.gov/giste...](https://data.giss.nasa.gov/gistemp/maps/index_v4.html)
+Source : [https://data.giss.nasa.gov/giste...](https://web.archive.org/web/20211024050929/https://data.giss.nasa.gov/gistemp/maps/index_v4.html)
 
 Si vous la visitez, vous pouvez voir les écarts enregistrés le mois passé par rapport à la moyenne de 1951–1980 , et vous pouvez réaliser vos propres comparaisons.

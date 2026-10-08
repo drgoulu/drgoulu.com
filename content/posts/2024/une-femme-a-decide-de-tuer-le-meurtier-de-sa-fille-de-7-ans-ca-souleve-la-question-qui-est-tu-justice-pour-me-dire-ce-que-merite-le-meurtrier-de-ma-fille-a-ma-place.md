@@ -19,4 +19,4 @@ C'est déjà arrivé.
 
 [https://www.20minutes.fr/monde/4...](https://www.20minutes.fr/monde/4059100-20231023-algerie-avoir-lynche-innocent-38-personnes-condamnees-mort)
 
-[https://www.lepoint.fr/monde/fra...](https://www.lepoint.fr/monde/francais-lynches-a-madagascar-sebastien-judalet-etait-innocent-22-10-2013-1746835_24.php#11)
+[https://www.lepoint.fr/monde/fra...](https://web.archive.org/web/20250715074212/https://www.lepoint.fr/monde/francais-lynches-a-madagascar-sebastien-judalet-etait-innocent-22-10-2013-1746835_24.php#11)

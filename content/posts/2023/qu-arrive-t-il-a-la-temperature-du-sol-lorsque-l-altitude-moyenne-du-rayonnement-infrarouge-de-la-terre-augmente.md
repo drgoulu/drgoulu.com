@@ -44,4 +44,4 @@ Si on observe dans la bande de fréquence correspondant à la vapeur d'eau (le p
 
 le cours d'où sont tirées les images et légendes ci dessus est passionnant :
 
-[https://planet-terre.ens-lyon.fr...](https://planet-terre.ens-lyon.fr/ressource/rayonnement-effet-de-serre.xml)
+[https://planet-terre.ens-lyon.fr...](https://web.archive.org/web/20230328120015/https://planet-terre.ens-lyon.fr/ressource/rayonnement-effet-de-serre.xml)

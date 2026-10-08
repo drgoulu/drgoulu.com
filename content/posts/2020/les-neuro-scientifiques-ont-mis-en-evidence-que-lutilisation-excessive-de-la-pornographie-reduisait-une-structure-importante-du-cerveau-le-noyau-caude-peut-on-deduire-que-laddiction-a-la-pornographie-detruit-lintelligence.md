@@ -22,7 +22,7 @@ Vous pouvez regarder du porno toute rassurée. Et comme toute bonne chose de la 
 
 Re-citation de l'article d'origine :
 
-Kühn, S., & Gallinat, J. (2014). [Brain structure and functional connectivity associated with pornography consumption the brain on porn](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1874574). JAMA Psychiatry, 71(7), 827–834.
+Kühn, S., & Gallinat, J. (2014). [Brain structure and functional connectivity associated with pornography consumption the brain on porn](https://web.archive.org/web/20200629080229/https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1874574). JAMA Psychiatry, 71(7), 827–834.
 
 Vous pouvez consulter [https://scholar.google.com/schol...](https://scholar.google.com/scholar?cites=5146503379604521202&as_sdt=2005&sciodt=0,5&hl=fr) pour les 192 articles qui se réfèrent à celui-là. Je viens de le faire et aucun ne mentionne "intelligence" dans le titre.
 

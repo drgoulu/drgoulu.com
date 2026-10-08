@@ -30,4 +30,4 @@ Pour la croissance, c'est la même que Ferrari[[1]](#pJFjN) : les gens qui ont d
 
 Notes de bas de page
 
-[[1]](#cite-pJFjN)[Ferrari augmente sa capacité de production à 9 000 unités](https://franceracing.fr/automobile/ferrari-augmente-capacite-de-production-a-9-000-unites)
+[[1]](#cite-pJFjN)[Ferrari augmente sa capacité de production à 9 000 unités](https://web.archive.org/web/20220817124840/https://franceracing.fr/automobile/ferrari-augmente-capacite-de-production-a-9-000-unites)

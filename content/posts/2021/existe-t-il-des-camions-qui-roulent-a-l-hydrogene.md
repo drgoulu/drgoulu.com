@@ -15,4 +15,4 @@ En Suisse oui. Les deux principales chaînes de supermarchés ont investi dans d
 
 C'est intéressant, les camions ne gonflent leur réservoir qu'à 350 bars, contre 700 pour les voitures (le revendeur Toyota à côté essaie de vendre des Mirai…) ça leur donne une autonomie de 400km en charge seulement, mais c'est assez pour aller d'un dépôt à un supermarché. Sans taxes…
 
-[Des entreprises suisses écrivent l’histoire de la mobilité - Förderverein H2 Mobilität Schweiz](https://h2mobilitaet.ch/fr/des-entreprises-suisses-ecrivent-lhistoire-de-la-mobilite/)
+[Des entreprises suisses écrivent l’histoire de la mobilité - Förderverein H2 Mobilität Schweiz](https://web.archive.org/web/20211201/https://h2mobilitaet.ch/fr/des-entreprises-suisses-ecrivent-lhistoire-de-la-mobilite/)

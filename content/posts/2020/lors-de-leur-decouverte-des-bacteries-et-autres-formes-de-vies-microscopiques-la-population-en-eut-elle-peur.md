@@ -28,4 +28,4 @@ Notes de bas de page
 
 [[1]](#cite-bvMuM)[Planète de virus - Pourquoi Comment Combien](/2016/03/28/planete-de-virus/)
 
-[[2]](#cite-FfEyJ)[Combien le corps humain renferme-t-il de bactéries ?](https://www.lemonde.fr/blog/realitesbiomedicales/2016/01/11/combien-le-corps-humain-renferme-t-il-de-bacteries/)
+[[2]](#cite-FfEyJ)[Combien le corps humain renferme-t-il de bactéries ?](https://web.archive.org/web/20201112014950/https://www.lemonde.fr/blog/realitesbiomedicales/2016/01/11/combien-le-corps-humain-renferme-t-il-de-bacteries/)

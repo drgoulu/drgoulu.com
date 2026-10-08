@@ -22,7 +22,7 @@ En 1800 , [William Herschel](w:) eut l'idée bizarre de placer des thermomètres
 
 ![](./images/qimg-899e519e5995d87a7e4f3d6e45f2e82f.gif)
 
-(Petite expérience sympa à faire en classe: [Herschel Infrared Experiment - an Example](http://coolcosmos.ipac.caltech.edu/cosmic_classroom/classroom_activities/herschel_example.html) )
+(Petite expérience sympa à faire en classe: [Herschel Infrared Experiment - an Example](https://web.archive.org/web/20190723124241/http://coolcosmos.ipac.caltech.edu/cosmic_classroom/classroom_activities/herschel_example.html) )
 
 La [découverte des ultraviolets](w:Ultraviolet) a eu lieu l'année suivante, en 1801 quand [Johann Wilhelm Ritter](w:) fit la même expérience avec un papier imbibé de [Chlorure d'argent](w:) qui noircit à la lumière (ce qui permettra de faire des films photographiques) et s'aperçoit que le papier noircit dans la partie invisible à côté du bleu. Il nomme ces rayons invisible "rayonnement oxydant" à cause de leur effet sur des molécules chimiques.
 

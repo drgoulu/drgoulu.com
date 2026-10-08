@@ -24,4 +24,4 @@ Sinon Stephen Hawking n aurait pas participé à 7 épisodes. Bon dans l'un il r
 
 Notes de bas de page
 
-[[1]](#cite-TPNjf)[Do Sheldon's equations reflect real math/physics research?](https://movies.stackexchange.com/questions/1685/do-sheldons-equations-reflect-real-math-physics-research)
+[[1]](#cite-TPNjf)[Do Sheldon's equations reflect real math/physics research?](https://web.archive.org/web/20210104171557/https://movies.stackexchange.com/questions/1685/do-sheldons-equations-reflect-real-math-physics-research)

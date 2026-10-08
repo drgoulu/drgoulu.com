@@ -21,7 +21,7 @@ coverImage: ./images/quora.png
 Sachant que :
 
 1. on connaît déjà la plupart des géocroiseurs, et que le plus grand [(1036) Ganymède](w:) fait ne fait “que” 35 km
-2. leurs orbites sont connues plusieurs années à l’avance et surveillées en temps réel et les dangers publiés en plusieurs endroits comme la [Risk Page de l’ESA](http://neo.ssa.esa.int/risk-page)
+2. leurs orbites sont connues plusieurs années à l’avance et surveillées en temps réel et les dangers publiés en plusieurs endroits comme la [Risk Page de l’ESA](https://web.archive.org/web/20190504145336/http://neo.ssa.esa.int/risk-page)
 3. probablement 10′000 personnes sur Terre dans une vingtaine de pays, astronomes amateurs compris, sont capables de voir arriver un caillou de 100 km un an à l’avance,
 
 je dirais qu’il n’y a aucune chance de garder ça secret et qu’il n’y a plus qu’à gérer la panique en organisant une méga teuf planétaire d’une année avec sexe, drogue et rock & roll à gogo. [Always Look on the Bright Side of Life](w:) …

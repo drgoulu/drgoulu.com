@@ -30,4 +30,4 @@ On peut identifier l'origine ethnique par analyse de l'ADN et notamment des [Hap
 
 Notes de bas de page
 
-[[1]](#cite-BnkPh)[https://www.medecinesfax.org/use...](https://www.medecinesfax.org/useruploads/files/article01-34.pdf)
+[[1]](#cite-BnkPh)[https://www.medecinesfax.org/use...](https://web.archive.org/web/20230321203525/https://www.medecinesfax.org/useruploads/files/article01-34.pdf)

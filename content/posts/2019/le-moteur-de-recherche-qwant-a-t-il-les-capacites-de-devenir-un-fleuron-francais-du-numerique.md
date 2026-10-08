@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Qui est le client ? Quel est le buisiness model ?
 
-Selon [Startup Of The Week: Qwant](https://innovator.news/startup-of-the-week-qwant-2b723b1875fd) ([Startup Of The Week: Qwant](https://innovator.news/startup-of-the-week-qwant-2b723b1875fd)) :
+Selon [Startup Of The Week: Qwant](https://web.archive.org/web/20190816/https://innovator.news/startup-of-the-week-qwant-2b723b1875fd) ([Startup Of The Week: Qwant](https://web.archive.org/web/20190816/https://innovator.news/startup-of-the-week-qwant-2b723b1875fd)) :
 
 > Its business model is based on general advertisements, the same business model that Google used when it first launched.
 

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ça dépend où, le niveau de formation, l'expérience etc.
 
-Regardez sur [Salarium](https://www.gate.bfs.admin.ch/salarium/public/index.html#/calculation)
+Regardez sur [Salarium](https://web.archive.org/web/20201004194333/https://www.gate.bfs.admin.ch/salarium/public/index.html#/calculation)

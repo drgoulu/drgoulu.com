@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Que-pensez-vous-du-projet-Euler/answer/Dr-Goulu)*
 
-J'ai bien aimé au début, quand on pouvait résoudre des problèmes en se cassant juste un peu la tête sur un algo efficace à programmer. J'ai développé une bonne partie de [Goulu.math2](https://goulib.readthedocs.io/en/latest/modules/Goulib.math2.html) en résolvant ces problèmes
+J'ai bien aimé au début, quand on pouvait résoudre des problèmes en se cassant juste un peu la tête sur un algo efficace à programmer. J'ai développé une bonne partie de [Goulu.math2](https://web.archive.org/web/20211205120258/https://goulib.readthedocs.io/en/latest/modules/Goulib.math2.html) en résolvant ces problèmes
 
 [https://www.drgoulu.com/2009/02/...](/2009/02/24/project_euler/)
 

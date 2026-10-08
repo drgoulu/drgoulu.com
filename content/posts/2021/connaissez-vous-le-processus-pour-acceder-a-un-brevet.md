@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Pour accéder à un brevet existant ? Essayez [https://patents.google.com/](https://patents.google.com/)
 
-ou [https://worldwide.espacenet.com/](https://worldwide.espacenet.com/)
+ou [https://worldwide.espacenet.com/](https://web.archive.org/web/20211120030541/https://worldwide.espacenet.com/)
 
 Pour obtenir un brevet pour votre invention ? Adressez-vous à votre office des brevets national, l'INPI pour la France. Lisez
 

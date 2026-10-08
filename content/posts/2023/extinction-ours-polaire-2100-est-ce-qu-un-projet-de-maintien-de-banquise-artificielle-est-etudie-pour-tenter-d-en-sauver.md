@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Pourquoi pour l'ours polaire et pas pour les 42000 espèces menacées actuellement ?
 
-[https://www.iucnredlist.org/](https://www.iucnredlist.org/)
+[https://www.iucnredlist.org/](https://web.archive.org/web/20230904202611/https://www.iucnredlist.org/)
 
 L'ours blanc est classé seulement "Vulnérable" par l'UICN, il n'est même pas (encore) dans les 42000 espèces en danger ou en danger critique. C'est juste une "espèce emblématique" parce que vous en aviez une peluche, mais pourquoi aurait il plus de valeur que l'[Érione à robe noire](w:)?
 

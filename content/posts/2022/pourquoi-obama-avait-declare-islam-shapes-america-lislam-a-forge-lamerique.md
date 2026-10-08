@@ -17,4 +17,4 @@ Lors d'un discours à l'université du Caire il a dit:
 
 Ca change quand même pas mal de choses, non ?
 
-[https://www.reuters.com/article/...](https://www.reuters.com/article/uk-factcheck-obama-muslims-fabric-nation-idUSKCN2501YO)
+[https://www.reuters.com/article/...](https://web.archive.org/web/20230127230826/https://www.reuters.com/article/uk-factcheck-obama-muslims-fabric-nation-idUSKCN2501YO)

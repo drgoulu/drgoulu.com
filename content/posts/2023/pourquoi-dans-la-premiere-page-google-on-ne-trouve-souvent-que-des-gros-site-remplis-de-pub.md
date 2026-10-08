@@ -15,4 +15,4 @@ Parce que c'est comme ça que Google gagne de l'argent.
 
 Google est la plus grande agence publicitaire du monde.
 
-[https://fourweekmba.com/fr/mod%C...](https://fourweekmba.com/fr/modèle-commercial-de-Google/)
+[https://fourweekmba.com/fr/mod%C...](https://web.archive.org/web/20231208125223/https://fourweekmba.com/fr/modèle-commercial-de-Google/)

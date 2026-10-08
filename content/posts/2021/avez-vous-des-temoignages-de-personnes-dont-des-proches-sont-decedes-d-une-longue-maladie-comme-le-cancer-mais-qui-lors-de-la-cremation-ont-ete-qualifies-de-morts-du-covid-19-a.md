@@ -15,4 +15,4 @@ Sur 5.2 millions de morts, ça a du arriver quelques milliers de fois.
 
 Et dans environ 500 mille cas, ça a été le contraire.
 
-[https://www.nytimes.com/interact...](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html)
+[https://www.nytimes.com/interact...](https://web.archive.org/web/20211129005217/https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html)

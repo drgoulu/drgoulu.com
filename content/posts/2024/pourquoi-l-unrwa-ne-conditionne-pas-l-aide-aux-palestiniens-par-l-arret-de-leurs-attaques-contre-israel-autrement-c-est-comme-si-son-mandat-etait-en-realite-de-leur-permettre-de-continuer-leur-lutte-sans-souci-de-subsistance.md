@@ -30,4 +30,4 @@ Donc voilà, si vous voulez inclure l'arrêt des hostilités dans leur mandat, v
 
 Notes de bas de page
 
-[[1]](#cite-MCCSU)[https://www.unrwa.org/what-manda...](https://www.unrwa.org/what-mandate-unrwa-0)
+[[1]](#cite-MCCSU)[https://www.unrwa.org/what-manda...](https://web.archive.org/web/20240701113804/https://www.unrwa.org/what-mandate-unrwa-0)

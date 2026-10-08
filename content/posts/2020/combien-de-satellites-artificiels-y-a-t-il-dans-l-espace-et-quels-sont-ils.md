@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Combien-de-satellites-artificiels-y-a-t-il-dans-lespace-Et-quels-sont-ils/answer/Dr-Goulu)*
 
-2630 en janvier 2020 selon [Combien y a-t-il de satellites au-dessus de nos têtes ? - Ça m'intéresse](https://www.caminteresse.fr/economie-societe/combien-y-a-t-il-de-satellites-au-dessus-de-nos-tetes-1163438/), et environ 7000 morceaux de fusées et autres débris.
+2630 en janvier 2020 selon [Combien y a-t-il de satellites au-dessus de nos têtes ? - Ça m'intéresse](https://web.archive.org/web/20200402/https://www.caminteresse.fr/economie-societe/combien-y-a-t-il-de-satellites-au-dessus-de-nos-tetes-1163438/), et environ 7000 morceaux de fusées et autres débris.
 
 Donc disons 10'000 objets sur des orbites allant de 300km à 36'000 km , ça en ferait moins de 1 par 3 km d'altitude, mais il y a des orbites plus fréquentées que d'autres.
 

@@ -19,4 +19,4 @@ Ensuite pour la densité, on divise la masse par le volume, et quand on trouve 1
 
 Notes de bas de page
 
-[[1]](#cite-dLLqc)[Comment on mesure la masse des planètes ?](http://www.linternaute.com/science/espace/comment/06/masse-planetes/masse-planetes.shtml)
+[[1]](#cite-dLLqc)[Comment on mesure la masse des planètes ?](https://web.archive.org/web/20210102140144/http://www.linternaute.com/science/espace/comment/06/masse-planetes/masse-planetes.shtml)

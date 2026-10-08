@@ -12,7 +12,7 @@ coverImage: "./images/ddcb98b24a74b469213b5961aee81918.jpg"
 
 {{< figure src="./images/ddcb98b24a74b469213b5961aee81918.jpg" alt="Heatball (cliquez pour bien rigoler) :-D" caption="Heatball (cliquez pour bien rigoler) :-D" link="http://heatball.de" width="230" >}}
 
-Voici un mail envoyé à l'émission ABE (à bon entendeur) de la TSR à propos de leur reportage sur les [ampoules à faible consommation:](http://www.tsr.ch/emissions/abe/1377561-ampoules-a-faible-consommation.html)
+Voici un mail envoyé à l'émission ABE (à bon entendeur) de la TSR à propos de leur reportage sur les [ampoules à faible consommation:](https://web.archive.org/web/20100509163850/http://www.tsr.ch/emissions/abe/1377561-ampoules-a-faible-consommation.html)
 
 _Bonjour, votre émission d'hier soir était très intéressante, à plusieurs titres._
 

@@ -20,9 +20,9 @@ Non
 
 [https://www.sciencesetavenir.fr/...](https://www.sciencesetavenir.fr/archeo-paleo/pollution-precolombienne-au-mercure_21139)
 
-[https://www.lesechos.fr/idees-de...](https://www.lesechos.fr/idees-debats/sciences-prospective/au-temps-des-romains-lair-etait-deja-bien-pollue-1017955)
+[https://www.lesechos.fr/idees-de...](https://web.archive.org/web/20210614192727/https://www.lesechos.fr/idees-debats/sciences-prospective/au-temps-des-romains-lair-etait-deja-bien-pollue-1017955)
 
-[http://www.slate.fr/story/173163...](http://www.slate.fr/story/173163/moyen-age-foret-surexploitation-decision-politique)
+[http://www.slate.fr/story/173163...](https://web.archive.org/web/20210612134237/http://www.slate.fr/story/173163/moyen-age-foret-surexploitation-decision-politique)
 
 [https://www.unjourdeplusaparis.c...](https://www.unjourdeplusaparis.com/paris-reportage/la-bievre-riviere-disparue)
 

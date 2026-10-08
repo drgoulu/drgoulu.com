@@ -32,4 +32,4 @@ Le tourisme est mentionné dans les objectifs mCO5 et mHH8, l'Helium3 dans le mL
 
 Notes de bas de page
 
-[[1]](#cite-OYfmT)[https://www.nasa.gov/pdf/163560m...](https://www.nasa.gov/pdf/163560main_LunarExplorationObjectives.pdf)
+[[1]](#cite-OYfmT)[https://www.nasa.gov/pdf/163560m...](https://web.archive.org/web/20210126032807/https://www.nasa.gov/pdf/163560main_LunarExplorationObjectives.pdf)

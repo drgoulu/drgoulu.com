@@ -14,13 +14,13 @@ coverImage: "./images/MouseTrap.jpg"
 
 {{< figure src="./images/MouseTrap.jpg" alt="%image_alt%" >}}
 
-Je me suis fait avoir une fois de plus. Après avoir résolu une septantaine\* de problèmes de [Project Euler](/2009/02/23/project_euler/) de plus en plus mathématiquement ardus, suis tombé sur [HackerRank.com](https://www.hackerrank.com), qui m'avait l'air plus orienté programmation, avec des petits problèmes solubles en quelques minutes, voire une petite soirée. Du moins en apparence...
+Je me suis fait avoir une fois de plus. Après avoir résolu une septantaine\* de problèmes de [Project Euler](/2009/02/23/project_euler/) de plus en plus mathématiquement ardus, suis tombé sur [HackerRank.com](https://web.archive.org/web/20160921130707/https://www.hackerrank.com), qui m'avait l'air plus orienté programmation, avec des petits problèmes solubles en quelques minutes, voire une petite soirée. Du moins en apparence...
 
 Par exemple, j'ai attaqué le problème "[nCr](https://www.hackerrank.com/challenges/ncr)" très confiant : étant donnés deux entiers n et r, combien y'a-t-il de manières de choisir r objets parmi n ?
 
 Fâââcile : c'est le [coefficient binomial](w:):$${n \choose k} = C_n^k\\, = \frac{n!}{k!(n-k)!}$$ \[mathjax\]
 
-Avec l'habitude on sait qu'une formule avec des [factorielles](w:factorielle) peut faire exploser n'importe quel ordinateur si on n'y prend pas garde donc on se méfie, on trouve sur [RosettaCode](http://rosettacode.org/wiki/Evaluate_binomial_coefficients#Python) ou [directement sur la Wikipédia](w:en:Binomial_coefficient#Binomial_coefficient_in_programming_languages) un bout de code Python de ce genre :
+Avec l'habitude on sait qu'une formule avec des [factorielles](w:factorielle) peut faire exploser n'importe quel ordinateur si on n'y prend pas garde donc on se méfie, on trouve sur [RosettaCode](https://web.archive.org/web/20160918193420/http://rosettacode.org/wiki/Evaluate_binomial_coefficients#Python) ou [directement sur la Wikipédia](w:en:Binomial_coefficient#Binomial_coefficient_in_programming_languages) un bout de code Python de ce genre :
 
 \[python\]def binomial_coefficient(n,k): if k < 0 or k > n: return 0 if k == 0 or k == n: return 1 k = min(k, n - k) # take advantage of symmetry c = 1 for i in range(k): c = c \* (n - i) // (i + 1) # // dénote la division entière en Python return c\[/python\]
 

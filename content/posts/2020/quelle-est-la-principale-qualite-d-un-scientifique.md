@@ -26,5 +26,5 @@ et [auteur de 342 autres articles](https://scholar.google.com/citations?user=0ql
 
 J'ai trouvé ça tellement bien vu que j'ai traduit son article en français [2].
 
-1. Martin A. Schwartz, “[The importance of stupidity in scientific research](http://jcs.biologists.org/content/121/11/1771.full)“, Journal of Cell Science 121,1771 doi: 10.1242/jcs.033340
+1. Martin A. Schwartz, “[The importance of stupidity in scientific research](https://web.archive.org/web/20201216195656/http://jcs.biologists.org/content/121/11/1771.full)“, Journal of Cell Science 121,1771 doi: 10.1242/jcs.033340
 2. [L'importance de la stupidité dans la recherche scientifique - Pourquoi Comment Combien](/2014/06/11/limportance-de-la-stupidite-dans-la-recherche-scientifique/)

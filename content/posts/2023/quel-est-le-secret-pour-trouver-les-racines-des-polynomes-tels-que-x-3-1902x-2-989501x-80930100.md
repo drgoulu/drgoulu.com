@@ -25,4 +25,4 @@ $ab+ac+bc = 989501$
 
 et en farfouillant un peu on trouve $a=100, b=851, c=951$
 
-Mais le plus simple, c'est de [demander à Wolfram|Alpha](https://www.wolframalpha.com/input?i=x3−1902x2+989501x−80930100=0)
+Mais le plus simple, c'est de [demander à Wolfram|Alpha](https://web.archive.org/web/20230414/https://www.wolframalpha.com/input?i=x3−1902x2+989501x−80930100=0)

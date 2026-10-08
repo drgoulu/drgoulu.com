@@ -18,13 +18,13 @@ Il y a bien sur les histoire classiques comme "Dans un jeu télévisé,  un ing
 - Le physicien construit une clôture d'un diamètre infini et tente de relier les bouts de la clôture entre eux jusqu'au moment où tout le troupeau peut tenir dans le cercle.
 - Le mathématicien, voyant ceci, construit une clôture autour de lui-même et se définit comme y étant à l'extérieur."
 
-Vous en trouverez de nombreuses autres de ce genre [ici.](http://www.sciences.ch/htmlfr/humour.php)
+Vous en trouverez de nombreuses autres de ce genre [ici.](https://web.archive.org/web/20081112164457/http://www.sciences.ch/htmlfr/humour.php)
 
 ### (Auto)-Dérision
 
 Les désormais fameux [prix igNobel](http://ignobel.com/) récompensent les recherches les plus étranges, republiées dans le "[Journal of Improbable Research](http://improbable.com/)". Je vous avais [parlé ici des prix 2007](/2007/10/19/prix-ignobel/), les 2008 ne vont pas tarder à être décernés, préparez vos zygomatiques. Ce qui me surprend le plus, c'est de voir la plupart des lauréats accepter leur prix avec le sourire et gratifier l'assistance d'une présentation en bonne et due forme de leur sujet de recherche farfelu, diffusée largement en [video](http://www.youtube.com/results?search_query=improbable+research&search_type=&aq=0&oq=improbable+re).
 
-L'autodérision est également très appréciée dans la communauté scientifique. En particulier, le "[Journal of Irreproductive Results](http://www.jir.com/)" publie des articles parodiques voire délirants, mais respectant scrupuleusement le formalisme formellement formel des publications scientifiques de plus haut niveau.
+L'autodérision est également très appréciée dans la communauté scientifique. En particulier, le "[Journal of Irreproductive Results](https://web.archive.org/web/20081011015313/http://www.jir.com/)" publie des articles parodiques voire délirants, mais respectant scrupuleusement le formalisme formellement formel des publications scientifiques de plus haut niveau.
 
 Dans le même ordre d'idées, quelques aménagements du [système international d'unités](w:) ont été proposés pour étendre le domaine d'application de la science tout en intégrant de quelques expressions du langage populaire dans le formalisme scientifique. Voir en particulier la norme NF UNM 00-000 dite des "unités pifométriques" [dont je vous ai déjà parlé ici](/2007/01/20/nouvelles-unites-de-mesure/)
 

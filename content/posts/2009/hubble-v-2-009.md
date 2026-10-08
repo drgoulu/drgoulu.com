@@ -17,11 +17,11 @@ coverImage: "./images/5b23cb63ead2f99e6c6310ebaee255db.jpg"
 
 Les premières images prises par le télescope Hubble après son récent lifting ont été publiées, et elles sont... _(insérez votre liste de superlatifs favoris ici, moi je n'en ai plus)_
 
-La video [Hubblecast No 30](http://www.spacetelescope.org/videos/heic0910a/) ([sur YouTube](http://www.youtube.com/watch?v=QXZWjxzntYw)) montre et décrit (en anglais) toutes [ces nouvelles images](http://www.spacetelescope.org/images/archive/news/heic0910//). J'en ai choisi une par instrument embarqué sur ce fantastique satellite:
+La video [Hubblecast No 30](http://www.spacetelescope.org/videos/heic0910a/) ([sur YouTube](http://www.youtube.com/watch?v=QXZWjxzntYw)) montre et décrit (en anglais) toutes [ces nouvelles images](https://web.archive.org/web/20090915212135/http://www.spacetelescope.org/images/archive/news/heic0910//). J'en ai choisi une par instrument embarqué sur ce fantastique satellite:
 
 ### STIS
 
-On commence par le [préféré du "Bad Astronomer"](http://blogs.discovermagazine.com/badastronomy/2009/09/09/hubble-is-back/). Le "[Space Telescope Imaging Spectrograph](http://www.spacetelescope.org/about/general/instruments/stis/)" a été installé en 1997 sur Hubble, et est tombé en panne en 2004. Sa réparation justifiait presque à elle seule la mission de la navette en mai 2009. STIS peut analyser la lumière provenant de nuages de gaz pour déterminer leur composition chimique.
+On commence par le [préféré du "Bad Astronomer"](https://web.archive.org/web/20090912060812/http://blogs.discovermagazine.com/badastronomy/2009/09/09/hubble-is-back/). Le "[Space Telescope Imaging Spectrograph](http://www.spacetelescope.org/about/general/instruments/stis/)" a été installé en 1997 sur Hubble, et est tombé en panne en 2004. Sa réparation justifiait presque à elle seule la mission de la navette en mai 2009. STIS peut analyser la lumière provenant de nuages de gaz pour déterminer leur composition chimique.
 
 Le montage ci-dessous montre une image d'Eta Carina, une grosse étoile en fin de vie à 7500 années-lumière dont j'ai [déjà parlé ici](/2007/05/09/compte-a-rebours-stellaire/), et le spectre mesuré par STIS le long de la ligne noire au centre de l'image. On sait ainsi qu'Eta Carina crache dans l'espace des gigatonnes de fer et de nickel qu'elle a produit et qui l'asphyxient. Combien de temps arrivera-t-elle à briller avant d'exploser en supernova ? Quelques années ? quelques décennies ou quelques siècles (mais pas beaucoup plus) ? On en saura plus sur la mort des étoiles grâce à STIS.
 
@@ -61,4 +61,4 @@ Quoi ? vous ne savez pas ce qu'est une [lentille gravitationnelle](w:) ? Pourtan
 
 - [10 choses que vous ignorez sur Hubble](/2009/05/13/10-choses-que-vous-ignorez-a-propos-de-hubble/)
 - [La nébuleuse du papillon](http://www.lecosmographe.com/blog/?p=1376) sur le Cosmographe
-- [Hubble.is.Back](http://blogs.discovermagazine.com/badastronomy/2009/09/09/hubble-is-back/) sur Bad Astronomy
+- [Hubble.is.Back](https://web.archive.org/web/20090912060812/http://blogs.discovermagazine.com/badastronomy/2009/09/09/hubble-is-back/) sur Bad Astronomy

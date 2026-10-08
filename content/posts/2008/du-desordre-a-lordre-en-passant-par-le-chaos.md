@@ -14,4 +14,4 @@ Sur la table, très rigide, les métronomes ne s'influencent pas les uns les aut
 
 La résonance est un phénomène très général en physique car la loi "action/réaction" est universelle. Des anneaux de Saturne à la résonance magnétique nucléaire (RMN), des lois simples organisent le désordre.
 
-source: [Bad Astronomy Blog » Science resonates throught the cosmos](http://blogs.discovermagazine.com/badastronomy/)
+source: [Bad Astronomy Blog » Science resonates throught the cosmos](https://web.archive.org/web/20080702175758/http://blogs.discovermagazine.com/badastronomy/)

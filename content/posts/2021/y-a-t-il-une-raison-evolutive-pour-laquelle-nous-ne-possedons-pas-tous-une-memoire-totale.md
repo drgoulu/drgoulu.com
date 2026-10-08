@@ -20,7 +20,7 @@ Un truc comme ça ?
 
 {{< youtube "JkNV0rSndJ0" >}}
 
-Selon Inoue, S. & Matsuzawa, T. “[Working memory of numerals in chimpanzees](http://langint.pri.kyoto-u.ac.jp/ai/en/publication/SanaInoue/Inoue2007.html).”, 2007, Curr. Biol. 17: R1004-R1005.
+Selon Inoue, S. & Matsuzawa, T. “[Working memory of numerals in chimpanzees](https://web.archive.org/web/20210508013906/http://langint.pri.kyoto-u.ac.jp/ai/en/publication/SanaInoue/Inoue2007.html).”, 2007, Curr. Biol. 17: R1004-R1005.
 
 les chimpanzés ont besoin d'une telle mémoire "eidétique" pour identifier en permanence tous les membres de leur groupe et leur position afin de faire face aux menaces, ou de fuir, ou de profiter d'une situation pour tirer un petit coup vite fait.
 

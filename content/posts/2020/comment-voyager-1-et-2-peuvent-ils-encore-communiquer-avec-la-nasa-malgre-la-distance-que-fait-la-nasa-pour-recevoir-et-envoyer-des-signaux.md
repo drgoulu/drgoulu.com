@@ -11,6 +11,6 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-Voyager-1-et-2-peuvent-ils-encore-communiquer-avec-la-NASA-malgr%C3%A9-la-distance-Que-fait-la-NASA-pour-recevoir-et-envoyer-des-signaux/answer/Dr-Goulu)*
 
-Oui on sait très précisément où sont les sondes Voyager, voir [Voyager - Mission Status](https://voyager.jpl.nasa.gov/mission/status/)
+Oui on sait très précisément où sont les sondes Voyager, voir [Voyager - Mission Status](https://web.archive.org/web/20201109035610/https://voyager.jpl.nasa.gov/mission/status/)
 
 Pour communiquer avec une sonde lointaine il faut pointer très précisément une antenne du [Deep Space Network](w:)vers elle, et on peut mesurer le "temps de vol" du signal vers la sonde et retour.

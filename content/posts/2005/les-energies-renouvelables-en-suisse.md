@@ -41,7 +41,7 @@ La souplesse de son utilisation et d’autres avantages font de l’hydro-élect
 1. <span id="ref-1"></span>["Le rendez-vous Manqué", TSR émission Territoires 21 du 22/12/2004](http://www.rts.ch/)
 2. <span id="ref-2"></span>[Tribune de Genève](http://www.tdg.ch/), 6/5/2005 p. 7
 3. <span id="ref-3"></span>journal RSR le 25/1/2005 à 9h
-4. <span id="ref-4"></span>[http://www.energies-renouvelables.org/observer/html/inventaire/Fr/conclusion.htm](http://www.energies-renouvelables.org/observer/html/inventaire/Fr/conclusion.htm)
-5. <span id="ref-5"></span>[http://www.2100.org/Energie98.pdf](http://www.2100.org/Energie98.pdf)
+4. <span id="ref-4"></span>[http://www.energies-renouvelables.org/observer/html/inventaire/Fr/conclusion.htm](https://web.archive.org/web/20050125/http://www.energies-renouvelables.org/observer/html/inventaire/Fr/conclusion.htm)
+5. <span id="ref-5"></span>[http://www.2100.org/Energie98.pdf](https://web.archive.org/web/20040616232830/http://www.2100.org/Energie98.pdf)
 6. <span id="ref-6"></span>[Wikipedia:Energie Renouvelable](w:Énergie_renouvelable)
-7. <span id="ref-7"></span>[http://culturesciencesphysique.ens-lyon.fr/Entree\_par\_theme/Elec/Eau](http://culturesciencesphysique.ens-lyon.fr/search_exist?SearchableText=Elec+Eau)
+7. <span id="ref-7"></span>[http://culturesciencesphysique.ens-lyon.fr/Entree\_par\_theme/Elec/Eau](https://web.archive.org/web/20050125/http://culturesciencesphysique.ens-lyon.fr/search_exist?SearchableText=Elec+Eau)

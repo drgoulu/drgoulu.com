@@ -8,7 +8,7 @@ tags:
   - "suisse"
 ---
 
-J'avais décidé de ne pas me lancer dans la polémique, mais j'ai finalement craqué. Voici le commentaire que j'ai ajouté à la longue liste des [réactions sur le site de Libération](http://www.liberation.fr/php/pages/pageReactionsList.php?rubId=12&docId=226499#reac124043) ainsi que sur le [blog "mon oeil"](http://rebonds.blogs.liberation.fr/mon_oeil/2007/01/ce_nest_pas_le_.html) correspondant
+J'avais décidé de ne pas me lancer dans la polémique, mais j'ai finalement craqué. Voici le commentaire que j'ai ajouté à la longue liste des [réactions sur le site de Libération](https://web.archive.org/web/20070116/http://www.liberation.fr/php/pages/pageReactionsList.php?rubId=12&docId=226499#reac124043) ainsi que sur le [blog "mon oeil"](https://web.archive.org/web/20070116/http://rebonds.blogs.liberation.fr/mon_oeil/2007/01/ce_nest_pas_le_.html) correspondant
 
 <!--more-->
 

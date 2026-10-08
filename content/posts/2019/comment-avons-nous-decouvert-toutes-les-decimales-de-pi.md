@@ -20,7 +20,7 @@ Il y a des programmes informatiques qui les calculent de façon très efficace.
 
 mon préféré est un algorithme incroyable qui travaille uniquement en nombres entiers [[1]](#BJCec) !
 
-Cette version Python se trouve dans ma [Goulib.math2](https://goulib.readthedocs.io/en/latest/_modules/Goulib/math2.html#pi_digits_gen) :
+Cette version Python se trouve dans ma [Goulib.math2](https://web.archive.org/web/20230925195105/https://goulib.readthedocs.io/en/latest/_modules/Goulib/math2.html#pi_digits_gen) :
 
 ```
 def pi_digits_gen():

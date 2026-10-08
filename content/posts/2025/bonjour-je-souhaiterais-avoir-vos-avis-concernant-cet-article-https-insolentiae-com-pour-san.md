@@ -15,7 +15,7 @@ Que ce n'est pas un article, juste une opinion personnelle.
 
 C'est un fait que la dette de l'Etat français n'est détenue qu'à moins de 50% par les français, alors que les japonais détiennent la quasi totalité de la dette de l'Etat japonais. De plus, l'épargne des français suffirait à la financer [[1]](#sBbyI)
 
-Il faut donc plutôt chercher du coté des faibles rendements des [OAT aux particuliers](https://www.aft-bo.gouv.fr/fr/oat-particuliers), notamment à cause de leur imposition (augmentée en 2017…).
+Il faut donc plutôt chercher du coté des faibles rendements des [OAT aux particuliers](https://web.archive.org/web/20250323/https://www.aft-bo.gouv.fr/fr/oat-particuliers), notamment à cause de leur imposition (augmentée en 2017…).
 
 Notes de bas de page
 

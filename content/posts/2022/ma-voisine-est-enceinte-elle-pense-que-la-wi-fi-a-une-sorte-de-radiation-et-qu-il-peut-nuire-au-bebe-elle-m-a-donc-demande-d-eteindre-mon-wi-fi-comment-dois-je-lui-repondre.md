@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Qu'il faut qu'elle arrête son téléphone portable et tous ses appareils électriques, et déménage à plusieurs kilomètres des antennes de téléphone ou des lignes à haute tension qui émettent tous les mêmes "radiations" qui s'appellent des ondes électromagnétiques.
 
-[https://ondes-info.ineris.fr/nod...](https://ondes-info.ineris.fr/node/719)
+[https://ondes-info.ineris.fr/nod...](https://web.archive.org/web/20220409142208/https://ondes-info.ineris.fr/node/719)
 
 Vous pouvez aussi lui rappeler que quoi qu'elle fasse, son bébé mourra dans environ 80 ans.

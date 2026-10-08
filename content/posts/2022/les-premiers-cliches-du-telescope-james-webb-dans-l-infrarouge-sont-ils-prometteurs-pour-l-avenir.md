@@ -24,7 +24,7 @@ Je dirais qu'il n'y a pas photo …
 
 Ce qui surprend un peu, ce sont les aigrettes de diffraction, les "pointes des étoiles"
 
-[https://bigthink.com/starts-with...](https://bigthink.com/starts-with-a-bang/james-webb-spikes/)
+[https://bigthink.com/starts-with...](https://web.archive.org/web/20220603124932/https://bigthink.com/starts-with-a-bang/james-webb-spikes/)
 
 ça vient du support du miroir secondaire, qui a 3 pattes et bizarrement pas à 120° les unes des autres …
 

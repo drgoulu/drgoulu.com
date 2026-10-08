@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Je ne comprends pas vraiment le sens de votre question, mais en informatique on a fait des [Algorithmes génétiques](w:Algorithme_génétique) qui peuvent être assez spectaculaires, voire marrants.
 
-Mon préféré est [HTML5 Genetic Algorithm 2D Car Thingy](https://rednuht.org/genetic_cars_2/) qui génère des véhicules au hasard, puis combine les "gènes" de ceux qui vont le plus loin sur un terrain de plus en plus bosselé.
+Mon préféré est [HTML5 Genetic Algorithm 2D Car Thingy](https://web.archive.org/web/20200615094040/https://rednuht.org/genetic_cars_2/) qui génère des véhicules au hasard, puis combine les "gènes" de ceux qui vont le plus loin sur un terrain de plus en plus bosselé.
 
 Je ne me lasse pas de regarder ça … c'est reparti …

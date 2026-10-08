@@ -31,4 +31,4 @@ Je l'explique donc tout simplement par le fait que certains prennent Einstein po
 
 Bon, en l'occurrence c'était pour une bonne cause et ça a marché puisqu'on est passé au niveau supérieur : la menace no 1 n'est plus la guerre nucléaire…
 
-[http://entersection.com/posts/10...](http://entersection.com/posts/1025-albert-einstein-on-problem-solving)
+[http://entersection.com/posts/10...](https://web.archive.org/web/20230202152343/http://entersection.com/posts/1025-albert-einstein-on-problem-solving)

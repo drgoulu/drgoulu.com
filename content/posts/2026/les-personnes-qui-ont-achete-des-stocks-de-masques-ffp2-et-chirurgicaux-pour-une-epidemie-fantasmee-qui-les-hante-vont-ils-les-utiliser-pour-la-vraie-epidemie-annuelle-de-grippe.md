@@ -15,7 +15,7 @@ Oui, ils ont la chance de pouvoir le faire puisqu'ils ont survécu à la [Pandé
 
 Remarquez que l'usage du masque par les autres a également protégé les dangereux inconscients égoïstes dans votre genre comme le démontre notamment
 
-Gholamhossein Bagheri, Birte Thiede, Bardia Hejazi, Oliver Schlenczek et Eberhard Bodenschatz , An upper bound on one-to-one exposure to infectious human respiratory particles, Proceedings of the National Academy of Sciences (PNAS), décembre 2021, Vol. 118, No. 49. [DOI : 10.1073/pnas.2110117118](https://www.pnas.org/doi/full/10.1073/pnas.2110117118)
+Gholamhossein Bagheri, Birte Thiede, Bardia Hejazi, Oliver Schlenczek et Eberhard Bodenschatz , An upper bound on one-to-one exposure to infectious human respiratory particles, Proceedings of the National Academy of Sciences (PNAS), décembre 2021, Vol. 118, No. 49. [DOI : 10.1073/pnas.2110117118](https://web.archive.org/web/20260814133020/https://www.pnas.org/doi/full/10.1073/pnas.2110117118)
 
 La réduction du risque de contamination est réduit de 4.5 fois avec des masques chirurgicaux et plus de 100 fois avec des FFP2.
 

@@ -34,4 +34,4 @@ Notes de bas de page
 
 [[1]](#cite-tvGUg)[L'article à lire pour comprendre les trous noirs](https://www.francetvinfo.fr/sciences/espace/l-article-a-lire-pour-comprendre-les-trous-noirs_835713.html)
 
-[[2]](#cite-hPyzW)[https://arxiv.org/PS_cache/gr-qc...](https://arxiv.org/PS_cache/gr-qc/pdf/9702/9702052v2.pdf)
+[[2]](#cite-hPyzW)[https://arxiv.org/PS_cache/gr-qc...](https://web.archive.org/web/20210110000749/https://arxiv.org/PS_cache/gr-qc/pdf/9702/9702052v2.pdf)

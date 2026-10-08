@@ -17,4 +17,4 @@ Les chiffres sont connus et publics depuis longtemps.
 
 ![](./images/qimg-5fc0fea7971f50576ca6da4cdac08029.png)
 
-[https://www.usinenouvelle.com/ar...](https://www.usinenouvelle.com/article/selon-l-ademe-la-voiture-electrique-est-bien-meilleure-pour-le-climat-que-celles-roulant-a-l-essence-ou-au-diesel.N650859)
+[https://www.usinenouvelle.com/ar...](https://web.archive.org/web/20231020101737/https://www.usinenouvelle.com/article/selon-l-ademe-la-voiture-electrique-est-bien-meilleure-pour-le-climat-que-celles-roulant-a-l-essence-ou-au-diesel.N650859)

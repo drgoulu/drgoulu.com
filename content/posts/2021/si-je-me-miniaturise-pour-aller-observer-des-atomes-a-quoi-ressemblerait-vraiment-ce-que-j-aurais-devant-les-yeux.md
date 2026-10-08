@@ -21,4 +21,4 @@ Donc la vision des atomes que l'on a dépend de la technique de mesure utilisée
 
 Source et explications :
 
-[http://www.stm.baffou.com/images...](http://www.stm.baffou.com/images.htm)
+[http://www.stm.baffou.com/images...](https://web.archive.org/web/20200129192959/http://www.stm.baffou.com/images.htm)

@@ -16,8 +16,8 @@ coverImage: ./images/qimg-d65fba6ef779404f4a4eafda7397d6f2.gif
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Quelle-est-votre-mani%C3%A8re-la-plus-avanc%C3%A9e-et-la-plus-compliqu%C3%A9e-de-transformer-un-nombre-en-420-69/answer/Dr-Goulu)*
 
-- utiliser le génial "[inverseur de Plouffe](http://wayback.cecm.sfu.ca/cgi-bin/isc/lookup?number=420.69&lookup_type=simple)" pour trouver la formule la plus compliquée pour un nombre ayant les décimales entre 420685 et 420695 .
-- Il y a sum(1/(17/6*n^3-33/2*n^2+107/3*n-13)*C(3*n,n)),n=1..inf) qui me plait bien… dans [Wolfram|Alpha](https://www.wolframalpha.com/input/?i=sum(1/(17/6*n^3-33/2*n^2+107/3*n-13)/C(3*n,n)),n=1..inf) ça donne :
+- utiliser le génial "[inverseur de Plouffe](https://web.archive.org/web/20190717/http://wayback.cecm.sfu.ca/cgi-bin/isc/lookup?number=420.69&lookup_type=simple)" pour trouver la formule la plus compliquée pour un nombre ayant les décimales entre 420685 et 420695 .
+- Il y a sum(1/(17/6*n^3-33/2*n^2+107/3*n-13)*C(3*n,n)),n=1..inf) qui me plait bien… dans [Wolfram|Alpha](https://web.archive.org/web/20190717/https://www.wolframalpha.com/input/?i=sum(1/(17/6*n^3-33/2*n^2+107/3*n-13)/C(3*n,n)),n=1..inf) ça donne :
 
 ![](./images/qimg-d65fba6ef779404f4a4eafda7397d6f2.gif)
 

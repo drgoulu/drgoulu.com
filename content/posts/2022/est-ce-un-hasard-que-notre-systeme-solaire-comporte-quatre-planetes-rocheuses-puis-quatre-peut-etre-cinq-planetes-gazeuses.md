@@ -26,6 +26,6 @@ Le modèle actuel de formation des systèmes planétaires explique ceci ainsi:
 >
 >
 >
-> [Le disque " PROTO-PLANETAIRE "](http://sesp.esep.pro/fr/pages_mecanique-formation/disque-portoplanetaire.html) de l'[ESEP](http://www.esep.pro/)
+> [Le disque " PROTO-PLANETAIRE "](http://sesp.esep.pro/fr/pages_mecanique-formation/disque-portoplanetaire.html) de l'[ESEP](https://web.archive.org/web/20220309190049/http://www.esep.pro/)
 
 (plus de détails dans les pages voisines de ce site très intéressant de

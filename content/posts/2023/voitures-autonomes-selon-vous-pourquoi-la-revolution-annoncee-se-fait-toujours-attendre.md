@@ -22,6 +22,6 @@ Pour l'instant la loi est claire : c'est le conducteur, qui doit avoir un permis
 
 3800 Euro pour la fonction Autopilot améliorée chez Tesla, qui précise bien :
 
-> La fonction Autopilot amélioré nécessite de garder les mains sur le volant. **Gardez vos mains sur le volant en permanence et restez vigilant face aux conditions sur la route, à la circulation environnante et aux autres usagers** (tels que les piétons et les cyclistes). Conduisez toujours prudemment et soyez prêt à intervenir immédiatement. Le non-respect de ces instructions peut entraîner des dommages et des blessures graves, voire mortelles.. ([https://www.tesla.com/fr_ch/support/Autopilot](https://www.tesla.com/fr_ch/support/autopilot))
+> La fonction Autopilot amélioré nécessite de garder les mains sur le volant. **Gardez vos mains sur le volant en permanence et restez vigilant face aux conditions sur la route, à la circulation environnante et aux autres usagers** (tels que les piétons et les cyclistes). Conduisez toujours prudemment et soyez prêt à intervenir immédiatement. Le non-respect de ces instructions peut entraîner des dommages et des blessures graves, voire mortelles.. ([https://www.tesla.com/fr_ch/support/Autopilot](https://web.archive.org/web/20230911163918/https://www.tesla.com/fr_ch/support/autopilot))
 
 Donc en gros vous payez pour avoir un flic à bord

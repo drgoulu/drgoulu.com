@@ -15,13 +15,13 @@ tags:
 coverImage: "./images/candle2.png"
 ---
 
-Les [conférences du TED](http://www.ted.com/) sont une mine inépuisable de découvertes passionnantes comme la récente présentation de [Dan Pink](http://www.danpink.com/) sur "la surprenante science de la motivation".
+Les [conférences du TED](https://web.archive.org/web/20090908081550/http://www.ted.com/) sont une mine inépuisable de découvertes passionnantes comme la récente présentation de [Dan Pink](https://web.archive.org/web/20090918053039/http://www.danpink.com/) sur "la surprenante science de la motivation".
 
-Il y démontre les limites du traditionnel système de motivation par "incentives" en partant d'expériences de psychologie expérimentale utilisant une bougie... On y découvre les notions de "[fixité fonctionnelle](w:en:Functional_fixedness)", de motivation intrinsèque et extrinsèque, il y parle de nouveaux systèmes de motivation dans les entreprise, comme les fameux  "20% du temps chez Google", l' "Environnement de Travail Orienté Résultats" (ROWE) et les ["FedEx Days" d'Atlassian](http://www.atlassian.com/about/life.jsp).
+Il y démontre les limites du traditionnel système de motivation par "incentives" en partant d'expériences de psychologie expérimentale utilisant une bougie... On y découvre les notions de "[fixité fonctionnelle](w:en:Functional_fixedness)", de motivation intrinsèque et extrinsèque, il y parle de nouveaux systèmes de motivation dans les entreprise, comme les fameux  "20% du temps chez Google", l' "Environnement de Travail Orienté Résultats" (ROWE) et les ["FedEx Days" d'Atlassian](https://web.archive.org/web/20090428004612/http://www.atlassian.com/about/life.jsp).
 
 Il termine en expliquant pourquoi la Wikipedia a écrasé l'encyclopédie Encarta de Microsoft, en termes qui me semblent très convaincants. En effet,  je viens justement de passer quelques heures de mon précieux temps à traduire bénévolement cette conférence grâce à [dotSub](http://dotsub.com/), qui permet le sous-titrage de videos en plusieurs langues.
 
-Ma traduction en français est disponible directement [sur la page du TED](http://www.ted.com/talks/dan_pink_on_motivation.html), mais je ne peux inclure ci-dessous que la v.o. :
+Ma traduction en français est disponible directement [sur la page du TED](https://web.archive.org/web/20090905045156/http://www.ted.com/talks/dan_pink_on_motivation.html), mais je ne peux inclure ci-dessous que la v.o. :
 
 {{< youtube id="rrkrvAUbU9Y" width="640" >}}
 

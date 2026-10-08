@@ -12,4 +12,4 @@ Chouette photo garantie sans retouche :
 
 [![](./images/image001.jpg "image001")](./images/image001.jpg)
 
-Elle fait partie d'une série de "Smileys accidentels" trouvée sur [Mighty Optical Illusion](http://www.moillusions.com/2007/12/accidental-smileys-optical-illusion-set.html).
+Elle fait partie d'une série de "Smileys accidentels" trouvée sur [Mighty Optical Illusion](https://web.archive.org/web/20071207064059/http://www.moillusions.com/2007/12/accidental-smileys-optical-illusion-set.html).

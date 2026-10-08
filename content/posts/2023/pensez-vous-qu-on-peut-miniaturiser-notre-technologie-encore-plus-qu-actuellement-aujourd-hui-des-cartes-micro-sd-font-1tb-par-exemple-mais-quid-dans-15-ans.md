@@ -41,4 +41,4 @@ Techniquement,
 
 Notes de bas de page
 
-[[1]](#cite-bVXtc)[IBM stores binary data on just 12 atoms - ExtremeTech](https://www.extremetech.com/computing/113237-ibm-stores-binary-data-on-12-atoms)
+[[1]](#cite-bVXtc)[IBM stores binary data on just 12 atoms - ExtremeTech](https://web.archive.org/web/20220926232804/https://www.extremetech.com/computing/113237-ibm-stores-binary-data-on-12-atoms)

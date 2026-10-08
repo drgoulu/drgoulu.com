@@ -30,4 +30,4 @@ Je vois qu'aujourd'hui l'espérance de vie des Balinais hommes est de 61.1 ans, 
 
 Notes de bas de page
 
-[[1]](#cite-hOCxQ)[Indonesia Life expectancy, 1960-2018 - knoema.com](https://knoema.com/atlas/Indonesia/Life-expectancy)
+[[1]](#cite-hOCxQ)[Indonesia Life expectancy, 1960-2018 - knoema.com](https://web.archive.org/web/20180329171015/https://knoema.com/atlas/Indonesia/Life-expectancy)

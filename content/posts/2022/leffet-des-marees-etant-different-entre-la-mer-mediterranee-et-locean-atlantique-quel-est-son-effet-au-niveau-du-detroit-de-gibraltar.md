@@ -16,7 +16,7 @@ coverImage: ./images/qimg-d9d4ac7132abbc3f03203203366494eb.gif
 
 *Réponse publiée [sur Quora](https://fr.quora.com/L-effet-des-mar%C3%A9es-%C3%A9tant-diff%C3%A9rent-entre-la-mer-M%C3%A9diterran%C3%A9e-et-l-oc%C3%A9an-Atlantique-quel-est-son-effet-au-niveau-du-d%C3%A9troit-de-Gibraltar/answer/Dr-Goulu)*
 
-D'après [Get Ceuta Strait of Gibraltar's tide times](https://www.tideschart.com/Spain/Ceuta/Ceuta/Ceuta-Strait-of-Gibraltar) , il y a des marées d'environ 1m
+D'après [Get Ceuta Strait of Gibraltar's tide times](https://web.archive.org/web/20221209/https://www.tideschart.com/Spain/Ceuta/Ceuta/Ceuta-Strait-of-Gibraltar) , il y a des marées d'environ 1m
 
 Les marées, c'est compliqué :
 

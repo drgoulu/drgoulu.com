@@ -22,4 +22,4 @@ D'un point de vue scientifique, on ne prouve jamais quelque chose, on exclut les
 
 Il y a donc toujours des gens qui parient des milliards sur le 1% qui restent.
 
-[Septembre 2020, le mois le plus chaud enregistré dans le monde](https://www.lesoir.be/331734/article/2020-10-15/septembre-2020-le-mois-le-plus-chaud-enregistre-dans-le-monde) selon le NOAA du pays de Donald Trump le climatosceptique.
+[Septembre 2020, le mois le plus chaud enregistré dans le monde](https://web.archive.org/web/20201018093843/https://www.lesoir.be/331734/article/2020-10-15/septembre-2020-le-mois-le-plus-chaud-enregistre-dans-le-monde) selon le NOAA du pays de Donald Trump le climatosceptique.

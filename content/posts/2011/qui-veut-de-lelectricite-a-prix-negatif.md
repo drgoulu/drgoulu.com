@@ -51,7 +51,7 @@ Je viens de changer d'avis : je suis pour les éoliennes dans l'UE, et pour que 
 
 ### Références
 
-1. <span id="ref-1"></span>"[Allemagne : quand l’électricité vaut moins que rien](http://www.lesoir.be/actualite/monde/2010-08-18/allemagne-quand-l-electricite-vaut-moins-que-rien-787892.php)", lesoir.be, 18 août 2010
-2. <span id="ref-2"></span>"[Allemagne : un prix parfois négatif pour l'électricité](http://www.ecoco2.com/blog/?p=1551)" sur EcoCO2, 2 septembre 2010
-3. <span id="ref-3"></span>Jeremy van Loo "[Windmill Boom Cuts Electricity Prices in Europe](http://www.bloomberg.com/news/2010-04-22/windmill-boom-curbs-electric-power-prices.html)", Bloomberg, 23 avril 2010
+1. <span id="ref-1"></span>"[Allemagne : quand l’électricité vaut moins que rien](https://web.archive.org/web/20100821055906/http://www.lesoir.be/actualite/monde/2010-08-18/allemagne-quand-l-electricite-vaut-moins-que-rien-787892.php)", lesoir.be, 18 août 2010
+2. <span id="ref-2"></span>"[Allemagne : un prix parfois négatif pour l'électricité](https://web.archive.org/web/20111117035904/http://www.ecoco2.com/blog/?p=1551)" sur EcoCO2, 2 septembre 2010
+3. <span id="ref-3"></span>Jeremy van Loo "[Windmill Boom Cuts Electricity Prices in Europe](https://web.archive.org/web/20100709074405/http://www.bloomberg.com/news/2010-04-22/windmill-boom-curbs-electric-power-prices.html)", Bloomberg, 23 avril 2010
 4. <span id="ref-4"></span>"[Prix négatifs : Questions - Réponses](https://www.epexspot.com/fr/epex_spot_se/fondamentaux_du_marche_de_l_electricite/Prix_n%C3%A9gatifs)" sur le site EPEX SPOT (ajouté le 2.9.2015)

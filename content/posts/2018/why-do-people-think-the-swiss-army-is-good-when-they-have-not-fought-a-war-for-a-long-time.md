@@ -16,4 +16,4 @@ That’s precisely why it’s good ;-) (read [Sun Tzu](w:en:Sun_Tzu) !)
 
 We know our land, we’re motivated to defend it, we know how to turn it into a hell for anyone trying to invade it, so we’re absolutely certain to win (read [Sun Tzu](w:en:Sun_Tzu) !)
 
-And read what happens when you don’t read Sun Tzu : [The American Experience and Sun Tzu](http://www.artofwarsuntzu.com/america_experiences_sun_tzu.htm)
+And read what happens when you don’t read Sun Tzu : [The American Experience and Sun Tzu](https://web.archive.org/web/20181014045114/http://www.artofwarsuntzu.com/america_experiences_sun_tzu.htm)

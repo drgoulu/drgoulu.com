@@ -30,4 +30,4 @@ On trouve aussi des choses étranges[[1]](#kbsMG) comme [PG 1543+489](w:en:PG_15
 
 Notes de bas de page
 
-[[1]](#cite-kbsMG)[Blue outliers among intermediate redshift quasars](https://ui.adsabs.harvard.edu/abs/2016Ap&SS.361....3M/abstract)
+[[1]](#cite-kbsMG)[Blue outliers among intermediate redshift quasars](https://web.archive.org/web/20241222202910/https://ui.adsabs.harvard.edu/abs/2016Ap&SS.361....3M/abstract)

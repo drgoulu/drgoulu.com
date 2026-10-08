@@ -84,16 +84,16 @@ Par contre, pour éviter le cancer du poumon, nous pouvons faire quelque chose d
 ### Références:
 
 1. <span id="ref-1"></span>[Wikipedia "Amiante" http://fr.wikipedia.org/wiki/Amiante](w:Amiante)
-2. <span id="ref-2"></span>[Module pédagogique "Risques liés à l'amiante" de la SUVA](http://www.suva.ch/fr/asbestgefahr_theorieblock.pdf)
-3. <span id="ref-3"></span>"[Surveillance épidémiologique des effets de l’exposition à l’amiante](http://www.invs.sante.fr/beh/2007/41_42/index.htm)", Bulletin Epidémiologique Hebdomadaire BEH n°41-42 (23 octobre 2007), Institut de Veille Sanitaire
-4. <span id="ref-4"></span>"[Le cancer du poumon](http://www.liguecancer.ch/fr/a_propos_du_cancer/types_de_cancer/cancer_du_poumon/) : Causes. Symptômes. Diagnostic. Traitement. Pronostic", Ligue Suisse contre le Cancer
-5. <span id="ref-5"></span>[Arrêt du tribunal Fédéral Suisse BGE 133 V 421](http://www.polyreg.ch/d/informationen/bgeleitentscheide/Band_133_2007/BGE_133_V_421.html)
-6. <span id="ref-6"></span>[Valeur Limite d'Exposition à l'amiante](http://www.suva.ch/fr/factsheet-grenzwerte.pdf) SUVA
+2. <span id="ref-2"></span>[Module pédagogique "Risques liés à l'amiante" de la SUVA](https://web.archive.org/web/20071203062239/http://www.suva.ch/fr/asbestgefahr_theorieblock.pdf)
+3. <span id="ref-3"></span>"[Surveillance épidémiologique des effets de l’exposition à l’amiante](https://web.archive.org/web/20080217030443/http://www.invs.sante.fr/beh/2007/41_42/index.htm)", Bulletin Epidémiologique Hebdomadaire BEH n°41-42 (23 octobre 2007), Institut de Veille Sanitaire
+4. <span id="ref-4"></span>"[Le cancer du poumon](https://web.archive.org/web/20110112142853/http://www.liguecancer.ch/fr/a_propos_du_cancer/types_de_cancer/cancer_du_poumon/) : Causes. Symptômes. Diagnostic. Traitement. Pronostic", Ligue Suisse contre le Cancer
+5. <span id="ref-5"></span>[Arrêt du tribunal Fédéral Suisse BGE 133 V 421](https://web.archive.org/web/20131013065713/http://www.polyreg.ch/d/informationen/bgeleitentscheide/Band_133_2007/BGE_133_V_421.html)
+6. <span id="ref-6"></span>[Valeur Limite d'Exposition à l'amiante](https://web.archive.org/web/20140210142749/http://www.suva.ch/fr/factsheet-grenzwerte.pdf) SUVA
 7. <span id="ref-7"></span>[Site "amiante" de l'INRS (Institut National de Recherche et de Sécurité) http://www.amiante.inrs.fr/](http://www.amiante.inrs.fr/)
-8. <span id="ref-8"></span>[Forum amiante Suisse (FACH) http://www.forum-asbest.ch/fr/](http://www.forum-asbest.ch/fr/)
-9. <span id="ref-9"></span>"[Amiante: le nettoyage est loin d'être terminé](http://www.tdg.ch/layout/set/print/\(contenu\)/161709)", Marc Guéniat, "Tribune de Genève" 24 nov. 2007
-10. <span id="ref-10"></span>[Amiante à Genève: les instituteurs veulent savoir](http://www.lecourrier.ch/index.php?name=NewsPaper&file=article&sid=438464), Philippe Poirson, "Le Courrier" 19 jan. 2008
-11. <span id="ref-11"></span>[Amiante dans les bâtiments publics genevois http://www.geneve.ch/amiante/](http://www.geneve.ch/amiante/)
+8. <span id="ref-8"></span>[Forum amiante Suisse (FACH) http://www.forum-asbest.ch/fr/](https://web.archive.org/web/20130819214549/http://www.forum-asbest.ch/fr/)
+9. <span id="ref-9"></span>"[Amiante: le nettoyage est loin d'être terminé](https://web.archive.org/web/20080201/http://www.tdg.ch/layout/set/print/\(contenu\)/161709)", Marc Guéniat, "Tribune de Genève" 24 nov. 2007
+10. <span id="ref-10"></span>[Amiante à Genève: les instituteurs veulent savoir](https://web.archive.org/web/20150826084731/http://www.lecourrier.ch/index.php?name=NewsPaper&file=article&sid=438464), Philippe Poirson, "Le Courrier" 19 jan. 2008
+11. <span id="ref-11"></span>[Amiante dans les bâtiments publics genevois http://www.geneve.ch/amiante/](https://web.archive.org/web/20080210170231/http://www.geneve.ch/amiante/)
 
 ### Note:
 

@@ -15,8 +15,8 @@ Lequel ? Il y a des dizaines de cancers differents.
 
 Le journal scientifique le plus réputé en oncologie est
 
-[https://acsjournals.onlinelibrar...](https://acsjournals.onlinelibrary.wiley.com/journal/15424863)
+[https://acsjournals.onlinelibrar...](https://web.archive.org/web/20231126113214/https://acsjournals.onlinelibrary.wiley.com/journal/15424863)
 
 Tous les deux mois il y a plus de 100 pages d'articles très pointus. Ce mois ci il y en a un sur les progrès contre le cancer des testicules.
 
-[https://acsjournals.onlinelibrar...](https://acsjournals.onlinelibrary.wiley.com/doi/full/10.3322/caac.21819)
+[https://acsjournals.onlinelibrar...](https://web.archive.org/web/20250620185726/https://acsjournals.onlinelibrary.wiley.com/doi/full/10.3322/caac.21819)

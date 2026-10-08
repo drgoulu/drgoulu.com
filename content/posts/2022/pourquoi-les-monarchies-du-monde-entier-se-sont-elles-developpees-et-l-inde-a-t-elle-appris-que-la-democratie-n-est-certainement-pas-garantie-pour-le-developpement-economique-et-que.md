@@ -39,4 +39,4 @@ Essayez de ne poser qu'une question claire à la fois svp.
 
 Notes de bas de page
 
-[[1]](#cite-bAkAg)[How monarchies survive modernity](https://www.economist.com/international/2019/04/27/how-monarchies-survive-modernity)
+[[1]](#cite-bAkAg)[How monarchies survive modernity](https://web.archive.org/web/20221204114402/https://www.economist.com/international/2019/04/27/how-monarchies-survive-modernity)

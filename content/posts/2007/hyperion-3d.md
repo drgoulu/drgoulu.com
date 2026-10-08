@@ -8,7 +8,7 @@ tags:
 coverImage: "./images/b24023b52e01ce08024a5ef067f2ea0a.gif"
 ---
 
-[Hypergraphics-3D](http://www.hypergraphics3d.com) est une entreprise genevoise en création qui va "faire très fort". ![](./images/b24023b52e01ce08024a5ef067f2ea0a.gif)Son produit "[Hyperion](http://www.ozone3d.net/demoniak3d/)" est une version "professionnelle et facile à utiliser" des moteurs 3D utilisés dans les jeux pour faire du rendu et de l'animation en temps réel.
+[Hypergraphics-3D](https://web.archive.org/web/20070127095756/http://www.hypergraphics3d.com) est une entreprise genevoise en création qui va "faire très fort". ![](./images/b24023b52e01ce08024a5ef067f2ea0a.gif)Son produit "[Hyperion](http://www.ozone3d.net/demoniak3d/)" est une version "professionnelle et facile à utiliser" des moteurs 3D utilisés dans les jeux pour faire du rendu et de l'animation en temps réel.
 
 Par "professionnelle", il faut comprendre qu'[Hyperion](http://www.ozone3d.net/demoniak3d/) vise le réalisme et la qualité d'image pour la visualisation de produits industriels ou de constructions.
 
@@ -24,7 +24,7 @@ En pratique, vous pouvez télécharger "Hyperion Demo-System Free" (gratuit pour
 
 Mes préférés sont :
 
-- [La montre](http://www.hypergraphics3d.com/demos/watch.php), qui n'est pas encore en ligne, mais que j'ai eu l'occasion de voir chez Hypergraphics-3D. Franchement bluffant : au chargement j'ai vu l'image ci-dessus et cru qu'il s'agissait d'une image fixe produite par rendu, et tout à coup tout s'est mis à tourner, fluide, avec ombres et réflexions. Magnifique!
+- [La montre](https://web.archive.org/web/20070831122707/http://www.hypergraphics3d.com/demos/watch.php), qui n'est pas encore en ligne, mais que j'ai eu l'occasion de voir chez Hypergraphics-3D. Franchement bluffant : au chargement j'ai vu l'image ci-dessus et cru qu'il s'agissait d'une image fixe produite par rendu, et tout à coup tout s'est mis à tourner, fluide, avec ombres et réflexions. Magnifique!
 - [Lost Church](http://www.ozone3d.net/demos_projects/lost_church.php) et [Musée Privé](http://www.ozone3d.net/demos_projects/private_museum.php) pour les application "architecturales", montrant le rendu des éclairages
 - [Aberration Chromatique](http://www.ozone3d.net/demos_projects/chromatic_aberration.php) qui visualise un objet transparent et les effets optiques qu'il provoque
 - [Fractale de Mandelbrot](http://www.ozone3d.net/demos_projects/mandelbrot_set.php), qui n'est pas de la 3D mais illustre un point important que je développe un peu plus bas.
@@ -39,8 +39,8 @@ Franchement ça vaut le coup, et Hypergraphics-3D a besoin d'un coup de main pou
 
 Il y a d'autres moyens de visualiser des produits ou projets en 3D "temps réel", mais ils entrent tous dans 2 catégories:
 
-1. les visualisateurs de fichers 3D comme [e-Drawings](http://www.solidworks.fr/sw/products/free-cad-software-downloads.htm) ont une interactivité limitée car prédéfinie : on ne peut que cacher certains éléments. D'autre part, visant le travail collaboratif, ils réduisent la taille des fichiers au minimum au détriment de la qualité du rendu.
-2. les "moteurs 3D" comme [Irrlicht](http://irrlicht.sourceforge.net/), qui sont fait pour être intégrés dans un programme spécifique développé par l'utilisateur. En pratique, cette approche est utilisée dans tous les jeux video
+1. les visualisateurs de fichers 3D comme [e-Drawings](https://web.archive.org/web/20081219092141/http://www.solidworks.fr/sw/products/free-cad-software-downloads.htm) ont une interactivité limitée car prédéfinie : on ne peut que cacher certains éléments. D'autre part, visant le travail collaboratif, ils réduisent la taille des fichiers au minimum au détriment de la qualité du rendu.
+2. les "moteurs 3D" comme [Irrlicht](https://web.archive.org/web/20070322102404/http://irrlicht.sourceforge.net/), qui sont fait pour être intégrés dans un programme spécifique développé par l'utilisateur. En pratique, cette approche est utilisée dans tous les jeux video
 
 [Hyperion](http://www.ozone3d.net/demoniak3d/) combine un moteur 3D performant avec un interpréteur XML et le langage de script [LUA](http://www.lua.org/) qui permet. Cette approche permet de combiner les avantages respectifs des 2 catégories ci dessus:
 

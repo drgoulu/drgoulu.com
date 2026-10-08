@@ -9,9 +9,9 @@ tags:
 coverImage: "./images/100926176fcf4783e6c895c3e56eb073.jpg"
 ---
 
-{{< figure src="./images/ffddd1653259fe355e0005617aed9164.png" link="http://jynus.com/hotlinking/" >}}
+{{< figure src="./images/ffddd1653259fe355e0005617aed9164.png" link="https://web.archive.org/web/20070502155130/http://jynus.com/hotlinking/" >}}
 
-Tout à coup, au lieu de l'image de [l'article précédent](/2007/04/29/ceci-nest-pas-un-corps-de-femme/), j'ai vu celle-ci. En suivant le lien, je suis tombé sur [cette page](http://jynus.com/hotlinking/) qui explique très bien, mais en anglais, ce qu'est le "hotlinking et ses conséquences:
+Tout à coup, au lieu de l'image de [l'article précédent](/2007/04/29/ceci-nest-pas-un-corps-de-femme/), j'ai vu celle-ci. En suivant le lien, je suis tombé sur [cette page](https://web.archive.org/web/20070502155130/http://jynus.com/hotlinking/) qui explique très bien, mais en anglais, ce qu'est le "hotlinking et ses conséquences:
 
 Le "hotlinking" consiste à n'insérer sur un site/blog (A) comme celui-ci que des liens vers les images stockées sur d'autres sites/blogs (B), au lieu de copier l'image entière sur le site de destination. Ceci a plusieurs conséquences:
 

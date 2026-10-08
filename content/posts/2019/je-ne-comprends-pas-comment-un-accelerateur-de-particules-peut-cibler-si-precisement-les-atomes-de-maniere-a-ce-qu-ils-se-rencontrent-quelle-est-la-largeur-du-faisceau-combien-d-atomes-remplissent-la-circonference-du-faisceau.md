@@ -30,7 +30,7 @@ Malgré ceci, “seulement” 600 millions de collisions par seconde se produise
 
 Le CERN a un grand projet en cours pour augmenter la luminosité du LHC d’un facteur 5 à 10: [Grand collisionneur de hadrons à haute luminosité](w:).
 
-Trouvé au passage une brochure très bien faite sur le LHC et ses caractéristiques : [https://project-physicsteaching....](https://project-physicsteaching.web.cern.ch/project-physicsteaching/french/brochures/lhc-guide.pdf)
+Trouvé au passage une brochure très bien faite sur le LHC et ses caractéristiques : [https://project-physicsteaching....](https://web.archive.org/web/20190613033107/https://project-physicsteaching.web.cern.ch/project-physicsteaching/french/brochures/lhc-guide.pdf)
 
 Notes de bas de page
 

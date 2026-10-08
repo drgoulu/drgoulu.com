@@ -26,7 +26,7 @@ Voici un  programme en Python de 173 caractères seulement qui serait le plus c
 def r(a): i=a.find('0') if i<0:print a [m in[(i-j)%9*(i/9^j/9)*(i/27^j/27|i%9/3^j%9/3)or a[j]for j in range(81)]or r(a[:i]+m+a[i+1:])for m in`14**7*9`]r(raw_input())
 {{< /highlight >}}
 
-Ce programme est extrêmement compact et condensé, voire cryptique à l'instar des [Cignatures](/2008/02/05/cignatures/). Ce n'est pas forcément la meilleure façon de programmer, mais ça révèle souvent la puissance cachée de certains langages. Ce programme est décrit en anglais et en détail [ici](http://www.daniweb.com/software-development/python/threads/86363), mais voici son principe en gros et en français:
+Ce programme est extrêmement compact et condensé, voire cryptique à l'instar des [Cignatures](/2008/02/05/cignatures/). Ce n'est pas forcément la meilleure façon de programmer, mais ça révèle souvent la puissance cachée de certains langages. Ce programme est décrit en anglais et en détail [ici](https://web.archive.org/web/20110326061845/http://www.daniweb.com/software-development/python/threads/86363), mais voici son principe en gros et en français:
 
 `def r(a): ... r(raw_input())` // définit la fonction "r" qui résout le sudoku, puis on l'appelle en passant en paramètre ce que l'utilisateur a entré au clavier. Ca doit être une chaine de 81 caractères contenant ligne par ligne les chiffres de 1 à 9 donnés, et des 0 aux emplacements vides.
 

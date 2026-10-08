@@ -13,7 +13,7 @@ coverImage: "./images/0ab5002eb0905a58eeb4fb81698bdb75.jpg"
 
 {{< figure src="./images/0ab5002eb0905a58eeb4fb81698bdb75.jpg" >}}
 
-L'initiative populaire sur laquelle le peuple et moi-même voterons le 11 mars propose de changer fondamentalement de système de santé en Suisse. Son [texte](http://www.admin.ch/ch/f/pore/vi/vi316t.html) est exceptionnellement court et simple :
+L'initiative populaire sur laquelle le peuple et moi-même voterons le 11 mars propose de changer fondamentalement de système de santé en Suisse. Son [texte](https://web.archive.org/web/20070225110116/http://www.admin.ch/ch/f/pore/vi/vi316t.html) est exceptionnellement court et simple :
 
 > Art. 117, al. 3 (nouveau) La Confédération institue une caisse unique pour l'assurance obligatoire des soins. (...) La loi règle le financement de la caisse. Elle fixe les primes en fonction de la capacité économique des assurés.
 

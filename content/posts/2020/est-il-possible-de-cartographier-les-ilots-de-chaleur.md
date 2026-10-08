@@ -19,4 +19,4 @@ Les [Îlot de chaleur urbain](w:)y sont visibles avec pas mal de details
 
 ![](./images/qimg-8577caf12323f4a4031a8c2e8b3c4edd.jpg)
 
-[So Hot That We Can See Those Urban Heat Islands From Space - The Global Warming Policy Forum (GWPF)](https://www.thegwpf.com/so-hot-that-we-can-see-those-urban-heat-islands-from-space/)
+[So Hot That We Can See Those Urban Heat Islands From Space - The Global Warming Policy Forum (GWPF)](https://web.archive.org/web/20201108001412/https://www.thegwpf.com/so-hot-that-we-can-see-those-urban-heat-islands-from-space/)

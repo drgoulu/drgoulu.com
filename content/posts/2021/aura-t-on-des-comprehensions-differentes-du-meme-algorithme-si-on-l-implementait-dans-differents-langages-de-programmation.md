@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 En principe pas. Les langages de programmation ont surtout des différences syntaxiques, mais fondamentalement ils sont tous "[Turing-complets](w:Turing-complet)" et compilables en code machine, donc traductibles d'un langage à un autre.
 
-Le site [Rosetta Code](http://www.rosettacode.org/) est la référence pour comparer les implémentations d'algos en divers langages
+Le site [Rosetta Code](https://web.archive.org/web/20210131024155/http://www.rosettacode.org/) est la référence pour comparer les implémentations d'algos en divers langages

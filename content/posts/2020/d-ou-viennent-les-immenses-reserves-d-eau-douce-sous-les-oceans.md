@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Do%C3%B9-viennent-les-immenses-r%C3%A9serves-deau-douce-sous-les-oc%C3%A9ans/answer/Dr-Goulu)*
 
-[De vastes réserves d'eau douce sous les](https://www.lemonde.fr/planete/article/2013/12/06/de-vastes-reserves-d-eau-douce-sous-les-mers_3526469_3244.html)mers :
+[De vastes réserves d'eau douce sous les](https://web.archive.org/web/20200811220838/https://www.lemonde.fr/planete/article/2013/12/06/de-vastes-reserves-d-eau-douce-sous-les-mers_3526469_3244.html)mers :
 
 > Il ne faut pas s'imaginer de grandes étendues d'eau pure et limpide. Il s'agit en réalité d'eau saumâtre – mais beaucoup moins chargée en sel que celle des océans – présente, en grande quantité dans les sédiments du plancher océanique.
 >

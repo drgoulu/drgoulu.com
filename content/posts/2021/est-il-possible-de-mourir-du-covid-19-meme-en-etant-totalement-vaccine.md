@@ -24,8 +24,8 @@ Ce chiffre signifie que sur les 10 malades graves qu'il y a eu pendant ce test, 
 
 Source :
 
-[https://www.infovac.ch/fr/infova...](https://www.infovac.ch/fr/infovac/actualites/862-vaccins-contre-covid-19-resultats-interimaires-d-efficacite-et-de-securite)
+[https://www.infovac.ch/fr/infova...](https://web.archive.org/web/20210705051722/https://www.infovac.ch/fr/infovac/actualites/862-vaccins-contre-covid-19-resultats-interimaires-d-efficacite-et-de-securite)
 
 Article détaillé
 
-[https://www.thelancet.com/journa...](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00947-8/fulltext)
+[https://www.thelancet.com/journa...](https://web.archive.org/web/20210719123723/https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00947-8/fulltext)

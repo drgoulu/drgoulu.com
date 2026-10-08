@@ -20,7 +20,7 @@ Oui. Nous n'avons jamais été aussi nombreux, aussi riches, autant en bonne san
 
 Pour vous en convaincre, regardez les fantastiques conférences du regretté Hans Rosling au Ted
 
-[https://www.ted.com/playlists/47...](https://www.ted.com/playlists/474/the_best_hans_rosling_talks_yo)
+[https://www.ted.com/playlists/47...](https://web.archive.org/web/20250805002028/https://www.ted.com/playlists/474/the_best_hans_rosling_talks_yo)
 
 Et je ne sais plus qui a dit:
 

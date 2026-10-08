@@ -42,4 +42,4 @@ Notes de bas de page
 
 [[1]](#cite-SrzsY)[Le plus meurtrier des mammifères est le suricate loin devant l'Homme - Sciences et Avenir](https://www.sciencesetavenir.fr/archeo-paleo/evolution/le-plus-meurtrier-des-mammiferes-est-le-suricate-loin-devant-l-homme_105328)
 
-[[2]](#cite-PCxcL)[L'humain est-il un polygame refoulé ? Partie 3/3 : écologie, culture et Dr House](https://homofabulus.com/lhomme-est-il-un-polygame-refoule-partie-33/)
+[[2]](#cite-PCxcL)[L'humain est-il un polygame refoulé ? Partie 3/3 : écologie, culture et Dr House](https://web.archive.org/web/20220125023211/https://homofabulus.com/lhomme-est-il-un-polygame-refoule-partie-33/)

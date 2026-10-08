@@ -15,7 +15,7 @@ Oui. Ca s'appelle une analyse "well to wheel", du puits à la roue.
 
 Une des plus complète est le modèle GREET du [Laboratoire national d'Argonne](w:) aux USA.
 
-Vous pouvez télécharger leurs données ici : [https://greet.es.anl.gov/](https://greet.es.anl.gov/)
+Vous pouvez télécharger leurs données ici : [https://greet.es.anl.gov/](https://web.archive.org/web/20210716132214/https://greet.es.anl.gov/)
 
 En gros et sans surprise, tout dépend du mix énergétique utilisé pour produire l'électricité, mais en après une année environ, le surcoût énergétique de la production d'un véhicule électrique est amorti.
 

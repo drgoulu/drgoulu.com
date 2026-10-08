@@ -58,7 +58,7 @@ Voilà Andrew, comme 99.99% de la population je n'ai rien compris à ta prodigie
 
 ### Références
 
-1. <span id="ref-1"></span> Andrew Wiles. "Modular elliptic curves and Fermat's Last Theorem", 1995, Annals of Mathematics 142 (3): 443–551. {{< altmetric doi="10.2307/2118559" >}}. ([PDF text version](http://users.tpg.com.au/nanahcub/flt.pdf))
+1. <span id="ref-1"></span> Andrew Wiles. "Modular elliptic curves and Fermat's Last Theorem", 1995, Annals of Mathematics 142 (3): 443–551. {{< altmetric doi="10.2307/2118559" >}}. ([PDF text version](https://web.archive.org/web/20160702065419/http://users.tpg.com.au/nanahcub/flt.pdf))
 2. <span id="ref-2"></span>séquence "Homer³" dans "[Les Simpson Spécial Halloween VI](w:Simpson_Horror_Show_VI)", épisode 6 saison 7, 1995
 3. <span id="ref-3"></span>[La Dernière Invention d'Homer](w:), Les Simpson épisode 2 saison 10, 1998
 4. <span id="ref-4"></span>video "[Homer Simpson vs Pierre de Fermat](https://www.youtube.com/watch?v=ReOQ300AcSU)" de Numberphile sur ce sujet (en anglais)

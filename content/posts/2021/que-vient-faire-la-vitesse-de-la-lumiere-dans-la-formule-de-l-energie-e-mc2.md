@@ -25,7 +25,7 @@ La question était : comment la masse se transforme en énergie cinétique des p
 
 L' idée d'Albert exposée dans son génial article
 
-[Albert Einstein](w:), « Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?», *Annalen der Physik*, vol. 18, no 13,‎ 1905, p. 639–641 ([DOI](w:Digital_Object_Identifier) [10.1002/andp.19053231314](https://dx.doi.org/10.1002/andp.19053231314), [Bibcode](w:) [1905AnP...323..639E](https://ui.adsabs.harvard.edu/abs/1905AnP...323..639E)
+[Albert Einstein](w:), « Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?», *Annalen der Physik*, vol. 18, no 13,‎ 1905, p. 639–641 ([DOI](w:Digital_Object_Identifier) [10.1002/andp.19053231314](https://web.archive.org/web/20210319005607/https://dx.doi.org/10.1002/andp.19053231314), [Bibcode](w:) [1905AnP...323..639E](https://web.archive.org/web/20210308030254/https://ui.adsabs.harvard.edu/abs/1905AnP...323..639E)
 
 c'est de se placer dans le référentiel des diverses particules massives émises avec une vitesse très élevée, et de dire que la somme de l énergie cinétique de toutes les particules émises doit être la même dans tous les référentiels.
 

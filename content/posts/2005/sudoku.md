@@ -13,7 +13,7 @@ Ce jeu "à la mode" n’est en fait pas très difficile si on suit une méthode 
 
 Les 2 "solveurs en ligne" suivants montrent la méthode en résolvant un Sudoku pas à pas :
 
-- [http://www.sudokusolver.co.uk](http://www.sudokusolver.co.uk)
+- [http://www.sudokusolver.co.uk](https://web.archive.org/web/20051001121117/http://www.sudokusolver.co.uk)
 - [http://www.scanraid.com/sudoku.htm](http://www.sudokuwiki.org/sudoku.htm)
 - celui-ci permet d'imprimer un sudoku pour le résoudre à la main [http://sudoku.friko.net](http://sudoku.friko.net)
 

@@ -36,5 +36,5 @@ Moi je suis pour. Et vers Europe et Encelade aussi. Parce qu'il faut qu'on en ap
 
 **Références**
 
-1. Sousa-Silva, C., Seager, S., Ranjan, S., Petkowski, J. J., Zhan, Z., Hu, R., & Bains, W. (2020). [Phosphine as a Biosignature Gas in Exoplanet Atmospheres](https://doi.org/10.1089/ast.2018.1954). Astrobiology, 20(2), 235–268. (pdf [sur arXiv)](https://arxiv.org/abs/1910.05224)
+1. Sousa-Silva, C., Seager, S., Ranjan, S., Petkowski, J. J., Zhan, Z., Hu, R., & Bains, W. (2020). [Phosphine as a Biosignature Gas in Exoplanet Atmospheres](https://web.archive.org/web/20200917174452/https://doi.org/10.1089/ast.2018.1954). Astrobiology, 20(2), 235–268. (pdf [sur arXiv)](https://arxiv.org/abs/1910.05224)
 2. Greaves, J.S., Richards, A.M.S., Bains, W. *et al.* [Phosphine gas in the cloud decks of Venus](https://doi.org/10.1038/s41550-020-1174-4). *Nat Astron* (2020). (pdf [sur arXiv)](https://arxiv.org/abs/2009.06593)

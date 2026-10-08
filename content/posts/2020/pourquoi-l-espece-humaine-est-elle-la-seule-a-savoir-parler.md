@@ -32,7 +32,7 @@ On pense même que les seiches et le pieuvres peuvent communiquer entre elles en
 
 Notes de bas de page
 
-[[1]](#cite-cRvTD)[The study of acoustic signals and the supposed spoken language of the dolphins](https://www.sciencedirect.com/science/article/pii/S2405722316301177)
+[[1]](#cite-cRvTD)[The study of acoustic signals and the supposed spoken language of the dolphins](https://web.archive.org/web/20201108135131/https://www.sciencedirect.com/science/article/pii/S2405722316301177)
 
 [[2]](#cite-fUvug)[Connaissez-vous le chant des girafes ? - Ça m'intéresse](https://www.caminteresse.fr/animaux/connaissez-vous-le-chant-des-girafes-11139791/)
 

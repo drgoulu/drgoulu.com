@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 À ma connaissance, les serveurs de MTN Money Service qui permettent à des millions d'africains de payer par SMS aont en Afrique du Sud…
 
-[https://www.balancingact-africa....](https://www.balancingact-africa.com/news/telecoms-fr/20322/lafrique-championne-du-paiement-par-téléphone-mobile)
+[https://www.balancingact-africa....](https://web.archive.org/web/20210829/https://www.balancingact-africa.com/news/telecoms-fr/20322/lafrique-championne-du-paiement-par-téléphone-mobile)
 
 Un des problèmes est que l'intérieur du continent est encore mal desservi en fibre, mais ça change vite
 

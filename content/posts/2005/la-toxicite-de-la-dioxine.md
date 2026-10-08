@@ -14,11 +14,11 @@ L’émission ["Histoire Vivante"](http://pages.rts.ch/docs/) de la Radio Suisse
 
 <!--more-->
 
-Sans aller jusqu’au point des [Chlorophiles](http://www.scarlet.be/~ping5859/Fr/ChloreDiTox.html) pour lesquels tous les composés chlorés sont tellement géniaux qu’il faudrait en manger tous les matins à la petite cuillère, on peut quand même se poser des questions : après avoir craint des centaines de morts, voire des milliers par augmentation des cancers, il faut se rendre à l’évidence : Seveso n’a causé aucun mort.
+Sans aller jusqu’au point des [Chlorophiles](https://web.archive.org/web/20050623/http://www.scarlet.be/~ping5859/Fr/ChloreDiTox.html) pour lesquels tous les composés chlorés sont tellement géniaux qu’il faudrait en manger tous les matins à la petite cuillère, on peut quand même se poser des questions : après avoir craint des centaines de morts, voire des milliers par augmentation des cancers, il faut se rendre à l’évidence : Seveso n’a causé aucun mort.
 
 Il semblerait qu’il faille considérer plusieurs éléments dont dont on a peu ou pas parlé lors de l’affaire Seveso :
 
-- il n’y a pas "la" dioxine, mais "les dioxines", une famille de produits dont [la toxicité varie d’une variante à l’autre](http://membres.multimania.fr/pow0/Dioxines_toxicite.htm)
+- il n’y a pas "la" dioxine, mais "les dioxines", une famille de produits dont [la toxicité varie d’une variante à l’autre](https://web.archive.org/web/20101005031048/http://membres.multimania.fr/pow0/Dioxines_toxicite.htm)
 - [la toxicité des dioxines varie aussi fortement en fonction des espèces](http://agora.qc.ca/Dossiers/Dioxine)
 - il semble que les dioxines sont surtout cancérigènes en combinaison avec d’autres produits.
 

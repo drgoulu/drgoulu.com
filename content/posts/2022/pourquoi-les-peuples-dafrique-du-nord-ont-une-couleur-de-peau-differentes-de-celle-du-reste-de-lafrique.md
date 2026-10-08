@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il y a au moins 4 gènes qui jouent un rôle dans la [Couleur de la peau humaine](w:), et le soleil fait le reste.
 
-[https://www.science.org/doi/10.1...](https://www.science.org/doi/10.1126/science.aan8433)
+[https://www.science.org/doi/10.1...](https://web.archive.org/web/20220305155245/https://www.science.org/doi/10.1126/science.aan8433)

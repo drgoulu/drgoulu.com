@@ -20,7 +20,7 @@ je mentionnerais [Emmy Noether.](w:Emmy_Noether)
 
 Après avoir reçu le [Théorème de Noether](w:Théorème_de_Noether_\(physique\)), Einstein écrivit à Hilbert : « J'ai reçu hier de Mademoiselle Noether un article fort intéressant sur les invariants. J'ai été impressionné par le degré de généralité apporté par cette analyse. La vieille garde à Göttingen devrait prendre des leçons de Mademoiselle Noether ; elle semble maîtriser le sujet ! »
 
-Je viens de faire un petit [Google Trends](<https://trends.google.fr/trends/explore?q=Cecilia Payne-Gaposchkin,/m/0138rf,/m/0jfw8,/m/0mgnt,/m/03y7yh&date=all#TIMESERIES>) sur les noms mentionnés dans les diverses réponses, espérant que les mouvements féministes auraient contribué à remettre ces grandes scientifiques dans la lumière, mais hélas on voit que ce ne sont que les anniversaires de leurs découvertes qui motivent un peu de curiosité
+Je viens de faire un petit [Google Trends](<https://web.archive.org/web/20210607/https://trends.google.fr/trends/explore?q=Cecilia Payne-Gaposchkin,/m/0138rf,/m/0jfw8,/m/0mgnt,/m/03y7yh&date=all#TIMESERIES>) sur les noms mentionnés dans les diverses réponses, espérant que les mouvements féministes auraient contribué à remettre ces grandes scientifiques dans la lumière, mais hélas on voit que ce ne sont que les anniversaires de leurs découvertes qui motivent un peu de curiosité
 
 ![](./images/qimg-b6eb2f0f854bd98c6eb6ecd5dbf18ecf.jpg)
 

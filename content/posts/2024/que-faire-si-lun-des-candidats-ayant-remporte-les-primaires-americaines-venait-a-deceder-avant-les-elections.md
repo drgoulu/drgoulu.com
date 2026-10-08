@@ -24,4 +24,4 @@ Enfin
 
 > Si le candidat mort est néanmoins désigné par les grands électeurs, le Congrès doit se réunir pour décider si oui ou non il valide ces votes. Si oui, le candidat mort devient officiellement le président élu et le XXe amendement, qui prévoit son remplacement par le vice-président, intervient immédiatement. Sinon, [la Chambre des représentants élit le président parmi les trois candidats comptabilisant le plus de votes,](w:en:Twelfth_Amendment_to_the_United_States_Constitution) à raison d'une voix par délégation de chaque état (soit 50 voix au total).
 
-[https://www.slate.fr/story/12202...](https://www.slate.fr/story/122021/presidentielle-americaine-candidat-meurt-retire)
+[https://www.slate.fr/story/12202...](https://web.archive.org/web/20240628163621/https://www.slate.fr/story/122021/presidentielle-americaine-candidat-meurt-retire)

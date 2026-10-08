@@ -20,7 +20,7 @@ Vous avez les chiffres ?
 
 Moi pas, alors j'ai cherché et trouvé ce document
 
-[Écarts de fécondité en fonction du niveau d’instruction : le rôle de la religion en Grande-Bretagne et en France](https://shs.cairn.info/revue-population-2020-1-page-9?lang=fr)
+[Écarts de fécondité en fonction du niveau d’instruction : le rôle de la religion en Grande-Bretagne et en France](https://web.archive.org/web/20240914200052/https://shs.cairn.info/revue-population-2020-1-page-9?lang=fr)
 
 qui montre que le mot important de votre question pourrait bien être "pauvres" : les femmes ayant un niveau d'instruction faible (et donc probablement le revenu qui va avec…) ont plus d'enfants que les femmes plus instruites.
 
@@ -40,8 +40,8 @@ Donc pas grosse différence entre les femmes maghrébines, probablement musulman
 
 Les femmes africaines ont presque un enfant de plus, mais sont-elles toutes musulmanes ? Allez voir une messe ou un culte évangéliste pour vous faire une idée..
 
-Ou sinon, regardez cette magnifique [conférence de Hans Rosling sur ce sujet](https://www.ted.com/talks/hans_rosling_religions_and_babies)
+Ou sinon, regardez cette magnifique [conférence de Hans Rosling sur ce sujet](https://web.archive.org/web/20250318021008/https://www.ted.com/talks/hans_rosling_religions_and_babies)
 
-[https://www.ted.com/talks/hans_r...](https://www.ted.com/talks/hans_rosling_religions_and_babies)
+[https://www.ted.com/talks/hans_r...](https://web.archive.org/web/20250318021008/https://www.ted.com/talks/hans_rosling_religions_and_babies)
 
 La conclusion est que "pauvres" est bien le mot clé de votre question.

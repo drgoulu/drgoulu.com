@@ -32,4 +32,4 @@ Notes de bas de page
 
 [[1]](#cite-jxKli)[https://www.contrepoints.org/?p=...](https://www.contrepoints.org/?p=41517)
 
-[[2]](#cite-rHzRT)[https://www.aft-bo.gouv.fr/fr/bu...](https://www.aft-bo.gouv.fr/fr/budget-etat)
+[[2]](#cite-rHzRT)[https://www.aft-bo.gouv.fr/fr/bu...](https://web.archive.org/web/20250426/https://www.aft-bo.gouv.fr/fr/budget-etat)

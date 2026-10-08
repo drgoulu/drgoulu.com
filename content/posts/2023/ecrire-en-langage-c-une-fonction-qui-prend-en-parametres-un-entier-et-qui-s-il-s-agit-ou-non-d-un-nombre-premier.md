@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 N'écrivez pas, réutilisez.
 
-[https://rosettacode.org/wiki/Mil...](https://rosettacode.org/wiki/Miller–Rabin_primality_test#C)
+[https://rosettacode.org/wiki/Mil...](https://web.archive.org/web/20230727093237/https://rosettacode.org/wiki/Miller–Rabin_primality_test#C)

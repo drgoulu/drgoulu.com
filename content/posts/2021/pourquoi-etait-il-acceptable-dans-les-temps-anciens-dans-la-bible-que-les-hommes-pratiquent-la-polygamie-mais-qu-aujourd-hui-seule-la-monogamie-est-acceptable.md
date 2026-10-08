@@ -24,9 +24,9 @@ Aujourd'hui, l'espérance de vie des hommes est encore inférieure à celles des
 
 Si ce sujet vous intéresse, je vous recommande très vivement la lecture des trois articles de mon pote Homo Fabulus sur ce sujet, super intéressant et marrant à la fois :
 
-[http://homofabulus.com/homme-est...](http://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/)
+[http://homofabulus.com/homme-est...](https://web.archive.org/web/20210517202752/http://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/)
 
-[http://homofabulus.com/homme-pol...](http://homofabulus.com/homme-polygamie-partie-2-monogamie-en-serie/)
+[http://homofabulus.com/homme-pol...](https://web.archive.org/web/20210615154027/http://homofabulus.com/homme-polygamie-partie-2-monogamie-en-serie/)
 
 [https://www.cafe-sciences.org/lh...](https://www.cafe-sciences.org/lhomme-est-il-un-polygame-refoule-partie-33-ecologie-culture-et-dr-house/)
 

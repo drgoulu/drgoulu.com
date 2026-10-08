@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Si, l'altitude du Mont Blanc varie, ou plutôt sa distance au centre de la Terre, d'environ 22cm deux fois par jour, et la votre aussi.
 
-C'est la "marée solide" (voir [Déformation de la Terre solide et notion d'onde de marée](https://planet-terre.ens-lyon.fr/ressource/maree-Terre-solide-onde.xml) , ENS Lyon )
+C'est la "marée solide" (voir [Déformation de la Terre solide et notion d'onde de marée](https://web.archive.org/web/20230419233929/https://planet-terre.ens-lyon.fr/ressource/maree-Terre-solide-onde.xml) , ENS Lyon )
 
 Elle se détecte par divers instruments, notamment au CERN où elle perturbe l'alignement du faisceau de particules [[1]](#MTmaR).
 

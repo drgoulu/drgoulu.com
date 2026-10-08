@@ -28,5 +28,5 @@ En partant du principe que l'atmosphère est quand même bien brassée pour que 
 
 Références:
 
-1. [Des carottes glaciaires pour sonder le climat du passé](https://m.simplyscience.ch/archives-jeunes/articles/des-carottes-glaciaires-pour-sonder-le-climat-du-passe.html)
+1. [Des carottes glaciaires pour sonder le climat du passé](https://web.archive.org/web/20210116114346/https://m.simplyscience.ch/archives-jeunes/articles/des-carottes-glaciaires-pour-sonder-le-climat-du-passe.html)
 2. [Le thermomètre isotopique, pour prendre la température dans la glace](https://www.futura-sciences.com/planete/dossiers/climatologie-analyse-isotopique-eau-cle-comprendre-climat-2076/page/5/)

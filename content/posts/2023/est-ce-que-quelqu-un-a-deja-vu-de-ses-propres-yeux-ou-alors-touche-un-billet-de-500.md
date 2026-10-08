@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non, mais statistiquement je devrais avoir 6 billets de 1000 Francs suisses, vu qu'il y en a 48 millions en circulation pour une population de 8 millions.
 
-[https://www.snb.ch/fr/iabout/cas...](https://www.snb.ch/fr/iabout/cash/id/cash_circulation)
+[https://www.snb.ch/fr/iabout/cas...](https://web.archive.org/web/20230924231413/https://www.snb.ch/fr/iabout/cash/id/cash_circulation)

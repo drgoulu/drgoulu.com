@@ -20,4 +20,4 @@ Consultez [l](https://www.volcanodiscovery.com/fr//eruption_volcans.html)a[Liste
 
 Actuellement le plus proche de l'Europe est le [Stromboli](https://www.volcanodiscovery.com/fr/stromboli.html) , mais son activité décroit.
 
-le plus spectaculaire, mais le plus loin aussi est probablement le [Yasur](http://volcano.si.edu/volcano.cfm?vn=257100) aux iles Vanuatu. Si vous avez les moyens vous pouvez même voler au dessus : [Mt Yasur Overnight Tour From Port Vila - Yasur Volcano Tour](https://airtaxivanuatu.com/flights/tanna-mt-yasur-overnight-tour/)
+le plus spectaculaire, mais le plus loin aussi est probablement le [Yasur](https://web.archive.org/web/20191203100340/http://volcano.si.edu/volcano.cfm?vn=257100) aux iles Vanuatu. Si vous avez les moyens vous pouvez même voler au dessus : [Mt Yasur Overnight Tour From Port Vila - Yasur Volcano Tour](https://web.archive.org/web/20191129021330/https://airtaxivanuatu.com/flights/tanna-mt-yasur-overnight-tour/)

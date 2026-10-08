@@ -22,4 +22,4 @@ Si les calottes polaires du Groenland et de l'Antarctique fondaient, le niveau d
 
 [What the World Would Look Like if All the Ice Melted](https://www.nationalgeographic.com/magazine/2013/09/rising-seas-ice-melt-new-shoreline-maps/)
 
-Un simulateur gradué en degrés de réchauffement est ici : [Mapping Choices: Which sea level will we lock in?](https://choices.climatecentral.org/#8/40.716/-73.998?compare=temperatures&carbon-end-yr=2100&scenario-a=historic&scenario-b=warming-4)
+Un simulateur gradué en degrés de réchauffement est ici : [Mapping Choices: Which sea level will we lock in?](https://web.archive.org/web/20191003055004/https://choices.climatecentral.org/#8/40.716/-73.998?compare=temperatures&carbon-end-yr=2100&scenario-a=historic&scenario-b=warming-4)

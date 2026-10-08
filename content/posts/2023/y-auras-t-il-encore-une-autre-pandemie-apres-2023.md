@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Oh oui, tout plein.
 
-D'ailleurs la [pandémie de Sida se poursuit avec notamment un nouveau variant du VIH, selon l'ONUSIDA](https://news.un.org/fr/story/2022/02/1113742)
+D'ailleurs la [pandémie de Sida se poursuit avec notamment un nouveau variant du VIH, selon l'ONUSIDA](https://web.archive.org/web/20230730070052/https://news.un.org/fr/story/2022/02/1113742)
 
 Et des dizaines d'épidémies sont en cours, chacune ou presque pouvant s'étendre très rapidement
 

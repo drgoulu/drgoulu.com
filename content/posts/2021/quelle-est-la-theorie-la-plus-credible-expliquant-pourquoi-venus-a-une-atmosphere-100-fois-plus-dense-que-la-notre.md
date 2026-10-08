@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Cet article récent vous expliquera tout ce qu'on en sait pour l'instant en 66 pages, dont 15 de références :
 
-Lammer, H., Zerkle, A. L., Gebauer, S., Tosi, N., Noack, L., Scherf, M., … Nikolaou, A. (2018). [Origin and evolution of the atmospheres of early Venus, Earth and Mars](https://doi.org/10.1007/s00159-018-0108-y) . Astronomy and Astrophysics Review, 26(1), 1–66. ( [https://core.ac.uk/download/pdf/...](https://core.ac.uk/download/pdf/199212182.pdf) )
+Lammer, H., Zerkle, A. L., Gebauer, S., Tosi, N., Noack, L., Scherf, M., … Nikolaou, A. (2018). [Origin and evolution of the atmospheres of early Venus, Earth and Mars](https://doi.org/10.1007/s00159-018-0108-y) . Astronomy and Astrophysics Review, 26(1), 1–66. ( [https://core.ac.uk/download/pdf/...](https://web.archive.org/web/20240415181822/https://core.ac.uk/download/pdf/199212182.pdf) )
 
 Je vous traduis le paragraphe de la conclusion relatif à Vénus:
 

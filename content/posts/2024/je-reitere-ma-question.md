@@ -28,6 +28,6 @@ La Russie a toujours eu droit à sa sécurité. Son gouvernement a désormais ce
 
 Notes de bas de page
 
-[[1]](#cite-yowko)[Ton positif en tête à tête, whataboutisme en conférence de presse, revivez le sommet Biden-Poutine](https://www.liberation.fr/international/europe/en-direct-suivez-la-rencontre-biden-poutine-un-long-mercredi-de-retrouvailles-20210616_GUNSGAL6NVAULMYJLREATER2W4/)
+[[1]](#cite-yowko)[Ton positif en tête à tête, whataboutisme en conférence de presse, revivez le sommet Biden-Poutine](https://web.archive.org/web/20240909134949/https://www.liberation.fr/international/europe/en-direct-suivez-la-rencontre-biden-poutine-un-long-mercredi-de-retrouvailles-20210616_GUNSGAL6NVAULMYJLREATER2W4/)
 
-[[2]](#cite-VKtpG)[Echange de mises en garde entre Joe Biden et Vladimir Poutine sur l'Ukraine — Genève Vision, un nouveau point de vue](https://www.genevevision.ch/echange-de-mises-en-garde-entre-joe-biden-et-vladimir-poutine-sur-lukraine/)
+[[2]](#cite-VKtpG)[Echange de mises en garde entre Joe Biden et Vladimir Poutine sur l'Ukraine — Genève Vision, un nouveau point de vue](https://web.archive.org/web/20240721204304/https://www.genevevision.ch/echange-de-mises-en-garde-entre-joe-biden-et-vladimir-poutine-sur-lukraine/)

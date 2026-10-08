@@ -37,6 +37,6 @@ Le résultat de cette politique est la radicalisation progressive des organisati
 
 > les amis d’Israël doivent agir sans attendre et reconnaître un Etat palestinien
 
-[https://www.lemonde.fr/idees/art...](https://www.lemonde.fr/idees/article/2024/05/04/elie-barnavi-historien-reconnaitre-un-etat-palestinien-maintenant_6231441_3232.html)
+[https://www.lemonde.fr/idees/art...](https://web.archive.org/web/20240511203546/https://www.lemonde.fr/idees/article/2024/05/04/elie-barnavi-historien-reconnaitre-un-etat-palestinien-maintenant_6231441_3232.html)
 
 Je suis donc désormais un pro palestinien ami d'Israël.

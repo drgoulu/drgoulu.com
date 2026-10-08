@@ -26,4 +26,4 @@ Je ne sais pas si les gouvernements font explicitement des différences entre le
 
 Notes de bas de page
 
-[[1]](#cite-TFSoj)[https://www.ouest-france.fr/ledi...](https://www.ouest-france.fr/leditiondusoir/2021-08-09/le-rapport-du-giec-ouvre-aussi-la-chasse-au-methane-95998724-66ed-4cb4-8335-a896c6386f0e)
+[[1]](#cite-TFSoj)[https://www.ouest-france.fr/ledi...](https://web.archive.org/web/20210817185508/https://www.ouest-france.fr/leditiondusoir/2021-08-09/le-rapport-du-giec-ouvre-aussi-la-chasse-au-methane-95998724-66ed-4cb4-8335-a896c6386f0e)

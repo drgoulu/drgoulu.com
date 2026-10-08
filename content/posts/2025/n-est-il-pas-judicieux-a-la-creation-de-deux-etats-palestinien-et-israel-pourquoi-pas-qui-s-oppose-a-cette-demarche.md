@@ -27,4 +27,4 @@ Dans un monde parallèle, ce sont les arabes qui ont gagné la guerre de 1948, c
 
 Notes de bas de page
 
-[[1]](#cite-ZPUUI)[https://www.timesofisrael.com/pm...](https://www.timesofisrael.com/pm-said-warned-while-hospitalized-months-before-oct-7-of-israels-exposure-to-attack/)
+[[1]](#cite-ZPUUI)[https://www.timesofisrael.com/pm...](https://web.archive.org/web/20250716072626/https://www.timesofisrael.com/pm-said-warned-while-hospitalized-months-before-oct-7-of-israels-exposure-to-attack/)

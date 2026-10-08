@@ -15,4 +15,4 @@ en sachant compter.
 
 ![](./images/qimg-bea158111539b6e66bc5a5b5008bb35c.png)
 
-Source : [Death rates per unit of electricity production](https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh) et [Electricity generation and health - PubMed](https://pubmed.ncbi.nlm.nih.gov/17876910/)
+Source : [Death rates per unit of electricity production](https://web.archive.org/web/20240313134040/https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh) et [Electricity generation and health - PubMed](https://pubmed.ncbi.nlm.nih.gov/17876910/)

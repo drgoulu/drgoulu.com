@@ -26,4 +26,4 @@ Pour l'instant, c'est remplacer "Kiev" par "Kyïv" sans justification qui est co
 
 (Je voterai en faveur de ce changement, qui a déjà eu lieu sur Wikipedia anglophone et quelques autres, mais pas sur de nombreuses autres)
 
-(Je remarque sur [un document officiel Suisse](https://www.eda.admin.ch/eda/fr/dfae/representations-et-conseils-pour-les-voyages/ukraine/suisse-ukraine.html) l'usage des deux orthographes, une fois chacun… Neutralité quand tu nous tient…)
+(Je remarque sur [un document officiel Suisse](https://web.archive.org/web/20250518080350/https://www.eda.admin.ch/eda/fr/dfae/representations-et-conseils-pour-les-voyages/ukraine/suisse-ukraine.html) l'usage des deux orthographes, une fois chacun… Neutralité quand tu nous tient…)

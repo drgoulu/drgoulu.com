@@ -24,4 +24,4 @@ Je ne pense pas que le terme "croyance" soit correct pour ces positions philosop
 
 Notes de bas de page
 
-[[1]](#cite-iijMv)[Every Now and Then, no-futurism faces no sceptical problems](https://www.academia.edu/3377010/Every_Now_and_Then_no-futurism_faces_no_sceptical_problems)
+[[1]](#cite-iijMv)[Every Now and Then, no-futurism faces no sceptical problems](https://web.archive.org/web/20200103/https://www.academia.edu/3377010/Every_Now_and_Then_no-futurism_faces_no_sceptical_problems)

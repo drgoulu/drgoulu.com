@@ -15,10 +15,10 @@ De très nombreuses études montrent que le port du masque réduit significative
 
 Voir par exemple
 
-[https://www.sciencedirect.com/sc...](https://www.sciencedirect.com/science/article/pii/S0140673620311429)
+[https://www.sciencedirect.com/sc...](https://web.archive.org/web/20211128111343/https://www.sciencedirect.com/science/article/pii/S0140673620311429)
 
 et
 
-[https://www.pnas.org/content/118...](https://www.pnas.org/content/118/4/e2014564118#sec-22)
+[https://www.pnas.org/content/118...](https://web.archive.org/web/20211128194833/https://www.pnas.org/content/118/4/e2014564118#sec-22)
 
 qui sont des "méta analyses" recoupant les résultats de dizaines d'études citées en référence de chacun des articles.

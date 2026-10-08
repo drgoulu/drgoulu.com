@@ -14,4 +14,4 @@ coverImage: ./images/quora.png
 
 Parce que la géologie peut y produire des montagnes comme le [Massif Vinson](w:) et des petits malins les photoshopper pour vous faire tout gober.
 
-[Mais que sont ces mystérieuses](https://hitek.fr/actualite/pyramide-antarctique-mystere-theorie_11356)
+[Mais que sont ces mystérieuses](https://web.archive.org/web/20190919143133/https://hitek.fr/actualite/pyramide-antarctique-mystere-theorie_11356)

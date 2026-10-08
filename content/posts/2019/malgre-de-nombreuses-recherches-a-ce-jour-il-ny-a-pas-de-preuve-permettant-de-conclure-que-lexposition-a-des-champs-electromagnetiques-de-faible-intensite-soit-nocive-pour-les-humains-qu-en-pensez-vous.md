@@ -20,7 +20,7 @@ Par contre, je peux citer des tas de cas où ils sont bénéfiques pour les huma
 
 - les gens qui ne se sont pas perdus grâce au GPS
 - les gens qui ont pu appeler au secours depuis le fond d'un ravin voire d'une crevasse avec leur téléphone portable
-- les cancers du cerveau qui ont été traités PAR des champs électromagnétiques (d'intensité assez forte même). L'idée des "[Tumor treating fields](http://cancerres.aacrjournals.org/content/77/13_Supplement/CT007)" est que les champs électromagnétiques puissants ralentissent, voire empêchent la division cellulaire. Or un cancer, c'est une division cellulaire incontrôlée… Et en plus, dans le cerveau adulte, les neurones ne se reproduisent (presque) plus. Donc en soumettant le cerveau à un champ bien étudié, on empêche le cancer de se développer.
+- les cancers du cerveau qui ont été traités PAR des champs électromagnétiques (d'intensité assez forte même). L'idée des "[Tumor treating fields](https://web.archive.org/web/20191016102236/http://cancerres.aacrjournals.org/content/77/13_Supplement/CT007)" est que les champs électromagnétiques puissants ralentissent, voire empêchent la division cellulaire. Or un cancer, c'est une division cellulaire incontrôlée… Et en plus, dans le cerveau adulte, les neurones ne se reproduisent (presque) plus. Donc en soumettant le cerveau à un champ bien étudié, on empêche le cancer de se développer.
 
 Donc
 

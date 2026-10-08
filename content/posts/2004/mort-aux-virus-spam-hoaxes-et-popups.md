@@ -27,7 +27,7 @@ Maintenant, pour ne pas être embêté sur internet il faut (par ordre d’impor
 #### 1\. Avoir un anti-virus à jour
 
 - J'utilise actuellement  [AVG de Grisoft](https://www.avg.com/en-us/homepage) qui est excellent et gratuit pour les privés
-- [Norton Antivirus de Symantec](https://www.symantec.com) et [VirusScan de McAfee](https://www.mcafee.com/us/index.html) sont devenus des dinosaures. Lourds et il faut payer chaque année pour avoir une protection permanente...
+- [Norton Antivirus de Symantec](https://www.symantec.com) et [VirusScan de McAfee](https://web.archive.org/web/20050418215506/https://www.mcafee.com/us/index.html) sont devenus des dinosaures. Lourds et il faut payer chaque année pour avoir une protection permanente...
 - Ne pas oublier les mises à jour ! De nouveaux virus apparaissent chaque jour. Une mise à jour par mois est un minimum.
 
 Contre les spywares/adwares,il faut bien noter que les anti-virus ne les enlèvent pas ! Une fois par mois il faut lancer un logiciel comme ["Ad-aware se" de LavaSoft](https://www.adaware.com/) qui les enlève.

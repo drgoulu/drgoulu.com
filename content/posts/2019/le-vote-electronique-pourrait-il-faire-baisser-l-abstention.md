@@ -24,6 +24,6 @@ Note* Le vote par correspondance a nettement augmenté la participation, et boul
 
 Notes de bas de page
 
-[[1]](#cite-SFPvp)[Statistiques d'utilisation du vote électronique](https://www.ge.ch/dossier/chvote-plateforme-vote-electronique-du-canton-geneve/statistiques-utilisation-du-vote-electronique)
+[[1]](#cite-SFPvp)[Statistiques d'utilisation du vote électronique](https://web.archive.org/web/20190509230618/https://www.ge.ch/dossier/chvote-plateforme-vote-electronique-du-canton-geneve/statistiques-utilisation-du-vote-electronique)
 
 [[2]](#cite-qKedj)[Les Suisses de l’étranger se mobilisent pour le vote électronique](https://www.swissinfo.ch/fre/politique/démocratie-numérique_les-suisses-de-l-étranger-se-mobilisent-pour-le-vote-électronique/44524378)

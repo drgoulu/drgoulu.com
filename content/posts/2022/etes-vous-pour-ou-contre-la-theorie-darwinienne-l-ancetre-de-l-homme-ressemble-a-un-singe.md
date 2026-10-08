@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ce n'est plus une théorie, c'est confirmé par la génétique, donc on ne peut plus être pour ou contre, c'est un fait établi : nos plus proches cousins sont les chimpanzés et les bonobos.
 
-[https://www.lemonde.fr/planete/a...](https://www.lemonde.fr/planete/article/2005/09/01/l-adn-du-chimpanze-revele-une-part-de-l-humain_684641_3244.html)
+[https://www.lemonde.fr/planete/a...](https://web.archive.org/web/20210422172511/https://www.lemonde.fr/planete/article/2005/09/01/l-adn-du-chimpanze-revele-une-part-de-l-humain_684641_3244.html)

@@ -15,4 +15,4 @@ Vous voulez parler de la [Fonction gamma](w:) ?
 
 Elle peut être calculée très efficacement par la formule de Stirling, ou encore mieux par l'[approximation de Lanczos](w:en:Lanczos_approximation).
 
-[Gamma function - Rosetta Code](https://rosettacode.org/wiki/Gamma_function) vous donnera des implementations dans vos langages préférés.
+[Gamma function - Rosetta Code](https://web.archive.org/web/20190806021531/https://rosettacode.org/wiki/Gamma_function) vous donnera des implementations dans vos langages préférés.

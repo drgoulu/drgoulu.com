@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 il n'y a qu'un enfant, de 7 ans environ, enterré avec une femme de 35 à 45 ans, morts sans violence apparente. Pour les historiens, il est fort probable qu'il s'agissait simplement d'employés
 
-[https://www.ouest-france.fr/ledi...](https://www.ouest-france.fr/leditiondusoir/2019-10-29/deux-squelettes-vieux-de-500-ans-decouverts-sous-la-tour-de-londres-qui-etaient-ils-9805b772-689f-4f33-bba3-76cab8bac7bb)
+[https://www.ouest-france.fr/ledi...](https://web.archive.org/web/20220309/https://www.ouest-france.fr/leditiondusoir/2019-10-29/deux-squelettes-vieux-de-500-ans-decouverts-sous-la-tour-de-londres-qui-etaient-ils-9805b772-689f-4f33-bba3-76cab8bac7bb)
 
 Richard 3 a été retrouvé sur le site d'une bataille où on savait qu'il avait été inhumé.

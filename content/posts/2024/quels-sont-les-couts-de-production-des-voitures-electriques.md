@@ -26,10 +26,10 @@ Pour comparer, BMW c'est 109297 millions[[3]](#MmkAC) pour 2555341 véhicules ve
 
 Notes de bas de page
 
-[[1]](#cite-wDRUf)[https://www.wsj.com/market-data/...](https://www.wsj.com/market-data/quotes/TSLA/financials/annual/income-statement)
+[[1]](#cite-wDRUf)[https://www.wsj.com/market-data/...](https://web.archive.org/web/20240928021326/https://www.wsj.com/market-data/quotes/TSLA/financials/annual/income-statement)
 
-[[2]](#cite-ZnxUu)[Statistiques sur les ventes, la production et les revenus de Tesla (mise à jour T2 2024)](https://tridenstechnology.com/fr/tesla-ventes-statistiques/)
+[[2]](#cite-ZnxUu)[Statistiques sur les ventes, la production et les revenus de Tesla (mise à jour T2 2024)](https://web.archive.org/web/20240725124300/https://tridenstechnology.com/fr/tesla-ventes-statistiques/)
 
-[[3]](#cite-MmkAC)[https://www.wsj.com/market-data/...](https://www.wsj.com/market-data/quotes/DE/BMW/financials/annual/income-statement)
+[[3]](#cite-MmkAC)[https://www.wsj.com/market-data/...](https://web.archive.org/web/20240730/https://www.wsj.com/market-data/quotes/DE/BMW/financials/annual/income-statement)
 
 [[4]](#cite-iluaY)[2023 (Full Year) Global: BMW and MINI Sales Worldwide](https://www.best-selling-cars.com/brands/2023-full-year-global-bmw-and-mini-sales-worldwide/)

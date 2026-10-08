@@ -32,7 +32,7 @@ Les DSSC sont faites d'un mélange colorant/solvant liquide, emprisonné entre d
 
 ### Comment
 
-Contrairement à la production de panneaux photovoltaïques en silicium, la production de cellules de Grätzel ne nécessite ni beaucoup d'énergie ni opérations délicates. On trouve même des [kits pour bricoler des DSSC](http://www.solaronix.com/technology/assembly/) soi-même. Le tout est de disposer des colorants et solvants ad-hoc, que l'on pourrait en principe produire en quantités industrielles.
+Contrairement à la production de panneaux photovoltaïques en silicium, la production de cellules de Grätzel ne nécessite ni beaucoup d'énergie ni opérations délicates. On trouve même des [kits pour bricoler des DSSC](https://web.archive.org/web/20091215112603/http://www.solaronix.com/technology/assembly/) soi-même. Le tout est de disposer des colorants et solvants ad-hoc, que l'on pourrait en principe produire en quantités industrielles.
 
 Évidemment, il y a quelques problèmes à résoudre:
 
@@ -50,7 +50,7 @@ On a donc des cellules de rendement plus faible que les cellules au silicium, do
 
 Un avantage des cellules Grätzel que l'on voit au premier coup d'oeil, c'est la transparence, ou plutôt la translucidité. Depuis 20 ans Grätzel et les promoteurs des DSSC rêvent d'immeubles dont les vitrages produiraient de l'électricité. Mais encore beaucoup de "comment" barrent le chemin de la fortune : comment intégrer les "great-cells" a des vitrages isolants de grande surface ? Comment réaliser une connexion électrique fiable entre des centaines de fenêtres que l'on doit pouvoir ouvrir, laver ?
 
-Un autre avantage de la technologie Grätzel est de pouvoir réaliser des cellules flexibles. [SolarPrint](http://www.solarprint.ie/) est même parvenu à rendre le mélange solvant+colorant suffisamment pâteux pour être imprimé [[3]](#ref-3). Mais [FlexCell](http://www.flexcell.com/index.php?option=com_content&task=view&id=13&Itemid=52) et d'autres arrivent à un résultat similaire avec du [silicium amorphe](http://fr.ekopedia.org/Cellules_photovolta%C3%AFques_de_silicium_amorphe), à un prix comparable....
+Un autre avantage de la technologie Grätzel est de pouvoir réaliser des cellules flexibles. [SolarPrint](http://www.solarprint.ie/) est même parvenu à rendre le mélange solvant+colorant suffisamment pâteux pour être imprimé [[3]](#ref-3). Mais [FlexCell](https://web.archive.org/web/20110711011607/http://www.flexcell.com/index.php?option=com_content&task=view&id=13&Itemid=52) et d'autres arrivent à un résultat similaire avec du [silicium amorphe](https://web.archive.org/web/20100211135024/http://fr.ekopedia.org/Cellules_photovolta%C3%AFques_de_silicium_amorphe), à un prix comparable....
 
 Certains imaginent pouvoir réaliser un jour des DSSC sous forme de couches de peinture : il suffirait de passer trois ou quatre couches différentes sur un mur ou un toit pour que la surface produise de l'électricité. Ca serait vraiment fantastique, mais dans ce domaine on en est encore au début des "comment".
 
@@ -58,8 +58,8 @@ Après plus de 20 ans de recherche scientifique fructueuse et de développements
 
 ### Références
 
-1. <span id="ref-1"></span>Gratzel, Liska, "Photo-electrochemical cell", 1990, [U.S. Patent 4927721](http://www.freepatentsonline.com/4927721.html)
-2. <span id="ref-2"></span>Graetzel, Nazeeruddin, O'regan, "Photovoltaic cells", 1994, [U.S. Patent 5350644](http://www.freepatentsonline.com/5350644.html)
+1. <span id="ref-1"></span>Gratzel, Liska, "Photo-electrochemical cell", 1990, [U.S. Patent 4927721](https://web.archive.org/web/20090915/http://www.freepatentsonline.com/4927721.html)
+2. <span id="ref-2"></span>Graetzel, Nazeeruddin, O'regan, "Photovoltaic cells", 1994, [U.S. Patent 5350644](https://web.archive.org/web/20191019123158/http://www.freepatentsonline.com/5350644.html)
 3. <span id="ref-3"></span>Bari, "Electrolyte Composition", 2009, Patent [WO/2009/103970](http://www.wipo.int/pctdb/en/wo.jsp?WO=2009103970)
 4. <span id="ref-4"></span>Tributsch H., “Dye sensitization solar cells: a critical assessment of the learning curve”, Coordination Chemistry Reviews, 2004, 248, p1511-1530
-5. <span id="ref-5"></span>A. Hinsch et al "[Long-term stability of dye-sensitised solar cells](http://onlinelibrary.wiley.com/doi/10.1002/pip.397/abstract)" in "Progress in Photovoltaics: Research and Applications", 2001, Volume 9 Issue 6, Pages 425 - 438
+5. <span id="ref-5"></span>A. Hinsch et al "[Long-term stability of dye-sensitised solar cells](https://web.archive.org/web/20170610182111/http://onlinelibrary.wiley.com/doi/10.1002/pip.397/abstract)" in "Progress in Photovoltaics: Research and Applications", 2001, Volume 9 Issue 6, Pages 425 - 438

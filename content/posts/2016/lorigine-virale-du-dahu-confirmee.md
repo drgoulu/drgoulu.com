@@ -38,7 +38,7 @@ Cette étude est la seconde démontrant de façon convaincante l'implication de 
 ### Références:
 
 1. <span id="ref-1"></span>Ph. Ittemleilgug & al, "Viral Paget's Disease of Bone in Caprinae as origin of Dahus", 2016, submitted to [Nature](http://www.nature.com/)
-2. <span id="ref-2"></span>Frederick R. Singer "[The Etiology of Paget's Disease of Bone: Viral and Genetic Interactions](http://www.cell.com/cell-metabolism/fulltext/S1550-4131\(10\)00456-0)" 2011, Cell Metabolism,Volume 13, Issue 1, p. 5-6, 5{{< altmetric doi="10.1016/j.cmet.2010.12.014" >}}
+2. <span id="ref-2"></span>Frederick R. Singer "[The Etiology of Paget's Disease of Bone: Viral and Genetic Interactions](https://web.archive.org/web/20160331/http://www.cell.com/cell-metabolism/fulltext/S1550-4131\(10\)00456-0)" 2011, Cell Metabolism,Volume 13, Issue 1, p. 5-6, 5{{< altmetric doi="10.1016/j.cmet.2010.12.014" >}}
 3. <span id="ref-3"></span>Kreider, J.W. and Bartlett, G.L., "The Shope papilloma-carcinoma complex of rabbits: A model system of neoplastic progression and spontaneous regression", 1981, Adv. In Cancer Res., 35: 81-110.{{< altmetric doi="10.1016/S0065-230X(08)60909-4" >}}
 
 Cet article a également été publié, légèrement édité, [sur Kidi'Science](http://kidiscience.cafe-sciences.org/articles/les-virus-a-lorigine-du-dahu/)

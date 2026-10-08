@@ -34,6 +34,6 @@ Pour confirmer l'existence de cette [nouvelle révélation pastafarique](w:Pasta
 
 Notes de bas de page
 
-[[1]](#cite-GoXhJ)[Visualizations of Nuclear Pasta](http://racinfo.indiana.edu/research/scholarly-highlights/articles/nuclear-pasta.php)
+[[1]](#cite-GoXhJ)[Visualizations of Nuclear Pasta](https://web.archive.org/web/20200404194618/http://racinfo.indiana.edu/research/scholarly-highlights/articles/nuclear-pasta.php)
 
 [[2]](#cite-hDKlF)[A highly resistive layer within the crust of X-ray pulsars limits their spin periods](https://arxiv.org/abs/1304.6546)

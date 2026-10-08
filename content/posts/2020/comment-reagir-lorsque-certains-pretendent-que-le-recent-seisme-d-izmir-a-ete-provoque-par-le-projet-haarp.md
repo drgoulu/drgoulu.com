@@ -28,4 +28,4 @@ Donc ya même pas besoin de savoir ce que fait [HAARP](w:High_frequency_active_a
 
 Notes de bas de page
 
-[[1]](#cite-lcQhX)[Global Volcanism Program | Database Search](https://volcano.si.edu/search_volcano.cfm)
+[[1]](#cite-lcQhX)[Global Volcanism Program | Database Search](https://web.archive.org/web/20201030091506/https://volcano.si.edu/search_volcano.cfm)

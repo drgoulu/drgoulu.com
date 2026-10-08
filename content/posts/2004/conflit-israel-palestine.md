@@ -8,7 +8,7 @@ tags:
   - "monde"
 ---
 
-[Les statistiques israéliennes de l'ICT](http://www.ict.org.il/404.aspx?aspxerrorpath=/arab_isr/404.aspx) le reconnaissent: l'armée israélienne tue à 50% des "non combattants" palestiniens, qui représentent plus du double des victimes d'attentats "terroristes"
+[Les statistiques israéliennes de l'ICT](https://web.archive.org/web/20160429014700/http://www.ict.org.il/404.aspx?aspxerrorpath=/arab_isr/404.aspx) le reconnaissent: l'armée israélienne tue à 50% des "non combattants" palestiniens, qui représentent plus du double des victimes d'attentats "terroristes"
 
 <!--more-->
 
@@ -37,7 +37,7 @@ Il est en particulier totalement inacceptable :
 
 Certains pourraient prétendre qu’il ne s’agit là que de bavures ou de cas extrêmes qui sont inévitables en cas de conflit. Je pense que le problème est plus profond.
 
-Les [statistiques de l’Intifada d’origine israelienne](http://www.ict.org.il/404.aspx?aspxerrorpath=/casualties_project/404.aspx) montrent clairement un autre aspect de l’assymétrie de ce conflit : les victimes palestiniennes sont 2 à 3 fois plus nombreuses que les israéliennes. A ce propos, de nombreuses sources pro-israéliennes se précipitent sur les pourcentages pour démontrer par exemple que les femmes israéliennes sont proportionnellement plus touchées que les palestiniennes. Je dirais que c’est malheureusement un effet de l’assymétrie : les attentats palestiniens visent principalement la population civile israélienne et il est de ce fait "normal" (au sens purement statistique, désolé...) que femmes, enfants et vieillards soient tués. En fait, si les attentats palestiniens visaient la population civile israélienne de manière indiscriminée, les femmes devraient représenter la moitié des victimes. Encore une fois, ces actions sont criminelles et doivent être empêchées et réprimées selon la loi pénale.
+Les [statistiques de l’Intifada d’origine israelienne](https://web.archive.org/web/20180622084114/http://www.ict.org.il/404.aspx?aspxerrorpath=/casualties_project/404.aspx) montrent clairement un autre aspect de l’assymétrie de ce conflit : les victimes palestiniennes sont 2 à 3 fois plus nombreuses que les israéliennes. A ce propos, de nombreuses sources pro-israéliennes se précipitent sur les pourcentages pour démontrer par exemple que les femmes israéliennes sont proportionnellement plus touchées que les palestiniennes. Je dirais que c’est malheureusement un effet de l’assymétrie : les attentats palestiniens visent principalement la population civile israélienne et il est de ce fait "normal" (au sens purement statistique, désolé...) que femmes, enfants et vieillards soient tués. En fait, si les attentats palestiniens visaient la population civile israélienne de manière indiscriminée, les femmes devraient représenter la moitié des victimes. Encore une fois, ces actions sont criminelles et doivent être empêchées et réprimées selon la loi pénale.
 
 Par contre, il est inacceptable que Tsahal, armée d’un Etat reconnu, cause plus de morts de non-combattants que de combattants (1326 combattants sur 2806 victimes palestiniennes au moment où j’écris ces lignes). Il est anormal que des soldats entrainés tuent deux fois plus d’enfants de moins de 12 ans que les "terroristes" qu’ils affontent et même plus de non-combattants tous ages et sexes confondus. Ces chiffres donnent des arguments valables à ceux qui soutiennent que Tsahal est en conflit avec la population palestinienne dans son ensemble, pas seulement avec les mouvements armés. Vers une solution ?
 

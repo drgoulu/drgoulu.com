@@ -20,4 +20,4 @@ Non. D'abord cette distance ne semble exacte qu'a l'œil nu. Ensuite elle varie 
 
 Dans le système solaire il y a 31 lunes qui créent des éclipses totales, 107 qui produisent des éclipses annulaires, et deux qui font les deux, comme la Lune : Epimetheus et Pandora, sur Saturne. Elles se produisent même tous les jours, mais pendant quelques secondes seulement.
 
-[Earth Is Not The Only Planet In The Solar System That Sees Total Solar Eclipses](http://www.forbes.com/sites/jamiecartereurope/2018/08/10/earth-is-not-the-only-planet-in-the-solar-system-that-gets-total-solar-eclipses/)
+[Earth Is Not The Only Planet In The Solar System That Sees Total Solar Eclipses](https://web.archive.org/web/20190602101950/http://www.forbes.com/sites/jamiecartereurope/2018/08/10/earth-is-not-the-only-planet-in-the-solar-system-that-gets-total-solar-eclipses/)

@@ -80,8 +80,8 @@ Une De Lorean volante propulsée par un réacteur à fusion thermonucléaire ali
 
 1. <span id="ref-1"></span>Nikola Tesla "Method of and Apparatus for Controlling Mechanism of Moving Vehicle or Vehicles", 1898, [U.S. Patent 0,613,809](http://www.google.com/patents?vid=613809)
 2. <span id="ref-2"></span>Nikola Tesla "[On Light and Other High Frequency Phenomena](http://en.wikisource.org/wiki/On_Light_and_Other_High_Frequency_Phenomena)", 1893
-3. <span id="ref-3"></span>"[TESLA ON GLOBAL WIRELESS ENERGY TRANSMISSION FOR TELECOMMUNICATIONS AND OTHER PURPOSES](http://www.teslaradio.com/pages/tesla.htm#schumann)" With Additional Comments by Henry Bradford and Gary Peterson
-4. <span id="ref-4"></span>Nikola Tesla "ART OF TRANSMITTING ELECTRICAL ENERGY THROUGH THE NATURAL MEDIUMS" May 16, 1900, [U.S. Patent No. 787,412](http://www.google.com/patents?id=oSo_AAAAEBAJ)
+3. <span id="ref-3"></span>"[TESLA ON GLOBAL WIRELESS ENERGY TRANSMISSION FOR TELECOMMUNICATIONS AND OTHER PURPOSES](https://web.archive.org/web/20120622165843/http://www.teslaradio.com/pages/tesla.htm#schumann)" With Additional Comments by Henry Bradford and Gary Peterson
+4. <span id="ref-4"></span>Nikola Tesla "ART OF TRANSMITTING ELECTRICAL ENERGY THROUGH THE NATURAL MEDIUMS" May 16, 1900, [U.S. Patent No. 787,412](https://web.archive.org/web/20120827231138/http://www.google.com/patents?id=oSo_AAAAEBAJ)
 5. <span id="ref-5"></span>["Goldstone Demo of Wireless Power Transmission" video sur Youtube](http://www.youtube.com/watch?v=sy1vqRT-vqI)
 6. <span id="ref-6"></span>Franklin Hadley "[Goodbye wires!](http://web.mit.edu/newsoffice/2007/wireless-0607.html)", 2007, MIT NEWS
 7. <span id="ref-7"></span>Nikola Tesla "[Experiments with Alternating Currents of High Frequency](http://www.gutenberg.org/files/13476/13476-h/13476-h.htm)", 20 mai 1891 conférence à l’Université Columbia de New York

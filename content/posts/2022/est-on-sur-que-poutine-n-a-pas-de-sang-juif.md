@@ -17,4 +17,4 @@ C'est quoi le "sang juif" ?
 
 Non, il n'existe (heureusement) aucun test génétique permettant de deviner la religion des ancêtres d'un humain, et pour un lien ethnique, c'est très loin d'être précis ou fiable.
 
-[https://dna-pass.com/les-tests-a...](https://dna-pass.com/les-tests-adn-ethniques-sont-ils-fiables/)
+[https://dna-pass.com/les-tests-a...](https://web.archive.org/web/20220520005821/https://dna-pass.com/les-tests-adn-ethniques-sont-ils-fiables/)

@@ -10,15 +10,15 @@ tags:
 coverImage: "./images/c9da324495432c95e3adfc6ab80f76b9.jpg"
 ---
 
-La [scientométrie](w:) est de plus en plus utilisée pour évaluer les scientifiques et attribuer des crédits à leurs laboratoires, alors qu'il existe de nombreuses raisons montrant que ce n'est pas un bon système. Enro a publié [plusieurs excellents articles](http://www.enroweb.com/blogsciences/index.php?tag/evaluation-de-la-recherche) à ce sujet.
+La [scientométrie](w:) est de plus en plus utilisée pour évaluer les scientifiques et attribuer des crédits à leurs laboratoires, alors qu'il existe de nombreuses raisons montrant que ce n'est pas un bon système. Enro a publié [plusieurs excellents articles](https://web.archive.org/web/20081007142852/http://www.enroweb.com/blogsciences/index.php?tag/evaluation-de-la-recherche) à ce sujet.
 
 Fort heureusement, les imposantes données collectées pour la scientométrie permettent d'en faire un autre usage plus noble et beau : des graphes.
 
-Je vous avais déjà présenté une [Carte des Sciences](/2007/06/07/carte-des-sciences/), mais le site [eigenfactor.org en propose une version modernisée](http://eigenfactor.org/map/maps.htm) utilisant 6'434'916 citations des 6128 journaux répertoriés par Thomson Scientific pour le fameux calcul du "[facteur d'impact](w:)" des journaux :
+Je vous avais déjà présenté une [Carte des Sciences](/2007/06/07/carte-des-sciences/), mais le site [eigenfactor.org en propose une version modernisée](https://web.archive.org/web/20080615160159/http://eigenfactor.org/map/maps.htm) utilisant 6'434'916 citations des 6128 journaux répertoriés par Thomson Scientific pour le fameux calcul du "[facteur d'impact](w:)" des journaux :
 
 ![](./images/0a61213cb09dc338be15be307e68c4b6.png)
 
-eigenfactor.org offre aussi un [système de navigation en ligne](http://www.eigenfactor.org/map/index.php) permettant de visualiser les domaines connexes à un domaine donné, et surtout la liste des journaux traitant de ce sujet (très utile) avec leurs statistiques (moins). Voici par exemple un graphe qui m'a fait très plaisir :
+eigenfactor.org offre aussi un [système de navigation en ligne](https://web.archive.org/web/20110918103134/http://www.eigenfactor.org/map/index.php) permettant de visualiser les domaines connexes à un domaine donné, et surtout la liste des journaux traitant de ce sujet (très utile) avec leurs statistiques (moins). Voici par exemple un graphe qui m'a fait très plaisir :
 
 [![](./images/099c0683f759daaec0aca59c4e0815c9.png)](./images/099c0683f759daaec0aca59c4e0815c9.png)
 

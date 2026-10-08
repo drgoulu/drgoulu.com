@@ -29,4 +29,4 @@ Donc désolé, mais la meilleure utilisation que je trouve de cette chanson est 
 
 #### Référence:
 
-1. [Kate Bush sings Pi (incorrectly) sur confusability (2005)](https://usability.typepad.com/confusability/2005/11/kate_bush_sings.html)
+1. [Kate Bush sings Pi (incorrectly) sur confusability (2005)](https://web.archive.org/web/20200412204136/https://usability.typepad.com/confusability/2005/11/kate_bush_sings.html)

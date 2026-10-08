@@ -29,7 +29,7 @@ Si on trouve autre chose qu'un nuage, notamment un second groupe de points près
 
 Je ne sais pas si les commissions électorales US utilisent ce genre de choses. On dirait que non. Après une petite recherche , j'ai trouvé les données du MIT [County Presidential Election Returns 2000-2016](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ) qui donne les résultats des présidentielles de 2000 à 2016 comté par comté, mais hélas ils ne fournissent pas le nombre d'inscrits, donc on ne peut pas calculer la participation… Je viens de la leur demander pour 2020, je vous tiens au courant …
 
-Référence : Peter Klimek, Yuri Yegorov, Rudolf Hanel, & Stefan Thurner (2012). It’s not the voting that’s democracy, it’s the counting: Statistical detection of systematic election irregularities PNAS DOI: [10.1073/pnas.1210722109](http://dx.doi.org/10.1073/pnas.1210722109) [(pdf)](http://arxiv.org/pdf/1201.3087.pdf)
+Référence : Peter Klimek, Yuri Yegorov, Rudolf Hanel, & Stefan Thurner (2012). It’s not the voting that’s democracy, it’s the counting: Statistical detection of systematic election irregularities PNAS DOI: [10.1073/pnas.1210722109](https://web.archive.org/web/20210105134127/http://dx.doi.org/10.1073/pnas.1210722109) [(pdf)](http://arxiv.org/pdf/1201.3087.pdf)
 
 Notes de bas de page
 

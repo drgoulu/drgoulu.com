@@ -18,8 +18,8 @@ coverImage: ./images/quora.png
 
 Voici les 10 principaux journaux scientifiques consacrés à l'évolution :
 
-1. [Trends in Ecology and Evolution](https://www.cell.com/trends/ecology-evolution/home)
-2. [Annual Review of Ecology, Evolution, and Systematics](https://www.annualreviews.org/content/journals/ecolsys)
+1. [Trends in Ecology and Evolution](https://web.archive.org/web/20250219024659/https://www.cell.com/trends/ecology-evolution/home)
+2. [Annual Review of Ecology, Evolution, and Systematics](https://web.archive.org/web/20250219024659/https://www.annualreviews.org/content/journals/ecolsys)
 3. [Nature Ecology & Evolution](https://www.nature.com/natecolevol/)
 4. Molecular Biology and Evolution
 5. Systematic Biology

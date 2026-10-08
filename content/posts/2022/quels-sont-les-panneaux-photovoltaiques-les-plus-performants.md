@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quels-sont-les-panneaux-photovolta%C3%AFques-les-plus-performants/answer/Dr-Goulu)*
 
-Les dernières données sont sur [Best Research-Cell Efficiency du NREL](https://www.nrel.gov/pv/cell-efficiency.html).
+Les dernières données sont sur [Best Research-Cell Efficiency du NREL](https://web.archive.org/web/20220308095330/https://www.nrel.gov/pv/cell-efficiency.html).
 
 Le record actuel en laboratoire est une [Cellule photovoltaïque multi-jonction](w:Cellule_photovoltaïque), extrêmement chère, destinée au marché spatial avec un rendement (en laboratoire) de 47.1%
 

@@ -78,4 +78,4 @@ SQL est un langage verbeux, pleins de mots clés qui interfèrent volontiers ave
 
 ## Références
 
-1. <span id="ref-1"></span>David Fetter "High Performance SQL with PostgreSQL 8.4 : Lists and Recursion and Trees, Oh My!", 2009, OSCON ([slides pdf](http://assets.en.oreilly.com/1/event/27/High%20Performance%20SQL%20with%20PostgreSQL%20Presentation.pdf))
+1. <span id="ref-1"></span>David Fetter "High Performance SQL with PostgreSQL 8.4 : Lists and Recursion and Trees, Oh My!", 2009, OSCON ([slides pdf](https://web.archive.org/web/20171209162216/http://assets.en.oreilly.com/1/event/27/High%20Performance%20SQL%20with%20PostgreSQL%20Presentation.pdf))

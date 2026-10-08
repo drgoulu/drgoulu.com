@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 celles dont l'[Indice de similarité avec la Terre](w:)est proche de 1
 
-La [liste est là](https://astronomical.fandom.com/wiki/Earth_Similarity_Index).
+La [liste est là](https://web.archive.org/web/20230518004500/https://astronomical.fandom.com/wiki/Earth_Similarity_Index).
 
 Parmi les planètes confirmées [Teegarden](w:Teegarden_b)b est celle qui a l'indice le plus élevé 0.97. Mais elle orbite très près d'une "naine ultra froide", en 4 jours seulement , ce qui la rend quand même assez différente de la Terre mais ces caractéristiques ne sont pas prises en compte dans l'indice.
 

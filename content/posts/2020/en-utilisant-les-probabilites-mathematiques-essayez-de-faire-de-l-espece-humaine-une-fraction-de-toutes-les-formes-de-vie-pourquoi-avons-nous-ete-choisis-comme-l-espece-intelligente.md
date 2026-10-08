@@ -41,4 +41,4 @@ Notes de bas de page
 
 [[1]](#cite-AMlAs)[La culture des chimpanzés](https://www.pourlascience.fr/sd/paleontologie/la-culture-des-chimpanzes-972.php)
 
-[[2]](#cite-EJEDe)[Le milan noir, oiseau pyromane](https://www.lemonde.fr/sciences/article/2018/01/21/le-milan-noir-oiseau-pyromane_5244892_1650684.html)
+[[2]](#cite-EJEDe)[Le milan noir, oiseau pyromane](https://web.archive.org/web/20210126175539/https://www.lemonde.fr/sciences/article/2018/01/21/le-milan-noir-oiseau-pyromane_5244892_1650684.html)

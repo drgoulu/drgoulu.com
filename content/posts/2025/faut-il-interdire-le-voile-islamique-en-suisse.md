@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non. C'est se dissimuler le visage qui est interdit, quelle que soit la raison.
 
-[https://www.admin.ch/gov/fr/accu...](https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-103039.html)
+[https://www.admin.ch/gov/fr/accu...](https://web.archive.org/web/20250328104348/https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-103039.html)

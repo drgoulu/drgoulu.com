@@ -21,7 +21,7 @@ Comme ça:
 
 ![](./images/qimg-40262e04e700dd7702b5da0894f0b683.jpg)
 
-(source : [La biodiversité en milieu extrême](http://edu.mnhn.fr/mod/page/view.php?id=1480))
+(source : [La biodiversité en milieu extrême](https://web.archive.org/web/20200930073006/http://edu.mnhn.fr/mod/page/view.php?id=1480))
 
 Ceci est un [Mont hydrothermal](w:), plus précisément un "fumeur noir". Des gaz d'origine volcanique chauffent l'eau à plus de 100°C, mais elle reste liquide grâce à la pression due à la profondeur. Toutes sortes de forme de vie arrivent à utiliser l'énergie chimique apportée par ces matériaux, sans accès à la lumière du jour.
 

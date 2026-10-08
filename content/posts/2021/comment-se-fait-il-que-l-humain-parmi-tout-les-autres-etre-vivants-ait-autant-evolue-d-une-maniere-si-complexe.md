@@ -19,7 +19,7 @@ Le dauphin a une surface de cortex 50% plus grande que la notre.
 
 Cet article le montre : notre cerveau est remarquable, mais pas extraordinaire
 
-[https://www.pnas.org/content/109...](https://www.pnas.org/content/109/Supplement_1/10661)
+[https://www.pnas.org/content/109...](https://web.archive.org/web/20210724184344/https://www.pnas.org/content/109/Supplement_1/10661)
 
 Nous avons d'autres caractéristiques a priori spéciales comme le langage articulé (mais les dauphins communiquent avec une bande passante 100x plus élevée que nous), des mains assez habiles (mais les trompes d'éléphant ou les pattes de pieuvres ne sont pas mal non plus). Nous avons aussi "domestiqué" le feu, mais des oiseaux australiens transportent des branches enflammées pour créer des incendies qui chasseront leurs proies hors de leurs terriers …
 

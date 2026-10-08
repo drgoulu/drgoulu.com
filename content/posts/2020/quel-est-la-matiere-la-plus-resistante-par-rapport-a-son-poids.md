@@ -22,7 +22,7 @@ Le rapport$\sigma_{max}/\rho$ est dans le diagramme suivant:
 
 ![](./images/qimg-c5e8b303529222c8e0a5c9c07f73a2d1.png)
 
-(source : [Material property charts | Granta Design](https://www.grantadesign.com/education/students/charts/) )
+(source : [Material property charts | Granta Design](https://web.archive.org/web/20200923031638/https://www.grantadesign.com/education/students/charts/) )
 
 Le matériau que vous cherchez est celui situé sur la parallèle à la diagonale la plus haute : le CFRP, [Polymère renforcé de fibres de carbone](w:)en français.
 

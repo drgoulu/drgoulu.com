@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Parce que la voiture électrique est beaucoup moins chère à l'usage. Vous payez 30 ou 40K maintenant, mais après vous payez l'électricité au quart du prix de l'essence, et 1/3 de moins d'entretien, et 50% de l'assurance. Et avec l'inflation, il vaut mieux sortir du pognon maintenant que demain…
 
-[https://www.lesfurets.com/assura...](https://www.lesfurets.com/assurance-auto/guide/la-voiture-electrique-est-elle-rentable)
+[https://www.lesfurets.com/assura...](https://web.archive.org/web/20221129140309/https://www.lesfurets.com/assurance-auto/guide/la-voiture-electrique-est-elle-rentable)
 
 Mais en fait la bonne question est : pourquoi acheter une voiture alors que vous n'en avez besoin que quelques heures par semaine ? Pourquoi ne pas la louer ou en achter une à plusieurs, en attendant les voitures autonomes qui viendront vous chercher chez vous et retourneront au garage après usage ?
 

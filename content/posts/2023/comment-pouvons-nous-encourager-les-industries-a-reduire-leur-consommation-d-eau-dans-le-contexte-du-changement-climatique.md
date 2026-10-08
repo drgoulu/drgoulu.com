@@ -28,4 +28,4 @@ La consommation d'eau, on s'en tape, ce sont les émissions de CO2 qu'il faut r�
 
 Notes de bas de page
 
-[[1]](#cite-IetWK)[Recyclage des vêtements: "Les consommateurs doivent poser des questions critiques"](https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-85633.html)
+[[1]](#cite-IetWK)[Recyclage des vêtements: "Les consommateurs doivent poser des questions critiques"](https://web.archive.org/web/20230206164451/https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-85633.html)

@@ -44,13 +44,13 @@ Donc j'admets volontiers que " la compétence prédomine sur la chance" entre j
 
 ### Notes:
 
-- \* : le mot anglais "skill" est traduit par "adresse" dans [[2]](#ref-2), mais il me semble difficile de ranger le poker dans les "[jeu d'adresse](w:Catégorie:Jeu_d'adresse)". Parmi les [traductions de "skill"](http://www.mediadico.com/dictionnaire/anglais-francais/skill) il me semble que "compétence" correspond mieux au discours de Heeb.
+- \* : le mot anglais "skill" est traduit par "adresse" dans [[2]](#ref-2), mais il me semble difficile de ranger le poker dans les "[jeu d'adresse](w:Catégorie:Jeu_d'adresse)". Parmi les [traductions de "skill"](https://web.archive.org/web/20131019173535/http://www.mediadico.com/dictionnaire/anglais-francais/skill) il me semble que "compétence" correspond mieux au discours de Heeb.
 - \*\* mon graphique ressemble comme deux gouttes d'eau à celui présenté au tribunal par [David DeRosa](http://www.derosa-research.com/), l'expert de l'accusation, mais je ne l'ai vu qu'après...
 - \*\*\* les "blind" sont les mises constantes à chaque partie, alors que le "pot" formé des enchères des joueurs est variable.
 
 ### Références
 
 1. <span id="ref-1"></span>"[USA v. DiCristina et al](http://archive.org/details/gov.uscourts.nyed.318466)", United States District Court, Eastern District of New-York, Case 11 CR 14, 21 août 2012 [pdf 120 pages](http://ia601201.us.archive.org/17/items/gov.uscourts.nyed.318466/gov.uscourts.nyed.318466.109.0.pdf)
-2. <span id="ref-2"></span>"[Le débat interminable sur le statut du poker! Entre chance, adresse et hasard...](http://poker-leaders.com/news/business/3709-le-debat-interminable-sur-le-statut-du-poker-entre-chance-adresse-et-hasard)" sur Poker Leaders
+2. <span id="ref-2"></span>"[Le débat interminable sur le statut du poker! Entre chance, adresse et hasard...](https://web.archive.org/web/20120829101750/http://poker-leaders.com/news/business/3709-le-debat-interminable-sur-le-statut-du-poker-entre-chance-adresse-et-hasard)" sur Poker Leaders
 3. <span id="ref-3"></span>Hans J. Berliner, "Backgammon computer program beats world champion", Artificial Intelligence Volume 14, Issue 2, September 1980, Pages 205–220, {{< altmetric doi="10.1016/0004-3702(80)90041-7" >}}
-4. <span id="ref-4"></span>Chris Wilson, "[Le poker, prochain défi des superordinateurs](http://www.slate.fr/story/34505/watson-poker-superordinateur)", Slate.fr, fev. 2011
+4. <span id="ref-4"></span>Chris Wilson, "[Le poker, prochain défi des superordinateurs](https://web.archive.org/web/20120717222212/http://www.slate.fr/story/34505/watson-poker-superordinateur)", Slate.fr, fev. 2011

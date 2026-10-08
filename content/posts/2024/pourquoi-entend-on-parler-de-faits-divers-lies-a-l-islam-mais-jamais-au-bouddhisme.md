@@ -17,4 +17,4 @@ Parce que vous ne voyagez pas assez, même en lecture.
 
 [https://journals.openedition.org...](https://journals.openedition.org/mots/1371)
 
-[https://www.france24.com/fr/2017...](https://www.france24.com/fr/20171016-benedicte-brac-perriere-rohingyas-bouddhisme-birman-exode-massacre-arakan)
+[https://www.france24.com/fr/2017...](https://web.archive.org/web/20220921140028/https://www.france24.com/fr/20171016-benedicte-brac-perriere-rohingyas-bouddhisme-birman-exode-massacre-arakan)

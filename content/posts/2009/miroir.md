@@ -39,7 +39,7 @@ Ce qui nous amène à la seconde partie de la question : les notions de "gauche"
 
 On pense tout de suite à l'écriture : un texte vu dans un miroir est illisible, ou du moins pas facilement. Mais ce n'est qu'une question de convention : on aurait très bien pu écrire de droite à gauche comme certaines langues, en utilisant des lettres "retournées"  comme dans cette jolie affiche:
 
-{{< figure align="aligncenter" alt="Du russe ou du ЯIOЯIM ?" caption="Du russe ou du ЯIOЯIM ?" link="http://www.moillusions.com/2009/04/russian-cyrillic-optical-illusion.html" src="./images/49cc43eec955d3b4346e570aec6bacc6.jpg" width="500" >}}
+{{< figure align="aligncenter" alt="Du russe ou du ЯIOЯIM ?" caption="Du russe ou du ЯIOЯIM ?" link="https://web.archive.org/web/20090404100743/http://www.moillusions.com/2009/04/russian-cyrillic-optical-illusion.html" src="./images/49cc43eec955d3b4346e570aec6bacc6.jpg" width="500" >}}
 
 ## Comment expliquer la gauche et la droite aux extraterrestres ?
 
@@ -61,13 +61,13 @@ La raison de ceci est que ces molécules interagissent différemment avec les mo
 
 L'électromagnétisme alors ?  Si on fait passer un courant électrique dans une bobine, on crée un champ magnétique avec un pôle Nord et un pôle Sud. Si la bobine est bobinée à l'envers, les pôles Nord et Sud sont inversés.
 
-{{< figure align="aligncenter" alt="La main droite, pouce écarté, tient le solénoïde. Le courant sort par les doigts et le pouce oriente le vecteur champ mégnétique." caption="La main droite, pouce écarté, tient le solénoïde. Le courant sort par les doigts et le pouce oriente le vecteur champ mégnétique." link="http://www.intellego.fr/soutien-scolaire-1ere-s/aide-scolaire-physique/fiche-physique-premiere-18-champ-magnetique-dans-un-solenoide-/20653" src="./images/0ae97d9c721ca421636f9fb86cbe6547.jpg" width="600" >}}
+{{< figure align="aligncenter" alt="La main droite, pouce écarté, tient le solénoïde. Le courant sort par les doigts et le pouce oriente le vecteur champ mégnétique." caption="La main droite, pouce écarté, tient le solénoïde. Le courant sort par les doigts et le pouce oriente le vecteur champ mégnétique." link="https://web.archive.org/web/20090430013209/http://www.intellego.fr/soutien-scolaire-1ere-s/aide-scolaire-physique/fiche-physique-premiere-18-champ-magnetique-dans-un-solenoide-/20653" src="./images/0ae97d9c721ca421636f9fb86cbe6547.jpg" width="600" >}}
 
 Oui... mais les notions de pôles magnétiques "Nord" et "Sud" sont tout à fait conventionnelles (jusqu'à ce qu'on trouve un [monopôle magnétique](w:)) : le schéma ci-dessus reste parfaitement cohérent vu dans un miroir.
 
 ## Combien de fêlures dans les miroirs de la physique ?
 
-Jusqu'en 1956,  l'Univers observé dans un miroir était parfaitement cohérent. De fait, 3 des [4 forces fondamentales](w:interaction_élémentaire) ont une ["Symétrie-P" ou "Parité"](w:parité_\(physique\)) parfaite. Mais en 1956,  Mme [Chien-Shiung Wu](w:) démontra une [violation de parité](http://www.laradioactivite.com/fr/site/illustration/images/ViolationParite.htm) concernant la 4ème force, l'[interaction faible](w:). Lors de désintégration β d'un noyau de Cobalt 60, un électron est émis dans une direction aléatoire. Mais il y en a statistiquement [1 sur un million](http://irfu.cea.fr/Phocea/Vie_des_labos/Ast/ast_technique.php?id_ast=444) de plus qui part dans la direction opposée à celle du spin du noyau que dans la direction du spin (le spin indique le sens de rotation du noyau). En regardant l'expérience dans un miroir le spin change de sens et l'électron irait très légèrement plus souvent dans la direction du spin, ce qui est contraire à l'expérience. L'interaction faible "préfère" très légèrement la rotation à gauche et  on pourrait donc expliquer aux extraterrestres notre convention gauche/droite en leur transmettant ce dessin:
+Jusqu'en 1956,  l'Univers observé dans un miroir était parfaitement cohérent. De fait, 3 des [4 forces fondamentales](w:interaction_élémentaire) ont une ["Symétrie-P" ou "Parité"](w:parité_\(physique\)) parfaite. Mais en 1956,  Mme [Chien-Shiung Wu](w:) démontra une [violation de parité](https://web.archive.org/web/20081019044153/http://www.laradioactivite.com/fr/site/illustration/images/ViolationParite.htm) concernant la 4ème force, l'[interaction faible](w:). Lors de désintégration β d'un noyau de Cobalt 60, un électron est émis dans une direction aléatoire. Mais il y en a statistiquement [1 sur un million](http://irfu.cea.fr/Phocea/Vie_des_labos/Ast/ast_technique.php?id_ast=444) de plus qui part dans la direction opposée à celle du spin du noyau que dans la direction du spin (le spin indique le sens de rotation du noyau). En regardant l'expérience dans un miroir le spin change de sens et l'électron irait très légèrement plus souvent dans la direction du spin, ce qui est contraire à l'expérience. L'interaction faible "préfère" très légèrement la rotation à gauche et  on pourrait donc expliquer aux extraterrestres notre convention gauche/droite en leur transmettant ce dessin:
 
 ![](./images/24aa6ea898164ed32a859945309ed0cf.jpg)
 
@@ -77,7 +77,7 @@ Autrement dit, si nos extraterrestres font l'expérience avec un noyau de ce qu
 
 Le problème est que notre dessin implique en fait 2 miroirs, le C et le P qui inversent tous deux de la même manière l'expérience, et comme chacun sait, si on regarde notre reflet dans un miroir à l'aide d'un autre miroir, tout se remet en place.
 
-{{< figure align="aligncenter" caption="Two Mirrors de Steven Scott" link="http://www.steven-scott.co.uk/" src="./images/twomirrors.jpg" >}}
+{{< figure align="aligncenter" caption="Two Mirrors de Steven Scott" link="https://web.archive.org/web/20120516080211/http://www.steven-scott.co.uk/" src="./images/twomirrors.jpg" >}}
 
 On appelle "[Symétrie CP](w:)" l'image de l'Univers qu'on obtient en inversant à la fois la gauche et la droite et les charges électriques, et cette symétrie était parfaite. Mais dans les années 1960, on a découvert une très légère brisure de la symétrie CP : la transformation d'un kaon en antikaon est 1 milliardième de fois  plus rare que la transformation d'un antikaon en kaon.
 
@@ -91,7 +91,7 @@ Réponse : c'est très facile et amusant :
 
 {{< youtube "YDKmFipygWY" >}}
 
-Même un extra terrestre très différent de nous devinerait assez vite qu'il regarde le film à l'envers parce que beaucoup de phénomènes macroscopiques ont une préférence pour le futur. Ce n'est pas le cas à petite échelle : toutes les interactions entre particules peuvent se produire "en sens inverse" : la mécanique quantique possède une "[symétrie T](w:)" que l'on retrouve dans les [diagrammes de Feynman](w:diagramme_de_Feynman) dont [Benjamin a causé ici](http://science-for-everyone.over-blog.com/article-27328860.html).
+Même un extra terrestre très différent de nous devinerait assez vite qu'il regarde le film à l'envers parce que beaucoup de phénomènes macroscopiques ont une préférence pour le futur. Ce n'est pas le cas à petite échelle : toutes les interactions entre particules peuvent se produire "en sens inverse" : la mécanique quantique possède une "[symétrie T](w:)" que l'on retrouve dans les [diagrammes de Feynman](w:diagramme_de_Feynman) dont [Benjamin a causé ici](https://web.archive.org/web/20090528233210/http://science-for-everyone.over-blog.com/article-27328860.html).
 
 Voici donc un troisième miroir légèrement imparfait, qui peut se combiner avec les autres ! D'ailleurs, pour réaliser le film ci-dessus, je suppose que la demoiselle qui va "à l'endroit" regarde dans un miroir pour marcher à l'envers sans se heurter à la foule. En quelque sorte, la symétrie PT a permis de rendre le film plus réaliste qu'avec la symétrie T seule.
 
@@ -127,6 +127,6 @@ Mais là aussi, je me demande comment distinguer cette interprétation de celle 
 2. <span id="ref-2"></span>Michel Thévoz "L['homme retroussé](http://www.culturactif.ch/inedits/thevoz.htm)"
 3. <span id="ref-3"></span>[Message de Dutil et Dumas](http://www.astrosurf.com/luxorion/Documents/seti-dutil-dumas.pdf) [sur Astrosurf](http://www.astrosurf.com/luxorion/seti-messages.htm)
 4. <span id="ref-4"></span>["La chimie prébiotique" sur Astrosurf](http://www.astrosurf.com/luxorion/bioastro-prebiotique2.htm)
-5. <span id="ref-5"></span>Tom Roud "[Symétries I : de l’importance des symétries en physique](http://tomroud.cafe-sciences.org/2008/01/06/symetries-i-de-limportance-des-symetries-en-physique/ "Permanent Link: Symétries I : de l’importance des symétries en physique")"
-6. <span id="ref-6"></span>Tom Roud "[Symétrie II : Groupes de symétries](http://tomroud.cafe-sciences.org/2008/01/13/symetrie-ii-groupes-de-symetries/ "Permanent Link: Symétrie II : Groupes de symétries")"
-7. <span id="ref-7"></span>Tom Roud "[Symétries III : symétrie miroir, vecteurs et brisure de symétrie](http://tomroud.cafe-sciences.org/2008/01/27/symetries-iii-symetrie-miroir-vecteurs-et-brisure-de-symetrie/ "Permanent Link: Symétries III : symétrie miroir, vecteurs et brisure de symétrie")"
+5. <span id="ref-5"></span>Tom Roud "[Symétries I : de l’importance des symétries en physique](https://web.archive.org/web/20130514083745/http://tomroud.cafe-sciences.org/2008/01/06/symetries-i-de-limportance-des-symetries-en-physique/ "Permanent Link: Symétries I : de l’importance des symétries en physique")"
+6. <span id="ref-6"></span>Tom Roud "[Symétrie II : Groupes de symétries](https://web.archive.org/web/20130513032720/http://tomroud.cafe-sciences.org/2008/01/13/symetrie-ii-groupes-de-symetries/ "Permanent Link: Symétrie II : Groupes de symétries")"
+7. <span id="ref-7"></span>Tom Roud "[Symétries III : symétrie miroir, vecteurs et brisure de symétrie](https://web.archive.org/web/20130513025022/http://tomroud.cafe-sciences.org/2008/01/27/symetries-iii-symetrie-miroir-vecteurs-et-brisure-de-symetrie/ "Permanent Link: Symétries III : symétrie miroir, vecteurs et brisure de symétrie")"

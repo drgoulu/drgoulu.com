@@ -22,6 +22,6 @@ Sachant que vous le payez 190 € à EDF, un prix plutot bas en Europe[[2]](#YUO
 
 Notes de bas de page
 
-[[1]](#cite-gpaqA)[Combien coûte la production d'électricité que nous consommons en France ? | happ-e by ENGIE](https://www.happ-e.fr/actualites/comment-ca-marche/cout-production-electricite-france)
+[[1]](#cite-gpaqA)[Combien coûte la production d'électricité que nous consommons en France ? | happ-e by ENGIE](https://web.archive.org/web/20210729083701/https://www.happ-e.fr/actualites/comment-ca-marche/cout-production-electricite-france)
 
 [[2]](#cite-YUOXy)[Prix électricité Europe : qui paie le moins cher ?](https://www.hellowatt.fr/blog/prix-electricite-europe/)

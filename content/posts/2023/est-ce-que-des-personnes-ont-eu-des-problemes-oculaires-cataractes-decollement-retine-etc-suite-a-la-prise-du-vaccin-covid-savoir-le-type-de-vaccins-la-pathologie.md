@@ -40,4 +40,4 @@ Oui. Le problème est que ce n'est pas attribuable aux vaccins
 >
 > Les effets secondaires oculaires qui surviennent suivant l'administration d'un vaccin contre la COVID-19 peuvent ressembler à des manifestations oculaires bien connues à la suite d'une infection au SRAS-CoV-2 elle-même
 
-[Rapports sur les effets secondaires oculaires suivant la vaccination contre la COVID-19 : Communiqué à l’intention des professionnels de la santé](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/document-orientation/rapports-effets-secondaires-oculaires-suivant-vaccination-covid-19-communique-professionnels-sante.html)
+[Rapports sur les effets secondaires oculaires suivant la vaccination contre la COVID-19 : Communiqué à l’intention des professionnels de la santé](https://web.archive.org/web/20231129164329/https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/document-orientation/rapports-effets-secondaires-oculaires-suivant-vaccination-covid-19-communique-professionnels-sante.html)

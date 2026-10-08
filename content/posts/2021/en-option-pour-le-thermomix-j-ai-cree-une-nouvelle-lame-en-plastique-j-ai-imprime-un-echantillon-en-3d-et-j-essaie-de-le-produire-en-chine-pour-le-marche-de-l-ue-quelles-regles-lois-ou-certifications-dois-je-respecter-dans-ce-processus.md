@@ -17,7 +17,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/En-option-pour-le-Thermomix-jai-cr%C3%A9%C3%A9-une-nouvelle-lame-en-plastique-Jai-imprim%C3%A9-un-%C3%A9chantillon-en-3D-et-jessaie-de-le-produire-en-Chine-pour-le-march%C3%A9-de-lUE-Quelles-r%C3%A8gles-lois-ou/answer/Dr-Goulu)*
 
-Vous devez vous assurer que ce n'est pas une copie d'un produit breveté ou que vous n'enfreignez pas un brevet de Vorwerk (producteur du Thermomix), par exemple pour le système de fixation de votre lame. On appelle ça une étude en [Liberté d'exploitation](https://www.iptrust.fr/brevets/liberte-dexploitation/) (Freedom to Operate en anglais)
+Vous devez vous assurer que ce n'est pas une copie d'un produit breveté ou que vous n'enfreignez pas un brevet de Vorwerk (producteur du Thermomix), par exemple pour le système de fixation de votre lame. On appelle ça une étude en [Liberté d'exploitation](https://web.archive.org/web/20200921000100/https://www.iptrust.fr/brevets/liberte-dexploitation/) (Freedom to Operate en anglais)
 
 Ensuite vous avez intérêt à utiliser une matière plastique compatible avec l'alimentaire ( voir [EUR-Lex - 32002L0072](https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=CELEX:32002L0072)) et à vérifier que les chinois utilisent bien celle-là …
 

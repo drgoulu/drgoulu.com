@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Le-nombre-2-100-1-est-il-divisible-par-3-ou-par-31/answer/Dr-Goulu)*
 
-[oui](https://www.wolframalpha.com/input/?i=factor+2^100-1)
+[oui](https://web.archive.org/web/20190620/https://www.wolframalpha.com/input/?i=factor+2^100-1)

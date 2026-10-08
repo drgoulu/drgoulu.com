@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 > Le nombre de guérisons inexpliquées à la suite d'un pèlerinage à Lourdes serait du même ordre de grandeur que celui constaté en milieu hospitalier, selon une étude de 1993, menée à travers le monde sur 128 ans ( [Guérisons de Lourdes — Wikipédia](w:Guérisons_de_Lourdes) )
 
-Bronner, G. (2013). Les miracles au risque des probabilités. La Revue Des Sciences Sociales, 49, 34–41. ([pdf](http://www.revue-des-sciences-sociales.com/pdf/rss49-bronner.pdf))
+Bronner, G. (2013). Les miracles au risque des probabilités. La Revue Des Sciences Sociales, 49, 34–41. ([pdf](https://web.archive.org/web/20180225205621/http://www.revue-des-sciences-sociales.com/pdf/rss49-bronner.pdf))
 
 En passant, une autre étude a montré que prier pour des proches hospitalisés (qui le savent) a un effet **négatif**sur leur santé :
 

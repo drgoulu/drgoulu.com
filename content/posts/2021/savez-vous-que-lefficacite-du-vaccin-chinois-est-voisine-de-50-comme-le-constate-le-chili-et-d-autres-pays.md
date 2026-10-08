@@ -25,4 +25,4 @@ Pour des réponses précises, posez des questions précises svp .
 
 Une référence sérieuse serait aussi appréciée parce que les chiffres récents du Chili qu'on trouve sur le Coronavac parlent de 67% de réduction des symptômes graves et 80% de moins de morts
 
-[https://abcnews.go.com/Health/wi...](https://abcnews.go.com/Health/wireStory/big-chile-study-finds-chinese-vaccine-slashes-covid-77120616)
+[https://abcnews.go.com/Health/wi...](https://web.archive.org/web/20210417224710/https://abcnews.go.com/Health/wireStory/big-chile-study-finds-chinese-vaccine-slashes-covid-77120616)

@@ -64,14 +64,14 @@ Qui ose encore prétendre que l'informatique est un truc de mecs ?
 
 ### Références
 
-1. <span id="ref-1"></span>"Le tissage à l’origine de l’informatique ?" [part 1](http://www.sirtin.fr/2016/06/11/le-tissage-a-lorigine-de-linformatique-2/), [part 2](http://www.sirtin.fr/2016/06/11/le-tissage-a-lorigine-de-linformatique-2/) et [part 3](http://www.sirtin.fr/2016/06/18/le-tissage-a-lorigine-de-linformatique-3/) chez Sirtin
+1. <span id="ref-1"></span>"Le tissage à l’origine de l’informatique ?" [part 1](https://web.archive.org/web/20160617230601/http://www.sirtin.fr/2016/06/11/le-tissage-a-lorigine-de-linformatique-2/), [part 2](https://web.archive.org/web/20160617230601/http://www.sirtin.fr/2016/06/11/le-tissage-a-lorigine-de-linformatique-2/) et [part 3](https://web.archive.org/web/20160621144848/http://www.sirtin.fr/2016/06/18/le-tissage-a-lorigine-de-linformatique-3/) chez Sirtin
 2. <span id="ref-2"></span>Christian Braesch "[Les origines de l'informatique](http://www.christian.braesch.fr/page/les-origines-de-linformatique)"
 3. <span id="ref-3"></span>Anne-Marie Kermarrec "[La visionnaire Ada Lovelace](http://binaire.blog.lemonde.fr/2015/03/07/la-visionnaire-ada-lovelace/)", 2015, Binaire, Le Monde
 4. <span id="ref-4"></span>Steven Goodwin "[Ada99 : computing the Bernoulli numbers"](https://marquisdegeek.com/code_ada99)
 5. <span id="ref-5"></span>Eugene Eric Kim, Betty Alexandra Toole, "Lady Ada et le premier ordinateur", 1999, Pour la science No 261,p 64‑69. ([pdf de la version Scientific American)](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.cs.virginia.edu%2F~robins%2FAda_and_the_First_Computer.pdf)
 6. <span id="ref-6"></span>L. F. Menebrea, "[Sketch of the Analytical engine invented by Charles Babbage](https://www.fourmilab.ch/babbage/sketch.html)" Bibliothèque Universelle de Genève,  Octobre 1842, No. 82, ([sur fourmilab](https://www.fourmilab.ch/babbage/sketch.html))
 7. <span id="ref-7"></span>Bram Bruines "[Plankalkül](https://laacz.lv/f/txt/Bram_Bruines___0213837___Plankalkul.pdf)", 2010
-8. <span id="ref-8"></span>[Is conditional branching a requirement of Turing-completeness?](http://stackoverflow.com/questions/4029769/is-conditional-branching-a-requirement-of-turing-completeness) sur StackOverflow
+8. <span id="ref-8"></span>[Is conditional branching a requirement of Turing-completeness?](https://web.archive.org/web/20160722071456/http://stackoverflow.com/questions/4029769/is-conditional-branching-a-requirement-of-turing-completeness) sur StackOverflow
 9. <span id="ref-9"></span>Raul Rojas"[How to Make Zuse's Z3 a Universal Computer](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.37.665&rep=rep1&type=pdf)", 1998
-10. <span id="ref-10"></span>[The Computers: The Remarkable Story of the ENIAC Programmers](http://eniacprogrammers.org/) sur [Vimeo](https://vimeo.com/ondemand/eniac6)
+10. <span id="ref-10"></span>[The Computers: The Remarkable Story of the ENIAC Programmers](http://eniacprogrammers.org/) sur [Vimeo](https://web.archive.org/web/20160625054910/https://vimeo.com/ondemand/eniac6)
 11. <span id="ref-11"></span>Len Shustek "[Programming the ENIAC: an example of why computer history is hard](http://www.computerhistory.org/atchm/programming-the-eniac-an-example-of-why-computer-history-is-hard/)", 2016

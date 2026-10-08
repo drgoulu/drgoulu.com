@@ -25,4 +25,4 @@ Les droits collectifs sont dans la Déclaration Universelle. Les droits individu
 
 Notes de bas de page
 
-[[1]](#cite-cflHP)[La Déclaration universelle des droits de l'homme](https://www.un.org/fr/universal-declaration-human-rights/)
+[[1]](#cite-cflHP)[La Déclaration universelle des droits de l'homme](https://web.archive.org/web/20240329031024/https://www.un.org/fr/universal-declaration-human-rights/)

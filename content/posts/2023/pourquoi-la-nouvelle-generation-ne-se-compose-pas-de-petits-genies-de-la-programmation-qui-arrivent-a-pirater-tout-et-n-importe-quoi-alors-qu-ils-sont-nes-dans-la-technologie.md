@@ -26,4 +26,4 @@ Pourquoi se fatiguer à étudier la cryptographie ou la serrurerie s'il suffit d
 
 Cela dit, il y a des petits génies quand même, et les meilleurs sont ceux dont vous n'entendez jamais parler. Mention spéciale à ceux qui ont hacké un casino américain en entrant sur le réseau par le système de contrôle de l'aquarium :
 
-[https://www.washingtonpost.com/n...](https://www.washingtonpost.com/news/innovations/wp/2017/07/21/how-a-fish-tank-helped-hack-a-casino/)
+[https://www.washingtonpost.com/n...](https://web.archive.org/web/20230514143115/https://www.washingtonpost.com/news/innovations/wp/2017/07/21/how-a-fish-tank-helped-hack-a-casino/)

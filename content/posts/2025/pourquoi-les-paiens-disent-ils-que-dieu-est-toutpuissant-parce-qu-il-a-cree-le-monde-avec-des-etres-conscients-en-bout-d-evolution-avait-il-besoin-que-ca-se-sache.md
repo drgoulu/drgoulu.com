@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-les-pa%C3%AFens-disent-ils-que-Dieu-est-Toutpuissant-parce-qu-il-a-cr%C3%A9%C3%A9-le-monde-avec-des-%C3%AAtres-conscients-en-bout-d-%C3%A9volution-avait-il-besoin-que-%C3%A7a-se-sache/answer/Dr-Goulu)*
 
-je ne comprends pas la question mais les êtres conscients (cétacés, grands singes, pie bavarde…[[1]](#pGogd) ) sont tout autant en bout d'évolution que les champignons, les platanes et les paramécies : [tous ont évolué en s'adaptant à la même planète depuis LUCA](https://lifemap.cnrs.fr/tree?efficiency-mode=false)
+je ne comprends pas la question mais les êtres conscients (cétacés, grands singes, pie bavarde…[[1]](#pGogd) ) sont tout autant en bout d'évolution que les champignons, les platanes et les paramécies : [tous ont évolué en s'adaptant à la même planète depuis LUCA](https://web.archive.org/web/20250502141455/https://lifemap.cnrs.fr/tree?efficiency-mode=false)
 
 Notes de bas de page
 

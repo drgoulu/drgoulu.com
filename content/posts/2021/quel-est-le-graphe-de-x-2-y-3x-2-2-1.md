@@ -15,7 +15,7 @@ solution en deux copier/coller:
 
 1. aller
 
-[https://www.wolframalpha.com/inp...](https://www.wolframalpha.com/input/?i=plot+x^2++(y-3√x^2)+^2=1)
+[https://www.wolframalpha.com/inp...](https://web.archive.org/web/20211015/https://www.wolframalpha.com/input/?i=plot+x^2++(y-3√x^2)+^2=1)
 
 2. retour
 

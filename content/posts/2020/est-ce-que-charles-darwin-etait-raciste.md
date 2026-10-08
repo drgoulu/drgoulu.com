@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non il ne l’était pas. Il était un anti-esclavagiste notoire, a défendu les populations locales lors du voyage du Beagle, et dans son livre [La Filiation de l'homme et la sélection liée au sexe](w:) il défend clairement le [Monogénisme](w:), idée selon laquelle tous les êtres humains sont de la même espèce.
 
-Voir [Darwin, le racisme et l'esclavage](https://www.acfas.ca/publications/magazine/2019/10/darwin-racisme-esclavagisme)
+Voir [Darwin, le racisme et l'esclavage](https://web.archive.org/web/20200921072643/https://www.acfas.ca/publications/magazine/2019/10/darwin-racisme-esclavagisme)

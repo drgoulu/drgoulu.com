@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Les sondes Voyager 1 et 2 ne sont même pas à un jour lumière
 
-[https://voyager.jpl.nasa.gov/mis...](https://voyager.jpl.nasa.gov/mission/status/)
+[https://voyager.jpl.nasa.gov/mis...](https://web.archive.org/web/20220412011539/https://voyager.jpl.nasa.gov/mission/status/)
 
 Elles ne sont absolument pas sorties de notre galaxie. On peut même discuter qu'elles soient sorties du système solaire.
 

@@ -28,6 +28,6 @@ Bref, votre eau gazeuse à l'O2 n'a hélas aucun intérêt.
 
 Notes de bas de page
 
-[[1]](#cite-TwvRk)[Oxygène dissous / OD (HU)](http://wikhydro.developpement-durable.gouv.fr/index.php/Oxygène_dissous_/_OD_(HU))
+[[1]](#cite-TwvRk)[Oxygène dissous / OD (HU)](https://web.archive.org/web/20221020040456/http://wikhydro.developpement-durable.gouv.fr/index.php/Oxygène_dissous_/_OD_(HU))
 
-[[2]](#cite-julem)[Solubilité du CO2 dans l'eau](http://www.ac-grenoble.fr/loubet.valence/userfiles/file/Disciplines/Sciences/SPC/TS/Eau/eau_environnement/co/solubilite_CO2.html)
+[[2]](#cite-julem)[Solubilité du CO2 dans l'eau](https://web.archive.org/web/20210618094019/http://www.ac-grenoble.fr/loubet.valence/userfiles/file/Disciplines/Sciences/SPC/TS/Eau/eau_environnement/co/solubilite_CO2.html)

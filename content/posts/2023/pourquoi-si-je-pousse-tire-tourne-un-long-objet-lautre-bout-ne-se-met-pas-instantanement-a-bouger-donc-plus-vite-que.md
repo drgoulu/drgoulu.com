@@ -34,4 +34,4 @@ Bref votre objet ne peut bouger que très lentement, ou se désintégrer, au cho
 
 Notes de bas de page
 
-[[1]](#cite-QHCZh)[Is the speed of sound almost as high as the speed of light in neutron stars?](https://physics.stackexchange.com/a/54786/3469)
+[[1]](#cite-QHCZh)[Is the speed of sound almost as high as the speed of light in neutron stars?](https://web.archive.org/web/20230618/https://physics.stackexchange.com/a/54786/3469)

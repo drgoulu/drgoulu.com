@@ -11,9 +11,9 @@ tags:
 coverImage: "./images/7a42afcb317408a34d5e901f6af93809.png"
 ---
 
-Le site [RealClimate](http://www.realclimate.org/) aborde la "climatologie par les scientifiques du climat" et est l'un des plus sérieux sur le sujet. Leur page [Start here](http://www.realclimate.org/index.php/archives/2007/05/start-here/) dirige vers des sources d'information pour public plus ou moins averti, mais en anglais évidemment.
+Le site [RealClimate](https://web.archive.org/web/20070518071724/http://www.realclimate.org/) aborde la "climatologie par les scientifiques du climat" et est l'un des plus sérieux sur le sujet. Leur page [Start here](https://web.archive.org/web/20070525100636/http://www.realclimate.org/index.php/archives/2007/05/start-here/) dirige vers des sources d'information pour public plus ou moins averti, mais en anglais évidemment.
 
-Mais il est vrai que la FAQ (Frequently Asked Questions) de l'IPCC AR4 ([disponible en pdf](https://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-faqs.pdf), et bientôt en html) est excellente et couvre les questions fondamentales que j'ai traduites pour vous, avec un hyper résumé des réponses de la FAQ, mais surtout leurs très beaux graphiques:
+Mais il est vrai que la FAQ (Frequently Asked Questions) de l'IPCC AR4 ([disponible en pdf](https://web.archive.org/web/20071215200402/https://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-faqs.pdf), et bientôt en html) est excellente et couvre les questions fondamentales que j'ai traduites pour vous, avec un hyper résumé des réponses de la FAQ, mais surtout leurs très beaux graphiques:
 
 1. Quels facteurs déterminent le climat de la Terre? tout revient à un bilan énergiétique représenté dans cette figure: [![energy-balance.png](./images/4b82e7e7703d6876dae2b5aeaefa0ae7.png)](./images/4b82e7e7703d6876dae2b5aeaefa0ae7.png "energy-balance.png")
 2. Quelle est la relation entre changement climatique et météo?

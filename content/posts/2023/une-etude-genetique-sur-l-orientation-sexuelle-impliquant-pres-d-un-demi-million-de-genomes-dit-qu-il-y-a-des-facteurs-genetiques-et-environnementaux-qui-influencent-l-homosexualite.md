@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 La référence mentionnée
 
-Ganna, A. et al. (2019). [Large-scale GWAS reveals insights into the genetic architecture of same-sex sexual behavior](https://www.science.org/doi/10.1126/science.aat7693). *Science*, *365*(6456). [doi:10.1126/science.aat7693](https://www.science.org/doi/10.1126/science.aat7693)
+Ganna, A. et al. (2019). [Large-scale GWAS reveals insights into the genetic architecture of same-sex sexual behavior](https://web.archive.org/web/20230821161045/https://www.science.org/doi/10.1126/science.aat7693). *Science*, *365*(6456). [doi:10.1126/science.aat7693](https://web.archive.org/web/20230821161045/https://www.science.org/doi/10.1126/science.aat7693)
 
 mentionne seulement deux fois le mot "environ*" dans les passages Google traduits ci-dessous.
 

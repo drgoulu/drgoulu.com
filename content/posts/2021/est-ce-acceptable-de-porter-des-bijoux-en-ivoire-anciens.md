@@ -22,4 +22,4 @@ Franchement tout ce que vous pouvez faire pour réduire la valeur marchande de l
 
 Notes de bas de page
 
-[[1]](#cite-RJwta)[Le commerce très lucratif de l’ivoire de mammouth laineux](https://www.lemonde.fr/economie/article/2019/09/04/le-commerce-tres-lucratif-de-l-ivoire-de-mammouth-a-poil-laineux_5506062_3234.html)
+[[1]](#cite-RJwta)[Le commerce très lucratif de l’ivoire de mammouth laineux](https://web.archive.org/web/20201129091628/https://www.lemonde.fr/economie/article/2019/09/04/le-commerce-tres-lucratif-de-l-ivoire-de-mammouth-a-poil-laineux_5506062_3234.html)

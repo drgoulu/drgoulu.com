@@ -12,7 +12,7 @@ tags:
 coverImage: "./images/6fbba28d819a43e7702a341bccccd6111.png"
 ---
 
-{{< figure src="./images/ad3297f8cfaf755e8d74d72a3a2de85b.jpg" alt="Dr. Goulu est (un peu) dans ce numéro de Pour la Science ! La Gloire ! (enfin...)" caption="Dr. Goulu est (un peu) dans ce numéro de \"Pour la Science\" ! La Gloire ! (enfin...)" link="http://www.pourlascience.fr/ewb_pages/f/fiche-article-mille-collections-de-nombres-21524.php" width="300" >}}
+{{< figure src="./images/ad3297f8cfaf755e8d74d72a3a2de85b.jpg" alt="Dr. Goulu est (un peu) dans ce numéro de Pour la Science ! La Gloire ! (enfin...)" caption="Dr. Goulu est (un peu) dans ce numéro de \"Pour la Science\" ! La Gloire ! (enfin...)" link="https://web.archive.org/web/20130612215037/http://www.pourlascience.fr/ewb_pages/f/fiche-article-mille-collections-de-nombres-21524.php" width="300" >}}
 
 Après mon article sur les [nombres acratopèges](/2008/08/24/nombres-acratopeges/), j'avais contacté [Jean-Paul Delahaye](w:) pour lui demander si quelqu'un avait déjà étudié ce sujet. Il m'avait répondu qu'à sa connaissance ce n'était pas le cas, et trouvait étrange de rechercher les nombres ayant peu de propriétés plutôt que ceux en ayant beaucoup. Mais mon idée d'utiliser la [base de données](http://oeis.org/Seis.html) de l'[Encyclopédie en ligne des suites de nombres entiers](http://oeis.org/Seis.html) pour mesurer l'intérêt des nombres l'a séduit et les résultats de la petite collaboration qui s'en est suivie figurent dans l'article "Mille collections de nombres" de Jean-Paul Delahaye qui vient paraitre dans "Pour la Science" \[1\].
 
@@ -51,4 +51,4 @@ Note\* : 65536 est un nombre bien connu des informaticiens : 2^16 donne le nombr
 
 ### Référence:
 
-1. Jean-Paul Delahaye, "[Mille collections de nombres](http://www.pourlascience.fr/ewb_pages/f/fiche-article-mille-collections-de-nombres-21524.php)", Pour la Science N°379 - mai 2009, p 88-93 ([(fair use pdf)](/wp-content/uploads/2020/08/Mille-collections-de-nombres-.pdf)
+1. Jean-Paul Delahaye, "[Mille collections de nombres](https://web.archive.org/web/20130612215037/http://www.pourlascience.fr/ewb_pages/f/fiche-article-mille-collections-de-nombres-21524.php)", Pour la Science N°379 - mai 2009, p 88-93 ([(fair use pdf)](/wp-content/uploads/2020/08/Mille-collections-de-nombres-.pdf)

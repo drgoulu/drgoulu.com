@@ -25,4 +25,4 @@ je ne sais pas ce que vous appelez "matrice de l'éducation" mais cette carte me
 
 source :
 
-[https://www.pourleco.com/monde/a...](https://www.pourleco.com/monde/afrique-en-deux-generation-le-continent-vaincu-lanalphabetisme)
+[https://www.pourleco.com/monde/a...](https://web.archive.org/web/20230208125452/https://www.pourleco.com/monde/afrique-en-deux-generation-le-continent-vaincu-lanalphabetisme)

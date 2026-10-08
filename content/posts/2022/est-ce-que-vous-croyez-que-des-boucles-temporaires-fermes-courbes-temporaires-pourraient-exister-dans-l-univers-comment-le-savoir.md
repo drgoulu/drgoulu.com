@@ -32,4 +32,4 @@ Mais pour ça il faut des ingrédients encore plus ezranges que des trous noirs.
 
 Notes de bas de page
 
-[[1]](#cite-TDMrx)[https://www.researchgate.net/pub...](https://www.researchgate.net/publication/1760606_A_twist_in_the_geometry_of_rotating_black_holes_Seeking_the_cause_of_acausality)
+[[1]](#cite-TDMrx)[https://www.researchgate.net/pub...](https://web.archive.org/web/20220614/https://www.researchgate.net/publication/1760606_A_twist_in_the_geometry_of_rotating_black_holes_Seeking_the_cause_of_acausality)

@@ -24,4 +24,4 @@ Ensuite c'était pour plaire aux dieux pour qu'ils nous donnent notre nourriture
 
 Ensuite c'était pour plaire au dieux pour qu'on vive mieux après la mort qu'avant.
 
-Maintenant, vous avez à bouffer pour plusieurs semaines au supermarché du coin, et il n'y a plus de dieu qui vous dise quoi faire. Vous êtes liiiiibre ! (enfin presque, faut pas trop faire [ch.er](http://ch.er) les autres…)
+Maintenant, vous avez à bouffer pour plusieurs semaines au supermarché du coin, et il n'y a plus de dieu qui vous dise quoi faire. Vous êtes liiiiibre ! (enfin presque, faut pas trop faire [ch.er](https://web.archive.org/web/20250623/http://ch.er) les autres…)

@@ -25,4 +25,4 @@ En l'occurrence il a fallu
 - Développer un "thermomètre isotopique" pour mesurer les températures passées dans ces bulles d'air.
 - Développer et valider des modèles tenant compte de tous les autres paramètres (vapeur d'eau, volcans, courants marins etc)
 
-[https://planet-terre.ens-lyon.fr...](https://planet-terre.ens-lyon.fr/article/co2-temperature.xml)
+[https://planet-terre.ens-lyon.fr...](https://web.archive.org/web/20190904194902/https://planet-terre.ens-lyon.fr/article/co2-temperature.xml)

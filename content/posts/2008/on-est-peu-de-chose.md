@@ -9,7 +9,7 @@ tags:
 coverImage: "./images/c183a5365cb5dd27cd4652865d8fd6b8.jpg"
 ---
 
-Entre deux dossiers sur la ratatination des spermatozoïdes par les téléphones portables, ce cher ServumPecus tourne la tête vers les étoiles de temps en temps et trouve des choses magnifiques comme [ça](http://servumpecus.canalblog.com/archives/2008/01/24) :
+Entre deux dossiers sur la ratatination des spermatozoïdes par les téléphones portables, ce cher ServumPecus tourne la tête vers les étoiles de temps en temps et trouve des choses magnifiques comme [ça](https://web.archive.org/web/20080207072837/http://servumpecus.canalblog.com/archives/2008/01/24) :
 
 ![](./images/43a2cfb5daa088b6d54866b0c2c7776c.jpg)
 

@@ -34,7 +34,7 @@ L'hydrogène, c'est mort…
 
 Parce que pour ceux qui ont du charbon, comme les USA, ça change un peu.
 
-D'après [cette page](https://netl.doe.gov/research/Coal/energy-systems/gasification/gasifipedia/coal-to-hydrogen-without-power-export) on atteindrait 59% de rendement énergétique charbon-H2 (en capturant le CO2 à l'usine), soit presque le double du rendement charbon->électricité (33%). C'est ce qu'on appelle le rendement "well to tank"
+D'après [cette page](https://web.archive.org/web/20220927150957/https://netl.doe.gov/research/Coal/energy-systems/gasification/gasifipedia/coal-to-hydrogen-without-power-export) on atteindrait 59% de rendement énergétique charbon-H2 (en capturant le CO2 à l'usine), soit presque le double du rendement charbon->électricité (33%). C'est ce qu'on appelle le rendement "well to tank"
 
 Ensuite, le rendement "tank to wheel" est celui qu'on trouve dans la seconde partie du graphique ci-dessus, mais il faut le calculer à partir des chiffres donnés. Il serait de 0.73/0.95 = 77% pour l'électrique contre .22/.52 soit 42% pour l'hydrogène.
 

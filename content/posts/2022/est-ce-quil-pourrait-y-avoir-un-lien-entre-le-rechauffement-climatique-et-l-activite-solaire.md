@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 L'effet de l'activité solaire sur le climat est bien connu, et l'activité solaire mesurée avec précision depuis 2 siècles, et avec une extrême précision depuis quelques décennies grâce à des satellites spécialisés.
 
-[https://www.lemonde.fr/cop21/art...](https://www.lemonde.fr/cop21/article/2015/10/15/hoax-climatique-2-le-rechauffement-c-est-a-cause-du-soleil_4790439_4527432.html)
+[https://www.lemonde.fr/cop21/art...](https://web.archive.org/web/20220418091024/https://www.lemonde.fr/cop21/article/2015/10/15/hoax-climatique-2-le-rechauffement-c-est-a-cause-du-soleil_4790439_4527432.html)
 
 Aucun changement naturel n'est susceptible de produire le réchauffement actuel. L activité humaine l'explique par contre à la perfection.

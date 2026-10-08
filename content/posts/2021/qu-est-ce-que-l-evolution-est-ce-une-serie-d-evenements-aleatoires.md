@@ -24,7 +24,7 @@ Ensuite la sélection naturelle (qui combine la sélection de survie et la séle
 
 Je ne me lasse jamais de regarder
 
-[https://rednuht.org/genetic_cars_2/](https://rednuht.org/genetic_cars_2/)
+[https://rednuht.org/genetic_cars_2/](https://web.archive.org/web/20210912170416/https://rednuht.org/genetic_cars_2/)
 
 qui montre ça avec des petites motos qui doivent aller le plus loin possible sur un terrain bosselé. Au début elles ont des dimensions aléatoires, puis à chaque génération, on combine les dimensions des motos qui ont été le plus loin, on ajoute un peu de hasard, et on recommence.
 

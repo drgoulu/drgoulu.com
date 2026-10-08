@@ -20,7 +20,7 @@ Pour compléter un peu la [réponse de Dany Fleck](https://fr.quora.com/Pouvez-v
 
 Vous trouverez beaucoup d'informations sur HFI dans cet article :
 
-Lamarre, J. M & al.. (2010). [Planck pre-launch status: The HFI instrument, from specification to actual performance](http://www.aanda.org/articles/aa/pdf/2010/12/aa12975-09.pdf). *Astronomy & Astrophysics*, *520*(1), A9. [D](https://doi.org/10.1051/0004-6361/200912975)OI>[10.1051/0004-6361/200912975](https://doi.org/10.1051/0004-6361/200912975)
+Lamarre, J. M & al.. (2010). [Planck pre-launch status: The HFI instrument, from specification to actual performance](https://web.archive.org/web/20211225202146/http://www.aanda.org/articles/aa/pdf/2010/12/aa12975-09.pdf). *Astronomy & Astrophysics*, *520*(1), A9. [D](https://web.archive.org/web/20220619015007/https://doi.org/10.1051/0004-6361/200912975)OI>[10.1051/0004-6361/200912975](https://web.archive.org/web/20220619015007/https://doi.org/10.1051/0004-6361/200912975)
 
 Notamment cette figure qui montre l'arrangement "en poupées russes" des cornes amenant le rayonnement de bandes de fréquences différentes vers les 54 [Bolomètres.](w:Bolomètre)
 

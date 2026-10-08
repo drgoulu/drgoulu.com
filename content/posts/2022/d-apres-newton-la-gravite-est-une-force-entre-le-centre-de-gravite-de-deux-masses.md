@@ -65,4 +65,4 @@ Edit * : j'ai oublié de re-préciser que la relativité remplace le "presque" d
 
 Notes de bas de page
 
-[[1]](#cite-FUpzi)[https://indico.cern.ch/event/507...](https://indico.cern.ch/event/507180/contributions/2197833/attachments/1312769/1965075/Summary_explanation.pdf)
+[[1]](#cite-FUpzi)[https://indico.cern.ch/event/507...](https://web.archive.org/web/20221225060702/https://indico.cern.ch/event/507180/contributions/2197833/attachments/1312769/1965075/Summary_explanation.pdf)

@@ -11,6 +11,6 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/L-Europe-peut-elle-atteindre-la-supr%C3%A9matie-quantique/answer/Dr-Goulu)*
 
-Un des labos les plus avancés est le labo de recherche d'IBM à Rüschlikon près de Zurich, Suisse ([Quantum technology & computing](https://www.zurich.ibm.com/st/quantum/))
+Un des labos les plus avancés est le labo de recherche d'IBM à Rüschlikon près de Zurich, Suisse ([Quantum technology & computing](https://web.archive.org/web/20210112194431/https://www.zurich.ibm.com/st/quantum/))
 
 Si c'est eux qui gagnent, la Suisse sera soudain en Europe…

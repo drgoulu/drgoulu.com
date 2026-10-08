@@ -13,7 +13,7 @@ tags:
 coverImage: "./images/382eab9bc9a7fb3838c9a892ac66c40b.png"
 ---
 
-La "[société à 2000 Watts](http://www.societe2000watts.com/)" est un concept élaboré à l'EPFZ consistant uniformiser la consommation totale d'énergie de chaque habitant de la planète à 2000 Watts de puissance continue, soit  une énergie de 17'500 KWh ou 2'700 litres de pétrole par an. L'étude estime qu'en couvrant la production d'énergie correspondante avec 75% d'énergie renouvelable, les 25% issus d'énergies fossiles seront écologiquement supportables. La "société à 2000 Watts" est ainsi devenue le principe directeur du programme énergétique suisse, sous l'impulsion de  Moritz Leuenberger [[1]](#ref-1) . En Europe, la consommation d'énergie correspond à environ 6000W par personne. Il s'agirait donc de réduire notre consomation d'énergie de 2/3, alors que les états-uniens devraient diminuer la leur d'un facteur 6, tout en laissant le reste du monde se développer un peu:
+La "[société à 2000 Watts](https://web.archive.org/web/20090207113947/http://www.societe2000watts.com/)" est un concept élaboré à l'EPFZ consistant uniformiser la consommation totale d'énergie de chaque habitant de la planète à 2000 Watts de puissance continue, soit  une énergie de 17'500 KWh ou 2'700 litres de pétrole par an. L'étude estime qu'en couvrant la production d'énergie correspondante avec 75% d'énergie renouvelable, les 25% issus d'énergies fossiles seront écologiquement supportables. La "société à 2000 Watts" est ainsi devenue le principe directeur du programme énergétique suisse, sous l'impulsion de  Moritz Leuenberger [[1]](#ref-1) . En Europe, la consommation d'énergie correspond à environ 6000W par personne. Il s'agirait donc de réduire notre consomation d'énergie de 2/3, alors que les états-uniens devraient diminuer la leur d'un facteur 6, tout en laissant le reste du monde se développer un peu:
 
 ![](./images/b660033525fb9435f5690792454a8e99.gif)
 
@@ -56,12 +56,12 @@ La société à 2 Kilowatts n'est pas un objectif, c'est l'aveu anticipé d'une 
 
 ### Références
 
-1. <span id="ref-1"></span>Moritz Leuenberger ["Le but et le chemin : la société à 2000 watts"](http://www.uvek.admin.ch/dokumentation/00474/00492/index.html?lang=fr&msg-id=12194 "Le but et le chemin : la société à 2000 watts") allocution à la Conférence du G8-UE sur l’efficacité énergétique , 20.04.2007
-2. <span id="ref-2"></span>Archer, C. L., and M. Z. Jacobson "[Evaluation of global wind power"](http://www.agu.org/pubs/crossref/2005/2004JD005462.shtml) , 2005, J. Geophys. Res., 110
-3. <span id="ref-3"></span>"[L'énergie dans le monde : le passé et les avenirs possibles](http://www.cna.ca/wp-content/uploads/CNA_CERI07_FR.pdf)", 2007, Canadian Energie Research Institute
+1. <span id="ref-1"></span>Moritz Leuenberger ["Le but et le chemin : la société à 2000 watts"](https://web.archive.org/web/20120516063410/http://www.uvek.admin.ch/dokumentation/00474/00492/index.html?lang=fr&msg-id=12194 "Le but et le chemin : la société à 2000 watts") allocution à la Conférence du G8-UE sur l’efficacité énergétique , 20.04.2007
+2. <span id="ref-2"></span>Archer, C. L., and M. Z. Jacobson "[Evaluation of global wind power"](https://web.archive.org/web/20090603065301/http://www.agu.org/pubs/crossref/2005/2004JD005462.shtml) , 2005, J. Geophys. Res., 110
+3. <span id="ref-3"></span>"[L'énergie dans le monde : le passé et les avenirs possibles](https://web.archive.org/web/20160815164248/http://www.cna.ca/wp-content/uploads/CNA_CERI07_FR.pdf)", 2007, Canadian Energie Research Institute
 4. <span id="ref-4"></span>[Manicore](http://www.manicore.com), Jean-Marc Jancovici, le site de référence en matière d'énergie
-5. <span id="ref-5"></span>Harry D. Saunders, "[Khazzoom-Brookes Postulate and Neoclassical Growth](http://ideas.repec.org/a/aen/journl/1992v13-04-a07.html)" , 1992, The Energy Journal, 13(4), p.130-147
-6. <span id="ref-6"></span>Jeff Rubin, "[The Efficiency Paradox](http://research.cibcwm.com/economic_public/download/snov07.pdf)", Novembre 2007, StrategEcon
+5. <span id="ref-5"></span>Harry D. Saunders, "[Khazzoom-Brookes Postulate and Neoclassical Growth](https://web.archive.org/web/20091203144209/http://ideas.repec.org/a/aen/journl/1992v13-04-a07.html)" , 1992, The Energy Journal, 13(4), p.130-147
+6. <span id="ref-6"></span>Jeff Rubin, "[The Efficiency Paradox](https://web.archive.org/web/20080725122724/http://research.cibcwm.com/economic_public/download/snov07.pdf)", Novembre 2007, StrategEcon
 7. <span id="ref-7"></span>[Postulat de Khazzoom-Brookes](w:)sur Wikipedia (traduit de l'anglais par Dr. Goulu)
     
     L’énergie dans le monde :

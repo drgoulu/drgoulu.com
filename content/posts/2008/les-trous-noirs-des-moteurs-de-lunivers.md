@@ -59,9 +59,9 @@ En quelques années, on est passés de l'idée étonnante qu'il pouvait peut-êt
 
  
 
-1. <span id="ref-1"></span>Rachel Courtland "[Simulation shows stars form around black holes after all](http://www.newscientist.com/article/dn14582)", NewScientist.com, 21 August 2008
+1. <span id="ref-1"></span>Rachel Courtland "[Simulation shows stars form around black holes after all](https://web.archive.org/web/20160608050645/http://www.newscientist.com/article/dn14582)", NewScientist.com, 21 August 2008
 2. <span id="ref-2"></span> I. A. Bonnell, W. K. M. Rice "Star Formation Around Supermassive Black Holes", Science  22 Aug 2008: Vol. 321, Issue 5892, pp. 1060-1062 {{< altmetric doi="10.1126/science.1160653" >}}
     
-3. <span id="ref-3"></span>David L Chandler "[Mysterious ring of stars guards Andromeda’s heart](http://www.newscientist.com/article/dn8025)", NewScientist.com 20 September 2005
+3. <span id="ref-3"></span>David L Chandler "[Mysterious ring of stars guards Andromeda’s heart](https://web.archive.org/web/20090130044517/http://www.newscientist.com/article/dn8025)", NewScientist.com 20 September 2005
 4. <span id="ref-4"></span>Didier Jamet "[Les trous noirs en jettent](http://www.cidehom.com/astronomie.php?_a_id=78)", Ciel des hommes, 29-01-2002
-5. <span id="ref-5"></span>Jonathan Ferreira "[ASTROPHYSIQUE : Les Etoiles: la Vie, la Mort et tout le Bazar](http://ipag.osug.fr/~ferreira/enseignement/cours_astro2000.pdf)", cours de Magistère et Maîtrise de Physique, OBSERVATOIRE DE GRENOBLE, LABORATOIRE D’ASTROPHYSIQUE, UNIVERSITE JOSEPH FOURIER, Novembre 2000
+5. <span id="ref-5"></span>Jonathan Ferreira "[ASTROPHYSIQUE : Les Etoiles: la Vie, la Mort et tout le Bazar](https://web.archive.org/web/20080906/http://ipag.osug.fr/~ferreira/enseignement/cours_astro2000.pdf)", cours de Magistère et Maîtrise de Physique, OBSERVATOIRE DE GRENOBLE, LABORATOIRE D’ASTROPHYSIQUE, UNIVERSITE JOSEPH FOURIER, Novembre 2000

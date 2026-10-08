@@ -20,6 +20,6 @@ coverImage: ./images/quora.png
 
 14 ans selon [Appliance Life Expectancy](https://www.mrappliance.com/expert-tips/appliance-life-guide/)
 
-11 à 13 ans selon [Quelle est la Durée de Vie d'un Appareil Électroménager? - HelpMee](https://helpmee.ca/fr/quelle-est-la-duree-de-vie-dun-appareil-electromenager)
+11 à 13 ans selon [Quelle est la Durée de Vie d'un Appareil Électroménager? - HelpMee](https://web.archive.org/web/20191014015103/https://helpmee.ca/fr/quelle-est-la-duree-de-vie-dun-appareil-electromenager)
 
 J'ai entendu dire que c'était plus avant l'interdiction des CFC, les nouveaux [Fluide frigorigène](w:) nécessitant plus de pression, ou étant plus corrosifs je ne sais plus, mais je n'ai pas trouvé de source fiable là dessus.

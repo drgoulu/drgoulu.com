@@ -22,7 +22,7 @@ Non. Tôt ou tard vous devrez utiliser un [Test de primalité](w:) pour vérifie
 
 Mais les tests de primalité modernes sont si rapides que ça prend un temps minuscule d'obtenir un nombre premier très grand.
 
-Par exemple ma fonction Python [Goulib.math2.random_prime](https://goulib.readthedocs.io/en/latest/_modules/Goulib/math2.html#random_prime) génère un nombre premier de 512 bits en 90 millisecondes environ :
+Par exemple ma fonction Python [Goulib.math2.random_prime](https://web.archive.org/web/20230925195105/https://goulib.readthedocs.io/en/latest/_modules/Goulib/math2.html#random_prime) génère un nombre premier de 512 bits en 90 millisecondes environ :
 
 ```
 from Goulib.math2 import random_prime

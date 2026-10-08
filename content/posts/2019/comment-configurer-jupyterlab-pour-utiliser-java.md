@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 [SpencerPark/IJava](https://github.com/SpencerPark/IJava)
 
-(merci pour la question, qui m'a permis de découvrir [Binder](https://gke.mybinder.org/) )
+(merci pour la question, qui m'a permis de découvrir [Binder](https://web.archive.org/web/20190702093516/https://gke.mybinder.org/) )

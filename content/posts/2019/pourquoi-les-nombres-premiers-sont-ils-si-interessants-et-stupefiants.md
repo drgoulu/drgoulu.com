@@ -22,7 +22,7 @@ Les propriétés étonnantes des nombres premiers pourraient ne pas provenir d'e
 
 Il existe en effet d'autres suites de nombres entiers comme les [Nombres chanceux](w:Nombre_chanceux) qui ont des propriétés très similaires, comme expliqué dans cet article:
 
-Verna Gardiner, R. Lazarus, N. Metropolis and S. Ulam “On Certain Sequences of Integers Defined by Sieves” Mathematics Magazine Vol. 29, No. 3 (Jan. – Feb., 1956), pp. 117-122 DOI [10.2307/3029719](http://dx.doi.org/10.2307/3029719), zbMATH [0071.27002](http://zbmath.org/?q=an:0071.27002)
+Verna Gardiner, R. Lazarus, N. Metropolis and S. Ulam “On Certain Sequences of Integers Defined by Sieves” Mathematics Magazine Vol. 29, No. 3 (Jan. – Feb., 1956), pp. 117-122 DOI [10.2307/3029719](http://dx.doi.org/10.2307/3029719), zbMATH [0071.27002](https://web.archive.org/web/20191013012244/http://zbmath.org/?q=an:0071.27002)
 
 En passant, l'utilisation des nombres premiers en cryptographie (voir [[2]](#HsYRo) pour une initiation) repose sur le fait qu'il est très rapide de déterminer si un grand nombre est premier ou non[[3]](#ADBLQ) , mais très lent de le factoriser s'il ne l'est pas, ce qui revient à déterminer à quel moment le crible élimine ce nombre (il y a des algos plus rapides que le crible "naïf", mais il faut quand même faire beaucoup d'opérations).
 

@@ -10,7 +10,7 @@ tags:
 coverImage: "./images/c183a5365cb5dd27cd4652865d8fd6b8.jpg"
 ---
 
-le [Cassini Favorite Image Contest](http://ciclops.org/contest07.php) a permis aux fans de la sonde Cassini (dont je suis) de voter pour les plus belles images prises par cet [extraordinaire engin qui visite les abords de Saturne](/2007/10/15/cassini-forever/).
+le [Cassini Favorite Image Contest](https://web.archive.org/web/20080115061434/http://ciclops.org/contest07.php) a permis aux fans de la sonde Cassini (dont je suis) de voter pour les plus belles images prises par cet [extraordinaire engin qui visite les abords de Saturne](/2007/10/15/cassini-forever/).
 
 Le premier prix a été décerné à cette incroyable image déjà mentionnée [ici](/2006/12/29/les-meilleures-photos-dastronomie-2006/) :
 

@@ -28,6 +28,6 @@ Pour les horloges atomiques, comme pour beaucoup de systèmes de mesure, les pro
 
 Notes de bas de page
 
-[[1]](#cite-RdPqc)[https://www.refletsdelaphysique....](https://www.refletsdelaphysique.fr/articles/refdp/pdf/2018/04/refdp201859p26.pdf)
+[[1]](#cite-RdPqc)[https://www.refletsdelaphysique....](https://web.archive.org/web/20220623114431/https://www.refletsdelaphysique.fr/articles/refdp/pdf/2018/04/refdp201859p26.pdf)
 
 [[2]](#cite-ZZslK)[Le nec plus ultra des horloges](https://www.pourlascience.fr/sd/technologie/le-inec-plus-ultrai-des-horloges-5351.php)

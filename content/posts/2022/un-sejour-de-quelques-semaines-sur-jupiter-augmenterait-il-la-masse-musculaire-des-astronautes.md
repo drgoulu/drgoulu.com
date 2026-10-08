@@ -27,7 +27,7 @@ Alors pour fixer les idées, considérons un vaisseau de densité 1, comme l'eau
 
 D'après cette figure trouvée sur
 
-[https://www.researchgate.net/pub...](https://www.researchgate.net/publication/341355937_The_challenge_of_forming_a_fuzzy_core_in_Jupiter/figures?lo=1)
+[https://www.researchgate.net/pub...](https://web.archive.org/web/20220517/https://www.researchgate.net/publication/341355937_The_challenge_of_forming_a_fuzzy_core_in_Jupiter/figures?lo=1)
 
 ça arrive vers 90% du "rayon normalisé" de Jupiter
 

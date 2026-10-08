@@ -55,4 +55,4 @@ Notes de bas de page
 
 [[1]](#cite-cZfcl)[Asteroids on a Donut](https://infinityplusonemath.wordpress.com/2017/02/18/asteroids-on-a-donut/)
 
-[[2]](#cite-pIziB)[Why The Universe Probably Isn’t Shaped Like A Donut](https://www.forbes.com/sites/startswithabang/2021/07/21/why-the-universe-probably-isnt-shaped-like-a-donut/?sh=5db1a3be6e60)
+[[2]](#cite-pIziB)[Why The Universe Probably Isn’t Shaped Like A Donut](https://web.archive.org/web/20230204/https://www.forbes.com/sites/startswithabang/2021/07/21/why-the-universe-probably-isnt-shaped-like-a-donut/?sh=5db1a3be6e60)

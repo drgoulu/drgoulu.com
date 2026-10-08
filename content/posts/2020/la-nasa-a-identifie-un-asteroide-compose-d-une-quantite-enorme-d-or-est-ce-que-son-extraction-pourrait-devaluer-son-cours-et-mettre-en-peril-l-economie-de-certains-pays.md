@@ -22,8 +22,8 @@ Ce type d astéroïde contient entre 0 et 8 ppm d'or mélangé dans du fer et du
 
 Une sonde va aller voir en 2022.
 
-[Does the asteroid 16 Psyche contain this much gold?](https://skeptics.stackexchange.com/questions/44313/does-the-asteroid-16-psyche-contain-this-much-gold)
+[Does the asteroid 16 Psyche contain this much gold?](https://web.archive.org/web/20201027071317/https://skeptics.stackexchange.com/questions/44313/does-the-asteroid-16-psyche-contain-this-much-gold)
 
 Plus aucun pays n'a une économie basée sur l'or, et il n'y en a pas pénurie sur Terre, donc à part ruiner ceux qui ont leurs économies sous forme de lingots, ça n'aurait aucun effet majeur.
 
-[That Giant Asteroid of Gold Won’t Make Us Richer](https://www.bloomberg.com/opinion/articles/2019-07-08/asteroid-16-psyche-and-all-that-gold-won-t-make-earth-richer)
+[That Giant Asteroid of Gold Won’t Make Us Richer](https://web.archive.org/web/20201104011844/https://www.bloomberg.com/opinion/articles/2019-07-08/asteroid-16-psyche-and-all-that-gold-won-t-make-earth-richer)

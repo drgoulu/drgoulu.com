@@ -15,4 +15,4 @@ Parce que les afghans n'ont pas réussi à mettre en place un gouvernement suffi
 
 Problème pas nouveau :
 
-[https://www.forbes.com/sites/str...](https://www.forbes.com/sites/stratfor/2013/07/03/churchill-on-afghanistan/)
+[https://www.forbes.com/sites/str...](https://web.archive.org/web/20210817011455/https://www.forbes.com/sites/stratfor/2013/07/03/churchill-on-afghanistan/)

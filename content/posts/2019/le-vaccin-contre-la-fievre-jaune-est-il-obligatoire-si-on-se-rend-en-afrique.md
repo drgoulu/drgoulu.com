@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ca dépend où et quand, demandez à votre médecin.
 
-Il y a une carte sur [Conseils médicaux aux voyageurs](http://www.safetravel.ch/safetravel2/servlet/ch.ofac.wv.wv204j.pages.Wv204ConseilsSanteDetailsCtrl?action=maladie&refMala=JAUN)
+Il y a une carte sur [Conseils médicaux aux voyageurs](https://web.archive.org/web/20200926044630/http://www.safetravel.ch/safetravel2/servlet/ch.ofac.wv.wv204j.pages.Wv204ConseilsSanteDetailsCtrl?action=maladie&refMala=JAUN)

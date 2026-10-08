@@ -29,6 +29,6 @@ Vous dépassez 1% de chances de mourir par année après 60 ans pour les hommes 
 
 et à 100 ans, vous avez environ 30% de chances de ne pas atteindre 101 ans.
 
-[https://www.ined.fr/fr/tout-savo...](https://www.ined.fr/fr/tout-savoir-population/graphiques-cartes/graphiques-interpretes/risques-mortalite/)
+[https://www.ined.fr/fr/tout-savo...](https://web.archive.org/web/20210418123700/https://www.ined.fr/fr/tout-savoir-population/graphiques-cartes/graphiques-interpretes/risques-mortalite/)
 
 C'est ces courbes qu'utilisent les assurances vie pour calculer votre prime…

@@ -30,7 +30,7 @@ Ces pays ne vont plus s'épuiser à faire survivre des enfants, ils vont pouvoir
 
 Tous les pays suivent à quelque chose près la même trajectoire de développement, juste décalée dans le temps. Hans Rosling montrait ça très bien dans ses extraordinaires conférences à voir absolument, comme celle-ci :
 
-[https://www.ted.com/talks/hans_r...](https://www.ted.com/talks/hans_rosling_let_my_dataset_change_your_mindset?autoplay=true&referrer=playlist-the_best_hans_rosling_talks_yo)
+[https://www.ted.com/talks/hans_r...](https://web.archive.org/web/20230331100606/https://www.ted.com/talks/hans_rosling_let_my_dataset_change_your_mindset?autoplay=true&referrer=playlist-the_best_hans_rosling_talks_yo)
 
 L'Afrique sera le prochaine eldorado.
 

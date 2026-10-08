@@ -15,4 +15,4 @@ Toute l'Islande, 102'775 km2 a été produite comme ça, donc c'est très habitu
 
 Et cette éruption n'est pas "puissante" du tout. C'est une petite fissure qui fait probablement suite à celle de 2021.
 
-[https://volcano.si.edu/reports_w...](https://volcano.si.edu/reports_weekly.cfm#vn_371030)
+[https://volcano.si.edu/reports_w...](https://web.archive.org/web/20220806020148/https://volcano.si.edu/reports_weekly.cfm#vn_371030)

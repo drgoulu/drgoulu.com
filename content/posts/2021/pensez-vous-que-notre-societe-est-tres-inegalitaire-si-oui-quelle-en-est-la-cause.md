@@ -22,7 +22,7 @@ Alors, voici le classement des pays de l'OCDE selon le [Coefficient de Gini](w:)
 
 ![](./images/qimg-c0c22bad9e443325924ad90af01f8855.png)
 
-(source : [Inequality - Income inequality - OECD Data](https://data.oecd.org/inequality/income-inequality.htm) )
+(source : [Inequality - Income inequality - OECD Data](https://web.archive.org/web/20210630093106/https://data.oecd.org/inequality/income-inequality.htm) )
 
 Donc oui, les Etats-Unis sont le pays le plus inégalitaire de l'OCDE, devancés uniquement par la Bulgarie, le Chili, le Mexique et le Costa-Rica.
 

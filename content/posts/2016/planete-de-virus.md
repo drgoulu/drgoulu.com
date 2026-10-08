@@ -10,7 +10,7 @@ tags:
 coverImage: "./images/7401395-L.jpg"
 ---
 
-{{< figure src="./images/7401395-L.jpg" alt="Planète de virus" link="http://openlibrary.org/books/OL25898302M/Planète_de_virus" >}}
+{{< figure src="./images/7401395-L.jpg" alt="Planète de virus" link="https://web.archive.org/web/20260203112949/http://openlibrary.org/books/OL25898302M/Planète_de_virus" >}}
 
 Dévoré un excellent livre : "Planète de virus" de [Carl Zimmer](w:en)[[1]](#ref-1). En 113 pages qui se lisent comme un roman, on apprend une multitude de choses sur les [virus](w:), bestioles, microbes, êtres  vivants, choses inconnues il y a un siècle et qui se révèlent aujourd'hui être les formes de vie bouts d'ADN les plus abondants dans la nature.
 
@@ -18,7 +18,7 @@ C'est le problème avec les virus : les scientifiques ne sont pas encore d'accor
 
 Ces sujets sont traités en marge de chapitres dévolus principalement aux virus affectant l'homme [rhinovirus](w:), [grippe](w:), [papillomavirus](w:), [VIH](w:), [variole](w:) etc. J'y ai découvert une multitude de choses passionnantes, mais pour ne pas trop spoiler je ne ressortirai ici que deux passages, destinés aux antivax qui passeraient par ici:
 
-> Ne sous-estimez jamais la créativité d'un virus qui peut transformer des lapins en [jackalopes](w:jackalope) et des [hommes en arbres](http://www.maxisciences.com/peau/l-039-effrayante-maladie-de-l-039-homme-arbre-dont-la-peau-se-change-en-039-039-ecorce-039-039_art34058.html)
+> Ne sous-estimez jamais la créativité d'un virus qui peut transformer des lapins en [jackalopes](w:jackalope) et des [hommes en arbres](https://web.archive.org/web/20160322233020/http://www.maxisciences.com/peau/l-039-effrayante-maladie-de-l-039-homme-arbre-dont-la-peau-se-change-en-039-039-ecorce-039-039_art34058.html)
 
 > Entre 1400 et 1800, on estime que la [variole](w:) a tué cinq cent millions de personnes par siècle, rien qu'en Europe. (...) La variole se répandait comme une traînée de poudre, mais la progression fut rapidement stoppée par la vaccination, et elle finit par s'éteindre. Epidémie après épidémie le virus recula jusqu'à ce qu'un dernier cas soit enregistré en Ethiopie en 1977. Le monde était désormais libéré de la variole.
 
@@ -28,7 +28,7 @@ Le chapitre sur les virus marins et leur stupéfiante abondance ("il y a plus de
 
 Ce livre est un excellent livre de vulgarisation, un modèle du genre. Il me semble accessible à un très large public, sans nécessiter de connaissances scientifiques particulières. Carl Zimmer donne les clés nécessaires au moment utile et évite de noyer le lecteur dans trop de détails. Mais le curieux trouvera 6 pages de références scientifiques en fin d'ouvrage.
 
-Qui plus est "Planète de virus" a été parfaitement traduit en français par [Alan Vonlanthen](http://alan.vonlanthen.org/) et [Karim Madjer](http://sweetrandomscience.blogspot.ch/), membres émérites du Café des Sciences et fondateurs de [Big Bang Science](http://www.bigbangscience.fr/fr), et est paru chez Belin dans une nouvelle collection "[Science à plumes](https://www.facebook.com/Scienceaplumes)" lancée par [Laurent Brasier](http://headbangingscience.fr/), un autre collègue Cafetier.
+Qui plus est "Planète de virus" a été parfaitement traduit en français par [Alan Vonlanthen](http://alan.vonlanthen.org/) et [Karim Madjer](http://sweetrandomscience.blogspot.ch/), membres émérites du Café des Sciences et fondateurs de [Big Bang Science](http://www.bigbangscience.fr/fr), et est paru chez Belin dans une nouvelle collection "[Science à plumes](https://web.archive.org/web/20260203061104/https://www.facebook.com/Scienceaplumes)" lancée par [Laurent Brasier](https://web.archive.org/web/20160318023518/http://headbangingscience.fr/), un autre collègue Cafetier.
 
 Foncez l'acheter chez votre libraire préféré, il vaut largement son prix. (Et merci à Alan et Karim pour l'exemplaire dédicacé ! )
 

@@ -19,4 +19,4 @@ D'un certain côté, Sars-Cov2 a rendu le monde un peu plus normal. C'est "la vi
 
 Notes de bas de page
 
-[[1]](#cite-qrYKF)[An ancient viral epidemic involving host coronavirus interacting genes more than 20,000 years ago in East Asia](https://www.sciencedirect.com/science/article/pii/S0960982221007946)
+[[1]](#cite-qrYKF)[An ancient viral epidemic involving host coronavirus interacting genes more than 20,000 years ago in East Asia](https://web.archive.org/web/20211013203536/https://www.sciencedirect.com/science/article/pii/S0960982221007946)

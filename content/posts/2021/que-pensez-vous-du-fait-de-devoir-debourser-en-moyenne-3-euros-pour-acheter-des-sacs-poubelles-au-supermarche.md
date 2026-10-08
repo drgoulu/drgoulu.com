@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Que vous avez bien de la chance, ici c est 3 euro par sac. Ils sont gardés sous clé à la caisse pour éviter le vol.
 
-[http://www.vaud-taxeausac.ch/fr/...](http://www.vaud-taxeausac.ch/fr/17/le-prix-du-sac)
+[http://www.vaud-taxeausac.ch/fr/...](https://web.archive.org/web/20210917084319/http://www.vaud-taxeausac.ch/fr/17/le-prix-du-sac)

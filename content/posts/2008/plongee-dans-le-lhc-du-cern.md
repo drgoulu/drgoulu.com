@@ -11,17 +11,17 @@ tags:
 coverImage: "./images/csCERN2.jpg"
 ---
 
-Le [CERN ouvrait aujourd'hui ses portes](https://lhc2008.web.cern.ch/LHC2008/) au public pour lui montrer le Large Hadron Collider (LHC), le plus puissant accélérateur de particules du monde, qui sera mis en service cet été.
+Le [CERN ouvrait aujourd'hui ses portes](https://web.archive.org/web/20080407212037/https://lhc2008.web.cern.ch/LHC2008/) au public pour lui montrer le Large Hadron Collider (LHC), le plus puissant accélérateur de particules du monde, qui sera mis en service cet été.
 
-Je souhaitais voir [ATLAS](http://public.web.cern.ch/public/fr/LHC/ATLAS-fr.html), le plus imposant détecteur de particules, destiné entre autres à découvrir le [Boson de Higgs](w:), la particule qui permettrait de valider la théorie qui explique pourquoi certaines particules ont une masse et d'autre pas.
+Je souhaitais voir [ATLAS](https://web.archive.org/web/20080408053604/http://public.web.cern.ch/public/fr/LHC/ATLAS-fr.html), le plus imposant détecteur de particules, destiné entre autres à découvrir le [Boson de Higgs](w:), la particule qui permettrait de valider la théorie qui explique pourquoi certaines particules ont une masse et d'autre pas.
 
 ![](./images/85fea7a4da57502fb066809b9d1c988e.jpg)
 
-Mais à l'ouverture à 9h, il y avait déjà une queue de plus 3h pour le visiter... Nous nous sommes donc rendus sur le [site de Ferney-Voltaire](https://lhc2008.web.cern.ch/LHC2008/OpenDaysF/point8.html) où la queue n'était "que" d'une heure et demie et permettait d'obtenir... un ticket pour une visite 2h plus tard ! Après beaucoup de déception et de reproches pour la mauvaise organisation de l'événement, nous sommes donc rentrés chez nous (à 10 minutes seulement, mais j'ai pensé à [ceux ont fait le voyage depuis les USA](http://blogs.discovermagazine.com/badastronomy/) spécialement pour assister à cette journée...) et retournés à 14h plonger 100m sous terre.
+Mais à l'ouverture à 9h, il y avait déjà une queue de plus 3h pour le visiter... Nous nous sommes donc rendus sur le [site de Ferney-Voltaire](https://web.archive.org/web/20080408174135/https://lhc2008.web.cern.ch/LHC2008/OpenDaysF/point8.html) où la queue n'était "que" d'une heure et demie et permettait d'obtenir... un ticket pour une visite 2h plus tard ! Après beaucoup de déception et de reproches pour la mauvaise organisation de l'événement, nous sommes donc rentrés chez nous (à 10 minutes seulement, mais j'ai pensé à [ceux ont fait le voyage depuis les USA](https://web.archive.org/web/20080702175758/http://blogs.discovermagazine.com/badastronomy/) spécialement pour assister à cette journée...) et retournés à 14h plonger 100m sous terre.
 
-Et ça valait la peine : imaginer un tunnel de 27km rempli des équipements de physique les plus sophistiqués que l'on puisse concevoir actuellement est difficile, mais le voir c'est vraiment impressionnant. Nous avons visité une section illustrant proche de l'expérience "[beauty](http://public.web.cern.ch/public/fr/LHC/LHCb-fr.html)" destinée à comprendre la "rupture de symétrie" qui a fait que le Big Bang a produit plus de matière que d'antimatière, ce qui fait qu'il reste de la matière ...
+Et ça valait la peine : imaginer un tunnel de 27km rempli des équipements de physique les plus sophistiqués que l'on puisse concevoir actuellement est difficile, mais le voir c'est vraiment impressionnant. Nous avons visité une section illustrant proche de l'expérience "[beauty](https://web.archive.org/web/20080409142729/http://public.web.cern.ch/public/fr/LHC/LHCb-fr.html)" destinée à comprendre la "rupture de symétrie" qui a fait que le Big Bang a produit plus de matière que d'antimatière, ce qui fait qu'il reste de la matière ...
 
-Cette section permet de voir de nombreux aspects du [fonctionnement du LHC](http://public.web.cern.ch/public/fr/LHC/HowLHC-fr.html) :
+Cette section permet de voir de nombreux aspects du [fonctionnement du LHC](https://web.archive.org/web/20080406151520/http://public.web.cern.ch/public/fr/LHC/HowLHC-fr.html) :
 
 - le point d'injection des particles depuis un autre accélérateur dans le LHC
 - les aimants dipolaires qui courbent les 2 faisceaux de protons circulant en sens inverse dans le tunnel et les aimants quadrupôles qui focalisent ces faisceaux

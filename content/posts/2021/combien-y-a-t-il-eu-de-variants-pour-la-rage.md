@@ -15,7 +15,7 @@ Il y a 14 [Lyssavirus](w:)connus, dont 6 infectent des humains, la grande majori
 
 Je n'ai pas trouvé de nombre exact de variants de RABV, mais cet article
 
-[https://www.tandfonline.com/doi/...](https://www.tandfonline.com/doi/full/10.1080/22221751.2019.1683436)
+[https://www.tandfonline.com/doi/...](https://web.archive.org/web/20220616161728/https://www.tandfonline.com/doi/full/10.1080/22221751.2019.1683436)
 
 souligne que le virus RABV mute rapidement et analyse 99 mutations que l'on retrouve dans les différents variants du virus de la rage et qu'il faut monitorer pour adapter le vaccin en continu.
 

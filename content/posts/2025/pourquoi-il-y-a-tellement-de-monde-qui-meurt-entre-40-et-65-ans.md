@@ -18,7 +18,7 @@ coverImage: ./images/qimg-0d56e1d2c2ee27958ee5196d4efb1d6a.png
 
 Parce que vous avez entre 40 et 65 ans et que vous être "biaisé" face à la mort de gens qui pourraient être vous.
 
-En réalité, le [Risques de mortalité selon l’âge](https://www.ined.fr/fr/tout-savoir-population/graphiques-cartes/graphiques-interpretes/risques-mortalite/) en France est donné par ces courbes :
+En réalité, le [Risques de mortalité selon l’âge](https://web.archive.org/web/20241202211406/https://www.ined.fr/fr/tout-savoir-population/graphiques-cartes/graphiques-interpretes/risques-mortalite/) en France est donné par ces courbes :
 
 ![](./images/qimg-0d56e1d2c2ee27958ee5196d4efb1d6a.png)
 

@@ -50,7 +50,7 @@ Un million d'années est une période courte à l'échelle cosmique, mais elle e
 
 La théorie évolutionniste suggère même [Hansson et Stuart 90] que la pression de la concurrence entre les colons devrait encourager à maximiser le taux de croissance économique pour que ceux qui voyagent trop lentement, s'attardent trop longtemps ou choisissent de ne pas se reproduire [Stephenson 79] soient dépassés par les autres. Des sondes de plus en plus rapides et prenant de plus en plus de risques doivent être lancées de plus en plus loin pour avoir une chance d'être le premier à coloniser un vaste territoire vierge.
 
-Techniquement, une telle colonisation de l'espace semble possible, même si c'est bien au-delà de nos capacités actuelles étant donné que nous pouvons d'ores et déjà envisager les technologies requises.  Des vaisseaux interstellaires autonomes lents seraient seraient à peu près faisables maintenant si nous étions assez riches pour les construire. Et des sondes [interstellaires](http://www.foresight.org/Conferences/MNT05/Papers/Bishop/index.html) rapides de moins d'un kilogramme [Forward 85,87] auto-reproductrices [Tipler80] basées sur les [nanotechnologies [Drexler 92b] [dotées d'intelligence (artificielle ou téléchargée)](http://hanson.gmu.edu/uploads.html) [Hanson 94]) semblent possibles d'ici quelques siècles.
+Techniquement, une telle colonisation de l'espace semble possible, même si c'est bien au-delà de nos capacités actuelles étant donné que nous pouvons d'ores et déjà envisager les technologies requises.  Des vaisseaux interstellaires autonomes lents seraient seraient à peu près faisables maintenant si nous étions assez riches pour les construire. Et des sondes [interstellaires](https://web.archive.org/web/20130510013926/http://www.foresight.org/Conferences/MNT05/Papers/Bishop/index.html) rapides de moins d'un kilogramme [Forward 85,87] auto-reproductrices [Tipler80] basées sur les [nanotechnologies [Drexler 92b] [dotées d'intelligence (artificielle ou téléchargée)](http://hanson.gmu.edu/uploads.html) [Hanson 94]) semblent possibles d'ici quelques siècles.
 
 Il n'y a pas de limite évidente à la vitesse d'un vaisseau spatial (autre que celle de la lumière) si l'on dispose des ressources suffisantes. Et avec un contrôle total  (nanotechnologique) de la structure atomique de la matière [Drexler 92a], les colons seront principalement intéressés par les atomes et la néguentropie qu'ils pourront extraire d'un site de colonisation [Dyson 66,79], ainsi que par la commodité de son emplacement.
 
@@ -98,7 +98,7 @@ Le fait que notre univers semble fondamentalement mort suggère qu'il est très
 
 ### Une histoire est fausse.
 
-Les biologistes d'autres scientifiques ont travaillé dur pendant longtemps pour fournir des explications plausibles à chacune des étapes de l'évolution énumérés ci-dessus, explications qui ne rendent aucune étape particulièrement improbable. Des modèles plausibles ont été proposés sur la façon dont l'ARN a évolué pour se reproduire, comment de simples cellules (procaryote) se sont développées autour de lui, [comment les cellules sont devenues plus complexes](http://sssf.byethost31.com/dna/symb.htm) (eucaryotes), comment les cellules se sont réunies en organismes, comment le cerveau et les mains évolué à partir de simples mécanismes de contrôle, et comment notre cerveau et nos mains ont conduit à l'utilisation des outils et à la génération de scénarios qui nous ont menés là où nous en sommes aujourd'hui.
+Les biologistes d'autres scientifiques ont travaillé dur pendant longtemps pour fournir des explications plausibles à chacune des étapes de l'évolution énumérés ci-dessus, explications qui ne rendent aucune étape particulièrement improbable. Des modèles plausibles ont été proposés sur la façon dont l'ARN a évolué pour se reproduire, comment de simples cellules (procaryote) se sont développées autour de lui, [comment les cellules sont devenues plus complexes](https://web.archive.org/web/20140522132528/http://sssf.byethost31.com/dna/symb.htm) (eucaryotes), comment les cellules se sont réunies en organismes, comment le cerveau et les mains évolué à partir de simples mécanismes de contrôle, et comment notre cerveau et nos mains ont conduit à l'utilisation des outils et à la génération de scénarios qui nous ont menés là où nous en sommes aujourd'hui.
 
 Ensemble, ces explications plausibles ont convaincu d'innombrables équipes de construire des estimations relativement élevés de la probabilité qu'une quelconque planète finisse par produire une vie intelligente comme la nôtre par des estimations relativement faibles de chaque facteur de filtre dans la célèbre "[équation de Drake](w:)".
 
@@ -190,7 +190,7 @@ Il y a aussi trois alternatives astrophysiques "sauvant les apparences stellaire
 
 Tout d'abord, l'ingénierie d'envergure comme les capteurs solaires en orbite faits à partir d'astéroïdes, les sphères de Dyson, et le démontage stellaire pourraient être impossibles en pratique, ce qui expliquerait pourquoi les étoiles proches ont l'air si naturelles. Deuxièmement, les structures qui utilisent le mieux ces ressources pourraient parvenir presque toujours à préserver les spectres naturels et d'autres apparences. Troisièmement, notre compréhension de l'astrophysique pourrait juste être fausse, de façon que les étoiles et les galaxies apparemment mortes qui nous entourent sont en réalité bien vivantes.
 
-Encore une autre possibilité est que la vie avancée colonise principalement la "[matière noire](http://www.eclipse.net/~cmmiller/DM/)", laissant en friche les étoiles et la matière ordinaire que nous voyons. Ce scénario exigerait une version plus étendue de l'hypothèse du "zoo social" que j'appelle "zoo commun", discutée ci-dessous.
+Encore une autre possibilité est que la vie avancée colonise principalement la "[matière noire](https://web.archive.org/web/20121230093432/http://www.eclipse.net/~cmmiller/DM/)", laissant en friche les étoiles et la matière ordinaire que nous voyons. Ce scénario exigerait une version plus étendue de l'hypothèse du "zoo social" que j'appelle "zoo commun", discutée ci-dessous.
 
 Notre compréhension de la matière noire en tant que simple matière inerte progresse rapidement, et pourrait aider à confirmer ou infirmer cette possibilité. De récentes observations de [lentilles gravitationnelles](w:lentille_gravitationnelle) [Bennett, et al. al. 96] indiquent que près de la moitié (et peut-être la totalité) de la matière noire dans notre halo galactique est constituée d'objets entre une masse solaire et un dixième de masse solaire, et relativement peu de dans la gamme en dessous jusqu'à la taille de la Terre.  Le plus petit objet indépendant déjà découvert , dans cette gamme est une [naine brune ](https://web.archive.org/web/20120927174802/http://hubblesite.org/newscenter/archive/releases/1995/48)de la masse de 20 à 50 masses de Jupiter qui a un spectre similaire à celui de Jupiter [Savage, Sahli, & Villard 95], ce qui est compréhensible.
 
@@ -279,7 +279,7 @@ Maintenant, considérons N étapes difficiles de type "essais et erreurs" qui do
 - Michael Balter (1996) "Looking for Clues to the Mystery of Life on Earth", _Science_, 273:870-872. {{< altmetric doi="10.1126/science.273.5277.870" >}}
 - {{< openbook booknumber="ISBN:9780192821478" templatenumber="5" >}}
 - Gregory Benford (1981) "Extraterrestrial Intelligence?", R. astr. Soc., 22:217.
-- David Bennett, Kim Driest, Christopher Stubbs, Alex Rodgers, Kem Cook, Will Sutherland (1996) ["Researchers Determine Machos May Comprise Fifty Percent of Galactic Dark Matter"](http://wwwmacho.mcmaster.ca/Pubs/PressRelease/AAS96.html), Press Release, AAS Meeting, San Antonio, Texas, January 16.
+- David Bennett, Kim Driest, Christopher Stubbs, Alex Rodgers, Kem Cook, Will Sutherland (1996) ["Researchers Determine Machos May Comprise Fifty Percent of Galactic Dark Matter"](https://web.archive.org/web/20120728105110/http://wwwmacho.mcmaster.ca/Pubs/PressRelease/AAS96.html), Press Release, AAS Meeting, San Antonio, Texas, January 16.
 - Glen David Brin (1983) "The 'Great Silence': The Controversy Concerning Extraterrestrial Intelligent Life", R. astr. Soc., 24:283-309.
 - Brandon Carter (1983) "The Anthropic principle and its implications for biological evolution", _Phil. Trans. R. Soc. Lond._ A 310:347-363. {{< altmetric doi="10.1098/rsta.1983.0096" >}}
 - Brandon Carter (1993) "The Anthropic Selection Principle and the Ultra-Darwinian Synthesis", in _The Anthropic Principle_, ed. F. Bertola, U. Curi, Cambridge Univ. Press, 33-63.
@@ -290,19 +290,19 @@ Maintenant, considérons N étapes difficiles de type "essais et erreurs" qui do
 - {{< openbook booknumber="ISBN:9780471575122" templatenumber="5" >}}
 - K. Eric Drexler (1992b) "Molecular Manufacturing for Space Systems: An Overview", _Journal of The British Interplanetary Society_, Vol. 45:401-405.
 - Freeman Dyson (1966) "The Search for Extraterrestrial Technology", in _Perspectives in Modern Physics_, ed. R.E. Marshak, Wiley, NY, 641-655.
-- Freeman Dyson (1979) ["Time without end: physics and biology in an open universe"](http://www.hia.com/pcr/dyson.html), _Reviews of Modern Physics_, 51(3):447-460. {{< altmetric doi="10.1103/RevModPhys.51.447" >}}
+- Freeman Dyson (1979) ["Time without end: physics and biology in an open universe"](https://web.archive.org/web/20130530072718/http://www.hia.com/pcr/dyson.html), _Reviews of Modern Physics_, 51(3):447-460. {{< altmetric doi="10.1103/RevModPhys.51.447" >}}
 - Martyn J. Fogg (1987) "Temporal Aspects of the Interaction among the First Galactic Civilizations: The 'Interdict Hypothesis'", _Icarus_, 69:370-384. {{< altmetric doi="10.1016/0019-1035(87)90112-6" >}}
 - Robert Forward (1985) "Starwisp: An Ultralight Interstellar Probe", _AIAA Journal of Spacecraft and Rockets_, 22:345-350. {{< altmetric doi="10.2514/3.25754" >}}
 - Robert Forward (1986) "Feasibility of Interstellar Travel: A Review", _Journal of the British Interplanetary Society_, 39:379-394.
 - {{< openbook booknumber="ISBN:9780520058989" templatenumber="5" >}}
 - Ben R. Finney, Eric M. Jones (1985) "Fermi's Question", in _Interstellar Migration and the Human Experience_, ed. Finney & Jones, 298-300.
 - Walter M. Fitch, Francisco J. Ayala (1995) _Tempo and Mode in Evolution, Genetics and Paleontology 50 Years After Simpson_, National Academy Press, Washington D.C. ISBN:9780309051972
-- F. E. Freiheit (1993) "The Possibilities of FTL: Or Fermi's Paradox Reconsidered", [http://www-personal.engin.umich.edu/~fritx/Ftlessay/essay.html](http://www-personal.engin.umich.edu/~fritx/Ftlessay/essay.html)
+- F. E. Freiheit (1993) "The Possibilities of FTL: Or Fermi's Paradox Reconsidered", [http://www-personal.engin.umich.edu/~fritx/Ftlessay/essay.html](https://web.archive.org/web/20130402213340/http://www-personal.engin.umich.edu/~fritx/Ftlessay/essay.html)
 - {{< openbook booknumber="ISBN:9780935702026" templatenumber="5" >}}
 - J. Richard Gott (1982) "Cosmology and Life in the Universe", in _Extraterrestrials, Where Are They?_, ed. M. Hart & B. Zuckerman, 122-134.
-- J. Richard Gott (1993) ["Implications of the Copernican principle for our future prospects"](http://www.mit.edu/~belg4mit/services/grim.html), _Nature_, May 27, 363:315-319. {{< altmetric doi="10.1038/363315a0" >}}
-- Robin D. Hanson (1994) [If Uploads Come First: The Crack of a Future Dawn](http://hanson.gmu.edu/uploads.html), [_Extropy_](http://www.primenet.com/~maxmore/extropy.htm), 6(2):10-15.
-- Robin D. Hanson (1996) ["Given Early Success, Hard Tasks Look Easy"](http://hanson.gmu.edu/hardsteps.ps), Working Paper, September.
+- J. Richard Gott (1993) ["Implications of the Copernican principle for our future prospects"](https://web.archive.org/web/20120923043049/http://www.mit.edu/~belg4mit/services/grim.html), _Nature_, May 27, 363:315-319. {{< altmetric doi="10.1038/363315a0" >}}
+- Robin D. Hanson (1994) [If Uploads Come First: The Crack of a Future Dawn](http://hanson.gmu.edu/uploads.html), [_Extropy_](https://web.archive.org/web/20121003061014/http://www.primenet.com/~maxmore/extropy.htm), 6(2):10-15.
+- Robin D. Hanson (1996) ["Given Early Success, Hard Tasks Look Easy"](https://web.archive.org/web/20120510003756/http://hanson.gmu.edu/hardsteps.ps), Working Paper, September.
 - Ingemar Hansson, Charles Stuart (1990) "Malthusian Selection of Preferences", _American Economic Review_, June, 80(3):529-544.
 - Michael H. Hart (1975) "An Explanation for the Absence of Extraterrestrials on Earth", [_Q. Jl. R. astr. Soc._](http://www.blacksci.co.uk/products/journals/qjras.htm), 16:128.
 - {{< openbook booknumber="ISBN:9780080263403" templatenumber="5" >}}
@@ -312,7 +312,7 @@ Maintenant, considérons N étapes difficiles de type "essais et erreurs" qui do
 - {{< openbook booknumber="ISBN:9780917853388" templatenumber="5" >}}
 - {{< openbook booknumber="ISBN:9780415140430" templatenumber="5" >}}
 - Ernst Mayr (1985) "The probability of extraterrestrial intelligent life", in _Extraterrestrials, Science and alien intelligence_, ed. Regis, 23-30.
-- Ernst Mayr (1995) ["Can SETI Succeed? Not Likely"](http://www.transatlantech.com/TPS/hot-top-d-mayr.html), _Bioastronomy News_, 7:3.
+- Ernst Mayr (1995) ["Can SETI Succeed? Not Likely"](https://web.archive.org/web/20130630014742/http://www.transatlantech.com/TPS/hot-top-d-mayr.html), _Bioastronomy News_, 7:3.
 - David S. McKay, Everett K Gibson Jr., Kathie L. Thomas-Keprta, Hojatollah Vali, Christopher S. Romanek, Simon J. Clemett, Xavier D.F. Chillier, Claude R. Maechling, Richard N. Zare (1996) "Search for Past Life on Mars: Possible Relic Biogenic Activity in Martian Meteorite ALH84001", _Science_, August 16, 273:924-930. {{< altmetric doi="10.1126/science.273.5277.924" >}}
 - Christopher Miller (1995) "Cosmic Hide and Seek: the Search for the Missing Mass"
 - John Ostrom (1992) "A History of Vertebrate Successes", in _Major Events in the History of Life_, ed. J.W. Schopf, 119-139.

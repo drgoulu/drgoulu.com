@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 1416 ont eu au moins une éruption depuis 10'000 ans
 
-[https://volcano.si.edu/list_volc...](https://volcano.si.edu/list_volcano_holocene.cfm)
+[https://volcano.si.edu/list_volc...](https://web.archive.org/web/20210318001239/https://volcano.si.edu/list_volcano_holocene.cfm)

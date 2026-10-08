@@ -12,7 +12,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-alors-m%C3%AAme-que-nous-avons-acc%C3%A8s-par-des-techniques-de-en-%C3%A9volu%C3%A9es-d%C3%A9montrant-les-th%C3%A9ories-scientifiques-voit-on-une-m%C3%A9fiance-croissante-%C3%A0-l-%C3%A9gard-de-la-science-rationnelle/answer/Dr-Goulu)*
 
-> La science est exactement comme les bavards qui vous gâchent un film en vous racontant la fin. **Moi je dis qu’il y a des choses qu’on a pas envie de savoir, des choses importantes !**( [Ned Flanders](w:), Les Simpson S09E08 – [Les ailes du délire](http://www.simpsonspark.com/scripts/s9/5f05.php) )
+> La science est exactement comme les bavards qui vous gâchent un film en vous racontant la fin. **Moi je dis qu’il y a des choses qu’on a pas envie de savoir, des choses importantes !**( [Ned Flanders](w:), Les Simpson S09E08 – [Les ailes du délire](https://web.archive.org/web/20240411133816/http://www.simpsonspark.com/scripts/s9/5f05.php) )
 
 Beaucoup de gens sont comme Ned : ils n'ont juste pas envie de savoir.
 

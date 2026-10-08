@@ -15,4 +15,4 @@ D'après le [Théorème des nombres premiers](w:), il existe environ x/ln(x) nom
 
 Selon
 
-[Solve x/ln(x)-(x-100)/ln(x-100)=5 - Wolfram|Alpha](https://www.wolframalpha.com/input?i=Solve+x/ln(x)-(x-100)/ln(x-100)=5) ça se produit vers x=168808000, mais je n'ai pas de Python sous la main pour trouver la valeur exacte.
+[Solve x/ln(x)-(x-100)/ln(x-100)=5 - Wolfram|Alpha](https://web.archive.org/web/20250810/https://www.wolframalpha.com/input?i=Solve+x/ln(x)-(x-100)/ln(x-100)=5) ça se produit vers x=168808000, mais je n'ai pas de Python sous la main pour trouver la valeur exacte.

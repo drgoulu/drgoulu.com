@@ -33,5 +33,5 @@ Avec cette solution, l'automobile "du futur" ne crachera effectivement que de l'
 
 ### Références:
 
-- [http://www.econologie.com/production-d-hydrogene-articles-2309.html](http://www.econologie.com/production-d-hydrogene-articles-2309.html)
-- [http://www.educnet.education.fr/orbito/pedago/pileh2/pile31.htm](http://www.educnet.education.fr/orbito/pedago/pileh2/pile31.htm)
+- [http://www.econologie.com/production-d-hydrogene-articles-2309.html](https://web.archive.org/web/20070822045628/http://www.econologie.com/production-d-hydrogene-articles-2309.html)
+- [http://www.educnet.education.fr/orbito/pedago/pileh2/pile31.htm](https://web.archive.org/web/20071027085145/http://www.educnet.education.fr/orbito/pedago/pileh2/pile31.htm)

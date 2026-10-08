@@ -22,7 +22,7 @@ J'en pense (depuis la Suisse) qu'il faut vérifier et savoir de quoi on parle, a
 >
 >
 >
-> Emmanuel Macron a réagi en estimant que nous étions dans un*"Etat de droit". "Chacun doit avoir la sécurité et c'est le devoir de la puissance publique de l'assurer*, a-t-il déclaré au micro d'[Europe 1](https://www.europe1.fr/politique/je-suis-oppose-a-la-legitime-defense-la-reaction-de-macron-au-meurtre-dun-cambrioleur-4103037). *Mais je suis opposé à la légitime défense. Donc ça, c'est très clair et c'est intraitable parce que sinon, ça devient le Far West. Et je ne veux pas d'un pays où prolifèrent les armes et où l'on considère que c'est aux citoyens de se défendre"*.
+> Emmanuel Macron a réagi en estimant que nous étions dans un*"Etat de droit". "Chacun doit avoir la sécurité et c'est le devoir de la puissance publique de l'assurer*, a-t-il déclaré au micro d'[Europe 1](https://web.archive.org/web/20220401234144/https://www.europe1.fr/politique/je-suis-oppose-a-la-legitime-defense-la-reaction-de-macron-au-meurtre-dun-cambrioleur-4103037). *Mais je suis opposé à la légitime défense. Donc ça, c'est très clair et c'est intraitable parce que sinon, ça devient le Far West. Et je ne veux pas d'un pays où prolifèrent les armes et où l'on considère que c'est aux citoyens de se défendre"*.
 
 Donc je pense que c'est un lapsus commis à chaud. La [Légitime défense](w:) existe [en droit français](w:Légitime_défense_en_droit_français) comme dans de nombreux pays, je doute que votre président le remette ouvertement en question.
 

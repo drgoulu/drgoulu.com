@@ -15,4 +15,4 @@ Il existe une infinité de [critères de divisibilité](w:Liste_de_critères_de_
 
 Chika Ofili en a trouvé un en 2019, c'est vraiment très bien pour un jeune de 12 ans.
 
-[LA DISCRIMINATION ... ET LES MATHS !!](https://be.toluna.com/opinions/4925323/LA-DISCRIMINATION-...-ET-LES-MATHS)
+[LA DISCRIMINATION ... ET LES MATHS !!](https://web.archive.org/web/20201217/https://be.toluna.com/opinions/4925323/LA-DISCRIMINATION-...-ET-LES-MATHS)

@@ -15,4 +15,4 @@ coverImage: ./images/qimg-ed645dc84c61db3709772bc917d3b1d9.jpg
 
 un hameau de la commune de [Vionnaz](w:). 15 habitants dont j'ignore le gentilé …
 
-[https://www.rhonefm.ch/actualite...](https://www.rhonefm.ch/actualites/en-valais-cest-unique-au-monde-bienvenue-bonne-annee)
+[https://www.rhonefm.ch/actualite...](https://web.archive.org/web/20230313/https://www.rhonefm.ch/actualites/en-valais-cest-unique-au-monde-bienvenue-bonne-annee)

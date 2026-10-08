@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Pourquoi-les-am%C3%A9ricains-veulent-ils-recommencer-une-mission-pour-aller-sur-la-Lune-Quel-est-l-int%C3%A9r%C3%AAt/answer/Dr-Goulu)*
 
-En 2006 la NASA avait pondu une liste[[1]](#WYJbv) de 181 raisons de retourner sur la Lune, réparties en [6 thèmes](http://www.nasa.gov/exploration/home/why_moon.html) :
+En 2006 la NASA avait pondu une liste[[1]](#WYJbv) de 181 raisons de retourner sur la Lune, réparties en [6 thèmes](https://web.archive.org/web/20190320052947/http://www.nasa.gov/exploration/home/why_moon.html) :
 
 1. connaissances scientifiques : installation d’instruments de mesure, de télescopes et d’expériences de physique
 2. expansion économique : systèmes d’observation et de mesure de la Terre fournissant des données commercialisables, pour beaucoup en relation avec le climat
@@ -41,6 +41,6 @@ Bref, s’ils y vont ce sera comme pour la première fois : pour planter un drap
 
 Notes de bas de page
 
-[[1]](#cite-WYJbv)[https://www.nasa.gov/pdf/163560m...](https://www.nasa.gov/pdf/163560main_LunarExplorationObjectives.pdf)
+[[1]](#cite-WYJbv)[https://www.nasa.gov/pdf/163560m...](https://web.archive.org/web/20190605145340/https://www.nasa.gov/pdf/163560main_LunarExplorationObjectives.pdf)
 
 [[2]](#cite-qjAmQ)[Pour quoi retourner sur la Lune? - Pourquoi Comment Combien](/2009/07/18/pour-quoi-retourner-sur-la-lune/#.XKUKbJiiGCo)

@@ -25,7 +25,7 @@ Outre le fait que personne n'a jamais pu dire ce que devenait cette énergie, pl
 
 L article
 
-[https://academic.oup.com/mnras/a...](https://academic.oup.com/mnras/article/524/3/3385/7221343)
+[https://academic.oup.com/mnras/a...](https://web.archive.org/web/20230804023252/https://academic.oup.com/mnras/article/524/3/3385/7221343)
 
 propose de ressusciter la lumière fatiguée en la combinant quand même avec une expansion de l'univers désormais évidente, et d'invoquer une variation des "constantes de couplage" (les constantes universelles intervenant dans les interactions fondamentales) pour compenser la déformation du spectre du corps noir, si j'ai bien compris…
 

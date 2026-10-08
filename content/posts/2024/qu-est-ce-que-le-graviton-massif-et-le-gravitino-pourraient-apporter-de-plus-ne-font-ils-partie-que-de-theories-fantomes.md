@@ -37,4 +37,4 @@ Un peu de lecture :
 
 Notes de bas de page
 
-[[1]](#cite-ZWFRo)[https://shs.cairn.info/magazine-...](https://shs.cairn.info/magazine-pour-la-science-2019-12-page-13a)
+[[1]](#cite-ZWFRo)[https://shs.cairn.info/magazine-...](https://web.archive.org/web/20240903090212/https://shs.cairn.info/magazine-pour-la-science-2019-12-page-13a)

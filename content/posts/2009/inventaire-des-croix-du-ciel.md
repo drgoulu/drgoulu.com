@@ -20,7 +20,7 @@ Cet article multipack regroupe deux sujets intéressants, et un qui sert juste �
 Deux constellations ont "une forme de croix" :
 
 - ![](./images/SouthernCross.jpg)la [Croix du Sud](w:) permet de repérer le Sud approximatif si vous êtes perdus la nuit dans le désert australien, ou sur un voilier retourné au Cap Horn.
-- Dans l'hémisphère Nord, on appelle parfois "Croix du Nord" la constellation du [Cygne](w:Cygne_(constellation)), une belle croix bien visible dans le ciel d'été hébergeant plusieurs nébuleuses intéressantes et faciles à observer, comme la [magnifique Voile](http://www.skyfactory.org/vela/vela.htm) dont j'ai déjà causé [ici.](/2007/12/13/meilleures-photos-astronomiques-2007/)
+- Dans l'hémisphère Nord, on appelle parfois "Croix du Nord" la constellation du [Cygne](w:Cygne_(constellation)), une belle croix bien visible dans le ciel d'été hébergeant plusieurs nébuleuses intéressantes et faciles à observer, comme la [magnifique Voile](https://web.archive.org/web/20090123215932/http://www.skyfactory.org/vela/vela.htm) dont j'ai déjà causé [ici.](/2007/12/13/meilleures-photos-astronomiques-2007/)
 
 mais ce dont je voulais principalement parler c'est...
 
@@ -32,7 +32,7 @@ Les étoiles sont tellement éloignées qu'à part le Soleil, elles nous apparai
 
 C'est la faute de la [diffraction](w:), ou plutôt des inévitables imperfections optiques des instruments d'observation qui causent ce [phénomène optique compexe](w:Théorie_de_la_diffraction).
 
-Sur un télescope, c'est principalement "l'araignée" composée des tiges fixant le miroir secondaire qui causent les "aigrettes", ces lignes formant une croix parfaite. Cet effet peut être parfois utile, par exemple pour détecter des étoiles doubles, mais il est souvent néfaste, en particulier lorsque les [aigrettes trop nombreuses](http://hubblesite.org/newscenter/archive/releases/2006/37/image/a/) pourraient masquer des objets moins lumineux.
+Sur un télescope, c'est principalement "l'araignée" composée des tiges fixant le miroir secondaire qui causent les "aigrettes", ces lignes formant une croix parfaite. Cet effet peut être parfois utile, par exemple pour détecter des étoiles doubles, mais il est souvent néfaste, en particulier lorsque les [aigrettes trop nombreuses](https://web.archive.org/web/20080930082952/http://hubblesite.org/newscenter/archive/releases/2006/37/image/a/) pourraient masquer des objets moins lumineux.
 
 En observant les étoiles avec une lunette astronomique, composée de lentilles et non de miroirs, les étoiles n'ont en principe pas d'aigrettes. Certains amateurs trouvent ça dommage et ajoutent des fils de pêche croisés devant leur instrument pour [créer des aigrettes artificielles sur leurs belles photos](http://www.planete-powershot.net/photos/21747-nebuleuses.html).
 
@@ -66,8 +66,8 @@ Le résultat c'est qu'ils ont réussi à prouver que le quasar fait moins de que
 
 ### Sources:
 
-1. Philippe Boeuf  "[Pourquoi est-ce que sur les photos, les étoiles ont des branches?](http://philippe.boeuf.pagesperso-orange.fr/robert/physique/diffraction-lux.htm)"
-2. Dante Bissiri "[Notice sur l'image de diffraction](http://www.geocities.ws/dantebissiri/FRANCAIS/Diffraction-FRA.html)"
+1. Philippe Boeuf  "[Pourquoi est-ce que sur les photos, les étoiles ont des branches?](https://web.archive.org/web/20111128033735/http://philippe.boeuf.pagesperso-orange.fr/robert/physique/diffraction-lux.htm)"
+2. Dante Bissiri "[Notice sur l'image de diffraction](https://web.archive.org/web/20090117/http://www.geocities.ws/dantebissiri/FRANCAIS/Diffraction-FRA.html)"
 3. "[Des astronomes analysent un trou noir supermassif avec une "loupe" naturelle](http://actualites.epfl.ch/presseinfo-com?id=671)", news EPFL, 15 décembre 2008
 4. "[Une loupe naturelle pour analyser un trou noir supermassif](http://www.techno-science.net/?onglet=news&news=6139)" sur Techno Science, 29 décembre 2008
 

@@ -16,7 +16,7 @@ coverImage: ./images/qimg-835ce5739050ac5aae8d180ec8714df4.jpg
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quel-est-le-d%C3%A9bit-de-dose-au-contact-d-un-colis-de-d%C3%A9chets-radioactifs-de-haute-activit%C3%A9-au-bout-d-une-centaine-d-ann%C3%A9es/answer/Dr-Goulu)*
 
-D'après la figure ci-dessous tirée de [http://iktp.tu-dresden.de/IKTP/S...](http://iktp.tu-dresden.de/IKTP/Seminare/IS2009/Kolloq-TUD-Arnd_Junghans.pdf)
+D'après la figure ci-dessous tirée de [http://iktp.tu-dresden.de/IKTP/S...](https://web.archive.org/web/20210508161825/http://iktp.tu-dresden.de/IKTP/Seminare/IS2009/Kolloq-TUD-Arnd_Junghans.pdf)
 
 ![](./images/qimg-835ce5739050ac5aae8d180ec8714df4.jpg)
 

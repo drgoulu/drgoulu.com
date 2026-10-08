@@ -29,7 +29,7 @@ Vingt-et-un vaccins sont approuvés par au moins une autorité nationale pour ad
 
 En faisant une petite recherche je suis tombé sur cet article récent en accès libre qui compare les 5 distribués en Hongrie, histoire d'avoir un son de cloche un peu "indépendant"
 
-[https://www.clinicalmicrobiology...](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(21)00639-X/fulltext)
+[https://www.clinicalmicrobiology...](https://web.archive.org/web/20211126035739/https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(21)00639-X/fulltext)
 
 Voici leur conclusion (traduite par mes soins) sur l'analyse basée sur 3'740'066 personnes vaccinées sur une population totale de 9'750'000 environ :
 

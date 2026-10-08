@@ -15,4 +15,4 @@ Il y a toujours des pays moins développés mais en 50 ans la situation à énor
 
 Regardez les conférences de Hans Rosling, à commencer par celle-ci :
 
-[https://www.ted.com/talks/hans_r...](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=fr)
+[https://www.ted.com/talks/hans_r...](https://web.archive.org/web/20210404175239/https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=fr)

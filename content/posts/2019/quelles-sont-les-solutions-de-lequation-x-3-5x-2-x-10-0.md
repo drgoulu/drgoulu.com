@@ -11,6 +11,6 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quelles-sont-les-solutions-de-l-%C3%A9quation-x-3-5x-2x-100/answer/Dr-Goulu)*
 
-[x^3-5x^2+x-10=0 - Wolfram|Alpha](https://www.wolframalpha.com/input/?i=x^3-5x^2+x-10=0)
+[x^3-5x^2+x-10=0 - Wolfram|Alpha](https://web.archive.org/web/20191019/https://www.wolframalpha.com/input/?i=x^3-5x^2+x-10=0)
 
 Une seule solution réelle, deux complexes.

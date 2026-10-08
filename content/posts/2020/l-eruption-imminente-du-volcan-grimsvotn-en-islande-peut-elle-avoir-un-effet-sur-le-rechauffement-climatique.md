@@ -17,4 +17,4 @@ D'ailleurs les mesures de températures montrent des baisses nettes lors des ér
 
 ![](./images/qimg-7ec2d78ccabfc179847ef7b22db4cd46.jpg)
 
-[19th Century Volcanic Eruptions](http://clivebest.com/blog/?p=8487)
+[19th Century Volcanic Eruptions](https://web.archive.org/web/20201124225552/http://clivebest.com/blog/?p=8487)

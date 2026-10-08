@@ -13,7 +13,7 @@ slug: liars-and-outliers
 coverImage: ./images/7089199-L.jpg
 ---
 
-{{< figure alt="Liars and Outliers" link="http://openlibrary.org/books/OL25254783M/Liars_and_Outliers" src="./images/7089199-L.jpg" width="320" >}}
+{{< figure alt="Liars and Outliers" link="https://web.archive.org/web/20230331062921/http://openlibrary.org/books/OL25254783M/Liars_and_Outliers" src="./images/7089199-L.jpg" width="320" >}}
 
 [Bruce Schneier](w:) est un expert réputé en [cryptologie](w:) et en sécurité informatique, mais il s'intéresse aussi à la sécurité dans un sens beaucoup plus large. Dans son dernier livre [1], il se demande dès le sous-titre comment "favoriser la confiance dont la société a besoin pour prospérer".
 
@@ -35,4 +35,4 @@ Enfin, Schneier traite de la confiance et de la sécurité dans un monde évolua
 
 Ce livre n'est hélas pas (encore) traduit en français, mais ses 248 pages se lisent facilement, "comme un roman". Il y a aussi 100 pages de Notes avec de nombreuses références, citations et anecdotes qui satisferont le chercheur et montrent le sérieux avec lequel Schneier s'est documenté sur ce vaste et passionnant sujet.
 
-Référence : {{< openbook booknumber="ISBN:111814330" templatenumber="5" >}} ([page du livre sur le site de Schenier](http://www.schneier.com/book-lo.html))
+Référence : {{< openbook booknumber="ISBN:111814330" templatenumber="5" >}} ([page du livre sur le site de Schenier](https://web.archive.org/web/20130823215409/http://www.schneier.com/book-lo.html))

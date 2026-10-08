@@ -18,4 +18,4 @@ Rien ne sert de râler, il fallait réagir à temps.
 
 (il y a eu un super reportage là dessus à la TV Suisse , bizarrement pas encore repris par les chaînes françaises…)
 
-[https://www.rts.ch/play/tv/temps...](https://www.rts.ch/play/tv/temps-present/video/qatar-2022-comment-le-foot-a-sombre-dans-la-honte?urn=urn:rts:video:13463690)
+[https://www.rts.ch/play/tv/temps...](https://web.archive.org/web/20221116195645/https://www.rts.ch/play/tv/temps-present/video/qatar-2022-comment-le-foot-a-sombre-dans-la-honte?urn=urn:rts:video:13463690)

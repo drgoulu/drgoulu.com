@@ -6,7 +6,7 @@ tags:
   - "societe"
 ---
 
-En réponse à "[Passage (de vie à trépas) pour piétons](http://olivierbaud.blog.tdg.ch/societe/passage-de-vie-a-trepas-pour-pietons.html)" d'Olivier Baud qui commente un malheureux fait divers, j'ai pondu la petite réflexion moralisatrice (Schtroumpf à Lunettes...) suivante:
+En réponse à "[Passage (de vie à trépas) pour piétons](https://web.archive.org/web/20070503/http://olivierbaud.blog.tdg.ch/societe/passage-de-vie-a-trepas-pour-pietons.html)" d'Olivier Baud qui commente un malheureux fait divers, j'ai pondu la petite réflexion moralisatrice (Schtroumpf à Lunettes...) suivante:
 
 Un accident mortel de la circulation est toujours un drame humain terrible. Mais lorsqu'il s'agit du tribunal, il convient de prendre une certaine distance et d'éviter de qualifier d' "indécent et scandaleux" le comportement d'un avocat de la défense qui ne fait que son boulot.
 

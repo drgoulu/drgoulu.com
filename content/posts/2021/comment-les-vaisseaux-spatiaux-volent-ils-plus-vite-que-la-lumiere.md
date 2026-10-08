@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-les-vaisseaux-spatiaux-volent-ils-plus-vite-que-la-lumi%C3%A8re/answer/Dr-Goulu)*
 
-Juste pour fixer les idées, le "vaisseau spatial" que nous avons envoyé le plus loin est [Voyager 1, qui se trouve en ce moment à 21h34'56''](https://voyager.jpl.nasa.gov/mission/status/) (joli…) lumière de la Terre.
+Juste pour fixer les idées, le "vaisseau spatial" que nous avons envoyé le plus loin est [Voyager 1, qui se trouve en ce moment à 21h34'56''](https://web.archive.org/web/20211215180559/https://voyager.jpl.nasa.gov/mission/status/) (joli…) lumière de la Terre.
 
 Même pas un jour lumière.
 

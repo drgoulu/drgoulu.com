@@ -24,7 +24,7 @@ Par exemple dans le [spectrogramme](w:) ci-dessous un œil entraîné ou un logi
 3. Une série d'explosions à 15h14m35s, azimut 239°, 15h16m28s, azimut 264°, et d'autres explosions à 15h12m10s,15h14m12s, 15h15m09s.
 4. Une avalanche tout de même à 15h16m36s, durant environ 1min46s.
 
-{{< figure src="./images/histogramme.jpg" alt="source : Arfang (1)" caption="source : Arfang (1)" link="http://www.arfang.com/index.php?nav=home&lang=fr" align="aligncenter" width="762" >}}
+{{< figure src="./images/histogramme.jpg" alt="source : Arfang (1)" caption="source : Arfang (1)" link="https://web.archive.org/web/20240812192648/http://www.arfang.com/index.php?nav=home&lang=fr" align="aligncenter" width="762" >}}
 
 Les azimuts ne sont pas très précis car le vent dévie les sons, mais on peut partiellement en tenir compte avec des données météo.
 
@@ -38,7 +38,7 @@ Souvent une même découverte débouche à la fois  sur des applications civ
 
 ### Références:
 
-1. <span id="ref-1"></span>[Arfang Infrasonic Avalanche Monitoring](http://www.arfang.com/index.php?nav=home&lang=fr) , site web de la solution commerciale
-2. <span id="ref-2"></span>Chritin, V., & Rossi, M. (1995). "[Détection acoustique des avalanches Site La Sionne-Anzère Valais](http://www.iav.ch/ref/detection-acoustique-avalanches-IGS95.pdf)". Symposium International Sciences et Montagne, Les Apports Scientifiques à La Sécurité Neige, Glace et Avalanches.  http://infoscience.epfl.ch/record/96418
+1. <span id="ref-1"></span>[Arfang Infrasonic Avalanche Monitoring](https://web.archive.org/web/20240812192648/http://www.arfang.com/index.php?nav=home&lang=fr) , site web de la solution commerciale
+2. <span id="ref-2"></span>Chritin, V., & Rossi, M. (1995). "[Détection acoustique des avalanches Site La Sionne-Anzère Valais](https://web.archive.org/web/20161126060328/http://www.iav.ch/ref/detection-acoustique-avalanches-IGS95.pdf)". Symposium International Sciences et Montagne, Les Apports Scientifiques à La Sécurité Neige, Glace et Avalanches.  http://infoscience.epfl.ch/record/96418
 3. <span id="ref-3"></span>Olivier Le Calvé "[Le son dans la mer](http://lecalve.univ-tln.fr/oceano/fiches/fiche3F.htm)"
 4. <span id="ref-4"></span>Chritin, V., Van Lancker, E., Wellig, P., & Ott, B. (2016). High infrasonic goniometry applied to the detection of a helicopter in a high activity environment. In SPIE International Society for Optics and Photonics SECURITY + DEFENCE Conference (Vol. 10, p. 999703). Edinburgh, United Kingdom: SPIE International Society for Optics and Photonics. {{< altmetric doi="10.1117/12.2241095" >}}

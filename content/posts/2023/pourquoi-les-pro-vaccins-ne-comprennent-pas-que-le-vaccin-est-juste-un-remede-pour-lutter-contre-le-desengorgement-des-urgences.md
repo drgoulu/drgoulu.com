@@ -22,7 +22,7 @@ Parce que ça a aussi désengorgé les morgues.
 
 L'article est là :
 
-[https://www.thelancet.com/journa...](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00320-6/fulltext)
+[https://www.thelancet.com/journa...](https://web.archive.org/web/20231008000756/https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00320-6/fulltext)
 
 Mais je reconnais que je suis biaisé : j'ai un ami médecin en Bolivie qui a du "désengorger" ses urgences ici :
 

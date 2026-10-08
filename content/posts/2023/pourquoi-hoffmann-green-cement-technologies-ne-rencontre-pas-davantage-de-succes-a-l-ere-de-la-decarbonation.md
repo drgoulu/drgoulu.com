@@ -30,4 +30,4 @@ Qui ne va pas se laisser faire : dès que le procédé Hoffmann sera plus rentab
 
 Notes de bas de page
 
-[[1]](#cite-hRIGK)[Hoffmann Green implantera son troisième site de production français de ciment décarboné à Dunkerque](https://www.usinenouvelle.com/article/hoffmann-green-implantera-son-troisieme-site-de-production-francais-de-ciment-decarbone-a-dunkerque.N2007587)
+[[1]](#cite-hRIGK)[Hoffmann Green implantera son troisième site de production français de ciment décarboné à Dunkerque](https://web.archive.org/web/20240106174241/https://www.usinenouvelle.com/article/hoffmann-green-implantera-son-troisieme-site-de-production-francais-de-ciment-decarbone-a-dunkerque.N2007587)

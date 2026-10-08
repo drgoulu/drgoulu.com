@@ -24,12 +24,12 @@ Ca pose en effet des problèmes éthiques, cette expérience étant interdite da
 
 Ce qui me frappe dans l'article source
 
-[Transient inhibition of mTOR in human pluripotent stem cells enables robust formation of mouse-human chimeric embryos](https://advances.sciencemag.org/content/6/20/eaaz0298.full)
+[Transient inhibition of mTOR in human pluripotent stem cells enables robust formation of mouse-human chimeric embryos](https://web.archive.org/web/20200519083402/https://advances.sciencemag.org/content/6/20/eaaz0298.full)
 
-c'est l'origi[ne](https://advances.sciencemag.org/content/6/20/eaaz0298.full) des auteurs de cette équipe américaine.
+c'est l'origi[ne](https://web.archive.org/web/20200519083402/https://advances.sciencemag.org/content/6/20/eaaz0298.full) des auteurs de cette équipe américaine.
 
 En l'occurrence je dirais "oui ils sont allés trop loin", mais si leur technique permet effectivement de sauver des gens plus tard, je changerai probablement d'avis.
 
 Notes de bas de page
 
-[[1]](#cite-ETxbN)[RS 810.31 Loi fédérale du 19 décembre 2003 relative à la recherche sur les cellules souches embryonnaires (Loi relative à la recherche sur les cellules souches, LRCS)](https://www.admin.ch/opc/fr/classified-compilation/20022165/index.html)
+[[1]](#cite-ETxbN)[RS 810.31 Loi fédérale du 19 décembre 2003 relative à la recherche sur les cellules souches embryonnaires (Loi relative à la recherche sur les cellules souches, LRCS)](https://web.archive.org/web/20200806111712/https://www.admin.ch/opc/fr/classified-compilation/20022165/index.html)

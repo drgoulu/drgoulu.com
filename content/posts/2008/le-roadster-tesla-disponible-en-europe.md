@@ -14,7 +14,7 @@ tags:
 coverImage: "./images/55c1b94ac77688257c532bc578a2b1d1.jpg"
 ---
 
-La voiture de sport électrique américaine "Tesla" dont j'ai déjà causé [ici](/2006/08/24/voitures-de-sport-electriques/) va prochainement être [disponible en Europe](http://www.teslamotors.com/eu/). Ce n'était apparemment pas prévu, mais Tesla Motors a soudain décidé de réserver 250 exemplaires à ce côté ci de l'Atlantique. Le prix de €99'000, à comparer aux $109'000 que coute la machine aux USA, explique peut-être le soudain intérêt de Tesla pour l'exportation...
+La voiture de sport électrique américaine "Tesla" dont j'ai déjà causé [ici](/2006/08/24/voitures-de-sport-electriques/) va prochainement être [disponible en Europe](https://web.archive.org/web/20080505042842/http://www.teslamotors.com/eu/). Ce n'était apparemment pas prévu, mais Tesla Motors a soudain décidé de réserver 250 exemplaires à ce côté ci de l'Atlantique. Le prix de €99'000, à comparer aux $109'000 que coute la machine aux USA, explique peut-être le soudain intérêt de Tesla pour l'exportation...
 
 {{< youtube id="MQg1KUHqyZE" >}}
 
@@ -28,6 +28,6 @@ L'idée de lancer des véhicules électriques dans le haut de gamme me parait ex
 
 ### sources:
 
-- les différents [blogs](http://www.teslamotors.com/blog) de l'entreprise.
+- les différents [blogs](https://web.archive.org/web/20070314001715/http://www.teslamotors.com/blog) de l'entreprise.
 - [Tesla Roadster sur Wikipedia](w:en:Tesla_Roadster)
-- [Riding the PCH and more in a Tesla Roadster!](http://green.autoblog.com/2007/11/17/video-riding-the-pch-and-more-in-a-tesla-roadster/) sur AutoblogGreen
+- [Riding the PCH and more in a Tesla Roadster!](https://web.archive.org/web/20100819052441/http://green.autoblog.com/2007/11/17/video-riding-the-pch-and-more-in-a-tesla-roadster/) sur AutoblogGreen

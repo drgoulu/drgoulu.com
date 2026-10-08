@@ -20,4 +20,4 @@ Si vous trouvez un moyen d'éliminer la paraffine des pipelines moins cher que l
 
 Accessoirement, la paraffine a une valeur commerciale et est extraite dans les raffineries, donc je ne vois pas trop l'intérêt de l'extraire au puits…
 
-( J'ai travaillé comme consultant pour [Reinart Hydrocleaning](https://rhc-sa.ch/rhc/) il y a 18 ans, et ils m'avaient dit "si une brosse se bloque ou se casse dans un pipeline, nous sommes éjectés du marché." Et ils sont toujours là…)
+( J'ai travaillé comme consultant pour [Reinart Hydrocleaning](https://web.archive.org/web/20251014012112/https://rhc-sa.ch/rhc/) il y a 18 ans, et ils m'avaient dit "si une brosse se bloque ou se casse dans un pipeline, nous sommes éjectés du marché." Et ils sont toujours là…)

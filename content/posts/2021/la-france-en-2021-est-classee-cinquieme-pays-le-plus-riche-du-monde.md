@@ -25,4 +25,4 @@ Notez que le PIB ne mesure pas vraiment la richesse d'un pays mais sa production
 
 Pour les no1, je vous laisse lire l'article ;-)
 
-[Les Suisses restent les plus riches au monde, les Français ne vont pas si mal](https://www.lesechos.fr/monde/enjeux-internationaux/les-suisses-restent-les-plus-riches-au-monde-les-francais-ne-vont-pas-si-mal-1141982)
+[Les Suisses restent les plus riches au monde, les Français ne vont pas si mal](https://web.archive.org/web/20210816221722/https://www.lesechos.fr/monde/enjeux-internationaux/les-suisses-restent-les-plus-riches-au-monde-les-francais-ne-vont-pas-si-mal-1141982)

@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 tous les jours sur Quora 😂
 
-Par exemple : saviez-vous que [David Dunning](https://lsa.umich.edu/psych/people/faculty/ddunning.html) et [Justin Kruger](http://pages.stern.nyu.edu/~jkruger/) ont reçu le prestigieux prix Ig-Nobel de psychologie en 2000 pour leur article “[Unskilled and Unaware of It: How Difficulties in Recognizing One’s Own Incompetence Lead to Inflated Self-Assessments](http://www.avaresearch.com/files/UnskilledAndUnawareOfIt.pdf).” , paru dans [Journal of Personality and Social Psychology](http://psycnet.apa.org/index.cfm?fa=buy.optionToBuy&id=1999-15054-002), vol. 77, no. 6, December 1999, pp. 1121-34.
+Par exemple : saviez-vous que [David Dunning](https://web.archive.org/web/20220627201120/https://lsa.umich.edu/psych/people/faculty/ddunning.html) et [Justin Kruger](https://web.archive.org/web/20220922231007/http://pages.stern.nyu.edu/~jkruger/) ont reçu le prestigieux prix Ig-Nobel de psychologie en 2000 pour leur article “[Unskilled and Unaware of It: How Difficulties in Recognizing One’s Own Incompetence Lead to Inflated Self-Assessments](http://www.avaresearch.com/files/UnskilledAndUnawareOfIt.pdf).” , paru dans [Journal of Personality and Social Psychology](http://psycnet.apa.org/index.cfm?fa=buy.optionToBuy&id=1999-15054-002), vol. 77, no. 6, December 1999, pp. 1121-34.
 
 ?
 

@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/%C3%80-quelle-vitesse-faudrait-il-aller-pour-%C3%AAtre-500-ans-dans-le-futur-ou-dans-le-pass%C3%A9/answer/Dr-Goulu)*
 
-Si vous partez pour un voyage dans l'espace à 99.9% de la vitesse de la lumière, vous obtiendrez un [Facteur de Lorentz](w:) de 100 ( merci à [Wolfram|Alpha](https://www.wolframalpha.com/input?i=speed+for+lorentz+factor+=100) qui me comprend de mieux en mieux…), donc si vous revenez après 5 ans de voyage, 500 ans se seront écoulés sur Terre, et vous aurez donc voyagé vers le futur.
+Si vous partez pour un voyage dans l'espace à 99.9% de la vitesse de la lumière, vous obtiendrez un [Facteur de Lorentz](w:) de 100 ( merci à [Wolfram|Alpha](https://web.archive.org/web/20221214/https://www.wolframalpha.com/input?i=speed+for+lorentz+factor+=100) qui me comprend de mieux en mieux…), donc si vous revenez après 5 ans de voyage, 500 ans se seront écoulés sur Terre, et vous aurez donc voyagé vers le futur.
 
 Sans retour possible.
 

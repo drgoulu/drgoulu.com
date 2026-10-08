@@ -22,4 +22,4 @@ Notes de bas de page
 
 [[1]](#cite-XqquJ)[Procès, extradition, arrestation... Que risque Carlos Ghosn au Liban ? - M.R.](https://www.lecommercedulevant.com/article/29511-proces-extradition-arrestation-que-risque-carlos-ghosn-au-liban-)
 
-[[2]](#cite-rFHuC)[Fuite de Carlos Ghosn : pas d'extradition s'il vient en France](https://www.lepoint.fr/societe/fuite-de-carlos-ghosn-pas-d-extradition-s-il-vient-en-france-02-01-2020-2355664_23.php)
+[[2]](#cite-rFHuC)[Fuite de Carlos Ghosn : pas d'extradition s'il vient en France](https://web.archive.org/web/20200103163510/https://www.lepoint.fr/societe/fuite-de-carlos-ghosn-pas-d-extradition-s-il-vient-en-france-02-01-2020-2355664_23.php)

@@ -13,6 +13,6 @@ coverImage: ./images/qimg-3a5b5c782e9ece693f5a1687b26383b3.jpg
 
 En limitant les naissances à moins de deux enfants par femme (actuellement c'est 2.44).
 
-Vous pouvez voir le résultat en jouant avec le [Simulateur de population](https://www.ined.fr/_modules/SimulateurPopulation/?lang=fr) de l'INED :
+Vous pouvez voir le résultat en jouant avec le [Simulateur de population](https://web.archive.org/web/20200621222206/https://www.ined.fr/_modules/SimulateurPopulation/?lang=fr) de l'INED :
 
 ![](./images/qimg-3a5b5c782e9ece693f5a1687b26383b3.jpg)

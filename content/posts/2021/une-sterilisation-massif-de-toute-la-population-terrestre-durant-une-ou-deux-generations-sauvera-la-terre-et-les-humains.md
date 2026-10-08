@@ -18,7 +18,7 @@ coverImage: ./images/qimg-d30f32376f8f960a25f493d80f183e15.png
 
 Essayez le
 
-[https://www.ined.fr/_modules/Sim...](https://www.ined.fr/_modules/SimulateurPopulation/?lang=fr)
+[https://www.ined.fr/_modules/Sim...](https://web.archive.org/web/20210225165119/https://www.ined.fr/_modules/SimulateurPopulation/?lang=fr)
 
 en ayant 0 enfants pendant deux générations, l'humanité s'éteint puisque toutes les femmes sont ménopausées après.
 

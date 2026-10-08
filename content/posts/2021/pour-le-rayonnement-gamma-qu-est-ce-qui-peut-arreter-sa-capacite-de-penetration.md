@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Quelques centimètres de plomb, quelques dizaines de cm de béton ou de rocher, quelques mètres d'eau,
 
-[https://www.laradioactivite.com/...](https://www.laradioactivite.com/site/pages/absorptiondesgamma.htm)
+[https://www.laradioactivite.com/...](https://web.archive.org/web/20210925121248/https://www.laradioactivite.com/site/pages/absorptiondesgamma.htm)

@@ -22,6 +22,6 @@ Pour compléter les autres réponse, il ne faut pas oublier que la formulation d
 >
 >
 >
-> [Albert Einstein](w:), « Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig? » [« L'inertie d'un corps dépend-elle de son contenu en énergie ? »], [*Annalen der Physik*](w:Annalen_der_Physik), vol. 323, no 13,‎ 1905, p. 639-641 ([DOI](w:Digital_Object_Identifier) [10.1002/andp.19053231314](https://dx.doi.org/10.1002/andp.19053231314),
+> [Albert Einstein](w:), « Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig? » [« L'inertie d'un corps dépend-elle de son contenu en énergie ? »], [*Annalen der Physik*](w:Annalen_der_Physik), vol. 323, no 13,‎ 1905, p. 639-641 ([DOI](w:Digital_Object_Identifier) [10.1002/andp.19053231314](https://web.archive.org/web/20200630211122/https://dx.doi.org/10.1002/andp.19053231314),
 
 Le cas le plus courant (radioactivité) est bien qu'un corps (atome) voit sa masse diminuer, et des particules diverses (électrons, neutrinos, photons…) partir avec une énergie totale correspondante.

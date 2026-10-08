@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Voler-nous-expose-t-il-%C3%A0-la-radioactivit%C3%A9-venue-de-lespace/answer/Dr-Goulu)*
 
-Selon [Expositions en vol](http://www.laradioactivite.com/site/pages/Radioactivite_en_vol.htm) :
+Selon [Expositions en vol](https://web.archive.org/web/20190903185456/http://www.laradioactivite.com/site/pages/Radioactivite_en_vol.htm) :
 
 > Parmi les voyageurs aériens, les femmes enceintes, les équipages et ceux qui empruntent l'avion comme d'autres l'automobile sont les plus exposés. Une directive européenne impose depuis mai 2000 aux compagnies aériennes de suivre les doses reçues par leurs équipages et de les informer quand elles dépassent la limite de 1 mSv.
 >

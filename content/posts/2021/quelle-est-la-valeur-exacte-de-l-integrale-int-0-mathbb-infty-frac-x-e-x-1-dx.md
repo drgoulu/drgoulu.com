@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 $\pi^2/12$
 
-[https://www.wolframalpha.com/inp...](https://www.wolframalpha.com/input/?i=integral+x/(e^x+1)+from+0+to+infinity)
+[https://www.wolframalpha.com/inp...](https://web.archive.org/web/20210620/https://www.wolframalpha.com/input/?i=integral+x/(e^x+1)+from+0+to+infinity)

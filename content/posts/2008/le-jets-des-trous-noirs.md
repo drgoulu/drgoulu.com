@@ -34,6 +34,6 @@ Steffen a aussi développé le logiciel "[Shape it](http://bufadora.astrosen.una
 
 ### sources :
 
-- "[En vidéo : le secret des blazars](http://www.futura-sciences.com/fr/news/t/astronomie/d/en-video-le-secret-des-blazars_15419/)" Laurent Sacco, [Futura-Sciences](http://www.futura-sciences.com/), 2 mai 2008
-- [Black Hole's Secrets Revealed - TFOT](http://www.tfot.info/pod/1166/black-holes-secrets-revealed.html)
+- "[En vidéo : le secret des blazars](https://web.archive.org/web/20081206185326/http://www.futura-sciences.com/fr/news/t/astronomie/d/en-video-le-secret-des-blazars_15419/)" Laurent Sacco, [Futura-Sciences](http://www.futura-sciences.com/), 2 mai 2008
+- [Black Hole's Secrets Revealed - TFOT](https://web.archive.org/web/20080503094424/http://www.tfot.info/pod/1166/black-holes-secrets-revealed.html)
 - "[Black Hole Plasma Jet Spotted Tracing Corkscrew Path](http://www.scientificamerican.com/article.cfm?id=black-hole-plasma-jets-trace-corkscrew-path)", JR Minke, Scientific America, Avril 2008

@@ -26,7 +26,7 @@ Aujourd'hui j'ai demandé à Gemini IA
 >
 >
 >
-> Cette prouesse a été réalisée par les équipes de Broad Clinical Labs, de Roche et du Boston Children's Hospital grâce à la technologie *Sequencing by Expansion*(SBX). [[1](https://www.emjreviews.com/emj-gold/news/roche-breaks-world-record-for-human-genome-sequencing/), [2](https://www.broadinstitute.org/news/broad-clinical-labs-sets-new-guinness-world-recordstm-title-fastest-dna-sequencing-technique), [3](https://www.upi.com/Health_News/2025/10/17/Guinness-World-Records-sequenced-genome-Boston-Childrens-Hospital/6631760707171/), [4](https://medicalxpress.com/news/2025-10-world-fastest-human-genome-sequencing.html)]
+> Cette prouesse a été réalisée par les équipes de Broad Clinical Labs, de Roche et du Boston Children's Hospital grâce à la technologie *Sequencing by Expansion*(SBX). [[1](https://www.emjreviews.com/emj-gold/news/roche-breaks-world-record-for-human-genome-sequencing/), [2](https://web.archive.org/web/20260711152259/https://www.broadinstitute.org/news/broad-clinical-labs-sets-new-guinness-world-recordstm-title-fastest-dna-sequencing-technique), [3](https://web.archive.org/web/20251017175016/https://www.upi.com/Health_News/2025/10/17/Guinness-World-Records-sequenced-genome-Boston-Childrens-Hospital/6631760707171/), [4](https://web.archive.org/web/20260311174424/https://medicalxpress.com/news/2025-10-world-fastest-human-genome-sequencing.html)]
 
 Donc voilà, si vous avez 1000 échantillons d'ADN et une équipe de 10 chercheurs, voire juste des étudiants qui savent utiliser les machines , vous pouvez analyser tous les échantillons, les comparer, et écrire un article scientifique là dessus en une année.
 

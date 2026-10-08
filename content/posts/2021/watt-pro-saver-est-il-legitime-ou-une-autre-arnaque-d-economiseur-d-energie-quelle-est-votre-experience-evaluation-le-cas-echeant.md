@@ -22,4 +22,4 @@ C'est un problème potentiel pour les compagnies d'électricité parce qu'elles 
 
 Le site ci-dessous estime que vous pouvez économiser 1% à 3% sur votre facture d'électricité, personnellement je ne vois pas vraiment pourquoi …
 
-[The real truth behind household power savers](https://electrical-engineering-portal.com/the-real-truth-behind-household-power-savers)
+[The real truth behind household power savers](https://web.archive.org/web/20210304191056/https://electrical-engineering-portal.com/the-real-truth-behind-household-power-savers)

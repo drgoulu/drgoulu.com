@@ -34,4 +34,4 @@ La section critique de la collision de protons dans le LHC est de 6000 femtobarn
 
 Ca signifie que les protons collisionnent s'ils se croisent à moins de $10^{-15}m$ environ, un femtomètre.
 
-[https://home.cern/fr/resources/f...](https://home.cern/fr/resources/faqs/high-luminosity-lhc)
+[https://home.cern/fr/resources/f...](https://web.archive.org/web/20230718061153/https://home.cern/fr/resources/faqs/high-luminosity-lhc)

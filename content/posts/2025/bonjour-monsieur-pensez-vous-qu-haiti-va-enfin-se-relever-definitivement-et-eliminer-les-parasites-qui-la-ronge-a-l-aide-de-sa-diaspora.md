@@ -23,4 +23,4 @@ Comme beaucoup de personnes de bonne volonté, je commence à me demander si le 
 
 Franchement, à part une mise sous tutelle complète d'Haïti par l'ONU, je ne vois aucune lueur d'espoir.
 
-[https://www.ungeneva.org/fr/news...](https://www.ungeneva.org/fr/news-media/news/2025/02/103859/haiti-un-appui-renforce-de-lonu-donnerait-beaucoup-plus-despoir-au)
+[https://www.ungeneva.org/fr/news...](https://web.archive.org/web/20250715/https://www.ungeneva.org/fr/news-media/news/2025/02/103859/haiti-un-appui-renforce-de-lonu-donnerait-beaucoup-plus-despoir-au)

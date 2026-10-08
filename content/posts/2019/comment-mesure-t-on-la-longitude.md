@@ -20,6 +20,6 @@ Avec le GPS ce n’est plus un problème, mais avant il fallait mesurer à quell
 
 Avant 1772 où l’horloger [John Harrison](w:John_Harrison_(horloger)) parvient à construire une horloge assez précise, on n’y arrivait pas et plusieurs autres méthodes ont été proposées mais aucune n’était satisfaisante.
 
-Le livre de [Dava Sobel](http://openlibrary.org/authors/OL225521A/Dava_Sobel) "[Longitude: l'histoire vraie du génie solitaire qui résolut le plus grand problème scientifique de son temps](http://openlibrary.org/books/OL12524664M/Longitude)" (1996) J.-C. Lattès ISBN:9782709617437 raconte cette histoire passionnante
+Le livre de [Dava Sobel](https://web.archive.org/web/20170314085127/http://openlibrary.org/authors/OL225521A/Dava_Sobel) "[Longitude: l'histoire vraie du génie solitaire qui résolut le plus grand problème scientifique de son temps](https://web.archive.org/web/20190402/http://openlibrary.org/books/OL12524664M/Longitude)" (1996) J.-C. Lattès ISBN:9782709617437 raconte cette histoire passionnante
 
 [Longitude - Pourquoi Comment Combien](/2009/10/04/longitude/)

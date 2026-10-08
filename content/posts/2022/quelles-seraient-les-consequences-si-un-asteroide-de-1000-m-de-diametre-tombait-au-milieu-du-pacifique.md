@@ -19,4 +19,4 @@ D'après cette table trouvée dans cet article[[1]](#LAHTM) , un astéroïde de 
 
 Notes de bas de page
 
-[[1]](#cite-LAHTM)[https://lib-www.lanl.gov/tsunami...](https://lib-www.lanl.gov/tsunami/00394718.pdf#page=21)
+[[1]](#cite-LAHTM)[https://lib-www.lanl.gov/tsunami...](https://web.archive.org/web/20220120/https://lib-www.lanl.gov/tsunami/00394718.pdf#page=21)

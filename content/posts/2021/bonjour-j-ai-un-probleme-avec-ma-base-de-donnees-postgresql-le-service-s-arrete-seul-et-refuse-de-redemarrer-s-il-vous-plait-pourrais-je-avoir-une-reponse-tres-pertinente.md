@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Quora n'est pas le bon endroit pour ce type de question. Googlez et vous trouverez
 
-[https://stackoverflow.com/questi...](https://stackoverflow.com/questions/45559610/the-postgresql-x64-9-6-service-on-local-computer-started-and-then-stopped-some)
+[https://stackoverflow.com/questi...](https://web.archive.org/web/20220323203524/https://stackoverflow.com/questions/45559610/the-postgresql-x64-9-6-service-on-local-computer-started-and-then-stopped-some)

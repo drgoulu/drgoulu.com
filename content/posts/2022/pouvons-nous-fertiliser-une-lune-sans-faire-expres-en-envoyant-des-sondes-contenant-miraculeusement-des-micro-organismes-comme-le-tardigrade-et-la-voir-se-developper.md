@@ -17,4 +17,4 @@ Quand on dit qu'ils survivent au vide, c'est en fait qu'ils se dessèchent et n'
 
 Par contre l'effet du rayonnement solaire est définitivement néfaste.
 
-[https://www.cell.com/current-bio...](https://www.cell.com/current-biology/fulltext/S0960-9822(08)00805-1?_returnURL=https://linkinghub.elsevier.com/retrieve/pii/S0960982208008051?showall=true)
+[https://www.cell.com/current-bio...](https://web.archive.org/web/20220401141114/https://www.cell.com/current-biology/fulltext/S0960-9822(08)00805-1?_returnURL=https://linkinghub.elsevier.com/retrieve/pii/S0960982208008051?showall=true)

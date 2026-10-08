@@ -17,6 +17,6 @@ il est classé 0 sur l'[Échelle de Turin](w:) et -2.78 sur l'[Échelle de Paler
 
 Tout l'historique est là : [99942 Apophis (2004 MN4)](https://cneos.jpl.nasa.gov/doc/apophis/)
 
-Si vous aimez avoir peur, consultez la liste sur [Sentry: Earth Impact Monitoring](https://cneos.jpl.nasa.gov/sentry/). Le caillou le plus dangereux "actuellement" est [2020 NK1](https://cneos.jpl.nasa.gov/sentry/details.html#?des=2020 NK1), avec 4 passages classés 1 sur l'échelle de Turin en 2090, 2093 et 2101
+Si vous aimez avoir peur, consultez la liste sur [Sentry: Earth Impact Monitoring](https://web.archive.org/web/20200721202715/https://cneos.jpl.nasa.gov/sentry/). Le caillou le plus dangereux "actuellement" est [2020 NK1](https://cneos.jpl.nasa.gov/sentry/details.html#?des=2020 NK1), avec 4 passages classés 1 sur l'échelle de Turin en 2090, 2093 et 2101
 
 [Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)

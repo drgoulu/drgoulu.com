@@ -15,6 +15,6 @@ rien à voir. Et en Suisse on a plusieurs parlés locaux.
 
 testez
 
-[http://www.parlometre.ch/#!/](http://www.parlometre.ch/#!/)
+[http://www.parlometre.ch/#!/](https://web.archive.org/web/20220513071039/http://www.parlometre.ch/#!/)
 
 😊

@@ -26,4 +26,4 @@ La vitesse de lumière n'est donc pas "arrondie", elle est "définie", et c'est 
 
 Notes de bas de page
 
-[[1]](#cite-trwPZ)[Du mètre et du kilogramme - Association Mesure Lab](https://mesurelab.fr/wp/metrologie/histoire-de-la-metrologie/du-metre-et-du-kilogramme/)
+[[1]](#cite-trwPZ)[Du mètre et du kilogramme - Association Mesure Lab](https://web.archive.org/web/20231208061056/https://mesurelab.fr/wp/metrologie/histoire-de-la-metrologie/du-metre-et-du-kilogramme/)

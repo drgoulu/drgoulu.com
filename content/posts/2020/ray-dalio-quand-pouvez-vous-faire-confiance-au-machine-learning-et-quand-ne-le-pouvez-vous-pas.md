@@ -24,6 +24,6 @@ En fait, en connaissant le fonctionnement de l'apprentissage on peut même conce
 
 ![](./images/qimg-b9aee4f730f23a51bb9228f82bc76660.jpg)
 
-[When deep learning mistakes a coffee-maker for a cobra](https://sti.epfl.ch/when-deep-learning-mistakes-a-coffee-maker-for-a-cobra/)
+[When deep learning mistakes a coffee-maker for a cobra](https://web.archive.org/web/20191219220728/https://sti.epfl.ch/when-deep-learning-mistakes-a-coffee-maker-for-a-cobra/)
 
 Bref, si VOUS connaissez le dataset utilisé pour l'apprentissage et que VOUS fournissez des données dont vous connaissez l'origine, VOUS pouvez lui faire confiance autant (voire plus) qu'à un humain.

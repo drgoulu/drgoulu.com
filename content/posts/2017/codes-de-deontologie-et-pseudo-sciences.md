@@ -18,7 +18,7 @@ L’exercice de certaines professions est cadré par des associations profession
 
 C’est ce que montre la mésaventure d’Olivier Bernard, “[Le Pharmachien](http://lepharmachien.com/) impertinent qui simplifie la science et anéantit la pseudoscience”.
 
-Le 27 juillet 2014, il a publié [une excellente BD](https://web.archive.org/web/20150429020402/http://lepharmachien.com/acupuncture) sur l'[acupuncture](w:), qui a [disparu de son site](http://lepharmachien.com/acupuncture/) en mai 2015, suite à une demande d’enquête en déontologie déposée par des acupuncteurs québécois auprès de l'[Ordre des pharmaciens du Québec](w:). Ils estimaient qu’en publiant cette BD, Olivier Bernard violait l’[article 86 du code de déontologie des pharmaciens](http://legisquebec.gouv.qc.ca/fr/ShowDoc/cr/P-10,%20r.%207/#se:86) qui stipule que:
+Le 27 juillet 2014, il a publié [une excellente BD](https://web.archive.org/web/20150429020402/http://lepharmachien.com/acupuncture) sur l'[acupuncture](w:), qui a [disparu de son site](https://web.archive.org/web/20171104/http://lepharmachien.com/acupuncture/) en mai 2015, suite à une demande d’enquête en déontologie déposée par des acupuncteurs québécois auprès de l'[Ordre des pharmaciens du Québec](w:). Ils estimaient qu’en publiant cette BD, Olivier Bernard violait l’[article 86 du code de déontologie des pharmaciens](https://web.archive.org/web/20170911020139/http://legisquebec.gouv.qc.ca/fr/ShowDoc/cr/P-10,%20r.%207/#se:86) qui stipule que:
 
 > Le pharmacien doit, dans ses rapports avec les autres pharmaciens, les étudiants, les stagiaires **et les autres professionnels**, se comporter avec dignité, courtoisie, respect et intégrité; il doit notamment:
 > 
@@ -26,17 +26,17 @@ Le 27 juillet 2014, il a publié [une excellente BD](https://web.archive.org/web
 > - (...)
 > - s’abstenir de dénigrer un autre pharmacien **ou un autre professionnel;** (...)
 
-Or justement, les acupuncteurs du Québec ont également [un Ordre professionnel](w:Office_des_professions_du_Québec#Liste_des_ordres_professionnels), avec un [code de déontologie doté d’un article similaire](http://legisquebec.gouv.qc.ca/fr/ShowDoc/cr/A-5.1,%20r.%203/?#se:51), et ont estimé que le Pharmachien dénigrait leur profession.
+Or justement, les acupuncteurs du Québec ont également [un Ordre professionnel](w:Office_des_professions_du_Québec#Liste_des_ordres_professionnels), avec un [code de déontologie doté d’un article similaire](https://web.archive.org/web/20171009174959/http://legisquebec.gouv.qc.ca/fr/ShowDoc/cr/A-5.1,%20r.%203/?#se:51), et ont estimé que le Pharmachien dénigrait leur profession.
 
 L’enquête menée par l’Ordre des Pharmaciens a finalement conclu qu’il n’y avait pas eu d’infraction ou de manquement à l’éthique professionnelle, mais a appris à Olivier Bernard que son appartenance à un Ordre “restreint sa liberté d’expression”. Il a donc tout de même décidé de retirer son oeuvre de son site dans un souci d’apaisement.
 
 ## Un problème québécois ou canadien ?
 
-Il faut dire qu’au Québec, [la loi définit 25 “professions d’exercice exclusif”](https://professions-quebec.org/les-ordres-professionnels/les-professions-reglementees/types-de-professions-et-d-ordres/) dont celles de médecin, de pharmacien, d’ingénieur, et d’acupuncteur  dont l’exercice n’est possible que si on est membre de l’Ordre correspondant, régi par un code de déontologie qui a force de loi. S’il avait été exclu de son ordre pour violation du code de déontologie, Olivier Bernard n’aurait plus pu exercer sa profession !
+Il faut dire qu’au Québec, [la loi définit 25 “professions d’exercice exclusif”](https://web.archive.org/web/20170316014939/https://professions-quebec.org/les-ordres-professionnels/les-professions-reglementees/types-de-professions-et-d-ordres/) dont celles de médecin, de pharmacien, d’ingénieur, et d’acupuncteur  dont l’exercice n’est possible que si on est membre de l’Ordre correspondant, régi par un code de déontologie qui a force de loi. S’il avait été exclu de son ordre pour violation du code de déontologie, Olivier Bernard n’aurait plus pu exercer sa profession !
 
 Il est évident qu’un médecin qui prétendrait soigner un cancer par imposition des mains, un pharmacien qui vendrait délibérément des contrefaçons de médicaments ou un acupuncteur qui utiliserait des aiguilles infectées doit être empêché d’exercer pour la protection du public. La plupart des pays industrialisés disposent de réglementation en ce sens.
 
-En France par exemple, l’[Article 39 du Code de déontologie de l’Ordre National des Médecins](https://www.conseil-national.medecin.fr/article/article-39-charlatanisme-263) (article R.4127-39 du code de la santé publique) paraît même particulièrement clair :
+En France par exemple, l’[Article 39 du Code de déontologie de l’Ordre National des Médecins](https://web.archive.org/web/20170912002628/https://www.conseil-national.medecin.fr/article/article-39-charlatanisme-263) (article R.4127-39 du code de la santé publique) paraît même particulièrement clair :
 
 > Les médecins ne peuvent proposer aux malades ou à leur entourage comme salutaire ou sans danger un remède ou un procédé illusoire ou insuffisamment éprouvé.
 > 
@@ -51,7 +51,7 @@ Ce qui semble particulier au Québec, voire au Canada c’est :
 
 La combinaison de ces deux particularités permet non seulement à des pseudo-sciences d’obtenir un statut légal égal aux professions scientifiques établies, mais en plus de se mettre à l’abri des critiques des personnes les plus qualifiées pour porter un jugement éclairé et éclairant sur leurs disciplines.
 
-C’est déjà le cas des acupuncteurs et des chiropraticiens au Québec, mais il existe déjà un [Ordre des homéopathes en Ontario](http://www.collegeofhomeopaths.on.ca/), dont les membres, non médecins, ont le droit de traiter des cancers [[1]](#ref-1) ! Et il est impossible aux médecins et pharmaciens de dénoncer ceci, **au risque de diverses sanctions, amendes et menaces à la possibilité d’exercer leur métier !**
+C’est déjà le cas des acupuncteurs et des chiropraticiens au Québec, mais il existe déjà un [Ordre des homéopathes en Ontario](https://web.archive.org/web/20171110085637/http://www.collegeofhomeopaths.on.ca/), dont les membres, non médecins, ont le droit de traiter des cancers [[1]](#ref-1) ! Et il est impossible aux médecins et pharmaciens de dénoncer ceci, **au risque de diverses sanctions, amendes et menaces à la possibilité d’exercer leur métier !**
 
 ## Retour sur l’acupuncture
 
@@ -73,7 +73,7 @@ Il précise encore sa position dans plusieurs des [189 commentaires collectés j
 > 
 > Si jamais la science (…) prouve que l’énergie “Qi” existe, je me rétracterai joyeusement.
 
-La BD du Pharmachien est une excellente vulgarisation de l’état des connaissances actuelles sur l’acupuncture, parfaitement respectueuse de l’[Art 18 de son code de déontologie](http://legisquebec.gouv.qc.ca/fr/ShowDoc/cr/P-10,%20r.%207/#se:18):
+La BD du Pharmachien est une excellente vulgarisation de l’état des connaissances actuelles sur l’acupuncture, parfaitement respectueuse de l’[Art 18 de son code de déontologie](https://web.archive.org/web/20170911020139/http://legisquebec.gouv.qc.ca/fr/ShowDoc/cr/P-10,%20r.%207/#se:18):
 
 > Dans ses déclarations publiques traitant de l’exercice de la pharmacie, le pharmacien doit s’appuyer sur des données scientifiquement acceptables et des normes professionnelles reconnues; il doit éviter le recours à l’exagération.
 
@@ -91,7 +91,7 @@ La pression des acupuncteurs contre l’excellente BD d’Olivier Bernard mérit
 
 ## Références:
 
-1. <span id="ref-1"></span>"[Les homéopathes toujours autorisés à traiter le cancer en Ontario](http://beta.radio-canada.ca/nouvelle/1029763/homeopathes-autorises-traiter-cancer)", 2017, Radio Canada
+1. <span id="ref-1"></span>"[Les homéopathes toujours autorisés à traiter le cancer en Ontario](https://web.archive.org/web/20171104/http://beta.radio-canada.ca/nouvelle/1029763/homeopathes-autorises-traiter-cancer)", 2017, Radio Canada
 2. <span id="ref-2"></span> Cherkin D, Sherman K, Avins A, Erro J,Ichikawa L et. al. “A randomized trial comparing acupuncture, simulated acupuncture, and usual care for chronic low back pain.“ Archives of Internal Medicine, 2009 vol: 169 (9) pp: 858 [https://www.ncbi.nlm.nih.gov/pubmed/19433697](https://www.ncbi.nlm.nih.gov/pubmed/19433697) {{< altmetric doi="10.1001/archinternmed.2009.65" >}}
 3. <span id="ref-3"></span> Harris RE, Zubieta J-K, Scott DJ, et al. [Traditional Chinese acupuncture and placebo (sham) acupuncture are differentiated by their effects on μ-opioid receptors (MORs).](http://www.ncbi.nlm.nih.gov/pubmed/19501658)NeuroImage. 2009 ;47(3):1077–1085. {{< altmetric doi="10.1016/j.neuroimage.2009.05.083" >}}
 4. <span id="ref-4"></span>[Colquhoun D, Novella SP. Acupuncture is theatrical placebo. Anesth Analg. 2013 Jun;116(6):1360-3.](https://www.ncbi.nlm.nih.gov/pubmed/23709076) {{< altmetric doi="10.1213/ANE.0b013e31828f2d5e" >}}

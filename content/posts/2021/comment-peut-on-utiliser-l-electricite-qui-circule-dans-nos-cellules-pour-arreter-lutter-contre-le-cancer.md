@@ -24,4 +24,4 @@ Un exemple de bonne démarche scientifique dans ce domaine, c'est un type qui s'
 
 Et il semblerait que ça marche
 
-[https://www.ted.com/talks/bill_d...](https://www.ted.com/talks/bill_doyle_treating_cancer_with_electric_fields/transcript)
+[https://www.ted.com/talks/bill_d...](https://web.archive.org/web/20210116004011/https://www.ted.com/talks/bill_doyle_treating_cancer_with_electric_fields/transcript)

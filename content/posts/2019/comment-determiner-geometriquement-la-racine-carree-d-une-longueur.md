@@ -15,4 +15,4 @@ avec la [Méthode de Héron](w:)
 
 [https://www.youtube.com/watch?v=...](https://www.youtube.com/watch?v=7dNF29NKhoM)
 
-[Méthode de Héron pour extraire une racine carrée : une explication géométrique possible](http://irem.univ-reunion.fr/spip.php?article919)
+[Méthode de Héron pour extraire une racine carrée : une explication géométrique possible](https://web.archive.org/web/20190627191208/http://irem.univ-reunion.fr/spip.php?article919)

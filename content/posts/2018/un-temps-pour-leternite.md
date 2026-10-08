@@ -52,6 +52,6 @@ Merci Frédéric !
 
 1. <span id="ref-1"></span>Frédéric Leclerc (2018) : *Un temps pour l’éternité*. Éd livre, 2018, ISBN: 978-2414258000.
 2. <span id="ref-2"></span>A Connes and C Rovelli (1994) : [*Von Neumann algebra automorphisms and time-thermodynamics relation in generally covariant quantum theories*](https://dx.doi.org/10.1088/0264-9381/11/12/007). Dans: Class. Quantum Grav., vol. 11, no. 12, p. 2899–2917, 1994, ISSN: 1361-6382.
-3. <span id="ref-3"></span>ChunJun Cao and Sean M. Carroll and Spyridon Michalakis : [*Space from Hilbert space: Recovering geometry from bulk entanglement*](https://dx.doi.org/10.1103/physrevd.95.024031). Dans: Phys. Rev. D, vol. 95, no. 2, 2017, ISSN: 2470-0029.
+3. <span id="ref-3"></span>ChunJun Cao and Sean M. Carroll and Spyridon Michalakis : [*Space from Hilbert space: Recovering geometry from bulk entanglement*](https://web.archive.org/web/20171028050301/https://dx.doi.org/10.1103/physrevd.95.024031). Dans: Phys. Rev. D, vol. 95, no. 2, 2017, ISSN: 2470-0029.
 4. <span id="ref-4"></span>[*Time in Physics*](https://dx.doi.org/10.1007/978-3-319-68655-4). Springer International Publishing, 2017, ISBN: 9783319686554.
 5. <span id="ref-5"></span>Nicolas Gisin : [*Indeterminism in Physics, Classical Chaos and Bohmian Mechanics: Are Real Numbers Really Real?*](https://dx.doi.org/10.1007/s10670-019-00165-8). Dans: Erkenntnis, vol. 86, no. 6, p. 1469–1481, 2021, ISSN: 1572-8420.

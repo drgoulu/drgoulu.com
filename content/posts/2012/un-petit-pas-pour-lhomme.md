@@ -38,7 +38,7 @@ Après ça,  il est allé tranquillement au bureau des astronautes faire du 
 
 Pour qu'une fusée décolle, il faut que ses moteurs exercent une force supérieure à F=m.g, où m est la masse de la fusée, et [g=9.81 m/s²](w:Pesanteur) l'attraction à la surface de la Terre. Mais plus elle s'éloigne de la surface, plus cette force diminue car la force de [gravitation](w:) diminue comme le carré de la distance\*.
 
-Pour s'éloigner à l'infini, il faut que le [travail de la force](w:travail_d'une_force) de propulsion de la fusée atteigne l'énergie de libération\*\* E=m.[G.M/R](http://www.wolframalpha.com/input/?i=Gravitational+constant+*+Mass+Earth+%2FRadius+Earth) où G est la [constante gravitationnelle](w:), M la masse de la Terre et R son rayon [[7]](#ref-7).
+Pour s'éloigner à l'infini, il faut que le [travail de la force](w:travail_d'une_force) de propulsion de la fusée atteigne l'énergie de libération\*\* E=m.[G.M/R](https://web.archive.org/web/20170107143048/http://www.wolframalpha.com/input/?i=Gravitational+constant+*+Mass+Earth+%2FRadius+Earth) où G est la [constante gravitationnelle](w:), M la masse de la Terre et R son rayon [[7]](#ref-7).
 
 La fusée doit donc produire un travail (= énergie) d'au moins E=62,5.106Joules par kg à expédier très loin.
 
@@ -69,7 +69,7 @@ A droite, on voit qu'un voyage vers Mars nécessiterait un véhicule beaucoup, b
 
 Voilà pourquoi après le "petit pas pour l'homme" de Neil Armstrong en bordure de notre puits, le "grand bond pour l'humanité" devra attendre que l'on dispose de systèmes de propulsion très puissants et légers.
 
-En attendant, on pourrait commencer par installer de vraies bases spatiales aux points de Lagrange, [exploiter les astéroïdes](http://www.planetaryresources.com/) et pourquoi pas, proposer quelques voyages "simple course". Je serais éventuellement tenté par [Titan](<w:Titan_(lune)>), autour de mon 90ème anniversaire...
+En attendant, on pourrait commencer par installer de vraies bases spatiales aux points de Lagrange, [exploiter les astéroïdes](https://web.archive.org/web/20120831160918/http://www.planetaryresources.com/) et pourquoi pas, proposer quelques voyages "simple course". Je serais éventuellement tenté par [Titan](<w:Titan_(lune)>), autour de mon 90ème anniversaire...
 
 {{< figure src="./images/41b38c839993f9476c19c2a71806173e.jpg" alt="Cliquer pour http://fr.wikipedia.org/wiki/Point_de_Lagrange" caption="les puits du Soleil, de la Terre et de la Lune \"vus de dessus\", en courbes de niveau, permettent de visualiser les \"points de Lagrange\" L1 à L5" link="http://fr.wikipedia.org/wiki/Point_de_Lagrange" align="aligncenter" width="489" >}}
 
@@ -83,12 +83,12 @@ En attendant, on pourrait commencer par installer de vraies bases spatiales aux 
 
 ### Références
 
-1. <span id="ref-1"></span>Serge Brunier et Frédéric Compain. "La fin des astronautes ?" , 2012, documentaire 52' produit par [Arte](http://www.arte.tv/fr/4059444,CmC=6815884.html) France et Point du Jour [teaser](http://www.youtube.com/watch?v=kPI_fuUTzmI)
-2. <span id="ref-2"></span>Jay Lindsay, "[New tape: JFK fretted moon program was tough sell](http://phys.org/news/2011-05-tape-jfk-fretted-moon-tough.html)", 25 Mai 2011, Associated Press
+1. <span id="ref-1"></span>Serge Brunier et Frédéric Compain. "La fin des astronautes ?" , 2012, documentaire 52' produit par [Arte](https://web.archive.org/web/20250426055052/http://www.arte.tv/fr/4059444,CmC=6815884.html) France et Point du Jour [teaser](http://www.youtube.com/watch?v=kPI_fuUTzmI)
+2. <span id="ref-2"></span>Jay Lindsay, "[New tape: JFK fretted moon program was tough sell](https://web.archive.org/web/20150626140954/http://phys.org/news/2011-05-tape-jfk-fretted-moon-tough.html)", 25 Mai 2011, Associated Press
 3. <span id="ref-3"></span>Robert P. Dill, N. Brown R. L. Curtis, C. R. Herrmann, A. Trampus "[State-of-the-art reliability analysis of Saturn V propulsion systems](https://archive.org/download/nasa_techdoc_19930075105/19930075105.pdf)", June 1963, General Electric Report RM 63TMP-22 3
-4. <span id="ref-4"></span>Olivier Dessibourg "[Claude Nicollier: «Je partirais pour Mars même sans ticket-retour»](http://www.letemps.ch/Page/Uuid/35a549cc-a5b4-11e0-af99-7b83bebc6d53%7C0)", Le Temps, Lundi 4 juillet 2011
+4. <span id="ref-4"></span>Olivier Dessibourg "[Claude Nicollier: «Je partirais pour Mars même sans ticket-retour»](https://web.archive.org/web/20250426054741/http://www.letemps.ch/Page/Uuid/35a549cc-a5b4-11e0-af99-7b83bebc6d53%7C0)", Le Temps, Lundi 4 juillet 2011
 5. <span id="ref-5"></span>{{< openbook booknumber="OLID:OL421813M" templatenumber="5" >}}
-6. <span id="ref-6"></span>"[L'espace, un rêve trop cher ?](http://www.sciences-et-democratie.net/dossiers-et-debats/recherche-et-innovation/lespace-un-reve-trop-cher)" 16 mai 2011 sur Sciences et Démocratie
+6. <span id="ref-6"></span>"[L'espace, un rêve trop cher ?](https://web.archive.org/web/20120614173035/http://www.sciences-et-democratie.net/dossiers-et-debats/recherche-et-innovation/lespace-un-reve-trop-cher)" 16 mai 2011 sur Sciences et Démocratie
 7. <span id="ref-7"></span>"[Puits gravitationnel et missions spatiales](http://expliquenoustout.blogspot.ch/2011/05/puits-gravitationnel-et-missions.html)", 2011 sur Explique nous tout !
 8. <span id="ref-8"></span>Randall Munroe ["Gravity Wells" sur xkcd](http://xkcd.com/681/)
 9. <span id="ref-9"></span>Rhett Allain, "[xkcd and Gravity Wells](http://scienceblogs.com/dotphysics/2010/01/03/xkcd-and-gravity-wells/)", January 3, 2010 sur Dot Physics

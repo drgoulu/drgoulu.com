@@ -23,6 +23,6 @@ Que vous y croyez ou pas. La science, c'est ce qui marche même si on y croit pa
 
 Notes de bas de page
 
-[[1]](#cite-OXTPm)[https://www.thelancet.com/journa...](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00320-6/fulltext)
+[[1]](#cite-OXTPm)[https://www.thelancet.com/journa...](https://web.archive.org/web/20231008000756/https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00320-6/fulltext)
 
 [[2]](#cite-tqskP)[Les sept pandémies les plus meurtrières de l'histoire](https://www.gavi.org/fr/vaccineswork/sept-pandemies-meurtrieres-histoire#:~:text=le monde...-,La peste noire : 75 à 200 millions de morts (1334,nord-est de la Chine.)

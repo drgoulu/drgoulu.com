@@ -13,7 +13,7 @@ coverImage: "./images/a8c41973b20f525f5ba1ba4db9a4aea2.jpg"
 
 Cette question étrange a été abordée hier par Antoine Danchin dans une séquence de l'émission scientifique "[Impatience](http://www.rts.ch/la-1ere/programmes/impatience/)" de la Radio Suisse Romande sur la "biologie synthétique".
 
-Vous pouvez écouter cette séquence [ici](http://podcast.rsr.ch/media/la1ere/impatience/20090320-la-biologie-synthetique.mp3). Si vous êtes pressé, sautez à 7 minutes où Danchin décrit le parallèle entre biologie et informatique. Le passage qui inspire cet article commence après 14:30 minutes. Je l'ai trouvé vraiment passionnant.
+Vous pouvez écouter cette séquence [ici](https://web.archive.org/web/20090321/http://podcast.rsr.ch/media/la1ere/impatience/20090320-la-biologie-synthetique.mp3). Si vous êtes pressé, sautez à 7 minutes où Danchin décrit le parallèle entre biologie et informatique. Le passage qui inspire cet article commence après 14:30 minutes. Je l'ai trouvé vraiment passionnant.
 
 Danchin dit que "_le vieillissement est inéluctable, mais la vie a trouvé la solution : produire un autre, mais qui soit jeune_". Mais ceci provoque un dilemme si on vise l'utilisation industrielle d'organismes vivants:
 
@@ -25,6 +25,6 @@ Danchin parle ensuite de son sujet de recherche, les gènes qui contrôlent just
 ### Liens:
 
 - [Antoine Danchin](http://www.normalesup.org/~adanchin/index.html)
-- [Unité de Génétique des Génomes Bactériens de l'Institut Pasteur de Paris](http://www.pasteur.fr/recherche/unites/REG/accueil.shtml)
+- [Unité de Génétique des Génomes Bactériens de l'Institut Pasteur de Paris](https://web.archive.org/web/20090124235829/http://www.pasteur.fr/recherche/unites/REG/accueil.shtml)
 - ["biologie synthétique" sur Wikipédia](w:Biologie_synthetique)
-- [wiki sur la biologie synthétique](http://www.biologiesynthetique.fr/)
+- [wiki sur la biologie synthétique](https://web.archive.org/web/20081112081718/http://www.biologiesynthetique.fr/)

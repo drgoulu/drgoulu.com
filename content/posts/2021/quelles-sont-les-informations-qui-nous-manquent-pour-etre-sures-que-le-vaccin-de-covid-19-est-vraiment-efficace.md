@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Aucune. LES efficacités DES différents vaccins sont bien connues depuis la fin de la phase 3.
 
-voir paragraphe "efficacité vaccinale" dans [Vaccins contre COVID-19 : résultats intermédiaires d'efficacité et de sécurité](https://www.infovac.ch/fr/infovac/actualites/862-vaccins-contre-covid-19-resultats-interimaires-d-efficacite-et-de-securite)
+voir paragraphe "efficacité vaccinale" dans [Vaccins contre COVID-19 : résultats intermédiaires d'efficacité et de sécurité](https://web.archive.org/web/20210705051722/https://www.infovac.ch/fr/infovac/actualites/862-vaccins-contre-covid-19-resultats-interimaires-d-efficacite-et-de-securite)

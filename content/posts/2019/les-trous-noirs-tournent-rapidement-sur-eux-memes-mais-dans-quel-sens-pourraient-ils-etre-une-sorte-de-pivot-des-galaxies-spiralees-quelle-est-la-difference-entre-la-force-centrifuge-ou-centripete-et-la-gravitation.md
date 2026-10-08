@@ -34,7 +34,7 @@ Notes de bas de page
 
 [[1]](#cite-wQIPK)[MIROIR | ЯIOЯIM - Pourquoi Comment Combien](/2009/04/04/miroir/)
 
-[[2]](#cite-PLGbr)[Coupling between galaxy spin and central black hole spin](https://physics.stackexchange.com/questions/222415/coupling-between-galaxy-spin-and-central-black-hole-spin)
+[[2]](#cite-PLGbr)[Coupling between galaxy spin and central black hole spin](https://web.archive.org/web/20190826093756/https://physics.stackexchange.com/questions/222415/coupling-between-galaxy-spin-and-central-black-hole-spin)
 
 [[3]](#cite-dZxVl)[Les trous noirs : des moteurs de l'Univers ? - Pourquoi Comment Combien](/2008/09/06/les-trous-noirs-des-moteurs-de-lunivers/)
 

@@ -28,7 +28,7 @@ le site en question est :
 
 [http://empslocal.ex.ac.uk/people...](http://empslocal.ex.ac.uk/people/staff/mrwatkin//zeta/RHproofs.htm)
 
-or K. Eswaran, ["The final and exhaustive proof of the Riemann Hypothesis from first principles"](https://dx.doi.org/10.13140/RG.2.2.35243.95528) (May 2018) est justement listée sur ce site .
+or K. Eswaran, ["The final and exhaustive proof of the Riemann Hypothesis from first principles"](https://web.archive.org/web/20210701/https://dx.doi.org/10.13140/RG.2.2.35243.95528) (May 2018) est justement listée sur ce site .
 
 Les problèmes relevés dans cette "démonstration" sont là :
 

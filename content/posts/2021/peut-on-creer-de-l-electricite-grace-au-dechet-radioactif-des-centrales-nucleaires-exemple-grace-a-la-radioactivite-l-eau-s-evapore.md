@@ -15,6 +15,6 @@ Les déchets ne sont plus assez actifs pour faire bouillir de l'eau. Un "colis" 
 
 Ils sont entreposés à la Hague, refroidis à l air sous un plancher sur lequel on peut se promener
 
-[https://www.laradioactivite.com/...](https://www.laradioactivite.com/site/pages/EntreposageVerres.htm)
+[https://www.laradioactivite.com/...](https://web.archive.org/web/20210730190523/https://www.laradioactivite.com/site/pages/EntreposageVerres.htm)
 
 [https://www.drgoulu.com/2014/05/...](/2014/05/24/bure-pour-leternite/)

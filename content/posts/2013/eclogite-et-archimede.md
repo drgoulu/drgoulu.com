@@ -21,7 +21,7 @@ L'éclogite est parfois [très jolie](http://www.flickr.com/photos/34083234@N0
 
 Et lorsqu'un gisement se trouvait directement sur une côte facilement accessible, la dense éclogite était fort utile pour lester les bateaux des siècles passés.
 
-Mais à quoi peut donc donc servir aujourd'hui l'immense carrière d'éclogite moderne juste à côté ? [Cette page](http://www.visneskalk.no/eklogitt/en/produksjon.html) dit qu'elle produit principalement du ballast pour l' "offshore rockdumping", ou "déchargement sous-marin de roches"  [[2]](#ref-2), [[3]](#ref-3), [[4]](#ref-4).  Ca consiste à déposer une couche de cailloux au fond de la mer pour l'égaliser avant la pose d'une plateforme pétrolière par exemple, ou pour protéger des pipelines sous-marins et les isoler thermiquement. Des [bateaux spéciaux](w:en:Rock-dumping_vessels) sont capables de réaliser ceci avec une grande précision jusqu'à plus de 1200m de fond (mais [peuvent aussi chavirer](w:en:MV_Rocknes)...)
+Mais à quoi peut donc donc servir aujourd'hui l'immense carrière d'éclogite moderne juste à côté ? [Cette page](https://web.archive.org/web/20130814/http://www.visneskalk.no/eklogitt/en/produksjon.html) dit qu'elle produit principalement du ballast pour l' "offshore rockdumping", ou "déchargement sous-marin de roches"  [[2]](#ref-2), [[3]](#ref-3), [[4]](#ref-4).  Ca consiste à déposer une couche de cailloux au fond de la mer pour l'égaliser avant la pose d'une plateforme pétrolière par exemple, ou pour protéger des pipelines sous-marins et les isoler thermiquement. Des [bateaux spéciaux](w:en:Rock-dumping_vessels) sont capables de réaliser ceci avec une grande précision jusqu'à plus de 1200m de fond (mais [peuvent aussi chavirer](w:en:MV_Rocknes)...)
 
 ![](./images/825d79670087d22a4a1225f2215c3f8f.jpg)![](./images/b5d39735ac7b5af1e2ac53806d525e5a.jpg)
 
@@ -37,8 +37,8 @@ La carrière de [Visnes](w:en:Visnes,_Møre_og_Romsdal) ayant le bon goût de s
 
 ### Références
 
-1. <span id="ref-1"></span>Don L. Anderson "[The layered mantle revisited - An eclogite reservoir](http://www.mantleplumes.org/Eclogite.html)"
-2. <span id="ref-2"></span>"[Rockdumping](http://www.theartofdredging.com/rockdumping.htm)" sur theartofdredging.com (l'art de la drague...)
+1. <span id="ref-1"></span>Don L. Anderson "[The layered mantle revisited - An eclogite reservoir](https://web.archive.org/web/20130826150656/http://www.mantleplumes.org/Eclogite.html)"
+2. <span id="ref-2"></span>"[Rockdumping](https://web.archive.org/web/20140816201640/http://www.theartofdredging.com/rockdumping.htm)" sur theartofdredging.com (l'art de la drague...)
 3. <span id="ref-3"></span>"[Histoire du déchargement sous-marin de roches](http://www.rockdumping.eu/history.html)" (en néerlandais)
 4. <span id="ref-4"></span>Clive Skelhorn, "[Hydrographic Survey in Deep Water and its Problems for Rockdumping](http://www.rockdumping.eu/deepwaterrockdumping.pdf)", 2003, Hydrographic Society Benelux
-5. <span id="ref-5"></span>"[Company profile and material specification](http://www.norock.com/doc/Norock_Company_Profile_and_Material_Specification.pdf)", Norock & Co.
+5. <span id="ref-5"></span>"[Company profile and material specification](https://web.archive.org/web/20150412025840/http://www.norock.com/doc/Norock_Company_Profile_and_Material_Specification.pdf)", Norock & Co.

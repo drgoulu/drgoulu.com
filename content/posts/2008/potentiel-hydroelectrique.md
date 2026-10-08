@@ -62,4 +62,4 @@ Avant de subventionner les énergies diluées que sont l'éolien et le solaire, 
 
 1. "[L'hydroélectricité bénéficie d'un nouveau cadre réglementaire grâce auquel elle pourra à nouveau se développer](http://www.actu-environnement.com/ae/news/hydroelectricite_legislation_developpement_2191.php4)", Actu-Environnement.com - 17/01/2007
 2. [RAPPORT SUR LES PERSPECTIVES DE DEVELOPPEMENT DE LA PRODUCTION HYDROELECTRIQUE EN FRANCE](http://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/064000471/0000.pdf). Mars 2006
-3. [Installations-electriques.net](http://www.installations-electriques.net/Instal/production.htm) un site très complet sur l'électricité, et la production et consommation en Suisse en particulier.
+3. [Installations-electriques.net](https://web.archive.org/web/20081013042241/http://www.installations-electriques.net/Instal/production.htm) un site très complet sur l'électricité, et la production et consommation en Suisse en particulier.

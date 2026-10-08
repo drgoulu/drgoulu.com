@@ -17,4 +17,4 @@ Votre pays (la Guinée) est stable, sa croissance économique est meilleure (5%)
 
 Après l'Amérique et l'Asie, l'Afrique sera le prochain eldorado: travaillez à développer votre pays. Regardez bien autour de vous, trouvez une activité qui correspond aux besoins de vos concitoyens et créez une entreprise. Si vous avez un bon business plan, vous trouverez du financement.
 
-[https://www.afdb.org/fr/pays-afr...](https://www.afdb.org/fr/pays-afrique-de-louest-guinee/perspectives-economiques-en-guinee)
+[https://www.afdb.org/fr/pays-afr...](https://web.archive.org/web/20250307223216/https://www.afdb.org/fr/pays-afrique-de-louest-guinee/perspectives-economiques-en-guinee)

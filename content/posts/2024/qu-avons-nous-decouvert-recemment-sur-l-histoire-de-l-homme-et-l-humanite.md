@@ -15,4 +15,4 @@ En lisant des journaux comme
 
 [https://bioanth.org/publications...](https://bioanth.org/publications/american-journal-of-biological-anthropology/)
 
-vous aurez [chaque mois une douzaine de découvertes récentes sur ce sujet](https://onlinelibrary.wiley.com/journal/26927691)
+vous aurez [chaque mois une douzaine de découvertes récentes sur ce sujet](https://web.archive.org/web/20241111021454/https://onlinelibrary.wiley.com/journal/26927691)

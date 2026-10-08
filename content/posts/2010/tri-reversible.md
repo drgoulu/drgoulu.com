@@ -27,7 +27,7 @@ Un érudit professeur m’avait répondu simplement ceci :
 
 J’ai mis un moment à comprendre la profondeur de cette réponse : ma question, une fois les mots triés par ordre alphabétique, était devenue incompréhensible, et contenait donc moins d’information que la phrase originale ! Depuis je sais que [l'informatique détruit toujours l'information](/2007/02/25/linformatique-detruit-linformation/).
 
-[Ce petit concours](http://www.delphigeist.com/2010/01/reversable-sorting-algorithm-contest.html) a reposé la question sous un angle intéressant : est-il possible de programmer un algorithme de tri "réversible", permettant de remettre une liste triée dans son état initial ? Évidemment oui : il suffit de stocker en plus l'information perdue lors du tri, le plus simple étant de mémoriser l'état initial de la liste par exemple en ajoutant à chaque élément trié son numéro d'ordre :
+[Ce petit concours](https://web.archive.org/web/20100126124552/http://www.delphigeist.com/2010/01/reversable-sorting-algorithm-contest.html) a reposé la question sous un angle intéressant : est-il possible de programmer un algorithme de tri "réversible", permettant de remettre une liste triée dans son état initial ? Évidemment oui : il suffit de stocker en plus l'information perdue lors du tri, le plus simple étant de mémoriser l'état initial de la liste par exemple en ajoutant à chaque élément trié son numéro d'ordre :
 
 > "ce2 contient7 d’10 est-1 information11 liste5 liste14 non15 plus9 qu'3 qu'12 triée6 triée?16 une4 une13 vraiment8 ”.
 

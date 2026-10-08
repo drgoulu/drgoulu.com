@@ -18,9 +18,9 @@ coverImage: ./images/qimg-372dfb384d3b1db1291cd35789e50b14.jpg
 
 Les études archéologiques montrent qu'elle faisait 90 mètres de haut, ce qui est à peu près la limite pour une construction en briques.
 
-[https://www.nationalgeographic.f...](https://www.nationalgeographic.fr/histoire/2021-08/mythe-tour-de-babel-ce-que-revele-archeologie)
+[https://www.nationalgeographic.f...](https://web.archive.org/web/20220629025910/https://www.nationalgeographic.fr/histoire/2021-08/mythe-tour-de-babel-ce-que-revele-archeologie)
 
-A Genève on a la grande tour de la [Cité du Lignon](https://www.lignon.ch/fr/historique) construite en 1963 qui fait cette hauteur là.
+A Genève on a la grande tour de la [Cité du Lignon](https://web.archive.org/web/20230319060347/https://www.lignon.ch/fr/historique) construite en 1963 qui fait cette hauteur là.
 
 ![](./images/qimg-372dfb384d3b1db1291cd35789e50b14.jpg)
 

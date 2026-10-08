@@ -25,13 +25,13 @@ Comme ils le disent:
 
 Malheureusement comme BFM n'a pas la rigueur de citer ses sources clairement, je n'ai pas retrouvé le rapport en question. J'ai cru que c'était dans
 
-[https://www.oecd-ilibrary.org/fr...](https://www.oecd-ilibrary.org/fr/employment/oecd-labour-force-statistics-2022_dc0c92f0-en)
+[https://www.oecd-ilibrary.org/fr...](https://web.archive.org/web/20230419/https://www.oecd-ilibrary.org/fr/employment/oecd-labour-force-statistics-2022_dc0c92f0-en)
 
 qui est plein de chiffres, mais pas celui là.
 
 et j'ai trouvé celui là qui date de 2019
 
-[https://oecdecoscope.blog/2019/0...](https://oecdecoscope.blog/2019/06/03/le-temps-de-travail-en-france-comment-expliquer-sa-faiblesse-relative/)
+[https://oecdecoscope.blog/2019/0...](https://web.archive.org/web/20230416192324/https://oecdecoscope.blog/2019/06/03/le-temps-de-travail-en-france-comment-expliquer-sa-faiblesse-relative/)
 
 qui ne mentionne pas ce chiffre, mais contient un petit paragraphe intéressant par les temps qui courent :
 

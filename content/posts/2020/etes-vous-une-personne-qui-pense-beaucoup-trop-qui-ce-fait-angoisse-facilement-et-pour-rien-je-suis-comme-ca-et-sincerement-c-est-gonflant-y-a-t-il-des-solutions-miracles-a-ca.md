@@ -20,4 +20,4 @@ Nous avez fait votre [profil MBTI](w:Myers_Briggs_Type_Indicator) ? si vous pens
 
 Donc voilà : faites le test, réalisez que vous fonctionnez d'une manière connue, partagée par environ 1/16ème de la population, et appuyez vous sur vos forces tout en étant conscient de vos points faibles.
 
-[Personnalités introverties, sensibles et créatives : apprenez à mieux vous connaître](https://medium.com/france/personnalités-introverties-sensibles-et-créatives-apprenez-à-mieux-vous-connaître-7a95e0a293bf)
+[Personnalités introverties, sensibles et créatives : apprenez à mieux vous connaître](https://web.archive.org/web/20191118072822/https://medium.com/france/personnalités-introverties-sensibles-et-créatives-apprenez-à-mieux-vous-connaître-7a95e0a293bf)

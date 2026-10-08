@@ -24,6 +24,6 @@ Les 382 kg de [Roche lunaire](w:) au total ramenés par les 6 missions Apollo on
 
 Notes de bas de page
 
-[[1]](#cite-FJZRR)[Sample Collection Tools](https://www.lpi.usra.edu/lunar/samples/apollo/tools/)
+[[1]](#cite-FJZRR)[Sample Collection Tools](https://web.archive.org/web/20190330064013/https://www.lpi.usra.edu/lunar/samples/apollo/tools/)
 
 [[2]](#cite-mDDqz)[Apollo 16 Stowage Locations](https://history.nasa.gov/afj/ap16fj/02stowage.html)

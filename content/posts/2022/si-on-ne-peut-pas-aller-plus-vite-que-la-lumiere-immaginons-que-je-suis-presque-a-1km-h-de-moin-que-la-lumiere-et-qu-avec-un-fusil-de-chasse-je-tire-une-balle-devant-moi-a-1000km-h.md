@@ -19,4 +19,4 @@ La raison est que les vitesses ne s'additionnent pas mais se "[composent](https:
 
 $v_{total}=\frac{v_1+v_2}{1+v_1v_2/c^2}$
 
-(calcul avec [Special relativity (composition of velocities) Calculator](https://keisan.casio.com/exec/system/1224060487) )
+(calcul avec [Special relativity (composition of velocities) Calculator](https://web.archive.org/web/20220709160032/https://keisan.casio.com/exec/system/1224060487) )

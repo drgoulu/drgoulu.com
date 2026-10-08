@@ -15,7 +15,7 @@ Ce n'est pas du tout ce qu'a prétendu S.J. Gould*
 
 Sa théorie de l'[Équilibre ponctué](w:)est souvent [mal comprise, voire détournée](w:Équilibre_ponctué), notamment par des créationnistes, donc prudence, prudence, et prudence…
 
-Cet article me semble une très bonne vulgarisation de l'apport de Gould : [Evolution des espèces : Gould avait-il raison ?](https://www.rtflash.fr/evolution-especes-gould-avait-il-raison/article)
+Cet article me semble une très bonne vulgarisation de l'apport de Gould : [Evolution des espèces : Gould avait-il raison ?](https://web.archive.org/web/20221004105131/https://www.rtflash.fr/evolution-especes-gould-avait-il-raison/article)
 
 On y lit notamment:
 

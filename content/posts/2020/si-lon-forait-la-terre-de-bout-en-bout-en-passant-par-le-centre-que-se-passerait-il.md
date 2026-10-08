@@ -25,4 +25,4 @@ Ce qui est surprenant, c'est que
 1. le calcul ne dépend pas de g ni du rayon de la sphère, ni même de sa masse, mais seulement de sa densité. On traverserait en à peu près 42 minutes aussi n'importe quel astre rocheux comme la Lune par exemple. (42 est décidément une constante universelle…)
 2. Ce temps correspond exactement à celui que mettrait un satellite en orbite juste au niveau du sol pour rejoindre les deux extrémités. Petite vérification avec l'ISS en orbite basse juste au dessus du sol : elle met 90 minutes à faire un tour, 45 minutes pour le demi tour : bingo!
 
-[Period of oscillation through a hole in the earth](https://physics.stackexchange.com/questions/286710/period-of-oscillation-through-a-hole-in-the-earth)
+[Period of oscillation through a hole in the earth](https://web.archive.org/web/20210506160643/https://physics.stackexchange.com/questions/286710/period-of-oscillation-through-a-hole-in-the-earth)

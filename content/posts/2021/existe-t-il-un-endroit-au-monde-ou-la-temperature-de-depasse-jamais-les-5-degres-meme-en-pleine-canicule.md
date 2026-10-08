@@ -15,4 +15,4 @@ Les bases de l'Antarctique.
 
 A la base Vostok du pôle sud il fait très rarement plus de -20 degrés
 
-[https://www.wofrance.fr/weather/...](https://www.wofrance.fr/weather/maps/city?WMO=89606&CONT=aris&LAND=AC&ART=MAX&LEVEL=150)
+[https://www.wofrance.fr/weather/...](https://web.archive.org/web/20211224/https://www.wofrance.fr/weather/maps/city?WMO=89606&CONT=aris&LAND=AC&ART=MAX&LEVEL=150)

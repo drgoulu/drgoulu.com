@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Le temps est relatif, ça se montre avec des horloges atomiques dans un laboratoire.
 
-[Pair of aluminum atomic clocks reveal Einstein's relativity at a personal scale](https://phys.org/news/2010-09-pair-aluminum-atomic-clocks-reveal.html)
+[Pair of aluminum atomic clocks reveal Einstein's relativity at a personal scale](https://web.archive.org/web/20200202094918/https://phys.org/news/2010-09-pair-aluminum-atomic-clocks-reveal.html)

@@ -28,4 +28,4 @@ Notes de bas de page
 
 [[1]](#cite-nJnQW)[A test of general relativity using radio links with the Cassini spacecraft - Nature](https://www.nature.com/articles/nature01997)
 
-[[2]](#cite-Pozbg)[La Terre tourne et donne raison à Einstein](https://www.letemps.ch/terre-tourne-donne-raison-einstein)
+[[2]](#cite-Pozbg)[La Terre tourne et donne raison à Einstein](https://web.archive.org/web/20200922152529/https://www.letemps.ch/terre-tourne-donne-raison-einstein)

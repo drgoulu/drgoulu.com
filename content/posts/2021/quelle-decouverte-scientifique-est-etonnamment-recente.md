@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Le ptérosaure avait des os munis de rayons comme les roues de vélo :
 
-[https://www.sciencemag.org/news/...](https://www.sciencemag.org/news/2021/04/pterosaur-supported-its-giant-neck-bones-built-bicycle-wheels)
+[https://www.sciencemag.org/news/...](https://web.archive.org/web/20210416021620/https://www.sciencemag.org/news/2021/04/pterosaur-supported-its-giant-neck-bones-built-bicycle-wheels)
 
 c'est sorti hier.

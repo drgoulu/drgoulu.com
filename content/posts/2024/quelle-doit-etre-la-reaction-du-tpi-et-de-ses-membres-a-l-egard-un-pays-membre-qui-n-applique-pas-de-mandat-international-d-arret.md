@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Celle prévue par le Statut de Rome et appliquée dans des cas identiques comne celui d'[Omar el-Bechir](w:): une remontrance verbale…
 
-[https://www.france24.com/fr/euro...](https://www.france24.com/fr/europe/20240903-la-visite-de-vladimir-poutine-en-mongolie-un-pied-de-nez-lancé-à-la-cpi)
+[https://www.france24.com/fr/euro...](https://web.archive.org/web/20240905011622/https://www.france24.com/fr/europe/20240903-la-visite-de-vladimir-poutine-en-mongolie-un-pied-de-nez-lancé-à-la-cpi)
 
 Mais Omar el-Beshir a quand même été en prison, et il peut encore être transféré au TPI si on ne l'oublie pas.
 

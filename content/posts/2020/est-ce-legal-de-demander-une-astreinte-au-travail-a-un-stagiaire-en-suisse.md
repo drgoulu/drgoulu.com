@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Est-ce-l%C3%A9gal-de-demander-une-astreinte-au-travail-%C3%A0-un-stagiaire-en-Suisse/answer/Dr-Goulu)*
 
-[Accueillir un stagiaire dans son entreprise: ce qu’il faut savoir](https://www.kmu.admin.ch/kmu/fr/home/actuel/theme-du-mois/2015/accueillir-stagiaire-entreprise-savoir.html) :
+[Accueillir un stagiaire dans son entreprise: ce qu’il faut savoir](https://web.archive.org/web/20201027132444/https://www.kmu.admin.ch/kmu/fr/home/actuel/theme-du-mois/2015/accueillir-stagiaire-entreprise-savoir.html) :
 
 > Le problème majeur du stage est qu’aucune base légale ne le régit (…) La notion de stage n’est pas réglementée et englobe par ailleurs des réalités différentes.
 > (…)

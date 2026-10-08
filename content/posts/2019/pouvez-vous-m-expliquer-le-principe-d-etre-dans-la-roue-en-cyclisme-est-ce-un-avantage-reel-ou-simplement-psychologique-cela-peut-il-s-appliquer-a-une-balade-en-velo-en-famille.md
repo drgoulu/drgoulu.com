@@ -22,7 +22,7 @@ L'aérodynamique est complètement modifiée, car l'air derrière le cycliste es
 
 ![](./images/qimg-c93a4ffa022145666783bbc31e1e1ea7.jpg)
 
-(source et détails [Drafting - how far is close enough?](https://www.swissside.com/blogs/news/the-deal-with-drafting) )
+(source et détails [Drafting - how far is close enough?](https://web.archive.org/web/20190820163254/https://www.swissside.com/blogs/news/the-deal-with-drafting) )
 
 Ce fait est à la base de toute la stratégie des équipes cyclistes.
 

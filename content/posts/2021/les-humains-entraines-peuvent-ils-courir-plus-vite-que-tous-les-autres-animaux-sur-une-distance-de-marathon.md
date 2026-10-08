@@ -22,4 +22,4 @@ Une bonne façon de les motiver est de leur courir après avec une lance…
 
 En lisant [Chasse à l'épuisement — Wikipédia](w:Chasse_à_l'épuisement) je tombe sur "même au galop, peu d'animaux sont capables de suivre le peloton des meilleurs marathoniens" avec une référence :
 
-Lieberman, D. E., & Bramble, D. M. (2007). [The Evolution of Marathon Running](https://dash.harvard.edu/bitstream/handle/1/3716644/Lieberman_Marathon.pdf). *Sports Medicine*, *37*(4), 288–290.
+Lieberman, D. E., & Bramble, D. M. (2007). [The Evolution of Marathon Running](https://web.archive.org/web/20220519200353/https://dash.harvard.edu/bitstream/handle/1/3716644/Lieberman_Marathon.pdf). *Sports Medicine*, *37*(4), 288–290.

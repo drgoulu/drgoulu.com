@@ -13,7 +13,7 @@ coverImage: ./images/qimg-f4bad45184b678142864fc27f39f4967.jpg
 
 Le bourrage d'urnes lors des élections en Russie se détecte très facilement avec une méthode toute simple décrite dans cet article :
 
-Klimeka, P., Yegorovb, Y., Hanela, R., & Thurner, S. (2012). Statistical detection of systematic election irregularities. *Proceedings of the National Academy of Sciences of the United States of America*, *109*(41), 16469–16473. [doi/10.1073/pnas.1210722109](https://www.pnas.org/doi/full/10.1073/pnas.1210722109)
+Klimeka, P., Yegorovb, Y., Hanela, R., & Thurner, S. (2012). Statistical detection of systematic election irregularities. *Proceedings of the National Academy of Sciences of the United States of America*, *109*(41), 16469–16473. [doi/10.1073/pnas.1210722109](https://web.archive.org/web/20240101010810/https://www.pnas.org/doi/full/10.1073/pnas.1210722109)
 
 ![](./images/qimg-f4bad45184b678142864fc27f39f4967.jpg)
 

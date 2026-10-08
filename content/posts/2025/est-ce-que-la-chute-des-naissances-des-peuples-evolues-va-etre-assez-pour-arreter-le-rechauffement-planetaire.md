@@ -18,9 +18,9 @@ coverImage: ./images/qimg-04e26237633c60a9fd3459caf9a06534.png
 
 C'est quoi, les "peuples évolués" ?
 
-Si vous vouliez dire "développés" par rapport à "sous développés", il n'y a plus de fossé entre eux, comme le montre le regretté Hans Rosling dans la première de ses [géniales conférences au TED](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)
+Si vous vouliez dire "développés" par rapport à "sous développés", il n'y a plus de fossé entre eux, comme le montre le regretté Hans Rosling dans la première de ses [géniales conférences au TED](https://web.archive.org/web/20251215204530/https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)
 
-[https://www.ted.com/talks/hans_r...](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)
+[https://www.ted.com/talks/hans_r...](https://web.archive.org/web/20251215204530/https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)
 
 Mais ce n'est qu'un exemple des préjugés et misconceptions contre lesquels il s'est battu avec des arguments purement scientifiques. (faites les tests sur son site [Gapminder](https://www.gapminder.org) ! )
 

@@ -11,7 +11,7 @@ coverImage: ./images/qimg-dfb1e8048dcff5c2952a7e91acd2a9da.jpg
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Que-se-passerait-il-s-il-n-y-avait-plus-aucune-naissance-dans-le-monde-d%C3%A8s-demain-Quelles-seraient-les-cons%C3%A9quences/answer/Dr-Goulu)*
 
-Essayez vous-même sur le [Simulateur de population](https://www.ined.fr/_modules/SimulateurPopulation/?lang=fr) de l'INED !
+Essayez vous-même sur le [Simulateur de population](https://web.archive.org/web/20200621222206/https://www.ined.fr/_modules/SimulateurPopulation/?lang=fr) de l'INED !
 
 Au début on économise l'école, puis on se fait du souci pour les retraites, puis il n'y a plus de retraite du tout.
 

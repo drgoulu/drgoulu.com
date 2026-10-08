@@ -24,10 +24,10 @@ Comme on parle d''objets d'une dizaine de km de rayon, l'accélération de surfa
 
 Je viens de trouver
 
-Shapiro, S. L., & Teukolsky, S. A. (1980). [Gravitational collapse to neutron stars and black holes - Computer generation of spherical spacetimes](http://adsabs.harvard.edu/pdf/1980ApJ...235..199S). The Astrophysical Journal, 235, 199. [https://doi.org/10.1086/157625](https://doi.org/10.1086/157625)
+Shapiro, S. L., & Teukolsky, S. A. (1980). [Gravitational collapse to neutron stars and black holes - Computer generation of spherical spacetimes](http://adsabs.harvard.edu/pdf/1980ApJ...235..199S). The Astrophysical Journal, 235, 199. [https://doi.org/10.1086/157625](https://web.archive.org/web/20220221112739/https://doi.org/10.1086/157625)
 
 qui vous donnera les détails relativistes de ceci et
 
-Emparan, R., & Marín, D. (2020). [Precursory collapse in neutron star-black hole mergers](https://doi.org/10.1103/PhysRevD.102.024009). Physical Review D, 102(2).
+Emparan, R., & Marín, D. (2020). [Precursory collapse in neutron star-black hole mergers](https://web.archive.org/web/20220407233117/https://doi.org/10.1103/PhysRevD.102.024009). Physical Review D, 102(2).
 
 qui décrit l'apparition d'un horizon "souterrain" lors de la fusion de 2 étoiles à neutrons et

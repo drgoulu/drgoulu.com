@@ -22,4 +22,4 @@ Alors que les maladies et insectes continuent à évoluer, eux. Et ils s'adapten
 
 Depuis 2005, plusieurs insectes sont devenus résistants à l'insecticide produit par le mais Bt par exemple
 
-[Les insectes résistent de plus en plus aux OGM insecticides – Inf'OGM](https://www.infogm.org/5448-les-insectes-resistent-de-plus-en-plus-aux-ogm-insecticides)
+[Les insectes résistent de plus en plus aux OGM insecticides – Inf'OGM](https://web.archive.org/web/20210223214726/https://www.infogm.org/5448-les-insectes-resistent-de-plus-en-plus-aux-ogm-insecticides)

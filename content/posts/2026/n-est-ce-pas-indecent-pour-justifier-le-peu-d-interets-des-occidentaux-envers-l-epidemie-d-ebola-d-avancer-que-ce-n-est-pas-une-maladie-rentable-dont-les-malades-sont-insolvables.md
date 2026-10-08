@@ -15,6 +15,6 @@ Pourtant les "occidentaux" ont produit et distribué plusieurs [Vaccin contre le
 
 Les occidentaux travaillent d'arrache pied à développer un vaccin contre ce virus en utilisant la technologie des vaccins ARNm développée par les occidentaux pour sauver un maximum d'africains qui sont en vie grâce à la médecine occidentale.
 
-[https://www.journaldemontreal.co...](https://www.journaldemontreal.com/2026/05/19/le-nouvel-episode-debola-un-accelerateur-dans-la-quete-de-vaccins-contre-une-souche-rare)
+[https://www.journaldemontreal.co...](https://web.archive.org/web/20260521050046/https://www.journaldemontreal.com/2026/05/19/le-nouvel-episode-debola-un-accelerateur-dans-la-quete-de-vaccins-contre-une-souche-rare)
 
 Mais pour empêcher l'épidémie d'avancer, c'est très simple : les autorités locales doivent empêcher les déplacements et confiner les gens potentiellement infectés. Les occidentaux ne peuvent strictement pas faire ça sans être traités de néo colonialistes.

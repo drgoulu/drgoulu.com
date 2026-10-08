@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 1.14 fois plus.
 
-[PGJ - Planètes et Satellites](http://pgj.pagesperso-orange.fr/planetes/poids.htm)
+[PGJ - Planètes et Satellites](https://web.archive.org/web/20190923132552/http://pgj.pagesperso-orange.fr/planetes/poids.htm)

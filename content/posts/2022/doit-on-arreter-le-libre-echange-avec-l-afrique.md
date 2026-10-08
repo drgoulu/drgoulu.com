@@ -24,4 +24,4 @@ J'ai ramé pour trouver la liste française, noyée dans les sous-pages de [Cons
 
 Notes de bas de page
 
-[[1]](#cite-DUFnO)[Free trade partner of Switzerland](https://www.seco.admin.ch/seco/en/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/Freihandelsabkommen/partner_fha.html)
+[[1]](#cite-DUFnO)[Free trade partner of Switzerland](https://web.archive.org/web/20220702173233/https://www.seco.admin.ch/seco/en/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/Freihandelsabkommen/partner_fha.html)

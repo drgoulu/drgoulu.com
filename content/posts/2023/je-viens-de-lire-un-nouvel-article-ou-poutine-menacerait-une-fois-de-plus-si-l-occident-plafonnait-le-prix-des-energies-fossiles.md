@@ -19,4 +19,4 @@ Je ne sais pas comment ce prix à été déterminé, il correspond probablement 
 
 Notes de bas de page
 
-[[1]](#cite-jaRyk)[Voici comment fonctionne le plafond du prix du gaz à 180 euros par MWh](https://fr.italy24.press/trends/278536.html)
+[[1]](#cite-jaRyk)[Voici comment fonctionne le plafond du prix du gaz à 180 euros par MWh](https://web.archive.org/web/20230102/https://fr.italy24.press/trends/278536.html)

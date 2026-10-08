@@ -11,10 +11,10 @@ tags:
 coverImage: "./images/46724ecc797669780464d8588dadec24.jpg"
 ---
 
-Vu cette extraordinaire photo au milieu d'un [diaporama sur les destructions causées par le cyclone Ike](http://blogs.denverpost.com/captured/2008/09/16/after-ike/)  au Texas:
+Vu cette extraordinaire photo au milieu d'un [diaporama sur les destructions causées par le cyclone Ike](https://web.archive.org/web/20080922002624/http://blogs.denverpost.com/captured/2008/09/16/after-ike/)  au Texas:
 
-{{< figure src="./images/46724ecc797669780464d8588dadec24.jpg" alt="ikefish" caption="(AP Photo/Eric Gay)" link="http://blogs.denverpost.com/captured/2008/09/16/after-ike/" align="aligncenter" width="570" >}}
+{{< figure src="./images/46724ecc797669780464d8588dadec24.jpg" alt="ikefish" caption="(AP Photo/Eric Gay)" link="https://web.archive.org/web/20080922002624/http://blogs.denverpost.com/captured/2008/09/16/after-ike/" align="aligncenter" width="570" >}}
 
 Que dire de plus ?
 
-_edit du 23/9/2011 : retrouvé [la source](http://blogs.denverpost.com/captured/2008/09/16/after-ike/) grâce à [TinEye](http://tineye.com) et rendu à César_
+_edit du 23/9/2011 : retrouvé [la source](https://web.archive.org/web/20080922002624/http://blogs.denverpost.com/captured/2008/09/16/after-ike/) grâce à [TinEye](http://tineye.com) et rendu à César_

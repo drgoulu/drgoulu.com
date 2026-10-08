@@ -52,5 +52,5 @@ Note \* et ajout du 24.3.2014 : Science étonnante vient de publier "[Ondes grav
 
 1. <span id="ref-1"></span>[L'expérience EXPLORER](http://cds.cern.ch/record/43675?ln=fr), 2003, CERN-EX-0303017
 2. <span id="ref-2"></span>Eric Simon "[Découverte des Premières Ondes Gravitationnelles de l'Univers et Confirmation de l'Inflation](http://drericsimon.blogspot.ch/2014/03/decouverte-des-premieres-ondes.html) !", 18 mars 2014, ça se passe là haut
-3. <span id="ref-3"></span>Sébastien Bohler, "[Naissance de l’Univers: pourquoi la découverte des physiciens nous émerveille](http://www.scilogs.fr/l-actu-sur-le-divan/naissance-de-lunivers-pourquoi-la-decouverte-des-physiciens-nous-emerveille/)", 18 mars 2014, SciLogs
+3. <span id="ref-3"></span>Sébastien Bohler, "[Naissance de l’Univers: pourquoi la découverte des physiciens nous émerveille](https://web.archive.org/web/20140322025258/http://www.scilogs.fr/l-actu-sur-le-divan/naissance-de-lunivers-pourquoi-la-decouverte-des-physiciens-nous-emerveille/)", 18 mars 2014, SciLogs
 4. <span id="ref-4"></span>"[Six questions pour comprendre l’inflation (pas celle-là, l’autre)](http://www.sciencepresse.qc.ca/actualite/2014/03/17/six-questions-pour-comprendre-linflation-celle-lautre)",  17 mars 2014, Agence Science-Presse

@@ -15,6 +15,6 @@ Essayez vous-même !
 
 Vous pouvez jouer au jeu [Plague Inc](w:Plague_Inc). ou à ce petit simulateur en ligne tout simple et très intéressant:
 
-[http://www.shodor.org/featured/D...](http://www.shodor.org/featured/DiseaseModel/JavaScript)
+[http://www.shodor.org/featured/D...](https://web.archive.org/web/20200427111104/http://www.shodor.org/featured/DiseaseModel/JavaScript)
 
 Vous allez voir, ce n’est pas évident du tout. En fait c’est tellement contraire au mode de fonctionnement des épidémies que ce n’est pas possible.

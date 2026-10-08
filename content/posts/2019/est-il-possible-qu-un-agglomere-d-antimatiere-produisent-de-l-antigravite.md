@@ -15,4 +15,4 @@ En principe pas. L'antimatière à juste une charge électrique opposée à la m
 
 Certaines théories exotiques prévoient en effet que l'antimatière soit repoussée par la matière, et des expériences sont en cours notamment au CERN pour le vérifier. Les premiers résultats semblent montrer que non.
 
-[De nouvelles expériences sur la gravité au CERN](https://home.cern/fr/news/news/experiments/new-antimatter-gravity-experiments-begin-cern)
+[De nouvelles expériences sur la gravité au CERN](https://web.archive.org/web/20190923101212/https://home.cern/fr/news/news/experiments/new-antimatter-gravity-experiments-begin-cern)

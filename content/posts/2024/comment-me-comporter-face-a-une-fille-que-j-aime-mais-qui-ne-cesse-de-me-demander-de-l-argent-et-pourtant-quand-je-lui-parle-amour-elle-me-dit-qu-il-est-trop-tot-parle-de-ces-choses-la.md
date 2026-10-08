@@ -15,4 +15,4 @@ Vous l'avez déjà rencontrée dans la vraie vie, cette fille ?
 
 Sinon il y a de fortes chances que votre belle soit un brouteur d'Abidjan ou de Nairobi…
 
-[https://information.tv5monde.com...](https://information.tv5monde.com/afrique/en-cote-divoire-les-brouteurs-ces-pros-de-lescroquerie-sentimentale-sur-internet-31362)
+[https://information.tv5monde.com...](https://web.archive.org/web/20240617082515/https://information.tv5monde.com/afrique/en-cote-divoire-les-brouteurs-ces-pros-de-lescroquerie-sentimentale-sur-internet-31362)

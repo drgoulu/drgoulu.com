@@ -17,6 +17,6 @@ Vous en trouverez quelques unes dans
 
 Pour la liste complète
 
-[https://www.iucnredlist.org/sear...](https://www.iucnredlist.org/search/list)
+[https://www.iucnredlist.org/sear...](https://web.archive.org/web/20220121024457/https://www.iucnredlist.org/search/list)
 
 Il y a actuellement 1220 espèces "possibly extinct", donc dont on n'a plus vu de spécimen vivant depuis quelques années…

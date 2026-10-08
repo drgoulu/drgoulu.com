@@ -22,4 +22,4 @@ Aujourd'hui ce fossé n'existe plus. Il y a un continuum sur une trajectoire de 
 
 Voyez les fantastiques conférences de Hans Rosling sur ce sujet, par exemple celle-ci
 
-[https://www.ted.com/talks/hans_r...](https://www.ted.com/talks/hans_rosling_let_my_dataset_change_your_mindset?language=fr)
+[https://www.ted.com/talks/hans_r...](https://web.archive.org/web/20211007115604/https://www.ted.com/talks/hans_rosling_let_my_dataset_change_your_mindset?language=fr)

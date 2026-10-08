@@ -26,4 +26,4 @@ Le problème, c'est que ces graines sont un peu désagréables quand on mange de
 
 La reproduction des plants de Cavendish se fait par [Multiplication végétative](w:) uniquement : 95% de tous les bananiers cultivés dans le monde sont des clones…
 
-[Les origines préhistoriques du bananier - Extra ordinaire Banane](http://extraordinairebanane.fr/2018/10/17/prehistoire-du-bananier)
+[Les origines préhistoriques du bananier - Extra ordinaire Banane](https://web.archive.org/web/20210507215139/http://extraordinairebanane.fr/2018/10/17/prehistoire-du-bananier)

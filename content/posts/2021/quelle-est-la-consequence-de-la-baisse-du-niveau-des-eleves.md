@@ -34,7 +34,7 @@ Ca ça date de 1947, quand 3% des français avaient le bac…
 
 Bref, ça fait 4000 ans que le niveau scolaire baisse[[1]](#NJqFB) …
 
-Là où ça devient intéressant, c'est quand une étude comme [PIAAC](http://www.oecd.org/skills/piaac/)compare les scores par classes d'âge et qu'on s'aperçoit que dans tous les pays de l'OCDE sauf l'Angleterre (!!!), les jeunes (16–24 ans, triangles bleus dans la première colonne du graphique ci-dessous) font mieux que les 55–65 ans :
+Là où ça devient intéressant, c'est quand une étude comme [PIAAC](https://web.archive.org/web/20210303211333/http://www.oecd.org/skills/piaac/)compare les scores par classes d'âge et qu'on s'aperçoit que dans tous les pays de l'OCDE sauf l'Angleterre (!!!), les jeunes (16–24 ans, triangles bleus dans la première colonne du graphique ci-dessous) font mieux que les 55–65 ans :
 
 ![](./images/qimg-9835555a5952d0ce5915318bf49765d8.jpg)
 

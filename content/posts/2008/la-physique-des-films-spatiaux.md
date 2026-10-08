@@ -11,7 +11,7 @@ tags:
 coverImage: "./images/4632798e3c6dd52dbbfbe8ee82d85e7d1.gif"
 ---
 
-[Bad Astronomy](http://blogs.discovermagazine.com/badastronomy/) reprend un sujet du [blog de science fiction io9](http://io9.com/367792/bad-movie-physics-a-report-card) consacré à la physique dans les films dont l'action a lieu dans l'espace, illustré par ce tableau très incomplet des violations des lois de la physique commises dans chacun: (cliquer dessus pour l'agrandir)
+[Bad Astronomy](https://web.archive.org/web/20080702175758/http://blogs.discovermagazine.com/badastronomy/) reprend un sujet du [blog de science fiction io9](http://io9.com/367792/bad-movie-physics-a-report-card) consacré à la physique dans les films dont l'action a lieu dans l'espace, illustré par ce tableau très incomplet des violations des lois de la physique commises dans chacun: (cliquer dessus pour l'agrandir)
 
 [![](./images/4632798e3c6dd52dbbfbe8ee82d85e7d.gif)](./images/4632798e3c6dd52dbbfbe8ee82d85e7d.gif)
 

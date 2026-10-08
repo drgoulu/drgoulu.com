@@ -7,4 +7,4 @@ tags:
   - "politique"
 ---
 
-[liste sur Amazon](http://www.amazon.fr/gp/richpub/listmania/fullview/R2VOX2C73MHS5U)
+[liste sur Amazon](https://web.archive.org/web/20050730/http://www.amazon.fr/gp/richpub/listmania/fullview/R2VOX2C73MHS5U)

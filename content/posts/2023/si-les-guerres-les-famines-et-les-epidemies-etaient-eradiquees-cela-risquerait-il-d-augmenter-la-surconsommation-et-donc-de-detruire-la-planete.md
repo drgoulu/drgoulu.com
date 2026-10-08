@@ -38,9 +38,9 @@ Elle s'est produite en Europe, puis en Asie et en Amérique du Sud, et maintenan
 
 ![](./images/qimg-c68f7e6230693c373bef9f1648e76b07.png)
 
-Si vous voulez bien comprendre la démographie, je vous conseille les géniale conférences de [Hans Rosling au TED](https://www.ted.com/speakers/hans_rosling) .
+Si vous voulez bien comprendre la démographie, je vous conseille les géniale conférences de [Hans Rosling au TED](https://web.archive.org/web/20230706062828/https://www.ted.com/speakers/hans_rosling) .
 
-Sur la transition démographique il y a "[Religions et Bébés](https://www.ted.com/talks/hans_rosling_religions_and_babies)" qui montre que nous serons 10 milliards non pas par l'arrivée de plus d'enfants, mais par allongement de l'espérance de vie, et sur les conséquences sur l'économie il y a "[Croissance de la population boîte par boîte](https://www.ted.com/talks/hans_rosling_global_population_growth_box_by_box?language=fr)"
+Sur la transition démographique il y a "[Religions et Bébés](https://web.archive.org/web/20230617155638/https://www.ted.com/talks/hans_rosling_religions_and_babies)" qui montre que nous serons 10 milliards non pas par l'arrivée de plus d'enfants, mais par allongement de l'espérance de vie, et sur les conséquences sur l'économie il y a "[Croissance de la population boîte par boîte](https://web.archive.org/web/20230715025513/https://www.ted.com/talks/hans_rosling_global_population_growth_box_by_box?language=fr)"
 
 Notes de bas de page
 

@@ -20,6 +20,6 @@ La [Théorie du pétrole abiotique](w:)est assez ancienne (1950) et a (eu) surto
 >
 > Bien que l'on ait pu montrer la formation abiogénique de méthane et de gaz [hydrocarbonés](w:Hydrocarbure) dans les profondeurs terrestres, les publications sur le sujet indiquent qu'il ne s'agit pas là de quantités commercialement significatives (c'est-à-dire un contenu abiogénique médian d'environ 0,02 % dans les hydrocarbures extraits)
 
-Les deux variantes de cette théorie ont été revues et sont considérées comme invalides pour différentes raisons (voir [Abiogenic Origin of Hydrocarbons: An Historical Overview](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-3928.2006.tb00271.x))
+Les deux variantes de cette théorie ont été revues et sont considérées comme invalides pour différentes raisons (voir [Abiogenic Origin of Hydrocarbons: An Historical Overview](https://web.archive.org/web/20201114001932/https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-3928.2006.tb00271.x))
 
 Notez que ces théories ne concernent pas le charbon, où les structures végétales sont souvent visibles.

@@ -16,7 +16,7 @@ _Réponse publiée_ [_sur Quora_](https://fr.quora.com/Comment-gagner-100-Par-mo
 
 100$ par mois ? C'est ridiculement bas, un business rentable doit vous rapporter au moins 100 fois plus, sinon c'est de la mendicité, pas un business !
 
-Je n'exagère pas [Mendier c'est 90, 110 ou 150€ par jour](https://www.sudinfo.be/art/109463/article/2017-08-02/mendier-90-110-ou-150eu-par-jour) dans une ville européenne.
+Je n'exagère pas [Mendier c'est 90, 110 ou 150€ par jour](https://web.archive.org/web/20260614/https://www.sudinfo.be/art/109463/article/2017-08-02/mendier-90-110-ou-150eu-par-jour) dans une ville européenne.
 
 J'ai déjà raconté l'histoire d'un pote de formation en création d'entreprise qui ne voulait pas dire quel était son projet. Nous on était tous dans la tech, et lui parlait d'import export.
 

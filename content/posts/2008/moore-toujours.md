@@ -18,7 +18,7 @@ Le premier ordinateur capable d'effectuer un million de milliards d'opérations 
 
 D'après les mesures de [top500.org](http://top500.org) qui répertorie les 500 plus puissants ordinateurs de la planète, leur puissance augmente avec une régularité de métronome depuis plus de 30 ans, décuplant en 4 ans, donc doublant en un peu moins de 18 mois.
 
-[![](./images/e13dd24ba9ad412b3935dcb0b98cb2a4.jpg)](http://dit-archives.epfl.ch/FI94/6-94-page15.html)En ce qui me concerne, c'est assez facile de me représenter cette fantastique croissance : mon PC de bureau actuel correspond assez bien au [Cray XMP installé à l'EPFL](http://dit-archives.epfl.ch/FI94/6-94-page15.html) alors que j'y étudiais en 1986. A l'époque c'était un honneur assez étroitement surveillé d'avoir le droit de faire tourner un programme dessus. Maintenant, il sert de siège dans un couloir.
+[![](./images/e13dd24ba9ad412b3935dcb0b98cb2a4.jpg)](http://dit-archives.epfl.ch/FI94/6-94-page15.html)En ce qui me concerne, c'est assez facile de me représenter cette fantastique croissance : mon PC de bureau actuel correspond assez bien au [Cray XMP installé à l'EPFL](https://web.archive.org/web/20150608112003/http://dit-archives.epfl.ch/FI94/6-94-page15.html) alors que j'y étudiais en 1986. A l'époque c'était un honneur assez étroitement surveillé d'avoir le droit de faire tourner un programme dessus. Maintenant, il sert de siège dans un couloir.
 
 Selon top500.org et d'autres sources, la progression devrait se poursuivre en tout cas encore une décennie : on devrait avoir un ordinateur de 10 pétaflops en 2012 et un de 100 en 2016, en attendant un "roadrunner de bureau" aux alentours de 2028.
 
@@ -70,7 +70,7 @@ Depuis quelques années on assiste à [la montée en puissance des GPUs](/2007/
 
 Jusqu'à récemment, l'architecture des GPU était uniquement destinée à la production d'images de scènes 3D en temps réel. Mais désormais ces processeurs peuvent être utilisés pour le calcul scientifique, la simulation de phénomènes physiques et d'autres applications exigeant une grosse puissance de calcul (voir mon blog [www.3dmon.com](http://3dmon.wordpress.com) à ce sujet)
 
-nVidia vient de [présenter son processeur GTX 280](http://www.silicon.fr/fr/news/2008/06/16/nvidia_devoile_la_gamme_geforce_gtx_200_), doté de 1.4 milliards de transistors qui réalisent 240 coeurs fournissant 930 Gigaflops : l'ordinateur le plus puissant du monde de1992 est maintenant dans votre carte graphique !
+nVidia vient de [présenter son processeur GTX 280](https://web.archive.org/web/20080619175853/http://www.silicon.fr/fr/news/2008/06/16/nvidia_devoile_la_gamme_geforce_gtx_200_), doté de 1.4 milliards de transistors qui réalisent 240 coeurs fournissant 930 Gigaflops : l'ordinateur le plus puissant du monde de1992 est maintenant dans votre carte graphique !
 
 Les GPU ne sont cependant pas (encore?) capable de faire fonctionner des programmes "normaux" : il faut toujours un CPU pour faire tourner un système d'exploitation, Word, Firefox 3 et quelques autres logiciels simultanément, ce qui justifie 2 voire 4 coeurs, mais probablement pas 6 ou 8.
 
@@ -92,6 +92,6 @@ On estime que la puissance d'un cerveau humain équivaut à 10 Petaflops, soit l
 
 1. <span id="ref-1"></span>[Loi de Moore sur le site d'intel](http://www.intel.com/technology/mooreslaw/index.htm) avec
     1. "[Moore optimistic on Moore's Law](http://www.intel.com/technology/silicon/mooreslaw/eml02031.htm?iid=tech_mooreslaw+body_optimistic)"
-    2. [ce beau poster](http://download.intel.com/pressroom/kits/events/moores_law_40th/MLTimeline.pdf)
+    2. [ce beau poster](https://web.archive.org/web/20080317055757/http://download.intel.com/pressroom/kits/events/moores_law_40th/MLTimeline.pdf)
 2. <span id="ref-2"></span>"[nVidia CUDA : la fin des CPU ?](http://www.presence-pc.com/tests/CUDA-CPU-GPU-22788/)" sur Tom's Hardware
-3. <span id="ref-3"></span>Jean-Michel Billaut "[Une intelligence non biologique ?](http://billaut.typepad.com/jm/2005/10/une_intelligenc.html)"
+3. <span id="ref-3"></span>Jean-Michel Billaut "[Une intelligence non biologique ?](https://web.archive.org/web/20071119024724/http://billaut.typepad.com/jm/2005/10/une_intelligenc.html)"

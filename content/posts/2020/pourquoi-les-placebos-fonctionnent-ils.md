@@ -28,6 +28,6 @@ C'est maintenant enseigné en médecine [[2]](#otCoK)
 
 Notes de bas de page
 
-[[1]](#cite-IIqDX)[Placebo and Opioid Analgesia-- Imaging a Shared Neuronal Network](https://science.sciencemag.org/content/295/5560/1737.full)
+[[1]](#cite-IIqDX)[Placebo and Opioid Analgesia-- Imaging a Shared Neuronal Network](https://web.archive.org/web/20191208050005/https://science.sciencemag.org/content/295/5560/1737.full)
 
-[[2]](#cite-otCoK)[Module 2 - Bases neurophysiologiques - Perception](http://uriic.uqat.ca/cours/Module2/1.3.html)
+[[2]](#cite-otCoK)[Module 2 - Bases neurophysiologiques - Perception](https://web.archive.org/web/20190915022832/http://uriic.uqat.ca/cours/Module2/1.3.html)

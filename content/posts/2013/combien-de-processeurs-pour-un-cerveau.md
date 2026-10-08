@@ -14,7 +14,7 @@ tags:
 coverImage: "./images/6ea028259540cc1ff30e911eaa6eb4db.jpg"
 ---
 
-_(article publié dans le cadre de la [semaine thématique du C@fé des Sciences sur Le Cerveau](http://thema.cafe-sciences.org/articles/category/le-cerveau/))_
+_(article publié dans le cadre de la [semaine thématique du C@fé des Sciences sur Le Cerveau](https://web.archive.org/web/20130505115349/http://thema.cafe-sciences.org/articles/category/le-cerveau/))_
 
 Lancé par [une équipe de l'EPFL](http://bluebrain.epfl.ch/) dirigée par [Henry Markram](http://people.epfl.ch/henry.markram), le "[Human Brain Project](http://www.humanbrainproject.eu/)" (HBP) vise à simuler un cerveau humain dans un superordinateur d'ici dix ans. Cet objectif extrêmement ambitieux a paru suffisamment réaliste à l'Union Européenne pour consacrer 1 milliard d'Euro à ce projet mêlant neurosciences et informatique.
 
@@ -30,11 +30,11 @@ Les modèles actuels de neurones isolés sont beaucoup plus complexes et incorpo
 - à un PC [Pentium III](w:) de 1999
 - ([presque](http://www.walkingrandomly.com/?p=3079)) un bon smartphone actuel
 
-Depuis 2006, le [projet "Blue Brain"](http://www.artificialbrains.com/blue-brain-project) de Markram a simulé non seulement le fonctionnement, mais aussi la croissance d'une [colonne néocorticale](w:néocortex) (NCC), une structure d'environ 1mm³ comprenant environ 10'000 neurones fortement interconnectés, répartis sur 6 couches. Un superordinateur [BlueGene](w:) doté de 8192 processeurs pour un total d'environ 20 TeraFLOPS a été utilisé, ce qui fonde l'hypothèse de l'équipe selon laquelle la puissance et la mémoire nécessaires à la simulation augmentent linéairement avec le nombre de neurones, et heureusement pas avec le nombre de [synapses](w:synapse) par exemple.
+Depuis 2006, le [projet "Blue Brain"](https://web.archive.org/web/20121228223339/http://www.artificialbrains.com/blue-brain-project) de Markram a simulé non seulement le fonctionnement, mais aussi la croissance d'une [colonne néocorticale](w:néocortex) (NCC), une structure d'environ 1mm³ comprenant environ 10'000 neurones fortement interconnectés, répartis sur 6 couches. Un superordinateur [BlueGene](w:) doté de 8192 processeurs pour un total d'environ 20 TeraFLOPS a été utilisé, ce qui fonde l'hypothèse de l'équipe selon laquelle la puissance et la mémoire nécessaires à la simulation augmentent linéairement avec le nombre de neurones, et heureusement pas avec le nombre de [synapses](w:synapse) par exemple.
 
 ![](./images/6ea028259540cc1ff30e911eaa6eb4db.jpg)En extrapolant cette tendance linéaire, Markram estime qu'un ordinateur d'1 ExaFLOPS (un milliard de milliards d'opérations par seconde) doté de 100 PetaBytes de mémoire devrait être capable de simuler un cerveau humain contenant 100 milliards de neurones environ. Et en extrapolant aussi la [remarquablement exponentielle loi de Moore](/2008/06/19/moore-toujours/), un tel superordinateur sera disponible en 2018.
 
-D'autres [projets de cerveaux artificiels](http://www.artificialbrains.com/) comme [Synapse](http://www.artificialbrains.com/darpa-synapse-program) [[7]](#ref-7), [Spaun](http://www.artificialbrains.com/spaun) [[8]](#ref-8) ou même [SpikeFun](http://www.artificialbrains.com/spikefun) qui simule 32'000 neurones sur votre PC confirment grosso-modo ces ordres de grandeur.
+D'autres [projets de cerveaux artificiels](http://www.artificialbrains.com/) comme [Synapse](https://web.archive.org/web/20130401160816/http://www.artificialbrains.com/darpa-synapse-program) [[7]](#ref-7), [Spaun](https://web.archive.org/web/20130125032539/http://www.artificialbrains.com/spaun) [[8]](#ref-8) ou même [SpikeFun](https://web.archive.org/web/20130224081859/http://www.artificialbrains.com/spikefun) qui simule 32'000 neurones sur votre PC confirment grosso-modo ces ordres de grandeur.
 
 {{< figure src="./images/3a2b6cf709d6fff3b048cdf55a897882.png" alt="Performance du plus puissant ordinateur (en rouge) au cours du temps selon top500.org" caption="Performance du plus puissant ordinateur (en rouge) au cours du temps selon top500.org" link="http://top500.org/statistics/perfdevel/" align="aligncenter" width="600" >}}
 
@@ -52,19 +52,19 @@ Si des appareils d'imagerie médicale devenaient capables de capturer les quelqu
 
  
 
-{{< figure src="./images/Dessin-Human-Brain-2.jpg" alt="Dessin Human Brain-2" caption="dessin: Arnaud Rafaelian, membre de Strip-Science (cliquer)" link="http://stripscience.cafe-sciences.org/articles/author/arnaudrafaelian/" align="aligncenter" width="640" >}}
+{{< figure src="./images/Dessin-Human-Brain-2.jpg" alt="Dessin Human Brain-2" caption="dessin: Arnaud Rafaelian, membre de Strip-Science (cliquer)" link="https://web.archive.org/web/20130401163740/http://stripscience.cafe-sciences.org/articles/author/arnaudrafaelian/" align="aligncenter" width="640" >}}
 
 En attendant, il y a toujours moyen de fabriquer un cerveau humain parfaitement fonctionnel, indépendant et consommant peu d'énergie électrique en quelques minutes de conception, 9 mois de montage et quelques années de programmation ...
 
 ### Références:
 
-1. <span id="ref-1"></span>Henry Markram "[Human brain project : simuler le cerveau humain](http://www.pourlascience.fr/ewb_pages/f/fiche-article-human-brain-project-simuler-le-cerveau-humain-31108.php)", Pour la Science N°425, mars 2013
+1. <span id="ref-1"></span>Henry Markram "[Human brain project : simuler le cerveau humain](https://web.archive.org/web/20130603124723/http://www.pourlascience.fr/ewb_pages/f/fiche-article-human-brain-project-simuler-le-cerveau-humain-31108.php)", Pour la Science N°425, mars 2013
 2. <span id="ref-2"></span>Lettvin, J.Y., Maturana, H.R., McCulloch, W.S., & Pitts, W.H. "[What the Frog's Eye Tells the Frog's Brain](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.4995&rep=rep1&type=pdf)" , 1959 ; Proceedings of the IRE, Vol. 47, No. 11, pp. 1940-51.
-3. <span id="ref-3"></span>Marco A. Herrera Valdez, [Erin McKiernan](http://emckiernan.wordpress.com/), Sandra D. Berger, Stefanie Ryglewski, Carsten Duch, Sharon Crook "[Relating ion channel expression, bifurcation structure, and diverse firing patterns in a model of an identified motor neuron](http://dx.doi.org/10.6084/m9.figshare.96546)"  Journal of Computational Neuroscience August 2012, [DOI10.1007/s10827-012-0416-6](http://dx.doi.org/10.1007/s10827-012-0416-6)
+3. <span id="ref-3"></span>Marco A. Herrera Valdez, [Erin McKiernan](https://web.archive.org/web/20130113081859/http://emckiernan.wordpress.com/), Sandra D. Berger, Stefanie Ryglewski, Carsten Duch, Sharon Crook "[Relating ion channel expression, bifurcation structure, and diverse firing patterns in a model of an identified motor neuron](http://dx.doi.org/10.6084/m9.figshare.96546)"  Journal of Computational Neuroscience August 2012, [DOI10.1007/s10827-012-0416-6](https://web.archive.org/web/20140130055447/http://dx.doi.org/10.1007/s10827-012-0416-6)
 4. <span id="ref-4"></span>Henry Markram "Keynote lecture at Neuroinformatics 2008 in Stockholm, Sweden" ([video](http://www.youtube.com/watch?v=8iDR8Z-e_GU))
-5. <span id="ref-5"></span>Christian Clemençon "[Presentation Cadmos](http://bluegene.epfl.ch/Presentations/Cadmos_Pres_Clemencon_24sep.pdf)", EPFL, 2009
+5. <span id="ref-5"></span>Christian Clemençon "[Presentation Cadmos](https://web.archive.org/web/20140816133505/http://bluegene.epfl.ch/Presentations/Cadmos_Pres_Clemencon_24sep.pdf)", EPFL, 2009
 6. <span id="ref-6"></span>Nicolas Rougier "[À propos de la modélisation du cerveau](http://interstices.info/jcms/nn_72250/a-propos-de-la-modelisation-du-cerveau) ", interstices, 2013 (audio 13:22).
-7. <span id="ref-7"></span>"[IBM simulates 530 billion neurons, 100 trillion synapses on supercomputer](http://www.kurzweilai.net/ibm-simulates-530-billon-neurons-100-trillion-synapses-on-worlds-fastest-supercomputer)", Kurzweil AI, 2012
+7. <span id="ref-7"></span>"[IBM simulates 530 billion neurons, 100 trillion synapses on supercomputer](https://web.archive.org/web/20121129231327/http://www.kurzweilai.net/ibm-simulates-530-billon-neurons-100-trillion-synapses-on-worlds-fastest-supercomputer)", Kurzweil AI, 2012
 8. <span id="ref-8"></span>Ed Yong, "[Simulated brain scores top test marks](http://www.nature.com/news/simulated-brain-scores-top-test-marks-1.11914)", Nature, 2012
 9. <span id="ref-9"></span>Ed Yong "[Will we ever… simulate the human brain?](http://www.bbc.com/future/story/20130207-will-we-ever-simulate-the-brain) " BBC Future, 8 février 2013
 10. <span id="ref-10"></span>{{< openbook booknumber="ISBN:9780670025299" templatenumber="5" >}} ([résumé détaillé en anglais](http://newbooksinbrief.com/2012/11/27/25-a-summary-of-how-to-create-a-mind-the-secret-of-human-thought-revealed-by-ray-kurzweil/))

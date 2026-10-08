@@ -25,6 +25,6 @@ Non. Einstein a "juste" écrit les équations (différentielles aux dérivées p
 
 Notes de bas de page
 
-[[1]](#cite-NmcsJ)[Did Einstein Prematurely Reject Gödel’s Universe?](https://www.wondriumdaily.com/did-einstein-prematurely-reject-godels-universe/)
+[[1]](#cite-NmcsJ)[Did Einstein Prematurely Reject Gödel’s Universe?](https://web.archive.org/web/20221004132611/https://www.wondriumdaily.com/did-einstein-prematurely-reject-godels-universe/)
 
 [[2]](#cite-rMGjh)[Einstein et les ondes gravitationnelles - Pourquoi Comment Combien](https://www.drgoulu.com/2016/02/14/einstein-et-les-ondes-gravitationnelles/#.YwP4t3aiGCo)

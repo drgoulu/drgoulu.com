@@ -30,4 +30,4 @@ Non, elle est négligeable
 >
 >
 >
-> [Ressources scientifiques pour l'enseignement des sciences de la Terre](https://planet-terre.ens-lyon.fr/) ENS Lyon
+> [Ressources scientifiques pour l'enseignement des sciences de la Terre](https://web.archive.org/web/20201115042526/https://planet-terre.ens-lyon.fr/) ENS Lyon

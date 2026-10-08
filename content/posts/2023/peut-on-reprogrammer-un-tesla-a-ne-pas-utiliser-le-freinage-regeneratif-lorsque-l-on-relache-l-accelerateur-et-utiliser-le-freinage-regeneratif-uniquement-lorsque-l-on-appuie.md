@@ -18,6 +18,6 @@ Je m'avance peut-être mais je suis persuadé qu'il y a une règlementation nati
 1. rend obligatoire la présence d'un frein mécanique actionné par un pédale destinée à cet usage
 2. interdit de considérer le frein moteur du véhicule comme un frein. Parce que si c'est permis pour un véhicule électrique, on pourrait aussi le faire dans une voiture thermique à boite automatique en rétrogradant automatiquement, par exemple…
 
-En fait un véhicule électrique pourrait probablement freiner très fort sans frein mécanique, en dissipant le courant excédant le courant de charge dans une [résistance de freinage](https://www.se.com/fr/fr/faqs/FA28542/) comme on en utilise dans les machines.
+En fait un véhicule électrique pourrait probablement freiner très fort sans frein mécanique, en dissipant le courant excédant le courant de charge dans une [résistance de freinage](https://web.archive.org/web/20230702/https://www.se.com/fr/fr/faqs/FA28542/) comme on en utilise dans les machines.
 
 Donc vous pouvez écrire à vos députés pour changer la loi, et re-homologuer votre voiture après…

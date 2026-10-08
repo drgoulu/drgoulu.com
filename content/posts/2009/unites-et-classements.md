@@ -13,7 +13,7 @@ tags:
 coverImage: "./images/1eb17d17e585d41b1611c3e925e355de.jpg"
 ---
 
-{{< figure src="./images/1eb17d17e585d41b1611c3e925e355de.jpg" alt="Etranger, si tu ne sais pas additionner des pommes et des choux, passe ton chemin..." caption="Etranger, si tu ne sais pas additionner des pommes et des choux, passe ton chemin..." link="http://en.wikipedia.org/wiki/New_Cuyama,_California" width="255" >}}
+{{< figure src="./images/1eb17d17e585d41b1611c3e925e355de.jpg" alt="Etranger, si tu ne sais pas additionner des pommes et des choux, passe ton chemin..." caption="Etranger, si tu ne sais pas additionner des pommes et des choux, passe ton chemin..." link="https://web.archive.org/web/20090303103611/http://en.wikipedia.org/wiki/New_Cuyama,_California" width="255" >}}
 
 En maths "pures", un nombre est "pur" aussi. Ce sont les marchands et les physiciens qui ont inventé les unités pour des besoins d'application : 3 pommes ne sont pas égales à 3 vaches, et 3 kilos pas égaux à 3 mètres
 
@@ -36,11 +36,11 @@ En fin de compte, l'IDH est un nombre compris entre 0 et 1,  avec la Norvège (
 
 ### La compétitivité selon l'IMD
 
-Examinons maintenant le tout récent [classement de la compétitivité](http://www.imd.org/research/publications/wcy/upload/scoreboard.pdf) de 57 pays [réalisé par l'IMD](http://www.imd.org/research/publications/wcy/index.cfm). Pour l'établir, l'IMD combine [329 critères](http://www.imd.org/research/publications/wcy/Factors_and_criteria.cfm) grâce à autant de facteurs de conversion. Je n'ai pas trouvé leur valeurs, probablement jalousement gardées par les spécialistes de l'IMD qui les ont finement ajustés pour traduire en chiffres ce qu'ils appellent la  "compétitivité".
+Examinons maintenant le tout récent [classement de la compétitivité](https://web.archive.org/web/20101214114750/http://www.imd.org/research/publications/wcy/upload/scoreboard.pdf) de 57 pays [réalisé par l'IMD](https://web.archive.org/web/20100821100051/http://www.imd.org/research/publications/wcy/index.cfm). Pour l'établir, l'IMD combine [329 critères](https://web.archive.org/web/20101230034449/http://www.imd.org/research/publications/wcy/Factors_and_criteria.cfm) grâce à autant de facteurs de conversion. Je n'ai pas trouvé leur valeurs, probablement jalousement gardées par les spécialistes de l'IMD qui les ont finement ajustés pour traduire en chiffres ce qu'ils appellent la  "compétitivité".
 
 J'ai cependant quelques soupçons sur la manière dont ce classement" est établi, par le fait que les USA sont perpétuellement classés No 1 de la compétitivité avec 100 points selon l'IMD. (Pourtant ils se cantonnent autour de la 15ème place de l'IDH, donc à quoi bon être compétitif  ?)
 
-D'une part certains [critères](http://www.imd.org/research/publications/wcy/upload/All_criteria_list.pdf) choisis sont des valeurs absolues (1.1.01 Gross domestic product (GDP), 4.1.01 Land area, 4.1.23 Total final energy consumption et d'autres )  qui favorisent directement les grands pays ( à moins que le facteur associé ne soit négatif ...)
+D'une part certains [critères](https://web.archive.org/web/20110515194259/http://www.imd.org/research/publications/wcy/upload/All_criteria_list.pdf) choisis sont des valeurs absolues (1.1.01 Gross domestic product (GDP), 4.1.01 Land area, 4.1.23 Total final energy consumption et d'autres )  qui favorisent directement les grands pays ( à moins que le facteur associé ne soit négatif ...)
 
 Beaucoup de ces critères absolus figurent aussi sous forme relative, par habitant, ce qui est une manière masquée de tenir compte de la population. Si un critère absolu vaut X est multiplié par le facteur A et que le critère relatif X/H où H est la population du pays est multiplié par le facteur B, alors on a
 

@@ -13,11 +13,11 @@ coverImage: ./images/quora.png
 
 Parce que
 
-[https://jamanetwork.com/journals...](https://jamanetwork.com/journals/jama/fullarticle/2794775)
+[https://jamanetwork.com/journals...](https://web.archive.org/web/20220919171541/https://jamanetwork.com/journals/jama/fullarticle/2794775)
 
 a montré une augmentation significative (33% !) de la mortalité à l'accouchement avant que les vaccins soient disponibles alors que
 
-[https://www.thelancet.com/articl...](https://www.thelancet.com/article/S1473-3099(22)00426-1/fulltext)
+[https://www.thelancet.com/articl...](https://web.archive.org/web/20230118/https://www.thelancet.com/article/S1473-3099(22)00426-1/fulltext)
 
 et d'autres ont montré que les centaines de milliers de femmes enceintes vaccinées lors de la phase III n'ont pas souffert de problèmes particuliers, ni leurs enfants nés depuis.
 

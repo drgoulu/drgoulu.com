@@ -19,7 +19,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Do%C3%B9-vient-la-phrase-ce-nest-pas-un-bug-mais-une-fonctionnalit%C3%A9-Je-lai-d%C3%A9couverte-en-regardant-la-s%C3%A9rie-Silicon-Valley-mais-est-elle-plus-ancienne-que-%C3%A7a/answer/Dr-Goulu)*
 
-The Jargon File définit [feature](http://catb.org/jargon/html/F/feature.html) (fonctionnalité) depuis 1975[[1]](#QrhRe) ainsi :
+The Jargon File définit [feature](https://web.archive.org/web/20200115173516/http://catb.org/jargon/html/F/feature.html) (fonctionnalité) depuis 1975[[1]](#QrhRe) ainsi :
 
 > Bug qui a été documenté. Appeler quelque chose "fonctionnalité" signifie parfois que l'auteur du programme n'a pas pris en compte le cas particulier et que le programme a répondu d'une manière inattendue mais pas strictement incorrecte. Une plaisanterie standard est qu'un bug peut être transformé en fonctionnalité simplement en le documentant (ainsi théoriquement personne ne peut s'en plaindre car il est dans le manuel), ou même en le déclarant simplement comme correct.
 > "Ce n'est pas un bug, c'est une fonctionnalité!" est un slogan commun
@@ -38,7 +38,7 @@ Notes de bas de page
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Do%C3%B9-vient-la-phrase-ce-nest-pas-un-bug-mais-une-fonctionnalit%C3%A9-Je-lai-d%C3%A9couverte-en-regardant-la-s%C3%A9rie-Silicon-Valley-mais-est-elle-plus-ancienne-que-%C3%A7a/answer/Dr-Goulu)*
 
-The Jargon File définit [feature](http://catb.org/jargon/html/F/feature.html) (fonctionnalité) depuis 1975[[1]](#bWppB) ainsi :
+The Jargon File définit [feature](https://web.archive.org/web/20200115173516/http://catb.org/jargon/html/F/feature.html) (fonctionnalité) depuis 1975[[1]](#bWppB) ainsi :
 
 > Bug qui a été documenté. Appeler quelque chose "fonctionnalité" signifie parfois que l'auteur du programme n'a pas pris en compte le cas particulier et que le programme a répondu d'une manière inattendue mais pas strictement incorrecte. Une plaisanterie standard est qu'un bug peut être transformé en fonctionnalité simplement en le documentant (ainsi théoriquement personne ne peut s'en plaindre car il est dans le manuel), ou même en le déclarant simplement comme correct.
 > "Ce n'est pas un bug, c'est une fonctionnalité!" est un slogan commun

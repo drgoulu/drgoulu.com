@@ -21,4 +21,4 @@ C'est ce qu'on appelle la "[Pharmacovigilance](w:)".
 
 La liste des vaccins en phase 4,3,2 est ici, avec les publications scientifiques correspondant aux résultats de leurs essais :
 
-[https://www.infovac.ch/fr/infova...](https://www.infovac.ch/fr/infovac/actualites/955-vaccins-contre-le-covid-19-liste-des-essais-cliniques)
+[https://www.infovac.ch/fr/infova...](https://web.archive.org/web/20220108053842/https://www.infovac.ch/fr/infovac/actualites/955-vaccins-contre-le-covid-19-liste-des-essais-cliniques)

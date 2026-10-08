@@ -16,7 +16,7 @@ Vous retardez de plusieurs décennies. A part ponctuellement dans des zones de g
 
 La plupart des pays d'Afrique ont une [croissance économique supérieure](https://donnees.banquemondiale.org/indicateur/NY.GDP.MKTP.KD.ZG) à celle de l'Europe et ont franchi la [Transition démographique](w:). Ils ont donc de plus en plus de ressources, ce qui fait qu'il y a de moins en moins d'immigration illégale en Europe.
 
-[https://dtm.iom.int/dtm_download...](https://dtm.iom.int/dtm_download_track/38061?file=1&amp;type=node&amp;id=26746)
+[https://dtm.iom.int/dtm_download...](https://web.archive.org/web/20230930153749/https://dtm.iom.int/dtm_download_track/38061?file=1&amp;type=node&amp;id=26746)
 
 Dans quelques années ce seront vos enfants qui iront peut-être chercher fortune, ou refuge, en Afrique.
 

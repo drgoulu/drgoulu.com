@@ -14,7 +14,7 @@ slug: dites-non-au-mouvement-perpetuel
 coverImage: ./images/4333d9e2e65f2e1e7cd12e847855fead.jpg
 ---
 
-Un collègue est arrivé au boulot tout excité par le "[moteur magnétique](http://tvmag.lefigaro.fr/programme-tv/article/divertissement/69742/l-inventeur-un-jure-emu-par-une-invention.html)" présenté par un certain Aurélien Prévost à l'émission "l'inventeur 2012" sur M6. Il s'agit d'une "rampe de lancement" magnétique très similaire à celle ci-dessous [[1]](#ref-1), déjà [brevetée](/2009/03/08/combien-pour-ce-brevet/) en 1977 [[2]](#ref-2):
+Un collègue est arrivé au boulot tout excité par le "[moteur magnétique](https://web.archive.org/web/20120527004537/http://tvmag.lefigaro.fr/programme-tv/article/divertissement/69742/l-inventeur-un-jure-emu-par-une-invention.html)" présenté par un certain Aurélien Prévost à l'émission "l'inventeur 2012" sur M6. Il s'agit d'une "rampe de lancement" magnétique très similaire à celle ci-dessous [[1]](#ref-1), déjà [brevetée](/2009/03/08/combien-pour-ce-brevet/) en 1977 [[2]](#ref-2):
 
 {{< youtube "yMoIExJEaBU" >}}
 
@@ -34,7 +34,7 @@ On pourrait imaginer qu'après des siècles d'échec expérimental et de réussi
 
 Une machine est toujours un peu plus étonnante voire magique quand on y ajoute quelques aimants et leurs [champs magnétiques](w:champ_magnétique) invisibles. Avec des aimants, on peut attirer n'importe quel bout de ferraille à distance, et même repousser un autre aimant. Cette force de répulsion est tellement inhabituelle qu'on en est tout perturbé, comme le juré d'Aurélien qui parle de répulsion alors que son expérience n'utilise que l'attraction des aimants sur la bille. Voici une chouette application de la répulsion magnétique:
 
-{{< figure align="aligncenter" alt="Chaise longue à lévitation magnétique d'Hoverit" caption="Chaise longue à lévitation magnétique d'Hoverit" link="http://news.cnet.com/8301-17938_105-10158051-1.html" src="./images/cad6b313568d70e07da1a64276d964c6.jpg" width="600" >}}
+{{< figure align="aligncenter" alt="Chaise longue à lévitation magnétique d'Hoverit" caption="Chaise longue à lévitation magnétique d'Hoverit" link="https://web.archive.org/web/20120809083252/http://news.cnet.com/8301-17938_105-10158051-1.html" src="./images/cad6b313568d70e07da1a64276d964c6.jpg" width="600" >}}
 
 Cette chaise longue n'a pas besoin d'énergie pour vous maintenir en lévitation. Pour comprendre pourquoi, il faut comprendre la différence entre [force](w:Force_\(physique\)) et [travail d'une force](w:).
 
@@ -64,7 +64,7 @@ Mais je t'en supplie, cher lecteur : tu as dit non à l'héroïne, non à la chi
 
 C'est vrai, il existe des mouvements "pseudo perpétuels" pour lesquels les sources d'énergie sont si discrètes qu'il faut une bonne analyse pour expliquer leur fonctionnement. Dans cette catégorie je placerai le [radiomètre de Crookes](w:), la [pendule Atmos](w:), l'[assistance gravitationnelle](w:), et peut-être aussi l'[oiseau buveur](w:). Vos suggestions sont bienvenues dans les commentaires.
 
-A la réflexion, je range aussi dans cette catégorie la grande [roue d'Aldo Costa](http://www.aldocosta.fr), qui tourne réellement comme on le voit dans [ce reportage](http://www.youtube.com/watch?v=QEbq9aPPaxg). Puisque ça ne peut pas être un mouvement perpétuel, sa puissance, de l'ordre de 1 watt seulement [selon ces calculs](http://moteur-hackenberger.over-blog.com/article-29302432.html), provient de quelque part, mais je ne sais pas d'où. Un minuscule vent ? une petite dilatation thermique due à l'éclairage ? l'induction d'un câble électrique ? A mon avis, cette réalisation spectaculaire mériterait une étude sérieuse. Mais M. Costa survivrait-il à l'explication ?
+A la réflexion, je range aussi dans cette catégorie la grande [roue d'Aldo Costa](https://web.archive.org/web/20121115130106/http://www.aldocosta.fr), qui tourne réellement comme on le voit dans [ce reportage](http://www.youtube.com/watch?v=QEbq9aPPaxg). Puisque ça ne peut pas être un mouvement perpétuel, sa puissance, de l'ordre de 1 watt seulement [selon ces calculs](http://moteur-hackenberger.over-blog.com/article-29302432.html), provient de quelque part, mais je ne sais pas d'où. Un minuscule vent ? une petite dilatation thermique due à l'éclairage ? l'induction d'un câble électrique ? A mon avis, cette réalisation spectaculaire mériterait une étude sérieuse. Mais M. Costa survivrait-il à l'explication ?
 
 {{< figure align="aligncenter" alt="costa1avant" caption="M. Costa devant sa roue" link="http://moteur-hackenberger.over-blog.com/article-29302432.html" src="./images/costa1avant.jpg" width="484" >}}
 

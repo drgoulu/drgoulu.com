@@ -30,4 +30,4 @@ level 9 would cause “unprecedented regional destruction for a land impact or t
 
 So it’s not that exceptional.
 
-Note the speed isn’t considered in the risks as asteroids in our solar systems orbit in the same direction as Earth and are mostly accelerated by their fall in Earth’s gravitational well. Extra solar objects such as last year’s [Interstellar Asteroid](https://www.nasa.gov/planetarydefense/faq/interstellar) are really exceptional. So exceptional they are ranked 0 on Torino scale : we don’t care of this risk.
+Note the speed isn’t considered in the risks as asteroids in our solar systems orbit in the same direction as Earth and are mostly accelerated by their fall in Earth’s gravitational well. Extra solar objects such as last year’s [Interstellar Asteroid](https://web.archive.org/web/20180313061417/https://www.nasa.gov/planetarydefense/faq/interstellar) are really exceptional. So exceptional they are ranked 0 on Torino scale : we don’t care of this risk.

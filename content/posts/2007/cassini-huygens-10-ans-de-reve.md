@@ -21,7 +21,7 @@ Huygens se pose sur Titan en transmettant des images de la descente vers le plus
 Plus récemment, c'est la lune [Japet](/2007/09/14/japet-de-saturne-par-cassini/) qui reçoit la visite de la sonde Cassini. Cet astre a deux particularités très étranges:
 
 1. un bourrelet qui forme un chaine de très haute montagnes tout autour de son équateur, dont j'ai déjà parlé ici
-2. une surface de deux couleurs très différentes que l'on [commence seulement à expliquer](http://www.futura-sciences.com/fr/news/t/astronomie/d/un-debut-dexplication-pour-lenigme-de-japet_13164/), mais qui produit des photos magnifiques :
+2. une surface de deux couleurs très différentes que l'on [commence seulement à expliquer](https://web.archive.org/web/20080917101245/http://www.futura-sciences.com/fr/news/t/astronomie/d/un-debut-dexplication-pour-lenigme-de-japet_13164/), mais qui produit des photos magnifiques :
 
 ![](./images/8c7fd9f2853ba92117bca722efaef5ce.jpg)
 

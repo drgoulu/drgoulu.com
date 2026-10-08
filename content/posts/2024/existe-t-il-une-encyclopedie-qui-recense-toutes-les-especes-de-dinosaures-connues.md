@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Yaka demander à Google
 
-[https://www.nhm.ac.uk/discover/d...](https://www.nhm.ac.uk/discover/dino-directory/name/name-az-all.html)
+[https://www.nhm.ac.uk/discover/d...](https://web.archive.org/web/20240404205701/https://www.nhm.ac.uk/discover/dino-directory/name/name-az-all.html)

@@ -24,4 +24,4 @@ Les pays développés ont traversé cette phase au début du 20ème siècle, et 
 
 Regardez les géniales présentations de Hans Rosling à ce sujet, par exemple
 
-[https://www.ted.com/talks/hans_r...](https://www.ted.com/talks/hans_rosling_religions_and_babies?language=fr-CA)
+[https://www.ted.com/talks/hans_r...](https://web.archive.org/web/20211215123026/https://www.ted.com/talks/hans_rosling_religions_and_babies?language=fr-CA)

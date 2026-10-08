@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 En France ? D'abord parce que vous n'avez pas 50'000 prisonniers violents.
 
-Selon [cet article il y a 81'599 détenus en France](https://www.lemonde.fr/societe/article/2025/03/01/surpopulation-carcerale-le-nombre-de-detenus-depasse-81-000-pour-la-premiere-fois_6571290_3224.html), et selon [Part des prisonniers par infraction France 2024| Statista](https://fr.statista.com/statistiques/832148/infraction-prisonniers-france-part/), moins de la moitié sont incarcérés pour des crimes violents, donc vous en avez dans les 40'000 "seulement".
+Selon [cet article il y a 81'599 détenus en France](https://web.archive.org/web/20250424202641/https://www.lemonde.fr/societe/article/2025/03/01/surpopulation-carcerale-le-nombre-de-detenus-depasse-81-000-pour-la-premiere-fois_6571290_3224.html), et selon [Part des prisonniers par infraction France 2024| Statista](https://fr.statista.com/statistiques/832148/infraction-prisonniers-france-part/), moins de la moitié sont incarcérés pour des crimes violents, donc vous en avez dans les 40'000 "seulement".
 
 Ensuite, il ne vous manque que dans les 10`000 places de prison (cf premier article)
 
@@ -25,4 +25,4 @@ Bref, si votre idée est de recréer un bagne, faudra mettre les moyens. Et le r
 
 Notes de bas de page
 
-[[1]](#cite-OhSEe)[Le ministère de la Justice recrute plus de 1 000 surveillants pénitentiaires](https://www.justice.gouv.fr/actualites/espace-presse/ministere-justice-recrute-plus-1-000-surveillants-penitentiaires)
+[[1]](#cite-OhSEe)[Le ministère de la Justice recrute plus de 1 000 surveillants pénitentiaires](https://web.archive.org/web/20250725210500/https://www.justice.gouv.fr/actualites/espace-presse/ministere-justice-recrute-plus-1-000-surveillants-penitentiaires)

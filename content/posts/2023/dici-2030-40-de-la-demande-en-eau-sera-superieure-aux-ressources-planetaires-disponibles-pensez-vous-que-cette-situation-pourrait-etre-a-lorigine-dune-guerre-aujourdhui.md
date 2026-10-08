@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/D-ici-2030-40-de-la-demande-en-eau-sera-sup%C3%A9rieure-aux-ressources-plan%C3%A9taires-disponibles-Pensez-vous-que-cette-situation-pourrait-%C3%AAtre-%C3%A0-l-origine-d-une-guerre-aujourd-hui/answer/Dr-Goulu)*
 
-Mouais, c'est important de bien citer ce qui a été dit. C'est une prévision du [2030 Water Resources Group de la Banque Mondiale](https://2030wrg.org/), qui dit qu'on dépasse déjà les 4200 km3 d’eau potable par an que nous pouvons prélever de manière durable, donc celle qui tombe sous forme de pluie.
+Mouais, c'est important de bien citer ce qui a été dit. C'est une prévision du [2030 Water Resources Group de la Banque Mondiale](https://web.archive.org/web/20230623013439/https://2030wrg.org/), qui dit qu'on dépasse déjà les 4200 km3 d’eau potable par an que nous pouvons prélever de manière durable, donc celle qui tombe sous forme de pluie.
 
 En fait les lacs contiennent 125'000 km3 d'eau douce et les eaux souterraines environ 9.5 millions de km3, donc les "ressources planétaires" correspondent à des siècles de consommation au rythme actuel.
 

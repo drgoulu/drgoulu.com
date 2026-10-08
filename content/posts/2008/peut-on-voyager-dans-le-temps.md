@@ -68,7 +68,7 @@ Pourtant, l'éternalisme permet de contourner cette difficulté de plusieurs man
 
 Comme Klein, je pensais les voyages dans le temps absolument impossibles jusqu'à lecture de "How to build a time machine" de [Paul Davies](http://cosmos.asu.edu/) désormais disponible en français [[10]](#ref-10). Maintenant je pense qu'ils sont seulement impossibles en pratique, mais que le fait qu'ils ne soient pas absiolument formellement impossibles pour des petites particules dans des conditions très spéciales est intéressant à étudier du point de vue théorique.
 
-C'est pourquoi j'ai été très déçu d'entendre Klein ranger la machine de Paul Davies, basée sur la création puis l'agrandissement d'un "trou de ver" permettant une boucle de genre temps, au rang de machine à générer des ventes pour Science & Vie, alors qu'il a quand même publié dans Pour la Science ([Scientific American](http://www.scientificamerican.com/article.cfm?id=0004226A-F77D-1D4A-90FB809EC5880000)) !
+C'est pourquoi j'ai été très déçu d'entendre Klein ranger la machine de Paul Davies, basée sur la création puis l'agrandissement d'un "trou de ver" permettant une boucle de genre temps, au rang de machine à générer des ventes pour Science & Vie, alors qu'il a quand même publié dans Pour la Science ([Scientific American](https://web.archive.org/web/20201109020708/http://www.scientificamerican.com/article.cfm?id=0004226A-F77D-1D4A-90FB809EC5880000)) !
 
 De plus, cette "machine" répond bien à une objection souvent entendue au sujet du voyage dans le temps et reprise par Etienne Klein : si c'était possible, il devrait y avoir des visiteurs du futur parmi nous, descendant de machines assez spectaculaires pour qu'on les remarque. En fait, les "machines" basées sur les boucles de genre temps dans un univers bloc ne permettent pas de remonter avant leur construction, et même pas de choisir facilement la date d'arrivée. L'idée est que le trou de ver mettrait en "contact" deux points de l'espace, puis l'une des extrémités du trou "vieillirait moins vite" que l'autre grâce à des effets relativistes, disons d'un facteur 100. Ainsi, après la création de la machine, il faudrait attendre 100 ans pour pouvoir revenir de 99 ans vers le passé, un an après la création du trou de ver. Pour voyager vers le futur, la date d'arrivée dépendrait exactement de la date de départ : en partant 2 ans après la construction, on arriverait 200 ans dans le futur, 3 ans - 300 ans etc.
 
@@ -76,7 +76,7 @@ Donc en résumé, j'aurais bien aimé une réponse de scientifique du genre "Non
 
 ### Références :
 
-1. <span id="ref-1"></span>"[Qu'est-ce que le temps](http://www.linternaute.com/science/science-et-nous/dossiers/07/temps/index.shtml)" sur le Journal du Net : dossier très complet
+1. <span id="ref-1"></span>"[Qu'est-ce que le temps](https://web.archive.org/web/20080417213326/http://www.linternaute.com/science/science-et-nous/dossiers/07/temps/index.shtml)" sur le Journal du Net : dossier très complet
 
 3. <span id="ref-3"></span>"[Le temps existe-t-il](http://eznogood.blogspot.com/2007/04/couloirs-du-temps.html)" sur e-znogood
 
@@ -84,16 +84,16 @@ Donc en résumé, j'aurais bien aimé une réponse de scientifique du genre "Non
 
 7. <span id="ref-7"></span>[Étienne Klein](https://editions.flammarion.com/Auteurs/klein-etienne), Le facteur temps ne sonne jamais deux fois, 1997, Flammarion, ISBN : 9782081205802
 
-9. <span id="ref-9"></span>["Philosophie du temps : Eternalisme VS Présentisme](http://nuance.blog.fr/2008/06/02/philosophie-du-temps-eternalisme-vs-pres-4257747/ "Eternalisme VS Présentisme")" sur nuance blog
+9. <span id="ref-9"></span>["Philosophie du temps : Eternalisme VS Présentisme](https://web.archive.org/web/20080913021339/http://nuance.blog.fr/2008/06/02/philosophie-du-temps-eternalisme-vs-pres-4257747/ "Eternalisme VS Présentisme")" sur nuance blog
 
-11. <span id="ref-11"></span>Michael Esfeld "[La philosophie de la nature : La métaphysique de l’univers à quatre dimensions](http://www.unil.ch/webdav/site/philo/shared/enseignement/support_de_cours/epfl3-1112/Cours-nature-ch13.pdf) (ch. 13)", Université de Lausanne
+11. <span id="ref-11"></span>Michael Esfeld "[La philosophie de la nature : La métaphysique de l’univers à quatre dimensions](https://web.archive.org/web/20240616080426/http://www.unil.ch/webdav/site/philo/shared/enseignement/support_de_cours/epfl3-1112/Cours-nature-ch13.pdf) (ch. 13)", Université de Lausanne
 
-13. <span id="ref-13"></span>Pierre Spagnou, De la relativité au GPS. Quand Einstein s'invite dans votre voiture, 2020, Ellipse, ISBN:9782729872816 [(babelio)](https://www.babelio.com/livres/Spagnou-De-la-relativite-au-GPS--Quand-Einstein-sinvite-/471712)
+13. <span id="ref-13"></span>Pierre Spagnou, De la relativité au GPS. Quand Einstein s'invite dans votre voiture, 2020, Ellipse, ISBN:9782729872816 [(babelio)](https://web.archive.org/web/20080619/https://www.babelio.com/livres/Spagnou-De-la-relativite-au-GPS--Quand-Einstein-sinvite-/471712)
 
-15. <span id="ref-15"></span>Claude Semay, "[Peut-on voyager dans le temps ?](http://www.retourverslefutur.com/divers_voyager_dans_temps.html)", conférence du 18 décembre 2002 à l'université de Mons-Hainaut (Belgique).
+15. <span id="ref-15"></span>Claude Semay, "[Peut-on voyager dans le temps ?](https://web.archive.org/web/20080602025143/http://www.retourverslefutur.com/divers_voyager_dans_temps.html)", conférence du 18 décembre 2002 à l'université de Mons-Hainaut (Belgique).
 
 17. <span id="ref-17"></span>[Chronoscope](http://www.chronoplanet.com/topic/index.html)
 
-19. <span id="ref-19"></span>[Paul Davies](http://openlibrary.org/authors/OL2622794A/Paul_Davies) "[How to Build a Time Machine](http://openlibrary.org/books/OL7358090M/How_to_Build_a_Time_Machine)" (2002) Penguin Books Ltd ISBN:9780141005348 [WorldCat](http://worldcat.org/isbn/9780141005348) [Goodreads](http://www.goodreads.com/book/show/24147) [Google Books](http://books.google.com/books?as_isbn=9780141005348)  
+19. <span id="ref-19"></span>[Paul Davies](https://web.archive.org/web/20140715112834/http://openlibrary.org/authors/OL2622794A/Paul_Davies) "[How to Build a Time Machine](https://web.archive.org/web/20140717021154/http://openlibrary.org/books/OL7358090M/How_to_Build_a_Time_Machine)" (2002) Penguin Books Ltd ISBN:9780141005348 [WorldCat](http://worldcat.org/isbn/9780141005348) [Goodreads](http://www.goodreads.com/book/show/24147) [Google Books](http://books.google.com/books?as_isbn=9780141005348)  
 
-21. <span id="ref-21"></span>"[Le temps, entre réalité et Illusion](http://www.cea.fr/recherche_fondamentale/le_temps_entre_realite_et_illusion)", Films tirés des conférences Cyclope du 12 et 19 juin 2006, INSTN de Saclay, dont "Le Temps existe-t-il ?" par Etienne Klein
+21. <span id="ref-21"></span>"[Le temps, entre réalité et Illusion](https://web.archive.org/web/20080919064003/http://www.cea.fr/recherche_fondamentale/le_temps_entre_realite_et_illusion)", Films tirés des conférences Cyclope du 12 et 19 juin 2006, INSTN de Saclay, dont "Le Temps existe-t-il ?" par Etienne Klein

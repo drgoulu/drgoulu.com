@@ -15,7 +15,7 @@ Oui, la [Convention de Chicago](w:)garantit la souveraineté de l'espace aérien
 
 Un amendement de 1984 demande de ne pas abattre les avions civils, d'où l'insistance de la Chine a prétendre que c'est un engin civil.
 
-Mais dans ce cas pourquoi ne l'a t'elle pas simplement déclaré, comme le font tous les aérostiers, par exemple Picard et Jones avec [Breitling Orbiter 3](https://www.esge.ch/Solar_Impulse/Accueil_files/breitlingorbiter.html) ? La Chine avait d'ailleurs provoqué l'échec de leur seconde tentative en refusant le survol de son territoire [[1]](#zRfwi) …
+Mais dans ce cas pourquoi ne l'a t'elle pas simplement déclaré, comme le font tous les aérostiers, par exemple Picard et Jones avec [Breitling Orbiter 3](https://web.archive.org/web/20230208/https://www.esge.ch/Solar_Impulse/Accueil_files/breitlingorbiter.html) ? La Chine avait d'ailleurs provoqué l'échec de leur seconde tentative en refusant le survol de son territoire [[1]](#zRfwi) …
 
 Notes de bas de page
 

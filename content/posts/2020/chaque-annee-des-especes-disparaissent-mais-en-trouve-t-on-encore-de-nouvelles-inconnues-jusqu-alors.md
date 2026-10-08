@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Oui, des dizaines chaque mois.
 
-Le journal scientifique [Zootaxa](https://www.biotaxa.org/Zootaxa) est quasiment dédié à ça pour les animaux. Rien que ce mois-ci:
+Le journal scientifique [Zootaxa](https://web.archive.org/web/20200528135335/https://www.biotaxa.org/Zootaxa) est quasiment dédié à ça pour les animaux. Rien que ce mois-ci:
 
 - deux nouveaux coraux (chironephthya) du golfe de Thaïlande
 - deux nouvelles mouches ([Conopidae](w:)) du Chili

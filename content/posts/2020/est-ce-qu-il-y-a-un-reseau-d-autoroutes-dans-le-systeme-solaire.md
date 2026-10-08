@@ -24,4 +24,4 @@ Il permet de calculer des trajectoires nécessitant le minimum d'énergie.
 
 Les nouvelles récentes sont qu'on a bien amélioré la finesse du réseau, notamment plus loin que Jupiter en direction de Neptune
 
-Nataša Todorović, Di Wu and Aaron J. Rosengren "[The arches of chaos in the Solar System](https://advances.sciencemag.org/content/6/48/eabd1313)", Science Advances , 2020, Vol. 6, no. 48, [DOI: 10.1126/sciadv.abd1313](https://www.doi.org/10.1126/sciadv.abd1313)
+Nataša Todorović, Di Wu and Aaron J. Rosengren "[The arches of chaos in the Solar System](https://web.archive.org/web/20201216170525/https://advances.sciencemag.org/content/6/48/eabd1313)", Science Advances , 2020, Vol. 6, no. 48, [DOI: 10.1126/sciadv.abd1313](https://web.archive.org/web/20201129091933/https://www.doi.org/10.1126/sciadv.abd1313)

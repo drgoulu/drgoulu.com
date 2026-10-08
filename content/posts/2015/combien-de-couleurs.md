@@ -24,4 +24,4 @@ http://www.imagemagick.org/Usage/quantize/#dither
 1. <span id="ref-1"></span>C.R. Nave, "[Hyperphysics : Color Vision](http://hyperphysics.phy-astr.gsu.edu/hbase/vision/colviscon.html)", Georgia State University
 2. <span id="ref-2"></span>Bruce Lindbloom http://www.brucelindbloom.com/
 3. <span id="ref-3"></span>Thomas Funkhouser, "[Image Quantization, Halftoning, and Dithering](https://www.cs.princeton.edu/courses/archive/fall00/cs426/lectures/dither/dither.pdf)", 2000, Princeton University
-4. <span id="ref-4"></span>Pedro Garcia "[halftones](https://bitbucket.org/kuraiev/halftones/overview)" Python library
+4. <span id="ref-4"></span>Pedro Garcia "[halftones](https://web.archive.org/web/20150512/https://bitbucket.org/kuraiev/halftones/overview)" Python library

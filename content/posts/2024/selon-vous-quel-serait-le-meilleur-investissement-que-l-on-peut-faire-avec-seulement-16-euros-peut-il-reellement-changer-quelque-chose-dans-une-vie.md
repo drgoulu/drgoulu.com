@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Aucune chance en faisant comme les autres. A ce niveau, il faut une idée de génie, ou énormément de chance (ne comptez pas dessus…)
 
-[https://www.lepoint.fr/societe/g...](https://www.lepoint.fr/societe/grace-au-troc-une-americaine-echange-une-epingle-contre-une-maison-01-01-2022-2458823_23.php)
+[https://www.lepoint.fr/societe/g...](https://web.archive.org/web/20251016033616/https://www.lepoint.fr/societe/grace-au-troc-une-americaine-echange-une-epingle-contre-une-maison-01-01-2022-2458823_23.php)

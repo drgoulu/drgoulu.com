@@ -28,4 +28,4 @@ Comme tous les fleuves du monde.
 
 Notes de bas de page
 
-[[1]](#cite-PDAhl)[Climat New York: Température de l'eau à, Température moyenne New York, Pluviométrie, diagramme ombrothermique pour New York](https://fr.climate-data.org/amerique-du-nord/etats-unis-d-amerique/new-york/new-york-1091/)
+[[1]](#cite-PDAhl)[Climat New York: Température de l'eau à, Température moyenne New York, Pluviométrie, diagramme ombrothermique pour New York](https://web.archive.org/web/20221017220332/https://fr.climate-data.org/amerique-du-nord/etats-unis-d-amerique/new-york/new-york-1091/)

@@ -15,7 +15,7 @@ Je n'en avais effectivement jamais entendu parler.
 
 J'ai trouvé
 
-[https://www.tandfonline.com/doi/...](https://www.tandfonline.com/doi/full/10.1080/23311835.2016.1246074)
+[https://www.tandfonline.com/doi/...](https://web.archive.org/web/20220812230905/https://www.tandfonline.com/doi/full/10.1080/23311835.2016.1246074)
 
 qui décrit ces objets mathématiques.
 

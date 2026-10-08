@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 C'est un problème général : les interprètes n'osent pas traduire Trump mot à mot car ils le feraient passer pour un enfant de 10 ans.
 
-[«Trump utilise le même registre, qu’il s’adresse à un enfant ou à un chef d’Etat»](https://www.liberation.fr/debats/2019/02/03/trump-utilise-le-meme-registre-qu-il-s-adresse-a-un-enfant-ou-a-un-chef-d-etat_1707178/)
+[«Trump utilise le même registre, qu’il s’adresse à un enfant ou à un chef d’Etat»](https://web.archive.org/web/20240910232823/https://www.liberation.fr/debats/2019/02/03/trump-utilise-le-meme-registre-qu-il-s-adresse-a-un-enfant-ou-a-un-chef-d-etat_1707178/)

@@ -54,4 +54,4 @@ Si ça se trouve, on aura eu la [Singularité technologique](w:) d'ici là, alor
 
 Notes de bas de page
 
-[[1]](#cite-dhbAi)[Coop met d'autres camions à hydrogène sur les routes](https://www.coop.ch/fr/entreprise/medias/communiques-de-presse/2020/coop-met-d-autres-camions-a-hydrogene-sur-les-routes.html)
+[[1]](#cite-dhbAi)[Coop met d'autres camions à hydrogène sur les routes](https://web.archive.org/web/20220309093013/https://www.coop.ch/fr/entreprise/medias/communiques-de-presse/2020/coop-met-d-autres-camions-a-hydrogene-sur-les-routes.html)

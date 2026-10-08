@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 oui mais ce n'était pas prévu. Dans [Q&A: Guido van Rossum on Python's next steps](https://www.infoworld.com/article/3078633/qa-guido-van-rossum-on-pythons-next-steps.html) , Guido, le créateur de Python dit :
 
-> One thing I want to point out are the [SciPy](http://www.scipy.org/index.html) and [NumPy](http://www.infoworld.com/article/2693393/application-development/165363-hidden-gems-10-python-tools-too-good-to-overlook.html#slide10) movements. Those people are introducing Python as a replacement for MatLab. It's open source, it's better, they can change it. They are taking it to places where I had never expected Python would travel.
+> One thing I want to point out are the [SciPy](http://www.scipy.org/index.html) and [NumPy](https://web.archive.org/web/20171206211256/http://www.infoworld.com/article/2693393/application-development/165363-hidden-gems-10-python-tools-too-good-to-overlook.html#slide10) movements. Those people are introducing Python as a replacement for MatLab. It's open source, it's better, they can change it. They are taking it to places where I had never expected Python would travel.
 
 Ce sont donc les librairies Python mentionnées, auxquelles j'ajouterais [Matplotlib](https://matplotlib.org/) qui ont donné à Python la quasi totalité des fonctionnalités de Matlab. Mais c'est parce que le langage était suffisamment ouvert pour le faire plutôt qu'une intention de conception.
 

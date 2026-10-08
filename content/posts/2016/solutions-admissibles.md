@@ -24,7 +24,7 @@ Comme le discriminant b²-4ac vaut 400-4.5.10 = 200 est positif, il existe des s
 
 Tous ceux qui ont donné ce résultat ont eu zéro. Et une bordée du prof en prime, dont je me rappelle quasiment chaque mot 35 ans plus tard:
 
-> Alors comme ça bande de [peigne-cul](https://fr.wiktionary.org/wiki/peigne-cul)\*\*, vous croyez aveuglément une équation qui donne des solutions débiles ? Vous croyez que la bagnole va traverser le rocher, s'arrêter après [deux secondes](https://www.wolframalpha.com/input/?i=solve+-5t%5E2%2B20t-10%3D0) et reculer sous l'effet des freins pour se fracasser une deuxième fois en marche arrière ? On est pas au cours de maths ici ! En physique un problème a des **solutions admissibles\*\*\***, mais aussi des solutions inadmissibles. C'est la Nature qui dit si une solution de maths est admissible ou pas. Si vous pigez pas ça, vous êtes nuls : zéro !
+> Alors comme ça bande de [peigne-cul](https://fr.wiktionary.org/wiki/peigne-cul)\*\*, vous croyez aveuglément une équation qui donne des solutions débiles ? Vous croyez que la bagnole va traverser le rocher, s'arrêter après [deux secondes](https://web.archive.org/web/20211206134607/https://www.wolframalpha.com/input/?i=solve+-5t%5E2%2B20t-10%3D0) et reculer sous l'effet des freins pour se fracasser une deuxième fois en marche arrière ? On est pas au cours de maths ici ! En physique un problème a des **solutions admissibles\*\*\***, mais aussi des solutions inadmissibles. C'est la Nature qui dit si une solution de maths est admissible ou pas. Si vous pigez pas ça, vous êtes nuls : zéro !
 
 Dur. Mais juste. Avec le recul, la leçon était très importante.
 

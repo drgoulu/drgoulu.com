@@ -81,7 +81,7 @@ Markdown est  l'inconvénient majeur des générateurs de sites statiques , et p
 
 L'approche standard est d'utiliser des plugins de VSCode qui lancent un serveur local et affichent des prévisualisations de la page qu'on édite à chaque "save" de celle-ci
 
-* [Hugo IntelliSense](https://marketplace.visualstudio.com/items?itemName=hugoblox.hugo), qui est tout neuf et pas très convaincant pour l'instant
+* [Hugo IntelliSense](https://web.archive.org/web/20260826194847/https://marketplace.visualstudio.com/items?itemName=hugoblox.hugo), qui est tout neuf et pas très convaincant pour l'instant
 * [Ownable](https://ownable.dev) plus abouti actuellement me semble t'il, mais pas encore top.
 
 Sinon, il existe bien des choses comme [Cloudcannon](https://cloudcannon.com), un éditeur et gestionnaire de site Hugo en ligne via GitHub, que j'utilise pour écrire ces lignes parce qu'il est gratuit pendant 20 jours, mais assez cher ensuite, ce qui fait que je ne vais pas le garder, hélas. De plus il fait un rendu un peu intermédiaire, certaines choses étant wysiwyg et d'autres pas. 

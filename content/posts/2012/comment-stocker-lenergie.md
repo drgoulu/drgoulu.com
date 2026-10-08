@@ -21,7 +21,7 @@ Claude me demande pourquoi on ne stockerait pas la surproduction éolienne avec 
 
 {{< figure src="./images/5ea50d06e4ba4f1d76ceaf6139608347.jpg" alt="la Jamais Contente" caption="la \"Jamais Contente\"" width="280" >}}
 
-La première voiture à avoir atteint la stupéfiante vitesse de 100 km/h était une voiture électrique, la "[Jamais Contente](w:)", et c'était en 1899. De nos jours, la "[White Zombie](http://www.plasmaboyracing.com/whitezombie.php)" [laisse sur place une Maserati](http://www.youtube.com/watch?v=vGQSQAz9v6c) de 400 chevaux. Mais pourquoi donc nos routes ne sont-elles toujours pas envahies de voitures électriques ?
+La première voiture à avoir atteint la stupéfiante vitesse de 100 km/h était une voiture électrique, la "[Jamais Contente](w:)", et c'était en 1899. De nos jours, la "[White Zombie](https://web.archive.org/web/20121024085350/http://www.plasmaboyracing.com/whitezombie.php)" [laisse sur place une Maserati](http://www.youtube.com/watch?v=vGQSQAz9v6c) de 400 chevaux. Mais pourquoi donc nos routes ne sont-elles toujours pas envahies de voitures électriques ?
 
 La réponse est pour beaucoup liée à la faible [densité d'énergie](w:) des batteries. Les meilleures batteries actuelles (Lithium-Ion) sont capables de stocker environ un quart de kilowattheure par kilogramme de batteries. C'est 8 fois mieux que les bonnes vieilles batteries au plomb, mais c'est 67 fois moins que l'énergie contenue dans 1 kg d'essence.
 
@@ -69,7 +69,7 @@ Donc si votre village d'irréductibles possède une vraie éolienne d' 1MW ou 
 
 D'autres types de batteries sont actuellement en développement comme la  [batterie sodium-soufre](w:) (NaS) ou les [batteries à sel fondu](w:en:Molten_salt_battery) type "Zebra", mais la voie la plus prometteuse me semble être les "batteries à flux redox" ("[flow batteries](w:en:Flow_battery)" en anglais). Ces sont des sortes de [piles à combustible](w:) réversibles qui fonctionnent avec diverses soupes d'électrolytes bizarres comme le [bromure](w:brome) de [vanadium](w:) ou du zinc/[cérium](w:).
 
-{{< figure src="./images/4d5bd715be18be04aa0d254d3733aa79.jpg" alt="Schéma d'une batterie à flux redox au Vanadium, avec arrière plan révélateur" caption="Schéma d'une batterie à flux redox au Vanadium, avec arrière plan révélateur" link="http://www.windpowerengineering.com/featured/business-news-projects/colorado-company-awarded-1-7m-for-advanced-battery/" align="aligncenter" width="500" >}}
+{{< figure src="./images/4d5bd715be18be04aa0d254d3733aa79.jpg" alt="Schéma d'une batterie à flux redox au Vanadium, avec arrière plan révélateur" caption="Schéma d'une batterie à flux redox au Vanadium, avec arrière plan révélateur" link="https://web.archive.org/web/20120828181403/http://www.windpowerengineering.com/featured/business-news-projects/colorado-company-awarded-1-7m-for-advanced-battery/" align="aligncenter" width="500" >}}
 
 La densité d'énergie de ces systèmes n'est pas vraiment plus élevée que celles de batteries Li-ion, donc on parle toujours d'installations de centaines de tonnes. Leur avantage est que la puissance est stockée/fournie par un élément relativement petit, alors que l'énergie stockable peut être augmentée à volonté en augmentant simplement le volume des réservoirs d'électrolytes. Ceci permet de réduire le coût de ces solutions par rapport à un wagon train de batteries plus classiques.
 
@@ -106,12 +106,12 @@ C'est assez tant que des centrales thermiques produisent l'énergie "[en ruban](
 
 ### Références
 
-1. <span id="ref-1"></span>"[Integrating Renewable Electricity on the Grid](http://www.aps.org/policy/reports/popa-reports/upload/integratingelec.pdf)", Report, American Physical Society (excellente référence, très complète)
-2. <span id="ref-2"></span>Christopher Mims "[New "Ultra-Battery" as Energy-Dense as High Explosives](http://www.technologyreview.com/view/419767/new-ultra-battery-as-energy-dense-as-high/)", Technology Review., 2010
+1. <span id="ref-1"></span>"[Integrating Renewable Electricity on the Grid](https://web.archive.org/web/20120915072604/http://www.aps.org/policy/reports/popa-reports/upload/integratingelec.pdf)", Report, American Physical Society (excellente référence, très complète)
+2. <span id="ref-2"></span>Christopher Mims "[New "Ultra-Battery" as Energy-Dense as High Explosives](https://web.archive.org/web/20121016233914/http://www.technologyreview.com/view/419767/new-ultra-battery-as-energy-dense-as-high/)", Technology Review., 2010
 3. <span id="ref-3"></span>Gabriel-Octavian Cimuca, ["Système inertiel de stockage d'énergie associé a des générateurs éoliens](http://pastel.archives-ouvertes.fr/docs/00/50/02/85/PDF/These_CIMUCA.pdf)", Thèse de doctorat, ENSAM, 2005
-4. <span id="ref-4"></span>Edmund Conway "[World's biggest battery switched on in Alaska](http://www.telegraph.co.uk/technology/3312118/Worlds-biggest-battery-switched-on-in-Alaska.html)", The Telegraph, 23 August 2003
+4. <span id="ref-4"></span>Edmund Conway "[World's biggest battery switched on in Alaska](https://web.archive.org/web/20121210124042/http://www.telegraph.co.uk/technology/3312118/Worlds-biggest-battery-switched-on-in-Alaska.html)", The Telegraph, 23 August 2003
 5. <span id="ref-5"></span>[Superconducting Magnetic Energy Storage (SMES) Systems for GRID](http://nextbigfuture.com/2011/10/superconducting-magnetic-energy-storage.html) sur BigNextFuture ([pdf de 21 slides](http://www.superpower-inc.com/system/files/2011_1012+EPRI+Conf_Brookhaven+SMES.pdf))
-6. <span id="ref-6"></span>[ADELE – Adiabatic compressed-air energy storage (CAES) for electricity supply](http://www.rwe.com/web/cms/mediablob/en/391748/data/364260/1/rwe-power-ag/innovations/Brochure-ADELE.pdf) brochure \[pdf\]
+6. <span id="ref-6"></span>[ADELE – Adiabatic compressed-air energy storage (CAES) for electricity supply](https://web.archive.org/web/20170408120932/http://www.rwe.com/web/cms/mediablob/en/391748/data/364260/1/rwe-power-ag/innovations/Brochure-ADELE.pdf) brochure \[pdf\]
 7. <span id="ref-7"></span>François Avellan "[Evolution des groupes de pompage-turbinage : Situation actuelle, technologies et nouveaux projets](http://hydrodyna.epfl.ch/files/content/sites/hydrodyna/files/documents/Evolution%20des%20groupes%20de%20pompage-turbinage.pdf)", bulletin electrosuisse 2/2012
 
 ### Autres sources
@@ -119,4 +119,4 @@ C'est assez tant que des centrales thermiques produisent l'énergie "[en ruban](
 - Jean-Marc Jancovici, "[Est-ce facile de stocker l'énergie ?](http://www.manicore.com/documentation/stockage.html)" sur Manicore.com
 - "[Les systèmes de stockage d’énergie Dossier Stratégique](http://www.scribd.com/doc/109127635)" ADEME
 - Davide Castelvecchi, "[How Big a Battery Would It Take to Power All of the U.S.?](http://www.scientificamerican.com/article.cfm?id=castelvecchi-how-big-battery-would-it-take-power-usa)", Scientific American, Février 2012
-- Axel Strang, Louis Sanchez, Franck Delplace "L’industrie des énergies décarbonées en 2010 Chap 11: [Stockage de l’énergie : Définition et technologies existantes](http://www.developpement-durable.gouv.fr/IMG/pdf/Nucleaire.pdf)", Direction Générale de l’Energie et du Climat
+- Axel Strang, Louis Sanchez, Franck Delplace "L’industrie des énergies décarbonées en 2010 Chap 11: [Stockage de l’énergie : Définition et technologies existantes](https://web.archive.org/web/20130606174119/http://www.developpement-durable.gouv.fr/IMG/pdf/Nucleaire.pdf)", Direction Générale de l’Energie et du Climat

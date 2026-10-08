@@ -20,7 +20,7 @@ Parce qu'avant d'imposer, il faut être sur de son coup pour remporter l'adhési
 
 Peindre les toits en blanc serait en effet une petite mesure de [Géo-ingénierie](w:) facile. Elle aurait un effet local intéressant pour rafraîchir les maisons et les villes très chaudes. L'effet global n’excéderait cependant pas quelques dixièmes de degrés. Voir par exemple cet article :
 
-[https://www.researchgate.net/pub...](https://www.researchgate.net/publication/265497350_Painting_the_Town_White_--and_Green)
+[https://www.researchgate.net/pub...](https://web.archive.org/web/20220616202304/https://www.researchgate.net/publication/265497350_Painting_the_Town_White_--and_Green)
 
 C'est toujours bon à prendre me direz vous, mais (il y a toujours des "mais") :
 

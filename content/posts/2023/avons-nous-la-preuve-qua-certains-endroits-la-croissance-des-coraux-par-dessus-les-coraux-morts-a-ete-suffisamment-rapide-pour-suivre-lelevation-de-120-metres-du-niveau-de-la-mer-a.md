@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Oui, un petit google suffit pour trouver
 
-[https://cosmosmagazine.com/natur...](https://cosmosmagazine.com/nature/marine-life/the-walking-dead-great-barrier-reef-died-and-relocated-five-times/)
+[https://cosmosmagazine.com/natur...](https://web.archive.org/web/20231002212746/https://cosmosmagazine.com/nature/marine-life/the-walking-dead-great-barrier-reef-died-and-relocated-five-times/)
 
 Et [Google Scholar](https://scholar.google.com/scholar?hl=fr&as_sdt=0,5&q=Coral+growth+after+ice+age&btnG=) vous fournira des dizaines d'autres références.
 

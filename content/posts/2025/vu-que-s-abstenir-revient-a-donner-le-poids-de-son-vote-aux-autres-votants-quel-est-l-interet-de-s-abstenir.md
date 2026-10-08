@@ -22,4 +22,4 @@ Mais si vous pensez qu'aucun candidat ne mérite votre vote, il faut voter blanc
 
 Vous pouvez aussi faire un bulletin nul. Dans ce cas svp, faites en un beau ! À Genève il sera peut être lu devant la Commission Electorale, voire soigneusement collectionné dans un album par le responsable du service du dépouillement.
 
-[https://www.lemonde.fr/politique...](https://www.lemonde.fr/politique/article/2022/04/25/les-resultats-du-second-tour-de-la-presidentielle-si-abstention-et-votes-blancs-et-nuls-etaient-pris-en-compte_6123552_823448.html)
+[https://www.lemonde.fr/politique...](https://web.archive.org/web/20250214202323/https://www.lemonde.fr/politique/article/2022/04/25/les-resultats-du-second-tour-de-la-presidentielle-si-abstention-et-votes-blancs-et-nuls-etaient-pris-en-compte_6123552_823448.html)

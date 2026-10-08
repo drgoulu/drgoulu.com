@@ -17,4 +17,4 @@ Le trafic de drogue n'existe que parce qu'il y a des consommateurs.
 
 Et n'oubliez pas que ce sont les drogues légales qui font les plus gros dégâts sociaux et sanitaires.
 
-[https://www.liberation.fr/societ...](https://www.liberation.fr/societe/sante/cout-social-des-drogues-cest-lalcool-et-le-tabac-qui-ont-le-plus-gros-impact-sur-les-finances-publiques-20230804_4PVASAAIPNCMTO3XJ7HPGVWPTM/)
+[https://www.liberation.fr/societ...](https://web.archive.org/web/20240910110349/https://www.liberation.fr/societe/sante/cout-social-des-drogues-cest-lalcool-et-le-tabac-qui-ont-le-plus-gros-impact-sur-les-finances-publiques-20230804_4PVASAAIPNCMTO3XJ7HPGVWPTM/)

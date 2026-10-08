@@ -20,7 +20,7 @@ L'[Hypothèse de simulation](w:)est que tout l'univers serait simulé, y compris
 
 Je ne connais pas de scientifique qui croie vraiment ça. Déjà "scientifique" et "croire" est un peu contradictoire. L'idée est plutôt : " si c'était comme ça, comment pourrions-nous le savoir ?"
 
-Vous connaissez le [Jeu de la vie](w:)? C'est un "univers simulé" avec des règles très simples qui donne des choses étonnamment complexes. Il a été imaginé en 1970 mais en 1984 un type a inventé un algorithme hyper-puissant pour simuler des "jeu de la vie" absolument énormes. D'ailleurs le type qui l'a implanté en C en 2006 a intitulé son article : [An Algorithm for Compressing Space and Time](https://www.drdobbs.com/jvm/an-algorithm-for-compressing-space-and-t/184406478) … Gonflé non ?
+Vous connaissez le [Jeu de la vie](w:)? C'est un "univers simulé" avec des règles très simples qui donne des choses étonnamment complexes. Il a été imaginé en 1970 mais en 1984 un type a inventé un algorithme hyper-puissant pour simuler des "jeu de la vie" absolument énormes. D'ailleurs le type qui l'a implanté en C en 2006 a intitulé son article : [An Algorithm for Compressing Space and Time](https://web.archive.org/web/20211130191813/https://www.drdobbs.com/jvm/an-algorithm-for-compressing-space-and-t/184406478) … Gonflé non ?
 
 Grâce à cet algorithme on a pu montrer que le jeu de la vie pouvait réaliser tout ce que fait un ordinateur en faisant circuler des petits motifs qu'on appelle "planeurs" mais qui pourraient tout aussi bien s'appeler "particules" …
 

@@ -16,7 +16,7 @@ _Réponse publiée_ [_sur Quora_](https://fr.quora.com/%C3%80-quel-point-lobsole
 On cite toujours les mêmes exemples : ampoules, bas nylons… mais
 
 > Ces exemples sont toutefois anciens et l’obsolescence programmée ne semble pas être la règle aujourd’hui. De nombreux témoignages d’utilisateurs font peser de sérieux soupçons sur quelques produits, telles des imprimantes qui tombent systématiquement en panne après un certain nombre d’impressions, mais ces cas restent rares et **aucune stratégie des industriels pour limiter la durée de vie des produits n’a pu être prouvée.**
-> (Alain Geldron de l’[ADEME](http://ademe.fr/), “[L’obsolescence programmée est-elle une stratégie répandue ?](http://www.pourlascience.fr/ewb_pages/f/fiche-article-l-obsolescence-programmee-est-elle-une-strategie-repandue-31113.php)“, 2013, Pour La Science No 425)
+> (Alain Geldron de l’[ADEME](https://web.archive.org/web/20200327052847/http://ademe.fr/), “[L’obsolescence programmée est-elle une stratégie répandue ?](https://web.archive.org/web/20201112011152/http://www.pourlascience.fr/ewb_pages/f/fiche-article-l-obsolescence-programmee-est-elle-une-strategie-repandue-31113.php)“, 2013, Pour La Science No 425)
 
 Avec la nouvelle loi française, ce sera aux tribunaux de décider si l'obsolescence programmée est une réalité.
 

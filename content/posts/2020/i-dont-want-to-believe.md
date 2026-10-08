@@ -11,9 +11,9 @@ tags:
 coverImage: "./images/i-dont-want-to-believe-i-want-to-know-prints.jpg"
 ---
 
-{{< figure src="./images/i-dont-want-to-believe-i-want-to-know-prints.jpg" alt="I Don" link="https://society6.com/product/i-dont-want-to-believe-i-want-to-know_print" >}}
+{{< figure src="./images/i-dont-want-to-believe-i-want-to-know-prints.jpg" alt="I Don" link="https://web.archive.org/web/20201024182721/https://society6.com/product/i-dont-want-to-believe-i-want-to-know_print" >}}
 
-La semaine passée, l'émission "Temps Présent" de la RTS (notre "Envoyé Spécial à nous...) a diffusé le reportage [OVNIS, une affaire d'états](https://www.rts.ch/play/tv/temps-present/video/ovnis-une-affaire-detat?id=11463697) [[1]](#ref-1) qui revient sur la publication récente de vidéos de l'US Air Force montrant des interceptions d'objets volants non identifiés par des F-18 américains.
+La semaine passée, l'émission "Temps Présent" de la RTS (notre "Envoyé Spécial à nous...) a diffusé le reportage [OVNIS, une affaire d'états](https://web.archive.org/web/20200718174317/https://www.rts.ch/play/tv/temps-present/video/ovnis-une-affaire-detat?id=11463697) [[1]](#ref-1) qui revient sur la publication récente de vidéos de l'US Air Force montrant des interceptions d'objets volants non identifiés par des F-18 américains.
 
 Il y a plusieurs raisons pour lesquelles j'ai trouvé ce reportage mauvais, voire [fallacieux](https://fr.wiktionary.org/wiki/fallacieux) , mais la principale est le passage sur
 
@@ -92,7 +92,7 @@ De la part d'une chaîne de TV qui produit (encore) des émissions de vulgarisat
 
 ### Références:
 
-1. <span id="ref-1"></span>[Ovnis, une affaire d'états](http://www.film-documentaire.fr/4DACTION/w_fiche_film/59873_1) de [Dominique Filhol](https://www.unifrance.org/annuaires/personne/363541/dominique-filhol), 2020, 77 minutes ([RTS](https://www.rts.ch/play/tv/temps-present/video/ovnis-une-affaire-detat?id=11463697))
+1. <span id="ref-1"></span>[Ovnis, une affaire d'états](https://web.archive.org/web/20200926045943/http://www.film-documentaire.fr/4DACTION/w_fiche_film/59873_1) de [Dominique Filhol](https://www.unifrance.org/annuaires/personne/363541/dominique-filhol), 2020, 77 minutes ([RTS](https://web.archive.org/web/20200718174317/https://www.rts.ch/play/tv/temps-present/video/ovnis-une-affaire-detat?id=11463697))
 2. <span id="ref-2"></span>Hal Puthoff, "Address to the SSE/IRVA Conference", Las Vegas, 8 June 2018 ([transcription en anglais](https://paradigmresearchgroup.org/2018/06/12/dr-hal-puthoff-presentation-at-the-sse-irva-conference-las-vegas-nv-15-june-2018/))
 3. <span id="ref-3"></span>[Report Compiled By Scientific Research Technologist Indicates Earthly Origin, Howe Says Material Is Still Anomaly](http://www.ufowatchdog.com/howeufodebris.htm) 
 4. <span id="ref-4"></span>[Tom DeLonge's UFO Research Company Paid $35,000 for 'Exotic' Metals, 2019, sur Vice.com](https://www.vice.com/en_us/article/qvge45/tom-delonges-ufo-research-company-paid-dollar35000-for-exotic-metals-that-might-actually-just-be-bismuth) (spoiler alert : ne cliquez pas sur ce lien avant d'avoir terminé la lecture de mon article svp...)
@@ -102,4 +102,4 @@ De la part d'une chaîne de TV qui produit (encore) des émissions de vulgarisat
 6. <span id="ref-6"></span>[Jason Colavito, "a potential solution to the mystery of the alien metal promoted by ToTheStars", 2018](http://www.jasoncolavito.com/blog/a-potential-solution-to-the-mystery-of-the-alien-metal-promoted-by-to-the-stars)
 7. <span id="ref-7"></span>[Jollivet Leon Eugene](https://patents.google.com/?inventor=Jollivet+Leon+Eugene), "Process for refining lead which contains bismuth", 1938, brevet [US2133327](https://patents.google.com/patent/US2133327A/en) 
 8. <span id="ref-8"></span>[Advanced Aerospace Threat and Identification Program: a list of all DIA products produced](https://fas.org/irp/dia/aatip-list.pdf)
-9. <span id="ref-9"></span>[Steven Aftergood](https://fas.org/author/steven-aftergood/) "[More Light on Black Program to Track UFOs](https://fas.org/secrecy/2019/01/aatip-list/)", 17 janvier  2019, sur le site de la Federation of American Scientists
+9. <span id="ref-9"></span>[Steven Aftergood](https://web.archive.org/web/20200817025213/https://fas.org/author/steven-aftergood/) "[More Light on Black Program to Track UFOs](https://fas.org/secrecy/2019/01/aatip-list/)", 17 janvier  2019, sur le site de la Federation of American Scientists

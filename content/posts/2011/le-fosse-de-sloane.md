@@ -35,8 +35,8 @@ A suivre...
 
 ### Références
 
-1. <span id="ref-1"></span>Jean-Paul Delahaye, "[Mille collections de nombres](http://www.pourlascience.fr/ewb_pages/f/fiche-article-mille-collections-de-nombres-21524.php)", Pour la Science N°379 - mai 2009, p 88-93
+1. <span id="ref-1"></span>Jean-Paul Delahaye, "[Mille collections de nombres](https://web.archive.org/web/20130612215037/http://www.pourlascience.fr/ewb_pages/f/fiche-article-mille-collections-de-nombres-21524.php)", Pour la Science N°379 - mai 2009, p 88-93
 2. <span id="ref-2"></span>"[Psychologie, mathématiques et choses connexes](http://psymath.blogspot.com/)", blog de Nicolas Gauvrit
-3. <span id="ref-3"></span>Nicolas Gauvrit, Jean-Paul Delahaye et Hector Zenil, « [Le fossé de Sloane](http://www.mathrix.org/zenil/sloane_03.pdf) », [Mathématiques et sciences humaines](http://msh.revues.org/12014), 194 | Eté 2011
+3. <span id="ref-3"></span>Nicolas Gauvrit, Jean-Paul Delahaye et Hector Zenil, « [Le fossé de Sloane](https://web.archive.org/web/20120119155024/http://www.mathrix.org/zenil/sloane_03.pdf) », [Mathématiques et sciences humaines](http://msh.revues.org/12014), 194 | Eté 2011
 4. <span id="ref-4"></span>Nicolas Gauvrit, Jean-Paul Delahaye, Hector Zenil, "[Sloane’s Gap. Mathematical and Social Factors Explain the Distribution of Numbers in the OEIS](http://arxiv.org/abs/1101.4470)", 2011, {{< altmetric arxiv="1101.4470" >}}
 5. <span id="ref-5"></span>Nicolas J.-P. Gauvrit, Jean-Paul Delahaye, & Hector Zenil (2013). Sloane’s Gap: Do Mathematical and Social Factors Explain the Distribution of Numbers in the OEIS? Journal of Humanistic Mathematics, 3 (1), 3-16 {{< altmetric doi="10.5642/jhummath.201301.03" >}} _(ajouté le 19.10.2013)_

@@ -17,4 +17,4 @@ Netanyahu affirme ne pas avoir été prévenu…
 
 Je vous mets une source israélienne pour ne pas être accusé de Jehova sait quoi.
 
-[https://fr.timesofisrael.com/net...](https://fr.timesofisrael.com/netanyahu-le-chef-du-shin-bet-savait-lattaque-du-7-octobre-probable-mais-ne-ma-pas-alerte/)
+[https://fr.timesofisrael.com/net...](https://web.archive.org/web/20250905190601/https://fr.timesofisrael.com/netanyahu-le-chef-du-shin-bet-savait-lattaque-du-7-octobre-probable-mais-ne-ma-pas-alerte/)

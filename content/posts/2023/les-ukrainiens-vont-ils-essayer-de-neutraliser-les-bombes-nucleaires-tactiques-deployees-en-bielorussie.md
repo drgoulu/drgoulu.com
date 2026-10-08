@@ -15,4 +15,4 @@ Non. ils sont protégés contre l'utilisation d'armes nucléaires par le [Mémor
 
 Déployer des armes atomiques en Biélorussie est déjà une infraction (de plus) à cet accord.
 
-[https://press.un.org/fr/2023/cs1...](https://press.un.org/fr/2023/cs15250.doc.htm)
+[https://press.un.org/fr/2023/cs1...](https://web.archive.org/web/20230603071724/https://press.un.org/fr/2023/cs15250.doc.htm)

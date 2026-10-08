@@ -17,4 +17,4 @@ patience : ça ne fait que 30 ans qu'on est capables de détecter des exoplanèt
 
 patience : il faudra des siècles, voire des millénaires pour y aller
 
-patience : la [courbe des décès militaires et civils](https://www.gurumed.org/2015/06/29/une-courbe-des-dcs-militaires-et-civils-depuis-lan-1400/)est plutôt en baisse
+patience : la [courbe des décès militaires et civils](https://web.archive.org/web/20201101010856/https://www.gurumed.org/2015/06/29/une-courbe-des-dcs-militaires-et-civils-depuis-lan-1400/)est plutôt en baisse

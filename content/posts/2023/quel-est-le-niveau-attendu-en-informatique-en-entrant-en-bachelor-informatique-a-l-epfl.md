@@ -20,4 +20,4 @@ Celui fourni par la maturité fédérale ( = "bac Suisse") soit :
 
 > Une vaste formation de base en informatique, qui comprend les éléments suivants: une introduction aux concepts théoriques et pratiques (rudiments de langages de programmation, principaux aspects techniques des réseaux informatiques, aspects de la communication numérique liés à la sécurité) et l’acquisition d’une bonne compréhension des implications de la société de l'information.
 
-Source officielle : [Les cours d’informatique seront obligatoires au gymnase](https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-71332.html)
+Source officielle : [Les cours d’informatique seront obligatoires au gymnase](https://web.archive.org/web/20230927180945/https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-71332.html)

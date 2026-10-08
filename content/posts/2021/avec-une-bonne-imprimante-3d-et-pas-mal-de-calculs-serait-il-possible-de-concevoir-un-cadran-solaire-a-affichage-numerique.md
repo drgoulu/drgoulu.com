@@ -19,6 +19,6 @@ oui, ça m'a l'air possible :-)
 
 Le modèle est là :
 
-[https://www.thingiverse.com/thin...](https://www.thingiverse.com/thing:1068443)
+[https://www.thingiverse.com/thin...](https://web.archive.org/web/20210321222824/https://www.thingiverse.com/thing:1068443)
 
 C'est fou ce qu'une recherche Google peut donner, vous devriez essayer …

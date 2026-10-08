@@ -13,8 +13,8 @@ coverImage: ./images/quora.png
 
 parce que c'est ce que les études comparatives de l'OCDE[[1]](#gmcdR) démontrent
 
-[https://read.oecd-ilibrary.org/s...](https://read.oecd-ilibrary.org/social-issues-migration-health/finland-country-health-profile-2019_20656739-en#page1)
+[https://read.oecd-ilibrary.org/s...](https://web.archive.org/web/20210517114326/https://read.oecd-ilibrary.org/social-issues-migration-health/finland-country-health-profile-2019_20656739-en#page1)
 
 Notes de bas de page
 
-[[1]](#cite-gmcdR)[Santé - OCDE](https://www.oecd.org/fr/sante/)
+[[1]](#cite-gmcdR)[Santé - OCDE](https://web.archive.org/web/20210904073908/https://www.oecd.org/fr/sante/)

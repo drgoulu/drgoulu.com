@@ -34,4 +34,4 @@ Mais peut-être pensez-vous plutôt aux préoccupations écologistes d'avoir de 
 
 Notes de bas de page
 
-[[1]](#cite-lHHyS)[Isotope composition and volume of Earth’s early oceans](https://www.pnas.org/content/early/2012/03/02/1115705109.abstract)
+[[1]](#cite-lHHyS)[Isotope composition and volume of Earth’s early oceans](https://web.archive.org/web/20191001163424/https://www.pnas.org/content/early/2012/03/02/1115705109.abstract)

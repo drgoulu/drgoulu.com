@@ -20,6 +20,6 @@ Déjà qu'on nous culpabilise de consommer 3 litres de kérosène aux 100 km dan
 
 Et pour rappel, le Concorde n'emportait que 144 passagers, a environ 8000 Euro l'aller/retour Paris- New York …
 
-[INTERACTIF. Concorde : les chiffres d'un avion d'exception](http://www.leparisien.fr/economie/interactif-concorde-les-chiffres-d-un-avion-d-exception-20-01-2016-5468555.php)
+[INTERACTIF. Concorde : les chiffres d'un avion d'exception](https://web.archive.org/web/20190526164702/http://www.leparisien.fr/economie/interactif-concorde-les-chiffres-d-un-avion-d-exception-20-01-2016-5468555.php)
 
 Bref, on ne développe plus de tels avions parce qu'on ne peut plus gagner de l'argent avec.

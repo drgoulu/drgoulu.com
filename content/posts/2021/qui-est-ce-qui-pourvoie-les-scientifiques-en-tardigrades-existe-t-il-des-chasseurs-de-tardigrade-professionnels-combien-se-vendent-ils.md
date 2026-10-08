@@ -17,7 +17,7 @@ j'ai trouvé un site internet qui en vend pour 15$ , mais il a des critiques qui
 
 Par contre j'ai trouvé cet article
 
-[https://www.tandfonline.com/doi/...](https://www.tandfonline.com/doi/full/10.1080/24750263.2021.1881631)
+[https://www.tandfonline.com/doi/...](https://web.archive.org/web/20211219033724/https://www.tandfonline.com/doi/full/10.1080/24750263.2021.1881631)
 
 qui explique comment les élever, ou plutôt les "cultiver" en laboratoire.
 

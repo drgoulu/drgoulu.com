@@ -21,4 +21,4 @@ C'est probablement ce qui nous a permis de créer une société animale assez ra
 
 Et re-pub pour ce super article :
 
-[https://homofabulus.com/homme-es...](https://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/)
+[https://homofabulus.com/homme-es...](https://web.archive.org/web/20230204045027/https://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/)

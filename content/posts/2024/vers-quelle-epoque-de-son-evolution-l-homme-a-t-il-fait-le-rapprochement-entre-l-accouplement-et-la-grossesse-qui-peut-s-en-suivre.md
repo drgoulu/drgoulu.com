@@ -15,4 +15,4 @@ Il y a entre 200'000 et 50'000 ans, voire plus récemment pour certains peuples.
 
 Article assez détaillé sur le sujet.
 
-[https://www.slate.fr/story/67281...](https://www.slate.fr/story/67281/comment-humains-rapport-sexe-bebe)
+[https://www.slate.fr/story/67281...](https://web.archive.org/web/20231121171549/https://www.slate.fr/story/67281/comment-humains-rapport-sexe-bebe)

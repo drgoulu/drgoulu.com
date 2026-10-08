@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-les-scientifiques-mesurent-ils-linclinaison-dune-plan%C3%A8te/answer/Dr-Goulu)*
 
-Excellente question dont je n'ai pas trouvé la réponse, donc je l'ai posée ici : [How was the axial tilt of planets measured?](https://astronomy.stackexchange.com/questions/41334/how-was-the-axial-tilt-of-planets-measured) et je vous tiendrai au jus …
+Excellente question dont je n'ai pas trouvé la réponse, donc je l'ai posée ici : [How was the axial tilt of planets measured?](https://web.archive.org/web/20210506192108/https://astronomy.stackexchange.com/questions/41334/how-was-the-axial-tilt-of-planets-measured) et je vous tiendrai au jus …
 
 Edit 1 : suite à un commentaire, il semble que les rotations de Vénus et de Mercure ont été mesurées par radar en 1966
 

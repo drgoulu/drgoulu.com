@@ -13,9 +13,9 @@ coverImage: ./images/quora.png
 
 Parce que c'est une goutte d'eau.
 
-Selon cet article du Point : [Le coût (infime) de la démocratie représentative](https://www.lepoint.fr/politique/pourquoi-la-democratie-representative-ne-coute-pas-si-cher-06-12-2018-2277161_20.php) :
+Selon cet article du Point : [Le coût (infime) de la démocratie représentative](https://web.archive.org/web/20230308021040/https://www.lepoint.fr/politique/pourquoi-la-democratie-representative-ne-coute-pas-si-cher-06-12-2018-2277161_20.php) :
 
-> Le budget de la Présidence de la République atteint de l'ordre de 110 millions d'euros par an. Le budget de fonctionnement de l'ensemble du gouvernement, rémunération des ministres et des collaborateurs comprise, avoisine 200 millions (et encore, en arrondissant à la hausse). Celui de l'[Assemblée nationale](https://www.lepoint.fr/tags/assemblee-nationale) pèse quant à lui 568 millions tout compris en 2019. C'est l'équivalent du budget de la ville de Nice, souligne René Dosière à titre de comparaison. Le [Sénat](https://www.lepoint.fr/tags/senat), lui, coûte 354 millions. Les deux chaînes parlementaires, 30 millions. Ajoutons le Conseil constitutionnel : environ 12 millions par an.
+> Le budget de la Présidence de la République atteint de l'ordre de 110 millions d'euros par an. Le budget de fonctionnement de l'ensemble du gouvernement, rémunération des ministres et des collaborateurs comprise, avoisine 200 millions (et encore, en arrondissant à la hausse). Celui de l'[Assemblée nationale](https://web.archive.org/web/20230324195648/https://www.lepoint.fr/tags/assemblee-nationale) pèse quant à lui 568 millions tout compris en 2019. C'est l'équivalent du budget de la ville de Nice, souligne René Dosière à titre de comparaison. Le [Sénat](https://web.archive.org/web/20230324153800/https://www.lepoint.fr/tags/senat), lui, coûte 354 millions. Les deux chaînes parlementaires, 30 millions. Ajoutons le Conseil constitutionnel : environ 12 millions par an.
 
 Allez je vous emballe le tout pour 1.3 milliards, ma p'tite dame.
 

@@ -16,9 +16,9 @@ coverImage: ./images/qimg-d4a956cab9c1a99d7469048341605677.jpg
 >
 >
 >
-> ([Lettre PIGB 14 - Aérosols et climat](https://www.cnrs.fr/cw/dossiers/dosclim1/biblio/pigb14/02_aerosols.htm) - CNRS )
+> ([Lettre PIGB 14 - Aérosols et climat](https://web.archive.org/web/20211209134601/https://www.cnrs.fr/cw/dossiers/dosclim1/biblio/pigb14/02_aerosols.htm) - CNRS )
 
-(autre référence : [Les aérosols et le climat](https://www.meteosuisse.admin.ch/home/climat/changement-climatique-suisse/les-aerosols-et-le-climat.html) - Meteo Suisse)
+(autre référence : [Les aérosols et le climat](https://web.archive.org/web/20220808190224/https://www.meteosuisse.admin.ch/home/climat/changement-climatique-suisse/les-aerosols-et-le-climat.html) - Meteo Suisse)
 
 On sait maintenant que l'émission de particules fines, notamment soufrées, à joué un rôle dans le "plateau" du réchauffement entre 1940 et 1970.
 

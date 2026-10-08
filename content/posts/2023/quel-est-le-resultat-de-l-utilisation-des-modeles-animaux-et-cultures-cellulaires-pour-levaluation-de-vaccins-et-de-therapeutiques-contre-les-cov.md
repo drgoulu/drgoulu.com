@@ -51,4 +51,4 @@ Notes de bas de page
 
 [[4]](#cite-QkbWC)[Discovery of potential anti-SARS-CoV-2 drugs based on large-scale screening in vitro and effect evaluation in vivo - Science China Life Sciences](https://link.springer.com/article/10.1007/s11427-021-2031-7)
 
-[[5]](#cite-uTIkg)[Global impact of the first year of COVID-19 vaccination: a mathematical modelling study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00320-6/fulltext)
+[[5]](#cite-uTIkg)[Global impact of the first year of COVID-19 vaccination: a mathematical modelling study](https://web.archive.org/web/20230207190947/https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00320-6/fulltext)

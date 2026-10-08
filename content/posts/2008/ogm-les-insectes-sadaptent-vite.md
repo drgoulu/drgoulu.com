@@ -19,7 +19,7 @@ Lors d'un débat sur les Organismes Génétiquement Modifiés (OGM) il y a envir
 
 {{< figure src="./images/ff92808e26afd5f6edb0fdcedf274e45.jpg" alt="Helicoverpa zea" caption="Helicoverpa zea" width="320" >}}
 
-Il avait raison : des "Bollworms" (Helicoverpa zea) résistants au [[coton Bt](http://www.ogm.org/)](https://fr.wikipedia.org/wiki/[coton_Bt](http://www.ogm.org/)) ont été [découverts dans des champs aux USA dès 2003](http://www.sciencedaily.com/releases/2008/02/080207140803.htm). Or le coton "Bt" a précisément été développé et cultivé dès 1996 pour repousser le "Bollworm", principal parasite du coton [(et responsable d'une perte de rendement de ... 1 % !)](http://deltafarmpress.com/bollwormbudworm-still-top-cotton-pest)
+Il avait raison : des "Bollworms" (Helicoverpa zea) résistants au [[coton Bt](http://www.ogm.org/)](https://fr.wikipedia.org/wiki/[coton_Bt](http://www.ogm.org/)) ont été [découverts dans des champs aux USA dès 2003](http://www.sciencedaily.com/releases/2008/02/080207140803.htm). Or le coton "Bt" a précisément été développé et cultivé dès 1996 pour repousser le "Bollworm", principal parasite du coton [(et responsable d'une perte de rendement de ... 1 % !)](https://web.archive.org/web/20150612125044/http://deltafarmpress.com/bollwormbudworm-still-top-cotton-pest)
 
 Malgré cela, un des chercheurs impliqués dans cette découverte estime que quelques insectes résistants découverts au bout de 7 ans parmi 162 millions d'hectares de plantations "Bt" est un mal acceptable et indique quelques solutions:
 

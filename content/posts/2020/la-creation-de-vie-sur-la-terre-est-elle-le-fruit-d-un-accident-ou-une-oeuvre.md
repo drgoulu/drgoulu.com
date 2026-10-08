@@ -23,4 +23,4 @@ Maintenant qu'on connait des [Ribozyme](w:) capables de s'auto répliquer[[1]](#
 
 Notes de bas de page
 
-[[1]](#cite-poudH)[Highly Efficient Self-Replicating RNA Enzymes](https://www.sciencedirect.com/science/article/pii/S1074552113004262)
+[[1]](#cite-poudH)[Highly Efficient Self-Replicating RNA Enzymes](https://web.archive.org/web/20201111231354/https://www.sciencedirect.com/science/article/pii/S1074552113004262)

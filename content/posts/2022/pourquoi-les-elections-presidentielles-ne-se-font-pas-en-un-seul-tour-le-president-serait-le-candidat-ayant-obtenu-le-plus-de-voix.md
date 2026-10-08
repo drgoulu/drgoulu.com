@@ -26,4 +26,4 @@ La seule raison pour laquelle votre système électoral n'évolue pas, c'est que
 
 Notes de bas de page
 
-[[1]](#cite-ESrVc)[https://www.cairn.info/revue-fra...](https://www.cairn.info/revue-francaise-de-science-politique-2004-1-page-99.htm)
+[[1]](#cite-ESrVc)[https://www.cairn.info/revue-fra...](https://web.archive.org/web/20211109050442/https://www.cairn.info/revue-francaise-de-science-politique-2004-1-page-99.htm)

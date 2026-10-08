@@ -18,7 +18,7 @@ coverImage: ./images/qimg-76593301b25be4f61e6ee4b04ffc1c78.png
 
 L'estimation actuelle est qu'environ 108 milliards d'humains ont vécu sur Terre
 
-Le calcul est détaillé ici : [Quel est le nombre total de personnes ayant vécu sur la Terre ?](https://www.prb.org/people-ever-lived-fr/) et présenté dans cette vidéo:
+Le calcul est détaillé ici : [Quel est le nombre total de personnes ayant vécu sur la Terre ?](https://web.archive.org/web/20190721064516/https://www.prb.org/people-ever-lived-fr/) et présenté dans cette vidéo:
 
 [https://www.youtube.com/watch?v=...](https://www.youtube.com/watch?v=mrKPTfXgs4s)
 

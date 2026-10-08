@@ -11,7 +11,7 @@ coverImage: "./images/logo.png"
 
 {{< figure src="./images/logo.png" >}}
 
-Le dossier sur "[les problèmes difficiles en mathématiques](http://www.larecherche.fr/editorial/problemes-difficiles-01-04-2007-81359)" dans le journal "[la Recherche](http://www.larecherche.fr/)" d'avril 2007 indique 7, pardon plus que 6 manières de devenir millionnaire en résolvant des problèmes de maths.
+Le dossier sur "[les problèmes difficiles en mathématiques](https://web.archive.org/web/20140129190814/http://www.larecherche.fr/editorial/problemes-difficiles-01-04-2007-81359)" dans le journal "[la Recherche](http://www.larecherche.fr/)" d'avril 2007 indique 7, pardon plus que 6 manières de devenir millionnaire en résolvant des problèmes de maths.
 
 Pour commencer, l'article présente un intéressant "arbre de la complexité" des problèmes mathématiques qui ressemble à çà:
 
@@ -29,7 +29,7 @@ Pour commencer, l'article présente un intéressant "arbre de la complexité" de
                 
                 - théorèmes d'existence, postulant l'existence d'un objet mathématique ayant certaines propriétés, objet qu'il suffit de trouver...
                     
-                    - démonstration par l'absurde : on démontre que la négation du théorème aboutit à une contradiction. Exemple : en 1761 J.H. Lambert prouva la [transcendance de pi, puis celle de e](http://www.pi314.net/lindemann.php)^a, quel que soit a.
+                    - démonstration par l'absurde : on démontre que la négation du théorème aboutit à une contradiction. Exemple : en 1761 J.H. Lambert prouva la [transcendance de pi, puis celle de e](https://web.archive.org/web/20070217071204/http://www.pi314.net/lindemann.php)^a, quel que soit a.
                     
                     - méthode, ou "algorithme" : une séquence finie d'opérations permet d'obtenir une solution
                         

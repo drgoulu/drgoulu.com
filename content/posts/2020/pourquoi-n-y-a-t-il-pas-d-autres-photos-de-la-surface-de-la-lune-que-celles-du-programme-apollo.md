@@ -22,4 +22,4 @@ Les premières photo de la surface de la Lune ont été prises par la sonde sovi
 
 Les photos sont là [Soviet Moon Images](http://mentallandscape.com/C_CatalogMoon.htm)
 
-Puis en 2013 les chinois ont posé [Chang'e 3](w:)sur la Lune et [Chang'e 4](w:)en 2019 sur la face cachée. Les images sont là : [Chang'e 4 first scientific data is released](http://moon.bao.ac.cn/pubMsg/detail-CE4EN.jsp)
+Puis en 2013 les chinois ont posé [Chang'e 3](w:)sur la Lune et [Chang'e 4](w:)en 2019 sur la face cachée. Les images sont là : [Chang'e 4 first scientific data is released](https://web.archive.org/web/20200521213253/http://moon.bao.ac.cn/pubMsg/detail-CE4EN.jsp)

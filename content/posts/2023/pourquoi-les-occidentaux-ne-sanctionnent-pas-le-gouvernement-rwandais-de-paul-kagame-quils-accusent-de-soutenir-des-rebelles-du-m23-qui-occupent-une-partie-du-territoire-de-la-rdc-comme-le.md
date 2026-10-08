@@ -17,7 +17,7 @@ Il n'y a pas de dispositif similaire en Ukraine (parce que la Russie y opposerai
 
 D'autre part les exportations d'armes et de matériel militaire vers la RDC ont été autorisées pour qu'elle puisse se défendre (en espérant qu'on ne le regrettera pas à la prochaine guerre civile…)
 
-[https://press.un.org/fr/2022/cs1...](https://press.un.org/fr/2022/cs15152.doc.htm)
+[https://press.un.org/fr/2022/cs1...](https://web.archive.org/web/20230606072624/https://press.un.org/fr/2022/cs15152.doc.htm)
 
 En juin 2022, un rapport de l'ONU a clairement re-établi le lien entre le M23 et l'armée rwandaise.
 

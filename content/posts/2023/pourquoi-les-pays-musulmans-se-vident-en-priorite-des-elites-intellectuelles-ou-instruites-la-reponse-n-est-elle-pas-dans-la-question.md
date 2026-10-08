@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 C'est vrai aussi pour la France
 
-[https://www.pourleco.com/politiq...](https://www.pourleco.com/politique-economique/fuite-des-cerveaux-la-france-condamnee-voir-partir-ses-meilleurs-talents)
+[https://www.pourleco.com/politiq...](https://web.archive.org/web/20240216010805/https://www.pourleco.com/politique-economique/fuite-des-cerveaux-la-france-condamnee-voir-partir-ses-meilleurs-talents)
 
 Et l article
 

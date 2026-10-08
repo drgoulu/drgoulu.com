@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Darwin était clairement anti esclavagiste et plutôt anti raciste
 
-[https://www.acfas.ca/publication...](https://www.acfas.ca/publications/magazine/2019/10/darwin-racisme-esclavagisme)
+[https://www.acfas.ca/publication...](https://web.archive.org/web/20251016220240/https://www.acfas.ca/publications/magazine/2019/10/darwin-racisme-esclavagisme)
 
 Il était par contre clairement sexiste, comme tous les hommes de son époque
 

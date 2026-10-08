@@ -20,6 +20,6 @@ Qui est "l'on"? Google ne trouve rien concernant une peur génétique du loup.
 
 Jusqu'ici on a réussi à démontrer l'existence de la transmission génétique de la peur que chez la souris. Et c'est la peur de l'odeur de la cerise
 
-[https://www.researchgate.net/pub...](https://www.researchgate.net/publication/259109859_Parental_olfactory_experience_influences_behavior_and_neural_structure_in_subsequent_generations)
+[https://www.researchgate.net/pub...](https://web.archive.org/web/20210616110130/https://www.researchgate.net/publication/259109859_Parental_olfactory_experience_influences_behavior_and_neural_structure_in_subsequent_generations)
 
 Donc ce n'est pas exclu, et ça expliquerait nos peurs innées des serpents et des araignées par exemple.

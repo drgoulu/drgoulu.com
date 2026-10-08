@@ -22,6 +22,6 @@ Ce qui ravage les hommes russes, ce n est pas la guerre mais l'alcool et le taba
 
 Voyant ça, les femmes souvent plus éduquées et raffinées préfèrent ne pas faire d'enfants avec eux. Les agences matrimoniales vous le confirmeront.
 
-[https://www.insee.fr/fr/statisti...](https://www.insee.fr/fr/statistiques/2383448)
+[https://www.insee.fr/fr/statisti...](https://web.archive.org/web/20230611125944/https://www.insee.fr/fr/statistiques/2383448)
 
 [Démographie de la Russie](w:Démographie_de_la_Russie)

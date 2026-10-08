@@ -28,4 +28,4 @@ Pour ce prix là, et après un milliard d'années de fonctionnement du CERN pour
 
 Notes de bas de page
 
-[[1]](#cite-FeBUg)[https://www.csnsm.in2p3.fr/IMG/p...](https://www.csnsm.in2p3.fr/IMG/pdf/antimatiere-comments.pdf)
+[[1]](#cite-FeBUg)[https://www.csnsm.in2p3.fr/IMG/p...](https://web.archive.org/web/20200318/https://www.csnsm.in2p3.fr/IMG/pdf/antimatiere-comments.pdf)

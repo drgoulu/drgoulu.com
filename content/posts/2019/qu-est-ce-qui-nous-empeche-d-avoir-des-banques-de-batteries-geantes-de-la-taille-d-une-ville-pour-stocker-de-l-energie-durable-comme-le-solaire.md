@@ -42,4 +42,4 @@ Notes de bas de page
 
 [[1]](#cite-uJPmm)[La région Île-de-France toujours plus gourmande en électricité](http://www.lefigaro.fr/conso/2017/06/15/20010-20170615ARTFIG00016-la-region-ile-de-france-toujours-plus-gourmande-en-electricite.php)
 
-[[2]](#cite-Ecmuf)[Energy Storage System Sizing Based on a Reliability Assessment of Power Systems Integrated with  Wind Power](https://www.mdpi.com/2071-1050/9/3/395)
+[[2]](#cite-Ecmuf)[Energy Storage System Sizing Based on a Reliability Assessment of Power Systems Integrated with  Wind Power](https://web.archive.org/web/20190605073836/https://www.mdpi.com/2071-1050/9/3/395)

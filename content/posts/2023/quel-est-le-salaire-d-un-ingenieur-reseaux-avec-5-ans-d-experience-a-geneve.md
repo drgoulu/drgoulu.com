@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quel-est-le-salaire-d-un-ing%C3%A9nieur-r%C3%A9seaux-avec-5-ans-d-exp%C3%A9rience-%C3%A0-Gen%C3%A8ve/answer/Dr-Goulu)*
 
-Consultez [Salarium](https://www.gate.bfs.admin.ch/salarium/public/index.html#/start).
+Consultez [Salarium](https://web.archive.org/web/20231022011138/https://www.gate.bfs.admin.ch/salarium/public/index.html#/start).

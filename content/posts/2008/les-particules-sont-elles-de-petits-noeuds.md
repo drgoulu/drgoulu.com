@@ -25,10 +25,10 @@ Les idées de base ont cependant été résumées dans un excellent petit report
 
 Ne manquez pas l'explication sur les petites dimensions recourbées sur elles-mêmes à 3.44 minutes. C'est génial.
 
-Tout ça est bien joli sous forme de théorie, mais pour la valider, il faudrait que la théorie des cordes puisse faire des prévisions que l'on puisse vérifier expérimentalement. Or Brian Greene, un des physiciens soutenant la théorie des cordes vient de faire au [TED](http://www.ted.com/) une présentation de 20 minutes (en anglais...) recouvrant bien le reportage ci-dessus, mais dans les 4 dernières minutes, il parle d'une vérification expérimentale possible au LHC du CERN, très bientôt :
+Tout ça est bien joli sous forme de théorie, mais pour la valider, il faudrait que la théorie des cordes puisse faire des prévisions que l'on puisse vérifier expérimentalement. Or Brian Greene, un des physiciens soutenant la théorie des cordes vient de faire au [TED](https://web.archive.org/web/20080526144504/http://www.ted.com/) une présentation de 20 minutes (en anglais...) recouvrant bien le reportage ci-dessus, mais dans les 4 dernières minutes, il parle d'une vérification expérimentale possible au LHC du CERN, très bientôt :
 
 {{< youtube id="YtdE662eY_M" >}}
 
-Selon lui, l'énergie totale des particules résultant d'une collision sera inférieure à l'énergie totale des protons au moment de la collision. Cette violation du principe de conservation de l'énergie ne pourra s'expliquer que si des particules "débris" sont éjectées dans les dimensions bouclées d'où elles ne peuvent pas ressortir vers les capteurs. Pour en savoir plus, les courageux peuvent lire "[Testing Times for Strings](http://cerncourier.com/cws/article/cern/28895)" par dans le CERN Courrier de Juillet 2003.
+Selon lui, l'énergie totale des particules résultant d'une collision sera inférieure à l'énergie totale des protons au moment de la collision. Cette violation du principe de conservation de l'énergie ne pourra s'expliquer que si des particules "débris" sont éjectées dans les dimensions bouclées d'où elles ne peuvent pas ressortir vers les capteurs. Pour en savoir plus, les courageux peuvent lire "[Testing Times for Strings](https://web.archive.org/web/20080514135017/http://cerncourier.com/cws/article/cern/28895)" par dans le CERN Courrier de Juillet 2003.
 
 Wow ! je vais peut-être être juste à côté de la première violation d'une loi fondamentale de la physique depuis le Big Bang !

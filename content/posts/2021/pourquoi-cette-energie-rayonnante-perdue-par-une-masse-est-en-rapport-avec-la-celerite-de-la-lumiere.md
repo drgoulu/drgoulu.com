@@ -20,7 +20,7 @@ Parce que c'est comme ça.
 
 Ce n'est pas une boutade : c'est vraiment très étonnant, surprenant, contre-intuitif et tout ce que vous voudrez comme qualificatif, mais c'est comme ça.
 
-L'article d'Einstein (1905). [Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?](https://doi.org/10.1002/ANDP.19053231314) *Annalen Der Physik*, *323*(13), 639–641.
+L'article d'Einstein (1905). [Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?](https://web.archive.org/web/20211022111632/https://doi.org/10.1002/ANDP.19053231314) *Annalen Der Physik*, *323*(13), 639–641.
 
 qui établit e=m.c^2 (en réalité il fait l'inverse : m=e/c^2 …) est génial de simplicité. 2 pages seulement ! la traduction en anglais, peut-être plus lisible, est [ici](https://www.fourmilab.ch/etexts/einstein/E_mc2/e_mc2.pdf) .
 

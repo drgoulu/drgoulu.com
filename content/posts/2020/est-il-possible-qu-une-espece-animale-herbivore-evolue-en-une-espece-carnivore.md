@@ -27,6 +27,6 @@ Et selon [Comment les régimes alimentaires ont-ils évolué au sein du règne a
 
 Notes de bas de page
 
-[[1]](#cite-OXmPy)[Per arborem ad astra: Morphological adaptations to exploiting the woody habitat in the early evolution of Hymenoptera](https://www.sciencedirect.com/science/article/abs/pii/S1467803910000708?via=ihub)
+[[1]](#cite-OXmPy)[Per arborem ad astra: Morphological adaptations to exploiting the woody habitat in the early evolution of Hymenoptera](https://web.archive.org/web/20200312/https://www.sciencedirect.com/science/article/abs/pii/S1467803910000708?via=ihub)
 
 [[2]](#cite-gOSvZ)[Carnivorous caterpillars: the behavior, biogeography and conservation of Eupithecia (Lepidoptera: Geometridae) in the Hawaiian Islands](https://link.springer.com/article/10.1007/BF00218529)

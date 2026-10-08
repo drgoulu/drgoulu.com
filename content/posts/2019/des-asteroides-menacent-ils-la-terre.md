@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Des-ast%C3%A9ro%C3%AFdes-menacent-ils-la-Terre/answer/Dr-Goulu)*
 
-Oui, la risk list de l'ESA est ici : [ESA - European Space Agency](http://neo.ssa.esa.int/risk-page)
+Oui, la risk list de l'ESA est ici : [ESA - European Space Agency](https://web.archive.org/web/20190421072036/http://neo.ssa.esa.int/risk-page)
 
 Vous voyez que de petits astéroïdes ont une probabilité assez élevée de heurter la terre (1 chance sur 16 pour 2010rf 12 en 2095, mais il ne fait que 9m donc peu de dégâts) et des risques microscopiques pour les gros (le fameux apophis en 2068, mais seulement 1 chance sur 531914 que cet objet de 374m fasse des dégâts terrifiants)
 

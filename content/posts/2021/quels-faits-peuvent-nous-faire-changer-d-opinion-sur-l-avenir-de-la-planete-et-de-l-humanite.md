@@ -15,4 +15,4 @@ Ca dépend de votre opinion ;-)
 
 Si vous êtes inquiet, commencez par regarder la conférence TED de Hans Rosling qu'il a donné au département d'Etat des USA dont le titre est "Let my dataset change your mindset", soit presque mot pour mot la réponse à votre question "laissez mes données changer votre opinion".
 
-[https://www.ted.com/talks/hans_r...](https://www.ted.com/talks/hans_rosling_let_my_dataset_change_your_mindset)
+[https://www.ted.com/talks/hans_r...](https://web.archive.org/web/20210605174319/https://www.ted.com/talks/hans_rosling_let_my_dataset_change_your_mindset)

@@ -12,6 +12,6 @@ coverImage: "./images/0b1dba183e9d4e898f2774551f3890be.jpg"
 
 J’ai vu dans un reportage sur les USA/Irak quelques extraits d’un extraordinaire discours de Robert Byrd, doyen du Sénat étatsunien. Il démontre que quelques personnes sont encore capable de réfléchir dans ce pays, et j’ai retrouvé le texte intégral du discours, traduit en français. Lisez ça !
 
-- [texte original en anglais sur le site du Sénat US](https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm)
+- [texte original en anglais sur le site du Sénat US](https://web.archive.org/web/20110227071603/https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm)
 - [traduction (automatique..) en français](http://www.africanindependent.com/discoursSenByrd203.html)
-- Autre discours de [Byrd à ce sujet : La Vérité se révèlera](http://www.voltairenet.org/article9713.html)
+- Autre discours de [Byrd à ce sujet : La Vérité se révèlera](https://web.archive.org/web/20051026163220/http://www.voltairenet.org/article9713.html)

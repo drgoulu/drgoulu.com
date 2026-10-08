@@ -64,4 +64,4 @@ c'est BEAU non ? Encore plus que des petits gravitons qui iraient de la plume à
 
 Notes de bas de page
 
-[[1]](#cite-BYgsX)[https://indico.cern.ch/event/507...](https://indico.cern.ch/event/507180/contributions/2197833/attachments/1312769/1965075/Summary_explanation.pdf)
+[[1]](#cite-BYgsX)[https://indico.cern.ch/event/507...](https://web.archive.org/web/20210928235544/https://indico.cern.ch/event/507180/contributions/2197833/attachments/1312769/1965075/Summary_explanation.pdf)

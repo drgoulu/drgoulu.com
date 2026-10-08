@@ -38,6 +38,6 @@ L’application mentionnée est l’imagerie médicale.
 
 Sources:
 
-[Novel material converts infrared light into visible light (Update)](https://phys.org/news/2019-01-scientists-visible-infrared.html)
+[Novel material converts infrared light into visible light (Update)](https://web.archive.org/web/20200702052840/https://phys.org/news/2019-01-scientists-visible-infrared.html)
 
 [Photoredox catalysis using infrared light via triplet fusion upconversion](https://www.nature.com/articles/s41586-018-0835-2)

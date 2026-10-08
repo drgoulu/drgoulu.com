@@ -26,7 +26,7 @@ Il faut encore ajouter l'effet de serre (15° pour la Terre) à $T_{eq}$pour obt
 
 On cherche donc la distance d pour laquelle $T_{eq} = 100–15°C = 358 K$
 
-soit $d = \sqrt{\frac{L(1-a)}{16\pi\sigma T^4}}$ (merci [Wolfram|Alpha](https://www.wolframalpha.com/input/?i=solve+T=(L*(1-a)/(16*s*pi*d^2))^(1/4)+for+d) …)
+soit $d = \sqrt{\frac{L(1-a)}{16\pi\sigma T^4}}$ (merci [Wolfram|Alpha](https://web.archive.org/web/20210622/https://www.wolframalpha.com/input/?i=solve+T=(L*(1-a)/(16*s*pi*d^2))^(1/4)+for+d) …)
 
 ce qui, avec les valeurs numériques plus haut, donne :
 

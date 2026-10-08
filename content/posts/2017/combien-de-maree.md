@@ -30,7 +30,7 @@ Le mécanisme des [marées](w:marée)  est habituellement expliqué comme ceci 
 3. L'attraction du Soleil crée aussi deux bosses plus petites\*\*\*, là où le Soleil est au zénith (forcément à midi) et au [nadir](w:nadir_\(astronomie\)) (à minuit), donc avec une période de 12h. C'est la "semi-diurne solaire", S2
 4. Comme ces deux périodes sont proches, la somme des marées M2+S2 varie avec les phases de la Lune. En effet, à la Nouvelle Lune, la Lune est approximativement alignée dans la direction du Soleil, à la Pleine Lune elle est alignée à l'opposé du Soleil, et aux quartiers elle est dans une direction perpendiculaire à celle du Soleil, donc M2 et S2 sont en opposition de phase et leur effet se soustrait plutôt que de s'additionner:  
 
-{{< figure align="alignright" link="http://www.voilesetvoiliers.com/cultures-voiles/syzygie-perihelie-perigee-equinoxe-saros-ecliptique/" src="images/e78bc28f1bfacbe5e3dc52b9a14fcaa4.jpg" >}}
+{{< figure align="alignright" link="https://web.archive.org/web/20171226073848/http://www.voilesetvoiliers.com/cultures-voiles/syzygie-perihelie-perigee-equinoxe-saros-ecliptique/" src="images/e78bc28f1bfacbe5e3dc52b9a14fcaa4.jpg" >}}
 
 Comme la Lune ne tourne pas autour de la Terre dans le plan de l'[écliptique](w:), que l'axe de la Terre est incliné, et que les orbites de la Terre et de la Lune ne sont pas des cercles mais des ellipses, d'autres phénomènes astronomiques à longue période viennent encore moduler ceci, produisant par exemple les grandes marées d'équinoxe [[2]](#ref-2).
 
@@ -120,7 +120,7 @@ Bonne rentrée à tous, et surtout : restez curieux !
 ### Références :
 
 1. <span id="ref-1"></span>Eric Fottorino and Eric Guillemot (2006) : _Marée basse_. 2006, ISBN: 2742416552.
-2. <span id="ref-2"></span>Dominique Bourgeois (2015) : [_Syzygie, périhélie, périgée, équinoxe, saros, écliptique…_](http://www.voilesetvoiliers.com/cultures-voiles/syzygie-perihelie-perigee-equinoxe-saros-ecliptique/). Voiles & Voiliers (Ed.): 2015.
-3. <span id="ref-3"></span>Frédéric Chambat (2015) : [_Déformation des océans sous l'effet de la force de marée_](http://culturesciencesphysique.ens-lyon.fr/ressource/maree-chambat.xml). CultureSciences Physique (Ed.): 2015.
-4. <span id="ref-4"></span>S. Speich, B. Blanke, V. Thierry, G. Roullet, E. Da Costa, T. Huck, L. Hua, Ph. Le Bot (2015) : [_L'océan en mouvement - cours d'océanographie_](http://stockage.univ-brest.fr/~speich/Enseignement/Master1/Poly_Maree_web.pdf). Laboratoire de Physique des Océans (DRO/LPO) Unité mixte de recherche CNRS-IFREMER-UBO n° 6523 (Ed.): 2015.
+2. <span id="ref-2"></span>Dominique Bourgeois (2015) : [_Syzygie, périhélie, périgée, équinoxe, saros, écliptique…_](https://web.archive.org/web/20171226073848/http://www.voilesetvoiliers.com/cultures-voiles/syzygie-perihelie-perigee-equinoxe-saros-ecliptique/). Voiles & Voiliers (Ed.): 2015.
+3. <span id="ref-3"></span>Frédéric Chambat (2015) : [_Déformation des océans sous l'effet de la force de marée_](https://web.archive.org/web/20170815/http://culturesciencesphysique.ens-lyon.fr/ressource/maree-chambat.xml). CultureSciences Physique (Ed.): 2015.
+4. <span id="ref-4"></span>S. Speich, B. Blanke, V. Thierry, G. Roullet, E. Da Costa, T. Huck, L. Hua, Ph. Le Bot (2015) : [_L'océan en mouvement - cours d'océanographie_](https://web.archive.org/web/20170815/http://stockage.univ-brest.fr/~speich/Enseignement/Master1/Poly_Maree_web.pdf). Laboratoire de Physique des Océans (DRO/LPO) Unité mixte de recherche CNRS-IFREMER-UBO n° 6523 (Ed.): 2015.
 5. <span id="ref-5"></span>P. Rocher and B. Mosser : [_Promenade dans le système solaire - les marées_](https://promenade.imcce.fr/fr/pages4/438.html). IMCCE - Observatoire de Paris (Ed.).

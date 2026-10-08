@@ -36,4 +36,4 @@ Notes de bas de page
 
 [[1]](#cite-SvtvO)[Selon Newton, l'univers serait digital - Pourquoi Comment Combien](/2011/08/13/selon-newton-lunivers-serait-digital/)
 
-[[2]](#cite-WhyOl)[https://arxiv.org/PS_cache/gr-qc...](https://arxiv.org/PS_cache/gr-qc/pdf/9702/9702052v2.pdf)
+[[2]](#cite-WhyOl)[https://arxiv.org/PS_cache/gr-qc...](https://web.archive.org/web/20210110000749/https://arxiv.org/PS_cache/gr-qc/pdf/9702/9702052v2.pdf)

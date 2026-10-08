@@ -48,4 +48,4 @@ Notes de bas de page
 
 [[1]](#cite-vZUVa)[Les dommages à l'ADN et leur réparation](https://planet-vie.ens.fr/thematiques/cellules-et-molecules/physiologie-cellulaire/les-dommages-a-l-adn-et-leur-reparation)
 
-[[2]](#cite-QOpYn)[https://www.pnas.org/doi/10.1073...](https://www.pnas.org/doi/10.1073/pnas.0407162101)
+[[2]](#cite-QOpYn)[https://www.pnas.org/doi/10.1073...](https://web.archive.org/web/20220927231239/https://www.pnas.org/doi/10.1073/pnas.0407162101)

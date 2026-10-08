@@ -42,9 +42,9 @@ Comme l'avait [si bien expliqué Feynman](/2009/06/11/il-y-a-plein-de-place-en-b
 
 ### Références
 
-1. <span id="ref-1"></span>Ko, Kawabata et al "[Engineering properties of spider silk](http://web.mit.edu/course/3/3.064/www/slides/Ko_spider_silk.pdf)"
+1. <span id="ref-1"></span>Ko, Kawabata et al "[Engineering properties of spider silk](https://web.archive.org/web/20110917094216/http://web.mit.edu/course/3/3.064/www/slides/Ko_spider_silk.pdf)"
 2. <span id="ref-2"></span>"[Pourquoi l'araignée suspendue à un fil ne tourne pas sur elle-même](http://www2.cnrs.fr/presse/communique/840.htm)", Communiqué de presse du CNRS, 30 mars 2006
 3. <span id="ref-3"></span>Olivier Emile, Albert Le Floch, Fritz Vollrath, "[Biopolymers: Shape memory in spider draglines](http://www.nature.com/nature/journal/v440/n7084/full/440621a.html)", Nature 440, 621, 30 March 2006,([graphique](http://www.nature.com/nature/journal/v440/n7084/fig_tab/440621a_F1.html))
 4. <span id="ref-4"></span>E.M. Purcell. "[Life at Low Reynolds Number](http://jila.colorado.edu/perkinsgroup/Purcell_life_at_low_reynolds_number.pdf)", 1977, American Journal of Physics vol 45, pages 3-11 ([traduction française](/2011/04/30/la-vie-a-faible-nombre-de-reynolds/))
 5. <span id="ref-5"></span>Ali Najafi, Ramin Golestanian, "[Propulsion at low Reynolds number](http://iopscience.iop.org/0953-8984/17/14/009)", 2005 J. Phys.: Condens. Matter17 S1203
-6. <span id="ref-6"></span>[Natation a faible nombre de Reynolds](http://www.cmap.polytechnique.fr/~alouges/nage.php), Centre de Mathématiques Appliquées, Polytechnique
+6. <span id="ref-6"></span>[Natation a faible nombre de Reynolds](https://web.archive.org/web/20110716162529/http://www.cmap.polytechnique.fr/~alouges/nage.php), Centre de Mathématiques Appliquées, Polytechnique

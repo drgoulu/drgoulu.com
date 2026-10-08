@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 1/3
 
-[https://www.wolframalpha.com/inp...](https://www.wolframalpha.com/input/?i=lim+((1/sin^2x)-(1/x^2))+x->0)
+[https://www.wolframalpha.com/inp...](https://web.archive.org/web/20220131/https://www.wolframalpha.com/input/?i=lim+((1/sin^2x)-(1/x^2))+x->0)

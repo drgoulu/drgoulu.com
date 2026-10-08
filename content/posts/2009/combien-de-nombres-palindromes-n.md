@@ -11,7 +11,7 @@ tags:
 coverImage: "./images/37b10823a4bb4b9808e544fa55dc514d.gif"
 ---
 
-Les problèmes du [Project Euler](/2009/02/23/project_euler/) devenant vraiment très ardus, j'ai été content de trouver [ici](http://delphi.about.com/od/delphichallengesexercises/qt/delphi-palindromic-numbers.htm) un petit challenge intéressant : déterminer rapidement le nombre de nombres palindromes inférieurs à un maximum donné.
+Les problèmes du [Project Euler](/2009/02/23/project_euler/) devenant vraiment très ardus, j'ai été content de trouver [ici](https://web.archive.org/web/20090917225638/http://delphi.about.com/od/delphichallengesexercises/qt/delphi-palindromic-numbers.htm) un petit challenge intéressant : déterminer rapidement le nombre de nombres palindromes inférieurs à un maximum donné.
 
 {{< figure src="./images/37b10823a4bb4b9808e544fa55dc514d.gif" alt="17371, un nombre palindrome" caption="un nombre palindrome" width="148" >}}
 
@@ -58,7 +58,7 @@ begin
 end;
 {{< /highlight >}}
 
-Comme il s'avère  que le [Delphi Challenge](http://delphi.about.com/od/delphichallengesexercises/qt/delphi-palindromic-numbers.htm) ne teste les algorithmes proposés qu'avec une puissance de 10, vous avez ci dessus une solution victorieuse, mais typique de la programmation agile : elle ne fonctionne (bien) que pour les tests ;-)
+Comme il s'avère  que le [Delphi Challenge](https://web.archive.org/web/20090917225638/http://delphi.about.com/od/delphichallengesexercises/qt/delphi-palindromic-numbers.htm) ne teste les algorithmes proposés qu'avec une puissance de 10, vous avez ci dessus une solution victorieuse, mais typique de la programmation agile : elle ne fonctionne (bien) que pour les tests ;-)
 
 Tentons maintenant de rendre notre programme correct quel que soit N, si possible sans le ralentir. On va même commencer par le rendre encore plus rapide en poussant le vice de la programmation agile (= paresse) encore plus loin:
 
@@ -112,4 +112,4 @@ begin
 end;
 {{< /highlight >}}
 
-Cet algorithme étant nettement plus rapide et compact que les solutions existantes du challenge, je viens de le soumettre au [challenge](http://delphi.about.com/od/delphichallengesexercises/qt/delphi-palindromic-numbers.htm) bien qu'il y ait encore une petit bulle... Pour certains maxNumber "rares", le résultat est 1 de trop. Saurez-vous trouver pourquoi avant moi ?
+Cet algorithme étant nettement plus rapide et compact que les solutions existantes du challenge, je viens de le soumettre au [challenge](https://web.archive.org/web/20090917225638/http://delphi.about.com/od/delphichallengesexercises/qt/delphi-palindromic-numbers.htm) bien qu'il y ait encore une petit bulle... Pour certains maxNumber "rares", le résultat est 1 de trop. Saurez-vous trouver pourquoi avant moi ?

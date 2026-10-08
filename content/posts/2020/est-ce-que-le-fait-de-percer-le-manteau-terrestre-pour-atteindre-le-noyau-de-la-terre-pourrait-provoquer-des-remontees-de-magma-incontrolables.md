@@ -21,6 +21,6 @@ Et voici une estimation du profil de température en fonction de la profondeur :
 
 ![](./images/qimg-14735995e80e607a5285c5a665025db8.gif)
 
-(source [https://planet-terre.ens-lyon.fr...](https://planet-terre.ens-lyon.fr/article/geotherme-profond.xml) )
+(source [https://planet-terre.ens-lyon.fr...](https://web.archive.org/web/20190920143616/https://planet-terre.ens-lyon.fr/article/geotherme-profond.xml) )
 
 Vous avez perdu. (le pari).

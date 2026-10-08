@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Wikileaks n'est pas la source de la video tik-tok. Vous vous êtes fait entuber. Apprenez à vérifier vos sources
 
-[https://www.usatoday.com/story/n...](https://www.usatoday.com/story/news/factcheck/2022/01/28/fact-check-wikileaks-did-not-release-staged-moon-landing-footage/9217263002/)
+[https://www.usatoday.com/story/n...](https://web.archive.org/web/20240430201357/https://www.usatoday.com/story/news/factcheck/2022/01/28/fact-check-wikileaks-did-not-release-staged-moon-landing-footage/9217263002/)

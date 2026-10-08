@@ -12,7 +12,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-les-Juifs-ne-reconnaissent-pas-J%C3%A9sus-comme-le-messie-alors-qu-il-est-un-descendant-direct-du-roi-David-c-est-parce-que-dans-l-ancien-testament-il-est-%C3%A9crit-que-le-messie-viendra/answer/Dr-Goulu)*
 
-Dans la superbe série d'émissions [L'origine du christianisme](https://www.arte.tv/fr/videos/029758-001-A/l-origine-du-christianisme-1-10/), un grand rabbin à qui on demande "qu'est-ce que le christianisme pour vous ?" répond : "une secte messianique qui a réussi."
+Dans la superbe série d'émissions [L'origine du christianisme](https://web.archive.org/web/20221206121133/https://www.arte.tv/fr/videos/029758-001-A/l-origine-du-christianisme-1-10/), un grand rabbin à qui on demande "qu'est-ce que le christianisme pour vous ?" répond : "une secte messianique qui a réussi."
 
 Il ajoute qu'il y a eu des dizaines de personnes dans l'histoire juive qui ont prétendu être le Messie, ou que d'autres ont présenté comme tel. (Liste partielle ici : [Prétendants juifs à la messianité — Wikipédia](w:Prétendants_juifs_à_la_messianité) )
 

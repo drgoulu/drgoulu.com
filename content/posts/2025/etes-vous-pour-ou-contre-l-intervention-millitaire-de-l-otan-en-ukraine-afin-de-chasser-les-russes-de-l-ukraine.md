@@ -30,6 +30,6 @@ La mort de Poutine me semble être la manière la plus vraisemblable de chasser 
 
 Notes de bas de page
 
-[[1]](#cite-RDHJs)[Réponse de l’OTAN à l’invasion de l’Ukraine par la Russie](https://www.nato.int/cps/fr/natohq/topics_192648.htm)
+[[1]](#cite-RDHJs)[Réponse de l’OTAN à l’invasion de l’Ukraine par la Russie](https://web.archive.org/web/20250402073606/https://www.nato.int/cps/fr/natohq/topics_192648.htm)
 
 [[2]](#cite-rfqXJ)[Relations entre l'OTAN et l'Ukraine — Wikipédia](w:Relations_entre_l'OTAN_et_l'Ukraine)

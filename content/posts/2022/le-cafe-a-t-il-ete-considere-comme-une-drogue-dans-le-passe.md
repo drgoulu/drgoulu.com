@@ -22,6 +22,6 @@ La [FDA](w:Food_and_Drug_Administration) liste la caféine parmi les « substanc
 
 La caféine à haute dose, parfois sniffée pure comme de la cocaïne, provoque une dépendance et peut provoquer le [Caféisme](w:).
 
-Honoré de Balzac était [caféinomane](https://fr.wiktionary.org/wiki/caféinomane).
+Honoré de Balzac était [caféinomane](https://web.archive.org/web/20220707165454/https://fr.wiktionary.org/wiki/caféinomane).
 
 [https://www.drgoulu.com/2012/07/...](/2012/07/07/magnifique-cafeine/#.Y3zqrXZsOCo)

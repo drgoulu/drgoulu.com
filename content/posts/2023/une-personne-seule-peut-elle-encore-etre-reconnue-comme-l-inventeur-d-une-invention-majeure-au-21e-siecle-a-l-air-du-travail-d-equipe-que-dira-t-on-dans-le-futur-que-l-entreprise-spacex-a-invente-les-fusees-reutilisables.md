@@ -28,7 +28,7 @@ Où on voit que l'idée est plus ancienne, due à un seul inventeur de sa propre
 
 Je suis tombé sur ce document
 
-- Mark A. Lemley, *The Myth of the Sole Inventor*, 110 Michigan Law Review 709 (2012) (also Stanford Public Law Working Paper No. 1856610 (2011)). ([pdf](https://repository.law.umich.edu/cgi/viewcontent.cgi?params=/context/mlr/article/1125/&path_info=))
+- Mark A. Lemley, *The Myth of the Sole Inventor*, 110 Michigan Law Review 709 (2012) (also Stanford Public Law Working Paper No. 1856610 (2011)). ([pdf](https://web.archive.org/web/20230531034347/https://repository.law.umich.edu/cgi/viewcontent.cgi?params=/context/mlr/article/1125/&path_info=))
 
 qui se termine par cette conclusion traduite pour vous :
 
@@ -52,4 +52,4 @@ Leur employeur est le "cessionnaire" ("assignee" en anglais) et dispose donc de 
 
 Notes de bas de page
 
-[[1]](#cite-YOcRu)[SpaceX Patents - Key Insights and Stats - Insights;Gate](https://insights.greyb.com/spacex-patent/)
+[[1]](#cite-YOcRu)[SpaceX Patents - Key Insights and Stats - Insights;Gate](https://web.archive.org/web/20230326161204/https://insights.greyb.com/spacex-patent/)

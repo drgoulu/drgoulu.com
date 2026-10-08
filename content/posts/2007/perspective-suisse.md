@@ -7,7 +7,7 @@ tags:
   - "suisse"
 ---
 
-Les résultats du sondage de Perspective Suisse aauquel j'avais participé sont [disponibles ici](http://www.vimentis.ch/umfrage/). Cruelle déception : je suis un Suisse moyen, pas de désaccord fondamental avec la majorité...
+Les résultats du sondage de Perspective Suisse aauquel j'avais participé sont [disponibles ici](https://web.archive.org/web/20090526210246/http://www.vimentis.ch/umfrage/). Cruelle déception : je suis un Suisse moyen, pas de désaccord fondamental avec la majorité...
 
 Mais il y a quand même quelques résultats qui me font plaisir parce qu'ils montrent que des idées originales que j'ai depuis lontemps commencent à faire leur chemin (les autres suivront...), par exemple :
 

@@ -17,7 +17,7 @@ Les quarks up et down ont été prédits par la théorie de [Murray Gell-Mann](w
 
 Ils ont été découverts expérimentalement en 1968.
 
-[Cinquante ans de quarks - CERN](https://home.cern/fr/news/news/physics/fifty-years-quarks)
+[Cinquante ans de quarks - CERN](https://web.archive.org/web/20250512062915/https://home.cern/fr/news/news/physics/fifty-years-quarks)
 
 Le up ayant une charge de 2/3 et le down -1/3 c'est assez facile de trouver les recettes :
 

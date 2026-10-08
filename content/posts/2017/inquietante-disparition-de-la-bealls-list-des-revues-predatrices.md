@@ -26,12 +26,12 @@ Dans le pire des cas, certains éditeurs ont réussi à lui faire suffisamment p
 
 D'ici là, je pourrai toujours utiliser les [versions](http://web.archive.org/web/20170111172309/https://scholarlyoa.com/individual-journals/) [archivées](https://web.archive.org/web/20170112125427/https://scholarlyoa.com/publishers) sur l'[Internet Wayback Machine](w:Internet_Archive), qui va peut-être devoir émigrer au Canada [[5]](#ref-5).
 
-Mais comme des centaines de nouvelles publications prédatrices apparaissent chaque année, ces listes seront rapidement dépassées, et peut-être qu'il faudra se contenter de la liste "positive" qu'est le [Directory of Open Access Journals (DOAJ)](https://doaj.org/) en partant de l'idée peut être trop réductrice que journal pas répertorié dans DOAJ = journal prédateur ...
+Mais comme des centaines de nouvelles publications prédatrices apparaissent chaque année, ces listes seront rapidement dépassées, et peut-être qu'il faudra se contenter de la liste "positive" qu'est le [Directory of Open Access Journals (DOAJ)](https://web.archive.org/web/20170125005913/https://doaj.org/) en partant de l'idée peut être trop réductrice que journal pas répertorié dans DOAJ = journal prédateur ...
 
 ### Références:
 
-1. <span id="ref-1"></span>"[Les revues prédatrices](https://openaccess.univ-rennes1.fr/les-revues-predatrices)", Université de Rennes 1
+1. <span id="ref-1"></span>"[Les revues prédatrices](https://web.archive.org/web/20181015004408/https://openaccess.univ-rennes1.fr/les-revues-predatrices)", Université de Rennes 1
 2. <span id="ref-2"></span>"[Why did Beall’s List of potential predatory publishers go dark?](http://retractionwatch.com/2017/01/17/bealls-list-potential-predatory-publishers-go-dark/)" sur Retraction Watch
 3. <span id="ref-3"></span>Andrew Silver "[Controversial website that lists ‘predatory’ publishers shuts down](http://www.nature.com/news/controversial-website-that-lists-predatory-publishers-shuts-down-1.21328?WT.mc_id=TWT_NatureNews)", 18 January 2017, Nature{{< altmetric doi="10.1038/nature.2017.21328" >}}
-4. <span id="ref-4"></span>Emil Karlsson "[What Happened to Jeffrey Beall’s List of (Allegedly) Predatory Publishers?](https://debunkingdenialism.com/2017/01/16/what-happened-to-jeffrey-bealls-list-of-allegedly-predatory-publishers/)", January 16, 2017 sur debunkingdenialism.com
-5. <span id="ref-5"></span>"[Internet Archive veut copier sa collection au Canada par peur de Donald Trump](http://www.lemonde.fr/pixels/article/2016/11/30/internet-archive-veut-copier-sa-collection-au-canada-par-peur-de-donald-trump_5040837_4408996.html)" 13 novembre 2016, Le Monde
+4. <span id="ref-4"></span>Emil Karlsson "[What Happened to Jeffrey Beall’s List of (Allegedly) Predatory Publishers?](https://web.archive.org/web/20170124/https://debunkingdenialism.com/2017/01/16/what-happened-to-jeffrey-bealls-list-of-allegedly-predatory-publishers/)", January 16, 2017 sur debunkingdenialism.com
+5. <span id="ref-5"></span>"[Internet Archive veut copier sa collection au Canada par peur de Donald Trump](https://web.archive.org/web/20161201132812/http://www.lemonde.fr/pixels/article/2016/11/30/internet-archive-veut-copier-sa-collection-au-canada-par-peur-de-donald-trump_5040837_4408996.html)" 13 novembre 2016, Le Monde

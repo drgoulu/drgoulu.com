@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Zero. Il n'est pas homologué en Europe
 
-[https://www.lepoint.fr/automobil...](https://www.lepoint.fr/automobile/le-cybertruck-de-tesla-interdit-de-sejour-en-europe-12-12-2023-2546675_646.php)
+[https://www.lepoint.fr/automobil...](https://web.archive.org/web/20250104224311/https://www.lepoint.fr/automobile/le-cybertruck-de-tesla-interdit-de-sejour-en-europe-12-12-2023-2546675_646.php)

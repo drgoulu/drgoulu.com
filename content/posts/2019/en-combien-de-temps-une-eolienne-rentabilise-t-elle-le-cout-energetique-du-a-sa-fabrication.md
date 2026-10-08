@@ -32,4 +32,4 @@ Ceci rappelle une des dures leçons de l'[équation de Kaya](https://www.drgoulu
 
 Notes de bas de page
 
-[[1]](#cite-XrIse)[La production d’acier réclamera moins d’énergie](https://www.industrie-techno.com/article/la-production-d-acier-reclamera-moins-d-energie.12050)
+[[1]](#cite-XrIse)[La production d’acier réclamera moins d’énergie](https://web.archive.org/web/20200809091833/https://www.industrie-techno.com/article/la-production-d-acier-reclamera-moins-d-energie.12050)

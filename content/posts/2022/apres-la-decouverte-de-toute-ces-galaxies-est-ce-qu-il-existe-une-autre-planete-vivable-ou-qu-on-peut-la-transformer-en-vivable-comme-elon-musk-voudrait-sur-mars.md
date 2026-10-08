@@ -17,4 +17,4 @@ Musk peut rêver, nous n'avons absolument pas les moyens de rendre Mars vivable.
 
 On connaît une vingtaine de planètes plus similaires à la Terre que Mars, mais elles sont trop loin. Vraiment trop loin.
 
-[https://astronomical.fandom.com/...](https://astronomical.fandom.com/wiki/Earth_Similarity_Index)
+[https://astronomical.fandom.com/...](https://web.archive.org/web/20220921191533/https://astronomical.fandom.com/wiki/Earth_Similarity_Index)

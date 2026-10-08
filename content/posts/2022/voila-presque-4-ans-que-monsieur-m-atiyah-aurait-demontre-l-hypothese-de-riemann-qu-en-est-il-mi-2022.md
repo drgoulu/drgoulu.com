@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Les spécialistes du domaine ont été beaucoup plus polis avec [Michael Atiyah](w:)qu'avec d'autres personnes ayant prétendu avoir résolu ce problème du millénaire, vu son grand âge et son passé glorieux, mais apparemment personne n'a considéré sa preuve comme valable.
 
-[https://www.science.org/content/...](https://www.science.org/content/article/skepticism-surrounds-renowned-mathematician-s-attempted-proof-160-year-old-hypothesis)
+[https://www.science.org/content/...](https://web.archive.org/web/20221010050716/https://www.science.org/content/article/skepticism-surrounds-renowned-mathematician-s-attempted-proof-160-year-old-hypothesis)

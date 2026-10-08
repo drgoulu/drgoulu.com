@@ -23,6 +23,6 @@ Multipliez par 3 pour le nombre de quarks.
 
 Notes de bas de page
 
-[[1]](#cite-ZWKMT)[Nombre d'atome dans l'Univers](http://obswww.unige.ch/Questions_Reponses/R236.html)
+[[1]](#cite-ZWKMT)[Nombre d'atome dans l'Univers](https://web.archive.org/web/20190612045121/http://obswww.unige.ch/Questions_Reponses/R236.html)
 
 [[2]](#cite-IBAWa)[physique, atomes dans l'univers](http://villemin.gerard.free.fr/Science/Atome.htm)

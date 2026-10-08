@@ -14,7 +14,7 @@ coverImage: ./images/quora.png
 
 Elle diminue depuis 2014 , donc elle n est plus relayée par les sites climatosceptiques qui utilisaient cet argument avant, en effet.
 
-[https://www.lesechos.fr/idees-de...](https://www.lesechos.fr/idees-debats/sciences-prospective/climat-la-fonte-mysterieuse-des-glaces-de-lantarctique-1036202)
+[https://www.lesechos.fr/idees-de...](https://web.archive.org/web/20210520153625/https://www.lesechos.fr/idees-debats/sciences-prospective/climat-la-fonte-mysterieuse-des-glaces-de-lantarctique-1036202)
 
 La raison de l'augmentation pendant les 3 décennies précédentes est toujours étudiée car complexe, mais on sait aujourd'hui que l'avance de certains glaciers alpins pendant le début du 20ème siècle était du à la fluidification de la glace à cause de la hausse moyenne des températures.
 

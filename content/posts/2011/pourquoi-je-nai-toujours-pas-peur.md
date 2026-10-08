@@ -11,15 +11,15 @@ tags:
 coverImage: "./images/fe628e8cff89937c9285a9079e6ae761.jpg"
 ---
 
-{{< figure src="./images/56c286d4ecad7c254a0745f9b64cee90.jpg" link="http://www.flickr.com/photos/pinksherbet/2796862756/" >}}
+{{< figure src="./images/56c286d4ecad7c254a0745f9b64cee90.jpg" link="https://web.archive.org/web/20111224163655/http://www.flickr.com/photos/pinksherbet/2796862756/" >}}
 
-_(l'article "[Why I’m (still) not worried about my cell phone hurting my brain](http://blogs.discovermagazine.com/badastronomy/2011/06/01/why-im-still-not-worried-about-my-cell-phone-hurting-my-brain/ "Permanent Link: Why I’m (still) not worried about my cell phone hurting my brain")" sur Bad Astronomy correspond tellement bien à mon point de vue que je ne vois pas la raison de réécrire sur ce sujet : je le traduis)_
+_(l'article "[Why I’m (still) not worried about my cell phone hurting my brain](https://web.archive.org/web/20110604124404/http://blogs.discovermagazine.com/badastronomy/2011/06/01/why-im-still-not-worried-about-my-cell-phone-hurting-my-brain/ "Permanent Link: Why I’m (still) not worried about my cell phone hurting my brain")" sur Bad Astronomy correspond tellement bien à mon point de vue que je ne vois pas la raison de réécrire sur ce sujet : je le traduis)_
 
 Suite au [récent communiqué de presse](http://www.iarc.fr/en/media-centre/pr/2011/pdfs/pr208_E.pdf) de l'Organisation Mondiale de la Santé disant qu'il existe un lien "possible" entre les téléphones mobiles et le cancer du cerveau, ma première réaction a été : "Sérieusement ?". Ce sujet réapparaît par ci par là de temps en temps, mais c'est la première fois que je l'entends d'un groupe aussi important que l'OMS.
 
 La raison de cette réaction initiale était que j'ai vu tant d'études ne montrant absolument aucun lien entre mobiles et problèmes de santé (à part quadrupler vos risques d'accident si vous conduisez en téléphonant) que ma réaction était passablement sceptique. J'aurais été surpris si une forte relation avait été trouvée.
 
-Il s'avère que mon impression est la bonne. Mon co-bloggeur Ed Yong [explique pourquoi sur le site Cancer Research UK](http://scienceblog.cancerresearchuk.org/2011/05/31/who-verdict-on-mobile-phones-and-cancer/). En fait, l'OMS a rangé les téléphones cellulaires dans le "Groupe 2B", qui signifie qu'ils sont "potentiellement [cancérigènes](w:Cancérogène) pour les humains". Aiiiieee! Ca fait peur…sauf que "potentiellement" doit être un peu mieux compris quantitativement.
+Il s'avère que mon impression est la bonne. Mon co-bloggeur Ed Yong [explique pourquoi sur le site Cancer Research UK](https://web.archive.org/web/20110604004036/http://scienceblog.cancerresearchuk.org/2011/05/31/who-verdict-on-mobile-phones-and-cancer/). En fait, l'OMS a rangé les téléphones cellulaires dans le "Groupe 2B", qui signifie qu'ils sont "potentiellement [cancérigènes](w:Cancérogène) pour les humains". Aiiiieee! Ca fait peur…sauf que "potentiellement" doit être un peu mieux compris quantitativement.
 
 Comme Ed le montre, le graphique des résultats de nombreux tests sur les relations entre téléphones portables et cancer montre qu'une éventuelle relation est très faible, et ne peut honnêtement pas être statistiquement distinguée de pas de relation du tout. Bien sur, il n'est pas possible de l'exclure non plus, donc il y a le mot "potentiellement". En regardant le graphique, je dirais que les risques sont très très faibles. Comme Ed le dit dans son article, "Il signifie qu'il y a un indice\* de lien entre mobiles et cancers, mais il est trop faible pour en tirer des conclusions."
 

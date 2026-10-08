@@ -24,4 +24,4 @@ Ensuite ou en parallèle, ce qui serait pas mal et plus important aussi, c'est d
 
 Notes de bas de page
 
-[[1]](#cite-oPfjr)[https://arxiv.org/ftp/arxiv/pape...](https://arxiv.org/ftp/arxiv/papers/0903/0903.0873.pdf)
+[[1]](#cite-oPfjr)[https://arxiv.org/ftp/arxiv/pape...](https://web.archive.org/web/20201112010541/https://arxiv.org/ftp/arxiv/papers/0903/0903.0873.pdf)

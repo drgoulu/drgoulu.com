@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Quelqu-un-d%C3%A9veloppe-t-il-d-autres-moyens-de-recharger-des-appareils-qui-doivent-alors-utiliser-des-fiches/answer/Dr-Goulu)*
 
-[Voir les chargeurs à induction.](https://chargeurinduction.net/)
+[Voir les chargeurs à induction.](https://web.archive.org/web/20190717170449/https://chargeurinduction.net/)

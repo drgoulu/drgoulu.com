@@ -26,9 +26,9 @@ Dans le même registre, cette vidéo cite d'autres recherches passionnantes:
 
 {{< youtube id="5loKKOySDpw" >}}
 
-(source : [Imaginascience](http://www.imaginascience.com/actualites/accueil_actualites.php?action=fullnews&showcomments=1&id=322#haut))
+(source : [Imaginascience](https://web.archive.org/web/20071019034704/http://www.imaginascience.com/actualites/accueil_actualites.php?action=fullnews&showcomments=1&id=322#haut))
 
-Tout ça m'a fait repenser au [Journal of Irreproductible Results](http://www.jir.com/) que je lisais à l'EPFL, et qui existe encore (son site web aurait besoin d'un lifting). Là des scientifiques publiaient exprès des articles absurdes pour démont(r)er des faits encore plus stupides. Je me souviens par exemple:
+Tout ça m'a fait repenser au [Journal of Irreproductible Results](https://web.archive.org/web/20071012224737/http://www.jir.com/) que je lisais à l'EPFL, et qui existe encore (son site web aurait besoin d'un lifting). Là des scientifiques publiaient exprès des articles absurdes pour démont(r)er des faits encore plus stupides. Je me souviens par exemple:
 
 1. d'une étude sur la corrélation entre le cancer et le prénom des patients, travail destiné à ccompléter les milliers d'études effectuées sur les corrélations cancer/n'importe quoi.
 2. d'une proposition d'alternative au bouclier spatial proposé par Reagan à l'époque, et qui consistait à placer des charges nucléaires réparties le long de l'Equateur. En cas de tir  des russes, on sépare les hémisphères Nord et Sud et à l'aide de moteurs on les fait tourner de 180° l'un par rapport à l'autre pour que les missiles retombent sur l'expéditeur. Plus réaliste, plus fiable et moins cher que l' "Initiative de Défense Stratégique" selon les auteurs :-)

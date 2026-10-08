@@ -15,4 +15,4 @@ Ce classement[[1]](#YDhDF) dit que c'est le Luxembourg, puis la Norvège, l'Aust
 
 Notes de bas de page
 
-[[1]](#cite-YDhDF)[La France ne figure pas dans le top 10 des pays les plus productifs au monde](https://www.expertmarket.fr/les-pays-les-plus-productifs)
+[[1]](#cite-YDhDF)[La France ne figure pas dans le top 10 des pays les plus productifs au monde](https://web.archive.org/web/20191213084037/https://www.expertmarket.fr/les-pays-les-plus-productifs)

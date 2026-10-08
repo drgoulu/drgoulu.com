@@ -19,7 +19,7 @@ qui "trouvent" tous seuls la bonne solution à un problème.
 
 Mon exemple fun préféré est
 
-[https://rednuht.org/genetic_cars_2/](https://rednuht.org/genetic_cars_2/)
+[https://rednuht.org/genetic_cars_2/](https://web.archive.org/web/20210309080337/https://rednuht.org/genetic_cars_2/)
 
 qui cherche un véhicule tous terrains de cette manière.
 

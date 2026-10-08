@@ -15,7 +15,7 @@ D'abord on en utilise moins qu'avant. Un pot catalytique de voiture actuel ne co
 
 Ensuite, on recycle à donf : 97% des métaux précieux des pots catalytiques sont recyclés.
 
-[https://www.industrie-techno.com...](https://www.industrie-techno.com/article/un-gisement-prometteur.21348)
+[https://www.industrie-techno.com...](https://web.archive.org/web/20210507122140/https://www.industrie-techno.com/article/un-gisement-prometteur.21348)
 
 Et si un jour il n'y en a plus, on fera comme toujours : on trouvera quelque chose d'autre. Comme du graphène par exemple.
 

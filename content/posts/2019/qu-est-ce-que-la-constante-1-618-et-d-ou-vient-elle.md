@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 la seule constante qui vaut exactement 1.618 est 1618/1000, soit 809/500
 
-Après, [il y a 1176 constantes connues qui commencent par 1.6180](http://wayback.cecm.sfu.ca/cgi-bin/isc/lookup?number=1.6180&lookup_type=simple)
+Après, [il y a 1176 constantes connues qui commencent par 1.6180](https://web.archive.org/web/20190528/http://wayback.cecm.sfu.ca/cgi-bin/isc/lookup?number=1.6180&lookup_type=simple)
 
 Certains accordent une importance démesurée au "[Nombre d'or](w:)" $\Phi = (1+\sqrt{5})/2 = 1.6180339887…$
 

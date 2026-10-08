@@ -9,7 +9,7 @@ tags:
 
 Les résultats du sondage "Perspective Suisse" [auquel j'avais participé](/2007/10/29/perspective-suisse-2007-et-2006/) sont disponibles :
 
-1. "bruts de coffrage" sur le site [Perspective Suisse](http://www.vimentis.ch/umfrage/ergebnisse/index.php?lan=f)
+1. "bruts de coffrage" sur le site [Perspective Suisse](https://web.archive.org/web/20080318/http://www.vimentis.ch/umfrage/ergebnisse/index.php?lan=f)
 2. avec une petite analyse dans [ce document pdf](http://drgoulu.files.wordpress.com/2008/03/resultats-perspective-suisse-2007.pdf "Résutats Perspective Suisse 2007")
 
 Les résultats (me) font froid dans le dos : la [polarisation du Parlement](/2007/10/30/le-nouveau-parlement-suisse-en-2-dimensions/) semble réellement correspondre à une évolution de la société. Selon les résultats du sondage, les écolos et l'UDC sont d'accord sur la tendance générale : une société fliquée multipliant les interdits.

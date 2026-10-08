@@ -27,6 +27,6 @@ Notes de bas de page
 
 [[1]](#cite-UHowH)[Gravi* (gravité, gravitation, champ gravitationnel, graviton…)](/2018/2018-06-26-gravi-gravite-gravitation-champ-gravitationnel-graviton)
 
-[[2]](#cite-mWzfk)[http://www.phlam.univ-lille1.fr/...](http://www.phlam.univ-lille1.fr/leshouches/cours14/Tino3a.pdf)
+[[2]](#cite-mWzfk)[http://www.phlam.univ-lille1.fr/...](https://web.archive.org/web/20190604/http://www.phlam.univ-lille1.fr/leshouches/cours14/Tino3a.pdf)
 
-[[3]](#cite-ywnHj)[Magia and gravity measurement](http://coldatoms.lens.unifi.it/index.php/magia-and-gravity/26-research/40-magia-and-gravity.html)
+[[3]](#cite-ywnHj)[Magia and gravity measurement](https://web.archive.org/web/20191019155617/http://coldatoms.lens.unifi.it/index.php/magia-and-gravity/26-research/40-magia-and-gravity.html)

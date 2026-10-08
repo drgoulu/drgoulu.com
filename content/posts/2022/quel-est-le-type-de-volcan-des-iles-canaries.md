@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Il y a près de 200 volcans répertoriés aux Canaries.
 
-[https://volcano.si.edu/search_vo...](https://volcano.si.edu/search_volcano.cfm)
+[https://volcano.si.edu/search_vo...](https://web.archive.org/web/20220206184235/https://volcano.si.edu/search_volcano.cfm)
 
 (cochez "Spain" dans la liste des pays)
 

@@ -34,4 +34,4 @@ Dans l'Origine des Espèces[[1]](#JBRbj) , Darwin cite plusieurs fois Linné, no
 
 Notes de bas de page
 
-[[1]](#cite-JBRbj)[https://static1.lecteurs.com/fil...](https://static1.lecteurs.com/files/ebooks/feedbooks/5019.pdf)
+[[1]](#cite-JBRbj)[https://static1.lecteurs.com/fil...](https://web.archive.org/web/20210426/https://static1.lecteurs.com/files/ebooks/feedbooks/5019.pdf)

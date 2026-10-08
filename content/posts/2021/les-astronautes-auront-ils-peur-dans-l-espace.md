@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Si vous vous posez cette question, il faut absolument voir cette conférence de l'astronaute Chris Hayfield qui fait une distinction très importante entre peur et danger :
 
-[https://www.ted.com/talks/chris_...](https://www.ted.com/talks/chris_hadfield_what_i_learned_from_going_blind_in_space)
+[https://www.ted.com/talks/chris_...](https://web.archive.org/web/20211020113252/https://www.ted.com/talks/chris_hadfield_what_i_learned_from_going_blind_in_space)
 
 En gros, il ne faut avoir peur que d'un danger réel, effectif, et que cette peur vous aide à avoir les bonnes réactions.
 

@@ -15,4 +15,4 @@ Mieux : cette vidéo qui m'a laissé sur le Q :
 
 {{< youtube "T_a4CqSxrXg" >}}
 
-(Crédit : [Eric Ashkar, Société Astronomique de Genève](https://www.astro-ge.net/?author=11) et RTS)
+(Crédit : [Eric Ashkar, Société Astronomique de Genève](https://web.archive.org/web/20210517110926/https://www.astro-ge.net/?author=11) et RTS)

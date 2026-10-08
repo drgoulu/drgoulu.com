@@ -19,4 +19,4 @@ En utilisant les meilleurs moyens de mesure, satellites, radars etc et les ordin
 
 Notes de bas de page
 
-[[1]](#cite-TPxLr)[Les échéances et limites de la prévision](http://www.meteofrance.fr/prevoir-le-temps/la-prevision-du-temps/les-echeances-et-limites-de-la-prevision)
+[[1]](#cite-TPxLr)[Les échéances et limites de la prévision](https://web.archive.org/web/20190430034126/http://www.meteofrance.fr/prevoir-le-temps/la-prevision-du-temps/les-echeances-et-limites-de-la-prevision)

@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 intéressant de poser cette question sur Quora, qui est écrit en Python :-)
 
-[Why did Quora choose Python for its development?](https://medium.com/@paragyte2/why-did-quora-choose-python-for-its-development-fb9f6a63d7a2)
+[Why did Quora choose Python for its development?](https://web.archive.org/web/20191124012137/https://medium.com/@paragyte2/why-did-quora-choose-python-for-its-development-fb9f6a63d7a2)
 
 YouTube, Instagram, DropBox, Reddit et d'autres très gros sites sont (partiellement) écrits en Python
 

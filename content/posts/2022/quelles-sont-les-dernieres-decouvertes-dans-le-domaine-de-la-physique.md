@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quelles-sont-les-derni%C3%A8res-d%C3%A9couvertes-dans-le-domaine-de-la-physique/answer/Dr-Goulu)*
 
-Un des journaux les plus réputés en physique[[1]](#bVmjK) (en excluant arbitrairement ceux spécialisés en astrophysique) est [Physical Review Letters](https://journals.aps.org/prl/) .
+Un des journaux les plus réputés en physique[[1]](#bVmjK) (en excluant arbitrairement ceux spécialisés en astrophysique) est [Physical Review Letters](https://web.archive.org/web/20221225095802/https://journals.aps.org/prl/) .
 
 Dans le dernier numéro (d'aujourd'hui) , vous avez les articles suivants:
 
@@ -37,4 +37,4 @@ Si vous voulez vous tenir au courant d'un domaine scientifique aussi large que l
 
 Notes de bas de page
 
-[[1]](#cite-bVmjK)[Best Physics Journals Ranking | Research.com](https://research.com/journals-rankings/physics)
+[[1]](#cite-bVmjK)[Best Physics Journals Ranking | Research.com](https://web.archive.org/web/20221119130940/https://research.com/journals-rankings/physics)

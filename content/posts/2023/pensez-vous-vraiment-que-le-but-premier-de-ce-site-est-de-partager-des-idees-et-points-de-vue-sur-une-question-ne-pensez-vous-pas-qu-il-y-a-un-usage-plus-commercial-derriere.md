@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Bien sur, il faut que ça rapporte du pognon.
 
-Si vous tapez une question dans Google, il y a de fortes chances que Quora apparaisse dans les premiers résultats. Yapluka mettre de la pub sur [Quora](http://Quora.fr).fr comme sur le site anglophone, et voilà le pognon qui rentre (20 millions en 2018. C'est pas beaucoup…)
+Si vous tapez une question dans Google, il y a de fortes chances que Quora apparaisse dans les premiers résultats. Yapluka mettre de la pub sur [Quora](https://web.archive.org/web/20230118191442/http://Quora.fr).fr comme sur le site anglophone, et voilà le pognon qui rentre (20 millions en 2018. C'est pas beaucoup…)
 
 Simplement,
 

@@ -40,4 +40,4 @@ Si vous vous intéressez à des alternatives aux batteries Lithium-Ion, vous dev
 
 Notes de bas de page
 
-[[1]](#cite-JIaBT)[Quelle est la densité d'énergie d'une batterie lithium-ion ? - Batterie ETEKWARE](https://etekware.com/fr/energy-density-lithium-ion-battery/)
+[[1]](#cite-JIaBT)[Quelle est la densité d'énergie d'une batterie lithium-ion ? - Batterie ETEKWARE](https://web.archive.org/web/20221204214039/https://etekware.com/fr/energy-density-lithium-ion-battery/)

@@ -24,7 +24,7 @@ Le Sudoku le plus difficile du monde est celui-ci :
 
 ![](./images/qimg-902f8b12234c7023af516e93bf356eb8.jpg)
 
-(Source : [aisudoku](http://www.aisudoku.com/index_en.html) via [What are the criteria for determining the difficulty of Sudoku puzzle?](https://puzzling.stackexchange.com/questions/29/what-are-the-criteria-for-determining-the-difficulty-of-sudoku-puzzle) Sur Stack Advisor)
+(Source : [aisudoku](http://www.aisudoku.com/index_en.html) via [What are the criteria for determining the difficulty of Sudoku puzzle?](https://web.archive.org/web/20210308201534/https://puzzling.stackexchange.com/questions/29/what-are-the-criteria-for-determining-the-difficulty-of-sudoku-puzzle) Sur Stack Advisor)
 
 Pour résoudre ce sudoku, vous devez faire des essais à chaque case. L'arbre à explorer est très grand, donc les algorithmes "force brute" comme celui-ci [[1]](#wgfXn) mettent plusieurs secondes (ce qui est très long) à le résoudre. Pour un humain, comptez plusieurs semaines…
 

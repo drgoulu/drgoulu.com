@@ -15,4 +15,4 @@ coverImage: ./images/quora.png
 
 Aussi probable que n'importe quel tirage, mais minimise les risques de devoir partager car ne contient pas de date.
 
-edit : après avoir trouvé [cette page](https://understandinguncertainty.org/it-possible-improve-your-chances-winning-big-national-lottery), je jouerais plutôt 32, 34, 40, 46, 48, 49
+edit : après avoir trouvé [cette page](https://web.archive.org/web/20191216130431/https://understandinguncertainty.org/it-possible-improve-your-chances-winning-big-national-lottery), je jouerais plutôt 32, 34, 40, 46, 48, 49

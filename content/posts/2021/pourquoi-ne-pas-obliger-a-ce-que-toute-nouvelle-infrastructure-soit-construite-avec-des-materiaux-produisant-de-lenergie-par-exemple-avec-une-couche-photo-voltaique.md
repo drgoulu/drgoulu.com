@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Mais oui, faites donc ça, Mme la Présidente
 
-[En Normandie, le fiasco de la plus grande route solaire du monde](https://www.lemonde.fr/planete/article/2019/07/22/en-normandie-le-fiasco-de-la-plus-grande-route-solaire-du-monde_5492044_3244.html).
+[En Normandie, le fiasco de la plus grande route solaire du monde](https://web.archive.org/web/20201201234343/https://www.lemonde.fr/planete/article/2019/07/22/en-normandie-le-fiasco-de-la-plus-grande-route-solaire-du-monde_5492044_3244.html).
 
 Comme ça le prochain président pourra décréter qu' il faut suspendre toutes les infrastructures à des treuils pour stocker ladite énergie.
 

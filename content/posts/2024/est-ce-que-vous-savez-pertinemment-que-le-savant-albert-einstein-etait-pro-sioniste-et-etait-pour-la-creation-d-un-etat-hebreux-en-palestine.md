@@ -22,6 +22,6 @@ En cherchant des informations sur Einstein et Israël, je suis tombé sur la let
 
 Et en fait il était favorable à la création de deux états, tels que prévus par le [Plan de partage de la Palestine](w:)de l'ONU de 1947, comme on le voit dans cette autre lettre au journal :
 
-[https://www.nytimes.com/1988/04/...](https://www.nytimes.com/1988/04/10/opinion/l-israel-must-let-palestinians-go-or-lose-its-soul-what-einstein-foresaw-312388.html)
+[https://www.nytimes.com/1988/04/...](https://web.archive.org/web/20240104194909/https://www.nytimes.com/1988/04/10/opinion/l-israel-must-let-palestinians-go-or-lose-its-soul-what-einstein-foresaw-312388.html)
 
 Je sais donc pertinemment que la réalité est plus complexe et Einstein plus clairvoyant que vous le pensez.

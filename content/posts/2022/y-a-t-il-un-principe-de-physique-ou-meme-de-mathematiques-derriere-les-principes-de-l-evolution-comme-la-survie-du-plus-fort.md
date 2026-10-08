@@ -29,6 +29,6 @@ On peut en effet "mathématiser" et simuler ceci dans les [Algorithmes génétiq
 
 Un très joli exemple est
 
-[https://rednuht.org/genetic_cars_2/](https://rednuht.org/genetic_cars_2/)
+[https://rednuht.org/genetic_cars_2/](https://web.archive.org/web/20220417205512/https://rednuht.org/genetic_cars_2/)
 
 qui produit des véhicules tout-terrain

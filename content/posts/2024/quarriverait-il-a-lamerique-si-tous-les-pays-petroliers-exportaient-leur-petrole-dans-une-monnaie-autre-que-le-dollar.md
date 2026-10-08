@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Rien parce que les USA n'importent plus de pétrole, ils en exportent.
 
-[https://www.eia.gov/energyexplai...](https://www.eia.gov/energyexplained/oil-and-petroleum-products/imports-and-exports.php)
+[https://www.eia.gov/energyexplai...](https://web.archive.org/web/20240816074041/https://www.eia.gov/energyexplained/oil-and-petroleum-products/imports-and-exports.php)

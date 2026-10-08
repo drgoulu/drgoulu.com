@@ -16,10 +16,10 @@ Et j'apprends avec stupéfaction que le Parlement Suisse a voté une loi obligea
 
 Avec ce genre de conséquences par exemple :
 
-- le fermier qui couvre un pan de sa grange de panneaux solaires produit pendant la journée plus d'énergie qu'il n'en consomme : il la vend au prix coûtant, soit [autour de 1 Frs le kWh (!!!)](http://www.lausanne.ch/view.asp?docId=21605&domId=63624&language=F) elle est revendue instantanément 25 cts/kWh sur le réseau. Le soir pour sa télé, il rachète de l'électricité nucléaire+hydraulique, voire éolienne s'il souffle. J'espère seulement qu'il est obligé de la payer 1 Frs aussi, et pas 25 cts ...
+- le fermier qui couvre un pan de sa grange de panneaux solaires produit pendant la journée plus d'énergie qu'il n'en consomme : il la vend au prix coûtant, soit [autour de 1 Frs le kWh (!!!)](https://web.archive.org/web/20070911015520/http://www.lausanne.ch/view.asp?docId=21605&domId=63624&language=F) elle est revendue instantanément 25 cts/kWh sur le réseau. Le soir pour sa télé, il rachète de l'électricité nucléaire+hydraulique, voire éolienne s'il souffle. J'espère seulement qu'il est obligé de la payer 1 Frs aussi, et pas 25 cts ...
 - la nuit, lorsque nos barrages achètent le surplus d'énergie nucléaire autour de 4 cts/kWh, ils devront aussi acheter à plus de 20 cts/kWh celle des éoliennes qui tournent, pour la revendre ensuite autour de 10 cts/kWh en moyenne, donc à perte alors qu'ils ont fourni le service de la stocker proprement !
 
-Tout comme le plan Wahlen avait fait planter des patates à 1500m d'altitude dont il ne reste plus trace, le "[Plan Wahlen de l'énergie](http://www.verts.ch/web/gruene/fr/positions/environnement/energie/politique_energetique/resolutions/schweizer_energiepolitik_gruene_fordern_plan_wahlen_29-08-6.html)" réclamé par les Verts consiste à planter des éoliennes dans un pays connu pour être mal venté:
+Tout comme le plan Wahlen avait fait planter des patates à 1500m d'altitude dont il ne reste plus trace, le "[Plan Wahlen de l'énergie](https://web.archive.org/web/20070826/http://www.verts.ch/web/gruene/fr/positions/environnement/energie/politique_energetique/resolutions/schweizer_energiepolitik_gruene_fordern_plan_wahlen_29-08-6.html)" réclamé par les Verts consiste à planter des éoliennes dans un pays connu pour être mal venté:
 
 [![](./images/europe.gif)](http://www.stanford.edu/group/efmh/winds/global_winds.html)
 
@@ -35,5 +35,5 @@ Si un privé motivé veut monter des panneaux solaires sur sa maison, pourquoi p
 
 En cherchant des infos, je suis tombé sur ces excellentes pages:
 
-- [sur la production, le marché et l'échange d'électricité en Suisse](http://www.installations-electriques.net/Instal/production.htm)
-- et [sur les tarifs](http://www.electricitepourdemain.ch/contents/prix-electricite)
+- [sur la production, le marché et l'échange d'électricité en Suisse](https://web.archive.org/web/20071116065123/http://www.installations-electriques.net/Instal/production.htm)
+- et [sur les tarifs](https://web.archive.org/web/20081012220639/http://www.electricitepourdemain.ch/contents/prix-electricite)

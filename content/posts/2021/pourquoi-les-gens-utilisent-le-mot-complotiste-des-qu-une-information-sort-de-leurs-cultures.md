@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Il y a des critères très nets. Avec un peu d'entraînement en vérification des informations et un esprit critique au sens de la méthode scientifique, on fait facilement la différence.
 
-[https://www.lemonde.fr/les-decod...](https://www.lemonde.fr/les-decodeurs/article/2017/01/23/decodex-comment-reconnaitre-une-theorie-complotiste_5067727_4355770.html)
+[https://www.lemonde.fr/les-decod...](https://web.archive.org/web/20211104232927/https://www.lemonde.fr/les-decodeurs/article/2017/01/23/decodex-comment-reconnaitre-une-theorie-complotiste_5067727_4355770.html)

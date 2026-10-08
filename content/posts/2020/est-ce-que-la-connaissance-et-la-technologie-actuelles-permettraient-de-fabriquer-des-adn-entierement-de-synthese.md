@@ -24,7 +24,7 @@ On est aussi capables de stocker de l'information sur de l'ADN ( [DNA digital da
 
 Pour les applications en biologie, on sait qu'un ADN de synthèse, mais qui réplique le code d'un ADN biologique, fonctionne dans une cellule :
 
-Venter, J. C. et al. (2010). [Creation of a bacterial cell controlled by a chemically synthesized genome](https://science.sciencemag.org/content/sci/early/2010/05/20/science.1190719.full.pdf). Science, 329(5987), 52–56.
+Venter, J. C. et al. (2010). [Creation of a bacterial cell controlled by a chemically synthesized genome](https://web.archive.org/web/20191006081917/https://science.sciencemag.org/content/sci/early/2010/05/20/science.1190719.full.pdf). Science, 329(5987), 52–56.
 
 Mais on n'a jusqu'ici pas réussi à coder un ADN de synthèse fonctionnel sans utiliser des gènes présents dans le code d'origine, mais selon [Biologie de synthèse — Wikipédia](w:Biologie_de_synthèse):
 

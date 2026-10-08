@@ -21,4 +21,4 @@ Le risque n'est pas totalement nul, je vous l'accorde, mais pas terrifiant non p
 
 Notes de bas de page
 
-[[1]](#cite-RPmbP)[Les glaciers - Amédée Zryd - Payot](https://www.payot.ch/Detail/les_glaciers-amedee_zryd-9782940145270)
+[[1]](#cite-RPmbP)[Les glaciers - Amédée Zryd - Payot](https://web.archive.org/web/20211110/https://www.payot.ch/Detail/les_glaciers-amedee_zryd-9782940145270)

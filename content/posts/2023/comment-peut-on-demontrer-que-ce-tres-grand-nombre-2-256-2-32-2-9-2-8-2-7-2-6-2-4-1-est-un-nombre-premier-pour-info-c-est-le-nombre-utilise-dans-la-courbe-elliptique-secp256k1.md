@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-peut-on-d%C3%A9montrer-que-ce-tr%C3%A8s-grand-nombre-2-256-2-32-2-9-2-8-2-7-2-6-2-4-1-est-un-nombre-premier-Pour-info-cest-le-nombre-utilis%C3%A9-dans-la-courbe-elliptique-secp256k1/answer/Dr-Goulu)*
 
-On demande à [Wolfram|Alpha : is 2^](https://www.wolframalpha.com/input?i=is++2^256+-+2^32+-+2^9+-+2^8+-+2^7+-+2^6+-+2^4+-+1+prime)256[- 2^32 - 2^9 - 2^8 - 2^7 - 2^6 - 2^4 - 1 prime](https://www.wolframalpha.com/input?i=is++2^256+-+2^32+-+2^9+-+2^8+-+2^7+-+2^6+-+2^4+-+1+prime)?
+On demande à [Wolfram|Alpha : is 2^](https://web.archive.org/web/20230422/https://www.wolframalpha.com/input?i=is++2^256+-+2^32+-+2^9+-+2^8+-+2^7+-+2^6+-+2^4+-+1+prime)256[- 2^32 - 2^9 - 2^8 - 2^7 - 2^6 - 2^4 - 1 prime](https://web.archive.org/web/20230422/https://www.wolframalpha.com/input?i=is++2^256+-+2^32+-+2^9+-+2^8+-+2^7+-+2^6+-+2^4+-+1+prime)?
 
 et il répond que oui, donc c'est un nombre premier.
 

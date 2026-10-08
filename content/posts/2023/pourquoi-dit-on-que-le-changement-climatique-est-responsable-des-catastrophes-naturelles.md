@@ -39,12 +39,12 @@ Cependant, pour l'effet du climat sur les tornades[[5]](#XcmYq) et les cyclones 
 
 Notes de bas de page
 
-[[1]](#cite-vSXVi)[Landslides in a changing climate](https://www.sciencedirect.com/science/article/pii/S0012825216302458)
+[[1]](#cite-vSXVi)[Landslides in a changing climate](https://web.archive.org/web/20230131143119/https://www.sciencedirect.com/science/article/pii/S0012825216302458)
 
 [[2]](#cite-TXZxF)[Réchauffement climatique: l’instabilité du pergélisol augmente la fréquence des écroulements](https://www.bafu.admin.ch/bafu/fr/home/themes/dangers-naturels/dossiers/rechauffement-climatique-et-ecroulements.html)
 
 [[3]](#cite-FnWWt)[Climate Change Could Trigger More Landslides in High Mountain Asia – Climate Change: Vital Signs of the Planet](https://climate.nasa.gov/news/2951/climate-change-could-trigger-more-landslides-in-high-mountain-asia/)
 
-[[4]](#cite-qtiVw)[Climate Change Indicators: Heavy Precipitation | US EPA](https://www.epa.gov/climate-indicators/climate-change-indicators-heavy-precipitation)
+[[4]](#cite-qtiVw)[Climate Change Indicators: Heavy Precipitation | US EPA](https://web.archive.org/web/20230606005337/https://www.epa.gov/climate-indicators/climate-change-indicators-heavy-precipitation)
 
 [[5]](#cite-XcmYq)[Tornadoes and Climate Change](https://education.nationalgeographic.org/resource/tornadoes-and-climate-change/)

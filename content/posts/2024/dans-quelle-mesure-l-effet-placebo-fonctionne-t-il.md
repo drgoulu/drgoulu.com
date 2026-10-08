@@ -17,7 +17,7 @@ L'effet placebo est analgésique , il diminue la douleur chez certaines personne
 
 Cet article a démontré que l’injection d’un placebo à une personne à laquelle on promettait un analgésique entraînait une libération de dopamine et d’endorphines endogènes, des substances de la même famille que la morphine, qui réduisent réellement la douleur :
 
-Predrag Petrovic et al. « [Placebo and Opioid Analgesia – Imaging a Shared Neuronal Network](http://www.wisebrain.org/papers/Placebo.pdf)« ,Science 1 March 2002, Vol. 295. no. 5560, pp. 1737 – 1740
+Predrag Petrovic et al. « [Placebo and Opioid Analgesia – Imaging a Shared Neuronal Network](https://web.archive.org/web/20230510113715/http://www.wisebrain.org/papers/Placebo.pdf)« ,Science 1 March 2002, Vol. 295. no. 5560, pp. 1737 – 1740
 
 Ça ne soigne pas la cause de la douleur, donc ça ne guérit pas, mais ça a un effet positif sur la santé perçue par les patients. Exactement le même effet que les médecines "naturelles" ou "alternatives". [1]
 

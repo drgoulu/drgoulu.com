@@ -9,7 +9,7 @@ tags:
 coverImage: "./images/424-prismation-dyke-Cap-Vert-01.jpg"
 ---
 
-{{< figure src="./images/424-prismation-dyke-Cap-Vert-04.jpg" alt="Droits réservés - © 2012 Geneviève Francon" link="http://planet-terre.ens-lyon.fr/image-de-la-semaine/Img424-2013-05-20.xml" >}}
+{{< figure src="./images/424-prismation-dyke-Cap-Vert-04.jpg" alt="Droits réservés - © 2012 Geneviève Francon" link="https://web.archive.org/web/20170522191738/http://planet-terre.ens-lyon.fr/image-de-la-semaine/Img424-2013-05-20.xml" >}}
 
 En ballade sur l'île de [São Vicente](w:São_Vicente_(Cap-Vert)) au Cap-Vert j'ai remarqué des structures géologiques surprenantes : des murs de [basalte](w:) quasi verticaux, parfois encastrés dans des couches horizontales, parfois se détachant sur le ciel.
 
@@ -28,5 +28,5 @@ Note \*: "dyke", ça veut dire "mur" en celte.
 ### Références
 
 1. <span id="ref-1"></span>Alain Guillon "[La prismation des roches magmatiques](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.volcanogeol.com%2Fprismation%2Fprismation.pdf)", 2003, Saga No 227
-2. <span id="ref-2"></span>Pierre Thomas "[La prismation interne des dykes : exemple des dykes de l'île de Sao Vincente, Cap Vert](http://planet-terre.ens-lyon.fr/image-de-la-semaine/Img424-2013-05-20.xml)", 2013, ENS Lyon - Laboratoire de Géologie de Lyon
-3. <span id="ref-3"></span>Bernard Duyck, "[Les structures ignées intrusives - dykes et sills.](http://www.earth-of-fire.com/article-les-structures-ignees-intrusives-dykes-et-sills-89423253.html "Parmi les plutons ")" 2011 sur Earth of Fire
+2. <span id="ref-2"></span>Pierre Thomas "[La prismation interne des dykes : exemple des dykes de l'île de Sao Vincente, Cap Vert](https://web.archive.org/web/20170522191738/http://planet-terre.ens-lyon.fr/image-de-la-semaine/Img424-2013-05-20.xml)", 2013, ENS Lyon - Laboratoire de Géologie de Lyon
+3. <span id="ref-3"></span>Bernard Duyck, "[Les structures ignées intrusives - dykes et sills.](https://web.archive.org/web/20161109132708/http://www.earth-of-fire.com/article-les-structures-ignees-intrusives-dykes-et-sills-89423253.html "Parmi les plutons ")" 2011 sur Earth of Fire

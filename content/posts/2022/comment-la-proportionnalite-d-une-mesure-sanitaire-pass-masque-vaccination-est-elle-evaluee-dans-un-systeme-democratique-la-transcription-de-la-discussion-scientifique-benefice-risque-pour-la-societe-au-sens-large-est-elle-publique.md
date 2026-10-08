@@ -16,6 +16,6 @@ En Suisse nous avons eu deux référendums contre la "loi Covid" passée en urge
 
 Les deux fois, plus de 60% des votants ont confirmé les mesures sanitaires décidées, et les mesures d'accompagnement (= d'indemnisation partielle) des secteurs économiques touchés.
 
-La [Swiss National COVID-19 Science Task Force](https://sciencetaskforce.ch/fr/page-daccueil/) publié ses recommandations en temps réel, le pouvoir politique jongle entre ça et les demandes de l'économie et de la population, comme partout je pense.
+La [Swiss National COVID-19 Science Task Force](https://web.archive.org/web/20220120121326/https://sciencetaskforce.ch/fr/page-daccueil/) publié ses recommandations en temps réel, le pouvoir politique jongle entre ça et les demandes de l'économie et de la population, comme partout je pense.
 
 Comme l'avait dit notre ministre de la santé Alain Berset dans un interview "quand 50% des gens me reprochent d'être trop strict et 50% me reprochent de ne pas l'être assez, je sais que je suis juste."

@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Une réalité, sauf que l'on ne monte pas sur la Lune : dans l'espace il n'y a pas de haut ni de bas. Six missions habitées et de nombreuses sondes automatiques ont été sur la Lune, oui.
 
-L'épisode des [Mythbusters | Moon Landing Hoax](https://www.dailymotion.com/video/x2m7k1z)démontre que
+L'épisode des [Mythbusters | Moon Landing Hoax](https://web.archive.org/web/20201107231810/https://www.dailymotion.com/video/x2m7k1z)démontre que
 
 1. Toutes les "incohérences" répertoriées par les complotistes sont autant de preuves que les images ont été tournées sur la Lune
 2. Que les moyens techniques de l'époque ne permettaient pas de réaliser de faux acceptable.

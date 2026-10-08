@@ -34,4 +34,4 @@ Donc je dirais :
 
 - si vous avez de petits graphes de moins de 10 individus, peut-être que l'éditeur en ligne de Mermaid suffit
 - si vous avez entre 10 et 100 individus, écrivez un fichier DOT ou Mermaid à la main.
-- au dessus de 100 nœuds, mettez tout dans un fichier Excel et utilisez [Excel to Graphviz](https://sourceforge.net/projects/excel-to-graphviz/) (que je viens de trouver, pas testé…) pour générer un fichier DOT à partir de vos données
+- au dessus de 100 nœuds, mettez tout dans un fichier Excel et utilisez [Excel to Graphviz](https://web.archive.org/web/20210814035027/https://sourceforge.net/projects/excel-to-graphviz/) (que je viens de trouver, pas testé…) pour générer un fichier DOT à partir de vos données

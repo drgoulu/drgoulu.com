@@ -19,6 +19,6 @@ Je ne vois pas de contradiction. L'effet placebo provient de causes physiologiqu
 >
 > ([Placebo et nocebo - Pourquoi Comment Combien](/2009/05/21/placebo-et-nocebo/))
 
-Référence : Predrag Petrovic et al. « [Placebo and Opioid Analgesia – Imaging a Shared Neuronal Network](http://www.wisebrain.org/papers/Placebo.pdf)« ,Science 1 March 2002, Vol. 295. no. 5560, pp. 1737 – 1740
+Référence : Predrag Petrovic et al. « [Placebo and Opioid Analgesia – Imaging a Shared Neuronal Network](https://web.archive.org/web/20230510113715/http://www.wisebrain.org/papers/Placebo.pdf)« ,Science 1 March 2002, Vol. 295. no. 5560, pp. 1737 – 1740
 
 PS : Je ne peux pas être fermé d'esprit puisque je ne crois pas avoir un esprit…

@@ -17,7 +17,7 @@ Faire tourner la planche à billets affaiblirait cette monnaie, ce qui n'est pas
 
 Cette allocation concernerait les 6 millions de citoyens suisses (et pas les 2 millions de residents étrangers, ce qui fait déjà que je voterai non).
 
-On créerait donc 45 milliards de francs suisses sur environ 80 milliards en circulation ([Circulation des billets de banque](https://www.snb.ch/fr/iabout/cash/id/cash_circulation)) ce qui qui pourrait faire chuter le franc de 36%, mais en réalité de beaucoup moins car la masse monétaire est plutôt de 1000 milliards de francs ([Politique monétaire](https://www.bfs.admin.ch/bfs/fr/home/statistiques/monnaie-banques-assurances/politique-monetaire.html))
+On créerait donc 45 milliards de francs suisses sur environ 80 milliards en circulation ([Circulation des billets de banque](https://web.archive.org/web/20201025015836/https://www.snb.ch/fr/iabout/cash/id/cash_circulation)) ce qui qui pourrait faire chuter le franc de 36%, mais en réalité de beaucoup moins car la masse monétaire est plutôt de 1000 milliards de francs ([Politique monétaire](https://www.bfs.admin.ch/bfs/fr/home/statistiques/monnaie-banques-assurances/politique-monetaire.html))
 
 Donc on peut se le payer, pas de problème de ce côté-là.
 

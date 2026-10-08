@@ -18,4 +18,4 @@ Entre multiples sources, le rapport du [Haut Commissariat des Nations Unies pour
 
 Notes de bas de page
 
-[[1]](#cite-ygIOW)[https://www.ohchr.org/en/documen...](https://www.ohchr.org/en/documents/country-reports/ohchr-assessment-human-rights-concerns-xinjiang-uyghur-autonomous-region)
+[[1]](#cite-ygIOW)[https://www.ohchr.org/en/documen...](https://web.archive.org/web/20240626010936/https://www.ohchr.org/en/documents/country-reports/ohchr-assessment-human-rights-concerns-xinjiang-uyghur-autonomous-region)

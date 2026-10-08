@@ -23,4 +23,4 @@ ou
 
 $b = (15 + \sqrt{209})/2$ et $a = (15 - \sqrt{209})/2$
 
-[https://www.wolframalpha.com/inp...](https://www.wolframalpha.com/input/?i=solve+b^2–15*b+4=0)
+[https://www.wolframalpha.com/inp...](https://web.archive.org/web/20210915/https://www.wolframalpha.com/input/?i=solve+b^2–15*b+4=0)

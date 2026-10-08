@@ -50,11 +50,11 @@ Note\* : outre les problèmes de construction, la jauge IMOCA limite à 5 le nom
 
 ### Sources
 
-1. Raphaël Bonamy, "[Vendée Globe. Les foils ? Ça marche comme ça...](http://www.ouest-france.fr/vendee-globe/vendee-globe-foils-quilles-deux-poids-des-mesures-4588630)", 04/11/2016, sur Ouest-France
+1. Raphaël Bonamy, "[Vendée Globe. Les foils ? Ça marche comme ça...](https://web.archive.org/web/20161128111207/http://www.ouest-france.fr/vendee-globe/vendee-globe-foils-quilles-deux-poids-des-mesures-4588630)", 04/11/2016, sur Ouest-France
 2. "[Vendée Globe : des machines volantes vont s'affronter sur l'eau](http://www.sciencesetavenir.fr/high-tech/transports/vendee-globe-ces-navires-munis-de-foils-qui-volent-au-dessus-de-l-eau_107916)", 4/11/2016, Sciences et Avenir
 3. Chloé Lottret "[Un voilier du Vendée Globe 2016 expliqué](http://www.bateaux.com/article/24257/anatomie-d-un-imoca-60)",06-11-2016, Bateaux
 4. "[DSS foils to revolutionise IMOCA 60 fleet](http://www.thedailysail.com/offshore/14/67270/0/dss-foils-to-revolutionise-imoca-60-fleet)", 22 October 2014, The Daily Sail
-5. "[Dynamic Stability Systems - Technology](http://www.dynamicstabilitysystems.com/dss-technology/)"
+5. "[Dynamic Stability Systems - Technology](https://web.archive.org/web/20161029132108/http://www.dynamicstabilitysystems.com/dss-technology/)"
 6. Hugh Burkewood Welbourn "Hydrofoil system for mono-hull sailboats", 2007, brevet [WO 2007116318 A3](https://www.google.com/patents/WO2007116318A3)
 7. Francois Paul Louis Co Rougier, Marc Emig "Disposition architecturale permettant d'augmenter de la stabilite des voiliers de type monocoque par des foils", 2004, brevet [FR2877311B3](https://patents.google.com/patent/FR2877311B3/fr)
 

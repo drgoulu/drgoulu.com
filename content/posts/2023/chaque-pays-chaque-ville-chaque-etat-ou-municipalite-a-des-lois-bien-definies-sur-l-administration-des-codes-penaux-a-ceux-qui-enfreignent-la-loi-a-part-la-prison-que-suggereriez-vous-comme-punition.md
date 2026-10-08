@@ -19,7 +19,7 @@ coverImage: ./images/quora.png
 
 je vous recommande cet excellent petit livre :
 
-André Kuhn "[Sommes-nous tous des criminels ?](https://www.payot.ch/Detail/sommes_nous_tous_des_criminels_-andre_kuhn-9782940063666) petite introduction à la criminologie", éditions de l'Hèbe, 2019, EAN13: 9782940063666
+André Kuhn "[Sommes-nous tous des criminels ?](https://web.archive.org/web/20230605/https://www.payot.ch/Detail/sommes_nous_tous_des_criminels_-andre_kuhn-9782940063666) petite introduction à la criminologie", éditions de l'Hèbe, 2019, EAN13: 9782940063666
 
 (je vois qu'il est épuisé, mais en réédition, vous le trouvez peut-être en bibliothèque)
 

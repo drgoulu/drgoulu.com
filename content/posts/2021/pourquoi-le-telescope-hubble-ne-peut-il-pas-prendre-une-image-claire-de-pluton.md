@@ -32,4 +32,4 @@ ont été obtenues après des heures d'interpolation
 
 Notes de bas de page
 
-[[1]](#cite-WuVrV)[NASA - Hubble Space Telescope](https://www.nasa.gov/missions/highlights/webcasts/shuttle/sts109/hubble-qa.html)
+[[1]](#cite-WuVrV)[NASA - Hubble Space Telescope](https://web.archive.org/web/20210723002326/https://www.nasa.gov/missions/highlights/webcasts/shuttle/sts109/hubble-qa.html)

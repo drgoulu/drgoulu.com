@@ -14,7 +14,7 @@ coverImage: ./images/quora.png
 
 Le business model de Quora semble être d'obtenir du revenu publicitaire en utilisant Google et les autres moteurs de recherche pour acquérir des visites.
 
-Par exemple si vous cherchez "pourquoi les gens posent des questions stupides" sur Google , les deux premiers résultats sont sur Quora. Pour l'instant il n'y a pas de pub sur le [Quora](http://Quora.fr).fr mais en voyant ce qui se passe sur [Quora](http://Quora.com).com ça ne devrait pas tarder…
+Par exemple si vous cherchez "pourquoi les gens posent des questions stupides" sur Google , les deux premiers résultats sont sur Quora. Pour l'instant il n'y a pas de pub sur le [Quora](https://web.archive.org/web/20230118191442/http://Quora.fr).fr mais en voyant ce qui se passe sur [Quora](http://Quora.com).com ça ne devrait pas tarder…
 
 En suivant ce business model, la qualité des questions n'a que très peu d'importance, et les réponses encore moins, il faut un max de questions sur des sujets grand public et d'actualité, avec des tags (="sujets") bien ciblés pour la pub.
 

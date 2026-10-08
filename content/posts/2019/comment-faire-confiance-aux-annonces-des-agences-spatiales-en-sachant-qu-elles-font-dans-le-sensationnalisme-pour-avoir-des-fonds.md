@@ -30,8 +30,8 @@ Et c’est peut-être là que le bât blesse : les services de communication des
 
 Notes de bas de page
 
-[[1]](#cite-HuWTn)[Vie extraterrestre: la Nasa survend ses découvertes](http://www.slate.fr/story/31181/nasa-espace-extraterrestres)
+[[1]](#cite-HuWTn)[Vie extraterrestre: la Nasa survend ses découvertes](https://web.archive.org/web/20190602161850/http://www.slate.fr/story/31181/nasa-espace-extraterrestres)
 
-[[2]](#cite-AOnTi)[Search for Past Life on Mars: Possible Relic Biogenic Activity in Martian Meteorite ALH84001](http://science.sciencemag.org/content/273/5277/924)
+[[2]](#cite-AOnTi)[Search for Past Life on Mars: Possible Relic Biogenic Activity in Martian Meteorite ALH84001](https://web.archive.org/web/20190328195248/http://science.sciencemag.org/content/273/5277/924)
 
 [[3]](#cite-aWiZi)[Y'a-t-il des trous noirs dans la mer ? - Pourquoi Comment Combien](/2013/10/05/ya-t-il-des-trous-noirs-dans-la-mer/)

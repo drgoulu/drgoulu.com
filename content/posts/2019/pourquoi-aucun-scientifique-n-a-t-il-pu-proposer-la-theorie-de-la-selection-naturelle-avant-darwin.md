@@ -34,4 +34,4 @@ Avant le 19ème siècle, le monde n'était pas prêt pour cette idée. D'ailleur
 
 Notes de bas de page
 
-[[1]](#cite-SUNvg)[https://www.osirisnet.net/docu/v...](https://www.osirisnet.net/docu/veaux/veaux.htm)
+[[1]](#cite-SUNvg)[https://www.osirisnet.net/docu/v...](https://web.archive.org/web/20200705080735/https://www.osirisnet.net/docu/veaux/veaux.htm)

@@ -15,4 +15,4 @@ Comment ça peu développée ? il y a quelques animaux comme les rapaces qui ont
 
 Il ne sert à rien de voir mieux que nécessaire pour trouver à manger, se reproduire et détecter les prédateurs.
 
-[Vision dans le règne animal](https://www.snof.org/encyclopedie/vision-dans-le-règne-animal)
+[Vision dans le règne animal](https://web.archive.org/web/20200812151803/https://www.snof.org/encyclopedie/vision-dans-le-règne-animal)

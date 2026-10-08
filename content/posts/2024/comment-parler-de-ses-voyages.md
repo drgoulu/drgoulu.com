@@ -15,6 +15,6 @@ Je n'en parle qu'à ceux que ça intéresse, qui demandent, sinon on a vite fait
 
 Et pour éviter de me répéter, retrouver les parcours etc j'utilise
 
-[https://www.polarsteps.com/?loca...](https://www.polarsteps.com/?locale=fr)
+[https://www.polarsteps.com/?loca...](https://web.archive.org/web/20251117222859/https://www.polarsteps.com/?locale=fr)
 
 C'est vraiment bien.

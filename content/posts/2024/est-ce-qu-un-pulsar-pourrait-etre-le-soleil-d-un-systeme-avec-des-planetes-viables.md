@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Très peu probable mais pas totalement exclu selon cet article :
 
-[https://www.astron.nl/habitable-...](https://www.astron.nl/habitable-planets-around-pulsars-theoretically-possible/)
+[https://www.astron.nl/habitable-...](https://web.archive.org/web/20250215104315/https://www.astron.nl/habitable-planets-around-pulsars-theoretically-possible/)
 
 La planète doit avoir une atmosphère épaisse pour protéger la surface des rayons X, donc être plus massive que la Terre, et avoir un fort champ magnétique aussi.
 

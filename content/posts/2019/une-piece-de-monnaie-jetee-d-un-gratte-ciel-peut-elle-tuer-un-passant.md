@@ -17,4 +17,4 @@ Non, le frottement dans l'air les limite à 50km/h environ [[1]](#pyyAB)
 
 Notes de bas de page
 
-[[1]](#cite-pyyAB)[What would happen if you were hit by a penny falling from a skyscraper?](https://www.usatoday.com/story/news/nation-now/2017/03/15/what-would-happen-if-you-were-hit-penny-falling-skyscraper/99160982/)
+[[1]](#cite-pyyAB)[What would happen if you were hit by a penny falling from a skyscraper?](https://web.archive.org/web/20190802063402/https://www.usatoday.com/story/news/nation-now/2017/03/15/what-would-happen-if-you-were-hit-penny-falling-skyscraper/99160982/)

@@ -17,6 +17,6 @@ Il existe quelques autres cas au monde, mais ce n'est que la toute petite pointe
 
 Dans [Planète de virus de Carl Zimmer](/2016/03/28/planete-de-virus/), un excellent bouquin tout à fait d'actualité, vous pourrez lire cette phrase à propos des papillomavirus :
 
-> Ne sous-estimez jamais la créativité d’un virus qui peut transformer des lapins en [Jackalopes](w:Jackalope) et des [hommes en arbres](http://www.maxisciences.com/peau/l-039-effrayante-maladie-de-l-039-homme-arbre-dont-la-peau-se-change-en-039-039-ecorce-039-039_art34058.html)
+> Ne sous-estimez jamais la créativité d’un virus qui peut transformer des lapins en [Jackalopes](w:Jackalope) et des [hommes en arbres](https://web.archive.org/web/20190709222134/http://www.maxisciences.com/peau/l-039-effrayante-maladie-de-l-039-homme-arbre-dont-la-peau-se-change-en-039-039-ecorce-039-039_art34058.html)
 
 Faites faire le [Vaccin contre les infections à papillomavirus humain](w:) à vos enfants !

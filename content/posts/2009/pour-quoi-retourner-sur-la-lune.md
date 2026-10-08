@@ -45,7 +45,7 @@ Au total les missions automatiques ont couté à peu près autant que les vols h
 
 ### Alors [pour quoi](/2009/01/04/pourquoi-pour-quoi/) retourner sur la Lune ?
 
-Une enquête de la NASA [[1]](#ref-1) a répertorié [181 choses](http://www.nasa.gov/pdf/163560main_LunarExplorationObjectives.pdf) intéressantes à faire sur la Lune, réparties en [6 thèmes](http://www.nasa.gov/exploration/home/why_moon.html).
+Une enquête de la NASA [[1]](#ref-1) a répertorié [181 choses](https://web.archive.org/web/20090920015346/http://www.nasa.gov/pdf/163560main_LunarExplorationObjectives.pdf) intéressantes à faire sur la Lune, réparties en [6 thèmes](https://web.archive.org/web/20090728095444/http://www.nasa.gov/exploration/home/why_moon.html).
 
 - connaissances scientifiques : installation d'instruments de mesure, de télescopes et d'expériences de physique
 - expansion économique : systèmes d'observation et de mesure de la Terre fournissant des données commercialisables, pour beaucoup en relation avec le climat
@@ -60,6 +60,6 @@ Pour justifier le coût colossal d'une base habitée sur la Lune, il faudra trou
 
 ### Références
 
-1. <span id="ref-1"></span>NASA "[Lunar Exploration Objectives](http://www.nasa.gov/exploration/home/why_moon_objectives.html)", 2006
-2. <span id="ref-2"></span>Françoise Harrois-Monin "[Pas d'hommes dans l'espace!", interview de Jacques Blamont](http://www.lexpress.fr/informations/pas-d-hommes-dans-l-espace-l-express-va-plus-loin-avec-jacques-blamont_609822.html), 21/09/1995, L'Express
-3. <span id="ref-3"></span>[La Lune: mine scientifique et tête de pont de l'exploration spatiale habitée](http://www.lematin.ch/flash-info/monde/lune-mine-scientifique-tete-pont-exploration-spatiale-habitee), Le Matin, 17 juillet 2009
+1. <span id="ref-1"></span>NASA "[Lunar Exploration Objectives](https://web.archive.org/web/20090531182513/http://www.nasa.gov/exploration/home/why_moon_objectives.html)", 2006
+2. <span id="ref-2"></span>Françoise Harrois-Monin "[Pas d'hommes dans l'espace!", interview de Jacques Blamont](https://web.archive.org/web/20090726141021/http://www.lexpress.fr/informations/pas-d-hommes-dans-l-espace-l-express-va-plus-loin-avec-jacques-blamont_609822.html), 21/09/1995, L'Express
+3. <span id="ref-3"></span>[La Lune: mine scientifique et tête de pont de l'exploration spatiale habitée](https://web.archive.org/web/20090729015631/http://www.lematin.ch/flash-info/monde/lune-mine-scientifique-tete-pont-exploration-spatiale-habitee), Le Matin, 17 juillet 2009

@@ -37,6 +37,6 @@ Vous pouvez distinguer facilement ces différents cas sur le graphique ci-dessou
 
 ![](./images/qimg-ff450f8698e078bed9accd8761069003.jpg)
 
-1. Peter Klimek, Yuri Yegorov, Rudolf Hanel, & Stefan Thurner (2012). It’s not the voting that’s democracy, it’s the counting: Statistical detection of systematic election irregularities *PNAS* DOI: [10.1073/pnas.1210722109](http://dx.doi.org/10.1073/pnas.1210722109) [(pdf)](http://arxiv.org/pdf/1201.3087.pdf)
+1. Peter Klimek, Yuri Yegorov, Rudolf Hanel, & Stefan Thurner (2012). It’s not the voting that’s democracy, it’s the counting: Statistical detection of systematic election irregularities *PNAS* DOI: [10.1073/pnas.1210722109](https://web.archive.org/web/20240705233655/http://dx.doi.org/10.1073/pnas.1210722109) [(pdf)](http://arxiv.org/pdf/1201.3087.pdf)
 
 [https://fr.slideshare.net/Goulu/...](https://fr.slideshare.net/Goulu/indicateurs-statistiques-de-fraude-lectorale)

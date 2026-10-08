@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quel-est-le-m%C3%A9tal-le-plus-r%C3%A9sistant-aux-balles-et-%C3%A0-partir-de-combien-de-centim%C3%A8tres-d%C3%A9paisseur/answer/Dr-Goulu)*
 
-D'après la [page de ce fournisseur](https://www.ssab.fr/products/brands/armox/recommended-plate-thickness-for-different-protection-levels), 4.5 mm de son acier spécial protègent d'une balle de fusil d’assaut 5.56 MI93/SS92 arrivant à 937 m/s (bout portant)
+D'après la [page de ce fournisseur](https://web.archive.org/web/20210517034934/https://www.ssab.fr/products/brands/armox/recommended-plate-thickness-for-different-protection-levels), 4.5 mm de son acier spécial protègent d'une balle de fusil d’assaut 5.56 MI93/SS92 arrivant à 937 m/s (bout portant)
 
 le brevet d'origine a l'air d'être celui-ci
 

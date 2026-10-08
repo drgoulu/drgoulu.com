@@ -24,7 +24,7 @@ Il explique justement que l'évolution ne vise pas un but, qu'il n'y a pas d'éc
 
 Darwin a "deviné" il y a 150 ans qu'il devait exister un mécanisme de transmission des caractéristiques des parents aux enfants, et en effet, la génétique découverte peu après est exactement ce mécanisme.
 
-Aujourd'hui on sait que les êtres humains continuent à évoluer pour s'adapter à leur environnement. L'exemple le plus simple et bien connu est la[tolérance au lactose](https://acces.ens-lyon.fr/acces/thematiques/evolution/dossiers-thematiques/la-tolerance-au-lactose/la-tolerance-au-lactose-dans-lespece-humaine).
+Aujourd'hui on sait que les êtres humains continuent à évoluer pour s'adapter à leur environnement. L'exemple le plus simple et bien connu est la[tolérance au lactose](https://web.archive.org/web/20241211113950/https://acces.ens-lyon.fr/acces/thematiques/evolution/dossiers-thematiques/la-tolerance-au-lactose/la-tolerance-au-lactose-dans-lespece-humaine).
 
 Un autre que j'aime beaucoup est l['adaptation à l'altitude](/2014/08/17/ladaptation-a-laltitude/).
 

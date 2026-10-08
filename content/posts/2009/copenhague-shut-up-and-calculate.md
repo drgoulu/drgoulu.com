@@ -41,10 +41,10 @@ Soyons fous : à [Copenhague](http://www.copenhague-2009.com/), adoptons la "[so
     - 509 TWh de géothermie
     - 5 TWh photovoltaïque... Allez, ajoutons les 45.3 TWh de solaire thermique pour les encourager ...
     - marémotrice et hydroliennes : autant que le photovoltaïque : 5 TWh
-    - et [2587 TWh nuclaires](http://www.developpement-durable.gouv.fr/spip.php?page=404)
+    - et [2587 TWh nuclaires](https://web.archive.org/web/20110402054029/http://www.developpement-durable.gouv.fr/spip.php?page=404)
     - le reste, soit 12'607 TWh est actuellement produit par des centrales thermiques au charbon, gaz et pétrole. Normalement on devrait inclure ceci dans les 25% de pétrole, mais admettons qu'on équipe toutes ces centrales de systèmes de capture et de stockage du CO2, ok ?Admettons qu'on arrive encore à doubler la production hydroélectrique et multiplier par 10 la production des autres renouvelables pour atteindre 14'513 TWh. Vous pouvez multiplier par 100 le photovoltaïque si vous voulez, ça ne change rien. Arrondissons la production future d'électricité totale à 30'000 TWh
 - Total de la production : 73'145 TWh, soit seulement 60% de la consommation d'une humanité à 2000 watts. **Comment produira-t-on les 43'600 TWh manquants ???**
 
 Je rappelle que ce scénario est basé sur des propositions environnementalistes actuelles qui impliquent une réduction d'un facteur 3 de la consommation d'énergie de l'Européen moyen.... Une utopie, passe encore, mais si le total ne joue pas, je m'inquiète...
 
-\*Note : _Le titre de l'article "[shut up and calculate](http://crapaudegamin.blogspot.com/2008/08/shut-up-and-calculate-le-clash-physique.html)" est la devise attribuée à "[l'école de Copenhague](w:École_de_Copenhague_(physique))", active en mécanique quantique. Elle consiste à dire qu'à un certain niveau, il faut arrêter de s'interroger sur le sens philosophique ou métaphysique des choses, et se fier uniquement aux résultats des calculs..._
+\*Note : _Le titre de l'article "[shut up and calculate](https://web.archive.org/web/20161013035929/http://crapaudegamin.blogspot.com/2008/08/shut-up-and-calculate-le-clash-physique.html)" est la devise attribuée à "[l'école de Copenhague](w:École_de_Copenhague_(physique))", active en mécanique quantique. Elle consiste à dire qu'à un certain niveau, il faut arrêter de s'interroger sur le sens philosophique ou métaphysique des choses, et se fier uniquement aux résultats des calculs..._

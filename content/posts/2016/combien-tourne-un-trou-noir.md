@@ -48,7 +48,7 @@ Plus récemment, c'est le [trou noir supermassif](w:) au centre de la galaxie [N
 
 Comme le dit Fraser Cain à la fin de son article [[6]](#ref-6), l'Univers est vraiment un endroit fou. J'ajouterais qu'il est très probablement pudique.
 
-Notes: \* je pensais évidemment écrire "troublants" mais j'ai eu honte... \*\* cet article a été motivé par [cette conférence](https://mediaserver.unige.ch/play/89366) de [Jean-Pierre Luminet](w:) à laquelle j'ai assisté l'an passé, suite à laquelle j'ai échangé quelques mails avec Alain Riazuelo.
+Notes: \* je pensais évidemment écrire "troublants" mais j'ai eu honte... \*\* cet article a été motivé par [cette conférence](https://web.archive.org/web/20250816131150/https://mediaserver.unige.ch/play/89366) de [Jean-Pierre Luminet](w:) à laquelle j'ai assisté l'an passé, suite à laquelle j'ai échangé quelques mails avec Alain Riazuelo.
 
 ### Références
 

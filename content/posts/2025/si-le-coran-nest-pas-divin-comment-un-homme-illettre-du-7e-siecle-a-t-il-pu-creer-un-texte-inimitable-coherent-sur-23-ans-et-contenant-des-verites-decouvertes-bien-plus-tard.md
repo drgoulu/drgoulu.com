@@ -17,13 +17,13 @@ Toutes les analyses du texte montrent que le Coran a été rédigé par une ving
 >
 >
 >
-> ([Qui a compilé et écrit le Coran ?](https://qurantrace.com/fr/blogs/blogs/sample-blog2?srsltid=AfmBOoqF1fO4AVyctB4PbQZj3dyhECqzAD8BrZ5qZkCrw6y7tBYk7Vkw) )
+> ([Qui a compilé et écrit le Coran ?](https://web.archive.org/web/20250627/https://qurantrace.com/fr/blogs/blogs/sample-blog2?srsltid=AfmBOoqF1fO4AVyctB4PbQZj3dyhECqzAD8BrZ5qZkCrw6y7tBYk7Vkw) )
 
 Être illettré n'empêche pas d'être intelligent, ni imaginatif.
 
 D'autres vous ont expliqué que le Coran est non seulement imitable, mais que ça a été fait . [Dès le début](w:Versets_sataniques_du_Coran).
 
-Pour les erreur scientifiques, c'est ici (et c'est un site islamique ) : [Les erreurs scientifiques du Coran](https://wikiislam.net/wiki/Les_erreurs_scientifiques_du_Coran)
+Pour les erreur scientifiques, c'est ici (et c'est un site islamique ) : [Les erreurs scientifiques du Coran](https://web.archive.org/web/20250726132246/https://wikiislam.net/wiki/Les_erreurs_scientifiques_du_Coran)
 
 Vos "vérités découvertes plus tard" sont du [Concordisme](w:). Ca existe pour n'importe quel texte religieux, les prédictions de Nostradamus, sans oublier Alice au Pays des Merveilles …
 

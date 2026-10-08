@@ -32,7 +32,7 @@ Selon Gemini IA:
 >
 >
 >
-> - **Auteurs majeurs** : Des organisations comme [Al-Qaïda](https://cours.unjf.fr/repository/coursefilearea/file.php/205/Cours/09_item/indexI0.htm) et l'[État islamique (Daech)](https://shs.cairn.info/revue-confluences-mediterranee-2017-3-page-65?lang=fr) sont responsables de la quasi-totalité des attaques de masse à l'échelle internationale.
+> - **Auteurs majeurs** : Des organisations comme [Al-Qaïda](https://cours.unjf.fr/repository/coursefilearea/file.php/205/Cours/09_item/indexI0.htm) et l'[État islamique (Daech)](https://web.archive.org/web/20250517171320/https://shs.cairn.info/revue-confluences-mediterranee-2017-3-page-65?lang=fr) sont responsables de la quasi-totalité des attaques de masse à l'échelle internationale.
 > - **Données globales** : Selon les études de la [Fondapol](https://www.fondapol.org/etude/les-attentats-islamistes-dans-le-monde-1979-2024/), la dynamique du terrorisme mondial depuis 1979 est massivement portée par la mouvance sunnite, qui représente plus de 90 % des victimes d'attentats islamistes. [1, 2, 3, 4, 5]
 >
 >
@@ -58,7 +58,7 @@ Selon Gemini IA:
 >
 >
 >
-> - **Attaques confessionnelles** : Les groupes sunnites radicaux comme Daech considèrent les chiites comme des "hérétiques" et visent fréquemment leurs lieux de culte, comme lors d'attentats récents au [Pakistan](https://www.humanite.fr/monde/daesh/pakistan-31-morts-dans-une-mosquee-chiite-apres-un-attentat-suicide-revendique-par-daech) ou au [Yémen](https://news.un.org/fr/story/2015/09/319282).
+> - **Attaques confessionnelles** : Les groupes sunnites radicaux comme Daech considèrent les chiites comme des "hérétiques" et visent fréquemment leurs lieux de culte, comme lors d'attentats récents au [Pakistan](https://www.humanite.fr/monde/daesh/pakistan-31-morts-dans-une-mosquee-chiite-apres-un-attentat-suicide-revendique-par-daech) ou au [Yémen](https://web.archive.org/web/20240526111206/https://news.un.org/fr/story/2015/09/319282).
 > - **Guerres civiles** : En Irak, la majorité des victimes civiles depuis 2003 résulte des affrontements entre ces deux branches, avec une prépondérance des pertes causées par les insurrections sunnites contre les populations chiites et les forces gouvernementales. [8, 10, 11, 12]
 >
 >
@@ -71,7 +71,7 @@ Selon Gemini IA:
 >
 >
 >
-> [2] [https://shs.cairn.info](https://shs.cairn.info/revue-confluences-mediterranee-2017-3-page-65?lang=fr)
+> [2] [https://shs.cairn.info](https://web.archive.org/web/20250517171320/https://shs.cairn.info/revue-confluences-mediterranee-2017-3-page-65?lang=fr)
 >
 >
 >
@@ -87,7 +87,7 @@ Selon Gemini IA:
 >
 >
 >
-> [6] [https://eismena.com](https://eismena.com/article/les-milices-chiites-et-daech-les-deux-visages-de-la-violence-en-irak-2022-03-11)
+> [6] [https://eismena.com](https://web.archive.org/web/20250429164756/https://eismena.com/article/les-milices-chiites-et-daech-les-deux-visages-de-la-violence-en-irak-2022-03-11)
 >
 >
 >

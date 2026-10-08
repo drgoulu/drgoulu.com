@@ -15,7 +15,7 @@ coverImage: "./images/5c837c6405891a43753218d4613a49ec.png"
 
 **Faux** parce que les notions de "force" ou de "supériorité" sont quasiment absentes du [texte intégral de l' "origine des espèces"](http://abu.cnam.fr/cgi-bin/donner_html?espece1). Darwin n'utilise ces mots qu'en relation avec la "sélection artificielle" opérée par les éleveurs de chevaux en particulier. D'ailleurs Darwin ne s'intéresse que peu aux individus, et beaucoup aux espèces, comme on le voit dans le  "Wordle" ci-dessous formé avec les mots les plus fréquents de son livre\*
 
-{{< figure src="./images/5c837c6405891a43753218d4613a49ec.png" alt="wordledarwin1" caption="Mots les plus fréquents dans \"On the Origin of Species\" de Darwin, fait avec Wordle.com" link="http://www.wordle.net/gallery?username=Dr.%20Goulu" align="aligncenter" width="468" >}}
+{{< figure src="./images/5c837c6405891a43753218d4613a49ec.png" alt="wordledarwin1" caption="Mots les plus fréquents dans \"On the Origin of Species\" de Darwin, fait avec Wordle.com" link="https://web.archive.org/web/20120211085057/http://www.wordle.net/gallery?username=Dr.%20Goulu" align="aligncenter" width="468" >}}
 
 A part "espèces", les mots clés de l'oeuvre de Darwin concernent la variété, le nombre et la diversité des espèces, et bien sur, la "sélection naturelle". C'est cette notion clé qui est trop souvent mal comprise. Darwin la distingue de la "sélection artificielle" qui poursuit un but, et de la "sélection inconsciente" qui fait qu'on garde les chatons les plus mignons d'une portée et euthanasie les autres:
 
@@ -49,5 +49,5 @@ Si "la raison du plus fort était la meilleure", il n'y aurait plus d'agneaux, p
 
 ### Notes:
 
-\* le Wordle est fait à partir à partir du [texte anglais](https://archive.org/stream/originofspecies00darwuoft/originofspecies00darwuoft_djvu.txt), parce que Wordle n'élimine pas bien les mots sans intérêt dans la  [version française](http://www.wordle.net/show/wrdl/457324/L%27Origine_des_Esp%C3%A8ces) 
+\* le Wordle est fait à partir à partir du [texte anglais](https://archive.org/stream/originofspecies00darwuoft/originofspecies00darwuoft_djvu.txt), parce que Wordle n'élimine pas bien les mots sans intérêt dans la  [version française](https://web.archive.org/web/20191020161946/http://www.wordle.net/show/wrdl/457324/L%27Origine_des_Esp%C3%A8ces) 
 \*\* désolé pour ce lien, mais ça pourrait devenir une [Google Bomb](w:Bombardement_Google) ...

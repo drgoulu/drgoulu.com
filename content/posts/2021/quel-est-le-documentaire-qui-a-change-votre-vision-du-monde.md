@@ -15,4 +15,4 @@ Les conférences de Hans Rosling.
 
 Commencez par celle-ci :
 
-[https://www.ted.com/talks/hans_r...](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=fr)
+[https://www.ted.com/talks/hans_r...](https://web.archive.org/web/20210305004501/https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?language=fr)

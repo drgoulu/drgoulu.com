@@ -28,4 +28,4 @@ D'ailleurs l'oscillation annuelle du taux de O2 correspond exactement, inversée
 
 Notes de bas de page
 
-[[1]](#cite-UVfJm)[http://bluemoon.ucsd.edu/images/...](http://bluemoon.ucsd.edu/images/ALLo.pdf)
+[[1]](#cite-UVfJm)[http://bluemoon.ucsd.edu/images/...](https://web.archive.org/web/20210421141521/http://bluemoon.ucsd.edu/images/ALLo.pdf)

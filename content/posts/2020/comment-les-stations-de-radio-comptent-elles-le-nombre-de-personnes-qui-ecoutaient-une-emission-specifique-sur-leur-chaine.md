@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ma maman a été tirée au sort pour porter pendant quelques mois une montre qui corèle le son qu'elle capte à 200 chaînes de radio et de TV toutes les 3 minutes. La montre transmettait les données captées la nuit, pendant sa recharge.
 
-[Mediapulse introduit un nouveau système de mesure radio](https://www.srgssr.ch/fr/news-medias/news/mediapulse-introduit-un-nouveau-systeme-de-mesure-radio/)
+[Mediapulse introduit un nouveau système de mesure radio](https://web.archive.org/web/20230420165945/https://www.srgssr.ch/fr/news-medias/news/mediapulse-introduit-un-nouveau-systeme-de-mesure-radio/)

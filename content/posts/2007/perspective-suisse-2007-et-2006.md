@@ -7,9 +7,9 @@ tags:
   - "suisse"
 ---
 
-[Perspective Suisse](http://www.vimentis.ch/umfrage/?ref2=c661989f3f) effectue chaque année un sondage en ligne sur des idées relatives à la politique suisse. Les [résultats du sondage 2006](http://www.vimentis.ch/umfrage/ergebnisse/?lan=f) sont intéressants car ils permettent aux curieux, et aux partis qui sponsorisent ce site, d'analyser l'opinion des citoyens en fonction de leur age, revenu et autres critères.
+[Perspective Suisse](https://web.archive.org/web/20221006193359/http://www.vimentis.ch/umfrage/?ref2=c661989f3f) effectue chaque année un sondage en ligne sur des idées relatives à la politique suisse. Les [résultats du sondage 2006](https://web.archive.org/web/20071029/http://www.vimentis.ch/umfrage/ergebnisse/?lan=f) sont intéressants car ils permettent aux curieux, et aux partis qui sponsorisent ce site, d'analyser l'opinion des citoyens en fonction de leur age, revenu et autres critères.
 
-En [participant au sondage 2007](http://www.vimentis.ch/umfrage/?ref2=c661989f3f), vous découvrirez quelques idées saugrenues que nous préparent certains partis pour la prochaine législature. Voici mes remarques personnelles au sujet de certaines, et de la façon dont les questions sont posées:
+En [participant au sondage 2007](https://web.archive.org/web/20221006193359/http://www.vimentis.ch/umfrage/?ref2=c661989f3f), vous découvrirez quelques idées saugrenues que nous préparent certains partis pour la prochaine législature. Voici mes remarques personnelles au sujet de certaines, et de la façon dont les questions sont posées:
 
 - "_Les jeunes qui sont admis à l’hôpital par ambulance pour des raisons de consommation excessive d’alcool, doivent en rembourser les coûts aux autorités._". Sales jeunes... mais : majeurs ou mineurs ? et pourquoi seulement les jeunes au fait ? et pourquoi seulement l'alcool ?
 - "_Dans les écoles à fort taux de criminalité, la présence policière est augmentée._" Wow. Quelqu'un a donc des statistiques de la criminalité dans les écoles...

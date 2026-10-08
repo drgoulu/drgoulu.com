@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Oui
 
-[https://www.immigration.interieu...](https://www.immigration.interieur.gouv.fr/Info-ressources/Etudes-et-statistiques/Les-chiffres-de-l-immigration-en-France/Activite-emploi-et-chomage-des-immigres)
+[https://www.immigration.interieu...](https://web.archive.org/web/20250622020127/https://www.immigration.interieur.gouv.fr/Info-ressources/Etudes-et-statistiques/Les-chiffres-de-l-immigration-en-France/Activite-emploi-et-chomage-des-immigres)
 
 Je vis en Suisse où nous avons 27% de population étrangère, dont 170'000 français, plus au autant de frontaliers qui viennent travailler ici chaque jour
 

@@ -18,4 +18,4 @@ coverImage: ./images/quora.png
 
 La [Radiorésistance](w:) varie beaucoup d’une espèce à une autre. Les mécanismes de réparation cellulaires sont une partie de l’explication. Les végétaux sont “habitués” par l’évolution à se prendre des rayons UV en plein dans les feuilles alors que beaucoup d’animaux se protègent du soleil comme ils peuvent.
 
-Pour une étude plus scientifique de la résistance des végétaux, vous pouvez lire cette thèse : [https://inis.iaea.org/collection...](https://inis.iaea.org/collection/NCLCollectionStore/_Public/42/048/42048195.pdf)
+Pour une étude plus scientifique de la résistance des végétaux, vous pouvez lire cette thèse : [https://inis.iaea.org/collection...](https://web.archive.org/web/20250507073605/https://inis.iaea.org/collection/NCLCollectionStore/_Public/42/048/42048195.pdf)

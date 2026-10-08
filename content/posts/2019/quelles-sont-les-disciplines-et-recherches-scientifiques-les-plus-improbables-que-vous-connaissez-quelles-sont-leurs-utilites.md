@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Quelles-sont-les-disciplines-et-recherches-scientifiques-les-plus-improbables-que-vous-connaissez-Quelles-sont-leurs-utilit%C3%A9s/answer/Dr-Goulu)*
 
-Il existe une organisation destinée à la recherche improbable logiquement nommée [Improbable Research](https://www.improbable.com/). Elle décerne chaque année les [Prix Ig-Nobel](w:) qui sont une vraie mine de "recherche qui fait rire, puis réfléchir", comme le dit très bien leur devise.
+Il existe une organisation destinée à la recherche improbable logiquement nommée [Improbable Research](https://web.archive.org/web/20190616042345/https://www.improbable.com/). Elle décerne chaque année les [Prix Ig-Nobel](w:) qui sont une vraie mine de "recherche qui fait rire, puis réfléchir", comme le dit très bien leur devise.
 
 Dans [mes préférés](https://www.drgoulu.com/tag/ignobel/):
 

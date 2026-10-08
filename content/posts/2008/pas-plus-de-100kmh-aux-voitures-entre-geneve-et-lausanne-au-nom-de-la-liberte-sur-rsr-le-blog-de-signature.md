@@ -10,7 +10,7 @@ tags:
   - "transports"
 ---
 
-Dans "[Pas plus de 100km/h aux voitures entre Genève et Lausanne. Au nom de la liberté", sur RSR - Le Blog de Signature](http://signature.rsr.ch/?p=427) Thierry Fisher propose de résoudre le problème de la surcharge de trafic entre ces deux centres urbains en réduisant la vitesse sur toute la longueur de l'autoroute.
+Dans "[Pas plus de 100km/h aux voitures entre Genève et Lausanne. Au nom de la liberté", sur RSR - Le Blog de Signature](https://web.archive.org/web/20080118/http://signature.rsr.ch/?p=427) Thierry Fisher propose de résoudre le problème de la surcharge de trafic entre ces deux centres urbains en réduisant la vitesse sur toute la longueur de l'autoroute.
 
 J'ai posté un commentaire (en deux partie) directement à la suite, mais à la réflexion, l'article de Thierry Fisher contient d'énormes contradictions qui n'apparaissent pas de prime abord, grâce à son talent journalistique. Voici mes commentaires, re-structurés d'après les vérités assénées :
 

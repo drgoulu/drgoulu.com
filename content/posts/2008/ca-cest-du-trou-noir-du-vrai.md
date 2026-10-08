@@ -34,4 +34,4 @@ Observation, Hypothèse, Validation expérimentale : ça c'est de la Science ! A
 
 - [Wikipedia OJ 287](w:OJ_287)
 - [Les quasars, bancs de tests ultimes pour la relativité générale ?](http://www.techno-science.net/?onglet=news&news=5289) sur Techno-Science
-- [Une preuve de la théorie d'Einstein au cœur du quasar OJ 287](http://www.futura-sciences.com/fr/news/t/astronomie/d/une-preuve-de-la-theorie-deinstein-au-cur-du-quasar-oj-287_15295/), Laurent Sacco, [Futura-Sciences](http://www.futura-sciences.com/)
+- [Une preuve de la théorie d'Einstein au cœur du quasar OJ 287](https://web.archive.org/web/20081206201813/http://www.futura-sciences.com/fr/news/t/astronomie/d/une-preuve-de-la-theorie-deinstein-au-cur-du-quasar-oj-287_15295/), Laurent Sacco, [Futura-Sciences](http://www.futura-sciences.com/)

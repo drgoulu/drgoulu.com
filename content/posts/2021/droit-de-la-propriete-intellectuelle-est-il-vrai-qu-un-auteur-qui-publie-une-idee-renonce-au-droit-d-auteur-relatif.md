@@ -25,4 +25,4 @@ Notes de bas de page
 
 [[1]](#cite-KKPfy)[Radiateurs à Téraflops ? - Pourquoi Comment Combien](/2007/11/17/radiateurs-a-teraflops/)
 
-[[2]](#cite-cdJHi)[ELECTRIC RADIATOR USING CALCULATING PROCESSORS AS A HEAT SOURCE](https://www.patentsencyclopedia.com/app/20130003294)
+[[2]](#cite-cdJHi)[ELECTRIC RADIATOR USING CALCULATING PROCESSORS AS A HEAT SOURCE](https://web.archive.org/web/20220128082550/https://www.patentsencyclopedia.com/app/20130003294)

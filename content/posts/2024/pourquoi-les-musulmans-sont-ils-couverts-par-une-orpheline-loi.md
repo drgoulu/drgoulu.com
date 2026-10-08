@@ -15,4 +15,4 @@ Rien de ceci n'est explicitement mentionné dans la loi, qui est bien plus gén�
 
 En France c'est
 
-[LOI n° 2008-496 du 27 mai 2008 portant diverses dispositions d'adaptation au droit communautaire dans le domaine de la lutte contre les discriminations (1) - Légifrance](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000018877783)
+[LOI n° 2008-496 du 27 mai 2008 portant diverses dispositions d'adaptation au droit communautaire dans le domaine de la lutte contre les discriminations (1) - Légifrance](https://web.archive.org/web/20241004120912/https://www.legifrance.gouv.fr/loda/id/JORFTEXT000018877783)

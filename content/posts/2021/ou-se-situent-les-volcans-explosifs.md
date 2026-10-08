@@ -15,6 +15,6 @@ Un peu partout, l'explosivité d'un volcan étant très liée à la présence d'
 
 La base de données
 
-[https://volcano.si.edu/](https://volcano.si.edu/)
+[https://volcano.si.edu/](https://web.archive.org/web/20210605155144/https://volcano.si.edu/)
 
 Contient l'[Indice d'explosivité volcanique](w:)de toutes les éruptions récentes.

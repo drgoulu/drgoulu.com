@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Vous trouverez les principales dans la [Liste des 100 espèces les plus menacées — Wikipédia](w:Liste_des_100_espèces_les_plus_menacées)
 
-Et beaucoup plus voir toutes celles connues sur [IUCN Red List of Threatened Species](https://www.iucnredlist.org/)
+Et beaucoup plus voir toutes celles connues sur [IUCN Red List of Threatened Species](https://web.archive.org/web/20200313033109/https://www.iucnredlist.org/)

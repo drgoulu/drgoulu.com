@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Encarta-junior-quel-est-son-%C3%A9quivalent-en-2023-En-vaut-t-il-toujours-la-peine-aujourd-hui/answer/Dr-Goulu)*
 
-[https://fr.vikidia.org/wiki/Viki...](https://fr.vikidia.org/wiki/Vikidia:Accueil)
+[https://fr.vikidia.org/wiki/Viki...](https://web.archive.org/web/20230524202957/https://fr.vikidia.org/wiki/Vikidia:Accueil)
 
 Beaucoup d articles sont des versions simplifiées de Wikipédia.
 

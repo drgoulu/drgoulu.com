@@ -15,7 +15,7 @@ tags:
 coverImage: "./images/67528938a64012947ead199180e9419b.png"
 ---
 
-[Dans "Le Matin" d'aujourd'hui](http://www.lematin.ch/actu/economie/homo-copenhagus-mode-emploi-203285), [Antonio Hodgers](http://www.hodgers.ch/) prétend qu'à propos d'impact sur l'environnement "il ne faut pas en conclure que nous sommes trop (...) le critère important c'est le mode de vie" .
+[Dans "Le Matin" d'aujourd'hui](https://web.archive.org/web/20091221123232/http://www.lematin.ch/actu/economie/homo-copenhagus-mode-emploi-203285), [Antonio Hodgers](http://www.hodgers.ch/) prétend qu'à propos d'impact sur l'environnement "il ne faut pas en conclure que nous sommes trop (...) le critère important c'est le mode de vie" .
 
 Soit il ignore la merveilleuse [équation de Kaya](/2009/06/06/developpement-durable-et-equation-de-kaya/) dont une version simplifiée sert de titre à cet article, soit il indique clairement le choix de société qu'il propose : entasser beaucoup d'humains en les rationnant. Or l'équation de Kaya montre clairement que la population est un facteur aussi important que le "mode de vie" : on peut réduire notre impact sur l'environnement tout aussi efficacement en étant moins nombreux.
 
@@ -29,4 +29,4 @@ L'oubli systématique du facteur POPulation dans le débat écologiste ne peut q
 
 Les pays comme la Chine et l'Inde ont fait un immense effort en limitant leur POPulation de façon drastique, ce qui leur a permis de sortir de la misère et d'amorcer un développement fantastique. C'est "grâce" à des avortements en masse, M. Hodgers, que les prévisions de la population mondiale se sont révélées fausses. Demander aujourd'hui à ces même pays un effort au niveau du deuxième facteur de l'équation est indécent.
 
-Dans nos pays, nous arriverons à poursuivre notre effort sur CO2/POP par des économies et une production d'énergie plus propre, mais pour préserver notre niveau de vie il faudra bien se résoudre aussi à réduire notre population. Car si le [scénario d'une Suisse à 10 millions d'habitants en 2050](http://www.bfs.admin.ch/bfs/portal/fr/index/news/publikationen.html?publicationID=2412) se vérifie, c'est 25% de réduction des émissions par tête qui n'auront servi à rien.
+Dans nos pays, nous arriverons à poursuivre notre effort sur CO2/POP par des économies et une production d'énergie plus propre, mais pour préserver notre niveau de vie il faudra bien se résoudre aussi à réduire notre population. Car si le [scénario d'une Suisse à 10 millions d'habitants en 2050](https://web.archive.org/web/20090314040609/http://www.bfs.admin.ch/bfs/portal/fr/index/news/publikationen.html?publicationID=2412) se vérifie, c'est 25% de réduction des émissions par tête qui n'auront servi à rien.

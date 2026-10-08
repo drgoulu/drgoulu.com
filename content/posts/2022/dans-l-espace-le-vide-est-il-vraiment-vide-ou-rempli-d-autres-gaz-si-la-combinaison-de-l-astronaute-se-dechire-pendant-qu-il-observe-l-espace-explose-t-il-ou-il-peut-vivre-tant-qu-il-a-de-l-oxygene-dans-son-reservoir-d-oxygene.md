@@ -27,4 +27,4 @@ bref, à moins d'être très rapidement secouru comme dans la chambre à vide ci
 
 Notes de bas de page
 
-[[1]](#cite-wrNNw)[Could You Survive for 14 Seconds in the Vacuum of Space Like in Kubrick’s ‘2001’?](https://filmschoolrejects.com/could-you-survive-for-14-seconds-in-the-vacuum-of-space-like-in-kubricks-2001-d5f0a873f302/)
+[[1]](#cite-wrNNw)[Could You Survive for 14 Seconds in the Vacuum of Space Like in Kubrick’s ‘2001’?](https://web.archive.org/web/20220929084319/https://filmschoolrejects.com/could-you-survive-for-14-seconds-in-the-vacuum-of-space-like-in-kubricks-2001-d5f0a873f302/)

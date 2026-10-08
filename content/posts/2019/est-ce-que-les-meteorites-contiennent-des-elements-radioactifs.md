@@ -22,8 +22,8 @@ Mais comme elles ont été isolées dans l’espace, elles ne se sont pas mélan
 
 En particulier, on y [trouve des traces d’isotopes radioactifs](w:Météorite) comme [l'aluminium 26Al](w:Isotopes_de_l'aluminium) ou le [Fer 60Fe](w:Fer_60) qui indiquent que le Soleil est né en même temps que d’autres étoiles à proximité d’une très grosse étoile[[1]](#wOKdD)
 
-source : [Radioactivité éteinte](http://www.laradioactivite.com/site/pages/radioactiviteeteinte.htm)
+source : [Radioactivité éteinte](https://web.archive.org/web/20190330201008/http://www.laradioactivite.com/site/pages/radioactiviteeteinte.htm)
 
 Notes de bas de page
 
-[[1]](#cite-wOKdD)[Solar system genealogy revealed by extinct short-lived radionuclides in meteorites](https://www.aanda.org/articles/aa/abs/2012/09/aa19031-12/aa19031-12.html)
+[[1]](#cite-wOKdD)[Solar system genealogy revealed by extinct short-lived radionuclides in meteorites](https://web.archive.org/web/20190908102228/https://www.aanda.org/articles/aa/abs/2012/09/aa19031-12/aa19031-12.html)

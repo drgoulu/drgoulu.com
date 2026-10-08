@@ -28,9 +28,9 @@ Vous trouverez tous les détails et les schémas dans [[4]](#sTIMi) si vous voul
 
 Notes de bas de page
 
-[[1]](#cite-PNaLT)[https://www.allaboutcircuits.com...](https://www.allaboutcircuits.com/news/voyager-mission-anniversary-celebration-long-distance-communications/)
+[[1]](#cite-PNaLT)[https://www.allaboutcircuits.com...](https://web.archive.org/web/20210925062215/https://www.allaboutcircuits.com/news/voyager-mission-anniversary-celebration-long-distance-communications/)
 
-[[2]](#cite-VOqiU)[Did the Voyager spacecraft use a Golay, a Reed-Solomon and/or a Hamming code for data transmission encoding for error correction? (Need clarification)](https://space.stackexchange.com/questions/54055/did-the-voyager-spacecraft-use-a-golay-a-reed-solomon-and-or-a-hamming-code-for)
+[[2]](#cite-VOqiU)[Did the Voyager spacecraft use a Golay, a Reed-Solomon and/or a Hamming code for data transmission encoding for error correction? (Need clarification)](https://web.archive.org/web/20211209111428/https://space.stackexchange.com/questions/54055/did-the-voyager-spacecraft-use-a-golay-a-reed-solomon-and-or-a-hamming-code-for)
 
 [[3]](#cite-ANUBy)[https://descanso.jpl.nasa.gov/DP...](https://descanso.jpl.nasa.gov/DPSummary/Descanso4--Voyager_new.pdf)
 

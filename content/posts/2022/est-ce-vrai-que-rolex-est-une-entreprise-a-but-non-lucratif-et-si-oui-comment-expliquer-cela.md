@@ -11,9 +11,9 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Est-ce-vrai-que-Rolex-est-une-entreprise-%C3%A0-but-non-lucratif-Et-si-oui-comment-expliquer-cela/answer/Dr-Goulu)*
 
-Rolex SA est une Société Anonyme, donc à but lucratif. Son inscription au registre du [Registre du Commerce du Canton de Genève est ici](http://ge.ch/hrcintapp/externalCompanyReport.action?companyOfsUid=CHE-105.962.823&lang=DE).
+Rolex SA est une Société Anonyme, donc à but lucratif. Son inscription au registre du [Registre du Commerce du Canton de Genève est ici](https://web.archive.org/web/20210716192955/http://ge.ch/hrcintapp/externalCompanyReport.action?companyOfsUid=CHE-105.962.823&lang=DE).
 
-Son unique actionnaire est la [Fondation Hans Wilsdorf](https://hanswilsdorf.ch/), très connue à Genève pour sa générosité envers la culture et le social, mais son [inscription au Registre du Commerce](http://ge.ch/hrcintapp/externalCompanyReport.action?companyOfrcId13=CH-660-0033945-4&ofrcLanguage=2=CP)mentionne
+Son unique actionnaire est la [Fondation Hans Wilsdorf](https://hanswilsdorf.ch/), très connue à Genève pour sa générosité envers la culture et le social, mais son [inscription au Registre du Commerce](https://web.archive.org/web/20221206195648/http://ge.ch/hrcintapp/externalCompanyReport.action?companyOfrcId13=CH-660-0033945-4&ofrcLanguage=2=CP)mentionne
 
 > *But:* recueillir tous les biens qui lui seront affectés et en assurer la sauvegarde, l'entretien et la rentabilité, conformément aux instructions et aux voeux des donateurs (cf.statuts pour but complet).
 

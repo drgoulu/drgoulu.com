@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Existe-t-il-un-nombre-compos%C3%A9-contenant-exactement-1993-fois-le-chiffre-1-et-1-fois-le-chiffre-7-et-qui-ne-contient-pas-d-autres-chiffres/answer/Dr-Goulu)*
 
-Python et [Goulib.math2.is_prime](https://goulib.readthedocs.io/en/latest/modules/Goulib.math2.html#Goulib.math2.is_prime) dit que oui
+Python et [Goulib.math2.is_prime](https://web.archive.org/web/20211205120258/https://goulib.readthedocs.io/en/latest/modules/Goulib.math2.html#Goulib.math2.is_prime) dit que oui
 
 ```
 >>> from Goulib.math2 import is_prime

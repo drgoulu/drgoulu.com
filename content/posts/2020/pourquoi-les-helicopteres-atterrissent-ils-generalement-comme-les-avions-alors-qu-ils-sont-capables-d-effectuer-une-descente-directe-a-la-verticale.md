@@ -18,6 +18,6 @@ coverImage: ./images/quora.png
 
 Accessoirement à la réponse de [Michel Verheughe](https://fr.quora.com/profile/Michel-Verheughe) , j'ai découvert récemment que la manoeuvre d'autorotation qui permet à un hélicoptère d'atterrir en urgence en cas de panne moteur nécessite une vitesse horizontale. En fait, c'est un vol plané avec voilure tournante. Donc par sécurité il vaut mieux conserver une vitesse horizontale jusqu'au dernier moment.
 
-[Why is *vertical* autorotation in a helicopter not recommended?](https://aviation.stackexchange.com/questions/42969/why-is-vertical-autorotation-in-a-helicopter-not-recommended?rq=1)
+[Why is *vertical* autorotation in a helicopter not recommended?](https://web.archive.org/web/20200321183324/https://aviation.stackexchange.com/questions/42969/why-is-vertical-autorotation-in-a-helicopter-not-recommended?rq=1)
 
 [https://www.youtube.com/watch?v=...](https://www.youtube.com/watch?v=bsm5Ik74xTw)

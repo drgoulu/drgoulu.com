@@ -26,4 +26,4 @@ Rétrospectivement, la pire saloperie à laquelle nous avons (temporairement) é
 
 Il y a plusieurs simulateurs d'épidémie en ligne pour vous familiariser avec ces notions.
 
-[https://towardsdatascience.com/c...](https://towardsdatascience.com/covid19-top-7-online-interactive-simulations-curated-fa4282889875)
+[https://towardsdatascience.com/c...](https://web.archive.org/web/20231102204554/https://towardsdatascience.com/covid19-top-7-online-interactive-simulations-curated-fa4282889875)

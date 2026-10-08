@@ -17,6 +17,6 @@ Déjà que les autorités égyptiennes ont trouvé que les japonais ont été un
 
 ![](./images/qimg-a648808ccedddeb2d036d7d9e837eb41.jpg)
 
-( source : [Physicists at Nagoya University discover a huge void in Giza's Great Pyramid by cosmic-ray imaging](http://www.aip.nagoya-u.ac.jp/en/public/nu_research/highlights/detail/0004155.html) )
+( source : [Physicists at Nagoya University discover a huge void in Giza's Great Pyramid by cosmic-ray imaging](https://web.archive.org/web/20200628035707/http://www.aip.nagoya-u.ac.jp/en/public/nu_research/highlights/detail/0004155.html) )
 
 Cette pyramide et sa cavités sont là depuis 4500 ans, on peut avoir un peu de patience et faire les choses en douceur, non ?

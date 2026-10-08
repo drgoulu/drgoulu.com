@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Est-ce-laugmentation-de-la-temp%C3%A9rature-qui-engendre-une-augmentation-du-taux-de-CO2-ou-linverse/answer/Dr-Goulu)*
 
-Les deux. En 2000 on ne savait pas vraiment car c'est compliqué : [https://planet-terre.ens-lyon.fr...](https://planet-terre.ens-lyon.fr/article/co2-temperature.xml) . Historiquement, il y a eu des situations pendant lesquelles une augmentation de température a précédé une hausse du CO2. Ce sont ces ~20% du temps que les climatosceptiques citent systématiquement.
+Les deux. En 2000 on ne savait pas vraiment car c'est compliqué : [https://planet-terre.ens-lyon.fr...](https://web.archive.org/web/20191206150423/https://planet-terre.ens-lyon.fr/article/co2-temperature.xml) . Historiquement, il y a eu des situations pendant lesquelles une augmentation de température a précédé une hausse du CO2. Ce sont ces ~20% du temps que les climatosceptiques citent systématiquement.
 
 Mais depuis, la "réponse honnête" est qu'il n'y a plus aucun doute en ce qui concerne le réchauffement actuel. Juste deux références parmi des dizaines publiées dans des journaux scientifiques sérieux, pas sur des sites de gens qui ont publié un bouquin sur ce qu'ils croient savoir:
 
@@ -30,7 +30,7 @@ Mais depuis, la "réponse honnête" est qu'il n'y a plus aucun doute en ce qui c
 
 Et une autre moins fameuse mais plus mathématique :
 
-- Munshi, J. (2015). [Atmospheric CO2 and Surface Temperature: A Note](https://doi.org/10.2139/ssrn.2679246). SSRN Electronic Journal.
+- Munshi, J. (2015). [Atmospheric CO2 and Surface Temperature: A Note](https://web.archive.org/web/20210415035238/https://doi.org/10.2139/ssrn.2679246). SSRN Electronic Journal.
 
 > Deseasonalized and detrended correlation analysis of mean monthly atmospheric CO2 concentrations and mean monthly surface temperature anomalies in the sample period 1958-2015 shows a statistically significant correlation that peaks when surface temperature lags atmospheric CO2 by four months
 

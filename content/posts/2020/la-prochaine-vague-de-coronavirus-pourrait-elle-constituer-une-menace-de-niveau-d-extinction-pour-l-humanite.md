@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Non. Le principe de l'évolution c'est de maximiser la reproduction, or un virus trop mortel pour ses hôtes ne peut plus bien se propager quand il y a beaucoup de morts (exemple : Ebola)
 
-Vous pouvez vous convaincre de ceci en jouant à [Plague](https://www.ndemiccreations.com/en/22-plague-inc) ou à ce petit simulateur d'épidémie en ligne tout simple : [https://www.shodor.org/featured/...](https://www.shodor.org/featured/DiseaseModel/JavaScript)
+Vous pouvez vous convaincre de ceci en jouant à [Plague](https://www.ndemiccreations.com/en/22-plague-inc) ou à ce petit simulateur d'épidémie en ligne tout simple : [https://www.shodor.org/featured/...](https://web.archive.org/web/20200313201814/https://www.shodor.org/featured/DiseaseModel/JavaScript)
 
 A mon avis on l'a échappé belle avec le SIDA, car là le temps pendant lequel on est contagieux est très long, et la mortalité très élevée. Mais même si on n'avait pas trouvé de médicaments efficaces, il semble que certaines populations sont naturellement résistantes et auraient survécu, de même que les sexuellement isolés comme les [Sentinelles](w:Sentinelles_(peuple)), ma femme et moi ;-)
 

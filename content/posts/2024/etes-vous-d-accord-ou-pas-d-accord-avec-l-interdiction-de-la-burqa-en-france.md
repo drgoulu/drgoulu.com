@@ -13,7 +13,7 @@ coverImage: ./images/qimg-8bedce5b26c1af43c586b325ceaf74be.png
 
 Ce n'est pas la burqa qui est interdite.
 
-La [LOI n° 2010-1192 du 11 octobre 2010](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000022911670)dit clairement :
+La [LOI n° 2010-1192 du 11 octobre 2010](https://web.archive.org/web/20240930221402/https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000022911670)dit clairement :
 
 > Nul ne peut, dans l'espace public, porter une tenue destinée à dissimuler son visage.
 

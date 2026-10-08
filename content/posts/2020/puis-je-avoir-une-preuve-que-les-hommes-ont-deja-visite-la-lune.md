@@ -15,4 +15,4 @@ Vous ne devez rien croire, vous devez vérifier les faits.
 
 Un fait est que les russes étaient en course, avaient des espions et des moyens d'écoutes spatiaux, et ont admis leur défaite en félicitant les américains.
 
-Il y a plein d'autres faits dans cette excellente émission des [Mythbusters : Moon Landing Hoax, épisode complet sur leur compte officiel](https://www.dailymotion.com/video/x2m7k1z).
+Il y a plein d'autres faits dans cette excellente émission des [Mythbusters : Moon Landing Hoax, épisode complet sur leur compte officiel](https://web.archive.org/web/20201107231810/https://www.dailymotion.com/video/x2m7k1z).

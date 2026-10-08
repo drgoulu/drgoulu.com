@@ -28,8 +28,8 @@ La réponse est dans la figure suivant, qui montre l'emplacement dans la galaxie
 
 Références:
 
-- ["Birth cry of a supernova](http://feeds.feedburner.com/%7Er/BadAstronomyBlog/%7E3/295179445/)" sur [Bad Astronomy Blog](http://www.google.com/reader/view/feed/http%3A%2F%2Ffeeds.feedburner.com%2FBadAstronomyBlog)
-- Jean Etienne, "[SN2008D, l'étoile qui a explosé sous les yeux des astronomes !](http://www.futura-sciences.com/fr/news/t/astronomie/d/sn2008d-letoile-qui-a-explose-sous-les-yeux-des-astronomes_15607/)" 22 mai 2008, [Futura-Sciences](http://www.futura-sciences.com/)
+- ["Birth cry of a supernova](https://web.archive.org/web/20170101135429/http://feeds.feedburner.com/%7Er/BadAstronomyBlog/%7E3/295179445/)" sur [Bad Astronomy Blog](https://web.archive.org/web/20080524/http://www.google.com/reader/view/feed/http%3A%2F%2Ffeeds.feedburner.com%2FBadAstronomyBlog)
+- Jean Etienne, "[SN2008D, l'étoile qui a explosé sous les yeux des astronomes !](https://web.archive.org/web/20100724033856/http://www.futura-sciences.com/fr/news/t/astronomie/d/sn2008d-letoile-qui-a-explose-sous-les-yeux-des-astronomes_15607/)" 22 mai 2008, [Futura-Sciences](http://www.futura-sciences.com/)
     
-- A. M. Soderberg et al, "[An extremely luminous X-ray outburst at the birth of a supernova](http://www.nature.com/nature/journal/v453/n7194/edsumm/e080522-05.html)", Nature
-- Laurent Sacco, "[Chandra débusque la plus jeune supernova de la Voie Lactée](http://www.futura-sciences.com/fr/news/t/astronomie/d/chandra-debusque-la-plus-jeune-supernova-de-la-voie-lactee_15540/)", 15 mai 2008, [Futura-Sciences](http://www.futura-sciences.com/)
+- A. M. Soderberg et al, "[An extremely luminous X-ray outburst at the birth of a supernova](https://web.archive.org/web/20080526081123/http://www.nature.com/nature/journal/v453/n7194/edsumm/e080522-05.html)", Nature
+- Laurent Sacco, "[Chandra débusque la plus jeune supernova de la Voie Lactée](https://web.archive.org/web/20091110003851/http://www.futura-sciences.com/fr/news/t/astronomie/d/chandra-debusque-la-plus-jeune-supernova-de-la-voie-lactee_15540/)", 15 mai 2008, [Futura-Sciences](http://www.futura-sciences.com/)

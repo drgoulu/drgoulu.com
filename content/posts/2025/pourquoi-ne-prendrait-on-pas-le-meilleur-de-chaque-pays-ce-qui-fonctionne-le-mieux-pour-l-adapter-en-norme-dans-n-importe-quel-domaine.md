@@ -28,4 +28,4 @@ TOUS sont repartis en disant c'est super, faudrait qu'on s'en inspire.
 
 Notes de bas de page
 
-[[1]](#cite-jtQes)[https://www.admin.ch/gov/fr/accu...](https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-68512.html)
+[[1]](#cite-jtQes)[https://www.admin.ch/gov/fr/accu...](https://web.archive.org/web/20221110090507/https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-68512.html)

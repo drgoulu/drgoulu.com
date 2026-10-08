@@ -15,4 +15,4 @@ Tous les produits en vente libre sur lesquels ne figurent pas un ou plusieurs de
 
 ![](./images/qimg-ae7eef2018de5bd3924c766cb45e2872.jpg)
 
-Mais faites quand même attention avec le [monoxyde de dihydrogène](https://culturesciences.chimie.ens.fr/thematiques/chimie-et-societe/sante/le-monoxyde-de-dihydrogene-un-danger-meconnu), souvent mal étiqueté.
+Mais faites quand même attention avec le [monoxyde de dihydrogène](https://web.archive.org/web/20210726051348/https://culturesciences.chimie.ens.fr/thematiques/chimie-et-societe/sante/le-monoxyde-de-dihydrogene-un-danger-meconnu), souvent mal étiqueté.

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Pi n'est pas infini, il est plus petit que 4.
 
-L’[irrationalité de Pi](w:Pi) a été démontrée par [Jean-Henri Lambert](w:) en 1761, puis par de nombreux autres de différentes manières. Une des démonstration les plus compactes, par l’absurde, est celle-ci : [Ivan Niven (1947) A simple proof that Pi is irrational](http://www.ams.org/journals/bull/1947-53-06/S0002-9904-1947-08821-2/S0002-9904-1947-08821-2.pdf)
+L’[irrationalité de Pi](w:Pi) a été démontrée par [Jean-Henri Lambert](w:) en 1761, puis par de nombreux autres de différentes manières. Une des démonstration les plus compactes, par l’absurde, est celle-ci : [Ivan Niven (1947) A simple proof that Pi is irrational](https://web.archive.org/web/20200712015954/http://www.ams.org/journals/bull/1947-53-06/S0002-9904-1947-08821-2/S0002-9904-1947-08821-2.pdf)

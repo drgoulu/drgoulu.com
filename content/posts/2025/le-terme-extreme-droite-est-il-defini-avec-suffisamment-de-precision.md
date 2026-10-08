@@ -27,4 +27,4 @@ Pour les comparaisons internationales, c'est très difficile. A ma connaissance 
 
 Notes de bas de page
 
-[[1]](#cite-BOELu)[smartvote](https://www.smartvote.ch/fr/wiki/methodology-smartmap)
+[[1]](#cite-BOELu)[smartvote](https://web.archive.org/web/20250513130834/https://www.smartvote.ch/fr/wiki/methodology-smartmap)

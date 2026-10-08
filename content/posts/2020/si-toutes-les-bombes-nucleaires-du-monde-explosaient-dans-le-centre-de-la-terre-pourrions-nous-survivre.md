@@ -22,7 +22,7 @@ Comme le mentionne [Essai nucléaire souterrain](w:) :
 
 > La variable utilisée pour déterminer à quel point la bombe doit être enterrée est la profondeur d'enfouissement calculée (en anglais : « scaled depth of burial, or -burst », SDOB). Ce nombre est calculé comme la profondeur d'enfouissement en mètres divisé par la [racine cubique](w:) de la puissance en kilotonnes. Afin d'assurer le confinement, ce chiffre devrait être supérieur à 100
 
-J'ai trouvé sur [Global Nuclear Arsenal 2009](https://www.nucleardarkness.org/globalnucleararsenal/globalarsenalgraphic/) que la puissance totale des armes nucléaires est de l'ordre de 6400 Megatonnes, donc 6'400'000 Kilotonnes.
+J'ai trouvé sur [Global Nuclear Arsenal 2009](https://web.archive.org/web/20210114051804/https://www.nucleardarkness.org/globalnucleararsenal/globalarsenalgraphic/) que la puissance totale des armes nucléaires est de l'ordre de 6400 Megatonnes, donc 6'400'000 Kilotonnes.
 
 Racine cubique : 186. Si on faisait péter tout ça sous le sol avec un SDOB=100 pour que rien ne sorte, il faudrait enfouir le tout à 186*100 = 18600 m, soit 18.6 km de profondeur
 

@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Depuis les [Théorèmes d'incomplétude de Gödel](w:), l'ensemble des propositions qui peuvent être prouvées vraies et l'ensemble des propositions qui peuvent être prouvées fausses ne sont plus complémentaires, et ceci dans le domaine le plus strictement logique et formel qui soit : l'arithmétique.
 
-Ensuite, on a montré que non seulement il existe des "propositions indécidables", mais que [presque tout est indécidable !](https://leuven.pagesperso-orange.fr/Presque-tout-est-indecidable.html)
+Ensuite, on a montré que non seulement il existe des "propositions indécidables", mais que [presque tout est indécidable !](https://web.archive.org/web/20210510102307/https://leuven.pagesperso-orange.fr/Presque-tout-est-indecidable.html)
 
 Ca explique pourquoi la science fonctionne en fait dans l'autre sens : on considère comme "vrais" des faits reproductibles comme "si je lâche un caillou, il tombe".
 

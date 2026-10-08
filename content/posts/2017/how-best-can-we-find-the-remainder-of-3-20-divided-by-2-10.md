@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://www.quora.com/How-best-can-we-find-the-remainder-of-3-20-divided-by-2-10/answer/Dr-Goulu)*
 
-with Python (3**20 % 2**10), or online with [Wolfram|Alpha](https://www.wolframalpha.com/input/?i=3^20+mod+2^10) , you get the same result : 913
+with Python (3**20 % 2**10), or online with [Wolfram|Alpha](https://web.archive.org/web/20171203/https://www.wolframalpha.com/input/?i=3^20+mod+2^10) , you get the same result : 913

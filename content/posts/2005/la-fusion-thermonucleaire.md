@@ -87,5 +87,5 @@ Ceci va vraisemblablement prendre beaucoup de temps, pour autant que ça réussi
 #### Références
 
 - [Wikipedia : Fusion thermonucléaire](w:Fusion_thermonucléaire)
-- [http://www.univ-lemans.fr/enseignements/chimie/01/deug/CHIMDISCRI/fusion.html](http://ressources.univ-lemans.fr/AccesLibre/UM/Pedago/chimie/01/deug/CHIMDISCRI/fusion.html)
-- [Projet Artemis pour exploiter le He3 lunaire](http://www.asi.org/adb/02/09/he3-intro.html)
+- [http://www.univ-lemans.fr/enseignements/chimie/01/deug/CHIMDISCRI/fusion.html](https://web.archive.org/web/20110622073403/http://ressources.univ-lemans.fr/AccesLibre/UM/Pedago/chimie/01/deug/CHIMDISCRI/fusion.html)
+- [Projet Artemis pour exploiter le He3 lunaire](https://web.archive.org/web/20051210220752/http://www.asi.org/adb/02/09/he3-intro.html)

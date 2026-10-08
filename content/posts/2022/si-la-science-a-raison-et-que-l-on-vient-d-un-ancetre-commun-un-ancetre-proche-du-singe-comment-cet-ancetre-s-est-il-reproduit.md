@@ -32,4 +32,4 @@ Et voilà : en 1 millions d'années les bonobos et les chimpanzés sont devenus 
 
 Notes de bas de page
 
-[[1]](#cite-CZNJm)[La preuve est dans les gènes : chimpanzés et bonobos se sont croisés dans le passé](https://www.europe1.fr/sciences/la-preuve-est-dans-les-genes-chimpanzes-et-bonobos-se-sont-croises-dans-le-passe-2884988)
+[[1]](#cite-CZNJm)[La preuve est dans les gènes : chimpanzés et bonobos se sont croisés dans le passé](https://web.archive.org/web/20220926115603/https://www.europe1.fr/sciences/la-preuve-est-dans-les-genes-chimpanzes-et-bonobos-se-sont-croises-dans-le-passe-2884988)

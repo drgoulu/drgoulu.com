@@ -13,9 +13,9 @@ coverImage: "./images/db935e385522bddeccdf7fca187faa6c1.jpg"
 
 Art et sciences peuvent faire bon ménage, comme le montrent trois sculpteurs repérés sur le web ces derniers temps.
 
-[Bathsheba](http://www.bathsheba.com/) est une artiste américaine qui produit de nombreux objets directement inspirés d'objets [mathématiques](http://www.bathsheba.com/math/), [astronomiques](http://www.bathsheba.com/crystal/index.html#Astronomy) ou [biologiques](http://www.bathsheba.com/crystal/index.html#Biology). Il utilise l'[impression 3D](http://www.bathsheba.com/sculpt/process/index.html#3dprint) en métal ou en [plastique](http://www.shapeways.com/shops/bathsheba), ce qui lui permet de vendre ses œuvres à des prix très abordables. Mais je crois que je vais craquer plutôt pour un cristal gravé au laser comme celui-ci, qui représente le champ magnétique terrestre :
+[Bathsheba](http://www.bathsheba.com/) est une artiste américaine qui produit de nombreux objets directement inspirés d'objets [mathématiques](http://www.bathsheba.com/math/), [astronomiques](http://www.bathsheba.com/crystal/index.html#Astronomy) ou [biologiques](http://www.bathsheba.com/crystal/index.html#Biology). Il utilise l'[impression 3D](http://www.bathsheba.com/sculpt/process/index.html#3dprint) en métal ou en [plastique](https://web.archive.org/web/20100922100951/http://www.shapeways.com/shops/bathsheba), ce qui lui permet de vendre ses œuvres à des prix très abordables. Mais je crois que je vais craquer plutôt pour un cristal gravé au laser comme celui-ci, qui représente le champ magnétique terrestre :
 
-{{< figure src="./images/db935e385522bddeccdf7fca187faa6c.jpg" alt="Geodynamo en cristal, de Bathsheba" caption="\"Geodynamo\" en cristal, de Bathsheba" link="http://www.bathsheba.com/crystal/geo/" align="aligncenter" width="305" >}}
+{{< figure src="./images/db935e385522bddeccdf7fca187faa6c.jpg" alt="Geodynamo en cristal, de Bathsheba" caption="\"Geodynamo\" en cristal, de Bathsheba" link="https://web.archive.org/web/20110131075142/http://www.bathsheba.com/crystal/geo/" align="aligncenter" width="305" >}}
 
 A noter aussi ses "[sculptures du domaine public](http://www.bathsheba.com/downloads/)" dont on peut télécharger les modèles 3D.
 
@@ -31,7 +31,7 @@ Dans cette autre oeuvre, il faut que l'éclairage soit bien dirigé et qu'il n'y
 
 Enfin, [Nathalie Miebach](http://www.nathaliemiebach.com/), qui fait des choses très colorées en bois,  dont le lien avec la science ne saute pas forcément aux yeux :
 
-{{< figure src="./images/0e5878fbe389307a85a1e63828dcba3a.jpg" alt="Warm Winter de Nathalie Miebach" caption="\"Warm Winter\" de Nathalie Miebach" link="http://www.nathaliemiebach.com/weather07.html" align="aligncenter" width="464" >}}
+{{< figure src="./images/0e5878fbe389307a85a1e63828dcba3a.jpg" alt="Warm Winter de Nathalie Miebach" caption="\"Warm Winter\" de Nathalie Miebach" link="https://web.archive.org/web/20100910112500/http://www.nathaliemiebach.com/weather07.html" align="aligncenter" width="464" >}}
 
 Son idée est de représenter des données numériques par des perles de couleur et des vecteurs matérialisés par des bâtonnets. Dans la sculpture ci-dessus, elle a pris les données météo mesurées pendant un mois par les bouées de Herring Cove, dans le golfe du Maine. Il y a les températures de l'air, du sol et de l'eau, la direction et la vitesse du vent ainsi que les marées et la phase de la Lune.
 

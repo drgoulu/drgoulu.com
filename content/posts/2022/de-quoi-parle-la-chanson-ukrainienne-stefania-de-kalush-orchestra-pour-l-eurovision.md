@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/De-quoi-parle-la-chanson-ukrainienne-Stefania-de-Kalush-Orchestra-pour-lEurovision/answer/Dr-Goulu)*
 
-Traduction Google à partir de [Kalush Orchestra bring an ode to mothers in "Stefania" lyrics](https://wiwibloggs.com/2022/02/10/lyrics-kalush-orchestra-stefania-english/269492/)
+Traduction Google à partir de [Kalush Orchestra bring an ode to mothers in "Stefania" lyrics](https://web.archive.org/web/20220528/https://wiwibloggs.com/2022/02/10/lyrics-kalush-orchestra-stefania-english/269492/)
 
 > Stéphanie maman maman Stéphanie
 >

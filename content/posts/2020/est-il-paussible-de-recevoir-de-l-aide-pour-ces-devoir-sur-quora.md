@@ -18,6 +18,6 @@ coverImage: ./images/quora.png
 
 Oui : tu as fait quatre fautes dans ta question. Tu as vraiment besoin d'aide.
 
-Ce [Correcteur d'orthographe et de grammaire française](https://www.reverso.net/orthographe/correcteur-francais/) en ligne en corrige deux, en montre une qu'il n'arrive pas à corriger tellement l'orthographe est fausse, et ne corrige pas la quatrième car c'est un problème de compréhension de la phrase, il n'est pas assez intelligent pour ça. Mais toi oui.
+Ce [Correcteur d'orthographe et de grammaire française](https://web.archive.org/web/20200506134558/https://www.reverso.net/orthographe/correcteur-francais/) en ligne en corrige deux, en montre une qu'il n'arrive pas à corriger tellement l'orthographe est fausse, et ne corrige pas la quatrième car c'est un problème de compréhension de la phrase, il n'est pas assez intelligent pour ça. Mais toi oui.
 
 Voilà, je t'ai assez aidé pour que tu puisses corriger ta question toi même.

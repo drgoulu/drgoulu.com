@@ -17,4 +17,4 @@ Un peu grâce à nous, quand même…
 
 Notes de bas de page
 
-[[1]](#cite-UHanA)[Quelles autres espèces ont dépassé les 7 milliards?](https://www.slate.fr/lien/45911/animaux-especes-7-milliards-population?amp)
+[[1]](#cite-UHanA)[Quelles autres espèces ont dépassé les 7 milliards?](https://web.archive.org/web/20220314201517/https://www.slate.fr/lien/45911/animaux-especes-7-milliards-population?amp)

@@ -13,12 +13,12 @@ Microsoft Office 2007 a été lancé en même temps que le fumeux système d'exp
 La nouvelle version d'Office devait être percutante car:
 
 1. La version précédente Office 2003 date d'il y a 4 ans. En informatique c'est vieux.
-2. Microsoft se devait de répondre à l'attaque d'[OpenOffice](http://fr.openoffice.org/) qui:
+2. Microsoft se devait de répondre à l'attaque d'[OpenOffice](https://web.archive.org/web/20070306030535/http://fr.openoffice.org/) qui:
     - est gratuit !
     - intègre un traitement de texte très similaire à Word, un tableur très comparable à Excel, un éditeur de présentations très semblable à Powerpoint
     - est capable de lire et d'écrire les fichiers de Word, Excel et Powerpoint
     - a établi le nouveau standard XML "OpenDocument" pour les documents bureautiques,
-3. Microsoft doit aussi anticiper la prochaine concurrence de suites bureautique en ligne comme [Google Docs](https://www.google.com/accounts/ServiceLogin?service=writely&passive=1209600&continue=http://docs.google.com/&followup=http://docs.google.com/&ltmpl=homepage), qui offrent des traitements de texte et tableurs simples mais accessible partout et des fonctions de travail collaboratif , le tout également gratuit
+3. Microsoft doit aussi anticiper la prochaine concurrence de suites bureautique en ligne comme [Google Docs](https://web.archive.org/web/20100523062620/https://www.google.com/accounts/ServiceLogin?service=writely&passive=1209600&continue=http://docs.google.com/&followup=http://docs.google.com/&ltmpl=homepage), qui offrent des traitements de texte et tableurs simples mais accessible partout et des fonctions de travail collaboratif , le tout également gratuit
 
 #### La réponse
 
@@ -70,9 +70,9 @@ Mon point de vue : Il n'y a aucune raison d'utiliser le format "OpenXML". Si vou
 
 #### L'offre
 
-Du point de vue commercial, Office est vendu en [8 versions différentes](http://www.microsoft.com/france/office/2010/default.aspx) !
+Du point de vue commercial, Office est vendu en [8 versions différentes](https://web.archive.org/web/20100619043232/http://www.microsoft.com/france/office/2010/default.aspx) !
 
-Premier piège, **la version "Famille et Etudiant" vendue à un prix abordable (Frs 165.-) pour une utilisation privée ne comprend pas Outlook**, mais Powerpoint qui me semble peu utile en famille, et OneNote dont je n'ai jamais compris à quoi il pouvait servir vu que la [description est un gros blabla](http://www.microsoft.com/france/office/2010/default.aspx). Bref, autant utiliser OpenOffice qui offre les mêmes fonctions gratuitement...
+Premier piège, **la version "Famille et Etudiant" vendue à un prix abordable (Frs 165.-) pour une utilisation privée ne comprend pas Outlook**, mais Powerpoint qui me semble peu utile en famille, et OneNote dont je n'ai jamais compris à quoi il pouvait servir vu que la [description est un gros blabla](https://web.archive.org/web/20100619043232/http://www.microsoft.com/france/office/2010/default.aspx). Bref, autant utiliser OpenOffice qui offre les mêmes fonctions gratuitement...
 
 La version  "Basique" (Word, Excel, Outlook) semble donc plus attrayante, mais elle n'est vendue qu'en OEM, à l'achat d'un nouveau PC ! (Frs 279.-)
 

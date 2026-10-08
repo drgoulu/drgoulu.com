@@ -19,4 +19,4 @@ Historiquement en mesurant la position des étoiles à un moment
 
 [Interférométrie à très longue base](w:Interférométrie_à_très_longue_base)
 
-[https://physics.aps.org/articles...](https://physics.aps.org/articles/v13/115)
+[https://physics.aps.org/articles...](https://web.archive.org/web/20220323152543/https://physics.aps.org/articles/v13/115)

@@ -18,7 +18,7 @@ coverImage: ./images/qimg-e6026d538694dde1aaa4557c6dfbc9ac.jpg
 
 Il a en tout cas un doctorat en astrophysique, obtenu 30 ans après avoir débuté sa thèse:
 
-1. [Brian Harold May](http://openlibrary.org/authors/OL6505003A/Brian_Harold_May) "[A survey of radial velocities in the zodiacal dust cloud](http://openlibrary.org/books/OL22666638M/A_survey_of_radial_velocities_in_the_zodiacal_dust_cloud)" (2008) Springer ISBN:9780387777054
+1. [Brian Harold May](https://web.archive.org/web/20220611/http://openlibrary.org/authors/OL6505003A/Brian_Harold_May) "[A survey of radial velocities in the zodiacal dust cloud](https://web.archive.org/web/20251224011054/http://openlibrary.org/books/OL22666638M/A_survey_of_radial_velocities_in_the_zodiacal_dust_cloud)" (2008) Springer ISBN:9780387777054
 
 Il reconnaît quelque part avoir eu la chance de choisir un sujet peu étudié, la [Lumière zodiacale](w:)
 

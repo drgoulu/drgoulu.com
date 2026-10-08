@@ -25,7 +25,7 @@ Pour plus de 3 corps, il n'existe pas de solution analytique. Ceci signifie entr
 
 {{< figure src="./images/f6524d761bd5b7f92d5262ab33448a77.jpg" alt="Simulation du Système Solaire sur Univers Sandbox, N~20" caption="Simulation du Système Solaire sur Univers Sandbox, N~20" align="aligncenter" width="430" >}}
 
-Il est aujourd'hui facile de simuler quelques millions d'années d'évolution du Système Solaire sur un PC, par exemple avec [Universe Sandbox](http://universesandbox.com/), le chouette programme dont j'ai [déjà parlé ici](/2008/09/06/universe-sandbox/). Comme on connait avec une très grande précision la position, la vitesse et la masse des planètes et de leurs principaux satellites, on estime que l'on peut calculer leur position dans 5 millions d'années à 150m près. Pour arriver à cette précision, mais aussi tout simplement pour réaliser une simulation réaliste, il faut tout particulièrement veiller à la [l'intégration numérique](w:Intégration_numérique) utilisée, pour garantir la conservation de l'énergie totale du système. Selon [cette étude](http://www.artcompsci.org/msa/web/vol_1/v1_web/v1_web.html), la méthode de [Gauss-Hermite](w:Méthodes_de_quadrature_de_Gauss#M.C3.A9thode_de_Gauss-Hermite) donne les meilleurs résultats.
+Il est aujourd'hui facile de simuler quelques millions d'années d'évolution du Système Solaire sur un PC, par exemple avec [Universe Sandbox](http://universesandbox.com/), le chouette programme dont j'ai [déjà parlé ici](/2008/09/06/universe-sandbox/). Comme on connait avec une très grande précision la position, la vitesse et la masse des planètes et de leurs principaux satellites, on estime que l'on peut calculer leur position dans 5 millions d'années à 150m près. Pour arriver à cette précision, mais aussi tout simplement pour réaliser une simulation réaliste, il faut tout particulièrement veiller à la [l'intégration numérique](w:Intégration_numérique) utilisée, pour garantir la conservation de l'énergie totale du système. Selon [cette étude](https://web.archive.org/web/20080613133934/http://www.artcompsci.org/msa/web/vol_1/v1_web/v1_web.html), la méthode de [Gauss-Hermite](w:Méthodes_de_quadrature_de_Gauss#M.C3.A9thode_de_Gauss-Hermite) donne les meilleurs résultats.
 
 D'autre part, pour chacun des N corps, il faut calculer les N-1 forces exercées par les autres corps. Au total, il faudra calculer \[N.(N-1)\]/2 forces (le /2 vient du fait qu'il suffit de ne calculer qu'une fois la force entre deux corps). On dit que la complexité est O(N²) : il faut effectuer un nombre d'opérations proportionnel au carré de N. Pour quelques dizaines de corps, ça ne pose aucun problème, mais si l'on veut simuler des galaxies ou même la collision de galaxies avec N=1'000'000, on se retrouve avec mille milliards de forces à évaluer, ce qui nécessite beaucoup de temps de calcul.
 
@@ -39,25 +39,25 @@ On pourrait se dire qu'une petite étoile à un bout de la galaxie n'attire prat
 
 Dès 1987, [Leslie Greengard](http://www.math.nyu.edu/faculty/greengar/) a développé un algorithme baptisé "[Fast Multipole Method](w:en:Fast_Multipole_Method)" (FMM), dont la complexité est O(N) seulement, et qui ne nécessite pas d'adaptation de la division de l'espace utilisée. Il est assez facile d'[illustrer cette méthode en 2D](http://www.umiacs.umd.edu/~ramani/fmm/), mais en 3D l'interaction entre zones est beaucoup plus complexe.
 
-La FMM est considérée par certains comme l'un des algorithmes les plus importants du XXième siècle, car il peut être appliqué à des problèmes beaucoup plus généraux que les N corps, comme certains problèmes de [mécanique des fluides ou de mécanque traités jusqu'ici par des méthodes de type "éléments finis"](http://urbana.mie.uc.edu/yliu/Software/) ou de [simulation de molécules](http://www-theor.ch.cam.ac.uk/people/ross/thesis/thesis.html). Inutile de dire que je vais regarder ça de plus près ...
+La FMM est considérée par certains comme l'un des algorithmes les plus importants du XXième siècle, car il peut être appliqué à des problèmes beaucoup plus généraux que les N corps, comme certains problèmes de [mécanique des fluides ou de mécanque traités jusqu'ici par des méthodes de type "éléments finis"](https://web.archive.org/web/20080616221827/http://urbana.mie.uc.edu/yliu/Software/) ou de [simulation de molécules](http://www-theor.ch.cam.ac.uk/people/ross/thesis/thesis.html). Inutile de dire que je vais regarder ça de plus près ...
 
 ### Références:
 
 - [NEMO A Stellar Dynamics Toolbox](http://bima.astro.umd.edu/nemo/), le logiciel développé par Barnes et Hut, site avec énormément de liens sur le domaine
 - Dossier "[le chaos dans le système solaire](http://astrosurf.com/luxorion/chaos-systemesolaire.htm)" sur AstroSurf
 - [Problème à N corps](w:) sur la Wikipedia
-- [N-body Methods](http://view.eecs.berkeley.edu/wiki/N-Body_Methods) à Berkeley
-- [The Art of Computational Science](http://www.artcompsci.org/)
-- [VPNBody](http://www.longwood.edu/staff/dunningrb/vpnbody/download.html) : code VPython
+- [N-body Methods](https://web.archive.org/web/20090223184449/http://view.eecs.berkeley.edu/wiki/N-Body_Methods) à Berkeley
+- [The Art of Computational Science](https://web.archive.org/web/20081216021757/http://www.artcompsci.org/)
+- [VPNBody](https://web.archive.org/web/20090107205659/http://www.longwood.edu/staff/dunningrb/vpnbody/download.html) : code VPython
 - [Fast Multipole Method](w:en:Fast_Multipole_Method) sur Wikipedia
 - Guy Blelloch and Girija Narlikar "[A Practical Comparison of N-Body Algorithms](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/scandal/public/papers/dimacs-nbody.pdf)" Parallel Algorithms. Series in Discrete Mathematics and Theoretical Computer Science, Volume 30, 1997.
-- [CUNBody](http://progrape.jp/cs/), une librairie de simulation N corps parallélisée sur GPU (processeur graphique)
+- [CUNBody](https://web.archive.org/web/20150223071425/http://progrape.jp/cs/), une librairie de simulation N corps parallélisée sur GPU (processeur graphique)
 - [Parallel N-Body Simulations](http://www.cs.cmu.edu/~scandal/alg/nbody.html) : comparaisons et implémentation sur super ordinateurs
 
 ### Logiciels N corps sur PC:
 
 - [Universe Sandbox](http://universesandbox.com/) : le plus beau et le plus fun
-- [Gravit](http://gravit.slowchop.com/) : utilise l'alogrithme de Barnes Hut
+- [Gravit](https://web.archive.org/web/20081217013424/http://gravit.slowchop.com/) : utilise l'alogrithme de Barnes Hut
 - [AstroGrav](http://www.astrograv.co.uk/)
 - [Gravity 6](http://www.andersson-design.com/gravity/index.shtml)
 - [Gravity Simulator](http://www.orbitsimulator.com/gravity/articles/what.html), un peu ancien

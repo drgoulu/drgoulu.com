@@ -17,6 +17,6 @@ L'appui aérodynamique généré par les ailerons, ou déportance
 >
 >
 >
-> ([Formule 1 - L'aérodynamisme](https://www.laberezina.com/technique/aerodynamique.htm))
+> ([Formule 1 - L'aérodynamisme](https://web.archive.org/web/20250217015718/https://www.laberezina.com/technique/aerodynamique.htm))
 
 Depuis 2022 le poids minimum d'une F1 est fixé à 798 kg, donc au dessus de 250 km/h environ une F1 pourrait rouler au plafond d'un tunnel

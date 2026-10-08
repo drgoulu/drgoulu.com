@@ -14,7 +14,7 @@ Le hic, c'est que les Datamatrix sont moches. Moins que les [Code QR](w:), mais
 
 Donc je me suis attelé à faire de "beaux" datamatrix, ou du moins essayer.
 
-Première étape : être capable de générer des datamatrix conformes au standard EC200. J'ai trouvé [libdtmx](http://www.libdmtx.org/), une librairie open source incluant [dmtxwrite.exe](http://www.libdmtx.org/display.php?text=dmtxwrite.1), une commande aisément "batchable" ainsi qu'un [wrapper Python](http://libdmtx.wikidot.com/libdmtx-python-wrapper) qui nous sera bien utile.
+Première étape : être capable de générer des datamatrix conformes au standard EC200. J'ai trouvé [libdtmx](http://www.libdmtx.org/), une librairie open source incluant [dmtxwrite.exe](https://web.archive.org/web/20110721182725/http://www.libdmtx.org/display.php?text=dmtxwrite.1), une commande aisément "batchable" ainsi qu'un [wrapper Python](http://libdmtx.wikidot.com/libdmtx-python-wrapper) qui nous sera bien utile.
 
 Deuxième étape : combiner le datamatrix avec une image. Pour ça il y a [ImageMagick](http://www.imagemagick.org), un logiciel de traitement d’images gratuit au moins aussi puissant que Photoshop, mais sans GUI (interface utilisateur graphique, pour les intimes). Sa force réside dans le fait qu’il est utilisable par tous les langages de programmation possibles, et même depuis un petit batch DOS (si, si, ça existe encore...) :
 
@@ -44,7 +44,7 @@ convert back.png  +level 50% back2.png
 composite -compose multiply dm.png back2.png dm2.png
 ```
 
-Ce batch génère le datamatrix correspondant au texte\* contenu dans un fichier passé en paramètre %2 et en fait un masque qui est "[composé](http://www.imagemagick.org/Usage/compose/)" avec une image de fond passée en paramètre %1, redimensionnée de [subtile](http://www.infionline.net/~wtnewton/batch/batchfaq.html#8) manière.
+Ce batch génère le datamatrix correspondant au texte\* contenu dans un fichier passé en paramètre %2 et en fait un masque qui est "[composé](https://web.archive.org/web/20110504135628/http://www.imagemagick.org/Usage/compose/)" avec une image de fond passée en paramètre %1, redimensionnée de [subtile](https://web.archive.org/web/20110723154532/http://www.infionline.net/~wtnewton/batch/batchfaq.html#8) manière.
 
 Dans le cas qui nous occupe on obtient ces images, dont vous devriez pouvoir décoder les deux dernières avec [Google Goggles](http://www.google.com/mobile/goggles) ou équivalent : \[gallery columns="2"\]
 
@@ -52,4 +52,4 @@ Note\* : Les caractères accentués doivent être écrits avec l'encodage ISO 8
 
 ### Références:
 
-1. <span id="ref-1"></span>[la norme ECC 200 sur Grapdzebu](http://grandzebu.net/index.php?page=/informatique/codbar/datamatrix.htm)
+1. <span id="ref-1"></span>[la norme ECC 200 sur Grapdzebu](https://web.archive.org/web/20100507022655/http://grandzebu.net/index.php?page=/informatique/codbar/datamatrix.htm)

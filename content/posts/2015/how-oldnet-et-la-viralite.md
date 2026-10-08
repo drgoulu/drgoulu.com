@@ -9,6 +9,6 @@ tags:
 draft: true
 coverImage: "./images/how-old.net-PhG.png"
 ---
-[http://blog.how-old.net/](http://blog.how-old.net/)
+[http://blog.how-old.net/](https://web.archive.org/web/20150506011845/http://blog.how-old.net/)
 
 [![how-old.net PhG](./images/how-old.net-PhG.png)](./images/how-old.net-PhG.png)

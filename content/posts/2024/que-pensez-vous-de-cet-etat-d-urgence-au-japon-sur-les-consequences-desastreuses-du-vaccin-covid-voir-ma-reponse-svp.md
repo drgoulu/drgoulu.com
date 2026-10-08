@@ -19,7 +19,7 @@ La page du ministère de la santé japonais sur les vaccins Covid-19 ne mentionn
 
 L'origine de ce délire est décrite ici:
 
-[https://www.reuters.com/fact-che...](https://www.reuters.com/fact-check/japan-is-not-banning-covid-vaccines-contrary-online-claims-2024-03-29/)
+[https://www.reuters.com/fact-che...](https://web.archive.org/web/20241114191131/https://www.reuters.com/fact-check/japan-is-not-banning-covid-vaccines-contrary-online-claims-2024-03-29/)
 
 Il faut vraiment être bien déjanté pour propager des nouvelles pareilles sans la moindre vérification, sans parler de votre réponse totalement délirante, signalée pour complotisme dangereux.
 

@@ -15,10 +15,10 @@ Peut-être qu'ils savent qu'ils n'ont pas le pouvoir d'obtenir rétroactivement 
 
 En passant, il semble que ce soit la France et la Suède qui s'opposent à la transparence des mêmes documents en Suisse :
 
-[https://www.blick.ch/fr/news/sui...](https://www.blick.ch/fr/news/suisse/la-faute-a-la-france-et-la-suede-lofsp-defend-le-secret-quant-aux-co-ts-relatifs-aux-vaccins-covid-id19754356.html)
+[https://www.blick.ch/fr/news/sui...](https://web.archive.org/web/20240523145904/https://www.blick.ch/fr/news/suisse/la-faute-a-la-france-et-la-suede-lofsp-defend-le-secret-quant-aux-co-ts-relatifs-aux-vaccins-covid-id19754356.html)
 
 Peut-être parce que les vaccins Moderna étaient produits en Suisse ?
 
 Mais ici les documents sont publiés caviardés, et ça me va très bien comme ça
 
-[https://www.bag.admin.ch/bag/fr/...](https://www.bag.admin.ch/bag/fr/home/krankheiten/krankheiten-im-ueberblick/coronavirus/covid-19/bisherige-materialien/beschaffungsvertraege-covid-19-impfstoffe.html)
+[https://www.bag.admin.ch/bag/fr/...](https://web.archive.org/web/20240528074309/https://www.bag.admin.ch/bag/fr/home/krankheiten/krankheiten-im-ueberblick/coronavirus/covid-19/bisherige-materialien/beschaffungsvertraege-covid-19-impfstoffe.html)

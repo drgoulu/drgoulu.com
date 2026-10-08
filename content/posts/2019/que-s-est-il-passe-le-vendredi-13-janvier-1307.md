@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Le 13 janvier 1307 était un samedi.
 
-[Calendrier pour l'année 1307](https://horlogeparlante.fr/be/make_calendar.php?setyear=1307&setmode=0)
+[Calendrier pour l'année 1307](https://web.archive.org/web/20191001/https://horlogeparlante.fr/be/make_calendar.php?setyear=1307&setmode=0)

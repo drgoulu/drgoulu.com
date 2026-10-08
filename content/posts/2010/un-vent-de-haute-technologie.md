@@ -13,7 +13,7 @@ tags:
 coverImage: "./images/55c1b94ac77688257c532bc578a2b1d1.jpg"
 ---
 
-Quand on s'intéresse à plein de choses, il arrive parfois qu'apparaisse soudain une nouvelle qui  relie miraculeusement des sujets très différents. C'est ce qui est m'est arrivé en lisant [cet article de Thierry Seray](http://tendancebleue.canalblog.com/archives/2010/01/27/16686735.html).
+Quand on s'intéresse à plein de choses, il arrive parfois qu'apparaisse soudain une nouvelle qui  relie miraculeusement des sujets très différents. C'est ce qui est m'est arrivé en lisant [cet article de Thierry Seray](https://web.archive.org/web/20100131044653/http://tendancebleue.canalblog.com/archives/2010/01/27/16686735.html).
 
 {{< figure src="./images/55c1b94ac77688257c532bc578a2b1d1.jpg" alt="$250" caption="$250" width="300" >}}
 
@@ -31,4 +31,4 @@ Note\* : parce que bon, on pourrait aussi imaginer envoyer un rayonnement bien p
 
 1. <span id="ref-1"></span>"[Vélocimétrie laser](w:)" sur Wikipedia
 2. <span id="ref-2"></span>[Closer look at Racer's Edge, BMW Oracle's cutting edge wind measurement device](http://valenciasailing.blogspot.com/2010/01/closer-look-at-racers-edge-bmw-oracles.html) sur Valencia Sailing
-3. <span id="ref-3"></span>Philip L. Rogers, Kerry J.Vahala,  "Laser doppler velocimeter" United States Patent Nr [20080170235](http://www.freepatentsonline.com/y2008/0170235.html), 2008
+3. <span id="ref-3"></span>Philip L. Rogers, Kerry J.Vahala,  "Laser doppler velocimeter" United States Patent Nr [20080170235](https://web.archive.org/web/20191018155253/http://www.freepatentsonline.com/y2008/0170235.html), 2008

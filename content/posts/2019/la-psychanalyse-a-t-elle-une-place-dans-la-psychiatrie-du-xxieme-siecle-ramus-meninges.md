@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://cafedessciences.quora.com/La-psychanalyse-a-t-elle-une-place-dans-la-psychiatrie-du-XXIème-siècle-Ramus-méninges)*
 
-[http://www.scilogs.fr/ramus-meni...](http://www.scilogs.fr/ramus-meninges/psychanalyse-psychiatrie-qdm/)
+[http://www.scilogs.fr/ramus-meni...](https://web.archive.org/web/20190508183704/http://www.scilogs.fr/ramus-meninges/psychanalyse-psychiatrie-qdm/)

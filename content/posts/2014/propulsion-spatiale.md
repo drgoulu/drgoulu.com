@@ -11,4 +11,4 @@ L'actualité me fournit l'occasion de revenir sur un sujet abordé déjà abord�
 
 http://space.stackexchange.com/questions/6183/gravity-assist-braking
 
-- [http://www2.jpl.nasa.gov/basics/bsf4-1.php](http://www2.jpl.nasa.gov/basics/bsf4-1.php) que je vais traduire un jour. Surtout ce graphique est génial : ![Voyager's gravity assists](./images/bb5bb4d2c73220b93ce704c38a39b1b0.gif)
+- [http://www2.jpl.nasa.gov/basics/bsf4-1.php](https://web.archive.org/web/20141207120628/http://www2.jpl.nasa.gov/basics/bsf4-1.php) que je vais traduire un jour. Surtout ce graphique est génial : ![Voyager's gravity assists](./images/bb5bb4d2c73220b93ce704c38a39b1b0.gif)

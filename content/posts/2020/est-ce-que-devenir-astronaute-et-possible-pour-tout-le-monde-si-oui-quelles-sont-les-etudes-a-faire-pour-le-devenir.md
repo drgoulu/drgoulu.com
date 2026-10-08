@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Est-ce-que-devenir-astronaute-et-possible-pour-tout-le-monde-Si-oui-quelles-sont-les-%C3%A9tudes-%C3%A0-faire-pour-le-devenir/answer/Dr-Goulu)*
 
-Les critères sont là : [Critères de sélection des astronautes de l'ESA 2020](https://www.fromspacewithlove.com/fr/esa-astronaut-requirements-fr/)
+Les critères sont là : [Critères de sélection des astronautes de l'ESA 2020](https://web.archive.org/web/20201025135745/https://www.fromspacewithlove.com/fr/esa-astronaut-requirements-fr/)
 
 > L’ESA exige un diplôme universitaire (ou équivalent) en ingéniérie, en médecine ou en sciences naturelles pour être admissible.
 >

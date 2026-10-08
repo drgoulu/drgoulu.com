@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 oui.
 
-[Optical Spectrum of the Bipolar Nebula AFGL 2688](https://ui.adsabs.harvard.edu/abs/2000AstL...26..439K/abstract) , [(pdf](https://adsabs.harvard.edu/full/2000AstL...26..439K) haut de la page 449, colonne de droite)
+[Optical Spectrum of the Bipolar Nebula AFGL 2688](https://web.archive.org/web/20250707/https://ui.adsabs.harvard.edu/abs/2000AstL...26..439K/abstract) , [(pdf](https://adsabs.harvard.edu/full/2000AstL...26..439K) haut de la page 449, colonne de droite)

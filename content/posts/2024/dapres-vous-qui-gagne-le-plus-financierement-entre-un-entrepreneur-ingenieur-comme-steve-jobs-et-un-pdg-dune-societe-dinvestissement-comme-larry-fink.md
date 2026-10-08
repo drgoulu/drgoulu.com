@@ -24,6 +24,6 @@ Ne mettez pas "d'après vous" dans une telle question. Les faits sont les mêmes
 
 Notes de bas de page
 
-[[1]](#cite-aSsRh)[Chairman and Chief Executive Officer Laurence D. Fink salary at BlackRock Inc. | Salary.com](https://www1.salary.com/Laurence-D-Fink-Salary-Bonus-Stock-Options-for-BLACKROCK-INC.html)
+[[1]](#cite-aSsRh)[Chairman and Chief Executive Officer Laurence D. Fink salary at BlackRock Inc. | Salary.com](https://web.archive.org/web/20240722172051/https://www1.salary.com/Laurence-D-Fink-Salary-Bonus-Stock-Options-for-BLACKROCK-INC.html)
 
 [[2]](#cite-Wltpu)[Steve Jobs Net Worth 2024 (FORBES) Apple Assets at Death - Net Worth Club 2024](https://www.caclubindia.com/wealth/steve-jobs-net-worth/#:~:text=6-,Steve Jobs Salary,year, based on sales performance.)

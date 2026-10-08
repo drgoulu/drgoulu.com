@@ -20,6 +20,6 @@ coverImage: ./images/quora.png
 
 Il y a des travaux en cours pour modifier génétiquement cette bactérie pour qu'elle soit plus efficace, mais je doute un peu que ce soit une bonne idée de la répandre dans la nature pour qu'elle y transforme chaque bouteille de PET en milliards de milliards de molécules d'acide téréphtalique…
 
-[https://www.forbes.fr/environnem...](https://www.forbes.fr/environnement/developpement-dune-bacterie-mangeuse-de-plastique/)
+[https://www.forbes.fr/environnem...](https://web.archive.org/web/20211105111115/https://www.forbes.fr/environnement/developpement-dune-bacterie-mangeuse-de-plastique/)
 
 C'est vraiment important de bien faire la différence entre une expérience "in vitro" en laboratoire, et une application industrielle à grande échelle.

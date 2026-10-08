@@ -42,4 +42,4 @@ Oui. [Jean-Henri Lambert](w:) a prouvé que [Pi](w:) est irrationnel en 1761.
 
 Notes de bas de page
 
-[[1]](#cite-cpKZh)[https://www.ams.org/journals/bul...](https://www.ams.org/journals/bull/1947-53-06/S0002-9904-1947-08821-2/S0002-9904-1947-08821-2.pdf)
+[[1]](#cite-cpKZh)[https://www.ams.org/journals/bul...](https://web.archive.org/web/20190502210909/https://www.ams.org/journals/bull/1947-53-06/S0002-9904-1947-08821-2/S0002-9904-1947-08821-2.pdf)

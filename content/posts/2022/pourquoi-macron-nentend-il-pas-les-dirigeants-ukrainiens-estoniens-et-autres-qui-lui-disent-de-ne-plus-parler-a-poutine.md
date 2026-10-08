@@ -28,7 +28,7 @@ L'OSCE va cependant devoir cesser ses activités de surveillance de l'accord. So
 >
 >
 >
-> ([OSCE Chairman-in-Office and Secretary General announce upcoming closure of Special Monitoring Mission to Ukraine](https://www.osce.org/chairmanship/516933) )
+> ([OSCE Chairman-in-Office and Secretary General announce upcoming closure of Special Monitoring Mission to Ukraine](https://web.archive.org/web/20220527013055/https://www.osce.org/chairmanship/516933) )
 
 Ca a le mérite d'être clair, non ?
 

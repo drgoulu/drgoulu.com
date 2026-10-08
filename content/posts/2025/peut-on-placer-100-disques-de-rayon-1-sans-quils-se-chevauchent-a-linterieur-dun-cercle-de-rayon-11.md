@@ -20,7 +20,7 @@ C'est un problème d'[Empilement de cercles dans un cercle](w:)
 
 Malheureusement, [Wikipédia](w:Empilement_de_cercles_dans_un_cercle) ne donne les solutions optimales que jusqu'à n=20 disques
 
-Mais le site de l'Uni de Magdebourg [The best known packings of equal circles in a circle](http://hydra.nat.uni-magdeburg.de/packing/cci/) fourni en référence de l'article Wikipédia donne le meilleur empilement connu de 100 disques:
+Mais le site de l'Uni de Magdebourg [The best known packings of equal circles in a circle](https://web.archive.org/web/20250503113525/http://hydra.nat.uni-magdeburg.de/packing/cci/) fourni en référence de l'article Wikipédia donne le meilleur empilement connu de 100 disques:
 
 ![](./images/qimg-675ddb42a785295fcca4f5661fbca6e8.png)
 
@@ -28,4 +28,4 @@ Le ratio dépasse 11, donc non, ça ne passe pas … Et comme pour N=99 le ratio
 
 Mais si vous avez trouvé un empilement plus dense, vous pouvez le soumettre à ce site, dont la découverte me fait vous remercier pour la question.
 
-[http://hydra.nat.uni-magdeburg.d...](http://hydra.nat.uni-magdeburg.de/packing/cci/#Download)
+[http://hydra.nat.uni-magdeburg.d...](https://web.archive.org/web/20250503113525/http://hydra.nat.uni-magdeburg.de/packing/cci/#Download)

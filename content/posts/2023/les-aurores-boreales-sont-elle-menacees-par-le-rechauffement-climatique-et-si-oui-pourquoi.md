@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Non, aucun rapport.
 
-[https://www.lavoixdunord.fr/1296...](https://www.lavoixdunord.fr/1296788/article/2023-02-28/aurores-boreales-sont-elles-liees-au-rechauffement-climatique)
+[https://www.lavoixdunord.fr/1296...](https://web.archive.org/web/20231106150941/https://www.lavoixdunord.fr/1296788/article/2023-02-28/aurores-boreales-sont-elles-liees-au-rechauffement-climatique)

@@ -30,5 +30,5 @@ Les lignes en traitillés indiquent l'intensité du champ magnétique en surface
 ### Référence
 
 1. A. Hewish, S. J. Bell, J. D. H. Pilkington, P. F. Scott& R. A. Collins, "[Observation of a Rapidly Pulsating Radio Source](http://www.nature.com/physics/looking-back/hewish/index.html)", 1968, Nature 217, p 709 - 713
-2. Wynn C. G. Ho, Craig O. Heinke, "[A neutron star with a carbon atmosphere in the Cassiopeia A supernova remnant](http://fr.arxiv.org/PS_cache/arxiv/pdf/0911/0911.0672v1.pdf)", 2009, Nature, Vol. 462, p. 71–73
-3. Victoria M. Kaspi, "[Grand Unification of Neutron Stars](http://arxiv.org/PS_cache/arxiv/pdf/1005/1005.0876v1.pdf)", 2010, Submitted to Proceedings of the National Academy of Sciences of the United States of America
+2. Wynn C. G. Ho, Craig O. Heinke, "[A neutron star with a carbon atmosphere in the Cassiopeia A supernova remnant](https://web.archive.org/web/20220126103832/http://fr.arxiv.org/PS_cache/arxiv/pdf/0911/0911.0672v1.pdf)", 2009, Nature, Vol. 462, p. 71–73
+3. Victoria M. Kaspi, "[Grand Unification of Neutron Stars](https://web.archive.org/web/20240603125139/http://arxiv.org/PS_cache/arxiv/pdf/1005/1005.0876v1.pdf)", 2010, Submitted to Proceedings of the National Academy of Sciences of the United States of America

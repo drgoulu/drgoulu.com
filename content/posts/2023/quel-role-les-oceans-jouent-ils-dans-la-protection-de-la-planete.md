@@ -38,4 +38,4 @@ Nous c'est moins sur. C'est pas la planète qu'on doit protéger, c'est nous.
 
 Notes de bas de page
 
-[[1]](#cite-ODrDB)[Dans la balance du vivant, les hommes ne pèsent pas bien lourd](https://www.lemonde.fr/les-decodeurs/article/2018/12/21/dans-la-balance-du-vivant-les-hommes-ne-pesent-pas-bien-lourd_5401032_4355770.html)
+[[1]](#cite-ODrDB)[Dans la balance du vivant, les hommes ne pèsent pas bien lourd](https://web.archive.org/web/20221105081336/https://www.lemonde.fr/les-decodeurs/article/2018/12/21/dans-la-balance-du-vivant-les-hommes-ne-pesent-pas-bien-lourd_5401032_4355770.html)

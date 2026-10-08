@@ -24,4 +24,4 @@ Mais en fait il n'y a pas besoin de savoir ce qui se trouve à l'intérieur de l
 
 Voir par exemple cet article :
 
-Emparan, R., Martínez, M., & Zilhão, M. (2018). [Black hole fusion in the extreme mass ratio limit](https://doi.org/10.1103/PhysRevD.97.044004) Physical Review D, 97(4). ([pdf sur arXiv](https://arxiv.org/pdf/1708.08868) )
+Emparan, R., Martínez, M., & Zilhão, M. (2018). [Black hole fusion in the extreme mass ratio limit](https://web.archive.org/web/20211209013723/https://doi.org/10.1103/PhysRevD.97.044004) Physical Review D, 97(4). ([pdf sur arXiv](https://arxiv.org/pdf/1708.08868) )

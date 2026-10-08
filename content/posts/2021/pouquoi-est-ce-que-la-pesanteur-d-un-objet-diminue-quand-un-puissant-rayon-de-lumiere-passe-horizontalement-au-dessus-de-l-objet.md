@@ -20,7 +20,7 @@ Alors là, vous êtes bien le premier auteur que je vois en plus de 30 ans qui n
 
 vous vouliez donc dire
 
-Rancourt, L., & Tattersall, P. J. (2015). [Further Experiments Demonstrating the Effect of Light on Gravitation](https://doi.org/10.5539/apr.v7n4p4). Applied Physics Research, 7(4), 4–13. DOI: [10.5539/apr.v7n4p4](https://www.researchgate.net/deref/http://dx.doi.org/10.5539/apr.v7n4p4?_sg[0]=rSj1tMOR0BEIyzCQWH94DHnpKbJbRNTJnEo1Xh454nRsFmZrRR8b7i2hiyCxhDXhrojLain9McP0yVw_kfe6xM-CrA.GIHQcvGrnDyy8lnkOqn6qCIzCWV8bZ6rpb2FKYU8Dnl2oTSF7Rq4WXMBVJCOZbR9llcDFqew4N7ahZtbrqLdDw)
+Rancourt, L., & Tattersall, P. J. (2015). [Further Experiments Demonstrating the Effect of Light on Gravitation](https://doi.org/10.5539/apr.v7n4p4). Applied Physics Research, 7(4), 4–13. DOI: [10.5539/apr.v7n4p4](https://web.archive.org/web/20210211/https://www.researchgate.net/deref/http://dx.doi.org/10.5539/apr.v7n4p4?_sg[0]=rSj1tMOR0BEIyzCQWH94DHnpKbJbRNTJnEo1Xh454nRsFmZrRR8b7i2hiyCxhDXhrojLain9McP0yVw_kfe6xM-CrA.GIHQcvGrnDyy8lnkOqn6qCIzCWV8bZ6rpb2FKYU8Dnl2oTSF7Rq4WXMBVJCOZbR9llcDFqew4N7ahZtbrqLdDw)
 
 bien bien … alors:
 

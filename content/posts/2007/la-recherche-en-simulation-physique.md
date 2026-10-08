@@ -12,7 +12,7 @@ tags:
   - "video"
 ---
 
-[Ron Fedkiw](http://physbam.stanford.edu/~fedkiw/) est chercheur et professeur à Stanford et [sa page](http://physbam.stanford.edu/~fedkiw/) regorge de vidéos extraordinaires sur ses sujets de recherche en simulation physique et 3D, qui donnent une petite idée de ce qui sera possible de faire en temps réel dans quelques années (ou mois).
+[Ron Fedkiw](https://web.archive.org/web/20080116232411/http://physbam.stanford.edu/~fedkiw/) est chercheur et professeur à Stanford et [sa page](https://web.archive.org/web/20080116232411/http://physbam.stanford.edu/~fedkiw/) regorge de vidéos extraordinaires sur ses sujets de recherche en simulation physique et 3D, qui donnent une petite idée de ce qui sera possible de faire en temps réel dans quelques années (ou mois).
 
 Une de ses spécialités est l'interaction de solides, de fluides et de gaz, comme par exemple dans sa "réaction chimique" :
 

@@ -20,4 +20,4 @@ coverImage: ./images/quora.png
 
 In such a country, you can’t really complain about the government, you have to complain about other citizens, or yourself …
 
-(My dear american friends, [we were so close](http://www.theswisscenter.org/sister-republics), what have you done ??? )
+(My dear american friends, [we were so close](https://web.archive.org/web/20171216113523/http://www.theswisscenter.org/sister-republics), what have you done ??? )

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 vous demandez gentiment à
 
-[https://www.wolframalpha.com/inp...](https://www.wolframalpha.com/input?i=number+of+divisors+of+15!)
+[https://www.wolframalpha.com/inp...](https://web.archive.org/web/20240911/https://www.wolframalpha.com/input?i=number+of+divisors+of+15!)

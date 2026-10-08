@@ -27,7 +27,7 @@ Les mesures de la concentration de CO2 dans l'atmosphère montrent une croissanc
 
 ![](./images/qimg-1f98477b8c1eb987a89dc295b2411dd4.jpg)
 
-(L'explication de l'oscillation saisonnière (courbe rouge) est très intéressante. Essayez de deviner sa cause avant de lire la source : [Le taux de CO2 dans l’atmosphère au plus haut depuis 4 millions d’années](https://youmatter.world/fr/categorie-environnement/taux-co2-atmosphere-plus-haut-changement-climatique/))
+(L'explication de l'oscillation saisonnière (courbe rouge) est très intéressante. Essayez de deviner sa cause avant de lire la source : [Le taux de CO2 dans l’atmosphère au plus haut depuis 4 millions d’années](https://web.archive.org/web/20250811071051/https://youmatter.world/fr/categorie-environnement/taux-co2-atmosphere-plus-haut-changement-climatique/))
 
 Donc là, l'augmentation est de 10/400/4 = 0.625% par année, et elle est du uniquement à nos émissions.
 

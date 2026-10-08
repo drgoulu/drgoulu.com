@@ -15,4 +15,4 @@ difficile de préparer un vaccin contre des variants qui n'existent pas encore �
 
 Les vaccins à ARNm ont déjà été modifiés contre le variant delta notamment et les tests ont commencé ou vont commencer ces jours-ci.
 
-[https://investors.biontech.de/ne...](https://investors.biontech.de/news-releases/news-release-details/pfizer-and-biontech-provide-update-booster-program-light-delta/)
+[https://investors.biontech.de/ne...](https://web.archive.org/web/20210903052119/https://investors.biontech.de/news-releases/news-release-details/pfizer-and-biontech-provide-update-booster-program-light-delta/)

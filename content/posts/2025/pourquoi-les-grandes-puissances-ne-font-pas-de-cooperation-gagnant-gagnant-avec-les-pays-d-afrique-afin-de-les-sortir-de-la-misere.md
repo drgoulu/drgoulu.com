@@ -22,7 +22,7 @@ Ce n'est pas le rôle des "grandes puissances". En tant que contribuable je ne v
 
 Le développement économique, c'est le rôle des entreprises. Du pays en développement en premier lieu, qui doit attirer des investissements, ce qui implique une rentabilité dans un état de droit relativement stable, du personnel local ayant un minimum de formation, des infrastructures de transport et d'énergie etc.
 
-Comme le montre merveilleusement bien [Hans Rosling dans ses conférences](https://www.ted.com/playlists/474/the_best_hans_rosling_talks_yo), le développement de tous les pays suit à peu près les mêmes étapes et la même trajectoire, simplement décalée dans le temps.
+Comme le montre merveilleusement bien [Hans Rosling dans ses conférences](https://web.archive.org/web/20250520102910/https://www.ted.com/playlists/474/the_best_hans_rosling_talks_yo), le développement de tous les pays suit à peu près les mêmes étapes et la même trajectoire, simplement décalée dans le temps.
 
 La croissance du PIB par habitant est supérieure à la moyenne européenne dans la majorité des pays africains.
 

@@ -6,7 +6,7 @@ tags:
   - "graphes"
 ---
 
-[Un article sur "Futura Sciences"](http://www.futura-sciences.com/fr/news/t/recherche/d/boinc-et-theorie-des-graphes-une-nouvelle-performance_10368/) fait le lien entre plusieurs choses passionnantes dont je vous ai déjà parlé sur ce blog:
+[Un article sur "Futura Sciences"](https://web.archive.org/web/20080904131548/http://www.futura-sciences.com/fr/news/t/recherche/d/boinc-et-theorie-des-graphes-une-nouvelle-performance_10368/) fait le lien entre plusieurs choses passionnantes dont je vous ai déjà parlé sur ce blog:
 
 1. [le problème des 3 maisons](http://www.goulu.net/wordpress/les-3-maisons)
 2. [les graphes](http://dist.ist.tugraz.at/cape5/)

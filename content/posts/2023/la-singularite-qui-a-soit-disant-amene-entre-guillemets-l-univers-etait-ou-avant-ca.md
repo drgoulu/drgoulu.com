@@ -31,4 +31,4 @@ Dans tous les cas
 
 Notes de bas de page
 
-[[1]](#cite-DSsNV)[Et si l'Univers existait depuis et pour toujours ?](https://www.lepoint.fr/sciences-nature/et-si-l-univers-existait-depuis-et-pour-toujours-26-02-2015-1908003_1924.php)
+[[1]](#cite-DSsNV)[Et si l'Univers existait depuis et pour toujours ?](https://web.archive.org/web/20210501122326/https://www.lepoint.fr/sciences-nature/et-si-l-univers-existait-depuis-et-pour-toujours-26-02-2015-1908003_1924.php)

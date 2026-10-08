@@ -15,4 +15,4 @@ Oui c'est assez facile puisque strictement rien n'est éjecté lors de la fusion
 
 Moins ce qui est perdu sous forme d'ondes gravitationnelles pendant qu'ils se tournent autour. Ça peut faire 5% de la masse totale environ. Quelques masses solaires. Peanuts.
 
-[https://astronomy.stackexchange....](https://astronomy.stackexchange.com/questions/38733/fraction-of-initial-mass-lost-radiated-by-neutron-star-mergers-compared-to-bla)
+[https://astronomy.stackexchange....](https://web.archive.org/web/20210507001209/https://astronomy.stackexchange.com/questions/38733/fraction-of-initial-mass-lost-radiated-by-neutron-star-mergers-compared-to-bla)

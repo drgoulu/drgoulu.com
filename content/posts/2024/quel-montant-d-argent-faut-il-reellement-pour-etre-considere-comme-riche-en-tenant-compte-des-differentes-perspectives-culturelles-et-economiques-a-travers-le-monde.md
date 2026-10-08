@@ -22,7 +22,7 @@ L'[observatoire des inégalités](w:) considère qu'en France, si on gagne le do
 
 > soit 3 470 euros par mois et par unité de consommation (UC). Dans un foyer, le premier adulte compte pour 1 UC ; tout adulte supplémentaire ou enfant de plus de 14 ans compte pour 0,5 UC ; les personnes de moins de 14 ans, pour 0,3 UC. Ces montants s’entendent après impôts et prestations sociales.
 
-[https://www.lemonde.fr/economie/...](https://www.lemonde.fr/economie/article/2020/06/09/etes-vous-riche-la-reponse-de-l-observatoire-des-inegalites_6042281_3234.html)
+[https://www.lemonde.fr/economie/...](https://web.archive.org/web/20240626205415/https://www.lemonde.fr/economie/article/2020/06/09/etes-vous-riche-la-reponse-de-l-observatoire-des-inegalites_6042281_3234.html)
 
 Ça correspond à 8% de la population française.
 

@@ -18,6 +18,6 @@ coverImage: ./images/quora.png
 
 Oui, plusieurs études le montrent, voir liste sur [Google Scholar](https://scholar.google.ch/scholar?hl=fr&as_sdt=0,5&q=placebo+animals&oq=Placebo+anim)
 
-Je cite souvent [Placebo Effect in Canine Epilepsy Trials](http://dx.doi.org/10.1111/j.1939-1676.2009.0407.x) parce qu'il utilise une mesure objective (nombre d'attaques d'épilepsie des chiens) et montre un effet intéressant : les médicaments vétérinaires n'étant pas testés contre placebo, ils intègrent cet effet et ont donc une efficacité surévaluée.
+Je cite souvent [Placebo Effect in Canine Epilepsy Trials](https://web.archive.org/web/20191013172215/http://dx.doi.org/10.1111/j.1939-1676.2009.0407.x) parce qu'il utilise une mesure objective (nombre d'attaques d'épilepsie des chiens) et montre un effet intéressant : les médicaments vétérinaires n'étant pas testés contre placebo, ils intègrent cet effet et ont donc une efficacité surévaluée.
 
 Voir aussi : [L’homéopathie en médecine vétérinaire / Afis Science - Association française pour l’information scientifique](https://www.pseudo-sciences.org/L-homeopathie-en-medecine-veterinaire)

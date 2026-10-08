@@ -14,11 +14,11 @@ coverImage: "./images/pls417-216x300.png"
 
 {{< figure src="./images/pls417-216x300.png" alt="pls417" caption="à lire absolument" link="http://www.pourlascience.fr/" width="216" >}}
 
-L'article ["Super-supernovae"](http://www.pourlascience.fr/ewb_pages/f/fiche-article-super-supernovae-29926.php) d'Avishay Gal-Yam dans le ["Pour la Science"](http://www.pourlascience.fr/ewb_pages/s/sommaire_pls.php?art_id=29947&num=417) de juillet [[1]](#ref-1) raconte la séquence de découvertes surprenantes déclanchées par l'étude attentive de quelques supernovas particulièrement violentes.
+L'article ["Super-supernovae"](https://web.archive.org/web/20130504092916/http://www.pourlascience.fr/ewb_pages/f/fiche-article-super-supernovae-29926.php) d'Avishay Gal-Yam dans le ["Pour la Science"](https://web.archive.org/web/20130502215428/http://www.pourlascience.fr/ewb_pages/s/sommaire_pls.php?art_id=29947&num=417) de juillet [[1]](#ref-1) raconte la séquence de découvertes surprenantes déclanchées par l'étude attentive de quelques supernovas particulièrement violentes.
 
 D'abord, l'auteur et ses collègues découvrent que des étoiles "hypermassives" de 100 masses solaires et plus explosent à la fin de leur courte vie, alors que la théorie prédit qu'elles ne devraient même pas exister.
 
-Ensuite ils s'aperçoivent qu'à l'endroit où ont pété [SN2005gl](http://hubblesite.org/newscenter/archive/releases/2009/13/), [SN2006gy](w:SN_2006gy) ou [SN2007bi](w:SN_2007bi), il ne reste qu'un gros nuage. A la place de l'étoile, il n'y a ni trou noir, ni étoile à neutrons, ni petit bout de reste d'étoile moribonde, rien.
+Ensuite ils s'aperçoivent qu'à l'endroit où ont pété [SN2005gl](https://web.archive.org/web/20120506130934/http://hubblesite.org/newscenter/archive/releases/2009/13/), [SN2006gy](w:SN_2006gy) ou [SN2007bi](w:SN_2007bi), il ne reste qu'un gros nuage. A la place de l'étoile, il n'y a ni trou noir, ni étoile à neutrons, ni petit bout de reste d'étoile moribonde, rien.
 
 Pour rappel, les étoiles [fusionnent des éléments légers](/2005/12/11/la-fusion-thermonucleaire/) en commençant par l'hydrogène, et quand elles en ont trop converti en hélium elles toussent, se contractent, chauffent, et démarrent la fusion de l'hélium en carbone, puis produisent de l'oxygène. A la fin de cette phase, les petites étoiles comme le Soleil ne chauffent plus assez pour continuer et s'éteignent lentement. Celles qui font plus de 10 masses solaires continuent en fusionnant l'oxygène en silicium, puis en fer. Et la [nucléosynthèse stellaire](w:nucléosynthèse_stellaire) s'arrête là, car la fusion du fer ne produit pas d'énergie.  L'étoile s'effondre littéralement sur elle même en fusionnant brutalement ce qu'il lui reste d'atomes légers en une magnifique supernova, laissant sur place une boule de fer qui peut se transformer en étoile à neutrons voire en trou noir.
 
@@ -34,6 +34,6 @@ A lire absolument.
 
 ## Références:
 
-1. <span id="ref-1"></span>A. Gal-Yam, ["Super-supernovae"](http://www.pourlascience.fr/ewb_pages/f/fiche-article-super-supernovae-29926.php), 2012, [Pour la Science, No 417](http://www.pourlascience.fr/ewb_pages/s/sommaire_pls.php?art_id=29947&num=417) , p 20-25
+1. <span id="ref-1"></span>A. Gal-Yam, ["Super-supernovae"](https://web.archive.org/web/20130504092916/http://www.pourlascience.fr/ewb_pages/f/fiche-article-super-supernovae-29926.php), 2012, [Pour la Science, No 417](https://web.archive.org/web/20130502215428/http://www.pourlascience.fr/ewb_pages/s/sommaire_pls.php?art_id=29947&num=417) , p 20-25
 2. <span id="ref-2"></span>Z. Barkat, G. Rakavy & N. Sack, "Dynamics of supernova explosion resulting from pair formation", 1967 Phys. Rev. Lett. 18, 379–381 {{< altmetric doi="10.1103/PhysRevLett.18.379" >}}
-3. <span id="ref-3"></span>A. Gal-Yam, P. Mazzali, E.O. Ofek, P.E. Nugent,S.R. Kulkarni, M.M. Kasliwal, R.M. Quimby, et al. "[Supernova 2007bi as a pair-instability explosion](http://www.astro.uni-bonn.de/~nlanger/siu_web/nucsyn_papers/sn2007bi.pdf.gz)", 2009 Nature, 462(7273), 624-7. Nature Publishing Group. {{< altmetric doi="10.1038/nature08579" >}}
+3. <span id="ref-3"></span>A. Gal-Yam, P. Mazzali, E.O. Ofek, P.E. Nugent,S.R. Kulkarni, M.M. Kasliwal, R.M. Quimby, et al. "[Supernova 2007bi as a pair-instability explosion](https://web.archive.org/web/20120623/http://www.astro.uni-bonn.de/~nlanger/siu_web/nucsyn_papers/sn2007bi.pdf.gz)", 2009 Nature, 462(7273), 624-7. Nature Publishing Group. {{< altmetric doi="10.1038/nature08579" >}}

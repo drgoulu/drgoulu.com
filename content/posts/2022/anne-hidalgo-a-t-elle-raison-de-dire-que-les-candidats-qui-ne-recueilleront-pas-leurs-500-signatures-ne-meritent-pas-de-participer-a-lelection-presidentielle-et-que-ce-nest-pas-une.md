@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Votre système électoral est vraiment bizarre …
 
-On pourrait même arguer qu'il viole l'article 21.2 de [La Déclaration universelle des droits de l'homme](https://www.un.org/fr/universal-declaration-human-rights/) qui stipule :
+On pourrait même arguer qu'il viole l'article 21.2 de [La Déclaration universelle des droits de l'homme](https://web.archive.org/web/20220101142208/https://www.un.org/fr/universal-declaration-human-rights/) qui stipule :
 
 > Toute personne a droit à accéder, dans des conditions d'égalité, aux fonctions publiques de son pays.
 

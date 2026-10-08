@@ -13,7 +13,7 @@ coverImage: "./images/7389869-L.jpg"
 
 {{< figure src="./images/7389869-L.jpg" alt="La physique par les objets quotidiens" >}}
 
-Pour Noël, la [Boutique Science et Vie](http://www.laboutiquescienceetvie.com/) m'a gentiment offert un exemplaire du livre {{< openbook booknumber="ISBN:9782701145525" templatenumber="5" >}} ([et chez eux](http://www.laboutiquescienceetvie.com/la-physique-par-les-objets-du-quotidien.html))
+Pour Noël, la [Boutique Science et Vie](http://www.laboutiquescienceetvie.com/) m'a gentiment offert un exemplaire du livre {{< openbook booknumber="ISBN:9782701145525" templatenumber="5" >}} ([et chez eux](https://web.archive.org/web/20160103/http://www.laboutiquescienceetvie.com/la-physique-par-les-objets-du-quotidien.html))
 
 Les 16 chapitres décrivent les principes de fonctionnement d'autant d'objets du quotidien : les ampoules à incandescence, les ampoules à décharge et les tubes fluorescents, la montre à quartz, la télévision, le réfrigérateur, les détecteurs de fumée, le four à micro-ondes, les plaques électriques, le disque compact, les écrans à cristaux liquides, le disque dur, le photocopieur, le système GPS de positionnement par satellites, l'échographie médicale, le scanner à rayons x, le réacteur nucléaire.
 
@@ -27,6 +27,6 @@ Il me semble donc ce livre s'adresse principalement aux personnes ayant subi u
 
 Pour ma part j'y ai appris plusieurs choses intéressantes, notamment sur les détecteurs de fumée qui n'avaient pas trop éveillé ma curiosité jusqu'ici. Et j'ai aussi apprécié les multiples confirmations de ce que je vous dis assez souvent sur ce blog : entre une découverte fondamentale et son application commerciale il se passe beaucoup, beaucoup de temps. Par exemple la première horloge à quartz date de 1927 (et pas des années 50 comme je l'imaginais), alors que l'effet piézoélectrique était déjà connu depuis 50 ans...
 
-Outre le [Prix Roberval 2009](http://prixroberval.utc.fr/La_Physique_Par_Les_Objet_Quotidiens.html), "La physique par les objets quotidiens" obtient donc la mention "Lu et approuvé par Dr. Goulu". Cependant je vous conseillerais de vous renseigner sur une possible nouvelle édition avant de l'acheter car certains chapitres me semblent déjà un peu dépassés, comme celui de la télévision (à tube cathodique et transmission analogique) ou celui sur le disque compact, ou même le photocopieur, objets du quotidien de nos (grands-)parents...
+Outre le [Prix Roberval 2009](https://web.archive.org/web/20140718093121/http://prixroberval.utc.fr/La_Physique_Par_Les_Objet_Quotidiens.html), "La physique par les objets quotidiens" obtient donc la mention "Lu et approuvé par Dr. Goulu". Cependant je vous conseillerais de vous renseigner sur une possible nouvelle édition avant de l'acheter car certains chapitres me semblent déjà un peu dépassés, comme celui de la télévision (à tube cathodique et transmission analogique) ou celui sur le disque compact, ou même le photocopieur, objets du quotidien de nos (grands-)parents...
 
 Merci à Agathe de [Slapdigital](http://www.slapdigital.fr/) pour la copie presse!

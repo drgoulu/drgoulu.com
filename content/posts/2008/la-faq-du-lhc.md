@@ -29,9 +29,9 @@ Logiquement, le LHC aurait pu s'appeler LPC, pour "large proton collider" parce 
 
 ### D'où viennent les protons ?
 
-Le proton forme le noyau de l'atome le plus simple : l'hydrogène, qui est aussi de loin l'élément le plus abondant dans l'Univers. On en injecte un tout petit peu dans le "[Duoplasmatron Proton Ion Source](http://linac2.home.cern.ch/linac2/sources/source.htm)" dessiné ci-dessous par le "Gas feed". Dans la "plasma chamber", l'hydrogène est tellement chauffé par un arc électrique que les protons et les électrons qui leur tournent autour se séparent.
+Le proton forme le noyau de l'atome le plus simple : l'hydrogène, qui est aussi de loin l'élément le plus abondant dans l'Univers. On en injecte un tout petit peu dans le "[Duoplasmatron Proton Ion Source](https://web.archive.org/web/20080918001821/http://linac2.home.cern.ch/linac2/sources/source.htm)" dessiné ci-dessous par le "Gas feed". Dans la "plasma chamber", l'hydrogène est tellement chauffé par un arc électrique que les protons et les électrons qui leur tournent autour se séparent.
 
-{{< figure src="./images/Dplas.gif" alt="schéma du Duoplasmatron Proton Ion Source du CERN." caption="schéma du Duoplasmatron Proton Ion Source du CERN." link="http://linac2.home.cern.ch/linac2/sources/source.htm" align="aligncenter" width="640" >}}
+{{< figure src="./images/Dplas.gif" alt="schéma du Duoplasmatron Proton Ion Source du CERN." caption="schéma du Duoplasmatron Proton Ion Source du CERN." link="https://web.archive.org/web/20080918001821/http://linac2.home.cern.ch/linac2/sources/source.htm" align="aligncenter" width="640" >}}
 
 Au milieu de ce plasma se trouve la cathode et au bout du canal étroit, l'anode. Entre les deux on applique par impulsions une tension de 92'000 volts, ce qui accélère les protons en direction de la droite, et les électrons vers la gauche, où ils se font manger. Les électroaimants en vert servent à regrouper les protons le plus possible en un faisceau, mais ils arrivent par gros paquets à l'anode. L' "expansion cup" les dilue un petit peu, de sorte qu'à la sortie on a de beaux trains de protons.
 
@@ -47,7 +47,7 @@ Il y a 2808 paquets de protons qui tournent en même temps dans le LHC dans chaq
 
 {{< figure src="./images/884a940f5462dc8a8e5a7ef2b41fe0cf.png" alt="schéma des accélérateurs du CERN" caption="schéma des accélérateurs du CERN" width="241" >}}
 
-Quand un proton quitte sa source, il traverse un premier petit accélérateur linéaire, le "linac" qui l'accélère à 50 MeV en quelques microsecondes, et entre dans le "Proton Synchroton Booster" (PSB) qui l'accélère à 1.4 GeV en 530 millièmes de seconde. Puis il est injecté dans le "[Proton Synchroton](http://public.web.cern.ch/Public/en/Research/PS-en.html)" (PS), un accélérateur de 628m de circonférence datant de 1959. Là il est accéléré pendant environ 1 seconde. Il est déjà presque à la vitesse de la lumière, donc il parcourt 300'000 km pendant ce temps, soit près de 500'000 tours. Dans certains cas, le proton reste encore 1 seconde de plus avant d'être passé au SPS. Le "supersynchroton à protons" (SPS) est un accélérateur de 7 km de périmètre datant de 1976 ou les paquets de protons attendent entre 10.8 secondes et 0 secondes, ce qui permet de regrouper 4 paquets venant du PSB en un seul, prêt à passer dans le LHC. Jusqu'ici les protons ont passé entre 6 et 18 secondes environ dans l'antichambre de la bête.
+Quand un proton quitte sa source, il traverse un premier petit accélérateur linéaire, le "linac" qui l'accélère à 50 MeV en quelques microsecondes, et entre dans le "Proton Synchroton Booster" (PSB) qui l'accélère à 1.4 GeV en 530 millièmes de seconde. Puis il est injecté dans le "[Proton Synchroton](https://web.archive.org/web/20080912224425/http://public.web.cern.ch/Public/en/Research/PS-en.html)" (PS), un accélérateur de 628m de circonférence datant de 1959. Là il est accéléré pendant environ 1 seconde. Il est déjà presque à la vitesse de la lumière, donc il parcourt 300'000 km pendant ce temps, soit près de 500'000 tours. Dans certains cas, le proton reste encore 1 seconde de plus avant d'être passé au SPS. Le "supersynchroton à protons" (SPS) est un accélérateur de 7 km de périmètre datant de 1976 ou les paquets de protons attendent entre 10.8 secondes et 0 secondes, ce qui permet de regrouper 4 paquets venant du PSB en un seul, prêt à passer dans le LHC. Jusqu'ici les protons ont passé entre 6 et 18 secondes environ dans l'antichambre de la bête.
 
 Puis, les 2808 paquets de protons sont injectés un à un dans chaque sens du LHC pendant 20 minutes à une énergie de 450 GeV et quand ils se suivent bien gentiment à une distance de 7.5 mètres les uns des autres et que tout est stable, on met la gomme pendant 25 minutes pour atteindre les 7 TeV
 
@@ -81,7 +81,7 @@ L’énergie emmagasinée dans les aimants supraconducteurs pour faire tourner e
 
 D'abord, comme on le voit sur une figure précédente, les protons accélérés dans un seul sens dans le SPS sont transférés au LHC par deux chemins différents illustrés en rouge.
 
-Pour tourner en rond dans les deux sens, les faisceaux de protons doivent être courbés par 1232 [aimants "dipolaires"à supraconducteurs extrêmement puissants](http://lhc-machine-outreach.web.cern.ch/lhc-machine-outreach/components/magnets.htm) (8.3 Teslas, 11'850 Ampères, 35 tonnes / pièce ...), mais qui doivent générer des champs inverses pour les deux directions .
+Pour tourner en rond dans les deux sens, les faisceaux de protons doivent être courbés par 1232 [aimants "dipolaires"à supraconducteurs extrêmement puissants](https://web.archive.org/web/20080526123424/http://lhc-machine-outreach.web.cern.ch/lhc-machine-outreach/components/magnets.htm) (8.3 Teslas, 11'850 Ampères, 35 tonnes / pièce ...), mais qui doivent générer des champs inverses pour les deux directions .
 
 Comme on le voit sur la coupe ci-contre, il y a en réalité 2 bobines supraconductrices pour chaque sens de circulation, avec des pôles N et S inversés, ce qui crée des lignes de champ illustrées sur l'image suivante :
 
@@ -109,10 +109,10 @@ Posez-les dans les commentaires et on tentera d'y répondre.
 
 ### Références:
 
-1. <span id="ref-1"></span>C.E. Hill "[ION AND ELECTRON SOURCES](http://linac2.home.cern.ch/linac2/seminar/seminar.htm)" CERN, Geneva, Switzerland
-2. <span id="ref-2"></span>[LHC facts and figures](http://public.web.cern.ch/Public/en/LHC/Facts-en.html)
-3. <span id="ref-3"></span>[LHC machine outreach](http://lhc-machine-outreach.web.cern.ch/lhc-machine-outreach/lhc-machine-outreach-faq.htm)
+1. <span id="ref-1"></span>C.E. Hill "[ION AND ELECTRON SOURCES](https://web.archive.org/web/20080526063809/http://linac2.home.cern.ch/linac2/seminar/seminar.htm)" CERN, Geneva, Switzerland
+2. <span id="ref-2"></span>[LHC facts and figures](https://web.archive.org/web/20080913204931/http://public.web.cern.ch/Public/en/LHC/Facts-en.html)
+3. <span id="ref-3"></span>[LHC machine outreach](https://web.archive.org/web/20080913202424/http://lhc-machine-outreach.web.cern.ch/lhc-machine-outreach/lhc-machine-outreach-faq.htm)
 4. <span id="ref-4"></span>l'inévitable [Wikipedia](w:Large_Hadron_Collider)
 5. <span id="ref-5"></span>[aimants et accélérateurs](http://irfu.cea.fr/Phocea/Vie_des_labos/Ast/astimg.php?voir=1280&type=theme) au cea : plein d'illustrations intéressantes
-6. <span id="ref-6"></span>[Alice et le plomb](http://www.lhc-france.fr/?article7)
-7. <span id="ref-7"></span>[Alice au CERN](http://public.web.cern.ch/Public/fr/LHC/ALICE-fr.html) et aussi [ici en anglais](http://aliceinfo.cern.ch/Public/Welcome.html)
+6. <span id="ref-6"></span>[Alice et le plomb](https://web.archive.org/web/20080912194829/http://www.lhc-france.fr/?article7)
+7. <span id="ref-7"></span>[Alice au CERN](https://web.archive.org/web/20080912193713/http://public.web.cern.ch/Public/fr/LHC/ALICE-fr.html) et aussi [ici en anglais](https://web.archive.org/web/20080912202716/http://aliceinfo.cern.ch/Public/Welcome.html)

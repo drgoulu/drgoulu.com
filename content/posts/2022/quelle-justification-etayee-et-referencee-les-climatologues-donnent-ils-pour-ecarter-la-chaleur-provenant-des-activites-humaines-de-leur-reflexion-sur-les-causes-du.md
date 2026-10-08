@@ -15,7 +15,7 @@ outre la réponse détaillée de [Iznotsobad](https://fr.quora.com/profile/Iznot
 
 Sur la page
 
-[https://archive.ipcc.ch/publicat...](https://archive.ipcc.ch/publications_and_data/ar4/wg1/fr/spmsspm-5.html)
+[https://archive.ipcc.ch/publicat...](https://web.archive.org/web/20211015211220/https://archive.ipcc.ch/publications_and_data/ar4/wg1/fr/spmsspm-5.html)
 
 qui date de 2007, vous trouverez cette illustration qui synthétise les résultats de
 
@@ -39,7 +39,7 @@ Vous allez sur Google Scholar est vous cherchez le titre :
 
 vous cliquez sur "Full View" et vous arrivez là dessus :
 
-[https://agupubs.onlinelibrary.wi...](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2005GL023542)
+[https://agupubs.onlinelibrary.wi...](https://web.archive.org/web/20210525180014/https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2005GL023542)
 
 Si j'ai bien compris en 2 minutes, les auteurs japonais comparent les résultats de modèles climatiques en tenant compte ou pas d'une éruption volcanique (Pinatubo) pour évaluer leur sensibilité aux événements volcaniques et proposent une approche pour améliorer la sensibilité des modèles à ceci.
 

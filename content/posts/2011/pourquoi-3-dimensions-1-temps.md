@@ -12,7 +12,7 @@ tags:
 coverImage: "./images/d316477e77f2fd3a91b5e00c35f4b159.png"
 ---
 
-Dans "[Why are past, present, and future our only options?](https://gizmodo.com/why-are-past-present-and-future-our-only-options-5655307)", [Dave Goldberg](http://www.physics.drexel.edu/~goldberg/) traite de la "question bête" d'un lecteur de son livre[[1]](#ref-1) qui se demande à quoi ressemblerait l'univers si le temps avait plus d'une dimension, et plus généralement, si la vie serait imaginable dans un univers à N≠3 dimensions. Voici quelques idées qu'il y développe, additionnées des miennes sur ce sujet.
+Dans "[Why are past, present, and future our only options?](https://gizmodo.com/why-are-past-present-and-future-our-only-options-5655307)", [Dave Goldberg](https://web.archive.org/web/20101114220032/http://www.physics.drexel.edu/~goldberg/) traite de la "question bête" d'un lecteur de son livre[[1]](#ref-1) qui se demande à quoi ressemblerait l'univers si le temps avait plus d'une dimension, et plus généralement, si la vie serait imaginable dans un univers à N≠3 dimensions. Voici quelques idées qu'il y développe, additionnées des miennes sur ce sujet.
 
 La vie dans un espace à 2 dimensions (+1 temps)  a été imaginée dès 1884 dans "[Flatland](w:)" [[2]](#ref-2), une allégorie purement géométrique dont a été tiré [un film](http://www.flatlandthemovie.com/) en 2007 :
 

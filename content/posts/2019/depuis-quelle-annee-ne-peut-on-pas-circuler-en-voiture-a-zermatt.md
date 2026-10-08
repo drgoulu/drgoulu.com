@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Les véhicules à essence ont été interdites à Zermatt en 1931. Cette décision fut confirmée par le vote par les habitants, en 1972 puis de nouveau en 1986.
 
-[Voitures électriques | Zermatt, Suisse](https://www.zermatt.ch/fr/Media/Recits-sur-Zermatt/nh-elektromobile)
+[Voitures électriques | Zermatt, Suisse](https://web.archive.org/web/20190610000759/https://www.zermatt.ch/fr/Media/Recits-sur-Zermatt/nh-elektromobile)

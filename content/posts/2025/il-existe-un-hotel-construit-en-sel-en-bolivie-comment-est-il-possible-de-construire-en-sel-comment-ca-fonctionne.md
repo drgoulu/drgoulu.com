@@ -28,4 +28,4 @@ L'ennemi, c'est la pluie… en fait la coupole est recouverte de plastique sinon
 
 Notes de bas de page
 
-[[1]](#cite-ekVKr)[Primer hotel de sal del mundo | Hotel de Sal en Uyuni, Bolivia](https://palaciodesal.com.bo/fr/histoire/)
+[[1]](#cite-ekVKr)[Primer hotel de sal del mundo | Hotel de Sal en Uyuni, Bolivia](https://web.archive.org/web/20240715042503/https://palaciodesal.com.bo/fr/histoire/)

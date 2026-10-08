@@ -31,7 +31,7 @@ Avant de revenir sur ce dernier point, une spécialité suisse souvent méconnue
 
 #### Energies renouvelables
 
-On mesure souvent la production d'énergie solaire en KWh/an, ou en nombre de ménages : par exemple sur le [site des SIG](http://www.sig-ge.ch/corporate/innovations/nvelles_energ/sig_solar_3/production_en_direct/index.lbl), on lit que leur centrale solaire produit l'équivalent de la consommation de 140 familles. Ok, mais quand ? Comme on le voit sur la même page, la centrale produit de l'énergie quand il y a du soleil. Le jour. Pas le soir. Le soir, quand la consommation d'électricité est très élevée, le solaire ne produit rien. Et les éoliennes produisent quand il y a du vent. Si c'est à 4h du matin, quand la consommation est minimale et qu'on ne sait pas que faire de l'électricité, ça ne sert à rien.
+On mesure souvent la production d'énergie solaire en KWh/an, ou en nombre de ménages : par exemple sur le [site des SIG](https://web.archive.org/web/20070518005302/http://www.sig-ge.ch/corporate/innovations/nvelles_energ/sig_solar_3/production_en_direct/index.lbl), on lit que leur centrale solaire produit l'équivalent de la consommation de 140 familles. Ok, mais quand ? Comme on le voit sur la même page, la centrale produit de l'énergie quand il y a du soleil. Le jour. Pas le soir. Le soir, quand la consommation d'électricité est très élevée, le solaire ne produit rien. Et les éoliennes produisent quand il y a du vent. Si c'est à 4h du matin, quand la consommation est minimale et qu'on ne sait pas que faire de l'électricité, ça ne sert à rien.
 
 En résumé:
 

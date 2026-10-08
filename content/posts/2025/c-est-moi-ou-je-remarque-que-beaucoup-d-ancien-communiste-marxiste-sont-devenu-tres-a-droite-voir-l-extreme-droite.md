@@ -30,4 +30,4 @@ Notes de bas de page
 
 [[1]](#cite-rPIYK)[De LFI au RN : passer d'un extrême à l'autre, une vieille tradition française](https://www.contrepoints.org/2019/05/18/344598-de-lfi-au-rn-passer-dun-extreme-a-lautre-une-vieille-tradition-francaise)
 
-[[2]](#cite-UlcNK)[https://shs.cairn.info/la-france...](https://shs.cairn.info/la-france-d-en-bas-idees--9791031803739-page-65?lang=fr)
+[[2]](#cite-UlcNK)[https://shs.cairn.info/la-france...](https://web.archive.org/web/20250429/https://shs.cairn.info/la-france-d-en-bas-idees--9791031803739-page-65?lang=fr)

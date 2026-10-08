@@ -22,4 +22,4 @@ Chez les humains il existe des effets similaires comme l'[Effet Westermarck](w:)
 
 Des expériences ont montré que les jeunes femmes trouvent l'odeur de t-shirts portés par leurs frères ou père plus repoussante que celle d'inconnus.
 
-[Possible olfaction-based mechanisms in human kin recognition and inbreeding avoidance](https://www.sciencedirect.com/science/article/abs/pii/S0022096503000614)
+[Possible olfaction-based mechanisms in human kin recognition and inbreeding avoidance](https://web.archive.org/web/20201112002924/https://www.sciencedirect.com/science/article/abs/pii/S0022096503000614)

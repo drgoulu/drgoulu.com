@@ -18,6 +18,6 @@ coverImage: ./images/quora.png
 
 L'utilisation de [Bouclier humain](w:)est explicitement interdit depuis la [quatrième Convention de Genève](w:) du 12 août 1949.
 
-Mais la violation de cet article par une partie ne diminue en aucun cas le devoir de l'autre partie de respecter la [**Convention de Genève relative à la protection des personnes civiles**](https://www.ohchr.org/fr/instruments-mechanisms/instruments/geneva-convention-relative-protection-civilian-persons-time-war)**.**
+Mais la violation de cet article par une partie ne diminue en aucun cas le devoir de l'autre partie de respecter la [**Convention de Genève relative à la protection des personnes civiles**](https://web.archive.org/web/20240527133033/https://www.ohchr.org/fr/instruments-mechanisms/instruments/geneva-convention-relative-protection-civilian-persons-time-war)**.**
 
 L'article [Utilisation de boucliers humains par le Hamas — Wikipédia](w:Utilisation_de_boucliers_humains_par_le_Hamas) me semble "équilibré".

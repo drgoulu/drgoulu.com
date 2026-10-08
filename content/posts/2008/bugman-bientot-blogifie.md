@@ -17,7 +17,7 @@ tags:
 coverImage: "./images/4a7e5de90322ed8a65ac27fcc50928fa.gif"
 ---
 
-Depuis longtemps je suis un fan du [site de Paul "Bugman" Nylander](http://bugman123.com), un incroyable ramassis de choses épatantes sur des sujets comme la physique, les maths, les fractales et les papillons, le tout illustré par de magnifiques images et animations faites avec [Mathematica](http://www.wolfram.com/) et [POV-Ray](http://www.povray.org/) principalement.
+Depuis longtemps je suis un fan du [site de Paul "Bugman" Nylander](http://bugman123.com), un incroyable ramassis de choses épatantes sur des sujets comme la physique, les maths, les fractales et les papillons, le tout illustré par de magnifiques images et animations faites avec [Mathematica](http://www.wolfram.com/) et [POV-Ray](https://web.archive.org/web/20080110151907/http://www.povray.org/) principalement.
 
 Le seul problème est que ce site était devenu affreusement lourd, à la fois graphiquement et par la taille des énormes pages sur lesquelles on frisait l'indigestion à la première visite et on ne retrouvait plus rien à la seconde...
 

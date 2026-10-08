@@ -17,9 +17,9 @@ coverImage: "./images/118d818f731430ad23daa762c4091aed.jpg"
 
 {{< figure src="./images/118d818f731430ad23daa762c4091aed.jpg" alt="Rapport suisse sur l'homéopathie" caption="Jetez ce livre dans une piscine et buvez un verre de son eau : selon le principe de similitude, ça devrait vous soigner de l'inconduite scientifique..." link="./images/Homeopathy-in-Healthcare-Bornhoft-Gudrun-9783642206375.jpg" width="194" >}}
 
-Sous des titres comme "[Le rapport sur l'homéopathie très critiqué](http://www.24heures.ch/suisse/rapport-homeopathie-tres-critique/story/17010597)", la presse suisse a récemment mentionné un [article de David Martin Shaw publié fin mai dans la Swiss Medical Weekly](https://smw.ch/article/doi/smw.2012.13594) dans lequel il démonte point par point le rapport [[1]](#ref-1) qui a servi de justification au remboursement de l'homéopathie par l'assurances maladie obligatoire en Suisse.
+Sous des titres comme "[Le rapport sur l'homéopathie très critiqué](http://www.24heures.ch/suisse/rapport-homeopathie-tres-critique/story/17010597)", la presse suisse a récemment mentionné un [article de David Martin Shaw publié fin mai dans la Swiss Medical Weekly](https://web.archive.org/web/20170627164727/https://smw.ch/article/doi/smw.2012.13594) dans lequel il démonte point par point le rapport [[1]](#ref-1) qui a servi de justification au remboursement de l'homéopathie par l'assurances maladie obligatoire en Suisse.
 
-En tant que citoyen suisse, je suis effaré que mon gouvernement apporte sa caution à un rapport clairement partial voire frauduleux et réintroduise l'homéopathie avec un alibi pseudo-scientifique. Les [explications du Conseil fédéral sur la Votation populaire du 17 mai 2009](https://www.bk.admin.ch/dam/bk/fr/dokumente/Abstimmungsbuechlein/erlaeuterungen_desbundesrates17052009.pdf.download.pdf/explications_du_conseilfederal17052009.pdf) stipulaient clairement page 9 sous "Prise en compte des médecines complémentaires dans l’assurance de base":
+En tant que citoyen suisse, je suis effaré que mon gouvernement apporte sa caution à un rapport clairement partial voire frauduleux et réintroduise l'homéopathie avec un alibi pseudo-scientifique. Les [explications du Conseil fédéral sur la Votation populaire du 17 mai 2009](https://web.archive.org/web/20190919001043/https://www.bk.admin.ch/dam/bk/fr/dokumente/Abstimmungsbuechlein/erlaeuterungen_desbundesrates17052009.pdf.download.pdf/explications_du_conseilfederal17052009.pdf) stipulaient clairement page 9 sous "Prise en compte des médecines complémentaires dans l’assurance de base":
 
 > "Une large majorité (de parlementaires) s’est accordée sur la nécessité de soumettre les prestations de médecines complémentaires aux critères de l’efficacité, de l’adéquation et de l’économicité"
 
@@ -102,14 +102,14 @@ Correspondance: David M. Shaw, PhD, MSc, MA, MML, PGCE, Institut d'éthique biom
 ### References
 
 1. <span id="ref-1"></span>Gudrun Bornhöft and Peter Matthiessen (eds.) Homeopathy in healthcare: effectiveness, appropriateness, safety, costs. Springer, 2012.
-2. <span id="ref-2"></span>NHS National Institute of Health. [Health Technology Assessment programme](http://www.hta.ac.uk/).
+2. <span id="ref-2"></span>NHS National Institute of Health. [Health Technology Assessment programme](https://web.archive.org/web/20120719121838/http://www.hta.ac.uk/).
 3. <span id="ref-3"></span>Ben Goldacre. Benefits and risks of homeopathy. The Lancet. 2007;370:1672–3.
 4. <span id="ref-4"></span>David Shaw. Homeopathy is where the harm is. Five unethical effects of funding unscientific remedies. J Med Ethics. 2010;36(3):130–1.
-5. <span id="ref-5"></span>Académies suisses des sciences : [L’intégrité dans la recherche scientifique - Principes de base et procédures](http://www.swiss-academies.ch/dms/F/Publications/Directives_Recommandations/Integritaet/Directive.pdf)
+5. <span id="ref-5"></span>Académies suisses des sciences : [L’intégrité dans la recherche scientifique - Principes de base et procédures](https://web.archive.org/web/20210305100235/http://www.swiss-academies.ch/dms/F/Publications/Directives_Recommandations/Integritaet/Directive.pdf)
 6. <span id="ref-6"></span>Edzard Ernst. Written submission. In: House of Commons Science and Technology Committee (see reference 8), p.88 (Evidence 28).
-7. <span id="ref-7"></span>[Swissinfo. Swiss make New Year’s regulations](http://www.swissinfo.ch/eng/swiss_news/Swiss_make_New_Years_regulations.html?cid=31867422)
-8. <span id="ref-8"></span>[House of Commons Science and Technology Committee. Evidence check 2: Homeopathy](http://www.publications.parliament.uk/pa/cm200910/cmselect/cmsctech/45/45.pdf). 2009.
-9. <span id="ref-9"></span>Dana Ullman. [The Swiss government’s remarkable report on homeopathic medicine](http://www.huffingtonpost.com/dana-ullman/homeopathic-medicine-_b_1258607.html). The Huffington Post.
+7. <span id="ref-7"></span>[Swissinfo. Swiss make New Year’s regulations](https://web.archive.org/web/20120403201021/http://www.swissinfo.ch/eng/swiss_news/Swiss_make_New_Years_regulations.html?cid=31867422)
+8. <span id="ref-8"></span>[House of Commons Science and Technology Committee. Evidence check 2: Homeopathy](https://web.archive.org/web/20120726095405/http://www.publications.parliament.uk/pa/cm200910/cmselect/cmsctech/45/45.pdf). 2009.
+9. <span id="ref-9"></span>Dana Ullman. [The Swiss government’s remarkable report on homeopathic medicine](https://web.archive.org/web/20120615233139/http://www.huffingtonpost.com/dana-ullman/homeopathic-medicine-_b_1258607.html). The Huffington Post.
 
 ### Note du traducteur:
 

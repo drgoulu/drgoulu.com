@@ -20,7 +20,7 @@ La vitesse de la lumière prédite par les [Équations de Maxwell](w:) est l'inv
 
 $c = \frac{1}{\sqrt{\varepsilon_0 \ \mu_0}}$
 
-[1/sqrt(epsilon0*mu0) - Wolfram|Alpha](https://www.wolframalpha.com/input/?i=1/sqrt(epsilon0*mu0))
+[1/sqrt(epsilon0*mu0) - Wolfram|Alpha](https://web.archive.org/web/20201108/https://www.wolframalpha.com/input/?i=1/sqrt(epsilon0*mu0))
 
 La démonstration n'est pas triviale (= je ne saurais plus la faire, mais je sais la retrouver…) :
 

@@ -34,4 +34,4 @@ Notes de bas de page
 
 [[1]](#cite-HbKtR)[Les océans pourraient bientôt connaître une extinction massive de leur biodiversité](https://www.notre-planete.info/actualites/4187-extinction-massive-oceans)
 
-[[2]](#cite-Cmpax)[Le microbe qui a failli éradiquer toute vie sur Terre](http://blog.science-infuse.fr/post/Le-microbe-qui-a-failli-eradiquer-toute-vie-sur-Terre)
+[[2]](#cite-Cmpax)[Le microbe qui a failli éradiquer toute vie sur Terre](https://web.archive.org/web/20190129001733/http://blog.science-infuse.fr/post/Le-microbe-qui-a-failli-eradiquer-toute-vie-sur-Terre)

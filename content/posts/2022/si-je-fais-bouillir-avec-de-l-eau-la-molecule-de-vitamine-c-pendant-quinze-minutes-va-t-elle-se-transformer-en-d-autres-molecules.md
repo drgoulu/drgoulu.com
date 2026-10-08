@@ -15,4 +15,4 @@ Oui, l acide ascorbique se dégrade à partir de 60 degrés. D'après cet articl
 
 Notes de bas de page
 
-[[1]](#cite-RidsJ)[https://pubs.acs.org/doi/10.1021...](https://pubs.acs.org/doi/10.1021/jf9805404#)
+[[1]](#cite-RidsJ)[https://pubs.acs.org/doi/10.1021...](https://web.archive.org/web/20231210074858/https://pubs.acs.org/doi/10.1021/jf9805404#)

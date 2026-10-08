@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Pour faire progresser la science
 
-[L'étrange cas du canard homosexuel nécrophile](https://www.lemonde.fr/sciences/article/2012/07/05/l-etrange-cas-du-canard-homosexuel-necrophile_1729741_1650684.html)
+[L'étrange cas du canard homosexuel nécrophile](https://web.archive.org/web/20200415072247/https://www.lemonde.fr/sciences/article/2012/07/05/l-etrange-cas-du-canard-homosexuel-necrophile_1729741_1650684.html)

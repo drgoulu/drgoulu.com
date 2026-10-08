@@ -24,8 +24,8 @@ D'autant que le thermomètre isotopique peut aussi être utilisé localement sur
 
 Sur de telles durées, il faut tenir compte de la dérive des continents car le déplacement en latitude et la modification des courants océaniques causent des variations non négligeables.
 
-[https://planet-terre.ens-lyon.fr...](https://planet-terre.ens-lyon.fr/ressource/variations-climatiques-bases.xml)
+[https://planet-terre.ens-lyon.fr...](https://web.archive.org/web/20221125150249/https://planet-terre.ens-lyon.fr/ressource/variations-climatiques-bases.xml)
 
 Notes de bas de page
 
-[[1]](#cite-oljcj)[Lien entre le δ18O des glaces et la température atmosphérique](https://planet-terre.ens-lyon.fr/ressource/temperature-des-glaces.xml)
+[[1]](#cite-oljcj)[Lien entre le δ18O des glaces et la température atmosphérique](https://web.archive.org/web/20221129185329/https://planet-terre.ens-lyon.fr/ressource/temperature-des-glaces.xml)

@@ -20,6 +20,6 @@ Faire une dette pour éponger une autre dette, vous avez tout compris, vous…
 
 Mais si votre épargne est à un niveau si élevé que vous voulez prêter à votre état, vous passez à votre banque et vous leur dites de vous prendre des BTF ou des OAT, toutes les infos sont là :
 
-[https://www.aft.gouv.fr/fr](https://www.aft.gouv.fr/fr)
+[https://www.aft.gouv.fr/fr](https://web.archive.org/web/20250718113157/https://www.aft.gouv.fr/fr)
 
 Ça vous permettra de tester votre banque : s'ils vous disent "volontiers, c'est une excellente idée", changez de banque pour une qui vous dira "nous pouvons vous proposer des dizaines d'autres placementd beaucoup plus intéressants"…

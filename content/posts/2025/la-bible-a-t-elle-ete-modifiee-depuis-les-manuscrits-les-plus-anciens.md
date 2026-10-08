@@ -20,7 +20,7 @@ Tout le temps, par plein d'interprétations et de traductions de traductions d'i
 
 Regardez par exemple ce site qui donne des dizaines de versions de chaque phrase :
 
-[http://djep.hd.free.fr/LaReferen...](http://djep.hd.free.fr/LaReferenceBiblique/?Livre=19&Vers=1&Chap=23)
+[http://djep.hd.free.fr/LaReferen...](https://web.archive.org/web/20200204114730/http://djep.hd.free.fr/LaReferenceBiblique/?Livre=19&Vers=1&Chap=23)
 
 Et sur ce site vous en trouvez [Plus de 3438 versions dans 2243 langues](https://www.bible.com/fr/versions)
 

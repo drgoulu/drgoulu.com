@@ -15,4 +15,4 @@ La factorielle n'est définie que pour les entiers. Pour les réels on utilise l
 
 $\Gamma(1.5)=\sqrt{\pi}/2$
 
-[https://www.wolframalpha.com/inp...](https://www.wolframalpha.com/input?i=Gamma(1.5))
+[https://www.wolframalpha.com/inp...](https://web.archive.org/web/20241027/https://www.wolframalpha.com/input?i=Gamma(1.5))

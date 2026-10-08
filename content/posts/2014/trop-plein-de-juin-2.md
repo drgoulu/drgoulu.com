@@ -45,7 +45,7 @@ J'ai tout de même essayé Python sur l'exemple de David, avec un résultat faux
 
 mais ensuite elle n'arrive pas à calculer le sinus de ça \*pi.
 
-Le seul outil que j'utilise (pas assez apparemment) qui m'ait donné la "bonne" valeur est [Wolfram Alpha](http://www.wolframalpha.com/input/?i=sin%28%28sqrt%282%29%2B1%29%5E200*pi%29) (donc Mathematica doit probablement s'en sortir aussi):
+Le seul outil que j'utilise (pas assez apparemment) qui m'ait donné la "bonne" valeur est [Wolfram Alpha](https://web.archive.org/web/20140708154608/http://www.wolframalpha.com/input/?i=sin%28%28sqrt%282%29%2B1%29%5E200*pi%29) (donc Mathematica doit probablement s'en sortir aussi):
 
 [![2014-06-29\_225820](./images/2014-06-29_225820.png)](./images/2014-06-29_225820.png)
 
@@ -53,7 +53,7 @@ Le seul outil que j'utilise (pas assez apparemment) qui m'ait donné la "bonne" 
 
 Sinon j'ai vu un reportage extraordinaire sur les requins-baleines et j'avais commencé un article en traduisant le communiqué de presse ci-dessous:
 
-En 2006, les [Rolex Awards](http://www.rolexawards.com/) ont [récompensé Brad Norman](http://www.rolexawards.com/profiles/laureates/brad_norman), un scientifique australien spécialiste de la conservation marine, des [requins baleines](w:requin_baleine) en particulier. Dès 2004, il créé un système d'identification de  ces géants des mers par les photos prises par les habitants des côtes, les plongeurs, et les touristes assez chanceux pour les croiser.
+En 2006, les [Rolex Awards](https://web.archive.org/web/20140625122451/http://www.rolexawards.com/) ont [récompensé Brad Norman](https://web.archive.org/web/20140707082609/http://www.rolexawards.com/profiles/laureates/brad_norman), un scientifique australien spécialiste de la conservation marine, des [requins baleines](w:requin_baleine) en particulier. Dès 2004, il créé un système d'identification de  ces géants des mers par les photos prises par les habitants des côtes, les plongeurs, et les touristes assez chanceux pour les croiser.
 
 [![](./images/84681bceb625f1a001980c7430cfbf1f.jpg)](http://blog.rolexawards.com/2014/02/whale-shark-research-speeds-up-with-citizen-scientists-2/)
 
@@ -65,4 +65,4 @@ Tout le monde est encouragé à prendre des photos des requins-baleines dans l'o
 
 L’équipe de chercheurs a décidé de renforcer cette stratégie en mettant au point une application smartphone. Cette appli, qui devrait être lancée courant 2014, permettra de prendre une photo sous-marine d'un requin baleine puis de la télécharger directement sur le site du projet.
 
-source : [blog Rolex Awards](http://blog.rolexawards.com/2014/02/whale-shark-research-speeds-up-with-citizen-scientists-2/)
+source : [blog Rolex Awards](https://web.archive.org/web/20140709073731/http://blog.rolexawards.com/2014/02/whale-shark-research-speeds-up-with-citizen-scientists-2/)

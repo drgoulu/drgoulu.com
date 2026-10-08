@@ -22,7 +22,7 @@ Il y a des régions (comme le Mexique dans la carte ci-dessous) qui auront moins
 
 ![](./images/qimg-290c22e8d3c75827be2121652c8575aa.gif)
 
-( source : [Global warming - impact of climate change on global agriculture](https://www.extension.iastate.edu/agdm/articles/others/TakOct08.html) )
+( source : [Global warming - impact of climate change on global agriculture](https://web.archive.org/web/20201028195049/https://www.extension.iastate.edu/agdm/articles/others/TakOct08.html) )
 
 On ne peut pas attribuer une sécheresse ou une inondation particulière au réchauffement, seulement leur augmentation statistique sur une longue durée.
 

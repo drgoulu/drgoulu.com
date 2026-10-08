@@ -15,4 +15,4 @@ Une petite sphère bleue tremblotante .
 
 {{< youtube "9zdD7lfB0Fs" >}}
 
-La raison de la couleur bleue est intéressante, voir [Pourquoi la flamme d’une bougie est-elle bleue et ronde en apesanteur ? | Questions de couleurs](http://www.scilogs.fr/questions-de-couleurs/pourquoi-la-flamme-dune-bougie-est-elle-bleue-et-ronde-en-apesanteur/)
+La raison de la couleur bleue est intéressante, voir [Pourquoi la flamme d’une bougie est-elle bleue et ronde en apesanteur ? | Questions de couleurs](https://web.archive.org/web/20200812235717/http://www.scilogs.fr/questions-de-couleurs/pourquoi-la-flamme-dune-bougie-est-elle-bleue-et-ronde-en-apesanteur/)

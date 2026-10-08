@@ -20,7 +20,7 @@ Une personne qui a commis un crime quel qu'il soit ne peut pas être réhabilit�
 
 > **réhabilitation :**Mesure individuelle, judiciaire ou légale, qui efface une condamnation pénale et ses conséquences (déchéance, incapacités, etc.). ([Larousse](https://www.larousse.fr/dictionnaires/francais/réhabilitation/67723))
 
-La réhabilitation, c'est pour quelqu'un qui a été condamné à tort, par exemple la [Réhabilitation du capitaine Dreyfus](https://www.gouvernement.fr/partage/9307-rehabilitation-du-capitaine-dreyfus) .
+La réhabilitation, c'est pour quelqu'un qui a été condamné à tort, par exemple la [Réhabilitation du capitaine Dreyfus](https://web.archive.org/web/20220505174341/https://www.gouvernement.fr/partage/9307-rehabilitation-du-capitaine-dreyfus) .
 
 Sinon, la notion de "crime monstrueux" varie avec le temps et l'endroit. L'[Infanticide](w:)était courant dans de nombreuses sociétés "primitives" comme moyen de régulation des naissances…
 

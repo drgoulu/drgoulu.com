@@ -24,4 +24,4 @@ L’énergie nucléaire produit actuellement 10.3% de l’électricité mondiale
 
 L’énergie nucléaire a été abandonnée dans certains pays pour des raisons politiques, mais je fais le pari que pour des raisons de lutte contre le CO2, de sécurité d’approvisionnement et d’occupation des surface, elle continuera a représenter une part importante de l’électricité mondiale.
 
-source : [L’énergie nucléaire dans le monde](https://www.forumnucleaire.be/theme/dans-le-monde/lenergie-nucleaire-dans-le-monde)
+source : [L’énergie nucléaire dans le monde](https://web.archive.org/web/20190331231248/https://www.forumnucleaire.be/theme/dans-le-monde/lenergie-nucleaire-dans-le-monde)

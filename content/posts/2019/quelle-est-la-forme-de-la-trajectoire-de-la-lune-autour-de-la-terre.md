@@ -15,4 +15,4 @@ L’[Orbite de la Lune](w:) est assez compliquée dans le détail, mais en premi
 
 ![](./images/qimg-9a2e5f14fc0035a63ac9aa5ff494f386.gif)
 
-source : [Orbite de la Lune](http://philippe.boeuf.pagesperso-orange.fr/robert/astronomie/lune-orbite.htm)
+source : [Orbite de la Lune](https://web.archive.org/web/20190314085657/http://philippe.boeuf.pagesperso-orange.fr/robert/astronomie/lune-orbite.htm)

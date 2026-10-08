@@ -65,5 +65,5 @@ L'idée selon laquelle le Big Bang a eu lieu à un "instant" précis est le rés
 
 1. ["seconde" sur Wikipedia](<w:Seconde_(temps)>)
 2. ["Big Bang" sur Wikipedia](w:Big_Bang)
-3. Etienne Klein, "[Le temps de la physique](http://basarab.nicolescu.perso.sfr.fr/ciret/bulletin/b12/b12c5.htm)", dans {{< openbook booknumber="ISBN:9782226096111" templatenumber="5" >}}
+3. Etienne Klein, "[Le temps de la physique](https://web.archive.org/web/20100123032354/http://basarab.nicolescu.perso.sfr.fr/ciret/bulletin/b12/b12c5.htm)", dans {{< openbook booknumber="ISBN:9782226096111" templatenumber="5" >}}
 4. "[The Observable Universe](http://universe-review.ca/F02-cosmicbg.htm)"

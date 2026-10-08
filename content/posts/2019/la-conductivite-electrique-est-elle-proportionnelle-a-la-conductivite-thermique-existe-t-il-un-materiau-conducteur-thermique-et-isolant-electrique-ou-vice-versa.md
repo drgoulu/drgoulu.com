@@ -26,4 +26,4 @@ Le mica est aussi un isolant électrique avec une conductivité thermique assez 
 
 Des matériaux conduisant l'électricité mais pas la chaleur sont apparus il y a une dizaine d'années, sous la forme de nanostructures de silicium.
 
-Voir [Des isolants très conducteurs - Matériaux](https://www.usinenouvelle.com/article/des-isolants-tres-conducteurs.N140705)
+Voir [Des isolants très conducteurs - Matériaux](https://web.archive.org/web/20200626222222/https://www.usinenouvelle.com/article/des-isolants-tres-conducteurs.N140705)

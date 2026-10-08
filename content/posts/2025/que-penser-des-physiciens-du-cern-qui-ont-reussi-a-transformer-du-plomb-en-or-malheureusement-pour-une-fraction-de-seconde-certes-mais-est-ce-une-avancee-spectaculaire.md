@@ -18,7 +18,7 @@ coverImage: ./images/qimg-b8f34c4ac00eaf3397eacdfcaaaf104b.jpg
 
 C'est très difficile, voir [Comment transformer le plomb en or ? - Pourquoi Comment Combien](/2013/03/15/comment-transformer-le-plomb-en-or/)
 
-Selon la page du CERN [ALICE détecte la transformation de plomb en or au LHC](https://www.home.cern/fr/news/news/physics/alice-detects-conversion-lead-gold-lhc), ce n'est pas vraiment volontaire, c'est plutôt qu'ils ont maintenant la capacité de détecter la formation de noyaux lors de collisions plomb+plomb.
+Selon la page du CERN [ALICE détecte la transformation de plomb en or au LHC](https://web.archive.org/web/20250513103357/https://www.home.cern/fr/news/news/physics/alice-detects-conversion-lead-gold-lhc), ce n'est pas vraiment volontaire, c'est plutôt qu'ils ont maintenant la capacité de détecter la formation de noyaux lors de collisions plomb+plomb.
 
 Et ça produit plein d'isotopes principalement radioactifs, surtout du thalium, du mercure, un peu d'or, encore moins de platine etc. selon la distribution suivante illustrant leur article[[1]](#lOZbM) .
 
@@ -30,4 +30,4 @@ Non, ce n'est pas une "avancée spectaculaire" en physique, mais plutôt en tech
 
 Notes de bas de page
 
-[[1]](#cite-lOZbM)[https://link.aps.org/doi/10.1103...](https://link.aps.org/doi/10.1103/PhysRevC.111.054906)
+[[1]](#cite-lOZbM)[https://link.aps.org/doi/10.1103...](https://web.archive.org/web/20250513041053/https://link.aps.org/doi/10.1103/PhysRevC.111.054906)

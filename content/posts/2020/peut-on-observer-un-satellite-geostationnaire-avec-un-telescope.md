@@ -22,7 +22,7 @@ C'est exactement le [Pouvoir de résolution du télescope Hubble](w:Pouvoir_de_r
 
 Apparemment certains amateurs ont cependant réussi à en "observer" :
 
-- [https://www.defense.gouv.fr/actu...](https://www.defense.gouv.fr/actualites/economie-et-technologie/premiere-observation-d-un-satellite-geostationnaire-par-un-aviateur)
+- [https://www.defense.gouv.fr/actu...](https://web.archive.org/web/20200922060756/https://www.defense.gouv.fr/actualites/economie-et-technologie/premiere-observation-d-un-satellite-geostationnaire-par-un-aviateur)
 - [https://noirlab.edu/public/news/...](https://noirlab.edu/public/news/noao0106/) a même utilisé un "simple" appareil photo avec une très longue pose (5 à 6h) où on voit de petites taches blanches correspondant aux mouvements des satellites sur leurs orbites, qui n'est pas si précise que ça:
 
 ![](./images/qimg-d0656b9a96890044e84e1beff55e662a.jpg)
@@ -31,4 +31,4 @@ Apparemment certains amateurs ont cependant réussi à en "observer" :
 
 [https://vimeo.com/39536582](https://vimeo.com/39536582)
 
-[Geostationary satellites in the Swiss Alps from Michael Kunze on Vimeo](https://player.vimeo.com/video/39536582)
+[Geostationary satellites in the Swiss Alps from Michael Kunze on Vimeo](https://web.archive.org/web/20210227114734/https://player.vimeo.com/video/39536582)

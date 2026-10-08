@@ -10,7 +10,7 @@ tags:
   - "statistiques"
 ---
 
-En cherchant des précédents à la grande catastrophe du tsunami de l’océan indien, je suis tombé sur une [liste intéressante](http://www.imminst.org/freitas.html).
+En cherchant des précédents à la grande catastrophe du tsunami de l’océan indien, je suis tombé sur une [liste intéressante](https://web.archive.org/web/20041204012652/http://www.imminst.org/freitas.html).
 
 Voici les [événements naturels](w:en:List_of_natural_disasters_by_death_toll) répertoriés ayant causé plus de 100’000 victimes :
 

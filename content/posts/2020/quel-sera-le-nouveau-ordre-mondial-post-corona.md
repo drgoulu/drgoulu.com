@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Une grosse perte culturelle : on boira de la bière belge avec les tacos…
 
-[Corona Beer to Halt Production Amid Coronavirus Outbreak](https://www.nytimes.com/2020/04/03/business/coronavirus-corona-beer.html)
+[Corona Beer to Halt Production Amid Coronavirus Outbreak](https://web.archive.org/web/20200415044641/https://www.nytimes.com/2020/04/03/business/coronavirus-corona-beer.html)

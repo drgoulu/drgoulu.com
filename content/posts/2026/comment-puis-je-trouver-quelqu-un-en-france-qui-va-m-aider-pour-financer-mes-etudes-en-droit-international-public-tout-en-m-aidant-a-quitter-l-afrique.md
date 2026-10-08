@@ -28,10 +28,10 @@ Demandez à une IA :
 >
 > - **Bourses de l'Académie de droit international de La Haye :** Offre des bourses pour les cours d'été et d'hiver aux jeunes juristes et diplomates africains.The Hague Academy of International Law
 > - **Bourses de la Commission économique pour l'Afrique (CEA) :** Destinées aux jeunes Africains de moins de 35 ans, titulaires d'une maîtrise ou diplôme supérieur.United Nations Economic Commission for Africa
-> - **Bourse de la Faculté de droit pour les étudiants noirs (Université d'Ottawa) :** Ouverte aux étudiants [http://africains.Concoursn.com](http://africains.Concoursn.com)
+> - **Bourse de la Faculté de droit pour les étudiants noirs (Université d'Ottawa) :** Ouverte aux étudiants [http://africains.Concoursn.com](https://web.archive.org/web/20260423/http://africains.Concoursn.com)
 > - **Programme de bourses de perfectionnement en droit international (ONU) :** Destiné aux pays en développement.United Nations International Law Fellowship Programme
 > - **Bourses du Trapca (Tanzanie/Suède) :** Finance des masters en politique commerciale et droit international, idéal pour les professionnels.
-> - **Bourses du DAAD (Allemagne) :** Allocation mensuelle pour master (environ 934 €) ou doctorat (1300 €), couvrant les frais de vie et de [voyage.YouTube](http://voyage.YouTube)
+> - **Bourses du DAAD (Allemagne) :** Allocation mensuelle pour master (environ 934 €) ou doctorat (1300 €), couvrant les frais de vie et de [voyage.YouTube](https://web.archive.org/web/20260423/http://voyage.YouTube)
 > - **Bourse Wafidin (IDAI - Le Caire) :** Bourse totale ou partielle pour les étudiants du continent africain.Université Paris 1 Panthéon-Sorbonne
 > - **Bourses de l'ICCR (Inde) :** Bourses complètes (frais d'études, logement, billet d'avion).
 

@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 On ne sait pas encore exactement, mais selon une étude de 2015, les fœtus de filles seraient légèrement plus fragiles et donneraient lieu à un peu plus d'avortements spontanés.
 
-[https://www.pnas.org/content/112...](https://www.pnas.org/content/112/16/E2102)
+[https://www.pnas.org/content/112...](https://web.archive.org/web/20210515031816/https://www.pnas.org/content/112/16/E2102)
 
 Intéressant l'article
 

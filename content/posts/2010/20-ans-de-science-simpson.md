@@ -18,11 +18,11 @@ aliases:
   - "/2010/03/08/20-ans-de-science-simpson/"
 ---
 
-Pour les 20 ans des [Simpson](w:Les_Simpson) , [Marge pose dans Playboy](http://www.freshnessmag.com/2009/10/20/playboy-magazine-marge-simpson-issue-detailed-images/) alors que le sexe n'est qu'un thème très secondaire dans la meilleure série animée du monde. Par contre la science y est très présente, ce qui justifie amplement un article sur Dr. Goulu, en plus des livres existant déjà sur le sujet \[1,2,3\]
+Pour les 20 ans des [Simpson](w:Les_Simpson) , [Marge pose dans Playboy](https://web.archive.org/web/20100303044153/http://www.freshnessmag.com/2009/10/20/playboy-magazine-marge-simpson-issue-detailed-images/) alors que le sexe n'est qu'un thème très secondaire dans la meilleure série animée du monde. Par contre la science y est très présente, ce qui justifie amplement un article sur Dr. Goulu, en plus des livres existant déjà sur le sujet \[1,2,3\]
 
 ### Maths
 
-Il faut dire que [beaucoup d'auteurs d'épisodes ont des formations scientifiques](http://mathsci2.appstate.edu/~sjg/simpsonsmath/degrees.html), comme [David X. Cohen](w:) diplômé en physique de Harvard et en informatique de Berkeley \[5\].  C'est à lui qu'on doit l'égalité 1782¹² + 1841¹² = 1922¹² devant laquelle Homer passe sans sourciller en entrant dans la 3ème dimension (séquence "Homer³" de l'épisode S07E06)
+Il faut dire que [beaucoup d'auteurs d'épisodes ont des formations scientifiques](https://web.archive.org/web/20110719135306/http://mathsci2.appstate.edu/~sjg/simpsonsmath/degrees.html), comme [David X. Cohen](w:) diplômé en physique de Harvard et en informatique de Berkeley \[5\].  C'est à lui qu'on doit l'égalité 1782¹² + 1841¹² = 1922¹² devant laquelle Homer passe sans sourciller en entrant dans la 3ème dimension (séquence "Homer³" de l'épisode S07E06)
 
 ![](./images/ed01255774ecaa1f2fca34ada814f160.gif)
 
@@ -30,9 +30,9 @@ Mais vous qui savez que le [dernier théorème de Fermat](w:dernier_théorème
 
 ### Médecins, inventeur et vrais scientifiques
 
-Les thèmes liés à la santé sont abondamment traités dans les Simpsons :  les médicaments et leurs effets secondaires, la fécondation assistée , la transplantation d'organes, l'obésité, les dépendances diverses, les épidémies, les OGM et toutes les problématiques possibles liées à l'alimentation. Les deux médecins de Springfield sont le [Dr. Hibbert](http://www.simpsonspark.com/personnages/serie_perso_hibbert.php), qui abuse largement des assurances de santé, et [Nick Riviera](http://www.simpsonspark.com/personnages/serie_perso_hibbert.php), un authentique charlatan qui vit des habitants qui en sont dépourvus.
+Les thèmes liés à la santé sont abondamment traités dans les Simpsons :  les médicaments et leurs effets secondaires, la fécondation assistée , la transplantation d'organes, l'obésité, les dépendances diverses, les épidémies, les OGM et toutes les problématiques possibles liées à l'alimentation. Les deux médecins de Springfield sont le [Dr. Hibbert](https://web.archive.org/web/20100113094935/http://www.simpsonspark.com/personnages/serie_perso_hibbert.php), qui abuse largement des assurances de santé, et [Nick Riviera](https://web.archive.org/web/20100113094935/http://www.simpsonspark.com/personnages/serie_perso_hibbert.php), un authentique charlatan qui vit des habitants qui en sont dépourvus.
 
-A part les deux médecins, le [professeur Frink](http://www.simpsonspark.com/personnages/perso_frink1.php) est le seul véritable scientifique de Springfield. Inventeur complètement déjanté, sa productivité est exceptionnelle. On retiendra en particulier
+A part les deux médecins, le [professeur Frink](https://web.archive.org/web/20100113094737/http://www.simpsonspark.com/personnages/perso_frink1.php) est le seul véritable scientifique de Springfield. Inventeur complètement déjanté, sa productivité est exceptionnelle. On retiendra en particulier
 
 - le Citrobon, un bonbon au citron tellement acidulé qu'il doit être conservé à l'intérieur d'un champ magnétique. (S06E09)
 - Une fusée qui doit détruire la comète avant qu’elle ne s’abatte sur Springfield. Ca rate, mais la comète se désintègre avant l'impact grâce à la densité de la couche de pollution sur la ville. (S06E14)
@@ -60,7 +60,7 @@ De même lorsque Lisa construit une machine à mouvement perpétuel, c'est de fa
 
 ### Le créationnisme
 
-L'un des meilleurs épisodes de la série (S09E08) est consacré à cette plaie des USA, et qui s'étend désormais partout. Suite à la découverte d'un étrange fossile que le bigot [Ned Flanders](http://www.simpsonspark.com/personnages/serie_perso_flanders.php) et d'autres Springfildiens considèrent comme celui d'un ange, Lisa souhaite appliquer une approche scientifique. A cela Ned Flanders rétorque cette réplique mémorable:
+L'un des meilleurs épisodes de la série (S09E08) est consacré à cette plaie des USA, et qui s'étend désormais partout. Suite à la découverte d'un étrange fossile que le bigot [Ned Flanders](https://web.archive.org/web/20100113095943/http://www.simpsonspark.com/personnages/serie_perso_flanders.php) et d'autres Springfildiens considèrent comme celui d'un ange, Lisa souhaite appliquer une approche scientifique. A cela Ned Flanders rétorque cette réplique mémorable:
 
 > "Moi je dis qu'il y a des choses qu'on n'a pas envie de savoir, des choses importantes!"
 
@@ -82,11 +82,11 @@ Plusieurs épisodes des Simpson concernent le syndrome "[NIMBY](w:)" ("Not In My
 
 ### Le nucléaire
 
-La centrale nucléaire de Springfield est le véritable poumon économique de la ville, et la source de la fortune et du pouvoir absolu de [Mr. Burns](http://www.simpsonspark.com/personnages/serie_perso_burns.php). Dès le troisième épisode de la série (S01E03), on constate que le nucléaire influence jusqu'à la prière du soir d'Homer, (ir)responsable de la sécurité de la centrale (S02E07):
+La centrale nucléaire de Springfield est le véritable poumon économique de la ville, et la source de la fortune et du pouvoir absolu de [Mr. Burns](https://web.archive.org/web/20100113095141/http://www.simpsonspark.com/personnages/serie_perso_burns.php). Dès le troisième épisode de la série (S01E03), on constate que le nucléaire influence jusqu'à la prière du soir d'Homer, (ir)responsable de la sécurité de la centrale (S02E07):
 
 > Seigneur, on vous est surtout reconnaissant pour l’énergie nucléaire, la plus sure et la plus propre de toutes les sources d’énergies, mis à part l’énergie solaire, mais ça, c’est du pipeau.
 
-Évidemment, Springfield frôle plusieurs fois la catastrophe. On apprend même que le père de [Smithers](http://www.simpsonspark.com/personnages/serie_perso_smithers.php) avait sacrifié sa vie pour sauver la centrale (S13E05). Homer, quant à lui, évite de justesse un accident majeur que sa fainéantise avait déclenché (S07E07), ce qui lui vaut les félicitations de Mr. Burns: "Homer, vous avez promptement réagit et fait d’un Tchernobyl un petit pétard radioactif foireux, bravo!"
+Évidemment, Springfield frôle plusieurs fois la catastrophe. On apprend même que le père de [Smithers](https://web.archive.org/web/20100113095958/http://www.simpsonspark.com/personnages/serie_perso_smithers.php) avait sacrifié sa vie pour sauver la centrale (S13E05). Homer, quant à lui, évite de justesse un accident majeur que sa fainéantise avait déclenché (S07E07), ce qui lui vaut les félicitations de Mr. Burns: "Homer, vous avez promptement réagit et fait d’un Tchernobyl un petit pétard radioactif foireux, bravo!"
 
 ![](./images/22fa65bd1e4a1b466069262d1fe09941.jpg)
 
@@ -108,29 +108,29 @@ Dans les Simpson, les vrais problèmes viennent plutôt des (nombreuses) faibles
 
 (la notation SxxEyy dénote l'épisode yy de la saison xx, le code entre parenthèses étant le code de production de l'épisode)
 
-- [S01E02 (7G02) - Bart le génie](http://www.simpsonspark.com/scripts/s1/7g02.php)
-- [S01E03 (7G03) - Un atome de bon sens](http://www.simpsonspark.com/scripts/s1/7g03.php)
-- [S02E04 (7F01) - Sous le signe du poisson](http://www.simpsonspark.com/scripts/s2/7f01.php)
-- [S02E07 (7F07) - La fugue de Bart](http://www.simpsonspark.com/scripts/s2/7f07.php)
-- [S04E20 (9F18) - Le jour de la raclée](http://www.simpsonspark.com/scripts/s4/9f18.php)
-- [S06E06 (2F03) - Simpson Horror Show V](http://www.simpsonspark.com/scripts/s6/2f03.php)
-- [S06E09 (2F06) - Pervers Homer](http://www.simpsonspark.com/scripts/s6/2f06.php)
-- [S06E14 (2F11) - La comète de Bart](http://www.simpsonspark.com/scripts/s6/2f11.php)
-- [S06E21 (2F19) - Il faut Bart le fer tant qu'il est chaud](http://www.simpsonspark.com/scripts/s6/2f19.php)
-- [S07E05 (3F03) - Lisa la végétarienne](http://www.simpsonspark.com/scripts/s7/3f03.php)
-- [S07E06 (3F04) - Les Simpson Spécial Halloween VI](http://www.simpsonspark.com/guide/episodes/les_simpson_special_halloween_vi.php)
-- [S07E07 (3F05) - Un super Big Homer](http://www.simpsonspark.com/scripts/s7/3f05.php)
-- [S09E04 (5F02) - Spécial Halloween VIII](http://www.simpsonspark.com/scripts/s9/5f02.php)
-- [S09E08 (5F05) - Les ailes du délire](http://www.simpsonspark.com/scripts/s9/5f05.php)
-- [S10E03 (5F22) - Lézards populaires](http://www.simpsonspark.com/scripts/s10/5f22.php)
-- [S10E22 (AABF18) - Les gros Q.I.](http://www.simpsonspark.com/scripts/s10/aabf18.php)
-- [S12E04 (CABF01) - Touche pas à ma forêt !](http://www.simpsonspark.com/scripts/s12/cabf01.php)
-- [S13E05 (CABF21) - La vieille peur d'Homer](http://www.simpsonspark.com/scripts/s13/cabf21.php)
-- [S14E01 (DABF19) - Simpson Horror Show XIII](http://www.simpsonspark.com/scripts/s14/dabf19.php)
-- [S14E16 (EABF11) - La guerre pour les étoiles](http://www.simpsonspark.com/scripts/s14/eabf11.php)
-- [S15E01 (EABF21) - Simpson Horror Show XIV](http://www.simpsonspark.com/scripts/s15/eabf21.php)
-- [S16E16 (GABF10) - Une grosse tuile pour un toit](http://www.simpsonspark.com/scripts/s16/gabf10.php)
-- [S18E20 (JABF12) - Petit Papa Noël superflic](http://www.simpsonspark.com/scripts/s18/jabf12.php)
+- [S01E02 (7G02) - Bart le génie](https://web.archive.org/web/20090421161237/http://www.simpsonspark.com/scripts/s1/7g02.php)
+- [S01E03 (7G03) - Un atome de bon sens](https://web.archive.org/web/20100113133744/http://www.simpsonspark.com/scripts/s1/7g03.php)
+- [S02E04 (7F01) - Sous le signe du poisson](https://web.archive.org/web/20100113122914/http://www.simpsonspark.com/scripts/s2/7f01.php)
+- [S02E07 (7F07) - La fugue de Bart](https://web.archive.org/web/20100113123400/http://www.simpsonspark.com/scripts/s2/7f07.php)
+- [S04E20 (9F18) - Le jour de la raclée](https://web.archive.org/web/20100113131115/http://www.simpsonspark.com/scripts/s4/9f18.php)
+- [S06E06 (2F03) - Simpson Horror Show V](https://web.archive.org/web/20100113130410/http://www.simpsonspark.com/scripts/s6/2f03.php)
+- [S06E09 (2F06) - Pervers Homer](https://web.archive.org/web/20100113130457/http://www.simpsonspark.com/scripts/s6/2f06.php)
+- [S06E14 (2F11) - La comète de Bart](https://web.archive.org/web/20100306154929/http://www.simpsonspark.com/scripts/s6/2f11.php)
+- [S06E21 (2F19) - Il faut Bart le fer tant qu'il est chaud](https://web.archive.org/web/20100423161309/http://www.simpsonspark.com/scripts/s6/2f19.php)
+- [S07E05 (3F03) - Lisa la végétarienne](https://web.archive.org/web/20100113130204/http://www.simpsonspark.com/scripts/s7/3f03.php)
+- [S07E06 (3F04) - Les Simpson Spécial Halloween VI](https://web.archive.org/web/20100106224202/http://www.simpsonspark.com/guide/episodes/les_simpson_special_halloween_vi.php)
+- [S07E07 (3F05) - Un super Big Homer](https://web.archive.org/web/20100113115115/http://www.simpsonspark.com/scripts/s7/3f05.php)
+- [S09E04 (5F02) - Spécial Halloween VIII](https://web.archive.org/web/20100113122048/http://www.simpsonspark.com/scripts/s9/5f02.php)
+- [S09E08 (5F05) - Les ailes du délire](https://web.archive.org/web/20100113111602/http://www.simpsonspark.com/scripts/s9/5f05.php)
+- [S10E03 (5F22) - Lézards populaires](https://web.archive.org/web/20100113131527/http://www.simpsonspark.com/scripts/s10/5f22.php)
+- [S10E22 (AABF18) - Les gros Q.I.](https://web.archive.org/web/20100113124804/http://www.simpsonspark.com/scripts/s10/aabf18.php)
+- [S12E04 (CABF01) - Touche pas à ma forêt !](https://web.archive.org/web/20100204221211/http://www.simpsonspark.com/scripts/s12/cabf01.php)
+- [S13E05 (CABF21) - La vieille peur d'Homer](https://web.archive.org/web/20100113123317/http://www.simpsonspark.com/scripts/s13/cabf21.php)
+- [S14E01 (DABF19) - Simpson Horror Show XIII](https://web.archive.org/web/20100113105156/http://www.simpsonspark.com/scripts/s14/dabf19.php)
+- [S14E16 (EABF11) - La guerre pour les étoiles](https://web.archive.org/web/20100113110349/http://www.simpsonspark.com/scripts/s14/eabf11.php)
+- [S15E01 (EABF21) - Simpson Horror Show XIV](https://web.archive.org/web/20100113130708/http://www.simpsonspark.com/scripts/s15/eabf21.php)
+- [S16E16 (GABF10) - Une grosse tuile pour un toit](https://web.archive.org/web/20100113124545/http://www.simpsonspark.com/scripts/s16/gabf10.php)
+- [S18E20 (JABF12) - Petit Papa Noël superflic](https://web.archive.org/web/20100113113917/http://www.simpsonspark.com/scripts/s18/jabf12.php)
 
 ### Sources:
 
@@ -138,13 +138,13 @@ Dans les Simpson, les vrais problèmes viennent plutôt des (nombreuses) faibles
 2. {{< openbook booknumber="ISBN:0470114606" templatenumber="5" >}}
 3. {{< openbook booknumber="ISBN:9781620402771" templatenumber="5" >}}
 4. "[Science on the Simpson](http://simpsonscience.blogspot.com/)" le blog de Paul Halpern
-5. [simpsonsmath.com](http://mathsci2.appstate.edu/~sjg/simpsonsmath/)
-6. "[Matheux, les Simpson ?](http://www.simpsonspark.com/infos_juin06.php)" sur [Simpsons Park](http://www.simpsonspark.com/), le site de référence en français
+5. [simpsonsmath.com](https://web.archive.org/web/20110719140618/http://mathsci2.appstate.edu/~sjg/simpsonsmath/)
+6. "[Matheux, les Simpson ?](https://web.archive.org/web/20100114035307/http://www.simpsonspark.com/infos_juin06.php)" sur [Simpsons Park](http://www.simpsonspark.com/), le site de référence en français
 7. Peter M. Sandman "[Risk Communication: Facing Public Outrage](http://www.psandman.com/articles/facing.htm)",
     
     EPA Journal (U.S. Environmental Protection Agency), November 1987, pp. 21–22
     
-8. Dossier "[Attention, les Simpson s'attaquent aux sciences](http://www.linternaute.com/science/magazine/dossier/attention-les-simpson-s-attaquent-aux-sciences/quand-les-simpson-parlent-de-science.shtml)" sur l'Internaute
+8. Dossier "[Attention, les Simpson s'attaquent aux sciences](https://web.archive.org/web/20090129220556/http://www.linternaute.com/science/magazine/dossier/attention-les-simpson-s-attaquent-aux-sciences/quand-les-simpson-parlent-de-science.shtml)" sur l'Internaute
     
 
-_(article légèrement édité le 24.10.2014 à l'occasion de la découverte de la référence \[3\] dans [cet article](http://boingboing.net/2014/10/17/homers-last-theorem.html))_
+_(article légèrement édité le 24.10.2014 à l'occasion de la découverte de la référence \[3\] dans [cet article](https://web.archive.org/web/20141019204331/http://boingboing.net/2014/10/17/homers-last-theorem.html))_

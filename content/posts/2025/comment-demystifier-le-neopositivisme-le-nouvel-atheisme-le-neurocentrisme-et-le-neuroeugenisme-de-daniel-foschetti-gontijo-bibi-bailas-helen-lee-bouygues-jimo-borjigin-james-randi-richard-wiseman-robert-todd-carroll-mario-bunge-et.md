@@ -37,7 +37,7 @@ Et comme je ne trouve aucune trace de "neuro eugénisme" dans ces références, 
 
 Notes de bas de page
 
-[[1]](#cite-EEhnk)[https://www.researchgate.net/pro...](https://www.researchgate.net/profile/Daniel-Gontijo/publication/361272265_Religiosityspirituality_and_mental_health_Evidence_of_curvilinear_relationships_in_a_sample_of_religious_people_spirituals_atheists_and_agnostics/links/6318e2a970cc936cd3ed531c/Religiosity-spirituality-and-mental-health-Evidence-of-curvilinear-relationships-in-a-sample-of-religious-people-spirituals-atheists-and-agnostics.pdf)
+[[1]](#cite-EEhnk)[https://www.researchgate.net/pro...](https://web.archive.org/web/20250625/https://www.researchgate.net/profile/Daniel-Gontijo/publication/361272265_Religiosityspirituality_and_mental_health_Evidence_of_curvilinear_relationships_in_a_sample_of_religious_people_spirituals_atheists_and_agnostics/links/6318e2a970cc936cd3ed531c/Religiosity-spirituality-and-mental-health-Evidence-of-curvilinear-relationships-in-a-sample-of-religious-people-spirituals-atheists-and-agnostics.pdf)
 
 [[2]](#cite-HdnCy)[Bibi Bailas – Wikipédia, a enciclopédia livre](w:pt:Bibi_Bailas)
 

@@ -20,4 +20,4 @@ Tous les vaccins (à part les derniers…) , les antibiotiques, et la quasi tota
 
 Notes de bas de page
 
-[[1]](#cite-bYfDU)[Part du marché des génériques](https://www.oecd-ilibrary.org/social-issues-migration-health/panorama-de-la-sante-2015/part-du-marche-des-generiques_health_glance-2015-69-fr)
+[[1]](#cite-bYfDU)[Part du marché des génériques](https://web.archive.org/web/20210315114155/https://www.oecd-ilibrary.org/social-issues-migration-health/panorama-de-la-sante-2015/part-du-marche-des-generiques_health_glance-2015-69-fr)

@@ -30,10 +30,10 @@ Note* : j'adore "[stricto sensu](https://fr.wiktionary.org/wiki/stricto_sensu)",
 
 Notes de bas de page
 
-[[1]](#cite-HeZlf)[Laser dans l'ultra-violet](http://culturesciencesphysique.ens-lyon.fr/ressource/laser-UV.xml)
+[[1]](#cite-HeZlf)[Laser dans l'ultra-violet](https://web.archive.org/web/20200927111637/http://culturesciencesphysique.ens-lyon.fr/ressource/laser-UV.xml)
 
-[[2]](#cite-EzXnw)[Ressources scientifiques pour l'enseignement des sciences physiques](http://culturesciencesphysique.ens-lyon.fr/ressource/laser-maser.xml)
+[[2]](#cite-EzXnw)[Ressources scientifiques pour l'enseignement des sciences physiques](https://web.archive.org/web/20200927220025/http://culturesciencesphysique.ens-lyon.fr/ressource/laser-maser.xml)
 
-[[3]](#cite-LkKCL)[Laser dans l'ultra-violet](http://culturesciencesphysique.ens-lyon.fr/ressource/laser-UV.xml)
+[[3]](#cite-LkKCL)[Laser dans l'ultra-violet](https://web.archive.org/web/20200927111637/http://culturesciencesphysique.ens-lyon.fr/ressource/laser-UV.xml)
 
 [[4]](#cite-nkoJp)[World’s Shortest Wavelength Laser Diode Emits Deep UV Light](https://scitechdaily.com/worlds-shortest-lasing-wavelength-laser-diode-emits-deep-uv-light/)

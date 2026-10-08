@@ -8,7 +8,7 @@ tags:
   - "suisse"
 ---
 
-Réponse au billet "[Évasion et fraude fiscale : arrêtons l’hypocrisie" de Jean-Marc Béguin Le Blog de Signature de la RSR](http://signature.rsr.ch/?p=462) :
+Réponse au billet "[Évasion et fraude fiscale : arrêtons l’hypocrisie" de Jean-Marc Béguin Le Blog de Signature de la RSR](https://web.archive.org/web/20080229/http://signature.rsr.ch/?p=462) :
 
 L'évasion, c'est le problème de la prison :-) Que les états fliqués et fisqués fichent leur population, envoient des inspecteurs chez eux évaluer leur fortune. Ou obligent leurs banques à prendre disons 30% d'impôt anticipé sur toutes les transactions. Les solutions ne manquent pas pour retenir de l'argent à la source.
 

@@ -22,6 +22,6 @@ On a presque [une prédiction de la fin du monde](w:Liste_de_prédictions_de_la_
 
 C'est quoi votre prédiction à vous pour 2050 ? Météorite ? Fin du calendrier Wolof ? Résurrection du Tyrannosaure suite à un impact de tachyon ?
 
-Je ne voudrais pas vous décevoir , mais tout ça c'est du pipeau parce que moi j'ai calculé avec une grande précision que ce sera le [jeudi 20 février 12262](https://www.wolframalpha.com/input/?i=date25/12/1963+lcm(225,+365,+687)days).
+Je ne voudrais pas vous décevoir , mais tout ça c'est du pipeau parce que moi j'ai calculé avec une grande précision que ce sera le [jeudi 20 février 12262](https://web.archive.org/web/20200721/https://www.wolframalpha.com/input/?i=date25/12/1963+lcm(225,+365,+687)days).
 
 [2012 et l'ennemi intérieur - Pourquoi Comment Combien](/2009/11/29/2012-et-lennemi-interieur/)

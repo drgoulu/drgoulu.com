@@ -15,6 +15,6 @@ coverImage: ./images/quora.png
 
 [Univers observable](w:Univers_observable)
 
-est bel et bien à la [gare de Perpignan](https://www.garesetconnexions.sncf/fr/gare/frpgf/perpignan/actualite/16104/gare-perpignan-centre-du-monde-dali).
+est bel et bien à la [gare de Perpignan](https://web.archive.org/web/20210809105048/https://www.garesetconnexions.sncf/fr/gare/frpgf/perpignan/actualite/16104/gare-perpignan-centre-du-monde-dali).
 
 Et puisque l'Univers est très isotrope, son centre de gravité coincide.

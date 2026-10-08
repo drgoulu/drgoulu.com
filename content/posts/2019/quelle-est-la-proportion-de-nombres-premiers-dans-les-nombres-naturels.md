@@ -22,6 +22,6 @@ Le nombre π(*x*) de nombres premiers inférieurs ou égaux à *x* est équivale
 
 $\pi (x)\sim {\frac {x}{\ln(x)}}\ (x\to +\infty )$
 
-donc autour d'un nombre x, la proportion de nombres premiers est d'environ 1/ln(x) . Par exemple pour la cryptographie on a besoin de nombres premiers de 512 bits soit 154 chiffres décimaux et comme or [1/ln(10^154)](http://www.wolframalpha.com/input/?i=1/ln(10^154)) donne environ 0.003, environ 3 nombres de 154 chiffres sur 1000 sont premiers, donc en trouver n'est absolument pas un problème.
+donc autour d'un nombre x, la proportion de nombres premiers est d'environ 1/ln(x) . Par exemple pour la cryptographie on a besoin de nombres premiers de 512 bits soit 154 chiffres décimaux et comme or [1/ln(10^154)](https://web.archive.org/web/20190518/http://www.wolframalpha.com/input/?i=1/ln(10^154)) donne environ 0.003, environ 3 nombres de 154 chiffres sur 1000 sont premiers, donc en trouver n'est absolument pas un problème.
 
 [Comment trouver des nombres premiers - Pourquoi Comment Combien](/2012/04/15/comment-produire-des-nombres-premiers/#.XOA2q8iiGCo)

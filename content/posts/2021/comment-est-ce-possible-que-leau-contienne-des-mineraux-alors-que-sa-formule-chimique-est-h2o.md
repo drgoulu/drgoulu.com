@@ -21,4 +21,4 @@ Même ainsi, l'eau "[ultrapure](w:en:Ultrapure_water)", contient encore quelques
 
 Notes de bas de page
 
-[[1]](#cite-rAxvx)[Découvrir la composition des eaux minérales naturelles](https://www.nestle-waters.fr/boire-plus-boire-mieux/mineraux-essentiels-en-bouteille/decouvrir-la-composition-des-eaux-nestle-waters)
+[[1]](#cite-rAxvx)[Découvrir la composition des eaux minérales naturelles](https://web.archive.org/web/20210420102629/https://www.nestle-waters.fr/boire-plus-boire-mieux/mineraux-essentiels-en-bouteille/decouvrir-la-composition-des-eaux-nestle-waters)

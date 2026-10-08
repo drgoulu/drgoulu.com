@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce que le Hamas est le gouvernement qu'ils ont élu, à la régulière.
 
-[https://www.liberation.fr/checkn...](https://www.liberation.fr/checknews/le-hamas-a-t-il-ete-elu-democratiquement-en-palestine-20231022_SBKEH7K26VHCTEZ5ATQD5HYPRI/)
+[https://www.liberation.fr/checkn...](https://web.archive.org/web/20231220025237/https://www.liberation.fr/checknews/le-hamas-a-t-il-ete-elu-democratiquement-en-palestine-20231022_SBKEH7K26VHCTEZ5ATQD5HYPRI/)

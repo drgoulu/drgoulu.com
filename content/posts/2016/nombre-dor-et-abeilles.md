@@ -18,7 +18,7 @@ Le [nombre d'or](w:) ou "divine proportion"représente parait-il le rapport le p
 
 {{< figure align="aligncenter" alt="rectangles" caption="Quel rectangle vous semble le mieux proportionné ? [[1]](#ref-1)" src="./images/rectangles.png" width="586" >}}Si vous avez répondu 5, vous avez la même préférence que les 34% des participants à un sondage identique [[1]](#ref-1), mais ce n'est pas un rectangle d'or. Le rectangle d'or, c'est le 2, choisi par 18% des gens, mais aussi le 9, choisi par 5%, soit nettement moins que les 11% de moyenne. Autrement dit : vous n'êtes statistiquement pas foutus de trouver du divin dans un rectangle...
 
-Ce fameux "nombre d'or" Φ est défini historiquement comme le rapport de deux nombres a et b satisfaisant l'équation $a/b = (a+b)/a$. La solution est $\phi = a/b = (1+\sqrt{5})/2$ soit approximativement 1.6180339887. Et ça c'est approximativement, parce qu'avec seulement 6 décimales, 1.618034 peut déjà être pas mal d'autres choses selon le génial [inverseur de Plouffe](w:) [qui est ici](http://isc.carma.newcastle.edu.au/advanced). Par exemple :
+Ce fameux "nombre d'or" Φ est défini historiquement comme le rapport de deux nombres a et b satisfaisant l'équation $a/b = (a+b)/a$. La solution est $\phi = a/b = (1+\sqrt{5})/2$ soit approximativement 1.6180339887. Et ça c'est approximativement, parce qu'avec seulement 6 décimales, 1.618034 peut déjà être pas mal d'autres choses selon le génial [inverseur de Plouffe](w:) [qui est ici](https://web.archive.org/web/20161018110928/http://isc.carma.newcastle.edu.au/advanced). Par exemple :
 
 - $$7^{1/3}-6^{3/4}/13$$
 - $$3/18541$$
@@ -75,8 +75,8 @@ Donc la "découverte" que les nids d'abeilles elliptiques s'inscrivent dans un c
 
 1. <span id="ref-1"></span>Cyril Jaquier, Kévin Drapel "[Le nombre d’or : réalité ou interprétations douteuses ?](/wp-content/uploads/2016/04/nombredor.pdf)" Projet STS EPFL, 25 avril 2005
 2. <span id="ref-2"></span>Jean-Paul Krivine "[Le mythe du nombre d’or](http://www.pseudo-sciences.org/spip.php?article796)", SPS n° 278, août 2007
-3. <span id="ref-3"></span>Christiane Rousseau, "[Nautile, nombre d’or et spirale dorée](http://accromath.uqam.ca/accro/wp-content/uploads/2013/04/nautile.pdf)", 2008, Accromath, Vol 3, p.8-11
+3. <span id="ref-3"></span>Christiane Rousseau, "[Nautile, nombre d’or et spirale dorée](https://web.archive.org/web/20160618223550/http://accromath.uqam.ca/accro/wp-content/uploads/2013/04/nautile.pdf)", 2008, Accromath, Vol 3, p.8-11
 4. <span id="ref-4"></span>S. Douady et Y. Couder, La physique des spirales végétales, La Recherche, janvier 1993, p. 26
 5. <span id="ref-5"> {{< openbook "9781367208056" "5" >}}
-6. <span id="ref-6"></span>Philip Ball "[Why Nature Prefers Hexagons](http://nautil.us/issue/35/boundaries/why-nature-prefers-hexagons)", 2016 April 7 sur Nautilus
+6. <span id="ref-6"></span>Philip Ball "[Why Nature Prefers Hexagons](https://web.archive.org/web/20160619163310/http://nautil.us/issue/35/boundaries/why-nature-prefers-hexagons)", 2016 April 7 sur Nautilus
 7. <span id="ref-7"></span>Alain Satabin "[L'âme de géomètre des abeilles](http://www.pourlascience.fr/ewb_pages/a/article-l-ame-de-geometre-des-abeilles-22316.php)", 2004, Dossier Pour la Science, N°44

@@ -23,7 +23,7 @@ Mesuré en morts par Terawattheure produit, ça donne ça :
 
 ![](./images/qimg-ddeaa9198d5d6e74119074aba4a70e7d.jpg)
 
-Source : [http://citeseerx.ist.psu.edu/vie...](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.180.4490)
+Source : [http://citeseerx.ist.psu.edu/vie...](https://web.archive.org/web/20200128080854/http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.180.4490)
 
 (il manque le solaire, mais sur une autre étude il est 3x plus mortel que l'éolien, de mémoire)
 

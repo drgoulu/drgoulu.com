@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quel-cr%C3%A9dit-peut-on-accorder-%C3%A0-lannonce-des-laboratoires-Pfizer-et-BioNTech-dun-vaccin-contre-le-Covid-19-efficace-%C3%A0-90-selon-des-r%C3%A9sultats-pr%C3%A9liminaires/answer/Dr-Goulu)*
 
-pour le Moderna, j'ai trouvé [A Study to Evaluate Efficacy, Safety, and Immunogenicity of mRNA-1273 Vaccine in Adults Aged 18 Years and Older to Prevent COVID-19 - Full Text View - ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT04470427) depuis [Promising Interim Results from Clinical Trial of NIH-Moderna COVID-19 Vaccine](https://www.nih.gov/news-events/news-releases/promising-interim-results-clinical-trial-nih-moderna-covid-19-vaccine)
+pour le Moderna, j'ai trouvé [A Study to Evaluate Efficacy, Safety, and Immunogenicity of mRNA-1273 Vaccine in Adults Aged 18 Years and Older to Prevent COVID-19 - Full Text View - ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT04470427) depuis [Promising Interim Results from Clinical Trial of NIH-Moderna COVID-19 Vaccine](https://web.archive.org/web/20201121170842/https://www.nih.gov/news-events/news-releases/promising-interim-results-clinical-trial-nih-moderna-covid-19-vaccine)
 
 il doit y avoir d'autres résultats similaires pour les autres vaccins.
 

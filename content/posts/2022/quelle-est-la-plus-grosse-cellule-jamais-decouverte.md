@@ -17,4 +17,4 @@ Le record du "Guiness Book" est un spécimen de 3 kg cultivé à l'Université d
 
 Notes de bas de page
 
-[[1]](#cite-kqRiX)[Physarum polycephalum - Wiki](https://golden.com/wiki/Physarum_polycephalum-KPGZ4N)
+[[1]](#cite-kqRiX)[Physarum polycephalum - Wiki](https://web.archive.org/web/20221206165543/https://golden.com/wiki/Physarum_polycephalum-KPGZ4N)

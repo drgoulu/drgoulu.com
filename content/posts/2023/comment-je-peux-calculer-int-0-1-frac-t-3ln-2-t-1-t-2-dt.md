@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 avec
 
-[https://www.wolframalpha.com/inp...](https://www.wolframalpha.com/input?i=integral+from+0+to+1+of+t^3*ln^2(t)/(1-t)^2)
+[https://www.wolframalpha.com/inp...](https://web.archive.org/web/20230208/https://www.wolframalpha.com/input?i=integral+from+0+to+1+of+t^3*ln^2(t)/(1-t)^2)

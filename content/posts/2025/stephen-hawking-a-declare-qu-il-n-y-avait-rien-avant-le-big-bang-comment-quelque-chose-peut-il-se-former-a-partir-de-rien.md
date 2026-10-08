@@ -15,7 +15,7 @@ Non Hawking n'a pas dit ça. Le [Modèle de Hartle-Hawking](w:)postule que le te
 
 Pour comprendre comment ce serait possible étudiez la physique théorique pendant une dizaine d'années et lisez son article :
 
-J. Hartle et S. Hawking, « Wave function of the Universe », *Physical Review D*, vol. 28, no 12,‎ 1983, p. 2960 ([DOI](w:Digital_Object_Identifier) [10.1103/PhysRevD.28.2960](https://dx.doi.org/10.1103/PhysRevD.28.2960), [Bibcode](w:) [1983PhRvD..28.2960H](https://ui.adsabs.harvard.edu/abs/1983PhRvD..28.2960H))
+J. Hartle et S. Hawking, « Wave function of the Universe », *Physical Review D*, vol. 28, no 12,‎ 1983, p. 2960 ([DOI](w:Digital_Object_Identifier) [10.1103/PhysRevD.28.2960](https://web.archive.org/web/20250126152033/https://dx.doi.org/10.1103/PhysRevD.28.2960), [Bibcode](w:) [1983PhRvD..28.2960H](https://web.archive.org/web/20241203180706/https://ui.adsabs.harvard.edu/abs/1983PhRvD..28.2960H))
 
 Si vous manquez de temps, vous pouvez lire cet article de son co-auteur écrit à la mort de Hawking
 

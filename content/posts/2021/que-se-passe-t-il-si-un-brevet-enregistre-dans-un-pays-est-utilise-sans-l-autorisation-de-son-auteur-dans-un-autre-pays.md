@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Un brevet ne protège que dans le(s) pays où il a été déposé.
 
-Si je prends un exemple au hasard, [EP2305463 (A1)](https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=20110406&DB=&locale=en_EP&CC=EP&NR=2305463A1&KC=A1&ND=1#) est un brevet européen valable dans l'UE, mais il a aussi été déposé aux USA, et en Espagne. Pourquoi l'Espagne alors qu'elle est déjà couverte par le brevet européen ?
+Si je prends un exemple au hasard, [EP2305463 (A1)](https://web.archive.org/web/20211005/https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=20110406&DB=&locale=en_EP&CC=EP&NR=2305463A1&KC=A1&ND=1#) est un brevet européen valable dans l'UE, mais il a aussi été déposé aux USA, et en Espagne. Pourquoi l'Espagne alors qu'elle est déjà couverte par le brevet européen ?
 
 Parce que le principal concurrent du cessionnaire du brevet est espagnol. Les deux brevets font "ceinture et bretelles" au cas où il arriverait à en contester un. Et ça lui coûterait le double de le faire…
 

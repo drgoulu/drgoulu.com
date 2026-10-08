@@ -12,7 +12,7 @@ coverImage: "./images/f273d2cd56cda1d649c313aece98efc9.jpg"
 
 Avec quelques autres membres du C@fé des Sciences, j'ai été invité par l'[ANDRA](http://www.andra.fr/) à visiter leur [Laboratoire de Bure](w:). Ils y étudient et préparent le site "[Cigéo](w:)" pour le stockage des déchets nucléaires français, en particulier les ["HA-VL" à haute activité et vie longue](w:Déchets_HAVL). Par "vie longue", comprenez "mortels pendant environ un million d'années" ...
 
-[Sirtin a écrit un petit récit de la visite](http://www.sirtin.fr/2014/05/20/visite-dun-centre-industriel-de-stockage-geologique/) et [Benjamin a décrit la problématique et le site retenu](http://lasciencepourtous.cafe-sciences.org/articles/landra-stocker-les-dechets-nucleaires-pour-un-million-dannees/). Pour ma part je me suis intéressé à la composition et à l'évolution de la radioactivité des déchets HAVL au cours de ce long temps. Mais avant de d'en parler, je commence par vous recommander vivement le documentaire "[Into Eternity](w:Into_Eternity_(film))" dont voici le lancement :
+[Sirtin a écrit un petit récit de la visite](https://web.archive.org/web/20160518153551/http://www.sirtin.fr/2014/05/20/visite-dun-centre-industriel-de-stockage-geologique/) et [Benjamin a décrit la problématique et le site retenu](https://web.archive.org/web/20140606075707/http://lasciencepourtous.cafe-sciences.org/articles/landra-stocker-les-dechets-nucleaires-pour-un-million-dannees/). Pour ma part je me suis intéressé à la composition et à l'évolution de la radioactivité des déchets HAVL au cours de ce long temps. Mais avant de d'en parler, je commence par vous recommander vivement le documentaire "[Into Eternity](w:Into_Eternity_(film))" dont voici le lancement :
 
 {{< youtube id="81wZs7la8dc" width="640" >}}
 
@@ -42,7 +42,7 @@ Dans un réacteur nucléaire, chaque atome d'Uranium bombardé par un neutron�
 
 A part les produits de fission, une centrale nucléaire fabrique des "[actinides mineurs](w:)". En gros il s'agit des atomes d'uranium 238 qui n'ont pas éclaté en capturant un neutron mais se sont transformés en autre chose, principalement du plutonium 240 (6 500 ans) et du [plutonium 239](w:) (24 000 ans), mais aussi de l'[américium](w:) 242 et 243, du [curium](w:) 245, 246 et 250, du [californium](w:) 249 et 251, etc. produits selon ce graphique:
 
-{{< figure src="./images/f273d2cd56cda1d649c313aece98efc9.jpg" alt="production d'actinides par captures de neutrons dans un réacteur [[2]](#ref-2) © IN2P3" caption="production d'actinides par captures de neutrons dans un réacteur [[2]](#ref-2) © IN2P3" link="http://www.laradioactivite.com/fr/site/pages/lesactinidesmineurs.htm" align="aligncenter" width="500" >}}Ces isotopes ont de longues durées de vie, sont fissiles ou fertiles, et décroissent par [radioactivité α](w:) ou [émission de neutron](w:) : on doit les stocker comme déchets HA-VL aussi. "Heureusement", le plutonium est apprécié par AREVA pour son [combustible MOX](w:) ainsi que par les militaires, donc le volume des 7 isotopes de produits de fission n'est augmenté que de 3% environ par les 8 isotopes d'actinides mineurs.
+{{< figure src="./images/f273d2cd56cda1d649c313aece98efc9.jpg" alt="production d'actinides par captures de neutrons dans un réacteur [[2]](#ref-2) © IN2P3" caption="production d'actinides par captures de neutrons dans un réacteur [[2]](#ref-2) © IN2P3" link="https://web.archive.org/web/20140727164225/http://www.laradioactivite.com/fr/site/pages/lesactinidesmineurs.htm" align="aligncenter" width="500" >}}Ces isotopes ont de longues durées de vie, sont fissiles ou fertiles, et décroissent par [radioactivité α](w:) ou [émission de neutron](w:) : on doit les stocker comme déchets HA-VL aussi. "Heureusement", le plutonium est apprécié par AREVA pour son [combustible MOX](w:) ainsi que par les militaires, donc le volume des 7 isotopes de produits de fission n'est augmenté que de 3% environ par les 8 isotopes d'actinides mineurs.
 
 Entre parenthèses, un des intérêts de la [filière "thorium"](/2013/05/18/latome-vert-le-thorium/) est qu'elle ne produit pas beaucoup moins ces actinides.
 
@@ -72,8 +72,8 @@ _(ajout/modif du 27.5.2014)_ Je découvre à l'instant qu'il existe un film int
 
 ### Références:
 
-1. <span id="ref-1"></span>Etienne Vernaz, "[Le cycle du combustible nucléaire](http://www.visiatome.fr/Local/visiatome/files/409/Le.cycle.du.combustible.nucelaire.Etienne.Vernaz.pdf)", CEA-VALRHO ( Marcoule )
-2. <span id="ref-2"></span>"[Les actinides mineurs : Neptunium, Américium et Curium](http://www.laradioactivite.com/fr/site/pages/lesactinidesmineurs.htm)" sur laradioactivité.com
+1. <span id="ref-1"></span>Etienne Vernaz, "[Le cycle du combustible nucléaire](https://web.archive.org/web/20200810100937/http://www.visiatome.fr/Local/visiatome/files/409/Le.cycle.du.combustible.nucelaire.Etienne.Vernaz.pdf)", CEA-VALRHO ( Marcoule )
+2. <span id="ref-2"></span>"[Les actinides mineurs : Neptunium, Américium et Curium](https://web.archive.org/web/20140727164225/http://www.laradioactivite.com/fr/site/pages/lesactinidesmineurs.htm)" sur laradioactivité.com
 3. <span id="ref-3"></span>"[Catalogue descriptif des familles](http://www.andra.fr/download/site-principal/document/editions/469.pdf)", 2012, Andra
-4. <span id="ref-4"></span>"[Déchets vitrifiés : Entreposages à sec de déchets vitrifiés](http://www.laradioactivite.com/fr/site/pages/EntreposageVerres.htm)" sur laradioactivité.com
+4. <span id="ref-4"></span>"[Déchets vitrifiés : Entreposages à sec de déchets vitrifiés](https://web.archive.org/web/20140727175534/http://www.laradioactivite.com/fr/site/pages/EntreposageVerres.htm)" sur laradioactivité.com
 5. <span id="ref-5"></span>"[Les déchets nucléaires](http://www.uarga.org/nucleaire/dechets_nucleaire.php)" UARGA (site des retraités du groupe AREVA)

@@ -15,4 +15,4 @@ avec un C à [Cantique](w:), absolument :-)
 
 Sinon ça vaut pas tripette .
 
-[Nassim Haramein - RationalWiki](https://rationalwiki.org/wiki/Nassim_Haramein)
+[Nassim Haramein - RationalWiki](https://web.archive.org/web/20210123045937/https://rationalwiki.org/wiki/Nassim_Haramein)

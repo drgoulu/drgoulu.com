@@ -22,7 +22,7 @@ Donc:
 
 1. la Suisse respecte les accords signés
 2. finalement, ça nous arrange bien aussi,
-3. et ça peut servir à favoriser la paix dans le monde par notre [politique des bons offices](https://www.eda.admin.ch/aboutswitzerland/fr/home/politik/die-schweiz-und-die-welt/die-guten-dienste-der-schweiz.html).
+3. et ça peut servir à favoriser la paix dans le monde par notre [politique des bons offices](https://web.archive.org/web/20190820125149/https://www.eda.admin.ch/aboutswitzerland/fr/home/politik/die-schweiz-und-die-welt/die-guten-dienste-der-schweiz.html).
 
 Alors pourquoi y renoncer ?
 

@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quelles-sont-les-nouvelles-fonctionnalit%C3%A9s-que-vous-aimeriez-voir-sur-Quora-Par-exemple-j-aimerais-une-fonction-classement-des-favoris-par-th%C3%A8me/answer/Dr-Goulu)*
 
-J'aimerais que [Quora.fr](http://Quora.fr) soit [Stack Exchange](https://stackexchange.com/) en français.
+J'aimerais que [Quora.fr](https://web.archive.org/web/20251027115326/http://Quora.fr) soit [Stack Exchange](https://stackexchange.com/) en français.
 
 StackExchange a un système de modération par les utilisateurs absolument remarquable. Le moindre débordement est impitoyablement sanctionné.
 

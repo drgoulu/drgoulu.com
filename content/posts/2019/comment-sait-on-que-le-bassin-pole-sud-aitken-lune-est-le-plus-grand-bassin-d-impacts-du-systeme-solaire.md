@@ -22,8 +22,8 @@ coverImage: ./images/quora.png
 
 En science, toute les phrases commencent implicitement par "jusqu'à preuve du contraire, …" Donc vous avez raison, on devrait ajouter "observé" ou "connu" à votre énoncé tiré d'une source inconnue, mais probablement plus journalistique que scientifique précisément pour cette raison .
 
-[https://planet-terre.ens-lyon.fr...](https://planet-terre.ens-lyon.fr/article/impacts-crateres-planetes.xml)
+[https://planet-terre.ens-lyon.fr...](https://web.archive.org/web/20191008220007/https://planet-terre.ens-lyon.fr/article/impacts-crateres-planetes.xml)
 
 Notes de bas de page
 
-[[1]](#cite-miLfm)[Le plus grand cratère d'impact du système solaire détecté sur Mars](https://www.lemonde.fr/planete/article/2008/06/26/le-plus-grand-cratere-d-impact-du-systeme-solaire-detecte-sur-mars_1062929_3244.html)
+[[1]](#cite-miLfm)[Le plus grand cratère d'impact du système solaire détecté sur Mars](https://web.archive.org/web/20210414000958/https://www.lemonde.fr/planete/article/2008/06/26/le-plus-grand-cratere-d-impact-du-systeme-solaire-detecte-sur-mars_1062929_3244.html)

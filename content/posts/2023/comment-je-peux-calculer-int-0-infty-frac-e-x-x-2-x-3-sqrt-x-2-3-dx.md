@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 avec
 
-[https://www.wolframalpha.com/inp...](https://www.wolframalpha.com/input?i=integral+from+0+to+infinity+e^-x(-x^2+x-3)/sqrt(x2+3))
+[https://www.wolframalpha.com/inp...](https://web.archive.org/web/20230308/https://www.wolframalpha.com/input?i=integral+from+0+to+infinity+e^-x(-x^2+x-3)/sqrt(x2+3))

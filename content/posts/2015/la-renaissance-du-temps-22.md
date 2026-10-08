@@ -11,9 +11,9 @@ tags:
 coverImage: "./images/7284147-L.jpg"
 ---
 
-{{< figure src="./images/temps-dessin-pour-Pierre-mail.jpg" link="http://thema.cafe-sciences.org/articles/category/le-temps/" >}}
+{{< figure src="./images/temps-dessin-pour-Pierre-mail.jpg" link="https://web.archive.org/web/20160204033219/http://thema.cafe-sciences.org/articles/category/le-temps/" >}}
 
-Beaucoup trop longtemps après [la première partie](/2015/01/28/la-renaissance-du-temps/) publiée lors de la [semaine thématique sur le temps](http://thema.cafe-sciences.org/articles/category/le-temps/) du Café des Sciences, voici la fin du compte rendu consacré à la seconde partie du livre "grand public" de [Lee Smolin](w:) sur le temps.
+Beaucoup trop longtemps après [la première partie](/2015/01/28/la-renaissance-du-temps/) publiée lors de la [semaine thématique sur le temps](https://web.archive.org/web/20160204033219/http://thema.cafe-sciences.org/articles/category/le-temps/) du Café des Sciences, voici la fin du compte rendu consacré à la seconde partie du livre "grand public" de [Lee Smolin](w:) sur le temps.
 
 Dans cette seconde partie, Smolin plaide en faveur de la réalité du temps et présente sa propre conception du temps. Petit rappel en préambule : Smolin est un cosmologiste reconnu qui a travaillé pendant des décennies avec les plus grands sur ce sujet, donc avant de le traiter d'hurluberlu aux idées délirantes, rappelez-vous qu'il peut vous asséner des [piles d'articles](https://scholar.google.com/citations?user=-_NhnG4AAAAJ) "peer reviewed" et des tableaux noirs pleins de formules pour défendre son point de vue.
 
@@ -73,7 +73,7 @@ Selon Smolin, l'existence d'un temps réel est indispensable pour réconcilier
 
 {{< youtube id="lzJpC78zduo" width="640" >}}
 
-Représentations graphiques de la triangulation dynamique causale d'un espace à 2 dimensions. J'ai mis cette vidéo là car je l'ai trouvée jolie, mais je n'y ai rien compris. Pour plus de détails, voir la [page de Timothy Budd](http://www.nbi.dk/~budd/).
+Représentations graphiques de la triangulation dynamique causale d'un espace à 2 dimensions. J'ai mis cette vidéo là car je l'ai trouvée jolie, mais je n'y ai rien compris. Pour plus de détails, voir la [page de Timothy Budd](https://web.archive.org/web/20150919093422/http://www.nbi.dk/~budd/).
 
 Puis [Fotini Markopoulou](w:en) a proposé la  "[graphité quantique](w:en:quantum_graphity)" (sic)  [[7]](#ref-7). D'autres  théories comme les [ensembles causaux](w:en:causal_sets) et certaines variantes de la [théorie des cordes](w:)  ramènent à la même idée.
 
@@ -176,7 +176,7 @@ Le livre s'achève par un long épilogue intitulé "Penser dans le temps" illust
 
 ### Critique
 
-Je me suis fait piéger en voulant parler de ce bouquin. J'avais envisagé de faire juste une critique du genre "Dans ce livre Smolin propose une nouvelle théorie de la physique extrêmement originale. Si vous vous intéressez à la cosmologie et avez de solides bases en physique, ce livre vous passionnera, mais il ne s'adresse définitivement pas au grand public." Mais il fallait en dire un peu plus pour la [semaine thématique sur le temps](http://thema.cafe-sciences.org/articles/category/le-temps/) du Café des Sciences, et comme je n'ai pas réussi à le résumer en un seul article c'est devenu un serpent de mer qui m'a bloqué de semaines, puis des mois car je ne voulais pas intercaler d'autre article entre les deux parties comme je le fais trop souvent, car ensuite je ne termine pas la série...
+Je me suis fait piéger en voulant parler de ce bouquin. J'avais envisagé de faire juste une critique du genre "Dans ce livre Smolin propose une nouvelle théorie de la physique extrêmement originale. Si vous vous intéressez à la cosmologie et avez de solides bases en physique, ce livre vous passionnera, mais il ne s'adresse définitivement pas au grand public." Mais il fallait en dire un peu plus pour la [semaine thématique sur le temps](https://web.archive.org/web/20160204033219/http://thema.cafe-sciences.org/articles/category/le-temps/) du Café des Sciences, et comme je n'ai pas réussi à le résumer en un seul article c'est devenu un serpent de mer qui m'a bloqué de semaines, puis des mois car je ne voulais pas intercaler d'autre article entre les deux parties comme je le fais trop souvent, car ensuite je ne termine pas la série...
 
  
 

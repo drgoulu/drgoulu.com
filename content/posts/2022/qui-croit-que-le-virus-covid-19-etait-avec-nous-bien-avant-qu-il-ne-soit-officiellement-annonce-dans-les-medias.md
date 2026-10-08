@@ -29,4 +29,4 @@ Menachery, V. D.,et al. (2015). [A SARS-like cluster of circulating bat coronavi
 
 On sait aussi maintenant qu'il y a eu d'autres épidémies dues à ce type de virus dans l'histoire, après quoi ils ne nous causent plus que des rhumes.
 
-Segondy, M. (2020). [Les Coronavirus humains](https://doi.org/10.1016/S1773-035X(20)30311-7). *Revue Francophone Des Laboratoires*, *2020*(526), 32.
+Segondy, M. (2020). [Les Coronavirus humains](https://web.archive.org/web/20220125055058/https://doi.org/10.1016/S1773-035X(20)30311-7). *Revue Francophone Des Laboratoires*, *2020*(526), 32.

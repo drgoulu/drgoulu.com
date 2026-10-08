@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 C'est une parabole tout à fait valide
 
-[https://www.wolframalpha.com/inp...](https://www.wolframalpha.com/input?i=f(x)+=-3x^2-3x+8)
+[https://www.wolframalpha.com/inp...](https://web.archive.org/web/20210503050506/https://www.wolframalpha.com/input?i=f(x)+=-3x^2-3x+8)

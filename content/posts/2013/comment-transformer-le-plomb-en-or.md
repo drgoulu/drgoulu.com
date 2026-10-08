@@ -58,7 +58,7 @@ Mais le plomb est mal placé pour former de l'or. Par bombardement neutronique o
 
 Donc en utilisant la seule et unique technique dont nous disposons, nous ne pouvons pas transformer le plomb en or. Même pas un tout petit peu. Du platine ou du mercure oui, mais du plomb non\*
 
-Finalement, les processus de transmutation du platine ou du mercure en or sont considérablement plus chers et dangereux que creuser le sol pour en extraire l'or. Entre autres accessoires, il vous faudra une [source de neutrons](w:) qui est en général un bout de métal extrêmement radioactif, cher et illégal. Sinon, un [accélérateur à plusieurs milliards](http://www.sns.gov/) peut aussi faire l'affaire. Il existe des manières plus simples de perdre de l'argent...
+Finalement, les processus de transmutation du platine ou du mercure en or sont considérablement plus chers et dangereux que creuser le sol pour en extraire l'or. Entre autres accessoires, il vous faudra une [source de neutrons](w:) qui est en général un bout de métal extrêmement radioactif, cher et illégal. Sinon, un [accélérateur à plusieurs milliards](https://web.archive.org/web/20130216094530/http://www.sns.gov/) peut aussi faire l'affaire. Il existe des manières plus simples de perdre de l'argent...
 
 ### Note:
 

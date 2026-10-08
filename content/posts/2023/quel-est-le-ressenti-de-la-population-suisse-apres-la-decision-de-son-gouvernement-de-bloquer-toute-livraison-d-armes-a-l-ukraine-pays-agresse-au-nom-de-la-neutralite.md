@@ -19,7 +19,7 @@ Notre gouvernement doit simplement respecter la loi, qui est très claire :
 
 > L’autorisation concernant les affaires avec l’étranger au sens de l’art. 22 ou concernant la conclusion de contrats au sens de l’art. 20 n’est **pas accordée:**
 
-Ce passage ne date d'ailleurs que de 2021, suite au [contre-projet](https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-87794.html)à l'[initiative "correctrice"](https://www.bk.admin.ch/ch/f/pore/vi/vis490t.html) qui proposait d'écrire ceci dans la Constitution (et qui avait de fortes chances d'être acceptée en votation, raison pour laquelle le gouvernement l'a écrite dans la loi, et que l'initiative a été retirée)
+Ce passage ne date d'ailleurs que de 2021, suite au [contre-projet](https://web.archive.org/web/20230531235000/https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-87794.html)à l'[initiative "correctrice"](https://www.bk.admin.ch/ch/f/pore/vi/vis490t.html) qui proposait d'écrire ceci dans la Constitution (et qui avait de fortes chances d'être acceptée en votation, raison pour laquelle le gouvernement l'a écrite dans la loi, et que l'initiative a été retirée)
 
 Donc la seule possibilité pour pouvoir exporter directement ou indirectement vers l'Ukraine serait de modifier ce texte, ce qui nécessitera ou causera un referendum, et rien ne garantit son succès. Je pense très sincèrement que ce serait refusé par le peuple suisse actuellement.
 

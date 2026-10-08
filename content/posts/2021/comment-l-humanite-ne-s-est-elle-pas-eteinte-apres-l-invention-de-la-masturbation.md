@@ -32,7 +32,7 @@ Merci pour cette question grâce à laquelle j'ai découvert le paragraphe "fonc
 Avec les références d'usage :
 
 1. Thomsen, Ruth (2000). "[*Sperm competition and the function of masturbation in Japanese macaques*](http://edoc.ub.uni-muenchen.de/archive/00000105/)". Ludwig-Maximilians-Universität München.
-2. Baker, Robin R.; Bellis, Mark A. (1993). ["Human sperm competition: Ejaculate adjustment by males and the function of masturbation"](http://cat.inist.fr/?aModele=afficheN&cpsidt=3768815). *Animal Behaviour*. **46** (5): p861, 25p.
-3. Shackelford, Todd K.; Goetz, Aaron T. (2007). ["Adaptation to Sperm Competition in Humans"](http://doi.org/10.1111/j.1467-8721.2007.00473.x). *Current Directions in Psychological Science*. **16** (1): p47-50.
+2. Baker, Robin R.; Bellis, Mark A. (1993). ["Human sperm competition: Ejaculate adjustment by males and the function of masturbation"](https://web.archive.org/web/20160129050327/http://cat.inist.fr/?aModele=afficheN&cpsidt=3768815). *Animal Behaviour*. **46** (5): p861, 25p.
+3. Shackelford, Todd K.; Goetz, Aaron T. (2007). ["Adaptation to Sperm Competition in Humans"](https://web.archive.org/web/20210125221855/http://doi.org/10.1111/j.1467-8721.2007.00473.x). *Current Directions in Psychological Science*. **16** (1): p47-50.
 
 Bref cher ami : les voies de l'evolution sont parfois obscures mais toujours pénétrables (…) : nos comportements généraux sont favorables à notre espèce.

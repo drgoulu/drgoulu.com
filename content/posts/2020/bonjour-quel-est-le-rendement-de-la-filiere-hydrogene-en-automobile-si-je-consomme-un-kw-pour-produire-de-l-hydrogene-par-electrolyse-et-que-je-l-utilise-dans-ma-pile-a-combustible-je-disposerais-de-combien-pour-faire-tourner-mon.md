@@ -33,4 +33,4 @@ pour les véhiculeset filières suivantes:
 
 Notes de bas de page
 
-[[1]](#cite-yfLhM)[https://www.researchgate.net/pub...](https://www.researchgate.net/publication/224712974_New_generation_of_passenger_vehicles_FCV_or_HEV)
+[[1]](#cite-yfLhM)[https://www.researchgate.net/pub...](https://web.archive.org/web/20211127025215/https://www.researchgate.net/publication/224712974_New_generation_of_passenger_vehicles_FCV_or_HEV)

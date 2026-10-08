@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Avez-vous vérifié ?
 
-Les Mythbusters l'on fait dans leur [Episode 32: Jetpack, Pyramid power](http://kwc.org/mythbusters/2005/06/mythbusters_jetpack_pyramid_po.html).
+Les Mythbusters l'on fait dans leur [Episode 32: Jetpack, Pyramid power](https://web.archive.org/web/20211021140604/http://kwc.org/mythbusters/2005/06/mythbusters_jetpack_pyramid_po.html).
 
 Résultat? Nul : les roses fanent tout aussi vite, les pommes pourrissent aussi vite, et le lait tourne aussi vite dans une pyramide qu'à l'extérieur.

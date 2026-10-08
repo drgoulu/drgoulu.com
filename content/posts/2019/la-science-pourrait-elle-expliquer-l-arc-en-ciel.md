@@ -24,4 +24,4 @@ et que dans certains cas ça fait même une double réfraction qui produit deux 
 
 ![](./images/qimg-f76bcca0a95d101e9d4a4cd84e14f12d.jpg)
 
-tous les détails ici : [La physique des arcs-en-ciel](https://pourquoilecielestbleu.cafe-sciences.org/articles/la-physique-des-arcs-en-ciel/)
+tous les détails ici : [La physique des arcs-en-ciel](https://web.archive.org/web/20190819093129/https://pourquoilecielestbleu.cafe-sciences.org/articles/la-physique-des-arcs-en-ciel/)

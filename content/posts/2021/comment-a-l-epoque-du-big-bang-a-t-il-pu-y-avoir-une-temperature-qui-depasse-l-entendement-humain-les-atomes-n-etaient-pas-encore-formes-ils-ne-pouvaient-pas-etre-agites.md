@@ -30,7 +30,7 @@ etc.
 
 La relation énergie des photons/ température est établie ici[[1]](#JjgFb)
 
-En passant j'ai trouvé ce diagramme dans [Temperature after the big bang](https://physics.stackexchange.com/questions/411464/temperature-after-the-big-bang) :
+En passant j'ai trouvé ce diagramme dans [Temperature after the big bang](https://web.archive.org/web/20211025154638/https://physics.stackexchange.com/questions/411464/temperature-after-the-big-bang) :
 
 ![](./images/qimg-e68dc0ec9af4167160da1a67c796a92f.gif)
 

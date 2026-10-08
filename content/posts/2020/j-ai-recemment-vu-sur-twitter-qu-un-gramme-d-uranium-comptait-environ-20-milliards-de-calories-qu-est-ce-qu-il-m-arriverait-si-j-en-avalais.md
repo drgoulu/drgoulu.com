@@ -24,6 +24,6 @@ Donc c'est une mauvaise idée de bouffer de l'uranium, mais pas forcément morte
 
 Notes de bas de page
 
-[[1]](#cite-teoZk)[https://www.irsn.fr/FR/Larecherc...](https://www.irsn.fr/FR/Larecherche/publications-documentation/fiches-radionucleides/environnement/Pages/Uranium-naturel-environnement.aspx)
+[[1]](#cite-teoZk)[https://www.irsn.fr/FR/Larecherc...](https://web.archive.org/web/20191215123359/https://www.irsn.fr/FR/Larecherche/publications-documentation/fiches-radionucleides/environnement/Pages/Uranium-naturel-environnement.aspx)
 
-[[2]](#cite-GtYKk)[ACUTE CHEMICAL TOXICITY OF URANIUM : Health Physics](https://journals.lww.com/health-physics/pages/articleviewer.aspx?year=2008&issue=02000&article=00008&type=abstract)
+[[2]](#cite-GtYKk)[ACUTE CHEMICAL TOXICITY OF URANIUM : Health Physics](https://web.archive.org/web/20191205181915/https://journals.lww.com/health-physics/pages/articleviewer.aspx?year=2008&issue=02000&article=00008&type=abstract)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Elle a essayé, mais ça n'a pas marché.
 
-[https://www.lepoint.fr/high-tech...](https://www.lepoint.fr/high-tech-internet/censure-de-wikipedia-de-quoi-se-mele-la-dcri-08-04-2013-1652176_47.php#11)
+[https://www.lepoint.fr/high-tech...](https://web.archive.org/web/20240519185433/https://www.lepoint.fr/high-tech-internet/censure-de-wikipedia-de-quoi-se-mele-la-dcri-08-04-2013-1652176_47.php#11)

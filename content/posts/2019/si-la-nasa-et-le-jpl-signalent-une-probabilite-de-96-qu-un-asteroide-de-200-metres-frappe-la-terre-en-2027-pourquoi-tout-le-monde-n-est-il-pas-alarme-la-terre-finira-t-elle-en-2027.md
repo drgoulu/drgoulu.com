@@ -20,6 +20,6 @@ coverImage: ./images/quora.png
 
 > **Niveau 5** : trajectoire rapprochée, menace considérable de collision entraînant la dévastation d'une région. Si la collision est prévue pour moins de 10 ans, des mesures gouvernementales doivent être envisagées.
 
-Selon [Sentry: Earth Impact Monitoring](https://cneos.jpl.nasa.gov/sentry/) aucun objet ne dépasse le niveau 0 actuellement.
+Selon [Sentry: Earth Impact Monitoring](https://web.archive.org/web/20190811152205/https://cneos.jpl.nasa.gov/sentry/) aucun objet ne dépasse le niveau 0 actuellement.
 
 [Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)

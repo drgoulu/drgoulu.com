@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 D’après [India Imports from Switzerland](https://tradingeconomics.com/india/imports-from-switzerland) c’est plutôt 9ème.
 
-D’après [What Products India Imports or Exports to Switzerland](http://www.indiatradedata.com/what-india-import-export-switzerland) c’est de l’or et des montres.
+D’après [What Products India Imports or Exports to Switzerland](https://web.archive.org/web/20190911064535/http://www.indiatradedata.com/what-india-import-export-switzerland) c’est de l’or et des montres.

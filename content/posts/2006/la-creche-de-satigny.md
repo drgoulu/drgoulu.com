@@ -13,14 +13,14 @@ tags:
 
 ### Infos et références générales:
 
-#### Projet de loi visant à encourager le développement des structures d'accueil de la petite enfance dans les communes : extraits de la [séance du Grand Conseil du 15/11/2002](http://www.geneve.ch/grandconseil/memorial/data/550201/3/550201_3_partie12.asp)
+#### Projet de loi visant à encourager le développement des structures d'accueil de la petite enfance dans les communes : extraits de la [séance du Grand Conseil du 15/11/2002](https://web.archive.org/web/20050107031644/http://www.geneve.ch/grandconseil/memorial/data/550201/3/550201_3_partie12.asp)
 
 - M. Sami Kanaan (S) les Chambres fédérales ont accepté à une nette majorité de libérer un crédit de 200 millions sur quatre ans, pour soutenir la mise à disposition de nouvelles places pour la petite enfance. Ceci dit, le crédit fédéral est plus large, puisqu'il vise aussi des structures de type parascolaire. Même si 200 millions peuvent paraître beaucoup, c'est en fait relativement peu à l'échelle suisse. Il n'y a pas de critères fixes sur la répartition par canton de cette somme, et la politique qui prévaut apparemment pour l'instant est celle du «premier demandeur, premier servi». Or, nous avons calculé que si l'on appliquait un critère de quota de population, le canton de **Genève aurait éventuellement droit à trois millions par an, ce qui serait insignifiant par rapport aux besoins réels**, d'où notre souhait d'impliquer aussi le canton.
 - Mme Ariane Wisard-Blum (Ve). près de 10% des moins de cinq ans sont élevés par un seul parent.
 - Mme Janine Hagmann (L). La pensée unique, c'est un peu ce qui ressort de ce projet de loi, qui dit que la seule solution possible, ce sont les crèches. Non ! Il y a beaucoup de parents qui ont envie d'élever leurs enfants jusqu'à l'âge de la scolarité obligatoire, ceux qui le peuvent le font. Il existe d'autres possibilités. Les associations telles que les mamans de jour ont un énorme succès.(...). Il faut instaurer des communautés de communes, qui permettent de faire des choses ensemble, puisqu'une crèche ne peut être réalisée que s'il y a un bassin suffisant d'enfants. Ce serait ridicule de faire des crèches dans toutes les communes.
 - M. Gilbert Catelain (UDC). **une place de crèche revient à 143 F par jour**. (...) On peut raisonnablement se demander ce qui est meilleur marché pour l'Etat et ce qui va dans l'intérêt de la famille: est-ce payer 3000 F de subvention nette pour garder des enfants que les parents devront amener le matin à la crèche et récupérer le soir, ou ne vaut-il pas mieux donner cela sous forme d'allocation à la mère, qui pourra rester à la maison, s'occuper de ses enfants et les éduquer ? (Brouhaha et protestations. Le président agite la cloche.) On doit laisser le libre choix ! Si on laisse le choix à la mère au foyer ou au père au foyer soit de placer les enfants en crèche, soit de les garder à la maison, il est fort probable que le pourcentage exposé dans les considérants de ce projet de loi ne sera plus de 60%, mais peut-être de 20%.
 
-#### Barème du tarif de participation des parents, [extrait de cette page](http://www.cagi.ch/fr/Creches_Garderies_Mamans_jour_Geneve.htm)
+#### Barème du tarif de participation des parents, [extrait de cette page](https://web.archive.org/web/20060317235303/http://www.cagi.ch/fr/Creches_Garderies_Mamans_jour_Geneve.htm)
 
 Tarifs: Les barèmes sont établis en fonction du revenu du groupe familial. Si les deux conjoints travaillent, les salaires sont cumulés et, le cas échéant, le barème différencie en fonction de la proportion du revenu qui est imposable et non imposable.
 
@@ -64,8 +64,8 @@ Tarifs: Les barèmes sont établis en fonction du revenu du groupe familial. Si 
 
 ### Référendum
 
-- [Article sur le référendum, Tribune de Genève du 23 mai](http://www.tdg.ch/tghome/toute_l_info_test/geneve_en_direct_nv/satigny__23_05_.html)
+- [Article sur le référendum, Tribune de Genève du 23 mai](https://web.archive.org/web/20060524/http://www.tdg.ch/tghome/toute_l_info_test/geneve_en_direct_nv/satigny__23_05_.html)
 
 ### Autres liens
 
-- [http://www.amalthee.ch](http://www.amalthee.ch) : conseil en création de crèches
+- [http://www.amalthee.ch](https://web.archive.org/web/20060310233334/http://www.amalthee.ch) : conseil en création de crèches

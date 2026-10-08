@@ -11,6 +11,6 @@ coverImage: ./images/qimg-d5d130646220f94aeceebdd158c7d9d1.jpg
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Quelles-sont-les-meilleures-montres-squelettes-pour-les-petits-budgets/answer/Dr-Goulu)*
 
-[BODY & SOUL - YAS100G - Swatch® Suisse](https://www.swatch.com/fr-ch/body-amp-soul-yas100g/YAS100G.html)
+[BODY & SOUL - YAS100G - Swatch® Suisse](https://web.archive.org/web/20210927/https://www.swatch.com/fr-ch/body-amp-soul-yas100g/YAS100G.html)
 
 ![](./images/qimg-d5d130646220f94aeceebdd158c7d9d1.jpg)

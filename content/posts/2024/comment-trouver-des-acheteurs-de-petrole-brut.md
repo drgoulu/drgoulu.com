@@ -15,4 +15,4 @@ coverImage: ./images/quora.png
 
 [Trafigura](w:): +41 22 594 69 00
 
-Je ne prends que 1% de commission, payable à [paypal-arobase-goulu.net](http://paypal-arobase-goulu.net) merci !
+Je ne prends que 1% de commission, payable à [paypal-arobase-goulu.net](https://web.archive.org/web/20240329/http://paypal-arobase-goulu.net) merci !

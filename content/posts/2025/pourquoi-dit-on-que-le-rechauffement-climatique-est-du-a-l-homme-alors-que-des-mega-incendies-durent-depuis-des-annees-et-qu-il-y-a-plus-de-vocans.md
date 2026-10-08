@@ -20,7 +20,7 @@ coverImage: ./images/quora.png
 >
 > ([Source](https://ctif.org/fr/news/les-incendies-de-foret-ont-un-impact-de-plus-en-plus-important-sur-les-emissions-de-co2))
 
-- Où avez vous vu qu'il y a plus de volcans ? Ce serait plutôt une "bonne" nouvelle parce que les éruptions ne dégagent que très peu de CO2 (1% des émissions humaines) , mais beaucoup de SO2 et de cendres qui ont un effet refroidissant, très visible sur les mesures dans les années qui suivent les grosses éruptions. [(Source)](https://fr.euronews.com/green/2022/03/07/volcans-et-changement-climatique-les-deux-sont-ils-lies)
+- Où avez vous vu qu'il y a plus de volcans ? Ce serait plutôt une "bonne" nouvelle parce que les éruptions ne dégagent que très peu de CO2 (1% des émissions humaines) , mais beaucoup de SO2 et de cendres qui ont un effet refroidissant, très visible sur les mesures dans les années qui suivent les grosses éruptions. [(Source)](https://web.archive.org/web/20250722040109/https://fr.euronews.com/green/2022/03/07/volcans-et-changement-climatique-les-deux-sont-ils-lies)
 
 Donc en gros, on dit que ce sont les émissions humaines qui sont responsable du réchauffement actuel parce que TOUTES les données montrent qu'il ne PEUT CORRESPONDRE qu'à ça, parce qu'après étude approfondie de TOUTES les autres hypothèses on s'est aperçus qu'AUCUNE autre ne correspond à ça.
 

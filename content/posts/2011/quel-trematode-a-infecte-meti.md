@@ -22,8 +22,8 @@ Il est relativement facile de trouver des documents sur les risques de METI et l
 Mais pour trouver des références sur le trématode illustré dans le cartoon, il faut chercher plus. Le terme "[cercaria](w:Cercaire)" qu'on y trouve correspond à une étape du cycle de vie des trématodes en général. Ce n'est qu'après avoir cherché "trématode poisson cerveau comportement" dans tous les sens que je suis tombé sur un cours de parasitologie [[1]](#ref-1) où sont mentionnés plusieurs trématodes qui "manipulent" le poisson en le rendant plus vulnérable aux prédateurs:
 
 - [Clinostomum marginatum](w:en) produit des taches blanches sur le dos du poisson, ce qui le rend plus visible par les oiseaux
-- [Cainocreadium labracis](http://www.cotebleue.org/caino.html) handicape ses nageoires
-- [Diplostomum spathaceum](http://species.freshwaterlife.org/index/fish-parasites/Digeneaneyefluke/diplostomum-spathaceum.html) attaque les yeux du poisson, qui détecte moins bien l'oiseau qui l'attaque...
+- [Cainocreadium labracis](https://web.archive.org/web/20110919004731/http://www.cotebleue.org/caino.html) handicape ses nageoires
+- [Diplostomum spathaceum](https://web.archive.org/web/20130925041456/http://species.freshwaterlife.org/index/fish-parasites/Digeneaneyefluke/diplostomum-spathaceum.html) attaque les yeux du poisson, qui détecte moins bien l'oiseau qui l'attaque...
 
 Mais celui qui nous intéresse semble être [Euhaplorchis californiensis](w:en) [[1]](#ref-1):
 
@@ -41,4 +41,4 @@ C'est pas une bonne idée pour un bouquin de S.F. ou un épisode de [Fringe](w:)
 
 ### Références:
 
-1. <span id="ref-1"></span>[Claude Combes](w:) "Concepts de base en parasitologie", 2005 [format PowerPoint PPT](http://www.edu.upmc.fr/sdv/desdevises/master_sduee/PDFs/Combes05.ppt)
+1. <span id="ref-1"></span>[Claude Combes](w:) "Concepts de base en parasitologie", 2005 [format PowerPoint PPT](https://web.archive.org/web/20100816174712/http://www.edu.upmc.fr/sdv/desdevises/master_sduee/PDFs/Combes05.ppt)

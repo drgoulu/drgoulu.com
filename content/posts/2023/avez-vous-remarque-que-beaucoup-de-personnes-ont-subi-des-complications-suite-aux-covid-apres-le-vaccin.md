@@ -24,4 +24,4 @@ Je connais aussi quelqu'un qui est mort du Covid-19 à 40 ans, sans comorbidité
 
 Et je connais aussi des publications scientifiques qui démontrent que les vaccins ont épargné au moins 14 millions de morts dans le monde rien que la première année de vaccination
 
-[https://www.thelancet.com/journa...](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00320-6/fulltext)
+[https://www.thelancet.com/journa...](https://web.archive.org/web/20231008000756/https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00320-6/fulltext)

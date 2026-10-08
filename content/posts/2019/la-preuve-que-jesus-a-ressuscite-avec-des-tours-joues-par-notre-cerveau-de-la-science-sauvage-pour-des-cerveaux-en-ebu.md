@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://cafedessciences.quora.com/La-preuve-que-Jésus-a-ressuscité-avec-des-tours-joués-par-notre-cerveau-De-la-science-sauvage-pour-des-cerveaux-en-ébu)*
 
-[http://sproutchlagrenouille.mond...](http://sproutchlagrenouille.mondoblog.org/2019/04/18/jesus-a-ressuscite-pareidolie/)
+[http://sproutchlagrenouille.mond...](https://web.archive.org/web/20190420211533/http://sproutchlagrenouille.mondoblog.org/2019/04/18/jesus-a-ressuscite-pareidolie/)

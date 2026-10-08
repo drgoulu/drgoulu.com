@@ -23,7 +23,7 @@ mais aussi des informaticiens, ingénieurs et autres penseurs. Et tu es si belle
 
 {{< figure src="./images/c9b758484cf57d39e6aa03b044e875c5.jpg" alt="Photo Annie Cavanagh et David McCarthy" caption="Photo Annie Cavanagh et David McCarthy" align="aligncenter" width="600" >}}
 
-Cette image obtenue par microscopie électronique à balayage montre environ 40 microns de la pointe de tes cristaux, en fausses couleurs. Elle vient de remporter un [concours de photographies scientifiques](http://www.wellcomeimageawards.org/#)
+Cette image obtenue par microscopie électronique à balayage montre environ 40 microns de la pointe de tes cristaux, en fausses couleurs. Elle vient de remporter un [concours de photographies scientifiques](https://web.archive.org/web/20120702015031/http://www.wellcomeimageawards.org/#)
 
 Je savais que tu étais une molécule assez simple et qu'on t'appelle aussi théine, mais j'ignorais que tu pouvais cristalliser. J'ai découvert comment le faire sur le [wiki de scienceamusante.net](http://scienceamusante.net/wiki/index.php?title=La_caf%C3%A9ine) et plein d'autres choses intéressantes sur [toi sur wikipedia](w:caféine). Par exemple qu'un café contenant environ 80 milligrammes de toi, je devrais en  boire environ 200 en [quelques heures](w:Caféine#Métabolisme_et_demi-vie) avant que tu ne me tues.
 

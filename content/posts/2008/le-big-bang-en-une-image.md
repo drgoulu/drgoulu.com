@@ -14,7 +14,7 @@ tags:
 coverImage: "./images/9c486ccf069a0f5a94f5f39e0be59d64.jpg"
 ---
 
-Si vous comprenez le très bon anglais, regardez [l'excellente présentation de Brian Cox au TED](http://www.ted.com/talks/brian_cox_on_cern_s_supercollider.html). Ce jeune et enthousiaste physicien du CERN présente le LHC du CERN dans le contexte des interrogations actuelles en physique. A un moment, il montre cette image de nos connaissances actuelles de l'histoire de l'Univers:
+Si vous comprenez le très bon anglais, regardez [l'excellente présentation de Brian Cox au TED](https://web.archive.org/web/20090312053205/http://www.ted.com/talks/brian_cox_on_cern_s_supercollider.html). Ce jeune et enthousiaste physicien du CERN présente le LHC du CERN dans le contexte des interrogations actuelles en physique. A un moment, il montre cette image de nos connaissances actuelles de l'histoire de l'Univers:
 
  [![](./images/9c486ccf069a0f5a94f5f39e0be59d64.jpg) _(cliquez dessus pour accéder au site d'origine, où l'image est disponible en diverses tailles)_](http://map.gsfc.nasa.gov/media/060915/index.html)
 

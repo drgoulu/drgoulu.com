@@ -28,4 +28,4 @@ De ce point de vue, en entrant dans un avion on a effectivement 100x plus de ris
 Références:
 
 1. [discussion sur Crash-Aerien.com](http://www.crash-aerien.aero/forum/viewtopic.php?t=3867)
-2. [Is GA Flying Safer Than Driving?](http://www.meretrix.com/~harry/flying/notes/safetyvsdriving.html) , réflexion incluant l'aviation privée (GA) encore plus risquée..
+2. [Is GA Flying Safer Than Driving?](https://web.archive.org/web/20070708145408/http://www.meretrix.com/~harry/flying/notes/safetyvsdriving.html) , réflexion incluant l'aviation privée (GA) encore plus risquée..

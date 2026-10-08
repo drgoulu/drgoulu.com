@@ -28,7 +28,7 @@ Ou alors il savait que les rats ont proliféré grâce à nous, et sont favoris�
 
 De plus, les [rats de 20kg](w:Hydrochoerus_hydrochaeris), on les bouffe.
 
-[https://sakuisapanda.blogspot.co...](https://sakuisapanda.blogspot.com/2018/12/capybara-meat-recipes.html)
+[https://sakuisapanda.blogspot.co...](https://web.archive.org/web/20210220203830/https://sakuisapanda.blogspot.com/2018/12/capybara-meat-recipes.html)
 
 Bref, c'est doublement, triplement, totalement inexact.
 

@@ -17,7 +17,7 @@ On peut discuter la pertinence de l'attribution des JO à un pays où on facture
 
 C'est l'oeuvre de [Herzog et De Meuron](w:Herzog_&_de_Meuron), un duo d'architectes suisses qui ont conçu et réalisé des bâtiments spectaculaires dans le monde entier ces dernières années.
 
-Vu l' excellent film "[Le Nid d'Oiseau. Herzog et de Meuron en Chine](http://www.tsr.ch/docs/)" de C: Schaub et M. Schindhelm sur ce travail, dont voici le lancement :
+Vu l' excellent film "[Le Nid d'Oiseau. Herzog et de Meuron en Chine](https://web.archive.org/web/20100504203419/http://www.tsr.ch/docs/)" de C: Schaub et M. Schindhelm sur ce travail, dont voici le lancement :
 
 {{< youtube id="jIYNJz6y3CU" >}}
 

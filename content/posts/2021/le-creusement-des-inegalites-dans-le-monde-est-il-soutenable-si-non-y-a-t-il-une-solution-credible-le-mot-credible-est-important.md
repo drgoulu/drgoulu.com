@@ -24,7 +24,7 @@ Au niveau du monde entier, **les inégalités se réduisent**par le fait que les
 
 en 2006, la courbe des revenus dans le monde est beaucoup plus "normale" (en échelle log…) qu'en 1970, et l'[indice de Gini](w:Coefficient_de_Gini) qui est la meilleure mesure des inégalités est très clairement en baisse, ainsi que la pauvreté.
 
-(source : [Parametric estimations of the world distribution of income](https://voxeu.org/article/parametric-estimations-world-distribution-income) )
+(source : [Parametric estimations of the world distribution of income](https://web.archive.org/web/20210423210309/https://voxeu.org/article/parametric-estimations-world-distribution-income) )
 
 Cependant il est vrai que les inégalités intérieures ont augmenté dans pas mal de pays, mais ce n'est pas le cas partout, et ça varie au cours du temps. En 2009 j'avais obtenu ce graphique sur la base des données de l'OCDE[[1]](#pfiKk) :
 
@@ -36,7 +36,7 @@ Mais dans d'autres pays, et pas des moindres comme la Chine, les inégalités so
 
 ![](./images/qimg-ba3df8343a0c95cf4284fe05be73ba3e.jpg)
 
-Source : [China's income inequality in the global context](https://www.sciencedirect.com/science/article/pii/S2213020915000518)
+Source : [China's income inequality in the global context](https://web.archive.org/web/20210417042452/https://www.sciencedirect.com/science/article/pii/S2213020915000518)
 
 Plus sur ce sujet :
 

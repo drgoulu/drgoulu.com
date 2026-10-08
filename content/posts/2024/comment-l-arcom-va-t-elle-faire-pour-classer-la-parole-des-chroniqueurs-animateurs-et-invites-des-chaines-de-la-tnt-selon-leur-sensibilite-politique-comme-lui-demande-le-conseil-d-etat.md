@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 En Suisse ça serait super facile, il suffit de répondre au
 
-[https://digitalmonitor23.smartvo...](https://digitalmonitor23.smartvote.ch/fr/home?locale=fr_CH)
+[https://digitalmonitor23.smartvo...](https://web.archive.org/web/20250211075414/https://digitalmonitor23.smartvote.ch/fr/home?locale=fr_CH)
 
 de smartvote. Je pense que la plupart des journalistes ici l'ont fait pour eux même.
 

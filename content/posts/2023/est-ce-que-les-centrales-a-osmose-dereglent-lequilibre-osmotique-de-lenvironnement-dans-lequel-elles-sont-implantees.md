@@ -15,4 +15,4 @@ Toutes les activités humaines "déréglent" l'environnement (qui n'est pas rég
 
 Les [centrales osmotiques](w:Énergie_osmotique) modifient la circulation de l'eau et absorbent de l'énergie d'estuaires, c'est un des facteurs qui limite le développement de cette énergie renouvelable.
 
-[https://www.researchgate.net/pub...](https://www.researchgate.net/publication/303159993_Osmotic_power_plants_Potential_analysis_and_site_criteria)
+[https://www.researchgate.net/pub...](https://web.archive.org/web/20230419204616/https://www.researchgate.net/publication/303159993_Osmotic_power_plants_Potential_analysis_and_site_criteria)

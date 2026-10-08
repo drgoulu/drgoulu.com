@@ -22,4 +22,4 @@ Le mystère est plutôt pourquoi les 3 quarks qui composent le proton ont des [N
 
 A ma connaissance, il n'y a pas d'autres réponses actuellement que celles du type "si ça n'était pas comme ça, tout serait très différent", voir
 
-[https://physics.stackexchange.co...](https://physics.stackexchange.com/questions/21753/why-do-electron-and-proton-have-the-same-but-opposite-electric-charge)
+[https://physics.stackexchange.co...](https://web.archive.org/web/20210506203329/https://physics.stackexchange.com/questions/21753/why-do-electron-and-proton-have-the-same-but-opposite-electric-charge)

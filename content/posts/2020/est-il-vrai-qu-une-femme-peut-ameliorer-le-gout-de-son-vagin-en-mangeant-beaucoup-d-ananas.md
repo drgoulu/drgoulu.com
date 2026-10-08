@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 Mon idole Jacques Bergier qualifiait une question de "type même de la question idiote" lorsqu'il n'en avait pas la réponse.
 
-Aujourd'hui grâce à internet on trouve des pages comme [Can Pineapple Really Change the Way Your Vagina Tastes?](https://www.health.com/sex/does-pineapple-make-you-taste-better-vagina) qui répondent même aux questions idiotes:
+Aujourd'hui grâce à internet on trouve des pages comme [Can Pineapple Really Change the Way Your Vagina Tastes?](https://web.archive.org/web/20200215071929/https://www.health.com/sex/does-pineapple-make-you-taste-better-vagina) qui répondent même aux questions idiotes:
 
 Apparemment oui, mais comme aucune étude scientifique rigoureuse n'a été menée sur le sujet, on ne sait pas si l'ananas a un effet particulier ou si on obtient le même résultat avec d'autres fruits, voire juste du sucre.
 

@@ -19,4 +19,4 @@ Mais parmi les masses qui se déplacent, il y a la [Dérive des continents](w:),
 
 Notes de bas de page
 
-[[1]](#cite-GgoZK)[What drives 20th century polar motion?](https://www.sciencedirect.com/science/article/abs/pii/S0012821X18305314?via=ihub)
+[[1]](#cite-GgoZK)[What drives 20th century polar motion?](https://web.archive.org/web/20220805183647/https://www.sciencedirect.com/science/article/abs/pii/S0012821X18305314?via=ihub)

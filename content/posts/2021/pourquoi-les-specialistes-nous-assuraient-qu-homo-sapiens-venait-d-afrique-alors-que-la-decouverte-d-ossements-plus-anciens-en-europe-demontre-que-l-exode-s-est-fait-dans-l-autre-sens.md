@@ -16,7 +16,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-les-sp%C3%A9cialistes-nous-assuraient-quhomo-sapiens-venait-dAfrique-alors-que-la-d%C3%A9couverte-dossements-plus-anciens-en-Europe-d%C3%A9montre-que-lexode-sest-fait-dans-lautre-sens/answer/Dr-Goulu)*
 
-L'[Origine africaine de l'Homme moderne](w:)fait l'objet de controverses depuis longtemps, voir [Des doutes sur l'origine africaine de l'homme](https://www.lesechos.fr/idees-debats/sciences-prospective/des-doutes-sur-lorigine-africaine-de-lhomme-139712) par exemple.
+L'[Origine africaine de l'Homme moderne](w:)fait l'objet de controverses depuis longtemps, voir [Des doutes sur l'origine africaine de l'homme](https://web.archive.org/web/20201209203951/https://www.lesechos.fr/idees-debats/sciences-prospective/des-doutes-sur-lorigine-africaine-de-lhomme-139712) par exemple.
 
 Chaque fois qu'on trouve un petit bout d'os quelque part, le scénario se corrige et se raffine. C'est comme ça que marche la science.
 

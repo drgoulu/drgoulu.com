@@ -14,7 +14,7 @@ coverImage: "./images/9c98d62d84360b1b799664736209bd141.jpg"
 
 {{< figure src="./images/9c98d62d84360b1b799664736209bd14.jpg" >}}
 
-La spectaculaire [mise à l'eau d'Alinghi 5](http://www.20min.ch/ro/news/romandie/story/16004125) par une "grue volante" [Mil MI-26](w:) est l'occasion de parler un peu de ces merveilles technologiques.
+La spectaculaire [mise à l'eau d'Alinghi 5](https://web.archive.org/web/20090709060742/http://www.20min.ch/ro/news/romandie/story/16004125) par une "grue volante" [Mil MI-26](w:) est l'occasion de parler un peu de ces merveilles technologiques.
 
 Pour le bateau, visitez le [blog Foilers!](http://foils.wordpress.com/2009/07/06/alinghi-avec-ou-sans-foils/) Pour l'hélico, lisez la suite.
 
@@ -38,7 +38,7 @@ Ceci explique pourquoi les avions à décollage vertical n'ont que peu de succè
 
 Cependant, avec un grand rotor l'extrémité des pales se déplace très vite. Les pales de 16m du MI-26 atteindraient la vitesse du son (env 300 m/s) si le rotor tournait à 3 tours par seconde. Le problème est encore pire lorsque l'hélicoptère avance : d'un côté de l'hélicoptère la vitesse de la pale s'ajoute à celle du déplacement, et de l'autre côté la vitesse de déplacement se soustrait à la vitesse de la pale. Ce phénomène limite la vitesse des hélicoptères autour de 300 km/h, car à 500 km/h une pale irait à la vitesse du son lorsque la pale opposée serait à l'arrêt par rapport à l'air, ne générant aucune portance ...
 
-{{< figure src="./images/43b464f6242883e850223e466c52434b.jpg" alt="Interaction Pale-Tourbillon : visualisation du coefficient de pression sur les pales et de la vorticite dans le sillage de la pale reculante" caption="Simulation numérique d'interaction Pale-Tourbillon, document ONERA (2)" link="http://www.onera.fr/daap/aerodynamique-helicoptere/numerique.php" align="aligncenter" width="380" >}}
+{{< figure src="./images/43b464f6242883e850223e466c52434b.jpg" alt="Interaction Pale-Tourbillon : visualisation du coefficient de pression sur les pales et de la vorticite dans le sillage de la pale reculante" caption="Simulation numérique d'interaction Pale-Tourbillon, document ONERA (2)" link="https://web.archive.org/web/20090710040344/http://www.onera.fr/daap/aerodynamique-helicoptere/numerique.php" align="aligncenter" width="380" >}}
 
 C'est pourquoi les rotors des hélicoptères tournent à une vitesse constante. Le pilote ne contrôle pas la vitesse du rotor, mais uniquement l'incidence des pales via un [plateau cyclique](w:), l'un des plus élégants systèmes mécaniques que l'on puisse voir.
 
@@ -46,6 +46,6 @@ Condamné à tourner très lentement, le rotor des grands hélicoptères comport
 
 ### Références:
 
-1. <span id="ref-1"></span>Ewald HUNSINGER - Michaël OFFERLIN - Matthieu BARREAU "[L'hélice La génération de la force de la propulsion.](http://inter.action.free.fr/publications/helices/helice.html)" (très intéressant)
-2. <span id="ref-2"></span>"[Aérodynamique des hélicoptères](http://www.onera.fr/fr/daap/aerodynamique-helicopteres)" sur le site de l'ONERA (très joli)
+1. <span id="ref-1"></span>Ewald HUNSINGER - Michaël OFFERLIN - Matthieu BARREAU "[L'hélice La génération de la force de la propulsion.](https://web.archive.org/web/20090620094138/http://inter.action.free.fr/publications/helices/helice.html)" (très intéressant)
+2. <span id="ref-2"></span>"[Aérodynamique des hélicoptères](https://web.archive.org/web/20160229234911/http://www.onera.fr/fr/daap/aerodynamique-helicopteres)" sur le site de l'ONERA (très joli)
 3. <span id="ref-3"></span>[discussion "Force d'une hélice" sur Futura Sciences](http://forums.futura-sciences.com/astronautique/147694-dune-helice.html) (très pratique)

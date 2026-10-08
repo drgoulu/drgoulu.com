@@ -23,7 +23,7 @@ De plus, je décerne à Icosien le titre envié de "plus beau jeu de graphes du 
 
 - Le design de Licoti ([un de plus](/2010/06/06/le-systeme-solaire-selon-licoti/)) est vraiment réussi. Bravo !
 
-- L'interface utilisateur est tout simplement géniale. Quand Neamar avait pondu un [petit article sur le sujet](http://blog.neamar.fr/component/content/article/18-algorithmie-et-optimisation/119-mouvement-intuitif-graphe-souris), je n'avais pas compris à quel point son système est simple et efficace.  Je réalise maintenant que sans ça, ce beau jeu aurait été injouable.
+- L'interface utilisateur est tout simplement géniale. Quand Neamar avait pondu un [petit article sur le sujet](https://web.archive.org/web/20101130153810/http://blog.neamar.fr/component/content/article/18-algorithmie-et-optimisation/119-mouvement-intuitif-graphe-souris), je n'avais pas compris à quel point son système est simple et efficace.  Je réalise maintenant que sans ça, ce beau jeu aurait été injouable.
 
 Enfin, mentionnons qu'Icosien peut être instructif. "Peut" car on n'est pas obligé de connaitre la théorie des graphes pour y jouer, mais qu'y jouer peut inciter à la lecture des nombreuses informations figurant sur la page du jeu, et  suivre les liens conduit vers pleins d'infos intéressantes.
 
@@ -31,5 +31,5 @@ Enfin, mentionnons qu'Icosien peut être instructif. "Peut" car on n'est pas obl
 
 - le "[making of](http://blog.neamar.fr/component/content/article/15-as3/137-images-icosien)" (spoiler alert ! cetta page contient la solution de certains tableaux, dont le 19, argh! )
 - le [code source](http://neamar.fr/Res/Icosien/Code.php) en Action Script 3
-- la version 1857 de l' "[Icosian Game](http://puzzlemuseum.com/month/picm02/200207icosian.htm)" par Hamilton himself, en vrai bois d'arbre
+- la version 1857 de l' "[Icosian Game](https://web.archive.org/web/20100128044455/http://puzzlemuseum.com/month/picm02/200207icosian.htm)" par Hamilton himself, en vrai bois d'arbre
 - "[Icosian Game](http://mathworld.wolfram.com/IcosianGame.html)" sur MathWorld

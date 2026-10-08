@@ -17,6 +17,6 @@ Le rayon de l astre où la gravitation est maximale dépend de la densité des c
 
 Pour la Terre on pense que c est environ 2000km sous la surface, à la jonction du manteau et du noyau
 
-[https://physics.stackexchange.co...](https://physics.stackexchange.com/a/132522)
+[https://physics.stackexchange.co...](https://web.archive.org/web/20211010133956/https://physics.stackexchange.com/a/132522)
 
 Pour les étoiles comme le Soleil, je n'ai pas trouvé de référence…

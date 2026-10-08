@@ -26,4 +26,4 @@ Notes de bas de page
 
 [[1]](#cite-SJgoR)[Selon une nouvelle étude de l'UNODC, l'homicide tue beaucoup plus de personnes que les conflits armés](https://www.unodc.org/unodc/fr/frontpage/2019/July/homicide-kills-far-more-people-than-armed-conflict--says-new-unodc-study.html)
 
-[[2]](#cite-dcORi)[État de santé - Décès dus au cancer - OCDE Data](https://data.oecd.org/fr/healthstat/deces-dus-au-cancer.htm)
+[[2]](#cite-dcORi)[État de santé - Décès dus au cancer - OCDE Data](https://web.archive.org/web/20191014043819/https://data.oecd.org/fr/healthstat/deces-dus-au-cancer.htm)

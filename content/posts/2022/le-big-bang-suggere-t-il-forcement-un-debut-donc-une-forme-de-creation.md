@@ -30,7 +30,7 @@ Si vous représentez l'[Histoire de l'Univers](w:)sur une échelle de temps loga
 
 ![](./images/qimg-6c1e5b92b9578231f7641d96f9152c32.jpg)
 
-(source [Lecture 32: The Early Universe](https://sites.ualberta.ca/~pogosyan/teaching/ASTRO_122/lect32/lecture32.html) )
+(source [Lecture 32: The Early Universe](https://web.archive.org/web/20220630121928/https://sites.ualberta.ca/~pogosyan/teaching/ASTRO_122/lect32/lecture32.html) )
 
 qui montre qu'il s'est passé beaucoup plus de choses (= interactions) "pendant" le Big Bang que depuis jusqu'à maintenant, et que l'expansion de l'Univers actuelle n'est "que" la continuation de ce processus.
 

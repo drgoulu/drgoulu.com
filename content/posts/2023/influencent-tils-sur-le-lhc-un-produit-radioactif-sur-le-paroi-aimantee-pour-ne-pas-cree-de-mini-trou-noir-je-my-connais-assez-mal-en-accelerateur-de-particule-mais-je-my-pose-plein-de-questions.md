@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 [Grand collisionneur de hadrons](w:Grand_collisionneur_de_hadrons)
 
-[https://home.cern/fr/resources/f...](https://home.cern/fr/resources/faqs/facts-and-figures-about-lhc)
+[https://home.cern/fr/resources/f...](https://web.archive.org/web/20231001043142/https://home.cern/fr/resources/faqs/facts-and-figures-about-lhc)
 
 après vous saurez:
 
@@ -27,4 +27,4 @@ après vous saurez:
 3. qu'il n'y a pas de "Mini trou noir" naturel et absolument aucune chance d'en produire un artificiel. Helas.
 4. que ni un aimant surpuissant ni toutes les bombes atomiques du monde n'auraient le moindre effet sur un trou noir.
 
-[https://home.cern/fr/resources/f...](https://home.cern/fr/resources/faqs/will-cern-generate-black-hole)
+[https://home.cern/fr/resources/f...](https://web.archive.org/web/20230815044328/https://home.cern/fr/resources/faqs/will-cern-generate-black-hole)

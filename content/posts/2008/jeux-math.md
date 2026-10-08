@@ -12,9 +12,9 @@ tags:
 coverImage: "./images/dossier_59_couv1.jpg"
 ---
 
-{{< figure src="./images/dossier_59_couv1.jpg" alt="(cliquer pour le sommaire)" caption="(cliquer pour le sommaire)" link="http://www.pourlascience.fr/ewb_pages/e/espace-numerique-detail.php?art_id=18701&num=59" width="220" >}}
+{{< figure src="./images/dossier_59_couv1.jpg" alt="(cliquer pour le sommaire)" caption="(cliquer pour le sommaire)" link="https://web.archive.org/web/20120211165735/http://www.pourlascience.fr/ewb_pages/e/espace-numerique-detail.php?art_id=18701&num=59" width="220" >}}
 
-le [Dossier Pour la Science "Jeux math'"](http://www.pourlascience.fr/ewb_pages/e/espace-numerique-detail.php?art_id=18701&num=59) de ce mois regorge d'articles passionnants, dont plusieurs sur des sujets abordés précédemment sur Dr. Goulu.
+le [Dossier Pour la Science "Jeux math'"](https://web.archive.org/web/20120211165735/http://www.pourlascience.fr/ewb_pages/e/espace-numerique-detail.php?art_id=18701&num=59) de ce mois regorge d'articles passionnants, dont plusieurs sur des sujets abordés précédemment sur Dr. Goulu.
 
 Alexandre Dewdney réédite un ancien article qui présente des "calculateurs analogiques" théoriquement capables de surclasser les plus puissants ordinateurs sur des problèmes spécifiques. Par exemple, les meilleurs algorithmes sont capables de trier N données en un temps proportionnel à N.log(N), log(N) étant le logarithme base 2 de N. Ainsi, pour trier 1000 nombres, il faut faire environ 10'000 comparaisons, alors qu'en utilisant 1000 spaghettis comme indiqué [ici sous "quand les spaghettis frapperont"](/2006/10/18/chapitre-4-algorithmes-et-complexite/) 2x1000+1 opérations suffisent, soit un temps proportionnel à N.
 

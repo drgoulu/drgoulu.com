@@ -17,7 +17,7 @@ Oui, nous vivons dans un monde naturellement radioactif[[1]](#TigMd)
 >
 >
 >
-> ([Radioactivité du corps humain](https://www.laradioactivite.com/site/pages/expositionsinternes.htm) )
+> ([Radioactivité du corps humain](https://web.archive.org/web/20220301230603/https://www.laradioactivite.com/site/pages/expositionsinternes.htm) )
 
 il y a aussi un peu d'uranium, de thorium et de leurs produits de désintégration comme le radon que nous ingérons ou respirons
 
@@ -25,7 +25,7 @@ il y a aussi un peu d'uranium, de thorium et de leurs produits de désintégrati
 >
 >
 >
-> ([Radioactivité du corps humain](https://www.laradioactivite.com/site/pages/expositionsinternes.htm) )
+> ([Radioactivité du corps humain](https://web.archive.org/web/20220301230603/https://www.laradioactivite.com/site/pages/expositionsinternes.htm) )
 
 Une bonne partie des radiations produites sont des électrons (désintégrations beta) qui restent à l'intérieur du corps, mais il y a aussi émission de rayons gamma détectables à l'extérieur du corps.
 

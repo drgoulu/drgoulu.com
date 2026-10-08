@@ -17,7 +17,7 @@ Le fameux [graphique qui vaut 10000 mots](/2011/11/13/climat-le-graphique/#.XtDM
 
 Mais contrairement aux idées simplistes de [Jerome Gontier](https://fr.quora.com/profile/Jerome-Gontier) et autres climatosceptiques, ceci n'empêche pas le [Forçage radiatif](w:)d'augmenter si on émet plus de CO2, mais le mécanisme est plus subtil.
 
-C'est expliqué assez simplement sur [Effet de serre et réchauffement climatique](https://global-climat.com/effet-de-serre-et-rechauffement-climatique/) sur global-climat.com:
+C'est expliqué assez simplement sur [Effet de serre et réchauffement climatique](https://web.archive.org/web/20200611182342/https://global-climat.com/effet-de-serre-et-rechauffement-climatique/) sur global-climat.com:
 
 > Au fur et à mesure que le rayonnement infrarouge s’élève couche par couche dans l’atmosphère, le dioxyde de carbone, la vapeur d’eau ou d’autres gaz à effet de serre absorbent un peu d’énergie. Chaque couche d’air rayonne une partie de l’énergie qu’elle a absorbée vers le sol et une partie vers les couches supérieures. Plus haut, l’atmosphère devient de plus en plus mince. Finalement, l’énergie atteint une couche si mince que le rayonnement peut s’échapper vers l’espace.
 >
@@ -29,4 +29,4 @@ C'est expliqué assez simplement sur [Effet de serre et réchauffement climatiqu
 
 (source [https://www.skepticalscience.com...](https://www.skepticalscience.com/saturated-co2-effect.htm) )
 
-L'origine de l'argument climatosceptique sur la saturation du CO2 est un article d'un certain [Ferenc Miskolczi, qui a été réfuté de multiples manières](http://www.realclimate.org/wiki/index.php?title=Ferenc_Miskolczi) depuis.
+L'origine de l'argument climatosceptique sur la saturation du CO2 est un article d'un certain [Ferenc Miskolczi, qui a été réfuté de multiples manières](https://web.archive.org/web/20200618180514/http://www.realclimate.org/wiki/index.php?title=Ferenc_Miskolczi) depuis.

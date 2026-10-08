@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Ça dépend laquelle. La Wikipédia russe est sous le contrôle total de Poutine, donc tout ce que vous y trouvez est de la propagande russe.
 
-[https://korii.slate.fr/et-caeter...](https://korii.slate.fr/et-caetera/russie-clone-wikipedia-censure-passages-genants-bloque-acces-original-ruviki-encyclopedie-propagande-kremlin-poutine-internet)
+[https://korii.slate.fr/et-caeter...](https://web.archive.org/web/20241222141428/https://korii.slate.fr/et-caetera/russie-clone-wikipedia-censure-passages-genants-bloque-acces-original-ruviki-encyclopedie-propagande-kremlin-poutine-internet)
 
 Les autres sites sont sous le contrôle de la [Fondation Wikimédia](w:), de ses modérateurs professionnels, des modérateurs bénévoles de chaque fondation nationale ou régionale, pour la France :
 

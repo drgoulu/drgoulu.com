@@ -33,6 +33,6 @@ D'autre part, une équipe a récemment mesuré les vitesses de nombreuses étoil
 ### Références:
 
 1. <span id="ref-1"></span>"[Gros plan sur le centre galactique](http://www.techno-science.net/?onglet=news&news=6170)", 9 janvier 2009, techno-Science.net
-2. <span id="ref-2"></span>Francis Reddy "[Astronomers update our galaxy's structure](http://www.astronomy.com/en/sitecore/content/Home/News-Observing/News/2008/06/Astronomers%20update%20our%20galaxys%20structure.aspx)", 4 juin 2008
+2. <span id="ref-2"></span>Francis Reddy "[Astronomers update our galaxy's structure](https://web.archive.org/web/20110916074043/http://www.astronomy.com/en/sitecore/content/Home/News-Observing/News/2008/06/Astronomers%20update%20our%20galaxys%20structure.aspx)", 4 juin 2008
 3. <span id="ref-3"></span>Englmaier P., Pohl M., Bissantz N. "[The Milky Way Spiral Arm Pattern](http://de.arxiv.org/abs/0812.3491)", in: “Tumbling, Twisting, and Winding Galaxies: Pattern Speeds along the Hubble Sequence”, E. M. Corsini and V. P. Debattista (eds.), Memorie della Società Astronomica Italiana, 2008
-4. <span id="ref-4"></span>"[Milky Way a swifter spinner and more massive, new measurements show](http://www.astronomy.com/en/sitecore/content/Home/News-Observing/News/2009/01/Milky%20Way%20a%20swifter%20spinner%20and%20more%20massive%20new%20measurements%20show.aspx)", 5 janvier 2009
+4. <span id="ref-4"></span>"[Milky Way a swifter spinner and more massive, new measurements show](https://web.archive.org/web/20110916210507/http://www.astronomy.com/en/sitecore/content/Home/News-Observing/News/2009/01/Milky%20Way%20a%20swifter%20spinner%20and%20more%20massive%20new%20measurements%20show.aspx)", 5 janvier 2009

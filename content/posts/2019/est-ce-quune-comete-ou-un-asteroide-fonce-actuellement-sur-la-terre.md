@@ -13,6 +13,6 @@ coverImage: ./images/quora.png
 
 Non
 
-[Sentry: Earth Impact Monitoring](https://cneos.jpl.nasa.gov/sentry/)
+[Sentry: Earth Impact Monitoring](https://web.archive.org/web/20190911035935/https://cneos.jpl.nasa.gov/sentry/)
 
-[ESA - Risk List](http://neo.ssa.esa.int/risk-page)
+[ESA - Risk List](https://web.archive.org/web/20190910032450/http://neo.ssa.esa.int/risk-page)

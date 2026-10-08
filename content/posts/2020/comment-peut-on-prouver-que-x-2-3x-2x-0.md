@@ -15,4 +15,4 @@ coverImage: ./images/quora.png
 2. on cherche ses minima en calculant sa dérivée
 3. on trouve qu'il y en a un en (0,0) et un en (1,0), donc aucun entre deux qui pourrait être plus bas
 
-On peut faire tout ça d'un coup en cliquant sur [x^2 - 3x + 2√x - Wolfram|Alpha](https://www.wolframalpha.com/input/?i=x^2+-+3x+++2√x)
+On peut faire tout ça d'un coup en cliquant sur [x^2 - 3x + 2√x - Wolfram|Alpha](https://web.archive.org/web/20200403/https://www.wolframalpha.com/input/?i=x^2+-+3x+++2√x)

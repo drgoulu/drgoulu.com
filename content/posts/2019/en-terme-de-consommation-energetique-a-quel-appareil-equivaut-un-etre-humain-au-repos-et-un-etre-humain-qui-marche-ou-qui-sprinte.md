@@ -32,7 +32,7 @@ Notes de bas de page
 
 [[2]](#cite-tLIcY)[La consommation électrique des téléviseurs](https://www.happ-e.fr/actualites-electricite/economies-electricite/economies-energie/consommation-electrique-televiseurs)
 
-[[3]](#cite-zbVno)[Évaluer la consommation des ordinateurs](https://www.energieplus-lesite.be/index.php?id=11455#c19156)
+[[3]](#cite-zbVno)[Évaluer la consommation des ordinateurs](https://web.archive.org/web/20161114020646/https://www.energieplus-lesite.be/index.php?id=11455#c19156)
 
 [[4]](#cite-yvmfD)[Des chiffres concernant l'énergie en locomotion musculaire.](http://fitnesscar.free.fr/chiffres_propulsion_musculaire.html)
 

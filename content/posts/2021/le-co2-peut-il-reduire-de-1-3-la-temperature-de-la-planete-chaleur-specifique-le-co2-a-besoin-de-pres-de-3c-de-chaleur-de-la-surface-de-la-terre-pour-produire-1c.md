@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Deux minutes après la question de [Roger Dark](https://fr.quora.com/profile/Roger-Dark), un anonyme y répond avec la même totale incompréhension de la physique. Bizarre bizarre…
 
-D'abord, la chaleur spécifique du CO2 (850 J/[K.kg](http://K.kg)) , qui represente 0.4% de l'atmosphère, est inférieure à celle de l'air (1005 à 1030 J/[K.kg](http://K.kg)).
+D'abord, la chaleur spécifique du CO2 (850 J/[K.kg](https://web.archive.org/web/20141217170458/http://K.kg)) , qui represente 0.4% de l'atmosphère, est inférieure à celle de l'air (1005 à 1030 J/[K.kg](https://web.archive.org/web/20141217170458/http://K.kg)).
 
 Ensuite, le CO2 est produit très chaud lors de la combustion de charbon, gaz ou pétrole. Il se refroidit dans l'atmosphère, mais ce n'est pas du tout ça qui produit l'effet de serre.
 

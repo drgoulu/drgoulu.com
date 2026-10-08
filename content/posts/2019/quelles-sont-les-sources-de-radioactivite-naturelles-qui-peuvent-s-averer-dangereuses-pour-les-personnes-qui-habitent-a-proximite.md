@@ -38,9 +38,9 @@ Notes de bas de page
 
 [[1]](#cite-WfldT)[https://www.irsn.fr/FR/connaissa...](https://www.irsn.fr/FR/connaissances/Environnement/expertises-radioactivite-naturelle/radon/Pages/5-cartographie-potentiel-radon-commune.aspx#.XfjCKVdKh5E)
 
-[[2]](#cite-jGMMR)[Carte du radon en Suisse](https://www.bag.admin.ch/bag/fr/home/gesund-leben/umwelt-und-gesundheit/strahlung-radioaktivitaet-schall/radon/radongebiete-ch.html)
+[[2]](#cite-jGMMR)[Carte du radon en Suisse](https://web.archive.org/web/20191016015228/https://www.bag.admin.ch/bag/fr/home/gesund-leben/umwelt-und-gesundheit/strahlung-radioaktivitaet-schall/radon/radongebiete-ch.html)
 
-[[3]](#cite-Ukucj)[https://www.irsn.fr/FR/connaissa...](https://www.irsn.fr/FR/connaissances/Sante/exposition-population/exposition-population-france-metropole/Pages/1-Exposition-population-France-moyenne-et-variabilite.aspx#.XfjDRFdKh5E)
+[[3]](#cite-Ukucj)[https://www.irsn.fr/FR/connaissa...](https://web.archive.org/web/20191021223147/https://www.irsn.fr/FR/connaissances/Sante/exposition-population/exposition-population-france-metropole/Pages/1-Exposition-population-France-moyenne-et-variabilite.aspx#.XfjDRFdKh5E)
 
 [[4]](#cite-ussvv)[https://www.irsn.fr/FR/connaissa...](https://www.irsn.fr/FR/connaissances/faq/Pages/Quelle_est_la_dose_de_radioactivite_dangereuse_pour_la_sante.aspx)
 

@@ -23,4 +23,4 @@ Mais surtout, on a aucun élément qui [réfute](w:Réfutabilité) ce qui préc�
 Références:
 
 1. Robertson, M. P., & Joyce, G. F. (2014). [Highly Efficient Self-Replicating RNA Enzymes](https://doi.org/10.1016/j.chembiol.2013.12.004) . *Chemistry and Biology*, *21*(2), 238–245.
-2. Becker, S., Feldmann, J., Wiedemann, S., Okamura, H., Schneider, C., Iwan, K., Crisp, A., Rossa, M., Amatov, T., & Carell, T. (2019). Unified prebiotically plausible synthesis of pyrimidine and purine RNA ribonucleotides. *Science*, *366*(6461), 76–82. [https://doi.org/10.1126/SCIENCE....](https://doi.org/10.1126/SCIENCE.AAX2747/SUPPL_FILE/AAX2747_BECKER_SM.PDF)
+2. Becker, S., Feldmann, J., Wiedemann, S., Okamura, H., Schneider, C., Iwan, K., Crisp, A., Rossa, M., Amatov, T., & Carell, T. (2019). Unified prebiotically plausible synthesis of pyrimidine and purine RNA ribonucleotides. *Science*, *366*(6461), 76–82. [https://doi.org/10.1126/SCIENCE....](https://web.archive.org/web/20230609095022/https://doi.org/10.1126/SCIENCE.AAX2747/SUPPL_FILE/AAX2747_BECKER_SM.PDF)

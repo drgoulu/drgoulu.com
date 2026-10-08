@@ -10,7 +10,7 @@ tags:
   - "religion"
 ---
 
-"[Pourquoi les lois fondamentales de la physique paraissent-elles ajustées pour permettre la vie et la conscience ?](http://automatesintelligent.blog.lemonde.fr/2007/07/11/pourquoi-les-lois-fondamentales-de-la-physique-paraissent-elles-ajustees-pour-permettre-la-vie-et-la-conscience/)" de Jean Paul Baquiast n'est pas un article facile à lire. Il expose des idées aux limites de la physique et de la philosophie actuelles. En fait c'est de la métaphysique à l'état pur.
+"[Pourquoi les lois fondamentales de la physique paraissent-elles ajustées pour permettre la vie et la conscience ?](https://web.archive.org/web/20080216060101/http://automatesintelligent.blog.lemonde.fr/2007/07/11/pourquoi-les-lois-fondamentales-de-la-physique-paraissent-elles-ajustees-pour-permettre-la-vie-et-la-conscience/)" de Jean Paul Baquiast n'est pas un article facile à lire. Il expose des idées aux limites de la physique et de la philosophie actuelles. En fait c'est de la métaphysique à l'état pur.
 
 En gros l'article commence par un constat embêtant pour les matérialistes (disons athées pour simplifier) , et que les spiritualistes (disons religieux pour simplifier) utilisent abondamment : l'Univers a effectivement l'air d'avoir été calculé avec précision pour que la Vie, accessoirement vous et principalement moi, puissions exister. Si certains paramètres physiques avaient été 0.1% différents, nous ne serions que des photons. Ou de l'hydrogène. Ou des cailloux, dans le meilleur des cas.
 

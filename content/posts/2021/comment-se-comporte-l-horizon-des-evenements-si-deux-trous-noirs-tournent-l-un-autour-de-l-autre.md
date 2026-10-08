@@ -20,7 +20,7 @@ Ils fusionnent comme montré dans cette simulation
 
 {{< youtube "I_88S8DWbcU" >}}
 
-[Simulation : fusion de deux trous noirs](https://www.apod.tv/collection/simulation-fusion-de-deux-trous-noirs)
+[Simulation : fusion de deux trous noirs](https://web.archive.org/web/20210613230641/https://www.apod.tv/collection/simulation-fusion-de-deux-trous-noirs)
 
 Avec la visualisation des ondes gravitationnelles émises lors de l'événement GW190412 détectée par LIGO ça donne ça :
 
@@ -36,4 +36,4 @@ source : [New Simulation Sheds Light on Spiraling Supermassive Black Holes](http
 
 Mais toutes ces simulations considèrent des trous noirs "de Schwartzchild", qui ne tournent pas. Les vrais trous noir sont "de Kerr" et tournent très vite. A ma connaissance il n'existe pas encore de video de simulation de la fusion de deux trous noirs de Kerr. Mais on a déjà les équations dans des articles comme
 
-Emparan, R., Martínez, M., & Zilhão, M. (2018). [Black hole fusion in the extreme mass ratio limit](https://doi.org/10.1103/PhysRevD.97.044004) Physical Review D, 97(4).
+Emparan, R., Martínez, M., & Zilhão, M. (2018). [Black hole fusion in the extreme mass ratio limit](https://web.archive.org/web/20210506203153/https://doi.org/10.1103/PhysRevD.97.044004) Physical Review D, 97(4).

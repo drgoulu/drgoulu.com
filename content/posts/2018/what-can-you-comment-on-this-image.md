@@ -12,4 +12,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://www.quora.com/What-can-you-comment-on-this-image/answer/Dr-Goulu)*
 
-See also [Why is our solar system "tipped" about 63° with respect to the plane of our galaxy?](https://astronomy.stackexchange.com/questions/546/why-is-our-solar-system-tipped-about-63-with-respect-to-the-plane-of-our-gala)
+See also [Why is our solar system "tipped" about 63° with respect to the plane of our galaxy?](https://web.archive.org/web/20190718052538/https://astronomy.stackexchange.com/questions/546/why-is-our-solar-system-tipped-about-63-with-respect-to-the-plane-of-our-gala)

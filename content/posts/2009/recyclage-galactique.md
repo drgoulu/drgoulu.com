@@ -22,7 +22,7 @@ Si vous croyez toujours qu'une galaxie n'est qu'un disque d'étoiles qui tournen
 
 L'image ci-dessus combine en fait des mesures faites avec 3 instruments différents dans 3 domaines du spectre électromagnétique:
 
-1. l'image optique vient du [télescope de 2.2m de l'ESO](http://www.ls.eso.org/lasilla/Telescopes/2p2T/) au Chili
+1. l'image optique vient du [télescope de 2.2m de l'ESO](https://web.archive.org/web/20081214200917/http://www.ls.eso.org/lasilla/Telescopes/2p2T/) au Chili
 2. les zones oranges correspondent aux ondes radio submilimétriques mesurées par le [télescope APEX](http://www.apex-telescope.org/) au Chili aussi
 3. le rayonnement X, représenté en bleu, a été mesuré par le [télescope spatial Chandra](w:_Chandra__(télescope_spatial))
 

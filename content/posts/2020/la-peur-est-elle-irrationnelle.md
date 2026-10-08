@@ -18,7 +18,7 @@ coverImage: ./images/qimg-223258fba0f4d7c0d3a70c7480b5aa00.jpg
 
 J'aime beaucoup la conférence TED de l'astronaute Chris Hayfield où il explique la différence entre la peur et le danger.
 
-[https://www.ted.com/talks/chris_...](https://www.ted.com/talks/chris_hadfield_what_i_learned_from_going_blind_in_space?language=fr)
+[https://www.ted.com/talks/chris_...](https://web.archive.org/web/20201029225610/https://www.ted.com/talks/chris_hadfield_what_i_learned_from_going_blind_in_space?language=fr)
 
 La peur est un réflexe évolutif qui nous permet de réagir rapidement à un danger dans la nature. Et pas que nous
 

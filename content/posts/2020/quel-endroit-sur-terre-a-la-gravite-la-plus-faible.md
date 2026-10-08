@@ -24,4 +24,4 @@ Différence : 0.714878276 % seulement
 
 Notes de bas de page
 
-[[1]](#cite-EdGAT)[Gravity map reveals Earth's extremes](https://www.newscientist.com/article/dn24068-gravity-map-reveals-earths-extremes/)
+[[1]](#cite-EdGAT)[Gravity map reveals Earth's extremes](https://web.archive.org/web/20200814220351/https://www.newscientist.com/article/dn24068-gravity-map-reveals-earths-extremes/)

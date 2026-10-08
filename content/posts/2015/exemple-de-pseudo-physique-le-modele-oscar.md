@@ -25,4 +25,4 @@ L'observation d'un électron isolé dans un [piège de Penning](w:) démontre qu
 
  
 
-1. N. David Mermin "[Could Feynman have said this?](http://scitation.aip.org/content/aip/magazine/physicstoday/article/57/5/10.1063/1.1768652)", mai 2004, Physic Today Volume 57, Issue 5, page 10
+1. N. David Mermin "[Could Feynman have said this?](https://web.archive.org/web/20150521035313/http://scitation.aip.org/content/aip/magazine/physicstoday/article/57/5/10.1063/1.1768652)", mai 2004, Physic Today Volume 57, Issue 5, page 10

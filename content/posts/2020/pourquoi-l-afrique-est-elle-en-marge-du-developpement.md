@@ -19,7 +19,7 @@ La Guinée équatoriale à un PIB par habitant comparable à celui de la Tchèqu
 
 L'Algérie et la Tunisie ont des espérances de vie égales à la Serbie.
 
-Hans Rosling montrait très bien dans ses extraordinaires conférences comme [The best stats you've ever seen](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare) que tous les pays suivent des évolutions similaires, décalées dans le temps.
+Hans Rosling montrait très bien dans ses extraordinaires conférences comme [The best stats you've ever seen](https://web.archive.org/web/20200809180200/https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare) que tous les pays suivent des évolutions similaires, décalées dans le temps.
 
 Maintenant que l'éducation se généralise et que les pays africains atteignent la [Transition](w:Transition_démographique) [démographique](w:Transition_démographique)les uns après les autres, on peut s'attendre à une forte croissance en Afrique ces prochaines années
 

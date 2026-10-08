@@ -24,4 +24,4 @@ Mais pour une fusée, on gagne 0.46 km/s en lançant la fusée depuis une base p
 
 Notes de bas de page
 
-[[1]](#cite-tGNrY)[https://lanceurs.destination-orb...](https://lanceurs.destination-orbite.net/performances.php)
+[[1]](#cite-tGNrY)[https://lanceurs.destination-orb...](https://web.archive.org/web/20180302204935/https://lanceurs.destination-orbite.net/performances.php)

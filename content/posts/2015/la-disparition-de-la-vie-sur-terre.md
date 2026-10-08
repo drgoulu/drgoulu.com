@@ -76,7 +76,7 @@ Mais sur les responsables de cet énorme réchauffement climatique, on n’a qu�
 - Au fond des océans il existe de grosses réserves de méthane sous forme d’une sorte de glace, l’[hydrate de méthane](w:). Si l’océan se réchauffe un peu, cette glace fond et libère du méthane, qui est un gaz a effet de serre, ce qui réchauffe encore plus le climat et les océans, etc.
 - un microbe.
 
-Oui, une des hypothèses les plus récentes est qu’un petit microbe de rien du tout a failli tuer toutes les autres espèces de la Terre, comme [Guillaume l'explique sur son blog](http://blog.science-infuse.fr/post/Le-microbe-qui-a-failli-eradiquer-toute-vie-sur-Terre). Le responsable serait [Methanosarcina](w:), une « archée anaérobie méthanogène » :
+Oui, une des hypothèses les plus récentes est qu’un petit microbe de rien du tout a failli tuer toutes les autres espèces de la Terre, comme [Guillaume l'explique sur son blog](https://web.archive.org/web/20150201040141/http://blog.science-infuse.fr/post/Le-microbe-qui-a-failli-eradiquer-toute-vie-sur-Terre). Le responsable serait [Methanosarcina](w:), une « archée anaérobie méthanogène » :
 
 - Les [archées](w:) sont des unicellulaires très résistants, à la chaleur en particulier,
 - [anaérobie](w:) signifie qu’ils n’ont pas besoin d’oxygène pour vivre,

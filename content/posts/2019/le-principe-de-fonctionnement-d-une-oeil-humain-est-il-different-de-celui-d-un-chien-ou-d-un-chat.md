@@ -18,7 +18,7 @@ coverImage: ./images/qimg-7f254a24afa6391db2f1fa7943560e1a.jpg
 
 Non, extrêmement similaire.
 
-Il y a un article très intéressant de l' [Hôpital vétérinaire de Rawdon inc.](https://www.facebook.com/hopvetrawdon/posts/341313016052189/) sur facebook qui explique bien les différences. Le contenu facebook n'était pas libre, je ne le copie pas ici.
+Il y a un article très intéressant de l' [Hôpital vétérinaire de Rawdon inc.](https://web.archive.org/web/20190829/https://www.facebook.com/hopvetrawdon/posts/341313016052189/) sur facebook qui explique bien les différences. Le contenu facebook n'était pas libre, je ne le copie pas ici.
 
 A part les yeux à facettes des insectes, l'oeil très différent des autres animaux est celui de [Dolichopteryx longipes](w:), un poisson des profondeurs. Il utilise le principe du télescope à l'aide d'écailles - miroir !
 

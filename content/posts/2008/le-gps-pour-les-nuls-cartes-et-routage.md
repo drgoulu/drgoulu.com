@@ -52,4 +52,4 @@ L'étape suivante sera de remettre à jour les cartes embarquées dans les GPS p
 
 ### Références:
 
-1. <span id="ref-1"></span>Moshe Sniedovich , "[Dijkstra's Algorithm revisited : the OR/MS Connexion](http://www.ifors.ms.unimelb.edu.au/tutorial/dijkstra_new/index.html)", Department of Mathematics and Statistics, The University of Melbourne, Parkville, VIC 3052, Australia
+1. <span id="ref-1"></span>Moshe Sniedovich , "[Dijkstra's Algorithm revisited : the OR/MS Connexion](https://web.archive.org/web/20080730134404/http://www.ifors.ms.unimelb.edu.au/tutorial/dijkstra_new/index.html)", Department of Mathematics and Statistics, The University of Melbourne, Parkville, VIC 3052, Australia

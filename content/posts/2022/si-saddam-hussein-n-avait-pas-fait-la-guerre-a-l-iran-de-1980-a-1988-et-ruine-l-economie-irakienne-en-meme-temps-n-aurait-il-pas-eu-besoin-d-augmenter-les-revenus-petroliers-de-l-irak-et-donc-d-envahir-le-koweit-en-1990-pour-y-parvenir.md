@@ -18,4 +18,4 @@ On peut ajouter que les États-Unis ont soutenu, pour ne pas dire encouragé Sad
 
 Notes de bas de page
 
-[[1]](#cite-ibqVD)[Le mystère d'April Glaspie](https://www.lemonde.fr/archives/article/1991/05/14/le-mystere-d-april-glaspie_4001635_1819218.html)
+[[1]](#cite-ibqVD)[Le mystère d'April Glaspie](https://web.archive.org/web/20230331151956/https://www.lemonde.fr/archives/article/1991/05/14/le-mystere-d-april-glaspie_4001635_1819218.html)

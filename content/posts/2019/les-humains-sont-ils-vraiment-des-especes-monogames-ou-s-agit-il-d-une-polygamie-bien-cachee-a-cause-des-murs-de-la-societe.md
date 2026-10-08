@@ -18,9 +18,9 @@ coverImage: ./images/quora.png
 
 prenez le temps de lire ces trois articles de blog :
 
-- [L'Homme est-il un polygame refoulé ? Partie 1 : parasitisme sexuel](http://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/)
-- [L'humain est-il un polygame refoulé ? Partie 2/3 : la monogamie en série.](http://homofabulus.com/homme-polygamie-partie-2-monogamie-en-serie/)
-- [L'humain est-il un polygame refoulé ? Partie 3/3 : écologie, culture et Dr House](http://homofabulus.com/lhomme-est-il-un-polygame-refoule-partie-33/)
+- [L'Homme est-il un polygame refoulé ? Partie 1 : parasitisme sexuel](https://web.archive.org/web/20191021100635/http://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/)
+- [L'humain est-il un polygame refoulé ? Partie 2/3 : la monogamie en série.](https://web.archive.org/web/20191120151229/http://homofabulus.com/homme-polygamie-partie-2-monogamie-en-serie/)
+- [L'humain est-il un polygame refoulé ? Partie 3/3 : écologie, culture et Dr House](https://web.archive.org/web/20191115034012/http://homofabulus.com/lhomme-est-il-un-polygame-refoule-partie-33/)
 
 écrits par un expert en la matière et néanmoins ami, c'est passionnant et marrant à la fois. Conclusions :
 

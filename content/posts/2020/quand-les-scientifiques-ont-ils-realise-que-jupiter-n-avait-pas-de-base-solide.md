@@ -15,4 +15,4 @@ Quand ils ont réalisé que la pression et la température dans [Jupiter](w:Jupi
 
 Un article de 1977 basé sur les données de la sonde [Pioneer 10](w:)l'établit.
 
-[http://ui.adsabs.harvard.edu/abs...](http://ui.adsabs.harvard.edu/abs/1977NASSP.370..849S/abstract)
+[http://ui.adsabs.harvard.edu/abs...](https://web.archive.org/web/20200620/http://ui.adsabs.harvard.edu/abs/1977NASSP.370..849S/abstract)

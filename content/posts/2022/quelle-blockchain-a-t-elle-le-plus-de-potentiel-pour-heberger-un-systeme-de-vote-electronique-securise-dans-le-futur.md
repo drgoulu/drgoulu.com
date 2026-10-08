@@ -15,6 +15,6 @@ Plusieurs systèmes de vote décentralisés ont été réalisés en utilisant le
 
 [https://ieeexplore.ieee.org/docu...](https://ieeexplore.ieee.org/document/8603050)
 
-[https://www.mdpi.com/2071-1050/1...](https://www.mdpi.com/2071-1050/14/5/2917)
+[https://www.mdpi.com/2071-1050/1...](https://web.archive.org/web/20220617000006/https://www.mdpi.com/2071-1050/14/5/2917)
 
-[https://www.hindawi.com/journals...](https://www.hindawi.com/journals/sp/2022/1383007/)
+[https://www.hindawi.com/journals...](https://web.archive.org/web/20220407104029/https://www.hindawi.com/journals/sp/2022/1383007/)

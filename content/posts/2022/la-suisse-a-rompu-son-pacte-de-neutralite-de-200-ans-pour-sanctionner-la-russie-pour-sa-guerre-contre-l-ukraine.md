@@ -22,7 +22,7 @@ Heureusement, nous apprenons de nos erreurs, et en l'occurrence vous noterez que
 1. Nos diplomates ont participé à la rédaction et à la signature des [Protocoles de Minsk](w:Protocole_de_Minsk)(I) et [Minsk II](w:)
 2. Notre ancien président Didier Burkhalter était président de l'OSCE lors des "fameuses" élections en Ukraine de 2014.
 3. Poutine a rencontré Biden à Genève en 2021
-4. la Suisse est [Dépositaire](https://www.eda.admin.ch/eda/fr/dfae/politique-exterieure/droit-international-public/traites-internationaux/depositaire.html) des [Conventions de Genève](w:)
+4. la Suisse est [Dépositaire](https://web.archive.org/web/20220520042937/https://www.eda.admin.ch/eda/fr/dfae/politique-exterieure/droit-international-public/traites-internationaux/depositaire.html) des [Conventions de Genève](w:)
 
 Il est absolument clair ici que Poutine est devenu un dangereux dictateur imprévisible contre lequel il faut absolument agir avant qu'il ne mène l'Ukraine, son propre pays, voire le monde à la catastrophe.
 

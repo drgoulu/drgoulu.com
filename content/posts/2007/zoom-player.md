@@ -9,7 +9,7 @@ tags:
 
 Le problème avec les logiciels Microsoft fournis avec Windows, c'est qu'on s'habitue à la médiocrité.  On se ramollit, on s'accommode des inconvénients et limitations d'outils qu'on a sous la main plutôt que de passer quelques instants à chercher un logiciel gratuit ou presque qui nous arrachera des "mais c'est génial" oubliés depuis longtemps.[](http://www.firefox.fr/)
 
-Tous les internautes savent que [Firefox](http://www.firefox.fr/)  devance Internet Explorer sur tous les plans, [et iTunes](http://www.apple.com/fr/itunes/download/) a succédé à [Winamp](http://www.winamp.com/) comme lecteur audio incontournable. Restait à trouver un lecteur video pour envoyer l'horrible "Media Player" dans la poubelle de l'oubli.
+Tous les internautes savent que [Firefox](https://web.archive.org/web/20070819234553/http://www.firefox.fr/)  devance Internet Explorer sur tous les plans, [et iTunes](http://www.apple.com/fr/itunes/download/) a succédé à [Winamp](http://www.winamp.com/) comme lecteur audio incontournable. Restait à trouver un lecteur video pour envoyer l'horrible "Media Player" dans la poubelle de l'oubli.
 
 C'est chose faite grâce au [Zoom Player d'Inmatrix.com](http://www.inmatrix.com/). Non seulement il fait tout ce que fait Media Player en mieux, y compris la lecture des DVD et des fichiers WMV protégés par DRM (version payante), mais aussi beaucoup d'autres comme:
 

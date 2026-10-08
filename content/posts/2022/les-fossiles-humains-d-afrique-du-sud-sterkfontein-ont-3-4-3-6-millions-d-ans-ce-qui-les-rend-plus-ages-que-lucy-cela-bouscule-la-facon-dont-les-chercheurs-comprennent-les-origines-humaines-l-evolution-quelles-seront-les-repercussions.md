@@ -22,7 +22,7 @@ Vous avez peut-être une référence à un article scientifique plus précis ?
 
 edit quelques jours plus tard : j'ai trouvé la référence
 
-[https://www.pnas.org/doi/10.1073...](https://www.pnas.org/doi/10.1073/pnas.2123516119)
+[https://www.pnas.org/doi/10.1073...](https://web.archive.org/web/20220701173701/https://www.pnas.org/doi/10.1073/pnas.2123516119)
 
 en gros ils ont utilisé une autre méthode de datation des roches dans lesquelles les fossiles ont été retrouvés.
 

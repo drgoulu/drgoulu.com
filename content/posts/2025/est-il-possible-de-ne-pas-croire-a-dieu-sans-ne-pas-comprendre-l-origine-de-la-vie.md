@@ -19,6 +19,6 @@ Si on trouve l'[Hypothèse du monde à ARN](w:)très plausible et beaucoup plus 
 
 Donc ne lisez surtout pas des articles comme
 
-[https://www.sciencedirect.com/sc...](https://www.sciencedirect.com/science/article/pii/S1074552113004262)
+[https://www.sciencedirect.com/sc...](https://web.archive.org/web/20250828103850/https://www.sciencedirect.com/science/article/pii/S1074552113004262)
 
 ça risque de remplacer vos croyances par du savoir, exactement ce qui se passe continuellement depuis deux ou trois siècles.

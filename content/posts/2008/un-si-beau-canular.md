@@ -14,7 +14,7 @@ coverImage: "./images/df243304c6b9c3dc459bb7fec074fb31.jpg"
 
 Sur ce blog il n'y a de place que pour la vérité vraie et vérifiable, agrémentée parfois d'un peu de sel subjectif pour en augmenter la saveur. Donc je le dis tout net : voici un vrai canular, mais un magnifique canular, si beau qu'on aimerait vraiment qu'il soit vrai.
 
-![](./images/657543c95bdbdc58fcd6609d6bab4559.jpg)Sur "[The Mandelbrot Monk](http://classes.yale.edu/Fractals/MandelSet/MandelMonk/MandelMonk.html)", Ray Girvan raconte l'histoire ([traduite en français ici](http://translate.google.ch/translate?u=http%3A%2F%2Fclasses.yale.edu%2FFractals%2FMandelSet%2FMandelMonk%2FMandelMonk.html&sl=en&tl=fr&hl=fr&ie=UTF-8)) d'[Udo d'Aachen](w:en:Udo_of_Aachen) (Aix-la-Chapelle), moine vivant entre 1200 et 1270 et passionné de mathématiques qui enlumina l'un de ses manuscrits avec l'image de la Nativié ci-contre.
+![](./images/657543c95bdbdc58fcd6609d6bab4559.jpg)Sur "[The Mandelbrot Monk](https://web.archive.org/web/20080516211846/http://classes.yale.edu/Fractals/MandelSet/MandelMonk/MandelMonk.html)", Ray Girvan raconte l'histoire ([traduite en français ici](https://web.archive.org/web/20240707040440/http://translate.google.ch/translate?u=http%3A%2F%2Fclasses.yale.edu%2FFractals%2FMandelSet%2FMandelMonk%2FMandelMonk.html&sl=en&tl=fr&hl=fr&ie=UTF-8)) d'[Udo d'Aachen](w:en:Udo_of_Aachen) (Aix-la-Chapelle), moine vivant entre 1200 et 1270 et passionné de mathématiques qui enlumina l'un de ses manuscrits avec l'image de la Nativié ci-contre.
 
 Votre oeil aguerri aura repéré instantanément la forme étrange de l'Etoile du Berger, dont voici un agrandissement :
 
@@ -31,7 +31,7 @@ On trouve des choses magnifiques sur internet, des choses auxquelles on veut cro
 ### Références:
 
 - "[Un moine mathématicien en avance sur son temps](http://www.xgouchet.fr/blog/index.php/post/2008/06/08/Un-moine-mathematicien-tres-en-avance-sur-son-temps?pub=1#pr)", l'article qui m'a fait tomber de ma chaise ;-)
-- Ray Girvan, "[The Mandelbrot Monk](http://classes.yale.edu/Fractals/MandelSet/MandelMonk/MandelMonk.html)", le canular initial
+- Ray Girvan, "[The Mandelbrot Monk](https://web.archive.org/web/20080516211846/http://classes.yale.edu/Fractals/MandelSet/MandelMonk/MandelMonk.html)", le canular initial
 - John Allen Paulos, "[Monk's 'Startling' Math Discovery](http://abcnews.go.com/Technology/WhosCounting/Story?id=98615&page=1)", 1er avril 1999, ABC News
-- "[Hoax!](http://unapologetic.wordpress.com/2008/03/28/hoax/)" sur Unapologetic Mathematician, analyse la très bonne fabrication de ce canular
+- "[Hoax!](https://web.archive.org/web/20080723030013/http://unapologetic.wordpress.com/2008/03/28/hoax/)" sur Unapologetic Mathematician, analyse la très bonne fabrication de ce canular
 - Wikipedia sur "[Ugo of Aachen](w:en:Udo_of_Aachen)" en anglais

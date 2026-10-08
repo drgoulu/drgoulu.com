@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Ce n'est pas facile du tout. Il y a des différences statistiques, notamment au niveau des os du bassin, mais le sexe n'est "clairement" identifiable que sur 30% des squelettes environ
 
-[https://www.liberation.fr/debats...](https://www.liberation.fr/debats/2015/02/15/mon-squelette-a-t-il-un-sexe_1811614/)
+[https://www.liberation.fr/debats...](https://web.archive.org/web/20220722142541/https://www.liberation.fr/debats/2015/02/15/mon-squelette-a-t-il-un-sexe_1811614/)

@@ -15,4 +15,4 @@ une recherche Google vous aurait suffi : avec [py2exe](https://www.py2exe.org/) 
 
 petite comparaison ici :
 
-[https://stackoverflow.com/a/6235...](https://stackoverflow.com/a/6235314/1395973)
+[https://stackoverflow.com/a/6235...](https://web.archive.org/web/20220327/https://stackoverflow.com/a/6235314/1395973)

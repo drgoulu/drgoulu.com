@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 La dopamine. Très schématiquement les TDAH en manquent et ont tendance à compenser ce manque par des psychotropes.
 
-[https://jamanetwork.com/journals...](https://jamanetwork.com/journals/jama/fullarticle/184547)
+[https://jamanetwork.com/journals...](https://web.archive.org/web/20240514075345/https://jamanetwork.com/journals/jama/fullarticle/184547)
 
 Le traitement par la ritaline diminue cette tendance
 

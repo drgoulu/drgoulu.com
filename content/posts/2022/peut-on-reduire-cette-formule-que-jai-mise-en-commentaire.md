@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 si L est la variable d'intégration, alors $Q = 2.55 H^{7/2}$
 
-[https://www.wolframalpha.com/inp...](https://www.wolframalpha.com/input?i=integral+1.7*L*H^(3/2)+from+L=H+to+2H)
+[https://www.wolframalpha.com/inp...](https://web.archive.org/web/20220301/https://www.wolframalpha.com/input?i=integral+1.7*L*H^(3/2)+from+L=H+to+2H)

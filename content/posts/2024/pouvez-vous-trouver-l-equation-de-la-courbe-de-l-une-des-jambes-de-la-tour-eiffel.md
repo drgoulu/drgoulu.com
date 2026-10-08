@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui, c'est une exponentielle, détails ici
 
-[https://www.sciencedirect.com/sc...](https://www.sciencedirect.com/science/article/pii/S1631072104000786)
+[https://www.sciencedirect.com/sc...](https://web.archive.org/web/20231003094539/https://www.sciencedirect.com/science/article/pii/S1631072104000786)

@@ -21,6 +21,6 @@ En cliquant sur un aéroport il montre toutes les routes qui en partent. Rien qu
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Pourquoi-les-avions-ne-traversent-ils-pas-le-Pacifique/answer/Dr-Goulu)*
 
-[Live Flight Tracker - Real-Time Flight Tracker Map | Flightradar24](https://www.flightradar24.com/13.85,-172.99/3)
+[Live Flight Tracker - Real-Time Flight Tracker Map | Flightradar24](https://web.archive.org/web/20190326/https://www.flightradar24.com/13.85,-172.99/3)
 
 [Pourquoi les avions ne traversent pas le pacifique et pôle sud ?](https://www.dataero.fr/les-avions-traversent-ils-le-pacifique-et-pole-sud/)

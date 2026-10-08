@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 explorer l'Univers est assez prétentieux…
 
-L'objet le plus lointain que nous ayons envoyé est Voyager 1. Sa position en temps réel est disponible ici : [Voyager - Mission Status](https://voyager.jpl.nasa.gov/mission/status/)
+L'objet le plus lointain que nous ayons envoyé est Voyager 1. Sa position en temps réel est disponible ici : [Voyager - Mission Status](https://web.archive.org/web/20200429055332/https://voyager.jpl.nasa.gov/mission/status/)
 
 il est actuellement à 20h 34 minutes et 37 secondes lumière, même pas un jour lumière alors qu'il a été lancé il y a 47 ans, 7 mois et 24 jours, soit 17389 jours.
 

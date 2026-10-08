@@ -14,7 +14,7 @@ coverImage: ./images/quora.png
 
 La hausse du niveau des mers est actuellement plus due à la dilatation de l'eau qu'à la fonte des glaciers.
 
-[https://planet-terre.ens-lyon.fr...](https://planet-terre.ens-lyon.fr/article/montee-mer.xml)
+[https://planet-terre.ens-lyon.fr...](https://web.archive.org/web/20190920152019/https://planet-terre.ens-lyon.fr/article/montee-mer.xml)
 
 Dans ce lien on lit : "La fonte des 2 grandes calottes (Groenland et Antarctique) n'a pas encore commencé de façon significative."
 

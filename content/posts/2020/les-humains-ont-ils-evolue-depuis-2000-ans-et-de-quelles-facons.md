@@ -26,4 +26,4 @@ Et évidemment ma préférée, [L'adaptation à l'altitude](/2014/08/17/ladaptat
 
 Notes de bas de page
 
-[[1]](#cite-yZlBx)[La tolérance au lactose, une mutation génétique! | DUX](https://programmedux.com/fr/mieux-manger/la-tolerance-au-lactose-une-mutation-genetique/)
+[[1]](#cite-yZlBx)[La tolérance au lactose, une mutation génétique! | DUX](https://web.archive.org/web/20200511/https://programmedux.com/fr/mieux-manger/la-tolerance-au-lactose-une-mutation-genetique/)

@@ -38,6 +38,6 @@ Bon, je voulais écrire une critique de livre et j'ai pondu un article sur la lo
 ### Références:
 
 1. <span id="ref-1"></span>{{< openbook booknumber="ISBN:2709617439" templatenumber="5" >}}
-2. <span id="ref-2"></span>Michel Toulmonde "[Galilée et les satellites de Jupiter au service de la cartographie au XVIIe siècle](http://www.fermedesetoiles.fr/documents/supports/galilee-et-les-satellites-jupiter.pdf)", Observatoire de Paris (SYRTE) et Université d'Evry 2009
+2. <span id="ref-2"></span>Michel Toulmonde "[Galilée et les satellites de Jupiter au service de la cartographie au XVIIe siècle](https://web.archive.org/web/20210609001239/http://www.fermedesetoiles.fr/documents/supports/galilee-et-les-satellites-jupiter.pdf)", Observatoire de Paris (SYRTE) et Université d'Evry 2009
 3. <span id="ref-3"></span>"[Longitude found: John Harrison](http://www.rmg.co.uk/discover/explore/longitude-found-john-harrison)", National Maritime Museum de Greenwich
-4. <span id="ref-4"></span>Jonathan Betts "[John Harrison (1693–1776) and Lt. Cdr Rupert T. Gould R.N. (1890–1948)](http://www.nmm.ac.uk/upload/pdf/Gould-Harrison-longitude-JBetts.pdf)", National Maritime Museum / Royal Observatory, Greenwich
+4. <span id="ref-4"></span>Jonathan Betts "[John Harrison (1693–1776) and Lt. Cdr Rupert T. Gould R.N. (1890–1948)](https://web.archive.org/web/20091007155841/http://www.nmm.ac.uk/upload/pdf/Gould-Harrison-longitude-JBetts.pdf)", National Maritime Museum / Royal Observatory, Greenwich

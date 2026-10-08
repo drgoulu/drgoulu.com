@@ -16,7 +16,7 @@ coverImage: ./images/qimg-ac1600d9eeb7dfef5d2f89d819cba910.jpg
 
 *Réponse publiée [sur Quora](https://fr.quora.com/La-puissance-des-panneaux-semblent-augmenter-r%C3%A9guli%C3%A8rement-A-quand-selon-vous-1KWC-pour-1m2/answer/Dr-Goulu)*
 
-[Best Research-Cell Efficiency Chart](https://www.nrel.gov/pv/cell-efficiency.html) publie régulièrement une carte des rendements obtenus en laboratoire, voici celle de 2020:
+[Best Research-Cell Efficiency Chart](https://web.archive.org/web/20200330154124/https://www.nrel.gov/pv/cell-efficiency.html) publie régulièrement une carte des rendements obtenus en laboratoire, voici celle de 2020:
 
 ![](./images/qimg-ac1600d9eeb7dfef5d2f89d819cba910.jpg)
 

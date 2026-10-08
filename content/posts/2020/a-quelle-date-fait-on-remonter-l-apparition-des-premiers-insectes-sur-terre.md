@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 [Histoire évolutive des insectes — Wikipédia](w:Histoire_évolutive_des_insectes)
 
-> Le plus ancien fossile indubitablement insecte est daté de 396 à 407 [Ma](w:Million_d'années), c'est-à-dire du [Dévonien](w:). Cette espèce présente déjà des [mandibules](w:Mandibule) [dicondyliques](https://fr.wiktionary.org/wiki/dicondylique) que l'on retrouve aujourd'hui chez les insectes volants. Cela suggère que l'ancêtre commun à tous les insectes, volants ou non, est encore plus ancien et pourrait remonter au [Silurien](w:) (-443 Ma)
+> Le plus ancien fossile indubitablement insecte est daté de 396 à 407 [Ma](w:Million_d'années), c'est-à-dire du [Dévonien](w:). Cette espèce présente déjà des [mandibules](w:Mandibule) [dicondyliques](https://web.archive.org/web/20231004165840/https://fr.wiktionary.org/wiki/dicondylique) que l'on retrouve aujourd'hui chez les insectes volants. Cela suggère que l'ancêtre commun à tous les insectes, volants ou non, est encore plus ancien et pourrait remonter au [Silurien](w:) (-443 Ma)

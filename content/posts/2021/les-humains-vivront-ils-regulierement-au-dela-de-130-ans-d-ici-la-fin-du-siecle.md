@@ -25,4 +25,4 @@ A la fin du siècle on aura peut-être 10% de centenaires, mais toujours extrêm
 
 Notes de bas de page
 
-[[1]](#cite-dFrDV)[https://www.researchgate.net/pub...](https://www.researchgate.net/publication/249341748_Compression_de_la_mortalite_et_rectangularisation_de_la_courbe_de_survie_au_Quebec_au_cours_du_XXe_siecle)
+[[1]](#cite-dFrDV)[https://www.researchgate.net/pub...](https://web.archive.org/web/20211222/https://www.researchgate.net/publication/249341748_Compression_de_la_mortalite_et_rectangularisation_de_la_courbe_de_survie_au_Quebec_au_cours_du_XXe_siecle)

@@ -28,4 +28,4 @@ Par contre pour les étoiles plus lointaines avec des orbites moins excentriques
 
 Par contre la vie là bas a intérêt à être résistante aux rayons X émis par le disque d'accrétion, et si l'orbite de l'étoile est fortement inclinée par rapport au trou noir, les passages à proximité des [Jets](w:Jet_(astrophysique)) du trou noir seraient très mauvais pour la santé. Ou même pour la planète elle-même …
 
-article intéressant : [Stellar orbits near Sagittarius A*](https://academic.oup.com/mnras/article/331/4/917/1086002)
+article intéressant : [Stellar orbits near Sagittarius A*](https://web.archive.org/web/20200822005914/https://academic.oup.com/mnras/article/331/4/917/1086002)

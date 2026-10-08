@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce qu'ils n'ont pas suffisamment vacciné leur population à risque.
 
-[https://www.allnews.ch/content/p...](https://www.allnews.ch/content/points-de-vue/pourquoi-la-chine-applique-t-elle-une-politique-de-zéro-covid)
+[https://www.allnews.ch/content/p...](https://web.archive.org/web/20220522142714/https://www.allnews.ch/content/points-de-vue/pourquoi-la-chine-applique-t-elle-une-politique-de-zéro-covid)

@@ -22,7 +22,7 @@ Il disait qu'il avait passé sa vie pour rien, et un assistant essayait de lui r
 
 C'était vraiment dur et triste. On dit que la physique est une science "dure", mais c'est un euphémisme : elle est impitoyable. En plus d'un travail acharné, il y a très certainement un facteur chance étroit comme une lame de rasoir qui tranche entre la célébrité et l'oubli…
 
-(voir [Why Supersymmetry May Be The Greatest Failed Prediction In Particle Physics History](https://www.forbes.com/sites/startswithabang/2019/02/12/why-supersymmetry-may-be-the-greatest-failed-prediction-in-particle-physics-history/) )
+(voir [Why Supersymmetry May Be The Greatest Failed Prediction In Particle Physics History](https://web.archive.org/web/20191208205146/https://www.forbes.com/sites/startswithabang/2019/02/12/why-supersymmetry-may-be-the-greatest-failed-prediction-in-particle-physics-history/) )
 
 C'est très dommage, parce que la science avance aussi beaucoup grâce aux erreurs et aux culs de sac. On devrait vraiment valoriser beaucoup mieux les recherches qui échouent et encourager à publier les articles du type "on a essayé ça, et ça n'a pas marché parce que…" pour éviter que d'autres perdent du temps à commettre la même erreur.
 

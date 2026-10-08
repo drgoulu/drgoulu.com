@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Parce que malgré ces regrettables accidents , le nucléaire ne cause “que” 90 morts par PWh (Petawattheures) produits, contre 100′000 pour le charbon, 1400 pour l’hydroélectricité, et 440 et 150 respectivement pour le solaire et l’éolien.
 
-(source : Markandya, A.; Wilkinson, P. (2007). ["Electricity generation and health"](http://www.sciencedirect.com/science/article/pii/S0140673607612537). *The Lancet*. **370** (9591): 979–990. citée sur [Energy accidents - Wikipedia](w:en:Energy_accidents) )
+(source : Markandya, A.; Wilkinson, P. (2007). ["Electricity generation and health"](https://web.archive.org/web/20190418062157/http://www.sciencedirect.com/science/article/pii/S0140673607612537). *The Lancet*. **370** (9591): 979–990. citée sur [Energy accidents - Wikipedia](w:en:Energy_accidents) )

@@ -17,4 +17,4 @@ Selon moi c'est cafetière
 
 Selon la science aucun, puisqu'on ne note aucune différence dans les statistiques de mariage ou de divorce selon les signes.
 
-[https://www.researchgate.net/pub...](https://www.researchgate.net/publication/346282138_The_validity_of_astrological_predictions_on_marriage_and_divorce_a_longitudinal_analysis_of_Swedish_register_data)
+[https://www.researchgate.net/pub...](https://web.archive.org/web/20240831013536/https://www.researchgate.net/publication/346282138_The_validity_of_astrological_predictions_on_marriage_and_divorce_a_longitudinal_analysis_of_Swedish_register_data)

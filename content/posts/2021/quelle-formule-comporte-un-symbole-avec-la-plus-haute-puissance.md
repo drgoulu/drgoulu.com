@@ -26,7 +26,7 @@ Qui est en puissance 4 de la température.
 
 Après j'ai cherché et trouvé
 
-[https://physics.stackexchange.co...](https://physics.stackexchange.com/questions/508797/are-there-any-physics-formulas-with-high-large-exponents)
+[https://physics.stackexchange.co...](https://web.archive.org/web/20210509084114/https://physics.stackexchange.com/questions/508797/are-there-any-physics-formulas-with-high-large-exponents)
 
 Qui mentionne une puissance 6 dans l'
 

@@ -18,7 +18,7 @@ coverImage: ./images/quora.png
 
 ```
 
-du moins avec ma [Goulib.math2.divisors](https://goulib.readthedocs.io/en/latest/_modules/Goulib/math2.html#divisors) qui inclut le 1 et le N = 20! dans le cas particulier.
+du moins avec ma [Goulib.math2.divisors](https://web.archive.org/web/20230925195105/https://goulib.readthedocs.io/en/latest/_modules/Goulib/math2.html#divisors) qui inclut le 1 et le N = 20! dans le cas particulier.
 
 Cette fonction commence par factoriser en facteurs premiers et puissances:
 

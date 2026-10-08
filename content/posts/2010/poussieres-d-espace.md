@@ -44,5 +44,5 @@ Note\* : j'en suis assez fier, car même [traduit en japonais](http://translate.
 
 ### Références :
 
-1. <span id="ref-1"></span>Frédéric Castel "[L'incroyable odyssée d'Hayabusa s'achève](http://medias.rsr.ch/la-1ere/programmes/le-12h30/2010/le-12h30_20100606_standard_developpement-5_20100606-1245_5b9a6443-a18b-4048-bb60-ae4b7e284fb9-128k.mp3)" (MP3) Radio Suisse Romande, 12:30, 6 juin 2010
+1. <span id="ref-1"></span>Frédéric Castel "[L'incroyable odyssée d'Hayabusa s'achève](https://web.archive.org/web/20100612/http://medias.rsr.ch/la-1ere/programmes/le-12h30/2010/le-12h30_20100606_standard_developpement-5_20100606-1245_5b9a6443-a18b-4048-bb60-ae4b7e284fb9-128k.mp3)" (MP3) Radio Suisse Romande, 12:30, 6 juin 2010
 2. <span id="ref-2"></span>{{< openbook booknumber="ISBN:9782290327319" templatenumber="5" >}}

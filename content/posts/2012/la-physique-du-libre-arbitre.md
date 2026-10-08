@@ -13,7 +13,7 @@ draft: true
 ---
 [http://www.scientificamerican.com/article.cfm?id=quantum-physics-free-will](http://www.scientificamerican.com/article.cfm?id=quantum-physics-free-will)
 
-[http://blogs.discovermagazine.com/cosmicvariance/2011/07/13/free-will-is-as-real-as-baseball/](http://blogs.discovermagazine.com/cosmicvariance/2011/07/13/free-will-is-as-real-as-baseball/)
+[http://blogs.discovermagazine.com/cosmicvariance/2011/07/13/free-will-is-as-real-as-baseball/](https://web.archive.org/web/20120630220345/http://blogs.discovermagazine.com/cosmicvariance/2011/07/13/free-will-is-as-real-as-baseball/)
 
 [Incompatibilisme](w:Incompatibilisme)
 

@@ -24,4 +24,4 @@ As well explained in [Swiss minaret referendum, 2009 - Wikipedia](w:en:Swiss_min
 
 I voted against, mainly because it is a mistake to put such details in our Constitution. It should have been handled by local building regulations as for any other building, like churches or synagogues. Handling minarets differently is wrong, and I hope that swiss people will correct this soon.
 
-Many popular initiatives are warnings to the political class about problems that do not receive enough attention. Most fail as the government addresses the problem before the vote. In this case, they didn't. I think this article is very correct :[The Real Reasons Why the Swiss Voted to Ban Minarets](https://m.huffpost.com/us/entry/373947).
+Many popular initiatives are warnings to the political class about problems that do not receive enough attention. Most fail as the government addresses the problem before the vote. In this case, they didn't. I think this article is very correct :[The Real Reasons Why the Swiss Voted to Ban Minarets](https://web.archive.org/web/20181115100610/https://m.huffpost.com/us/entry/373947).

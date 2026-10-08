@@ -17,4 +17,4 @@ en fait si, mais elles sont corrélées à l'augmentation des systèmes de mesur
 
 la fréquence des grosses éruptions que tout le monde remarque depuis de siècles n'a pas augmenté.
 
-[https://volcano.si.edu/faq/index...](https://volcano.si.edu/faq/index.cfm?question=historicalactivity)
+[https://volcano.si.edu/faq/index...](https://web.archive.org/web/20210318001439/https://volcano.si.edu/faq/index.cfm?question=historicalactivity)

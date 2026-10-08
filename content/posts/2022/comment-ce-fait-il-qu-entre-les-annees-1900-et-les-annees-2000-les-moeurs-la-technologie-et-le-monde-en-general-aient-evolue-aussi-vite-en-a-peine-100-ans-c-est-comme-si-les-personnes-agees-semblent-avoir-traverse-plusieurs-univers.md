@@ -28,6 +28,6 @@ Sur "les personnes âgées qui semblent avoir traversé plusieurs univers", je r
 
 Notes de bas de page
 
-[[1]](#cite-YTEGF)[L'incroyable alphabétisation du monde](https://www.lepoint.fr/societe/l-incroyable-alphabetisation-du-monde-10-09-2019-2334818_23.php)
+[[1]](#cite-YTEGF)[L'incroyable alphabétisation du monde](https://web.archive.org/web/20210815130915/https://www.lepoint.fr/societe/l-incroyable-alphabetisation-du-monde-10-09-2019-2334818_23.php)
 
 [[2]](#cite-MmUNw)[Quand le Graf Zeppelin fascinait la Suisse](https://www.swissinfo.ch/fre/quand-le-graf-zeppelin-fascinait-la-suisse/47150118)

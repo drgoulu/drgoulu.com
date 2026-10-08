@@ -20,7 +20,7 @@ Parce que sinon nous ne serions pas là pour en parler.
 
 Et en passant, il faut une seule dimension de temps (imaginaire au sens mathématique[[1]](#AEReE) ) sinon c'est encore plus vrai.
 
-Il y a un intéressant article de Max Tegmark, “[On the dimensionality of spacetime](http://arxiv.org/PS_cache/gr-qc/pdf/9702/9702052v2.pdf)“, 1997, [arXiv:gr-qc/9702052v2](http://arxiv.org/abs/gr-qc/9702052v2), DOI [10.1088/0264-9381/14/4/002](http://arxiv.org/ct?url=http://dx.doi.org/10%2E1088/0264-9381/14/4/002&v=6f2319a0) sur ce sujet
+Il y a un intéressant article de Max Tegmark, “[On the dimensionality of spacetime](https://web.archive.org/web/20210110000749/http://arxiv.org/PS_cache/gr-qc/pdf/9702/9702052v2.pdf)“, 1997, [arXiv:gr-qc/9702052v2](http://arxiv.org/abs/gr-qc/9702052v2), DOI [10.1088/0264-9381/14/4/002](https://web.archive.org/web/20210107/http://arxiv.org/ct?url=http://dx.doi.org/10%2E1088/0264-9381/14/4/002&v=6f2319a0) sur ce sujet
 
 illustré avec cette figure :
 

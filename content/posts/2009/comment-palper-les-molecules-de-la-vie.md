@@ -18,7 +18,7 @@ Il a commencé par nous expliquer comment fonctionne un [microscope à force ato
 
 Le principe du STM consiste à promener une pointe ultra fine au dessus d'une surface à observer, et à mesurer le "courant tunnel" produit par les électrons passant de l'échantillon à la pointe, ce qui permet de mesurer la distance entre les deux et de produire des images avec une résolution sub atomique. Plus fort encore : en appliquant une plus forte tension entre la pointe et l'échantillon, on parvient à coller un atome à la pointe, puis aller le déposer à un endroit précis, pour réaliser des choses incroyables comme celle-ci:
 
-{{< figure src="./images/30eab8ab5cc6b1ffeb9aa2eef60c0886.gif" alt="cercle de 48 atomes de fer déposés sur du cuivre. Diamètre = 14 nanomètres. les vagues au centre sont produites par la superposition des fonctions donde des atomes, preuve que la mécanique quantique nexiste pas que dans les livres." caption="cercle de 48 atomes de fer déposés sur du cuivre chez IBM. Diamètre = 14 nanomètres. les vagues au centre sont produites par la superposition des fonctions d" link="http://www.almaden.ibm.com/vis/stm/stm.html" align="aligncenter" width="400" >}}
+{{< figure src="./images/30eab8ab5cc6b1ffeb9aa2eef60c0886.gif" alt="cercle de 48 atomes de fer déposés sur du cuivre. Diamètre = 14 nanomètres. les vagues au centre sont produites par la superposition des fonctions donde des atomes, preuve que la mécanique quantique nexiste pas que dans les livres." caption="cercle de 48 atomes de fer déposés sur du cuivre chez IBM. Diamètre = 14 nanomètres. les vagues au centre sont produites par la superposition des fonctions d" link="https://web.archive.org/web/20100107181627/http://www.almaden.ibm.com/vis/stm/stm.html" align="aligncenter" width="400" >}}
 
 Le STM souffre toutefois de quelques limitations: il ne fonctionne que dans un vide très poussé, avec des échantillons conducteurs d'électricité refroidis bien en dessous de 0°C.
 
@@ -45,6 +45,6 @@ Heureusement, il y a la [topoisomérase II](w:ADN_topoïsomérase). C'est la pr�
 ### Références:
 
 1. <span id="ref-1"></span>S Kasas, "[Presentation Microclub 2009](/wp-content/uploads/2009/10/Presentation-Microclub-2009.pdf)", (pdf des slides avec encore plus d'images)
-2. <span id="ref-2"></span>A Yersin et al "[Interactions between synaptic vesicle fusion proteins explored by atomic force microscopy](http://www.pnas.org/content/100/15/8736)", Proceedings of the National Academy of Sciences (PNAS), July 22, 2003 vol. 100 no. 15, p 8736-8741
+2. <span id="ref-2"></span>A Yersin et al "[Interactions between synaptic vesicle fusion proteins explored by atomic force microscopy](https://web.archive.org/web/20180602182228/http://www.pnas.org/content/100/15/8736)", Proceedings of the National Academy of Sciences (PNAS), July 22, 2003 vol. 100 no. 15, p 8736-8741
 3. <span id="ref-3"></span>A. Kis, S. Kasas et al "Nanomechanics of Microtubules", Physical Review Letter, 2002, Vol. 89, Nr 24
 4. <span id="ref-4"></span>Erika Ercolini "Scaling Properties of DNA Knots Studied by Atomic Force Microscopy", EPFL [Thèse No 4041](http://library.epfl.ch/theses/?nr=4041), 2008

@@ -35,6 +35,6 @@ Note ajoutée le 26.5.2015 :  ou plutôt l'[efficacité énergétique](w:Effic
 
 ### Sources :
 
-1. [BFRL Project: Solar Photovoltaic Performance Measurements and Predictions](http://www.nist.gov/el/highperformance_buildings/energy/solar_photovoltaic.cfm), NIST
+1. [BFRL Project: Solar Photovoltaic Performance Measurements and Predictions](https://web.archive.org/web/20101008215124/http://www.nist.gov/el/highperformance_buildings/energy/solar_photovoltaic.cfm), NIST
 2. [ASTM E948 - 09](http://www.astm.org/Standards/E948.htm) Standard Test Method for Electrical Performance of Photovoltaic Cells Using Reference Cells Under Simulated Sunlight
 3. [PVGIS Solar Irradiation Data](http://re.jrc.ec.europa.eu/pvgis/apps/radmonth.php?lang=fr&map=europe) Calculateur d'énergie solaire de la CE

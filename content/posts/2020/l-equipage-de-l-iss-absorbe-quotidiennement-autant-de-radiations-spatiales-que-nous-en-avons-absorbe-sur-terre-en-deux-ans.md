@@ -25,4 +25,4 @@ Une idée est d'utiliser le réservoir d'eau comme blindage.
 
 Notes de bas de page
 
-[[1]](#cite-kmZdu)[Le rayonnement radioactif dans l'espace](https://www.forumnucleaire.be/theme/espace/le-rayonnement-radioactif-dans-lespace)
+[[1]](#cite-kmZdu)[Le rayonnement radioactif dans l'espace](https://web.archive.org/web/20190824071349/https://www.forumnucleaire.be/theme/espace/le-rayonnement-radioactif-dans-lespace)

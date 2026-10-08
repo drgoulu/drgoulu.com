@@ -25,4 +25,4 @@ Désolé de remettre ma "qualification" de circonstance, mais les faits sont là
 
 Notes de bas de page
 
-[[1]](#cite-YOaNY)[https://www.cder.dz/download/Art...](https://www.cder.dz/download/Art9_3-1.pdf)
+[[1]](#cite-YOaNY)[https://www.cder.dz/download/Art...](https://web.archive.org/web/20210603005847/https://www.cder.dz/download/Art9_3-1.pdf)

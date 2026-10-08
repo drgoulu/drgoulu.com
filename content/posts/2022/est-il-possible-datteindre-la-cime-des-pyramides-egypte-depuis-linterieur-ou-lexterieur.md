@@ -24,4 +24,4 @@ pas depuis l'intérieur : elles sont pleines à l'exception de quelques pièces 
 
 Et depuis l'extérieur c'est interdit pour raisons de sécurité et de préservation des sites
 
-[https://observers.france24.com/f...](https://observers.france24.com/fr/20170123-escalader-pyramide-kheops-stupide-defi-touriste-turc)
+[https://observers.france24.com/f...](https://web.archive.org/web/20230609034315/https://observers.france24.com/fr/20170123-escalader-pyramide-kheops-stupide-defi-touriste-turc)

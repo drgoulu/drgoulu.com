@@ -26,18 +26,18 @@ En fait si on comprend le mécanisme du cancer et qu'on réalise que les vilains
 
 En fait, le cancer c'est des cellules qui ont trouvé le moyen de devenir immortelles…
 
-[https://nouvelles.umontreal.ca/a...](https://nouvelles.umontreal.ca/article/2020/06/03/traquer-le-facteur-d-immortalite-du-cancer/)
+[https://nouvelles.umontreal.ca/a...](https://web.archive.org/web/20230928135718/https://nouvelles.umontreal.ca/article/2020/06/03/traquer-le-facteur-d-immortalite-du-cancer/)
 
 Notes de bas de page
 
 [[1]](#cite-lbxrL)[Le cancer, une maladie finalement très ancienne ?](https://www.sciencesetavenir.fr/sante/le-cancer-une-maladie-finalement-tres-ancienne_28766)
 
-[[2]](#cite-lnIYn)[Égypte : cette momie était enceinte et souffrait d’un cancer](https://kawa-news.com/egypte-cette-momie-etait-enceinte-et-souffrait-dun-cancer/)
+[[2]](#cite-lnIYn)[Égypte : cette momie était enceinte et souffrait d’un cancer](https://web.archive.org/web/20220716100802/https://kawa-news.com/egypte-cette-momie-etait-enceinte-et-souffrait-dun-cancer/)
 
 [[3]](#cite-DyZVP)[Ancient skeleton is the earliest case of cancer yet detected](https://www.bbc.com/news/science-environment-26627941)
 
 [[4]](#cite-JrjLV)[Neanderthal clues to cancer origins](https://www.bbc.com/news/science-environment-22780717)
 
-[[5]](#cite-nHwRq)[Découvrez quel est le plus ancien cancer chez les humains](https://www.tvanouvelles.ca/2023/05/08/decouvrez-quel-est-le-plus-ancien-cancer-chez-les-humains)
+[[5]](#cite-nHwRq)[Découvrez quel est le plus ancien cancer chez les humains](https://web.archive.org/web/20230516221304/https://www.tvanouvelles.ca/2023/05/08/decouvrez-quel-est-le-plus-ancien-cancer-chez-les-humains)
 
 [[6]](#cite-xDpes)[Paléontologie. Les dinosaures souffraient de cancers, eux aussi](https://www.courrierinternational.com/article/paleontologie-les-dinosaures-souffraient-de-cancers-eux-aussi)

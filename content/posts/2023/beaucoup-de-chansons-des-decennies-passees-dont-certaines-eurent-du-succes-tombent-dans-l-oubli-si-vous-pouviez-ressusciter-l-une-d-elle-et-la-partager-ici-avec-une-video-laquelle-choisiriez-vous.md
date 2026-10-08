@@ -20,7 +20,7 @@ Suzi Quatro, ma découverte simultanée du rock, des rockeuses en cuir moulant e
 
 et comme je suis très fidèle, 50 ans plus tard j'écoute toujours du "metal à chanteuses" : Epica, Delain, Within Temptation, Arch Enemy, Visions of Atlantis, Nightwish, Flyleaf etc.
 
-Petite mention ici pour [IGNEA](https://ignea.band/), un superbe groupe ukrainien qui résiste à l'envahisseur (et au Covid avant ça)
+Petite mention ici pour [IGNEA](https://web.archive.org/web/20230423035950/https://ignea.band/), un superbe groupe ukrainien qui résiste à l'envahisseur (et au Covid avant ça)
 
 (["Dunes", de leur album tout récent](https://youtu.be/3mTt1XJOFN4))
 

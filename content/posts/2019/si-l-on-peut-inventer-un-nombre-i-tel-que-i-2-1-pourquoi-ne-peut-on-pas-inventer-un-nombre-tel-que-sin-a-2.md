@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Article initialement publié sur [Quora](https://fr.quora.com/Si-l-on-peut-inventer-un-nombre-i-tel-que-i-21-pourquoi-ne-peut-on-pas-inventer-un-nombre-tel-que-sin-a2/answer/Dr-Goulu)*
 
-i sert aussi à ça ([Wolfram|Alpha: arcsin(2)](https://www.wolframalpha.com/input/?i=arcsin(2))):
+i sert aussi à ça ([Wolfram|Alpha: arcsin(2)](https://web.archive.org/web/20210412002720/https://www.wolframalpha.com/input/?i=arcsin(2))):
 
 $\sin^{-1}(2) = i.log(2i+i\sqrt{3})$
 

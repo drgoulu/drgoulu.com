@@ -21,7 +21,7 @@ Combien faut-il de fils ? Faut-il des ailes ? Et on imagine le nombre de précie
 
 ![centriphone](./images/centriphone.png)Heureusement Nicolas Vuignier est sympa, et pense plus à notre porte-monnaie qu'au sien : au lieu de breveter son système, il en fait cadeau.
 
-Sur [http://open.centriphone.me/](http://open.centriphone.me/) il offre les plans de deux versions de son montage, simple, mais pas évident de prime abord :
+Sur [http://open.centriphone.me/](https://web.archive.org/web/20160302215950/http://open.centriphone.me/) il offre les plans de deux versions de son montage, simple, mais pas évident de prime abord :
 
 1. la version "2D" à découper dans une mince planche de bois, mais plutôt pour une caméra GoPro ou similaire que pour un iPhone
 2. la version coque pour iPhone imprimable en 3D

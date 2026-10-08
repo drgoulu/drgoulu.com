@@ -19,4 +19,4 @@ De l'énergie il y en a partout, ce qui compte c'est la quantité et le prix.
 
 Article très complet sur le sujet :
 
-[https://www.science.org/content/...](https://www.science.org/content/article/hidden-hydrogen-earth-may-hold-vast-stores-renewable-carbon-free-fuel)
+[https://www.science.org/content/...](https://web.archive.org/web/20230623113104/https://www.science.org/content/article/hidden-hydrogen-earth-may-hold-vast-stores-renewable-carbon-free-fuel)

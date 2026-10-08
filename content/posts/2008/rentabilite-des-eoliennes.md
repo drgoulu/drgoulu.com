@@ -15,7 +15,7 @@ coverImage: "./images/pales.jpg"
 
 {{< figure src="./images/pales.jpg" alt="pales" link="http://www.lecourrier.ch/" >}}
 
-[Le Courrier](http://www.lecourrier.ch/) de ce week-end consacre [un article](http://www.lecourrier.ch/index.php?name=NewsPaper&file=article&sid=440320) à l'énergie éolienne, décrite dès les premiers mots comme "particulièrement rentable". Voyons s'il faut vraiment investir dans le vent.
+[Le Courrier](http://www.lecourrier.ch/) de ce week-end consacre [un article](https://web.archive.org/web/20150308051427/http://www.lecourrier.ch/index.php?name=NewsPaper&file=article&sid=440320) à l'énergie éolienne, décrite dès les premiers mots comme "particulièrement rentable". Voyons s'il faut vraiment investir dans le vent.
 
 Selon l'article, la [plus grande éolienne de Suisse](http://www.rhoneole.ch/index.php?option=com_content&task=view&id=15&Itemid=28), mise en service récemment à Collonges a couté 5 Millions de francs suisses et en rapportera 850'000 par an, ce qui permettra de l'amortir en 5 ans. D'abord, 5'000'000/850'000 ça fait 5.8 , donc plutôt 6 ans que 5, et seulement si on ne doit pas payer d'intérêts sur les 5 millions. Avec un taux raisonnable de 5%, c'est près de 9 ans qu'il faut pour amortir l'installation. Passe encore.
 
@@ -37,5 +37,5 @@ Note\* ajoutée en 2011 : centimes de francs suisses, environ 15 centimes d'Euro
 
 ## Références:
 
-- "[Coup de vent sur les éoliennes](http://www.ifrap.org/agriculture-et-energie/coup-de-vent-sur-les-eoliennes)" sur ifrap.org. _(ajouté le 6.9 : un très bon article sur la situation en France)_
-- "[L’ÉNERGIE ÉOLIENNE](http://www.sfen.org/IMG/pdf/eoliennepdf-1254.pdf)", Groupe de Réflexion sur l’énergie et l’environnement au XXIème siècle de la Société Française d'Energie Nucléaire ([sfen.org](http://www.sfen.org/))
+- "[Coup de vent sur les éoliennes](https://web.archive.org/web/20150918025025/http://www.ifrap.org/agriculture-et-energie/coup-de-vent-sur-les-eoliennes)" sur ifrap.org. _(ajouté le 6.9 : un très bon article sur la situation en France)_
+- "[L’ÉNERGIE ÉOLIENNE](https://web.archive.org/web/20110909095919/http://www.sfen.org/IMG/pdf/eoliennepdf-1254.pdf)", Groupe de Réflexion sur l’énergie et l’environnement au XXIème siècle de la Société Française d'Energie Nucléaire ([sfen.org](http://www.sfen.org/))

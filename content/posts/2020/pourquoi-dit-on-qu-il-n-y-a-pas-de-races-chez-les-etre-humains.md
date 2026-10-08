@@ -24,6 +24,6 @@ coverImage: ./images/quora.png
 
 C'est très différent chez les chats par exemple, [Juliette De Sécillon](https://fr.quora.com/profile/Juliette-De-S%C3%A9cillon) :
 
-[Patterns of molecular genetic variation among cat breeds](https://www.sciencedirect.com/science/article/pii/S0888754307002078)
+[Patterns of molecular genetic variation among cat breeds](https://web.archive.org/web/20201112020331/https://www.sciencedirect.com/science/article/pii/S0888754307002078)
 
 Accessoirement, la [Couleur de la peau humaine](w:)est un très mauvais indicateur du groupe génétique d'un individu.

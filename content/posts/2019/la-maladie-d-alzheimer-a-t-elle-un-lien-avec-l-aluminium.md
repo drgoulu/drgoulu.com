@@ -22,7 +22,7 @@ C'est une piste qui a été étudiée depuis près de 40 ans et en résumé:
 
 même chez les professionnels:
 
-> Cette méta-analyse des études chez des sujets professionnellement exposés à l’aluminium ne plaide pas en faveur d’un rôle causal de l’exposition à ce métal dans la maladie d’Alzheimer. Mais les données sont trop peu nombreuses et de qualité trop faible pour exclure définitivement cette hypothèse. ( [exposition professionnelle à_l'aluminium et maladie d'Alzheimer](https://www.jle.com/download/ers-309216-exposition_professionnelle_a_laluminium_et_maladie_dalzheimer-a.pdf) au sujet de Virk S, Eslick G. Occupational exposure to aluminium and Alzheimer disease : a meta-analysis. JOEM 2015; 57: 893-6. doi : 10.1097/JOM.0000000000000487 )
+> Cette méta-analyse des études chez des sujets professionnellement exposés à l’aluminium ne plaide pas en faveur d’un rôle causal de l’exposition à ce métal dans la maladie d’Alzheimer. Mais les données sont trop peu nombreuses et de qualité trop faible pour exclure définitivement cette hypothèse. ( [exposition professionnelle à_l'aluminium et maladie d'Alzheimer](https://web.archive.org/web/20190609/https://www.jle.com/download/ers-309216-exposition_professionnelle_a_laluminium_et_maladie_dalzheimer-a.pdf) au sujet de Virk S, Eslick G. Occupational exposure to aluminium and Alzheimer disease : a meta-analysis. JOEM 2015; 57: 893-6. doi : 10.1097/JOM.0000000000000487 )
 
 Bref, s'il est exact que les cerveaux de malades d'Alzheimer contiennent plus d'aluminium que la normale, le lien de cause à effet n'est pas du tout établi.
 

@@ -35,9 +35,9 @@ Comme on le devine, les tags du format XML dépendent du domaine d'application d
 
 Des exemples d'ontologies RDF sont :
 
-- [FOAF](http://www.foaf-project.org/) (Friend of a Friend), pour modéliser les relations entre personnes (ça serait bien si [LinkedIn](http://www.linkedin.com) pouvait exporter sous ce format...)
+- [FOAF](https://web.archive.org/web/20061017134245/http://www.foaf-project.org/) (Friend of a Friend), pour modéliser les relations entre personnes (ça serait bien si [LinkedIn](http://www.linkedin.com) pouvait exporter sous ce format...)
 - [SIOC](http://sioc-project.org/) (Semantically-interlinked Online Communities), pour le partage de contenus de forums
-- [DOAP](http://trac.usefulinc.com/doap) (Description of a project), pour les infos sur les projets de développement OpenSource
+- [DOAP](https://web.archive.org/web/20080420045749/http://trac.usefulinc.com/doap) (Description of a project), pour les infos sur les projets de développement OpenSource
 
 ### Applications
 
@@ -51,9 +51,9 @@ Les "Topics Maps" sont une approche similaire, proposant le format XTM
 
 - [Wikipedia : Web sémantique (français, très sommaire)](w:Web_sémantique)
 - [Wikipedia : Semantic Web (anglais, détaillé)](w:en:Semantic_Web)
-- [page du W3C sur le web sémantique](http://www.w3.org/2001/sw/)
-- [W3C semantic web roadmap](http://www.w3.org/DesignIssues/Semantic.html)
-- [Drive, a RDF parser for .NET](http://www.driverdf.org/)
+- [page du W3C sur le web sémantique](https://web.archive.org/web/20061014170704/http://www.w3.org/2001/sw/)
+- [W3C semantic web roadmap](https://web.archive.org/web/20061023161907/http://www.w3.org/DesignIssues/Semantic.html)
+- [Drive, a RDF parser for .NET](https://web.archive.org/web/20061026221900/http://www.driverdf.org/)
 - [TopicsMaps.org](http://www.topicmaps.org/)
-- [BigBlogZoo, un système de syndication basé sur RDF](http://www.syndicatescape.com/)
+- [BigBlogZoo, un système de syndication basé sur RDF](https://web.archive.org/web/20061024033358/http://www.syndicatescape.com/)
 - [liste de fichiers RDF](http://pingthesemanticweb.com/)

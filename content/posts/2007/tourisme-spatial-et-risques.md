@@ -12,7 +12,7 @@ coverImage: "./images/297d5ef1055d2e7ec385b1220ac8f208.jpg"
 
 {{< figure src="./images/297d5ef1055d2e7ec385b1220ac8f208.jpg" >}}
 
-Vu sur Arte l'autre jour un reportage passionnant sur [SpaceShipOne,](http://www.scaled.com/projects/tierone/) le premier vaisseau spatial privé. En 2004, ce projet financé par Paul Allen (Microsoft) et Richard Branson (Virgin) a remporté le [Ansari X-Prize](http://www.xprize.org/xprizes/ansari_x_prize.html) de $10'000'000 en effectuant 2 vols à plus de 100'000 m d'altitude en moins de 2 jours.
+Vu sur Arte l'autre jour un reportage passionnant sur [SpaceShipOne,](https://web.archive.org/web/20070312161959/http://www.scaled.com/projects/tierone/) le premier vaisseau spatial privé. En 2004, ce projet financé par Paul Allen (Microsoft) et Richard Branson (Virgin) a remporté le [Ansari X-Prize](https://web.archive.org/web/20070306115940/http://www.xprize.org/xprizes/ansari_x_prize.html) de $10'000'000 en effectuant 2 vols à plus de 100'000 m d'altitude en moins de 2 jours.
 
 {{< youtube id="FNXahIoXMw8" >}}
 
@@ -24,7 +24,7 @@ Le SpaceShipTwo en construction emportera 2 pilotes et 7 passagers dès 2008 si 
 
 ### Risques:
 
-Si le prix du billet n'était pas un problème, prendriez-vous le risque ? Comment évaluer la fiabilité d'un tel engin et le risque d'y laisser sa peau comme simple client ? C'est la question posée dans "[How safe is space tourism ?](http://blogs.discovermagazine.com/badastronomy/2007/03/07/how-safe-is-space-tourism/)" sur Bad Astronomy.
+Si le prix du billet n'était pas un problème, prendriez-vous le risque ? Comment évaluer la fiabilité d'un tel engin et le risque d'y laisser sa peau comme simple client ? C'est la question posée dans "[How safe is space tourism ?](https://web.archive.org/web/20081002110215/http://blogs.discovermagazine.com/badastronomy/2007/03/07/how-safe-is-space-tourism/)" sur Bad Astronomy.
 
 Voici la traduction française de ma réponse:
 

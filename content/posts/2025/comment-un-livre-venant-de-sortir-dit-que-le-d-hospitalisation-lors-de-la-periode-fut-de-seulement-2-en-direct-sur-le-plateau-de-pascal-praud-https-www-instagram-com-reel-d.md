@@ -35,4 +35,4 @@ Notes de bas de page
 
 [[1]](#cite-Cxcpw)[En quatre vagues, l’épidémie de Covid-19 a causé 116 000 décès et lourdement affecté le système de soins](https://www.insee.fr/fr/statistiques/5432509?sommaire=5435421)
 
-[[2]](#cite-oNnot)[https://www.thelancet.com/journa...](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00320-6/fulltext)
+[[2]](#cite-oNnot)[https://www.thelancet.com/journa...](https://web.archive.org/web/20250621051653/https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00320-6/fulltext)

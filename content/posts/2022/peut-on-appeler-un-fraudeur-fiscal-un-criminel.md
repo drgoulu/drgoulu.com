@@ -28,6 +28,6 @@ Donc non, ici vous n'êtes pas un criminel. L'idée de base est que l'Etat n'a p
 
 Notes de bas de page
 
-[[1]](#cite-PnTfu)[https://www.estv.admin.ch/dam/es...](https://www.estv.admin.ch/dam/estv/fr/dokumente/estv/steuersystem/dossier-steuerinformationen/e/e-strafbestimmungen.pdf.download.pdf/e-strafbestimmungen.pdf)
+[[1]](#cite-PnTfu)[https://www.estv.admin.ch/dam/es...](https://web.archive.org/web/20220817190837/https://www.estv.admin.ch/dam/estv/fr/dokumente/estv/steuersystem/dossier-steuerinformationen/e/e-strafbestimmungen.pdf.download.pdf/e-strafbestimmungen.pdf)
 
 [[2]](#cite-iKorJ)[Fedlex](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/fr#book_1/part_1)

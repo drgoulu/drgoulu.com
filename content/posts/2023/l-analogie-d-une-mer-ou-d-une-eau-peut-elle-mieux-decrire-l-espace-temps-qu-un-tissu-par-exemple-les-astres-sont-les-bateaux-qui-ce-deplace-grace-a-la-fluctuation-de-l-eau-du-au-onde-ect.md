@@ -17,4 +17,4 @@ Le marshmallow est une analogie bien meilleure
 
 ![](./images/qimg-76df3a1d4eb641011dfa9e443e975da2.gif)
 
-Source : [This Is Why Scientists Will Never Exactly Solve General Relativity](https://www.forbes.com/sites/startswithabang/2019/12/04/this-is-why-scientists-will-never-exactly-solve-general-relativity/)
+Source : [This Is Why Scientists Will Never Exactly Solve General Relativity](https://web.archive.org/web/20230408021656/https://www.forbes.com/sites/startswithabang/2019/12/04/this-is-why-scientists-will-never-exactly-solve-general-relativity/)

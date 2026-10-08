@@ -26,4 +26,4 @@ J'ai assisté à une superbe conférence de [Derek Redmond](w:) qui expliquait c
 
 Ensuite, pendant la course il est arrivé quelque chose qui l'a rendu beaucoup plus célèbre, beaucoup plus durablement que s'il avait gagné.
 
-[https://www.rfi.fr/fr/sports/201...](https://www.rfi.fr/fr/sports/20170618-souvenirs-quand-derek-redmond-surpassa-douleur-son-pere)
+[https://www.rfi.fr/fr/sports/201...](https://web.archive.org/web/20240616235441/https://www.rfi.fr/fr/sports/20170618-souvenirs-quand-derek-redmond-surpassa-douleur-son-pere)

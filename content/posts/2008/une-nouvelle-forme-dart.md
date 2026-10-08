@@ -15,6 +15,6 @@ Différent mais sur le même principe, le "freeze" consiste à statufier un gran
 
 {{< youtube id="jwMj3PJDxuo" >}}
 
-L'idée se répand, et le week-end passé, [3000 personnes ont "freezé" au Trocadéro](http://tfmc.blogs.com/the_flying_monkey_circus/2008/03/freeze-paris-la.html) , et la joyeuse équipe de [aRe yoU A Robot](http://www.ruarobot.com/) a même surpris les voyageurs de la [gare de Cornavin à Genève](http://www.youtube.com/watch?v=Yz1Dt-SNtpE)
+L'idée se répand, et le week-end passé, [3000 personnes ont "freezé" au Trocadéro](https://web.archive.org/web/20080313214035/http://tfmc.blogs.com/the_flying_monkey_circus/2008/03/freeze-paris-la.html) , et la joyeuse équipe de [aRe yoU A Robot](https://web.archive.org/web/20080310005403/http://www.ruarobot.com/) a même surpris les voyageurs de la [gare de Cornavin à Genève](http://www.youtube.com/watch?v=Yz1Dt-SNtpE)
 
-D'autres spectacles de ce type comme la "[Natation synchronisée](http://improveverywhere.com/2004/07/24/synchronized-swimming/)" sont présentés sur [Improv Everywhere](http://improveverywhere.com/). Est-ce l'émergence d'une nouvelle forme d'art ?
+D'autres spectacles de ce type comme la "[Natation synchronisée](https://web.archive.org/web/20080515160812/http://improveverywhere.com/2004/07/24/synchronized-swimming/)" sont présentés sur [Improv Everywhere](http://improveverywhere.com/). Est-ce l'émergence d'une nouvelle forme d'art ?

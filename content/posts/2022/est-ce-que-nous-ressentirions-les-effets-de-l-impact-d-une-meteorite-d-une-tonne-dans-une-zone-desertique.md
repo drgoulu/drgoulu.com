@@ -26,7 +26,7 @@ Des météorites d'une tonne (~1m de diamètre) il en tombe environ une par ann�
 
 le plus souvent elle tombe dans la mer, ou dans des zones désertiques ou peu peuplées.
 
-Celles-ci sont beaucoup plus étendues que l'on croit : [La moitié de la population mondiale occupe 1 % du territoire](https://www.lepoint.fr/societe/la-moitie-de-la-population-mondiale-occupe-1-du-territoire-14-01-2016-2010063_23.php#11) .
+Celles-ci sont beaucoup plus étendues que l'on croit : [La moitié de la population mondiale occupe 1 % du territoire](https://web.archive.org/web/20221023214624/https://www.lepoint.fr/societe/la-moitie-de-la-population-mondiale-occupe-1-du-territoire-14-01-2016-2010063_23.php#11) .
 
 Donc il faudrait vraiment beaucoup de malchance pour qu'une telle météorite détruise une maison (pas plus…), ou un sacré coup de chance pour qu'elle tombe assez près d'un sismographe pour qu'on puisse détecter sa chute.
 

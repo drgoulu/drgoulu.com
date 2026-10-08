@@ -22,7 +22,7 @@ Petit rappel des faits.
 
 ![](./images/qimg-5684c3b696ea474ff8be125923a2bcaa.gif)
 
-(Source : Trifonov et al. N Eng J Med 2009, 361:115-119 sur [UCLOUVAIN FDP Virologie](https://www.virologie-uclouvain.be/fr/chapitres/exemples-choisis/virus-de-la-grippe) )
+(Source : Trifonov et al. N Eng J Med 2009, 361:115-119 sur [UCLOUVAIN FDP Virologie](https://web.archive.org/web/20210521084445/https://www.virologie-uclouvain.be/fr/chapitres/exemples-choisis/virus-de-la-grippe) )
 
 La nature saisonnière de la grippe n'est pas encore totalement comprise, mais il est possible que ça soit lié aux migrations des oiseaux, à la température , à la saison de la choucroute où on mange du cochon, ce genre de trucs.
 

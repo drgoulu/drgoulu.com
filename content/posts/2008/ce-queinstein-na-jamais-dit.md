@@ -81,12 +81,12 @@ et enfin , la prochaine fois que vous verrez une Vérité Suprême signée Alber
 ### références:
 
 1. <span id="ref-1"></span>Jean-Paul Krivine "[Einstein et l’astrologie : une citation fausse qui a la vie dure: un jury de La Sorbonne victime d’un vieux canular d’astrologues](http://www.pseudo-sciences.org/spip.php?article644)", SPS n° 250, décembre 2001
-2. <span id="ref-2"></span>Denis Hamel "[Les grands esprits manipulés par les astrologues](http://www.sceptiques.qc.ca/assets/docs/qs57p31.pdf)", Le Québec sceptique, Numéro 57
+2. <span id="ref-2"></span>Denis Hamel "[Les grands esprits manipulés par les astrologues](https://web.archive.org/web/20081113094114/http://www.sceptiques.qc.ca/assets/docs/qs57p31.pdf)", Le Québec sceptique, Numéro 57
 3. <span id="ref-3"></span>préface de  "Johannes Kepler: Life and Letters", Carola Baumgardt, New York, Philosophical Library, 1951.
 4. <span id="ref-4"></span>_(ajoutée le 3.12.2013)_  {{< openbook booknumber="ISBN:2020016214" templatenumber="5" >}}: la phrase exacte est "_Le Dr Hoenikker disait volontiers qu’un scientifique incapable d’expliquer ce qu’il fait à un enfant de huit ans est un charlatan._"
 
 ### Sources:
 
 - [Albert Einstein "misattributed" sur WikiQuote](http://en.wikiquote.org/wiki/Albert_Einstein#Misattributed)
-- ["13 Famous Quotes of Albert Einstein :Did Einsten Really Say It" sur Knoll](http://knol.google.com/k/13-famous-quotes-of-albert-einstein)
+- ["13 Famous Quotes of Albert Einstein :Did Einsten Really Say It" sur Knoll](https://web.archive.org/web/20091214171243/http://knol.google.com/k/13-famous-quotes-of-albert-einstein)
 - _(ajoutée le 7.1.2013)_  : [Albert Einstein sur Quote Investigator](http://quoteinvestigator.com/category/albert-einstein/)

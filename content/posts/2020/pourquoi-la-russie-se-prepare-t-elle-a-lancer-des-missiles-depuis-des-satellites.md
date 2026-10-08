@@ -15,4 +15,4 @@ Parce que les USA envisagent de dénoncer le traité de l'espace de 1967 qui l'i
 
 Notes de bas de page
 
-[[1]](#cite-mlBHT)[https://www.ouest-france.fr/mond...](https://www.ouest-france.fr/monde/etats-unis/l-espace-n-appartient-personne-trump-veut-se-l-approprier-6803231)
+[[1]](#cite-mlBHT)[https://www.ouest-france.fr/mond...](https://web.archive.org/web/20200415074558/https://www.ouest-france.fr/monde/etats-unis/l-espace-n-appartient-personne-trump-veut-se-l-approprier-6803231)

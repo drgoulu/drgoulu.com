@@ -28,4 +28,4 @@ En captivité on a vu des accouplements de lion + tigresse ou zébu + yack q
 
 Notes de bas de page
 
-[[1]](#cite-iofmu)[https://www.researchgate.net/pub...](https://www.researchgate.net/publication/276121676_Multiple_occurrences_of_king_penguin_Aptenodytes_patagonicus_sexual_harassment_by_Antarctic_fur_seals_Arctocephalus_gazella)
+[[1]](#cite-iofmu)[https://www.researchgate.net/pub...](https://web.archive.org/web/20250417163339/https://www.researchgate.net/publication/276121676_Multiple_occurrences_of_king_penguin_Aptenodytes_patagonicus_sexual_harassment_by_Antarctic_fur_seals_Arctocephalus_gazella)

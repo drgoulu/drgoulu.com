@@ -11,9 +11,9 @@ coverImage: "./images/856f7493f97f6371bebad5e3d08cf549.jpg"
 
 _Je vous propose ci-dessous une traduction de l'article "[Voyager 1 Reaches Interstellar Space. But Has It Left the Solar System? Wellllll…](http://www.slate.com/blogs/bad_astronomy/2013/09/13/voyager_1_space_probe_is_in_now_in_interstellar_space.html)" de Phil Plait le "Bad Astronomer" qui introduit une intéressante distinction entre "entrer dans l'espace interstellaire" et "quitter le système solaire"_
 
-{{< figure src="./images/856f7493f97f6371bebad5e3d08cf549.jpg" alt="Voyager 1" caption="Voyager 1, une sonde lancée il y a plus de trois décennies, est maintenant dans l'espace interstellaire (illustration NASA/JPL-Caltech)" link="http://www.nasa.gov/mission_pages/voyager/multimedia/pia17462.html" align="aligncenter" width="568" >}}
+{{< figure src="./images/856f7493f97f6371bebad5e3d08cf549.jpg" alt="Voyager 1" caption="Voyager 1, une sonde lancée il y a plus de trois décennies, est maintenant dans l'espace interstellaire (illustration NASA/JPL-Caltech)" link="https://web.archive.org/web/20130915213126/http://www.nasa.gov/mission_pages/voyager/multimedia/pia17462.html" align="aligncenter" width="568" >}}
 
-Le 12 septembre, [la NASA a annoncé](http://www.nasa.gov/mission_pages/voyager/voyager20130912.html) en fanfare qu'après 36 ans dans l'espace, la sonde [Voyager 1](w:) est entrée dans l'espace interstellaire.
+Le 12 septembre, [la NASA a annoncé](https://web.archive.org/web/20130920085749/http://www.nasa.gov/mission_pages/voyager/voyager20130912.html) en fanfare qu'après 36 ans dans l'espace, la sonde [Voyager 1](w:) est entrée dans l'espace interstellaire.
 
 J'ai deux choses à en dire, et je veux être prudent. D'abord, c'est un événement extraordinaire qui vaut vraiment la peine d'être célébré. Ensuite, beaucoup de gens disent que Voyager 1 a quitté le système solaire, et ce n'est pas tout-à-fait exact.
 

@@ -15,4 +15,4 @@ Les bonobos femelles offrent du sexe en échange de nourriture, mais les manchot
 
 Bref, ce qu'il y a d'unique chez les humains, c'est que les mâles aussi ont compris le concept…
 
-[https://www.azcentral.com/story/...](https://www.azcentral.com/story/opinion/op-ed/claythompson/2015/09/10/do-any-animals-use-money-means-exchange/72019152/)
+[https://www.azcentral.com/story/...](https://web.archive.org/web/20201111234029/https://www.azcentral.com/story/opinion/op-ed/claythompson/2015/09/10/do-any-animals-use-money-means-exchange/72019152/)

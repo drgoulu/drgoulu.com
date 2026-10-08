@@ -21,8 +21,8 @@ Alors, c'est qui les plus intelligents, mmmmh?
 
 Notes de bas de page
 
-[[1]](#cite-MTzvG)[Bottlenose dolphins can use learned vocal labels to address each other](https://www.pnas.org/content/early/2013/07/17/1304459110)
+[[1]](#cite-MTzvG)[Bottlenose dolphins can use learned vocal labels to address each other](https://web.archive.org/web/20211017220628/https://www.pnas.org/content/early/2013/07/17/1304459110)
 
-[[2]](#cite-UwrBU)[Baby dolphins babble when they learn language, just like humans do](https://www.pri.org/stories/2019-06-13/baby-dolphins-babble-when-they-learn-language-just-humans-do)
+[[2]](#cite-UwrBU)[Baby dolphins babble when they learn language, just like humans do](https://web.archive.org/web/20210303030839/https://www.pri.org/stories/2019-06-13/baby-dolphins-babble-when-they-learn-language-just-humans-do)
 
-[[3]](#cite-QUXun)[The study of acoustic signals and the supposed spoken language of the dolphins](https://www.sciencedirect.com/science/article/pii/S2405722316301177)
+[[3]](#cite-QUXun)[The study of acoustic signals and the supposed spoken language of the dolphins](https://web.archive.org/web/20210913152913/https://www.sciencedirect.com/science/article/pii/S2405722316301177)

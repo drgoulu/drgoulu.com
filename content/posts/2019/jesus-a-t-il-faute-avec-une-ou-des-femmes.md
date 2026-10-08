@@ -15,4 +15,4 @@ Jésus devait être marié. Il était impensable pour un rabbin juif à l'époqu
 
 (et Jésus n'était pas chrétien, il était juif. Le christianisme a été fondé par ses disciples et les romains)
 
-Source : [L'Origine du Christianisme](https://boutique.arte.tv/detail/l_origine_du_christianisme)une série géniale si vous vous intéressez à l'histoire des religions.
+Source : [L'Origine du Christianisme](https://web.archive.org/web/20191209104257/https://boutique.arte.tv/detail/l_origine_du_christianisme)une série géniale si vous vous intéressez à l'histoire des religions.

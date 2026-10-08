@@ -11,9 +11,9 @@ tags:
 coverImage: "./images/f1d3fc602250a48d9f912163ed2e449e.gif"
 ---
 
-{{< figure src="./images/f1d3fc602250a48d9f912163ed2e449e.gif" alt="Blokus" link="http://blokus.com/" >}}
+{{< figure src="./images/f1d3fc602250a48d9f912163ed2e449e.gif" alt="Blokus" link="https://web.archive.org/web/20080209224309/http://blokus.com/" >}}
 
-[Blokus](http://blokus.com/) est un jeu de stratégie qui existe "en dur", et maintenant [en ligne](http://www.blokus.com/online-game/) : vous pouvez y jouer gratuitement sur le web, en affrontant des joueurs du monde entier. Il en existe différentes versions, mais le principe est de placer tout à tour des pièces genre Tetris ou Pentominos pour occuper la plus grande surface possible du plan de jeu. Les pièces d'un même joueur, de la même couleur, ne peuvent se toucher que par les angles, ce qui permet à un adversaire futé de traverser un barrage. Une partie à 4 ressemble à ceci:
+[Blokus](https://web.archive.org/web/20080209224309/http://blokus.com/) est un jeu de stratégie qui existe "en dur", et maintenant [en ligne](https://web.archive.org/web/20080209224529/http://www.blokus.com/online-game/) : vous pouvez y jouer gratuitement sur le web, en affrontant des joueurs du monde entier. Il en existe différentes versions, mais le principe est de placer tout à tour des pièces genre Tetris ou Pentominos pour occuper la plus grande surface possible du plan de jeu. Les pièces d'un même joueur, de la même couleur, ne peuvent se toucher que par les angles, ce qui permet à un adversaire futé de traverser un barrage. Une partie à 4 ressemble à ceci:
 
 {{< youtube id="ogWlsa4FoK4" >}}
 

@@ -18,7 +18,7 @@ Le monde se divise en deux :
 - ceux que le titre de cet article font hurler (de rire, de honte ou de terreur).
 - les autres, qui ne voient pas le problème, et auxquels cet article s'adresse prioritairement.
 
-J'ai entendu cette horreur 2 fois [ce matin à la radio suisse romande](http://www.rsr.ch/info/fr/rsr.html?siteSect=5001&broadcastId=688617&bcItemId=11126066), dont une sans la précision "de puissance installés", et l'horreur est répétée noir sur blanc [sur le site de la RSR](http://www.rsr.ch/info/fr/rsr.html?siteSect=5001&broadcastId=688617&bcItemId=11126066).
+J'ai entendu cette horreur 2 fois [ce matin à la radio suisse romande](https://web.archive.org/web/20101023134308/http://www.rsr.ch/info/fr/rsr.html?siteSect=5001&broadcastId=688617&bcItemId=11126066), dont une sans la précision "de puissance installés", et l'horreur est répétée noir sur blanc [sur le site de la RSR](https://web.archive.org/web/20101023134308/http://www.rsr.ch/info/fr/rsr.html?siteSect=5001&broadcastId=688617&bcItemId=11126066).
 
 Commençons par la version "_Le Groupe E promet 2000 francs par kilowattheure_" entendue en premier. Comment un journaliste qui paie 20 centimes chaque kWh de sa propre consommation peut-il annoncer qu'on finance la production d'électricité solaire 10'000 fois plus cher, sans se rendre compte qu'il dit une grosse connerie ?
 

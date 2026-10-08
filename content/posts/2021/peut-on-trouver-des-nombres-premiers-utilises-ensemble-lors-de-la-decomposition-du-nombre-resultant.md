@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Peut-on-trouver-des-nombres-premiers-utilis%C3%A9s-ensemble-lors-de-la-d%C3%A9composition-du-nombre-r%C3%A9sultant/answer/Dr-Goulu)*
 
-Je ne suis pas sur de comprendre la question, mais un algo de factorisation doit essayer plusieurs divisions successives par un diviseur premier trouvé pour définir sa puissance. Par exemple ma fonction [Goulib.math2.prime_factors](https://goulib.readthedocs.io/en/latest/_modules/Goulib/math2.html#prime_factors) fait ça dans la boucle des lignes 9 à 11 :
+Je ne suis pas sur de comprendre la question, mais un algo de factorisation doit essayer plusieurs divisions successives par un diviseur premier trouvé pour définir sa puissance. Par exemple ma fonction [Goulib.math2.prime_factors](https://web.archive.org/web/20230925195105/https://goulib.readthedocs.io/en/latest/_modules/Goulib/math2.html#prime_factors) fait ça dans la boucle des lignes 9 à 11 :
 
 ```
 def prime_factors(num, start=2):

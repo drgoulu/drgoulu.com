@@ -18,6 +18,6 @@ coverImage: ./images/quora.png
 
 1. Que vous ne savez pas mentionner des sources
 2. Qu'avec plus de 600 questions, seul le programme partenaire vous motive
-3. Que vous ne connaissez ni la [Sentry: Earth Impact Monitoring](https://cneos.jpl.nasa.gov/sentry/) ni l'[Échelle de Turin](w:) ni l'[Échelle de Palerme](w:)
+3. Que vous ne connaissez ni la [Sentry: Earth Impact Monitoring](https://web.archive.org/web/20190820094652/https://cneos.jpl.nasa.gov/sentry/) ni l'[Échelle de Turin](w:) ni l'[Échelle de Palerme](w:)
 4. Que vous ne lirez jamais mon excellent article [Risques météoritiques - Pourquoi Comment Combien](/2012/01/28/risques-meteoritiques/)
 5. Que votre question mérite un downvote plutôt qu'une réponse.

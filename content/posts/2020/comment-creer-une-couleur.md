@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 En bossant chez [Pantone](https://www.pantone.com/), c'est leur business. Ils définissent de nouvelles couleurs par mélange d'encres de référence pour l'industrie graphique
 
-Ils font même une "[Color of the Year](https://www.pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2020)". Cette année c'est 19-4052 Classic Blue.
+Ils font même une "[Color of the Year](https://web.archive.org/web/20200713163532/https://www.pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2020)". Cette année c'est 19-4052 Classic Blue.

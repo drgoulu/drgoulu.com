@@ -11,4 +11,4 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Comment-resourdre-5sin-2x-x-elle-a-7-solutions/answer/Dr-Goulu)*
 
-7 selon [5sin(2x)=x - Wolfram|Alpha](https://www.wolframalpha.com/input/?i=5sin(2x)=x)
+7 selon [5sin(2x)=x - Wolfram|Alpha](https://web.archive.org/web/20200628/https://www.wolframalpha.com/input/?i=5sin(2x)=x)

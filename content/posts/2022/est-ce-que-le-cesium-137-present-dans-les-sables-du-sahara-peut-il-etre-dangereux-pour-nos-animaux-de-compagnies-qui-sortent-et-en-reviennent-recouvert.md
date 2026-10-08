@@ -20,6 +20,6 @@ Ce qu'il y a de bien avec la radioactivité, c'est que même si vous avez un seu
 
 [La radioactivité naturelle](/2013/11/03/la-radioactivite-naturelle/#.YjeQVFPfs0E)moyenne est au moins 1000x plus élevée que celle détectée dans ces sables, et la radioactivité naturelle moyenne est des dizaines de fois plus faible que la dose dangereuse
 
-[https://www.liberation.fr/checkn...](https://www.liberation.fr/checknews/le-sable-du-sahara-qui-sest-depose-sur-la-france-ces-derniers-jours-contenait-il-des-particules-radioactives-20220316_DQZCNGIASZFJ5IFAOPIO2V5YFQ/)
+[https://www.liberation.fr/checkn...](https://web.archive.org/web/20220323175309/https://www.liberation.fr/checknews/le-sable-du-sahara-qui-sest-depose-sur-la-france-ces-derniers-jours-contenait-il-des-particules-radioactives-20220316_DQZCNGIASZFJ5IFAOPIO2V5YFQ/)
 
 [https://xkcd.com/radiation/](https://xkcd.com/radiation/)

@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui, il peut y avoir des différences d’un Canton à l’autre puisque les polices sont cantonales, mais il est permis de filmer la police, avec les mêmes restrictions liées à la protection de la personnalité que pour tout autre film ou photo, plus l’interdiction d’interférer avec l’action de la police.
 
-source et détails : [Archives InterroGE - Question / réponse](http://www.ville-geneve.ch/themes/culture/offre-culturelle/bibliotheques/interroge/archives-interroge-question-reponse/?id_detail=4337)
+source et détails : [Archives InterroGE - Question / réponse](https://web.archive.org/web/20190317/http://www.ville-geneve.ch/themes/culture/offre-culturelle/bibliotheques/interroge/archives-interroge-question-reponse/?id_detail=4337)

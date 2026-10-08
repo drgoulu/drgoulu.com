@@ -16,7 +16,7 @@ coverImage: ./images/qimg-ef12e330e70966179283801740f27060.jpg
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Une-politique-de-lenfant-unique-peut-elle-sauver-le-climat-mondial-et-lhumanit%C3%A9/answer/Dr-Goulu)*
 
-Essayez sur le [Simulateur de population](https://www.ined.fr/_modules/SimulateurPopulation/?lang=fr) de l'INED. Ca donne ça:
+Essayez sur le [Simulateur de population](https://web.archive.org/web/20200417165559/https://www.ined.fr/_modules/SimulateurPopulation/?lang=fr) de l'INED. Ca donne ça:
 
 ![](./images/qimg-ef12e330e70966179283801740f27060.jpg)
 

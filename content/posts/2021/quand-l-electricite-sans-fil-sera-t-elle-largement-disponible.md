@@ -34,4 +34,4 @@ Elle l'a été quand les émetteurs radio de TSF alimentaient les [Récepteur à
 
 Notes de bas de page
 
-[[1]](#cite-LQjXe)[Raconte-moi la radio](http://leradiofil.com/tour_eiffel.htm)
+[[1]](#cite-LQjXe)[Raconte-moi la radio](https://web.archive.org/web/20211203070327/http://leradiofil.com/tour_eiffel.htm)

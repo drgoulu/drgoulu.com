@@ -11,7 +11,7 @@ coverImage: ./images/quora.png
 
 *Réponse publiée [sur Quora](https://fr.quora.com/Recevons-nous-toujours-des-signaux-du-Voyager-1-Si-oui-comment-est-ce-possible/answer/Dr-Goulu)*
 
-On ne se lasse pas de consulter [Voyager - Mission Status](https://voyager.jpl.nasa.gov/mission/status/), avec les nouvelles en temps réel de ces deux merveilles.
+On ne se lasse pas de consulter [Voyager - Mission Status](https://web.archive.org/web/20200824133404/https://voyager.jpl.nasa.gov/mission/status/), avec les nouvelles en temps réel de ces deux merveilles.
 
 Voyager 1 fêtera son 43ème anniversaire dans l'espace le 5 septembre. Elle est à 150 [Unité astronomique](w:), presque un jour-lumière. C'est énorme !
 

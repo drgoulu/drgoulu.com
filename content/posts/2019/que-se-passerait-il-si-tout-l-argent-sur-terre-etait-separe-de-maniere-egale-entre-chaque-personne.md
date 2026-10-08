@@ -28,4 +28,4 @@ Ca fait un choc de réaliser qu'on fait partie des 10 ou 20% des plus riches du 
 
 Essayez [Où vous situez-vous dans la répartition des revenus?](https://wid.world/fr/simulateur-de-revenus/)
 
-[L a richesse mondiale gagne 27% en dix ans, portée par de nouvelles progressions aux États-Unis](https://www.credit-suisse.com/articles/media-releases/2017/11/fr/global-wealth-27--higher-than-a-decade-ago--led-by-further-us-ga.html)
+[L a richesse mondiale gagne 27% en dix ans, portée par de nouvelles progressions aux États-Unis](https://web.archive.org/web/20210626182311/https://www.credit-suisse.com/articles/media-releases/2017/11/fr/global-wealth-27--higher-than-a-decade-ago--led-by-further-us-ga.html)

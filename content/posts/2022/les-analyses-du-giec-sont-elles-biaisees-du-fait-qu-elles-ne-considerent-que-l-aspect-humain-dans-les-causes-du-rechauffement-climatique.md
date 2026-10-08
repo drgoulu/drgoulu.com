@@ -24,7 +24,7 @@ Il faut insister sur le fait que le GIEC ne fait pas d'analyses, il fait des syn
 
 Les premiers travaux du GIEC dans les années 1990 ont été de confirmer les mesures, donc d'établir le fait (contesté à l'époque) : la Terre se réchauffe.
 
-Les travaux suivants ont d'en établir l'origine. Le [rapport du GIEC de 2007 contient cette figure](https://archive.ipcc.ch/publications_and_data/ar4/wg1/fr/spmsspm-2.html)qui montre l'impact des causes naturelles et d'origine humaine :
+Les travaux suivants ont d'en établir l'origine. Le [rapport du GIEC de 2007 contient cette figure](https://web.archive.org/web/20191219030814/https://archive.ipcc.ch/publications_and_data/ar4/wg1/fr/spmsspm-2.html)qui montre l'impact des causes naturelles et d'origine humaine :
 
 ![](./images/qimg-9dc8520df73e339b94eb8c46a83c8061.jpg)
 
@@ -48,6 +48,6 @@ Donc depuis 2007, le GIEC fait des prévisions du climat futur en se basant sur 
 
 Note * : regardez par exemple un chapitre d'un rapport du GIEC pris au hasard :
 
-[https://archive.ipcc.ch/pdf/asse...](https://archive.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_Chapter02_FINAL.pdf)
+[https://archive.ipcc.ch/pdf/asse...](https://web.archive.org/web/20220217154643/https://archive.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_Chapter02_FINAL.pdf)
 
 sur 96 pages, les 17 dernières sont la liste des 850 (!) références utilisées pour écrire le chapitre …

@@ -13,7 +13,7 @@ coverImage: ./images/quora.png
 
 Les 13 brevets de BioNTech sont cités ici:
 
-[https://www.citizen.org/article/...](https://www.citizen.org/article/biontech-and-pfizers-bnt162-vaccine-patent-landscape/)
+[https://www.citizen.org/article/...](https://web.archive.org/web/20210218125837/https://www.citizen.org/article/biontech-and-pfizers-bnt162-vaccine-patent-landscape/)
 
 Les 7 brevets de moderna sont cités ici :
 

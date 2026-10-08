@@ -13,4 +13,4 @@ coverImage: ./images/quora.png
 
 Oui. Quand on "croit entendre" on vérifie avant de répéter.
 
-[https://www.lemonde.fr/les-decod...](https://www.lemonde.fr/les-decodeurs/article/2022/03/19/laboratoires-americains-en-ukraine-aux-origines-d-une-theorie-du-complot_6118203_4355770.html)
+[https://www.lemonde.fr/les-decod...](https://web.archive.org/web/20250906161050/https://www.lemonde.fr/les-decodeurs/article/2022/03/19/laboratoires-americains-en-ukraine-aux-origines-d-une-theorie-du-complot_6118203_4355770.html)

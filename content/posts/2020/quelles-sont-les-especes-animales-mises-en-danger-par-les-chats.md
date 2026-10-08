@@ -26,6 +26,6 @@ Grace aux humains, les chats ont pu proliférer et menacer la biodiversité comm
 
 Notes de bas de page
 
-[[1]](#cite-EDxiI)[L'Australie envisage à nouveau de tuer des millions de chats sauvages en larguant des saucisses saupoudrées de poison](http://www.slate.fr/story/176313/australie-tuer-millions-chats-sauvages-saucisses-poison-bardot)
+[[1]](#cite-EDxiI)[L'Australie envisage à nouveau de tuer des millions de chats sauvages en larguant des saucisses saupoudrées de poison](https://web.archive.org/web/20200130034502/http://www.slate.fr/story/176313/australie-tuer-millions-chats-sauvages-saucisses-poison-bardot)
 
 [[2]](#cite-ZMudE)[Le chat domestique, un fléau envahissant pour la biodiversité](https://www.notre-planete.info/actualites/118-chat-domestiques-biodiversite-oiseaux)

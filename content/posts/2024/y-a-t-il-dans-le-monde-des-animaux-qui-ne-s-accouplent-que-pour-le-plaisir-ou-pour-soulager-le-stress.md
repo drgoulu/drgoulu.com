@@ -17,6 +17,6 @@ Tous. Sinon pourquoi le feraient-ils ?
 
 Même chez Homo Sapiens ce lien est "récent" et peut-être même pas complètement établi partout
 
-[https://www.slate.fr/story/67281...](https://www.slate.fr/story/67281/comment-humains-rapport-sexe-bebe)
+[https://www.slate.fr/story/67281...](https://web.archive.org/web/20231121171549/https://www.slate.fr/story/67281/comment-humains-rapport-sexe-bebe)
 
 Il n'y a pas d'autre motivation biologique à l'acte sexuel que le plaisir.

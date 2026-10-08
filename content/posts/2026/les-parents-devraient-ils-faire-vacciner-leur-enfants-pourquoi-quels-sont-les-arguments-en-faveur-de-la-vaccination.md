@@ -20,7 +20,7 @@ coverImage: ./images/quora.png
 >
 >
 >
-> [Contribution of vaccination to improved survival and health: modelling 50 years of the Expanded Programme on Immunization](https://www.sciencedirect.com/science/article/pii/S014067362400850X?via=ihub) (The Lancet, 2024)
+> [Contribution of vaccination to improved survival and health: modelling 50 years of the Expanded Programme on Immunization](https://web.archive.org/web/20260314/https://www.sciencedirect.com/science/article/pii/S014067362400850X?via=ihub) (The Lancet, 2024)
 
 ([FAQs - infovac.ch](https://www.infovac.ch/fr/?view=category&layout=blog&id=17&start=6))
 

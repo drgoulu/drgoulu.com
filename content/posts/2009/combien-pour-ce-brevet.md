@@ -33,12 +33,12 @@ En y regardant de plus près, probablement. Les premières pages du brevet décr
 
 Le fait d'avoir accepté le brevet signifie donc que la théorie physique sur la structure de l'espace-temps qu'il contient, appuyée par force références, est considérée comme l'état de l'art de la physique actuelle.
 
-Examiner sérieusement un tel brevet demanderait des connaissances avancées en physique. Il y a un siècle,  [Albert Einstein travaillait au bureau suisse des brevets à Berne](https://www.ige.ch/fr/portrait/histoire-de-lipi/einstein.html), mais aujourd'hui les scientifiques ont l'impression que les brevets sont accordés beaucoup trop facilement, et essentiellement sur des considérations juridiques et économiques, voire politiques. Il faut dire:
+Examiner sérieusement un tel brevet demanderait des connaissances avancées en physique. Il y a un siècle,  [Albert Einstein travaillait au bureau suisse des brevets à Berne](https://web.archive.org/web/20190822054920/https://www.ige.ch/fr/portrait/histoire-de-lipi/einstein.html), mais aujourd'hui les scientifiques ont l'impression que les brevets sont accordés beaucoup trop facilement, et essentiellement sur des considérations juridiques et économiques, voire politiques. Il faut dire:
 
 1. qu'un brevet accepté, c'est des sous qui entrent à l'office, et des politiques contents parce qu'ils y voient un résultat de l'investissement dans la recherche
 2. un brevet refusé, c'est des sous qui sortent si l'inventeur dépose un recours, et un [pays dont la recherche est moins productive que celle de ses voisins](http://www.senat.fr/questions/base/1998/qSEQ980508659.html).
 
-Bref, un office des brevets n'a aucune raison de passer un temps couteux à examiner un brevet. La preuve extrême se trouve dans le brevet australien [2001100012](http://www.tuv.com/media/germany/50_trainingandconsulting/pdf/patente/Circular_transportation_facilitation_device.pdf) de 2001 à John Keogh un pour un "appareil circulaire facilitant le transport" ("circular transportation facilitation device") dont voici les deux figures illustrant l'invention :
+Bref, un office des brevets n'a aucune raison de passer un temps couteux à examiner un brevet. La preuve extrême se trouve dans le brevet australien [2001100012](https://web.archive.org/web/20121020232228/http://www.tuv.com/media/germany/50_trainingandconsulting/pdf/patente/Circular_transportation_facilitation_device.pdf) de 2001 à John Keogh un pour un "appareil circulaire facilitant le transport" ("circular transportation facilitation device") dont voici les deux figures illustrant l'invention :
 
 [![roue](./images/5ebfed0852b0025bfd8bc8e2dd917008.png)](./images/5ebfed0852b0025bfd8bc8e2dd917008.png) [![chariot](./images/0eb35850814fc1659bdf8acff07cabeb.png)](./images/0eb35850814fc1659bdf8acff07cabeb.png)
 
@@ -65,13 +65,13 @@ A mon huble avis,  Boris Volfson aurait du écrire un roman décrivant son vais
 
 ### Liens
 
-1. [L'Office européen des brevets en grève pour dénoncer les abus](http://www.numerama.com/magazine/10718-l-office-europeen-des-brevets-en-greve-pour-denoncer-les-abus.html) sur Numerama, 25 septembre 2008
-2. [Statistiques sur les brevets](http://www.wipo.int/ipstats/fr/statistics/patents/) au WIPO
+1. [L'Office européen des brevets en grève pour dénoncer les abus](https://web.archive.org/web/20081115114416/http://www.numerama.com/magazine/10718-l-office-europeen-des-brevets-en-greve-pour-denoncer-les-abus.html) sur Numerama, 25 septembre 2008
+2. [Statistiques sur les brevets](https://web.archive.org/web/20090306021817/http://www.wipo.int/ipstats/fr/statistics/patents/) au WIPO
 3. [Brevet](w:) et [Droit d'auteur](w:) sur Wikipedia
 4. "[Patentabilty](http://www.uspto.gov/web/offices/pac/mpep/documents/2100.htm)" sur uspto.gov : règles de "brevetabilité" aux usa
 5. [le droit des brevets](http://www.hautehorlogerie.org/fr/fondation/fight-against-counterfeiting/propriete-intellectuelle/droit-des-brevets/) sur hautehorlogerie.org, un résumé très bien fait
-6. [page sur les mouvements perpétuels](http://www.quanthomme.info/energielibre/machines/MVP.htm) avec beaucoup d'illustrations et de références de brevets rigolos.
+6. [page sur les mouvements perpétuels](https://web.archive.org/web/20090228212604/http://www.quanthomme.info/energielibre/machines/MVP.htm) avec beaucoup d'illustrations et de références de brevets rigolos.
 7. quelques recueils de brevets exotiques et amusants:
-    - [CrazyPatents.com](http://www.crazypatents.com/)
-    - [Crazy Patents](http://www.freepatentsonline.com/crazy.html) sur [freepatentsonline.com](http://www.freepatentsonline.com)
+    - [CrazyPatents.com](https://web.archive.org/web/20070629221558/http://www.crazypatents.com/)
+    - [Crazy Patents](https://web.archive.org/web/20080908063741/http://www.freepatentsonline.com/crazy.html) sur [freepatentsonline.com](https://web.archive.org/web/20090326054611/http://www.freepatentsonline.com)
     - [The Null's Top Ten Crazy Patents](http://www.null-hypothesis.co.uk/science/strange-but-true/patent-lunacy/top_ten_bizarre_crazy_patents)

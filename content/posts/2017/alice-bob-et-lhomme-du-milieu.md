@@ -40,7 +40,7 @@ Pour débusquer l'infâme Mallory, Alice et Bob auraient du demander à leur ami
 2. Bob renvoie, en clair aussi "Chère Alice, voici mon certificat Cb" en le signant  avec Sb, sa signature.
 3. Alice peut alors déchiffrer le certificat avec la clé publique de Nestor (oui.. un peu de patience...) pour obtenir la clé publique Eb de Bob. Avec Eb, elle peut alors aussi vérifier la signature Sb du message comme [expliqué la dernière fois.](/2017/02/15/alice-et-bob-et-les-cles-asymetriques/) Si l'opération réussit, c'est que la clé Eb est bien celle de Bob, certifiée par Nestor
 4. Totalement rassurée, Alice peut alors lui transmettra son invitation confidentielle, chiffrée avec Eb, et contenant éventuellement son certificat Ca à elle pour que Bob soit sur qu'elle est bien l'Alice qu'elle prétend être...
-5. ... et Mallory [ne peut rien faire](https://security.stackexchange.com/a/81873/108108) car pour fabriquer un faux certificat Cmb avec une fausse clé Emb il doit disposer de la clé privée de Nestor.
+5. ... et Mallory [ne peut rien faire](https://web.archive.org/web/20180319104242/https://security.stackexchange.com/a/81873/108108) car pour fabriquer un faux certificat Cmb avec une fausse clé Emb il doit disposer de la clé privée de Nestor.
 
 Nestor doit donc être un [tiers de confiance](w:) en qui Alice et Bob ont une confiance totale:
 

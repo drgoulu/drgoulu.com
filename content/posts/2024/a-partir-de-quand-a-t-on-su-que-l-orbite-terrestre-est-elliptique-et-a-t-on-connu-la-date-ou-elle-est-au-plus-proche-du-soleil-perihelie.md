@@ -24,4 +24,4 @@ Kepler a montré que l'orbite de Mars est elliptique, et a généralisé cette i
 
 Je n'ai pas trouvé quel astronome a calculé l'excentricité de l'orbite de la Terre avec précision pour la première fois.
 
-[https://astronomy.stackexchange....](https://astronomy.stackexchange.com/questions/36191/when-did-people-first-measure-that-the-earth-was-closest-to-the-sun-during-janua)
+[https://astronomy.stackexchange....](https://web.archive.org/web/20250818200302/https://astronomy.stackexchange.com/questions/36191/when-did-people-first-measure-that-the-earth-was-closest-to-the-sun-during-janua)

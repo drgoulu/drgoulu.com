@@ -28,7 +28,7 @@ ceux-là posent les bases indispensables pour permettre de futures avancées. Av
 ### Ref et liens
 
 1. {{< openbook booknumber="ISBN:9782711743513" templatenumber="5" >}}
-2. {{< openbook booknumber="OLID:OL14245342M" templatenumber="5" >}}  _p. 379 \*54.43 : [1+1=2](http://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?c=umhistmath&cc=umhistmath&idno=aat3201.0001.001&frm=frameset&view=image&seq=401)_
+2. {{< openbook booknumber="OLID:OL14245342M" templatenumber="5" >}}  _p. 379 \*54.43 : [1+1=2](https://web.archive.org/web/20120511103013/http://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?c=umhistmath&cc=umhistmath&idno=aat3201.0001.001&frm=frameset&view=image&seq=401)_
 
 - une autre [critique sur mathéphysique](http://math-et-physique.over-blog.com/article-logicomix-53204287.html)
 - [Logicomix sur Wikipedia](w:Logicomix)

@@ -18,11 +18,11 @@ coverImage: ./images/quora.png
 
 Celles qui sont déjà numérisées sont là
 
-[http://www.archivesnationales.cu...](http://www.archivesnationales.culture.gouv.fr/anom/fr/Actualites/Mises-en-ligne.html)
+[http://www.archivesnationales.cu...](https://web.archive.org/web/20230507190513/http://www.archivesnationales.culture.gouv.fr/anom/fr/Actualites/Mises-en-ligne.html)
 
 Et pour les autres vous devez aller les consulter à Aix en Provence
 
-[http://www.archivesnationales.cu...](http://www.archivesnationales.culture.gouv.fr/anom/fr/Pratique/Comment-venir.html)
+[http://www.archivesnationales.cu...](https://web.archive.org/web/20240623203008/http://www.archivesnationales.culture.gouv.fr/anom/fr/Pratique/Comment-venir.html)
 
 Il y a des centaines de chercheurs qui ont publié des milliers d'articles et de livres sur cette période, vous pouvez trouver les références ici
 

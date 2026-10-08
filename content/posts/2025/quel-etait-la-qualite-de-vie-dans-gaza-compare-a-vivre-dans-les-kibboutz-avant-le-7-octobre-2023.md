@@ -21,6 +21,6 @@ En 2022, l'[Indice de Développement Humain](w:Liste_des_pays_par_IDH)d'Israël 
 >
 >
 >
-> Source : [ONU](https://news.un.org/fr/story/2024/10/1149911)
+> Source : [ONU](https://web.archive.org/web/20260219012035/https://news.un.org/fr/story/2024/10/1149911)
 
 0,408, c'est le score du Mali en 2022.
