@@ -1,11 +1,11 @@
 ---
 title: Pourquoi les infidèles savent-ils que le porc et l'alcol sont haram mais en consomment-ils quand même ? Est-ce de l'arrogance ?
-slug: pourquoi-les-infideles-savent-ils-que-le-porc-et-l-alcol-sont-haram-mais-en-consomment-ils-quand-meme-est-ce-de-l-arrogance
-date: '2026-07-08'
+date: 2026-07-08
 draft: false
-categories:
-- Pourquoi
 tags: []
+categories:
+  - Pourquoi
+slug: pourquoi-les-infideles-savent-ils-que-le-porc-et-l-alcol-sont-haram-mais-en-consomment-ils-quand-meme-est-ce-de-l-arrogance
 coverImage: ./images/quora.png
 ---
 
