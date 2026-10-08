@@ -55,9 +55,11 @@ Pour créer un site, on tape dans un shell :
 
 
 
+
 # Requires Node.js
 npm install -g hugoblox
 hugoblox create site
+
 
 
 
@@ -160,7 +162,9 @@ en ça :
 
 
 
+
 def r(a): i=a.find('0') if i<0:print a [m in[(i-j)%9*(i/9^j/9)*(i/27^j/27|i%9/3^j%9/3)or a[j]for j in range(81)]or r(a[:i]+m+a[i+1:])for m in`14**7*9`]r(raw_input())
+
 
 
 
@@ -180,6 +184,8 @@ Je n'ai pas beaucoup hésité :  il n'y a pas vraiment d'alternative et une bonn
 Il y a notamment eu un problème un peu technique que j'ai remonté au support Disqus, il est documenté dans un commentaire ci-dessous, que je supprimerai quand il sera résolu.
 
 Et je cherche toujours quelques années de commentaires WordPress qui n'ont pas migré sous Disqus pour une raison inconnue ...
+
+(Edit du 8.10 : trouvé ! Le fichier .xml exporté je venait pas de drgoulu.com mais de drgoulu.local, ma copie locale de développement. Or Disqus raccroche les commentaires aux URL exactes des articles... Un petit search/replace dans le xml plus tard, tout est rentré dans l'ordre)
 
 Le gros morceau qui reste, c'est mon projet de [migrer mes milliers de réponses Quora ici... J'y consacre un article séparé.](/2026/09/17/2026/migration-de-quora-à-hugo/)
 
