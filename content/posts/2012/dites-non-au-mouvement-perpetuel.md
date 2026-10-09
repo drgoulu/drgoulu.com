@@ -11,7 +11,7 @@ tags:
 categories:
   - Pourquoi
 slug: dites-non-au-mouvement-perpetuel
-coverImage: ./images/4333d9e2e65f2e1e7cd12e847855fead.jpg
+coverImage: images/costa1avant.jpg
 ---
 
 Un collègue est arrivé au boulot tout excité par le "[moteur magnétique](https://web.archive.org/web/20120527004537/http://tvmag.lefigaro.fr/programme-tv/article/divertissement/69742/l-inventeur-un-jure-emu-par-une-invention.html)" présenté par un certain Aurélien Prévost à l'émission "l'inventeur 2012" sur M6. Il s'agit d'une "rampe de lancement" magnétique très similaire à celle ci-dessous [[1]](#ref-1), déjà [brevetée](/2009/03/08/combien-pour-ce-brevet/) en 1977 [[2]](#ref-2):
