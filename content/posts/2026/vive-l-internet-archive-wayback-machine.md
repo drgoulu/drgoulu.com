@@ -13,7 +13,7 @@ coverImage: ./images/Wayback_Machine_logo_2010.svg.webp
 
 La plaie quand on a un "vieux" site, ce sont les liens cassés : pages modifiées, effacées, redirigées n fois, sites complets disparus ou pire, repris par des casinos en ligne ... 
 
-Sur drgoulu..com, il y a plus de 3500 liens qui ne mènent plus au bon endroit. Sur mon ancien site Wordpress, j'avais un plugin qui m'informait chaque semaine de nouveaux liens cassés, ce qui me faisait une belle jambe....
+Sur drgoulu..com, il y avait plus de 3500 liens qui ne mènent plus au bon endroit. Sur mon ancien site Wordpress, j'avais un plugin qui m'informait chaque semaine de nouveaux liens cassés, ce qui me faisait une belle jambe....
 
 Et puis, lors de la [migration de Wordpress à Hugo](/2026/08/24/migration/), c'est l'IA qui été chercher "toute seule" des images manquantes sur [Internet Archive](w:), plus particulièrement sur la [Wayback Machine](w;), l'incroyable site qui archive les versions passées de beaucoup de pages internet.
 
@@ -37,11 +37,13 @@ Un quart d'heure plus tard, ça n'a pas corrigé tous les problèmes, mais beauc
 
 
 
+
 Articles analysés        : 18255
 Articles modifiés        : 1895
 Liens remplacés          : 3252
     - Instantanés antérieurs confirmés : 1335
     - Sans capture antérieure trouvée  : 2045
+
 
 
 
