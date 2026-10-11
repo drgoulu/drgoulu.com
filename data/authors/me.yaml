@@ -21,5 +21,5 @@ links:
     url: "https://philippe-guglielmetti.com"
     label: "Mon CV"
   - icon: "rss"
-    url: "./blog/index.xml"
+    url: "/index.xml"
     label: "Abonnez vous au flux RSS"

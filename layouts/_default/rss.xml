@@ -1,0 +1,66 @@
+{{- /* RSS 2.0 template for drgoulu.com */ -}}
+{{- $pctx := . -}}
+{{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
+{{- $pages := slice -}}
+{{- if or $.IsHome $.IsSection -}}
+  {{- $pages = $pctx.RegularPages -}}
+{{- else -}}
+  {{- $pages = $pctx.Pages -}}
+{{- end -}}
+{{- if .IsHome -}}
+  {{- $pages = where $pages "Section" "posts" -}}
+  {{- $migrationDate := time "2026-08-24" -}}
+  {{- $filtered := slice -}}
+  {{- range $pages -}}
+    {{- if ge .Date $migrationDate -}}
+      {{- $filtered = $filtered | append . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if gt (len $filtered) 0 -}}
+    {{- $pages = $filtered -}}
+  {{- else -}}
+    {{- $pages = first 20 $pages -}}
+  {{- end -}}
+{{- else -}}
+  {{- $limit := .Site.Config.Services.RSS.Limit | default 50 -}}
+  {{- if ge $limit 1 -}}
+    {{- $pages = first $limit $pages -}}
+  {{- end -}}
+{{- end -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <link>{{ .Permalink }}</link>
+    <description>{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.hugoblox.identity.description }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}{{ end }}</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator>
+    <language>{{ site.Language.Locale | default (site.Language.LanguageCode | default "fr-FR") }}</language>
+    <managingEditor>drgoulu@gmail.com (Dr. Goulu)</managingEditor>
+    <webMaster>drgoulu@gmail.com (Dr. Goulu)</webMaster>
+    {{- with .Site.Copyright }}
+    <copyright>{{ . }}</copyright>
+    {{- end }}
+    {{- with $pages }}
+    <lastBuildDate>{{ (index . 0).Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+    {{- else }}
+    <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+    {{- end }}
+    {{- with .OutputFormats.Get "RSS" -}}
+    {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+    {{- end }}
+    <image>
+      <url>{{ "media/icon_hu_6a307aa565546716.png" | absURL }}</url>
+      <title>{{ $.Site.Title }}</title>
+      <link>{{ $.Site.BaseURL }}</link>
+    </image>
+    {{- range $pages }}
+    <item>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+      <guid>{{ .Permalink }}</guid>
+      <description>{{ .Content | html }}</description>
+    </item>
+    {{- end }}
+  </channel>
+</rss>

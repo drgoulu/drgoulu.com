@@ -25,6 +25,10 @@ ErrorDocument 404 /404.html
 
   # 5. Normalisation /.well-known/ endpoints (trailing slash)
   RewriteRule ^\.well-known/(api-catalog|openid-configuration|oauth-authorization-server|oauth-protected-resource)/$ /.well-known/$1 [R=301,L]
+
+  # 6. Redirection des alias de flux RSS vers /index.xml
+  RewriteRule ^(feed|rss)(\.xml)?/?$ /index.xml [R=301,L]
+  RewriteRule ^blog/index\.xml$ /index.xml [R=301,L]
 </IfModule>
 
 # Types MIME modernes

@@ -1,7 +1,7 @@
 ---
 title: "Home"
 summary: ""
-date: "2023-10-24"
+date: "2026-10-08"
 type: "landing"
 sections:
   - block: "collection"
