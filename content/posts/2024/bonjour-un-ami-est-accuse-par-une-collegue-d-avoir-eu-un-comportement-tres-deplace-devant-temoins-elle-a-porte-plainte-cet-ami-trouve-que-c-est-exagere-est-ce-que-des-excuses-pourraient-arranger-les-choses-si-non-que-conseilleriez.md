@@ -1,17 +1,16 @@
 ---
-
 title: Bonjour un ami est accusé par une collègue d avoir eu un comportement très déplacé devant temoins, elle a porté plainte. Cet ami trouve que c est exagéré. Est-ce que des excuses pourraient arranger les choses ? Si non que conseilleriez vous ? Merci
-slug: bonjour-un-ami-est-accuse-par-une-collegue-d-avoir-eu-un-comportement-tres-deplace-devant-temoins-elle-a-porte-plainte-cet-ami-trouve-que-c-est-exagere-est-ce-que-des-excuses-pourraient-arranger-les-choses-si-non-que-conseilleriez
-date: '2024-02-01'
-draft: false
-categories:
-- Quora
+date: 2024-02-01
+draft: true
 tags:
-- conseils
-- travail
-- juridique
-- relations-humaines
-- harcelement
+  - conseils
+  - travail
+  - juridique
+  - relations-humaines
+  - harcelement
+categories:
+  - Quora
+slug: bonjour-un-ami-est-accuse-par-une-collegue-d-avoir-eu-un-comportement-tres-deplace-devant-temoins-elle-a-porte-plainte-cet-ami-trouve-que-c-est-exagere-est-ce-que-des-excuses-pourraient-arranger-les-choses-si-non-que-conseilleriez
 coverImage: ./images/quora.png
 ---
 
