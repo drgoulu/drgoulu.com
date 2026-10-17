@@ -1,19 +1,20 @@
 ---
-title: "Soldes 2012 : Ecolonergie"
-slug: "soldes-2012-ecolonergie"
+title: 'Soldes 2012 : Ecolonergie'
 date: 2012-12-29
+draft: false
+tags:
+  - demographie
+  - ecologisme
+  - economie
+  - energie
+  - gapminder
+  - nucleaire
 categories:
-  - "Combien"
-  - "Comment"
-  - "Pourquoi"
-tags: 
-  - "demographie"
-  - "ecologisme"
-  - "economie"
-  - "energie"
-  - "gapminder"
-  - "nucleaire"
-coverImage: "./images/f76b4c9b7c2f35a7aba552db5989b104.jpg"
+  - Combien
+  - Comment
+  - Pourquoi
+slug: soldes-2012-ecolonergie
+coverImage: ./images/f76b4c9b7c2f35a7aba552db5989b104.jpg
 ---
 
 _Il me reste un problème en cette fin d'année : que faire d'une bonne dizaine d'articles commencés en 2012  et restés à l'état de brouillons ? (Alors que mon job consiste entre autres à combattre la production d'invendus et les stocks que ça génère... il va me falloir une bonne résolution 2013...) Alors je vide le stock, en vrac et un peu plus bruts que d'habitude, en faisant pour commencer un multipack de 5 brouillons sur mes interrogations écono-écolo-énergétiques, avec un soupçon de démographie:_
@@ -22,7 +23,7 @@ _Il me reste un problème en cette fin d'année : que faire d'une bonne dizaine 
 
 L'énergie est rare, précieuse, et il faut l'économiser parce qu'elle va coûter plus cher, vous dit-on. On vous ment. L'énergie est ce qu'il y a de plus abondant dans l'Univers, elle ne vaut rien du tout car c'est la plus élémentaire des matières premières.
 
-Ca vous choque d'assimiler l'énergie à de la matière première ? Pourtant vous connaissez surement E=m.c² la célèbre formule qui relie les deux via ce facteur c², la vitesse de la lumière au carré. Elle dit qu'un kg de matière quelconque est équivalente à une énergie de 1 \[kg\] x 300'000'000² \[m²/s²\] = 9.1016\[kg.m²/s²\] soit 90 [peta](w:Péta)[joule](w:), ou 25 milliards de [kWh](w:), ou encore 2'149'613 [tonnes équivalent pétrole](w:Tonne_d'équivalent_pétrole) \[tep\]\*
+Ca vous choque d'assimiler l'énergie à de la matière première ? Pourtant vous connaissez surement E=m.c² la célèbre formule qui relie les deux via ce facteur c², la vitesse de la lumière au carré. Elle dit qu'un kg de matière quelconque est équivalente à une énergie de 1 [kg] x 300'000'000² [m²/s²] = 9.1016 [kg.m²/s²] soit 90 [[peta](w:Péta)][joule](w:), ou 25 milliards de [kWh](w:), ou encore 2'149'613 [tonnes équivalent pétrole](w:Tonne_d'équivalent_pétrole) [tep]\*
 
 La [production d'énergie annuelle](w:Ressources_et_consommation_énergétiques_mondiales) de l'humanité étant d'environ 12 milliards de tep, l'équation d'Albert nous dit que nous convertissons environ 5.5 tonnes de matière en énergie chaque année. Seulement. Si nous avions des mines d'antimatière quelque part, nous saurions la convertir milligramme par milligramme en énergie avec un rendement de 100%, et même si cette antimatière se négociait à mille fois le prix actuel de l'or, disons 40 millions d'euro le kg, ça nous mettrait le kWh à 0.2 centimes environ. Rien du tout.
 
@@ -31,11 +32,11 @@ La [production d'énergie annuelle](w:Ressources_et_consommation_énergétiques
 Embryon d'article motivé par la collision entre:
 
 1. cette (ancienne) figure revenue sur le devant du web :
-    
+
     [![](./images/f76b4c9b7c2f35a7aba552db5989b104.jpg)](./images/f76b4c9b7c2f35a7aba552db5989b104.jpg)
-    
+
     cliquer pour agrandir
-    
+
 2. la lecture du [paragraphe "Abondance" de l'article "Uranium" de la wikipédia](w:Uranium#Abondance) : _"Il est plus abondant dans la nature que l'or ou l'argent. (...)  Ainsi, le sous-sol d'un jardin sur un carré de 20 m de côté peut-il en contenir, sur une profondeur de 10 m, environ 24 kg. (...). L'eau de mer contient environ 3 mg d'uranium par m3, soit 4,5 milliards de tonnes d'uranium dissous dans les océans. Les eaux douces en contiennent souvent aussi en diverses concentrations ; dont par exemple le Rhône qui en charrie environ 29 t/an, provenant essentiellement du ruissellement des roches uranifères des Alpes."_
 3. l'article "[Record haul of uranium harvested from seawater](https://web.archive.org/web/20121204203432/http://www.newscientist.com/article/dn22201-record-haul-of-uranium-harvested-from-seawater.html)" paru en août sur New Scientist et relayé [dans l'Usine Nouvelle](https://web.archive.org/web/20160813002411/http://www.usinenouvelle.com/article/chimie-un-filet-pour-pecher-l-uranium.N180862) où l'on apprend qu'il existe des filets sur lesquels l'uranium dissous dans l'eau de mer se dépose à raison de presque 4 grammes par kilogramme de filet. Encore un petit effort et cette technologie pourrait être compétitive avec l'extraction minière et donner accès à un stock d'environ 6500 ans de consommation actuelle...
 
@@ -82,6 +83,6 @@ Il y démontre plusieurs faits qui peuvent surprendre:
 - le nombre de naissances n'augmente plus notablement dans le monde
 - la population mondiale va augmenter jusqu'à 10 milliards d'habitants par "remplissage de la pyramide des âges". (voyez absolument la vidéo, au moins à partir de 10:20, par pitié!)
 
-{{< youtube id="ezVk1ahRF78" >}}
+{{< youtube "ezVk1ahRF78" >}}
 
 A ce propos je remarque que ni l'article "[Développement durable](w:)" ni "[Durabilité](w:)" de la Wikipédia ne fassent la moindre référence à la démographie... Suis-je donc je seul à me poser [la question d'un lien](/2009/06/06/developpement-durable-et-equation-de-kaya/) ? Il me semble que tous les modèles de société "durable" considèrent le problème dans un sens unique : puisque les ressources terrestres sont limitées, il faut limiter notre consommation totale, peu importe combien nous sommes. Pourquoi ne pas limiter plutôt notre nombre ? Car en fin de compte, c'est bien ce nombre qui risque d'être limité de force...
