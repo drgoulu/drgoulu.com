@@ -7,6 +7,7 @@ tags:
   - livres
   - degafamisation
   - pour la science
+  - vibe coding
 categories:
   - comment
 slug: ''
