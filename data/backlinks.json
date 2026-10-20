@@ -1604,13 +1604,6 @@
       "date": "2009-03-12"
     }
   ],
-  "/2007/05/28/le-rayon-vert/": [
-    {
-      "url": "/2019/12/16/le-rayon-vert-existe-t-il-vraiment/",
-      "title": "Le rayon vert existe-t-il vraiment ?",
-      "date": "2019-12-16"
-    }
-  ],
   "/2007/06/06/parcours-etranges/": [
     {
       "url": "/2007/12/16/arche-interstellaire-et-moteurs-a-antimatiere/",
@@ -2126,13 +2119,13 @@
   ],
   "/2007/11/07/ampoules-a-faible-consommation/": [
     {
-      "url": "/2007/11/17/lenigme-des-trois-interrupteurs/",
-      "title": "l\u0026#039;Enigme des Trois Interrupteurs",
+      "url": "/2007/11/17/radiateurs-a-teraflops/",
+      "title": "Radiateurs à Téraflops ?",
       "date": "2007-11-17"
     },
     {
-      "url": "/2007/11/17/radiateurs-a-teraflops/",
-      "title": "Radiateurs à Téraflops ?",
+      "url": "/2007/11/17/lenigme-des-trois-interrupteurs/",
+      "title": "l\u0026#039;Enigme des Trois Interrupteurs",
       "date": "2007-11-17"
     },
     {
@@ -7180,13 +7173,13 @@
       "date": "2019-12-07"
     },
     {
-      "url": "/2020/01/10/quels-sont-les-indices-qui-montrent-que-nikola-tesla-etait-trop-en-avance-sur-son-epoque/",
-      "title": "Quels sont les indices qui montrent que Nikola Tesla était",
+      "url": "/2020/01/10/pourquoi-la-serbie-qui-conserve-precieusement-les-travaux-de-fin-de-vie-de-nikola-tesla-sur-son-rayon-de-la-mort-choisit-elle-de-refuser-a-quiconque-l-acces-a-ses-archives/",
+      "title": "Pourquoi la Serbie qui conserve précieusement les travaux de fin de vie de Nikola Tesla sur son",
       "date": "2020-01-10"
     },
     {
-      "url": "/2020/01/10/pourquoi-la-serbie-qui-conserve-precieusement-les-travaux-de-fin-de-vie-de-nikola-tesla-sur-son-rayon-de-la-mort-choisit-elle-de-refuser-a-quiconque-l-acces-a-ses-archives/",
-      "title": "Pourquoi la Serbie qui conserve précieusement les travaux de fin de vie de Nikola Tesla sur son",
+      "url": "/2020/01/10/quels-sont-les-indices-qui-montrent-que-nikola-tesla-etait-trop-en-avance-sur-son-epoque/",
+      "title": "Quels sont les indices qui montrent que Nikola Tesla était",
       "date": "2020-01-10"
     },
     {
@@ -7779,13 +7772,13 @@
       "date": "2020-03-26"
     },
     {
-      "url": "/2020/09/24/le-modele-economique-capitaliste-est-il-fonde-sur-lobsolescence-programmee/",
-      "title": "Le modèle économique capitaliste est-il fondé sur l’obsolescence programmée ?",
+      "url": "/2020/09/24/quelles-sont-les-sanctions-du-delit-dobsolescence-programmee-prevues-a-larticle-l-213-4-1-du-code-de-la-consommation/",
+      "title": "Quelles sont les sanctions du délit d’obsolescence programmée prévues à l’article L. 213-4-1 du Code de la consommation ?",
       "date": "2020-09-24"
     },
     {
-      "url": "/2020/09/24/quelles-sont-les-sanctions-du-delit-dobsolescence-programmee-prevues-a-larticle-l-213-4-1-du-code-de-la-consommation/",
-      "title": "Quelles sont les sanctions du délit d’obsolescence programmée prévues à l’article L. 213-4-1 du Code de la consommation ?",
+      "url": "/2020/09/24/le-modele-economique-capitaliste-est-il-fonde-sur-lobsolescence-programmee/",
+      "title": "Le modèle économique capitaliste est-il fondé sur l’obsolescence programmée ?",
       "date": "2020-09-24"
     },
     {
@@ -8095,6 +8088,13 @@
       "url": "/2025/06/30/la-rotondite-de-la-terre-et-des-autres-planetes-depend-elle-du-referentiel/",
       "title": "La rotondité de la Terre (et des autres planètes) dépend-elle du référentiel ?",
       "date": "2025-06-30"
+    }
+  ],
+  "/2013/10/25/comment-gerer-ses-articles/": [
+    {
+      "url": "/2026/10/20/zotero-et-pour-la-science/",
+      "title": "Zotero et Pour la Science",
+      "date": "2026-10-20"
     }
   ],
   "/2013/10/26/112-le-prix-du-talent/": [
@@ -9663,6 +9663,13 @@
       "url": "/2026/09/20/la-k-theorie-de-morava-pour-les-enfants/",
       "title": "La K-théorie de Morava pour les enfants",
       "date": "2026-09-20"
+    }
+  ],
+  "/2016/12/12/bye-bye-pour-la-science/": [
+    {
+      "url": "/2026/10/20/zotero-et-pour-la-science/",
+      "title": "Zotero et Pour la Science",
+      "date": "2026-10-20"
     }
   ],
   "/2017/01/02/2017-et-les-triplets-pythagoriciens/": [

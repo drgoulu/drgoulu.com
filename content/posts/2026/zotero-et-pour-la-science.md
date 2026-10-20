@@ -10,7 +10,7 @@ tags:
 categories:
   - comment
 slug: ''
-coverImage: ''
+coverImage: ./images/zotero-et-pour-la-science.jpg
 ---
 
 Depuis 1990 environ j'utilise des gestionnaires de références bibliographiques pour retrouver mes lectures et les citer proprement. Pendant ma thèse c'était [EndNote](w:) sur Mac, puis j'ai [jonglé entre](/2013/10/25/comment-gerer-ses-articles/) [Zotero](w:) et [Mendeley](w:) pendant mes années Windows, entassant environ 9430 références d'articles, livres scientifiques et brevets, et 4827 fichiers .pdf totalisant 3.4 Gb. 
