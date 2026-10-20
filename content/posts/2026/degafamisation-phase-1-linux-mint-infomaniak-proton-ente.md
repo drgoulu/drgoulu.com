@@ -1,5 +1,5 @@
 ---
-title: 'DeGAFAMisation Phase 1 : Linux Mint, Infomaniak, Proton, Ente'
+title: 'DeGAFAMisation 1 : Linux Mint'
 date: 2026-10-04
 draft: true
 tags:
@@ -30,7 +30,13 @@ J'avais déjà touché un peu Linux, notamment il y a vingt ans pour installer u
 
 J'étais donc un peu inquiet quand même en installant [Linux Mint](w:), une distribution choisie pour la similitude de l'interface avec celle de Windows, parce qu'après 40 ans, c'est difficile de changer ses habitudes...
 
-Et c'est passé comme une lettre à la poste. Depuis plus dun an je n'utilise plus que Linux et ses logiciels libres, sans aucun problème ni regret. Au point que j'ai carrément viré la partition Windows du laptop, et installé aussi Mint sur mon "vieux" PC de bureau en ne gardant qu'un Windows minimal fait avec [Tiny11 builder](https://github.com/ntdevlabs/tiny11builder) "au cas où".
+Et c'est passé comme une lettre à la poste. Depuis plus dun an je n'utilise plus que Linux et ses logiciels libres, sans aucun problème ni regret. Au point que j'ai carrément viré la partition Windows du laptop, et installé aussi Mint sur mon "vieux" PC de bureau en ne gardant qu'une partition bootable Windows "au cas où".
+
+### Les logiciels
+
+Comme beaucoup de distributions Linux, Mint s'installe avec les  indispensables browsers ([Firefox](<w: Mozilla Firefox>)), outils d'e-email ([Thunderbird](<w:Mozilla Thunderbird>)) et logiciels de bureautique ([LibreOffice](w:)), mais surtout la Logithèque, un outil d'installation et désinstallation mais surtout de recherche de logiciels en tous genres.
+
+![](./images/logitheque-mint_1.png)
 
 ### Ya même les jeux ! (Wine, Proton, Steam ...)
 
@@ -40,6 +46,4 @@ Puis il y a eu [Wine](w:), qui signifiait initialement "WINdows Emulator", mais 
 
 {{< figure link="http://www.wpanorama.com/wpanorama.php" src="./images/497db1a8-a3e9-4def-a2bd-e4c76c6952dc.jpeg" >}}
 
-Mais surtout, il y a [Steam](w:) et son [Proton](w:Proton_\(logiciel\)) (le logiciel, pas l'entreprise suisse dont je parle plus bas)
-
-## Infomaniak ou Proton ?
+Mais surtout, il y a [Steam](w:) et son [Proton](w:Proton_\(logiciel\)) (le logiciel, pas l'entreprise suisse dont je parlerai dans un autre billet). Avec ça, tous les jeux PC proposés sur Steam fonctionnent sous Linux, même les plus exigeants en GPU comme le fabuleux [Dyson Sphere Program](w:) (j'y reviendrai...)

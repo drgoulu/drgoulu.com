@@ -1,17 +1,16 @@
 ---
-title: "Comment gérer ses articles"
-slug: "comment-gerer-ses-articles"
+title: Comment gérer ses articles
 date: 2013-10-25
+draft: false
+tags:
+  - ignobel
+  - internet
+  - livres
 categories:
-  - "Comment"
-tags: 
-  - "ignobel"
-  - "internet"
-  - "livres"
-coverImage: "./images/4706921d904f21a09c5d8029d61894f4.jpg"
+  - Comment
+slug: comment-gerer-ses-articles
+coverImage: ./images/4706921d904f21a09c5d8029d61894f4.jpg
 ---
-
-{{< figure src="./images/4706921d904f21a09c5d8029d61894f4.jpg" >}}
 
 D'[habitude](/tags/ignobel/), la  remise des prix igNobel est l'occasion d'un article ici. Mais plutôt que de vous résumer les recherches les plus loufoques primées comme [d'autres](https://web.archive.org/web/20131029235221/http://www.gurumed.org/2013/09/15/prix-ig-nobel-les-vainqueurs-2013-des-tudes-scientifiques-les-plus-improbables/) l'ont très bien fait, je vais plutôt les utiliser comme exemples en terminant enfin l'article promis à la fin de "[Comment gérer sa bibliothèque](/2012/04/10/comment-gerer-sa-bibliotheque/)".
 
@@ -24,7 +23,7 @@ Pas étonnant donc que les premiers [logiciels de gestion bibliographiques](w:Lo
 Puis les fichiers pdf remplacèrent le papier, internet réduisit la photocopieuse au silence, et [Arxiv](http://arxiv.org/) , [PLOS](http://www.plos.org/), et [les journaux en libre accès](https://web.archive.org/web/20131026183013/http://www.doaj.org/) éclaircissent peu à peu les rayonnages des bibliothèques universitaires. Mais d'autres innovations souvent moins visibles ont au moins autant bouleversé le petit monde de la gestion bibliographique:
 
 1. Le [Citations Style Language](w:Citation_Style_Language) (CSL) permet de formaliser la fantaisie sans limite des éditeurs de journaux en matière de styles de citations.
-2. Le "[Digital Object Identifier](http://www.doi.org/)" (DOI) est un code qui permet de retrouver un document sur internet même si l'URL du site qui l'héberge change. Par exemple si vous cliquez [http://dx.doi.org/ 10.1111/j.2044-8295.2012.02114.x](https://web.archive.org/web/20131029235054/http://dx.doi.org/10.1111/j.2044-8295.2012.02114.x) , vous serez redirigé vers la page du journal qui a publié l'article lauréat du prix igNobel 2013 de psychologie. Et si tout se passe normalement, ce lien ne sera jamais\* cassé.
+2. Le "[Digital Object Identifier](http://www.doi.org/)" (DOI) est un code qui permet de retrouver un document sur internet même si l'URL du site qui l'héberge change. Par exemple si vous cliquez [http://dx.doi.org/ 10.1111/j.2044-8295.2012.02114.x](http://dx.doi.org/10.1111/j.2044-8295.2012.02114.x) , vous serez redirigé vers la page du journal qui a publié l'article lauréat du prix igNobel 2013 de psychologie. Et si tout se passe normalement, ce lien ne sera jamais\* cassé.
 3. Les metadonnées [COinS](w:ContextObjects_in_Spans), [Dublin Core](w:) ou [similaires](https://web.archive.org/web/20131108190557/http://www.google.com/intl/en/scholar/inclusion.html#indexing), qui permettent d'inclure dans une page web une référence complète pouvant être lue par des logiciels ad-hoc
 4. Des logiciels dernier cri et gratuits capables d'exploiter toutes ces possibilités : Mendeley et Zotero.
 
@@ -43,9 +42,10 @@ J'ai commencé par utiliser [Zotero](http://www.zotero.org/) il y a quelques a
 - et bien sur des fonctionnalités de "réseau social" permettant de suivre des auteurs et collègues, ou de former des groupes collaborant sur certains thèmes. Par exemple, chose promise chose due, [les articles lauréats du prix igNobel sont ici !](https://web.archive.org/web/20131031095120/http://www.mendeley.com/groups/1459873/ig-noble/papers/)
 
 Note \*: sur internet, si "jamais" = 10 ans, ce ne serait déjà pas mal...
+Edit du 20/10/2026 : 13 ans plus tard, ça marche toujours !
 
 ### Références:
 
 1. <span id="ref-1"></span>François Magnan "[Logiciels bibliographiques : Zotero, alternative libre à Mendeley, propriété d’Elsevier](https://web.archive.org/web/20131029212730/http://www.francoismagnan.info/?p=366 "Logiciels bibliographiques : Zotero, alternative libre à Mendeley, propriété d’Elsevier")", 2013
 2. <span id="ref-2"></span>"[RefWorks Mendeley Zotero : Three Way Comparizon 2013](http://fr.slideshare.net/giustinid/refworks-mendeley-zotero-2013)" sur Slideshare
-3. <span id="ref-3"></span>[Bibliothèques \[reloaded\]](http://bibliotheques.wordpress.com), un blog de bibliothécaire geek (ou le contraire)
+3. <span id="ref-3"></span>[Bibliothèques [reloaded]](http://bibliotheques.wordpress.com), un blog de bibliothécaire geek (ou le contraire)
