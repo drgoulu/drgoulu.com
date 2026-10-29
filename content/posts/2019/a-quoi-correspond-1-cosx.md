@@ -1,11 +1,14 @@
 ---
 title: A quoi correspond 1-cosx ?
-slug: a-quoi-correspond-1-cosx
-date: '2019-08-28'
+date: 2019-08-28
 draft: true
+tags:
+  - maths
+  - trigonométrie
 categories:
-- Quora
-tags: []
+  - Quora
+  - Combien
+slug: a-quoi-correspond-1-cosx
 coverImage: ./images/qimg-a76f85c45a215760a0eeeedd70d730be.png
 ---
 
