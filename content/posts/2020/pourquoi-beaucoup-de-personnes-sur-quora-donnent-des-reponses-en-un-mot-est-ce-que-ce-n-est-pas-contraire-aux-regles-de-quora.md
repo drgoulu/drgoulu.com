@@ -1,16 +1,16 @@
 ---
 title: Pourquoi beaucoup de personnes sur Quora donnent des réponses en un mot ? Est-ce que ce n'est pas contraire aux règles de Quora ?
-slug: pourquoi-beaucoup-de-personnes-sur-quora-donnent-des-reponses-en-un-mot-est-ce-que-ce-n-est-pas-contraire-aux-regles-de-quora
-date: '2020-05-06'
-draft: false
-categories:
-- Pourquoi
+date: 2020-05-06
+draft: true
 tags:
-- internet
-- comportement-humain
-- quora
-- comportement
-- reponses
+  - internet
+  - comportement-humain
+  - quora
+  - comportement
+  - reponses
+categories:
+  - Pourquoi
+slug: pourquoi-beaucoup-de-personnes-sur-quora-donnent-des-reponses-en-un-mot-est-ce-que-ce-n-est-pas-contraire-aux-regles-de-quora
 coverImage: ./images/quora.png
 ---
 
