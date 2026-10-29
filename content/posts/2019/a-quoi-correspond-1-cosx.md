@@ -1,7 +1,7 @@
 ---
 title: A quoi correspond 1-cosx ?
 date: 2019-08-28
-draft: true
+draft: false
 tags:
   - maths
   - trigonométrie
