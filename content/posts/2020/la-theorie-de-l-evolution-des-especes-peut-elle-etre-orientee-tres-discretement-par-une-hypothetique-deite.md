@@ -1,11 +1,14 @@
 ---
 title: '"La théorie de l''évolution des espèces peut-elle être orientée (très discrètement) par une hypothétique déité" ?"Pour info je ne suis ni croyant ni incroyant mais neutre et curieux". Si cela était vrai, verrions-nous la différence ?'
-slug: la-theorie-de-l-evolution-des-especes-peut-elle-etre-orientee-tres-discretement-par-une-hypothetique-deite
-date: '2020-11-16'
-draft: true
+date: 2020-11-16
+draft: false
+tags:
+  - évolution
+  - créationnisme
 categories:
-- Quora
-tags: []
+  - Quora
+  - Comment
+slug: la-theorie-de-l-evolution-des-especes-peut-elle-etre-orientee-tres-discretement-par-une-hypothetique-deite
 coverImage: ./images/qimg-00f856956d3a7a69d77f1f2796fe8ece.jpg
 ---
 
