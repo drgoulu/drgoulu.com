@@ -1,11 +1,15 @@
 ---
 title: À quoi cela nous sert de distinguer les couleurs ? Ce n'est pas forcément nécessaire à notre survie, alors pourquoi avons-nous quand même la capacité de les voir ?
-slug: a-quoi-cela-nous-sert-de-distinguer-les-couleurs-ce-n-est-pas-forcement-necessaire-a-notre-survie-alors-pourquoi-avons-nous-quand-meme-la-capacite-de-les-voir
-date: '2021-08-15'
-draft: true
+date: 2021-08-15
+draft: false
+tags:
+  - couleur
+  - vision
+  - évolution
 categories:
-- Pourquoi
-tags: []
+  - Pourquoi
+  - Quora
+slug: a-quoi-cela-nous-sert-de-distinguer-les-couleurs-ce-n-est-pas-forcement-necessaire-a-notre-survie-alors-pourquoi-avons-nous-quand-meme-la-capacite-de-les-voir
 coverImage: ./images/qimg-b3410e78c35eaed81bd889c78bdf096f.jpg
 ---
 
