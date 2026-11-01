@@ -1,14 +1,15 @@
 ---
-title: "Ce que Darwin n'a pas dit"
-slug: "ce-que-darwin-na-pas-dit"
-date: 2009-01-23
-categories:
-  - "Comment"
+title: Ce que Darwin n'a pas dit
+date: 2009-01-24
+draft: false
 tags:
-  - "darwin"
-  - "evolution"
-  - "histoire"
-coverImage: "./images/5c837c6405891a43753218d4613a49ec.png"
+  - darwin
+  - evolution
+  - histoire
+categories:
+  - Comment
+slug: ce-que-darwin-na-pas-dit
+coverImage: ./images/5c837c6405891a43753218d4613a49ec.png
 ---
 
 "La raison du plus fort est toujours la meilleure" n'est pas tirée de l'oeuvre de [Charles Darwin](w:). C'est dans "Le Loup et l'Agneau" de Jean de la Fontaine, écrit deux siècles et demi avant [l'Origine des Espèces](w:). Pourtant le grand public et même la presse associe toujours Darwin avec l'idée que "seuls les plus forts survivent dans une nature cruelle." C'est faux. Et en plus c'est très dangereux.
