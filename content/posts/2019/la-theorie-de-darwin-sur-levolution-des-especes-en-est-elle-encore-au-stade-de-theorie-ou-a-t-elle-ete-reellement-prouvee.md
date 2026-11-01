@@ -1,20 +1,19 @@
 ---
 title: La théorie de Darwin sur l’évolution des espèces en est-elle encore au stade de théorie, ou a-t-elle été réellement prouvée ?
-slug: la-theorie-de-darwin-sur-levolution-des-especes-en-est-elle-encore-au-stade-de-theorie-ou-a-t-elle-ete-reellement-prouvee
-date: '2019-05-13'
+date: 2019-05-13
 draft: false
-categories:
-- Quora
 tags:
-- sciences
-- evolution
-- biologie
-- theorie
-- theorie-scientifique
+  - sciences
+  - evolution
+  - biologie
+  - theorie
+categories:
+  - Quora
+slug: la-theorie-de-darwin-sur-levolution-des-especes-en-est-elle-encore-au-stade-de-theorie-ou-a-t-elle-ete-reellement-prouvee
 coverImage: ./images/quora.png
 ---
 
-*Article initialement publié sur [Quora](https://fr.quora.com/La-th%C3%A9orie-de-Darwin-sur-l-%C3%A9volution-des-esp%C3%A8ces-en-est-elle-encore-au-stade-de-th%C3%A9orie-ou-a-t-elle-%C3%A9t%C3%A9-r%C3%A9ellement-prouv%C3%A9e/answer/Dr-Goulu)*
+_Article initialement publié sur_ [_Quora_](https://fr.quora.com/La-th%C3%A9orie-de-Darwin-sur-l-%C3%A9volution-des-esp%C3%A8ces-en-est-elle-encore-au-stade-de-th%C3%A9orie-ou-a-t-elle-%C3%A9t%C3%A9-r%C3%A9ellement-prouv%C3%A9e/answer/Dr-Goulu)
 
 La réponse est dans votre article:
 
@@ -32,7 +31,7 @@ Dans le cas de l’évolution, je dirais qu’elle a été vérifiée expérimen
 
 Dans les “preuves” expérimentales, celle que je trouve la plus spectaculaire est celle-ci :
 
-[https://www.youtube.com/watch?v=...](https://www.youtube.com/watch?v=yybsSqcB7mE)
+{{< youtube "yybsSqcB7mE" >}}
 
 et la plus humaine celle-là : [L'adaptation à l'altitude - Pourquoi Comment Combien](/2014/08/17/ladaptation-a-laltitude/).
 
