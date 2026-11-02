@@ -162,7 +162,7 @@ params:
         name: "drafts"
         label: "Brouillons"
         label_singular: "Brouillon"
-        folder: "content"
+        folder: "content/posts"
         media_folder: "./images"
         public_folder: "./images"
         icon: "edit_note"
