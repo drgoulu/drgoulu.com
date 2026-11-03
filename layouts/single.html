@@ -132,9 +132,13 @@
         {{ end }}
 
         {{ if ne .Params.reading_time false }}
+        {{ $clean_text := replaceRE `(?s)<details[^>]*data-code-embed.*?</details>` "" .Content | plainify }}
+        {{ $words := len (findRE `\S+` $clean_text) }}
+        {{ $read_time := div (add $words 199) 200 }}
+        {{ if lt $read_time 1 }}{{ $read_time = 1 }}{{ end }}
         <span class="mx-1">·</span>
         <span class="mx-1">
-          {{ .ReadingTime }} {{ i18n "minute_read" }}
+          {{ $read_time }} {{ i18n "minute_read" }}
         </span>
         {{ end }}
 

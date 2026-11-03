@@ -1,0 +1,66 @@
+{{/*
+  Hugo shortcode: code
+  Affiche le contenu d'un fichier de code avec coloration syntaxique (Chroma)
+  dans un bloc dépliable <details> + lien direct vers le fichier brut.
+
+  Usage :
+    {{< code file="collisions_pi.py" >}}
+    {{< code file="collisions_pi.py" lang="python" title="Voir le code Python" open="false" >}}
+*/}}
+{{- $file := .Get "file" | default (.Get "src") | default (.Get 0) -}}
+{{- $clean_file := strings.TrimPrefix "./" $file -}}
+{{- $ext := strings.TrimPrefix "." (path.Ext $clean_file) -}}
+{{- $lang := .Get "lang" | default (cond (eq $ext "py") "python" $ext) -}}
+{{- $open := .Get "open" | default "false" -}}
+{{- $post_year := .Page.Date.Format "2006" -}}
+{{- $section := .Page.Section | default "posts" -}}
+
+{{- $content := "" -}}
+{{- $url := "" -}}
+
+{{/* 1. Recherche dans les ressources de la page */}}
+{{- with .Page.Resources.GetMatch $clean_file -}}
+  {{- $content = .Content -}}
+  {{- $url = .RelPermalink -}}
+{{- end -}}
+
+{{/* 2. Recherche dans assets/<section>/<year>/<file> */}}
+{{- if not $content -}}
+  {{- with resources.Get (path.Join $section $post_year $clean_file) -}}
+    {{- $content = .Content -}}
+    {{- $url = .RelPermalink -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* 3. Recherche directe sur le disque dans content/<section>/<year>/<file> ou static/ */}}
+{{- if not $content -}}
+  {{- $disk_path := path.Join "content" $section $post_year $clean_file -}}
+  {{- if fileExists $disk_path -}}
+    {{- $content = readFile $disk_path -}}
+    {{- $url = printf "/%s/%s/%s" $section $post_year $clean_file -}}
+  {{- else if fileExists (path.Join "static" $clean_file) -}}
+    {{- $content = readFile (path.Join "static" $clean_file) -}}
+    {{- $url = printf "/%s" $clean_file -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $title := .Get "title" | default (printf "Voir le code source (%s)" (path.Base $clean_file)) -}}
+
+{{- if $content -}}
+<details data-code-embed data-pagefind-ignore class="my-4 rounded-lg border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800/60 overflow-hidden"{{ if eq $open "true" }} open{{ end }}>
+  <summary class="cursor-pointer select-none px-4 py-2.5 font-medium text-sm text-slate-800 dark:text-slate-200 flex items-center justify-between gap-2 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">
+    <span>💻 {{ $title }}</span>
+    {{- if $url -}}
+      <a href="{{ $url }}" target="_blank" rel="noopener" class="text-xs font-normal text-primary-600 dark:text-primary-400 hover:underline" onclick="event.stopPropagation();">
+        Ouvrir / télécharger {{ path.Base $clean_file }} ↗
+      </a>
+    {{- end -}}
+  </summary>
+  <div class="p-2 text-sm overflow-x-auto border-t border-slate-200 dark:border-slate-700">
+    {{- highlight $content $lang "" -}}
+  </div>
+</details>
+{{- else -}}
+  {{- warnf "shortcode code: fichier introuvable %q sur %s" $file .Position -}}
+{{- end -}}
+

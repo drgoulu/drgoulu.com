@@ -47,6 +47,17 @@
   {{- $dest = printf "https://%s.wikipedia.org/wiki/%s" $lang $article -}}
 {{- else if in $dest "wikipedia.org" -}}
   {{- $is_wiki = true -}}
+{{- else if and (not (strings.HasPrefix $dest "http")) (not (strings.HasPrefix $dest "/")) (not (strings.HasPrefix $dest "#")) (not (strings.HasPrefix $dest "mailto:")) -}}
+  {{- $clean_dest := strings.TrimPrefix "./" $dest -}}
+  {{- $post_year := .Page.Date.Format "2006" -}}
+  {{- $section := .Page.Section | default "posts" -}}
+  {{- with resources.Get (path.Join $section $post_year $clean_dest) -}}
+    {{- $dest = .RelPermalink -}}
+  {{- else -}}
+    {{- if fileExists (path.Join "content" $section $post_year $clean_dest) -}}
+      {{- $dest = printf "/%s/%s/%s" $section $post_year $clean_dest -}}
+    {{- end -}}
+  {{- end -}}
 {{- end -}}
 
 <a href="{{ $dest | safeURL }}"{{ with $title }} title="{{ . }}"{{ end }}{{ if $is_wiki }} class="wikipedia"{{ end }}{{ if strings.HasPrefix $dest "http" }} target="_blank" rel="noopener"{{ end }}>{{ $text | safeHTML }}</a>

@@ -43,6 +43,8 @@ ErrorDocument 404 /404.html
   AddType image/avif .avif
   AddType font/woff2 .woff2
   AddType text/markdown .md
+  RemoveHandler .py
+  AddType "text/plain; charset=utf-8" .py
 </IfModule>
 
 # ----------------------------------------------------------------------

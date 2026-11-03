@@ -26,6 +26,7 @@ mounts:
       - "**/*.gif"
       - "**/*.svg"
       - "**/*.webp"
+      - "**/*.py"
   - source: content/quora
     target: assets/quora
     files:

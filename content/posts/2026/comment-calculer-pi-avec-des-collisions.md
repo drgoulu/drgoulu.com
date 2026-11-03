@@ -10,7 +10,7 @@ tags:
 categories:
   - Comment
 slug: ''
-coverImage: ./images/mathematics-08-00509-g002.png
+coverImage: ./images/collisions-pi-3d.gif
 ---
 
 PFC m'a soumis cette vidéo pour le moins étonnante :
@@ -21,7 +21,9 @@ Elle provient de l'excellente [chaîne YouTube](https://www.youtube.com/channel/
 
 Si on fait glisser un chariot de masse M=1 vers un autre chariot de masse m=1 immobile qu'il percute dans un choc parfaitement élastique (= sans perte d'énergie) , et que ce chariot rebondit contre un mur parfaitement élastique (deuxième choc), il revient vers le chariot de masse M et le repercute (troisième choc).  
 
-Mais si on augmente la masse du premier chariot à M=2, le petit chariot de masse m=1 va faire deux  aller-retours entre le chariot de masse M et le mur : 5 chocs. Et intuitivement , on sent bien qu'en augmentant M, on aura de plus en plus de chocs.
+Mais si on augmente la masse du premier chariot à M=2, le petit chariot de masse m=1 va faire deux  aller-retours entre le chariot de masse M et le mur : 5 chocs. Avec un cube d'arête 2 donc de masse $M=2^3=8$ poussant un cube unité $m=1$ (comme dans l'animation 3D en en-tête générée par le script Python [`collisions_pi.py`](./collisions_pi.py)), on obtient **9 chocs**. Et intuitivement, on sent bien qu'en augmentant M, on aura de plus en plus de chocs.
+
+{{< code file="collisions_pi.py" title="Voir le code Python de l'animation 3D (collisions_pi.py)" >}}
 
 La suite OEIS [A331859](https://oeis.org/A331859) donne le nombre de chocs en fonction de M, mais ne va pas assez loin pour voir LE phénomène intéressant découvert par Galperin en 2003 [1]:
 

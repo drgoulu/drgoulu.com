@@ -1,32 +1,14 @@
 {
   "folders": [
     {
-      "path": ".",
+      "path": "."
     },
     {
-      "path": "../sveltia-cms",
+      "path": "../sveltia-cms"
     },
     {
-      "path": "../headless-cms",
-    },
-    {
-      "path": "../altmetric4hugo",
-    },
-    {
-      "path": "../openbook4hugo",
-    },
-    {
-      "path": "../.github",
-    },
-    {
-      "path": "../../quora/quora2hugo",
-    },
-    {
-      "path": "../backlinks4hugo",
-    },
-    {
-      "path": "../../Dust-as-a-solar-shield",
-    },
+      "path": "../headless-cms"
+    }
   ],
   "settings": {
     "git.ignoreLimitWarning": true,
