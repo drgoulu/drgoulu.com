@@ -6,5 +6,27 @@
     "plaintext",
     "html",
     "yaml"
-  ]
+  ],
+  "ownable.autoSave": true,
+  "ownable.preserveYamlComments": true,
+  "ownable.showGamification": false,
+  "ownable.discoveryNotificationMode": "oncePerSite",
+  "ownable.gitAutoSync.enabled": false,
+  "ownable.gitAutoSync.blockedBranches": [
+    "main"
+  ],
+  "hugoIntelliSense.enable": true,
+  "hugoIntelliSense.server.port": 1313,
+  "hugoIntelliSense.server.args": [
+    "--disableFastRender"
+  ],
+  "hugoIntelliSense.telemetry.enabled": false,
+  "files.watcherExclude": {
+    "**/public/**": true,
+    "**/resources/**": true
+  },
+  "search.exclude": {
+    "**/public/**": true,
+    "**/resources/**": true
+  }
 }

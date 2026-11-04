@@ -19,11 +19,9 @@ PFC m'a soumis cette vidéo pour le moins étonnante :
 
 Elle provient de l'excellente [chaîne YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) de maths du blog de maths [3Blue1Brown.com](https://www.3blue1brown.com)  connu [même sur Wikipedia](w:3Blue1Brown) et montre quelque chose de très surprenant :
 
-Si on fait glisser un chariot de masse M=1 vers un autre chariot de masse m=1 immobile qu'il percute dans un choc parfaitement élastique (= sans perte d'énergie) , et que ce chariot rebondit contre un mur parfaitement élastique (deuxième choc), il revient vers le chariot de masse M et le repercute (troisième choc).  
+Si on fait glisser un chariot de masse M=1 vers un autre chariot de masse m=1 immobile qu'il percute dans un choc parfaitement élastique (= sans perte d'énergie) , et que ce chariot rebondit contre un mur parfaitement élastique (deuxième choc), il revient vers le chariot de masse M et le re-percute (troisième choc).  
 
-Mais si on augmente la masse du premier chariot à M=2, le petit chariot de masse m=1 va faire deux  aller-retours entre le chariot de masse M et le mur : 5 chocs. Avec un cube d'arête 2 donc de masse $M=2^3=8$ poussant un cube unité $m=1$ (comme dans l'animation 3D en en-tête générée par le script Python [`collisions_pi.py`](./collisions_pi.py)), on obtient **9 chocs**. Et intuitivement, on sent bien qu'en augmentant M, on aura de plus en plus de chocs.
-
-{{< code file="collisions_pi.py" title="Voir le code Python de l'animation 3D (collisions_pi.py)" >}}
+Mais si on augmente la masse du premier chariot à M=2, le petit chariot de masse m=1 va faire deux  aller-retours entre le chariot de masse M et le mur : 5 chocs. Avec un cube de masse $M=8$ poussant un cube unité $m=1$ (comme dans l'animation 3D d' entête générée par le [`notebook Jupyter`](/posts/2026/collisions_pi.ipynb) ci-dessous), on obtient 9 chocs. Et intuitivement, on sent bien qu'en augmentant M, on aura de plus en plus de chocs.
 
 La suite OEIS [A331859](https://oeis.org/A331859) donne le nombre de chocs en fonction de M, mais ne va pas assez loin pour voir LE phénomène intéressant découvert par Galperin en 2003 [1]:
 
@@ -70,11 +68,17 @@ Comme le résume bien l'IA :
 
 > C'est cette approximation géométrique ultra-précise qui "force" la physique macroscopique à énumérer textuellement une à une les décimales du nombre $\pi$
 
-###### Références :
+### Note:
 
-Note \* : dans les commentaires de  [A011545](https://oeis.org/A011545), on trouve ceci :
+\* dans les commentaires de  [A011545](https://oeis.org/A011545), on trouve ceci :
 
 > À proprement parler, cette propriété, qui équivaut à affirmer que l'intervalle (m\*π, π/arctan(1/m)) ne contient aucun entier pour tout m ≠ 10ⁿ, n'est pas avérée. Autrement dit, on ne sait pas avec certitude que A332045 ne contient pas une puissance de 10. Ce point est abordé dans la vidéo de 3Blue1Brown de 2025 intitulée « Why colliding blocks compute pi », qui fait suite à la vidéo de 2019.
 
+### Références :
+
 1. Galperin G. A., Playing pool with _π_ (the number _π_ from a billiard point of view), Regular and Chaotic Dynamics, 2003, Volume 8, Number 4, pp. 375-394 {{< altmetric doi="10.1070/RD2003v008n04ABEH000252" >}}
 2. Aretxabaleta, X.M.; Gonchenko, M.; Harshman, N.L.; Jackson, S.G.; Olshanii, M.; Astrakharchik, G.E. The Dynamics of Digits: Calculating Pi with Galperin’s Billiards. _Mathematics_ **2020**, _8_, 509. {{< altmetric doi="10.3390/math8040509" >}}
+
+### Notebook Jupyter:
+
+{{< notebook src="posts/2026/collisions_pi.ipynb" title="Simulation 3D des collisions (collisions_pi.ipynb)" source_url="/posts/2026/collisions_pi.ipynb" download_label="Télécharger le notebook" show_code="false" >}}

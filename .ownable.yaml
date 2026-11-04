@@ -1,0 +1,26 @@
+# Ownable Markdown Editor configuration — see https://docs.hugoblox.com/reference/ownable-config/
+version: 1
+contentRoot: content
+defaultLanguage: fr
+types:
+  blog:
+    dirs:
+      - posts
+    default: posts
+    bundle: false
+  note:
+    dirs:
+      - pages
+    default: pages
+    bundle: false
+  event:
+    dirs: []
+  project:
+    dirs: []
+  publication:
+    dirs: []
+  slides:
+    dirs: []
+  docs:
+    dirs: []
+
