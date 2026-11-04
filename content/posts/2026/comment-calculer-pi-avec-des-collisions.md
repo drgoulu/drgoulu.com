@@ -7,6 +7,9 @@ tags:
   - mécanique
   - algorithme
   - simulation
+  - pi
+  - python
+  - javascript
 categories:
   - Comment
 slug: ''
@@ -34,7 +37,7 @@ et sous vos yeux émerveillés vous voyez apparaître une à une les décimales 
 
 Incroyable, non ? Testez vous-même avec la simulation interactive ci-dessous :
 
-{{< collisions_pi M="8" >}}
+{{< collisions_pi M="8" >}}}
 
 ## Mais POURQUOI ???
 
@@ -60,7 +63,7 @@ donc on a $$collisions \approx \theta/\pi$$
 
 ## Reste le $100^n$ ...
 
-Quand $M >> m, \theta$ devient très petit et on peut approximer $tan (theta) \approx \theta$
+Quand $M >> m, \theta$ devient très petit et on peut approximer $tan (\theta) \approx \theta$
 
 et notamment pour $$\theta \approx \sqrt{1/100^n} = 1/10^n$$
 
@@ -83,4 +86,4 @@ Comme le résume bien l'IA :
 
 ### Notebook Jupyter:
 
-{{< notebook src="posts/2026/collisions_pi.ipynb" title="Simulation 3D des collisions (collisions_pi.ipynb)" source_url="/posts/2026/collisions_pi.ipynb" download_label="Télécharger le notebook" show_code="false" >}}
+{{< notebook src="posts/2026/collisions_pi.ipynb" title="Simulation 3D des collisions (collisions_pi.ipynb)" source_url="/posts/2026/collisions_pi.ipynb" download_label="Télécharger le notebook" show_code="false" >}}}
