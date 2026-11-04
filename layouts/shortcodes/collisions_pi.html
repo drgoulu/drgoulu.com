@@ -1,0 +1,616 @@
+{{- $defaultM := .Get "M" | default "8" -}}
+<div class="collisions-pi-widget my-6 rounded-xl border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-900 shadow-sm overflow-hidden">
+  <!-- Barre de contrôles -->
+  <div class="flex flex-wrap items-center justify-between gap-3 px-4 py-3 bg-gray-50 dark:bg-gray-800/70 border-b border-gray-200 dark:border-gray-700 text-sm">
+    <div class="flex flex-wrap items-center gap-2">
+      <label for="cpi-mass-input" class="font-semibold text-gray-800 dark:text-gray-200">
+        Masse <em>M</em> =
+      </label>
+      <input
+        id="cpi-mass-input"
+        type="number"
+        min="1"
+        max="100000000"
+        step="any"
+        value="{{ $defaultM }}"
+        class="w-28 px-2.5 py-1 rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 font-mono text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+      />
+      <div class="flex flex-wrap items-center gap-1 ml-1" title="Valeurs remarquables de M">
+        <span class="text-xs text-gray-500 dark:text-gray-400 mr-0.5">Présélections :</span>
+        <button type="button" data-mass="1" class="cpi-preset px-2 py-0.5 rounded text-xs font-mono border border-gray-300 dark:border-gray-600 hover:bg-blue-50 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 cursor-pointer">1</button>
+        <button type="button" data-mass="2" class="cpi-preset px-2 py-0.5 rounded text-xs font-mono border border-gray-300 dark:border-gray-600 hover:bg-blue-50 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 cursor-pointer">2</button>
+        <button type="button" data-mass="8" class="cpi-preset px-2 py-0.5 rounded text-xs font-mono border border-gray-300 dark:border-gray-600 hover:bg-blue-50 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 cursor-pointer">8</button>
+        <button type="button" data-mass="16" class="cpi-preset px-2 py-0.5 rounded text-xs font-mono border border-gray-300 dark:border-gray-600 hover:bg-blue-50 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 cursor-pointer">16</button>
+        <button type="button" data-mass="100" class="cpi-preset px-2 py-0.5 rounded text-xs font-mono border border-gray-300 dark:border-gray-600 hover:bg-blue-50 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 cursor-pointer">100</button>
+        <button type="button" data-mass="10000" class="cpi-preset px-2 py-0.5 rounded text-xs font-mono border border-gray-300 dark:border-gray-600 hover:bg-blue-50 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 cursor-pointer">10⁴</button>
+        <button type="button" data-mass="1000000" class="cpi-preset px-2 py-0.5 rounded text-xs font-mono border border-gray-300 dark:border-gray-600 hover:bg-blue-50 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 cursor-pointer">10⁶</button>
+      </div>
+    </div>
+
+    <!-- Contrôles de lecture -->
+    <div class="flex items-center gap-1.5">
+      <button id="cpi-play-btn" type="button" class="px-3 py-1 rounded-md bg-blue-600 hover:bg-blue-700 text-white font-medium text-xs cursor-pointer transition-colors">
+        ⏸ Pause
+      </button>
+      <button id="cpi-prev-btn" type="button" title="Choc précédent" class="px-2 py-1 rounded-md border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 text-xs cursor-pointer">
+        ⏮ Choc -1
+      </button>
+      <button id="cpi-next-btn" type="button" title="Choc suivant" class="px-2 py-1 rounded-md border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 text-xs cursor-pointer">
+        Choc +1 ⏭
+      </button>
+      <button id="cpi-reset-btn" type="button" title="Recommencer au début de la rampe" class="px-2 py-1 rounded-md border border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 text-xs cursor-pointer">
+        ↺ Début
+      </button>
+      <select id="cpi-speed-select" title="Vitesse de l'animation" class="ml-1 px-1.5 py-1 rounded-md border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-900 text-gray-700 dark:text-gray-200 text-xs">
+        <option value="0.25">0.25×</option>
+        <option value="0.5">0.5×</option>
+        <option value="1" selected>1×</option>
+        <option value="2">2×</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- Curseur temporel -->
+  <div class="flex items-center gap-3 px-4 py-1.5 bg-gray-50/60 dark:bg-gray-800/40 border-b border-gray-100 dark:border-gray-800 text-xs text-gray-600 dark:text-gray-400">
+    <span class="font-mono shrink-0" id="cpi-time-label">t = 0.00</span>
+    <input id="cpi-scrubber" type="range" min="0" max="1000" value="0" class="w-full accent-blue-600 cursor-pointer" />
+    <span class="font-mono shrink-0" id="cpi-vel-label">V = +1.00, v = 0.00</span>
+  </div>
+
+  <!-- Canvas 3D + Espace des phases -->
+  <div class="relative w-full bg-white flex justify-center">
+    <canvas id="cpi-canvas" width="900" height="480" class="w-full h-auto max-w-[900px] block"></canvas>
+  </div>
+</div>
+
+<script>
+(() => {
+  const WIDTH = 900;
+  const HEIGHT = 480;
+  const m = 1.0;
+  const L_M = 2.0; // Taille constante du grand cube (2x2x2)
+  const L_m = 1.0; // Taille du petit cube (1x1x1)
+  const X_WALL = 12.2;
+  const X_M_START = L_M;
+  const DURATION_SEC = 6.75; // Durée d'un cycle complet à vitesse 1× (identique au GIF 150 frames × 45ms)
+
+  const canvas = document.getElementById("cpi-canvas");
+  if (!canvas) return;
+  const ctx = canvas.getContext("2d");
+
+  const massInput = document.getElementById("cpi-mass-input");
+  const playBtn = document.getElementById("cpi-play-btn");
+  const prevBtn = document.getElementById("cpi-prev-btn");
+  const nextBtn = document.getElementById("cpi-next-btn");
+  const resetBtn = document.getElementById("cpi-reset-btn");
+  const speedSelect = document.getElementById("cpi-speed-select");
+  const scrubber = document.getElementById("cpi-scrubber");
+  const timeLabel = document.getElementById("cpi-time-label");
+  const velLabel = document.getElementById("cpi-vel-label");
+  const presetBtns = document.querySelectorAll(".cpi-preset");
+
+  // Support HiDPI / Retina
+  const dpr = Math.min(window.devicePixelRatio || 1, 2);
+  canvas.width = WIDTH * dpr;
+  canvas.height = HEIGHT * dpr;
+  ctx.scale(dpr, dpr);
+
+  let M = parseFloat(massInput.value) || 8.0;
+  let events = [];
+  let totalChocs = 0;
+  let tTotal = 18.883;
+  let simTime = 0.0;
+  let playing = true;
+  let speedMultiplier = 1.0;
+  let lastFrameTs = null;
+  let activeFlash = null; // { kind, pos, intensity }
+
+  function simulateCollisions(massM) {
+    const d0 = 1.85;
+    let x_m = X_WALL - d0; // 10.35
+    let x_M = X_M_START;   // 2.00
+    let V = 1.0;
+    let v = 0.0;
+    let t = 0.0;
+    let choc = 0;
+
+    const evs = [{ t, x_M, x_m, V, v, choc, kind: null }];
+    const MAX_EVENTS = 250000;
+
+    while (choc < MAX_EVENTS) {
+      const dt_cc = V > v ? ((x_m - L_m) - x_M) / (V - v) : Infinity;
+      const dt_cw = v > 0 ? (X_WALL - x_m) / v : Infinity;
+
+      if (dt_cc === Infinity && dt_cw === Infinity) break;
+
+      if (dt_cc <= dt_cw) {
+        t += dt_cc;
+        x_M += V * dt_cc;
+        x_m += v * dt_cc;
+        x_M = x_m - L_m;
+        const V_new = ((massM - m) * V + 2 * m * v) / (massM + m);
+        const v_new = (2 * massM * V + (m - massM) * v) / (massM + m);
+        V = V_new;
+        v = v_new;
+        choc += 1;
+        evs.push({ t, x_M, x_m, V, v, choc, kind: "cubes" });
+      } else {
+        t += dt_cw;
+        x_M += V * dt_cw;
+        x_m = X_WALL;
+        v = -v;
+        choc += 1;
+        evs.push({ t, x_M, x_m, V, v, choc, kind: "wall" });
+      }
+    }
+
+    // Prolongation jusqu'au retour du grand bloc au début de la rampe (x_M = X_M_START)
+    const dt_outro = V < -1e-5 ? (X_M_START - x_M) / V : 6.0;
+    evs.push({
+      t: t + dt_outro,
+      x_M: x_M + V * dt_outro,
+      x_m: x_m + v * dt_outro,
+      V,
+      v,
+      choc,
+      kind: null,
+    });
+
+    return evs;
+  }
+
+  function findEventIndexAtTime(t) {
+    let lo = 0;
+    let hi = events.length - 2;
+    while (lo <= hi) {
+      const mid = (lo + hi) >> 1;
+      if (events[mid + 1].t < t) {
+        lo = mid + 1;
+      } else if (events[mid].t > t) {
+        hi = mid - 1;
+      } else {
+        return mid;
+      }
+    }
+    return Math.max(0, Math.min(events.length - 2, lo));
+  }
+
+  function getStateAtTime(t) {
+    const idx = findEventIndexAtTime(t);
+    const ev0 = events[idx];
+    const ev1 = events[idx + 1];
+    const dt = Math.max(0.0, Math.min(t - ev0.t, ev1.t - ev0.t));
+    return {
+      t,
+      x_M: ev0.x_M + ev0.V * dt,
+      x_m: ev0.x_m + ev0.v * dt,
+      V: ev0.V,
+      v: ev0.v,
+      choc: ev0.choc,
+      eventIdx: idx,
+    };
+  }
+
+  // Projection 3D identique au script Cairo
+  function project(x, y, z) {
+    const persp = 1.0 / (1.0 + 0.022 * x - 0.008 * y);
+    const scale = 51.5 * persp;
+    const u0 = 112.0, v0 = 412.0;
+    const ux = 0.90, vx = -0.40;
+    const uy = 0.34, vy = 0.15;
+    const uz = 0.0,  vz = -0.96;
+    return [
+      u0 + scale * (ux * x + uy * y + uz * z),
+      v0 + scale * (vx * x + vy * y + vz * z),
+    ];
+  }
+
+  function rgb(r, g, b, a = 1.0) {
+    const R = Math.round(r * 255);
+    const G = Math.round(g * 255);
+    const B = Math.round(b * 255);
+    return a < 1.0 ? `rgba(${R},${G},${B},${a})` : `rgb(${R},${G},${B})`;
+  }
+
+  function drawPolygon(pts3d, fillRgb, strokeRgb = [0.14, 0.12, 0.13], lineWidth = 1.6) {
+    const pts2d = pts3d.map(([px, py, pz]) => project(px, py, pz));
+    ctx.beginPath();
+    ctx.moveTo(pts2d[0][0], pts2d[0][1]);
+    for (let i = 1; i < pts2d.length; i++) {
+      ctx.lineTo(pts2d[i][0], pts2d[i][1]);
+    }
+    ctx.closePath();
+    if (fillRgb) {
+      ctx.fillStyle = rgb(fillRgb[0], fillRgb[1], fillRgb[2], fillRgb[3] ?? 1.0);
+      ctx.fill();
+    }
+    if (strokeRgb) {
+      ctx.strokeStyle = rgb(strokeRgb[0], strokeRgb[1], strokeRgb[2], strokeRgb[3] ?? 1.0);
+      ctx.lineWidth = lineWidth;
+      ctx.lineJoin = "round";
+      ctx.stroke();
+    }
+  }
+
+  function drawBox(x0, x1, y0, y1, z0, z1, colors, strokeRgb = [0.14, 0.12, 0.13], lineWidth = 1.6) {
+    const [cTop, cSide, cFront] = colors;
+    drawPolygon([[x0, y0, z0], [x0, y1, z0], [x0, y1, z1], [x0, y0, z1]], cFront, strokeRgb, lineWidth);
+    drawPolygon([[x0, y1, z0], [x1, y1, z0], [x1, y1, z1], [x0, y1, z1]], cSide, strokeRgb, lineWidth);
+    drawPolygon([[x0, y0, z1], [x1, y0, z1], [x1, y1, z1], [x0, y1, z1]], cTop, strokeRgb, lineWidth);
+  }
+
+  function drawBrickWall() {
+    const palette = [
+      [0.73, 0.33, 0.14],
+      [0.78, 0.38, 0.16],
+      [0.62, 0.35, 0.23],
+      [0.84, 0.55, 0.39],
+      [0.75, 0.35, 0.15],
+    ];
+    const brickH = 0.72, brickW = 2.75, gapY = 0.28, gapZ = 0.14;
+    for (let r = 0; r < 5; r++) {
+      const z0 = -0.35 + r * (brickH + gapZ);
+      const offsetY = (r % 2 === 1) ? 0.80 : -0.45;
+      for (let c = 0; c < 3; c++) {
+        if (r === 0 && c === 0) continue;
+        const y0 = -4.60 + offsetY + c * (brickW + gapY);
+        const base = palette[(r * 3 + c) % palette.length];
+        const topC = base.map(ch => Math.min(1.0, ch * 1.12));
+        const sideC = base.map(ch => Math.max(0.0, ch * 0.80));
+        drawBox(X_WALL, X_WALL + 0.35, y0, y0 + brickW, z0, z0 + brickH, [topC, sideC, base], [0.52, 0.24, 0.10], 1.0);
+      }
+    }
+  }
+
+  function drawChannelBackAndFloor() {
+    const xStart = 0.0, xEnd = X_WALL, yIn = 1.02, yOut = 1.26;
+    drawBox(xStart, xEnd, -yOut, -yIn, -0.24, 0.72, [[0.84, 0.79, 0.64], [0.69, 0.59, 0.46], [0.78, 0.73, 0.58]], [0.14, 0.12, 0.13], 1.5);
+    drawPolygon([[xStart, -yIn, 0.0], [xEnd, -yIn, 0.0], [xEnd, -yIn, 0.72], [xStart, -yIn, 0.72]], [0.72, 0.63, 0.50], [0.14, 0.12, 0.13], 1.4);
+    drawPolygon([[xStart, -yIn, 0.0], [xEnd, -yIn, 0.0], [xEnd, yIn, 0.0], [xStart, yIn, 0.0]], [0.81, 0.74, 0.60], [0.14, 0.12, 0.13], 1.4);
+    drawPolygon([[xStart, -yIn, -0.24], [xStart, yIn, -0.24], [xStart, yIn, 0.0], [xStart, -yIn, 0.0]], [0.78, 0.73, 0.58], [0.14, 0.12, 0.13], 1.4);
+
+    ctx.strokeStyle = rgb(0.55, 0.47, 0.36, 0.40);
+    ctx.lineWidth = 1.0;
+    for (let gx = 1; gx < 12; gx++) {
+      const [u1, v1] = project(gx, -yIn, 0.01);
+      const [u2, v2] = project(gx, yIn, 0.01);
+      ctx.beginPath();
+      ctx.moveTo(u1, v1);
+      ctx.lineTo(u2, v2);
+      ctx.stroke();
+    }
+  }
+
+  function drawChannelFrontRim() {
+    drawBox(0.0, X_WALL, 1.02, 1.26, -0.24, 0.34, [[0.85, 0.80, 0.65], [0.67, 0.57, 0.45], [0.78, 0.73, 0.58]], [0.14, 0.12, 0.13], 1.5);
+  }
+
+  function drawVelocityArrow(xStart, yPos, zPos, vel, scaleV = 0.85) {
+    if (Math.abs(vel) < 0.04) return;
+    const sign = vel >= 0 ? 1 : -1;
+    const dx = sign * Math.max(0.45, Math.min(1.80, Math.abs(vel) * scaleV));
+    const [u1, v1] = project(xStart, yPos, zPos);
+    const [u2, v2] = project(xStart + dx, yPos, zPos);
+
+    ctx.strokeStyle = "rgba(255,255,255,0.75)";
+    ctx.lineWidth = 4.8;
+    ctx.beginPath();
+    ctx.moveTo(u1, v1);
+    ctx.lineTo(u2, v2);
+    ctx.stroke();
+
+    ctx.strokeStyle = rgb(0.12, 0.12, 0.13);
+    ctx.lineWidth = 2.4;
+    ctx.beginPath();
+    ctx.moveTo(u1, v1);
+    ctx.lineTo(u2, v2);
+    ctx.stroke();
+
+    const angle = Math.atan2(v2 - v1, u2 - u1);
+    const headLen = 11.0, headAng = 0.42;
+    ctx.fillStyle = rgb(0.12, 0.12, 0.13);
+    ctx.beginPath();
+    ctx.moveTo(u2, v2);
+    ctx.lineTo(u2 - headLen * Math.cos(angle - headAng), v2 - headLen * Math.sin(angle - headAng));
+    ctx.lineTo(u2 - 0.72 * headLen * Math.cos(angle), v2 - 0.72 * headLen * Math.sin(angle));
+    ctx.lineTo(u2 - headLen * Math.cos(angle + headAng), v2 - headLen * Math.sin(angle + headAng));
+    ctx.closePath();
+    ctx.fill();
+  }
+
+  function formatMassLabel(val) {
+    if (val >= 10000 && Number.isInteger(Math.log10(val))) {
+      const exp = Math.round(Math.log10(val));
+      const sup = String(exp).replace(/\d/g, d => "⁰¹²³⁴⁵⁶⁷⁸⁹"[d]);
+      return `10${sup}`;
+    }
+    return Number.isInteger(val) ? String(val) : val.toFixed(1);
+  }
+
+  function drawCubes(state) {
+    // Emprise visuelle pour éviter le chevauchement si le petit cube oscille très vite
+    const x_M = state.x_M;
+    const x_m = Math.max(x_M + L_m, Math.min(X_WALL, state.x_m));
+    const { V, v } = state;
+
+    // Ombres portées au sol
+    drawPolygon([[x_m - L_m, 0.0, 0.01], [x_m, 0.0, 0.01], [x_m, 1.0, 0.01], [x_m - L_m, 1.0, 0.01]], [0.64, 0.57, 0.45], null);
+    drawPolygon([[x_M - L_M, -1.0, 0.01], [x_M, -1.0, 0.01], [x_M, 1.0, 0.01], [x_M - L_M, 1.0, 0.01]], [0.64, 0.57, 0.45], null);
+
+    // Petit cube m = 1
+    drawBox(x_m - L_m, x_m, 0.0, 1.0, 0.0, L_m, [[0.99, 0.99, 1.0], [0.86, 0.90, 0.95], [0.93, 0.96, 0.99]], [0.14, 0.12, 0.13], 1.8);
+    const [umF, vmF] = project(x_m - 0.5 * L_m, 1.0, 0.50 * L_m);
+    ctx.font = "bold 16px Georgia, serif";
+    ctx.fillStyle = rgb(0.18, 0.23, 0.30);
+    ctx.textAlign = "center";
+    ctx.textBaseline = "middle";
+    ctx.fillText("1", umF, vmF);
+
+    // Grand cube de masse M (taille constante 2×2×2)
+    drawBox(x_M - L_M, x_M, -1.0, 1.0, 0.0, L_M, [[0.74, 0.76, 0.79], [0.50, 0.53, 0.57], [0.61, 0.64, 0.68]], [0.14, 0.12, 0.13], 2.0);
+    const [uMF, vMF] = project(x_M - 0.5 * L_M, 1.0, 0.50 * L_M);
+    const mLabel = formatMassLabel(M);
+    const fontSize = mLabel.length <= 2 ? 26 : (mLabel.length <= 4 ? 20 : 15);
+    ctx.font = `bold ${fontSize}px Georgia, serif`;
+    ctx.fillStyle = rgb(0.96, 0.97, 0.99);
+    ctx.fillText(mLabel, uMF, vMF);
+
+    // Flash lumineux lors d'un impact
+    if (activeFlash && activeFlash.intensity > 0.05) {
+      const { kind, pos, intensity } = activeFlash;
+      const [uf, vf] = project(pos, kind === "cubes" ? 1.0 : 0.5, 0.65);
+      const rad = 22.0 * (1.25 - 0.4 * intensity);
+      const grad = ctx.createRadialGradient(uf, vf, 2.0, uf, vf, rad);
+      grad.addColorStop(0.0, rgb(1.0, 0.96, 0.35, 0.95 * intensity));
+      grad.addColorStop(0.55, rgb(1.0, 0.48, 0.05, 0.75 * intensity));
+      grad.addColorStop(1.0, rgb(1.0, 0.2, 0.0, 0.0));
+      ctx.fillStyle = grad;
+      ctx.beginPath();
+      ctx.arc(uf, vf, rad, 0, 2 * Math.PI);
+      ctx.fill();
+    }
+
+    drawVelocityArrow(x_M - 0.5 * L_M, 0.0, L_M + 0.25, V, 0.95);
+    drawVelocityArrow(x_m - 0.5 * L_m, 0.5, L_m + 0.25, v, 0.55);
+  }
+
+  function drawHudAndPhaseCircle(state) {
+    const choc = state.choc;
+    ctx.textAlign = "left";
+    ctx.textBaseline = "alphabetic";
+
+    // Compteur de collisions
+    ctx.font = "bold 24px 'DejaVu Sans', system-ui, sans-serif";
+    ctx.fillStyle = rgb(0.15, 0.18, 0.24);
+    ctx.fillText(`Collisions : ${choc} / ${totalChocs}`, 28, 40);
+
+    // Sous-titre paramètres physiques
+    const theta = Math.atan(Math.sqrt(m / M));
+    const ratioPi = (Math.PI / theta).toFixed(2);
+    ctx.font = "13.5px 'DejaVu Sans', system-ui, sans-serif";
+    ctx.fillStyle = rgb(0.38, 0.42, 0.48);
+    ctx.fillText(`M = ${M.toLocaleString("fr-FR")},  m = 1   (π / arctan(√(1/M)) ≈ ${ratioPi})`, 28, 61);
+
+    // Diagramme dans l'espace des phases (√M·V, √m·v)
+    const cx = 112.0, cy = 152.0, radius = 62.0;
+    const rEnergy = Math.sqrt(M) * 1.0;
+
+    ctx.strokeStyle = rgb(0.25, 0.25, 0.28);
+    ctx.lineWidth = 1.3;
+    ctx.beginPath();
+    ctx.moveTo(cx - radius - 16, cy);
+    ctx.lineTo(cx + radius + 18, cy);
+    ctx.moveTo(cx, cy + radius + 14);
+    ctx.lineTo(cx, cy - radius - 16);
+    ctx.stroke();
+
+    ctx.font = "italic 12.5px 'DejaVu Sans', system-ui, sans-serif";
+    ctx.fillStyle = rgb(0.25, 0.25, 0.28);
+    ctx.fillText("√M·V", cx + radius + 5, cy + 14);
+    ctx.fillText("√m·v", cx + 6, cy - radius - 5);
+
+    // Cercle de conservation de l'énergie
+    ctx.strokeStyle = rgb(0.20, 0.35, 0.85, 0.28);
+    ctx.lineWidth = 1.5;
+    ctx.beginPath();
+    ctx.arc(cx, cy, radius, 0, 2 * Math.PI);
+    ctx.stroke();
+
+    // Calcul des points sur le cercle jusqu'au choc courant
+    const maxK = Math.min(choc, totalChocs);
+    const pointAt = (k) => {
+      const ev = events[k];
+      return [
+        cx + (Math.sqrt(M) * ev.V / rEnergy) * radius,
+        cy - (Math.sqrt(m) * ev.v / rEnergy) * radius,
+      ];
+    };
+
+    if (maxK >= 1) {
+      ctx.strokeStyle = rgb(0.05, 0.18, 0.92, totalChocs > 100 ? 0.55 : 0.95);
+      ctx.lineWidth = totalChocs > 100 ? 1.1 : 1.9;
+      ctx.beginPath();
+      const [p0x, p0y] = pointAt(0);
+      ctx.moveTo(p0x, p0y);
+      const step = totalChocs > 600 ? Math.max(1, Math.floor(totalChocs / 600)) : 1;
+      for (let k = 1; k <= maxK; k += step) {
+        const [px, py] = pointAt(k);
+        ctx.lineTo(px, py);
+      }
+      if (maxK % step !== 0) {
+        const [px, py] = pointAt(maxK);
+        ctx.lineTo(px, py);
+      }
+      ctx.stroke();
+    }
+
+    // Points rouges et numéros des états
+    ctx.font = "bold 11.5px 'DejaVu Sans', system-ui, sans-serif";
+    ctx.textAlign = "center";
+    ctx.textBaseline = "middle";
+    const dotStep = totalChocs <= 40 ? 1 : Math.max(1, Math.floor(totalChocs / 40));
+
+    for (let k = 0; k <= maxK; k++) {
+      const isCurrent = k === maxK;
+      const isFirst = k === 0;
+      if (!isCurrent && !isFirst && k % dotStep !== 0) continue;
+
+      const [px, py] = pointAt(k);
+      const rDot = isCurrent ? 5.2 : (totalChocs <= 20 ? 3.8 : 2.6);
+
+      ctx.fillStyle = rgb(0.95, 0.12, 0.08);
+      ctx.beginPath();
+      ctx.arc(px, py, rDot, 0, 2 * Math.PI);
+      ctx.fill();
+
+      ctx.fillStyle = rgb(1.0, 0.85, 0.85);
+      ctx.beginPath();
+      ctx.arc(px - 1.0, py - 1.0, rDot * 0.35, 0, 2 * Math.PI);
+      ctx.fill();
+
+      if (totalChocs <= 16 || isFirst || isCurrent) {
+        const ang = Math.atan2(py - cy, px - cx);
+        ctx.fillStyle = rgb(0.05, 0.18, 0.88);
+        ctx.fillText(String(k), cx + (radius + 13) * Math.cos(ang), cy + (radius + 13) * Math.sin(ang));
+      }
+    }
+  }
+
+  function render() {
+    const state = getStateAtTime(simTime);
+
+    ctx.fillStyle = "#ffffff";
+    ctx.fillRect(0, 0, WIDTH, HEIGHT);
+
+    drawBrickWall();
+    drawChannelBackAndFloor();
+    drawCubes(state);
+    drawChannelFrontRim();
+    drawHudAndPhaseCircle(state);
+
+    // Mise à jour de la barre d'état
+    scrubber.value = Math.round((simTime / tTotal) * 1000);
+    timeLabel.textContent = `t = ${simTime.toFixed(2)}`;
+    const vSign = state.V >= 0 ? "+" : "";
+    const vsSign = state.v >= 0 ? "+" : "";
+    velLabel.textContent = `V = ${vSign}${state.V.toFixed(3)}, v = ${vsSign}${state.v.toFixed(3)}`;
+  }
+
+  function loadMass(newM) {
+    M = Math.max(0.1, Math.min(1e8, newM));
+    events = simulateCollisions(M);
+    totalChocs = events[events.length - 1].choc;
+    tTotal = events[events.length - 1].t;
+    simTime = 0.0;
+    activeFlash = null;
+    presetBtns.forEach(btn => {
+      const bMass = parseFloat(btn.dataset.mass);
+      btn.classList.toggle("bg-blue-100", bMass === M);
+      btn.classList.toggle("dark:bg-blue-900/50", bMass === M);
+      btn.classList.toggle("border-blue-500", bMass === M);
+    });
+    render();
+  }
+
+  function tick(ts) {
+    if (lastFrameTs === null) lastFrameTs = ts;
+    const dtReal = Math.min(0.1, (ts - lastFrameTs) / 1000);
+    lastFrameTs = ts;
+
+    if (playing) {
+      const prevTime = simTime;
+      const simSpeed = (tTotal / DURATION_SEC) * speedMultiplier;
+      simTime += dtReal * simSpeed;
+      if (simTime >= tTotal) {
+        simTime = simTime % tTotal;
+      }
+
+      // Détecte si un choc s'est produit entre prevTime et simTime
+      const idxPrev = findEventIndexAtTime(prevTime);
+      const idxCurr = findEventIndexAtTime(simTime);
+      if (idxCurr > idxPrev && events[idxCurr].kind) {
+        const ev = events[idxCurr];
+        activeFlash = {
+          kind: ev.kind,
+          pos: ev.kind === "cubes" ? ev.x_M : X_WALL,
+          intensity: 1.0,
+        };
+      } else if (activeFlash) {
+        activeFlash.intensity = Math.max(0, activeFlash.intensity - dtReal * 8.0);
+      }
+
+      render();
+    }
+    requestAnimationFrame(tick);
+  }
+
+  // Événements UI
+  massInput.addEventListener("change", () => {
+    const val = parseFloat(massInput.value);
+    if (!isNaN(val) && val > 0) loadMass(val);
+  });
+  massInput.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") {
+      const val = parseFloat(massInput.value);
+      if (!isNaN(val) && val > 0) loadMass(val);
+    }
+  });
+
+  presetBtns.forEach(btn => {
+    btn.addEventListener("click", () => {
+      const val = parseFloat(btn.dataset.mass);
+      massInput.value = val;
+      loadMass(val);
+    });
+  });
+
+  playBtn.addEventListener("click", () => {
+    playing = !playing;
+    playBtn.textContent = playing ? "⏸ Pause" : "▶ Lecture";
+  });
+
+  resetBtn.addEventListener("click", () => {
+    simTime = 0.0;
+    activeFlash = null;
+    render();
+  });
+
+  prevBtn.addEventListener("click", () => {
+    playing = false;
+    playBtn.textContent = "▶ Lecture";
+    const state = getStateAtTime(simTime);
+    const targetIdx = Math.max(0, (simTime - events[state.eventIdx].t > 1e-4) ? state.eventIdx : state.eventIdx - 1);
+    const ev = events[targetIdx];
+    simTime = ev.t;
+    activeFlash = ev.kind ? { kind: ev.kind, pos: ev.kind === "cubes" ? ev.x_M : X_WALL, intensity: 1.0 } : null;
+    render();
+  });
+
+  nextBtn.addEventListener("click", () => {
+    playing = false;
+    playBtn.textContent = "▶ Lecture";
+    const state = getStateAtTime(simTime);
+    const targetIdx = Math.min(events.length - 1, state.eventIdx + 1);
+    const ev = events[targetIdx];
+    simTime = ev.t;
+    activeFlash = ev.kind ? { kind: ev.kind, pos: ev.kind === "cubes" ? ev.x_M : X_WALL, intensity: 1.0 } : null;
+    render();
+  });
+
+  speedSelect.addEventListener("change", () => {
+    speedMultiplier = parseFloat(speedSelect.value) || 1.0;
+  });
+
+  scrubber.addEventListener("input", () => {
+    playing = false;
+    playBtn.textContent = "▶ Lecture";
+    simTime = (parseFloat(scrubber.value) / 1000) * tTotal;
+    activeFlash = null;
+    render();
+  });
+
+  loadMass(M);
+  requestAnimationFrame(tick);
+})();
+</script>
+

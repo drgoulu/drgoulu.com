@@ -32,7 +32,9 @@ La suite OEIS [A331859](https://oeis.org/A331859) donne le nombre de chocs en fo
 
 et sous vos yeux émerveillés vous voyez apparaître une à une les décimales de Pi : pour M=100^n vous obtenez le n-ième terme de [A011545](https://oeis.org/A011545) \* !!!
 
-Incroyable, non ?
+Incroyable, non ? Testez vous-même avec la simulation interactive ci-dessous :
+
+{{< collisions_pi M="8" >}}
 
 ## Mais POURQUOI ???
 
