@@ -1,5 +1,13 @@
 fr:
   locale: fr-FR
   label: Français
+  weight: 1
   params:
     locale: fr-fr
+
+en:
+  locale: en-US
+  label: English
+  weight: 2
+  params:
+    locale: en-us

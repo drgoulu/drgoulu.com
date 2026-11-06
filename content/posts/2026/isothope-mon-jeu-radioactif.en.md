@@ -1,0 +1,70 @@
+---
+title: 'ISOThOPE, "my" radioactive game'
+date: 2026-11-06
+draft: true
+tags:
+  - game
+  - radioactivity
+  - vibe coding
+categories:
+  - comment
+slug: 'isothope-my-radioactive-game'
+coverImage: ''
+---
+
+It's an old idea I had while writing "[how to turn lead into gold](/2013/03/15/comment-transformer-le-plomb-en-or/)" and later [several](/2023/04/27/est-il-possible-de-modifier-le-nombre-de-protons-d-un-atome-si-oui-cela-est-il-possible-alors-de-transformer-le-plomb-en-or/) [answers](/2025/05/12/que-penser-des-physiciens-du-cern-qui-ont-reussi-a-transformer-du-plomb-en-or-malheureusement-pour-une-fraction-de-seconde-certes-mais-est-ce-une-avancee-spectaculaire/) [on](/2020/02/15/peut-on-fabriquer-de-l-or-en-laboratoire/) [Quora](/2020/09/02/peut-on-obtenir-de-l-or-numero-atomique-79-en-bombardant-deux-autres-elements-par-exemple-ba-56-avec-va-23/): creating a game based on the transmutation of isotopes.
+
+A good dose of vibe coding later, it's done! You can play [ISOThOPE on itch.io](https://uluog.itch.io/isothope) or [on GitHub](https://goulu.github.io/isotope/), where you can also find the [source code](https://github.com/goulu/isotope).
+
+## User Manual
+
+Welcome to **ISOThOPE**, the nuclear transmutation puzzle game built on real scientific data from the IAEA (NUBASE / LiveChart).
+
+### 🎯 1. Goal of the Game
+
+You control an atomic nucleus displayed at the center of the [**Segrè Chart**](w:Table_of_nuclides) (the nuclear physicist's periodic table):
+
+- The horizontal axis represents the **number of neutrons (`N`)**.
+- The vertical axis represents the **number of protons (`Z`)**, which defines the chemical element.
+
+In each level, you start from an **initial isotope** and must reach a **target isotope** (highlighted with a golden border on the grid) by smartly combining particle bombardments and natural radioactive decays.
+
+> **Tip:** Sometimes let nature do the work for you! A natural radioactive decay saves your precious particles.
+
+### ⚡ 2. Actions and Controls
+
+Use the buttons below the grid to bombard your nucleus before it decays:
+
+| Action | Effect on Nucleus | Grid Movement | PC Shortcut |
+| --- | --- | --- | --- |
+| **⚛ +n** (Neutron) | Adds 1 neutron (`N + 1`) | **➔ Right** (same element, heavier) | `N` or `→` |
+| **⚡ +e⁻** (Electron) | Electron capture (`Z - 1, N + 1`) | **↘ Bottom-right diagonal** | `E` or `↓` |
+| **🔴 +p** (Proton) | Adds 1 proton (`Z + 1`) | **↑ Up** (next element) | `P` or `↑` |
+| **Restart** | Resets the current level | Returns to start nucleus | `R` |
+
+### ☢️ 3. Stability and Radioactive Decays
+
+Each cell on the grid is colored according to the real physical behavior of the isotope:
+
+- **⬛ Black (Stable)**: The nucleus does not decay. The timer stops and you have unlimited time to think. *Warning: if you land on a stable isotope that is not your target and run out of particles, it's Game Over!*
+- **🟦 Blue (β⁻ — Beta minus)**: Neutron excess. A neutron turns into a proton (`Z + 1, N - 1` ➔ moves **↖ top-left diagonal**).
+- **🟧 Orange (β⁺ / ε — Beta plus or Electron capture)**: Proton excess. A proton turns into a neutron (`Z - 1, N + 1` ➔ moves **↘ bottom-right diagonal**).
+- **🟨 Yellow (α — Alpha)**: Heavy nucleus that ejects an alpha particle (`⁴He`) made of 2 protons and 2 neutrons (`Z - 2, N - 2` ➔ moves **↙ 2 cells down and 2 left**).
+- **🟥 Red (p — Proton emission)**: Extremely proton-rich nucleus that directly ejects 1 proton (`Z - 1` ➔ **↓ 1 cell down**).
+- **🟪 Purple (n — Neutron emission)**: Extremely neutron-rich nucleus that directly ejects 1 neutron (`N - 1` ➔ **← 1 cell left**).
+- **🟩 Green (SF — Spontaneous fission)**: The heavy nucleus splits apart spontaneously.
+
+### 🧭 4. Levels and Free Mode (Level 0)
+
+- **Level Briefing**: Click anywhere on the **level description bar** (located below the title bar) to open the scientific and historical briefing for the current mission.
+- **Level Selector**: Click the numbered button (e.g. `1/13`) on the left of the level bar to switch missions.
+- **Level 0 — Free Mode (Sandbox)**: Located at the very top of the level list, it gives you unlimited particles (`∞`) and lets you click directly on any cell in the grid or the `ISOThOPE` title banner to explore the chart of nuclides.
+
+### 📈 5. The Logarithmic Time Law
+
+In nature, isotope half-lives (`T½`) span from microseconds (`10⁻⁶ s`) to billions of years (`10¹⁷ s`). To compress these 23 orders of magnitude into a few seconds of gameplay while preserving the true stability hierarchy of every isotope, **ISOThOPE** uses a logarithmic law:
+
+`Game_Time = clamp(Base + Slope × log10(T½), Min, Max)`
+
+You can inspect the curve and customize the physical parameters in the game's **`?`** help menu.
+

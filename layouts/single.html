@@ -142,6 +142,15 @@
         </span>
         {{ end }}
 
+        {{ if .IsTranslated }}
+          <span class="mx-1">·</span>
+          {{ range .Translations }}
+            <a href="{{ .RelPermalink }}" class="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-primary-100 dark:bg-primary-900/40 text-primary-700 dark:text-primary-300 hover:underline font-medium text-xs">
+              {{ if eq .Language.Lang "en" }}🇬🇧 Read in English{{ else if eq .Language.Lang "fr" }}🇫🇷 Lire en français{{ else }}{{ .Language.LanguageName }}{{ end }}
+            </a>
+          {{ end }}
+        {{ end }}
+
         {{/* Bouton Éditer dans Sveltia / Decap CMS si connecté */}}
         {{ partial "headless-cms/edit-button.html" (dict "page" . "class" "ml-2") }}
         </div>

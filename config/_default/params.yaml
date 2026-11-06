@@ -26,9 +26,10 @@ hugoblox:
     align: center
     search: true
     theme_toggle: true
+    language_switcher: true
   footer:
     style: minimal
-    language_switcher: false
+    language_switcher: true
   copyright:
     notice: '© {year} Ph. Guglielmetti, contenu disponible sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)'
   content:
