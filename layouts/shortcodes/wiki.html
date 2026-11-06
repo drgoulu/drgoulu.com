@@ -1,11 +1,11 @@
 {{/* Hugo shortcode for Wikipedia links: {{< wiki "article" [lang] [text] >}} or {{< wiki "lang|article|text" >}} */}}
-{{- $lang := "fr" -}}
+{{- $lang := .Page.Language.Lang | default "fr" -}}
 {{- $article := "" -}}
 {{- $text := "" -}}
 
 {{- if .IsNamedParams -}}
   {{- $article = .Get "article" | default (.Get "title") | default (.Get "page") -}}
-  {{- $lang = .Get "lang" | default "fr" -}}
+  {{- $lang = .Get "lang" | default (.Page.Language.Lang | default "fr") -}}
   {{- $text = .Get "text" | default $article -}}
 {{- else -}}
   {{- $arg0 := .Get 0 | default "" -}}
