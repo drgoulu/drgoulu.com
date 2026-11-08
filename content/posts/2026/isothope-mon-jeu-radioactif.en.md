@@ -24,7 +24,7 @@ Even the title! When I asked Gemini to create the title "Isotope" using tiles re
 
 {{< figure align="aligncenter" src="./images/isothope%20game.png" >}}
 
-[The manual](https://github.com/goulu/isotope/blob/master/src/i18n/manual/en.md) is also AI's work, and it completely blows me away because it aggregates several of the "prompts" I used during development, genuinely giving the impression of "understanding" the game. Gemini even went so far as finding out that my "isotope map" is called a [Segrè chart](w:Table_of_nuclides), which I didn't know.
+[The manual](https://goulu.github.io/isotope/manual/en.html) is also AI's work, and it completely blows me away because it aggregates several of the "prompts" I used during development, genuinely giving the impression of "understanding" the game. Gemini even went so far as finding out that my "isotope map" is called a [Segrè chart](w:Table_of_nuclides), which I didn't know.
 
 ## The Data
 
@@ -36,7 +36,7 @@ The AI found a digital version of this chart "all by itself" as well as how to i
 
 ## The Levels
 
-I also asked the AI to craft gameplay levels with progressive difficulty, and it churned out about twenty of them, with detailed descriptions:
+I also asked the AI to craft gameplay levels with progressive difficulty, and it churned out about twenty of them, with [detailed descriptions](https://goulu.github.io/isotope/levels/en.html):
 
 - **Tutorial 1: Electron Capture**: The Tellurium-123 atom (Te-123) is a special case of a stable isobar. Add an electron (Right Click or Down Arrow) to transmute a proton into a neutron. You will instantly obtain stable Antimony!
 - **Tutorial 2: Beta- Radioactivity**: Oxygen-18 is stable. Add a neutron (Left Click, Space, or Right Arrow) to turn it into Oxygen-19. It will become unstable and spontaneously decay (Beta-) into Fluorine-19!
@@ -45,17 +45,15 @@ _(note the scientific reference [1] that the AI found "all by itself", though pe
 
 etc. all the way to:
 
-- **Level 13: The Great Neon Race**: Neon-22 is stable. Add a neutron (⚛), then very rapidly fire two more neutrons (⚛, ⚛) and two electrons (⚡, ⚡) without waiting for intermediate isotopes to decay. You will reach unstable Oxygen-25, which will undergo a spectacular decay cascade all the way to stable Magnesium-24!
+- **Level 23: The Ultimate Alchemy**: The pinnacle of nuclear physics: 86 fatal traps! Starting from Rhenium-185, deploy all 3 particle types (1⚛, 1⚡, 2🔺) in flawless sequence. Neutron first, wait through the Osmium ➔ Tungsten cascade, inject both protons toward Osmium-184, let the Alpha cascade descend onto Tungsten-180, and finally capture the electron to stabilize into Hafnium-180!
 
 ## Gameplay and Difficulty
 
-It's up to you to let me know what you think, but I find the game fun, educational, yet easy. Perhaps too easy. In fact, in the initial 13 puzzles, the order in which you fire particles barely matters, if at all. Nor does the timing of particle shots, so you almost always reach the goal no matter what you do.
+It's up to you to let me know in the comments what you think, but I find the game fun, educational, yet too easy at first. In fact, in the initial 13 puzzles, the order in which you fire particles barely matters, if at all. Nor does the timing of particle shots, so you almost always reach the goal no matter what you do.
 
 The reason is that each level takes a short detour into the "pink" area of the chart or into the "blue" area, meaning nature always triggers an identical chain of β⁻ or β⁺ decays; the added neutrons or electrons also cause the exact same shift regardless of the order in which they are absorbed.
 
-In short, I will ask the AI to generate more intricate puzzles using multiple decay modes, especially $\alpha$ which should make things more interesting...
-
-But that probably means significantly expanding the table of supported isotopes, and thus the game's footprint, so I'll need to find a trick to keep it lightweight and fast...
+I therefore asked the AI to generate ten more complex puzzles using multiple decay modes, notably $\alpha$ which makes it much more difficult, but still a bit slow. I'll need to tune it a bit...
 
 ### Logarithmic Time
 

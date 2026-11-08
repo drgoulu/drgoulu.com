@@ -24,7 +24,7 @@ Même le titre ! Quand j'ai dit à Gemini de créer le titre "Isotope" avec des 
 
 {{< figure align="aligncenter" src="./images/isothope%20game.png" >}}
 
-[Le manuel](https://github.com/goulu/isotope/blob/master/src/i18n/manual/fr.md) est aussi l'oeuvre de l'IA, et il me scie littéralement car il agrège plusieurs de mes "prompts" utilisés dans le développement en donnant vraiment l'impression de "comprendre" le jeu. Gemini a été jusqu'à trouver que ma "carte des isotopes" s'appelle un [carte de Segrè](w:Carte_des_nucléides) , ce que j'ignorais.
+[Le manuel](https://goulu.github.io/isotope/manual/fr.html) est aussi l'oeuvre de l'IA, et il me scie littéralement car il agrège plusieurs de mes "prompts" utilisés dans le développement en donnant vraiment l'impression de "comprendre" le jeu. Gemini a été jusqu'à trouver que ma "carte des isotopes" s'appelle un [carte de Segrè](w:Carte_des_nucléides) , ce que j'ignorais.
 
 ## Les données
 
@@ -36,7 +36,7 @@ L'IA a trouvé "toute seule" une version digitale de cette carte et la façon de
 
 ## Les niveaux
 
-J'ai aussi demandé à l'IA de fabriquer des niveaux de jeu de difficulté progressive et elle m'en a pondu une vingtaine, avec description détaillée
+J'ai aussi demandé à l'IA de fabriquer des niveaux de jeu de difficulté progressive et elle m'en a pondu une vingtaine, avec [description détaillée](https://goulu.github.io/isotope/levels/)
 
 - **Tutoriel 1 : Capture Électronique** : L'atome de Tellure 123 (Te-123) est un cas particulier d'isobare stable. Ajoutez-lui un électron (Clic Droit ou Flèche Bas) pour transmuter un proton en neutron. Vous obtiendrez instantanément de l'Antimoine stable !
 - **Tutoriel 2 : Radioactivité Beta-** : L'Oxygène 18 est stable. Ajoutez-lui un neutron (Clic Gauche, Espace ou Flèche Droite) pour le transformer en Oxygène 19. Il deviendra instable et se désintégrera tout seul (Beta-) vers cet élément !
@@ -45,17 +45,15 @@ _(notez la référence scientifique [1] que l'IA a trouvée "toute seule", mais 
 
 etc. jusqu'à
 
-- **Niveau 13 : La grande course du Néon** : Le Néon 22 est stable. Ajoutez un neutron (⚛), puis tirez de manière extrêmement rapide deux autres neutrons (⚛, ⚛) et enfin deux électrons (⚡, ⚡) sans attendre que les isotopes intermédiaires ne se désintègrent. Vous atteindrez l'Oxygène 25 instable, qui subira une cascade de désintégrations spectaculaire jusqu'au Magnésium 24 stable !
+- **Niveau 23 : L'Alchimie ultime'** : Le sommet de la physique nucléaire : 86 pièges mortels ! À partir du Rhénium 185, utilisez les 3 types de particules (1⚛, 1⚡, 2🔺) dans l'ordre parfait. Neutre d'abord, attendez la cascade Osmium ➔ Tungstène, injectez les deux protons vers l'Osmium 184, laissez la cascade Alpha descendre sur le Tungstène 180, et capturez enfin l'électron pour vous stabiliser en Hafnium 180 !
 
 ## Jouabilité et difficulté
 
-vous de me dire ce que vous en pensez, mais je trouve le jeu sympa, didactique, mais facile. Voire trop facile. En fait dans les 13 tableaux initiaux, l'ordre dans lequel on tire les particules n'a que peu d'importance voire pas du tout. Et le moment où on tire des particules non plus, donc on arrive presque chaque fois au résultat quoi qu'on fasse.
+A vous de me dire dans les commentaires ce que vous en pensez, mais je trouve le jeu sympa, didactique, mais trop facile au début. En fait dans les 13 tableaux initiaux, l'ordre dans lequel on tire les particules n'a que peu d'importance voire pas du tout. Et le moment où on tire des particules non plus, donc on arrive presque chaque fois au résultat quoi qu'on fasse.
 
 La raison est que chaque niveau fait une petite excursion dans la zone "rose" du tableau ou dans la zone "bleue" , donc que la nature produit une chaîne de désintégrations β⁻ ou β⁺ toujours identique, les neutrons ou électrons ajoutés produisant eux-aussi le même décalage quelque soit l'ordre où ils sont absorbés.
 
-Bref, je vais demander à l'IA de me générer des tableaux plus complexes en utilisant plusieurs modes de désintégration, notamment $\alpha$ qui doit rendre ça plus intéressant...
-
-Mais ça implique probablement d'agrandir notablement la table des isotopes supportés, donc la taille du jeu, donc va falloir que je trouve une combine pour que ça reste petit et rapide ...
+J'ai donc demané à l'IA de générer dix tableaux plus complexes en utilisant plusieurs modes de désintégration, notamment $\alpha$ qui rend ça beaucoup plus difficile, mais encore un peu lent. Il va falloir que je tune un peu ....
 
 ### Le temps logarithmique
 
