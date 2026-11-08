@@ -16,6 +16,8 @@ Urs Würgler, ancien recteur de l'Université de Berne et ou mathématicien est
 
 ![formuleurs](./images/formuleurs.png)
 
+![](images/urs-wurgler.jpg)
+
 Mais comme elle ne savait pas ce que ça signifie, j'ai été appelé à la rescousse par maman interposée. Ce fut l'occasion d'une intéressante plongée, ou plutôt ascension dans l'abstraction mathématique.
 
 Au début je me suis dit qu'un problème de [LaTeX](w:) avait transformé un symbole bizarre en tofu\*\*, mais même sans ça cette formule ne ressemble pas du tout à une équation d'ingénieur.
