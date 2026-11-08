@@ -24,7 +24,7 @@ Même le titre ! Quand j'ai dit à Gemini de créer le titre "Isotope" avec des 
 
 {{< figure align="aligncenter" src="./images/isothope%20game.png" >}}
 
-Même le manuel (ci-dessous) est l'oeuvre de l'IA, et il me scie littéralement car il agrège plusieurs de mes "prompts" utilisés dans le développement en donnant vraiment l'impression de "comprendre" le jeu. Gemini a été jusqu'à trouver que ma "carte des isotopes" s'appelle un [carte de Segrè](w:Carte_des_nucléides) , ce que j'ignorais.
+[Le manuel](https://github.com/goulu/isotope/blob/master/src/i18n/manual/fr.md) est aussi l'oeuvre de l'IA, et il me scie littéralement car il agrège plusieurs de mes "prompts" utilisés dans le développement en donnant vraiment l'impression de "comprendre" le jeu. Gemini a été jusqu'à trouver que ma "carte des isotopes" s'appelle un [carte de Segrè](w:Carte_des_nucléides) , ce que j'ignorais.
 
 ## Les données
 
@@ -80,50 +80,6 @@ Mon but n'est pas de faire fortune (le jeu est gratuit) mais de voir ce que ça 
 Pour que le jeu soit intéressant pour un large public, il est traduit en anglais, espagnol et chinois, par un [script translate.ts](https://github.com/goulu/isotope/blob/master/scripts/translate.ts) généré par IA, et utilisant l'IA pour la traduction. (ok je vais ajouter l'allemand et l'italien dans la prochaine version...)
 
 Mais en y pensant, je me suis dit que cette page elle-même méritait d’être au moins en anglais... Donc qu'il faudrait que je passe mon site en multilingue... ce que Hugo supporte nativement... Donc voilà c'est fait aussi : drgoulu.com a désormais un certain nombre de pages traduites en anglais grâce à ISOThOPE !
-
-## Manuel
-
-Bienvenue dans **ISOThOPE**, le jeu de puzzle et de transmutation nucléaire basé sur les données scientifiques réelles de l'AIEA (NUBASE / LiveChart).
-
-### 🎯 1. But du jeu
-
-Vous contrôlez un noyau atomique représenté au centre de la [**carte de Segrè**](w:Carte_des_nucléides) (le tableau périodique des physiciens nucléaires) :
-
-- L'axe horizontal représente le nombre de neutrons (`N`).
-- L'axe vertical représente le nombre de protons (`Z`), qui définit l'élément chimique.
-
-Dans chaque niveau, vous partez d'un **isotope initial** et devez atteindre un **isotope cible** (repéré par un cadre doré sur la grille) en utilisant judicieusement vos particules et les désintégrations radioactives naturelles.
-
-> **Astuce :** Laissez parfois la nature travailler pour vous ! Une désintégration radioactive gratuite économise vos précieuses particules.
-
-### ⚡ 2. Actions et contrôles
-
-Utilisez les boutons situés sous la grille pour bombarder votre noyau avant qu'il ne se désintègre :
-
-| Action | Effet sur le noyau | Déplacement sur la grille | Raccourci PC |
-| --- | --- | --- | --- |
-| **⚛ +n** (Neutron) | Ajoute 1 neutron (`N + 1`) | **➔ Droite** (même élément, plus lourd) | `N` ou `→` |
-| **⚡ +e⁻** (Électron) | Capture électronique (`Z - 1, N + 1`) | **↘ Diagonale bas-droite** | `E` ou `↓` |
-| **🔴 +p** (Proton) | Ajoute 1 proton (`Z + 1`) | **↑ Haut** (élément suivant) | `P` ou `↑` |
-| **Recommencer** | Réinitialise le niveau en cours | Retour au noyau de départ | `R` |
-
-### ☢️ 3. Stabilité et désintégrations radioactives
-
-Chaque case de la grille est colorée selon le comportement physique réel de l'isotope :
-
-- **⬛ Noir (Stable)** : Le noyau ne se désintègre pas. Le chronomètre s'arrête et vous avez tout le temps de réfléchir. _Attention : si vous atterrissez sur un isotope stable qui n'est pas la cible et que vous n'avez plus de particules, la partie est perdue !_
-- **🟦 Bleu (β⁻ — Bêta moins)** : Excès de neutrons. Un neutron se transforme en proton (`Z + 1, N - 1` ➔ déplacement en **↖ diagonale haut-gauche**).
-- **🟧 Orange (β⁺ / ε — Bêta plus ou Capture électronique)** : Excès de protons. Un proton se transforme en neutron (`Z - 1, N + 1` ➔ déplacement en **↘ diagonale bas-droite**).
-- **🟨 Jaune (α — Alpha)** : Noyau lourd qui éjecte une particule alpha (`⁴He`) composée de 2 protons et 2 neutrons (`Z - 2, N - 2` ➔ recul de **↙ 2 cases en bas à gauche**).
-- **🟥 Rouge (p — Émission de proton)** : Noyau extrêmement riche en protons qui éjecte directement 1 proton (`Z - 1` ➔ **↓ 1 case vers le bas**).
-- **🟪 Violet (n — Émission de neutron)** : Noyau extrêmement riche en neutrons qui éjecte directement 1 neutron (`N - 1` ➔ **← 1 case vers la gauche**).
-- **🟩 Vert (SF — Fission spontanée)** : Le noyau trop lourd se brise spontanément.
-
-### 🧭 4. Niveaux et Mode Libre (Niveau 0)
-
-- **Explications du niveau** : Cliquez n'importe où sur le **bloc de description du niveau** (situé sous la barre de titre) pour ouvrir le briefing scientifique et historique de la mission.
-- **Sélecteur de niveaux** : Cliquez sur le bouton numéroté (ex. `1/13`) à gauche du bloc de niveau pour changer de mission.
-- **Niveau 0 — Mode Libre (Sandbox)** : Accessible tout en haut de la liste des niveaux, il vous offre des particules illimitées (`∞`) et vous permet de cliquer directement sur n'importe quelle case de la grille ou de la bannière `ISOThOPE` pour explorer la carte des nucléides.
 
 ## Références
 
