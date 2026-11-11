@@ -1,36 +1,28 @@
 ---
 title: En quoi la mémoire humaine est supérieure à celle d'un ordinateur comme certains le disent souvent ?
-slug: en-quoi-la-memoire-humaine-est-superieure-a-celle-d-un-ordinateur-comme-certains-le-disent-souvent
-date: '2021-05-15'
+date: 2021-05-15
 draft: false
-categories:
-- Quora
 tags:
-- sciences
-- informatique
-- comparaisons
-- intelligence-artificielle
-- psychologie-cognitive
+  - sciences
+  - informatique
+  - comparaisons
+  - intelligence-artificielle
+  - psychologie-cognitive
+categories:
+  - Quora
+slug: en-quoi-la-memoire-humaine-est-superieure-a-celle-d-un-ordinateur-comme-certains-le-disent-souvent
 coverImage: ./images/quora.png
 ---
 
-*Réponse publiée [sur Quora](https://fr.quora.com/En-quoi-la-m%C3%A9moire-humaine-est-sup%C3%A9rieure-%C3%A0-celle-dun-ordinateur-comme-certains-le-disent-souvent/answer/Dr-Goulu)*
+_Réponse publiée_ [_sur Quora_](https://fr.quora.com/En-quoi-la-m%C3%A9moire-humaine-est-sup%C3%A9rieure-%C3%A0-celle-dun-ordinateur-comme-certains-le-disent-souvent/answer/Dr-Goulu)
 
 Elles sont surtout très différentes, mais on estime qu'il faudrait environ 100 Petabytes de mémoire informatique pour simuler un cerveau humain.
 
-C'est donc effectivement nettement plus qu'un ordinateur de bureau, mais les super ordinateurs les plus puissants se rapprochent, lentement mais sûrement, de cette puissance
+C'est donc effectivement nettement plus qu'un ordinateur de bureau, mais les super ordinateurs les plus puissants se rapprochent, lentement mais sûrement, de cette puissance ( voir )[Combien de processeurs pour un cerveau](/2013/03/11/combien-de-processeurs-pour-un-cerveau/)
 
-[https://www.drgoulu.com/2013/03/...](/2013/03/11/combien-de-processeurs-pour-un-cerveau/)
+Ce n'est pas tellement le fait que les mémoires informatiques soient binaires qui les différencient de la mémoire "analogique" humaine. C'est plutôt que les mémoires informatiques sont "addressable" alors que la mémoire humaine semble surtout "associative".
 
-Ce n'est pas tellement le fait que les mémoires informatiques soient bindaaires qui les différencient de la mémoire "analogique" humaine. C'est plutôt que les mémoires informatiques sont "addressable" alors que la mémoire humaine semble surtout "associative".
-
-En informatique, il faut savoir où est stockée l'information (= son adresse) pour la retrouver. Sinon la retrouver en cherchant l adresse est très lent. Et ensuite on a des inform
-
-ations super preciseonos, par exemple une fois qu'on a
-
-[Arbre](w:Arbre)
-
-On peut retrouver toutes les espèces d'arbres, leur nom en latin, des photos de leurs feuilles etc.
+En informatique, il faut savoir où est stockée l'information (= son adresse) pour la retrouver. Sinon la retrouver en cherchant l adresse est très lent. Et ensuite on a des informations super précises, par exemple une fois qu'on a "[Arbre](w:Arbre)", on peut retrouver toutes les espèces d'arbres, leur nom en latin, des photos de leurs feuilles etc.
 
 Dans notre cerveau, il n y a pas de neurones qui stockent spécifiquement les informations sur les arbres. Quand on pense à "arbre" on a plein de souvenirs disparates qui nous reviennent, y compris notre arbre généalogique et l'arbre où on avait construit une cabane, et celui qui s'est fait foudroyer à 100m de moi une fois en montagne et le sapin de Noël et et et… ça n'arrête plus.
 
