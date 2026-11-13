@@ -1,20 +1,29 @@
 ---
-title: "Les Ponts d’Umberto Guglielmetti"
-slug: "umberto-guglielmetti"
+title: Les Ponts d’Umberto Guglielmetti (1935-2026)
 date: 2005-07-03
+draft: false
+tags:
+  - architecture
+  - art
+  - genie-civil
+  - suisse
 categories:
-  - "Comment"
-tags: 
-  - "architecture"
-  - "art"
-  - "genie-civil"
-  - "suisse"
-coverImage: "./images/2692da54ad813a699d5c8e938890f97e.jpg"
+  - Comment
+slug: umberto-guglielmetti
+coverImage: ./images/2692da54ad813a699d5c8e938890f97e.jpg
 ---
 
 Cette page est réalisée à partir de documents que mon papa Umberto m’a demandé de transmettre à un jeune garçon de 12 ans déjà passionné par le Génie Civil. Comme je n’avais pas ces documents moi même, je les ai digitalisés pour les conserver et je les publie ici pour susciter éventuellement d’autres vocations.
 
-### Pont sur le Talent
+## Pont sur l'Eau Noire
+
+- 196x
+- Pont sur l'Eau-Noire (vallée du Trient) entre Le Châtelard et Finhaut
+- Premier pont à arche courbe (car il ne savait pas que c'était impossible...)
+
+![](./images/pont%20eau%20noire.png)
+
+## Pont sur le Talent
 
 - 1977-1979
 - Pont sur le Talent de l’autoroute N1 Lausanne-Yverdon à Chavornay
@@ -36,7 +45,7 @@ Cette page est réalisée à partir de documents que mon papa Umberto m’a dema
     - Carroz & Küng ing., Payerne
 - Coût : CHF 6’552’000.-
 
-### Route transversale Charrat-Fully
+## Route transversale Charrat-Fully
 
 - 1977-1978
 - Pont sur l’Autoroute N9
@@ -53,7 +62,7 @@ Cette page est réalisée à partir de documents que mon papa Umberto m’a dema
 
 - [Fiche Bureau Gianadda & Guglielmetti avec photo et plan](https://drgoulu.files.wordpress.com/2007/03/n9charrat.pdf "Fiche Bureau Gianadda & Guglielmetti avec photo et plan")
 
-### Viaduc du chemin de fer aux Trapistes
+## Viaduc du chemin de fer aux Trapistes
 
 - 1977
 - Pont du chemin de fer Martigny-Orsières sur la Dranse et la route A114 dans la région des Trapistes
@@ -67,9 +76,11 @@ Cette page est réalisée à partir de documents que mon papa Umberto m’a dema
 - Fondations superficielles
 - Coût : CHF 802’000.-
 
-### Ponts de Riddes
+## Ponts de Riddes
 
 Cet ouvrage se situe à Riddes, à mi-chemin de Martigny et de Sion. Il s'agit de deux ponts identiques et parallèles, décalés de 21.30 m du fait de la traversée en biais du lit du fleuve. La longeur totale de chaque ouvrage est de 253 m, dont 143 m pour la travée centrale. L'orignalité du projet tient au fait qu'il s'agit d'une ''structure renversée''. Cette disposition ''en auge'' offre les avantages suivants: la chaussée est le plus bas possible et n'entraîne donc pas de surélévation de de l'autoroute et les poutres latérales constituent des écrans antibruit
+
+![](./images/IMG_0017.jpg)
 
 [![](./images/faa2c859c7487c52a86c95304c14287c.jpg)](http://www.flickr.com/photos/goulu/4035603782/in/set-72157622641152052)
 
@@ -98,7 +109,7 @@ Cet ouvrage se situe à Riddes, à mi-chemin de Martigny et de Sion. Il s'agit d
 - [fiche entreprise Evequoz](https://web.archive.org/web/20150404094631/http://www.evequoz.ch/_assets/000/050/005/686/a1734071de764362824c59995ed3a373.pdf)
 - [fiche Structurae](https://web.archive.org/web/20150403003931/http://structurae.info/ouvrages/pont-de-riddes)
 
-### Viaducs "Bois-Homogène"
+## Viaducs "Bois-Homogène"
 
 - 1987-1988
 - Double viaduc de l’autoroute N9 près de St.Maurice, par dessus le terrain de l’entreprise "Bois-Homogene"
@@ -113,7 +124,7 @@ Cet ouvrage se situe à Riddes, à mi-chemin de Martigny et de Sion. Il s'agit d
 - Réalisation en collaboration avec le bureau ATIB SA, Martigny
 - Coût : CHF 4’500’000.-
 
-### Nouveau pont du Gueuroz
+## Nouveau pont du Gueuroz
 
 - 1993-1994
 - Pont route mixte sur les gorges du Trient en remplacement du pont existant sur la route 102 Martigny-Salvan
@@ -138,7 +149,7 @@ Cet ouvrage se situe à Riddes, à mi-chemin de Martigny et de Sion. Il s'agit d
 - ["Le pont neuf des gorges du Trient", François Besson, Journal de la Construction No14, décembre 1993, pages 23-27](http://drgoulu.files.wordpress.com/2007/03/gueroz-art1.pdf)
 - ["La restauration du pont routier de Gueuroz sur la gorge du Trient", Jacques Gubler, Ingénieurs et architectes suisses No 7 mars 1991, pages 64 à 71](http://drgoulu.files.wordpress.com/2007/03/gueroz-art2.pdf)
 
-### Passerelle piétons à Granges
+## Passerelle piétons à Granges
 
 - 1995
 
