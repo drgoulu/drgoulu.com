@@ -10,7 +10,7 @@ tags:
 categories:
   - Comment
 slug: umberto-guglielmetti
-coverImage: ./images/IMG_0016.jpg
+coverImage: ./images/pont de Riddes.jpeg
 ---
 
 Cette page est réalisée à partir de documents que mon papa Umberto m’a demandé de transmettre à un jeune garçon de 12 ans déjà passionné par le Génie Civil. Comme je n’avais pas ces documents moi même, je les ai digitalisés pour les conserver et je les publie ici pour susciter éventuellement d’autres vocations.
