@@ -158,3 +158,7 @@ Cet ouvrage se situe à Riddes, à mi-chemin de Martigny et de Sion. Il s'agit d
 #### Documents
 
 - [Passerelle piétons à la gare de Granges Article d’Umberto Guglielmetti, "strasse und verkehr" Nr 12, décembre 1996, pages 637-640 + plan général](http://drgoulu.files.wordpress.com/2007/03/passgranges.pdf)
+
+## Références
+
+1. [Archives de la Construction Moderne Morphé-EPFL Collection 0155 - GUGLIELMETTI Umberto](https://morphe.epfl.ch/index.php/fonds-0155)
