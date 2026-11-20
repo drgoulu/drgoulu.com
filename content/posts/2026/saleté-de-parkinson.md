@@ -1,7 +1,7 @@
 ---
 title: Saleté de Parkinson
 date: 2026-11-14
-draft: false
+draft: true
 tags:
   - maladie
   - biologie
